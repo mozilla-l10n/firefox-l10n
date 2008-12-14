@@ -1,0 +1,16 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS Áskrifendur">
+<!ENTITY subscriptionDesc.label "Athugið: Fjarlægja eða breyta á möppu fyrir straum mun ekki hafa áhrif á áður niðurhalaðar greinar.">
+<!ENTITY feedTitle.label "Titill:">
+<!ENTITY location.label "Staðsetning:">
+<!ENTITY button.addFeed.label "Bæta við">
+<!ENTITY button.addFeed.accesskey "æ">
+<!ENTITY button.editFeed.label "Breyta">
+<!ENTITY button.editFeed.accesskey "B">
+<!ENTITY button.removeFeed.label "Fjarlægja">
+<!ENTITY button.removeFeed.accesskey "F">
+<!ENTITY button.importOPML.label "Flytja inn">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Flytja út">
+<!ENTITY button.exportOPML.accesskey "t">
+<!ENTITY cmd.close.commandKey "w">

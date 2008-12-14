@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Stillingar">
+<!ENTITY security.caption "Öryggi og Auðkenni">
+<!ENTITY serverName.label "Nafn þjóns:">
+<!ENTITY serverName.accesskey "N">
+<!ENTITY serverDescription.label "Lýsing:">
+<!ENTITY serverDescription.accesskey "L">
+<!ENTITY serverPort.label "Gátt:">
+<!ENTITY serverPort.accesskey "G">
+<!ENTITY alwaysUseUsername.label "Notandanafn og lykilorð">
+<!ENTITY alwaysUseUsername.accesskey "N">
+<!ENTITY userName.label "Notandanafn:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY useSecAuth.label "Nota öruggt auðkenni">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY isSecure.label "Nota örugga tengingu:">
+<!ENTITY neverSecure.label "Nei">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, ef tiltækt">
+<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-yfir-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP þjónn">
+<!ENTITY serverPortDefault.label "Sjálfgefið:">

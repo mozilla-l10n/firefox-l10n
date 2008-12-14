@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label "Sjálfgefnar kerfistillingar">
+<!ENTITY alwaysCheckDefault.label "Alltaf athuga hvort &brandShortName; sé sjálfgefið póstforrit í ræsingu">
+<!ENTITY alwaysCheckDefault.accesskey "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Athuga núna">
+<!ENTITY checkNow.accesskey "N">
+<!ENTITY messengerStartPage.label "&brandShortName; Ræsisíða">
+<!ENTITY enableStartPage.label "Þegar &brandShortName; ræsir, sýna ræsisíðu í póst svæði">
+<!ENTITY enableStartPage.accesskey "Þ">
+<!ENTITY location.label "Staðsetning:">
+<!ENTITY location1.accesskey "S">
+<!ENTITY useDefault.label "Endurheimta sjálfgildi">
+<!ENTITY useDefault.accesskey "E">
+<!ENTITY bounceSystemDockIcon.label "Nota hreyfimynd í tilkynningasvæði">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY newMessagesArrive.label "Þegar nýr póstur kemur:">
+<!ENTITY playSound.label "Spila hljóð">
+<!ENTITY playSound1.accesskey "h">
+<!ENTITY showAnimatedAlert.label "Sýna glugga">
+<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY customizeMailAlert.label "Sérsníða…">
+<!ENTITY customizeMailAlert.accesskey "S">
+<!ENTITY play.label "Spila">
+<!ENTITY play.accesskey "S">
+<!ENTITY systemsound.label "Sjálfgefið hljóð fyrir nýjan póst">
+<!ENTITY systemsoundMac.label "Kerfisviðvörunarhljóð">
+<!ENTITY systemsoundMac.accesskey "K">
+<!ENTITY systemsound.accesskey "y">
+<!ENTITY customsound.label "Nota hljóðskrá">
+<!ENTITY customsound.accesskey "N">
+<!ENTITY browse.label "Fletta…">
+<!ENTITY browse.accesskey "F">
+<!ENTITY addonsMgr.label "Viðbætur">
+<!ENTITY manageAddonsDescWin.label "Breyta stillingum fyrir viðbætur">
+<!ENTITY manageAddonsDescUnix2.label "Breyta stillingum fyrir viðbætur">
+<!ENTITY manageAddons.label "Stjórna viðbótum…">
+<!ENTITY manageAddons.accesskey "M">

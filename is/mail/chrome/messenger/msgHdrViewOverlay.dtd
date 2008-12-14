@@ -1,0 +1,85 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY toField2.label "til ">
+<!ENTITY fromField2.label "frá ">
+<!ENTITY senderField2.label "sendandi ">
+<!ENTITY organizationField2.label "fyrirtæki ">
+<!ENTITY replyToField2.label "svar við ">
+<!ENTITY subjectField2.label "efni ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "dulið afrit (bcc) ">
+<!ENTITY newsgroupsField2.label "fréttahópar ">
+<!ENTITY followupToField2.label "eftirfylgni-við ">
+<!ENTITY tagsHdr2.label "tög ">
+<!ENTITY dateField2.label "dagsetning ">
+<!ENTITY userAgentField2.label "kennistrengur forrits ">
+<!ENTITY referencesField2.label "tilvitnanir ">
+<!ENTITY messageIdField2.label "skeytis-auðkenni ">
+<!ENTITY inReplyToField2.label "svar-við ">
+<!ENTITY originalWebsite2.label "vefsvæði ">
+<!ENTITY editMessageDescription.label "Þetta eru tölvupóstsdrög">
+<!ENTITY editMessageButton.label "Breyta…">
+<!ENTITY replyButton.label "svara…">
+<!ENTITY forwardButton.label "áframsenda…">
+<!ENTITY junkButton.label "merkja sem ruslpóst">
+<!ENTITY trashButton.tooltiptext "eyða">
+<!ENTITY otherActionsButton.label "aðrar aðgerðir">
+<!ENTITY saveAsMenuItem.label "vista sem…">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "sýna frumkóða…">
+<!ENTITY viewSourceMenuItem.accesskey "s">
+<!ENTITY hideDetailsButton.label "fela ítarefni">
+<!ENTITY showDetailsButton.label "sýna ítarefni">
+<!ENTITY openAttachmentCmd.label "Opna">
+<!ENTITY openAttachmentCmd.accesskey "O">
+<!ENTITY saveAsAttachmentCmd.label "Vista sem…">
+<!ENTITY saveAsAttachmentCmd.accesskey "e">
+<!ENTITY detachAttachmentCmd.label "Aftengja…">
+<!ENTITY deleteAttachmentCmd.label "Eyða">
+<!ENTITY saveAllAttachmentsCmd.label "Vista öll…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "a">
+<!ENTITY detachAllAttachmentsCmd.label "Aftengja öll…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "A">
+<!ENTITY deleteAllAttachmentsCmd.label "Eyða öllum…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!ENTITY copyLinkCmd.label "Afrita tengil">
+<!ENTITY copyLinkCmd.accesskey "A">
+<!ENTITY CopyMessageId.label "Afrita Skeytis-Auðkenni">
+<!ENTITY OpenMessageForMsgId.label "Opna póst fyrir ákveðið auðkenni">
+<!ENTITY OpenBrowserWithMsgId.label "Opna vafra með Skeytis-Auðkenni">

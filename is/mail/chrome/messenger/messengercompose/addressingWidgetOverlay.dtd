@@ -1,0 +1,15 @@
+<!-- address labels -->
+<!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
+<!ENTITY toAddr.label "Til:">
+ 
+<!ENTITY ccAddr.label "Afrit (Cc):">
+ 
+<!ENTITY bccAddr.label "Dulið afrit (Bcc):">
+ 
+<!ENTITY replyAddr.label "Svara á:">
+ 
+<!ENTITY newsgroupsAddr.label "Fréttahópur:">
+ 
+<!ENTITY followupAddr.label "Eftirfylgni:">
+ 
+

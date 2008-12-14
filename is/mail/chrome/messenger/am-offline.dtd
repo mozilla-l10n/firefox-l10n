@@ -1,0 +1,30 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Til að minnka diskpláss, ekki hlaða niður:">
+<!ENTITY doNotDownload.label "Til að minnka diskpláss, ekki hlaða niður fyrir ótengda notkun:">
+<!ENTITY allFoldersOffline.label "Geyma póst fyrir þennan reikning á þessari tölvu">
+<!ENTITY allFoldersOffline.accesskey "G">
+<!ENTITY offlineNotDownload.label "Póstar stærri en">
+<!ENTITY offlineNotDownload.accesskey "P">
+<!ENTITY kb.label "KB">
+<!ENTITY daysOld.label "daga gömlum">
+<!ENTITY message.label "póstum">
+<!ENTITY nntpNotDownloadRead.label "Lesa póst">
+<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpDownloadMsg.label "Póstar fleiri en">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti">
+<!ENTITY retentionKeepMsg.label "Eyða póstum eldri en">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Ekki eyða neinum póstum">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "Eyða öllum nema seinustu">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Alltaf eyða lesnum póstum">
+<!ENTITY retentionKeepUnread.accesskey "l">
+<!ENTITY nntpRemoveBody.label "Aðeins meginmál pósts sem er minni en">
+<!ENTITY nntpRemoveBody.accesskey "A">
+<!ENTITY offlineSelectNntp.label "Veldu fréttahópa fyrir ótengda notkun…">
+<!ENTITY offlineSelectNntp.accesskey "V">
+<!ENTITY offlineImapAdvancedOffline.label "Frekari stillingar…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Samstilla póst">
+<!ENTITY diskspaceGroupTitle.label "Diskpláss">

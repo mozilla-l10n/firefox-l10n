@@ -1,0 +1,44 @@
+<!ENTITY itemFormatting.label "Snið">
+<!ENTITY itemTags.label "Flokkar">
+<!ENTITY style.label "Stíll:">
+<!ENTITY style.accesskey "t">
+<!ENTITY regularStyle.label "Venjulegt">
+<!ENTITY bold.label "Feitletrað">
+<!ENTITY italic.label "Skáletrað">
+<!ENTITY boldItalic.label "Feit- og skáletrað">
+<!ENTITY size.label "Stærð:">
+<!ENTITY size.accesskey "s">
+<!ENTITY regularSize.label "Venjuleg">
+<!ENTITY bigger.label "Stærra">
+<!ENTITY smaller.label "Minna">
+<!ENTITY color.label "Litur:">
+<!ENTITY color.accesskey "L">
+<!ENTITY displayWidth.label "Ósniðinn textapóstar">
+<!ENTITY plainText.label "Nota eftirfarandi leturgerð:">
+<!ENTITY displayText.label "Þegar birtur er ósniðinn texti með tilvitnun:">
+<!ENTITY fixedWidth.label "Jafnbreitt letur">
+<!ENTITY fixedWidth.accesskey "J">
+<!ENTITY variableWidth.label "Breytileg stærð á leturgerð">
+<!ENTITY variableWidth.accesskey "B">
+<!ENTITY colors.label "Litir">
+<!ENTITY overrideColors.label "Við birtingu á póstum, nota eftirfarandi liti:">
+<!ENTITY textColor.label "Stilla lit texta:">
+<!ENTITY textColor.accesskey "T">
+<!ENTITY backgroundColor.label "Bakgrunnslitur:">
+<!ENTITY backgroundColor.accesskey "b">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label "Birta broskalla sem myndir">
+<!ENTITY convertEmoticons.accesskey "D">
+<!-- labels -->
+<!ENTITY displayTagsText.label "Hægt er að nota flokka til að flokka og forgangsraða póstum.">
+<!ENTITY addTagButton.label "Bæta við">
+<!ENTITY addTagButton.accesskey "B">
+<!ENTITY editTagButton.label "Breyta">
+<!ENTITY editTagButton.accesskey "r">
+<!ENTITY removeTagButton.label "Eyða">
+<!ENTITY removeTagButton.accesskey "E">
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label "Breyta leturgerð og stafasetti sem eru notuð í &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label "Leturgerð &amp; Stafatöflur">
+<!ENTITY fontOptions.accesskey "L">
+<!ENTITY fontOptions.label "Leturgerðir…">

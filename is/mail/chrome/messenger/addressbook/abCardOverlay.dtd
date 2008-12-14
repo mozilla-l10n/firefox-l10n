@@ -1,0 +1,151 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab "Tengiliður">
+<!ENTITY Contact.accesskey "T">
+<!ENTITY Name.box "Nafn">
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY NameField1.label "Fornafn:">
+<!ENTITY NameField1.accesskey "F">
+<!ENTITY NameField2.label "Eftirnafn:">
+<!ENTITY NameField2.accesskey "E">
+<!ENTITY PhoneticField1.label "Heyrist:">
+<!ENTITY PhoneticField2.label "Heyrist:">
+<!ENTITY DisplayName.label "Birtingarnafn:">
+<!ENTITY DisplayName.accesskey "B">
+<!ENTITY NickName.label "Gælunafn:">
+<!ENTITY NickName.accesskey "N">
+<!ENTITY PrimaryEmail.label "Tölvupóstfang:">
+<!ENTITY PrimaryEmail.accesskey "T">
+<!ENTITY SecondEmail.label "Auka tölvupóstfang:">
+<!ENTITY SecondEmail.accesskey "u">
+<!ENTITY PreferMailFormat.label "Kýs að taka á móti pósti með sniði:">
+<!ENTITY PreferMailFormat.accesskey "K">
+<!ENTITY PlainText.label "Ósniðinn texti">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Ekki vitað">
+<!ENTITY ScreenName.label "Skjánafn:">
+<!ENTITY ScreenName.accesskey "S">
+<!ENTITY allowRemoteContent.label "Leyfa fjarlægar myndir í HTML pósti.">
+<!ENTITY allowRemoteContent.accesskey "g">
+<!ENTITY allowRemoteContent.tooltip "Í HTML pósti er hægt að
+setja inn myndir frá fjarlægum svæðum á netinu. Ef þú opnar þannig póst mun opnast
+tenging á þetta fjarlæga svæði. Hægt er að nota þetta til að fylgjast með hvort
+pósturinn sé lesinn. Ef þú hakar við þennan kassa þá munu svona tengingar í fjarlægar
+myndir verða leyfilegar í HTML pósti fyrir þennan tengilið.">
+<!ENTITY WorkPhone.label "Vinnusími:">
+<!ENTITY WorkPhone.accesskey "V">
+<!ENTITY HomePhone.label "Heimasími:">
+<!ENTITY HomePhone.accesskey "H">
+<!ENTITY FaxNumber.label "Fax:">
+<!ENTITY FaxNumber.accesskey "x">
+<!ENTITY PagerNumber.label "Símboði:">
+<!ENTITY PagerNumber.accesskey "m">
+<!ENTITY CellularNumber.label "Farsími:">
+<!ENTITY CellularNumber.accesskey "F">
+<!ENTITY Home.tab "Heima">
+<!ENTITY Home.accesskey "H">
+<!ENTITY HomeAddress.label "Heimilisfang:">
+<!ENTITY HomeAddress.accesskey "H">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
+<!ENTITY HomeCity.label "Borg:">
+<!ENTITY HomeCity.accesskey "B">
+<!ENTITY HomeState.label "Fylki:">
+<!ENTITY HomeState.accesskey "F">
+<!ENTITY HomeZipCode.label "Póstnúmer:">
+<!ENTITY HomeZipCode.accesskey "P">
+<!ENTITY HomeCountry.label "Land:">
+<!ENTITY HomeCountry.accesskey "L">
+<!ENTITY HomeWebPage.label "Vefsíða:">
+<!ENTITY HomeWebPage.accesskey "e">
+<!ENTITY Birthday.label "Afmælisdagur:">
+<!ENTITY Birthday.accesskey "A">
+<!ENTITY In.label "">
+<!ENTITY Year.emptytext "Ár">
+<!ENTITY Or.value "Eða">
+<!ENTITY Age.emptytext "Aldur">
+<!ENTITY YearsOld.label "">
+<!ENTITY Work.tab "Vinna">
+<!ENTITY Work.accesskey "V">
+<!ENTITY JobTitle.label "Titill:">
+<!ENTITY JobTitle.accesskey "i">
+<!ENTITY Department.label "Deild:">
+<!ENTITY Department.accesskey "D">
+<!ENTITY Company.label "Fyrirtæki:">
+<!ENTITY Company.accesskey "F">
+<!ENTITY WorkAddress.label "Heimilisfang:">
+<!ENTITY WorkAddress.accesskey "A">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkCity.label "Borg:">
+<!ENTITY WorkCity.accesskey "B">
+<!ENTITY WorkState.label "Fylki:">
+<!ENTITY WorkState.accesskey "F">
+<!ENTITY WorkZipCode.label "Póstnúmer:">
+<!ENTITY WorkZipCode.accesskey "P">
+<!ENTITY WorkCountry.label "Land:">
+<!ENTITY WorkCountry.accesskey "L">
+<!ENTITY WorkWebPage.label "Vefsíða:">
+<!ENTITY WorkWebPage.accesskey "e">
+<!ENTITY Other.tab "Annað">
+<!ENTITY Other.accesskey "A">
+<!ENTITY Custom1.label "Auka 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Auka 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Auka 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Auka 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.label "Athugasemdir:">
+<!ENTITY Notes.accesskey "A">

@@ -1,0 +1,84 @@
+<!ENTITY itemGeneral.label "Almennt">
+<!ENTITY itemDisplay.label "Lesa &amp; Skoða">
+<!ENTITY itemUpdate.label "Uppfærslur">
+<!ENTITY itemNetworking.label "Netkerfi &amp; Diskpláss">
+<!ENTITY itemCertificates.label "Skilríki">
+<!-- General Settings -->
+
+<!ENTITY enableGloda.label "Virkja póstatriðaskrá">
+<!ENTITY enableGloda.accesskey "p">
+<!ENTITY showCondensedAddresses.label "Sýna aðeins birtingarnafn fyrir tengiliði í nafnabókinni">
+<!ENTITY showCondensedAddresses.accesskey "t">
+<!ENTITY autoMarkAsRead.label "Merkja sjálfvirkt póst sem lesinn">
+<!ENTITY autoMarkAsRead.accesskey "M">
+<!ENTITY markAsReadNoDelay.label "Strax við birtingu">
+<!ENTITY markAsReadNoDelay.accesskey "b">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label "Eftir birtingu í">
+<!ENTITY markAsReadDelay.accesskey "E">
+<!ENTITY secondsLabel.label "sekúndur">
+<!ENTITY openMsgIn.label "Opna póst í:">
+<!ENTITY reuseExpRadio0.label "Í nýjum glugga">
+<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio1.label "Í glugga sem er til fyrir">
+<!ENTITY reuseExpRadio1.accesskey "g">
+<!ENTITY configEditDesc.label "Ítarlegar stillingar">
+<!ENTITY configEdit.label "Stillinga ritill…">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "Skilgreina hvernig &brandShortName; meðhöndlar staðfestingu á móttöku pósts">
+<!ENTITY showReturnReceipts.label "Staðfesting á lestri…">
+<!ENTITY showReturnReceipts.accesskey "R">
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption "Lesa">
+<!ENTITY display.caption "Sýna">
+<!-- Update -->
+<!ENTITY autoCheck.label "Athuga sjálfvirkt uppfærslur fyrir:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "T">
+<!ENTITY enableAddonsUpdate.label "Uppsettar viðbætur">
+<!ENTITY enableAddonsUpdate.accesskey "U">
+<!ENTITY checkNow.label "Kanna núna…">
+<!ENTITY whenUpdatesFound.label "Þegar uppfærslur fyrir &brandShortName; finnast,">
+<!ENTITY modeAskMe.label "Spyrja hvað á að gera">
+<!ENTITY modeAskMe.accesskey "S">
+<!ENTITY modeAutomatic.label "Hlaða sjálfvirkt niður og setja uppfærsluna upp">
+<!ENTITY modeAutomatic.accesskey "H">
+<!ENTITY modeAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
+<!ENTITY modeAutoAddonWarn.accesskey "V">
+<!ENTITY showUpdates.label "Sýna uppfærslusögu">
+<!ENTITY showUpdates.accesskey "u">
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label "Stillingar…">
+<!ENTITY showSettings.accesskey "n">
+<!ENTITY proxiesConfigure.label "Stilla hvernig &brandShortName; tengist við Internetið">
+<!ENTITY connectionsInfo.caption "Tenging">
+<!ENTITY offlineInfo.caption "Ótengdur">
+<!ENTITY offlineInfo.label "Stilla ótengdar stillingar">
+<!ENTITY showOffline.label "Ótengdur…">
+<!ENTITY showOffline.accesskey "t">
+<!ENTITY Diskspace "Diskpláss">
+<!ENTITY offlineCompact.label "Þjappa möppum ef það sparar yfir">
+<!ENTITY offlineCompact.accesskey "Þ">
+<!ENTITY kb.label "KB">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label "Nota að hámarki">
+<!ENTITY useCacheBefore.accesskey "N">
+<!ENTITY useCacheAfter.label "MB af plássi fyrir flýtiminni">
+<!ENTITY clearCacheNow.label "Hreinsa núna">
+<!ENTITY clearCacheNow.accesskey "H">
+<!-- Certificates -->
+<!ENTITY viewCertificates.label "Skoða skilríki">
+<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCRLs.label "Afturköllunarlisti">
+<!ENTITY viewCRLs.accesskey "A">
+<!ENTITY validation.label "Sannprófun">
+<!ENTITY validation.accesskey "S">
+<!ENTITY viewSecurityDevices.label "Öryggistæki">
+<!ENTITY viewSecurityDevices.accesskey "y">

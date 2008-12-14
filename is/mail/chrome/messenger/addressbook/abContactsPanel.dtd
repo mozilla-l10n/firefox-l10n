@@ -1,0 +1,16 @@
+<!ENTITY addressbookPicker.label "Nafnaskrá:">
+<!ENTITY addressbookPicker.accesskey "k">
+<!ENTITY searchInput.label "Leita að:">
+<!ENTITY searchInput.accesskey "L">
+<!ENTITY SearchNameOrEmail.label "Nafn eða tölvupóstfang">
+<!ENTITY deleteAddrBookCard.label "Eyða">
+<!ENTITY addrBookCardProperties.label "Eiginleikar">
+<!ENTITY addtoToFieldMenu.label "Bæta við í Til svæði">
+<!ENTITY addtoCcFieldMenu.label "Bæta við Afrit svæði">
+<!ENTITY addtoBccFieldMenu.label "Bæta við í Falið afrit svæði">
+<!ENTITY toButton.label "Bæta við í Til:">
+<!ENTITY toButton.accesskey "A">
+<!ENTITY ccButton.label "Bæta við í Afrit:">
+<!ENTITY ccButton.accesskey "B">
+<!ENTITY bccButton.label "Bæta við í falið afrit:">
+<!ENTITY bccButton.accesskey "B">

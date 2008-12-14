@@ -1,0 +1,13 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title "Eiginleikar straums">
+<!ENTITY feedFolder.label "Geyma greinar í: ">
+<!ENTITY feedFolder.accesskey "G">
+<!ENTITY feedLocation.label "Straumslóð: ">
+<!ENTITY feedLocation.accesskey "S">
+<!ENTITY choosethisfolder.label "veldu þessa möppu">
+<!ENTITY quickMode.label "Sýna yfirlit greinar í staðinn fyrir að hlaða inn vefsíðu">
+<!ENTITY quickMode.accesskey "h">
+<!ENTITY copyLinkCmd.label "Afrita tengil">
+<!ENTITY copyLinkCmd.accesskey "A">
+<!ENTITY pasteLinkCmd.label "Líma">
+<!ENTITY pasteLinkCmd.accesskey "L">

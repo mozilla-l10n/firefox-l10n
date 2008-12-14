@@ -1,0 +1,34 @@
+<!ENTITY window.title "Síureglur">
+<!ENTITY filterName.label "Síunafn:">
+<!ENTITY filterName.accesskey "S">
+<!ENTITY junk.label "Ruslpóstur">
+<!ENTITY notJunk.label "Ekki ruslpóstur">
+<!ENTITY lowestPriorityCmd.label "Lægst">
+<!ENTITY lowPriorityCmd.label "Lágt">
+<!ENTITY normalPriorityCmd.label "Venjulegt">
+<!ENTITY highPriorityCmd.label "Hátt">
+<!ENTITY highestPriorityCmd.label "Hæst">
+<!ENTITY contextDesc.label "Beita síu þegar:">
+<!ENTITY contextDesc.accesskey "B">
+<!ENTITY contextIncoming.label "Athuga póst">
+<!ENTITY contextManual.label "Keyrt handvirkt">
+<!ENTITY contextBoth.label "Athuga póst eða keyrt handvirkt">
+<!ENTITY filterActionDesc.label "Framkvæma þessar aðgerðir:">
+<!ENTITY filterActionDesc.accesskey "F">
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Færa póst í">
+<!ENTITY copyMessage.label "Afrita póst í">
+<!ENTITY forwardTo.label "Áframsenda póst á">
+<!ENTITY replyWithTemplate.label "Svara með sniðmáti">
+<!ENTITY markMessageRead.label "Merkja sem lesið">
+<!ENTITY markMessageStarred.label "Stjörnumerkja">
+<!ENTITY setPriority.label "Setja mikilvægi sem">
+<!ENTITY addTag.label "Flokka póst">
+<!ENTITY setJunkScore.label "Setja ruslpóst stöðu sem">
+<!ENTITY deleteMessage.label "Eyða pósti">
+<!ENTITY deleteFromPOP.label "Eyða frá POP þjóni">
+<!ENTITY fetchFromPOP.label "Ná í frá POP þjóni">
+<!ENTITY ignoreThread.label "Hunsa umræðu">
+<!ENTITY ignoreSubthread.label "Hunsa undirumræðu">
+<!ENTITY watchThread.label "Fylgjast með umræðu">
+<!ENTITY stopExecution.label "Stöðva keyrslu síu">

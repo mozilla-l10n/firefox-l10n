@@ -1,0 +1,9 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Öryggi pósts">
+<!ENTITY signatureCert.label "Skoða skilríki undirskriftar">
+<!ENTITY encryptionCert.label "Skoða dulritunarvottorð">
+<!ENTITY signer.name "Undirritað:">
+<!ENTITY recipient.name "Dulkóðað fyrir:">
+<!ENTITY email.address "Netfang:">
+<!ENTITY issuer.name "Skilríki útgefið af:">

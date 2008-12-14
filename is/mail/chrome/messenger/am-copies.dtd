@@ -1,0 +1,31 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Afrit &amp; Möppur">
+<!ENTITY sendingPrefix.label "Þegar póstur er sendur, gera eftirfarandi sjálfvirkt: ">
+<!ENTITY fccMailFolder.label "Setja afrit í:">
+<!ENTITY fccMailFolder.accesskey "S">
+<!ENTITY fccReplyFollowsParent.label "Setja svarpósta í möppu póstsins sem verið er að svara">
+<!ENTITY fccReplyFollowsParent.accesskey "S">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Senda falið afrit á þessi tölvupóstföng:">
+<!ENTITY bccAddress.accesskey "S">
+<!ENTITY saveMessageDlg.label "Sýna staðfestingarglugga þegar póstur er vistaður">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Sent&quot; Mappa á:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "Annað:">
+<!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Drög&quot; Mappa á:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "Annað:">
+<!ENTITY draftInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Sniðmát&quot; Mappa á:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "Annað:">
+<!ENTITY templateInOtherFolder.accesskey "A">
+<!ENTITY specialFoldersTitle.label "Drög og sniðmát">
+<!ENTITY keepDrafts.label "Geyma drög að pósti í:">
+<!ENTITY keepTempltes.label "Geyma póstsniðmát í:">
