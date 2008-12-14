@@ -1,0 +1,35 @@
+<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Preferències">
+<!ENTITY categoryHeader "Categoria">
+<!ENTITY appear.label "Aparença">
+<!ENTITY content.label "Contingut">
+<!ENTITY fonts.label "Tipus de lletra">
+<!ENTITY colors.label "Colors">
+<!ENTITY navigator.label "Navegador">
+<!ENTITY history.label "Historial">
+<!ENTITY languages.label "Llengües">
+<!ENTITY applications.label "Aplicacions ajudants">
+<!ENTITY locationBar.label "Barra d'ubicació">
+<!ENTITY tabWindows.label "Navegació amb pestanyes">
+<!ENTITY offline.label "Fora de línia">
+<!ENTITY security.label "Privadesa i seguretat">
+<!ENTITY cookies.label "Galetes">
+<!ENTITY images.label "Imatges">
+<!ENTITY popups.label "Finestres emergents">
+<!ENTITY passwords.label "Contrasenyes">
+<!ENTITY masterpass.label "Contrasenyes mestres">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certificats">
+<!ENTITY validation.label "Validació">
+<!ENTITY advance.label "Avançat">
+<!ENTITY down.label "Baixades">
+<!ENTITY cache.label "Memòria cau">
+<!ENTITY proxies.label "Servidors intermediaris">
+<!ENTITY httpnetworking.label "Xarxa HTTP">
+<!ENTITY smart.label "Instaŀlació de programari">
+<!ENTITY download.label "Baixades">
+<!ENTITY keynav.label "Navegació amb teclat">
+<!ENTITY search.label "Cerca a Internet">
+<!ENTITY policies.label "Polítiques de seguretat">
+<!ENTITY mousewheel.label "Rodeta del ratolí">
+<!ENTITY scriptsAndWindows.label "Scripts i connectors">
