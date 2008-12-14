@@ -400,7 +400,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "B">
 <!ENTITY editBookmark.done.label "Lokið">
 <!ENTITY editBookmark.cancel.label "Hætta við">
-<!ENTITY editBookmark.removeBookmark.label "Fjarlægja bókamerki">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "Afturkalla">
 <!ENTITY editBookmark.undo.accessKey "U">

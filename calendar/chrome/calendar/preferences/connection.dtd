@@ -69,11 +69,11 @@
 <!ENTITY socks5.accesskey "v">
 <!ENTITY port.label "Gátt:">
 <!ENTITY HTTPport.accesskey "G">
-<!ENTITY SSLport.accesskey "á">
-<!ENTITY FTPport.accesskey "t">
+<!ENTITY SSLport.accesskey "">
+<!ENTITY FTPport.accesskey "">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY gopherPort.accesskey "">
-<!ENTITY SOCKSport.accesskey "">
+<!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "Engir staðgenglar fyrir:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Til dæmis: .mozilla.org, .net.nz, 192.168.1.0/24">

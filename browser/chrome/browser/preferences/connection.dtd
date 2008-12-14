@@ -31,8 +31,8 @@
 <!ENTITY socks5.accesskey "v">
 <!ENTITY port.label "Gátt:">
 <!ENTITY HTTPport.accesskey "G">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY FTPport.accesskey "r">
+<!ENTITY SSLport.accesskey "">
+<!ENTITY FTPport.accesskey "">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "t">
