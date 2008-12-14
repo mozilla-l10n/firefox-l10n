@@ -25,6 +25,7 @@
 <!ENTITY numCopies.accesskey "к">
 <!ENTITY printframeGroup.label "Печати рамки">
 <!ENTITY aslaidoutRadio.label "Како што е на екранот">
+<!ENTITY aslaidoutRadio.accesskey "ш">
 <!ENTITY selectedframeRadio.label "Избраната рамка">
 <!ENTITY selectedframeRadio.accesskey  "м">
 <!ENTITY eachframesepRadio.label "Секоја рамка посебно">
