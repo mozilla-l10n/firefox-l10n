@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Marquer tous les onglets…">
 <!ENTITY organizeBookmarks.label "Organiser les marque-pages…">
 <!ENTITY bookmarkAllCmd.label "Marquer tous les onglets…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Afficher plus de marque-pages">
 
 <!ENTITY backCmd.label                "Page précédente">
 <!ENTITY backCmd.accesskey            "d">
