@@ -16,7 +16,7 @@
 <!ENTITY view.columns.label "Mostrar columnas">
 <!ENTITY view.columns.accesskey "M">
 <!ENTITY view.sort.label "Ordenar">
-<!ENTITY view.sort.accesskey "S">
+<!ENTITY view.sort.accesskey "r">
 <!ENTITY view.unsorted.label "Sin ordenar">
 <!ENTITY view.unsorted.accesskey "S">
 <!ENTITY view.sortAscending.label "Ordenar A > Z">
