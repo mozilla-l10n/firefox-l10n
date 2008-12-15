@@ -3,8 +3,8 @@
 <!ENTITY importFromNonWin.label "Importar preferencias, configuraciones de cuentas, libretas de direcciones, filtros y otros datos de:">
 <!ENTITY importFromNothing.label "No importar nada">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 o Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x o SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "N">
 <!ENTITY importFromNetscape4.label "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "Outlook Express">
