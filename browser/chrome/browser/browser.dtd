@@ -103,6 +103,7 @@
 <!ENTITY addCurPagesCmd.label            "Įrašyti į adresyną visas korteles…">
 <!ENTITY organizeBookmarks.label         "Tvarkyti adresyną…">
 <!ENTITY bookmarkAllCmd.label            "Įrašyti į adresyną visas korteles…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Kiti adresai">
 
 <!ENTITY backCmd.label                "Atgal">
 <!ENTITY backCmd.accesskey            "A">
