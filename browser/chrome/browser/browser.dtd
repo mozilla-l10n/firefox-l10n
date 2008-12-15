@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label         "Blêdwizer foar alle ljepblêden meitsje...">
 <!ENTITY organizeBookmarks.label 	"Organisearje blêdwizers...">
 <!ENTITY bookmarkAllCmd.label 		  "Blêdwizer foar alle ljepblêden meitsje...">
+<!ENTITY bookmarksToolbarChevron.tooltip "Toan mear blêdwizers">
 
 <!ENTITY backCmd.label                "Tebek">
 <!ENTITY backCmd.accesskey            "T">
