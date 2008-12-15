@@ -275,8 +275,6 @@
 <!ENTITY sendLinkCmd.accesskey        "n">
 <!ENTITY saveImageCmd.label           "Enregistrer l'image sous…">
 <!ENTITY saveImageCmd.accesskey       "s">
-<!ENTITY sendImageCmd.label           "Envoyer l'image…">
-<!ENTITY sendImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Enregistrer la vidéo sous…">
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Enregistrer le fichier audio sous…">
