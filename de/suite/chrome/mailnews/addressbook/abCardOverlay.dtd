@@ -116,11 +116,9 @@ externen eingebetteten Grafiken in HTML-Nachrichten von diesem Kontakt.">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Geburtstag:">
 <!ENTITY Birthday.accesskey             "G">
-<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Jahr">
 <!ENTITY Or.value                       "oder">
 <!ENTITY Age.emptytext                  "Alter">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Dienstlich">
 <!ENTITY Work.accesskey                 "D">

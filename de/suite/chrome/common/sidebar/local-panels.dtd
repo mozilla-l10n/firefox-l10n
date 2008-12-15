@@ -37,6 +37,7 @@
 
 <!-- extracted from ./local-panels.rdf -->
 
+<!ENTITY sidebar.whats-related.label  "Ähnliche Websites">
 <!ENTITY sidebar.search.label         "Suchen">
 <!ENTITY sidebar.client-bookmarks.label     "Lesezeichen">
 <!ENTITY sidebar.client-history.label       "History">
