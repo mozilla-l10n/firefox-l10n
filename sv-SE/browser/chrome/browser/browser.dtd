@@ -102,6 +102,7 @@
 <!ENTITY addCurPagesCmd.label "Bokmärke för alla flikar…">
 <!ENTITY organizeBookmarks.label "Ordna bokmärken…">
 <!ENTITY bookmarkAllCmd.label "Bokmärke för alla flikar…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
 
 <!ENTITY backCmd.label                "Bakåt">
 <!ENTITY backCmd.accesskey            "B">
