@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "B">
-<!ENTITY newCard.label "Adresboekkaart…">
-<!ENTITY newCard.accesskey "A">
+<!ENTITY newContact.label "Adresboekcontact…">
+<!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Bijlage">
 <!ENTITY attachMenu.accesskey "B">
 <!ENTITY attachFileCmd.label "Bestand(en)…">
