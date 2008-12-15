@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Werkbalken">
 <!ENTITY viewToolbarsMenuNew.accesskey "W">
 <!ENTITY showCompositionToolbarCmd.label "Compositiewerkbalk">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Opmaakwerkbalk">
 <!ENTITY showFormattingBarCmd.accesskey "O">
 <!ENTITY showTaskbarCmd.label "Statusbalk">
