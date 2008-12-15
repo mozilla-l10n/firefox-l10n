@@ -7,7 +7,6 @@
 <!ENTITY alwaysEncryptMessage.label "Sempre criptografar (todos os destinatários devem ter certificados)">
 <!ENTITY alwaysEncryptMessage.accesskey "m">
 <!ENTITY encryptionCert.message "Certificado usado para (des)criptografar mensagens enviadas a você:">
-<!ENTITY encryptionCert.notselected "Nenhum certificado definido">
 <!ENTITY digitalSign.certificate.button "Selecionar...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Limpar">
@@ -20,11 +19,10 @@
 <!ENTITY signMessage.label "Assinar mensagens digitalmente (por padrão)">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Certificado usado para assinar digitalmente mensagens que você enviar:">
-<!ENTITY signingCert.notselected "Nenhum certificado definido">
 <!ENTITY securityTab.label "Segurança">
 
-<!ENTITY certificates.label "Certificates">
-<!ENTITY manageCerts.accesskey "M">
-<!ENTITY manageCerts.label "Manage Certificates…">
-<!ENTITY manageDevices.accesskey "g">
-<!ENTITY manageDevices.label "Manage Security Devices…">
+<!ENTITY certificates.label "Certificados">
+<!ENTITY manageCerts.accesskey "G">
+<!ENTITY manageCerts.label "Gerenciar certificados…">
+<!ENTITY manageDevices.accesskey "s">
+<!ENTITY manageDevices.label "Gerenciar dispositivos de segurança…">

@@ -357,6 +357,8 @@
 <!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "C">
 <!ENTITY markAllReadCmdUnix.key "m">
+<!ENTITY redoMarkAllCmd.label "Refazer marcar todas como lidas">
+<!ENTITY undoMarkAllCmd.label "Desfazer marcar todas como lidas">
 <!ENTITY markFlaggedCmd.label "Sinalização">
 <!ENTITY markFlaggedCmd.accesskey "Z">
 <!ENTITY markFlaggedCmd.key "i">
@@ -541,5 +543,3 @@
 <!ENTITY filtersApplyToSelection.accesskey "m">
 <!ENTITY folderContextSettings.label "Configurações…">
 <!ENTITY folderContextSettings.accesskey "C">
-<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
-<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">

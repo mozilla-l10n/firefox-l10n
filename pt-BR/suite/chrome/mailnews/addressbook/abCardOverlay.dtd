@@ -105,7 +105,7 @@
 <!ENTITY Work.tab                       "Trabalho">
 <!ENTITY Work.accesskey                 "T">
 <!ENTITY allowRemoteContent.tooltip     "Em mensagens HTML, é possível incluir imagens de
-origem remota. Abrir tais mensagens abrirá uma conexão com esta origem remota.
+uma origem remota. Carregar tais mensagens abrirá uma conexão com esta origem remota.
 Isto pode permitir que se verifique que a mensagem foi lida.
 Marcar esta caixa de seleção permite tais imagens externas incluídas em
-mensagens HTML deste contato.">
+mensagens HTML provenientes deste contato.">
