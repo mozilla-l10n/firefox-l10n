@@ -72,6 +72,7 @@
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
 <!ENTITY organizeBookmarks.label "نظّم العلامات…">
 <!ENTITY bookmarkAllCmd.label "علّم كل الألسنة…">
+<!ENTITY bookmarksToolbarChevron.tooltip "أظهِر المزيد من العلامات المرجعية">
 
 <!ENTITY backCmd.label "للخلف">
 <!ENTITY backCmd.accesskey "خ">
