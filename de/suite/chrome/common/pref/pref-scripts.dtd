@@ -19,6 +19,6 @@
 
 <!ENTITY enablePlugin.label              "Plugins aktivieren für">
 
-<!ENTITY whenPluginsRequired.description "Wenn zusätzliche Plugins benötigt werden:">
+<!ENTITY whenPluginsRequired.label       "Wenn zusätzliche Plugins benötigt werden">
 <!ENTITY displayNotification.label       "Eine Benachrichtigungsleiste am oberen Rand des Inhaltsbereichs anzeigen">
 <!ENTITY displayNotification.accesskey   "E">
