@@ -29,8 +29,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Le compte en cours d'utilisation">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "L">
-<!ENTITY getAllNewMsgCmd.label "Relever tous les nouveaux messages">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY getNextNMsgCmd.label "Relever les 500 prochains messages">
 <!ENTITY getNextNMsgCmd.accesskey "p">
 <!ENTITY sendUnsentCmd.label "Envoyer les messages en attente">  
