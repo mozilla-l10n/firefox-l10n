@@ -81,6 +81,7 @@
 <!ENTITY addCurPagesCmd.label "Dodaj zakładki do wszystkich kart…">
 <!ENTITY organizeBookmarks.label "Zarządzaj zakładkami…">
 <!ENTITY bookmarkAllCmd.label "Dodaj zakładki do wszystkich kart…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 
 <!ENTITY backCmd.label "Wstecz" >
 <!ENTITY backCmd.accesskey "W" >
