@@ -7,11 +7,11 @@
 <!ENTITY byDate.label                   "Pela data">
 <!ENTITY byDayAndSite.accesskey         "t">
 <!ENTITY byDayAndSite.label             "Pela data e endereço">
-<!ENTITY byLastVisited.accesskey        "v">
+<!ENTITY byLastVisited.accesskey        "a">
 <!ENTITY byLastVisited.label            "Pela último acesso">
-<!ENTITY byMostVisited.accesskey        "V">
+<!ENTITY byMostVisited.accesskey        "n">
 <!ENTITY byMostVisited.label            "Pelo número de acessos">
-<!ENTITY bySite.accesskey               "S">
+<!ENTITY bySite.accesskey               "e">
 <!ENTITY bySite.label                   "Pelo endereço">
 
 <!ENTITY cmd.open.accesskey             "A">
