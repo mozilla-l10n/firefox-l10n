@@ -195,7 +195,7 @@
 <!ENTITY historyHomeCmd.label "Heim">
 <!ENTITY showAllHistoryCmd2.label "Sýna alla ferla">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY openCmd.commandkey "g">
+<!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Leita í bókamerkjum og feril">
 <!ENTITY urlbar.accesskey "b">
 <!-- 
