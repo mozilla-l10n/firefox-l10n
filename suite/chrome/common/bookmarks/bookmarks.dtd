@@ -74,12 +74,12 @@
 <!ENTITY button.moveBookmark.accesskey "M">
 
 <!ENTITY menuitem.properties.label     "Propriedades…">
-<!ENTITY button.properties.label       "Propriedades…">
 <!ENTITY menuitem.properties.accesskey "P">
+<!ENTITY button.properties.label       "Propriedades…">
+<!ENTITY button.properties.accesskey   "P">
 <!ENTITY menuitem.properties.key       "i">
 
 <!ENTITY button.rename.label           "Renomear…">
 <!ENTITY button.rename.accesskey "R">
 
 
-<!ENTITY button.properties.accesskey   "P">
