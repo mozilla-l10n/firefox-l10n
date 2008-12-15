@@ -69,7 +69,6 @@
 <!ENTITY NickName.label                 "Slapyvardis">
 <!ENTITY NickName.accesskey             "l">
 
-<!ENTITY Internet.box                   "Internetas">
 <!ENTITY PrimaryEmail.label	          "El. pašto adresas:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Papildomas el. pašto adresas:">
@@ -118,9 +117,11 @@ Pažymėjus šią parinktį, tokie tinkle esantys paveikslai šio adresato laiš
 <!ENTITY HomeWebPage.accesskey          "T">
 <!ENTITY Birthday.label                 "Gimimo diena:">
 <!ENTITY Birthday.accesskey             "o">
+<!ENTITY In.label                       "m.">
 <!ENTITY Year.emptytext                 "metai">
 <!ENTITY Or.value                       "arba">
 <!ENTITY Age.emptytext                  "amžius">
+<!ENTITY YearsOld.label                 "m.">
 
 <!ENTITY Work.tab                       "Darbovietė">
 <!ENTITY Work.accesskey                 "D">

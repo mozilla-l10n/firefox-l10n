@@ -41,8 +41,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "L">
-<!ENTITY newCard.label "Adresatas…">
-<!ENTITY newCard.accesskey "A">
+<!ENTITY newContact.label "Adresatas…">
+<!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Pridėti">
 <!ENTITY attachMenu.accesskey "d">
 <!ENTITY attachFileCmd.label "failą (failus)…">
@@ -123,6 +123,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Priemonių juostos"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "j"> 
 <!ENTITY showCompositionToolbarCmd.label "Laiško kūrimo juosta">
+<!ENTITY showCompositionToolbarCmd.accesskey "k">
 <!ENTITY showFormattingBarCmd.label "Formatavimo juosta">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Būsenos">

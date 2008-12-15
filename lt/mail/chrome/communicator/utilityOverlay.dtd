@@ -80,8 +80,6 @@
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"U">
 
-<!ENTITY closeWindow.label "Užverti langą">
-
 <!ENTITY quitApplicationCmd.label	"Baigti darbą"> 
 <!ENTITY quitApplicationCmd.key		"Q"> 
 <!ENTITY quitApplicationCmd.accesskey	"B">
