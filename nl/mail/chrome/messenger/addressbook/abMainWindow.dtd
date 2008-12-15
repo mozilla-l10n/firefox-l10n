@@ -132,8 +132,8 @@
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Een nieuwe adresboekcontact aanmaken">
-<!ENTITY newlistButton2.tooltip                         "Een nieuwe lijst aanmaken">
-<!ENTITY editButton.tooltip                             "De geselecteerde item bewerken">
+<!ENTITY newlistButton.tooltip                         "Een nieuwe lijst aanmaken">
+<!ENTITY editButton2.tooltip                             "De geselecteerde item bewerken">
 <!ENTITY newmsgButton.tooltip                           "Een e-mailbericht sturen">
 <!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
 <!ENTITY deleteButton2.tooltip                          "Geselecteerde item verwijderen">
