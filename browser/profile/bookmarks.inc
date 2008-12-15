@@ -11,7 +11,7 @@
 # link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
 #define bookmarks_addons Consiga complementos para marcadores
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
+#define bookmarks_toolbarfolder Carpeta de la barra de marcadores
 #define bookmarks_toolbarfolder_description Añadir marcadores a esta carpeta para mostrarlos en la barra de marcadores
 
 # LOCALIZATION NOTE (getting_started):
