@@ -49,6 +49,6 @@
 
 <!ENTITY enablePlugin.label              "Įjungti programų papildinius">
 
-<!ENTITY whenPluginsRequired.description "Prireikus neįdiegtų papildinių:">
+<!ENTITY whenPluginsRequired.label       "Prireikus neįdiegtų papildinių">
 <!ENTITY displayNotification.label       "Rodyti informacijos juostą">
 <!ENTITY displayNotification.accesskey   "R">
