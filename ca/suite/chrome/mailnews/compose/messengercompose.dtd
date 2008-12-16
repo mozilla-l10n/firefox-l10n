@@ -27,7 +27,6 @@
 <!ENTITY attachMenu.label "Adjunta">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Adjunta un fitxer...">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "j">
 <!ENTITY attachPageCmd.label "Adjunta una pàgina web...">
 <!ENTITY attachPageCmd.accesskey "w">
@@ -45,10 +44,10 @@
 <!ENTITY printCmd.label "Imprimeix...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
-<!ENTITY closeCmd.label "Tanca">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Torna a ajustar">
+<!ENTITY editRewrapCmd.key "r">
 <!ENTITY editRewrapCmd.accesskey "j">
 <!ENTITY findCmd.label "Cerca i reemplaça...">
 <!ENTITY findCmd.key "F">
@@ -69,32 +68,6 @@
 <!ENTITY showComposeToolbarCmd.accesskey "r">
 <!ENTITY showFormatToolbarCmd.label "Barra de format">
 <!ENTITY showFormatToolbarCmd.accesskey "f">
-<!ENTITY showParagraphMarksCmd.label ".Mostra els signes de paràgrafs">
-<!ENTITY pageSourceCmd.label ".Font de la pàgina">
-<!ENTITY pageSourceCmd.accesskey "n">
-<!ENTITY pageInfoCmd.label ".Informació de la pàgina">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY dcharMenu.label "Joc caràcters">
-<!ENTITY dcharIso1Cmd.label "Occidental (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Centreeuropeu (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Europeu meridional (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Bàltic (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Turc (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Nòrdic (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Celta (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Occidental (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Japonès (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Xinès tradicional (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Xinès simplificat (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Coreà (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
-<!ENTITY dcharRusCmd.label "Ciríl·lic (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Ciríl·lic/Ucraïnès (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Grec (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "Vietnamita (VISCII)">
-<!ENTITY dcharThaiCmd.label "Tailandès (TIS-620)">
-<!ENTITY dcharArmCmd.label "Armeni (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Defineix el joc de caràcters per defecte de la missatgeria">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
@@ -103,11 +76,6 @@
 <!-- Options menu items -->
 <!ENTITY optionsMenu.label "Opcions">
 <!ENTITY optionsMenu.accesskey "p">
-
-<!ENTITY doNotCompleteAddrCmd.label ".No completis l'adreça">
-<!ENTITY showMatchingAddrCmd.label ".Mostra l'adreça coincident">
-
-<!ENTITY addSignatureCmd.label ".Afegeix un fitxer de signatura">
 
 <!ENTITY quoteCmd.label "Cita el missatge">
 <!ENTITY quoteCmd.accesskey "m">
@@ -147,33 +115,14 @@
 <!ENTITY bothFormatCmd.label "Text senzill i enriquit (HTML)">
 <!ENTITY bothFormatCmd.accesskey "l">
 
-<!ENTITY UuencodeAttachmentCmd.label "Utilitza Uuencode en comptes de MIME per a les adjuncions">
-
 
 <!ENTITY fileCarbonCopyCmd.label "Envia una còpia a">
 <!ENTITY fileCarbonCopyCmd.accesskey "i">
 <!ENTITY fileHereMenu.label "Arxiva'l ací">
 
-<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
-<!-- Debug Menu, imported from editorAppShell.dtd -->
-<!ENTITY debugMenu.label "Depura">
-<!ENTITY outputTextCmd.label "Text de sortida">
-<!ENTITY outputHTMLCmd.label "HTML de sortida">
-<!ENTITY insertTextCmd.label "Inserta un text">
-<!ENTITY testSelectionCmd.label "Prova la selecció">
-<!ENTITY testTableLayoutCmd.label "Prova el format de la taula">
-<!ENTITY testDocumentCmd.label "Prova el document">
-<!ENTITY showEmbeddedCmd.label "Mostra els objectes incrustats">
-<!ENTITY dumpContentCmd.label "Aboca l'arbre de continguts">
-<!ENTITY runUnitTestsCmd.label "Executa les unitats de prova">
-<!ENTITY startLogCmd.label "Inicia el registre">
-<!ENTITY stopLogCmd.label "Atura el registre">
-<!ENTITY runLogCmd.label "Executa el registre">
-
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "Envia">
-<!ENTITY quoteButton.label "Cita">
 <!ENTITY addressButton.label "Adreça">
 <!ENTITY attachButton.label "Adjunta">
 <!ENTITY spellingButton.label "Ortografia">
@@ -186,17 +135,10 @@
 <!ENTITY formatToolbar.tooltip "Barra de format">
 <!ENTITY sendButton.tooltip "Envia ara aquest missatge">
 <!ENTITY sendlaterButton.tooltip "Envia aquest missatge més tard">
-<!ENTITY quoteButton.tooltip "Cita el missatge anterior">
 <!ENTITY addressButton.tooltip "Seleccioneu un destinatari d'una Llibreta d'adreces">
 <!ENTITY attachButton.tooltip "Adjunta un fitxer a aquest missatge">
 <!ENTITY saveButton.tooltip "Desa aquest missatge">
 <!ENTITY stopButton.tooltip "Atura la transferència actual"> 
-
-<!-- Toolbar items, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 
 <!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "No s'ha trobat cap suggeriment">
@@ -214,8 +156,12 @@
 <!ENTITY paste.accesskey "x">
 <!ENTITY pasteQuote.label "Enganxa com a cita">
 <!ENTITY pasteQuote.accesskey "i">
+<!ENTITY openAttachment.label "Obre">
+<!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Suprimeix">
 <!ENTITY delete.accesskey "S">
+<!ENTITY renameAttachment.label "Reanomena…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selecciona-ho tot">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Adjunta un fitxer(s)...">

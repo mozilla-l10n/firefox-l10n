@@ -3,21 +3,14 @@
 
 <!ENTITY recipient.label "Alguns dels destinataris no figuren com que puguin rebre correu HTML.">
 
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "El vostre missatge es pot convertir a text net sense perdre informació.">
-<!ENTITY convertibleAltering.label "El vostre missatge es pot convertir a text net sense perdre informació important. No obstant això, la versió en text net pot tenir un aspecte diferent del que vèieu al Redactor. ">
-<!ENTITY convertibleNo.label "No obstant això, heu utilitzat un format (ex: colors) que no es convertirà a text net.">
-
 <!ENTITY question.label "Voleu convertir el missatge a text net igualment?">
 
 <!ENTITY plainTextAndHtml.label "Envia'l en text net i en HTML">
+<!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Envia'l només en text net">
+<!ENTITY plainTextOnly.accesskey "n">
 <!ENTITY htmlOnly.label "Envia'l només en HTML">
-
-<!ENTITY plainTextAndHtmlRecommended.label "Envia'l en text net i en HTML (recomanat)">
-<!ENTITY plainTextOnlyRecommended.label "Envia'l només en text net (recomanat)">
-<!ENTITY htmlOnlyRecommended.label "Envia'l només en HTML (recomanat)">
-<!ENTITY recommended.label "(recomanat)">
+<!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Envia">
-<!ENTITY recipients.label "Destinataris...">
+<!ENTITY send.accesskey "v">
