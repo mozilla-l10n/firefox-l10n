@@ -401,7 +401,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "完成">
 <!ENTITY editBookmark.cancel.label                   "取消">
-<!ENTITY editBookmark.removeBookmark.label           "移除書籤">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 <!ENTITY editBookmark.undo.label                     "復原">
 <!ENTITY editBookmark.undo.accessKey                 "U">
