@@ -10,14 +10,16 @@
 <!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "Nom d'usuari:">
 <!ENTITY userName.accesskey "m">
+<!ENTITY useSecAuth.label "Utilitza una autenticació segura">
+<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY isSecure.label "Utilitza una connexió segura:">
 <!ENTITY neverSecure.label "No">
 <!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, si és disponible">
-<!ENTITY sometimesSecure.accesskey "o">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSmtpS.label "SSL">
-<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, si està disponible">
+<!ENTITY sometimesSTARTTLS.accesskey "A">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP sobre SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
 <!ENTITY smtpEditTitle.label "Servidor SMTP">
 <!ENTITY serverPortDefault.label "Per defecte:">

@@ -39,7 +39,6 @@
 
 
 <!ENTITY pref.formatting.title "Format d'enviament">
-<!ENTITY sendMail.label "Format d'enviament">
 <!ENTITY sendMaildesc.label "En enviar missatges en format HTML, si un o més dels destinataris no consten com a capaços de rebre correu HTML:">
 <!ENTITY askMe.label "Demana'm què fer (se us demanarà que trieu un format)">
 <!ENTITY askMe.accesskey "a">
@@ -50,7 +49,6 @@
 <!ENTITY sendBoth.label "Envia el missatge en text net i en HTML (el missatge serà més gran)">
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Podeu canviar aquests paràmetres per a missatges determinats mitjançant el menú Opcions de la finestra Redacció de correu.">
-<!ENTITY receiveHTML.label "Si sabeu que un destinatari determinat pot rebre correu HTML, desactiveu el quadre de verificació «Envia el correu com a text net (no HTML)» a la targeta corresponent de la llibreta d'adreces.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Dominis d'HTML i text net">
@@ -69,14 +67,11 @@
 <!-- Add HTML Domain Name -->
 <!ENTITY add.htmltitle "Afegeix un nom de domini d'HTML">
 <!ENTITY add.htmldomain "Nom de domini d'HTML:">
-<!ENTITY add.htmldomain.accesskey "d">
 <!ENTITY add.plaintexttitle "Afegeix un nom de domini de text net">
 <!ENTITY add.plaintextdomain "Nom de domini de text net:">
-<!ENTITY add.plaintext.accesskey "d">
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY domainnameError.title "Error de nom de domini">
-<!ENTITY duplicationError.label "El domini @string@ ja existeix a aquesta llista.">
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label "Un nom de domini no pot aparèixer a totes dues llistes (HTML i text net). El nom de domini @string@ ja existeix.">
+<!ENTITY invalidEntryError.label      "El nom del domini @string@ no és vàlid i s'ignorarà. Els noms de domini vàlids han d'incloure com a mínim un '.' i caràcters a cada costat seu.">
