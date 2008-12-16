@@ -55,6 +55,7 @@
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки в закладки…">
 <!ENTITY organizeBookmarks.label "Управление закладками…">
 <!ENTITY bookmarkAllCmd.label "Добавить все вкладки в закладки…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Больше закладок">
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "Н">
 <!ENTITY backButton.tooltip "На предыдущую страницу">
