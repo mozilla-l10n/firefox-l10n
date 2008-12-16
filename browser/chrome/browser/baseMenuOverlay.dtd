@@ -35,14 +35,14 @@
 <!ENTITY preferencesCmdMac.commandkey   "accel+,">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 
-<!ENTITY servicesMenuMac.label          "Services">
+<!ENTITY servicesMenuMac.label          "Voorzieningen">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; verbergen">
+<!ENTITY hideThisAppCmdMac.label        "Verberg &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Andere verbergen">
+<!ENTITY hideOtherAppsCmdMac.label      "Verberg andere">
 <!ENTITY hideOtherAppsCmdMac.commandkey "accel+alt+H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label        "Alles tonen">
+<!ENTITY showAllAppsCmdMac.label        "Toon alles">
