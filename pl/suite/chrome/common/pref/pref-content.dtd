@@ -1,5 +1,5 @@
 <!ENTITY pref.content.title "Zawartść">
-<!ENTITY pref.content.description "These settings influence how website and message content appears in &brandShortName;.">
+<!ENTITY pref.content.description "Te ustawienia mają wpływ na sposób wyświetlania witryn i wiadomości w programie &brandShortName;.">
 <!ENTITY siteIcons.label "Ikony witryn">
 <!ENTITY useSiteIcons.label "Pokaż ikony witryn">
 <!ENTITY useSiteIcons.accesskey "S">

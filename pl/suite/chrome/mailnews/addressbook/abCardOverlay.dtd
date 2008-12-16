@@ -112,9 +112,11 @@
 <!ENTITY HomeWebPage.accesskey "W">
 <!ENTITY Birthday.label "Urodziny:">
 <!ENTITY Birthday.accesskey "B">
+<!ENTITY In.label "">
 <!ENTITY Year.emptytext "Rok">
 <!ENTITY Or.value "lub">
 <!ENTITY Age.emptytext "wiek">
+<!ENTITY YearsOld.label "">
 
 <!ENTITY Work.tab "Służbowy">
 <!ENTITY Work.accesskey "W">

@@ -68,9 +68,9 @@
 <!ENTITY saveImageAsCmd.label "Zapisz obrazek jako…">
 <!ENTITY saveImageCmd.label "Zapisz obrazek">
 <!ENTITY saveImageCmd.accesskey "b">
-<!ENTITY saveVideoCmd.label "Save Video As…">
+<!ENTITY saveVideoCmd.label "Zapisz wideo jako…">
 <!ENTITY saveVideoCmd.accesskey "v">
-<!ENTITY saveAudioCmd.label "Save Audio As…">
+<!ENTITY saveAudioCmd.label "Zapisz dźwięk jako…">
 <!ENTITY saveAudioCmd.accesskey "v">
 <!ENTITY copyCmd.label "Kopiuj">
 <!ENTITY copyCmd.accesskey "K">
@@ -80,9 +80,9 @@
 <!ENTITY copyLinkCmd.accesskey "K">
 <!ENTITY copyImageCmd.label "Kopiuj obrazek">
 <!ENTITY copyImageCmd.accesskey "b">
-<!ENTITY copyVideoURLCmd.label "Copy Video Location">
+<!ENTITY copyVideoURLCmd.label "Kopiuj adres wideo">
 <!ENTITY copyVideoURLCmd.accesskey "o">
-<!ENTITY copyAudioURLCmd.label "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.label "Kopiuj adres dźwięku">
 <!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY metadataCmd.label "Właściwości">
 <!ENTITY metadataCmd.accesskey "i">
@@ -100,17 +100,17 @@
 <!ENTITY redoCmd.accesskey "r">
 <!ENTITY thisFrameMenu.label "Ramka">
 <!ENTITY thisFrameMenu.accesskey "r">
-<!ENTITY mediaPlay.label "Play">
+<!ENTITY mediaPlay.label "Odtwórz">
 <!ENTITY mediaPlay.accesskey "P">
-<!ENTITY mediaPause.label "Pause">
+<!ENTITY mediaPause.label "Wstrzymaj">
 <!ENTITY mediaPause.accesskey "P">
-<!ENTITY mediaMute.label "Mute">
+<!ENTITY mediaMute.label "Wycisz">
 <!ENTITY mediaMute.accesskey "M">
-<!ENTITY mediaUnmute.label "Unmute">
+<!ENTITY mediaUnmute.label "Przywróć głośność">
 <!ENTITY mediaUnmute.accesskey "m">
-<!ENTITY mediaShowControls.label "Show Media Controls">
+<!ENTITY mediaShowControls.label "Wyświetl narzędzia mediowe">
 <!ENTITY mediaShowControls.accesskey "a">
-<!ENTITY mediaHideControls.label "Hide Media Controls">
+<!ENTITY mediaHideControls.label "Ukryj narzędzia mediowe">
 <!ENTITY mediaHideControls.accesskey "a">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Przełącz kierunek strony">

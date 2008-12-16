@@ -17,6 +17,6 @@
 
 <!ENTITY enablePlugin.label "Włącz wtyczki dla">
 
-<!ENTITY whenPluginsRequired.description "When additional plugins are required:">
-<!ENTITY displayNotification.label "Display a notification bar at the top of the content area">
+<!ENTITY whenPluginsRequired.label "Jeżeli dodatkowe wtyczki są wymagane">
+<!ENTITY displayNotification.label "Wyświetlaj pasek powiadomień powyżej wyświetlanej strony">
 <!ENTITY displayNotification.accesskey "N">

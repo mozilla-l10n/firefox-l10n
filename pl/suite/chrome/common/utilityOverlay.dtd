@@ -86,19 +86,19 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "k">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
-<!ENTITY customizeToolbar.toolbarmode.label "Settings for this toolbar">
+<!ENTITY customizeToolbar.toolbarmode.label "Ustawienia dla tego paska narzędzi">
 <!ENTITY customizeToolbar.toolbarmode.accesskey "t">
-<!ENTITY customizeToolbar.iconsAndText.label "Icons and Text">
+<!ENTITY customizeToolbar.iconsAndText.label "Ikony i tekst">
 <!ENTITY customizeToolbar.iconsAndText.accesskey "a">
-<!ENTITY customizeToolbar.icons.label "Icons">
+<!ENTITY customizeToolbar.icons.label "Ikony">
 <!ENTITY customizeToolbar.icons.accesskey "I">
-<!ENTITY customizeToolbar.text.label "Text">
+<!ENTITY customizeToolbar.text.label "Tekst">
 <!ENTITY customizeToolbar.text.accesskey "T">
-<!ENTITY customizeToolbar.useSmallIcons.label "Use small icons">
+<!ENTITY customizeToolbar.useSmallIcons.label "Używaj małych ikon">
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
-<!ENTITY customizeToolbar.labelAlignEnd.label "Show text beside icon">
+<!ENTITY customizeToolbar.labelAlignEnd.label "Wyświetlaj tekst obok ikon">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
-<!ENTITY customizeToolbar.useDefault.label "Use default settings">
+<!ENTITY customizeToolbar.useDefault.label "Używaj domyślnych ustawień">
 <!ENTITY customizeToolbar.useDefault.accesskey "g">
 
 <!-- Popup Blocked notification menu -->

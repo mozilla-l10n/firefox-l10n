@@ -14,9 +14,9 @@
 <!ENTITY contextSendThisLink.accesskey "k">
 <!ENTITY contextSendImage.label "Wyślij obrazek…">
 <!ENTITY contextSendImage.accesskey "o">
-<!ENTITY contextSendVideo.label "Send Video…">
+<!ENTITY contextSendVideo.label "Wyślij wideo…">
 <!ENTITY contextSendVideo.accesskey "n">
-<!ENTITY contextSendAudio.label "Send Audio…">
+<!ENTITY contextSendAudio.label "Wyślij dźwięk…">
 <!ENTITY contextSendAudio.accesskey "n">
 <!ENTITY contextSendFrame.label "Wyślij ramkę…">
 <!ENTITY contextSendFrame.accesskey "r">

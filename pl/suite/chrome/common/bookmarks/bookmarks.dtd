@@ -60,18 +60,18 @@
 <!ENTITY menuitem.find.accesskey "Z">
 <!ENTITY menuitem.find.find.key "F">
 <!ENTITY command.findBookmarks.label "Szukaj…">
-<!ENTITY menuitem.properties.label "Properties…">
+<!ENTITY menuitem.properties.label "Właściwości…">
 <!ENTITY menuitem.properties.accesskey "o">
-<!ENTITY button.properties.label "Properties…">
+<!ENTITY button.properties.label "Właściwości…">
 <!ENTITY button.properties.accesskey "W">
 <!ENTITY menuitem.properties.key "I">
-<!ENTITY button.rename.label "Rename…">
+<!ENTITY button.rename.label "Zmień nazwę…">
 <!ENTITY button.rename.accesskey "Z">
-<!ENTITY button.delete.label "Delete">
+<!ENTITY button.delete.label "Usuń">
 <!ENTITY button.delete.accesskey "U">
-<!ENTITY menuitem.moveBookmark.label "Move Bookmark(s)…">
+<!ENTITY menuitem.moveBookmark.label "Przenieś zakładkę/zakładki…">
 <!ENTITY menuitem.moveBookmark.accesskey "M">
-<!ENTITY button.moveBookmark.label "Move…">
+<!ENTITY button.moveBookmark.label "Przenieś…">
 <!ENTITY button.moveBookmark.accesskey "M">
 <!ENTITY command.addBookmark.label "Dodaj…">
 <!ENTITY command.manageBookmarks.label "Zarządzaj">

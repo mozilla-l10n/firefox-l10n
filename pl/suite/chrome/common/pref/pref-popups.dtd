@@ -26,7 +26,7 @@
 <!ENTITY displayIcon.label "Wyświetl ikonę na pasku stanu przeglądarki">
 <!ENTITY displayIcon.accesskey "D">
 
-<!ENTITY displayNotification.label "Display a notification bar at the top of the content area">
+<!ENTITY displayNotification.label "Wyświetlaj pasek powiadomień powyżej wyświetlanej strony">
 <!ENTITY displayNotification.accesskey "N">
 
 <!ENTITY popupNote.description "Uwaga: Blokowanie wszystkich wyskakujących okien może zakłócić pracę niektórych witryn (np. okna logowania w bankach i sklepach). Naciśnij przycisk Pomoc, aby dowiedzieć się, jak pozwolić niektórym witrynom na wyświetlanie wyskakujących okien.">

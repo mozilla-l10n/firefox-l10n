@@ -20,3 +20,9 @@
 <!ENTITY signMessage.label "Podpisz cyfrowo wiadomości (domyślnie)">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Certyfikat, który będzie używany do cyfrowego podpisywania wysyłanych wiadomości:">
+
+<!ENTITY certificates.label "Certyfikaty">
+<!ENTITY manageCerts.label "Zarządzaj certyfikatami…">
+<!ENTITY manageCerts.accesskey "M">
+<!ENTITY manageDevices.label "Zarządzaj urządzeniami zabezpieczającymi…">
+<!ENTITY manageDevices.accesskey "g">

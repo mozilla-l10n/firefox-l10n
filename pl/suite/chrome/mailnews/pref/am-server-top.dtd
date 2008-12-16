@@ -19,8 +19,6 @@
 <!ENTITY biffStart.label "Sprawdzaj, czy nadeszły nowe wiadomości co">
 <!ENTITY biffStart.accesskey "S">
 <!ENTITY biffEnd.label "minut">
-<!ENTITY isSecure.label "Używaj bezpiecznego połączenia (SSL)">
-<!ENTITY isSecure.accesskey "U">
 <!ENTITY socketType.label "Używaj bezpiecznego połączenia:">
 <!ENTITY neverSecure.label "Nigdy">
 <!ENTITY neverSecure.accesskey "N">
