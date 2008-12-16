@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Đánh dấu Tất cả Các thẻ…">
 <!ENTITY organizeBookmarks.label "Quản lí Trang đánh dấu…">
 <!ENTITY bookmarkAllCmd.label "Đánh dấu Tất cả Các thẻ…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 
 <!ENTITY backCmd.label                "Lùi">
 <!ENTITY backCmd.accesskey            "L">
