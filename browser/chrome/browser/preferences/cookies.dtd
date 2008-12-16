@@ -5,8 +5,8 @@
 <!ENTITY     cookiedomain.label             "Trang"> 
 <!ENTITY     button.removecookie.label      "Xóa Cookie">
 <!ENTITY     button.removecookie.accesskey  "X">
-<!ENTITY     button.removeallcookies.label  "Xóa Toàn bộ Cookie">
-<!ENTITY     button.removeallcookies.accesskey "b">
+<!ENTITY     button.removeallcookies.label  "Xóa Toàn Bộ Cookie">
+<!ENTITY     button.removeallcookies.accesskey "B">
 
 <!ENTITY     props.name.label               "Tên:">
 <!ENTITY     props.value.label              "Nội dung:">

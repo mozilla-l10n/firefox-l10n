@@ -7,4 +7,4 @@
 <!ENTITY blocklist.moreinfo          "Thông tin chi tiết">
 
 <!ENTITY blocklist.accept.label      "Khởi động lại &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "r">
+<!ENTITY blocklist.accept.accesskey  "K">

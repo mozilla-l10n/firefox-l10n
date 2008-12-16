@@ -1,7 +1,7 @@
 <!ENTITY  button-back-mac.label        "Lùi">
 <!ENTITY  button-back-mac.accesskey    "L">
 <!ENTITY  button-next-mac.label        "Tiếp tục">
-<!ENTITY  button-next-mac.accesskey    "T">
+<!ENTITY  button-next-mac.accesskey    "i">
 <!ENTITY  button-finish-mac.label      "Hoàn tất">
 <!ENTITY  button-cancel-mac.label      "Hủy bỏ">
 

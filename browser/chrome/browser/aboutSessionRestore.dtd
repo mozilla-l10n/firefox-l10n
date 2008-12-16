@@ -4,7 +4,7 @@
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc      "Phiên &brandShortName; trước của bạn bị đóng đột ngột. Chúng tôi thành thật xin lỗi vì sự bất tiện này. Bạn có thể khôi phục lại các thẻ và cửa sổ của phiên làm việc đó, hoặc khởi tạo phiên mới nếu chúng không còn cần thiết nữa.">
 <!ENTITY restorepage.remedies       "Nếu &brandShortName; liên tục bị đóng:">
-<!ENTITY restorepage.dueToChrome    "Hãy thử vô hiệu hóa bất kì phần mở rộng nào được cài gần đây trong Trình Quản Lý Tiện Ích.">
+<!ENTITY restorepage.dueToChrome    "Hãy thử vô hiệu hóa bất kì phần mở rộng nào được cài gần đây trong Trình quản lí Tiện ích.">
 <!ENTITY restorepage.dueToContent   "Hãy thử khôi phục phiên làm việc không bao gồm những trang web mà bạn nghi ngờ là nguyên nhân gây lỗi:">
 
 <!ENTITY restorepage.restoreButton  "Khôi phục Phiên làm việc Trước">
