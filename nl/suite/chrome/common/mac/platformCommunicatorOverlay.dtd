@@ -8,14 +8,14 @@
 <!ENTITY preferencesCmd.label           "Voorkeuren…">
 <!ENTITY preferencesCmd.key             ",">
 <!ENTITY preferencesCmd.modifiers       "accel">
-<!ENTITY servicesMenu.label             "Services">
+<!ENTITY servicesMenu.label             "Voorzieningen">
 <!ENTITY hideThisAppCmd.label           "Verberg &brandShortName;">
 <!ENTITY hideThisAppCmd.key             "H">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
-<!ENTITY hideOtherAppsCmd.label         "Verberg anderen">
+<!ENTITY hideOtherAppsCmd.label         "Verberg andere">
 <!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
-<!ENTITY showAllAppsCmd.label           "Toon allen">
+<!ENTITY showAllAppsCmd.label           "Toon alles">
 <!ENTITY quitApplicationCmd.label       "&brandShortName; afsluiten"> 
 <!ENTITY quitApplicationCmd.key         "Q">
 <!ENTITY quitApplicationCmd.modifiers   "accel">
@@ -37,7 +37,7 @@
 
 <!ENTITY accel.emacs_conflict           "accel">
 
-<!ENTITY minimizeWindowCmd.label        "Verkleinen">
+<!ENTITY minimizeWindowCmd.label        "Minimaliseren">
 <!ENTITY minimizeWindowCmd.key          "M">
 <!ENTITY zoomWindowCmd.label            "Zoom">
 
