@@ -12,15 +12,15 @@
 #define bookmarks_addons Consiga complementos para marcadores
 
 #define bookmarks_toolbarfolder Carpeta de la barra de marcadores
-#define bookmarks_toolbarfolder_description Añadir marcadores a esta carpeta para mostrarlos en la barra de marcadores
+#define bookmarks_toolbarfolder_description Añada marcadores a esta carpeta para verlos en la barra de herramientas de marcadores
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
-#define getting_started Comenzar a usar el programa
+# link title for http://www.mozilla.com/en-US/firefox/central/
+#define getting_started Comenzar a usar Firefox
 
 # LOCALIZATION NOTE (latest_headlines):
 # link title for the live bookmarks sample, a redirect on
-# http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
+# http://fxfeeds.mozilla.com/en-US/firefox/headlines.xml
 # Changing the redirect is subject to approval of l10n-drivers.
 #define latest_headlines Últimas noticias
 
@@ -29,19 +29,19 @@
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
+# link title for http://www.mozilla.com/en-US/firefox/help/
 #define firefox_help Ayuda y tutoriales
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
+# link title for http://www.mozilla.com/en-US/firefox/customize/
 #define firefox_customize Personalice Firefox
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
+# link title for http://www.mozilla.com/en-US/firefox/community/
 #define firefox_community ¡Involúcrese!
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://www.mozilla.com/en-US/firefox/about/
 #define firefox_about Acerca de nosotros
 
 #unfilter emptyLines
