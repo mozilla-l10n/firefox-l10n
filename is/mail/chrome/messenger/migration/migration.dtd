@@ -4,8 +4,8 @@
 <!ENTITY importFromNonWin.label "Flytja inn stillingar, reikninga, nafnabók, síur og önnur gögn frá:">
 <!ENTITY importFromNothing.label "Ekki flytja neitt inn">
 <!ENTITY importFromNothing.accesskey "E">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 eða Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x eða SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "s">
 <!ENTITY importFromNetscape4.label "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "Outlook Express">

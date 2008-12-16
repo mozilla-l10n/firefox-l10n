@@ -53,7 +53,7 @@
 <!ENTITY validation.crl.autoupdate.time.label1 "Uppfærsla">
 <!ENTITY validation.crl.autoupdate.time.label2 "Daga fyrir næsta uppfærslu dag">
 <!ENTITY validation.crl.autoupdate.freq.label1 "Uppfæra hverja">
-<!ENTITY validation.crl.autoupdate.freq.label2 "dag(a)">
+<!ENTITY validation.crl.autoupdate.freq.label2 "Dag(a)">
 <!ENTITY validation.crl.autoupdate.url.label "CRL mun verða innflutt frá:">
 <!ENTITY crl.import.status.title "Staða innflutnings á CRL">
 <!ENTITY crl.import.success.message "Tókst að hlaða inn afturköllunarlista skilríkja (CRL).">

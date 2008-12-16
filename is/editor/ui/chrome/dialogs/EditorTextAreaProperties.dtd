@@ -57,6 +57,6 @@
 <!ENTITY WrapDefault.value "Sjálfgefið">
 <!ENTITY WrapOff.value "Óvirkt">
 <!ENTITY WrapHard.value "Erfitt">
-<!ENTITY WrapSoft.value "lágt">
+<!ENTITY WrapSoft.value "Fljótandi">
 <!ENTITY WrapPhysical.value "Raunverulegur">
 <!ENTITY WrapVirtual.value "Sýndar">

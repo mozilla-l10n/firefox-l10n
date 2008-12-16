@@ -141,7 +141,7 @@
 <!ENTITY moreCriteria.label "+">
 <!ENTITY advancedSearch.onlybookmarked.label "Leita aðeins í bókamerkjum">
 <!ENTITY advancedSearch.match.label "Passar við ">
-<!ENTITY advancedSearch.all.label "Allar">
+<!ENTITY advancedSearch.all.label "allar">
 <!ENTITY advancedSearch.any.label "hvern sem er">
 <!ENTITY advancedSearch.rules.label " fyrir eftirfarandi reglur:">
 <!ENTITY advancedSearch.subj_keyword.label "Inniheldur textann">
@@ -150,11 +150,11 @@
 <!ENTITY advancedSearch.location_startswith.label "byrjar á">
 <!ENTITY advancedSearch.location_is.label "er">
 <!ENTITY advancedSearch.location_onsite.label "er á vefsvæði">
-<!ENTITY advancedSearch.time_is.label "Virkt">
+<!ENTITY advancedSearch.time_is.label "virkt">
 <!ENTITY advancedSearch.time_before.label "fyrir">
 <!ENTITY advancedSearch.time_after.label "eftir">
 <!ENTITY advancedSearch.time_inlast.label "er í seinustu">
-<!ENTITY advancedSearch.last_days.label "Daga">
+<!ENTITY advancedSearch.last_days.label "daga">
 <!ENTITY advancedSearch.last_weeks.label "vikur">
 <!ENTITY advancedSearch.last_months.label "mánuðir">
 <!ENTITY advancedSearch.plus.label "+">
