@@ -40,7 +40,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY importDialog.windowTitle        "Importas">
-<!ENTITY importDialog.allTitle           "importuoti viską">
+<!ENTITY importDialog.allTitle           "Importuoti viską">
 <!ENTITY importDialog.mailTitle          "laiškus">
 <!ENTITY importDialog.addressbookTitle   "adresų knygas">
 <!ENTITY importDialog.settingsTitle      "nuostatas">
