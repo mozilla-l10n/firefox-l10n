@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
 <!ENTITY organizeBookmarks.label "Spravovať záložky…">
 <!ENTITY bookmarkAllCmd.label "Pridať všetky karty medzi záložky…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
 <!ENTITY backCmd.label                  "Naspäť">
 <!ENTITY backCmd.accesskey              "N">
@@ -385,9 +386,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "N">
 
 <!ENTITY bidiSwitchPageDirectionItem.label "Zmeniť smer stránky">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "Z">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "m">
 <!ENTITY bidiSwitchTextDirectionItem.label "Zmeniť smer textu">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "m">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
 <!ENTITY findOnCmd.label "Hľadať na tejto stránke">
@@ -403,7 +404,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Hotovo">
 <!ENTITY editBookmark.cancel.label                   "Zrušiť">
-<!ENTITY editBookmark.removeBookmark.label           "Odstrániť záložku">
 <!ENTITY editBookmark.removeBookmark.accessKey       "O">
 <!ENTITY editBookmark.undo.label                     "Späť">
 <!ENTITY editBookmark.undo.accessKey                 "S">
