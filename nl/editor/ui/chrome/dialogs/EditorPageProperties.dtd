@@ -22,8 +22,8 @@
    - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -46,5 +46,5 @@
 <!ENTITY descriptionInput.label "Beschrijving:">
 <!ENTITY descriptionInput.accessKey "B">
 <!ENTITY locationNewPage.label "[Nieuwe pagina, nog niet opgeslagen]">
-<!ENTITY EditHEADSource1.label "Geavanceerde gebruikers:">
-<!ENTITY EditHEADSource2.label "Om andere inhoud van het &lt;head&gt;-gebied te bewerken, gebruik “HTML-bron” in het menu Beeld of de Bewerkingswerkbalk.">
+<!ENTITY EditHEADSource1.label "Gevorderde gebruikers:">
+<!ENTITY EditHEADSource2.label "Gebruik “HTML-bron” in het menu Beeld of de Bewerkingsmoduswerkbalk om andere inhoud van het &lt;head&gt;-gebied te bewerken.">

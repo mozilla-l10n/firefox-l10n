@@ -41,7 +41,7 @@
 <!ENTITY ButtonType.label "Type">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Verzenden">
-<!ENTITY reset.value "Wissen">
+<!ENTITY reset.value "Herinitialiseren">
 <!ENTITY button.value "Knop">
 
 <!ENTITY ButtonName.label "Naam:">
@@ -49,11 +49,11 @@
 <!ENTITY ButtonValue.label "Waarde:">
 <!ENTITY ButtonValue.accesskey "W">
 <!ENTITY tabIndex.label "Tabindex:">
-<!ENTITY tabIndex.accesskey "i">
+<!ENTITY tabIndex.accesskey "T">
 <!ENTITY ButtonDisabled.label "Uitgeschakeld">
 <!ENTITY ButtonDisabled.accesskey "U">
-<!ENTITY AccessKey.label "Toegangssleutel:">
-<!ENTITY AccessKey.accesskey "s">
+<!ENTITY AccessKey.label "Sneltoets:">
+<!ENTITY AccessKey.accesskey "S">
 
 <!ENTITY RemoveButton.label "Knop verwijderen">
 <!ENTITY RemoveButton.accesskey "v">

@@ -22,8 +22,8 @@
    - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -37,12 +37,12 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "HTML invoegen">
-<!ENTITY sourceEditField.label "Voer HTML-code en tekst in:">
-<!ENTITY example.label "Voorbeeld:">
+<!ENTITY sourceEditField.label "Voer HTML-tags en tekst in:">
+<!ENTITY example.label "Voorbeeld: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
-<!ENTITY exampleText.label "Hallo Wereld!">
+<!ENTITY exampleText.label "Hallo wereld!">
 <!ENTITY insertButton.label "Invoegen">
 <!ENTITY insertButton.accesskey "I">

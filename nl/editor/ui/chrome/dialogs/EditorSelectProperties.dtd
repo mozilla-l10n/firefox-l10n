@@ -46,7 +46,7 @@
 <!ENTITY SelectDisabled.label "Uitgeschakeld">
 <!ENTITY SelectDisabled.accesskey "U">
 <!ENTITY SelectTabIndex.label "Tabindex:">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.accesskey "i">
 
 <!ENTITY OptGroup.label "Optiegroep">
 <!ENTITY OptGroupLabel.label "Label:">
@@ -60,7 +60,7 @@
 <!ENTITY OptionValue.label "Waarde:">
 <!ENTITY OptionValue.accesskey "W">
 <!ENTITY OptionSelected.label "Initieel geselecteerd">
-<!ENTITY OptionSelected.accesskey "S">
+<!ENTITY OptionSelected.accesskey "s">
 <!ENTITY OptionDisabled.label "Uitgeschakeld">
 <!ENTITY OptionDisabled.accesskey "U">
 

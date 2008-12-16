@@ -22,8 +22,8 @@
    - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -38,24 +38,24 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Paginakleuren en achtergrond">
 <!ENTITY pageColors.label "Paginakleuren">
-<!ENTITY defaultColorsRadio.label "Standaardkleuren van lezer (kleuren niet in pagina vastleggen)">
+<!ENTITY defaultColorsRadio.label "Standaardkleuren van lezer (kleuren niet in pagina instellen)">
 <!ENTITY defaultColorsRadio.accessKey "S">
-<!ENTITY defaultColorsRadio.tooltip "Alleen de kleurinstellingen van de browser van de lezer gebruiken">
+<!ENTITY defaultColorsRadio.tooltip "Alleen de kleurinstellingen van de browser (van de lezer) gebruiken">
 <!ENTITY customColorsRadio.label "Aangepaste kleuren gebruiken:">
-<!ENTITY customColorsRadio.accessKey "g">
-<!ENTITY customColorsRadio.tooltip "Deze kleurinstellingen overschrijven de browserinstellingen van de lezer">
+<!ENTITY customColorsRadio.accessKey "A">
+<!ENTITY customColorsRadio.tooltip "Deze kleurinstellingen hebben voorrang op de browserinstellingen van de lezer">
 
 <!ENTITY normalText.label "Normale tekst">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "Koppelingstekst">
-<!ENTITY linkText.accessKey "o">
+<!ENTITY linkText.accessKey "K">
 <!ENTITY activeLinkText.label "Actieve koppeling">
-<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY activeLinkText.accessKey "c">
 <!ENTITY visitedLinkText.label "Bezochte koppeling">
 <!ENTITY visitedLinkText.accessKey "B">
 <!ENTITY background.label "Achtergrond:">
-<!ENTITY background.accessKey "t">
+<!ENTITY background.accessKey "h">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Achtergrondafbeelding:">
-<!ENTITY backgroundImage.accessKey "h">
-<!ENTITY backgroundImage.tooltip "Een afbeeldingsbestand als achtergrond voor uw pagina gebruiken">
+<!ENTITY backgroundImage.accessKey "t">
+<!ENTITY backgroundImage.tooltip "Een afbeeldingsbestand gebruiken als achtergrond voor uw pagina">

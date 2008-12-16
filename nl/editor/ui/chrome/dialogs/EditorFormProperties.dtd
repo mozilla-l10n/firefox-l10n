@@ -39,14 +39,14 @@
 <!ENTITY Settings.label "Instellingen">
 
 <!ENTITY FormName.label "Formuliernaam:">
-<!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Actie-URL:">
-<!ENTITY FormAction.accesskey "A">
+<!ENTITY FormName.accesskey "F">
+<!ENTITY FormAction.label "URL van handeling:">
+<!ENTITY FormAction.accesskey "U">
 <!ENTITY FormMethod.label "Methode:">
 <!ENTITY FormMethod.accesskey "M">
-<!ENTITY FormEncType.label "Encoding:">
-<!ENTITY FormEncType.accesskey "c">
-<!ENTITY FormTarget.label "Doelframe:">
+<!ENTITY FormEncType.label "Codering:">
+<!ENTITY FormEncType.accesskey "C">
+<!ENTITY FormTarget.label "Doeldeelvenster:">
 <!ENTITY FormTarget.accesskey "D">
 
 <!ENTITY RemoveForm.label "Formulier verwijderen">

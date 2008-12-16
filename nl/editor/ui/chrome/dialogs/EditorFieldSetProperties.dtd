@@ -42,11 +42,11 @@
 <!ENTITY EditLegendText.label "Legenda bewerken:">
 <!ENTITY EditLegendText.accesskey "b">
 <!ENTITY LegendAlign.label "Legenda uitlijnen:">
-<!ENTITY LegendAlign.accesskey "A">
+<!ENTITY LegendAlign.accesskey "u">
 <!ENTITY AlignDefault.label "Standaard">
 <!ENTITY AlignLeft.label "Links">
 <!ENTITY AlignCenter.label "Gecentreerd">
 <!ENTITY AlignRight.label "Rechts">
 
 <!ENTITY RemoveFieldSet.label "Veldverzameling verwijderen">
-<!ENTITY RemoveFieldSet.accesskey "R">
+<!ENTITY RemoveFieldSet.accesskey "v">

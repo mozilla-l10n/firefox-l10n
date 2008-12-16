@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Tekstgebiedeigenschappen">
+<!ENTITY windowTitle.label "Tekstgebiedseigenschappen">
 
 <!ENTITY Settings.label "Instellingen">
 
@@ -44,10 +44,10 @@
 <!ENTITY TextAreaRows.accessKey "R">
 <!ENTITY TextAreaCols.label "Kolommen:">
 <!ENTITY TextAreaCols.accessKey "K">
-<!ENTITY TextAreaReadOnly.label "Alleen lezen">
+<!ENTITY TextAreaReadOnly.label "Alleen-lezen">
 <!ENTITY TextAreaReadOnly.accessKey "A">
 <!ENTITY TextAreaDisabled.label "Uitgeschakeld">
-<!ENTITY TextAreaDisabled.accessKey "D">
+<!ENTITY TextAreaDisabled.accessKey "U">
 <!ENTITY TextAreaTabIndex.label "Tabindex:">
 <!ENTITY TextAreaTabIndex.accessKey "i">
 <!ENTITY TextAreaAccessKey.label "Sneltoets:">

@@ -27,8 +27,8 @@
    -   Stephen Donner (technutz@netscape.net)
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -46,12 +46,12 @@
 <!ENTITY fileMenu.label "Bestand">
 <!ENTITY fileMenu.accesskey "B">
 <!ENTITY newBlankPageCmd.label "Composer-pagina">
-<!ENTITY newBlankPageCmd.accesskey "p">
+<!ENTITY newBlankPageCmd.accesskey "C">
 <!ENTITY newMenu.label "Nieuw">
 <!ENTITY openFileCmd.label "Bestand openen…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "Internetlocatie openen…">
+<!ENTITY openRemoteCmd.label "Weblocatie openen…">
 <!ENTITY openRemoteCmd.accesskey "l">
 <!ENTITY openRemoteCmd.key "l">
 <!ENTITY fileRecentMenu.label "Recente pagina’s">
@@ -69,14 +69,14 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publiceren als…">
 <!ENTITY publishAsCmd.accesskey "c">
-<!ENTITY exportToTextCmd.label "Exporteren als tekst…">
+<!ENTITY exportToTextCmd.label "Exporteren naar tekst…">
 <!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY saveAsChangeEncodingCmd.label "Opslaan en tekenset wijzigen">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "w">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "k">
 <!ENTITY previewCmd.label "Pagina bekijken">
 <!ENTITY previewCmd.accesskey "b">
 <!ENTITY sendPageCmd.label "Pagina verzenden…">
-<!ENTITY sendPageCmd.accesskey "v">
+<!ENTITY sendPageCmd.accesskey "z">
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey "i">
 <!ENTITY printCmd.label "Afdrukken…">
@@ -116,7 +116,7 @@
 <!ENTITY checkSpellingCmd.accesskey "c">
 <!ENTITY checkSpellingCmd.key "k">
 <!ENTITY validateCmd.label "HTML valideren">
-<!ENTITY validateCmd.accesskey "M">
+<!ENTITY validateCmd.accesskey "v">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Invoegen">
@@ -147,13 +147,13 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "T">
 <!ENTITY createLinkCmd.label "Koppeling maken…">
 <!ENTITY createLinkCmd.accesskey "l">
-<!ENTITY editLinkCmd.label "Koppeling in een nieuw venster bewerken">
-<!ENTITY editLinkCmd.accesskey "i">
+<!ENTITY editLinkCmd.label "Koppeling bewerken in nieuw Composer-venster">
+<!ENTITY editLinkCmd.accesskey "w">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Ongedaan maken">
 <!ENTITY undoCmd.accesskey "O">
-<!ENTITY redoCmd.label "Herhalen">
-<!ENTITY redoCmd.accesskey "H">
+<!ENTITY redoCmd.label "Opnieuw uitvoeren">
+<!ENTITY redoCmd.accesskey "u">
 <!ENTITY cutCmd.label "Knippen">
 <!ENTITY cutCmd.accesskey "n">
 <!ENTITY copyCmd.label "Kopiëren">
@@ -205,7 +205,7 @@
 <!ENTITY size-mediumCmd.accesskey "m">
 <!ENTITY size-largeCmd.label "groot">
 <!ENTITY size-largeCmd.accesskey "g">
-<!ENTITY size-x-largeCmd.label "x groot">
+<!ENTITY size-x-largeCmd.label "x-groot">
 <!ENTITY size-x-largeCmd.accesskey "x">
 <!ENTITY size-xx-largeCmd.label "xx-groot">
 <!ENTITY size-xx-largeCmd.accesskey "r">
@@ -222,7 +222,7 @@
 <!ENTITY styleUnderlineCmd.label "Onderstrepen">
 <!ENTITY styleUnderlineCmd.accesskey "O">
 <!ENTITY styleUnderlineCmd.key "u">
-<!ENTITY styleStrikeThruCmd.label "Doorstrepen">
+<!ENTITY styleStrikeThruCmd.label "Doorhalen">
 <!ENTITY styleStrikeThruCmd.accesskey "D">
 <!ENTITY styleSuperscriptCmd.label "Superscript">
 <!ENTITY styleSuperscriptCmd.accesskey "p">
@@ -248,14 +248,14 @@
 <!ENTITY styleVar.accesskey "r">
 
 <!ENTITY formatFontColor.label "Tekstkleur…">
-<!ENTITY formatFontColor.accesskey "K">
+<!ENTITY formatFontColor.accesskey "k">
 <!ENTITY tableOrCellColor.label "Tabel- of celachtergrondkleur…">
 <!ENTITY tableOrCellColor.accesskey "T">
 
 <!ENTITY formatRemoveStyles.key "y">
 <!ENTITY formatRemoveLinks.key "k">
-<!ENTITY formatRemoveNamedAnchors.label "Ankerverwijzing verwijderen">
-<!ENTITY formatRemoveNamedAnchors.accesskey "V">
+<!ENTITY formatRemoveNamedAnchors.label "Ankerverwijzingen verwijderen">
+<!ENTITY formatRemoveNamedAnchors.accesskey "w">
 <!ENTITY formatRemoveNamedAnchors.key "a">
 
 <!ENTITY paragraphMenu.label "Alinea">
@@ -300,8 +300,8 @@
 <!ENTITY bodyTextCmd.label "Tekst">
 <!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Geavanceerde opties">
-<!ENTITY advancedPropertiesCmd.accesskey "a">
+<!ENTITY advancedPropertiesCmd.label "Geavanceerde eigenschappen">
+<!ENTITY advancedPropertiesCmd.accesskey "c">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Uitlijnen">
@@ -309,9 +309,9 @@
 <!ENTITY alignLeft.label "Links">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Links uitlijnen">
-<!ENTITY alignCenter.label "Midden">
-<!ENTITY alignCenter.accesskey "M">
-<!ENTITY alignCenter.tooltip "In het midden uitlijnen">
+<!ENTITY alignCenter.label "Gecentreerd">
+<!ENTITY alignCenter.accesskey "G">
+<!ENTITY alignCenter.tooltip "Gecentreerd uitlijnen">
 <!ENTITY alignRight.label "Rechts">
 <!ENTITY alignRight.accesskey "R">
 <!ENTITY alignRight.tooltip "Rechts uitlijnen">
@@ -321,14 +321,14 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Laag">
-<!ENTITY layerSendToBack.tooltip "Naar achteren brengen">
+<!ENTITY layerSendToBack.tooltip "Naar achteren sturen">
 <!ENTITY layerBringToFront.tooltip "Naar voren brengen">
 
 <!ENTITY increaseIndent.label "Inspringing vergroten">
 <!ENTITY increaseIndent.accesskey "n">
 <!ENTITY increaseIndent.key "=">
 <!ENTITY decreaseIndent.label "Inspringing verkleinen">
-<!ENTITY decreaseIndent.accesskey "r">
+<!ENTITY decreaseIndent.accesskey "v">
 <!ENTITY decreaseIndent.key "-">
 
 <!ENTITY grid.label "Raster plaatsen">
@@ -367,10 +367,10 @@
 <!ENTITY tableRowBelow.label "Rij eronder">
 <!ENTITY tableRowBelow.accesskey "o">
 <!ENTITY tableColumn.label "Kolom">
-<!ENTITY tableColumns.label "Kolom(en)">
+<!ENTITY tableColumns.label "Kolom(men)">
 <!ENTITY tableColumn.accesskey "K">
 <!ENTITY tableColumnBefore.label "Kolom ervoor">
-<!ENTITY tableColumnBefore.accesskey "o">
+<!ENTITY tableColumnBefore.accesskey "K">
 <!ENTITY tableColumnAfter.label "Kolom erachter">
 <!ENTITY tableColumnAfter.accesskey "e">
 <!ENTITY tableCell.label "Cel">
@@ -404,34 +404,34 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menubalk">
-<!ENTITY compositionToolbar.tooltip "Opmaakwerkbalk">
+<!ENTITY compositionToolbar.tooltip "Compositiewerkbalk">
 <!ENTITY formatToolbar.tooltip "Opmaakwerkbalk">
-<!ENTITY newToolbarCmd.tooltip "Een nieuwe Composer-pagina aanmaken">
+<!ENTITY newToolbarCmd.tooltip "Een nieuwe Composer-pagina creëren">
 <!ENTITY openToolbarCmd.label "Openen">
 <!ENTITY openToolbarCmd.tooltip "Een lokaal bestand openen">
 <!ENTITY saveToolbarCmd.tooltip "Bestand opslaan op een lokale locatie">
 <!ENTITY publishToolbarCmd.tooltip "Bestand uploaden naar een locatie op afstand">
-<!ENTITY previewToolbarCmd.label "Navigeren">
+<!ENTITY previewToolbarCmd.label "Bekijken">
 <!ENTITY previewToolbarCmd.tooltip "Deze pagina in de browser laden">
 <!ENTITY printToolbarCmd.label "Afdrukken">
 <!ENTITY printToolbarCmd.tooltip "Deze pagina afdrukken">
 <!ENTITY findToolbarCmd.label "Zoeken">
 <!ENTITY findToolbarCmd.tooltip "Tekst zoeken in pagina">
 <!ENTITY spellToolbarCmd.label "Spelling">
-<!ENTITY spellToolbarCmd.tooltip "Spelling van selectie of gehele pagina controleren">
+<!ENTITY spellToolbarCmd.tooltip "Spelling van selectie of hele pagina controleren">
 <!ENTITY imageToolbarCmd.label "Afbeelding">
-<!ENTITY imageToolbarCmd.tooltip "Nieuwe afbeelding invoegen of eigenschappen van geselecteerde afbeelding aanpassen">
+<!ENTITY imageToolbarCmd.tooltip "Nieuwe afbeelding invoegen of eigenschappen van geselecteerde afbeelding bewerken">
 <!ENTITY hruleToolbarCmd.label "H.lijn">
-<!ENTITY hruleToolbarCmd.tooltip "Horizontale lijn invoegen of eigenschappen van geselecteerde lijn aanpassen">
+<!ENTITY hruleToolbarCmd.tooltip "Horizontale lijn invoegen of eigenschappen van geselecteerde lijn bewerken">
 <!ENTITY tableToolbarCmd.label "Tabel">
-<!ENTITY tableToolbarCmd.tooltip "Nieuwe tabel invoegen of eigenschappen van geselecteerde tabel aanpassen">
+<!ENTITY tableToolbarCmd.tooltip "Nieuwe tabel invoegen of eigenschappen van geselecteerde tabel bewerken">
 <!ENTITY linkToolbarCmd.label "Koppeling">
-<!ENTITY linkToolbarCmd.tooltip "Nieuwe koppeling invoegen of eigenschappen van geselecteerde koppeling aanpassen">
+<!ENTITY linkToolbarCmd.tooltip "Nieuwe koppeling invoegen of eigenschappen van geselecteerde koppeling bewerken">
 <!ENTITY anchorToolbarCmd.label "Anker">
-<!ENTITY anchorToolbarCmd.tooltip "Nieuwe ankerverwijzing invoegen of eigenschappen van geselecteerde ankerverwijzing aanpassen">
-<!ENTITY TextColorButton.tooltip "Tekstkleur kiezen">
-<!ENTITY BackgroundColorButton.tooltip "Achtergrondkleur kiezen">
-<!ENTITY throbber.tooltip "Ga naar de homepage van &vendorShortName;">
+<!ENTITY anchorToolbarCmd.tooltip "Nieuwe ankerverwijzing invoegen of eigenschappen van geselecteerde ankerverwijzing bewerken">
+<!ENTITY TextColorButton.tooltip "Kleur voor tekst kiezen">
+<!ENTITY BackgroundColorButton.tooltip "Kleur voor achtergrond kiezen">
+<!ENTITY throbber.tooltip "Naar de &vendorShortName;-beginpagina gaan">
 <!ENTITY HighlightColorButton.tooltip "Markeringskleur voor tekst kiezen">
 
 <!-- Editor toolbar -->
@@ -440,34 +440,34 @@
 <!ENTITY boldToolbarCmd.tooltip "Vet">
 <!ENTITY italicToolbarCmd.tooltip "Cursief">
 <!ENTITY underlineToolbarCmd.tooltip "Onderstrepen">
-<!ENTITY bulletListToolbarCmd.tooltip "Lijst met opsommingstekens">
-<!ENTITY numberListToolbarCmd.tooltip "Lijst met nummering">
-<!ENTITY outdentToolbarCmd.tooltip "Inspringing verkleinen">
-<!ENTITY indentToolbarCmd.tooltip "Inspringing vergroten">
+<!ENTITY bulletListToolbarCmd.tooltip "Opsommingslijst toepassen of verwijderen">
+<!ENTITY numberListToolbarCmd.tooltip "Genummerde lijst toepassen of verwijderen">
+<!ENTITY outdentToolbarCmd.tooltip "Tekst laten terugspringen (verplaatsen naar links)">
+<!ENTITY indentToolbarCmd.tooltip "Tekst laten inspringen (verplaatsen naar rechts)">
 <!ENTITY AlignPopupButton.tooltip "Tekstuitlijning kiezen">
 <!ENTITY InsertPopupButton.tooltip "Een koppeling, ankerverwijzing, afbeelding, horizontale lijn of tabel invoegen">
 <!ENTITY alignLeftButton.tooltip "Tekst uitlijnen langs de linkermarge">
-<!ENTITY alignCenterButton.tooltip "Tekst uitlijnen in het midden">
+<!ENTITY alignCenterButton.tooltip "Tekst gecentreerd uitlijnen">
 <!ENTITY alignRightButton.tooltip "Tekst uitlijnen langs de rechtermarge">
-<!ENTITY alignjustifyButton.tooltip "Tekst uitlijnen langs de linker- en rechtermarge">
+<!ENTITY alignjustifyButton.tooltip "Tekst uitlijnen langs de linker- en rechtermarges">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normaal">
 <!ENTITY NormalMode.label "Normale bewerkingsmodus">
 <!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "Tabelranden en ankerverwijzingen tonen">
-<!ENTITY AllTagsMode.label "HTML-codes">
-<!ENTITY AllTagsMode.accesskey "c">
-<!ENTITY AllTagsMode.tooltip "Pictogrammen weergeven voor alle HTML-codes">
+<!ENTITY AllTagsMode.label "HTML-tags">
+<!ENTITY AllTagsMode.accesskey "H">
+<!ENTITY AllTagsMode.tooltip "Pictogrammen weergeven voor alle HTML-tags">
 
 <!ENTITY HTMLSourceMode.label "HTML-bron">
 <!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
 <!ENTITY SourceMode.label "Bron">
-<!ENTITY HTMLSourceMode.accesskey "b">
+<!ENTITY HTMLSourceMode.accesskey "B">
 <!ENTITY HTMLSourceMode.tooltip "HTML-bron bewerken">
 <!ENTITY PreviewMode.label "Voorbeeld">
 <!ENTITY PreviewMode.accesskey "V">
-<!ENTITY PreviewMode.tooltip "Als WYSIWYG tonen (zoals in de browser)">
+<!ENTITY PreviewMode.tooltip "Weergeven als WYSIWYG (zoals in de browser)">
 
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
      Use latin "ltr" if you want the <html> image to left of the 
