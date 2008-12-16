@@ -41,13 +41,11 @@
 <!ENTITY messageDisplay.caption          "Visualització de missatges">
 <!ENTITY viewDefaultCharset.label        "Codificació de caràcters per defecte:">
 <!ENTITY viewDefaultCharset.accesskey    "d">
-<!ENTITY forceCharsetOverride.label      "Utilitza sempre la codificació de caràcters per defecte quan es mostrin els missatges (ignora la codificació de caràcters especificada per la capçalera MIME).">
-<!ENTITY forceCharsetOverride.accesskey  "A">
 
 <!ENTITY composingMessages.caption       "Redacció de missatges">
 <!ENTITY useMIME.label                   "Per a aquells missatges que continguin caràcters de 8-bit, utilitzeu la codificació MIME 'quoted printable'. Desmarqueu-ho per a enviar els missatges tal com són.">
 <!ENTITY useMIME.accesskey               "P">
 <!ENTITY sendDefaultCharset.label        "Codificació de caràcters per defecte:">
 <!ENTITY sendDefaultCharset.accesskey    "C">
-<!ENTITY replyInDefaultCharset.label     "Utilitzeu sempre aquesta codificació per defecte en les respostes. (Quan estigui desmarcat, només els missatges nous la utilitzaran.)">
-<!ENTITY replyInDefaultCharset.accesskey "U">
+<!ENTITY replyInDefaultCharset2.label    "Sempre que sigui possible, utilitzeu aquesta codificació per defecte en les respostes. (Quan estigui desmarcat, només els missatges nous la utilitzaran.)">
+<!ENTITY replyInDefaultCharset2.accesskey "U">

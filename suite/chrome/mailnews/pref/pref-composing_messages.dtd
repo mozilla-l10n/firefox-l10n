@@ -47,6 +47,8 @@
 <!ENTITY asAttachment.label "Com a adjunció">
 <!ENTITY asAttachment.accesskey "a">
 
+<!ENTITY replyQuoteInline.label               "Cita els missatges vists a l'interior en les respostes">
+<!ENTITY replyQuoteInline.accesskey           "C">
 <!ENTITY warnOnSendAccelKey.label "Confirma quan s'utilitzi una drecera de teclat per a enviar el missatge">
 <!ENTITY warnOnSendAccelKey.accesskey "C">
 
