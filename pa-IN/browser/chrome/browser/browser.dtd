@@ -411,7 +411,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                      "ਮੁਕੰਮਲ">
 <!ENTITY editBookmark.cancel.label                   "ਰੱਦ ਕਰੋ">
-<!ENTITY editBookmark.removeBookmark.label           "ਬੁੱਕਮਾਰਕ ਹਟਾਓ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 <!ENTITY editBookmark.undo.label                     "ਵਾਪਸ">
 <!ENTITY editBookmark.undo.accessKey                 "U">

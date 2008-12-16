@@ -22,8 +22,6 @@
 <!ENTITY biffStart.label "ਨਵੇਂ ਸੁਨਹਿਆਂ ਦੀ ਹਰ ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "ਮਿੰਟ ਬਾਅਦ ਜਾਂਚ ਕਰੋ">
-<!ENTITY isSecure.label "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਵਰਤੋਂ (SSL)">
-<!ENTITY isSecure.accesskey "U">
 <!ENTITY useSecAuth.label "ਸੁਰੱਖਿਅਤ ਪਰਮਾਣਕਿਤਾ ਵਰਤੋਂ">
 <!ENTITY socketType.label "ਸੁਰੱਖਿਅਟ ਕੁਨੈਕਸ਼ਨ ਵਰਤੋਂ:">
 <!ENTITY neverSecure.label "ਕਦੇ ਨਹੀਂ">
