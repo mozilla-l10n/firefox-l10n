@@ -40,17 +40,17 @@
 
 <!ENTITY fieldMapImport.title "Importa la llibreta d'adreces">
 <!ENTITY fieldMapImport.size "width: 45em; height: 35em;">
-<!ENTITY fieldMapImport.recordNumber "Registre:">
-<!ENTITY fieldMapImport.next "Següent">
+<!ENTITY fieldMapImport.recordNumber "Dades importades per al registre:">
+<!ENTITY fieldMapImport.next.label "Següent">
 <!ENTITY fieldMapImport.next.accesskey "n">
-<!ENTITY fieldMapImport.previous "Anterior">
+<!ENTITY fieldMapImport.previous.label "Anterior">
 <!ENTITY fieldMapImport.previous.accesskey "e">
 <!ENTITY fieldMapImport.text "Utilitza Mou cap amunt i Mou cap avall per emparellar els camps de la llibreta d'adreces a la esquerra de les dades correctes per importar-les a la dreta. No marqueu els ítems que no voleu importar.  ">
-<!ENTITY fieldMapImport.up "Mou cap amunt">
+<!ENTITY fieldMapImport.up.label "Mou cap amunt">
 <!ENTITY fieldMapImport.up.accesskey "u">
-<!ENTITY fieldMapImport.down "Mou cap avall">
+<!ENTITY fieldMapImport.down.label "Mou cap avall">
 <!ENTITY fieldMapImport.down.accesskey "v">
 <!ENTITY fieldMapImport.fieldListTitle "Camps de la llibreta d'adreces:">
 <!ENTITY fieldMapImport.dataTitle "Registres de dades per a importar:">
-<!ENTITY fieldMapImport.skipFirstRecord "La primera entrada conté els noms dels camps">
+<!ENTITY fieldMapImport.skipFirstRecord.label "La primera entrada conté els noms dels camps">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "L">
