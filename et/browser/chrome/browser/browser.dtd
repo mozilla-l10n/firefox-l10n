@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
 <!ENTITY organizeBookmarks.label                 "Redigeeri järjehoidjaid...">
 <!ENTITY bookmarkAllCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
+<!ENTITY bookmarksToolbarChevron.tooltip         "Veel järjehoidjaid">
 
 <!ENTITY backCmd.label                           "Tagasi">
 <!ENTITY backCmd.accesskey                       "T">
