@@ -7,7 +7,7 @@
  
 <!ENTITY editfield2.label "Staðfestu lykilorð:">
  
-<!ENTITY checkbox.label "Haka">
+<!ENTITY checkbox.label "haka">
 <!ENTITY copyCmd.label "Afrita">
 <!ENTITY copyCmd.accesskey "A">
 <!ENTITY selectAllCmd.label "Velja allt">

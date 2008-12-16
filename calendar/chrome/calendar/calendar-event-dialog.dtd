@@ -218,17 +218,17 @@
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label "Breyta endurtekningu">
 <!ENTITY event.repeat.does.not.repeat.label "Engin endurtekning">
-<!ENTITY event.repeat.daily.label "daglega">
+<!ENTITY event.repeat.daily.label "Daglega">
 <!ENTITY event.repeat.weekly.label "Vikulega">
 <!ENTITY event.repeat.every.weekday.label "Alla virka daga">
 <!ENTITY event.repeat.bi.weekly.label "Aðra hverja viku">
-<!ENTITY event.repeat.monthly.label "mánaðarlega">
+<!ENTITY event.repeat.monthly.label "Mánaðarlega">
 <!ENTITY event.repeat.yearly.label "Árlega">
 <!ENTITY event.repeat.custom.label "Sérsniðið…">
 <!ENTITY event.recurrence.pattern.label "Endurtekið">
 <!ENTITY event.recurrence.occurs.label "Endurtaka">
 <!ENTITY event.recurrence.day.label "daglega">
-<!ENTITY event.recurrence.week.label "Vikulega">
+<!ENTITY event.recurrence.week.label "vikulega">
 <!ENTITY event.recurrence.month.label "mánaðarlega">
 <!ENTITY event.recurrence.year.label "árlega">
 <!ENTITY event.recurrence.pattern.every.label "Hverja">
@@ -308,7 +308,7 @@
 <!ENTITY event.recurrence.range.label "Tímabil endurtekninga">
 <!ENTITY event.recurrence.forever.label "Engin lokadagsetning">
 <!ENTITY event.recurrence.repeat.for.label "Búa til">
-<!ENTITY event.recurrence.appointments.label "atburði">
+<!ENTITY event.recurrence.appointments.label "Atburði">
 <!ENTITY event.repeat.until.label "Endurtaka þangað til">
 <!ENTITY event.recurrence.preview.label "Forskoða">
 <!-- Reminder dialog -->

@@ -47,7 +47,7 @@
 <!ENTITY download.label "Hala niður">
 <!ENTITY download.accesskey "n">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label "Hausar">
+<!ENTITY headers.label "hausar">
 <!ENTITY headers.accesskey "h">
 <!ENTITY mark.label "Merkja þá hausa sem eftir eru sem lesna">
 <!ENTITY mark.accesskey "M">

@@ -112,7 +112,7 @@ myndir verða leyfilegar í HTML pósti fyrir þennan tengilið.">
 <!ENTITY Birthday.accesskey "A">
 <!ENTITY In.label "">
 <!ENTITY Year.emptytext "Ár">
-<!ENTITY Or.value "Eða">
+<!ENTITY Or.value "eða">
 <!ENTITY Age.emptytext "Aldur">
 <!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Vinna">

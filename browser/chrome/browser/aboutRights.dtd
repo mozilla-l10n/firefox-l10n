@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Ef þessi vara inniheldur vefþjónustur, skulu allar viðeigandi skilmálar fyrir þjónustuna vera tengdar við ">
-<!ENTITY rights.intro-point4b-unbranded "vefsvæðisþjónustu">
+<!ENTITY rights.intro-point4b-unbranded "Vefsvæðisþjónustu">
 <!ENTITY rights.intro-point4c-unbranded " flipann.">
 <!ENTITY rights.webservices-header "&brandFullName; Vefsvæðisþjónustur">
 <!-- Note that this paragraph references a couple of entities from

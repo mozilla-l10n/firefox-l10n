@@ -38,7 +38,7 @@
 <!ENTITY fieldMapImport.title "Flytja inn nafnaskrá">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Innflutt gögn fyrir færslu: ">
-<!ENTITY fieldMapImport.next.label "næsti">
+<!ENTITY fieldMapImport.next.label "Næsti">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Fyrri">
 <!ENTITY fieldMapImport.previous.accesskey "F">

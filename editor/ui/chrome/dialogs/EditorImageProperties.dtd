@@ -46,7 +46,7 @@
 <!ENTITY locationEditField.tooltip "Sláðu inn skráarnafn á mynd eða staðsetningu">
 <!ENTITY title.label "Ábending:">
 <!ENTITY title.accessKey "b">
-<!ENTITY title.tooltip "html 'title' eigindi sem birtist sem ábending">
+<!ENTITY title.tooltip "Html 'title' eigindið sem birtist sem ábending">
 <!ENTITY altText.label "Aukatexti:">
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Sláðu inn texta til að sýna í staðinn fyrir mynd">
