@@ -1,18 +1,18 @@
-<!ENTITY  pref.editing.title        "Nieuwe-pagina-instellingen">
+<!ENTITY  pref.editing.title        "Nieuwepagina-instellingen">
 
 <!ENTITY  authorName.label          "Auteur:">
 <!ENTITY  authorName.accesskey      "u">
-<!ENTITY  pageColorHeader           "Standaard pagina-presentatie">
+<!ENTITY  pageColorHeader           "Standaard paginaweergave">
 
-<!ENTITY defaultColors.label   "Standaardkleuren lezer (kleuren niet vastleggen)">
+<!ENTITY defaultColors.label        "Standaardkleuren van lezer (kleuren niet in pagina instellen)">
 <!ENTITY defaultColors.accesskey    "S">
-<!ENTITY customColors.label    "Gebruik aangepaste kleuren:">
-<!ENTITY customColors.accesskey     "G">
+<!ENTITY customColors.label         "Aangepaste kleuren gebruiken:">
+<!ENTITY customColors.accesskey     "e">
 
 <!ENTITY normalText.label           "Normale tekst">
 <!ENTITY normalText.accesskey       "N">
 <!ENTITY linkText.label             "Koppelingstekst">
-<!ENTITY linkText.accesskey         "L">
+<!ENTITY linkText.accesskey         "K">
 <!ENTITY activeLinkText.label       "Actieve koppeling">
 <!ENTITY activeLinkText.accesskey   "A">
 <!ENTITY visitedLinkText.label      "Bezochte koppeling">
@@ -22,7 +22,6 @@
 <!ENTITY colon.character            ":">
 
 <!ENTITY backgroundImage.label      "Achtergrondafbeelding:">
-<!ENTITY backgroundImage.accesskey  "h">
+<!ENTITY backgroundImage.accesskey  "t">
 <!ENTITY chooseFile.label           "Bestand kiezen…">
 <!ENTITY chooseFile.accesskey       "k">
-

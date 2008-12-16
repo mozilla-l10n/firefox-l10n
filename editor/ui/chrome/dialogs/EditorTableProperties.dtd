@@ -22,8 +22,8 @@
    - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -62,10 +62,10 @@
 <!ENTITY tableAlignment.accessKey         "u">
 <!ENTITY tableCaption.label               "Bijschrift:">
 <!ENTITY tableCaption.accessKey           "i">
-<!ENTITY tableCaptionAbove.label          "Boven de tabel">
-<!ENTITY tableCaptionBelow.label          "Onder de tabel">
-<!ENTITY tableCaptionLeft.label           "Links van de tabel">
-<!ENTITY tableCaptionRight.label          "Rechts van de tabel">
+<!ENTITY tableCaptionAbove.label          "Boven tabel">
+<!ENTITY tableCaptionBelow.label          "Onder tabel">
+<!ENTITY tableCaptionLeft.label           "Links van tabel">
+<!ENTITY tableCaptionRight.label          "Rechts van tabel">
 <!ENTITY tableCaptionNone.label           "Geen">
 <!ENTITY tableInheritColor.label          "(Paginakleur laten doorschijnen)">
 
@@ -92,7 +92,7 @@
 <!ENTITY cellWrap.label                   "Uitlijnen">
 <!ENTITY cellNoWrap.label                 "Niet uitlijnen">
 <!ENTITY cellAlignTop.label               "Boven">
-<!ENTITY cellAlignMiddle.label            "Midden">
+<!ENTITY cellAlignMiddle.label            "Gecentreerd">
 <!ENTITY cellAlignBottom.label            "Onder">
 <!ENTITY cellAlignJustify.label           "Uitvullen">
 <!ENTITY cellInheritColor.label           "(Tabelkleur laten doorschijnen)">
@@ -104,5 +104,5 @@
 <!ENTITY backgroundColor.label            "Achtergrondkleur:">
 <!ENTITY backgroundColor.accessKey        "A">
 <!ENTITY AlignLeft.label                  "Links">
-<!ENTITY AlignCenter.label                "Midden">
+<!ENTITY AlignCenter.label                "Gecentreerd">
 <!ENTITY AlignRight.label                 "Rechts">

@@ -37,10 +37,10 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Op rooster vastmaken">
+<!ENTITY windowTitle.label "Uitlijnen op raster">
 
-<!ENTITY enableSnapToGrid.label "Op rooster vastmaken activeren">
-<!ENTITY enableSnapToGrid.accessKey "r">
+<!ENTITY enableSnapToGrid.label "Uitlijnen op raster inschakelen">
+<!ENTITY enableSnapToGrid.accessKey "U">
 
 <!ENTITY sizeEditField.label "Grootte:">
 <!ENTITY sizeEditField.accessKey "G">

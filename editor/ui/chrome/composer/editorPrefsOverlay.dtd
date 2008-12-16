@@ -1,9 +1,9 @@
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 <!ENTITY editorCheck.label "Composer">
-<!ENTITY editorCheck.accesskey "c">
+<!ENTITY editorCheck.accesskey "C">
 
 <!ENTITY compose.label "Composer">
-<!ENTITY editing.label "Nieuwe-pagina-eigenschappen">
+<!ENTITY editing.label "Nieuwepagina-instellingen">
 <!ENTITY toolbars.label "Werkbalken">
 <!ENTITY publish.label "Publiceren">

@@ -37,7 +37,7 @@
 
 <!ENTITY Window.title        "Inhoudsopgave">
 <!ENTITY buildToc.label      "Inhoudsopgave maken van:">
-<!ENTITY tag.label           "Code:">
+<!ENTITY tag.label           "Tag:">
 <!ENTITY class.label         "Klasse:">
 <!ENTITY header1.label       "Niveau 1">
 <!ENTITY header2.label       "Niveau 2">
@@ -46,4 +46,4 @@
 <!ENTITY header5.label       "Niveau 5">
 <!ENTITY header6.label       "Niveau 6">
 <!ENTITY makeReadOnly.label  "De inhoudsopgave alleen-lezen maken">
-<!ENTITY orderedList.label   "Alle regels in de inhoudsopgave nummeren">
+<!ENTITY orderedList.label   "Alle items in de inhoudsopgave nummeren">

@@ -37,7 +37,7 @@
 <!ENTITY windowTitle.label "Labeleigenschappen">
 
 <!ENTITY Settings.label "Instellingen">
-<!ENTITY Settings.accesskey "S">
+<!ENTITY Settings.accesskey "I">
 
 <!ENTITY EditLabelText.label "Tekst bewerken:">
 <!ENTITY EditLabelText.accesskey "T">
@@ -47,4 +47,4 @@
 <!ENTITY AccessKey.accesskey "S">
 
 <!ENTITY RemoveLabel.label "Label verwijderen">
-<!ENTITY RemoveLabel.accesskey "w">
+<!ENTITY RemoveLabel.accesskey "v">
