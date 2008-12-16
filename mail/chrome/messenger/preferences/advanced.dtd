@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label         "ਇੰਨ੍ਹਾ ਚਿਰ ਵੇਖਾਉਣ ਬਾਅਦ">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "ਸਕਿੰਟ">
-<!ENTITY showFolderColumns.label       "ਫੋਲਡਰ ਬਾਹੀ ਵਿੱਚ ਫੈਲੇ ਕਾਲਮ ਵੇਖੋ">
-<!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY openMsgIn.label               "ਸੁਨੇਹੇ ਖੋਲ੍ਹੋ:">
 <!ENTITY reuseExpRadio0.label          "ਇੱਕ ਨਵੀਂ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
 <!ENTITY reuseExpRadio0.accesskey      "i">
