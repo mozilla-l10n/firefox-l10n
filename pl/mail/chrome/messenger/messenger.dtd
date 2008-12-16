@@ -296,7 +296,7 @@
 <!ENTITY prevUnreadMsgCmd.label         "Nieprzeczytana wiadomość">
 <!ENTITY prevUnreadMsgCmd.accesskey     "N">
 <!ENTITY prevUnreadMsgCmd.key           "p">
-<!ENTITY goForwardCmd.label             "Do przodu">
+<!ENTITY goForwardCmd.label             "Dalej">
 <!ENTITY goForwardCmd.accesskey         "D">
 <!ENTITY goForwardCmd.commandKey        "]">
 <!ENTITY goBackCmd.label                "Wstecz">
@@ -440,7 +440,7 @@
 <!ENTITY nextButton.label       "Następna">
 <!ENTITY previousButton.label   "Poprzednia">
 <!ENTITY backButton1.label      "Wstecz">
-<!ENTITY goForwardButton1.label "Do przodu">
+<!ENTITY goForwardButton1.label "Dalej">
 <!ENTITY deleteButton.label     "Usuń">
 <!ENTITY undeleteButton.label   "Przywróć">
 <!ENTITY markButton.label       "Oznacz">
