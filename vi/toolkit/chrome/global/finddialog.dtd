@@ -3,12 +3,12 @@
 <!ENTITY findDialog.title "Tìm trong Trang này">
 <!ENTITY findField.label "Tìm:">
 <!ENTITY findField.accesskey "m">
-<!ENTITY caseSensitiveCheckbox.label "Phân biệt HOA/thường">
-<!ENTITY caseSensitiveCheckbox.accesskey "n">
+<!ENTITY caseSensitiveCheckbox.label "Phân biệt HOA-thường">
+<!ENTITY caseSensitiveCheckbox.accesskey "A">
 <!ENTITY wrapCheckbox.label "Bẻ dòng">
 <!ENTITY wrapCheckbox.accesskey "B">
 <!ENTITY findButton.label "Tìm Tiếp">
-<!ENTITY findButton.accesskey "T">
+<!ENTITY findButton.accesskey "i">
 <!ENTITY cancelButton.label "Hủy bỏ">
 <!ENTITY closeButton.label "Đóng">
 <!ENTITY up.label "Lên">
