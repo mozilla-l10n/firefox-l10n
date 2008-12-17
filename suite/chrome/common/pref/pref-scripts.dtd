@@ -15,4 +15,4 @@
 <!ENTITY displayNotification.accesskey   "E">
 <!ENTITY displayNotification.label       "Exibir uma barra de notificação no topo da área de conteúdo">
 
-<!ENTITY whenPluginsRequired.description "Quando plugins adicionais são requeridos:">
+<!ENTITY whenPluginsRequired.label       "Quando plugins adicionais são requeridos">

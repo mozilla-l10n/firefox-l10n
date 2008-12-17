@@ -109,3 +109,5 @@ uma origem remota. Carregar tais mensagens abrirá uma conexão com esta origem 
 Isto pode permitir que se verifique que a mensagem foi lida.
 Marcar esta caixa de seleção permite tais imagens externas incluídas em
 mensagens HTML provenientes deste contato.">
+<!ENTITY In.label                       "">
+<!ENTITY YearsOld.label                 "">

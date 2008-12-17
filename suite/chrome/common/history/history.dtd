@@ -3,16 +3,15 @@
 
 <!ENTITY bookmarkCmd.accesskey          "C">
 <!ENTITY bookmarkCmd.label              "Criar marcador para este link…">
-<!ENTITY byDate.accesskey               "D">
-<!ENTITY byDate.label                   "Pela data">
 <!ENTITY byDayAndSite.accesskey         "t">
 <!ENTITY byDayAndSite.label             "Pela data e endereço">
-<!ENTITY byLastVisited.accesskey        "a">
-<!ENTITY byLastVisited.label            "Pela último acesso">
-<!ENTITY byMostVisited.accesskey        "n">
-<!ENTITY byMostVisited.label            "Pelo número de acessos">
 <!ENTITY bySite.accesskey               "e">
 <!ENTITY bySite.label                   "Pelo endereço">
+<!ENTITY byDay.accesskey                "d">
+<!ENTITY byDay.label                    "Pela data">
+<!ENTITY byNone.accesskey               "N">
+<!ENTITY byNone.label                   "Não ordenar">
+
 
 <!ENTITY cmd.open.accesskey             "A">
 <!ENTITY cmd.open.label                 "Abrir">
@@ -22,11 +21,15 @@
 <!ENTITY cmd.open_tab.label             "Abrir endereço em nova aba">
 <!ENTITY cmd.open_window.accesskey      "e">
 <!ENTITY cmd.open_window.label          "Abrir endereço em nova janela">
-<!ENTITY col.lastvisit.label            "Último acesso">
 
+<!ENTITY col.lastvisit.label            "Último acesso">
+<!ENTITY col.lastvisit.accesskey        "a">
 <!ENTITY col.title.label                "Título">
+<!ENTITY col.title.accesskey            "T">
 <!ENTITY col.url.label                  "Endereço">
+<!ENTITY col.url.accesskey              "E">
 <!ENTITY col.visitcount.label           "Contador de acessos">
+<!ENTITY col.visitcount.accesskey       "C">
 
 <!ENTITY search.emptytext               "Pesquisar no histórico...">
 <!ENTITY search.key                     "f">
@@ -43,3 +46,15 @@
 <!ENTITY view.sortDescending.label      "Ordem decrescente">
 <!ENTITY view.unsorted.accesskey        "N">
 <!ENTITY view.unsorted.label            "Não ordenar">
+<!ENTITY view.groupBy.accesskey         "A">
+<!ENTITY view.groupBy.label             "Agrupar por">
+<!ENTITY view.groupDay.accesskey        "d">
+<!ENTITY view.groupDay.label            "Data">
+<!ENTITY view.groupDayAndSite.accesskey "o">
+<!ENTITY view.groupDayAndSite.label     "Data e endereço">
+<!ENTITY view.groupNone.accesskey       "N">
+<!ENTITY view.groupNone.label           "Não agrupar">
+<!ENTITY view.groupSite.accesskey       "E">
+<!ENTITY view.groupSite.label           "Endereço">
+<!ENTITY view.sortBy.accesskey          "O">
+<!ENTITY view.sortBy.label              "Ordenar por">
