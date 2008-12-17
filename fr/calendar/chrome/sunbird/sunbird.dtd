@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip          "Imprimer l'agenda" >
 <!ENTITY sunbird.delete.button.tooltip         "Supprimer l'événement sélectionné" >
 <!ENTITY sunbird.remotereload.button.tooltip   "Actualiser tous les agendas distants" >
+<!ENTITY sunbird.import.button.tooltip         "Importer des événements à partir d'un fichier local" >
+<!ENTITY sunbird.export.button.tooltip         "Exporter des événements vers un fichier local" >
+<!ENTITY sunbird.subscribe.button.tooltip      "S'abonner à un agenda sur une machine distante" >
+<!ENTITY sunbird.publish.button.tooltip        "Publier des événements sur une machine distante" >
+<!ENTITY sunbird.unifinder.button.tooltip      "Rechercher et lister des événements" >
+<!ENTITY sunbird.edit.button.tooltip           "Modifier l'événement sélectionné" >
 
 <!ENTITY sunbird.choosedate.button.label       "Choisir une date" >
 <!ENTITY sunbird.cut.button.label              "Couper" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label            "Coller" >
 <!ENTITY sunbird.delete.button.label           "Supprimer" >
 <!ENTITY sunbird.remotereload.button.label     "Actualiser" >
+<!ENTITY sunbird.import.button.label           "Importer" >
+<!ENTITY sunbird.export.button.label           "Exporter" >
+<!ENTITY sunbird.subscribe.button.label        "S'abonner" >
+<!ENTITY sunbird.publish.button.label          "Publier" >
+<!ENTITY sunbird.unifinder.button.label        "Rechercher" >
+<!ENTITY sunbird.edit.button.label             "Modifier" >
 
 <!ENTITY sunbird.flat.topbar.choosedate        "Aller à la date" >
 <!ENTITY sunbird.flat.topbar.dayview           "Afficher la journée" >
