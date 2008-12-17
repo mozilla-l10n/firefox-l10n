@@ -15,20 +15,20 @@
 <!ENTITY dnsNotFound.title "Tsjinner net fûn">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Kontrolearje it adres op typefouten as
+  <li>Kontrolearje it adres op typflaters as
     <strong>ww</strong>.foarbyld.com yn stee fan
     <strong>www</strong>.foarbyld.com</li>
   <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade
     kinne.</li>
   <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proksytsjinner.</li>
+    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
 </ul>
 ">
 
 <!ENTITY fileNotFound.title "Bestân net fûn">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Kontrolearje de bestânsnamme op grutte/lytse letters of oare typefouten.</li>
+  <li>Kontrolearje de bestânsnamme op grutte/lytse letters of oare typflaters.</li>
   <li>Kontrolearje of it bestân ferpleatst, fuorthelle is of in nije namme krigen hat.</li>
 </ul>
 ">
@@ -52,7 +52,7 @@
 <!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Offline-modus">
+<!ENTITY netOffline.title "Offline-moadus">
 <!ENTITY netOffline.longDesc "
 <ul>
   <li>Finkje &quot;Offline werken&quot; yn it menu Bestân út en besykje it op 'e nij.</li>
@@ -86,22 +86,22 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "De proksytsjinner wegeret ferbinings">
+<!ENTITY proxyConnectFailure.title "De proxytsjinner wegeret ferbinings">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Kontrolearje oft jo proksy-ynstellings goed binne.</li>
-  <li>Nim kontakt op mei jo netwurkbeheerder om te kontrolearjen oft de proksytsjinner
+  <li>Kontrolearje oft jo proxy-ynstellings goed binne.</li>
+  <li>Nim kontakt op mei jo netwurkbeheerder om te kontrolearjen oft de proxytsjinner
     wurket.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Kin de proksytsjinner net fine">
+<!ENTITY proxyResolveFailure.title "Kin de proxytsjinner net fine">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Kontrolearje oft jo proksy-ynstellings goed binne.</li>
+  <li>Kontrolearje oft jo proxy-ynstellings goed binne.</li>
   <li>Gean nei oft jo kompjûter op in wurkjend netwurk oansletten is.</li>
   <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proksytsjinner.</li>
+    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
 </ul>
 ">
 
@@ -113,7 +113,7 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Unferwacht antwurd fan 'e tsjinner">
+<!ENTITY unknownSocketType.title "Unferwacht antwurd fan de tsjinner">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Gean nei oft de persoanlike befeiligingsbeheerder ynstallearre is op
@@ -141,10 +141,10 @@
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Miskien is it webstee tydlik net beskikber. Besykje letter 
-    op 'e nij.</li>
+    nochris.</li>
   <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade kinne.</li>
   <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proksytsjinner.</li>
+    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
 </ul>
 ">
 

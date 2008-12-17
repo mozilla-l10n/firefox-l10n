@@ -47,7 +47,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Op 'e nij ynisjalisearje">
 <!ENTITY resetPassword.title  "Haadwachtwurd op 'e nij ynisjalisearje">
-<!ENTITY resetPassword.text  "As jo jo haadwachtwurd op'e nij ynstelle sille al jo bewarre web- en e-mailwachtwurden, formuliergegevens, persoanlijke sertifikaten en privee-kaaien ferjitten wurde. Witte jo seker dat jo jo haadwachtwurd op 'e nij ynisjalisearje wolle?">
+<!ENTITY resetPassword.text  "As jo jo haadwachtwurd op 'e nij ynstelle sille al jo bewarre web- en e-mailwachtwurden, formuliergegevens, persoanlijke sertifikaten en privee-kaaien ferjitten wurde. Witte jo seker dat jo jo haadwachtwurd op 'e nij ynisjalisearje wolle?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Fier haadwachtwurd yn">
@@ -97,7 +97,7 @@
 <!ENTITY pkcs12.setpassword.title  "Kies in wachtwurd foar de reservekopie fan it sertifikaat">
 <!ENTITY pkcs12.setpassword.message  "It wachtwurd foar de reservekopie fan it sertifikaat dat jo hjir ynstelle beskermt it reserverkopiebestân dat jo op it punt stean te meitsjen.  Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopie.">
 <!ENTITY pkcs12.setpassword.label1 "Wachtwurd foar de reservekopie fan it sertifikaat:">
-<!ENTITY pkcs12.setpassword.label2 "Wachtwurd foar de reservekopie fan it sertifikaat (op'e nij):">
+<!ENTITY pkcs12.setpassword.label2 "Wachtwurd foar de reservekopie fan it sertifikaat (op 'e nij):">
 <!ENTITY pkcs12.setpassword.reminder "Belangryk: as jo jo wachtwurd foar de reservekopie fan it sertifikaat fejitte, kinne jo dizze reservekopie letter net ferhelpe.  Bewarje it op in feilige plek.">
 
 <!ENTITY pkcs12.getpassword.title  "Wachtwurdynfierdialoogfinster">
