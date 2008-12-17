@@ -44,6 +44,15 @@
 <!ENTITY confirmMove.accesskey "c">
 <!ENTITY preserveThreading.label          "Conserva l'encadenament en ordenar els missatges">
 <!ENTITY preserveThreading.accesskey      "t">
+
+<!ENTITY defaultMailSettings.description  "Fes el &brandShortName; l'aplicació per defecte per a:">
+<!ENTITY setDefaultMail.label             "Correu electrònic">
+<!ENTITY setDefaultMail.accesskey         "o">
+<!ENTITY setDefaultNews.label             "Grups de discussió">
+<!ENTITY setDefaultNews.accesskey         "G">
+<!ENTITY setDefaultFeed.label             "Canals">
+<!ENTITY setDefaultFeed.accesskey         "n">
+
 <!ENTITY messengerStartPage.caption "Pàgina d'inici de la Missatgeria">
 <!ENTITY enableStartPage.label "Quan s'executi la Missatgeria, mostra aquesta pàgina a l'àrea de missatges">
 <!ENTITY enableStartPage.accesskey "q">

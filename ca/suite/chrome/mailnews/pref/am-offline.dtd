@@ -1,5 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Per a estalviar espai, no baixis:">
 <!ENTITY doNotDownload.label "Per a estalviar espai, no baixis per a treballar-hi fora de línia:">
+<!ENTITY allFoldersOffline.label "Conserva els missatges d'aquest compte a l'ordinador">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "No baixis missatges si són més grans de">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY kb.label "kB">
@@ -20,5 +22,9 @@
 <!ENTITY retentionKeepNew.accesskey "r">
 <!ENTITY retentionKeepUnread.label "Suprimeix sempre els missatges llegits">
 <!ENTITY retentionKeepUnread.accesskey "u">
-<!ENTITY offlineSelectNntp.label "Seleccioneu els grups de discussió per ús fora de línia...">
+<!ENTITY offlineSelectNntp.label "Seleccioneu els grups de discussió per a un ús fora de línia…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Avançat…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Sincronització de missatges">
 <!ENTITY diskspaceGroupTitle.label "Espai de disc">

@@ -53,6 +53,8 @@
 <!ENTITY color.label "Color:">
 <!ENTITY color.accesskey "c">
 <!ENTITY displayPlainText.caption           "Missatges en text net">
+<!ENTITY fontPlainText.label              "Tipus de lletra:">
+<!ENTITY fontPlainText.accesskey          "l">
 <!ENTITY displayQuoted.label              "Paràmetres per als missatges citats:">
 
 <!ENTITY wrapInMsg.label "Ajusta el text a l'amplada de la finestra">
@@ -61,7 +63,18 @@
 <!ENTITY convertEmoticons.label "Mostra les emoticones com a imatges">
 <!ENTITY convertEmoticons.accesskey "s">
 <!ENTITY generalMessageDisplay.caption      "General">
+<!ENTITY autoMarkAsRead.label             "Marca automàticament com a llegit">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Immediatament en mostrar-se">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "després de">
+<!ENTITY markAsReadDelay.accesskey        "p">
 
+<!ENTITY secondsLabel.label               "segons">
+
+<!ENTITY markAsReadNoDelay.accesskey      "m">
 <!ENTITY openingMessages.label            "En obrir els missatges, mostreu-los en:">
 <!ENTITY newWindowRadio.label             "Una nova finestra de missatge">
 <!ENTITY newWindowRadio.accesskey         "n">
@@ -69,4 +82,6 @@
 <!ENTITY existingWindowRadio.accesskey    "e">
 <!ENTITY disableContent.label             "Bloca les imatges i altres continguts de fonts remotes">
 <!ENTITY disableContent.accesskey         "m">
+<!ENTITY showCondensedAddresses.label     "Mostra només el nom de la gent a la meva llibreta d'adreces">
+<!ENTITY showCondensedAddresses.accesskey "o">
 

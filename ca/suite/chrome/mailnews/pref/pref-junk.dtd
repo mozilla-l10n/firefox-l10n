@@ -45,6 +45,13 @@
 <!ENTITY manualMarkModeMove.accesskey   "M">
 <!ENTITY manualMarkModeDelete.label     "Suprimeix-los">
 <!ENTITY manualMarkModeDelete.accesskey "u">
+
+<!ENTITY markAsRead.intro               "Marca els missatges com a llegits:">
+<!ENTITY autoMarkAsRead.label           "Quan el &brandShortName; determina que són correu brossa">
+<!ENTITY autoMarkAsRead.accesskey       "u">
+<!ENTITY manualMarkAsRead.label         "En marcar-los manualment com a correu brossa">
+<!ENTITY manualMarkAsRead.accesskey     "m">
+
 <!ENTITY enableJunkLogging.label        "Habilita el registre del filtre de correu brossa">
 <!ENTITY enableJunkLogging.accesskey    "e">
 <!ENTITY openJunkLog.label              "Mostra el registre">
