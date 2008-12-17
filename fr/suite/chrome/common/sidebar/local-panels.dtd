@@ -37,7 +37,6 @@
 
 <!-- extracted from ./local-panels.rdf -->
 
-<!ENTITY sidebar.whats-related.label "Mais encore ?">
 <!ENTITY sidebar.search.label "Rechercher">
 <!ENTITY sidebar.client-bookmarks.label "Marque-pages">
 <!ENTITY sidebar.client-history.label "Historique">
