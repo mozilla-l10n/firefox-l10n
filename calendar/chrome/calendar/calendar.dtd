@@ -141,7 +141,6 @@
 <!ENTITY calendar.task.filter.open.label           "Offene Aufgaben">
 <!ENTITY calendar.task.filter.open.accesskey       "O">
 
-<!ENTITY calendar.task-details.startdate.label       "Titel">
 <!ENTITY calendar.task-details.title.label           "Titel">
 <!ENTITY calendar.task-details.organizer.label       "Organisator">
 <!ENTITY calendar.task-details.priority.label        "Priorität">
