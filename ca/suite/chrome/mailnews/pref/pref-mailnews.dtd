@@ -42,10 +42,6 @@
 <!ENTITY generalSettings.caption "Paràmetres generals">
 <!ENTITY confirmMove.label "Demana confirmació per a moure carpetes a la paperera">
 <!ENTITY confirmMove.accesskey "c">
-<!ENTITY useMessenger.label "Utilitza la Missatgeria per a les aplicacions basades en MAPI">
-<!ENTITY useMessenger.accesskey "u">
-<!ENTITY autounzip.label "Descomprimeix automàticament els fitxers zip en desar les adjuncions">
-<!ENTITY autounzip.accesskey "D">
 <!ENTITY preserveThreading.label          "Conserva l'encadenament en ordenar els missatges">
 <!ENTITY preserveThreading.accesskey      "t">
 <!ENTITY messengerStartPage.caption "Pàgina d'inici de la Missatgeria">
