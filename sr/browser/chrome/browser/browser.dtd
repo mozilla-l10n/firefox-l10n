@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Забележи све језичке…">
 <!ENTITY organizeBookmarks.label "Уреди забелешке…">
 <!ENTITY bookmarkAllCmd.label "Забележи све језичке…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
 
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "З">
