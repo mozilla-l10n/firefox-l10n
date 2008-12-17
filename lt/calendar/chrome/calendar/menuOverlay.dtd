@@ -73,11 +73,6 @@
 <!ENTITY calendar.publish.label                 "Publikuoti…">
 <!ENTITY calendar.publish.accesskey             "P">
 
-<!ENTITY calendar.toolbar.label                 "Kalendoriaus juosta">
-<!ENTITY calendar.toolbar.accesskey             "K">
-<!ENTITY task.toolbar.label                     "Darbų juosta">
-<!ENTITY task.toolbar.accesskey                 "D">
-
 <!ENTITY calendar.menu.customize.label          "Tvarkyti…">
 <!ENTITY calendar.menu.customize.accesskey      "T">
 

@@ -43,6 +43,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "Spausdinti kalendorių" >
 <!ENTITY sunbird.delete.button.tooltip                     "Pašalinti pažymėtą įvykį" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Įkelti iš naujo visus nutolusius kalendorius" >
+<!ENTITY sunbird.import.button.tooltip                     "Importuoti įvykius iš failo" >
+<!ENTITY sunbird.export.button.tooltip                     "Eksportuoti įvykius į failą" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Prenumeruoti kalendorių, esantį nutolusiame kompiuteryje" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publikuoti įvykių aprašus į nutolusį kompiuterį" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Rasti ir išvardinti įvykius" >
+<!ENTITY sunbird.edit.button.tooltip                       "Taisyti pažymėtą įvykį" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Parinkti datą" >
 <!ENTITY sunbird.cut.button.label                          "Iškirpti" >
@@ -50,6 +56,12 @@
 <!ENTITY sunbird.paste.button.label                        "Įdėti" >
 <!ENTITY sunbird.delete.button.label                       "Pašalinti" >
 <!ENTITY sunbird.remotereload.button.label                 "Atšviežinti" >
+<!ENTITY sunbird.import.button.label                       "Importuoti" >
+<!ENTITY sunbird.export.button.label                       "Eksportuoti" >
+<!ENTITY sunbird.subscribe.button.label                    "Prenumeruoti" >
+<!ENTITY sunbird.publish.button.label                      "Publikuoti" >
+<!ENTITY sunbird.unifinder.button.label                    "Rasti įvykius" >
+<!ENTITY sunbird.edit.button.label                         "Taisyti" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Eiti į datą…" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Diena" >

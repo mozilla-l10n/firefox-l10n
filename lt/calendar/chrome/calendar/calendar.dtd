@@ -55,7 +55,6 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Aprašyti naują darbą" >
 <!ENTITY calendar.newevent.button.tooltip         "Aprašyti naują įvykį" >
-<!ENTITY calendar.edit.button.tooltip             "Taisyti pažymėtą įvykį" >
 
 <!ENTITY calendar.unifinder.todoitems.label           "Darbai" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label  "Rodyti užbaigtus darbus">
@@ -90,7 +89,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "Eiti į šios dienos kalendorių" >
 <!ENTITY calendar.todaypane.button.tooltip        "Rodyti šiandienos polangį" >
-<!ENTITY calendar.unifinder.button.tooltip        "Rasti ir išvardinti įvykius" >
 
 <!ENTITY calendar.day.button.tooltip          "Rodyti dienos kalendorių" >
 <!ENTITY calendar.week.button.tooltip         "Rodyti savaitės kalendorių" >
@@ -106,22 +104,10 @@
 
 <!ENTITY calendar.newtask.button.label          "Naujas darbas" >
 <!ENTITY calendar.newevent.button.label         "Naujas įvykis" >
-<!ENTITY calendar.edit.button.label             "Taisyti" >
 
 <!ENTITY calendar.print.button.label            "Spausdinti" >
 
-<!ENTITY calendar.import.button.tooltip            "Importuoti įvykius iš failo." >
-<!ENTITY calendar.export.button.tooltip            "Eksportuoti įvykius į failą." >
-<!ENTITY calendar.subscribe.button.tooltip         "Prenumeruoti kalendorių, esantį nutolusiame kompiuteryje." >
-<!ENTITY calendar.publish.button.tooltip           "Publikuoti įvykių aprašus į nutolusį kompiuterį." >
-
 <!ENTITY calendar.export.calendar                "Eksportuoti kalendorių…" >
-
-<!ENTITY calendar.import.button.label              "Importuoti" >
-<!ENTITY calendar.export.button.label              "Eksportuoti" >
-<!ENTITY calendar.subscribe.button.label           "Prenumeruoti" >
-<!ENTITY calendar.publish.button.label             "Publikuoti" >
-<!ENTITY calendar.unifinder.button.label           "Rasti įvykius" >
 
 <!ENTITY calendar.day.button.label          "Diena" >
 <!ENTITY calendar.week.button.label         "Savaitė" >
@@ -157,15 +143,16 @@
 <!ENTITY calendar.task.filter.open.label            "Nebaigtus darbus">
 <!ENTITY calendar.task.filter.open.accesskey        "b">
 
-<!ENTITY calendar.task.details.title.label           "Pavadinimas:">
-<!ENTITY calendar.task.details.organizer.label       "Nuo:">
-<!ENTITY calendar.task.details.priority2.label       "Prioritetas:">
-<!ENTITY calendar.task.details.priority.low.label    "Žema">
-<!ENTITY calendar.task.details.priority.normal.label "Normali">
-<!ENTITY calendar.task.details.priority.high.label   "Aukšta">
-<!ENTITY calendar.task.details.status.label          "Būsena:">
-<!ENTITY calendar.task.details.category.label        "Tipas:">
-<!ENTITY calendar.task.details.repeat.label          "Pasikartojimas:">
+<!ENTITY calendar.task-details.startdate.label       "pavadinimas">
+<!ENTITY calendar.task-details.title.label           "pavadinimas">
+<!ENTITY calendar.task-details.organizer.label       "nuo">
+<!ENTITY calendar.task-details.priority.label        "prioritetas">
+<!ENTITY calendar.task-details.priority.low.label    "žemas">
+<!ENTITY calendar.task-details.priority.normal.label "normalus">
+<!ENTITY calendar.task-details.priority.high.label   "aukštas">
+<!ENTITY calendar.task-details.status.label          "būsena">
+<!ENTITY calendar.task-details.category.label        "tipas">
+<!ENTITY calendar.task-details.repeat.label          "pasikartojimas">
 
 <!ENTITY calendar.task.category.button.tooltip  "Priskirti darbams tipus">
 <!ENTITY calendar.task.complete.button.tooltip  "Parinktus darbus pažymėti kaip užbaigtus">
