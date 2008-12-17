@@ -38,14 +38,6 @@
 <!ENTITY search.emptytext                     "Ieškoti žurnale">
 <!ENTITY search.key                           "f">
 <!ENTITY view.label                           "Rodymas">
-<!ENTITY byNone.label                         "nerikiuoti">
-<!ENTITY byNone.accesskey                     "n">
-<!ENTITY byDay.label                          "datą">
-<!ENTITY byDay.accesskey                      "d">
-<!ENTITY bySite.label                         "svetainę">
-<!ENTITY bySite.accesskey                     "s">
-<!ENTITY byDayAndSite.label                   "datą ir svetainę">
-<!ENTITY byDayAndSite.accesskey               "a">
 
 <!ENTITY view.columns.label                   "Rodyti stulpelius">
 <!ENTITY view.columns.accesskey               "s">
