@@ -7,36 +7,28 @@
 <!ENTITY search.emptytext "Rechercher dans l'historique">
 <!ENTITY search.key "R">
 <!ENTITY view.label "Tri">
-<!ENTITY byNone.label "pas de tri">
-<!ENTITY byNone.accesskey "a">
-<!ENTITY byDay.label "par date">
-<!ENTITY byDay.accesskey "d">
-<!ENTITY bySite.label "par site">
-<!ENTITY bySite.accesskey "s">
-<!ENTITY byDayAndSite.label "par date et par site">
-<!ENTITY byDayAndSite.accesskey "a">
 
 <!ENTITY view.columns.label "Afficher les colonnes">
 <!ENTITY view.columns.accesskey "c">
-<!ENTITY view.sortBy.label "Trier par">
+<!ENTITY view.sortBy.label "Tri">
 <!ENTITY view.sortBy.accesskey "T">
-<!ENTITY view.groupBy.label "Grouper par">
+<!ENTITY view.groupBy.label "Groupage">
 <!ENTITY view.groupBy.accesskey "G">
 
-<!ENTITY view.unsorted.label "Sans tri">
-<!ENTITY view.unsorted.accesskey "S">
-<!ENTITY view.sortAscending.label "Ordre de tri A > Z">
+<!ENTITY view.unsorted.label "aucun">
+<!ENTITY view.unsorted.accesskey "u">
+<!ENTITY view.sortAscending.label "ascendant (A > Z)">
 <!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Ordre de tri Z > A">
+<!ENTITY view.sortDescending.label "descendant (Z > A)">
 <!ENTITY view.sortDescending.accesskey "Z">
 
-<!ENTITY view.groupNone.label "Pas de groupage">
+<!ENTITY view.groupNone.label "aucun">
 <!ENTITY view.groupNone.accesskey "P">
-<!ENTITY view.groupDay.label "Date">
-<!ENTITY view.groupDay.accesskey "D">
-<!ENTITY view.groupSite.label "Site">
-<!ENTITY view.groupSite.accesskey "S">
-<!ENTITY view.groupDayAndSite.label "Date et par site">
+<!ENTITY view.groupDay.label "par date">
+<!ENTITY view.groupDay.accesskey "d">
+<!ENTITY view.groupSite.label "par site">
+<!ENTITY view.groupSite.accesskey "s">
+<!ENTITY view.groupDayAndSite.label "par date et par site">
 <!ENTITY view.groupDayAndSite.accesskey "a">
 
 <!ENTITY cmd.open.label "Ouvrir">
