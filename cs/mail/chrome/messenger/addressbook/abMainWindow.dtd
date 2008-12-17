@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey "S">
 <!ENTITY newMenu.label "Nový">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "Kontakt…">
-<!ENTITY newCard.accesskey "K">
-<!ENTITY newCard.key "N">
+<!ENTITY newContact.label "Kontakt…">
+<!ENTITY newContact.accesskey "K">
+<!ENTITY newContact.key "N">
 <!ENTITY newListCmd.label "Skupina…">
 <!ENTITY newListCmd.accesskey "S">
 <!ENTITY newAddressBookCmd.label "Složka kontaktů…">
@@ -25,13 +25,13 @@
 <!ENTITY closeCmd.accesskey "Z">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "V">
-<!ENTITY printPreviewCardViewCmd.label "Náhled tisku kontaktu">
-<!ENTITY printPreviewCardViewCmd.accesskey "h">
+<!ENTITY printPreviewContactCmd.label "Náhled tisku kontaktu">
+<!ENTITY printPreviewContactCmd.accesskey "h">
 <!ENTITY printPreviewAddressBook.label "Náhled tisku složky">
 <!ENTITY printPreviewAddressBook.accesskey "l">
-<!ENTITY printCardViewCmd.label "Tisk kontaktu…">
-<!ENTITY printCardViewCmd.accesskey "T">
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactCmd.label "Tisk kontaktu…">
+<!ENTITY printContactCmd.accesskey "T">
+<!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Tisk složky kontaktů…">
 <!ENTITY printAddressBook.accesskey "o">
 
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label "Smazat">
 <!ENTITY deleteCmd.accesskey "m">
 <!ENTITY deleteAbCmd.label "Smazat adresář">
-<!ENTITY deleteCardCmd.label "Smazat kontakt">
-<!ENTITY deleteCardsCmd2.label "Smazat kontakty">
+<!ENTITY deleteContactCmd.label "Smazat kontakt">
+<!ENTITY deleteContactsCmd.label "Smazat kontakty">
 <!ENTITY deleteListCmd.label "Smazat seznam">
 <!ENTITY deleteListsCmd.label "Smazat seznamy">
 <!ENTITY deleteItemsCmd.label "Smazat položky">
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey "t">
 <!ENTITY customizeToolbar.label "Vlastní…">
 <!ENTITY customizeToolbar.accesskey "V">
-<!ENTITY showCardPane.label "Obsah kontaktu">
-<!ENTITY showCardPane.accesskey "O">
+<!ENTITY showContactPane.label "Obsah kontaktu">
+<!ENTITY showContactPane.accesskey "O">
 <!ENTITY menu_ShowNameAs.label "Zobrazit jméno jako">
 <!ENTITY menu_ShowNameAs.accesskey "b">
 <!ENTITY firstLastCmd.label "Jméno Příjmení">
@@ -116,27 +116,27 @@
 <!ENTITY preferencesCmdUnix.accesskey "v">
 
 <!-- Address Book Toolbar and Context Menus -->
-<!ENTITY newcardButton.label "Nový kontakt">
-<!ENTITY newcardButton.accesskey "k">
+<!ENTITY newContactButton.label "Nový kontakt">
+<!ENTITY newContactButton.accesskey "k">
 <!ENTITY newlistButton.label "Nová skupina">
 <!ENTITY newlistButton.accesskey "s">
-<!ENTITY editButton.label "Vlastnosti">
-<!ENTITY editButton.accesskey "V">
+<!ENTITY editButton2.label "Vlastnosti">
+<!ENTITY editButton2.accesskey "V">
 <!ENTITY newmsgButton.label "Nová zpráva">
 <!ENTITY newmsgButton.accesskey "N">
 <!ENTITY newIM.label "Zpráva přes IM">
 <!ENTITY newIM.accesskey "I">
-<!ENTITY deleteButton.label "Smazat">
-<!ENTITY deleteButton.accesskey "m">
+<!ENTITY deleteButton2.label "Smazat">
+<!ENTITY deleteButton2.accesskey "m">
 <!ENTITY throbberItem.title "Ukazatel činnosti">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip "Vytvoří nový kontakt">
+<!ENTITY newContactButton.tooltip "Vytvoří nový kontakt">
 <!ENTITY newlistButton.tooltip "Vytvoří novou skupinu">
-<!ENTITY editButton.tooltip "Upraví označený kontakt">
+<!ENTITY editButton2.tooltip "Upraví označenou položku">
 <!ENTITY newmsgButton.tooltip "Vytvoří novou zprávu">
 <!ENTITY newIM.tooltip "Pošle krátkou zprávu nebo začne rozhovor">
-<!ENTITY deleteButton.tooltip "Smaže označený kontakt nebo kontakty">
+<!ENTITY deleteButton2.tooltip "Smaže označenou položku">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label "Složky kontaktů">
@@ -182,7 +182,7 @@
 <!ENTITY _PhoneticName.label "Jméno foneticky">
 <!ENTITY _PhoneticName.accesskey "f">
 
-<!-- Card Summary Pane -->
+<!-- Contact Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading "Kontakt">
 <!ENTITY home.heading "Bydliště">

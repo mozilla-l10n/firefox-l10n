@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Z">
 
-<!ENTITY closeWindow.label "Zavřít okno">
-
 <!ENTITY quitApplicationCmd.label "Ukončit">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "k">

@@ -83,8 +83,6 @@
 
 <!ENTITY menuitem.view.command.toolbar.label "Nástrojová lišta">
 <!ENTITY menuitem.view.command.toolbar.accesskey "t">
-<!ENTITY menuitem.view.command.searchbar.label "Lišta vyhledávání">
-<!ENTITY menuitem.view.command.searchbar.accesskey "V">
 <!ENTITY menuitem.view.show_columns.label "Zobrazit sloupce">
 <!ENTITY menuitem.view.show_columns.accesskey "Z">
 <!ENTITY menuitem.newbookmarkfolder.label "Nastavit jako novou složku pro záložky">

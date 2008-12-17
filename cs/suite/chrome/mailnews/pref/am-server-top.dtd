@@ -19,8 +19,6 @@
 <!ENTITY biffStart.label "Kontrolovat nové zprávy každých">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minut">
-<!ENTITY isSecure.label "Použít zabezpečené spojení (SSL)">
-<!ENTITY isSecure.accesskey "U">
 <!ENTITY socketType.label "Použít bezpečné spojení:">
 <!ENTITY neverSecure.label "Nikdy">
 <!ENTITY neverSecure.accesskey "N">

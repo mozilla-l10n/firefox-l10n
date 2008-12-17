@@ -11,3 +11,5 @@
 <!ENTITY paneAttachments.title "Přílohy">
 <!ENTITY panePrivacy.title "Soukromí">
 <!ENTITY paneAdvanced.title "Rozšířené">
+
+<!ENTITY cmdCloseMac.commandKey "w">

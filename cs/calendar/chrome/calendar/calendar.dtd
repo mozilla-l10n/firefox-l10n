@@ -51,9 +51,8 @@
 <!ENTITY calendar.multiweekView.key "3">
 <!ENTITY calendar.monthView.key "4">
 
-<!ENTITY calendar.newtask.button.tooltip "Vytvoří nový úkol">
 <!ENTITY calendar.newevent.button.tooltip "Vytvoří novou událost">
-<!ENTITY calendar.edit.button.tooltip "Upraví vybranou událost">
+<!ENTITY calendar.newtask.button.tooltip "Vytvoří nový úkol">
 
 <!ENTITY calendar.unifinder.todoitems.label "Úkoly">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobrazit dokončené úkoly">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip "Přejde na dnešní den">
 <!ENTITY calendar.todaypane.button.tooltip "Zobrazí dnešní panel">
-<!ENTITY calendar.unifinder.button.tooltip "Najde a zobrazí události" >
 
 <!ENTITY calendar.day.button.tooltip "Přepne do denního pohledu">
 <!ENTITY calendar.week.button.tooltip "Přepne do týdenního pohledu">
@@ -102,23 +100,11 @@
 <!ENTITY calendar.nextmonth.button.tooltip "Další měsíc">
 <!ENTITY calendar.prevmonth.button.tooltip "Předchozí měsíc">
 
-<!ENTITY calendar.newtask.button.label "Nový úkol">
 <!ENTITY calendar.newevent.button.label "Nová událost">
-<!ENTITY calendar.edit.button.label "Upravit">
+<!ENTITY calendar.newtask.button.label "Nový úkol">
 <!ENTITY calendar.print.button.label "Tisk">
 
-<!ENTITY calendar.import.button.tooltip "Import: Importovat události z místního souboru.">
-<!ENTITY calendar.export.button.tooltip "Export: Exportovat události do místního souboru.">
-<!ENTITY calendar.subscribe.button.tooltip "Odebírání: Přihlášení k odběru kalendáře ze vzdáleného počítače.">
-<!ENTITY calendar.publish.button.tooltip "Publikování: Publikování událostí na vzdálený počítač.">
-
 <!ENTITY calendar.export.calendar "Exportovat kalendář…">
-
-<!ENTITY calendar.import.button.label "Import">
-<!ENTITY calendar.export.button.label "Export">
-<!ENTITY calendar.subscribe.button.label "Odebírání">
-<!ENTITY calendar.publish.button.label "Publikování">
-<!ENTITY calendar.unifinder.button.label "Najít události" >
 
 <!ENTITY calendar.day.button.label "Den">
 <!ENTITY calendar.week.button.label "Týden">
@@ -143,7 +129,7 @@
 <!ENTITY calendar.task.filter.all.accesskey "V">
 <!ENTITY calendar.task.filter.today.label "Dnes">
 <!ENTITY calendar.task.filter.today.accesskey "D">
-<!ENTITY calendar.task.filter.next7days.label "Příštích sedm snů">
+<!ENTITY calendar.task.filter.next7days.label "Příštích sedm dnů">
 <!ENTITY calendar.task.filter.next7days.accesskey "P">
 <!ENTITY calendar.task.filter.notstarted.label "Nezapočaté úkoly">
 <!ENTITY calendar.task.filter.notstarted.accesskey "z">
@@ -154,15 +140,15 @@
 <!ENTITY calendar.task.filter.open.label "Nedokončené úkoly">
 <!ENTITY calendar.task.filter.open.accesskey "e">
 
-<!ENTITY calendar.task.details.title.label "Název:">
-<!ENTITY calendar.task.details.organizer.label "Autor:">
-<!ENTITY calendar.task.details.priority2.label "Priorita:">
-<!ENTITY calendar.task.details.priority.low.label "Nízká">
-<!ENTITY calendar.task.details.priority.normal.label "Normální">
-<!ENTITY calendar.task.details.priority.high.label "Vysoká">
-<!ENTITY calendar.task.details.status.label "Stav:">
-<!ENTITY calendar.task.details.category.label "Kategorie:">
-<!ENTITY calendar.task.details.repeat.label "Opakování:">
+<!ENTITY calendar.task-details.title.label "název">
+<!ENTITY calendar.task-details.organizer.label "od">
+<!ENTITY calendar.task-details.priority.label "priorita">
+<!ENTITY calendar.task-details.priority.low.label "Nízká">
+<!ENTITY calendar.task-details.priority.normal.label "Normální">
+<!ENTITY calendar.task-details.priority.high.label "Vysoká">
+<!ENTITY calendar.task-details.status.label "stav">
+<!ENTITY calendar.task-details.category.label "kategorie">
+<!ENTITY calendar.task-details.repeat.label "opakování">
 
 <!ENTITY calendar.task.category.button.tooltip "Přiřadí úkolu kategorii">
 <!ENTITY calendar.task.complete.button.tooltip "Označí úkol za dokončený">
@@ -230,7 +216,7 @@
 <!ENTITY progress.level.75.accesskey "7">
 <!ENTITY progress.level.100 "100&percnt;">
 <!ENTITY progress.level.100.accesskey "1">
- 
+
 <!ENTITY priority.level.none "Nespecifikováno">
 <!ENTITY priority.level.none.accesskey "s">
 <!ENTITY priority.level.low "Nízká">

@@ -1,18 +1,28 @@
 <!ENTITY securityTitle.label "Zabezpečení">
+<!ENTITY securityTab.label "Zabezpečení">
 <!ENTITY securityHeading.label "Pro příjem a odesílání podepsaných nebo zašifrovaných zpráv musíte zadat jak certifikát pro digitální podpis tak i certifikát pro šifrování.">
 <!ENTITY encryptionGroupTitle.label "Šifrování">
 <!ENTITY encryptionChoiceLabel.label "Výchozí nastavení šifrování při odesílání zpráv:">
 <!ENTITY neverEncrypt.label "Nikdy (nepoužívat šifrování)">
+<!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Vyžadováno (nelze odeslat zprávy, pokud všichni příjemci nemají certifikáty)">
+<!ENTITY alwaysEncryptMessage.accesskey "V">
 <!ENTITY encryptionCert.message "Použít tento certifikát pro zašifrování a dešifrování obdržených zpráv:">
-<!ENTITY certificate.button "Vybrat…">
-<!ENTITY certificate_clear.button "Vymazat">
+<!ENTITY digitalSign.certificate.button "Vybrat…">
+<!ENTITY digitalSign.certificate.accesskey "b">
+<!ENTITY digitalSign.certificate_clear.button "Vymazat">
+<!ENTITY digitalSign.certificate_clear.accesskey "m">
+<!ENTITY encryption.certificate.button "Vybrat…">
+<!ENTITY encryption.certificate.accesskey "r">
+<!ENTITY encryption.certificate_clear.button "Vymazat">
+<!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Digitální podpis">
 <!ENTITY signMessage.label "Digitálně podepsat zprávy (výchozí)">
+<!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Používat tento certifikát pro digitální podpis odesílaných zpráv:">
 
 <!ENTITY certificates.label "Certifikáty">
-<!ENTITY managecerts.label "Zobrazit certifikáty">
-<!ENTITY managecerts.accesskey  "Z">
-<!ENTITY managedevices.label "Bezpečnostní zařízení">
-<!ENTITY managedevices.accesskey "B">
+<!ENTITY manageCerts.label "Zobrazit certifikáty">
+<!ENTITY manageCerts.accesskey "Z">
+<!ENTITY manageDevices.label "Bezpečnostní zařízení">
+<!ENTITY manageDevices.accesskey "e">

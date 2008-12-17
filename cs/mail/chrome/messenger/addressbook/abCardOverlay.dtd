@@ -67,7 +67,6 @@
 <!ENTITY NickName.label "Přezdívka:">
 <!ENTITY NickName.accesskey "P">
 
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "E-mail:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Další e-mail:">
@@ -115,6 +114,13 @@
 <!ENTITY HomeCountry.accesskey "Z">
 <!ENTITY HomeWebPage.label "Webová stránka:">
 <!ENTITY HomeWebPage.accesskey "W">
+<!ENTITY Birthday.label "Narozeniny:">
+<!ENTITY Birthday.accesskey "N">
+<!ENTITY In.label "">
+<!ENTITY Year.emptytext "rok">
+<!ENTITY Or.value "nebo">
+<!ENTITY Age.emptytext "věk">
+<!ENTITY YearsOld.label "">
 
 <!ENTITY Work.tab "Zaměstnání">
 <!ENTITY Work.accesskey "Z">
@@ -141,11 +147,6 @@
 
 <!ENTITY Other.tab "Ostatní">
 <!ENTITY Other.accesskey "O">
-<!ENTITY Birthday.label "Narozeniny:">
-<!ENTITY Birthday.accesskey "N">
-<!ENTITY Year.emptytext "rok">
-<!ENTITY Or.value "nebo">
-<!ENTITY Age.emptytext "věk">
 <!ENTITY Custom1.label "Položka 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Položka 2:">

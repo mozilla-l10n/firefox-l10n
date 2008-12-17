@@ -1,35 +1,53 @@
-<!-- extracted from ./history.xul -->
+<!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY menuBar.tooltip "Lišta nabídky">
-<!ENTITY fileMenu.label "Soubor">
-<!ENTITY closeCmd.label "Zavřít">
-<!ENTITY editMenu.label "Upravit">
-<!ENTITY undoCmd.label "Zpět">
-<!ENTITY redoCmd.label "Znovu">
-<!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY copyCmd.label "Kopírovat">
-<!ENTITY pasteCmd.label "Vložit">
-<!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteHostnameCmd.accesskey "s">
-<!ENTITY deleteDomainCmd.accesskey "o">
-<!ENTITY selAllCmd.label "Vybrat vše">
-<!ENTITY findHisCmd.label "Hledat v historii…">
-<!ENTITY findHisCmd.commandkey "f">
-<!ENTITY findHisCmd.accesskey "L">
-<!ENTITY groupBy.label "Seskupit podle">
-<!ENTITY groupBy.accesskey "S">
-<!ENTITY groupByDay.label "Dne">
-<!ENTITY groupByDay.accesskey "D">
-<!ENTITY groupBySite.label "Serveru">
-<!ENTITY groupBySite.accesskey "R">
-<!ENTITY groupByNone.label "Neseskupit">
-<!ENTITY groupByNone.accesskey "N">
-<!ENTITY historyWindowTitle.label "Historie">
-<!ENTITY menuitem.view.unsorted.label "Neřadit">
-<!ENTITY menuitem.view.unsorted.accesskey "n">
-<!ENTITY sortAscending.label "Ascending">
-<!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "Descending">
-<!ENTITY sortDescending.accesskey "D">
-<!ENTITY menuitem.view.show_columns.label "Zobrazit sloupce">
-<!ENTITY menuitem.view.show_columns.accesskey "S">
+<!ENTITY historyWindowTitle.label       "History">
+<!ENTITY menuBar.tooltip                "Menu Bar">
+<!ENTITY searchBar.tooltip              "Search Bar">
+
+<!ENTITY search.emptytext               "Search History">
+<!ENTITY search.key                     "f">
+<!ENTITY view.label                     "View">
+
+<!ENTITY view.columns.label             "Show Columns">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sortBy.label              "Sort by">
+<!ENTITY view.sortBy.accesskey          "S">
+<!ENTITY view.groupBy.label             "Group by">
+<!ENTITY view.groupBy.accesskey         "G">
+
+<!ENTITY view.unsorted.label            "Unsorted">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "A > Z Sort Order">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A Sort Order">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY view.groupNone.label           "None">
+<!ENTITY view.groupNone.accesskey       "N">
+<!ENTITY view.groupDay.label            "Day">
+<!ENTITY view.groupDay.accesskey        "D">
+<!ENTITY view.groupSite.label           "Site">
+<!ENTITY view.groupSite.accesskey       "S">
+<!ENTITY view.groupDayAndSite.label     "Day and Site">
+<!ENTITY view.groupDayAndSite.accesskey "a">
+
+<!ENTITY cmd.open.label                 "Open">
+<!ENTITY cmd.open.accesskey             "O">
+<!ENTITY cmd.open_window.label          "Open Link in New Window">
+<!ENTITY cmd.open_window.accesskey      "N">
+<!ENTITY cmd.open_tab.label             "Open Link in New Tab">
+<!ENTITY cmd.open_tab.accesskey         "w">
+<!ENTITY cmd.open_all_in_tabs.label     "Open All in Tabs">
+<!ENTITY cmd.open_all_in_tabs.accesskey "O">
+
+<!ENTITY bookmarkCmd.label              "Bookmark This Link…">
+<!ENTITY bookmarkCmd.accesskey          "B">
+
+<!ENTITY col.title.label                "Title">
+<!ENTITY col.title.accesskey            "T">
+<!ENTITY col.url.label                  "Location">
+<!ENTITY col.url.accesskey              "L">
+<!ENTITY col.lastvisit.label            "Last Visited">
+<!ENTITY col.lastvisit.accesskey        "V">
+<!ENTITY col.visitcount.label           "Visit Count">
+<!ENTITY col.visitcount.accesskey       "C">

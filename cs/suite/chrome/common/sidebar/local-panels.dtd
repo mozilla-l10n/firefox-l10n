@@ -34,10 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- extracted from ./local-panels.rdf -->
 
-
-<!ENTITY sidebar.whats-related.label "Související stránky">
 <!ENTITY sidebar.search.label "Hledání">
 <!ENTITY sidebar.client-bookmarks.label "Záložky">
 <!ENTITY sidebar.client-history.label "Historie">
