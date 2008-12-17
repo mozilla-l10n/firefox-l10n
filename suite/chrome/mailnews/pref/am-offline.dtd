@@ -1,11 +1,8 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Per a estalviar espai, no baixis:">
 <!ENTITY doNotDownload.label "Per a estalviar espai, no baixis per a treballar-hi fora de línia:">
-<!ENTITY offlineNewFolder.label "Quan creï carpetes noves, selecciona-les per a treballar-hi fora de línia">
-<!ENTITY offlineNewFolder.accesskey "h">
 <!ENTITY offlineNotDownload.label "No baixis missatges si són més grans de">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY kb.label "kB">
-<!ENTITY days.label "dies">
 <!ENTITY daysOld.label "dies">
 <!ENTITY message.label "missatges">
 <!ENTITY nntpNotDownloadRead.label "Llegeix els missatges">
@@ -24,10 +21,4 @@
 <!ENTITY retentionKeepUnread.label "Suprimeix sempre els missatges llegits">
 <!ENTITY retentionKeepUnread.accesskey "u">
 <!ENTITY offlineSelectNntp.label "Seleccioneu els grups de discussió per ús fora de línia...">
-<!ENTITY offlineSelectImap.label "Seleccioneu les carpetes per ús fora de línia...">
-<!ENTITY offlineSelect.accesskey "S">
-<!ENTITY offlineDesc.label "El mode fora de línia us permet baixar els missatges localment de manera que estiguin disponibles quan no estigueu connectat al servidor. Utilitzeu el botó &quot;Selecciona&quot; per a decidir quins missatges estaran disponibles quan estigueu fora de línia.">
-<!ENTITY makeInboxMsgsAvailable.label "Fes que els missatges de la safata d'entrada estiguin disponibles quan treballi fora de línia">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Fora de línia">
 <!ENTITY diskspaceGroupTitle.label "Espai de disc">

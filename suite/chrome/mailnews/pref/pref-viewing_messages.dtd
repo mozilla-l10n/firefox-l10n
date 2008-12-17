@@ -53,27 +53,14 @@
 <!ENTITY color.label "Color:">
 <!ENTITY color.accesskey "c">
 <!ENTITY displayPlainText.caption           "Missatges en text net">
-<!ENTITY plainTextFont.label              "Utilitza la següent amplada del tipus de lletra:">
 <!ENTITY displayQuoted.label              "Paràmetres per als missatges citats:">
 
-<!ENTITY fixedWidth.label "Amplada fixa">
-<!ENTITY fixedWidth.accesskey "f">
-<!ENTITY variableWidth.label "Amplada variable">
-<!ENTITY variableWidth.accesskey "v">
-<!ENTITY readingMessagesHeader.label "Per als missatges d'entrada">
-<!ENTITY messageWrapping.label "Ajustament de missatges">
 <!ENTITY wrapInMsg.label "Ajusta el text a l'amplada de la finestra">
 <!ENTITY wrapInMsg.accesskey "n">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label "Mostra les emoticones com a imatges">
 <!ENTITY convertEmoticons.accesskey "s">
 <!ENTITY generalMessageDisplay.caption      "General">
-<!-- LOCALIZATION NOTE (markMessagesRead.label): This will concatenate with
-     "xxx seconds before marking a message as read", using a number and
-     (seconds.label). -->
-<!ENTITY markMessagesRead.label           "Espera">
-<!ENTITY markMessagesRead.accesskey       "p">
-<!ENTITY seconds.label                    "segons abans de marcar un missatge com llegit">
 
 <!ENTITY openingMessages.label            "En obrir els missatges, mostreu-los en:">
 <!ENTITY newWindowRadio.label             "Una nova finestra de missatge">
