@@ -115,6 +115,9 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exporta…">
 <!ENTITY exportCmd.accesskey "E">
+<!ENTITY allowOnlineCheck.label                         "Comprova la presència en línia (AOL)">
+<!ENTITY allowOnlineCheck.accesskey                     "C">
+
 <!ENTITY preferencesCmd.label "Opcions…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferències">
@@ -136,6 +139,7 @@
 <!ENTITY throbberItem.title "Indicador d'activitat">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "Barra de la llibreta d'adreces">
 <!ENTITY newcardButton.tooltip "Crea una nova targeta de llibreta d'adreces">
 <!ENTITY newlistButton.tooltip "Crea una nova llista">
 <!ENTITY editButton.tooltip "Edita la targeta seleccionada">

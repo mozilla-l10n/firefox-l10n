@@ -4,6 +4,12 @@
 <!ENTITY pref.offline.title "Fora de línia i espai de disc">
 <!ENTITY pref.offline.caption "Fora de línia">
 <!ENTITY textStartUp "En iniciar-se:">
+<!ENTITY textStartUp.accesskey            "n">
+<!ENTITY menuitemRememberPrevState        "Recorda l'estat en línia anterior">
+<!ENTITY menuitemAskMe                    "Demana'm l'estat en línia a l'inici">
+<!ENTITY menuitemAlwaysOnline             "Inicia sempre en línia">
+<!ENTITY menuitemAlwaysOffline            "Inicia sempre fora de línia">
+<!ENTITY menuitemAutomatic                "Detecta-ho automàticament (si està disponible)">
 <!ENTITY textGoingOnline "En connectar-me, amb els missatges per enviar:">
 <!ENTITY radioAutoSend "Envia-los automàticament">
 <!ENTITY radioAutoSend.accesskey "u">

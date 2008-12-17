@@ -43,9 +43,12 @@
 <!ENTITY downloadOnBiff.accesskey "a">
 <!ENTITY username.label "El vostre nom d'entrada:">
 <!ENTITY deleteMessagePrefix.label "Quan suprimeixi un missatge:">
-<!ENTITY modelMoveToTrash.label "Mou-lo a la carpeta Paperera">
+<!ENTITY modelMoveToTrash.label "Mou-lo a la carpeta:">
+<!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marca'l com a suprimit">
-<!ENTITY modelDeleteImmediately.label "Elimina'l immediatament">
+<!ENTITY modelMarkDeleted.accesskey "M">
+<!ENTITY modelDeleteImmediately.label "Suprimeix-lo immediatament">
+<!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Neteja (&quot;Esborra&quot;) la Safata d'entrada en sortir">
 <!ENTITY expungeOnExit.accesskey "E">
