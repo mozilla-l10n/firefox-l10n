@@ -5,9 +5,9 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; no recordará ningún historial para esta sesión.">
 <!ENTITY privatebrowsingpage.longDesc                  "No se guardará el historial de &brandShortName; durante esta sesión de navegación.  Ésto incluye el historial de navegación, búsqueda, descargas, formularios, cookies y archivos temporales de internet.  Sin embargo, los archivos que descargue o los marcadores que cree serán preservados.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Puede desear iniciar borrando su historial reciente.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Borrar historial reciente">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Puede querer comenzar borrando ahora su historial reciente.">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Borrar historial reciente…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "C">
 
 <!ENTITY privatebrowsingpage.howToStopDesc             "Para dejar la navegación privada, desmarque Herramientas &gt; Navegación privada.">
 <!ENTITY privatebrowsingpage.footerDesc                "¡Disfrute!">
