@@ -117,7 +117,7 @@ Pažymėjus šią parinktį, tokie tinkle esantys paveikslai šio adresato laiš
 <!ENTITY HomeWebPage.accesskey          "T">
 <!ENTITY Birthday.label                 "Gimimo diena:">
 <!ENTITY Birthday.accesskey             "o">
-<!ENTITY In.label                       "m.">
+<!ENTITY In.label                       "g.">
 <!ENTITY Year.emptytext                 "metai">
 <!ENTITY Or.value                       "arba">
 <!ENTITY Age.emptytext                  "amžius">
