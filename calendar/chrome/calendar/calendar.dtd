@@ -51,9 +51,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newtask.button.tooltip          "Créer une nouvelle tâche" >
 <!ENTITY calendar.newevent.button.tooltip         "Créer un nouvel événement" >
-<!ENTITY calendar.edit.button.tooltip             "Modifier l'événement sélectionné" >
+<!ENTITY calendar.newtask.button.tooltip          "Créer une nouvelle tâche" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tâches" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Afficher les tâches accomplies">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "Revenir à la date d'aujourd'hui" >
 <!ENTITY calendar.todaypane.button.tooltip        "Afficher le panneau Aujourd'hui" >
-<!ENTITY calendar.unifinder.button.tooltip        "Rechercher et lister les événements" >
 
 <!ENTITY calendar.day.button.tooltip          "Afficher la journée" >
 <!ENTITY calendar.week.button.tooltip         "Afficher la semaine" >
@@ -102,24 +100,11 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Mois suivant" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Mois précédent" >
 
-<!ENTITY calendar.newtask.button.label          "Nouvelle tâche" >
 <!ENTITY calendar.newevent.button.label         "Nouvel événement" >
-<!ENTITY calendar.edit.button.label             "Modifier" >
-
+<!ENTITY calendar.newtask.button.label          "Nouvelle tâche" >
 <!ENTITY calendar.print.button.label            "Imprimer" >
 
 <!ENTITY calendar.export.calendar                "Exporter l'agenda…" >
-
-<!ENTITY calendar.import.button.tooltip            "Importer des événements à partir d'un fichier local." >
-<!ENTITY calendar.export.button.tooltip            "Exporter des événements vers un fichier local." >
-<!ENTITY calendar.subscribe.button.tooltip         "S'abonner à un fichier d'agenda sur une machine distante." >
-<!ENTITY calendar.publish.button.tooltip           "Publier des événements sur une machine distante." >
-
-<!ENTITY calendar.import.button.label              "Importer" >
-<!ENTITY calendar.export.button.label              "Exporter" >
-<!ENTITY calendar.subscribe.button.label           "S'abonner" >
-<!ENTITY calendar.publish.button.label             "Publier" >
-<!ENTITY calendar.unifinder.button.label           "Recherche d'événements" >
 
 <!ENTITY calendar.day.button.label          "Journée" >
 <!ENTITY calendar.week.button.label         "Semaine" >
@@ -155,15 +140,16 @@
 <!ENTITY calendar.task.filter.open.label "Tâches inachevées">
 <!ENTITY calendar.task.filter.open.accesskey "n">
 
-<!ENTITY calendar.task.details.title.label  "Titre :">
-<!ENTITY calendar.task.details.organizer.label "Émetteur :">
-<!ENTITY calendar.task.details.priority2.label "Priorité :">
-<!ENTITY calendar.task.details.priority.low.label "Basse">
-<!ENTITY calendar.task.details.priority.normal.label "Normale">
-<!ENTITY calendar.task.details.priority.high.label "Haute">
-<!ENTITY calendar.task.details.status.label "Statut :">
-<!ENTITY calendar.task.details.category.label "Catégorie :">
-<!ENTITY calendar.task.details.repeat.label "Répétition :">
+<!ENTITY calendar.task-details.startdate.label "titre">
+<!ENTITY calendar.task-details.title.label "titre">
+<!ENTITY calendar.task-details.organizer.label "émetteur">
+<!ENTITY calendar.task-details.priority.label "priorité">
+<!ENTITY calendar.task-details.priority.low.label "Basse">
+<!ENTITY calendar.task-details.priority.normal.label "Normale">
+<!ENTITY calendar.task-details.priority.high.label "Haute">
+<!ENTITY calendar.task-details.status.label "statut">
+<!ENTITY calendar.task-details.category.label "catégorie">
+<!ENTITY calendar.task-details.repeat.label "répétition :">
 
 <!ENTITY calendar.task.category.button.tooltip "Catégoriser les tâches">
 <!ENTITY calendar.task.complete.button.tooltip "Marquer les tâches sélectionnées comme terminées">

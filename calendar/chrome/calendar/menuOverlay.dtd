@@ -71,12 +71,6 @@
 <!ENTITY calendar.publish.label                 "Publier…">
 <!ENTITY calendar.publish.accesskey             "P">
 
-<!ENTITY calendar.toolbar.label                 "Barre d'outils d'agenda">
-<!ENTITY calendar.toolbar.accesskey             "a">
-
-<!ENTITY task.toolbar.label                     "Barre d'outils des tâches">
-<!ENTITY task.toolbar.accesskey                 "r">
-
 <!ENTITY calendar.menu.customize.label          "Personnaliser…">
 <!ENTITY calendar.menu.customize.accesskey      "l">
 
