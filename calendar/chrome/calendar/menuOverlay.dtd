@@ -70,11 +70,6 @@
 <!ENTITY calendar.publish.label                 "Publizieren…">
 <!ENTITY calendar.publish.accesskey             "P">
 
-<!ENTITY calendar.toolbar.label                 "Kalender-Symbolleiste">
-<!ENTITY calendar.toolbar.accesskey             "K">
-<!ENTITY task.toolbar.label                     "Aufgaben-Symbolleiste">
-<!ENTITY task.toolbar.accesskey                 "A">
-
 <!ENTITY calendar.menu.customize.label          "Anpassen…">
 <!ENTITY calendar.menu.customize.accesskey      "A">
 
