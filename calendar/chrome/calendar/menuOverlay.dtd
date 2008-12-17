@@ -70,11 +70,6 @@
 <!ENTITY calendar.publish.label "Publikovat…">
 <!ENTITY calendar.publish.accesskey "u">
 
-<!ENTITY calendar.toolbar.label "Lišta kalendáře">
-<!ENTITY calendar.toolbar.accesskey "k">
-<!ENTITY task.toolbar.label "Lišta úkolů">
-<!ENTITY task.toolbar.accesskey "o">
-
 <!ENTITY calendar.menu.customize.label "Vlastní…">
 <!ENTITY calendar.menu.customize.accesskey "V">
 

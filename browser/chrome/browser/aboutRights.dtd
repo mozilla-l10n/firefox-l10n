@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle "O vašich právech">
 <!ENTITY rights.intro-header "O vašich právech">
-<!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
+<!ENTITY rights.intro "&brandFullName; je svobodný software s otevřeným zdrojovým kódem, který je vytvářen tisíci dobrovolníky z celého světa. Je zde ale několik věcí, které byste měli vědět:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,21 +12,21 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
+<!ENTITY rights.intro-point1a "Aplikace &brandShortName; je dostupná za podmínek stanovených ve ">
+<!ENTITY rights.intro-point1b "Veřejné licenci Mozilly">
+<!ENTITY rights.intro-point1c " (MPL). Ta vám umožňuje aplikaci &brandShortName; používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace &brandShortName; podle vašich potřeb. Veřejná licence Mozilly vám rovněž dává právo šířit vámi pozměněné verze.">
 
-<!ENTITY rights.intro-point2a "Mozilla does not grant you any rights to the Mozilla and Firefox trademarks or logos. Additional information on Trademarks may be found ">
-<!ENTITY rights.intro-point2b "here">
+<!ENTITY rights.intro-point2a "Mozilla vám však nepodstupuje práva k ochrané známce a k logu Mozilly a Firefoxu. Podrobnější informace o ochraných známkách jsou dostupné  na ">
+<!ENTITY rights.intro-point2b "samostatné stránce">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Privacy policies for &vendorShortName;'s products may be found ">
-<!ENTITY rights.intro-point3b "here">
+<!ENTITY rights.intro-point3a "Zásady ochrany soukromí pro produkty &vendorShortName; jsou dostupné na ">
+<!ENTITY rights.intro-point3b "samostatné stránce">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Any applicable privacy policies for this product should be listed here.">
+<!ENTITY rights.intro-point3-unbranded "Zásady ochrany soukromí pro neoficiální verze produktů nejsou k dispozici.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; also offers optional web site information services, such as the SafeBrowsing service; however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
@@ -45,7 +45,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; uses web site information services (&quot;Services&quot;), such as the SafeBrowsing service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the SafeBrowsing service by opening the application preferences, selecting the ">
+<!ENTITY rights.webservices-a "&brandFullName; používá informační služby webového serveru (&quot;Služby&quot;), such as the SafeBrowsing service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the SafeBrowsing service by opening the application preferences, selecting the ">
 <!ENTITY rights.webservices-b "Security">
 <!ENTITY rights.webservices-c " section, and unchecking the options for &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
 

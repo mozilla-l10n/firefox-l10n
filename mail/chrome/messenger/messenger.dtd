@@ -68,7 +68,7 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Smazat zprávu">
-<!ENTITY deleteMsgCmd.accesskey "m">
+  <!ENTITY deleteMsgCmd.accesskey "m">
 <!ENTITY undeleteMsgCmd.label "Obnovit zprávu">
 <!ENTITY undeleteMsgCmd.accesskey "n">
 <!ENTITY cancelNewsMsgCmd.label "Zrušit zprávu">
@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "Znovu přesunout zprávu">
 <!ENTITY undoCopyMsgCmd.label "Zpět kopírování zprávy">
 <!ENTITY redoCopyMsgCmd.label "Znovu kopírovat zprávu">
+<!ENTITY undoMarkAllCmd.label "Zpět označit jako přečtené">
+<!ENTITY redoMarkAllCmd.label "Znovu označit jako přečtené">
 <!ENTITY undoDefaultCmd.label "Zpět">
 <!ENTITY undoDefaultCmd.accesskey "Z">
 <!ENTITY redoDefaultCmd.label "Znovu">

@@ -41,13 +41,25 @@
 <!ENTITY sunbird.print.button.tooltip "Vytisknout kalendář">
 <!ENTITY sunbird.delete.button.tooltip "Vymaže vybranou událost">
 <!ENTITY sunbird.remotereload.button.tooltip "Aktualizuje všechny vzdálené kalendáře">
+<!ENTITY sunbird.import.button.tooltip "Importuje události z místního souboru" >
+<!ENTITY sunbird.export.button.tooltip "Exportuje události do místního souboru" >
+<!ENTITY sunbird.subscribe.button.tooltip "Přihlásí k odběru kalendáře ze vzdáleného počítače" >
+<!ENTITY sunbird.publish.button.tooltip "Publikuje události na vzdálený počítač" >
+<!ENTITY sunbird.unifinder.button.tooltip "Najde a zobrazí události" >
+<!ENTITY sunbird.edit.button.tooltip "Upraví vybranou událost" >
 
 <!ENTITY sunbird.choosedate.button.label "Vybrat datum">
 <!ENTITY sunbird.cut.button.label "Vyjmout">
 <!ENTITY sunbird.copy.button.label "Kopírovat">
 <!ENTITY sunbird.paste.button.label "Vložit">
 <!ENTITY sunbird.delete.button.label "Smazat">
-<!ENTITY sunbird.remotereload.button.label "Aktualizace">
+<!ENTITY sunbird.remotereload.button.label "Aktualizovat">
+<!ENTITY sunbird.import.button.label "Importovat" >
+<!ENTITY sunbird.export.button.label "Exportovat">
+<!ENTITY sunbird.subscribe.button.label "Odebírat">
+<!ENTITY sunbird.publish.button.label "Publikovat">
+<!ENTITY sunbird.unifinder.button.label "Najít události">
+<!ENTITY sunbird.edit.button.label "Upravit">
 
 <!ENTITY sunbird.flat.topbar.choosedate "Přejít na datum">
 <!ENTITY sunbird.flat.topbar.dayview "Denní pohled">

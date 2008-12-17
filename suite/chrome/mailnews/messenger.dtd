@@ -138,6 +138,8 @@
 <!ENTITY redoMoveMsgCmd.label "Znovu přesunout zprávu">
 <!ENTITY undoCopyMsgCmd.label "Zpět kopírování zprávy">
 <!ENTITY redoCopyMsgCmd.label "Znovu kopírovat zprávu">
+<!ENTITY undoMarkAllCmd.label "Zpět označit jako přečtené">
+<!ENTITY redoMarkAllCmd.label "Znovu označit jako přečtené">
 <!ENTITY undoDefaultCmd.label "Zpět">
 <!ENTITY redoDefaultCmd.label "Znovu">
 

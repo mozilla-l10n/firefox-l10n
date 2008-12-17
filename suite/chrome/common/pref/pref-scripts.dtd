@@ -1,6 +1,6 @@
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title "Skripty a zásuvné moduly">
 
 <!ENTITY navigator.label "Prohlížeč">
@@ -19,6 +19,6 @@
 
 <!ENTITY enablePlugin.label "Povolit zásuvné moduly pro">
 
-<!ENTITY whenPluginsRequired.description "Pokud jsou požadovány dodatečné zásuvné moduly:">
+<!ENTITY whenPluginsRequired.label "Pokud jsou požadovány dodatečné zásuvné moduly">
 <!ENTITY displayNotification.label "Zobrazit informační lištu v horní části obsahu stránky">
 <!ENTITY displayNotification.accesskey  "i">

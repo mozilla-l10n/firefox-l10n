@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "Z">
-<!ENTITY newCard.label "Kontakt…">
-<!ENTITY newCard.accesskey "K">
+<!ENTITY newContact.label "Kontakt…">
+<!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Připojit">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Připojit soubor…">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenuNew.accesskey "N">
 <!ENTITY showCompositionToolbarCmd.label "Lišta pošty">
+<!ENTITY showCompositionToolbarCmd.accesskey "p">
 <!ENTITY showFormattingBarCmd.label "Lišta stylů">
 <!ENTITY showFormattingBarCmd.accesskey "s">
 <!ENTITY showTaskbarCmd.label "Stavový řádek">
