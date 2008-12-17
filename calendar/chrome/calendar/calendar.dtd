@@ -143,7 +143,6 @@
 <!ENTITY calendar.task.filter.open.label            "Nebaigtus darbus">
 <!ENTITY calendar.task.filter.open.accesskey        "b">
 
-<!ENTITY calendar.task-details.startdate.label       "pavadinimas">
 <!ENTITY calendar.task-details.title.label           "pavadinimas">
 <!ENTITY calendar.task-details.organizer.label       "nuo">
 <!ENTITY calendar.task-details.priority.label        "prioritetas">
