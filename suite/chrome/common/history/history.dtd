@@ -38,27 +38,37 @@
 <!ENTITY search.emptytext                     "Ieškoti žurnale">
 <!ENTITY search.key                           "f">
 <!ENTITY view.label                           "Rodymas">
-<!ENTITY byDate.label                         "pagal datą">
-<!ENTITY byDate.accesskey                     "d">
-<!ENTITY bySite.label                         "pagal svetainę">
+<!ENTITY byNone.label                         "nerikiuoti">
+<!ENTITY byNone.accesskey                     "n">
+<!ENTITY byDay.label                          "datą">
+<!ENTITY byDay.accesskey                      "d">
+<!ENTITY bySite.label                         "svetainę">
 <!ENTITY bySite.accesskey                     "s">
-<!ENTITY byMostVisited.label                  "pagal lankymo dažnumą">
-<!ENTITY byMostVisited.accesskey              "d">
-<!ENTITY byLastVisited.label                  "pagal paskutinio apsilankymo datą">
-<!ENTITY byLastVisited.accesskey              "p">
-<!ENTITY byDayAndSite.label                   "pagal datą ir svetainę">
-<!ENTITY byDayAndSite.accesskey               "t">
+<!ENTITY byDayAndSite.label                   "datą ir svetainę">
+<!ENTITY byDayAndSite.accesskey               "a">
 
 <!ENTITY view.columns.label                   "Rodyti stulpelius">
 <!ENTITY view.columns.accesskey               "s">
-<!ENTITY view.sort.label                      "Rikiuoti">
-<!ENTITY view.sort.accesskey                  "R">
+<!ENTITY view.sortBy.label                    "Rikiuoti pagal">
+<!ENTITY view.sortBy.accesskey                "R">
+<!ENTITY view.groupBy.label                   "Grupuoti pagal">
+<!ENTITY view.groupBy.accesskey               "G">
+
 <!ENTITY view.unsorted.label                  "Nerikiuoti">
 <!ENTITY view.unsorted.accesskey              "N">
 <!ENTITY view.sortAscending.label             "Abėcėlės tvarka">
 <!ENTITY view.sortAscending.accesskey         "A">
 <!ENTITY view.sortDescending.label            "Atvirkštine abėcėlės tvarka">
 <!ENTITY view.sortDescending.accesskey        "t">
+
+<!ENTITY view.groupNone.label                 "negrupuoti">
+<!ENTITY view.groupNone.accesskey             "n">
+<!ENTITY view.groupDay.label                  "datą">
+<!ENTITY view.groupDay.accesskey              "d">
+<!ENTITY view.groupSite.label                 "svetainę">
+<!ENTITY view.groupSite.accesskey             "s">
+<!ENTITY view.groupDayAndSite.label           "datą ir svetainę">
+<!ENTITY view.groupDayAndSite.accesskey       "a">
 
 <!ENTITY cmd.open.label                       "Atverti">
 <!ENTITY cmd.open.accesskey                   "A">
@@ -73,6 +83,10 @@
 <!ENTITY bookmarkCmd.accesskey                "d">
 
 <!ENTITY col.title.label                      "Pavadinimas">
+<!ENTITY col.title.accesskey                  "P">
 <!ENTITY col.url.label                        "Adresas">
+<!ENTITY col.url.accesskey                    "A">
 <!ENTITY col.lastvisit.label                  "Paskiausiai aplankytas">
+<!ENTITY col.lastvisit.accesskey              "l">
 <!ENTITY col.visitcount.label                 "Aplankymų kiekis">
+<!ENTITY col.visitcount.accesskey             "k">
