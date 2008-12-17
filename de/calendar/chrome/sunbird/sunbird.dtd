@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "Kalender drucken">
 <!ENTITY sunbird.delete.button.tooltip                     "Markierten Termin löschen">
 <!ENTITY sunbird.remotereload.button.tooltip               "Alle externen Kalender neu laden">
+<!ENTITY sunbird.import.button.tooltip                     "Termine aus einer lokalen Datei importieren">
+<!ENTITY sunbird.export.button.tooltip                     "Termine in eine lokale Datei exportieren">
+<!ENTITY sunbird.subscribe.button.tooltip                  "Eine Kalenderdatei auf einem externen Rechner abonnieren.">
+<!ENTITY sunbird.publish.button.tooltip                    "Termine auf einem externen Rechner publizieren.">
+<!ENTITY sunbird.unifinder.button.tooltip                  "Termine suchen und auflisten">
+<!ENTITY sunbird.edit.button.tooltip                       "Markierten Termin bearbeiten">
 
 <!ENTITY sunbird.choosedate.button.label                   "Datum wählen">
 <!ENTITY sunbird.cut.button.label                          "Ausschneiden">
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "Einfügen">
 <!ENTITY sunbird.delete.button.label                       "Löschen">
 <!ENTITY sunbird.remotereload.button.label                 "Neu laden">
+<!ENTITY sunbird.import.button.label                       "Importieren">
+<!ENTITY sunbird.export.button.label                       "Exportieren">
+<!ENTITY sunbird.subscribe.button.label                    "Abonnieren">
+<!ENTITY sunbird.publish.button.label                      "Publizieren">
+<!ENTITY sunbird.unifinder.button.label                    "Termine suchen">
+<!ENTITY sunbird.edit.button.label                         "Bearbeiten">
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Zu Datum wechseln">
 <!ENTITY sunbird.flat.topbar.dayview                       "Tagesansicht">
