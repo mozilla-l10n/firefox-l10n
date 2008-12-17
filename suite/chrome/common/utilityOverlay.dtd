@@ -4,14 +4,14 @@
 <!ENTITY fileMenu.accesskey "a">
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newBlankPageCmd.label "Composer">
+<!ENTITY newBlankPageCmd.label "Editor de HTML">
 <!ENTITY newBlankPageCmd.accesskey "C">
 <!ENTITY newBlankPageCmd.key "n">
 <!ENTITY newPageFromTemplateCmd.label "Página usando modelo">
 <!ENTITY newPageFromTemplateCmd.accesskey "m">
 <!ENTITY newPageFromDraftCmd.label "Página usando rascunho">
 <!ENTITY newPageFromDraftCmd.accesskey "r">
-<!ENTITY newNavigatorCmd.label "Navigator">
+<!ENTITY newNavigatorCmd.label "Navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
 <!ENTITY editMenu.label "Editar">
