@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
 <!ENTITY organizeBookmarks.label "Knihovna stránek…">
 <!ENTITY bookmarkAllCmd.label "Přidat všechny panely do záložek…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Zobrazí více záložek">
 
 <!ENTITY backCmd.label "Zpět">
 <!ENTITY backCmd.accesskey "Z">
