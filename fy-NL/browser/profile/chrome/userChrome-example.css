@@ -1,106 +1,46 @@
 /*
-
- * Bewerk dit bestand en kopieer het als userChrome.css naar uw 
-
+ * Bewurk dit bestân en kopiear it as userChrome.css nei jo 
  * profielmap/chrome/
-
- */
-
-
-
-/*
-
- * Dit bestand mag gebruikt worden om het uitzicht van Mozilla's gebruikersinterface aan te passen
-
- * Overweeg om !important te gebruiken voor regels waarvan u wilt dat ze voorgaan op 
-
- * de standaardinstellingen.
-
- */
-
-
-
-/*
-
- * De lijn met @namespace niet verwijderen -- deze is nodig voor correct functioneren
-
- */
-
-@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* de standaard namespace op XUL zetten */
-
-
-
-
-
-/*
-
- * Enkele mogelijke toegankelijkheidsverbeteringen:
-
  */
 
 /*
+ * Dit bestân mei brûkt wûrde om it foarkommen fan Mozilla's brûkersúterlik oan te passen
+ * Oerwaagje om !important te brûken foar riges wêrfan jo wolle dat se foargean op 
+ * de standertynstellings.
+ */
 
- * Zet alle standaard lettertypegroottes op 20 pt:
+/*
+ * De rige mei @namespace net fuortsmite -- dizze is nedich foar korrekt funksjonearjen
+ */
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* de standert namespace op XUL sette */
 
+
+/*
+ * Inkele mooglike tagonklikheidsferbetterings:
+ */
+/*
+ * Set alle standert lettertypegruttes op 20 pt:
  *
-
  * * {
-
  *   font-size: 20pt !important
-
  * }
-
  */
-
 /*
-
- * Maak menu-items in het bijzonder 15 pt in plaats van de standaardgrootte:
-
+ * Meitsje menu-items yn it bysûnder 15 pt yn stee fan de standertgrutte:
  *
-
  * menupopup > * {
-
  *   font-size: 15pt !important
-
  * }
-
  */
-
 /*
-
- * Gebruik voor de locatiebalk (URL) een lettertype met vaste breedte
-
+ * Brûk foar de lokaasjebalke (URL) in lettertype mei fêste breedte
  *
-
  * #urlbar {
-
  *    font-family: monospace !important;
-
  * }
-
  */
 
-
-
 /*
-
- * Verwijder de throbber en zijn vervelende bewegen:
-
- *
-
- * #throbber-box {
-
- *   display: none !important;
-
- * }
-
- */
-
-
-
-/*
-
- * Voor meer voorbeelden, zie http://www.mozilla.org/unix/customizing.html
-
+ * Foar mear foarbylden, sjoch op http://www.mozilla.org/unix/customizing.html
  */
 
