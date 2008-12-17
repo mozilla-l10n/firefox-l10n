@@ -7,14 +7,6 @@
 <!ENTITY search.emptytext               "History durchsuchen">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Ansicht">
-<!ENTITY byNone.label                   "Nach Nichts">
-<!ENTITY byNone.accesskey               "N">
-<!ENTITY byDay.label                    "Nach Tag">
-<!ENTITY byDay.accesskey                "T">
-<!ENTITY bySite.label                   "Nach Website">
-<!ENTITY bySite.accesskey               "W">
-<!ENTITY byDayAndSite.label             "Nach Datum und Website">
-<!ENTITY byDayAndSite.accesskey         "a">
 
 <!ENTITY view.columns.label             "Spalten anzeigen">
 <!ENTITY view.columns.accesskey         "p">
