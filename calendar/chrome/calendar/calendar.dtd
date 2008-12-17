@@ -140,7 +140,6 @@
 <!ENTITY calendar.task.filter.open.label "Tâches inachevées">
 <!ENTITY calendar.task.filter.open.accesskey "n">
 
-<!ENTITY calendar.task-details.startdate.label "titre">
 <!ENTITY calendar.task-details.title.label "titre">
 <!ENTITY calendar.task-details.organizer.label "émetteur">
 <!ENTITY calendar.task-details.priority.label "priorité">
