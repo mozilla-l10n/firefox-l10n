@@ -36,12 +36,12 @@
 
 <!ENTITY pref.toolbars.title    "ਟੂਲਬਾਰ">
 
-<!ENTITY composition.caption "ਸੰਪਾਦਕ ਟੂਲਬਾਰ ਵਿੱਚ ਇਹ ਬਟਨ ਵੇਖੋ:">
+<!ENTITY composition.caption "ਐਡੀਟਰ ਟੂਲਬਾਰ ਵਿੱਚ ਇਹ ਬਟਨ ਵੇਖੋ:">
 
 <!ENTITY new.label "ਨਵਾਂ">
 <!ENTITY open.label "ਖੋਲ੍ਹੋ">
 <!ENTITY save.label "ਸੰਭਾਲੋ">
-<!ENTITY publish.label "ਪ੍ਰਕਾਸ਼ਨ">
+<!ENTITY publish.label "ਪਬਲਿਸ਼">
 <!ENTITY preview.label "ਝਲਕ">
 <!ENTITY cut.label "ਕੱਟੋ">
 <!ENTITY copy.label "ਕਾਪੀ ਕਰੋ">
