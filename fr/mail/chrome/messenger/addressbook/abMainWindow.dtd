@@ -58,7 +58,7 @@
 <!ENTITY deleteCmd.label                                "Supprimer">
 <!ENTITY deleteCmd.accesskey                            "p">
 <!ENTITY deleteAbCmd.label				"Supprimer le carnet d'adresses">
-<!ENTITY deleteContactCmd.label                         "Supprimer la contact">
+<!ENTITY deleteContactCmd.label                         "Supprimer le contact">
 <!ENTITY deleteContactsCmd.label                        "Supprimer les contacts">
 <!ENTITY deleteListCmd.label                            "Supprimer la liste">
 <!ENTITY deleteListsCmd.label                           "Supprimer les listes">
