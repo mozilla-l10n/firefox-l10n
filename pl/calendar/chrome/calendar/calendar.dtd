@@ -143,15 +143,15 @@
 <!ENTITY calendar.task.filter.open.label            "Nieukończone zadania">
 <!ENTITY calendar.task.filter.open.accesskey        "k">
 
-<!ENTITY calendar.task.details.title.label           "Nazwa:">
-<!ENTITY calendar.task.details.organizer.label       "Od:">
-<!ENTITY calendar.task.details.priority.label        "Priorytet:">
-<!ENTITY calendar.task.details.priority.low.label    "Niski">
-<!ENTITY calendar.task.details.priority.normal.label "Normalny">
-<!ENTITY calendar.task.details.priority.high.label   "Wysoki">
-<!ENTITY calendar.task.details.status.label          "Stan:">
-<!ENTITY calendar.task.details.category.label        "Kategoria:">
-<!ENTITY calendar.task.details.repeat.label          "Powtarzaj:">
+<!ENTITY calendar.task-details.title.label           "Nazwa:">
+<!ENTITY calendar.task-details.organizer.label       "Od:">
+<!ENTITY calendar.task-details.priority.label        "Priorytet:">
+<!ENTITY calendar.task-details.priority.low.label    "Niski">
+<!ENTITY calendar.task-details.priority.normal.label "Normalny">
+<!ENTITY calendar.task-details.priority.high.label   "Wysoki">
+<!ENTITY calendar.task-details.status.label          "Stan:">
+<!ENTITY calendar.task-details.category.label        "Kategoria:">
+<!ENTITY calendar.task-details.repeat.label          "Powtarzaj:">
 
 <!ENTITY calendar.task.category.button.tooltip  "Przyporządkuj zadaniom kategorie">
 <!ENTITY calendar.task.complete.button.tooltip  "Oznacz wybrane zadania jako ukończone">
