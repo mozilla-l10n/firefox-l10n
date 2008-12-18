@@ -3,15 +3,6 @@
 
 <!ENTITY bookmarkCmd.accesskey          "C">
 <!ENTITY bookmarkCmd.label              "Criar marcador para este link…">
-<!ENTITY byDayAndSite.accesskey         "t">
-<!ENTITY byDayAndSite.label             "Pela data e endereço">
-<!ENTITY bySite.accesskey               "e">
-<!ENTITY bySite.label                   "Pelo endereço">
-<!ENTITY byDay.accesskey                "d">
-<!ENTITY byDay.label                    "Pela data">
-<!ENTITY byNone.accesskey               "N">
-<!ENTITY byNone.label                   "Não ordenar">
-
 
 <!ENTITY cmd.open.accesskey             "A">
 <!ENTITY cmd.open.label                 "Abrir">
