@@ -1,8 +1,8 @@
 <!ENTITY newMessageCmd.label "Mensaje">
 <!ENTITY newMessageCmd.accesskey "M">
 <!ENTITY newMessageCmd.key "M">
-<!ENTITY newCardCmd.label "Tarjeta de la libreta de direcciones…">
-<!ENTITY newCardCmd.accesskey "C">
+<!ENTITY newContactCmd.label "Contacto…">
+<!ENTITY newContactCmd.accesskey "C">
 <!ENTITY sendPage.label "Enviar página…">
 <!ENTITY sendPage.accesskey "g">
 <!ENTITY contextSendThisPage.label "Enviar esta página…">

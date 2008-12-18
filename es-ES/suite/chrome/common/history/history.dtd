@@ -4,26 +4,26 @@
 <!ENTITY search.emptytext "Buscar en historial">
 <!ENTITY search.key "b">
 <!ENTITY view.label "Ver">
-<!ENTITY byDate.label "Por fecha">
-<!ENTITY byDate.accesskey "f">
-<!ENTITY bySite.label "Por sitio">
-<!ENTITY bySite.accesskey "S">
-<!ENTITY byMostVisited.label "Por número de visitas">
-<!ENTITY byMostVisited.accesskey "V">
-<!ENTITY byLastVisited.label "Por última visita">
-<!ENTITY byLastVisited.accesskey "L">
-<!ENTITY byDayAndSite.label "Por fecha y sitio">
-<!ENTITY byDayAndSite.accesskey "h">
 <!ENTITY view.columns.label "Mostrar columnas">
 <!ENTITY view.columns.accesskey "C">
-<!ENTITY view.sort.label "Ordenar">
-<!ENTITY view.sort.accesskey "O">
+<!ENTITY view.sortBy.label "Ordenar por">
+<!ENTITY view.sortBy.accesskey "O">
+<!ENTITY view.groupBy.label "Agrupar por">
+<!ENTITY view.groupBy.accesskey "u">
 <!ENTITY view.unsorted.label "Sin ordenar">
 <!ENTITY view.unsorted.accesskey "i">
 <!ENTITY view.sortAscending.label "Ordenar A > Z">
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ordenar Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY view.groupNone.label "Nada">
+<!ENTITY view.groupNone.accesskey "N">
+<!ENTITY view.groupDay.label "Día">
+<!ENTITY view.groupDay.accesskey "D">
+<!ENTITY view.groupSite.label "Sitio">
+<!ENTITY view.groupSite.accesskey "S">
+<!ENTITY view.groupDayAndSite.label "Día y sitio">
+<!ENTITY view.groupDayAndSite.accesskey "s">
 <!ENTITY cmd.open.label "Abrir">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.open_window.label "Abrir enlace en una ventana nueva">
@@ -35,6 +35,10 @@
 <!ENTITY bookmarkCmd.label "Añadir a marcadores este enlace…">
 <!ENTITY bookmarkCmd.accesskey "m">
 <!ENTITY col.title.label "Título">
+<!ENTITY col.title.accesskey "T">
 <!ENTITY col.url.label "Dirección">
+<!ENTITY col.url.accesskey "i">
 <!ENTITY col.lastvisit.label "Última visita">
+<!ENTITY col.lastvisit.accesskey "V">
 <!ENTITY col.visitcount.label "Número de visitas">
+<!ENTITY col.visitcount.accesskey "e">
