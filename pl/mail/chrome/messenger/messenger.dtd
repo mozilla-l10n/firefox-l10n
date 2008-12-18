@@ -101,13 +101,13 @@
 <!ENTITY accountManagerCmd.label           "Konfiguracja kont…">
 <!ENTITY accountManagerCmd.accesskey       "g">
 <!ENTITY accountManagerCmdUnix.accesskey   "g">
-<!ENTITY undoDeleteMsgCmd.label            "Cofnij usuwanie wiadomości">
-<!ENTITY redoDeleteMsgCmd.label            "Powtórz usuwanie wiadomości">
-<!ENTITY undoMoveMsgCmd.label              "Cofnij przenoszenie wiadomości">
-<!ENTITY redoMoveMsgCmd.label              "Powtórz przenoszenie wiadomości">
-<!ENTITY undoCopyMsgCmd.label              "Cofnij kopiowanie wiadomości">
-<!ENTITY redoCopyMsgCmd.label              "Powtórz kopiowanie wiadomości">
-<!ENTITY undoMarkAllCmd.label              "Cofnij oznacz jako przeczytane">
+<!ENTITY undoDeleteMsgCmd.label            "Cofnij usunięcie wiadomości">
+<!ENTITY redoDeleteMsgCmd.label            "Ponownie usuń wiadomość">
+<!ENTITY undoMoveMsgCmd.label              "Cofnij przeniesienie wiadomości">
+<!ENTITY redoMoveMsgCmd.label              "Ponownie przenieś wiadomość">
+<!ENTITY undoCopyMsgCmd.label              "Cofnij skopiowanie wiadomości">
+<!ENTITY redoCopyMsgCmd.label              "Ponownie skopiuj wiadomość">
+<!ENTITY undoMarkAllCmd.label              "Cofnij oznaczenie jako przeczytane">
 <!ENTITY redoMarkAllCmd.label              "Ponownie oznacz jako przeczytane">
 <!ENTITY undoDefaultCmd.label              "Cofnij">
 <!ENTITY undoDefaultCmd.accesskey          "C">
