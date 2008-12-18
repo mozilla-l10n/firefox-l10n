@@ -2,7 +2,7 @@
 <!ENTITY places.library.title  "Bibliotheek">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Organiseren">
+<!ENTITY organize.label        "Ordenen">
 <!ENTITY organize.accesskey    "O">
 
 <!ENTITY file.accesskey                 "B">
