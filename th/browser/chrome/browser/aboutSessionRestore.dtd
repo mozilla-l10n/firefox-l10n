@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "เรียกคืนวาระ">
+<!ENTITY restorepage.pagetitle      "คุณต้องการเรียกคืนวาระล่าสุดกลับมาหรือไม่ ?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "วาระล่าสุดของ &brandShortName; ได้ปิดตัวลงเองโดยมิได้คาดหมาย ขออภัยในความไม่สะดวก คุณสามารถเรียกคืนแท็บและหน้าต่างที่เคยเปิดไว้ได้ หรืออาจเริ่มวาระใหม่หากคุณไม่ต้องการแท็บหรือหน้าต่างเหล่านั้นอีกต่อไป">
+<!ENTITY restorepage.remedies       "หาก &brandShortName; ปิดตัวเองลงซ้ำแล้วซ้ำเล่า :">
+<!ENTITY restorepage.dueToChrome    "ลองปิดการใช้งานส่วนเสริมที่คุณเพิ่งเพิ่มเข้าไป ผ่านทางตัวจัดการส่วนเสริม">
+<!ENTITY restorepage.dueToContent   "ลองเรียกคืนวาระโดยไม่เปิดหน้าเว็บที่คุณสงสัยว่าจะเป็นสาเหตุของปัญหา">
+
+<!ENTITY restorepage.restoreButton  "เรียกคืนวาระล่าสุด">
+<!ENTITY restorepage.restore.access "ค">
+<!ENTITY restorepage.cancelButton   "เริ่มวาระใหม่">
+<!ENTITY restorepage.cancel.access  "ร">
+
+<!ENTITY restorepage.restoreHeader  "เรียกคืน">
+<!ENTITY restorepage.listHeader     "หน้าต่างและแท็บ">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "หน้าต่าง &#37;S">
