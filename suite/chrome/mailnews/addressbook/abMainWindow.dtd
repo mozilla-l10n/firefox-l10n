@@ -1,7 +1,7 @@
 <!--null-->
 <!ENTITY addressbookWindow.title "Libreta de direcciones">
-<!ENTITY newCard.label "Tarjeta de la libreta de direcciones…">
-<!ENTITY newCard.accesskey "C">
+<!ENTITY newContact.label "Contacto…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY newListCmd.label "Lista de correo…">
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "Libreta de direcciones…">
@@ -9,11 +9,11 @@
 <!ENTITY newLDAPDirectoryCmd.label "Directorio LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "IM">
-<!ENTITY printCardViewCmd.label "Imprimir tarjeta…">
-<!ENTITY printCardViewCmd.accesskey "p">
-<!ENTITY printPreviewCardViewCmd.label "Vista preliminar de la tarjeta">
-<!ENTITY printPreviewCardViewCmd.accesskey "v">
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactViewCmd.label "Imprimir contacto…">
+<!ENTITY printContactViewCmd.accesskey "p">
+<!ENTITY printPreviewContactViewCmd.label "Vista preliminar del contacto">
+<!ENTITY printPreviewContactViewCmd.accesskey "v">
+<!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Imprimir libreta de direcciones…">
 <!ENTITY printAddressBook.accesskey "A">
 <!ENTITY printPreviewAddressBook.label "Vista preliminar de la libreta de direcciones">
@@ -21,8 +21,8 @@
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY deleteAbCmd.label "Eliminar libreta de direcciones">
-<!ENTITY deleteCardCmd.label "Eliminar tarjeta">
-<!ENTITY deleteCardsCmd.label "Eliminar tarjetas selecionadas">
+<!ENTITY deleteContactCmd.label "Eliminar contacto">
+<!ENTITY deleteContactsCmd.label "Eliminar contactos seleccionados">
 <!ENTITY deleteListCmd.label "Eliminar lista">
 <!ENTITY deleteListsCmd.label "Eliminar listas seleccionadas">
 <!ENTITY deleteItemsCmd.label "Eliminar elementos seleccionados">
@@ -49,25 +49,25 @@
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY allowOnlineCheck.label "Comprobar presencia en línea (AOL)">
 <!ENTITY allowOnlineCheck.accesskey "C">
-<!ENTITY newcardButton.label "Nueva tarjeta">
-<!ENTITY newcardButton.accesskey "j">
+<!ENTITY newContactButton.label "Nuevo contacto">
+<!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "Nueva lista">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton.label "Propiedades">
-<!ENTITY editButton.accesskey "P">
+<!ENTITY editItemButton.label "Propiedades">
+<!ENTITY editItemButton.accesskey "P">
 <!ENTITY newmsgButton.label "Redactar">
 <!ENTITY newmsgButton.accesskey "C">
-<!ENTITY deleteButton.label "Eliminar">
-<!ENTITY deleteButton.accesskey "E">
+<!ENTITY deleteItemButton.label "Eliminar">
+<!ENTITY deleteItemButton.accesskey "l">
 <!ENTITY newimButton.label "Mensaje instantáneo">
 <!ENTITY newimButton.accesskey "I">
 <!ENTITY addressbookToolbar.tooltip "Barra de herramientas de direcciones">
-<!ENTITY newcardButton.tooltip "Crear una nueva tarjeta en la libreta de direcciones">
+<!ENTITY newContactButton.tooltip "Crear un nuevo contacto de la libreta de direcciones">
 <!ENTITY newlistButton.tooltip "Crear nueva lista">
-<!ENTITY editButton.tooltip "Editar la tarjeta seleccionada">
+<!ENTITY editItemButton.tooltip "Editar el elemento seleccionado">
 <!ENTITY newmsgButton.tooltip "Enviar un mensaje de correo">
 <!ENTITY newIM.tooltip "Enviar un mensaje o conversación instantáneos">
-<!ENTITY deleteButton.tooltip "Eliminar ficha seleccionada de la libreta de direcciones">
+<!ENTITY deleteItemButton.tooltip "Eliminar elemento seleccionado">
 <!ENTITY throbber.tooltip "Ir a la página principal de &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de direcciones">
 <!ENTITY statusText.label "">

@@ -1,5 +1,5 @@
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Mensaje">
 <!ENTITY newMessageCmd.accesskey "m">
-<!ENTITY newCardCmd.label "Tarjeta de la libreta de direcciones…">
-<!ENTITY newCardCmd.accesskey "c">
+<!ENTITY newContactCmd.label "Contacto…">
+<!ENTITY newContactCmd.accesskey "C">
