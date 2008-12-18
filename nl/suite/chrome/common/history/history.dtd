@@ -10,14 +10,26 @@
 
 <!ENTITY view.columns.label             "Kolommen tonen">
 <!ENTITY view.columns.accesskey         "k">
-<!ENTITY view.sort.label                "Sorteren">
-<!ENTITY view.sort.accesskey            "s">
+<!ENTITY view.sortBy.label              "Sorteren op">
+<!ENTITY view.sortBy.accesskey          "S">
+<!ENTITY view.groupBy.label             "Groeperen op">
+<!ENTITY view.groupBy.accesskey         "G">
+
 <!ENTITY view.unsorted.label            "Ongesorteerd">
 <!ENTITY view.unsorted.accesskey        "o">
 <!ENTITY view.sortAscending.label       "Sorteervolgorde A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Sorteervolgorde Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY view.groupNone.label           "Geen">
+<!ENTITY view.groupNone.accesskey       "g">
+<!ENTITY view.groupDay.label            "Datum">
+<!ENTITY view.groupDay.accesskey        "D">
+<!ENTITY view.groupSite.label           "website">
+<!ENTITY view.groupSite.accesskey       "w">
+<!ENTITY view.groupDayAndSite.label     "datum en website">
+<!ENTITY view.groupDayAndSite.accesskey "e">
 
 <!ENTITY cmd.open.label                 "Openen">
 <!ENTITY cmd.open.accesskey             "O">
@@ -32,6 +44,11 @@
 <!ENTITY bookmarkCmd.accesskey          "B">
 
 <!ENTITY col.title.label                "Titel">
+<!ENTITY col.title.accesskey            "T">
 <!ENTITY col.url.label                  "Locatie">
+<!ENTITY col.url.accesskey              "L">
 <!ENTITY col.lastvisit.label            "Laatst bezocht">
+<!ENTITY col.lastvisit.accesskey        "v">
 <!ENTITY col.visitcount.label           "Bezoekteller">
+<!ENTITY col.visitcount.accesskey       "B">
+
