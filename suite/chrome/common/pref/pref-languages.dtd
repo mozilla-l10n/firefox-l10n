@@ -1,33 +1,19 @@
 <!ENTITY languages.customize.prefLangDescript "Algumas páginas web estão disponíveis em mais de um idioma. Selecione o idioma em que prefere exibi-las.">
-<!ENTITY languages.customize.lHeader "Idiomas">
-<!ENTITY languages.customize.rHeader "Idiomas em que as páginas web são exibidas">
 <!ENTITY langtitle.label "Idiomas para páginas web">
 <!ENTITY languages.customize.prefAddLangDescript "Selecione o(s) idioma(s) que deseja adicionar.">
-<!ENTITY languages.customize.engOrder.label "1">
-<!ENTITY languages.customize.engOption.label "Inglês">
 <!ENTITY languages.customize.addButton.label "Adicionar...">
 <!ENTITY languages.customize.addButton.accesskey "A">
 <!ENTITY languages.customize.deleteButton.label "Excluir">
 <!ENTITY languages.customize.deleteButton.accesskey "X">
 <!ENTITY languages.customize.add.title.label "Adicionar idiomas">
-<!ENTITY languages.customize.left.header "Codificação">
-<!ENTITY charset.customize.right.header "Selecione as codificações suportadas">
 <!ENTITY languages.customize.available.label "Idiomas:">
 <!ENTITY languages.customize.active.label "Idiomas (na ordem de preferência):">
-<!ENTITY languages.customize.reorder.label "Reordenar">
-<!ENTITY languages.customize.remove.label "Excluir">
-<!ENTITY languages.customize.additional.label "Codificações disponíveis">
-<!ENTITY languages.customize.add.label "Adicionar">
 <!ENTITY languages.customize.others.label "Outros:">
 <!ENTITY languages.customize.others.accesskey "O">
 <!ENTITY languages.customize.Charset.grouplabel "Codificação">
 <!ENTITY languages.customize.DefaultCharset.label "Codificação padrão:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "D">
 <!ENTITY languages.customize.others.examples "exemplo: en-bz, ar-jo">
-<!ENTITY languages.customize.cancel.label "Cancelar">
-<!ENTITY languages.customize.save.label "Salvar">
-<!ENTITY languages.customize.ok.label "OK">
-<!ENTITY languages.customize.save.popup "Por favor, reinicie o navegador para efetivar as alterações...">
 <!ENTITY languages.customize.moveUp.label "Para cima">
 <!ENTITY languages.customize.moveUp.accesskey "c">
 <!ENTITY languages.customize.moveDown.label "Para baixo">

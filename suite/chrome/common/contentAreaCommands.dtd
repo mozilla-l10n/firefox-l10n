@@ -14,8 +14,6 @@
 <!ENTITY openFrameCmdInTab.accesskey "N">
 <!ENTITY showOnlyThisFrameCmd.label "Exibir somente este quadro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
-<!ENTITY addToBookmarksCmd.label "Criar marcadores">
-<!ENTITY addToBookmarksCmd.accesskey "M">
 <!ENTITY goBackCmd.label "Voltar">
 <!ENTITY goBackCmd.accesskey "V">
 <!ENTITY goForwardCmd.label "Avançar">

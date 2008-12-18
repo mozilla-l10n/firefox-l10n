@@ -4,9 +4,6 @@
 <!ENTITY ListNickName.label "Apelido da lista:">
 <!ENTITY ListDescription.label "Descrição:">
 <!ENTITY AddressTitle.label "Digite os endereços para adicioná-los à lista de emails:">
-<!ENTITY RemoveButton.label "Remover">
-<!ENTITY UpButton.label "Para cima">
-<!ENTITY DownButton.label "Para baixo">
 <!ENTITY addToAddressBook.accesskey "C">
 <!ENTITY ListName.accesskey "N">
 <!ENTITY ListNickName.accesskey "A">

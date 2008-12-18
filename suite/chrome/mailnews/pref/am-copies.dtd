@@ -4,12 +4,8 @@
 <!ENTITY fccMailFolder.accesskey "G">
 <!ENTITY fccReplyFollowsParent.label "Guardar respostas na pasta da mensagem respondida">
 <!ENTITY fccReplyFollowsParent.accesskey "r">
-<!ENTITY chooseFolderButton.label "Selecionar pasta...">
 <!ENTITY bccAddress.label "BCC para estes endereços:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Pastas especiais">
-<!ENTITY draftMailFolder.label "Salvar rascunhos em:">
-<!ENTITY templateMailFolder.label "Salvar modelos em:">
 <!ENTITY saveMessageDlg.label "Notificar ao salvar mensagens">
 <!ENTITY saveMessageDlg.accesskey "N">
 <!ENTITY sentFolderOn.label "Pasta &quot;Enviados&quot; da conta:">

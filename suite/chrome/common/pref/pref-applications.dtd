@@ -1,28 +1,7 @@
 <!ENTITY pref.applications.title "Programas">
-<!ENTITY pref.applications.caption "Definir como manipular cada tipo de arquivo">
-<!ENTITY fileTypes.label "Tipos de arquivo:">
-<!ENTITY aimLaunchSelect.label "Abrir o AOL Instant Messenger">
-<!ENTITY newTypeButton.label "Novo...">
-<!ENTITY newTypeButton.accesskey "n">
-<!ENTITY editButton.label "Editar...">
-<!ENTITY editButton.accesskey "e">
-<!ENTITY removeButton.label "Excluir">
-<!ENTITY removeButton.accesskey "x">
-<!ENTITY file "Detalhes do tipo de arquivo">
-<!ENTITY exten "Extensões:">
-<!ENTITY mimeDesc "Descrição:">
-<!ENTITY handle "Ao ser encontrado:">
-<!ENTITY handle.accesskey "e">
-<!ENTITY fileOpening.label "Abrindo arquivos">
-<!ENTITY plugins.label "Plugin Finder Service">
-<!ENTITY pluginFinder.label "Sempre usar o Netscape Plugin Finder Service (PFS)">
-<!ENTITY pluginFinder.accesskey "A">
-<!ENTITY pluginFinderDesc.label "Se esta opção não estiver marcada, o PFS é usado apenas quando a localização do plugin não é especificada pela página.">
 <!ENTITY actionColumn2.label     "Ação">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY clear.label             "Limpar">
-<!ENTITY clear.accesskey         "L">
 
 <!ENTITY filter.label            "Procurar:">
 <!ENTITY filter.accesskey        "P">

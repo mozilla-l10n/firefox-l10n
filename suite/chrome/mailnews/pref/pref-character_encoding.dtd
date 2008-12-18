@@ -2,8 +2,6 @@
 <!ENTITY messageDisplay.caption "Aparência">
 <!ENTITY viewDefaultCharset.label "Codificação padrão:">
 <!ENTITY viewDefaultCharset.accesskey "D">
-<!ENTITY forceCharsetOverride.label "Sempre usar a codificação padrão para exibir as mensagens (ignora a codificação especificada no cabeçalho MIME).">
-<!ENTITY forceCharsetOverride.accesskey "A">
 <!ENTITY composingMessages.caption "Edição">
 <!ENTITY useMIME.label "Usar a codificação MIME 'quoted printable' em mensagens contendo acentuação ou símbolos (deixe desmarcado para enviar os caracteres sem nenhuma codificação.">
 <!ENTITY useMIME.accesskey "F">

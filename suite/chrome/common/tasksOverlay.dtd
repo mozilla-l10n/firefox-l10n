@@ -1,9 +1,3 @@
-<!ENTITY inspectorTaskCmd.label "DOM Inspector">
-<!ENTITY inspectorTaskCmd.commandkey "I">
-<!ENTITY inspectorTaskCmd.accesskey.ff "I">
-<!ENTITY inspectorTaskCmd.accesskey "I">
-<!ENTITY inspectPageTaskCmd.label "Inspecionar página">
-<!ENTITY inspectPageTaskCmd.accesskey "I">
 
 <!ENTITY addonsManagerCmd.label "Gerenciador de complementos">
 <!ENTITY addonsManagerCmd.accesskey "e">
@@ -25,17 +19,11 @@
 <!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label "Privacy &amp; Security">
-<!ENTITY privacyMenu.accesskey "p">
 
-<!ENTITY securityInfoCmd.label "Informações de segurança">  
-<!ENTITY securityInfoCmd.accesskey "s">
 
 <!ENTITY switchProfileCmd.label "Alternar perfil…">
 <!ENTITY switchProfileCmd.accesskey "A">
 
-<!ENTITY taskBar.tooltip  "Barra de Status">
 <!ENTITY taskComposer.tooltip  "Composer">
 
 <!ENTITY taskNavigator.tooltip  "Navegador">

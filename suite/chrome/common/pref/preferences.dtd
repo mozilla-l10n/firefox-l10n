@@ -3,13 +3,9 @@
 <!ENTITY colors.label "Cores">
 <!ENTITY navigator.label "Navigator">
 <!ENTITY history.label "Histórico">
-<!ENTITY bidi.label "Opções Bidirecionais">
 <!ENTITY languages.label "Idiomas">
 <!ENTITY applications.label "Programas">
 <!ENTITY tabWindows.label "Abas">
-<!ENTITY compose.label "Composer">
-<!ENTITY editing.label "Nova página">
-<!ENTITY publish.label "Publicar">
 <!ENTITY offline.label "Modo desconectado">
 <!ENTITY security.label "Privacidade &amp; Segurança">
 <!ENTITY advance.label "Avançado">

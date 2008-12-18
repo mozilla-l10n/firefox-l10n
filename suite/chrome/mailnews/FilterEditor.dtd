@@ -1,18 +1,4 @@
 <!ENTITY window.title "Propriedades do filtro">
-<!ENTITY subject.label "Assunto">
-<!ENTITY sender.label "remetente">
-<!ENTITY date.label "data">
-<!ENTITY anyText.label "Qualquer texto">
-<!ENTITY keyword.label "palavra-chave">
-<!ENTITY age.label "Idade (em dias)">
-<!ENTITY to.label "para">
-<!ENTITY size.label "tamanho">
-<!ENTITY cc.label "Cc">
-<!ENTITY status.label "situação">
-<!ENTITY priority.label "prioridade">
-<!ENTITY body.label "Mensagem">
-<!ENTITY contains.label "contém">
-<!ENTITY nocontains.label "não contém">
 <!ENTITY filterName.label "Nome do filtro:">
 <!ENTITY filterName.accesskey "f">
 <!ENTITY junk.label "Spam">
@@ -22,11 +8,8 @@
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Altíssima">
-<!ENTITY conditionDesc.label "Ao receber mensagens que contenham:">
 <!ENTITY filterActionDesc.label "Executar estas ações:">
 <!ENTITY filterActionDesc.accesskey "X">
-<!ENTITY newFolderButton.label "Nova pasta...">
-<!ENTITY newFolderButton.accesskey "N">
 <!ENTITY moveMessage.label "Mover mensagem para">
 <!ENTITY copyMessage.label "Copiar mensagem para">
 <!ENTITY forwardTo.label "Encaminhar mensagem para">

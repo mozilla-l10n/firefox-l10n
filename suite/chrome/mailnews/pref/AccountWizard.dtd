@@ -16,17 +16,12 @@
 <!ENTITY fullnameLabel.accesskey "N">
 <!ENTITY emailLabel.label "Endereço de email:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Forneça seu endereço de email. Este é o endereço que as pessoas usarão para enviar mensagens para você">
-<!ENTITY emailExample.label "(por exemplo: msilva@meuprovedor.com.br).">
 <!ENTITY serverTitle.label "Informações do servidor">
-<!ENTITY incomingServerTitle.label "Servidor utilizado para receber mensagens">
 <!ENTITY incomingServerTypeDesc.label "Tipo de servidor utilizado para receber mensagens:">
-<!ENTITY incomingServerTypeLabel.label "Tipo do servidor:">
 <!ENTITY incomingServerNameDesc.label "Forneça o nome do servidor utilizado para receber mensagens (por exemplo, &quot;mail.exemplo.com.br&quot;).">
 <!ENTITY incomingServerLabel.label "Receber mensagens através deste servidor:">
 <!ENTITY incomingServerLabel.accesskey "R">
 <!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de news (NNTP) (por exemplo, &quot;news.example.com.br&quot;).">
-<!ENTITY smtpServerTitle.label "Servidor SMTP">
 <!ENTITY smtpServerDesc.label "Forneça o nome do servidor utilizado para enviar mensagens (por exemplo &quot;smtp.exemplo.com.br&quot;).">
 <!ENTITY smtpServerLabel.label "Enviar minhas mensagens através deste servidor SMTP:">
 <!ENTITY smtpServerLabel.accesskey "E">
@@ -36,7 +31,6 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Servidor de news">
 <!ENTITY haveSmtp1.prefix "O seu servidor SMTP atual (de enviar mensagens), &quot;">
 <!ENTITY haveSmtp1.suffix '&quot;, será usado. Você pode modificar estas opções em "Configurar contas" no menu "Editar".'>
 <!ENTITY loginTitle.label "Nomes de usuário">
@@ -53,7 +47,6 @@
 <!ENTITY haveSmtp3.suffix '&quot;, é idêntico ao do servidor usado para receber mensagens. O mesmo nome de usuário será usado para acessá-lo. Você pode modificar estas opções em "Configurar contas" no menu "Editar".'>
 <!ENTITY accnameTitle.label "Nome da conta">
 <!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer se referir a esta conta (por exemplo, &quot;Conta do trabalho&quot;, &quot;Casa&quot; ou &quot;Conta de news&quot;).">
-<!ENTITY accnameExample.label "Por exemplo, Conta do trabalho, Casa ou Conta de news">
 <!ENTITY accnameLabel.label "Nome da conta:">
 <!ENTITY accnameLabel.accesskey "T">
 <!ENTITY completionTitle.label "Parabéns!">

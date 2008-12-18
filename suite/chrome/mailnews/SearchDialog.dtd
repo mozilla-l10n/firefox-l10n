@@ -8,15 +8,11 @@
 <!ENTITY resetButton.accesskey "L">
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "u">
-<!ENTITY optionsButton.label "Opções">
-<!ENTITY closeButton.label "Fechar">
 <!ENTITY openButton.label "Abrir">
 <!ENTITY openButton.accesskey "a">
 <!ENTITY deleteButton.label "Excluir">
 <!ENTITY deleteButton.accesskey "X">
 <!ENTITY searchDialogTitle.label "Pesquisar mensagens">
-<!ENTITY conditionDesc.label "Pesquisar mensagens que:">
-<!ENTITY conditions.label "Critério">
 <!ENTITY results.label "Resultados">
 <!ENTITY fileHereMenu.label "Mover para cá">
 <!ENTITY fileHereMenu.accesskey "M">

@@ -1,9 +1,7 @@
 <!ENTITY pref.ldap.window.title "Servidores de diretório LDAP">
-<!ENTITY directory.label "Adicionar um diretório">
 <!ENTITY directories.label "Servidor de diretório LDAP:">
 <!ENTITY directoriesText.label "Selecione um servidor de diretório LDAP:">
 <!ENTITY directoriesText.accesskey "S">
-<!ENTITY autocomplete.title "Servidor de diretório LDAP">
 <!ENTITY addDirectory.label "Adicionar...">
 <!ENTITY addDirectory.accesskey "a">
 <!ENTITY editDirectory.label "Editar...">

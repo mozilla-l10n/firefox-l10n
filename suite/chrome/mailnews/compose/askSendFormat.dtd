@@ -1,19 +1,10 @@
 <!ENTITY windowTitle.label "Mensagem em HTML">
 <!ENTITY recipient.label "Alguns dos destinatários não estão listados como aptos a receber mensagens em HTML.">
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Sua mensagem pode ser convertida para texto sem formatação sem perda de informação.">
-<!ENTITY convertibleAltering.label "Sua mensagem pode ser convertida para texto sem formatação sem perder informações importantes. Entretanto, a mensagem pode ter uma aparência diferente daquela exibida durante a edição.">
-<!ENTITY convertibleNo.label "Se a mensagem for convertida para texto, alguma formatação será perdida (cores, por exemplo).">
 <!ENTITY question.label "Deseja converter a mensagem para texto sem formatação ou quer enviá-la em HTML?">
 <!ENTITY plainTextAndHtml.label "Enviar em ambos os formatos">
 <!ENTITY plainTextOnly.label "Enviar só como texto sem formatação">
 <!ENTITY htmlOnly.label "Enviar só em HTML">
-<!ENTITY plainTextAndHtmlRecommended.label "Enviar em ambos os formatos (recomendado)">
-<!ENTITY plainTextOnlyRecommended.label "Enviar só como texto sem formatação (recomendado)">
-<!ENTITY htmlOnlyRecommended.label "Enviar só em HTML (recomendado)">
-<!ENTITY recommended.label "(recomendado)">
 <!ENTITY send.label "Enviar">
-<!ENTITY recipients.label "Destinatários...">
 <!ENTITY htmlOnly.accesskey "H">
 <!ENTITY plainTextAndHtml.accesskey "E">
 <!ENTITY plainTextOnly.accesskey "t">

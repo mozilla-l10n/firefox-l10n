@@ -9,7 +9,6 @@
 <!ENTITY statusColumn.label "Situação">
 <!ENTITY sizeColumn.label "Tamanho">
 <!ENTITY junkStatusColumn.label "Spam">
-<!ENTITY linesColumn.label "Linhas">
 <!ENTITY unreadColumn.label "Não lidas no tópico">
 <!ENTITY totalColumn.label "Total no tópico">
 <!ENTITY readColumn.label "Lida">

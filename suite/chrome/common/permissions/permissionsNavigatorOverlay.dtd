@@ -27,12 +27,8 @@
 <!ENTITY cookieBlockImagesMsg.label "Imagens deste site não serão carregadas.">
 <!ENTITY cookieAllowPopupsCmd.label "Desbloquear popups deste site...">
 <!ENTITY cookieAllowPopupsCmd.accesskey "D">
-<!ENTITY cookieAboutPopupBlocking.label "Dica de uso...">
-<!ENTITY cookieAboutPopupBlocking.accesskey "u">
 <!ENTITY cookieManagePopups.label "Sites desbloqueados...">
 <!ENTITY cookieManagePopups.accesskey "D">
-<!ENTITY cookieTutorialCmd.label "Entendendo a privacidade">
-<!ENTITY cookieTutorialCmd.accesskey "p">
 <!ENTITY cookieCookieManager.label "Cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Imagens">

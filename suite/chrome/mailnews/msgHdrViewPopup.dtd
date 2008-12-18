@@ -6,8 +6,6 @@
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Criar filtro...">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY BlockAddress.label "Bloquear endereço">
-<!ENTITY BlockAddress.accesskey "B">
 <!ENTITY CopyMessageId.label               "Copiar Messagem-ID">
 <!ENTITY OpenBrowserWithMsgId.label        "Abrir Navegador com Messagem-ID">
 <!ENTITY OpenMessageForMsgId.label         "Abrir mensagem para ID">

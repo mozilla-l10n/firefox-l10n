@@ -1,8 +1,6 @@
 <!ENTITY menuBar.tooltip "Menu (clique para exibir)">
 <!ENTITY bookmarkToolbar.tooltip "Barra de marcadores">
-<!ENTITY bookmarksSearch.tooltip "Pesquisa (clique para exibir)">
 <!ENTITY menuitem.newBookmark.label "Marcador...">
-<!ENTITY command.newBookmark.accesskey "M">
 <!ENTITY menuitem.newBookmark.accesskey "M">
 <!ENTITY menuitem.newFolder.label "Pasta...">
 <!ENTITY button.newFolder.label "Nova pasta...">
@@ -31,8 +29,6 @@
 <!ENTITY command.sortFolderByName.accesskey "N">
 <!ENTITY menuitem.view.command.toolbar.label "Barra de ferramentas">
 <!ENTITY menuitem.view.command.toolbar.accesskey "f">
-<!ENTITY menuitem.view.command.searchbar.label "Localizar nome">
-<!ENTITY menuitem.view.command.searchbar.accesskey "Z">
 <!ENTITY menuitem.view.show_columns.label "Colunas">
 <!ENTITY menuitem.view.show_columns.accesskey "u">
 <!ENTITY menuitem.newbookmarkfolder.label "Definir como pasta para novos marcadores">
@@ -42,25 +38,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.label "Exibir esta pasta na barra de marcadores">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "x">
 <!ENTITY treecol.name.label "Nome">
-<!ENTITY treecol.name.accesskey "n">
 <!ENTITY treecol.name.tooltip "Clique para ordenar pela nome">
 <!ENTITY treecol.url.label "Endereço">
-<!ENTITY treecol.url.accesskey "e">
 <!ENTITY treecol.url.tooltip "Clique para ordenar pelo endereço">
 <!ENTITY treecol.shortcut.label "Palavra-chave">
-<!ENTITY treecol.shortcut.accesskey "p">
 <!ENTITY treecol.shortcut.tooltip "Clique para ordenar pela palavra-chave">
 <!ENTITY treecol.description.label "Descrição">
-<!ENTITY treecol.description.accesskey "s">
 <!ENTITY treecol.description.tooltip "Clique para ordenar pela descrição">
 <!ENTITY treecol.addedon.label "Criado">
-<!ENTITY treecol.addedon.accesskey "c">
 <!ENTITY treecol.addedon.tooltip "Clique para ordenar pela data de criação">
 <!ENTITY treecol.lastmod.label "Modificado">
-<!ENTITY treecol.lastmod.accesskey "m">
 <!ENTITY treecol.lastmod.tooltip "Clique para ordenar pela data de modificação">
 <!ENTITY treecol.lastvisit.label "Última visita">
-<!ENTITY treecol.lastvisit.accesskey "V">
 <!ENTITY treecol.lastvisit.tooltip "Clique para ordenar pela data da última visita">
 <!ENTITY bookmarksWindowTitle.label "Marcadores">
 <!ENTITY search.label "Localizar nome:">

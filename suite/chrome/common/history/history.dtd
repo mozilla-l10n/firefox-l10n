@@ -29,8 +29,6 @@
 <!ENTITY view.columns.accesskey         "u">
 <!ENTITY view.columns.label             "Exibir colunas">
 <!ENTITY view.label                     "Visualizar">
-<!ENTITY view.sort.accesskey            "O">
-<!ENTITY view.sort.label                "Ordenar">
 <!ENTITY view.sortAscending.accesskey   "c">
 <!ENTITY view.sortAscending.label       "Ordem crescente">
 <!ENTITY view.sortDescending.accesskey  "d">

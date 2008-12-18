@@ -15,10 +15,6 @@
 <!ENTITY lookIn.accesskey "X">
 <!ENTITY for.label "Localizar nome ou email:">
 <!ENTITY for.accesskey "z">
-<!ENTITY clearButton.label "Limpar">
-<!ENTITY clearButton.accesskey "l">
-<!ENTITY stopButton.label "Parar">
 <!ENTITY addressMessageTo.label "Enviar para:">
-<!ENTITY addressPickerSearchButton.tooltip "Pesquisar os catálogos de endereços selecionados">
 <!ENTITY addressPickerNewButton.tooltip "Criar um novo contato do catálogo de endereços">
 <!ENTITY addressPickerEditButton.tooltip "Editar o contato selecionado">

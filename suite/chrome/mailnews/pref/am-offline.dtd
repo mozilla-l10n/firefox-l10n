@@ -3,7 +3,6 @@
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "A">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens mais recentes">
 <!ENTITY nntpNotDownloadRead.label "Mensagens lidas">
@@ -23,8 +22,6 @@
 <!ENTITY nntpRemoveBody.accesskey "C">
 <!ENTITY offlineSelectNntp.label "Newsgroups para leitura em modo desconectado...">
 <!ENTITY offlineSelectNntp.accesskey "N">
-<!ENTITY offlineDesc.label "Você pode receber mensagens localmente para lê-las quando estiver em modo desconectado.">
-<!ENTITY offlineGroupTitle.label "Modo desconectado">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
 <!ENTITY allFoldersOffline.label "Manter mensagens desta conta no computador">
 <!ENTITY allFoldersOffline.accesskey "M">

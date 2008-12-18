@@ -1,9 +1,6 @@
 <!ENTITY mainWindow.title "&brandShortName;">
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY nothingAvailable.label "(Nada disponível)">
-<!ENTITY browserCmd.label "Nova janela do Navigator">
-<!ENTITY browserCmd.accesskey "N">
 <!ENTITY tabCmd.label "Aba">
 <!ENTITY tabCmd.accesskey "A">
 <!ENTITY tabCmd.commandkey "t">
@@ -16,10 +13,6 @@
 <!ENTITY editPageCmd.label "Editar página">
 <!ENTITY editPageCmd.accesskey "r">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY editFrameCmd.label "Editar quadro">
-<!ENTITY editFrameCmd.accesskey "q">
-<!ENTITY editFrameSetCmd.label "Editar frameset">
-<!ENTITY editFrameSetCmd.accesskey "t">
 <!ENTITY uploadFile.label "Enviar arquivo...">
 <!ENTITY uploadFile.accesskey "q">
 <!ENTITY printSetupCmd.label "Configurar página...">
@@ -59,43 +52,16 @@
 <!ENTITY fullScreenCmd.accesskey "t">
 <!ENTITY translateMenu.label "Traduzir">
 <!ENTITY translateMenu.accesskey "T">
-<!ENTITY translate.commandKey "t">
 <!ENTITY closeOtherTabs.label "Fechar as outras abas">
 <!ENTITY closeOtherTabs.accesskey "o">
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "F">
 <!ENTITY minimizeButton.tooltip "Minimizar">
 <!ENTITY restoreButton.tooltip "Restaurar">
-<!ENTITY bidiMenu.label "Opções Bidi">
-<!ENTITY directionBidiMenu.label "Direção padrão">
-<!ENTITY directionRTLBidiCmd.label "Direita para esquerda">
-<!ENTITY directionLTRBidiCmd.label "Esquerda para direita">
-<!ENTITY texttypeBidiMenu.label "Tipo do texto">
-<!ENTITY charsettexttypeBidiCmd.label "Baseado no conjunto de caracteres">
-<!ENTITY logicaltexttypeBidiCmd.label "Lógico">
-<!ENTITY visualtexttypeBidiCmd.label "Visual">
-<!ENTITY numeralBidiMenu.label "Recorte de numerais">
-<!ENTITY regularcontextnumeralBidiCmd.label "Contextual">
-<!ENTITY hindicontextnumeralBidiCmd.label "Numerais hindus no sentido direita para esquerda (Right to left - RTL)">
-<!ENTITY arabicnumeralBidiCmd.label "Árabe">
-<!ENTITY hindinumeralBidiCmd.label "Hindu">
-<!ENTITY controlstextmodeBidiMenu.label "Modo do texto nos controles">
-<!ENTITY logicalcontrolstextmodeBidiCmd.label "Lógico">
-<!ENTITY visiualcontrolstextmodeBidiCmd.label "Visual">
-<!ENTITY containercontrolstextmodeBidiCmd.label "Semelhante ao documento contenedor">
-<!ENTITY charactersetBidiMenu.label "Conjunto de caracteres">
-<!ENTITY doccharactersetBidiCmd.label "Usar o conjunto de caracteres especificado pelo documento">
-<!ENTITY defaultcharactersetBidiCmd.label "Usar meu conjunto de caracteres padrão, anulando o conjunto de caracteres especificado pelo documento">
-<!ENTITY webContentMenu.label "Idioma">
-<!ENTITY webContentMenu.accesskey "i">
-<!ENTITY downloadMore.label "Baixar mais">
-<!ENTITY downloadMore.accesskey "X">
 <!ENTITY applyTheme.label "Tema">
 <!ENTITY applyTheme.accesskey "M">
 <!ENTITY getNewThemesCmd.label "Baixar mais temas">
 <!ENTITY getNewThemesCmd.accesskey "B">
-<!ENTITY searchMenu.label "Pesquisar">
-<!ENTITY searchMenu.accesskey "P">
 <!ENTITY findOnCmd.label "Localizar na página...">
 <!ENTITY findOnCmd.accesskey "z">
 <!ENTITY findOnCmd.commandkey "f">
@@ -127,12 +93,6 @@
 <!ENTITY manBookmarksCmd.accesskey "Z">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY emptyItem.label "(Nenhum marcador)">
-<!ENTITY helpMenuCmd.label "Ajuda">
-<!ENTITY helpMenuCmd.accesskey "u">
-<!ENTITY helpContentsCmd.label "Conteúdo da Ajuda">
-<!ENTITY softwareUpdatesCmd.label "Atualizações do programa">
-<!ENTITY technicalSupportCmd.label "Suporte técnico">
-<!ENTITY releaseNotesCmd.label "Notas de lançamento">
 <!ENTITY menuBar.tooltip "Menu (clique para exibir)">
 <!ENTITY personalToolbar.tooltip "Marcadores (clique para exibir)">
 <!ENTITY navigationToolbar.tooltip "Barra de ferramentas (clique para exibir)">
@@ -155,7 +115,6 @@
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Endereço">
 <!ENTITY proxyIcon.tooltip 'Para salvar arraste para dentro do menu "Marcadores"'>
-<!ENTITY internetKeyword.tooltip "Retorne para a página exibida antes ou escolha uma keyword">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Lista de marcadores">
 <!ENTITY homeButton.label "Página Inicial">

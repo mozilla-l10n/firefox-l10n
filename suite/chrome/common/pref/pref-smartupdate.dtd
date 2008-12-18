@@ -4,20 +4,7 @@
 <!ENTITY enableSU.accesskey "p">
 <!ENTITY allowedSites.label "Permissões...">
 <!ENTITY allowedSites.accesskey "S">
-<!ENTITY enableNotification.label "Avisar quando um software atualizado estiver disponível.">
-<!ENTITY enableNotification.accesskey "a">
-<!ENTITY requireConfirmation.label "Necessita de confirmação manual em cada instalação">
-<!ENTITY selectUninstall.label "Para desinstalar, selecione da lista e clique no botão Desinstalar">
-<!ENTITY uninstallButton.label "Desinstalar">
-<!ENTITY uninstallButton.accesskey "d">
-<!ENTITY updateNotifications.label "Notificação de atualização">
-<!ENTITY updateNotifications.desc "Verifica a existência de novas versões deste software. Nenhuma informação sobre você ou seu computador é revelada durante o processo.">
-<!ENTITY enableUN.label "Verificar automaticamente">
-<!ENTITY enableUN.accesskey "v">
 <!ENTITY weekly.label "Toda semana">
-<!ENTITY weekly.accesskey "s">
-<!ENTITY monthly.label "Todo mês">
-<!ENTITY monthly.accesskey "m">
 <!ENTITY addonManagerButton.label             "Gerenciador de complementos">
 <!ENTITY addonManagerButton.accesskey         "G">
 <!ENTITY appDaily.accesskey                   "d">

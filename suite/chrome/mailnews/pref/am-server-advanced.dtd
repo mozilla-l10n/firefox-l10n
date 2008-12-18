@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label "Opções avançadas">
-<!ENTITY imapAdvanced.label "Opções avançadas do servidor IMAP">
 <!ENTITY serverDirectory.label "Servidor de diretórios IMAP:">
 <!ENTITY serverDirectory.accesskey "i">
 <!ENTITY usingSubscription.label "Exibir apenas as pastas inscritas">
@@ -20,7 +19,6 @@
 <!ENTITY overrideNamespaces.label "Permitir que o servidor sobrescreva estes namespaces">
 <!ENTITY overrideNamespaces.accesskey "M">
 <!ENTITY pop3Desc.label "Usar a seguinte pasta para armazenar as mensagens baixadas deste servidor POP:">
-<!ENTITY folderStorage.label "Onde armazenar as mensagens">
 <!ENTITY globalInbox.label "Caixa de entrada global (Pastas locais)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Caixa de entrada para esta conta">

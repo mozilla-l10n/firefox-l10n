@@ -1,10 +1,4 @@
-<!ENTITY winhooks.label                   "System">
 
-<!ENTITY defaultBrowserGroup.label  "Default Browser">
-<!ENTITY defaultBrowserButton.label "Set Default Browser">
-<!ENTITY alreadyDefaultText         "&brandShortName; is already your default browser.">
-<!ENTITY defaultPendingText         "&brandShortName; will be set as your default browser when you click OK.">
-<!ENTITY makeDefaultText            "Set &brandShortName; as your default browser.">
 
 <!ENTITY urlbar.label "Ctrl+Enter in the Location bar">
 <!ENTITY urlbar.accesskey "L">

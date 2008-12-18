@@ -4,8 +4,6 @@
 <!ENTITY accAllCookiesRadio.accesskey "t">
 <!ENTITY accOrgCookiesRadio.label "Permitir cookies que pertençam ao site visitado">
 <!ENTITY accOrgCookiesRadio.accesskey "v">
-<!ENTITY accP3PCookiesRadio.label "Permitir cookies baseado nas opções de privacidade">
-<!ENTITY accP3PCookiesRadio.accesskey "o">
 <!ENTITY disableCookies.label "Não permitir nenhum cookie">
 <!ENTITY disableCookies.accesskey "N">
 <!ENTITY cookieRetentionPolicy.label "Política de retenção">
@@ -24,5 +22,3 @@
 <!ENTITY manageCookiesDescription.label "Permite visualizar e gerenciar os cookies armazenados e aceitar ou recusar cookies de sites específicos. As configurações para sites específicos sobrepõem as configurações acima.">
 <!ENTITY viewCookies.label "Exibir cookies...">
 <!ENTITY viewCookies.accesskey "K">
-<!ENTITY viewP3P.label "Editar...">
-<!ENTITY viewP3P.accesskey "E">

@@ -1,8 +1,3 @@
-<!ENTITY preface "Info para:">
-<!ENTITY title "Propriedades da página">
-<!ENTITY description "Informações da página atual">
-<!ENTITY pageInfoWindow.width "425">
-<!ENTITY pageInfoWindow.height "470">
 <!ENTITY copy.key "c">
 <!ENTITY copy.label "Copiar">
 <!ENTITY copy.accesskey "C">
@@ -12,18 +7,14 @@
 <!ENTITY closeWindow.key "w">
 <!ENTITY generalTab "Geral">
 <!ENTITY generalTab.accesskey  "G">
-<!ENTITY generalTitle "Título:">
 <!ENTITY generalURL "Endereço:">
 <!ENTITY generalMode "Renderização:">
 <!ENTITY generalType "Tipo:">
 <!ENTITY generalSize "Tamanho:">
 <!ENTITY generalReferrer "Página de origem:">
 <!ENTITY generalSource "Origem do cache:">
-<!ENTITY generalSent "Enviado:">
 <!ENTITY generalModified "Modificado em:">
-<!ENTITY generalExpires "Válido até:">
 <!ENTITY generalEncoding "Codificação:">
-<!ENTITY generalMeta "Meta:">
 <!ENTITY generalMetaName "Nome">
 <!ENTITY generalMetaContent "Valor">
 <!ENTITY formsTab "Formulários">
@@ -31,7 +22,6 @@
 <!ENTITY formAction "Ação">
 <!ENTITY formMethod "Método">
 <!ENTITY formName "Nome">
-<!ENTITY formNo "Número">
 <!ENTITY formEncoding "Codificação:">
 <!ENTITY formTarget "Abre em:">
 <!ENTITY formFields "Campos:">
@@ -55,31 +45,19 @@
 <!ENTITY  mediaSaveAs2.accesskey "r">
 <!ENTITY  mediaSize             "Tamanho">
 
-<!ENTITY mediaHeader "Imagens nesta página">
 <!ENTITY mediaURL "Endereço:">
-<!ENTITY mediaBase "Endereço base:">
 <!ENTITY mediaAlt "Texto substituto:">
 <!ENTITY mediaAltHeader "Texto substituto">
-<!ENTITY mediaNo "Número">
-<!ENTITY mediaName "Nome">
 <!ENTITY mediaAddress "Endereço">
 <!ENTITY mediaType "Tipo">
 <!ENTITY mediaCount "Quantidade">
-<!ENTITY mediaPlugin "Plugin:">
-<!ENTITY mediaCharset "Codificação:">
 <!ENTITY mediaDimensions "Dimensões especificadas:">
 <!ENTITY mediaPhysDimensions "Dimensões reais:">
-<!ENTITY mediaEncryption "Criptografia:">
 <!ENTITY mediaTitle "Título:">
 <!ENTITY mediaLongdesc "Descrição longa:">
 <!ENTITY mediaSaveAs "Salvar como...">
 <!ENTITY mediaSaveAs.accesskey "S">
 <!ENTITY mediaPreview "Visualizar mídia:">
-<!ENTITY framesTab "Quadros">
-<!ENTITY framesTab.accesskey "r">
-<!ENTITY frameName "Nome">
-<!ENTITY frameAddress "Endereço">
-<!ENTITY frameType "Tipo">
 
 <!ENTITY  feedSubscribe         "Se inscrever">
 <!ENTITY  feedSubscribe.accesskey "i">

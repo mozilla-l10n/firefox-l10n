@@ -29,8 +29,6 @@
 <!ENTITY removepermission.accesskey "E">
 <!ENTITY removeallpermissions.label "Excluir todos">
 <!ENTITY removeallpermissions.accesskey "t">
-<!ENTITY canSet.label "OK">
-<!ENTITY cannotSet.label "não pode definir cookies">
 <!ENTITY buttonaccept.label "Fechar">
 <!ENTITY buttonaccept.accesskey "F">
 <!ENTITY futureCookies.label "Não permitir que sites que tenham cookies removidos armazenem cookies futuramente">
