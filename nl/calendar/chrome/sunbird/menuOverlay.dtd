@@ -172,11 +172,11 @@
 <!ENTITY bringAllToFront.label                             "Alles naar voren brengen">
 
 <!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label                             "Diensten">
-<!ENTITY hideThisAppCmdMac.label                           "&brandShortName; verbergen">
+<!ENTITY servicesMenuMac.label                             "Voorzieningen">
+<!ENTITY hideThisAppCmdMac.label                           "Verberg &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey                      "H">
 <!ENTITY hideThisAppCmdMac.modifiers                       "accel">
-<!ENTITY hideOtherAppsCmdMac.label                         "Overige verbergen">
+<!ENTITY hideOtherAppsCmdMac.label                         "Verberg andere">
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "accel+alt+H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
-<!ENTITY showAllAppsCmdMac.label                           "Alles tonen">
+<!ENTITY showAllAppsCmdMac.label                           "Toon alles">
