@@ -4,26 +4,26 @@
 <!ENTITY search.emptytext "Поиск в журнале">
 <!ENTITY search.key "f">
 <!ENTITY view.label "Вид">
-<!ENTITY byDate.label "По дате">
-<!ENTITY byDate.accesskey "д">
-<!ENTITY bySite.label "По сайтам">
-<!ENTITY bySite.accesskey "с">
-<!ENTITY byMostVisited.label "По частоте посещения">
-<!ENTITY byMostVisited.accesskey "п">
-<!ENTITY byLastVisited.label "По дате последнего посещения">
-<!ENTITY byLastVisited.accesskey "о">
-<!ENTITY byDayAndSite.label "По дате и сайтам">
-<!ENTITY byDayAndSite.accesskey "и">
 <!ENTITY view.columns.label "Показать колонки">
 <!ENTITY view.columns.accesskey "к">
-<!ENTITY view.sort.label "Сортировка">
-<!ENTITY view.sort.accesskey "р">
+<!ENTITY view.sortBy.label "Сортировать по">
+<!ENTITY view.sortBy.accesskey "р">
+<!ENTITY view.groupBy.label "Группировать по">
+<!ENTITY view.groupBy.accesskey "п">
 <!ENTITY view.unsorted.label "Без сортировки">
 <!ENTITY view.unsorted.accesskey "е">
 <!ENTITY view.sortAscending.label "Сортировка по алфавиту">
 <!ENTITY view.sortAscending.accesskey "С">
 <!ENTITY view.sortDescending.label "В обратном порядке">
 <!ENTITY view.sortDescending.accesskey "о">
+<!ENTITY view.groupNone.label "Ничему">
+<!ENTITY view.groupNone.accesskey "ч">
+<!ENTITY view.groupDay.label "Дню">
+<!ENTITY view.groupDay.accesskey "н">
+<!ENTITY view.groupSite.label "Сайту">
+<!ENTITY view.groupSite.accesskey "й">
+<!ENTITY view.groupDayAndSite.label "Дню и сайту">
+<!ENTITY view.groupDayAndSite.accesskey "а">
 <!ENTITY cmd.open.label "Открыть">
 <!ENTITY cmd.open.accesskey "О">
 <!ENTITY cmd.open_window.label "Открыть в новом окне">
@@ -35,6 +35,10 @@
 <!ENTITY bookmarkCmd.label "Добавить ссылку в закладки…">
 <!ENTITY bookmarkCmd.accesskey "с">
 <!ENTITY col.title.label "Заголовок">
+<!ENTITY col.title.accesskey "г">
 <!ENTITY col.url.label "Адрес">
+<!ENTITY col.url.accesskey "д">
 <!ENTITY col.lastvisit.label "Дата посещения">
+<!ENTITY col.lastvisit.accesskey "с">
 <!ENTITY col.visitcount.label "Кол-во посещений">
+<!ENTITY col.visitcount.accesskey "в">

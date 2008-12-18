@@ -55,7 +55,7 @@
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки в закладки…">
 <!ENTITY organizeBookmarks.label "Управление закладками…">
 <!ENTITY bookmarkAllCmd.label "Добавить все вкладки в закладки…">
-<!ENTITY bookmarksToolbarChevron.tooltip "Больше закладок">
+<!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "Н">
 <!ENTITY backButton.tooltip "На предыдущую страницу">
@@ -71,6 +71,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Остановить загрузку страницы">
 <!ENTITY goEndCap.tooltip "Перейти по введённому адресу">
+<!ENTITY feedButton.tooltip "Подписаться на ленты новостей…">
 <!ENTITY printButton.label "Печать">
 <!ENTITY printButton.tooltip "Распечатать эту страницу">
 <!ENTITY locationItem.title "Адрес">

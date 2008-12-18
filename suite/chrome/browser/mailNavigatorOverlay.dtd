@@ -1,8 +1,8 @@
 <!ENTITY newMessageCmd.label "Сообщение">
 <!ENTITY newMessageCmd.accesskey "б">
 <!ENTITY newMessageCmd.key "M">
-<!ENTITY newCardCmd.label "Карточку адресной книги…">
-<!ENTITY newCardCmd.accesskey "К">
+<!ENTITY newContactCmd.label "Контакт…">
+<!ENTITY newContactCmd.accesskey "н">
 <!ENTITY sendPage.label "Отправить страницу…">
 <!ENTITY sendPage.accesskey "О">
 <!ENTITY contextSendThisPage.label "Отправить эту страницу…">
