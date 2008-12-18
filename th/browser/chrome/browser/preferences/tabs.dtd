@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "หน้าที่เปิดใหม่จะเปิดใน :">
-<!ENTITY inNewWindow.label "หน้าต่างใหม่">
-<!ENTITY inNewWindow.accesskey "น">
-<!ENTITY inNewTab.label "แท็บใหม่">
-<!ENTITY inNewTab.accesskey "ท">
+<!ENTITY newWindowsAsTabs.label "เปิดหน้าต่างใหม่ในแท็บใหม่แทน">
+<!ENTITY newWindowsAsTabs.accesskey "ท">
 
 <!ENTITY warnCloseMultipleTabs.label "เตือนเมื่อจะปิดหลายแท็บในคราวเดียว">
 <!ENTITY warnCloseMultipleTabs.accesskey "ต">

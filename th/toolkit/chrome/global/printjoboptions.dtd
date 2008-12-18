@@ -1,28 +1,41 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "Printer Properties">
+<!ENTITY printJobOptions.title "คุณสมบัติเครื่องพิมพ์">
 
-<!ENTITY paperInput.label "Paper Size:">
+<!ENTITY paperInput.label "ขนาดกระดาษ :">
+<!ENTITY paperInput.accesskey "ก">
 
-<!ENTITY plexInput.label "Plex mode:">
+<!ENTITY plexInput.label "การพิมพ์หน้าเดียว/สองหน้า :">
+<!ENTITY plexInput.accesskey "น">
 
-<!ENTITY resolutionInput.label "Resolution/Quality:">
+<!ENTITY resolutionInput.label "ความละเอียด/คุณภาพ :">
+<!ENTITY resolutionInput.accesskey "ล">
 
-<!ENTITY cmdInput.label "Print Command:">
+<!ENTITY cmdInput.label "คำสั่งพิมพ์ :">
+<!ENTITY cmdInput.accesskey "ค">
 
-<!ENTITY jobTitleInput.label "Job Title:">
+<!ENTITY jobTitleInput.label "ชื่องานพิมพ์ :">
+<!ENTITY jobTitleInput.accesskey "ช">
 
-<!ENTITY colorGroup.label "Color:">
-<!ENTITY grayRadio.label "GrayScale">
-<!ENTITY colorRadio.label "Color">
+<!ENTITY colorGroup.label "สี :">
+<!ENTITY grayRadio.label "ระดับเทา">
+<!ENTITY grayRadio.accesskey "ท">
+<!ENTITY colorRadio.label "สี">
+<!ENTITY colorRadio.accesskey "ส">
 
-<!ENTITY colorspaceInput.label "Colorspace:">
+<!ENTITY colorspaceInput.label "ปริภูมิสี :">
+<!ENTITY colorspaceInput.accesskey "ป">
 
-<!ENTITY fontsGroup.label "Fonts:">
-<!ENTITY downloadFonts.label "Download fonts to printer?">
+<!ENTITY fontsGroup.label "แบบอักษร :">
+<!ENTITY downloadFonts.label "ดาวน์โหลดแบบอักษรสู่เครื่องพิมพ์">
+<!ENTITY downloadFonts.accesskey "ด">
 
-<!ENTITY edgeMarginInput.label "Gap from edge of paper to Margin">
-<!ENTITY topInput.label "Top:">
-<!ENTITY bottomInput.label "Bottom:">
-<!ENTITY leftInput.label "Left:">
-<!ENTITY rightInput.label "Right:">
+<!ENTITY edgeMarginInput.label "ระยะจากขอบกระดาษถึงขอบพิมพ์">
+<!ENTITY topInput.label "หัว :">
+<!ENTITY topInput.accesskey "ห">
+<!ENTITY bottomInput.label "ท้าย :">
+<!ENTITY bottomInput.accesskey "ท">
+<!ENTITY leftInput.label "ซ้าย :">
+<!ENTITY leftInput.accesskey "ย">
+<!ENTITY rightInput.label "ขวา :">
+<!ENTITY rightInput.accesskey "ข">

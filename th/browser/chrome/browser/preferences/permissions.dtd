@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label "ลบทุกไซต์">
 <!ENTITY removeallpermissions.accesskey "ท">
 <!ENTITY address.label "ที่อยู่เว็บไซต์ :">
+<!ENTITY address.accesskey "ว">
 <!ENTITY block.label "บล็อก">
 <!ENTITY block.accesskey "บ">
 <!ENTITY session.label "อนุญาตสำหรับวาระ">

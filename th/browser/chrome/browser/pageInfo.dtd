@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "รหัสอักขระ :">
 <!ENTITY generalMetaName "ชื่อ">
 <!ENTITY generalMetaContent "เนื้อหา">
-<!ENTITY generalSecurityMore "เพิ่มเติม">
-<!ENTITY generalSecurityMore.accesskey "พ">
+<!ENTITY  generalSecurityDetails "รายละเอียด">
+<!ENTITY  generalSecurityDetails.accesskey "ล">
 
 <!ENTITY mediaTab "สื่อ">
 <!ENTITY mediaTab.accesskey "ส">

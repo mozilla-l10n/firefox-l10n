@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "ลบการดาวน์โหลดเสร็จสิ้น, ถูกยกเลิก, หรือไม่สำเร็จออกจากรายการ">
 <!ENTITY cmd.clearList.accesskey "ล">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 
 <!ENTITY closeWhenDone.label "ปิดเมื่อการดาวน์โหลดเสร็จสิ้น">
 <!ENTITY closeWhenDone.tooltip "ปิดหน้าต่างดาวน์โหลดเมื่อดาวน์โหลดแฟ้มทุกแฟ้มเสร็จสิ้น">

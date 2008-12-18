@@ -1,14 +1,14 @@
 <!ENTITY addons.title "ส่วนเสริม">
-<!-- Default window size for the addon manager in pixels -->
 
+<!-- Default window size for the addon manager in pixels -->
 <!ENTITY em.width "520">
 <!ENTITY em.height "380">
 
 <!ENTITY cmd.info.commandKey "i">
 <!ENTITY cmd.options.commandKey ",">
 <!ENTITY cmd.close.commandKey "w">
-<!-- View labels -->
 
+<!-- View labels -->
 <!ENTITY search.label "โหลดส่วนเสริม">
 <!ENTITY extensions.label "ส่วนขยาย">
 <!ENTITY themes.label "ชุดตกแต่ง">
@@ -16,8 +16,8 @@
 <!ENTITY plugins.label "โปรแกรมเสริม">
 <!ENTITY update.label "ชุดปรับปรุง">
 <!ENTITY install.label "การติดตั้ง">
-<!-- Command Bar items -->
 
+<!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label "ตรวจหาการปรับปรุง">
 <!ENTITY cmd.checkUpdatesAll.accesskey "ต">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "ตรวจหาการปรับปรุงส่วนเสริม">
@@ -45,8 +45,8 @@
 <!ENTITY cmd.disableAll.label "ปิดใช้งานทั้งหมด">
 <!ENTITY cmd.disableAll.accesskey "ป">
 <!ENTITY cmd.disableAll.tooltip "ปิดใช้งานส่วนเสริมที่แสดงทั้งหมด">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
 
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label "ใช้ชุดตกแต่งนี้">
 <!ENTITY cmd.useTheme.accesskey "ต">
 <!ENTITY cmd.useTheme.tooltip "เปลี่ยนชุดตกแต่งของ &brandShortName;">
@@ -93,8 +93,8 @@
 <!ENTITY cancelInstall.accesskey "ย">
 <!ENTITY cancelUpgrade.label "ยกเลิก">
 <!ENTITY cancelUpgrade.accesskey "ย">
-<!-- Only displayed in the selected Add-on's context menu -->
 
+<!-- Only displayed in the selected Add-on's context menu -->
 <!ENTITY cmd.homepage.label "ชมหน้าตั้งต้น">
 <!ENTITY cmd.homepage.accesskey "ต">
 <!ENTITY cmd.about2.label "เกี่ยวกับส่วนเสริมนี้">
@@ -107,11 +107,12 @@
 <!ENTITY includeUpdate.label "รวมการปรับปรุงนี้ด้วย">
 <!ENTITY includeUpdate.accesskey "ร">
 <!ENTITY includeUpdate.tooltip "รวมส่วนเสริมนี้ด้วยเมื่อติดตั้งชุดปรับปรุง">
-<!-- Status Messsages -->
 
+<!-- Status Messsages -->
 <!ENTITY insecureUpdate.label "ไม่ต้องเสนอการปรับปรุงด้านความปลอดภัย">
 <!ENTITY needsDependencies.label "ต้องการรายการเพิ่มเติม">
 <!ENTITY blocklisted.label "ถูกปิดใช้งานเพื่อปกป้องคุณ">
+<!ENTITY softBlocklisted.label            "มีรายงานว่าก่อปัญหาความปลอดภัยหรือเสถียรภาพ">
 <!ENTITY toBeDisabled.label "ส่วนเสริมนี้จะถูกปิดใช้งานเมื่อเริ่ม &brandShortName; ใหม่">
 <!ENTITY toBeEnabled.label "ส่วนเสริมนี้จะถูกเปิดใช้งานเมื่อเริ่ม &brandShortName; ใหม่">
 <!ENTITY toBeInstalled.label "ส่วนเสริมนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ใหม่">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "ยอมรับและติดตั้ง…">
+
+<!ENTITY blocklist.blocked.label          "ถูกปิดกั้น">
+<!ENTITY blocklist.checkbox.label         "ปิดการใช้งาน">

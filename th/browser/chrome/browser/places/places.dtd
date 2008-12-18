@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey "ซ">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.delete.label               "ลบหน้าเว็บนี้">
+<!ENTITY cmd.delete.accesskey           "ล">
+<!ENTITY cmd.deleteDomainData.label     "ลืมเว็บไซต์นี้เสีย">
+<!ENTITY cmd.deleteDomainData.accesskey "ว">
+
 <!ENTITY cmd.open.label "เปิด">
 <!ENTITY cmd.open.accesskey "เ">
 <!ENTITY cmd.open_window.label "เปิดในหน้าต่างใหม่">
@@ -179,7 +184,7 @@
 <!ENTITY advancedSearch.sortby.label "เรียงตาม :">
 <!ENTITY advancedSearch.sortby_title.label "หัวเรื่อง">
 <!ENTITY advancedSearch.sortby_date.label "วันที่">
-<!ENTITY advancedSearch.sortby_visit.label "ครั้งที่เข้าชม">
+<!ENTITY advancedSearch.sortby_visit.label "จำนวนเข้าชม">
 <!ENTITY advancedSearch.sortby_url.label "url">
 <!ENTITY advancedSearch.sortby_asc.label "จากน้อยไปมาก">
 <!ENTITY advancedSearch.sortby_desc.label "จากมากไปน้อย">

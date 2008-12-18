@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip "พิมพ์หน้านี้">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY searchtab.label "ค้นหา">
-<!ENTITY searchtab.accesskey "ค">
-<!ENTITY searchClose.tooltip "ปิดผลการค้นหา">
+<!ENTITY search.emptytext "ค้นหา">
+<!ENTITY searchHeader.label "ผลการค้นหา">
 <!ENTITY toctab.label "เนื้อหา">
 <!ENTITY toctab.accesskey "น">
 <!-- LOCALIZATION NOTE :

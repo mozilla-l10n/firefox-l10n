@@ -7,8 +7,4 @@
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 
-<!ENTITY filter.label "ค้น :">
-<!ENTITY filter.accesskey "ค">
-
-<!ENTITY clear.label "ล้าง">
-<!ENTITY clear.accesskey "ล">
+<!ENTITY filter.emptytext "ค้นหา">

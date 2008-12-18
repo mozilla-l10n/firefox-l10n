@@ -22,9 +22,6 @@
 
 <!ENTITY filter.label "ค้นหา :">
 <!ENTITY filter.accesskey "ห">
-<!ENTITY clear.label "ล้าง">
-<!ENTITY clear.accesskey "ล">
 
 <!ENTITY button.close.label "ปิด">
 <!ENTITY button.close.accesskey "ป">
-

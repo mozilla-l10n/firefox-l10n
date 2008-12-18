@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title "ล้างข้อมูลส่วนตัว">
+<!ENTITY sanitizePrefs.title           "ล้างข้อมูลส่วนตัว">
+<!ENTITY sanitizeDialog2.title "ล้างประวัติการดูเว็บเมื่อเร็ว ๆ นี้">
 
 <!ENTITY sanitizeItems.label "ล้างข้อมูลต่อไปนี้เดี๋ยวนี้ :">
-<!ENTITY clearDataSettings.label "เมื่อให้ &brandShortName; ล้างข้อมูลส่วนตัว ข้อมูลที่ควรถูกลบคือ :">
+<!ENTITY clearDataSettings2.label "เมื่อปิดโปรแกรม &brandShortName; ข้อมูลเหล่านี้จะถูกลบโดยอัตโนมัติ :">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
+<!ENTITY clearDuration.label          "ลบ">
+<!ENTITY clearDuration.lastHour       "1 ชั่วโมงล่าสุด">
+<!ENTITY clearDuration.last2Hours     "2 ชั่วโมงล่าสุด">
+<!ENTITY clearDuration.last4Hours     "4 ชั่วโมงล่าสุด">
+<!ENTITY clearDuration.today          "ประวัติเฉพาะวันนี้">
+<!ENTITY clearDuration.everything     "ประวัติทั้งหมด">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
 
-<!ENTITY itemHistory.label "ประวัติการท่องเน็ต">
-<!ENTITY itemHistory.accesskey "น">
-<!ENTITY itemFormSearchHistory.label "ข้อมูลแบบฟอร์มและประวัติการค้นหา">
-<!ENTITY itemFormSearchHistory.accesskey "ฟ">
+<!ENTITY historySection.label         "ประวัติ">
+<!ENTITY dataSection.label            "ข้อมูล">
+
+<!ENTITY itemVisitedPages.label       "หน้าเว็บที่เคยเยี่ยมชม">
+<!ENTITY itemVisitedPages.accesskey   "ว">
+<!ENTITY itemFormSearchEntries.label  "ข้อมูลแบบฟอร์มและประวัติการค้นหา">
+<!ENTITY itemFormSearchEntries.accesskey "ฟ">
 <!ENTITY itemPasswords.label "รหัสผ่าน">
 <!ENTITY itemPasswords.accesskey "ร">
 <!ENTITY itemCookies.label "คุกกี้">
 <!ENTITY itemCookies.accesskey "ก">
-<!ENTITY itemCache.label "แคช">
-<!ENTITY itemCache.accesskey "ค">
+<!ENTITY itemWebCache.label "แคชหน้าเว็บ">
+<!ENTITY itemWebCache.accesskey "ค">
 <!ENTITY itemOfflineApps.label "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY itemOfflineApps.accesskey "ข">
-<!ENTITY itemDownloads.label "ประวัติการดาวน์โหลด">
-<!ENTITY itemDownloads.accesskey "ป">
-<!ENTITY itemSessions.label "วาระที่ได้ยืนยันว่าใช่ตัวจริง">
-<!ENTITY itemSessions.accesskey "ว">
-<!ENTITY window.width "30em">
+<!ENTITY itemDownloadList.label "รายการการดาวน์โหลด">
+<!ENTITY itemDownloadList.accesskey "ด">
+<!ENTITY itemActiveLogins.label       "การล็อกอินที่ค้างอยู่">
+<!ENTITY itemActiveLogins.accesskey   "ล">
+
+<!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "ค">
 <!ENTITY undoCloseTab.label "เรียกคืนแท็บที่เพิ่งปิด">
 <!ENTITY undoCloseTab.accesskey "พ">
+<!ENTITY newTabButton.tooltip "เปิดแท็บใหม่">

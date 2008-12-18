@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "โหลดที่คั่นหน้าเว็บนี้ในแถบข้าง">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "ล">
 <!ENTITY editBookmarkOverlay.choose.label "เลือก…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "โฟลเดอร์ใหม่">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "ด">

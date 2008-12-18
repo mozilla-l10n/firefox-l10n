@@ -45,8 +45,7 @@
 
 <!ENTITY filterPrefs.label "ตัวกรอง">
 <!ENTITY filterPrefs.accesskey "ก">
-<!ENTITY showAll.label "แสดงทั้งหมด">
-<!ENTITY showAll.accesskey "ท">
+<!ENTITY focusFilter.key "f">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "ชื่อค่า">

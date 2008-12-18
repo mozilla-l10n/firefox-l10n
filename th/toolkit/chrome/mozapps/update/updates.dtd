@@ -4,25 +4,21 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "ตรวจหาการปรับปรุง">
-<!ENTITY checking.label "&brandShortName; กำลังตรวจหาการปรับปรุง…">
-
-<!ENTITY cancel.label "ยกเลิก">
-<!ENTITY cancel.accesskey "ย">
+<!ENTITY  updateCheck.label               "กำลังตรวจหา &brandShortName; รุ่นใหม่…">
 
 <!ENTITY noupdatesfound.title "ไม่พบการปรับปรุง">
-<!ENTITY noupdatesfound.intro "ไม่พบการปรับปรุงใหม่ 
-&brandShortName; จะตรวจหาการปรับปรุงเป็นระยะ">
+<!ENTITY noupdatesautoenabled.intro "ไม่พบการปรับปรุงใหม่ &brandShortName; 
+จะตรวจหาการปรับปรุงเป็นระยะ">
+<!ENTITY noupdatesautodisabled.intro "ไม่พบการปรับปรุงใหม่ โปรดตรวจสอบอีกครั้งในภายหลัง 
+หรือเปิดใช้การตรวจหาการปรับปรุงอัตโนมัติของ &brandShortName;">
 
-<!ENTITY incompatibleChecking.label "ตรวจสอบว่าการปรับปรุงนี้จะสร้างปัญหากับส่วนขยายและ/หรือชุดตกแต่งของคุณหรือไม่…">
+<!ENTITY  incompatibleCheck.title         "ตรวจสอบความเข้ากันได้ของส่วนเสริม">
+<!ENTITY  incompatibleCheck.label         "กำลังตรวจหาส่วนเสริมรุ่นใหม่…">
+
 <!ENTITY clickHere.label "ดูข้อมูลเพิ่มเกี่ยวกับการปรับปรุงนี้">
 
-<!ENTITY incompatible.warning "การปรับปรุงนี้อาจทำให้เกิดความเสียหายกับส่วนขยายและ/หรือชุดตกแต่ง 
-ให้หยุดทำงานจนกว่าการปรับปรุงจะเรียบร้อย">
-<!ENTITY listIncompatible.label "แสดงรายการ">
-<!ENTITY listIncompatible.accesskey "ร">
-
-<!ENTITY upgrade.evangelism "ขอแนะนำอย่างยิ่งว่า คุณควรปรับปรุง &brandShortName; 
-โดยด่วนที่สุดเท่าที่จะทำได้">
+<!ENTITY  evangelism.desc                 "ขอแนะนำอย่างยิ่งว่า คุณควรปรับปรุง &brandShortName; 
+                                           โดยด่วนที่สุดเท่าที่จะทำได้">
 
 <!ENTITY license.instructions "ถ้าคุณยอมรับข้อตกลง, คลิก 'ยอมรับ' ด้านล่าง 
 เพื่อติดตั้งชุดปรับปรุงนี้">
@@ -35,45 +31,42 @@
 <!ENTITY license.decline "ไม่ยอมรับเงื่อนไขข้อตกลงสัญญาอนุญาต">
 <!ENTITY license.decline.accesskey "ม">
 
+<!ENTITY  incompatibleList.title          "พบส่วนเสริมที่เข้ากันไม่ได้">
+
 <!ENTITY downloading.title "ดาวน์โหลดชุดปรับปรุง">
 <!ENTITY downloading.intro "กำลังดาวน์โหลดชุดปรับปรุง…">
 <!ENTITY connecting.label "เชื่อมต่อกับเซิร์ฟเวอร์การปรับปรุง…">
 <!ENTITY verificationFailedText.label "&brandShortName; ไม่สามารถพิสูจน์ความสมบูรณ์ของชุดปรับปรุงแบบทบเพิ่มได้ 
-ดังนั้นตอนนี้มันจึงกำลังดาวน์โหลดชุดปรับปรุงแบบเต็มแทน">
+ดังนั้นขณะนี้โปรแกรมจึงกำลังดาวน์โหลดชุดปรับปรุงแบบเต็มแทน">
+
+<!ENTITY  viewDetails.tooltip             "ดูรายละเอียดของชุดปรับปรุงนี้">
 
 <!ENTITY details.link "รายละเอียด">
-<!ENTITY pause.label "หยุดชั่วคราว">
-<!ENTITY pause.accesskey "ห">
-<!ENTITY close.label "ปิด">
-<!ENTITY close.accesskey "ป">
 
 <!ENTITY error.label "มีปัญหาในการตรวจสอบ, ดาวน์โหลด, หรือ ติดตั้งชุดปรับปรุงนี้ 
-ไม่สามารถปรับปรุง &brandShortName; เพราะ :">
+ไม่สามารถปรับปรุง &brandShortName; ได้เพราะ :">
                                            
-<!ENTITY errorManual.label "คุณสามารถกำหนดการปรับปรุง &brandShortName; ได้เอง 
+<!ENTITY errorManual.label "คุณสามารถปรับปรุง &brandShortName; ได้เอง 
 โดยไปที่ลิงก์นี้และดาวน์โหลดรุ่นล่าสุด :">
                                            
 <!ENTITY errorpatching.title "ปรับปรุงไม่สำเร็จ">
 <!ENTITY errorpatching.intro "การปรับปรุงแบบบางส่วนไม่สามารถทำได้ 
 &brandShortName; จะพยายามอีกครั้ง โดยการดาวน์โหลดชุดปรับปรุงแบบเต็ม">
 
-<!ENTITY finished.title "ดาวน์โหลดชุดปรับปรุงเสร็จแล้ว">
-<!ENTITY finished.text "ดาวน์โหลดชุดปรับปรุงและพิสูจน์แล้วเรียบร้อย 
-และมันจะถูกติดตั้งเมื่อ &brandShortName; เริ่มทำงานในครั้งถัดไป">
+<!ENTITY finishedPage.title "ชุดปรับปรุงพร้อมสำหรับการติดตั้งแล้ว">
+<!ENTITY finishedPage.text "ชุดปรับปรุงนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ครั้งถัดไป 
+คุณสามารถเริ่ม &brandShortName; ใหม่ได้เดี๋ยวนี้ หรือคุณอาจใช้งานต่อไปและเริ่มโปรแกรมใหม่ภายหลัง">
 
-<!ENTITY finishedBackground.title "ชุดปรับปรุงพร้อมสำหรับการติดตั้ง">
-<!ENTITY finishedBackground.text "&brandShortName; ดาวน์โหลดและตรวจสอบการปรับปรุง 
-คลิกลิงก์ด้านล่างเพื่อดูรายละเอียดเพิ่มเติม">
+<!ENTITY finishedBackgroundPage.text "ชุดปรับปรุงความปลอดภัยและเสถียรภาพสำหรับ &brandShortName; 
+ได้ถูกดาวน์โหลดและพร้อมสำหรับการติดตั้งแล้ว">
 <!ENTITY finishedBackground.name "ปรับปรุง :">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "คลิก 'เริ่ม &brandShortName; ใหม่' เพื่อติดตั้งชุดปรับปรุงเดี๋ยวนี้">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "คลิก 'ไม่ใช่ตอนนี้' เพื่อปิดข้อความนี้และทำงานต่อ 
-&brandShortName; จะทำการปรับปรุงในการเปิดทำงานครั้งถัดไป">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY finishedBackground.more "ชุดปรับปรุงนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ครั้งถัดไป 
+คุณสามารถเริ่ม &brandShortName; ใหม่ได้เดี๋ยวนี้ หรือคุณอาจใช้งานต่อไปและเริ่มโปรแกรมใหม่ภายหลัง">
 
 <!ENTITY installed.title "ติดตั้งชุดปรับปรุงแล้ว">
 <!ENTITY installed.intro "ติดตั้งชุดปรับปรุงสำเร็จแล้ว">
-<!ENTITY whatsnew.label "มีอะไรใหม่…">
+<!ENTITY whatsnew.label "อ่านต่อว่ามีอะไรใหม่บ้าง…">
 
 <!ENTITY update.details.label "รายละเอียด">
 <!ENTITY update.installedOn.label "ติดตั้งเมื่อ :">

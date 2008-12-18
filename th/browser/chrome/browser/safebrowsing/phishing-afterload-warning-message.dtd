@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "เว็บไซต์นี้ไม่ใช่เว็บลอกเลียน…">
 <!ENTITY safeb.palm.report.label "ทำไมเว็บไซต์นี้ถึงถูกปิดกั้น">
 
-<!ENTITY safeb.urlbaricon.tooltip "หน้านี้อาจเป็นอันตราย; คลิกเพื่อดูรายละเอียด">
-
 <!ENTITY safeb.blocked.malware.title "เว็บไซต์นี้อาจเป็นอันตราย!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "เว็บไซต์ <span id='malware_sitename'/> ถูกรายงานว่าเป็นเว็บอันตรายและถูกปิดกั้นตามค่าปรับแต่งด้านความปลอดภัยของคุณ">
