@@ -7,16 +7,6 @@
 <!ENTITY search.emptytext               "Zoekgeschiedenis">
 <!ENTITY search.key                     "z">
 <!ENTITY view.label                     "Weergeven">
-<!ENTITY byDate.label                   "Op datum">
-<!ENTITY byDate.accesskey               "d">
-<!ENTITY bySite.label                   "Op website">
-<!ENTITY bySite.accesskey               "w">
-<!ENTITY byMostVisited.label            "Op meest bezocht">
-<!ENTITY byMostVisited.accesskey        "m">
-<!ENTITY byLastVisited.label            "Op laatst bezocht">
-<!ENTITY byLastVisited.accesskey        "l">
-<!ENTITY byDayAndSite.label             "Op datum en website">
-<!ENTITY byDayAndSite.accesskey         "e">
 
 <!ENTITY view.columns.label             "Kolommen tonen">
 <!ENTITY view.columns.accesskey         "k">
