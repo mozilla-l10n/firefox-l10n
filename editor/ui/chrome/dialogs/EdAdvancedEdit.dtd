@@ -21,15 +21,15 @@
    -   Ben Goodger
   -->
 
-<!ENTITY WindowTitle.label              "ਤਕਨੀਕੀ ਵਿਸ਼ੇਸਤਾ ਸੰਪਾਦਕ">
+<!ENTITY WindowTitle.label              "ਤਕਨੀਕੀ ਵਿਸ਼ੇਸ਼ਤਾ ਐਡੀਟਰ">
 <!ENTITY AttName.label                  "ਗੁਣ: ">
 <!ENTITY AttValue.label                 "ਮੁੱਲ: ">
-<!ENTITY PropertyName.label             "ਵਿਸ਼ੇਸਤਾ: ">
+<!ENTITY PropertyName.label             "ਵਿਸ਼ੇਸ਼ਤਾ: ">
 <!ENTITY currentattributesfor.label     "ਇਸ ਲਈ ਮੌਜੂਦਾ ਗੁਣ: ">
 <!ENTITY tree.attributeHeader.label     "ਗੁਣ">
-<!ENTITY tree.propertyHeader.label      "ਵਿਸ਼ੇਸਤਾ">
+<!ENTITY tree.propertyHeader.label      "ਵਿਸ਼ੇਸ਼ਤਾ">
 <!ENTITY tree.valueHeader.label         "ਮੁੱਲ">
-<!ENTITY tabHTML.label                  "HTMLਵਿਸ਼ੇਸਤਾ">
+<!ENTITY tabHTML.label                  "HTMLਵਿਸ਼ੇਸ਼ਤਾ">
 <!ENTITY tabCSS.label                   "ਇਨਲਾਈਨ ਸਟਾਈਲ">
 <!ENTITY tabJSE.label                   "JavaScript ਘਟਨਾ">
 

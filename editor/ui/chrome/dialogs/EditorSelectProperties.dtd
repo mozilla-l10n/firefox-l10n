@@ -70,7 +70,7 @@
 
 <!ENTITY AddOption.label "ਚੋਣ ਸ਼ਾਮਿਲ">
 <!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "ਗਰੁੱਪ ਸ਼ਾਮਿਲ">
+<!ENTITY AddOptGroup.label "ਗਰੁੱਪ ਸ਼ਾਮਲ">
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "ਹਟਾਓ">
 <!ENTITY RemoveElement.accesskey "R">
