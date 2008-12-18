@@ -62,10 +62,6 @@
 <!ENTITY calendar.export.selection.accesskey "S">
 <!ENTITY calendar.publish.label "Publicar…">
 <!ENTITY calendar.publish.accesskey "b">
-<!ENTITY calendar.toolbar.label "Barra de herramientas del calendario">
-<!ENTITY calendar.toolbar.accesskey "B">
-<!ENTITY task.toolbar.label "Barra de herramientas de tareas">
-<!ENTITY task.toolbar.accesskey "b">
 <!ENTITY calendar.menu.customize.label "Personalizar…">
 <!ENTITY calendar.menu.customize.accesskey "P">
 <!ENTITY showUnifinderCmd.label "Buscar eventos">
