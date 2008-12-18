@@ -2,8 +2,8 @@
 <!ENTITY newMessageCmd.accesskey         "B">
 <!ENTITY newMessageCmd.key               "M">
 
-<!ENTITY newCardCmd.label                "Adresboekkaart…">
-<!ENTITY newCardCmd.accesskey            "A">
+<!ENTITY newContactCmd.label             "Contact…">
+<!ENTITY newContactCmd.accesskey         "C">
 
 <!ENTITY sendPage.label                  "Pagina verzenden…">
 <!ENTITY sendPage.accesskey              "z">
