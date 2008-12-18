@@ -88,6 +88,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ophâlde mei it laden fan dizze side">
 <!ENTITY goEndCap.tooltip             "Typ in lokaasje yn it adresfjild, klik dernei Gean">
+<!ENTITY feedButton.tooltip           "Abonnearje op dizze side…">
 <!ENTITY printButton.label            "Ofdrukke">
 <!ENTITY printButton.tooltip          "Dizze side ôfdrukke">
 
