@@ -35,7 +35,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY sidebar.whats-related.label "Wat is gerelateerd">
 <!ENTITY sidebar.search.label "Zoeken">
 <!ENTITY sidebar.client-bookmarks.label "Bladwijzers">
 <!ENTITY sidebar.client-history.label "Geschiedenis">
