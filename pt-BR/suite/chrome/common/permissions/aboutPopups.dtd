@@ -1,7 +1,0 @@
-<!ENTITY windowtitle.label "Bloqueando popups">
-<!ENTITY popupDesc.label "Este site abriu um popup. O &brandShortName; pode impedir que popups sejam abertos sem sua aprovação. Quando um popup for bloqueado, o &brandShortName; poderá exibir um ícone na barra de status.">
-<!ENTITY popupDescAlt.label "O &brandShortName; pode impedir que popups sejam abertos sem sua aprovação. Quando um popup for bloqueado, o &brandShortName; poderá exibir um ícone na barra de status.">
-<!ENTITY popupNote1.label "Para alterar as opções para popups, abra o menu Editar > Preferências > Privacidade > Popups.">
-<!ENTITY popupNote2.label "Gostaria de bloquear os popups e configurar suas preferências?">
-<!ENTITY acceptButton.label "Sim">
-<!ENTITY cancelButton.label "Não">
