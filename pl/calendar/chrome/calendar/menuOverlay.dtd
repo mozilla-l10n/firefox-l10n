@@ -72,12 +72,6 @@
 <!ENTITY calendar.publish.label                 "Publikuj…">
 <!ENTITY calendar.publish.accesskey             "p">
 
-<!ENTITY calendar.toolbar.label                 "Pasek narzędzi kalendarza">
-<!ENTITY calendar.toolbar.accesskey             "k">
-
-<!ENTITY task.toolbar.label                     "Pasek zadań">
-<!ENTITY task.toolbar.accesskey                 "z">
-
 <!ENTITY calendar.menu.customize.label          "Dostosuj…">
 <!ENTITY calendar.menu.customize.accesskey      "D">
 

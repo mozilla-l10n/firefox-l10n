@@ -54,9 +54,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newtask.button.tooltip          "Utwórz nowe zadanie" >
 <!ENTITY calendar.newevent.button.tooltip         "Utwórz nowe wydarzenie" >
-<!ENTITY calendar.edit.button.tooltip             "Edytuj wybrane wydarzenie" >
+<!ENTITY calendar.newtask.button.tooltip          "Utwórz nowe zadanie" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Zadania" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Pokaż ukończone zadania">
@@ -91,7 +90,6 @@
 
 <!ENTITY calendar.today.button.tooltip        "Przejdź do dnia dzisiejszego" >
 <!ENTITY calendar.todaypane.button.tooltip        "Pokaż panel bieżących spraw" >
-<!ENTITY calendar.unifinder.button.tooltip        "Znajdź i wyświetl wydarzenia" >
 
 <!ENTITY calendar.day.button.tooltip          "Przełącz na widok dnia" >
 <!ENTITY calendar.week.button.tooltip         "Przełącz na widok tygodnia" >
@@ -105,23 +103,11 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Następny miesiąc" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Poprzedni miesiąc" >
 
-<!ENTITY calendar.newtask.button.label          "Nowe zadanie" >
 <!ENTITY calendar.newevent.button.label         "Nowe wydarzenie" >
-<!ENTITY calendar.edit.button.label             "Edytuj" >
+<!ENTITY calendar.newtask.button.label          "Nowe zadanie" >
 <!ENTITY calendar.print.button.label            "Drukuj" >
 
-<!ENTITY calendar.import.button.tooltip            "Importuj wydarzenia z pliku lokalnego" >
-<!ENTITY calendar.export.button.tooltip            "Eksportuj wydarzenia do pliku lokalnego" >
-<!ENTITY calendar.subscribe.button.tooltip         "Subskrybuj zdalny kalendarz" >
-<!ENTITY calendar.publish.button.tooltip            "Publikuj wydarzenia na zdalnym komputerze" >
-
 <!ENTITY calendar.export.calendar                "Eksportuj kalendarz…" >
-
-<!ENTITY calendar.import.button.label              "Import" >
-<!ENTITY calendar.export.button.label              "Eksport" >
-<!ENTITY calendar.subscribe.button.label           "Subskrybuj" >
-<!ENTITY calendar.publish.button.label             "Publikuj" >
-<!ENTITY calendar.unifinder.button.label           "Znajdź wydarzenia" >
 
 <!ENTITY calendar.day.button.label          "Dzień" >
 <!ENTITY calendar.week.button.label         "Tydzień" >
@@ -159,7 +145,7 @@
 
 <!ENTITY calendar.task.details.title.label           "Nazwa:">
 <!ENTITY calendar.task.details.organizer.label       "Od:">
-<!ENTITY calendar.task.details.priority2.label       "Priorytet:">
+<!ENTITY calendar.task.details.priority.label        "Priorytet:">
 <!ENTITY calendar.task.details.priority.low.label    "Niski">
 <!ENTITY calendar.task.details.priority.normal.label "Normalny">
 <!ENTITY calendar.task.details.priority.high.label   "Wysoki">

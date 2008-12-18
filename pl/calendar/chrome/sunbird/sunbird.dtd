@@ -51,6 +51,20 @@
 <!ENTITY sunbird.paste.button.label                        "Wklej" >
 <!ENTITY sunbird.delete.button.label                       "Usuń" >
 <!ENTITY sunbird.remotereload.button.label                 "Odśwież" >
+<!ENTITY sunbird.import.button.tooltip                     "Importuj wydarzenia z pliku lokalnego" >
+<!ENTITY sunbird.export.button.tooltip                     "Eksportuj wydarzenia do pliku lokalnego" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Subskrybuj zdalny kalendarz" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publikuj wydarzenia na zdalnym komputerze" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Znajdź i wyświetl wydarzenia" >
+<!ENTITY sunbird.edit.button.tooltip                       "Edytuj wybrane wydarzenie" >
+
+<!ENTITY sunbird.import.button.label                       "Import" >
+<!ENTITY sunbird.export.button.label                       "Eksport" >
+<!ENTITY sunbird.subscribe.button.label                    "Subskrybuj" >
+<!ENTITY sunbird.publish.button.label                      "Publikuj" >
+<!ENTITY sunbird.unifinder.button.label                    "Znajdź wydarzenia" >
+<!ENTITY sunbird.unifinder.button.label                    "Znajdź wydarzenia" >
+<!ENTITY sunbird.edit.button.label                         "Edytuj" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Przejdź do dnia:" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Widok dnia" >
