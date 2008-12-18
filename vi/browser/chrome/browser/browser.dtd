@@ -88,6 +88,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ngưng tải trang này">
 <!ENTITY goEndCap.tooltip             "Tải trang trong thanh Địa chỉ">
+<!ENTITY feedButton.tooltip           "Đăng kí nhận tin từ trang này…">
 <!ENTITY printButton.label            "In">
 <!ENTITY printButton.tooltip          "In trang này">
 

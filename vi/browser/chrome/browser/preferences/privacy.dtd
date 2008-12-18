@@ -1,5 +1,13 @@
 <!ENTITY  history.label "Lược sử">
 
+<!ENTITY  locbar.pre.label              "Khi sử dụng thanh địa chỉ, đề nghị:">
+<!ENTITY  locbar.pre.accessKey          "a">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Lược sử và Đánh dấu">
+<!ENTITY  locbar.history.label          "Lược sử">
+<!ENTITY  locbar.bookmarks.label        "Đánh dấu">
+<!ENTITY  locbar.nothing.label          "Không đề nghị">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
