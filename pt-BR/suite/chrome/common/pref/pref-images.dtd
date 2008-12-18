@@ -7,9 +7,6 @@
 <!ENTITY accOrgImagesRadio.accesskey "v">
 <!ENTITY disableImages.label "Não carregar nenhuma imagem">
 <!ENTITY disableImages.accesskey "n">
-<!ENTITY warnAboutImages.label "Perguntar antes de carregar uma imagem">
-<!ENTITY warnAboutImages.accesskey "a">
-<!ENTITY viewImagesExplanation.label "Exibir lista de sites sobre quais informações sobre a aceitação de imagens é aceita">
 <!ENTITY viewImages.label "Permissões...">
 <!ENTITY viewImages.accesskey "S">
 <!ENTITY animLoopingTitle.label "Limitar a repetição de imagens animadas">

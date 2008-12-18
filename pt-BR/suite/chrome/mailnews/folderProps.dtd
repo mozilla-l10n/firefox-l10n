@@ -10,13 +10,8 @@
 <!ENTITY retention.label "Política de retenção">
 <!ENTITY retentionUseDefault.label "Usar o padrão do servidor">
 <!ENTITY retentionUseDefault.accesskey "p">
-<!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens mais recentes">
-<!ENTITY retentionNotDownloadRead.label "Mensagens lidas">
-<!ENTITY retentionNotDownloadRead.accesskey "M">
-<!ENTITY retentionDownloadMsg.label "Mensagens mais de">
-<!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Manter:">
 <!ENTITY retentionKeepAll.label "Todas as mensagens">
 <!ENTITY retentionKeepAll.accesskey "T">
@@ -33,14 +28,11 @@
 <!ENTITY offlineFolder.button.accesskey "B">
 <!ENTITY selectofflineNewsgroup.check.label "Selecionar este newsgroup para leitura em modo desconectado">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Usar o padrão das configurações da conta">
 <!ENTITY offlineNewsgroup.button.label "Baixar agora">
 <!ENTITY offlineNewsgroup.button.accesskey "B">
-<!ENTITY folderProps.information.label "Informação:">
 <!ENTITY folderProps.name.label "Nome:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderSharingTab.label "Compartilhamento">
-<!ENTITY privilegesDesc.label "Compartilhar estas e outras pastas com usuários da rede e exibir e definir privilégios de acesso">
 <!ENTITY privileges.button.label "Privilégios...">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Você possui as seguintes permissões:">

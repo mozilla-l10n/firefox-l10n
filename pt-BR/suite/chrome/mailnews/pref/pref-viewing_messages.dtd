@@ -12,14 +12,7 @@
 <!ENTITY color.label "Cor:">
 <!ENTITY color.accesskey "O">
 <!ENTITY displayPlainText.caption "Mensagens de texto puro">
-<!ENTITY plainTextFont.label "Fonte:">
 <!ENTITY displayQuoted.label "Linhas com texto citado:">
-<!ENTITY fixedWidth.label "Monoespaçada">
-<!ENTITY fixedWidth.accesskey "M">
-<!ENTITY variableWidth.label "Proporcional">
-<!ENTITY variableWidth.accesskey "P">
-<!ENTITY readingMessagesHeader.label "Para mensagens que chegam">
-<!ENTITY messageWrapping.label "Quebrar linhas">
 <!ENTITY wrapInMsg.label "Quebrar linhas para ajustar na janela">
 <!ENTITY wrapInMsg.accesskey "q">
 <!ENTITY convertEmoticons.label "Representar smilies com imagens">

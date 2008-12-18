@@ -3,10 +3,8 @@
 <!ENTITY addAccountButton.accesskey "C">
 <!ENTITY setDefaultButton.label "Definir como conta padrão">
 <!ENTITY setDefaultButton.accesskey "d">
-<!ENTITY duplicateButton.label "Duplicar">
 <!ENTITY removeButton.label "Excluir conta...">
 <!ENTITY removeButton.accesskey "X">
-<!ENTITY duplicate.label "Duplicar">
 <!ENTITY accountManager.size "width: 55em; height: 50em;">
 <!ENTITY macAccountManager.size "width: 60em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">

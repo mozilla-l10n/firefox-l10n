@@ -15,7 +15,6 @@
 <!ENTITY fantasy.accesskey "a">
 <!ENTITY cursive.label "Cursiva:">
 <!ENTITY cursive.accesskey "v">
-<!ENTITY fontsize.units "pontos">
 <!ENTITY font.langGroup.latin1 "Ocidental">
 <!ENTITY font.langGroup.latin2 "Europeu central">
 <!ENTITY font.langGroup.japanese "Japonês">
@@ -48,13 +47,8 @@
 <!ENTITY minSize.none "Nenhum">
 <!ENTITY useDefaultFontSerif.label "Com serifa">
 <!ENTITY useDefaultFontSansSerif.label "Sem serifa">
-<!ENTITY newLanguages.label "Novos idiomas podem ser configurados usando a seção Idiomas.">
 <!ENTITY useDocumentFonts.label "Permitir que os documentos usem outras fontes">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!ENTITY header2 "Quando uma página especificar as próprias fontes">
 <!ENTITY useDefaultFont.label "Usar as fontes padrão e ignorar as fontes especificadas pela página">
 <!ENTITY useDefaultFont.accesskey "u">
-<!ENTITY useDocFontNonDynamic.label "Usar as fontes escolhidas pela página">
-<!ENTITY useDocFontNonDynamic.accesskey "t">
-<!ENTITY useDocFontDynamic.label "Usar as fontes especificadas pela página">
-<!ENTITY useDocFontDynamic.accesskey "f">

@@ -1,9 +1,5 @@
 <!ENTITY securitySettings.label "Configurações de segurança">
 <!ENTITY serverSettings.label "Receber mensagens">
-<!ENTITY popServer.label "Servidor de email POP">
-<!ENTITY imapServer.label "Servidor de email IMAP">
-<!ENTITY newsServer.label "Servidor de news (NNTP)">
-<!ENTITY webmail.label "Conta de WebMail">
 <!ENTITY serverType.label "Tipo:">
 <!ENTITY serverName.label "Servidor:">
 <!ENTITY serverName.accesskey "O">
@@ -16,8 +12,6 @@
 <!ENTITY biffStart.label "Verificar novas mensagens a cada ">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minutos">
-<!ENTITY isSecure.label "Usar conexão segura (SSL)">
-<!ENTITY isSecure.accesskey "L">
 <!ENTITY socketType.label "Usar conexão segura:">
 <!ENTITY neverSecure.label "Nunca">
 <!ENTITY neverSecure.accesskey "N">
@@ -40,9 +34,7 @@
 <!ENTITY deleteOnServer2.accesskey "x">
 <!ENTITY downloadOnBiff.label "Receber novas mensagens automaticamente">
 <!ENTITY downloadOnBiff.accesskey "r">
-<!ENTITY hostname.label "Nome do servidor">
 <!ENTITY username.label "Nome de login">
-<!ENTITY popServerTitle.label "Informações do servidor POP">
 <!ENTITY deleteMessagePrefix.label "Ao excluir uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para a lixeira">
 <!ENTITY modelMarkDeleted.label "Marcar como excluída">
@@ -59,7 +51,6 @@
 <!ENTITY alwaysAuthenticate.label "Sempre pedir autenticação ao conectar-se a este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "c">
 <!ENTITY newsrcFilePath.label "Arquivo newsrc:">
-<!ENTITY newsrcFilePath.accesskey "w">
 <!ENTITY localPath.label "Pasta local:">
 <!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
 <!ENTITY abbreviateOn.label 'Nome completo (por exemplo, "netscape.public.mozilla.mail-news")'>

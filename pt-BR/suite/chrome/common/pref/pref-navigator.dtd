@@ -11,8 +11,6 @@
 <!ENTITY lastPageRadio.accesskey "V">
 <!ENTITY header2.label "Página Inicial">
 <!ENTITY homePageIntro.label "O comando Página Inicial abre esta página ou grupo de páginas.">
-<!ENTITY location.label "Endereço:">
-<!ENTITY location.accesskey "e">
 <!ENTITY useCurrent.label "Usar a página atual">
 <!ENTITY useCurrent.accesskey "N">
 <!ENTITY useCurrentGroup.label "Usar o grupo atual">

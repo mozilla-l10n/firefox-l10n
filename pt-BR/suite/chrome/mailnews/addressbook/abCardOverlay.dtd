@@ -18,7 +18,6 @@
 <!ENTITY DisplayName.accesskey "M">
 <!ENTITY NickName.label "Apelido:">
 <!ENTITY NickName.accesskey "A">
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "Email:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Email alternativo:">
@@ -32,7 +31,6 @@
 <!ENTITY ScreenName.accesskey "N">
 <!ENTITY allowRemoteContent.label "Permitir conteúdo externo em mensagens HTML.">
 <!ENTITY allowRemoteContent.accesskey "g">
-<!ENTITY Phones.box "Telefones">
 <!ENTITY WorkPhone.label "Comercial:">
 <!ENTITY WorkPhone.accesskey "O">
 <!ENTITY HomePhone.label "Residencial:">
@@ -43,8 +41,6 @@
 <!ENTITY PagerNumber.accesskey "P">
 <!ENTITY CellularNumber.label "Celular:">
 <!ENTITY CellularNumber.accesskey "L">
-<!ENTITY Address.tab "Endereço">
-<!ENTITY Home.box "Residencial">
 <!ENTITY HomeAddress.label "Endereço:">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeCity.label "Cidade:">
@@ -52,7 +48,6 @@
 <!ENTITY HomeZipCode.label "CEP:">
 <!ENTITY HomeCountry.label "País:">
 <!ENTITY HomeWebPage.label "Endereço na web:">
-<!ENTITY Work.box "Comercial">
 <!ENTITY JobTitle.label "Cargo:">
 <!ENTITY Department.label "Setor:">
 <!ENTITY Company.label "Empresa:">
@@ -72,8 +67,6 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Personalizado 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Observações">
-<!ENTITY Address.accesskey              "E">
 <!ENTITY Company.accesskey              "m">
 <!ENTITY Contact.accesskey               "G">
 <!ENTITY Department.accesskey           "S">

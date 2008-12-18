@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "Esvaziar lixeira ao sair">
 <!ENTITY emptyTrashOnExit.accesskey "l">
 <!ENTITY localPath.label "Pasta local:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
 <!ENTITY browseFolder.label "Pasta...">
 <!ENTITY browseFolder.accesskey "P">

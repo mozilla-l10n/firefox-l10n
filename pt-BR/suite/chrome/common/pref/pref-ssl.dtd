@@ -56,8 +56,6 @@
 <!ENTITY warn.insecurepost.accesskey        "E">
 <!ENTITY warn.leavingsecure                 "Sair de uma página criptografada">
 <!ENTITY warn.leavingsecure.accesskey       "S">
-<!ENTITY warn.secureredirect                "Redirecionando de uma página criptografada para outra">
-<!ENTITY warn.secureredirecttoinsecure      "Redirecionando de uma página criptografada para uma página não criptografada">
 <!ENTITY warn.viewmixed                     "Exibir uma página com elementos criptografados e não criptografados">
 <!ENTITY warn.viewmixed.accesskey           "x">
 

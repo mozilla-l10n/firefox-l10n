@@ -1,31 +1,10 @@
-﻿<!ENTITY windowtitle.label "Selecione um perfil">
-<!ENTITY welcome.label "Bem-vindo ao &brandShortName;">
-<!ENTITY profilemanager.label "Gerenciador de perfis do &brandShortName;">
-<!ENTITY profilename.label "Nome do perfil:">
-<!ENTITY password.label "Senha:">
-<!ENTITY start.label "Abrir o &brandShortName;">
-<!ENTITY exit.label "Sair">
 <!ENTITY manage.label "Organizar">
 <!ENTITY manage.accesskey "Z">
 <!ENTITY select.label "Usar perfil">
-<!ENTITY availprofiles.label "Perfis existentes">
-<!ENTITY deleteButton.label "Excluir...">
-<!ENTITY deleteButton.accesskey "X">
-<!ENTITY renameButton.label "Renomear...">
-<!ENTITY renameButton.accesskey "R">
-<!ENTITY newButton.label "Novo...">
-<!ENTITY newButton.accesskey "N">
-<!ENTITY pmTextA.label "O &brandShortName; armazena em um perfil as mensagens, opções e demais informações pessoais.">
-<!ENTITY pmTextC.label "Você deve selecionar um perfil ou criar um novo na primeira vez que usar o &brandShortName;.">
-<!ENTITY pmTextB.label "Indica um perfil criado por uma versão antiga do Netscape. Este perfis precisam ser copiados e convertidos antes de poderem ser usados pelo &brandShortName;. Este é um processo automático.">
-<!ENTITY offlineState.label "Offline">
-<!ENTITY offlineState.accesskey "f">
-<!ENTITY autoSelectLastProfile.label "Sempre usar este perfil">
-<!ENTITY autoSelectLastProfile.accesskey "s">
 
 <!ENTITY availableProfiles.label "Perfis disponíveis">
 <!ENTITY introStart.label "Para acessar teu perfil, que contém tuas mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &start.label; para iniciar tua sessão.">
-<!ENTITY introSwitch.label "Para mudar para outro perfil, que contém mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &start.label; para começar a usá-lo.">
+<!ENTITY introSwitch.label "Para mudar para outro perfil, que contém mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &select.label; para começar a usá-lo.">
 <!ENTITY profileManager.title "&brandShortName; Gerenciador de perfis">
 <!ENTITY profileManagerText.label "&brandShortName; armazena informação acerca de tuas configurações, preferências, marcadores, mensagens armazena e outros items de usuário no teu perfil.">
 <!ENTITY windowTitle.label "Selecionar perfil de usuário">

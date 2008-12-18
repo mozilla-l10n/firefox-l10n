@@ -1,16 +1,3 @@
-<!ENTITY resetsettings.label "Restaurar configurações">
-<!ENTITY resetpreferences.label "Restaurar preferências padrão...">
-<!ENTITY managecerts.caption "Gerenciar certificados">
-<!ENTITY managecerts.text "Use o gerenciador de certificados para gerenciar seus certificados particulares, como também de outras pessoas e autoridades certificadoras.">
-<!ENTITY managecerts.button "Certificados...">
-<!ENTITY managecerts.accesskey "A">
-<!ENTITY managedevices.caption "Gerenciar dispositivos de segurança">
-<!ENTITY managedevices.text "Use este botão para gerenciar seus dispositivos de segurança, como smart cards.">
-<!ENTITY managedevices.button "Dispositivos...">
-<!ENTITY managedevices.accesskey "S">
-<!ENTITY ssl.label "SSL">
-<!ENTITY pref.certs.title "Certificados">
-<!ENTITY certs.label "Certificados">
 
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.

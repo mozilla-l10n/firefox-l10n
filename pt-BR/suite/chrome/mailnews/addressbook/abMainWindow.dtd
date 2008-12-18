@@ -5,8 +5,6 @@
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "Catálogo...">
 <!ENTITY newAddressBookCmd.accesskey "A">
-<!ENTITY renameAddressBookCmd.label "Renomear catálogo de endereços...">
-<!ENTITY renameAddressBookCmd.accesskey "R">
 <!ENTITY newLDAPDirectoryCmd.label "Diretório LDAP...">
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "Msg instantânea">
@@ -50,7 +48,6 @@
 <!ENTITY exportCmd.accesskey "X">
 <!ENTITY allowOnlineCheck.label "Verificar presença online (AOL)">
 <!ENTITY allowOnlineCheck.accesskey "V">
-<!ENTITY stopSearchingCmd.label ".Parar pesquisa">
 <!ENTITY newcardButton.label "Novo contato">
 <!ENTITY newcardButton.accesskey "C">
 <!ENTITY newlistButton.label "Nova lista">
@@ -63,9 +60,6 @@
 <!ENTITY deleteButton.accesskey "X">
 <!ENTITY newimButton.label "Mensagem instantânea">
 <!ENTITY newimButton.accesskey "S">
-<!ENTITY stopButton.label ".Parar">
-<!ENTITY searchButton.label ".Localizar">
-<!ENTITY showNames.label "Exibir nomes contendo:">
 <!ENTITY addressbookToolbar.tooltip "Barra de ferramentas (clique para exibir)">
 <!ENTITY newcardButton.tooltip "Criar um novo contato do catálogo de endereços">
 <!ENTITY newlistButton.tooltip "Criar uma nova lista">
@@ -73,10 +67,7 @@
 <!ENTITY newmsgButton.tooltip "Nova mensagem">
 <!ENTITY newIM.tooltip "Enviar uma mensagem instantânea ou chat">
 <!ENTITY deleteButton.tooltip "Excluir o catálogo ou os contatos selecionados">
-<!ENTITY stopButton.tooltip "Interromper a transferência atual">
-<!ENTITY searchButton.tooltip "Pesquisar os catálogos de endereços selecionados">
 <!ENTITY throbber.tooltip "Abrir o site do &vendorShortName; ">
-<!ENTITY clearButton.tooltip "Remover o filtro e mostrar todos os itens">
 <!ENTITY advancedButton.tooltip "Mais opções de pesquisa">
 <!ENTITY statusText.label "_: statusText.label\n">
 <!ENTITY hideSwapFnLnUI "true">

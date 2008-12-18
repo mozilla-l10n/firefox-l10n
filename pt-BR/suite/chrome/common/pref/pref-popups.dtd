@@ -1,6 +1,5 @@
 <!ENTITY pref.popups.title "Janelas popup">
 <!ENTITY pref.popups.caption "Janelas popup">
-<!ENTITY popupDesc.label "Especifica como lidar com janelas popup abertas sobre ou sob a janela atual.">
 <!ENTITY popupBlock.label "Bloquear janelas popup">
 <!ENTITY popupBlock.accesskey "B">
 <!ENTITY popupExceptions.label "Sites desbloqueados...">

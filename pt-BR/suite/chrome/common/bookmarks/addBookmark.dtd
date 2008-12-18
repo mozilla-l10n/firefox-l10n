@@ -7,7 +7,6 @@
 <!ENTITY shortcutURL.label "Palavra-chave:">
 <!ENTITY shortcutURL.accesskey "P">
 <!ENTITY destination.label "Criar em:">
-<!ENTITY destination.accesskey "C">
 <!ENTITY newFolder.label "Nova pasta...">
 <!ENTITY newFolder.accesskey "v">
 <!ENTITY addGroup.label "Criar marcador para este grupo de abas">

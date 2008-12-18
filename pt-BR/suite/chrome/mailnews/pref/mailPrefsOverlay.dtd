@@ -12,7 +12,6 @@
 <!ENTITY composingMessages.label "Edição">
 <!ENTITY format.label "Formato">
 <!ENTITY return.label "Confirmações">
-<!ENTITY disk.label "Espaço em disco">
 <!ENTITY junk.label "Spam">
 <!ENTITY tags.label "Rótulos">
 <!ENTITY characterEncoding.label "Codificação">

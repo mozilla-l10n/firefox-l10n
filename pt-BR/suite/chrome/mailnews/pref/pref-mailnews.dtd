@@ -2,10 +2,6 @@
 <!ENTITY generalSettings.caption "Geral">
 <!ENTITY confirmMove.label "Confirmar ao mover pastas para a lixeira">
 <!ENTITY confirmMove.accesskey "L">
-<!ENTITY useMessenger.label "Usar o Mail &amp; Newsgroups em programas baseados na MAPI">
-<!ENTITY useMessenger.accesskey "M">
-<!ENTITY autounzip.label "Descompactar arquivos ZIP ao salvar anexos">
-<!ENTITY autounzip.accesskey "Z">
 <!ENTITY preserveThreading.label "Manter tópicos agrupados ao ordenar mensagens">
 <!ENTITY preserveThreading.accesskey "p">
 <!ENTITY messengerStartPage.caption "Página inicial do Mail">

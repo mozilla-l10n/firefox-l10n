@@ -1,16 +1,11 @@
 <!ENTITY search.button.label "Pesquisar">
-<!ENTITY search.results.tab "Aplicar">
-<!ENTITY search.advanced.tab "Configurações para ">
 <!ENTITY allengines.label "Todos os mecanismos">
 <!ENTITY within.label "em">
 <!ENTITY using.label "usando">
 <!ENTITY choose.label "Selecione os mecanismos de busca e clique em Pesquisar.">
 <!ENTITY results.label "Resultados da pesquisa">
 <!ENTITY engine.column.label "Mecanismos de busca">
-<!ENTITY checkbox.column.label "Usar">
-<!ENTITY stop.button.label "Parar">
 <!ENTITY customize.menuitem.label "Editar categorias...">
-<!ENTITY savesearch.button.label "Criar um marcador para esta pesquisa">
 <!ENTITY next.button.label "Avançar &gt;">
 <!ENTITY previous.button.label "&lt; Voltar">
 <!ENTITY next.button.tooltip "Próximos resultados">

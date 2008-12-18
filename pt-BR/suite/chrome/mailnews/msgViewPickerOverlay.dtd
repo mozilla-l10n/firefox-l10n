@@ -1,9 +1,5 @@
 <!ENTITY viewPicker.label "Visualizar:">
 <!ENTITY viewPicker.accesskey "v">
-<!ENTITY viewPickerSaveAsVirtualFolder.label "Salvar como pasta...">
-<!ENTITY viewPickerCustomView.label "Editar...">
-<!ENTITY viewPickerAll.label "Todas">
-<!ENTITY viewPickerUnread.label "Não lidas">
 <!ENTITY viewAll.label "Todas">
 <!ENTITY viewAll.accesskey "T">
 <!ENTITY viewUnread.label "Não lidas">
