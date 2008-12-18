@@ -1,5 +1,13 @@
 <!ENTITY history.label "Histórico">
 
+<!ENTITY  locbar.pre.label              "Quando usar a barra de localização, sugerir:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Histórico e Marcadores">
+<!ENTITY  locbar.history.label          "Histórico">
+<!ENTITY  locbar.bookmarks.label        "Marcadores">
+<!ENTITY  locbar.nothing.label          "Nada">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
