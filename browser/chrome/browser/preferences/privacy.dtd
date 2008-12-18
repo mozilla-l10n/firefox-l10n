@@ -1,5 +1,13 @@
 <!ENTITY  history.label "Skiednis">
 
+<!ENTITY  locbar.pre.label              "As de lokaasjebalke brûkt wurd, foarstelle út:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Skiednis en blêdwizers">
+<!ENTITY  locbar.history.label          "Skiednis">
+<!ENTITY  locbar.bookmarks.label        "Blêdwizers">
+<!ENTITY  locbar.nothing.label          "Neat">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberBefore.label and rememberAfter.label appear on a single
   line in preferences as follows:
