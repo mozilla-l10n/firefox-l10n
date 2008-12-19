@@ -1,5 +1,13 @@
 <!ENTITY  history.label "Historial">
 
+<!ENTITY  locbar.pre.label              "Al usar la barra de direcciones, sugerir:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Historial y marcadores">
+<!ENTITY  locbar.history.label          "Historial">
+<!ENTITY  locbar.bookmarks.label        "Marcadores">
+<!ENTITY  locbar.nothing.label          "Nada">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
   line in preferences as follows:
@@ -33,10 +41,10 @@
 <!ENTITY  close.label                   "cierre &brandShortName;">
 <!ENTITY  askEachTime.label             "preguntarme cada vez">
 
-<!ENTITY  cookieExceptions.label        "Excepciones...">
+<!ENTITY  cookieExceptions.label        "Excepciones…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Mostrar Cookies...">
+<!ENTITY  showCookies.label             "Mostrar Cookies…">
 <!ENTITY  showCookies.accesskey         "S">
 
 
@@ -48,9 +56,9 @@
 <!ENTITY  askBeforeClear.label           "Preguntarme antes de borrar mis datos privados">
 <!ENTITY  askBeforeClear.accesskey       "A">
 
-<!ENTITY  clearDataSettings.label        "Opciones...">
+<!ENTITY  clearDataSettings.label        "Opciones…">
 <!ENTITY  clearDataSettings.accesskey    "O">
 
-<!ENTITY  clearDataNow.label             "Borrar ahora...">
+<!ENTITY  clearDataNow.label             "Borrar ahora…">
 <!ENTITY  clearDataNow.label2            "Borrar ahora">
 <!ENTITY  clearDataNow.accesskey         "h">
