@@ -1,10 +1,10 @@
-<!ENTITY defaultClient.title  "Default Client">
-<!ENTITY defaultClient.intro  "Use &brandShortName; as the default client for:">
+<!ENTITY defaultClient.title  "Cliente padrão">
+<!ENTITY defaultClient.intro  "Usar o &brandShortName; como cliente padrão para:">
 
-<!ENTITY browser.label "Browser">
-<!ENTITY email.label "E-Mail">
-<!ENTITY newsgroups.label "Newsgroups">
+<!ENTITY browser.label "Navegador">
+<!ENTITY email.label "Email">
+<!ENTITY newsgroups.label "Grupos de notícias">
 
-<!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName;">
-<!ENTITY checkOnStartup.accesskey "A">
+<!ENTITY checkOnStartup.label "Sempre realizar essa verificação ao iniciar o &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "S">
 <!ENTITY rss.label "RSS">
