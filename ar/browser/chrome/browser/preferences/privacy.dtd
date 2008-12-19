@@ -1,4 +1,13 @@
 <!ENTITY history.label "التّاريخ">
+
+<!ENTITY  locbar.pre.label              "عند استخدام شريط العناوين، اقترح:">
+<!ENTITY  locbar.pre.accessKey          "ح">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "التاريخ والعلامات المرجعية">
+<!ENTITY  locbar.history.label          "التاريخ">
+<!ENTITY  locbar.bookmarks.label        "العلامات المرجعية">
+<!ENTITY  locbar.nothing.label          "لا شيء">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:

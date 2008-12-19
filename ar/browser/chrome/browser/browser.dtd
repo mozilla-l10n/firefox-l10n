@@ -89,6 +89,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "أوقف تحميل هذه الصّفحة">
 <!ENTITY goEndCap.tooltip "اذهب للعنوان في شريط الموقع">
+<!ENTITY feedButton.tooltip           "اشترك في هذه الصفحة…">
 <!ENTITY printButton.label "اطبع">
 <!ENTITY printButton.tooltip "اطبع هذه الصّفحة">
 
