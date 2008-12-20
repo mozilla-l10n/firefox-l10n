@@ -1,4 +1,12 @@
-<!ENTITY  history.label "Historik">
+<!ENTITY  history.label                 "Historik">
+
+<!ENTITY  locbar.pre.label              "Ge förslag i Adressfältet från:">
+<!ENTITY  locbar.pre.accessKey          "G">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Historik och bokmärken">
+<!ENTITY  locbar.history.label          "Historik">
+<!ENTITY  locbar.bookmarks.label        "Bokmärken">
+<!ENTITY  locbar.nothing.label          "Ingenting">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
