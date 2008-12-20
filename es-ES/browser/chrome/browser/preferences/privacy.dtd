@@ -1,4 +1,11 @@
 <!ENTITY history.label "Historial">
+<!ENTITY locbar.pre.label "Cuando se use la barra de direcciones, sugerir:">
+<!ENTITY locbar.pre.accessKey "l">
+<!ENTITY locbar.post.label "">
+<!ENTITY locbar.both.label "Historial y marcadores">
+<!ENTITY locbar.history.label "Historial">
+<!ENTITY locbar.bookmarks.label "Marcadores">
+<!ENTITY locbar.nothing.label "Nada">
 <!ENTITY rememberDaysBefore.label "Guardar mi historial por al menos">
 <!ENTITY rememberDaysBefore.accesskey "g">
 <!ENTITY rememberDaysAfter2.label "días">
