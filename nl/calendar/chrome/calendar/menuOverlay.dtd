@@ -70,11 +70,6 @@
 <!ENTITY calendar.publish.label                 "Publiceren…">
 <!ENTITY calendar.publish.accesskey             "P">
 
-<!ENTITY calendar.toolbar.label                 "Agendawerkbalk">
-<!ENTITY calendar.toolbar.accesskey             "e">
-<!ENTITY task.toolbar.label                     "Taakwerkbalk">
-<!ENTITY task.toolbar.accesskey                 "T">
-
 <!ENTITY calendar.menu.customize.label          "Aanpassen…">
 <!ENTITY calendar.menu.customize.accesskey      "A">
 
