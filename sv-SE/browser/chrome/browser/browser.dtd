@@ -119,6 +119,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Avbryt hämtningen av denna sida">
 <!ENTITY goEndCap.tooltip             "Gå till adressen i Adressfältet">
+<!ENTITY feedButton.tooltip           "Prenumerera på den här sidan…">
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denna sida">
 
