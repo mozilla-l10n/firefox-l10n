@@ -1,4 +1,12 @@
-<!ENTITY  history.label "Geschiedenis">
+<!ENTITY  history.label                 "Geschiedenis">
+
+<!ENTITY  locbar.pre.label              "Bij gebruik van de locatiebalk, suggereer:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Geschiedenis en bladwijzers">
+<!ENTITY  locbar.history.label          "Geschiedenis">
+<!ENTITY  locbar.bookmarks.label        "Bladwijzers">
+<!ENTITY  locbar.nothing.label          "Niets">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
