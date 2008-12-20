@@ -51,9 +51,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
+<!ENTITY calendar.newevent.button.tooltip         "Een nieuwe gebeurtenis creëren" >
 <!ENTITY calendar.newtask.button.tooltip          "Een nieuwe taak creëren" >
-<!ENTITY calendar.newevent.button.tooltip         "Een nieuwe agendagebeurtenis creëren" >
-<!ENTITY calendar.edit.button.tooltip             "Geselecteerde gebeurtenis bewerken" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Taken" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Voltooide taken tonen">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "Naar vandaag gaan" >
 <!ENTITY calendar.todaypane.button.tooltip        "Venster Vandaag tonen" >
-<!ENTITY calendar.unifinder.button.tooltip        "Gebeurtenissen zoeken en tonen" >
 
 <!ENTITY calendar.day.button.tooltip            "Naar dagoverzicht overschakelen" >
 <!ENTITY calendar.week.button.tooltip           "Naar weekoverzicht overschakelen" >
@@ -102,23 +100,11 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Volgende maand" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Vorige maand" >
 
-<!ENTITY calendar.newtask.button.label          "Nieuwe taak" >
 <!ENTITY calendar.newevent.button.label         "Nieuwe gebeurtenis" >
-<!ENTITY calendar.edit.button.label             "Bewerken" >
+<!ENTITY calendar.newtask.button.label          "Nieuwe taak" >
 <!ENTITY calendar.print.button.label            "Afdrukken" >
 
-<!ENTITY calendar.import.button.tooltip            "Gebeurtenissen importeren uit een lokaal bestand" >
-<!ENTITY calendar.export.button.tooltip            "Gebeurtenissen exporteren naar een lokaal bestand" >
-<!ENTITY calendar.subscribe.button.tooltip         "Aanmelden bij een agendabestand op een andere machine" >
-<!ENTITY calendar.publish.button.tooltip           "Gebeurtenissen publiceren naar een andere machine" >
-
 <!ENTITY calendar.export.calendar                "Agenda exporteren…" >
-
-<!ENTITY calendar.import.button.label              "Importeren" >
-<!ENTITY calendar.export.button.label              "Exporteren" >
-<!ENTITY calendar.subscribe.button.label           "Aanmelden" >
-<!ENTITY calendar.publish.button.label             "Publiceren" >
-<!ENTITY calendar.unifinder.button.label           "Gebeurtenissen zoeken" >
 
 <!ENTITY calendar.day.button.label              "Dag" >
 <!ENTITY calendar.week.button.label             "Week" >
@@ -154,15 +140,15 @@
 <!ENTITY calendar.task.filter.open.label            "Onvoltooide taken">
 <!ENTITY calendar.task.filter.open.accesskey        "O">
 
-<!ENTITY calendar.task.details.title.label           "Titel:">
-<!ENTITY calendar.task.details.organizer.label       "Van:">
-<!ENTITY calendar.task.details.priority2.label       "Prioriteit:">
-<!ENTITY calendar.task.details.priority.low.label    "Laag">
-<!ENTITY calendar.task.details.priority.normal.label "Normaal">
-<!ENTITY calendar.task.details.priority.high.label   "Hoog">
-<!ENTITY calendar.task.details.status.label          "Status:">
-<!ENTITY calendar.task.details.category.label        "Categorie:">
-<!ENTITY calendar.task.details.repeat.label          "Herhalen:">
+<!ENTITY calendar.task-details.title.label           "titel">
+<!ENTITY calendar.task-details.organizer.label       "van">
+<!ENTITY calendar.task-details.priority.label        "prioriteit">
+<!ENTITY calendar.task-details.priority.low.label    "Laag">
+<!ENTITY calendar.task-details.priority.normal.label "Normaal">
+<!ENTITY calendar.task-details.priority.high.label   "Hoog">
+<!ENTITY calendar.task-details.status.label          "status">
+<!ENTITY calendar.task-details.category.label        "categorie">
+<!ENTITY calendar.task-details.repeat.label          "herhalen">
 
 <!ENTITY calendar.task.category.button.tooltip  "Taken categoriseren">
 <!ENTITY calendar.task.complete.button.tooltip  "Geselecteerde taken als voltooid markeren">
