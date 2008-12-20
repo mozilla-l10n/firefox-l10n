@@ -63,10 +63,6 @@
 <!ENTITY calendar.export.selection.accesskey "v">
 <!ENTITY calendar.publish.label "Gefa út…">
 <!ENTITY calendar.publish.accesskey "t">
-<!ENTITY calendar.toolbar.label "Dagatal verkfærarein">
-<!ENTITY calendar.toolbar.accesskey "D">
-<!ENTITY task.toolbar.label "Verk verkfærarein">
-<!ENTITY task.toolbar.accesskey "V">
 <!ENTITY calendar.menu.customize.label "Sérsníða…">
 <!ENTITY calendar.menu.customize.accesskey "r">
 <!ENTITY showUnifinderCmd.label "Finna atburði">

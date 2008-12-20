@@ -13,8 +13,8 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; er á boðstólum fyrir þig samkvæmt skilmálum ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Þetta þýðir að þú mátt nota, afrita og dreifa &brandShortName; til annarra.  Þú mátt einnig breyta frumkóða &brandShortName; hvernig sem þú þér hentar. Mozilla Public License gefur þér einnig rétt til að dreifa breyttum útgáfum.">
-<!ENTITY rights.intro-point2a "Mozilla gefur þér ekki nein réttindi fyrir Mozilla og Firefox vörumerkin eða fyrirtækismerkja. Meiri upplýsingar um vörumerki er hægt að finna ">
+<!ENTITY rights.intro-point1c ". Þetta þýðir að þú mátt nota, afrita og dreifa &brandShortName; til annarra.  Þú mátt einnig breyta frumkóða &brandShortName; hvernig sem þér hentar. Mozilla Public License gefur þér einnig rétt til að dreifa breyttum útgáfum.">
+<!ENTITY rights.intro-point2a "Mozilla gefur þér ekki nein réttindi fyrir Mozilla og Firefox vörumerkin eða fyrirtækismerkja. Meiri upplýsingar um vörumerki er að finna ">
 <!ENTITY rights.intro-point2b "hérna">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->

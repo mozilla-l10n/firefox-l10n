@@ -19,7 +19,7 @@
 <!ENTITY importItems.label "Veldu hvaða hluti þú vilt flytja inn:">
 <!ENTITY migrating.title "Flyt inn…">
 <!ENTITY migrating.label "Verið er að flytja inn eftirfarandi hluti…">
-<!ENTITY selectProfile.title "Veldu snið">
-<!ENTITY selectProfile.label "Hægt er að flytja eftirfarandi snið inn frá:">
+<!ENTITY selectProfile.title "Veldu forstillingu">
+<!ENTITY selectProfile.label "Hægt er að flytja eftirfarandi forstillingar inn frá:">
 <!ENTITY done.title "Innflutningi lokið">
 <!ENTITY done.label "Eftirfarandi hluti tókst að flytja inn:">

@@ -246,7 +246,7 @@
 <!ENTITY event.recurrence.repeat.fourth.label "Fjórða">
 <!ENTITY event.recurrence.repeat.fifth.label "Fimmta">
 <!ENTITY event.recurrence.repeat.last.label "Síðasta">
-<!ENTITY event.recurrence.pattern.monthly.week.1.label "Sunnudag">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label "Sunnudagur">
 <!ENTITY event.recurrence.pattern.monthly.week.2.label "Mánudagur">
 <!ENTITY event.recurrence.pattern.monthly.week.3.label "Þriðjudagur">
 <!ENTITY event.recurrence.pattern.monthly.week.4.label "Miðvikudagur">
