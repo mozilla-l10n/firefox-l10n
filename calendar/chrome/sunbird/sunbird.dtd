@@ -41,12 +41,24 @@
 <!ENTITY sunbird.print.button.tooltip "Prenta dagatal">
 <!ENTITY sunbird.delete.button.tooltip "Eyða völdum atburð">
 <!ENTITY sunbird.remotereload.button.tooltip "Endurnýja fjartengd dagatöl">
+<!ENTITY sunbird.import.button.tooltip "Flytja inn atburði frá skrá">
+<!ENTITY sunbird.export.button.tooltip "Flytja út atburði í skrá">
+<!ENTITY sunbird.subscribe.button.tooltip "Gerast áskrifandi að dagatali á fjartengdri tölvu">
+<!ENTITY sunbird.publish.button.tooltip "Gefa út atburði á fjartengdri tölvu">
+<!ENTITY sunbird.unifinder.button.tooltip "Finna og sýna atburði">
+<!ENTITY sunbird.edit.button.tooltip "Breyta völdum atburð">
 <!ENTITY sunbird.choosedate.button.label "Veldu dagsetningu">
 <!ENTITY sunbird.cut.button.label "Klippa">
 <!ENTITY sunbird.copy.button.label "Afrita">
 <!ENTITY sunbird.paste.button.label "Líma">
 <!ENTITY sunbird.delete.button.label "Eyða">
 <!ENTITY sunbird.remotereload.button.label "Endurnýja">
+<!ENTITY sunbird.import.button.label "Flytja inn">
+<!ENTITY sunbird.export.button.label "Flytja út">
+<!ENTITY sunbird.subscribe.button.label "Gerast áskrifandi">
+<!ENTITY sunbird.publish.button.label "Gefa út">
+<!ENTITY sunbird.unifinder.button.label "Finna atburði">
+<!ENTITY sunbird.edit.button.label "Breyta">
 <!ENTITY sunbird.flat.topbar.choosedate "Sýna dag">
 <!ENTITY sunbird.flat.topbar.dayview "Dagur">
 <!ENTITY sunbird.flat.topbar.weekview "Vika">

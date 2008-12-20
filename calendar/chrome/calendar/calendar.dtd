@@ -49,9 +49,8 @@
 <!ENTITY calendar.weekView.key "2">
 <!ENTITY calendar.multiweekView.key "3">
 <!ENTITY calendar.monthView.key "4">
-<!ENTITY calendar.newtask.button.tooltip "Búa til nýtt verk">
 <!ENTITY calendar.newevent.button.tooltip "Búa til nýjan atburð">
-<!ENTITY calendar.edit.button.tooltip "Breyta völdum atburð">
+<!ENTITY calendar.newtask.button.tooltip "Búa til nýtt verk">
 <!ENTITY calendar.unifinder.todoitems.label "Verk">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Sýna loknum verkum">
 <!ENTITY calendar.today.button.label "Í dag">
@@ -81,7 +80,6 @@
 <!ENTITY calendar.unifinder.close.tooltip "Loka atburðaleit og atburðalista">
 <!ENTITY calendar.today.button.tooltip "Hoppa á daginn í dag">
 <!ENTITY calendar.todaypane.button.tooltip "Sýn dagsins í dag">
-<!ENTITY calendar.unifinder.button.tooltip "Finna og sýna atburði">
 <!ENTITY calendar.day.button.tooltip "Skipta yfir í dagsýn">
 <!ENTITY calendar.week.button.tooltip "Skipta yfir í vikusýn">
 <!ENTITY calendar.month.button.tooltip "Skipta yfir í mánaðarsýn">
@@ -92,20 +90,10 @@
 <!ENTITY calendar.prevweek.button.tooltip "Fyrri vika">
 <!ENTITY calendar.nextmonth.button.tooltip "Næsti mánuður">
 <!ENTITY calendar.prevmonth.button.tooltip "Fyrri mánuður">
-<!ENTITY calendar.newtask.button.label "Nýtt verk">
 <!ENTITY calendar.newevent.button.label "Nýr atburður">
-<!ENTITY calendar.edit.button.label "Breyta">
+<!ENTITY calendar.newtask.button.label "Nýtt verk">
 <!ENTITY calendar.print.button.label "Prenta">
-<!ENTITY calendar.import.button.tooltip "Flytja inn atburði frá skrá">
-<!ENTITY calendar.export.button.tooltip "Flytja út atburði í skrá">
-<!ENTITY calendar.subscribe.button.tooltip "Gerast áskrifandi að dagatali á fjartengdri tölvu">
-<!ENTITY calendar.publish.button.tooltip "Gefa út atburði á fjartengdri tölvu">
 <!ENTITY calendar.export.calendar "Flytja út dagatal…">
-<!ENTITY calendar.import.button.label "Flytja inn">
-<!ENTITY calendar.export.button.label "Flytja út">
-<!ENTITY calendar.subscribe.button.label "Gerast áskrifandi">
-<!ENTITY calendar.publish.button.label "Gefa út">
-<!ENTITY calendar.unifinder.button.label "Finna atburði">
 <!ENTITY calendar.day.button.label "Dagur">
 <!ENTITY calendar.week.button.label "Vika">
 <!ENTITY calendar.month.button.label "Mánuður">
@@ -135,15 +123,15 @@
 <!ENTITY calendar.task.filter.completed.accesskey "L">
 <!ENTITY calendar.task.filter.open.label "Ólokin verk">
 <!ENTITY calendar.task.filter.open.accesskey "l">
-<!ENTITY calendar.task.details.title.label "Titill:">
-<!ENTITY calendar.task.details.organizer.label "Frá:">
-<!ENTITY calendar.task.details.priority2.label "Mikilvægi:">
-<!ENTITY calendar.task.details.priority.low.label "Lágt">
-<!ENTITY calendar.task.details.priority.normal.label "Venjulegt">
-<!ENTITY calendar.task.details.priority.high.label "Hátt">
-<!ENTITY calendar.task.details.status.label "Staða:">
-<!ENTITY calendar.task.details.category.label "Flokkur:">
-<!ENTITY calendar.task.details.repeat.label "Endurtaka:">
+<!ENTITY calendar.task-details.title.label "titli">
+<!ENTITY calendar.task-details.organizer.label "frá">
+<!ENTITY calendar.task-details.priority.label "forgangur">
+<!ENTITY calendar.task-details.priority.low.label "Lágt">
+<!ENTITY calendar.task-details.priority.normal.label "Venjulegt">
+<!ENTITY calendar.task-details.priority.high.label "Hátt">
+<!ENTITY calendar.task-details.status.label "staða">
+<!ENTITY calendar.task-details.category.label "flokkur">
+<!ENTITY calendar.task-details.repeat.label "endurtaka">
 <!ENTITY calendar.task.category.button.tooltip "Flokka verk">
 <!ENTITY calendar.task.complete.button.tooltip "Merkja valinn verk sem lokið">
 <!ENTITY calendar.task.priority.button.tooltip "Breyta forgangi">

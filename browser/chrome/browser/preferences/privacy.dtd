@@ -1,4 +1,11 @@
 <!ENTITY history.label "Ferill">
+<!ENTITY locbar.pre.label "Þegar ég nota staðsetningarslá, leggja til:">
+<!ENTITY locbar.pre.accessKey "l">
+<!ENTITY locbar.post.label "">
+<!ENTITY locbar.both.label "Ferill og bókamerki">
+<!ENTITY locbar.history.label "Ferill">
+<!ENTITY locbar.bookmarks.label "Bókamerki">
+<!ENTITY locbar.nothing.label "Ekkert">
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:

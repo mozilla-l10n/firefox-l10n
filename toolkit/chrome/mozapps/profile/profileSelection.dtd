@@ -38,19 +38,19 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Veldu snið">
-<!ENTITY profilename.label "Nafn sniðs:">
+<!ENTITY windowtitle.label "&brandShortName; - Veldu forstillingu">
+<!ENTITY profilename.label "Forstillingarnafn:">
 <!ENTITY start.label "Ræsa &brandShortName;">
 <!ENTITY exit.label "Hætta">
-<!ENTITY availprofiles.label "Snið í boði">
-<!ENTITY newButton.label "Búa til snið…">
+<!ENTITY availprofiles.label "Forstillingar í boði">
+<!ENTITY newButton.label "Búa til forstillingu…">
 <!ENTITY newButton.accesskey "B">
-<!ENTITY renameButton.label "Endurnefna snið…">
+<!ENTITY renameButton.label "Endurnefna forstillingu…">
 <!ENTITY renameButton.accesskey "R">
-<!ENTITY deleteButton.label "Eyða sniði…">
+<!ENTITY deleteButton.label "Eyða forstillingu…">
 <!ENTITY deleteButton.accesskey "E">
 <!-- manager entities -->
-<!ENTITY pmDescription.label "&brandShortName; geymir upplýsingar um stillingar, og aðra hluti í þínu sniði.">
+<!ENTITY pmDescription.label "&brandShortName; geymir upplýsingar um stillingar, og aðra hluti í forstillingu fyrir þig.">
 <!ENTITY offlineState.label "Vinna ótengt">
 <!ENTITY offlineState.accesskey "n">
 <!ENTITY autoSelect.label "Ekki spyrja í ræsingu">
