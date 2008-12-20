@@ -41,9 +41,9 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newCard.label                                  "Adressbuch-Karte…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newCard.accesskey                              "K">  
+<!ENTITY newContact.label                               "Kontakt…">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "K">
 <!ENTITY newListCmd.label                               "Mailing-Liste…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "M">  
@@ -51,25 +51,25 @@
 <!ENTITY newAddressBookCmd.accesskey                    "A">  
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-Verzeichnis…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "P">
 <!ENTITY newIM.label                                    "IM">
-<!ENTITY printCardViewCmd.label                         "Drucke Karte…">
-<!ENTITY printCardViewCmd.accesskey                     "D">
-<!ENTITY printPreviewCardViewCmd.label                  "Druckvorschau: Karte">
-<!ENTITY printPreviewCardViewCmd.accesskey              "D">
+<!ENTITY printContactViewCmd.label                      "Kontakt drucken…">
+<!ENTITY printContactViewCmd.accesskey                  "d">
+<!ENTITY printPreviewContactViewCmd.label               "Kontakt-Druckvorschau">
+<!ENTITY printPreviewContactViewCmd.accesskey           "v">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Drucke Adressbuch…"> 
 <!ENTITY printAddressBook.accesskey                     "D"> 
 <!ENTITY printPreviewAddressBook.label                  "Druckvorschau: Adressbuch"> 
-<!ENTITY printPreviewAddressBook.accesskey              "D">
+<!ENTITY printPreviewAddressBook.accesskey              "u">
 <!ENTITY printSetupCmd.label                            "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey                        "S">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Adressbuch löschen">  
-<!ENTITY deleteCardCmd.label                            "Lösche Karte">  
-<!ENTITY deleteCardsCmd.label                           "Lösche Ausgewählte Karten">  
+<!ENTITY deleteContactCmd.label                         "Kontakt löschen">
+<!ENTITY deleteContactsCmd.label                        "Ausgewählte Kontakte löschen">
 <!ENTITY deleteListCmd.label                            "Liste löschen">
 <!ENTITY deleteListsCmd.label                           "Ausgewählte Listen löschen">
 <!ENTITY deleteItemsCmd.label                           "Ausgewählte Einträge löschen">
@@ -84,7 +84,7 @@
 <!ENTITY showAbToolbarCmd.label                         "Adressbuch-Symbolleiste"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "A">  
 
-<!ENTITY showCardPane.label                             "Kartenzusammenfassungsfenster">
+<!ENTITY showCardPane.label                             "Kontaktzusammenfassungsfenster">
 <!ENTITY showCardPane.accesskey                         "K">
   
 <!ENTITY menu_ShowNameAs.label                          "Namen anzeigen:"> 
@@ -105,27 +105,27 @@
 <!ENTITY allowOnlineCheck.accesskey                     "O">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newcardButton.label                            "Neue Karte">  
-<!ENTITY newcardButton.accesskey                        "N">  
+<!ENTITY newContactButton.label                         "Neuer Kontakt">
+<!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label                            "Neue Liste">  
 <!ENTITY newlistButton.accesskey                        "N">  
-<!ENTITY editButton.label                               "Eigenschaften">  
-<!ENTITY editButton.accesskey                           "E">  
+<!ENTITY editItemButton.label                           "Eigenschaften">
+<!ENTITY editItemButton.accesskey                       "E">
 <!ENTITY newmsgButton.label                             "Verfassen">  
 <!ENTITY newmsgButton.accesskey                         "V">  
-<!ENTITY deleteButton.label                             "Löschen">  
-<!ENTITY deleteButton.accesskey                         "L">  
+<!ENTITY deleteItemButton.label                         "Löschen">
+<!ENTITY deleteItemButton.accesskey                     "L">
 <!ENTITY newimButton.label                              "Instant-Nachricht">  
 <!ENTITY newimButton.accesskey                          "I">  
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adressbuch-Symbolleiste">
-<!ENTITY newcardButton.tooltip                          "Neue Adressbuch-Karte erstellen"> 
+<!ENTITY newContactButton.tooltip                       "Neuen Adressbuch-Kontakt erstellen">
 <!ENTITY newlistButton.tooltip                          "Neue Liste erstellen"> 
-<!ENTITY editButton.tooltip                             "Gewählte Karte bearbeiten"> 
+<!ENTITY editItemButton.tooltip                         "Den ausgewählten Eintrag bearbeiten">
 <!ENTITY newmsgButton.tooltip                           "Neue Mail-Nachricht verfassen"> 
 <!ENTITY newIM.tooltip                                  "Neue Sofortnachricht (instant message) oder neuen Chat verfassen"> 
-<!ENTITY deleteButton.tooltip                           "Gewählte Karte oder Adressbuch löschen"> 
+<!ENTITY deleteItemButton.tooltip                       "Ausgewählten Eintrag löschen">
 <!ENTITY throbber.tooltip                               "&vendorShortName;-Homepage aufrufen">
 <!ENTITY advancedButton.tooltip                         "Erweiterte Adressensuche">
 
