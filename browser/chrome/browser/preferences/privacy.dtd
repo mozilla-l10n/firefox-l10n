@@ -1,4 +1,11 @@
 <!ENTITY history.label "Cronologia">
+<!ENTITY locbar.pre.label "Per la barra degli indirizzi utilizza suggerimenti da:">
+<!ENTITY locbar.pre.accessKey "z">
+<!ENTITY locbar.post.label "">
+<!ENTITY locbar.both.label "cronologia e segnalibri">
+<!ENTITY locbar.history.label "cronologia">
+<!ENTITY locbar.bookmarks.label "segnalibri">
+<!ENTITY locbar.nothing.label "nessun suggerimento">
 <!ENTITY rememberDaysBefore.label "Conserva la cronologia per almeno">
 <!ENTITY rememberDaysBefore.accesskey "v">
 <!ENTITY rememberDaysAfter2.label "giorni">
