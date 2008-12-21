@@ -35,22 +35,3 @@
  * http://www.mozilla.org/unix/customizing.html
  */
 
-/* 
- * Firefox 1.5:ssä ja uudemmissa on myös mahdollista asettaa 
- * sivustokohtaisia CSS-sääntöjä. Lähimpänä virallista lähdettä on 
- * kirjoitushetkellä viesti:
- * http://lists.w3.org/Archives/Public/www-style/2004Aug/0135.html
- *
- * Esimerkkinä toimivasta säännöstä seuraava:
- */
-
-/* Poista sivuston mondediplo.comin hakemiston 2005 sivujen 
- * muodostavasta taulukosta ensimmäinen otsikkorivi.
- * 
- * @-moz-document url-prefix(http://mondediplo.com/2005/),
- *                domain(mondediple.com)
- * {
- *  tr:first-child {display:none;}
- * }
- *
- */
