@@ -32,6 +32,14 @@
 
 <!ENTITY  history.label "Žurnalas">
 
+<!ENTITY  locbar.pre.label              "Rašant adreso lauke, siūlyti tinklalapius iš:">
+<!ENTITY  locbar.pre.accessKey          "d">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "žurnalo ir adresyno">
+<!ENTITY  locbar.history.label          "žurnalo">
+<!ENTITY  locbar.bookmarks.label        "adresyno">
+<!ENTITY  locbar.nothing.label          "nesiūlyti">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
