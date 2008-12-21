@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label          "Käytä seuraavaa LDAP-palvelinta:">
 <!ENTITY directories.accesskey      "t">
+<!ENTITY directoriesNone.label     "Ei mitään">
 
 <!-- am-addressing.xul -->
 

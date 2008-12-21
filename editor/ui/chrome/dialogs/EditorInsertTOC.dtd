@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title         "Sisällysluettelo">
 <!ENTITY buildToc.label       "Koosta sisällysluettelo kohteista:">
-<!ENTITY style.label          "Tyyli:">
 <!ENTITY tag.label            "HTML-tunnus:">
 <!ENTITY class.label          "Luokka:">
 <!ENTITY header1.label        "Taso 1">

@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                   "Vastaanottokuittaukset">
-<!ENTITY receiptSettings.label          "Vastaanottokuittaukset">
 <!ENTITY requestReceipt.label           "Lähetettäessä viestiä, pyydä aina vastaanottokuittaus">
 <!ENTITY requestReceipt.accesskey       "L">
 <!ENTITY receiptArrive.label            "Kuittauksen saapuessa:">

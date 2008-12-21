@@ -1,11 +1,10 @@
 <!ENTITY doNotDownloadPop3Movemail.label  "Säästääksesi tilaa, älä lataa:">
 <!ENTITY doNotDownload.label  "Säästääksesi tilaa, älä lataa yhteydetöntä tilaa varten:">
-<!ENTITY offlineNewFolder.label  "Luotaessa uusia kansioita, aseta ne käytettäväksi yhteydettömässä tilassa">
-<!ENTITY offlineNewFolder.accesskey  "L">
+<!ENTITY allFoldersOffline.label "Säilytä tämän tilin viestit tällä tietokoneella">
+<!ENTITY allFoldersOffline.accesskey "v">
 <!ENTITY offlineNotDownload.label  "Viestejä, joiden koko on yli">
 <!ENTITY offlineNotDownload.accesskey  "e">
 <!ENTITY kb.label  "kt">
-<!ENTITY days.label  "päivää">
 <!ENTITY daysOld.label  "päivää vanhoja">
 <!ENTITY message.label  "viestiä">
 <!ENTITY nntpNotDownloadRead.label  "Luettuja viestejä">
@@ -25,10 +24,7 @@
 <!ENTITY nntpRemoveBody.accesskey  "n">
 <!ENTITY offlineSelectNntp.label  "Valitse yhteydettömässä tilassa käytettävät ryhmät…">
 <!ENTITY offlineSelectNntp.accesskey "V">
-<!ENTITY offlineSelectImap.label  "Valitse yhteydettömässä tilassa käytettävät kansiot…">
-<!ENTITY offlineSelectImap.accesskey "V">
-<!ENTITY offlineDesc.label  "Viestit voidaan ladata tietokoneelle niin, että niitä voi lukea yhteydettömässä tilassa.">
-<!ENTITY makeInboxMsgsAvailable.label  "Aseta saapuneet-kansio käytettäväksi yhteydettömässä tilassa">
-<!ENTITY makeInboxMsgsAvailable.accesskey  "A">
-<!ENTITY offlineGroupTitle.label  "Yhteydetön tila">
+<!ENTITY offlineImapAdvancedOffline.label "Lisäasetukset…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "L">
+<!ENTITY syncGroupTitle.label "Viestien synkronointi">
 <!ENTITY diskspaceGroupTitle.label  "Levytilan käyttö">

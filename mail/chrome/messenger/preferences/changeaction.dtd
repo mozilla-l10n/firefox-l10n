@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey               "S">
 <!ENTITY  saveToAskMe.label                    "kysy aina tallennuspaikka">
 <!ENTITY  saveToAskMe.accesskey                "n">
-<!ENTITY  usePlugin.label                      "Käytä liitännäistä:">
-<!ENTITY  usePlugin.accesskey                  "K">

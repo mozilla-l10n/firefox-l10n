@@ -70,11 +70,11 @@
 <!ENTITY pasteCmd.label  "Liitä">
 <!ENTITY pasteCmd.key  "V">
 <!ENTITY pasteCmd.accesskey  "i">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label  "Rivitä uudelleen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
 <!ENTITY deleteCmd.label  "Poista">
-<!ENTITY deleteCmd.key  "D">
 <!ENTITY deleteCmd.accesskey  "o">
 <!ENTITY selectAllCmd.label  "Valitse kaikki">
 <!ENTITY selectAllCmd.key  "A">
@@ -96,10 +96,9 @@
 <!ENTITY viewMenu.accesskey  "N">
 <!ENTITY viewToolbarsMenuNew.label  "Työkalupalkit">
 <!ENTITY viewToolbarsMenuNew.accesskey  "T">
-<!ENTITY showComposeToolbarCmd.label  "Postipalkki">
-<!ENTITY showComposeToolbarCmd.accesskey  "P">
-<!ENTITY showFormatToolbarCmd.label  "Muotoilupalkki">
-<!ENTITY showFormatToolbarCmd.accesskey  "M">
+<!ENTITY showCompositionToolbarCmd.label "Viestin kirjoituspalkki">
+<!ENTITY showFormattingBarCmd.label "Muotoilupalkki">
+<!ENTITY showFormattingBarCmd.accesskey "M">
 <!ENTITY showTaskbarCmd.label  "Tilarivi">
 <!ENTITY showTaskbarCmd.accesskey  "T">
 <!ENTITY customizeToolbar.label  "Muokkaa…">
@@ -172,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey  "s">
 <!ENTITY accountManagerCmdUnix.accesskey  "A">
 <!ENTITY preferencesCmd.label  "Asetukset…">
-<!ENTITY preferencesCmd.key  "O">
 <!ENTITY preferencesCmd.accesskey  "A">
 <!ENTITY preferencesCmdUnix.label        "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey    "A">
@@ -219,10 +217,6 @@
 <!ENTITY attachments.accesskey  "e">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar  "B">
-<!ENTITY formatToolbar.italicChar  "I">
-<!ENTITY formatToolbar.underlineChar  "U">
 <!ENTITY SmileButton.tooltip  "Lisää hymiö">
 <!ENTITY smiley1Cmd.label  "Hymy">
 <!ENTITY smiley2Cmd.label  "Suru">
@@ -262,6 +256,8 @@
 <!ENTITY openAttachment.accesskey  "A">
 <!ENTITY delete.label  "Poista">
 <!ENTITY delete.accesskey  "o">
+<!ENTITY renameAttachment.label "Nimeä uudelleen…">
+<!ENTITY renameAttachment.accesskey "N">
 <!ENTITY selectAll.label  "Valitse kaikki">
 <!ENTITY selectAll.accesskey  "V">
 <!ENTITY attachFile.label  "Liitä tiedostot…">

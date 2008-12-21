@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label           "Kuvaus: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label              "Kirjoita sähköpostiosoitteet lisätäksesi ne postituslistalle:">
-<!ENTITY RemoveButton.label              "Poista">
 <!ENTITY UpButton.label                  "Siirrä ylöspäin">
 <!ENTITY DownButton.label                "Siirrä alaspäin">
 

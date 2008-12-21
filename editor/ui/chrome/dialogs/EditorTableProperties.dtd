@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label            "Ei mitään">
 <!ENTITY tableInheritColor.label            "(Anna sivun värin näkyä läpi)">
 
-<!ENTITY cellPercent.label                 "prosenttia taulukosta">
 <!ENTITY cellSelection.label               "Valinta">
 <!ENTITY cellSelectCell.label              "Solu">
 <!ENTITY cellSelectRow.label               "Rivi">
@@ -78,13 +77,8 @@
 <!ENTITY cellSelectNext.accessKey          "S">
 <!ENTITY cellSelectPrevious.label          "Edellinen">
 <!ENTITY cellSelectPrevious.accessKey      "E">
-<!ENTITY cellApplyBeforeMove.label         "Lisää muutokset ennen valinnan vaihtamista">
-<!ENTITY cellKeepCurrentData.label         "Pidä nykyiset asetukset">
+<!ENTITY applyBeforeChange.label          "Tehdyt muutokset toteutetaan ennen kuin valintaa muutetaan.">
 <!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label          "Nykyiset asetukset tulevat voimaan">
-<!ENTITY applyBeforeChange2.label          "ennen valinnan vaihtamista.">
-<!ENTITY cellRowSpan.label                 "Rivin laajuus:">
-<!ENTITY cellColSpan.label                 "Sarakkeen laajuus:">
 <!ENTITY cellContentAlignment.label        "Sisällön tasaus">
 <!ENTITY cellHorizontal.label              "Vaaka:">
 <!ENTITY cellHorizontal.accessKey          "V">
@@ -102,7 +96,6 @@
 <!ENTITY cellAlignMiddle.label             "Keski">
 <!ENTITY cellAlignBottom.label             "Ala">
 <!ENTITY cellAlignJustify.label            "Tasan">
-<!ENTITY cellAlignAtChar.label             "Merkkiin:">
 <!ENTITY cellInheritColor.label            "(Anna taulukon värin näkyä läpi)">
 <!ENTITY cellUseCheckboxHelp.label         "Käytä valintaruutuja osoittamaan, mitkä ominaisuudet koskevat valittua solua">
 

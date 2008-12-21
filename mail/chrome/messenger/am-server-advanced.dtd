@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label  "Tilin lisäasetukset">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label  "IMAP-palvelimen lisäasetukset">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label  "IMAP-palvelinhakemisto:">
 <!ENTITY serverDirectory.accesskey  "I">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label  "Palvelin voi korvata nämä nimiavaruudet">
 <!ENTITY overrideNamespaces.accesskey  "a">
 <!ENTITY pop3Desc.label  "Käytä seuraavaa kansiota tämän tilin saapuville sähköposteille:">
-<!ENTITY folderStorage.label  "Mihin saapuvat viestit tallennetaan">
 <!ENTITY globalInbox.label  "Saapuvat viestit yhteiseen saapuneet-kansioon">
 <!ENTITY globalInbox.accesskey  "S">
 <!ENTITY accountDirectory.label  "Saapuvat viestit tämän tilin saapuneet-kansioon">

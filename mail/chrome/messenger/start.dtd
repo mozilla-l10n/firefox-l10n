@@ -27,11 +27,7 @@
 <!ENTITY startpage.pageInfo  "Thunderbirdin tuotetiedot Mozilla Europen">
 <!ENTITY startpage.pageURL  "http://www.mozilla-europe.org/fi/products/thunderbird/">
 
-<!ENTITY startpage.extra "<h2>Suomenkielinen oikoluku</h2>
-<p>Thunderbirdille on olemassa epävirallinen suomenkielinen oikoluku, joka 
-käyttää ilmaista <a href='http://users.tkk.fi/~pry/soikko/'>Soikko</a>-oikolukijaa. 
-Lataa ja asenna tarvittavat laajennukset <a 
-href='http://www.mozilla.fi/wiki/Suomen_kielen_oikoluku'>Mozilla.fi</a>:stä.
+<!ENTITY startpage.extra "<h2>Suomen kielen oikoluku</h2>
+<p>Vapaaehtoisvoimin ylläpidetty suomen kielen oikoluku saatavilla <a 
+href='https://addons.mozilla.org/fi/thunderbird/addon/3826'>addons.mozilla.orgista</a>.
 </p>">
-
-<!ENTITY startpage.poweredByGecko  "Voimanlähteenä Gecko.">

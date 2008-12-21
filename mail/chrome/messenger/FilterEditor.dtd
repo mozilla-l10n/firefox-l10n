@@ -12,12 +12,13 @@
 <!ENTITY highPriorityCmd.label  "Korkea">
 <!ENTITY highestPriorityCmd.label  "Korkein">
 
-<!ENTITY conditionDesc.label  "Suodata viesti, kun:">
-<!ENTITY filterActionDesc.label  "Suorita nämä toiminnot:">
-<!ENTITY filterActionDesc.accesskey  "o">
-
-<!ENTITY newFolderButton.label  "Uusi kansio…">
-<!ENTITY newFolderButton.accesskey  "U">
+<!ENTITY contextDesc.label "Suodata viestit, kun:">
+<!ENTITY contextDesc.accesskey "S">
+<!ENTITY contextIncoming.label "Posteja haetaan">
+<!ENTITY contextManual.label "Suodattimet suoritetaan">
+<!ENTITY contextBoth.label "Suodattimet suoritetaan tai posteja haetaan">
+<!ENTITY filterActionDesc.label "Suorita nämä toiminnot:">
+<!ENTITY filterActionDesc.accesskey "o">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label  "Siirrä kansioon">
@@ -33,5 +34,6 @@
 <!ENTITY deleteFromPOP.label  "Poista viesti palvelimelta">
 <!ENTITY fetchFromPOP.label  "Nouda viestin runko palvelimelta">
 <!ENTITY ignoreThread.label  "Ohita viestiketju">
+<!ENTITY ignoreSubthread.label "Ohita aliketju">
 <!ENTITY watchThread.label  "Seuraa viestiketjua">
 <!ENTITY stopExecution.label "Pysäytä suodattaminen">

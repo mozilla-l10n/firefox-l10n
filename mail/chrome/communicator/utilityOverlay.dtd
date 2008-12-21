@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key						 "V">
 <!ENTITY pasteCmd.accesskey					 "i">
 <!ENTITY deleteCmd.label					 "Poista">
-<!ENTITY deleteCmd.key						 "D">
 <!ENTITY deleteCmd.accesskey				 "o">
 <!ENTITY selectAllCmd.label					 "Valitse kaikki">
 <!ENTITY selectAllCmd.key					 "A">
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label        "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey      "A">
 
-<!ENTITY findTypeTextCmd.label  "Etsi tekstistä kirjoittaessani">
-<!ENTITY findTypeTextCmd.accesskey  "k">
-
 <!ENTITY viewMenu.label					 "Näytä">
 <!ENTITY viewMenu.accesskey				 "N">
 <!ENTITY viewToolbarsMenu.label				 "Työkalupalkit">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label					 "Tilarivi">
 <!ENTITY showTaskbarCmd.accesskey				 "r">
 
-<!ENTITY direct.label                                    "Yhteystilassa (välityspalvelin:ei ole)">
-<!ENTITY direct.accesskey                                "e">
-<!ENTITY manual.label                                    "Yhteystilassa (välityspalvelin:oma)">
-<!ENTITY manual.accesskey                                "o">
-<!ENTITY pac.label                                       "Yhteystilassa (välityspalvelin:automaattinen)">
-<!ENTITY pac.accesskey                                   "a">
-
 <!ENTITY proxy.label                                     "Välityspalvelimen asetukset…">
 <!ENTITY proxy.accesskey                                 "V">
-
-<!ENTITY findTypeTextCmd.key         "/">
-<!ENTITY findTypeLinksCmd.key        "'">
 
 <!ENTITY closeCmd.label			 "Sulje">
 <!ENTITY closeCmd.key			 "W">

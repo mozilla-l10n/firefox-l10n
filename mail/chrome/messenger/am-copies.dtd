@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey  "L">
 <!ENTITY fccReplyFollowsParent.label "Tallenna vastaukset kansioon, jossa on viesti, johon vastataan">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label  "Valitse kansio…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label  "Lähetä piilokopio näihin osoitteisiin:">
 <!ENTITY bccAddress.accesskey  "h">
-<!ENTITY specialFolderTitle.label  "Erityiskansiot">
-<!ENTITY draftMailFolder.label  "Säilytä viestien luonnokset kansiossa:">
-<!ENTITY templateMailFolder.label  "Säilytä viestien mallipohjat kansiossa:">
 <!ENTITY saveMessageDlg.label  "Kysy vahvistus viestejä tallennettaessa">
 <!ENTITY saveMessageDlg.accesskey  "K">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

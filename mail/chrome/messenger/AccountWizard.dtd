@@ -31,24 +31,17 @@
 
 <!ENTITY emailLabel.label  "Sähköpostiosoite:">
 <!ENTITY emailLabel.accesskey  "S">
-<!ENTITY emailDesc.label  "Kirjoita sähköpostiosoitteesi. Tämä on osoite, jota toiset käyttävät lähettäessään sinulle sähköpostia">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label  "(esimerkiksi: erkki@esimerkki.net).">
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label  "Palvelimen tiedot">
-<!ENTITY incomingServerTitle.label  "Saapuvan postin palvelin">
-<!ENTITY incomingServerTypeDesc.label  "Valitse käyttämäsi palvelimen tyyppi.">
-<!ENTITY incomingServerTypeLabel.label  "Palvelintyyppi:">
+<!ENTITY incomingServerTypeDesc.label "Valitse saapuvan postin palvelimen tyyppi.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label  "Kirjoita saapuvan postin palvelimen nimi (esimerkiksi &quot;mail.esimerkki.net&quot;).">
 <!ENTITY incomingServerLabel.label  "Saapuvan postin palvelin:">
 <!ENTITY incomingServerLabel.accesskey  "S">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label  "Kirjoita keskusteluryhmäpalvelimesi (NNTP) nimi (esimerkiksi &quot;news.esimerkki.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label  "Lähtevän postin palvelin (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label  "Kirjoita lähtevän postin palvelimen (SMTP) nimi (esimerkiksi &quot;smtp.esimerkki.net&quot;).">
 <!ENTITY smtpServerLabel.label  "Lähtevän postin palvelin:">
@@ -61,13 +54,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label  "POP">
 <!ENTITY popType.accesskey  "P">
-<!ENTITY nntpType.label  "Keskusteluryhmäpalvelin">
-
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
@@ -104,7 +90,6 @@
 <!ENTITY accnameTitle.label  "Tilin nimi">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label  "Anna tälle tilille jokin nimi (esimerkiksi &quot;Työ&quot;, &quot;Kotitili&quot; tai &quot;Keskusteluryhmätili&quot;).">
-<!ENTITY accnameExample.label  "Esimerkiksi Työ, Kotitili tai Keskusteluryhmätili">
 <!ENTITY accnameLabel.label  "Tilin nimi:">
 <!ENTITY accnameLabel.accesskey  "n">
 

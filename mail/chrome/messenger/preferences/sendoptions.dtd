@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey            "e">
 <!ENTITY sendBoth.label                "Lähetä viesti sekä pelkkä teksti-, että HTML-muodossa">
 <!ENTITY sendBoth.accesskey            "t">
-<!ENTITY receiveHTML.label             'Jos tiedät, että vastaanottaja pystyy ja haluaa vastaanottaa HTML-viestejä, poista vastaanottajan osoitekortista valinta kohdasta "Lähetä viesti pelkkänä tekstinä (ei HTML)."'>
 <!ENTITY override.label                "Voit ohittaa nämä asetukset yksittäistä viestiä kirjoittaessasi Valinnat-valikosta.">
 
 <!ENTITY domaindesc.label              "Lähetettäessä viesti osoitteeseen, joka on jollakin näistä verkkoalueista, niin &brandShortName; lähettää viestin automaattisesti oikeassa muodossa.">
@@ -28,14 +27,5 @@
 
 <!ENTITY add.htmltitle                 "Lisää HTML-verkkoalue">
 <!ENTITY add.htmldomain                "HTML-verkkoalue:">
-<!ENTITY add.htmldomain.accesskey      "H">
 <!ENTITY add.plaintexttitle            "Lisää pelkkä teksti -verkkoalue">
 <!ENTITY add.plaintextdomain           "Pelkkä teksti -verkkoalue:">
-<!ENTITY add.plaintext.accesskey       "P">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title         "Virhe verkkoalueen nimessä">
-<!ENTITY duplicationError.label        "Verkkoalue @string@ on jo listalla.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label          "Sama verkkoalue ei voi olla sekä HTML-, että pelkkä teksti -listalla. Verkkoalue @string@ on jo olemassa.">

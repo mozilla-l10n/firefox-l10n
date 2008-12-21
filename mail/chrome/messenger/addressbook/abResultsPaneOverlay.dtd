@@ -66,15 +66,3 @@
 <!ENTITY sortAscending.accesskey                "N">
 <!ENTITY sortDescending.label                   "Laskeva järjestys">
 <!ENTITY sortDescending.accesskey               "r">
-
-<!-- context menu -->
-<!ENTITY composeEmail.label                     "Lähetä sähköpostia">
-<!ENTITY composeEmail.accesskey                 "L">
-<!ENTITY deleteAddrBookCard.label               "Poista">
-<!ENTITY deleteAddrBookCard.accesskey           "o">
-<!ENTITY newAddrBookCard.label                  "Uusi kortti…">
-<!ENTITY newAddrBookCard.accesskey              "U">
-<!ENTITY newAddrBookMailingList.label           "Uusi postituslista…">
-<!ENTITY newAddrBookMailingList.accesskey       "p">
-<!ENTITY addrBookCardProperties.label           "Ominaisuudet">
-<!ENTITY addrBookCardProperties.accesskey       "O">

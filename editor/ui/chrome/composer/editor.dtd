@@ -37,32 +37,29 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier  "Composer">
-<!ENTITY editorWindow.titlemodifiermenuseparator  " - ">
+<!ENTITY editorWindow.titlemodifier "Composer"> 
+<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label  "Näytä">
-<!ENTITY viewmenu.accesskey  "N">
-<!ENTITY compositionToolbarCmd.label  "Viestin kirjoituspalkki">
-<!ENTITY compositiontb.accesskey  "V">
-<!ENTITY formattingToolbarCmd.label  "Muotoilupalkki">
-<!ENTITY formattingtb.accesskey  "M">
-<!ENTITY editmodeToolbarCmd.label  "Muokkaustilan työkalupalkki">
-<!ENTITY editmodetb.accesskey  "M">
-<!ENTITY taskbarCmd.label  "Tilarivi">
-<!ENTITY taskbarCmd.accesskey  "T">
+<!ENTITY viewMenu.label "Näytä">
+<!ENTITY viewMenu.accesskey "N">
+<!ENTITY compositionToolbarCmd.label "Viestin kirjoituspalkki">
+<!ENTITY compositionToolbarCmd.accesskey "V">
+<!ENTITY formattingToolbarCmd.label "Muotoilupalkki">
+<!ENTITY formattingToolbarCmd.accesskey "M">
+<!ENTITY editmodeToolbarCmd.label "Muokkaustilan työkalupalkki">
+<!ENTITY editmodeToolbarCmd.accesskey "M">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label  "Muotoilu">
-<!ENTITY formatmenu.accesskey  "u">
+<!ENTITY formatMenu.label "Muotoilu">
+<!ENTITY formatMenu.accesskey "u">
 
-<!ENTITY helpMenu.label  "Ohje">
-<!ENTITY aboutCmd.label  ".Tietoja">
+<!ENTITY helpMenu.label "Ohje">
+<!ENTITY aboutCmd.label ".Tietoja">
 
 <!-- Display Mode Toolbar -->
-<!ENTITY editMode.label  "Muokkaustila:">
+<!ENTITY editMode.label "Muokkaustila:">
 
-<!ENTITY statusText.label  "Sivu ladattu">
-
+<!ENTITY statusText.label "Sivu ladattu">

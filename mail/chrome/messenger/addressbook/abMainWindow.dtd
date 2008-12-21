@@ -8,8 +8,8 @@
 <!ENTITY newCard.label                                   "Osoitekirjan kortti…">
 <!ENTITY newCard.accesskey                               "O">
 <!ENTITY newCard.key                                     "N">
-<!ENTITY newListCmd.label                                "Postituslista…">
-<!ENTITY newListCmd.accesskey                            "P">
+<!ENTITY newListCmd.label                                "Osoitelista…">
+<!ENTITY newListCmd.accesskey                            "O">
 <!ENTITY newAddressBookCmd.label                         "Osoitekirja…">
 <!ENTITY newAddressBookCmd.accesskey                     "s">
 <!ENTITY newLDAPDirectoryCmd.label                       "LDAP-hakemisto…">
@@ -17,6 +17,9 @@
 <!ENTITY newMessageCmd.label                             "Viesti">
 <!ENTITY newMessageCmd.key                               "M">
 <!ENTITY newMessageCmd.accesskey                         "V">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Käytä Mac OS X:n osoitekirjaa">
+<!ENTITY osxAddressBook.accesskey                       "X">
 <!ENTITY closeCmd.label                                  "Sulje">
 <!ENTITY closeCmd.key                                    "W">
 <!ENTITY closeCmd.accesskey                              "S">
@@ -57,11 +60,13 @@
 <!ENTITY pasteCmd.key                                    "V">
 <!ENTITY pasteCmd.accesskey                              "i">
 <!ENTITY deleteCmd.label                                 "Poista">
-<!ENTITY deleteCmd.key                                   "D">
 <!ENTITY deleteCmd.accesskey                             "o">
 <!ENTITY deleteAbCmd.label                               "Poista osoitekirja">
 <!ENTITY deleteCardCmd.label                             "Poista kortti">
 <!ENTITY deleteCardsCmd.label                            "Poista valitut kortit">
+<!ENTITY deleteListCmd.label                            "Poista osoitelista">
+<!ENTITY deleteListsCmd.label                           "Poista osoitelistat">
+<!ENTITY deleteItemsCmd.label                           "Poista kohteet">
 <!ENTITY selectAllCmd.label                              "Valitse kaikki">
 <!ENTITY selectAllCmd.key                                "A">
 <!ENTITY searchAddressesCmd.key                          "f">
@@ -112,7 +117,6 @@
 <!ENTITY exportCmd.label                                 "Vie yhteystietoja…">
 <!ENTITY exportCmd.accesskey                             "V">
 <!ENTITY preferencesCmd.label                            "Asetukset…">
-<!ENTITY preferencesCmd.key                              "O">
 <!ENTITY preferencesCmd.accesskey                        "A">
 <!ENTITY preferencesCmdUnix.label                        "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey                    "A">
@@ -184,18 +188,6 @@
 <!ENTITY _PhoneticName.label                             "Foneettinen nimi">
 <!ENTITY _PhoneticName.accesskey                         "F">
 
-<!-- Results pane context menu -->
-<!ENTITY composeEmail.label                              "Lähetä sähköpostia">
-<!ENTITY composeEmail.accesskey                          "L">
-<!ENTITY deleteAddrBookCard.label                        "Poista">
-<!ENTITY deleteAddrBookCard.accesskey                    "o">
-<!ENTITY newAddrBookCard.label                           "Uusi kortti…">
-<!ENTITY newAddrBookCard.accesskey                       "U">
-<!ENTITY newAddrBookMailingList.label                    "Uusi postituslista…">
-<!ENTITY newAddrBookMailingList.accesskey                "p">
-<!ENTITY addrBookCardProperties.label                    "Ominaisuudet">
-<!ENTITY addrBookCardProperties.accesskey                "n">
-
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                 "Yhteystieto">
@@ -214,8 +206,8 @@
 <!ENTITY statusText.label  "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label  "Ikkuna">
-<!ENTITY minimizeWindow.key  "m">
-<!ENTITY minimizeWindow.label  "Pienennä ikkuna">
-<!ENTITY bringAllToFront.label  "Näytä kaikki">
-<!ENTITY zoomWindow.label  "Suurenna ikkunaa">
+<!ENTITY windowMenu.label "Ikkuna">
+<!ENTITY minimizeWindow.label "Pienennä ikkuna">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Näytä kaikki">
+<!ENTITY zoomWindow.label "Suurenna ikkunaa">

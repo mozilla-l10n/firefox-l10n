@@ -4,6 +4,8 @@
 <!ENTITY searchInput.accesskey              "E">
 <!ENTITY SearchNameOrEmail.label             "Nimestä tai osoitteesta">
 
+<!ENTITY deleteAddrBookCard.label           "Poista">
+<!ENTITY addrBookCardProperties.label       "Ominaisuudet">
 <!ENTITY addtoToFieldMenu.label              "Lisää vastaanottajakenttään">
 <!ENTITY addtoCcFieldMenu.label              "Lisää kopiokenttään">
 <!ENTITY addtoBccFieldMenu.label             "Lisää piilokopiokenttään">

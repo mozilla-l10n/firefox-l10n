@@ -4,10 +4,10 @@
 <!ENTITY  authorName.accesskey       "T">
 <!ENTITY  pageColorHeader            "Sivun oletusulkoasu">
 
-<!ENTITY defaultColorsRadio.label    "Selaimen oletusvärit (älä aseta värejä sivulla)">
-<!ENTITY defaultColors.accesskey     "o">
-<!ENTITY customColorsRadio.label     "Käytä mukautettuja värejä:">
-<!ENTITY customColors.accesskey      "K">
+<!ENTITY defaultColors.label        "Selaimen oletusvärit (älä aseta värejä sivulla)">
+<!ENTITY defaultColors.accesskey    "o">
+<!ENTITY customColors.label         "Käytä mukautettuja värejä:">
+<!ENTITY customColors.accesskey     "K">
 
 <!ENTITY normalText.label            "Normaali teksti">
 <!ENTITY normalText.accesskey        "N">

@@ -43,8 +43,6 @@
 
 <!ENTITY status.label           "Julkaistaan…">
 <!ENTITY fileList.label         "Julkaisun tila">
-<!ENTITY statusHeader.label     "Tila">
-<!ENTITY filenameHeader.label   "Tiedostonimi">
 <!ENTITY succeeded.label        "Onnistui">
 <!ENTITY failed.label           "Epäonnistui">
 

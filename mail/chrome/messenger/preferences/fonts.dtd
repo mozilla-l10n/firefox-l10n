@@ -6,7 +6,6 @@
 <!ENTITY  language.label                           "Merkistö:">
 <!ENTITY  language.accesskey                       "M">
 
-<!ENTITY  typefaces.label                          "Kirjasin">
 <!ENTITY  sizes.label                              "Koko:">
 <!ENTITY  proportionalSize.accesskey              "K">
 <!ENTITY  monospaceSize.accesskey                 "o">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                     "ä">
 <!ENTITY  monospace.label                          "Tasavälinen:">
 <!ENTITY  monospace.accesskey                      "T">
-
-<!ENTITY  fontsize.units                           "kuvapistettä">
 
 <!ENTITY  font.langGroup.latin1                    "Länsimainen">
 <!ENTITY  font.langGroup.latin2                    "Keskieurooppalainen">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label                "Pääteviivallinen">
 <!ENTITY  useDefaultFontSansSerif.label            "Pääteviivaton">
-
-<!ENTITY  newLanguages.label                       "Uusien kielien käytön voi määrittää kielipaneelista">
 
 <!ENTITY  useDocumentFonts.label                   "Sivut voivat käyttää omia kirjasinlajejaan oletusten sijaan">
 <!ENTITY  useDocumentFonts.accesskey               "i">

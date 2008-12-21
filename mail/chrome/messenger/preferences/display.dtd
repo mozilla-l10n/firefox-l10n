@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label              "Muotoilu">
 <!ENTITY itemTags.label                    "Tunnukset">
-<!ENTITY itemFonts.label                   "Kirjasinlajit">
 
-<!ENTITY textBegin.label                   "Lainatun pelkän tekstin ulkoasu">
 <!ENTITY style.label                       "Tyyli:">
 <!ENTITY style.accesskey                   "T">
 <!ENTITY regularStyle.label                "Normaali">
@@ -19,18 +17,16 @@
 <!ENTITY displayWidth.label                "Pelkkä teksti -viestit">
 <!ENTITY plainText.label	           "Käytä seuraavaa kirjasinlajia:">
 <!ENTITY displayText.label	           "Kirjasinlaji lainattaessa pelkkä teksti -viestejä:">
-<!ENTITY viewingPlainText.label	           "Näytettäessä pelkkä teksti -muotoista viestiä:">
 <!ENTITY fixedWidth.label                  "Tasavälinen">
 <!ENTITY fixedWidth.accesskey              "a">
 <!ENTITY variableWidth.label               "Suhteellinen">
 <!ENTITY variableWidth.accesskey           "S">
-<!ENTITY readingMessagesHeader.label       "Saapuville viesteille">
 <!ENTITY colors.label                     "Värit">
 <!ENTITY overrideColors.label             "Käytä seuraavia värejä viestien näyttämiseen:">
-<!ENTITY  textColor.label                 "Tekstin väri:">
-<!ENTITY  textColor.accesskey             "e">
-<!ENTITY  backgroundColor.label           "Taustaväri:">
-<!ENTITY  backgroundColor.accesskey       "u">
+<!ENTITY textColor.label                 "Tekstin väri:">
+<!ENTITY textColor.accesskey             "e">
+<!ENTITY backgroundColor.label           "Taustaväri:">
+<!ENTITY backgroundColor.accesskey       "u">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Näytä hymiöt kuvina">

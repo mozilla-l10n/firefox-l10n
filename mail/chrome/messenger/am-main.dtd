@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label  "Tilien asetukset">
 <!ENTITY accountName.label  "Tilin nimi:">
 <!ENTITY accountName.accesskey  "T">
-<!ENTITY accountNameDesc.label  "Tilin nimeä käytetään yksilöimään eri tilit">
 <!ENTITY identityTitle.label  "Oletuskäyttäjätiedot">
 <!ENTITY identityDesc.label  "Jokaiseen tiliin tallennetaan käyttäjätietosi, jotta viestiesi vastaanottajat tunnistavat sinut.">
 <!ENTITY name.label  "Nimi:">

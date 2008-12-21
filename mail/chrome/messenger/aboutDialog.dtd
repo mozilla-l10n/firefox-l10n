@@ -7,3 +7,4 @@
 <!ENTITY copyrightText          "&#169;1998-2008 Tekijät. Kaikki oikeudet pidätetään. Mozilla Thunderbird ja 
                                  Thunderbird-logo ovat Mozilla-säätiön tavaramerkkejä.
                                  Kaikki oikeudet pidätetään.">
+<!ENTITY cmdCloseMac.commandKey "w">

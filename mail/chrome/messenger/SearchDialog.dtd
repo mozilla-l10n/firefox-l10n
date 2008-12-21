@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey   "a">
 <!ENTITY resetButton.label            "Tyhjennä">
 <!ENTITY resetButton.accesskey        "T">
-<!ENTITY optionsButton.label          "Valinnat">
-<!ENTITY closeButton.label            "Sulje">
 <!ENTITY openButton.label             "Avaa">
 <!ENTITY openButton.accesskey         "v">
 <!ENTITY deleteButton.label           "Poista">
 <!ENTITY deleteButton.accesskey       "o">
 <!ENTITY searchDialogTitle.label      "Etsi viesteistä">
-<!ENTITY conditionDesc.label          "Etsi viestejä, joissa:">
-<!ENTITY conditions.label             "Peruste">
 <!ENTITY results.label                "Tulokset">
 <!ENTITY fileHereMenu.label           "Tallenna tänne">
 <!ENTITY fileHereMenu.accesskey       "T">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label  "Tila">
 <!ENTITY sizeColumn.label  "Koko">
 <!ENTITY junkStatusColumn.label  "Roskapostitila">
-<!ENTITY linesColumn.label  "Rivejä">
 <!ENTITY unreadColumn.label  "Lukematta">
 <!ENTITY totalColumn.label  "Yhteensä">
 <!ENTITY readColumn.label  "Luettu">

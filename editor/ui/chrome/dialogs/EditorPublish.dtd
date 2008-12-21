@@ -72,10 +72,8 @@
 <!ENTITY filename.accesskey           "T">
 <!ENTITY filename.tooltip          "Kirjoita tälle tiedostolle nimi, ja lisää verkkosivuihin ppte &quot;.html&quot;">
 <!ENTITY filenameExample.label     "esim.: &quot;sivuni.html&quot;">
-<!ENTITY relatedDocs.label         "Muita julkaistavia tiedostoja">
 <!ENTITY setDefaultButton.label    "Aseta oletukseksi">
 <!ENTITY setDefaultButton.accesskey   "o">
-<!ENTITY setDefSiteAndDir.label    "Aseta oletussivustoksi ja -hakemistoksi">
 <!ENTITY removeButton.label        "Poista sivusto">
 <!ENTITY removeButton.accesskey       "P">
 

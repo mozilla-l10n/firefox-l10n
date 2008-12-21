@@ -6,6 +6,8 @@
 <!ENTITY viewAll.accesskey "K">
 <!ENTITY viewUnread.label "Lukematta">
 <!ENTITY viewUnread.accesskey "L">
+<!ENTITY viewNotDeleted.label "Ei poistettu">
+<!ENTITY viewNotDeleted.accesskey "E">
 <!ENTITY viewTags.label "Tunnukset">
 <!ENTITY viewTags.accesskey "T">
 <!ENTITY viewCustomViews.label "Omat näkymät">

@@ -35,28 +35,41 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label  "Vastaanottaja: ">
-<!ENTITY fromField.label  "Lähettäjä: ">
-<!ENTITY senderField.label  "Lähettäjä: ">
-<!ENTITY organizationField.label  "Organisaatio: ">
-<!ENTITY replyToField.label  "Vastausosoite: ">
+<!ENTITY toField2.label "vastaanottaja ">
+<!ENTITY fromField2.label "lähettäjä ">
+<!ENTITY senderField2.label "lähettäjä ">
+<!ENTITY organizationField2.label "organisaatio ">
+<!ENTITY replyToField2.label "vastausosoite ">
 
-<!ENTITY subjectField.label  "Aihe: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label  "Kopio: ">
-<!ENTITY bccField.label  "Piilokopio: ">
-<!ENTITY newsgroupsField.label  "Ryhmät: ">
-<!ENTITY followupToField.label  "Vastausryhmä: ">
-<!ENTITY tagsHdr.label "Avainsanat: ">
-<!ENTITY dateField.label  "Päiväys: ">
-<!ENTITY userAgentField.label  "Asiakasohjelma: ">
-<!ENTITY referencesField.label "Viittaukset: ">
-<!ENTITY messageIdField.label "Viestitunnus: ">
-<!ENTITY inReplyToField.label "Vastausosoitteena: ">
-<!ENTITY originalWebsite.label  "Verkkosivu: ">
-<!ENTITY saveAll.label  "Tallenna kaikki..">
+<!ENTITY subjectField2.label "aihe ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "kopio ">
+<!ENTITY bccField2.label "piilokopio ">
+<!ENTITY newsgroupsField2.label "ryhmät ">
+<!ENTITY followupToField2.label "vastausryhmä ">
+<!ENTITY tagsHdr2.label "avainsanat ">
+<!ENTITY dateField2.label "päiväys ">
+<!ENTITY userAgentField2.label "asiakasohjelma ">
+<!ENTITY referencesField2.label "viittaukset ">
+<!ENTITY messageIdField2.label "viestitunnus ">
+<!ENTITY inReplyToField2.label "vastauksena viestiin ">
+<!ENTITY originalWebsite2.label "verkkosivu ">
 
-<!ENTITY editMessage.label  "Muokkaa luonnosta…">
+<!ENTITY editMessageDescription.label "Tämä on luonnos">
+<!ENTITY editMessageButton.label "Muokkaa…">
+<!ENTITY replyButton.label "Vastaa…">
+<!ENTITY forwardButton.label "välitä…">
+<!ENTITY junkButton.label "merkitse roskapostiksi">
+<!ENTITY trashButton.tooltiptext "poista">
+
+<!ENTITY otherActionsButton.label "muut toiminnot">
+<!ENTITY saveAsMenuItem.label "tallenna nimellä…">
+<!ENTITY saveAsMenuItem.accesskey "t">
+<!ENTITY viewSourceMenuItem.label "näytä lähdekoodi…">
+<!ENTITY viewSourceMenuItem.accesskey "n">
+
+<!ENTITY hideDetailsButton.label "piilota tiedot">
+<!ENTITY showDetailsButton.label "näytä tiedot">
 
 <!ENTITY openAttachmentCmd.label     "Avaa">
 <!ENTITY openAttachmentCmd.accesskey		 "A">

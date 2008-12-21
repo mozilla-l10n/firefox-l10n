@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Muokkaa…">
 <!ENTITY customizeMailAlert.accesskey     "M">
 
-<!ENTITY soundNotification1.caption       "Ääni">
 <!ENTITY play.label                       "Toista">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Järjestelmän oletusäänimerkki uudelle sähköpostille">
@@ -41,3 +40,8 @@
 <!ENTITY browse.label                     "Selaa…">
 <!ENTITY browse.accesskey                 "S">
 
+<!ENTITY addonsMgr.label                  "Lisäosat">
+<!ENTITY manageAddonsDescWin.label        "Muokkaa lisäosia ja lisäosien asetuksia">
+<!ENTITY manageAddonsDescUnix2.label      "Muokkaa lisäosia ja lisäosien asetuksia">
+<!ENTITY manageAddons.label               "Hallinnoi lisäosia…">
+<!ENTITY manageAddons.accesskey           "M">

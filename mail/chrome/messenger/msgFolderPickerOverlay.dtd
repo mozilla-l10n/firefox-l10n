@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label			 "valitse tämä keskusteluryhmäpalvelin">
-<!ENTITY subscribeclickhere.label			 "napsauta tästä valitaksesi keskusteluryhmäpalvelimen">
 <!ENTITY newfolderchoosethis.label			 "valitse tämä yläkansioksi">
-<!ENTITY newfolderclickhere.label			 "napsauta tästä valitaksesi">
-<!ENTITY renamefolderchoosethis.label			 "valitse tämä kansio">
-<!ENTITY renamefolderclickhere.label			 "napsauta tästä valitaksesi kansion">
 <!ENTITY filemessageschoosethis.label			 "valitse tämä kansio">
-<!ENTITY filemessagesclickhere.label			 "napsauta tästä valitaksesi kansion">
-<!ENTITY chooseaccountclickhere.label			 "Napsauta tästä valitaksesi tilin">
-<!ENTITY choosefolderclickhere.label			 "napsauta tästä valitaksesi kansion">
-<!ENTITY chooseserverToDeferTo.label       "napsauta tästä valitaksesi tilin, jolle viestit tallennetaan">

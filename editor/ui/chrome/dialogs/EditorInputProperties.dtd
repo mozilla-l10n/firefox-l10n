@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label  "Kentän asetukset">
 <!ENTITY InputName.label  "Kentän nimi:">
+<!ENTITY InputName.accesskey "n">
 <!ENTITY GroupName.label  "Ryhmän nimi:">
-<!ENTITY Name.accesskey  "n">
+<!ENTITY GroupName.accesskey "n">
 <!ENTITY InputValue.label  "Kentän arvo:">
+<!ENTITY InputValue.accesskey "a">
 <!ENTITY InitialValue.label  "Alkuarvo:">
-<!ENTITY Value.accesskey  "a">
+<!ENTITY InitialValue.accesskey "a">
 <!ENTITY InputChecked.label  "Aluksi valittuna">
 <!ENTITY InputChecked.accesskey  "A">
 <!ENTITY InputSelected.label  "Aluksi valittuna">
