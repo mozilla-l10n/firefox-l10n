@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label  "Tee uudelleen Siirrä viesti">
 <!ENTITY undoCopyMsgCmd.label  "Kumoa Kopioi viesti">
 <!ENTITY redoCopyMsgCmd.label  "Tee uudelleen Kopioi viesti">
+<!ENTITY undoMarkAllCmd.label "Kumoa merkitse kaikki luetuksi">
+<!ENTITY redoMarkAllCmd.label "Tee uudestaan merkitse kaikki luetuksi">
 <!ENTITY undoDefaultCmd.label  "Kumoa">
 <!ENTITY undoDefaultCmd.accesskey  "m">
 <!ENTITY redoDefaultCmd.label  "Tee uudelleen">
@@ -280,9 +282,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.key  "n">
 <!ENTITY nextStarredMsgCmd.label  "Tähdellä merkitty viesti">
 <!ENTITY nextStarredMsgCmd.accesskey  "T">
-<!ENTITY nextUnreadThread.label  "Lukematon viestiketju">
-<!ENTITY nextUnreadThreadCmd.accesskey  "k">
-<!ENTITY nextUnreadThreadCmd.key  "t">
+<!ENTITY nextUnreadThread.label "Lukematon viestiketju">
+<!ENTITY nextUnreadThread.accesskey "k">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label  "Edellinen">
 <!ENTITY prevMenu.accesskey  "E">
 <!ENTITY prevMsgCmd.label  "Viesti">
@@ -331,14 +333,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key  "e">
 <!ENTITY createFilter.label  "Luo viestistä suodatin…">
 <!ENTITY createFilter.accesskey  "d">
-<!ENTITY moveMsgMenu.label  "Siirrä">
-<!ENTITY moveMsgMenu.accesskey  "S">
+<!ENTITY moveMsgToMenu.label "Siirrä">
+<!ENTITY moveMsgToMenu.accesskey "S">
 <!ENTITY moveCopyMsgRecentMenu.label "Tuoreet">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "T">
 <!ENTITY copyMessageLocation.label  "Kopioi viestin sijainti">
 <!ENTITY copyMessageLocation.accesskey  "o">
-<!ENTITY copyMsgMenu.label  "Kopioi">
-<!ENTITY copyMsgMenu.accesskey  "K">
+<!ENTITY copyMsgToMenu.label "Kopioi">
+<!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Siirrä uudestaan">
 <!ENTITY moveToFolderAgain.accesskey "u">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -622,6 +624,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "Tämä viesti voi olla huijaus">
 <!ENTITY removePhishingBarButton1.label "Ohita varoitus">
 <!ENTITY reportPhishingError1.label "Tämä ei ole huijausyritys">
+
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "lisää">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key  "k">

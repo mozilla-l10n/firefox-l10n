@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key  "M">
 <!ENTITY newMessageCmd2.key  "N">
 <!ENTITY newMessage.accesskey  "V">
-<!ENTITY newCard.label  "Osoitekirjan kortti…">
-<!ENTITY newCard.accesskey  "O">
+<!ENTITY newContact.label "Yhteystieto…">
+<!ENTITY newContact.accesskey "Y">
 <!ENTITY attachMenu.label  "Liitä">
 <!ENTITY attachMenu.accesskey  "L">
 <!ENTITY attachFileCmd.label  "Tiedostot…">
@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label  "Tulosta…">
 <!ENTITY printCmd.key  "P">
 <!ENTITY printCmd.accesskey  "o">
-<!ENTITY quitApplicationCmdWin.label                     "Lopeta">
-<!ENTITY quitApplicationCmdWin.accesskey                 "L">
-<!ENTITY quitApplicationCmd.label                        "Lopeta">
-<!ENTITY quitApplicationCmd.accesskey                    "L">
-<!ENTITY quitApplicationCmd.key  "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label  "Muokkaa">
@@ -97,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label  "Työkalupalkit">
 <!ENTITY viewToolbarsMenuNew.accesskey  "T">
 <!ENTITY showCompositionToolbarCmd.label "Viestin kirjoituspalkki">
+<!ENTITY showCompositionToolbarCmd.accesskey "V">
 <!ENTITY showFormattingBarCmd.label "Muotoilupalkki">
 <!ENTITY showFormattingBarCmd.accesskey "M">
 <!ENTITY showTaskbarCmd.label  "Tilarivi">

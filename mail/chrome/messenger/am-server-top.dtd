@@ -41,10 +41,7 @@
 <!ENTITY deleteOnServer2.accesskey "a">
 <!ENTITY downloadOnBiff.label  "Nouda uudet viestit automaattisesti">
 <!ENTITY downloadOnBiff.accesskey  "N">
-<!ENTITY hostname.label  "Palvelimen nimi">
 <!ENTITY username.label  "Käyttäjätunnuksesi">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label  "POP-palvelimen tiedot">
 <!ENTITY deleteMessagePrefix.label  "Kun viesti poistetaan:">
 <!ENTITY modelMoveToTrash.label  "Siirrä viesti roskakoriin">
 <!ENTITY modelMoveToTrash.accesskey "i">

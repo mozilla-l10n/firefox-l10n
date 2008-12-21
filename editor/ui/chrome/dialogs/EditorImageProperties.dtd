@@ -78,6 +78,8 @@
 <!ENTITY imagemapBox.label  "Kuvan kartta">
 <!ENTITY removeImageMapButton.label  "Poista">
 <!ENTITY removeImageMapButton.accessKey  "P">
+<!ENTITY editImageMapButton.label "Muokkaa…">
+<!ENTITY editImageMapButton.tooltip "Luo kuvalle napsautettavat kuva-alueet">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label  "Linjaa teksti kuvaan">
@@ -99,10 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label  "Näytä linkkikuvan ympärillä reunus">
 <!ENTITY showImageLinkBorder.accessKey  "N">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY editImageButton.label  "Muokkaa kuvaa">
-<!ENTITY editImageButton.tooltip  "Muokkaa kuvaa toisessa ohjelmassa">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label  "Lomake">

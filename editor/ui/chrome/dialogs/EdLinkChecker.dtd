@@ -38,9 +38,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label      "Tarkista kuvien ja linkkien sijainnit">
-<!ENTITY urlsNotFound.label    "Seuraavien kuvien tai linkkien osoitteet eivät johtaneet mihinkään:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = file not found, &quot;?&quot; = timed-out attempting to connect.)">
-<!ENTITY changeUrlButton.label "Muokkaa valitun kohteen osoitetta">
 <!ENTITY succeeded.label        "Onnistui">
 <!ENTITY failed.label           "Epäonnistui">
 <!ENTITY closeButton.label      "Sulje">

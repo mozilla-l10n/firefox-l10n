@@ -3,6 +3,5 @@
 <!ENTITY  newMessageCmd.label              "Viesti">
 <!ENTITY  newMessageCmd.accesskey          "V">
  
-<!ENTITY  newCardCmd.label                 "Osoitekirjan kortti…">
-<!ENTITY  newCardCmd.accesskey             "O">
- 
+<!ENTITY  newContactCmd.label             "Osoitekirjan yhteystieto…">
+<!ENTITY  newContactCmd.accesskey         "O">

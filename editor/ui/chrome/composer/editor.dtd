@@ -55,11 +55,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Muotoilu">
 <!ENTITY formatMenu.accesskey "u">
-
-<!ENTITY helpMenu.label "Ohje">
-<!ENTITY aboutCmd.label ".Tietoja">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Muokkaustila:">
-
-<!ENTITY statusText.label "Sivu ladattu">

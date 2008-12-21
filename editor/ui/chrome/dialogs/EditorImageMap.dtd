@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Lähennä">
 <!ENTITY zoomoutCmd.label "Loitonna">
-<!ENTITY delSpotCmd.label "Poista piste">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">
