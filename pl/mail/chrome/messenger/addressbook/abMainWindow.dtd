@@ -131,9 +131,9 @@
 <!ENTITY throbberItem.title         "Wskaźnik aktywności">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip "Dodaj nowy kontakt do książki adresowej">
+<!ENTITY newContactButton.tooltip "Dodaj nową wizytówkę do książki adresowej">
 <!ENTITY newlistButton.tooltip    "Dodaj nową listę dystrybucyjną">
-<!ENTITY editButton2.tooltip      "Edytuj informacje kontaktowe wybranej wizytówki">
+<!ENTITY editButton2.tooltip      "Edytuj zaznaczony element">
 <!ENTITY newmsgButton.tooltip     "Wyślij wiadomość">
 <!ENTITY newIM.tooltip            "Połącz z adresatem za pomocą komunikatora">
 <!ENTITY deleteButton2.tooltip    "Usuń zaznaczony element">
