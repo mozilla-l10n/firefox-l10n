@@ -1,4 +1,19 @@
 <!ENTITY history.label "Историја">
+
+<!ENTITY  locbar.pre.label              "Кога ја користите локациската лента, предлози од:">
+<!ENTITY  locbar.pre.accessKey          "з">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Историја и Обележувачи">
+<!ENTITY  locbar.history.label          "Историја">
+<!ENTITY  locbar.bookmarks.label        "Обележувачи">
+<!ENTITY  locbar.nothing.label          "Ништо">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
 <!ENTITY rememberDaysBefore.label "Чувај ја историјата најмалку">
 <!ENTITY rememberDaysBefore.accesskey "и">
 <!ENTITY rememberDaysAfter2.label "денови">
