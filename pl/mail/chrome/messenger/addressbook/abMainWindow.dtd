@@ -136,7 +136,7 @@
 <!ENTITY editButton2.tooltip      "Edytuj informacje kontaktowe wybranej wizytówki">
 <!ENTITY newmsgButton.tooltip     "Wyślij wiadomość">
 <!ENTITY newIM.tooltip            "Połącz z adresatem za pomocą komunikatora">
-<!ENTITY deleteButton2.tooltip    "Usuń wybraną pozycję">
+<!ENTITY deleteButton2.tooltip    "Usuń zaznaczony element">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label "Książki adresowe">
