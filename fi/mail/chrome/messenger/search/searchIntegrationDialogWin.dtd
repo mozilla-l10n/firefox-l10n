@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "Windowsin haku">
+<!ENTITY searchIntegration.title "&searchIntegration.engineName; Integraatio">
+<!ENTITY searchIntegration.description "Luetteloidaanko ja haetaanko &brandShortName;in sähköposteja ja keskusteluryhmäviestejä Käytetäänkö toiminnolla &searchIntegration.engineName;?">
+
+<!ENTITY searchIntegration.accept "Ota käyttöön &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Älä ota käyttöön &searchIntegration.engineName;">

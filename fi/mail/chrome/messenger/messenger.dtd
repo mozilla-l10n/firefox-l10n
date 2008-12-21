@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label  "Kansio…">
 <!ENTITY newFolderCmd.accesskey  "K">
-<!ENTITY newTabCmd.label "Uusi välilehti">
-<!ENTITY newTabCmd.accesskey "v">
 <!ENTITY closeTabCmd.label "Sulje välilehti">
 <!ENTITY closeTabCmd.accesskey "S">
 <!ENTITY newVirtualFolderCmd.label  "Tallennettu haku…">
 <!ENTITY newVirtualFolderCmd.accesskey  "h">
 <!ENTITY newAccountCmd.label  "Tili…">
 <!ENTITY newAccountCmd.accesskey  "T">
-<!ENTITY openMessageMenu.label  "Avaa">
 <!ENTITY openMessageFileCmd.label  "Avaa tallennettu viesti…">
 <!ENTITY openMessageFileCmd.accesskey  "A">
 <!ENTITY openAttachmentCmd.label  "Liitetiedostot">
@@ -25,24 +22,26 @@
 <!ENTITY saveAsFileCmd.key  "s">
 <!ENTITY saveAsTemplateCmd.label  "Mallipohja">
 <!ENTITY saveAsTemplateCmd.accesskey  "M">
-<!ENTITY getNewMsgCmd.label  "Nouda uudet viestit">
-<!ENTITY getNewMsgCmd.accesskey  "v">
 <!ENTITY getNewMsgCmd.key  "t">
-<!ENTITY getNewMsgForCmd.label  "Nouda uudet viestit kohteelle">
+<!ENTITY getNewMsgForCmd.label  "Nouda uudet viestit tilille">
 <!ENTITY getNewMsgForCmd.accesskey  "d">
-<!ENTITY getAllNewMsgCmd.label  "Nouda kaikki uudet viestit">
-<!ENTITY getAllNewMsgCmd.key  "t">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Kaikki tilit">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "K">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Valittu tili">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "V">
 <!ENTITY getNextNMsgCmd.label  "Nouda seuraavat 500 viestiä">
 <!ENTITY getNextNMsgCmd.accesskey  "d">
 <!ENTITY sendUnsentCmd.label  "Lähetä lähtevät viestit">
 <!ENTITY sendUnsentCmd.accesskey  "ä">
 <!ENTITY subscribeCmd.label  "Tilaa…">
 <!ENTITY subscribeCmd.accesskey  "T">
+<!ENTITY deleteFolder.label "Poista kansio">
+<!ENTITY deleteFolder.accesskey "P">
 <!ENTITY renameFolder.label  "Nimeä kansio uudelleen…">
 <!ENTITY renameFolder.accesskey  "m">
 <!ENTITY renameFolder.key  "VK_F2">
 <!ENTITY compactFolders.label  "Tiivistä kansiot">
-<!ENTITY compactFolder.accesskey		 "k">
+<!ENTITY compactFolders.accesskey		 "k">
 <!ENTITY emptyTrashCmd.label  "Tyhjennä roskakori">
 <!ENTITY emptyTrashCmd.accesskey		 "r">
 <!ENTITY importCmd.label  "Tuo toisista ohjelmista…">
@@ -64,7 +63,6 @@
 <!ENTITY printCmd.key  "p">
 <!ENTITY printPreviewCmd.label  "Tulostuksen esikatselu">
 <!ENTITY printPreviewCmd.accesskey  "k">
-<!ENTITY printPreviewCmd.key  "v">
 <!ENTITY printSetupCmd.label  "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey  "e">
 
@@ -92,6 +90,8 @@
 <!ENTITY selectThreadCmd.label  "Viestiketju">
 <!ENTITY selectThreadCmd.accesskey  "V">
 <!ENTITY selectThreadCmd.key  "a">
+<!ENTITY selectFlaggedCmd.label "Tähdellä merkityt viestit">
+<!ENTITY selectFlaggedCmd.accesskey "T">
 <!ENTITY menuFavoriteFolder.label "Merkitse suosikkikansioksi">
 <!ENTITY menuFavoriteFolder.accesskey "r">
 <!ENTITY folderPropsCmd.label  "Ominaisuudet…">
@@ -126,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey  "L">
 <!ENTITY messagePaneVertical.label  "Pystysuora">
 <!ENTITY messagePaneVertical.accesskey  "s">
-<!ENTITY threadPaneWide.label "Leveä viestilista">
-<!ENTITY threadPaneWide.accesskey "e">
 <!ENTITY showMessageCmd.label  "Viestipaneeli">
 <!ENTITY showMessageCmd.accesskey  "V">
 
@@ -183,15 +181,12 @@
 <!ENTITY sortUnthreaded.accesskey  "Y">
 <!ENTITY groupBySort.label  "Lajin mukaan ryhmiteltynä">
 <!ENTITY groupBySort.accesskey  "m">
-<!ENTITY groupBySortCmd.key  "G">
 <!ENTITY msgsMenu.label  "Viestit">
 <!ENTITY msgsMenu.accesskey  "V">
 <!ENTITY threads.label  "Viestiketjut">
 <!ENTITY threads.accesskey  "s">
 <!ENTITY allMsgsCmd.label  "Kaikki">
 <!ENTITY allMsgsCmd.accesskey  "K">
-<!ENTITY expandOrCollapseMenu.label  "Laajenna/Supista">
-<!ENTITY expandOrCollapseMenu.accesskey  "a">
 <!ENTITY expandAllThreadsCmd.label  "Laajenna kaikki viestiketjut">
 <!ENTITY expandAllThreadsCmd.accesskey  "a">
 <!ENTITY expandAllThreadsCmd.key  "*">
@@ -222,31 +217,39 @@
 <!ENTITY bodyAsPlaintext.accesskey  "P">
 <!ENTITY viewAttachmentsInlineCmd.label  "Näytä liitteet viestiin sisällytettynä">
 <!ENTITY viewAttachmentsInlineCmd.accesskey  "N">
-<!ENTITY reloadCmd.label  "Päivitä">
-<!ENTITY reloadCmd.accesskey  "ä">
-<!ENTITY stopCmd.label  "Pysäytä">
-<!ENTITY stopCmd.accesskey  "y">
-<!ENTITY textZoomEnlargeCmd.label  "Suurempi">
-<!ENTITY textZoomEnlargeCmd.accesskey  "S">
-<!ENTITY textZoomEnlargeCmd.commandkey  "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label  "Pienempi">
-<!ENTITY textZoomReduceCmd.accesskey  "P">
-<!ENTITY textZoomReduceCmd.commandkey  "-">
-<!ENTITY textZoomResetCmd.commandkey  "0">
-<!ENTITY textZoomResetCmd.label      "Normaali">
-<!ENTITY textZoomResetCmd.accesskey  "N">
-<!ENTITY textSize.label              "Tekstin koko">
-<!ENTITY textSize.accesskey              "e">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "Suurenna">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "S">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Pienennä">
+<!ENTITY fullZoomReduceCmd.accesskey    "P">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Palauta ">
+<!ENTITY fullZoomResetCmd.accesskey     "a">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Muuta vain tekstin kokoa">
+<!ENTITY fullZoomToggleCmd.accesskey    "M">
+<!ENTITY fullZoom.label                 "Viestin suurennus">
+<!ENTITY fullZoom.accesskey             "V">
 
 <!ENTITY pageSourceCmd.label  "Viestin lähdekoodi">
 <!ENTITY pageSourceCmd.accesskey  "k">
 <!ENTITY pageSourceCmd.key  "u">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label  "Etsi">
-<!ENTITY searchMenu.accesskey  "E">
-
 <!ENTITY findMenu.label "Etsi">
 <!ENTITY findMenu.accesskey "E">
 <!ENTITY findCmd.label  "Etsi tästä viestistä…">
@@ -342,6 +345,9 @@
 <!ENTITY killThreadMenu.label  "Ohita viestiketju">
 <!ENTITY killThreadMenu.accesskey  "h">
 <!ENTITY killThreadMenu.key  "k">
+<!ENTITY killSubthreadMenu.label "Ohita aliketju">
+<!ENTITY killSubthreadMenu.accesskey "a">
+<!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label  "Seuraa viestiketjua">
 <!ENTITY watchThreadMenu.accesskey  "u">
 <!ENTITY watchThreadMenu.key  "w">
@@ -366,8 +372,6 @@
 <!ENTITY markAsReadCmd.label  "Luetuksi">
 <!ENTITY markAsReadCmd.accesskey  "L">
 <!ENTITY markAsReadCmd.key  "m">
-<!ENTITY markAsUnreadCmd.label  "Lukematta olevaksi">
-<!ENTITY markAsUnreadCmd.accesskey  "">
 <!ENTITY markThreadAsReadCmd.label  "Viestiketju luetuksi">
 <!ENTITY markThreadAsReadCmd.accesskey  "V">
 <!ENTITY markThreadAsReadCmd.key  "r">
@@ -394,7 +398,6 @@
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label  "Ikkuna">
-<!ENTITY windowMenu.accesskey  "I">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label  "Työkalut">
@@ -407,8 +410,6 @@
 <!ENTITY addressBookCmd.label  "Osoitekirja">
 <!ENTITY addressBookCmd.accesskey  "O">
 <!ENTITY addressBookCmd.commandkey  "2">
-<!ENTITY junkMailCmd.label  "Roskapostiasetukset…">
-<!ENTITY junkMailCmd.accesskey  "R">
 <!ENTITY runJunkControls.label  "Tunnista kansion roskapostit">
 <!ENTITY runJunkControls.accesskey  "u">
 <!ENTITY deleteJunk.label  "Poista kansiosta roskapostiviestiksi merkityt">
@@ -419,6 +420,10 @@
 <!ENTITY filtersCmd.accesskey  "V">
 <!ENTITY filtersApply.label  "Suodata kansion viestit">
 <!ENTITY filtersApply.accesskey  "S">
+<!ENTITY filtersApplyToSelection.label "Suodata valitut viestit">
+<!ENTITY filtersApplyToSelection.accesskey "u">
+<!ENTITY filtersApplyToMessage.label "Suorita suodattimet viestille">
+<!ENTITY filtersApplyToMessage.accesskey "u">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label  "Nouda viestit">
@@ -432,11 +437,11 @@
 <!ENTITY backButton1.label "Siirry edelliseen">
 <!ENTITY goForwardButton1.label "Siirry seuraavaan">
 <!ENTITY deleteButton.label  "Poista">
+<!ENTITY undeleteButton.label "Peru poistaminen">
 <!ENTITY markButton.label  "Merkitse">
 <!ENTITY printButton.label  "Tulosta">
 <!ENTITY stopButton.label  "Pysäytä">
 <!ENTITY throbberItem.title  "Toimintaindikaattori">
-<!ENTITY updatesItem.title   "Päivityksiä">
 <!ENTITY junkButton.label  "Roskapostiksi">
 <!ENTITY notJunkButton.label  "Ei roskapostia">
 <!ENTITY addressBookButton.label  "Osoitekirja">
@@ -444,11 +449,14 @@
 <!ENTITY mailViewsToolbarItem.title "Viestinäkymät">
 <!ENTITY folderLocationToolbarItem.title "Kansion sijainti">
 <!ENTITY tagButton.label "Tunnus">
+<!ENTITY compactButton.label "Tiivistä">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip  "Tarkennettu viestien haku">
-<!ENTITY clearButton.tooltip  "Tyhjennä hakuehdot ja näytä kaikki viestit">
 <!ENTITY getMsgButton.tooltip  "Nouda uudet viestit">
+<!ENTITY getAllNewMsgCmd.label "Hae kaikki uudet viestit">
+<!ENTITY getAllNewMsgCmd.accesskey "H">
+<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip  "Luo uusi viesti">
 <!ENTITY replyButton.tooltip  "Vastaa viestiin">
 <!ENTITY replyAllButton.tooltip  "Vastaa lähettäjälle ja kaikille vastaanottajille">
@@ -459,6 +467,7 @@
 <!ENTITY goForwardButton.tooltip "Siirry seuraavaan viestiin">
 <!ENTITY goBackButton.tooltip "Siirry edelliseen viestiin">
 <!ENTITY deleteButton.tooltip  "Poista valittu viesti tai kansio">
+<!ENTITY undeleteButton.tooltip "Peru valitun viestin poistaminen">
 <!ENTITY markButton.tooltip  "Merkitse viestit">
 <!ENTITY printButton.tooltip  "Tulosta viesti">
 <!ENTITY stopButton.tooltip  "Keskeytä lataus">
@@ -466,6 +475,7 @@
 <!ENTITY notJunkButton.tooltip  "Merkitse valitut viestit Ei roskapostiksi">
 <!ENTITY addressBookButton.tooltip  "Siirry osoitekirjaan">
 <!ENTITY tagButton.tooltip "Aseta viesteihin tunnuksia">
+<!ENTITY compactButton.tooltip "Poista poistettu viesti valitusta kansiosta">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Uusi tunnus…">
@@ -510,19 +520,20 @@
 <!ENTITY folderContextProperties.accesskey  "O">
 <!ENTITY folderContextFavoriteFolder.label "Suosikkikansio">
 <!ENTITY folderContextFavoriteFolder.accesskey "S">
+<!ENTITY folderContextSettings.label "Asetukset…">
+<!ENTITY folderContextSettings.accesskey "A">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label  "Nimi- tai sähköpostikentässä:">
 <!ENTITY SearchNameOrEmail.accesskey  "N">
-<!ENTITY clearButton.label  "Tyhjennä">
-<!ENTITY clearButton.accesskey  "T">
 
 <!-- Quick Search Menu Bar -->
-<!ENTITY searchSubjectMenu.label  "Aiheista">
-<!ENTITY searchFromMenu.label  "Lähettäjistä">
-<!ENTITY searchSubjectOrFromMenu.label  "Aiheista tai lähettäjistä">
+<!ENTITY searchSubjectMenu.label  "Aihe">
+<!ENTITY searchFromMenu.label  "Lähettäjä">
+<!ENTITY searchSubjectOrFromMenu.label  "Aihe tai lähettäjä">
 <!ENTITY searchRecipient.label  "Vastaanottaja tai kopio">
-<!ENTITY searchMessageBody.label  "Koko viesteistä">
+<!ENTITY searchSubjectOrRecipientMenu.label "Aihe, vastaanottaja tai kopio">
+<!ENTITY searchMessageBody.label  "Koko viestit">
 <!ENTITY saveAsVirtualFolderMenu.label  "Tallenna haku kansiona…">
 
 <!-- Thread Pane -->
@@ -537,7 +548,6 @@
 <!ENTITY statusColumn.label  "Tila">
 <!ENTITY sizeColumn.label  "Koko">
 <!ENTITY junkStatusColumn.label  "Roskapostitila">
-<!ENTITY linesColumn.label  "Rivejä">
 <!ENTITY unreadColumn.label  "Lukematta">
 <!ENTITY totalColumn.label  "Yhteensä">
 <!ENTITY readColumn.label  "Luettu">
@@ -598,8 +608,6 @@
 <!ENTITY contextPrint.accesskey  "o">
 <!ENTITY contextPrintPreview.label  "Tulostuksen esikatselu">
 <!ENTITY contextPrintPreview.accesskey "u">
-<!ENTITY contextDelete.label  "Poista">
-<!ENTITY contextDelete.accesskey  "P">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Roskapostia">
@@ -608,12 +616,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label  "Viestiin linkitettyjä kuvia ei ladattu tietosuojan takia.">
-<!ENTITY loadRemoteContentButton1.label  "Lataa kuvat">
+<!ENTITY loadRemoteContentButton2.label  "Lataa kuvat nyt">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Epäilty sähköpostihuijaus">
+<!ENTITY phishingBarMessage2.label "Tämä viesti voi olla huijaus">
 <!ENTITY removePhishingBarButton1.label "Ohita varoitus">
-<!ENTITY reportPhishingError.label "Tämä ei ole huijausyritys">
+<!ENTITY reportPhishingError1.label "Tämä ei ole huijausyritys">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key  "k">
@@ -621,22 +629,26 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label  "Lisää osoitekirjaan…">
 <!ENTITY AddToAddressBook.accesskey  "L">
+<!ENTITY AddDirectlyToAddressBook.label "Lisää osoitekirjaan">
+<!ENTITY AddDirectlyToAddressBook.accesskey "L">
+<!ENTITY EditContact.label "Muokkaa yhteystietoja…">
+<!ENTITY EditContact.accesskey "M">
+<!ENTITY ViewContact.label "Näytä yhteystiedot">
+<!ENTITY ViewContact.accesskey "N">
 <!ENTITY SendMailTo.label  "Lähetä viesti">
 <!ENTITY SendMailTo.accesskey  "ä">
 <!ENTITY CopyEmailAddress.label  "Kopioi sähköpostiosoite">
 <!ENTITY CopyEmailAddress.accesskey  "K">
-<!ENTITY CreateFilter.label  "Luo viestistä suodatin…">
-<!ENTITY CreateFilter.accesskey  "u">
-<!ENTITY BlockAddress.label  "Estä osoite">
-<!ENTITY BlockAddress.accesskey  "E">
+<!ENTITY CreateFilterFrom.label "Luo viestistä suodatin…">
+<!ENTITY CreateFilterFrom.accesskey "u">
 <!ENTITY reportPhishingURL.label "Ilmoita sähköpostihuijauksesta">
 <!ENTITY reportPhishingURL.accesskey "I">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Tallenna kohde">
-<!ENTITY saveLinkCmd.accesskey "T">
-<!ENTITY saveImageCmd.label "Tallenna kuva">
-<!ENTITY saveImageCmd.accesskey "a">
+<!ENTITY saveLinkAsCmd.label "Tallenna kohde nimellä…">
+<!ENTITY saveLinkAsCmd.accesskey "T">
+<!ENTITY saveImageAsCmd.label "Tallenna kuva nimellä…">
+<!ENTITY saveImageAsCmd.accesskey "a">
 <!ENTITY copyCmd.label "Kopioi">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Valitse kaikki">
@@ -652,8 +664,8 @@
 <!ENTITY statusText.label  "Valmis">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.key  "m">
 <!ENTITY minimizeWindow.label  "Pienennä ikkuna">
+<!ENTITY minimizeWindow.key  "m">
 <!ENTITY bringAllToFront.label  "Näytä kaikki">
 <!ENTITY zoomWindow.label  "Suurenna ikkunaa">
 

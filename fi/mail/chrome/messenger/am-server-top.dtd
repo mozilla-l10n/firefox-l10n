@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label  "Turva-asetukset">
 <!ENTITY serverSettings.label  "Palvelimen asetukset">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label  "POP-sähköpostipalvelin">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label  "IMAP-sähköpostipalvelin">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label  "Keskusteluryhmäpalvelin (NNTP)">
-<!ENTITY webmail.label  "WebMail-tili">
 <!ENTITY serverType.label  "Palvelintyyppi:">
 <!ENTITY serverName.label  "Palvelin:">
 <!ENTITY serverName.accesskey  "P">
@@ -26,8 +19,6 @@
 <!ENTITY biffStart.label  "Hae uusia viestejä">
 <!ENTITY biffStart.accesskey  "H">
 <!ENTITY biffEnd.label  "minuutin välein">
-<!ENTITY isSecure.label  "Käytä suojattua yhteyttä (SSL)">
-<!ENTITY isSecure.accesskey  "ä">
 <!ENTITY socketType.label  "Käytä suojattua yhteyttä:">
 <!ENTITY neverSecure.label  "Ei koskaan">
 <!ENTITY neverSecure.accesskey  "E">
@@ -79,9 +70,7 @@
 <!ENTITY alwaysAuthenticate.label  "Vaadi todennusta otettaessa yhteyttä tähän palvelimeen">
 <!ENTITY alwaysAuthenticate.accesskey  "V">
 <!ENTITY newsrcFilePath.label  "newsrc-tiedosto:">
-<!ENTITY newsrcFilePath.accesskey  "n">
 <!ENTITY localPath.label  "Paikallinen hakemisto:">
-<!ENTITY localPath.accesskey  "a">
 <!ENTITY abbreviate.label  "Näytä keskusteluryhmien nimet Postikansiot-paneelissa">
 <!ENTITY abbreviateOn.label  "Kokonaisina (esimerkiksi netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label  "Lyhennä nimet (esimerkiksi &quot;n.p.m.mail-news&quot;)">

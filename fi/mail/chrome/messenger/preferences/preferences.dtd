@@ -7,7 +7,6 @@
 
 <!ENTITY paneGeneral.title         "Yleiset">
 <!ENTITY paneDisplay.title         "Viestin näyttö">
-<!ENTITY paneTags.title           "Tunnukset">
 <!ENTITY paneComposition.title     "Viestin kirjoitus">
 <!ENTITY paneAttachments.title     "Liitetiedostot">
 <!ENTITY panePrivacy.title         "Tietosuoja">

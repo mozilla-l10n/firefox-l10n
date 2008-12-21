@@ -6,12 +6,8 @@
 <!ENTITY addAccountButton.accesskey  "L">
 <!ENTITY setDefaultButton.label  "Aseta oletukseksi">
 <!ENTITY setDefaultButton.accesskey  "o">
-<!ENTITY duplicateButton.label  "Kopioi">
 <!ENTITY removeButton.label  "Poista tili">
 <!ENTITY removeButton.accesskey  "o">
-
-<!ENTITY nameCol.label  "Nimi">
-<!ENTITY duplicate.label  "Kopioi">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

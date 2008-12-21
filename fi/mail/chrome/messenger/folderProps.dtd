@@ -49,16 +49,14 @@
 <!ENTITY folderRebuildSummaryFile.accesskey      "h">
 <!ENTITY folderRebuildSummaryFileTip.label       "Kokoa hakemistotiedosto uudelleen">
 
-
 <!ENTITY retention.label  "Viestien säilytyskäytäntö">
 <!ENTITY retentionUseDefault.label   "Käytä palvelimen oletusasetuksia">
 <!ENTITY retentionUseDefault.accesskey  "o">
-<!ENTITY days.label  "päivää">
 <!ENTITY daysOld.label  "päivää vanhoja">
 <!ENTITY message.label  "viestiä">
 <!ENTITY retentionCleanup.label  "Kiintolevytilaa voi vapauttaa poistamalla vanhoja viestejä pysyvästi.">
-<!ENTITY retentionKeepMsg.label  "Poista viestit, jotka ovat yli">
-<!ENTITY retentionKeepMsg.accesskey  "y">
+<!ENTITY retentionDeleteMsg.label "Poista viestit, jotka ovat yli">
+<!ENTITY retentionDeleteMsg.accesskey "y">
 <!ENTITY retentionKeepAll.label  "Älä poista mitään viestejä">
 <!ENTITY retentionKeepAll.accesskey  "Ä">
 <!ENTITY retentionKeepNew.label  "Poista kaikki paitsi viimeiset">
@@ -77,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label       "Keskusteluryhmä on luettavana yhteydettömässä tilassa">
 <!ENTITY selectofflineNewsgroup.check.accesskey   "y">
-<!ENTITY UseDefaultofflineNewsgroup.check.label   "Käytä tilin oletusasetuksia ">
 <!ENTITY offlineNewsgroup.button.label            "Nouda heti">
 <!ENTITY offlineNewsgroup.button.accesskey        "h">
 
-<!ENTITY folderProps.information.label            "Tietoja:">
 <!ENTITY folderProps.name.label                   "Nimi:">
 <!ENTITY folderProps.name.accesskey               "N">
 <!ENTITY folderProps.location.label              "Sijainti:">
 <!ENTITY folderProps.location.accesskey          "S">
 
 <!ENTITY folderSharingTab.label                   "Yhteiskäyttö">
-<!ENTITY privilegesDesc.label                     "Ota tämä ja muut kansiot yhteiskäyttöön muiden verkon käyttäjien kanssa sekä näytä ja määritä käyttöoikeudet.">
 <!ENTITY privileges.button.label                  "Käyttöoikeudet…">
 <!ENTITY privileges.button.accesskey              "K">
 <!ENTITY permissionsDesc.label                    "Sinulla on seuraavat käyttöoikeudet:">

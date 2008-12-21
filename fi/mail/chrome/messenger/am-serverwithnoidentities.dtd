@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label  "Tyhjennä roskakori kun ohjelma lopetetaan">
 <!ENTITY emptyTrashOnExit.accesskey  "h">
 <!ENTITY localPath.label  "Paikallinen hakemisto:">
-<!ENTITY localPath.accesskey  "P">
 <!ENTITY localFolderPicker.label  "Valitse paikalliskansioiden sijainti">
 <!ENTITY browseFolder.label  "Selaa…">
 <!ENTITY browseFolder.accesskey  "S">

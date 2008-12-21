@@ -5,14 +5,14 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title                "Composer">
 
-<!ENTITY  saving                     "Tallentaminen">
-<!ENTITY  AutoSaveCheck              "Tallenna automaattisesti joka">
-<!ENTITY  minText                    ". minuutti">
+<!ENTITY  saving                        "Tallentaminen">
+<!ENTITY  AutoSaveCheck                 "Tallenna automaattisesti">
+<!ENTITY  minText                       "minuutin välein">
 
-<!ENTITY  exterLegend.label          "Ulkoiset muokkaimet">
-<!ENTITY  htmlSource                 "HTML-lähdekoodi:">
-<!ENTITY  imageeditor                "Kuvat:">
-<!ENTITY  chooseButton.label         "Valitse">
+<!ENTITY  exterLegend.label             "Erilliset ohjelmat">
+<!ENTITY  htmlSource                    "HTML-lähdekoodi:">
+<!ENTITY  imageeditor                   "Kuvat:">
+<!ENTITY  chooseButton.label            "Valitse">
 
 <!ENTITY  recentFiles.title          "Viimeisimmät sivut -valikko">
 <!ENTITY  documentsInMenu.label      "Suurin määrä, jota sivuja listataan:e">
@@ -29,7 +29,7 @@
 
 <!ENTITY  composerEditing.label          "Muokkaus">
 <!ENTITY  spellCheckInline.label        "Oikolue kirjoitettaessa">
-<!ENTITY  spellCheckInline.accesskey    "k">
+<!ENTITY  spellCheckInline.accesskey    "O">
 <!ENTITY  maintainStructure.label        "Säilytä taulukon muotoilu lisättäessä tai poistettaessa soluja">
 <!ENTITY  maintainStructure.tooltip      "Säilyttää taulukon neliömuodon lisäämällä automaattisesti soluja kun soluja lisätään tai poistetaan">
 <!ENTITY  maintainStructure.accesskey    "t">

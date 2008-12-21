@@ -40,65 +40,56 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label  "Kuvakarttaeditori">
+<!ENTITY windowTitle.label "Kuvakarttamuokkain">
 
 <!-- Menu Items -->
 <!-- File menu -->
-<!ENTITY mapfileMenu.label  "Tiedosto">
-<!ENTITY mapfilemenu.accesskey  "T">
-<!ENTITY clearCmd.label  "Tyhjennä">
-<!ENTITY mapfileclear.accesskey  "T">
-<!ENTITY closeCmd.label  "Sulje">
-<!ENTITY mapfileclose.accesskey  "S">
+<!ENTITY mapfileMenu.label "Tiedosto">
+<!ENTITY mapfileMenu.accesskey "T">
+<!ENTITY clearCmd.label "Tyhjennä">
+<!ENTITY clearCmd.accesskey "T">
+<!ENTITY closeCmd.label "Sulje">
+<!ENTITY closeCmd.accesskey "S">
 
 <!-- Edit menu -->
-<!ENTITY mapeditMenu.label  "Muokkaa">
-<!ENTITY mapeditmenu.accesskey  "M">
-<!ENTITY cutCmd.label  "Leikkaa">
-<!ENTITY mapeditcut.accesskey  "L">
-<!ENTITY copyCmd.label  "Kopioi">
-<!ENTITY mapeditcopy.accesskey  "K">
-<!ENTITY pasteCmd.label  "Liitä">
-<!ENTITY mapeditpaste.accesskey  "i">
-<!ENTITY selectallCmd.label  "Valitse kaikki">
-<!ENTITY mapselectall.accesskey  "V">
-<!ENTITY propsCmd.label  "Aktiivisen pisteen ominaisuudet">
-<!ENTITY mapeditprops.accesskey  "A">
+<!ENTITY mapeditMenu.label "Muokkaa">
+<!ENTITY mapeditMenu.accesskey "M">
+<!ENTITY cutCmd.label "Leikkaa">
+<!ENTITY cutCmd.accesskey "L">
+<!ENTITY copyCmd.label "Kopioi">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Liitä">
+<!ENTITY pasteCmd.accesskey "i">
+<!ENTITY selectallCmd.label "Valitse kaikki">
+<!ENTITY selectallCmd.accesskey "V">
+<!ENTITY propsCmd.label "Aktiivisen pisteen ominaisuudet">
+<!ENTITY propsCmd.accesskey "A">
 
 <!-- View menu -->
-<!ENTITY mapviewMenu.label  "Näytä">
-<!ENTITY mapviewmenu.accesskey  "N">
-<!ENTITY showhideTbarCmd.label  "Piilota työkalupalkki">
-<!ENTITY mapviewtbar.accesskey  "P">
+<!ENTITY mapviewMenu.label "Näytä">
+<!ENTITY mapviewMenu.accesskey "N">
+<!ENTITY showhideTbarCmd.label "Piilota työkalupalkki">
+<!ENTITY showhideTbarCmd.accesskey "P">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label  "Koko">
-<!ENTITY mapviewscale.accesskey  "K">
-<!ENTITY apercentCmd.label  "100">
-<!ENTITY zoomone.accesskey  "1">
-<!ENTITY bpercentCmd.label  "200">
-<!ENTITY zoomtwo.accesskey  "2">
-<!ENTITY cpercentCmd.label  "400">
-<!ENTITY zoomthree.accesskey  "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label  "Kontrasti">
-<!ENTITY contrast.accesskey  "K">
+<!ENTITY mapviewScale.label "Koko">
+<!ENTITY mapviewScale.accesskey "K">
+<!ENTITY apercentCmd.label "100">
+<!ENTITY apercentCmd.accesskey "1">
+<!ENTITY bpercentCmd.label "200">
+<!ENTITY bpercentCmd.accesskey "2">
+<!ENTITY cpercentCmd.label "400">
+<!ENTITY cpercentCmd.accesskey "4">
 
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label  "Ohje">
-<!ENTITY maphelpmenu.accesskey  "O">
-<!ENTITY aboutCmd.label  "Tietoja">
-<!ENTITY about.accesskey  "T">
-
-<!ENTITY zoominCmd.label  "Lähennä">
-<!ENTITY zoomoutCmd.label  "Loitonna">
-<!ENTITY delSpotCmd.label  "Poista piste">
+<!ENTITY zoominCmd.label "Lähennä">
+<!ENTITY zoomoutCmd.label "Loitonna">
+<!ENTITY delSpotCmd.label "Poista piste">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey  "P">
-<!ENTITY selectall.accesskey  "V">
-<!ENTITY close.accesskey  "S">
-<!ENTITY cut.accesskey  "L">
-<!ENTITY copy.accesskey  "K">
-<!ENTITY paste.accesskey  "i">
-<!ENTITY props.accesskey  "O">
-<!ENTITY tbar.accesskey  "T">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

@@ -82,8 +82,12 @@
 
 <!ENTITY allowRemoteContent.label       "Salli HTML-postissa linkitetyt, toisilla palvelimilla olevat kuvat.">
 <!ENTITY allowRemoteContent.accesskey   "S">
+<!ENTITY allowRemoteContent.tooltip     "HTML-viesteihin on mahdollista linkittää
+kuvia toisilta palvelimilta. Tällaisen viestien avaaminen luo yhteyden tuohon 
+palvelimeen ja tämä mahdollistaa viestin lukemisen tai lukematta jättämisen
+seuraamisen. Tällä valinnalla hyväksyt tällaisten linkitettyjen kuvien lataamisen
+tämän kontaktin lähettämissä sähköposteissa.">
 
-<!ENTITY Phones.box                      "Puhelinnumerot">
 <!ENTITY WorkPhone.label                 "Työpuhelin:">
 <!ENTITY WorkPhone.accesskey             "T">
 <!ENTITY HomePhone.label                 "Koti:">
@@ -95,9 +99,8 @@
 <!ENTITY CellularNumber.label            "Matkapuhelin:">
 <!ENTITY CellularNumber.accesskey        "M">
 
-<!ENTITY Address.tab                     "Osoite">
-<!ENTITY Address.accesskey              "O">
-<!ENTITY Home.box                        "Koti">
+<!ENTITY Home.tab                       "Yksityinen">
+<!ENTITY Home.accesskey                 "Y">
 <!ENTITY HomeAddress.label               "Osoite:">
 <!ENTITY HomeAddress.accesskey          "s">
 <!ENTITY HomeAddress2.label              "">
@@ -112,7 +115,14 @@
 <!ENTITY HomeCountry.accesskey          "M">
 <!ENTITY HomeWebPage.label               "Verkkosivut:">
 <!ENTITY HomeWebPage.accesskey          "V">
-<!ENTITY Work.box                        "Työ">
+<!ENTITY Birthday.label                 "Syntymäpäivä:">
+<!ENTITY Birthday.accesskey             "S">
+<!ENTITY Year.emptytext                 "Syntymävuosi">
+<!ENTITY Or.value                       "tai">
+<!ENTITY Age.emptytext                  "Ikä">
+
+<!ENTITY Work.tab                       "Työ">
+<!ENTITY Work.accesskey                 "T">
 <!ENTITY JobTitle.label                  "Ammattinimi:">
 <!ENTITY JobTitle.accesskey             "A">
 <!ENTITY Department.label                "Osasto:">
@@ -144,5 +154,5 @@
 <!ENTITY Custom3.accesskey               "3">
 <!ENTITY Custom4.label                   "Oma 4:">
 <!ENTITY Custom4.accesskey               "4">
-<!ENTITY Notes.box                       "Huomautuksia">
+<!ENTITY Notes.label                       "Huomautuksia">
 <!ENTITY Notes.accesskey                "H">

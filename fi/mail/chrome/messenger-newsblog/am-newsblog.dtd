@@ -17,4 +17,4 @@
 <!ENTITY rss.accountName            "Uutiset ja verkkopäiväkirjat">
 <!ENTITY rss.wizardShortName        "RSS">
 <!ENTITY rss.wizardLongName         "RSS-uutiset ja -verkkopäiväkirjat">
-<!ENTITY rss.hostName               "RSS-tili">
+<!ENTITY rss.wizardLongName.accesskey "R">

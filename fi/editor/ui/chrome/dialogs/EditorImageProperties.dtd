@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label  "Kuvan ominaisuudet">
 
 <!ENTITY pixelsPopup.value  "kuvapistettä">
-<!ENTITY percentPopup.value  "prosenttia">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label  "Kuvan sijainti:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey  "Ä">
 
 <!ENTITY previewBox.label  "Kuvan esikatselu">
-<!ENTITY MoreFewerButton.tooltip  "Näytä enemmän tai vähemmän muokattavia ominaisuuksia">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -80,8 +78,6 @@
 <!ENTITY imagemapBox.label  "Kuvan kartta">
 <!ENTITY removeImageMapButton.label  "Poista">
 <!ENTITY removeImageMapButton.accessKey  "P">
-<!ENTITY editImageMapButton.label  "Muokkaa…">
-<!ENTITY editImageMapButton.tooltip  "Luo napsautettavia alueita tälle kuvalle">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label  "Linjaa teksti kuvaan">
@@ -93,7 +89,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label  "Vapaa tila">
-<!ENTITY spacingBox.tooltip  "Anna suuruus kuvaa ympäröivälle tilalle">
 <!ENTITY leftRightEditField.label  "Vasemmalla ja oikealla:">
 <!ENTITY leftRightEditField.accessKey  "V">
 <!ENTITY topBottomEditField.label  "Ylhäällä ja alhaalla:">
@@ -106,8 +101,6 @@
 <!ENTITY showImageLinkBorder.accessKey  "N">
 
 <!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label  "Tee taustakuvaksi">
-<!ENTITY makePageBackgroundCheckbox.tooltip  "Käytä kuvaa sivusi taustakuvana">
 <!ENTITY editImageButton.label  "Muokkaa kuvaa">
 <!ENTITY editImageButton.tooltip  "Muokkaa kuvaa toisessa ohjelmassa">
 

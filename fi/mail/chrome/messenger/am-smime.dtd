@@ -5,13 +5,11 @@
 <!ENTITY neverEncrypt.label  "Ei koskaan (älä käytä salausta)">
 <!ENTITY alwaysEncryptMessage.label  "Vaadittu (viestiä ei voi lähettää, ellei kaikilla vastaanottajilla ole varmennetta)">
 <!ENTITY encryptionCert.message  "Salaa ja pura salaus sinulle lähetetyistä viesteistä tällä varmenteella:">
-<!ENTITY encryptionCert.notselected  "Varmennetta ei ole asetettu">
 <!ENTITY certificate.button  "Valitse…">
 <!ENTITY certificate_clear.button  "Tyhjennä">
 <!ENTITY signingGroupTitle.label  "Digitaalinen allekirjoittaminen">
 <!ENTITY signMessage.label  "Allekirjoita viestit digitaalisesti (oletusarvoisesti)">
 <!ENTITY signingCert.message  "Allekirjoita lähettämäsi viestit tällä varmenteella:">
-<!ENTITY signingCert.notselected  "Varmennetta ei ole asetettu">
 
 <!ENTITY certificates.label      "Varmenteet">
 <!ENTITY managecerts.label       "Näytä varmenteet">

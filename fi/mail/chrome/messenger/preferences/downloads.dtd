@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey           "K">
 <!ENTITY neverAsk.label                "Tallenna kaikki liitteet kansioon:">
 <!ENTITY neverAsk.accesskey            "T">
-<!ENTITY desktop.label                 "Työpöytä">
-<!ENTITY downloads.label               "Omat lataukset">
 <!ENTITY chooseFolderWin.label         "Selaa…">
 <!ENTITY chooseFolderWin.accesskey     "S">
 <!ENTITY chooseFolderMac.label         "Valitse…">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label        "Näytä ja muokkaa toimintoja…">
 <!ENTITY configureActions.accesskey    "N">
 <!ENTITY fileTypesDescription.label    "&brandShortName; voi automaattisesti tallentaa tai avata tietyt tiedostotyypit.">
-
-<!ENTITY fileTypeColName.label         "Tiedostotyyppi">
-<!ENTITY fileHandlerColName.label      "Ohjelma">
-<!ENTITY editFileHandler.label         "Muuta toimintoa…">
-<!ENTITY editFileHandler.accesskey     "M">
-<!ENTITY removeFileHandler.label       "Poista">
-<!ENTITY removeFileHandler.accesskey   "o">
