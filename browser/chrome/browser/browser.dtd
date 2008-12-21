@@ -7,6 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(xxxxx)">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierPrivateBrowsing): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Ново јазиче">
 <!ENTITY tabCmd.accesskey "ј">
@@ -367,8 +372,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY copyVideoURLCmd.label        "Копирај ја локацијата на звукот">
 
 <!ENTITY ctrlTab.search.emptyText "Пребарај во јазичињата">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (приватно суфрање)">
 <!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY mediaHideControls.label     "Скриј ги копчињата">
 <!ENTITY mediaMute.accesskey         "м">
