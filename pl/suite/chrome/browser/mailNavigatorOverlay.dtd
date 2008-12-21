@@ -2,8 +2,8 @@
 <!ENTITY newMessageCmd.accesskey "i">
 <!ENTITY newMessageCmd.key "M">
 
-<!ENTITY newCardCmd.label "Wizytówka…">
-<!ENTITY newCardCmd.accesskey "W">
+<!ENTITY newContactCmd.label "Wizytówka…">
+<!ENTITY newContactCmd.accesskey "C">
 
 <!ENTITY sendPage.label "Wyślij stronę…">
 <!ENTITY sendPage.accesskey "s">

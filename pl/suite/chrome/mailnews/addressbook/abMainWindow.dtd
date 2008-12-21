@@ -41,9 +41,9 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newCard.label "Wizytówka…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newCard.accesskey "w">
+<!ENTITY newContact.label "Wizytówka…">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey "C">
 <!ENTITY newListCmd.label "Lista dystrybucyjna…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey "l">
@@ -53,12 +53,12 @@
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "Komunikator">
-<!ENTITY printCardViewCmd.label "Drukuj wizytówkę…">
-<!ENTITY printCardViewCmd.accesskey "D">
-<!ENTITY printPreviewCardViewCmd.label "Podgląd wydruku wizytówki">
-<!ENTITY printPreviewCardViewCmd.accesskey "w">
+<!ENTITY printContactViewCmd.label "Drukuj wizytówkę…">
+<!ENTITY printContactViewCmd.accesskey "p">
+<!ENTITY printPreviewContactViewCmd.label "Podgląd wydruku wizytówki">
+<!ENTITY printPreviewContactViewCmd.accesskey "v">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
-<!ENTITY printCardViewCmd.key "D">
+<!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Drukuj książkę adresową…">
 <!ENTITY printAddressBook.accesskey "a">
 <!ENTITY printPreviewAddressBook.label "Podgląd wydruku Książki adresowej">
@@ -68,8 +68,8 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label "Usuń książkę adresową">
-<!ENTITY deleteCardCmd.label "Usuń wizytówkę">
-<!ENTITY deleteCardsCmd.label "Usuń wybrane wizytówki">
+<!ENTITY deleteContactCmd.label "Usuń wizytówkę">
+<!ENTITY deleteContactsCmd.label "Usuń wybraną wizytówkę">
 <!ENTITY deleteListCmd.label "Usuń listę">
 <!ENTITY deleteListsCmd.label "Usuń zaznaczone listy">
 <!ENTITY deleteItemsCmd.label "Usuń zaznaczone elementy">
@@ -104,27 +104,27 @@
 <!ENTITY allowOnlineCheck.accesskey "S">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newcardButton.label "Nowa wizytówka">
-<!ENTITY newcardButton.accesskey "N">
+<!ENTITY newContactButton.label "Nowa wizytówka">
+<!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "Nowa lista dystrybucyjna">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton.label "Właściwości">
-<!ENTITY editButton.accesskey "W">
+<!ENTITY editItemButton.label "Właściwości">
+<!ENTITY editItemButton.accesskey "P">
 <!ENTITY newmsgButton.label "Nowa">
 <!ENTITY newmsgButton.accesskey "N">
-<!ENTITY deleteButton.label "Usuń">
-<!ENTITY deleteButton.accesskey "U">
+<!ENTITY deleteItemButton.label "Usuń">
+<!ENTITY deleteItemButton.accesskey "D">
 <!ENTITY newimButton.label "Komunikator">
 <!ENTITY newimButton.accesskey "K">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip "Pasek narzędzi książki adresowej">
-<!ENTITY newcardButton.tooltip "Utwórz nową wizytówkę">
+<!ENTITY newContactButton.tooltip "Dodaj nową wizytówkę do książki adresowej">
 <!ENTITY newlistButton.tooltip "Utwórz nową listę dystrybucyjną">
-<!ENTITY editButton.tooltip "Edytuj wybraną wizytówkę">
+<!ENTITY editItemButton.tooltip "Edytuj wybrany element">
 <!ENTITY newmsgButton.tooltip "Wyślij wiadomość">
 <!ENTITY newIM.tooltip "Połącz z adresatem za pomocą komunikatora">
-<!ENTITY deleteButton.tooltip "Usuń wybraną wizytówkę lub książkę adresową">
+<!ENTITY deleteItemButton.tooltip "Usuń wybrany element">
 <!ENTITY throbber.tooltip "&vendorShortName;PL! Otwórz naszą stronę!">
 <!ENTITY advancedButton.tooltip "Zaawansowane wyszukiwanie adresów">
 

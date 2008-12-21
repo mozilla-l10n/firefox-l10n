@@ -7,14 +7,6 @@
 <!ENTITY search.emptytext "Przeszukaj historię">
 <!ENTITY search.key "f">
 <!ENTITY view.label "Porządkuj">
-<!ENTITY byNone.label "Według niczego">
-<!ENTITY byNone.accesskey "N">
-<!ENTITY byDay.label "Według dnia">
-<!ENTITY byDay.accesskey "D">
-<!ENTITY bySite.label "Według witryny">
-<!ENTITY bySite.accesskey "S">
-<!ENTITY byDayAndSite.label "Według dnia i witryny">
-<!ENTITY byDayAndSite.accesskey "t">
 
 <!ENTITY view.columns.label "yświetl kolumny">
 <!ENTITY view.columns.accesskey "C">
