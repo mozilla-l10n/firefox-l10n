@@ -11,3 +11,5 @@
 <!ENTITY paneAttachments.title     "Liitetiedostot">
 <!ENTITY panePrivacy.title         "Tietosuoja">
 <!ENTITY paneAdvanced.title        "Lisäasetukset">
+
+<!ENTITY cmdCloseMac.commandKey   "w">

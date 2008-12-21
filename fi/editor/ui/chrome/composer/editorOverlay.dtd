@@ -79,9 +79,6 @@
 <!ENTITY sendPageCmd.accesskey "L">
 <!ENTITY printSetupCmd.label "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey "i">
-<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
-<!ENTITY printPreviewCmd.accesskey "u">
-<!ENTITY printButtonCmd.label "Tulosta…">
 <!ENTITY printCmd.label "Tulosta…">
 <!ENTITY printCmd.accesskey "o">
 <!ENTITY printCmd.key "P">
@@ -99,29 +96,8 @@
 <!ENTITY pasteAs.accesskey "r">
 <!ENTITY publishSettings.label "Sivun julkaisun asetukset…">
 <!ENTITY publishSettings.accesskey "j">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Teksti">
-<!ENTITY pasteTextCmd.accesskey "T">
-<!ENTITY pasteImageCmd.label "Kuva">
-<!ENTITY pasteImageCmd.accesskey "K">
-<!ENTITY pasteRowsCmd.label "Rivit">
-<!ENTITY pasteRowsCmd.accesskey "R">
-<!ENTITY pasteColumnsCmd.label "Sarakkeet">
-<!ENTITY pasteColumnsCmd.accesskey "S">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Linkki">
-<!ENTITY pasteLinkCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "Liitä lainauksena">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
-<!ENTITY editStripQuotesCmd.label "Poista lainausmerkit">
-<!ENTITY editRewrapCmd.label "Rivitä uudelleen">
 <!ENTITY findCmd.label "Etsi ja korvaa…">
 <!ENTITY findCmd.accesskey "E">
 <!ENTITY findCmd.key "F">
@@ -141,13 +117,6 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "Tarkista HTML">
 <!ENTITY validateCmd.accesskey "H">
-<!ENTITY checkLinksCmd.label "Tarkista linkit">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Sivun lähdekoodi">
-<!ENTITY viewPageSource.accesskey "S">
-<!ENTITY viewParagraphMarks.label "Kappalemerkit">
-<!ENTITY viewParagraphMarks.accesskey "K">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Lisää">
@@ -159,41 +128,16 @@
 <!ENTITY insertAnchorCmd.accesskey "N">
 <!ENTITY insertImageCmd.label "Kuva…">
 <!ENTITY insertImageCmd.accesskey "K">
-<!ENTITY insertImageMapCmd.label "Kuvakartta…">
 <!ENTITY insertHLineCmd.label "Vaakaviiva">
 <!ENTITY insertHLineCmd.accesskey "V">
 <!ENTITY insertTableCmd.label "Taulukko…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertFormMenu.label "Lomake">
-<!ENTITY insertFormMenu.accesskey "k">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Merkit ja symbolit…">
 <!ENTITY insertCharsCmd.accesskey "M">
-<!ENTITY insertBreakCmd.label "Rivinvaihto">
-<!ENTITY insertBreakCmd.accesskey "v">
 <!ENTITY insertBreakAllCmd.label "Rivinvaihto kuvien jälkeen">
 <!ENTITY insertBreakAllCmd.accesskey "R">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Määritä lomake…">
-<!ENTITY insertFormCmd.accesskey "M">
-<!ENTITY insertInputTagCmd.label "Lomakkeen kenttä…">
-<!ENTITY insertInputTagCmd.accesskey "k">
-<!ENTITY insertInputImageCmd.label "Lomakkeen kuva…">
-<!ENTITY insertInputImageCmd.accesskey "L">
-<!ENTITY insertTextAreaCmd.label "Tekstialue…">
-<!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "Pudotusvalikko…">
-<!ENTITY insertSelectCmd.accesskey "P">
-<!ENTITY insertButtonCmd.label "Määritä painike…">
-<!ENTITY insertButtonCmd.accesskey "n">
-<!ENTITY insertLabelCmd.label "Määritä tunnus">
-<!ENTITY insertLabelCmd.accesskey "r">
-<!ENTITY insertFieldSetCmd.label "Määritä kenttäryhmä…">
-<!ENTITY insertFieldSetCmd.accesskey "e">
-<!ENTITY insertIsIndexCmd.label "Indeksihaku">
-<!ENTITY insertIsIndexCmd.accesskey "I">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Ei ehdotuksia)">
@@ -238,8 +182,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Paikalliset kirjasinlajit">
-<!ENTITY localfontfaceMenu.accesskey "P">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Valitse kirjasinten koko">
@@ -361,18 +303,6 @@
 <!ENTITY advancedPropertiesCmd.label "Lisäasetukset">
 <!ENTITY advancedPropertiesCmd.accesskey "s">
 
-<!ENTITY NormalAbbr.label "Teksti">
-<!ENTITY ParagraphAbbr.label "P">  
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Osoite">
-<!ENTITY PreformatAbbr.label "Esimuotoiltu">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Tasaus">
 <!ENTITY alignMenu.accesskey "u">
@@ -458,8 +388,6 @@
 <!ENTITY tableDeleteMenu.label "Poista">
 <!ENTITY tableDeleteMenu.accesskey "o">
 
-<!ENTITY tableFix.label "Korjaa taulukon asettelu">
-<!ENTITY tableFix.accesskey "K">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -501,7 +429,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Lisää uusi linkki tai muokkaa valitun linkin ominaisuuksia">
 <!ENTITY anchorToolbarCmd.label "Ankkuri">
 <!ENTITY anchorToolbarCmd.tooltip "Lisää uusi ankkuri tai muokkaa valitun ankkurin ominaisuuksia">
-<!ENTITY textColorCaption.label "Tekstin väri">
 <!ENTITY TextColorButton.tooltip "Valitse tekstin väri">
 <!ENTITY BackgroundColorButton.tooltip "Valitse taustaväri">
 <!ENTITY throbber.tooltip "Siirry &vendorShortName;n kotisivulle">
@@ -523,17 +450,6 @@
 <!ENTITY alignCenterButton.tooltip "Tasaa teksti keskelle">
 <!ENTITY alignRightButton.tooltip "Tasaa teksti oikean marginaalin mukaan">
 <!ENTITY alignjustifyButton.tooltip "Tasaa teksti vasemman ja oikean marginaalin mukaan">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Lukijan oletusväri">
-<!ENTITY colorPicker.default.accesskey "o">
-<!ENTITY colorLabel.label "Väri:">
-<!ENTITY ok.label "OK">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normaali">

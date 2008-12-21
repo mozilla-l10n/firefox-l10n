@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey                              "T">
 <!ENTITY newMenu.label                                   "Uusi">
 <!ENTITY newMenu.accesskey                               "U">
-<!ENTITY newCard.label                                   "Osoitekirjan kortti…">
-<!ENTITY newCard.accesskey                               "O">
-<!ENTITY newCard.key                                     "N">
+<!ENTITY newContact.label                               "Yhteystieto…">
+<!ENTITY newContact.accesskey                           "Y">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                                "Osoitelista…">
 <!ENTITY newListCmd.accesskey                            "O">
 <!ENTITY newAddressBookCmd.label                         "Osoitekirja…">
@@ -25,21 +25,15 @@
 <!ENTITY closeCmd.accesskey                              "S">
 <!ENTITY printSetupCmd.label                             "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey                         "e">
-<!ENTITY printPreviewCardViewCmd.label                   "Kortin tulostuksen esikatselu">
-<!ENTITY printPreviewCardViewCmd.accesskey               "K">
+<!ENTITY printPreviewContactCmd.label                   "Kortin tulostuksen esikatselu">
+<!ENTITY printPreviewContactCmd.accesskey               "K">
 <!ENTITY printPreviewAddressBook.label                   "Osoitekirjan tulostuksen esikatselu">
 <!ENTITY printPreviewAddressBook.accesskey               "O">
-<!ENTITY printCardViewCmd.label                          "Tulosta kortti…">
-<!ENTITY printCardViewCmd.accesskey                      "T">
-<!ENTITY printCardViewCmd.key                            "P">
+<!ENTITY printContactCmd.label                          "Tulosta yhteystieto…">
+<!ENTITY printContactCmd.accesskey                      "T">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                          "Tulosta osoitekirja…">
 <!ENTITY printAddressBook.accesskey                      "a">
-
-<!ENTITY quitApplicationCmdWin.label                     "Lopeta">
-<!ENTITY quitApplicationCmdWin.accesskey                 "L">
-<!ENTITY quitApplicationCmd.label                        "Lopeta">
-<!ENTITY quitApplicationCmd.accesskey                    "L">
-<!ENTITY quitApplicationCmd.key  "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                  "Muokkaa">
@@ -62,8 +56,8 @@
 <!ENTITY deleteCmd.label                                 "Poista">
 <!ENTITY deleteCmd.accesskey                             "o">
 <!ENTITY deleteAbCmd.label                               "Poista osoitekirja">
-<!ENTITY deleteCardCmd.label                             "Poista kortti">
-<!ENTITY deleteCardsCmd.label                            "Poista valitut kortit">
+<!ENTITY deleteContactCmd.label                         "Poista yhteystieto">
+<!ENTITY deleteContactsCmd.label                        "Poista yhteystiedot">
 <!ENTITY deleteListCmd.label                            "Poista osoitelista">
 <!ENTITY deleteListsCmd.label                           "Poista osoitelistat">
 <!ENTITY deleteItemsCmd.label                           "Poista kohteet">
@@ -91,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey                        "T">
 <!ENTITY customizeToolbar.label                          "Muokkaa…">
 <!ENTITY customizeToolbar.accesskey                      "M">
-<!ENTITY showCardPane.label                              "Kortin yhteenveto">
-<!ENTITY showCardPane.accesskey                          "K">
+<!ENTITY showContactPane.label                          "Yhteystiedon yhteenvetopaneeli">
+<!ENTITY showContactPane.accesskey                      "Y">
 <!ENTITY menu_ShowNameAs.label                           "Näytä nimi muodossa">
 <!ENTITY menu_ShowNameAs.accesskey                       "N">
 <!ENTITY firstLastCmd.label                              "Etunimi, Sukunimi">
@@ -122,27 +116,27 @@
 <!ENTITY preferencesCmdUnix.accesskey                    "A">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                             "Uusi kortti">
-<!ENTITY newcardButton.accesskey                         "U">
+<!ENTITY newContactButton.label                         "Uusi yhteystieto">
+<!ENTITY newContactButton.accesskey                     "U">
 <!ENTITY newlistButton.label                             "Uusi lista">
 <!ENTITY newlistButton.accesskey                         "s">
-<!ENTITY editButton.label                                "Ominaisuudet">
-<!ENTITY editButton.accesskey                            "n">
+<!ENTITY editButton2.label                              "Ominaisuudet">
+<!ENTITY editButton2.accesskey                          "O">
 <!ENTITY newmsgButton.label                              "Lähetä">
 <!ENTITY newmsgButton.accesskey                          "L">
 <!ENTITY newIM.label                                     "Pikaviesti">
 <!ENTITY newIM.accesskey                                 "P">
-<!ENTITY deleteButton.label                              "Poista">
-<!ENTITY deleteButton.accesskey                          "o">
+<!ENTITY deleteButton2.label                            "Poista">
+<!ENTITY deleteButton2.accesskey                        "P">
 <!ENTITY throbberItem.title                              "Toimintaindikaattori">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                           "Luo uusi kortti osoitekirjaan">
+<!ENTITY newContactButton.tooltip                       "Luo uusi yhteystieto osoitekirjaan">
 <!ENTITY newlistButton.tooltip                           "Luo uusi lista">
-<!ENTITY editButton.tooltip                              "Muokkaa valittua korttia">
+<!ENTITY editButton2.tooltip                            "Muokkaa valittua tietoa">
 <!ENTITY newmsgButton.tooltip                            "Lähetä sähköpostia">
 <!ENTITY newIM.tooltip                                   "Lähetä pikaviesti tai keskustele">
-<!ENTITY deleteButton.tooltip                            "Poista valitut kortit osoitekirjasta">
+<!ENTITY deleteButton2.tooltip                           "Poista valittu tieto">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                             "Osoitekirjat">

@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                  "Lempinimi:">
 <!ENTITY NickName.accesskey              "L">
 
-<!ENTITY Internet.box                    "Verkkotiedot">
 <!ENTITY PrimaryEmail.label              "Sähköpostiosoite:">
 <!ENTITY PrimaryEmail.accesskey          "S">
 <!ENTITY SecondEmail.label               "Toinen sähköpostiosoite:">
@@ -117,9 +116,11 @@ tämän kontaktin lähettämissä sähköposteissa.">
 <!ENTITY HomeWebPage.accesskey          "V">
 <!ENTITY Birthday.label                 "Syntymäpäivä:">
 <!ENTITY Birthday.accesskey             "S">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Syntymävuosi">
 <!ENTITY Or.value                       "tai">
 <!ENTITY Age.emptytext                  "Ikä">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Työ">
 <!ENTITY Work.accesskey                 "T">

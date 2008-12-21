@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key			 "W">
 <!ENTITY closeCmd.accesskey		 "S">
 
-<!ENTITY closeWindow.label "Sulje ikkuna">
-
 <!ENTITY quitApplicationCmd.label	 "Lopeta">
 <!ENTITY quitApplicationCmd.key		 "Q">
 <!ENTITY quitApplicationCmd.accesskey	 "L">
