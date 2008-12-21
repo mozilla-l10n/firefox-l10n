@@ -1,4 +1,12 @@
-<!ENTITY  history.label "Historiatiedot">
+<!ENTITY  history.label                 "Historiatiedot">
+
+<!ENTITY  locbar.pre.label              "Kirjoitettaessa osoitepalkkiin, näytä vastaavia osoitteita:">
+<!ENTITY  locbar.pre.accessKey          "K">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Sivuhistoriasta ja kirjanmerkeistä">
+<!ENTITY  locbar.history.label          "Sivuhistoriasta">
+<!ENTITY  locbar.bookmarks.label        "Kirjanmerkeistä">
+<!ENTITY  locbar.nothing.label          "Ei mistään">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single

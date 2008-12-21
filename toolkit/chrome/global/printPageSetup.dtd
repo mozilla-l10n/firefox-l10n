@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label    "Muoto">
 
 <!ENTITY orientation.label    "Suunta:">
-<!ENTITY portrait             "Pysty">
-<!ENTITY landscape            "Vaaka">
+<!ENTITY portrait.label      "Pysty">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Vaaka">
+<!ENTITY landscape.accesskey "V">
 
 <!ENTITY scale.label          "Koko:">
+<!ENTITY scale.accesskey     "K">
 <!ENTITY scalePercent         "&#037;">
 
 <!ENTITY shrinkToFit.label    "Sovita sivun leveyteen">
+<!ENTITY shrinkToFit.accesskey "S">
 
 <!ENTITY optionsGroup.label   "Asetukset">
 
 <!ENTITY printBG.label        "Tulosta tausta (värit ja kuvat)">
+<!ENTITY printBG.accesskey   "T">
 
 <!ENTITY advanced.tab         "Marginaalit ja ylä-/alatunnisteet">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches   "tuumia">
 <!ENTITY marginUnits.metric   "millimetriä">
 <!ENTITY marginTop.label      "Ylä:">
+<!ENTITY marginTop.accesskey "Y">
 <!ENTITY marginBottom.label   "Ala:">
+<!ENTITY marginBottom.accesskey "A">
 <!ENTITY marginLeft.label     "Vasen:">
+<!ENTITY marginLeft.accesskey "e">
 <!ENTITY marginRight.label    "Oikea:">
+<!ENTITY marginRight.accesskey "O">
 
 <!ENTITY headerFooter.label   "Ylä- ja alatunnisteet">
 

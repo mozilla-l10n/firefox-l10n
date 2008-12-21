@@ -7,9 +7,11 @@
 <!ENTITY mainWindow.titlemodifier  "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator  " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Yksityinen selaus)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Yksityinen selaus)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label  "Uusi välilehti">
 <!ENTITY tabCmd.accesskey  "v">
@@ -401,7 +403,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Valmis">
 <!ENTITY editBookmark.cancel.label                   "Peruuta">
-<!ENTITY editBookmark.removeBookmark.label           "Poista kirjanmerkki">
 <!ENTITY editBookmark.removeBookmark.accessKey       "P">
 <!ENTITY editBookmark.undo.label                     "Kumoa">
 <!ENTITY editBookmark.undo.accessKey                 "K">
