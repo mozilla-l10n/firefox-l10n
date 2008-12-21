@@ -34,8 +34,8 @@
 <!ENTITY newMessageCmd.accesskey         "L">
 <!ENTITY newMessageCmd.key               "M">
 
-<!ENTITY newCardCmd.label                "Adresatas…">
-<!ENTITY newCardCmd.accesskey            "A">
+<!ENTITY newContactCmd.label             "Adresatas…">
+<!ENTITY newContactCmd.accesskey         "A">
 
 <!ENTITY sendPage.label                  "Išsiųsti tinklalapį el. paštu…">
 <!ENTITY sendPage.accesskey              "l">
