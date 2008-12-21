@@ -1,0 +1,44 @@
+<!ENTITY mainWindow.titleseparator " - ">
+<!ENTITY back.label "Indietro">
+<!ENTITY back.tooltip "Indietro">
+<!ENTITY forward.label "Avanti">
+<!ENTITY forward.tooltip "Avanti">
+<!ENTITY reload.label "Ricarica">
+<!ENTITY reload.tooltip "Ricarica">
+<!ENTITY stop.label "Stop">
+<!ENTITY stop.tooltip "Stop">
+<!ENTITY search.label "Cerca">
+<!ENTITY search.tooltip "Cerca">
+<!ENTITY go.label "Vai">
+<!ENTITY go.tooltip "Vai">
+<!ENTITY openLocation.label "Apri indirizzo">
+<!ENTITY openLocation.tooltip "Apri indirizzo">
+<!ENTITY star.label "Stella">
+<!ENTITY star.tooltip "Aggiungi ai segnalibri">
+<!ENTITY bookmarks.label "Segnalibri">
+<!ENTITY bookmarks.tooltip "Visualizza segnalibri">
+<!ENTITY newtab.label "Nuova scheda">
+<!ENTITY closetab.label "Chiudi scheda">
+<!ENTITY cut.label "Taglia">
+<!ENTITY copy.label "Copia">
+<!ENTITY copylink.label "Copia indirizzo">
+<!ENTITY paste.label "Incolla">
+<!ENTITY delete.label "Elimina">
+<!ENTITY selectAll.label "Seleziona tutto">
+<!ENTITY noSuggestions.label "(nessun suggerimento)">
+<!ENTITY addToDictionary.label "Aggiungi al dizionario">
+<!ENTITY editBookmarkName.label "Nome:">
+<!ENTITY editBookmarkURI.label "Indirizzo:">
+<!ENTITY editBookmarkTags.label "Etichette:">
+<!ENTITY bookmarkRemove.label "Elimina segnalibro">
+<!ENTITY editBookmarkDone.label "Fatto">
+<!ENTITY findOnCmd.label "Trova in questa pagina…">
+<!ENTITY findOnCmd.accesskey "T">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Trova successivo">
+<!ENTITY findAgainCmd.accesskey "T">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all'identità.">
+<!ENTITY identity.connectedTo "Si è connessi con">
+<!ENTITY identity.runBy "Questo sito è gestito da">

@@ -1,0 +1,15 @@
+<!ENTITY content.title "Contenuto">
+<!ENTITY permissions.default.image.title "Carica le immagini">
+<!ENTITY permissions.default.image.description "Per rendere più attraenti i siti web">
+<!ENTITY javascript.enabled.title "Attiva JavaScript">
+<!ENTITY javascript.enabled.description "Per rendere più vistosi i siti web">
+<!ENTITY plugins.enabled.title "Attiva i plugin">
+<!ENTITY plugins.enabled.description "Per rendere più fastidiosi i siti web">
+<!ENTITY privacy.title "Privacy e sicurezza">
+<!ENTITY network.cookie.cookieBehavior.title "Memorizza i cookie">
+<!ENTITY network.cookie.cookieBehavior.description "Deliziosi biscottini">
+<!ENTITY clear.private.data.title "Elimina i dati personali">
+<!ENTITY clear.private.data.button "Elimina…">
+<!ENTITY clear.private.data.description "Per nascondere le proprie tracce">
+<!ENTITY signon.rememberSignons.title "Salva le password">
+<!ENTITY signon.rememberSignons.description "Per scrivere di meno">
