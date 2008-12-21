@@ -69,7 +69,7 @@
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label "Usuń książkę adresową">
 <!ENTITY deleteContactCmd.label "Usuń wizytówkę">
-<!ENTITY deleteContactsCmd.label "Usuń wybraną wizytówkę">
+<!ENTITY deleteContactsCmd.label "Usuń wybrane wizytówki">
 <!ENTITY deleteListCmd.label "Usuń listę">
 <!ENTITY deleteListsCmd.label "Usuń zaznaczone listy">
 <!ENTITY deleteItemsCmd.label "Usuń zaznaczone elementy">
