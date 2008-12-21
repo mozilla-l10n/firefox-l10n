@@ -43,35 +43,35 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newCard.label                                  "Kortelė…">
+<!ENTITY newContact.label                               "Adresatas…">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newCard.accesskey                              "K">  
+<!ENTITY newContact.accesskey                           "A">
 <!ENTITY newListCmd.label                               "Adresatų sąrašas…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newListCmd.accesskey                           "š">  
+<!ENTITY newListCmd.accesskey                           "s">
 <!ENTITY newAddressBookCmd.label                        "Adresų knyga…"> 
-<!ENTITY newAddressBookCmd.accesskey                    "n">  
+<!ENTITY newAddressBookCmd.accesskey                    "k">
 <!ENTITY newLDAPDirectoryCmd.label                      "Katalogas…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newLDAPDirectoryCmd.accesskey                  "a">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "t">
 <!ENTITY newIM.label                                    "Žinutė">
-<!ENTITY printCardViewCmd.label                         "Spausdinti kortelę…">
-<!ENTITY printCardViewCmd.accesskey                     "S">
-<!ENTITY printPreviewCardViewCmd.label                  "Spausdinsimos kortelės peržiūra">
-<!ENTITY printPreviewCardViewCmd.accesskey              "ž">
+<!ENTITY printContactViewCmd.label                      "Spausdinti adresato kortelę…">
+<!ENTITY printContactViewCmd.accesskey                  "S">
+<!ENTITY printPreviewContactViewCmd.label               "Spausdinsimos adresato kortelės peržiūra">
+<!ENTITY printPreviewContactViewCmd.accesskey           "o">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Spausdinti adresų knygą…"> 
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Spausdinsimos adresų knygos peržiūra"> 
-<!ENTITY printPreviewAddressBook.accesskey              "ū">
+<!ENTITY printPreviewAddressBook.accesskey              "d">
 <!ENTITY printSetupCmd.label                            "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey                        "P">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Pašalinti adresų knygą">  
-<!ENTITY deleteCardCmd.label                            "Pašalinti kortelę">  
-<!ENTITY deleteCardsCmd.label                           "Pašalinti pažymėtas korteles">  
+<!ENTITY deleteContactCmd.label                         "Pašalinti adresatą">
+<!ENTITY deleteContactsCmd.label                        "Pašalinti pažymėtus adresatus">  
 <!ENTITY deleteListCmd.label                            "Pašalinti sąrašą">
 <!ENTITY deleteListsCmd.label                           "Pašalinti sąrašus">
 <!ENTITY deleteItemsCmd.label                           "Pašalinti elementus">
@@ -107,27 +107,27 @@
 <!ENTITY allowOnlineCheck.accesskey                     "T">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newcardButton.label                            "Nauja kortelė">  
-<!ENTITY newcardButton.accesskey                        "k">  
-<!ENTITY newlistButton.label                            "Naujas sąrašas">  
-<!ENTITY newlistButton.accesskey                        "r">  
-<!ENTITY editButton.label                               "Savybės">  
-<!ENTITY editButton.accesskey                           "S">  
-<!ENTITY newmsgButton.label                             "Rašyti">  
-<!ENTITY newmsgButton.accesskey                         "l">  
-<!ENTITY deleteButton.label                             "Pašalinti">  
-<!ENTITY deleteButton.accesskey                         "š">  
-<!ENTITY newimButton.label                              "Žinutė">  
-<!ENTITY newimButton.accesskey                          "i">  
+<!ENTITY newContactButton.label                         "Naujas adresatas">
+<!ENTITY newContactButton.accesskey                     "a">
+<!ENTITY newlistButton.label                            "Naujas sąrašas">
+<!ENTITY newlistButton.accesskey                        "r">
+<!ENTITY editItemButton.label                           "Savybės">
+<!ENTITY editItemButton.accesskey                       "S">
+<!ENTITY newmsgButton.label                             "Rašyti">
+<!ENTITY newmsgButton.accesskey                         "l">
+<!ENTITY deleteItemButton.label                         "Pašalinti">
+<!ENTITY deleteItemButton.accesskey                     "š">
+<!ENTITY newimButton.label                              "Žinutė">
+<!ENTITY newimButton.accesskey                          "i">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adresų knygos mygtukų juosta">
-<!ENTITY newcardButton.tooltip                          "Sukurti naują adresų knygos kortelę"> 
+<!ENTITY newContactButton.tooltip                       "Sukurti naują adresatą"> 
 <!ENTITY newlistButton.tooltip                          "Sukurti naują adresatų sąrašą"> 
-<!ENTITY editButton.tooltip                             "Taisyti pažymėtą kortelę"> 
+<!ENTITY editItemButton.tooltip                         "Taisyti pažymėtą elementą"> 
 <!ENTITY newmsgButton.tooltip                           "Rašyti laišką"> 
 <!ENTITY newIM.tooltip                                  "Siųsti žinutę arba pradėti pokalbį"> 
-<!ENTITY deleteButton.tooltip                           "Pašalinti pažymėtą kortelę arba adresų knygą"> 
+<!ENTITY deleteItemButton.tooltip                       "Pašalinti pažymėtą elementą">
 <!ENTITY throbber.tooltip                               "Atverti &vendorShortName; pradžios tinklalapį">
 <!ENTITY advancedButton.tooltip                         "Papildoma adresų paieška">
 

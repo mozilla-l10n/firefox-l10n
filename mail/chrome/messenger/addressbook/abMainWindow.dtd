@@ -37,14 +37,14 @@
 <!ENTITY newMenu.label                                  "Naujas">
 <!ENTITY newMenu.accesskey                              "N">
 <!ENTITY newContact.label                               "Adresatas…">
-<!ENTITY newContact.accesskey                           "k">
+<!ENTITY newContact.accesskey                           "A">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Adresatų sąrašas…">
-<!ENTITY newListCmd.accesskey                           "š">
+<!ENTITY newListCmd.accesskey                           "s">
 <!ENTITY newAddressBookCmd.label                        "Adresų knyga…">
-<!ENTITY newAddressBookCmd.accesskey                    "n">
+<!ENTITY newAddressBookCmd.accesskey                    "k">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP katalogas…">
-<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "t">
 <!ENTITY newMessageCmd.label                            "Rašyti">
 <!ENTITY newMessageCmd.key                              "R">
 <!ENTITY newMessageCmd.accesskey                        "L">
@@ -57,9 +57,9 @@
 <!ENTITY printSetupCmd.label                            "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey                        "P">
 <!ENTITY printPreviewContactCmd.label                   "Spausdinsimos adresato kortelės peržiūra">
-<!ENTITY printPreviewContactCmd.accesskey               "ž">
+<!ENTITY printPreviewContactCmd.accesskey               "o">
 <!ENTITY printPreviewAddressBook.label                  "Spausdinsimos adresų knygos peržiūra">
-<!ENTITY printPreviewAddressBook.accesskey              "ū">
+<!ENTITY printPreviewAddressBook.accesskey              "d">
 <!ENTITY printContactCmd.label                          "Spausdinti adresato kortelę…">
 <!ENTITY printContactCmd.accesskey                      "S">
 <!ENTITY printContactCmd.key                            "P">
@@ -148,7 +148,7 @@
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "Naujas adresatas">
-<!ENTITY newContactButton.accesskey                     "k">
+<!ENTITY newContactButton.accesskey                     "a">
 <!ENTITY newlistButton.label                            "Naujas sąrašas">
 <!ENTITY newlistButton.accesskey                        "r">
 <!ENTITY editButton2.label                              "Savybės">
