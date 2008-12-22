@@ -63,7 +63,7 @@
 
 <!ENTITY checknever.label "Nie sprawdzaj">
 <!ENTITY checkeveryday.label "Codziennie">
-<!ENTITY checkweekdays.label "W dni pracujące">
+<!ENTITY checkweekdays.label "W dni robocze">
 <!ENTITY checkweekends.label "W weekendy">
 <!ENTITY checkmondays.label "W poniedziałki">
 <!ENTITY checktuesdays.label "We wtorki">
@@ -98,11 +98,11 @@
 <!ENTITY PMten.label "22">
 <!ENTITY PMeleven.label "23">
 
-<!ENTITY notification.icon.label "Zmiana ikony">
+<!ENTITY notification.icon.label "Zmień ikonę zakładki">
 <!ENTITY notification.icon.accesskey "Z">
-<!ENTITY notification.sound.label "Odtworzenie dźwięku">
+<!ENTITY notification.sound.label "Odtwórz dźwięk">
 <!ENTITY notification.sound.accesskey "O">
 <!ENTITY notification.alert.label "Wyświetl informację">
 <!ENTITY notification.alert.accesskey "W">
-<!ENTITY notification.window.label "Otwarcie strony w nowym oknie">
+<!ENTITY notification.window.label "Otwórz stronę w nowym oknie">
 <!ENTITY notification.window.accesskey "n">

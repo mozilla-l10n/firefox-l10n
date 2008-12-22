@@ -56,7 +56,7 @@
 <!ENTITY menuitem.import.accesskey "I">
 <!ENTITY menuitem.export.label "Eksportuj…">
 <!ENTITY menuitem.export.accesskey "e">
-<!ENTITY menuitem.find.label "Szukaj w Zakładkach…">
+<!ENTITY menuitem.find.label "Szukaj w zakładkach…">
 <!ENTITY menuitem.find.accesskey "Z">
 <!ENTITY menuitem.find.find.key "F">
 <!ENTITY command.findBookmarks.label "Szukaj…">
@@ -72,7 +72,7 @@
 <!ENTITY menuitem.moveBookmark.label "Przenieś zakładkę/zakładki…">
 <!ENTITY menuitem.moveBookmark.accesskey "M">
 <!ENTITY button.moveBookmark.label "Przenieś…">
-<!ENTITY button.moveBookmark.accesskey "M">
+<!ENTITY button.moveBookmark.accesskey "P">
 <!ENTITY command.addBookmark.label "Dodaj…">
 <!ENTITY command.manageBookmarks.label "Zarządzaj">
 <!ENTITY command.sortFolder.label "Sortuj folder…">
@@ -93,19 +93,19 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "O">
 
 <!ENTITY treecol.name.label "Nazwa">
-<!ENTITY treecol.name.tooltip "Posortuj zakładki według pola Nazwa">
+<!ENTITY treecol.name.tooltip "Sortuj zakładki według nazwy">
 <!ENTITY treecol.url.label "Adres">
-<!ENTITY treecol.url.tooltip "Posortuj zakładki według pola Adres">
+<!ENTITY treecol.url.tooltip "Sortuj zakładki według pola adresu">
 <!ENTITY treecol.shortcut.label "Słowo kluczowe">
-<!ENTITY treecol.shortcut.tooltip "Posortuj zakładki według pola Słowo kluczowe">
+<!ENTITY treecol.shortcut.tooltip "Sortuj zakładki według słów kluczowych">
 <!ENTITY treecol.description.label "Opis">
-<!ENTITY treecol.description.tooltip "Posortuj zakładki według pola Opis">
+<!ENTITY treecol.description.tooltip "Sortuj zakładki według opisu">
 <!ENTITY treecol.addedon.label "Dodano">
-<!ENTITY treecol.addedon.tooltip "Posortuj zakładki według pola Dodano">
-<!ENTITY treecol.lastmod.label "Ostatnio zmodyfikowano">
-<!ENTITY treecol.lastmod.tooltip "Posortuj zakładki według pola Ostatnio zmodyfikowano">
+<!ENTITY treecol.addedon.tooltip "Sortuj zakładki według daty dodania">
+<!ENTITY treecol.lastmod.label "Ostatnia modyfikacja">
+<!ENTITY treecol.lastmod.tooltip "Sortuj zakładki według daty ostatniej modyfikacji">
 <!ENTITY treecol.lastvisit.label "Ostatnio odwiedzono">
-<!ENTITY treecol.lastvisit.tooltip "Posortuj zakładki według pola Ostatnio odwiedzono">
+<!ENTITY treecol.lastvisit.tooltip "Sortuj zakładki według daty ostatnich odwiedzin">
 
 <!ENTITY bookmarksWindowTitle.label "Menedżer zakładek">
 
