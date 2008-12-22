@@ -5,7 +5,7 @@
 <!ENTITY addAccountButton.label "Dodaj konto…">
 <!ENTITY addAccountButton.accesskey "D">
 <!ENTITY setDefaultButton.label "Ustaw jako domyślne">
-<!ENTITY setDefaultButton.accesskey "d">
+<!ENTITY setDefaultButton.accesskey "j">
 <!ENTITY removeButton.label "Usuń konto">
 <!ENTITY removeButton.accesskey "U">
 
@@ -16,6 +16,6 @@
      panel content to fit. 1em = the width of the letter 'm' in the selected font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "width: 64em; height: 50em;">
-<!ENTITY macAccountManager.size "width: 70em; height: 50em;">
+<!ENTITY accountManager.size "width: 70em; height: 50em;">
+<!ENTITY macAccountManager.size "width: 72em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">

@@ -1,27 +1,27 @@
-<!ENTITY pane.title "Potwierdzenia dostarczenia wiadomości">
-<!ENTITY useGlobalPrefs.label "Użyj globalnych ustawień potwierdzenia dostarczenia wiadomości dla tego konta">
+<!ENTITY pane.title "Potwierdzenia doręczenia wiadomości">
+<!ENTITY useGlobalPrefs.label "Użyj globalnych ustawień potwierdzenia doręczenia wiadomości dla tego konta">
 <!ENTITY useGlobalPrefs.accesskey "U">
-<!ENTITY useCustomPrefs.label "Dostosuj ustawienia potwierdzenia dostarczenia wiadomości dla tego konta">
-<!ENTITY useCustomPrefs.accesskey "C">
-<!ENTITY requestReceipt.label "Zawsze żądaj potwierdzenia dostarczenia wysyłanej wiadomości">
-<!ENTITY requestReceipt.accesskey "W">
-<!ENTITY receiptArrive.label "Otrzymane potwierdzenia dostarczenia wiadomości:">
-<!ENTITY leaveIt.label "Pozostaw w folderze Odebrane">
+<!ENTITY useCustomPrefs.label "Dostosuj ustawienia potwierdzenia doręczenia wiadomości dla tego konta">
+<!ENTITY useCustomPrefs.accesskey "c">
+<!ENTITY requestReceipt.label "Zawsze żądaj potwierdzeń doręczenia wysyłanych wiadomości">
+<!ENTITY requestReceipt.accesskey "Z">
+<!ENTITY receiptArrive.label "Otrzymane potwierdzenia doręczenia wiadomości:">
+<!ENTITY leaveIt.label "pozostawiaj w folderze Odebrane">
 <!ENTITY leaveIt.accesskey "O">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label "Przenieś do folderu Wysłane">
+<!ENTITY moveToSent.label "przenoś do folderu Wysłane">
 <!ENTITY moveToSent.accesskey "W">
-<!ENTITY requestMDN.label "Po otrzymaniu żądania potwierdzenia dostarczenia wiadomości:">
-<!ENTITY returnSome.label "Wysyłaj potwierdzenia dostarczenia wiadomości tylko w poniższych przypadkach:">
+<!ENTITY requestMDN.label "Po otrzymaniu żądania potwierdzenia doręczenia wiadomości:">
+<!ENTITY returnSome.label "Wysyłaj potwierdzenia doręczenia wiadomości tylko w poniższych przypadkach:">
 <!ENTITY returnSome.accesskey "r">
-<!ENTITY never.label "Nigdy nie wysyłaj potwierdzenia dostarczenia wiadomości">
-<!ENTITY never.accesskey "n">
-<!ENTITY notInToCc.label 'Jeżeli mój adres e-mail nie znajduje się w polu "Do" lub "Kopia":'>
+<!ENTITY never.label "Nigdy nie wysyłaj potwierdzeń doręczenia wiadomości">
+<!ENTITY never.accesskey "N">
+<!ENTITY notInToCc.label 'Jeśli w polu "Do" lub "Kopia" nie ma mojego adresu e-mail:'>
 <!ENTITY notInToCc.accesskey "J">
 <!ENTITY outsideDomain.label "Jeżeli nadawca jest spoza mojej domeny:">
 <!ENTITY outsideDomain.accesskey "s">
 <!ENTITY otherCases.label "W innych przypadkach:">
 <!ENTITY otherCases.accesskey "i">
-<!ENTITY askMe.label "Wyświetl pytanie">
+<!ENTITY askMe.label "Wyświetlaj pytanie">
 <!ENTITY alwaysSend.label "Zawsze wysyłaj">
 <!ENTITY neverSend.label "Nigdy nie wysyłaj">

@@ -40,6 +40,6 @@
 <!ENTITY download.label "Pobierz nagłówki">
 <!ENTITY download.accesskey "o">
 <!ENTITY headers.label "wiadomości">
-<!ENTITY headers.accesskey "a">
-<!ENTITY mark.label "Zaznacz pozostałe jako przeczytane">
-<!ENTITY mark.accesskey "Z">
+<!ENTITY headers.accesskey "w">
+<!ENTITY mark.label "Oznacz pozostałe jako przeczytane">
+<!ENTITY mark.accesskey "z">

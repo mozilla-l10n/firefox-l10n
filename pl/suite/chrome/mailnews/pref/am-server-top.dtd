@@ -1,61 +1,61 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Konfiguracja zabezpieczeń">
+<!ENTITY securitySettings.label "Ustawienia zabezpieczeń">
 <!ENTITY serverSettings.label "Konfiguracja serwera">
 <!ENTITY serverType.label "Typ serwera:">
 <!ENTITY serverName.label "Nazwa serwera:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Użytkownik:">
-<!ENTITY userName.accesskey "U">
+<!ENTITY userName.accesskey "i">
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Domyślnie:">
-<!ENTITY savePassword.label "Zapamiętaj hasło.">
+<!ENTITY savePassword.label "Zapamiętaj hasło">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Sprawdzaj, czy nadeszły nowe wiadomości co">
-<!ENTITY biffStart.accesskey "S">
+<!ENTITY biffStart.accesskey "r">
 <!ENTITY biffEnd.label "minut">
 <!ENTITY socketType.label "Używaj bezpiecznego połączenia:">
 <!ENTITY neverSecure.label "Nigdy">
 <!ENTITY neverSecure.accesskey "N">
 <!ENTITY sometimesSecure.label "TLS, jeśli dostępne">
-<!ENTITY sometimesSecure.accesskey "j">
+<!ENTITY sometimesSecure.accesskey "d">
 <!ENTITY alwaysSecure.label "TLS">
 <!ENTITY alwaysSecure.accesskey "T">
 <!ENTITY alwaysSSL.label "SSL">
 <!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Użyj bezpiecznego uwierzytelniania">
+<!ENTITY useSecAuth.label "Używaj bezpiecznego uwierzytelniania">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "Pozostaw kopię wiadomości na serwerze">
-<!ENTITY leaveOnServer.accesskey "d">
-<!ENTITY headersOnly.label "Pobierz tylko nagłówki">
-<!ENTITY headersOnly.accesskey "n">
+<!ENTITY leaveOnServer.accesskey "k">
+<!ENTITY headersOnly.label "Pobieraj tylko nagłówki wiadomości">
+<!ENTITY headersOnly.accesskey "b">
 <!ENTITY deleteByAgeFromServer.label "Przez">
-<!ENTITY deleteByAgeFromServer.accesskey "P">
+<!ENTITY deleteByAgeFromServer.accesskey "z">
 <!ENTITY daysEnd.label "dni">
 <!ENTITY deleteOnServer2.label "Dopóki wiadomość nie zostanie usunięta">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Automatycznie pobieraj nowe wiadomości">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Komunikator">
+<!ENTITY username.label "Nazwa użytkownika">
 <!ENTITY deleteMessagePrefix.label "Wiadomość usunięta lokalnie:">
 <!ENTITY modelMoveToTrash.label "zostanie przeniesiona do folderu:">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "zostanie oznaczona jako usunięta">
 <!ENTITY modelMarkDeleted.accesskey "k">
-<!ENTITY modelDeleteImmediately.label "Zostanie natychmiast usunięta">
+<!ENTITY modelDeleteImmediately.label "zostanie niezwłoczenie usunięta">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Przy wyjściu z programu porządkuj folder Odebrane">
 <!ENTITY expungeOnExit.accesskey "y">
-<!ENTITY emptyTrashOnExit.label "Przy wyjściu z programu opróżnij Kosz.">
+<!ENTITY emptyTrashOnExit.label "Przy wyjściu z programu opróżniaj Kosz.">
 <!ENTITY emptyTrashOnExit.accesskey "w">
 <!ENTITY loginAtStartup.label "Sprawdzaj podczas uruchamiania, czy są nowe wiadomości">
-<!ENTITY loginAtStartup.accesskey "p">
+<!ENTITY loginAtStartup.accesskey "h">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
@@ -72,8 +72,8 @@
 <!ENTITY abbreviateOn.label 'Pełnej (Na przykład: "pl.rec.humor.najlepsze")'>
 <!ENTITY abbreviateOff.label 'Skróconej (Na przykład: "p.r.h.najlepsze")'>
 <!ENTITY advancedButton.label "Zaawansowane…">
-<!ENTITY serverDefaultCharset.label "Domyślne kodowanie znaków:">
-<!ENTITY advancedButton.accesskey "Z">
+<!ENTITY serverDefaultCharset.label "Domyślny zestaw znaków:">
+<!ENTITY advancedButton.accesskey "a">
 <!ENTITY localFolderPicker.label "Wybierz katalog lokalny">
 <!ENTITY browseFolder.label "Przeglądaj…">
 <!ENTITY browseFolder.accesskey "P">

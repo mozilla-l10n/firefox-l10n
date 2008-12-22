@@ -55,25 +55,25 @@
 <!ENTITY window.title "Reguły filtru">
 
 <!ENTITY filterName.label "Nazwa filtru:">
-<!ENTITY filterName.accesskey "f">
+<!ENTITY filterName.accesskey "N">
 
 <!ENTITY junk.label "Niechciana">
 <!ENTITY notJunk.label "Pożądana">
 
 <!ENTITY lowestPriorityCmd.label "Najniższy">
 <!ENTITY lowPriorityCmd.label "Niski">
-<!ENTITY normalPriorityCmd.label "Standardowe">
+<!ENTITY normalPriorityCmd.label "Normalny">
 <!ENTITY highPriorityCmd.label "Wysoki">
 <!ENTITY highestPriorityCmd.label "Najwyższy">
 
 <!ENTITY contextDesc.label "Stosuj filtr podczas:">
 <!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Sprawdzania poczty">
-<!ENTITY contextManual.label "Ręcznego uruchamiania">
-<!ENTITY contextBoth.label "Sprawdzania poczty lub ręcznego uruchamiania">
+<!ENTITY contextIncoming.label "sprawdzania poczty">
+<!ENTITY contextManual.label "ręcznego uruchamiania">
+<!ENTITY contextBoth.label "sprawdzania poczty lub ręcznego uruchamiania">
 
-<!ENTITY filterActionDesc.label "wykonaj następujące czynności:">
-<!ENTITY filterActionDesc.accesskey "y">
+<!ENTITY filterActionDesc.label "…wykonaj następujące czynności:">
+<!ENTITY filterActionDesc.accesskey "w">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Przenieś wiadomość do">
@@ -84,7 +84,7 @@
 <!ENTITY markMessageStarred.label "Oznacz flagą">
 <!ENTITY labelMessage.label "Nadaj etykietę">
 <!ENTITY setPriority.label "Ustaw priorytet na">
-<!ENTITY addTag.label "Oznacz wiadomość etykietą">
+<!ENTITY addTag.label "Oznacz etykietą">
 <!ENTITY setJunkScore.label "Ustaw status niechcianej poczty na">
 <!ENTITY deleteMessage.label "Usuń wiadomość">
 <!ENTITY deleteFromPOP.label "Usuń z serwera POP">

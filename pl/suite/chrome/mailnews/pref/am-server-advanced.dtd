@@ -21,11 +21,11 @@
 <!ENTITY overrideNamespaces.label "Zezwalaj, aby serwer zmieniał powyższe ustawienia przestrzeni nazw">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Poczta pobierana z tego serwera POP powinna być zapisywana w następującym folderze:">
-<!ENTITY globalInbox.label "Globalna skrzynka odbiorcza (Foldery lokalne)">
+<!ENTITY globalInbox.label "Globalna skrzynka odbiorcza (konto Lokalne foldery)">
 <!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "Folder Odebrane dla konta tego serwera ">
-<!ENTITY accountDirectory.accesskey "S">
-<!ENTITY deferToServer.label "Skrzynka odbiorcza innego konta">
+<!ENTITY accountDirectory.label "Odebrane - dla konta tego serwera">
+<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY deferToServer.label "Odebrane - dla konta:">
 <!ENTITY deferToServer.accesskey "D">
-<!ENTITY deferGetNewMail.label "Uwzględnij serwer podczas pobierania nowych wiadomości">
-<!ENTITY deferGetNewMail.accesskey "I">
+<!ENTITY deferGetNewMail.label "Uwzględnij ten serwer podczas pobierania nowych wiadomości">
+<!ENTITY deferGetNewMail.accesskey "i">

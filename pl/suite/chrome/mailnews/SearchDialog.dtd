@@ -1,9 +1,9 @@
 
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Wyszukaj wiadomości, które w folderze">
-<!ENTITY searchHeading.accesskey "S">
-<!ENTITY searchSubfolders.label "Kontynuuj wyszukiwanie w podfolderach">
-<!ENTITY searchSubfolders.accesskey "p">
+<!ENTITY searchHeading.label "Wyszukaj wiadomości w folderze">
+<!ENTITY searchHeading.accesskey "s">
+<!ENTITY searchSubfolders.label "kontynuuj wyszukiwanie w podfolderach">
+<!ENTITY searchSubfolders.accesskey "k">
 <!ENTITY searchLocalSystem.label "Wyszukaj w lokalnym systemie">
 <!ENTITY searchLocalSystem.accesskey "y">
 <!ENTITY resetButton.label "Wyczyść">
@@ -17,7 +17,7 @@
 <!ENTITY searchDialogTitle.label "Wyszukaj wiadomości">
 <!ENTITY results.label "Wyniki">
 <!ENTITY fileHereMenu.label "Przenieś tutaj">
-<!ENTITY fileHereMenu.accesskey "A">
+<!ENTITY fileHereMenu.accesskey "t">
 <!ENTITY fileButton.label "Przenieś">
 <!ENTITY fileButton.accesskey "P">
 <!ENTITY goToFolderButton.label "Otwórz folder wiadomości">
@@ -27,9 +27,9 @@
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label "Szukaj w:">
-<!ENTITY abSearchHeading.accesskey "S">
+<!ENTITY abSearchHeading.accesskey "j">
 <!ENTITY propertiesButton.label "Właściwości">
-<!ENTITY propertiesButton.accesskey "W">
+<!ENTITY propertiesButton.accesskey "i">
 <!ENTITY composeButton.label "Komponuj">
 <!ENTITY composeButton.accesskey "K">
 <!ENTITY abSearchDialogTitle.label "Zaawansowane wyszukiwanie w książce adresowej">

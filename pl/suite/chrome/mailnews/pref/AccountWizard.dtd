@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Kreator kont">
-<!ENTITY accountWizard.size "width: 50em; height: 38em;">
+<!ENTITY accountWizard.size "width: 63em; height: 44em;">
 
 <!-- Entities for Account Type page -->
 
@@ -17,7 +17,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Tożsamość">
-<!ENTITY identityDesc.label "Poniższe dane określają tożsamość konta i umożliwiają odbiorcom wysyłanych wiadomości identyfikację nadawcy.">
+<!ENTITY identityDesc.label "Poniższe dane określają tożsamość posiadacza konta i umożliwiają odbiorcom wiadomości identyfikację nadawcy.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label 'Wprowadź imię, nazwisko lub pseudonim, który będzie używany w polu "Od:" wysyłanych wiadomości'>
@@ -25,7 +25,7 @@
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label '(na przykład "Michał Wołodyjowski").'>
+<!ENTITY fullnameExample.label '(na przykład: "Michał Wołodyjowski").'>
 <!ENTITY fullnameLabel.label "Twoje imię, nazwisko lub pseudonim:">
 <!ENTITY fullnameLabel.accesskey "T">
 
@@ -47,7 +47,7 @@
 <!ENTITY smtpServerLabel.label "Serwer poczty wychodzącej (SMTP):">
 <!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "Serwer grup dyskusyjnych:">
-<!ENTITY newsServerLabel.accesskey "N">
+<!ENTITY newsServerLabel.accesskey "n">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "Serwer IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -70,9 +70,9 @@
 <!ENTITY usernameExample.label '(na przykład: "michalw").'>
 <!ENTITY usernameLabel.label "Nazwa użytkownika:">
 <!ENTITY usernameLabel.accesskey "U">
-<!ENTITY usernameSmtpDesc.label "Wprowadź podaną przez dostawcę konta nazwę użytkownika, która zostanie użyta podczas połączenia z serwerem poczty wychodzącej (ta nazwa jest zazwyczaj identyczna z nazwą użytkownika serwera poczty przychodzącej).">
+<!ENTITY usernameSmtpDesc.label "Wprowadź nazwę użytkownika podaną przez usługodawcę, która zostanie użyta podczas połączenia z serwerem poczty wychodzącej (ta nazwa jest zazwyczaj identyczna z nazwą użytkownika serwera poczty przychodzącej).">
 <!ENTITY usernameSmtpLabel.label "Nazwa użytkownika:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
+<!ENTITY usernameSmtpLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
@@ -96,14 +96,14 @@
 
 <!-- Entities for Done (Congratulations) page -->
 
-<!ENTITY completionTitle.label "Gratulacje!">
+<!ENTITY completionTitle.label "Konfiguracja zakończona">
 <!ENTITY completionText.label "Kreator kont utworzy nowe konto używając poniższych danych. Czy wprowadzone dane są poprawne?">
 <!ENTITY serverTypePrefix.label "Typ serwera poczty przychodzącej:">
 <!ENTITY serverNamePrefix.label "Nazwa serwera poczty przychodzącej:">
 <!ENTITY smtpServerNamePrefix.label "Nazwa serwera poczty wychodzącej (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nazwa serwera grup dyskusyjnych (NNTP):">
 <!ENTITY downloadOnLogin.label "Pobierz wiadomości">
-<!ENTITY deferStorageDesc.label "Zaznaczenie tej opcji spowoduje, że konto to stanie się częścią globalnej skrzynki odbiorczej. W przeciwnym wypadku poczta dla tego konta będzie przechowywana w swoich własnych folderach. Konto to będzie wtedy widoczne jako konto najwyższego poziomu.">
-<!ENTITY deferStorage.label "Użyj Globalnej skrzynki odbiorczej (poczta będzie przechowywana w Folderach lokalnych)">
+<!ENTITY deferStorageDesc.label "Zaznaczenie poniższego pola wyboru spowoduje, że konto to stanie się częścią globalnej skrzynki odbiorczej. W przeciwnym wypadku poczta dla tego konta będzie przechowywana w swoich własnych folderach. Konto to będzie wtedy widoczne jako konto najwyższego poziomu.">
+<!ENTITY deferStorage.label "Używaj globalnej skrzynki odbiorczej (konto Lokalne foldery będzie wykorzystywane do przechowywania poczty)">
 <!ENTITY clickFinish.label 'Kliknij przycisk "Zakończ", aby zapamiętać wprowadzone dane i zakończyć konfigurację konta.'>
 <!ENTITY clickFinish.labelMac 'Kliknij przycisk "Gotowe", aby zapamiętać wprowadzone dane i zakończyć konfigurację konta.'>
