@@ -39,9 +39,9 @@
 <!ENTITY newDirectoryTitle.label           "ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ ਵਿਸ਼ੇਸਤਾ">
 <!ENTITY directoryName.label               "ਨਾਂ: ">
 <!ENTITY directoryName.accesskey           "n">
-<!ENTITY directoryHostname.label           "ਮੇਜ਼ਬਾਨ ਨਾਂ: ">
+<!ENTITY directoryHostname.label           "ਹੋਸਟ ਨਾਂ: ">
 <!ENTITY directoryHostname.accesskey       "o">
-<!ENTITY directoryBaseDN.label             "ਮੂਲ DN: ">
+<!ENTITY directoryBaseDN.label             "ਬੇਸ DN: ">
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "ਖੋਜ">
 <!ENTITY findButton.accesskey              "f">
@@ -66,7 +66,7 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "ਨਤੀਜੇ">
 <!ENTITY offlineText.label                 "ਤੁਸੀਂ ਇਸ ਡਾਇਰੈਕਟਰੀ ਦੀ ਇੱਕ ਲੋਕਲ 
-ਨਕਲ ਬਣਾ ਸਕਦੇ ਹੋ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਆਫਲਾਇਨ ਕੰਮ ਕਰਨ ਤੇ ਵੀ ਇਸ ਨੂੰ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾ ਸਕੇ">
+ਕਾਪੀ ਬਣਾ ਸਕਦੇ ਹੋ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਆਫਲਾਇਨ ਕੰਮ ਕਰਨ ਤੇ ਵੀ ਇਸ ਨੂੰ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾ ਸਕੇ">
 
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely

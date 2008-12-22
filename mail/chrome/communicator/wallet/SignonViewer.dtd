@@ -1,17 +1,17 @@
-<!ENTITY      windowtitle.label               "ਗੁਪਤ-ਕੋਡ ਪ੍ਰਬੰਧਕ">
-<!ENTITY      windowalttitle.label            "ਫਾਰਮ ਪ੍ਰਬੰਧਕ: ਸਾਇਟਾਂ">
-<!ENTITY      tab.signonsstored.label         "ਗੁਪਤ-ਕੋਡ ਸੰਭਾਲੋ">
-<!ENTITY      tab.signonsnotstored.label      "ਗੁਪਤ-ਕੋਡ ਕਦੇ ਨਾ ਸੰਭਾਲੋ">
-<!ENTITY      tab.nopreview.label             "ਫਾਰਮਾਂ ਦਾ ਕਦੇ ਨਮੂਨਾ ਨਾ ਦਿਓ">
+<!ENTITY      windowtitle.label               "ਪਾਸਵਰਡ ਮੈਨੇਜਰ">
+<!ENTITY      windowalttitle.label            "ਫਾਰਮ ਮੈਨੇਜਰ: ਸਾਇਟਾਂ">
+<!ENTITY      tab.signonsstored.label         "ਪਾਸਵਰਡ ਸੰਭਾਲੋ">
+<!ENTITY      tab.signonsnotstored.label      "ਪਾਸਵਰਡ ਕਦੇ ਨਾ ਸੰਭਾਲੋ">
+<!ENTITY      tab.nopreview.label             "ਫਾਰਮਾਂ ਦੀ ਕਦੇ ਝਲਕ ਨਾ ਦਿਓ">
 <!ENTITY      tab.nocapture.label             "ਫਾਰਮ ਕਦੇ ਨਾ ਸੰਭਾਲੋ">
 
-<!ENTITY      spiel.signonsstored.label       "ਗੁਪਤ-ਕੋਡ ਪ੍ਰਬੰਧਕ ਹੇਠ ਦਿੱਤੀਆਂ ਸਾਇਟਾਂ ਬਾਰੇ ਲਾੱਗਆਨ ਜਾਣਕਾਰੀ ਸੰਭਾਲ ਕੇ ਰੱਖੀ ਹੈ:">
-<!ENTITY      spiel.signonsnotstored.label    "ਗੁਪਤ-ਕੋਡ ਪ੍ਰਬੰਧਕ ਹੇਠ ਦਿੱਤੀਆਂ ਸਾਇਟਾਂ ਬਾਰੇ ਕਦੇ ਵੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੰਭਾਲੇਗਾ ਨਹੀਂ:">
-<!ENTITY      spiel.nopreview.label           "ਫਾਰਮ ਪ੍ਰਬੰਧਕ ਇਹਨਾਂ ਸਾਇਟਾਂ ਲ਼ਈ ਤੁਹਾਡੇ ਰਾਹੀਂ  ਪਹਿਲਾਂ ਭਰੇ ਫਾਰਮ ਕਦੇ ਨਹੀਂ ਵੇਖੇਗਾ:">
-<!ENTITY      spiel.nocapture.label           "ਫਾਰਮ ਪ੍ਰਬੰਧਕ ਇਹਨਾਂ ਸਾਇਟਾਂ ਤੋਂ ਫਾਰਮਾਂ ਨੂੰ ਕਦੇ ਵੀ ਸੰਭਾਲਣ ਲਈ ਨਹੀਂ ਪੁੱਛੇਗਾ:">
+<!ENTITY      spiel.signonsstored.label       "ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਹੇਠ ਦਿੱਤੀਆਂ ਸਾਇਟਾਂ ਬਾਰੇ ਲਾੱਗਆਨ ਜਾਣਕਾਰੀ ਸੰਭਾਲ ਕੇ ਰੱਖੀ ਹੈ:">
+<!ENTITY      spiel.signonsnotstored.label    "ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਹੇਠ ਦਿੱਤੀਆਂ ਸਾਇਟਾਂ ਬਾਰੇ ਕਦੇ ਵੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੰਭਾਲੇਗਾ ਨਹੀਂ:">
+<!ENTITY      spiel.nopreview.label           "ਫਾਰਮ ਮੈਨੇਜਰ ਇਹਨਾਂ ਸਾਇਟਾਂ ਲ਼ਈ ਤੁਹਾਡੇ ਰਾਹੀਂ  ਪਹਿਲਾਂ ਭਰੇ ਫਾਰਮ ਕਦੇ ਨਹੀਂ ਵੇਖੇਗਾ:">
+<!ENTITY      spiel.nocapture.label           "ਫਾਰਮ ਮੈਨੇਜਰ ਇਹਨਾਂ ਸਾਇਟਾਂ ਤੋਂ ਫਾਰਮਾਂ ਨੂੰ ਕਦੇ ਵੀ ਸੰਭਾਲਣ ਲਈ ਨਹੀਂ ਪੁੱਛੇਗਾ:">
 
 <!ENTITY      treehead.site.label             "ਸਾਇਟ">
-<!ENTITY      treehead.username.label         "ਉਪਭੋਗੀ ਨਾਂ">
-<!ENTITY      treehead.password.label         "ਗੁਪਤ-ਕੋਡ">
+<!ENTITY      treehead.username.label         "ਯੂਜ਼ਰ ਨਾਂ">
+<!ENTITY      treehead.password.label         "ਪਾਸਵਰਡ">
 <!ENTITY      remove.label                    "ਹਟਾਉ">
 <!ENTITY      removeall.label                 "ਸਭ ਹਟਾਓ">
