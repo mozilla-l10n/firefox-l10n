@@ -20,6 +20,7 @@
 
  Contributor(s):
    Robert Kaiser <kairo@kairo.at>
+   Caio Tiago Oliveira <asrail@gmail.com>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,19 +36,19 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY menuBar.tooltip       "Menu Bar">
-<!ENTITY modeToolbar.tooltip   "Mode Toolbar">
-<!ENTITY entryToolbar.tooltip  "Javascript Entry Toolbar">
-<!ENTITY toolbarsCmd.label     "Show/Hide">
-<!ENTITY toolbarsCmd.accesskey "w">
-<!ENTITY toolbarMode.label     "Mode">
+<!ENTITY menuBar.tooltip       "Barra de Menu">
+<!ENTITY modeToolbar.tooltip   "Barra de ferramentas de modo">
+<!ENTITY entryToolbar.tooltip  "Barra de ferramentas de Javascript">
+<!ENTITY toolbarsCmd.label     "Exibir/ocultar">
+<!ENTITY toolbarsCmd.accesskey "E">
+<!ENTITY toolbarMode.label     "Modo">
 <!ENTITY toolbarMode.accesskey "M">
-<!ENTITY toolbarEval.label     "JavaScript Entry">
+<!ENTITY toolbarEval.label     "Entrada de JavaScript">
 <!ENTITY toolbarEval.accesskey "J">
 
-<!ENTITY all.accesskey         "A">
+<!ENTITY all.accesskey         "T">
 <!ENTITY errors.accesskey      "r">
-<!ENTITY warnings.accesskey    "n">
+<!ENTITY warnings.accesskey    "A">
 <!ENTITY messages.accesskey    "M">
-<!ENTITY clear.accesskey       "l">
+<!ENTITY clear.accesskey       "L">
 <!ENTITY evaluate.accesskey    "u">

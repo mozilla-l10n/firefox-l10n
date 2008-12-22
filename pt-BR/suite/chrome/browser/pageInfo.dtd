@@ -62,14 +62,14 @@
 <!ENTITY  feedSubscribe         "Se inscrever">
 <!ENTITY  feedSubscribe.accesskey "i">
 
-<!ENTITY  feedTab               "Feeds">
-<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedTab               "RSS">
+<!ENTITY  feedTab.accesskey     "R">
 <!ENTITY  generalSecurityMore   "Mais">
 <!ENTITY  generalSecurityMore.accesskey "a">
 
 
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
-<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 40em;">
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "Permitir para sessão">
 <!ENTITY  permBlock             "Bloquear">

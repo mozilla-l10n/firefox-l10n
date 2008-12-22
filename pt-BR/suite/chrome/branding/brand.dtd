@@ -1,5 +1,5 @@
 <!ENTITY  brandFullName         "SeaMonkey">
 <!ENTITY  brandShortName        "SeaMonkey">
 <!ENTITY  vendorShortName       "SeaMonkey">
-<!ENTITY  sidebarName           "Sidebar">
-<!ENTITY  copyright.string      "Copyright &copy; 2003-2008 Contributors to the Mozilla project.">
+<!ENTITY  sidebarName           "Painel">
+<!ENTITY  copyright.string      "Direitos autorais &copy; 2003-2008 Contribuidores do projeto Mozilla.">
