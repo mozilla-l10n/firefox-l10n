@@ -47,7 +47,7 @@
 <!ENTITY newListCmd.label "Lista dystrybucyjna…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey "l">
-<!ENTITY newAddressBookCmd.label "Książka adresowa">
+<!ENTITY newAddressBookCmd.label "Książka adresowa…">
 <!ENTITY newAddressBookCmd.accesskey "k">
 <!ENTITY newLDAPDirectoryCmd.label "Katalog LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
@@ -69,7 +69,7 @@
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label "Usuń książkę adresową">
 <!ENTITY deleteContactCmd.label "Usuń wizytówkę">
-<!ENTITY deleteContactsCmd.label "Usuń wybrane wizytówki">
+<!ENTITY deleteContactsCmd.label "Usuń zaznaczone wizytówki">
 <!ENTITY deleteListCmd.label "Usuń listę">
 <!ENTITY deleteListsCmd.label "Usuń zaznaczone listy">
 <!ENTITY deleteItemsCmd.label "Usuń zaznaczone elementy">
@@ -121,10 +121,10 @@
 <!ENTITY addressbookToolbar.tooltip "Pasek narzędzi książki adresowej">
 <!ENTITY newContactButton.tooltip "Dodaj nową wizytówkę do książki adresowej">
 <!ENTITY newlistButton.tooltip "Utwórz nową listę dystrybucyjną">
-<!ENTITY editItemButton.tooltip "Edytuj wybrany element">
+<!ENTITY editItemButton.tooltip "Edytuj zaznaczony element">
 <!ENTITY newmsgButton.tooltip "Wyślij wiadomość">
 <!ENTITY newIM.tooltip "Połącz z adresatem za pomocą komunikatora">
-<!ENTITY deleteItemButton.tooltip "Usuń wybrany element">
+<!ENTITY deleteItemButton.tooltip "Usuń zaznaczony element">
 <!ENTITY throbber.tooltip "&vendorShortName;PL! Otwórz naszą stronę!">
 <!ENTITY advancedButton.tooltip "Zaawansowane wyszukiwanie adresów">
 

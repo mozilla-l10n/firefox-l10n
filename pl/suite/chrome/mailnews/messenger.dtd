@@ -391,10 +391,10 @@
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Uruchom filtr niechcianej poczty">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
-<!ENTITY markAsShowRemoteCmd.label "Pokaż zewnętrzną zawartość">
+<!ENTITY markAsShowRemoteCmd.label "Wyświetl zdalną zawartość">
 <!ENTITY markAsShowRemoteCmd.accesskey "e">
 <!ENTITY markAsShowRemoteCmd.key "r">
-<!ENTITY markAsNotPhishCmd.label "Prawdziwa">
+<!ENTITY markAsNotPhishCmd.label "Jako prawdziwą">
 <!ENTITY markAsNotPhishCmd.accesskey "r">
 <!ENTITY markAsNotPhishCmd.key "p">
 <!ENTITY openMessageWindowCmd.label "Otwórz wiadomość">
@@ -446,8 +446,8 @@
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Pasek menu">
-<!ENTITY mailToolbar.tooltip "Pasek narzędzi pocztowych">
-<!ENTITY locationToolbar.tooltip "Pasek położenia">
+<!ENTITY mailToolbar.tooltip "Pasek narzędzi poczty">
+<!ENTITY locationToolbar.tooltip "Pasek adresu">
 <!ENTITY advancedButton.tooltip "Zaawansowane wyszukiwanie wiadomości">
 <!ENTITY getMsgButton.tooltip "Pobierz nowe wiadomości">
 <!ENTITY newMsgButton.tooltip "Utwórz nową wiadomość">
