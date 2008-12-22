@@ -40,7 +40,7 @@
 <!ENTITY folderQuotaTab.label "Cota">
 <!ENTITY folderQuotaRoot.label "Raiz de cotas:">
 <!ENTITY folderQuotaUsage.label "Uso:">
-<!ENTITY folderQuotaStatus.label "Estado:">
+<!ENTITY folderQuotaStatus.label "Status:">
 <!ENTITY folderProps.location.accesskey          "E">
 <!ENTITY folderProps.location.label              "Endereço:">
 <!ENTITY retentionDeleteMsg.label "Apagar mensagens recebidas há mais">
