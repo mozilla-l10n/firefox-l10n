@@ -34,35 +34,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY GeneratedName.label                   "Name">
+<!ENTITY GeneratedName.label                   "ਨਾਂ">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "Email">
+<!ENTITY PrimaryEmail.label                    "ਈਮੇਲ">
 <!ENTITY PrimaryEmail.accesskey                "E">
-<!ENTITY Company.label                         "Organization">
+<!ENTITY Company.label                         "ਸੰਗਠਨ">
 <!ENTITY Company.accesskey                     "z">
-<!ENTITY _PhoneticName.label                   "Phonetic Name">
+<!ENTITY _PhoneticName.label                   "ਬਲਾਉਣ ਲਈ ਨਾਂ">
 <!ENTITY _PhoneticName.accesskey               "o">
-<!ENTITY NickName.label                        "Nickname">
+<!ENTITY NickName.label                        "ਛੋਟਾ ਨਾਂ">
 <!ENTITY NickName.accesskey                    "i">
-<!ENTITY SecondEmail.label                     "Additional Email">
+<!ENTITY SecondEmail.label                     "ਹੋਰ ਈਮੇਲ">
 <!ENTITY SecondEmail.accesskey                 "l">
-<!ENTITY Department.label                      "Department">
+<!ENTITY Department.label                      "ਵਿਭਾਗ">
 <!ENTITY Department.accesskey                  "r">
-<!ENTITY JobTitle.label                        "Title">
+<!ENTITY JobTitle.label                        "ਟਾਈਟਲ">
 <!ENTITY JobTitle.accesskey                    "T">
-<!ENTITY CellularNumber.label                  "Mobile">
+<!ENTITY CellularNumber.label                  "ਮੋਬਾਇਲ">
 <!ENTITY CellularNumber.accesskey              "M">
-<!ENTITY PagerNumber.label                     "Pager">
+<!ENTITY PagerNumber.label                     "ਪੇਜ਼ਰ">
 <!ENTITY PagerNumber.accesskey                 "P">
-<!ENTITY FaxNumber.label                       "Fax">
+<!ENTITY FaxNumber.label                       "ਫੈਕਸ">
 <!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Home Phone">
+<!ENTITY HomePhone.label                       "ਘਰ ਫੋਨ">
 <!ENTITY HomePhone.accesskey                   "H">
-<!ENTITY WorkPhone.label                       "Work Phone">
+<!ENTITY WorkPhone.label                       "ਕੰਮ ਫੋਨ">
 <!ENTITY WorkPhone.accesskey                   "W">
-<!ENTITY ScreenName.label                      "Screen Name">
+<!ENTITY ScreenName.label                      "ਸਕਰੀਨ ਨਾਂ">
 <!ENTITY ScreenName.accesskey                  "S">
-<!ENTITY sortAscending.label                   "Ascending">
+<!ENTITY sortAscending.label                   "ਵੱਧਦਾ ਕ੍ਰਮ">
 <!ENTITY sortAscending.accesskey               "A">
-<!ENTITY sortDescending.label                  "Descending">
+<!ENTITY sortDescending.label                  "ਘੱਟਦਾ ਕ੍ਰਮ">
 <!ENTITY sortDescending.accesskey              "D">

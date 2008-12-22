@@ -2,58 +2,58 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label          "File">
+<!ENTITY fileMenu.label          "ਫਾਇਲ">
 <!ENTITY fileMenu.accesskey        "f">
-<!ENTITY newMenu.label            "New">
+<!ENTITY newMenu.label            "ਨਵਾਂ">
 <!ENTITY newMenu.accesskey          "N">
 
-<!ENTITY editMenu.label          "Edit">
+<!ENTITY editMenu.label          "ਸੋਧ">
 <!ENTITY editMenu.accesskey        "e">
-<!ENTITY undoCmd.label            "Undo">
+<!ENTITY undoCmd.label            "ਵਾਪਸ">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "u">
-<!ENTITY redoCmd.label            "Redo">
+<!ENTITY redoCmd.label            "ਪਰਤਾਓ">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "r">
-<!ENTITY cutCmd.label            "Cut">
+<!ENTITY cutCmd.label            "ਕੱਟੋ">
 <!ENTITY cutCmd.key              "X">
 <!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "Copy">
+<!ENTITY copyCmd.label            "ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "c">
-<!ENTITY pasteCmd.label            "Paste">
+<!ENTITY pasteCmd.label            "ਚੇਪੋ">
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "p">
-<!ENTITY deleteCmd.label          "Delete">
+<!ENTITY deleteCmd.label          "ਹਟਾਓ">
 <!ENTITY deleteCmd.accesskey        "d">
-<!ENTITY selectAllCmd.label          "Select All">
+<!ENTITY selectAllCmd.label          "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd.label        "Options…">
+<!ENTITY preferencesCmd.label        "ਚੋਣਾਂ…">
 <!ENTITY preferencesCmd.accesskey      "O">
-<!ENTITY preferencesCmdUnix.label       "Preferences">
+<!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY viewMenu.label          "View">
+<!ENTITY viewMenu.label          "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey        "v">
-<!ENTITY viewToolbarsMenu.label        "Toolbars">
+<!ENTITY viewToolbarsMenu.label        "ਟੂਲਬਾਰ">
 <!ENTITY viewToolbarsMenu.accesskey      "T">
-<!ENTITY showTaskbarCmd.label          "Status Bar">
+<!ENTITY showTaskbarCmd.label          "ਹਾਲਤ ਪੱਟੀ">
 <!ENTITY showTaskbarCmd.accesskey        "S">
 
-<!ENTITY proxy.label                                    "Proxy Configuration…">
+<!ENTITY proxy.label                                    "ਪਰਾਕਸੀ ਸੰਰਚਨਾ…">
 <!ENTITY proxy.accesskey                                "C">
 
-<!ENTITY closeCmd.label      "Close">
+<!ENTITY closeCmd.label      "ਬੰਦ">
 <!ENTITY closeCmd.key      "W">
 <!ENTITY closeCmd.accesskey    "c">
 
-<!ENTITY quitApplicationCmd.label  "Exit">
+<!ENTITY quitApplicationCmd.label  "ਬੰਦ ਕਰੋ">
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "x">
 
-<!ENTITY quitApplicationCmdUnix.label  "Quit">
+<!ENTITY quitApplicationCmdUnix.label  "ਬੰਦ ਕਰੋ">
 <!ENTITY quitApplicationCmdUnix.accesskey  "q">
 
-<!ENTITY quitApplicationCmdMac.label  "Quit &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label  "&brandShortName; ਬੰਦ ਕਰੋ">
 <!ENTITY quitApplicationCmdMac.accesskey  "q">

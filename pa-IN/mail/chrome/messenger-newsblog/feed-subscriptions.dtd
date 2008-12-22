@@ -10,9 +10,9 @@
 <!ENTITY button.editFeed.accesskey  "E">
 <!ENTITY button.removeFeed.label "ਹਟਾਓ">
 <!ENTITY button.removeFeed.accesskey   "R">
-<!ENTITY button.importOPML.label "ਆਯਾਤ">
+<!ENTITY button.importOPML.label "ਇੰਪੋਰਟ">
 <!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "ਨਿਰਯਾਤ">
+<!ENTITY button.exportOPML.label "ਐਕਸਪੋਰਟ">
 <!ENTITY button.exportOPML.accesskey   "X">
  
 <!ENTITY cmd.close.commandKey             "w">

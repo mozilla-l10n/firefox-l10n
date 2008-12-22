@@ -1,9 +1,9 @@
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
-<!ENTITY editorCheck.label "ਸੰਪਾਦਕ">
+<!ENTITY editorCheck.label "ਐਡੀਟਰ">
 <!ENTITY editorCheck.accesskey "c">
 
-<!ENTITY compose.label "ਸੰਪਾਦਕ">
+<!ENTITY compose.label "ਐਡੀਟਰ">
 <!ENTITY editing.label "ਨਵੀਂ ਪੇਜ਼ ਸੈਟਿੰਗ">
 <!ENTITY toolbars.label "ਟੂਲਬਾਰ">
 <!ENTITY publish.label "ਪਬਲਿਸ਼">

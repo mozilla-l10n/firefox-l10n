@@ -9,10 +9,10 @@
 
 <!ENTITY choosethisfolder.label   "ਇਹ ਫੋਲਡਰ ਚੁਣੋ">
  
-<!ENTITY quickMode.label          "ਇੱਕ ਵੈੱਬ ਸਫ਼ਾ ਵੇਖਾਉਣ ਦੀ ਬਜਾਏ ਲੇਖ ਸਾਰ ਵੇਖਾਓ">
+<!ENTITY quickMode.label          "ਇੱਕ ਵੈੱਬ ਸਫ਼ਾ ਵੇਖਾਉਣ ਦੀ ਬਜਾਏ ਲੇਖ ਫੀਡ ਵੇਖੋ">
 <!ENTITY quickMode.accesskey      "h">
  
-<!ENTITY copyLinkCmd.label        "ਸਬੰਧ ਟਿਕਾਣਾ ਨਕਲ ਕਰੋ">
+<!ENTITY copyLinkCmd.label        "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyLinkCmd.accesskey    "C">
  
 <!ENTITY pasteLinkCmd.label       "ਚੇਪੋ">

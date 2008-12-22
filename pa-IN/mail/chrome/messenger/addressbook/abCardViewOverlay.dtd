@@ -26,7 +26,7 @@ Rights Reserved.
 <!ENTITY work.heading                "ਕੰਮ">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading         "ਵੇਰਵਾ">
-<!ENTITY addresses.heading           "ਸਿਰਨਾਵਾਂ">
+<!ENTITY addresses.heading           "ਐਡਰੈੱਸ">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label           "ਨਕਸ਼ਾ ਪ੍ਰਾਪਤ ਕਰੋ">
-<!ENTITY mapIt.tooltip               "ਇਸ ਸਿਰਨਾਵੇਂ ਲਈ ਵੈੱਬ ਤੋਂ ਨਕਸ਼ਾ ਪ੍ਰਾਪਤ ਕਰੋ">
+<!ENTITY mapItButton.label           "ਨਕਸ਼ਾ ਵਲੋਂ">
+<!ENTITY mapIt.tooltip               "ਇਸ ਐਡਰੈੱਸ ਲਈ ਵੈੱਬ ਤੋਂ ਨਕਸ਼ਾ ਲਵੋ">

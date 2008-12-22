@@ -1,207 +1,207 @@
-<!ENTITY addressbookWindow.title                        "Address Book">
+<!ENTITY addressbookWindow.title                        "ਐਡਰੈੱਸ ਬੁੱਕ">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label                                 "File">
+<!ENTITY fileMenu.label                                 "ਫਾਇਲ">
 <!ENTITY fileMenu.accesskey                             "f">
-<!ENTITY newMenu.label                                  "New">
+<!ENTITY newMenu.label                                  "ਨਵਾਂ">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Address Book Contact…">
+<!ENTITY newContact.label                               "ਐਡਰੈੱਸ ਬੁੱਕ ਸੰਪਰਕ…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Mailing List…">
+<!ENTITY newListCmd.label                               "ਮੇਲਿੰਗ ਲਿਸਟ…">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Address Book…">
+<!ENTITY newAddressBookCmd.label                        "ਐਡਰੈੱਸ ਬੁੱਕ…">
 <!ENTITY newAddressBookCmd.accesskey                    "B">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP Directory…">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP ਡਾਇਰੈਕਟਰੀ…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
-<!ENTITY newMessageCmd.label                            "Message">
+<!ENTITY newMessageCmd.label                            "ਸੁਨੇਹਾ">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
+<!ENTITY osxAddressBook.label                           "Mac OS X ਐਡਰੈੱਸ ਬੁੱਕ ਵਰਤੋਂ">
 <!ENTITY osxAddressBook.accesskey                       "O">
-<!ENTITY closeCmd.label                                 "Close">
+<!ENTITY closeCmd.label                                 "ਬੰਦ ਕਰੋ">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "Page Setup…">
+<!ENTITY printSetupCmd.label                            "ਪੇਜ਼ ਸੈੱਟਅੱਪ…">
 <!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
+<!ENTITY printPreviewContactCmd.label                   "ਸੰਪਰਕ ਪਰਿੰਟ ਝਲਕ">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Print Preview Address Book">
+<!ENTITY printPreviewAddressBook.label                  "ਐਡਰੈੱਸ ਬੁੱਕ ਪਰਿੰਟ ਝਲਕ">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printContactCmd.label                          "Print Contact…">
+<!ENTITY printContactCmd.label                          "ਸੰਪਰਕ ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Print Address Book…">
+<!ENTITY printAddressBook.label                         "ਐਡਰੈੱਸ ਬੁੱਕ ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY printAddressBook.accesskey                     "A">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label                                 "Edit">
+<!ENTITY editMenu.label                                 "ਸੋਧ">
 <!ENTITY editMenu.accesskey                             "e">
-<!ENTITY undoCmd.label                                  "Undo">
+<!ENTITY undoCmd.label                                  "ਵਾਪਸ">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "u">
-<!ENTITY redoCmd.label                                  "Redo">
+<!ENTITY redoCmd.label                                  "ਪਰਤਾਓ">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "r">
-<!ENTITY cutCmd.label                                   "Cut">
+<!ENTITY cutCmd.label                                   "ਕੱਟੋ">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Copy">
+<!ENTITY copyCmd.label                                  "ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "c">
-<!ENTITY pasteCmd.label                                 "Paste">
+<!ENTITY pasteCmd.label                                 "ਚੇਪੋ">
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "p">
-<!ENTITY deleteCmd.label                                "Delete">
+<!ENTITY deleteCmd.label                                "ਹਟਾਓ">
 <!ENTITY deleteCmd.accesskey                            "d">
-<!ENTITY deleteAbCmd.label                              "Delete Address Book">
-<!ENTITY deleteContactCmd.label                         "Delete Contact">
-<!ENTITY deleteContactsCmd.label                        "Delete Contacts">
-<!ENTITY deleteListCmd.label                            "Delete List">
-<!ENTITY deleteListsCmd.label                           "Delete Lists">
-<!ENTITY deleteItemsCmd.label                           "Delete Items">
-<!ENTITY selectAllCmd.label                             "Select All">
+<!ENTITY deleteAbCmd.label                              "ਐਡਰੈੱਸ ਬੁੱਕ ਹਟਾਓ">
+<!ENTITY deleteContactCmd.label                         "ਸੰਪਰਕ ਹਟਾਓ">
+<!ENTITY deleteContactsCmd.label                        "ਸੰਪਰਕ ਹਟਾਓ">
+<!ENTITY deleteListCmd.label                            "ਲਿਸਟ ਹਟਾਓ">
+<!ENTITY deleteListsCmd.label                           "ਲਿਸਟਾਂ ਹਟਾਓ">
+<!ENTITY deleteItemsCmd.label                           "ਆਈਟਮਾਂ ਹਟਾਓ">
+<!ENTITY selectAllCmd.label                             "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Swap First/Last Name">
+<!ENTITY swapFirstNameLastNameCmd.label                 "ਪਹਿਲਾਂ/ਆਖਰੀ ਨਾਂ ਆਪਸ 'ਚ ਬਦਲੋ">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Properties…">
+<!ENTITY propertiesCmd.label                            "ਵਿਸ਼ੇਸ਼ਤਾ…">
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label                                 "View">
+<!ENTITY viewMenu.label                                 "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey                             "v">
-<!ENTITY viewToolbarsMenu.label                         "Toolbars">
+<!ENTITY viewToolbarsMenu.label                         "ਟੂਲਬਾਰ">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
-<!ENTITY showAbToolbarCmd.label                         "Address Book Toolbar">
+<!ENTITY showAbToolbarCmd.label                         "ਐਡਰੈੱਸ ਬੁੱਕ ਟੂਲਬਾਰ">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
-<!ENTITY showTaskbarCmd.label                           "Status Bar">
+<!ENTITY showTaskbarCmd.label                           "ਹਾਲਤ-ਪੱਟੀ">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
-<!ENTITY customizeToolbar.label                         "Customize…">
+<!ENTITY customizeToolbar.label                         "ਪਸੰਦ…">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showContactPane.label                          "Contact Summary Pane">
+<!ENTITY showContactPane.label                          "ਸੰਪਰਕ ਸੰਖੇਪ ਬਾਹੀ">
 <!ENTITY showContactPane.accesskey                      "C">
-<!ENTITY menu_ShowNameAs.label                          "Show Name As">
+<!ENTITY menu_ShowNameAs.label                          "ਨਾਂ ਇੰਝ ਵੇਖੋ">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "First, Last">
+<!ENTITY firstLastCmd.label                             "ਪਹਿਲਾਂ, ਆਖਰੀ">
 <!ENTITY firstLastCmd.accesskey                         "f"> 
-<!ENTITY lastFirstCmd.label                             "Last, First">
+<!ENTITY lastFirstCmd.label                             "ਆਖਰੀ, ਪਹਿਲਾਂ">
 <!ENTITY lastFirstCmd.accesskey                         "l">
-<!ENTITY displayNameCmd.label                           "Display Name">
+<!ENTITY displayNameCmd.label                           "ਵੇਖਾਉਣ ਨਾਂ">
 <!ENTITY displayNameCmd.accesskey                       "d">
-<!ENTITY sortMenu.label                                 "Sort by">
+<!ENTITY sortMenu.label                                 "ਲੜੀਬੱਧ">
 <!ENTITY sortMenu.accesskey                             "S">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label                                "Tools">
+<!ENTITY tasksMenu.label                                "ਟੂਲ">
 <!ENTITY tasksMenu.accesskey                            "T">
-<!ENTITY messengerCmd.label                             "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.label                             "ਮੇਲ &amp; ਨਿਊਜ਼-ਗਰੁੱਪ">
 <!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Search Addresses…">
+<!ENTITY searchAddressesCmd.label                       "ਐਡਰੈੱਸ ਖੋਜ…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
-<!ENTITY importCmd.label                                "Import…">
+<!ENTITY importCmd.label                                "ਇੰਪੋਰਟ…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Export…">
+<!ENTITY exportCmd.label                                "ਐਕਸਪੋਰਟ…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Options…">
+<!ENTITY preferencesCmd.label                           "ਚੋਣਾਂ…">
 <!ENTITY preferencesCmd.accesskey                       "O">
-<!ENTITY preferencesCmdUnix.label                       "Preferences">
+<!ENTITY preferencesCmdUnix.label                       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newContactButton.label                         "New Contact">
+<!ENTITY newContactButton.label                         "ਨਵਾਂ ਸੰਪਰਕ">
 <!ENTITY newContactButton.accesskey                     "C">
-<!ENTITY newlistButton.label                            "New List">
+<!ENTITY newlistButton.label                            "ਨਵੀਂ ਲਿਸਟ">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Properties">
+<!ENTITY editButton2.label                              "ਵਿਸ਼ੇਸ਼ਤਾ">
 <!ENTITY editButton2.accesskey                          "P">
-<!ENTITY newmsgButton.label                             "Write">
+<!ENTITY newmsgButton.label                             "ਲਿਖੋ">
 <!ENTITY newmsgButton.accesskey                         "W">
-<!ENTITY newIM.label                                    "Instant Message">
+<!ENTITY newIM.label                                    "ਤੁਰੰਤ ਸੁਨੇਹਾ">
 <!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton2.label                            "Delete">
+<!ENTITY deleteButton2.label                            "ਹਟਾਓ">
 <!ENTITY deleteButton2.accesskey                        "D">
-<!ENTITY throbberItem.title                             "Activity Indicator">
+<!ENTITY throbberItem.title                             "ਸਰਗਰਮੀ ਇੰਡੀਕੇਟਰ">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Create a new address book contact">
-<!ENTITY newlistButton.tooltip                          "Create a new list">
-<!ENTITY editButton2.tooltip                            "Edit the selected item">
-<!ENTITY newmsgButton.tooltip                           "Send a mail message">
-<!ENTITY newIM.tooltip                                  "Send an instant message or chat">
-<!ENTITY deleteButton2.tooltip                           "Delete selected item">
+<!ENTITY newContactButton.tooltip                       "ਨਵਾਂ ਐਡਰੈੱਸ ਬੁੱਕ ਸੰਪਰਕ ਬਣਾਓ">
+<!ENTITY newlistButton.tooltip                          "ਇੱਕ ਨਵੀਂ ਲਿਸਟ ਬਣਾਓ">
+<!ENTITY editButton2.tooltip                            "ਚੁਣੀ ਆਈਟਮ ਸੋਧੋ">
+<!ENTITY newmsgButton.tooltip                           "ਇੱਕ ਈਮੇਲ ਸੁਨੇਹਾ ਭੇਜੋ">
+<!ENTITY newIM.tooltip                                  "ਇੱਕ ਤੁਰੰਤ ਸੁਨੇਹਾ ਭੇਜੋ ਜਾਂ ਗੱਲਬਾਤ ਕਰੋ">
+<!ENTITY deleteButton2.tooltip                           "ਚੁਣੀ ਆਈਟਮ ਹਟਾਓ">
 
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Address Books">
+<!ENTITY dirTreeHeader.label                            "ਐਡਰੈੱਸ ਬੁੱਕ">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Name or Email">
+<!ENTITY SearchNameOrEmail.label                        "ਨਾਂ ਜਾਂ ਈਮੇਲ">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Advanced address search">
+<!ENTITY advancedButton.tooltip                         "ਮਾਹਰ ਐਡਰੈੱਸ ਖੋਜ">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title "Quick Search">
+<!ENTITY searchItem.title "ਤੁਰੰਤ ਖੋਜ">
 
 <!-- Results Pane -->
-<!ENTITY GeneratedName.label                            "Name">
+<!ENTITY GeneratedName.label                            "ਨਾਂ">
 <!ENTITY GeneratedName.accesskey                        "N">
-<!ENTITY PrimaryEmail.label                             "Email">
+<!ENTITY PrimaryEmail.label                             "ਈਮੇਲ">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Screen Name">
+<!ENTITY ScreenName.label                               "ਸਕਰੀਨ ਨਾਂ">
 <!ENTITY ScreenName.accesskey                           "S">
-<!ENTITY Company.label                                  "Organization">
+<!ENTITY Company.label                                  "ਸੰਗਠਨ">
 <!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "Nickname">
+<!ENTITY NickName.label                                 "ਛੋਟਾ ਨਾਂ">
 <!ENTITY NickName.accesskey                             "i">
-<!ENTITY SecondEmail.label                              "Additional Email">
+<!ENTITY SecondEmail.label                              "ਹੋਰ ਈਮੇਲ">
 <!ENTITY SecondEmail.accesskey                          "l">
-<!ENTITY Department.label                               "Department">
+<!ENTITY Department.label                               "ਵਿਭਾਗ">
 <!ENTITY Department.accesskey                           "r">
-<!ENTITY JobTitle.label                                 "Title">
+<!ENTITY JobTitle.label                                 "ਟਾਈਟਲ">
 <!ENTITY JobTitle.accesskey                             "T">
-<!ENTITY CellularNumber.label                           "Mobile">
+<!ENTITY CellularNumber.label                           "ਮੋਬਾਇਲ">
 <!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pager">
+<!ENTITY PagerNumber.label                              "ਪੇਜ਼ਰ">
 <!ENTITY PagerNumber.accesskey                          "P">
-<!ENTITY FaxNumber.label                                "Fax">
+<!ENTITY FaxNumber.label                                "ਫੈਕਸ">
 <!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Home Phone">
+<!ENTITY HomePhone.label                                "ਘਰ ਫੋਨ">
 <!ENTITY HomePhone.accesskey                            "H">
-<!ENTITY WorkPhone.label                                "Work Phone">
+<!ENTITY WorkPhone.label                                "ਕੰਮ ਫੋਨ">
 <!ENTITY WorkPhone.accesskey                            "W">
-<!ENTITY sortAscending.label                            "Ascending">
+<!ENTITY sortAscending.label                            "ਵੱਧਦਾ ਕ੍ਰਮ">
 <!ENTITY sortAscending.accesskey                        "A">
-<!ENTITY sortDescending.label                           "Descending">
+<!ENTITY sortDescending.label                           "ਘੱਟਦਾ ਕ੍ਰਮ">
 <!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "Phonetic Name">
+<!ENTITY _PhoneticName.label                            "ਬਲਾਉਣ ਨਾਂ">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Contact">
-<!ENTITY home.heading                                   "Home">
-<!ENTITY other.heading                                  "Other">
-<!ENTITY phone.heading                                  "Phone">
-<!ENTITY work.heading                                   "Work">
+<!ENTITY contact.heading                                "ਸੰਪਰਕ">
+<!ENTITY home.heading                                   "ਘਰ">
+<!ENTITY other.heading                                  "ਹੋਰ">
+<!ENTITY phone.heading                                  "ਫੋਨ">
+<!ENTITY work.heading                                   "ਕੰਮ">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading                            "Description">
-<!ENTITY addresses.heading                              "Addresses">
+<!ENTITY description.heading                            "ਵੇਰਵਾ">
+<!ENTITY addresses.heading                              "ਐਡਰੈੱਸ">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Get Map">
-<!ENTITY mapIt.tooltip                                  "Display a map of this address from the Web">
+<!ENTITY mapItButton.label                              "ਨਕਸ਼ਾ ਲਵੋ">
+<!ENTITY mapIt.tooltip                                  "ਵੈੱਬ ਤੋਂ ਇਸ ਐਡਰੈੱਸ ਲਈ ਨਕਸ਼ਾ ਵੇਖਾਓ">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "Window">
-<!ENTITY minimizeWindow.label "Minimize">
+<!ENTITY windowMenu.label "ਵਿੰਡੋ">
+<!ENTITY minimizeWindow.label "ਘੱਟੋ-ਘੱਟ">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bring All to Front">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY bringAllToFront.label "ਸਭ ਤੋਂ ਅੱਗੇ ਲਿਆਓ">
+<!ENTITY zoomWindow.label "ਜ਼ੂਮ">
