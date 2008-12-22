@@ -1,0 +1,44 @@
+<!ENTITY mainWindow.titleseparator " - ">
+<!ENTITY back.label "Назад">
+<!ENTITY back.tooltip "Назад">
+<!ENTITY forward.label "Вперёд">
+<!ENTITY forward.tooltip "Вперёд">
+<!ENTITY reload.label "Обновить">
+<!ENTITY reload.tooltip "Обновить">
+<!ENTITY stop.label "Остановить">
+<!ENTITY stop.tooltip "Остановить">
+<!ENTITY search.label "Поиск">
+<!ENTITY search.tooltip "Поиск">
+<!ENTITY go.label "Перейти">
+<!ENTITY go.tooltip "Перейти">
+<!ENTITY openLocation.label "Открыть адрес">
+<!ENTITY openLocation.tooltip "Открыть адрес">
+<!ENTITY star.label "Звёздочка">
+<!ENTITY star.tooltip "Добавить в закладки">
+<!ENTITY bookmarks.label "Закладки">
+<!ENTITY bookmarks.tooltip "Просмотр закладок">
+<!ENTITY newtab.label "Новая вкладка">
+<!ENTITY closetab.label "Закрыть вкладку">
+<!ENTITY cut.label "Вырезать">
+<!ENTITY copy.label "Копировать">
+<!ENTITY copylink.label "Копировать адрес ссылки">
+<!ENTITY paste.label "Вставить">
+<!ENTITY delete.label "Удалить">
+<!ENTITY selectAll.label "Выделить всё">
+<!ENTITY noSuggestions.label "(нет предположений)">
+<!ENTITY addToDictionary.label "Добавить в словарь">
+<!ENTITY editBookmarkName.label "Имя:">
+<!ENTITY editBookmarkURI.label "Адрес:">
+<!ENTITY editBookmarkTags.label "Метки:">
+<!ENTITY bookmarkRemove.label "Удалить закладку">
+<!ENTITY editBookmarkDone.label "Готово">
+<!ENTITY findOnCmd.label "Найти на этой странице…">
+<!ENTITY findOnCmd.accesskey "Н">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Найти ещё раз">
+<!ENTITY findAgainCmd.accesskey "й">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY identity.unverifiedsite2 "Информация о подлинности этого веб-сайта отсутствует.">
+<!ENTITY identity.connectedTo "Вы соединены с">
+<!ENTITY identity.runBy "который управляется">
