@@ -1,7 +1,7 @@
 <!ENTITY windowTitle.label "Assistente de Contas">
 <!ENTITY accountWizard.size "width: 60em; height: 38em;">
 <!ENTITY accountSetupInfo.label "Você precisa configurar uma conta de email ou news para receber mensagens.">
-<!ENTITY accountTypeTitle.label "Configurar conta">
+<!ENTITY accountTypeTitle.label "Configurações de conta">
 <!ENTITY accountTypeDesc.label "O Assistente de Contas vai recolher as informações necessárias para configurar sua conta. Se você não souber as informações solicitadas, por favor contate o administrador do sistema ou o provedor de internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
 <!ENTITY accountTypeMail.label "Conta de email">
@@ -32,7 +32,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY haveSmtp1.prefix "O seu servidor SMTP atual (de enviar mensagens), &quot;">
-<!ENTITY haveSmtp1.suffix '&quot;, será usado. Você pode modificar estas opções em "Configurar contas" no menu "Editar".'>
+<!ENTITY haveSmtp1.suffix '&quot;, será usado. Você pode modificar estas opções em "Configurações de contas" no menu "Editar".'>
 <!ENTITY loginTitle.label "Nomes de usuário">
 <!ENTITY usernameDesc.label "Forneça o nome de usuário dado a você pelo provedor de email">
 <!ENTITY usernameExample.label "(por exemplo, &quot;msilva&quot;).">
@@ -42,9 +42,9 @@
 <!ENTITY usernameSmtpLabel.label "Nome de usuário do servidor SMTP:">
 <!ENTITY usernameSmtpLabel.accesskey "N">
 <!ENTITY haveSmtp2.prefix "Seu nome de usuário do servidor SMTP (de enviar mensagens) existente, &quot;">
-<!ENTITY haveSmtp2.suffix '&quot;, será usado. Você pode modificar estas opções em "Configurar contas" no menu "Editar".'>
+<!ENTITY haveSmtp2.suffix '&quot;, será usado. Você pode modificar estas opções em "Configurações de contas" no menu "Editar".'>
 <!ENTITY haveSmtp3.prefix "O seu servidor SMTP (de enviar mensagens), &quot;">
-<!ENTITY haveSmtp3.suffix '&quot;, é idêntico ao do servidor usado para receber mensagens. O mesmo nome de usuário será usado para acessá-lo. Você pode modificar estas opções em "Configurar contas" no menu "Editar".'>
+<!ENTITY haveSmtp3.suffix '&quot;, é idêntico ao do servidor usado para receber mensagens. O mesmo nome de usuário será usado para acessá-lo. Você pode modificar estas opções em "Configurações de contas" no menu "Editar".'>
 <!ENTITY accnameTitle.label "Nome da conta">
 <!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer se referir a esta conta (por exemplo, &quot;Conta do trabalho&quot;, &quot;Casa&quot; ou &quot;Conta de news&quot;).">
 <!ENTITY accnameLabel.label "Nome da conta:">
