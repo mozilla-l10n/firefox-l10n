@@ -52,8 +52,8 @@
 <!ENTITY devmgr.button.logout.accesskey         "W">
 <!ENTITY devmgr.button.changepw.label 			"Zmień hasło">
 <!ENTITY devmgr.button.changepw.accesskey       "h">
-<!ENTITY devmgr.button.load.label 				"Załaduj">
-<!ENTITY devmgr.button.load.accesskey           "a">
+<!ENTITY devmgr.button.load.label               "Wczytaj">
+<!ENTITY devmgr.button.load.accesskey           "c">
 <!ENTITY devmgr.button.unload.label 			"Usuń z pamięci">
 <!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
