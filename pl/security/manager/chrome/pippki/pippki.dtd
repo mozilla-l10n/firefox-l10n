@@ -24,7 +24,7 @@
    -   Marek Stepien <marcoos@aviary.pl> (Polish translation)
   -->
   
-<!ENTITY setPassword.title "Zmień główne hasło" >
+<!ENTITY setPassword.title "Zmień hasło główne" >
 <!ENTITY setPassword.tokenName.label "Urządzenie zabezpieczające" >
 <!ENTITY setPassword.oldPassword.label "Bieżące hasło:" >
 <!ENTITY setPassword.newPassword.label "Nowe hasło:" >
@@ -32,9 +32,9 @@
 <!ENTITY setPassword.meter.label "Miernik jakości hasła" >
 <!ENTITY setPassword.meter.loading "Wczytywanie" >
 <!ENTITY resetPasswordButtonLabel "Zresetuj">
-<!ENTITY resetPassword.title "Zresetuj główne hasło" >
-<!ENTITY resetPassword.text "Po zresetowaniu głównego hasła wszystkie przechowywane dane formularzy, hasła internetowe oraz hasła serwerów pocztowych, certyfikaty osobiste oraz prywatne klucze zostaną usunięte. Czy na pewno zresetować główne hasło?" >
-<!ENTITY getPassword.title "Wprowadź główne hasło" >
+<!ENTITY resetPassword.title "Zresetuj hasło główne" >
+<!ENTITY resetPassword.text "Po zresetowaniu hasła głównego wszystkie przechowywane dane formularzy, hasła internetowe oraz hasła serwerów pocztowych, certyfikaty osobiste oraz prywatne klucze zostaną usunięte. Czy na pewno zresetować hasło główne?" >
+<!ENTITY getPassword.title "Wprowadź hasło główne" >
 <!ENTITY getPassword.tokenName2.label "Urządzenie zabezpieczające:" >
 <!ENTITY getPassword.password.label "Hasło:" >
 <!ENTITY piperror.title "Błąd" >
@@ -88,7 +88,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Żądanie podpisu">
 <!ENTITY formSigning.cert "Podpisywanie certyfikatu">
-<!ENTITY formSigning.confirmPassword "Aby potwierdzić swą zgodę na podpisanie wiadomości za pomocą wybranego certyfikatu, należy podać główne hasło:">
+<!ENTITY formSigning.confirmPassword "Aby potwierdzić swą zgodę na podpisanie wiadomości za pomocą wybranego certyfikatu, należy podać hasło główne:">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Uwierzytelnienie do chronionego tokenu">
