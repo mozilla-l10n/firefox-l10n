@@ -34,7 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY newBookmark.title "Archiwizuj zakładkę">
+<!ENTITY newBookmark.title "Dodaj zakładkę">
 <!ENTITY selectFolder.title "Wybierz folder">
 <!ENTITY name.label "Nazwa:">
 <!ENTITY name.accesskey "N">
@@ -45,5 +45,5 @@
 <!ENTITY destination.label "Folder docelowy:">
 <!ENTITY newFolder.label "Nowy folder…">
 <!ENTITY newFolder.accesskey "w">
-<!ENTITY addGroup.label "Dodaj do zakładek jako grupę kart">
+<!ENTITY addGroup.label "Dodaj zakładkę do bieżącej grupy kart">
 <!ENTITY addGroup.accesskey "g">

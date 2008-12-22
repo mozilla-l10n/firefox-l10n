@@ -108,12 +108,12 @@
 
 <!ENTITY bookmarksMenu.label "Zakładki">
 <!ENTITY bookmarksMenu.accesskey "Z">
-<!ENTITY addCurPageCmd.label "Dodaj do zakładek">
+<!ENTITY addCurPageCmd.label "Dodaj zakładkę do tej strony">
 <!ENTITY addCurPageCmd.accesskey "D">
-<!ENTITY addCurPageAsCmd.label "Archiwizuj zakładkę…">
+<!ENTITY addCurPageAsCmd.label "Dodaj zakładkę…">
 <!ENTITY addCurPageAsCmd.accesskey "A">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Dodaj do zakładek jako grupę kart…">
+<!ENTITY addCurTabsAsCmd.label "Dodaj zakładkę do bieżącej grupy kart…">
 <!ENTITY addCurTabsAsCmd.accesskey "G">
 <!ENTITY manBookmarksCmd.label "Menedżer zakładek…">
 <!ENTITY manBookmarksCmd.accesskey "z">
@@ -128,7 +128,7 @@
 
 <!-- Toolbar items --> 
 <!ENTITY backButton.label "Wstecz">
-<!ENTITY backButton.tooltip "Przejdź do poprzedniej strony (kliknij strzałkę, aby uzyskać listę stron)">
+<!ENTITY backButton.tooltip "Przejdź do poprzedniej strony">
 <!ENTITY forwardButton.label "Do przodu">
 <!ENTITY forwardButton.tooltip "Przejdź do następnej strony (kliknij strzałkę, aby uzyskać listę stron)">
 <!ENTITY reloadButton.label "Odśwież">
