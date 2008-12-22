@@ -15,14 +15,14 @@
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Obre una ubicació…">
-<!ENTITY openLocationCmd.accesskey "e">
+<!ENTITY openLocationCmd.accesskey "u">
 <!ENTITY openFileCmd.label "Obre un fitxer…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
 <!ENTITY printPreviewCmd.label "Exemple d'impressió">
-<!ENTITY printPreviewCmd.accesskey "x">
+<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">

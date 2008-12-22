@@ -32,7 +32,7 @@
 <!ENTITY printSetupCmd.label "Configuració de la pàgina...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Exemple d'impressió">
-<!ENTITY printPreviewCmd.accesskey "x">
+<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Imprimeix...">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
