@@ -1,22 +1,22 @@
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
-<!ENTITY pref.locationBar.title                "Location Bar">
+<!ENTITY pref.locationBar.title                "Barra de endereços">
 
-<!ENTITY autoComplete.label                    "Autocomplete">
-<!ENTITY enableAutoComplete.label              "Autocomplete from your browsing history as you type">
+<!ENTITY autoComplete.label                    "Completar automaticamente">
+<!ENTITY enableAutoComplete.label              "Completar automaticamente texto digitado na barra de endereços">
 <!ENTITY enableAutoComplete.accesskey          "A">
-<!ENTITY autoCompleteAutoFill.label            "Automatically prefill the best match">
-<!ENTITY autoCompleteAutoFill.accesskey        "u">
-<!ENTITY autoCompleteShowPopup.label           "Show list of matching results">
-<!ENTITY autoCompleteShowPopup.accesskey       "S">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Match only websites you've typed previously">
-<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "M">
+<!ENTITY autoCompleteAutoFill.label            "Preencher automaticamente com o endereço mais provável">
+<!ENTITY autoCompleteAutoFill.accesskey        "P">
+<!ENTITY autoCompleteShowPopup.label           "Listar os endereços mais prováveis">
+<!ENTITY autoCompleteShowPopup.accesskey       "L">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Considerar apenas os endereços digitados anteriormente">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "C">
 
-<!ENTITY searchEngine.label                    "Internet Search Engine">
-<!ENTITY showSearchEngine.label                "Show default search engine">
-<!ENTITY showSearchEngine.accesskey            "e">
+<!ENTITY searchEngine.label                    "Ferramentas de busca na internet">
+<!ENTITY showSearchEngine.label                "Exibir a ferramenta de busca padrão">
+<!ENTITY showSearchEngine.accesskey            "E">
 
-<!ENTITY unknownLocations.label                "Unknown Locations">
-<!ENTITY domainGuessing.label                  "Add &quot;www.&quot; and &quot;.com&quot; to the location if a web page is not found">
-<!ENTITY domainGuessing.accesskey              "d">
-<!ENTITY keywords.label                        "Perform a web search when entered text is not a web location">
-<!ENTITY keywords.accesskey                    "P">
+<!ENTITY unknownLocations.label                "Endereços desconhecidos">
+<!ENTITY domainGuessing.label                  "Se a página não for localizada, adicionar &quot;www.&quot; e &quot;.com&quot; ao endereço">
+<!ENTITY domainGuessing.accesskey              "S">
+<!ENTITY keywords.label                        "Realizar uma busca na web quando o texto fornecido não for um endereço válido">
+<!ENTITY keywords.accesskey                    "R">
