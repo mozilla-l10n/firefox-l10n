@@ -91,7 +91,7 @@
 <!ENTITY folderPropsFolderCmd.label "Propriedades da pasta">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriedades do newsgroup">
 <!ENTITY folderPropsCmd.accesskey "e">
-<!ENTITY accountManagerCmd.label "Configurar contas...">
+<!ENTITY accountManagerCmd.label "Configurações de contas...">
 <!ENTITY accountManagerCmd.accesskey "U">
 <!ENTITY undoDeleteMsgCmd.label "Desfazer (Excluir mensagem)">
 <!ENTITY redoDeleteMsgCmd.label "Refazer (Excluir mensagem)">
