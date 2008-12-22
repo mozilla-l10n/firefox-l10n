@@ -1,5 +1,13 @@
 <!ENTITY history.label "Historie">
 
+<!ENTITY locbar.pre.label "Při použití adresního řádku našeptávat:">
+<!ENTITY locbar.pre.accessKey "P">
+<!ENTITY locbar.post.label "">
+<!ENTITY locbar.both.label "Historii a záložky">
+<!ENTITY locbar.history.label "Historii">
+<!ENTITY locbar.bookmarks.label "Záložky">
+<!ENTITY locbar.nothing.label "Nic">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
   line in preferences as follows:

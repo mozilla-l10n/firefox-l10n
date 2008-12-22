@@ -88,6 +88,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Zastaví načítání stránky">
 <!ENTITY goEndCap.tooltip "Přejde na adresu v adresním řádku">
+<!ENTITY feedButton.tooltip "Přihlásí k odběru kanálů na této stránce…">
 <!ENTITY printButton.label "Tisk">
 <!ENTITY printButton.tooltip "Vytiskne tuto stránku">
 
