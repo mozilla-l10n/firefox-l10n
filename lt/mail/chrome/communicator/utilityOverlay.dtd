@@ -74,7 +74,7 @@
 <!ENTITY showTaskbarCmd.accesskey				"B">
 
 <!ENTITY proxy.label                                    "Įgaliotojo serverio sąranka…">
-<!ENTITY proxy.accesskey                                "C">
+<!ENTITY proxy.accesskey                                "s">
 
 <!ENTITY closeCmd.label			"Užverti">  
 <!ENTITY closeCmd.key			"W">  

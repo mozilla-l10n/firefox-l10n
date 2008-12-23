@@ -110,7 +110,7 @@
 <!ENTITY undeleteMsgsCmd.label "Atšaukti pažymėtų laiškų šalinimą">
 <!ENTITY undeleteMsgsCmd.accesskey "u">
 <!ENTITY cancelNewsMsgsCmd.label "Atsisakyti pažymėtų laiškų">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
+<!ENTITY cancelNewsMsgsCmd.accesskey "s">
 <!ENTITY deleteFolderCmd.label "Pašalinti aplanką">
 <!ENTITY deleteFolderCmd.accesskey "p">
 <!ENTITY unsubscribeNewsgroupCmd.label "Atsisakyti prenumeratos">

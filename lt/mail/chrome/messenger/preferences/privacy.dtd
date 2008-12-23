@@ -72,6 +72,6 @@
 <!ENTITY  editPasswords.accesskey     "T">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "Prieš įrašydama gaunamus laiškus programa gali tikrinti, ar juose nėra virusų.">
+<!ENTITY antiVirus.intro      "Prieš įrašydama gaunamus laiškus, programa „&brandShortName;“ gali leisti antivirusinei programai patikrinti, ar juose nėra virusų.">
 <!ENTITY antiVirus.label      "Leisti antivirusinei programai izoliuoti įtartinus laiškus">
 <!ENTITY antiVirus.accesskey  "L">

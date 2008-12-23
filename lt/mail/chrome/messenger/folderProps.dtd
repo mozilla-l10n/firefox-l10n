@@ -89,7 +89,7 @@
 
 <!ENTITY folderSharingTab.label                             "Bendras naudojimas">
 <!ENTITY privileges.button.label                      "Teisės">
-<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY privileges.button.accesskey                  "T">
 <!ENTITY permissionsDesc.label                            "Jums leidžiama:">
 <!ENTITY folderType.label                             "Aplanko tipas:">
 

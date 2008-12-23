@@ -29,10 +29,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title      "Apie „&brandShortName;“">
+<!ENTITY aboutDialog.title      "Apie „&brandFullName;“">
 <!ENTITY credits.label          "Autoriai">
 <!ENTITY credits.accesskey      "A">
-<!ENTITY aboutLink.label        "&lt; Apie „&brandShortName;“">
+<!ENTITY aboutLink.label        "&lt; Apie „&brandFullName;“">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "laida">
 <!ENTITY copyrightText          "&#169;1998-2008 bendradarbiai. Visos teisės priklauso autoriams.

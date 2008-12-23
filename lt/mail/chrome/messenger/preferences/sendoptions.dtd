@@ -42,7 +42,7 @@
 <!ENTITY sendBoth.accesskey           "a">
 <!ENTITY override.label               "Pastaba. Adresatams tinkamus laiškų tekstų tipus galima nurodyti adresų knygos kortelėse.">
 
-<!ENTITY domaindesc.label             "Galima nurodyti pašto sričių pavadinimus (pvz., netscape.net), kurie yra el. pašto adresuose tų gavėjų, kurių pašto programos supranta laiškus, parašytus raiškiuoju tekstu, lygiai taip ir tų, kurių programos gali priimti tik grynojo teksto laiškus. Kai siųsite laiškus adresatams, kurių adresas yra kurioje nors iš nurodytų sričių, pašto programa pati parinks tinkamą teksto tipą.">
+<!ENTITY domaindesc.label             "Kai siųsite laiškus adresatams, kurių adresai yra kurioje nors iš žemiau nurodytų sričių, programa „&brandShortName;“ pati parinks tinkamą teksto tipą.">
 <!ENTITY HTMLTab.label                "HTML sritys">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Grynojo teksto sritys">
