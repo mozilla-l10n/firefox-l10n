@@ -1,26 +1,26 @@
-<!ENTITY migrationWizard.title           "Import Wizard">
+<!ENTITY migrationWizard.title           "Assistente de importação">
 
-<!ENTITY importAllFrom.label             "Import All Items from:">
-<!ENTITY importBookmarksFrom.label       "Import Bookmarks from:">
+<!ENTITY importAllFrom.label             "Importar todos os itens de:">
+<!ENTITY importBookmarksFrom.label       "Importar marcadores de:">
 
-<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 ou Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey   "S">
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
-<!ENTITY importFromFile.label            "File">
-<!ENTITY importFromFile.accesskey        "F">
-<!ENTITY importFromNothing.label         "Don't import anything">
-<!ENTITY importFromNothing.accesskey     "D">
+<!ENTITY importFromFile.label            "Arquivo">
+<!ENTITY importFromFile.accesskey        "A">
+<!ENTITY importFromNothing.label         "Não importar nada">
+<!ENTITY importFromNothing.accesskey     "N">
 
-<!ENTITY importSource.title              "Import Settings and Data">
-<!ENTITY importItems.title               "Items to Import">
-<!ENTITY importItems.label               "Select which items to import:">
+<!ENTITY importSource.title              "Importar configurações e dados">
+<!ENTITY importItems.title               "Itens para importar">
+<!ENTITY importItems.label               "Selecione os itens para importar:">
 
-<!ENTITY selectProfile.title             "Select Profile">
-<!ENTITY selectProfile.label             "The following profiles are available to import from:">
+<!ENTITY selectProfile.title             "Selecionar perfil">
+<!ENTITY selectProfile.label             "Os seguintes perfis estão disponíveis para importação:">
 
-<!ENTITY migrating.title                 "Importing...">
-<!ENTITY migrating.label                 "The following items are currently being imported...">
+<!ENTITY migrating.title                 "Importando...">
+<!ENTITY migrating.label                 "Os seguintes itens estão sendo importados...">
 
-<!ENTITY done.title                      "Import Complete">
-<!ENTITY done.label                      "The following items were successfully imported:">
+<!ENTITY done.title                      "Importação completa">
+<!ENTITY done.label                      "Os seguintes itens foram importados com sucesso:">

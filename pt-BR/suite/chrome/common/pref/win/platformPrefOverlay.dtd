@@ -1,9 +1,7 @@
-
-
-<!ENTITY urlbar.label "Ctrl+Enter in the Location bar">
-<!ENTITY urlbar.accesskey "L">
-<!ENTITY middleClick.label "Middle-click, Ctrl+click or Ctrl+Enter on links in a Web page">
-<!ENTITY middleClick.accesskey "M">
+<!ENTITY urlbar.label "Ctrl+Enter na barra de endereços">
+<!ENTITY urlbar.accesskey "e">
+<!ENTITY middleClick.label "Clique com o botão do meio, Ctrl+clique ou Ctrl+Enter em links numa página">
+<!ENTITY middleClick.accesskey "m">
 
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the
      preference dialog's <window> node, which specifies the width and height

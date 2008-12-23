@@ -1,22 +1,22 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
-<!ENTITY pref.content.title                     "Content">
-<!ENTITY pref.content.description               "These settings influence how website and message content appears in &brandShortName;.">
-<!ENTITY siteIcons.label                        "Website icons">
-<!ENTITY useSiteIcons.label                     "Show website icons">
-<!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY useFavIcons.label                      "Aggressively look for website icons when the page does not define one">
-<!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "Display website icons in bookmarks menu and toolbar:">
-<!ENTITY tbIconsNever.label                     "Never show icons for bookmarks">
+<!ENTITY pref.content.title                     "Conteúdo">
+<!ENTITY pref.content.description               "Essas opções influenciam como conteúdo de sites e mensagens devem aparecer no &brandShortName;.">
+<!ENTITY siteIcons.label                        "Ícones de sites">
+<!ENTITY useSiteIcons.label                     "Exibir ícones de sites">
+<!ENTITY useSiteIcons.accesskey                 "E">
+<!ENTITY useFavIcons.label                      "Procurar pelo ícone do site quando a página não define um">
+<!ENTITY useFavIcons.accesskey                  "P">
+<!ENTITY tbIconsDescription.label               "Exibir o ícone do site na barra de ferramentas e no menu de marcadores:">
+<!ENTITY tbIconsNever.label                     "Nunca exibir ícones para marcadores">
 <!ENTITY tbIconsNever.accesskey                 "N">
-<!ENTITY tbIconsCache.label                     "Only when website was loaded recently">
-<!ENTITY tbIconsCache.accesskey                 "O">
-<!ENTITY tbIconsAlways.label                    "Always load website icons for bookmarks">
-<!ENTITY tbIconsAlways.accesskey                "w">
-<!ENTITY enableAutomaticImageResizing.label     "Resize large images to fit in the browser window">
+<!ENTITY tbIconsCache.label                     "Somente quando o site tiver sido carregado recentemente">
+<!ENTITY tbIconsCache.accesskey                 "S">
+<!ENTITY tbIconsAlways.label                    "Sempre carregar o íncone do site para marcadores">
+<!ENTITY tbIconsAlways.accesskey                "c">
+<!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens para caber na janela">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "Use smooth scrolling">
+<!ENTITY useSmoothScroll.label                  "Usar rolagem suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
-<!ENTITY textZoomOnly.label                     "Zoom only text instead of full pages">
-<!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY textZoomOnly.label                     "Realizar zoom apenas para o texto em vez da página toda">
+<!ENTITY textZoomOnly.accesskey                 "z">
