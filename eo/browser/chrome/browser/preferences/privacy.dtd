@@ -1,4 +1,13 @@
 <!ENTITY history.label "Historio">
+
+<!ENTITY  locbar.pre.label              "Dum uzado de la retadresa strio, sugesti el:">
+<!ENTITY  locbar.pre.accessKey          "r">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Historio kaj paĝosignoj">
+<!ENTITY  locbar.history.label          "Historio">
+<!ENTITY  locbar.bookmarks.label        "Paĝosignoj">
+<!ENTITY  locbar.nothing.label          "Nenio">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
