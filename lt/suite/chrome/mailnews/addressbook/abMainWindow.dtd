@@ -80,7 +80,7 @@
 <!ENTITY propertiesCmd.label                            "Savybės…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY propertiesCmd.accesskey                        "S">  
-<!ENTITY propertiesCmd.key                              "S">  
+<!ENTITY propertiesCmd.key                              "i">  
 
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "Mygtukų juosta"> 
@@ -114,7 +114,7 @@
 <!ENTITY editItemButton.label                           "Savybės">
 <!ENTITY editItemButton.accesskey                       "S">
 <!ENTITY newmsgButton.label                             "Rašyti">
-<!ENTITY newmsgButton.accesskey                         "l">
+<!ENTITY newmsgButton.accesskey                         "R">
 <!ENTITY deleteItemButton.label                         "Pašalinti">
 <!ENTITY deleteItemButton.accesskey                     "š">
 <!ENTITY newimButton.label                              "Žinutė">

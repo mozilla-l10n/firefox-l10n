@@ -128,7 +128,7 @@
 
 <!ENTITY searchInternetCmd.label "Paieška internete">
 <!ENTITY searchInternetCmd.accesskey "n">
-<!ENTITY searchInternet.commandKey "f">
+<!ENTITY searchInternet.commandKey "s">
 
 <!ENTITY clearPrivateDataCmd.label "Pašalinti privačius duomenis…">
 <!ENTITY clearPrivateDataCmd.accesskey "š">

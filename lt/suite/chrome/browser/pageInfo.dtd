@@ -42,13 +42,13 @@
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 40em; height: 30em;">
 
-<!ENTITY  copy.key              "K">
+<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Kopijuoti">
 <!ENTITY  copy.accesskey        "K">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Pažymėti viską">
 <!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "n">
+<!ENTITY  closeWindow.key       "W">
 
 <!ENTITY  generalTab            "Bendroji">
 <!ENTITY  generalTab.accesskey  "B">

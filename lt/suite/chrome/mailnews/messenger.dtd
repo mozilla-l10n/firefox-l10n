@@ -233,7 +233,7 @@
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Suskleisti visas gijas">
 <!ENTITY collapseAllThreadsCmd.accesskey "S">
-<!ENTITY collapseAllThreadsCmd.key "/">
+<!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Neskaityti">
 <!ENTITY unreadMsgsCmd.accesskey "N">
 <!ENTITY threadsWithUnreadCmd.label "Gijos, turinčios neskaitytų laiškų">
@@ -281,7 +281,7 @@
 
 <!ENTITY searchMailCmd.label "Ieškoti pašto ir naujienų laiškuose…">
 <!ENTITY searchMailCmd.accesskey "k">
-<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchMailCmd.key "s">
 
 <!-- Go Menu -->
 
