@@ -1,6 +1,4 @@
 <!ENTITY addressbookWindow.title "Catálogo de Endereços">
-<!ENTITY newCard.label "Contato...">
-<!ENTITY newCard.accesskey "C">
 <!ENTITY newListCmd.label "Lista de emails...">
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "Catálogo...">
@@ -8,11 +6,6 @@
 <!ENTITY newLDAPDirectoryCmd.label "Diretório LDAP...">
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "Msg instantânea">
-<!ENTITY printCardViewCmd.label "Imprimir contato...">
-<!ENTITY printCardViewCmd.accesskey "i">
-<!ENTITY printPreviewCardViewCmd.label "Visualizar impressão do contato">
-<!ENTITY printPreviewCardViewCmd.accesskey "z">
-<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Imprimir catálogo...">
 <!ENTITY printAddressBook.accesskey "M">
 <!ENTITY printPreviewAddressBook.label "Visualizar impressão do catálogo">
@@ -20,8 +13,6 @@
 <!ENTITY printSetupCmd.label "Configurar página...">
 <!ENTITY printSetupCmd.accesskey "c">
 <!ENTITY deleteAbCmd.label "Excluir catálogo">
-<!ENTITY deleteCardCmd.label "Excluir contato">
-<!ENTITY deleteCardsCmd.label "Excluir contatos selecionados">
 <!ENTITY deleteListCmd.label "Excluir lista">
 <!ENTITY deleteListsCmd.label "Excluir listas selecionadas">
 <!ENTITY deleteItemsCmd.label "Excluir itens selecionados">
@@ -48,26 +39,45 @@
 <!ENTITY exportCmd.accesskey "X">
 <!ENTITY allowOnlineCheck.label "Verificar presença online (AOL)">
 <!ENTITY allowOnlineCheck.accesskey "V">
-<!ENTITY newcardButton.label "Novo contato">
-<!ENTITY newcardButton.accesskey "C">
 <!ENTITY newlistButton.label "Nova lista">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton.label "Propriedades">
-<!ENTITY editButton.accesskey "P">
 <!ENTITY newmsgButton.label "Escrever">
 <!ENTITY newmsgButton.accesskey "E">
-<!ENTITY deleteButton.label "Excluir">
-<!ENTITY deleteButton.accesskey "X">
 <!ENTITY newimButton.label "Mensagem instantânea">
 <!ENTITY newimButton.accesskey "S">
 <!ENTITY addressbookToolbar.tooltip "Barra de ferramentas (clique para exibir)">
-<!ENTITY newcardButton.tooltip "Criar um novo contato do catálogo de endereços">
 <!ENTITY newlistButton.tooltip "Criar uma nova lista">
-<!ENTITY editButton.tooltip "Editar o contato selecionado">
 <!ENTITY newmsgButton.tooltip "Nova mensagem">
 <!ENTITY newIM.tooltip "Enviar uma mensagem instantânea ou chat">
-<!ENTITY deleteButton.tooltip "Excluir o catálogo ou os contatos selecionados">
 <!ENTITY throbber.tooltip "Abrir o site do &vendorShortName; ">
 <!ENTITY advancedButton.tooltip "Mais opções de pesquisa">
-<!ENTITY statusText.label "_: statusText.label\n">
+<!ENTITY statusText.label "">
 <!ENTITY hideSwapFnLnUI "true">
+
+
+<!ENTITY deleteContactCmd.label                         "Excluir contato">
+<!ENTITY deleteContactsCmd.label                        "Excluir contatos selecionados">
+<!ENTITY deleteItemButton.accesskey                     "x">
+<!ENTITY deleteItemButton.label                         "Excluir">
+<!ENTITY deleteItemButton.tooltip                       "Excluir item selecionado">
+<!ENTITY editItemButton.accesskey                       "P">
+<!ENTITY editItemButton.label                           "Propriedades">
+<!ENTITY editItemButton.tooltip                         "Editar o item selecionado">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "C">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newContact.label                               "Contato…">
+<!ENTITY newContactButton.accesskey                     "C">
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newContactButton.label                         "Novo contato">
+<!ENTITY newContactButton.tooltip                       "Criar um novo contato do catálogo de endereços">
+<!ENTITY printContactViewCmd.accesskey                  "p">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
+<!ENTITY printContactViewCmd.key                        "P">
+<!ENTITY printContactViewCmd.label                      "Imprimir contato…">
+<!ENTITY printPreviewContactViewCmd.accesskey           "z">
+<!ENTITY printPreviewContactViewCmd.label               "Visualizar impressão do contato">

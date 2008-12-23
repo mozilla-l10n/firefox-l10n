@@ -1,8 +1,6 @@
 <!ENTITY newMessageCmd.label "Mensagem">
 <!ENTITY newMessageCmd.accesskey "M">
 <!ENTITY newMessageCmd.key "M">
-<!ENTITY newCardCmd.label "Cartão de endereço...">
-<!ENTITY newCardCmd.accesskey "R">
 <!ENTITY sendPage.label "Enviar página">
 <!ENTITY sendPage.accesskey "E">
 <!ENTITY contextSendImage.label "Enviar imagem">
@@ -19,3 +17,6 @@
 <!ENTITY contextSendAudio.label          "Enviar audio…">
 <!ENTITY contextSendVideo.accesskey      "o">
 <!ENTITY contextSendVideo.label          "Enviar video…">
+
+<!ENTITY newContactCmd.label             "Contato…">
+<!ENTITY newContactCmd.accesskey         "C">
