@@ -21,6 +21,7 @@
    - Contributor(s):
    -   Sean Su <ssu@netscape.com>
    -   Karsten Düsterloh <mnyromyr@tprac.de>
+   -   Caio Tiago Oliveira <asrail@gmail.com> (pt-BR l10n)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,19 +37,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.tags.title            "Tags">
-<!ENTITY pref.tags.caption          "Customize Tags">
-<!ENTITY pref.tags.description      "Tags can be used to categorize and prioritize your messages. Modify the appearance and importance of tags using the settings below. Tags near the top are more important than those further down.">
-<!ENTITY tagColumn.label            "Tag">
-<!ENTITY colorColumn.label          "Color">
-<!ENTITY defaultTagName.label       "Untitled Tag">
-<!ENTITY addTagButton.label         "Add">
-<!ENTITY addTagButton.accesskey     "A">
-<!ENTITY deleteTagButton.label      "Delete">
-<!ENTITY deleteTagButton.accesskey  "D">
-<!ENTITY raiseTagButton.label       "Raise Importance">
-<!ENTITY raiseTagButton.accesskey   "R">
-<!ENTITY lowerTagButton.label       "Lower Importance">
-<!ENTITY lowerTagButton.accesskey   "L">
-<!ENTITY restoreButton.label        "Restore Defaults">
-<!ENTITY restoreButton.accesskey    "s">
+<!ENTITY pref.tags.title            "Rótulos">
+<!ENTITY pref.tags.caption          "Personalizar rótulos">
+<!ENTITY pref.tags.description      "Rótulos podem ser usados para categorizar e priorizar suas mensagens. Modifique a aparência e importância dos rótulos usando as opções abaixo. Rótulos mais acima são mais importantes que os que estejam abaixo.">
+<!ENTITY tagColumn.label            "Rótulo">
+<!ENTITY colorColumn.label          "Cor">
+<!ENTITY defaultTagName.label       "Rótulo sem nome">
+<!ENTITY addTagButton.label         "Adicionar">
+<!ENTITY addTagButton.accesskey     "d">
+<!ENTITY deleteTagButton.label      "Excluir">
+<!ENTITY deleteTagButton.accesskey  "E">
+<!ENTITY raiseTagButton.label       "Aumentar importância">
+<!ENTITY raiseTagButton.accesskey   "A">
+<!ENTITY lowerTagButton.label       "Diminuir importância">
+<!ENTITY lowerTagButton.accesskey   "D">
+<!ENTITY restoreButton.label        "Restaurar padrões">
+<!ENTITY restoreButton.accesskey    "R">
