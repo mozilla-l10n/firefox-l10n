@@ -10,7 +10,7 @@
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Você pode alterar estas opções para cada mensagem usando o menu Opções enquanto redige a mensagem.">
 <!ENTITY domain.title "Ao enviar emails para um dos domínios abaixo">
-<!ENTITY domaindesc.label "Ao enviar uma mensagem para um dos domínios listados abaixo, o SeaMonkey Mail &amp; Newsgroups automaticamente envia a mensagem no formato correto (texto formatado ou texto sem formatação).">
+<!ENTITY domaindesc.label "Ao enviar uma mensagem para um dos domínios listados abaixo, o SeaMonkey Email &amp; grupos de notícias automaticamente envia a mensagem no formato correto (texto formatado ou texto sem formatação).">
 <!ENTITY HTMLdomaintitle.label "Enviar em HTML:">
 <!ENTITY HTMLdomaintitle.accesskey "H">
 <!ENTITY PlainTexttitle.label "Enviar como texto sem formatação:">

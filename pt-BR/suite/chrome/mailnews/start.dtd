@@ -1,6 +1,6 @@
-<!ENTITY startpage.title "Bem-vindo ao &brandShortName; Mail &amp; Newsgroups">
-<!ENTITY headline.label 'Bem-vindo ao <a href="&vendorURL;">&brandShortName;</a> Mail &amp; Newsgroups!'>
-<!ENTITY description.label "O &brandShortName; Mail &amp; Newsgroups é um poderoso cliente de e-mail e news de código aberto.">
+<!ENTITY startpage.title "Bem-vindo ao &brandShortName; Email &amp; grupos de notícias">
+<!ENTITY headline.label 'Bem-vindo ao <a href="&vendorURL;">&brandShortName;</a> Email &amp; grupos de notícias!'>
+<!ENTITY description.label "O &brandShortName; Email &amp; grupos de notícias é um poderoso cliente de e-mail e news de código aberto.">
 <!ENTITY features.title "Principais recursos">
 <!ENTITY feat_multiacc.label "Suporte a várias contas">
 <!ENTITY feat_junk.label "Detecção de spam">
