@@ -15,12 +15,12 @@
 #define bookmarks_toolbarfolder_description چوب‌الف‌های این پوشه در «نوار ابزار چوب‌الف‌ها» نمایش داده خواهند شد
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://www.mozilla.com/en-US/firefox/central/
+# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
 #define getting_started چگونه شروع کنم
 
 # LOCALIZATION NOTE (latest_headlines):
 # link title for the live bookmarks sample, a redirect on
-# http://fxfeeds.mozilla.com/en-US/firefox/headlines.xml
+# http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
 # Changing the redirect is subject to approval of l10n-drivers.
 #define latest_headlines اهم اخبار
 
@@ -29,19 +29,19 @@
 #define firefox_heading موزیلا فایرفاکس
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://www.mozilla.com/en-US/firefox/help/
+# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
 #define firefox_help راهنما و برنامه‌های آموزشی
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://www.mozilla.com/en-US/firefox/customize/
+# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 #define firefox_customize سفارشی‌سازی فایرفاکس
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://www.mozilla.com/en-US/firefox/community/
+# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
 #define firefox_community مشارکت کردن
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
 #define firefox_about دربارهٔ ما
 
 #unfilter emptyLines

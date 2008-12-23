@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "Settings can be changed using the Applications tab in &brandShortName;'s Preferences.">
-<!ENTITY  settingsChangeOptions.label      "Settings can be changed using the Applications tab in &brandShortName;'s Options.">
+<!ENTITY  settingsChangePreferences.label  "تنظیمات را می‌توان در صفحهٔ برنامه‌ها در ترجیحات &brandShortName; تغییر داد.">
+<!ENTITY  settingsChangeOptions.label      "تنظیمات را می‌توان در صفحهٔ برنامه‌ها در گزینه‌های &brandShortName; تغییر داد.">

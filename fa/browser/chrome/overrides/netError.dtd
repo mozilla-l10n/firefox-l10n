@@ -65,20 +65,16 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>مطمئن شوید که «مدیریت امنیت شخصی» (Personal Security Manager) بر روی سیستم شما نصب شده است.</li> <li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> </ul>">
 
 <!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+<!ENTITY nssFailure2.longDesc "<ul>
+  <li>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست زیرا صحت اطلاعات دریافتی قابل بررسی نیست.</li>
+  <li>لطفاً با صاحبان وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.  همچنین می‌توانید با استفاده از فرمان موجود در منوی راهنما این وب‌گاه ناهموار را گزارش دهید.</li>
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "برقراری اتصال ایمن شکست خورد">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
+<!ENTITY nssBadCert.longDesc2 "<ul>
+  <li>علت می‌تواند اشکالی در تنظیم کارگزار، یا تلاش شخصی برای وانمود کردن خود به جای این کارگزار باشد.</li>
+  <li>اگر در گذشته با موفقیت به این وب‌گاه متصل شده‌اید، امکان دارد این اشکال موقتی باشد، و می‌توانید بعداً دوباره تلاش کنید.</li>
 </ul>
 ">
 
@@ -101,9 +97,8 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<!ENTITY securityOverride.warningText "<p>اگر از اتصال اینترنتی استفاده می‌کنید که کاملاً به آن اطمینان ندارید، یا اگر معمولاً در هنگام بازدید از این وب‌گاه اخطاری دریافت نمی‌کنید، نباید استثنائی اضافه کنید.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<xul:button xmlns:xul=\'http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul\' id=\'getMeOutOfHereButton\' label=\'&securityOverride.getMeOutOfHereButton;\'/>
+<xul:button xmlns:xul=\'http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul\' id=\'exceptionDialogButton\' label=\'&securityOverride.exceptionButtonLabel;\'/>
 ">
