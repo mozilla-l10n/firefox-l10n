@@ -7,11 +7,11 @@
 <!ENTITY ccField.label "Cc: ">
 <!ENTITY bccField.label "BCC:">
 <!ENTITY newsgroupsField.label "Newsgroup:">
-<!ENTITY followupToField.label "Followup-To:">
+<!ENTITY followupToField.label "Encaminhar-Para:">
 <!ENTITY tagsHdr.label "Rótulos: ">
 <!ENTITY dateField.label "Data:">
 <!ENTITY userAgentField.label "User-Agent:">
-<!ENTITY originalWebsite.label "Website: ">
+<!ENTITY originalWebsite.label "Site: ">
 <!ENTITY editMessage.label "Editar">
 <!ENTITY attachmentsTree.label "Anexos:">
 <!ENTITY openAttachmentCmd.label "Abrir">
@@ -30,6 +30,6 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "Excluir todos...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "t">
-<!ENTITY inReplyToField.label "In-Reply-To: ">
+<!ENTITY inReplyToField.label "Em-resposta-a: ">
 <!ENTITY messageIdField.label "Message-ID: ">
 <!ENTITY referencesField.label "Referências: ">
