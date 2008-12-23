@@ -46,8 +46,8 @@
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP katalogas…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "t">
 <!ENTITY newMessageCmd.label                            "Rašyti">
-<!ENTITY newMessageCmd.key                              "R">
-<!ENTITY newMessageCmd.accesskey                        "L">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "R">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Naudoti „Mac OS X“ adresų knygą">
 <!ENTITY osxAddressBook.accesskey                       "O">
