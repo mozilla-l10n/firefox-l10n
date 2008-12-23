@@ -53,4 +53,4 @@
 <!ENTITY fieldMapImport.fieldListTitle "Adresų knygos laukai:">
 <!ENTITY fieldMapImport.dataTitle "Importuojami duomenų įrašai:">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Pirmąjį įrašą laikyti laukų pavadinimais">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "P">

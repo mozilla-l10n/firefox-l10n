@@ -67,7 +67,7 @@
 <!ENTITY spellCheckInline.label               "Tikrinti rašybą renkant tekstą">
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "Kalba:">
-<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY languagePopup.accessKey              "K">
 <!ENTITY moreDictionaries.label               "Daugiau žodynų…">
 
 <!ENTITY defaultMessagesHeader.label          "Numatytosios HTML laiškų nuostatos">
