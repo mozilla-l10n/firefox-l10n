@@ -5,7 +5,7 @@
 <!ENTITY preserveThreading.label "Manter tópicos agrupados ao ordenar mensagens">
 <!ENTITY preserveThreading.accesskey "p">
 <!ENTITY messengerStartPage.caption "Página inicial do Mail">
-<!ENTITY enableStartPage.label "Ao iniciar o Mail &amp; Newsgroups, abrir a página inicial na área da mensagem">
+<!ENTITY enableStartPage.label "Ao iniciar o Email &amp; grupos de notícias, abrir a página inicial na área da mensagem">
 <!ENTITY enableStartPage.accesskey "A">
 <!ENTITY location.label "Endereço:">
 <!ENTITY location.accesskey "E">

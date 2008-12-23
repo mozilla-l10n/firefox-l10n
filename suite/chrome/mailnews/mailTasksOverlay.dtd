@@ -1,10 +1,10 @@
-<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.label "Email &amp; grupos de notícias">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "2">
 <!ENTITY addressBookCmd.label "Catálogo de Endereços">
 <!ENTITY addressBookCmd.accesskey "e">
 <!ENTITY addressBookCmd.commandkey "5">
-<!ENTITY taskMessenger.tooltip "Mail &amp; Newsgroups">
+<!ENTITY taskMessenger.tooltip "Email &amp; grupos de notícias">
 <!ENTITY taskAddressBook.tooltip "Catálogo de Endereços">
 <!ENTITY searchAddressesCmd.label "Catálogo de Endereços...">
 <!ENTITY searchAddressesCmd.accesskey "E">
