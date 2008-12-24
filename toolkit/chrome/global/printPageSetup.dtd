@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label   "Formato">
 
 <!ENTITY orientation.label   "Orientação:">
-<!ENTITY portrait            "Retrato">
-<!ENTITY landscape           "Paisagem">
+<!ENTITY portrait.label      "Retrato">
+<!ENTITY portrait.accesskey  "R">
+<!ENTITY landscape.label     "Paisagem">
+<!ENTITY landscape.accesskey "P">
 
 <!ENTITY scale.label         "Escala:">
+<!ENTITY scale.accesskey     "E">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Diminuir até caber na largura da página">
+<!ENTITY shrinkToFit.accesskey "D">
 
 <!ENTITY optionsGroup.label  "Opções">
 
 <!ENTITY printBG.label       "Imprimir cores e imagens do plano de fundo">
+<!ENTITY printBG.accesskey   "I">
 
 <!ENTITY advanced.tab        "Margens">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches  "polegadas">
 <!ENTITY marginUnits.metric  "milímetros">
 <!ENTITY marginTop.label     "Superior:">
+<!ENTITY marginTop.accesskey "S">
 <!ENTITY marginBottom.label  "Inferior:">
+<!ENTITY marginBottom.accesskey "I">
 <!ENTITY marginLeft.label    "Esquerda:">
+<!ENTITY marginLeft.accesskey "E">
 <!ENTITY marginRight.label   "Direita:">
+<!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label  "Cabeçalho e rodapé">
 
