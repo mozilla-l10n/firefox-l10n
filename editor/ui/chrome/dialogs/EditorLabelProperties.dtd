@@ -35,17 +35,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Label Properties">
+<!ENTITY windowTitle.label "Propriedades do label">
 
 <!ENTITY Settings.label "Configurações">
-<!ENTITY Settings.accesskey "S">
+<!ENTITY Settings.accesskey "C">
 
-<!ENTITY EditLabelText.label "Edit Text:">
-<!ENTITY EditLabelText.accesskey "T">
-<!ENTITY LabelFor.label "For Control:">
-<!ENTITY LabelFor.accesskey "F">
+<!ENTITY EditLabelText.label "Editar texto:">
+<!ENTITY EditLabelText.accesskey "t">
+<!ENTITY LabelFor.label "ID controlada:">
+<!ENTITY LabelFor.accesskey "I">
 <!ENTITY AccessKey.label "Tecla de acesso:">
-<!ENTITY AccessKey.accesskey "T">
+<!ENTITY AccessKey.accesskey "s">
 
-<!ENTITY RemoveLabel.label "Remove Label">
-<!ENTITY RemoveLabel.accesskey "R">
+<!ENTITY RemoveLabel.label "Excluir label">
+<!ENTITY RemoveLabel.accesskey "x">

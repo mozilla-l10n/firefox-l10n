@@ -37,7 +37,7 @@
 
 <!ENTITY pref.toolbars.title    "Barras de ferramentas">
 
-<!ENTITY composition.caption    "Show these buttons in the Composition Toolbar:">
+<!ENTITY composition.caption    "Exibir estes botões na barra de ferramentas">
 
 <!ENTITY new.label              "Novo">
 <!ENTITY open.label             "Abrir">
@@ -55,16 +55,16 @@
 <!ENTITY link.label             "Link">
 <!ENTITY anchor.label           "Âncora">
 
-<!ENTITY formatting.caption     "Show these buttons in the Formatting Toolbar:">
+<!ENTITY formatting.caption     "Exibir estes botões na barra de formatação">
 
-<!ENTITY smaller.label          "Diminuir">
-<!ENTITY larger.label           "Aumentar">
+<!ENTITY smaller.label          "Diminuir fonte">
+<!ENTITY larger.label           "Aumentar fonte">
 <!ENTITY bold.label             "Negrito">
 <!ENTITY bullets.label          "Marcadores">
-<!ENTITY numbers.label          "Numbers">
+<!ENTITY numbers.label          "Números">
 <!ENTITY italic.label           "Itálico">
-<!ENTITY outdent.label          "Outdent">
-<!ENTITY indent.label           "Indent">
+<!ENTITY outdent.label          "Avançar texto">
+<!ENTITY indent.label           "Recuar texto">
 <!ENTITY underline.label        "Sublinhado">
 
 <!ENTITY absolutePosition.label "Posicionamento absoluto">

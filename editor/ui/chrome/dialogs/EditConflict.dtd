@@ -37,8 +37,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Select Edit Changes">
-<!ENTITY conflictWarning.label "This page has been modified by another program, but you also have unsaved changes in Composer.">
-<!ENTITY conflictResolve.label "Select which version to keep:">
-<!ENTITY keepCurrentPageButton.label "Keep current page changes">
-<!ENTITY useOtherPageButton.label "Replace current page with other changes">
+<!ENTITY windowTitle.label "Selecionar alterações">
+<!ENTITY conflictWarning.label "Esta página foi modificada por outro programa, mas também tem alterações não salvas pelo Composer.">
+<!ENTITY conflictResolve.label "Selecione qual versão manter:">
+<!ENTITY keepCurrentPageButton.label "Manter as alterações atuais da página">
+<!ENTITY useOtherPageButton.label "Substituir pelas outras alterações">
