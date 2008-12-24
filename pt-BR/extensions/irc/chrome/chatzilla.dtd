@@ -41,7 +41,7 @@
 <!ENTITY ViewCmd.label "Exibir">
 <!ENTITY ViewCmd.aKey "E">
 <!ENTITY ShowCmd.label "Exibir/Ocultar">
-<!ENTITY ShowCmd.akey "E">
+<!ENTITY ShowCmd.akey "O">
 <!ENTITY ShowTabStripCmd.label "Abas">
 <!ENTITY ShowTabStripCmd.aKey "A">
 <!ENTITY ShowUserlistCmd.label "Lista de usuários">
@@ -103,4 +103,4 @@
 <!ENTITY Normal.label "Normal">
 <!ENTITY Color.label "Color">
 <!ENTITY ForeBack.label "xx=Primeiro plano yy=Fundo">
-<!ENTITY server-nick.tooltip        "Change nickname or set away state. To focus the input box, press Escape.">
+<!ENTITY server-nick.tooltip        "Mudar nick ou definir estado de ausência. Para focalizar o campo de entrada, pressione Esc.">

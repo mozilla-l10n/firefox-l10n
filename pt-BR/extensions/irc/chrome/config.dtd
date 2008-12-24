@@ -1,7 +1,7 @@
 <!ENTITY window.title "Preferências do ChatZilla">
 <!ENTITY loading.label "Por favor aguarde, carregando...">
 <!ENTITY homepage.url "http://www.hacksrus.com/~ginda/chatzilla/">
-<!ENTITY homepage.label "ChatZilla Homepage">
+<!ENTITY homepage.label "Página do ChatZilla">
 <!ENTITY object.add.label "Adicionar...">
 <!ENTITY object.add.hint        "Adicionar uma rede, canal ou usuário para o qual definir preferências">
 <!ENTITY object.add.accesskey "A">
