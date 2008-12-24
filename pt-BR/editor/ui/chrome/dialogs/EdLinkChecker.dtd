@@ -38,7 +38,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label     "Check Image and Link Locations">
-<!ENTITY succeeded.label       "Succeeded">
-<!ENTITY failed.label          "Malsucedido">
+<!ENTITY windowTitle.label     "Verificar endereços de imagens e links">
+<!ENTITY succeeded.label       "Bem-sucedido">
+<!ENTITY failed.label          "Falha">
 <!ENTITY closeButton.label     "Fechar">

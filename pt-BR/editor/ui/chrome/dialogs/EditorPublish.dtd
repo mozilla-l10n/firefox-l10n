@@ -38,62 +38,62 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label            "Publicar página">
-<!ENTITY windowTitleSettings.label    "Publish Settings">
+<!ENTITY windowTitleSettings.label    "Configurações de publicação">
 <!ENTITY publishTab.label             "Publicar">
 <!ENTITY settingsTab.label            "Configurações">
 <!ENTITY publishButton.label          "Publicar">
 
 <!-- Publish Tab Panel -->
-<!ENTITY siteList.label               "Site Name:">
-<!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip             "Choose the site that you want to publish to">
+<!ENTITY siteList.label               "Nome do site:">
+<!ENTITY siteList.accesskey           "N">
+<!ENTITY siteList.tooltip             "Selecione o site no qual você deseja publicar">
 <!ENTITY newSiteButton.label          "Novo site">
-<!ENTITY newSiteButton.accesskey      "N">
-<!ENTITY docDirList.label             "Site subdirectory for this page:">
-<!ENTITY docDirList.accesskey         "S">
-<!ENTITY docDirList.tooltip           "Choose or enter the name of the remote subdirectory for this page">
+<!ENTITY newSiteButton.accesskey      "o">
+<!ENTITY docDirList.label             "Subdiretório do site para esta página:">
+<!ENTITY docDirList.accesskey         "o">
+<!ENTITY docDirList.tooltip           "Selecione ou digite o nome do subdiretório remoto para esta página">
 <!ENTITY publishImgCheckbox.label     "Incluir imagens e outros arquivos">
 <!ENTITY publishImgCheckbox.accesskey "o">
-<!ENTITY publishImgCheckbox.tooltip   "Publish images and other files referenced by this page">
-<!ENTITY sameLocationRadio.label      "Use same location as page">
-<!ENTITY sameLocationRadio.accesskey  "U">
-<!ENTITY sameLocationRadio.tooltip    "Publish files to the same location as the page">
-<!ENTITY useSubdirRadio.label         "Use this site subdirectory:">
-<!ENTITY useSubdirRadio.accesskey     "d">
-<!ENTITY useSubdirRadio.tooltip       "Publish files to the selected remote subdirectory">
-<!ENTITY otherDirList.tooltip         "Choose or enter name of remote subdirectory where files will be published">
-<!ENTITY pageTitle.label              "Page Title:">
+<!ENTITY publishImgCheckbox.tooltip   "Publicar imagens e outros arquivos referenciados por esta página">
+<!ENTITY sameLocationRadio.label      "Usar o mesmo endereço da página">
+<!ENTITY sameLocationRadio.accesskey  "m">
+<!ENTITY sameLocationRadio.tooltip    "Publicar arquivos no mesmo endereço da página">
+<!ENTITY useSubdirRadio.label         "Usar este subdiretório:">
+<!ENTITY useSubdirRadio.accesskey     "s">
+<!ENTITY useSubdirRadio.tooltip       "Publicar os arquivos para o subdiretório remoto selecionado">
+<!ENTITY otherDirList.tooltip         "Selecione ou forneça o nome de um subdiretório onde os arquivos serão publicados">
+<!ENTITY pageTitle.label              "Título da página:">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip            "Enter a title to identify the page in the window and in bookmarks">
-<!ENTITY pageTitleExample.label       "e.g.: &quot;My Web Page&quot;">
-<!ENTITY filename.label               "Filename:">
-<!ENTITY filename.accesskey           "F">
-<!ENTITY filename.tooltip             "Enter a name for this file, including '.html' for a web page">
-<!ENTITY filenameExample.label        "e.g,: &quot;mypage.html&quot;">
-<!ENTITY setDefaultButton.label       "Set as Default">
-<!ENTITY setDefaultButton.accesskey   "D">
-<!ENTITY removeButton.label           "Excluir o site">
-<!ENTITY removeButton.accesskey       "R">
+<!ENTITY pageTitle.tooltip            "Forneça um título para identificar a página na janela e nos marcadores">
+<!ENTITY pageTitleExample.label       "exemplo: &quot;Minha Página Web&quot;">
+<!ENTITY filename.label               "Nome do arquivo:">
+<!ENTITY filename.accesskey           "a">
+<!ENTITY filename.tooltip             "Forneça o nome deste arquivo, incluindo &quot;.html&quot;, para a página web.">
+<!ENTITY filenameExample.label        "exemplo: &quot;meusite.html&quot;">
+<!ENTITY setDefaultButton.label       "Definir como padrão">
+<!ENTITY setDefaultButton.accesskey   "c">
+<!ENTITY removeButton.label           "Excluir site">
+<!ENTITY removeButton.accesskey       "x">
 
 <!-- Settings Tab Panel -->
-<!ENTITY publishSites.label           "Publishing Sites">
+<!ENTITY publishSites.label           "Sites para publicação">
 <!ENTITY serverInfo.label             "Informações do servidor">
-<!ENTITY loginInfo.label              "Login Information">
-<!ENTITY siteName.label               "Site Name:">
-<!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip             "A nickname that identifies this publishing site (e.g.: 'MySite')">
-<!ENTITY siteUrl.label                "Publishing address (e.g.: 'ftp://ftp.myisp.com/myusername'):">
-<!ENTITY siteUrl.accesskey            "a">
-<!ENTITY siteUrl.tooltip              "The FTP:// or HTTP:// address provided by your ISP or web hosting service">
-<!ENTITY browseUrl.label              "HTTP address of your homepage (e.g.: 'http://www.myisp.com/myusername'):">
+<!ENTITY loginInfo.label              "Informações de login">
+<!ENTITY siteName.label               "Nome do site:">
+<!ENTITY siteName.accesskey           "N">
+<!ENTITY siteName.tooltip             "Um apelido que identifique este site de publicação (exemplo: &quot;MeuSite&quot;)">
+<!ENTITY siteUrl.label                "Endereço de publicação (exemplo: &quot;ftp://ftp.servidor.com.br/meunome&quot;):">
+<!ENTITY siteUrl.accesskey            "E">
+<!ENTITY siteUrl.tooltip              "O endereço FTP:// ou HTTP:// fornecido pelo seu provedor de hospedagem">
+<!ENTITY browseUrl.label              "Endereço HTTP de sua página (exemplo: &quot;http://www.servidor.com.br/meunome&quot;):">
 <!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip            "The HTTP:// address of your home directory (don't include filename)">
+<!ENTITY browseUrl.tooltip            "O endereço HTTP:// do diretório home (não incluir o nome do arquivo)">
 <!ENTITY username.label               "Nome de usuário:">
-<!ENTITY username.accesskey           "U">
-<!ENTITY username.tooltip             "The user name you use to log in to your ISP or web hosting service">
+<!ENTITY username.accesskey           "u">
+<!ENTITY username.tooltip             "O nome de usuário que você utiliza no seu provedor de hospedagem">
 <!ENTITY password.label               "Senha:">
 <!ENTITY password.accesskey           "S">
-<!ENTITY password.tooltip             "The password associated with your user name">
+<!ENTITY password.tooltip             "A senha associada ao seu nome de usuário">
 <!ENTITY savePassword.label           "Salvar senha">
-<!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "Select this to save your password securely using Password Manager">
+<!ENTITY savePassword.accesskey       "a">
+<!ENTITY savePassword.tooltip         "Selecione isto para salvar sua senha com segurança usando o gerenciador de senhas">

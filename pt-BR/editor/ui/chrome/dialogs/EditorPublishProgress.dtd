@@ -47,5 +47,5 @@
 <!ENTITY succeeded.label       "Succeeded">
 <!ENTITY failed.label          "Malsucedido">
 
-<!ENTITY keepOpen              "Keep this window open after publishing is complete.">
+<!ENTITY keepOpen              "Não fechar a janela quando concluir">
 <!ENTITY closeButton.label     "Fechar">

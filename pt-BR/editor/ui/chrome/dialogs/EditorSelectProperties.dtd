@@ -35,46 +35,46 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Selection List Properties">
+<!ENTITY windowTitle.label "Propriedades da lista de seleções">
 
-<!ENTITY Select.label "Selection List">
-<!ENTITY SelectName.label "List Name:">
+<!ENTITY Select.label "Lista de seleções:">
+<!ENTITY SelectName.label "Nome:">
 <!ENTITY SelectName.accesskey "N">
 <!ENTITY SelectSize.label "Altura:">
 <!ENTITY SelectSize.accesskey "A">
-<!ENTITY SelectMultiple.label "Multiple Selection">
+<!ENTITY SelectMultiple.label "Múltiplas seleções">
 <!ENTITY SelectMultiple.accesskey "M">
-<!ENTITY SelectDisabled.label "Desativado">
+<!ENTITY SelectDisabled.label "Desabilitado">
 <!ENTITY SelectDisabled.accesskey "D">
-<!ENTITY SelectTabIndex.label "Posição para tab:">
-<!ENTITY SelectTabIndex.accesskey "P">
+<!ENTITY SelectTabIndex.label "Índice para tab:">
+<!ENTITY SelectTabIndex.accesskey "T">
 
-<!ENTITY OptGroup.label "Option Group">
-<!ENTITY OptGroupLabel.label "Label:">
-<!ENTITY OptGroupLabel.accesskey "L">
-<!ENTITY OptGroupDisabled.label "Desativado">
+<!ENTITY OptGroup.label "Grupo de opções">
+<!ENTITY OptGroupLabel.label "Texto:">
+<!ENTITY OptGroupLabel.accesskey "T">
+<!ENTITY OptGroupDisabled.label "Desabilitado">
 <!ENTITY OptGroupDisabled.accesskey "D">
 
-<!ENTITY Option.label "Option">
+<!ENTITY Option.label "Opção">
 <!ENTITY OptionText.label "Texto:">
 <!ENTITY OptionText.accesskey "T">
 <!ENTITY OptionValue.label "Valor:">
 <!ENTITY OptionValue.accesskey "V">
 <!ENTITY OptionSelected.label "Inicialmente selecionado">
-<!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "Desativado">
+<!ENTITY OptionSelected.accesskey "I">
+<!ENTITY OptionDisabled.label "Desabilitado">
 <!ENTITY OptionDisabled.accesskey "D">
 
 <!ENTITY TextHeader.label "Texto">
 <!ENTITY ValueHeader.label "Valor">
-<!ENTITY SelectedHeader.label "Selected">
+<!ENTITY SelectedHeader.label "Selecionado">
 
-<!ENTITY AddOption.label "Add Option">
+<!ENTITY AddOption.label "Adicionar opção">
 <!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "Add Group">
-<!ENTITY AddOptGroup.accesskey "G">
+<!ENTITY AddOptGroup.label "Adicionar grupo">
+<!ENTITY AddOptGroup.accesskey "A">
 <!ENTITY RemoveElement.label "Excluir">
-<!ENTITY RemoveElement.accesskey "x">
+<!ENTITY RemoveElement.accesskey "X">
 <!ENTITY MoveElementUp.label "Para cima">
 <!ENTITY MoveElementUp.accesskey "c">
 <!ENTITY MoveElementDown.label "Para baixo">

@@ -41,11 +41,11 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Save And Change Character Encoding">
+<!ENTITY windowTitle.label "Salvar e mudar codificação">
 <!ENTITY documentTitleTitle.label "Título da página">
 <!ENTITY documentCharsetTitle.label "Codificação">
-<!ENTITY documentCharsetDesc.label "Select the character encoding you want to save a document in:">
-<!ENTITY documentExportToText.label "Salvar como texto">
+<!ENTITY documentCharsetDesc.label "Selecione a codificação no qual você deseja salvar:">
+<!ENTITY documentExportToText.label "Exportar como texto">
 
 
 

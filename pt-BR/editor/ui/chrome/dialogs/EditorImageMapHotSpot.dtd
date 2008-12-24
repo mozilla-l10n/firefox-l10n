@@ -40,20 +40,20 @@
 
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Hotspot Properties">
+<!ENTITY windowTitle.label "Propriedades do Hotspot">
 
-<!ENTITY link.label				"Hotspot Link">
-<!ENTITY urlFieldset.label		"Hotspot URL:">
-<!ENTITY altFieldset.label		"Hotspot Alt Text:">
+<!ENTITY link.label				"Link do Hotspot">
+<!ENTITY urlFieldset.label		"URL do Hotspot:">
+<!ENTITY altFieldset.label		"Texto alternativo do Hotspot:">
 <!ENTITY browseButton.label		"Procurar…">
-<!ENTITY targetFieldset.label	"Target Setting">
-<!ENTITY target.label			"Hotspot Target">
+<!ENTITY targetFieldset.label	"Configurações do destino">
+<!ENTITY target.label			"Destino do Hotspot">
 
 <!-- Targets -->
-<!ENTITY commonFieldset.label	"Common Targets:">
-<!ENTITY none.value				"(none)">
+<!ENTITY commonFieldset.label	"Destinos comuns:">
+<!ENTITY none.value				"(nenhum)">
 <!ENTITY same.value				"Mesmo frame">
-<!ENTITY whole.value			"Whole Page">
+<!ENTITY whole.value			"Toda a página">
 <!ENTITY new.value				"Nova janela">
-<!ENTITY parent.value			"Frame de origem">
+<!ENTITY parent.value			"Quadro de origem">
 
