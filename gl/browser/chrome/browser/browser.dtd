@@ -1,5 +1,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!ENTITY bookmarksToolbarChevron.tooltip "Amosar máis marcadores">
+<!ENTITY feedButton.tooltip           "Subscreberse a esta páxina...">
+
+
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
