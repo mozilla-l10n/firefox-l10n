@@ -52,8 +52,8 @@
 <!ENTITY openFileCmd.label "Abrir arquivo…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "Open Web Location…Abrir…xxx">
-<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.label "Abrir página web…">
+<!ENTITY openRemoteCmd.accesskey "w">
 <!ENTITY openRemoteCmd.key "l">
 <!ENTITY fileRecentMenu.label "Páginas recentes">
 <!ENTITY fileRecentMenu.accesskey "t">
@@ -72,8 +72,8 @@
 <!ENTITY publishAsCmd.accesskey "u">
 <!ENTITY exportToTextCmd.label "Exportar como texto…">
 <!ENTITY exportToTextCmd.accesskey "x">
-<!ENTITY saveAsChangeEncodingCmd.label "Save And Change Character Encoding">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd.label "Salvar e mudar codificação">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
 <!ENTITY previewCmd.label "Visualizar">
 <!ENTITY previewCmd.accesskey "z">
 <!ENTITY sendPageCmd.label "Enviar página">
@@ -394,8 +394,8 @@
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-<!ENTITY tableJoinCells.label "j">
-<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableJoinCells.label "m">
+<!ENTITY tableJoinCells.accesskey "m">
 <!ENTITY tableSplitCell.label "Dividir célula">
 <!ENTITY tableSplitCell.accesskey "D">
 <!ENTITY convertToTable.label "Criar tabela da seleção">

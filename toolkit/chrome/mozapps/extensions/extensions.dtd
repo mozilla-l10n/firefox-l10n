@@ -166,8 +166,8 @@
 <!ENTITY progressStatus.label             "Verificando atualizações…">
 
 <!ENTITY eula.title                       "Acordo de licença para o usuário final">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
+<!ENTITY eula.width                       "560.0px">
+<!ENTITY eula.height                      "400.0px">
 <!ENTITY eula.accept                      "Aceitar e instalar">
 
 <!ENTITY blocklist.blocked.label          "Bloqueado">

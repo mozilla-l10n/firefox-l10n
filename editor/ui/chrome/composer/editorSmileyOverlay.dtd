@@ -45,48 +45,48 @@
 <!ENTITY smiley1Cmd.tooltip "Inserir um smiley">
 <!ENTITY smiley2Cmd.label "Triste">
 <!ENTITY smiley2Cmd.accesskey "T">
-<!ENTITY smiley2Cmd.tooltip "Insert a frown face">
+<!ENTITY smiley2Cmd.tooltip "Inserir um smiley triste">
 <!ENTITY smiley3Cmd.label "Piscadela">
 <!ENTITY smiley3Cmd.accesskey "P">
-<!ENTITY smiley3Cmd.tooltip "Insert a wink face">
+<!ENTITY smiley3Cmd.tooltip "Inserir um smiley piscando">
 <!ENTITY smiley4Cmd.label "Mostrando a língua">
 <!ENTITY smiley4Cmd.accesskey "M">
-<!ENTITY smiley4Cmd.tooltip "Insert a tongue-out face">
+<!ENTITY smiley4Cmd.tooltip "Inserir um smiley mostrando a língua">
 <!ENTITY smiley5Cmd.label "Rindo">
 <!ENTITY smiley5Cmd.accesskey "R">
-<!ENTITY smiley5Cmd.tooltip "Insert a laughing face">
+<!ENTITY smiley5Cmd.tooltip "Inserir um smiley rindo">
 <!ENTITY smiley6Cmd.label "Envergonhado">
 <!ENTITY smiley6Cmd.accesskey "v">
-<!ENTITY smiley6Cmd.tooltip "Insert an embarrassed face">
+<!ENTITY smiley6Cmd.tooltip "Inserir um smiley envergonhado">
 <!ENTITY smiley7Cmd.label "Indeciso">
 <!ENTITY smiley7Cmd.accesskey "I">
-<!ENTITY smiley7Cmd.tooltip "Insert an undecided face">
+<!ENTITY smiley7Cmd.tooltip "Inserir um smiley indeciso">
 <!ENTITY smiley8Cmd.label "Surpreso">
 <!ENTITY smiley8Cmd.accesskey "S">
-<!ENTITY smiley8Cmd.tooltip "Insert a surprised face">
+<!ENTITY smiley8Cmd.tooltip "Inserir um smiley surpreso">
 <!ENTITY smiley9Cmd.label "Beijos">
 <!ENTITY smiley9Cmd.accesskey "B">
-<!ENTITY smiley9Cmd.tooltip "Insert a kiss face">
+<!ENTITY smiley9Cmd.tooltip "Inserir um smiley beijando">
 <!ENTITY smiley10Cmd.label "Berro">
 <!ENTITY smiley10Cmd.accesskey "e">
-<!ENTITY smiley10Cmd.tooltip "Insert a yelling face">
+<!ENTITY smiley10Cmd.tooltip "Inserir um smiley berrando">
 <!ENTITY smiley11Cmd.label "Legal">
 <!ENTITY smiley11Cmd.accesskey "L">
-<!ENTITY smiley11Cmd.tooltip "Insert a cool face">
-<!ENTITY smiley12Cmd.label "Money-Mouth">
+<!ENTITY smiley11Cmd.tooltip "Inserir um smiley com cara de legal">
+<!ENTITY smiley12Cmd.label "Tudo por dinheiro">
 <!ENTITY smiley12Cmd.accesskey "h">
-<!ENTITY smiley12Cmd.tooltip "Insert a money-mouth face">
+<!ENTITY smiley12Cmd.tooltip "Inserir um smiley tudo por dinheiro">
 <!ENTITY smiley13Cmd.label "Gafe">
 <!ENTITY smiley13Cmd.accesskey "G">
-<!ENTITY smiley13Cmd.tooltip "Insert a foot-in-mouth face">
-<!ENTITY smiley14Cmd.label "Ingênuo">
+<!ENTITY smiley13Cmd.tooltip "Inserir um smiley com cara de gafe">
+<!ENTITY smiley14Cmd.label "Inocente">
 <!ENTITY smiley14Cmd.accesskey "n">
-<!ENTITY smiley14Cmd.tooltip "Insert an innocent face">
+<!ENTITY smiley14Cmd.tooltip "Inserir um smiley inocente">
 <!ENTITY smiley15Cmd.label "Choro">
 <!ENTITY smiley15Cmd.accesskey "C">
-<!ENTITY smiley15Cmd.tooltip "Insert a crying face">
+<!ENTITY smiley15Cmd.tooltip "Inserir um smiley chorando">
 <!ENTITY smiley16Cmd.label "Boca fechada">
 <!ENTITY smiley16Cmd.accesskey "f">
-<!ENTITY smiley16Cmd.tooltip "Insert a lips-are-sealed face">
+<!ENTITY smiley16Cmd.tooltip "Inserir um smiley de boca fechada">
 <!ENTITY SmileButton.tooltip "Inserir um smiley">
 
