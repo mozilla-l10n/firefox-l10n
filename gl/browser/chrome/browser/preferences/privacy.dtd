@@ -1,4 +1,15 @@
 <!ENTITY  history.label "Historial">
+<!ENTITY  locbar.bookmarks.label        "Marcadores">
+<!ENTITY  locbar.both.label             "Historial e Marcadores">
+<!ENTITY  locbar.history.label          "Historial">
+<!ENTITY  locbar.nothing.label          "Nada">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.label              "Para empregar a barra de localización, suxírese:">
+
+
+
+
 
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
