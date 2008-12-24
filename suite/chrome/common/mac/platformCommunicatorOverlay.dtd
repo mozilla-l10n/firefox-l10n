@@ -22,7 +22,7 @@
 <!-- End of Application menu -->
 
 <!ENTITY closeCmd.label                 "Fechar">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.key                   "F">  
 
 <!ENTITY printSetupCmd.label            "Configurar página...">
 <!ENTITY printSetupCmd.accesskey        "u">
