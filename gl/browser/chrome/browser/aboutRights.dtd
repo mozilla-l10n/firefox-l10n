@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Sobre os seus direitos">
-<!ENTITY rights.intro "O &brandFullName; é un software libre e de código aberto, creado por unha comunidade de milleiros de persoas en todo o planeta. Hai algunhas cousas que vostede deve saber:">
+<!ENTITY rights.intro "O &brandFullName; é un programa libre e de código aberto, creado por unha comunidade de milleiros de persoas en todo o planeta. Compre que vostede saiba que:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,29 +12,29 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "O &brandShortName; disponibilízase para vostede de acordo cos termos da ">
+<!ENTITY rights.intro-point1a "O &brandShortName; disponibilízase para vostede dacordo cos termos da ">
 <!ENTITY rights.intro-point1b "Licenza Pública Mozilla">
-<!ENTITY rights.intro-point1c ". Iso significa que vostede pode usar, copiar e distribuir o &brandShortName; para outras pessoas. Vostede tamén é benvido/a para modificar como quiser o código-fonte do &brandShortName; para atender as suas necessidades. A Licenza Pública Mozilla tamén lle dá o direito de distribuir as súas versións modificadas.">
+<!ENTITY rights.intro-point1c ". Iso significa que vostede pode usar, copiar e distribuir o &brandShortName; para outras persoas; modificar como quiser o seu código fonte para adaptalo ás suas necessidades e distribuir as súas versións modificadas.">
 
-<!ENTITY rights.intro-point2a "A Mozilla non lle concede direito algún sobre as marcas comerciais ou logotipos Mozilla e Firefox. Información adicional sobre as marcas comerciais poden atoparse ">
-<!ENTITY rights.intro-point2b "aqui">
+<!ENTITY rights.intro-point2a "A Mozilla non lle concede direito algún sobre as marcas comerciais ou logotipos de Mozilla e de Firefox; clique na seguinte ligazón para obter">
+<!ENTITY rights.intro-point2b "información adicional adicional sobre as marcas comerciais">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "As políticas de privacidade dos produtos &vendorShortName; poden ser atopadas ">
-<!ENTITY rights.intro-point3b "aqui">
-<!ENTITY rights.intro-point3c ".">
+<!ENTITY rights.intro-point3a "Tamén pode obter máis información sobre as">
+<!ENTITY rights.intro-point3b "políticas de privacidade">
+<!ENTITY rights.intro-point3c "dos produtos da &vendorShortName seguindo a ligazón anterior.">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Calquera política de privacidade aplicabel a este producto deben ser listadas aqui.">
+<!ENTITY rights.intro-point3-unbranded "Calquera política de privacidade aplicabel a este producto debe ser listada aqui.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "O &brandShortName; tamén oferece servizos opcionais de información de sitios web, tais como o SafeBrowsing; no entanto, non podemos garantir que son 100&#037; precisos ou que están libres de erro. Mais información, incluindo sobre como desactivar os servizos, podem ser encontradas nos ">
+<!ENTITY rights.intro-point4a "O &brandShortName; fornece servizos opcionais de información de sitios web, tais como o SafeBrowsing; porén, non podemos garantir que son 100&#037; precisos ou que estén libres de erro. Mais información, incluindo como desactivar ises servizos, poden atoparse nos ">
 <!ENTITY rights.intro-point4b "termos de servizo">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar servizos web, calquera termo do servizo aplicábeis ao(s) servizo(s) debem posuir unha ligazón para ">
+<!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar servizos web, calquera termo do servizo aplicábel ao(s) servizo(s) debe posuir unha ligazón para ">
 <!ENTITY rights.intro-point4b-unbranded "servizos web">
 <!ENTITY rights.intro-point4c-unbranded " sección.">
 
@@ -45,21 +45,21 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "O &brandFullName; usa servizos de información de sitios web (“Servizos”), tais como o servizo SafeBrowsing, que están dispoñíbeis para seu uso con esta versión binária do &brandShortName;, como queda descrito abaixo. Se vostede non quixera usar os Servixos ou non aceitase os termos a seguir, pode desactivar o servizo SafeBrowsing abrindo as preferencias do aplicativo, seleccionando o panel ">
+<!ENTITY rights.webservices-a "O &brandFullName; usa servizos de información de sitios web (“Servizos”), tais como o servizo SafeBrowsing, que están dispoñíbeis para seu uso con esta versión binaria do &brandShortName;, como queda descrito abaixo. Se vostede non quixera usar estes Servizos ou non aceitase os termos a seguir, pode desactivar o servizo SafeBrowsing abrindo as preferencias do aplicativo, seleccionando o panel ">
 <!ENTITY rights.webservices-b "Seguranza">
 <!ENTITY rights.webservices-c ", e desmarcando os items “&blockAttackSites.label;” e “&blockWebForgeries.label;”.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Unha visión xeral dos servizos web que o producto inclúe, así como instrucións de como os desativar, de ser o caso, deven ser colocados aquí.">
+<!ENTITY rights.webservices-unbranded "Unha visión xeral dos servizos web que o producto inclue, así como instrucións de como desactivalos, de ser o caso, deben ser colocados aquí.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Calquera termo de servizo aplicabel a este producto debe ser listado aqui.">
+<!ENTITY rights.webservices-term1-unbranded "Calquera termo de servizo aplicabel a este producto debe ser listado aquí.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "A &vendorShortName; e as persoas colaboradoras, licenciadoras e parceiras trabalhan para fornecer as mais precisas e actualizadas informacións sobre phishing e malware. Entretanto, elas non poden garantir a suficiencia e a ausencia de erros destas informacións; sitios perigosos poden non ser identificados e sitios seguros poden ser identificados erróneamente.">
+<!ENTITY rights.webservices-term1 "A &vendorShortName; e as persoas colaboradoras, licenciadoras e parceiras traballan para fornecer as mais precisas e actualizadas informacións sobre phishing e malware. Entretanto, elas non poden garantir a suficiencia e a ausencia de erros destas informacións; sitios perigosos poden non ser identificados e sitios seguros poden ser identificados erróneamente.">
 <!ENTITY rights.webservices-term2 "A &vendorShortName; pode descontinuar ou alterar os Servizos a criterio dela.">
-<!ENTITY rights.webservices-term3 "Vostede é benvido/a para utilizar estes Servizos coa versión asociada do &brandShortName;, e posúe todos os direitos necesarios para face-lo. A &vendorShortName; e as súas personas licenciadoras reservan todos os demais direitos sobre os Servizo. Estes termos non teñen como propósito limitar nengún dos direitos concedidos coas licenzas de código aberto aplicabeis ao &brandShortName; e as correspondentes versións do código-fonte do &brandShortName;.">
-<!ENTITY rights.webservices-term4 "Os Servizos son fornecidos “tal cal”. A &vendorShortName;, as súas personas colaboradoras, licenciadoras e distribuidoras negan todas as garantias, expressas ou implícitas, incluindo, sen limitación, garantias de que os Servizos son comercializábeis e apropriados para os seus fins particulares. Vostede tolera todo o risco en tanto que a seleción dos Servizos para os seus fins e por cuanto a calidade e desempeño dos Servizos. Algunhas xurisdiccións non permitem a exclusión ou limitación de garantías implícitas, de forma que esta negación pode non aplicarse a voseted.">
-<!ENTITY rights.webservices-term5 "Excepto cando fora esixido por lei, a &vendorShortName;, as súas personas colaboradoras, licenciadoras e distribuidoras non serán responsabilizados por calquera danos indirecto, especial, accidental, consecuentes, punitivos ou exemplares consecuentes ou de algunha forma relacionados ao uso do &brandShortName; e dos Servizos. A responsabilidade colectiva sob estes termos non excederá $500 (quinhentos dólares). Algunhas xurisdición non permiten a exclusión ou limitación de certos danos, de forma que esta limitación e exclusión pode non se aplicar a vostede.">
+<!ENTITY rights.webservices-term3 "Convídaselle a utilizar estes Servizos coa versión asociada do &brandShortName;, e outórganselle todos os direitos precisos para facelo. A &vendorShortName; e as súas personas licenciadoras reservan todos os demais direitos sobre o Servizo. Estes termos non teñen como propósito limitar nengún dos direitos concedidos coas licenzas de código aberto aplicabeis ao &brandShortName; e as correspondentes versións do código-fonte do &brandShortName;.">
+<!ENTITY rights.webservices-term4 "Os Servizos son fornecidos “tal cal”. A &vendorShortName;, as súas personas colaboradoras, licenciadoras e distribuidoras negan todas as garantias, expressas ou implícitas, incluindo, sen limitación, garantias de que os Servizos son comercializábeis e apropriados para os seus fins particulares. Vostede tolera todo o risco en tanto que a seleción dos Servizos para os seus fins e por cuanto a calidade e desempeño dos Servizos. Algunhas xurisdiccións non permiten a exclusión ou limitación de garantías implícitas, de forma que esta negación pode non aplicarse a vostede.">
+<!ENTITY rights.webservices-term5 "Excepto cando fora esixido por lei, a &vendorShortName;, as súas personas colaboradoras, licenciadoras e distribuidoras non serán responsabilizados por calquera danos indirecto, especial, accidental, consecuentes, punitivos ou exemplares consecuentes ou de algunha forma relacionados co uso do &brandShortName; e dos Servizos. A responsabilidade colectiva sob estes termos non excederá $500 (cincocentos dólares). Algunhas xurisdicións non permiten a exclusión ou limitación de certos danos, de forma que esta limitación e exclusión pode non se aplicar a vostede.">
 <!ENTITY rights.webservices-term6 "A &vendorShortName; pode actualizar estes termos, na medida do necesario, ocasionalmente. Estes termos non poden ser alterados ou cancelados sen o acordo escrito da &vendorShortName;.">
-<!ENTITY rights.webservices-term7 "Estes termos son rexidos polas leis do estado da Califórnia, E.U.A., excluindo seu conflicto de cláusulas legais. Se calquera parte destes termos for identificado como inválido ou non aplicábel, as partes restantes permanecerán en pleno vigor e efeito. Na eventualidade dun conflicto entre unha versión traducida destes termos e versión do idioma inglês, a versión en inglés prevalecerá.">
+<!ENTITY rights.webservices-term7 "Estes termos son rexidos polas leis do estado da Califórnia, E.U.A., excluindo conflictos de cláusulas legais. Se calquera parte destes termos for identificado como inválido ou non aplicábel, as partes restantes permanecerán en pleno vigor e efeito. Na eventualidade dun conflicto entre unha versión traducida destes termos e versión do idioma inglês, a versión en inglés prevalecerá.">
