@@ -38,12 +38,12 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Snap to Grid">
+<!ENTITY windowTitle.label "Posicionar na grade">
 
-<!ENTITY enableSnapToGrid.label "enable Snap to Grid">
-<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.label "Ativar">
+<!ENTITY enableSnapToGrid.accessKey "a">
 
-<!ENTITY sizeEditField.label "Size:">
-<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.label "Tamanho:">
+<!ENTITY sizeEditField.accessKey "T">
 
 <!ENTITY pixelsLabel.value "pixels">

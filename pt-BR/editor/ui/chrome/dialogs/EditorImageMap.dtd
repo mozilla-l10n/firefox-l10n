@@ -41,7 +41,7 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Image Map Editor">
+<!ENTITY windowTitle.label "Editor de mapa de imagem">
 
 <!-- Menu Items -->
 <!-- File menu -->
@@ -63,8 +63,8 @@
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY selectallCmd.label "Selecionar tudo">
 <!ENTITY selectallCmd.accesskey "S">
-<!ENTITY propsCmd.label "Hotspot Properties">
-<!ENTITY propsCmd.accesskey "h">
+<!ENTITY propsCmd.label "Propriedades do Hotspot">
+<!ENTITY propsCmd.accesskey "P">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Exibir">

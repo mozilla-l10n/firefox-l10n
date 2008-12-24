@@ -59,8 +59,8 @@
 <!ENTITY TextAreaWrap.label "Quebra de texto:">
 <!ENTITY TextAreaWrap.accessKey "Q">
 <!ENTITY WrapDefault.value "Padrão">
-<!ENTITY WrapOff.value "Off">
-<!ENTITY WrapHard.value "Hard">
-<!ENTITY WrapSoft.value "Soft">
-<!ENTITY WrapPhysical.value "Physical">
+<!ENTITY WrapOff.value "Desativada">
+<!ENTITY WrapHard.value "Rígida">
+<!ENTITY WrapSoft.value "Flexível">
+<!ENTITY WrapPhysical.value "Física">
 <!ENTITY WrapVirtual.value "Virtual">
