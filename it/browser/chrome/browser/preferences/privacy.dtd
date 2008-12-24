@@ -1,5 +1,5 @@
 <!ENTITY history.label "Cronologia">
-<!ENTITY locbar.pre.label "Per la barra degli indirizzi utilizza suggerimenti da:">
+<!ENTITY locbar.pre.label "Nella barra degli indirizzi visualizza suggerimenti da:">
 <!ENTITY locbar.pre.accessKey "z">
 <!ENTITY locbar.post.label "">
 <!ENTITY locbar.both.label "cronologia e segnalibri">
