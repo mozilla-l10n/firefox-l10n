@@ -25,7 +25,7 @@ window, prefwindow, dialog, wizard, page, menu {
 /* Remove window resizer until we find how to change 
    its direction to "bottomleft" */
 resizer[dir="bottomright"] {
-  display: none;
+  visibility: hidden;
 }
 
 
