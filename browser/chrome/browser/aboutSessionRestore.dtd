@@ -1,5 +1,5 @@
 <!ENTITY restorepage.tabtitle       "Khôi Phục Phiên Làm Việc">
-<!ENTITY restorepage.pagetitle      "Bạn Có Muốn Khôi Phục Phiên Làm Việc Của Bạn?">
+<!ENTITY restorepage.pagetitle      "Bạn có muốn khôi phục phiên làm việc của bạn?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc      "Phiên &brandShortName; trước của bạn bị đóng đột ngột. Chúng tôi thành thật xin lỗi vì sự bất tiện này. Bạn có thể khôi phục lại các thẻ và cửa sổ của phiên làm việc đó, hoặc khởi tạo phiên mới nếu chúng không còn cần thiết nữa.">
