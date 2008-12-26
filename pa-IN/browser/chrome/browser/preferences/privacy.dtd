@@ -1,5 +1,13 @@
 <!ENTITY  history.label "ਅਤੀਤ">
 
+
+<!ENTITY  locbar.pre.label              "ਟਿਕਾਣਾ-ਬਾਰ ਦੀ ਜਦੋਂ ਵਰਤੋਂ ਹੋਵੇ ਤਾਂ ਸੁਝਾਅ:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ">
+<!ENTITY  locbar.history.label          "ਅਤੀਤ">
+<!ENTITY  locbar.bookmarks.label        "ਬੁੱਕਮਾਰਕ">
+<!ENTITY  locbar.nothing.label          "ਕੁਝ ਨਹੀਂ">
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
   line in preferences as follows:
