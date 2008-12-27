@@ -71,8 +71,8 @@
 <!ENTITY pause  "నిలుపు">
 <!ENTITY resume "తిరిగికొనసాగించు">
 <!ENTITY close  "మూయి">
-<!ENTITY reveal "ఫైలు  స్థానాన్ని  చూపుము">
-<!ENTITY launch "ఫైలును దించు">
+<!ENTITY reveal "ఫైల్   స్థానాన్ని  చూపుము">
+<!ENTITY launch "ఫైల్  ని దించు">
 
 <!-- Status/progress messages -->
 

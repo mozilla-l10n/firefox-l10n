@@ -4,9 +4,9 @@
 
 <!ENTITY printDialog.title "ముద్రించు">
 
-<!ENTITY fpDialog.title "ఫైలును  భద్రపరచు">
+<!ENTITY fpDialog.title "ఫైల్  ను  భద్రపరచు">
 
-<!ENTITY fileCheck.label "ఫైలుకు  ముద్రించు">
+<!ENTITY fileCheck.label "ఫైల్ కు  ముద్రించు">
 <!ENTITY propertiesButton.label "లక్షణాలు...">
 <!ENTITY descText.label "ముద్రణాయంత్రం   వివరణ:">
 <!ENTITY printer.label "ముద్రణాయంత్రం">
@@ -24,6 +24,6 @@
 
 <!ENTITY printframeGroup.label "ముద్రణ  ఫ్రేములు">
 <!ENTITY aslaidoutRadio.label "స్క్రీను  మీద  పడినట్లు గా">
-<!ENTITY selectedframeRadio.label  "ఎంపిక  చేసిన  ఫ్రేము">
-<!ENTITY eachframesepRadio.label  "ప్రతి  ఫ్రేము  విడివిడిగా">
+<!ENTITY selectedframeRadio.label  "ఎంపిక  చేసిన  ఫ్రేమ్ ">
+<!ENTITY eachframesepRadio.label  "ప్రతి  ఫ్రేమ్   విడివిడిగా">
 

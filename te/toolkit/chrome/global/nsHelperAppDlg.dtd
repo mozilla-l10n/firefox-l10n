@@ -9,22 +9,22 @@
      If there is no descriptive text, then the alternative text is used which
      has only insert #2.
  -->
-<!ENTITY intro.label           "#2 (#1), మరియు   #4  రకమైన  ఫైలు  &quot;#3&quot;కు  ఈఫైలు  రకాన్ని  ఎలా  సంభాలించాలో   తెలియదు. ఈ  ఫైలు  దీనివద్ద వుంది:">
-<!ENTITY intro.noDesc.label    "#2, మరియు   #4  రకమైన  ఫైలు  &quot;#3&quot;కు  ఈఫైలు  రకాన్ని  ఎలా  సంభాలించాలో   తెలియదు. ఈ  ఫైలు  దీనివద్ద వుంది:">
+<!ENTITY intro.label           "#2 (#1), మరియు   #4  రకమైన  ఫైల్   &quot;#3&quot;కు  ఈఫైల్   రకాన్ని  ఎలా  సంభాలించాలో   తెలియదు. ఈ  ఫైల్   దీనివద్ద వుంది:">
+<!ENTITY intro.noDesc.label    "#2, మరియు   #4  రకమైన  ఫైల్   &quot;#3&quot;కు  ఈఫైల్   రకాన్ని  ఎలా  సంభాలించాలో   తెలియదు. ఈ  ఫైల్   దీనివద్ద వుంది:">
 
 <!ENTITY intro.attachment.label "సైటు   &quot;#3&quot;ను   ఒక  ఎటాచ్‌మెంట్ గా  సంభాలించమని  సూచిస్తోంది.ఇది
 #2 (#1) రకం   మరియు  దీనివద్ద  వుంది:">
 <!ENTITY intro.attachment.noDesc.label "సైటు   &quot;#3&quot;ను   ఒక  ఎటాచ్‌మెంట్ గా  సంభాలించమని  సూచిస్తోంది.ఇది  #2  రకం   మరియు  దీనివద్ద  వుంది:">
 
-<!ENTITY intro.sniffed.label "ఫైలు   &quot;#3&quot; #2 (#1) రకంలాగా  వుందని   #4  గుర్తించింది. ఫైలు  దీనివద్ద వుంది:">
-<!ENTITY intro.sniffed.noDesc.label "ఫైలు   &quot;#3&quot; #2 రకంలాగా  వుందని   #4  గుర్తించింది. ఫైలు  దీనివద్ద వుంది:">
+<!ENTITY intro.sniffed.label "ఫైల్    &quot;#3&quot; #2 (#1) రకంలాగా  వుందని   #4  గుర్తించింది. ఫైల్   దీనివద్ద వుంది:">
+<!ENTITY intro.sniffed.noDesc.label "ఫైల్    &quot;#3&quot; #2 రకంలాగా  వుందని   #4  గుర్తించింది. ఫైల్   దీనివద్ద వుంది:">
 
-<!ENTITY prompt.label          "#1 ఈ  ఫైలుతో  ఏంచేయాలి?">
+<!ENTITY prompt.label          "#1 ఈ  ఫైల్ తో  ఏంచేయాలి?">
 
 <!ENTITY alwaysHandle.label     "ఈ  రకమైన  ఫైళ్ళను  సంభాలిస్తున్నప్పుడు  ఎప్పుడు  ఈ  క్రియనే  నిర్వర్తించు">
 <!ENTITY alwaysHandle.accesskey "A">
 
-<!ENTITY saveToDisk.label      "డిస్కునకు  భద్రపరచు">
+<!ENTITY saveToDisk.label      "డిస్క్ నకు  భద్రపరచు">
 <!ENTITY saveToDisk.accesskey  "S">
 
 <!ENTITY useSystemDefault.label        "అప్రమేయ  అప్లికేషన్  (#1)తో  దీనిని  తెరువుము">
@@ -40,5 +40,5 @@
 
 <!ENTITY chooseAppFilePickerTitle "సహాయక  అప్లికేషన్‌ను  ఎన్నుకొనుము">
 
-<!ENTITY badApp                 "మీరు  తెలిపినటువంటి  అప్లికేషన్ (&quot;#1&quot;)  కనుగొనబడలేదు. ఫైలు  నామమును  పరిశీలించండి  లేదా  వేరొక  అప్లికేషన్‌ను  ఎంచుకొనండి.">
+<!ENTITY badApp                 "మీరు  తెలిపినటువంటి  అప్లికేషన్ (&quot;#1&quot;)  కనుగొనబడలేదు. ఫైల్   నామమును  పరిశీలించండి  లేదా  వేరొక  అప్లికేషన్‌ను  ఎంచుకొనండి.">
 <!ENTITY badApp.title           "అప్లికేషన్  కనబడలేదు">

@@ -11,12 +11,12 @@
                                                                   inside the private browsing mode -->
 <!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
 
-<!ENTITY tabCmd.label "కొత్త టాబు">
+<!ENTITY tabCmd.label "కొత్త టాబ్ ">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "స్థానాన్ని తెరువు...">
 <!ENTITY openLocationCmd.accesskey "L">
-<!ENTITY openFileCmd.label "ఫైలు తెరువు...">
+<!ENTITY openFileCmd.label "ఫైల్  తెరువు...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "పేజీ అమరిక...">
@@ -29,7 +29,7 @@
 <!ENTITY import.label "దిగుమతిచేయి...">
 <!ENTITY import.accesskey "I">
 
-<!ENTITY goOfflineCmd.label "ఆఫ్‌లైనుగా పనిచేయి">
+<!ENTITY goOfflineCmd.label "ఆఫ్‌లైన్ గా పనిచేయి">
 <!ENTITY goOfflineCmd.accesskey "w">
 
 <!ENTITY navbarCmd.label "నెవిగేషను సాధనములపట్టీ">
@@ -57,11 +57,11 @@
 
 <!ENTITY bookmarksMenu.label "ఇష్టాంశములు">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "ఈ పేజీను ఇష్టాంశముచేయి">
-<!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకు చందాదారు కండి">
-<!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకు చందాదారు కండి...">
-<!ENTITY addCurPagesCmd.label "అన్ని టాబులను ఇష్టాంశముచేయుము...">
-<!ENTITY bookmarkAllCmd.label "అన్ని టాబులను ఇష్టాంశముచేయుము...">
+<!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని ఇష్టాంశముచేయి">
+<!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి చందాదారు కండి">
+<!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
+<!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
+<!ENTITY bookmarkAllCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
 
 <!ENTITY backCmd.label                "వెనుకకు">
 <!ENTITY backCmd.accesskey            "B">
@@ -71,14 +71,14 @@
 <!ENTITY forwardButton.tooltip        "ఒక పేజీ ముందుకు వెళ్ళము">
 <!ENTITY reloadCmd.label              "తిరిగిలోడుచేయి">
 <!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY reloadButton.tooltip         "ప్రస్తుత పేజీను తిరిగిలోడుచేయి">
+<!ENTITY reloadButton.tooltip         "ప్రస్తుత పేజీని తిరిగిలోడుచేయి">
 <!ENTITY stopCmd.label                "ఆపుము">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగ్‌ను ఆపుము">
 <!ENTITY goEndCap.tooltip             "స్థితిపట్టీలో చిరునామాకు వెళ్ళుము">
 <!ENTITY printButton.label            "ముద్రించు">
-<!ENTITY printButton.tooltip          "ఈ పేజీను ముద్రించు">
+<!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
 <!ENTITY locationItem.title           "స్థానము">
 <!ENTITY searchItem.title             "శోధించు">
@@ -112,14 +112,14 @@
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "యాడ్-ఆన్సు‌">
-<!ENTITY addons.tooltip               "సంస్థాపించిన యాడ్-ఆన్సును చూపుము మరియు నిర్వహించుము">
+<!ENTITY addons.label                 "యాడ్-ఆన్స్">
+<!ENTITY addons.tooltip               "సంస్థాపించిన యాడ్-ఆన్స్ ను చూపుము మరియు నిర్వహించుము">
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "తప్పుల తెర">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 
-<!ENTITY fileMenu.label         "ఫైలు"> 
+<!ENTITY fileMenu.label         "ఫైల్ "> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -210,13 +210,13 @@
 
 <!ENTITY openLinkCmd.label            "లింకుని కొత్త విండోనందు తెరువుము">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkCmdInTab.label       "లింకుని కొత్త  టాబునందు తెరువుము">
+<!ENTITY openLinkCmdInTab.label       "లింకుని కొత్త  టాబ్ నందు తెరువుము">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openFrameCmd.label           "ఫ్రేముని కొత్త విండోనందు తెరువుము">
+<!ENTITY openFrameCmd.label           "ఫ్రేమ్ ని కొత్త విండోనందు తెరువుము">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openFrameCmdInTab.label      "ఫ్రేముని కొత్త  టాబునందు తెరువుము">
+<!ENTITY openFrameCmdInTab.label      "ఫ్రేమ్ ని కొత్త  టాబ్ నందు తెరువుము">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమును మాత్రమే చూపుము">
+<!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమ్ ను మాత్రమే చూపుము">
 <!ENTITY showOnlyThisFrameCmd.accesskey "w">
 
 <!-- Media (video/audio) controls -->
@@ -235,18 +235,18 @@
 
 
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "ఫ్రేమును తిరిగిలోడు చేయుము">
+<!ENTITY reloadFrameCmd.label         "ఫ్రేమ్ ను తిరిగిలోడు చేయుము">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ఎన్నుకొన్న ములాన్ని దర్శించు">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML ములాన్ని దర్శించు ">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "పేజీ మూలాన్ని దర్శించు">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "ఫ్రేము మూలాన్ని దర్శించు">
+<!ENTITY viewFrameSourceCmd.label     "ఫ్రేమ్  మూలాన్ని దర్శించు">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "పేజీ సమాచారాన్ని దర్శించు">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "ఫ్రేము  సమాచారాన్ని దర్శించు">
+<!ENTITY viewFrameInfoCmd.label       "ఫ్రేమ్   సమాచారాన్ని దర్శించు">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY reloadImageCmd.label         "చిత్రాన్ని మరల ఎక్కించు">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -254,18 +254,18 @@
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewVideoCmd.label           "దృశ్యాన్ని చూడు">
 <!ENTITY viewVideoCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label         "బ్యాక్‌గ్రౌండు చిత్రాన్ని దర్శించు">
+<!ENTITY viewBGImageCmd.label         "బ్యాక్‌గ్రౌండ్ చిత్రాన్ని దర్శించు">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "డెస్కుటాప్ బ్యాక్‌గ్రౌండుగా అమర్చు...">
+<!ENTITY setDesktopBackgroundCmd.label      "డెస్క్‌టాప్  బ్యాక్‌గ్రౌండుగా అమర్చు...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY sendPageCmd.label            "లింకుని పంపుము...">
 <!ENTITY sendPageCmd.accesskey        "e">
-<!ENTITY savePageCmd.label            "పుటను యిలా భద్రపరచు...">
+<!ENTITY savePageCmd.label            "పేజీని యిలా భద్రపరచు...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "ఫ్రేము యిలా భద్రపరచు...">
+<!ENTITY saveFrameCmd.label           "ఫ్రేమ్  యిలా భద్రపరచు...">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY saveLinkCmd.label            "లింకుని యిలా భద్రపరచు...">
 <!ENTITY saveLinkCmd.accesskey        "k">
@@ -298,7 +298,7 @@
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "ఈమెయిల్ చిరునామాను నకలు తీయుము">
 <!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "ఈ ఫ్రేము">
+<!ENTITY thisFrameMenu.label              "ఈ ఫ్రేమ్ ">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
 <!ENTITY newWindowButton.tooltip        "కొత్త విండోను తెరువు">
@@ -345,10 +345,10 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "ఈ పేజీలో కనుగొనుము...">
+<!ENTITY findOnCmd.label     "ఈ పేజీలో కనుగొను...">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "మరలా కనుగొనుము">
+<!ENTITY findAgainCmd.label  "మరలా కనుగొను">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
@@ -368,7 +368,7 @@
 
 <!ENTITY fullZoomResetCmd.label         "తిరిగివుంచు">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY bookmarkPageCmd2.label       "ఈ పుటను ఇష్టాంశము చేయుము">
+<!ENTITY bookmarkPageCmd2.label       "ఈ పేజీని ఇష్టాంశము చేయుము">
 <!ENTITY fullZoomEnlargeCmd.label       "జూమ్‌చేయి">
 <!ENTITY downloadMonitor2.tooltip "డౌన్‌లోడుల విండో తెరువుటకు నొక్కుము">
 <!ENTITY ctrlTab.search.emptyText "టాబ్లలో వెతుకు">

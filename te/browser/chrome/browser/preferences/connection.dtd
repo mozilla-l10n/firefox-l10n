@@ -3,7 +3,7 @@
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ప్రోక్సీలు ఇంటర్నెట్‌ను వాడుకొనునట్లు ఆకృతీకరించు">
-<!ENTITY  WPADTypeRadio.label           "ఈ నెట్వర్కు కొరకు స్వయంచాలక -గుర్తింపు ప్రోక్సీ అమరికలు">
+<!ENTITY  WPADTypeRadio.label           "ఈ నెట్వర్క్  కొరకు స్వయంచాలక -గుర్తింపు ప్రోక్సీ అమరికలు">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "మానవీయంగా ప్రోక్సీ ఆకృతీకరణ:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
@@ -19,7 +19,7 @@
 <!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL ప్రోక్సీ:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS హోస్టు:">
+<!ENTITY  socks.label                   "SOCKS హోస్ట్ :">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
@@ -35,7 +35,7 @@
 <!ENTITY  noproxy.label                 "ఏ ప్రోక్సీ లేదు:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "ఉదాహరణ: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "అన్ని ప్రొటోకాల్సుకు  ఈప్రోక్సీ సర్వరును వుపయోగించండి">
+<!ENTITY  shareproxy.label              "అన్ని ప్రొటోకాల్స్ కు  ఈప్రోక్సీ సర్వరును వుపయోగించండి">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  noProxyTypeRadio.label        "ఏ ప్రోక్సీలేదు">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">

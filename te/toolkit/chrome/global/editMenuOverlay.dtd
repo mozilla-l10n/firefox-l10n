@@ -20,12 +20,12 @@
 <!ENTITY selectAllCmd.label        "అన్నిటిని ఎంపికచేయి">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "కనుగొనుము">
+<!ENTITY findCmd.label             "కనుగొను">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
-<!ENTITY findAgainCmd.label        "మరలా  కనుగొనుము">
+<!ENTITY findAgainCmd.label        "మరలా  కనుగొను">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "ముందలిదానిని  కనుగొనుము">
+<!ENTITY findPreviousCmd.label     "ముందలిదానిని  కనుగొను">
 <!ENTITY findPreviousCmd.accesskey "v">

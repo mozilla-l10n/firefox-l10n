@@ -35,17 +35,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title                       "దృవీకరణపత్ర నిర్వాహకుడు">
+<!ENTITY certmgr.title                       "ధృవీకరణపత్ర నిర్వాహకుడు">
 
-<!ENTITY certmgr.tab.mine                     "మీ  దృవీకరణపత్రాలు">
+<!ENTITY certmgr.tab.mine                     "మీ  ధృవీకరణపత్రాలు">
 <!ENTITY certmgr.tab.ca                       "అధారిటీలు">
 
 <!ENTITY certmgr.ca.builtins                  "బుల్టు ఇన్  CAs">
 <!ENTITY certmgr.ca.mycas                     "CAs మీ ద్వారా  నిర్వహించబడుతున్నాయి">
 
-<!ENTITY certmgr.mine                         "మిమ్ముల్ని  గుర్తించిన  ఈ వ్యవస్థల  నుండి  మీరు దృవీకరణపత్రాలను  కలిగివున్నారు:">
-<!ENTITY certmgr.others                       "వీరు  గుర్తించినటువంటి  ఆ  ఫైలుపై  మీరు  దృవీకరణపత్రాలను  కలిగిఉన్నారు:">
-<!ENTITY certmgr.cas                          "ఈ  దృవీకరణపత్ర  అధారిటీలు  గుర్తించినటువంటి  ఆ  ఫైలుపై  మీరు  దృవీకరణపత్రాలను  కలిగివున్నారు:">
+<!ENTITY certmgr.mine                         "మిమ్ముల్ని  గుర్తించిన  ఈ వ్యవస్థల  నుండి  మీరు ధృవీకరణపత్రాలను  కలిగివున్నారు:">
+<!ENTITY certmgr.others                       "వీరు  గుర్తించినటువంటి  ఆ  ఫైల్ పై  మీరు  ధృవీకరణపత్రాలను  కలిగిఉన్నారు:">
+<!ENTITY certmgr.cas                          "ఈ  ధృవీకరణపత్ర  అధారిటీలు  గుర్తించినటువంటి  ఆ  ఫైల్ పై  మీరు  ధృవీకరణపత్రాలను  కలిగివున్నారు:">
 
 <!ENTITY certmgr.detail.general_tab.title     "సాధారణ">
 <!ENTITY certmgr.detail.prettyprint_tab.title "వివరాలు">
@@ -54,7 +54,7 @@
 <!ENTITY certmgr.issuerinfo.label             "ద్వారా  ఇష్యూయైంది">
 <!ENTITY certmgr.validity.label               "వాలిడిటి" >
 <!ENTITY certmgr.fingerprints.label           "వేలుముద్రలు">
-<!ENTITY certmgr.certdetail.title             "దృవీకరణపత్రం  వివరాలు">
+<!ENTITY certmgr.certdetail.title             "ధృవీకరణపత్రం  వివరాలు">
 <!ENTITY certmgr.certdetail.cn                "సామూహికమైన  నామము (CN)">
 <!ENTITY certmgr.certdetail.o                 "వ్యవస్థ (O)">
 <!ENTITY certmgr.certdetail.ou                "వ్యవస్థ యూనిట్ (OU)">
@@ -62,29 +62,29 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 వేలిముద్ర">
 <!ENTITY certmgr.certdetail.md5fingerprint    "MD5 వేలిముద్ర">
 
-<!ENTITY certmgr.editcert.title               "రక్షణ దృవీకరణపత్రం అమరికలను  సరిచేయి">
-<!ENTITY certmgr.editcacert.title             "CA దృవీకరణపత్రం నమ్మిక అమరికలను  సరిచేయి">
-<!ENTITY certmgr.editsslcert.title            "వెబ్ సైటు దృవీకరణపత్రం నమ్మిక అమరికలను  సరిచేయి">
+<!ENTITY certmgr.editcert.title               "రక్షణ ధృవీకరణపత్రం అమరికలను  సరిచేయి">
+<!ENTITY certmgr.editcacert.title             "CA ధృవీకరణపత్రం నమ్మిక అమరికలను  సరిచేయి">
+<!ENTITY certmgr.editsslcert.title            "వెబ్ సైటు ధృవీకరణపత్రం నమ్మిక అమరికలను  సరిచేయి">
 <!ENTITY certmgr.editcert.edittrust           "నమ్మిక అమరికలను  సరిచేయి:">
-<!ENTITY certmgr.editcert.trustssl            "ఈ దృవీకరణపత్రం  వెబ్ సైటులను గుర్తించగలదు.">
-<!ENTITY certmgr.editcert.trustemail          "ఈ దృవీకరణపత్రం  మెయిల్ వాడుకరులను గుర్తించగలదు.">
-<!ENTITY certmgr.editcert.trustobjsign        "ఈ దృవీకరణపత్రం  సాఫ్టువేరు తయారీదారులను గుర్తించగలదు.">
-<!ENTITY certmgr.editsslcert.edittrust        "దృవీకరణపత్రం నమ్మిక  అమరికలను  సరిచేయి:">
-<!ENTITY certmgr.editsslcert.dotrust          "ఈ  దృవీకరణపత్రం  యొక్క  ఆధెంటిసిటీని  నమ్ముము.">
-<!ENTITY certmgr.editsslcert.donttrust        "ఈ  దృవీకరణపత్రం  యొక్క  ఆధెంటిసిటీని  నమ్మవద్దు.">
-<!ENTITY certmgr.editemailcert.title          "ఇమెయిల్  దృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి">
-<!ENTITY certmgr.editemailcert.edittrust      "దృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి:">
-<!ENTITY certmgr.editemailcert.dotrust        "ఈ  దృవీకరణపత్రం  యొక్క  ఆధెంటిసిటీని  నమ్ముము.">
-<!ENTITY certmgr.editemailcert.donttrust      "ఈ  దృవీకరణపత్రం  యొక్క  ఆధెంటిసిటీని  నమ్మవద్దు.">
+<!ENTITY certmgr.editcert.trustssl            "ఈ ధృవీకరణపత్రం  వెబ్ సైటులను గుర్తించగలదు.">
+<!ENTITY certmgr.editcert.trustemail          "ఈ ధృవీకరణపత్రం  మెయిల్ వాడుకరులను గుర్తించగలదు.">
+<!ENTITY certmgr.editcert.trustobjsign        "ఈ ధృవీకరణపత్రం  సాఫ్టువేరు తయారీదారులను గుర్తించగలదు.">
+<!ENTITY certmgr.editsslcert.edittrust        "ధృవీకరణపత్రం నమ్మిక  అమరికలను  సరిచేయి:">
+<!ENTITY certmgr.editsslcert.dotrust          "ఈ  ధృవీకరణపత్రం  యొక్క  ఆధెంటిసిటీని  నమ్ముము.">
+<!ENTITY certmgr.editsslcert.donttrust        "ఈ  ధృవీకరణపత్రం  యొక్క  ఆధెంటిసిటీని  నమ్మవద్దు.">
+<!ENTITY certmgr.editemailcert.title          "ఇమెయిల్  ధృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి">
+<!ENTITY certmgr.editemailcert.edittrust      "ధృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి:">
+<!ENTITY certmgr.editemailcert.dotrust        "ఈ  ధృవీకరణపత్రం  యొక్క  ఆధెంటిసిటీని  నమ్ముము.">
+<!ENTITY certmgr.editemailcert.donttrust      "ఈ  ధృవీకరణపత్రం  యొక్క  ఆధెంటిసిటీని  నమ్మవద్దు.">
 
-<!ENTITY certmgr.deletecert.title             "దృవీకరణపత్రంను  తొలగించు">
-<!ENTITY certmgr.deletecert.beforename        "ఈ  దృవీకరణపత్రం  తొలగించమని  మీరు  అభ్యర్దించబడ్డారు:">
-<!ENTITY certmgr.deletecert.aftername         "మీరు ఖచ్చితంగా  ఈ  దృవీకరణపత్రంను  తొలిగిచాలని  అనుకుంటున్నారా?">
-<!ENTITY certmgr.deleteusercert.title         "మీ  దృవీకరణపత్రంను  తొలగించండి">
-<!ENTITY certmgr.deleteusercert.beforename    "మీరు  దృవీకరణపత్రం తొలగిచుటకు అభ్యర్దించారు:">
-<!ENTITY certmgr.deleteusercert.aftername     "ఒకసారి  మీరు  ఈ దృవీకరణపత్రంను  తొలగించితే, మీరు  దీని  ద్వారా  ఎన్క్రిప్టు  చేయబడినటువంటి  మెయిల్‌ను  చదవలేరు.">
+<!ENTITY certmgr.deletecert.title             "ధృవీకరణపత్రంను  తొలగించు">
+<!ENTITY certmgr.deletecert.beforename        "ఈ  ధృవీకరణపత్రం  తొలగించమని  మీరు  అభ్యర్దించబడ్డారు:">
+<!ENTITY certmgr.deletecert.aftername         "మీరు ఖచ్చితంగా  ఈ  ధృవీకరణపత్రంను  తొలిగిచాలని  అనుకుంటున్నారా?">
+<!ENTITY certmgr.deleteusercert.title         "మీ  ధృవీకరణపత్రంను  తొలగించండి">
+<!ENTITY certmgr.deleteusercert.beforename    "మీరు  ధృవీకరణపత్రం తొలగిచుటకు అభ్యర్దించారు:">
+<!ENTITY certmgr.deleteusercert.aftername     "ఒకసారి  మీరు  ఈ ధృవీకరణపత్రంను  తొలగించితే, మీరు  దీని  ద్వారా  ఎన్క్రిప్ట్  చేయబడినటువంటి  మెయిల్‌ను  చదవలేరు.">
 
-<!ENTITY certmgr.certname                     "దృవీకరణపత్రం నామము">
+<!ENTITY certmgr.certname                     "ధృవీకరణపత్రం నామము">
 <!ENTITY certmgr.tokenname                    "రక్షణ సాధనం">
 <!ENTITY certmgr.purpose                      "ఉపయోగాలు">
 <!ENTITY certmgr.issued                       "ఇష్యూయైనది">
@@ -98,21 +98,21 @@
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "కలుపు">
 <!ENTITY certmgr.add.accesskey                "A">
-<!ENTITY certmgr.details.label                "దృవీకరణపత్రం ఫీల్టులు">
+<!ENTITY certmgr.details.label                "ధృవీకరణపత్రం ఫీల్టులు">
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ఫీల్డు విలువ">
 <!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "దృవీకరణపత్రం వరుసక్రమము">
+<!ENTITY certmgr.hierarchy.label              "ధృవీకరణపత్రం వరుసక్రమము">
 <!ENTITY certmgr.hierarchy.accesskey          "C">
 
 <!ENTITY certmgr.tab.others2                  "పీపుల్">
 <!ENTITY certmgr.tab.websites3                "సేవికలు">
 <!ENTITY certmgr.tab.orphan2                  "ఇతరులు">
-<!ENTITY certmgr.websites2                    "ఈ సేవికలను గుర్తించే దృవీకరణపత్రాలను మీరు ఫైల్‌నందు కలిగివున్నారు:">
-<!ENTITY certmgr.orphans                      "వేరే ఏఇతర వర్గములతోను సరిపోని దృవీకరణపత్రములను మీరు ఫైల్‌నందు కలిగివున్నారు:">
+<!ENTITY certmgr.websites2                    "ఈ సేవికలను గుర్తించే ధృవీకరణపత్రాలను మీరు ఫైల్‌నందు కలిగివున్నారు:">
+<!ENTITY certmgr.orphans                      "వేరే ఏఇతర వర్గములతోను సరిపోని ధృవీకరణపత్రములను మీరు ఫైల్‌నందు కలిగివున్నారు:">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
-<!ENTITY certmgr.pending.label                "ప్రస్తుతం దృవీకరణపత్రాన్ని నిర్ధారిస్తోంది…">
+<!ENTITY certmgr.pending.label                "ప్రస్తుతం ధృవీకరణపత్రాన్ని నిర్ధారిస్తోంది…">
 <!ENTITY certmgr.certserver                   "సేవిక">
 <!ENTITY certmgr.typesofoverrides             "ఆక్షేపణలు">
 <!ENTITY certmgr.override_lifetime            "జీవితసమయం">
@@ -138,9 +138,9 @@
 <!ENTITY exceptionMgr.supplementalWarning     "చట్టబద్దమైన బ్యాంకులు,   దుకాణాలు, మరియు ఇతర పబ్లిక్ సైటులు ఇదిచేయమని మిమ్ములను అడగవు.">
 <!ENTITY exceptionMgr.certlocation.caption2   "సేవిక">
 <!ENTITY exceptionMgr.certlocation.url        "స్థానము:">
-<!ENTITY exceptionMgr.certlocation.download   "దృవీకరణపత్రంను పొందుము">
+<!ENTITY exceptionMgr.certlocation.download   "ధృవీకరణపత్రంను పొందుము">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
-<!ENTITY exceptionMgr.certstatus.caption      "దృవీకరణపత్రం స్థితి">
+<!ENTITY exceptionMgr.certstatus.caption      "ధృవీకరణపత్రం స్థితి">
 <!ENTITY exceptionMgr.certstatus.viewCert     "దర్శనం…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "ఈ ఆక్షేపణను శాశ్వతంగా నిల్వవుంచుము">

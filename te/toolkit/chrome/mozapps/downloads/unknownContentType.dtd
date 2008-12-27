@@ -39,7 +39,7 @@
 
 <!ENTITY  intro.label                 "మీరు  తెరుచుటకు  ఎంపికచేసికొనినారు">
 <!ENTITY  from.label                  "నుండి:">
-<!ENTITY  actionQuestion.label        "&brandShortName; ఈ  ఫైలుతో  ఏమి చేయాలి?">
+<!ENTITY  actionQuestion.label        "&brandShortName; ఈ  ఫైల్ తో  ఏమి చేయాలి?">
 
 <!ENTITY  openWith.label              "దీనితో  తెరువుము">
 <!ENTITY  openWith.accesskey          "o">
@@ -54,6 +54,6 @@
 <!ENTITY  chooseHandler.label         "అన్వేషించు...">
 <!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY  unknownPromptText.label     "మీరు ఈ ఫైలును  భద్రపరచాలని అనుకుంటున్నారా?">
+<!ENTITY  unknownPromptText.label     "మీరు ఈ ఫైల్ ను  భద్రపరచాలని అనుకుంటున్నారా?">
 <!ENTITY  saveFile.label              "ఫైల్ భద్రపరచు">
 <!ENTITY  saveFile.accesskey          "s">

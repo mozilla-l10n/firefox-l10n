@@ -5,7 +5,7 @@
 <!ENTITY reportProduct               "ఉత్పత్తి">
 <!ENTITY reportoscpu                 "OS">
 <!ENTITY reportGecko                 "Gecko">
-<!ENTITY reportBuildConfig           "బుల్డు  కాన్ఫిగ్">
+<!ENTITY reportBuildConfig           "బుల్డ్  కాన్ఫిగ్">
 <!ENTITY reportUseragent             "యూజర్  ఏజంటు">
 <!ENTITY reportLanguage              "భాష">
 <!ENTITY reportEmail                 "ఈటపా">

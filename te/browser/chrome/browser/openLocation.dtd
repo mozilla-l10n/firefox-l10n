@@ -1,9 +1,9 @@
 <!-- extracted from content/openLocation.xul -->
 
 <!ENTITY enter.label "Enter the web location (URL), or specify the local file you would like to open:">  
-<!ENTITY chooseFile.label "ఫైలును ఎంచుకొనుము...">
+<!ENTITY chooseFile.label "ఫైల్ ను ఎంచుకొనుము...">
 <!ENTITY newWindow.label "కొత్త విండో">
-<!ENTITY newTab.label "కొత్త టాబు">
+<!ENTITY newTab.label "కొత్త టాబ్ ">
 <!ENTITY topWindow.label "ప్రస్తుత విండో">
 <!ENTITY caption.label "వెబ్ స్థానాన్ని తెరువుము">
 <!ENTITY openWhere.label "లో తెరువుము:">

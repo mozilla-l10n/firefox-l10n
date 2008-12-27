@@ -1,4 +1,4 @@
-<!ENTITY brandMotto       "వెబ్‌ను తిరిగికనుగొనుము">
+<!ENTITY brandMotto       "వెబ్‌ను తిరిగికనుగొను">
 <!ENTITY credit.thanks    "ప్రత్యేక కృతజ్ఙతలు">
 
 <!ENTITY credit.thanks2      "చాలా కృతజ్ఞతలు మన ">
@@ -9,6 +9,6 @@
   "<h3>Translators</h3><ul><li>నామము ఇక్కడ/li></ul>">
 -->
 <!ENTITY credit.translation "">
-<!ENTITY credit.memory      "తీపి గుర్తలుగా">
+<!ENTITY credit.memory      "తీపి గుర్తులుగా">
 <!ENTITY credit.contributors2 "సహాయకులు">
 <!ENTITY credit.poweredByGeckoReg "ప్రాయోజకులు Gecko&reg;">

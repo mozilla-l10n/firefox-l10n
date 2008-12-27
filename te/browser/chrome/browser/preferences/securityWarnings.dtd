@@ -5,9 +5,9 @@
 <!ENTITY security.warn_entering_secure.accesskey  "v">
 <!ENTITY security.warn_entering_weak.label        "తక్కువ-నాణ్యత ఎన్క్రిప్షన్ వుపయోగించే  పేజీ గురించి దర్శించాలి.">
 <!ENTITY security.warn_entering_weak.accesskey    "g">
-<!ENTITY security.warn_leaving_secure.label       "నేను ఒక ఎన్క్రిప్టెడ్ పేజీను వదిలినాను  అది ఎన్క్రిప్టు చేయబడలేదు.">
+<!ENTITY security.warn_leaving_secure.label       "నేను ఒక ఎన్క్రిప్టెడ్ పేజీని వదిలినాను  అది ఎన్క్రిప్ట్ చేయబడలేదు.">
 <!ENTITY security.warn_leaving_secure.accesskey   "l">
-<!ENTITY security.warn_submit_insecure.label      "నేను ఎన్క్రిప్టు చేయని సమాచారాన్ని అప్పగించాను.">
+<!ENTITY security.warn_submit_insecure.label      "నేను ఎన్క్రిప్ట్ చేయని సమాచారాన్ని అప్పగించాను.">
 <!ENTITY security.warn_submit_insecure.accesskey  "s">
 <!ENTITY security.warn_viewing_mixed.label        "నేను అన్ఎన్క్రిప్టెడ్ సమాచారం కలిగి ఉన్న ఎన్క్రిప్టెడ్ పేజీ గురించి దర్శించాలి.">
 <!ENTITY security.warn_viewing_mixed.accesskey    "u">
