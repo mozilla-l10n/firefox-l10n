@@ -25,7 +25,7 @@
 ">
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; non può caricare questa pagina per qualche motivo.</p>
+<p>Per qualche motivo &brandShortName; non è in grado di caricare questa pagina.</p>
 ">
 <!ENTITY malformedURI.title "L'indirizzo non è valido">
 <!ENTITY malformedURI.longDesc "
@@ -60,7 +60,7 @@
 <!ENTITY protocolNotFound.title "Indirizzo non interpretabile">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>È neccessario installare del software aggiuntivo per aprire questo indirizzo.</li>
+  <li>È necessario installare del software aggiuntivo per aprire questo indirizzo.</li>
 </ul>
 ">
 <!ENTITY proxyConnectFailure.title "Connessione rifiutata dal server proxy">
