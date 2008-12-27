@@ -3,4 +3,4 @@
 <!ENTITY date.heading               "Date de soumission">
 <!ENTITY noReports.label            "Aucun rapport de plantage n'a été envoyé.">
 <!ENTITY noConfig.label             "Cette application n'est pas configurée pour afficher les rapports de plantage. Vous devez définir la variable <code>breakpad.reportURL</code>.">
-<!ENTITY clearReports.label         "Supprimer les rapports">
+<!ENTITY clearAllReports.label      "Supprimer tous les rapports">
