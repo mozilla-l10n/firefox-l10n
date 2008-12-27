@@ -2,12 +2,12 @@
 
 <!ENTITY startupPage.label         "&brandShortName; ప్రారంభమైనప్పుడు:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "నా నివాస పేజీను చూపించు">
-<!ENTITY startupBlankPage.label    "ఖాళీ పేజీను చూపించు">
-<!ENTITY startupLastSession.label  "చివిరిసారి నుండి నావిండోలను మరియు టాబులను చూపించు">
+<!ENTITY startupHomePage.label     "నా నివాస పేజీని చూపించు">
+<!ENTITY startupBlankPage.label    "ఖాళీ పేజీని చూపించు">
+<!ENTITY startupLastSession.label  "చివిరిసారి నుండి నావిండోలను మరియు టాబ్ లను చూపించు">
 <!ENTITY location.label            "నివాస పేజీ:">
 <!ENTITY location.accesskey        "H">
-<!ENTITY useCurrentPage.label      "ప్రస్తుత పేజీను వుపయోగించు">
+<!ENTITY useCurrentPage.label      "ప్రస్తుత పేజీని వుపయోగించు">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "ప్రస్తుత పేజీలను వుపయోగించు">
 <!ENTITY useBookmark.label         "ఇష్టాంశం వుపయోగించు">
@@ -17,7 +17,7 @@
 
 <!ENTITY downloads.label     "డౌనులోడులు">
 
-<!ENTITY showWhenDownloading.label     "ఒక ఫైలును డౌనులోడు చేస్తున్నప్పుడు డౌనులోడు విండోను చూపించు">
+<!ENTITY showWhenDownloading.label     "ఒక ఫైల్ ను డౌనులోడు చేస్తున్నప్పుడు డౌనులోడు విండోను చూపించు">
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label "అన్ని డౌనులోడులు పూర్తైనప్పుడు దానిని మూసివేయి">
 <!ENTITY closeWhenDone.accesskey "w">
@@ -30,8 +30,8 @@
 <!ENTITY alwaysAsk.label "ఫైల్సు ఎక్కడ భద్రపరచాలో ఎప్పుడూ నన్ను ఆడుగు">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY addonsMgr.label               "యాడ్-ఆన్సు‌">
-<!ENTITY manageAddonsDescWin.label     "మీ యాడ్-ఆన్సు కొరకు ఐచ్చికాలను మార్చండి">
-<!ENTITY manageAddonsDescUnix2.label   "మీ యాడ్-ఆన్సు కొరకు అభీష్టాలను మార్చండి">
-<!ENTITY manageAddons.label            "యాడ్-ఆన్సు నిర్వహించండి…">
+<!ENTITY addonsMgr.label               "యాడ్-ఆన్స్">
+<!ENTITY manageAddonsDescWin.label     "మీ యాడ్-ఆన్స్ కొరకు ఐచ్చికాలను మార్చండి">
+<!ENTITY manageAddonsDescUnix2.label   "మీ యాడ్-ఆన్స్ కొరకు అభీష్టాలను మార్చండి">
+<!ENTITY manageAddons.label            "యాడ్-ఆన్స్ నిర్వహించండి…">
 <!ENTITY manageAddons.accesskey        "M">

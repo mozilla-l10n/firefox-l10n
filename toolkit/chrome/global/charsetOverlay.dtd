@@ -3,13 +3,13 @@
 <!ENTITY charsetMenu.accesskey				"C">
 <!ENTITY charsetMenuAutodet.label			"ఆటో-డిటెక్టు ">
 <!ENTITY charsetMenuAutodet.accesskey			"a">
-<!ENTITY charsetMenuMore.label				"ఎక్కువ  ఎన్కోడింగ్సు">
+<!ENTITY charsetMenuMore.label				"ఎక్కువ  ఎన్కోడింగ్స్">
 <!ENTITY charsetMenuMore.accesskey				"m">
-<!ENTITY charsetMenuMore1.label				"వెస్టు     యూరోపియన్">
+<!ENTITY charsetMenuMore1.label				"వెస్ట్     యూరోపియన్">
 <!ENTITY charsetMenuMore1.accesskey				"w">
-<!ENTITY charsetMenuMore2.label				"ఈస్టు    యూరోపియన్">
+<!ENTITY charsetMenuMore2.label				"ఈస్ట్   యూరోపియన్">
 <!ENTITY charsetMenuMore2.accesskey				"E">
-<!ENTITY charsetMenuMore3.label				"ఈస్టు    ఏసియన్">
+<!ENTITY charsetMenuMore3.label				"ఈస్ట్   ఏసియన్">
 <!ENTITY charsetMenuMore3.accesskey				"A">
 <!ENTITY charsetMenuMore4.label				"SE &amp; SW ఏసియన్">
 <!ENTITY charsetMenuMore4.accesskey				"S">

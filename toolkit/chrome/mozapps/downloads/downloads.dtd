@@ -30,7 +30,7 @@
 <!ENTITY scanning.label                   "వైరస్‌ల కొరకు స్కానింగ్ చేస్తోంది…">
 <!ENTITY cmd.showMac.label                "ఫైండర్ నందు చూపుము">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.goToDownloadPage.label       "దిగుమతి పేజీకు వెళ్ళుము">
+<!ENTITY cmd.goToDownloadPage.label       "దిగుమతి పేజీకి వెళ్ళుము">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "డౌన్‌లోడ్ లింకును నకలుతీయము">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">

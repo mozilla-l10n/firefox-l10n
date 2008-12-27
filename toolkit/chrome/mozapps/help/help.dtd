@@ -17,9 +17,9 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "నివాసం">
-<!ENTITY homeButton.tooltip             "సహాయం  యొక్క  ప్రారంభ పేజీకు  వెళ్ళు">
+<!ENTITY homeButton.tooltip             "సహాయం  యొక్క  ప్రారంభ పేజీకి  వెళ్ళు">
 <!ENTITY printButton.label              "ముద్రించు">
-<!ENTITY printButton.tooltip            "ఈ  పేజీను  ముద్రించు">
+<!ENTITY printButton.tooltip            "ఈ  పేజీని  ముద్రించు">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "శోధించు">

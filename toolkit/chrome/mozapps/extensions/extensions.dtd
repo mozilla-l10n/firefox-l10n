@@ -10,17 +10,17 @@
 
 <!-- View labels -->
 <!ENTITY extensions.label                 "విస్తరణలు">
-<!ENTITY themes.label                     "థీమ్సు">
+<!ENTITY themes.label                     "థీమ్స్ ">
 <!ENTITY locales.label                    "భాషలు">
 <!ENTITY plugins.label                    "ప్లగ్ఇన్లు">
 <!ENTITY update.label                     "నవీకరణలు">
 <!ENTITY install.label                    "సంస్థాపన">
 
 <!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "నవీకరణలను  కనుగొనుము">
+<!ENTITY cmd.checkUpdatesAll.label        "నవీకరణలను  కనుగొను">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "మీ  యాడ్-ఆన్సుకి నవీకరణలను  కనుగొంటుంది">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "మీ  థీమ్సుకి  నవీకరణలను  కనుగొంటుంది">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "మీ  యాడ్-ఆన్స్కి నవీకరణలను  కనుగొంటుంది">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "మీ  థీమ్స్ కి  నవీకరణలను  కనుగొంటుంది">
 <!ENTITY cmd.installLocalFile.label       "సంస్థాపించు...">
 <!ENTITY cmd.installFileAddon.tooltip     "ఒక  యాడ్-ఆన్‌ను  సంస్థాపించు">
 <!ENTITY cmd.installFileTheme.tooltip     "ఒక  థీమ్‌ను  సంస్థాపించు">
@@ -39,7 +39,7 @@
 <!ENTITY cmd.enableAll.tooltip            "కనబడే  అన్ని  యాడ్-ఆన్‌లను  చేతనం చేయి">
 <!ENTITY cmd.disableAll.label             "అన్నిటిని  అచేతనం చేయి">
 <!ENTITY cmd.disableAll.accesskey         "s">
-<!ENTITY cmd.disableAll.tooltip           "అన్ని  కనిపించే  యాడ్-ఆన్సును  ప్రదర్శించు">
+<!ENTITY cmd.disableAll.tooltip           "అన్ని  కనిపించే  యాడ్-ఆన్స్ ను  ప్రదర్శించు">
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "థీమ్‌ను  వుపయోగించు">
@@ -53,13 +53,13 @@
 <!ENTITY cmd.optionsUnix.tooltip          "ఎంపికచేసిన  విస్తరణలకు  ఆభీష్టాలను  సరిచేయండి">
 <!ENTITY cmd.enable.label                 "చేతనం">
 <!ENTITY cmd.enable.accesskey             "E">
-<!ENTITY cmd.enable.tooltip               "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్సును చేతనం చేయి">
+<!ENTITY cmd.enable.tooltip               "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్స్ ను చేతనం చేయి">
 <!ENTITY cmd.disable.label                "అచేతనం">
 <!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్సును అచేతనం చేయి">
+<!ENTITY cmd.disable.tooltip              "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్స్ ను అచేతనం చేయి">
 <!ENTITY cmd.uninstall.label              "నిర్మీలించు">
 <!ENTITY cmd.uninstall2.accesskey         "U">
-<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్సును  నిర్మూలించు">
+<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్స్ ను  నిర్మూలించు">
 <!ENTITY cmd.cancelUninstall.label        "నిర్మూలన  రద్దుచేయి">
 <!ENTITY cmd.cancelUninstall.accesskey    "C">
 <!ENTITY cmd.cancelUninstall.tooltip      "ఈ  యాడ్-ఆన్  యొక్క  నిర్మూలన  రద్దుచేయి">
@@ -71,11 +71,11 @@
 <!ENTITY cancel.accesskey                 "C">
 
 <!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "నివాసపుటను దర్శించు">
+<!ENTITY cmd.homepage.label               "నివాసపేజీని దర్శించు">
 <!ENTITY cmd.homepage.accesskey           "H">
 <!ENTITY cmd.about2.label                 "ఈ  యాడ్-ఆన్  గురించి">
 <!ENTITY cmd.about.accesskey              "A">
-<!ENTITY cmd.checkUpdate.label            "నవీకరణను  కనుగొనుము">
+<!ENTITY cmd.checkUpdate.label            "నవీకరణను  కనుగొను">
 <!ENTITY cmd.checkUpdate.accesskey        "F">
 
 <!ENTITY cmd.includeUpdate.label          "నవీకరణను  చేర్చు">
@@ -107,7 +107,7 @@
 <!ENTITY installIncompatibleUpdate.label  "సారూప్యతను  పరిశీలిస్తోంది...">
 <!ENTITY installFinishing.label           "సంస్థాపించుచున్నది...">
 <!ENTITY installFailure.label             "సంస్థాపన  విఫలం.">
-<!ENTITY search.label                     "యాడ్-ఆన్సు పొందు">
+<!ENTITY search.label                     "యాడ్-ఆన్స్ పొందు">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.restartApp2.label            "&brandShortName; పునఃప్రారంభించు">
 <!ENTITY cmd.restartApp2.accesskey        "R">
@@ -133,23 +133,23 @@
 <!ENTITY cancelUpgrade.accesskey          "C">
 <!ENTITY insecureUpdate.label             "సురక్షిత నవీకరణలను అందించుటలేదు.">
 <!ENTITY toBeUpdated.label                "&brandShortName; పునఃప్రారంభమైనప్పుడు ఈ యాడ్-ఆన్ నవీకరించబడుతుంది.">
-<!ENTITY getPlugins.label                 "ప్లగ్ఇన్సు పొందుము">
-<!ENTITY searchAddons.label               "అన్ని యాడ్-ఆన్సును శోధించుము">
-<!ENTITY browseAddons.label               "అన్ని యాడ్-ఆన్సును అన్వేషించుము">
-<!ENTITY searchFailed.label               "&brandShortName; యాడ్-ఆన్సును పొందలేకపోయింది">
+<!ENTITY getPlugins.label                 "ప్లగ్ఇన్స్ పొందుము">
+<!ENTITY searchAddons.label               "అన్ని యాడ్-ఆన్స్ ను శోధించుము">
+<!ENTITY browseAddons.label               "అన్ని యాడ్-ఆన్స్ ను అన్వేషించుము">
+<!ENTITY searchFailed.label               "&brandShortName; యాడ్-ఆన్స్ ను పొందలేకపోయింది">
 <!ENTITY recommendedHeader.label          "సిఫార్సు చేయబడింది">
-<!ENTITY recommendedThrobber.label        "సిఫార్సు చేయబడిన యాడ్-ఆన్సును తీసుకొంటోంది">
-<!ENTITY searchThrobber.label             "యాడ్-ఆన్సు శోధిస్తోంది">
+<!ENTITY recommendedThrobber.label        "సిఫార్సు చేయబడిన యాడ్-ఆన్స్ ను తీసుకొంటోంది">
+<!ENTITY searchThrobber.label             "యాడ్-ఆన్స్ శోధిస్తోంది">
 <!ENTITY resetSearch.label                "ఫలితాలను శుభ్రంచేయి">
 <!ENTITY noSearchResults.label            "అన్ని ఫలితాలు ఇప్పటికే సంస్థాపించబడివున్నాయి లేదా సారూప్యమైనవికావు.">
 <!ENTITY noRecommendedResults.label       "అన్ని సిఫార్సులు ఇప్పటికే సంస్థాపించబడివున్నాయి లేదా సాపూప్యమైనవికావు.">
-<!ENTITY emptySearch.label                "ఏసరిపోలు యాడ్-ఆన్సు లేవు">
+<!ENTITY emptySearch.label                "ఏసరిపోలు యాడ్-ఆన్స్ లేవు">
 <!ENTITY emptySearch.button               "సరే">
 <!ENTITY cancelSearch.button              "రద్దుచేయి">
 <!ENTITY searchFailed.button              "సరే">
 <!ENTITY searchResultHomepage.value       "ఇంకా తెలుసుకోండి">
-<!ENTITY searchBox.label                  "అన్ని యాడ్-ఆన్సును శోదించు">
-<!ENTITY recommendedResults.label         "అన్ని సిఫార్సు చేయబడిన యాడ్-ఆన్సును చూడుము">
+<!ENTITY searchBox.label                  "అన్ని యాడ్-ఆన్స్ ను శోదించు">
+<!ENTITY recommendedResults.label         "అన్ని సిఫార్సు చేయబడిన యాడ్-ఆన్స్ ను చూడుము">
 <!ENTITY searchResultConnecting.label     "అనుసంధానిస్తోంది…">
 <!ENTITY searchResultInstalling.label     "సంస్థాపిస్తోంది…">
 <!ENTITY searchResultFailed.label         "సంస్థాపన విఫలమైంది">

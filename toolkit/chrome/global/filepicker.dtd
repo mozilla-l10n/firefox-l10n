@@ -1,6 +1,6 @@
 <!ENTITY lookInMenuList.label   "దీనిలోచూడు:">
 <!ENTITY lookInMenuList.accesskey   "L">
-<!ENTITY textInput.label        "ఫైలు  నామము:">
+<!ENTITY textInput.label        "ఫైల్   నామము:">
 <!ENTITY textInput.accesskey        "n">
 <!ENTITY filterMenuList.label   "ఈ రకమైన  ఫైళ్ళు:">
 <!ENTITY filterMenuList.accesskey   "t">

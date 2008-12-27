@@ -9,11 +9,11 @@
 <!ENTITY about.license.afterLink      "ను చదవండి.">
 
 <!ENTITY about.relnotes.beforeLink    "ఈ వర్షన్">
-<!ENTITY about.relnotes.linkTitle     "విడుదల నోట్సు">
+<!ENTITY about.relnotes.linkTitle     "విడుదల నోట్స్">
 <!ENTITY about.relnotes.afterLink     "ను చదవండి.">
 
 <!ENTITY about.buildconfig.beforeLink "ఈ వర్షన్‌కు వుపయోగించిన">
-<!ENTITY about.buildconfig.linkTitle  "బుల్డు ఆకృతీకరణ">
+<!ENTITY about.buildconfig.linkTitle  "బుల్డ్ ఆకృతీకరణ">
 <!ENTITY about.buildconfig.afterLink  "ను చూడండి.">
 
-<!ENTITY about.buildIdentifier        "బుల్డు ఐడెంటిఫైర్: ">
+<!ENTITY about.buildIdentifier        "బుల్డ్ ఐడెంటిఫైర్: ">

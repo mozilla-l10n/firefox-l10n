@@ -8,7 +8,7 @@
 <!ENTITY  exceptions.label            "ఎక్సెప్షన్లు...">
 <!ENTITY  exceptions.accesskey        "x">
 
-<!ENTITY  enableJavaScript.label      "జావాస్క్రిప్టును చేతనంచేయి">
+<!ENTITY  enableJavaScript.label      "జావాస్క్రిప్ట్ ను చేతనంచేయి">
 <!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "అధునాతన...">
 <!ENTITY  advancedJS.accesskey        "v">
@@ -17,7 +17,7 @@
 <!ENTITY  enableJava.accesskey        "n">
 
 
-<!ENTITY  fontsAndColors.label        "ఫాంట్సు &amp;రంగులు">
+<!ENTITY  fontsAndColors.label        "ఫాంట్స్ &amp;రంగులు">
 
 <!ENTITY  defaultFont.label                       "అప్రమేయ ఫాంటు:">
 <!ENTITY  defaultFont.accesskey                   "D">

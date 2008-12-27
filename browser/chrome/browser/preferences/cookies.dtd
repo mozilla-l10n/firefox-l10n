@@ -1,6 +1,6 @@
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "ఈక్రింది కుకీలు మీకంప్యూటరు నందు  నిల్వ చేయబడ్డాయి.:">
+<!ENTITY     cookiesonsystem.label          "ఈక్రింది కుకీలు మీకంప్యూటర్ నందు  నిల్వ చేయబడ్డాయి.:">
 <!ENTITY     cookiename.label               "కుకీ నామము">
 <!ENTITY     cookiedomain.label             "సైటు"> 
 <!ENTITY     button.removecookie.label      "కుకీని తొలగించు">
@@ -10,7 +10,7 @@
 
 <!ENTITY     props.name.label               "నామము:">
 <!ENTITY     props.value.label              "విషయసంగ్రహము:">
-<!ENTITY     props.domain.label             "హోస్టు:">
+<!ENTITY     props.domain.label             "హోస్ట్ :">
 <!ENTITY     props.path.label               "పాత్:">
 <!ENTITY     props.secure.label             "కొరకు పంపించు:">
 <!ENTITY     props.expires.label            "కాలముతీరిన:">

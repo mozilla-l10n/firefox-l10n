@@ -38,26 +38,26 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - వాడుకరి  ప్రొఫైలును ఎన్నుకొనుము">
+<!ENTITY            windowtitle.label      "&brandShortName; - వాడుకరి  ప్రొఫైల్ ను ఎన్నుకొనుము">
 
-<!ENTITY            profilename.label      "ప్రొఫైలు  నామము:">
+<!ENTITY            profilename.label      "ప్రొఫైల్   నామము:">
 
 <!ENTITY            start.label            "&brandShortName; ప్రారంభించు">
 <!ENTITY            exit.label             "బయటకు">
 
 <!ENTITY            availprofiles.label    "అందుబాటులోని   ప్రొఫైల్సు">
 
-<!ENTITY            newButton.label        "ప్రొఫైలును సృష్టించు...">
+<!ENTITY            newButton.label        "ప్రొఫైల్ ను సృష్టించు...">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "ప్రొఫైలును పునఃనామకరణచేయి...">
+<!ENTITY            renameButton.label     "ప్రొఫైల్ ను పునఃనామకరణచేయి...">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "ప్రొఫైలు  తొలగించు...">
+<!ENTITY            deleteButton.label     "ప్రొఫైల్   తొలగించు...">
 <!ENTITY            deleteButton.accesskey "D">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "మీ  వాడుకరి  ప్రొఫైలు  నందువున్న   మీఅమరికల,  అభీష్టాల, మరియు ఇతర అంశముల  సమాచారాన్ని  &brandShortName; నిల్వవుంచుతుంది.">
+<!ENTITY            pmDescription.label    "మీ  వాడుకరి  ప్రొఫైల్   నందువున్న   మీఅమరికల,  అభీష్టాల, మరియు ఇతర అంశముల  సమాచారాన్ని  &brandShortName; నిల్వవుంచుతుంది.">
 
-<!ENTITY            offlineState.label    "ఆఫ్‌లైనుగా  పనిచేయి">
+<!ENTITY            offlineState.label    "ఆఫ్‌లైన్ గా  పనిచేయి">
 <!ENTITY            offlineState.accesskey "o">
 
 <!ENTITY            autoSelect.label       "ప్రారంభంనందు   అడగవద్దు">

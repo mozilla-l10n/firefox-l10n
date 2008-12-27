@@ -1,7 +1,7 @@
 <!ENTITY pluginWizard.title                                  "ప్లగ్ఇన్  వెతికే  సేవ">
 <!ENTITY pluginWizard.firstPage.title                        " &pluginWizard.title;కు స్వాగతం">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ఇప్పుడు  అందుబాటులోవున్న  ప్లగ్ఇన్సు  కొరకు  పరిశీలిస్తోంది...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ఇప్పుడు  అందుబాటులోవున్న  ప్లగ్ఇన్స్  కొరకు  పరిశీలిస్తోంది...">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "అందుబాటులోవున్న  ప్లగ్ఇన్  డౌనులోడులు">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "ఈ  క్రింది  ప్లగ్ఇన్‌లు  అందుబాటులో  వున్నాయి:">
@@ -17,7 +17,7 @@
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; తప్పిపోయిన  ప్లగ్ఇన్  సంస్థాపనను  పూర్తిచేసినది:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "ప్లగ్ఇన్‌ల  గురించి  ఎక్కువ  కనుగొనుము  లేదా  మానవీయంగా  తప్పిపోయిన  ప్లగ్ఇన్‌లను  కనుగొనుము.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "ప్లగ్ఇన్‌ల  గురించి  ఎక్కువ  కనుగొను  లేదా  మానవీయంగా  తప్పిపోయిన  ప్లగ్ఇన్‌లను  కనుగొను.">
 <!ENTITY pluginWizard.finalPage.restart.label                "ప్లగ్ఇన్(లు)  పనిచేయుటకు &brandShortName;ను పునఃప్రారంభించాలి.">
 
 <!ENTITY missingPlugin.label                                 "ప్లగ్ఇన్  డౌన్‌లోడు చేయుటకు ఇక్కడ నొక్కండి.">

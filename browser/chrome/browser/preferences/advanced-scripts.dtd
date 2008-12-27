@@ -35,16 +35,16 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title         "అధునాతన జావాస్క్రిప్టు అమరికలు">
+<!ENTITY advancedJSDialog.title         "అధునాతన జావాస్క్రిప్ట్  అమరికలు">
 <!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label             "స్క్రిప్టులనుకూడా అనుమతించు:">
+<!ENTITY allowScripts.label             "స్క్రిప్ట్ లనుకూడా అనుమతించు:">
 
 <!ENTITY moveResizeWindows.label        "ఉన్న విండోస్‌ను కదుపు లేదా పూర్వపుపరిమాణం చేయి">
 <!ENTITY moveResizeWindows.accesskey    "M">
 <!ENTITY raiseLowerWindows.label        "విండోలను పెంచు లేదా తగ్గించు">
 <!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "కాంటెక్స్టు మెనూలను అచేతనం లేదా పునఃస్థాపన చేయి">
+<!ENTITY disableContextMenus.label      "కాంటెక్స్ట్  మెనూలను అచేతనం లేదా పునఃస్థాపన చేయి">
 <!ENTITY disableContextMenus.accesskey  "D">
 <!ENTITY hideStatusBar.label            "స్థితిపట్టీను మరుగుపరచు">
 <!ENTITY hideStatusBar.accesskey        "H">

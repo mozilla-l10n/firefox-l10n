@@ -37,7 +37,7 @@
 
 <!ENTITY errorConsole.title "తప్పుల తెర">
 
-<!ENTITY errFile.label   "మూలమైన  ఫైలు:">
+<!ENTITY errFile.label   "మూలమైన  ఫైల్ :">
 <!ENTITY errLine.label   "గీత:">
 <!ENTITY errColumn.label "నిలువు వరుస:">
 
