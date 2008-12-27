@@ -73,6 +73,8 @@
 <!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
 <!ENTITY organizeBookmarks.label "ארגן סימניות…">
 <!ENTITY bookmarkAllCmd.label "הוסף סימנייה לכל הלשוניות...">
+<!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
+
 <!ENTITY backCmd.label "אחורה">
 <!ENTITY backCmd.accesskey "ח">
 <!ENTITY backButton.tooltip "חזור דף אחד אחורה">
@@ -88,6 +90,8 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "הפסק לטעון דף זה">
 <!ENTITY goEndCap.tooltip "עבור לכתובת שבסרגל המיקום">
+
+<!ENTITY feedButton.tooltip           "הירשם לדף זה…">
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY printButton.tooltip "הדפס דף זה">
 <!ENTITY locationItem.title "מיקום">

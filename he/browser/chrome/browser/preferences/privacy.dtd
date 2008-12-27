@@ -1,5 +1,14 @@
 <!ENTITY history.label "היסטוריה">
 
+<!ENTITY  locbar.pre.label              "כאשר משתמשים בסרגל המיקום, המלץ על:">
+
+<!ENTITY  locbar.pre.accessKey          "כ">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "היסטוכיה וסימניות">
+<!ENTITY  locbar.history.label          "היסטוריה">
+<!ENTITY  locbar.bookmarks.label        "סימניות">
+<!ENTITY  locbar.nothing.label          "שום דבר">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
