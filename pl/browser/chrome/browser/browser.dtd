@@ -98,6 +98,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip "Zatrzymaj wczytywanie bieżącej strony" >
 <!ENTITY goEndCap.tooltip "Przejdź do strony o podanym adresie" >
+<!ENTITY feedButton.tooltip           "Subskrybuj tę stronę…">
 <!ENTITY printButton.label "Drukuj" >
 <!ENTITY printButton.tooltip "Drukuj bieżącą stronę" >
 
