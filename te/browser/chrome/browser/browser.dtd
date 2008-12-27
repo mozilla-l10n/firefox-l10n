@@ -7,9 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(గోప్య వీక్షణం)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "కొత్త టాబ్ ">
 <!ENTITY tabCmd.accesskey "T">
@@ -392,7 +394,6 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 <!ENTITY organizeBookmarks.label "ఇష్టాంశములను నిర్వహించు…">
-<!ENTITY editBookmark.removeBookmark.label           "ఇష్టాంశమును తీసివేయి">
 <!ENTITY fullZoomReduceCmd.label        "జూమ్ తగ్గించు">
 <!ENTITY fullScreenExit.accesskey "F">
 <!ENTITY showAllHistoryCmd.commandkey "H">

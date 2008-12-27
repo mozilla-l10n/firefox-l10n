@@ -1,4 +1,12 @@
-<!ENTITY  history.label "History">
+<!ENTITY  history.label "చరిత్ర">
+
+<!ENTITY  locbar.pre.label              "స్థానపు పట్టీ వాడునప్పుడు,  చెప్పు:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "చరిత్ర మరియు ఇష్టాంశాలు">
+<!ENTITY  locbar.history.label          "చరిత్ర">
+<!ENTITY  locbar.bookmarks.label        "ఇష్టాంశాలు">
+<!ENTITY  locbar.nothing.label          "ఏమీలేదు">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberBefore.label and rememberAfter.label appear on a single

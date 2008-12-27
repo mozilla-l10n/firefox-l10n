@@ -1,23 +1,26 @@
 <!-- extracted from printjoboptions.xul -->
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "పేజీ అమర్పు">
-
 <!ENTITY basic.tab           "&amp; రూపంయొక్క  ఐచ్చికాలు">
-
 <!ENTITY formatGroup.label   "రూపం">
-
 <!ENTITY orientation.label   "సర్దుబాటు:">
-<!ENTITY portrait            "పోర్ట్రయిట్">
-<!ENTITY landscape           "లాండ్‌స్కేప్">
+<!ENTITY orientation.label   "తీరు:">
 
+<!ENTITY portrait.label      ""పోర్ట్రయిట్">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "లాండ్‌స్కేప్">
+<!ENTITY landscape.accesskey "L">
 <!ENTITY scale.label         "స్కేల్:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "పేజీ వెడల్పుకు  సరిపోవునట్లు  కుచింపుము">
-
+<!ENTITY shrinkToFit.accesskey "W">
 <!ENTITY optionsGroup.label  "ఐచ్చికాలు">
 
 <!ENTITY printBG.label       "ముద్రణ  బ్యాక్‌గ్రౌండ్ (వర్ణాలు  &amp; చిత్రాలు)">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "మార్జిన్లు   &amp; పీఠక/భూమిక">
 
@@ -25,9 +28,15 @@
 <!ENTITY marginUnits.inches  "అంగుళాలు">
 <!ENTITY marginUnits.metric  "మిల్లీమీటర్లు">
 <!ENTITY marginTop.label     "పైన:">
+<!ENTITY marginTop.accesskey "T">
 <!ENTITY marginBottom.label  "క్రింద:">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "ఎడమ:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginLeft.label    "Left:">
 <!ENTITY marginRight.label   "కుడి:">
+<!ENTITY marginRight.accesskey "R">
+
 
 <!ENTITY headerFooter.label  "ఫీఠికలు   &amp; భూమికలు">
 
