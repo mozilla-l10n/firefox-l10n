@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Stillingar póstþjóns út (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Þótt þú getir tilgreint fleiri ein einn þjón fyrir útsendan póst (SMTP), þá er bara mælt með því fyrir mjög vana notendur. Uppsetning á mörgum SMTP þjónum getur valdið villum þegar verið er að senda póst.">
+<!ENTITY smtpDesc.label "Þótt þú getir tilgreint fleiri ein einn póstþjón fyrir útsendan póst (SMTP), þá er bara mælt með því fyrir mjög vana notendur. Uppsetning á mörgum SMTP póstþjónum getur valdið villum þegar verið er að senda póst.">
 <!ENTITY smtpListAdd.label "Bæta við…">
 <!ENTITY smtpListAdd.accesskey "B">
 <!ENTITY smtpListEdit.label "Breyta…">
@@ -13,7 +13,7 @@
 <!ENTITY smtpListSetDefault.label "Setja sem sjálfgefið">
 <!ENTITY smtpListSetDefault.accesskey "t">
 <!ENTITY serverDescription.label "Lýsing: ">
-<!ENTITY serverName.label "Nafn miðlara: ">
+<!ENTITY serverName.label "Nafn netþjóns: ">
 <!ENTITY serverPort.label "Gátt: ">
 <!ENTITY userName.label "Notandanafn: ">
 <!ENTITY useSecureConnection.label "Örugg tenging: ">

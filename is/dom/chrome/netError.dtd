@@ -6,7 +6,7 @@
 <!ENTITY connectionFailure.longDesc "<p>Þótt svæðið virðist vera gilt, getur vafrinn ekki tengst því.</p><ul><li>Gæti verið að vefsvæðið sé niðri tímabundið? Reyndu aftur seinna.</li><li>Geturðu ekki tengst við önnur svæði?  Athugaðu netstillingar tölvu.</li><li>Er tölvan þín eða net varið af eldvegg eða staðgengli? Rangar stillingar geta haft áhrif á netvafra.</li></ul>">
 <!ENTITY deniedPortAccess.title "Aðgangur að þessari gátt er ekki leyfður">
 <!ENTITY deniedPortAccess.longDesc "<p>Umbeðið veffang bað um ákveðna gátt (t.d. <q>mozilla.org:80</q> fyrir gátt 80 á mozilla.org) sem er venjulega notað fyrir eitthvað <em>annað</em> að vafra. Vafrinn hefur lokað á beiðnina þér til verndar.</p>">
-<!ENTITY dnsNotFound.title "Þjónn fannst ekki">
+<!ENTITY dnsNotFound.title "Netfang fannst ekki">
 <!ENTITY dnsNotFound.longDesc "<p>Vafrinn fann ekki vefþjóninn fyrir þetta netfang.</p><ul><li>Slóstu inn vitlaust netfang? (t.d. <q><strong>ww</strong>.mozilla.org</q> í staðinn fyrir <q><strong>www</strong>.mozilla.org</q>)</li><li>Ertu viss um að þetta vefsvæði sé til?  Vefsvæðið gæti verið útrunnið.</li><li>Geturðu tengst öðrum svæðum? Athugaðu netstillingar og DNS stillingar tölvu.</li><li>Er tölvan varin af eldvegg eða staðgengli?  Rangar stillingar geta haft áhrif á vafra.</li></ul>">
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul><li>Gæti verið að hluturinn hafi verið endurnefndur, fjarlægður, eða færður til?</li><li>Er stafsetningarvilla, hástafaritun, eða annarskonar stafsetningarvilla í vistfanginu?</li><li>Hefurðu nægar aðgangsheimildir fyrir hlutinn?</li></ul>">
@@ -32,16 +32,16 @@
 <!ENTITY protocolNotFound.longDesc "<p>Umbeðið vistfang skilgreinir samskiptareglu (t.d. <q>wxyz://</q>) sem vafrinn kannast ekki við, þannig að vafrinn getur ekki tengst við vefsvæðið.</p><ul><li>Ertu að reyna að tengjast myndefni eða annarskonar gagnaþjónustum? athugaðu á vefsvæðinu hvort þú þurfir fleiri hluti.</li><li>Sumar samskiptareglur þarfnast forrita eða viðbóta frá þriðja aðila áður en vafrinn getur þekkt þær.</li></ul>">
 <!ENTITY proxyConnectFailure.title "Staðgengill neitar tengingum">
 <!ENTITY proxyConnectFailure.longDesc "<p>Vafrinn er stilltur til að nota staðgengla, en staðgengilsþjónn hafnaði tengingu.</p><ul><li>Eru vafra stillingar staðgengils rétt stilltar? Athugaðu stillingarnar og reyndu aftur.</li><li>Leyfir staðgengilsþjónn tengingar frá þínu neti?</li><li>Ennþá með vandamál? Hafðu samband við kerfistjóra eða netaðila fyrir hjálp.</li></ul>">
-<!ENTITY proxyResolveFailure.title "Fann ekki staðgengla þjón">
+<!ENTITY proxyResolveFailure.title "Fann ekki staðgengla netþjón">
 <!ENTITY proxyResolveFailure.longDesc "<p>Vafrinn er stilltur til að nota staðgengla, en staðgengilsþjónn fannst ekki.</p><ul><li>Eru vafra stillingar staðgengils rétt stilltar? Athugaðu stillingarnar og reyndu aftur.</li><li>Leyfir staðgengilsþjónn tengingar frá þínu neti?</li><li>Ennþá með vandamál? Hafðu samband við kerfistjóra eða netaðila fyrir hjálp.</li></ul>">
 <!ENTITY redirectLoop.title "Áframsendingarlykkja">
-<!ENTITY redirectLoop.longDesc "<p>Vafrinn hefur hætt að reyna að ná í umbeðinn hlut. Vefsvæðið er að endursenda beiðnina á þann hátt að því mun aldrei ljúka.</p><ul><li>Hefurðu lokað á eða gert smákökur óvirkar frá þessu vefsvæði?</li><li><em>ATHUGA</em>: Ef þú velur að taka á móti smákökum frá þessu vefsvæði og það lagar ekki vandamálið, er þjónninn sjálfur líklega rangt stilltur en ekki tölvan þín.</li></ul>">
-<!ENTITY unknownSocketType.title "Óvænt svar frá vefþjóni">
+<!ENTITY redirectLoop.longDesc "<p>Vafrinn hefur hætt að reyna að ná í umbeðinn hlut. Vefsvæðið er að endursenda beiðnina á þann hátt að því mun aldrei ljúka.</p><ul><li>Hefurðu lokað á eða gert smákökur óvirkar frá þessu vefsvæði?</li><li><em>ATHUGA</em>: Ef þú velur að taka á móti smákökum frá þessu vefsvæði og það lagar ekki vandamálið, er netþjónninn sjálfur líklega rangt stilltur en ekki tölvan þín.</li></ul>">
+<!ENTITY unknownSocketType.title "Rangt svar">
 <!ENTITY unknownSocketType.longDesc "<p>Vefsvæðið svaraði netbeiðni á óvæntan hátt þannig að vafrinn getur ekki haldið áfram.</p>">
 <!ENTITY nssFailure2.title "Örugg tenging mistókst">
 <!ENTITY nssFailure2.longDesc "<p>Ekki er hægt að skoða síðuna því ekki er hægt að sannvotta gögnin sem voru móttekin.</p><ul><li>Vinsamlega hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li></ul>">
 <!ENTITY nssBadCert.title "Örugg tenging mistókst">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Þetta gæti verið vegna vandamála í stillingum vefþjóns, eða einhver gæti verið að reyna að þykjast vera þessi vefþjónn.</li> <li>Ef þú hefur getað tengst þessum vefþjóni án vandamála áður, gæti verið að vandamálið sé aðeins tímabundið, þannig að þú gætir reynt aftur seinna.</li> </ul>
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Þetta gæti verið vegna vandamála í stillingum netþjóns, eða einhver gæti verið að reyna að þykjast vera þessi netþjónn.</li> <li>Ef þú hefur getað tengst þessum netþjóni án vandamála áður, gæti verið að vandamálið sé aðeins tímabundið, þannig að þú gætir reynt aftur seinna.</li> </ul>
 ">
 <!ENTITY malwareBlocked.title "Grunað árásarsvæði!">
 <!ENTITY malwareBlocked.longDesc "

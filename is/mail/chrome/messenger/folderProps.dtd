@@ -50,7 +50,7 @@
  
      
 <!ENTITY retention.label "Varðveislureglur">
-<!ENTITY retentionUseDefault.label "Nota sjálfgefnar stillingar þjóns">
+<!ENTITY retentionUseDefault.label "Nota sjálfgefnar stillingar netþjóns">
 <!ENTITY retentionUseDefault.accesskey "N">
 <!ENTITY daysOld.label "daga gömlum">
 <!ENTITY message.label "póstum">

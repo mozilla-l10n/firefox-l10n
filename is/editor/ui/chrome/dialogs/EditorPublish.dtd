@@ -74,7 +74,7 @@
 <!ENTITY removeButton.accesskey "R">
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label "Vefsvæði til að gefa út">
-<!ENTITY serverInfo.label "Upplýsingar um þjón">
+<!ENTITY serverInfo.label "Upplýsingar um netþjón">
 <!ENTITY loginInfo.label "Auðkenni">
 <!ENTITY siteName.label "Nafn vefsins:">
 <!ENTITY siteName.accesskey "e">

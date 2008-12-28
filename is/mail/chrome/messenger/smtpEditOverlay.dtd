@@ -1,6 +1,6 @@
 <!ENTITY settings.caption "Stillingar">
 <!ENTITY security.caption "Öryggi og Auðkenni">
-<!ENTITY serverName.label "Nafn þjóns:">
+<!ENTITY serverName.label "Nafn netþjóns:">
 <!ENTITY serverName.accesskey "N">
 <!ENTITY serverDescription.label "Lýsing:">
 <!ENTITY serverDescription.accesskey "L">

@@ -38,7 +38,7 @@
 <!ENTITY certmgr.title "Umsýsla skilríkja">
 <!ENTITY certmgr.tab.mine "Skilríkin þín">
 <!ENTITY certmgr.tab.others2 "Fólk">
-<!ENTITY certmgr.tab.websites3 "Þjónar">
+<!ENTITY certmgr.tab.websites3 "Netþjónar">
 <!ENTITY certmgr.tab.ca "Vottunarstöðvar">
 <!ENTITY certmgr.tab.orphan2 "Annað">
 <!ENTITY certmgr.ca.builtins "Innbyggt CA">
@@ -85,7 +85,7 @@
 <!ENTITY certmgr.deleteusercert.beforename "Þú hefur beðið um að eyða þessu skilríki:">
 <!ENTITY certmgr.deleteusercert.aftername "Ef þú eyðir þessu skilríki muntu ekki geta lesið póstinn sem var dulkóðaður með honum.">
 <!ENTITY certmgr.certname "Nafn skilríkis">
-<!ENTITY certmgr.certserver "Frá miðlara">
+<!ENTITY certmgr.certserver "Netþjónn">
 <!ENTITY certmgr.typesofoverrides "Undanþágur">
 <!ENTITY certmgr.override_lifetime "Æviskeið">
 <!ENTITY certmgr.tokenname "Öryggistæki">
@@ -126,7 +126,7 @@
 <!ENTITY exceptionMgr.exceptionButton "Staðfesta öryggisfrávik">
 <!ENTITY exceptionMgr.exceptionButtonAccess "S">
 <!ENTITY exceptionMgr.supplementalWarning "Löglegir bankar, verslanir, og aðrar opinberar stofnanir munu ekki biðja þig um að gera þetta.">
-<!ENTITY exceptionMgr.certlocation.caption2 "Frá miðlara">
+<!ENTITY exceptionMgr.certlocation.caption2 "Netþjónn">
 <!ENTITY exceptionMgr.certlocation.url "Staðsetning:">
 <!ENTITY exceptionMgr.certlocation.download "Ná í skilríki">
 <!ENTITY exceptionMgr.certlocation.accesskey "N">

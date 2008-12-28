@@ -1,9 +1,9 @@
 <!-- extracted from am-server-top.xul -->
 
 <!ENTITY securitySettings.label "Öryggisstillingar">
-<!ENTITY serverSettings.label "Stillingar þjóns">
-<!ENTITY serverType.label "Gerð þjóns:">
-<!ENTITY serverName.label "Nafn þjóns:">
+<!ENTITY serverSettings.label "Stillingar netþjóns">
+<!ENTITY serverType.label "Gerð netþjóns:">
+<!ENTITY serverName.label "Nafn netþjóns:">
 <!ENTITY serverName.accesskey "N">
 <!ENTITY userName.label "Notandanafn:">
 <!ENTITY userName.accesskey "N">
@@ -30,7 +30,7 @@
 <!ENTITY alwaysSSL.accesskey "L">
 <!ENTITY useSecAuth.label "Nota öruggt auðkenni">
 <!ENTITY useSecAuth.accesskey "i">
-<!ENTITY leaveOnServer.label "Skilja póst eftir á þjóni">
+<!ENTITY leaveOnServer.label "Skilja póst eftir á netþjóni">
 <!ENTITY leaveOnServer.accesskey "S">
 <!ENTITY headersOnly.label "Ná aðeins í hausa">
 <!ENTITY headersOnly.accesskey "N">
@@ -64,7 +64,7 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "póstum">
-<!ENTITY alwaysAuthenticate.label "Alltaf krefjast öruggs auðkennis þegar tengst er við þennan þjón">
+<!ENTITY alwaysAuthenticate.label "Alltaf krefjast öruggs auðkennis þegar tengst er við þennan netþjón">
 <!ENTITY alwaysAuthenticate.accesskey "A">
 <!ENTITY newsrcFilePath.label "newsrc skrá:">
 <!ENTITY localPath.label "Staðvær mappa:">

@@ -39,7 +39,7 @@
 
 <!ENTITY intro.label "Þú hefur valið að opna">
 <!ENTITY from.label "frá:">
-<!ENTITY actionQuestion.label "Hvað viltu að &brandShortName; geri við þessa skrá?">
+<!ENTITY actionQuestion.label "Hvernig viltu að &brandShortName; meðhöndli þessa skrá?">
 <!ENTITY openWith.label "Opna með">
 <!ENTITY openWith.accesskey "o">
 <!ENTITY other.label "Annað…">

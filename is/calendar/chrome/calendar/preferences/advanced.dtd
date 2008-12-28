@@ -83,7 +83,7 @@
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Nota TLS 1.0">
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
 <!ENTITY pref.calendar.advanced.encryption.certificates.label "Skilríki">
-<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Þegar þjónn biður um mitt skilríki:">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Þegar netþjónn biður um mitt skilríki:">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto "Velja eitt sjálfvirkt">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Spyrja í hvert skipti">

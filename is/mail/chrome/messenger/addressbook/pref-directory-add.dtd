@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label "Eigindi möppu á þjóni">
+<!ENTITY newDirectoryTitle.label "Eigindi möppu á netþjóni">
 <!ENTITY directoryName.label "Nafn: ">
 <!ENTITY directoryName.accesskey "n">
 <!ENTITY directoryHostname.label "Vélarheiti: ">

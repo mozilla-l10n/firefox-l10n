@@ -137,7 +137,7 @@
 <!ENTITY missingThumbnail.label "Engin forskoðun">
 <!ENTITY previewNoThemeSelected.label "Ekkert þema valið">
 <!ENTITY previewNoPreviewImage.label "Þetta þema er ekki með forsýn">
-<!ENTITY moreInfo.label "Starfsupplýsingar">
+<!ENTITY moreInfo.label "Meiri upplýsingar">
 <!ENTITY infoNoAddonSelected.label "Engin uppfærsla valinn">
 <!ENTITY infoNoUpdateInfo.label "Þessi uppfærsla hefur engar fleiri upplýsingar">
 <!ENTITY infoUpdateInfoError.label "Upp kom villa við að hlaða inn upplýsingum um uppfærslu">

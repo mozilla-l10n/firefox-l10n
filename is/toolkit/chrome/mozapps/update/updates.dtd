@@ -25,7 +25,7 @@
 <!ENTITY incompatibleList.title "Ósamhæfðar viðbætur fundust">
 <!ENTITY downloading.title "Niðurhala uppfærslu">
 <!ENTITY downloading.intro "Niðurhala uppfærslu…">
-<!ENTITY connecting.label "Tengist við uppfærslu þjón…">
+<!ENTITY connecting.label "Tengist við uppfærslu netþjón…">
 <!ENTITY verificationFailedText.label "&brandShortName; gat ekki sannreynt áreiðanleika 
                                            uppfærslunnar, þannig að í staðinn er verið að niðurhala
                                            heildaruppfærslu pakka.">
