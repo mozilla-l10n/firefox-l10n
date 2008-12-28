@@ -26,8 +26,8 @@
 <!ENTITY addTag.label "Flokka póst">
 <!ENTITY setJunkScore.label "Setja ruslpóst stöðu sem">
 <!ENTITY deleteMessage.label "Eyða pósti">
-<!ENTITY deleteFromPOP.label "Eyða frá POP þjóni">
-<!ENTITY fetchFromPOP.label "Ná í frá POP þjóni">
+<!ENTITY deleteFromPOP.label "Eyða frá POP póstþjóni">
+<!ENTITY fetchFromPOP.label "Ná í frá POP póstþjóni">
 <!ENTITY ignoreThread.label "Hunsa umræðu">
 <!ENTITY ignoreSubthread.label "Hunsa undirumræðu">
 <!ENTITY watchThread.label "Fylgjast með umræðu">

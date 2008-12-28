@@ -29,17 +29,17 @@
 <!ENTITY emailLabel.accesskey "T">
 <!-- Entities for Server page -->
 
-<!ENTITY serverTitle.label "Upplýsingar um þjón">
-<!ENTITY incomingServerTypeDesc.label "Veldu hvaða tegund af þjóni er notaður fyrir innsendan póst.">
+<!ENTITY serverTitle.label "Upplýsingar um netþjón">
+<!ENTITY incomingServerTypeDesc.label "Veldu hvaða tegund af netþjóni er notaður fyrir innsendan póst.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Sláðu inn nafn þjóns fyrir innsendan póst (til dæmis &quot;mail.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "Þjónn inn:">
+<!ENTITY incomingServerNameDesc.label "Sláðu inn nafn netþjóns fyrir innsendan póst (til dæmis &quot;mail.example.net&quot;).">
+<!ENTITY incomingServerLabel.label "Netþjónn inn:">
 <!ENTITY incomingServerLabel.accesskey "þ">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Sláðu inn nafn fréttþjóns (NNTP) (til dæmis, &quot;news.example.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Sláðu inn nafn þjóns fyrir útsendan póst (SMTP) (til dæmis, &quot;smtp.example.net&quot;).">
-<!ENTITY smtpServerLabel.label "Þjónn út:">
+<!ENTITY smtpServerDesc.label "Sláðu inn nafn netþjóns fyrir útsendan póst (SMTP) (til dæmis, &quot;smtp.example.net&quot;).">
+<!ENTITY smtpServerLabel.label "Netþjónn út:">
 <!ENTITY smtpServerLabel.accesskey "Þ">
 <!ENTITY newsServerLabel.label "Fréttaþjónn:">
 <!ENTITY newsServerLabel.accesskey "Þ">
@@ -53,8 +53,8 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Þjónn fyrir útsendan póst (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, mun verða notaður. Þú getur breytt útsendum þjóns stillingum með því að velja stillingar reiknings frá Verkfæra valmynd.">
+<!ENTITY haveSmtp1.prefix "Póstþjónn fyrir útsendan póst (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, mun verða notaður. Þú getur breytt útsendum póstþjóns stillingum með því að velja stillingar reiknings frá Verkfæra valmynd.">
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Notandanafn">
@@ -71,13 +71,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Notandanafn fyrir útsendan póst (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, mun verða notaður. Þú getur breytt útsendum þjóns stillingum með því að velja stillingar reiknings frá Verkfæra valmynd.">
+<!ENTITY haveSmtp2.suffix "&quot;, mun verða notaður. Þú getur breytt útsendum póstþjóns stillingum með því að velja stillingar reiknings frá Verkfæra valmynd.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Útsendur póstþjónn (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, er sá sami og fyrir innsendan þjón, notandanafn fyrir innsendan póst mun því verða notaður. Þú getur breytt stillingum útsends þjóns með því að velja stillingar reiknings frá Verkfæra valmynd.">
+<!ENTITY haveSmtp3.suffix "&quot;, er sá sami og fyrir innsendan póstþjón, notandanafn fyrir innsendan póst mun því verða notaður. Þú getur breytt stillingum útsends póstþjóns með því að velja stillingar reiknings frá Verkfæra valmynd.">
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Heiti reiknings">
@@ -89,9 +89,9 @@
 
 <!ENTITY completionTitle.label "Til hamingju!">
 <!ENTITY completionText.label "Gakktu úr skugga um að eftirfarandi upplýsingar séu réttar.">
-<!ENTITY serverTypePrefix.label "Tegund þjóns fyrir innsendan póst:">
-<!ENTITY serverNamePrefix.label "Nafn innsent þjóns:">
-<!ENTITY smtpServerNamePrefix.label "Nafn útsent þjóns (SMTP):">
+<!ENTITY serverTypePrefix.label "Tegund póstþjóns fyrir innsendan póst:">
+<!ENTITY serverNamePrefix.label "Nafn innsent póstþjóns:">
+<!ENTITY smtpServerNamePrefix.label "Nafn útsent póstþjóns (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nafn fréttaþjóns (NNTP):">
 <!ENTITY downloadOnLogin.label "Hlaða niður tölvupósti strax">
 <!ENTITY deferStorageDesc.label "Afhakaðu þennan gátreit ef þú vilt geyma póst fyrir þennan reikning í eigin möppu. Það mun þá sýna þennan reikning sem rótarhlut. Annars mun hann verða partur af staðbundnum möppum í víðværa innhólfinu.

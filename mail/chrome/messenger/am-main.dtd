@@ -9,7 +9,7 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "Tölvupóstfang:">
 <!ENTITY email.accesskey "T">
-<!ENTITY replyTo.label "Svara tölvupóstfang:">
+<!ENTITY replyTo.label "Svar tölvupóstfang:">
 <!ENTITY replyTo.accesskey "S">
 <!ENTITY organization.label "Fyrirtæki:">
 <!ENTITY organization.accesskey "F">
@@ -28,4 +28,4 @@
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Póstþjónn út (SMTP):">
 <!ENTITY smtpName.accesskey "P">
-<!ENTITY smtpDefaultServer.label "Nota sjálfgefin þjón">
+<!ENTITY smtpDefaultServer.label "Nota sjálfgefin póstþjón">

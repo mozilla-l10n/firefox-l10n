@@ -160,7 +160,7 @@
 <!ENTITY advancedSearch.plus.label "+">
 <!ENTITY advancedSearch.minus.label "-">
 <!ENTITY advancedSearch.groupby.label "Flokka eftir: ">
-<!ENTITY advancedSearch.groupby_host.label "þjónn">
+<!ENTITY advancedSearch.groupby_host.label "netþjón">
 <!ENTITY advancedSearch.groupby_domain.label "lén">
 <!ENTITY advancedSearch.groupby_folder.label "möppu">
 <!ENTITY advancedSearch.sortby.label "Raða eftir: ">

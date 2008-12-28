@@ -71,7 +71,7 @@
 <!ENTITY useTLS1.label "Nota TLS 1.0">
 <!ENTITY useTLS1.accesskey "1">
 <!ENTITY certificates.label "Skilríki">
-<!ENTITY certSelection.description "Þegar þjónn biður um mitt skilríki:">
+<!ENTITY certSelection.description "Þegar netþjónn biður um mitt skilríki:">
 <!ENTITY certs.auto "Velja eitt sjálfvirkt">
 <!ENTITY certs.auto.accesskey "l">
 <!ENTITY certs.ask "Spyrja í hvert skipti">

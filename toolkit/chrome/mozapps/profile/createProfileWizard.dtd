@@ -1,4 +1,4 @@
-<!ENTITY newprofile.title "Hjálp til að búa til forstillingu">
+<!ENTITY newprofile.title "Hjálp við að búa til forstillingu">
 <!ENTITY window.size "width: 45em; height: 32em;">
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text "&brandShortName; geymir þínar stillingar í þinni eigin forstillingu.">
