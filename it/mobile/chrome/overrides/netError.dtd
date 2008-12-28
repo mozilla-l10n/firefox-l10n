@@ -24,7 +24,9 @@
 </ul>
 ">
 <!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc " <p>&brandShortName; non può caricare questa pagina per qualche motivo.</p> ">
+<!ENTITY generic.longDesc "
+<p>Per qualche motivo &brandShortName; non è in grado di caricare questa pagina.</p>
+">
 <!ENTITY malformedURI.title "L'indirizzo non è valido">
 <!ENTITY malformedURI.longDesc "
 <ul>
