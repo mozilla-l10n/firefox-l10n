@@ -2,10 +2,10 @@
 <!ENTITY fileMenu.label "קובץ">
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "חדש">
-<!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "כרטיס פנקס כתובות...">
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
+
+<!ENTITY newContact.label                               "איש קשר בספר הכתובות…">
+<!ENTITY newContact.accesskey                           "ק">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label "רשימת דיוור...">
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "פנקס כתובות...">
@@ -20,13 +20,13 @@
 <!ENTITY closeCmd.accesskey "c">
 <!ENTITY printSetupCmd.label "הגדרות עמוד...">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCardViewCmd.label "הצג לפני הדפסה את הכרטיס">
-<!ENTITY printPreviewCardViewCmd.accesskey "v">
+<!ENTITY printPreviewContactCmd.label                   "הצגה לפני הדפסה של איש הקשר">
+<!ENTITY printPreviewContactCmd.accesskey               "ד">
 <!ENTITY printPreviewAddressBook.label "הצג לפני הדפסה את פנקס הכתובות">
 <!ENTITY printPreviewAddressBook.accesskey "B">
-<!ENTITY printCardViewCmd.label "הדפס כרטיס...">
-<!ENTITY printCardViewCmd.accesskey "p">
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactCmd.label                          "הדפס פרטי איש קשר…">
+<!ENTITY printContactCmd.accesskey                      "ד">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label "הדפס פנקס כתובות...">
 <!ENTITY printAddressBook.accesskey "A">
 
@@ -51,7 +51,7 @@
 
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY deleteAbCmd.label "מחק פנקס כתובות">
-<!ENTITY deleteCardCmd.label "מחק כרטיס">
+<!-- ### ENTITY deleteCardCmd.label "מחק כרטיס" -->
 
 <!ENTITY selectAllCmd.label "בחר הכל">
 <!ENTITY selectAllCmd.key "A">
@@ -73,8 +73,8 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "התאמה אישית...">
 <!ENTITY customizeToolbar.accesskey "C">
-<!ENTITY showCardPane.label "חלונית תקציר כרטיס">
-<!ENTITY showCardPane.accesskey "C">
+<!ENTITY showContactPane.label                          "פאנל תקציר פרטי איש קשר">
+<!ENTITY showContactPane.accesskey                      "ק">
 <!ENTITY menu_ShowNameAs.label "הצג שם בצורה">
 <!ENTITY menu_ShowNameAs.accesskey "n">
 <!ENTITY firstLastCmd.label "ראשון, אחרון">
@@ -102,25 +102,29 @@
 <!ENTITY preferencesCmdUnix.label "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY newcardButton.label "כרטיס חדש">
-<!ENTITY newcardButton.accesskey "C">
+<!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newContactButton.label                         "איש קשר חדש">
+<!ENTITY newContactButton.accesskey                     "ק">
 <!ENTITY newlistButton.label "רשימה חדשה">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton.label "מאפיינים">
-<!ENTITY editButton.accesskey "P">
+<!ENTITY editButton2.label                              "מאפיינים">
+<!ENTITY editButton2.accesskey                          "א">
 <!ENTITY newmsgButton.label "כתוב">
 <!ENTITY newmsgButton.accesskey "W">
 <!ENTITY newIM.label "הודעה מיידית">
 <!ENTITY newIM.accesskey "I">
-<!ENTITY deleteButton.label "מחק">
-<!ENTITY deleteButton.accesskey "D">
+<!ENTITY deleteButton2.label                            "מחיקה">
+<!ENTITY deleteButton2.accesskey                        "מ">
+<!-- ### ENTITY deleteButton.label "מחק"-->
+<!-- ### ENTITY deleteButton.accesskey "D"-->
 <!ENTITY throbberItem.title "מחוון פעילות">
-<!ENTITY newcardButton.tooltip "צור כרטיס פנקס כתובות חדש">
+<!ENTITY newContactButton.tooltip                       "צור איש קשר חדש בספר הכתובות">
 <!ENTITY newlistButton.tooltip "צור רשימה חדשה">
-<!ENTITY editButton.tooltip "ערוך את הכרטיס הנבחר">
+<!-- ### ENTITY editButton.tooltip "ערוך את הכרטיס הנבחר" -->
+<!ENTITY editButton2.tooltip                            "עריכת הפריט הנבחר">
 <!ENTITY newmsgButton.tooltip "שלח הודעת דואר">
 <!ENTITY newIM.tooltip "שלח הודעה מיידית או צ׳אט">
-<!ENTITY deleteButton.tooltip "מחק כרטיס או פנקס כתובות נבחרים">
+<!ENTITY deleteButton2.tooltip                           "מחיקת פריטים נבחרים">
 <!ENTITY dirTreeHeader.label "פנקסי כתובות">
 <!ENTITY SearchNameOrEmail.label "שם או דוא״ל">
 <!ENTITY SearchNameOrEmail.accesskey "N">
@@ -175,8 +179,10 @@
 <!ENTITY minimizeWindow.label "מזער חלון">
 <!ENTITY bringAllToFront.label "הבא הכל לקידמה">
 <!ENTITY zoomWindow.label "הגדל חלון">
-<!ENTITY deleteCardsCmd2.label                          "מחק כרטיסים">
+<!-- ### ENTITY deleteCardsCmd2.label                          "מחק כרטיסים" -->
 <!ENTITY deleteItemsCmd.label                           "מחק פרטים">
+<!ENTITY deleteContactCmd.label                         "מחיקת איש קשר">
+<!ENTITY deleteContactsCmd.label                        "מחיקת אנשי קשר">
 <!ENTITY deleteListCmd.label                            "מחק רשימה">
 <!ENTITY deleteListsCmd.label                           "מחק רשימות">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
