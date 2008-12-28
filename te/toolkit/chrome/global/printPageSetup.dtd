@@ -7,7 +7,7 @@
 <!ENTITY orientation.label   "సర్దుబాటు:">
 <!ENTITY orientation.label   "తీరు:">
 
-<!ENTITY portrait.label      ""పోర్ట్రయిట్">
+<!ENTITY portrait.label      "పోర్ట్రయిట్">
 <!ENTITY portrait.accesskey  "P">
 <!ENTITY landscape.label     "లాండ్‌స్కేప్">
 <!ENTITY landscape.accesskey "L">
