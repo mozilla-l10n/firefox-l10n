@@ -1,7 +1,7 @@
-<!ENTITY crashes.title "بلاغات التحطّم المُرسلة">
+﻿<!ENTITY crashes.title "بلاغات التحطّم المُرسلة">
 <!ENTITY id.heading "هويّة البلاغ">
 <!ENTITY date.heading "تاريخ الإرسال">
 <!ENTITY noReports.label "لم تُرسل أي بلاغات بتحطّم.">
 <!ENTITY noConfig.label "لم يُضْبط هذا البرنامج ليعرض تقارير التحطّم. يجب ضبط التفضيل <code>breakpad.reportURL</code>.">
-<!ENTITY clearReports.label "احذف التقارير">
+<!ENTITY clearAllReports.label "احذف كل التقارير">
 
