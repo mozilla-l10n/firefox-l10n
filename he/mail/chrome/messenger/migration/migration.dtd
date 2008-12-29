@@ -1,10 +1,13 @@
+
 <!ENTITY migrationWizard.title "אשף היבוא">
+
 <!ENTITY importFromWin.label "יבא אפשרויות, הגדרות חשבון, פנקס כתובות ונתונים נוספים מ:">
 <!ENTITY importFromNonWin.label         "יבא העדפות, הגדרות חשבון, פנקס כתובות ונתונים נוספים מ:">
+
 <!ENTITY importFromNothing.label "אל תייבא דבר">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 או Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x or SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "s">
 <!ENTITY importFromNetscape4.label "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "Outlook Express">
@@ -13,12 +16,15 @@
 <!ENTITY importFromOutlook.accesskey "O">
 <!ENTITY importFromEudora.label "Eudora">
 <!ENTITY importFromEudora.accesskey "E">
+
 <!ENTITY importSource.title "יבא הגדרות ותיקיות דואר:">
 <!ENTITY importItems.title "פריטים ליבוא">
 <!ENTITY importItems.label "בחר אלו פריטים ליבא:">
-<!ENTITY migrating.title "מייבא...">
-<!ENTITY migrating.label "הפריטים הבאים מיובאים כעת...">
+
+<!ENTITY migrating.title "מייבא…">
+<!ENTITY migrating.label "הפריטים הבאים מיובאים כעת…">
 <!ENTITY selectProfile.title "בחר פרופיל">
 <!ENTITY selectProfile.label "ניתן ליבא מהפרופילים הבאים:">
+
 <!ENTITY done.title "היבוא הושלם">
 <!ENTITY done.label "הפריטים הבאים יובאו בהצלחה:">

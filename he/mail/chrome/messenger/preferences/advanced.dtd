@@ -23,8 +23,8 @@
 <!ENTITY secondsLabel.label            "שניות">
 
 
-<!ENTITY showFolderColumns.label "הצג עמודות מורחבות בחלונית התיקיות">
-<!ENTITY showFolderColumns.accesskey "ה">
+<!-- ### ENTITY showFolderColumns.label "הצג עמודות מורחבות בחלונית התיקיות" -->
+<!-- ### ENTITY showFolderColumns.accesskey "ה" -->
 
 <!ENTITY openMsgIn.label               "פתח הודעות חדשות:">
 
