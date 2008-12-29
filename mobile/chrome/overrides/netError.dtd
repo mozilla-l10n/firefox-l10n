@@ -73,7 +73,7 @@
 <li>Verificare se il computer ha una connessione di rete funzionante.</li>
 <li>Se il computer o la rete sono protetti da un firewall o un proxy, assicurarsi che &brandShortName; abbia i permessi per accedere al web.</li>
 </ul>">
-<!ENTITY redirectLoop.title "Questa pagina non redireziona in modo corretto">
+<!ENTITY redirectLoop.title "Questa pagina non reindirizza in modo corretto">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Questo problema spesso è causato dal blocco o dal rifiuto dei cookie.</li>
