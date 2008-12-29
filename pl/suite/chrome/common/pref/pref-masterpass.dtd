@@ -36,9 +36,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.masterpass.title "Główne hasło">
-<!ENTITY managepassword.caption "Limit czasu głównego hasła">
-<!ENTITY managepassword.text "Zapytanie o główne hasło zostanie wyświetlone:">
+<!ENTITY pref.masterpass.title "Hasło główne">
+<!ENTITY managepassword.caption "Limit czasu hasła głównego">
+<!ENTITY managepassword.text "Zapytanie o hasło główne zostanie wyświetlone:">
 <!ENTITY managepassword.askfirsttime "Tylko za pierwszym razem, kiedy będzie to wymagane">
 <!ENTITY managepassword.askfirsttime.accesskey "T">
 <!ENTITY managepassword.askeverytime "Za każdym razem, kiedy będzie to wymagane">
@@ -47,12 +47,12 @@
 <!ENTITY managepassword.asktimeout.accesskey "n">
 <!ENTITY managepassword.timeout.unit "minut temu lub wcześniej.">
 
-<!ENTITY changepassword.caption "Zmiana głównego hasła">
-<!ENTITY changepassword.text "Wszystkie zachowane poufne dane, takie jak nazwy użytkowników, hasła i certyfikaty, są chronione przez główne hasło.">
+<!ENTITY changepassword.caption "Zmiana hasła głównego">
+<!ENTITY changepassword.text "Wszystkie zachowane poufne dane, takie jak nazwy użytkowników, hasła i certyfikaty, są chronione przez hasło główne.">
 <!ENTITY changepassword.button "Zmień hasło…">
 <!ENTITY changepassword.accesskey "Z">
 
-<!ENTITY resetpassword.caption "Resetowanie głównego hasła">
+<!ENTITY resetpassword.caption "Resetowanie hasła głównego">
 <!ENTITY resetpassword.text "Po zresetowaniu hasła głównego wszystkie hasła internetowe oraz hasła serwerów pocztowych, certyfikaty osobiste oraz klucze prywatne zostaną usunięte.">
 <!ENTITY resetpassword.button "Zresetuj hasło">
 <!ENTITY resetpassword.accesskey "R">
