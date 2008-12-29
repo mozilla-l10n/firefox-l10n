@@ -57,10 +57,10 @@
 <!ENTITY searchFilter.accesskey "F">
 <!ENTITY scope.label "Obszar wyszukiwania:">
 <!ENTITY scope.accesskey "a">
-<!ENTITY scopeOneLevel.label "Jeden poziom">
-<!ENTITY scopeOneLevel.accesskey "p">
-<!ENTITY scopeSubtree.label "Wszystkie poziomy">
-<!ENTITY scopeSubtree.accesskey "S">
+<!ENTITY scopeOneLevel.label "jeden poziom">
+<!ENTITY scopeOneLevel.accesskey "j">
+<!ENTITY scopeSubtree.label "wszystkie poziomy">
+<!ENTITY scopeSubtree.accesskey "s">
 <!ENTITY return.label "Nie zwracaj więcej niż">
 <!ENTITY return.accesskey "w">
 <!ENTITY results.label "wyników">

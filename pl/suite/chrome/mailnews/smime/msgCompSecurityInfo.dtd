@@ -6,7 +6,7 @@
 <!ENTITY status.certificates "Certyfikaty:">
 <!ENTITY view.label "Pokaż">
 <!ENTITY view.accesskey "k">
-<!ENTITY tree.recipient "Odbiorca">
+<!ENTITY tree.recipient "Adresat:">
 <!ENTITY tree.status "Status">
-<!ENTITY tree.issuedDate "Wydany">
-<!ENTITY tree.expiresDate "Wygasa">
+<!ENTITY tree.issuedDate "Wydano:">
+<!ENTITY tree.expiresDate "Wygasa:">

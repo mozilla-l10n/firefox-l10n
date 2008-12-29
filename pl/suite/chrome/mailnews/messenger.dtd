@@ -48,13 +48,13 @@
 <!ENTITY newMessage.accesskey "m">
 <!ENTITY newFolderCmd.label "Folder…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY newVirtualFolderCmd.label "Folder ustawień wyszukiwania…">
+<!ENTITY newVirtualFolderCmd.label "Folder wyszukiwania…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "Konto…">
 <!ENTITY newAccountCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Otwórz plik…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Otwórz załącznik">
+<!ENTITY openAttachmentCmd.label "Załączniki">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Zapisz jako">
 <!ENTITY saveAsMenu.accesskey "a">
@@ -62,13 +62,13 @@
 <!ENTITY saveAsFileCmd.accesskey "P">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Szablon">
-<!ENTITY saveAsTemplateCmd.accesskey "b">
+<!ENTITY saveAsTemplateCmd.accesskey "S">
 <!ENTITY getNewMsgCmd.label "Pobierz nowe wiadomości">
 <!ENTITY getNewMsgCmd.accesskey "P">
 <!ENTITY getNewMsgCmd.key "t">
-<!ENTITY getNewMsgForCmd.label "Pobierz nowe wiadomości z…">
+<!ENTITY getNewMsgForCmd.label "Pobierz nowe wiadomości z">
 <!ENTITY getNewMsgForCmd.accesskey "b">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "Wszystkie konta">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Wszystkich kont">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "Pobierz wszystkie nowe wiadomości">
 <!ENTITY getAllNewMsgCmd.key "t">
@@ -76,8 +76,8 @@
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Wyślij niewysłane wiadomości">
 <!ENTITY sendUnsentCmd.accesskey "W">
-<!ENTITY subscribeCmd.label "Subskrybuj…">
-<!ENTITY subscribeCmd.accesskey "S">
+<!ENTITY subscribeCmd.label "Menedżer subskrypcji…">
+<!ENTITY subscribeCmd.accesskey "s">
 <!ENTITY renameFolder.label "Zmień nazwę folderu…">
 <!ENTITY renameFolder.accesskey "m">
 <!ENTITY compactFolders.label "Porządkuj foldery">
@@ -86,9 +86,9 @@
 <!ENTITY emptyTrashCmd.accesskey "r">
 <!ENTITY offlineMenu.label "Tryb offline">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY synchronizeOfflineCmd.label "Pobierz/Synchronizuj…">
-<!ENTITY synchronizeOfflineCmd.accesskey "P">
-<!ENTITY settingsOfflineCmd.label "Ustawienia trybu Offline…">
+<!ENTITY synchronizeOfflineCmd.label "Pobierz/synchronizuj…">
+<!ENTITY synchronizeOfflineCmd.accesskey "s">
+<!ENTITY settingsOfflineCmd.label "Ustawienia trybu offline…">
 <!ENTITY settingsOfflineCmd.accesskey "U">
 <!ENTITY downloadSelectedCmd.label "Pobierz wybrane wiadomości">
 <!ENTITY downloadSelectedCmd.accesskey "w">
@@ -100,25 +100,25 @@
 <!ENTITY printPreviewCmd.label "Podgląd wydruku">
 <!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printSetupCmd.label "Ustawienia strony…">
-<!ENTITY printSetupCmd.accesskey "U">
+<!ENTITY printSetupCmd.accesskey "n">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Usuń wiadomość">
 <!ENTITY deleteMsgCmd.accesskey "U">
 <!ENTITY undeleteMsgCmd.label "Przywróć wiadomość">
 <!ENTITY undeleteMsgCmd.accesskey "d">
-<!ENTITY cancelNewsMsgCmd.label "Anuluj wiadomość">
-<!ENTITY cancelNewsMsgCmd.accesskey "u">
+<!ENTITY cancelNewsMsgCmd.label "Wycofaj wiadomość">
+<!ENTITY cancelNewsMsgCmd.accesskey "m">
 <!ENTITY deleteMsgsCmd.label "Usuń wybrane wiadomości">
 <!ENTITY deleteMsgsCmd.accesskey "w">
 <!ENTITY undeleteMsgsCmd.label "Przywróć zaznaczone wiadomości">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "Anuluj zaznaczone wiadomości">
+<!ENTITY cancelNewsMsgsCmd.label "Wycofaj zaznaczone wiadomości">
 <!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Usuń folder">
 <!ENTITY deleteFolderCmd.accesskey "U">
-<!ENTITY unsubscribeNewsgroupCmd.label "Anuluj subskrypcję">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "A">
+<!ENTITY unsubscribeNewsgroupCmd.label "Zrezygnuj z subskrypcji">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "Z">
 <!ENTITY selectMenu.label "Zaznacz">
 <!ENTITY selectMenu.accesskey "a">
 <!ENTITY selectThreadCmd.label "Wątek">
@@ -126,20 +126,20 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Wiadomości oznaczone">
 <!ENTITY selectFlaggedCmd.accesskey "W">
-<!ENTITY folderPropsCmd.label "Właściwości folderu">
+<!ENTITY folderPropsCmd.label "Właściwości…">
 <!ENTITY folderPropsFolderCmd.label "Właściwości folderu…">
 <!ENTITY folderPropsNewsgroupCmd.label "Właściwości grupy dyskusyjnej…">
 <!ENTITY folderPropsCmd.accesskey "i">
 <!ENTITY accountManagerCmd.label "Konfiguracja kont…">
 <!ENTITY accountManagerCmd.accesskey "g">
-<!ENTITY undoDeleteMsgCmd.label "Cofnij usuwanie wiadomości">
-<!ENTITY redoDeleteMsgCmd.label "Powtórz usuwanie wiadomości">
-<!ENTITY undoMoveMsgCmd.label "Cofnij przenoszenie wiadomości">
-<!ENTITY redoMoveMsgCmd.label "Powtórz przenoszenie wiadomości">
-<!ENTITY undoCopyMsgCmd.label "Cofnij kopiowanie wiadomości">
-<!ENTITY redoCopyMsgCmd.label "Powtórz kopiowanie wiadomości">
-<!ENTITY undoMarkAllCmd.label "Cofnij oznaczanie jako przeczytane">
-<!ENTITY redoMarkAllCmd.label "Powtórz oznaczanie jako przeczytane">
+<!ENTITY undoDeleteMsgCmd.label "Cofnij usunięcie wiadomości">
+<!ENTITY redoDeleteMsgCmd.label "Ponownie usuń wiadomość">
+<!ENTITY undoMoveMsgCmd.label "Cofnij przeniesienie wiadomości">
+<!ENTITY redoMoveMsgCmd.label "Ponownie przenieś wiadomość">
+<!ENTITY undoCopyMsgCmd.label "Cofnij skopiowanie wiadomości">
+<!ENTITY redoCopyMsgCmd.label "Ponownie skopiuj wiadomość">
+<!ENTITY undoMarkAllCmd.label "Cofnij oznaczenie jako przeczytane">
+<!ENTITY redoMarkAllCmd.label "Ponownie oznacz jako przeczytane">
 <!ENTITY undoDefaultCmd.label "Cofnij">
 <!ENTITY redoDefaultCmd.label "Przywróć">
 
@@ -167,7 +167,7 @@
 <!ENTITY showFolderPaneCmd.accesskey "F">
 
 <!-- sortMenu is also used by addressbook -->
-<!ENTITY sortMenu.label "Sortuj według">
+<!ENTITY sortMenu.label "Sortowanie według">
 <!ENTITY sortMenu.accesskey "S">
 
 <!ENTITY sortByDateCmd.label "Daty">
@@ -184,8 +184,8 @@
 <!ENTITY sortByStatusCmd.accesskey "S">
 <!ENTITY sortByTagsCmd.label "Etykiety">
 <!ENTITY sortByTagsCmd.accesskey "E">
-<!ENTITY sortByJunkStatusCmd.label "Status niechcianej poczty">
-<!ENTITY sortByJunkStatusCmd.accesskey "N">
+<!ENTITY sortByJunkStatusCmd.label "Statusu niechcianej poczty">
+<!ENTITY sortByJunkStatusCmd.accesskey "u">
 <!ENTITY sortBySubjectCmd.label "Tematu">
 <!ENTITY sortBySubjectCmd.accesskey "T">
 <!ENTITY sortByFromCmd.label "Nadawcy">
@@ -193,9 +193,9 @@
 <!ENTITY sortByRecipientCmd.label "Adresata">
 <!ENTITY sortByRecipientCmd.accesskey "A">
 <!ENTITY sortByUnreadCmd.label "Przeczytanych wiadomości">
-<!ENTITY sortByUnreadCmd.accesskey "N">
+<!ENTITY sortByUnreadCmd.accesskey "w">
 <!ENTITY sortByOrderReceivedCmd.label "Kolejności otrzymania">
-<!ENTITY sortByOrderReceivedCmd.accesskey "o">
+<!ENTITY sortByOrderReceivedCmd.accesskey "l">
 <!ENTITY sortByAttachmentsCmd.label "Załączników">
 <!ENTITY sortByAttachmentsCmd.accesskey "n">
 <!ENTITY sortAscending.label "Rosnąco">
@@ -203,47 +203,47 @@
 <!ENTITY sortDescending.label "Malejąco">
 <!ENTITY sortDescending.accesskey "M">
 <!ENTITY sortThreaded.label "Powątkowane">
-<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortThreaded.accesskey "k">
 <!ENTITY sortUnthreaded.label "Niepowątkowane">
-<!ENTITY sortUnthreaded.accesskey "n">
+<!ENTITY sortUnthreaded.accesskey "i">
 <!ENTITY groupBySort.label "Pogrupowane">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Wiadomości">
 <!ENTITY msgsMenu.accesskey "a">
 <!ENTITY threads.label "Wątki">
-<!ENTITY threads.accesskey "T">
+<!ENTITY threads.accesskey "t">
 <!ENTITY allMsgsCmd.label "Wszystkie">
 <!ENTITY allMsgsCmd.accesskey "W">
-<!ENTITY expandAllThreadsCmd.label "Rozwiń wszystkie wątki">
+<!ENTITY expandAllThreadsCmd.label "Rozwijaj wszystkie wątki">
 <!ENTITY expandAllThreadsCmd.accesskey "R">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Zwiń wszystkie wątki">
+<!ENTITY collapseAllThreadsCmd.label "Zwijaj wszystkie wątki">
 <!ENTITY collapseAllThreadsCmd.accesskey "Z">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Nieprzeczytane">
 <!ENTITY unreadMsgsCmd.accesskey "N">
-<!ENTITY threadsWithUnreadCmd.label "Nieprzeczytane wątki">
+<!ENTITY threadsWithUnreadCmd.label "Przeczytane z nowymi wiadomościami">
 <!ENTITY threadsWithUnreadCmd.accesskey "e">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Nieprzeczytane śledzone wątki">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "p">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Śledzone z nowymi wiadomościami">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "l">
 <!ENTITY ignoredThreadsCmd.label "Zignorowane wątki">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
-<!ENTITY headersMenu.label "Pokaż nagłówki">
+<!ENTITY headersMenu.label "Pokazuj nagłówki">
 <!ENTITY headersMenu.accesskey "P">
 <!ENTITY headersAllCmd.label "Wszystkie">
 <!ENTITY headersAllCmd.accesskey "W">
 <!ENTITY headersNormalCmd.label "Standardowe">
 <!ENTITY headersNormalCmd.accesskey "S">
-<!ENTITY bodyMenu.label "Wyświetl wiadomość jako">
-<!ENTITY bodyMenu.accesskey "O">
+<!ENTITY bodyMenu.label "Wyświetlaj wiadomości jako">
+<!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "Oryginalny HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Uproszczony HTML">
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Zwykły tekst">
 <!ENTITY bodyAsPlaintext.accesskey "Z">
-<!ENTITY viewAttachmentsInlineCmd.label "Pokaż załączniki w treści wiadomości">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "Z">
+<!ENTITY viewAttachmentsInlineCmd.label "Pokazuj załączniki w treści wiadomości">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "z">
 <!ENTITY reloadCmd.label "Odśwież">
 <!ENTITY reloadCmd.accesskey "O">
 <!ENTITY stopCmd.label "Zatrzymaj">
@@ -254,7 +254,7 @@
 
 <!ENTITY findCmd.label "Znajdź w tej wiadomości…">
 <!ENTITY findCmd.accesskey "m">
-<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.key "Z">
 <!ENTITY findAgainCmd.label "Znajdź następne">
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key "G">
@@ -304,7 +304,7 @@
 <!ENTITY newNewMsgCmd.label "Wiadomość">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "Odpowiedz">
-<!ENTITY replyMsgCmd.accesskey "O">
+<!ENTITY replyMsgCmd.accesskey "d">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Odpowiedz tylko nadawcy">
 <!ENTITY replySenderCmd.accesskey "n">
@@ -320,13 +320,13 @@
 <!ENTITY forwardMsgCmd.label "Przekaż">
 <!ENTITY forwardMsgCmd.accesskey "P">
 <!ENTITY forwardMsgCmd.key "l">
-<!ENTITY forwardAsMenu.label "Przekaż wiadomość">
+<!ENTITY forwardAsMenu.label "Przekaż jako">
 <!ENTITY forwardAsMenu.accesskey "z">
 <!ENTITY forwardAsInline.label "Bezpośrednio">
 <!ENTITY forwardAsInline.accesskey "B">
-<!ENTITY forwardAsAttachmentCmd.label "Jako załącznik">
+<!ENTITY forwardAsAttachmentCmd.label "Załącznik">
 <!ENTITY forwardAsAttachmentCmd.accesskey "z">
-<!ENTITY editMsgAsNewCmd.label "Edytuj wiadomość jako nową">
+<!ENTITY editMsgAsNewCmd.label "Edytuj wiadomość">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Utwórz filtr na podstawie wiadomości…">
@@ -346,14 +346,14 @@
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Śledź wątek">
-<!ENTITY watchThreadMenu.accesskey "T">
+<!ENTITY watchThreadMenu.accesskey "t">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "Przenieś tutaj">
-<!ENTITY fileHereMenu.accesskey "A">
+<!ENTITY fileHereMenu.accesskey "a">
 <!ENTITY copyHereMenu.label "Kopiuj tutaj">
 <!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Etykieta">
-<!ENTITY tagMenu.accesskey "k">
+<!ENTITY tagMenu.accesskey "t">
 <!ENTITY tagCustomize.label "Dostosuj…">
 <!ENTITY tagCustomize.accesskey "D">
 <!ENTITY tagCmd0.key "0">
@@ -366,13 +366,13 @@
 <!ENTITY tagCmd7.key "7">
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
-<!ENTITY markMenu.label "Zaznacz">
-<!ENTITY markMenu.accesskey "a">
+<!ENTITY markMenu.label "Oznacz">
+<!ENTITY markMenu.accesskey "c">
 <!ENTITY markAsReadCmd.label "Jako przeczytaną">
 <!ENTITY markAsReadCmd.accesskey "p">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markThreadAsReadCmd.label "Cały wątek jako przeczytany">
-<!ENTITY markThreadAsReadCmd.accesskey "w">
+<!ENTITY markThreadAsReadCmd.label "Wątek jako przeczytany">
+<!ENTITY markThreadAsReadCmd.accesskey "W">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Jako przeczytane, według daty…">
 <!ENTITY markReadByDateCmd.accesskey "D">
@@ -390,7 +390,7 @@
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Uruchom filtr niechcianej poczty">
-<!ENTITY recalculateJunkScoreCmd.accesskey "C">
+<!ENTITY recalculateJunkScoreCmd.accesskey "h">
 <!ENTITY markAsShowRemoteCmd.label "Wyświetl zdalną zawartość">
 <!ENTITY markAsShowRemoteCmd.accesskey "e">
 <!ENTITY markAsShowRemoteCmd.key "r">
@@ -415,8 +415,8 @@
 <!ENTITY filtersApplyToSelection.accesskey "g">
 <!ENTITY filtersApplyToMessage.label "Zastosuj filtry na wiadomości">
 <!ENTITY filtersApplyToMessage.accesskey "g">
-<!ENTITY runJunkControls.label "Rozpoznaj w folderze niechciane wiadomości">
-<!ENTITY runJunkControls.accesskey "R">
+<!ENTITY runJunkControls.label "Rozpoznaj niechciane w bieżącym folderze">
+<!ENTITY runJunkControls.accesskey "p">
 <!ENTITY deleteJunk.label "Usuń niechciane wiadomości z folderu">
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importuj…">
@@ -431,14 +431,14 @@
 <!ENTITY getMsgButton.label "Pobierz">
 <!ENTITY newMsgButton.label "Nowa">
 <!ENTITY replyButton.label "Odpowiedz">
-<!ENTITY replyAllButton.label "Odpowiedz wszystkim">
+<!ENTITY replyAllButton.label "Odp. wszystkim">
 <!ENTITY forwardButton.label "Przekaż">
 <!ENTITY fileButton.label "Przenieś">
 <!ENTITY nextButton.label "Następna">
 <!ENTITY goBackButton.label "Wstecz">
-<!ENTITY goForwardButton.label "Do przodu">
+<!ENTITY goForwardButton.label "Dalej">
 <!ENTITY deleteButton.label "Usuń">
-<!ENTITY markButton.label "Zaznacz">
+<!ENTITY markButton.label "Oznacz">
 <!ENTITY printButton.label "Drukuj">
 <!ENTITY stopButton.label "Zatrzymaj">
 <!ENTITY junkButton.label "Niechciana">
@@ -460,7 +460,7 @@
 <!ENTITY goBackButton.tooltip "Przejdź o jedną wiadomość wstecz">
 <!ENTITY goForwardButton.tooltip "Przejdź o jedną wiadomość do przodu">
 <!ENTITY deleteButton.tooltip "Usuń wybraną wiadomość albo folder">
-<!ENTITY markButton.tooltip "Zaznacz wiadomości">
+<!ENTITY markButton.tooltip "Oznacz wiadomości">
 <!ENTITY printButton.tooltip "Drukuj wiadomość">
 <!ENTITY stopButton.tooltip "Zatrzymaj bieżący transfer">
 <!ENTITY throbber.tooltip "&vendorShortName;PL! Otwórz naszą stronę!">
@@ -478,7 +478,7 @@
 <!ENTITY contextReplySender.label "Odpowiedz tylko nadawcy">
 <!ENTITY contextReplySender.accesskey "n">
 <!ENTITY contextReplyNewsgroup.label "Odpowiedz grupie dyskusyjnej">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyNewsgroup.accesskey "u">
 <!ENTITY contextReplyAll.label "Odpowiedz wszystkim">
 <!ENTITY contextReplyAll.accesskey "w">
 <!ENTITY contextReplySenderAndNewsgroup.label "Odpowiedz nadawcy i grupie dyskusyjnej">
@@ -498,7 +498,7 @@
 <!ENTITY contextPrint.label "Drukuj…">
 <!ENTITY contextPrint.accesskey "D">
 <!ENTITY contextPrintPreview.label "Podgląd wydruku">
-<!ENTITY contextPrintPreview.accesskey "w">
+<!ENTITY contextPrintPreview.accesskey "g">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Pobierz wiadomości z konta">
@@ -517,18 +517,18 @@
 <!ENTITY folderContextEmptyJunk.accesskey "J">
 <!ENTITY folderContextSendUnsentMessages.label "Wyślij oczekujące wiadomości…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
-<!ENTITY folderContextUnsubscribe.label "Anuluj subskrypcję">
+<!ENTITY folderContextUnsubscribe.label "Zrezygnuj z subskrypcji">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
-<!ENTITY folderContextMarkNewsgroupRead.label "Zaznacz grupę jako przeczytaną">
-<!ENTITY folderContextMarkNewsgroupRead.accesskey "Z">
-<!ENTITY folderContextMarkMailFolderRead.label "Zaznacz folder jako przeczytany">
+<!ENTITY folderContextMarkNewsgroupRead.label "Oznacz grupę jako przeczytaną">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "z">
+<!ENTITY folderContextMarkMailFolderRead.label "Oznacz folder jako przeczytany">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextNew.label "Nowy podfolder…">
 <!ENTITY folderContextNew.accesskey "N">
-<!ENTITY folderContextSubscribe.label "Subskrybuj…">
+<!ENTITY folderContextSubscribe.label "Menedżer subskrypcji…">
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchMessages.label "Wyszukaj wiadomości…">
-<!ENTITY folderContextSearchMessages.accesskey "m">
+<!ENTITY folderContextSearchMessages.accesskey "j">
 <!ENTITY folderContextProperties.label "Właściwości…">
 <!ENTITY folderContextProperties.accesskey "i">
 <!ENTITY folderContextSettings.label "Ustawienia…">
@@ -544,7 +544,7 @@
 <!ENTITY advancedButton.accesskey "Z">
 
 <!ENTITY all.label "Wszystko">
-<!ENTITY all.accesskey "W">
+<!ENTITY all.accesskey "y">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage.label "Ta wiadomość została rozpoznana jako niechciana.">

@@ -64,13 +64,13 @@
 <!ENTITY viewAttachmentCmd.accesskey "P">
 <!ENTITY saveAsAttachmentCmd.label "Zapisz jako…">
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
-<!ENTITY detachAttachmentCmd.label "Wydziel…">
-<!ENTITY detachAttachmentCmd.accesskey "y">
+<!ENTITY detachAttachmentCmd.label "Odłącz…">
+<!ENTITY detachAttachmentCmd.accesskey "c">
 <!ENTITY deleteAttachmentCmd.label "Usuń">
 <!ENTITY deleteAttachmentCmd.accesskey "U">
 <!ENTITY saveAllAttachmentsCmd.label "Zapisz wszystkie…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "w">
-<!ENTITY detachAllAttachmentsCmd.label "Wydziel wszystkie…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
+<!ENTITY detachAllAttachmentsCmd.label "Odłącz wszystkie…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "d">
 <!ENTITY deleteAllAttachmentsCmd.label "Usuń wszystkie…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">

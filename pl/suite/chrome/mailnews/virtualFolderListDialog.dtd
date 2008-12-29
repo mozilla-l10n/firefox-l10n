@@ -1,6 +1,6 @@
 <!ENTITY server.label "Konto: ">
 <!ENTITY server.accesskey "K">
-<!ENTITY virtualFolderListTitle.title "Wybierz foldery">
+<!ENTITY virtualFolderListTitle.title "Wybierz folder(y)">
 <!ENTITY virtualFolderDesc.label "Wybierz foldery do przeszukiwania:">
 
 

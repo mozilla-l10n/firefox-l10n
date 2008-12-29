@@ -35,11 +35,11 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title "Subskrybuj">
+<!ENTITY subscribeDialog.title "Menedżer subskrypcji">
 <!ENTITY subscribeButton.label "Subskrybuj">
 <!ENTITY subscribeButton.accesskey "S">
-<!ENTITY unsubscribeButton.label "Anuluj subskrypcję">
-<!ENTITY unsubscribeButton.accesskey "U">
+<!ENTITY unsubscribeButton.label "Zrezygnuj z subskrypcji">
+<!ENTITY unsubscribeButton.accesskey "u">
 <!ENTITY newGroupsTab.label "Nowe grupy">
 <!ENTITY newGroupsTab.accesskey "N">
 <!ENTITY refreshButton.label "Odśwież">
@@ -52,4 +52,4 @@
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label "Pokaż elementy, które zawierają:">
-<!ENTITY namefield.accesskey "O">
+<!ENTITY namefield.accesskey "P">

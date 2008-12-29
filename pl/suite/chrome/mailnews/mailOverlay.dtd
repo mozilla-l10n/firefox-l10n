@@ -1,6 +1,6 @@
 
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Wiadomość">
-<!ENTITY newMessageCmd.accesskey "i">
+<!ENTITY newMessageCmd.accesskey "W">
 <!ENTITY newContactCmd.label "Wizytówka…">
-<!ENTITY newContactCmd.accesskey "C">
+<!ENTITY newContactCmd.accesskey "i">

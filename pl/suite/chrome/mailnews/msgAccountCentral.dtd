@@ -49,12 +49,12 @@
 <!ENTITY settingsLink.label "Wyświetl ustawienia dla tego konta">
 <!ENTITY newAcctLink.label "Utwórz nowe konto">
 
-<!ENTITY advFeaturesSectionHdr.label "Zaawansowane funkcje">
+<!ENTITY advFeaturesSectionHdr.label "Funkcje zaawansowane">
 <!ENTITY searchMsgsLink.label "Wyszukaj wiadomości">
 <!ENTITY filtersLink.label "Zarządzaj filtrami wiadomości">
 <!ENTITY junkSettings.label "Ustawienia niechcianej poczty">
 <!ENTITY offlineLink.label "Ustawienia offline">
 
-<!ENTITY rssSectionHdr.label "RSS i Blogi">
+<!ENTITY rssSectionHdr.label "RSS: Aktualności i blogi">
 <!ENTITY subscibeRSS.label "Menedżer kanałów RSS">
 

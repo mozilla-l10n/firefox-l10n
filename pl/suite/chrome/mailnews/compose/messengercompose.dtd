@@ -24,13 +24,13 @@
 <!ENTITY saveAsTemplateCmd.label "Szablon">
 <!ENTITY saveAsTemplateCmd.accesskey "b">
 <!ENTITY attachMenu.label "Załącz">
-<!ENTITY attachMenu.accesskey "z">
+<!ENTITY attachMenu.accesskey "c">
 <!ENTITY attachFileCmd.label "Plik…">
 <!ENTITY attachFileCmd.accesskey "l">
 <!ENTITY attachPageCmd.label "Stronę WWW…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label "Wizytówkę (vCard)">
-<!ENTITY attachVCardCmd.accesskey "w">
+<!ENTITY attachVCardCmd.accesskey "t">
 <!ENTITY sendNowCmd.label "Wyślij teraz">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "t">
@@ -83,7 +83,7 @@
 
 <!ENTITY checkSpellingCmd.label "Sprawdź pisownię…">
 <!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "S">
+<!ENTITY checkSpellingCmd.accesskey "r">
 <!ENTITY enableInlineSpellChecker.label "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 
@@ -100,21 +100,21 @@
 <!ENTITY highestPriorityCmd.label "Najwyższy">
 <!ENTITY highestPriorityCmd.accesskey "j">
 
-<!ENTITY returnReceiptMenu.label "Żądaj potwierdzenia dostarczenia wiadomości">
-<!ENTITY returnReceiptMenu.accesskey "d">
+<!ENTITY returnReceiptMenu.label "Żądaj potwierdzenia doręczenia">
+<!ENTITY returnReceiptMenu.accesskey "p">
 <!ENTITY outputFormatMenu.label "Wyślij wiadomość jako">
 <!ENTITY outputFormatMenu.accesskey "j">
 <!ENTITY autoFormatCmd.label "Wybierz automatycznie">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Tylko tekst">
-<!ENTITY plainTextFormatCmd.accesskey "t">
+<!ENTITY plainTextFormatCmd.accesskey "T">
 <!ENTITY htmlFormatCmd.label "Tylko HTML">
 <!ENTITY htmlFormatCmd.accesskey "H">
 <!ENTITY bothFormatCmd.label "Tekst oraz HTML">
 <!ENTITY bothFormatCmd.accesskey "o">
 
 <!ENTITY fileCarbonCopyCmd.label "Zachowaj kopię wiadomości w folderze">
-<!ENTITY fileCarbonCopyCmd.accesskey "k">
+<!ENTITY fileCarbonCopyCmd.accesskey "h">
 <!ENTITY fileHereMenu.label "Zachowaj tutaj">
 
 <!ENTITY sendButton.label "Wyślij">
@@ -128,7 +128,7 @@
 <!ENTITY formatToolbar.tooltip "Pasek narzędzi formatowania">
 <!ENTITY sendButton.tooltip "Wyślij tę wiadomość">
 <!ENTITY sendlaterButton.tooltip "Wyślij tę wiadomość później">
-<!ENTITY addressButton.tooltip "Wybierz adresata z Książki adresowej">
+<!ENTITY addressButton.tooltip "Wybierz adresata z książki adresowej">
 <!ENTITY attachButton.tooltip "Dodaj pliki do tej wiadomości">
 <!ENTITY saveButton.tooltip "Zapisz wiadomość jako">
 <!ENTITY stopButton.tooltip "Zatrzymaj bieżący transfer">

@@ -41,9 +41,9 @@
 <!ENTITY folderProps.windowtitle.label "Właściwości">
 
 <!ENTITY generalInfo.label "Informacje ogólne">
-<!ENTITY folderCharsetTab.label "Domyślne kodowanie znaków:">
+<!ENTITY folderCharsetTab.label "Domyślny zestaw znaków:">
 <!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "Domyślnie zastosuj dla wszystkich wiadomości (indywidualne ustawienia kodowania znaków wiadomości oraz autodetekcja zostaną zignorowane)">
+<!ENTITY folderCharsetOverride.label "Domyślnie zastosuj dla wszystkich wiadomości (indywidualne ustawienia zestawu znaków wiadomości oraz autodetekcja zostaną zignorowane)">
 <!ENTITY folderCharsetOverride.accesskey "A">
 <!ENTITY folderRebuildSummaryFile.label "Przebuduj plik podsumowania">
 <!ENTITY folderRebuildSummaryFile.accesskey "R">
@@ -65,13 +65,13 @@
 <!ENTITY retentionKeepUnread.accesskey "u">
 
 <!ENTITY folderOfflineTab.label "Tryb offline">
-<!ENTITY folderCheckForNewMessages.label "Pobierz nowe wiadomości z tego folderu">
+<!ENTITY folderCheckForNewMessages.label "Sprawdzaj, czy są dostępne nowe wiadomości dla tego folderu">
 <!ENTITY folderCheckForNewMessages.accesskey "C">
 
 <!ENTITY offlineFolder.check.label "Wybrany folder będzie dostępny w trybie offline.">
-<!ENTITY offlineFolder.check.accesskey "W">
+<!ENTITY offlineFolder.check.accesskey "s">
 <!ENTITY offlineFolder.button.label "Pobierz teraz">
-<!ENTITY offlineFolder.button.accesskey "P">
+<!ENTITY offlineFolder.button.accesskey "t">
 
 <!ENTITY selectofflineNewsgroup.check.label "Wybrana grupa dyskusyjna będzie dostępna w trybie offline.">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
@@ -85,7 +85,7 @@
 
 <!ENTITY folderSharingTab.label "Współużytkowanie">
 <!ENTITY privileges.button.label "Uprawnienia…">
-<!ENTITY privileges.button.accesskey "P">
+<!ENTITY privileges.button.accesskey "p">
 <!ENTITY permissionsDesc.label "Posiadasz następujące uprawnienia:">
 <!ENTITY folderType.label "Typ folderu:">
 
