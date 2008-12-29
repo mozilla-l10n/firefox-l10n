@@ -395,4 +395,4 @@
 <!ENTITY calendar.error.title "දෝෂයක් සිදුවී ඇත">
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!--<!ENTITY mainWindow.title "&brandFullName;">-->
+<!ENTITY mainWindow.title "&brandFullName;">
