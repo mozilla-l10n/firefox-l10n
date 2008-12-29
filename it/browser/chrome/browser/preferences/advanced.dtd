@@ -4,7 +4,7 @@
 <!ENTITY useCursorNavigation.accesskey "U">
 <!ENTITY searchStartTyping.label "Cerca nel testo quando si digita qualcosa">
 <!ENTITY searchStartTyping.accesskey "e">
-<!ENTITY blockAutoRefresh.label "Avvisa se un sito web cerca di redirigere o ricaricare la pagina">
+<!ENTITY blockAutoRefresh.label "Avvisa se un sito web cerca di reindirizzare o ricaricare la pagina">
 <!ENTITY blockAutoRefresh.accesskey "w">
 <!ENTITY browsing.label "Navigazione">
 <!ENTITY useAutoScroll.label "Utilizza lo scorrimento automatico">
