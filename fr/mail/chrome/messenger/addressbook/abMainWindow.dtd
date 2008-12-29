@@ -131,7 +131,6 @@
 <!ENTITY newIM.accesskey                                "i">
 <!ENTITY deleteButton2.label                            "Supprimer">
 <!ENTITY deleteButton2.accesskey                        "S">
-<!ENTITY throbberItem.title                             "Indicateur d'activité">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip "Créer un nouveau contact">
