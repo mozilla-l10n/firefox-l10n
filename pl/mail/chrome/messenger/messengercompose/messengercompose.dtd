@@ -184,7 +184,6 @@
 <!ENTITY attachButton.label   "Załącz">
 <!ENTITY spellingButton.label "Pisownia">
 <!ENTITY saveButton.label     "Zapisz jako">
-<!ENTITY throbberItem.title   "Wskaźnik aktywności">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip      "Wyślij tę wiadomość">

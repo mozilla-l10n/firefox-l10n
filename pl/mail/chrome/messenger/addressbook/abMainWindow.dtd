@@ -128,7 +128,6 @@
 <!ENTITY newIM.accesskey            "i">
 <!ENTITY deleteButton2.label        "Usuń">
 <!ENTITY deleteButton2.accesskey    "U">
-<!ENTITY throbberItem.title         "Wskaźnik aktywności">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip "Dodaj nową wizytówkę do książki adresowej">
