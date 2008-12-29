@@ -7,8 +7,10 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ה">
-<!ENTITY newCard.label "כרטיס פנקס כתובות...">
-<!ENTITY newCard.accesskey "c">
+<!-- ### ENTITY newCard.label "כרטיס פנקס כתובות..." -->
+<!-- ### ENTITY newCard.accesskey "c" -->
+<!ENTITY newContact.label "איש קשר בספר הכתובות…">
+<!ENTITY newContact.accesskey "א">
 <!ENTITY attachMenu.label "צרף">
 <!ENTITY attachMenu.accesskey "ר">
 <!ENTITY attachFileCmd.label "קובץ (קבצים)...">

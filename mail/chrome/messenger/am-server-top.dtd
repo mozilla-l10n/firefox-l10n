@@ -10,11 +10,16 @@
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "ברירת מחדל:">
 <!ENTITY savePassword.label "שמור סיסמה">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
 <!ENTITY biffStart.label "בדוק אם קיימות הודעות חדשות כל ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "דקות">
-<!ENTITY isSecure.label "השתמש בקשר מאובטח (SSL)">
-<!ENTITY isSecure.accesskey "U">
+<!-- ### ENTITY isSecure.label "השתמש בקשר מאובטח (SSL)" -->
+<!-- ### ENTITY isSecure.accesskey "U" -->
 <!ENTITY socketType.label "השתמש בקשר מאובטח:">
 <!ENTITY neverSecure.label "לעולם לא">
 <!ENTITY neverSecure.accesskey "N">
