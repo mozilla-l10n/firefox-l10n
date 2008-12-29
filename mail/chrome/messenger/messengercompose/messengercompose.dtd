@@ -185,7 +185,6 @@
 <!ENTITY attachButton.label "Joindre">
 <!ENTITY spellingButton.label "Orthographe">
 <!ENTITY saveButton.label "Enregistrer">
-<!ENTITY throbberItem.title "Indicateur d'activité">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Envoyer le message maintenant">
