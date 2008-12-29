@@ -185,7 +185,6 @@
 <!ENTITY attachButton.label "Anhang">
 <!ENTITY spellingButton.label "Rechtschr.">
 <!ENTITY saveButton.label "Speichern">
-<!ENTITY throbberItem.title "Aktivitäts-Indikator">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Diese Nachricht jetzt senden">
