@@ -216,7 +216,6 @@
 <!ENTITY attachButton.label "Pridėti">
 <!ENTITY spellingButton.label "Tikrinti rašybą">
 <!ENTITY saveButton.label "Įrašyti">
-<!ENTITY throbberItem.title "Aktyvumo rodiklis">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Išsiųsti laišką dabar"> 
