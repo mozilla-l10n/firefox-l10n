@@ -71,6 +71,8 @@
 <!ENTITY addCurPagesCmd.label "Aldoni paĝosignon por ĉiuj folioj…">
 <!ENTITY organizeBookmarks.label "Organizi paĝosignojn…">
 <!ENTITY bookmarkAllCmd.label "Aldoni paĝosignon por ĉiuj folioj…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Montri pliajn paĝosignojn">
+
 
 <!ENTITY backCmd.label "Malantaŭen">
 <!ENTITY backCmd.accesskey "M">
