@@ -3,4 +3,4 @@
 <!ENTITY date.heading "Datum odeslání">
 <!ENTITY noReports.label "Žádná hlášení nabyla odeslána.">
 <!ENTITY noConfig.label "Tato aplikace nebyla nakonfigurována pro zobrazení hlášení o pádu. Je  nutné nastavit předvolbu <code>breakpad.reportURL</code>.">
-<!ENTITY clearReports.label "Odstranit hlášení">
+<!ENTITY clearAllReports.label "Odstranit všechna hlášení">

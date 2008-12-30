@@ -128,7 +128,6 @@
 <!ENTITY newIM.accesskey "I">
 <!ENTITY deleteButton2.label "Smazat">
 <!ENTITY deleteButton2.accesskey "m">
-<!ENTITY throbberItem.title "Ukazatel činnosti">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip "Vytvoří nový kontakt">
