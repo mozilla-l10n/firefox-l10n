@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Bladwijzer voor alle tabbladen maken…">
 <!ENTITY organizeBookmarks.label "Bladwijzers ordenen…">
 <!ENTITY bookmarkAllCmd.label "Bladwijzer voor alle tabbladen maken…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
 
 <!ENTITY backCmd.label                "Terug">
 <!ENTITY backCmd.accesskey            "T">
