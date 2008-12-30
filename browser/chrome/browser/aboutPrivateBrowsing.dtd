@@ -3,7 +3,7 @@
 <!ENTITY privatebrowsingpage.pagetitle                 "隱私瀏覽">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; 不會記錄此瀏覽狀態的任何歷史記錄。">
-<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; 不會記錄此瀏覽狀態的任何歷史記錄。這包含瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、 Cookie、暫存 Internet 檔案。然而，已下載的檔案與新加入的書籤會被保留。">
+<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; 不會記錄此瀏覽狀態的任何歷史記錄。這包含瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、 Cookie、暫存 Internet 檔案。然而，你下載的檔案及新添加的書籤將被保留。">
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "你或許會想要刪除最近的歷史記錄。">
 <!ENTITY privatebrowsingpage.clearRecentHistory.label  "刪除最近的歷史記錄…">

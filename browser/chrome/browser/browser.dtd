@@ -7,9 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (隱私瀏覽模式)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(隱私瀏覽)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "開新分頁">
 <!ENTITY tabCmd.accesskey "T">
@@ -69,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "所有分頁加入書籤…">
 <!ENTITY organizeBookmarks.label "管理書籤…">
 <!ENTITY bookmarkAllCmd.label "所有分頁加入書籤…">
+<!ENTITY bookmarksToolbarChevron.tooltip "顯示更多書籤">
 
 <!ENTITY backCmd.label                "上一頁">
 <!ENTITY backCmd.accesskey            "B">
