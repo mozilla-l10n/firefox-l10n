@@ -185,7 +185,6 @@
 <!ENTITY attachButton.label "Připojit">
 <!ENTITY spellingButton.label "Pravopis">
 <!ENTITY saveButton.label "Uložit">
-<!ENTITY throbberItem.title "Ukazatel činnosti">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Odešle tuto zprávu">
