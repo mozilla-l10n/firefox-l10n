@@ -115,7 +115,6 @@
 <!ENTITY newIM.accesskey "М">
 <!ENTITY deleteButton2.label "Удалить">
 <!ENTITY deleteButton2.accesskey "д">
-<!ENTITY throbberItem.title "Индикатор активности">
 <!ENTITY newContactButton.tooltip "Создание нового контакта адресной книги">
 <!ENTITY newlistButton.tooltip "Создание нового списка рассылки">
 <!ENTITY editButton2.tooltip "Изменение выбранного элемента">

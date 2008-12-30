@@ -163,7 +163,6 @@
 <!ENTITY attachButton.label "Вложить">
 <!ENTITY spellingButton.label "Орфография">
 <!ENTITY saveButton.label "Сохранить">
-<!ENTITY throbberItem.title "Индикатор активности">
 <!ENTITY sendButton.tooltip "Отправить это сообщение сейчас">
 <!ENTITY sendlaterButton.tooltip "Отправить это сообщение позже">
 <!ENTITY quoteButton.tooltip "Цитировать предыдущее сообщение">
