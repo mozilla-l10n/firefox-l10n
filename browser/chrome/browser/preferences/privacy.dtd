@@ -59,3 +59,12 @@
 <!ENTITY  clearDataNow.accesskey         "T">
 <!ENTITY  acceptThirdParty.label        "Prano &quot;cookie&quot; palësh të treta">
 <!ENTITY  acceptThirdParty.accesskey    "e">
+
+<!ENTITY  locbar.pre.label              "Kur përdoret shtylla e vendeve, këshillo:">
+<!ENTITY  locbar.pre.accessKey          "k">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Historik dhe Shfletuesa">
+<!ENTITY  locbar.history.label          "Historik">
+<!ENTITY  locbar.bookmarks.label        "Shfletuesa">
+<!ENTITY  locbar.nothing.label          "Asgjë">
+
