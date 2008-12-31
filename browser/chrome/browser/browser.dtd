@@ -55,6 +55,7 @@
 <!ENTITY addCurPagesCmd.label "Añadir pestañas a marcadores…">
 <!ENTITY organizeBookmarks.label "Organizar marcadores…">
 <!ENTITY bookmarkAllCmd.label "Añadir todas las pestañas abiertas a marcadores…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backCmd.accesskey "t">
 <!ENTITY backButton.tooltip "Ir a la página anterior">
