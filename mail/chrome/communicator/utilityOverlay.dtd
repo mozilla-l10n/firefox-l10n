@@ -54,7 +54,5 @@
 <!ENTITY quitApplicationCmdUnix.label	"Dil"> 
 <!ENTITY quitApplicationCmdUnix.accesskey	"d">
 
-<!ENTITY closeWindow.label "Mbylle Dritaren">
-
 <!ENTITY quitApplicationCmdMac.label  "Dil nga &brandShortName;-i">
 <!ENTITY quitApplicationCmdMac.accesskey  "d">

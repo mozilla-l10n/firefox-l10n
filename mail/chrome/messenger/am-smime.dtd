@@ -1,17 +1,28 @@
 <!ENTITY securityTitle.label "Siguri">
+<!ENTITY securityTab.label "Siguri">
 <!ENTITY securityHeading.label "Për të marrë dhe dërguar mesazhe të nënshkruar ose të koduar, do të duhej të jepni një dëshmi nënshkrimesh shifrore dhe një dëshmi kodimesh.">
 <!ENTITY encryptionGroupTitle.label "Kodim">
 <!ENTITY encryptionChoiceLabel.label "Rregullime kodimi parazgjedhje kur dërgohen mesazhe:">
 <!ENTITY neverEncrypt.label "Kurrë (mos përdor kodim)">
+<!ENTITY neverEncrypt.accesskey "K">
 <!ENTITY alwaysEncryptMessage.label "E nevojshme (s&apos;mund të dërgoj mesazhe veç në paçin tërë marrësit dëshmi)">
+<!ENTITY alwaysEncryptMessage.accesskey "e">
 <!ENTITY encryptionCert.message "Përdor këtë dëshmi për të koduar &amp; çkoduar mesazhe të dërguar te ju:">
-<!ENTITY certificate.button "Përzgjidhni…">
-<!ENTITY certificate_clear.button "Pastro">
+<!ENTITY digitalSign.certificate.button "Përzgjidhni…">
+<!ENTITY digitalSign.certificate.accesskey "P">
+<!ENTITY digitalSign.certificate_clear.button "Pastroje">
+<!ENTITY digitalSign.certificate_clear.accesskey "P">
+<!ENTITY encryption.certificate.button "Përzgjidhni…">
+<!ENTITY encryption.certificate.accesskey "z">
+<!ENTITY encryption.certificate_clear.button "Pastroje">
+<!ENTITY encryption.certificate_clear.accesskey "p">
 <!ENTITY signingGroupTitle.label "Nënshkrim Numerik">
 <!ENTITY signMessage.label "Nënshkruaj në mënyrë shifrore (si parazgjedhje) mesazhe">
-<!ENTITY signingCert.message "Përdorni këtë dëshmi për të nënshkruar në mënyrë shifrore mesazhet që dërgoni:">
+<!ENTITY signMessage.accesskey "N">
+<!ENTITY signingCert.message "Përdor këtë dëshmi për të nënshkruar në mënyrë shifrore mesazhet që dërgoni:">
+
 <!ENTITY certificates.label     "Dëshmi">
-<!ENTITY managecerts.label      "Shihni Dëshmi">
-<!ENTITY managecerts.accesskey  "S">
-<!ENTITY managedevices.label    "Pajisje Sigurie">
-<!ENTITY managedevices.accesskey "P">
+<!ENTITY manageCerts.label "Shihni Dëshmitë">
+<!ENTITY manageCerts.accesskey "S">
+<!ENTITY manageDevices.label "Pajisje Sigurie">
+<!ENTITY manageDevices.accesskey "P">

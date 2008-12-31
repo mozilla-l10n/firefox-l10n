@@ -111,6 +111,8 @@
 <!ENTITY undoDefaultCmd.accesskey "Z">
 <!ENTITY redoDefaultCmd.label "Ribëje">
 <!ENTITY redoDefaultCmd.accesskey "R">
+<!ENTITY redoMarkAllCmd.label "Ribëje Shënimin të Tëra Si të Lexuara">
+<!ENTITY undoMarkAllCmd.label "Zhbëje Shënimin të Tëra Si të Lexuara">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Panel Poste">
@@ -688,3 +690,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "më tepër">
+
