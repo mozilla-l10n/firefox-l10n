@@ -19,8 +19,6 @@
 <!ENTITY biffStart.label "Kontrollo për mesazhe të rinj çdo ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minuta">
-<!ENTITY isSecure.label "Përdor lidhje të sigurt (SSL)">
-<!ENTITY isSecure.accesskey "P">
 <!ENTITY socketType.label "Përdor lidhje të sigurt:">
 <!ENTITY neverSecure.label "Kurrë">
 <!ENTITY neverSecure.accesskey "K">

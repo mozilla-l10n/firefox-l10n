@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 <!ENTITY addressbookWindow.title                        "Libër Vendndodhjesh">
 
 <!-- File Menu -->
@@ -6,10 +12,6 @@
 <!ENTITY fileMenu.accesskey                             "k">
 <!ENTITY newMenu.label                                  "E re">
 <!ENTITY newMenu.accesskey                              "r">
-<!ENTITY newCard.label                                  "Kartë Libri Vendndodhjesh…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey                              "K">
-<!ENTITY newCard.key                                    "N">
 <!ENTITY newListCmd.label                               "Listë Postimesh…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "P">
@@ -26,14 +28,8 @@
 <!ENTITY closeCmd.accesskey                             "M">
 <!ENTITY printSetupCmd.label                            "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey                        "R">
-<!ENTITY printPreviewCardViewCmd.label                  "Paraparje e Shtypjes së Kartës">
-<!ENTITY printPreviewCardViewCmd.accesskey              "K">
 <!ENTITY printPreviewAddressBook.label                  "Paraparje e Shtypjes së Librit të Vendndodhjeve">
 <!ENTITY printPreviewAddressBook.accesskey              "L">
-<!ENTITY printCardViewCmd.label                         "Shtyp Kartë…">
-<!ENTITY printCardViewCmd.accesskey                     "y">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key                           "P">
 <!ENTITY printAddressBook.label                         "Shtyp Libër Vendndodhjesh…">
 <!ENTITY printAddressBook.accesskey                     "V">
 
@@ -58,7 +54,6 @@
 <!ENTITY deleteCmd.label                                "Fshije">
 <!ENTITY deleteCmd.accesskey                            "f">
 <!ENTITY deleteAbCmd.label                              "Fshi Libër Vendndodhjesh">
-<!ENTITY deleteCardCmd.label                            "Fshi Kartë">
 <!ENTITY selectAllCmd.label                             "Përzgjidhi të Tëra">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -81,13 +76,15 @@
 <!ENTITY showAbToolbarCmd.label                         "Panel Libri Vendndodhjesh">
 <!ENTITY showAbToolbarCmd.accesskey                     "l">
 
+<!ENTITY printPreviewContactCmd.label                   "Paraparje Shtypjeje e Kontaktit">
+<!ENTITY printPreviewContactCmd.accesskey               "p">
+<!ENTITY showContactPane.label                          "Kuadrat Përmbledhjeje Kontakti">
+<!ENTITY showContactPane.accesskey                      "K">
 
 <!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjeje">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Përshtasni…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showCardPane.label                             "Kuti Përmbledhëse Karte">
-<!ENTITY showCardPane.accesskey                         "K">
 <!ENTITY menu_ShowNameAs.label                          "Shfaq Emër Si">
 <!ENTITY menu_ShowNameAs.accesskey                      "f"> 
 <!ENTITY firstLastCmd.label                             "Emër, Mbiemër">
@@ -118,28 +115,20 @@
 
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "Kartë e Re">
-<!ENTITY newcardButton.accesskey                        "K">
 <!ENTITY newlistButton.label                            "Listë e Re">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton.label                               "Veti">
-<!ENTITY editButton.accesskey                           "V">
 <!ENTITY newmsgButton.label                             "Shkruaj">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Mesazh i Atypëratyshëm">
 <!ENTITY newIM.accesskey                                "y">
-<!ENTITY deleteButton.label                             "Fshije">
-<!ENTITY deleteButton.accesskey                         "F">
-<!ENTITY throbberItem.title                             "Tregues Veprimtarie">
+<!ENTITY deleteButton2.label                             "Fshije">
+<!ENTITY deleteButton2.accesskey                         "F">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Krijoni një kartë të re libri vendndodhjesh">
 <!ENTITY newlistButton.tooltip                          "Krijoni një listë të re">
-<!ENTITY editButton.tooltip                             "Përpunoni kartën e përzgjedhur">
 <!ENTITY newmsgButton.tooltip                           "Dërgo një mesazh poste">
 <!ENTITY newIM.tooltip                                  "Dërgo një mesazh të atypëratyshëm ose fjalosu">
-<!ENTITY deleteButton.tooltip                           "Fshij kartën ose librin e përzgjedhur të vendndodhjeve">
-
+<!ENTITY deleteButton2.tooltip                           "Fshije objektin e përzgjedhur">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Libra Vendndodhjesh">
@@ -220,4 +209,19 @@
 <!ENTITY deleteListCmd.label                            "Fshije Listën">
 <!ENTITY deleteListsCmd.label                           "Fshiji Listat">
 <!ENTITY deleteItemsCmd.label                           "Fshiji Elementët">
-<!ENTITY deleteCardsCmd2.label                          "Fshiji Kartat">
+<!ENTITY deleteContactCmd.label                         "Fshije Kontaktin">
+<!ENTITY deleteContactsCmd.label                        "Fshiji Kontaktet">
+<!ENTITY editButton2.label                              "Veti">
+<!ENTITY editButton2.accesskey                          "V">
+<!ENTITY editButton2.tooltip                            "Përpunoni objektin e përzgjedhur">
+
+<!ENTITY newContact.label                               "Kontakt Nga Libri i Vendndodhjeve…">
+<!ENTITY newContact.accesskey                           "K">
+<!ENTITY newContact.key                                 "N">
+<!ENTITY newContactButton.label                         "Kontakt i Ri">
+<!ENTITY newContactButton.accesskey                     "K">
+<!ENTITY newContactButton.tooltip                       "Krijoni një kontakt të ri libri vendndodhjesh">
+<!ENTITY printContactCmd.label                          "Shtyp Kontakt…">
+<!ENTITY printContactCmd.accesskey                      "Y">
+<!ENTITY printContactCmd.key                            "P">
+

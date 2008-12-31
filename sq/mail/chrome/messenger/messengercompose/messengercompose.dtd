@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Kartë Libri Vendndodhjesh…">
-<!ENTITY newCard.accesskey "a">
+<!ENTITY newContact.label "Kontakt Libri Vendndodhje…">
+<!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Bashkangjite">
 <!ENTITY attachMenu.accesskey "b">
 <!ENTITY attachFileCmd.label "Kartelë(a)…">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Panele"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "a"> 
 <!ENTITY showCompositionToolbarCmd.label "Panel Hartimi">
+<!ENTITY showCompositionToolbarCmd.accesskey "h">
 <!ENTITY showFormattingBarCmd.label "Panel Formatimi">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Shtyllë Gjendje">
@@ -185,7 +186,7 @@
 <!ENTITY attachButton.label "Bashkangjite">
 <!ENTITY spellingButton.label "Drejtshkrim">
 <!ENTITY saveButton.label "Ruaje">
-<!ENTITY throbberItem.title "Tregues Veprimtarie">
+
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Dërgoje këtë mesazh tani"> 
