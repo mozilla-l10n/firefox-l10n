@@ -10,3 +10,4 @@
 <!ENTITY paneAttachments.title    "Bashkangjitje">
 <!ENTITY panePrivacy.title       "Vetësi">
 <!ENTITY paneAdvanced.title       "Të mëtejshëm">
+<!ENTITY cmdCloseMac.commandKey   "w">

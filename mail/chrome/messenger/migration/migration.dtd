@@ -6,8 +6,10 @@
 
 <!ENTITY importFromNothing.label        "Mos importo gjë">
 <!ENTITY importFromNothing.accesskey    "M">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 ose Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x ose SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "N">
+
+
 <!ENTITY importFromNetscape4.label      "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey  "4">
 <!ENTITY importFromOExpress.label       "Outlook Express">

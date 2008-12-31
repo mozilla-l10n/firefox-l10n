@@ -38,8 +38,6 @@
 
 <!ENTITY showCondensedAddresses.label  "Shfaq vetëm emra ekrani për persona në librin tim të vendndodhjeve">
 <!ENTITY showCondensedAddresses.accesskey "s">
-<!ENTITY showFolderColumns.label       "Shtyllat te kuti e dosjeve shfaqi të zgjeruara">
-<!ENTITY showFolderColumns.accesskey   "y">
 <!ENTITY reuseExpRadio0.label          "Dritare të re mesazhi">
 <!ENTITY reuseExpRadio0.accesskey      "r">
 <!ENTITY reuseExpRadio1.label          "Dritare ekzistuese mesazhi">
