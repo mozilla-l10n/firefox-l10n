@@ -64,7 +64,7 @@
 <!ENTITY printPreviewCmd.label "Førehandsvising">
 <!ENTITY printPreviewCmd.accesskey "F">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.accesskey "m">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Slett melding">
@@ -650,7 +650,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Lagre lenkje som …">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "Lagre bilete som …">
+<!ENTITY saveImageAsCmd.label "Lagre biletet som …">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.accesskey "K">

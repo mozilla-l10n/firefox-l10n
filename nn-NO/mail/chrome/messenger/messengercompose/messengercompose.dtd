@@ -42,7 +42,7 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "e">
 <!ENTITY printSetupCmd.label "Utskriftsformat">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.accesskey "m">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "u">

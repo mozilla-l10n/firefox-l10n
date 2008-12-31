@@ -27,7 +27,7 @@
 
 <!ENTITY  useMasterPassword.label        "Bruk eit hovudpassord">
 <!ENTITY  useMasterPassword.accesskey    "B">
-<!ENTITY  changeMasterPassword.label     "Endra hovudpassord …">
+<!ENTITY  changeMasterPassword.label     "Endre hovudpassord …">
 <!ENTITY  changeMasterPassword.accesskey "E">
 
 <!ENTITY  savedPasswords.label            "Lagra passord …">

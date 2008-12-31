@@ -25,9 +25,9 @@ that require it.  -->
 <!ENTITY itemFormSearchEntries.accesskey "S">
 <!ENTITY itemPasswords.label          "Lagra passord">
 <!ENTITY itemPasswords.accesskey      "L">
-<!ENTITY itemCookies.label            "Informasjonskapslar">
+<!ENTITY itemCookies.label            "Infokapslar">
 <!ENTITY itemCookies.accesskey        "I">
-<!ENTITY itemWebCache.label           "Snøgg lager for nettsider">
+<!ENTITY itemWebCache.label           "Snøgglager for nettsider">
 <!ENTITY itemWebCache.accesskey       "n">
 <!ENTITY itemOfflineApps.label        "Fråkopla nettsidedata">
 <!ENTITY itemOfflineApps.accesskey    "F">

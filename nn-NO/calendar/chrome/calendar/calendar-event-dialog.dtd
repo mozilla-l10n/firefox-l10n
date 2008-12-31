@@ -79,7 +79,7 @@
 <!ENTITY  event.menu.file.save.label                      "Lagre">
 <!ENTITY  event.menu.file.save.accesskey                  "L">
 <!ENTITY  event.menu.file.page.setup.label                "Utskriftsformat">
-<!ENTITY  event.menu.file.page.setup.accesskey            "o">
+<!ENTITY  event.menu.file.page.setup.accesskey            "m">
 <!ENTITY  event.menu.file.print.label                     "Skriv ut">
 <!ENTITY  event.menu.file.print.accesskey                 "S">
 

@@ -12,8 +12,8 @@
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Slett">
 <!ENTITY smtpListDelete.accesskey "S">
-<!ENTITY smtpListSetDefault.label "Set standard">
-<!ENTITY smtpListSetDefault.accesskey "e">
+<!ENTITY smtpListSetDefault.label "Vel standard">
+<!ENTITY smtpListSetDefault.accesskey "a">
 
 <!ENTITY serverDescription.label "Forklaring: ">
 <!ENTITY serverName.label "Tenarnamn: ">

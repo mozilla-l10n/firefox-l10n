@@ -59,7 +59,7 @@
 <!ENTITY editMessageButton.label "Rediger …">
 <!ENTITY replyButton.label "svar …">
 <!ENTITY forwardButton.label "vidaresend …">
-<!ENTITY junkButton.label "mek som uønskt">
+<!ENTITY junkButton.label "merk som uønskt">
 <!ENTITY trashButton.tooltiptext "slett">
 
 <!ENTITY otherActionsButton.label "andre handlingar">

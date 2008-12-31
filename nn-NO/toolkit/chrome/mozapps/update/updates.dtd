@@ -41,7 +41,7 @@
 
 <!ENTITY  details.link                    "Detaljar">
 
-<!ENTITY  error.label                     "Det oppsto problem under kontroll, nedlasting eller installering av denne oppdateringa. Klarte ikkje å oppdatere &brandShortName; fordi:">
+<!ENTITY  error.label                     "Det oppstod problem under kontroll, nedlasting eller installering av denne oppdateringa. Klarte ikkje å oppdatere &brandShortName; fordi:">
                                            
 <!ENTITY  errorManual.label               "Du kan oppdatere &brandShortName; manuelt ved å gå til denne lenkja, for å laste ned siste versjon:">
                                            

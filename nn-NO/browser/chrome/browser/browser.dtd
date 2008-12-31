@@ -20,7 +20,7 @@
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.accesskey "m">
 <!ENTITY printPreviewCmd.label "Førehandsvis sida">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut …">
@@ -270,7 +270,7 @@
 <!ENTITY saveLinkCmd.accesskey        "L">
 <!ENTITY sendLinkCmd.label            "Send lenkje …"> 
 <!ENTITY sendLinkCmd.accesskey        "S">
-<!ENTITY saveImageCmd.label           "Lagre bilete som …">
+<!ENTITY saveImageCmd.label           "Lagre biletet som …">
 <!ENTITY saveImageCmd.accesskey       "b">
 <!ENTITY saveVideoCmd.label           "Lagre video som …">
 <!ENTITY saveVideoCmd.accesskey       "a">
