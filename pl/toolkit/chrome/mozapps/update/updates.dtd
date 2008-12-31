@@ -11,7 +11,7 @@
 <!ENTITY  noupdatesautodisabled.intro     "Brak dostępnych aktualizacji. Prosimy sprawdzić później lub włączyć automatyczne sprawdzanie dostępności aktualizacji w programie &brandShortName;">
 
 <!ENTITY  incompatibleCheck.title         "Sprawdzanie kompatybilności dodatków">
-<!ENTITY  incompatibleCheck.label         "Sprawdzanie dostępności aktualizacji dla dodatków…">
+<!ENTITY  incompatibleCheck.label         "Szukanie nowszych wersji zainstalowanych dodatków…">
 
 <!ENTITY  clickHere.label                 "Wyświetl więcej informacji o tej aktualizacji...">
 
@@ -27,7 +27,7 @@
 <!ENTITY  license.decline                 "NIE akceptuję warunków umowy licencyjnej">
 <!ENTITY  license.decline.accesskey       "t">
 
-<!ENTITY  incompatibleList.title          "Niekompatybilne dodatki">
+<!ENTITY  incompatibleList.title          "Znaleziono niekompatybilne dodatki">
 
 <!ENTITY  downloading.title               "Pobieranie aktualizacji">
 
