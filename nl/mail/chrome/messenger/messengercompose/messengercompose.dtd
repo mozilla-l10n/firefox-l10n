@@ -185,7 +185,6 @@
 <!ENTITY attachButton.label "Bijlage">
 <!ENTITY spellingButton.label "Spelling">
 <!ENTITY saveButton.label "Opslaan">
-<!ENTITY throbberItem.title "Activiteitsindicator">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Dit bericht nu verzenden">
