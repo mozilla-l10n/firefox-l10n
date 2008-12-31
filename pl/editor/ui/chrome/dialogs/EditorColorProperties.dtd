@@ -42,7 +42,7 @@
 <!ENTITY defaultColorsRadio.label "Domyślne kolory czytelnika (nie definiuj kolorów strony)">
 <!ENTITY defaultColorsRadio.accessKey "D">
 <!ENTITY defaultColorsRadio.tooltip "Użyj ustawień kolorów odbiorcy">
-<!ENTITY customColorsRadio.label "Definiuj własne ustawienia kolorów strony:">
+<!ENTITY customColorsRadio.label      "Używaj wybranych kolorów">
 <!ENTITY customColorsRadio.accessKey "f">
 <!ENTITY customColorsRadio.tooltip "Te ustawienia kolorów zastępują ustawienia odbiorcy">
 <!ENTITY normalText.label "Zwykły tekst">
