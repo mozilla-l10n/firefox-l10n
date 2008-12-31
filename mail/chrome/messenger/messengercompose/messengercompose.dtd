@@ -185,7 +185,6 @@
 <!ENTITY attachButton.label "Bifoga">
 <!ENTITY spellingButton.label "Stavning">
 <!ENTITY saveButton.label "Spara">
-<!ENTITY throbberItem.title "Aktivitetsindikator">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Skickar meddelandet nu"> 

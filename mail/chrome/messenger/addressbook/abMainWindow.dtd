@@ -161,7 +161,6 @@
 <!ENTITY newIM.accesskey                                "I">
 <!ENTITY deleteButton2.label                            "Ta bort">  
 <!ENTITY deleteButton2.accesskey                        "T">
-<!ENTITY throbberItem.title                             "Aktivitetsindikator">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Skapa en ny adressbokskontakt"> 
