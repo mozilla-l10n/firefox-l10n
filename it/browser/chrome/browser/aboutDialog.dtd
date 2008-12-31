@@ -1,7 +1,7 @@
-<!ENTITY aboutDialog.title "Informazioni su &brandFullName;">
-<!ENTITY copyright "Informazioni">
-<!ENTITY copyright.accesskey "n">
-<!ENTITY copyrightGNOME.accesskey "r">
+<!ENTITY aboutDialog.title "&brandFullName;">
+<!ENTITY copyright "Riconoscimenti">
+<!ENTITY copyright.accesskey "R">
+<!ENTITY copyrightGNOME.accesskey "R">
 <!ENTITY aboutLink "&lt; Informazioni">
 <!ENTITY aboutLink.accesskey "I">
 <!ENTITY aboutVersion "versione">
