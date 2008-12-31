@@ -38,7 +38,7 @@
 <!ENTITY print.label          "Skriv ut …">
 <!ENTITY print.accesskey      "u">
 <!ENTITY pageSetup.label      "Utskriftsformat …">
-<!ENTITY pageSetup.accesskey  "o">
+<!ENTITY pageSetup.accesskey  "m">
 <!ENTITY page.label           "Side:">
 <!ENTITY page.accesskey       "d">
 <!ENTITY of.label             "av">

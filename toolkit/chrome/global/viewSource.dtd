@@ -14,7 +14,7 @@
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Utskriftsformat …">
-<!ENTITY pageSetupCmd.accesskey "o">
+<!ENTITY pageSetupCmd.accesskey "m">
 <!ENTITY printPreviewCmd.label "Førehandsvising">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut …">

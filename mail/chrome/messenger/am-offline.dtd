@@ -14,7 +14,7 @@
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldingar verte permanent sletta">
 <!ENTITY retentionKeepMsg.label "Slett meldingar meir enn">
 <!ENTITY retentionKeepMsg.accesskey "e">
-<!ENTITY retentionKeepAll.label "Ikkje slett nokon meldingar">
+<!ENTITY retentionKeepAll.label "Ikkje slett meldingar">
 <!ENTITY retentionKeepAll.accesskey "I">
 <!ENTITY retentionKeepNew.label "Slett alle med unntak av dei siste">
 <!ENTITY retentionKeepNew.accesskey "u">

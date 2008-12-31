@@ -40,16 +40,16 @@
 <!ENTITY certmgr.tab.mine                     "Dine sertifikat">
 <!ENTITY certmgr.tab.others2                  "Folk">
 <!ENTITY certmgr.tab.websites3                "Tenarar">
-<!ENTITY certmgr.tab.ca                       "Utstedarar">
+<!ENTITY certmgr.tab.ca                       "Utskrivarar">
 <!ENTITY certmgr.tab.orphan2                  "Andre">
 
-<!ENTITY certmgr.ca.builtins                  "Innebygde utstedarar">
-<!ENTITY certmgr.ca.mycas                     "Utstedarar administrerte av deg">
+<!ENTITY certmgr.ca.builtins                  "Innebygde utskrivarar">
+<!ENTITY certmgr.ca.mycas                     "Utskrivarar administrerte av deg">
 
 <!ENTITY certmgr.mine                         "Du har sertifikat frå desse organisasjonane som identifiserer deg:">
 <!ENTITY certmgr.others                       "Du har sertifikat som identifiserer desse personane:">
 <!ENTITY certmgr.websites2                    "Du har sertifikat som identifiserer desse tenarane:">
-<!ENTITY certmgr.cas                          "Du har sertifikat som identifiserer desse sertifikat-utstedarane:">
+<!ENTITY certmgr.cas                          "Du har sertifikat som identifiserer desse sertifikat-utskrivarane:">
 <!ENTITY certmgr.orphans                      "Du har lagra sertifikat som ikkje passar i nokon av dei andre kategoriane:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Generelt">
@@ -109,7 +109,7 @@
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit2.label                  "Rediger …">
 <!ENTITY certmgr.edit2.accesskey              "e">
-<!ENTITY certmgr.editca.label                 "Rediger tiltru til utstedar">
+<!ENTITY certmgr.editca.label                 "Rediger tiltru til utskrivar">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Legg til">
 <!ENTITY certmgr.add.accesskey                "L">

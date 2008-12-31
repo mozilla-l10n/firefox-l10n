@@ -14,7 +14,7 @@
 <!ENTITY organization.label "Organisasjon:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Bruk denne signaturen:">
-<!ENTITY signature.accesskey "k">
+<!ENTITY signature.accesskey "d">
 <!ENTITY edit.label "Endre …">
 <!ENTITY choose.label "Vel …">
 <!ENTITY choose.accesskey "V">
