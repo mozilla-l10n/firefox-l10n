@@ -105,5 +105,6 @@
 <!ENTITY downloadOnLogin.label "Nachrichten jetzt herunterladen">
 <!ENTITY deferStorageDesc.label "Deaktivieren Sie diese Option, um für dieses Konto eine separate Ordner-Hierachie mit eigenem Posteingang zu erhalten.">
 <!ENTITY deferStorage.label "Globaler Posteingang (im Lokalen Konto)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Klicken Sie &quot;Fertig stellen&quot;, um diese Einstellungen zu speichern und den Konten-Assistenten zu beenden.">
 <!ENTITY clickFinish.labelMac "Klicken Sie &quot;Fertig stellen&quot;, um diese Einstellungen zu speichern und den Konten-Assistenten zu beenden.">
