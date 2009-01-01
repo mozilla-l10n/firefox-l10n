@@ -3,4 +3,4 @@
 <!ENTITY date.heading               "Data de envío">
 <!ENTITY noReports.label            "Non se enviou ningún informe de erro.">
 <!ENTITY noConfig.label             "A aplicación non está configurada para mostrar informes de erro. Seleccione a preferencia  <code>breakpad.reportURL</code>.">
-<!ENTITY clearReports.label      "Borrar todos os informes">
+<!ENTITY clearAllReports.label      "Borrar todos os informes">
