@@ -1,10 +1,18 @@
-<!ENTITY  history.label "Historikk">
+<!ENTITY  history.label                 "Historikk">
+
+<!ENTITY  locbar.pre.label              "Når jeg bruker adresselinjen, foreslå:">
+<!ENTITY  locbar.pre.accessKey          "N">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Historikk og bokmerker">
+<!ENTITY  locbar.history.label          "Historikk">
+<!ENTITY  locbar.bookmarks.label        "Bokmerker">
+<!ENTITY  locbar.nothing.label          "Ingenting">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
 
-  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter2.label;
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
 <!ENTITY  rememberDaysBefore.label      "Behold historikk i minst">
 <!ENTITY  rememberDaysBefore.accesskey  "B">
