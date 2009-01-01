@@ -105,5 +105,6 @@
 <!ENTITY downloadOnLogin.label "Télécharger les messages maintenant">
 <!ENTITY deferStorageDesc.label "Décochez cette case pour stocker les messages de ce compte dans une arborescence indépendante. Ce compte sera ainsi considéré comme un compte de niveau supérieur. Dans le cas contraire, il fera partie du compte boîte globale stocké dans les dossiers locaux.">
 <!ENTITY deferStorage.label "Utiliser la boîte globale (stocker les messages dans Dossiers locaux)">
+<!ENTITY deferStorage.accesskey "U">
 <!ENTITY clickFinish.label "Cliquer sur Terminer pour enregistrer ces paramètres et quitter l'assistant de création de compte.">
 <!ENTITY clickFinish.labelMac "Cliquer sur Terminer pour enregistrer ces paramètres et quitter l'assistant de création de compte.">
