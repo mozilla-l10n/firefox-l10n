@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "E-post: (uten emne)">
+<!ENTITY msgComposeWindow.title "Ny melding: (uten emne)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Fil">
@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Adressekort …">
-<!ENTITY newCard.accesskey "k">
+<!ENTITY newContact.label "Adressekort …">
+<!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Legg ved">
 <!ENTITY attachMenu.accesskey "v">
 <!ENTITY attachFileCmd.label "Filer …">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Verktøylinjer">
 <!ENTITY viewToolbarsMenuNew.accesskey "V">
 <!ENTITY showCompositionToolbarCmd.label "Forfatterlinje">
+<!ENTITY showCompositionToolbarCmd.accesskey "F">
 <!ENTITY showFormattingBarCmd.label "Formateringslinje">
 <!ENTITY showFormattingBarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label "Statuslinje">
@@ -184,7 +185,6 @@
 <!ENTITY attachButton.label "Legg ved">
 <!ENTITY spellingButton.label "Staving">
 <!ENTITY saveButton.label "Lagre">
-<!ENTITY throbberItem.title "Aktivitetsindikator">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Send meldingen nå">

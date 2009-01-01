@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "Kallenavn:">
 <!ENTITY NickName.accesskey             "K">
 
-<!ENTITY Internet.box                   "Internett">
 <!ENTITY PrimaryEmail.label             "E-postadresse:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Annen e-post:">
@@ -115,6 +114,13 @@ bilder i HTML-meldinger fra denne kontakten.">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Nettside:">
 <!ENTITY HomeWebPage.accesskey          "N">
+<!ENTITY Birthday.label                 "Bursdag:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
+<!ENTITY Year.emptytext                 "År">
+<!ENTITY Or.value                       "eller">
+<!ENTITY Age.emptytext                  "Alder">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Arbeid">
 <!ENTITY Work.accesskey                 "A">
@@ -141,11 +147,6 @@ bilder i HTML-meldinger fra denne kontakten.">
 
 <!ENTITY Other.tab                      "Annet">
 <!ENTITY Other.accesskey                "A">
-<!ENTITY Birthday.label                 "Bursdag:">
-<!ENTITY Birthday.accesskey             "B">
-<!ENTITY Year.emptytext                 "År">
-<!ENTITY Or.value                       "eller">
-<!ENTITY Age.emptytext                  "Alder">
 <!ENTITY Custom1.label                  "Egendefinert 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Egendefinert 2:">

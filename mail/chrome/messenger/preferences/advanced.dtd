@@ -21,9 +21,7 @@
 <!ENTITY markAsReadDelay.label         "Etter at de er vist i">
 <!ENTITY markAsReadDelay.accesskey     "E">
 <!ENTITY secondsLabel.label            "sekunder">
-<!ENTITY showFolderColumns.label       "Vis ekspanderte kolonner i mappevisning">
-<!ENTITY showFolderColumns.accesskey   "i">
-<!ENTITY openMsgIn.label               "Åpne nye meldinger i:">
+<!ENTITY openMsgIn.label               "Åpne meldinger i:">
 <!ENTITY reuseExpRadio0.label          "Et nytt vindu">
 <!ENTITY reuseExpRadio0.accesskey      "y">
 <!ENTITY reuseExpRadio1.label          "Et eksisterende meldingsvindu">

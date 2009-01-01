@@ -1,4 +1,4 @@
-#filter emptyLines
+ï»¿#filter emptyLines
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
 # your locale code, and link to your translated pages as soon as they're 
@@ -11,8 +11,8 @@
 # link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
 #define bookmarks_addons Last ned bokmerkeutvidelser
 
-#define bookmarks_toolbarfolder Verktøylinje for bokmerker
-#define bookmarks_toolbarfolder_description Legg til bokmerker i denne mappen for å se dem i verktøylinjen for bokmerker
+#define bookmarks_toolbarfolder VerktÃ¸ylinje for bokmerker
+#define bookmarks_toolbarfolder_description Legg til bokmerker i denne mappen for Ã¥ se dem i verktÃ¸ylinjen for bokmerker
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
@@ -30,7 +30,7 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
-#define firefox_help Hjelp og opplæring
+#define firefox_help Hjelp og opplÃ¦ring
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
