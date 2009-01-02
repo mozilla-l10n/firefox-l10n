@@ -12,6 +12,13 @@
 <!ENTITY  noupdatesautodisabled.intro     "Det finns inga uppdateringar tillgängliga. Prova igen senare eller aktivera
                                            den automatiska uppdateringskontrollen i &brandShortName;.">
 
+<!ENTITY  manualUpdate.title              "Kan inte uppdatera">
+<!ENTITY  manualUpdate.desc               "En rekommenderad säkerhets- och stabilitetsuppdatering är tillgänglig, men
+                                           du har inte dom systemrättigheter som krävs för att installera den. Kontakta
+                                           systemadministratören eller försök igen från ett konto som har rättighet att
+                                           installera programvara på den här datorn.">
+<!ENTITY  manualUpdateGetMsg.label        "Du kan alltid hämta den senaste versionen av Firefox från:">
+
 <!ENTITY  incompatibleCheck.title         "Kontrollerar tilläggens kompatibilitet">
 <!ENTITY  incompatibleCheck.label         "Söker efter nyare versioner av dina tillägg…">
 
