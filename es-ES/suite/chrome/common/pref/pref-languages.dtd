@@ -9,6 +9,7 @@
 <!ENTITY languages.customize.add.title.label "Añadir idiomas">
 <!ENTITY languages.customize.available.label "Idiomas:">
 <!ENTITY languages.customize.active.label "Idiomas en orden de preferencia:">
+<!ENTITY languages.customize.active.accesskey "I">
 <!ENTITY languages.customize.others.label "Otros:">
 <!ENTITY languages.customize.others.accesskey "O">
 <!ENTITY languages.customize.Charset.grouplabel "Codif. caracteres predeterminada">
