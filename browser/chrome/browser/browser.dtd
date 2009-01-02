@@ -169,8 +169,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "امسح التاريخ الحالي">
 <!ENTITY clearRecentHistoryCmd.accesskey        "س">
 
-<!ENTITY privateBrowsingCmd.label            "تصفح خاص">
-<!ENTITY privateBrowsingCmd.accesskey        "خ">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "ابدأ التصفح الخاص">
+<!ENTITY privateBrowsingCmd.start.accesskey     "ب">
+<!ENTITY privateBrowsingCmd.stop.label          "أوقف التصفح الخاص">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "ف">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "عرض">
 <!ENTITY viewMenu.accesskey "ع">

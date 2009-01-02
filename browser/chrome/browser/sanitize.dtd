@@ -6,6 +6,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "أزِل ">
+<!ENTITY clearDuration.accesskey      "ز">
 <!ENTITY clearDuration.lastHour       "آخر ساعة">
 <!ENTITY clearDuration.last2Hours     "آخر ساعتين">
 <!ENTITY clearDuration.last4Hours     "آخر أربع ساعات">

@@ -11,6 +11,10 @@
 <!ENTITY noupdatesautodisabled.intro "لا توجد تحديثات متاحة. رجاءً تحقق ثانيةً في وقت لاحق 
 أو فعّل التماس &brandShortName; للتحديث التلقائي.">
 
+<!ENTITY  manualUpdate.title              "تعذر التحديث">
+<!ENTITY  manualUpdate.desc               "هناك تحديث أمن وثبات متاح، ولكنك لا تملك صلاحيات النظام اللازمة لتثبيته. الرجاء التواصل مع مدير نظامك، أو حاول مجددًا باستخدام حساب يملك الصلاحيات لتثبيت البرنامج على هذا الحاسوب.">
+<!ENTITY  manualUpdateGetMsg.label        "يمكنك دائمًا الحصول على أحدث نسخة من &brandShortName; في:">
+
 <!ENTITY  incompatibleCheck.title         "يجري التحقق من توافق الإضافة">
 <!ENTITY  incompatibleCheck.label         "يجري البحث عن إصدارات أحدث من إضافاتك…">
 <!ENTITY  incompatibleList.title          "عُثر على إضافات غير متوافقة">

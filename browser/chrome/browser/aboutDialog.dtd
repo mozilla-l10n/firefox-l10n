@@ -7,6 +7,7 @@
 <!ENTITY aboutVersion "الإصدارة">
 <!ENTITY closeCmdGNOME.label "إغلاق">
 <!ENTITY closeCmdGNOME.accesskey "ل">
-<!ENTITY copyrightInfo "حقوق النشر للمساهمين &#169;1998-2008. جميع الحقوق محفوظة. 
-فَيَرفُكس وشعارات فَيَرفُكس علامات تجارية لمؤسسة موزيلا. 
-جميع الحقوق محفوظة.">
+<!ENTITY copyrightInfo1             "جميع الحقوق محفوظة. المساهمون &#169;1998-2009. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "معلومات الترخيص">
+<!ENTITY copyrightInfo2             ").">
