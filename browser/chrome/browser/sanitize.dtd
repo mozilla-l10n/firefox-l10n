@@ -1,5 +1,5 @@
-<!ENTITY sanitizePrefs.title           "Effacer mes traces">
-<!ENTITY sanitizeDialog2.title         "Supprimer l'historique récent">
+<!ENTITY sanitizePrefs.title          "Effacer mes traces">
+<!ENTITY sanitizeDialog2.title        "Supprimer l'historique récent">
 
 <!ENTITY sanitizeItems.label          "Supprimer immédiatement les éléments suivants :">
 <!ENTITY clearDataSettings2.label     "Lorsque je quitte &brandShortName;, supprimer automatiquement les éléments suivants :">
@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "Supprimer ">
+<!ENTITY clearDuration.accesskey      "u">
 <!ENTITY clearDuration.lastHour       "la dernière heure">
 <!ENTITY clearDuration.last2Hours     "les deux dernières heures">
 <!ENTITY clearDuration.last4Hours     "les quatre dernières heures">
