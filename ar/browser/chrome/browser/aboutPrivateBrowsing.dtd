@@ -1,13 +1,21 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "تصفح خاص">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "تصفح خاص">
+<!ENTITY privatebrowsingpage.title                  "التصفح الخاص">
+<!ENTITY privatebrowsingpage.title.normal                 "هل تريد أن تبدأ التصفح الخاص؟">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "لن يحفظ &brandShortName; أيّ تاريخ لهذه الجلسة.">
-<!ENTITY privatebrowsingpage.longDesc                  "لن يسجّل &brandShortName; الأحداث التي ستجري خلال جلسة التصفح هذه. ذلك يتضمّن تاريخ التصفح، وتاريخ البحث، وتاريخ التحميلات، وتاريخ نماذج الوب، والكعكات، وملفات الإنترنت المؤقتة. ولكنه سيحتفظ بالملفات التي تحمّلها وبالعلامات المرجعية التي تضيفها. ">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; ليس في نمط التصفح الخاص حاليًا.">
+<!ENTITY privatebrowsingpage.description                  "لن يسجّل &brandShortName; الأحداث التي ستجري خلال جلسة التصفح الخاص هذه. ذلك يتضمّن تاريخ التصفح، وتاريخ البحث، وتاريخ التحميلات، وتاريخ نماذج الوب، والكعكات، وملفات الإنترنت المؤقتة. ولكنه سيحتفظ بالملفات التي تحمّلها وبالعلامات المرجعية التي تضيفها. ">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "قد ترغب بأن تبدأ بمسح تاريخك الحالي.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label       "امسح التاريخ الحالي">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey   "س">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "قد تودّ أن تبدأ أيضًا ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "بمسح تاريخك الحالي">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "لإيقاف التصفح الخاص، أزِل التأشير عن أدوات &lt; تصفح خاص.">
-<!ENTITY privatebrowsingpage.footerDesc                "استمتع!">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "ابدأ التصفح الخاص">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "خ">
+
+<!ENTITY privatebrowsingpage.howToStop                 "لإيقاف التصفح الخاص، اختر &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;، أو أغلق &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "لبدء التصفح الخاص، يمكنك أيضًا اختيار &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "رغم أن هذا الحاسوب لن يملك سجلاً لتصفحك الماضي، لا زال مزود خدمة الإنترنت يستطيع تتبع الصفحات التي زرتَها.">
+<!ENTITY privatebrowsingpage.learnMore                 "اعرف المزيد">

@@ -53,12 +53,8 @@
 <!ENTITY alwaysClear.label "امسح دومًا بياناتي الشخصية عند غلق &brandShortName;">
 <!ENTITY alwaysClear.accesskey "ح">
 
-<!ENTITY askBeforeClear.label "اسألني قبل مسح بياناتي الشخصية">
-<!ENTITY askBeforeClear.accesskey "س">
-
 <!ENTITY clearDataSettings.label "الإعدادات…">
 <!ENTITY clearDataSettings.accesskey "ع">
 
 <!ENTITY clearDataNow.label "امسح الآن…">
-<!ENTITY clearDataNow.label2 "امسح الآن">
 <!ENTITY clearDataNow.accesskey "ن">
