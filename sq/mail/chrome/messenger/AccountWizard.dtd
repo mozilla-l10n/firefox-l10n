@@ -110,5 +110,6 @@
 <!ENTITY downloadOnLogin.label "Shkarko mesazhe tani">
 <!ENTITY deferStorageDesc.label "Hiqini shenjën kutizës nëse doni të ruani postën për këtë llogari te drejtoria e vet. Kjo do të bëjë që kjo llogari të duket si llogaria më e sipërme. Përndryshe, do të jetë pjesë e llogarisë së Përgjithshme Të marrë te Dosje Vendore">
 <!ENTITY deferStorage.label "Përdor Të marrë të Përgjithshëm (ruaj postë në Dosje Vendore)">
+<!ENTITY deferStorage.accesskey "P">
 <!ENTITY clickFinish.label "Klikoni Përfundoje për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">
 <!ENTITY clickFinish.labelMac "Klikoni Përfundoje për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">

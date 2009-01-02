@@ -63,3 +63,8 @@
 <!ENTITY  finishedBackgroundPage.text     "U shkarkua dhe është gati për instalim një përditësim sigurie dhe qëndrueshmërie për &brandShortName;-in .">
 <!ENTITY  finishedBackground.name         "Përditësim:">
 <!ENTITY  finishedPage.text               "Përditësimi do të instalohet herës tjetër kur të niset &brandShortName;-i. Mund ta rinisni  &brandShortName;-in tani, ose të vazhdoni të punoni e ta rinisni më vonë.">
+
+<!ENTITY  manualUpdate.title              "I pazoti për Përditësim">
+<!ENTITY  manualUpdate.desc               "Mund të kihet një përditësim sigurie dhe qëndrueshmërie, por nuk keni lejet e domosdoshme në sistem për instalimin. Ju lutem lidhuni me përgjegjësin e sistemit, ose riprovoni prej një llogarie e cila ka leje për instalim programesh në këtë kompjuter.">
+<!ENTITY  manualUpdateGetMsg.label        "Mund të merrni, kur të doni, versionin më të fundit të &brandShortName;-it nga:">
+
