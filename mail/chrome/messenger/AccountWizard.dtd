@@ -137,5 +137,6 @@
 <!ENTITY downloadOnLogin.label "Hämta meddelanden nu">
 <!ENTITY deferStorageDesc.label "Avmarkera denna kryssruta för att lagra e-post för det här kontot i en egen katalog. Det gör att kontot kommer att visas som ett eget konto i kontolistan. Annars kommer det att vara en del av en global Inkorg i kontot Lokala mappar.">
 <!ENTITY deferStorage.label "Använd en global Inkorg (lagra e-posten i Lokala mappar)">
+<!ENTITY deferStorage.accesskey "A">
 <!ENTITY clickFinish.label "Klicka på Slutför för att spara kontoinställningarna och avsluta kontoguiden.">
 <!ENTITY clickFinish.labelMac "Klicka på Klar för att spara kontoinställningarna och avsluta kontoguiden.">
