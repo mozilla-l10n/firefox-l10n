@@ -115,7 +115,6 @@
 <!ENTITY newIM.accesskey "I">
 <!ENTITY deleteButton2.label "Eliminar">
 <!ENTITY deleteButton2.accesskey "l">
-<!ENTITY throbberItem.title "Indicador de actividad">
 <!ENTITY newContactButton.tooltip "Crear un nuevo contacto de la libreta de direcciones">
 <!ENTITY newlistButton.tooltip "Crear nueva lista">
 <!ENTITY editButton2.tooltip "Editar el elemento seleccionado">
