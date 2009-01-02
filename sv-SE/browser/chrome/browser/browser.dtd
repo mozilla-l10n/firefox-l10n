@@ -197,10 +197,14 @@
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
 <!ENTITY clearRecentHistoryCmd.label            "Rensa ut tidigare historik">
-<!ENTITY clearRecentHistoryCmd.accesskey        "a">
+<!ENTITY clearRecentHistoryCmd.accesskey        "R">
 
-<!ENTITY privateBrowsingCmd.label            "Privat surfning">
-<!ENTITY privateBrowsingCmd.accesskey        "P">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Starta privat surfning">
+<!ENTITY privateBrowsingCmd.start.accesskey     "a">
+<!ENTITY privateBrowsingCmd.stop.label          "Avsluta privat surfning">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "A">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Visa"> 
 <!ENTITY viewMenu.accesskey       "s"> 
