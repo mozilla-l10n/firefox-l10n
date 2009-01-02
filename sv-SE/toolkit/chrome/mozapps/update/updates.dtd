@@ -17,7 +17,7 @@
                                            du har inte dom systemrättigheter som krävs för att installera den. Kontakta
                                            systemadministratören eller försök igen från ett konto som har rättighet att
                                            installera programvara på den här datorn.">
-<!ENTITY  manualUpdateGetMsg.label        "Du kan alltid hämta den senaste versionen av Firefox från:">
+<!ENTITY  manualUpdateGetMsg.label        "Du kan alltid hämta den senaste versionen av &brandShortName; från:">
 
 <!ENTITY  incompatibleCheck.title         "Kontrollerar tilläggens kompatibilitet">
 <!ENTITY  incompatibleCheck.label         "Söker efter nyare versioner av dina tillägg…">
