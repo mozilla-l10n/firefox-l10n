@@ -139,8 +139,11 @@
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistoryCmd.label "Elimina cronologia recente">
 <!ENTITY clearRecentHistoryCmd.accesskey "E">
-<!ENTITY privateBrowsingCmd.label "Navigazione anonima">
-<!ENTITY privateBrowsingCmd.accesskey "N">
+<!ENTITY privateBrowsingCmd.start.label "Avvia Navigazione anonima">
+<!ENTITY privateBrowsingCmd.start.accesskey "N">
+<!ENTITY privateBrowsingCmd.stop.label "Interrompi Navigazione anonima">
+<!ENTITY privateBrowsingCmd.stop.accesskey "N">
+<!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barre degli strumenti">

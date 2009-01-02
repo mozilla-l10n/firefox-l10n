@@ -6,6 +6,9 @@
 <!ENTITY noupdatesfound.title "Nessun aggiornamento trovato">
 <!ENTITY noupdatesautoenabled.intro "Non sono disponibili nuovi aggiornamenti. &brandShortName; controllerà periodicamente la presenza di aggiornamenti.">
 <!ENTITY noupdatesautodisabled.intro "Non sono disponibili nuovi aggiornamenti. Ricontrollare più tardi o attivare il controllo automatico degli aggiornamenti di &brandShortName;.">
+<!ENTITY manualUpdate.title "Impossibile aggiornare">
+<!ENTITY manualUpdate.desc "È disponibile un aggiornamento di sicurezza e stabilità ma non si possiedono i permessi richiesti per l'installazione. Contattare l'amministratore di sistema o riprovare utilizzando un account con i permessi necessari per installare software su questo computer.">
+<!ENTITY manualUpdateGetMsg.label "L'ultima versione di Firefox è sempre disponibile su:">
 <!ENTITY incompatibleCheck.title "Verifica compatibilità componenti aggiuntivi">
 <!ENTITY incompatibleCheck.label "Ricerca in corso di nuove versioni dei componenti aggiuntivi…">
 <!ENTITY clickHere.label "Visualizza altre informazioni su questo aggiornamento">

@@ -1,9 +1,14 @@
-<!ENTITY privatebrowsingpage.tabtitle "Navigazione anonima">
-<!ENTITY privatebrowsingpage.pagetitle "Navigazione anonima">
+<!ENTITY privatebrowsingpage.title "Navigazione anonima">
+<!ENTITY privatebrowsingpage.title.normal "Avviare la Navigazione anonima?">
 <!ENTITY privatebrowsingpage.issueDesc "&brandShortName; non conserverà alcuna cronologia per questa sessione.">
-<!ENTITY privatebrowsingpage.longDesc "In questa sessione di &brandShortName; non verrà conservata alcuna cronologia relativa a navigazione, ricerche, download, compilazione di moduli, cookie e file temporanei. Tuttavia verranno mantenuti eventuali file scaricati o segnalibri creati.">
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Probabilmente si desidera svuotare anche la cronologia recente.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label "Svuota cronologia recente…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "v">
-<!ENTITY privatebrowsingpage.howToStopDesc "Per abbandonare la Navigazione anonima, togliere la spunta alla voce Strumenti &gt; Navigazione anonima.">
-<!ENTITY privatebrowsingpage.footerDesc "Buon divertimento">
+<!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; attualmente non è in modalità Navigazione anonima.">
+<!ENTITY privatebrowsingpage.description "Durante una sessione di Navigazione anonima di &brandShortName; non verrà conservata alcuna cronologia relativa a navigazione, ricerche, download, compilazione di moduli, cookie e file temporanei. Tuttavia verranno mantenuti eventuali file scaricati o segnalibri creati.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "Probabilmente si desidera anche ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "svuotare la cronologia recente">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Avvia Navigazione anonima">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "N">
+<!ENTITY privatebrowsingpage.howToStop "Per abbandonare la Navigazione anonima, togliere la spunta alla voce &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; oppure chiudere &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart "È possibile avviare la Navigazione anonima anche selezionando il menu &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.moreInfo "Anche se questo computer non conserverà alcuna informazione relativa alla cronologia di navigazione, il fornitore di servizi internet in uso sarà comunque in grado di mantenere un registro delle pagina visitate.">
+<!ENTITY privatebrowsingpage.learnMore "Ulteriori informazioni">

@@ -3,6 +3,7 @@
 <!ENTITY sanitizeItems.label "Cancella adesso i seguenti elementi:">
 <!ENTITY clearDataSettings2.label "Alla chiusura di &brandShortName; eliminare automaticamente:">
 <!ENTITY clearDuration.label "Rimuovi">
+<!ENTITY clearDuration.accesskey "R">
 <!ENTITY clearDuration.lastHour "ultima ora">
 <!ENTITY clearDuration.last2Hours "ultime 2 ore">
 <!ENTITY clearDuration.last4Hours "ultime 4 ore">
