@@ -104,5 +104,6 @@
 <!ENTITY downloadOnLogin.label "Télécharger les messages maintenant">
 <!ENTITY deferStorageDesc.label "Cocher cette case pour stocker les messages de ce compte dans les dossiers locaux globaux. Dans le cas contraire, ce compte sera ainsi considéré comme un compte de niveau supérieur.">
 <!ENTITY deferStorage.label "Utiliser le dossier des courriers entrants global (stocke les messages dans les dossiers locaux)">
+<!ENTITY deferStorage.accesskey "U">
 <!ENTITY clickFinish.label "Cliquez sur Terminer pour enregistrer ces paramètres et quitter l'assistant.">
 <!ENTITY clickFinish.labelMac "Cliquez sur Terminer pour enregistrer ces paramètres et quitter l'assistant.">
