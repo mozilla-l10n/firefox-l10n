@@ -18,3 +18,7 @@
 <!ENTITY allowHideStatusBar.label        "Skjule statuslinjen">
 
 <!ENTITY enablePlugin.label              "Tillat programtillegg for">
+
+<!ENTITY whenPluginsRequired.label       "Når andre programtillegg er påkrevd">
+<!ENTITY displayNotification.label       "Vis en varslingslinje øverst i innholdsområdet">
+<!ENTITY displayNotification.accesskey   "V">
