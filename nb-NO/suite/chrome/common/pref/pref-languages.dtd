@@ -1,6 +1,6 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY  languages.customize.prefLangDescript          "Noen ganger er nettsider tilgjengelige i flere språk. Velg hvilke språk du vil vise.">
+<!ENTITY languages.customize.prefLangDescript           "Noen ganger er nettsider tilgjengelige i flere språk. Velg hvilke språk du vil vise.">
 <!ENTITY languages.customize.title                      "Språk">
 <!ENTITY langtitle.label                                "Språk for nettsider">
 <!ENTITY languages.customize.prefAddLangDescript        "Velg hvilket språk du vil legge til.">
@@ -11,6 +11,7 @@
 <!ENTITY languages.customize.add.title.label            "Legg til språk">
 <!ENTITY languages.customize.available.label            "Språk:">
 <!ENTITY languages.customize.active.label               "Språk i foretrukket rekkefølge:">
+<!ENTITY languages.customize.active.accesskey           "S">
 <!ENTITY languages.customize.others.label               "Andre:">
 <!ENTITY languages.customize.others.accesskey           "A">
 <!ENTITY languages.customize.Charset.grouplabel         "Tegnkoding">

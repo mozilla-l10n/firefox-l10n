@@ -41,9 +41,9 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newCard.label                                  "Adressekort …">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newCard.accesskey                              "A">  
+<!ENTITY newContact.label                               "Adressekort …">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "A">
 <!ENTITY newListCmd.label                               "E-postliste …">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "E">  
@@ -53,12 +53,12 @@
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newIM.label                                    "IM">
-<!ENTITY printCardViewCmd.label                         "Skriv ut kort …">
-<!ENTITY printCardViewCmd.accesskey                     "k">
-<!ENTITY printPreviewCardViewCmd.label                  "Forhåndsvisning av kort">
-<!ENTITY printPreviewCardViewCmd.accesskey              "v">
+<!ENTITY printContactViewCmd.label                      "Skriv ut kort …">
+<!ENTITY printContactViewCmd.accesskey                  "k">
+<!ENTITY printPreviewContactViewCmd.label               "Forhåndsvisning av kort">
+<!ENTITY printPreviewContactViewCmd.accesskey           "v">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Skriv ut adressebok …"> 
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Forhåndsvisning av adressebok"> 
@@ -68,8 +68,8 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Slett adressebok">  
-<!ENTITY deleteCardCmd.label                            "Slett kort">  
-<!ENTITY deleteCardsCmd.label                           "Slett valgte kort">  
+<!ENTITY deleteContactCmd.label                         "Slett kort">  
+<!ENTITY deleteContactsCmd.label                        "Slett valgte kort">  
 <!ENTITY deleteListCmd.label                            "Slett liste">
 <!ENTITY deleteListsCmd.label                           "Slett valgte lister">
 <!ENTITY deleteItemsCmd.label                           "Slett valgte elementer">
@@ -105,27 +105,27 @@
 <!ENTITY allowOnlineCheck.accesskey                     "S">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newcardButton.label                            "Nytt kort">  
-<!ENTITY newcardButton.accesskey                        "N">  
+<!ENTITY newContactButton.label                         "Nytt kort">  
+<!ENTITY newContactButton.accesskey                     "N">  
 <!ENTITY newlistButton.label                            "Ny liste">  
 <!ENTITY newlistButton.accesskey                        "L">  
-<!ENTITY editButton.label                               "Egenskaper">  
-<!ENTITY editButton.accesskey                           "P">  
+<!ENTITY editItemButton.label                           "Egenskaper">  
+<!ENTITY editItemButton.accesskey                       "P">  
 <!ENTITY newmsgButton.label                             "Skriv ny">  
 <!ENTITY newmsgButton.accesskey                         "n">  
-<!ENTITY deleteButton.label                             "Slett">  
-<!ENTITY deleteButton.accesskey                         "S">  
+<!ENTITY deleteItemButton.label                         "Slett">  
+<!ENTITY deleteItemButton.accesskey                     "S">  
 <!ENTITY newimButton.label                              "Lynmelding">  
 <!ENTITY newimButton.accesskey                          "I">  
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adressebok-verktøylinje">
-<!ENTITY newcardButton.tooltip                          "Opprett et nytt adressekort"> 
+<!ENTITY newContactButton.tooltip                       "Opprett et nytt adressekort"> 
 <!ENTITY newlistButton.tooltip                          "Opprett en ny liste"> 
-<!ENTITY editButton.tooltip                             "Rediger valgt kort"> 
+<!ENTITY editItemButton.tooltip                         "Rediger valgt element"> 
 <!ENTITY newmsgButton.tooltip                           "Send en e-post"> 
 <!ENTITY newIM.tooltip                                  "Send en melding eller chat"> 
-<!ENTITY deleteButton.tooltip                           "Slett valgt kort eller adressebok"> 
+<!ENTITY deleteItemButton.tooltip                       "Slett valgt element"> 
 <!ENTITY throbber.tooltip                               "Gå til hjemmesiden til &brandShortName;">
 <!ENTITY advancedButton.tooltip                         "Avansert adressesøk">
 

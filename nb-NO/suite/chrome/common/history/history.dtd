@@ -1,35 +1,53 @@
-<!-- extracted from ./history.xul -->
+<!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY menuBar.tooltip            "Menylinje">
-<!ENTITY fileMenu.label             "Fil">
-<!ENTITY closeCmd.label             "Lukk">
-<!ENTITY editMenu.label             "Rediger"> 
-<!ENTITY undoCmd.label              "Angre">
-<!ENTITY redoCmd.label              "Gjenta">
-<!ENTITY cutCmd.label               "Klipp ut">
-<!ENTITY copyCmd.label              "Kopier">
-<!ENTITY pasteCmd.label             "Lim inn">
-<!ENTITY deleteCmd.label            "Slett">
-<!ENTITY deleteHostnameCmd.accesskey "S">
-<!ENTITY deleteDomainCmd.accesskey  "d">
-<!ENTITY selAllCmd.label            "Velg alle">
-<!ENTITY findHisCmd.label           "Søk i historikk ...">
-<!ENTITY findHisCmd.commandkey      "f">
-<!ENTITY findHisCmd.accesskey       "S">
-<!ENTITY groupBy.label              "Grupper etter">
-<!ENTITY groupBy.accesskey          "G">
-<!ENTITY groupByDay.label           "Dag">
-<!ENTITY groupByDay.accesskey       "D">
-<!ENTITY groupBySite.label          "Nettsted">
-<!ENTITY groupBySite.accesskey      "N">
-<!ENTITY groupByNone.label          "Ingen">
-<!ENTITY groupByNone.accesskey      "I">
-<!ENTITY historyWindowTitle.label   "Historikk">
-<!ENTITY menuitem.view.unsorted.label "Usortert">
-<!ENTITY menuitem.view.unsorted.accesskey "U">
-<!ENTITY sortAscending.label         "Stigende">
-<!ENTITY sortAscending.accesskey     "S">
-<!ENTITY sortDescending.label        "Synkende">
-<!ENTITY sortDescending.accesskey    "n">
-<!ENTITY menuitem.view.show_columns.label "Vis kolonner">
-<!ENTITY menuitem.view.show_columns.accesskey "V">
+<!ENTITY historyWindowTitle.label       "Historikk">
+<!ENTITY menuBar.tooltip                "Menylinje">
+<!ENTITY searchBar.tooltip              "Søkelinje">
+
+<!ENTITY search.emptytext               "Søkehistorikk">
+<!ENTITY search.key                     "f">
+<!ENTITY view.label                     "Vis">
+
+<!ENTITY view.columns.label             "Vis kolonner">
+<!ENTITY view.columns.accesskey         "V">
+<!ENTITY view.sortBy.label              "Sorter etter">
+<!ENTITY view.sortBy.accesskey          "S">
+<!ENTITY view.groupBy.label             "Grupper etter">
+<!ENTITY view.groupBy.accesskey         "G">
+
+<!ENTITY view.unsorted.label            "Usortert">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "Stigende">
+<!ENTITY view.sortAscending.accesskey   "S">
+<!ENTITY view.sortDescending.label      "Synkende">
+<!ENTITY view.sortDescending.accesskey  "n">
+
+<!ENTITY view.groupNone.label           "Ingen">
+<!ENTITY view.groupNone.accesskey       "I">
+<!ENTITY view.groupDay.label            "Dag">
+<!ENTITY view.groupDay.accesskey        "D">
+<!ENTITY view.groupSite.label           "Nettsted">
+<!ENTITY view.groupSite.accesskey       "N">
+<!ENTITY view.groupDayAndSite.label     "Dag og nettsted">
+<!ENTITY view.groupDayAndSite.accesskey "a">
+
+<!ENTITY cmd.open.label                 "Åpne">
+<!ENTITY cmd.open.accesskey             "Å">
+<!ENTITY cmd.open_window.label          "Åpne lenke i nytt vindu">
+<!ENTITY cmd.open_window.accesskey      "Å">
+<!ENTITY cmd.open_tab.label             "Åpne lenke i ny fane">
+<!ENTITY cmd.open_tab.accesskey         "n">
+<!ENTITY cmd.open_all_in_tabs.label     "Åpne alle i faner">
+<!ENTITY cmd.open_all_in_tabs.accesskey "f">
+
+<!ENTITY bookmarkCmd.label              "Legg til bokmerke for lenke …">
+<!ENTITY bookmarkCmd.accesskey          "L">
+
+<!ENTITY col.title.label                "Tittel">
+<!ENTITY col.title.accesskey            "T">
+<!ENTITY col.url.label                  "Adresse">
+<!ENTITY col.url.accesskey              "A">
+<!ENTITY col.lastvisit.label            "Sist besøkt">
+<!ENTITY col.lastvisit.accesskey        "S">
+<!ENTITY col.visitcount.label           "Besøksantall">
+<!ENTITY col.visitcount.accesskey       "B">

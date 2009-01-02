@@ -20,3 +20,9 @@
 <!ENTITY signMessage.label "Digitalt signer meldinger (som forvalg)">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Bruk dette sertifikatet for å digitalt signere meldinger som du sender:">
+
+<!ENTITY certificates.label "Sertifikater">
+<!ENTITY manageCerts.label "Behandle sertifikater …">
+<!ENTITY manageCerts.accesskey "B">
+<!ENTITY manageDevices.label "Behandle sikkerhetsenheter …">
+<!ENTITY manageDevices.accesskey "e">

@@ -1,6 +1,7 @@
 <!ENTITY pref.navigator.title           "Nettleser">
 
-<!ENTITY navRadio                       "Vis ved">
+<!ENTITY navRadio.label                 "Vis ved">
+<!ENTITY navRadio.accesskey             "V">
 <!ENTITY navStartPageMenu.label         "Oppstart">
 <!ENTITY newWinPageMenu.label           "Nytt vindu">
 <!ENTITY newTabPageMenu.label           "Ny fane">

@@ -138,6 +138,8 @@
 <!ENTITY redoMoveMsgCmd.label "Gjenta flytting av melding">
 <!ENTITY undoCopyMsgCmd.label "Angre kopiering av melding">
 <!ENTITY redoCopyMsgCmd.label "Gjenta kopiering av melding">
+<!ENTITY undoMarkAllCmd.label "Angre merk alle som lest">
+<!ENTITY redoMarkAllCmd.label "Gjenta merk alle som lest">
 <!ENTITY undoDefaultCmd.label "Angre">
 <!ENTITY redoDefaultCmd.label "Gjenta">
 

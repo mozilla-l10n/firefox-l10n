@@ -116,9 +116,11 @@ bilder i HTML-meldinger fra denne kontakten.">
 <!ENTITY HomeWebPage.accesskey          "N">
 <!ENTITY Birthday.label                 "Bursdag:">
 <!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "År">
 <!ENTITY Or.value                       "eller">
 <!ENTITY Age.emptytext                  "Alder">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Arbeid">
 <!ENTITY Work.accesskey                 "A">

@@ -37,7 +37,6 @@
 
 <!-- extracted from ./local-panels.rdf -->
 
-<!ENTITY sidebar.whats-related.label  "Hva er relatert?">
 <!ENTITY sidebar.search.label         "Søk">
 <!ENTITY sidebar.client-bookmarks.label     "Bokmerker">
 <!ENTITY sidebar.client-history.label       "Historikk">
