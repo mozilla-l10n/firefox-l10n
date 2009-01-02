@@ -105,5 +105,6 @@
 <!ENTITY downloadOnLogin.label "Last ned meldinger nå">
 <!ENTITY deferStorageDesc.label "Fjern avkryssing fra denne boksen for å lagre e-post i egen mappe. Det vil gjøre at denne kontoen blir synlig i mappelisten. Dersom den er avkrysset vil kontoen bli en del av kontoen «Lokale mapper».">
 <!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i kontoen «Lokale mapper»)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Trykk Fullfør for å opprette kontoen og lukke veiviseren.">
 <!ENTITY clickFinish.labelMac "Trykk Fullfør for å opprette kontoen og lukke veiviseren.">

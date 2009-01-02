@@ -52,12 +52,8 @@
 <!ENTITY  alwaysClear.label              "Alltid slett private data når jeg lukker &brandShortName;">
 <!ENTITY  alwaysClear.accesskey          "A">
 
-<!ENTITY  askBeforeClear.label           "Spør meg før private data slettes">
-<!ENTITY  askBeforeClear.accesskey       "ø">
-
 <!ENTITY  clearDataSettings.label        "Innstillinger …">
 <!ENTITY  clearDataSettings.accesskey    "I">
 
 <!ENTITY  clearDataNow.label             "Slett nå …">
-<!ENTITY  clearDataNow.label2            "Slett nå">
 <!ENTITY  clearDataNow.accesskey         "n">
