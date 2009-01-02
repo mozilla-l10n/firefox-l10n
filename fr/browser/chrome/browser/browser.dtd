@@ -168,8 +168,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "Supprimer l'historique récent">
 <!ENTITY clearRecentHistoryCmd.accesskey        "h">
 
-<!ENTITY privateBrowsingCmd.label            "Navigation privée">
-<!ENTITY privateBrowsingCmd.accesskey        "p">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Commencer la navigation privée">
+<!ENTITY privateBrowsingCmd.start.accesskey     "C">
+<!ENTITY privateBrowsingCmd.stop.label          "Arrêter la navigation privée">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "A">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Affichage">
 <!ENTITY viewMenu.accesskey       "A">

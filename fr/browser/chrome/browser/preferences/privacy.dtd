@@ -51,12 +51,8 @@
 <!ENTITY  alwaysClear.label              "Toujours effacer mes informations personnelles à la fermeture de &brandShortName;">
 <!ENTITY  alwaysClear.accesskey          "T">
 
-<!ENTITY  askBeforeClear.label           "Demander avant d'effacer mes traces">
-<!ENTITY  askBeforeClear.accesskey       "D">
-
 <!ENTITY  clearDataSettings.label        "Paramètres…">
 <!ENTITY  clearDataSettings.accesskey    "P">
 
 <!ENTITY  clearDataNow.label             "Effacer mes traces maintenant…">
-<!ENTITY  clearDataNow.label2            "Effacer mes traces maintenant">
 <!ENTITY  clearDataNow.accesskey         "m">
