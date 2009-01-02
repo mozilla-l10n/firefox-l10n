@@ -61,5 +61,6 @@
 <!ENTITY downloadOnLogin.label       "Pobierz wiadomości">
 <!ENTITY deferStorageDesc.label      "Odznaczenie poniższego pola wyboru spowoduje, że poczta dla tego konta będzie przechowywana w swoim własnym katalogu. Konto to będzie wtedy widoczne jako konto najwyższego poziomu. W przeciwnym wypadku konto to stanie się częścią globalnej skrzynki odbiorczej.">
 <!ENTITY deferStorage.label          "Używaj globalnej skrzynki odbiorczej (konto Lokalne foldery będzie wykorzystywane do przechowywania poczty)">
+<!ENTITY deferStorage.accesskey      "U">
 <!ENTITY clickFinish.label           'Kliknij przycisk "Zakończ", aby zapamiętać wprowadzone dane i zakończyć konfigurację konta.'>
 <!ENTITY clickFinish.labelMac        'Kliknij przycisk "Zakończ", aby zapamiętać wprowadzone dane i zakończyć konfigurację konta.'>
