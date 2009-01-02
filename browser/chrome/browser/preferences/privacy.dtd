@@ -52,12 +52,8 @@
 <!ENTITY  alwaysClear.label              "Rensa alltid ut känslig data när &brandShortName; avslutas">
 <!ENTITY  alwaysClear.accesskey          "R">
 
-<!ENTITY  askBeforeClear.label           "Fråga innan rensning av känslig data">
-<!ENTITY  askBeforeClear.accesskey       "F">
-
 <!ENTITY  clearDataSettings.label        "Inställningar…">
 <!ENTITY  clearDataSettings.accesskey    "ä">
 
 <!ENTITY  clearDataNow.label             "Rensa nu…">
-<!ENTITY  clearDataNow.label2            "Rensa nu">
 <!ENTITY  clearDataNow.accesskey         "n">
