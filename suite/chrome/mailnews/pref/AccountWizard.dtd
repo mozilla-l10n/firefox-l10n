@@ -105,5 +105,6 @@
 <!ENTITY downloadOnLogin.label "Berichten nu downloaden">
 <!ENTITY deferStorageDesc.label "Vink deze optie uit om e-mail voor deze account op te slaan in zijn eigen map. Dat zal van deze account een top-levelaccount maken. Anders zal hij deel uitmaken van het globale Postvak IN onder Lokale mappen.">
 <!ENTITY deferStorage.label "Globaal Postvak IN gebruiken (e-mail opslaan onder Lokale mappen)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Klik op Voltooien om de instellingen te bewaren en de Accountwizard af te sluiten.">
 <!ENTITY clickFinish.labelMac "Klik op Klaar om de instellingen te bewaren en de Accountwizard af te sluiten.">
