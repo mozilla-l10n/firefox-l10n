@@ -1,6 +1,7 @@
 <!ENTITY pref.navigator.title           "Browser">
 
-<!ENTITY navRadio                       "Anzeigen">
+<!ENTITY navRadio.label                 "Anzeigen">
+<!ENTITY navRadio.accesskey             "n">
 <!ENTITY navStartPageMenu.label         "Beim Browser-Start">
 <!ENTITY newWinPageMenu.label           "In Neuem Fenster">
 <!ENTITY newTabPageMenu.label           "In Neuem Tab">

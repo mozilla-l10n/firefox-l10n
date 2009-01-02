@@ -105,5 +105,6 @@
 <!ENTITY downloadOnLogin.label "Nachrichten jetzt herunterladen">
 <!ENTITY deferStorageDesc.label "Wählen Sie dieses Kästchen, um Mail für diesen Account im globalen Posteingang der lokalen Ordner zu speichern. Andernfalls scheint dieser Account auf oberster Ebene auf und seine Mails werden in seinem eigenen Verzeichnis gespeichert.">
 <!ENTITY deferStorage.label "Globalen Posteingang verwenden (Mail in Lokalen Ordnern speichern)">
+<!ENTITY deferStorage.accesskey "W">
 <!ENTITY clickFinish.label "Klicken Sie Fertigstellen, um diese Einstellungen zu speichern und den Account-Assistenten zu beenden.">
 <!ENTITY clickFinish.labelMac "Klicken Sie &quot;Fertigstellen&quot;, um diese Einstellungen zu speichern und den Account-Assistent zu beenden.">
