@@ -192,7 +192,7 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "جستجو در چوب‌الف‌ها و تاریخچه">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.accesskey             "م">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
