@@ -10,6 +10,11 @@
 <!ENTITY  noupdatesautoenabled.intro      "No hi ha cap actualització disponible. El &brandShortName; comprovarà periòdicament si hi ha noves actualitzacions.">
 <!ENTITY  noupdatesautodisabled.intro     "No hi ha cap actualització disponible. Torneu-ho a provar més endavant o habiliteu la comprovació d'actualitzacions automàtica del &brandShortName;.">
 
+<!ENTITY  manualUpdate.title              "No es pot actualitzar">
+<!ENTITY  manualUpdate.desc               "Hi ha una actualització de seguretat i estabilitat recomanada disponible, però no teniu els permisos necessaris per a instaŀlar-la. Contacteu amb el vostre administrador de sistemes o torneu a provar-ho des d'un compte que tingui permisos per a instaŀlar programari en aquest ordinador.">
+<!ENTITY  manualUpdateGetMsg.label        "Sempre podeu aconseguir la darrera versió del &brandShortName; a:">
+
+
 <!ENTITY  incompatibleCheck.title         "S'està comprovant la compatibilitat dels complements">
 <!ENTITY  incompatibleCheck.label         "S'estan cercant versions més noves dels vostres complements…">
 

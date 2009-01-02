@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"c">
 
-<!ENTITY closeWindow.label "Tanca la finestra">
-
 <!ENTITY quitApplicationCmd.label	"Surt"> 
 <!ENTITY quitApplicationCmd.key		"Q"> 
 <!ENTITY quitApplicationCmd.accesskey	"u">
