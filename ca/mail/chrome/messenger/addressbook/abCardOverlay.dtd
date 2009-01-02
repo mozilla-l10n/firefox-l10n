@@ -69,7 +69,6 @@
 <!ENTITY NickName.label "Sobrenom:">
 <!ENTITY NickName.accesskey "S">
 
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "Adreça electrònica:">
 <!ENTITY PrimaryEmail.accesskey "e">
 <!ENTITY SecondEmail.label "Adreça electrònica addicional:">
@@ -146,9 +145,12 @@ incrustades en els missatges HTML d'aquest contacte.">
 <!ENTITY Other.accesskey                "A">
 <!ENTITY Birthday.label                 "Aniversari:">
 <!ENTITY Birthday.accesskey             "v">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Any">
 <!ENTITY Or.value                       "o">
 <!ENTITY Age.emptytext                  "Edat">
+<!ENTITY YearsOld.label                 "">
+
 <!ENTITY Custom1.label "Personalitzat 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalitzat 2:">
