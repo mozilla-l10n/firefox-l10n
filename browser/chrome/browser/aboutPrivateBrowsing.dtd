@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Privat nettlesing">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "Privat nettlesing">
+<!ENTITY privatebrowsingpage.title                 "Privat nettlesing">
+<!ENTITY privatebrowsingpage.title.normal          "Vil du starte privat nettlesing?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; vil ikke loggføre historikk for denne programøkten.">
-<!ENTITY privatebrowsingpage.longDesc                  "Ingen historikk loggføres av &brandShortName; i denne nettleserøkten.  Dette gjelder nettleserhistorikk, søkehistorikk, nedlastingshistorikk, skjemaer, infokapsler og midlertidige Internett-filer. Merk at filer du laster ned og bokmerker du lager vil beholdes.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; er akkurat nå ikke i privat nettlesing-modus.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Du kan også starte med å fjerne historikk som er opprettet nylig.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Slett nylig historikk">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "e">
+<!ENTITY privatebrowsingpage.description               "I en privat nettlesing-økt vil ikke &brandShortName; loggføre noen nettleserhistorikk, søkehistorikk, nedlastingshistorikk, skjemahistorikk, infokapsler eller midlertidige Internett-filer. Merk at filer du laster ned og bokmerker du lager vil beholdes.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "For å avslutte privat nettlesing, fjern avkryssingen fra Verktøy &gt; Privat nettlesing.">
-<!ENTITY privatebrowsingpage.footerDesc                " ">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Du kan også starte med å ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "fjerne historikk som er opprettet nylig">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start privat nettlesing">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!ENTITY privatebrowsingpage.howToStop                 "For å avslutte privat nettlesing, velg &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller avslutt &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "For å starte privat nettlesing kan du også velge &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Selv om denne datamaskinen ikke vil ha spor fra nettleserhistorikken, kan det hende at Internett-leverandøren eller arbeidsgiveren likevel kan spore nettsider som du besøker.">
+<!ENTITY privatebrowsingpage.learnMore                 "Les mer">
