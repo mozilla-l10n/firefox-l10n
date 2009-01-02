@@ -12,6 +12,13 @@
 <!ENTITY  noupdatesautodisabled.intro     "Er zijn geen updates beschikbaar. Controleer later nog eens of activeer
                                            de automatische updatecontrole van &brandShortName;.">
 
+<!ENTITY  manualUpdate.title              "Update niet mogelijk">
+<!ENTITY  manualUpdate.desc               "Een aanbevolen veiligheids- en stabiliteitsupdate is beschikbaar maar u heeft
+                                           niet de systeemrechten om het te installeren. Neem contact op met uw
+                                           systeembeheerder of probeer het nog een keer met een account die de rechten
+                                           heeft om software op deze computer te installeren.">
+<!ENTITY  manualUpdateGetMsg.label        "U kunt de laatste versie van &brandShortName; altijd verkrijgen op:">
+
 <!ENTITY  incompatibleCheck.title         "Add-oncompatibiliteit controleren">
 <!ENTITY  incompatibleCheck.label         "Bezig met controleren op nieuwere versies van uw add-ons…">
 
