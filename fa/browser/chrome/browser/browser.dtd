@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "چوب‌الف‌گذاری تمامی زبانه‌ها…">
 <!ENTITY organizeBookmarks.label "سازمان‌دهی چوب‌الف‌ها…">
 <!ENTITY bookmarkAllCmd.label "چوب‌الف‌گذاری تمامی زبانه‌ها…">
+<!ENTITY bookmarksToolbarChevron.tooltip "چوب‌الف‌های بیشتری نمایش داده شود">
 
 <!ENTITY backCmd.label                "عقب">
 <!ENTITY backCmd.accesskey            "ع">
