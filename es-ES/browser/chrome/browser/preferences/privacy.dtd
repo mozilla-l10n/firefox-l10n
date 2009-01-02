@@ -30,10 +30,7 @@
 <!ENTITY privateData.label "Datos privados">
 <!ENTITY alwaysClear.label "Limpiar siempre los datos privados cuando cierre &brandShortName;">
 <!ENTITY alwaysClear.accesskey "v">
-<!ENTITY askBeforeClear.label "Preguntar antes de limpiar datos privados">
-<!ENTITY askBeforeClear.accesskey "A">
 <!ENTITY clearDataSettings.label "Configuración…">
 <!ENTITY clearDataSettings.accesskey "f">
 <!ENTITY clearDataNow.label "Limpiar ahora…">
-<!ENTITY clearDataNow.label2 "Limpiar ahora">
 <!ENTITY clearDataNow.accesskey "L">
