@@ -3,10 +3,12 @@
 <!ENTITY privatebrowsingpage.pagetitle                 "Shfletim Vetjak">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName;-i nuk do të mbajë mend ndonjë historik rreth këtij sesioni.">
-<!ENTITY privatebrowsingpage.longDesc                  "Nuk do të regjistrohet ndonjë historik nga &brandShortName;-i gjatë këtij sesioni shfletimi.  Kjo përfshin historik shfletimi, historik kërkimesh, historik shkarkimesh, historik formularësh web, &quot;cookies&quot;, dhe kartela të përkohshme interneti.  Sidoqoftë, cilado kartelë që shkarkoni apo faqeruani do të ruhet.">
-
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Mundet edhe të doni të filloni duke pastruar historikun tuaj së fundmi.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Pastro Historikun Së Fundmi…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "P">
-<!ENTITY privatebrowsingpage.howToStopDesc             "Për ndaljen e shfletimit vetjak, hiqeni shenjën prej Mjete &gt; Shfletim Vetjak.">
-<!ENTITY privatebrowsingpage.footerDesc                "Shijojeni!">
+<!ENTITY privatebrowsingpage.howToStop                 "Për ndaljen e shfletimit vetjak, përzgjidhni &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ose mbyllni &brandShortName;-in.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Mundet edhe të doni të filloni ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "duke pastruar historikun tuaj së fundmi">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+<!ENTITY privatebrowsingpage.learnMore                 "Mësoni Më tepër">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.description               "Gjatë një sesioni Shfletimi Vetjak, &brandShortName;-i nuk do të ruajë ndonjë historik shfletimi, historik kërkimesh, historik shkarkimesh, historik formularësh web, &quot;cookie&quot;, apo kartela të përkohëshme internet.  Sidoqoftë, kartelat që shkarkoni apo faqerojtësit që krijoni do të ruhen.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Ndërkohë që ky kompjuter nuk do të ketë ndonjë regjistrim të historikut tuaj të shfletimit, mundësuesi juaj i shërbimit internet ose punëdhënësi juaj prapë munden t'i gjurmojnë faqet që vizitoni.">

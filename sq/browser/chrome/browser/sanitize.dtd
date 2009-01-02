@@ -1,6 +1,7 @@
 <!ENTITY clearDataSettings2.label     "Kur e mbyll &brandShortName;-in, do të duhej të pastronte vetvetiu gjithçka prej:">
 
 <!ENTITY clearDuration.label          "Hiq ">
+<!ENTITY clearDuration.accesskey      "H">
 <!ENTITY clearDuration.lastHour       "orës së fundit">
 <!ENTITY clearDuration.last2Hours     "2 orëve të fundit">
 <!ENTITY clearDuration.last4Hours     "4 orëve të fundit">
