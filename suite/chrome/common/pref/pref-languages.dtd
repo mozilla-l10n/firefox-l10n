@@ -9,6 +9,7 @@
 <!ENTITY languages.customize.add.title.label "Добавление языков">
 <!ENTITY languages.customize.available.label "Языки:">
 <!ENTITY languages.customize.active.label "Языки в порядке предпочтения:">
+<!ENTITY languages.customize.active.accesskey "з">
 <!ENTITY languages.customize.others.label "Другие:">
 <!ENTITY languages.customize.others.accesskey "р">
 <!ENTITY languages.customize.Charset.grouplabel "Кодировка по умолчанию">

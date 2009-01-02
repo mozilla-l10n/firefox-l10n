@@ -3,6 +3,7 @@
 <!ENTITY sanitizeItems.label "Стереть сейчас следующие данные:">
 <!ENTITY clearDataSettings2.label "Когда я выхожу из &brandShortName;, он должен автоматически стереть:">
 <!ENTITY clearDuration.label "Удалить">
+<!ENTITY clearDuration.accesskey "д">
 <!ENTITY clearDuration.lastHour "историю за последний час">
 <!ENTITY clearDuration.last2Hours "историю за последние 2 часа">
 <!ENTITY clearDuration.last4Hours "историю за последние 4 часа">
