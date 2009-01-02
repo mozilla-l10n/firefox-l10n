@@ -53,12 +53,8 @@
 <!ENTITY alwaysClear.label "Ĉiam forviŝi miajn privatajn datumojn kiam mi finas &brandShortName;">
 <!ENTITY alwaysClear.accesskey "p">
 
-<!ENTITY askBeforeClear.label "Demandi al mi antaŭ ol forviŝi privatajn datumojn">
-<!ENTITY askBeforeClear.accesskey "D">
-
 <!ENTITY clearDataSettings.label "Agordoj…">
 <!ENTITY clearDataSettings.accesskey "g">
 
 <!ENTITY clearDataNow.label "Forviŝi nun…">
-<!ENTITY clearDataNow.label2 "Forviŝi nun">
 <!ENTITY clearDataNow.accesskey "F">

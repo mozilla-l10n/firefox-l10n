@@ -165,11 +165,15 @@
 <!ENTITY preferencesCmdUnix.label "Preferoj">
 <!ENTITY preferencesCmdUnix.accesskey "j">
 
-<!ENTITY clearRecentHistoryCmd.label "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.label "Foriviŝi ĵusan historion">
 <!ENTITY clearRecentHistoryCmd.accesskey "H">
 
-<!ENTITY privateBrowsingCmd.label "Private Browsing">
-<!ENTITY privateBrowsingCmd.accesskey "B">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Komenci privatan retesploradon">
+<!ENTITY privateBrowsingCmd.start.accesskey     "k">
+<!ENTITY privateBrowsingCmd.stop.label          "Haltigi privatan retesploradon">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "H">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "Vidi">
 <!ENTITY viewMenu.accesskey "V">

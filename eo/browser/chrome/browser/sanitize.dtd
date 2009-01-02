@@ -7,6 +7,7 @@
 
 
 <!ENTITY clearDuration.label "Forigi">
+<!ENTITY clearDuration.accesskey "F">
 <!ENTITY clearDuration.lastHour "la lastan horon">
 <!ENTITY clearDuration.last2Hours "la lastajn du horojn">
 <!ENTITY clearDuration.last4Hours "la lastajn kvar horojn">

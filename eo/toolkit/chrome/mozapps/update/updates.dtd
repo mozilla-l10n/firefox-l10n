@@ -12,6 +12,10 @@ periodically for updates.">
 <!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable 
 &brandShortName;'s automatic update checking.">
 
+<!ENTITY  manualUpdate.title              "Ne eblas ĝisdatigi">
+<!ENTITY  manualUpdate.desc               "Rekomendata sekureca kaj stabileca ĝisdatigo disponeblas, sed vi ne havas la sistemajn rajtojn por instali ĝin. Bonvolu kontakti vian sisteman administranton aŭ klopodu denove ekde konto kiu rajtas instali programojn en tiu ĉi komputilo.">
+<!ENTITY  manualUpdateGetMsg.label        "Vi povas ĉiam akiri la lastan version de &brandShortName; ĉe:">
+
 <!ENTITY incompatibleCheck.title "Kontrolado de kongrueco de kromprogramoj">
 <!ENTITY incompatibleCheck.label "Serĉado de novaj versioj de viaj kromprogramoj…">
 
