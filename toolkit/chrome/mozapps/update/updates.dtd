@@ -6,6 +6,12 @@
 <!ENTITY noupdatesfound.title "No se encontraron actualizaciones">
 <!ENTITY noupdatesautoenabled.intro "No hay actualizaciones disponibles. &brandShortName; comprobará periódicamente si hay actualizaciones.">
 <!ENTITY noupdatesautodisabled.intro "No hay actualizaciones disponibles. Por favor, prueba de nuevo más tarde o activa la opción de actualización automática de &brandShortName;.">
+<!ENTITY manualUpdate.title "No se puede actualizar">
+<!ENTITY manualUpdate.desc "Hay disponible una actualización recomendada de seguridad y estabilidad, pero
+usted no tiene los permisos de sistema necesarios para instalarla. Por favor,
+contacte con su administrador del sistema, o vuelva a intentarlo desde una
+cuenta que tenga permisos para instalar software en este ordenador.">
+<!ENTITY manualUpdateGetMsg.label "Siempre puede conseguir la última versión de &brandShortName; en:">
 <!ENTITY incompatibleCheck.title "Comprobando compatibilidad de los complementos">
 <!ENTITY incompatibleCheck.label "Buscando nuevas versiones de sus complementos…">
 <!ENTITY clickHere.label "Ver más información sobre esta actualización">
