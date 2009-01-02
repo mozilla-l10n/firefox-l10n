@@ -139,8 +139,11 @@
 <!ENTITY preferencesCmdUnix.accesskey "Н">
 <!ENTITY clearRecentHistoryCmd.label "Стирание недавней истории">
 <!ENTITY clearRecentHistoryCmd.accesskey "т">
-<!ENTITY privateBrowsingCmd.label "Режим приватного просмотра">
-<!ENTITY privateBrowsingCmd.accesskey "ж">
+<!ENTITY privateBrowsingCmd.start.label "Войти в режим приватного просмотра">
+<!ENTITY privateBrowsingCmd.start.accesskey "о">
+<!ENTITY privateBrowsingCmd.stop.label "Выйти из режима приватного просмотра">
+<!ENTITY privateBrowsingCmd.stop.accesskey "ы">
+<!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
 <!ENTITY viewToolbarsMenu.label "Панели инструментов">

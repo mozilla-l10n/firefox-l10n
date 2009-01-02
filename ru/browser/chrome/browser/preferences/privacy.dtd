@@ -30,10 +30,7 @@
 <!ENTITY privateData.label "Личные данные">
 <!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда стирать мои личные данные">
 <!ENTITY alwaysClear.accesskey "з">
-<!ENTITY askBeforeClear.label "Спрашивать перед стиранием личных данных">
-<!ENTITY askBeforeClear.accesskey "ш">
 <!ENTITY clearDataSettings.label "Настроить…">
 <!ENTITY clearDataSettings.accesskey "т">
 <!ENTITY clearDataNow.label "Стереть сейчас…">
-<!ENTITY clearDataNow.label2 "Стереть сейчас">
 <!ENTITY clearDataNow.accesskey "е">
