@@ -91,7 +91,6 @@
 <!ENTITY stopButton.tooltip "הפסק לטעון דף זה">
 <!ENTITY goEndCap.tooltip "עבור לכתובת שבסרגל המיקום">
 
-<!ENTITY feedButton.tooltip           "הירשם לדף זה…">
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY printButton.tooltip "הדפס דף זה">
 <!ENTITY locationItem.title "מיקום">
