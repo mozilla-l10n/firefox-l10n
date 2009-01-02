@@ -58,5 +58,6 @@
 <!ENTITY downloadOnLogin.label "Descargar mensajes ahora">
 <!ENTITY deferStorageDesc.label "Marque esta casilla para guardar el correo de esta cuenta en la bandeja de entrada global de la cuenta Carpetas locales. En caso contrario aparecerá como una cuenta de nivel superior y su correo se guardará en su propio directorio.">
 <!ENTITY deferStorage.label "Usar band. entrada global (guardar msj. en Carpetas locales)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Seleccione Finalizar para guardar estas configuraciones y salir del asistente de cuentas.">
 <!ENTITY clickFinish.labelMac "Seleccione Terminado para guardar estas configuraciones y salir del asistente de cuentas.">
