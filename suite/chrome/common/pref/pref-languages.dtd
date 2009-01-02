@@ -1,6 +1,6 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY  languages.customize.prefLangDescript          "Web-Seiten sind manchmal in mehr als einer Sprache verfügbar. Wählen Sie Sprachen für die Darstellung von Webseiten in Ihrer bevorzugten Reihenfolge.">
+<!ENTITY languages.customize.prefLangDescript           "Web-Seiten sind manchmal in mehr als einer Sprache verfügbar. Wählen Sie Sprachen für die Darstellung von Webseiten in Ihrer bevorzugten Reihenfolge.">
 <!ENTITY languages.customize.title                      "Sprachen">
 <!ENTITY langtitle.label                                "Sprachen für Webseiten">
 <!ENTITY languages.customize.prefAddLangDescript        "Wählen Sie die Sprache(n), die hinzugefügt werden sollen.">
@@ -11,6 +11,7 @@
 <!ENTITY languages.customize.add.title.label            "Sprachen hinzufügen">
 <!ENTITY languages.customize.available.label            "Sprachen:">
 <!ENTITY languages.customize.active.label               "Sprachen in bevorzugter Reihenfolge:">
+<!ENTITY languages.customize.active.accesskey           "S">
 <!ENTITY languages.customize.others.label               "Andere:">
 <!ENTITY languages.customize.others.accesskey           "A">
 <!ENTITY languages.customize.Charset.grouplabel         "Zeichensatz">
