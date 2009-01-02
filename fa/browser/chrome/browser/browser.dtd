@@ -166,8 +166,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "پاک‌سازی تاریخچهٔ اخیر">
 <!ENTITY clearRecentHistoryCmd.accesskey        "پ">
 
-<!ENTITY privateBrowsingCmd.label            "مرور خصوصی">
-<!ENTITY privateBrowsingCmd.accesskey        "م">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "شروع مرور خصوصی">
+<!ENTITY privateBrowsingCmd.start.accesskey     "م">
+<!ENTITY privateBrowsingCmd.stop.label          "پایان مرور خصوصی">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "م">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "نما"> 
 <!ENTITY viewMenu.accesskey       "ن"> 
