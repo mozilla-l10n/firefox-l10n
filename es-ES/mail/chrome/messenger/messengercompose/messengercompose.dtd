@@ -163,7 +163,6 @@
 <!ENTITY attachButton.label "Adjuntar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Guardar">
-<!ENTITY throbberItem.title "Indicador de actividad">
 <!ENTITY sendButton.tooltip "Enviar este mensaje ahora">
 <!ENTITY sendlaterButton.tooltip "Enviar este mensaje más tarde">
 <!ENTITY quoteButton.tooltip "Citar el mensaje anterior">
