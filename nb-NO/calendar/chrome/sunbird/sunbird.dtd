@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "Skriv ut kalender" >
 <!ENTITY sunbird.delete.button.tooltip                     "Slett kalenderhendelse" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Oppdater alle eksterne kalendere" >
+<!ENTITY sunbird.import.button.tooltip                     "Importer hendelser fra en lokal fil" >
+<!ENTITY sunbird.export.button.tooltip                     "Eksporter hendelser til en lokal fil" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Abonner på en kalenderfil på en annen datamaskin" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publiser hendelser til en annen datamaskin" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Finn og list opp hendelser" >
+<!ENTITY sunbird.edit.button.tooltip                       "Rediger valgt hendelse" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Velg dato" >
 <!ENTITY sunbird.cut.button.label                          "Klipp ut" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "Lim inn" >
 <!ENTITY sunbird.delete.button.label                       "Slett" >
 <!ENTITY sunbird.remotereload.button.label                 "Oppdater" >
+<!ENTITY sunbird.import.button.label                       "Importer" >
+<!ENTITY sunbird.export.button.label                       "Eksporter" >
+<!ENTITY sunbird.subscribe.button.label                    "Abonner" >
+<!ENTITY sunbird.publish.button.label                      "Publiser" >
+<!ENTITY sunbird.unifinder.button.label                    "Finn hendelser" >
+<!ENTITY sunbird.edit.button.label                         "Rediger" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Gå til dato" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Dag" >
@@ -69,6 +81,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "Antall uker" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "A" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 uke" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 uker" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 uker" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 uker" >
