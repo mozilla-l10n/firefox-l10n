@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "حذف ">
+<!ENTITY clearDuration.accesskey      "ح">
 <!ENTITY clearDuration.lastHour       "ساعت گذشته">
 <!ENTITY clearDuration.last2Hours     "۲ ساعت گذشته">
 <!ENTITY clearDuration.last4Hours     "۴ ساعت گذشته">
@@ -28,7 +29,7 @@ that require it.  -->
 <!ENTITY itemCookies.label            "کوکی‌ها">
 <!ENTITY itemCookies.accesskey        "ک">
 <!ENTITY itemWebCache.label           "حافظهٔ نهان وب">
-<!ENTITY itemWebCache.accesskey       "ح">
+<!ENTITY itemWebCache.accesskey       "ظ">
 <!ENTITY itemOfflineApps.label        "اطلاعات غیر متصل وب‌گاه‌ها">
 <!ENTITY itemOfflineApps.accesskey    "ا">
 <!ENTITY itemDownloadList.label       "فهرست بارگیری‌ها">
