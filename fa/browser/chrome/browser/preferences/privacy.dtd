@@ -52,12 +52,8 @@
 <!ENTITY  alwaysClear.label              "اطلاعات خصوصی همیشه هنگام بستن &brandShortName; پاک شوند">
 <!ENTITY  alwaysClear.accesskey          "ه">
 
-<!ENTITY  askBeforeClear.label           "قبل از پاک کردن اطلاعات خصوصی  سؤال شود">
-<!ENTITY  askBeforeClear.accesskey       "س">
-
 <!ENTITY  clearDataSettings.label        "تنظیمات…">
 <!ENTITY  clearDataSettings.accesskey    "ت">
 
 <!ENTITY  clearDataNow.label             "هم‌اکنون پاک شود…">
-<!ENTITY  clearDataNow.label2            "هم‌اکنون پاک شود">
 <!ENTITY  clearDataNow.accesskey         "پ">
