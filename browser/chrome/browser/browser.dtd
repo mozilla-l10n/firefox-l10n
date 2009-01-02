@@ -380,9 +380,6 @@
 <!ENTITY viewVideoCmd.label           "Shiheni Videon">
 <!ENTITY viewVideoCmd.accesskey       "S">
 
-<!ENTITY privateBrowsingCmd.label            "Shfletim Vetjak">
-<!ENTITY privateBrowsingCmd.accesskey        "S">
-
 <!ENTITY clearRecentHistoryCmd.label            "Pastro Historikun Së fundmi">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
 <!ENTITY ctrlTab.search.emptyText "Kërko në Skeda">
@@ -392,4 +389,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Shfletim Vetjak)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Nis Shfletimin Vetjak">
+<!ENTITY privateBrowsingCmd.start.accesskey     "N">
+<!ENTITY privateBrowsingCmd.stop.label          "Ndale Shfletimin Vetjak">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "N">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 

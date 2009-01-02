@@ -48,14 +48,10 @@
 <!ENTITY  alwaysClear.label              "Pastro përherë të dhënat e mia vetjake kur mbyll &brandShortName;-in">
 <!ENTITY  alwaysClear.accesskey          "a">
 
-<!ENTITY  askBeforeClear.label           "Pyetmë para pastrimit të të dhënave vetjake">
-<!ENTITY  askBeforeClear.accesskey       "y">
-
 <!ENTITY  clearDataSettings.label        "Rregullime…">
 <!ENTITY  clearDataSettings.accesskey    "R">
 
 <!ENTITY  clearDataNow.label             "Pastroje Tani…">
-<!ENTITY  clearDataNow.label2            "Pastroje Tani">
 <!ENTITY  clearDataNow.accesskey         "T">
 <!ENTITY  acceptThirdParty.label        "Prano &quot;cookie&quot; palësh të treta">
 <!ENTITY  acceptThirdParty.accesskey    "e">
