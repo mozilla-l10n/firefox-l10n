@@ -1,6 +1,7 @@
 <!ENTITY  pref.navigator.title "Navigateur">
 
-<!ENTITY  navRadio "Afficher pour">
+<!ENTITY  navRadio.label "Afficher pour">
+<!ENTITY  navRadio.accesskey "h">
 <!ENTITY  navStartPageMenu.label "le démarrage du navigateur">
 <!ENTITY  newWinPageMenu.label "une nouvelle fenêtre">
 <!ENTITY  newTabPageMenu.label "un nouvel onglet">
