@@ -90,18 +90,25 @@
 <!ENTITY menuitem.personaltoolbarfolder.label "Definir como nueva carpeta de la barra de herramientas personal">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "p">
 <!ENTITY treecol.name.label "Nombre">
+<!ENTITY treecol.name.accesskey "N">
 <!ENTITY treecol.name.tooltip "Pulse para ordenar por nombre">
 <!ENTITY treecol.url.label "Dirección">
+<!ENTITY treecol.url.accesskey "r">
 <!ENTITY treecol.url.tooltip "Pulse para ordenar por dirección">
 <!ENTITY treecol.shortcut.label "Palabra clave">
+<!ENTITY treecol.shortcut.accesskey "b">
 <!ENTITY treecol.shortcut.tooltip "Pulse para ordenar por palabra clave">
 <!ENTITY treecol.description.label "Descripción">
+<!ENTITY treecol.description.accesskey "D">
 <!ENTITY treecol.description.tooltip "Pulse para ordenar por descripción">
 <!ENTITY treecol.addedon.label "Añadido">
+<!ENTITY treecol.addedon.accesskey "A">
 <!ENTITY treecol.addedon.tooltip "Pulse para ordenar por adición">
 <!ENTITY treecol.lastmod.label "Última modificación">
+<!ENTITY treecol.lastmod.accesskey "M">
 <!ENTITY treecol.lastmod.tooltip "Pulse para ordenar por última modificación">
 <!ENTITY treecol.lastvisit.label "Última visita">
+<!ENTITY treecol.lastvisit.accesskey "V">
 <!ENTITY treecol.lastvisit.tooltip "Pulse para ordenar por última visita">
 <!ENTITY bookmarksWindowTitle.label "Administrador de marcadores">
 <!ENTITY search.label "Buscar">
