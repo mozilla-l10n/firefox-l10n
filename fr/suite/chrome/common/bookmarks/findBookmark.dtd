@@ -10,6 +10,8 @@
 <!ENTITY search.contains.label          "contient">
 <!ENTITY search.doesntcontain.label     "ne contient pas">
 <!ENTITY save.query.label               "Enregistrer la requête dans les marque-pages">
+<!ENTITY save.query.accesskey           "E">
 <!ENTITY search.for.label               "Rechercher des marque-pages dont">
 <!ENTITY findBookmark.title             "Rechercher des marque-pages">
 <!ENTITY findButton.label               "Rechercher">
+<!ENTITY findButton.accesskey           "R">
