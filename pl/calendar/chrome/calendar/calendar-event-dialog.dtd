@@ -109,8 +109,8 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "P">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Dostosuj…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "D">
-<!ENTITY  event.menu.view.showlink.label                  "Powiązany odnośnik">
-<!ENTITY  event.menu.view.showlink.accesskey              "o">
+<!ENTITY  event.menu.view.showlink.label                  "Wyświetlaj powiązany odnośnik">
+<!ENTITY  event.menu.view.showlink.accesskey              "W">
 
 <!ENTITY  event.menu.options.label                             "Opcje">
 <!ENTITY  event.menu.options.accesskey                         "e">
