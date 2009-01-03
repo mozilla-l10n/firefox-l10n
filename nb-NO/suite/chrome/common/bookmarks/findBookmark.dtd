@@ -10,6 +10,8 @@
 <!ENTITY search.contains.label          "inneholder">
 <!ENTITY search.doesntcontain.label     "inneholder ikke">
 <!ENTITY save.query.label               "Lagre søket som bokmerke">
+<!ENTITY save.query.accesskey           "L">
 <!ENTITY search.for.label               "Finn bokmerker hvor">
 <!ENTITY findBookmark.title             "Søk etter bokmerker">
 <!ENTITY findButton.label               "Finn">
+<!ENTITY findButton.accesskey           "F">
