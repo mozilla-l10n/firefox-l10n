@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label         "Etter vising i">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "sekund">
-<!ENTITY showFolderColumns.label       "Vis utvida kolonner i mappesyninga">
-<!ENTITY showFolderColumns.accesskey   "k">
 <!ENTITY openMsgIn.label               "Opne nye meldingar i:">
 <!ENTITY reuseExpRadio0.label          "Eit nytt vindauge">
 <!ENTITY reuseExpRadio0.accesskey      "i">

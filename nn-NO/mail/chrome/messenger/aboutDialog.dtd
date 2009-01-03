@@ -5,3 +5,4 @@
 <!ENTITY aboutLink.accesskey    "O">
 <!ENTITY aboutVersion           "versjon">
 <!ENTITY copyrightText          "&#169;1998-2006 Bidragsytarar. Alle rettar med atterhald. Mozilla Thunderbird og Thunderbirdlogoane er varemerke tilhøyrande The Mozilla Foundation. Alle rettar med atterhald.">
+<!ENTITY cmdCloseMac.commandKey "w">

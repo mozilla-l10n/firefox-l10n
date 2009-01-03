@@ -51,9 +51,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newtask.button.tooltip          "Opprett ei ny oppgåve" >
 <!ENTITY calendar.newevent.button.tooltip         "Opprett ei ny hending" >
-<!ENTITY calendar.edit.button.tooltip             "Endre vald hending" >
+<!ENTITY calendar.newtask.button.tooltip          "Opprett ei ny oppgåve" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Oppgåver" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Vis fullførte oppgåver">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "Vis dagen i dag" >
 <!ENTITY calendar.todaypane.button.tooltip        "Vis i dag-visinga" >
-<!ENTITY calendar.unifinder.button.tooltip        "Finn og vis hendingar" >
 
 <!ENTITY calendar.day.button.tooltip            "Byt til dagvising" >
 <!ENTITY calendar.week.button.tooltip           "Byt til vekevising" >
@@ -102,23 +100,11 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Neste månad" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Førre månad" >
 
-<!ENTITY calendar.newtask.button.label          "Ny oppgåve" >
 <!ENTITY calendar.newevent.button.label         "Ny hending" >
-<!ENTITY calendar.edit.button.label             "Endre" >
+<!ENTITY calendar.newtask.button.label          "Ny oppgåve" >
 <!ENTITY calendar.print.button.label            "Skriv ut" >
 
-<!ENTITY calendar.import.button.tooltip            "Importer hendingar frå ei lokal fil" >
-<!ENTITY calendar.export.button.tooltip            "Eksporter hendingar til ei lokal fil" >
-<!ENTITY calendar.subscribe.button.tooltip         "Abonner på ei kalenderfil på ei anna maskin" >
-<!ENTITY calendar.publish.button.tooltip           "Publiser hendingar til ei anna maskin" >
-
 <!ENTITY calendar.export.calendar                "Eksporter kalender …" >
-
-<!ENTITY calendar.import.button.label              "Importer" >
-<!ENTITY calendar.export.button.label              "Eksporter" >
-<!ENTITY calendar.subscribe.button.label           "Abonner" >
-<!ENTITY calendar.publish.button.label             "Publiser" >
-<!ENTITY calendar.unifinder.button.label           "Finn hendingar" >
 
 <!ENTITY calendar.day.button.label              "Dag" >
 <!ENTITY calendar.week.button.label             "Veke" >
@@ -154,15 +140,15 @@
 <!ENTITY calendar.task.filter.open.label            "Uferdige oppgåver">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 
-<!ENTITY calendar.task.details.title.label           "Tittel:">
-<!ENTITY calendar.task.details.organizer.label       "Frå:">
-<!ENTITY calendar.task.details.priority2.label       "Prioritet:">
-<!ENTITY calendar.task.details.priority.low.label    "Låg">
-<!ENTITY calendar.task.details.priority.normal.label "Normal">
-<!ENTITY calendar.task.details.priority.high.label   "Høg">
-<!ENTITY calendar.task.details.status.label          "Status:">
-<!ENTITY calendar.task.details.category.label        "Kategori:">
-<!ENTITY calendar.task.details.repeat.label          "Gjenta:">
+<!ENTITY calendar.task-details.title.label           "tittel">
+<!ENTITY calendar.task-details.organizer.label       "frå">
+<!ENTITY calendar.task-details.priority.label        "prioritet">
+<!ENTITY calendar.task-details.priority.low.label    "Låg">
+<!ENTITY calendar.task-details.priority.normal.label "Normal">
+<!ENTITY calendar.task-details.priority.high.label   "Høg">
+<!ENTITY calendar.task-details.status.label          "status">
+<!ENTITY calendar.task-details.category.label        "kategori">
+<!ENTITY calendar.task-details.repeat.label          "repeter">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriser oppgåver">
 <!ENTITY calendar.task.complete.button.tooltip  "Merk dei valde oppgåvene som fullførte">

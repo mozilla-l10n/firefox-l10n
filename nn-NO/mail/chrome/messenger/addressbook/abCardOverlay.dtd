@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "Kallenamn:">
 <!ENTITY NickName.accesskey             "K">
 
-<!ENTITY Internet.box                   "Internett">
 <!ENTITY PrimaryEmail.label             "E-post:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "E-post (annan):">
@@ -113,9 +112,11 @@
 <!ENTITY HomeWebPage.accesskey          "N">
 <!ENTITY Birthday.label                 "Fødselsdag:">
 <!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "År">
 <!ENTITY Or.value                       "eller">
 <!ENTITY Age.emptytext                  "Alder">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Arbeid">
 <!ENTITY Work.accesskey                 "A">

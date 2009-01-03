@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Adressekort …">
-<!ENTITY newCard.accesskey "k">
+<!ENTITY newContact.label "Adressebok-kontakt …">
+<!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Legg ved">
 <!ENTITY attachMenu.accesskey "v">
 <!ENTITY attachFileCmd.label "Fil …">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Verktøylinjer"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "V"> 
 <!ENTITY showCompositionToolbarCmd.label "Forfattarlinje">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formateringslinje">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statuslinje">
@@ -184,7 +185,6 @@
 <!ENTITY attachButton.label "Legg ved">
 <!ENTITY spellingButton.label "Staving">
 <!ENTITY saveButton.label "Lagre">
-<!ENTITY throbberItem.title "Aktivitetsindikator">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Send meldinga no"> 

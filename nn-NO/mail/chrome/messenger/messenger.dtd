@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "Gjer om igjen flytting av melding">
 <!ENTITY undoCopyMsgCmd.label "Angre kopiering av melding">
 <!ENTITY redoCopyMsgCmd.label "Gjer om igjen kopiering av melding">
+<!ENTITY undoMarkAllCmd.label "Angre merk alle som lesne">
+<!ENTITY redoMarkAllCmd.label "Gjer om merk alle som lesne">
 <!ENTITY undoDefaultCmd.label "Angre">
 <!ENTITY undoDefaultCmd.accesskey "A">
 <!ENTITY redoDefaultCmd.label "Gjer om igjen">

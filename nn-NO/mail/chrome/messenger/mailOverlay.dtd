@@ -3,6 +3,5 @@
 <!ENTITY  newMessageCmd.label             "Melding">
 <!ENTITY  newMessageCmd.accesskey         "M">
  
-<!ENTITY  newCardCmd.label                "Adressekort …">
-<!ENTITY  newCardCmd.accesskey            "A">
- 
+<!ENTITY  newContactCmd.label             "Adressebok-kontakt …">
+<!ENTITY  newContactCmd.accesskey         "k">

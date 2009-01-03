@@ -1,18 +1,28 @@
 <!ENTITY securityTitle.label "Sikkerheit">
+<!ENTITY securityTab.label "Sikkerheit">
 <!ENTITY securityHeading.label "For å sende og ta i mot signerte eller krypterte meldingar, bør du leggje inn både eit digitalt signatursertifikat og eit krypteringssertifikat.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Standard krypteringsval under sending av meldingar:">
 <!ENTITY neverEncrypt.label "Aldri (ikkje bruk kryptering)">
+<!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Påkravd (kan ikkje sende utan at alle mottakarane har sertifikat)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Bruk dette sertifikatet til å kryptere og dekryptere meldingar sendt til deg:">
-<!ENTITY certificate.button "Vel …">
-<!ENTITY certificate_clear.button "Tøm">
+<!ENTITY digitalSign.certificate.button "Vel …">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Tøm">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY encryption.certificate.button "Vel …">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate_clear.button "Tøm">
+<!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digital signering">
 <!ENTITY signMessage.label "Signer meldingar digitalt (som standard)">
+<!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Bruk dette sertifikatet til å signere meldingar du sender digitalt:">
 
-<!ENTITY certificates.label     "Sertifikat">
-<!ENTITY managecerts.label      "Vis sertifikat">
-<!ENTITY managecerts.accesskey  "S">
-<!ENTITY managedevices.label    "Sikkerheitseiningar">
-<!ENTITY managedevices.accesskey "T">
+<!ENTITY certificates.label "Sertifikat">
+<!ENTITY manageCerts.label "Vis sertifikat">
+<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageDevices.label "Sikkerheitseiningar">
+<!ENTITY manageDevices.accesskey "i">
