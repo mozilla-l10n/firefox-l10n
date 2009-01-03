@@ -93,18 +93,25 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "p">
 
 <!ENTITY treecol.name.label             "Nom">
+<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip           "Cliquer pour trier par nom">
 <!ENTITY treecol.url.label              "Adresse">
+<!ENTITY treecol.url.accesskey          "A">
 <!ENTITY treecol.url.tooltip            "Cliquer pour trier par adresse">
 <!ENTITY treecol.shortcut.label         "Mot-clé">
+<!ENTITY treecol.shortcut.accesskey     "M">
 <!ENTITY treecol.shortcut.tooltip       "Cliquer pour trier par mot-clé">
 <!ENTITY treecol.description.label      "Description">
+<!ENTITY treecol.description.accesskey  "D">
 <!ENTITY treecol.description.tooltip    "Cliquer pour trier par description">
 <!ENTITY treecol.addedon.label          "Ajouté le">
+<!ENTITY treecol.addedon.accesskey      "o">
 <!ENTITY treecol.addedon.tooltip        "Cliquer pour trier par date d'ajout">
 <!ENTITY treecol.lastmod.label          "Dernière modification">
+<!ENTITY treecol.lastmod.accesskey      "e">
 <!ENTITY treecol.lastmod.tooltip        "Cliquer pour trier par date de dernière modification">
 <!ENTITY treecol.lastvisit.label        "Dernière visite">
+<!ENTITY treecol.lastvisit.accesskey    "v">
 <!ENTITY treecol.lastvisit.tooltip      "Cliquer pour trier par date de dernière visite">
 
 <!ENTITY bookmarksWindowTitle.label     "Gestionnaire de marque-pages">
