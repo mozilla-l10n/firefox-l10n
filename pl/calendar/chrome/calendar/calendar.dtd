@@ -302,7 +302,7 @@
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publikacja kalendarza">
 <!ENTITY calendar.publish.url.label                 "URL publikacji:">
-<!ENTITY calendar.publish.publish.button      "Publikuj">
+<!ENTITY calendar.publish.publish.button      "Opublikuj">
 <!ENTITY calendar.publish.close.button      "Zamknij">
 
 <!ENTITY calendar.publish.example.url.description   "Przykład: http://www.mojserwer.pl/kalendarz.ics">
