@@ -19,8 +19,6 @@
 <!ENTITY biffStart.label "Sjå etter nye meldingar kvart">
 <!ENTITY biffStart.accesskey "r">
 <!ENTITY biffEnd.label "minutt">
-<!ENTITY isSecure.label "Bruk trygg tilkopling (SSL)">
-<!ENTITY isSecure.accesskey "S">
 <!ENTITY socketType.label "Bruk trygg tilkopling:">
 <!ENTITY neverSecure.label "Aldri">
 <!ENTITY neverSecure.accesskey "A">

@@ -7,9 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privat nettlesing)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Ny fane">
 <!ENTITY tabCmd.accesskey "f">
@@ -69,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Bokmerk alle faner …">
 <!ENTITY organizeBookmarks.label "Handsame bokmerke …">
 <!ENTITY bookmarkAllCmd.label "Bokmerk alle faner …">
+<!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
 
 <!ENTITY backCmd.label                "Tilbake">
 <!ENTITY backCmd.accesskey            "T">
@@ -401,7 +404,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Ferdig">
 <!ENTITY editBookmark.cancel.label                   "Avbryt">
-<!ENTITY editBookmark.removeBookmark.label           "Slett bokmerke">
 <!ENTITY editBookmark.removeBookmark.accessKey       "S">
 <!ENTITY editBookmark.undo.label                     "Angre">
 <!ENTITY editBookmark.undo.accessKey                 "A">

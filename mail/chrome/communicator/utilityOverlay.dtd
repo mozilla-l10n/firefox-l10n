@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key      "W">
 <!ENTITY closeCmd.accesskey    "L">
 
-<!ENTITY closeWindow.label "Lat att vindauge">
-
 <!ENTITY quitApplicationCmd.label  "Avslutt">
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "v">

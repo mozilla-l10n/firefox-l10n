@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Ny">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "Adressekort …">
-<!ENTITY newCard.accesskey                              "A">
-<!ENTITY newCard.key                                    "N">
+<!ENTITY newContact.label                               "Adressebok-kontakt">
+<!ENTITY newContact.accesskey                           "k">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "E-postliste …">
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Adressebok …">
@@ -25,13 +25,13 @@
 <!ENTITY closeCmd.accesskey                             "L">
 <!ENTITY printSetupCmd.label                            "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey                        "m">
-<!ENTITY printPreviewCardViewCmd.label                  "Førehandsvising av kort">
-<!ENTITY printPreviewCardViewCmd.accesskey              "v">
+<!ENTITY printPreviewContactCmd.label                   "Skriv ut førehandsvising av kontakt">
+<!ENTITY printPreviewContactCmd.accesskey               "v">
 <!ENTITY printPreviewAddressBook.label                  "Førehandsvising av adressebok">
 <!ENTITY printPreviewAddressBook.accesskey              "F">
-<!ENTITY printCardViewCmd.label                         "Skriv ut kort …">
-<!ENTITY printCardViewCmd.accesskey                     "k">
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactCmd.label                          "Skriv ut kontakt …">
+<!ENTITY printContactCmd.accesskey                      "u">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Skriv ut adressebok …">
 <!ENTITY printAddressBook.accesskey                     "a">
 
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label                                "Slett">
 <!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Slett adressebok">
-<!ENTITY deleteCardCmd.label                            "Slett kort">
-<!ENTITY deleteCardsCmd2.label                          "Slett kort">
+<!ENTITY deleteContactCmd.label                         "Slett kontakt">
+<!ENTITY deleteContactsCmd.label                        "Slett kontaktar">
 <!ENTITY deleteListCmd.label                            "Slett liste">
 <!ENTITY deleteListsCmd.label                           "Slett lister">
 <!ENTITY deleteItemsCmd.label                           "Slett element">
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Tilpass …">
 <!ENTITY customizeToolbar.accesskey                     "T">
-<!ENTITY showCardPane.label                             "Oppsummeringsvindauge for adressekort">
-<!ENTITY showCardPane.accesskey                         "O">
+<!ENTITY showContactPane.label                          "Contact Summary Pane">
+<!ENTITY showContactPane.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label                          "Vis namn som">
 <!ENTITY menu_ShowNameAs.accesskey                      "V"> 
 <!ENTITY firstLastCmd.label                             "Førenamn, Etternamn">
@@ -116,27 +116,26 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "Nytt kort">
-<!ENTITY newcardButton.accesskey                        "K">
+<!ENTITY newContactButton.label                         "Ny kontakt">
+<!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny liste">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton.label                               "Eigenskapar">
-<!ENTITY editButton.accesskey                           "E">
+<!ENTITY editButton2.label                              "Eigenskapar">
+<!ENTITY editButton2.accesskey                          "E">
 <!ENTITY newmsgButton.label                             "Skriv ny">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Lynmelding">
 <!ENTITY newIM.accesskey                                "L">
-<!ENTITY deleteButton.label                             "Slett">
-<!ENTITY deleteButton.accesskey                         "S">
-<!ENTITY throbberItem.title                             "Aktivitetsindikator">
+<!ENTITY deleteButton2.label                            "Slett">
+<!ENTITY deleteButton2.accesskey                        "S">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Opprett eit nytt adressekort">
+<!ENTITY newContactButton.tooltip                       "Opprett ny kontakt i adresseboka">
 <!ENTITY newlistButton.tooltip                          "Opprett ei ny liste">
-<!ENTITY editButton.tooltip                             "Rediger valt kort">
+<!ENTITY editButton2.tooltip                            "Rediger valde element">
 <!ENTITY newmsgButton.tooltip                           "Send ein e-post">
 <!ENTITY newIM.tooltip                                  "Send ei melding eller chat">
-<!ENTITY deleteButton.tooltip                           "Slett valt kort eller adressebok">
+<!ENTITY deleteButton2.tooltip                           "Delete selected item">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Adressebøker">
