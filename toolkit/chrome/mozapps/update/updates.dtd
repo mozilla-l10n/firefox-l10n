@@ -11,6 +11,9 @@
 <!ENTITY  noupdatesfound.title            "ఏ  నవీకరణలు  కనుగొనబడలేదు">
 <!ENTITY  noupdatesautoenabled.intro      "అక్కడ  ఏ  కొత్త  నవీకరణలు  అందుబాటులో  లేవు. &brandShortName; సమయానుసారం  కొత్తవాటి  కొరకు  పరశీలించవచ్చు.">
 <!ENTITY  noupdatesautodisabled.intro     "అక్కడ  ఏ  కొత్త  నవీకరణలు  అందుబాటులో  లేవు.  తరువాత  మరలు వెతకండి లేక &brandShortName; స్వయంచాలనంగా   కొత్తవాటి  కొరకు  పరశీలించటాన్ని  చేతనంచేయండి.">
+<!ENTITY  manualUpdate.title              "నవీకరణ చేయలేకపోతున్నది">
+<!ENTITY  manualUpdate.desc               " సిఫారస్ చేయబడిన రక్షణ మరియి  మెరుగైన  నవీకరణ  అందుబాటులో వుంది.  అది స్థాపించుటకు  నీకు అనుమతులు లేవు.  మీ సిస్టమ్ నిర్వహణాధికారిని  అడుగు లేక  అనుమతికలిగిన వేరే ఎకౌంటు నుండి  ప్రయత్నించు. ">
+<!ENTITY  manualUpdateGetMsg.label        "&brandShortName;  తాజా నవీకరణ మీకు ఎప్పుడు దొరకు స్థలము: ">
 
 <!ENTITY  incompatibleCheck.title         " ఈ  విస్తరణ  సరిపోతుందా అని పరిశీలన ">
 <!ENTITY  incompatibleCheck.label         "మీ విస్తరణల నవీకరణలకోసం చూస్తున్నది…">

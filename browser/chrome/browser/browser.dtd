@@ -64,6 +64,7 @@
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
 <!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
 <!ENTITY bookmarkAllCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
+<!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
 
 <!ENTITY backCmd.label                "వెనుకకు">
 <!ENTITY backCmd.accesskey            "B">
@@ -158,9 +159,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "ఇటీవలి చరిత్రను చెరిపివేయి">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
-<!ENTITY privateBrowsingCmd.label            "గోప్య విహరిణి">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
-
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "గోప్య  వీక్షణం ప్రారంభించు">
+<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.stop.label          " గోప్య  వీక్షణం ఆపు">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "దర్శించు"> 
 <!ENTITY viewMenu.accesskey       "V"> 

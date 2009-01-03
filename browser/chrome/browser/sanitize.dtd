@@ -21,6 +21,7 @@
 <!ENTITY itemActiveLogins.accesskey   "L">
 
 <!ENTITY clearDuration.label          "తొలగించు ">
+<!ENTITY clearDuration.accesskey      "R">
 <!ENTITY clearDuration.lastHour       "ఇటీవలి  ఒక గంట">
 <!ENTITY clearDuration.last2Hours     "ఇటీవలి  2 గంటలు ">
 <!ENTITY clearDuration.last4Hours     "ఇటీవలి  4 గంటలు">
