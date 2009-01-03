@@ -16,5 +16,5 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "D">
 <!ENTITY privatebrowsingpage.howToStop "Pour arrêter la navigation privée, sélectionner &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; ou fermer &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart "Pour démarrer la navigation privée, vous pouvez aussi sélectionner &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
-<!ENTITY privatebrowsingpage.moreInfo "Bien que cet ordinateur ne conservera aucun enregistrement de votre historique de navigation, votre fournisseur d'accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.">
+<!ENTITY privatebrowsingpage.moreInfo "Bien que cet ordinateur ne conserve aucun enregistrement de votre historique de navigation, votre fournisseur d'accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.">
 <!ENTITY privatebrowsingpage.learnMore "En savoir plus">
