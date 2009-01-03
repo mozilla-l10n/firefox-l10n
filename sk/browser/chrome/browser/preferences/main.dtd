@@ -2,9 +2,9 @@
 
 <!ENTITY startupPage.label         "Po spustení programu &brandShortName; zobraziť:">
 <!ENTITY startupPage.accesskey     "u">
-<!ENTITY startupHomePage.label     "Domovskú stránku">
-<!ENTITY startupBlankPage.label    "Prázdnu stránku">
-<!ENTITY startupLastSession.label  "Naposledy otvorené okná a karty">
+<!ENTITY startupHomePage.label     "domovskú stránku">
+<!ENTITY startupBlankPage.label    "prázdnu stránku">
+<!ENTITY startupLastSession.label  "naposledy otvorené okná a karty">
 <!ENTITY location.label            "Domovská stránka:">
 <!ENTITY location.accesskey        "D">
 <!ENTITY useCurrentPage.label      "Použiť aktuálnu stránku">
