@@ -9,6 +9,8 @@
 <!ENTITY search.contains.label "содержит">
 <!ENTITY search.doesntcontain.label "не содержит">
 <!ENTITY save.query.label "Сохранить результаты запроса в закладках">
+<!ENTITY save.query.accesskey "х">
 <!ENTITY search.for.label "Найти закладки, у которых">
 <!ENTITY findBookmark.title "Поиск закладок">
 <!ENTITY findButton.label "Найти">
+<!ENTITY findButton.accesskey "а">

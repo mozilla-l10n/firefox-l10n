@@ -80,7 +80,7 @@
 <!ENTITY command.sortFolderByName.label "Сортировка элементов папки по имени">
 <!ENTITY command.sortFolderByName.accesskey "э">
 <!ENTITY menuitem.view.command.toolbar.label "Панель инструментов">
-<!ENTITY menuitem.view.command.toolbar.accesskey "П">
+<!ENTITY menuitem.view.command.toolbar.accesskey "н">
 <!ENTITY menuitem.view.show_columns.label "Показать колонки">
 <!ENTITY menuitem.view.show_columns.accesskey "к">
 <!ENTITY menuitem.newbookmarkfolder.label "Сделать папкой новых закладок">
@@ -90,19 +90,26 @@
 <!ENTITY menuitem.personaltoolbarfolder.label "Сделать папкой личной панели">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "л">
 <!ENTITY treecol.name.label "Имя">
+<!ENTITY treecol.name.accesskey "м">
 <!ENTITY treecol.name.tooltip "Щелкните для сортировки по имени">
 <!ENTITY treecol.url.label "Адрес">
+<!ENTITY treecol.url.accesskey "д">
 <!ENTITY treecol.url.tooltip "Щелкните для сортировки по адресу">
 <!ENTITY treecol.shortcut.label "Краткое имя">
+<!ENTITY treecol.shortcut.accesskey "р">
 <!ENTITY treecol.shortcut.tooltip "Щелкните для сортировки по краткому имени">
 <!ENTITY treecol.description.label "Описание">
+<!ENTITY treecol.description.accesskey "п">
 <!ENTITY treecol.description.tooltip "Щелкните для сортировки по описанию">
 <!ENTITY treecol.addedon.label "Добавлена">
+<!ENTITY treecol.addedon.accesskey "б">
 <!ENTITY treecol.addedon.tooltip "Щелкните для сортировки по порядку добавления">
 <!ENTITY treecol.lastmod.label "Последнее изменение">
+<!ENTITY treecol.lastmod.accesskey "л">
 <!ENTITY treecol.lastmod.tooltip "Щелкните для сортировки по последнему изменению">
 <!ENTITY treecol.lastvisit.label "Последнее посещение">
+<!ENTITY treecol.lastvisit.accesskey "с">
 <!ENTITY treecol.lastvisit.tooltip "Щелкните для сортировки по последнему посещению">
 <!ENTITY bookmarksWindowTitle.label "Менеджер закладок">
 <!ENTITY search.label "Поиск">
-<!ENTITY search.accesskey "П">
+<!ENTITY search.accesskey "и">
