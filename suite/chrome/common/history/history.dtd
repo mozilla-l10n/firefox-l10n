@@ -4,8 +4,8 @@
 <!ENTITY menuBar.tooltip                "Menylinje">
 <!ENTITY searchBar.tooltip              "Søkelinje">
 
-<!ENTITY search.emptytext               "Søkehistorikk">
-<!ENTITY search.key                     "f">
+<!ENTITY search.emptytext               "Søk i historikk">
+<!ENTITY search.key                     "S">
 <!ENTITY view.label                     "Vis">
 
 <!ENTITY view.columns.label             "Vis kolonner">
@@ -24,11 +24,11 @@
 
 <!ENTITY view.groupNone.label           "Ingen">
 <!ENTITY view.groupNone.accesskey       "I">
-<!ENTITY view.groupDay.label            "Dag">
+<!ENTITY view.groupDay.label            "Dato">
 <!ENTITY view.groupDay.accesskey        "D">
 <!ENTITY view.groupSite.label           "Nettsted">
 <!ENTITY view.groupSite.accesskey       "N">
-<!ENTITY view.groupDayAndSite.label     "Dag og nettsted">
+<!ENTITY view.groupDayAndSite.label     "Dato og nettsted">
 <!ENTITY view.groupDayAndSite.accesskey "a">
 
 <!ENTITY cmd.open.label                 "Åpne">
