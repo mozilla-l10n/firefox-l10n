@@ -7,7 +7,7 @@
 <!ENTITY aboutVersion "versión">
 <!ENTITY closeCmdGNOME.label        "Cerrar">  
 <!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightInfo          "&#169;1998-2008 Contribuyentes. Todos los derechos reservados. Firefox y los
-                              logos de Firefox son marcas registradas de The Mozilla Foundation.
-                              Todos los derechos reservados.">
-
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Contribuyentes. Todos los derechos reservados. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Información de licencia">
+<!ENTITY copyrightInfo2             ").">

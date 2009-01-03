@@ -110,5 +110,6 @@
 <!ENTITY downloadOnLogin.label "Descargar mensajes ahora">
 <!ENTITY deferStorageDesc.label "Desmarque esta casilla para guardar el correo de esta cuenta en su propio directorio. Esto hará que esta cuenta aparezca como una cuenta del nivel principal. Si no, formará parte de la cuenta de la bandeja de entrada global en las carpetas locales.">
 <!ENTITY deferStorage.label "Usar la bandeja de entrada global (almacenar en las carpetas locales)">
+<!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Haga clic en Finalizar para guardar estas configuraciones y salir del asistente de cuentas.">
 <!ENTITY clickFinish.labelMac "Haga clic en Listo para guardar estas configuraciones y salir del asistente de cuentas.">

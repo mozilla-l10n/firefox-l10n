@@ -53,12 +53,8 @@
 <!ENTITY  alwaysClear.label              "Siempre borrar mis datos privados cuando cierre &brandShortName;">
 <!ENTITY  alwaysClear.accesskey          "b">
 
-<!ENTITY  askBeforeClear.label           "Preguntarme antes de borrar mis datos privados">
-<!ENTITY  askBeforeClear.accesskey       "A">
-
 <!ENTITY  clearDataSettings.label        "Opciones…">
 <!ENTITY  clearDataSettings.accesskey    "O">
 
 <!ENTITY  clearDataNow.label             "Borrar ahora…">
-<!ENTITY  clearDataNow.label2            "Borrar ahora">
 <!ENTITY  clearDataNow.accesskey         "h">
