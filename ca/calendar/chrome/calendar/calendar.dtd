@@ -53,7 +53,6 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Crea una nova tasca" >
 <!ENTITY calendar.newevent.button.tooltip         "Crea una nova cita" >
-<!ENTITY calendar.edit.button.tooltip             "Edita la cita seleccionada" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tasques" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostra les tasques finalitzades">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip        	"Vés a avui" >
 <!ENTITY calendar.todaypane.button.tooltip      "Mostra el plafó d'avui" >
-<!ENTITY calendar.unifinder.button.tooltip        "Cerca i mostra les cites" >
 
 <!ENTITY calendar.day.button.tooltip            "Canvia a vista diària" >
 <!ENTITY calendar.week.button.tooltip           "Canvia a vista setmanal" >
@@ -104,22 +102,10 @@
 
 <!ENTITY calendar.newtask.button.label          "Nova tasca" >
 <!ENTITY calendar.newevent.button.label         "Nova cita" >
-<!ENTITY calendar.edit.button.label             "Edita" >
 
 <!ENTITY calendar.print.button.label            "Imprimeix" >
 
-<!ENTITY calendar.import.button.tooltip            "Importa les cites d'un fitxer local." >
-<!ENTITY calendar.export.button.tooltip            "Exporta les cites a un fitxer local." >
-<!ENTITY calendar.subscribe.button.tooltip         "Subscriu a un fitxer de calendari en una màquina remota" >
-<!ENTITY calendar.publish.button.tooltip           "Publica les cites a una màquina remota." >
-
 <!ENTITY calendar.export.calendar                "Exporta el calendari…" >
-
-<!ENTITY calendar.import.button.label              "Importa" >
-<!ENTITY calendar.export.button.label              "Exporta" >
-<!ENTITY calendar.subscribe.button.label           "Subscriu" >
-<!ENTITY calendar.publish.button.label             "Publica" >
-<!ENTITY calendar.unifinder.button.label           "Cerca cites" >
 
 <!ENTITY calendar.day.button.label          "Vista diària" >
 <!ENTITY calendar.week.button.label         "Vista setmanal" >
@@ -155,15 +141,15 @@
 <!ENTITY calendar.task.filter.open.label            "Tasques en procés">
 <!ENTITY calendar.task.filter.open.accesskey        "p">
 
-<!ENTITY calendar.task.details.title.label     "Títol:">
-<!ENTITY calendar.task.details.organizer.label       "Des de:">
-<!ENTITY calendar.task.details.priority2.label       "Prioritat:">
-<!ENTITY calendar.task.details.priority.low.label    "Baixa">
-<!ENTITY calendar.task.details.priority.normal.label "Normal">
-<!ENTITY calendar.task.details.priority.high.label   "Alta">
-<!ENTITY calendar.task.details.status.label          "Estat:">
-<!ENTITY calendar.task.details.category.label        "Categoria:">
-<!ENTITY calendar.task.details.repeat.label          "Repetició:">
+<!ENTITY calendar.task-details.title.label           "títol">
+<!ENTITY calendar.task-details.organizer.label       "des de">
+<!ENTITY calendar.task-details.priority.label        "prioritat">
+<!ENTITY calendar.task-details.priority.low.label    "Baixa">
+<!ENTITY calendar.task-details.priority.normal.label "Normal">
+<!ENTITY calendar.task-details.priority.high.label   "Alta">
+<!ENTITY calendar.task-details.status.label          "estat">
+<!ENTITY calendar.task-details.category.label        "categoria">
+<!ENTITY calendar.task-details.repeat.label          "repetició">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorització de tasques">
 <!ENTITY calendar.task.complete.button.tooltip  "Marca les tasques seleccionades com a acabades">

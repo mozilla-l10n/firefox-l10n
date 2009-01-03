@@ -67,11 +67,6 @@
 <!ENTITY calendar.publish.label                 "Publica…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.toolbar.label                 "Barra del calendari">
-<!ENTITY calendar.toolbar.accesskey             "c">
-<!ENTITY task.toolbar.label                     "Barra de les tasques">
-<!ENTITY task.toolbar.accesskey                 "t">
-
 <!ENTITY calendar.menu.customize.label          "Personalitza…">
 <!ENTITY calendar.menu.customize.accesskey      "z">
 
