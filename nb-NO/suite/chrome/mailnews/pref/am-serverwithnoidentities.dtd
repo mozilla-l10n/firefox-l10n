@@ -4,7 +4,7 @@
 <!ENTITY accountName.accesskey "n">
 <!ENTITY messageStorage.label "Meldingslagring">
 <!ENTITY emptyTrashOnExit.label "Tøm søppelkasse ved avslutning">
-<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY emptyTrashOnExit.accesskey "T">
 <!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY localFolderPicker.label "Velg lokal mappe">
 <!ENTITY browseFolder.label "Bla gjennom ...">

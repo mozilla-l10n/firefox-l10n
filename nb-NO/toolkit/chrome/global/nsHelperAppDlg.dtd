@@ -26,8 +26,8 @@
 <!ENTITY saveToDisk.label      "Lagre til disk">
 <!ENTITY saveToDisk.accesskey  "l">
 
-<!ENTITY useSystemDefault.label        "Åpne med standard program (#1)">
-<!ENTITY useSystemDefault.noDesc.label "Åpne med standard program">
+<!ENTITY useSystemDefault.label        "Åpne med standardprogram (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Åpne med standardprogram">
 <!ENTITY useSystemDefault.accesskey    "p">
 
 <!ENTITY openUsing.label       "Åpne med">

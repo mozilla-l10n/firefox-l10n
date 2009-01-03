@@ -3,7 +3,7 @@
 
 <!ENTITY  whenDownloading.label               "Ved nedlasting av denne filtypen:">
 
-<!ENTITY  openDefault.label                   "Åpne med standard program:">
+<!ENTITY  openDefault.label                   "Åpne med standardprogram:">
 <!ENTITY  openDefault.accesskey               "Å">
 <!ENTITY  openApplication.label               "Åpne med dette programmet:">
 <!ENTITY  openApplication.accesskey           "p">

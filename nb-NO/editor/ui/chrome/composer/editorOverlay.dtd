@@ -99,7 +99,7 @@
 <!ENTITY pasteAsQuotationCmd.label "Lim inn som sitat">
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
 <!ENTITY findCmd.label "Søk og erstatt …">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.accesskey "S">
 <!ENTITY findCmd.key "f">
 <!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findAgainCmd.label "Søk etter neste">
@@ -116,7 +116,7 @@
 <!ENTITY checkSpellingCmd.accesskey "S">
 <!ENTITY checkSpellingCmd.key "k">
 <!ENTITY validateCmd.label "Kontroller HTML">
-<!ENTITY validateCmd.accesskey "v">
+<!ENTITY validateCmd.accesskey "K">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Sett inn">
@@ -151,9 +151,9 @@
 <!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Angre">
-<!ENTITY undoCmd.accesskey "o">
+<!ENTITY undoCmd.accesskey "A">
 <!ENTITY redoCmd.label "Gjenta">
-<!ENTITY redoCmd.accesskey "j">
+<!ENTITY redoCmd.accesskey "G">
 <!ENTITY cutCmd.label "Klipp ut">
 <!ENTITY cutCmd.accesskey "u">
 <!ENTITY copyCmd.label "Kopier">

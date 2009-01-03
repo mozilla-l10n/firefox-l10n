@@ -15,7 +15,7 @@
 <!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "Lagre">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveCmd.accesskey "L">
 <!ENTITY saveAsCmd.label "Lagre som">
 <!ENTITY saveAsCmd.accesskey "o">
 <!ENTITY saveAsFileCmd.label "Fil …">

@@ -26,19 +26,19 @@
 
 <!ENTITY toolbarIntro.label             "Velg knappene du vil vise i verktøylinjen">
 
-<!ENTITY navToolbarIntro.label          "Navigeringslinje">
+<!ENTITY navToolbarIntro.label          "Navigasjonslinje">
 <!ENTITY goButton.label                 "Gå">
-<!ENTITY goButton.accesskey             "o">
+<!ENTITY goButton.accesskey             "G">
 <!ENTITY searchButton.label             "Søk">
 <!ENTITY searchButton.accesskey         "S">
 <!ENTITY printButton.label              "Skriv ut">
-<!ENTITY printButton.accesskey          "P">
+<!ENTITY printButton.accesskey          "k">
 
 <!ENTITY persToolbarIntro.label         "Personlig verktøylinje">
 <!ENTITY homeButton.label               "Hjem">
 <!ENTITY homeButton.accesskey           "e">
 <!ENTITY bookmarksButton.label          "Bokmerker">
-<!ENTITY bookmarksButton.accesskey      "k">
+<!ENTITY bookmarksButton.accesskey      "o">
 
 <!ENTITY defaultBrowserGroup.label      "Standard nettleser">
 <!ENTITY defaultBrowserButton.label     "Sett standard nettleser">

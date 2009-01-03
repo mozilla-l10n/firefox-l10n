@@ -360,8 +360,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Avslutt">
 <!ENTITY quitApplicationCmdWin.accesskey   "t">
-<!ENTITY goBackCmd.commandKey "Ø">
-<!ENTITY goForwardCmd.commandKey "Å">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Avslutt">
 <!ENTITY quitApplicationCmd.accesskey   "t">
 <!ENTITY quitApplicationCmdMac.label    "Avslutt">

@@ -33,7 +33,7 @@
 <!ENTITY leaveOnServer.label "La meldinger ligge på tjeneren">
 <!ENTITY leaveOnServer.accesskey "m">
 <!ENTITY headersOnly.label "Last ned bare meldingshoder">
-<!ENTITY headersOnly.accesskey "f">
+<!ENTITY headersOnly.accesskey "n">
 <!ENTITY deleteByAgeFromServer.label "Som er maks">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dager gamle">
