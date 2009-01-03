@@ -46,14 +46,12 @@
 <!ENTITY  alwaysClear.label              "నేను &brandShortName;మూసిన ప్రతిసారి నావ్యక్తిగత డాటాను చెరిపివేయి">
 <!ENTITY  alwaysClear.accesskey          "w">
 
-<!ENTITY  askBeforeClear.label           "వ్యక్తగత డాటాను చెరిపివేయుటకు ముందుగా నన్ను అడుగు">
-<!ENTITY  askBeforeClear.accesskey       "A">
 
 <!ENTITY  clearDataSettings.label        "అమరికలు...">
 <!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  clearDataNow.label             "ఇప్పుడు చెరిపివేయి...">
-<!ENTITY  clearDataNow.label2            "ఇప్పుడు చెరిపివేయి">
+
 <!ENTITY  clearDataNow.accesskey         "N">
 <!ENTITY  rememberDaysBefore.label      "నా చరిత్ర కనీసం ఇన్నిరోజులు వుంచుము">
 <!ENTITY  rememberDaysBefore.accesskey  "h">
