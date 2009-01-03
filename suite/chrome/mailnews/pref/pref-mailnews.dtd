@@ -42,7 +42,7 @@
 <!ENTITY preserveThreading.label          "Behold trådstruktur ved sortering av meldinger">
 <!ENTITY preserveThreading.accesskey      "B">
 
-<!ENTITY defaultMailSettings.description  "Gjør &brandShortName; til standard program for:">
+<!ENTITY defaultMailSettings.description  "Gjør &brandShortName; til standardprogram for:">
 <!ENTITY setDefaultMail.label             "E-post">
 <!ENTITY setDefaultMail.accesskey         "E">
 <!ENTITY setDefaultNews.label             "Nyhetsgrupper">

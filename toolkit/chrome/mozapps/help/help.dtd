@@ -14,8 +14,8 @@
 <!ENTITY copyCmd.accesskey              "K">
 <!ENTITY selectAllCmd.label             "Merk alt">
 <!ENTITY selectAllCmd.accesskey         "M">
-<!ENTITY goBackCmd.commandkey           "Ø">
-<!ENTITY goForwardCmd.commandkey        "Å">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Hjem">
 <!ENTITY homeButton.tooltip             "Gå til hovedsiden for hjelp">
 <!ENTITY printButton.label              "Skriv ut">

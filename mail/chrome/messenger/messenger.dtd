@@ -295,10 +295,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Frem">
 <!ENTITY goForwardCmd.accesskey "F">
-<!ENTITY goForwardCmd.commandKey "Å">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Tilbake">
 <!ENTITY goBackCmd.accesskey "T">
-<!ENTITY goBackCmd.commandKey "Ø">
+<!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY startPageCmd.label "Startside">

@@ -120,7 +120,7 @@
 <!ENTITY unsubscribeNewsgroupCmd.label "Stopp abonnement">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "a">
 <!ENTITY selectMenu.label "Velg">
-<!ENTITY selectMenu.accesskey "M">
+<!ENTITY selectMenu.accesskey "V">
 <!ENTITY selectThreadCmd.label "Tråd">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
@@ -291,9 +291,9 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Tilbake">
-<!ENTITY goBackCmd.commandKey "Ø">
+<!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Frem">
-<!ENTITY goForwardCmd.commandKey "Å">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Flagget melding">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "Startside">

@@ -1,5 +1,5 @@
-<!ENTITY defaultClient.title  "Standard program">
-<!ENTITY defaultClient.intro  "Bruk &brandShortName; som standard program for:">
+<!ENTITY defaultClient.title  "Standardprogram">
+<!ENTITY defaultClient.intro  "Bruk &brandShortName; som standardprogram for:">
 
 <!ENTITY email.label "E-post">
 <!ENTITY newsgroups.label "Nyhetsgrupper">

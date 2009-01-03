@@ -16,7 +16,7 @@
 <!ENTITY languages.customize.others.accesskey           "A">
 <!ENTITY languages.customize.Charset.grouplabel         "Tegnkoding">
 <!ENTITY languages.customize.DefaultCharset.label       "Forvalgt tegnkoding:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "t">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "F">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "f.eks. nn, en-us">
 <!ENTITY languages.customize.moveUp.label               "Flytt opp">
