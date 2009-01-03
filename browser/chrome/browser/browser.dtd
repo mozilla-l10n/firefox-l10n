@@ -172,6 +172,7 @@
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "Privaten Modus zu beenden">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "P">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Ansicht"> 
 <!ENTITY viewMenu.accesskey       "A"> 
