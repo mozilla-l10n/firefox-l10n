@@ -162,7 +162,7 @@
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Otwórz">
-<!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "r">
 <!ENTITY calendar.context.modifyorviewtask.label      "Otwórz zadanie…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
 <!ENTITY calendar.context.newevent.label              "Nowe wydarzenie">
@@ -207,7 +207,7 @@
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label     "Oznacz jako ukończone">
-<!ENTITY calendar.context.markcompleted.accesskey "O">
+<!ENTITY calendar.context.markcompleted.accesskey "n">
 
 <!ENTITY progress.level.0             "Ukończono w 0&percnt;">
 <!ENTITY progress.level.0.accesskey   "0">
