@@ -52,12 +52,8 @@
 <!ENTITY  alwaysClear.label              "Private Daten löschen, wenn &brandShortName; beendet wird">
 <!ENTITY  alwaysClear.accesskey          "P">
 
-<!ENTITY  askBeforeClear.label           "Vor dem Löschen von privaten Daten fragen">
-<!ENTITY  askBeforeClear.accesskey       "V">
-
 <!ENTITY  clearDataSettings.label        "Einstellungen…">
 <!ENTITY  clearDataSettings.accesskey    "E">
 
 <!ENTITY  clearDataNow.label             "Jetzt löschen…">
-<!ENTITY  clearDataNow.label2            "Jetzt löschen">
 <!ENTITY  clearDataNow.accesskey         "J">
