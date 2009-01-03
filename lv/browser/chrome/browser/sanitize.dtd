@@ -6,6 +6,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "Aizvākt ">
+<!ENTITY clearDuration.accesskey      "A">
 <!ENTITY clearDuration.lastHour       "pēdējo stundu">
 <!ENTITY clearDuration.last2Hours     "pēdējās 2 stundas">
 <!ENTITY clearDuration.last4Hours     "pēdējās 4 stundas">

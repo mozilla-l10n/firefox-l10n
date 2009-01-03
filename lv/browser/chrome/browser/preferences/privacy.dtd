@@ -44,12 +44,16 @@
 <!ENTITY alwaysClear.label "Vienmēr notīrīt manus privātos datus, aizverot &brandShortName;">
 <!ENTITY alwaysClear.accesskey "v">
 
-<!ENTITY askBeforeClear.label "Jautāt pirms privāto datu tīrīšanas">
-<!ENTITY askBeforeClear.accesskey "A">
-
 <!ENTITY clearDataSettings.label "Iestatījumi...">
 <!ENTITY clearDataSettings.accesskey "t">
 
 <!ENTITY clearDataNow.label "Notīrīt tagad...">
-<!ENTITY clearDataNow.label2 "Notīrīt tagad">
 <!ENTITY clearDataNow.accesskey "N">
+
+<!ENTITY  locbar.pre.label              "Adrešu joslā ieteikt:">
+<!ENTITY  locbar.pre.accessKey          "A">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Vēsturi un grāmatzīmes">
+<!ENTITY  locbar.history.label          "Vēsturi">
+<!ENTITY  locbar.bookmarks.label        "Grāmatzīmes">
+<!ENTITY  locbar.nothing.label          "Neko">

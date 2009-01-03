@@ -69,3 +69,7 @@ un lejupielādējot jaunāko versiju.">
 <!ENTITY  updateCheck.label               "Meklē jaunāku &brandShortName; versiju…">
 
 <!ENTITY  viewDetails.tooltip             "Aplūkot sīkāķu informāciju par atjauninājumu">
+
+<!ENTITY  manualUpdate.title              "Nesanāk atjaunināšana">
+<!ENTITY  manualUpdate.desc               "Ir pieejami drošības un stabilitātes atjauninājumi, taču jums nav nepieciešamo tiesību instalēt tos. Lūdzu informējiet par šo savu sistēmas administratoru vai arī mēģiniet vēlreiz no cita lietotāja konta, kam ir nepieciešamās atļaujas instalēt programmatūŗas atjauninājumus.">
+<!ENTITY  manualUpdateGetMsg.label        "Jaunākot &brandShortName; versiju jūs vienmēr varat iegūt šeit:">

@@ -4,9 +4,10 @@
 <!ENTITY aboutLink "&lt; Par &brandFullName;">
 <!ENTITY aboutLink.accesskey "P">
 <!ENTITY aboutVersion "versija">
-<!ENTITY copyrightInfo "&#169;1998-2008 Veidotāji. Visas tiesības aizsargātas. Firefox un 
-Firefox logo ir Mozilla Foundation preču zīmes.  Visas tiesības 
-aizsargātas.">
 <!ENTITY closeCmdGNOME.label        "Aizvēt">  
 <!ENTITY closeCmdGNOME.accesskey    "A">
 <!ENTITY copyrightGNOME.accesskey   "i">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Veidotāji. Visas tiesības aizsargātas. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Licencēšanas informācija">
+<!ENTITY copyrightInfo2             ").">
