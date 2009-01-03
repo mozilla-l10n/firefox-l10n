@@ -1,4 +1,12 @@
-<!ENTITY  history.label "Chronik">
+<!ENTITY  history.label                 "Chronik">
+
+<!ENTITY  locbar.pre.label              "">
+<!ENTITY  locbar.pre.accessKey          "">
+<!ENTITY  locbar.post.label             " anzeigen, wenn Adressleiste verwendet wird">
+<!ENTITY  locbar.both.label             "Chronik und Lesezeichen">
+<!ENTITY  locbar.history.label          "Chronik">
+<!ENTITY  locbar.bookmarks.label        "Lesezeichen">
+<!ENTITY  locbar.nothing.label          "Nichts">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
