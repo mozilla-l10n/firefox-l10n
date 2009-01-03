@@ -167,8 +167,11 @@
 <!ENTITY clearRecentHistoryCmd.label            "Neuste Chronik löschen">
 <!ENTITY clearRecentHistoryCmd.accesskey        "N">
 
-<!ENTITY privateBrowsingCmd.label            "Privater Modus">
-<!ENTITY privateBrowsingCmd.accesskey        "P">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Privaten Modus starten">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
+<!ENTITY privateBrowsingCmd.stop.label          "Privaten Modus zu beenden">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 
 <!ENTITY viewMenu.label         "Ansicht"> 
 <!ENTITY viewMenu.accesskey       "A"> 
