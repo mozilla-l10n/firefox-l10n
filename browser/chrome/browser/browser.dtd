@@ -168,8 +168,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "Vymazať históriu prehliadania">
 <!ENTITY clearRecentHistoryCmd.accesskey        "h">
 
-<!ENTITY privateBrowsingCmd.label            "Súkromné prehliadanie">
-<!ENTITY privateBrowsingCmd.accesskey        "k">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Spustiť režim Súkromné prehliadanie">
+<!ENTITY privateBrowsingCmd.start.accesskey     "k">
+<!ENTITY privateBrowsingCmd.stop.label          "Zrušiť režim Súkromné prehliadanie">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "k">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "Zobraziť">
 <!ENTITY viewMenu.accesskey "Z">

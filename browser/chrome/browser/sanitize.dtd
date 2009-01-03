@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "Odstrániť údaje za ">
+<!ENTITY clearDuration.accesskey      "O">
 <!ENTITY clearDuration.lastHour       "poslednú hodinu">
 <!ENTITY clearDuration.last2Hours     "posledné 2 hodiny">
 <!ENTITY clearDuration.last4Hours     "posledné 4 hodiny">

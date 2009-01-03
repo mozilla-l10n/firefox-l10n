@@ -12,6 +12,13 @@
 <!ENTITY  noupdatesautodisabled.intro     "Nie sú dostupné žiadne aktualizácie. Skúste to neskôr alebo povoľte
                                            automatickú kontrolu aktualizácií &brandShortName;u.">
 
+<!ENTITY  manualUpdate.title              "Aktualizácia zlyhala">
+<!ENTITY  manualUpdate.desc               "K dispozícii je odporúčaná bezpečnostná a stabilizačná aktualizácia, avšak
+                                           nemáte dostatočné oprávnenia na jej inštaláciu. Prosím, kontaktujte
+                                           správcu systému alebo ju skúste nainštalovať z používateľského konta,
+                                           ktoré umožňuje inštaláciu softvéru v tomto počítači.">
+<!ENTITY  manualUpdateGetMsg.label        "Najnovšiu verziu programu &brandShortName; nájdete na adrese:">
+
 <!ENTITY  incompatibleCheck.title         "Kontrola kompatibility doplnkov">
 <!ENTITY  incompatibleCheck.label         "Vyhľadávajú sa nové verzie vašich doplnkov…">
 
