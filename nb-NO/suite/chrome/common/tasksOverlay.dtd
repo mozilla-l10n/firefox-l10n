@@ -28,7 +28,7 @@
 <!ENTITY downloadManagerCmd.label "Nedlastinger">
 <!ENTITY downloadManagerCmd.accesskey "N">
 
-<!ENTITY addonsManagerCmd.label "Utvidelseshåndtering">
+<!ENTITY addonsManagerCmd.label "Utvidelser">
 <!ENTITY addonsManagerCmd.accesskey "U">
 
 <!ENTITY switchProfileCmd.label "Bytt profil …">
