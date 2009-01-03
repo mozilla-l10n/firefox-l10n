@@ -7,11 +7,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-
-<!-- ### LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!-- ### ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (גלישה פרטית)" -->
-
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(גלישה פרטית)">
@@ -91,6 +86,7 @@
 <!ENTITY stopButton.tooltip "הפסק לטעון דף זה">
 <!ENTITY goEndCap.tooltip "עבור לכתובת שבסרגל המיקום">
 
+<!-- ### ENTITY feedButton.tooltip           "הירשם לדף זה…" -->
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY printButton.tooltip "הדפס דף זה">
 <!ENTITY locationItem.title "מיקום">
@@ -162,8 +158,16 @@
 <!ENTITY clearRecentHistoryCmd.label            "מחק היסטוריה אחרונה">
 <!ENTITY clearRecentHistoryCmd.accesskey        "ה">
 
-<!ENTITY privateBrowsingCmd.label            "גלישה פרטית">
-<!ENTITY privateBrowsingCmd.accesskey        "פ">
+<!-- ### ENTITY privateBrowsingCmd.label            "גלישה פרטית" -->
+<!-- ### ENTITY privateBrowsingCmd.accesskey        "פ" -->
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "התחל גלישה פרטית">
+<!ENTITY privateBrowsingCmd.start.accesskey     "ג">
+<!ENTITY privateBrowsingCmd.stop.label          "הפסק גלישה פרטית">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "ג">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
 
 <!ENTITY viewMenu.label "תצוגה">
 <!ENTITY viewMenu.accesskey "ת">

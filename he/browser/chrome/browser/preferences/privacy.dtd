@@ -15,7 +15,6 @@
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-
 <!ENTITY  rememberDaysBefore.label      "שמור את ההיסטוריה שלי לפחות ">
 <!ENTITY  rememberDaysBefore.accesskey  "ה">
 <!ENTITY  rememberDaysAfter2.label      "ימים">
@@ -24,6 +23,8 @@
 <!ENTITY rememberForms.accesskey "ט">
 <!ENTITY rememberDownloads.label "זכור את מה שהורדתי">
 <!ENTITY rememberDownloads.accesskey "ז">
+
+
 <!ENTITY cookies.label "עוגיות">
 <!ENTITY acceptCookies.label "קבל עוגיות מאתרים">
 <!ENTITY acceptCookies.accesskey "ע">
@@ -39,12 +40,12 @@
 <!ENTITY privateData.label "נתונים אישיים">
 <!ENTITY alwaysClear.label "תמיד נקה את הנתונים האישיים שלי כאשר אני סוגר את &brandShortName;">
 <!ENTITY alwaysClear.accesskey "נ">
-<!ENTITY askBeforeClear.label "שאל אותי לפני ניקוי נתונים אישיים">
-<!ENTITY askBeforeClear.accesskey "ש">
+<!-- ### ENTITY askBeforeClear.label "שאל אותי לפני ניקוי נתונים אישיים" -->
+<!-- ### ENTITY askBeforeClear.accesskey "ש" -->
 <!ENTITY clearDataSettings.label "הגדרות...">
 <!ENTITY clearDataSettings.accesskey "ה">
 <!ENTITY clearDataNow.label "נקה כעת...">
-<!ENTITY clearDataNow.label2 "נקה כעת">
+<!-- ### ENTITY clearDataNow.label2 "נקה כעת" -->
 <!ENTITY clearDataNow.accesskey "כ">
 
 <!ENTITY  acceptThirdParty.label        "קבל עוגיות צד־שלישי">
