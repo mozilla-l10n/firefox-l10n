@@ -12,10 +12,10 @@
 <!ENTITY  noupdatesautodisabled.intro     "Er zijn geen updates beschikbaar. Controleer later nog eens of activeer
                                            de automatische updatecontrole van &brandShortName;.">
 
-<!ENTITY  manualUpdate.title              "Update niet mogelijk">
-<!ENTITY  manualUpdate.desc               "Een aanbevolen veiligheids- en stabiliteitsupdate is beschikbaar maar u heeft
-                                           niet de systeemrechten om het te installeren. Neem contact op met uw
-                                           systeembeheerder of probeer het nog een keer met een account die de rechten
+<!ENTITY  manualUpdate.title              "Bijwerken niet mogelijk">
+<!ENTITY  manualUpdate.desc               "Er is een aanbevolen beveiligings- en stabiliteitsupdate beschikbaar, maar u hebt
+                                           niet de benodigde systeemrechten om deze te installeren. Neem contact op met uw
+                                           systeembeheerder of probeer het nogmaals met een account die de rechten
                                            heeft om software op deze computer te installeren.">
 <!ENTITY  manualUpdateGetMsg.label        "U kunt de laatste versie van &brandShortName; altijd verkrijgen op:">
 
@@ -65,7 +65,7 @@
 <!ENTITY  finishedPage.text               "De update zal de volgende keer dat &brandShortName; start worden geïnstalleerd. U
                                            kunt &brandShortName; nu herstarten of doorgaan met werken en later herstarten.">
 
-<!ENTITY  finishedBackgroundPage.text     "&brandShortName; heeft een veiligheids- en stabiliteitsupdate gedownload
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; heeft een beveiligings- en stabiliteitsupdate gedownload
                                            en is klaar om deze te installeren.">
 <!ENTITY  finishedBackground.name         "Update:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->

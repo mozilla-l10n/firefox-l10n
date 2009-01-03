@@ -4,7 +4,7 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title Bladwijzers
 #define bookmarks_heading Bladwijzers
 
 # LOCALIZATION NOTE (bookmarks_addons):

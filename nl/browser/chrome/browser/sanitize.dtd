@@ -1,5 +1,5 @@
-<!ENTITY sanitizePrefs.title           "Privégegevens opruimen">
-<!ENTITY sanitizeDialog2.title         "Recente geschiedenis opruimen">
+<!ENTITY sanitizePrefs.title           "Privégegevens wissen">
+<!ENTITY sanitizeDialog2.title         "Recente geschiedenis wissen">
 
 <!ENTITY sanitizeItems.label          "De volgende gegevens nu wissen:">
 <!ENTITY clearDataSettings2.label     "Als ik &brandShortName; afsluit, automatisch het volgende wissen:">
@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "Verwijderen: ">
+<!ENTITY clearDuration.accesskey      "V">
 <!ENTITY clearDuration.lastHour       "het laatste uur">
 <!ENTITY clearDuration.last2Hours     "de laatste 2 uur">
 <!ENTITY clearDuration.last4Hours     "de laatste 4 uur">
@@ -28,13 +29,13 @@ that require it.  -->
 <!ENTITY itemCookies.label            "Cookies">
 <!ENTITY itemCookies.accesskey        "C">
 <!ENTITY itemWebCache.label           "Webbuffer">
-<!ENTITY itemWebCache.accesskey       "W">
+<!ENTITY itemWebCache.accesskey       "e">
 <!ENTITY itemOfflineApps.label        "Offlinewebsitegegevens">
 <!ENTITY itemOfflineApps.accesskey    "O">
 <!ENTITY itemDownloadList.label       "Downloadlijst">
 <!ENTITY itemDownloadList.accesskey   "D">
 <!ENTITY itemActiveLogins.label       "Actieve aanmeldingen">
-<!ENTITY itemActiveLogins.accesskey   "A">
+<!ENTITY itemActiveLogins.accesskey   "a">
 
-<!ENTITY window.width                 "30em">
-<!ENTITY column.width                 "14em">
+<!ENTITY window.width                 "34em">
+<!ENTITY column.width                 "16em">

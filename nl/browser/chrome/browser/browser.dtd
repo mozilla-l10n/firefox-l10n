@@ -56,7 +56,7 @@
 <!ENTITY fullScreenClose.tooltip "Sluiten">
 <!ENTITY fullScreenAutohide.label "Werkbalken verbergen">
 <!ENTITY fullScreenAutohide.accesskey "W">
-<!ENTITY fullScreenExit.label "Volledig-schermmodus verlaten">
+<!ENTITY fullScreenExit.label "Volledigschermmodus verlaten">
 <!ENTITY fullScreenExit.accesskey "d">
 
 <!ENTITY closeWindow.label "Venster sluiten">
@@ -164,11 +164,15 @@
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren…">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
 
-<!ENTITY clearRecentHistoryCmd.label            "Recente geschiedenis opruimen">
+<!ENTITY clearRecentHistoryCmd.label            "Recente geschiedenis wissen">
 <!ENTITY clearRecentHistoryCmd.accesskey        "R">
 
-<!ENTITY privateBrowsingCmd.label            "Privé navigeren">
-<!ENTITY privateBrowsingCmd.accesskey        "P">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Privé navigeren starten">
+<!ENTITY privateBrowsingCmd.start.accesskey     "n">
+<!ENTITY privateBrowsingCmd.stop.label          "Privé navigeren stoppen">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "n">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Beeld"> 
 <!ENTITY viewMenu.accesskey       "l"> 

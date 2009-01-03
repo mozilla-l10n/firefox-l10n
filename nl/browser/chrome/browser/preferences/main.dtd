@@ -8,7 +8,7 @@
 <!ENTITY location.label            "Startpagina:">
 <!ENTITY location.accesskey        "p">
 <!ENTITY useCurrentPage.label      "Huidige pagina gebruiken">
-<!ENTITY useCurrentPage.accesskey  "H">
+<!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Huidige pagina’s gebruiken">
 <!ENTITY useBookmark.label         "Bladwijzer gebruiken">
 <!ENTITY useBookmark.accesskey     "B">
@@ -20,7 +20,7 @@
 <!ENTITY showWhenDownloading.label     "Downloadbeheerder tonen tijdens het downloaden van een bestand">
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label           "Sluiten wanneer alle downloads zijn voltooid">
-<!ENTITY closeWhenDone.accesskey       "u">
+<!ENTITY closeWhenDone.accesskey       "w">
 <!ENTITY saveTo.label                  "Bestanden opslaan in">
 <!ENTITY saveTo.accesskey              "o">
 <!ENTITY chooseFolderWin.label         "Bladeren…">
