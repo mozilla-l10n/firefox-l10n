@@ -8,10 +8,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privātā pārlūkošana)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
-
 <!ENTITY tabCmd.label "Jauna cilne">
 <!ENTITY tabCmd.accesskey "C">
 <!ENTITY tabCmd.commandkey "t">
@@ -371,7 +367,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label "Gatavs">
 <!ENTITY editBookmark.cancel.label "Atcelt">
-<!ENTITY editBookmark.removeBookmark.label "Aizvākt grāmatzīmi">
 <!ENTITY editBookmark.removeBookmark.accessKey "Z">
 <!ENTITY editBookmark.undo.label "Atsaukt">
 <!ENTITY editBookmark.undo.accessKey "U">
@@ -424,7 +419,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "Nosūtīt audio…">
 <!ENTITY sendAudioCmd.accesskey       "n">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privātā pārlūkošana)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
-<!ENTITY privateBrowsingCmd.label            "Privātā pārlūkošana">
-<!ENTITY privateBrowsingCmd.accesskey        "P">
+<!ENTITY privateBrowsingCmd.commandkey        "P">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Sākt privāto pārlūkošanu">
+<!ENTITY privateBrowsingCmd.start.accesskey     "S">
+<!ENTITY privateBrowsingCmd.stop.label          "Pārtraukt privāto pārlūkošanu">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "r">
 <!ENTITY ctrlTab.search.emptyText "Meklēt cilnes">
+<!ENTITY bookmarksToolbarChevron.tooltip "Rādīt vairāk grāmatzīmju">
+<!ENTITY feedButton.tooltip           "Pierakstīties uz šo lapu…">

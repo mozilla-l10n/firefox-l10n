@@ -3,4 +3,4 @@
 <!ENTITY date.heading "Nosūtīšanas datums">
 <!ENTITY noReports.label "Nav nosūtīts neviens avārijas ziņojums.">
 <!ENTITY noConfig.label "Šī lietotne nav konfigurēta parādīt avāriju ziņojumus. Ir jāiestata iestatījums <code>breakpad.reportURL</code>.">
-<!ENTITY clearReports.label "Izmest ziņojumus">
+<!ENTITY clearAllReports.label "Izmest visus ziņojumus">
