@@ -93,18 +93,25 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "P">
 
 <!ENTITY treecol.name.label             "Navn">
+<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip           "Trykk her for å sortere etter navn">
 <!ENTITY treecol.url.label              "Adresse">
+<!ENTITY treecol.url.accesskey          "A">
 <!ENTITY treecol.url.tooltip            "Trykk her for å sortere etter nettsted">
 <!ENTITY treecol.shortcut.label         "Nøkkelord">
+<!ENTITY treecol.shortcut.accesskey     "N">
 <!ENTITY treecol.shortcut.tooltip       "Trykk her for å sortere etter nøkkelord">
 <!ENTITY treecol.description.label      "Beskrivelse">
+<!ENTITY treecol.description.accesskey  "B">
 <!ENTITY treecol.description.tooltip    "Trykk her for å sortere etter beskrivelse">
 <!ENTITY treecol.addedon.label          "Lagt til">
+<!ENTITY treecol.addedon.accesskey      "L">
 <!ENTITY treecol.addedon.tooltip        "Trykk her for å sortere etter når den ble lagt til">
 <!ENTITY treecol.lastmod.label          "Sist endret">
+<!ENTITY treecol.lastmod.accesskey      "S">
 <!ENTITY treecol.lastmod.tooltip        "Trykk her for å sortere etter sist endret">
 <!ENTITY treecol.lastvisit.label        "Sist besøkt">
+<!ENTITY treecol.lastvisit.accesskey    "e">
 <!ENTITY treecol.lastvisit.tooltip      "Trykk her for å sortere etter siste besøk">
 
 <!ENTITY bookmarksWindowTitle.label     "Bokmerkebehandling">
