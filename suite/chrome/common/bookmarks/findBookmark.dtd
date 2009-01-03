@@ -9,6 +9,8 @@
 <!ENTITY search.contains.label "contiene">
 <!ENTITY search.doesntcontain.label "no contiene">
 <!ENTITY save.query.label "Guardar búsqueda en marcadores">
+<!ENTITY save.query.accesskey "G">
 <!ENTITY search.for.label "Buscar marcadores cuyo">
 <!ENTITY findBookmark.title "Buscar marcadores">
 <!ENTITY findButton.label "Buscar">
+<!ENTITY findButton.accesskey "B">
