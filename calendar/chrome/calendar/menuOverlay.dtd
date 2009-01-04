@@ -70,11 +70,6 @@
 <!ENTITY calendar.publish.label                 "Publiser …">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.toolbar.label                 "Kalender-verktøylinje">
-<!ENTITY calendar.toolbar.accesskey             "K">
-<!ENTITY task.toolbar.label                     "Oppgåve-verktøylinje">
-<!ENTITY task.toolbar.accesskey                 "O">
-
 <!ENTITY calendar.menu.customize.label          "Tilpass …">
 <!ENTITY calendar.menu.customize.accesskey      "T">
 

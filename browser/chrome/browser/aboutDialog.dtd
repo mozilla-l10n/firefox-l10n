@@ -1,10 +1,13 @@
 <!ENTITY aboutDialog.title          "Om &brandFullName;">
-<!ENTITY copyright                  "Bidragsytarar">
-<!ENTITY copyright.accesskey        "B">
+<!ENTITY copyright                  "Medverkande">
+<!ENTITY copyright.accesskey        "M">
 <!ENTITY copyrightGNOME.accesskey   "r">
 <!ENTITY aboutLink                  "&lt; Om &brandFullName;">
 <!ENTITY aboutLink.accesskey        "O">
 <!ENTITY aboutVersion               "versjon">
 <!ENTITY closeCmdGNOME.label        "Lat att">  
 <!ENTITY closeCmdGNOME.accesskey    "L">
-<!ENTITY copyrightInfo              "&#169;1998-2008 Bidragsytarar. Alle rettar med atterhald. Firefox og Firefox-logoane er varemerke som høyrer til The Mozilla Foundation.  Alle rettar med atterhald.">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Bidragsytarar. Alle rettar med atterhald. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Lisensinformasjon">
+<!ENTITY copyrightInfo2             ").">

@@ -12,6 +12,13 @@
 <!ENTITY  noupdatesautodisabled.intro     "Ingen oppdateringar er tilgjengelege. Prøv igjen seinare, eller
                                            slå på automatisk oppdateringssøk for &brandShortName;.">
 
+<!ENTITY  manualUpdate.title              "Klarte ikkje å oppdatere">
+<!ENTITY  manualUpdate.desc               "Ei tilrådd sikkerheits- og stabilitetsoppdatering er tilgjengeleg, men 
+                                     du har ikkje tilgangsrettane som er nødvendig for å installere henne. Kontakt
+                                     systemansvarleg eller prøv på nytt frå ein brukarkonto som har tilgang til
+                                     å installere programvare på denne datamaskina.">
+<!ENTITY  manualUpdateGetMsg.label        "Du kan òg laste ned den nyaste versjonen av &brandShortName; frå:">
+
 <!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
 <!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
 
