@@ -21,6 +21,17 @@
 
 <!ENTITY  license.instructions            "Se acepta os termos do contrato, prema Acepto 
                                            para continuar coa instalación da actualización.">
+<!ENTITY  manualUpdate.title              "Imposibel actualizar">
+<!ENTITY  manualUpdateGetMsg.label        "Sempre pode obter a última versión de &brandShortName; en:">
+
+<!ENTITY  manualUpdate.desc               "Unha actualización de seguridade e estabilidade está dispoñibel mais
+                                           vostede non ten os permisos requeridos
+para instalala. Por favor, contacte
+                                           con administración de sistemas ou intente de novo dende unha
+conta do sistema con permisos para 
+                                           instalar aplicativos nesta computadora.">
+<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
+
 
 <!ENTITY  license.titleText               "Contrato de licenza de software">
 <!ENTITY  license.introText               "Termos e condicións de uso deste software.">
