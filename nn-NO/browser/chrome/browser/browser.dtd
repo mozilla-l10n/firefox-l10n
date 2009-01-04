@@ -167,8 +167,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "Slett nyleg historikk">
 <!ENTITY clearRecentHistoryCmd.accesskey        "e">
 
-<!ENTITY privateBrowsingCmd.label            "Privat nettlesing">
-<!ENTITY privateBrowsingCmd.accesskey        "P">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Start privat nettlesing">
+<!ENTITY privateBrowsingCmd.start.accesskey     "S">
+<!ENTITY privateBrowsingCmd.stop.label          "Stopp privat nettlesing">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "S">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vis"> 
 <!ENTITY viewMenu.accesskey       "V"> 

@@ -1,7 +1,7 @@
 <!ENTITY  history.label                 "Historikk">
 
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.label              "Når eg brukar adresselinja, føreslå:">
+<!ENTITY  locbar.pre.accessKey          "N">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Historikk og bokmerke">
 <!ENTITY  locbar.history.label          "Historikk">
@@ -18,11 +18,11 @@
 <!ENTITY  rememberDaysBefore.accesskey  "v">
 <!ENTITY  rememberDaysAfter2.label      "dagar">
 
-<!ENTITY  rememberForms.label           "Hugs kva eg skriv inn i skjema og søkjefeltet">
+<!ENTITY  rememberForms.label           "Hugs innhald i skjema og søkjefeltet">
 <!ENTITY  rememberForms.accesskey       "u">
 
-<!ENTITY  rememberDownloads.label       "Hugs filer som er lasta ned">
-<!ENTITY  rememberDownloads.accesskey   "s">
+<!ENTITY  rememberDownloads.label       "Hugs filer som eg har lasta ned">
+<!ENTITY  rememberDownloads.accesskey   "g">
 
 
 <!ENTITY  cookies.label                 "Infokapslar">
@@ -49,15 +49,11 @@
 
 <!ENTITY  privateData.label             "Private data">
 
-<!ENTITY  alwaysClear.label              "Slett alltid private data når eg lèt att &brandShortName;">
+<!ENTITY  alwaysClear.label              "Alltid slett private data når eg lèt att &brandShortName;">
 <!ENTITY  alwaysClear.accesskey          "A">
-
-<!ENTITY  askBeforeClear.label           "Spør meg før private data vert sletta">
-<!ENTITY  askBeforeClear.accesskey       "S">
 
 <!ENTITY  clearDataSettings.label        "Innstillingar …">
 <!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  clearDataNow.label             "Slett no …">
-<!ENTITY  clearDataNow.label2            "Slett no">
 <!ENTITY  clearDataNow.accesskey         "n">
