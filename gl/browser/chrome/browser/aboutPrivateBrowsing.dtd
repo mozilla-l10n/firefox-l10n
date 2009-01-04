@@ -1,14 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Navegación privada">
+<!ENTITY privatebrowsingpage.title                 "Navegación privada">
+<!ENTITY privatebrowsingpage.title.normal          "Desexa iniciar a navegación privada?">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Navegación privada">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; non lembrará ningún historial desta sesión.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; non está actualmente en modo de navegación privada.">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "O &brandShortName; non memorizará o histórico desta sesión.">
-<!ENTITY privatebrowsingpage.longDesc                  "O histórico non será memorizado polo &brandShortName; durante esta sesión. Isto inclúe as páxinas visitadas, pesquisas, descargas, dados fornecidos a formulários, cookies e arquivos temporais. Porén, serán preservados os arquivos gardados polas descargas así como os novos favoritos.">
+<!ENTITY privatebrowsingpage.description               "Nunha sesión de navegación privada, o &brandShortName; non gardará nengún historial de navegación, pescuda, descargas, formularios, cookies ou ficheiros temporais da internet. Con todo, os ficheiros que descargue e os marcadores gardados sí permanecerán.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Vostede pode querer comezar limpando o seu histórico recente.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Limpar histórico recente">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "L">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Pode desexar comezar tamén por ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "borrar o seu historial recente">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   " .">
 
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Comezar a navegacion privada">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Para fechar a navegación privada, desmarque o menu “Ferramentas &gt; Navegación privada”.">
-<!ENTITY privatebrowsingpage.footerDesc                "Divirtase!">
+<!ENTITY privatebrowsingpage.howToStop                 "Para deter a Navegación Privada, selecione &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ou feche o &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "Para iniciar a navegación privada, pode tamén selecionar &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Lembre que aínda que esta computadora non manteña un rexistro do seu historial de navegación, o seu fornecedor de internet pode saber as páxinas que vostede visita.">
+<!ENTITY privatebrowsingpage.learnMore                 "Saber máis">
