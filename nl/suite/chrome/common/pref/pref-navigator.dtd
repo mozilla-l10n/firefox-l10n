@@ -1,6 +1,7 @@
 <!ENTITY pref.navigator.title           "Browser">
 
-<!ENTITY navRadio                       "Tonen tijdens">
+<!ENTITY navRadio.label                 "Tonen tijdens">
+<!ENTITY navRadio.accesskey             "T">
 <!ENTITY navStartPageMenu.label         "Browser opstarten">
 <!ENTITY newWinPageMenu.label           "Nieuw venster">
 <!ENTITY newTabPageMenu.label           "Nieuw tabblad">
