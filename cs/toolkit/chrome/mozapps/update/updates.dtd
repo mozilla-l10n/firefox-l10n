@@ -12,6 +12,13 @@
 <!ENTITY noupdatesautodisabled.intro "Nebyly nalezeny žádné nové aktualizace. Opakujte kontrolu později nebo povolte aplikaci &brandShortName; automatické zjišťování dostupnosti.">
 
 
+<!ENTITY manualUpdate.title "Aktualizace není možná">
+<!ENTITY manualUpdate.desc "Doporučovaná bezpečnostní a výkonostní aktualizace je dostupná, ale nemáte systémová práva potřebná k její instalaci. Kontaktujte prosím svého systémového administrátora, nebo ji zkuste znovu z účtu, který má oprávnění k instalaci softwaru na tomto počítači.">
+
+
+
+<!ENTITY manualUpdateGetMsg.label "Nejnovější verze aplikace &brandShortName; je vždy dostupná na:">
+
 <!ENTITY incompatibleCheck.title "Kontrola kompatibility doplňků">
 <!ENTITY incompatibleCheck.label "Zjištuji dostupnost nových verzí vašich doplňků…">
 
@@ -54,11 +61,11 @@
 <!ENTITY errorpatching.intro "Použití rozdílové aktualizace se nezdařilo. Aplikace &brandShortName; se pokusí stáhnout kompletní aktualizaci.">
 
 
-<!ENTITY  finishedPage.title "Aktualizace je připravena k instalaci">
-<!ENTITY  finishedPage.text "Aktualizace bude nainstalována při příštím startu aplikace &brandShortName;. Nyní můžete aplikaci &brandShortName; restartovat nebo pokračovat v práci a restartovat ji později.">
+<!ENTITY finishedPage.title "Aktualizace je připravena k instalaci">
+<!ENTITY finishedPage.text "Aktualizace bude nainstalována při příštím startu aplikace &brandShortName;. Nyní můžete aplikaci &brandShortName; restartovat nebo pokračovat v práci a restartovat ji později.">
 
 
-<!ENTITY  finishedBackgroundPage.text "Bezpečnostní a výkonostní aktualizace aplikace &brandShortName; byla stažena a je připraven instalaci.">
+<!ENTITY finishedBackgroundPage.text "Bezpečnostní a výkonostní aktualizace aplikace &brandShortName; byla stažena a je připraven instalaci.">
 
 <!ENTITY finishedBackground.name "Aktualizace:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
