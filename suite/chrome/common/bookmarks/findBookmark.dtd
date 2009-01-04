@@ -10,6 +10,8 @@
 <!ENTITY search.contains.label          "enthält">
 <!ENTITY search.doesntcontain.label     "enthält nicht">
 <!ENTITY save.query.label               "Suche in Lesezeichen speichern">
+<!ENTITY save.query.accesskey           "u">
 <!ENTITY search.for.label               "Lesezeichen suchen, deren">
 <!ENTITY findBookmark.title             "Lesezeichen suchen">
 <!ENTITY findButton.label               "Suchen">
+<!ENTITY findButton.accesskey           "S">
