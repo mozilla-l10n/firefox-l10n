@@ -12,6 +12,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "Отстрани ">
+<!ENTITY clearDuration.accesskey      "р">
 <!ENTITY clearDuration.last2Hours     "последните 2 часа">
 <!ENTITY clearDuration.last4Hours     "последните 4 часа">
 <!ENTITY clearDuration.lastHour       "последниот час">

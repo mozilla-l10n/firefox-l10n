@@ -38,10 +38,7 @@
 <!ENTITY privateData.label "Приватни податоци">
 <!ENTITY alwaysClear.label "Чисти ги приватните податоци при секој излез од &brandShortName;">
 <!ENTITY alwaysClear.accesskey "о">
-<!ENTITY askBeforeClear.label "Прашај ме пред чистењето на приватните податоци">
-<!ENTITY askBeforeClear.accesskey "а">
 <!ENTITY clearDataSettings.label "Поставки…">
 <!ENTITY clearDataSettings.accesskey "т">
 <!ENTITY clearDataNow.label "Исчисти сега…">
-<!ENTITY clearDataNow.label2 "Исчисти сега">
 <!ENTITY clearDataNow.accesskey "с">
