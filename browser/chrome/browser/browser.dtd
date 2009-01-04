@@ -168,8 +168,12 @@
 <!ENTITY clearRecentHistoryCmd.label "Vymazat nedávnou historii">
 <!ENTITY clearRecentHistoryCmd.accesskey "h">
 
-<!ENTITY privateBrowsingCmd.label "Anonymní prohlížení">
-<!ENTITY privateBrowsingCmd.accesskey "A">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label "Spustit anonymní prohlížení">
+<!ENTITY privateBrowsingCmd.start.accesskey "a">
+<!ENTITY privateBrowsingCmd.stop.label "Ukončit anonymní prohlížení">
+<!ENTITY privateBrowsingCmd.stop.accesskey "a">
+<!ENTITY privateBrowsingCmd.commandkey "P">
 
 <!ENTITY viewMenu.label "Zobrazit">
 <!ENTITY viewMenu.accesskey "Z">

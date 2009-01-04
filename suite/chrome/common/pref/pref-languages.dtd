@@ -11,6 +11,7 @@
 <!ENTITY languages.customize.add.title.label "Přidat jazyky">
 <!ENTITY languages.customize.available.label "Jazyky:">
 <!ENTITY languages.customize.active.label "Jazyky v pořadí, v jakém se mají používat:">
+<!ENTITY languages.customize.active.accesskey "J">
 <!ENTITY languages.customize.others.label "Ostatní:">
 <!ENTITY languages.customize.others.accesskey "O">
 <!ENTITY languages.customize.Charset.grouplabel "Znaková sada">

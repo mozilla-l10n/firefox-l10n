@@ -93,18 +93,25 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "o">
 
 <!ENTITY treecol.name.label "Název">
+<!ENTITY treecol.name.accesskey "N">
 <!ENTITY treecol.name.tooltip "Klepnutím seřadíte podle názvu">
 <!ENTITY treecol.url.label "Umístění">
+<!ENTITY treecol.url.accesskey "U">
 <!ENTITY treecol.url.tooltip "Klepnutím seřadíte podle umístění">
 <!ENTITY treecol.shortcut.label "Klíčové slovo">
+<!ENTITY treecol.shortcut.accesskey "K">
 <!ENTITY treecol.shortcut.tooltip "Klepnutím seřadíte podle klíčového slova">
 <!ENTITY treecol.description.label "Popis">
+<!ENTITY treecol.description.accesskey "P">
 <!ENTITY treecol.description.tooltip "Klepnutím seřadíte podle popisu">
 <!ENTITY treecol.addedon.label "Přidáno">
+<!ENTITY treecol.addedon.accesskey "d">
 <!ENTITY treecol.addedon.tooltip "Klepnutím seřadíte podle času přidání">
 <!ENTITY treecol.lastmod.label "Poslední změna">
+<!ENTITY treecol.lastmod.accesskey "z">
 <!ENTITY treecol.lastmod.tooltip "Klepnutím seřadíte podle poslední změny">
 <!ENTITY treecol.lastvisit.label "Poslední návštěva">
+<!ENTITY treecol.lastvisit.accesskey "v">
 <!ENTITY treecol.lastvisit.tooltip "Klepnutím seřadíte podle poslední návštěvy">
 
 <!ENTITY bookmarksWindowTitle.label "Správce záložek">

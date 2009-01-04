@@ -5,16 +5,16 @@
 <!ENTITY clearDataSettings2.label "Při ukončení aplikace &brandShortName; vymazat automaticky následující:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
-
-<!ENTITY clearDuration.label          "Remove ">
-<!ENTITY clearDuration.lastHour       "the last hour">
-<!ENTITY clearDuration.last2Hours     "the last 2 hours">
-<!ENTITY clearDuration.last4Hours     "the last 4 hours">
-<!ENTITY clearDuration.today          "my history for today">
-<!ENTITY clearDuration.everything     "my entire history">
+<!ENTITY clearDuration.label "Odstranit ">
+<!ENTITY clearDuration.accesskey "O">
+<!ENTITY clearDuration.lastHour "poslední hodinu">
+<!ENTITY clearDuration.last2Hours "poslední 2 hodiny">
+<!ENTITY clearDuration.last4Hours "poslední 4 hodiny">
+<!ENTITY clearDuration.today "dnešní historii">
+<!ENTITY clearDuration.everything "celou historii">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix         "">
+<!ENTITY clearDuration.suffix "">
 
 <!ENTITY historySection.label "Historie">
 <!ENTITY dataSection.label "Data">

@@ -1,9 +1,10 @@
 <!ENTITY pref.navigator.title "Prohlížeč">
 
-<!ENTITY navRadio "Zobrazit">
-<!ENTITY navStartPageMenu.label "při spuštění prohlížeče">
-<!ENTITY newWinPageMenu.label "v novém okně">
-<!ENTITY newTabPageMenu.label "v novém panelu">
+<!ENTITY navRadio.label "Zobrazit v">
+<!ENTITY navRadio.accesskey "Z">
+<!ENTITY navStartPageMenu.label "spuštění prohlížeče">
+<!ENTITY newWinPageMenu.label "novém okně">
+<!ENTITY newTabPageMenu.label "novém panelu">
 
 <!ENTITY blankPageRadio.label "Prázdná stránka">
 <!ENTITY blankPageRadio.accesskey "Z">
