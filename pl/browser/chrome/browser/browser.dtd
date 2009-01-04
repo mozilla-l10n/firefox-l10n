@@ -195,7 +195,7 @@
 <!ENTITY historyUndoMenu.label "Ostatnio zamknięte karty">
 
 <!ENTITY historyHomeCmd.label "Strona startowa">
-<!ENTITY showAllHistoryCmd2.label "Wyświetl kompletną historię">
+<!ENTITY showAllHistoryCmd2.label "Wyświetl całą historię">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l" >
