@@ -94,18 +94,25 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey  "b">
 
 <!ENTITY treecol.name.label             "Naam">
+<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip           "Klik om te sorteren op naam">
 <!ENTITY treecol.url.label              "Locatie">
+<!ENTITY treecol.url.accesskey          "c">
 <!ENTITY treecol.url.tooltip            "Klik om te sorteren op locatie">
 <!ENTITY treecol.shortcut.label         "Sleutelwoord">
+<!ENTITY treecol.shortcut.accesskey     "u">
 <!ENTITY treecol.shortcut.tooltip       "Klik om te sorteren op sleutelwoord">
 <!ENTITY treecol.description.label      "Beschrijving">
+<!ENTITY treecol.description.accesskey  "v">
 <!ENTITY treecol.description.tooltip    "Klik om te sorteren op beschrijving">
 <!ENTITY treecol.addedon.label          "Toegevoegd">
+<!ENTITY treecol.addedon.accesskey      "T">
 <!ENTITY treecol.addedon.tooltip        "Klik om te sorteren op toegevoegd">
 <!ENTITY treecol.lastmod.label          "Laatste wijziging">
+<!ENTITY treecol.lastmod.accesskey      "w">
 <!ENTITY treecol.lastmod.tooltip        "Klik om te sorteren op laatste wijziging">
 <!ENTITY treecol.lastvisit.label        "Laatst bezocht">
+<!ENTITY treecol.lastvisit.accesskey    "b">
 <!ENTITY treecol.lastvisit.tooltip      "Klik om te sorteren op laatst bezocht">
 
 <!ENTITY bookmarksWindowTitle.label     "Bladwijzerbeheerder">
