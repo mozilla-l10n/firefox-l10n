@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "隱私瀏覽">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "隱私瀏覽">
+<!ENTITY privatebrowsingpage.title                 "隱私瀏覽">
+<!ENTITY privatebrowsingpage.title.normal          "你要開始使用隱私瀏覽嗎？">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; 不會記錄此瀏覽狀態的任何歷史記錄。">
-<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; 不會記錄此瀏覽狀態的任何歷史記錄。這包含瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、 Cookie、暫存 Internet 檔案。然而，你下載的檔案及新添加的書籤將被保留。">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; 目前不在隱私瀏覽模式。">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "你或許會想要刪除最近的歷史記錄。">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label  "刪除最近的歷史記錄…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "C">
+<!ENTITY privatebrowsingpage.description               "在隱私瀏覽模式，&brandShortName; 不會記錄此瀏覽狀態的瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、 Cookie、暫存 Internet 檔案。然而，你下載的檔案及新添加的書籤將被保留。">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "欲停止隱私瀏覽，取消勾選工具 &gt; 隱私瀏覽。">
-<!ENTITY privatebrowsingpage.footerDesc                "開始吧！">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "你或許在開始前會想要先">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "刪除最近的歷史記錄">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   "。">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "開始隱私瀏覽模式">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!ENTITY privatebrowsingpage.howToStop                 "欲停止隱私瀏覽，選擇&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;或結束 &brandShortName;。">
+<!ENTITY privatebrowsingpage.howToStart                "你也可以選擇&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;來開始隱私瀏覽。">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "雖然這台電腦不會紀錄任何的歷史紀錄，你的網路服務提供商或雇主還是能追蹤你瀏覽的頁面。">
+<!ENTITY privatebrowsingpage.learnMore                 "更多資訊">
