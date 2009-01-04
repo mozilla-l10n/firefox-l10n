@@ -11,6 +11,7 @@
 <!ENTITY languages.customize.add.title.label            "Talen toevoegen">
 <!ENTITY languages.customize.available.label            "Talen:">
 <!ENTITY languages.customize.active.label               "Talen op volgorde van voorkeur:">
+<!ENTITY languages.customize.active.accesskey           "v">
 <!ENTITY languages.customize.others.label               "Andere:">
 <!ENTITY languages.customize.others.accesskey           "A">
 <!ENTITY languages.customize.Charset.grouplabel         "Tekenset">
