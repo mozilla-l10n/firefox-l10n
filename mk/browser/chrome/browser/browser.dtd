@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Обележи ги сите јазичиња…">
 <!ENTITY bookmarkAllCmd.label "Обележи ги сите јазичиња…">
 <!ENTITY organizeBookmarks.label "Организирај ги обележувачите">
+<!ENTITY bookmarksToolbarChevron.tooltip "Покажува уште обележувачи">
 
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "Н">
@@ -366,6 +367,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY clearRecentHistoryCmd.accesskey        "И">
 
 <!ENTITY clearRecentHistoryCmd.label            "Исчисти ја скорешната историја">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Започни со приватно сурфање">
+<!ENTITY privateBrowsingCmd.start.accesskey     "п">
+<!ENTITY privateBrowsingCmd.stop.label          "Заврши со приватно сурфање">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "п">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
 <!ENTITY copyAudioURLCmd.accesskey    "о">
 <!ENTITY copyAudioURLCmd.label        "Копирај ја локацијата на аудиото">
 <!ENTITY copyVideoURLCmd.accesskey    "о">
@@ -386,9 +395,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mediaShowControls.label     "Покажи ги копчињата">
 <!ENTITY mediaUnmute.accesskey       "м">
 <!ENTITY mediaUnmute.label           "Пушти звук">
-<!ENTITY privateBrowsingCmd.accesskey        "у">
 
-<!ENTITY privateBrowsingCmd.label            "Приватно сурфање">
+
+
 <!ENTITY reloadImageCmd.accesskey     "р">
 <!ENTITY reloadImageCmd.label         "Превчитај ја сликата">
 <!ENTITY saveAudioCmd.accesskey       "н">
