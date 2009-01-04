@@ -93,18 +93,25 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "A">
 
 <!ENTITY treecol.name.label             "Name">
+<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip           "Klicken, um nach Name zu sortieren">
 <!ENTITY treecol.url.label              "Adresse">
+<!ENTITY treecol.url.accesskey          "A">
 <!ENTITY treecol.url.tooltip            "Klicken, um nach Adresse zu sortieren">
 <!ENTITY treecol.shortcut.label         "Schlüsselwort">
+<!ENTITY treecol.shortcut.accesskey     "c">
 <!ENTITY treecol.shortcut.tooltip       "Klicken, um nach Schlüsselwort zu sortieren">
 <!ENTITY treecol.description.label      "Beschreibung">
+<!ENTITY treecol.description.accesskey  "B">
 <!ENTITY treecol.description.tooltip    "Klicken, um nach Beschreibung zu sortieren">
 <!ENTITY treecol.addedon.label          "Hinzugefügt">
+<!ENTITY treecol.addedon.accesskey      "H">
 <!ENTITY treecol.addedon.tooltip        "Klicken, um nach Hinzufügedatum zu sortieren">
 <!ENTITY treecol.lastmod.label          "Zuletzt geändert">
+<!ENTITY treecol.lastmod.accesskey      "Z">
 <!ENTITY treecol.lastmod.tooltip        "Klicken, um nach letzter Änderung zu sortieren">
 <!ENTITY treecol.lastvisit.label        "Zuletzt besucht">
+<!ENTITY treecol.lastvisit.accesskey    "u">
 <!ENTITY treecol.lastvisit.tooltip      "Klicken, um nach letztem Besuch zu sortieren">
 
 <!ENTITY bookmarksWindowTitle.label     "Lesezeichen-Manager">
