@@ -1,6 +1,7 @@
 <!ENTITY pref.navigator.title "Przeglądarka">
 
-<!ENTITY navRadio "Wyświetl">
+<!ENTITY navRadio.label "Wyświetlaj na">
+<!ENTITY navRadio.accesskey "n">
 <!ENTITY navStartPageMenu.label "Start przeglądarki">
 <!ENTITY newWinPageMenu.label "po otwarciu okna">
 <!ENTITY newTabPageMenu.label "po otwarciu karty">

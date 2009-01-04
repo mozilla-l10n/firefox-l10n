@@ -11,6 +11,7 @@
 <!ENTITY languages.customize.add.title.label "Dodaj język">
 <!ENTITY languages.customize.available.label "Języki:">
 <!ENTITY languages.customize.active.label "Lista preferowanych wersji językowych:">
+<!ENTITY languages.customize.active.accesskey "L">
 <!ENTITY languages.customize.others.label "Inne:">
 <!ENTITY languages.customize.others.accesskey "I">
 <!ENTITY languages.customize.Charset.grouplabel "Domyślny zestaw znaków">

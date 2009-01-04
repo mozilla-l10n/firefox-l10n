@@ -10,6 +10,8 @@
 <!ENTITY search.contains.label "zawiera">
 <!ENTITY search.doesntcontain.label "nie zawiera">
 <!ENTITY save.query.label "Zapisz zapytanie w folderze zakładek">
+<!ENTITY save.query.accesskey "s">
 <!ENTITY search.for.label "Znajdź zakładki, których">
 <!ENTITY findBookmark.title "Znajdź zakładki">
 <!ENTITY findButton.label "Znajdź">
+<!ENTITY findButton.accesskey "Z">

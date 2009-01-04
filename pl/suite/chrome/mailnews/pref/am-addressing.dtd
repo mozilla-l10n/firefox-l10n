@@ -1,6 +1,6 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label "Composition &amp; Addressing">
+<!ENTITY addressing.label "Tworzenie i adresowanie wiadomości">
 <!ENTITY addressingGroupTitle.label "Adresowanie">
 <!ENTITY autocompleteToMyDomain.label "Automatycznie dodawaj moją domenę do adresu">
 <!ENTITY autocompleteToMyDomain.accesskey "u">
