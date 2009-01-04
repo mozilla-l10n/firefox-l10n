@@ -1,4 +1,4 @@
-<!ENTITY privatebrowsingpage.tabtitle      "Приватно сурфање">
+<!ENTITY privatebrowsingpage.title      "Приватно сурфање">
 <!ENTITY privatebrowsingpage.title.normal  "Дали сакате да започнете со приватно сурфање?">
 
 <!ENTITY privatebrowsingpage.issueDesc     "&brandShortName; нема да памети историја од оваа сесија.">
@@ -17,3 +17,4 @@
 
 <!ENTITY privatebrowsingpage.howToStart "За да започнете со приватно сурфање, исто така можете да одберете &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 <!ENTITY privatebrowsingpage.moreInfo  "Иако на овој компјутер нема да има запис од Вашата сурферска историја, Вашиот интернет провајдер или работодавец сепак може да води евиденција за страниците кои ги посетувате.">
+<!ENTITY privatebrowsingpage.learnMore                 "Дознај повеќе">
