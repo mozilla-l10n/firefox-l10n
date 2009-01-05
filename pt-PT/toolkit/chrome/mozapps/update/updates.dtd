@@ -12,6 +12,13 @@
 <!ENTITY noupdatesautodisabled.intro "Não há actualizações disponíveis. Por favor verifique mais tarde
 									  ou ligue a verificação automática de actualizações do &brandShortName;.">
 
+<!ENTITY  manualUpdate.title              "Não é possível actualizar">
+<!ENTITY  manualUpdate.desc               "Está disponível uma actualização recomendada de segurança e estabilidade, mas
+                                           não tem as permissões necessárias para a instalar. Contacte o seu administrador 
+                                           de sistema, ou tente novamente a partir de uma conta que tenha
+                                           permissão para instalar software neste computador.">
+<!ENTITY  manualUpdateGetMsg.label        "Pode sempre obter a última versão do &brandShortName; em:">
+
 <!ENTITY  incompatibleCheck.title         "A verificar compatibilidade do extra">
 <!ENTITY  incompatibleCheck.label         "A procurar novas versões dos seus extras…">
 

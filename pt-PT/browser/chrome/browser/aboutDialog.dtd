@@ -1,11 +1,13 @@
-<!ENTITY aboutDialog.title "Sobre o &brandFullName;">
-<!ENTITY copyright "Créditos">
-<!ENTITY copyright.accesskey "C">
+<!ENTITY aboutDialog.title          "Sobre o &brandFullName;">
+<!ENTITY copyright                  "Créditos">
+<!ENTITY copyright.accesskey        "C">
 <!ENTITY copyrightGNOME.accesskey   "C">
-<!ENTITY aboutLink "&lt; Acerca do &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
-<!ENTITY aboutVersion "versão">
+<!ENTITY aboutLink                  "&lt; Acerca do &brandFullName;">
+<!ENTITY aboutLink.accesskey        "A">
+<!ENTITY aboutVersion               "versão">
 <!ENTITY closeCmdGNOME.label        "Fechar">  
 <!ENTITY closeCmdGNOME.accesskey    "F">
-<!ENTITY copyrightInfo '&#169;1998-2008 Colaboradores. Todos os direitos reservados. Firefox e os logótipos Firefox são marcas registadas de Mozilla Foundation. Todos os direitos reservados.'>
-
+<!ENTITY copyrightInfo1             "&#169;1998-2008 Colaboradores. Todos os direitos reservados. Todos os direitos reservados. (">
+<!ENTITY licenseLink                "sobre:licença">
+<!ENTITY licenseLinkText            "Informação de licenciamento">
+<!ENTITY copyrightInfo2             ").">

@@ -1,4 +1,4 @@
-<!ENTITY brandShortName "Firefox">
-<!ENTITY brandFullName "Mozilla Firefox">
-<!ENTITY vendorShortName "Mozilla">
-
+﻿<!ENTITY  brandShortName        "Firefox">
+<!ENTITY  brandFullName         "Mozilla Firefox">
+<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  logoCopyright         "Firefox e os logos Firefox são marcas registadas da Mozilla Foundation. Todos os direitos reservados.">
