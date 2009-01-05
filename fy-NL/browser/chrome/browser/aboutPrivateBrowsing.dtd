@@ -1,8 +1,8 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Privee sneupe">
+<!ENTITY privatebrowsingpage.title                     "Privee sneupe">
 <!ENTITY privatebrowsingpage.title.normal              "Wolle jo graach starte mei Privee sneupe?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; sil gjin skiednis byhâlde fan dizze sesje.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; is op dit stuit net yn Privee sneupe-moadus"
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; is op dit stuit net yn Privee sneupe-moadus.">
 
 <!ENTITY privatebrowsingpage.description               "&brandShortName; sil yn in Privee sneupsesje browserskiednis, sykskiednis, ynlaadskiednis, webformulierskiednis, cookies, en tydlike ynternetbestannen bewarje.  Allinnich bestannen dy't jo ynlade of blêdwizers dy't jo oanmeitsje sille bewarre wurde.">
 
