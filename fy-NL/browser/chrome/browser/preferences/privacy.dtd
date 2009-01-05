@@ -52,12 +52,8 @@
 <!ENTITY  alwaysClear.label              "Altyd myn priveegegevens opkjinje as ik &brandShortName; ôfslút">
 <!ENTITY  alwaysClear.accesskey          "a">
 
-<!ENTITY  askBeforeClear.label           "My freegje foar priveegegevens op te skjinjen">
-<!ENTITY  askBeforeClear.accesskey       "f">
-
 <!ENTITY  clearDataSettings.label        "Ynstellings...">
 <!ENTITY  clearDataSettings.accesskey    "s">
 
 <!ENTITY  clearDataNow.label             "No opskjinje...">
-<!ENTITY  clearDataNow.label2            "No opskjinje">
 <!ENTITY  clearDataNow.accesskey         "N">
