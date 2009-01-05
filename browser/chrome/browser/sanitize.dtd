@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label				"Fuortsmite ">
+<!ENTITY clearDuration.accesskey      		"F">
 <!ENTITY clearDuration.lastHour				"it lêste oer">
 <!ENTITY clearDuration.last2Hours			"de lêste 2 oeren">
 <!ENTITY clearDuration.last4Hours			"de lêste 4 oeren">

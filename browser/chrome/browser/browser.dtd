@@ -168,8 +168,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "Wis resinte skiednis">
 <!ENTITY clearRecentHistoryCmd.accesskey        "S">
 
-<!ENTITY privateBrowsingCmd.label            "Privee sneupe">
-<!ENTITY privateBrowsingCmd.accesskey        "s">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label      "Start Privee sneupe">
+<!ENTITY privateBrowsingCmd.start.accesskey  "s">
+<!ENTITY privateBrowsingCmd.stop.label          "Stop Privee sneupe">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "s">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label               "Byld"> 
 <!ENTITY viewMenu.accesskey           "L"> 
