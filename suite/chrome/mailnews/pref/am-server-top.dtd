@@ -8,7 +8,6 @@
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "р">
 <!ENTITY serverPortDefault.label "По умолчанию:">
-<!ENTITY savePassword.label "Сохранить пароль">
 <!ENTITY biffStart.label "Проверять наличие новых сообщений каждые ">
 <!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минут">
