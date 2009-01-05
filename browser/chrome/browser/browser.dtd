@@ -1,4 +1,4 @@
-<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+﻿<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -7,7 +7,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title 
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
@@ -88,7 +88,6 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Pára de carregar esta página">
 <!ENTITY goEndCap.tooltip             "Ir para o endereço da Barra de Localização">
-<!ENTITY feedButton.tooltip           "Subscrever esta página...">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 
@@ -168,8 +167,12 @@
 <!ENTITY clearRecentHistoryCmd.label "Limpar Histórico recente">
 <!ENTITY clearRecentHistoryCmd.accesskey "L">
 
-<!ENTITY privateBrowsingCmd.label            "Navegação Privada">
-<!ENTITY privateBrowsingCmd.accesskey        "P">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Iniciar navegação privada">
+<!ENTITY privateBrowsingCmd.start.accesskey     "I">
+<!ENTITY privateBrowsingCmd.stop.label          "Parar navegação privada">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
