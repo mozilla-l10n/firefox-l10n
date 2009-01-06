@@ -19,22 +19,40 @@
 
 <!ENTITY hfURL "URL">
 
-<!ENTITY landscape "Οριζόντιος">
+<!ENTITY landscape.label     "Οριζόντια">
+<!ENTITY landscape.accesskey "ζ">
+
+<!ENTITY portrait.label      "Κατακόρυφα">
+<!ENTITY portrait.accesskey  "Κ">
+
+
+
 <!ENTITY marginBottom.label "Κάτω:">
+<!ENTITY marginBottom.accesskey "Κ">
+
 <!ENTITY marginGroup.label "Περιθώρια (#1)">
 <!ENTITY marginLeft.label "Αριστερά:">
+<!ENTITY marginLeft.accesskey "ρ">
+
 <!ENTITY marginRight.label "Δεξιά:">
+<!ENTITY marginRight.accesskey "Δ">
 <!ENTITY marginTop.label "Πάνω">
+<!ENTITY marginTop.accesskey "Π">
 <!ENTITY marginUnits.inches "ίντσες">
 <!ENTITY marginUnits.metric "χιλιοστά">
 <!ENTITY optionsGroup.label "Επιλογές:">
 <!ENTITY orientation.label "Προσανατολισμός:">
-<!ENTITY portrait "Κατακόρυφος">
+
 <!ENTITY printBG.label "Εκτύπωση παρασκηνίου (χρώματα &amp; εικόνες)">
+<!ENTITY printBG.accesskey   "σ">
+
 <!ENTITY printSetup.title "Διαμόρφωση σελίδας">
 <!ENTITY scale.label "Κλίμακα:">
+<!ENTITY scale.accesskey     "λ">
+
 <!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "Σμίκρυνση στο πλάτος της σελίδας">
+<!ENTITY shrinkToFit.accesskey "υ">
 <!ENTITY headerLeft.tip      "Αριστερή κεφαλίδα">
 <!ENTITY headerCenter.tip    "Κεντραρισμένη κεφαλίδα">
 <!ENTITY headerRight.tip     "Δεξιά κεφαλίδα">

@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "Απομάκρυνση">
+<!ENTITY clearDuration.accesskey      "π">
 <!ENTITY clearDuration.lastHour       "από την τελευταία ώρα">
 <!ENTITY clearDuration.last2Hours     "από τις τελευταίες 2 ώρες">
 <!ENTITY clearDuration.last4Hours     "από τις τελευταίες 4 ώρες">

@@ -1,14 +1,34 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Ιδιωτική περιήγηση">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Ιδιωτική περιήγηση">
+<!ENTITY privatebrowsingpage.title                 "Ιδιωτική περιήγηση">
+<!ENTITY privatebrowsingpage.title.normal          "Θέλετε να ξεκινήσετε την ιδιωτική περιήγηση;">
+
+
+
+
 
 <!ENTITY privatebrowsingpage.issueDesc                 "Ο &brandShortName; δεν θα αποθηκεύει ιστορικό για αυτή τη συνεδρία.">
-<!ENTITY privatebrowsingpage.longDesc                  "Δεν θα γίνεται καταγραφή ιστορικού για αυτή την συνεδρία από τον &brandShortName;.  Αυτό περιλαμβάνει ιστορικό περιηγητή, αναζητήσεων, λήψεων, συμπλήρωσης φορμών, cookies, και προσωρινών αρχείων διαδικτύου.  Διατηρούνται όμως τα αρχεία του κατεβάσατε και οι σελιδοδείκτες που δημιουργήσατε.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Ίσως να θέλετε να ξεκινήσετε διαγράφοντας το πρόσφατο ιστορικό σας.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Εκκαθάριση ιστορικού">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "κ">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Για να διακόψετε την Ιδιωτική περιήγηση, αποεπιλέξτε το Tools &gt; Ιδιωτική περιήγηση.">
-<!ENTITY privatebrowsingpage.footerDesc                "Καλή συνέχεια!">
+
+
+
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Μπορεί ακόμα να επιθυμείτε να γίνεται εκκίνηση μαζί με">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "εκκαθάριση του ιστορικού σας">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".privatebrowsingpage.clearRecentHistoryDesc">
+
+<!ENTITY privatebrowsingpage.description               "Σε μια συνεδρία ιδιωτικής περιήγησης, ο &brandShortName; δεν θα αποθηκεύει ιστορικό περιηγητή, αναζητήσεων, λήψεων, συμπλήρωσης φορμών, cookies, και προσωρινών αρχείων διαδικτύου.  Διατηρούνται όμως τα αρχεία του κατεβάσατε και οι σελιδοδείκτες που δημιουργήσατε.">
+<!ENTITY privatebrowsingpage.howToStart                "Για να ξεκινήσετε την ιδιωτική περιήγηση, επιλέξτε &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.howToStop                 "Για να διακόψετε την ιδιωτική περιήγηση, επιλέξτε &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ή κλείσιμο &brandShortName;.">
+
+<!ENTITY privatebrowsingpage.issueDesc.normal          "Ο &brandShortName; δεν βρίσκεται σε λειτουργία ιδιωτικής περιήγησης.">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Έναρξη ιδιωτικής περιήγησης">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "δ">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Αν και ο υπολογιστής δεν θα διατηρεί κανένα στοιχείο από το ιστορικό της περιήγησης σας, ο πάροχος της διαδικτυακής σας σύνδεσης έχει την δυνατότητα καταγραφής των σελίδων που έχετε επισκεφτεί.">
+<!ENTITY privatebrowsingpage.learnMore                 "Διαβάστε περισσότερα">
 

@@ -3,17 +3,24 @@
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY formatMenu.label "Μορφοποίηση">
-<!ENTITY formatmenu.accesskey "φ">
+
 <!ENTITY helpMenu.label "Βοήθεια">
 <!ENTITY statusText.label "Το φόρτωμα της σελίδας ολοκληρώθηκε">
-<!ENTITY textEditorWindow.titlemodifier "Επεξεργαστής κειμένου">
+
 <!ENTITY viewMenu.label "Προβολή">
-<!ENTITY viewmenu.accesskey "β">
-<!ENTITY editmodetb.accesskey "">
-<!ENTITY formattingtb.accesskey "">
+
+
+
 <!ENTITY compositionToolbarCmd.label "Εργαλειοθήκη σύνταξης">
-<!ENTITY compositiontb.accesskey "γ">
+
 <!ENTITY formattingToolbarCmd.label "Εργαλειοθήκη μορφοποίησης">
-<!ENTITY taskbarCmd.label "Γραμμή κατάστασης">
-<!ENTITY taskbarCmd.accesskey "κ">
+
+
 <!ENTITY editmodeToolbarCmd.label "Εργαλειοθήκη λειτουργίας επεξεργασίας">
+
+<!ENTITY compositionToolbarCmd.accesskey "γ">
+<!ENTITY editmodeToolbarCmd.accesskey "ε">
+<!ENTITY formatMenu.accesskey "φ">
+<!ENTITY formattingToolbarCmd.accesskey "μ">
+<!ENTITY viewMenu.accesskey "β">
+

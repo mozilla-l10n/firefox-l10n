@@ -1,5 +1,15 @@
 <!ENTITY  history.label "Ιστορικό">
 
+
+<!ENTITY  locbar.pre.label              "Στη γραμμή διευθύνσεων να γίνεται υπόδειξη:">
+<!ENTITY  locbar.pre.accessKey          "γ">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Ιστορικού και σελιδοδεικτών">
+<!ENTITY  locbar.history.label          "Ιστορικού">
+<!ENTITY  locbar.bookmarks.label        "Σελιδοδεικτών">
+<!ENTITY  locbar.nothing.label          "Τίποτα">
+
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
   line in preferences as follows:
@@ -50,10 +60,10 @@
 <!ENTITY  privateData.label             "Προσωπικά δεδομένα">
 
 <!ENTITY  clearDataNow.label             "Εκκαθάριση τώρα...">
-<!ENTITY  clearDataNow.label2            "Εκκαθάριση τώρα">
+
 <!ENTITY  clearDataNow.accesskey         "θ">
 
-<!ENTITY  askBeforeClear.label           "Ερώτηση πριν την εκκκαθάριση προσωπικών δεδομένων">
-<!ENTITY  askBeforeClear.accesskey       "η">
+
+
 
 

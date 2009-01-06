@@ -1,3 +1,11 @@
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Ιδιωτική περιήγηση)">
+
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
+
+
 <!ENTITY closeWindow.accesskey "θ">
 <!ENTITY printFrameCmd.label          "Εκτύπωση πλαισίου...">
 <!ENTITY printFrameCmd.accesskey      "λ">
@@ -242,7 +250,6 @@
 
 
 <!ENTITY editBookmark.cancel.label                   "Ακύρωση">
-<!ENTITY editBookmark.removeBookmark.label           "Απομάκρυνση σελιδοδείκτη">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ρ">
 <!ENTITY editBookmark.undo.label                     "Αναίρεση">
 <!ENTITY editBookmark.undo.accessKey                 "ν">
@@ -415,13 +422,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewVideoCmd.accesskey       "β">
 
 
+<!ENTITY privateBrowsingCmd.start.label         "Έναρξη ιδιωτικής περιήγησης">
+<!ENTITY privateBrowsingCmd.start.accesskey     "ξ">
+<!ENTITY privateBrowsingCmd.stop.label          "Διακοπή ιδιωτικής περιήγησης">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "Δ">
 
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Ιδιωτική περιήγηση)">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY privateBrowsingCmd.label            "Ιδιωτική περιήγηση">
-<!ENTITY privateBrowsingCmd.accesskey        "δ">
+
+
 
 
 <!ENTITY ctrlTab.search.emptyText "Αναζήτηση καρτελών">
@@ -429,4 +438,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY clearRecentHistoryCmd.label            "Εκκαθάριση ιστορικού">
 <!ENTITY clearRecentHistoryCmd.accesskey        "θ">
 
-
+<!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
