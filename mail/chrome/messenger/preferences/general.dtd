@@ -1,18 +1,3 @@
-<!ENTITY systemDefaults.label              "Parazgjedhje Sistemi">
-<!ENTITY alwaysCheckDefault.label          "Kontrollo përherë gjatë nisjes për të parë nëse &brandShortName;-i është klienti parazgjedhje për postë">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Kontrollo Tani">
-<!ENTITY checkNow.accesskey         "K">
-
-<!ENTITY systemDefaults.label              "Parazgjedhje Sistemi">
-<!ENTITY alwaysCheckDefault.label          "Kontrollo përherë gjatë nisjes për të parë nëse &brandShortName;-i është klienti parazgjedhje i postës">
-
 <!ENTITY messengerStartPage.label         "Faqe Fillimi për &brandShortName;-in">
 <!ENTITY enableStartPage.label            "Kur niset &brandShortName;-i, shfaq te zona e mesazheve Faqe Fillimi">
 <!ENTITY enableStartPage.accesskey        "F">
