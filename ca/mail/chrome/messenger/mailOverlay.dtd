@@ -3,6 +3,6 @@
 <!ENTITY newMessageCmd.label "Missatge">
 <!ENTITY newMessageCmd.accesskey "M">
  
-<!ENTITY newCardCmd.label "Targeta de la llibreta d'adreces">
-<!ENTITY newCardCmd.accesskey "d">
+<!ENTITY  newContactCmd.label             "Contacte de la llibreta d'adreces…">
+<!ENTITY  newContactCmd.accesskey         "C">
  

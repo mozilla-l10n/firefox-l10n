@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Nova targeta de la llibreta d'adreces…">
-<!ENTITY newCard.accesskey "b">
+<!ENTITY newContact.label "Contacte de la llibreta d'adreces…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Adjunta">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Adjunta un fitxer…">
@@ -92,8 +92,9 @@
 <!ENTITY viewToolbarsMenuNew.label "Barres d'eines">
 <!ENTITY viewToolbarsMenuNew.accesskey "B">
 <!ENTITY showCompositionToolbarCmd.label "Barra de redacció">
+<!ENTITY showCompositionToolbarCmd.accesskey "d">
 <!ENTITY showFormattingBarCmd.label "Barra de format">
-<!ENTITY showFormattingBarCmd.accesskey "F">
+<!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barra d'estat">
 <!ENTITY showTaskbarCmd.accesskey "s">
 <!ENTITY customizeToolbar.label "Personalitza…">
@@ -184,7 +185,6 @@
 <!ENTITY attachButton.label "Adjunta">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Desa">
-<!ENTITY throbberItem.title "Indicador d'activitat">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Envia ara aquest missatge">
