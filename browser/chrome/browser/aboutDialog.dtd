@@ -7,6 +7,7 @@
 <!ENTITY aboutVersion "versió">
 <!ENTITY closeCmdGNOME.label        "Tanca">  
 <!ENTITY closeCmdGNOME.accesskey    "c">
-<!ENTITY copyrightInfo           "&#169;1998-2008 Coŀlaboradors. Tots els drets reservats. El Firefox i els
-				 seus logotips són marques registrades de la Fundació Mozilla. Tots els drets 
-				 reservats.">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Els coŀlaboradors. Tots els drets reservats. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Informació de la llicència">
+<!ENTITY copyrightInfo2             ").">

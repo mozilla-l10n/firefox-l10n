@@ -1,13 +1,23 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Navegació privada">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "Navegació privada">
+<!ENTITY privatebrowsingpage.title                 "Navegació privada">
+<!ENTITY privatebrowsingpage.title.normal          "Voleu iniciar la navegació privada?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "El &brandShortName; no recordarà res de l'historial d'aquesta sessió.">
-<!ENTITY privatebrowsingpage.longDesc                  "El &brandShortName; no registrarà a l'historial durant aquesta sessió de navegació. En això s'hi inclou l'historial de navegació, l'historial de cerques,  l'historial de baixades, l'historial dels formularis web, les galetes i altres fitxers temporals d'Internet. Per altra banda, sí que es conservaran els fitxers que baixeu i les adreces d'interès que deseu.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "El &brandShortName; no es troba actualment en mode de navegació privat.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Podeu voler començar ara netejant alhora el vostre historial més recent.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label       "Neteja l'historial recent…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey   "j">
+<!ENTITY privatebrowsingpage.description		"En una sessió de navegació privada, el &brandShortName; no registarà res a l'historial de navegació, l'historial de cerques, l'historial de baixades, l'historial dels formularis web, les galetes o altres fitxers temporals d'Internet. Per altra banda, sí que es conservaran els fitxers que baixeu i les adreces d'interès que deseu.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Per a aturar la navegació privada, desactiveu-la des de Eines &gt; Navegació privada.">
-<!ENTITY privatebrowsingpage.footerDesc                "Gaudiu-ne!">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Podeu voler iniciar-lo ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "netejant també el vostre historial recent">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Inicia la navegació privada">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
+
+<!ENTITY privatebrowsingpage.howToStop                 "Per a aturar la navegació privada, seleccioneu &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, o tanqueu el &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "Per a iniciar la navegació privada, podeu també seleccionar &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Encara que l'ordinador no tindrà cap registre del vostre historial de navegació, el vostre proveïdor d'Internet o el vostre patró sí que podrien conèixer les pàgines que visiteu.">
+<!ENTITY privatebrowsingpage.learnMore                 "Més informació">
+

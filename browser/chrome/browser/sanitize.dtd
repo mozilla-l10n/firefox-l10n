@@ -6,6 +6,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "Suprimeix ">
+<!ENTITY clearDuration.accesskey      "r">
 <!ENTITY clearDuration.lastHour       "la darrera hora">
 <!ENTITY clearDuration.last2Hours     "les darreres 2 hores">
 <!ENTITY clearDuration.last4Hours     "les darreres 4 hores">

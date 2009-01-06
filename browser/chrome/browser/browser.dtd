@@ -166,8 +166,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "Neteja l'historial recent">
 <!ENTITY clearRecentHistoryCmd.accesskey        "h">
 
-<!ENTITY privateBrowsingCmd.label            "Navegació privada">
-<!ENTITY privateBrowsingCmd.accesskey        "p">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Inicia la navegació privada">
+<!ENTITY privateBrowsingCmd.start.accesskey     "n">
+<!ENTITY privateBrowsingCmd.stop.label          "Atura la navegació privada">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "n">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "Visualitza">
 <!ENTITY viewMenu.accesskey "V">
