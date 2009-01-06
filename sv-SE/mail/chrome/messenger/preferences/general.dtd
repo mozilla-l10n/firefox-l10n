@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "Systeminställningar">
-<!ENTITY alwaysCheckDefault.label          "Kontrollera vid start om &brandShortName; är standardklient för e-post">
-<!ENTITY alwaysCheckDefault.accesskey      "K">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Kontrollera nu">
-<!ENTITY checkNow.accesskey         "o">
-
 <!ENTITY messengerStartPage.label         "Startsida">
 <!ENTITY enableStartPage.label            "Visa startsidan i förhandsgranskningen när &brandShortName; startar">
 <!ENTITY enableStartPage.accesskey        "ö">
