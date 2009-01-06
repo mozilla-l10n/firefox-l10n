@@ -1,6 +1,6 @@
 <!ENTITY messengerStartPage.label  "Strona startowa programu &brandShortName;">
 <!ENTITY enableStartPage.label     "Po uruchomieniu programu wyświetlaj poniższą stronę startową w oknie wiadomości:">
-<!ENTITY enableStartPage.accesskey "h">
+<!ENTITY enableStartPage.accesskey "P">
 <!ENTITY location.label            "Adres:">
 <!ENTITY location1.accesskey       "A">
 <!ENTITY useDefault.label          "Przywróć domyślną">
@@ -15,7 +15,7 @@
 <!ENTITY showAnimatedAlert.label      "wyświetlaj informację">
 <!ENTITY showAnimatedAlert.accesskey  "w">
 <!ENTITY customizeMailAlert.label     "Dostosuj…">
-<!ENTITY customizeMailAlert.accesskey "t">
+<!ENTITY customizeMailAlert.accesskey "s">
 
 <!ENTITY play.label                "Odtwórz">
 <!ENTITY play.accesskey            "r">
