@@ -96,18 +96,25 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "p">
 
 <!ENTITY treecol.name.label "Nom">
+<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip "Feu clic per a ordenar per nom">
 <!ENTITY treecol.url.label "Ubicació">
+<!ENTITY treecol.url.accesskey          "U">
 <!ENTITY treecol.url.tooltip "Feu clic per a ordenar per ubicació">
 <!ENTITY treecol.shortcut.label "Paraula clau">
+<!ENTITY treecol.shortcut.accesskey     "c">
 <!ENTITY treecol.shortcut.tooltip "Feu clic per a ordenar per paraula clau">
 <!ENTITY treecol.description.label "Descripció">
+<!ENTITY treecol.description.accesskey  "D">
 <!ENTITY treecol.description.tooltip "Feu clic per a ordenar per descripció">
-<!ENTITY treecol.addedon.label "Afegit">
-<!ENTITY treecol.addedon.tooltip "Feu clic per a ordenar per afegit">
+<!ENTITY treecol.addedon.label "Addició">
+<!ENTITY treecol.addedon.accesskey      "A">
+<!ENTITY treecol.addedon.tooltip "Feu clic per a ordenar per addició">
 <!ENTITY treecol.lastmod.label "Darrera modificació">
+<!ENTITY treecol.lastmod.accesskey      "m">
 <!ENTITY treecol.lastmod.tooltip "Feu clic per a ordenar per darrera modificació">
 <!ENTITY treecol.lastvisit.label "Darrera visita">
+<!ENTITY treecol.lastvisit.accesskey    "v">
 <!ENTITY treecol.lastvisit.tooltip "Feu clic per a ordenar per darrera visita">
 
 <!ENTITY bookmarksWindowTitle.label "Gestor d'adreces d'interès">

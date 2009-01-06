@@ -11,6 +11,7 @@
 <!ENTITY languages.customize.add.title.label "Afegeix llengües">
 <!ENTITY languages.customize.available.label "Llengües:">
 <!ENTITY languages.customize.active.label "Llengües en ordre de preferència:">
+<!ENTITY languages.customize.active.accesskey           "L">
 <!ENTITY languages.customize.others.label "Altres:">
 <!ENTITY languages.customize.others.accesskey "a">
 <!ENTITY languages.customize.Charset.grouplabel "Codificació de caràcters">

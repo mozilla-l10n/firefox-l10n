@@ -10,6 +10,8 @@
 <!ENTITY search.contains.label "conté">
 <!ENTITY search.doesntcontain.label "no conté">
 <!ENTITY save.query.label "Desa la consulta a la llista d'adreces d'interés">
+<!ENTITY save.query.accesskey           "s">
 <!ENTITY search.for.label "Cerca les adreces d'interès que ">
 <!ENTITY findBookmark.title "Cerca adreces d'interès">
 <!ENTITY findButton.label               "Cerca">
+<!ENTITY findButton.accesskey           "C">

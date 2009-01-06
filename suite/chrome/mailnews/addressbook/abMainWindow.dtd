@@ -5,10 +5,10 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nou">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "Targeta de la llibreta d'adreces…">
+<!ENTITY newContact.label "Contacte de la llibreta d'adreces…">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey "c">
-<!ENTITY newCard.key "N">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.key "N">
 <!ENTITY newListCmd.label "Llista de correu…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
@@ -28,14 +28,13 @@
 <!ENTITY closeCmd.accesskey "c">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
-<!ENTITY printPreviewCardViewCmd.label "Exemple d'impressió de la targeta	">
-<!ENTITY printPreviewCardViewCmd.accesskey "t">
-<!ENTITY printPreviewAddressBook.label "Exemple d'impressió de la llibreta d'adreces	">
+<!ENTITY printPreviewContactCmd.label "Exemple d'impressió del contacte">
+<!ENTITY printPreviewContactCmd.accesskey "t">
+<!ENTITY printPreviewAddressBook.label "Exemple d'impressió de la llibreta d'adreces">
 <!ENTITY printPreviewAddressBook.accesskey "b">
-<!ENTITY printCardViewCmd.label "Imprimeix la targeta…">
-<!ENTITY printCardViewCmd.accesskey "p">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactCmd.label "Imprimeix el contacte…">
+<!ENTITY printContactCmd.accesskey "p">
+<!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Imprimeix la llibreta d'adreces…">
 <!ENTITY printAddressBook.accesskey "a">
 
@@ -60,8 +59,8 @@
 <!ENTITY deleteCmd.label "Suprimeix">
 <!ENTITY deleteCmd.accesskey "u">
 <!ENTITY deleteAbCmd.label "Suprimeix la llibreta d'adreces">
-<!ENTITY deleteCardCmd.label "Suprimeix la targeta">
-<!ENTITY deleteCardsCmd2.label "Suprimeix les targetes">
+<!ENTITY deleteContactCmd.label "Suprimeix el contacte">
+<!ENTITY deleteContactsCmd.label "Suprimeix els contactes">
 <!ENTITY deleteListCmd.label                            "Suprimeix la llista">
 <!ENTITY deleteListsCmd.label                           "Suprimeix les llistes">
 <!ENTITY deleteItemsCmd.label                           "Suprimeix els elements">
@@ -90,8 +89,8 @@
 <!ENTITY showTaskbarCmd.accesskey "s">
 <!ENTITY customizeToolbar.label "Personalitza…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY showCardPane.label "Subfinestra de la targeta">
-<!ENTITY showCardPane.accesskey "b">
+<!ENTITY showContactPane.label "Subfinestra resum del contacte">
+<!ENTITY showContactPane.accesskey "b">
 <!ENTITY menu_ShowNameAs.label "Mostra el nom com a">
 <!ENTITY menu_ShowNameAs.accesskey "n">
 <!ENTITY firstLastCmd.label "Nom Cognom">
@@ -115,37 +114,32 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exporta…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY allowOnlineCheck.label                         "Comprova la presència en línia (AOL)">
-<!ENTITY allowOnlineCheck.accesskey                     "C">
-
 <!ENTITY preferencesCmd.label "Opcions…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label "Crea una targeta">
-<!ENTITY newcardButton.accesskey "n">
+<!ENTITY newContactButton.label "Crea un contacte">
+<!ENTITY newContactButton.accesskey "n">
 <!ENTITY newlistButton.label "Crea una llista">
 <!ENTITY newlistButton.accesskey "l">
-<!ENTITY editButton.label "Propietats">
-<!ENTITY editButton.accesskey "P">
+<!ENTITY editButton2.label "Propietats">
+<!ENTITY editButton2.accesskey "P">
 <!ENTITY newmsgButton.label "Redacta">
 <!ENTITY newmsgButton.accesskey "e">
 <!ENTITY newIM.label "MI">
 <!ENTITY newIM.accesskey "I">
-<!ENTITY deleteButton.label "Suprimeix">
-<!ENTITY deleteButton.accesskey "u">
-<!ENTITY throbberItem.title "Indicador d'activitat">
+<!ENTITY deleteButton2.label "Suprimeix">
+<!ENTITY deleteButton2.accesskey "u">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY addressbookToolbar.tooltip                     "Barra de la llibreta d'adreces">
-<!ENTITY newcardButton.tooltip "Crea una nova targeta de llibreta d'adreces">
+<!ENTITY newContactButton.tooltip "Crea un nou contacte a la llibreta d'adreces">
 <!ENTITY newlistButton.tooltip "Crea una nova llista">
-<!ENTITY editButton.tooltip "Edita la targeta seleccionada">
+<!ENTITY editButton2.tooltip "Edita l'element seleccionat">
 <!ENTITY newmsgButton.tooltip "Crea un nou missatge">
 <!ENTITY newIM.tooltip "Envieu un missatge instantani o feu un xat">
-<!ENTITY deleteButton.tooltip "Suprimeix la targeta o llibreta d'adreces seleccionada">
+<!ENTITY deleteButton2.tooltip "Suprimeix l'element seleccionat">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label "Llibretes d'adreces">
