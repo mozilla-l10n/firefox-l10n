@@ -1,58 +1,60 @@
-<!ENTITY itemGeneral.label       "Ogólne">
-<!ENTITY itemDisplay.label       "Treść">
-<!ENTITY itemUpdate.label        "Aktualizacja">
-<!ENTITY itemNetworking.label    "Sieć i miejsce na dysku">
-<!ENTITY itemCertificates.label  "Certyfikaty">
+<!ENTITY itemGeneral.label      "Ogólne">
+<!ENTITY itemDisplay.label      "Treść">
+<!ENTITY itemUpdate.label       "Aktualizacja">
+<!ENTITY itemNetworking.label   "Sieć i miejsce na dysku">
+<!ENTITY itemCertificates.label "Certyfikaty">
 
 <!-- General Settings -->
-<!ENTITY enableGloda.label                "Indeksowanie wiadomości">
-<!ENTITY enableGloda.accesskey            "w">
-<!ENTITY showCondensedAddresses.label     "Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej">
-<!ENTITY showCondensedAddresses.accesskey "P">
-
-<!ENTITY autoMarkAsRead.label          "Automatycznie oznaczaj wiadomości jako przeczytane:">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "natychmiast po wyświetleniu">
-<!ENTITY markAsReadNoDelay.accesskey   "n">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-       "After displaying for [___] seconds",
-       using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "po wyświetlaniu przez">
-<!ENTITY markAsReadDelay.accesskey     "p">
-<!ENTITY secondsLabel.label            "sekund">
-<!ENTITY openMsgIn.label               "Otwieraj wiadomości w:">
-<!ENTITY reuseExpRadio0.label          "nowych oknach wiadomości">
-<!ENTITY reuseExpRadio0.accesskey      "h">
-<!ENTITY reuseExpRadio1.label          "istniejącym oknie wiadomości">
-<!ENTITY reuseExpRadio1.accesskey      "m">
-<!ENTITY configEditDesc.label          "Konfiguracja zaawansowana">
-<!ENTITY configEdit.label              "Edytor ustawień…">
-<!ENTITY configEdit.accesskey          "E">
-
-<!ENTITY returnReceiptsInfo.label      "Określ, w jaki sposób &brandShortName; ma traktować potwierdzenia doręczenia wiadomości">
-<!ENTITY showReturnReceipts.label      "Opcje potwierdzeń…">
-<!ENTITY showReturnReceipts.accesskey  "O">
+<!ENTITY enableGloda.label            "Indeksowanie wiadomości">
+<!ENTITY enableGloda.accesskey        "w">
+<!ENTITY systemDefaults.label         "Ustawienia systemowe">
+<!ENTITY alwaysCheckDefault.label     "Przy uruchamianiu sprawdzaj, czy &brandShortName; jest domyślnym programem pocztowym">
+<!ENTITY alwaysCheckDefault.accesskey "P">
+<!ENTITY checkNow.label               "Sprawdź teraz">
+<!ENTITY checkNow.accesskey           "S">
+<!ENTITY configEditDesc.label         "Konfiguracja zaawansowana">
+<!ENTITY configEdit.label             "Edytor ustawień…">
+<!ENTITY configEdit.accesskey         "E">
+<!ENTITY returnReceiptsInfo.label     "Określ, w jaki sposób &brandShortName; ma traktować potwierdzenia doręczenia wiadomości">
+<!ENTITY showReturnReceipts.label     "Opcje potwierdzeń…">
+<!ENTITY showReturnReceipts.accesskey "O">
 
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption "Czytanie">
-<!ENTITY display.caption "Wyświetlanie">
+<!ENTITY reading.caption                  "Czytanie">
+<!ENTITY display.caption                  "Wyświetlanie">
+<!ENTITY showCondensedAddresses.label     "Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej">
+<!ENTITY showCondensedAddresses.accesskey "P">
+<!ENTITY autoMarkAsRead.label             "Automatycznie oznaczaj wiadomości jako przeczytane:">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "natychmiast po wyświetleniu">
+<!ENTITY markAsReadNoDelay.accesskey      "n">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to 
+     "After displaying for [___] seconds" -->
+<!ENTITY markAsReadDelay.label            "po wyświetlaniu przez">
+<!ENTITY markAsReadDelay.accesskey        "w">
+<!ENTITY secondsLabel.label               "sekund">
+<!ENTITY openMsgIn.label                  "Otwieraj wiadomości w:">
+<!ENTITY reuseExpRadio0.label             "nowych oknach wiadomości">
+<!ENTITY reuseExpRadio0.accesskey         "h">
+<!ENTITY reuseExpRadio1.label             "istniejącym oknie wiadomości">
+<!ENTITY reuseExpRadio1.accesskey         "m">
 
 <!-- Update -->
-<!ENTITY autoCheck.label               "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
-<!ENTITY enableAppUpdate.label         "programu &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey     "p">
-<!ENTITY enableAddonsUpdate.label      "zainstalowanych dodatków">
-<!ENTITY enableAddonsUpdate.accesskey  "z">
-<!ENTITY checkNow.label                "Sprawdź teraz…">
-<!ENTITY whenUpdatesFound.label        "Kiedy zostaną znalezione aktualizacje dla programu &brandShortName;:">
-<!ENTITY modeAskMe.label               "pytaj mnie, co zrobić">
-<!ENTITY modeAskMe.accesskey           "c">
-<!ENTITY modeAutomatic.label           "automatycznie pobieraj i instaluj aktualizacje">
-<!ENTITY modeAutomatic.accesskey       "a">
-<!ENTITY modeAutoAddonWarn.label       "ostrzegaj, jeśli aktualizacja spowoduje wyłączenie dodatków">
-<!ENTITY modeAutoAddonWarn.accesskey   "o">
-<!ENTITY showUpdates.label             "Wyświetl historię aktualizacji">
-<!ENTITY showUpdates.accesskey         "W">
+<!ENTITY autoCheck.label              "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
+<!ENTITY enableAppUpdate.label        "programu &brandShortName;">
+<!ENTITY enableAppUpdate.accesskey    "p">
+<!ENTITY enableAddonsUpdate.label     "zainstalowanych dodatków">
+<!ENTITY enableAddonsUpdate.accesskey "z">
+<!ENTITY checkNow.label               "Sprawdź teraz…">
+<!ENTITY whenUpdatesFound.label       "Kiedy zostaną znalezione aktualizacje dla programu &brandShortName;:">
+<!ENTITY modeAskMe.label              "pytaj mnie, co zrobić">
+<!ENTITY modeAskMe.accesskey          "c">
+<!ENTITY modeAutomatic.label          "automatycznie pobieraj i instaluj aktualizacje">
+<!ENTITY modeAutomatic.accesskey      "a">
+<!ENTITY modeAutoAddonWarn.label      "ostrzegaj, jeśli aktualizacja spowoduje wyłączenie dodatków">
+<!ENTITY modeAutoAddonWarn.accesskey  "o">
+<!ENTITY showUpdates.label            "Wyświetl historię aktualizacji">
+<!ENTITY showUpdates.accesskey        "W">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label       "Ustawienia…">
