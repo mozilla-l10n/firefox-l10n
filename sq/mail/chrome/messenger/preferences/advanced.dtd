@@ -90,3 +90,8 @@
 <!ENTITY viewCRLs.accesskey             "l">
 <!ENTITY viewSecurityDevices.label      "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey  "p">
+
+<!ENTITY alwaysCheckDefault.label      "Gjatë nisjes, kontrollo përherë për të parë nëse &brandShortName;-i është klienti parazgjedhje për postën">
+<!ENTITY alwaysCheckDefault.accesskey  "g">
+<!ENTITY checkNow.accesskey            "T">
+<!ENTITY systemDefaults.label          "Parazgjedhje Sistemi">
