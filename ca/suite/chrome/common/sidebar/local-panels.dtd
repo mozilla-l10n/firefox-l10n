@@ -40,7 +40,6 @@
 
 <!-- extracted from ./local-panels.rdf -->
 
-<!ENTITY sidebar.whats-related.label "Afins">
 <!ENTITY sidebar.search.label "Cerca">
 <!ENTITY sidebar.client-bookmarks.label "Adreces d'interès">
 <!ENTITY sidebar.client-history.label "Historial">

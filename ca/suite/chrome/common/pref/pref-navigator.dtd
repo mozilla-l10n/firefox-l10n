@@ -1,6 +1,7 @@
 <!ENTITY  pref.navigator.title      "Navegador">
 
-<!ENTITY navRadio "En iniciar">
+<!ENTITY navRadio.label                 "Mostra">
+<!ENTITY navRadio.accesskey             "M">
 <!ENTITY navStartPageMenu.label "Inici del navegador">
 <!ENTITY newWinPageMenu.label "Nova finestra">
 <!ENTITY newTabPageMenu.label "Pestanya nova">

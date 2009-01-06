@@ -2,8 +2,8 @@
 <!ENTITY newMessageCmd.accesskey "M">
 <!ENTITY newMessageCmd.key "M">
 
-<!ENTITY newCardCmd.label "Targeta de la llibreta d'adreces...">
-<!ENTITY newCardCmd.accesskey "l">
+<!ENTITY newContactCmd.label "Contacte…">
+<!ENTITY newContactCmd.accesskey "C">
 
 <!ENTITY sendPage.label "Envia la pàgina...">
 <!ENTITY sendPage.accesskey "a">

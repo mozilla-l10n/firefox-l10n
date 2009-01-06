@@ -19,6 +19,6 @@
 
 <!ENTITY enablePlugin.label "Habilita els connectors per a">
 
-<!ENTITY whenPluginsRequired.description "Quan calguin connectors addicionals:">
+<!ENTITY whenPluginsRequired.label	 "Quan calguin connectors addicionals:">
 <!ENTITY displayNotification.label       "Mostra una barra de notificació a la part superior de l'àrea de contingut">
 <!ENTITY displayNotification.accesskey   "n">
