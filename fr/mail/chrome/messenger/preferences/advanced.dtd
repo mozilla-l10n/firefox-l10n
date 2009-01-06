@@ -8,6 +8,21 @@
 
 <!ENTITY enableGloda.label "Activer l'indexation des messages">
 <!ENTITY enableGloda.accesskey "x">
+<!ENTITY systemDefaults.label "Paramètres système par défaut">
+<!ENTITY alwaysCheckDefault.label "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
+<!ENTITY alwaysCheckDefault.accesskey "T">
+<!ENTITY checkNow.label "Vérifier maintenant">
+<!ENTITY checkNow.accesskey "V">
+<!ENTITY configEditDesc.label "Configuration avancée">
+<!ENTITY configEdit.label "Éditeur de configuration…">
+<!ENTITY configEdit.accesskey "d">
+<!ENTITY returnReceiptsInfo.label "Gestion des accusés de réception dans &brandShortName;">
+<!ENTITY showReturnReceipts.label "Accusés de réception…">
+<!ENTITY showReturnReceipts.accesskey "c">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption "Lecture">
+<!ENTITY display.caption "Affichage">
 <!ENTITY showCondensedAddresses.label "N'afficher que le nom pour les personnes se trouvant dans le carnet d'adresses">
 <!ENTITY showCondensedAddresses.accesskey "N">
 
@@ -26,16 +41,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "U">
 <!ENTITY reuseExpRadio1.label          "une fenêtre existante">
 <!ENTITY reuseExpRadio1.accesskey      "n">
-<!ENTITY configEditDesc.label          "Configuration avancée">
-<!ENTITY configEdit.label              "Éditeur de configuration…">
-<!ENTITY configEdit.accesskey          "d">
-<!ENTITY returnReceiptsInfo.label      "Gestion des accusés de réception dans &brandShortName;">
-<!ENTITY showReturnReceipts.label      "Accusés de réception…">
-<!ENTITY showReturnReceipts.accesskey  "c">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lecture">
-<!ENTITY display.caption                "Affichage">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Rechercher automatiquement des mises à jour pour :">
