@@ -1,9 +1,3 @@
-<!ENTITY systemDefaults.label "Valores por omisión del sistema">
-<!ENTITY alwaysCheckDefault.label "Comprobar siempre si &brandShortName; es el cliente de correo por omisión al inicio">
-<!ENTITY alwaysCheckDefault.accesskey "C">
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "Comprobar ahora">
-<!ENTITY checkNow.accesskey "a">
 <!ENTITY messengerStartPage.label "Página de inicio de &brandShortName;">
 <!ENTITY enableStartPage.label "Al iniciarse &brandShortName;, mostrar la página de inicio en el área de mensajes">
 <!ENTITY enableStartPage.accesskey "i">

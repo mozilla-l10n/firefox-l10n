@@ -8,7 +8,6 @@
 <!ENTITY port.label "Puerto:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Predet.:">
-<!ENTITY savePassword.label "Guardar contraseña">
 <!ENTITY biffStart.label "Buscar nuevos mensajes cada ">
 <!ENTITY biffStart.accesskey "j">
 <!ENTITY biffEnd.label "minutos">
