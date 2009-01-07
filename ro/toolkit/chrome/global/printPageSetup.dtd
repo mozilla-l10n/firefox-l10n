@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label   "Format">
 
 <!ENTITY orientation.label   "Orientare:">
-<!ENTITY portrait            "Portret">
-<!ENTITY landscape           "Peisaj">
+<!ENTITY portrait.label      "Portret">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Peisaj">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "Scală:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Micșorează pentru a încăpea în pagină">
+<!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "Opțiuni">
 
 <!ENTITY printBG.label       "Tipărește fundalul (culori și imagini)">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "Margini și antet/subsol">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches  "țoli">
 <!ENTITY marginUnits.metric  "milimetri">
 <!ENTITY marginTop.label     "Sus:">
+<!ENTITY marginTop.accesskey "T">
 <!ENTITY marginBottom.label  "Jos:">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Stânga:">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "Dreapta:">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Antet și subsol">
 

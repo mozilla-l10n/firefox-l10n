@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "Mută mesajul din nou">
 <!ENTITY undoCopyMsgCmd.label "Anulează copierea mesajului">
 <!ENTITY redoCopyMsgCmd.label "Copiază mesajul din nou">
+<!ENTITY undoMarkAllCmd.label "Anulează marcarea tuturor ca citite">
+<!ENTITY redoMarkAllCmd.label "Refă marcarea tuturor ca citite">
 <!ENTITY undoDefaultCmd.label "Desfă">
 <!ENTITY undoDefaultCmd.accesskey "D">
 <!ENTITY redoDefaultCmd.label "Refă">

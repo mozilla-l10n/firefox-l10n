@@ -70,15 +70,10 @@
 <!ENTITY calendar.publish.label                 "Publică…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.toolbar.label                 "Bara de unelte pentru calendar">
-<!ENTITY calendar.toolbar.accesskey             "t">
-<!ENTITY task.toolbar.label                     "Bara de unelte pentru sarcini">
-<!ENTITY task.toolbar.accesskey                 "B">
-
 <!ENTITY calendar.menu.customize.label          "Personalizează…">
 <!ENTITY calendar.menu.customize.accesskey      "P">
 
-<!ENTITY showUnifinderCmd.label                 "Căutare">
+<!ENTITY showUnifinderCmd.label                 "Caută evenimente">
 <!ENTITY showUnifinderCmd.accesskey             "C">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Afișează sarcinile în calendar">

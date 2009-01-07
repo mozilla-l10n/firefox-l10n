@@ -10,6 +10,10 @@
 <!ENTITY  noupdatesautoenabled.intro      "Nu sunt actualizări disponibile. &brandShortName; va verifica periodic dacă există actualizări.">
 <!ENTITY  noupdatesautodisabled.intro     "Nu sunt actualizări disponibile. Încercați din nou mai târziu sau activați verificarea automată de actualizări &brandShortName;.">
 
+<!ENTITY  manualUpdate.title              "Imposibil de actualizat">
+<!ENTITY  manualUpdate.desc               "E disponibilă o actualizare de securitate și stabilitate, dar nu aveți permisiunile necesare pentru a o instala. Vă rugăm să contactați administratorul de sistem sau să încercați din nou dintr-un alt cont care are permisiunea de a instala programe pe acest calculator.">
+<!ENTITY  manualUpdateGetMsg.label        "Puteți obține oricând ultima versiune de &brandShortName; la:">
+
 <!ENTITY  incompatibleCheck.title         "Verificare compatibilitate suplimente">
 <!ENTITY  incompatibleCheck.label         "Se caută versiuni noi pentru suplimentele dumneavoastră…">
 

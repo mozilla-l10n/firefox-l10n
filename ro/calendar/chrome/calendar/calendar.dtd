@@ -51,9 +51,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newtask.button.tooltip          "Creează o sarcină nouă" >
 <!ENTITY calendar.newevent.button.tooltip         "Creează un eveniment nou" >
-<!ENTITY calendar.edit.button.tooltip             "Editează evenimentul selectat" >
+<!ENTITY calendar.newtask.button.tooltip          "Creează o sarcină nouă" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Sarcini" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Arată sarcinile îndeplinite">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "Mergi la ziua de azi" >
 <!ENTITY calendar.todaypane.button.tooltip        "Arată panoul cu ziua de azi" >
-<!ENTITY calendar.unifinder.button.tooltip        "Găsiți și listați evenimente" >
 
 <!ENTITY calendar.day.button.tooltip            "Comută la vizualizarea zilei" >
 <!ENTITY calendar.week.button.tooltip           "Comută la vizualizarea săptămânii" >
@@ -102,23 +100,11 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Luna viitoare" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Luna trecută" >
 
-<!ENTITY calendar.newtask.button.label          "Sarcină nouă" >
 <!ENTITY calendar.newevent.button.label         "Eveniment nou" >
-<!ENTITY calendar.edit.button.label             "Editează" >
+<!ENTITY calendar.newtask.button.label          "Sarcină nouă" >
 <!ENTITY calendar.print.button.label            "Tipărește" >
 
-<!ENTITY calendar.import.button.tooltip            "Importă evenimente dintr-un fișier local" >
-<!ENTITY calendar.export.button.tooltip            "Exportă evenimente într-un fișier local" >
-<!ENTITY calendar.subscribe.button.tooltip         "Abonați-vă la un fișier calendar aflat pe o altă mașină" >
-<!ENTITY calendar.publish.button.tooltip           "Publică evenimentele pe un calculator aflat la distanță" >
-
 <!ENTITY calendar.export.calendar                "Exportă calendarul…" >
-
-<!ENTITY calendar.import.button.label              "Importă" >
-<!ENTITY calendar.export.button.label              "Exportă" >
-<!ENTITY calendar.subscribe.button.label           "Abonare" >
-<!ENTITY calendar.publish.button.label             "Publică" >
-<!ENTITY calendar.unifinder.button.label           "Căutare" >
 
 <!ENTITY calendar.day.button.label              "Zi" >
 <!ENTITY calendar.week.button.label             "Săptămână" >
@@ -154,15 +140,15 @@
 <!ENTITY calendar.task.filter.open.label            "Sarcini neterminate">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 
-<!ENTITY calendar.task.details.title.label           "Titlu:">
-<!ENTITY calendar.task.details.organizer.label       "De la:">
-<!ENTITY calendar.task.details.priority2.label       "Prioritate:">
-<!ENTITY calendar.task.details.priority.low.label    "Mică">
-<!ENTITY calendar.task.details.priority.normal.label "Normală">
-<!ENTITY calendar.task.details.priority.high.label   "Mare">
-<!ENTITY calendar.task.details.status.label          "Stare:">
-<!ENTITY calendar.task.details.category.label        "Categorie:">
-<!ENTITY calendar.task.details.repeat.label          "Repetă:">
+<!ENTITY calendar.task-details.title.label           "titlu">
+<!ENTITY calendar.task-details.organizer.label       "de la">
+<!ENTITY calendar.task-details.priority.label        "prioritatea">
+<!ENTITY calendar.task-details.priority.low.label    "Mică">
+<!ENTITY calendar.task-details.priority.normal.label "Normală">
+<!ENTITY calendar.task-details.priority.high.label   "Mare">
+<!ENTITY calendar.task-details.status.label          "stare">
+<!ENTITY calendar.task-details.category.label        "categorie">
+<!ENTITY calendar.task-details.repeat.label          "repetă">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorisiți sarcinile">
 <!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca îndeplinite">

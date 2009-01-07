@@ -7,4 +7,7 @@
 <!ENTITY aboutVersion               "versiunea">
 <!ENTITY closeCmdGNOME.label        "Închide">  
 <!ENTITY closeCmdGNOME.accesskey    "c">
-<!ENTITY copyrightInfo              "&#169;1998-2008. Toate drepturile sunt rezervate. Firefox și siglele Firefox sunt mărci înregistrate ale fundației Mozilla. Toate drepturile asupra lor sunt rezervate.">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Colaboratorii. Toate drepturile sunt rezervate. (">
+<!ENTITY licenseLink                "despre:licență">
+<!ENTITY licenseLinkText            "Informații de licențiere">
+<!ENTITY copyrightInfo2             ").">

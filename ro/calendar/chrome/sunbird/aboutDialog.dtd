@@ -40,7 +40,7 @@
 <!ENTITY copyright.label        "Merite">
 <!ENTITY copyright.accesskey    "M">
 <!ENTITY aboutLink.label        "&lt; Despre &brandFullName;">
-<!ENTITY aboutLink.accesskey    "a">
+<!ENTITY aboutLink.accesskey    "D">
 <!ENTITY aboutVersion           "versiunea">
 <!ENTITY copyrightText          "©1998-2008 Colaboratorii. Toate drepturile sunt rezervate. Mozilla Sunbird, Sunbird, și siglele Sunbird sunt mărci înregistrate ale Fundației Mozilla. Toate drepturile asupra lor sunt rezervate.">
 
@@ -52,7 +52,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "<h3>Traducători</h3><ul><li>Alexandru Szasz</li><li>Comunitatea de pe tradu.softwareliber.ro</li>">
 
 <!ENTITY credit.powered     "Bazat pe">
 <!ENTITY license.and        "și">
