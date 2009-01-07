@@ -39,6 +39,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "Pašalinti ">
+<!ENTITY clearDuration.accesskey      "P">
 <!ENTITY clearDuration.lastHour       "pastarosios valandos">
 <!ENTITY clearDuration.last2Hours     "pastarųjų dviejų valandų">
 <!ENTITY clearDuration.last4Hours     "pastarųjų keturių valandų">
