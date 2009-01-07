@@ -7,7 +7,7 @@
 <!ENTITY aboutVersion "version">
 <!ENTITY closeCmdGNOME.label        "Tampar">  
 <!ENTITY closeCmdGNOME.accesskey    "T">
-<!ENTITY copyrightInfo "©1998-2009 Contributors. Totes los dreches reservats(">
+<!ENTITY copyrightInfo1 "©1998-2009 Contributors. Totes los dreches reservats(">
 <!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Entresenhas sus la licéncia">
 <!ENTITY copyrightInfo2             ").">
