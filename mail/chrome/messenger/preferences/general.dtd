@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "Paràmetres per defecte del sistema">
-<!ENTITY alwaysCheckDefault.label          "Comprova sempre si el &brandShortName; és el client de correu per defecte a l'inici">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "5em">
-<!ENTITY checkNow.label             "Comprova-ho ara">
-<!ENTITY checkNow.accesskey         "h">
-
 <!ENTITY messengerStartPage.label         "Pàgina d'inici del &brandShortName;">
 <!ENTITY enableStartPage.label            "Quan s'executi el &brandShortName;, mostra la pàgina d'inici a l'àrea de missatges">
 <!ENTITY enableStartPage.accesskey        "Q">
