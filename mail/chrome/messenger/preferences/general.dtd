@@ -1,9 +1,3 @@
-<!ENTITY systemDefaults.label "Системные настройки по умолчанию">
-<!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
-<!ENTITY alwaysCheckDefault.accesskey "п">
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "Проверить сейчас">
-<!ENTITY checkNow.accesskey "с">
 <!ENTITY messengerStartPage.label "Стартовая страница &brandShortName;">
 <!ENTITY enableStartPage.label "Показывать стартовую страницу в области просмотра сообщения при запуске &brandShortName;">
 <!ENTITY enableStartPage.accesskey "с">
