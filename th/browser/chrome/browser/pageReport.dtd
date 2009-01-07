@@ -1,9 +1,0 @@
-<!ENTITY caption.label "ป็อปอัพถูกปิดกั้น">
-
-<!ENTITY intro.label "หน้าต่อไปนี้ถูกป้องกันจากการแสดงหน้าต่างป็อปอัพที่ไม่ได้ถูกเรียก">
-
-<!ENTITY done.label "เสร็จ">
-<!ENTITY done.accesskey "ส">
-
-<!ENTITY unblock.label "ยกเลิกการปิดกั้นไซต์">
-<!ENTITY unblock.accesskey "ย">
