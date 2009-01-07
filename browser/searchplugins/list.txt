@@ -1,2 +1,8 @@
+amazon-en-GB
+creativecommons
+eBay-en-GB
 google
+palasprint
+termiadur
 wikipedia-cy
+yahoo-en-GB

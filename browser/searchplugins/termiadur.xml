@@ -1,0 +1,13 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Y Termiadur</ShortName>
+<Description>Termau wedi'u safoni</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAB6ElEQVQ4y6WTwU4TURSGv3untMMwtkNaFAItmkiJXWhSNyxwa0zUF9CERNfs0AdgbdxbFhjXDdFHGKOJLqxdNI2RDRJEF7SlprQdZu50XJR0CipE/Zf3nHz5/3POFYVCIeA/FAHIL95lMmng9wIIQERH0PQYeIpASvA8fNcDAVIKlFJ47Tq2bfcB0xNjTE3EQ+yPJu3XNmJhAb3RxE0m0VPWoBwEAeXydujg0O0ds9X+UKL69AkyOw8I4svLZK0QoJTCcZwQIMTxXEEuh8zl2J+e4cK9+8xkMr9kV0qFgJPyi0UOo1EyizfIzs4iThmi/N1jw7LwRw0679+xubbGgeedvoWTmlpaYrzVovXqJTtftkn2eph/A9DrNdxikW+7u1gPHpKKxc5wMByyUmHrxXO2Ll4ivfKIuaHp/3kGR2volctUHq/w6fwkl2/eYk7KMy+x33F0zG2psTd/hUR0hIO3b6gWnlEP+kW/WqVRKqE8DyElkUgkjKDJvgPj2lWur67idjtEDYO9jQ1q6+u4uk7d6RLL54lrGpoQ6LoeAjzXwfNGAThnWWBZCMC/fYfvH8vUUimsdJrkuEXg+zhKYZrmEKDbpFL5iuM4gwsbaMyAbof9zc/sRCLouo5pmiQSiRBg2/Y/f+efjVeslRJuhHgAAAAASUVORK5CYII=</Image>
+<Url type="text/html" method="GET" template="http://geiriadur.bangor.ac.uk/termiadur/index.aspx">    
+  <Param name="dir" value="cy2en"/>
+  <Param name="lang" value="cy"/>
+  <Param name="search" value="{searchTerms}"/>
+  <Param name="source" value="mozilla"/>
+</Url>
+<SearchForm>http://geiriadur.bangor.ac.uk/termiadur/index.aspx</SearchForm>
+</SearchPlugin>
