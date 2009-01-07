@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "Standard-Anwendung">
-<!ENTITY alwaysCheckDefault.label          "Beim Starten prüfen, ob &brandShortName; als Standard-Anwendung registriert ist">
-<!ENTITY alwaysCheckDefault.accesskey      "B">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Jetzt prüfen">
-<!ENTITY checkNow.accesskey         "J">
-
 <!ENTITY messengerStartPage.label         "&brandShortName;-Startseite">
 <!ENTITY enableStartPage.label            "Beim Aufrufen von &brandShortName; die Startseite anzeigen">
 <!ENTITY enableStartPage.accesskey        "S">

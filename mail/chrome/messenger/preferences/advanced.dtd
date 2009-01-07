@@ -8,6 +8,21 @@
 
 <!ENTITY enableGloda.label             "Nachrichten-Indexierung aktivieren">
 <!ENTITY enableGloda.accesskey         "N">
+<!ENTITY systemDefaults.label          "Standard-Anwendung">
+<!ENTITY alwaysCheckDefault.label      "Beim Starten prüfen, ob &brandShortName; als Standard-Anwendung registriert ist">
+<!ENTITY alwaysCheckDefault.accesskey  "B">
+<!ENTITY checkNow.label                "Jetzt prüfen">
+<!ENTITY checkNow.accesskey            "J">
+<!ENTITY configEditDesc.label          "Erweiterte Konfiguration (about:config):">
+<!ENTITY configEdit.label              "Konfiguration bearbeiten…">
+<!ENTITY configEdit.accesskey          "K">
+<!ENTITY returnReceiptsInfo.label      "Den Umgang mit Empfangsbestätigungen (MDN) regeln:">
+<!ENTITY showReturnReceipts.label      "Empfangsbestätigungen…">
+<!ENTITY showReturnReceipts.accesskey  "E">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Lesen">
+<!ENTITY display.caption                "Ansicht">
 <!ENTITY showCondensedAddresses.label  "Bei Adressen aus dem Adressbuch nur den Namen anzeigen">
 <!ENTITY showCondensedAddresses.accesskey "B">
 
@@ -26,16 +41,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "vorhandenem Fenster">
 <!ENTITY reuseExpRadio1.accesskey      "v">
-<!ENTITY configEditDesc.label          "Erweiterte Konfiguration (about:config):">
-<!ENTITY configEdit.label              "Konfiguration bearbeiten…">
-<!ENTITY configEdit.accesskey          "K">
-<!ENTITY returnReceiptsInfo.label      "Den Umgang mit Empfangsbestätigungen (MDN) regeln:">
-<!ENTITY showReturnReceipts.label      "Empfangsbestätigungen…">
-<!ENTITY showReturnReceipts.accesskey  "E">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lesen">
-<!ENTITY display.caption                "Ansicht">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisch auf Updates überprüfen für:">
