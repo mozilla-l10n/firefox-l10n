@@ -4,5 +4,5 @@
 <!ENTITY noReports.label "ยังไม่เคยมีการรายงานข้อขัดข้อง">
 <!ENTITY noConfig.label "โปรแกรมนี้ยังไม่ได้กำหนดให้แสดงรายงานข้อขัดข้อง 
 กรุณากำหนด <code>breakpad.reportURL</code> ในหน้าจอปรับแต่ง">
-<!ENTITY clearReports.label "ลบรายงานทั้งหมด">
+<!ENTITY clearAllReports.label "ลบรายงานทั้งหมด">
 
