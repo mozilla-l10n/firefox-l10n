@@ -79,7 +79,6 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "įdiegtiems programos priedams">
 <!ENTITY enableAddonsUpdate.accesskey   "e">
-<!ENTITY checkNow.label                 "Tikrinti dabar">
 <!ENTITY whenUpdatesFound.label         "Radus „&brandShortName;“ naujinimų:">
 <!ENTITY modeAskMe.label                "pranešti ir paklausti, ką daryti">
 <!ENTITY modeAskMe.accesskey            "k">
