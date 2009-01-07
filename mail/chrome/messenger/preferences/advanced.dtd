@@ -48,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "les modules installés">
 <!ENTITY enableAddonsUpdate.accesskey   "m">
-<!ENTITY checkNow.label                 "Rechercher maintenant…">
 <!ENTITY whenUpdatesFound.label         "Quand des mises à jour pour &brandShortName; sont disponibles :">
 <!ENTITY modeAskMe.label                "demander ce qu'il faut faire">
 <!ENTITY modeAskMe.accesskey            "d">
