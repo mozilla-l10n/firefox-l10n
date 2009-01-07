@@ -39,6 +39,11 @@
 
 <!ENTITY enableGloda.label             "Indeksuoti laiškus">
 <!ENTITY enableGloda.accesskey         "e">
+<!ENTITY systemDefaults.label            "Sistemos numatytosios nuostatos">
+<!ENTITY alwaysCheckDefault.label      "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
+<!ENTITY alwaysCheckDefault.accesskey  "u">
+<!ENTITY checkNow.label                "Tikrinti dabar">
+<!ENTITY checkNow.accesskey            "d">
 <!ENTITY showCondensedAddresses.label  "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
 <!ENTITY showCondensedAddresses.accesskey "a">
 
