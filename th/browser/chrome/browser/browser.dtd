@@ -88,6 +88,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "หยุดการโหลดหน้านี้">
 <!ENTITY goEndCap.tooltip "ไปยังที่ตั้งที่ป้อน">
+<!ENTITY feedButton.tooltip "บอกรับหน้าเว็บนี้…">
 <!ENTITY printButton.label "พิมพ์">
 <!ENTITY printButton.tooltip "พิมพ์หน้านี้">
 
