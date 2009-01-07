@@ -120,7 +120,6 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stabdyti šio tinklalapio atsiuntimą">
 <!ENTITY goEndCap.tooltip             "Eiti į adresų juostoje surinktą adresą">
-<!ENTITY feedButton.tooltip           "Prenumeruoti šio tinklalapio naujienas…">
 <!ENTITY printButton.label            "Spausdinti">
 <!ENTITY printButton.tooltip          "Spausdinti šį tinklalapį">
 
@@ -200,8 +199,12 @@
 <!ENTITY clearRecentHistoryCmd.label          "Valyti žurnalą">
 <!ENTITY clearRecentHistoryCmd.accesskey      "V">
 
-<!ENTITY privateBrowsingCmd.label            "Privatusis naršymas">
-<!ENTITY privateBrowsingCmd.accesskey        "P">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Pradėti privatųjį naršymą">
+<!ENTITY privateBrowsingCmd.start.accesskey     "p">
+<!ENTITY privateBrowsingCmd.stop.label          "Baigti privatųjį naršymą">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "p">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Rodymas"> 
 <!ENTITY viewMenu.accesskey       "R"> 
