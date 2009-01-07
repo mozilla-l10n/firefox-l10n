@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Private Browsing">
+<!ENTITY privatebrowsingpage.title                 "การดูเว็บแบบส่วนตัว">
+<!ENTITY privatebrowsingpage.title.normal          "คุณต้องการเริ่มการดูเว็บแบบส่วนตัวใช่หรือไม่ ?">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Private Browsing">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; จะไม่จดจำประวัติใด ๆ สำหรับวาระการใช้งานครั้งนี้">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; ขณะนี้ไม่ได้ใช้การดูเว็บแบบส่วนตัว.">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; won't remember any history for this session.">
-<!ENTITY privatebrowsingpage.longDesc                  "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
+<!ENTITY privatebrowsingpage.description               "ในวาระการดูเว็บแบบส่วนตัว &brandShortName; จะไม่เก็บประวัติการดูเว็บ ประวัติการค้นหา ประวัติการดาวน์โหลด ประวัติการกรอกแบบฟอร์ม คุกกี้ หรือแฟ้มอินเทอร์เน็ตชั่วคราวใด ๆ อย่างไรก็ตาม วาระดังกล่าวจะยังเก็บแฟ้มที่คุณดาวน์โหลดและที่คั่นหน้าเว็บที่คุณเพิ่มไว้">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "You may want to start by also clearing your recent history.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Clear Recent History…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "C">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "คุณอาจต้องการเริ่มโดย">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "ล้างประวัติที่ผ่านมา">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "To stop private browsing, uncheck Tools &gt; Private Browsing.">
-<!ENTITY privatebrowsingpage.footerDesc                "Enjoy!">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "เริ่มการดูเว็บแบบส่วนตัว">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "ส">
+
+<!ENTITY privatebrowsingpage.howToStop                 "คุณสามารถเลิกการดูเว็บแบบส่วนตัวได้โดยเลือก &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; หรือปิดโปรแกรม &brandShortName;">
+<!ENTITY privatebrowsingpage.howToStart                "คุณสามารถเริ่มการดูเว็บแบบส่วนตัวโดยเลือก &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; ได้เช่นกัน">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "แม้คอมพิวเตอร์เครื่องนี้จะไม่บันทึกประวัติการดูเว็บของคุณแล้วก็ตาม ผู้ให้บริการอินเทอร์เน็ตที่คุณใช้หรือนายจ้างของคุณจะยังสามารถติดตามประวัติการดูเว็บของคุณได้อยู่">
+<!ENTITY privatebrowsingpage.learnMore                 "เรียนรู้เพิ่มเติม">

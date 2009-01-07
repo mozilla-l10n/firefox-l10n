@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
 <!ENTITY organizeBookmarks.label "จัดการที่คั่นหน้าเว็บ…">
 <!ENTITY bookmarkAllCmd.label "คั่นทุกแท็บ…">
+<!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเว็บอื่น ๆ ด้วย">
 
 <!ENTITY backCmd.label "ย้อนกลับ">
 <!ENTITY backCmd.accesskey "ย">
@@ -166,8 +167,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "ล้างประวัติเมื่อเร็ว ๆ นี้">
 <!ENTITY clearRecentHistoryCmd.accesskey        "ล">
 
-<!ENTITY privateBrowsingCmd.label            "ดูเว็บแบบส่วนตัว">
-<!ENTITY privateBrowsingCmd.accesskey        "ส">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "เริ่มการดูเว็บแบบส่วนตัว">
+<!ENTITY privateBrowsingCmd.start.accesskey     "ส">
+<!ENTITY privateBrowsingCmd.stop.label          "เลิกการดูเว็บแบบส่วนตัว">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "ส">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "มุมมอง">
 <!ENTITY viewMenu.accesskey "ม">

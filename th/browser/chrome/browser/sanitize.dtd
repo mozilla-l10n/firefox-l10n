@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "ลบ">
+<!ENTITY clearDuration.accesskey      "ล">
 <!ENTITY clearDuration.lastHour       "1 ชั่วโมงล่าสุด">
 <!ENTITY clearDuration.last2Hours     "2 ชั่วโมงล่าสุด">
 <!ENTITY clearDuration.last4Hours     "4 ชั่วโมงล่าสุด">
@@ -34,7 +35,7 @@ that require it.  -->
 <!ENTITY itemDownloadList.label "รายการการดาวน์โหลด">
 <!ENTITY itemDownloadList.accesskey "ด">
 <!ENTITY itemActiveLogins.label       "การล็อกอินที่ค้างอยู่">
-<!ENTITY itemActiveLogins.accesskey   "ล">
+<!ENTITY itemActiveLogins.accesskey   "อ">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">
