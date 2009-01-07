@@ -142,5 +142,6 @@
 <!ENTITY downloadOnLogin.label "Atsiųsti laiškus dabar">
 <!ENTITY deferStorageDesc.label "Pažymėkite šį langelį, jei norite, kad šios paskyros laiškai būtų laikomi bendrųjų aplankų gautų laiškų aplanke. Priešingu atveju šios paskyros laiškai bus laikomi atskirame aukščiausio lygio aplanke.">
 <!ENTITY deferStorage.label "Laikyti paštą bendruose aplankuose">
+<!ENTITY deferStorage.accesskey "b">
 <!ENTITY clickFinish.label "Paspauskite mygtuką „Baigti“, ir šie duomenys bus įrašyti.">
 <!ENTITY clickFinish.labelMac "Spustelėkite mygtuką „Baigta“, ir šie duomenys bus įrašyti.">
