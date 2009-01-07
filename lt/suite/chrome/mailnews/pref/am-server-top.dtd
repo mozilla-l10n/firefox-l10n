@@ -41,7 +41,6 @@
 <!ENTITY port.label "Prievadas:">
 <!ENTITY port.accesskey "r">
 <!ENTITY serverPortDefault.label "Numatytasis:">
-<!ENTITY savePassword.label "Įrašyti slaptažodį">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"

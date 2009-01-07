@@ -32,7 +32,8 @@
 
 <!ENTITY  pref.navigator.title      "Naršyklė">
 
-<!ENTITY  navRadio                  "Rodyti">
+<!ENTITY  navRadio.label            "Rodyti">
+<!ENTITY  navRadio.accesskey        "R">
 <!ENTITY  navStartPageMenu.label    "paleidžiant naršyklę:">
 <!ENTITY  newWinPageMenu.label      "atveriant naują langą:">
 <!ENTITY  newTabPageMenu.label      "atveriant naują kortelę:">
