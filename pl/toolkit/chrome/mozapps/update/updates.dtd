@@ -10,6 +10,10 @@
 <!ENTITY  noupdatesautoenabled.intro      "Brak dostępnych aktualizacji. &brandShortName; okresowo sprawdza dostępność aktualizacji.">
 <!ENTITY  noupdatesautodisabled.intro     "Brak dostępnych aktualizacji. Prosimy sprawdzić później lub włączyć automatyczne sprawdzanie dostępności aktualizacji w programie &brandShortName;">
 
+<!ENTITY  manualUpdate.title              "Niewystarczające uprawnienia do aktualizacji">
+<!ENTITY  manualUpdate.desc               "Została udostępniona ważna aktualizacja programu, jednak użytkownik nie posiada wystarczających uprawnień do jej zainstalowania. Należy skontaktować się z administratorem systemu lub spróbować dokonać aktualizacji z konta posiadającego przypisane uprawnienia do instalacji oprogramowania na tym komputerze.">
+<!ENTITY  manualUpdateGetMsg.label        "Najnowszą wersję programu &brandShortName; zawsze można pobrać ze strony:">
+
 <!ENTITY  incompatibleCheck.title         "Sprawdzanie kompatybilności dodatków">
 <!ENTITY  incompatibleCheck.label         "Szukanie nowszych wersji zainstalowanych dodatków…">
 
