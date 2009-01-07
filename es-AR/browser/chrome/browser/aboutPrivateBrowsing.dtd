@@ -15,7 +15,7 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Iniciar navegación privada">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Para dejar la navegación privada, &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; o cierre &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStop             "Para abandonar la navegación privada, seleccione &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; o cierre &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "Para comenzar la navegación privada, también puede seleccionar &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Aunque esta computadora no tenga un registro de su historial de navegación, su proveedor de internet aún puede rastrear las páginas que visite.">
