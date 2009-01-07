@@ -1,7 +1,7 @@
-<!ENTITY aboutDialog.title      "About &brandFullName;">
+<!ENTITY aboutDialog.title      "A prepaus de &brandFullName;">
 <!ENTITY credits.label          "Credits">
 <!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label        "&lt; About &brandFullName;">
+<!ENTITY aboutLink.label        "&lt; A prepaus de &brandFullName;">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "version">
 <!ENTITY copyrightText          "&#169;1998-2008 Contributors. All Rights Reserved. Mozilla Thunderbird and the 

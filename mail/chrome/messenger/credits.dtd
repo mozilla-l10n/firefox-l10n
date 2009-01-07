@@ -1,4 +1,4 @@
-<!ENTITY credit.title     "&brandFullName; Credits">
+<!ENTITY credit.title     "Credits &brandFullName;">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
 <!ENTITY credit.leads     "Engineering Leads">
 <!ENTITY credit.thanks    "Special Thanks To">
@@ -8,7 +8,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "Yannig Marchegay (Kokoyaya)">
 
 <!ENTITY credit.theme          "Theme Design">
 <!ENTITY credit.qa             "Quality Assurance">

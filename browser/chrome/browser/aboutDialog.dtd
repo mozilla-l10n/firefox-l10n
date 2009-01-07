@@ -7,6 +7,8 @@
 <!ENTITY aboutVersion "version">
 <!ENTITY closeCmdGNOME.label        "Tampar">  
 <!ENTITY closeCmdGNOME.accesskey    "T">
-<!ENTITY copyrightInfo "©1998-2008 Contributors. Totes los dreches reservats. Firefox e sos lògos 
-                                 son de marcas de la fondacion Mozilla. Totes los dreches 
-                                 reservats.">
+<!ENTITY copyrightInfo "©1998-2009 Contributors. Totes los dreches reservats(">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Entresenhas sus la licéncia">
+<!ENTITY copyrightInfo2             ").">
+
