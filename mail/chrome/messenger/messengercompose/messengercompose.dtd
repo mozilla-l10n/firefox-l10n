@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Contact nou în agendă...">
-<!ENTITY newCard.accesskey "C">
+<!ENTITY newContact.label "Contact în agendă…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Anexează">
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Fișier(e)...">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
 <!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Bară de formatare">
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Bară de stare">
@@ -184,7 +185,6 @@
 <!ENTITY attachButton.label "Anexează">
 <!ENTITY spellingButton.label "Ortografie">
 <!ENTITY saveButton.label "Salvează">
-<!ENTITY throbberItem.title "Indicator de activitate">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Trimite acum acest mesaj"> 

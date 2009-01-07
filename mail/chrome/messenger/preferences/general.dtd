@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "Opțiunile implicite ale sistemului">
-<!ENTITY alwaysCheckDefault.label          "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de mail">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Verifică acum">
-<!ENTITY checkNow.accesskey         "V">
-
 <!ENTITY messengerStartPage.label         "Pagina de pornire &brandShortName;">
 <!ENTITY enableStartPage.label            "Arată pagina de start în zona mesajelor la pornirea &brandShortName;">
 <!ENTITY enableStartPage.accesskey        "A">

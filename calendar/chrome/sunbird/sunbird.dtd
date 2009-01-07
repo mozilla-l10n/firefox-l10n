@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "Tipărește calendarul" >
 <!ENTITY sunbird.delete.button.tooltip                     "Șterge evenimentul selectat" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Reîncarcă toate calendarele la distanță" >
+<!ENTITY sunbird.import.button.tooltip                     "Importă evenimente dintr-un fișier local" >
+<!ENTITY sunbird.export.button.tooltip                     "Exportă evenimente într-un fișier local" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Abonați-vă la un fișier calendar aflat pe o altă mașină" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publică evenimentele pe un calculator aflat la distanță" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Găsiți și listați evenimente" >
+<!ENTITY sunbird.edit.button.tooltip                       "Editează evenimentul selectat" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Alege data" >
 <!ENTITY sunbird.cut.button.label                          "Taie" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "Lipește" >
 <!ENTITY sunbird.delete.button.label                       "Șterge" >
 <!ENTITY sunbird.remotereload.button.label                 "Reîncarcă" >
+<!ENTITY sunbird.import.button.label                       "Import" >
+<!ENTITY sunbird.export.button.label                       "Export" >
+<!ENTITY sunbird.subscribe.button.label                    "Abonare" >
+<!ENTITY sunbird.publish.button.label                      "Publică" >
+<!ENTITY sunbird.unifinder.button.label                    "Caută evenimente" >
+<!ENTITY sunbird.edit.button.label                         "Editează" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Mergi la dată" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Vezi ziua" >
@@ -69,6 +81,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "Număr de săptămâni" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "N" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 săptămână" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 săptămâni" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 săptămâni" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 săptămâni" >

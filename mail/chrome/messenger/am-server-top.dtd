@@ -10,7 +10,6 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Implicit:">
-<!ENTITY savePassword.label "Salvează parola">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -19,8 +18,6 @@
 <!ENTITY biffStart.label "Verifică mesaje noi la fiecare">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "Minute">
-<!ENTITY isSecure.label "Folosește conexiune securizată (SSL)">
-<!ENTITY isSecure.accesskey "F">
 <!ENTITY socketType.label "Folosește conexiune securizată:">
 <!ENTITY neverSecure.label "Niciodată">
 <!ENTITY neverSecure.accesskey "N">

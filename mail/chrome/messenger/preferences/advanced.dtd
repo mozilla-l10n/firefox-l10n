@@ -8,6 +8,21 @@
 
 <!ENTITY enableGloda.label             "Activează indexarea mesajelor">
 <!ENTITY enableGloda.accesskey         "i">
+<!ENTITY systemDefaults.label          "Opțiunile implicite ale sistemului">
+<!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY checkNow.label                "Check Now">
+<!ENTITY checkNow.accesskey            "N">
+<!ENTITY configEditDesc.label          "Configurare avansată">
+<!ENTITY configEdit.label              "Editor de configurație...">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Configurați gestionarea confirmărilor de primire">
+<!ENTITY showReturnReceipts.label      "Confirmări de primire...">
+<!ENTITY showReturnReceipts.accesskey  "r">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Citire">
+<!ENTITY display.caption               "Afișare">
 <!ENTITY showCondensedAddresses.label  "Arată numai numele pentru cei din agenda mea de contacte">
 <!ENTITY showCondensedAddresses.accesskey "d">
 
@@ -21,23 +36,11 @@
 <!ENTITY markAsReadDelay.label         "După ce sunt afișate">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "secunde">
-<!ENTITY showFolderColumns.label       "Expandează coloanele din panoul cu dosare">
-<!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY openMsgIn.label               "Deschide mesajele în:">
 <!ENTITY reuseExpRadio0.label          "O fereastră de mesaj nouă">
 <!ENTITY reuseExpRadio0.accesskey      "O">
 <!ENTITY reuseExpRadio1.label          "O fereastră de mesaj existentă">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY configEditDesc.label          "Configurare avansată">
-<!ENTITY configEdit.label              "Editor de configurație...">
-<!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Configurați gestionarea confirmărilor de primire">
-<!ENTITY showReturnReceipts.label      "Confirmări de primire...">
-<!ENTITY showReturnReceipts.accesskey  "r">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Citire">
-<!ENTITY display.caption                "Afișare">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Caută automat actualizări pentru:">

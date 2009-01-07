@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Creează">
 <!ENTITY newMenu.accesskey                              "C">
-<!ENTITY newCard.label                                  "Contact nou în agendă...">
-<!ENTITY newCard.accesskey                              "C">
-<!ENTITY newCard.key                                    "N">
+<!ENTITY newContact.label                               "Contact în agendă…">
+<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "O listă nouă de expediție...">
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "o nouă listă de contacte...">
@@ -25,13 +25,13 @@
 <!ENTITY closeCmd.accesskey                             "h">
 <!ENTITY printSetupCmd.label                            "Aranjare în pagină...">
 <!ENTITY printSetupCmd.accesskey                        "j">
-<!ENTITY printPreviewCardViewCmd.label                  "Previz. imprimare fișă">
-<!ENTITY printPreviewCardViewCmd.accesskey              "v">
+<!ENTITY printPreviewContactCmd.label                   "Previzualizare tipărire contact">
+<!ENTITY printPreviewContactCmd.accesskey               "v">
 <!ENTITY printPreviewAddressBook.label                  "Previz. imprimare carte adrese">
 <!ENTITY printPreviewAddressBook.accesskey              "z">
-<!ENTITY printCardViewCmd.label                         "Imprimă fișă...">
-<!ENTITY printCardViewCmd.accesskey                     "p">
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactCmd.label                          "Tipărește contactul…">
+<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Tipărește agenda de contacte...">
 <!ENTITY printAddressBook.accesskey                     "a">
 
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label                                "Șterge">
 <!ENTITY deleteCmd.accesskey                            "Ș">
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
-<!ENTITY deleteCardCmd.label                            "Șterge fișă">
-<!ENTITY deleteCardsCmd2.label                          "Șterge cardurile">
+<!ENTITY deleteContactCmd.label                         "Șterge contactul">
+<!ENTITY deleteContactsCmd.label                        "Șterge contacte">
 <!ENTITY deleteListCmd.label                            "Șterge lista">
 <!ENTITY deleteListsCmd.label                           "Șterge listele">
 <!ENTITY deleteItemsCmd.label                           "Șterge elementele">
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Personalizează...">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showCardPane.label                             "Panou fișă">
-<!ENTITY showCardPane.accesskey                         "P">
+<!ENTITY showContactPane.label                          "Panoul sumar al contactului">
+<!ENTITY showContactPane.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label                          "Afișează numele în forma">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "Prenume Nume">
@@ -116,27 +116,26 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "Fișă nouă">
-<!ENTITY newcardButton.accesskey                        "F">
+<!ENTITY newContactButton.label                         "Contact nou">
+<!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Listă nouă">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton.label                               "Proprietăți">
-<!ENTITY editButton.accesskey                           "P">
+<!ENTITY editButton2.label                              "Proprietăți">
+<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Scrie mesaj">
 <!ENTITY newmsgButton.accesskey                         "m">
 <!ENTITY newIM.label                                    "Mesaj instantaneu">
 <!ENTITY newIM.accesskey                                "i">
-<!ENTITY deleteButton.label                             "Șterge">
-<!ENTITY deleteButton.accesskey                         "Ș">
-<!ENTITY throbberItem.title                             "Indicator de activitate">
+<!ENTITY deleteButton2.label                            "Șterge">
+<!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Creează un contact nou în agenda de contacte">
+<!ENTITY newContactButton.tooltip                       "Creează un nou contact în agendă">
 <!ENTITY newlistButton.tooltip                          "Creează o nouă listă">
-<!ENTITY editButton.tooltip                             "Editează fișa selectată">
+<!ENTITY editButton2.tooltip                            "Editează elementul selectat">
 <!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail">
 <!ENTITY newIM.tooltip                                  "Trimite un mesaj instantaneu sau conversează prin chat">
-<!ENTITY deleteButton.tooltip                           "Șterge înregistrarea sau agenda de contacte selectată">
+<!ENTITY deleteButton2.tooltip                           "Șterge elementul selectat">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Agende de contacte">

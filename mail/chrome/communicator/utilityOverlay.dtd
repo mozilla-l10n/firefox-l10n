@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key      "w">
 <!ENTITY closeCmd.accesskey    "c">
 
-<!ENTITY closeWindow.label "Închide fereastra">
-
 <!ENTITY quitApplicationCmd.label  "Ieșire">
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "I">

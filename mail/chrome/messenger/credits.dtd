@@ -8,7 +8,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Traducători</h3><ul><li>Alexandru Szasz</li><li>Comunitatea de pe tradu.softwareliber.ro</li></ul>">
+<!ENTITY credit.translation "<h3>Traducători</h3><ul><li>Alexandru Szasz</li><li>Comunitatea de pe tradu.softwareliber.ro</li>">
 
 <!ENTITY credit.theme          "Design temă">
 <!ENTITY credit.qa             "Asigurarea calității">
