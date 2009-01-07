@@ -120,6 +120,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stabdyti šio tinklalapio atsiuntimą">
 <!ENTITY goEndCap.tooltip             "Eiti į adresų juostoje surinktą adresą">
+<!ENTITY feedButton.tooltip           "Prenumeruoti šio tinklalapio naujienas…">
 <!ENTITY printButton.label            "Spausdinti">
 <!ENTITY printButton.tooltip          "Spausdinti šį tinklalapį">
 
