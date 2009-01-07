@@ -44,6 +44,13 @@
 <!ENTITY  noupdatesautodisabled.intro     "Šiuo metu naujinimų nėra. Bandykite jų ieškoti vėliau arba įjunkite
                                            automatinį naujinimų tikrinimą „&brandShortName;“ nuostatose.">
 
+<!ENTITY  manualUpdate.title              "Naujinti negalima">
+<!ENTITY  manualUpdate.desc               "Yra išleistas rekomenduojamas saugumo ir stabilumo naujinimas, tačiau Jūs 
+                                           neturite jam įdiegti reikiamų teisių. Susisiekite su šio kompiuterio
+														 administratoriumi, arba bandykite naujinti vėl, prisijungę prie sistemos
+														 kaip naudotojas, kuriam leidžiama diegti programinę įrangą.">
+<!ENTITY  manualUpdateGetMsg.label        "Paskiausią „&brandShortName;“ laidą visuomet galite parsisiųsti iš:">
+
 <!ENTITY  incompatibleCheck.title         "Tikrinamas priedų suderinamumas">
 <!ENTITY  incompatibleCheck.label         "Ieškoma naudojamų priedų naujinimų…">
 
