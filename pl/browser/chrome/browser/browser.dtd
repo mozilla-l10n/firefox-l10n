@@ -178,8 +178,11 @@
 <!ENTITY clearRecentHistoryCmd.label     "Wyczyść historię przeglądania">
 <!ENTITY clearRecentHistoryCmd.accesskey "W">
 
-<!ENTITY privateBrowsingCmd.label        "Tryb prywatny">
-<!ENTITY privateBrowsingCmd.accesskey    "T">
+<!ENTITY privateBrowsingCmd.start.label         "Przejdź do trybu prywatnego">
+<!ENTITY privateBrowsingCmd.start.accesskey     "e">
+<!ENTITY privateBrowsingCmd.stop.label          "Opuść tryb prywatny">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "u">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "Widok" >
 <!ENTITY viewMenu.accesskey "W" >
