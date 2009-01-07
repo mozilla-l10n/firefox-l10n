@@ -1,17 +1,17 @@
-<!ENTITY      windowtitle.label               "Password Manager">
-<!ENTITY      windowalttitle.label            "Form Manager: Sites">
-<!ENTITY      tab.signonsstored.label         "Passwords Saved">
-<!ENTITY      tab.signonsnotstored.label      "Passwords Never Saved">
-<!ENTITY      tab.nopreview.label             "Forms Never Previewed">
-<!ENTITY      tab.nocapture.label             "Forms Never Saved">
+<!ENTITY      windowtitle.label               "Gestionari de mots de pas">
+<!ENTITY      windowalttitle.label            "Gestionari de formularis : sits">
+<!ENTITY      tab.signonsstored.label         "Mots de pas enregistrats">
+<!ENTITY      tab.signonsnotstored.label      "Mots de pas jamai enregistrats">
+<!ENTITY      tab.nopreview.label             "Formularis jamai previsualizats">
+<!ENTITY      tab.nocapture.label             "Formularis jamai enregistrats">
 
-<!ENTITY      spiel.signonsstored.label       "Password Manager has saved login information for the following sites:">
-<!ENTITY      spiel.signonsnotstored.label    "Password Manager will never save login information for the following sites:">
+<!ENTITY      spiel.signonsstored.label       "Lo gestionari de mots de pas a enregistrat las entresenhas d'identificacion dels sits seguents :">
+<!ENTITY      spiel.signonsnotstored.label    "Lo gestionari de mots de pas enregistrarà pas jamai las entresenhas d'identificacion dels sits seguents :">
 <!ENTITY      spiel.nopreview.label           "Form Manager will never preview forms from the following sites before pre-filling them for you:">
 <!ENTITY      spiel.nocapture.label           "Form Manager will never ask to save forms from the following sites:">
 
-<!ENTITY      treehead.site.label             "Site">
-<!ENTITY      treehead.username.label         "Username">
-<!ENTITY      treehead.password.label         "Password">
-<!ENTITY      remove.label                    "Remove">
-<!ENTITY      removeall.label                 "Remove All">
+<!ENTITY      treehead.site.label             "Sit">
+<!ENTITY      treehead.username.label         "Nom d'utilizaire">
+<!ENTITY      treehead.password.label         "Mot de pas">
+<!ENTITY      remove.label                    "Suprimir">
+<!ENTITY      removeall.label                 "Tot suprimir">
