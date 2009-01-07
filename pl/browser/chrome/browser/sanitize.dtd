@@ -5,6 +5,7 @@
 <!ENTITY clearDataSettings2.label     "Podczas zamykania programu &brandShortName; powinny zostać usunięte następujące elementy:">
 
 <!ENTITY clearDuration.label          "Usuń ">
+<!ENTITY clearDuration.accesskey      "U">
 <!ENTITY clearDuration.lastHour       "z ostatniej godziny">
 <!ENTITY clearDuration.last2Hours     "z ostatnich 2 godzin">
 <!ENTITY clearDuration.last4Hours     "z ostatnich 4 godzin">
