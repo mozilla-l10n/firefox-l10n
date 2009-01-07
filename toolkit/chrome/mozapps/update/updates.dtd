@@ -10,6 +10,13 @@
 <!ENTITY  noupdatesautoenabled.intro      "Không có cập nhật nào. &brandShortName; sẽ thường xuyên kiểm tra các cập nhật.">
 <!ENTITY  noupdatesautodisabled.intro     "Không có cập nhật nào. Vui lòng kiểm tra lại sau hoặc kích hoạt chế độ kiểm tra cập nhật tự động của &brandShortName;.">
 
+<!ENTITY  manualUpdate.title              "Không thể Cập nhật">
+<!ENTITY  manualUpdate.desc               "Một phiên bản cập nhật bảo mật và ổn định đang hiện hữu, nhưng bạn
+                                           không có đủ quyền hạn để cài. Vui lòng liên hệ
+                                           người quản trị hệ thống của bạn, hoặc thử lại bằng tài khoản có quyền
+                                           cài đặt phần mềm trên máy tính này.">
+<!ENTITY  manualUpdateGetMsg.label        "Bạn luôn có thể tải phiên bản mới nhất của &brandShortName; tại:">
+
 <!ENTITY  incompatibleCheck.title         "Đang kiểm tra Tính tương thích của Tiện ích">
 <!ENTITY  incompatibleCheck.label         "Đang tìm phiên bản mới hơn cho tiện ích của bạn…">
 

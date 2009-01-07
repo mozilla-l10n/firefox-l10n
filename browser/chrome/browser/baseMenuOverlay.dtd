@@ -38,11 +38,11 @@
 <!ENTITY servicesMenuMac.label          "Dịch vụ">
 
 <!ENTITY hideThisAppCmdMac.label        "Ẩn &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "n">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ẩn các ứng dụng khác">
-<!ENTITY hideOtherAppsCmdMac.commandkey "n">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Hiện Tất Cả">
