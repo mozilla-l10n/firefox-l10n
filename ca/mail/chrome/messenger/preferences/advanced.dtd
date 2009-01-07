@@ -8,6 +8,11 @@
 
 <!ENTITY enableGloda.label             "Habilita l'indexador de missatges">
 <!ENTITY enableGloda.accesskey         "i">
+<!ENTITY systemDefaults.label              "Paràmetres per defecte del sistema">
+<!ENTITY alwaysCheckDefault.label          "Comprova sempre si el &brandShortName; és el client de correu per defecte a l'inici">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!ENTITY checkNow.label             "Comprova-ho ara">
+<!ENTITY checkNow.accesskey         "h">
 <!ENTITY showCondensedAddresses.label "Ensenya només el 'Nom a mostrar' per a aquella gent a la llibreta d'adreces.">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
