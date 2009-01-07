@@ -7,4 +7,7 @@
 <!ENTITY aboutVersion               "wersja">
 <!ENTITY closeCmdGNOME.label        "Zamknij">  
 <!ENTITY closeCmdGNOME.accesskey    "Z">
-<!ENTITY copyrightInfo              "&#169;1998-2008 Współtwórcy. Wszelkie prawa zastrzeżone. Nazwa Firefox oraz logo Firefox są zastrzeżonymi znakami towarowymi Mozilla Foundation. Wszelkie prawa zastrzeżone.">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Współtwórcy. Wszelkie prawa zastrzeżone. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Informacje o licencji">
+<!ENTITY copyrightInfo2             ").">
