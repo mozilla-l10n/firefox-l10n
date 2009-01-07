@@ -13,11 +13,10 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Không tìm thấy máy chủ">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
+<!ENTITY dnsNotFound.longDesc " <ul>
   <li>Kiểm tra các lỗi gõ địa chỉ như là
-    <strong>ww</strong>.nhaccodien.info thay vì
-    <strong>www</strong>.nhaccodien.info</li>
+    <strong>ww</strong>.vi.mozdev.org thay vì gõ đúng phải là
+    <strong>www</strong>.vi.mozdev.org</li>
   <li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng của bạn.</li>
   <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc rằng &brandShortName; được phép truy cập Web.</li>
 </ul>
@@ -41,8 +40,8 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Địa chỉ Web thường được viết như sau
-    <strong>http://www.nhaccodien.info/</strong></li>
-  <li>Hãy chắc rằng bạn đang dùng dấu chéo lên (vd.
+    <strong>http://vi.mozdev.org/</strong></li>
+  <li>Hãy chắc chắn rằng bạn đang dùng dấu chéo lên (vd.
     <strong>/</strong>).</li>
 </ul>
 ">

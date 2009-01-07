@@ -3,7 +3,7 @@
 <!ENTITY reportDecsription           "Mô tả">
 <!ENTITY reportPlatform              "Hệ điều hành">
 <!ENTITY reportProduct               "Sản phẩm">
-<!ENTITY reportoscpu                 "HĐH">
+<!ENTITY reportoscpu                 "OS">
 <!ENTITY reportGecko                 "Gecko">
 <!ENTITY reportBuildConfig           "Cấu hình Build">
 <!ENTITY reportUseragent             "Useragent">

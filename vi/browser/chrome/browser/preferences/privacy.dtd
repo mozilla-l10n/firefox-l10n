@@ -52,12 +52,8 @@
 <!ENTITY  alwaysClear.label              "Luôn luôn xóa các dữ liệu cá nhân khi tôi thoát &brandShortName;">
 <!ENTITY  alwaysClear.accesskey          "L">
 
-<!ENTITY  askBeforeClear.label           "Hỏi tôi trước khi xóa các dữ liệu cá nhân">
-<!ENTITY  askBeforeClear.accesskey       "H">
-
 <!ENTITY  clearDataSettings.label        "Thiết lập…">
 <!ENTITY  clearDataSettings.accesskey    "p">
 
 <!ENTITY  clearDataNow.label             "Xóa Ngay…">
-<!ENTITY  clearDataNow.label2            "Xóa Ngay">
 <!ENTITY  clearDataNow.accesskey         "a">

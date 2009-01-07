@@ -8,7 +8,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
+                                                                  inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Duyệt web Riêng tư)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
@@ -88,7 +88,6 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ngưng tải trang này">
 <!ENTITY goEndCap.tooltip             "Tải trang trong thanh Địa chỉ">
-<!ENTITY feedButton.tooltip           "Đăng kí nhận tin từ trang này…">
 <!ENTITY printButton.label            "In">
 <!ENTITY printButton.tooltip          "In trang này">
 
@@ -168,8 +167,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "Xóa các Lược sử Gần đây">
 <!ENTITY clearRecentHistoryCmd.accesskey        "L">
 
-<!ENTITY privateBrowsingCmd.label            "Duyệt web Riêng tư">
-<!ENTITY privateBrowsingCmd.accesskey        "w">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Bắt đầu Duyệt web Riêng tư">
+<!ENTITY privateBrowsingCmd.start.accesskey     "R">
+<!ENTITY privateBrowsingCmd.stop.label          "Ngừng phiên Duyệt web Riêng tư">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "R">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Hiển thị"> 
 <!ENTITY viewMenu.accesskey       "H"> 
