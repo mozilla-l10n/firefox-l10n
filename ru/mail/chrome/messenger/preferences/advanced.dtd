@@ -5,6 +5,19 @@
 <!ENTITY itemCertificates.label "Сертификаты">
 <!ENTITY enableGloda.label "Включить индексацию сообщений">
 <!ENTITY enableGloda.accesskey "к">
+<!ENTITY systemDefaults.label "Системные настройки по умолчанию">
+<!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
+<!ENTITY alwaysCheckDefault.accesskey "п">
+<!ENTITY checkNow.label "Проверить сейчас">
+<!ENTITY checkNow.accesskey "с">
+<!ENTITY configEditDesc.label "Дополнительные настройки">
+<!ENTITY configEdit.label "Редактор настроек…">
+<!ENTITY configEdit.accesskey "д">
+<!ENTITY returnReceiptsInfo.label "Определите, как &brandShortName; должен обрабатывать уведомления о прочтении">
+<!ENTITY showReturnReceipts.label "Уведомления о прочтении…">
+<!ENTITY showReturnReceipts.accesskey "ч">
+<!ENTITY reading.caption "Чтение">
+<!ENTITY display.caption "Отображение">
 <!ENTITY showCondensedAddresses.label "Показывать только имя для людей, находящихся в моей адресной книге">
 <!ENTITY showCondensedAddresses.accesskey "и">
 <!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
@@ -19,20 +32,11 @@
 <!ENTITY reuseExpRadio0.accesskey "о">
 <!ENTITY reuseExpRadio1.label "уже существующем окне">
 <!ENTITY reuseExpRadio1.accesskey "с">
-<!ENTITY configEditDesc.label "Дополнительные настройки">
-<!ENTITY configEdit.label "Редактор настроек…">
-<!ENTITY configEdit.accesskey "д">
-<!ENTITY returnReceiptsInfo.label "Определите, как &brandShortName; должен обрабатывать уведомления о прочтении">
-<!ENTITY showReturnReceipts.label "Уведомления о прочтении…">
-<!ENTITY showReturnReceipts.accesskey "ч">
-<!ENTITY reading.caption "Чтение">
-<!ENTITY display.caption "Отображение">
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Установленных дополнений">
 <!ENTITY enableAddonsUpdate.accesskey "о">
-<!ENTITY checkNow.label "Проверить сейчас…">
 <!ENTITY whenUpdatesFound.label "Если для &brandShortName; найдены обновления:">
 <!ENTITY modeAskMe.label "Спросить меня что делать">
 <!ENTITY modeAskMe.accesskey "п">
