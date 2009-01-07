@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Tryb prywatny">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "Tryb prywatny">
+<!ENTITY privatebrowsingpage.title                 "Tryb prywatny">
+<!ENTITY privatebrowsingpage.title.normal          "Czy chcesz zacząć przeglądanie w trybie prywatnym?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nie zapamięta historii przeglądania dla tej sesji.">
-<!ENTITY privatebrowsingpage.longDesc                  "Żadne dane o historii przeglądania podczas tej sesji nie zostaną zapisane. Dotyczy to w szczególności: historii przeglądanych stron, historii wyszukiwania, historii pobierania plików, danych formularzy, ciasteczek oraz plików pamięci podręcznej. Należy jednak pamiętać, że wszystkie pobrane pliki i dodane zakładki zostaną zachowane.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; nie pracuje obecnie w trybie prywatnym.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc         "Można także wyczyścić dotychczasową historię przeglądania przed przejściem do trybu prywatnego.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label       "Wyczyść historię przeglądania…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey   "W">
+<!ENTITY privatebrowsingpage.description               "W trybie prywatnym &brandShortName; nie zachowa historii przeglądanych stron, historii wyszukiwania, historii pobierania plików, danych formularzy, ciasteczek oraz plików pamięci podręcznej. Należy jednak pamiętać, że wszystkie pobrane pliki i dodane zakładki zostaną zachowane.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Aby opuścić tryb prywatny, należy odznaczyć pozycję Narzędzia &gt; Tryb prywatny.">
-<!ENTITY privatebrowsingpage.footerDesc                "Udanego przeglądania!"><!-- FIXME: originally enjoy -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Można także ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "wyczyścić dotychczasową historię przeglądania">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Przejdź do trybu prywatnego">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!ENTITY privatebrowsingpage.howToStop                 "Aby opuścić tryb prywatny, należy wybrać &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; albo zamknać program  &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "Aby przejść do trybu prywatnego, można także wybrać &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Na tym komputerze nie pozostaną ślady historii przeglądania, ale dostawca usług internetowych lub pracodawca może w dalszym ciągu monitorować odwiedzane strony.">
+<!ENTITY privatebrowsingpage.learnMore                 "Więcej informacji">
