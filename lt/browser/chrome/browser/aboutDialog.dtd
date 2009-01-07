@@ -39,6 +39,7 @@
 <!ENTITY aboutVersion               "laida">
 <!ENTITY closeCmdGNOME.label        "Užverti">
 <!ENTITY closeCmdGNOME.accesskey    "U">
-<!ENTITY copyrightInfo              "&#169;1998 – 2008 bendradarbiai. Visos teisės priklauso autoriams. „Firefox“ ir 
-                                     „Firefox“ logotipas yra bendrijos „Mozilla Foundation“ prekės ženklai. Visos 
-                                     teisės priklauso autoriams.">
+<!ENTITY copyrightInfo1             "&#169;1998 – 2009 bendradarbiai. Visos teisės priklauso autoriams. ">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Informacija apie licencijavimą">
+<!ENTITY copyrightInfo2             ".">
