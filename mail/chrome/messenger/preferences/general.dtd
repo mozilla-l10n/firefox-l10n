@@ -29,18 +29,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY systemDefaults.label            "Sistemos numatytosios nuostatos">
-<!ENTITY alwaysCheckDefault.label             "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
-<!ENTITY alwaysCheckDefault.accesskey      "t">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Tikrinti dabar">
-<!ENTITY checkNow.accesskey         "d">
-
 <!ENTITY messengerStartPage.label         "„&brandShortName;“ pradžios tinklalapis">
 <!ENTITY enableStartPage.label            "Paleidžiant programą rodyti pradžios tinklalapį">
 <!ENTITY enableStartPage.accesskey        "P">
