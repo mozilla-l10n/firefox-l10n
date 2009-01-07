@@ -84,12 +84,8 @@
 <!ENTITY  alwaysClear.label              "Baigiant darbą su „&brandShortName;“ pašalinti įrašytus privačius duomenis">
 <!ENTITY  alwaysClear.accesskey          "B">
 
-<!ENTITY  askBeforeClear.label           "Įspėti prieš šalinant privačius duomenis">
-<!ENTITY  askBeforeClear.accesskey       "p">
-
 <!ENTITY  clearDataSettings.label        "Nuostatos…">
 <!ENTITY  clearDataSettings.accesskey    "N">
 
 <!ENTITY  clearDataNow.label             "Pašalinti dabar…">
-<!ENTITY  clearDataNow.label2            "Pašalinti dabar">
 <!ENTITY  clearDataNow.accesskey         "š">
