@@ -8,6 +8,21 @@
 
 <!ENTITY enableGloda.label             "Berichtenindexer activeren">
 <!ENTITY enableGloda.accesskey         "i">
+<!ENTITY systemDefaults.label          "Standaardwaarden systeem">
+<!ENTITY alwaysCheckDefault.label      "Altijd tijdens het opstarten controleren of &brandShortName; de standaard e-mailclient is">
+<!ENTITY alwaysCheckDefault.accesskey  "c">
+<!ENTITY checkNow.label                "Nu controleren">
+<!ENTITY checkNow.accesskey            "N">
+<!ENTITY configEditDesc.label          "Uitgebreide configuratie">
+<!ENTITY configEdit.label              "Configuratie-editor…">
+<!ENTITY configEdit.accesskey          "f">
+<!ENTITY returnReceiptsInfo.label      "Bepalen hoe &brandShortName; omgaat met leesbevestigingen">
+<!ENTITY showReturnReceipts.label      "Leesbevestigingen…">
+<!ENTITY showReturnReceipts.accesskey  "L">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Lezen">
+<!ENTITY display.caption               "Scherm">
 <!ENTITY showCondensedAddresses.label  "Van personen in mijn adresboek alleen weergavenaam tonen">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -26,16 +41,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "Een bestaand berichtvenster">
 <!ENTITY reuseExpRadio1.accesskey      "a">
-<!ENTITY configEditDesc.label          "Uitgebreide configuratie">
-<!ENTITY configEdit.label              "Configuratie-editor…">
-<!ENTITY configEdit.accesskey          "f">
-<!ENTITY returnReceiptsInfo.label      "Bepalen hoe &brandShortName; omgaat met leesbevestigingen">
-<!ENTITY showReturnReceipts.label      "Leesbevestigingen…">
-<!ENTITY showReturnReceipts.accesskey  "L">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lezen">
-<!ENTITY display.caption                "Scherm">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisch controleren op updates voor:">
@@ -43,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Geïnstalleerde add-ons">
 <!ENTITY enableAddonsUpdate.accesskey   "G">
-<!ENTITY checkNow.label                 "Nu controleren…">
 <!ENTITY whenUpdatesFound.label         "Als er updates voor &brandShortName; worden gevonden:">
 <!ENTITY modeAskMe.label                "Mij vragen wat ik wil doen">
 <!ENTITY modeAskMe.accesskey            "r">
