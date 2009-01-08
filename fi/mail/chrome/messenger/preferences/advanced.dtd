@@ -8,6 +8,21 @@
 
 <!ENTITY enableGloda.label             "Ota käyttöön viestien indeksoija">
 <!ENTITY enableGloda.accesskey         "i">
+<!ENTITY systemDefaults.label          "Järjestelmän oletus">
+<!ENTITY alwaysCheckDefault.label      "Tarkista aina onko &brandShortName; järjestelmän oletussähköpostiohjelma">
+<!ENTITY alwaysCheckDefault.accesskey  "T">
+<!ENTITY checkNow.label                "Tarkista heti">
+<!ENTITY checkNow.accesskey            "h">
+<!ENTITY configEditDesc.label          "Kaikkien asetusten muokkaus">
+<!ENTITY configEdit.label              "Asetusten muokkain…">
+<!ENTITY configEdit.accesskey          "A">
+<!ENTITY returnReceiptsInfo.label      "Aseta kuinka &brandShortName; käsittelee vastaanottokuittauksia">
+<!ENTITY showReturnReceipts.label      "Vastaanottokuittaukset…">
+<!ENTITY showReturnReceipts.accesskey  "V">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Lukeminen">
+<!ENTITY display.caption               "Näyttäminen">
 <!ENTITY showCondensedAddresses.label   "Näytä osoitekirjassa olevien nimet ilman sähköpostiosoitetta">
 <!ENTITY showCondensedAddresses.accesskey  "N">
 
@@ -26,16 +41,6 @@
 <!ENTITY reuseExpRadio0.accesskey       "U">
 <!ENTITY reuseExpRadio1.label           "Auki olevaan viesti-ikkunaan">
 <!ENTITY reuseExpRadio1.accesskey       "A">
-<!ENTITY configEditDesc.label           "Kaikkien asetusten muokkaus">
-<!ENTITY configEdit.label               "Asetusten muokkain…">
-<!ENTITY configEdit.accesskey           "e">
-<!ENTITY returnReceiptsInfo.label      "Aseta kuinka &brandShortName; käsittelee vastaanottokuittauksia">
-<!ENTITY showReturnReceipts.label      "Vastaanottokuittaukset…">
-<!ENTITY showReturnReceipts.accesskey  "V">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lukeminen">
-<!ENTITY display.caption                "Näyttäminen">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                 "Hae päivityksiä väliajoin:">
@@ -43,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey       "T">
 <!ENTITY enableAddonsUpdate.label       "Asennettuihin lisäosiin">
 <!ENTITY enableAddonsUpdate.accesskey   "A">
-<!ENTITY checkNow.label                  "Hae heti…">
 <!ENTITY whenUpdatesFound.label          "Kun päivityksiä &brandShortName;iin löytyy:">
 <!ENTITY modeAskMe.label                 "Kysy, mitä tehdään">
 <!ENTITY modeAskMe.accesskey             "K">

@@ -52,12 +52,8 @@
 <!ENTITY  alwaysClear.label              "Tyhjennä valitut yksityisyystiedot, aina kun &brandShortName; suljetaan">
 <!ENTITY  alwaysClear.accesskey          "h">
 
-<!ENTITY  askBeforeClear.label           "Kysy lupa tietojen poistamiseen">
-<!ENTITY  askBeforeClear.accesskey       "K">
-
 <!ENTITY  clearDataSettings.label        "Asetukset…">
 <!ENTITY  clearDataSettings.accesskey    "A">
 
 <!ENTITY  clearDataNow.label             "Tyhjennä heti…">
-<!ENTITY  clearDataNow.label2            "Tyhjennä heti">
 <!ENTITY  clearDataNow.accesskey         "e">
