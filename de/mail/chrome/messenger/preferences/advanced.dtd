@@ -48,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Add-ons">
 <!ENTITY enableAddonsUpdate.accesskey   "A">
-<!ENTITY checkNow.label                 "Jetzt überprüfen…">
 <!ENTITY whenUpdatesFound.label         "Wenn Updates für &brandShortName; verfügbar sind:">
 <!ENTITY modeAskMe.label                "Nachfragen, was getan werden soll">
 <!ENTITY modeAskMe.accesskey            "N">
