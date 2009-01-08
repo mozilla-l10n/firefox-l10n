@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Yksityinen selaus">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "Yksityinen selaus">
+<!ENTITY privatebrowsingpage.title                 "Yksityinen selaus">
+<!ENTITY privatebrowsingpage.title.normal          "Siirrytäänkö yksityinen selaus -tilaan?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; ei tallenna tämän istunnon aikana mitään historiatietoja.">
-<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; ei tallenna tämän istunnon aikana mitään historiatietoja. Näitä tietoja ovat sivu-, haku- ja lataushistoria, lomakekenttiin syötetyt tiedot, evästeet ja väliaikaistiedostot. Ladatut tiedostot ja uudet kirjanmerkit tallentuvat normaalisti.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; ei ole tällä hetkellä yksityinen selaus -tilassa.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Poistetaanko aluksi tuoreet historiatiedot?">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label       "Poista historiatiedot…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey   "P">
+<!ENTITY privatebrowsingpage.description               "Yksityinen selaus -tilassa &brandShortName; ei tallenna mitään historiatietoja. Näitä tietoja ovat sivu-, haku- ja lataushistoria, lomakekenttiin syötetyt tiedot, evästeet ja väliaikaistiedostot. Ladatut tiedostot ja uudet kirjanmerkit tallentuvat normaalisti.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Palaa normaaliin selaustilaan poistamalla valinta kohdasta Työkalut &gt; Yksityinen selaustila.">
-<!ENTITY privatebrowsingpage.footerDesc                "Ole hyvä!">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Poistetaanko aluksi myös ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "tuoreet historiatiedot">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Siirry yksityinen selaus -tilaan">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "S">
+
+<!ENTITY privatebrowsingpage.howToStop                 "Palaa normaaliin selaustilaan poistamalla valinta kohdasta &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, tai sulkemalla &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "Siirry yksityinen selaus -tilaan valitsemalla &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Vaikka tälle tietokoneelle ei jää jälkiä selatuista sivuista, Internet-palveluntarjoajasi tai esimerkiksi työnantajasi voi edelleen seurata, millä sivuilla on käyty.">
+<!ENTITY privatebrowsingpage.learnMore                 "Lue lisää">

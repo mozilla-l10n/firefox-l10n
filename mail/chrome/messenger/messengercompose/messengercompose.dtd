@@ -185,7 +185,6 @@
 <!ENTITY attachButton.label  "Liitä">
 <!ENTITY spellingButton.label  "Oikoluku">
 <!ENTITY saveButton.label  "Tallenna">
-<!ENTITY throbberItem.title  "Toimintaindikaattori">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip  "Lähetä tämä viesti nyt">

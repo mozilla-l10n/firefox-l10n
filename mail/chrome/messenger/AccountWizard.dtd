@@ -104,5 +104,6 @@
 <!ENTITY downloadOnLogin.label  "Nouda viestit nyt">
 <!ENTITY deferStorageDesc.label  "Poista tästä valinta, jos haluat tallentaa tilin viestit tilikohtaiseen kansioon. Muussa tapauksessa tilin viestit tallennetaan paikallisten kansioiden saapuneet-kansioon.">
 <!ENTITY deferStorage.label  "Käytä yhteistä saapuneet-kansiota (paikallisissa kansioissa)">
+<!ENTITY deferStorage.accesskey "y">
 <!ENTITY clickFinish.label  "Kun haluat tallentaa tilin asetukset ja lopettaa ohjatun toiminnon, valitse Valmis.">
 <!ENTITY clickFinish.labelMac "Kun haluat tallentaa tilin asetukset ja lopettaa ohjatun toiminnon, valitse Valmis.">

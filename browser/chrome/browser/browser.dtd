@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY organizeBookmarks.label "Järjestele kirjanmerkkejä…">
 <!ENTITY bookmarkAllCmd.label "Lisää välilehdet kirjanmerkkeihin…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Näytä lisää kirjanmerkkejä">
 
 <!ENTITY backCmd.label                 "Edellinen">
 <!ENTITY backCmd.accesskey             "E">
@@ -166,8 +167,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "Poista historiatietoja">
 <!ENTITY clearRecentHistoryCmd.accesskey        "P">
 
-<!ENTITY privateBrowsingCmd.label            "Yksityinen selaus">
-<!ENTITY privateBrowsingCmd.accesskey        "Y">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Siirry yksityinen selaus -tilaan">
+<!ENTITY privateBrowsingCmd.start.accesskey     "S">
+<!ENTITY privateBrowsingCmd.stop.label          "Lopeta yksityinen selaus">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "L">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label          "Näytä">
 <!ENTITY viewMenu.accesskey        "N">

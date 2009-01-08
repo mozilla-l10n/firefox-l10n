@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "Järjestelmän oletukset">
-<!ENTITY alwaysCheckDefault.label          "&brandShortName; tarkistaa käynnistyessään, onko se oletusohjelmana">
-<!ENTITY alwaysCheckDefault.accesskey      "a">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Tarkista heti">
-<!ENTITY checkNow.accesskey         "T">
-
 <!ENTITY messengerStartPage.label          "&brandShortName;in aloitussivu">
 <!ENTITY enableStartPage.label             "Näytä aloitussivuna viestikentässä &brandShortName;in käynnistyessä:">
 <!ENTITY enableStartPage.accesskey         "N">

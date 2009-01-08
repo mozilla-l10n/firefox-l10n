@@ -12,6 +12,13 @@
 <!ENTITY  noupdatesautodisabled.intro     "Uusia päivityksiä ei ole saatavilla. Hae päivityksiä myöhemmin uudestaan
                                            tai ota käyttöön &brandShortName;in automaattinen päivitysten tarkistus.">
 
+<!ENTITY  manualUpdate.title              "Päivitys ei onnistu">
+<!ENTITY  manualUpdate.desc               "Suositeltu turvallisuus- ja vakauspäivitys on saatavilla, mutta sinulla ei ole
+                                           tarvittavia oikeuksia sen asentamiseen. Ota yhteys järjestelmäsi ylläpitäjään
+                                           tai yritä uudelleen käyttäjätilillä, jolla on oikeus asentaa ohjelmia
+                                           tietokoneellesi.">
+<!ENTITY  manualUpdateGetMsg.label        "Uusin versio &brandShortName;ista on aina saatavilla osoitteesta:">
+
 <!ENTITY  incompatibleCheck.title         "Tarkistetaan lisäosien yhteensopivuutta">
 <!ENTITY  incompatibleCheck.label         "Haetaan uusi versioita lisäosista…">
 
