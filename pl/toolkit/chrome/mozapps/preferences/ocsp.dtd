@@ -8,7 +8,7 @@
 
 <!ENTITY serviceURL.label             "Adres URL usługi:">
 <!ENTITY serviceURL.accesskey         "s">
-<!ENTITY signingCA.label              "Ośrodek certyfikujący:">
+<!ENTITY signingCA.label              "Organ certyfikacji">
 <!ENTITY signingCA.accesskey          "r">
 
 <!ENTITY requireOCSP.label            "Jeśli nie uda sie połączyć z serwerem OCSP, traktuj certyfikat jako niewiarygodny">
