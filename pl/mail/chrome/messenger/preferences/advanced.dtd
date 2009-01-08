@@ -45,7 +45,6 @@
 <!ENTITY enableAppUpdate.accesskey    "p">
 <!ENTITY enableAddonsUpdate.label     "zainstalowanych dodatków">
 <!ENTITY enableAddonsUpdate.accesskey "z">
-<!ENTITY checkNow.label               "Sprawdź teraz…">
 <!ENTITY whenUpdatesFound.label       "Kiedy zostaną znalezione aktualizacje dla programu &brandShortName;:">
 <!ENTITY modeAskMe.label              "pytaj mnie, co zrobić">
 <!ENTITY modeAskMe.accesskey          "c">
