@@ -48,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey      "u">
 <!ENTITY enableAddonsUpdate.label       "Tillägg">
 <!ENTITY enableAddonsUpdate.accesskey   "T">
-<!ENTITY checkNow.label                 "Kontrollera nu…">
 <!ENTITY whenUpdatesFound.label         "När det finns uppdateringar till &brandShortName;:">
 <!ENTITY modeAskMe.label                "Fråga vad jag vill göra">
 <!ENTITY modeAskMe.accesskey            "F">
