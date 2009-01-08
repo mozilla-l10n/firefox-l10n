@@ -10,7 +10,6 @@
 <!ENTITY port.label "Poort:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Standaard:">
-<!ENTITY savePassword.label "Wachtwoord bewaren">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
