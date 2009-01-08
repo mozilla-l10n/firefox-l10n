@@ -8,6 +8,12 @@
                                            reglulega hvort til eru uppfærslur.">
 <!ENTITY noupdatesautodisabled.intro "Engar uppfærslur eru til. Vinsamlega athugaðu aftur seinna eða virkjaðu
                                            sjálfvirkar uppfærslur fyrir &brandShortName;.">
+<!ENTITY manualUpdate.title "Get ekki uppfært">
+<!ENTITY manualUpdate.desc "Tiltæk er mikilvæg öryggis og stöðugleika uppfærsla, en þú ert
+                                           ekki með nægjanlegt réttindi til að geta sett hana inn. Hafðu samband við
+                                           kerfisstjóra, eða reyndu aftur frá öðrum reikningi sem hefur réttindi til að
+                                           setja upp hugbúnað á þessari tölvu.">
+<!ENTITY manualUpdateGetMsg.label "Þú getur alltaf nálgast nýjustu útgáfu af &brandShortName; á:">
 <!ENTITY incompatibleCheck.title "Athuga samhæfni viðbótar">
 <!ENTITY incompatibleCheck.label "Leita að uppfærðum viðbótum…">
 <!ENTITY clickHere.label "Skoða meiri upplýsingar um uppfærslu">

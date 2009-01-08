@@ -1,4 +1,4 @@
 <!ENTITY startDescription.label "Vefsvæði reyndi að opna sprettiglugga án þín leyfis. &brandShortName; lokaði sjálfkrafa sprettiglugga.  Í hvert skipti sem &brandShortName; lokar á þessa sprettiglugga, þú muntu sjá teikn á stöðustikunni.">
 <!ENTITY endDescription.label "Þú getur smellt á þetta teikn til að sjá hvaða vefsvæði &brandShortName; hefur lokað á sprettiglugga frá, og líka til að leyfa þessu vefsvæði að opna sprettiglugga ef þeir eru nauðsynlegir fyrir vefsvæðið til að virka rétt.">
 <!ENTITY caption.label "Um sprettigluggavörn">
-<!ENTITY done.label "Lokið">
+<!ENTITY done.label "Ljúka">

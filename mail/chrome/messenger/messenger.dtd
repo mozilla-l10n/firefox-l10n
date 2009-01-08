@@ -130,7 +130,7 @@
 <!ENTITY folderView.accesskey "M">
 <!ENTITY allFolders.label "Allar">
 <!ENTITY allFolders.accesskey "A">
-<!ENTITY unreadFolders.label "Ólesin">
+<!ENTITY unreadFolders.label "Ólesið">
 <!ENTITY unreadFolders.accesskey "l">
 <!ENTITY favoriteFolders.label "Eftirlætissmappa">
 <!ENTITY favoriteFolders.accesskey "E">
@@ -189,7 +189,7 @@
 <!ENTITY collapseAllThreadsCmd.label "Fella saman allar umræður">
 <!ENTITY collapseAllThreadsCmd.accesskey "F">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Ólesin">
+<!ENTITY unreadMsgsCmd.label "Ólesið">
 <!ENTITY unreadMsgsCmd.accesskey "l">
 <!ENTITY threadsWithUnreadCmd.label "Ólesnar umræður">
 <!ENTITY threadsWithUnreadCmd.accesskey "u">
@@ -634,7 +634,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyEmailCmd.label "Afrita póstfang">
 <!ENTITY copyEmailCmd.accesskey "p">
 <!-- Statusbar -->
-<!ENTITY statusText.label "Lokið">
+<!ENTITY statusText.label "Ljúka">
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minnka">
 <!ENTITY minimizeWindow.key "m">

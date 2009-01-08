@@ -58,12 +58,12 @@
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Notandanafn">
-<!ENTITY usernameDesc.label "Sláðu inn það notandanafn sem þú fékkst frá þjónustuveitu og er notaður er fyrir innkominn póst ">
+<!ENTITY usernameDesc.label "Sláðu inn það notandanafn sem þú fékkst frá þjónustuveitu og er notað fyrir innkominn póst ">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(til dæmis, &quot;jonjonsson&quot;).">
 <!ENTITY usernameLabel.label "Innsent notandanafn:">
 <!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Sláðu inn það notandanafn sem þú fékkst frá þjónustuveitu fyrir póst út (þetta er venjulega það sama og fyrir innkomin póst).">
+<!ENTITY usernameSmtpDesc.label "Sláðu inn það notandanafn sem þú fékkst frá þjónustuveitu fyrir útsendanpóst (þetta er venjulega það sama og fyrir innkomin póst).">
 <!ENTITY usernameSmtpLabel.label "Útsent notandanafn:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
@@ -97,5 +97,6 @@
 <!ENTITY deferStorageDesc.label "Afhakaðu þennan gátreit ef þú vilt geyma póst fyrir þennan reikning í eigin möppu. Það mun þá sýna þennan reikning sem rótarhlut. Annars mun hann verða partur af staðbundnum möppum í víðværa innhólfinu.
 ">
 <!ENTITY deferStorage.label "Nota víðvært innhólf (geyma póst í Staðbundnum möppum)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Smelltu á Ljúka til að vista þessar stillingar og hætta í reikningahjálpinni.">
 <!ENTITY clickFinish.labelMac "Smelltu á Ljúka til að vista þessar stillingar og hætta í reikningahjálpinni.">

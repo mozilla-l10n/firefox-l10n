@@ -5,6 +5,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label "Fjarlægja ">
+<!ENTITY clearDuration.accesskey "R">
 <!ENTITY clearDuration.lastHour "seinasta klukkutíma">
 <!ENTITY clearDuration.last2Hours "seinustu 2 klukkutíma">
 <!ENTITY clearDuration.last4Hours "seinustu 4 klukkutíma">

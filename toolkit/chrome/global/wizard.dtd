@@ -2,7 +2,7 @@
 <!ENTITY button-back-mac.accesskey "B">
 <!ENTITY button-next-mac.label "Áfram">
 <!ENTITY button-next-mac.accesskey "f">
-<!ENTITY button-finish-mac.label "Lokið">
+<!ENTITY button-finish-mac.label "Ljúka">
 <!ENTITY button-cancel-mac.label "Hætta við">
 <!ENTITY button-back-unix.label "Til baka">
 <!ENTITY button-back-unix.accesskey "b">

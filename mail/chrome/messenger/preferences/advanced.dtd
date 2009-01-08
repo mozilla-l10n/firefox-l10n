@@ -7,6 +7,20 @@
 
 <!ENTITY enableGloda.label "Virkja póstatriðaskrá">
 <!ENTITY enableGloda.accesskey "p">
+<!ENTITY systemDefaults.label "Sjálfgefnar kerfistillingar">
+<!ENTITY alwaysCheckDefault.label "Alltaf athuga hvort &brandShortName; sé sjálfgefið póstforrit í ræsingu">
+<!ENTITY alwaysCheckDefault.accesskey "l">
+<!ENTITY checkNow.label "Check Now">
+<!ENTITY checkNow.accesskey "N">
+<!ENTITY configEditDesc.label "Ítarlegar stillingar">
+<!ENTITY configEdit.label "Stillinga ritill…">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "Skilgreina hvernig &brandShortName; meðhöndlar staðfestingu á móttöku pósts">
+<!ENTITY showReturnReceipts.label "Staðfesting á lestri…">
+<!ENTITY showReturnReceipts.accesskey "R">
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption "Lesa">
+<!ENTITY display.caption "Sýna">
 <!ENTITY showCondensedAddresses.label "Sýna aðeins birtingarnafn fyrir tengiliði í nafnabókinni">
 <!ENTITY showCondensedAddresses.accesskey "t">
 <!ENTITY autoMarkAsRead.label "Merkja sjálfvirkt póst sem lesinn">
@@ -24,15 +38,6 @@
 <!ENTITY reuseExpRadio0.accesskey "n">
 <!ENTITY reuseExpRadio1.label "Í glugga sem er til fyrir">
 <!ENTITY reuseExpRadio1.accesskey "g">
-<!ENTITY configEditDesc.label "Ítarlegar stillingar">
-<!ENTITY configEdit.label "Stillinga ritill…">
-<!ENTITY configEdit.accesskey "g">
-<!ENTITY returnReceiptsInfo.label "Skilgreina hvernig &brandShortName; meðhöndlar staðfestingu á móttöku pósts">
-<!ENTITY showReturnReceipts.label "Staðfesting á lestri…">
-<!ENTITY showReturnReceipts.accesskey "R">
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption "Lesa">
-<!ENTITY display.caption "Sýna">
 <!-- Update -->
 <!ENTITY autoCheck.label "Athuga sjálfvirkt uppfærslur fyrir:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
