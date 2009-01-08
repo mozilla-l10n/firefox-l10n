@@ -1,6 +1,6 @@
 <!--null-->
 <!ENTITY importDialog.windowTitle "Импорт">
-<!ENTITY importDialog.allTitle "Импорт всего">
+<!ENTITY importDialog.allTitle "Импортировать всё">
 <!ENTITY importDialog.mailTitle "Почту">
 <!ENTITY importDialog.addressbookTitle "Адресные книги">
 <!ENTITY importDialog.settingsTitle "Настройки">
