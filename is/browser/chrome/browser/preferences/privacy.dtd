@@ -36,10 +36,7 @@
 <!ENTITY privateData.label "Persónuleg gögn">
 <!ENTITY alwaysClear.label "Í hvert skipti sem ég loka &brandShortName; hreinsa persónuleg gögn">
 <!ENTITY alwaysClear.accesskey "g">
-<!ENTITY askBeforeClear.label "Spyrja áður en persónuleg gögn eru hreinsuð">
-<!ENTITY askBeforeClear.accesskey "A">
 <!ENTITY clearDataSettings.label "Stillingar…">
 <!ENTITY clearDataSettings.accesskey "t">
 <!ENTITY clearDataNow.label "Hreinsa núna…">
-<!ENTITY clearDataNow.label2 "Hreinsa núna">
 <!ENTITY clearDataNow.accesskey "N">

@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.next14Days.label "Atburðir næstu 14 daga">
 <!ENTITY calendar.events.filter.next31Days.label "Atburðir næstu 31 daga">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Atburðir í þessum mánuði">
-<!ENTITY calendar.unifinder.tree.done.label "Lokið">
+<!ENTITY calendar.unifinder.tree.done.label "Ljúka">
 <!ENTITY calendar.unifinder.tree.priority.label "Forgangur">
 <!ENTITY calendar.unifinder.tree.title.label "Titill">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; Lokið">

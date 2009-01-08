@@ -4,7 +4,7 @@
 <!ENTITY aboutLink.label "&lt; Um &brandFullName;">
 <!ENTITY aboutLink.accesskey "U">
 <!ENTITY aboutVersion "útgáfa">
-<!ENTITY copyrightText "&#169;1998-2008 Þátttakendur. Allur réttur áskilinn. Mozilla Thunderbird og 
+<!ENTITY copyrightText "&#169;1998-2009 Þátttakendur. Allur réttur áskilinn. Mozilla Thunderbird og 
                                  Thunderbird nafnmerkið eru vörumerki Mozilla stofnunarinnar.  Allur réttur 
                                  áskilinn.">
 <!ENTITY cmdCloseMac.commandKey "w">

@@ -10,13 +10,12 @@
 <!ENTITY port.label "Gátt:">
 <!ENTITY port.accesskey "G">
 <!ENTITY serverPortDefault.label "Sjálfgefið:">
-<!ENTITY savePassword.label "Vista lykilorð">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Athuga nýjan póst á ">
+<!ENTITY biffStart.label "Athuga með nýjan póst á ">
 <!ENTITY biffStart.accesskey "A">
 <!ENTITY biffEnd.label "mínútur">
 <!ENTITY socketType.label "Nota örugga tengingu:">
@@ -54,7 +53,7 @@
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Tæma rusl þegar forriti er lokað">
 <!ENTITY emptyTrashOnExit.accesskey "r">
-<!ENTITY loginAtStartup.label "Athuga nýjan póst í ræsingu">
+<!ENTITY loginAtStartup.label "Athuga með nýjan póst í ræsingu">
 <!ENTITY loginAtStartup.accesskey "A">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number

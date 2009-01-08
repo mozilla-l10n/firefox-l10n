@@ -193,7 +193,6 @@
 <!ENTITY attachButton.label "Skrá">
 <!ENTITY spellingButton.label "Stafsetning">
 <!ENTITY saveButton.label "Vista">
-<!ENTITY throbberItem.title "Virknimælir">
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Senda þennan póst núna">
  

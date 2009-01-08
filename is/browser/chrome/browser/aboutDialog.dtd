@@ -8,6 +8,7 @@
 <!ENTITY closeCmdGNOME.label "Loka">
   
 <!ENTITY closeCmdGNOME.accesskey "L">
-<!ENTITY copyrightInfo "&#169;1998-2008 Þátttakendur. Allur réttur áskilinn. Firefox og 
-                                 Firefox nafnmerkið eru vörumerki Mozilla stofnunarinnar.  Allur réttur 
-                                 áskilinn.">
+<!ENTITY copyrightInfo1 "&#169;1998-2009 Þátttakendur. Allur réttur áskilin. (">
+<!ENTITY licenseLink "about:license">
+<!ENTITY licenseLinkText "Leyfisupplýsingar">
+<!ENTITY copyrightInfo2 ").">

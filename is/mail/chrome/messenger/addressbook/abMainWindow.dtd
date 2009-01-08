@@ -127,7 +127,6 @@
 <!ENTITY newIM.accesskey "S">
 <!ENTITY deleteButton2.label "Eyða">
 <!ENTITY deleteButton2.accesskey "E">
-<!ENTITY throbberItem.title "Virknimælir">
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip "Búa til nýjan tengilið í nafnabók">
 <!ENTITY newlistButton.tooltip "Búa til nýjan lista">

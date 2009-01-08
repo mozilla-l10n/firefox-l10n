@@ -64,6 +64,7 @@
 <!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
 <!ENTITY organizeBookmarks.label "Raða bókamerkjum…">
 <!ENTITY bookmarkAllCmd.label "Setja flipa í bókamerki…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 <!ENTITY backCmd.label "Til baka">
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY backButton.tooltip "Til baka um eina síðu">
@@ -176,8 +177,12 @@
 
 <!ENTITY clearRecentHistoryCmd.label "Hreinsa nýlega ferla">
 <!ENTITY clearRecentHistoryCmd.accesskey "H">
-<!ENTITY privateBrowsingCmd.label "Einkavöfrun">
-<!ENTITY privateBrowsingCmd.accesskey "E">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label "Byrja einkavöfrun">
+<!ENTITY privateBrowsingCmd.start.accesskey "B">
+<!ENTITY privateBrowsingCmd.stop.label "Stöðva einkavöfrun">
+<!ENTITY privateBrowsingCmd.stop.accesskey "S">
+<!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Skoða">
  
 <!ENTITY viewMenu.accesskey "k">
@@ -400,7 +405,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
 <!ENTITY spellAddDictionaries.accesskey "B">
-<!ENTITY editBookmark.done.label "Lokið">
+<!ENTITY editBookmark.done.label "Ljúka">
 <!ENTITY editBookmark.cancel.label "Hætta við">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "Afturkalla">
