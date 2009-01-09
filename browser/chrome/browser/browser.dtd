@@ -74,7 +74,7 @@
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 
 <!ENTITY backCmd.label "Enrere">
-<!ENTITY backCmd.accesskey "e">
+<!ENTITY backCmd.accesskey "r">
 <!ENTITY backButton.tooltip "Vés enrere una pàgina">
 <!ENTITY forwardCmd.label "Endavant">
 <!ENTITY forwardCmd.accesskey "v">
@@ -84,7 +84,7 @@
 <!ENTITY reloadCmd.accesskey "z">
 <!ENTITY reloadButton.tooltip "Actualitza la pàgina actual">
 <!ENTITY stopCmd.label "Atura">
-<!ENTITY stopCmd.accesskey "r">
+<!ENTITY stopCmd.accesskey "u">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip "Atura la càrrega d'aquesta pàgina">
 <!ENTITY goEndCap.tooltip "Es va a l'adreça en la barra d'ubicació">
@@ -250,7 +250,7 @@
 <!ENTITY viewVideoCmd.label           "Visualitza el vídeo">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label "Visualitza la imatge de fons">
-<!ENTITY viewBGImageCmd.accesskey "f">
+<!ENTITY viewBGImageCmd.accesskey "n">
 <!ENTITY setDesktopBackgroundCmd.label      "Defineix com a fons d'escriptori…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "D">
 <!ENTITY bookmarkPageCmd2.label "Afegeix a les adreces d'interès">
@@ -258,9 +258,9 @@
 <!ENTITY bookmarkThisLinkCmd.label "Afegeix l'enllaç a les adreces d'interès">
 <!ENTITY bookmarkThisLinkCmd.accesskey "l">
 <!ENTITY bookmarkThisFrameCmd.label "Afegeix el marc a les adreces d'interès">
-<!ENTITY bookmarkThisFrameCmd.accesskey "f">
+<!ENTITY bookmarkThisFrameCmd.accesskey "m">
 <!ENTITY sendPageCmd.label "Envia la pàgina…">
-<!ENTITY sendPageCmd.accesskey "a">
+<!ENTITY sendPageCmd.accesskey "v">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "d">
 <!ENTITY savePageCmd.label "Anomena i desa la pàgina…">
