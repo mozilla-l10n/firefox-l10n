@@ -49,7 +49,7 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "عمومی">
-<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTab.accesskey  "ع">
 <!ENTITY  generalURL            "نشانی:">
 <!ENTITY  generalType           "نوع:">
 <!ENTITY  generalMode           "حالت ترسیم:">
