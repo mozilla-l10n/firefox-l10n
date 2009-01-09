@@ -38,25 +38,20 @@
 
 <!ENTITY  alwaysClear.label              "මා &brandShortName; වසන සෑමවිටදීම මගේ පෞද්ගලික දත්ත හිස් කරන්න">
 <!ENTITY  alwaysClear.accesskey          "w">
-
-<!ENTITY  askBeforeClear.label           "පෞද්ගලික දත්ත හිස් කිරීමට පෙර විමසන්න">
-<!ENTITY  askBeforeClear.accesskey       "A">
-
 <!ENTITY  clearDataSettings.label        "සැකසුම්...">
 <!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  clearDataNow.label             "දැන් හිස් කරන්න...">
-<!ENTITY  clearDataNow.label2            "දැන් හිස් කරන්න">
 <!ENTITY  clearDataNow.accesskey         "N">
 
 <!ENTITY  rememberDaysBefore.label      "මගේ අතීත තොරතුරු අවම වශයෙන් තබා ගත යුත්තේ">
 <!ENTITY  rememberDaysBefore.accesskey  "h">
 <!ENTITY  acceptThirdParty.label        "මෙම තෙවන පාර්‍ශවික කුකිය අනුමත කරන්න">
 <!ENTITY  acceptThirdParty.accesskey    "p">
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+<!ENTITY  locbar.pre.label              "පිහිටුමෙ තීරුව භාවිත කරන විට, යෝජනා කරන්න:">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "History and Bookmarks">
-<!ENTITY  locbar.history.label          "History">
-<!ENTITY  locbar.bookmarks.label        "Bookmarks">
-<!ENTITY  locbar.nothing.label          "Nothing">
+<!ENTITY  locbar.both.label             "අතීතය සහ පිටු සලකුණු">
+<!ENTITY  locbar.history.label          "අතීතය">
+<!ENTITY  locbar.bookmarks.label        "පිටු සලකුණු">
+<!ENTITY  locbar.nothing.label          "කිසිවක් නැත">
