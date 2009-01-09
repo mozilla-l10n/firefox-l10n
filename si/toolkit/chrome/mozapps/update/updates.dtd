@@ -45,6 +45,9 @@
 <!ENTITY  incompatibleList.title          "අනුකූල නොවන ඇඩෝනයක් හමු විය">
 <!ENTITY  updateCheck.label               "&brandShortName; හි නවතම වෙමක් සොයමින්…">
 <!ENTITY  viewDetails.tooltip             "මෙම යාවත් කිරීම සඳහා විස්තර පෙන්වන්න">
-<!ENTITY  manualUpdate.title              "Unable to Update">
-<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
+<!ENTITY  manualUpdate.title              "යාවත් කළ නොහැක">
 <!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
+<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
+                                           not have the system permissions required to install it. Please contact your
+                                           system administrator, or try again from an account that has permission to
+                                           install software on this computer.">
