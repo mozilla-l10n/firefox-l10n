@@ -11,6 +11,11 @@
 <!ENTITY  noupdatesautodisabled.intro     "无可用更新。 请稍后重试或者启用
                                            &brandShortName; 自动更新检查功能。">
 
+<!ENTITY  manualUpdate.title              "无法更新">
+<!ENTITY  manualUpdate.desc               "已有一个安全性稳定性相关的更新可用，但是您没有安装该补丁所需的系统权限。
+                                    请联系您的系统管理员或者使用其他能在本机安装软件的帐号重试。">
+<!ENTITY  manualUpdateGetMsg.label        "您可以总是获取最新版本的 &brandShortName; ，从：">
+
 <!ENTITY  incompatibleCheck.title         "正在检查附加组件兼容性">
 <!ENTITY  incompatibleCheck.label         "正在查找附加组件的新版本…">
 
