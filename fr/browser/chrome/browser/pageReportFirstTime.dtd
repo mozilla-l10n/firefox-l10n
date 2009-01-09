@@ -1,7 +1,7 @@
-<!ENTITY startDescription.label            "Un site Web a tenté d'ouvrir une fenêtre popup sans votre permission. &brandShortName; a automatiquement bloqué ce popup. À chaque fois que cela se produit vous verrez une icône dans la barre d'état.">
+<!ENTITY startDescription.label "Un site Web a tenté d'ouvrir une fenêtre popup sans votre permission. &brandShortName; a automatiquement bloqué ce popup. À chaque fois que cela se produit vous verrez une icône dans la barre d'état.">
 
-<!ENTITY endDescription.label              "Vous pouvez cliquer sur cette icône pour voir quel site a été bloqué par &brandShortName; et autoriser celui-ci à afficher des popups si ils sont malgré tout requis pour la bonne marche du site.">
+<!ENTITY endDescription.label "Vous pouvez cliquer sur cette icône pour voir quel site a été bloqué par &brandShortName; et autoriser celui-ci à afficher des popups s'ils sont malgré tout requis pour la bonne marche du site.">
 
-<!ENTITY caption.label                     "À propos du blocage des popups">
+<!ENTITY caption.label "À propos du blocage des popups">
 
 <!ENTITY done.label "Terminer">
