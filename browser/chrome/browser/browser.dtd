@@ -7,9 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; （隐私浏览）">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "（隐私浏览）">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "新建标签页">
 <!ENTITY tabCmd.accesskey "T">
@@ -69,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "将所有标签页加入书签…">
 <!ENTITY organizeBookmarks.label "管理书签…">
 <!ENTITY bookmarkAllCmd.label "将全部标签页加为书签…">
+<!ENTITY bookmarksToolbarChevron.tooltip "显示更多书签">
 
 <!ENTITY backCmd.label                "后退">
 <!ENTITY backCmd.accesskey            "B">
@@ -164,8 +167,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "清空最近历史记录">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
-<!ENTITY privateBrowsingCmd.label            "隐私浏览">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "进入隐私浏览模式">
+<!ENTITY privateBrowsingCmd.start.accesskey     "进">
+<!ENTITY privateBrowsingCmd.stop.label          "退出隐私浏览模式">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "退">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "查看"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -401,7 +408,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "完成">
 <!ENTITY editBookmark.cancel.label                   "取消">
-<!ENTITY editBookmark.removeBookmark.label           "移除书签">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 <!ENTITY editBookmark.undo.label                     "撤消">
 <!ENTITY editBookmark.undo.accessKey                 "U">

@@ -7,5 +7,7 @@
 <!ENTITY aboutVersion               "版本">
 <!ENTITY closeCmdGNOME.label        "关闭">  
 <!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightInfo              "©1998-2008 贡献者。 保留所有权。 Firefox 以及
-                                 Firefox 标志均为 Mozilla 基金会持有的商标。保留所有权。">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 贡献者。 保留所有权利。（">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "版权信息">
+<!ENTITY copyrightInfo2             ").">

@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "移除">
+<!ENTITY clearDuration.accesskey      "R">
 <!ENTITY clearDuration.lastHour       "最近一小时">
 <!ENTITY clearDuration.last2Hours     "最近2小时">
 <!ENTITY clearDuration.last4Hours     "最近4小时">
