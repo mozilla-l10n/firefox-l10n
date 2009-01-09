@@ -100,7 +100,7 @@
 <!ENTITY treecol.url.accesskey          "c">
 <!ENTITY treecol.url.tooltip            "Klik om te sorteren op locatie">
 <!ENTITY treecol.shortcut.label         "Sleutelwoord">
-<!ENTITY treecol.shortcut.accesskey     "u">
+<!ENTITY treecol.shortcut.accesskey     "S">
 <!ENTITY treecol.shortcut.tooltip       "Klik om te sorteren op sleutelwoord">
 <!ENTITY treecol.description.label      "Beschrijving">
 <!ENTITY treecol.description.accesskey  "v">
