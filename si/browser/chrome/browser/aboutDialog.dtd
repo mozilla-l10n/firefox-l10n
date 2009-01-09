@@ -9,3 +9,7 @@
 <!ENTITY closeCmdGNOME.label        "වසන්න">  
 <!ENTITY closeCmdGNOME.accesskey    "C">
 <!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Contributors. All rights reserved. (">
+<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Licensing information">
