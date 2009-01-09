@@ -53,3 +53,10 @@
 <!ENTITY  rememberDaysBefore.accesskey  "h">
 <!ENTITY  acceptThirdParty.label        "මෙම තෙවන පාර්‍ශවික කුකිය අනුමත කරන්න">
 <!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "History and Bookmarks">
+<!ENTITY  locbar.history.label          "History">
+<!ENTITY  locbar.bookmarks.label        "Bookmarks">
+<!ENTITY  locbar.nothing.label          "Nothing">
