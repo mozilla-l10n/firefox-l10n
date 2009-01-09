@@ -455,7 +455,7 @@
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Mode d'édition normal">
 <!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Montrer les bordures de table et les ancres nommées">
+<!ENTITY NormalMode.tooltip "Montrer les bordures de tableau et les ancres nommées">
 <!ENTITY AllTagsMode.label "Montrer les balises HTML">
 <!ENTITY AllTagsMode.accesskey "a">
 <!ENTITY AllTagsMode.tooltip "Afficher des icônes pour toutes les balises HTML">
