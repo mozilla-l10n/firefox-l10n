@@ -20,7 +20,7 @@
 <!ENTITY allpagesRadio.accesskey "A">
 <!ENTITY rangeRadio.label  "页">
 <!ENTITY rangeRadio.accesskey  "P">
-<!ENTITY frompageInput.label  "来自">
+<!ENTITY frompageInput.label  "从">
 <!ENTITY frompageInput.accesskey  "r">
 <!ENTITY topageInput.label  "到">
 <!ENTITY topageInput.accesskey  "t">
