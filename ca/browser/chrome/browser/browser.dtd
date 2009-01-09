@@ -77,7 +77,7 @@
 <!ENTITY backCmd.accesskey "r">
 <!ENTITY backButton.tooltip "Vés enrere una pàgina">
 <!ENTITY forwardCmd.label "Endavant">
-<!ENTITY forwardCmd.accesskey "v">
+<!ENTITY forwardCmd.accesskey "t">
 <!ENTITY forwardButton.tooltip "Vés endavant una pàgina">
 <!ENTITY backForwardMenu.tooltip      "Pàgines recents">
 <!ENTITY reloadCmd.label "Actualitza">
