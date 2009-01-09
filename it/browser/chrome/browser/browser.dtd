@@ -21,7 +21,7 @@
 <!ENTITY import.label "Importa…">
 <!ENTITY import.accesskey "I">
 <!ENTITY goOfflineCmd.label "Lavora non in linea">
-<!ENTITY goOfflineCmd.accesskey "v">
+<!ENTITY goOfflineCmd.accesskey "L">
 <!ENTITY navbarCmd.label "Barra di navigazione">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra dei segnalibri">
@@ -207,7 +207,7 @@
 <!ENTITY sendPageCmd.label "Invia link…">
 <!ENTITY sendPageCmd.accesskey "n">
 <!ENTITY savePageCmd.label "Salva pagina con nome…">
-<!ENTITY savePageCmd.accesskey "l">
+<!ENTITY savePageCmd.accesskey "v">
 <!ENTITY savePageCmd.accesskey2 "g">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameCmd.label "Salva riquadro con nome…">
