@@ -412,14 +412,14 @@
 <!-- new bookmarks and history -->
 
 
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
-<!ENTITY privateBrowsingCmd.start.label         "Start Private Browsing">
+<!ENTITY bookmarksToolbarChevron.tooltip "තවත් පිටුසලකුණු පෙන්වන්න">
+<!ENTITY privateBrowsingCmd.start.label         "පෞද්ගලික ගවේශනය අරඹන්න">
 <!ENTITY privateBrowsingCmd.start.accesskey     "B">
-<!ENTITY privateBrowsingCmd.stop.label          "Stop Private Browsing">
+<!ENTITY privateBrowsingCmd.stop.label          "පෞද්ගලික ගවේශනය නවතන්න">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "B">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
+
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(පෞද්ගලික ගවේශනය)">
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
