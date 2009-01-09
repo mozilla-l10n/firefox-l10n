@@ -110,5 +110,7 @@
 <!ENTITY downloadOnLogin.label "Baixa els missatges ara">
 <!ENTITY deferStorageDesc.label "Marqueu aquesta casella de selecció per a emmagatzemar el correu d'aquest compte en la safata d'entrada global de les carpetes locals. Altrament, el compte apareixerà com un de nivell superior i el seu correu s'emmagatzemarà en el seu propi directori.">
 <!ENTITY deferStorage.label "Utilitza la safata d'entrada global (emmagatzema el correu a les carpetes locals)">
+<!ENTITY deferStorage.accesskey "g">
+
 <!ENTITY clickFinish.label "Feu un clic a Finalitza per a desar aquests paràmetres i sortir de l'auxiliar de comptes.">
 <!ENTITY clickFinish.labelMac "Feu un clic a Fet per a desar aquests paràmetres i sortir de l'auxiliar de comptes.">

@@ -73,7 +73,7 @@
 <!ENTITY deleteContactsCmd.label 				"Suprimeix els contactes">
 <!ENTITY deleteListCmd.label                    "Suprimeix la llista">
 <!ENTITY deleteListsCmd.label                   "Suprimeix les llistes">
-<!ENTITY deleteItemsCmd.labe                    "Suprimeix els elements">
+<!ENTITY deleteItemsCmd.label                    "Suprimeix els elements">
 <!ENTITY swapFirstNameLastNameCmd.label 		"Intercanvia el nom i el cognom">
 <!ENTITY swapFirstNameLastNameCmd.accesskey 	"v">
 <!ENTITY propertiesCmd.label "Propietats…">
