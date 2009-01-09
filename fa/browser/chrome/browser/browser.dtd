@@ -157,7 +157,7 @@
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "ح"> 
 <!ENTITY selectAllCmd.label         "انتخاب همه">  
-<!ENTITY selectAllCmd.key         "ض">  
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "ه"> 
 <!ENTITY preferencesCmd.label       "گزینه‌ها…">
 <!ENTITY preferencesCmd.accesskey     "گ"> 

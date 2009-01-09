@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "VK_HELP">
+<!ENTITY openHelpMac.commandkey           "/">
 <!ENTITY openHelpMac.modifiers            "accel,shift">
 <!ENTITY openHelpMac.frontendCommandkey   "?">
 <!ENTITY openHelpMac.frontendModifiers    "accel">
@@ -38,11 +38,11 @@
 <!ENTITY servicesMenuMac.label          "خدمات">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; را مخفی کن">
-<!ENTITY hideThisAppCmdMac.commandkey   "ه">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "دیگر برنامه‌ها را مخفی کن">
-<!ENTITY hideOtherAppsCmdMac.commandkey "ه">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "نشان دادن همه">
