@@ -33,3 +33,4 @@
 <!ENTITY sanitizeDialog2.title         "මෑත අතීතය මකන්න">
 <!ENTITY sanitizePrefs.title           "පෞද්ගලික දත්ත මකන්න">
 <!ENTITY itemCookies.accesskey        "C">
+<!ENTITY clearDuration.accesskey      "R">
