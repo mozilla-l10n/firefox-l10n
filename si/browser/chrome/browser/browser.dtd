@@ -35,7 +35,6 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.label       "විශාල කරන්න">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY editBookmark.removeBookmark.label           "පිටු සලකුණු ඉවත් කරන්න">
 <!ENTITY fullZoomReduceCmd.label        "කුඩා කරන්න">
 <!ENTITY fullScreenExit.accesskey "F">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -203,7 +202,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ශ්‍රව්‍ය පිහිටුම පිටපත් කරන්න">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (පෞද්ගලික ගවේශනය)">
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "වාදනය">
 <!ENTITY mediaPlay.accesskey         "P">
@@ -217,8 +215,6 @@
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "පාලන සඟවන්න">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY privateBrowsingCmd.label            "පෞද්ගලික ගවේශනය">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
 <!ENTITY reloadImageCmd.label         "පිතුර යළි පූරණය">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY saveVideoCmd.label           "දෘශ්‍ය සුරකින අයුර…">
