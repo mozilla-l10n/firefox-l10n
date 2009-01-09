@@ -168,10 +168,10 @@
 <!ENTITY clearRecentHistoryCmd.accesskey        "C">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Pornire navigare fără urme">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.label         "Începe navigarea fără urme">
+<!ENTITY privateBrowsingCmd.start.accesskey     "u">
 <!ENTITY privateBrowsingCmd.stop.label          "Oprește navigarea fără urme">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "u">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vizualizare"> 
