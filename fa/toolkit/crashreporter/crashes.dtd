@@ -3,5 +3,5 @@
 <!ENTITY date.heading               "تاریخ ارسال">
 <!ENTITY noReports.label            "هیچ گزارش فروپاشی‌ای ارسال نشده است.">
 <!ENTITY noConfig.label             "این برنامه برای نمایش گزارش‌های فروپاشی پیکربندی نشده است.  مقدار ترجیح <code>breakpad.reportURL</code> باید تنظیم شود.">
-<!ENTITY clearReports.label         "حذف گزارش‌ها">
+<!ENTITY clearAllReports.label      "حذف همهٔ گزارش‌ها">
 

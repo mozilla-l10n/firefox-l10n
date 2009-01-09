@@ -88,6 +88,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "توقف بارکردن این صفحه">
 <!ENTITY goEndCap.tooltip             "رفتن به نشانی موجود در نوار مکان">
+<!ENTITY feedButton.tooltip           "آبونه شدن این صفحه…">
 <!ENTITY printButton.label            "چاپ">
 <!ENTITY printButton.tooltip          "چاپ کردن این صفحه">
 
