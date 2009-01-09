@@ -7,27 +7,29 @@
 <!ENTITY search.emptytext               "Cerca l'historial">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Visualitza">
-<!ENTITY byDate.label                   "Per data">
-<!ENTITY byDate.accesskey               "d">
-<!ENTITY bySite.label                   "Per lloc web">
-<!ENTITY bySite.accesskey               "w">
-<!ENTITY byMostVisited.label            "Per més visitat">
-<!ENTITY byMostVisited.accesskey        "v">
-<!ENTITY byLastVisited.label            "Per darrera visita">
-<!ENTITY byLastVisited.accesskey        "d">
-<!ENTITY byDayAndSite.label             "Per data i lloc web">
-<!ENTITY byDayAndSite.accesskey         "t">
 
 <!ENTITY view.columns.label             "Mostra les columnes">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                "Ordena">
-<!ENTITY view.sort.accesskey            "O">
+<!ENTITY view.sortBy.label              "Ordena per">
+<!ENTITY view.sortBy.accesskey          "O">
+<!ENTITY view.groupBy.label             "Agrupa per">
+<!ENTITY view.groupBy.accesskey         "A">
+
 <!ENTITY view.unsorted.label            "Sense ordenar">
 <!ENTITY view.unsorted.accesskey        "r">
 <!ENTITY view.sortAscending.label       "Ordenació A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Ordenació Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY view.groupNone.label           "Cap">
+<!ENTITY view.groupNone.accesskey       "C">
+<!ENTITY view.groupDay.label            "Dia">
+<!ENTITY view.groupDay.accesskey        "D">
+<!ENTITY view.groupSite.label           "Lloc web">
+<!ENTITY view.groupSite.accesskey       "L">
+<!ENTITY view.groupDayAndSite.label     "Dia i lloc web">
+<!ENTITY view.groupDayAndSite.accesskey "i">
 
 <!ENTITY cmd.open.label                 "Obre">
 <!ENTITY cmd.open.accesskey             "O">
@@ -42,6 +44,11 @@
 <!ENTITY bookmarkCmd.accesskey          "d">
 
 <!ENTITY col.title.label                "Títol">
+<!ENTITY col.title.accesskey            "T">
 <!ENTITY col.url.label                  "Ubicació">
+<!ENTITY col.url.accesskey              "U">
 <!ENTITY col.lastvisit.label            "Darrera visita">
+<!ENTITY col.lastvisit.accesskey            "D">
 <!ENTITY col.visitcount.label           "Nombre de visites">
+<!ENTITY col.visitcount.accesskey           "N">
+
