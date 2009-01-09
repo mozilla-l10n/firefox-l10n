@@ -10,7 +10,7 @@
 
 <!ENTITY reportForm.label                           "Rédaction du rapport">
 
-<!ENTITY reportForm.description                     "Donnez nous quelques informations sur le problème rencontré :">
+<!ENTITY reportForm.description                     "Donnez-nous quelques informations sur le problème rencontré :">
 <!ENTITY reportForm.url.title                       "Adresse URL du site :">
 <!ENTITY reportForm.url.accesskey                   "U">
 
