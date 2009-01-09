@@ -48,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Complements instaŀlats">
 <!ENTITY enableAddonsUpdate.accesskey   "m">
-<!ENTITY checkNow.label                 "Comprova-ho ara…">
 <!ENTITY whenUpdatesFound.label         "Quan es trobin actualitzacions del &brandShortName;,">
 <!ENTITY modeAskMe.label                "Demana'm què vull fer">
 <!ENTITY modeAskMe.accesskey            "D">
