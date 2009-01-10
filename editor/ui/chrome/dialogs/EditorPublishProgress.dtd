@@ -49,5 +49,5 @@
 <!ENTITY succeeded.label "Ha finalitzat">
 <!ENTITY failed.label "Ha fallat">
 
-<!ENTITY keepOpen "Conserva aquesta finestra oberta un cop la publicació hagi acabat.">
+<!ENTITY keepOpen "Conserva aquesta finestra oberta una vegada la publicació hagi acabat.">
 <!ENTITY closeButton.label     "Tanca">
