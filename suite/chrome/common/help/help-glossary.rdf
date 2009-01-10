@@ -43,7 +43,6 @@
         <rdf:li> <rdf:Description nc:name="Fingerabdruck" nc:link="glossary.xhtml#fingerprint"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FIPS PUBS 140-1 (US-Bundesver&#246;ffentlichungen zu  Datenverarbeitungsstandards)" nc:link="glossary.xhtml#fips_pubs_140-1"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Fremdcookie" nc:link="glossary.xhtml#foreign_cookie"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Formular-Manager" nc:link="glossary.xhtml#form_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Frame" nc:link="glossary.xhtml#frame"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="File Transfer Protocol (FTP) - (&quot;Datei&#252;bertragungsprotokoll&quot;)" nc:link="glossary.xhtml#ftp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Gopher" nc:link="glossary.xhtml#gopher"/> </rdf:li>
