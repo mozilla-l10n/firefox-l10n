@@ -2,14 +2,19 @@
 
 <!ENTITY  pref.history.caption              "Browse-History">
 <!ENTITY  historyPages.label                "History ist eine Liste von zuvor besuchten Seiten.">
-<!ENTITY  pageHis.label                     "Besuchte Seiten speichern für die letzten">
-<!ENTITY  pageHis.accesskey                 "S">
-<!ENTITY  days.label                        "Tage.">
+<!ENTITY  expireDaysMin1.label              "Besuchte Seiten immer für zumindest">
+<!ENTITY  expireDaysMin1.accesskey          "B">
+<!ENTITY  expireDaysMin2.label              "Tage speichern">
+<!ENTITY  expireDays1.label                 "Besuchte Seiten für bis zu">
+<!ENTITY  expireDays1.accesskey             "e">
+<!ENTITY  expireDays2.label                 "Tage speichern">
+<!ENTITY  expireSites1.label                "Bis zu">
+<!ENTITY  expireSites1.accesskey            "s">
+<!ENTITY  expireSites2.label                "besuchte Seiten speichern">
 <!ENTITY  clearHistory.label                "History löschen">
-<!ENTITY  clearHistory.accesskey            "l">
+<!ENTITY  clearHistory.accesskey            "o">
 
 <!ENTITY  locationBarHistory.caption        "Adressleisten-History">
 <!ENTITY  clearLocationBar.label            "Die Liste von Seiten, die im Adressleisten-Menü gespeichert werden, löschen.">
 <!ENTITY  clearLocationBarButton.label      "Adressleisten-History löschen">
 <!ENTITY  clearLocationBarButton.accesskey  "d">
-  
