@@ -169,9 +169,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Privé navigeren starten">
-<!ENTITY privateBrowsingCmd.start.accesskey     "n">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "Privé navigeren stoppen">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "n">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Beeld"> 
