@@ -280,10 +280,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Mesazh i Palexuar">
-<!ENTITY nextUnreadMsgCmd.accesskey "A">
+<!ENTITY nextUnreadMsgCmd.accesskey "P">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Mesazh me Yllkë">
-<!ENTITY nextStarredMsgCmd.accesskey "S">
+<!ENTITY nextStarredMsgCmd.accesskey "Y">
 <!ENTITY nextUnreadThread.label "Rrjedhë e Palexuar">
 <!ENTITY nextUnreadThread.accesskey "R">
 <!ENTITY nextUnreadThread.key "t">
@@ -308,7 +308,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY msgMenu.label "Mesazh">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Mesazh i Ri">
-<!ENTITY newMsgCmd.accesskey "R">
+<!ENTITY newMsgCmd.accesskey "M">
 <!ENTITY newNewMsgCmd.label "Përgjigje">
 <!ENTITY newNewMsgCmd.accesskey "P">
 <!ENTITY replyMsgCmd.label "Përgjigju">
@@ -326,15 +326,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Përcille Si">
 <!ENTITY forwardAsMenu.accesskey "i">
-<!ENTITY forwardAsInline.label "Inline">
-<!ENTITY forwardAsInline.accesskey "I">
+<!ENTITY forwardAsInline.label "Brendazi">
+<!ENTITY forwardAsInline.accesskey "B">
 <!ENTITY forwardAsAttachmentCmd.label "Bashkangjitje">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "Përpunojeni Si Mesazh Të ri">
-<!ENTITY editMsgAsNewCmd.accesskey "P">
+<!ENTITY editMsgAsNewCmd.label "Përpunojeni Si Mesazh të Ri">
+<!ENTITY editMsgAsNewCmd.accesskey "r">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Krijo Filtër Prej Mesazhi…">
-<!ENTITY createFilter.accesskey "k">
+<!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Shpjere Te">
 <!ENTITY moveMsgToMenu.accesskey "S">
 <!ENTITY moveCopyMsgRecentMenu.label "Së Fundmi">
@@ -360,7 +360,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyHereMenu.label "Kopjoje Këtu">
 <!ENTITY copyHereMenu.accesskey "O">
 <!ENTITY tagMenu.label "Etiketë">
-<!ENTITY tagMenu.accesskey "e">
+<!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -372,7 +372,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Shënoje">
-<!ENTITY markMenu.accesskey "s">
+<!ENTITY markMenu.accesskey "j">
 <!ENTITY markAsReadCmd.label "Si Të lexuar">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
