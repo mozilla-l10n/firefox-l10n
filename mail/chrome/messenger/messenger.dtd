@@ -373,17 +373,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Shënoje">
 <!ENTITY markMenu.accesskey "j">
-<!ENTITY markAsReadCmd.label "Si Të lexuar">
-<!ENTITY markAsReadCmd.accesskey "l">
+<!ENTITY markAsReadCmd.label "Si të Lexuar">
+<!ENTITY markAsReadCmd.accesskey "L">
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Si Rrjedhë e Lexuar">
-<!ENTITY markThreadAsReadCmd.accesskey "p">
+<!ENTITY markThreadAsReadCmd.accesskey "R">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Si Të lexuar më Datë…">
+<!ENTITY markReadByDateCmd.label "Si të Lexuar më Datë…">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Të tëra të Lexuara">
-<!ENTITY markAllReadCmd.accesskey "t">
+<!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Shto Yllkë">
 <!ENTITY markStarredCmd.accesskey "y">
@@ -395,7 +395,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsNotJunkCmd.accesskey "J">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Nis Kontrolle Poste Hedhurinë">
-<!ENTITY recalculateJunkScoreCmd.accesskey "K">
+<!ENTITY recalculateJunkScoreCmd.accesskey "N">
 <!ENTITY openMessageWindowCmd.label "Hape Mesazhin">
 <!ENTITY openMessageWindowCmd.accesskey "H">
 <!ENTITY openMessageWindowCmd.key "o">

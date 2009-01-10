@@ -16,8 +16,8 @@
 <!ENTITY contextDesc.accesskey "z">
 <!ENTITY contextIncoming.label "Kontrollohet për Postë">
 <!ENTITY contextManual.label "Xhirohet Dorazi">
-<!ENTITY contextBoth.label "Kontrollohet për Postë or Xhirohet Dorazi">
-<!ENTITY filterActionDesc.label "Kryeji këto veprime:">
+<!ENTITY contextBoth.label "Kontrollohet për Postë ose Xhirohet Dorazi">
+<!ENTITY filterActionDesc.label "Kryej këto veprime:">
 <!ENTITY filterActionDesc.accesskey "K">
 
 <!-- New Style Filter Rule Actions -->
@@ -36,4 +36,4 @@
 <!ENTITY ignoreThread.label "Shpërfille Rrjedhën">
 <!ENTITY ignoreSubthread.label "Shpërfille Nënrrjedhën">
 <!ENTITY watchThread.label "Vëzhgoje Rrjedhën">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY stopExecution.label "Ndale Përmbushjen e Filtrit">
