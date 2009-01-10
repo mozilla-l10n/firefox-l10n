@@ -1,5 +1,5 @@
 <!ENTITY windowTitle.label          "Pytanie o pocztę w formacie HTML">
-<!ENTITY recipient.label            "Niektórzy adresaci wiadomości są wymienieni jako niemogący otrzymywać poczty w formacie HTML.">
+<!ENTITY recipient.label            "Niektórzy adresaci wiadomości wymienieni są jako preferujący format tekstowy.">
 <!ENTITY question.label             "Wysłać wiadomość w formacie HTML, czy przekształcić ją na format tekstowy?">
 <!ENTITY plainTextAndHtml.label     "Wyślij zwykły tekst oraz HTML">
 <!ENTITY plainTextAndHtml.accesskey "o">
