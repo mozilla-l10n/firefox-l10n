@@ -67,7 +67,7 @@
 <!ENTITY progress "Progrés:">
 
 <!-- Label for the "keep dialog" checkbox -->
-<!ENTITY keep "Manté aquesta finestra oberta un cop finalitzada les baixades.">
+<!ENTITY keep "Manté aquesta finestra oberta una vegada finalitzada les baixades.">
 
 <!-- Button labels -->
 <!ENTITY cancel "Canceŀla">

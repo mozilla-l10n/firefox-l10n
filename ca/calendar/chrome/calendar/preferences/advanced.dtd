@@ -57,7 +57,7 @@
 <!ENTITY pref.calendar.advanced.savedPasswords.intro "El &brandShortName; pot recordar la informació de les contrasenyes per a tots els vostres calendaris perquè així no calgui que torneu a introduir els vostres detalls d'inici de sessió.">
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Utilitza una contrasenya mestra per a xifrar les contrasenyes emmagatzemades">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "p">
-<!ENTITY pref.calendar.advanced.masterPassword.intro "Un cop definida, la contrasenya mestra protegirà totes les vostres contrasenyes; però caldrà que la introduïu una vegada per cada sessió.">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Una vegada definida, la contrasenya mestra protegirà totes les vostres contrasenyes; però caldrà que la introduïu una vegada per cada sessió.">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.label "Canvia la contrasenya mestra…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "m">
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Visualitza les contrasenyes desades…">
@@ -90,7 +90,7 @@
 <!ENTITY pref.calendar.advanced.encryption.certSelection.description "Quan un servidor requereixi el meu certificat personal:">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto "Selecciona'n un automàticament">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
-<!ENTITY pref.calendar.advanced.encryption.certs.ask "Pregunta-m'ho cada cop">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Pregunta-m'ho cada vegada">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "P">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Mostra els certificats">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "M">

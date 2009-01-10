@@ -10,7 +10,7 @@
 <!ENTITY sortBy.description.label "Descripció">
 <!ENTITY sortBy.bookmarkAddDate.label "Afegit">
 <!ENTITY sortBy.lastModifiedDate.label "Darrera modificació">
-<!ENTITY sortBy.lastVisitDate.label "Visitada per darrer cop el">
+<!ENTITY sortBy.lastVisitDate.label "Visitada per darrera vegada el">
 
 <!ENTITY sortOrder.label "Tipus d'ordenació:">
 <!ENTITY sortAscending.label "Ascendent">

@@ -33,7 +33,7 @@
 <!ENTITY savedPasswords.intro         "El &brandShortName; pot recordar les contrasenyes de tots els vostres comptes; així no cal que torneu a introduir els vostres detalls d'entrada.">
 <!ENTITY  encryptEnabled.label        "Utilitza una contrasenya mestra per a xifrar les contrasenyes emmagatzemades">
 <!ENTITY  encryptEnabled.accesskey    "s">
-<!ENTITY  masterPassword.intro        "Un cop definida, la contrasenya mestra protegeix totes les vostres contrasenyes - però heu d'introduir-la un cop per cada sessió.">
+<!ENTITY  masterPassword.intro        "Una vegada definida, la contrasenya mestra protegeix totes les vostres contrasenyes - però heu d'introduir-la una vegada per cada sessió.">
 <!ENTITY  setMasterPassword.label     "Contrasenya mestra">
 <!ENTITY  setMasterPassword.accesskey "m">
 <!ENTITY  removeMasterPassword.label  "Suprimeix la contrasenya mestra…">

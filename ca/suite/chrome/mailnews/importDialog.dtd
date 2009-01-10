@@ -61,7 +61,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importShortDesc.label "Importa el correu i les llibretes d'adreces d'altres programes">
 
 <!ENTITY importDescription1.label "Amb aquest assistent podreu importar missatges de correu, entrades de llibreta d'adreces i/o preferències d'altres programes de correu i formats habituals de llibretes d'adreces cap a la Missatgeria del &brandShortName;.">
-<!ENTITY importDescription2.label "Un cop s'hagin importat, hi podreu accedir des de la Missatgeria i/o la llibreta d'adreces del &brandShortName;">
+<!ENTITY importDescription2.label "Una vegada s'hagin importat, hi podreu accedir des de la Missatgeria i/o la llibreta d'adreces del &brandShortName;">
 
 <!ENTITY selectDescription.label "Si us plau, seleccioneu el programa d'on voleu importar:">
 
