@@ -12,7 +12,7 @@
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Kontakt Libri Vendndodhje…">
 <!ENTITY newContact.accesskey "K">
-<!ENTITY attachMenu.label "Bashkangjite">
+<!ENTITY attachMenu.label "Bashkangjisni">
 <!ENTITY attachMenu.accesskey "b">
 <!ENTITY attachFileCmd.label "Kartelë(a)…">
 <!ENTITY attachFileCmd.accesskey "K">
@@ -183,7 +183,7 @@
 <!ENTITY sendButton.label "Dërgoje">
 <!ENTITY quoteButton.label "Përmende">
 <!ENTITY addressButton.label "Kontakte">
-<!ENTITY attachButton.label "Bashkangjite">
+<!ENTITY attachButton.label "Bashkangjisni">
 <!ENTITY spellingButton.label "Drejtshkrim">
 <!ENTITY saveButton.label "Ruaje">
 
@@ -193,7 +193,7 @@
 <!ENTITY sendlaterButton.tooltip "Dërgoje këtë mesazh më vonë"> 
 <!ENTITY quoteButton.tooltip "Përmend mesazhin e mëparshëm"> 
 <!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Vendndodhjesh"> 
-<!ENTITY attachButton.tooltip "Përfshi një bashkangjitje"> 
+<!ENTITY attachButton.tooltip "Përfshini një bashkangjitje"> 
 <!ENTITY saveButton.tooltip "Ruaje këtë mesazh"> 
 <!ENTITY cutButton.tooltip              "Prije">
 <!ENTITY copyButton.tooltip             "Kopjoje">

@@ -23,12 +23,12 @@
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Gjeni Përditësime për Temat tuaja">
 <!ENTITY cmd.installFileAddon.tooltip     "Instaloni një Shtesë">
 <!ENTITY cmd.installFileTheme.tooltip     "Instaloni një Temë">
-<!ENTITY cmd.installUpdatesAll.label      "Instaloni Përditësime">
+<!ENTITY cmd.installUpdatesAll.label      "Instalo Përditësimet">
 <!ENTITY cmd.installUpdatesAll.accesskey  "I">
 <!ENTITY cmd.installUpdatesAll.tooltip    "Instalon përditësimet e përzgjedhur">
-<!ENTITY cmd.skip.label                   "Anashkalo">
+<!ENTITY cmd.skip.label                   "Anashkaloje">
 <!ENTITY cmd.skip.accesskey               "A">
-<!ENTITY cmd.skip.tooltip                 "Anashkalo këta përditësime">
+<!ENTITY cmd.skip.tooltip                 "Anashkalo këto përditësime">
 <!ENTITY cmd.continue.label               "Vazhdo">
 <!ENTITY cmd.continue.accesskey           "V">
 <!ENTITY cmd.continue.tooltip             "Vazhdo ngarkimin e &brandShortName;-it">
