@@ -48,7 +48,7 @@
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "Zastosuj">
-<!ENTITY cmd.useTheme.accesskey           "S">
+<!ENTITY cmd.useTheme.accesskey           "a">
 <!ENTITY cmd.useTheme.tooltip             "Zmienia motyw programu &brandShortName;.">
 <!ENTITY cmd.options.label                "Opcje">
 <!ENTITY cmd.options.accesskey            "p">
