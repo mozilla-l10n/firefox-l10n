@@ -36,7 +36,7 @@
 <!ENTITY viewMenu.label					"Parje"> 
 <!ENTITY viewMenu.accesskey				"P"> 
 <!ENTITY viewToolbarsMenu.label				"Panele"> 
-<!ENTITY viewToolbarsMenu.accesskey			"L"> 
+<!ENTITY viewToolbarsMenu.accesskey			"P"> 
 <!ENTITY showTaskbarCmd.label					"Shtyllë Gjendjeje">  
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
 

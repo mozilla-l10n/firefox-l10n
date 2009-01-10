@@ -19,4 +19,4 @@
 <!ENTITY securityButton.tooltip "Shihni ose ndryshoni rregullime sigurie">
 
 <!ENTITY menu_viewSecurityStatus.label "Të dhëna Sigurie Mesazhi">
-<!ENTITY menu_viewSecurityStatus.accesskey "T">
+<!ENTITY menu_viewSecurityStatus.accesskey "d">
