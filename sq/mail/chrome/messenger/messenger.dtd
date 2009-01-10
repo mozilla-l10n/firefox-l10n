@@ -24,11 +24,11 @@
 <!ENTITY saveAsTemplateCmd.accesskey "G">
 <!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Merr Mesazhe të Rinj për">
-<!ENTITY getNewMsgForCmd.accesskey "r">
+<!ENTITY getNewMsgForCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tërë Llogaritë">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Llogarinë e Tanishme">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "a">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "l">
 <!ENTITY getNextNMsgCmd.label "Merr 500 Mesazhet e Rinj Pasues">
 <!ENTITY getNextNMsgCmd.accesskey "s">
 <!ENTITY sendUnsentCmd.label "Dërgo Mesazhe Të Padërguar">
@@ -36,9 +36,9 @@
 <!ENTITY subscribeCmd.label "Pajtohuni…">
 <!ENTITY subscribeCmd.accesskey "p">
 <!ENTITY deleteFolder.label "Fshije Dosjen">
-<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY deleteFolder.accesskey "F">
 <!ENTITY renameFolder.label "Riemërtoni Dosje…">
-<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.accesskey "t">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Ngjeshi Dosjet">
 <!ENTITY compactFolders.accesskey    "N">
@@ -47,13 +47,13 @@
 <!ENTITY importCmd.label "Importo…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "I palidhur">
-<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineMenu.accesskey "I">
 <!ENTITY offlineGoOfflineCmd.label "Punoni i Palidhur">
 <!ENTITY offlineGoOfflineCmd.accesskey "p">
 <!ENTITY synchronizeOfflineCmd.label "Shkarko/Njëkohëso Tani…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Rregullime për i Palidhur…">
-<!ENTITY settingsOfflineCmd.accesskey "r">
+<!ENTITY settingsOfflineCmd.accesskey "R">
 <!ENTITY downloadSelectedCmd.label "Merr Mesazhet e Përzgjedhur">
 <!ENTITY downloadSelectedCmd.accesskey "p">
 <!ENTITY downloadStarredCmd.label "Merr Mesazhet me Yllkë">
@@ -64,7 +64,7 @@
 <!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
 <!ENTITY printPreviewCmd.accesskey "p">
 <!ENTITY printSetupCmd.label "Rregullim Faqeje…">
-<!ENTITY printSetupCmd.accesskey "r">
+<!ENTITY printSetupCmd.accesskey "g">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Fshije Mesazhin">
@@ -121,9 +121,9 @@
 <!ENTITY customizeToolbar.accesskey "N">
 
 <!ENTITY messagePaneLayoutStyle.label "Skemë">
-<!ENTITY messagePaneLayoutStyle.accesskey "S">
+<!ENTITY messagePaneLayoutStyle.accesskey "k">
 <!ENTITY messagePaneClassic.label "Pamje Klasike">
-<!ENTITY messagePaneClassic.accesskey "K">
+<!ENTITY messagePaneClassic.accesskey "l">
 <!ENTITY messagePaneWide.label "Pamje Së Gjeri">
 <!ENTITY messagePaneWide.accesskey "G">
 <!ENTITY messagePaneVertical.label "Pamje Vertikale">
@@ -149,7 +149,7 @@
 <!ENTITY sortByDateCmd.label "Datash">
 <!ENTITY sortByDateCmd.accesskey "d">
 <!ENTITY sortByReceivedCmd.label "Të Marrë">
-<!ENTITY sortByReceivedCmd.accesskey "m">
+<!ENTITY sortByReceivedCmd.accesskey "t">
 <!ENTITY sortByStarCmd.label "Yjesh">
 <!ENTITY sortByStarCmd.accesskey "Y">
 <!ENTITY sortByAttachmentsCmd.label "Bashkangjitjesh">
@@ -157,25 +157,25 @@
 <!ENTITY sortByPriorityCmd.label "Përparësie">
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Madhësish">
-<!ENTITY sortBySizeCmd.accesskey "a">
+<!ENTITY sortBySizeCmd.accesskey "m">
 <!ENTITY sortByStatusCmd.label "Gjendjeje">
 <!ENTITY sortByStatusCmd.accesskey "g">
 <!ENTITY sortByTagsCmd.label "Etiketash">
-<!ENTITY sortByTagsCmd.accesskey "g">
+<!ENTITY sortByTagsCmd.accesskey "e">
 <!ENTITY sortByJunkStatusCmd.label "Gjendjeje Hedhurinë">
 <!ENTITY sortByJunkStatusCmd.accesskey "H">
 <!ENTITY sortBySubjectCmd.label "Subjektesh">
-<!ENTITY sortBySubjectCmd.accesskey "u">
+<!ENTITY sortBySubjectCmd.accesskey "s">
 <!ENTITY sortByFromCmd.label "Prej">
 <!ENTITY sortByFromCmd.accesskey "J">
 <!ENTITY sortByRecipientCmd.label "Marrësish">
-<!ENTITY sortByRecipientCmd.accesskey "i">
+<!ENTITY sortByRecipientCmd.accesskey "ë">
 <!ENTITY sortByUnreadCmd.label "Të lexuar">
-<!ENTITY sortByUnreadCmd.accesskey "x">
+<!ENTITY sortByUnreadCmd.accesskey "l">
 <!ENTITY sortByOrderReceivedCmd.label "Radhës së Marrjes">
-<!ENTITY sortByOrderReceivedCmd.accesskey "S">
+<!ENTITY sortByOrderReceivedCmd.accesskey "a">
 <!ENTITY sortAscending.label "Rritëse">
-<!ENTITY sortAscending.accesskey "T">
+<!ENTITY sortAscending.accesskey "i">
 <!ENTITY sortDescending.label "Zbritëse">
 <!ENTITY sortDescending.accesskey "Z">
 <!ENTITY sortThreaded.label "Në Rrjedhë">
@@ -257,10 +257,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findMenu.label "Gjej">
 <!ENTITY findMenu.accesskey "G">
 <!ENTITY findCmd.label "Gjej Në Këtë Mesazh…">
-<!ENTITY findCmd.accesskey "G">
+<!ENTITY findCmd.accesskey "K">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Gjej Sërish">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "S">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
@@ -309,7 +309,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Mesazh i Ri">
 <!ENTITY newMsgCmd.accesskey "R">
-<!ENTITY newNewMsgCmd.label "Përgjigju">
+<!ENTITY newNewMsgCmd.label "Përgjigje">
 <!ENTITY newNewMsgCmd.accesskey "P">
 <!ENTITY replyMsgCmd.label "Përgjigju">
 <!ENTITY replyMsgCmd.accesskey "P">
@@ -457,13 +457,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Kërkim i mëtejshëm në mesazhe">
-<!ENTITY getMsgButton.tooltip "Merr mesazhe të rinj">
+<!ENTITY getMsgButton.tooltip "Merrni mesazhe të rinj">
 <!ENTITY getAllNewMsgCmd.label "Merri Tërë Mesazhet">
 <!ENTITY getAllNewMsgCmd.accesskey "M">
 <!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Krijoni mesazh të ri">
-<!ENTITY replyButton.tooltip "Përgjigju mesazhit">
-<!ENTITY replyAllButton.tooltip "Përgjigju dërguesit dhe tërë marrësve">
+<!ENTITY replyButton.tooltip "Përgjigjuni mesazhit">
+<!ENTITY replyAllButton.tooltip "Përgjigjuni dërguesit dhe tërë marrësve">
 <!ENTITY forwardButton.tooltip "Përcill mesazhet e përzgjedhur">
 <!ENTITY fileButton.tooltip "Skedoje mesazhin e përzgjedhur">
 
@@ -478,8 +478,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.tooltip "Ndale shpërnguljen e tanishme">
 <!ENTITY junkButton.tooltip "Mesazhet e përzgjedhur shënoji si hedhurinë">
 <!ENTITY notJunkButton.tooltip "Mesazhet e përzgjedhur shënoji si jo  hedhurinë">
-<!ENTITY addressBookButton.tooltip "Shko te libri i vendndodhjeve">
-<!ENTITY tagButton.tooltip "Etiketo mesazhe">
+<!ENTITY addressBookButton.tooltip "Shkoni te libri i vendndodhjeve">
+<!ENTITY tagButton.tooltip "Etiketoni mesazhe">
 <!ENTITY compactButton.tooltip "Hiqi mesazhet e fshirë prej dosjes së përzgjedhur">
 
 <!-- Tags Menu Popup -->
@@ -510,7 +510,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextEmptyJunk.label "Zbraz Hedhurinat">
 <!ENTITY folderContextEmptyJunk.accesskey "Z">
 <!ENTITY folderContextSendUnsentMessages.label "Dërgo Mesazhet e Padërguar">
-<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextSendUnsentMessages.accesskey "o">
 <!ENTITY folderContextUnsubscribe.label "Çpajtohuni">
 <!ENTITY folderContextUnsubscribe.accesskey "Ç">
 <!ENTITY folderContextMarkNewsgroupRead.label "Shënoje Grupin e Lajmeve si Të lexuar">
