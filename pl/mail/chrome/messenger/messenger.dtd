@@ -425,7 +425,7 @@
 <!ENTITY filtersCmd.accesskey              "F">
 <!ENTITY filtersApply.label                "Zastosuj filtry w bieżącym folderze">
 <!ENTITY filtersApply.accesskey            "Z">
-<!ENTITY filtersApplyToSelection.label     "Zastosuj filtry do wybranych wiadomościach">
+<!ENTITY filtersApplyToSelection.label     "Zastosuj filtry do wybranych wiadomości">
 <!ENTITY filtersApplyToSelection.accesskey "w">
 <!ENTITY filtersApplyToMessage.label       "Zastosuj filtry do wiadomości">
 <!ENTITY filtersApplyToMessage.accesskey   "s">
