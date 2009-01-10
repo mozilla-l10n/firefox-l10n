@@ -16,19 +16,19 @@
 <!ENTITY tabCmd.label "ਨਵੀਂ ਟੈਬ">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ...">
+<!ENTITY openLocationCmd.label "...ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ">
 <!ENTITY openLocationCmd.accesskey "L">
-<!ENTITY openFileCmd.label "ਫਾਇਲ ਖੋਲ੍ਹੋ...">
+<!ENTITY openFileCmd.label "...ਫਾਇਲ ਖੋਲ੍ਹੋ">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "ਪੇਜ਼ ਸੈਟਿੰਗ...">
+<!ENTITY printSetupCmd.label "...ਪੇਜ਼ ਸੈਟਿੰਗ">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ਪਰਿੰਟ ਝਲਕ">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "ਪਰਿੰਟ ਕਰੋ...">
+<!ENTITY printCmd.label "...ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "ਇੰਪੋਰਟ...">
+<!ENTITY import.label "...ਇੰਪੋਰਟ">
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ">
@@ -71,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ...">
 <!ENTITY organizeBookmarks.label "ਬੁੱਕਮਾਰਕ ਪਰਬੰਧ…">
 <!ENTITY bookmarkAllCmd.label "ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ......">
+<!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
 <!ENTITY backCmd.accesskey            "B">
@@ -168,8 +169,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
-<!ENTITY privateBrowsingCmd.label            "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੁਰੂ ਕਰੋ">
+<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.stop.label          "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਬੰਦ ਕਰੋ">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey       "V">
@@ -264,7 +269,7 @@
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 
-<!ENTITY sendPageCmd.label            "ਲਿੰਕ ਭੇਜੋ...">
+<!ENTITY sendPageCmd.label            "...ਲਿੰਕ ਭੇਜੋ">
 <!ENTITY sendPageCmd.accesskey        "e">
 <!ENTITY savePageCmd.label            "...ਪੇਜ਼ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY savePageCmd.accesskey        "A">
@@ -388,9 +393,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "ਪੋਪਅੱਪ ਪਾਬੰਦੀ ਪਸੰਦ ਸੋਧ...">
+<!ENTITY editPopupSettingsUnix.label "...ਪੋਪਅੱਪ ਪਾਬੰਦੀ ਪਸੰਦ ਸੋਧ">
 
-<!ENTITY editPopupSettings.label "ਪੋਪਅੱਪ ਪਾਬੰਦੀ ਚੋਣ ਸੋਧ...">
+<!ENTITY editPopupSettings.label "...ਪੋਪਅੱਪ ਪਾਬੰਦੀ ਚੋਣ ਸੋਧ">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
