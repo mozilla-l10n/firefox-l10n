@@ -5,7 +5,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY edit.label                     "Përpunim">
 <!ENTITY edit.accesskey                 "P">
-<!ENTITY views.label                    "Parje">
+<!ENTITY views.label                    "Shihni">
 <!ENTITY view.toolbar.label             "Panel">
 <!ENTITY view.toolbar.accesskey         "N">
 <!ENTITY view.columns.label             "Shfaq Shtylla">
@@ -207,7 +207,7 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY organize.accesskey    "S">
 <!ENTITY places.library.title  "Librari">
-<!ENTITY views.accesskey                "P">
+<!ENTITY views.accesskey                "I">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 

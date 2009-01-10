@@ -4,7 +4,7 @@
 <!ENTITY unsubscribeButton.label      "Çpajtomë">
 <!ENTITY unsubscribeButton.accesskey  "Ç">
 <!ENTITY newGroupsTab.label           "Grupe të Rinj">
-<!ENTITY newGroupsTab.accesskey       "R">
+<!ENTITY newGroupsTab.accesskey       "G">
 <!ENTITY refreshButton.label          "Freskoje">
 <!ENTITY refreshButton.accesskey      "F">
 <!ENTITY stopButton.label             "Ndal">

@@ -27,8 +27,8 @@
 <!ENTITY propsCmd.accesskey "x">
 
 <!-- View menu -->
-<!ENTITY mapviewMenu.label "Parje">
-<!ENTITY mapviewMenu.accesskey "p">
+<!ENTITY mapviewMenu.label "Shiheni">
+<!ENTITY mapviewMenu.accesskey "S">
 <!ENTITY showhideTbarCmd.label "Fshihe Panelin">
 <!ENTITY showhideTbarCmd.accesskey "f">
 <!-- Scaling -->

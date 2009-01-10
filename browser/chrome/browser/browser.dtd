@@ -65,11 +65,11 @@
 <!ENTITY forwardButton.tooltip        "Shko para një faqe">
 <!ENTITY reloadCmd.label              "Ringarko">
 <!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY reloadButton.tooltip         "Ringarko faqen e çastit">
+<!ENTITY reloadButton.tooltip         "Ringarkoni faqen e çastit">
 <!ENTITY stopCmd.label                "Ndal">
 <!ENTITY stopCmd.accesskey            "N">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ndal ngarkimin e kësaj faqeje">
+<!ENTITY stopButton.tooltip           "Ndaloni ngarkimin e kësaj faqeje">
 
 <!ENTITY goEndCap.tooltip             "Shko te vendndodhja e dhënë te Shtylla e Vendeve">
 <!ENTITY printButton.label            "Shtyp">

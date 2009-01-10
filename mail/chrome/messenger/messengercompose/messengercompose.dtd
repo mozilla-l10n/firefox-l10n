@@ -88,9 +88,9 @@
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Parje"> 
-<!ENTITY viewMenu.accesskey "P">
+<!ENTITY viewMenu.accesskey "a">
 <!ENTITY viewToolbarsMenuNew.label "Panele"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "a"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "P"> 
 <!ENTITY showCompositionToolbarCmd.label "Panel Hartimi">
 <!ENTITY showCompositionToolbarCmd.accesskey "h">
 <!ENTITY showFormattingBarCmd.label "Panel Formatimi">
