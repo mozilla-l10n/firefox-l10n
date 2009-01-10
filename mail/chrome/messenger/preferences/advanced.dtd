@@ -8,6 +8,21 @@
 
 <!ENTITY enableGloda.label             "Slå på meldingsindeksering">
 <!ENTITY enableGloda.accesskey         "S">
+<!ENTITY systemDefaults.label          "Standard e-postklient">
+<!ENTITY alwaysCheckDefault.label      "Alltid kontroller om &brandShortName; er standard e-postklient ved oppstart">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY checkNow.label                "Sjekk nå">
+<!ENTITY checkNow.accesskey            "n">
+<!ENTITY configEditDesc.label          "Avanserte innstillinger">
+<!ENTITY configEdit.label              "Konfigurasjonseditor …">
+<!ENTITY configEdit.accesskey          "o">
+<!ENTITY returnReceiptsInfo.label      "Bestem hvordan &brandShortName; behandler kvitteringer">
+<!ENTITY showReturnReceipts.label      "Kvitteringer …">
+<!ENTITY showReturnReceipts.accesskey  "K">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Lesing">
+<!ENTITY display.caption               "Utseende">
 <!ENTITY showCondensedAddresses.label  "Vis bare visningsnavn for personer som er i adresseboken">
 <!ENTITY showCondensedAddresses.accesskey "V">
 
@@ -26,16 +41,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "y">
 <!ENTITY reuseExpRadio1.label          "Et eksisterende meldingsvindu">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY configEditDesc.label          "Avanserte innstillinger">
-<!ENTITY configEdit.label              "Konfigurasjonseditor …">
-<!ENTITY configEdit.accesskey          "o">
-<!ENTITY returnReceiptsInfo.label      "Bestem hvordan &brandShortName; behandler kvitteringer">
-<!ENTITY showReturnReceipts.label      "Kvitteringer …">
-<!ENTITY showReturnReceipts.accesskey  "K">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lesing">
-<!ENTITY display.caption                "Visning">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisk søk etter oppdateringer for:">
@@ -43,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Mine utvidelser og temaer">
 <!ENTITY enableAddonsUpdate.accesskey   "M">
-<!ENTITY checkNow.label                 "Sjekk nå …">
 <!ENTITY whenUpdatesFound.label         "Når oppdateringer til &brandShortName; blir funnet,">
 <!ENTITY modeAskMe.label                "Spør meg hva som skal gjøres">
 <!ENTITY modeAskMe.accesskey            "p">

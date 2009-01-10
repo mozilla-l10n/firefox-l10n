@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "Standard nettleser">
-<!ENTITY alwaysCheckDefault.label          "Alltid sjekk at &brandShortName; er satt som standard e-postprogram ved oppstart">
-<!ENTITY alwaysCheckDefault.accesskey      "d">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Sjekk nå">
-<!ENTITY checkNow.accesskey         "N">
-
 <!ENTITY messengerStartPage.label         "&brandShortName; startside">
 <!ENTITY enableStartPage.label            "Når &brandShortName; starter, vis startsiden i meldingsområdet">
 <!ENTITY enableStartPage.accesskey        "N">
