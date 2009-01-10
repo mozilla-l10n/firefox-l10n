@@ -218,7 +218,7 @@
 <!ENTITY bodySanitized.label "HTML e Thjeshtë">
 <!ENTITY bodySanitized.accesskey "J">
 <!ENTITY bodyAsPlaintext.label "Tekst i Thjeshtë">
-<!ENTITY bodyAsPlaintext.accesskey "e">
+<!ENTITY bodyAsPlaintext.accesskey "T">
 <!ENTITY viewAttachmentsInlineCmd.label "Shfaqi Bashkangjitjet Brenda">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "B">
 
@@ -229,17 +229,17 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zmadhoji">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "m">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zvogëloji">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.accesskey    "v">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Reset">
+<!ENTITY fullZoomResetCmd.label         "Riktheje">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
@@ -450,7 +450,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY notJunkButton.label "Jo Hedhurinë">
 <!ENTITY addressBookButton.label "Libër Vendndodhjesh">
 <!ENTITY searchItem.title "Kërkim i Shpejtë">
-<!ENTITY mailViewsToolbarItem.title "Pmaje Poste">
+<!ENTITY mailViewsToolbarItem.title "Pamje Poste">
 <!ENTITY folderLocationToolbarItem.title "Vend Dosjeje">
 <!ENTITY tagButton.label "Etiketë">
 <!ENTITY compactButton.label "Ngjeshe">
