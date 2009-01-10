@@ -8,8 +8,20 @@
 <!ENTITY autoCompleteAutoFill.accesskey        "A">
 <!ENTITY autoCompleteShowPopup.label           "Liste von übereinstimmenden Ergebnissen anzeigen">
 <!ENTITY autoCompleteShowPopup.accesskey       "L">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Nur Übereinstimmungen mit zuvor eingegebenen Webseiten">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Nur zuvor eingegebene Webseiten durchsuchen">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "N">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Nur in Adressen, nicht in Website-Titeln suchen">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "u">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "Übereinstimmung">
+<!ENTITY autoCompleteMatch.accesskey           "m">
+<!ENTITY autoCompleteMatchAnywhere             "Überall in Adresse oder Titel">
+<!ENTITY autoCompleteMatchWordsFirst           "Überall, aber bevorzugt an Wortgrenzen">
+<!ENTITY autoCompleteMatchWords                "Nur an Wortgrenzen">
+<!ENTITY autoCompleteMatchStart                "Nur am Beginn von Adresse oder Titel">
 
 <!ENTITY searchEngine.label                    "Internet-Suchmaschine">
 <!ENTITY showSearchEngine.label                "Standard-Suchmaschine anzeigen">
