@@ -62,7 +62,7 @@
 <!ENTITY askMe.accesskey                 "P">
 <!ENTITY modeAutomatic.label             "Receber e instalar a atualização automaticamente">
 <!ENTITY modeAutomatic.accesskey         "R">
-<!ENTITY modeAutoAddonWarn.label         "Alertar caso desative algum complemento">
+<!ENTITY modeAutoAddonWarn.label         "Alertar caso desative alguma extensão ou tema">
 <!ENTITY modeAutoAddonWarn.accesskey     "A">
 <!ENTITY updateHistory.label             "Histórico de atualizações">
 <!ENTITY updateHistory.accesskey         "H">
