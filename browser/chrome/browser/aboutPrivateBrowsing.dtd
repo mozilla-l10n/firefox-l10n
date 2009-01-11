@@ -13,7 +13,7 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start privat nettlesing">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "a">
 
 <!ENTITY privatebrowsingpage.howToStop                 "For å avslutte privat nettlesing, vel &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller avslutt &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "For å starte privat nettlesing kan du òg velje &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">

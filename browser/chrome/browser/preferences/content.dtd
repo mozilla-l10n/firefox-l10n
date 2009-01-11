@@ -3,7 +3,7 @@
 <!ENTITY  popupExceptions.label       "Unntak …">
 <!ENTITY  popupExceptions.accesskey   "U">
 
-<!ENTITY  loadImages.label            "Last bilete automatisk">
+<!ENTITY  loadImages.label            "Last inn bilete automatisk">
 <!ENTITY  loadImages.accesskey        "L">
 <!ENTITY  exceptions.label            "Unntak …">
 <!ENTITY  exceptions.accesskey        "n">
@@ -32,6 +32,6 @@
 
 
 <!ENTITY languages.label              "Språk">
-<!ENTITY chooseLanguage.label         "Vel føretrekt språk for vising av sider">
+<!ENTITY chooseLanguage.label         "Vel føretrekt språk å vise nettsider i">
 <!ENTITY chooseButton.label           "Vel …">
 <!ENTITY chooseButton.accesskey       "V">

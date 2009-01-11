@@ -1,13 +1,13 @@
 <!ENTITY securityWarnings.title                   "Sikkerheitsåtvaringar">
 
 <!ENTITY security.warn_when                       "Vis åtvaringsdialog når:">
-<!ENTITY security.warn_entering_secure.label      "eg er i ferd med å vitje ei kryptert side.">
-<!ENTITY security.warn_entering_secure.accesskey  "e">
-<!ENTITY security.warn_entering_weak.label        "eg er i ferd med å vitje ei side som bruker låg grad av kryptering.">
-<!ENTITY security.warn_entering_weak.accesskey    "r">
-<!ENTITY security.warn_leaving_secure.label       "eg forlèt ei kryptert side for å vitje ei side som ikkje er kryptert.">
+<!ENTITY security.warn_entering_secure.label      "Vitjar ei kryptert side.">
+<!ENTITY security.warn_entering_secure.accesskey  "i">
+<!ENTITY security.warn_entering_weak.label        "Vitjar ei side som brukar låg grad av kryptering.">
+<!ENTITY security.warn_entering_weak.accesskey    "a">
+<!ENTITY security.warn_leaving_secure.label       "Forlèt ei kryptert side til ei som ikkje er kryptert.">
 <!ENTITY security.warn_leaving_secure.accesskey   "o">
-<!ENTITY security.warn_submit_insecure.label      "eg sender informasjon som ikkje er kryptert.">
-<!ENTITY security.warn_submit_insecure.accesskey  "s">
-<!ENTITY security.warn_viewing_mixed.label        "eg er i ferd med å vitje ei kryptert side som inneheld ukryptert informasjon.">
-<!ENTITY security.warn_viewing_mixed.accesskey    "v">
+<!ENTITY security.warn_submit_insecure.label      "Sender informasjon som ikkje er kryptert.">
+<!ENTITY security.warn_submit_insecure.accesskey  "S">
+<!ENTITY security.warn_viewing_mixed.label        "Viser ei kryptert side som inneheld ukryptert informasjon.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "V">

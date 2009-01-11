@@ -4,18 +4,18 @@
 <!ENTITY expand.accesskey          "U">
 <!ENTITY collapse.label            "Slå saman">
 <!ENTITY collapse.accesskey        "l">
-<!ENTITY byDate.label "Etter dato">
-<!ENTITY byDate.accesskey "D">
-<!ENTITY bySite.label "Etter nettstad">
-<!ENTITY bySite.accesskey "n">
+<!ENTITY byDate.label "Dato">
+<!ENTITY byDate.accesskey "a">
+<!ENTITY bySite.label "Nettstad">
+<!ENTITY bySite.accesskey "N">
 <!ENTITY view.label "Vis">
 <!ENTITY view.accesskey "i">
-<!ENTITY byMostVisited.label "Etter mest vitja">
-<!ENTITY byMostVisited.accesskey "m">
-<!ENTITY byLastVisited.label "Etter sist vitja">
-<!ENTITY byLastVisited.accesskey "s">
-<!ENTITY byDayAndSite.label "Etter dato og nettstad">
-<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY byMostVisited.label "Mest vitja">
+<!ENTITY byMostVisited.accesskey "M">
+<!ENTITY byLastVisited.label "Sist vitja">
+<!ENTITY byLastVisited.accesskey "S">
+<!ENTITY byDayAndSite.label "Dato og nettstad">
+<!ENTITY byDayAndSite.accesskey "D">
 <!ENTITY openLinkInWindow.label "Opne">
 <!ENTITY openLinkInWindow.accesskey "O">
 <!ENTITY openInNewTab.label "Opne i ny fane">

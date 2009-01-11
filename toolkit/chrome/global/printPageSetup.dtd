@@ -16,8 +16,8 @@
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Krymp for å passe sidebreidda">
-<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY shrinkToFit.label   "Forminsk til å passe sidebreidda">
+<!ENTITY shrinkToFit.accesskey "F">
 
 <!ENTITY optionsGroup.label  "Innstillingar">
 

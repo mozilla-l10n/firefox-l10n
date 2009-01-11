@@ -4,7 +4,7 @@
 <!ENTITY startupPage.accesskey     "N">
 <!ENTITY startupHomePage.label     "Vis startsida">
 <!ENTITY startupBlankPage.label    "Vis tom side">
-<!ENTITY startupLastSession.label  "Vis vindauga og fanene som vart brukte sist">
+<!ENTITY startupLastSession.label  "Vis vindauge og fanenr som vart brukte sist">
 <!ENTITY location.label            "Adresse:">
 <!ENTITY location.accesskey        "A">
 <!ENTITY useCurrentPage.label      "Bruk open nettside">
@@ -12,26 +12,26 @@
 <!ENTITY useMultiple.label         "Bruk opne nettsider">
 <!ENTITY useBookmark.label         "Bruk bokmerke">
 <!ENTITY useBookmark.accesskey     "k">
-<!ENTITY restoreDefault.label      "Still tilbake til standard">
+<!ENTITY restoreDefault.label      "Bruk standard">
 <!ENTITY restoreDefault.accesskey  "s">
 
 <!ENTITY downloads.label     "Nedlastingar">
 
-<!ENTITY showWhenDownloading.label     "Vis nedlastingsvindauget når eg lastar ned ei fil">
+<!ENTITY showWhenDownloading.label     "Vis nedlastingsvindauget ved nedlasting av filer">
 <!ENTITY showWhenDownloading.accesskey "V">
-<!ENTITY closeWhenDone.label "Lat det att når alle nedlastingar er fullførte.">
+<!ENTITY closeWhenDone.label "Lat det att når alle nedlastingane er ferdige.">
 <!ENTITY closeWhenDone.accesskey "d">
-<!ENTITY saveTo.label "Lagre filer til">
+<!ENTITY saveTo.label "Lagre filer i">
 <!ENTITY saveTo.accesskey "L">
 <!ENTITY chooseFolderWin.label        "Bla gjennom …">
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Vel …">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Spør alltid om kvar eg vil lagre filene">
+<!ENTITY alwaysAsk.label "Spør alltid om kvar filer skal lagrast">
 <!ENTITY alwaysAsk.accesskey "ø">
 
 <!ENTITY addonsMgr.label               "Utvidingar">
 <!ENTITY manageAddonsDescWin.label     "Endre innstillingar for utvidingane">
-<!ENTITY manageAddonsDescUnix2.label   "Endre val for utvidingane">
-<!ENTITY manageAddons.label            "Handsam utvidingar …">
-<!ENTITY manageAddons.accesskey        "M">
+<!ENTITY manageAddonsDescUnix2.label   "Endre innstillingar for utvidingane">
+<!ENTITY manageAddons.label            "Handsame utvidingar …">
+<!ENTITY manageAddons.accesskey        "a">

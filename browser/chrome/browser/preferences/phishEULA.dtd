@@ -1,4 +1,4 @@
-<!ENTITY phishDlg.title  "Tenesteavtale for Phishing-vern ">
+<!ENTITY phishDlg.title  "Tenesteavtale for nettsvindel-vern ">
 
 <!-- LOCALIZATION NOTE:
      The following entities contain sizing information for the phishing privacy
@@ -10,8 +10,8 @@
 <!ENTITY phishDlg.height      "40em">
 <!ENTITY phishDlg.width       "35em">
 
-<!ENTITY acceptToS.label      "Eg godtek tenesteavtalen for Phishing-vern">
-<!ENTITY declineToS.label     "Eg godtek IKKJE tenesteavtalen for Phishing-vern">
+<!ENTITY acceptToS.label      "Eg godtek tenesteavtalen for nettsvindel-vern">
+<!ENTITY declineToS.label     "Eg godtek IKKJE tenesteavtalen for nettsvindel-vern">
 
 <!ENTITY accept.label         "Godta og hald fram">
 <!ENTITY cancel.label         "Avbryt">

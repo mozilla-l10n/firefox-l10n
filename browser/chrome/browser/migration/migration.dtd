@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title          "Importvegvisar">
 
-<!ENTITY importFrom.label               "Importer innstillingar, bokmerke, historikk, passord og andre data frå:">
-<!ENTITY importFromUnix.label           "Importer innstillingar, bokmerke, historikk, passord og andre data frå:">
+<!ENTITY importFrom.label               "Importer innstillingar, bokmerke, historikk, passord og annan informasjon frå:">
+<!ENTITY importFromUnix.label           "Importer innstillingar, bokmerke, historikk, passord og annan informasjon frå:">
 <!ENTITY importFromBookmarks.label      "Importer bokmerke frå:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -38,7 +38,7 @@
 
 <!ENTITY importSource.title             "Importer innstillingar og data">
 <!ENTITY importItems.title              "Element som skal importerast">
-<!ENTITY importItems.label              "Vel kva element som skal importerast:">
+<!ENTITY importItems.label              "Vel kva for element som skal importerast:">
 
 <!ENTITY migrating.title                "Importerer …">
 <!ENTITY migrating.label                "Følgjande element vert no importerte …">

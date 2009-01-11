@@ -30,8 +30,8 @@
 <!ENTITY  acceptCookies.label           "Tillat infokapslar">
 <!ENTITY  acceptCookies.accesskey       "T">
 
-<!ENTITY  acceptThirdParty.label        "Godta tredjeparts infokapslar">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.label        "Tillat tredjeparts infokapslar">
+<!ENTITY  acceptThirdParty.accesskey    "r">
 
 <!ENTITY  keepUntil.label               "Ta vare på til:">
 <!ENTITY  keepUntil.accesskey           "a">

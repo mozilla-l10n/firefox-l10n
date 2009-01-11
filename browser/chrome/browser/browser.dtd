@@ -169,9 +169,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Start privat nettlesing">
-<!ENTITY privateBrowsingCmd.start.accesskey     "S">
+<!ENTITY privateBrowsingCmd.start.accesskey     "a">
 <!ENTITY privateBrowsingCmd.stop.label          "Stopp privat nettlesing">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "S">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "o">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vis"> 
@@ -384,8 +384,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Rediger innstillingar for blokkering av sprettoppvindauge …">
-<!ENTITY editPopupSettings.label "Rediger innstillingar for blokkering av sprettoppvindauge …">
+<!ENTITY editPopupSettingsUnix.label "Innstillingar for blokkering av sprettoppvindauge …">
+<!ENTITY editPopupSettings.label "Innstillingar for blokkering av sprettoppvindauge …">
 <!ENTITY editPopupSettings.accesskey "R">
 <!ENTITY dontShowMessage.accesskey "I">
 
@@ -414,7 +414,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.edit.label                     "Rediger …">
 <!ENTITY editBookmark.edit.accessKey                 "R">
 
-<!ENTITY identity.unverifiedsite2 "Nettsida har ingen opplysningar om identitet.">
+<!ENTITY identity.unverifiedsite2 "Denne nettsida har ingen opplysningar om identitet.">
 <!ENTITY identity.connectedTo "Du er kopla til">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -431,6 +431,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Meir info …">
 
-<!ENTITY downloadMonitor2.tooltip "Klikk for å opne nedlastingsvindauget">
+<!ENTITY downloadMonitor2.tooltip "Trykk for å opne nedlastingsvindauget">
 
 <!ENTITY ctrlTab.search.emptyText "Søkjefaner">

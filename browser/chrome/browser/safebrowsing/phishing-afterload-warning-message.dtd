@@ -1,26 +1,26 @@
-<!ENTITY safeb.palm.warning.title "Forfalsking på nettet">
+<!ENTITY safeb.palm.warning.title "Mistenkt nettsvindel">
 
-<!ENTITY safeb.palm.message.p1 "Denne sida har av andre vorte rapportert som svindel, truleg utforma for å narre brukarar til å dele personleg eller finansiell informasjon. Å sende personleg informasjon på denne sida kan ende med identitetstjuveri eller andre former for svindel eller forfalsking. &#160;">
+<!ENTITY safeb.palm.message.p1 "Denne sida har av andre vorte rapportert som nettsvindel, laga for å lure personar til å gje opp personleg eller finansiell informasjon. Å skrive inn personleg informasjon på denne sida kan føre til at nokon stel identiteten din eller andre former for svindel. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "Les meir &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "Les meir &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "Desse typane forfalskingar er også kjende som «phishing», der falske nettstader og e-postar prøver å imitere kjelder som du stolar på. Du kan òg finne ut meir om ">
+<!ENTITY safeb.palm.message.p2.start "Desse typane svindelforsøk er også kjende som «phishing», der falske nettstader og e-post prøver å imitere kjelder som du stolar på. Du kan òg finne ut meir om ">
 <!ENTITY safeb.palm.message.p2.linkText "korleis &brandShortName; vernar deg">
-<!ENTITY safeb.palm.message.p2.end "frå nettforfalskningar.">
+<!ENTITY safeb.palm.message.p2.end " frå nettforfalskningar.">
 
-<!ENTITY safeb.palm.accept.label "Få meg ut her ifrå!">
-<!ENTITY safeb.palm.accept.statustext "Gå til startsida mi">
-<!ENTITY safeb.palm.decline.label "Ignorer denne åtvaringa">
+<!ENTITY safeb.palm.accept.label "Få meg ut herifrå!">
+<!ENTITY safeb.palm.accept.statustext "Gå til startsida">
+<!ENTITY safeb.palm.decline.label "Ignorer åtvaringa">
 <!ENTITY safeb.palm.decline.statustext "Lat att åtvaringa" >
-<!ENTITY safeb.palm.notforgery.label2 "Dette er ikkje ei forfalsking">
-<!ENTITY safeb.palm.report.label "Kvifor vart denne sida blokkert?">
+<!ENTITY safeb.palm.notforgery.label2 "Dette er ikkje ei forfalsking …">
+<!ENTITY safeb.palm.report.label "Kvifor er nettsida blokkert?">
 
-<!ENTITY safeb.blocked.malware.title "Rapportert åtaksside!">
+<!ENTITY safeb.blocked.malware.title "Mistenkt åtaksnettstad!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Denne nettsida på <span id='malware_sitename'/> er rapportert som ei åtaksside og er blokkert basert på sikkerheitsinnstillingane dine.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Åtakssider prøver å installere program som stel privat informasjon, brukar maskina di til å angripe, eller skade systemet ditt.</p><p>Enkelte åtakssider distribuerer med vilje skadeleg programvare, men mange er kompromitterte utan kjennskap eller løyve frå eigarane deira.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "Nettstaden på <span id='malware_sitename'/> er rapportert som ei åtakssnettstad og er blokkert basert på sikkerheitsinnstillingane dine.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Åtaksnettstader prøver å installere program som stel personleg informasjon, brukar datamaskina di til å angripe, eller skade systemet ditt.</p><p>Enkelte åtaksnettstader distribuerer skadeleg programvare med vilje, men mange gjer òg dette utan  eigarane veit om det.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Rapportert forfalsking!">
+<!ENTITY safeb.blocked.phishing.title "Mistenkt nettsvindel!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Denne nettsida på <span id='phishing_sitename'/> har blitt rapportert som forfalsking og er blokkert basert på sikkerheitsinnstillingane dine.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Nokre forfalska nettstader er laga for å etterlikne sider du stolar på, for på den måten å lure deg til å gje frå deg personleg eller finansiell informasjon.</p><p>Å skrive inn informasjon på denne sida kan difor føre til identitetstjuveri eller andre former for svindel.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "Nettstaden på <span id='phishing_sitename'/> er rapportert som nettsvindel og er blokkert basert på sikkerheitsinnstillingane dine.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Nettsvindel er laga for å lure brukarar til å gje frå seg personleg eller finansiell informasjon ved å etterline kjelder du stolar på.</p><p>Å skrive inn informasjon på denne nettsida kan føre til identitetstjuveri eller andre former for svindel.</p>">
