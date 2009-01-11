@@ -10,8 +10,12 @@
 <!ENTITY  noupdatesautoenabled.intro      "Não há atualizações disponíveis. O &brandShortName; verificará periodicamente a disponibilidade de atualizações.">
 <!ENTITY  noupdatesautodisabled.intro     "Não há atualizações disponíveis. Por favor, verifique de novo mais tarde ou ative a verificação automática de atualizações do &brandShortName;.">
 
-<!ENTITY  incompatibleCheck.title         "Verificando compatibilidade dos complementos">
-<!ENTITY  incompatibleCheck.label         "Localizando novas versões de seus complementos…">
+<!ENTITY  manualUpdate.title              "Não é possível atualizar">
+<!ENTITY  manualUpdate.desc               "Uma atualização recomendada de segurança e estabilidade está disponível. Entretanto, você não possui as permissões solicitadas pelo sistema para aplicá-la. Por favor, contate o administrador do sistema ou tente de novo por uma conta que possua permissão para instalar aplicativos neste computador.">
+<!ENTITY  manualUpdateGetMsg.label        "Você sempre pode baixar a versão mais recente do &brandShortName; em:">
+
+<!ENTITY  incompatibleCheck.title         "Verificando compatibilidade de extensões e temas">
+<!ENTITY  incompatibleCheck.label         "Localizando novas versões de suas extensões e temas…">
 
 <!ENTITY  clickHere.label                 "Mais informações sobre esta atualização">
 
@@ -27,7 +31,7 @@
 <!ENTITY  license.decline                 "Eu NÃO aceito os termos do acordo de licença">
 <!ENTITY  license.decline.accesskey       "N">
 
-<!ENTITY  incompatibleList.title          "Encontrados complementos incompatíveis">
+<!ENTITY  incompatibleList.title          "Encontradas extensões e temas incompatíveis">
 
 <!ENTITY  downloading.title               "Recebendo a atualização">
 <!ENTITY  downloading.intro               "Recebendo a atualização…">
@@ -45,7 +49,7 @@
 <!ENTITY  errorpatching.title             "Falha na atualização">
 <!ENTITY  errorpatching.intro             "A atualização incremental não pôde ser aplicada. O &brandShortName; tentará de novo recebendo a atualização completa.">
 
-<!ENTITY  finishedPage.title              "Atualização pronta para instalar">
+<!ENTITY  finishedPage.title              "Pronto para instalar">
 <!ENTITY  finishedPage.text               "A atualização será instalada na próxima vez que o &brandShortName; iniciar. Você pode reiniciar agora o &brandShortName; ou deixar pra depois.">
 
 <!ENTITY  finishedBackgroundPage.text     "Uma atualização de segurança e estabilidade do &brandShortName; foi recebida e está pronta para ser instalada.">

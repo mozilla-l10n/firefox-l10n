@@ -151,7 +151,7 @@
 <!ENTITY previewNoPreviewImage.label      "O tema não possui uma imagem para visualização.">
 <!ENTITY moreInfo.label                   "Mais informações">
 <!ENTITY infoNoAddonSelected.label        "Nenhuma atualização selecionada">
-<!ENTITY infoNoUpdateInfo.label           "Esta atualização não possui nenhuma informação adicional.">
+<!ENTITY infoNoUpdateInfo.label           "Esta atualização não possui informações adicionais.">
 <!ENTITY infoUpdateInfoError.label        "Houve um erro durante o carregamento de informações sobre esta atualização">
 
 <!ENTITY updateSuccess.label              "Atualização concluída com êxito.">
