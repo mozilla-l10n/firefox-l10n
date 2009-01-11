@@ -8,7 +8,6 @@
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "T">
 <!ENTITY serverPortDefault.label "Padrão:">
-<!ENTITY savePassword.label "Salvar senha">
 <!ENTITY biffStart.label "Verificar novas mensagens a cada ">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minutos">

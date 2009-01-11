@@ -38,23 +38,30 @@
 <!ENTITY menuitem.personaltoolbarfolder.label "Exibir esta pasta na barra de marcadores">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "x">
 <!ENTITY treecol.name.label "Nome">
+<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip "Clique para ordenar pela nome">
 <!ENTITY treecol.url.label "Endereço">
+<!ENTITY treecol.url.accesskey        "E">
 <!ENTITY treecol.url.tooltip "Clique para ordenar pelo endereço">
 <!ENTITY treecol.shortcut.label "Palavra-chave">
+<!ENTITY treecol.shortcut.accesskey     "P">
 <!ENTITY treecol.shortcut.tooltip "Clique para ordenar pela palavra-chave">
 <!ENTITY treecol.description.label "Descrição">
+<!ENTITY treecol.description.accesskey  "D">
 <!ENTITY treecol.description.tooltip "Clique para ordenar pela descrição">
 <!ENTITY treecol.addedon.label "Criado">
+<!ENTITY treecol.addedon.accesskey      "a">
 <!ENTITY treecol.addedon.tooltip "Clique para ordenar pela data de criação">
 <!ENTITY treecol.lastmod.label "Modificado">
+<!ENTITY treecol.lastmod.accesskey      "M">
 <!ENTITY treecol.lastmod.tooltip "Clique para ordenar pela data de modificação">
 <!ENTITY treecol.lastvisit.label "Última visita">
+<!ENTITY treecol.lastvisit.accesskey    "v">
 <!ENTITY treecol.lastvisit.tooltip "Clique para ordenar pela data da última visita">
 <!ENTITY bookmarksWindowTitle.label "Marcadores">
 <!ENTITY search.label "Localizar nome:">
 <!ENTITY search.accesskey "Z">
-<!ENTITY button.delete.label           "Excluir">
+<!ENTITY button.delete.label "Excluir">
 <!ENTITY button.delete.accesskey "c">
 
 <!ENTITY menuitem.moveBookmark.label   "Mover marcador(es)…">
@@ -70,5 +77,3 @@
 
 <!ENTITY button.rename.label           "Renomear…">
 <!ENTITY button.rename.accesskey "R">
-
-

@@ -58,5 +58,6 @@
 <!ENTITY downloadOnLogin.label "Receber as mensagens agora">
 <!ENTITY deferStorageDesc.label "Desmarque a opção abaixo se quiser receber as mensagens desta conta em um espaço separado, sem misturar com as Pastas Locais.">
 <!ENTITY deferStorage.label "Usar a caixa de entrada global (receber mensagens nas Pastas Locais)">
+<!ENTITY deferStorage.accesskey "U">
 <!ENTITY clickFinish.label "Clique em Concluir para salvar estas configurações e sair do Assistente de Contas.">
 <!ENTITY clickFinish.labelMac "Clique em Concluir para salvar estas configurações e sair do Assistente de Contas.">

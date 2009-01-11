@@ -39,3 +39,6 @@
 <!ENTITY defaultBrowserGroup.label      "Navegador padrão">
 <!ENTITY defaultPendingText             "&brandShortName; será definido como seu navegador padrão quando clicar em OK.">
 <!ENTITY makeDefaultText                "Definir &brandShortName; como seu navegador padrão.">
+<!ENTITY navRadio.label                 "Exibir em">
+<!ENTITY navRadio.accesskey             "E">
+
