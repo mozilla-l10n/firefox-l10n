@@ -1,12 +1,18 @@
 <!ENTITY pref.history.title "Histórico">
 <!ENTITY pref.history.caption "Histórico de navegação">
 <!ENTITY historyPages.label "É a lista das páginas visitadas.">
-<!ENTITY pageHis.label "Memorizar as páginas visitadas nos últimos">
-<!ENTITY pageHis.accesskey "v">
-<!ENTITY days.label "dias">
 <!ENTITY clearHistory.label "Limpar">
 <!ENTITY clearHistory.accesskey "l">
 <!ENTITY locationBarHistory.caption "Histórico da barra de endereços">
 <!ENTITY clearLocationBar.label "Limpar a lista de sites armazenada na barra de endereços.">
 <!ENTITY clearLocationBarButton.label "Limpar">
 <!ENTITY clearLocationBarButton.accesskey "r">
+<!ENTITY  expireDays1.label                 "Memorizar as páginas visitadas até">
+<!ENTITY  expireDays1.accesskey             "M">
+<!ENTITY  expireDays2.label                 "dias">
+<!ENTITY  expireDaysMin1.label              "Sempre memorizar as páginas visitadas por no mínimo">
+<!ENTITY  expireDaysMin1.accesskey          "S">
+<!ENTITY  expireDaysMin2.label              "dias">
+<!ENTITY  expireSites1.label                "Memorizar até">
+<!ENTITY  expireSites1.accesskey            "a">
+<!ENTITY  expireSites2.label                "páginas visitadas">
