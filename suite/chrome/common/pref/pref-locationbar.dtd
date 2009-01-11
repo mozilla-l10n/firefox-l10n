@@ -1,22 +1,34 @@
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
-<!ENTITY pref.locationBar.title                "Barre d'adresse">
+<!ENTITY pref.locationBar.title "Barre d'adresse">
 
-<!ENTITY autoComplete.label                    "Auto-complétion">
-<!ENTITY enableAutoComplete.label              "Compléter automatiquement le texte saisi dans la barre d'adresse à partir de l'historique.">
-<!ENTITY enableAutoComplete.accesskey          "C">
-<!ENTITY autoCompleteAutoFill.label            "L'auto-complétion essaie de compléter au mieux au cours de la saisie.">
-<!ENTITY autoCompleteAutoFill.accesskey        "u">
-<!ENTITY autoCompleteShowPopup.label           "Afficher la liste des résultats possibles.">
-<!ENTITY autoCompleteShowPopup.accesskey       "A">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Faire correspondre seulement les adresses saisies précédemment.">
-<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "F">
+<!ENTITY autoComplete.label "Auto-complétion">
+<!ENTITY enableAutoComplete.label "Compléter automatiquement le texte saisi dans la barre d'adresse à partir de l'historique.">
+<!ENTITY enableAutoComplete.accesskey "C">
+<!ENTITY autoCompleteAutoFill.label "L'auto-complétion essaie de compléter au mieux au cours de la saisie.">
+<!ENTITY autoCompleteAutoFill.accesskey "L">
+<!ENTITY autoCompleteShowPopup.label "Afficher la liste des résultats possibles.">
+<!ENTITY autoCompleteShowPopup.accesskey "h">
+<!ENTITY autoCompleteMatchOnlyTyped.label "Rechercher les correspondances seulement dans les adresses saisies précédemment.">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey "R">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Rechercher les correspondances seulement dans les adresses, pas dans les titres de pages">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "en">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+   part of the menulist items listed below, mainly to make the control available
+   via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label "Correspondance">
+<!ENTITY autoCompleteMatch.accesskey "o">
+<!ENTITY autoCompleteMatchAnywhere "N'importe où dans l'adresse ou le titre de page">
+<!ENTITY autoCompleteMatchWordsFirst "N'importe où mais en préférant les limites de mot">
+<!ENTITY autoCompleteMatchWords "Seulement sur les limites de mots">
+<!ENTITY autoCompleteMatchStart "Seulement au début de l'adresse ou du titre de page">
 
-<!ENTITY searchEngine.label                    "Moteur de recherche Internet">
-<!ENTITY showSearchEngine.label                "Afficher le moteur de recherche par défaut">
-<!ENTITY showSearchEngine.accesskey            "m">
+<!ENTITY searchEngine.label "Moteur de recherche Internet">
+<!ENTITY showSearchEngine.label "Afficher le moteur de recherche par défaut">
+<!ENTITY showSearchEngine.accesskey "m">
 
-<!ENTITY unknownLocations.label                "Adresses inconnues">
-<!ENTITY domainGuessing.label                  "Ajouter automatiquement « www. » et « .com » à l'adresse si une page Web n'est pas trouvée.">
-<!ENTITY domainGuessing.accesskey              "j">
-<!ENTITY keywords.label                        "Lancer une recherche Internet lorsque le texte saisi n'est pas une adresse Web.">
-<!ENTITY keywords.accesskey                    "L">
+<!ENTITY unknownLocations.label "Adresses inconnues">
+<!ENTITY domainGuessing.label "Ajouter automatiquement « www. » et « .com » à l'adresse si une page Web n'est pas trouvée.">
+<!ENTITY domainGuessing.accesskey "w">
+<!ENTITY keywords.label "Lancer une recherche Internet lorsque le texte saisi n'est pas une adresse Web.">
+<!ENTITY keywords.accesskey "I">
