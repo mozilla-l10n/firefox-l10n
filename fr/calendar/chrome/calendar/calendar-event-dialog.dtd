@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -368,7 +369,9 @@
 <!ENTITY event.freebusy.plus "Heure suivante " >
 <!ENTITY event.freebusy.minus " Heure précédente" >
 <!ENTITY event.freebusy.legend.free "Disponible" >
-<!ENTITY event.freebusy.legend.busy "occupé" >
+<!ENTITY event.freebusy.legend.busy "Occupé" >
+<!ENTITY event.freebusy.legend.busy_tentative "Tentative" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Absent" >
 <!ENTITY event.freebusy.legend.unknown "Pas d'information" >
 
 <!-- Timezone dialog -->
