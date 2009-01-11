@@ -10,6 +10,18 @@
 <!ENTITY autoCompleteShowPopup.accesskey "Z">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Nabízet pouze dříve napsané webové adresy">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "N">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Doplňovat pouze adresy, ne titulky webových serverů">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label "Hledat shodu">
+<!ENTITY autoCompleteMatch.accesskey "H">
+<!ENTITY autoCompleteMatchAnywhere "Kdekoliv v adrese nebo titulku">
+<!ENTITY autoCompleteMatchWordsFirst "Kdekoliv, ale preferovat hranice slov">
+<!ENTITY autoCompleteMatchWords "Pouze na hranicích slov">
+<!ENTITY autoCompleteMatchStart "Pouze na začátku adresy nebo titulku">
 
 <!ENTITY searchEngine.label "Vyhledávací moduly">
 <!ENTITY showSearchEngine.label "Zobrazit výchozí modul">

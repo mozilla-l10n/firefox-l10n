@@ -8,6 +8,21 @@
 
 <!ENTITY enableGloda.label "Povolit indexování zpráv">
 <!ENTITY enableGloda.accesskey "P">
+<!ENTITY systemDefaults.label "Nastavení systému">
+<!ENTITY alwaysCheckDefault.label "Při startu aplikace &brandShortName; kontrolovat, zda je výchozím poštovním klientem">
+<!ENTITY alwaysCheckDefault.accesskey "t">
+<!ENTITY checkNow.label "Zkontrolovat">
+<!ENTITY checkNow.accesskey "n">
+<!ENTITY configEditDesc.label "Rozšířená konfigurace">
+<!ENTITY configEdit.label "Editor předvoleb…">
+<!ENTITY configEdit.accesskey "E">
+<!ENTITY returnReceiptsInfo.label "Určuje, jak aplikace &brandShortName; zachází s potvrzením o přečtení">
+<!ENTITY showReturnReceipts.label "Potvrzení o přečtení…">
+<!ENTITY showReturnReceipts.accesskey "v">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption "Čtení">
+<!ENTITY display.caption "Zobrazení">
 <!ENTITY showCondensedAddresses.label "Zobrazit pouze jméno odesílatele, pokud je v mém adresáři">
 <!ENTITY showCondensedAddresses.accesskey "b">
 
@@ -26,16 +41,6 @@
 <!ENTITY reuseExpRadio0.accesskey "N">
 <!ENTITY reuseExpRadio1.label "Aktuálním okně se zprávou">
 <!ENTITY reuseExpRadio1.accesskey "A">
-<!ENTITY configEditDesc.label "Rozšířená konfigurace">
-<!ENTITY configEdit.label "Editor předvoleb…">
-<!ENTITY configEdit.accesskey "E">
-<!ENTITY returnReceiptsInfo.label "Určuje, jak aplikace &brandShortName; zachází s potvrzením o přečtení">
-<!ENTITY showReturnReceipts.label "Potvrzení o přečtení…">
-<!ENTITY showReturnReceipts.accesskey "v">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption "Čtení">
-<!ENTITY display.caption "Zobrazení">
 
 <!-- Update -->
 <!ENTITY autoCheck.label "Opakovaně kontrolovat aktualizace pro:">
