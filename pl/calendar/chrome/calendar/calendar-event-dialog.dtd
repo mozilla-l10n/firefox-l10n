@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>
    -   Marek Stępień <marcoos@aviary.pl> (Polish localization)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -56,7 +57,7 @@
 <!ENTITY newevent.status.none.label         "Nieokreślony" >
 <!ENTITY newevent.status.cancelled.label    "Anulowane" >
 
-<!ENTITY newevent.status.tentative.label    "Wstępne" >
+<!ENTITY newevent.status.tentative.label    "Wstępnie zaakceptowane" >
 <!ENTITY newevent.status.confirmed.label    "Potwierdzone" >
 
 <!ENTITY newevent.status.needsaction.label  "Wymaga działania" >
@@ -362,17 +363,19 @@
 <!ENTITY reminder.remove.accesskey                      "U">
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Zaproś uczestników">
-<!ENTITY event.organizer.label           "Organizator">
-<!ENTITY event.freebusy.suggest.slot     "Sugeruj okienko:">
-<!ENTITY event.freebusy.next.slot        "Następne okienko " >
-<!ENTITY event.freebusy.previous.slot    " Poprzednie okienko" >
-<!ENTITY event.freebusy.zoom             "Powiększ:">
-<!ENTITY event.freebusy.plus             "Następna godzina" >
-<!ENTITY event.freebusy.minus            "Poprzednia godzina" >
-<!ENTITY event.freebusy.legend.free      "Wolne" >
-<!ENTITY event.freebusy.legend.busy      "Zajęte" >
-<!ENTITY event.freebusy.legend.unknown   "Brak informacji" >
+<!ENTITY invite.title.label                     "Zaproś uczestników">
+<!ENTITY event.organizer.label                  "Organizator">
+<!ENTITY event.freebusy.suggest.slot            "Sugeruj okienko:">
+<!ENTITY event.freebusy.next.slot               "Następne okienko " >
+<!ENTITY event.freebusy.previous.slot           " Poprzednie okienko" >
+<!ENTITY event.freebusy.zoom                    "Powiększ:">
+<!ENTITY event.freebusy.plus                    "Następna godzina" >
+<!ENTITY event.freebusy.minus                   "Poprzednia godzina" >
+<!ENTITY event.freebusy.legend.free             "Wolny" >
+<!ENTITY event.freebusy.legend.busy             "Zajęty" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Wstępna akceptacja" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Nieobecny" >
+<!ENTITY event.freebusy.legend.unknown          "Brak informacji" >
 
 <!-- Timezone dialog -->
 
