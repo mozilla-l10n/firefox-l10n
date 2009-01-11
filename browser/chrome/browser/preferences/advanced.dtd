@@ -93,7 +93,7 @@
 <!ENTITY certs.ask.accesskey             "S">
 <!ENTITY viewCerts.label                 "Vis sertifikater">
 <!ENTITY viewCerts.accesskey             "V">
-<!ENTITY viewCRLs.label                  "Tilbakekallingslister">
+<!ENTITY viewCRLs.label                  "Tilbakekalling">
 <!ENTITY viewCRLs.accesskey              "T">
 <!ENTITY verify2.label                   "Validering">
 <!ENTITY verify2.accesskey               "a">

@@ -94,7 +94,7 @@
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "S">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Vis sertifikater">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "e">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Tilbakekallingslister">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Tilbakekalling">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "T">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Validering">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">

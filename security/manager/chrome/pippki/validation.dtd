@@ -40,8 +40,8 @@
 <!ENTITY  validation.crlname.label                "Navn">
 <!ENTITY  validation.crllastupdate.label          "Sist oppdatert">
 <!ENTITY  validation.crlnextupdate.label          "Neste oppdatering">
-<!ENTITY  validation.crlautoupdateenabled.label   "Automatisk oppdatering">
-<!ENTITY  validation.crlautoupdatestatus.label    "Status for automatisk oppdatering">
+<!ENTITY  validation.crlautoupdateenabled.label   "Auto-oppdatering">
+<!ENTITY  validation.crlautoupdatestatus.label    "Status for oppdatering">
 <!ENTITY  validation.deletecrl.label              "Slett">
 <!ENTITY  validation.deletecrl.accesskey          "S">
 <!ENTITY  validation.updatecrl.label              "Oppdater">
