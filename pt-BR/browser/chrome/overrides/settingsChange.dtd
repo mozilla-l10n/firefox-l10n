@@ -39,5 +39,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "As configurações podem ser modificadas na aba “Aplicativos” da janela de preferências do &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "As configurações podem ser modificadas na aba “Aplicativos” da janela de opções do &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "A configuração pode ser modificada na seção “Aplicativos” da janela de preferências do &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "A configuração pode ser modificada na seção “Aplicativos” da janela de opções do &brandShortName;.">

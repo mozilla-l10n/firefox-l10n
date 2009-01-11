@@ -1,4 +1,12 @@
-<!ENTITY  history.label "Histórico">
+<!ENTITY  history.label                 "Histórico">
+
+<!ENTITY  locbar.pre.label              "Ao digitar um endereço, sugerir:">
+<!ENTITY  locbar.pre.accessKey          "o">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Histórico e favoritos">
+<!ENTITY  locbar.history.label          "Histórico">
+<!ENTITY  locbar.bookmarks.label        "Favoritos">
+<!ENTITY  locbar.nothing.label          "Nada">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
@@ -10,11 +18,11 @@
 <!ENTITY  rememberDaysBefore.accesskey  "M">
 <!ENTITY  rememberDaysAfter2.label      "dias">
 
-<!ENTITY  rememberForms.label           "Memorizar dados fornecidos a formulários e ao campo de pesquisa">
-<!ENTITY  rememberForms.accesskey       "o">
+<!ENTITY  rememberForms.label           "Memorizar dados fornecidos a páginas e ao campo de pesquisa">
+<!ENTITY  rememberForms.accesskey       "r">
 
 <!ENTITY  rememberDownloads.label       "Memorizar downloads">
-<!ENTITY  rememberDownloads.accesskey   "r">
+<!ENTITY  rememberDownloads.accesskey   "d">
 
 
 <!ENTITY  cookies.label                 "Cookies">
@@ -22,11 +30,11 @@
 <!ENTITY  acceptCookies.label           "Sites podem definir cookies">
 <!ENTITY  acceptCookies.accesskey       "S">
 
-<!ENTITY  acceptThirdParty.label        "Inclusive os de elementos fora do site visitado">
+<!ENTITY  acceptThirdParty.label        "Inclusive cookies de elementos fora do site visitado">
 <!ENTITY  acceptThirdParty.accesskey    "I">
 
 <!ENTITY  keepUntil.label               "Preservar cookies até:">
-<!ENTITY  keepUntil.accesskey           "r">
+<!ENTITY  keepUntil.accesskey           "P">
 
 <!ENTITY  expire.label                  "Perderem a validade">
 <!ENTITY  close.label                   "Sair do &brandShortName;">
@@ -44,12 +52,8 @@
 <!ENTITY  alwaysClear.label              "Limpar dados pessoais ao sair do &brandShortName;">
 <!ENTITY  alwaysClear.accesskey          "L">
 
-<!ENTITY  askBeforeClear.label           "Perguntar antes de limpar dados pessoais">
-<!ENTITY  askBeforeClear.accesskey       "P">
-
 <!ENTITY  clearDataSettings.label        "Configurar…">
 <!ENTITY  clearDataSettings.accesskey    "C">
 
 <!ENTITY  clearDataNow.label             "Limpar agora…">
-<!ENTITY  clearDataNow.label2            "Limpar agora">
 <!ENTITY  clearDataNow.accesskey         "a">
