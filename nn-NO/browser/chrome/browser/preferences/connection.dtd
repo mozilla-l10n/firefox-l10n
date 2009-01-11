@@ -1,17 +1,18 @@
-<!ENTITY  connectionsDialog.title       "Innstillingar for tilkopling">
+
+<!ENTITY  connectionsDialog.title       "Tilkoblingsinnstillingar">
 <!ENTITY  window.width                  "38em">
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Konfigurer mellomtenarar for tilgang til Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen mellomtenar">
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
-<!ENTITY  systemTypeRadio.label         "Bruk innstillingar for system-mellomtenar">
-<!ENTITY  systemTypeRadio.accesskey     "u">
-<!ENTITY  WPADTypeRadio.label           "Finn innstillingar for nettverket automatisk">
-<!ENTITY  WPADTypeRadio.accesskey       "F">
+<!ENTITY  systemTypeRadio.label         "Bruk systemet sine mellomtenarinnstiillingar">
+<!ENTITY  systemTypeRadio.accesskey     "y">
+<!ENTITY  WPADTypeRadio.label           "Automatisk oppdag mellomtenar-innstillingar">
+<!ENTITY  WPADTypeRadio.accesskey       "A">
 <!ENTITY  manualTypeRadio.label         "Manuelle mellomtenar-innstillingar:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "Adresse for automatiske mellomtenar-innstillingar:">
+<!ENTITY  autoTypeRadio.label           "Automatisk oppsettadresse:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Oppdater">
 <!ENTITY  reload.accesskey              "O">
@@ -36,8 +37,8 @@
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Ingen tenar for:">
+<!ENTITY  noproxy.label                 "Ingen mellomtenar for:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Døme: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Bruk denne tenaren for alle protokollar">
+<!ENTITY  shareproxy.label              "Bruk denne mellomtenaren for alle protokollar">
 <!ENTITY  shareproxy.accesskey          "B">

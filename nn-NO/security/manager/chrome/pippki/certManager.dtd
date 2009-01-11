@@ -134,7 +134,7 @@
 
 <!ENTITY exceptionMgr.title                   "Legg til unntak for sikkerheit …">
 <!ENTITY exceptionMgr.exceptionButton         "Stadfest unntak for sikkerheit">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButtonAccess   "S">
 <!ENTITY exceptionMgr.supplementalWarning     "Lovlege bankar, butikkar, og andre offentlege nettsider vil ikkje be deg om å gjere dette.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Tenar">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">

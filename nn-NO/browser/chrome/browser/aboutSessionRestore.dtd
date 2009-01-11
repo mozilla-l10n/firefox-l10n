@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc      "Den siste programøkta med &brandShortName; vart avbroten. Vi er svært leie for dette. Du kan byggje opp att fanene og vindauga frå den førre programøkta, eller du kan starte ei ny programøkt dersom du ikkje treng dei.">
-<!ENTITY restorepage.remedies       "If &brandShortName; closes repeatedly:">
+<!ENTITY restorepage.remedies       "Om &brandShortName; uventa lèt seg att:">
 <!ENTITY restorepage.dueToChrome    "Prøv å slå av utvidingar du nettopp har installert i utvidingshandsamaren.">
 <!ENTITY restorepage.dueToContent   "Prøv å byggje opp att programøkta utan nettsider som du trur kan ha vore årsak til krasjet:">
 

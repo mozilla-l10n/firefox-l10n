@@ -34,23 +34,23 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfattar nett-tenester, så bør tenestevilkår for tenestene lenkjast opp til ">
-<!ENTITY rights.intro-point4b-unbranded "Nett-tenester">
+<!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfattar informasjonstenester, så bør tenestevilkår for tenestene lenkjast opp til ">
+<!ENTITY rights.intro-point4b-unbranded "Informasjonstenester">
 <!ENTITY rights.intro-point4c-unbranded "-seksjonen.">
 
-<!ENTITY rights.webservices-header "&brandFullName; Nett-tenester">
+<!ENTITY rights.webservices-header "&brandFullName; informasjonstenester">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; brukar nett-tenester (&quot;Tjenester&quot;), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruke Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå Program-innstillingane, ved å velje ">
+<!ENTITY rights.webservices-a "&brandFullName; brukar informasjonstenester (&quot;Tjenester&quot;), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruke Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå Program-innstillingane, ved å velje ">
 <!ENTITY rights.webservices-b "Sikerheit">
 <!ENTITY rights.webservices-c " -seksjonen, og deretter fjerne avkryssingane frå &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Ei oversikt over nett-tenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
+<!ENTITY rights.webservices-unbranded "Ei oversikt over nformasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Andre tenestevilkår for dette produktet bør førast opp her.">

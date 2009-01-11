@@ -32,8 +32,8 @@ that require it.  -->
 <!ENTITY itemWebCache.accesskey       "n">
 <!ENTITY itemOfflineApps.label        "Fråkopla nettsidedata">
 <!ENTITY itemOfflineApps.accesskey    "F">
-<!ENTITY itemDownloadList.label       "Last ned liste">
-<!ENTITY itemDownloadList.accesskey   "a">
+<!ENTITY itemDownloadList.label       "Nedlastingsliste">
+<!ENTITY itemDownloadList.accesskey   "d">
 <!ENTITY itemActiveLogins.label       "Aktive innloggingar">
 <!ENTITY itemActiveLogins.accesskey   "A">
 
