@@ -63,6 +63,9 @@
 <!ENTITY retentionKeepNew.accesskey "m">
 <!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
 <!ENTITY retentionKeepUnread.accesskey "V">
+<!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
+<!ENTITY retentionApplyToFlagged.accesskey "u">
+
 
 <!ENTITY folderOfflineTab.label "Režim offline">
 <!ENTITY folderCheckForNewMessages.label "Kontrolovat tuto složku na nové zprávy">

@@ -20,6 +20,8 @@
 <!ENTITY retentionKeepNew.accesskey "m">
 <!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
 <!ENTITY retentionKeepUnread.accesskey "v">
+<!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
+<!ENTITY retentionApplyToFlagged.accesskey "u">
 <!ENTITY nntpRemoveBody.label "Odstranit těla zpráv starších než">
 <!ENTITY nntpRemoveBody.accesskey "R">
 <!ENTITY offlineSelectNntp.label "Vybrat diskusní skupiny pro offline použití…">

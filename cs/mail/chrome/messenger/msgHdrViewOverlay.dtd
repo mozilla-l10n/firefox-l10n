@@ -57,8 +57,9 @@
 
 <!ENTITY editMessageDescription.label "Tato zpráva je koncept">
 <!ENTITY editMessageButton.label "Upravit…">
-<!ENTITY replyButton.label "odpovědět…">
-<!ENTITY forwardButton.label "přeposlat…">
+<!ENTITY archiveButton.label "archivovat">
+<!ENTITY replyButton.label "odpovědět">
+<!ENTITY forwardButton.label "přeposlat">
 <!ENTITY junkButton.label "označit jako nevyžadaná">
 <!ENTITY trashButton.tooltiptext "smazat">
 

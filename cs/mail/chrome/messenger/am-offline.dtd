@@ -1,6 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pro ušetření místa na disku nestahovat:">
 <!ENTITY doNotDownload.label "Pro ušetření místa na disku nestahovat pro offline použití:">
-<!ENTITY allFoldersOffline.label "Zprávy pro tento účet uchovat na tomto počítači">
+<!ENTITY allFoldersOffline.label "Zprávy pro tento účet uchovávat na tomto počítači">
 <!ENTITY allFoldersOffline.accesskey "Z">
 <!ENTITY offlineNotDownload.label "Zprávy větší než">
 <!ENTITY offlineNotDownload.accesskey "n">
@@ -20,8 +20,10 @@
 <!ENTITY retentionKeepNew.accesskey "m">
 <!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
 <!ENTITY retentionKeepUnread.accesskey "d">
+<!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
+<!ENTITY retentionApplyToFlagged.accesskey "u">
 <!ENTITY nntpRemoveBody.label "Odstranit těla zpráv starších než">
-<!ENTITY nntpRemoveBody.accesskey "r">
+<!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Vybrat diskusní skupiny pro offline použití…">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Rozšířené…">
