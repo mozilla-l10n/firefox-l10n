@@ -37,27 +37,33 @@
 <!ENTITY fccMailFolder.label "jų kopijas dėti į:">
 <!ENTITY fccMailFolder.accesskey "k">
 <!ENTITY fccReplyFollowsParent.label "atsakymus dėti į aplanką, kuriame yra originalus laiškas">
-<!ENTITY fccReplyFollowsParent.accesskey "a">
+<!ENTITY fccReplyFollowsParent.accesskey "o">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Nematomoji kopija:">
 <!ENTITY bccAddress.accesskey "m">
 <!ENTITY saveMessageDlg.label "Informuoti, kad laiškas įrašytas">
-<!ENTITY saveMessageDlg.accesskey "I">
+<!ENTITY saveMessageDlg.accesskey "r">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "išsiųstų laiškų aplanką ">
-<!ENTITY sentFolderOn.accesskey "š">
+<!ENTITY sentFolderOn.label "išsiųstų laiškų aplanką">
+<!ENTITY sentFolderOn.accesskey "s">
 <!ENTITY sentInOtherFolder.label "kitą aplanką:">
-<!ENTITY sentInOtherFolder.accesskey "k">
+<!ENTITY sentInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "juodraščių aplanką">
 <!ENTITY draftsFolderOn.accesskey "u">
 <!ENTITY draftInOtherFolder.label "kitą aplanką:">
-<!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY draftInOtherFolder.accesskey "p">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "archyvo aplanką">
+<!ENTITY archivesFolderOn.accesskey "a">
+<!ENTITY archiveInOtherFolder.label "kitą aplanką:">
+<!ENTITY archiveInOtherFolder.accesskey "l">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "šablonų aplanką">
-<!ENTITY templatesFolderOn.accesskey "a">
+<!ENTITY templatesFolderOn.accesskey "b">
 <!ENTITY templateInOtherFolder.label "kitą aplanką:">
-<!ENTITY templateInOtherFolder.accesskey "k">
+<!ENTITY templateInOtherFolder.accesskey "n">
 <!ENTITY specialFoldersTitle.label "Juodraščiai ir šablonai">
 <!ENTITY keepDrafts.label "Laiškų juodraščius dėti į:">
+<!ENTITY keepArchives.label "Keep message archives in:">
 <!ENTITY keepTempltes.label "Laiškų šablonus dėti į:">
