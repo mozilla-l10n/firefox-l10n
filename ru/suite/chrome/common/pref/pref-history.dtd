@@ -1,12 +1,18 @@
 <!ENTITY pref.history.title "Журнал посещений">
 <!ENTITY pref.history.caption "Журнал посещений">
 <!ENTITY historyPages.label "Журнал посещений — это список посещённых вами ранее страниц.">
-<!ENTITY pageHis.label "Удалять страницы из журнала через">
-<!ENTITY pageHis.accesskey "У">
-<!ENTITY days.label "дней">
+<!ENTITY expireDaysMin1.label "Всегда помнить адреса посещённых страниц по меньшей мере">
+<!ENTITY expireDaysMin1.accesskey "с">
+<!ENTITY expireDaysMin2.label "дней">
+<!ENTITY expireDays1.label "Помнить адреса страниц, посещённых за последние">
+<!ENTITY expireDays1.accesskey "м">
+<!ENTITY expireDays2.label "дней">
+<!ENTITY expireSites1.label "Запоминать до">
+<!ENTITY expireSites1.accesskey "п">
+<!ENTITY expireSites2.label "посещённых страниц">
 <!ENTITY clearHistory.label "Очистить журнал">
-<!ENTITY clearHistory.accesskey "О">
+<!ENTITY clearHistory.accesskey "у">
 <!ENTITY locationBarHistory.caption "Журнал посещений строки адреса">
 <!ENTITY clearLocationBar.label "Очистить список сайтов в меню панели адреса.">
 <!ENTITY clearLocationBarButton.label "Очистить список">
-<!ENTITY clearLocationBarButton.accesskey "с">
+<!ENTITY clearLocationBarButton.accesskey "п">
