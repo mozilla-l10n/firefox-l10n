@@ -52,24 +52,42 @@
 <!ENTITY folderRebuildSummaryFile.accesskey      "i">
 <!ENTITY folderRebuildSummaryFileTip.label       "Perindeksuoti aplanką">
 
-
-<!ENTITY retention.label "Laiškų šalinimas">
-<!ENTITY retentionUseDefault.label  "Naudoti serverio nuostatas">
-<!ENTITY retentionUseDefault.accesskey "s">
-<!ENTITY daysOld.label "dienų">
-<!ENTITY message.label " naujausių laiškų">
-<!ENTITY retentionCleanup.label "Taupant vietą diske nuolat šalinti senus laiškus">
-<!ENTITY retentionDeleteMsg.label "šalinti laiškus, gautus seniau, nei prieš">
-<!ENTITY retentionDeleteMsg.accesskey "g">
-<!ENTITY retentionKeepAll.label "palikti visus laiškus">
-<!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "palikti">
+<!ENTITY retention.label "Retention Policy">
+<!ENTITY retentionUseDefault.label  "Use server defaults">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY daysOld.label "days old">
+<!ENTITY message.label "messages">
+<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted">
+<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Don't delete any messages">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "Delete all but the last">
 <!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "palikti tik neskaitytus laiškus">
-<!ENTITY retentionKeepUnread.accesskey "e">
+<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY retention.label                                    "Laiškų šalinimas">
+<!ENTITY retentionUseDefault.label                          "Naudoti serverio nuostatas">
+<!ENTITY retentionUseDefault.accesskey           "s">
+<!ENTITY daysOld.label                                      "d. laiškus">
+<!ENTITY message.label                                      "laiškų">
+<!ENTITY retentionCleanup.label                             "Taupant vietą diske, galima negrąžinamai šalinti senus laiškus">
+<!ENTITY retentionDeleteMsg.label                           "pašalinti, senesnius nei">
+<!ENTITY retentionDeleteMsg.accesskey            "s">
+<!ENTITY retentionKeepAll.label                             "nešalinti laiškų">
+<!ENTITY retentionKeepAll.accesskey              "n">
+<!ENTITY retentionKeepNew.label                             "šalinti visus išskyrus paskiausius">
+<!ENTITY retentionKeepNew.accesskey              "p">
+<!ENTITY retentionKeepUnread.label                          "visuomet šalinti skaitytus laiškus">
+<!ENTITY retentionKeepUnread.accesskey           "v">
+<!ENTITY retentionApplyToFlagged.label                      "visuomet palikti žvaigždute pažymėtus laiškus">
+<!ENTITY retentionApplyToFlagged.accesskey       "ž">
 
 <!ENTITY folderOfflineTab.label                             "Atsijungus nuo tinklo">
-<!ENTITY folderCheckForNewMessages.label              "Patikrinti, ar šiame aplanke nėra naujų laiškų">
+<!ENTITY folderCheckForNewMessages.label                    "Patikrinti, ar šiame aplanke nėra naujų laiškų">
 <!ENTITY folderCheckForNewMessages.accesskey     "P">
 
 <!ENTITY offlineFolder.check.label                          "Šio aplanko laiškus skaityti atsijungus nuo tinklo">

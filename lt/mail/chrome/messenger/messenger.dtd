@@ -340,11 +340,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "l">
 <!ENTITY newNewMsgCmd.label "Laiškas…">
 <!ENTITY newNewMsgCmd.accesskey "L">
+<!ENTITY archiveMsgCmd.label "Archyvuoti">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Atsakyti">
 <!ENTITY replyMsgCmd.accesskey "t">
 <!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replySenderCmd.label "Atsakyti siuntėjui">
-<!ENTITY replySenderCmd.accesskey "A">
+<!ENTITY replySenderCmd.accesskey "s">
 <!ENTITY replyNewsgroupCmd.label "Atsakyti naujienų grupei">
 <!ENTITY replyNewsgroupCmd.accesskey	"g">
 <!ENTITY replyToAllMsgCmd.label "Atsakyti visiems">
