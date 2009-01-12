@@ -116,5 +116,5 @@
 
 <!ENTITY bookmarksWindowTitle.label     "Gestionnaire de marque-pages">
 
-<!ENTITY search.label                   "Rechercher">
-<!ENTITY search.accesskey               "h">
+<!ENTITY search.emptytext               "Rechercher dans les marque-pages">
+<!ENTITY search.key                     "f">
