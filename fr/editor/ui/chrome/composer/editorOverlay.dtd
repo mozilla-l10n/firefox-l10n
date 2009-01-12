@@ -322,7 +322,7 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Niveaux">
-<!ENTITY layerSendToBack.tooltip "Mettre à l'arrière plan">
+<!ENTITY layerSendToBack.tooltip "Mettre à l'arrière-plan">
 <!ENTITY layerBringToFront.tooltip "Mettre au premier plan">
 
 <!ENTITY increaseIndent.label "Augmenter le retrait">
