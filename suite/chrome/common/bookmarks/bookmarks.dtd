@@ -116,5 +116,5 @@
 
 <!ENTITY bookmarksWindowTitle.label "Správce záložek">
 
-<!ENTITY search.label "Hledat">
-<!ENTITY search.accesskey "H">
+<!ENTITY search.emptytext "Hledání v záložkách">
+<!ENTITY search.key "f">

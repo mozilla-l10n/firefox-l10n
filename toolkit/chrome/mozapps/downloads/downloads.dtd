@@ -2,7 +2,7 @@
 close to the golden ratio (1.618:1) while making sure it's wide enough for long
 file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2 "485">
-<!ENTITY window.height "300"> 
+<!ENTITY window.height "300">
 
 <!ENTITY starting.label "Začínám…">
 <!ENTITY scanning.label "Antivirová kontrola…">
@@ -16,7 +16,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.label "Zrušit">
 <!ENTITY cmd.cancel.accesskey "Z">
 <!ENTITY cmd.show.label "Otevřít složku">
-<!ENTITY cmd.show.accesskey "p">
+<!ENTITY cmd.show.accesskey "s">
 <!ENTITY cmd.showMac.label "Zobrazit ve Finderu">
 <!ENTITY cmd.showMac.accesskey "F">
 <!ENTITY cmd.open.label "Otevřít">
