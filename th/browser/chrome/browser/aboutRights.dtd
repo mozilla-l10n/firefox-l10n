@@ -1,8 +1,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "About Your Rights">
-<!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
+<!ENTITY rights.intro-header    "เกี่ยวกับสิทธิ์ของคุณ">
+<!ENTITY rights.intro "&brandFullName; เป็นซอฟต์แวร์เสรีและโอเพนซอร์สซึ่งร่วมกันสร้างโดยชุมชนนับพันจากทั่วโลก มีเรื่องบางเรื่องที่คุณควรรู้ :">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,54 +12,54 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
+<!ENTITY rights.intro-point1a "คุณสามารถนำ &brandShortName; ไปใช้ได้ภายใต้เงื่อนไขสัญญาอนุญาต ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
+<!ENTITY rights.intro-point1c " นั่นหมายความว่าคุณสามารถใช้งาน ทำซ้ำ และเผยแพร่ &brandShortName; แก่ผู้อื่นได้ อีกทั้งคุณยังสามารถที่จะแก้ไขต้นรหัสโปรแกรมของ &brandShortName; เพื่อให้ตรงตามความต้องการของคุณได้ นอกจากนี้ Mozilla Public License ยังให้สิทธิ์แก่คุณที่จะเผยแพร่โปรแกรมรุ่นที่คุณแก้ไขไปแล้วได้เช่นกัน">
 
-<!ENTITY rights.intro-point2a "Mozilla does not grant you any rights to the Mozilla and Firefox trademarks or logos. Additional information on Trademarks may be found ">
-<!ENTITY rights.intro-point2b "here">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2a "Mozilla มิได้มอบสิทธิ์ใด ๆ ในเครื่องหมายการค้าและสัญลักษณ์ Mozilla และ Firefox แก่คุณ ข้อมูลเพิ่มเติมเกี่ยวกับเครื่องหมายการค้าสามารถอ่านได้">
+<!ENTITY rights.intro-point2b "ที่นี่">
+<!ENTITY rights.intro-point2c "">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Privacy policies for &vendorShortName;'s products may be found ">
-<!ENTITY rights.intro-point3b "here">
-<!ENTITY rights.intro-point3c ".">
+<!ENTITY rights.intro-point3a "นโยบายความเป็นส่วนคัวของผลิตภัณฑ์ &vendorShortName; สามารถอ่านได้">
+<!ENTITY rights.intro-point3b "ที่นี่">
+<!ENTITY rights.intro-point3c "">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Any applicable privacy policies for this product should be listed here.">
+<!ENTITY rights.intro-point3-unbranded "นโยบายความเป็นส่วนตัวใด ๆ ของผลิตภัณฑ์นี้ที่สามารถนำไปปรับใช้ได้ ควรถูกลงรายการไว้ที่นี่">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; also offers optional web site information services, such as the SafeBrowsing service; however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
-<!ENTITY rights.intro-point4b "service terms">
-<!ENTITY rights.intro-point4c ".">
+<!ENTITY rights.intro-point4a "&brandShortName; ยังมีบริการต่าง ๆ เพื่อเสริมข้อมูลเว็บไซต์ อาทิเช่น บริการ SafeBrowsing อย่างไรก็ตาม เราไม่สามารถรับประกันได้ว่าบริการเหล่านั้นจะทำงานได้ถูกต้อง 100&#37;  หรือปราศจากความผิดพลาด รายละเอียดเพิ่มเติมรวมไปถึงวิธียกเลิกใช้บริการเหล่านั้น สามารถอ่านได้ที่">
+<!ENTITY rights.intro-point4b "ข้อตกลงบริการ">
+<!ENTITY rights.intro-point4c "">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "If this product incorporates web services, any applicable service terms for the service(s) should be linked to the ">
-<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
-<!ENTITY rights.intro-point4c-unbranded " section.">
+<!ENTITY rights.intro-point4a-unbranded "ถ้าผลิตภัณฑ์นี้ได้ทำการรวมบริการเว็บไว้ ข้อตกลงบริการใด ๆ สำหรับบริการนั้น ๆ ที่สามารถนำไปปรับใช้ได้จะถูกลงรายการไว้ที่ส่วน">
+<!ENTITY rights.intro-point4b-unbranded "บริการเว็บ">
+<!ENTITY rights.intro-point4c-unbranded "">
 
-<!ENTITY rights.webservices-header "&brandFullName; Web Site Services">
+<!ENTITY rights.webservices-header "&brandFullName; บริการเว็บ">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; uses web site information services (&quot;Services&quot;), such as the SafeBrowsing service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the SafeBrowsing service by opening the application preferences, selecting the ">
-<!ENTITY rights.webservices-b "Security">
-<!ENTITY rights.webservices-c " section, and unchecking the options for &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-a "&brandFullName; ใช้บริการเสริมข้อมูลเว็บไซต์ (&quot;บริการ&quot;) เช่น บริการ SafeBrowsing ซึ่งจะมีให้ใช้พร้อมกับ &brandShortName; รุ่นที่เป็นโปรแกรมสำเร็จตามที่ได้อธิบายไว้ข้างล่าง หากคุณไม่ต้องการใช้ &quote;บริการ&quote; หรือว่าไม่ยอมรับข้อกำหนดเงื่อนไขด้านล่างนี้ คุณสามารถปิดบริการ SafeBrowsing ได้โดยเปิดการปรับแต่งแอปพลิเคชัน แล้วเลือกที่ส่วน ">
+<!ENTITY rights.webservices-b "ความปลอดภัย">
+<!ENTITY rights.webservices-c "และนำเครื่องหมายที่ตัวเลือก &quot;&blockAttackSites.label;&quot; และ &quot;&blockWebForgeries.label;&quot; ออก">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "ภาพรวมของบริการเว็บที่ได้รวมเข้าในผลิตภัณฑ์ รวมไปถึงวิธีใช้การยกเลิกใช้งานบริการเหล่านั้น ควรนำมารวมไว้ที่นี่">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">
+<!ENTITY rights.webservices-term1-unbranded "ข้อตกลงบริการที่สามารถนำไปปรับใช้ได้ ควรถูกลงรายการไว้ที่นี่">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date phishing and malware information. However, they cannot guarantee that this information is comprehensive and error-free: some risky sites may not be identified and some safe sites may be identified in error.">
-<!ENTITY rights.webservices-term2 "&vendorShortName; may discontinue or change the Services at its discretion.">
-<!ENTITY rights.webservices-term3 "You are welcome to use these Services with the accompanying version of &brandShortName;, and you have all the rights necessary to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
-<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
-<!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or cancelled without &vendorShortName;'s written agreement.">
-<!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; ตลอดจนผู้ร่วมสมทบ ผู้อนุญาตให้ใช้สิทธิ และภาคีได้ร่วมทำงานเพื่อสร้างฐานข้อมูลเว็บไซต์หลอกลวงและมัลแวร์ที่มีความเที่ยงตรงและทันสมัยที่สุด อย่างไรก็ตาม กลุ่มผู้ร่วมทำงานไม่สามารถรับประกันได้ว่าข้อมูลเหล่านี้จะครอบคลุมและปราศจากความผิดพลาด เว็บไซต์ที่มีความเสี่ยงบางเว็บอาจจะไม่ถูกบ่งชี้ว่าอันตรายและบางเว็บไซต์ที่ปลอดภัยอาจจะถูกบ่งชี้ว่าอันตรายได้  ">
+<!ENTITY rights.webservices-term2 "&vendorShortName; อาจพิจารณายกเลิกหรือแก้ไขบริการเหล่านี้ได้ในภายหลัง">
+<!ENTITY rights.webservices-term3 "เรายินดีให้คุณใช้บริการเหล่านี้ร่วมกับ &brandShortName; รุ่นที่พ่วงบริการเหล่านี้มาด้วย และคุณมีสิทธิ์ทั้งหลายตามความจำเป็นที่จะทำเช่นนั้น &vendorShortName; และผู้ให้สิทธิ์ขอสงวนสิทธิ์อื่น ๆ ทั้งหมดในบริการ ข้อกำหนดเงื่อนไขเหล่านี้มิได้มีความตั้งใจที่จะจำกัดสิทธิ์ต่าง ๆ ที่ได้ให้มาภายใต้สัญญาอนุญาตแบบโอเพนซอร์สอันนำมาใช้กับ &brandShortName; และรุ่นที่เป็นต้นรหัสของ &brandShortName;.">
+<!ENTITY rights.webservices-term4 "บริการเหล่านี้ได้รับการจัดหาให้ &quot;ตามที่เป็น&quot; &vendorShortName; ผู้ร่วมสมทบ ผู้อนุญาตให้ใช้สิทธิ์ และผู้แจกจ่ายขอปฏิเสธการรับประกันใด ๆ ทั้งที่แจ้งไว้และโดยนัยยะ รวมถึงโดยไม่จำกัดเพียงการรับประกันว่าบริการนั้นสามารถใช้เพื่อการค้าได้และตรงตามความวัตถุประสงค์เฉพาะของคุณ คุณได้ยอมรับความเสี่ยงรวมไปถึงคุณภาพและประสิทธิภาพในการใช้บริการเพื่อวัตถุประสงค์ของคุณ เขตอำนาจศาลบางแห่งไม่อนุญาตการยกเว้นหรือจำกัดการรับประกันโดยนัยยะ ดังนั้นข้อความปฏิเสธความรับผิดนี้อาจจะไม่มีผลกับคุณ">
+<!ENTITY rights.webservices-term5 "เว้นแต่ที่กฎหมายบังคับไว้ &vendorShortName; ผู้ร่วมสมทบ ผู้อนุญาตให้ใช้สิทธิ์ และผู้แจกจ่ายไม่พึงต้องรับผิดแก่ความเสียหายไม่ว่าจะในรูปแบบใด ไม่ว่าจะในทางตรงหรือทางอ้อมอันเนื่องมาจากการใช้งาน &brandShortName; และบริการต่าง ๆ  ทั้งนี้ความเสียหายตามข้อตกลงข้างต้นนี้จะต้องไม่เกิน $500 (ห้าร้อยดอลลาร์สหรัฐอเมริกา) เขตอำนาจศาลบางแห่งไม่อนุญาตการยกเว้นหรือจำกัดความเสียหายบางประเภท ดังนั้นข้อความยกเว้นและข้อจำกัดเหล่านี้อาจไม่มีผลกับคุณ">
+<!ENTITY rights.webservices-term6 "&vendorShortName; อาจปรับปรุงข้อกำหนดเงื่อนไขเหล่านี้ได้ตามความจำเป็นเมื่อเวลาผ่านไป ข้อกำหนดเงื่อนไขเหล่านี้ไม่อาจถูกแก้ไขหรือยกเลิกได้โดยไม่มีข้อตกลงที่เป็นลายลักษณ์อักษรจาก &vendorShortName;.">
+<!ENTITY rights.webservices-term7 "ข้อตกลงบริการเหล่านี้บังคับใช้โดยกฎหมายแห่งรัฐแคลิฟอร์เนีย ประเทศสหรัฐอเมริกา ทั้งนี้เว้นแต่มีข้อขัดแย้งของบทบัญญัติ หากส่วนหนึ่งส่วนใดของข้อกำหนดเงื่อนไขเหล่านี้เป็นโมฆะหรือไม่สามารถบังคับใช้ได้ ส่วนที่เหลือยังคงมีผลบังคับใช้เช่นเดิม ในกรณีที่เกิดความขัดแย้งระหว่างข้อกำหนดเงื่อนไขรุ่นที่แปลแล้วกับรุ่นภาษาอังกฤษ ให้ยึดถือรุ่นภาษาอังกฤษเป็นหลัก">
