@@ -1,15 +1,17 @@
-<!ENTITY aboutDialog.title "&brandFullName; -നെ കുറിച്ചു്">
-<!ENTITY copyright "ക്രെഡിറ്റുകള്‍">
+<!ENTITY aboutDialog.title          "&brandFullName; -നെ കുറിച്ചു്">
+<!ENTITY copyright                  "അവകാശങ്ങള്‍">
 <!ENTITY copyright.accesskey        "C">
 <!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY aboutLink "&lt; &brandFullName;-നെ കുറിച്ചു്">
+<!ENTITY aboutLink                  "&lt; &brandFullName;-നെ കുറിച്ചു്">
 <!ENTITY aboutLink.accesskey        "A">
-<!ENTITY aboutVersion "പതിപ്പു്">
-<!ENTITY closeCmdGNOME.label        "അടയ്ക്കുക">
+<!ENTITY aboutVersion               "പതിപ്പു്">
+<!ENTITY closeCmdGNOME.label        "അടയ്ക്കുക">  
 <!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightInfo              "&#169;1998-2008 Contributors. All Rights Reserved. Firefox and the 
-                                     Firefox logos are trademarks of the Mozilla Foundation.  All rights 
-                                     reserved.">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 സംഭാവനക്കാര്‍. All rights reserved. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "ലൈസന്‍സ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍">
+<!ENTITY copyrightInfo2             ").">
+
 
 
 
