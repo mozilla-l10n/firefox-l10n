@@ -1,4 +1,4 @@
- <!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -54,7 +55,7 @@
 <!ENTITY newevent.status.accesskey "S">
 <!ENTITY newevent.status.none.label "Neurčeno">
 <!ENTITY newevent.status.cancelled.label "Zrušeno">
-<!ENTITY newevent.status.tentative.label "Nepotvrzeno">
+<!ENTITY newevent.status.tentative.label "Nezávazně">
 <!ENTITY newevent.status.confirmed.label "Potvrzeno">
 <!ENTITY newevent.status.needsaction.label "Vyžaduje zásah">
 <!ENTITY newevent.status.inprogress.label "Probíhá">
@@ -161,7 +162,7 @@
 <!ENTITY event.invite.attendees.accesskey "P">
 <!ENTITY event.email.attendees.label "Napsat e-mail všem účastníkům…">
 <!ENTITY event.email.attendees.accesskey "v">
-<!ENTITY event.email.tentative.attendees.label "Napsat e-mail nerozhodnutým účastníkům…">
+<!ENTITY event.email.tentative.attendees.label "Napsat e-mail nezávazně přihlášeným účastníkům…">
 <!ENTITY event.email.tentative.attendees.accesskey "n">
 
 <!-- Toolbar -->
@@ -368,6 +369,8 @@
 <!ENTITY event.freebusy.minus "Předchozí hodina">
 <!ENTITY event.freebusy.legend.free "Volno">
 <!ENTITY event.freebusy.legend.busy "Není volno">
+<!ENTITY event.freebusy.legend.busy_tentative "Nezávazně" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Mimo kancelář">
 <!ENTITY event.freebusy.legend.unknown "Bez informací">
 
 <!-- Timezone dialog -->
