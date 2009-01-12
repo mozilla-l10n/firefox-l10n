@@ -8,6 +8,6 @@
 <!ENTITY closeCmdGNOME.label        "Închide">  
 <!ENTITY closeCmdGNOME.accesskey    "c">
 <!ENTITY copyrightInfo1             "&#169;1998-2009 Colaboratorii. Toate drepturile sunt rezervate. (">
-<!ENTITY licenseLink                "despre:licență">
+<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Informații de licențiere">
 <!ENTITY copyrightInfo2             ").">
