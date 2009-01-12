@@ -118,5 +118,5 @@
 
 <!ENTITY bookmarksWindowTitle.label     "Adresynas">
 
-<!ENTITY search.label                     "Ieškoti">
-<!ENTITY search.accesskey                 "e">
+<!ENTITY search.emptytext               "Ieškoti adresyne">
+<!ENTITY search.key                     "f">
