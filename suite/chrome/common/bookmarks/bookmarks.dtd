@@ -111,5 +111,5 @@
 <!ENTITY treecol.lastvisit.accesskey "с">
 <!ENTITY treecol.lastvisit.tooltip "Щелкните для сортировки по последнему посещению">
 <!ENTITY bookmarksWindowTitle.label "Менеджер закладок">
-<!ENTITY search.label "Поиск">
-<!ENTITY search.accesskey "и">
+<!ENTITY search.emptytext "Поиск в закладках">
+<!ENTITY search.key "f">

@@ -8,11 +8,19 @@
 <!ENTITY autoCompleteShowPopup.accesskey "з">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Подбирать совпадения только из тех адресов, которые были набраны ранее">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "б">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Только при совпадении ссылок, не заголовков сайтов ">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "л">
+<!ENTITY autoCompleteMatch.label "Совпадение">
+<!ENTITY autoCompleteMatch.accesskey "д">
+<!ENTITY autoCompleteMatchAnywhere "В любом месте ссылки или заголовка">
+<!ENTITY autoCompleteMatchWordsFirst "Везде, отдавая предпочтение границам слов">
+<!ENTITY autoCompleteMatchWords "Только на границах слов">
+<!ENTITY autoCompleteMatchStart "Только в начале ссылки или заголовка">
 <!ENTITY searchEngine.label "Поисковая машина Интернета">
 <!ENTITY showSearchEngine.label "Показывать поисковую машину по умолчанию">
 <!ENTITY showSearchEngine.accesskey "к">
 <!ENTITY unknownLocations.label "Неизвестные адреса">
 <!ENTITY domainGuessing.label "Добавлять «www.» и «.com» к адресу, если веб-страница с исходным адресом не найдена.">
-<!ENTITY domainGuessing.accesskey "б">
+<!ENTITY domainGuessing.accesskey "о">
 <!ENTITY keywords.label "Выполнять поиск в Интернете, когда введённый текст не является веб-адресом">
 <!ENTITY keywords.accesskey "п">
