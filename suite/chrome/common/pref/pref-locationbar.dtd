@@ -10,6 +10,18 @@
 <!ENTITY autoCompleteShowPopup.accesskey       "L">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Alleen voorheen door u getypte websites overeenkomen">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "A">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Alleen overeenkomende locaties, niet  de websitetitels">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "Moet voldoen aan">
+<!ENTITY autoCompleteMatch.accesskey           "M">
+<!ENTITY autoCompleteMatchAnywhere             "overal in de locatie of titel">
+<!ENTITY autoCompleteMatchWordsFirst           "overal maar met voorkeur van de woordgrenzen">
+<!ENTITY autoCompleteMatchWords                "Alleen woordgrenzen">
+<!ENTITY autoCompleteMatchStart                "Alleen aan het begin van de locatie of titel">
 
 <!ENTITY searchEngine.label                    "Internet zoekmachine">
 <!ENTITY showSearchEngine.label                "Standaard zoekmachine tonen">
