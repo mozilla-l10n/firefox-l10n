@@ -358,17 +358,19 @@
 <!ENTITY reminder.remove.accesskey                      "š">
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Pakviesti dalyvių">
-<!ENTITY event.organizer.label           "Organizuoja">
-<!ENTITY event.freebusy.suggest.slot     "Pasiūlyti laiką:">
-<!ENTITY event.freebusy.next.slot        "Vėliau " >
-<!ENTITY event.freebusy.previous.slot    " Anksčiau" >
-<!ENTITY event.freebusy.zoom             "Mastelis:">
-<!ENTITY event.freebusy.plus             "Vėlesnė valanda" >
-<!ENTITY event.freebusy.minus            "Ankstesnė valanda" >
-<!ENTITY event.freebusy.legend.free      "Laisva" >
-<!ENTITY event.freebusy.legend.busy      "Užimta" >
-<!ENTITY event.freebusy.legend.unknown   "Nežinoma" >
+<!ENTITY invite.title.label                       "Pakviesti dalyvių">
+<!ENTITY event.organizer.label                    "Organizuoja">
+<!ENTITY event.freebusy.suggest.slot              "Pasiūlyti laiką:">
+<!ENTITY event.freebusy.next.slot                 "Vėliau " >
+<!ENTITY event.freebusy.previous.slot             " Anksčiau" >
+<!ENTITY event.freebusy.zoom                      "Mastelis:">
+<!ENTITY event.freebusy.plus                      "Vėlesnė valanda" >
+<!ENTITY event.freebusy.minus                     "Ankstesnė valanda" >
+<!ENTITY event.freebusy.legend.free               "Laisvas" >
+<!ENTITY event.freebusy.legend.busy               "Užimtas" >
+<!ENTITY event.freebusy.legend.busy_tentative     "Galbūt užimtas" >
+<!ENTITY event.freebusy.legend.busy_unavailable   "Nepasiekiamas" >
+<!ENTITY event.freebusy.legend.unknown            "Nežinoma" >
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Prašom parinkti laiko juostą">
