@@ -9,7 +9,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Traducători activi</h3><ul><li>Alexandru Szasz</li><li>Comunitatea de pe tradu.softwareliber.ro</li><h3>Traducători inactivi>h3><ul><li>Iulian Ursache-Dogariu</li><li>Cristian Brînză</li></ul>">
+<!ENTITY credit.translation "<h3>Traducători activi</h3><ul><li>Alexandru Szasz</li><li>Comunitatea de pe tradu.softwareliber.ro</li></ul><h3>Traducători inactivi</h3><ul><li>Iulian Ursache-Dogariu</li><li>Cristian Brînză</li></ul>">
 
 <!ENTITY credit.memory      "In memoriam">
 <!ENTITY credit.poweredByGeckoReg "Bazat pe Gecko&reg;">
