@@ -15,7 +15,13 @@
 
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
                                                                   inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
+<!-- ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (ব্যক্তিগত ব্রাউজিং ব্যবস্থা)" -->
+
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ব্যক্তিগত ব্রাউজিং ব্যবস্থা)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "নতুন ট্যাব">
 <!ENTITY tabCmd.accesskey "T">
@@ -212,8 +218,8 @@
 <!-- ENTITY clearPrivateDataCmd.label            "ব্যক্তিগত তথ্য মুছে ফেলুন" -->
 <!-- ENTITY clearPrivateDataCmd.accesskey        "P" -->
 
-<!ENTITY privateBrowsingCmd.label            "ব্যক্তিগত ব্রাউজিং">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
+<!-- ENTITY privateBrowsingCmd.label            "ব্যক্তিগত ব্রাউজিং" -->
+<!-- ENTITY privateBrowsingCmd.accesskey        "B" -->
 
 <!ENTITY viewMenu.label         "প্রদর্শন"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -460,12 +466,13 @@
 
 <!ENTITY editBookmark.done.label                     "সমাপ্ত">
 <!ENTITY editBookmark.cancel.label                   "বাতিল">
-<!ENTITY editBookmark.removeBookmark.label           "বুকমার্ক অপসারণ">
+<!-- ENTITY editBookmark.removeBookmark.label           "বুকমার্ক অপসারণ" -->
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 <!ENTITY editBookmark.undo.label                     "পূর্বাবস্থা">
 <!ENTITY editBookmark.undo.accessKey                 "U">
 <!ENTITY editBookmark.edit.label                     "সম্পাদনা…">
 <!ENTITY editBookmark.edit.accessKey                 "E">
+<!ENTITY bookmarksToolbarChevron.tooltip "অতিরিক্ত বুকমার্ক প্রদর্শন করা হবে">
 
 <!ENTITY fullScreenMinimize.tooltip "আড়াল করুন">
 <!ENTITY fullScreenRestore.tooltip "পূর্ববর্তী অবস্থা">
@@ -500,3 +507,10 @@
 <!ENTITY identity.runBy "এটি সঞ্চালনকারী">
 <!ENTITY identity.moreInfoLinkText "অধিক বিবরণ…">
 <!ENTITY ctrlTab.search.emptyText "ট্যাবের মধ্যে অনুসন্ধান করুন">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "ব্যক্তিগত ব্রাউজিং ব্যবস্থা আরম্ভ করুন">
+<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.stop.label          "ব্যক্তিগত ব্রাউজিং ব্যবস্থা বন্ধ করুন">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
