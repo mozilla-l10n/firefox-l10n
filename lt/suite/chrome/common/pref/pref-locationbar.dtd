@@ -38,8 +38,20 @@
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Rodyti tinkamų variantų sąrašą">
 <!ENTITY autoCompleteShowPopup.accesskey       "R">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Į tinkamus variantus įtraukti tik anksčiau lankytas svetaines">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Į tinkamus variantus įtraukti tik tas svetaines, kurių adresai buvo renkami">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "t">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Tinkamus variantus parinkti pagal svetainių adresus, o ne pavadinimus">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "Atitikimų ieškoti">
+<!ENTITY autoCompleteMatch.accesskey           "k">
+<!ENTITY autoCompleteMatchAnywhere             "bet kurioje adreso ar pavadinimo vietoje">
+<!ENTITY autoCompleteMatchWordsFirst           "bet kur, pirmenybę teikiant žodžių riboms">
+<!ENTITY autoCompleteMatchWords                "tik ties žodžių ribomis">
+<!ENTITY autoCompleteMatchStart                "tik adreso ar pavadinimo pradžioje">
 
 <!ENTITY searchEngine.label                    "Žiniatinklio ieškyklė">
 <!ENTITY showSearchEngine.label                "Parodyti numatytąją ieškyklę">
