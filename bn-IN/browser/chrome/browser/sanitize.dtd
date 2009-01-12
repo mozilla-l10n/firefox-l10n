@@ -27,6 +27,7 @@
 <!ENTITY clearDataSettings2.label     "&brandShortName; থেকে প্রস্থান করা হলে, স্বয়ংক্রিয়রূপে নিম্নলিখিত সামগ্রী মুছে ফেলা হবে:">
 <!ENTITY clearDuration.everything     "সমস্ত পূর্ববর্তী তথ্য">
 <!ENTITY clearDuration.label          "মুছে ফেলা হবে ">
+<!ENTITY clearDuration.accesskey      "R">
 <!ENTITY clearDuration.last2Hours     "গত ২ ঘন্টার তথ্য">
 <!ENTITY clearDuration.last4Hours     "গত ৪ ঘন্টার তথ্য">
 <!ENTITY clearDuration.lastHour       "গত ১ ঘন্টার তথ্য">

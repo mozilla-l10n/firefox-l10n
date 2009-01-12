@@ -1,4 +1,11 @@
 <!ENTITY  history.label "পূর্ববর্তী তথ্য">
+<!ENTITY  locbar.pre.label              "অবস্থানসূচক বার ব্যবহারের সময় নিম্নলিখিত প্রস্তাবিত তথ্য প্রদর্শন করা হবে:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "পূর্ববর্তী তথ্য ও বুকমার্ক">
+<!ENTITY  locbar.history.label          "পূর্ববর্তী তথ্য">
+<!ENTITY  locbar.bookmarks.label        "বুকমার্ক">
+<!ENTITY  locbar.nothing.label          "কোনো তথ্য প্রস্তাবিত হবে না">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberBefore.label and rememberAfter.label appear on a single
@@ -48,12 +55,12 @@
 <!ENTITY  alwaysClear.label              "&brandShortName; বন্ধ করার সময় সর্বদা ব্যক্তিগত তথ্য মুছে ফেলা হবে">
 <!ENTITY  alwaysClear.accesskey          "w">
 
-<!ENTITY  askBeforeClear.label           "ব্যক্তিগত তথ্য মুছে ফেলার পূর্বে জিজ্ঞাসা করা হবে">
-<!ENTITY  askBeforeClear.accesskey       "A">
+<!-- ENTITY  askBeforeClear.label           "ব্যক্তিগত তথ্য মুছে ফেলার পূর্বে জিজ্ঞাসা করা হবে" -->
+<!-- ENTITY  askBeforeClear.accesskey       "A" -->
 
 <!ENTITY  clearDataSettings.label        "বিবিধ বৈশিষ্ট্য...">
 <!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  clearDataNow.label             "এই মুহূর্তে মুছে ফেলা হবে...">
-<!ENTITY  clearDataNow.label2            "এই মুহূর্তে মুছে ফেলা হবে">
+<!-- ENTITY  clearDataNow.label2            "এই মুহূর্তে মুছে ফেলা হবে" -->
 <!ENTITY  clearDataNow.accesskey         "N">

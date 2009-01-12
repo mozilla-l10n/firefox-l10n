@@ -12,5 +12,9 @@
 <!-- ENTITY cmdClose.macKey        "W" -->
 <!ENTITY closeCmdGNOME.accesskey    "C">
 <!ENTITY closeCmdGNOME.label        "Close">
-<!ENTITY copyrightInfo          "&#169;১৯৯৮-২০০৮ অংশগ্রহণকারীদের। সর্বস্বত্ত্ব সংরক্ষিত। Firefox এবং  
-                                 Firefox লোগো Mozilla ফাউন্ডেশনের ট্রেডমার্ক।  সর্বস্বত্ব সংরক্ষিত। ">
+<!-- ENTITY copyrightInfo          "&#169;১৯৯৮-২০০৮ অংশগ্রহণকারীদের। সর্বস্বত্ত্ব সংরক্ষিত। Firefox এবং  
+                                 Firefox লোগো Mozilla ফাউন্ডেশনের ট্রেডমার্ক।  সর্বস্বত্ব সংরক্ষিত। " -->
+<!ENTITY copyrightInfo1             "&#169;১৯৯৮-২০০৯ অংশগ্রহণকারীদের। সর্বস্বত্ত্ব সংরক্ষিত। (">
+<!ENTITY licenseLink                "পরিচিতি:লাইসেন্স">
+<!ENTITY licenseLinkText            "লাইসেন্স সংক্রান্ত তথ্য">
+<!ENTITY copyrightInfo2             ")।">
