@@ -65,5 +65,5 @@
 <!ENTITY templateInOtherFolder.accesskey "n">
 <!ENTITY specialFoldersTitle.label "Juodraščiai ir šablonai">
 <!ENTITY keepDrafts.label "Laiškų juodraščius dėti į:">
-<!ENTITY keepArchives.label "Keep message archives in:">
+<!ENTITY keepArchives.label "Archyvuojamus laiškus dėti į:">
 <!ENTITY keepTempltes.label "Laiškų šablonus dėti į:">

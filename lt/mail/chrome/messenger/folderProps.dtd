@@ -52,30 +52,13 @@
 <!ENTITY folderRebuildSummaryFile.accesskey      "i">
 <!ENTITY folderRebuildSummaryFileTip.label       "Perindeksuoti aplanką">
 
-<!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseDefault.label  "Use server defaults">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
-<!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
-
 <!ENTITY retention.label                                    "Laiškų šalinimas">
 <!ENTITY retentionUseDefault.label                          "Naudoti serverio nuostatas">
 <!ENTITY retentionUseDefault.accesskey           "s">
 <!ENTITY daysOld.label                                      "d. laiškus">
 <!ENTITY message.label                                      "laiškų">
 <!ENTITY retentionCleanup.label                             "Taupant vietą diske, galima negrąžinamai šalinti senus laiškus">
-<!ENTITY retentionDeleteMsg.label                           "pašalinti, senesnius nei">
+<!ENTITY retentionDeleteMsg.label                           "šalinti, senesnius nei">
 <!ENTITY retentionDeleteMsg.accesskey            "s">
 <!ENTITY retentionKeepAll.label                             "nešalinti laiškų">
 <!ENTITY retentionKeepAll.accesskey              "n">

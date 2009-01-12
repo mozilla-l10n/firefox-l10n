@@ -30,30 +30,32 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "Taupant vietą diske:">
-<!ENTITY doNotDownload.label "Taupant vietą diske, darbui atsijungus nuo tinklo:">
+<!ENTITY doNotDownloadPop3Movemail.label "Taupant vietą diske, neparsiųsti:">
+<!ENTITY doNotDownload.label "Taupant vietą diske, darbui atsijungus nuo tinklo neparsiųsti:">
 <!ENTITY allFoldersOffline.label "Šios paskyros laiškus laikyti šiame kompiuteryje">
-<!ENTITY allFoldersOffline.accesskey "k">
-<!ENTITY offlineNotDownload.label "neatsiųsti laiškų, didesnių kaip">
+<!ENTITY allFoldersOffline.accesskey "Š">
+<!ENTITY offlineNotDownload.label "laiškų, didesnių kaip">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "dienų laiškų tekstus">
-<!ENTITY message.label "naujausių laiškų">
-<!ENTITY nntpNotDownloadRead.label "neatsiųsti skaitytų laiškų">
-<!ENTITY nntpNotDownloadRead.accesskey "s">
-<!ENTITY nntpDownloadMsg.label "atsiųsti pastarųjų ">
+<!ENTITY daysOld.label "d.">
+<!ENTITY message.label "laiškų">
+<!ENTITY nntpNotDownloadRead.label "skaitytų laiškų">
+<!ENTITY nntpNotDownloadRead.accesskey "k">
+<!ENTITY nntpDownloadMsg.label "laiškų, senesnių nei">
 <!ENTITY nntpDownloadMsg.accesskey "p">
-<!ENTITY retentionCleanup.label "Taupant vietą diske, senus laiškus galima negrąžinamai pašalinti">
-<!ENTITY retentionKeepMsg.label "palikti laiškus, gautus per pastarąsias">
-<!ENTITY retentionKeepMsg.accesskey "p">
-<!ENTITY retentionKeepAll.label "palikti visus laiškus">
-<!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "palikti">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "palikti tik neskaitytus laiškus">
-<!ENTITY retentionKeepUnread.accesskey "p">
-<!ENTITY nntpRemoveBody.label "pašalinti laiškus, senesnius kaip">
-<!ENTITY nntpRemoveBody.accesskey "š">
+<!ENTITY retentionCleanup.label "Taupant vietą diske, senus laiškus galima negrąžinamai šalinti">
+<!ENTITY retentionKeepMsg.label "šalinti laiškus, senesnius nei">
+<!ENTITY retentionKeepMsg.accesskey "š">
+<!ENTITY retentionKeepAll.label "nešalinti laiškų">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "šalinti visus išskyrus paskiausius">
+<!ENTITY retentionKeepNew.accesskey "p">
+<!ENTITY retentionKeepUnread.label "visuomet šalinti skaitytus laiškus">
+<!ENTITY retentionKeepUnread.accesskey "v">
+<!ENTITY retentionApplyToFlagged.label "visuomet palikti žvaigždute pažymėtus laiškus">
+<!ENTITY retentionApplyToFlagged.accesskey "ž">
+<!ENTITY nntpRemoveBody.label "šalinti tik laiškus, senesnius nei">
+<!ENTITY nntpRemoveBody.accesskey "s">
 <!ENTITY offlineSelectNntp.label "Parinkti naujienų grupes darbui atsijungus…">
 <!ENTITY offlineSelectNntp.accesskey "P">
 <!ENTITY offlineImapAdvancedOffline.label "Papildomai…">

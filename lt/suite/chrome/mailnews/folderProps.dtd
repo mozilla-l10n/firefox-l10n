@@ -52,20 +52,22 @@
 <!ENTITY folderRebuildSummaryFile.accesskey      "r">
 <!ENTITY folderRebuildSummaryFileTip.label       "Perindeksuoti aplanką">
 
-<!ENTITY retention.label "Laiškų šalinimas">
-<!ENTITY retentionUseDefault.label "Naudoti serverio nuostatas">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY daysOld.label "dienas(-ų)">
-<!ENTITY message.label "naujausių laiškų">
-<!ENTITY retentionCleanup.label "Palikti laiškus:">
-<!ENTITY retentionDeleteMsg.label "šalinti laiškus, gautus seniau, nei prieš">
-<!ENTITY retentionDeleteMsg.accesskey "g">
-<!ENTITY retentionKeepAll.label "visus">
-<!ENTITY retentionKeepAll.accesskey "v">
-<!ENTITY retentionKeepNew.label "tik">
-<!ENTITY retentionKeepNew.accesskey "t">
-<!ENTITY retentionKeepUnread.label "tik neskaitytus">
-<!ENTITY retentionKeepUnread.accesskey "u">
+<!ENTITY retention.label                         "Laiškų šalinimas">
+<!ENTITY retentionUseDefault.label               "Naudoti serverio nuostatas">
+<!ENTITY retentionUseDefault.accesskey           "s">
+<!ENTITY daysOld.label                           "d. laiškus">
+<!ENTITY message.label                           "laiškų">
+<!ENTITY retentionCleanup.label                  "Palikti:">
+<!ENTITY retentionDeleteMsg.label                "ne senesnius nei">
+<!ENTITY retentionDeleteMsg.accesskey            "s">
+<!ENTITY retentionKeepAll.label                  "visus laiškus">
+<!ENTITY retentionKeepAll.accesskey              "v">
+<!ENTITY retentionKeepNew.label                  "paskiausius">
+<!ENTITY retentionKeepNew.accesskey              "p">
+<!ENTITY retentionKeepUnread.label               "tik neskaitytus">
+<!ENTITY retentionKeepUnread.accesskey           "u">
+<!ENTITY retentionApplyToFlagged.label           "visuomet palikti žvaigždute pažymėtus laiškus">
+<!ENTITY retentionApplyToFlagged.accesskey       "ž">
 
 <!ENTITY folderOfflineTab.label                  "Atsijungus nuo tinklo">
 <!ENTITY folderCheckForNewMessages.label         "Patikrinti, ar šiame aplanke nėra naujų laiškų">
