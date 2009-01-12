@@ -16,6 +16,9 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.commandkey "VK_HELP">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
 <!-- ENTITY openHelpMac2.commandkey "/" -->
 <!-- ENTITY openHelpMac2.modifiers "അക്സെല്‍,shift" -->
 <!-- ENTITY openHelpMac2.frontendCommandkey "?" -->
