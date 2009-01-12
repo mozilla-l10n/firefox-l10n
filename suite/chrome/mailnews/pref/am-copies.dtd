@@ -21,6 +21,11 @@
 <!ENTITY draftsFolderOn.accesskey "K">
 <!ENTITY draftInOtherFolder.label "Další:">
 <!ENTITY draftInOtherFolder.accesskey "a">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "Složka Archív v:">
+<!ENTITY archivesFolderOn.accesskey "r">
+<!ENTITY archiveInOtherFolder.label "Další:">
+<!ENTITY archiveInOtherFolder.accesskey "a">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Složka &quot;Šablony&quot; v:">
 <!ENTITY templatesFolderOn.accesskey "b">
@@ -28,4 +33,5 @@
 <!ENTITY templateInOtherFolder.accesskey "l">
 <!ENTITY specialFoldersTitle.label "Koncepty a šablony">
 <!ENTITY keepDrafts.label "Keep message drafts in:">
+<!ENTITY keepArchives.label "Uchovávat archív zpráv v:">
 <!ENTITY keepTempltes.label "Zachovat šablony zpráv v:">
