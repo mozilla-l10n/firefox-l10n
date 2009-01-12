@@ -36,24 +36,24 @@
 <!ENTITY offlineNotDownload.label "laiškų, didesnių kaip">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "d. laiškus">
+<!ENTITY daysOld.label "d.">
 <!ENTITY message.label "laiškų">
 <!ENTITY nntpNotDownloadRead.label "skaitytų laiškų">
 <!ENTITY nntpNotDownloadRead.accesskey "k">
 <!ENTITY nntpDownloadMsg.label "laiškų, senesnių nei">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Taupant atlaisvinti vietos diske, galima negrąžinamai šalinti senus laiškus">
-<!ENTITY retentionKeepMsg.label "pašalinti, senesnius nei">
+<!ENTITY retentionCleanup.label "Taupant vietą diske, senus laiškus galima negrąžinamai šalinti">
+<!ENTITY retentionKeepMsg.label "šalinti laiškus, senesnius nei">
 <!ENTITY retentionKeepMsg.accesskey "s">
 <!ENTITY retentionKeepAll.label "nešalinti laiškų">
-<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepNew.label "šalinti visus išskyrus paskiausius">
 <!ENTITY retentionKeepNew.accesskey "p">
 <!ENTITY retentionKeepUnread.label "visuomet šalinti skaitytus laiškus">
 <!ENTITY retentionKeepUnread.accesskey "v">
 <!ENTITY retentionApplyToFlagged.label "visuomet palikti žvaigždute pažymėtus laiškus">
 <!ENTITY retentionApplyToFlagged.accesskey "ž">
-<!ENTITY nntpRemoveBody.label "pašalinti tik senesnius nei">
+<!ENTITY nntpRemoveBody.label "šalinti tik laiškus, senesnius nei">
 <!ENTITY nntpRemoveBody.accesskey "s">
 <!ENTITY offlineSelectNntp.label "Parinkti naujienų grupes darbui atsijungus…">
 <!ENTITY offlineSelectNntp.accesskey "P">
