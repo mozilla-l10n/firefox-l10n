@@ -11,6 +11,12 @@
 <!ENTITY  noupdatesautodisabled.intro     "ਕੋਈ ਵੀ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। ਜਾਂ ਤਾਂ ਬਾਅਦ ਵਿੱਚ ਚੈੱਕ ਕਰੋ ਜਾਂ 
                                            &brandShortName; ਦੇ ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਦੀ ਚੋਣ ਕਰੋ।">
 
+<!ENTITY  manualUpdate.title              "ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਅਸਮੱਰਥ">
+<!ENTITY                 "A recommended security and stability update is available, but you do
+                                           not have the system permissions required to install it. Please contact your
+                                           system administrator, or try again from an account that has permission to
+                                           install software on this computer.">
+<!ENTITY  manualUpdateGetMsg.label        "ਤੁਸੀਂ &brandShortName; ਨਵਾਂ ਵਰਜਨ ਹਮੇਸ਼ਾਂ ਇੱਥੋ ਲੈ ਸਕਦੇ ਹੋ:">
 
 <!ENTITY  incompatibleCheck.title         "ਐਡ-ਆਨ ਕੰਪੈਟੇਬਿਲਟੀ ਚੈੱਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ">
 <!ENTITY  incompatibleCheck.label         "ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦੇ ਵਰਜਨ ਲਈ ਖੋਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
