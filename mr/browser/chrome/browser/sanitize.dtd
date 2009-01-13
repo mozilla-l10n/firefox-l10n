@@ -30,3 +30,5 @@
 <!ENTITY itemActiveLogins.label       "सक्रीय दाखलन">
 <!ENTITY itemActiveLogins.accesskey   "L">
 <!ENTITY column.width                 "14em">
+
+<!ENTITY clearDuration.accesskey      "R">

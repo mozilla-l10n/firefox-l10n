@@ -1,5 +1,5 @@
 <!ENTITY cookieExceptions.accesskey "x">
-<!ENTITY  askBeforeClear.label           "व्यक्तिगत माहिती पुसून टाकण्यापूर्वी मला विचारा">
+
 <!ENTITY  acceptCookies.label           "स्थळांकडून कुकीज स्विकारा">
 <!ENTITY  cookies.label                 "कुकीज">
 <!ENTITY  clearDataNow.accesskey         "N">
@@ -24,9 +24,8 @@
 <!ENTITY  privateData.label             "माहिती पुसून टाका">
 <!ENTITY  expire.label                  "ते कालबाह्य होतात">
 <!ENTITY  showCookies.accesskey         "S">
-<!ENTITY  clearDataNow.label2            "आताच पुसून टाका">
 <!ENTITY  alwaysClear.label              "&brandShortName; बंद केल्यावर नेहमी माझी व्यक्तिगत माहिती पुसून टाका">
-<!ENTITY  askBeforeClear.accesskey       "A">
+
 
 <!ENTITY  rememberDaysBefore.label      "इतिहासात किमान खालिल काळाकरीता समाविष्ठीत ठेवा">
 <!ENTITY  rememberDaysBefore.accesskey  "h">
@@ -34,3 +33,10 @@
 <!ENTITY  acceptThirdParty.label        "तिसरे-पक्ष कुकीज स्वीकारा">
 <!ENTITY  acceptThirdParty.accesskey    "p">
 
+<!ENTITY  locbar.pre.label              "स्थान पट्टी वापरतेवेळी, सूचवा:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "इतिहास व ओळखचिन्ह">
+<!ENTITY  locbar.history.label          "इतिहास">
+<!ENTITY  locbar.bookmarks.label        "ओळखचिन्ह">
+<!ENTITY  locbar.nothing.label          "काहिच नाही">
