@@ -6,7 +6,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "تعذّر الاتّصال">
+<!ENTITY connectionFailure.title "تعذر الاتصال">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "العنوان ممنوع">
@@ -19,7 +19,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>افحص اسم الملف بحثا عن أخطاء في الكتابة.</li> <li>تأكد أن الملف لم يُنقل، أو تغير اسمه، أو حذف.</li> </ul>">
 
 
-<!ENTITY generic.title "أخّ.">
+<!ENTITY generic.title "آه!">
 <!ENTITY generic.longDesc "<p>لا يستطيع &brandShortName; تحميل هذه الصفحة لسبب ما.</p>">
 
 <!ENTITY malformedURI.title "العنوان غير صالح">
@@ -28,7 +28,7 @@
 <!ENTITY netInterrupt.title "قُوطِع الاتصال">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "وضع بدون اتّصال">
+<!ENTITY netOffline.title "وضع بدون اتصال">
 <!ENTITY netOffline.longDesc "<ul> <li>أزل اختيار &quot;اعمل بدون اتصال&quot; من قائمة ملف وحاول مجددا.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
@@ -37,7 +37,7 @@
 <!ENTITY unsafeContentType.title "نوع ملف غير آمن">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
 
-<!ENTITY netReset.title "صُفِّر الاتّصال">
+<!ENTITY netReset.title "صُفِّر الاتصال">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "انتهت مهلة الاتصال">
@@ -46,14 +46,14 @@
 <!ENTITY protocolNotFound.title "لم يُفهم العنوان">
 <!ENTITY protocolNotFound.longDesc "<ul> <li>ربما تحتاج لتثبيت برمجيات أخرى لفتح هذا العنوان.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "يرفض الخادوم الوسيط الاتّصال">
+<!ENTITY proxyConnectFailure.title "يرفض الخادوم الوسيط الاتصال">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "تعذر العثور على الخادوم الوسيط">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>تأكد من أن اتصالك الشبكي يعمل.</li><li>إذا كان حاسوبك محميا بجدار ناري أو وسيط، تأكد من السماح ل&brandShortName; بالنفاذ إلى الوِب.</li> </ul>">
 
 <!ENTITY redirectLoop.title "لا تعيد الصفحة التوجيه بشكل سليم">
-<!ENTITY redirectLoop.longDesc "<ul> <li>قد تحدث هذه المشكلة أحيانا بسبب تعطيل أو رفض قبول السكاكر..</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>قد تحدث هذه المشكلة أحيانا بسبب تعطيل أو رفض قبول الكعكات..</li> </ul>">
 
 <!ENTITY unknownSocketType.title "استجابة غير متوقعة من الخادوم">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>تأكد من أن نظامك يحتوي على مدير أمن شخصي مُثبّت..</li> <li>قد يكون هذا بسبب إعدادات غير قياسية للخادوم..</li> </ul>">

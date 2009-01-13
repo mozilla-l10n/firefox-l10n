@@ -3,8 +3,8 @@
 <!ENTITY props.domain.label "المستضيف:">
 <!ENTITY props.path.label "المسار:">
 <!ENTITY props.secure.label "أرسِل لـ:">
-<!ENTITY props.expires.label "انتهاء الصّلاحية:">
-<!ENTITY props.policy.label "السّياسة:">
+<!ENTITY props.expires.label "انتهاء الصلاحية:">
+<!ENTITY props.policy.label "السياسة:">
 
 <!ENTITY button.allow.label "اسمح">
 <!ENTITY button.allow.accesskey "س">
@@ -13,6 +13,6 @@
 <!ENTITY button.deny.label "ارفض">
 <!ENTITY button.deny.accesskey "ر">
 
-<!ENTITY dialog.title "أكّد إعداد السكاكر">
-<!ENTITY dialog.remember.label "استعمل اختياري لكل السكاكر من هذا الموقع">
+<!ENTITY dialog.title "أكّد إعداد الكعكات">
+<!ENTITY dialog.remember.label "استعمل اختياري لكل الكعكات من هذا الموقع">
 <!ENTITY dialog.remember.accesskey "خ">
