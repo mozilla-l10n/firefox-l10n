@@ -13,13 +13,15 @@
 <!ENTITY nntpDownloadMsg.accesskey "p">
 <!ENTITY retentionCleanup.label "Pour libérer de l'espace disque, les messages anciens peuvent être définitivement supprimés">
 <!ENTITY retentionKeepMsg.label "Supprimer les messages ayant plus de">
-<!ENTITY retentionKeepMsg.accesskey "v">
+<!ENTITY retentionKeepMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Ne pas supprimer les messages">
-<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepNew.label "Supprimer tous les messages, sauf les">
-<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepNew.accesskey "S">
 <!ENTITY retentionKeepUnread.label "Toujours supprimer les messages lus">
-<!ENTITY retentionKeepUnread.accesskey "t">
+<!ENTITY retentionKeepUnread.accesskey "T">
+<!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
+<!ENTITY retentionApplyToFlagged.accesskey "o">
 <!ENTITY nntpRemoveBody.label "Uniquement les messages ayant moins de">
 <!ENTITY nntpRemoveBody.accesskey "q">
 <!ENTITY offlineSelectNntp.label "Sélectionner les groupes de discussion pour le travail hors ligne…">
