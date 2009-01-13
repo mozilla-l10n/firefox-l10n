@@ -16,6 +16,8 @@
 that require it.  -->
 <!ENTITY clearDuration.suffix         "">
 
+
+<!ENTITY clearDuration.accesskey      "R">
 <!ENTITY historySection.label         "इतिहास">
 <!ENTITY dataSection.label            "आँकड़ा">
 

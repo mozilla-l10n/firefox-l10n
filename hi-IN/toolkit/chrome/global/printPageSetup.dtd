@@ -3,8 +3,22 @@
 <!ENTITY basic.tab "प्रारूप &amp; विकल्प">
 <!ENTITY formatGroup.label "प्रारूप">
 <!ENTITY orientation.label "दिशा:">
-<!ENTITY portrait "व्यक्तिचित्र">
-<!ENTITY landscape "भूदृश्य">
+
+
+<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.accesskey "L">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.accesskey "R">
+<!ENTITY marginTop.accesskey "T">
+
+<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.accesskey  "P">
+
+<!ENTITY printBG.accesskey   "B">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY shrinkToFit.accesskey "W">
+
 <!ENTITY scale.label "पैमानाः">
 <!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "पृष्ठ चौड़ाई में रखने के लिये सिकोड़ें">

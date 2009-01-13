@@ -61,3 +61,10 @@
 <!ENTITY  update.details.label            "विवरण">
 <!ENTITY  update.installedOn.label        "इस पर संस्थापित:">
 <!ENTITY  update.status.label             "स्थिति:">
+
+<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
+                                           not have the system permissions required to install it. Please contact your
+                                           system administrator, or try again from an account that has permission to
+                                           install software on this computer.">
+<!ENTITY  manualUpdate.title              "अद्यतन में असमर्थ">
+<!ENTITY  manualUpdateGetMsg.label        "आप यहाँ से हमेशा &brandShortName; का नवीनतम संस्करण पा सकते हैं:">                                           

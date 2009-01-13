@@ -3,8 +3,11 @@
 <!ENTITY aboutLink "&lt; &brandFullName; के बारे में">
 <!ENTITY aboutVersion "संस्करण">
 <!ENTITY aboutLink.accesskey    "A">
-<!ENTITY copyrightInfo          "&#169;1998-2008 योगदानकर्ता सर्वाधिकार सुरक्षित. फ़ायरफ़ॉक्स और फ़ायरफ़ॉक्स लोगो मोज़िला फाउंडेशन के ट्रेड-मार्क हैं. सर्वाधिकार सुरक्षित.">
 <!ENTITY copyright.accesskey    "C">
 <!ENTITY copyrightGNOME.accesskey   "r">
 <!ENTITY closeCmdGNOME.accesskey    "C">
 <!ENTITY closeCmdGNOME.label        "बंद करें">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 योगदानकर्ता. सर्वाधिकार सुरक्षित. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "लाइसेंसिंग सूचना">
+<!ENTITY copyrightInfo2             ").">

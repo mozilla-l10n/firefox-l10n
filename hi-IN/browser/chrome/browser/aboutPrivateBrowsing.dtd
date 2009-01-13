@@ -1,13 +1,27 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "निजी ब्राउज़िंग">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "निजी ब्राउज़िंग">
-
+<!ENTITY privatebrowsingpage.title                 "निजी ब्राउज़िंग">
+<!ENTITY privatebrowsingpage.title.normal          "क्या आप निजी ब्राउज़िंग आरंभ करना चाहेंगे?">
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; इस सत्र का कोई इतिहास नहीं रखेगा.">
-<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; के द्वारा इस ब्राउजिंग सत्र का कोई इतिहास नहीं रखा जाएगा.  इसमें ब्राउज़र इतिहास, खोज इतिहास, डाउनलोड इतिहास, वेब फ़ॉर्म इतिहास, कुकी, और अस्थायी इंटरनेट फ़ाइलें शामिल हैं.  हालांकि, कोई भी फ़ाइलें जिसे आपने डाउनलोड किया है अथवा पुस्तचिह्न जिसे आपने बनाया है को संरक्षित रखा जाएगा.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; अभी निजी ब्राउज़िंग मोड में नहीं है.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "आप अपना हाल का इतिहास साफ कर भी शुरू कर सकते हैं.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "हाल के इतिहास साफ करें">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+<!ENTITY privatebrowsingpage.description               "किसी निजी ब्राउज़िंग सत्र में, &brandShortName; किसी ब्राउज़र इतिहास, खोज इतिहास, डाउनलोड इतिहास, खोज इतिहास, डाउनलोड इतिहास, वेब फ़ॉर्म इतिहास, कुकी, या अस्थायी इंटरनेट  फ़ाइलों को नहीं रखेगा.  हालांकि, कोई भी फ़ाइलें जिसे आपने डाउनलोड किया है अथवा पुस्तचिह्न जिसे आपने बनाया है को संरक्षित रखा जाएगा.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "निजी ब्राउज़िंग रोकने के लिए, औज़ार &gt; निजी ब्राउज़िग अनचेक करें.">
-<!ENTITY privatebrowsingpage.footerDesc                "आनंद उठाएँ!">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "आप इसके द्वारा भी आरंभ करना चाह सकते हैं">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "आपके हाल का इतिहास साफ कर रहा है">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "निजी ब्राउज़िंग आरंभ करें">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!ENTITY privatebrowsingpage.howToStop                 "निजी ब्राउज़िंग रोकने के लिए, चुनें &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "निजी ब्राउज़िंग आरंभ करने के लिए, आप इसे भी चुन सकते हैं &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "While this computer won't have a record of your browsing history, your internet service provider or employer can still track the pages you visit.">
+<!ENTITY privatebrowsingpage.learnMore                 "अधिक जानें">
+
+
+
+
+
+

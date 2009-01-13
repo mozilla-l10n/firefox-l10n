@@ -45,8 +45,14 @@
 <!ENTITY  alwaysClear.label              "हमेशा मेरे निजी आंकड़े को साफ करें जब मैं &brandShortName; को बंद करता हूँ">
 <!ENTITY  alwaysClear.accesskey          "w">
 
-<!ENTITY  askBeforeClear.label           "मुझसे पूछें जब कभी निजी आंकड़ा साफ किया जा रहा हो">
-<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  locbar.pre.label              "जब स्थान पट्टी का प्रयोग किया जा रहा है, सलाह दें:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "इतिहास व पुस्तचिह्न">
+<!ENTITY  locbar.history.label          "इतिहास">
+<!ENTITY  locbar.bookmarks.label        "पुस्तचिह्न">
+<!ENTITY  locbar.nothing.label          "कुछ नहीं">
 
 <!ENTITY  clearDataSettings.label        "सेटिंग...">
 <!ENTITY  clearDataSettings.accesskey    "t">

@@ -394,7 +394,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "संपन्न">
 <!ENTITY editBookmark.cancel.label                   "रद्द करें">
-<!ENTITY editBookmark.removeBookmark.label           "पुस्तचिह्न हटाएँ">
+
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 <!ENTITY editBookmark.undo.label                     "पहले जैसा">
 <!ENTITY editBookmark.undo.accessKey                 "U">
@@ -429,10 +429,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
                                                                   inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (निजी ब्राउज़िंग)">
 
-<!ENTITY privateBrowsingCmd.label            "निजी ब्राउजिंग">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
+
+
+<!ENTITY bookmarksToolbarChevron.tooltip "अधिक पुस्तचिह्न दिखाएँ">
+<!ENTITY feedButton.tooltip           "इस पृष्ठ की सदस्यता लें…">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(निजी ब्राउज़िंग)">
+
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "निजी ब्राउज़िंग आरंभ करें">
+<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.stop.label          "निजी ब्राउज़िंग रोकें">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 
 <!ENTITY ctrlTab.search.emptyText "टैब खोजें">
