@@ -16,10 +16,15 @@
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Otro:">
 <!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY archivesFolderOn.label "Carpeta &quot;Archivos&quot; en">
+<!ENTITY archivesFolderOn.accesskey "h">
+<!ENTITY archiveInOtherFolder.label "Otro:">
+<!ENTITY archiveInOtherFolder.accesskey "t">
 <!ENTITY templatesFolderOn.label "Carpeta &quot;Plantillas&quot; en:">
 <!ENTITY templatesFolderOn.accesskey "n">
 <!ENTITY templateInOtherFolder.label "Otro:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Borradores y plantillas">
+<!ENTITY specialFoldersTitle.label "Borradores, archivos y plantillas">
 <!ENTITY keepDrafts.label "Guardar los borradores de mensajes en:">
+<!ENTITY keepArchives.label "Guardar archivos de mensajes en:">
 <!ENTITY keepTempltes.label "Guardar las plantillas de mensajes en:">
