@@ -1,0 +1,61 @@
+# WNI�s���|�C���g�V�C ����v���O�C��
+# Maintainer: Makoto
+# Update: 2005/2/4
+
+<search 
+    name = "WNI�s���|�C���g�V�C"
+    description = "�E�F�U�[�j���[�X �s���|�C���g�V�C"
+    sourceTextEncoding = "1"
+    method = "GET"
+    action = "http://mws.wni.co.jp/cww/cgi/search_point.cgi"
+    queryEncoding = "EUC-JP"
+    queryCharset = "EUC-JP"
+>
+
+# �Z���E�X�֔ԍ�
+<input name="service" value="8">
+
+# �w
+#<input name="service" value="0">
+
+# �o�X��
+#<input name="service" value="5">
+
+# ��ƁE�r��
+#<input name="service" value="1">
+
+# �ό�n�E���W���[
+#<input name="service" value="2">
+
+# ��`�E���H
+#<input name="service" value="3">
+
+# ��{�݁E�w�Z
+#<input name="service" value="4">
+
+# ���̑�
+#<input name="service" value="9">
+
+<input name="post" user>
+<input name="msg" value="search">
+<input name="sourceid" value="Mozilla-search">
+
+<inputnext name="st" factor="30">
+<inputprev>
+
+<interpret
+    charset="EUC-JP"
+    resultEncoding="EUC-JP"
+    browserResultType="result"
+    resultListStart="<table width="100%" border="0" cellpadding="2" cellspacing="0">"
+    resultListEnd="</table>"
+    resultItemStart="<tr>"
+    resultItemEnd="</tr>"
+>
+</search>
+
+<browser
+    update="http://n.jpn.ph/mozilla/download/searchplugins/wni.src"
+    updateIcon="http://n.jpn.ph/mozilla/download/searchplugins/wni.png"
+    updateCheckDays="7"
+>

@@ -654,7 +654,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveImageAsCmd.accesskey	"v">
 <!ENTITY copyCmd.label			"コピー">
 <!ENTITY copyCmd.accesskey		"C">
-<!ENTITY selectAllCmd.label		"すべて選択">
+<!ENTITY selectAllCmd.label		"すべてを選択">
 <!ENTITY selectAllCmd.accesskey		"A">
 <!ENTITY copyLinkCmd.label		"リンク URL をコピー">
 <!ENTITY copyLinkCmd.accesskey		"C">
