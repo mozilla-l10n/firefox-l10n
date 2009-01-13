@@ -7,8 +7,8 @@
 <!ENTITY  language.accesskey                      "ق">
 
 <!ENTITY  size.label                              "اندازه:">
-<!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeProportional.accesskey              "ن">
+<!ENTITY  sizeMonospace.accesskey                 "ز">
 
 <!ENTITY  proportional.label                      "مختلف العرض:">
 <!ENTITY  proportional.accesskey                  "م">
