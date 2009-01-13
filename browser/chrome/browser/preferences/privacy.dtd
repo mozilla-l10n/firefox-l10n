@@ -50,10 +50,6 @@
 <!ENTITY  privateData.label             "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ">
 
 
-<!ENTITY  askBeforeClear.label           "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਮੈਨੂੰ ਪੁੱਛੋ">
-<!ENTITY  askBeforeClear.accesskey       "A">
-
-
 <!ENTITY  alwaysClear.label              "ਜਦੋਂ ਮੈਂ &brandShortName; ਨੂੰ ਬੰਦ ਕਰਾਂ ਤਾਂ ਹਮੇਸ਼ਾ ਮੇਰਾ ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY  alwaysClear.accesskey          "w">
 
@@ -62,5 +58,4 @@
 
 
 <!ENTITY  clearDataNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ...">
-<!ENTITY  clearDataNow.label2            "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY  clearDataNow.accesskey         "N">

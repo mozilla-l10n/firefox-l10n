@@ -1,33 +1,34 @@
-<!ENTITY sanitizePrefs.title           "Clear Private Data">
-<!ENTITY sanitizeDialog2.title         "Clear Recent History">
+<!ENTITY sanitizePrefs.title           "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY sanitizeDialog2.title         "ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
 
 <!ENTITY sanitizeItems.label          "Clear the following items now:">
 <!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "Remove ">
-<!ENTITY clearDuration.lastHour       "the last hour">
-<!ENTITY clearDuration.last2Hours     "the last 2 hours">
-<!ENTITY clearDuration.last4Hours     "the last 4 hours">
-<!ENTITY clearDuration.today          "my history for today">
-<!ENTITY clearDuration.everything     "my entire history">
+<!ENTITY clearDuration.label          "ਹਟਾਓ ">
+<!ENTITY clearDuration.accesskey      "R">
+<!ENTITY clearDuration.lastHour       "ਪਿਛਲੇ ਘੰਟੇ">
+<!ENTITY clearDuration.last2Hours     "ਪਿਛਲੇ 2 ਘੰਟੇ">
+<!ENTITY clearDuration.last4Hours     "ਪਿਛਲੇ 4 ਘੰਟੇ">
+<!ENTITY clearDuration.today          "ਅੱਜ ਲਈ ਮੇਰਾ ਅਤੀਤ">
+<!ENTITY clearDuration.everything     "ਮੇਰਾ ਪੂਰਾ ਅਤੀਤ">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearDuration.suffix         "">
 
-<!ENTITY historySection.label         "History">
-<!ENTITY dataSection.label            "Data">
+<!ENTITY historySection.label         "ਅਤੀਤ">
+<!ENTITY dataSection.label            "ਡਾਟਾ">
 
-<!ENTITY itemVisitedPages.label       "Visited Pages">
+<!ENTITY itemVisitedPages.label       "ਖੋਲ੍ਹੋ ਪੇਜ਼">
 <!ENTITY itemVisitedPages.accesskey   "V">
 <!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
 <!ENTITY itemFormSearchEntries.accesskey "F">
-<!ENTITY itemPasswords.label          "Saved Passwords">
+<!ENTITY itemPasswords.label          "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY itemPasswords.accesskey      "P">
-<!ENTITY itemCookies.label            "Cookies">
+<!ENTITY itemCookies.label            "ਕੂਕੀਜ਼">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemWebCache.label           "Web Cache">
+<!ENTITY itemWebCache.label           "ਵੈੱਬ ਕੈਸ਼">
 <!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label        "Offline Website Data">
 <!ENTITY itemOfflineApps.accesskey    "O">
