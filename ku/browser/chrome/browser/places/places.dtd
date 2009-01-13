@@ -1,25 +1,26 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Pirtûkxane">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label          "Organîze Bike">
+<!ENTITY organize.label        "Organîze Bike">
 <!ENTITY organize.accesskey    "O">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Bigire">
-<!ENTITY file.close.accesskey           "C">
+<!ENTITY file.close.accesskey           "B">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY edit.label                     "Serrast Bike">
-<!ENTITY edit.accesskey                 "E">
+<!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Xuyakirin">
-<!ENTITY views.accesskey                "V">
+<!ENTITY views.accesskey                "X">
 <!ENTITY view.toolbar.label             "Darikê Amûran">
-<!ENTITY view.toolbar.accesskey         "o">
+<!ENTITY view.toolbar.accesskey         "D">
 <!ENTITY view.columns.label             "Stûnan Nîşan Bide">
-<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.columns.accesskey         "S">
 <!ENTITY view.sort.label                "Rêzkirin">
-<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.sort.accesskey            "R">
 <!ENTITY view.unsorted.label            "Rêznebûyî">
-<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.unsorted.accesskey        "R">
 <!ENTITY view.sortAscending.label       "A > Z Rêz Bike">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A Rêz Bike">
@@ -29,95 +30,99 @@
 <!ENTITY help.usingHistory.label        "Bikaranîna Dîrokê">
 <!ENTITY help.usingHistory.accesskey    "i">
 <!ENTITY help.advancedTips.label        "Şopên pêşkeftî &amp; Dolab">
-<!ENTITY help.advancedTips.accesskey    "T">
+<!ENTITY help.advancedTips.accesskey    "t">
 
 <!ENTITY cmd.findInBookmarks.label      "Di Bijareyan de Bibîne...">
-<!ENTITY cmd.findInBookmarks.accesskey  "F">
+<!ENTITY cmd.findInBookmarks.accesskey  "D">
 <!ENTITY cmd.findCurrent.label          "Di Koleksiyona Niha de Bibîne...">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
 <!ENTITY cmd.exportHTML.label           "HTML'ê Derxe…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.exportHTML.accesskey       "e">
 <!ENTITY cmd.importHTML.label           "HTML'ê Bîne…">
-<!ENTITY cmd.importHTML.accesskey       "I">
-
+<!ENTITY cmd.importHTML.accesskey       "H">
 
 <!ENTITY cmd.backup.label               "Hilîne...">
-<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.backup.accesskey           "H">
 <!ENTITY cmd.restore2.label             "Veava Bike">
-<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restore2.accesskey         "V">
 <!ENTITY cmd.restoreFromFile.label      "Pelê Hilbijêre...">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY cmd.restoreFromFile.accesskey  "P">
 
 <!ENTITY cmd.select_all.label "Hemûyan Hilbijêre">
-<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.accesskey "a">
 <!ENTITY cmd.select_all.key "a">
 
 <!ENTITY cmd.edit_cut.label         "Jê Bike">
-<!ENTITY cmd.edit_cut.accesskey     "t">
+<!ENTITY cmd.edit_cut.accesskey     "J">
 <!ENTITY cmd.edit_cut.key           "x">
 <!ENTITY cmd.edit_copy.label        "Ji Ber Bigire">
-<!ENTITY cmd.edit_copy.accesskey    "C">
+<!ENTITY cmd.edit_copy.accesskey    "J">
 <!ENTITY cmd.edit_copy.key          "c">
 <!ENTITY cmd.edit_paste.label       "Pê Ve Bike">
 <!ENTITY cmd.edit_paste.accesskey   "P">
 <!ENTITY cmd.edit_paste.key         "v">
 <!ENTITY cmd.edit_delete.label      "Jê Bibe">
-<!ENTITY cmd.edit_delete.accesskey  "D">
+<!ENTITY cmd.edit_delete.accesskey  "J">
 <!ENTITY cmd.edit_undo.label        "Şûnde Bîne">
-<!ENTITY cmd.edit_undo.accesskey    "U">
+<!ENTITY cmd.edit_undo.accesskey    "Ş">
 <!ENTITY cmd.edit_undo.key          "z">
 <!ENTITY cmd.edit_redo.label        "Bidomîne">
-<!ENTITY cmd.edit_redo.accesskey    "R">
+<!ENTITY cmd.edit_redo.accesskey    "B">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.delete.label               "Delete This Page">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "Forget About This Site">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
 <!ENTITY cmd.open.label                  "Veke">
-<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open.accesskey              "V">
 <!ENTITY cmd.open_window.label           "Di Paceyeke Nû de Veke">
 <!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_tab.label              "Di Hilpekîneke Nû de Veke">
-<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_tab.accesskey          "D">
 <!ENTITY cmd.open_all_in_tabs.label      "Hemûyan di Hilpekînan de Veke">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "H">
 
 <!ENTITY cmd.properties.label      "Taybetmendî">
-<!ENTITY cmd.properties.accesskey  "i">
+<!ENTITY cmd.properties.accesskey  "T">
 
 <!ENTITY cmd.show_info.key  "i">
 
 <!ENTITY cmd.rename.label      "Nav Biguherîne">
-<!ENTITY cmd.rename.accesskey  "R">
+<!ENTITY cmd.rename.accesskey  "r">
 
 <!ENTITY cmd.sortby_name.label              "li Gorî Navan Rêz Bike">
-<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.sortby_name.accesskey          "l">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Bijareya Nû...">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_livemark.label            "Bijareya Zindî ya Nû...">
-<!ENTITY cmd.new_livemark.accesskey        "L">
+<!ENTITY cmd.new_livemark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Peldanka Nû...">
-<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.new_folder.accesskey          "P">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Navbeynkara Nû">
-<!ENTITY cmd.new_separator.accesskey       "S">
+<!ENTITY cmd.new_separator.accesskey       "N">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Bijareya Zindî Ji Nû VeBar Bike">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
 <!ENTITY cmd.reloadMicrosummary.label      "Sernivîsa Zindî Ji Nû Ve Bar Bike">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "r">
 
 <!ENTITY cmd.groupby_site.label      "Li gorî Malperê Kom Bike">
-<!ENTITY cmd.groupby_site.accesskey  "S">
+<!ENTITY cmd.groupby_site.accesskey  "L">
 <!ENTITY cmd.groupby_page.label      "Li gorî Rûpelê Kom Bike">
-<!ENTITY cmd.groupby_page.accesskey  "P">
+<!ENTITY cmd.groupby_page.accesskey  "p">
 <!ENTITY cmd.groupby_feed.label      "Li gorî Abonetiyê Kom Bike">
-<!ENTITY cmd.groupby_feed.accesskey  "S">
+<!ENTITY cmd.groupby_feed.accesskey  "L">
 <!ENTITY cmd.groupby_post.label      "Li gorî Peyaman Kom Bike">
 <!ENTITY cmd.groupby_post.accesskey  "P">
 
 <!ENTITY cmd.moveBookmarks.label                  "Bibe...">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
+<!ENTITY cmd.moveBookmarks.accesskey              "B">
 
 <!ENTITY col.name.label          "Nav">
 <!ENTITY col.tags.label          "Etîket">
@@ -130,27 +135,27 @@
 <!ENTITY col.lastmodified.label  "Guherîna Ddawîn">
 
 <!ENTITY search.label                              "Bigere:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.accesskey                          "B">
 <!ENTITY search.collection.label                   "Tenê Koleksiyonên Niha">
-<!ENTITY search.collection.accesskey               "C">
+<!ENTITY search.collection.accesskey               "T">
 <!ENTITY search.allBookmarks.label                 "Hemû Bijare">
-<!ENTITY search.allBookmarks.accesskey             "A">
+<!ENTITY search.allBookmarks.accesskey             "a">
 <!ENTITY search.scopeFolder.label                  "Peldanka Hilbijartî">
-<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeFolder.accesskey              "P">
 <!ENTITY search.scopeAll.label                     "Hemû Bijare">
-<!ENTITY search.scopeAll.accesskey                 "A">
+<!ENTITY search.scopeAll.accesskey                 "a">
 <!ENTITY search.scopeMenu.label                    "Pêşeka Bijareyan">
-<!ENTITY search.scopeMenu.accesskey                "M">
+<!ENTITY search.scopeMenu.accesskey                "P">
 <!ENTITY search.scopeToolbar.label                 "Darikê Amûran ê Bijareyan">
-<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeToolbar.accesskey             "D">
 <!ENTITY search.scopeDownloads.label               "Daxistin">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Dîrok">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "D">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "Avakara Lêgerînê Nîşan Bide">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "Avakara Lêgerînê Veşêre">
 <!ENTITY saveSearch.label                          "Tomar Bike">
-<!ENTITY saveSearch.accesskey                      "S">
+<!ENTITY saveSearch.accesskey                      "T">
 <!ENTITY moreCriteria.label                        "+">
 <!ENTITY advancedSearch.onlybookmarked.label       "Tenê Li Bijareyan Bigere">
 <!ENTITY advancedSearch.match.label                "Hevgirtin ">
@@ -161,7 +166,7 @@
 <!ENTITY advancedSearch.subj_visited.label         "Vebûyî">
 <!ENTITY advancedSearch.subj_location.label        "Cî">
 <!ENTITY advancedSearch.location_startswith.label  "dest pê dike digel">
-<!ENTITY advancedSearch.location_is.label          "">
+<!ENTITY advancedSearch.location_is.label          "is">
 <!ENTITY advancedSearch.location_onsite.label      "li ser malperê">
 <!ENTITY advancedSearch.time_is.label              "li ser">
 <!ENTITY advancedSearch.time_before.label          "berê">
@@ -187,30 +192,29 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.accesskey  "I">
-
 <!ENTITY feed.subscribe.label    "Xwedîkirin">
 <!ENTITY feed.subscribe.tooltip  "Abonetî">
 
 <!ENTITY view.detailsMacOSX.label  "Liste">
 <!ENTITY view.details.label        "Kîtekît">
-<!ENTITY view.details.accesskey    "D">
+<!ENTITY view.details.accesskey    "K">
 
 <!ENTITY view.addons.label   "Get View Add-ons">
 
-<!ENTITY maintenance.label   "Import and Backup">
+<!ENTITY maintenance.label      "Import and Backup">
+<!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Paş">
-<!ENTITY backCmd.accesskey   "B">
+<!ENTITY backCmd.accesskey   "P">
 <!ENTITY backButton.tooltip  "Here paş">
 
 <!ENTITY forwardCmd.label       "Pêş">
-<!ENTITY forwardCmd.accesskey   "F">
+<!ENTITY forwardCmd.accesskey   "P">
 <!ENTITY forwardButton.tooltip  "Here pêş">
 
 <!ENTITY detailsPane.more.label "Zêdetir">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Kêmtir">
-<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.less.accesskey "K">
 <!ENTITY detailsPane.noPreviewAvailable.label "Pêşdîtin">
 <!ENTITY detailsPane.selectAnItemText.description "Ji bo nîşandan û serrastkirina taybetmendiyan yekê hilbijêre">

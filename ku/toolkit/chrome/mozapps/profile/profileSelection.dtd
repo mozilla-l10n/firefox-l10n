@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "Profîla bikarhêher hilbijêre">
+<!ENTITY            windowtitle.label      "Profîla bikarhêher hilbijêre">
 
-<!ENTITY profilename.label "Navê Profîlê:">
+<!ENTITY            profilename.label      "Navê Profîlê:">
 
-<!ENTITY start.label "&brandShortName; 'ê bide destpêkirin">
-<!ENTITY exit.label "Derkeve">
+<!ENTITY            start.label            "&brandShortName; 'ê bide destpêkirin">
+<!ENTITY            exit.label             "Derkeve">
 
-<!ENTITY availprofiles.label "Profîlên Heyî">
+<!ENTITY            availprofiles.label    "Profîlên Heyî">
 
-<!ENTITY newButton.label "Profîlek biafirîne...">
-<!ENTITY newButton.accesskey "I">
-<!ENTITY renameButton.label "Profîlê ji nû ve binav bike...">
-<!ENTITY renameButton.accesskey "R">
-<!ENTITY deleteButton.label "Profîlê jê bibe...">
-<!ENTITY deleteButton.accesskey "J">
+<!ENTITY            newButton.label        "Profîlek biafirîne...">
+<!ENTITY            newButton.accesskey    "i">
+<!ENTITY            renameButton.label     "Profîlê ji nû ve binav bike...">
+<!ENTITY            renameButton.accesskey "r">
+<!ENTITY            deleteButton.label     "Profîlê jê bibe...">
+<!ENTITY            deleteButton.accesskey "j">
+
 <!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; vebijêrk û agahiyên te yên din ên di profîla bikarhêner de ne, tomar dike.">
 
-<!ENTITY pmDescription.label "&brandShortName; vebijêrk û agahiyên te yên din ên di profîla bikarhêner de ne, tomar dike.">
+<!ENTITY            offlineState.label    "Negirêdayî bixebite">
+<!ENTITY            offlineState.accesskey "N">
 
-<!ENTITY offlineState.label "Negirêdayî bixebite">
-<!ENTITY offlineState.accesskey "o">
-
-<!ENTITY autoSelect.label "Di destpêkê de pirs neke">
-<!ENTITY autoSelect.accesskey "s">
+<!ENTITY            autoSelect.label       "Di destpêkê de pirs neke">
+<!ENTITY            autoSelect.accesskey   "s">

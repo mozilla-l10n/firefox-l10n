@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Rêvebira Pergalê">
+<!ENTITY devmgr.title                           "Rêvebira Pergalê">
 
-<!ENTITY devmgr.devlist.label "Parçe û Pergalên Ewlekariyê">
-<!ENTITY devmgr.details.title "Hûragahî">
-<!ENTITY devmgr.details.title2 "Nirx">
-<!ENTITY devmgr.status.label "Rewş">
-<!ENTITY devmgr.version.label "Hugerto">
+<!ENTITY devmgr.devlist.label                   "Parçe û Pergalên Ewlekariyê">
+<!ENTITY devmgr.details.title                   "Hûragahî">
+<!ENTITY devmgr.details.title2                  "Nirx">
+<!ENTITY devmgr.status.label                    "Rewş">
+<!ENTITY devmgr.version.label                   "Hugerto">
 
-<!ENTITY devmgr.button.changeslotname.label "Navê hêlînê biguherîne">
-<!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label "Têkevê">
-<!ENTITY devmgr.button.login.accesskey "n">
-<!ENTITY devmgr.button.logout.label "Daniştinê bigire">
-<!ENTITY devmgr.button.logout.accesskey "O">
-<!ENTITY devmgr.button.changepw.label "Nasnavê Biguherîne">
-<!ENTITY devmgr.button.changepw.accesskey "P">
-<!ENTITY devmgr.button.load.label "Bar bike">
-<!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "Vala bike">
-<!ENTITY devmgr.button.unload.accesskey "U">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.changeslotname.label     "Navê hêlînê biguherîne">
+<!ENTITY devmgr.button.changeslotname.accesskey "N">
+<!ENTITY devmgr.button.login.label              "Têkevê">
+<!ENTITY devmgr.button.login.accesskey          "T">
+<!ENTITY devmgr.button.logout.label             "Daniştinê bigire">
+<!ENTITY devmgr.button.logout.accesskey         "D">
+<!ENTITY devmgr.button.changepw.label           "Nasnavê Biguherîne">
+<!ENTITY devmgr.button.changepw.accesskey       "N">
+<!ENTITY devmgr.button.load.label               "Bar bike">
+<!ENTITY devmgr.button.load.accesskey           "B">
+<!ENTITY devmgr.button.unload.label             "Vala bike">
+<!ENTITY devmgr.button.unload.accesskey         "V">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "Agahiyên derbarê modula ku dixwazî lê zê de bikî, têkevê.">
-<!ENTITY loaddevice.modname "Navê Modulê:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Modula nû ya PKCS#11 ">
-<!ENTITY loaddevice.filename "Navê Pela Modulê:">
-<!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "Bigere...">
-<!ENTITY loaddevice.browse.accesskey "B">
+<!ENTITY loaddevice.info                        "Agahiyên derbarê modula ku dixwazî lê zê de bikî, têkevê.">
+<!ENTITY loaddevice.modname                     "Navê Modulê:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "Modula nû ya PKCS#11 ">
+<!ENTITY loaddevice.filename                    "Navê Pela Modulê:">
+<!ENTITY loaddevice.filename.accesskey          "N">
+<!ENTITY loaddevice.browse                      "Bigere...">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title "Pergala PKCS#11 'ê Bar Bike">
+<!ENTITY loaddevice.title                       "Pergala PKCS#11 'ê Bar Bike">

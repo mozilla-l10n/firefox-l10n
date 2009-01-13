@@ -42,16 +42,17 @@
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Ji ber bigire">
-<!ENTITY  copy.accesskey        "C">
+<!ENTITY  copy.accesskey        "J">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Hemûyan Hilbijêre">
-<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  selectall.accesskey   "a">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Giştî">
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Navnîşan:">
 <!ENTITY  generalType           "Cure:">
+<!ENTITY  generalMode           ":">
 <!ENTITY  generalSize           "Mezinahî:">
 <!ENTITY  generalReferrer       "URL'yên Serîlêdanê:">
 <!ENTITY  generalSource         "Çavkaniya Bîrê:">
@@ -59,9 +60,8 @@
 <!ENTITY  generalEncoding       "Binasnav:">
 <!ENTITY  generalMetaName       "Nav">
 <!ENTITY  generalMetaContent    "Naverok">
-<!ENTITY  generalMode           ":">
-<!ENTITY  generalSecurityMore   "Zêdetir">
-<!ENTITY  generalSecurityMore.accesskey "o">
+<!ENTITY  generalSecurityDetails   "Details">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Medya">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -76,17 +76,17 @@
 <!ENTITY  mediaLongdesc         "Ravekirina Biberfirehî:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Cuda Tomar Bike...">
-<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs.accesskey "a">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Pêşdîtina Medyayê:">
 
 <!ENTITY  feedTab               "Xwedîkirin">
-<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedTab.accesskey     "X">
 <!ENTITY  feedSubscribe         "Abonebûn">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Destûr">
-<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permTab.accesskey     "D">
 <!ENTITY  permUseDefault        "Standard">
 <!ENTITY  permAllow             "Destûrê Bide">
 <!ENTITY  permAllowSession      "Ji bo Malperan Destûrê Bide">
@@ -98,7 +98,7 @@
 <!ENTITY  permInstall           "Pêvek an jî Dirban Saz Bike">
 
 <!ENTITY  securityTab           "Ewlekarî">
-<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityTab.accesskey "E">
 <!ENTITY  securityHeader        "Ji bo vêê rûpelê agahiyên ewlekariyê">
 <!ENTITY  securityView.certView "Sertîfîkayê Nîşan Bide">
 <!ENTITY  securityView.accesskey "V">
@@ -120,4 +120,3 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Kîtekîtên Teknîkî">
-

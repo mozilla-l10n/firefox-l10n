@@ -56,7 +56,8 @@
 </ul>
 ">
 
-
+<!ENTITY unsafeContentType.title "Hê nehatiye wergerandinX.">
+<!ENTITY unsafeContentType.longDesc "Hê nehatiye wergerandinX.">
 
 <!ENTITY netReset.title "Çewtî! Net Reset e">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -99,7 +100,6 @@ be temporary, and you can try again later.</li>
 </ul>
 ">
 
-
 <!ENTITY sharedLongDesc "<ul> <li>Dibe ku mapler ji bo demekê hatibe rawestandin an jî zêde mijûl be. Di demeke kin de dîsa biceribîne.</li> <li>Heke nikaribî tu malperan vekî, girêdana torê ya komputera xwe kontrol bike.</li> <li>Heke komputer an jî tora te ji hêla Firewall an jî proxyekê ve tê parastin, binêre ka destûra &brandShortName; 'ê ya têketina webê heye an na.</li> </ul>">
 
 <!ENTITY malwareBlocked.title "Suspected Attack Site!">
@@ -115,9 +115,7 @@ be temporary, and you can try again later.</li>
 ">
 
 <!ENTITY securityOverride.linkText "An tu dikarî awartebûnekê têxiyê...">
-
 <!ENTITY securityOverride.getMeOutOfHereButton "Min ji vê derê derxe">
-
 <!ENTITY securityOverride.exceptionButtonLabel "Awartebûnekê têxê...">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
@@ -131,7 +129,3 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
 ">
-
-
-<!ENTITY unsafeContentType.title "Hê nehatiye wergerandinX.">
-<!ENTITY unsafeContentType.longDesc "Hê nehatiye wergerandinX.">

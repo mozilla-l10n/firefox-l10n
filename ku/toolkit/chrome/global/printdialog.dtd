@@ -7,23 +7,34 @@
 <!ENTITY fpDialog.title "Pelê Tomar Bike">
 
 <!ENTITY fileCheck.label "Di Vê Pelê De Çap Bike">
+<!ENTITY fileCheck.accesskey "D">
 <!ENTITY propertiesButton.label "Taybetmendî...">
+<!ENTITY propertiesButton.accesskey "T">
 <!ENTITY descText.label "Danasîna Çaperê:">
 <!ENTITY printer.label "Çaper">
 <!ENTITY printerInput.label "Çaper:">
+<!ENTITY printerInput.accesskey "Ç">
 
 <!ENTITY printrangeGroup.label "Keviyan çap bike">
 <!ENTITY allpagesRadio.label "Hemû rûpel">
-<!ENTITY rangeRadio.label "Rûpel">
-<!ENTITY frompageInput.label "ji">
-<!ENTITY topageInput.label "ji bo">
+<!ENTITY allpagesRadio.accesskey "H">
+<!ENTITY rangeRadio.label  "Rûpel">
+<!ENTITY rangeRadio.accesskey  "R">
+<!ENTITY frompageInput.label  "ji">
+<!ENTITY frompageInput.accesskey  "j">
+<!ENTITY topageInput.label  "ji bo">
+<!ENTITY topageInput.accesskey  "j">
 <!ENTITY selectionRadio.label "Vebijartin">
+<!ENTITY selectionRadio.accesskey "V">
 
 <!ENTITY copies.label "Kopîkirin">
 <!ENTITY numCopies.label "Hejmara kopiyan:">
+<!ENTITY numCopies.accesskey "H">
 
 <!ENTITY printframeGroup.label "Çarçoweyê çap bike">
 <!ENTITY aslaidoutRadio.label "Wekî ku di pacê de xuya dibe">
-<!ENTITY selectedframeRadio.label "Çarçoweya hatiye hilbijartin">
-<!ENTITY eachframesepRadio.label "Her çarçoweyekê cuda">
-
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY selectedframeRadio.label  "Çarçoweya hatiye hilbijartin">
+<!ENTITY selectedframeRadio.accesskey  "Ç">
+<!ENTITY eachframesepRadio.label  "Her çarçoweyekê cuda">
+<!ENTITY eachframesepRadio.accesskey  "H">

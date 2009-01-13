@@ -37,34 +37,32 @@
 
 <!ENTITY errorConsole.title "Konsola Çewtiyê">
 
-<!ENTITY errFile.label "Pela Çavkanî:">
-<!ENTITY errLine.label "Xet:">
+<!ENTITY errFile.label   "Pela Çavkanî:">
+<!ENTITY errLine.label   "Xet:">
 <!ENTITY errColumn.label "Stûn:">
 
-<!ENTITY all.label "Hemû">
-<!ENTITY all.accesskey "H">
-<!ENTITY errors.label "Çewtî">
-<!ENTITY errors.accesskey "Ç">
-<!ENTITY warnings.label "Hişyarî">
+<!ENTITY all.label          "Hemû">
+<!ENTITY all.accesskey      "H">
+<!ENTITY errors.label       "Çewtî">
+<!ENTITY errors.accesskey   "Ç">
+<!ENTITY warnings.label     "Hişyarî">
 <!ENTITY warnings.accesskey "H">
-<!ENTITY messages.label "Peyam">
+<!ENTITY messages.label     "Peyam">
 <!ENTITY messages.accesskey "P">
-<!ENTITY clear.label "Paqij bike">
-<!ENTITY clear.accesskey "C">
-
-<!ENTITY copyCmd.label "Ji ber bigire">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY copyCmd.commandkey "j">
-<!ENTITY sortFirst.label "Pergala rêzkirina yekemîn > dawîn">
-<!ENTITY sortFirst.accesskey "d">
-<!ENTITY sortLast.label "Pergala rêzkirina dawîn > yekemîn">
-<!ENTITY sortLast.accesskey "k">
-<!ENTITY closeCmd.commandkey "W">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "D">
-
-<!ENTITY evaluate.label     "Evaluate">
-
+<!ENTITY clear.label        "Paqij bike">
+<!ENTITY clear.accesskey    "P">
 <!ENTITY codeEval.label     "Kod:">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.accesskey "m">
+<!ENTITY evaluate.label     "Evaluate">
+<!ENTITY evaluate.accesskey "v">
+
+<!ENTITY copyCmd.label       "Ji ber bigire">  
+<!ENTITY copyCmd.accesskey   "J"> 
+<!ENTITY copyCmd.commandkey  "j"> 
+<!ENTITY sortFirst.label     "Pergala rêzkirina yekemîn > dawîn">
+<!ENTITY sortFirst.accesskey "d">
+<!ENTITY sortLast.label      "Pergala rêzkirina dawîn > yekemîn">
+<!ENTITY sortLast.accesskey  "k">
+<!ENTITY closeCmd.commandkey "W">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "D">  

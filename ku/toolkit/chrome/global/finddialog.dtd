@@ -6,13 +6,13 @@
 <!ENTITY caseSensitiveCheckbox.label "Ji bo tîpên Girdek/hûrdek bihîstiyar">
 <!ENTITY caseSensitiveCheckbox.accesskey "b">
 <!ENTITY wrapCheckbox.label "Ji serî dest pê bike">
+<!ENTITY wrapCheckbox.accesskey "J">
 <!ENTITY findButton.label "Bibîne">
 <!ENTITY findButton.accesskey "B">
 <!ENTITY cancelButton.label "Betal">
 <!ENTITY closeButton.label "Bigire">
 <!ENTITY up.label "Jor">
-<!ENTITY up.accesskey "O">
+<!ENTITY up.accesskey "o">
 <!ENTITY down.label "Jêr">
 <!ENTITY down.accesskey "ê">
 <!ENTITY direction.label "Hêla lêgerînê">
-<!ENTITY wrapCheckbox.accesskey "l">

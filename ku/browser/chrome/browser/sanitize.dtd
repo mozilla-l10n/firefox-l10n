@@ -1,25 +1,41 @@
-<!ENTITY sanitizeDialog.title "Paqijkirina Daneyan a Taybet">
+<!ENTITY sanitizePrefs.title           "Clear Private Data">
+<!ENTITY sanitizeDialog2.title         "Clear Recent History">
 
-<!ENTITY sanitizeItems.label "Hêmanên li jêr jê bibe:">
-<!ENTITY clearDataSettings.label      "Dema ku ez bixwazim &brandShortName; daneyên min ên takekesî paqij bike, divê jê bibe:">
+<!ENTITY sanitizeItems.label          "Hêmanên li jêr jê bibe:">
+<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
+<!ENTITY clearDuration.label          "Rakirin ">
+<!ENTITY clearDuration.accesskey      "R">
+<!ENTITY clearDuration.lastHour       "the last hour">
+<!ENTITY clearDuration.last2Hours     "the last 2 hours">
+<!ENTITY clearDuration.last4Hours     "the last 4 hours">
+<!ENTITY clearDuration.today          "my history for today">
+<!ENTITY clearDuration.everything     "my entire history">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
 
-<!ENTITY itemHistory.label "Mêjûya Gerokê">
-<!ENTITY itemHistory.accesskey "G">
-<!ENTITY itemFormSearchHistory.label "Formên Tomarbûyî û Mêjûya Lêgerînê">
-<!ENTITY itemFormSearchHistory.accesskey "F">
-<!ENTITY itemPasswords.label "Nasnavên Tomarbûyî">
-<!ENTITY itemPasswords.accesskey "N">
-<!ENTITY itemCookies.label "Çerez">
-<!ENTITY itemCookies.accesskey "Ç">
-<!ENTITY itemCache.label "Pêşbîr">
-<!ENTITY itemCache.accesskey "p">
+<!ENTITY historySection.label         "History">
+<!ENTITY dataSection.label            "Dane">
+
+<!ENTITY itemVisitedPages.label       "Visited Pages">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
+<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemPasswords.label          "Nasnavên Tomarbûyî">
+<!ENTITY itemPasswords.accesskey      "N">
+<!ENTITY itemCookies.label            "Çerez">
+<!ENTITY itemCookies.accesskey        "Ç">
+<!ENTITY itemWebCache.label           "Web Cache">
+<!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label        "Daneyên Malperên Negirêdayî">
-<!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloads.label "Mêjûya Daxistinê">
-<!ENTITY itemDownloads.accesskey "D">
-<!ENTITY itemSessions.label "Daniştinên Ku Nasnameyên Wan Rast Hatine Dîtin">
-<!ENTITY itemSessions.accesskey "K">
+<!ENTITY itemOfflineApps.accesskey    "D">
+<!ENTITY itemDownloadList.label       "Download List">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemActiveLogins.label       "Active Logins">
+<!ENTITY itemActiveLogins.accesskey   "L">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

@@ -36,26 +36,26 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "&brandShortName; Moda Ewlekariyê">
-<!ENTITY window.width "37em">
+<!ENTITY safeModeDialog.title         "&brandShortName; Moda Ewlekariyê">
+<!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; vêga di moda ewlekariyê de tê xebitandin. Di vê modê de hemû mîhengên te yên taybet, tem û pêvekên te bêbandor in.">
-<!ENTITY safeModeDescription2.label "Dikarî guhertinên li jêr çêkî:">
+<!ENTITY safeModeDescription.label    "&brandShortName; vêga di moda ewlekariyê de tê xebitandin. Di vê modê de hemû mîhengên te yên taybet, tem û pêvekên te bêbandor in.">
+<!ENTITY safeModeDescription2.label   "Dikarî guhertinên li jêr çêkî:">
 
-<!ENTITY disableAddons.label "Disable all add-ons">
-<!ENTITY disableAddons.accesskey "D">
+<!ENTITY disableAddons.label          "Disable all add-ons">
+<!ENTITY disableAddons.accesskey      "D">
 
-<!ENTITY resetToolbars.label "Darikê amûran û mîhengên kontrolê reset bike.">
-<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY resetToolbars.label          "Darikê amûran û mîhengên kontrolê reset bike.">
+<!ENTITY resetToolbars.accesskey      "r">
 
-<!ENTITY resetBookmarks.label "Bijareyan bîne rewşa &brandShortName; ya pêşsalixbûyî.">
-<!ENTITY resetBookmarks.accesskey "b">
+<!ENTITY resetBookmarks.label         "Bijareyan bîne rewşa &brandShortName; ya pêşsalixbûyî.">
+<!ENTITY resetBookmarks.accesskey     "B">
 
-<!ENTITY resetUserPrefs.label "Hemû mîhengên bikarhêneran bîne rewşa &brandShortName; ya pêşsalixbûyî.">
-<!ENTITY resetUserPrefs.accesskey "m">
+<!ENTITY resetUserPrefs.label         "Hemû mîhengên bikarhêneran bîne rewşa &brandShortName; ya pêşsalixbûyî.">
+<!ENTITY resetUserPrefs.accesskey     "m">
 
-<!ENTITY restoreSearch.label "Restore default search engines">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.label          "Restore default search engines">
+<!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Guhertinan bisepîne û ji nû ve bide xebitandin">
-<!ENTITY continueButton.label "Di moda ewlekariyê de berdewam bike">
+<!ENTITY continueButton.label         "Di moda ewlekariyê de berdewam bike">
