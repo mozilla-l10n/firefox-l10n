@@ -8,6 +8,14 @@
 <!ENTITY autoCompleteShowPopup.accesskey "M">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Hacer coincidir sólo sitios web que haya escrito previamente">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "H">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Buscar coincidencias sólo en las direcciones, no en los títulos de sitios web">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
+<!ENTITY autoCompleteMatch.label "Buscar coincidencias">
+<!ENTITY autoCompleteMatch.accesskey "B">
+<!ENTITY autoCompleteMatchAnywhere "Cualquier parte en dirección o el título">
+<!ENTITY autoCompleteMatchWordsFirst "Cualquier parte, dando preferencia a los límites de palabras">
+<!ENTITY autoCompleteMatchWords "Sólo en los límites de palabras">
+<!ENTITY autoCompleteMatchStart "Sólo al principio de la dirección o el título">
 <!ENTITY searchEngine.label "Motor de búsqueda en Internet">
 <!ENTITY showSearchEngine.label "Mostrar el buscador por defecto">
 <!ENTITY showSearchEngine.accesskey "o">

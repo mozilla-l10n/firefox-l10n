@@ -20,6 +20,8 @@
 <!ENTITY retentionKeepNew.accesskey "x">
 <!ENTITY retentionKeepUnread.label "Eliminar siempre los mensajes leídos">
 <!ENTITY retentionKeepUnread.accesskey "i">
+<!ENTITY retentionApplyToFlagged.label "Conservar siempre mensajes señalados">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Sólo los cuerpos de mensajes con menos de">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Selecc. grupos de noticias para uso sin conexión…">
