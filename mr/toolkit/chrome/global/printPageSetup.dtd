@@ -7,8 +7,10 @@
 <!ENTITY formatGroup.label   "स्वरूपण">
 
 <!ENTITY orientation.label   "परिचितता:">
-<!ENTITY portrait            "उभे">
-<!ENTITY landscape           "आडवे">
+<!ENTITY portrait.label      "उभे">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "आडवे">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "प्रमाण:">
 <!ENTITY scalePercent        "&#037;">
@@ -51,3 +53,11 @@
 
 <!ENTITY customPrompt.title  "मनासारखे...">
 <!ENTITY customPrompt.prompt "आपले एच्छिक शिर्षलेख/तळलेख मजकुर प्रविष्ट करा">
+
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.accesskey "R">
+<!ENTITY printBG.accesskey   "B">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY shrinkToFit.accesskey "W">
