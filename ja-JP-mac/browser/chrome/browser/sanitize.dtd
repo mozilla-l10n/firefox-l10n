@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label			"履歴を消去する期間: ">
+<!ENTITY clearDuration.accesskey		"R">
 <!ENTITY clearDuration.lastHour			"1 時間以内">
 <!ENTITY clearDuration.last2Hours		"2 時間以内">
 <!ENTITY clearDuration.last4Hours		"4 時間以内">
@@ -21,7 +22,7 @@ that require it.  -->
 
 <!ENTITY itemVisitedPages.label			"表示したページの履歴">
 <!ENTITY itemVisitedPages.accesskey		"V">
-<!ENTITY itemFormSearchEntries.label		"フォームと検索エントリーの履歴">
+<!ENTITY itemFormSearchEntries.label		"フォーム履歴と検索履歴">
 <!ENTITY itemFormSearchEntries.accesskey	"F">
 <!ENTITY itemPasswords.label			"保存されているパスワード">
 <!ENTITY itemPasswords.accesskey		"P">
