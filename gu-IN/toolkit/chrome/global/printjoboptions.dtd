@@ -19,3 +19,17 @@
 <!ENTITY bottomInput.label "નીચે:">
 <!ENTITY leftInput.label "ડાબું:">
 <!ENTITY rightInput.label "જમણું:">
+
+<!ENTITY paperInput.accesskey "P">
+<!ENTITY plexInput.accesskey "m">
+<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY cmdInput.accesskey "o">
+<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY colorRadio.accesskey "C">
+<!ENTITY colorspaceInput.accesskey "s">
+<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.accesskey "B">
+<!ENTITY leftInput.accesskey "L">
+<!ENTITY rightInput.accesskey "R">

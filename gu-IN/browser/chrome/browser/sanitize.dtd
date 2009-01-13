@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "દૂર કરો ">
+<!ENTITY clearDuration.accesskey      "R">
 <!ENTITY clearDuration.lastHour       "છેલ્લો કલાક">
 <!ENTITY clearDuration.last2Hours     "છેલ્લા ૨ કલાકો">
 <!ENTITY clearDuration.last4Hours     "છેલ્લા ૪ કલાકો">

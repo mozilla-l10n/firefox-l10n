@@ -374,7 +374,6 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "કે જે આના દ્વારા ચલાવવામાં આવે છે">
-<!ENTITY editBookmark.removeBookmark.label           "બુકમાર્ક દૂર કરો">
 <!ENTITY editBookmark.undo.label                     "રદ કરો">
 
 <!ENTITY urlbar.emptyText             "ઈતિહાસ અને બુકમાર્કમાં શોધો">
@@ -393,7 +392,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyVideoURLCmd.label        "વીડિયો સ્થાનની નકલ કરો">
 <!ENTITY ctrlTab.search.emptyText "શોધ ટેબો">
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (ખાનગી બ્રાઉઝીંગ)">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "નિયંત્રણો છુપાવો">
 <!ENTITY mediaMute.accesskey         "M">
@@ -406,8 +404,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mediaShowControls.label     "નિયંત્રણો બતાવો">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaUnmute.label           "મૂંગાપણું દૂર કરો">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
-<!ENTITY privateBrowsingCmd.label            "ખાનગી બ્રાઉઝીંગ">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY reloadImageCmd.label         "ઈમેજ પુનઃલાવો">
 <!ENTITY saveAudioCmd.accesskey       "v">
@@ -420,3 +416,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY sendVideoCmd.label           "વીડિયો મોકલો…">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewVideoCmd.label           "વીડિયો જુઓ">
+
+<!ENTITY bookmarksToolbarChevron.tooltip "વધુ બુકમાર્કો બતાવો">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ખાનગી બ્રાઉઝીંગ)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.label         "ખાનગી બ્રાઉઝીંગ શરૂ કરો">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.label          "ખાનગી બ્રાઉઝીંગ અટકાવો">
