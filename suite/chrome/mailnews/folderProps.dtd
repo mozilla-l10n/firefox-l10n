@@ -51,18 +51,20 @@
 
 <!ENTITY retention.label "Politique de conservation">
 <!ENTITY retentionUseDefault.label "Utiliser les paramètres par défaut du serveur">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY daysOld.label "derniers jours">
-<!ENTITY message.label "messages">
+<!ENTITY retentionUseDefault.accesskey "U">
+<!ENTITY daysOld.label "jours">
+<!ENTITY message.label "les plus récents">
 <!ENTITY retentionCleanup.label "Conserver :">
 <!ENTITY retentionDeleteMsg.label "Supprimer les messages ayant plus de ">
-<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Tous les messages">
 <!ENTITY retentionKeepAll.accesskey "T">
-<!ENTITY retentionKeepNew.label "Les plus récents">
-<!ENTITY retentionKeepNew.accesskey "r">
+<!ENTITY retentionKeepNew.label "Les">
+<!ENTITY retentionKeepNew.accesskey "L">
 <!ENTITY retentionKeepUnread.label "Uniquement les messages non-lus">
-<!ENTITY retentionKeepUnread.accesskey "U">
+<!ENTITY retentionKeepUnread.accesskey "n">
+<!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
+<!ENTITY retentionApplyToFlagged.accesskey "o">
 
 <!ENTITY folderOfflineTab.label "Hors ligne">
 <!ENTITY folderCheckForNewMessages.label "Surveiller les nouveaux messages dans ce dossier">
