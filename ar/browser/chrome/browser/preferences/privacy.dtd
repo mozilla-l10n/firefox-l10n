@@ -1,4 +1,4 @@
-<!ENTITY history.label "التّاريخ">
+<!ENTITY history.label "التاريخ">
 
 <!ENTITY  locbar.pre.label              "عند استخدام شريط العناوين، اقترح:">
 <!ENTITY  locbar.pre.accessKey          "ح">
@@ -26,12 +26,12 @@
 <!ENTITY rememberDownloads.accesskey "ن">
 
 
-<!ENTITY cookies.label "السكاكر">
+<!ENTITY cookies.label "الكعكات">
 
-<!ENTITY acceptCookies.label "اقبل السكاكر من المواقع">
+<!ENTITY acceptCookies.label "اقبل الكعكات من المواقع">
 <!ENTITY acceptCookies.accesskey "ق">
 
-<!ENTITY acceptThirdParty.label "اقبل السكاكر من أطراف أخرى">
+<!ENTITY acceptThirdParty.label "اقبل الكعكات من أطراف أخرى">
 <!ENTITY acceptThirdParty.accesskey "ب">
 
 <!ENTITY keepUntil.label "احتفظ بها حتى:">
@@ -44,7 +44,7 @@
 <!ENTITY cookieExceptions.label "الاستثناءات…">
 <!ENTITY cookieExceptions.accesskey "س">
 
-<!ENTITY showCookies.label "اعرض السكاكر…">
+<!ENTITY showCookies.label "اعرض الكعكات…">
 <!ENTITY showCookies.accesskey "ع">
 
 
