@@ -7,6 +7,7 @@
 
 
 <!ENTITY clearDuration.label "Verwyder ">
+<!ENTITY clearDuration.accesskey "R">
 <!ENTITY clearDuration.lastHour "die afgelope uur">
 <!ENTITY clearDuration.last2Hours "die afgelope 2 uur">
 <!ENTITY clearDuration.last4Hours "die afgelope 4 uur">

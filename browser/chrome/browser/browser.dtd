@@ -7,9 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (private blaaiery)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nuwe oortjie">
 <!ENTITY tabCmd.accesskey "O">
@@ -69,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
 <!ENTITY organizeBookmarks.label "Organiseer boekmerke…">
 <!ENTITY bookmarkAllCmd.label "Boekmerk alle oortjies…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
 
 <!ENTITY backCmd.label "Terug">
 <!ENTITY backCmd.accesskey "T">
@@ -163,9 +166,13 @@
 
 <!ENTITY clearRecentHistoryCmd.label "Maak onlangse geskiedenis skoon">
 <!ENTITY clearRecentHistoryCmd.accesskey "G">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.label "Private blaaiery">
-<!ENTITY privateBrowsingCmd.accesskey "B">
+<!ENTITY privateBrowsingCmd.start.label "Start Private Browsing">
+<!ENTITY privateBrowsingCmd.start.accesskey "B">
+<!ENTITY privateBrowsingCmd.stop.label "Stop Private Browsing">
+<!ENTITY privateBrowsingCmd.stop.accesskey "B">
+<!ENTITY privateBrowsingCmd.commandkey "b">
 
 <!ENTITY viewMenu.label "Bekyk">
 <!ENTITY viewMenu.accesskey "B">
@@ -402,7 +409,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label "Klaar">
 <!ENTITY editBookmark.cancel.label "Kanselleer">
-<!ENTITY editBookmark.removeBookmark.label "Verwyder boekmerk">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "Ontdoen">
 <!ENTITY editBookmark.undo.accessKey "O">
