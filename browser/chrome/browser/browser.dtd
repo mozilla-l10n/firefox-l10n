@@ -365,7 +365,7 @@
 <!ENTITY fullScreenExit.accesskey "F">
 <!ENTITY editBookmark.done.label                     "झाले">
 <!ENTITY editBookmark.cancel.label                   "रद्द करा">
-<!ENTITY editBookmark.removeBookmark.label           "ओळखचिन्ह काढूण टाका">
+
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 <!ENTITY editBookmark.undo.label                     "पुन्हा करा">
 <!ENTITY editBookmark.undo.accessKey                 "U">
@@ -373,11 +373,11 @@
 <!ENTITY editBookmark.edit.accessKey                 "E">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (व्यक्तिगत संचारन)">
+
 <!ENTITY clearRecentHistoryCmd.label            "अलिकडील इतिहास नष्ट करा">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
-<!ENTITY privateBrowsingCmd.label            "व्यक्तिगत संचारन">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
+
+
 <!ENTITY reloadImageCmd.label         "प्रतिमा पुन्ह दाखल करा">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewVideoCmd.label           "विडीओ पहा">
@@ -407,3 +407,16 @@
 <!ENTITY mediaHideControls.label     "नियंत्रण लपवा">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY ctrlTab.search.emptyText "टॅब शोधा">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "व्यक्तिगत संचारन सुरू करा">
+<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.stop.label          "व्यक्तिगत संचारन बंद करा">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(व्यक्तिगत संचारन)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
+<!ENTITY bookmarksToolbarChevron.tooltip "आणखी ओळखिन्ह दर्शवा">
