@@ -7,4 +7,7 @@
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY closeCmdGNOME.label        "બંધ કરો">  
 <!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightInfo          "&#169;1998-2008 ફાળો આપનારાઓ. બધા નિયમો આરક્ષિત છે. Firefox અને Firefox લોગો એ Mozilla ફાઉન્ડેશનના ટ્રેડમાર્કો છે. બધા નિયમો આરક્ષિત છે.">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 ફાળો આપનારાઓ. બધા નિયમો આરક્ષિત છે. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "લાઈસન્સ જાણકારી">
+<!ENTITY copyrightInfo2             ").">

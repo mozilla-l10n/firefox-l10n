@@ -1,3 +1,4 @@
-<!ENTITY  brandShortName "Bon Echo">
-<!ENTITY  brandFullName "Bon Echo">            
-<!ENTITY  vendorShortName "Mozilla">
+<!ENTITY  brandShortName        "Minefield">
+<!ENTITY  brandFullName         "Minefield">            
+<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  logoCopyright         " ">
