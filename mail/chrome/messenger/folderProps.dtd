@@ -61,6 +61,8 @@
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Siempre eliminar los mensajes leídos">
 <!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionApplyToFlagged.label "Mantener siempre los mensajes estrellados">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY folderOfflineTab.label "Sin conexión">
 <!ENTITY folderCheckForNewMessages.label "Comprobar esta carpeta en busca de nuevos mensajes">
 <!ENTITY folderCheckForNewMessages.accesskey "C">
