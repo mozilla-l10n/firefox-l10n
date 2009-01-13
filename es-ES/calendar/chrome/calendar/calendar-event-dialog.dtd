@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
    -   Proyecto NAVE (http://www.proyectonave.es/)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -326,6 +327,8 @@
 <!ENTITY event.freebusy.minus "Hora anterior">
 <!ENTITY event.freebusy.legend.free "Libre">
 <!ENTITY event.freebusy.legend.busy "Ocupado">
+<!ENTITY event.freebusy.legend.busy_tentative "Tentativo">
+<!ENTITY event.freebusy.legend.busy_unavailable "Fuera de la oficina">
 <!ENTITY event.freebusy.legend.unknown "Sin información">
 <!ENTITY timezone.title.label "Por favor, especifique la zona horaria">
 <!ENTITY read.only.general.label "General">
