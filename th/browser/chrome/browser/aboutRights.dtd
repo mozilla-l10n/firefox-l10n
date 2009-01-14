@@ -47,7 +47,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; ใช้บริการเสริมข้อมูลเว็บไซต์ (&quot;บริการ&quot;) เช่น บริการ SafeBrowsing ซึ่งจะมีให้ใช้พร้อมกับ &brandShortName; รุ่นที่เป็นโปรแกรมสำเร็จตามที่ได้อธิบายไว้ข้างล่าง หากคุณไม่ต้องการใช้ &quot;บริการ&quot; หรือว่าไม่ยอมรับข้อกำหนดเงื่อนไขด้านล่างนี้ คุณสามารถปิดบริการ SafeBrowsing ได้โดยเปิดการปรับแต่งแอปพลิเคชัน แล้วเลือกที่ส่วน ">
 <!ENTITY rights.webservices-b "ความปลอดภัย">
-<!ENTITY rights.webservices-c-190 "และนำเครื่องหมายที่ตัวเลือก &quot;&tellMaybeAttackSite.label;&quot; และ &quot;&tellMaybeForgery.label;&quot; ออก">
+<!ENTITY rights.webservices-c "และนำเครื่องหมายที่ตัวเลือก &quot;&blockAttackSites.label;&quot; และ &quot;&blockWebForgeries.label;&quot; ออก">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "ภาพรวมของบริการเว็บที่ได้รวมเข้าในผลิตภัณฑ์ รวมไปถึงวิธีใช้การยกเลิกใช้งานบริการเหล่านั้น ควรนำมารวมไว้ที่นี่">
