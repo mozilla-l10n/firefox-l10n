@@ -361,7 +361,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label "Готово">
 <!ENTITY editBookmark.cancel.label "Скасувати">
-<!ENTITY editBookmark.removeBookmark.label "Прибрати">
 <!ENTITY editBookmark.removeBookmark.accessKey "П">
 <!ENTITY editBookmark.undo.label "Повернути">
 <!ENTITY editBookmark.undo.accessKey "о">
@@ -421,7 +420,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewVideoCmd.accesskey       "г">
 <!ENTITY viewVideoCmd.label           "Переглянути відео">
 
-<!ENTITY privateBrowsingCmd.accesskey        "П">
-<!ENTITY privateBrowsingCmd.label            "Потайливий режим">
+<!ENTITY bookmarksToolbarChevron.tooltip "Показати решту закладок">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Потайливий режим)">
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+<!ENTITY privateBrowsingCmd.start.label         "Увімкнути потайливий режим">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+<!ENTITY privateBrowsingCmd.start.accesskey     "П">
+<!ENTITY privateBrowsingCmd.stop.label          "Вимкнути потайливий режим">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "В">
 
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Потайливий режим)">
