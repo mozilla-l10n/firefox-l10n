@@ -20,6 +20,8 @@
 <!ENTITY retentionKeepNew.accesskey "a">
 <!ENTITY retentionKeepUnread.label "Gelesene Nachrichten immer löschen">
 <!ENTITY retentionKeepUnread.accesskey "g">
+<!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
+<!ENTITY retentionApplyToFlagged.accesskey "z">
 <!ENTITY nntpRemoveBody.label "Behalte nur Nachrichtentexte, die neuer sind als">
 <!ENTITY nntpRemoveBody.accesskey "N">
 <!ENTITY offlineSelectNntp.label "Newsgruppen zum Offline-Lesen wählen…">

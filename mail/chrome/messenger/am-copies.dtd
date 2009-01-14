@@ -21,11 +21,17 @@
 <!ENTITY draftsFolderOn.accesskey "E">
 <!ENTITY draftInOtherFolder.label "Anderer Ordner:">
 <!ENTITY draftInOtherFolder.accesskey "n">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "Ordner &quot;Archiv&quot; in:">
+<!ENTITY archivesFolderOn.accesskey "v">
+<!ENTITY archiveInOtherFolder.label "Anderer Ordner:">
+<!ENTITY archiveInOtherFolder.accesskey "d">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Ordner &quot;Vorlagen&quot; in:">
 <!ENTITY templatesFolderOn.accesskey "V">
 <!ENTITY templateInOtherFolder.label "Anderer Ordner:">
-<!ENTITY templateInOtherFolder.accesskey "d">
-<!ENTITY specialFoldersTitle.label "Entwürfe und Vorlagen">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "Entwürfe, Archiv und Vorlagen">
 <!ENTITY keepDrafts.label "Entwürfe speichern unter:">
+<!ENTITY keepArchives.label "Archiv speichern unter:">
 <!ENTITY keepTempltes.label "Vorlagen speichern unter:">
