@@ -312,6 +312,9 @@
 <!ENTITY newMsgCmd.accesskey            "m">
 <!ENTITY newNewMsgCmd.label             "Wiadomość">
 <!ENTITY newNewMsgCmd.accesskey         "m">
+<!ENTITY archiveMsgCmd.label            "Archiwizuj">
+<!ENTITY archiveMsgCmd.accesskey        "A">
+<!ENTITY archiveMsgCmd.key              "a">
 <!ENTITY replyMsgCmd.label              "Odpowiedz">
 <!ENTITY replyMsgCmd.accesskey          "d">
 <!ENTITY replyMsgCmd.key                "r">

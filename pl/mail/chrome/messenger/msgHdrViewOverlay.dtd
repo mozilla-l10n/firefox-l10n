@@ -60,19 +60,19 @@
 <!ENTITY originalWebsite2.label   "witryna internetowa ">
 
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
-<!ENTITY editMessageButton.label  "Edytuj…">
-<!ENTITY replyButton.label        "odpowiedz…">
-<!ENTITY forwardButton.label      "przekaż…">
-<!ENTITY junkButton.label         "oznacz jako niechcianą">
-<!ENTITY trashButton.tooltiptext  "Usuń">
-
-<!ENTITY otherActionsButton.label "inne">
-<!ENTITY saveAsMenuItem.label     "zapisz jako…">
-<!ENTITY saveAsMenuItem.accesskey "z">
-<!ENTITY viewSourceMenuItem.label "wyświetl źródło…">
+<!ENTITY editMessageButton.label      "edytuj…">
+<!ENTITY archiveButton.label          "archiwizuj"><!-- FIXME: wielokropki, bmo 451995 -->
+<!ENTITY replyButton.label            "odpowiedz"><!-- FIXME: wielokropki -->
+<!ENTITY forwardButton.label          "przekaż"><!-- FIXME: wielokropki -->
+<!ENTITY junkButton.label             "oznacz jako niechcianą">
+<!ENTITY trashButton.tooltiptext      "Usuń">
+<!ENTITY otherActionsButton.label     "inne">
+<!ENTITY saveAsMenuItem.label         "zapisz jako…">
+<!ENTITY saveAsMenuItem.accesskey     "z">
+<!ENTITY viewSourceMenuItem.label     "wyświetl źródło…">
 <!ENTITY viewSourceMenuItem.accesskey "w">
-<!ENTITY hideDetailsButton.label  "ukryj szczegóły">
-<!ENTITY showDetailsButton.label  "Wyświetl szczegóły"><!-- FIXME: tooltip, not label -->
+<!ENTITY hideDetailsButton.label      "ukryj szczegóły">
+<!ENTITY showDetailsButton.label      "Wyświetl szczegóły"><!-- FIXME: tooltip, not label -->
 
 <!ENTITY openAttachmentCmd.label           "Otwórz">
 <!ENTITY openAttachmentCmd.accesskey       "O">
