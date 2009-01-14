@@ -7,17 +7,18 @@
 <!ENTITY formatGroup.label "Формат">
 
 <!ENTITY orientation.label "Орієнтація:">
-<!ENTITY portrait "Книжна">
-<!ENTITY landscape "Альбомна">
 
 <!ENTITY scale.label "Масштаб:">
+<!ENTITY scale.accesskey     "М">
 <!ENTITY scalePercent "&#037;">
 
 <!ENTITY shrinkToFit.label "Зменшити так, щоб помістити на ширину сторінки">
+<!ENTITY shrinkToFit.accesskey "с">
 
 <!ENTITY optionsGroup.label "Параметри">
 
-<!ENTITY printBG.label "Друкувати фон (колір та зображення)">
+<!ENTITY printBG.label "Друкувати тло (колір та зображення)">
+<!ENTITY printBG.accesskey   "т">
 
 <!ENTITY advanced.tab "Відступи та колонтитули">
 
@@ -25,9 +26,13 @@
 <!ENTITY marginUnits.inches "у дюймах">
 <!ENTITY marginUnits.metric "у міліметрах">
 <!ENTITY marginTop.label "Вгорі:">
-<!ENTITY marginBottom.label "Внизу:">
+<!ENTITY marginTop.accesskey "В">
+<!ENTITY marginBottom.label "Знизу:">
+<!ENTITY marginBottom.accesskey "З">
 <!ENTITY marginLeft.label "Ліворуч:">
+<!ENTITY marginLeft.accesskey "Л">
 <!ENTITY marginRight.label "Праворуч:">
+<!ENTITY marginRight.accesskey "П">
 
 <!ENTITY headerFooter.label "Колонтитули">
 
@@ -51,3 +56,9 @@
 
 <!ENTITY customPrompt.title "Інше…">
 <!ENTITY customPrompt.prompt "Введіть ваш власний текст колонтитулу">
+
+<!ENTITY landscape.label     "Альбомна">
+<!ENTITY landscape.accesskey "А">
+
+<!ENTITY portrait.label      "Книжна">
+<!ENTITY portrait.accesskey  "К">
