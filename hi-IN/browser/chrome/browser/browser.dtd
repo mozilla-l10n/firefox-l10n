@@ -433,7 +433,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY bookmarksToolbarChevron.tooltip "अधिक पुस्तचिह्न दिखाएँ">
-<!ENTITY feedButton.tooltip           "इस पृष्ठ की सदस्यता लें…">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(निजी ब्राउज़िंग)">
 
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
