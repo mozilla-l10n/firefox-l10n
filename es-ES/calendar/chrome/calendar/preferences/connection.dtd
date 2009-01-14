@@ -50,8 +50,6 @@
 <!ENTITY reload.accesskey "R">
 <!ENTITY ftp.label "Proxy FTP:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Proxy Gopher:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "Proxy HTTP:">
 <!ENTITY http.accesskey "y">
 <!ENTITY ssl.label "Proxy SSL:">
@@ -66,7 +64,6 @@
 <!ENTITY HTTPport.accesskey "P">
 <!ENTITY SSLport.accesskey "r">
 <!ENTITY FTPport.accesskey "e">
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "No usar proxy para:">
 <!ENTITY noproxy.accesskey "N">
