@@ -44,12 +44,18 @@
 <!ENTITY alwaysClear.label "При закритті &brandShortName; завжди стирати мої особисті дані">
 <!ENTITY alwaysClear.accesskey "и">
 
-<!ENTITY askBeforeClear.label "Перепитувати перед стиранням особистих даних">
-<!ENTITY askBeforeClear.accesskey "и">
 
 <!ENTITY clearDataSettings.label "Настроювати…">
 <!ENTITY clearDataSettings.accesskey "а">
 
 <!ENTITY clearDataNow.label "Очистити зараз…">
-<!ENTITY clearDataNow.label2 "Очистити зараз">
 <!ENTITY clearDataNow.accesskey "и">
+
+<!-- FIXME: localize -->
+<!ENTITY  locbar.bookmarks.label        "Закладки">
+<!ENTITY  locbar.both.label             "Історію та закладки">
+<!ENTITY  locbar.history.label          "Історію">
+<!ENTITY  locbar.nothing.label          "Нічого">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.pre.accessKey          "п">
+<!ENTITY  locbar.pre.label              "У панелі адрес наводити підказками:">
