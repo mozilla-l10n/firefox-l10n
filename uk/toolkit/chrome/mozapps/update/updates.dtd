@@ -68,3 +68,12 @@
 <!ENTITY  incompatibleList.title          "Знайдено несумісні додатки">
 <!ENTITY  updateCheck.label               "Пошук нових версій &brandShortName;…">
 <!ENTITY  viewDetails.tooltip             "Переглянути подробиці щодо цього оновлення">
+
+
+<!-- FIXME: localize -->
+<!ENTITY  manualUpdate.title              "Unable to Update">
+<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
+                                           not have the system permissions required to install it. Please contact your
+                                           system administrator, or try again from an account that has permission to
+                                           install software on this computer.">
+<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
