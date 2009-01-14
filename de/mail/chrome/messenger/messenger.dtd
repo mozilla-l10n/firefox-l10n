@@ -312,6 +312,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "n">
 <!ENTITY newNewMsgCmd.label "Nachricht">
 <!ENTITY newNewMsgCmd.accesskey "N">
+<!ENTITY archiveMsgCmd.label "Archiv">
+<!ENTITY archiveMsgCmd.accesskey "v">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Antworten">
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key	"r">
