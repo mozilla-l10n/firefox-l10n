@@ -83,7 +83,7 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
 
-<!ENTITY checkSpellingCmd2.label "Rechtschreibung überprüfen…">
+<!ENTITY checkSpellingCmd2.label "Rechtschreibprüfung…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "R">
 <!ENTITY enableInlineSpellChecker.label "Sofort-Rechtschreibprüfung">
