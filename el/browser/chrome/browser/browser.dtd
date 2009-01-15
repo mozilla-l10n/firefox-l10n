@@ -181,6 +181,7 @@
 <!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY printSetupCmd.accesskey "μ">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
+<!ENTITY feedButton.tooltip           "Συνδρομή σε αυτή τη σελίδα…">
 <!ENTITY quitApplicationCmd.accesskey "ξ">
 <!ENTITY quitApplicationCmd.label "Έξοδος">
 <!ENTITY quitApplicationCmdWin.accesskey "ξ">
