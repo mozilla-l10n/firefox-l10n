@@ -111,7 +111,7 @@
 <!ENTITY optionsMenu.label "Opties">
 <!ENTITY optionsMenu.accesskey "O">
 <!ENTITY checkSpellingCmd.label "Spelling controleren…">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key3 "p">
 <!ENTITY checkSpellingCmd.key2 "VK_F7">
 <!ENTITY checkSpellingCmd.accesskey "c">
 <!ENTITY enableInlineSpellChecker.label "Spellingcontrole tijdens typen">
