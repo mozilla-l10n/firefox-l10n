@@ -115,7 +115,7 @@
 <!ENTITY enableInlineSpellChecker.accesskey "A">
 <!ENTITY checkSpellingCmd.label "Vérifier l'orthographe">
 <!ENTITY checkSpellingCmd.accesskey "o">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key3 "p">
 <!ENTITY validateCmd.label "Valider le code HTML">
 <!ENTITY validateCmd.accesskey "V">
 
