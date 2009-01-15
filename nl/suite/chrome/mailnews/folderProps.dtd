@@ -63,6 +63,9 @@
 <!ENTITY retentionKeepNew.accesskey "a">
 <!ENTITY retentionKeepUnread.label "Gelezen berichten altijd verwijderen">
 <!ENTITY retentionKeepUnread.accesskey "z">
+<!ENTITY retentionApplyToFlagged.label "Gemarkeerde berichten altijd bewaren">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+
 
 <!ENTITY folderOfflineTab.label                  "Offline">
 <!ENTITY folderCheckForNewMessages.label         "Deze map op nieuwe berichten controleren">

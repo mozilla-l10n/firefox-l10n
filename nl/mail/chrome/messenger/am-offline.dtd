@@ -20,6 +20,8 @@
 <!ENTITY retentionKeepNew.accesskey "a">
 <!ENTITY retentionKeepUnread.label "Gelezen berichten altijd verwijderen">
 <!ENTITY retentionKeepUnread.accesskey "z">
+<!ENTITY retentionApplyToFlagged.label "Berichten met ster altijd bewaren">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Alleen berichtkernen verwijderen die ouder zijn dan">
 <!ENTITY nntpRemoveBody.accesskey "k">
 <!ENTITY offlineSelectNntp.label "Nieuwsgroepen voor offlinegebruik selecteren…">
