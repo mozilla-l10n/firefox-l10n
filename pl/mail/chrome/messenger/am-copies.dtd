@@ -16,7 +16,7 @@
 <!ENTITY draftsFolderOn.accesskey        "S">
 <!ENTITY draftInOtherFolder.label        "folderze:">
 <!ENTITY draftInOtherFolder.accesskey    "f">
-<!ENTITY archivesFolderOn.label          "folderze Archiwum konta:"><!-- FIXME: check quotes in ui -->
+<!ENTITY archivesFolderOn.label          "folderze Archiwum konta:">
 <!ENTITY archivesFolderOn.accesskey      "A">
 <!ENTITY archiveInOtherFolder.label      "folderze:">
 <!ENTITY archiveInOtherFolder.accesskey  "d">
