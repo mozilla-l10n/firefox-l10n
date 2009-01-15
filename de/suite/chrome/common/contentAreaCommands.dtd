@@ -121,7 +121,7 @@
 <!ENTITY spellAddToDictionary.accesskey "Z">
 <!ENTITY spellIgnoreWord.label          "Wort ignorieren">
 <!ENTITY spellIgnoreWord.accesskey      "g">
-<!ENTITY spellCheckEnable.label         "Rechtschreibung prüfen">
+<!ENTITY spellCheckEnable.label         "Rechtschreibprüfung">
 <!ENTITY spellCheckEnable.accesskey     "c">
 <!ENTITY spellNoSuggestions.label       "(Keine Rechtschreib-Vorschläge)">
 <!ENTITY spellDictionaries.label        "Sprachen">

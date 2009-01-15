@@ -112,8 +112,8 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Sofort-Rechtschreibprüfung">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Check Spelling">
-<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.label "Rechtschreibprüfung">
+<!ENTITY checkSpellingCmd2.accesskey "R">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "HTML validieren">
 <!ENTITY validateCmd.accesskey "v">
