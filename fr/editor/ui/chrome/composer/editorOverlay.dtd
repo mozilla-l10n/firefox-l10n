@@ -113,9 +113,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Activer la vérification pendant la saisie">
 <!ENTITY enableInlineSpellChecker.accesskey "A">
-<!ENTITY checkSpellingCmd.label "Vérifier l'orthographe">
-<!ENTITY checkSpellingCmd.accesskey "o">
-<!ENTITY checkSpellingCmd.key3 "p">
+<!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe">
+<!ENTITY checkSpellingCmd2.accesskey "o">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Valider le code HTML">
 <!ENTITY validateCmd.accesskey "V">
 
