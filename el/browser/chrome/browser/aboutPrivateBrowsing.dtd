@@ -15,11 +15,11 @@
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Μπορεί ακόμα να επιθυμείτε να γίνεται εκκίνηση μαζί με">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "εκκαθάριση του ιστορικού σας">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".privatebrowsingpage.clearRecentHistoryDesc">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Μπορείτε ακόμα να επιλέξετε να γίνεται εκκίνηση του περιηγητή μαζί με την">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   " εκκαθάριση του ιστορικού σας ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
-<!ENTITY privatebrowsingpage.description               "Σε μια συνεδρία ιδιωτικής περιήγησης, ο &brandShortName; δεν θα αποθηκεύει ιστορικό περιηγητή, αναζητήσεων, λήψεων, συμπλήρωσης φορμών, cookies, και προσωρινών αρχείων διαδικτύου.  Διατηρούνται όμως τα αρχεία του κατεβάσατε και οι σελιδοδείκτες που δημιουργήσατε.">
+<!ENTITY privatebrowsingpage.description               "Σε μια συνεδρία ιδιωτικής περιήγησης, ο &brandShortName; δεν θα αποθηκεύει ιστορικό περιήγησης, αναζητήσεων, λήψεων, συμπλήρωσης φορμών, cookies, και προσωρινών αρχείων διαδικτύου.  Διατηρούνται όμως τα αρχεία που κατεβάσατε και οι σελιδοδείκτες που δημιουργήσατε.">
 <!ENTITY privatebrowsingpage.howToStart                "Για να ξεκινήσετε την ιδιωτική περιήγηση, επιλέξτε &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.howToStop                 "Για να διακόψετε την ιδιωτική περιήγηση, επιλέξτε &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ή κλείσιμο &brandShortName;.">
