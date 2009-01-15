@@ -25,6 +25,15 @@
 <!ENTITY tasksMenu.label "Extras">
 <!ENTITY tasksMenu.accesskey "E"> 
 
+<!ENTITY passwordManagerCmd.label "Passwort-Manager">
+<!ENTITY passwordManagerCmd.accesskey "P">
+
+<!ENTITY passwordDisplayCmd.label "Gespeicherte Passwörter verwalten">
+<!ENTITY passwordDisplayCmd.accesskey "G">
+
+<!ENTITY passwordExpireCmd.label "Abmelden (Log Out)">
+<!ENTITY passwordExpireCmd.accesskey "A">
+
 <!ENTITY downloadManagerCmd.label "Download-Manager">
 <!ENTITY downloadManagerCmd.accesskey "D">
 
