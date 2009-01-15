@@ -9,7 +9,7 @@
 <!ENTITY port.label "שער:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "ברירת מחדל:">
-<!ENTITY savePassword.label "שמור סיסמה">
+<!-- ### ENTITY savePassword.label "שמור סיסמה" -->
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
