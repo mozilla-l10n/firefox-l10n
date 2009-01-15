@@ -2,6 +2,7 @@
 <!ENTITY fileMenu.label "קובץ">
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "חדש">
+<!ENTITY newMenu.accesskey                              "ח">
 
 <!ENTITY newContact.label                               "איש קשר בספר הכתובות…">
 <!ENTITY newContact.accesskey                           "ק">
@@ -117,7 +118,7 @@
 <!ENTITY deleteButton2.accesskey                        "מ">
 <!-- ### ENTITY deleteButton.label "מחק"-->
 <!-- ### ENTITY deleteButton.accesskey "D"-->
-<!ENTITY throbberItem.title "מחוון פעילות">
+<!-- ### ENTITY throbberItem.title "מחוון פעילות" -->
 <!ENTITY newContactButton.tooltip                       "צור איש קשר חדש בספר הכתובות">
 <!ENTITY newlistButton.tooltip "צור רשימה חדשה">
 <!-- ### ENTITY editButton.tooltip "ערוך את הכרטיס הנבחר" -->
