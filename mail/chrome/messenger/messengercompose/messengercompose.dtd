@@ -110,10 +110,10 @@
 <!-- Options menu -->
 <!ENTITY optionsMenu.label "Options">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "Vérifier l'orthographe…">
-<!ENTITY checkSpellingCmd.key3 "p">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "V">
+<!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY enableInlineSpellChecker.label "Vérification pendant la saisie">
 <!ENTITY enableInlineSpellChecker.accesskey "f">
 <!ENTITY quoteCmd.label "Citer le message">
