@@ -63,8 +63,8 @@
 <!ENTITY retentionKeepNew.accesskey "D">
 <!ENTITY retentionKeepUnread.label "Nur ungelesene Nachrichten">
 <!ENTITY retentionKeepUnread.accesskey "N">
-<!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
+<!ENTITY retentionApplyToFlagged.accesskey "G">
 
 <!ENTITY folderOfflineTab.label                  "Offline">
 <!ENTITY folderCheckForNewMessages.label         "Diesen Ordner auf neue Nachrichten überprüfen">
