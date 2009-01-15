@@ -117,5 +117,5 @@
 
 <!ENTITY bookmarksWindowTitle.label     "Bladwijzerbeheerder">
 
-<!ENTITY search.label                   "Zoeken">
-<!ENTITY search.accesskey               "Z">
+<!ENTITY search.emptytext               "Bladwijzers zoeken">
+<!ENTITY search.key                     "f">
