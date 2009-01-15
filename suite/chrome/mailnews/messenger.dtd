@@ -92,7 +92,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "i">
 <!ENTITY downloadSelectedCmd.label "Geselecteerde berichten ophalen">
 <!ENTITY downloadSelectedCmd.accesskey "c">
-<!ENTITY downloadFlaggedCmd.label "Get Flagged Messages">
+<!ENTITY downloadFlaggedCmd.label "Gemarkeerde berichten ophalen">
 <!ENTITY downloadFlaggedCmd.accesskey "G">
 <!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.accesskey "d">
@@ -124,7 +124,7 @@
 <!ENTITY selectThreadCmd.label "Conversatie">
 <!ENTITY selectThreadCmd.accesskey "C">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Flagged Messages">
+<!ENTITY selectFlaggedCmd.label "Gemarkeerde berichten">
 <!ENTITY selectFlaggedCmd.accesskey "F">
 <!ENTITY folderPropsCmd.label "Eigenschappen…">
 <!ENTITY folderPropsFolderCmd.label "Mapeigenschappen…">
@@ -277,7 +277,7 @@
 <!ENTITY nextUnreadMsgCmd.label "Ongelezen bericht">
 <!ENTITY nextUnreadMsgCmd.accesskey "O">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextFlaggedMsgCmd.label "Flagged Message">
+<!ENTITY nextFlaggedMsgCmd.label "Gemrkeerde berichten">
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextUnreadThread.label "Ongelezen conversatie">
 <!ENTITY nextUnreadThread.accesskey "c">
@@ -294,7 +294,7 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Terug">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevFlaggedMsgCmd.label "Flagged Message">
+<!ENTITY prevFlaggedMsgCmd.label "Gemarkeerd bericht">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
 <!ENTITY startPageCmd.accesskey "s">
@@ -381,8 +381,8 @@
 <!ENTITY markAllReadCmd.label "Alles als gelezen">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Flag">
-<!ENTITY markFlaggedCmd.accesskey "F">
+<!ENTITY markFlaggedCmd.label "Markering">
+<!ENTITY markFlaggedCmd.accesskey "M">
 <!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Als ongewenst bericht">
 <!ENTITY markAsJunkCmd.accesskey "o">
