@@ -28,16 +28,14 @@
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro         "&brandShortName; peut mémoriser les informations de connexion pour tous vos comptes afin d'éviter de devoir les saisir à nouveau.">
-<!ENTITY  encryptEnabled.label        "Utiliser un mot de passe principal pour chiffrer les mots de passe stockés">
-<!ENTITY  encryptEnabled.accesskey    "U">
-<!ENTITY  masterPassword.intro        "Une fois défini, le mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.">
-<!ENTITY  setMasterPassword.label     "Mot de passe principal">
-<!ENTITY  setMasterPassword.accesskey "M">
-<!ENTITY  removeMasterPassword.label  "Supprimer le mot de passe principal…">
-<!ENTITY  removeMasterPassword.accesskey "S">
-<!ENTITY  editPasswords.label         "Modifier les mots de passe stockés">
-<!ENTITY  editPasswords.accesskey     "o">
+<!ENTITY savedPasswords.intro "&brandShortName; peut mémoriser les mots de passe pour tous vos comptes.">
+<!ENTITY useMasterPassword.label "Utiliser un mot de passe principal">
+<!ENTITY useMasterPassword.accesskey "U">
+<!ENTITY masterPassword.intro "Un mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.">
+<!ENTITY changeMasterPassword.label "Modifier le mot de passe principal…">
+<!ENTITY changeMasterPassword.accesskey "M">
+<!ENTITY savedPasswords.label "Mots de passe enregistrés…">
+<!ENTITY savedPasswords.accesskey "o">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; peut permettre aux logiciels antivirus d'analyser les courriers entrant avant qu'ils ne soient stockés localement.">
