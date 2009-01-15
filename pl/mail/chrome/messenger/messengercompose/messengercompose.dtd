@@ -111,7 +111,7 @@
 <!ENTITY optionsMenu.label                  "Opcje">
 <!ENTITY optionsMenu.accesskey              "j">
 <!ENTITY checkSpellingCmd.label             "Sprawdź pisownię…">
-<!ENTITY checkSpellingCmd.key               "K">
+<!ENTITY checkSpellingCmd.key3              "p">
 <!ENTITY checkSpellingCmd.key2              "VK_F7">
 <!ENTITY checkSpellingCmd.accesskey         "r">
 <!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię w trakcie tworzenia">
