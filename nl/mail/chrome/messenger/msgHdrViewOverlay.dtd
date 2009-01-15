@@ -57,8 +57,9 @@
 
 <!ENTITY editMessageDescription.label "Dit is een berichtconcept">
 <!ENTITY editMessageButton.label "Bewerken…">
-<!ENTITY replyButton.label "beantwoorden…">
-<!ENTITY forwardButton.label "doorsturen…">
+<!ENTITY archiveButton.label "archiveren">
+<!ENTITY replyButton.label "beantwoorden">
+<!ENTITY forwardButton.label "doorsturen">
 <!ENTITY junkButton.label "markeren als ongewenst">
 <!ENTITY trashButton.tooltiptext "verwijderen">
 
