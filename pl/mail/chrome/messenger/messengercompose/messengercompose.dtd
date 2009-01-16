@@ -110,10 +110,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label                  "Opcje">
 <!ENTITY optionsMenu.accesskey              "j">
-<!ENTITY checkSpellingCmd.label             "Sprawdź pisownię…">
-<!ENTITY checkSpellingCmd.key3              "p">
-<!ENTITY checkSpellingCmd.key2              "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey         "r">
+<!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię…">
+<!ENTITY checkSpellingCmd2.accesskey        "r">
+<!ENTITY checkSpellingCmd2.key              "p">
+<!ENTITY checkSpellingCmd2.key2             "VK_F7">
 <!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię w trakcie tworzenia">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label                     "Cytuj wiadomość">
