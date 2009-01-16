@@ -369,6 +369,8 @@
 <!ENTITY event.freebusy.legend.free      "Lliure" >
 <!ENTITY event.freebusy.legend.busy      "Ocupada" >
 <!ENTITY event.freebusy.legend.unknown   "Sense informació" >
+<!ENTITY event.freebusy.legend.busy_tentative "Intent" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Fora de l'oficina" >
 
 <!-- Timezone dialog -->
 

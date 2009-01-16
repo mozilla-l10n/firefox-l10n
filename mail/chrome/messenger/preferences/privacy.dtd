@@ -31,15 +31,13 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro         "El &brandShortName; pot recordar les contrasenyes de tots els vostres comptes; així no cal que torneu a introduir els vostres detalls d'entrada.">
-<!ENTITY  encryptEnabled.label        "Utilitza una contrasenya mestra per a xifrar les contrasenyes emmagatzemades">
-<!ENTITY  encryptEnabled.accesskey    "s">
 <!ENTITY  masterPassword.intro        "Una vegada definida, la contrasenya mestra protegeix totes les vostres contrasenyes - però heu d'introduir-la una vegada per cada sessió.">
-<!ENTITY  setMasterPassword.label     "Contrasenya mestra">
-<!ENTITY  setMasterPassword.accesskey "m">
-<!ENTITY  removeMasterPassword.label  "Suprimeix la contrasenya mestra…">
-<!ENTITY  removeMasterPassword.accesskey "r">
-<!ENTITY  editPasswords.label         "Edita les contrasenyes desades">
-<!ENTITY  editPasswords.accesskey     "i">
+<!ENTITY useMasterPassword.label        "Utilitza una contrasenya mestra">
+<!ENTITY useMasterPassword.accesskey    "m">
+<!ENTITY changeMasterPassword.label     "Canvia la contrasenya mestra…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label           "Contrasenyes desades…">
+<!ENTITY savedPasswords.accesskey       "d">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "El &brandShortName; pot facilitar que el programari antivirus analitzi els missatges de correu entrant abans que s'emmagatzemin localment.">

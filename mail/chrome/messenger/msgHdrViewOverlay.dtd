@@ -60,6 +60,7 @@
 
 <!ENTITY editMessageDescription.label "Aço és un esborrany">
 <!ENTITY editMessageButton.label "Edita…">
+<!ENTITY archiveButton.label "arxiu">
 <!ENTITY replyButton.label "respon…">
 <!ENTITY forwardButton.label "reenvia…">
 <!ENTITY junkButton.label "marca com a brossa">

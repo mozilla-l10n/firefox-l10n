@@ -10,6 +10,18 @@
 <!ENTITY autoCompleteShowPopup.accesskey       "s">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Troba coincidències només amb els llocs web que hàgiu teclejat anteriorment">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "m">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Troba coincidències només amb les adreces, no amb els títols dels llocs web">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "a">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "Troba">
+<!ENTITY autoCompleteMatch.accesskey           "T">
+<!ENTITY autoCompleteMatchAnywhere             "A qualsevol lloc de l'adreça o el títol">
+<!ENTITY autoCompleteMatchWordsFirst           "A qualsevol lloc però preferiblement paraules senceres">
+<!ENTITY autoCompleteMatchWords                "Només paraules senceres">
+<!ENTITY autoCompleteMatchStart                "Només al principi de l'adreça o el títol">
 
 <!ENTITY searchEngine.label                    "Motor de cerca d'Internet">
 <!ENTITY showSearchEngine.label                "Mostra el motor de cerca per defecte">

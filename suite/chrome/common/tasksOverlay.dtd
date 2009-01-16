@@ -26,6 +26,15 @@
 <!ENTITY tasksMenu.label "Tasques">
 <!ENTITY tasksMenu.accesskey "t">
 
+<!ENTITY passwordManagerCmd.label "Gestor de contrasenyes">
+<!ENTITY passwordManagerCmd.accesskey "c">
+
+<!ENTITY passwordDisplayCmd.label "Gestiona les contrasenyes desades">
+<!ENTITY passwordDisplayCmd.accesskey "G">
+
+<!ENTITY passwordExpireCmd.label "Desconnecta">
+<!ENTITY passwordExpireCmd.accesskey "D">
+
 <!ENTITY downloadManagerCmd.label "Gestor de baixades">
 <!ENTITY downloadManagerCmd.accesskey "b">
 

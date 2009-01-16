@@ -83,9 +83,9 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "a">
 
-<!ENTITY checkSpellingCmd.label "Comprova l'ortografia">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "g">
+<!ENTITY checkSpellingCmd2.label "Comprova l'ortografia">
+<!ENTITY checkSpellingCmd2.key "K">
+<!ENTITY checkSpellingCmd2.accesskey "g">
 <!ENTITY enableInlineSpellChecker.label "Comprova l'ortografia a mesura que escric">
 <!ENTITY enableInlineSpellChecker.accesskey "v">
 

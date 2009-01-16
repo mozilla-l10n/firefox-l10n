@@ -20,6 +20,8 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepNew.label "Suprimeix-ho tot excepte els darrers">
 <!ENTITY retentionKeepNew.accesskey "r">
+<!ENTITY retentionApplyToFlagged.label "Sempre conserva els missatges senyalats">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY retentionKeepUnread.label "Suprimeix sempre els missatges llegits">
 <!ENTITY retentionKeepUnread.accesskey "u">
 <!ENTITY offlineSelectNntp.label "Seleccioneu els grups de discussió per ús fora de línia…">
