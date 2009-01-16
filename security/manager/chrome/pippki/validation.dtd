@@ -49,14 +49,14 @@
 <!ENTITY  validation.advanced.label               "ਸੈਟਿੰਗ">
 <!ENTITY  validation.advanced.accesskey           "S">
 
-<!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
-<!ENTITY  validation.crl.autoupdate.enable.label  "Enable Automatic Update for this CRL">
+<!ENTITY  validation.crl.autoupdate.title         "ਆਟੋਮੈਟਿਕ CRL ਅੱਪਡੇਟ ਪਸੰਦ">
+<!ENTITY  validation.crl.autoupdate.enable.label  "ਇਸ CRL ਲਈ ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਚਾਲੂ ਕਰੋ">
 <!ENTITY  validation.crl.autoupdate.time.label1   "ਅੱਪਡੇਟ">
-<!ENTITY  validation.crl.autoupdate.time.label2   "Day(s) before Next Update date">
+<!ENTITY  validation.crl.autoupdate.time.label2   "ਅਗਲੀ ਅੱਪਡੇਟ ਮਿਤੀ ਤੋਂ ਪਹਿਲਾਂ ਦਿਨ">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "ਅੱਪਡੇਟ ਹਰੇਕ">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "ਦਿਨ">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL would be imported From:">
-<!ENTITY  crl.import.status.title                 "CRL Import Status">
+<!ENTITY  crl.import.status.title                 "CRL ਇੰਪੋਰਟ ਹਾਲਤ">
 <!ENTITY  crl.import.success.message              "The Certificate Revocation List (CRL) was successfully imported.">
 <!ENTITY  crl.issuer.label                        "CRL ਜਾਰੀ ਕਰਤਾ:">
 <!ENTITY  crl.issuer.org.label                    "ਸੰਗਠਨ: ">

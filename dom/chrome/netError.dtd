@@ -52,10 +52,10 @@
 <!ENTITY netOffline.title "ਆਫਲਾਇਨ ਗਲਤੀ">
 <!ENTITY netOffline.longDesc "ਝਲਕਾਰਾ ਇਸ ਸਮੇਂ ਆਫਲਾਇਨ ਹੈ ਅਤੇ ਲੋੜੀਦੀ ਸਾਇਟ ਨਾਲ ਜੁੜ ਨਹੀਂ ਸਕਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਬਰਾਊਜਰ ਨੂੰ ਆਨਲਾਇਨ ਮੋਡ ਵਿੱਚ ਤਬਦੀਲ ਕਰੋ।">
 <!ENTITY proxyConnectFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ">
-<!ENTITY proxyConnectFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy refused a connection.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Does the proxy service allow connections from this network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>ਬਰਾਊਜ਼ਰ ਨੂੰ ਪਰਾਕਸੀ ਸਰਵਰ ਵਰਤਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਪਰ ਪਰਾਕਸੀ ਸਰਵਰ ਨੇ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਹੈ।</p><ul><li>ਕੀ ਬਰਾਊਜ਼ਰ ਦੀ ਪਰਾਕਸੀ ਸੰਰਚਨਾ ਠੀਕ ਹੈ? ਸੈਟਿੰਗ ਚੈੱਕ ਕਰਕੇ ਮੁੜ-ਟਰਾਈ ਕਰੋ ਜੀ।</li><li>ਕੀ ਪਰਾਕਸੀ ਸਰਵਿਸ ਇਸ ਨੈੱਟਵਰਕ ਤੋਂ ਕੁਨੈਕਸ਼ਨ ਮਨਜ਼ੂਰ ਕਰਦੀ ਹੈ?</li><li>ਹਾਲੇ ਵੀ ਸਮੱਸਿਆ ਹੈ? ਮੱਦਦ ਲਈ ਆਪਣੇ ਨੈੱਟਵਰਕ ਐਡਮਿਨਸਟੇਟਰ ਜਾਂ ਇੰਟਰਨੈੱਟ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
  
 <!ENTITY proxyResolveFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਨਹੀਂ ਮਿਲਿਆ">
-<!ENTITY proxyResolveFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy could not be found.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Is the computer connected to an active network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>ਬਰਾਊਜ਼ਰ ਨੂੰ ਪਰਾਕਸੀ ਸਰਵਰ ਵਰਤਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਪਰ ਪਰਾਕਸੀ ਲੱਭਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।</p><ul><li>ਕੀ ਬਰਾਊਜ਼ਰ ਦੀ ਪਰਾਕਸੀ ਸੰਰਚਨਾ ਠੀਕ ਹੈ? ਸੈਟਿੰਗ ਚੈੱਕ ਕਰਕੇ ਮੁੜ-ਟਰਾਈ ਕਰੋ ਜੀ।</li><li>ਕੀ ਕੰਪਿਊਟਰ ਐਕਟਿਵ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਹੈ?</li><li>ਹਾਲੇ ਵੀ ਸਮੱਸਿਆ ਹੈ? ਮੱਦਦ ਲਈ ਆਪਣੇ ਨੈੱਟਵਰਕ ਐਡਮਿਨਸਟੇਟਰ ਜਾਂ ਇੰਟਰਨੈੱਟ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
 
 <!ENTITY nssFailure2.title "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਗਲਤੀ">
 <!ENTITY nssFailure2.longDesc "<p>ਪੇਜ਼, ਜੋ ਕਿ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਟਰਾਈ ਕਰ ਰਹੋ ਹੋ, ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਮਿਲੇ ਡਾਟੇ ਦੀ ਪਰਮਾਣਕਿਤਾ ਜਾਂਚੀਂ ਨਹੀਂ ਜਾ ਸਕੀ ਹੈ।</p><ul><li>ਇਹ ਸਮੱਸਿਆ ਲਈ ਵੈੱਬ ਸਾਇਟ ਦੇ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
