@@ -28,16 +28,14 @@
 <!ENTITY useDownloadedList.accesskey "E">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro         "&brandShortName; kann die Passwörter aller Ihrer Konten speichern, sodass Sie diese nicht immer wieder neu eingeben müssen.">
-<!ENTITY  encryptEnabled.label        "Gespeicherte Passwörter mit Hilfe des Master-Passworts verschlüsseln">
-<!ENTITY  encryptEnabled.accesskey    "G">
-<!ENTITY  masterPassword.intro        "Wenn Sie ein Master-Passwort verwenden, schützt dieses alle Ihre anderen gespeicherten Passwörter. Sie müssen das Master-Passwort einmal pro Sitzung eingeben.">
-<!ENTITY  setMasterPassword.label     "Master-Passwort">
-<!ENTITY  setMasterPassword.accesskey "M">
-<!ENTITY  removeMasterPassword.label  "Master-Passwort entfernen…">
-<!ENTITY  removeMasterPassword.accesskey "a">
-<!ENTITY  editPasswords.label         "Passwörter anzeigen…">
-<!ENTITY  editPasswords.accesskey     "P">
+<!ENTITY savedPasswords.intro           "&brandShortName; kann die Passwörter aller Ihrer Konten speichern.">
+<!ENTITY useMasterPassword.label        "Master-Passwort verwenden">
+<!ENTITY useMasterPassword.accesskey    "M">
+<!ENTITY masterPassword.intro           "Ein Master-Passwort schützt alle gespeicherten Passwörter, Sie müssen es aber einmal pro Sitzung eingeben.">
+<!ENTITY changeMasterPassword.label     "Master-Password ändern…">
+<!ENTITY changeMasterPassword.accesskey "a">
+<!ENTITY savedPasswords.label           "Gespeicherte Passwörter…">
+<!ENTITY savedPasswords.accesskey       "G">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; kann es Anti-Virus-Software ermöglichen, eingehende Nachrichten zu überprüfen und eventuell in Quarantäne zu stellen (oder zu löschen), bevor diese im Posteingang gespeichert werden. Dies kann bei POP-Konten vor Datenverlust schützen, benötigt aber mehr Zeit.">
