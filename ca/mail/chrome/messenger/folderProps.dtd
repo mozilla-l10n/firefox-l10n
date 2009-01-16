@@ -70,6 +70,8 @@
 <!ENTITY retentionKeepNew.accesskey "r">
 <!ENTITY retentionKeepUnread.label "Suprimeix sempre els missatges llegits">
 <!ENTITY retentionKeepUnread.accesskey "l">
+<!ENTITY retentionApplyToFlagged.label "Sempre conserva els missatges senyalats">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY offlineFolder.check.label "Selecciona aquesta carpeta per al seu ús fora de línia">
 <!ENTITY offlineFolder.check.accesskey           "S">

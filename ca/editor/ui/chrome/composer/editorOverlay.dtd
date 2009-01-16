@@ -116,9 +116,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia mentre s'escriu">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd.label "Revisa l'ortografia">
-<!ENTITY checkSpellingCmd.accesskey "o">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Revisa l'ortografia">
+<!ENTITY checkSpellingCmd2.accesskey "o">
+<!ENTITY checkSpellingCmd2.key "K">
 <!ENTITY validateCmd.label "Valida l'HTML">
 <!ENTITY validateCmd.accesskey "V">
 
