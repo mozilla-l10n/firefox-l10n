@@ -1,8 +1,8 @@
 <!ENTITY sanitizePrefs.title           "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY sanitizeDialog2.title         "ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
 
-<!ENTITY sanitizeItems.label          "Clear the following items now:">
-<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
+<!ENTITY sanitizeItems.label          "ਹੇਠ ਦਿੱਤੀਆਂ ਆਈਟਮਾਂ ਹੁਣ ਸਾਫ਼ ਕਰੋ:">
+<!ENTITY clearDataSettings2.label     "ਜਦੋਂ ਮੈਂ &brandShortName; ਬੰਦ ਕਰਾਂ ਤਾਂ ਇਹ ਸਭ ਨੂੰ ਆਟੋਮੈਟਿਕ ਹੀ ਸਾਫ਼ ਕਰੇ:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
@@ -22,7 +22,7 @@ that require it.  -->
 
 <!ENTITY itemVisitedPages.label       "ਖੋਲ੍ਹੋ ਪੇਜ਼">
 <!ENTITY itemVisitedPages.accesskey   "V">
-<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
+<!ENTITY itemFormSearchEntries.label  "ਫਾਰਮ &amp; ਖੋਜ ਐਂਟਰੀਆਂ">
 <!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY itemPasswords.accesskey      "P">
@@ -30,11 +30,11 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey        "C">
 <!ENTITY itemWebCache.label           "ਵੈੱਬ ਕੈਸ਼">
 <!ENTITY itemWebCache.accesskey       "W">
-<!ENTITY itemOfflineApps.label        "Offline Website Data">
+<!ENTITY itemOfflineApps.label        "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloadList.label       "Download List">
+<!ENTITY itemDownloadList.label       "ਡਾਊਨਲੋਡ ਲਿਸਟ">
 <!ENTITY itemDownloadList.accesskey   "D">
-<!ENTITY itemActiveLogins.label       "Active Logins">
+<!ENTITY itemActiveLogins.label       "ਐਕਟਿਵ ਲਾਗਇਨ">
 <!ENTITY itemActiveLogins.accesskey   "L">
 
 <!ENTITY window.width                 "30em">

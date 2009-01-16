@@ -1,41 +1,41 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "Printer Properties">
+<!ENTITY printJobOptions.title "ਪਰਿੰਟਰ ਵਿਸ਼ੇਸ਼ਤਾ">
 
-<!ENTITY paperInput.label "Paper Size:">
+<!ENTITY paperInput.label "ਪੇਪਰ ਸਾਈਜ਼:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Plex mode:">
+<!ENTITY plexInput.label "Plex ਮੋਡ:">
 <!ENTITY plexInput.accesskey "m">
 
-<!ENTITY resolutionInput.label "Resolution/Quality:">
+<!ENTITY resolutionInput.label "ਰੈਜ਼ੋਲੂਸ਼ਨ/ਕੁਆਲਟੀ:">
 <!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "Print Command:">
+<!ENTITY cmdInput.label "ਪਰਿੰਟ ਕਮਾਂਡ:">
 <!ENTITY cmdInput.accesskey "o">
 
-<!ENTITY jobTitleInput.label "Job Title:">
+<!ENTITY jobTitleInput.label "ਜੌਬ ਟਾਈਟਲ:">
 <!ENTITY jobTitleInput.accesskey "J">
 
-<!ENTITY colorGroup.label "Color:">
-<!ENTITY grayRadio.label "Grayscale">
+<!ENTITY colorGroup.label "ਰੰਗ:">
+<!ENTITY grayRadio.label "ਗਰੇ-ਸਕੇਲ">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "Color">
+<!ENTITY colorRadio.label "ਰੰਗ">
 <!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY colorspaceInput.label "Colorspace:">
+<!ENTITY colorspaceInput.label "ਰੰਗ-ਸਪੇਸ:">
 <!ENTITY colorspaceInput.accesskey "s">
 
-<!ENTITY fontsGroup.label "Fonts:">
-<!ENTITY downloadFonts.label "Download fonts to printer">
+<!ENTITY fontsGroup.label "ਫੋਂਟ:">
+<!ENTITY downloadFonts.label "ਪਰਿੰਟਰ ਲਈ ਫੋਂਟ ਡਾਊਨਲੋਡ">
 <!ENTITY downloadFonts.accesskey "D">
 
-<!ENTITY edgeMarginInput.label "Gap from edge of paper to Margin">
-<!ENTITY topInput.label "Top:">
+<!ENTITY edgeMarginInput.label "ਪੇਪਰ ਦੇ ਪਾਸੇ ਤੋਂ ਹਾਸ਼ੀਆ">
+<!ENTITY topInput.label "ਉੱਤੇ:">
 <!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.label "Bottom:">
+<!ENTITY bottomInput.label "ਹੇਠ:">
 <!ENTITY bottomInput.accesskey "B">
-<!ENTITY leftInput.label "Left:">
+<!ENTITY leftInput.label "ਖੱਬੇ:">
 <!ENTITY leftInput.accesskey "L">
-<!ENTITY rightInput.label "Right:">
+<!ENTITY rightInput.label "ਸੱਜੇ:">
 <!ENTITY rightInput.accesskey "R">

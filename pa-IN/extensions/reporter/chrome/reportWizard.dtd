@@ -1,11 +1,11 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
 <!ENTITY reportWizard.title                         "ਖਰਾਬ ਵੈਬਸਾਇਟ ਬਾਰੇ ਰਿਪੋਰਟ">
 
-<!ENTITY privacyNotice.label                        "ਰਹੱਸ ਨੀਤੀ">
-<!ENTITY reportWizardPrivacy.description            "ਇਹ ਟੂਲ ਤੁਹਾਨੂੰ ਜਾਂਚ ਟੀਮ ਨੂੰ ਉਹਨਾਂ ਵੈਬ ਸਾਇਟਾਂ ਬਾਰੇ ਦੱਸਣ ਲਈ ਸਹਾਇਕ ਹੈ, ਜੋ ਕਿ ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਠੀਕ ਤਰਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦੀਆਂ ਹਨ ਜਾਂ ਫਾਇਰਫਾਕਸ ਨੂੰ ਬੰਦ ਕਰ ਦਿੰਦੀਆਂ ਹਨ। ਇਸ ਢੰਗ ਨਾਤ ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ ਯੂਜ਼ਰਾਂ ਲਈ ਸਭ ਤੋਂ ਸੰਭਵ ਤਜਰਬਾ ਸਾਂਝਾ ਕਰ ਸਕਦੇ ਹੋ। ਕਿਰਪਾ ਕਰਕੇ ਹੇਠ ਦਿੱਤੇ ਨੂੰ ਧਿਆਨ ਨਾਲ ਪੜੋ ਤਾਂ ਕਿ ਇਹ ਯਕੀਨੀ ਬਣਾਇਆ ਜਾ ਸਕੇ ਤੁਸੀਂ ਸਾਨੂੰ ਠੀਕ ਢੰਗ ਨਾਲ ਜਾਣਕਾਰੀ ਦੇ ਸਕੋ।">
+<!ENTITY privacyNotice.label                        "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ">
+<!ENTITY reportWizardPrivacy.description            "ਇਹ ਟੂਲ ਤੁਹਾਨੂੰ ਜਾਂਚ ਟੀਮ ਨੂੰ ਉਹਨਾਂ ਵੈਬ ਸਾਇਟਾਂ ਬਾਰੇ ਦੱਸਣ ਲਈ ਸਹਾਇਕ ਹੈ, ਜੋ ਕਿ ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਠੀਕ ਤਰਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦੀਆਂ ਹਨ ਜਾਂ ਫਾਇਰਫਾਕਸ ਨੂੰ ਬੰਦ ਕਰ ਦਿੰਦੀਆਂ ਹਨ। ਇਸ ਢੰਗ ਨਾਤ ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ ਯੂਜ਼ਰਾਂ ਲਈ ਸਭ ਤੋਂ ਸੰਭਵ ਤਜਰਬਾ ਸਾਂਝਾ ਕਰ ਸਕਦੇ ਹੋ। ਹੇਠ ਦਿੱਤੇ ਨੂੰ ਧਿਆਨ ਨਾਲ ਪੜ੍ਹੋ ਜੀ ਤਾਂ ਕਿ ਇਹ ਯਕੀਨੀ ਬਣਾਇਆ ਜਾ ਸਕੇ ਕਿ ਤੁਸੀਂ ਸਾਨੂੰ ਠੀਕ ਢੰਗ ਨਾਲ ਜਾਣਕਾਰੀ ਦੇ ਸਕੋ।">
 <!ENTITY reportWizardMustAgree.description          "ਜਾਰੀ ਰੱਖਣ ਲਈ ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਰਹੱਸ ਨੀਤੀ ਨਾਲ ਸਹਿਮਤ ਹੋਣਾ ਪਵੇਗਾ।">
 
-<!ENTITY dontShowPrivacyStatement.label             "ਮੁੜ ਪਰਾਈਵੇਸੀ ਸਟੇਟਮਿੰਟ ਨਾ ਵੇਖਾਓ">
+<!ENTITY dontShowPrivacyStatement.label             "ਮੁੜ ਪਰਾਈਵੇਸੀ ਸਟੇਟਮੈਂਟ ਨਾ ਵੇਖਾਓ">
 <!ENTITY dontShowPrivacyStatement.accesskey         "I">
 
 <!ENTITY reportForm.label                           "ਰਿਪੋਰਟ ਭਰੋ">

@@ -2,10 +2,10 @@
 <!ENTITY restorepage.pagetitle      "ਕੀ ਤੁਸੀਂ ਆਪਣਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Your previous &brandShortName; session closed unexpectedly. We sincerely apologize for the inconvenience. You can restore the tabs and windows from your previous session, or start a new session if they are no longer needed.">
-<!ENTITY restorepage.remedies       "If &brandShortName; closes repeatedly:">
-<!ENTITY restorepage.dueToChrome    "Try disabling any recently added extensions in the Add-ons Manager.">
-<!ENTITY restorepage.dueToContent   "Try restoring your session without any Web pages you suspect might be causing the problem:">
+<!ENTITY restorepage.issueDesc      "ਤੁਹਾਡਾ ਪਿਛਲਾ &brandShortName; ਸ਼ੈਸ਼ਨ ਅਚਾਨਕ ਬੰਦ ਹੋ ਗਿਆ ਸੀ। ਸਾਨੂੰ ਇਹ ਸਮੱਸਿਆ ਲਈ ਤਹਿ ਦਿਲੋਂ ਅਫਸੋਸ ਹੈ। ਤੁਸੀਂ ਆਪਣੇ ਪਿਛਲੇ ਸੈਸ਼ਨ ਤੋਂ ਟੈਬਾਂ ਅਟੇ ਵਿੰਡੋ ਨੂੰ ਰੀਸਟੋਰ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਜੇ ਉਨ੍ਹਾਂ ਦੀ ਲੋੜ ਨਹੀਂ ਸੀ ਤਾਂ ਨਵਾਂ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ।">
+<!ENTITY restorepage.remedies       "ਜੇ &brandShortName; ਲਗਾਤਾਰ ਬੰਦ ਹੁੰਦਾ ਹੈ ਤਾਂ:">
+<!ENTITY restorepage.dueToChrome    "ਐਡ-ਆਨ ਮੈਨੇਜਰ ਵਿੱਚ ਤਾਜ਼ਾ ਸ਼ਾਮਲ ਕੀਤੀ ਕਿਸੇ ਵੀ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਆਯੋਗ ਕਰਕੇ ਟਰਾਈ ਕਰੋ।">
+<!ENTITY restorepage.dueToContent   "ਆਪਣੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਕਿਸ ਵੀ ਵੈੱਬ ਪੇਜ਼ ਤੋਂ ਬਿਨਾਂ ਰੀ-ਸਟੋਰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੋਰ, ਜਿਸ ਬਾਰੇ ਤੁਹਾਨੂੰ ਸ਼ੱਕ ਹੈ ਕਿ ਸਮੱਸਿਆ ਪੈਦਾ ਕਰ ਸਕਦਾ ਹੈ:">
 
 <!ENTITY restorepage.restoreButton  "ਪਿਛਲਾ ਸ਼ੈਸ਼ਨ ਰੀ-ਸਟੋਰ ਕਰੋ">
 <!ENTITY restorepage.restore.access "R">

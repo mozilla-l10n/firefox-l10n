@@ -27,10 +27,6 @@ id='malware_sitename'/> ਉੱਤੇ ਇਸ ਸਾਈਟ ਨੂੰ ਹਮਲਾ�
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't
 translate the contents of the <span id="phishing_sitename"/> tag. It will be
 replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "This web site at <span
-id='phishing_sitename'/> has been reported as a web forgery and has been blocked
-based on your security preferences.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Web forgeries are designed to trick
-you into revealing personal or financial information by imitating sources you
-may trust.</p><p>Entering any information on this web page may result in
-identity theft or other fraud.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "ਇਸ ਵੈੱਬਸਾਈਟ <span
+id='phishing_sitename'/> ਉੱਤੇ ਨੂੰ ਵੈੱਬ ਧੋਖਾਧੜੀ ਵਜੋਂ ਦੱਸਿਆ ਗਿਆ ਹੈ ਅਤੇ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਪਸੰਦ ਕਰਕੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>ਵੈੱਬ ਧੋਖਾਧੜੀ (forgery) ਵਿੱਚ ਤੁਹਾਨੂੰ ਇੱਕ ਸਰੋਤ ਵਜੋਂ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਉੱਤੇ ਤੁਸੀਂ ਭਰੋਸਾ ਕਰੋ, ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਕੋਲੋ ਨਿੱਜੀ ਜਾਂ ਵਿੱਤੀ ਜਾਣਕਾਰੀ ਲਈ ਜਾ ਸਕੇ।</p><p>ਇਸ ਵੈੱਬ ਪੇਜ਼ ਉੱਤੇ ਕੋਈ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ ਪਛਾਣ ਗੁਆਚਣ, ਹੋਰ ਧੋਖੇ ਹੋਣਾ ਦਾ ਖਤਰਾ ਹੈ।</p>">

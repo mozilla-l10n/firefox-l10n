@@ -1,62 +1,62 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Page Setup">
+<!ENTITY printSetup.title    "ਪੇਜ਼ ਸੈੱਟਅੱਪ">
 
-<!ENTITY basic.tab           "Format &amp; Options">
+<!ENTITY basic.tab           "ਫਾਰਮੈਟ &amp; ਚੋਣਾਂ">
 
-<!ENTITY formatGroup.label   "Format">
+<!ENTITY formatGroup.label   "ਫਾਰਮੈਟ">
 
-<!ENTITY orientation.label   "Orientation:">
-<!ENTITY portrait.label      "Portrait">
+<!ENTITY orientation.label   "ਸਥਿਤੀ:">
+<!ENTITY portrait.label      "ਪੋਰਟਰੇਟ">
 <!ENTITY portrait.accesskey  "P">
-<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.label     "ਲੈਡਸਕੇਪ">
 <!ENTITY landscape.accesskey "L">
 
-<!ENTITY scale.label         "Scale:">
+<!ENTITY scale.label         "ਸਕੇਲ:">
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.label   "ਪੇਜ਼ ਚੌੜਾਈ ਲਈ ਸੁੰਘੜੋ">
 <!ENTITY shrinkToFit.accesskey "W">
 
-<!ENTITY optionsGroup.label  "Options">
+<!ENTITY optionsGroup.label  "ਚੋਣਾਂ">
 
-<!ENTITY printBG.label       "Print Background (colors &amp; images)">
+<!ENTITY printBG.label       "ਬੈਕਗਰਾਊਂਡ ਪਰਿੰਟ ਕਰੋ (ਰੰਗ &amp; ਚਿੱਤਰ)">
 <!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "Margins &amp; Header/Footer">
+<!ENTITY advanced.tab        "ਹਾਸ਼ੀਆ &amp; ਹੈੱਡਰ/ਫੁੱਟਰ">
 
-<!ENTITY marginGroup.label   "Margins (#1)">
-<!ENTITY marginUnits.inches  "inches">
-<!ENTITY marginUnits.metric  "millimeters">
-<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginGroup.label   "ਹਾਸ਼ੀਆ (#1)">
+<!ENTITY marginUnits.inches  "ਇੰਚ">
+<!ENTITY marginUnits.metric  "ਮਿਲੀਮੀਟਰ">
+<!ENTITY marginTop.label     "ਉੱਤੇ:">
 <!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "Bottom:">
+<!ENTITY marginBottom.label  "ਹੇਠ:">
 <!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label    "Left:">
+<!ENTITY marginLeft.label    "ਖੱਬੇ:">
 <!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "Right:">
+<!ENTITY marginRight.label   "ਸੱਜੇ:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Headers &amp; Footers">
+<!ENTITY headerFooter.label  "ਹੈੱਡਰ &amp; ਫੁੱਟਰ">
 
-<!ENTITY hfLeft.label        "Left:">
-<!ENTITY hfCenter.label      "Center:">
-<!ENTITY hfRight.label       "Right:">
-<!ENTITY headerLeft.tip      "Left header">
-<!ENTITY headerCenter.tip    "Center header">
-<!ENTITY headerRight.tip     "Right header">
-<!ENTITY footerLeft.tip      "Left footer">
-<!ENTITY footerCenter.tip    "Center footer">
-<!ENTITY footerRight.tip     "Right footer">
+<!ENTITY hfLeft.label        "ਖੱਬੇ:">
+<!ENTITY hfCenter.label      "ਸੈਂਟਰ:">
+<!ENTITY hfRight.label       "ਸੱਜੇ:">
+<!ENTITY headerLeft.tip      "ਹੈੱਡਰ ਖੱਬੇ">
+<!ENTITY headerCenter.tip    "ਹੈੱਡਰ ਸੈਂਟਰ">
+<!ENTITY headerRight.tip     "ਹੈੱਡਰ ਸੱਜੇ">
+<!ENTITY footerLeft.tip      "ਫੁੱਟਰ ਖੱਬੇ">
+<!ENTITY footerCenter.tip    "ਫੁੱਟਰ ਸੈਂਟਰ">
+<!ENTITY footerRight.tip     "ਫੁੱਟਰ ਸੱਜੇ">
 
-<!ENTITY hfTitle             "Title">
+<!ENTITY hfTitle             "ਟਾਈਟਲ">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfDateAndTime       "Date/Time">
-<!ENTITY hfPage              "Page #">
-<!ENTITY hfPageAndTotal      "Page # of #">
-<!ENTITY hfBlank             "--blank--">
-<!ENTITY hfCustom            "Custom…">
+<!ENTITY hfDateAndTime       "ਮਿਤੀ/ਟਾਈਮ">
+<!ENTITY hfPage              "ਪੇਜ਼ #">
+<!ENTITY hfPageAndTotal      "ਪੇਜ਼ # ਕੁੱਲ # ਵਿਚੋਂ">
+<!ENTITY hfBlank             "--ਖਾਲੀ--">
+<!ENTITY hfCustom            "ਕਸਟਮ…">
 
-<!ENTITY customPrompt.title  "Custom…">
-<!ENTITY customPrompt.prompt "Enter your custom header/footer text">
+<!ENTITY customPrompt.title  "ਕਸਟਮ…">
+<!ENTITY customPrompt.prompt "ਆਪਣਾ ਪਸੰਦੀਦਾ ਹੈੱਡਰ/ਫੁੱਟਰ ਟੈਕਸਟ ਦਿਓ">
