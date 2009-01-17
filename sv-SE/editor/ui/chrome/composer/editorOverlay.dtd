@@ -115,9 +115,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Stavningskontrollera medan du skriver">
 <!ENTITY enableInlineSpellChecker.accesskey "v">
-<!ENTITY checkSpellingCmd.label "Stavningskontroll">
-<!ENTITY checkSpellingCmd.accesskey "a">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Stavningskontroll">
+<!ENTITY checkSpellingCmd2.accesskey "a">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Validera HTML">
 <!ENTITY validateCmd.accesskey "V">
 
