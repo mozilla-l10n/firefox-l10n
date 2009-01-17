@@ -71,6 +71,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Berhenti memuat halaman ini">
 <!ENTITY goEndCap.tooltip "Pindah ke alamat di Bar Lokasi">
+<!ENTITY feedButton.tooltip "Berlangganan halaman ini…">
 <!ENTITY printButton.label "Cetak">
 <!ENTITY printButton.tooltip "Cetak halaman ini">
 <!ENTITY locationItem.title "Lokasi">
