@@ -1,5 +1,4 @@
 <!-- extracted from tasksOverlay.xul -->
-<!-- LOCALIZATION NOTE (navigatorCmd.label): DONT_TRANSLATE -->  
 <!ENTITY navigatorCmd.label "Prohlížeč">
 <!ENTITY navigatorCmd.accesskey "P">
 <!ENTITY navigatorCmd.commandkey "1">
@@ -13,7 +12,6 @@
 
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
 
 <!ENTITY taskNavigator.tooltip "Prohlížeč">
 <!ENTITY taskComposer.tooltip "Editor">
@@ -27,8 +25,17 @@
 <!ENTITY tasksMenu.label "Nástroje">
 <!ENTITY tasksMenu.accesskey "N">
 
+<!ENTITY passwordManagerCmd.label "Správce hesel">
+<!ENTITY passwordManagerCmd.accesskey "h">
+
+<!ENTITY passwordDisplayCmd.label "Spravovat uložená hesle">
+<!ENTITY passwordDisplayCmd.accesskey "u">
+
+<!ENTITY passwordExpireCmd.label "Odhlásit">
+<!ENTITY passwordExpireCmd.accesskey "O">
+
 <!ENTITY downloadManagerCmd.label "Správce stahování">
-<!ENTITY downloadManagerCmd.accesskey "T">
+<!ENTITY downloadManagerCmd.accesskey "S">
 
 <!ENTITY addonsManagerCmd.label "Správce doplňků">
 <!ENTITY addonsManagerCmd.accesskey "d">
