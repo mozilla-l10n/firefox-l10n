@@ -18,7 +18,7 @@
 <!ENTITY size.accesskey                       "T">
 <!ENTITY fontColor.label                      "Couleur du texte :">
 <!ENTITY fontColor.accesskey                  "x">
-<!ENTITY bgColor.label                        "Couleur de l'arrière plan :">
+<!ENTITY bgColor.label                        "Couleur de l'arrière-plan :">
 <!ENTITY bgColor.accesskey                    "a">
 <!ENTITY restoreHTMLDefaults.label            "Restaurer les paramètres initiaux">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
