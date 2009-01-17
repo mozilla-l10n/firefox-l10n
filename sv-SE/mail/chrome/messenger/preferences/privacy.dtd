@@ -28,16 +28,14 @@
 <!ENTITY useDownloadedList.accesskey "b">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro            "&brandShortName; kan spara lösenord för alla dina konton så att du inte behöver skriva in dessa vid varje inloggning.">
-<!ENTITY  encryptEnabled.label           "Använd ett huvudlösenord för att kryptera sparade lösenord">
-<!ENTITY  encryptEnabled.accesskey       "A">
-<!ENTITY  masterPassword.intro           "Ett huvudlösenord skyddar alla dina lösenord - men du måste ange det en gång per session.">
-<!ENTITY  setMasterPassword.label        "Huvudlösenord">
-<!ENTITY  setMasterPassword.accesskey    "h">
-<!ENTITY  removeMasterPassword.label     "Ta bort huvudlösenord…">
-<!ENTITY  removeMasterPassword.accesskey "T">
-<!ENTITY  editPasswords.label            "Redigera sparade uppgifter">
-<!ENTITY  editPasswords.accesskey        "R">
+<!ENTITY savedPasswords.intro           "&brandShortName; kan spara lösenord för alla dina konton.">
+<!ENTITY useMasterPassword.label        "Använd ett huvudlösenord">
+<!ENTITY useMasterPassword.accesskey    "A">
+<!ENTITY masterPassword.intro           "Ett huvudlösenord skyddar alla dina lösenord, men du måste ange det en gång per session.">
+<!ENTITY changeMasterPassword.label     "Byt huvudlösenord…">
+<!ENTITY changeMasterPassword.accesskey "h">
+<!ENTITY savedPasswords.label           "Sparade lösenord…">
+<!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; kan göra det lätt för antivirusprogram att granska inkommande e-postmeddelanden innan de sparas lokalt.">
