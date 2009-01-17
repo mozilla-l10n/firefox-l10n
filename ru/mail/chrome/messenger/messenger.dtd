@@ -284,7 +284,7 @@
 <!ENTITY newMsgCmd.accesskey "з">
 <!ENTITY newNewMsgCmd.label "Сообщение">
 <!ENTITY newNewMsgCmd.accesskey "б">
-<!ENTITY archiveMsgCmd.label "Архив">
+<!ENTITY archiveMsgCmd.label "Архивировать">
 <!ENTITY archiveMsgCmd.accesskey "х">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Ответить">
