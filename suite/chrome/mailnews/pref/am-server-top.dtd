@@ -27,13 +27,13 @@
 <!ENTITY alwaysSecure.accesskey "T">
 <!ENTITY alwaysSSL.label "SSL">
 <!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Utiliser une authentification sécurisée.">
+<!ENTITY useSecAuth.label "Utiliser une authentification sécurisée">
 <!ENTITY useSecAuth.accesskey "h">
 <!ENTITY leaveOnServer.label "Laisser les messages sur le serveur">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Télécharger uniquement les en-têtes">
 <!ENTITY headersOnly.accesskey "e">
-<!ENTITY deleteByAgeFromServer.label "Pour au moins">
+<!ENTITY deleteByAgeFromServer.label "Pendant au maximum">
 <!ENTITY deleteByAgeFromServer.accesskey "m">
 <!ENTITY daysEnd.label "jours">
 <!ENTITY deleteOnServer2.label "Jusqu'à ce que je les supprime">
@@ -42,16 +42,16 @@
 <!ENTITY downloadOnBiff.accesskey "T">
 <!ENTITY username.label "Votre nom de connexion">
 <!ENTITY deleteMessagePrefix.label "Lorsque je supprime un message :">
-<!ENTITY modelMoveToTrash.label "le mettre dans le dossier « Corbeille »">
+<!ENTITY modelMoveToTrash.label "le mettre dans ce dossier :">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "le marquer comme supprimé">
 <!ENTITY modelMarkDeleted.accesskey "q">
-<!ENTITY modelDeleteImmediately.label "Le supprimer immédiatement">
+<!ENTITY modelDeleteImmediately.label "le supprimer immédiatement">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Nettoyer le dossier « Courrier entrant » lors de la sortie.">
+<!ENTITY expungeOnExit.label "Nettoyer le dossier « Courrier entrant » en quittant.">
 <!ENTITY expungeOnExit.accesskey "y">
-<!ENTITY emptyTrashOnExit.label "Vider la corbeille lors de la sortie">
+<!ENTITY emptyTrashOnExit.label "Vider la corbeille en quittant">
 <!ENTITY emptyTrashOnExit.accesskey "b">
 <!ENTITY loginAtStartup.label "Vérifier le courrier au lancement">
 <!ENTITY loginAtStartup.accesskey "f">
@@ -63,13 +63,13 @@
 <!ENTITY maxMessagesStart.accesskey "d">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "messages.">
-<!ENTITY alwaysAuthenticate.label "Toujours demander une authentification avant de se connecter à ce serveur">
+<!ENTITY alwaysAuthenticate.label "Toujours demander une authentification lors de la connexion à ce serveur">
 <!ENTITY alwaysAuthenticate.accesskey "c">
 <!ENTITY newsrcFilePath.label "Fichier newsrc :">
 <!ENTITY localPath.label "Répertoire local :">
 <!ENTITY abbreviate.label "Afficher les noms des groupes de discussion dans le panneau des dossiers de courrier comme :">
-<!ENTITY abbreviateOn.label "des noms complets (par exemple, 'mozilla.dev.apps.seamonkey-news')">
-<!ENTITY abbreviateOff.label "des noms abrégés (par exemple, 'm.d.a.s-news')">
+<!ENTITY abbreviateOn.label "des noms complets (par exemple « mozilla.dev.apps.seamonkey-news »)">
+<!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.s-news »)">
 <!ENTITY advancedButton.label "Avancés…">
 <!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
 <!ENTITY advancedButton.accesskey "v">
