@@ -1,4 +1,4 @@
-<!ENTITY  history.label "Lược sử">
+<!ENTITY  history.label                 "Lược sử">
 
 <!ENTITY  locbar.pre.label              "Khi sử dụng thanh địa chỉ, đề nghị:">
 <!ENTITY  locbar.pre.accessKey          "a">
