@@ -1,0 +1,26 @@
+<!ENTITY pref.alarmgoesoff.label "Setelah alarm mati:">
+<!ENTITY pref.playasound "Mainkan suara">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "s">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "Gunakan suara default">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Telusuri…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "T">
+<!ENTITY pref.calendar.alarms.sound.preview.label "Pratinjau">
+<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
+<!ENTITY pref.showalarmbox "Tampilkan kotak alarm">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "k">
+<!ENTITY pref.missedalarms "Tampilkan alarm yang terlewati">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "w">
+<!ENTITY pref.calendar.alarms.defaults.label "Default Alarm">
+<!ENTITY pref.defalarm4events.label "Pengaturan alarm default untuk acara:">
+<!ENTITY pref.defalarm4events.accesskey "a">
+<!ENTITY pref.defalarm4todos.label "Pengaturan alarm default untuk tugas:">
+<!ENTITY pref.defalarm4todos.accesskey "t">
+<!ENTITY pref.alarm.on "Hidup">
+<!ENTITY pref.alarm.off "Mati">
+<!ENTITY pref.defalarmlen4events.label "Waktu alarm mati default sebelum acara:">
+<!ENTITY pref.defalarmlen4events.accesskey "a">
+<!ENTITY pref.defalarmlen4todos.label "Waktu alarm mati default sebelum tugas:">
+<!ENTITY pref.defalarmlen4todos.accesskey "g">
+<!ENTITY pref.defaultemail.label "Alamat email default untuk mengirimkan pesan alarm:">
+<!ENTITY pref.defaulttext.label "Teks default untuk alarm:">

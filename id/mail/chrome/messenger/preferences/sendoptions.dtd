@@ -10,7 +10,7 @@
 <!ENTITY sendBoth.label "Kirim pesan dalam kedua format teks biasa dan HTML">
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Catatan: Gunakan Buku Alamat untuk menentukan format teks yang diinginkan untuk penerima.">
-<!ENTITY domaindesc.label "Ketika anda mengirim sebuah pesan kepada alamat yang nama domainnya terdaftar di bawah ini, &brandShortName; akan secara otomatis mengirim pesan tersebut dalam format yang ditentukan.">
+<!ENTITY domaindesc.label "Ketika Anda mengirim sebuah pesan kepada alamat yang nama domainnya terdaftar di bawah ini, &brandShortName; akan secara otomatis mengirim pesan tersebut dalam format yang ditentukan.">
 <!ENTITY HTMLTab.label "Domain HTML">
 <!ENTITY HTMLTab.accesskey "h">
 <!ENTITY PlainTextTab.label "Domain Teks Biasa">

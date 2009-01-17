@@ -1,17 +1,27 @@
 <!ENTITY securityTitle.label "Keamanan">
-<!ENTITY securityHeading.label "Untuk mengirim dan menerima pesan yang ditandatangani atau dienkripsi dijital anda harus menentukan sertifikat tandatangan dijital dan sertifikat enkripsi.">
+<!ENTITY securityTab.label "Keamanan">
+<!ENTITY securityHeading.label "Untuk mengirim dan menerima pesan yang ditandatangani atau dienkripsi dijital Anda harus menentukan sertifikat tandatangan dijital dan sertifikat enkripsi.">
 <!ENTITY encryptionGroupTitle.label "Enkripsi">
 <!ENTITY encryptionChoiceLabel.label "Pengaturan enkripsi default saat mengirim pesan:">
 <!ENTITY neverEncrypt.label "Tidak pernah (jangan gunakan enkripsi)">
+<!ENTITY neverEncrypt.accesskey "T">
 <!ENTITY alwaysEncryptMessage.label "Diwajibkan (tidak dapat mengirim pesan kecuali semua penerima memiliki sertifikat)">
-<!ENTITY encryptionCert.message "Gunakan sertifikat berikut untuk mengenkripsi &amp; mendekripsi pesan yang dikirim kepada anda:">
-<!ENTITY certificate.button "Pilih…">
-<!ENTITY certificate_clear.button "Bersihkan">
+<!ENTITY alwaysEncryptMessage.accesskey "w">
+<!ENTITY encryptionCert.message "Gunakan sertifikat berikut untuk mengenkripsi &amp; mendekripsi pesan yang dikirim kepada Anda:">
+<!ENTITY digitalSign.certificate.button "Pilih…">
+<!ENTITY digitalSign.certificate.accesskey "P">
+<!ENTITY digitalSign.certificate_clear.button "Bersihkan">
+<!ENTITY digitalSign.certificate_clear.accesskey "B">
+<!ENTITY encryption.certificate.button "Pilih…">
+<!ENTITY encryption.certificate.accesskey "i">
+<!ENTITY encryption.certificate_clear.button "Bersihkan">
+<!ENTITY encryption.certificate_clear.accesskey "h">
 <!ENTITY signingGroupTitle.label "Tandatangan Dijital">
 <!ENTITY signMessage.label "Tandatangani pesan secara dijital secara default">
-<!ENTITY signingCert.message "Gunakan sertifikat ini untuk menandatangani pesan yang anda kirim secara dijital:">
+<!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert.message "Gunakan sertifikat ini untuk menandatangani pesan yang Anda kirim secara dijital:">
 <!ENTITY certificates.label "Sertifikat">
-<!ENTITY managecerts.label "Tampilkan Sertifikat">
-<!ENTITY managecerts.accesskey "S">
-<!ENTITY managedevices.label "Perangkat Keamanan">
-<!ENTITY managedevices.accesskey "P">
+<!ENTITY manageCerts.label "Tampilkan Sertifikat">
+<!ENTITY manageCerts.accesskey "S">
+<!ENTITY manageDevices.label "Perangkat Keamanan">
+<!ENTITY manageDevices.accesskey "P">

@@ -16,7 +16,6 @@
 <!ENTITY DisplayName.accesskey "T">
 <!ENTITY NickName.label "Nama alias:">
 <!ENTITY NickName.accesskey "a">
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "Email:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Email Lainnya:">
@@ -83,16 +82,18 @@
 <!ENTITY Other.accesskey "L">
 <!ENTITY Birthday.label "Ulang Tahun:">
 <!ENTITY Birthday.accesskey "U">
+<!ENTITY In.label  "">
 <!ENTITY Year.emptytext "Tahun">
 <!ENTITY Or.value "atau">
 <!ENTITY Age.emptytext "Umur">
-<!ENTITY Custom1.label "Suka-suka 1:">
+<!ENTITY YearsOld.label  "tahun">
+<!ENTITY Custom1.label "Lain-lain 1:">
 <!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Suka-suka 2:">
+<!ENTITY Custom2.label "Lain-lain 2:">
 <!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Suka-suka 3:">
+<!ENTITY Custom3.label "Lain-lain 3:">
 <!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Suka-suka 4:">
+<!ENTITY Custom4.label "Lain-lain 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label "Catatan">
+<!ENTITY Notes.label "Catatan:">
 <!ENTITY Notes.accesskey "C">

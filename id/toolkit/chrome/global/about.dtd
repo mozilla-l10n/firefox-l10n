@@ -11,4 +11,4 @@
 <!ENTITY about.buildconfig.beforeLink "Tampilkan">
 <!ENTITY about.buildconfig.linkTitle "konfigurasi build">
 <!ENTITY about.buildconfig.afterLink "yang digunakan versi ini.">
-<!ENTITY about.buildIdentifier "Identifikasi build:">
+<!ENTITY about.buildIdentifier "Identifikasi build: ">

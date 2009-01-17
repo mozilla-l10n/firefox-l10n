@@ -1,9 +1,9 @@
 <!--null-->
 <!ENTITY mailListWindow.title "Milis">
-<!ENTITY addToAddressBook.label "Tambahkan ke:">
-<!ENTITY ListName.label "Nama Milis:">
-<!ENTITY ListNickName.label "Daftar Alias:">
-<!ENTITY ListDescription.label "Keterangan:">
+<!ENTITY addToAddressBook.label "Tambahkan ke: ">
+<!ENTITY ListName.label "Nama Milis: ">
+<!ENTITY ListNickName.label "Daftar Alias: ">
+<!ENTITY ListDescription.label "Keterangan: ">
 <!ENTITY AddressTitle.label "Masukkan alamat email untuk ditambahkan ke milis:">
 <!ENTITY UpButton.label "Geser Atas">
 <!ENTITY DownButton.label "Geser Bawah">

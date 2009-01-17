@@ -1,0 +1,9 @@
+<!ENTITY gdata-provider.label "Kalender Google">
+<!ENTITY gdata.privacy.default.label "Default Google">
+<!ENTITY gdata.privacy.default.accesskey "D">
+<!ENTITY gdata.migration.title "Ambil kalender baca-saja">
+<!ENTITY gdata.migration.description "Penyedia untuk Kalender Google telah mendeteksi bahwa Anda memiliki kalender yang hanya mampu mengakses Kalender Google dalam mode baca-saja. Jika Anda ingin membuat pemutakhiran pada kalender berikut, pilih kalender tersebut di bawah ini">
+<!ENTITY gdata.migration.upgrade.label "Perbarui">
+<!ENTITY gdata.migration.upgrade.accesskey "P">
+<!ENTITY gdata.migration.showagain.label "Selalu periksa">
+<!ENTITY gdata.reminder.action.sms.label "Kirimkan SMS">

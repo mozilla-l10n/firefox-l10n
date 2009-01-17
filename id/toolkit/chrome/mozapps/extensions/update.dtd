@@ -17,7 +17,7 @@
 <!ENTITY installing.wizard.title "Memasang Pengaya yang Kompatibel">
 <!ENTITY installing.top.label "Mengunduh dan memasang versi baru Pengaya…">
 <!ENTITY noupdates.wizard.title "Tidak ada Pengaya yang Kompatibel Ditemukan">
-<!ENTITY noupdates.intro.desc "&brandShortName; tidak menemukan versi baru dari Pengaya anda yang tidak kompatibel.">
+<!ENTITY noupdates.intro.desc "&brandShortName; tidak menemukan versi baru dari Pengaya Anda yang tidak kompatibel.">
 <!ENTITY noupdates.error.desc "Terjadi masalah saat mencoba memeriksa versi baru.">
 <!ENTITY noupdates.checkEnabled.desc "&brandShortName; akan memeriksa secara periodik dan memberitahukan jika versi pengaya yang kompatibel telah ditemukan.">
 <!ENTITY finished.wizard.title "Pengaya yang kompatibel telah terpasang">
@@ -33,8 +33,8 @@
 <!ENTITY installerrors.wizard.title "Permasalahan saat Memasang Versi Baru">
 <!ENTITY installerrors.intro.label "&brandShortName; mengalami masalah saat memasang versi baru
                                            beberapa Pengaya.">
-<!ENTITY clickFinish.label "Klik Selesai untuk melanjutkan membuka &brandShortName;">
-<!ENTITY clickFinish.labelMac "Klik Selesai untuk melanjutkan memulai &brandShortName;">
+<!ENTITY clickFinish.label "Klik Selesai untuk melanjutkan membuka &brandShortName;.">
+<!ENTITY clickFinish.labelMac "Klik Selesai untuk melanjutkan memulai &brandShortName;.">
 <!ENTITY enableChecking.label "Izinkan &brandShortName; untuk memeriksa versi baru.">
-<!ENTITY details.label "Detil…">
+<!ENTITY details.label "Detail…">
 <!ENTITY details.accesskey "D">

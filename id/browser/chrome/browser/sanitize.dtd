@@ -3,9 +3,10 @@
 <!ENTITY sanitizeItems.label "Hapus data berikut sekarang:">
 <!ENTITY clearDataSettings2.label "Saat keluar dari &brandShortName;, otomatis hapus semua:">
 <!ENTITY clearDuration.label "Hapus ">
-<!ENTITY clearDuration.lastHour "sejam terakhir">
-<!ENTITY clearDuration.last2Hours "2 jam terakhir">
-<!ENTITY clearDuration.last4Hours "4 jam terakhir">
+<!ENTITY clearDuration.accesskey "H">
+<!ENTITY clearDuration.lastHour "riwayat sejam terakhir">
+<!ENTITY clearDuration.last2Hours "riwayat 2 jam terakhir">
+<!ENTITY clearDuration.last4Hours "riwayat 4 jam terakhir">
 <!ENTITY clearDuration.today "riwayat hari ini">
 <!ENTITY clearDuration.everything "seluruh riwayat">
 <!ENTITY clearDuration.suffix "">

@@ -8,10 +8,14 @@
                                            versi baru secara periodik.">
 <!ENTITY noupdatesautodisabled.intro "Belum ada versi baru yang tersedia. Periksa kembali nanti atau aktifkan
                                            pemeriksaan versi baru otomatis pada &brandShortName;.">
+<!ENTITY  manualUpdate.title "Tidak dapat memasang versi baru">
+<!ENTITY  manualUpdate.desc "Versi baru yang lebih aman dan stabil tersedia, tetapi Anda tidak mempunyai hak pada sistem ini untuk memasangnya. Mohon hubungi administrator sistem, atau silakan coba pasang dari akun lain yang mempunyai hak untuk memasang perangkat lunak pada komputer ini.">
+<!ENTITY  manualUpdateGetMsg.label "Anda dapat selalu mengunduh versi terbaru &brandShortName; di:">
+										
 <!ENTITY  incompatibleCheck.title "Pemeriksaan Kompatibilitas Pengaya">
-<!ENTITY  incompatibleCheck.label "Memeriksa versi baru pengaya anda…">
+<!ENTITY  incompatibleCheck.label "Memeriksa versi baru pengaya Anda…">
 <!ENTITY clickHere.label "Lihat informasi lebih lanjut tentang pemutakhiran ini">
-<!ENTITY  evangelism.desc "Sangat disarankan agar anda menerapkan pemutakhiran &brandShortName; ini sesegera mungkin.">
+<!ENTITY  evangelism.desc "Sangat disarankan agar Anda menerapkan pemutakhiran &brandShortName; ini sesegera mungkin.">
 
 <!ENTITY license.instructions "Apabila Anda setuju dengan syarat persetujuan ini, klik Saya Setuju
                                            di bawah ini untuk melanjutkan pemasangan versi baru ini.">
@@ -29,8 +33,8 @@
 <!ENTITY verificationFailedText.label "&brandShortName; tidak dapat memverifikasi integritas dari
                                            pemutakhiran bertahap yang diunduh, sebab itu &brandShortName; sekarang mengunduh
                                            paket pemutakhiran yang lengkap.">
-<!ENTITY  viewDetails.tooltip             "Tampilkan detil pemutakhiran ini">
-<!ENTITY details.link "Detil">
+<!ENTITY  viewDetails.tooltip             "Tampilkan detail pemutakhiran ini">
+<!ENTITY details.link "Detail">
 <!ENTITY error.label "Terdapat masalah pada pemeriksaan, pengunduhan, atau pemasangan pemutakhiran ini.
                                            &brandShortName; tidak dapat diperbarui karena:">
 <!ENTITY errorManual.label "Anda dapat memperbarui &brandShortName; sendiri dengan mengunjungi tautan ini
@@ -46,6 +50,6 @@
 <!ENTITY installed.title "Versi Baru Terpasang">
 <!ENTITY installed.intro "Versi baru sukses dipasang.">
 <!ENTITY whatsnew.label "Baca tentang hal baru…">
-<!ENTITY update.details.label "Detil">
+<!ENTITY update.details.label "Detail">
 <!ENTITY update.installedOn.label "Dipasang pada:">
 <!ENTITY update.status.label "Status:">

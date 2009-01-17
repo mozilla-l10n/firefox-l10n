@@ -42,6 +42,6 @@
 <!ENTITY description.label "Buat sebagai subfolder pada:">
 <!ENTITY description.accesskey "s">
 <!ENTITY folderRestriction1.label "Server ini membatasi pada 2 folder khusus tertentu.">
-<!ENTITY folderRestriction2.label "Buat nama folder baru anda yang mengandung:">
+<!ENTITY folderRestriction2.label "Buat nama folder baru Anda yang mengandung:">
 <!ENTITY foldersOnly.label "Hanya Folder">
 <!ENTITY messagesOnly.label "Pesan Saja">

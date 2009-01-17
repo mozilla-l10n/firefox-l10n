@@ -60,6 +60,8 @@
 <!ENTITY retentionKeepNew.accesskey "s">
 <!ENTITY retentionKeepUnread.label "Selalu hapus pesan yang sudah dibaca">
 <!ENTITY retentionKeepUnread.accesskey "b">
+<!ENTITY retentionApplyToFlagged.label "Selalu simpan pesan berbintang">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY folderOfflineTab.label "Offline">
 <!ENTITY folderCheckForNewMessages.label "Periksa pesan baru pada folder ini">
 <!ENTITY folderCheckForNewMessages.accesskey "P">
@@ -82,6 +84,6 @@
 <!ENTITY permissionsDesc.label "Anda mempunyai hak akses berikut:">
 <!ENTITY folderType.label "Jenis Folder:">
 <!ENTITY folderQuotaTab.label "Kuota">
-<!ENTITY folderQuotaRoot.label "Kuota Dasar">
+<!ENTITY folderQuotaRoot.label "Kuota Dasar:">
 <!ENTITY folderQuotaUsage.label "Penggunaan:">
 <!ENTITY folderQuotaStatus.label "Status:">

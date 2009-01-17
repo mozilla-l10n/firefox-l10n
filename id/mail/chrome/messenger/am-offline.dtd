@@ -20,6 +20,8 @@
 <!ENTITY retentionKeepNew.accesskey "s">
 <!ENTITY retentionKeepUnread.label "Selalu hapus pesan yang sudah dibaca">
 <!ENTITY retentionKeepUnread.accesskey "b">
+<!ENTITY retentionApplyToFlagged.label "Selalu simpan pesan berbintang">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Jika isi pesan kurang dari">
 <!ENTITY nntpRemoveBody.accesskey "P">
 <!ENTITY offlineSelectNntp.label "Pilih newgroup untuk penggunaan offline…">

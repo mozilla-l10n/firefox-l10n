@@ -1,7 +1,8 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Mode Penjelajahan Pribadi)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Mode Penjelajahan Pribadi)">
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 <!ENTITY tabCmd.label "Tab Baru">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -54,6 +55,7 @@
 <!ENTITY addCurPagesCmd.label "Buat Bookmark Semua Tab…">
 <!ENTITY organizeBookmarks.label "Kelola Bookmark…">
 <!ENTITY bookmarkAllCmd.label "Buat Bookmark Semua Tab…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan bookmark lainnya">
 <!ENTITY backCmd.label "Mundur">
 <!ENTITY backCmd.accesskey "d">
 <!ENTITY backButton.tooltip "Mundur satu halaman">
@@ -136,8 +138,11 @@
 <!ENTITY preferencesCmdUnix.accesskey "g">
 <!ENTITY clearRecentHistoryCmd.label "Bersihkan Riwayat Terakhir">
 <!ENTITY clearRecentHistoryCmd.accesskey "B">
-<!ENTITY privateBrowsingCmd.label "Mode Penjelajahan Pribadi">
-<!ENTITY privateBrowsingCmd.accesskey "i">
+<!ENTITY privateBrowsingCmd.start.label "Mulai Mode Penjelajahan Pribadi">
+<!ENTITY privateBrowsingCmd.start.accesskey "M">
+<!ENTITY privateBrowsingCmd.stop.label "Hentikan Mode Penjelajahan Pribadi">
+<!ENTITY privateBrowsingCmd.stop.accesskey "M">
+<!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Tampilan">
 <!ENTITY viewMenu.accesskey "T">
 <!ENTITY viewToolbarsMenu.label "Toolbar">
@@ -316,7 +321,6 @@
 <!ENTITY spellAddDictionaries.accesskey "T">
 <!ENTITY editBookmark.done.label "Selesai">
 <!ENTITY editBookmark.cancel.label "Batal">
-<!ENTITY editBookmark.removeBookmark.label "Hapus Bookmark">
 <!ENTITY editBookmark.removeBookmark.accessKey "H">
 <!ENTITY editBookmark.undo.label "Batal">
 <!ENTITY editBookmark.undo.accessKey "B">

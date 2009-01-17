@@ -1,23 +1,24 @@
 <!--null-->
-<!ENTITY toField2.label "kepada">
-<!ENTITY fromField2.label "dari">
-<!ENTITY senderField2.label "pengirim">
-<!ENTITY organizationField2.label "organisasi">
-<!ENTITY replyToField2.label "balas-ke">
-<!ENTITY subjectField2.label "judul-subyek">
+<!ENTITY toField2.label "kepada ">
+<!ENTITY fromField2.label "dari ">
+<!ENTITY senderField2.label "pengirim ">
+<!ENTITY organizationField2.label "organisasi ">
+<!ENTITY replyToField2.label "balas-ke ">
+<!ENTITY subjectField2.label "judul-subyek ">
 <!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc">
-<!ENTITY newsgroupsField2.label "newsgroup">
-<!ENTITY followupToField2.label "tindak-lanjut">
-<!ENTITY tagsHdr2.label "tag">
-<!ENTITY dateField2.label "tanggal">
-<!ENTITY userAgentField2.label "agen-pengguna">
-<!ENTITY referencesField2.label "referensi">
-<!ENTITY messageIdField2.label "id-pesan">
-<!ENTITY inReplyToField2.label "sebagai-balasan-kepada">
-<!ENTITY originalWebsite2.label "situs-web">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "newsgroup ">
+<!ENTITY followupToField2.label "tindak-lanjut ">
+<!ENTITY tagsHdr2.label "tag ">
+<!ENTITY dateField2.label "tanggal ">
+<!ENTITY userAgentField2.label "agen-pengguna ">
+<!ENTITY referencesField2.label "referensi ">
+<!ENTITY messageIdField2.label "id-pesan ">
+<!ENTITY inReplyToField2.label "sebagai-balasan-kepada ">
+<!ENTITY originalWebsite2.label "situs-web ">
 <!ENTITY editMessageDescription.label "Pesan ini masih konsep">
 <!ENTITY editMessageButton.label "Sunting…">
+<!ENTITY archiveButton.label "arkiv">
 <!ENTITY replyButton.label "balas…">
 <!ENTITY forwardButton.label "teruskan…">
 <!ENTITY junkButton.label "tandai sebagai junk">
@@ -27,7 +28,7 @@
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "tampilkan kode sumber…">
 <!ENTITY viewSourceMenuItem.accesskey "s">
-<!ENTITY hideDetailsButton.label "sembunyikan detil">
+<!ENTITY hideDetailsButton.label "sembunyikan detail">
 <!ENTITY showDetailsButton.label "show details">
 <!ENTITY openAttachmentCmd.label "Buka">
 <!ENTITY openAttachmentCmd.accesskey "B">

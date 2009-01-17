@@ -2,7 +2,7 @@
 <!ENTITY accountName.label "Nama Akun:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identitas Default">
-<!ENTITY identityDesc.label "Setiap akun memiliki satu identitas. Identitas ini akan digunakan oleh orang lain untuk mengenali anda saat mereka membaca pesan anda.">
+<!ENTITY identityDesc.label "Setiap akun memiliki satu identitas. Identitas ini akan digunakan oleh orang lain untuk mengenali Anda saat mereka membaca pesan Anda.">
 <!ENTITY name.label "Nama Anda:">
 <!ENTITY name.accesskey "A">
 <!ENTITY email.label "Alamat Email:">

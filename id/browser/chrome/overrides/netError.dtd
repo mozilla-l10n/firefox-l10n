@@ -10,8 +10,8 @@
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Cek kesalahan pengetikan pada alamat seperti
-    <strong>ww</strong>.contoh.com yang seharusnya
-    <strong>www</strong>.contoh.com</li>
+    <strong>ww</strong>.example.com yang seharusnya
+    <strong>www</strong>.example.com</li>
   <li>Bila Anda tidak dapat memuat halaman apapun, periksa sambungan jaringan komputer
     Anda.</li>
   <li>Bila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan
@@ -33,12 +33,12 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Alamat web biasanya ditulis seperti ini
-    <strong>http://www.contoh.com/</strong></li>
+    <strong>http://www.example.com/</strong></li>
   <li>Pastikan Anda menggunakan garis miring depan, yakni
     <strong>/</strong>).</li>
 </ul>
 ">
-<!ENTITY netInterrupt.title "Sambungan terpotong">
+<!ENTITY netInterrupt.title "Sambungan terputus">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Mode offline">
 <!ENTITY netOffline.longDesc "
@@ -62,7 +62,7 @@
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 <!ENTITY netTimeout.title "Sambungan time out">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-<!ENTITY protocolNotFound.title "Alamat tidak bisa dimengerti">
+<!ENTITY protocolNotFound.title "Alamat tidak dapat dipahami oleh program">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
   <li>Anda mungkin perlu memasang perangkat lunak lain untuk membuka alamat ini.</li>
@@ -107,7 +107,7 @@
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Hal ini mungkin terjadi karena masalah pada konfigurasi server atau pihak tertentu mencoba menyamar menjadi server tersebut.</li>
-  <li>Jika anda pernah tersambung dengan baik, kesalahan ini mungkin hanya sementara dan anda dapat mencoba lagi nanti.</li>
+  <li>Jika Anda pernah tersambung dengan baik, kesalahan ini mungkin hanya sementara dan Anda dapat mencoba lagi nanti.</li>
 </ul>
 ">
 <!ENTITY sharedLongDesc "
@@ -119,19 +119,19 @@
 ">
 <!ENTITY malwareBlocked.title "Tersangka Situs Penyerang!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Situs penyerang mencoba memasang program yang dapat mencuri data pribadi, menggunakan komputer anda untuk menyerang komputer lain, atau merusak sistem anda.</p>
+<p>Situs penyerang mencoba memasang program yang dapat mencuri data pribadi, menggunakan komputer Anda untuk menyerang komputer lain, atau merusak sistem Anda.</p>
 <p>Pemilik situs web yang merasa situs yang bersangkutan bukan merupakan situs web penyerang dapat meminta <a href='http://www.stopbadware.org/home/reviewinfo' >peninjauan kembali</a>.</p>
 ">
 <!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
 <!ENTITY phishingBlocked.longDesc '
 <p>Dengan memasukkan informasi pribadi pada halaman ini, dapat menyebabkan pencurian identitas atau kejahatan lainnya.</p>
-<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru halaman web dan email yang mungkin anda percayai.</p>
+<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru halaman web dan email yang mungkin Anda percayai.</p>
 '>
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 <!ENTITY securityOverride.warningText "
-<p>Sebaiknya anda tidak menambahkan pengecualian jika anda sedang menggunakan jaringan internet yang tidak anda percayai atau jika biasanya anda tidak pernah melihat peringatan tentang server ini.</p>
+<p>Sebaiknya Anda tidak menambahkan pengecualian jika Anda sedang menggunakan jaringan internet yang tidak Anda percayai atau jika biasanya Anda tidak pernah melihat peringatan tentang server ini.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>

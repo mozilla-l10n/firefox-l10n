@@ -39,7 +39,6 @@
 <!ENTITY closeCmd.label "Tutup">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "T">
-<!ENTITY closeWindow.label "Tutup Jendela">
 <!ENTITY quitApplicationCmd.label "Keluar">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "K">

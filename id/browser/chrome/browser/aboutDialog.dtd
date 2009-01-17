@@ -7,5 +7,7 @@
 <!ENTITY aboutVersion "versi">
 <!ENTITY closeCmdGNOME.label "Tutup">
 <!ENTITY closeCmdGNOME.accesskey "T">
-<!ENTITY copyrightInfo "©1998-2008 Kontributor. Hak Cipta Dilindungi Undang-Undang. Firefox dan logo
-                                 Firefox adalah merek dagang Yayasan Mozilla. Hak Cipta Dilindungi Undang-Undang.">
+<!ENTITY copyrightInfo1 "©1998-2008 Kontributor. Hak Cipta Dilindungi Undang-Undang. (">
+<!ENTITY licenseLink "about:license">
+<!ENTITY licenseLinkText "Informasi Lisensi">
+<!ENTITY copyrightInfo2 ")">

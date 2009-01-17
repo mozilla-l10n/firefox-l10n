@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR Pengguna Firefox Indonesia
+#define MOZ_LANGPACK_CREATOR id-Mozilla - Komunitas Mozilla Indonesia
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.

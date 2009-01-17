@@ -8,12 +8,9 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Default:">
-<!ENTITY savePassword.label "Simpan kata sandi">
-<!ENTITY biffStart.label "Periksa pesan baru setiap">
+<!ENTITY biffStart.label "Periksa pesan baru setiap ">
 <!ENTITY biffStart.accesskey "p">
 <!ENTITY biffEnd.label "menit">
-<!ENTITY isSecure.label "Gunakan sambungan aman (SSL)">
-<!ENTITY isSecure.accesskey "k">
 <!ENTITY socketType.label "Gunakan sambungan aman:">
 <!ENTITY neverSecure.label "Tidak pernah">
 <!ENTITY neverSecure.accesskey "T">
@@ -55,8 +52,8 @@
 <!ENTITY maxMessagesEnd.label "pesan">
 <!ENTITY alwaysAuthenticate.label "Selalu kirimkan permintaan otentikasi ketika tersambung dengan server ini">
 <!ENTITY alwaysAuthenticate.accesskey "S">
-<!ENTITY newsrcFilePath.label "berkas newsrc">
-<!ENTITY localPath.label "Direktori lokal">
+<!ENTITY newsrcFilePath.label "berkas newsrc:">
+<!ENTITY localPath.label "Direktori lokal:">
 <!ENTITY abbreviate.label "Tampilkan nama newsgroup pada panel Folder Email sebagai:">
 <!ENTITY abbreviateOn.label "Nama lengkap (Contohnya 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Singkatan (Contohnya, 'n.p.m.mail-news')">

@@ -2,7 +2,7 @@
 <!ENTITY intro.label "Berkas &quot;#3&quot; adalah tipe #2 (#1), dan #4 tidak mengetahui cara menangani tipe berkas ini. Berkas terletak di:">
 <!ENTITY intro.noDesc.label "Berkas &quot;#3&quot; adalah tipe #2, dan #4 tidak mengetahui cara menangani tipe berkas ini. Berkas terletak di:">
 <!ENTITY intro.attachment.label "Situs menyarankan agar &quot;#3&quot; ditangani sebagai lampiran. Tipenya #2 (#1) dan terletak di:">
-<!ENTITY intro.attachment.noDesc.label "Situs menyarankan agar &quot;#3&quot; ditangani sebagai lampiran. Tipenya #2 dan terletak di">
+<!ENTITY intro.attachment.noDesc.label "Situs menyarankan agar &quot;#3&quot; ditangani sebagai lampiran. Tipenya #2 dan terletak di:">
 <!ENTITY intro.sniffed.label "#4 mendeteksi bahwa berkas &quot;#3&quot; kemungkinan dari tipe #2 (#1). Berkas terletak di:">
 <!ENTITY intro.sniffed.noDesc.label "#4 mendeteksi bahwa berkas &quot;#3&quot; kemungkinan dari tipe #2 (#1). Berkas terletak di:">
 <!ENTITY prompt.label "Apa yang #1 harus lakukan dengan berkas ini?">

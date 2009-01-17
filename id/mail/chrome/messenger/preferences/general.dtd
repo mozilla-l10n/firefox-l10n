@@ -1,9 +1,3 @@
-<!ENTITY systemDefaults.label "Nilai Default Sistem">
-<!ENTITY alwaysCheckDefault.label "Selalu periksa apakah &brandShortName; adalah pembaca email default saat memulai">
-<!ENTITY alwaysCheckDefault.accesskey "l">
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "Periksa Sekarang">
-<!ENTITY checkNow.accesskey "N">
 <!ENTITY messengerStartPage.label "Halaman Awal &brandShortName;">
 <!ENTITY enableStartPage.label "Saat &brandShortName; dimulai tampilkan Halaman Awal pada panel pesan">
 <!ENTITY enableStartPage.accesskey "W">
