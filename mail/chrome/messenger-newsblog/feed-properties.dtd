@@ -1,7 +1,7 @@
 <!ENTITY window.title "Properti Feed">
-<!ENTITY feedFolder.label "Simpan Artikel di:">
+<!ENTITY feedFolder.label "Simpan Artikel di: ">
 <!ENTITY feedFolder.accesskey "S">
-<!ENTITY feedLocation.label "URL Feed:">
+<!ENTITY feedLocation.label "URL Feed: ">
 <!ENTITY feedLocation.accesskey "F">
 <!ENTITY choosethisfolder.label "pilih folder ini">
 <!ENTITY quickMode.label "Tampilkan ringkasan artikel tanpa memuat halaman web">

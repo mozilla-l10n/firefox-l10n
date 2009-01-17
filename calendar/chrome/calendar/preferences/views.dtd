@@ -1,0 +1,25 @@
+<!ENTITY pref.calendar.view.allview.caption "Utama">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Tampilan Harian dan Mingguan">
+<!ENTITY pref.calendar.view.multiweekview.caption "Tampilan Multiminggu">
+<!ENTITY pref.calendar.view.workweek.caption "Minggu Kerja">
+<!ENTITY pref.weekstarts.label "Mulai hari kerja pada:">
+<!ENTITY pref.weekstarts.accesskey "p">
+<!ENTITY pref.daysoff.label "Sertakan hari berikut untuk hari kerja:">
+<!ENTITY pref.calendar.view.daystart.label "Hari dimulai pada:">
+<!ENTITY pref.calendar.view.daystart.accesskey "H">
+<!ENTITY pref.calendar.view.dayend.label "Hari berakhir pada:">
+<!ENTITY pref.calendar.view.dayend.accesskey "H">
+<!ENTITY pref.calendar.view.visiblehours.label "Tampilkan:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "T">
+<!ENTITY pref.calendar.view.visiblehoursend.label "jam sekaligus">
+<!ENTITY pref.numberofweeks.label "Jumlah minggu yang ditampilkan (termasuk minggu sebelumnya):">
+<!ENTITY pref.numberofweeks.accesskey "m">
+<!ENTITY pref.numberofpreviousweeks.label "Jumlah minggu sebelumnya yang ditampilkan:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "S">
+<!ENTITY pref.numberofweeks.0 "tidak ada">
+<!ENTITY pref.numberofweeks.1 "1 minggu">
+<!ENTITY pref.numberofweeks.2 "2 minggu">
+<!ENTITY pref.numberofweeks.3 "3 minggu">
+<!ENTITY pref.numberofweeks.4 "4 minggu">
+<!ENTITY pref.numberofweeks.5 "5 minggu">
+<!ENTITY pref.numberofweeks.6 "6 minggu">

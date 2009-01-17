@@ -3,9 +3,9 @@
 <!ENTITY fileMenu.accesskey "B">
 <!ENTITY newMenu.label "Baru">
 <!ENTITY newMenu.accesskey "B">
-<!ENTITY newCard.label "Kartu Nama Buku Alamat…">
-<!ENTITY newCard.accesskey "K">
-<!ENTITY newCard.key "N">
+<!ENTITY newContact.label "Data Kenalan Baru…">
+<!ENTITY newContact.accesskey "K">
+<!ENTITY newContact.key "N">
 <!ENTITY newListCmd.label "Milis…">
 <!ENTITY newListCmd.accesskey "M">
 <!ENTITY newAddressBookCmd.label "Buku Alamat…">
@@ -22,13 +22,13 @@
 <!ENTITY closeCmd.accesskey "T">
 <!ENTITY printSetupCmd.label "Tata Halaman…">
 <!ENTITY printSetupCmd.accesskey "H">
-<!ENTITY printPreviewCardViewCmd.label "Pratinjau Cetak Kartu Nama">
-<!ENTITY printPreviewCardViewCmd.accesskey "c">
+<!ENTITY printPreviewContactCmd.label "Pratinjau Cetak Data Kenalan">
+<!ENTITY printPreviewContactCmd.accesskey "c">
 <!ENTITY printPreviewAddressBook.label "Pratinjau Cetak Buku Alamat">
 <!ENTITY printPreviewAddressBook.accesskey "C">
-<!ENTITY printCardViewCmd.label "Cetak Kartu Nama…">
-<!ENTITY printCardViewCmd.accesskey "c">
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactCmd.label "Cetak Data Kenalan…">
+<!ENTITY printContactCmd.accesskey "c">
+<!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Cetak Buku Alamat…">
 <!ENTITY printAddressBook.accesskey "C">
 <!ENTITY editMenu.label "Ubah">
@@ -51,8 +51,8 @@
 <!ENTITY deleteCmd.label "Hapus">
 <!ENTITY deleteCmd.accesskey "H">
 <!ENTITY deleteAbCmd.label "Hapus Buku Alamat">
-<!ENTITY deleteCardCmd.label "Hapus Kartu Nama">
-<!ENTITY deleteCardsCmd2.label "Hapus Kartu Nama">
+<!ENTITY deleteContactCmd.label "Hapus Data Kenalan">
+<!ENTITY deleteContactsCmd.label "Hapus Data Kenalan">
 <!ENTITY deleteListCmd.label "Hapus Daftar">
 <!ENTITY deleteListsCmd.label "Hapus Daftar">
 <!ENTITY deleteItemsCmd.label "Hapus Item">
@@ -76,8 +76,8 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Suka-suka…">
 <!ENTITY customizeToolbar.accesskey "S">
-<!ENTITY showCardPane.label "Panel Ringkasan Kartu Nama">
-<!ENTITY showCardPane.accesskey "K">
+<!ENTITY showContactPane.label "Panel Ringkasan Data Kenalan">
+<!ENTITY showContactPane.accesskey "K">
 <!ENTITY menu_ShowNameAs.label "Tampilkan Kartu Nama Sebagai">
 <!ENTITY menu_ShowNameAs.accesskey "K">
 <!ENTITY firstLastCmd.label "Nama Depan, Belakang">
@@ -103,25 +103,24 @@
 <!ENTITY preferencesCmd.accesskey "P">
 <!ENTITY preferencesCmdUnix.label "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey "P">
-<!ENTITY newcardButton.label "Kartu Nama Baru">
-<!ENTITY newcardButton.accesskey "K">
+<!ENTITY newContactButton.label "Data Kenalan Baru">
+<!ENTITY newContactButton.accesskey "K">
 <!ENTITY newlistButton.label "Daftar Baru">
 <!ENTITY newlistButton.accesskey "D">
-<!ENTITY editButton.label "Properti">
-<!ENTITY editButton.accesskey "P">
+<!ENTITY editButton2.label "Properti">
+<!ENTITY editButton2.accesskey "P">
 <!ENTITY newmsgButton.label "Tulis">
 <!ENTITY newmsgButton.accesskey "T">
 <!ENTITY newIM.label "Pesan Instan">
 <!ENTITY newIM.accesskey "I">
-<!ENTITY deleteButton.label "Hapus">
-<!ENTITY deleteButton.accesskey "H">
-<!ENTITY throbberItem.title "Indikator Aktivitas">
-<!ENTITY newcardButton.tooltip "Buat kartu nama buku alamat baru">
+<!ENTITY deleteButton2.label "Hapus">
+<!ENTITY deleteButton2.accesskey "H">
+<!ENTITY newContactButton.tooltip "Buat data kenalan baru">
 <!ENTITY newlistButton.tooltip "Buat daftar alamat baru">
-<!ENTITY editButton.tooltip "Ubah kartu nama terpilih">
+<!ENTITY editButton2.tooltip "Ubah item terpilih">
 <!ENTITY newmsgButton.tooltip "Kirim email">
 <!ENTITY newIM.tooltip "Kirim pesan instan atau chatting">
-<!ENTITY deleteButton.tooltip "Hapus kartu nama atau buku alamat terpilih">
+<!ENTITY deleteButton2.tooltip "Hapus item terpilih">
 <!ENTITY dirTreeHeader.label "Buku Alamat">
 <!ENTITY SearchNameOrEmail.label "Nama atau Email">
 <!ENTITY SearchNameOrEmail.accesskey "N">

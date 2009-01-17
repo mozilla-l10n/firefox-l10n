@@ -1,0 +1,14 @@
+<!ENTITY wizard.title "Buat Kalender Baru">
+<!ENTITY wizard.label "Buat kalender baru">
+<!ENTITY wizard.description "Cari kalender Anda">
+<!ENTITY initialpage.description "Kalender dapat disimpan dalam komputer Anda atau disimpan di komputer server agar dapat diakses dalam jaringan atau dapat digunakan bersama-sama dengan teman atau rekan kerja Anda.">
+<!ENTITY initialpage.computer.label "Di Komputer Saya">
+<!ENTITY initialpage.network.label "Di dalam Jaringan">
+<!ENTITY locationpage.description "Menyediakan keterangan tentang apa yang dibutuhkan untuk mengakses kalender daring Anda">
+<!ENTITY locationpage.login.description "Tidak wajib: masukkan nama pengguna dan kata sandi">
+<!ENTITY locationpage.username.label "Nama Pengguna:">
+<!ENTITY locationpage.password.label "Kata Sandi:">
+<!ENTITY custompage.shortdescription "Atur kalender Anda">
+<!ENTITY custompage.longdescription "Anda dapat memberikan nama alias (nickname) pada kalender Anda dan mengganti warna penunjuk acara pada kalender ini.">
+<!ENTITY finishpage.shortdescription "Kalender Telah Dibuat">
+<!ENTITY finishpage.longdescription "Kalender Anda telah dibuat.">

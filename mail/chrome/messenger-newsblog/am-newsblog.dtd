@@ -1,5 +1,5 @@
 <!ENTITY newsblogTitle.label "Pengaturan Akun RSS">
-<!ENTITY biffStart.label "Periksa artikel baru setiap">
+<!ENTITY biffStart.label "Periksa artikel baru setiap ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "menit">
 <!ENTITY loginAtStartup.label "Periksa artikel baru saat memulai aplikasi">

@@ -95,7 +95,7 @@
 <!ENTITY includeUpdate.tooltip "Sertakan Pengaya saat memasang versi baru">
 <!ENTITY insecureUpdate.label "Tidak menyediakan versi baru yang aman.">
 <!ENTITY needsDependencies.label "Membutuhkan item tambahan.">
-<!ENTITY blocklisted.label "Dimatikan untuk perlindungan anda">
+<!ENTITY blocklisted.label "Dimatikan untuk perlindungan Anda.">
 <!ENTITY softBlocklisted.label "Telah diketahui dapat menimbulkan masalah stabilitas atau keamanan.">
 <!ENTITY toBeDisabled.label "Pengaya berikut akan dimatikan setelah &brandShortName; direstart.">
 <!ENTITY toBeEnabled.label "Pengaya berikut akan diaktifkan setelah &brandShortName; direstart.">

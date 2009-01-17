@@ -15,7 +15,7 @@
 <!ENTITY view.toolbar.accesskey "o">
 <!ENTITY view.columns.label "Tampilkan Kolom">
 <!ENTITY view.columns.accesskey "K">
-<!ENTITY view.sort.label "Urut">
+<!ENTITY view.sort.label "Urutan">
 <!ENTITY view.sort.accesskey "U">
 <!ENTITY view.unsorted.label "Tidak Diurut">
 <!ENTITY view.unsorted.accesskey "t">
@@ -139,7 +139,7 @@
 <!ENTITY saveSearch.accesskey "S">
 <!ENTITY moreCriteria.label "+">
 <!ENTITY advancedSearch.onlybookmarked.label "Cari Bookmark saja">
-<!ENTITY advancedSearch.match.label "Cocok dengan">
+<!ENTITY advancedSearch.match.label "Cocok dengan ">
 <!ENTITY advancedSearch.all.label "semua">
 <!ENTITY advancedSearch.any.label "salah satu">
 <!ENTITY advancedSearch.rules.label " aturan ini:">
@@ -158,23 +158,23 @@
 <!ENTITY advancedSearch.last_months.label "bulan sebelumnya">
 <!ENTITY advancedSearch.plus.label "+">
 <!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Dikelompokkan berdasar:">
+<!ENTITY advancedSearch.groupby.label "Dikelompokkan berdasar: ">
 <!ENTITY advancedSearch.groupby_host.label "host">
 <!ENTITY advancedSearch.groupby_domain.label "domain">
 <!ENTITY advancedSearch.groupby_folder.label "folder">
-<!ENTITY advancedSearch.sortby.label "Diurut berdasar:">
+<!ENTITY advancedSearch.sortby.label "Diurut berdasar: ">
 <!ENTITY advancedSearch.sortby_title.label "judul">
 <!ENTITY advancedSearch.sortby_date.label "tanggal">
 <!ENTITY advancedSearch.sortby_visit.label "jumlah kunjungan">
 <!ENTITY advancedSearch.sortby_url.label "url">
 <!ENTITY advancedSearch.sortby_asc.label "urut naik">
 <!ENTITY advancedSearch.sortby_desc.label "urut turun">
-<!ENTITY advancedSearch.max.label "Jumlah hasil maksimum:">
+<!ENTITY advancedSearch.max.label "Jumlah hasil maksimum: ">
 <!ENTITY cmd.find.key "f">
 <!ENTITY feed.subscribe.label "Feed">
 <!ENTITY feed.subscribe.tooltip "Berlangganan">
 <!ENTITY view.detailsMacOSX.label "Daftar">
-<!ENTITY view.details.label "Detil">
+<!ENTITY view.details.label "Detail">
 <!ENTITY view.details.accesskey "D">
 <!ENTITY view.addons.label "Unduh Pengaya Tampilan">
 <!ENTITY maintenance.label "Impor dan Cadangan">

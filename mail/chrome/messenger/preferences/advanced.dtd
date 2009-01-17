@@ -11,8 +11,6 @@
 <!ENTITY markAsReadDelay.label "Setelah ditampilkan ">
 <!ENTITY markAsReadDelay.accesskey "e">
 <!ENTITY secondsLabel.label "detik">
-<!ENTITY showFolderColumns.label "Tampilkan kolom yang diekspansi pada panel folder">
-<!ENTITY showFolderColumns.accesskey "l">
 <!ENTITY openMsgIn.label "Buka pesan di:">
 <!ENTITY reuseExpRadio0.label "Jendela pesan baru">
 <!ENTITY reuseExpRadio0.accesskey "J">
@@ -69,4 +67,8 @@
 <!ENTITY proxiesConfigure.label "Atur cara &brandShortName; tersambung ke Internet">
 <!ENTITY enableGloda.label "Aktifkan Sistem Pengindeksan Pesan">
 <!ENTITY enableGloda.accesskey "i">
-
+<!ENTITY alwaysCheckDefault.label "Selalu periksa apakah &brandShortName; adalah pembaca email default saat memulai">
+<!ENTITY alwaysCheckDefault.accesskey "l">
+<!ENTITY systemDefaults.label "Nilai Default Sistem">
+<!ENTITY checkNow.label "Periksa Sekarang">
+<!ENTITY checkNow.accesskey "N">

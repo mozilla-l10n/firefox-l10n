@@ -6,3 +6,4 @@
 <!ENTITY aboutVersion "versi">
 <!ENTITY copyrightText "©1998-2008 Kontributor. Hak Cipta Dilindungi Undang-Undang. Mozilla Thunderbird dan logo
                                  Thunderbird adalah merek dagang Yayasan Mozilla. Hak Cipta Dilindungi Undang-Undang.">
+<!ENTITY cmdCloseMac.commandKey "w">

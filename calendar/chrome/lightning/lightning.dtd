@@ -1,0 +1,46 @@
+<!ENTITY lightning.taskLabel "Lightning">
+<!ENTITY lightning.menupopup.new.event.label "Acara…">
+<!ENTITY lightning.menupopup.new.task.label "Tugas…">
+<!ENTITY lightning.menupopup.new.calendar.label "Kalender…">
+<!ENTITY lightning.menupopup.open.label "Buka">
+<!ENTITY lightning.menupopup.open.accesskey "B">
+<!ENTITY lightning.menupopup.open.message.label "Simpanan Pesan…">
+<!ENTITY lightning.menupopup.open.message.accesskey "S">
+<!ENTITY lightning.menupopup.open.calendar.label "Berkas Kalender…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey "K">
+<!ENTITY lightning.calendar.label "Kalender">
+<!ENTITY lightning.calendar.accesskey "K">
+<!ENTITY lightning.tasks.label "Tugas">
+<!ENTITY lightning.tasks.accesskey "T">
+<!ENTITY lightning.toolbar.mail.label "Email">
+<!ENTITY lightning.toolbar.mail.accesskey "E">
+<!ENTITY lightning.toolbar.calendar.label "Kalender">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.label "Tugas">
+<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.day.label "Hari">
+<!ENTITY lightning.toolbar.day.accesskey "H">
+<!ENTITY lightning.toolbar.week.label "Minggu">
+<!ENTITY lightning.toolbar.week.accesskey "M">
+<!ENTITY lightning.toolbar.multiweek.label "Multiminggu">
+<!ENTITY lightning.toolbar.multiweek.accesskey "u">
+<!ENTITY lightning.toolbar.month.label "Bulan">
+<!ENTITY lightning.toolbar.month.accesskey "B">
+<!ENTITY lightning.toolbar.newevent.label "Acara">
+<!ENTITY lightning.toolbar.newtask.label "Tugas">
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Tampilkan Acara pada Panel Hari Ini">
+<!ENTITY lightning.calendarproperties.showtasks.label "Tampilkan Tugas pada Panel Hari Ini dan Mode Tugas">
+<!ENTITY lightning.calendarproperties.email.label "Email:">
+<!ENTITY lightning.imipbar.description "Pesan in berisi undangan sebuah acara.">
+<!ENTITY lightning.keys.event.new "U">
+<!ENTITY lightning.keys.todo.new "D">
+<!ENTITY lightning.acctCentral.newCalendar.label "Buat kalender baru">
+<!ENTITY todaypane.showMinimonth.label "Tampilkan Bulan-Mini">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Tampilkan Hari-Mini">
+<!ENTITY todaypane.showMiniday.accesskey "H">
+<!ENTITY todaypane.showNone.label "Tak Ada Tampilan">
+<!ENTITY todaypane.showNone.accesskey "A">
+<!ENTITY todaypane.showTodayPane.label "Tampilkan Panel Hari Ini">
+<!ENTITY todaypane.showTodayPane.accesskey "I">
+<!ENTITY todaypane.statusButton.label "Panel Hari Ini">

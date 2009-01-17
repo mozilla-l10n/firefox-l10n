@@ -3,8 +3,8 @@
 <!ENTITY importFromNonWin.label "Impor Pengaturan, Pengaturan Akun, Buku Alamat, Filter, dan Data Lainnya dari:">
 <!ENTITY importFromNothing.label "Jangan impor apapun">
 <!ENTITY importFromNothing.accesskey "J">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 atau Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x atau SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "s">
 <!ENTITY importFromNetscape4.label "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "Outlook Express">

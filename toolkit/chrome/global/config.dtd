@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY window.title "about:config">
 <!ENTITY aboutWarningTitle.label "Perlakuan ini dapat mengakibatkan pelanggaran terhadap garansi!">
-<!ENTITY aboutWarningText.label "Mengubah nilai default pada pengaturan canggih ini dapat mengakibatkan kerusakan pada stabilitas, keamanan, dan performansi aplikasi ini. Sebaiknya anda hanya melanjutkan jika benar-benar tahu apa yang akan anda lakukan.">
+<!ENTITY aboutWarningText.label "Mengubah nilai default pada pengaturan canggih ini dapat mengakibatkan kerusakan pada stabilitas, keamanan, dan performansi aplikasi ini. Sebaiknya Anda hanya melanjutkan jika benar-benar tahu apa yang akan Anda lakukan.">
 <!ENTITY aboutWarningButton.label "Saya berjanji akan berhati-hati!">
 <!ENTITY aboutWarningCheckbox.label "Tampilkan peringatan ini lagi nanti">
 <!ENTITY filterPrefs.label "Filter:">

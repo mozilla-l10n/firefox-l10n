@@ -7,8 +7,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "P">
-<!ENTITY newCard.label "Kartu Buku Alamat…">
-<!ENTITY newCard.accesskey "K">
+<!ENTITY newContact.label "Kenalan dari Buku Alamat…">
+<!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Lampirkan">
 <!ENTITY attachMenu.accesskey "L">
 <!ENTITY attachFileCmd.label "Berkas…">
@@ -84,6 +84,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Toolbar">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY showCompositionToolbarCmd.label "Toolbar Komposisi">
+<!ENTITY showCompositionToolbarCmd.accesskey "K">
 <!ENTITY showFormattingBarCmd.label "Bar Format">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Bar Status">
@@ -96,10 +97,10 @@
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY optionsMenu.label "Pengaturan">
 <!ENTITY optionsMenu.accesskey "P">
-<!ENTITY checkSpellingCmd.label "Periksa Ejaan…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "E">
+<!ENTITY checkSpellingCmd2.label "Periksa Ejaan…">
+<!ENTITY checkSpellingCmd2.key "K">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "E">
 <!ENTITY enableInlineSpellChecker.label "Periksa Ejaan Saat Mengetik">
 <!ENTITY enableInlineSpellChecker.accesskey "M">
 <!ENTITY quoteCmd.label "Kutip Pesan">
@@ -162,7 +163,6 @@
 <!ENTITY attachButton.label "Lampirkan">
 <!ENTITY spellingButton.label "Ejaan">
 <!ENTITY saveButton.label "Simpan">
-<!ENTITY throbberItem.title "Indikator Aktivitas">
 <!ENTITY sendButton.tooltip "Kirim pesan ini sekarang juga">
 <!ENTITY sendlaterButton.tooltip "Kirim pesan ini nanti">
 <!ENTITY quoteButton.tooltip "Kutip pesan sebelumnya">

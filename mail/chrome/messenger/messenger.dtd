@@ -103,6 +103,8 @@
 <!ENTITY redoMoveMsgCmd.label "Ulangi Memindah Pesan">
 <!ENTITY undoCopyMsgCmd.label "Batalkan Menyalin Pesan">
 <!ENTITY redoCopyMsgCmd.label "Ulangi Menyalin Pesan">
+<!ENTITY undoMarkAllCmd.label "Batalkan Menandai Sudah Dibaca">
+<!ENTITY redoMarkAllCmd.label "Ulangi Menandai Sudah Dibaca">
 <!ENTITY undoDefaultCmd.label "Batal">
 <!ENTITY undoDefaultCmd.accesskey "B">
 <!ENTITY redoDefaultCmd.label "Ulangi">
@@ -282,6 +284,9 @@
 <!ENTITY newMsgCmd.accesskey "B">
 <!ENTITY newNewMsgCmd.label "Pesan">
 <!ENTITY newNewMsgCmd.accesskey "P">
+<!ENTITY archiveMsgCmd.label "Arkiv">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Balas">
 <!ENTITY replyMsgCmd.accesskey "B">
 <!ENTITY replyMsgCmd.key "r">
@@ -562,9 +567,9 @@
 <!ENTITY junkBarMessage1.label "Email Junk">
 <!ENTITY junkBarButton1.label "Bukan Junk">
 <!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage1.label "Untuk melindungi privasi anda, tampilan gambar daring telah diblokir">
+<!ENTITY remoteContentMessage1.label "Untuk melindungi privasi Anda, tampilan gambar daring telah diblokir.">
 <!ENTITY loadRemoteContentButton2.label "Tampilkan Gambar Sekarang">
-<!ENTITY phishingBarMessage2.label "Pesan ini mungkin berisi penipuan (scam)">
+<!ENTITY phishingBarMessage2.label "Pesan ini mungkin berisi penipuan (scam).">
 <!ENTITY removePhishingBarButton1.label "Abaikan Peringatan">
 <!ENTITY reportPhishingError1.label "Nampaknya pesan ini bukan pesan berisi penipuan.">
 <!ENTITY more.label "lebih banyak">

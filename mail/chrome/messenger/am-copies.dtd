@@ -1,5 +1,5 @@
 <!ENTITY copyAndFolderTitle.label "Salinan &amp; Folder">
-<!ENTITY sendingPrefix.label "Saat mengirim pesan, secara otomatis:">
+<!ENTITY sendingPrefix.label "Saat mengirim pesan, secara otomatis: ">
 <!ENTITY fccMailFolder.label "Masukkan sebuah salinan di:">
 <!ENTITY fccMailFolder.accesskey "M">
 <!ENTITY fccReplyFollowsParent.label "Masukkan balasan pada folder yang sama dengan folder pesan yang dibalas">
@@ -16,10 +16,15 @@
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Lainnya:">
 <!ENTITY draftInOtherFolder.accesskey "L">
+<!ENTITY archivesFolderOn.label "&quot;Gudang&quot; Folder on:">
+<!ENTITY archivesFolderOn.accesskey "G">
+<!ENTITY archiveInOtherFolder.label "Lainnya:">
+<!ENTITY archiveInOtherFolder.accesskey "L">
 <!ENTITY templatesFolderOn.label "Folder &quot;Templat&quot; di:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Lainnya:">
 <!ENTITY templateInOtherFolder.accesskey "a">
 <!ENTITY specialFoldersTitle.label "Konsep dan Templat">
 <!ENTITY keepDrafts.label "Letakkan pesan konsep di:">
+<!ENTITY keepArchives.label "Letakkan pesan arkaiv di:">
 <!ENTITY keepTempltes.label "Letakkan pesan templat di:">

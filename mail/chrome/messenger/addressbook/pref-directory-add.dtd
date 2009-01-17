@@ -1,8 +1,8 @@
 <!--null-->
 <!ENTITY newDirectoryTitle.label "Properti Server Direktori">
-<!ENTITY directoryName.label "Nama:">
+<!ENTITY directoryName.label "Nama: ">
 <!ENTITY directoryName.accesskey "N">
-<!ENTITY directoryHostname.label "Nama host:">
+<!ENTITY directoryHostname.label "Nama host: ">
 <!ENTITY directoryHostname.accesskey "h">
 <!ENTITY directoryBaseDN.label "Base DN: ">
 <!ENTITY directoryBaseDN.accesskey "b">
@@ -15,11 +15,11 @@
 <!ENTITY General.tab "Umum">
 <!ENTITY Offline.tab "Offline">
 <!ENTITY Advanced.tab "Canggih">
-<!ENTITY portNumber.label "Nomor port:">
+<!ENTITY portNumber.label "Nomor port: ">
 <!ENTITY portNumber.accesskey "P">
-<!ENTITY searchFilter.label "Filter pencarian:">
+<!ENTITY searchFilter.label "Filter pencarian: ">
 <!ENTITY searchFilter.accesskey "f">
-<!ENTITY scope.label "Lingkup:">
+<!ENTITY scope.label "Lingkup: ">
 <!ENTITY scope.accesskey "l">
 <!ENTITY scopeOneLevel.label "Satu Tingkat">
 <!ENTITY scopeOneLevel.accesskey "t">

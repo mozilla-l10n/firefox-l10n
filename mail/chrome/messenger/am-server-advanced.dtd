@@ -9,7 +9,7 @@
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Jumlah sambungan maksimum ke server yang di-cache">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
-<!ENTITY namespaceDesc.label "Pengaturan ini menentukan namespace pada server IMAP anda">
+<!ENTITY namespaceDesc.label "Pengaturan ini menentukan namespace pada server IMAP Anda">
 <!ENTITY personalNamespace.label "Namespace personal:">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Publik (berbagi-pakai):">

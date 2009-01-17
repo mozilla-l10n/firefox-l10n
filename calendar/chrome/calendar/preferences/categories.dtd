@@ -1,0 +1,15 @@
+<!ENTITY pref.categories.add.title "Tambah Kategori">
+<!ENTITY pref.categories.addButton.label "Tambah…">
+<!ENTITY pref.categories.addButton.accesskey "T">
+<!ENTITY pref.categories.edit.title "Ubah Kategori">
+<!ENTITY pref.categories.editButton.label "Ubah…">
+<!ENTITY pref.categories.editButton.accesskey "U">
+<!ENTITY pref.categories.removeButton.label "Hapus">
+<!ENTITY pref.categories.removeButton.accesskey "H">
+<!ENTITY pref.categories.name.label "Nama">
+<!ENTITY pref.categories.color.label "Warna">
+<!ENTITY pref.categories.usecolor.label "Gunakan Warna">
+<!ENTITY pref.categories.none.label "(tidak ada)">
+<!ENTITY pref.categories.overwrite "Kategori dengan nama yang sama sudah ada sebelumnya. \nApakah ingin ditimpa?">
+<!ENTITY pref.categories.overwrite.title "Peringatan: Nama berganda">
+<!ENTITY pref.categories.noBlankCategories "Anda harus memasukkan nama kategori.">

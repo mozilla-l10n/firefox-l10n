@@ -2,5 +2,5 @@
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Pesan">
 <!ENTITY newMessageCmd.accesskey "P">
-<!ENTITY newCardCmd.label "Kartu Nama…">
-<!ENTITY newCardCmd.accesskey "K">
+<!ENTITY newContactCmd.label "Kenalan dari Buku Alamat…">
+<!ENTITY newContactCmd.accesskey "K">
