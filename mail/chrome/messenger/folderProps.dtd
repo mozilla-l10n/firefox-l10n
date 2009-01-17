@@ -61,6 +61,8 @@
 <!ENTITY retentionKeepNew.accesskey "п">
 <!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
 <!ENTITY retentionKeepUnread.accesskey "ч">
+<!ENTITY retentionApplyToFlagged.label "Всегда сохранять сообщения, отмеченные звёздочкой">
+<!ENTITY retentionApplyToFlagged.accesskey "р">
 <!ENTITY folderOfflineTab.label "Автономно">
 <!ENTITY folderCheckForNewMessages.label "Проверять эту папку на наличие новых сообщений">
 <!ENTITY folderCheckForNewMessages.accesskey "П">

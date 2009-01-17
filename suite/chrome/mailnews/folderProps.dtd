@@ -61,6 +61,8 @@
 <!ENTITY retentionKeepNew.accesskey "п">
 <!ENTITY retentionKeepUnread.label "Только непрочитанные сообщения">
 <!ENTITY retentionKeepUnread.accesskey "н">
+<!ENTITY retentionApplyToFlagged.label "Всегда сохранять сообщения, отмеченные флагом">
+<!ENTITY retentionApplyToFlagged.accesskey "р">
 <!ENTITY folderOfflineTab.label "Автономно">
 <!ENTITY folderCheckForNewMessages.label "Проверять эту папку на наличие новых сообщений">
 <!ENTITY folderCheckForNewMessages.accesskey "П">
