@@ -18,8 +18,9 @@
 <!ENTITY originalWebsite2.label "сайт">
 <!ENTITY editMessageDescription.label "Это черновик">
 <!ENTITY editMessageButton.label "Изменить…">
-<!ENTITY replyButton.label "ответить…">
-<!ENTITY forwardButton.label "переслать…">
+<!ENTITY archiveButton.label "архивировать">
+<!ENTITY replyButton.label "ответить">
+<!ENTITY forwardButton.label "переслать">
 <!ENTITY junkButton.label "отметить как спам">
 <!ENTITY trashButton.tooltiptext "удалить">
 <!ENTITY otherActionsButton.label "другие действия">

@@ -66,9 +66,9 @@
 <!ENTITY selectAddressCmd.label "Выбрать адреса…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "в">
-<!ENTITY checkSpellingCmd.label "Проверить орфографию…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "ф">
+<!ENTITY checkSpellingCmd2.label "Проверка орфографии…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "в">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
 <!ENTITY enableInlineSpellChecker.accesskey "о">
 <!ENTITY priorityMenu.label "Важность">

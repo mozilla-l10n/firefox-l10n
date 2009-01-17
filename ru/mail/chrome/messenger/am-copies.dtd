@@ -20,7 +20,7 @@
 #
 # Contributor(s):
 #   Srilatha Moturi <srilatha@netscape.com>
-#   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
+   -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -54,10 +54,15 @@
 <!ENTITY draftsFolderOn.accesskey "Ч">
 <!ENTITY draftInOtherFolder.label "Другой папке:">
 <!ENTITY draftInOtherFolder.accesskey "у">
+<!ENTITY archivesFolderOn.label "папке «Архивы» в:">
+<!ENTITY archivesFolderOn.accesskey "в">
+<!ENTITY archiveInOtherFolder.label "Другой папке:">
+<!ENTITY archiveInOtherFolder.accesskey "у">
 <!ENTITY templatesFolderOn.label "папке «Шаблоны» в:">
 <!ENTITY templatesFolderOn.accesskey "Ш">
 <!ENTITY templateInOtherFolder.label "Другой папке:">
 <!ENTITY templateInOtherFolder.accesskey "р">
-<!ENTITY specialFoldersTitle.label "Черновики и шаблоны">
+<!ENTITY specialFoldersTitle.label "Черновики, архивы и шаблоны">
 <!ENTITY keepDrafts.label "Хранить черновики сообщений в:">
+<!ENTITY keepArchives.label "Хранить архивированные сообщения в:">
 <!ENTITY keepTempltes.label "Хранить шаблоны сообщений в:">

@@ -106,9 +106,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
 <!ENTITY enableInlineSpellChecker.accesskey "н">
-<!ENTITY checkSpellingCmd.label "Проверка орфографии">
-<!ENTITY checkSpellingCmd.accesskey "р">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Проверка орфографии">
+<!ENTITY checkSpellingCmd2.accesskey "в">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Проверить HTML">
 <!ENTITY validateCmd.accesskey "в">
 <!ENTITY insertMenu.label "Вставить">

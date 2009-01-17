@@ -20,6 +20,8 @@
 <!ENTITY retentionKeepNew.accesskey "п">
 <!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
 <!ENTITY retentionKeepUnread.accesskey "ч">
+<!ENTITY retentionApplyToFlagged.label "Всегда сохранять сообщения, отмеченные флагом">
+<!ENTITY retentionApplyToFlagged.accesskey "р">
 <!ENTITY nntpRemoveBody.label "Удалять только те сообщения, которые хранятся дольше чем">
 <!ENTITY nntpRemoveBody.accesskey "У">
 <!ENTITY offlineSelectNntp.label "Выбрать группы новостей, доступные в автономном режиме…">

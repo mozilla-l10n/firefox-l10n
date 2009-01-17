@@ -16,6 +16,12 @@
 <!ENTITY windowMenu.accesskey "О">
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
+<!ENTITY passwordManagerCmd.label "Менеджер паролей">
+<!ENTITY passwordManagerCmd.accesskey "н">
+<!ENTITY passwordDisplayCmd.label "Управление сохранёнными паролями">
+<!ENTITY passwordDisplayCmd.accesskey "п">
+<!ENTITY passwordExpireCmd.label "Закончить сеанс">
+<!ENTITY passwordExpireCmd.accesskey "к">
 <!ENTITY downloadManagerCmd.label "Менеджер загрузок">
 <!ENTITY downloadManagerCmd.accesskey "з">
 <!ENTITY addonsManagerCmd.label "Менеджер дополнений">

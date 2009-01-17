@@ -97,10 +97,10 @@
 <!ENTITY formatMenu.accesskey "Ф">
 <!ENTITY optionsMenu.label "Настройки">
 <!ENTITY optionsMenu.accesskey "й">
-<!ENTITY checkSpellingCmd.label "Проверить орфографию…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "ф">
+<!ENTITY checkSpellingCmd2.label "Проверка орфографии…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "в">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
 <!ENTITY enableInlineSpellChecker.accesskey "о">
 <!ENTITY quoteCmd.label "Цитировать сообщение">

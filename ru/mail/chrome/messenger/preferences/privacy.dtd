@@ -22,16 +22,14 @@
 <!ENTITY enablePhishingDetector1.accesskey "ф">
 <!ENTITY useDownloadedList.label "Использовать загруженный список подозрительных сообщений, вероятно рассылаемых мошенниками">
 <!ENTITY useDownloadedList.accesskey "п">
-<!ENTITY savedPasswords.intro "&brandShortName; может запоминать регистрационную информацию для всех ваших учетных записей так, что вам не придётся вводить её снова.">
-<!ENTITY encryptEnabled.label "Использовать мастер-пароль для шифрования сохранённых паролей">
-<!ENTITY encryptEnabled.accesskey "м">
-<!ENTITY masterPassword.intro "Будучи установленным, мастер-пароль будет использован для защиты всех ваших паролей. Вам нужно будет вводить его один раз в сессию.">
-<!ENTITY setMasterPassword.label "Мастер-пароль">
-<!ENTITY setMasterPassword.accesskey "а">
-<!ENTITY removeMasterPassword.label "Удалить мастер-пароль…">
-<!ENTITY removeMasterPassword.accesskey "д">
-<!ENTITY editPasswords.label "Редактировать сохранённые пароли">
-<!ENTITY editPasswords.accesskey "к">
+<!ENTITY savedPasswords.intro "&brandShortName; может запоминать пароли для всех ваших учетных записей.">
+<!ENTITY useMasterPassword.label "Использовать мастер-пароль">
+<!ENTITY useMasterPassword.accesskey "м">
+<!ENTITY masterPassword.intro "Мастер-пароль защищает все ваши пароли, но вам нужно будет вводить его один раз в сессию.">
+<!ENTITY changeMasterPassword.label "Сменить мастер-пароль…">
+<!ENTITY changeMasterPassword.accesskey "е">
+<!ENTITY savedPasswords.label "Сохранённые пароли…">
+<!ENTITY savedPasswords.accesskey "х">
 <!ENTITY antiVirus.intro "&brandShortName; может облегчить работу антивируса при проверке входящих сообщений на наличие вирусов перед тем, как сохранить их в почтовые папки.">
 <!ENTITY antiVirus.label "Разрешить антивирусу помещать в карантин отдельные входящие сообщения">
 <!ENTITY antiVirus.accesskey "в">
