@@ -1,6 +1,6 @@
 # AFFIXES POUR LE DICTIONNAIRE CLASSIQUE & RÉFORME 1990
 # par Olivier R. -- licences LGPL, GPL, MPL
-# Généré le 02.11.2008  11:42:18
+# Généré le 17.01.2009  17:10:04
 # Pour améliorer le dictionnaire, allez sur http://dicollecte.free.fr/
 
 
@@ -10,7 +10,7 @@ SET UTF-8
 WORDCHARS -
 
 
-TRY aàâäbcçdeéèêëfghiîïjklmnoôöpqrstuùûüvwxyzæœAÀÂÄBCÇDEÉÈÊËFGHIÎÏJKLMNOÔÖPQRSTUÙÛÜVWXYZÆŒáíÿñåóöşă
+TRY aàâäbcçdeéèêëfghiîïjklmnoôöpqrstuùûüvwxyzæœAÀÂÄBCÇDEÉÈÊËFGHIÎÏJKLMNOÔÖPQRSTUÙÛÜVWXYZÆŒ
 
 MAP 12
 MAP aàâä
@@ -1423,9 +1423,10 @@ SFX a9 er e/n' er
 SFX a9 er ât/n' [^g]er
 SFX a9 ger geât/n' ger
 
-SFX b0 N 225
+SFX b0 N 242
 SFX b0 er er er
-SFX b0 er ant er
+SFX b0 er ant [^c]er
+SFX b0 cer çant cer
 SFX b0 er é er
 SFX b0 ecer èce ecer
 SFX b0 emer ème emer
@@ -1457,7 +1458,8 @@ SFX b0 ever ève ever
 SFX b0 evrer èvre evrer
 SFX b0 eter ète eter
 SFX b0 eler èle eler
-SFX b0 er ons er
+SFX b0 er ons [^c]er
+SFX b0 cer çons cer
 SFX b0 er ez er
 SFX b0 ecer ècent ecer
 SFX b0 emer èment emer
@@ -1469,17 +1471,26 @@ SFX b0 ever èvent ever
 SFX b0 evrer èvrent evrer
 SFX b0 eter ètent eter
 SFX b0 eler èlent eler
-SFX b0 er ais er
-SFX b0 er ais er
-SFX b0 er ait er
+SFX b0 er ais [^c]er
+SFX b0 cer çais cer
+SFX b0 er ais [^c]er
+SFX b0 cer çais cer
+SFX b0 er ait [^c]er
+SFX b0 cer çait cer
 SFX b0 er ions er
 SFX b0 er iez er
-SFX b0 er aient er
-SFX b0 er ai er
-SFX b0 er as er
-SFX b0 er a er
-SFX b0 er âmes er
-SFX b0 er âtes er
+SFX b0 er aient [^c]er
+SFX b0 cer çaient cer
+SFX b0 er ai [^c]er
+SFX b0 cer çai cer
+SFX b0 er as [^c]er
+SFX b0 cer ças cer
+SFX b0 er a [^c]er
+SFX b0 cer ça cer
+SFX b0 er âmes [^c]er
+SFX b0 cer çâmes cer
+SFX b0 er âtes [^c]er
+SFX b0 cer çâtes cer
 SFX b0 er èrent er
 SFX b0 ecer ècerai ecer
 SFX b0 emer èmerai emer
@@ -1643,16 +1654,23 @@ SFX b0 ever èvent ever
 SFX b0 evrer èvrent evrer
 SFX b0 eter ètent eter
 SFX b0 eler èlent eler
-SFX b0 er asse er
-SFX b0 er asses er
-SFX b0 er ât er
-SFX b0 er assions er
-SFX b0 er assiez er
-SFX b0 er assent er
+SFX b0 er asse [^c]er
+SFX b0 cer çasse cer
+SFX b0 er asses [^c]er
+SFX b0 cer çasses cer
+SFX b0 er ât [^c]er
+SFX b0 cer çât cer
+SFX b0 er assions [^c]er
+SFX b0 cer çassions cer
+SFX b0 er assiez [^c]er
+SFX b0 cer çassiez cer
+SFX b0 er assent [^c]er
+SFX b0 cer çassent cer
 
-SFX b1 Y 225
+SFX b1 Y 242
 SFX b1 er er/n'q'd' er
-SFX b1 er ant/n'q' er
+SFX b1 er ant/n'q' [^c]er
+SFX b1 cer çant/n'q' cer
 SFX b1 er é/q' er
 SFX b1 ecer èce/n'j' ecer
 SFX b1 emer ème/n'j' emer
@@ -1684,7 +1702,8 @@ SFX b1 ever ève/n'q' ever
 SFX b1 evrer èvre/n'q' evrer
 SFX b1 eter ète/n'q' eter
 SFX b1 eler èle/n'q' eler
-SFX b1 er ons/n' er
+SFX b1 er ons/n' [^c]er
+SFX b1 cer çons/n' cer
 SFX b1 er ez/n' er
 SFX b1 ecer ècent/n'q' ecer
 SFX b1 emer èment/n'q' emer
@@ -1696,17 +1715,26 @@ SFX b1 ever èvent/n'q' ever
 SFX b1 evrer èvrent/n'q' evrer
 SFX b1 eter ètent/n'q' eter
 SFX b1 eler èlent/n'q' eler
-SFX b1 er ais/n'j' er
-SFX b1 er ais/n' er
-SFX b1 er ait/n'q' er
+SFX b1 er ais/n'j' [^c]er
+SFX b1 cer çais/n'j' cer
+SFX b1 er ais/n' [^c]er
+SFX b1 cer çais/n' cer
+SFX b1 er ait/n'q' [^c]er
+SFX b1 cer çait/n'q' cer
 SFX b1 er ions/n' er
 SFX b1 er iez/n' er
-SFX b1 er aient/n'q' er
-SFX b1 er ai/n'j' er
-SFX b1 er as/n' er
-SFX b1 er a/n'q' er
-SFX b1 er âmes/n' er
-SFX b1 er âtes/n' er
+SFX b1 er aient/n'q' [^c]er
+SFX b1 cer çaient/n'q' cer
+SFX b1 er ai/n'j' [^c]er
+SFX b1 cer çai/n'j' cer
+SFX b1 er as/n' [^c]er
+SFX b1 cer ças/n' cer
+SFX b1 er a/n'q' [^c]er
+SFX b1 cer ça/n'q' cer
+SFX b1 er âmes/n' [^c]er
+SFX b1 cer çâmes/n' cer
+SFX b1 er âtes/n' [^c]er
+SFX b1 cer çâtes/n' cer
 SFX b1 er èrent/n'q' er
 SFX b1 ecer ècerai/n'j' ecer
 SFX b1 emer èmerai/n'j' emer
@@ -1870,16 +1898,23 @@ SFX b1 ever èvent/n'q' ever
 SFX b1 evrer èvrent/n'q' evrer
 SFX b1 eter ètent/n'q' eter
 SFX b1 eler èlent/n'q' eler
-SFX b1 er asse/n'j' er
-SFX b1 er asses/n' er
-SFX b1 er ât/n'q' er
-SFX b1 er assions/n' er
-SFX b1 er assiez/n' er
-SFX b1 er assent/n'q' er
+SFX b1 er asse/n'j' [^c]er
+SFX b1 cer çasse/n'j' cer
+SFX b1 er asses/n' [^c]er
+SFX b1 cer çasses/n' cer
+SFX b1 er ât/n'q' [^c]er
+SFX b1 cer çât/n'q' cer
+SFX b1 er assions/n' [^c]er
+SFX b1 cer çassions/n' cer
+SFX b1 er assiez/n' [^c]er
+SFX b1 cer çassiez/n' cer
+SFX b1 er assent/n'q' [^c]er
+SFX b1 cer çassent/n'q' cer
 
-SFX b2 Y 225
+SFX b2 Y 242
 SFX b2 er er/n'q'd'l'm't's' er
-SFX b2 er ant/n'q'l'm't's' er
+SFX b2 er ant/n'q'l'm't's' [^c]er
+SFX b2 cer çant/n'q'l'm't's' cer
 SFX b2 er é/q' er
 SFX b2 ecer èce/n'q'j'l't' ecer
 SFX b2 emer ème/n'q'j'l't' emer
@@ -1911,7 +1946,8 @@ SFX b2 ever ève/n'q'l'm't's' ever
 SFX b2 evrer èvre/n'q'l'm't's' evrer
 SFX b2 eter ète/n'q'l'm't's' eter
 SFX b2 eler èle/n'q'l'm't's' eler
-SFX b2 er ons/n'q'l't' er
+SFX b2 er ons/n'q'l't' [^c]er
+SFX b2 cer çons/n'q'l't' cer
 SFX b2 er ez/n'q'l'm' er
 SFX b2 ecer ècent/n'q'l'm't's' ecer
 SFX b2 emer èment/n'q'l'm't's' emer
@@ -1923,17 +1959,26 @@ SFX b2 ever èvent/n'q'l'm't's' ever
 SFX b2 evrer èvrent/n'q'l'm't's' evrer
 SFX b2 eter ètent/n'q'l'm't's' eter
 SFX b2 eler èlent/n'q'l'm't's' eler
-SFX b2 er ais/n'q'j'l't' er
-SFX b2 er ais/n'q'l'm' er
-SFX b2 er ait/n'q'l'm't's' er
+SFX b2 er ais/n'q'j'l't' [^c]er
+SFX b2 cer çais/n'q'j'l't' cer
+SFX b2 er ais/n'q'l'm' [^c]er
+SFX b2 cer çais/n'q'l'm' cer
+SFX b2 er ait/n'q'l'm't's' [^c]er
+SFX b2 cer çait/n'q'l'm't's' cer
 SFX b2 er ions/n'q'l't' er
 SFX b2 er iez/n'q'l'm' er
-SFX b2 er aient/n'q'l'm't's' er
-SFX b2 er ai/n'q'j'l't' er
-SFX b2 er as/n'q'l'm' er
-SFX b2 er a/n'q'l'm't's' er
-SFX b2 er âmes/n'q'l't' er
-SFX b2 er âtes/n'q'l'm' er
+SFX b2 er aient/n'q'l'm't's' [^c]er
+SFX b2 cer çaient/n'q'l'm't's' cer
+SFX b2 er ai/n'q'j'l't' [^c]er
+SFX b2 cer çai/n'q'j'l't' cer
+SFX b2 er as/n'q'l'm' [^c]er
+SFX b2 cer ças/n'q'l'm' cer
+SFX b2 er a/n'q'l'm't's' [^c]er
+SFX b2 cer ça/n'q'l'm't's' cer
+SFX b2 er âmes/n'q'l't' [^c]er
+SFX b2 cer çâmes/n'q'l't' cer
+SFX b2 er âtes/n'q'l'm' [^c]er
+SFX b2 cer çâtes/n'q'l'm' cer
 SFX b2 er èrent/n'q'l'm't's' er
 SFX b2 ecer ècerai/n'q'j'l't' ecer
 SFX b2 emer èmerai/n'q'j'l't' emer
@@ -2097,16 +2142,23 @@ SFX b2 ever èvent/n'l'm't's' ever
 SFX b2 evrer èvrent/n'l'm't's' evrer
 SFX b2 eter ètent/n'l'm't's' eter
 SFX b2 eler èlent/n'l'm't's' eler
-SFX b2 er asse/n'q'j'l't' er
-SFX b2 er asses/n'q'l'm' er
-SFX b2 er ât/n'q'l'm't's' er
-SFX b2 er assions/n'q'l't' er
-SFX b2 er assiez/n'q'l'm' er
-SFX b2 er assent/n'q'l'm't's' er
+SFX b2 er asse/n'q'j'l't' [^c]er
+SFX b2 cer çasse/n'q'j'l't' cer
+SFX b2 er asses/n'q'l'm' [^c]er
+SFX b2 cer çasses/n'q'l'm' cer
+SFX b2 er ât/n'q'l'm't's' [^c]er
+SFX b2 cer çât/n'q'l'm't's' cer
+SFX b2 er assions/n'q'l't' [^c]er
+SFX b2 cer çassions/n'q'l't' cer
+SFX b2 er assiez/n'q'l'm' [^c]er
+SFX b2 cer çassiez/n'q'l'm' cer
+SFX b2 er assent/n'q'l'm't's' [^c]er
+SFX b2 cer çassent/n'q'l'm't's' cer
 
-SFX b3 Y 225
+SFX b3 Y 242
 SFX b3 er er/m't's' er
-SFX b3 er ant/m't's' er
+SFX b3 er ant/m't's' [^c]er
+SFX b3 cer çant/m't's' cer
 SFX b3 er é er
 SFX b3 ecer èce/m' ecer
 SFX b3 emer ème/m' emer
@@ -2138,7 +2190,8 @@ SFX b3 ever ève/s' ever
 SFX b3 evrer èvre/s' evrer
 SFX b3 eter ète/s' eter
 SFX b3 eler èle/s' eler
-SFX b3 er ons er
+SFX b3 er ons [^c]er
+SFX b3 cer çons cer
 SFX b3 er ez er
 SFX b3 ecer ècent/s' ecer
 SFX b3 emer èment/s' emer
@@ -2150,17 +2203,26 @@ SFX b3 ever èvent/s' ever
 SFX b3 evrer èvrent/s' evrer
 SFX b3 eter ètent/s' eter
 SFX b3 eler èlent/s' eler
-SFX b3 er ais/m' er
-SFX b3 er ais/t' er
-SFX b3 er ait/s' er
+SFX b3 er ais/m' [^c]er
+SFX b3 cer çais/m' cer
+SFX b3 er ais/t' [^c]er
+SFX b3 cer çais/t' cer
+SFX b3 er ait/s' [^c]er
+SFX b3 cer çait/s' cer
 SFX b3 er ions er
 SFX b3 er iez er
-SFX b3 er aient/s' er
-SFX b3 er ai/m' er
-SFX b3 er as/t' er
-SFX b3 er a/s' er
-SFX b3 er âmes er
-SFX b3 er âtes er
+SFX b3 er aient/s' [^c]er
+SFX b3 cer çaient/s' cer
+SFX b3 er ai/m' [^c]er
+SFX b3 cer çai/m' cer
+SFX b3 er as/t' [^c]er
+SFX b3 cer ças/t' cer
+SFX b3 er a/s' [^c]er
+SFX b3 cer ça/s' cer
+SFX b3 er âmes [^c]er
+SFX b3 cer çâmes cer
+SFX b3 er âtes [^c]er
+SFX b3 cer çâtes cer
 SFX b3 er èrent/s' er
 SFX b3 ecer ècerai/m' ecer
 SFX b3 emer èmerai/m' emer
@@ -2324,16 +2386,23 @@ SFX b3 ever èvent/s' ever
 SFX b3 evrer èvrent/s' evrer
 SFX b3 eter ètent/s' eter
 SFX b3 eler èlent/s' eler
-SFX b3 er asse/m' er
-SFX b3 er asses/t' er
-SFX b3 er ât/s' er
-SFX b3 er assions er
-SFX b3 er assiez er
-SFX b3 er assent/s' er
+SFX b3 er asse/m' [^c]er
+SFX b3 cer çasse/m' cer
+SFX b3 er asses/t' [^c]er
+SFX b3 cer çasses/t' cer
+SFX b3 er ât/s' [^c]er
+SFX b3 cer çât/s' cer
+SFX b3 er assions [^c]er
+SFX b3 cer çassions cer
+SFX b3 er assiez [^c]er
+SFX b3 cer çassiez cer
+SFX b3 er assent/s' [^c]er
+SFX b3 cer çassent/s' cer
 
-SFX b4 Y 225
+SFX b4 Y 242
 SFX b4 er er/n'q'd'l'm't's' er
-SFX b4 er ant/n'q'l'm't's' er
+SFX b4 er ant/n'q'l'm't's' [^c]er
+SFX b4 cer çant/n'q'l'm't's' cer
 SFX b4 er é/q' er
 SFX b4 ecer èce/n'q'j'l'm't' ecer
 SFX b4 emer ème/n'q'j'l'm't' emer
@@ -2365,7 +2434,8 @@ SFX b4 ever ève/n'q'l'm't's' ever
 SFX b4 evrer èvre/n'q'l'm't's' evrer
 SFX b4 eter ète/n'q'l'm't's' eter
 SFX b4 eler èle/n'q'l'm't's' eler
-SFX b4 er ons/n'q'l't' er
+SFX b4 er ons/n'q'l't' [^c]er
+SFX b4 cer çons/n'q'l't' cer
 SFX b4 er ez/n'q'l'm' er
 SFX b4 ecer ècent/n'q'l'm't's' ecer
 SFX b4 emer èment/n'q'l'm't's' emer
@@ -2377,17 +2447,26 @@ SFX b4 ever èvent/n'q'l'm't's' ever
 SFX b4 evrer èvrent/n'q'l'm't's' evrer
 SFX b4 eter ètent/n'q'l'm't's' eter
 SFX b4 eler èlent/n'q'l'm't's' eler
-SFX b4 er ais/n'q'j'l'm't' er
-SFX b4 er ais/n'q'l'm't' er
-SFX b4 er ait/n'q'l'm't's' er
+SFX b4 er ais/n'q'j'l'm't' [^c]er
+SFX b4 cer çais/n'q'j'l'm't' cer
+SFX b4 er ais/n'q'l'm't' [^c]er
+SFX b4 cer çais/n'q'l'm't' cer
+SFX b4 er ait/n'q'l'm't's' [^c]er
+SFX b4 cer çait/n'q'l'm't's' cer
 SFX b4 er ions/n'q'l't' er
 SFX b4 er iez/n'q'l'm' er
-SFX b4 er aient/n'q'l'm't's' er
-SFX b4 er ai/n'q'j'l'm't' er
-SFX b4 er as/n'q'l'm't' er
-SFX b4 er a/n'q'l'm't's' er
-SFX b4 er âmes/n'q'l't' er
-SFX b4 er âtes/n'q'l'm' er
+SFX b4 er aient/n'q'l'm't's' [^c]er
+SFX b4 cer çaient/n'q'l'm't's' cer
+SFX b4 er ai/n'q'j'l'm't' [^c]er
+SFX b4 cer çai/n'q'j'l'm't' cer
+SFX b4 er as/n'q'l'm't' [^c]er
+SFX b4 cer ças/n'q'l'm't' cer
+SFX b4 er a/n'q'l'm't's' [^c]er
+SFX b4 cer ça/n'q'l'm't's' cer
+SFX b4 er âmes/n'q'l't' [^c]er
+SFX b4 cer çâmes/n'q'l't' cer
+SFX b4 er âtes/n'q'l'm' [^c]er
+SFX b4 cer çâtes/n'q'l'm' cer
 SFX b4 er èrent/n'q'l'm't's' er
 SFX b4 ecer ècerai/n'q'j'l'm't' ecer
 SFX b4 emer èmerai/n'q'j'l'm't' emer
@@ -2551,16 +2630,23 @@ SFX b4 ever èvent/n'l'm't's' ever
 SFX b4 evrer èvrent/n'l'm't's' evrer
 SFX b4 eter ètent/n'l'm't's' eter
 SFX b4 eler èlent/n'l'm't's' eler
-SFX b4 er asse/n'q'j'l'm't' er
-SFX b4 er asses/n'q'l'm't' er
-SFX b4 er ât/n'q'l'm't's' er
-SFX b4 er assions/n'q'l't' er
-SFX b4 er assiez/n'q'l'm' er
-SFX b4 er assent/n'q'l'm't's' er
+SFX b4 er asse/n'q'j'l'm't' [^c]er
+SFX b4 cer çasse/n'q'j'l'm't' cer
+SFX b4 er asses/n'q'l'm't' [^c]er
+SFX b4 cer çasses/n'q'l'm't' cer
+SFX b4 er ât/n'q'l'm't's' [^c]er
+SFX b4 cer çât/n'q'l'm't's' cer
+SFX b4 er assions/n'q'l't' [^c]er
+SFX b4 cer çassions/n'q'l't' cer
+SFX b4 er assiez/n'q'l'm' [^c]er
+SFX b4 cer çassiez/n'q'l'm' cer
+SFX b4 er assent/n'q'l'm't's' [^c]er
+SFX b4 cer çassent/n'q'l'm't's' cer
 
-SFX b5 Y 225
+SFX b5 Y 242
 SFX b5 er er/n'q'd'm't's' er
-SFX b5 er ant/n'q'm't's' er
+SFX b5 er ant/n'q'm't's' [^c]er
+SFX b5 cer çant/n'q'm't's' cer
 SFX b5 er é/q' er
 SFX b5 ecer èce/n'j'm't' ecer
 SFX b5 emer ème/n'j'm't' emer
@@ -2592,7 +2678,8 @@ SFX b5 ever ève/n'q'm't's' ever
 SFX b5 evrer èvre/n'q'm't's' evrer
 SFX b5 eter ète/n'q'm't's' eter
 SFX b5 eler èle/n'q'm't's' eler
-SFX b5 er ons/n't' er
+SFX b5 er ons/n't' [^c]er
+SFX b5 cer çons/n't' cer
 SFX b5 er ez/n'm' er
 SFX b5 ecer ècent/n'q'm't's' ecer
 SFX b5 emer èment/n'q'm't's' emer
@@ -2604,17 +2691,26 @@ SFX b5 ever èvent/n'q'm't's' ever
 SFX b5 evrer èvrent/n'q'm't's' evrer
 SFX b5 eter ètent/n'q'm't's' eter
 SFX b5 eler èlent/n'q'm't's' eler
-SFX b5 er ais/n'j'm't' er
-SFX b5 er ais/n'm't' er
-SFX b5 er ait/n'q'm't's' er
+SFX b5 er ais/n'j'm't' [^c]er
+SFX b5 cer çais/n'j'm't' cer
+SFX b5 er ais/n'm't' [^c]er
+SFX b5 cer çais/n'm't' cer
+SFX b5 er ait/n'q'm't's' [^c]er
+SFX b5 cer çait/n'q'm't's' cer
 SFX b5 er ions/n't' er
 SFX b5 er iez/n'm' er
-SFX b5 er aient/n'q'm't's' er
-SFX b5 er ai/n'j'm't' er
-SFX b5 er as/n'm't' er
-SFX b5 er a/n'q'm't's' er
-SFX b5 er âmes/n't' er
-SFX b5 er âtes/n'm' er
+SFX b5 er aient/n'q'm't's' [^c]er
+SFX b5 cer çaient/n'q'm't's' cer
+SFX b5 er ai/n'j'm't' [^c]er
+SFX b5 cer çai/n'j'm't' cer
+SFX b5 er as/n'm't' [^c]er
+SFX b5 cer ças/n'm't' cer
+SFX b5 er a/n'q'm't's' [^c]er
+SFX b5 cer ça/n'q'm't's' cer
+SFX b5 er âmes/n't' [^c]er
+SFX b5 cer çâmes/n't' cer
+SFX b5 er âtes/n'm' [^c]er
+SFX b5 cer çâtes/n'm' cer
 SFX b5 er èrent/n'q'm't's' er
 SFX b5 ecer ècerai/n'j'm't' ecer
 SFX b5 emer èmerai/n'j'm't' emer
@@ -2778,12 +2874,18 @@ SFX b5 ever èvent/n'q'm't's' ever
 SFX b5 evrer èvrent/n'q'm't's' evrer
 SFX b5 eter ètent/n'q'm't's' eter
 SFX b5 eler èlent/n'q'm't's' eler
-SFX b5 er asse/n'j'm't' er
-SFX b5 er asses/n'm't' er
-SFX b5 er ât/n'q'm't's' er
-SFX b5 er assions/n't' er
-SFX b5 er assiez/n'm' er
-SFX b5 er assent/n'q'm't's' er
+SFX b5 er asse/n'j'm't' [^c]er
+SFX b5 cer çasse/n'j'm't' cer
+SFX b5 er asses/n'm't' [^c]er
+SFX b5 cer çasses/n'm't' cer
+SFX b5 er ât/n'q'm't's' [^c]er
+SFX b5 cer çât/n'q'm't's' cer
+SFX b5 er assions/n't' [^c]er
+SFX b5 cer çassions/n't' cer
+SFX b5 er assiez/n'm' [^c]er
+SFX b5 cer çassiez/n'm' cer
+SFX b5 er assent/n'q'm't's' [^c]er
+SFX b5 cer çassent/n'q'm't's' cer
 
 SFX c0 N 491
 SFX c0 er er er
