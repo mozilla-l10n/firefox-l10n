@@ -48,13 +48,13 @@
 <!ENTITY cmd.optionsUnix.tooltip "Modifica le preferenze dell'estensione selezionata">
 <!ENTITY cmd.enable.label "Attiva">
 <!ENTITY cmd.enable.accesskey "t">
-<!ENTITY cmd.enable.tooltip "Attiva questo componente al prossimo riavvio di &brandShortName;">
+<!ENTITY cmd.enable.tooltip "Attiva questo componente al prossimo avvio di &brandShortName;">
 <!ENTITY cmd.disable.label "Disattiva">
 <!ENTITY cmd.disable.accesskey "D">
-<!ENTITY cmd.disable.tooltip "Disattiva questo componente al prossimo riavvio di &brandShortName;">
+<!ENTITY cmd.disable.tooltip "Disattiva questo componente al prossimo avvio di &brandShortName;">
 <!ENTITY cmd.uninstall.label "Disinstalla">
 <!ENTITY cmd.uninstall2.accesskey "s">
-<!ENTITY cmd.uninstall2.tooltip "Disinstalla questo componente al prossimo riavvio di &brandShortName;">
+<!ENTITY cmd.uninstall2.tooltip "Disinstalla questo componente al prossimo avvio di &brandShortName;">
 <!ENTITY cmd.cancelUninstall.label "Annulla disinstallazione">
 <!ENTITY cmd.cancelUninstall.accesskey "A">
 <!ENTITY cmd.cancelUninstall.tooltip "Annulla la disinstallazione di questo componente">
@@ -97,11 +97,11 @@
 <!ENTITY needsDependencies.label "Richiede elementi aggiuntivi.">
 <!ENTITY blocklisted.label "Disattivato per proteggere il computer.">
 <!ENTITY softBlocklisted.label "Conosciuto come causa di problemi di stabilità o sicurezza.">
-<!ENTITY toBeDisabled.label "Questo componente verrà disattivato al prossimo riavvio di &brandShortName;.">
-<!ENTITY toBeEnabled.label "Questo componente verrà attivato al prossimo riavvio di &brandShortName;.">
-<!ENTITY toBeInstalled.label "Questo componente verrà installato al prossimo riavvio di &brandShortName;.">
-<!ENTITY toBeUninstalled.label "Questo componente verrà disinstallato al prossimo riavvio di &brandShortName;.">
-<!ENTITY toBeUpdated.label "Questo componente verrà aggiornato al prossimo riavvio di &brandShortName;.">
+<!ENTITY toBeDisabled.label "Questo componente verrà disattivato al prossimo avvio di &brandShortName;.">
+<!ENTITY toBeEnabled.label "Questo componente verrà attivato al prossimo avvio di &brandShortName;.">
+<!ENTITY toBeInstalled.label "Questo componente verrà installato al prossimo avvio di &brandShortName;.">
+<!ENTITY toBeUninstalled.label "Questo componente verrà disinstallato al prossimo avvio di &brandShortName;.">
+<!ENTITY toBeUpdated.label "Questo componente verrà aggiornato al prossimo avvio di &brandShortName;.">
 <!ENTITY getExtensions.label "Scarica estensioni">
 <!ENTITY getThemes.label "Scarica temi">
 <!ENTITY getPlugins.label "Scarica plugin">
