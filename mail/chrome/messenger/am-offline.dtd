@@ -53,6 +53,8 @@
 <!ENTITY retentionKeepNew.accesskey "a">
 <!ENTITY retentionKeepUnread.label "Ta alltid bort lästa meddelanden">
 <!ENTITY retentionKeepUnread.accesskey "d">
+<!ENTITY retentionApplyToFlagged.label "Behåll alltid märkta meddelanden">
+<!ENTITY retentionApplyToFlagged.accesskey "h">
 <!ENTITY nntpRemoveBody.label "Endast innehållet i meddelanden yngre än">
 <!ENTITY nntpRemoveBody.accesskey "å">
 <!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för nedkopplad användning…">

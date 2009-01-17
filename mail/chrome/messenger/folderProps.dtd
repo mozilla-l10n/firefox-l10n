@@ -67,6 +67,8 @@
 <!ENTITY retentionKeepNew.accesskey              "T">
 <!ENTITY retentionKeepUnread.label               "Ta alltid bort lästa meddelanden">
 <!ENTITY retentionKeepUnread.accesskey           "o">
+<!ENTITY retentionApplyToFlagged.label           "Behåll alltid märkta meddelanden">
+<!ENTITY retentionApplyToFlagged.accesskey       "e">
 
 <!ENTITY folderOfflineTab.label                  "Arbeta nedkopplad">
 <!ENTITY folderCheckForNewMessages.label         "Kontrollera om denna mapp har nya meddelanden">
