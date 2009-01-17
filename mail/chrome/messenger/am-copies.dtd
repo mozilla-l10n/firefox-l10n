@@ -48,10 +48,15 @@
 <!ENTITY draftsFolderOn.accesskey "U">
 <!ENTITY draftInOtherFolder.label "Annan plats:">
 <!ENTITY draftInOtherFolder.accesskey "n">
+<!ENTITY archivesFolderOn.label "Mappen &quot;Arkiv&quot; i:">
+<!ENTITY archivesFolderOn.accesskey "r">
+<!ENTITY archiveInOtherFolder.label "Annan plats:">
+<!ENTITY archiveInOtherFolder.accesskey "p">
 <!ENTITY templatesFolderOn.label "Mappen ”Mallar” i:">
 <!ENTITY templatesFolderOn.accesskey "M">
 <!ENTITY templateInOtherFolder.label "Annan plats:">
 <!ENTITY templateInOtherFolder.accesskey "s">
-<!ENTITY specialFoldersTitle.label "Utkast och mallar">
+<!ENTITY specialFoldersTitle.label "Utkast, arkiv och mallar">
 <!ENTITY keepDrafts.label "Spara utkast i:">
+<!ENTITY keepArchives.label "Spara meddelandearkiv i:">
 <!ENTITY keepTempltes.label "Spara mallar i:">

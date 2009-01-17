@@ -343,6 +343,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Nytt meddelande">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Arkivera">
+<!ENTITY archiveMsgCmd.accesskey "i">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Svara">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key  "r">

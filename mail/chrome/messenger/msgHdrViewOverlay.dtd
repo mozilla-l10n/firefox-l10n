@@ -60,8 +60,9 @@
 
 <!ENTITY editMessageDescription.label "Det här är ett utkast">
 <!ENTITY editMessageButton.label "Redigera…">
-<!ENTITY replyButton.label "svara…">
-<!ENTITY forwardButton.label "vidarebefordra…">
+<!ENTITY archiveButton.label "arkivera">
+<!ENTITY replyButton.label "svara">
+<!ENTITY forwardButton.label "vidarebefordra">
 <!ENTITY junkButton.label "märk som skräp">
 <!ENTITY trashButton.tooltiptext "ta bort">
 
