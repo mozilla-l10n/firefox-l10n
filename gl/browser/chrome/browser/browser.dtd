@@ -87,6 +87,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Parar de cargar esta páxina">
 <!ENTITY goEndCap.tooltip             "Ir ao enderezo da barra de localización">
+<!ENTITY feedButton.tooltip           "Suscreberse a esta páxina…">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta páxina">
 <!ENTITY locationItem.title           "Localización">
