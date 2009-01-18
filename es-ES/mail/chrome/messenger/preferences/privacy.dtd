@@ -22,16 +22,14 @@
 <!ENTITY enablePhishingDetector1.accesskey "D">
 <!ENTITY useDownloadedList.label "Usar una lista descargada de mensajes considerados fraudulentos">
 <!ENTITY useDownloadedList.accesskey "U">
-<!ENTITY savedPasswords.intro "&brandShortName; puede recordar información de contraseñas para todas las cuentas, por lo que no es necesario repetir detalles de inicio de sesión.">
-<!ENTITY encryptEnabled.label "Usar una contraseña maestra para cifrar las contraseñas guardadas">
-<!ENTITY encryptEnabled.accesskey "s">
-<!ENTITY masterPassword.intro "Si se usa, la contraseña maestra protege todas sus contraseñas - pero debe introducirla una vez por sesión.">
-<!ENTITY setMasterPassword.label "Contraseña maestra">
-<!ENTITY setMasterPassword.accesskey "n">
-<!ENTITY removeMasterPassword.label "Eliminar contraseña maestra…">
-<!ENTITY removeMasterPassword.accesskey "E">
-<!ENTITY editPasswords.label "Editar contraseñas guardadas">
-<!ENTITY editPasswords.accesskey "c">
+<!ENTITY savedPasswords.intro "&brandShortName; puede recordar las contraseñas de todas sus cuentas.">
+<!ENTITY useMasterPassword.label "Usar una contraseña maestra">
+<!ENTITY useMasterPassword.accesskey "m">
+<!ENTITY masterPassword.intro "Una contraseña maestra protege todas sus contraseñas, pero debe introducirla una vez por sesión.">
+<!ENTITY changeMasterPassword.label "Cambiar contraseña maestra…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label "Contraseñas guardadas…">
+<!ENTITY savedPasswords.accesskey "g">
 <!ENTITY antiVirus.intro "&brandShortName; puede hacer fácilmente que el software antivirus analice el correo entrante en busca de virus antes de que se guarden localmente.">
 <!ENTITY antiVirus.label "Permitir a los antivirus poner en cuarentena mensajes individuales">
 <!ENTITY antiVirus.accesskey "P">
