@@ -390,7 +390,7 @@
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Eliminar mensajes marcados como basura en la carpeta">
 <!ENTITY deleteJunk.accesskey "B">
-<!ENTITY errorConsoleCmd.label "Consola de error">
+<!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY filtersCmd.label "Filtros de mensajes…">
 <!ENTITY filtersCmd.accesskey "f">

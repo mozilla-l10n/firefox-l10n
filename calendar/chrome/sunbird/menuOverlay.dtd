@@ -11,22 +11,22 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.   -
    -
    - The Initial Developer of the Original Code is
-   - OEone Corporation.
+   -   OEone Corporation.
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Stefan Sitter <ssitter@googlemail.com>
-   -                 Berend Cornelius <berend.cornelius@sun.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -   Proyecto NAVE (http://www.proyectonave.es/)
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Stefan Sitter <ssitter@googlemail.com>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -103,7 +103,7 @@
 <!ENTITY goDateCmd.accesskey "f">
 <!ENTITY toolsMenu.label "Herramientas">
 <!ENTITY toolsMenu.accesskey "T">
-<!ENTITY errorConsoleCmd.label "Consola de error">
+<!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY helpMenu.label "Ayuda">
 <!ENTITY helpMenu.accesskey "u">
