@@ -16,6 +16,12 @@
 <!ENTITY windowMenu.accesskey "n">
 <!ENTITY tasksMenu.label "Herramientas">
 <!ENTITY tasksMenu.accesskey "T">
+<!ENTITY passwordManagerCmd.label "Administrador de contraseñas">
+<!ENTITY passwordManagerCmd.accesskey "A">
+<!ENTITY passwordDisplayCmd.label "Administrar contraseñas guardadas">
+<!ENTITY passwordDisplayCmd.accesskey "M">
+<!ENTITY passwordExpireCmd.label "Cerrar sesión">
+<!ENTITY passwordExpireCmd.accesskey "s">
 <!ENTITY downloadManagerCmd.label "Administrador de descargas">
 <!ENTITY downloadManagerCmd.accesskey "D">
 <!ENTITY addonsManagerCmd.label "Administrador de complementos">
