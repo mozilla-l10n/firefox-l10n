@@ -7,4 +7,6 @@
 <!ENTITY aboutVersion "издање">
 <!ENTITY closeCmdGNOME.label "Затвори">
 <!ENTITY closeCmdGNOME.accesskey "З">
-<!ENTITY copyrightInfo "&#169;1998-2008 Приложници. Сва права су задржана.  Фајерфокс (Firefox) и фајерфоксови логотипови су робне марке Мозилине задужбине.  Сва права су задржана.">
+<!ENTITY copyrightInfo "&#169;1998-2008 Contributors. All Rights Reserved. Firefox and the 
+                                     Firefox logos are trademarks of the Mozilla Foundation.  All rights 
+                                     reserved.">

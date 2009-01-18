@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(поверљив преглед)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(поверљиво читање)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
@@ -110,7 +110,7 @@
 <!ENTITY historySidebarCmd.accesskey "s">
 <!ENTITY historySidebarCmd.commandKey "h">
 
-<!ENTITY toolsMenu.label "Алати">
+<!ENTITY toolsMenu.label "Алатке">
 <!ENTITY toolsMenu.accesskey "Л">
 
 <!ENTITY keywordfield.label "Додај кључну реч за ову претрагу…">
@@ -167,8 +167,8 @@
 <!ENTITY clearRecentHistoryCmd.label "Уклони скорашњи историјат">
 <!ENTITY clearRecentHistoryCmd.accesskey "И">
 
-<!ENTITY privateBrowsingCmd.label "Поверљиво читање">
-<!ENTITY privateBrowsingCmd.accesskey "П">
+<!ENTITY privateBrowsingCmd.label "Private Browsing">
+<!ENTITY privateBrowsingCmd.accesskey "B">
 
 <!ENTITY viewMenu.label "Приказ">
 <!ENTITY viewMenu.accesskey "Р">
