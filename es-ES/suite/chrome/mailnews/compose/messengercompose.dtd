@@ -66,9 +66,9 @@
 <!ENTITY selectAddressCmd.label "Seleccionar direcciones…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
-<!ENTITY checkSpellingCmd.label "Revisar ortografía…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "R">
+<!ENTITY checkSpellingCmd2.label "Revisar ortografía…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY enableInlineSpellChecker.label "Revisar ortografía según se escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY priorityMenu.label "Prioridad">
