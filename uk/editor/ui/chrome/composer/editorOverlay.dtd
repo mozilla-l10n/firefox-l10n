@@ -126,9 +126,6 @@
 
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії під час набору">
 <!ENTITY enableInlineSpellChecker.accesskey "ч">
-<!ENTITY checkSpellingCmd.label "Перевірка орфографії">
-<!ENTITY checkSpellingCmd.accesskey "П">
-<!ENTITY checkSpellingCmd.key "K">
 
 <!ENTITY validateCmd.label "Перевірити HTML">
 <!ENTITY validateCmd.accesskey "П">
@@ -524,6 +521,10 @@
 <!ENTITY removeTOC.accesskey      "П">
 <!ENTITY tocMenu.label            "Зміст…">
 <!ENTITY tocMenu.accesskey        "м">
+
+<!ENTITY checkSpellingCmd2.label "Перевірити правопис">
+<!ENTITY checkSpellingCmd2.accesskey "п">
+<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- FIXME: localize -->
 <!ENTITY formatRemoveLinks.key "K">
