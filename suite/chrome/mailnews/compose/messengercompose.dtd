@@ -115,9 +115,9 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "d">
 
-<!ENTITY checkSpellingCmd.label "Tikrinti rašybą…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "r">
+<!ENTITY checkSpellingCmd2.label "Tikrinti rašybą…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "r">
 <!ENTITY enableInlineSpellChecker.label "Tikrinti rašybą renkant tekstą">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 
