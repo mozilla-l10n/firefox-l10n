@@ -117,9 +117,9 @@
 <!ENTITY findPrevCmd.key2              "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Tikrinti rašybą renkant tekstą">
 <!ENTITY enableInlineSpellChecker.accesskey "r">
-<!ENTITY checkSpellingCmd.label        "Tikrinti rašybą">
-<!ENTITY checkSpellingCmd.accesskey    "r">
-<!ENTITY checkSpellingCmd.key          "K">
+<!ENTITY checkSpellingCmd2.label       "Tikrinti rašybą">
+<!ENTITY checkSpellingCmd2.accesskey   "r">
+<!ENTITY checkSpellingCmd2.key         "p">
 <!ENTITY validateCmd.label             "Patikrinti HTML">
 <!ENTITY validateCmd.accesskey         "H">
 

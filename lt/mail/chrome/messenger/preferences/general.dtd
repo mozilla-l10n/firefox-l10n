@@ -60,7 +60,7 @@
 <!ENTITY browse.accesskey                 "r">
 
 <!ENTITY addonsMgr.label                  "Programos priedai">
-<!ENTITY manageAddonsDescWin.label        "Keisti naudojamų priedų nustatas">
+<!ENTITY manageAddonsDescWin.label        "Keisti naudojamų priedų nuostatas">
 <!ENTITY manageAddonsDescUnix2.label      "Keisti naudojamų priedų nuostatas">
 <!ENTITY manageAddons.label               "Tvarkyti priedus…">
 <!ENTITY manageAddons.accesskey           "T">
