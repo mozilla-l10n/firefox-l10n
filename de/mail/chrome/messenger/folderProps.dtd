@@ -54,14 +54,14 @@
 <!ENTITY retentionUseDefault.accesskey "E">
 <!ENTITY daysOld.label "Tage">
 <!ENTITY message.label "Nachrichten">
-<!ENTITY retentionCleanup.label "Um Speicherplatz zu sparen, können gelöscht werden:">
+<!ENTITY retentionCleanup.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben:">
 <!ENTITY retentionDeleteMsg.label "Nachrichten, die älter sind als">
 <!ENTITY retentionDeleteMsg.accesskey "N">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten">
 <!ENTITY retentionKeepAll.accesskey "K">
 <!ENTITY retentionKeepNew.label "Alle außer den neuesten">
 <!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Alle gelesenen Nachrichten">
+<!ENTITY retentionKeepUnread.label "Gelesene Nachrichten immer löschen">
 <!ENTITY retentionKeepUnread.accesskey "g">
 <!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
 <!ENTITY retentionApplyToFlagged.accesskey "z">
