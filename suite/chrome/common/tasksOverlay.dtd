@@ -8,6 +8,7 @@
 <!ENTITY javaConsoleCmd.accesskey "j">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY taskNavigator.tooltip "Navegador">
 <!ENTITY taskComposer.tooltip "Composer">
 <!ENTITY webDevelopment.label "Desarrollo web">
