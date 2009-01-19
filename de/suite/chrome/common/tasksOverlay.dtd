@@ -12,6 +12,7 @@
 
 <!ENTITY errorConsoleCmd.label                                  "Fehler-Konsole">
 <!ENTITY errorConsoleCmd.accesskey				"K">
+<!ENTITY errorConsoleCmd.commandkey				"j">
 
 <!ENTITY taskNavigator.tooltip  "Browser">
 <!ENTITY taskComposer.tooltip  "Composer">
