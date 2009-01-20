@@ -33,11 +33,11 @@ that require it.  -->
 <!ENTITY itemOfflineApps.label        "données de sites Web hors connexion">
 <!ENTITY itemOfflineApps.accesskey    "d">
 <!ENTITY itemDownloadList.label       "liste des téléchargements">
-<!ENTITY itemDownloadList.accesskey   "s">
-<!ENTITY itemActiveLogins.label       "connexions actives">
-<!ENTITY itemActiveLogins.accesskey   "o">
+<!ENTITY itemDownloadList.accesskey   "t">
+<!ENTITY itemActiveLogins.label       "sessions actives avec identifiants">
+<!ENTITY itemActiveLogins.accesskey   "s">
 <!ENTITY itemSiteSettings.label       "paramètres de sites spécifiques">
-<!ENTITY itemSiteSettings.accesskey   "s">
+<!ENTITY itemSiteSettings.accesskey   "p">
 
 <!ENTITY window.width                 "35em">
 <!ENTITY column.width                 "16em">
