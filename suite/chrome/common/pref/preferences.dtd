@@ -32,3 +32,4 @@
 <!ENTITY policies.label "Политика защиты">
 <!ENTITY mousewheel.label "Ролик мыши">
 <!ENTITY scriptsAndWindows.label "Сценарии и плагины">
+<!ENTITY focusSearch.key "f">

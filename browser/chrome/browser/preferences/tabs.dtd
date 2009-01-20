@@ -3,7 +3,7 @@
 <!ENTITY warnCloseMultipleTabs.label "Предупреждать при закрытии нескольких вкладок">
 <!ENTITY warnCloseMultipleTabs.accesskey "з">
 <!ENTITY warnOpenManyTabs.label "Предупреждать, когда открытие множества вкладок может привести к замедлению работы &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "о">
+<!ENTITY warnOpenManyTabs.accesskey "р">
 <!ENTITY showTabBar.label "Всегда показывать панель вкладок">
 <!ENTITY showTabBar.accesskey "п">
 <!ENTITY switchToNewTabs.label "Переключаться на открываемую вкладку">
