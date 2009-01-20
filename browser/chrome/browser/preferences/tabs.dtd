@@ -2,7 +2,7 @@
 <!ENTITY newWindowsAsTabs.accesskey "м">
 <!ENTITY warnCloseMultipleTabs.label "Предупреждать при закрытии нескольких вкладок">
 <!ENTITY warnCloseMultipleTabs.accesskey "з">
-<!ENTITY warnOpenManyTabs.label "Предупреждать при открытии большого количества вкладок, так как это может привести к замедлению работы &brandShortName;">
+<!ENTITY warnOpenManyTabs.label "Предупреждать, когда открытие множества вкладок может привести к замедлению работы &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey "о">
 <!ENTITY showTabBar.label "Всегда показывать панель вкладок">
 <!ENTITY showTabBar.accesskey "п">

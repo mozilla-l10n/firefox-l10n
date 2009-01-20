@@ -28,5 +28,7 @@
 <!ENTITY itemDownloadList.accesskey "и">
 <!ENTITY itemActiveLogins.label "Регистрационные данные">
 <!ENTITY itemActiveLogins.accesskey "г">
+<!ENTITY itemSiteSettings.label "Параметры, специфичные для сайта">
+<!ENTITY itemSiteSettings.accesskey "р">
 <!ENTITY window.width "30em">
 <!ENTITY column.width "16em">

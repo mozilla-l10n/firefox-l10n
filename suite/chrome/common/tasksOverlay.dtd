@@ -8,6 +8,7 @@
 <!ENTITY javaConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY taskNavigator.tooltip "Браузер">
 <!ENTITY taskComposer.tooltip "Компоновщик">
 <!ENTITY webDevelopment.label "Веб-разработка">
