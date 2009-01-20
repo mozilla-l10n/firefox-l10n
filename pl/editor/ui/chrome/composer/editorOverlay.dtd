@@ -114,11 +114,11 @@
 <!ENTITY findPrevCmd.accesskey    "o">
 <!ENTITY findPrevCmd.key          "G">
 <!ENTITY findPrevCmd.key2         "VK_F3">
-<!ENTITY enableInlineSpellChecker.label     "Sprawdź pisownię podczas wprowadzania tekstu">
+<!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd.label             "Sprawdź pisownię">
-<!ENTITY checkSpellingCmd.accesskey         "r">
-<!ENTITY checkSpellingCmd.key               "K">
+<!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię">
+<!ENTITY checkSpellingCmd2.accesskey        "r">
+<!ENTITY checkSpellingCmd2.key              "p">
 <!ENTITY validateCmd.label                  "Weryfikuj poprawność kodu HTML">
 <!ENTITY validateCmd.accesskey              "W">
 
