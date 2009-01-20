@@ -42,7 +42,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label              "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
 <!ENTITY enableAppUpdate.label        "programu &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey    "p">
+<!ENTITY enableAppUpdate.accesskey    "T">
 <!ENTITY enableAddonsUpdate.label     "zainstalowanych dodatków">
 <!ENTITY enableAddonsUpdate.accesskey "z">
 <!ENTITY whenUpdatesFound.label       "Kiedy zostaną znalezione aktualizacje dla programu &brandShortName;:">
