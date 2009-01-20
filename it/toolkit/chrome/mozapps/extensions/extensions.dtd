@@ -96,7 +96,7 @@
 <!ENTITY insecureUpdate.label "Non fornisce aggiornamenti sicuri.">
 <!ENTITY needsDependencies.label "Richiede elementi aggiuntivi.">
 <!ENTITY blocklisted.label "Disattivato per proteggere il computer.">
-<!ENTITY softBlocklisted.label "Conosciuto come causa di problemi di stabilità o sicurezza.">
+<!ENTITY softBlocklisted.label "Identificato come causa di problemi di stabilità o sicurezza.">
 <!ENTITY toBeDisabled.label "Questo componente verrà disattivato al prossimo avvio di &brandShortName;.">
 <!ENTITY toBeEnabled.label "Questo componente verrà attivato al prossimo avvio di &brandShortName;.">
 <!ENTITY toBeInstalled.label "Questo componente verrà installato al prossimo avvio di &brandShortName;.">

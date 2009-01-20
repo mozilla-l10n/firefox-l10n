@@ -28,5 +28,7 @@
 <!ENTITY itemDownloadList.accesskey "E">
 <!ENTITY itemActiveLogins.label "Login attivi">
 <!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemSiteSettings.label "Impostazioni specifiche per sito">
+<!ENTITY itemSiteSettings.accesskey "m">
 <!ENTITY window.width "30em">
 <!ENTITY column.width "16em">
