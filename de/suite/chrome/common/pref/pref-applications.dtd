@@ -7,5 +7,4 @@
 <!ENTITY actionColumn2.label     "Aktion">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY filter.label            "Suchen:">
-<!ENTITY filter.accesskey        "S">
+<!ENTITY search.emptytext        "Typen und Aktionen durchsuchen">
