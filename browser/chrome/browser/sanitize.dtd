@@ -36,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey			"Y">
 <!ENTITY itemActiveLogins.label				"Aktieve lochyns">
 <!ENTITY itemActiveLogins.accesskey			"l">
+<!ENTITY itemSiteSettings.label       		"Webstee-spesifike ynstellings">
+<!ENTITY itemSiteSettings.accesskey   		"S">
 
 <!ENTITY window.width						"30em">
 <!ENTITY column.width						"14em">
