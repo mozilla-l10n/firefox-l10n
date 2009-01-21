@@ -71,8 +71,8 @@
 <!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkimi Në Shkrim i Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "D">
 <!ENTITY checkSpellingCmd2.label "Kontroll Drejtshkimi">
-<!ENTITY checkSpellingCmd.accesskey "K">
-<!ENTITY checkSpellingCmd.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "K">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Vleftëso HTML-në">
 <!ENTITY validateCmd.accesskey "V">
 
