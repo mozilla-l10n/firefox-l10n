@@ -70,9 +70,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkimi Në Shkrim i Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "D">
-<!ENTITY checkSpellingCmd.label "Kontroll Drejtshkimi">
+<!ENTITY checkSpellingCmd2.label "Kontroll Drejtshkimi">
 <!ENTITY checkSpellingCmd.accesskey "K">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key "p">
 <!ENTITY validateCmd.label "Vleftëso HTML-në">
 <!ENTITY validateCmd.accesskey "V">
 
