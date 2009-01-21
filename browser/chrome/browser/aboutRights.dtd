@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Çfarëdo rregulli vetësi që prek këtë produkt do të duhej të figuronte këtu.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName;-i ofron po ashtu shërbime opsionale të dhënash &quot;site&quote;-esh web, të tillë si shërbimi SafeBrowsing; megjithatë, nuk mund të garantojmë që këta janë 100&#37; të përpiktë dhe pa gabime. Më tepër hollësi, përfshi të dhëna rreth çaktivizimit të shërbimeve, mund të gjenden te ">
+<!ENTITY rights.intro-point4a "&brandShortName;-i ofron po ashtu shërbime opsionale të dhënash &quot;site&quot;-esh web, të tillë si shërbimi SafeBrowsing; megjithatë, nuk mund të garantojmë që këta janë 100&#37; të përpiktë dhe pa gabime. Më tepër hollësi, përfshi të dhëna rreth çaktivizimit të shërbimeve, mund të gjenden te ">
 <!ENTITY rights.intro-point4b "kushte shërbimi">
 <!ENTITY rights.intro-point4c ".">
 
