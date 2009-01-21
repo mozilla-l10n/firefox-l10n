@@ -57,8 +57,10 @@
 <!ENTITY originalWebsite.label "Site Web : ">
 
 <!ENTITY editMessage.label "Éditer le brouillon…">
+<!ENTITY editMessage.accesskey "b">
 
 <!ENTITY attachmentsTree.label "Pièces jointes :">
+<!ENTITY attachmentsTree.accesskey "P">
 <!ENTITY openAttachmentCmd.label "Ouvrir">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY viewAttachmentCmd.label "Code source du message">

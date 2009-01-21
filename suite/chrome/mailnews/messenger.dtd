@@ -291,8 +291,10 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "n">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Précédent">
+<!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Suivant">
+<!ENTITY goForwardCmd.accesskey "u">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Message coché">
 <!ENTITY prevFlaggedMsgCmd.accesskey "c">
