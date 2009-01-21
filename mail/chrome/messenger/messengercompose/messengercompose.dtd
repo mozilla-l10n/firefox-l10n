@@ -110,10 +110,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Mundësi">
 <!ENTITY optionsMenu.accesskey "M">
-<!ENTITY checkSpellingCmd.label "Kontrollo Drejtshkrimin…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "K">
+<!ENTITY checkSpellingCmd2.label "Kontrollo Drejtshkrimin…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY enableInlineSpellChecker.label "Kontrollo Drejtshkrimin Në Shkrim e Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Përmende Mesazhin">

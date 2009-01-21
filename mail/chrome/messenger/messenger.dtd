@@ -691,3 +691,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "më tepër">
 
+
+<!ENTITY archiveMsgCmd.label "Arkivë">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
+

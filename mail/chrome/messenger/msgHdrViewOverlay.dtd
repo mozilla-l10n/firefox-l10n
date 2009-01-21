@@ -30,6 +30,7 @@
 <!ENTITY OpenMessageForMsgId.label "Hap Mesazhin Për ID-në">
 <!ENTITY OpenBrowserWithMsgId.label "Hap Shfletuesin me ID Mesazhi">
 <!ENTITY editMessageDescription.label "Ky është një mesazh skicë">
+<!ENTITY archiveButton.label "arkivë">
 <!ENTITY editMessageButton.label "Përpunoni…">
 <!ENTITY forwardButton.label "përcille…">
 <!ENTITY junkButton.label "shënoje si hedhurinë">
