@@ -1,6 +1,6 @@
 <!ENTITY restorepage.tabtitle "Restaurar sesión">
 <!ENTITY restorepage.pagetitle "¿Le gustaría restaurar su sesión anterior?">
-<!ENTITY restorepage.issueDesc "La última sesión de &brandShortName; se ha cerrado de forma inesperada. Sinceramente lo sentimos por las molestias. Puede restaurar sus pestañas y ventanas de su sesión anterior, o abrir una sesión nueva si no se necesita más la sesión antigua.">
+<!ENTITY restorepage.issueDesc "La última sesión de &brandShortName; se ha cerrado de forma inesperada. Sinceramente sentimos las molestias. Puede restaurar las pestañas y ventanas de su sesión anterior, o abrir una sesión nueva si no se necesita más la sesión antigua.">
 <!ENTITY restorepage.remedies "Si &brandShortName; se cierra repetidamente:">
 <!ENTITY restorepage.dueToChrome "Intente deshabilitar cualquier extensión añadida recientemente desde la ventana de Complementos.">
 <!ENTITY restorepage.dueToContent "Intente restaurar su sesión sin las páginas web que crea que puedan estar causando el cierre:">
