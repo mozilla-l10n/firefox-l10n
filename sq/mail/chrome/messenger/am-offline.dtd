@@ -29,3 +29,7 @@
 <!ENTITY nntpRemoveBody.accesskey "V">
 <!ENTITY offlineSelectNntp.label "Përzgjidhni grupe lajmesh për përdorim si i palidhur…">
 <!ENTITY diskspaceGroupTitle.label "Vend në Disk">
+
+<!ENTITY retentionApplyToFlagged.label "Mesazhet me yllkë mbaji përherë">
+<!ENTITY retentionApplyToFlagged.accesskey "m">
+

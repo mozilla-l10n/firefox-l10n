@@ -54,3 +54,6 @@
 <!ENTITY retentionDeleteMsg.accesskey "F">
 <!ENTITY folderProps.location.label              "Vend:">
 <!ENTITY folderProps.location.accesskey          "V">
+<!ENTITY retentionApplyToFlagged.label "Mesazhet me yllkë mbaji përherë">
+<!ENTITY retentionApplyToFlagged.accesskey "m">
+
