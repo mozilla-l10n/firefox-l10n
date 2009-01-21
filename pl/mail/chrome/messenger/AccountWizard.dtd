@@ -59,6 +59,7 @@
 <!ENTITY smtpServerNamePrefix.label  "Nazwa serwera poczty wychodzącej (SMTP):">
 <!ENTITY newsServerNamePrefix.label  "Nazwa serwera grup dyskusyjnych (NNTP):">
 <!ENTITY downloadOnLogin.label       "Pobierz wiadomości">
+<!ENTITY downloadOnLogin.accesskey   "P">
 <!ENTITY deferStorageDesc.label      "Odznaczenie poniższego pola wyboru spowoduje, że poczta dla tego konta będzie przechowywana w swoim własnym katalogu. Konto to będzie wtedy widoczne jako konto najwyższego poziomu. W przeciwnym wypadku konto to stanie się częścią globalnej skrzynki odbiorczej.">
 <!ENTITY deferStorage.label          "Używaj globalnej skrzynki odbiorczej (konto Lokalne foldery będzie wykorzystywane do przechowywania poczty)">
 <!ENTITY deferStorage.accesskey      "U">

@@ -39,18 +39,19 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!-- LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
-       Netscape Communicator, please translate using the brandname in respective
-       languages for Netscape Communicator 4 releases.
-     LOCALIZATION NOTE : Do not translate any of the occurances of the word
-       "&brandShortName;" below. -->
+<!-- LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of Netscape Communicator, please translate using the brandname in respective languages for Netscape Communicator 4 releases. -->
 
-<!ENTITY importDialog.windowTitle      "Kreator importu">
-<!ENTITY importDialog.allTitle         "Importowanie wszystkich danych">
-<!ENTITY importDialog.mailTitle        "Wiadomości pocztowe">
-<!ENTITY importDialog.addressbookTitle "Książki adresowe">
-<!ENTITY importDialog.settingsTitle    "Ustawienia">
-<!ENTITY importDialog.filtersTitle     "Filtry">
+<!ENTITY importDialog.windowTitle    "Kreator importu">
+<!ENTITY importAll.label             "Importowanie wszystkich danych">
+<!ENTITY importAll.accesskey         "m">
+<!ENTITY importMail.label            "Wiadomości pocztowe">
+<!ENTITY importMail.accesskey        "W">
+<!ENTITY importAddressbook.label     "Książki adresowe">
+<!ENTITY importAddressbook.accesskey "K">
+<!ENTITY importSettings.label        "Ustawienia">
+<!ENTITY importSettings.accesskey    "U">
+<!ENTITY importFilters.label         "Filtry">
+<!ENTITY importFilters.accesskey     "F">
 
 <!ENTITY window.width    "42em">
 <!ENTITY window.macWidth "47em">
@@ -61,7 +62,8 @@
 <!ENTITY importDescription1.label "Za pomocą Kreatora importu możliwe jest przeprowadzenie automatycznej konwersji danych z innych popularnych programów pocztowych do programu &brandShortName;. W tym celu należy wybrać rodzaj importowanych danych, a następnie nacisnąć Dalej.">
 <!ENTITY importDescription2.label "Po zakończeniu importu wszystkie dane będą dostępne bezpośrednio w programie &brandShortName;.">
 
-<!ENTITY selectDescription.label "Wybierz program lub format pliku, z którego będą importowane dane:">
+<!ENTITY selectDescription.label     "Wybierz program lub format pliku, z którego będą importowane dane:">
+<!ENTITY selectDescription.accesskey "z">
 
 <!ENTITY back.label    "&lt; Wstecz">
 <!ENTITY forward.label "Dalej &gt;">
@@ -76,5 +78,7 @@
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x ma w każdej wizytówce tylko jeden adres e-mail, podczas gdy &brandShortName; ma dwa adresy (domowy i służbowy)">
 <!ENTITY FieldDiscInputText2.label "Wybierz kategorię, w której zostaną zachowane importowane adresy pocztowe:">
 <!ENTITY FieldDiscWarning.label    "Ta kategoria zostanie użyta dla wszystkich danych wybranej książki adresowej: ">
-<!ENTITY importDialog.homeTitle    "Dom">
-<!ENTITY importDialog.workTitle    "Praca">
+<!ENTITY importHome.label          "Dom">
+<!ENTITY importHome.accesskey      "D">
+<!ENTITY importWork.label          "Praca">
+<!ENTITY importWork.accesskey      "P">
