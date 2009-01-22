@@ -2,21 +2,26 @@
 <!ENTITY basic.tab "Format e opcions">
 <!ENTITY formatGroup.label "Format">
 <!ENTITY orientation.label "Orientacion :">
-<!ENTITY portrait "Retrach">
-<!ENTITY landscape "Païsatge">
 <!ENTITY scale.label "Escala :">
+<!ENTITY scale.accesskey     "s">
 <!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "Adaptar a la talha de la pagina">
+<!ENTITY shrinkToFit.accesskey "d">
 <!ENTITY optionsGroup.label "Opcions">
 <!ENTITY printBG.label "Estampar lo fons de pagina (colors e imatges)">
+<!ENTITY printBG.accesskey   "f">
 <!ENTITY advanced.tab "Marges, entèstas e pès de pagina">
 <!ENTITY marginGroup.label "Marges (#1)">
 <!ENTITY marginUnits.inches "poces">
 <!ENTITY marginUnits.metric "milimètres">
 <!ENTITY marginTop.label "Naut :">
+<!ENTITY marginTop.accesskey "N :">
 <!ENTITY marginBottom.label "Bas :">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label "Esquèrra :">
+<!ENTITY marginLeft.accesskey "E :">
 <!ENTITY marginRight.label "Drecha :">
+<!ENTITY marginRight.label "D">
 <!ENTITY headerFooter.label "Entèstas e pès de pagina">
 <!ENTITY hfLeft.label "Esquèrra :">
 <!ENTITY hfCenter.label "Centre :">
@@ -36,3 +41,9 @@
 <!ENTITY hfCustom "Personalizar...">
 <!ENTITY customPrompt.title "Personalizar...">
 <!ENTITY customPrompt.prompt "Picatz vòstre tèxt d'entèsta o de pè de pagina">
+
+<!ENTITY portrait.label      "Retrach">
+<!ENTITY portrait.accesskey  "R">
+<!ENTITY landscape.label     "Païsatge">
+<!ENTITY landscape.accesskey "P">
+
