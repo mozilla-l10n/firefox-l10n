@@ -2,7 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator "-">
 
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Navigacion privada)">
 
 <!ENTITY tabCmd.label "Onglet novèl">
 <!ENTITY tabCmd.accesskey "O">
@@ -138,8 +137,6 @@
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistoryCmd.label            "Voidar l'istoric recent">
 <!ENTITY clearRecentHistoryCmd.accesskey        "i">
-<!ENTITY privateBrowsingCmd.label            "Navigacion privada">
-<!ENTITY privateBrowsingCmd.accesskey        "N">
 <!ENTITY viewMenu.label "Visualizacion">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barras d'espleches">
@@ -324,7 +321,6 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY editBookmark.done.label "Acabar">
 <!ENTITY editBookmark.cancel.label "Anullar">
-<!ENTITY editBookmark.removeBookmark.label "Suprimir lo marcapaginas">
 <!ENTITY editBookmark.removeBookmark.accessKey "S">
 <!ENTITY editBookmark.undo.label "Anullar">
 <!ENTITY editBookmark.undo.accessKey "u">

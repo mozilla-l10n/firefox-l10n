@@ -1,12 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Navigacion privada">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "Navigacion privada">
+<!ENTITY privatebrowsingpage.title                 "Navigacion privada">
+<!ENTITY privatebrowsingpage.title.normal          "Volètz començar la navigacion privada ?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; memorizarà pas pu l'istoric d'aqueste sesilha.">
-<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; enregistrarà pas cap d'istoric pendent la sesilha de navigacion (istoric, istoric de recèrca, istoric de telecargament, istoric de formularis web, cookies e fichièrs internet temporaris. Ça que la, totes los fichièrs qu'avètz telecargats o los marcapaginas serà gardats.">
 
-<!ENTITY privatebrowsingpage.recentHistory.label       "Voidar l'istoric recent">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "V">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; es pas en mòde de navigacion privada.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Per arrestar la navigacion privada, desseleccionatz Espleches&gt;Navigacion privada.">
-<!ENTITY privatebrowsingpage.footerDesc                "Aprofechatz !">
+<!ENTITY privatebrowsingpage.description               "Dins una sesilha de navigacion privada, &brandShortName; memoriza pas l'istoric del navigador, l'istoric de recèrca, l'istoric dels formularis web, los cookies o los fichièrs temporaris d'internet. Ça que la, los fichièrs que telecargatz e los marca-paginas seràn gardats.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Benlèu que volètz tanben començar ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "en netejant l'istoric recent">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Començar la navigacion privada">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
+
+<!ENTITY privatebrowsingpage.howToStop                 "Per arrestar la navigacion privada, seleccionatz &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; o tampatz &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "Per aviar la navigacion privada, podètz tanben seleccionar &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Pendent que vòstre ordenador garda pas de traça de vòstre istoric de navigacion, vòstre FAI o emplegaire pòt contunhar a seguir las paginas que visitatz.">
+<!ENTITY privatebrowsingpage.learnMore                 "Ne saber mai">
+
