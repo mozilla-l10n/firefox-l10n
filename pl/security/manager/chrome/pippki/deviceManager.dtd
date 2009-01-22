@@ -20,7 +20,7 @@
    -
    - Contributor(s):
    -   Ian McGreer <mcgreer@netscape.com>
-   -   Marek Stępień <marcoos@aviary.pl> (Polish translation)
+   -   Marek Stępień <marcoos@aviary.pl> (Polish localization)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -64,7 +64,7 @@
 <!ENTITY loaddevice.modname.default 			"Nowy moduł PKCS#11" >
 <!ENTITY loaddevice.filename 					"Nazwa pliku modułu:" >
 <!ENTITY loaddevice.filename.accesskey          "N">
-<!ENTITY loaddevice.browse 						"Przeglądaj..." >
+<!ENTITY loaddevice.browse 						"Przeglądaj…" >
 <!ENTITY loaddevice.browse.accesskey          	"P">
 
 <!ENTITY loaddevice.title 						"Załaduj urządzenie PKCS#11" >

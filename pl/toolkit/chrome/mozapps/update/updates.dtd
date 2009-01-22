@@ -17,7 +17,7 @@
 <!ENTITY  incompatibleCheck.title         "Sprawdzanie kompatybilności dodatków">
 <!ENTITY  incompatibleCheck.label         "Szukanie nowszych wersji zainstalowanych dodatków…">
 
-<!ENTITY  clickHere.label                 "Wyświetl więcej informacji o tej aktualizacji...">
+<!ENTITY  clickHere.label                 "Wyświetl więcej informacji o tej aktualizacji…">
 
 <!ENTITY  evangelism.desc                 "Aktualizacja programu &brandShortName; jest wysoce zalecana.">
 
@@ -35,8 +35,8 @@
 
 <!ENTITY  downloading.title               "Pobieranie aktualizacji">
 
-<!ENTITY  downloading.intro               "Trwa pobieranie aktualizacji...">
-<!ENTITY  connecting.label                "Łączenie z serwerem aktualizacji...">
+<!ENTITY  downloading.intro               "Trwa pobieranie aktualizacji…">
+<!ENTITY  connecting.label                "Łączenie z serwerem aktualizacji…">
 <!ENTITY  verificationFailedText.label    "Nie udało się potwierdzić integralności pobranej aktualizacji. Rozpoczęto pobieranie całego programu.">
 
 <!ENTITY  viewDetails.tooltip             "Wyświetl więcej informacji na temat tej aktualizacji">
@@ -61,7 +61,7 @@
 
 <!ENTITY  installed.title                 "Aktualizacja zainstalowana">
 <!ENTITY  installed.intro                 "Instalacja aktualizacji zakończyła się powodzeniem.">
-<!ENTITY  whatsnew.label                  "Spis najważniejszych zmian...">
+<!ENTITY  whatsnew.label                  "Spis najważniejszych zmian…">
 
 <!ENTITY  update.details.label            "Szczegóły">
 <!ENTITY  update.installedOn.label        "Zainstalowano:">

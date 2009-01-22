@@ -51,6 +51,6 @@
 <!ENTITY hfPage "Strona #" >
 <!ENTITY hfPageAndTotal "Strona # z #" >
 <!ENTITY hfBlank "--brak--" >
-<!ENTITY hfCustom "Własny..." >
-<!ENTITY customPrompt.title "Własny tekst nagłówka lub stopki..." >
+<!ENTITY hfCustom "Własny…" >
+<!ENTITY customPrompt.title "Własny tekst nagłówka lub stopki…" >
 <!ENTITY customPrompt.prompt "Wprowadź własny tekst nagłówka lub stopki" >

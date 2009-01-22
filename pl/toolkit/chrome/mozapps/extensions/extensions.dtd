@@ -22,7 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "n">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Znajdź aktualizacje zainstalowanych dodatków">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Znajdź aktualizacje zainstalowanych motywów">
-<!ENTITY cmd.installLocalFile.label       "Zainstaluj...">
+<!ENTITY cmd.installLocalFile.label       "Zainstaluj…">
 <!ENTITY cmd.installLocalFile.accesskey   "a">
 <!ENTITY cmd.installFileAddon.tooltip     "Zainstaluj dodatek">
 <!ENTITY cmd.installFileTheme.tooltip     "Zainstaluj motyw">

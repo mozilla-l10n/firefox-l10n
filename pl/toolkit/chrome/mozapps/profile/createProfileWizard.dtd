@@ -15,7 +15,7 @@
 <!ENTITY profilePrompt.accesskey        "N">
 <!ENTITY profileDirectoryExplanation.text     "Twoje ustawienia, preferencje oraz pozostałe dane osobiste będą przechowywane w:">
 <!ENTITY profileDefaultName             "Domyślny użytkownik">
-<!ENTITY button.choosefolder.label      "Wybierz folder...">
+<!ENTITY button.choosefolder.label      "Wybierz folder…">
 <!ENTITY button.choosefolder.accesskey  "W">
 <!ENTITY button.usedefault.label        "Użyj domyślnego folderu">
 <!ENTITY button.usedefault.accesskey    "U">

@@ -23,7 +23,7 @@
 
 <!ENTITY reportForm.problem_type.accesskey          "R">
 
-<!ENTITY reportForm.problem_type.chooseOne.title    "Wybierz...">
+<!ENTITY reportForm.problem_type.chooseOne.title    "Wybierz…">
 
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server first! -->
 <!ENTITY reportForm.problem_type.item1.title        "Przeglądarka nie jest obsługiwana">
@@ -57,7 +57,7 @@
 <!ENTITY reportResults.showDetail.accesskey         "g">
 
 <!ENTITY sendReport.label                           "Wysyłanie zgłoszenia">
-<!ENTITY sendReport.description                     "Wysyłanie zgłoszenia do serwera...">
+<!ENTITY sendReport.description                     "Wysyłanie zgłoszenia do serwera…">
 
 <!ENTITY finish.label                               "Zgłoszenie wysłane">
 
