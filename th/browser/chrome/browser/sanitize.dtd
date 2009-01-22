@@ -36,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey "ด">
 <!ENTITY itemActiveLogins.label       "การล็อกอินที่ค้างอยู่">
 <!ENTITY itemActiveLogins.accesskey   "อ">
+<!ENTITY itemSiteSettings.label       "การตั้งค่าเฉพาะเว็บ">
+<!ENTITY itemSiteSettings.accesskey   "ว">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">
