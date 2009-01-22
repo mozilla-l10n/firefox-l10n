@@ -35,6 +35,8 @@ that require it.  -->
 <!ENTITY itemFormSearchEntries.accesskey "ث">
 <!ENTITY itemActiveLogins.label "تسجيلات الدخول النشِطة">
 <!ENTITY itemActiveLogins.accesskey "ش">
+<!ENTITY itemSiteSettings.label       "إعدادات متعلقة بالموقع">
+<!ENTITY itemSiteSettings.accesskey   "د">
 
 <!ENTITY window.width "30em">
 <!ENTITY column.width "14em">
