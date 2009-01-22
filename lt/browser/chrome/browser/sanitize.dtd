@@ -68,6 +68,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey   "A">
 <!ENTITY itemActiveLogins.label       "Esami prisijungimai">
 <!ENTITY itemActiveLogins.accesskey   "E">
+<!ENTITY itemSiteSettings.label       "Nuostatos, taikomos šioje svetainėje">
+<!ENTITY itemSiteSettings.accesskey   "N">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">
