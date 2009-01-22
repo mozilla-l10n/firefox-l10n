@@ -3,6 +3,7 @@
 <!ENTITY sanitizeItems.label "Voidar los elements seguents ara :">
 <!ENTITY clearDataSettings2.label     "Quand sortissi de &brandShortName;, deu voidar automaticament :">
 <!ENTITY clearDuration.label          "Suprimir ">
+<!ENTITY clearDuration.accesskey      "S">
 <!ENTITY clearDuration.lastHour       "la darrièra ora">
 <!ENTITY clearDuration.last2Hours     "las 2 darrièras oras">
 <!ENTITY clearDuration.last4Hours     "las 4 darrièras oras">
