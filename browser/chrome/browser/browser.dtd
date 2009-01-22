@@ -2,6 +2,8 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator "-">
 
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navigacion privada)">
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Onglet novèl">
 <!ENTITY tabCmd.accesskey "O">
@@ -53,8 +55,12 @@
 <!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
 <!ENTITY addCurPagesCmd.label "Marcar totes los marcapaginas…">
-<!ENTITY organizeBookmarks.label "Organizar los marcapaginas...">
+<!ENTITY organizeBookmarks.label "Organizar los marcapaginas…">
 <!ENTITY bookmarkAllCmd.label "Marcar totes los marcapaginas…">
+
+<!ENTITY bookmarksToolbarChevron.tooltip "Visualizar mai de marcapaginas">
+
+
 <!ENTITY backCmd.label "Pagina precedenta">
 <!ENTITY backCmd.accesskey "p">
 <!ENTITY backButton.tooltip "Recuolar d'una pagina">
@@ -332,4 +338,10 @@
 <!ENTITY identity.moreInfoLinkText "Mai d'entresenhas...">
 <!ENTITY downloadMonitor2.tooltip "Clicatz per dobrir la fenèstra dels telecargaments">
 <!ENTITY ctrlTab.search.emptyText "Recercar dins los onglets">
+
+<!ENTITY privateBrowsingCmd.start.label         "Aviar la navigacion privada">
+<!ENTITY privateBrowsingCmd.start.accesskey     "n">
+<!ENTITY privateBrowsingCmd.stop.label          "Arrestar la navigacion privada">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "n">
+<!ENTITY privateBrowsingCmd.commandkey          "p">
 

@@ -1,4 +1,13 @@
 <!ENTITY history.label "Istoric">
+
+<!ENTITY  locbar.pre.label              "Quand utilizi la barra d'emplaçament, suggerir :">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Istoric e marcapaginas">
+<!ENTITY  locbar.history.label          "Istoric">
+<!ENTITY  locbar.bookmarks.label        "Marcapaginas">
+<!ENTITY  locbar.nothing.label          "Pas res">
+
 <!ENTITY rememberDaysBefore.label "Gardar mon istoric al mens">
 <!ENTITY rememberDaysBefore.accesskey "i">
 <!ENTITY rememberDaysAfter2.label "jorns">
@@ -18,15 +27,12 @@
 <!ENTITY askEachTime.label "me demandar cada còp">
 <!ENTITY cookieExceptions.label "Excepcions…">
 <!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Visualizar los cookies...">
+<!ENTITY showCookies.label "Visualizar los cookies…">
 <!ENTITY showCookies.accesskey "v">
 <!ENTITY privateData.label "Donadas privadas">
 <!ENTITY alwaysClear.label "Totjorn escafar mas entresenhas personalas quand tampi &brandShortName;">
 <!ENTITY alwaysClear.accesskey "T">
-<!ENTITY askBeforeClear.label "Me demandar abans de voidar las donadas privadas">
-<!ENTITY askBeforeClear.accesskey "d">
-<!ENTITY clearDataSettings.label "Paramètres...">
+<!ENTITY clearDataSettings.label "Paramètres…">
 <!ENTITY clearDataSettings.accesskey "t">
-<!ENTITY clearDataNow.label "Voidar ara...">
-<!ENTITY clearDataNow.label2 "Voidar ara">
+<!ENTITY clearDataNow.label "Voidar ara…">
 <!ENTITY clearDataNow.accesskey "a">
