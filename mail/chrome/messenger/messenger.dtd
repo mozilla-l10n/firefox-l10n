@@ -101,7 +101,7 @@
 <!ENTITY folderPropsFolderCmd.label "Ordner-Eigenschaften…">
 <!ENTITY folderPropsNewsgroupCmd.label "Newsgruppen-Eigenschaften…">
 <!ENTITY folderPropsCmd.accesskey "n">
-<!ENTITY accountManagerCmd.label "Konten…">
+<!ENTITY accountManagerCmd.label "Konten-Einstellungen…">
 <!ENTITY accountManagerCmd.accesskey "K">
 <!ENTITY accountManagerCmdUnix.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Rückgängig: Nachricht löschen">
