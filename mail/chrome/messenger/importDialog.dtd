@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Importieren">
-<!ENTITY importDialog.allTitle    "Alles importieren">
-<!ENTITY importDialog.mailTitle   "Nachrichten">
-<!ENTITY importDialog.addressbookTitle "Adressbücher">
-<!ENTITY importDialog.settingsTitle "Einstellungen">
-<!ENTITY importDialog.filtersTitle "Filter">
+<!ENTITY importAll.label          "Alles importieren">
+<!ENTITY importAll.accesskey      "A">
+<!ENTITY importMail.label         "Nachrichten">
+<!ENTITY importMail.accesskey     "N">
+<!ENTITY importAddressbook.label  "Adressbücher">
+<!ENTITY importAddressbook.accesskey "d">
+<!ENTITY importSettings.label     "Einstellungen">
+<!ENTITY importSettings.accesskey "E">
+<!ENTITY importFilters.label      "Filter">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Anschließend können Sie mit den importierten Daten in &brandShortName; arbeiten.">
 
 <!ENTITY selectDescription.label  "Bitte wählen Sie den Typ der Datei, aus der Sie importieren wollen:">
+<!ENTITY selectDescription.accesskey "B">
 
 <!ENTITY back.label               "&lt; Zurück">
 <!ENTITY forward.label            "Weiter &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x speichert nur eine Postadresse pro Kontakt, während &brandShortName; zwei speichert (private und dienstliche).">
 <!ENTITY FieldDiscInputText2.label  "Wählen Sie die Kategorie, in die Sie importierte Postadressen speichern wollen:">
 <!ENTITY FieldDiscWarning.label  "Diese Kategorie wird für alle Einträge des gewählten Adressbuchs verwendet: ">
-<!ENTITY importDialog.homeTitle  "Privat">
-<!ENTITY importDialog.workTitle  "Dienstlich">
+<!ENTITY importHome.label        "Privat">
+<!ENTITY importHome.accesskey    "P">
+<!ENTITY importWork.label        "Dienstlich">
+<!ENTITY importWork.accesskey    "D">

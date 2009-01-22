@@ -103,6 +103,7 @@
 <!ENTITY smtpServerNamePrefix.label "Postausgang-Server (SMTP):">
 <!ENTITY newsServerNamePrefix.label "News-Server (NNTP):">
 <!ENTITY downloadOnLogin.label "Nachrichten jetzt herunterladen">
+<!ENTITY downloadOnLogin.accesskey "j">
 <!ENTITY deferStorageDesc.label "Deaktivieren Sie diese Option, um für dieses Konto eine separate Ordner-Hierachie mit eigenem Posteingang zu erhalten.">
 <!ENTITY deferStorage.label "Globaler Posteingang (im Lokalen Konto)">
 <!ENTITY deferStorage.accesskey "G">
