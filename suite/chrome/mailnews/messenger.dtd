@@ -234,8 +234,10 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "н">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Назад">
+<!ENTITY goBackCmd.accesskey "з">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Вперёд">
+<!ENTITY goForwardCmd.accesskey "п">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Отмеченное флагом сообщение">
 <!ENTITY prevFlaggedMsgCmd.accesskey "ф">

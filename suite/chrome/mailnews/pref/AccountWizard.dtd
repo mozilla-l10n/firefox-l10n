@@ -56,6 +56,7 @@
 <!ENTITY smtpServerNamePrefix.label "Имя сервера исходящей почты (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Имя сервера новостей (NNTP):">
 <!ENTITY downloadOnLogin.label "Загрузить сообщения">
+<!ENTITY downloadOnLogin.accesskey "г">
 <!ENTITY deferStorageDesc.label "Если флажок снят, то почта для данной учётной записи будет хранится в её собственных папках. При этом данная учётная запись появится на самом верху списка учётных записей. Если флажок установлен, то данная учётная запись будет частью общей папки «Входящие», находящейся в «Локальных папках».">
 <!ENTITY deferStorage.label "Использовать общую папку «Входящие» (хранить почту в «Локальных Папках»)">
 <!ENTITY deferStorage.accesskey "о">
