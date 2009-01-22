@@ -17,7 +17,9 @@
 <!ENTITY inReplyToField.label "В ответ на:">
 <!ENTITY originalWebsite.label "Сайт:">
 <!ENTITY editMessage.label "Изменить черновик…">
+<!ENTITY editMessage.accesskey "з">
 <!ENTITY attachmentsTree.label "Вложения:">
+<!ENTITY attachmentsTree.accesskey "л">
 <!ENTITY openAttachmentCmd.label "Открыть">
 <!ENTITY openAttachmentCmd.accesskey "О">
 <!ENTITY viewAttachmentCmd.label "Просмотр исходного кода">

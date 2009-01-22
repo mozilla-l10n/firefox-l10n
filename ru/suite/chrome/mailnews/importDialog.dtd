@@ -1,10 +1,15 @@
 <!--null-->
 <!ENTITY importDialog.windowTitle "Импорт">
-<!ENTITY importDialog.allTitle "Импортировать всё">
-<!ENTITY importDialog.mailTitle "Почту">
-<!ENTITY importDialog.addressbookTitle "Адресные книги">
-<!ENTITY importDialog.settingsTitle "Настройки">
-<!ENTITY importDialog.filtersTitle "Фильтры">
+<!ENTITY importAll.label "Импортировать всё">
+<!ENTITY importAll.accesskey "п">
+<!ENTITY importMail.label "Почту">
+<!ENTITY importMail.accesskey "ч">
+<!ENTITY importAddressbook.label "Адресные книги">
+<!ENTITY importAddressbook.accesskey "д">
+<!ENTITY importSettings.label "Настройки">
+<!ENTITY importSettings.accesskey "с">
+<!ENTITY importFilters.label "Фильтры">
+<!ENTITY importFilters.accesskey "л">
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 <!ENTITY importTitle.label "Мастер импорта &brandShortName;">
@@ -12,6 +17,7 @@
 <!ENTITY importDescription1.label "Мастер импортирует почтовые сообщения, содержимое адресных книг, настройки и/или фильтры из других почтовых программ и адресных книг в &brandShortName;.">
 <!ENTITY importDescription2.label "Импортированная однажды, эта информация будет доступна для вас из &brandShortName;.">
 <!ENTITY selectDescription.label "Выберите тип файла, из которого вы хотите произвести импорт:">
+<!ENTITY selectDescription.accesskey "ы">
 <!ENTITY back.label "&lt; Назад">
 <!ENTITY forward.label "Далее &gt;">
 <!ENTITY finish.label "Готово">
@@ -22,5 +28,7 @@
 <!ENTITY FieldDiscInputText1.label "В Netscape Communicator 4.x для каждой карточки можно задать только один адрес электронной почты, а в &brandShortName; — два (домашний и рабочий).">
 <!ENTITY FieldDiscInputText2.label "Выберите категорию в которой вы хотите хранить импортированные адреса электронной почты:">
 <!ENTITY FieldDiscWarning.label "Эта категория будет использоваться для всех адресов выбранной адресной книги: ">
-<!ENTITY importDialog.homeTitle "Домашний">
-<!ENTITY importDialog.workTitle "Рабочий">
+<!ENTITY importHome.label "Домашний">
+<!ENTITY importHome.accesskey "м">
+<!ENTITY importWork.label "Рабочий">
+<!ENTITY importWork.accesskey "б">
