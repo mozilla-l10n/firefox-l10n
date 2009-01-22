@@ -38,9 +38,9 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
-<!ENTITY aboutWarningTitle.label "จงระวัง พลังด้านมืดจะครอบงำทุกสิ่ง!">
-<!ENTITY aboutWarningText.label "การเปลี่ยนแปลงการตั้งค่าขั้นสูงอาจจะทำให้โปรแกรมขาดความเสถียร, ความปลอดภัยลดลง และลดประสิทธิภาพการทำงานโดยรวม เจ้าจะไปต่อก็ได้ หากเจ้ามั่นใจในพลังของเจ้า">
-<!ENTITY aboutWarningButton.label "ข้าฯ จะระมัดระวัง, ท่านอาจารย์!">
+<!ENTITY aboutWarningTitle.label "โปรดระวัง แก้แล้วพังเราจะไม่รับผิดชอบนะ">
+<!ENTITY aboutWarningText.label "การเปลี่ยนแปลงการตั้งค่าขั้นสูงอาจจะทำให้โปรแกรมขาดเสถียรภาพ ความปลอดภัยลดลงและลดประสิทธิภาพการทำงานโดยรวม คุณจะดำเนินการต่อก็ได้ หากรู้ว่ากำลังทำอะไรอยู่">
+<!ENTITY aboutWarningButton.label "ตกลง เราจะระมัดระวัง">
 <!ENTITY aboutWarningCheckbox.label "แสดงการเตือนนี้ทุกครั้ง">
 
 <!ENTITY filterPrefs.label "ตัวกรอง">
