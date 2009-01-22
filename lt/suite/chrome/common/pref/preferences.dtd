@@ -65,3 +65,5 @@
 <!ENTITY policies.label              "Saugumo taisyklės">
 <!ENTITY mousewheel.label            "Pelės ratukas">
 <!ENTITY scriptsAndWindows.label     "Scenarijai ir papildiniai">
+
+<!ENTITY focusSearch.key             "f">

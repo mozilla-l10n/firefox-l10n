@@ -59,22 +59,25 @@
 <!ENTITY inReplyToField.label "Atsakymas į: ">
 <!ENTITY originalWebsite.label "Svetainė: ">
 
-<!ENTITY editMessage.label "Taisyti juodraštį…">
+<!ENTITY editMessage.label                 "Taisyti juodraštį…">
+<!ENTITY editMessage.accesskey             "j">
 
 <!ENTITY attachmentsTree.label             "Priedai:">
+<!ENTITY attachmentsTree.accesskey         "P">
+
 <!ENTITY openAttachmentCmd.label           "Atverti">
 <!ENTITY openAttachmentCmd.accesskey       "A">
 <!ENTITY viewAttachmentCmd.label           "Pirminis tekstas">
 <!ENTITY viewAttachmentCmd.accesskey       "P">
 <!ENTITY saveAsAttachmentCmd.label         "Įrašyti kaip…">
-<!ENTITY saveAsAttachmentCmd.accesskey     "k">
+<!ENTITY saveAsAttachmentCmd.accesskey     "r">
 <!ENTITY detachAttachmentCmd.label         "Išimti…">
 <!ENTITY detachAttachmentCmd.accesskey     "I">
 <!ENTITY deleteAttachmentCmd.label         "Pašalinti">
-<!ENTITY deleteAttachmentCmd.accesskey     "t">
+<!ENTITY deleteAttachmentCmd.accesskey     "š">
 <!ENTITY saveAllAttachmentsCmd.label       "Įrašyti visus…">
 <!ENTITY saveAllAttachmentsCmd.accesskey   "v">
 <!ENTITY detachAllAttachmentsCmd.label     "Išimti visus…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "I">
+<!ENTITY detachAllAttachmentsCmd.accesskey "m">
 <!ENTITY deleteAllAttachmentsCmd.label     "Pašalinti visus…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "P">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "n">
