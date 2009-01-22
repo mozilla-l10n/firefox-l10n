@@ -309,8 +309,10 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "e">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Atgal">
+<!ENTITY goBackCmd.accesskey "A">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Pirmyn">
+<!ENTITY goForwardCmd.accesskey "P">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "gairele pažymėtą laišką">
 <!ENTITY prevFlaggedMsgCmd.accesskey "a">
