@@ -108,6 +108,7 @@
 <!ENTITY smtpServerNamePrefix.label "Nom del servidor de sortida (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nom del servidor de grups de discussió (NNTP):">
 <!ENTITY downloadOnLogin.label "Baixa els missatges ara">
+<!ENTITY downloadOnLogin.accesskey "B">
 <!ENTITY deferStorageDesc.label "Desmarqueu aquest quadre de verificació per a emmagatzemar el correu d'aquest compte a la pròpia carpeta. Això farà que aquest compte aparegui com un compte de nivell superior. D'altra manera, formarà part del compte Carpetes locals.">
 <!ENTITY deferStorage.label "Utilitza la safata d'entrada global (emmagatzema el correu a les carpetes locals)">
 <!ENTITY deferStorage.accesskey "g">

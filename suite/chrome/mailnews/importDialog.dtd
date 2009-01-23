@@ -47,12 +47,16 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Importa">
-<!ENTITY importDialog.allTitle    "Importa-ho tot">
-<!ENTITY importDialog.mailTitle "Correu">
-<!ENTITY importDialog.addressbookTitle "Llibretes d'adreces">
-<!ENTITY importDialog.settingsTitle "Paràmetres">
-
-<!ENTITY importDialog.filtersTitle "Filtres">
+<!ENTITY importAll.label    "Importa-ho tot">
+<!ENTITY importAll.accesskey      "t">
+<!ENTITY importMail.label         "Correu">
+<!ENTITY importMail.accesskey     "C">
+<!ENTITY importAddressbook.label  "Llibretes d'adreces">
+<!ENTITY importAddressbook.accesskey "a">
+<!ENTITY importSettings.label     "Paràmetres">
+<!ENTITY importSettings.accesskey "P">
+<!ENTITY importFilters.label      "Filtres">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "45em">
 <!ENTITY  window.macWidth         "50em">
@@ -63,20 +67,24 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importDescription1.label "Amb aquest assistent podreu importar missatges de correu, entrades de llibreta d'adreces i/o preferències d'altres programes de correu i formats habituals de llibretes d'adreces cap a la Missatgeria del &brandShortName;.">
 <!ENTITY importDescription2.label "Una vegada s'hagin importat, hi podreu accedir des de la Missatgeria i/o la llibreta d'adreces del &brandShortName;">
 
-<!ENTITY selectDescription.label "Si us plau, seleccioneu el programa d'on voleu importar:">
+<!ENTITY selectDescription.label "Seleccioneu el tipus de fitxer que voldríeu importar:">
+<!ENTITY selectDescription.accesskey "S">
 
 <!ENTITY back.label "&lt; Enrere">
 <!ENTITY forward.label "Endavant &gt;">
 <!ENTITY finish.label "Finalitza">
-<!ENTITY cancel.label "Cancel·la">
+<!ENTITY cancel.label "Canceŀla">
 
 <!ENTITY select.label "Seleccioneu el tipus de material a importar:">
 
 <!ENTITY title.label "Títol">
-<!ENTITY processing.label "S'està important...">
+<!ENTITY processing.label "S'està important…">
 
 <!ENTITY FieldDiscInputText1.label "El Netscape Communicator 4.x té una adreça de correu per a cada targeta, mentre que el &brandShortName; en té dues (Particular i Feina).">
 <!ENTITY FieldDiscInputText2.label "Seleccioneu la categoria on voleu emmagatzemar les adreces de correu importades:">
 <!ENTITY FieldDiscWarning.label "Aquesta categoria s'utilitzarà per a totes les entrades de la llibreta d'adreces seleccionada:">
-<!ENTITY importDialog.homeTitle "Particular">
-<!ENTITY importDialog.workTitle "Feina">
+<!ENTITY importHome.label        "Particular">
+<!ENTITY importHome.accesskey    "P">
+<!ENTITY importWork.label        "Feina">
+<!ENTITY importWork.accesskey    "F">
+
