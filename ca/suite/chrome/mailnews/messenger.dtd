@@ -259,8 +259,10 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "p">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Endavant">
+<!ENTITY goForwardCmd.accesskey "d">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Enrere">
+<!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevFlaggedMsgCmd.label "Missatge senyalat">
 <!ENTITY prevFlaggedMsgCmd.accesskey "s">
