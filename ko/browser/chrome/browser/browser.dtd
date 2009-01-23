@@ -77,6 +77,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "이 페이지 읽기 중지">
 <!ENTITY goEndCap.tooltip "주소 표시줄에 주소를 입력하십시오.">
+<!ENTITY feedButton.tooltip "현재 페이지 구독…">
 <!ENTITY printButton.label "인쇄">
 <!ENTITY printButton.tooltip "현재 페이지 인쇄">
 <!ENTITY locationItem.title "주소">
@@ -259,6 +260,7 @@
 <!ENTITY mediaHideControls.label     "버튼 숨기기">
 <!ENTITY mediaHideControls.accesskey "C">
 
+<!ENTITY newTabButton.tooltip  "새 탭 열기">
 <!ENTITY newWindowButton.tooltip "새 창 열기">
 <!ENTITY sidebarCloseButton.tooltip "탐색 창 닫기">
 <!ENTITY cutButton.tooltip "잘라내기">
@@ -345,7 +347,6 @@
 
 <!ENTITY editBookmark.done.label "완료">
 <!ENTITY editBookmark.cancel.label "취소">
-<!ENTITY editBookmark.removeBookmark.label "북마크 제거">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "되돌리기">
 <!ENTITY editBookmark.undo.accessKey "U">
