@@ -354,6 +354,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "قرّب">
 <!ENTITY fullZoom.accesskey "ر">
 
+<!ENTITY newTabButton.tooltip           "افتح لسانًا جديدًا">
 <!ENTITY newWindowButton.tooltip "افتح نافذة جديدة">
 <!ENTITY sidebarCloseButton.tooltip "أغلِق الشّريط الجّانبي">
 
