@@ -352,6 +352,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Lupa">
 <!ENTITY fullZoom.accesskey             "L">
 
+<!ENTITY newTabButton.tooltip           "Otvorí novú kartu">
 <!ENTITY newWindowButton.tooltip        "Otvorí nové okno">
 <!ENTITY sidebarCloseButton.tooltip     "Zavrieť bočný panel">
 

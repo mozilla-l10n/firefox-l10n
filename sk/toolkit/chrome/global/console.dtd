@@ -46,7 +46,7 @@
 <!ENTITY errors.label "Chyby">
 <!ENTITY errors.accesskey "h">
 <!ENTITY warnings.label "Upozornenia">
-<!ENTITY warnings.accesskey "a">
+<!ENTITY warnings.accesskey "o">
 <!ENTITY messages.label "Správy">
 <!ENTITY messages.accesskey "r">
 <!ENTITY clear.label "Vymazať">
