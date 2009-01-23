@@ -52,7 +52,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title "முதன்மை கடவுச்சொல்லை உள்ளிடு">
-<!ENTITY getPassword.tokenName.label "பாதுகாப்பு சாதனம்">
+<!ENTITY getPassword.tokenName2.label "பாதுகாப்பு சாதனம்">
 <!ENTITY getPassword.password.label "கடவுச்சொல்:">
 
 <!-- These should be common -->
