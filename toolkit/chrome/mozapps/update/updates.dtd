@@ -42,6 +42,11 @@
 <!ENTITY update.details.label "상세 정보">
 <!ENTITY update.installedOn.label "설치 위치:">
 <!ENTITY update.status.label "상태:">
+
+<!ENTITY  manualUpdate.title  	"업데이트 오류">
+<!ENTITY  manualUpdate.desc		"보안 및 안정성을 향상하는 업데이트가 있습니다만 소프트웨어 설치 권한이 없습니다. 관리자에게 문의하거나 컴퓨터에 소프트웨어를 설치할 수 있는 권한을 가진 계정으로 로그인 후 진행해 주십시오.">
+<!ENTITY  manualUpdateGetMsg.label	"&brandShortName; 최신 버전은 아래 URL에서 다운로드 가능합니다: ">
+
 <!ENTITY incompatibleCheck.title         "부가 기능 업데이트 확인">
 <!ENTITY incompatibleCheck.label         "부가 기능 업데이트 찾기…">
 <!ENTITY incompatibleList.title          "호환 되지 않은 부가 기능">
