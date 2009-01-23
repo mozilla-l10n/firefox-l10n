@@ -36,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey "t">
 <!ENTITY itemActiveLogins.label "Sessões activas">
 <!ENTITY itemActiveLogins.accesskey "S">
+<!ENTITY itemSiteSettings.label       "Definições específicas do sítio">
+<!ENTITY itemSiteSettings.accesskey   "p">
 
 <!ENTITY window.width                 "34em">
 <!ENTITY column.width                 "17em">
