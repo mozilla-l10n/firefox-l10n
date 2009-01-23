@@ -8,9 +8,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                               inside the private browsing mode -->
+                                                                inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(사생활 보호 모드)">
-
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
@@ -61,6 +60,8 @@
 <!ENTITY bookmarkThisPageCmd.label "북마크에 추가">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY bookmarkAllCmd.label "모든 탭을 북마크에 추가…">
+<!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
+
 <!ENTITY backCmd.label "뒤로">
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY backButton.tooltip "한 페이지 뒤로 가기">
@@ -139,8 +140,12 @@
 <!ENTITY clearRecentHistoryCmd.label            "최근 기록 삭제">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
-<!ENTITY privateBrowsingCmd.label            "사생활 보호 모드">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "사생활 보호 모드 시작">
+<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.stop.label          "사생활 보호 모드 중지">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 
 <!ENTITY viewMenu.label "보기">
@@ -340,6 +345,7 @@
 
 <!ENTITY editBookmark.done.label "완료">
 <!ENTITY editBookmark.cancel.label "취소">
+<!ENTITY editBookmark.removeBookmark.label "북마크 제거">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "되돌리기">
 <!ENTITY editBookmark.undo.accessKey "U">
