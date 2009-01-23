@@ -36,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey   "Z">
 <!ENTITY itemActiveLogins.label       "Aktívne prihlásenia">
 <!ENTITY itemActiveLogins.accesskey   "A">
+<!ENTITY itemSiteSettings.label       "Špecifické nastavenia stránok">
+<!ENTITY itemSiteSettings.accesskey   "e">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "16em">

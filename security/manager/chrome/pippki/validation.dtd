@@ -36,10 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY validation.crlmanager.label                "Správca zoznamu zrušených certifikátov (CRL)">
-<!ENTITY validation.crlmanager.description          "Tieto zoznamy zrušených certifikátov (CRL) sú uložené v databáze certifikátov:">
+<!ENTITY validation.crlmanager.description          "V databáze sú uložené tieto zoznamy zrušených certifikátov (CRL):">
 <!ENTITY validation.crlname.label                   "Názov">
 <!ENTITY validation.crllastupdate.label             "Posledná aktualizácia">
-<!ENTITY validation.crlnextupdate.label             "Ďalšia aktualizácia">
+<!ENTITY validation.crlnextupdate.label             "Nasledujúca aktualizácia">
 <!ENTITY validation.crlautoupdateenabled.label      "Automatická aktualizácia">
 <!ENTITY validation.crlautoupdatestatus.label       "Stav automatickej aktualizácie">
 <!ENTITY validation.deletecrl.label                 "Odstrániť">
@@ -50,18 +50,18 @@
 <!ENTITY validation.advanced.accesskey              "N">
 
 <!ENTITY validation.crl.autoupdate.title            "Nastavenie automatickej aktualizácie CRL">
-<!ENTITY validation.crl.autoupdate.enable.label     "Povoliť automatickú aktualizáciu pre tieto CRL">
-<!ENTITY validation.crl.autoupdate.time.label1      "Aktualizácia">
-<!ENTITY validation.crl.autoupdate.time.label2      "dní do nasledujúcej aktualizácie">
+<!ENTITY validation.crl.autoupdate.enable.label     "Povoliť automatickú aktualizáciu pre tento CRL">
+<!ENTITY validation.crl.autoupdate.time.label1      "Aktualizovať">
+<!ENTITY validation.crl.autoupdate.time.label2      "dní pred dátumom nasledujúcej aktualizácie">
 <!ENTITY validation.crl.autoupdate.freq.label1      "Aktualizovať každých">
 <!ENTITY validation.crl.autoupdate.freq.label2      "dní">
 <!ENTITY validation.crl.autoupdate.url.label        "CRL bude importované z:">
 <!ENTITY crl.import.status.title                    "Stav importu CRL">
 <!ENTITY crl.import.success.message                 "Zoznam zrušených certifikátov (CRL – Certificate revocation list) bol úspešne importovaný.">
-<!ENTITY crl.issuer.label                           "CRL vydal:">
-<!ENTITY crl.issuer.org.label                       "Organizácia:">
-<!ENTITY crl.issuer.orgunit.label                   "Jednotka:">
-<!ENTITY crl.import.nextupdate.label                "Ďalšia aktualizácia:">
-<!ENTITY crl.autoupdate.fail.cnt.label              "Predchádzajúce opakované zlyhania aktualizácie:">
-<!ENTITY crl.autoupdate.fail.reason.label           "Podrobnosti o zlyhaní poslednej aktualizácie:">
+<!ENTITY crl.issuer.label                           "CRL vydal: ">
+<!ENTITY crl.issuer.org.label                       "Organizácia: ">
+<!ENTITY crl.issuer.orgunit.label                   "Jednotka: ">
+<!ENTITY crl.import.nextupdate.label                "Ďalšia aktualizácia: ">
+<!ENTITY crl.autoupdate.fail.cnt.label              "Predchádzajúce opakované zlyhania aktualizácie: ">
+<!ENTITY crl.autoupdate.fail.reason.label           "Podrobnosti o zlyhaní poslednej aktualizácie: ">
 <!ENTITY edit.button                                "Nastavenie">
