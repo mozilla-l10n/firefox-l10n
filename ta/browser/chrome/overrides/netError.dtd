@@ -1,60 +1,60 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problem loading page">
-<!ENTITY retry.label "Try Again">
+<!ENTITY loadError.label "பக்கத்தை ஏற்றுவதில் சிக்கல்">
+<!ENTITY retry.label "மீண்டும் முயற்சிக்கவும்">
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Unable to connect">
+<!ENTITY connectionFailure.title "இணைக்க முடியவில்லை">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "This address is restricted">
+<!ENTITY deniedPortAccess.title "இந்த முகவரி தடுக்கப்பட்டுள்ளது">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Server not found">
+<!ENTITY dnsNotFound.title "சேவையகத்தை காண முடியவில்லை">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Check the address for typing errors such as <strong>ww</strong>.example.com instead of <strong>www</strong>.example.com</li> <li>If you are unable to load any pages, check your computer's network connection.</li> <li>If your computer or network is protected by a firewall or proxy, make sure that &brandShortName; is permitted to access the Web.</li> </ul>">
 
-<!ENTITY fileNotFound.title "File not found">
+<!ENTITY fileNotFound.title "கோப்பினை காணவில்லை">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Check the file name for capitalization or other typing errors.</li> <li>Check to see if the file was moved, renamed or deleted.</li> </ul>">
 
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; can't load this page for some reason.</p>">
 
-<!ENTITY malformedURI.title "The address isn't valid">
+<!ENTITY malformedURI.title "இந்த முகவரி தவறானது">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li> <li>Make sure that you're using forward slashes (i.e. <strong>/</strong>).</li> </ul>">
 
-<!ENTITY netInterrupt.title "The connection was interrupted">
+<!ENTITY netInterrupt.title "இணைப்பில் தடங்கல் உள்ளது">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.title "இணைப்பில்லாத முறைமை">
 <!ENTITY netOffline.longDesc "<ul> <li>Uncheck &quot;Work Offline&quot; in the File menu, then try again.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "உள்ளடக்க குறிமுறை பிழை">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.title "பாதுகாப்பில்லாத கோப்பு வகை">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "The connection was reset">
+<!ENTITY netReset.title "இணைப்பு மறுஅமைக்கப்பட்டது">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "The connection has timed out">
+<!ENTITY netTimeout.title "இணைப்பு நேரம் முடிந்தது">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "The address wasn't understood">
+<!ENTITY protocolNotFound.title "முகவரியை புரிந்து கொள்ள முடியவில்லை">
 <!ENTITY protocolNotFound.longDesc "<ul> <li>You might need to install other software to open this address.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.title "ப்ராக்ஸி சேவையகம் இணைப்பை மறுக்கிறது">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Check the proxy settings to make sure that they are correct.</li> <li>Contact your network administrator to make sure the proxy server is working.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Unable to find the proxy server">

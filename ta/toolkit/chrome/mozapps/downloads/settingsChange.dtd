@@ -40,5 +40,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "Settings can be changed in &brandShortName;'s Preferences.">
-<!ENTITY  settingsChangeOptions.label      "Settings can be changed in &brandShortName;'s Options.">
+<!ENTITY  settingsChangePreferences.label  "அமைவுகள் &brandShortName;இன் முன்னுரிமைகளில் மாற்றப்படலாம்.">
+<!ENTITY  settingsChangeOptions.label      "அமைவுகள் &brandShortName;இன் விருப்பங்களில் மாற்றப்படலாம்.">

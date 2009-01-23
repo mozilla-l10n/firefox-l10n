@@ -1,23 +1,26 @@
-<!ENTITY pluginWizard.title "சொருகு பொருள் கண்டறியும் சேவை">
-<!ENTITY pluginWizard.firstPage.title "Welcome to the &pluginWizard.title;">
+<!ENTITY pluginWizard.title "கூடுதல் இணைப்பு கண்டறியும் சேவை">
+<!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title;க்கு நல்வரவு">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; நிறுவன அடையாளம்; தற்போதுள்ள சொருகுபொருள்களை தேடுகிறது...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; நிறுவன அடையாளம்; தற்போதுள்ள கூடுதல் இணைப்புக்களை தேடுகிறது...">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "ஏற்கெனவே உள்ள சொருகு பொருள் பதிவிறக்கங்கள்">
+<!ENTITY pluginWizard.availablePluginsPage.title "ஏற்கெனவே உள்ள கூடுதல் இணைப்பு பதிவிறக்கங்கள்">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "கீழ்கண்ட பதிவிறக்கங்கள் உள்ளன:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "அடுத்து என்பதை க்ளிக் செய்து இந்த சொருகு பொருள்களை நிறுவவும்.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "சில சொருகு பொருள்களை நிறுவ கூடுதல் தகவல்கள் தேவைப்படும்.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "அடுத்து என்பதை க்ளிக் செய்து இந்த கூடுதல் இணைப்புக்களை நிறுவவும்.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "சில கூடுதல் இணைப்புகளுக்கு நிறுவ கூடுதல் தகவல்கள் தேவைப்படும்.">
 
-<!ENTITY pluginWizard.licensePage.title "சொருகு பொருள் உரிமம்">
-<!ENTITY pluginWizard.licensePage.accept.label "ஏற்கிறேன்.">
-<!ENTITY pluginWizard.licensePage.deny.label "நான் ஏற்கமாட்டேன்(சொருகு பொருளை நிறுவ முடியாது).">
+<!ENTITY pluginWizard.licensePage.title "கூடுதல் இணைப்பு உரிமம்">
+<!ENTITY pluginWizard.licensePage.accept.label "நான் ஏற்கிறேன்.">
+<!ENTITY pluginWizard.licensePage.deny.label "நான் ஏற்க மாட்டேன் கூடுதல் இணைப்பை நிறுவ முடியாது).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "சொருகு பொருளை நிறுவுகிறது">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; நிறுவன அடையாளம்; சொருகுபொருளை நிறுவுகிறது...">
 
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; நிறுவன அடையாளம்; இல்லாமல் போன சொருகுபொருள் நிறுவல் முடிந்தது:">
+<!ENTITY pluginWizard.installPluginsPage.title               "கூடுதல் இணைப்பை நிறுவுகிறது">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; கூடுதல் இணைப்பை நிறுவுகிறது…">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "காணாமல் போன சொருகுபொருள் பற்றி மேலும் தெரிந்துகொள்ளவும்.">
-<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; needs to be restarted for the plugin(s) to work.">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; விடுபட்ட கூடுதல் இணைப்புகளை நிறுவுகிறது:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "கூடுதல் இணைப்பு பற்றி இன்னும் அறிக அல்லது கைமுறையாக விடுபட்ட கூடுதல் இணைப்புகளை தேடவும்.">
+<!ENTITY pluginWizard.finalPage.restart.label                "கூடுதல் இணைப்பு வேலை செய்ய &brandShortName;ஐ மறுதுவக்கம் செய்ய வேண்டும்.">
   
-<!ENTITY missingPlugin.label "Click here to download plugin.">
+<!ENTITY missingPlugin.label                                 "இங்கு சொடுக்கி கூடுதல் இணைப்புகளை பதிவிறக்கும் செய்யவும்.">
+<!ENTITY disabledPlugin.label                                "இந்த உள்ளடக்கத்தின் கூடுதல் இணைப்பு செயல்நீக்கப்பட்டுள்ளது. இங்கு சொடுக்கி உங்கள் கூடுதல் இணைப்புகளை மேலாண்மை செய்யவும்.">
+<!ENTITY blockedPlugin.label                                 "உங்கள் பாதுகாப்புக்காக இந்த கூடுதல் இணைப்பு தடுக்கப்பட்டுள்ளது.">

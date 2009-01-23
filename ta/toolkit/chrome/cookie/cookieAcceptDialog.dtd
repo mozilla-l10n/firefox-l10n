@@ -13,6 +13,6 @@
 <!ENTITY button.deny.label "மறுக்கவும்">
 <!ENTITY button.deny.accesskey "D">
 
-<!ENTITY dialog.title "Confirm setting cookie">
-<!ENTITY dialog.remember.label "Use my choice for all cookies from this site">
+<!ENTITY dialog.title "குக்கீயை அமைப்பதில் உறுதிபடுத்து">
+<!ENTITY dialog.remember.label "இந்த இணைய தளத்தில் என் தேர்வை அனைத்து குக்கீகளுக்கும் பயன்படுத்தவும்">
 <!ENTITY dialog.remember.accesskey "U">

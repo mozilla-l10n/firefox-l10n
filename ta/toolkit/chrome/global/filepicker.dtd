@@ -10,8 +10,8 @@
 <!ENTITY showHiddenFiles.label "மறைக்கப்பட்ட கோப்புகள் மற்றும் அடைவுகளை காட்டு">
 <!ENTITY showHiddenFiles.accesskey "S">
 
-<!ENTITY noPermissionError.label "You do not have the permissions necessary to view this directory.">
+<!ENTITY noPermissionError.label "இந்த அடைவை பார்க்க உங்களுக்கு தேவையான அனுமதிகள் கிடையாது.">
 
-<!ENTITY folderUp.tooltiptext "ஒரு மட்டம் மேலே செல்ல">
+<!ENTITY folderUp.tooltiptext "ஒரு நிலை மேலே செல்ல">
 <!ENTITY folderHome.tooltiptext "இல்ல அடைவுக்கு செல்ல">
 <!ENTITY folderNew.tooltiptext "புதிய அடைவை உருவாக்க">

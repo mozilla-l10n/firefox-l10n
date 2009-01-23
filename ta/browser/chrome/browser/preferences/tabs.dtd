@@ -1,17 +1,14 @@
-<!ENTITY newPagesIn.label "New pages should be opened in:">
-<!ENTITY inNewWindow.label "a new window">
-<!ENTITY inNewWindow.accesskey "w">
-<!ENTITY inNewTab.label "a new tab">
-<!ENTITY inNewTab.accesskey "t">
+<!ENTITY newWindowsAsTabs.label       "ஒரு புதிய தத்தலிற்குப் பதிலாக புதிய சாளரங்களை திறக்கவும்">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label "Warn me when closing multiple tabs">
-<!ENTITY warnCloseMultipleTabs.accesskey "m">
+<!ENTITY warnCloseMultipleTabs.label  "பல தத்தல்களை மூடும் போது எச்சரிக்கவும்">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label "Warn me when opening multiple tabs might slow down &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "o">
+<!ENTITY warnOpenManyTabs.label       "பல தத்தல்களை திறக்கும் போது &brandShortName; மெதுவாகும் போது எச்சரி">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label "Always show the tab bar">
-<!ENTITY showTabBar.accesskey "b">
+<!ENTITY showTabBar.label             "எப்போதும் தத்தல் பட்டையைக் காட்டு">
+<!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label "When I open a link in a new tab, switch to it immediately">
-<!ENTITY switchToNewTabs.accesskey "s">
+<!ENTITY switchToNewTabs.label        "நான் ஒரு இணைப்பை ஒரு புதிய தத்தலில் திறக்கும் போது, உடனே அதற்கு மாறிக்கொள்ளவும்">
+<!ENTITY switchToNewTabs.accesskey    "s">

@@ -1,64 +1,68 @@
-<!ENTITY fontsDialog.title "எழுத்துருக்கள்">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
+<!ENTITY  fontsDialog.title                       "எழுத்துருக்கள்">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY language.label "இதற்கான எழுத்துரு:">
-<!ENTITY language.accesskey "F">
+<!ENTITY  language.label                          "எழுத்துருக்கள்:">
+<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY size.label "அளவு:">
-<!ENTITY sizeProportional.accesskey "z">
-<!ENTITY sizeMonospace.accesskey "e">
+<!ENTITY  size.label                              "அளவு:">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY proportional.label "விகிதம்:">
-<!ENTITY proportional.accesskey "P">
+<!ENTITY  proportional.label                      "விகிதப்படி:">
+<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "Sans-serif:">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Monospace:">
-<!ENTITY monospace.accesskey "M">
+<!ENTITY  serif.label                             "ஷெரிஃப்:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "ஸான்ஸ்-ஷெரிஃப்:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "மோனோஸ்பேஸ்:">
+<!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY font.langGroup.latin1 "மேற்கிலுள்ள">
-<!ENTITY font.langGroup.latin2 "Central European">
-<!ENTITY font.langGroup.japanese "Japanese">
-<!ENTITY font.langGroup.trad-chinese "Traditional Chinese (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese "Simplified Chinese">
-<!ENTITY font.langGroup.trad-chinese-hk "Traditional Chinese (Hong Kong)">
-<!ENTITY font.langGroup.korean "Korean">
-<!ENTITY font.langGroup.cyrillic "Cyrillic">
-<!ENTITY font.langGroup.baltic "Baltic">
-<!ENTITY font.langGroup.el "Greek">
-<!ENTITY font.langGroup.turkish "Turkish">
-<!ENTITY font.langGroup.unicode "Unicode">
-<!ENTITY font.langGroup.user-def "User Defined">
-<!ENTITY font.langGroup.thai "Thai">
-<!ENTITY font.langGroup.hebrew "Hebrew">
-<!ENTITY font.langGroup.arabic "Arabic">
-<!ENTITY font.langGroup.devanagari "Devanagari">
-<!ENTITY font.langGroup.tamil "Tamil">
-<!ENTITY font.langGroup.armenian "Armenian">
-<!ENTITY font.langGroup.bengali "Bengali">
-<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
-<!ENTITY font.langGroup.ethiopic "Ethiopic">
-<!ENTITY font.langGroup.georgian "Georgian">
-<!ENTITY font.langGroup.gujarati "Gujarati">
-<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
-<!ENTITY font.langGroup.khmer "Khmer">
-<!ENTITY font.langGroup.malayalam "Malayalam">
+<!ENTITY  font.langGroup.latin1                   "மேற்கத்திய">
+<!ENTITY  font.langGroup.latin2                   "மத்திய ஐரோப்பா">
+<!ENTITY  font.langGroup.japanese                 "ஜப்பானிஸ்">
+<!ENTITY  font.langGroup.trad-chinese             "மரபார்ந்த சீனம் (தைவான்)">
+<!ENTITY  font.langGroup.simpl-chinese            "எளிய சீனம்">
+<!ENTITY  font.langGroup.trad-chinese-hk          "மரபார்ந்த சீனா (ஹாங்காங்)">
+<!ENTITY  font.langGroup.korean                   "கொரியன்">
+<!ENTITY  font.langGroup.cyrillic                 "சைரிலிக்">
+<!ENTITY  font.langGroup.baltic                   "பால்டிக்">
+<!ENTITY  font.langGroup.el                       "கிரேக்கம்">
+<!ENTITY  font.langGroup.turkish                  "டர்கிஷ்">
+<!ENTITY  font.langGroup.unicode                  "மற்ற மொழிகள்">
+<!ENTITY  font.langGroup.user-def                 "பயனர் குறிப்பீடு">
+<!ENTITY  font.langGroup.thai                     "தாய்">
+<!ENTITY  font.langGroup.hebrew                   "எபிரேயம்">
+<!ENTITY  font.langGroup.arabic                   "அராபிக்">
+<!ENTITY  font.langGroup.devanagari               "தேவநாகரி">
+<!ENTITY  font.langGroup.tamil                    "தமிழ்">
+<!ENTITY  font.langGroup.armenian                 "அர்மேனியன்">
+<!ENTITY  font.langGroup.bengali                  "பெங்காலி">
+<!ENTITY  font.langGroup.canadian                 "கன்னடியன்">
+<!ENTITY  font.langGroup.ethiopic                 "எத்தியோபிக்">
+<!ENTITY  font.langGroup.georgian                 "ஜார்ஜியன்">
+<!ENTITY  font.langGroup.gujarati                 "குஜராத்தி">
+<!ENTITY  font.langGroup.gurmukhi                 "குர்முஹி">
+<!ENTITY  font.langGroup.khmer                    "கெமெர்">
+<!ENTITY  font.langGroup.malayalam                "மலையாளம்">
+<!ENTITY  font.langGroup.oriya                    "ஒரியா">
+<!ENTITY  font.langGroup.telugu                   "தெலுங்கு">
+<!ENTITY  font.langGroup.kannada                  "கன்னடம்">
+<!ENTITY  font.langGroup.sinhala                  "சிங்களம்">
 <!-- Minimum font size -->
-<!ENTITY minSize.label "Minimum font size:">
-<!ENTITY minSize.accesskey "z">
-<!ENTITY minSize.none "எதுவுமில்லை">
+<!ENTITY minSize.label                            "குறைந்தபட்ச எழுத்துருவின் அளவு:">
+<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.none                             "ஒன்றுமில்லை">
+
 <!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "ஷெரிஃப்">
+<!ENTITY  useDefaultFontSansSerif.label           "ஸான்ஸ் ஷெரிஃப்">
 
-<!ENTITY useDefaultFontSerif.label "Serif">
-<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!ENTITY  allowPagesToUse.label                   "என் தேர்வுகளுக்குப் பதிலாக பக்கங்களை அதன் சொந்த எழுத்துருக்களை தேர்வு செய்ய அனுமதிக்கவும்">
+<!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY allowPagesToUse.label "Allow pages to choose their own fonts, instead of my selections above">
-<!ENTITY allowPagesToUse.accesskey "A">
-
-<!ENTITY languages.customize.Charset.grouplabel "Character Encoding">
-<!ENTITY languages.customize.DefaultCharset.label "Default Character Encoding:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "C">
+<!ENTITY languages.customize.Charset.grouplabel         "எழுத்து குறிமுறை">
+<!ENTITY languages.customize.DefaultCharset.label       "முன்னிருப்பு எழுத்து குறிமுறை:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "C">

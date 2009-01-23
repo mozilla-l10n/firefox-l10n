@@ -1,67 +1,81 @@
-<!ENTITY updateWizard.title "&brandShortName; மேம்படுத்டுஹ்">
+<!ENTITY  updateWizard.title              "மென்பொருள் மேம்படுத்தல்">
 
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
 
-<!ENTITY checking.title "மேம்படுத்தலுக்கு சோதிக்கிறது">
-<!ENTITY checking.label "&brandShortName; is now checking for updates...">
+<!ENTITY  checking.title                  "மேம்படுத்தலுக்கு சரிபார்க்கிறது">
+<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
 
-<!ENTITY cancel.label "விடு">
-<!ENTITY cancel.accesskey "C">
+<!ENTITY  noupdatesfound.title            "மேம்படுத்தல்கள் காணப்படவில்லை">
+<!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
+                                           periodically for updates.">
+<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
+                                           &brandShortName;'s automatic update checking.">
 
-<!ENTITY noupdatesfound.title "No Updates Found">
-<!ENTITY noupdatesfound.intro "There are no new updates available. &brandShortName; may check periodically for new updates.">
+<!ENTITY  manualUpdate.title              "மேம்படுத்த முடியவில்லை">
+<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
+                                           not have the system permissions required to install it. Please contact your
+                                           system administrator, or try again from an account that has permission to
+                                           install software on this computer.">
+<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
 
-<!ENTITY incompatibleChecking.label "Checking if this update will cause problems with your extensions and/or themes...">
-<!ENTITY clickHere.label "View more information about this update">
+<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
+<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
 
-<!ENTITY incompatible.warning "This update will cause some of your extensions and/or themes to stop working until they are updated.">
-<!ENTITY listIncompatible.label "Show List">
-<!ENTITY listIncompatible.accesskey "L">
+<!ENTITY  clickHere.label                 "View more information about this update">
 
-<!ENTITY upgrade.evangelism "It is strongly recommended that you upgrade &brandShortName; as soon as possible.">
+<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
+                                           update for &brandShortName; as soon as possible.">
 
-<!ENTITY license.instructions "If you agree to the terms of this agreement, click I Agree below to continue installing this update.">
+<!ENTITY  license.instructions            "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
 
-<!ENTITY license.titleText "Software License Agreement">
-<!ENTITY license.introText "Terms and conditions for using this software.">
-<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
-<!ENTITY license.accept "I accept the terms of the License Agreement">
-<!ENTITY license.accept.accesskey "c">
-<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
-<!ENTITY license.decline.accesskey "T">
+<!ENTITY  license.titleText               "Software License Agreement">
+<!ENTITY  license.introText               "Terms and conditions for using this software.">
+<!ENTITY  license.instructionText         "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
+<!ENTITY  license.accept                  "I accept the terms of the License Agreement">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "I do NOT accept the terms of the License Agreement">
+<!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY downloading.title "Downloading Update">
-<!ENTITY downloading.intro "Downloading the update...">
-<!ENTITY connecting.label "Connecting to the update server...">
-<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the incremental update it downloaded, so it is now downloading the complete update package.">
+<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
 
-<!ENTITY details.link "விவரம்கள்">
-<!ENTITY pause.label "Pause">
-<!ENTITY pause.accesskey "e">
-<!ENTITY close.label "மூடு">
-<!ENTITY close.accesskey "C">
+<!ENTITY  downloading.title               "மேம்படுத்தலை பதிவிறக்குகிறது">
+<!ENTITY  downloading.intro               "மேம்படுத்தலை பதிவிறக்குகிறது…">
+<!ENTITY  connecting.label                "சேவையகத்தை மேம்படுத்த இணைக்கிறது…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; was unable to verify the integrity of the 
+                                           incremental update it downloaded, so it is now downloading
+                                           the complete update package.">
 
-<!ENTITY error.label "There were problems checking for, downloading or installing this update. &brandShortName; could not be updated because:">
+<!ENTITY  viewDetails.tooltip             "இந்த மேம்படுத்தலுக்கான விவரங்கள்">
+
+<!ENTITY  details.link                    "விவரங்கள்">
+
+<!ENTITY  error.label                     "There were problems checking for, downloading, or installing this 
+                                           update. &brandShortName; could not be updated because:">
                                            
-<!ENTITY errorManual.label "You can update &brandShortName; manually by visiting this link and downloading the latest version:">
+<!ENTITY  errorManual.label               "You can update &brandShortName; manually by visiting this link
+                                           and downloading the latest version:">
                                            
-<!ENTITY errorpatching.title "Update Failed">
-<!ENTITY errorpatching.intro "The partial Update could not be applied. &brandShortName; will try again by downloading a complete Update.">
+<!ENTITY  errorpatching.title             "மேம்படுத்தல் செயலிழக்கப்பட்டது">
+<!ENTITY  errorpatching.intro             "The partial Update could not be applied. 
+                                           &brandShortName; will try again by downloading a complete Update.">
 
-<!ENTITY finished.title "Update Complete">
-<!ENTITY finished.text "The update was successfully downloaded and verified, and it will be installed the next time &brandShortName; starts.">
+<!ENTITY  finishedPage.title              "Update Ready to Install">
+<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY finishedBackground.title "Update Ready to Install">
-<!ENTITY finishedBackground.text "&brandShortName; has downloaded and verified an important update. Click the link below for more details.">
-<!ENTITY finishedBackground.name "Update:">
-<!ENTITY finishedBackground.more1 "Click Restart &brandShortName; Now to install the update now.">
-<!ENTITY finishedBackground.more2 "Click Later to close this dialog and continue working. &brandShortName; will install the update the next time it starts.">
+<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
+<!ENTITY  finishedBackground.name         "Update:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY installed.title "Update Installed">
-<!ENTITY installed.intro "The update was successfully installed.">
-<!ENTITY whatsnew.label "Read more about what's new...">
+<!ENTITY  installed.title                 "நிறுவப்பட்டதை மேம்படுத்து">
+<!ENTITY  installed.intro                 "மேம்படுத்தல் வெற்றிகரமாக நிறுவப்பட்டது.">
+<!ENTITY  whatsnew.label                  "எது புதியது என்பது பற்றி வாசிக்கவும்…">
 
-<!ENTITY update.details.label "விவரம்கள்">
-<!ENTITY update.installedOn.label "Installed on:">
-<!ENTITY update.status.label "நிலைமை:">
+<!ENTITY  update.details.label            "விவரங்கள்">
+<!ENTITY  update.installedOn.label        "நிறுவப்பட்ட நாள்:">
+<!ENTITY  update.status.label             "நிலை:">

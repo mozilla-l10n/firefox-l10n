@@ -1,9 +1,9 @@
-<!ENTITY setPassword.title "Change Master Password">
+<!ENTITY setPassword.title "முதன்மை கடவுச்சொல்லை மாற்று">
 <!ENTITY setPassword.tokenName.label "பாதுகாப்பு சாதனம்">
-<!ENTITY setPassword.oldPassword.label "Current password:">
-<!ENTITY setPassword.newPassword.label "Enter new password:">
-<!ENTITY setPassword.reenterPassword.label "Re-enter password:">
-<!ENTITY setPassword.meter.label "Password quality meter">
-<!ENTITY setPassword.meter.loading "Loading">
-<!ENTITY masterPasswordDescription.label "A Master Password is used to protect sensitive information like site passwords.  If you create a Master Password you will be asked to enter it once per session when &brandShortName; retrieves saved information protected by the password.">
-<!ENTITY masterPasswordWarning.label "Please make sure you remember the Master Password you have set.  If you forget your Master Password, you will be unable to access any of the information protected by it.">
+<!ENTITY setPassword.oldPassword.label "நடப்பு கடவுச்சொல்:">
+<!ENTITY setPassword.newPassword.label "புதிய கடவுச்சொல்லை உள்ளிடு:">
+<!ENTITY setPassword.reenterPassword.label "மீண்டும் கடவுச்சொல்லை உள்ளிடு:">
+<!ENTITY setPassword.meter.label "கடவுச்சொல் தர மீட்டர்">
+<!ENTITY setPassword.meter.loading "ஏற்றுகிறது">
+<!ENTITY masterPasswordDescription.label "ஒரு முதன்மை கடவுச்சொல் முக்கியமான தகவவல்களான இணையதள முகவரிகள் போன்றவற்றை பாதுகாக்க பயன்படுத்தப்படுகிறது. நீங்கள் ஒரு முதன்மை கடவுச்சொல்லை உருவாக்கினால், ஒவ்வொரு அமர்வைத் திறக்கும்போது &brandShortName; சேமிக்கப்பட்ட தகவலை பாதுகாக்க எடுக்கும் போதும் உள்ளிட வேண்டும்.">
+<!ENTITY masterPasswordWarning.label "நீங்கள் அமைத்த முதன்மை கடவுச்சொல்லை நினைவில் கொள்ள வேண்டும். அதனை மறந்து போனால் நீங்கள் பாதுகாத்த தகவல்களை அணுக முடியாமல் போகும்.">

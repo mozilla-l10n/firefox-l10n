@@ -15,8 +15,8 @@
 <!ENTITY intro.attachment.label " வலைமனை  &quot;#3&quot; இணைப்புகோப்பாக செயல்பட வேண்டும் என வலியுறுத்துகிறது. இதன் வகை #2 (#1) இது இருக்குமிடம்:">
 <!ENTITY intro.attachment.noDesc.label "வலைமனை &quot;#3&quot;  இணைப்புகோப்பாக செயல்பட வேண்டும் என வலியுறுத்துகிறது. இதன் வகை #2 மற்றும் இருக்கும் இடம்:">
 
-<!ENTITY intro.sniffed.label "#4 has detected that the file &quot;#3&quot; is likely to be of type #2 (#1). The file is located at:">
-<!ENTITY intro.sniffed.noDesc.label "#4 has detected that the file &quot;#3&quot; is likely to be of type #2. The file is located at:">
+<!ENTITY intro.sniffed.label "#4 &quot;#3&quot; கோப்பு வகை #2 (#1)இல் கண்டறிகிறது. கோப்பு இங்குள்ளது:">
+<!ENTITY intro.sniffed.noDesc.label "#4 &quot;#3&quot; கோப்பினை வகை #2இல் கண்டறிகிறது. கோப்பு இங்குள்ளது:">
 
 <!ENTITY prompt.label "இந்த கோப்பை #1 என்ன செய்வது?">
 

@@ -1,52 +1,59 @@
-<!ENTITY history.label "வரலாறு">
+<!ENTITY  history.label                 "வரலாறு">
+
+<!ENTITY  locbar.pre.label              "இடப் பட்டையைப் பயன்படுத்தும் போது:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "வரலாறு மற்றும் புத்தகக்குறிகள்">
+<!ENTITY  locbar.history.label          "வரலாறு">
+<!ENTITY  locbar.bookmarks.label        "புத்தகக்குறிகள்">
+<!ENTITY  locbar.nothing.label          "ஒன்றுமில்லை">
+
 <!-- LOCALIZATION NOTE:
-  The entities rememberBefore.label and rememberAfter.label appear on a single
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
 
-  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-
-<!ENTITY  rememberDaysBefore.label      "Keep my history for at least">
+<!ENTITY  rememberDaysBefore.label      "குறைந்தது என் வரலாற்றை வைத்திரு">
 <!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter.label       "days.">
+<!ENTITY  rememberDaysAfter2.label      "நாட்கள்">
 
-<!ENTITY rememberForms.label "Remember what I enter in forms and the search bar">
-<!ENTITY rememberForms.accesskey "f">
+<!ENTITY  rememberForms.label           "நான் படிவங்களில் மற்றும் தேடும் பட்டையில் உள்ளிடும்போது நினைவுப்படுத்து">
+<!ENTITY  rememberForms.accesskey       "f">
 
-<!ENTITY rememberDownloads.label "Remember what I've downloaded">
-<!ENTITY rememberDownloads.accesskey "d">
-
-
-<!ENTITY cookies.label "Cookies">
-
-<!ENTITY acceptCookies.label "Accept cookies from sites">
-<!ENTITY acceptCookies.accesskey "c">
-
-<!ENTITY keepUntil.label "Keep until:">
-<!ENTITY keepUntil.accesskey "K">
-
-<!ENTITY expire.label "they expire">
-<!ENTITY close.label "I close &brandShortName;">
-<!ENTITY askEachTime.label "ask me every time">
-
-<!ENTITY cookieExceptions.label "விதிவிலக்குகள்...">
-<!ENTITY cookieExceptions.accesskey "X">
-
-<!ENTITY showCookies.label "Show Cookies...">
-<!ENTITY showCookies.accesskey "S">
+<!ENTITY  rememberDownloads.label       "நான் பதிவிறக்கியதை நினைவுப்படுத்து">
+<!ENTITY  rememberDownloads.accesskey   "d">
 
 
-<!ENTITY privateData.label "Private Data">
+<!ENTITY  cookies.label                 "குக்கீகள்">
 
-<!ENTITY alwaysClear.label "Always clear my private data when I close &brandShortName;">
-<!ENTITY alwaysClear.accesskey "w">
+<!ENTITY  acceptCookies.label           "தளங்களிலிருந்து குக்கீகளை ஏற்கவும்">
+<!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY askBeforeClear.label "Ask me before clearing private data">
-<!ENTITY askBeforeClear.accesskey "A">
+<!ENTITY  acceptThirdParty.label        "மூன்றாம் நபர் குக்கீகளை ஏற்கவும்">
+<!ENTITY  acceptThirdParty.accesskey    "p">
 
-<!ENTITY clearDataSettings.label "அமைப்புகள்...">
-<!ENTITY clearDataSettings.accesskey "t">
+<!ENTITY  keepUntil.label               "அதுவரை வைத்திரு:">
+<!ENTITY  keepUntil.accesskey           "K">
 
-<!ENTITY clearDataNow.label "Clear Now...">
-<!ENTITY clearDataNow.label2 "Clear Now">
-<!ENTITY clearDataNow.accesskey "N">
+<!ENTITY  expire.label                  "அவை காலாவதியாகிவிட்டது">
+<!ENTITY  close.label                   "நான் &brandShortName;ஐ மூடுகிறேன்">
+<!ENTITY  askEachTime.label             "ஒவ்வொரு முறையும் என்னை கேள்">
+
+<!ENTITY  cookieExceptions.label        "விதிவிலக்குகள்…">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "குக்கீகளை காட்டு…">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "தனிப்பட்ட தரவு">
+
+<!ENTITY  alwaysClear.label              "நான் &brandShortName;ஐ மூடும் போது தனிப்பட்ட தரவை எப்போதும் துடை">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  clearDataSettings.label        "அமைவுகள்…">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "இப்போது துடை…">
+<!ENTITY  clearDataNow.accesskey         "N">

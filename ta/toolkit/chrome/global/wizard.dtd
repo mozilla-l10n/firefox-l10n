@@ -1,8 +1,8 @@
-<!ENTITY button-back-mac.label "Go Back">
+<!ENTITY button-back-mac.label "பின்னால் செல்">
 <!ENTITY button-back-mac.accesskey "B">
 <!ENTITY button-next-mac.label "தொடர்">
 <!ENTITY button-next-mac.accesskey "C">
-<!ENTITY button-finish-mac.label "Done">
+<!ENTITY button-finish-mac.label "முடிந்தது">
 <!ENTITY button-cancel-mac.label "விடு">
 
 <!ENTITY button-back-unix.label "முந்தைய">
@@ -12,7 +12,7 @@
 <!ENTITY button-finish-unix.label "முடி">
 <!ENTITY button-cancel-unix.label "விடு">
 
-<!ENTITY button-back-win.label "&lt; Back">
+<!ENTITY button-back-win.label "&lt; பின்னல்">
 <!ENTITY button-back-win.accesskey "B">
 <!ENTITY button-next-win.label "அடுத்து &gt;">
 <!ENTITY button-next-win.accesskey "N">

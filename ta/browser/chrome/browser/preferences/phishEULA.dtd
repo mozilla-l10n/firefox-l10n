@@ -1,4 +1,4 @@
-<!ENTITY phishDlg.title "Phishing Protection Terms of Service">
+<!ENTITY phishDlg.title "ஃபியூஷிங் பாதுகாப்பு சேவை விதிமுறை">
 <!-- LOCALIZATION NOTE:
      The following entities contain sizing information for the phishing privacy
      agreement dialog, which is opened when you select the "Check by asking"
@@ -10,8 +10,8 @@
 <!ENTITY phishDlg.height "40em">
 <!ENTITY phishDlg.width "35em">
 
-<!ENTITY acceptToS.label "I accept these Phishing Protection terms of service">
-<!ENTITY declineToS.label "I do NOT accept these Phishing Protection terms of service">
+<!ENTITY acceptToS.label "நான் ஃபியூஷிங் பாதுகாப்பு சேவை விதிமுறைகளை ஏற்கிறேன்">
+<!ENTITY declineToS.label "நான் ஃபியூஷிங் பாதுகாப்பு சேவை விதிமுறைகளை ஏற்கவில்லை">
 
-<!ENTITY accept.label "Accept and Continue">
+<!ENTITY accept.label "ஏற்று தொடரவும்">
 <!ENTITY cancel.label "விடு">

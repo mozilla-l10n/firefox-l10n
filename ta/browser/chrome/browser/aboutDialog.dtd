@@ -1,7 +1,13 @@
-<!ENTITY aboutDialog.title "அறிமுகம் &brandFullName;">
-<!ENTITY copyright "நன்றி">
-<!ENTITY copyright.accesskey "C">
-<!ENTITY aboutLink "&lt; அறிமுகம் &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
-<!ENTITY aboutVersion "பதிப்பு">
-<!ENTITY copyrightText "&#169;1998-2005 பங்களித்தவர்கள். உரிமம் பாதுகாக்கப்படுகிறது. Firefox மற்றும் Firefox மொசில்லா அறக்கட்டளையின் வர்த்தக உரிமம் பெற்றது சில வர்த்தக உரிமங்கள் சார்ல்டன் நிறுவனத்தின் கீழ் உள்ளது.">
+<!ENTITY aboutDialog.title          "&brandFullName; பற்றி">
+<!ENTITY copyright                  "நன்றி">
+<!ENTITY copyright.accesskey        "C">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY aboutLink                  "&lt; &brandFullName; பற்றி">
+<!ENTITY aboutLink.accesskey        "A">
+<!ENTITY aboutVersion               "பதிப்பு">
+<!ENTITY closeCmdGNOME.label        "மூடு">  
+<!ENTITY closeCmdGNOME.accesskey    "C">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 உதவியவர்கள். அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டது. (">
+<!ENTITY licenseLink                "உரிமம்:பற்றி">
+<!ENTITY licenseLinkText            "உரிம விவரம்">
+<!ENTITY copyrightInfo2             ").">

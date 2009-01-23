@@ -21,7 +21,7 @@
    - Contributor(s):
    -  Samir Gehani <sgehani@netscape.com> (Original Author)
    -   R Veera Kumar       <veerakumar.r@gmail.com>       ( Tamil Translator )
-   -
+   -   I. Felix <ifelix25@gmail.com>       ( Tamil Translator )
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -68,7 +68,7 @@
 <!ENTITY ShrinkToFit.label "பொருந்தும்படி சுருக்கு">
 <!ENTITY customPrompt.title "தனிப்பயன் அளவு மாற்றம்...">
 
-<!ENTITY homearrow.tooltip "First page">
-<!ENTITY endarrow.tooltip "Last page">
-<!ENTITY rightarrow.tooltip "Next page">
-<!ENTITY leftarrow.tooltip "Previous page">
+<!ENTITY homearrow.tooltip "முதல் பக்கம்">
+<!ENTITY endarrow.tooltip "கடைசி பக்கம்">
+<!ENTITY rightarrow.tooltip "அடுத்த பக்கம்">
+<!ENTITY leftarrow.tooltip "முந்தைய பக்கம்">

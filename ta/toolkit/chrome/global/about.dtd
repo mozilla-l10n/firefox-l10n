@@ -1,19 +1,19 @@
-<!ENTITY about.version                "version">
+<!ENTITY about.version                "பதிப்பு">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2007 by">
-<!ENTITY about.copy.linkTitle         "contributors">
-<!ENTITY about.copy.afterLink         "to the Mozilla Project.">
+<!ENTITY about.copy.beforeLink        "காப்புரிமை &copy; 1998-2007">
+<!ENTITY about.copy.linkTitle         "உதவியவர்கள்">
+<!ENTITY about.copy.afterLink         "Mozilla திட்டதிற்கு.">
 
-<!ENTITY about.license.beforeLink     "Read the">
-<!ENTITY about.license.linkTitle      "licensing information">
-<!ENTITY about.license.afterLink      "for this product.">
+<!ENTITY about.license.beforeLink     "இந்த மென்பொருளுக்கான">
+<!ENTITY about.license.linkTitle      "உரிம தகவலை">
+<!ENTITY about.license.afterLink      "இங்கு வாசிக்கவும்.">
 
-<!ENTITY about.relnotes.beforeLink    "Read the">
-<!ENTITY about.relnotes.linkTitle     "release notes">
-<!ENTITY about.relnotes.afterLink     "for this version.">
+<!ENTITY about.relnotes.beforeLink    "இந்த பதிப்பின்">
+<!ENTITY about.relnotes.linkTitle     "வெளியீட்டு அறிக்கையை">
+<!ENTITY about.relnotes.afterLink     "வாசிக்கவும்.">
 
-<!ENTITY about.buildconfig.beforeLink "See the">
-<!ENTITY about.buildconfig.linkTitle  "build configuration">
-<!ENTITY about.buildconfig.afterLink  "used for this version.">
+<!ENTITY about.buildconfig.beforeLink "இந்த பதிப்பிற்கு பயன்படுத்தப்படும்">
+<!ENTITY about.buildconfig.linkTitle  "உருவாக்கும் கட்டமைப்பை">
+<!ENTITY about.buildconfig.afterLink  "பார்க்கவும்.">
 
-<!ENTITY about.buildIdentifier        "Build identifier: ">
+<!ENTITY about.buildIdentifier        "உருவாக்கி அடையாளப்படுத்தி: ">

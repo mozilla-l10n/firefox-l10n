@@ -21,7 +21,7 @@
    - Contributor(s):
    -   Ian McGreer <mcgreer@netscape.com>
    -   R Veera Kumar       <veerakumar.r@gmail.com>       ( Tamil Translator )
-   -
+   -   I. Felix <ifelix25@gmail.com>       ( Tamil Translator )
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,35 +37,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Device Manager">
+<!ENTITY devmgr.title "சாதன மேலாளர்">
 
-<!ENTITY devmgr.devlist.label "Security Modules and Devices">
-<!ENTITY devmgr.details.title "விவரம்கள்">
-<!ENTITY devmgr.details.title2 "Value">
-<!ENTITY devmgr.status.label "நிலைமை">
-<!ENTITY devmgr.version.label "Version">
+<!ENTITY devmgr.devlist.label "பாதுகாப்பு பகுதிகள் மற்றும் சாதனங்கள்">
+<!ENTITY devmgr.details.title "விளக்கங்கள்">
+<!ENTITY devmgr.details.title2 "மதிப்பு">
+<!ENTITY devmgr.status.label "நிலை">
+<!ENTITY devmgr.version.label "பதிப்பு">
 
-<!ENTITY devmgr.button.changeslotname.label "Change Slot Name">
+<!ENTITY devmgr.button.changeslotname.label "ஸ்லாட் பெயரை மாற்று">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label "Log In">
+<!ENTITY devmgr.button.login.label "உள் செல்">
 <!ENTITY devmgr.button.login.accesskey "n">
-<!ENTITY devmgr.button.logout.label "Log Out">
+<!ENTITY devmgr.button.logout.label "வெளியேறு">
 <!ENTITY devmgr.button.logout.accesskey "O">
-<!ENTITY devmgr.button.changepw.label "Change Password">
+<!ENTITY devmgr.button.changepw.label "கடவுச்சொல்லை மாற்று">
 <!ENTITY devmgr.button.changepw.accesskey "P">
-<!ENTITY devmgr.button.load.label "Load">
+<!ENTITY devmgr.button.load.label "ஏற்று">
 <!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "Unload">
+<!ENTITY devmgr.button.unload.label "இறக்கு">
 <!ENTITY devmgr.button.unload.accesskey "U">
 <!ENTITY devmgr.button.fips.accesskey "F">
 
-<!ENTITY loaddevice.info "Enter the information for the module you want to add.">
-<!ENTITY loaddevice.modname "Module Name:">
+<!ENTITY loaddevice.info "சேர்க்க விரும்பும் பகுதி பற்றிய தகவலை உள்ளிடவும்.">
+<!ENTITY loaddevice.modname "பகுதி பெயர்:">
 <!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "New PKCS#11 Module">
-<!ENTITY loaddevice.filename "Module filename:">
+<!ENTITY loaddevice.modname.default "புதிய PKCS#11 பகுதி">
+<!ENTITY loaddevice.filename "பகுதி கோப்பு பெயர்:">
 <!ENTITY loaddevice.filename.accesskey "f">
 <!ENTITY loaddevice.browse "உலாவு...">
 <!ENTITY loaddevice.browse.accesskey "B">
 
-<!ENTITY loaddevice.title "Load PKCS#11 Device">
+<!ENTITY loaddevice.title "PKCS#11 சாதனத்தை ஏற்று">

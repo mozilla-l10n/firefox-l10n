@@ -6,7 +6,7 @@
 <!ENTITY icons.label "சின்னங்கள்">
 <!ENTITY text.label "உரை">
 <!ENTITY useSmallIcons.label "சிறிய சின்னங்களை பயன்படுத்து">
-<!ENTITY restoreDefaultSet.label "Restore Default Set">
+<!ENTITY restoreDefaultSet.label "முன்னிருப்பு அமை மறுசேமி">
 <!ENTITY addNewToolbar.label "புதிய கருவிப்பட்டியை சேர்">
 <!ENTITY saveChanges.label "முடிந்தது">
 <!ENTITY undoChanges.label "மாற்றங்களை ரத்து செய்">

@@ -15,22 +15,22 @@
 <!ENTITY fileNotFound.title "கோப்பை காணவில்லை">
 <!ENTITY fileNotFound.longDesc "வலைமனை முகவரி குறிப்பிட்ட கோப்பை காணவில்லை (URL). இந்த கோப்பு உள்ளதா எனவும் கோப்பை அணுக போதிய அனுமதி உள்ளதா எனவும் பார்க்கவும்.">
 
-<!ENTITY generic.title "Cannot Complete Request">
+<!ENTITY generic.title "கோரிக்கையை முடிக்க முடியவில்லை">
 <!ENTITY generic.longDesc "பக்கத்தை ஏற்ற முடியவில்லை காரணம் பக்கம் இல்லை அல்லது குறிப்பிட்ட இடம் தவறு.<br/>வலைமனை முகவரி (URL) தவறான வடிவில் உள்ளது.">
 
 <!ENTITY malformedURI.title "செல்லாத முகவரி பிழை">
 <!ENTITY malformedURI.longDesc "வலைமனை முகவரி (URL) செல்லாதவடிவில் உள்ளதால் படிக்க முடியவில்லை. முகவரி &quot;http://&quot;,  என துவங்க வேண்டும் பின் (e.g. www.netscape.com), பாதையை உள்ளிட வேண்டும் (or just &quot;/&quot;). பொதுவாக முன் சாய்கோடிற்கு பதிலாக(/) முன் சாய்கோட்டை பயன்படுத்துவதே (\) இதற்கு காரணம்.">
 
-<!ENTITY netInterrupt.title "Data Transfer Interrupted">
+<!ENTITY netInterrupt.title "தரவு பரிமாற்ற தடங்கல்">
 <!ENTITY netInterrupt.longDesc "[p]The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.[/p][ul][li]Are you unable to browse other sites? Check the computer's network connection.[/li][li]Still having trouble? Consult your network administrator or Internet provider for assistance.[/li][/ul]">
 
 <!ENTITY netOffline.title "இணையத்தில் இல்லை பிழை">
 <!ENTITY netOffline.longDesc "உலாவி தற்போது இணையத்தொடர்பில் இல்லை. கேட்ட இணைய பக்கத்துடன் இணைக்க முடியவில்லை. மீண்டும் முயற்சி செய்வதற்கு முன் உங்கள் உலாவியை இணையத்தொடர்புடன் இணைகவும்.">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "உள்ளடக்க குறிமுறை பிழை">
 <!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.title "பாதுகாப்பில்லாத கோப்பு வகை">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Please contact the website owners to inform them of this problem.</li>

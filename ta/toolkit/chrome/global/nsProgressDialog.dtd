@@ -22,7 +22,7 @@
    -   Bill Law       <law@netscape.com>
    -   Aaron Kaluszka <ask@swva.net>
    -   R Veera Kumar       <veerakumar.r@gmail.com>       ( Tamil Translator )
-   -
+   -   I. Felix <ifelix25@gmail.com>       ( Tamil Translator )
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -46,12 +46,12 @@
 <!ENTITY defaultTitle "சேமிக்கிறது">
 <!-- These are used when saving -->
 
-<!ENTITY savingTitle "#2&#037; of #1 சேமிக்கப்பட்டது">
+<!ENTITY savingTitle "#1 இல் #2&#037; சேமிக்கப்பட்டது">
 <!ENTITY savingSource "இதிலிருந்து சேமிக்கிறது:">
 <!ENTITY savingTarget "இதில்:">
 <!-- These are used when opening (with an application) -->
 
-<!ENTITY openingTitle "#2&#037; of #1 முடிந்தது">
+<!ENTITY openingTitle "#1 இல் #2&#037; முடிந்தது">
 <!ENTITY openingSource "இதிலிருந்து திறக்கிறது:">
 <!ENTITY openingTarget "உடன்:">
 <!-- This is used when the download percentage is unknown -->
