@@ -123,7 +123,7 @@
 <!ENTITY getThemes.label                  "گرفتن تم جدید">
 <!ENTITY getPlugins.label                 "دریافت متصل‌شونده‌ها">
 
-<!ENTITY searchAddons.label               "جستجوی تمام افزودنی‌ها">
+<!ENTITY searchAddons.label               "جستجو در تمام افزودنی‌ها">
 <!ENTITY browseAddons.label               "مرور تمام افزودنی‌ها">
 <!ENTITY searchFailed.label               "&brandShortName; موفق به دریافت افزودنی‌ها نشد">
 <!ENTITY recommendedHeader.label          "پیشنهاد شده">
