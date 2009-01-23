@@ -1,17 +1,18 @@
 <!ENTITY sanitizePrefs.title "Изчистване на лични данни">
-<!ENTITY sanitizeDialog2.title "Изчистване на последната история">
+<!ENTITY sanitizeDialog2.title "Изчистване на историята">
 
 <!ENTITY sanitizeItems.label "Ще бъдат изтрити:">
-<!ENTITY clearDataSettings2.label "При излизане от &brandShortName; автоматично да се изчистват всички:">
+<!ENTITY clearDataSettings2.label "При излизане от &brandShortName; автоматично изчистване на:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 
 <!ENTITY clearDuration.label "Премахване">
+<!ENTITY clearDuration.accesskey "П">
 <!ENTITY clearDuration.lastHour "последния час">
 <!ENTITY clearDuration.last2Hours "последните 2 часа">
 <!ENTITY clearDuration.last4Hours "последните 4 часа">
-<!ENTITY clearDuration.today "историята ми днес">
-<!ENTITY clearDuration.everything "цялата ми история">
+<!ENTITY clearDuration.today "днес">
+<!ENTITY clearDuration.everything "цялата история">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearDuration.suffix "">
@@ -27,14 +28,14 @@ that require it.  -->
 <!ENTITY itemPasswords.accesskey "П">
 <!ENTITY itemCookies.label "Бисквитки">
 <!ENTITY itemCookies.accesskey "Б">
-<!ENTITY itemWebCache.label "Уеб кеш">
-<!ENTITY itemWebCache.accesskey "У">
+<!ENTITY itemWebCache.label "Кеш">
+<!ENTITY itemWebCache.accesskey "К">
 <!ENTITY itemOfflineApps.label "Данни за сайтове">
 <!ENTITY itemOfflineApps.accesskey "Д">
 <!ENTITY itemDownloadList.label "Списък на изтеглянията">
 <!ENTITY itemDownloadList.accesskey "С">
-<!ENTITY itemActiveLogins.label "Активни влизания (login) в сайтове">
-<!ENTITY itemActiveLogins.accesskey "в">
+<!ENTITY itemActiveLogins.label "Влизания в сайтове">
+<!ENTITY itemActiveLogins.accesskey "В">
 
 <!ENTITY window.width "30em">
 <!ENTITY column.width "14em">

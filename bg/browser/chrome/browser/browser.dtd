@@ -7,9 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Скрито браузване)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Поверително сърфиране)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Нов подпрозорец">
 <!ENTITY tabCmd.accesskey "д">
@@ -34,7 +36,7 @@
 
 <!ENTITY navbarCmd.label "Лента за навигация">
 <!ENTITY navbarCmd.accesskey "в">
-<!ENTITY personalbarCmd.label "Лента с отметките">
+<!ENTITY personalbarCmd.label "Лента с отметки">
 <!ENTITY personalbarCmd.accesskey "о">
 <!ENTITY bookmarksToolbarItem.label "Елементи на лентата с отметките">
 <!ENTITY taskbarCmd.label "Лента за състоянието">
@@ -62,13 +64,14 @@
 
 <!ENTITY bookmarksMenu.label "Отметки">
 <!ENTITY bookmarksMenu.accesskey "О">
-<!ENTITY bookmarkThisPageCmd.label "Отметка за тази страница">
+<!ENTITY bookmarkThisPageCmd.label "Отмятане на тази страница">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Абониране за тази страница">
 <!ENTITY subscribeToPageMenuitem.label "Абониране за тази страница…">
-<!ENTITY addCurPagesCmd.label "Отметка за всеки подпрозорец…">
+<!ENTITY addCurPagesCmd.label "Отмятане на всеки подпрозорец…">
 <!ENTITY organizeBookmarks.label "Показване на отметките…">
-<!ENTITY bookmarkAllCmd.label "Отметка за всеки подпрозорец…">
+<!ENTITY bookmarkAllCmd.label "Отмятане на всеки подпрозорец…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
 
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "з">
@@ -163,9 +166,13 @@
 
 <!ENTITY clearRecentHistoryCmd.label "Изчистване на последната история">
 <!ENTITY clearRecentHistoryCmd.accesskey "и">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.label "Скрито браузване">
-<!ENTITY privateBrowsingCmd.accesskey "С">
+<!ENTITY privateBrowsingCmd.start.label "Начало на поверително сърфиране">
+<!ENTITY privateBrowsingCmd.start.accesskey "п">
+<!ENTITY privateBrowsingCmd.stop.label "Спиране на поверително сърфиране">
+<!ENTITY privateBrowsingCmd.stop.accesskey "п">
+<!ENTITY privateBrowsingCmd.commandkey "P">
 
 <!ENTITY viewMenu.label "Изглед">
 <!ENTITY viewMenu.accesskey "И">
@@ -249,11 +256,11 @@
 <!ENTITY viewBGImageCmd.accesskey "ф">
 <!ENTITY setDesktopBackgroundCmd.label "Поставяне като фон на работния плот…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "ф">
-<!ENTITY bookmarkPageCmd2.label "Отметка за тази страница">
+<!ENTITY bookmarkPageCmd2.label "Отмятане на тази страница">
 <!ENTITY bookmarkPageCmd2.accesskey "О">
-<!ENTITY bookmarkThisLinkCmd.label "Отметка за тази връзка">
+<!ENTITY bookmarkThisLinkCmd.label "Отмятане на тази връзка">
 <!ENTITY bookmarkThisLinkCmd.accesskey "в">
-<!ENTITY bookmarkThisFrameCmd.label "Отметка за тази рамка">
+<!ENTITY bookmarkThisFrameCmd.label "Отмятане на тази рамка">
 <!ENTITY bookmarkThisFrameCmd.accesskey "р">
 <!ENTITY sendPageCmd.label "Изпращане на връзка…">
 <!ENTITY sendPageCmd.accesskey "щ">
@@ -402,8 +409,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label "Готово">
 <!ENTITY editBookmark.cancel.label "Отказ">
-<!ENTITY editBookmark.removeBookmark.label "Премахване">
-<!ENTITY editBookmark.removeBookmark.accessKey "х">
+<!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "Отмяна">
 <!ENTITY editBookmark.undo.accessKey "О">
 <!ENTITY editBookmark.edit.label "Редактиране…">

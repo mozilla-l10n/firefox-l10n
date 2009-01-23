@@ -71,10 +71,10 @@
 <!ENTITY cmd.edit_redo.accesskey "Н">
 <!ENTITY cmd.edit_redo.key "y">
 
-<!ENTITY cmd.delete.label "Delete This Page">
-<!ENTITY cmd.delete.accesskey "D">
-<!ENTITY cmd.deleteDomainData.label "Forget About This Site">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY cmd.delete.label "Изтриване на тази страница">
+<!ENTITY cmd.delete.accesskey "И">
+<!ENTITY cmd.deleteDomainData.label "Забравяне за този сайт">
+<!ENTITY cmd.deleteDomainData.accesskey "З">
 
 <!ENTITY cmd.open.label "Отваряне">
 <!ENTITY cmd.open.accesskey "О">
@@ -146,7 +146,7 @@
 <!ENTITY search.scopeAll.accesskey "В">
 <!ENTITY search.scopeMenu.label "Меню на отметките">
 <!ENTITY search.scopeMenu.accesskey "ю">
-<!ENTITY search.scopeToolbar.label "Лента с отметките">
+<!ENTITY search.scopeToolbar.label "Лента с отметки">
 <!ENTITY search.scopeToolbar.accesskey "т">
 <!ENTITY search.scopeDownloads.label "Изтегляния">
 <!ENTITY search.scopeDownloads.accesskey "И">

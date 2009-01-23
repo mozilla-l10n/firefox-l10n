@@ -8,7 +8,7 @@
 <!ENTITY exceptions.label "Изключения…">
 <!ENTITY exceptions.accesskey "з">
 
-<!ENTITY enableJavaScript.label "Активиране на JavaScript">
+<!ENTITY enableJavaScript.label "Включване на JavaScript">
 <!ENTITY enableJavaScript.accesskey "S">
 <!ENTITY advancedJS.label "Настройване…">
 <!ENTITY advancedJS.accesskey "с">

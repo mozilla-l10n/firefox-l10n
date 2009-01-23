@@ -100,7 +100,7 @@
 <!ENTITY certmgr.purpose "Предназначение">
 <!ENTITY certmgr.issued "Издаден на">
 <!ENTITY certmgr.expires "Изтича на">
-<!ENTITY certmgr.email "Адрес на е-поща">
+<!ENTITY certmgr.email "Е-поща">
 <!ENTITY certmgr.serial "Сериен номер">
 
 <!ENTITY certmgr.close.label "Затваряне">

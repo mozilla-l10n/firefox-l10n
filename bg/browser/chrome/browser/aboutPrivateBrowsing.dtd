@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle "Скрито браузване">
+<!ENTITY privatebrowsingpage.title "Поверително сърфиране">
+<!ENTITY privatebrowsingpage.title.normal "Искате ли да включите режим „поверително сърфиране“?">
 
-<!ENTITY privatebrowsingpage.pagetitle "Скрито браузване">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; няма да помни историята на сесията.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "Сега &brandShortName; не е в режим на поверително сърфиране.">
 
-<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; няма да помни историята на тази сесия.">
-<!ENTITY privatebrowsingpage.longDesc "&brandShortName; няма да пази записи по историята на тази сесия на браузване. Това включва история на браузването, история на търсенията, история на изтеглянията, история на формулярите, бисквитки и временни файлове от интернет. Но всички изтегляни файлове и създадени отметки ще си останат.">
+<!ENTITY privatebrowsingpage.description "В сесия на поверително сърфиране &brandShortName; не се пази история на браузването, история на търсенията, история на изтеглянията, история на уеб формуляри, бисквитки или временни интернет файлове. Обаче изтеглените файлове и отметките остават.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Може да искате да започнете с изчистване на последната история.">
-<!ENTITY privatebrowsingpage.recentHistory.label "Изчистване на последната история">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey "И">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "Може да почнете с ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "изтриване на последната ви история">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
 
-<!ENTITY privatebrowsingpage.howToStopDesc "За да спрете скритото браузване, махнете отметката от Инструменти ">
-<!ENTITY privatebrowsingpage.footerDesc "Забавлявайте се!">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Режим „поверително сърфиране“">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "Р">
+
+<!ENTITY privatebrowsingpage.howToStop "За да спрете поверителното сърфиране, изберете &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, или затворете &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart "За да започнете поверително сърфиране, можете също да изберете &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo "Този компютър няма да има записи от историята на браузването, но вашият доставчик на интернет или вашият работодател все още може да следи кои страници са посетени от вас.">
+<!ENTITY privatebrowsingpage.learnMore "Научете повече">

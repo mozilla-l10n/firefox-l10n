@@ -7,4 +7,7 @@
 <!ENTITY aboutVersion "версия">
 <!ENTITY closeCmdGNOME.label "Затваряне">
 <!ENTITY closeCmdGNOME.accesskey "З">
-<!ENTITY copyrightInfo "&#169;1998-2008 Сътрудници. Всички права запазени. Firefox и логото на Firefox са търговски марки на фондация Mozilla. Всички права запазени.">
+<!ENTITY copyrightInfo1 "&#169;1998-2009 сътрудници. Всички права запазени. (">
+<!ENTITY licenseLink "about:license">
+<!ENTITY licenseLinkText "Информация за лицензи">
+<!ENTITY copyrightInfo2 ").">
