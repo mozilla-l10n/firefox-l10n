@@ -21,7 +21,7 @@
 <!ENTITY marginLeft.label "Esquèrra :">
 <!ENTITY marginLeft.accesskey "E :">
 <!ENTITY marginRight.label "Drecha :">
-<!ENTITY marginRight.label "D">
+<!ENTITY marginRight.accesskey "D">
 <!ENTITY headerFooter.label "Entèstas e pès de pagina">
 <!ENTITY hfLeft.label "Esquèrra :">
 <!ENTITY hfCenter.label "Centre :">
