@@ -1,6 +1,6 @@
 # AFFIXES POUR LE DICTIONNAIRE CLASSIQUE & RÉFORME 1990
 # par Olivier R. -- licences LGPL, GPL, MPL
-# Généré le 17.01.2009  17:10:04
+# Généré le 24.01.2009  11:27:44
 # Pour améliorer le dictionnaire, allez sur http://dicollecte.free.fr/
 
 
@@ -10,7 +10,7 @@ SET UTF-8
 WORDCHARS -
 
 
-TRY aàâäbcçdeéèêëfghiîïjklmnoôöpqrstuùûüvwxyzæœAÀÂÄBCÇDEÉÈÊËFGHIÎÏJKLMNOÔÖPQRSTUÙÛÜVWXYZÆŒ
+TRY aàâäbcçdeéèêëfghiîïjklmnoôöpqrstuùûüvwxyzæœAÀÂÄBCÇDEÉÈÊËFGHIÎÏJKLMNOÔÖPQRSTUÙÛÜVWXYZÆŒáíÿñåóöşă
 
 MAP 12
 MAP aàâä
