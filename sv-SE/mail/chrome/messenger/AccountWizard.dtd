@@ -135,6 +135,7 @@
 <!ENTITY smtpServerNamePrefix.label "Server för utgående e-post (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Server för diskussionsgrupper (NNTP):">
 <!ENTITY downloadOnLogin.label "Hämta meddelanden nu">
+<!ENTITY downloadOnLogin.accesskey "H">
 <!ENTITY deferStorageDesc.label "Avmarkera denna kryssruta för att lagra e-post för det här kontot i en egen katalog. Det gör att kontot kommer att visas som ett eget konto i kontolistan. Annars kommer det att vara en del av en global Inkorg i kontot Lokala mappar.">
 <!ENTITY deferStorage.label "Använd en global Inkorg (lagra e-posten i Lokala mappar)">
 <!ENTITY deferStorage.accesskey "A">

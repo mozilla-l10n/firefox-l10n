@@ -46,11 +46,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Importera">
-<!ENTITY importDialog.allTitle    "Importera allting">
-<!ENTITY importDialog.mailTitle   "E-post">
-<!ENTITY importDialog.addressbookTitle "Adressböcker">
-<!ENTITY importDialog.settingsTitle "Inställningar">
-<!ENTITY importDialog.filtersTitle "Filter">
+<!ENTITY importAll.label          "Importera allting">
+<!ENTITY importAll.accesskey      "a">
+<!ENTITY importMail.label         "E-post">
+<!ENTITY importMail.accesskey     "E">
+<!ENTITY importAddressbook.label  "Adressböcker">
+<!ENTITY importAddressbook.accesskey "d">
+<!ENTITY importSettings.label     "Inställningar">
+<!ENTITY importSettings.accesskey "I">
+<!ENTITY importFilters.label      "Filter">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -62,6 +67,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "När du har importerat uppgifterna kommer du alltså att kunna använda dem i &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Välj vilken typ av fil du vill importera:">
+<!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label               "&lt; Backa">
 <!ENTITY forward.label            "Nästa &gt;">
@@ -76,5 +82,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har bara en e-postadress per kontaktkort medan &brandShortName; har två (privat och arbete).">
 <!ENTITY FieldDiscInputText2.label  "Välj var du vill spara importerade e-postadresser:">
 <!ENTITY FieldDiscWarning.label  "Ditt val gäller alla poster: ">
-<!ENTITY importDialog.homeTitle  "Privat">
-<!ENTITY importDialog.workTitle  "Arbete">
+<!ENTITY importHome.label        "Privat">
+<!ENTITY importHome.accesskey    "P">
+<!ENTITY importWork.label        "Arbete">
+<!ENTITY importWork.accesskey    "A">
