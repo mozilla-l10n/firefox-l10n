@@ -1,3 +1,4 @@
 google
 yahoo-in
 eBay-in
+wikipedia-pa
