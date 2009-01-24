@@ -64,14 +64,10 @@
 
 
   <RDF:Seq about="NC:SearchCategory?category=urn:search:category:1">
-    <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:aport.src" />
-    <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:filesearchru.src" />
-    <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:google-ru.src" />
-    <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:lingvo.yandex.ru.src" />
-    <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:mailru.src" />
-    <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:multitran.src" />
+    <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:google.src" />
     <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:priceru.src" />
     <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:rambler.src" />
+    <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:slovari.yandex.ru.src" />
     <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:wikipedia-ru.src" />
     <RDF:li resource="NC:SearchCategory?engine=urn:search:engine:yandex.src" />
   </RDF:Seq>
