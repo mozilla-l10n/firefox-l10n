@@ -1,11 +1,7 @@
-aport
-filesearchru
 google
-lingvo.yandex.ru
-mailru
-multitran
 priceru
 rambler
+slovari.yandex.ru
 wikipedia-ru
 yandex
 
