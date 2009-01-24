@@ -1,12 +1,12 @@
 <!ENTITY history.label "Zgodovina">
 
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+<!ENTITY  locbar.pre.label              "Pri uporabi vrstice z naslovom predlagaj:">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "History and Bookmarks">
-<!ENTITY  locbar.history.label          "History">
-<!ENTITY  locbar.bookmarks.label        "Bookmarks">
-<!ENTITY  locbar.nothing.label          "Nothing">
+<!ENTITY  locbar.both.label             "Zgodovino in zaznamke">
+<!ENTITY  locbar.history.label          "Zgodovino">
+<!ENTITY  locbar.bookmarks.label        "Zaznamke">
+<!ENTITY  locbar.nothing.label          "Nič">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single

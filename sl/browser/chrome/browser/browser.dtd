@@ -71,7 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke ...">
 <!ENTITY organizeBookmarks.label "Upravljanje z zaznamki...">
 <!ENTITY bookmarkAllCmd.label "Dodaj vse zavihke med zaznamke ...">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
 
 <!ENTITY backCmd.label "Nazaj">
 <!ENTITY backCmd.accesskey "N">
@@ -168,9 +168,9 @@
 <!ENTITY clearRecentHistoryCmd.accesskey        "Z">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Start Private Browsing">
+<!ENTITY privateBrowsingCmd.start.label         "Vključi zasebno brskanje">
 <!ENTITY privateBrowsingCmd.start.accesskey     "B">
-<!ENTITY privateBrowsingCmd.stop.label          "Stop Private Browsing">
+<!ENTITY privateBrowsingCmd.stop.label          "Izključi zasebno brskanje">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "B">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
