@@ -278,6 +278,7 @@
 <!ENTITY fullZoomToggleCmd.accesskey "T">
 <!ENTITY fullZoom.label "Perbesaran">
 <!ENTITY fullZoom.accesskey "b">
+<!ENTITY newTabButton.tooltip "Buka tab baru">
 <!ENTITY newWindowButton.tooltip "Buka jendela baru">
 <!ENTITY sidebarCloseButton.tooltip "Tutup bar samping">
 <!ENTITY cutButton.tooltip "Potong">
