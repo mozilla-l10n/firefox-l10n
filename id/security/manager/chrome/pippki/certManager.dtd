@@ -50,14 +50,14 @@
 <!ENTITY certmgr.orphans "Anda mempunyai sertifikat pada berkas yang tidak cocok di kategori manapun:">
 <!ENTITY certmgr.detail.general_tab.title "Umum">
 <!ENTITY certmgr.detail.general_tab.accesskey "U">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Detil">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Detail">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 <!ENTITY certmgr.pending.label "Sedang memverifikasi sertifikat…">
 <!ENTITY certmgr.subjectinfo.label "Diterbitkan untuk">
 <!ENTITY certmgr.issuerinfo.label "Diterbitkan Oleh">
 <!ENTITY certmgr.validity.label "Keabsahan">
 <!ENTITY certmgr.fingerprints.label "Sidik Jari">
-<!ENTITY certmgr.certdetail.title "Detil Sertifikat">
+<!ENTITY certmgr.certdetail.title "Detail Sertifikat">
 <!ENTITY certmgr.certdetail.cn "Common Name (CN)">
 <!ENTITY certmgr.certdetail.o "Organisasi (O)">
 <!ENTITY certmgr.certdetail.ou "Unit Organisasi (OU)">
@@ -91,7 +91,7 @@
 <!ENTITY certmgr.tokenname "Perangkat Keamanan">
 <!ENTITY certmgr.purpose "Penggunaan">
 <!ENTITY certmgr.issued "Diterbitkan Pada">
-<!ENTITY certmgr.expires "Kadaluarsa Pada">
+<!ENTITY certmgr.expires "Kedaluwarsa Pada">
 <!ENTITY certmgr.email "Alamat Email">
 <!ENTITY certmgr.serial "Nomor Seri">
 <!ENTITY certmgr.close.label "Tutup">
@@ -125,7 +125,7 @@
 <!ENTITY exceptionMgr.title "Tambahkan Pengecualian Keamanan">
 <!ENTITY exceptionMgr.exceptionButton "Konfirmasi Pengecualian Keamanan">
 <!ENTITY exceptionMgr.exceptionButtonAccess "k">
-<!ENTITY exceptionMgr.supplementalWarning "Bank, toko, atau situs publik yang sah tidak akan menanyakan hal berikut kepada anda.">
+<!ENTITY exceptionMgr.supplementalWarning "Bank, toko, atau situs publik yang sah tidak akan menanyakan hal berikut kepada Anda.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Server">
 <!ENTITY exceptionMgr.certlocation.url "Lokasi:">
 <!ENTITY exceptionMgr.certlocation.download "Unduh Sertifikat">

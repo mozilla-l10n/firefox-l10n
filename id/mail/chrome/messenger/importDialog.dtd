@@ -1,10 +1,15 @@
 <!--null-->
 <!ENTITY importDialog.windowTitle "Impor">
-<!ENTITY importDialog.allTitle "Impor semuanya">
-<!ENTITY importDialog.mailTitle "Email">
-<!ENTITY importDialog.addressbookTitle "Buku Alamat">
-<!ENTITY importDialog.settingsTitle "Pengaturan">
-<!ENTITY importDialog.filtersTitle "Filter">
+<!ENTITY importAll.label "Import Semuanya">
+<!ENTITY importAll.accesskey "S">
+<!ENTITY importMail.label "Email">
+<!ENTITY importMail.accesskey "M">
+<!ENTITY importAddressbook.label "Buku Alamat">
+<!ENTITY importAddressbook.accesskey "B">
+<!ENTITY importSettings.label "Pengaturan">
+<!ENTITY importSettings.accesskey "P">
+<!ENTITY importFilters.label "Filter">
+<!ENTITY importFilters.accesskey  "F">
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 <!ENTITY importTitle.label "Wizard Impor &brandShortName;">
@@ -12,6 +17,7 @@
 <!ENTITY importDescription1.label "Wizard berikut akan mengimpor pesan email, item buku alamat, pengaturan, dan/atau filter dari program pembaca email lainnya dan buku alamat dalam format yang umum ke &brandShortName;.">
 <!ENTITY importDescription2.label "Setelah selesai diimpor, Anda akan dapat mengakses informasi tersebut dari &brandShortName;.">
 <!ENTITY selectDescription.label "Pilih jenis berkas yang ingin diimpor:">
+<!ENTITY selectDescription.accesskey "P">
 <!ENTITY back.label "&lt; Mundur">
 <!ENTITY forward.label "Maju &gt;">
 <!ENTITY finish.label "Selesai">
@@ -22,5 +28,7 @@
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x menggunakan satu alamat untuk setiap kartu nama sedangkan &brandShortName; menggunakan dua alamat untuk setiap kartu nama (Rumah dan Kantor).">
 <!ENTITY FieldDiscInputText2.label "Pilih kategori tempat menyimpan alamat email hasil proses impor:">
 <!ENTITY FieldDiscWarning.label "Kategori ini akan digunakan oleh item yang ada pada buku alamat terpilih: ">
-<!ENTITY importDialog.homeTitle "Rumah">
-<!ENTITY importDialog.workTitle "Kantor">
+<!ENTITY importHome.label "Rumah">
+<!ENTITY importHome.accesskey "R">
+<!ENTITY importWork.label "Kantor">
+<!ENTITY importWork.accesskey "K">

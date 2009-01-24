@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY validation.crlmanager.label "Kelola CRL">
-<!ENTITY validation.crlmanager.description "Daftar Pencabutan Sertifikat (CRL) berikut tersimpan dalam basis data sertifikat anda:">
+<!ENTITY validation.crlmanager.description "Daftar Pencabutan Sertifikat (CRL) berikut tersimpan dalam basis data sertifikat Anda:">
 <!ENTITY validation.crlname.label "Nama">
 <!ENTITY validation.crllastupdate.label "Pemutakhiran Terakhir">
 <!ENTITY validation.crlnextupdate.label "Pemutakhiran Selanjutnya">
@@ -58,9 +58,9 @@
 <!ENTITY crl.import.status.title "Status Impor CRL">
 <!ENTITY crl.import.success.message "Daftar Pencabutan Seritifikat (CRL) sukses diimpor.">
 <!ENTITY crl.issuer.label "CRL Diterbitkan Oleh:">
-<!ENTITY crl.issuer.org.label "Organisasi:">
+<!ENTITY crl.issuer.org.label "Organisasi: ">
 <!ENTITY crl.issuer.orgunit.label "Unit: ">
-<!ENTITY crl.import.nextupdate.label "Pemutakhiran Selanjutnya Pada:">
-<!ENTITY crl.autoupdate.fail.cnt.label "Kegagalan Rangkaian Pemutakhiran Sebelumnya">
-<!ENTITY crl.autoupdate.fail.reason.label "Keterangan Kegagalan Pemutakhiran Terakhir:">
+<!ENTITY crl.import.nextupdate.label "Pemutakhiran Selanjutnya Pada: ">
+<!ENTITY crl.autoupdate.fail.cnt.label "Kegagalan Rangkaian Pemutakhiran Sebelumnya: ">
+<!ENTITY crl.autoupdate.fail.reason.label "Keterangan Kegagalan Pemutakhiran Terakhir: ">
 <!ENTITY edit.button "Pengaturan">

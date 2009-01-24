@@ -56,6 +56,7 @@
 <!ENTITY smtpServerNamePrefix.label "Nama Server Pengirim (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nama Server news NNTP):">
 <!ENTITY downloadOnLogin.label "Unduh pesan sekarang">
+<!ENTITY downloadOnLogin.accesskey "s">
 <!ENTITY deferStorageDesc.label "Matikan pilihan ini untuk menyimpan email akun ini pada direktori secara terpisah. Jika ya, akun ini akan tampil sebagai akun tersendiri. Jika tidak, email akan disimpan sebagai bagian dari akun Kotak Masuk Global Folder Lokal.">
 <!ENTITY deferStorage.label "Gunakan Kotak Masuk Global (simpan email pada Folder Lokal)">
 <!ENTITY deferStorage.accesskey "G">

@@ -284,8 +284,8 @@
 <!ENTITY newMsgCmd.accesskey "B">
 <!ENTITY newNewMsgCmd.label "Pesan">
 <!ENTITY newNewMsgCmd.accesskey "P">
-<!ENTITY archiveMsgCmd.label "Arkiv">
-<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.label "Simpan di Gudang">
+<!ENTITY archiveMsgCmd.accesskey "a">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Balas">
 <!ENTITY replyMsgCmd.accesskey "B">

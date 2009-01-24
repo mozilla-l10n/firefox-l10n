@@ -1,11 +1,11 @@
 <!ENTITY reportWizard.title "Laporkan Situs Web Bermasalah">
 <!ENTITY privacyNotice.label "Kebijakan Privasi">
-<!ENTITY reportWizardPrivacy.description "Fitur ini berfungsi untuk melaporkan Tim Pendukung mengenai situs web yang bermasalah jika dibuka oleh &brandShortName;, atau mematikan program &brandShortName; dengan tiba-tiba. Melalui cara ini kami dapat memastikan kenyamanan pengguna &brandShortName;. Silakan membaca bacaan berikut untuk mempelajari cara kami untuk mengumpulkan informasi dari anda jika anda memutuskan untuk berpartisipasi.">
-<!ENTITY reportWizardMustAgree.description "Untuk melanjutkan, anda harus menyetujui kebijakan privasi di atas.">
+<!ENTITY reportWizardPrivacy.description "Fitur ini berfungsi untuk melaporkan Tim Pendukung mengenai situs web yang bermasalah jika dibuka oleh &brandShortName;, atau mematikan program &brandShortName; dengan tiba-tiba. Melalui cara ini kami dapat memastikan kenyamanan pengguna &brandShortName;. Silakan membaca bacaan berikut untuk mempelajari cara kami untuk mengumpulkan informasi dari Anda jika Anda memutuskan untuk berpartisipasi.">
+<!ENTITY reportWizardMustAgree.description "Untuk melanjutkan, Anda harus menyetujui kebijakan privasi di atas.">
 <!ENTITY dontShowPrivacyStatement.label "Saya telah membaca dan menyetujui kebijakan privasi di atas.">
 <!ENTITY dontShowPrivacyStatement.accesskey "I">
 <!ENTITY reportForm.label "Pengisian Laporan">
-<!ENTITY reportForm.description "Ceritakan mengenai masalah yang dialami;">
+<!ENTITY reportForm.description "Ceritakan mengenai masalah yang dialami:">
 <!ENTITY reportForm.url.title "URL Situs Web:">
 <!ENTITY reportForm.url.accesskey "U">
 <!ENTITY reportForm.behind_login.title "Situs web dilindungi kata sandi">
@@ -33,7 +33,7 @@
 <!ENTITY reportForm.email.accesskey "E">
 <!ENTITY reportForm.privacyPolicy.title "Kebijakan Privasi">
 <!ENTITY reportForm.privacyPolicy.tooltip "Tampilkan Kebijakan Privasi">
-<!ENTITY reportResults.showDetail.title "Tampilkan Detil">
+<!ENTITY reportResults.showDetail.title "Tampilkan Detail">
 <!ENTITY reportResults.showDetail.accesskey "D">
 <!ENTITY sendReport.label "Mengirim Laporan">
 <!ENTITY sendReport.description "Mengirim Laporan ke server…">
