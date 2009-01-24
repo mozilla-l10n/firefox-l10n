@@ -30,7 +30,7 @@
 <!ENTITY help.usingHistory.label "Defnyddio Hanes">
 <!ENTITY help.usingHistory.accesskey "h">
 <!ENTITY help.advancedTips.label "Cyngor a Thriciau Uwch">
-<!ENTITY help.advancedTips.accesskey "Y">
+<!ENTITY help.advancedTips.accesskey "C">
 
 <!ENTITY cmd.findInBookmarks.label "Canfod mewn Nodau Tudalen...">
 <!ENTITY cmd.findInBookmarks.accesskey "C">
@@ -45,7 +45,7 @@
 <!ENTITY cmd.backup.label "Copi wrth Gefn...">
 <!ENTITY cmd.backup.accesskey "C">
 <!ENTITY cmd.restore2.label "Adfer">
-<!ENTITY cmd.restore2.accesskey "D">
+<!ENTITY cmd.restore2.accesskey "A">
 <!ENTITY cmd.restoreFromFile.label "Dewis Ffeil...">
 <!ENTITY cmd.restoreFromFile.accesskey "D">
 
@@ -73,7 +73,7 @@
 
 <!ENTITY cmd.delete.label "Dileu'r Dudalen Hon">
 <!ENTITY cmd.delete.accesskey "D">
-<!ENTITY cmd.deleteDomainData.label "Anghofio am y Wefan Hon">
+<!ENTITY cmd.deleteDomainData.label "Anghofio'r Wefan Hon">
 <!ENTITY cmd.deleteDomainData.accesskey "A">
 
 <!ENTITY cmd.open.label "Agor">
@@ -199,7 +199,7 @@
 <!ENTITY view.details.label "Manylion">
 <!ENTITY view.details.accesskey "M">
 
-<!ENTITY view.addons.label "Estyn Ychwanegion Golwg">
+<!ENTITY view.addons.label "Estyn Ychwanegiadau Golwg">
 
 <!ENTITY maintenance.label "Mewnforio ac Allforio">
 <!ENTITY maintenance.accesskey "M">
@@ -210,7 +210,7 @@
 
 <!ENTITY forwardCmd.label "Ymlaen">
 <!ENTITY forwardCmd.accesskey "Y">
-<!ENTITY forwardButton.tooltip "Mynd ymlaen">
+<!ENTITY forwardButton.tooltip "Symud ymlaen">
 
 <!ENTITY detailsPane.more.label "Mwy">
 <!ENTITY detailsPane.more.accesskey "m">

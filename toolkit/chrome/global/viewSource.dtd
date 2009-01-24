@@ -6,11 +6,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Cod:">
+<!ENTITY mainWindow.preface "Cod Gwreiddiol ar gyfer:">
 
 <!ENTITY fileMenu.label "Ffeil">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Cadw Tudalen Fel...">
+<!ENTITY savePageCmd.label "Cadw tudalen Fel...">
 <!ENTITY savePageCmd.accesskey "F">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Gosodiad Tudalen...">
@@ -32,7 +32,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
-<!ENTITY textEnlarge.commandkey3 "_: textEnlarge.commandkey3">
+<!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey "-">
 <!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">

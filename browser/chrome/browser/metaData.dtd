@@ -2,7 +2,7 @@
 
 <!ENTITY caption.label "Priodoleddau Elfennau">
 <!ENTITY image-sec.label "Priodoleddau Delwedd">
-<!ENTITY image-url.label "Lleoliad (URL):">
+<!ENTITY image-url.label "Lleoliad:">
 <!ENTITY image-type.label "Math:">
 <!ENTITY image-desc.label "Sylwadau:">
 <!ENTITY image-alt.label "Testun eiledol:">

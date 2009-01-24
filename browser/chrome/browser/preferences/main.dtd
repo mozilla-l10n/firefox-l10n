@@ -9,11 +9,11 @@
 <!ENTITY location.accesskey "T">
 <!ENTITY useCurrentPage.label "Tudalen Bresennol">
 <!ENTITY useCurrentPage.accesskey "T">
-<!ENTITY useMultiple.label "Tudalen Bresennol">
+<!ENTITY useMultiple.label "Tudalennau Presennol">
 <!ENTITY useBookmark.label "Nod Tudalen">
 <!ENTITY useBookmark.accesskey "N">
-<!ENTITY restoreDefault.label "Rhagosodedig">
-<!ENTITY restoreDefault.accesskey "R">
+<!ENTITY restoreDefault.label "Adfer i'r Rhagosodedig">
+<!ENTITY restoreDefault.accesskey "A">
 
 <!ENTITY downloads.label "Llwytho i Lawr">
 

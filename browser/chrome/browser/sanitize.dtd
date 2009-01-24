@@ -7,6 +7,7 @@
 
 
 <!ENTITY clearDuration.label "Tynnu">
+<!ENTITY clearDuration.accesskey "T">
 <!ENTITY clearDuration.lastHour "yr awr ddiwethaf">
 <!ENTITY clearDuration.last2Hours "y ddwy awr ddiwethaf">
 <!ENTITY clearDuration.last4Hours "y pedair awr ddiwethaf">
@@ -14,8 +15,7 @@
 <!ENTITY clearDuration.everything "fy holl hanes">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix "_: clearDuration.suffix
-">
+<!ENTITY clearDuration.suffix "">
 
 <!ENTITY historySection.label "Hanes">
 <!ENTITY dataSection.label "Data">
@@ -36,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey "L">
 <!ENTITY itemActiveLogins.label "Mewngofnodion Gweithredol">
 <!ENTITY itemActiveLogins.accesskey "M">
+<!ENTITY itemSiteSettings.label "Gosodiadau'r Safle">
+<!ENTITY itemSiteSettings.accesskey "G">
 
 <!ENTITY window.width "30em">
 <!ENTITY column.width "14em">

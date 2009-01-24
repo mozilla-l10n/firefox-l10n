@@ -22,7 +22,7 @@
 <!ENTITY selectAllCmd.accesskey "E">
 <!ENTITY findCmd.label "Canfod">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.accesskey "C">
 <!ENTITY findAgainCmd.label "Canfod Eto">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
