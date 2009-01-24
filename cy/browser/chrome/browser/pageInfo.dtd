@@ -55,7 +55,7 @@
 <!ENTITY generalMode "Modd Llunio:">
 <!ENTITY generalSize "Maint:">
 <!ENTITY generalReferrer "URL cyfeirio:">
-<!ENTITY generalSource "Ffynhonnell Ystorfa:">
+<!ENTITY generalSource "Ffynhonnell Ystorfa">
 <!ENTITY generalModified "Newidiwyd:">
 <!ENTITY generalEncoding "Amgodio:">
 <!ENTITY generalMetaName "Enw">
@@ -75,7 +75,7 @@
 <!ENTITY mediaDimension "Maint:">
 <!ENTITY mediaLongdesc "Priodoledd Hir:">
 <!ENTITY mediaBlockImage.accesskey "B">
-<!ENTITY mediaSaveAs "Cadw Fel...">
+<!ENTITY mediaSaveAs "Cadw Fel:">
 <!ENTITY mediaSaveAs.accesskey "F">
 <!ENTITY mediaSaveAs2.accesskey "y">
 <!ENTITY mediaPreview "Rhagolwg Cyfrwng:">

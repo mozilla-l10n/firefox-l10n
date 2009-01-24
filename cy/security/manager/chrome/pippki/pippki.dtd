@@ -103,8 +103,8 @@
 <!ENTITY pkcs12.getpassword.title "Deialog Mynediad y Cyfrinair">
 <!ENTITY pkcs12.getpassword.message "Rhowch y cyfrinair ddefnyddiwyd i amgryptio'r ffeil tystysgrif wrth gefn.">
 
-<!ENTITY chooseToken.title "Dewiswch Dialog Enghreifftiol">
-<!ENTITY chooseToken.message1 "Dewiswch arwydd.">
+<!ENTITY chooseToken.title "Deialog Dewis Tocyn">
+<!ENTITY chooseToken.message1 "Dewiswch docyn.">
 
 <!ENTITY escrowWarn.title "Copi o Allwedd Amgryptio">
 <!ENTITY escrowWarn.message1 "Pwysig: Mae'r awdurdod tystysgrifo wedi gofyn i gael gwneud copi wrth gefn o'ch allwedd amgryptio breifat.">
@@ -117,7 +117,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Cynhyrchu Allwedd Breifat">
-<!ENTITY createCertInfo.msg1 "Wrthi'n Cynhyrchu Allwedd... Gall hyn gymryd ychydig o amser...">
+<!ENTITY createCertInfo.msg1 "Wrthi'n Cynhyrchu Allwedd.. Gall hyn gymryd ychydig funudau...">
 <!ENTITY createCertInfo.msg2 "Arhoswch...">
 <!-- Form Signing confirmation prompt -->
 
@@ -130,6 +130,6 @@
 <!ENTITY protectedAuth.msg "Dilyswch i'r tocyn. Mae dulliau dilysu'n dibynnu ar y math o docyn.">
 <!ENTITY protectedAuth.tokenName.label "Tocyn:">
 
-<!ENTITY certErrorDlg.title "Methodd y Cysylltiad Diogel">
-<!ENTITY certErrorDlg.info1 "Gall fod yn anhawster gyda ffurfweddiad y gweinydd neu fod rhywun yn ceisio ffugio bod y gweinydd.">
-<!ENTITY certErrorDlg.info2 "Os ydych wedi cysylltu'n llwyddiannus â'r gweinydd yn y gorffennol gall fod yn wall dros dro a gallwch geisio rhywbryd eto.">
+<!ENTITY certErrorDlg.title "Methodd y Cysylltiad â'r Gweinydd">
+<!ENTITY certErrorDlg.info1 "Gall hyn fod yn broblem gyda ffurfweddiad y gweinydd neu gall fod yn rhywun yn ceisio efelychu’r gweinydd.">
+<!ENTITY certErrorDlg.info2 "Os ydych wedi cysylltu â'r gweinydd hwn yn y gorffennol gall fod y gwall yn un dros dro ac y gallwch geisio eto.">

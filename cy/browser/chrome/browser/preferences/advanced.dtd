@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey "d">
 <!ENTITY searchStartTyping.label "Chwilio am destun wrth i mi gychwyn teipio">
 <!ENTITY searchStartTyping.accesskey "c">
-<!ENTITY blockAutoRefresh.label "Rhybuddio pam fydd gwefannau yn ceisio ailgyfeirio neu ail lwytho tudalen">
+<!ENTITY blockAutoRefresh.label "Rhybuddio pan fydd gwefannau yn ceisio ailgyfeirio neu ail lwytho tudalen">
 <!ENTITY blockAutoRefresh.accesskey "r">
 
 <!ENTITY browsing.label "Pori">
@@ -73,7 +73,7 @@
 <!ENTITY offlineNotifyExceptions.label "Eithriadau...">
 <!ENTITY offlineNotifyExceptions.accesskey "e">
 
-<!ENTITY offlineAppsList.label "Mae gan y gwefannau canlynol data wedi ei storio ar gyfer defnydd all-lein:">
+<!ENTITY offlineAppsList.label "Mae gan y gwefannau canlynol ddata wedi ei storio ar gyfer defnydd all-lein:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Tynnu...">
 <!ENTITY offlineAppsListRemove.accesskey "T">

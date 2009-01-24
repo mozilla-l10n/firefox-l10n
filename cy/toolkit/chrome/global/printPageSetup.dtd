@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label "Fformat">
 
 <!ENTITY orientation.label "Cyfeiriadaeth:">
-<!ENTITY portrait "Portread">
-<!ENTITY landscape "Tirlun">
+<!ENTITY portrait.label "Portread">
+<!ENTITY portrait.accesskey "P">
+<!ENTITY landscape.label "Tirwedd">
+<!ENTITY landscape.accesskey "T">
 
 <!ENTITY scale.label "Graddfa:">
+<!ENTITY scale.accesskey "G">
 <!ENTITY scalePercent "&#037;">
 
 <!ENTITY shrinkToFit.label "Cywasgu i Led y Dudalen">
+<!ENTITY shrinkToFit.accesskey "L">
 
 <!ENTITY optionsGroup.label "Dewisiadau">
 
 <!ENTITY printBG.label "Argraffu'r Cefndir (lliwiau a delweddau)">
+<!ENTITY printBG.accesskey "C">
 
 <!ENTITY advanced.tab "Ymylon a Phennawd/Troedyn">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches "modfedd">
 <!ENTITY marginUnits.metric "milimetr">
 <!ENTITY marginTop.label "Brig:">
+<!ENTITY marginTop.accesskey "B">
 <!ENTITY marginBottom.label "Gwaelod:">
+<!ENTITY marginBottom.accesskey "G">
 <!ENTITY marginLeft.label "Chwith:">
+<!ENTITY marginLeft.accesskey "C">
 <!ENTITY marginRight.label "De:">
+<!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label "Penawdau a Throedynnau">
 
@@ -42,12 +51,12 @@
 <!ENTITY footerRight.tip "Troedyn de">
 
 <!ENTITY hfTitle "Teitl">
-<!ENTITY hfURL "Lleoliad (URL)">
+<!ENTITY hfURL "Lleoliad">
 <!ENTITY hfDateAndTime "Dyddiad/Amser">
 <!ENTITY hfPage "Tudalen #">
 <!ENTITY hfPageAndTotal "Tudalen # o #">
 <!ENTITY hfBlank "--gwag--">
-<!ENTITY hfCustom "Addasu...">
+<!ENTITY hfCustom "Addasu">
 
 <!ENTITY customPrompt.title "Addasu...">
 <!ENTITY customPrompt.prompt "Rhowch destun pennawd /troedyn">

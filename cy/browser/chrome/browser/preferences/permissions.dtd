@@ -1,7 +1,7 @@
 <!ENTITY window.title "Eithriadau">
 <!ENTITY window.width "36em">
 
-<!ENTITY treehead.sitename.label "Gwefan">
+<!ENTITY treehead.sitename.label "Safle">
 <!ENTITY treehead.status.label "Statws">
 <!ENTITY removepermission.label "Diddymu'r Wefan">
 <!ENTITY removepermission.accesskey "D">
@@ -14,9 +14,9 @@
 <!ENTITY session.label "Caniatáu ar gyfer y Sesiwn">
 <!ENTITY session.accesskey "S">
 <!ENTITY allow.label "Caniatáu">
-<!ENTITY allow.accesskey "C">
+<!ENTITY allow.accesskey "A">
 <!ENTITY windowClose.key "f">
 
 <!ENTITY button.close.label "Cau">
-<!ENTITY button.close.accesskey "A">
+<!ENTITY button.close.accesskey "C">
 

@@ -1,18 +1,18 @@
-<!ENTITY restorepage.tabtitle       "Adfer Sesiwn">
-<!ENTITY restorepage.pagetitle      "Hoffech Chi Adfer Eich Sesiwn?">
+<!ENTITY restorepage.tabtitle "Adfer y Sesiwn">
+<!ENTITY restorepage.pagetitle "Hoffech chi adfer eich sesiwn?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Mae eich sesiwn &brandShortName; ddiwethaf wedi cau'n annisgwyl. Ymddiheurwn am yr anghyfleustra. Gallwch adfer tabiau a ffenestri eich sesiwn flaenorol, neu ddechrau sesiwn newydd os nad oes angen amdanyn nhw bellach.">
-<!ENTITY restorepage.remedies       "Os bydd &brandShortName; yn cau eto:">
-<!ENTITY restorepage.dueToChrome    "Ceisiwch analluogi unrhyw estyniadau sydd wedi eu hychwanegu'n ddiweddar yn y Rheolwr Ychwanegion.">
-<!ENTITY restorepage.dueToContent   "Ceisiwch adfer eich sesiwn heb unrhyw dudalennau Gwe rydych yn amau y gallen nhw fod yn achosi'r broblem:">
+<!ENTITY restorepage.issueDesc "Caeodd eich sesiwn &BrandShortName; diwethaf yn annisgwyl. Rydym yn ymddiheuro’n fawr am yr anghyfleuster. Mae modd adfer y tabiau a'r ffenestri o'ch sesiwn flaenorol, neu ddechrau sesiwn newydd os nad oes eu hangen bellach.">
+<!ENTITY restorepage.remedies "Os yw &BrandShortName; yn cau'n aml:">
+<!ENTITY restorepage.dueToChrome "Tynnwch unrhyw estyniad drwy'r Rheolwr Ychwanegion">
+<!ENTITY restorepage.dueToContent "Ceisiwch adfer eich sesiwn gyda thudalen gwe rydych yn amau ei fod yn achosi'r broblem:">
 
-<!ENTITY restorepage.restoreButton  "Adfer Sesiwn Flaenorol">
+<!ENTITY restorepage.restoreButton "Adfer y Sesiwn Blaenorol">
 <!ENTITY restorepage.restore.access "A">
-<!ENTITY restorepage.cancelButton   "Dechrau Sesiwn Newydd">
-<!ENTITY restorepage.cancel.access  "D">
+<!ENTITY restorepage.cancelButton "Cychwyn Sesiwn Newydd">
+<!ENTITY restorepage.cancel.access "N">
 
-<!ENTITY restorepage.restoreHeader  "Adfer">
-<!ENTITY restorepage.listHeader     "Ffenestri a Thabiau">
+<!ENTITY restorepage.restoreHeader "Adfer">
+<!ENTITY restorepage.listHeader "Ffenestri a Thabiau">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Ffenestr &#37;S">
+<!ENTITY restorepage.windowLabel "Ffenestr &#37;S">
