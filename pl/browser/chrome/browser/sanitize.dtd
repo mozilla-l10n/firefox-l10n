@@ -33,7 +33,8 @@
 <!ENTITY itemDownloadList.accesskey   "b">
 <!ENTITY itemActiveLogins.label       "aktywne zalogowania">
 <!ENTITY itemActiveLogins.accesskey   "a">
+<!ENTITY itemSiteSettings.label       "ustawienia dotyczące konkretnych witryn">
+<!ENTITY itemSiteSettings.accesskey   "u">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">
-
