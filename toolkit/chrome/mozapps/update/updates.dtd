@@ -8,12 +8,9 @@
 
 <!ENTITY noupdatesfound.title "Оновлення відсутні">
 <!ENTITY  noupdatesautoenabled.intro      "Оновлення відсутні. &brandShortName; буде періодично перевіряти наявніть оновлень.">
-<!-- FIXME: localize -->
-<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable &brandShortName;'s automatic update checking.">
+<!ENTITY  noupdatesautodisabled.intro     "Оновлення відсутні. Будь ласка перевірте ще раз пізніше, або увімкніть автоматичну перевірку оновлень &brandShortName;.">
 
 <!ENTITY clickHere.label "Переглянути докладнішу інформацію про це оновлення">
-
-
 
 <!ENTITY license.instructions "Якщо ви згодні з умовами цієї ліцензійної угоди, натисніть на кнопку Я згоден для продовження установки цього оновлення.">
 
