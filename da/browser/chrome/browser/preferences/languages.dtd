@@ -9,7 +9,7 @@
 <!ENTITY languages.customize.moveDown.accesskey         "n">
 <!ENTITY languages.customize.deleteButton.label         "Fjern">
 <!ENTITY languages.customize.deleteButton.accesskey     "F">
-<!ENTITY languages.customize.selectLanguage.label       "Vælg et sprog til tilføjelse…">
+<!ENTITY languages.customize.selectLanguage.label       "Vælg det sprog du ønsker at tilføje…">
 <!ENTITY languages.customize.addButton.label            "Tilføj">
 <!ENTITY languages.customize.addButton.accesskey        "T">
 

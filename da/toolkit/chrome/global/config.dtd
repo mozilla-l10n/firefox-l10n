@@ -71,11 +71,11 @@
 <!ENTITY toggle.accesskey "V">
 <!ENTITY reset.label "Nulstil">
 <!ENTITY reset.accesskey "u">
-<!ENTITY new.label "Ny(t)">
+<!ENTITY new.label "Ny nøgle">
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "Streng">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Heltal">
 <!ENTITY integer.accesskey "H">
-<!ENTITY boolean.label "Boolsk">
+<!ENTITY boolean.label "Boolsk værdi">
 <!ENTITY boolean.accesskey "B">

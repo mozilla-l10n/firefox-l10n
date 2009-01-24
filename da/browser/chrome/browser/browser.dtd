@@ -7,6 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat browsing)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nyt faneblad">
 <!ENTITY tabCmd.accesskey "f">
@@ -66,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Bogmærk alle faneblade…">
 <!ENTITY organizeBookmarks.label "Arranger bogmærker…">
 <!ENTITY bookmarkAllCmd.label "Bogmærk alle faneblade…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bogmærker">
 
 <!ENTITY backCmd.label                "Tilbage">
 <!ENTITY backCmd.accesskey            "T">
@@ -158,8 +164,15 @@
 <!ENTITY preferencesCmdUnix.label       "Præferencer">
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Fjern private oplysninger">
-<!ENTITY clearPrivateDataCmd.accesskey        "p">
+<!ENTITY clearRecentHistoryCmd.label            "Ryd historik">
+<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Start Privat browsing">
+<!ENTITY privateBrowsingCmd.start.accesskey     "b">
+<!ENTITY privateBrowsingCmd.stop.label          "Stop Privat browsing">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "b">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vis"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -233,10 +246,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "o">
 <!ENTITY viewFrameInfoCmd.label       "Vis rammeoplysninger">
 <!ENTITY viewFrameInfoCmd.accesskey   "o">
-<!ENTITY showImageCmd.label           "Vis billede">
-<!ENTITY showImageCmd.accesskey       "V">
+<!ENTITY reloadImageCmd.label         "Genindlæs billede">
+<!ENTITY reloadImageCmd.accesskey     "G">
 <!ENTITY viewImageCmd.label           "Vis billede">
 <!ENTITY viewImageCmd.accesskey       "V">
+<!ENTITY viewVideoCmd.label           "Vis video">
+<!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis baggrundsbillede">
 <!ENTITY viewBGImageCmd.accesskey     "V">
 <!ENTITY setDesktopBackgroundCmd.label      "Brug som skrivebordsbaggrund…">
@@ -369,8 +384,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Rediger præferencer for blokering af pop-op viduer…">
-<!ENTITY editPopupSettings.label "Rediger indstillinger for blokering af pop-op viduer…">
+<!ENTITY editPopupSettingsUnix.label "Rediger præferencer for blokering af pop op-viduer…">
+<!ENTITY editPopupSettings.label "Rediger indstillinger for blokering af pop op-viduer…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -393,7 +408,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Færdig">
 <!ENTITY editBookmark.cancel.label                   "Annuller">
-<!ENTITY editBookmark.removeBookmark.label           "Fjern bogmærke">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
 <!ENTITY editBookmark.undo.label                     "Fortryd">
 <!ENTITY editBookmark.undo.accessKey                 "o">
@@ -418,3 +432,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Flere informationer…">
 
 <!ENTITY downloadMonitor2.tooltip "Klik her for at åbne filhentningsvinduet">
+
+<!ENTITY ctrlTab.search.emptyText "Søgefaneblade">

@@ -2,4 +2,4 @@
 <!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "Flyt til:">
 <!ENTITY newFolderButton.label     "Ny mappe">
-<!ENTITY newFolderButton.accesskey "a">
+<!ENTITY newFolderButton.accesskey "y">

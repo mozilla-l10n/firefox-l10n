@@ -1,10 +1,10 @@
 <!ENTITY pluginWizard.title                                  "Plug-in Finder Tjenesten">
 <!ENTITY pluginWizard.firstPage.title                        "Velkommen til &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; undersøger nu for tilgænglige plug-ins…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; undersøger nu for tilgængelige plug-ins…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title             "Tilgænglige plug-ins">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Følgende plug-ins er tilgænglige:">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Tilgængelige plug-ins">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Følgende plug-ins er tilgængelige:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Klik Næste for at installere disse plug-ins.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nogle plug-ins kan måske kræve ydreligere informationer fra dig under installationen.">
 

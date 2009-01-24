@@ -1,5 +1,5 @@
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Minimimer">
+<!ENTITY minimizeWindow.label     "Minimer">
 <!ENTITY bringAllToFront.label    "Bring alt frem">
 <!ENTITY zoomWindow.label         "Zoom">
 <!ENTITY windowMenu.label         "Vindue">
@@ -15,10 +15,9 @@
 <!ENTITY helpContents.label       "Emner i Hjælp">
 <!ENTITY helpContents.accesskey   "H">
 <!ENTITY helpContentsMac.label    "&brandShortName; hjælp">
-<!ENTITY helpForIEUsers.label     "For Internet Explorer brugere">
+<!ENTITY helpForIEUsers.label     "For Internet Explorer-brugere">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY openHelpMac.commandkey   "VK_HELP">
 <!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
@@ -32,18 +31,18 @@
 <!ENTITY updateCmd.label                "Tjek for opdateringer…">
 <!ENTITY updateCmd.accesskey            "T">
 
-<!ENTITY preferencesCmdMac.label        "Preferencer…">
+<!ENTITY preferencesCmdMac.label        "Indstillinger…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Tjenester">
 
 <!ENTITY hideThisAppCmdMac.label        "Skjul &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "S">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skjul andre">
-<!ENTITY hideOtherAppsCmdMac.commandkey "a">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Vis alt">

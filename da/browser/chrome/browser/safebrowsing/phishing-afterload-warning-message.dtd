@@ -18,7 +18,7 @@
 <!ENTITY safeb.blocked.malware.title "Anmeldt angrebswebsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Dette websted (<span id='malware_sitename'/>) er blevet anmeldt som et angrebswebsted og er blokeret jævnfør dine sikkerhedsindstillinger.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Angrebswebsteder forsøger at installere programmer som stjæler private oplysninger, bruger din computer til at angribe andre, eller skade dit system.</p><p>Nogle angrebswebsteder distribuerer med fortsæt skadeligt software, men mange andre er kompromitteret uden viden eller accept fra webstedets ejere.</p>">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Angrebswebsteder forsøger at installere programmer, som stjæler private oplysninger, bruger din computer til at angribe andre, eller skader dit system.</p><p>Nogle angrebswebsteder distribuerer med fortsæt skadelig software, men mange andre er kompromitteret uden viden eller accept fra webstedets ejere.</p>">
 
 <!ENTITY safeb.blocked.phishing.title "Anmeldt webfalskneri!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

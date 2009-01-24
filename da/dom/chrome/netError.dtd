@@ -38,7 +38,7 @@
 ">
 
 <!ENTITY netReset.title "Forbindelsen blev afbrudt">
-<!ENTITY netReset.longDesc "Forbindelsen til webstedet blev uventet brudt under oprettelse af forbindelse eller data-overførsel. Dette kan skyldes en netværksfejl et sted mellem webstedet og din computer. Hvis problemet bliver ved at forekomme, bør du rådføre dig med dine system-manual, din administrator eller internet-udbyder for yderligere assistance.">
+<!ENTITY netReset.longDesc "Forbindelsen til webstedet blev uventet afbrudt under oprettelse af forbindelse eller data-overførsel. Dette kan skyldes en netværksfejl et sted mellem webstedet og din computer. Hvis problemet bliver ved at forekomme, bør du rådføre dig med dine system-manual, din administrator eller internet-udbyder for yderligere assistance.">
 
 <!ENTITY netTimeout.title "Browseren overskred tidsgrænsen">
 <!ENTITY netTimeout.longDesc "Browseren overskred tidsgrænsen under forsøg på at forbinde til webstedet. Webstedet er muligvis belastet af mange besøgende, hvilket nedsætter hastigheden, eller netværksproblemer forhindrer data i at blive modtaget fra webstedet inden for en rimelig tidsgrænse. Hvis siden sandsynligvis er overbelastet, så overvej at vente nogle få minutter før at du forsøger igen. ">
@@ -52,14 +52,14 @@
 <!ENTITY proxyResolveFailure.title "Proxyserver blev ikke fundet">
 <!ENTITY proxyResolveFailure.longDesc "<p>Browseren er konfigureret til at benytte en proxyser, men proxyen kunne ikke findes.</p><ul><li>Er browserens proxy indstillet korrekt? Undersøg indstillingerne og forsøg igen.</li><li>Er computeren forbundet til et aktivt netværk?</li><li>Har du stadig problemer? Konsulter din netværks-administrator eller internet-udbyder for assistance.</li></ul>">
 
-<!ENTITY redirectLoop.title "Cirkulær omdirrigeringsløkke">
-<!ENTITY redirectLoop.longDesc "Browseren har afbrudt en forbindelse, fordi webstedet omdirrigerer forespørgsler til sig selv på en måde, der forhindrer det i nogensinde at blive færdig.">
+<!ENTITY redirectLoop.title "Uendelig viderestilling">
+<!ENTITY redirectLoop.longDesc "Browseren har afbrudt forespørgslen, fordi webstedet viderestiller forespørgslen til sig selv på en måde, der forhindrer den i nogensinde at blive færdig.">
 
 <!ENTITY unknownSocketType.title "Ukendt svar">
 <!ENTITY unknownSocketType.longDesc "Webstedet svarede på netværks-forespørgslen på en uventet måde. Dette kan skyldes at adressen (URL) benytter den forkerte protokol til den angivne port, eller en ikke-standardiseret konfiguration på webstedet anvender andre tjenester end forventet.">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenciteten af de modtagene data ikke kunne bekræftes.</p><ul><li>Kontakt venligst ejeren af webstedet omkring dette problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagene data ikke kunne bekræftes.</p><ul><li>Kontakt venligst ejeren af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>

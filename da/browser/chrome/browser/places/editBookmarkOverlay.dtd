@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Indlæs dette bogmærke i sidebjælken">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "I">
 <!ENTITY editBookmarkOverlay.choose.label                    "Vælg…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Ny mappe">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "m">

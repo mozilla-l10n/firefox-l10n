@@ -3,7 +3,7 @@
 <!ENTITY editfield0.label "Brugernavn:">
 <!ENTITY editfield1.label "Adgangskode:">
 <!ENTITY editfield2.label "Bekræft adgangskode:">
-<!ENTITY checkbox.label   "marker">
+<!ENTITY checkbox.label   "Marker">
 <!ENTITY copyCmd.label    "Kopier">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Marker alt">

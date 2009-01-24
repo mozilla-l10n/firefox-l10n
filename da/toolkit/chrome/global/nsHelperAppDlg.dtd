@@ -15,7 +15,7 @@
 <!ENTITY intro.attachment.label "Wedsteddet foreslog at &quot;#3&quot; blev behandlet som et vedlæg. Det har typen #2 (#1) og er placeret:">
 <!ENTITY intro.attachment.noDesc.label "Wedsteddet foreslog at &quot;#3&quot; blev behandlet som et vedlæg. Det har typen #2 og er placeret:">
 
-<!ENTITY intro.sniffed.label "#4 har konstateret at filen &quot;#3&quot; sandsynligvis er af typen #2 (#1). Findes findes her:">
+<!ENTITY intro.sniffed.label "#4 har konstateret at filen &quot;#3&quot; sandsynligvis er af typen #2 (#1). Filen findes her:">
 <!ENTITY intro.sniffed.noDesc.label "#4 har konstateret at filen &quot;#3&quot; sandsynligvis er af typen #2. Filen findes her:">
 
 <!ENTITY prompt.label          "Hvad skal #1 gøre med denne fil?">

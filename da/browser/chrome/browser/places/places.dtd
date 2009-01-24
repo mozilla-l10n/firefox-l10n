@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey    "G">
 <!ENTITY cmd.edit_redo.key          "a">
 
+<!ENTITY cmd.delete.label               "Slet dette websted">
+<!ENTITY cmd.delete.accesskey           "S">
+<!ENTITY cmd.deleteDomainData.label     "Glem alt om dette websted">
+<!ENTITY cmd.deleteDomainData.accesskey "G">
+
 <!ENTITY cmd.open.label                  "Åbn">
 <!ENTITY cmd.open.accesskey              "Å">
 <!ENTITY cmd.open_window.label           "Åbn i et nyt vindue">
@@ -123,7 +128,7 @@
 <!ENTITY col.tags.label          "Mærkater">
 <!ENTITY col.url.label           "Placering">
 <!ENTITY col.lastvisit.label     "Senest besøgt">
-<!ENTITY col.visitcount.label    "Besøgstal">
+<!ENTITY col.visitcount.label    "Besøg">
 <!ENTITY col.keyword.label       "Nøgleord">
 <!ENTITY col.description.label   "Beskrivelse">
 <!ENTITY col.dateadded.label     "Tilføjet">
@@ -179,7 +184,7 @@
 <!ENTITY advancedSearch.sortby.label               "Sorter efter: ">
 <!ENTITY advancedSearch.sortby_title.label         "titel">
 <!ENTITY advancedSearch.sortby_date.label          "dato">
-<!ENTITY advancedSearch.sortby_visit.label         "besøgstal">
+<!ENTITY advancedSearch.sortby_visit.label         "antal besøg">
 <!ENTITY advancedSearch.sortby_url.label           "url">
 <!ENTITY advancedSearch.sortby_asc.label           "stigende">
 <!ENTITY advancedSearch.sortby_desc.label          "faldende">

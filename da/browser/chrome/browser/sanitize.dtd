@@ -1,24 +1,41 @@
-<!ENTITY sanitizeDialog.title         "Fjern private oplysninger fra &brandShortName;">
+<!ENTITY sanitizePrefs.title           "Fjern private oplysninger">
+<!ENTITY sanitizeDialog2.title         "Fjern historik">
 
 <!ENTITY sanitizeItems.label          "Ryd følgende områder nu:">
-<!ENTITY clearDataSettings.label      "Når jeg beder &brandShortName; om at fjerne mine private data skal den fjerne:">
+<!ENTITY clearDataSettings2.label     "Når jeg afslutter &brandShortName; skal den automatisk ryde alt:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "Browserhistorik">
-<!ENTITY itemHistory.accesskey        "B">
-<!ENTITY itemFormSearchHistory.label  "Gemt formular- og søgehistorik">
-<!ENTITY itemFormSearchHistory.accesskey "G">
+<!ENTITY clearDuration.label          "Fjern ">
+<!ENTITY clearDuration.accesskey      "F">
+<!ENTITY clearDuration.lastHour       "den seneste time">
+<!ENTITY clearDuration.last2Hours     "de seneste 2 timer">
+<!ENTITY clearDuration.last4Hours     "de seneste 4 timer">
+<!ENTITY clearDuration.today          "min historik for i dag">
+<!ENTITY clearDuration.everything     "hele min historik">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Historik">
+<!ENTITY dataSection.label            "Data">
+
+<!ENTITY itemVisitedPages.label       "Besøgte sider">
+<!ENTITY itemVisitedPages.accesskey   "B">
+<!ENTITY itemFormSearchEntries.label  "Gemt formular- og søgehistorik">
+<!ENTITY itemFormSearchEntries.accesskey "G">
 <!ENTITY itemPasswords.label          "Gemte adgangskoder">
 <!ENTITY itemPasswords.accesskey      "a">
 <!ENTITY itemCookies.label            "Cookies">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "Cache">
-<!ENTITY itemCache.accesskey          "e">
-<!ENTITY itemOfflineApps.label        "Offline data">
+<!ENTITY itemWebCache.label           "Mellemlager for sider">
+<!ENTITY itemWebCache.accesskey       "M">
+<!ENTITY itemOfflineApps.label        "Offline webapplikationsdata">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloads.label          "Filhentningshistorik">
-<!ENTITY itemDownloads.accesskey      "F">
-<!ENTITY itemSessions.label           "Bekræftede sessions">
-<!ENTITY itemSessions.accesskey       "s">
+<!ENTITY itemDownloadList.label       "Filhentninigshistorik">
+<!ENTITY itemDownloadList.accesskey   "F">
+<!ENTITY itemActiveLogins.label       "Aktive logins">
+<!ENTITY itemActiveLogins.accesskey   "l">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

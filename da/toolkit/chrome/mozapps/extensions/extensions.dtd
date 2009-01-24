@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Anvender ikke sikre opdateringer.">
 <!ENTITY needsDependencies.label          "Yderligere moduler påkrævet.">
 <!ENTITY blocklisted.label                "Deaktiveret for din sikkerheds skyld.">
+<!ENTITY softBlocklisted.label            "Kendt for at være skyld i sikkerheds- eller stabilitetsproblemer.">
 <!ENTITY toBeDisabled.label               "Denne tilføjelse vil blive deaktiveret når &brandShortName; bliver genstartet.">
 <!ENTITY toBeEnabled.label                "Denne tilføjelse vil blive aktiveret når &brandShortName; bliver genstartet.">
 <!ENTITY toBeInstalled.label              "Denne tilføjelse vil blive installeret når &brandShortName; bliver genstartet.">
@@ -120,7 +121,7 @@
 
 <!ENTITY getExtensions.label              "Hent udvidelser">
 <!ENTITY getThemes.label                  "Hent temaer">
-<!ENTITY getPlugins.label                 "hent plugins">
+<!ENTITY getPlugins.label                 "Hent plugins">
 
 <!ENTITY searchAddons.label               "Søg i alle tilføjelser">
 <!ENTITY browseAddons.label               "Gennemse alle tilføjelser">
@@ -153,7 +154,7 @@
 <!ENTITY infoNoUpdateInfo.label           "Denne opdatering indeholder ingen yderligere information">
 <!ENTITY infoUpdateInfoError.label        "Der opstod en fejl under indlæsningen af information omkring denne opdatering">
 
-<!ENTITY updateSuccess.label              "Opdatering afsluttet succesfuldt.">
+<!ENTITY updateSuccess.label              "Opdatering blev afsluttet uden problemer.">
 <!ENTITY installSuccess.label             "Installationen blev fuldført.">
 <!ENTITY installSuccessRestart.label      "Genstart for at færdiggøre installationen.">
 <!ENTITY updateSuccessRestart.label      "Genstart for at færdiggøre opdateringen.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Accepter og installer…">
+
+<!ENTITY blocklist.blocked.label          "Blokeret">
+<!ENTITY blocklist.checkbox.label         "Deaktiver">
