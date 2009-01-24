@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label "Oblika">
 
 <!ENTITY orientation.label "Usmerjenost:">
-<!ENTITY portrait "Pokončno">
-<!ENTITY landscape "Ležeče">
+<!ENTITY portrait.label      "Pokončno">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Ležeče">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label "Merilo:">
+<!ENTITY scale.accesskey     "M">
 <!ENTITY scalePercent " &#037;">
 
 <!ENTITY shrinkToFit.label "Skrči, da bo ustrezalo širini strani">
+<!ENTITY shrinkToFit.accesskey "k">
 
 <!ENTITY optionsGroup.label "Možnosti">
 
 <!ENTITY printBG.label "Natisni ozadje (barve in slike)">
+<!ENTITY printBG.accesskey   "N">
 
 <!ENTITY advanced.tab "Robovi ter glava in noga">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches "palci">
 <!ENTITY marginUnits.metric "milimetri">
 <!ENTITY marginTop.label "Zgoraj:">
+<!ENTITY marginTop.accesskey "Z">
 <!ENTITY marginBottom.label "Spodaj:">
+<!ENTITY marginBottom.accesskey "S">
 <!ENTITY marginLeft.label "Levo:">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label "Desno:">
+<!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label "Glave in noge">
 
