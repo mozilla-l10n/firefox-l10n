@@ -1,6 +1,5 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; не запам’ятовуватиме історію цього сеансу.">
 
-<!-- FIXME: localize -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
