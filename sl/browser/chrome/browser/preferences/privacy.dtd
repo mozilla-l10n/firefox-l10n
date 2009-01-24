@@ -1,11 +1,19 @@
 <!ENTITY history.label "Zgodovina">
+
+<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "History and Bookmarks">
+<!ENTITY  locbar.history.label          "History">
+<!ENTITY  locbar.bookmarks.label        "Bookmarks">
+<!ENTITY  locbar.nothing.label          "Nothing">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-
 <!ENTITY rememberDaysBefore.label "Obdrži zgodovino vsaj">
 <!ENTITY rememberDaysBefore.accesskey "z">
 <!ENTITY rememberDaysAfter2.label "dni">
@@ -44,12 +52,8 @@
 <!ENTITY alwaysClear.label "Vselej počisti zasebne podatke, ko se zapre &brandShortName;">
 <!ENTITY alwaysClear.accesskey "v">
 
-<!ENTITY askBeforeClear.label "Vprašaj me pred čiščenjem zasebnih podatkov">
-<!ENTITY askBeforeClear.accesskey "P">
-
 <!ENTITY clearDataSettings.label "Nastavitve ...">
 <!ENTITY clearDataSettings.accesskey "n">
 
 <!ENTITY clearDataNow.label "Počisti zdaj ...">
-<!ENTITY clearDataNow.label2 "Počisti zdaj">
 <!ENTITY clearDataNow.accesskey "Z">

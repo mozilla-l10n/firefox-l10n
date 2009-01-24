@@ -7,6 +7,7 @@
 <!ENTITY aboutVersion "različice">
 <!ENTITY closeCmdGNOME.label        "Zapri">  
 <!ENTITY closeCmdGNOME.accesskey    "Z">
-<!ENTITY copyrightInfo "&#169;1998-2008 Sodelavci. Vse pravice pridržane. Firefox in 
-logotip Firefoxa sta blagovni znamki Mozilla Foundation.  Vse pravice 
-pridržane.">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Contributors. All rights reserved. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Licensing information">
+<!ENTITY copyrightInfo2             ").">
