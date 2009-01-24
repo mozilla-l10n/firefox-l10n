@@ -44,6 +44,6 @@
 <!ENTITY chooseFileLinkButton.accessKey "B">
 <!ENTITY makeUrlRelative.label "URL relatif terhadap lokasi halaman">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Untuk merubah URL relatif menjadi absolut atau sebaliknya, anda harus menyimpan halaman terlebih dahulu.">
+<!ENTITY makeUrlRelative.tooltip "Untuk merubah URL relatif menjadi absolut atau sebaliknya, Anda harus menyimpan halaman terlebih dahulu.">
 <!ENTITY LinkURLEditField.label "Masukkan lokasi halaman web, berkas lokal, atau pilih Penanda Bernama atau Penajuk dari daftar pada popup:">
 <!ENTITY LinkURLEditField.accessKey "D">

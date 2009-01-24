@@ -10,6 +10,6 @@
 <!ENTITY reportLanguage "Bahasa">
 <!ENTITY reportCharset "Charset">
 <!ENTITY reportEmail "Email">
-<!ENTITY error "Detil Kesalahan">
+<!ENTITY error "Detail Kesalahan">
 <!ENTITY faultCode "Kode Sumber">
 <!ENTITY faultMessage "Pesan">

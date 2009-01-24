@@ -26,7 +26,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "T">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "Otomatis unduh dan pasang versi baru">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "O">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Peringatkan jika akan mematikan pengaya yang terpasang">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Peringatkan jika Pengaya terpasang akan dimatikan">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "P">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Tampilkan Riwayat Versi Baru…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "T">

@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY devmgr.title "Pengelola Perangkat">
 <!ENTITY devmgr.devlist.label "Modul dan Perangkat Keamanan">
-<!ENTITY devmgr.details.title "Detil">
+<!ENTITY devmgr.details.title "Detail">
 <!ENTITY devmgr.details.title2 "Nilai">
 <!ENTITY devmgr.status.label "Status">
 <!ENTITY devmgr.version.label "Versi">

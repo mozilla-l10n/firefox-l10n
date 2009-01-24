@@ -4,7 +4,7 @@
 <!ENTITY useCursorNavigation.accesskey "s">
 <!ENTITY searchStartTyping.label "Mulai pencarian sejak diketikkan">
 <!ENTITY searchStartTyping.accesskey "k">
-<!ENTITY blockAutoRefresh.label "Peringatkan saya jika situs web mencoba mengalihkan atau memuat ulang halaman">
+<!ENTITY blockAutoRefresh.label "Peringatkan jika situs web mencoba mengalihkan atau memuat ulang halaman">
 <!ENTITY blockAutoRefresh.accesskey "b">
 <!ENTITY browsing.label "Jelajah Web">
 <!ENTITY useAutoScroll.label "Gunakan penggeseran otomatis">

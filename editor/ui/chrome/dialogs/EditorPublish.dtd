@@ -78,16 +78,16 @@
 <!ENTITY siteName.tooltip "Nama alias (nick) untuk mengenali situs penerbitan ini (contoh: 'Situsku')">
 <!ENTITY siteUrl.label "Alamat penerbitan (contoh: 'ftp://ftp.myisp.com/namapengguna'):">
 <!ENTITY siteUrl.accesskey "a">
-<!ENTITY siteUrl.tooltip "Alamat FTP:// atau HTTP:// yang disediakan oleh ISP atau layanan hosting web anda">
-<!ENTITY browseUrl.label "Alamat HTTP untuk beranda anda (contoh: 'http://http.myisp.com/namapengguna'):">
+<!ENTITY siteUrl.tooltip "Alamat FTP:// atau HTTP:// yang disediakan oleh ISP atau layanan hosting web Anda">
+<!ENTITY browseUrl.label "Alamat HTTP untuk beranda Anda (contoh: 'http://http.myisp.com/namapengguna'):">
 <!ENTITY browseUrl.accesskey "T">
-<!ENTITY browseUrl.tooltip "Alamat HTTP:// untuk direktori home anda (jangan sertakan nama berkas)">
+<!ENTITY browseUrl.tooltip "Alamat HTTP:// untuk direktori home Anda (jangan sertakan nama berkas)">
 <!ENTITY username.label "Nama pengguna:">
 <!ENTITY username.accesskey "N">
-<!ENTITY username.tooltip "Nama pengguna yang anda gunakan untuk log-masuk ke ISP anda atau layanan hosting web">
+<!ENTITY username.tooltip "Nama pengguna yang Anda gunakan untuk log-masuk ke ISP Anda atau layanan hosting web">
 <!ENTITY password.label "Kata Sandi:">
 <!ENTITY password.accesskey "K">
-<!ENTITY password.tooltip "Kata sandi yang bersesuaian dengan nama pengguna anda">
+<!ENTITY password.tooltip "Kata sandi yang bersesuaian dengan nama pengguna Anda">
 <!ENTITY savePassword.label "Simpan Kata Sandi">
 <!ENTITY savePassword.accesskey "S">
-<!ENTITY savePassword.tooltip "Aktifkan pilihan ini untuk menyimpan kata sandi anda secara aman dengan Pengelola Kata Sandi">
+<!ENTITY savePassword.tooltip "Aktifkan pilihan ini untuk menyimpan kata sandi Anda secara aman dengan Pengelola Kata Sandi">
