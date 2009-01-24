@@ -1,4 +1,4 @@
-60730
+60860
 A/U.||--
 ADN/L'D'
 ADSL/L'
@@ -16,6 +16,7 @@ Acapulco/D'QuQqQpQl
 Accra/D'QuQqQpQl
 Achgabat/D'QuQqQpQl
 Achille/D'QuQqQpQl
+Aconcagua/L'
 Adam/L'D'QuQqQpQl
 Addis-Abeba/D'QuQqQpQl
 Adelbert/D'QuQqQpQl
@@ -34,6 +35,7 @@ Agatha/D'QuQqQpQl
 Agathe/D'QuQqQpQl
 Agde/D'QuQqQpQl
 Agen/D'QuQqQpQl
+Aggée/D'QuQqQpQl
 Aglaë/D'QuQqQpQl
 Agnès/D'QuQqQpQl
 Ah/||--
@@ -61,6 +63,7 @@ Albi/D'QuQqQpQl
 Albret/D'QuQqQpQl
 Alembert/D'QuQqQpQl
 Alençon/D'QuQqQpQl
+Alex/D'QuQqQpQl
 Alexandre/D'QuQqQpQl
 Alexandrie/D'QuQqQpQl
 Alexia/D'QuQqQpQl
@@ -81,6 +84,7 @@ Allemagne/L'D'
 Alleur/D'QuQqQpQl
 Allier/L'
 Alma/D'QuQqQpQl
+Almaty/D'QuQqQpQl
 Alost/D'QuQqQpQl
 Alpes
 Alpes-Maritimes
@@ -99,6 +103,7 @@ Amblève/L'D'
 Ambroise/D'QuQqQpQl
 Amiens/D'QuQqQpQl
 Amman/D'QuQqQpQl
+Amos/D'QuQqQpQl
 Amsterdam/D'QuQqQpQl
 Amédée/D'QuQqQpQl
 Amélie/D'QuQqQpQl
@@ -131,6 +136,7 @@ Anjou/L'D'
 Ankara/D'QuQqQpQl
 Annabelle/D'QuQqQpQl
 Anne/D'QuQqQpQl
+Anne-Marie/D'QuQqQpQl
 Annecy/D'QuQqQpQl
 Annemasse/D'QuQqQpQl
 Annick/D'QuQqQpQl
@@ -305,6 +311,7 @@ Barnabé
 Barnard
 Barthélemy
 Barthélémy
+Baruch
 Bas-Rhin
 Bas-Saint-Laurent
 Basile
@@ -556,12 +563,14 @@ Caroline
 Carpates
 Carpentras
 Carroll
+Carstensz
 Cartan
 Carthage
 Casablanca
 Casimir
 Caspienne
 Cassandre
+Cassiopée
 Castille
 Castres
 Catherine
@@ -638,6 +647,7 @@ Choisy-le-Roi
 Choleski
 Cholet
 Chopin
+Christelle
 Christian
 Christiane
 Christie
@@ -772,6 +782,7 @@ Dallas
 Damas
 Damien
 Dammarie-les-Lys
+Danaé
 Danemark
 Daniel
 Danielle
@@ -806,8 +817,10 @@ Desargues
 Descartes
 Despina
 Detroit
+Deucalion
 Deuil-la-Barre
 Deuring
+Deutéronome
 Deux-Sèvres
 Dhabi
 Diane
@@ -874,6 +887,7 @@ Duval
 Dynkin
 Dysnomie
 Décines-Charpieu
+Déimos
 Démocrite
 Déméter
 Dévoluy
@@ -891,6 +905,7 @@ Einstein/D'QuQqQpQl
 Eio/||--
 Eisenbud/D'
 Eisenstein/D'
+Elbrouz/L'
 Elohim/D'QuQqQpQl
 Elsa/D'QuQqQpQl
 Emma/D'QuQqQpQl
@@ -904,6 +919,7 @@ Ermont/D'QuQqQpQl
 Ernest/D'QuQqQpQl
 Escaut/L'
 Esculape/D'QuQqQpQl
+Esdras/D'QuQqQpQl
 Esméralda/D'QuQqQpQl
 Esneux/D'QuQqQpQl
 Espagne/L'D'
@@ -925,7 +941,8 @@ Eure/L'D'
 Eure-et-Loire/L'D'
 Eurogroupe/L'
 Europe/L'D'
-Eveline/D'QuQqQpQl
+Eurydice/D'QuQqQpQl
+Everest/L'
 Evergem/D'QuQqQpQl
 Evrard/D'QuQqQpQl
 Exbrayat/D'QuQqQpQl
@@ -1075,6 +1092,7 @@ Gaétan
 Gaël
 Gaëlle
 Gaëtan
+Gaïa
 Gbit/||--
 Gdansk
 Geel
@@ -1188,6 +1206,7 @@ Göring
 H/U.||--
 HIV
 Haar
+Habaquq/D'QuQqQpQl
 Habib/D'
 Hadamard
 Hadrien/D'QuQqQpQl
@@ -1238,6 +1257,7 @@ Haye
 Hazebrouck
 Haïderabad/D'
 Haïti/D'
+Heaviside
 Hecke
 Heisenberg/D'
 Heist-op-den-Berg
@@ -1260,11 +1280,13 @@ Hesbaye
 Hespéride/S*()
 Hesse
 Hessenberg
+Hestia/D'QuQqQpQl
 Heusden-Zolder
 Hg
 Higgs
 Hilbert
 Hilton
+Himalaya/L'
 Hippocrate/D'QuQqQpQl
 Hippolyte/D'QuQqQpQl
 Hiroshima/D'
@@ -1306,9 +1328,11 @@ Hypérion/D'QuQqQpQl
 Hyères
 Hz/U.||--
 Händel/D'
+Hécate/D'QuQqQpQl
 Héliopolis/D'QuQqQpQl
 Hélène/D'QuQqQpQl
 Hénin-Beaumont
+Hénoch/D'QuQqQpQl
 Héphaïstos/D'QuQqQpQl
 Héra/D'QuQqQpQl
 Héraclite/D'QuQqQpQl
@@ -1356,6 +1380,7 @@ Irène/D'QuQqQpQl
 Irénée/D'QuQqQpQl
 Isaac/D'QuQqQpQl
 Isabelle/D'QuQqQpQl
+Isaïe/D'QuQqQpQl
 Ishtar/D'QuQqQpQl
 Isidore/D'QuQqQpQl
 Ising/D'
@@ -1404,24 +1429,33 @@ Java
 Jean
 Jean-Baptiste
 Jean-Charles
+Jean-Christophe
 Jean-Claude
 Jean-François
 Jean-Jacques
 Jean-Louis
+Jean-Luc
+Jean-Marc
 Jean-Marie
+Jean-Michel
+Jean-Noël
 Jean-Paul
 Jean-Philippe
 Jean-Pierre
+Jean-Yves
 Jeanne
 Jeannette
+Jeannine
 Jemappes
 Jensen
 Jessica
+Jocelyne
 Joconde
 Jocrisse
 Joffo
 Johannesbourg
 John
+Jonas
 Jordan
 Jordanie
 Jorge
@@ -1429,6 +1463,7 @@ Joseph
 Josephson
 Josette
 Josiane
+Josué
 Josèphe
 José
 Josée
@@ -1493,6 +1528,7 @@ Khrouchtchev
 Kibit/||--
 Kiev
 Kigali
+Kilimandjaro
 Killing
 King
 Kingston
@@ -1517,6 +1553,7 @@ Kolmogorov
 Kong
 Konya
 Korteweg
+Kosciuszko
 Kosovo
 Kouibychev
 Kovalevskaya
@@ -1567,6 +1604,7 @@ Laure
 Laurence
 Laurent
 Laurentides
+Laurette
 Laurine
 Lausanne
 Laval
@@ -1666,6 +1704,7 @@ Luanda
 Lubéron
 Luc
 Lucerne
+Lucette
 Lucie
 Lucien
 Lucifer
@@ -1696,6 +1735,7 @@ Léonidas
 Léonie
 Léopold
 Lévis
+Lévitique
 Lévy
 MM
 MST
@@ -1707,7 +1747,6 @@ Macaulay
 Macdonald
 Mach
 Machhad
-Macintosh
 Maclaurin
 Madagascar
 Madeleine
@@ -1725,6 +1764,7 @@ Maine-et-Loire
 Maisons-Alfort
 Maisons-Laffitte
 Malabo
+Malachie
 Malaisie
 Malakoff
 Malawi
@@ -1760,11 +1800,16 @@ Marianne
 Marie
 Marie-Antoinette
 Marie-Chantal
+Marie-Christine
 Marie-Claire
 Marie-Claude
 Marie-France
+Marie-Françoise
+Marie-Hélène
 Marie-Laure
 Marie-Madeleine
+Marie-Pierre
+Marie-Thérèse
 Marie-couche-toi-là
 Mariette
 Marignane
@@ -1799,10 +1844,12 @@ Massy
 Mathias
 Mathieu
 Mathilde
+Matthieu
 Maubeuge
 Maupassant
 Maure/S.
 Maurice
+Mauricette
 Mauricie
 Mauritanie
 Maxime
@@ -1812,6 +1859,7 @@ Mayotte
 Maïwen
 Maïwenn
 Mbit/||--
+McKinley
 Me
 Meaux
 Mecque
@@ -1838,6 +1886,7 @@ Mexico
 Mexique
 Meyzieu
 Mgr
+Miami
 Mibit/||--
 Michael
 Michaël
@@ -1845,6 +1894,7 @@ Michel
 Michelle
 Michigan
 Michèle
+Michée
 Micronésie
 Midgard
 Midi-Pyrénées
@@ -1962,6 +2012,7 @@ Nadège
 Nagata
 Nagoya
 Nagy
+Nahoum
 Naimark
 Nairobi
 Nakayama
@@ -2048,6 +2099,7 @@ Nunavik
 Nuremberg
 Nyons
 Néguev
+Néhémie
 Némésis
 Népal
 Néron
@@ -2181,6 +2233,7 @@ Philippeville
 Philippines
 Philomène
 Phnom
+Phobos
 Phragmen
 Phœbé
 Pibit/||--
@@ -2304,6 +2357,7 @@ Reine
 Reiten
 Rellich
 Renaix
+Renaud
 Rennes
 René
 Renée
@@ -2390,10 +2444,12 @@ Rueil-Malmaison
 Ruffin
 Runge-Kutta
 Russie/S.
+Ruth
 Rutishauser
 Rwanda
 Râ
 Râmâyana
+Régine
 Rémi
 Rémus
 Réunion
@@ -2599,6 +2655,7 @@ Somalie
 Somme
 Sommerfeld
 Sophie
+Sophonie
 Sorbonne
 Sorel-Tracy
 Sotteville-lès-Rouen
@@ -2742,6 +2799,7 @@ Théodore
 Théophile
 Thérèse
 Thésée
+Tibet
 Tibit/||--
 Tientsin
 Tiers-Monde
@@ -2754,6 +2812,7 @@ Tirlemont
 Titania
 Titchmarsh
 To/||--
+Tobie
 Toda
 Todd
 Toeplitz
@@ -2824,7 +2883,6 @@ Ulysse/D'QuQqQpQl
 Umbriel/D'QuQqQpQl
 Ungava/L'D'
 Unicode/L'
-Unix
 Uranus/D'QuQqQpQl
 Urbain/D'QuQqQpQl
 Uri/L'D'
@@ -3017,6 +3075,7 @@ Yahweh
 Yamabe
 Yamoussoukro
 Yann
+Yannick
 Yaoundé
 Ybit/||--
 Yerres/D'QuQqQpQl
@@ -3040,6 +3099,7 @@ Yvette/D'QuQqQpQl
 Yvon/D'QuQqQpQl
 Yvonne/D'QuQqQpQl
 Yémen
+Zacharie
 Zagreb
 Zambie
 Zarathoustra
@@ -4165,6 +4225,7 @@ afocale/W*()
 africaine/F*()
 africanisation/S*()
 africaniser/a4a+()
+africanisme/S*()
 africaniste/S*()
 africanisée/F*()
 afrikaans/L'D'
@@ -5473,6 +5534,7 @@ anomie/S*()
 anonymat/S*()
 anonyme/S*()
 anonymement/QuQqQpQl
+anonymiser/a4a+()
 anophèle/S*()
 anorak/S*()
 anordir/f1()
@@ -6138,6 +6200,7 @@ arabique/S*()
 arabisante/F*()
 arabisation/S*()
 arabiser/a4a+()
+arabisme/S*()
 arabisée/F*()
 arable/S*()
 arabophone/S*()
@@ -7028,6 +7091,7 @@ atterrie/F*()
 atterrir/f1f+()
 atterrissage/S*()
 atterrissement/S*()
+atterrisseur/S*()
 atterrée/F*()
 attestation/S*()
 attester/a2a+()
@@ -7312,6 +7376,7 @@ autogène/S*()
 autogérée/F*()
 automate/S*()
 automaticienne/F*()
+automaticité/S*()
 automation/S*()
 automatique/S*()
 automatiquement/QuQqQpQl
@@ -7338,6 +7403,7 @@ autoneige/S*()
 autonettoyante/F*()
 autonome/S*()
 autonomie/S*()
+autonomisme/S*()
 autonomiste/S*()
 autonyme/S*()
 autoplastie/S*()
@@ -7729,7 +7795,6 @@ bacillaire/S.
 bacille/S.
 bacilliforme/S.
 bacillose/S.
-backup/S.
 bacon
 bactéricide/S.
 bactéridie/S.
@@ -9909,6 +9974,7 @@ bredouiller/a0a+()
 bredouilleuse/F.()
 bredouillis
 bredouillée/F.()
+breffage/S.
 brelan/S.
 brelle/S.
 breller/a0a+()
@@ -13255,7 +13321,7 @@ clairsemée/F.()
 clairvoyance/S.
 clairvoyante/F.()
 clam/S.
-clamecer/b0()
+clamecer/b0a+()
 clamer/a0a+()
 clameur/S.
 clamp/S.
@@ -16391,6 +16457,7 @@ culture/S.
 culturelle/F.()
 culturellement
 culturisme/S.
+culturiste/S.
 culée/S.
 cumin/S.
 cumul/S.
@@ -17345,6 +17412,7 @@ dicton/S.
 dictée/F.()
 dictée/S.
 didacticiel/S.
+didacticienne/F.()
 didactique/S.
 didactiquement
 didactisme/S.
@@ -17593,7 +17661,9 @@ disco/S.
 discobole/S.
 discographie/S.
 discographique/S.
+discompte/S.
 discompter/a0a+()
+discompteuse/F.()
 discontacteur/S.
 discontinue/F.()
 discontinuer
@@ -18628,6 +18698,7 @@ débrouillement/S.
 débrouiller/a0a+()
 débroussaillement/S.
 débroussailler/a0a+()
+débroussailleuse/F.()
 débroussaillée/F.()
 débrousser/a0a+()
 débrôler/a0a+()
@@ -18988,6 +19059,7 @@ déconstruisante/F.()
 déconstruite/F.()
 décontamination/S.
 décontaminer/a0a+()
+décontamineur/S.
 décontaminée/F.()
 décontenancer/a0a+()
 décontenancée/F.()
@@ -19199,7 +19271,7 @@ défenestrer/a0a+()
 défenestrée/F.()
 défens
 défense/S.
-défenseur/S.
+défenseure/F.()
 défensive/F.()
 défensivement
 déferlante/F.()
@@ -19293,6 +19365,7 @@ défonçage/S.
 déforcer/a0a+()
 déforestation/S.
 déformable/S.
+déformage/S.
 déformante/F.()
 déformation/S.
 déformatrice/F.()
@@ -19724,6 +19797,7 @@ démission/S.
 démissionnaire/S.
 démissionner/a0()
 démiurge/S.
+démixtion/S.
 démobilisable/S.
 démobilisation/S.
 démobilisatrice/F.()
@@ -20168,6 +20242,7 @@ dérisoirement
 dérivabilité/S.
 dérivable/S.
 dérivante/F.()
+dérivateur/S.
 dérivation/S.
 dérivative/F.()
 dérive/S.
@@ -20291,8 +20366,10 @@ désaltérer/c0a+()
 désaltérée/F.()
 désamarrer/a0a+()
 désamarrée/F.()
+désambiguïsation/S.
 désambiguïser/a0a+()
 désambiguïsée/F.()
+désambigüisation/S.
 désambigüiser/a0a+()
 désambigüisée/F.()
 désamianter/a0a+()
@@ -20860,6 +20937,7 @@ eaux-fortes/D'
 ecballium/S*()
 ecchymose/S*()
 ecclésiale/W*()
+ecclésiaste/S*()
 ecclésiastique/S*()
 ecclésiologie/S*()
 eccéité/S*()
@@ -21565,7 +21643,7 @@ encocher/a2a+()
 encochée/F*()
 encodage/S*()
 encoder/a2a+()
-encodeur/S*()
+encodeuse/F*()
 encodée/F*()
 encoffrer/a2a+()
 encoffrée/F*()
@@ -22306,8 +22384,8 @@ entrepositaire/S*()
 entreposée/F*()
 entreprenante/F*()
 entreprendre/tF()
+entrepreneure/F*()
 entrepreneuriat/L'D'
-entrepreneuse/F*()
 entreprise/F*()
 entreprise/S*()
 entrepôt/S*()
@@ -22398,7 +22476,7 @@ envergure/S*()
 enverguée/F*()
 envergée/F*()
 envers/L'
-envers
+envers/QuQqQpQl
 envi/L'
 enviable/S*()
 enviander/a2a+()
@@ -22411,8 +22489,8 @@ envier/a2a+()
 envieuse/W*()
 envieusement/QuQqQpQl
 envinée/F*()
+environ/D'QuQqQpQl
 environ/S*()
-environ
 environnante/F*()
 environnement/S*()
 environnementale/W*()
@@ -22674,7 +22752,7 @@ essieu/X*()
 essor/S*()
 essorage/S*()
 essorer/a4a+()
-essoreuse/S*()
+essoreuse/F*()
 essoriller/a2a+()
 essorillée/F*()
 essorée/F*()
@@ -22831,6 +22909,7 @@ eugénol/S*()
 euh
 eulogie/S*()
 eulérienne/F*()
+eumélanine/S*()
 eunecte/S*()
 eunuque/S*()
 eupatoire/S*()
@@ -23311,10 +23390,10 @@ extra-terrestre/S*()
 extra-territorialité/S*()
 extraatmosphérique/S*()
 extracourant/S*()
-extracteur/S*()
 extractible/S*()
 extraction/S*()
 extractive/F*()
+extractrice/F*()
 extrader/a2a+()
 extradition/S*()
 extrados/L'D'
@@ -23360,6 +23439,7 @@ extrinsèquement/QuQqQpQl
 extrorse/S*()
 extrovertie/F*()
 extruder/a2a+()
+extrudeuse/F*()
 extrudée/F*()
 extrusion/S*()
 extrémale/W*()
@@ -23448,6 +23528,7 @@ faciale/W.()
 facile/S.
 facilement
 facilitation/S.
+facilitatrice/F.()
 faciliter/a0a+()
 facilitée/F.()
 faciès
@@ -24407,6 +24488,7 @@ flexibilité/S.
 flexible/S.
 flexion/S.
 flexionnelle/F.()
+flexographe/S.
 flexure/S.
 flibuste/S.
 flibuster/a0a+()
@@ -24446,6 +24528,7 @@ flore/S.
 florence/S.
 florentine/F.()
 floricole/S.
+floricultrice/F.()
 floriculture/S.
 florifère/S.
 florilège/S.
@@ -24630,6 +24713,7 @@ fonctionnarisation/S.
 fonctionnariser/a0a+()
 fonctionnarisme/S.
 fonctionnelle/F.()
+fonctionnellement
 fonctionnement/S.
 fonctionner/a0()
 fonctorialité/S.
@@ -26979,6 +27063,7 @@ grattoir/S.
 grattouiller/a0a+()
 gratture/S.
 grattée/F.()
+gratuiciel/S.
 gratuite/F.()
 gratuitement
 gratuité/S.
@@ -28282,11 +28367,10 @@ hiéroglyphique/S*()
 hiérogrammate/S*()
 hiérogrammatiste/S*()
 hiérophante/S*()
-hobbies/D'
 hobbies
-hobby/S*()
 hobby/S.
 hobby
+hobbyiste/S.
 hobereau/X.
 hoc
 hocco/S.
@@ -28748,7 +28832,8 @@ hydrographique/S*()
 hydrogène/S*()
 hydrogénation/S*()
 hydrogéner/c0a+()
-hydrogénocarbonate/L'D'
+hydrogénocarbonate/S*()
+hydrogénosulfure/S*()
 hydrogénée/F.()
 hydrogéologie/S*()
 hydrolase/S*()
@@ -28761,14 +28846,14 @@ hydrologue/S*()
 hydrolysable/S*()
 hydrolyse/S*()
 hydrolyser/a0a+()
-hydrolysée/F.()
+hydrolysée/F*()
 hydromancie/S*()
 hydromel/S*()
 hydrominérale/W*()
 hydromètre/S*()
 hydromécanique/S*()
 hydrométrie/S*()
-hydrométrique/S.
+hydrométrique/S*()
 hydrométéore/S*()
 hydronéphrose/S*()
 hydropathe/S*()
@@ -30991,6 +31076,7 @@ interdépendante/F*()
 interface/S*()
 interfacer/a2a+()
 interfacée/F*()
+interfaçage/S*()
 interfluve/S*()
 interfoliage/S*()
 interfolier/a2a+()
@@ -31901,6 +31987,7 @@ jeuner/a0()
 jeunesse/S.
 jeunette/F.()
 jeuneuse/F.()
+jeunisme/S.
 jeunotte/F.()
 jeûne/S.
 jeûner/a0()
@@ -33505,6 +33592,7 @@ logeuse/F.()
 loggia/S.
 logiciel/S.
 logicielle/F.()
+logiciellement
 logicienne/F.()
 logicisme/S.
 logico-mathématique/S.
@@ -33527,6 +33615,7 @@ logopédie/S.
 logopédiste/S.
 logorrhée/S.
 logos
+logotype/S.
 loguer/a0()
 logée/F.()
 loi/S.
@@ -34184,6 +34273,7 @@ magnésienne/F.()
 magnésite/S.
 magnésium
 magnétique/S.
+magnétiquement
 magnétisante/F.()
 magnétisation/S.
 magnétiser/a0a+()
@@ -34201,11 +34291,13 @@ magnétohydrodynamique/S.
 magnétomotrice/F.()
 magnétomètre/S.
 magnétométrie/S.
+magnétopause/S.
 magnétophone/S.
 magnétorésistance/S.
 magnétoscope/S.
 magnétoscoper/a0a+()
 magnétosphère/S.
+magnétosphérique/S.
 magnétostriction/S.
 magnétothermique/S.
 magnétoélasticité/S.
@@ -35490,6 +35582,8 @@ microphotographie/S.
 microphysique/S.
 microprocesseur/S.
 micropyle/S.
+microröntgen/S.
+microrœntgen/S.
 microscope/S.
 microscopie/S.
 microscopique/S.
@@ -35596,10 +35690,13 @@ millimétrée/F.()
 million/S.
 millionième/S.
 millionnaire/S.
+milliröntgen/S.
+millirœntgen/S.
 millithermie/S.
 millième/S.
 millénaire/S.
 millénarisme/S.
+millénariste/S.
 millénium/S.
 millépore/S.
 millésimale/W.()
@@ -36020,6 +36117,7 @@ molletonneuse/W.()
 molletonnée/F.()
 mollette/F.()
 mollir/f0f+()
+mollisol/S.
 mollo
 molluscum/S.
 mollusque/S.
@@ -39129,6 +39227,7 @@ orbitale/W*()
 orbitalement/QuQqQpQl
 orbite/S*()
 orbiter/a1()
+orbiteur/S*()
 orcanette/S*()
 orchestique/S*()
 orchestrale/W*()
@@ -40417,6 +40516,7 @@ partage/S.
 partageable/S.
 partager/a0a+()
 partageuse/F.()
+partagiciel/S.
 partagée/F.()
 partance/S.
 partante/F.()
@@ -40621,6 +40721,7 @@ pataquès
 patarasse/S.
 patard/S.
 patate/S.
+patatoïde/S.
 patatras
 pataude/F.()
 pataugeage/S.
@@ -41458,6 +41559,7 @@ phosphate/S.
 phosphater/a0a+()
 phosphaturie/S.
 phosphatée/F.()
+phosphine/S.
 phosphite/S.
 phospholipide/S.
 phosphore/S.
@@ -41580,6 +41682,7 @@ phylactère/S.
 phylarque/S.
 phyllade/S.
 phyllie/S.
+phyllosilicate/S.
 phylloxera/S.
 phylloxéra/S.
 phylloxérienne/F.()
@@ -41653,6 +41756,8 @@ phénoménologique/S.
 phénoménologue/S.
 phénotype/S.
 phénotypique/S.
+phéochromocytome/S.
+phéomélanine/S.
 phéophycée/S.
 phéromonale/W.()
 phéromone/S.
@@ -43960,6 +44065,7 @@ protagoniste/S.
 protase/S.
 prote/S.
 protection/S.
+protectionnelle/F.()
 protectionnisme/S.
 protectionniste/S.
 protectorat/S.
@@ -44846,6 +44952,7 @@ pythonisse/S.
 pyurie/S.
 pyxide/S.
 pyélite/S.
+pz/||--
 pâle/S.
 pâleur/S.
 pâlichonne/F.()
@@ -45261,6 +45368,7 @@ quadrille/S.
 quadriller/a0a+()
 quadrillion/S.
 quadrillée/F.()
+quadrilogie/S.
 quadrimoteur/S.
 quadripartie/F.()
 quadripartite/S.
@@ -46309,6 +46417,7 @@ rebouteux
 reboutonner/a0a+()
 reboutée/F.()
 rebraguetter/a0a+()
+rebrancher/a0a+()
 rebroder/a0a+()
 rebrousse-poil
 rebroussement/S.
@@ -47874,7 +47983,6 @@ rodomont/S.
 rodomontade/S.
 rodée/F.()
 rodéo/S.
-roentgenium/S.
 rogations
 rogatoire/S.
 rogatoirement
@@ -49174,8 +49282,13 @@ rôtisserie/S.
 rôtisseuse/F.()
 rôtissoire/S.
 röntgen/S.
+röntgenium/S.
+röntgenthérapie/S.
 rösti/S.
 rûter/a0()
+rœntgen/S.
+rœntgenium/S.
+rœntgenthérapie/S.
 rœsti/S.
 s/U.||--
 s
@@ -50877,6 +50990,7 @@ sistre/S.
 sisymbre/S.
 sit-in
 sitar/S.
+sitcom/S.
 site/S.
 sitogoniomètre/S.
 sittelle/S.
@@ -51610,6 +51724,7 @@ souscrire/y1()
 souscrite/F.()
 sousharmonique/S.
 soussignée/F.()
+soustracteur/S.
 soustraction/S.
 soustractive/F.()
 soustraire/wL()
@@ -51763,6 +51878,7 @@ sphérique/S.
 sphéromètre/S.
 sphéroïdale/W.()
 sphéroïde/S.
+sphérule/S.
 spider/S.
 spin
 spina-bifida
@@ -53504,8 +53620,8 @@ séméiologie/S.
 séméiotique/S.
 sénaire/S.
 sénat/S.
-sénateur/S.
 sénatoriale/W.()
+sénatrice/F.()
 sénescence/S.
 sénescente/F.()
 sénestre/S.
@@ -54776,8 +54892,10 @@ tissure/S.
 tissus-éponges
 tissée/F.()
 tistre/tU()
-titane/F.()
+titan/S.
+titane/S.
 titanesque/S.
+titanide/S.
 titanique/S.
 titi/S.
 titillation/S.
@@ -56355,6 +56473,7 @@ tuteurer/a0a+()
 tuthie/S.
 tutie/S.
 tutoiement/S.
+tutorale/F.()
 tutorat/S.
 tutoriel/S.
 tutoyer/a0a+()
@@ -58823,6 +58942,7 @@ zûner/a0()
 Étiennette/D'QuQqQpQl
 Éva/D'QuQqQpQl
 Évariste/D'QuQqQpQl
+Éveline/D'QuQqQpQl
 Évreux/D'QuQqQpQl
 Évry/D'QuQqQpQl
 Ézéchiel/D'QuQqQpQl
@@ -58902,7 +59022,7 @@ zûner/a0()
 éborgnée/F*()
 ébosser/a2a+()
 ébouer/a2a+()
-éboueur/S*()
+éboueuse/F*()
 ébouillantage/S*()
 ébouillanter/a4a+()
 ébouillantée/F*()
@@ -59781,6 +59901,7 @@ zûner/a0()
 énergiquement/QuQqQpQl
 énergisante/F*()
 énergumène/S*()
+énergéticienne/F*()
 énergétique/S*()
 énergétisme/S*()
 énervante/F*()
@@ -60188,6 +60309,7 @@ zûner/a0()
 équipartition/S*()
 équipe/S*()
 équipement/S*()
+équipementière/F*()
 équiper/a4a+()
 équipière/F*()
 équipollence/S*()
@@ -60729,3 +60851,11 @@ zûner/a0()
 œuvrette/S*()
 œuvée/F*()
 Ω/U.||--
+fussé
+eussé
+puissé
+pussé
+fussè
+eussè
+puissè
+pussè
