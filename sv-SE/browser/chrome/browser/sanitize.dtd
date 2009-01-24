@@ -36,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey   "h">
 <!ENTITY itemActiveLogins.label       "Aktiva inloggningar">
 <!ENTITY itemActiveLogins.accesskey   "A">
+<!ENTITY itemSiteSettings.label       "Platsspecifika inställningar">
+<!ENTITY itemSiteSettings.accesskey   "P">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">
