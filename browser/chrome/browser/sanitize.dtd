@@ -28,6 +28,8 @@
 <!ENTITY itemDownloadList.accesskey "U">
 <!ENTITY itemActiveLogins.label "Log-Masuk Aktif">
 <!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemSiteSettings.label "Pengaturan Khusus Per-Situs">
+<!ENTITY itemSiteSettings.accesskey "K">
 <!ENTITY window.width "34em">
 <!ENTITY column.width "18em">
 
