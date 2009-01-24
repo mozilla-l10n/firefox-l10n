@@ -63,6 +63,8 @@
 <!ENTITY retentionKeepNew.accesskey "o">
 <!ENTITY retentionKeepUnread.label "Zawsze usuwaj przeczytane wiadomości">
 <!ENTITY retentionKeepUnread.accesskey "u">
+<!ENTITY retentionApplyToFlagged.label "Zawsze przechowuj oznaczone wiadomości">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderOfflineTab.label "Tryb offline">
 <!ENTITY folderCheckForNewMessages.label "Sprawdzaj, czy są dostępne nowe wiadomości dla tego folderu">

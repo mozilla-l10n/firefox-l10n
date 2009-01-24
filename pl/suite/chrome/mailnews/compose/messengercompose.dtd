@@ -81,9 +81,9 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "W">
 
-<!ENTITY checkSpellingCmd.label "Sprawdź pisownię…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "r">
+<!ENTITY checkSpellingCmd2.label "Sprawdź pisownię…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 

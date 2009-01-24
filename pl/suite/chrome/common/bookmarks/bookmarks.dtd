@@ -116,5 +116,5 @@
 
 <!ENTITY bookmarksWindowTitle.label "Menedżer zakładek">
 
-<!ENTITY search.label "Szukaj">
-<!ENTITY search.accesskey "S">
+<!ENTITY search.emptytext "Szukaj w zakładkach">
+<!ENTITY search.key "f">

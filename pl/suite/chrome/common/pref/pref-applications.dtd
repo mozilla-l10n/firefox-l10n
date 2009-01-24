@@ -6,5 +6,4 @@
 <!ENTITY actionColumn2.label "Czynność">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY filter.label "Szukaj:">
-<!ENTITY filter.accesskey "S">
+<!ENTITY search.emptytext "Sposoby wyszukiwania">

@@ -2,9 +2,15 @@
 
 <!ENTITY pref.history.caption "Przeglądanie historii">
 <!ENTITY historyPages.label "Informacje o wszystkich odwiedzonych przez użytkownika stronach WWW zapisywane są w Historii, co umożliwia wyświetlanie ich w trybie offline.">
-<!ENTITY pageHis.label "SeaMonkey zapamięta strony odwiedzone w ciągu ostatnich">
-<!ENTITY pageHis.accesskey "p">
-<!ENTITY days.label "dni.">
+<!ENTITY expireDaysMin1.label "Zawsze pamiętaj odwiedzone strony przez minimum">
+<!ENTITY expireDaysMin1.accesskey "R">
+<!ENTITY expireDaysMin2.label "dni">
+<!ENTITY expireDays1.label "Pamiętaj odwiedzone strony przez maksymalnie">
+<!ENTITY expireDays1.accesskey "e">
+<!ENTITY expireDays2.label "dni">
+<!ENTITY expireSites1.label "Zapamiętaj maksymalnie">
+<!ENTITY expireSites1.accesskey "m">
+<!ENTITY expireSites2.label "odwiedzonych stron">
 <!ENTITY clearHistory.label "Wyczyść historię">
 <!ENTITY clearHistory.accesskey "h">
 

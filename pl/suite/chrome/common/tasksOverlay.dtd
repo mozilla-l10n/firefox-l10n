@@ -12,6 +12,7 @@
 
 <!ENTITY errorConsoleCmd.label "Konsola błędów">
 <!ENTITY errorConsoleCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY taskNavigator.tooltip "Przeglądarka">
 <!ENTITY taskComposer.tooltip "Kompozytor Stron">
@@ -24,6 +25,15 @@
 
 <!ENTITY tasksMenu.label "Narzędzia">
 <!ENTITY tasksMenu.accesskey "N">
+
+<!ENTITY passwordManagerCmd.label "Menedżer haseł">
+<!ENTITY passwordManagerCmd.accesskey "P">
+
+<!ENTITY passwordDisplayCmd.label "Zarządzaj zapamiętanymi hasłami">
+<!ENTITY passwordDisplayCmd.accesskey "M">
+
+<!ENTITY passwordExpireCmd.label "Wyloguj">
+<!ENTITY passwordExpireCmd.accesskey "l">
 
 <!ENTITY downloadManagerCmd.label "Menedżer pobierania plików">
 <!ENTITY downloadManagerCmd.accesskey "b">

@@ -56,8 +56,10 @@
 <!ENTITY originalWebsite.label "Witryna: ">
 
 <!ENTITY editMessage.label "Edytuj szkic…">
+<!ENTITY editMessage.accesskey "D">
 
 <!ENTITY attachmentsTree.label "Załączniki:">
+<!ENTITY attachmentsTree.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Otwórz">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY viewAttachmentCmd.label "Pokaż źródło załącznika">

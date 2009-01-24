@@ -9,6 +9,14 @@
 <!ENTITY autoCompleteShowPopup.accesskey "S">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Uwzględniaj tylko adresy, które zostały wpisane ręcznie">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "M">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Wyłącznie w adresach (bez tytułów stron)">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
+<!ENTITY autoCompleteMatch.label "Szukaj">
+<!ENTITY autoCompleteMatch.accesskey "w">
+<!ENTITY autoCompleteMatchAnywhere "Gdziekolwiek w adresie bądź tytule">
+<!ENTITY autoCompleteMatchWordsFirst "Gdziekolwiek, preferuj ale granice słów">
+<!ENTITY autoCompleteMatchWords "Wyłącznie na granicach słów">
+<!ENTITY autoCompleteMatchStart "Wyłącznie na początku adresu bądź tytułu">
 
 <!ENTITY searchEngine.label "Wyszukiwarka internetowa">
 <!ENTITY showSearchEngine.label "Wyświetl domyślną wyszukiwarkę internetową">
