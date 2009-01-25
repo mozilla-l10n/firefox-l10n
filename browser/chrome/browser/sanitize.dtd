@@ -5,6 +5,7 @@
 <!ENTITY clearDataSettings2.label "Při ukončení aplikace &brandShortName; vymazat automaticky následující:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
 <!ENTITY clearDuration.label "Odstranit ">
 <!ENTITY clearDuration.accesskey "O">
 <!ENTITY clearDuration.lastHour "poslední hodinu">
@@ -35,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey "S">
 <!ENTITY itemActiveLogins.label "Aktivní přihlášení">
 <!ENTITY itemActiveLogins.accesskey "A">
+<!ENTITY itemSiteSettings.label "Nastavení stránek serveru">
+<!ENTITY itemSiteSettings.accesskey "N">
 
 <!ENTITY window.width "30em">
 <!ENTITY column.width "14em">

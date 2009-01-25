@@ -57,14 +57,16 @@
 <!ENTITY originalWebsite.label "Webový server:">
 
 <!ENTITY editMessage.label "Upravit rozepsané…">
+<!ENTITY editMessage.accesskey "U">
 
 <!ENTITY attachmentsTree.label "Přílohy:">
+<!ENTITY attachmentsTree.accesskey "P">
 <!ENTITY openAttachmentCmd.label "Otevřít">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY viewAttachmentCmd.label "Zobrazit zdrojový kód">
 <!ENTITY viewAttachmentCmd.accesskey "V">
 <!ENTITY saveAsAttachmentCmd.label "Uložit jako…">
-<!ENTITY saveAsAttachmentCmd.accesskey "J">
+<!ENTITY saveAsAttachmentCmd.accesskey "j">
 <!ENTITY detachAttachmentCmd.label "Vyčlenit…">
 <!ENTITY detachAttachmentCmd.accesskey "o">
 <!ENTITY deleteAttachmentCmd.label "Smazat">

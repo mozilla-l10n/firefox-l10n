@@ -37,19 +37,24 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurances of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
 <!ENTITY importDialog.windowTitle "Importovat">
-<!ENTITY importDialog.allTitle "Importovat vše">
-<!ENTITY importDialog.mailTitle "Pošta">
-<!ENTITY importDialog.addressbookTitle "Kontakty">
-<!ENTITY importDialog.settingsTitle "Nastavení">
-<!ENTITY importDialog.filtersTitle "Filtry">
+<!ENTITY importAll.label "Importovat vše">
+<!ENTITY importAll.accesskey "v">
+<!ENTITY importMail.label "Pošta">
+<!ENTITY importMail.accesskey "P">
+<!ENTITY importAddressbook.label "Kontakty">
+<!ENTITY importAddressbook.accesskey "K">
+<!ENTITY importSettings.label "Nastavení">
+<!ENTITY importSettings.accesskey "N">
+<!ENTITY importFilters.label "Filtry">
+<!ENTITY importFilters.accesskey "F">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
@@ -60,7 +65,8 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importDescription1.label "Tento průvodce naimportuje poštovní zprávy, kontakty, předvolby a filtry z ostatních poštovních programů nebo adresářů v obecném formátu do aplikace &brandShortName;.">
 <!ENTITY importDescription2.label "K naimportovaným položkám pak můžete přistupovat přímo z aplikace &brandShortName;.">
 
-<!ENTITY selectDescription.label "Prosím vyberte typ souboru, ze kterého chcete importovat:">
+<!ENTITY selectDescription.label "Vyberte prosím typ souboru, ze kterého chcete importovat:">
+<!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label "&lt; Zpět">
 <!ENTITY forward.label "Další &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x má u každého kontaktu pouze jednu poštovní adresu, zatímco &brandShortName; má dvě (Osobní a Pracovní).">
 <!ENTITY FieldDiscInputText2.label "Vyberte kategorii, ve které chcete uložit načtené poštovní adresy:">
 <!ENTITY FieldDiscWarning.label "Tato kategorie bude použita pro všechny záznamy z vybraných kontaktů: ">
-<!ENTITY importDialog.homeTitle "Bydliště">
-<!ENTITY importDialog.workTitle "Zaměstnání">
+<!ENTITY importHome.label "Doma">
+<!ENTITY importHome.accesskey "D">
+<!ENTITY importWork.label "Práce">
+<!ENTITY importWork.accesskey "P">

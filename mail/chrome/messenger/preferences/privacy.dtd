@@ -29,15 +29,13 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro "Aplikace &brandShortName; si může pamatovat vaše přihlašovací údaje pro jednotlivé účty, takže je nebudete muset znovu zadávat.">
-<!ENTITY encryptEnabled.label "Při ukládání hesel k poštovním účtům používat šifrování.">
-<!ENTITY encryptEnabled.accesskey "P">
+<!ENTITY useMasterPassword.label "Použít hlavní heslo">
+<!ENTITY useMasterPassword.accesskey "h">
 <!ENTITY masterPassword.intro "Hlavní heslo, je-li nastaveno, chrání všechna vaše ostatní hesla. Jeho vložení je ale vyžadováno jednou během relace.">
-<!ENTITY setMasterPassword.label "Hlavní heslo">
-<!ENTITY setMasterPassword.accesskey "H">
-<!ENTITY removeMasterPassword.label "Odstranit hlavní heslo…">
-<!ENTITY removeMasterPassword.accesskey "O">
-<!ENTITY editPasswords.label "Správce hesel…">
-<!ENTITY editPasswords.accesskey "S">
+<!ENTITY changeMasterPassword.label "Změnit hlavní heslo…">
+<!ENTITY changeMasterPassword.accesskey "m">
+<!ENTITY savedPasswords.label "Zobrazit hesla…">
+<!ENTITY savedPasswords.accesskey "h">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro "Aplikace &brandShortName; může antivirovým programům umožnit analyzování zpráv příchozí pošty na výskyt virů ještě dříve, než jsou tyto zprávy uloženy do složek pošty.">

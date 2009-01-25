@@ -33,3 +33,5 @@
 <!ENTITY policies.label "Zabezpečení">
 <!ENTITY mousewheel.label "Kolečko myši">
 <!ENTITY scriptsAndWindows.label "Skripty a moduly">
+
+<!ENTITY focusSearch.key "f">
