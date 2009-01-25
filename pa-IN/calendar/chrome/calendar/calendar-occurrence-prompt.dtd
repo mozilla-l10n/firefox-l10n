@@ -11,11 +11,11 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is mozilla.org code.
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
-   - the Mozilla Organization.
-   - Portions created by the Initial Developer are Copyright (C) 1998-2002
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
@@ -34,6 +34,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendarCmd.label  "ਕੈਲੰਡਰ">
-<!ENTITY calendarCmd.accesskey  "r">
-<!ENTITY calendarCmd.commandkey "8">
+<!ENTITY buttons.occurrence.accesskey "t">
+<!ENTITY buttons.allfollowing.accesskey "f">
+<!ENTITY buttons.parent.accesskey "a">
