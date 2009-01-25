@@ -128,7 +128,6 @@
 <!ENTITY newIM.accesskey                                "I">
 <!ENTITY deleteButton2.label                            "ਹਟਾਓ">
 <!ENTITY deleteButton2.accesskey                        "D">
-<!ENTITY throbberItem.title                             "ਸਰਗਰਮੀ ਇੰਡੀਕੇਟਰ">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "ਨਵਾਂ ਐਡਰੈੱਸ ਬੁੱਕ ਸੰਪਰਕ ਬਣਾਓ">

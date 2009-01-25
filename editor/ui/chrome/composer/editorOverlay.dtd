@@ -112,9 +112,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ ਨਾਲ ਹੀ ਸਪੈਲ ਚੈੱਕ ਕਰੋ">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd.label "ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
-<!ENTITY checkSpellingCmd.accesskey "h">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "ਸਪੈਲਿੰਗ ਚੈੱਕ">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "HTML ਵੈਧਤਾ">
 <!ENTITY validateCmd.accesskey "V">
 
