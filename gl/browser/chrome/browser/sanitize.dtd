@@ -37,6 +37,9 @@ that require it.  -->
 <!ENTITY itemDownloadList.label       "Lista de descargas">
 <!ENTITY itemDownloadList.accesskey   "D">
 <!ENTITY itemActiveLogins.label       "Sesións activas">
+<!ENTITY itemSiteSettings.label       "Configuracións específicas do sitio">
+<!ENTITY itemSiteSettings.accesskey   "S">
+
 <!ENTITY itemActiveLogins.accesskey   "S">
 
 <!ENTITY window.width                 "30em">

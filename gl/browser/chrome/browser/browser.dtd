@@ -332,6 +332,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.accesskey    "s">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY newTabButton.tooltip           "Abrir unha nova lapela">
 <!ENTITY newWindowButton.tooltip        "Abrir unha nova xanela">
 <!ENTITY sidebarCloseButton.tooltip     "Pechar a barra lateral">
 <!ENTITY cutButton.tooltip              "Cortar">
