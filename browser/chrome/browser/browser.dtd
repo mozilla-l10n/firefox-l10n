@@ -88,7 +88,6 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Atal llwytho'r dudalen">
 <!ENTITY goEndCap.tooltip "Mynd i'r cyfeiriad yn y Bar Lleoliad">
-<!ENTITY feedButton.tooltip "Tanysgrifio i'r dudalen...">
 <!ENTITY printButton.label "Argraffu">
 <!ENTITY printButton.tooltip "Argraffu'r dudalen">
 
@@ -353,7 +352,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Chwyddo">
 <!ENTITY fullZoom.accesskey "C">
 
-<!ENTITY newTabButton.tooltip "Open a new tab">
 <!ENTITY newWindowButton.tooltip "Agor Ffenestr Newydd">
 <!ENTITY sidebarCloseButton.tooltip "Cau'r Cwpwrdd Cornel">
 
