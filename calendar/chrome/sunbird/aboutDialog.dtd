@@ -20,6 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Matthew Willis <mattwillis@gmail.com>
+   -                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,45 +36,27 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title      "&brandFullName; ਬਾਰੇ">
-<!ENTITY copyright              "ਮਾਣ">
-<!ENTITY aboutLink              "&lt; &brandFullName; ਬਾਰੇ">
-<!ENTITY aboutVersion           "ਵਰਜਨ">
-<!ENTITY copyrightText          "&#169;1998-2006 Contributors. All rights
+<!ENTITY aboutDialog.title      "About &brandFullName;">
+<!ENTITY copyright.label        "Credits">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY aboutLink.label        "&lt; About &brandFullName;">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "version">
+<!ENTITY copyrightText          "&#169;1998-2008 Contributors. All rights
                                  reserved. Mozilla Sunbird, Sunbird, and the
                                  Sunbird logos are trademarks of the Mozilla
                                  Foundation. All rights reserved.">
 
-<!ENTITY brandMotto       "ਇਹ ਸਮਾਂ ਹੈ">
-<!ENTITY credit.leads     "ਇੰਜਨੀਅਰਗ ਮੋਢੀ">
-<!ENTITY credit.core      "ਮੁੱਢਲੀ ਡਿਵੈਲਪਮਿੰਟ ਟੀਮ">
-<!ENTITY credit.gecko     "Gecko ਲੇਆਉਟ ਇੰਜਣ">
-<!ENTITY credit.thanks    "ਖਾਸ ਧੰਨਵਾਦ">
+<!ENTITY brandMotto       "it's about time">
+<!ENTITY credit.thanks    "Special Thanks To">
 
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>ਅਨੁਵਾਦਕ</h3><ul><li>ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ (A S Alam)</li><li>ਪੰਜਾਬੀ ਓਪਨ ਸੋਰਸ ਟੀਮ (POST)</li></ul>">
+<!ENTITY credit.translation "">
 
-<!ENTITY credit.visuals     "ਦਿੱਖ ਡਿਜ਼ਾਇਨ ਕੋਆਰਡੀਨੇਟਰ">
-<!ENTITY credit.theme       "ਸਰੂਪ ਡਿਜ਼ਾਇਨ">
-<!ENTITY credit.brand       "ਬਰੈਂਡ ਪਛਾਣ">
-<!ENTITY credit.web         "ਵੈੱਬ ਡਿਜ਼ਾਇਨ">
-<!ENTITY credit.update      "ਮੋਜ਼ੀਲਾ ਅੱਪਡੇਟ">
-<!ENTITY credit.qalead      "ਕੁਆਲਟੀ ਜਾਂਚ ਮੋਢੀ">
-<!ENTITY credit.qa          "ਕੁਆਲਟੀ ਜਾਂਚ">
-<!ENTITY credit.build       "ਬਿਲਡ ਅਤੇ ਰੀਲਿਜ਼">
-<!ENTITY credit.infra       "ਢਾਂਚਾ ਸਹਿਯੋਗ">
-<!ENTITY credit.support     "ਸਹਿਯੋਗ ਸਰੋਤ">
-<!ENTITY credit.manage      "ਪ੍ਰੋਜੈਕਟ ਪਰਬੰਧ">
-<!ENTITY credit.marketleads "ਮਾਰਕੀਟਿੰਗ ਮੋਢੀ">
-<!ENTITY credit.market      "ਮਾਰਕੀਟਿੰਗ">
-<!ENTITY credit.creators    "ਬਣਾਇਆ">
-<!ENTITY credit.memory      "ਯਾਦ ਵਿੱਚ">
-<!ENTITY credit.powered     "ਸ਼ਕਤੀ ਨਾਲ">
-
-<!ENTITY license.and        "ਅਤੇ">
-
+<!ENTITY credit.powered     "Powered by">
+<!ENTITY license.and        "and">
 <!ENTITY cmdClose.macKey  "W">

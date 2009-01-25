@@ -23,6 +23,9 @@
    -                 Chris Charabaruk <coldacid@meldstar.com>
    -                 Matthew Willis <mattwillis@gmail.com>
    -                 Stefan Sitter <ssitter@googlemail.com>
+   -                 Berend Cornelius <berend.cornelius@sun.com>
+   -                 Philipp Kewisch <mozilla@kewis.ch>
+   -                 Simon Paquet <bugzilla@babylonsounds.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -39,14 +42,11 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Event Menu -->
-<!ENTITY event.menu.title                       "ਈਵੈਂਟ">
-<!ENTITY eventMenuCmd.accesskey                 "v">
-
 <!ENTITY event.new.event                        "ਨਵਾਂ ਈਵੈਂਟ…">
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
-<!ENTITY event.new.todo                         "ਨਵਾਂ ਕੰਮ…">
+<!ENTITY event.new.todo                         "ਨਵੀਂ ਟਾਸਕ…">
 <!ENTITY event.new.todo.key                     "T">
 <!ENTITY event.new.todo.accesskey               "T">
 
@@ -54,226 +54,58 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "l">
 
-<!ENTITY calendar.new.journal.label              "ਨਵੀਂ ਜਰਨਲ ਇਕਾਈ...">
-<!ENTITY calendar.new.journal.key                "J">
-<!ENTITY calendar.new.journal.accesskey          "j">
-
-<!ENTITY calendar.open.file.label               "ਕੈਲੰਡਰ ਫਾਇਲ ਖੋਲ੍ਹੋ…">
-<!ENTITY calendar.open.file.key                 "O">
-<!ENTITY calendar.open.file.accesskey           "O">
-
-<!ENTITY event.edit.event                       "ਚੋਣ ਸੋਧ...">
-<!ENTITY event.edit.event.key                   "E">
-<!ENTITY event.edit.event.accesskey             "E">
-
-<!ENTITY event.delete.event                     "ਚੁਣੇ ਈਵੈਂਟ ਹਟਾਓ">
-<!ENTITY event.delete.event.accesskey           "D">
-
-<!ENTITY event.delete.tasks                     "ਚੁਣੇ ਈਵੈਂਟ ਹਟਾਓ">
-<!ENTITY event.delete.tasks.accesskey           "T">
-
-<!ENTITY event.mail.event                       "ਚੋਣ ਮੇਲ ਕਰੋ...">
-<!ENTITY event.mail.event.key                   "M">
-<!ENTITY event.mail.event.accesskey             "M">
-
-<!ENTITY calendar.print.label                   "ਪਰਿੰਟ ਕਰੋ...">
+<!ENTITY calendar.print.label                   "ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "P">
 
-<!ENTITY calendar.printpreview.label            "ਪਰਿੰਟ ਝਲਕ">
-<!ENTITY calendar.printpreview.accesskey        "v">
-
-<!ENTITY calendar.pagesetup.label               "ਪਰਿੰਟ ਸੈੱਟਅੱਪ…">
-<!ENTITY calendar.pagesetup.accesskey           "u">
-
-<!ENTITY calendar.import.label                  "ਲਵੋ…">
+<!ENTITY calendar.import.label                  "ਇੰਪੋਰਟ…">
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.wizard.label                  "ਸਹਾਇਕ ਚਲਾਓ…">
-<!ENTITY calendar.wizard.accesskey              "W">
-
-<!ENTITY calendar.export.label                  "ਚੋਣ ਭੇਜੋ...">
-<!ENTITY calendar.export.accesskey              "E">
-
-<!ENTITY calendar.export.calendar.label         "ਕੈਲੰਡਰ ਭੇਜੋ…">
+<!ENTITY calendar.export.calendar.label         "Export Calendar…">
 <!ENTITY calendar.export.calendar.accesskey     "E">
-
-<!ENTITY calendar.export.selection.label        "ਚੋਣ ਭੇਜੋ…">
+<!ENTITY calendar.export.selection.label        "Export Selection…">
 <!ENTITY calendar.export.selection.accesskey    "S">
 
-<!ENTITY calendar.subscribe.label               "ਰਿਮੋਟ ਕੈਲੰਡਰ ਦਾ ਮੈਂਬਰ ਬਣੋ…">
-<!ENTITY calendar.subscribe.accesskey           "R">
-
-<!ENTITY calendar.reloadserver.label            "ਰਿਮੋਟ ਕੈਲੰਡਰ ਮੁੜ-ਲੋਡ">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "R">
-
-<!ENTITY calendar.publish.label                 "ਪਬਲਿਸ਼...">
+<!ENTITY calendar.publish.label                 "Publish…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.publish.calendar.label        "ਕੈਲੰਡਰ ਪਰਿੰਟ ਕਰੋ…">
-<!ENTITY calendar.publish.calendar.accesskey    "b">
-
-<!ENTITY calendar.publish.selection.label       "ਚੋਣ ਪਬਲਿਸ਼ ਕਰੋ…">
-<!ENTITY calendar.publish.selection.accesskey   "c">
-
-<!ENTITY calendar.quit.label                    "ਬਾਹਰ">
-<!ENTITY calendar.quit.accesskey                "Q">
-<!ENTITY calendar.quit.label.mac                "&brandShortName; ਬੰਦ ਕਰੋ">
-<!ENTITY calendar.quit.key.mac                  "Q">
-<!ENTITY calendar.quit.modifiers.mac            "accel">
-
-<!ENTITY calendar.exit.label                    "ਬੰਦ ਕਰੋ">
-<!ENTITY calendar.exit.accesskey                "x">
-
-<!ENTITY calendar.about.label                   "ਕੈਲੰਡਰ ਬਾਰੇ">
-<!ENTITY calendar.about.accesskey               "C">
-
-<!ENTITY calendar.undo.label                    "ਵਾਪਸ">
-<!ENTITY calendar.undo.key                      "Z">
-<!ENTITY calendar.undo.accesskey                "u">
-
-<!ENTITY calendar.redo.label                    "ਪਰਤਾਓ">
-<!ENTITY calendar.redo.key                      "Y">
-<!ENTITY calendar.redo.accesskey                "r">
-
-<!ENTITY calendar.cut.label                     "ਕੱਟੋ">
-<!ENTITY calendar.cut.key                       "X">
-<!ENTITY calendar.cut.accesskey                 "t">
-
-<!ENTITY calendar.copy.label                    "ਕਾਪੀ ਕਰੋ">
-<!ENTITY calendar.copy.key                      "C">
-<!ENTITY calendar.copy.accesskey                "C">
-
-<!ENTITY calendar.paste.label                 "ਚੇਪੋ">
-<!ENTITY calendar.paste.key                     "V">
-<!ENTITY calendar.paste.accesskey               "P">
-
-<!ENTITY calendar.selectall.label               "ਸਭ ਚੁਣੋ">
-<!ENTITY calendar.selectall.key                 "A">
-<!ENTITY calendar.selectall.accesskey           "A">
-
-<!ENTITY toolbarsMenu.label                     "ਟੂਲਬਾਰ">
-<!ENTITY toolbarsMenu.accesskey                 "T">
-
-<!ENTITY calendar.toolbar.label                 "ਕੈਲੰਡਰ ਟੂਲਬਾਰ">
-
-<!ENTITY calendar.menu.customize.label          "ਪਸੰਦ...">
+<!ENTITY calendar.menu.customize.label          "ਕਸਟਮਾਈਜ਼…">
 <!ENTITY calendar.menu.customize.accesskey      "C">
 
-<!ENTITY calendar.preferences.label             "ਮੇਰੀ ਪਸੰਦ…">
-<!ENTITY calendar.preferences.accesskey         "e">
+<!ENTITY showUnifinderCmd.label                 "ਈਵੈਂਟ ਲੱਭੋ">
+<!ENTITY showUnifinderCmd.accesskey             "F">
 
-<!ENTITY showSearchToolbarCmd.label             "ਖੋਜ ਪੱਟੀ">
-<!ENTITY showSearchToolbarCmd.accesskey         "S">
-
-<!ENTITY showStatusBarCmd.label                 "ਹਾਲਤ ਪੱਟੀ">
-<!ENTITY showStatusBarCmd.accesskey             "B">
-
-<!ENTITY showTaskBoxCmd.label                   "ਕੰਮ ਲਿਸਟ">
-<!ENTITY showTaskBoxCmd.accesskey               "L">
-
-<!ENTITY calendar.displaytodos.checkbox.label       "ਕੈਲੰਡਰ 'ਚ ਕੰਮ ਵੇਖੋ">
+<!ENTITY calendar.displaytodos.checkbox.label       "ਕੈਲੰਡਰ ਵਿੱਚ ਟਾਸਕ ਵੇਖੋ">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
 
-<!ENTITY calendar.menu.numberofweeks.label      "ਬਹੁ-ਹਫ਼ਤਾ ਝਲਕ ਆਕਾਰ">
+<!ENTITY calendar.menu.numberofweeks.label      "ਕਈ ਹਫ਼ਤੇ ਝਲਕ ਸਾਈਜ਼">
 <!ENTITY calendar.menu.numberofweeks.2          "ਦੋ ਹਫ਼ਤੇ">
 <!ENTITY calendar.menu.numberofweeks.3          "ਤਿੰਨ ਹਫ਼ਤੇ">
 <!ENTITY calendar.menu.numberofweeks.4          "ਚਾਰ ਹਫ਼ਤੇ">
 <!ENTITY calendar.menu.numberofweeks.5          "ਪੰਜ ਹਫ਼ਤੇ">
 <!ENTITY calendar.menu.numberofweeks.6          "ਛੇ ਹਫ਼ਤੇ">
 
-<!ENTITY calendar.fullscreen.label              "ਪੂਰੀ ਸਕਰੀਨ">
-<!ENTITY calendar.fullscreen.accesskey          "F">
-
-<!ENTITY calendar.addons.label                  "ਐਂਡ-ਆਨ">
-<!ENTITY calendar.addons.accesskey              "d">
-
-<!ENTITY goMenu.label                           "ਜਾਓ">
-<!ENTITY goMenu.accesskey                       "G">
-
 <!ENTITY goTodayCmd.label                       "ਅੱਜ">
 <!ENTITY goTodayCmd.accesskey                   "T">
 
-<!ENTITY goDateCmd.label                        "ਤਾਰੀਖ…">
-<!ENTITY goDateCmd.accesskey                    "D">
-
-<!ENTITY goPreviousCmd.day.label                "ਪਿਛਲਾ ਦਿਨ">
-<!ENTITY goPreviousCmd.week.label               "ਪਿਛਲਾ ਹਫ਼ਤਾ">
-<!ENTITY goPreviousCmd.month.label              "ਪਿਛਲਾ ਮਹੀਨਾ">
+<!ENTITY goPreviousCmd.day.label                "ਪਿਛਲੇ ਦਿਨ">
+<!ENTITY goPreviousCmd.week.label               "ਪਿਛਲੇ ਹਫ਼ਤੇ">
+<!ENTITY goPreviousCmd.month.label              "ਪਿਛਲੇ ਮਹੀਨੇ">
 <!ENTITY goPreviousCmd.accesskey                "P">
 
-<!ENTITY goNextCmd.day.label                    "ਅਗਲਾ ਦਿਨ">
-<!ENTITY goNextCmd.week.label                   "ਅਗਲਾ ਹਫ਼ਤਾ">
-<!ENTITY goNextCmd.month.label                  "ਅਗਲਾ ਮਹੀਨਾ">
-<!ENTITY goNextCmd.accesskey                    "N">
-
-<!ENTITY taskMenu.label                         "ਕੰਮ">
-<!ENTITY taskMenu.accesskey                     "k">
-
-<!ENTITY toolsMenu.label                        "ਟੂਲ">
-<!ENTITY toolsMenu.accesskey                    "T">
-
-<!ENTITY errorConsoleCmd.label                  "ਗਲਤੀ ਕੰਨਸੋਲ">
-<!ENTITY errorConsoleCmd.accesskey              "C">
-
-<!ENTITY navigatorCmd.label                     "ਬਰਾਊਜ਼ਰ">
-<!ENTITY navigatorCmd.accesskey                 "B">
-
-<!ENTITY messengerCmd.label                     "ਮੇਲ">
-<!ENTITY messengerCmd.accesskey                 "M">
+<!ENTITY goNextCmd.day.label                    "ਅਗਲੇ ਦਿਨ">
+<!ENTITY goNextCmd.week.label                   "ਅਗਲੇ ਹਫ਼ਤੇ">
+<!ENTITY goNextCmd.month.label                  "ਅਗਲੇ ਮਹੀਨੇ">
+<!ENTITY goNextCmd.all.accesskey                "e">
 
 <!ENTITY addressBookCmd.label                   "ਐਡਰੈੱਸ ਬੁੱਕ">
 <!ENTITY addressBookCmd.accesskey               "A">
 
-<!ENTITY helpMenu.label                         "ਮੱਦਦ">
-<!ENTITY helpMenu.accesskey                     "H">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                      "ਮੱਦਦ"> 
-<!ENTITY helpMenuWin.accesskey                  "H">
+<!ENTITY calendar.importcalendar.label          "…ਕੈਲੰਡਰ ਇੰਪੋਰਟ ਕਰੋ">
 
-<!ENTITY walletPasswordManager.label            "ਪਾਸਵਰਡ ਮੈਨੇਜਰ">
-<!ENTITY walletPasswordManager.accesskey        "p">
+<!ENTITY showCurrentView.label                  "ਮੌਜੂਦਾ ਝਲਕ">
+<!ENTITY showCurrentView.accesskey              "V">
 
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label                         "ਫਾਇਲ">
-<!ENTITY fileMenu.accesskey                     "F">
-
-<!ENTITY editMenu.label                         "ਸੋਧ">
-<!ENTITY editMenu.accesskey                     "E">
-<!ENTITY optionsCmd.label                       "ਚੋਣਾਂ…">
-<!ENTITY optionsCmd.accesskey                   "O">
-<!ENTITY preferencesCmd.label                   "ਮੇਰੀ ਪਸੰਦ">
-<!ENTITY preferencesCmd.accesskey               "n">
-<!ENTITY preferencesCmdMac.label                "ਮੇਰੀ ਪਸੰਦ…">
-<!ENTITY preferencesCmdMac.commandkey           ",">
-<!ENTITY preferencesCmdMac.modifiers            "accel">
-
-<!ENTITY viewMenu.label                         "ਵੇਖੋ">
-<!ENTITY viewMenu.accesskey                     "V">
-
-<!ENTITY releaseCmd.label                       "ਰੀਲਿਜ਼ ਨੋਟਿਸ">
-<!ENTITY releaseCmd.accesskey                   "R">
-<!ENTITY aboutCmd.label                         "&brandFullName; ਬਾਰੇ">
-<!ENTITY aboutCmd.accesskey                     "A">
-<!ENTITY updateCmd.label                        "ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ…">
-<!ENTITY updateCmd.accesskey                    "o">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                       "ਵਿੰਡੋ">
-<!ENTITY minimizeWindow.label                   "ਘੱਟੋ-ਘੱਟ">
-<!ENTITY zoomWindow.label                       "ਜ਼ੂਮ">
-<!ENTITY minimizeWindow.key                     "M">
-<!ENTITY bringAllToFront.label                  "ਸਭ ਤੋਂ ਅੱਗੇ ਲਿਆਓ">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label          "ਸਰਵਿਸਾਂ">
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; ਓਹਲੇ">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "ਹੋਰ ਓਹਲੇ">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "ਸਭ ਵੇਖੋ">
+<!ENTITY calendar.properties.label              "ਕੈਲੰਡਰ ਵਿਸ਼ੇਸ਼ਤਾ…">
+<!ENTITY calendar.properties.accesskey          "C">

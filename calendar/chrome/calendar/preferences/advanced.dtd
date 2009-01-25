@@ -74,3 +74,24 @@
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "W">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "U">
+
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Protocols">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Use SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Use TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Certificates">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "When a server requests my personal certificate:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Select one automatically">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Ask me every time">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "View Certificates">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "s">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Revocation Lists">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Validation">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Security Devices">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "y">

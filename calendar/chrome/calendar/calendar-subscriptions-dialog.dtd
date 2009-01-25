@@ -14,10 +14,11 @@
    - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is Sun Microsystems.
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
+   - Contributor(s):
+   -   Thomas Benisch <thomas.benisch@sun.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,5 +35,12 @@
    - ***** END LICENSE BLOCK *****
 -->
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "ਸੱਦੇ">
+<!-- Calendar Subscriptions Dialog -->
+<!ENTITY calendar.subscriptions.dialog.title                            "Subscribe Calendars">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Show calendars that contain:">
+<!ENTITY calendar.subscriptions.dialog.search.button.label              "Search">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Select calendars to subscribe to:">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Subscribe">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Unsubscribe">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Search…">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "No matches found.">

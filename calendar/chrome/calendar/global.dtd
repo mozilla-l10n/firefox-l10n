@@ -34,30 +34,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY time.midnight "ਅੱਧੀ-ਰਾਤ" >
-<!ENTITY time.1 "1:00 ਸਵੇਰ" >
-<!ENTITY time.2 "2:00 ਸਵੇਰ" >
-<!ENTITY time.3 "3:00 ਸਵੇਰ" >
-<!ENTITY time.4 "4:00 ਸਵੇਰ" >
-<!ENTITY time.5 "5:00 ਸਵੇਰ" >
-<!ENTITY time.6 "6:00 ਸਵੇਰ" >
-<!ENTITY time.7 "7:00 ਸਵੇਰ" >
-<!ENTITY time.8 "8:00 ਸਵੇਰ" >
-<!ENTITY time.9 "9:00 ਸਵੇਰ" >
-<!ENTITY time.10 "10:00 ਸਵੇਰ" >
-<!ENTITY time.11 "11:00 ਸਵੇਰ" >
-<!ENTITY time.noon "ਦੁਪੈਹਰ" >
-<!ENTITY time.13 "1:00 ਸ਼ਾਮ" >
-<!ENTITY time.14 "2:00 ਸ਼ਾਮ" >
-<!ENTITY time.15 "3:00 ਸ਼ਾਮ" >
-<!ENTITY time.16 "4:00 ਸ਼ਾਮ" >
-<!ENTITY time.17 "5:00 ਸ਼ਾਮ" >
-<!ENTITY time.18 "6:00 ਸ਼ਾਮ" >
-<!ENTITY time.19 "7:00 ਸ਼ਾਮ" >
-<!ENTITY time.20 "8:00 ਸ਼ਾਮ" >
-<!ENTITY time.21 "9:00 ਸ਼ਾਮ" >
-<!ENTITY time.22 "10:00 ਸ਼ਾਮ" >
-<!ENTITY time.23 "11:00 ਸ਼ਾਮ" >
+<!ENTITY time.midnight "ਅੱਧੀ ਰਾਤ" >
+<!ENTITY time.noon "ਦੁਪਹਿਰ" >
 
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
@@ -77,57 +55,38 @@
 <!ENTITY day.7.Ddd "ਸ਼ਨਿੱਚਰ" >
 <!ENTITY day.7.Ddd.accesskey "a">
 
-<!ENTITY day.1.DDD "ਐਤ" >
-<!ENTITY day.2.DDD "ਸੋਮ" >
-<!ENTITY day.3.DDD "ਮੰਗਲ" >
-<!ENTITY day.4.DDD "ਬੁੱਧ" >
-<!ENTITY day.5.DDD "ਵੀਰ" >
-<!ENTITY day.6.DDD "ਸ਼ੁੱਕਰ" >
-<!ENTITY day.7.DDD "ਸ਼ਨਿੱਚਰ" >
-
 <!ENTITY day.1.name "ਐਤਵਾਰ" >
-<!ENTITY day.2.name "ਸੋਮਵਾਰ" >
-<!ENTITY day.3.name "ਮੰਗਲਵਾਰ" >
-<!ENTITY day.4.name "ਬੁੱਧਵਾਰ" >
-<!ENTITY day.5.name "ਵੀਰਵਾਰ" >
-<!ENTITY day.6.name "ਸ਼ੁੱਕਰਵਾਰ" >
-<!ENTITY day.7.name "ਸ਼ਨਿੱਚਰਵਾਰ" >
-
-<!ENTITY time.am "ਸਵੇਰ" >
-<!ENTITY time.pm "ਸ਼ਾਮ" >
-
-<!-- Month Names -->
-<!ENTITY month.1.MMM "ਜਨ" >
-<!ENTITY month.2.MMM "ਫ਼ਰ" >
-<!ENTITY month.3.MMM "ਮਾਰ" >
-<!ENTITY month.4.MMM "ਅਪ" >
-<!ENTITY month.5.MMM "ਮਈ" >
-<!ENTITY month.6.MMM "ਜੂਨ" >
-<!ENTITY month.7.MMM "ਜੁਲਾ" >
-<!ENTITY month.8.MMM "ਅਗ" >
-<!ENTITY month.9.MMM "ਸਤੰ" >
-<!ENTITY month.10.MMM "ਅਕਤੂ" >
-<!ENTITY month.11.MMM "ਨਵੰ" >
-<!ENTITY month.12.MMM "ਦਸੰ" >
-
-<!ENTITY time.AM "ਸਵੇਰ" >
-<!ENTITY time.PM "ਸ਼ਾਮ" >
-
-<!ENTITY more.label "ਹੋਰ" >
-<!ENTITY less.label "ਘੱਟ" >
+<!ENTITY day.2.name "Monday" >
+<!ENTITY day.3.name "Tuesday" >
+<!ENTITY day.4.name "Wednesday" >
+<!ENTITY day.5.name "Thursday" >
+<!ENTITY day.6.name "Friday" >
+<!ENTITY day.7.name "Saturday" >
 
 <!-- Units -->
-<!ENTITY calendar.global.units.second   "ਦੂਜਾ">
-<!ENTITY calendar.global.units.seconds  "ਸਕਿੰਟ">
 <!ENTITY calendar.global.units.minute   "ਮਿੰਟ">
 <!ENTITY calendar.global.units.minutes  "ਮਿੰਟ">
 <!ENTITY calendar.global.units.hour     "ਘੰਟਾ">
 <!ENTITY calendar.global.units.hours    "ਘੰਟੇ">
 <!ENTITY calendar.global.units.day      "ਦਿਨ">
 <!ENTITY calendar.global.units.days     "ਦਿਨ">
-<!ENTITY calendar.global.units.week     "ਹਫ਼ਤਾ">
-<!ENTITY calendar.global.units.weeks    "ਹਫ਼ਤੇ">
-<!ENTITY calendar.global.units.month    "ਮਹੀਨਾ">
-<!ENTITY calendar.global.units.months   "ਮਹੀਨੇ">
-<!ENTITY calendar.global.units.year     "ਸਾਲ">
-<!ENTITY calendar.global.units.years    "ਸਾਲ">
+
+<!ENTITY month.1.name "ਜਨਵਰੀ" >
+<!ENTITY month.2.name "February" >
+<!ENTITY month.3.name "March" >
+<!ENTITY month.4.name "ਅਪਰੈਲ" >
+<!ENTITY month.5.name "May" >
+<!ENTITY month.6.name "June" >
+<!ENTITY month.7.name "July" >
+<!ENTITY month.8.name "August" >
+<!ENTITY month.9.name "September" >
+<!ENTITY month.10.name "October" >
+<!ENTITY month.11.name "November" >
+<!ENTITY month.12.name "December" >
+
+<!ENTITY onemonthbackward.tooltip "One Month Back" >
+<!ENTITY onemonthforward.tooltip "One Month Forward" >
+<!ENTITY showToday.tooltip "Go to Today">
+<!ENTITY onedayforward.tooltip "One Day Forward">
+<!ENTITY onedaybackward.tooltip "One Day Backward">
+<!ENTITY showselectedday.tooltip "Show events for selected day">
