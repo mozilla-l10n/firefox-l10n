@@ -36,8 +36,6 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey "L">
 <!ENTITY itemActiveLogins.label "Mewngofnodion Gweithredol">
 <!ENTITY itemActiveLogins.accesskey "M">
-<!ENTITY itemSiteSettings.label "Gosodiadau'r Safle">
-<!ENTITY itemSiteSettings.accesskey "G">
 
 <!ENTITY window.width "30em">
 <!ENTITY column.width "14em">
