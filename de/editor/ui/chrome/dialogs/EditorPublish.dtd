@@ -56,7 +56,7 @@
 <!ENTITY publishImgCheckbox.tooltip   "Grafiken und andere von dieser Seite referenzierte Dateien publizieren">
 <!ENTITY sameLocationRadio.label      "Gleiche Adresse wie Seite verwenden">
 <!ENTITY sameLocationRadio.accesskey  "G">
-<!ENTITY sameLocationRadio.tooltip    "Dateien auf der selben Adresse wie die Seite publizieren">
+<!ENTITY sameLocationRadio.tooltip    "Dateien auf derselben Adresse wie die Seite publizieren">
 <!ENTITY useSubdirRadio.label         "Dieses Website-Unterverzeichnis verwenden:">
 <!ENTITY useSubdirRadio.accesskey     "D">
 <!ENTITY useSubdirRadio.tooltip       "Dateien im gewählten externen Unterverzeichnis publizieren">
