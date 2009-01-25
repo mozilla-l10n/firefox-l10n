@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Messages larger than">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-
 <!ENTITY daysOld.label "days old">
 <!ENTITY message.label "messages">
 <!ENTITY nntpNotDownloadRead.label "Read messages">
@@ -21,6 +20,8 @@
 <!ENTITY retentionKeepNew.accesskey "b">
 <!ENTITY retentionKeepUnread.label "Always delete read messages">
 <!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Only message bodies less than">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">

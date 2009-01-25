@@ -42,20 +42,20 @@
 
 <!ENTITY generalInfo.label            "ਸਧਾਰਨ ਜਾਣਕਾਰੀ">
 
-<!ENTITY folderCharsetTab.label       "ਮੂਲ ਅੱਖਰ ਇੰਕੋਡਿੰਗ:">
+<!ENTITY folderCharsetTab.label       "ਡਿਫਾਲਟ ਅੱਖਰ ਇੰਕੋਡਿੰਗ:">
 <!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label  "ਫੋਲਡਰ ਵਿੱਚ ਸਭ ਸੁਨੇਹਿਆਂ ਤੇ ਮੂਲ ਲਾਗੂ ਕਰੋ (ਵੱਖਰੀ ਸੁਨੇਹਾ ਇੰਕੋਡਿੰਗ ਵਿਵਸਥਾ ਤੇ ਸਵੈ-ਖੋਜ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ)">
+<!ENTITY folderCharsetOverride.label  "ਫੋਲਡਰ ਵਿੱਚ ਸਭ ਸੁਨੇਹਿਆਂ ਉੱਤੇ ਡਿਫਾਲਟ ਹੀ ਲਾਗੂ ਕਰੋ (ਵੱਖਰੀ ਸੁਨੇਹਾ ਇੰਕੋਡਿੰਗ ਸੈਟਿੰਗ ਅਤੇ ਸਵੈ-ਖੋਜ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFile.label          "ਮੁੜ-ਬਣਾਓ">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
 <!ENTITY folderRebuildSummaryFileTip.label       "ਸੰਖੇਪ ਫਾਇਲ ਮੁੜ ਬਣਾਓ">      
 <!ENTITY retention.label "ਰੋਕ ਨੀਤੀ">
-<!ENTITY retentionUseDefault.label  "ਸਰਵਰ ਮੂਲ ਹੀ ਵਰਤੋਂ">
+<!ENTITY retentionUseDefault.label  "ਸਰਵਰ ਡਿਫਾਲਟ ਹੀ ਵਰਤੋਂ">
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY daysOld.label "ਦਿਨ ਪੁਰਾਣੇ">
 <!ENTITY message.label "ਸੁਨੇਹੇ">
 <!ENTITY retentionCleanup.label "ਡਿਸਕ ਥਾਂ ਨੂੰ ਮੁੜ-ਪਰਾਪਤ ਕਰਨ ਲਈ, ਪੁਰਾਣੇ ਸੁਨਹਿਆਂ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਹਟਾਇਆ ਜਾ ਸਕਦਾ ਹੈ">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.label "ਇਸ ਤੋਂ ਵੱਧ ਸੁਨੇਹੇ ਹਟਾਓ">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "ਕੋਈ ਸੁਨੇਹਾ ਨਾ ਹਟਾਓ">
 <!ENTITY retentionKeepAll.accesskey "A">
@@ -63,6 +63,8 @@
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "ਹਮੇਸ਼ਾ ਪੜੇ ਸੁਨੇਹੇ ਹਟਾਓ">
 <!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderOfflineTab.label                             "ਆਫਲਾਇਨ">
 <!ENTITY folderCheckForNewMessages.label                    "ਇਸ ਫੋਲਡਰ ਲਈ ਨਵੇਂ ਸੁਨੇਹਿਆਂ ਲਈ ਜਾਂਚ ਕਰੋ">
@@ -73,7 +75,7 @@
 <!ENTITY offlineFolder.button.label                         "ਹੁਣ ਡਾਊਨਲੋਡ ਕਰੋ">
 <!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label                 "ਆਫਲਾਇਨ ਇਸਤੇਮਾਲ ਲਈ ਇਹ ਖ਼ਬਰ-ਸਮੂਹ ਇਸਤੇਮਾਲ ਕਰੋ">
+<!ENTITY selectofflineNewsgroup.check.label                 "ਆਫਲਾਇਨ ਇਸਤੇਮਾਲ ਲਈ ਇਹ ਨਿਊਜ਼ਗਰੁੱਪ ਇਸਤੇਮਾਲ ਕਰੋ">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 
 <!ENTITY offlineNewsgroup.button.label                      "ਡਾਊਨਲੋਡ ਕਰੋ">
@@ -81,14 +83,14 @@
 
 <!ENTITY folderProps.name.label	        "ਨਾਂ:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Location:">
+<!ENTITY folderProps.location.label              "ਟਿਕਾਣਾ:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                             "ਸਾਂਝ">
 <!ENTITY privileges.button.label                      "ਅਧਿਕਾਰ...">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                            "ਤੁਹਾਡੇ ਕੋਲ ਹੇਠ ਲਿਖੇ ਅਧਿਕਾਰ ਹਨ:">
-<!ENTITY folderType.label                             "ਫੋਲਡਰ ਕਿਸਮ:">
+<!ENTITY folderType.label                             "ਫੋਲਡਰ ਟਾਈਪ:">
 
 <!ENTITY folderQuotaTab.label                               "ਹਵਾਲਾ">
 <!ENTITY folderQuotaRoot.label                              "ਹਵਾਲਾ ਰੂਟ:">
