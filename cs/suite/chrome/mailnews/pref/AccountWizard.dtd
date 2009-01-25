@@ -103,6 +103,7 @@
 <!ENTITY smtpServerNamePrefix.label "Název odchozího serveru (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Název diskusního serveru (NNTP):">
 <!ENTITY downloadOnLogin.label "Stáhnout zprávy nyní">
+<!ENTITY downloadOnLogin.accesskey "S">
 <!ENTITY deferStorageDesc.label "Zaškrtněte, pokud chcete ukládat poštu z tohoto účtu do Doručené pošty v Místních složkách. V opačném případě se vytvoří nový samostatný účet s poštou ukládanou v odděleném adresáři.">
 <!ENTITY deferStorage.label "Použít globální Doručenou poštu (ukládat poštu v Místních složkách)">
 <!ENTITY deferStorage.accesskey "g">

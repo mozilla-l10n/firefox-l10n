@@ -291,8 +291,10 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "N">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Zpět">
+<!ENTITY goBackCmd.accesskey "Z">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Vpřed">
+<!ENTITY goForwardCmd.accesskey "V">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Zpráva s praporkem">
 <!ENTITY prevFlaggedMsgCmd.accesskey "r">

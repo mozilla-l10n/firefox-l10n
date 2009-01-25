@@ -32,10 +32,11 @@
 <!ENTITY noSuggestions.label "(žádné návrhy)">
 <!ENTITY addToDictionary.label "Přidat do slovníku">
 
-<!ENTITY bookmarkName.label "Název:">
-<!ENTITY bookmarkFolder.label "Složka:">
-<!ENTITY bookmarkTags.label "Štítky:">
+<!ENTITY editBookmarkName.label "Název:">
+<!ENTITY editBookmarkURI.label "Adresa:">
+<!ENTITY editBookmarkTags.label "Štítky:">
 <!ENTITY bookmarkRemove.label "Odstranit záložku">
+<!ENTITY editBookmarkDone.label "Hotovo">
 
 <!ENTITY findOnCmd.label "Hledat ve stránce…">
 <!ENTITY findOnCmd.accesskey "H">
