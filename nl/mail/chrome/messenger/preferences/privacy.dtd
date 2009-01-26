@@ -28,16 +28,14 @@
 <!ENTITY useDownloadedList.accesskey "d">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro        "&brandShortName; kan wachtwoordinformatie voor al uw accounts onthouden, zodat u niet telkens uw inloggegevens hoeft in te voeren.">
-<!ENTITY encryptEnabled.label        "Een hoofdwachtwoord gebruiken om opgeslagen wachtwoorden te versleutelen">
-<!ENTITY encryptEnabled.accesskey    "h">
-<!ENTITY masterPassword.intro        "Indien ingesteld beveiligt het hoofdwachtwoord al uw wachtwoorden - maar u moet het eens per sessie invoeren.">
-<!ENTITY setMasterPassword.label     "Hoofdwachtwoord">
-<!ENTITY setMasterPassword.accesskey "o">
-<!ENTITY removeMasterPassword.label  "Hoofdwachtwoord verwijderen…">
-<!ENTITY removeMasterPassword.accesskey "v">
-<!ENTITY editPasswords.label         "Opgeslagen wachtwoorden bewerken">
-<!ENTITY editPasswords.accesskey     "b">
+<!ENTITY savedPasswords.intro           "&brandShortName; kan wachtwoordinformatie voor al uw accounts onthouden.">
+<!ENTITY useMasterPassword.label        "Hoofdwachtwoord gebruiken">
+<!ENTITY useMasterPassword.accesskey    "H">
+<!ENTITY masterPassword.intro           "Een hoofdwachtwoord beveiligt al uw wachtwoorden, maar u moet het eens per sessie invoeren.">
+<!ENTITY changeMasterPassword.label     "Hoofdwachtwoord wijzigen…">
+<!ENTITY changeMasterPassword.accesskey "w">
+<!ENTITY savedPasswords.label           "Opgeslagen wachtwoorden…">
+<!ENTITY savedPasswords.accesskey       "O">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; kan het antivirussoftware makkelijk maken om inkomende e-mailberichten op virussen te controleren voordat ze lokaal worden opgeslagen.">
