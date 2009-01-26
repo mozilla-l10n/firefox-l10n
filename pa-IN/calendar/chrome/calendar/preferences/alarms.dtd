@@ -64,6 +64,5 @@
 <!ENTITY pref.defalarmlen4events.accesskey "u">
 <!ENTITY pref.defalarmlen4todos.label "ਡਿਫਾਲਟ ਟਾਈਮ, ਜਦੋਂ ਇੱਕ ਅਲਾਰਮ ਇੱਕ ਕੰਮ ਤੋਂ ਪਹਿਲਾਂ ਬੰਦ ਹੋ ਜਾਵੇ:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.alarmbox.label "ਅਲਾਰਮ">
 <!ENTITY pref.defaultemail.label "ਅਲਾਰਮ ਭੇਜਣ ਲਈ ਡਿਫਾਲਟ ਐਡਰੈੱਸ:">
 <!ENTITY pref.defaulttext.label "ਅਲਾਰਮ ਲਈ ਮੂਲ ਸ਼ਬਦ:">

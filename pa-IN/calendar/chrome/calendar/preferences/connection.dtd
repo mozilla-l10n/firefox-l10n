@@ -38,11 +38,6 @@
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
-<!ENTITY  pref.showConnections.label    "ਕੁਨੈਕਸ਼ਨ ਸੈਟਿੰਗ…">
-<!ENTITY  pref.showConnections.accesskey "o">
-<!ENTITY  pref.proxiesInfo.label        "ਦੱਸੋ ਕਿ &brandShortName; ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਿਵੇਂ ਜੁੜੇ">
-
 <!ENTITY  connectionsDialog.title       "ਕੁਨੈਕਸ਼ਨ ਸੈਟਿੰਗ">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
@@ -56,14 +51,10 @@
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "ਆਟੋਮੈਟਿਕ ਪਰਾਕਸੀ ਸੰਰਚਨਾ URL:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  configAutoconfigText.label    "ਸੰਰਚਨਾ ਟਿਕਾਣਾ (URL):">
-<!ENTITY  configAutoconfigText.accesskey "u">
 <!ENTITY  reload.label                  "ਮੁੜ-ਲੋਡ">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP ਪਰਾਕਸੀ:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "ਗੋਫਰ ਪਰਾਕਸੀ:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP ਪਰਾਕਸੀ:">
 <!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL ਪਰਾਕਸੀ:">
@@ -79,7 +70,6 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ਕੋਈ ਪਰਾਕਸੀ ਨਹੀਂ:">
 <!ENTITY  noproxy.accesskey             "n">
