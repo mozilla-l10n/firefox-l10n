@@ -110,10 +110,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opties">
 <!ENTITY optionsMenu.accesskey "O">
-<!ENTITY checkSpellingCmd.label "Spelling controleren…">
-<!ENTITY checkSpellingCmd.key3 "p">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "c">
+<!ENTITY checkSpellingCmd2.label "Spelling controleren…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "c">
 <!ENTITY enableInlineSpellChecker.label "Spellingcontrole tijdens typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Bericht citeren">
