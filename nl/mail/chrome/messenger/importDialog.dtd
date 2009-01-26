@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Importeren">
-<!ENTITY importDialog.allTitle    "Alles importeren">
-<!ENTITY importDialog.mailTitle   "E-mail">
-<!ENTITY importDialog.addressbookTitle "Adresboeken">
-<!ENTITY importDialog.settingsTitle "Instellingen">
-<!ENTITY importDialog.filtersTitle "Filters">
+<!ENTITY importAll.label          "Alles importeren">
+<!ENTITY importAll.accesskey      "i">
+<!ENTITY importMail.label         "E-mail">
+<!ENTITY importMail.accesskey     "E">
+<!ENTITY importAddressbook.label  "Adresboeken">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Instellingen">
+<!ENTITY importSettings.accesskey "s">
+<!ENTITY importFilters.label      "Filters">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "42em">
 <!ENTITY  window.macWidth         "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importDescription2.label "Als deze eenmaal zijn geïmporteerd kunt u ze gebruiken in &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Selecteer het type bestand dat u wilt importeren:">
+<!ENTITY selectDescription.accesskey "S">
 
 <!ENTITY back.label               "&lt; Vorige">
 <!ENTITY forward.label            "Volgende &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x heeft één e-mailadres op elke kaart, terwijl &brandShortName; er twee heeft (Thuis en Werk).">
 <!ENTITY FieldDiscInputText2.label  "Selecteer de categorie waarin u de geïmporteerde e-mailadressen wilt opslaan:">
 <!ENTITY FieldDiscWarning.label  "Deze categorie zal worden gebruikt voor alle gegevens van het geselecteerde adresboek: ">
-<!ENTITY importDialog.homeTitle  "Thuis">
-<!ENTITY importDialog.workTitle  "Werk">
+<!ENTITY importHome.label        "Thuis">
+<!ENTITY importHome.accesskey    "T">
+<!ENTITY importWork.label        "Werk">
+<!ENTITY importWork.accesskey    "W">

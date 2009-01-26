@@ -290,10 +290,12 @@
 <!ENTITY prevUnreadMsgCmd.label "Ongelezen bericht">
 <!ENTITY prevUnreadMsgCmd.accesskey "O">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Vooruit">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Terug">
+<!ENTITY goBackCmd.accesskey "T">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.label "Vooruit">
+<!ENTITY goForwardCmd.accesskey "V">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Gemarkeerd bericht">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
