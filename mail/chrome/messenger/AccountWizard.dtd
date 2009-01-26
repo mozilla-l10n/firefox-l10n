@@ -103,6 +103,7 @@
 <!ENTITY smtpServerNamePrefix.label "Utgående tjener:">
 <!ENTITY newsServerNamePrefix.label "Nyhetsgruppetjener:">
 <!ENTITY downloadOnLogin.label "Last ned meldinger nå">
+<!ENTITY downloadOnLogin.accesskey "L">
 <!ENTITY deferStorageDesc.label "Fjern avkryssing fra denne boksen for å lagre e-post i egen mappe. Det vil gjøre at denne kontoen blir synlig i mappelisten. Dersom den er avkrysset vil kontoen bli en del av kontoen «Lokale mapper».">
 <!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i kontoen «Lokale mapper»)">
 <!ENTITY deferStorage.accesskey "G">

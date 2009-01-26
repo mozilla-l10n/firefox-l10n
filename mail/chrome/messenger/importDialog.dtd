@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Import">
-<!ENTITY importDialog.allTitle    "Importer alt">
-<!ENTITY importDialog.mailTitle   "E-post">
-<!ENTITY importDialog.addressbookTitle "Adressebøker">
-<!ENTITY importDialog.settingsTitle "Innstillinger">
-<!ENTITY importDialog.filtersTitle "Filtre">
+<!ENTITY importAll.label          "Importer alt">
+<!ENTITY importAll.accesskey      "a">
+<!ENTITY importMail.label         "E-post">
+<!ENTITY importMail.accesskey     "E">
+<!ENTITY importAddressbook.label  "Adressebøker">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Innstillinger">
+<!ENTITY importSettings.accesskey "I">
+<!ENTITY importFilters.label      "Filtre">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Når de er importert vil du kunne bruke dem i &brandShortName; E-post og nyhetsgrupper og/eller adressebok.">
 
 <!ENTITY selectDescription.label  "Velg programmet du vil importere fra:">
+<!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label               "&lt; Tilbake">
 <!ENTITY forward.label            "Neste &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har en postadresse for hvert kort, mens &brandShortName; har to (hjemme og arbeid)">
 <!ENTITY FieldDiscInputText2.label  "Velg kategorien som du vil lagre de importerte e-postadressene i:">
 <!ENTITY FieldDiscWarning.label  "Denne kategorien vil bli brukt for alle elementene i den valgte adresseboka:">
-<!ENTITY importDialog.homeTitle  "Hjem">
-<!ENTITY importDialog.workTitle  "Arbeid">
+<!ENTITY importHome.label        "Hjem">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "Arbeid">
+<!ENTITY importWork.accesskey    "A">

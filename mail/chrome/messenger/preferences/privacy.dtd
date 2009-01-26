@@ -28,16 +28,14 @@
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro         "&brandShortName; kan huske passordinformasjon for alle kontoene dine, slik at du ikke trenger å skrive inn innloggingsdetaljene flere ganger.">
-<!ENTITY  encryptEnabled.label        "Bruk et hovedpassord for å kryptere lagrede passord">
-<!ENTITY  encryptEnabled.accesskey    "s">
-<!ENTITY  masterPassword.intro        "Når denne er satt vil hovedpassordet beskytte alle passordene dine - men du må skrive inn passordet for hver programøkt.">
-<!ENTITY  setMasterPassword.label     "Hovedpassord">
-<!ENTITY  setMasterPassword.accesskey "H">
-<!ENTITY  removeMasterPassword.label  "Fjern hovedpassord …">
-<!ENTITY  removeMasterPassword.accesskey "F">
-<!ENTITY  editPasswords.label         "Rediger lagrede passord">
-<!ENTITY  editPasswords.accesskey     "R">
+<!ENTITY savedPasswords.intro           "&brandShortName; kan huske passordinformasjon for alle kontoene dine, slik at du ikke trenger å skrive inn innloggingsdetaljene flere ganger.">
+<!ENTITY useMasterPassword.label        "Bruk et hovedpassord">
+<!ENTITY useMasterPassword.accesskey    "B">
+<!ENTITY masterPassword.intro           "Et hovedpassord kan beskytte alle passordene dine, men du må skrive det inn en gang for hver programøkt.">
+<!ENTITY changeMasterPassword.label     "Endre hovedpassord …">
+<!ENTITY changeMasterPassword.accesskey "E">
+<!ENTITY savedPasswords.label           "Lagrede passord …">
+<!ENTITY savedPasswords.accesskey       "L">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; kan gjøre det enkelt for antivirus-programmer å analysere e-post som blir lastet ned for virus før de blir lagret.">

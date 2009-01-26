@@ -63,6 +63,8 @@
 <!ENTITY retentionKeepNew.accesskey "S">
 <!ENTITY retentionKeepUnread.label "Alltid slett leste meldinger">
 <!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY retentionApplyToFlagged.label "Alltid behold meldinger merket med stjerne">
+<!ENTITY retentionApplyToFlagged.accesskey "d">
 
 <!ENTITY folderOfflineTab.label                  "Frakoblet">
 <!ENTITY folderCheckForNewMessages.label         "Se etter nye meldinger for denne mappen">
