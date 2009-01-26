@@ -62,8 +62,8 @@
 
 <!ENTITY releaseCmd.label "Notes de versions">
 <!ENTITY releaseCmd.accesskey "N">
-<!ENTITY updateCmd.label               "Rechercher des mises à jour…">
-<!ENTITY updateCmd.accesskey           "h">
+<!ENTITY updateCmd.label "Rechercher des mises à jour…">
+<!ENTITY updateCmd.accesskey "h">
 <!ENTITY aboutCmd.label "À propos de &brandShortName;">
 <!ENTITY aboutCmd.accesskey "p">
 <!ENTITY aboutCommPluginsCmd.label "À propos des plugins">
@@ -86,6 +86,9 @@
 <!ENTITY bidiSwitchTextDirectionItem.label "Changer la direction du texte">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!ENTITY customizeToolbarContext.label "Personnaliser…">
+<!ENTITY customizeToolbarContext.accesskey "P">
 
 <!ENTITY customizeToolbar.toolbarmode.label       "Paramètres pour cette barre d'outils">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "P">
