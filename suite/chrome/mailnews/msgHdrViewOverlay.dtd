@@ -56,9 +56,11 @@
 <!ENTITY inReplyToField.label "In-antwoord-op: ">
 <!ENTITY originalWebsite.label "Website: ">
 
-<!ENTITY editMessage.label "Concept bewerken…">
+<!ENTITY editMessage.label                 "Concept bewerken…">
+<!ENTITY editMessage.accesskey             "C">
 
 <!ENTITY attachmentsTree.label             "Bijlagen:">
+<!ENTITY attachmentsTree.accesskey         "B">
 <!ENTITY openAttachmentCmd.label           "Openen">
 <!ENTITY openAttachmentCmd.accesskey       "O">
 <!ENTITY viewAttachmentCmd.label           "Bron bekijken">
