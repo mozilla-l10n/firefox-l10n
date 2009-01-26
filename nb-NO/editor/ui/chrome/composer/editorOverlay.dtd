@@ -60,7 +60,7 @@
 <!ENTITY fileRevert.accesskey "v">
 <!ENTITY saveCmd.label "Lagre">
 <!ENTITY saveCmd.accesskey "L">
-<!ENTITY saveCmd.key "s">
+<!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "Lagre som …">
 <!ENTITY saveAsCmd.accesskey "s">
 
@@ -81,10 +81,10 @@
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "S">
-<!ENTITY printCmd.key "p">
+<!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "Lukk">
 <!ENTITY closeCmd.accesskey "L">
-<!ENTITY closeCmd.key "w">
+<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Rediger">
@@ -100,21 +100,21 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
 <!ENTITY findCmd.label "Søk og erstatt …">
 <!ENTITY findCmd.accesskey "S">
-<!ENTITY findCmd.key "f">
+<!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findAgainCmd.label "Søk etter neste">
 <!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Søk etter forrige">
 <!ENTITY findPrevCmd.accesskey "f">
-<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Stavekontroller mens du skriver">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd.label "Stavekontroll">
-<!ENTITY checkSpellingCmd.accesskey "S">
-<!ENTITY checkSpellingCmd.key "k">
+<!ENTITY checkSpellingCmd2.label "Kontroller staving">
+<!ENTITY checkSpellingCmd2.accesskey "K">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Kontroller HTML">
 <!ENTITY validateCmd.accesskey "K">
 

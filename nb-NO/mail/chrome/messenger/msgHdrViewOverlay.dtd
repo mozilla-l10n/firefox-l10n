@@ -57,6 +57,7 @@
 
 <!ENTITY editMessageDescription.label "Dette er et meldingsutkast">
 <!ENTITY editMessageButton.label "Rediger …">
+<!ENTITY archiveButton.label "arkiver">
 <!ENTITY replyButton.label "svar …">
 <!ENTITY forwardButton.label "videresend …">
 <!ENTITY junkButton.label "merk som uønsket">
