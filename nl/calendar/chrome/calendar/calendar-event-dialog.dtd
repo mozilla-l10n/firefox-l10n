@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -358,17 +359,19 @@
 
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Genodigden uitnodigen">
-<!ENTITY event.organizer.label           "Organisator">
-<!ENTITY event.freebusy.suggest.slot     "Vrij tijdstip voorstellen:">
-<!ENTITY event.freebusy.next.slot        "Volgend vrij tijdstip " >
-<!ENTITY event.freebusy.previous.slot    " Vorig vrij tijdstip" >
-<!ENTITY event.freebusy.zoom             "Zoomen:">
-<!ENTITY event.freebusy.plus             "Volgend uur" >
-<!ENTITY event.freebusy.minus            "Vorig uur" >
-<!ENTITY event.freebusy.legend.free      "Beschikbaar" >
-<!ENTITY event.freebusy.legend.busy      "Bezet" >
-<!ENTITY event.freebusy.legend.unknown   "Geen informatie" >
+<!ENTITY invite.title.label                     "Genodigden uitnodigen">
+<!ENTITY event.organizer.label                  "Organisator">
+<!ENTITY event.freebusy.suggest.slot            "Vrij tijdstip voorstellen:">
+<!ENTITY event.freebusy.next.slot               "Volgend vrij tijdstip " >
+<!ENTITY event.freebusy.previous.slot           " Vorig vrij tijdstip" >
+<!ENTITY event.freebusy.zoom                    "Zoomen:">
+<!ENTITY event.freebusy.plus                    "Volgend uur" >
+<!ENTITY event.freebusy.minus                   "Vorig uur" >
+<!ENTITY event.freebusy.legend.free             "Beschikbaar" >
+<!ENTITY event.freebusy.legend.busy             "Bezet" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Voorlopig bezet" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Niet aanwezig" >
+<!ENTITY event.freebusy.legend.unknown          "Geen informatie" >
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Specificeer de tijdzone">
