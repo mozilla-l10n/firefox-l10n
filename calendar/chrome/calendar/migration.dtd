@@ -36,7 +36,6 @@
 
 <!ENTITY migration.title "&brandFullName; ਡਾਟਾ ਲਵੋ:">
 <!ENTITY migration.welcome "ਜੀ ਆਇਆਂ ਨੂੰ">
-<!ENTITY migration.importing "ਆਯਾਤ ਕਰਨਾ">
+<!ENTITY migration.importing "ਇੰਪੋਰਟ ਕਰੋ">
 <!ENTITY migration.list.description "&brandFullName; ਕੋਈ ਆਮ ਵਰਤੇ ਜਾਂਦੇ ਕਾਰਜਾਂ ਤੋਂ ਕੈਲੰਡਰ ਡਾਟਾ ਲੈ ਸਕਦਾ ਹੈ। ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਹੇਠ ਦਿੱਤੇ ਕਾਰਜਾਂ ਤੋਂ ਡਾਟਾ ਉਪਲੱਬਧ ਹੈ। ਉਨ੍ਹਾਂ ਦੀ ਚੋਣ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਤੋਂ ਤੁਸੀਂ ਡਾਟਾ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋ।">
 <!ENTITY migration.progress.description "ਚੁਣਿਆ ਡਾਟਾ ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY migration.finished.description "ਡਾਟਾ ਲਿਆ ਗਿਆ">

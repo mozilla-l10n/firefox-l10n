@@ -8,6 +8,12 @@
 
 <!ENTITY enableGloda.label             "ਸੁਨੇਹਾ ਇੰਡੈਕਸਰ ਯੋਗ">
 <!ENTITY enableGloda.accesskey         "i">
+<!ENTITY systemDefaults.label          "System Defaults">
+<!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY checkNow.label                "Check Now">
+<!ENTITY checkNow.accesskey            "N">
+
 <!ENTITY showCondensedAddresses.label  "ਜਿਹੜੇ ਲੋਕ ਮੇਰੀ ਐਡਰੈੱਸ ਬੁੱਕ ਵਿੱਚ ਹੋਣ, ਕੇਵਲ ਉਨ੍ਹਾਂ ਲਈ ਹੀ ਨਾਂ ਵੇਖਾਓ">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -43,7 +49,6 @@
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "ਇੰਸਟਾਲ ਹੋਈਆਂ ਐਡ-ਆਨ">
 <!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY checkNow.label                 "ਹੁਣੇ ਚੈੱਕ ਕਰੋ…">
 <!ENTITY whenUpdatesFound.label         "ਜਦੋਂ &brandShortName; ਲਈ ਅੱਪਡੇਟ ਮਿਲਣ,">
 <!ENTITY modeAskMe.label                "ਮੈਨੂੰ ਪੁੱਛੋ ਕਿ ਕੀ ਕਰਨਾ ਹੈ">
 <!ENTITY modeAskMe.accesskey            "k">
