@@ -1,7 +1,7 @@
 <!ENTITY notificationsDialog2.title       "Benachrichtigungen">
 <!ENTITY window.width                     "31em">
 
-<!ENTITY alertCustomization.intro         "In den Benachrichtigungen folgendes anzeigen:">
+<!ENTITY alertCustomization.intro         "In den Benachrichtigungen Folgendes anzeigen:">
 <!ENTITY previewText.label                "Textausschnitt">
 <!ENTITY previewText.accesskey            "T">
 <!ENTITY subject.label                    "Betreff">
