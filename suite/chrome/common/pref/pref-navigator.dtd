@@ -62,13 +62,6 @@
 <!ENTITY goButton.accesskey "П">
 <!ENTITY searchButton.label "Поиск">
 <!ENTITY searchButton.accesskey "П">
-<!ENTITY printButton.label "Печать">
-<!ENTITY printButton.accesskey "е">
-<!ENTITY persToolbarIntro.label "Личная панель">
-<!ENTITY homeButton.label "К началу">
-<!ENTITY homeButton.accesskey "н">
-<!ENTITY bookmarksButton.label "Закладки">
-<!ENTITY bookmarksButton.accesskey "к">
 <!ENTITY defaultBrowserGroup.label "Браузер по умолчанию">
 <!ENTITY defaultBrowserButton.label "По умолчанию">
 <!ENTITY defaultBrowserButton.accesskey "м">
