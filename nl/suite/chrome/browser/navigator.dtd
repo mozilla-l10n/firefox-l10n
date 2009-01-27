@@ -154,6 +154,7 @@
 <!ENTITY  bookmarksButton.label       "Bladwijzers">
 <!ENTITY  bookmarksButton.tooltip     "Bladwijzerlijst">
 <!ENTITY  homeButton.label            "Beginpagina">
+<!ENTITY  bookmarksToolbarItem.label  "Bladwijzerwerkbalkitems">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Voltooid">
