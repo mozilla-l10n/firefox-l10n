@@ -25,6 +25,15 @@
 <!ENTITY tasksMenu.label              "Gereedschappen">
 <!ENTITY tasksMenu.accesskey          "G">
 
+<!ENTITY passwordManagerCmd.label "Wachtwoordenbeheerder">
+<!ENTITY passwordManagerCmd.accesskey "W">
+
+<!ENTITY passwordDisplayCmd.label "Opgeslagen wachtwoorden beheren">
+<!ENTITY passwordDisplayCmd.accesskey "O">
+
+<!ENTITY passwordExpireCmd.label "uitloggen">
+<!ENTITY passwordExpireCmd.accesskey "l">
+
 <!ENTITY downloadManagerCmd.label     "Downloadbeheerder">
 <!ENTITY downloadManagerCmd.accesskey "D">
 
