@@ -7,5 +7,4 @@
 <!ENTITY  actionColumn2.label     "Actie">
 <!ENTITY  actionColumn2.accesskey "A">
 
-<!ENTITY  filter.label            "Zoeken:">
-<!ENTITY  filter.accesskey        "Z">
+<!ENTITY search.emptytext        "Zoektype en acties">
