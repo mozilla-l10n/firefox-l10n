@@ -125,6 +125,7 @@
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Отображает ваши закладки">
 <!ENTITY homeButton.label "К началу">
+<!ENTITY bookmarksToolbarItem.label "Элементы панели закладок">
 <!ENTITY statusText.label "Готово">
 <!ENTITY historyCmd.label "Журнал посещений">
 <!ENTITY historyCmd.accesskey "Ж">

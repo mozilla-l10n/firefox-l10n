@@ -11,15 +11,12 @@
 <!ENTITY biffStart.label "Проверять наличие новых сообщений каждые ">
 <!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минут">
-<!ENTITY socketType.label "Использовать защищённое соединение:">
-<!ENTITY neverSecure.label "Никогда">
-<!ENTITY neverSecure.accesskey "Н">
-<!ENTITY sometimesSecure.label "TLS, по возможности">
-<!ENTITY sometimesSecure.accesskey "в">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Защита соединения: ">
+<!ENTITY connectionSecurity.accesskey "щ">
+<!ENTITY connectionSecurityType-0.label "Нет">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, если доступно">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Использовать защищённую аутентификацию">
 <!ENTITY useSecAuth.accesskey "с">
 <!ENTITY leaveOnServer.label "Оставлять копии сообщений на сервере">
