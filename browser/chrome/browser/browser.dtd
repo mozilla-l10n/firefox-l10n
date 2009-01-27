@@ -310,6 +310,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Mērogs">
 <!ENTITY fullZoom.accesskey "M">
 
+<!ENTITY newTabButton.tooltip "Atvērt jaunu cilni">
 <!ENTITY newWindowButton.tooltip "Atvērt jaunu logu">
 <!ENTITY sidebarCloseButton.tooltip "Aizvērt sānjoslu">
 
