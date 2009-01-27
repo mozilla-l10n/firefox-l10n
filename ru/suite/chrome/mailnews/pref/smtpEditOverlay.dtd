@@ -12,7 +12,7 @@
 <!ENTITY userName.accesskey "м">
 <!ENTITY useSecAuth.label "Использовать защищённую аутентификацию">
 <!ENTITY useSecAuth.accesskey "щ">
-<!ENTITY connectionSecurity.label "Защита соединения: ">
+<!ENTITY connectionSecurity.label "Защита соединения:">
 <!ENTITY connectionSecurity.accesskey "щ">
 <!ENTITY connectionSecurityType-0.label "Нет">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, если доступно">

@@ -11,7 +11,7 @@
 <!ENTITY biffStart.label "Проверять наличие новых сообщений каждые ">
 <!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минут">
-<!ENTITY connectionSecurity.label "Защита соединения: ">
+<!ENTITY connectionSecurity.label "Защита соединения:">
 <!ENTITY connectionSecurity.accesskey "щ">
 <!ENTITY connectionSecurityType-0.label "Нет">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, если доступно">
