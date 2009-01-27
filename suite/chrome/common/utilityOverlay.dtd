@@ -86,6 +86,9 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey  "n">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
+<!ENTITY customizeToolbarContext.label            "Aanpassen…">
+<!ENTITY customizeToolbarContext.accesskey        "A">
+
 <!ENTITY customizeToolbar.toolbarmode.label       "Instellingen voor deze werkbalk">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
 <!ENTITY customizeToolbar.iconsAndText.label      "Pictogrammen en tekst">
