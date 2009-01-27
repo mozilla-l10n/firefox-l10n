@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "Servernaam: ">
 <!ENTITY serverPort.label "Poort: ">
 <!ENTITY userName.label "Gebruikersnaam: ">
-<!ENTITY useSecureConnection.label "Beveiligde verbinding: ">
+<!ENTITY connectionSecurity.label "Verbindingsbeveiliging: ">
 <!ENTITY useSecureAuthentication.label "Beveiligde authenticatie: ">
