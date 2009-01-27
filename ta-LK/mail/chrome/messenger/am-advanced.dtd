@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "வெளியே அனுப்பும் சேவையக (SMTP) அமைவுகள்">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "நீங்கள் ஒன்றுக்கு மேற்பட்ட வெளியே அனுப்பும் சேவையகங்களை(SMTP) குறிப்பிட்டாலும், உயர்தர பயனர்களுக்கு மட்டுமே அது பரிந்துரைக்கப்படுகிறது, பல SMTP சேவையகங்களை அமைப்பதால் செய்திகளை அனுப்பும்போது பிழைகள் நேரலாம்.">
+
+<!ENTITY smtpListAdd.label "சேர்...">
+<!ENTITY smtpListAdd.accesskey "d">
+<!ENTITY smtpListEdit.label "செவ்வையாக்கு...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "நீக்கு">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "கொடாநிலையை அமை">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "விரிவுரை: ">
+<!ENTITY serverName.label "சேவையக பெயர்: ">
+<!ENTITY serverPort.label "தளம்: ">
+<!ENTITY userName.label "பயனர் பெயர்: ">
+<!ENTITY useSecureConnection.label "பாதுகாப்பான இணைப்பு:  ">
+<!ENTITY useSecureAuthentication.label   "பாதுகாப்பான உறுதிப்படுத்தல்: ">

@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewListTitle.label "அஞ்சல் நேக்குகளை தனிப்பயனாக்குக.">
+<!ENTITY viewName.label "பெயரை நேக்குக">
+

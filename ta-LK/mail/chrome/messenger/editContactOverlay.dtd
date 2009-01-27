@@ -1,0 +1,11 @@
+<!ENTITY editContactName.label "பெயர்:">
+<!ENTITY editContactName.accesskey "N">
+
+<!ENTITY editContactEmail.label "மின்னஞ்சல்:">
+<!ENTITY editContactEmail.accesskey "E">
+
+<!ENTITY editContactPanelCancel.label "இரத்து செய்க">
+<!ENTITY editContactPanelCancel.accesskey "C">
+
+<!ENTITY editContactPanelDone.label "முடிந்தது">
+<!ENTITY editContactPanelDone.accesskey "D">

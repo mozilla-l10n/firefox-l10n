@@ -1,0 +1,72 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "அஞ்சல்களை இதில் தேடுக:">
+<!ENTITY searchHeading.accesskey "h">
+<!ENTITY searchSubfolders.label "உபகோப்புறைகளிலும் தேடுக">
+<!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY resetButton.label "சுத்தம் செய்">
+<!ENTITY resetButton.accesskey "C">
+<!ENTITY openButton.label "திற">
+<!ENTITY openButton.accesskey "n">
+<!ENTITY deleteButton.label "நீக்கு">
+<!ENTITY deleteButton.accesskey "D">
+<!ENTITY searchDialogTitle.label "அஞ்சல்களை தேடுக">
+<!ENTITY results.label "முடிவுகள்">
+<!ENTITY fileHereMenu.label "கோப்பு இங்கே">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY fileButton.label "கோப்பு">
+<!ENTITY fileButton.accesskey "i">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "அஞ்சல் கோப்புறையை திற">
+<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY saveAsVFButton.label "தேடல் கோப்புறையாக சேமி">
+<!ENTITY saveAsVFButton.accesskey "v">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "இதில் தேடுக:">
+<!ENTITY abSearchHeading.accesskey "h">
+<!ENTITY propertiesButton.label "தன்மைகள்">
+<!ENTITY propertiesButton.accesskey "P">
+<!ENTITY composeButton.label "எழுதுக">
+<!ENTITY composeButton.accesskey "W">
+<!ENTITY abSearchDialogTitle.label "உயர்நிலை முகவரிப்புத்தக தேடல்">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Thread">
+<!ENTITY fromColumn.label "From">
+<!ENTITY recipientColumn.label "பெறுநர்">
+<!ENTITY subjectColumn.label "பாடம்">
+<!ENTITY dateColumn.label "தேதி">
+<!ENTITY priorityColumn.label "முன்னுரிமை">
+<!ENTITY tagsColumn.label "ஒட்டுகள்">
+<!ENTITY accountColumn.label "கணக்கு">
+<!ENTITY statusColumn.label "நிலைமை">
+<!ENTITY sizeColumn.label "அளவு">
+<!ENTITY junkStatusColumn.label "கூள நிலைமை">
+<!ENTITY unreadColumn.label "படிக்கப்படாதது">
+<!ENTITY totalColumn.label "மொத்தம்">
+<!ENTITY readColumn.label "படிக்கப்பட்டது">
+<!ENTITY receivedColumn.label "Received">
+<!ENTITY starredColumn.label "விண்மீன்குறியிடப்பட்ட">
+<!ENTITY locationColumn.label "இடம்">
+<!ENTITY idColumn.label "கிடைத்த வரிசை">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "தெரிவு செய்த நெடுவரிசைகளை காண்பிக்க சொடுக்குக">
+<!ENTITY threadColumn.tooltip "அஞ்சல் Threadகளை நோக்க சொடுக்குக">
+<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY recipientColumn.tooltip "பெறுநர்வாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY subjectColumn.tooltip "தலைப்பு வாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY dateColumn.tooltip "தேதிவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY priorityColumn.tooltip "முன்னுரிமைவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY tagsColumn.tooltip "நிலைமைவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY accountColumn.tooltip "கணக்குவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY statusColumn.tooltip "நிலைமைவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY sizeColumn.tooltip "அளவுவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY junkStatusColumn.tooltip "கூளநிலைமைவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY unreadColumn.tooltip " Threadல் உள்ள படிக்காத அஞ்சல்களின் எண்ணிக்கை">
+<!ENTITY totalColumn.tooltip " Threadல் உள்ள மொத்த அஞ்சல்களின் எண்ணிக்கை">
+<!ENTITY readColumn.tooltip "படித்ததுவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY starredColumn.tooltip "நிலைமைவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY locationColumn.tooltip "இடவாரியாக வரிசைப்படுத்த சொடுக்குக">
+<!ENTITY idColumn.tooltip "கிடைத்த வரிசை வாரியாக வரிசைப்படுத்த சொடுக்குக.">

@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML அஞ்சல் கேள்வி">
+
+<!ENTITY recipient.label "பெறுனர்களில் சிலர் HTML அஞ்சலைப் பெறுவதற்கு பட்டியல்படுத்தப்படவில்லை.">
+
+<!ENTITY question.label "செய்தியை plain text ஆக நிலைமாற்றுவதற்கு அல்லது ஏதோ ஒரு வழியில் அதனை HTML ஆக அனுப்புவதற்கு நீங்கள் விரும்புகிறீர்களா?">
+
+<!ENTITY plainTextAndHtml.label "Plain Text ஆகவும் HTML ஆகவும் அனுப்புக">
+<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.label "Plain Text ஆக மட்டும் அனுப்புக">
+<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY htmlOnly.label "HTML ஆக மட்டும் அனுப்புக">
+<!ENTITY htmlOnly.accesskey "H">
+
+<!ENTITY send.label "அனுப்புக">
+<!ENTITY send.accesskey "S">

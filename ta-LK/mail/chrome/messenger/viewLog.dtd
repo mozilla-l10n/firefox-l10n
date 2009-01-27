@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "வடிகட்டி பதிவு">
+<!ENTITY viewLogInfo.text "வடிகட்டி பதிவு இந்த கணக்கில் செயல்பட்ட வடிகட்டிகளின் ஆவணத்தை தயாரிக்கிறது. பதிவேற்றத்தை ஆக்கப்படுத்த, கீழேயுள்ள குறிப்புப்பெட்டியை பயன்படுத்துக.">
+<!ENTITY clearLog.label "பதிவை சுத்தம் செய்க">
+<!ENTITY clearLog.accesskey "ப">
+<!ENTITY enableLog.label "வடிகட்டி பதிவை செயலாக்குக">
+<!ENTITY enableLog.accesskey "வ">
+<!ENTITY closeLog.label "மூடுக">
+<!ENTITY closeLog.accesskey "ட">

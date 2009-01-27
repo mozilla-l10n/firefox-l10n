@@ -1,0 +1,27 @@
+<!ENTITY pane.title "பெறுதல் பற்றுச்சீட்டுகள்">
+<!ENTITY useGlobalPrefs.label "என் உலகளாவிய பெறுதல் பற்றுச்சீட்டு விருப்பத்தெரிவுகளை இந்தக் கணக்கில் பயன்படுத்துக.">
+<!ENTITY useGlobalPrefs.accesskey "U">
+<!ENTITY useCustomPrefs.label "இந்தக் கணக்கில் என் பெறுதல் பற்றுச்சீட்டுகளை தனிப்பயனாக்குக.">
+<!ENTITY useCustomPrefs.accesskey "C">
+<!ENTITY requestReceipt.label "அஞ்சல் அனுப்பும் போது,  பெறுதல் பற்றுச்சீட்டை கோருக.">
+<!ENTITY requestReceipt.accesskey "W">
+<!ENTITY receiptArrive.label "பற்றுச்சீட்டு பெறும்போது:">
+<!ENTITY leaveIt.label "என் உட்பெட்டியில் அதை சேமிக்கவும்.">
+<!ENTITY leaveIt.accesskey "I">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label "என் &quot;Sent&quot;  கோப்புறைக்கு அதை நகர்த்துக">
+<!ENTITY moveToSent.accesskey "M">
+<!ENTITY requestMDN.label "பெறுதல் Receipt கோரிக்கை எனக்கு கிடைக்கும் போது:">
+<!ENTITY returnSome.label "சில அஞ்சல்களில் பெறுதல் பற்றுச்சீட்டை அனுமதிக்கவும்.">
+<!ENTITY returnSome.accesskey "e">
+<!ENTITY never.label "பெறுதல் பற்றுச்சீட்டை  எப்பவுமே அனுப்பவேண்டாம்.">
+<!ENTITY never.accesskey "N">
+<!ENTITY notInToCc.label "நான் அஞ்சலின் To அல்லது Cc-ல் இல்லாதவிடத்து:">
+<!ENTITY notInToCc.accesskey "T">
+<!ENTITY outsideDomain.label "அனுப்புநர் என் ஆள்களத்திற்கு வெளியே இருந்தால்:">
+<!ENTITY outsideDomain.accesskey "s">
+<!ENTITY otherCases.label "மற்ற எல்லா வழக்குகளிலும்:">
+<!ENTITY otherCases.accesskey "o">
+<!ENTITY askMe.label "என்னை கேட்கவும்">
+<!ENTITY alwaysSend.label "எப்பவும் அனுப்புக">
+<!ENTITY neverSend.label "எப்பவும் அனுப்ப வேண்டாம்">

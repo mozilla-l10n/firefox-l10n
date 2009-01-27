@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "செய்திகள் அனுப்பப்படுகின்றன"> 
+<!ENTITY status.label "நிலை:">
+<!ENTITY progress.label "முன்னேற்றம்:">

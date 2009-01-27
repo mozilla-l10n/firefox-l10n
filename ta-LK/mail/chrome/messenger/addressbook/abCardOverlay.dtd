@@ -1,0 +1,160 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab                     "தொடர்பு">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Name.box                        "பெயர்">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "முதற் பெயர்">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "இறுதிப்பெயர்">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "ஒலியியல் முதற் பெயர்">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "ஒலியியல் இறுதிப் பெயர்">
+
+<!ENTITY NameField1.label               "முதலாவது:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "இறுதியாக:">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "ஒலியியல்:">
+<!ENTITY PhoneticField2.label           "ஒலியியல்:">
+<!ENTITY DisplayName.label              "காட்சி:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY NickName.label                 "புனைப்பெயர்:">
+<!ENTITY NickName.accesskey             "N">
+
+<!ENTITY PrimaryEmail.label             "மின்னஞ்சல்:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "மேலதிக மின்னஞ்சல்:">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "தகவல்களைப் பெற விரும்பும் வடிவமைப்பு:">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "Plain Text">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "அறியப்படாதது">
+<!ENTITY ScreenName.label               "திரைப்பெயர்:">
+<!ENTITY ScreenName.accesskey           "S">
+
+<!ENTITY allowRemoteContent.label       "HTML அஞ்சலில் தொலைப் படிமங்களை அனுமதிக்க.">
+<!ENTITY allowRemoteContent.accesskey   "w">
+<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+images in HTML messages from this contact.">
+
+<!ENTITY WorkPhone.label                "வேலை:">
+<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY HomePhone.label                "இல்லம்:">
+<!ENTITY HomePhone.accesskey            "o">
+<!ENTITY FaxNumber.label                "தொலைநகல்:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY CellularNumber.label           "கையடக்கத் தொலைபேசி:">
+<!ENTITY CellularNumber.accesskey       "M">
+
+<!ENTITY Home.tab                       "Private">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "முகவரி:">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "நகரம்:">
+<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeState.label                "மாநிலம்/மாகாணம்:">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label              "ZIP/அஞ்சல் குறியீடு:">
+<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeCountry.label              "நாடு:">
+<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeWebPage.label              "இணையப்பக்கம்:">
+<!ENTITY HomeWebPage.accesskey          "W">
+
+<!ENTITY Work.tab                       "Work">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "தலைப்பு:">
+<!ENTITY JobTitle.accesskey             "e">
+<!ENTITY Department.label               "இலாகா:">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Company.label                  "நிறுவனம்:">
+<!ENTITY Company.accesskey              "O">
+<!ENTITY WorkAddress.label              "முகவரி:">
+<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "நகரம்:">
+<!ENTITY WorkCity.accesskey             "i">
+<!ENTITY WorkState.label                "மாநிலம்/மாகாணம்:">
+<!ENTITY WorkState.accesskey            "v">
+<!ENTITY WorkZipCode.label              "ZIP/அஞ்சல் குறியீடு:">
+<!ENTITY WorkZipCode.accesskey          "P">
+<!ENTITY WorkCountry.label              "நாடு:">
+<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkWebPage.label              "இணையப்பக்கம்:">
+<!ENTITY WorkWebPage.accesskey          "b">
+
+<!ENTITY Other.tab                      "வேறு">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Birthday.label                 "பிறந்தநாள்:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
+<!ENTITY Year.emptytext                 "ஆண்டு">
+<!ENTITY Or.value                       "or">
+<!ENTITY Age.emptytext                  "வயது">
+<!ENTITY YearsOld.label                 "">
+
+<!ENTITY Custom1.label                  "தனிப்பயன் 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "தனிப்பயன் 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "தனிப்பயன் 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "தனிப்பயன் 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Notes:">
+<!ENTITY Notes.accesskey                "N">

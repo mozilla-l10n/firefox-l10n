@@ -1,0 +1,43 @@
+<!ENTITY window.title "வடிகட்டி விதிகள்">
+
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+
+<!ENTITY filterName.label "வடிகட்டியின் பெயர்:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "கூளம்">
+<!ENTITY notJunk.label "கூளமில்லை">
+
+<!ENTITY lowestPriorityCmd.label "மிகக்குறைந்த">
+<!ENTITY lowPriorityCmd.label "குறைந்த">
+<!ENTITY normalPriorityCmd.label "சாதாரண">
+<!ENTITY highPriorityCmd.label "அதிகம்">
+<!ENTITY highestPriorityCmd.label "மிக அதிகம்">
+
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY filterActionDesc.label "இந்தச் செயல்களை செய்க:">
+<!ENTITY filterActionDesc.accesskey "P">
+
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "அஞ்சலை நகர்த்தும் இடம்">
+<!ENTITY copyMessage.label "அஞ்சலை நகலெடுக்கும் இடம்">
+<!ENTITY forwardTo.label "அஞ்சலை அனுப்பவேண்டிய இடம்">
+<!ENTITY replyWithTemplate.label "படிம அச்சுடன் பதிலளிக்கவும்">
+<!ENTITY markMessageRead.label "படிக்கப்பட்டதெனக் குறிக்கவும்">
+<!ENTITY markMessageStarred.label "நட்சத்திரக் குறியை சேர்க்கவும்">
+<!ENTITY setPriority.label "முன்னுரிமையை அமைக்கவும்">
+<!ENTITY addTag.label "அஞ்சலை குறிக்கவும்">
+<!ENTITY setJunkScore.label "இதற்கு கூள நிலையை அமைக்கவும்">
+<!ENTITY deleteMessage.label "அஞ்சலை நீக்குக">
+<!ENTITY deleteFromPOP.label "POP சேவையகத்திலிருந்து நீக்குக">
+<!ENTITY fetchFromPOP.label "POP சேவையகத்திலிருந்து கொணர்க">
+<!ENTITY ignoreThread.label "Threadஐ தவிர்க்கவும்">
+<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY watchThread.label "Threadஐ கவனிக்கவும்">
+<!ENTITY stopExecution.label "Stop Filter Execution">
+

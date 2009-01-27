@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "குப்பை அஞ்சல் பதிவு">
+<!ENTITY junkLogInfo.label "குப்பை அஞ்சல் கட்டுபாடு செயலின் பதிவு">
+<!ENTITY clearLog.label "பதிவை சுத்தம் செய்க">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY closeLog.label "மூடுக">
+<!ENTITY closeLog.accesskey "o">

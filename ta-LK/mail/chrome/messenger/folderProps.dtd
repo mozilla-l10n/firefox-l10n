@@ -1,0 +1,98 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label "தன்மைகள்">
+
+<!ENTITY generalInfo.label "பொது விவரம்">
+<!ENTITY folderCharsetTab.label "கொடாநிலை எழுத்துக் குறிமுறை:">
+<!ENTITY folderCharsetTab.accesskey "">
+<!ENTITY folderCharsetOverride.label "இந்த கோப்புறையில் உள்ள அஞ்சல்கள் அனைத்திலும் கொடாநிலையை செயல்படுத்துக (தனிப்பட்ட அஞ்சல் எழுத்துக்குறிமுறையும் சுய-கணிப்பும் புறக்கணிக்கப்படும்).">
+<!ENTITY folderCharsetOverride.accesskey "">
+<!ENTITY folderRebuildSummaryFile.label "Indexஐ மீண்டும் தயாராக்குக">
+<!ENTITY folderRebuildSummaryFile.accesskey "">
+<!ENTITY folderRebuildSummaryFileTip.label "சுருக்க கோப்பை மீண்டும் தயாராக்குக">
+
+
+<!ENTITY retention.label "வைத்திருத்தல் கொள்கை">
+<!ENTITY retentionUseDefault.label "சேவையக கொடாநிலைகளை பயன்படுத்துக">
+<!ENTITY retentionUseDefault.accesskey "">
+<!ENTITY daysOld.label "நாட்களுக்கு மேற்பட்ட அஞ்சல்களை நீக்குக. ">
+<!ENTITY message.label "அஞ்சல்களைத் தவிர அனைத்தையும் நீக்குக.">
+<!ENTITY retentionCleanup.label "வன்வட்டு வெற்றிடத்தை மீட்க, பழைய அஞ்சல்கள் நிரந்தரமாக நீக்கப்படும்">
+<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "எந்த அஞ்சல்களையும் நீக்கவேண்டாம்.">
+<!ENTITY retentionKeepAll.accesskey "">
+<!ENTITY retentionKeepNew.label "இறுதி ">
+<!ENTITY retentionKeepNew.accesskey "">
+<!ENTITY retentionKeepUnread.label "படிக்கப்பட்ட அஞ்சல்களை நீக்குக.">
+<!ENTITY retentionKeepUnread.accesskey "">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY folderOfflineTab.label "இணைப்பில்லா நிலை">
+<!ENTITY folderCheckForNewMessages.label "இந்தக் கோப்புறையில் புதிய அஞ்சல்கள் இருக்கிறதா எனப் பார்க்கவும்.">
+<!ENTITY folderCheckForNewMessages.accesskey "">
+
+<!ENTITY offlineFolder.check.label "இந்தக் கோப்புறையை இணைப்பில்லா நிலை உபயோகத்திற்கு தெரிவு செய்க.">
+<!ENTITY offlineFolder.check.accesskey "">
+<!ENTITY offlineFolder.button.label "தற்போது பதிவிறக்கு">
+<!ENTITY offlineFolder.button.accesskey "">
+
+<!ENTITY selectofflineNewsgroup.check.label "இந்த அஞ்சல் தொகுப்பை இணைப்பில்லா நிலைக்கு தெரிவு செய்க.">
+<!ENTITY selectofflineNewsgroup.check.accesskey "">
+<!ENTITY offlineNewsgroup.button.label "தற்போது பதிவிறக்கு">
+<!ENTITY offlineNewsgroup.button.accesskey "">
+
+<!ENTITY folderProps.name.label "பெயர்:">
+<!ENTITY folderProps.name.accesskey "">
+<!ENTITY folderProps.location.label              "Location:">
+<!ENTITY folderProps.location.accesskey          "L">
+
+<!ENTITY folderSharingTab.label "பங்கிடுதல்">
+<!ENTITY privileges.button.label "சிறப்புரிமைகள்...">
+<!ENTITY privileges.button.accesskey "">
+<!ENTITY permissionsDesc.label "உங்களிடம் பின்வரும் அனுமதிகள் உள்ளது:">
+<!ENTITY folderType.label "கோப்புறை வகை:">
+
+<!ENTITY folderQuotaTab.label "பங்கு">
+<!ENTITY folderQuotaRoot.label "பங்கு Root:">
+<!ENTITY folderQuotaUsage.label "உபயோகம்:">
+<!ENTITY folderQuotaStatus.label "நிலைமை:">

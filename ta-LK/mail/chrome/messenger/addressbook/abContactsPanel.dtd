@@ -1,0 +1,20 @@
+
+<!ENTITY addressbookPicker.label "முகவரிப் புத்தகம்:">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchInput.label "இதற்காக தேடுக:">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label "பெயர் அல்லது மின்னஞ்சல்">
+
+<!ENTITY deleteAddrBookCard.label           "நீக்குக">
+<!ENTITY addrBookCardProperties.label       "பண்பியல்புகள்">
+<!ENTITY addtoToFieldMenu.label "To புலத்தில் சேர்க்கவும்">
+<!ENTITY addtoCcFieldMenu.label "Cc புலத்தில் சேர்க்கவும்">
+<!ENTITY addtoBccFieldMenu.label "Bcc புலத்தில் சேர்க்கவும்">
+
+<!ENTITY toButton.label "To-ல் சேர்க்கவும் :">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label "Cc-ல் சேர்க்கவும் :">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "Bcc யில் சேர்க்கவும்:">
+<!ENTITY bccButton.accesskey                "B">
+

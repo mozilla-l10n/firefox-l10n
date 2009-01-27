@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label "மின்னஞ்சல்">
+<!ENTITY readMsgsLink.label "படிக்கப்பட்ட அஞ்சல்கள்">
+<!ENTITY composeMsgLink.label "ஒரு புதிய அஞ்சலை எழுதுக">
+
+<!ENTITY newsSectionHdr.label "செய்தித்தொகுப்புக்கள்">
+<!ENTITY subscribeNewsLink.label "செய்தித்தொகுப்பு சந்தாக்களை நிர்வகிக்கவும்">
+
+<!ENTITY accountsSectionHdr.label "கணக்குகள்">
+<!ENTITY subscribeImapFolders.label "folder subscriptionsஐ நிர்வகிக்கவும்">
+<!ENTITY settingsLink.label "இந்த கணக்கிற்கான அமைவுகளை நோக்கு">
+<!ENTITY newAcctLink.label "புதிய கணக்கை உருவாக்குக">
+
+<!ENTITY advFeaturesSectionHdr.label "உயர்தர அம்சங்கள்">
+<!ENTITY searchMsgsLink.label "செய்திகளை தேடுக">
+<!ENTITY filtersLink.label "செய்தி வடிகட்டிகளை நிர்வகிக்கவும்">
+<!ENTITY junkSettings.label "கூள அஞ்சல் அமைவுகள்">
+<!ENTITY offlineLink.label "Offline அமைவுகள்">
+
+
+<!ENTITY rssSectionHdr.label "RSS செய்திகள் &amp; Blogs">
+<!ENTITY subscibeRSS.label "subscriptionsஐ நிர்வகிக்கவும்">

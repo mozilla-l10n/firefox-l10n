@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "செய்திகளை தரவிறக்கி இசைவு செய்க">
+<!ENTITY MsgSelect.label "ஆப்லைனில் உபயோகிக்கப்படவேண்டிய உருப்படிகள் ">
+<!ENTITY MsgSyncDesc.label "ஆப்லைனில் உபயோகிக்க நீங்க ஏற்கனவே அஞ்சல் அடைவுகள் அல்லது செய்தித்தொகுப்புக்களை தேர்வு செய்திருந்தால் அதை இப்ப தரவிறக்கலாம் மற்றும்/அல்லது இசைவு செய்யலாம், அல்லது, &quot;Select&quot; பட்டனை உபயோகித்து, ஆப்லைனில் உபயோகிக்க செய்தி அடைவுகள் மற்றும் செய்தித்தொகுப்புக்களை தேர்வு செய்க.">
+<!ENTITY MsgSyncDirections.label "பின்வருவதை தரவிறக்குக மற்றும்/அல்லது இசைவு செய்க:">
+<!ENTITY syncTypeMail.label "அஞ்சல் செய்திகள்">
+<!ENTITY syncTypeMail.accesskey "அ">
+<!ENTITY syncTypeNews.label "செய்தித்தொகுப்பு செய்திகள்">
+<!ENTITY syncTypeNews.accesskey "ச">
+<!ENTITY sendMessage.label "அனுப்பாத செய்திகளை அனுப்புக">
+<!ENTITY sendMessage.accesskey "அ">
+<!ENTITY workOffline.label " தரவிறக்குக மற்றும்/அல்லது இசைவு செய்தல் முடிந்ததும் ஆப்லைனில் வேலை செய்க.">
+<!ENTITY workOffline.accesskey " ">
+<!ENTITY selectButton.label "தேர்வு செய்க...">
+<!ENTITY selectButton.accesskey "ர">
+<!ENTITY MsgSelectDesc.label "ஆப்லைனில் உபயோகிக்க செய்தி அடைவுகள் மற்றும் செய்தித்தொகுப்புக்களை தேர்வு செய்க.">
+<!ENTITY MsgSelectInd.label "தரவிறக்கம்">
+<!ENTITY MsgSelectItems.label "செய்தி அடைவுகள் மற்றும் செய்தித்தொகுப்புக்கள்">

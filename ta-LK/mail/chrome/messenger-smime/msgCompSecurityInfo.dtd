@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "அஞ்சல் பாதுகாப்பு ">
+<!ENTITY subject.plaintextWarning "கவனிக்கவும்: மின்னஞ்சல் செய்திகளிள் தலைப்பு வரிகள் எப்பவும் மறைகுறியீடாக்கப்படுவதில்லை.">
+<!ENTITY status.heading "உங்கள் அஞ்சலின் பொருளடக்கங்களை இந்த மாதிரி அனுப்பப்படும்:">
+<!ENTITY status.signed "digitalஆக கையெழுத்திடப்பட்டது:">
+<!ENTITY status.encrypted "மறைக்குறியீடாக்கப்பட்டது:">
+<!ENTITY status.certificates "சான்றிதழ்கள்">
+<!ENTITY view.label "நோக்கு">
+<!ENTITY view.accesskey "">
+<!ENTITY tree.recipient "பெறுநர்">
+<!ENTITY tree.status "நிலை">
+<!ENTITY tree.issuedDate "வழங்கப்பட்டது">
+<!ENTITY tree.expiresDate "முடிவடைகிறது">

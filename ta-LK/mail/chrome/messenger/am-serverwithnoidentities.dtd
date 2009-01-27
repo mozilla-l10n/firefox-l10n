@@ -1,0 +1,11 @@
+<!ENTITY accountTitle.label "கணக்கு அமைவுகள்">
+<!ENTITY accountSettingsDesc.label "பின்வருவது ஒரு விசேட கணக்கு. இதனுடன் எந்த அடையாளங்களும் இணைக்கப்பட்டவில்லை.">
+<!ENTITY accountName.label "கணக்கின் பெயர்:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "செய்தி தேக்கம்">
+<!ENTITY emptyTrashOnExit.label "வெளியேறும்போது குப்பையை காலியாக்குக">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY localPath.label "உள் அடைவு">
+<!ENTITY localFolderPicker.label "உள் அடைவை தேர்வு செய்க">
+<!ENTITY browseFolder.label "உலாவு...">
+<!ENTITY browseFolder.accesskey "">

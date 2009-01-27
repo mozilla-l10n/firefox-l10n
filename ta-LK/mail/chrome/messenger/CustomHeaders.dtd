@@ -1,0 +1,7 @@
+<!ENTITY window.title "தலைப்புகளை தனிப்பயனாக்குக">
+<!ENTITY addButton.label "சேர்">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "நீக்கு">
+<!ENTITY removeButton.accesskey "D">
+<!ENTITY newMsgHeader.label "புதிய செய்தித் தலைப்பு">
+<!ENTITY newMsgHeader.accesskey "">

@@ -1,0 +1,62 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+
+<!ENTITY fileMenu.label "கோப்பு">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "புதிய">
+<!ENTITY newMenu.accesskey "N">
+
+<!ENTITY editMenu.label "செவ்வையாக்கு">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "அ-செய்">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "மீ-செய்">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "வெட்டு">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "நகலெடு">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "ஒட்டு">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "நீக்கு">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "அனைத்தையும் தெரிவு செய்">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "விருப்பங்கள்...">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "விருப்பத்தெரிவுகள்">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!ENTITY viewMenu.label "நோக்கு">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenu.label "கருவிப்பட்டைகள்">
+<!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY showTaskbarCmd.label "நிலைமைப் பட்டை">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY proxy.label "proxy கட்டமைப்பு...">
+<!ENTITY proxy.accesskey "C">
+
+
+<!ENTITY closeCmd.label "மூடு">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "c">
+
+
+<!ENTITY quitApplicationCmd.label "வெளியேறு">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "x">
+
+<!ENTITY quitApplicationCmdUnix.label "வெளியேறு">
+<!ENTITY quitApplicationCmdUnix.accesskey "Q">
+
+<!ENTITY quitApplicationCmdMac.label  "வெளியேறு &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "q">
+

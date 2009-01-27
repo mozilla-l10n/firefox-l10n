@@ -1,0 +1,97 @@
+<!ENTITY itemGeneral.label "பொது">
+<!ENTITY itemUpdate.label "இற்றைப்படுத்தல்">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
+<!ENTITY itemNetworking.label "வலையமைப்பும் வட்டுத்தளமும்">
+<!ENTITY itemCertificates.label "சான்றிதழ்கள்">
+
+<!-- General Settings -->
+<!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY systemDefaults.label          "System Defaults">
+<!ENTITY showCondensedAddresses.label "என் முகவரிப்புத்தகத்தில் பெயரை மட்டும் காண்பிக்கவும்">
+<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+
+<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "seconds">
+<!ENTITY openMsgIn.label               "Open messages in:">
+<!ENTITY reuseExpRadio0.label "ஒரு புதிய அஞ்சல் சாளரத்தில்">
+<!ENTITY reuseExpRadio0.accesskey "i">
+<!ENTITY reuseExpRadio1.label "அதே அஞ்சல் சாளரத்தில்">
+<!ENTITY reuseExpRadio1.accesskey "x">
+<!ENTITY configEditDesc.label "உயர்தர கட்டமைப்பு">
+<!ENTITY configEdit.label "கட்டமைப்பு செவ்வையாளன்....">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "&brandShortName; Return Receiptsஐ  கையாளும் விதத்தை கணிக்கவும்">
+<!ENTITY showReturnReceipts.label "Return Receipts..">
+<!ENTITY showReturnReceipts.accesskey "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY enableGloda.label             "Enable Message Indexer">
+<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY reading.caption               "Reading">
+<!ENTITY display.caption               "Display">
+
+
+<!-- Update -->
+<!ENTITY autoCheck.label "தன்னியக்கமாக புதுப்பிக்கள் இருக்கிறதா என பார்க்கவும்:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "நிறுவப்பட்ட செருகல்கள்">
+<!ENTITY enableAddonsUpdate.accesskey "t">
+<!ENTITY checkNow.label "தற்போது சரிபார்க்கவும்...">
+<!ENTITY checkNow.accesskey            "N">
+<!ENTITY whenUpdatesFound.label "brandShortName-க்கு புதுப்பிக்கள்; கிடைக்கும்போது:">
+<!ENTITY modeAskMe.label "நான் என்ன செய்யவேண்டுமென்று கேட்கவும்">
+<!ENTITY modeAskMe.accesskey "k">
+<!ENTITY modeAutomatic.label "தன்னியக்கமாக புதுப்பியை தரவிறக்கி அதை நிறுவுக">
+<!ENTITY modeAutomatic.accesskey "m">
+<!ENTITY modeAutoAddonWarn.label "என் செரு-கல்களை இது செயல்நீக்கினால் என்னை எச்சரிக்கவும்">
+<!ENTITY modeAutoAddonWarn.accesskey "-">
+<!ENTITY showUpdates.label "புதுப்பித்த வரலாறை காண்பிக்கவும்.">
+<!ENTITY showUpdates.accesskey "y">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Settings…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
+<!ENTITY connectionsInfo.caption "இணைப்பு">
+<!ENTITY offlineInfo.caption "இணைப்பில்லாத">
+<!ENTITY offlineInfo.label "இணைப்பில்லா நிலைகளை கட்டமைக்கவும்்">
+<!ENTITY showOffline.label "இணைப்பில்லாத நிலை...">
+<!ENTITY showOffline.accesskey "O">
+
+<!ENTITY Diskspace "உள்ள வட்டுத்தளம்">
+<!ENTITY offlineCompact.label "சேமிக்கும் போது அடைவை ஒழுங்குப்படுத்துக">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "KB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Use up to">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB of space for the cache">
+<!ENTITY clearCacheNow.label             "Clear Now">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!-- Certificates -->
+
+<!ENTITY viewCertificates.label "சான்றிதழ்களை காண்க">
+<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCRLs.label "தள்ளுபடி பட்டியல்கள்">
+<!ENTITY viewCRLs.accesskey "e">
+<!ENTITY validation.label               "Validation">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label "பாதுகாப்பு சாதனங்கள்">
+<!ENTITY viewSecurityDevices.accesskey "u">

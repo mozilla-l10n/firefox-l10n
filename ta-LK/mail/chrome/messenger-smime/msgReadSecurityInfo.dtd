@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "செய்தி பாதுகாப்பு ">
+<!ENTITY signatureCert.label "கையெழுத்து சான்றிதழை காண்க">
+<!ENTITY encryptionCert.label "முறைக்குறியீடாக்கப்பட்ட சான்றிதழை காண்க">
+
+<!ENTITY signer.name "கையெழுத்திட்டவர்:">
+<!ENTITY recipient.name "இதற்காக மறைக்குறியிடப்பட்டது:">
+<!ENTITY email.address "மின்னஞ்சல் முகவரி:">
+<!ENTITY issuer.name "சான்றிதழை அளித்தவர்:">

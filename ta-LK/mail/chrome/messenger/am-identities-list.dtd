@@ -1,0 +1,7 @@
+<!ENTITY identitiesListDesc.label "பல அடையாளங்களுக்கு ஆதாரம்">
+<!ENTITY identitiesListAdd.label "சேர்...">
+<!ENTITY identitiesListAdd.accesskey "A">
+<!ENTITY identitiesListEdit.label "செவ்வையாக்கு...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "நீக்கு">
+<!ENTITY identitiesListDelete.accesskey "D">

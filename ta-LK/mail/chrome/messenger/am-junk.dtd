@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "குப்பை அமைவுகள்">
+<!ENTITY trainingWarning.label "செயலாக்கப்பட்டால், முதலில்  கருவிப்பட்டையிலுள்ள குப்பை பொத்தான் மூலம் அஞ்சல்கள் குப்பையா, இல்லையா என அடையாளங்காட்டுமாறு &brandShortName; -ற்கு பயிற்சியளிக்க வேண்டும்.  குப்பை மற்றும் குப்பையில்லாத அஞ்சல்கள், இவை இரண்டுமே அடையாளங் காட்டப்படவேண்டும்.">
+<!ENTITY level.label "இந்த கணக்கிற்கு மாற்றியமைக்கக்கூடிய குப்பை அஞ்சல் கட்டுப்பாடுகளை இயலச்செய்க.">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY move.label "புதிய குப்பை அஞ்சல்களை இங்கே நகர்த்துக:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "இங்குள்ள &quot;Junk&quot; கோப்புறை:">
+<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY otherFolder.label "வேறு:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "மேலும் ">
+<!ENTITY purge1.accesskey "U">
+<!ENTITY purge2.label "நாட்களை விட பழைமையான குப்பை அஞ்சல்களை தன்னியக்கமாக நீக்குக.">
+
+<!ENTITY whitelist.label "அனுப்புநர் இதனுள்ளிருந்தால் அஞ்சல் குப்பையில்லை: ">
+<!ENTITY whitelist.accesskey "D">
+
+<!ENTITY ispHeaders.label "இதனால் அமைக்கப்பட்ட குப்பை அஞ்சல் தலைப்புகளை நம்புக: ">
+<!ENTITY ispHeaders.accesskey "T">

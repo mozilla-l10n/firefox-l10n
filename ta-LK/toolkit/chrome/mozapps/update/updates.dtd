@@ -1,0 +1,76 @@
+<!ENTITY  updateWizard.title              "மென்பொருள் இற்​றைப்படுத்துதல்">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "இற்​றைப்படுத்துதல்களுக்காக சரிபார்க்கப்படுகின்றது">
+<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
+
+<!ENTITY  noupdatesfound.title            "எந்தவொரு இற்​றைப்படுத்துதல்களும் காணப்படவில்லை">
+<!ENTITY  noupdatesautoenabled.intro      "எந்தவொரு இற்​றைப்படுத்துதல்களும் கிடைக்கக்கூடியதாக இல்லை.&brandShortName; இற்​றைப்படுத்துதல்களுக்காக குறித்த காலத்துக்கொருமுறை சரிபார்க்கும்.">
+<!ENTITY  noupdatesautodisabled.intro     "எந்தவொரு இற்​றைப்படுத்துதல்களும் கிடைக்கக்கூடியதாக இல்லை. தயவுசெய்து சிறிது காலந்தாழ்த்தி மீண்டும் சரிபார்க்கவும் அல்லது &brandShortName; இனுடைய தன்னியக்க இற்​றைப்படுத்துதல் சரிபார்ப்பை இயலுமைப்படுத்தவும்.">
+
+<!ENTITY  manualUpdate.title              "Unable to Update">
+<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
+                                           not have the system permissions required to install it. Please contact your
+                                           system administrator, or try again from an account that has permission to
+                                           install software on this computer.">
+<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
+<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
+<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
+
+<!ENTITY  clickHere.label                 "இந்த இற்​றைப்படுத்துதல் பற்றிய மேலதிக தகவல்களை நோக்குக">
+
+<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
+                                           update for &brandShortName; as soon as possible.">
+
+<!ENTITY  license.instructions            "நீங்கள் இந்த உடன்படிக்கையில் உள்ள நிபந்தனைகளுக்கு உடன்பட்டால், இந்த இற்​றைப்படுத்துதல் நிறுவதலைத் தொடர்வதற்கு கீழேயுள்ள நான் உடன்படுகின்றேன் என்பதை சொடுக்குக.">
+
+<!ENTITY  license.titleText               "மென்பொருள் அனுமதிப்பத்திர உடன்படிக்கை">
+<!ENTITY  license.introText               "இந்த மென்பொருளைப் பாவிப்பதற்கான விதிகளும் நிபந்தனைகளும்.">
+<!ENTITY  license.instructionText         "தயவுசெய்து பின்வரும் அனுமதிப்பத்திர உடன்படிக்கையை வாசிக்கவும. இந்த உடன்படிக்கையின் எஞ்சியுள்ள பகுதியைப்பார்க்க சுருள் பட்டையைப் பாவிக்கவும்.">
+<!ENTITY  license.accept                  "நான் இந்த அனுமதிப்பத்திர உடன்படிக்கையிலுள்ள விதிகளுக்கு உடன்படுகின்றேன்">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "நான் இந்த அனுமதிப்பத்திர உடன்படிக்கையிலுள்ள விதிகளுக்கு உடன்படவில்லை">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
+
+<!ENTITY  downloading.title               "இற்​றைப்படுத்துதல் பதிவிறக்கப்படுகின்றது">
+<!ENTITY  downloading.intro               "இந்த இற்​றைப்படுத்துதல் பதிவிறக்கப்படுகின்றது…">
+<!ENTITY  connecting.label                "இற்​றைப்படுத்துதல் சேவையகத்துக்கு இணைக்கப்படுகின்றது…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; ஆனது அது பதிவிறக்கிக் கொண்ட தொடர்ச்சியான இற்​றைப்படுத்துதலை உறுதிசெய்யவில்லை, எனவே அது தற்போது முழுமையான இற்​றைப்படுத்துதல் தொகுப்பை பதிவிறக்குகின்றது.">
+
+<!ENTITY  viewDetails.tooltip             "View details for this update">
+<!ENTITY  details.link                    "விபரங்கள்">
+
+<!ENTITY  error.label                     "இந்த இற்​றைப்படுத்துதலை சோதனை செய்யும் போது, பதிவிறக்கும் போது அல்லது நிறுவும் போது பிரச்சனைகள் ஏற்பட்டன. &brandShortName; இனை இற்​றைப்படுத்த முடியவில்லை ஏனெனில்:">
+                                           
+<!ENTITY  errorManual.label               "நீங்கள் &brandShortName; இனை இந்த இணைப்புக்குச் சென்று பதிய பிந்திய பதிப்பை பதிவிறக்கி manually ஆக இற்​றைப்படுத்திக் கொள்ள முடியும்:">
+                                           
+<!ENTITY  errorpatching.title             "இற்​றைப்படுத்துதல் வெற்றியளிக்கவில்லை">
+<!ENTITY  errorpatching.intro             "பகுதியளவான இற்​றைப்படுத்துதலை பிரயோகிக்க முடியாது. 
+                                           &brandShortName; முழுமையான இற்​றைப்படுத்துதலை பதிவிறக்க மீண்டும் முயற்சிக்கும்.">
+<!ENTITY  finishedPage.title              "Update Ready to Install">
+<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
+                                           can restart &brandShortName; now, or continue working and restart later.">
+
+<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
+
+<!ENTITY  finishedBackground.name         "Update:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
+
+
+<!ENTITY  finishedBackground.name         "இற்​றைப்படுத்துக:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+
+<!ENTITY  installed.title                 "இற்​றைப்படுத்துதல் நிறுவப்பட்டது">
+<!ENTITY  installed.intro                 "இற்​றைப்படுத்துதல் வெற்றிகரமாக நிறுவப்பட்டது.">
+<!ENTITY  whatsnew.label                  "புதியவைகள் என்ன என்பதைப்பற்றி மேலதிகமாக வாசிக்க…">
+
+<!ENTITY  update.details.label            "விவரங்கள்">
+<!ENTITY  update.installedOn.label        "இல் நிறுவப்பட்டது:">
+<!ENTITY  update.status.label             "நிலை:">

@@ -1,0 +1,71 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Window title -->
+
+<!ENTITY windowTitle.label "எழுத்துக்கூட்டை சரிபார்க்கவும்">
+
+<!ENTITY misspelledWord.label "எழுத்துகூட்டு சரியில்லாத வார்த்தை:">
+<!ENTITY wordEditField.label "இதனால் மாற்றுக:">
+<!ENTITY wordEditField.accessKey "இ">
+<!ENTITY checkwordButton.label "வார்த்தையை சரிபார்க்கவும்">
+<!ENTITY checkwordButton.accessKey "ப">
+<!ENTITY suggestions.label "ஆலோசனைகள்:">
+<!ENTITY suggestions.accessKey "ல">
+<!ENTITY ignoreButton.label "ஒதுக்குக">
+<!ENTITY ignoreButton.accessKey "ஒ">
+<!ENTITY ignoreAllButton.label "அனைத்தையும் ஒதுக்குக">
+<!ENTITY ignoreAllButton.accessKey "n">
+<!ENTITY replaceButton.label "மாற்றிவிடுக">
+<!ENTITY replaceButton.accessKey "ம">
+<!ENTITY replaceAllButton.label "அனைத்தையும் மாற்றிவிடுக">
+<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY stopButton.label "நிறுத்துக">
+<!ENTITY stopButton.accessKey "ற">
+<!ENTITY userDictionary.label "தனிப்பட்ட அகராதி:">
+<!ENTITY moreDictionaries.label "கூடுதல் அகராதிகளை தரவிறக்கம் செய்க">
+<!ENTITY addToUserDictionaryButton.label "வார்த்தையைச் சேர்க்கவும்">
+<!ENTITY addToUserDictionaryButton.accessKey "d">
+<!ENTITY editUserDictionaryButton.label "பதிப்பிக்கவும்...">
+<!ENTITY editUserDictionaryButton.accessKey "ப">
+<!ENTITY recheckButton.label "பக்கத்தை மறுபடி சரிபார்க்கவும்">
+<!ENTITY recheckButton.accessKey "P">
+<!ENTITY closeButton.label "மூடுக">
+<!ENTITY closeButton.accessKey "ம">
+<!ENTITY sendButton.label "அனுப்புக">
+<!ENTITY sendButton.accessKey "அ">
+<!ENTITY languagePopup.label "மொழி:">
+<!ENTITY languagePopup.accessKey "ம">

@@ -1,0 +1,29 @@
+<!ENTITY window.title "அஞ்சல் வடிகட்டிகள்">
+<!ENTITY nameColumn.label "வடிகட்டியின் பெயர்">
+<!ENTITY activeColumn.label "ஆக்கப்படுத்தப்பட்டது">
+<!ENTITY newButton.label "புதிய...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "செவ்வையாக்குக...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "நீக்குக">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "மேலே நகர்த்துக">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "கீழே நகர்த்துக">
+<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY filterHeader.label "ஆக்கப்படுத்தப்பட்ட வடிகட்டிகள் கீழே தந்த வரிசைப்படி தன்னியக்கமாக செயல்படும்.">
+<!ENTITY filtersForPrefix.label "இதற்கான வடிகட்டிகள்:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "வடிகட்டி பதிவு">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "தற்போது ஓட்டுக">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "நிறுத்துக">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "தெரிவு செய்த வடிகட்டிகளை இதில் ஓட்டுக:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "இந்த கோப்புறையை தெரிவு செய்க">
+<!ENTITY choosethisnewsserver.label "இந்த அஞ்சல்கள் சேவையகத்தை தெரிவு செய்க">
+<!ENTITY helpButton.label "உதவி">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W">

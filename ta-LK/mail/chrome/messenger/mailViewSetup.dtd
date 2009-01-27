@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "அஞ்சல் நோக்கு அமைப்பு">
+<!ENTITY mailViewHeading.label "அஞ்சல் நோக்கு பெயர்:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "இந்த நோக்கு தேர்வு செய்யப்பட்டால், அந்த அஞ்சல்களை மட்டும் காண்பிக்கவும், எதில்:">
+

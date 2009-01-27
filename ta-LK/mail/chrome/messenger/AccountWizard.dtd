@@ -1,0 +1,120 @@
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "கணக்கு வழிகாட்டி">
+<!ENTITY accountWizard.size "அகலம்: 50em; உயரம்: 45em;">
+<!-- Entities for Account Type page -->
+
+
+<!ENTITY accountSetupInfo.label "அஞ்சல்களை பெற, அஞ்சல் அல்லது செய்தித்தொகுதி கணக்கு உருவாக்கப்படுவது அவசியம்">
+<!ENTITY accountTypeTitle.label "புதிய கணக்கு அமைப்பு">
+<!ENTITY accountTypeDesc.label "இந்த வழிகாட்டி தன்னியக்கமாக அஞ்சல் அல்லது செய்தித்தொகுதிக் கணக்கை அமைக்கத் தேவையான விவரங்களை சேகரிக்கிறது. கேட்கப்பட்ட விவரம் தெரியாதவிடத்து, உங்கள் தொகுதி நிர்வாகி அல்லது இணைய சேவை அளிப்போரை அணுகுக.">
+<!ENTITY accountTypeDirections.label "நீங்க அமைக்க விரும்பும் கணக்கின் வகையை தெரிவு செய்க:">
+<!ENTITY accountTypeMail.label "மின்னஞ்சல் கணக்கு">
+<!ENTITY accountTypeMail.accesskey "M">
+<!ENTITY accountTypeNews.label "செய்தித்தொகுதிக் கணக்கு">
+<!ENTITY accountTypeNews.accesskey "W">
+<!-- Entities for Identity page -->
+
+
+<!ENTITY identityTitle.label "அடையாளம்">
+<!ENTITY identityDesc.label "ஒவ்வொரு கணக்கிற்கும் ஒரு அடையாளம் உண்டு, இதன் மூலம் உங்கள் செய்திகளை பெறுபவர்களுக்கு உங்களை அடையாளப்படுத்தலாம்.">
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
+<!ENTITY fullnameDesc.label "அனுப்பப்படும் அஞ்சல்களின் &quot;From&quot; புலத்தில், நீங்கள் காட்ட விரும்பும் பெயரை எழுதுக">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+	1, do not translate two of "&quot;"
+	2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "((உதாரணமாக, &quot;நந்தினி சி&quot;).">
+<!ENTITY fullnameLabel.label "கணக்கின் பெயர்">
+<!ENTITY fullnameLabel.accesskey "Y">
+
+<!ENTITY emailLabel.label "மின்னஞ்சல் முகவரி:">
+<!ENTITY emailLabel.accesskey "E">
+
+<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
+
+<!-- Entities for Server page -->
+
+
+<!ENTITY serverTitle.label "சேவையகத்தின் தகவல்கள்">
+<!ENTITY incomingServerTypeDesc.label "நீங்க பயன்படுத்தும் உள்வரும் சேவையகத்தை தெரிவு செய்க.">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "உங்கள் உள்வரும் சேவையகத்தின் பெயரை எழுதுக (உதாரணமாக, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServerLabel.label "உள்வரும் சேவையகம்:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "உங்கள் செய்திச் சேவையகத்தின் பெயரை எழுதுக (உதாரணமாக, &quot;news.example.net&quot;).">
+<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "உங்கள் அனுப்பும் சேவையகத்தின் பெயரை எழுதுக (உதாரணமாக, &quot;smtp.example.net&quot;).">
+<!ENTITY smtpServerLabel.label "அனுப்பும் சேவையகம்:">
+<!ENTITY smtpServerLabel.accesskey "">
+<!ENTITY newsServerLabel.label "செய்தித்தொகுதி சேவையகம்:">
+<!ENTITY newsServerLabel.accesskey "N">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!-- for when the user has an SMTP server pre-configured -->
+<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
+     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
+	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
+
+<!ENTITY haveSmtp1.prefix "உங்களிடம் உள்ள அனுப்பும் சேவையகம் (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, பயன்படுத்தப்படுகிறது. கருவிப்பட்டையிலுள்ள கணக்கு அமைவுகளை தேர்ந்தெடுத்து, உங்கள் அனுப்பும் சேவையகத்தின் அமைவுகளை மாற்றலாம்.">
+<!-- Entities for Login page -->
+
+
+<!ENTITY loginTitle.label "பயனர் பெயர்">
+<!ENTITY usernameDesc.label "உங்களுக்கு மின்னஞ்சல் சேவையளிப்போரால் தரப்பட்ட உள்வரும் பயனர் பெயரை எழுதுக.">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(உதாரணமாக, &quot;jsmith&quot;).">
+<!ENTITY usernameLabel.label "உள்வரும் பயனர்பெயர்:">
+<!ENTITY usernameLabel.accesskey "I">
+<!ENTITY usernameSmtpDesc.label "உங்களுக்கு மின்னஞ்சல் சேவையளிப்போரால் தரப்பட்ட அனுப்பும் பயனர் பெயரை எழுதுக (இது வரும் அஞ்சலின் பயனர் பெயரை ஒத்ததாக இருக்கும்).">
+<!ENTITY usernameSmtpLabel.label "அனுப்பும் பயனர் பெயர்:">
+<!ENTITY usernameSmtpLabel.accesskey "">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "ஏற்கனவே உள்ள உங்கள் அனுப்பும் (SMTP) பயனர்பெயர், &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;, பயன்படுத்தப்படுகிறது. கருவிப்பட்டையில் கணக்கு அமைவுகளை தேர்ந்தெடுத்து, உங்கள் அனுப்பும் சேவையகத்தின் அமைவுகளை மாற்றலாம்.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "உங்கள் அனுப்பும் (SMTP) சேவையகம், &quot;">
+<!ENTITY haveSmtp3.suffix "&quot; உங்கள் வரும் சேவையகமும் ஒரே மாதிரியுள்ளது, அதை அணுக வரும் அஞ்சல்களின் பயனர்பெயர் பயன்படுத்தப்படும். கருவிப்பட்டையில் உள்ள கணக்கு அமைவுகளை தேர்ந்தெடுத்து, உங்கள் அனுப்பும் சேவையகத்தின் அமைவுகளை மாற்றலாம்.">
+<!-- Entities for Account name page -->
+
+
+<!ENTITY accnameTitle.label "கணக்கின் பெயர்">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "இந்தக் கணக்கிற்கு பெயரிடுக (உதாரணமாக, &quot;Work Account&quot;, &quot;Home Account&quot; அல்லது &quot;News Account&quot;).">
+<!ENTITY accnameLabel.label "கணக்கின் பெயர்:">
+<!ENTITY accnameLabel.accesskey "A">
+<!-- Entities for Done (Congratulations) page -->
+
+
+<!ENTITY completionTitle.label "வாழ்த்துக்கள் !!!">
+<!ENTITY completionText.label "கீழுள்ள விவரங்கள் சரியாக உள்ளதா என உறுதி செய்க">
+<!ENTITY serverTypePrefix.label "உள்வரும் சேவையக வகை:">
+<!ENTITY serverNamePrefix.label "உள்வரும் சேவையக பெயர்:">
+<!ENTITY smtpServerNamePrefix.label "அனுப்பும் சேவையக பெயர் (SMTP):">
+<!ENTITY newsServerNamePrefix.label "செய்திகள் சேவையக பெயர் (NNTP):">
+<!ENTITY downloadOnLogin.label "இப்பொழுது செய்திகளை பதிவிறக்குக">
+<!ENTITY downloadOnLogin.accesskey "D">
+<!ENTITY deferStorageDesc.label "இந்த கணக்கின் அஞ்சலை அதன் கோப்புறையிலேயே சேமிக்க இந்த குறிப்பெட்டியில் உள்ள குறியை நீக்குக.  இதனால், இந்தக் கணக்கு மேல்-நிலை கணக்காக தோன்றும். அல்லது, இது உலகளாவிய உள்ளகக் கோப்புறை(Global Inbox) கணக்கின் உள் கோப்புறைகளில் ஒரு பாகமாக இருக்கும்">
+<!ENTITY deferStorage.label " உலகளாவிய உள்ளகக் கோப்புறையை பயன்படுத்துக (உள் அடைவுகளில் அஞ்சலை சேமிக்கவும்)">
+<!ENTITY deferStorage.accesskey "G">
+<!ENTITY clickFinish.label "இந்த அமைவுகளை சேமிக்க “முடி” என சொடுக்கிவிட்டு, கணக்கு வழிகாட்டியை விட்டு வெளியேறுக.">
+<!ENTITY clickFinish.labelMac "இந்த அமைப்புகளை சேமித்து கணக்கு வழிகாட்டியை விட்டு வெளியேற Done இனைச் சொடுக்குக.">

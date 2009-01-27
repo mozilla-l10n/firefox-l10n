@@ -1,0 +1,20 @@
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "உதவி">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "உதவி">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY releaseCmd.label "வெளியீட்டுக் குறிப்புக்கள்">
+<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY openHelp.label "உதவி உள்ளடக்கங்கள்">
+<!ENTITY openHelp.accesskey "H">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "&brandShortName; உதவி">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
+
+<!ENTITY updateCmd.label "இற்​றைப்படுத்துதலுக்காகச் சரிபார்க்க…">
+<!ENTITY updateCmd.accesskey "o">
+<!ENTITY aboutCmd.label "பற்றி &brandFullName;">
+<!ENTITY aboutCmd.accesskey "A">

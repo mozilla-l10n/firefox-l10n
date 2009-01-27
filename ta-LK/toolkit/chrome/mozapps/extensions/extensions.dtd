@@ -1,0 +1,174 @@
+<!ENTITY addons.title                     "செருகல்கள்">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "செருகல்களைப் பெறுக">
+<!ENTITY extensions.label                 "நீட்சிகள்">
+<!ENTITY themes.label                     "கருத்துக்கள்">
+<!ENTITY locales.label                    "மொழிகள்">
+<!ENTITY plugins.label                    "உட்செருகல்கள்">
+<!ENTITY update.label                     "இற்​றைப்படுத்தல்கள்">
+<!ENTITY install.label                    "நிறுவுதல்">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "உங்கள் செருகல்களுக்கான இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "உங்கள் கருத்துக்களுக்கான இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
+<!ENTITY cmd.installLocalFile.label       "நிறுவக…">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.installFileAddon.tooltip     "ஒரு செருகலை நிறுவக">
+<!ENTITY cmd.installFileTheme.tooltip     "ஒரு கருத்தை நிறுவக">
+<!ENTITY cmd.installUpdatesAll.label      "இற்​றைப்படுத்தல்களை நிறுவுக">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll.tooltip    "தெரிவுசெய்யப்பட்ட இற்​றைப்படுத்தல்களை நிறுவுக">
+<!ENTITY cmd.restartApp2.label            "&brandShortName; இனை மீள ஆரம்பிக்க">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "மாற்றங்களைப் பிரயோகிப்பதற்காக &brandShortName; இனை மீள ஆரம்பிக்க">
+<!ENTITY cmd.skip.label                   "தாண்டிச்செல்க">
+<!ENTITY cmd.skip.accesskey               "k">
+<!ENTITY cmd.skip.tooltip                 "இந்த இற்​றைப்படுத்தல்களை தாண்டிச்செல்க">
+<!ENTITY cmd.continue.label               "தொடர்க">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "&brandShortName; இனை ஏற்றுதல் தொடர்கிறது">
+
+<!ENTITY cmd.enableAll.label              "அனைத்தையும் இயலுமைப்படுத்துக">
+<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY cmd.enableAll.tooltip            "திரையிடப்பட்ட அனைத்து செருகல்களையும் இயலுமைப்படுத்துக">
+<!ENTITY cmd.disableAll.label             "அனைத்தையும் செயலற்றதாக்குக">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "திரையிடப்பட்ட அனைத்து செருகல்களையும் செயலற்றதாக்குக">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "கருத்தினைப் பாவிக்க">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName; இனுடைய கருத்தினைப் மாற்றுக">
+<!ENTITY cmd.options.label                "விருப்பங்கள்">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "தெரிவுசெய்யப்பட்ட நீட்சிக்கான விருப்பங்களை அமைக்க">
+<!ENTITY cmd.optionsUnix.label            "முன்னுரிமைகள்">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "தெரிவுசெய்யப்பட்ட நீட்சிக்கான முன்னுரிமைகளை செவ்வையாக்குக">
+<!ENTITY cmd.enable.label                 "இயலுமைப்படுத்துக">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்த செருகலை இயலுமைப்படுத்துக">
+<!ENTITY cmd.disable.label                "செயலற்றதாக்குக">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்த செருகலை செயலற்றதாக்குக">
+<!ENTITY cmd.uninstall.label              "நிறுவல் நீக்குக">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்த செருகலை நிறுவல் நீக்குக">
+<!ENTITY cmd.cancelUninstall.label        "நிறுவல் நீக்குதலை இரத்து செய்க">
+<!ENTITY cmd.cancelUninstall.accesskey    "C">
+<!ENTITY cmd.cancelUninstall.tooltip      "இந்த் செருகலினுடைய நிறுவல் நீக்குதலை இரத்து செய்க">
+<!ENTITY cmd.cancelInstall.label          "நிறுவுதலை இரத்து செய்க">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelInstall.tooltip        "இந்த் செருகலினுடைய நிறுவுதலை இரத்து செய்க">
+<!ENTITY cmd.cancelUpgrade.label          "மேம்படுத்துதலை இரத்து செய்க">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.tooltip        "இந்த் செருகலினுடைய மேம்படுத்துதலை இரத்து செய்க">
+<!ENTITY cmd.installUpdate.label          "இற்றைப்படுத்தலை நிறுவுக">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY cmd.installUpdate.tooltip        "இந்த செருகுதலுக்கான இற்றைப்படுத்தலை நிறுவுக">
+<!ENTITY cmd.showUpdateInfo.label         "தகவலினைக் காட்டவும்">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "இந்த இற்றைப்படுத்தல்களைப் பற்றிய மேலதிக தகவல்களை காட்டுக">
+<!ENTITY cmd.hideUpdateInfo.label         "தகவலை மறைக்கவும்">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "இந்த இற்றைப்படுத்தல்களைப் பற்றிய தகவல்களை மறைக்கவும்">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName; இற்கு சேர்க்க…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip   "இந்த செருகலை பதிவிறக்கி நிறுவுக">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "இரத்து செய்க">
+<!ENTITY cancel.accesskey                 "C">
+<!ENTITY cancelInstall.label              "இரத்து செய்க">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "இரத்து செய்க">
+<!ENTITY cancelUpgrade.accesskey          "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "இல்லப்பக்கத்தை தரிசிக்க">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "இந்த செருகலைப்பற்றி">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "இற்றைப்படுத்தலைக் கண்டுபிடிக்க">
+<!ENTITY cmd.checkUpdate.accesskey        "F">
+
+<!ENTITY cmd.includeUpdate.label          "இற்றைப்படுத்தலை உள்ளடக்குக">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "இந்த இற்றைப்படுத்தலை உள்ளடக்குக">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "இற்றைப்படுத்தல்களை நிறுவும்போது இந்த செருகலை உள்ளடக்குக">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "பாதுகாப்பான இற்றைப்படுத்தல்களை வழங்கவில்லை.">
+<!ENTITY needsDependencies.label          "மேலதிக உருப்படிகள் தேவையாக உள்ளது.">
+<!ENTITY blocklisted.label                "உங்கள் பாதுகாப்பிற்காக செயலற்றதாக்குக.">
+<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
+<!ENTITY toBeDisabled.label               "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் செயலற்றதாக்கப்படும்.">
+<!ENTITY toBeEnabled.label                "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் இயலுமைப்படுத்தப்படும்.">
+<!ENTITY toBeInstalled.label              "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் நிறுவப்படும்.">
+<!ENTITY toBeUninstalled.label            "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் நிறுவல் நீக்கப்படும்.">
+<!ENTITY toBeUpdated.label                "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் இற்றைப்படுத்தப்படும்.">
+
+<!ENTITY getExtensions.label              "நீட்சிகளைப் பெறுக">
+<!ENTITY getThemes.label                  "கருத்துக்களைப் பெறுக">
+<!ENTITY getPlugins.label                 "உட்செருகல்களைப் பெறுக">
+
+<!ENTITY searchAddons.label               "அனைத்து செருகல்களையும் தேடுக">
+<!ENTITY browseAddons.label               "அனைத்து செருகல்களையும் உலாவுக">
+<!ENTITY searchFailed.label               "&brandShortName; செருவல்களை மீளப் பெற முடியவில்லை">
+<!ENTITY recommendedHeader.label          "பரிந்துரைக்கப்பட்டது">
+<!ENTITY recommendedThrobber.label        "பரிந்துரைக்கப்பட்ட செருகுதல்களை மீளப் பெறுக">
+<!ENTITY searchThrobber.label             "செருகுதல்கள் தேடப்படுகின்றது">
+<!ENTITY resetSearch.label                "பெறுபேறுகளை சுத்தம்செய்க">
+<!ENTITY noSearchResults.label            "அனைத்து பெறுபேறுகளும் ஏறகனவே நிறுவப்பட்டது அல்லது இசைவானதாக இல்லை.">
+<!ENTITY noRecommendedResults.label       "அனைத்து பரிந்துரைகளும் ஏறகனவே நிறுவப்பட்டது அல்லது இசைவானதாக இல்லை.">
+<!ENTITY emptySearch.label                "பொருத்தமான செருகுதல்கள் இல்லை">
+<!ENTITY emptySearch.button               "சரி">
+<!ENTITY cancelSearch.button              "இரத்துச் செய்க">
+<!ENTITY searchFailed.button              "சரி">
+<!ENTITY searchResultHomepage.value       "மேலதிகமாக கற்க">
+<!ENTITY searchBox.label                  "அனைத்து செருகல்களையும் தேடுக">
+<!ENTITY recommendedResults.label         "அனைத்து பரிந்துரைக்கப்பட்ட செருகல்களையும் பார்க்க">
+<!ENTITY searchResultConnecting.label     "இணைக்கப்படுகிறது…">
+<!ENTITY searchResultInstalling.label     "நிறுவப்படுகிறது…">
+<!ENTITY searchResultFailed.label         "நிறுவுதல் வெற்றியளிக்கவில்லை">
+<!ENTITY searchResultInstalled.label      "நிறுவுதல் நிறைவடைந்தது">
+<!ENTITY addonTypeExtension.label         "நீட்சி">
+<!ENTITY addonTypeTheme.label             "கருத்து">
+<!ENTITY missingThumbnail.label           "முன்னோக்கு இல்லை">
+
+<!ENTITY previewNoThemeSelected.label     "கருத்தெதுவும் தெரிவுசெய்யப்படவில்லை">
+<!ENTITY previewNoPreviewImage.label      "இந்தக் கருத்து முன்னோக்கு படிமம் ஒன்றை வைத்திருக்கவில்லை">
+<!ENTITY moreInfo.label                   "மேலதிக தகவல்கள்">
+<!ENTITY infoNoAddonSelected.label        "இற்றைப்படுத்தல் எதுவும் தெரிவுசெய்யப்படவில்லை">
+<!ENTITY infoNoUpdateInfo.label           "இந்த இற்றைப்படுத்தல் மேலதிக தகவலெதனையும் சொண்டிருக்கவில்லை">
+<!ENTITY infoUpdateInfoError.label        "இந்த இற்றைப்படுத்தல் பற்றிய தகவல்களை ஏற்றும் போது வழு ஏற்பட்டது">
+
+<!ENTITY updateSuccess.label              "இற்றைப்படுத்தல் வெற்றிகரமாக நிறைவடைந்தது.">
+<!ENTITY installSuccess.label             "நிறுவுதல் வெற்றிகரமாக நிறைவடைந்தது.">
+<!ENTITY installSuccessRestart.label      "நிறுவுதலை வெற்றிகரமாக நிறைவு செய்வதற்கு மீள ஆரம்பிக்கவும்.">
+<!ENTITY updateSuccessRestart.label       "இற்றைப்படுத்தலை வெற்றிகரமாக நிறைவு செய்வதற்கு மீள ஆரம்பிக்கவும்.">
+<!ENTITY installWaiting.label             "காத்திருக்கவும்…">
+<!ENTITY installIncompatibleUpdate.label  "இசைவு சரிசெய்யப்படுகின்றது…">
+<!ENTITY installFinishing.label           "நிறுவப்படுகின்றது…">
+<!ENTITY installFailure.label             "நிறுவுதல் வெற்றியளிக்கவில்லை.">
+
+<!ENTITY progressStatus.label             "இற்றைப்படுத்தல்கள் சரிபார்க்கப்படுகின்றது">
+
+<!ENTITY eula.title                       "இறுதிப் பயனர் அனுமதிப்பத்திர உடன்படிக்கை">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "ஏற்றுக்கொண்டு நிறுவுக…">
+
+<!ENTITY blocklist.blocked.label          "Blocked">
+<!ENTITY blocklist.checkbox.label         "Disable">
