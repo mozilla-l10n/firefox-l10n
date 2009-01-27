@@ -37,3 +37,5 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey   "L">
 <!ENTITY window.width "30em">
 <!ENTITY column.width                 "14em">
+<!ENTITY itemSiteSettings.label       "Lapai specifiski iestatījumi">
+<!ENTITY itemSiteSettings.accesskey   "S">
