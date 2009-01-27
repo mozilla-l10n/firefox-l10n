@@ -43,6 +43,6 @@
 <!ENTITY description.label          "Erstellen als Unterordner von:">
 <!ENTITY description.accesskey      "E">
 <!ENTITY folderRestriction1.label   "Dieser Server beschränkt Ordner auf zwei spezielle Arten.">
-<!ENTITY folderRestriction2.label   "Der neue Ordner darf folgendes enthalten:">
+<!ENTITY folderRestriction2.label   "Der neue Ordner darf Folgendes enthalten:">
 <!ENTITY foldersOnly.label          "Nur Ordner">
 <!ENTITY messagesOnly.label         "Nur Nachrichten">

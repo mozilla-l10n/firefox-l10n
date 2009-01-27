@@ -129,7 +129,7 @@
 <!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneWide.label "Breite Nachrichtenvorschau">
 <!ENTITY messagePaneWide.accesskey "B">
-<!ENTITY messagePaneVertical.label "3-Spalten Ansicht">
+<!ENTITY messagePaneVertical.label "3-Spalten-Ansicht">
 <!ENTITY messagePaneVertical.accesskey "S">
 <!ENTITY showMessageCmd.label "Nachrichtenvorschau">
 <!ENTITY showMessageCmd.accesskey "c">
