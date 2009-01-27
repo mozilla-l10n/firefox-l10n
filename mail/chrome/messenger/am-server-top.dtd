@@ -18,15 +18,12 @@
 <!ENTITY biffStart.label "Alle ">
 <!ENTITY biffStart.accesskey "A">
 <!ENTITY biffEnd.label "Minuten auf neue Nachrichten prüfen">
-<!ENTITY socketType.label "Verschlüsselte Verbindung verwenden:">
-<!ENTITY neverSecure.label "Nein">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, wenn möglich">
-<!ENTITY sometimesSecure.accesskey "m">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Verbindungssicherheit:">
+<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurityType-0.label "Keine">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, wenn möglich">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Sichere Authentifizierung verwenden">
 <!ENTITY useSecAuth.accesskey "u">
 <!ENTITY leaveOnServer.label "Nachrichten auf dem Server belassen">
