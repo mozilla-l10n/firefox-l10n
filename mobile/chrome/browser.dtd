@@ -1,53 +1,53 @@
 <!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titleseparator " - ">
 
-<!ENTITY back.label            "Back">
-<!ENTITY back.tooltip          "Back">
-<!ENTITY forward.label         "Forward">
-<!ENTITY forward.tooltip       "Forward">
-<!ENTITY reload.label          "Reload">
-<!ENTITY reload.tooltip        "Reload">
-<!ENTITY stop.label            "Stop">
-<!ENTITY stop.tooltip          "Stop">
-<!ENTITY search.label          "Search">
-<!ENTITY search.tooltip        "Search">
-<!ENTITY go.label              "Go">
-<!ENTITY go.tooltip            "Go">
-<!ENTITY openLocation.label    "Open location">
-<!ENTITY openLocation.tooltip  "Open location">
-<!ENTITY star.label            "Star">
-<!ENTITY star.tooltip          "Bookmark this page">
-<!ENTITY bookmarks.label       "Bookmarks">
-<!ENTITY bookmarks.tooltip     "View bookmarks">
+<!ENTITY back.label            "Terug">
+<!ENTITY back.tooltip          "Terug">
+<!ENTITY forward.label         "Vooruit">
+<!ENTITY forward.tooltip       "Vooruit">
+<!ENTITY reload.label          "Vernieuwen">
+<!ENTITY reload.tooltip        "Vernieuwen">
+<!ENTITY stop.label            "Stoppen">
+<!ENTITY stop.tooltip          "Stoppen">
+<!ENTITY search.label          "Zoeken">
+<!ENTITY search.tooltip        "Zoeken">
+<!ENTITY go.label              "Ga">
+<!ENTITY go.tooltip            "Ga">
+<!ENTITY openLocation.label    "Locatie openen">
+<!ENTITY openLocation.tooltip  "Locatie openen">
+<!ENTITY star.label            "Ster">
+<!ENTITY star.tooltip          "Bladwijzer voor deze pagina maken">
+<!ENTITY bookmarks.label       "Bladwijzers">
+<!ENTITY bookmarks.tooltip     "Bladwijzers bekijken">
 
-<!ENTITY newtab.label          "New Tab">
-<!ENTITY closetab.label        "Close Tab">
+<!ENTITY newtab.label          "Nieuw tabblad">
+<!ENTITY closetab.label        "Tabblad sluiten">
 
-<!ENTITY cut.label             "Cut">
-<!ENTITY copy.label            "Copy">
-<!ENTITY copylink.label        "Copy Link Location">
-<!ENTITY paste.label           "Paste">
-<!ENTITY delete.label          "Delete">
-<!ENTITY selectAll.label       "Select All">
-<!ENTITY noSuggestions.label   "(No suggestions)">
-<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY cut.label             "Knippen">
+<!ENTITY copy.label            "Kopiëren">
+<!ENTITY copylink.label        "Koppelingslocatie kopiëren">
+<!ENTITY paste.label           "Plakken">
+<!ENTITY delete.label          "Verwijderen">
+<!ENTITY selectAll.label       "Alles selecteren">
+<!ENTITY noSuggestions.label   "(Geen spellingsuggesties)">
+<!ENTITY addToDictionary.label "Toevoegen aan woordenboek">
 
-<!ENTITY editBookmarkName.label    "Name:">
-<!ENTITY editBookmarkURI.label     "Address:">
-<!ENTITY editBookmarkTags.label    "Tags:">
-<!ENTITY bookmarkRemove.label      "Remove Bookmark">
-<!ENTITY editBookmarkDone.label    "Done">
+<!ENTITY editBookmarkName.label    "Naam:">
+<!ENTITY editBookmarkURI.label     "Adres:">
+<!ENTITY editBookmarkTags.label    "Labels:">
+<!ENTITY bookmarkRemove.label      "Bladwijzer verwijderen">
+<!ENTITY editBookmarkDone.label    "Klaar">
 
-<!ENTITY findOnCmd.label     "Find in This Page…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.label     "Zoeken in deze pagina…">
+<!ENTITY findOnCmd.accesskey "Z">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Find Again">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.label  "Opnieuw zoeken">
+<!ENTITY findAgainCmd.accesskey "w">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY identity.unverifiedsite2 "This web site does not supply identity information.">
-<!ENTITY identity.connectedTo "You are connected to">
+<!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
+<!ENTITY identity.connectedTo "U bent verbonden met">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -59,4 +59,4 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "which is run by">
+<!ENTITY identity.runBy "welke wordt beheerd door">
