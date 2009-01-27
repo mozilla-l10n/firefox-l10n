@@ -18,15 +18,12 @@
 <!ENTITY biffStart.label "Op nieuwe berichten controleren om de">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minuten">
-<!ENTITY socketType.label "Beveiligde verbinding gebruiken:">
-<!ENTITY neverSecure.label "Nooit">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, als beschikbaar">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Verbindingsbeveiliging:">
+<!ENTITY connectionSecurity.accesskey "V">
+<!ENTITY connectionSecurityType-0.label "Geen">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, als beschikbaar">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Beveiligde authenticatie gebruiken">
 <!ENTITY useSecAuth.accesskey "d">
 <!ENTITY leaveOnServer.label "Berichten op de server laten">
