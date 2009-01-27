@@ -60,7 +60,7 @@
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Paramètres…">
-<!ENTITY showSettings.accesskey        "o">
+<!ENTITY showSettings.accesskey        "P">
 <!ENTITY proxiesConfigure.label        "Détermine comment &brandShortName; accède à Internet">
 <!ENTITY connectionsInfo.caption       "Connexion">
 <!ENTITY offlineInfo.caption           "Hors ligne">

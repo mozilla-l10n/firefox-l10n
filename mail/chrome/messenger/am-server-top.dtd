@@ -18,15 +18,12 @@
 <!ENTITY biffStart.label "Vérifier les nouveaux messages toutes les ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutes">
-<!ENTITY socketType.label "Utiliser une connexion sécurisée :">
-<!ENTITY neverSecure.label "Jamais">
-<!ENTITY neverSecure.accesskey "J">
-<!ENTITY sometimesSecure.label "TLS, si disponible">
-<!ENTITY sometimesSecure.accesskey "T">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "L">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "S">
+<!ENTITY connectionSecurity.label "Sécurité de la connexion :">
+<!ENTITY connectionSecurity.accesskey "S">
+<!ENTITY connectionSecurityType-0.label "Aucune">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, si disponible">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Utiliser une authentification sécurisée">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "Laisser les messages sur le serveur">
