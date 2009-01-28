@@ -63,14 +63,6 @@
 <!ENTITY  goButton.accesskey        "E">
 <!ENTITY  searchButton.label        "Ieškoti">
 <!ENTITY  searchButton.accesskey    "I">
-<!ENTITY  printButton.label         "Spausdinti">
-<!ENTITY  printButton.accesskey     "S">
-
-<!ENTITY  persToolbarIntro.label    "Asmeninė juosta">
-<!ENTITY  homeButton.label          "Pradžia">
-<!ENTITY  homeButton.accesskey      "r">
-<!ENTITY  bookmarksButton.label     "Adresynas">
-<!ENTITY  bookmarksButton.accesskey "A">
 
 <!ENTITY defaultBrowserGroup.label      "Numatytoji naršyklė">
 <!ENTITY defaultBrowserButton.label     "Skirti numatytąja naršykle">

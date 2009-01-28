@@ -32,7 +32,7 @@
 <!ENTITY settings.caption "Nuostatos">
 <!ENTITY security.caption "Saugumas ir autentiškumas">
 <!ENTITY serverName.label "Serverio vardas:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "v">
 <!ENTITY serverDescription.label "Apibūdinimas:">
 <!ENTITY serverDescription.accesskey "b">
 <!ENTITY serverPort.label "Prievadas:">
