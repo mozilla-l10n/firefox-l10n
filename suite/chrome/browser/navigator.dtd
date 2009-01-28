@@ -186,6 +186,7 @@
 <!ENTITY  bookmarksButton.label       "Adresynas">
 <!ENTITY  bookmarksButton.tooltip     "Įrašytų adresų sąrašas">
 <!ENTITY  homeButton.label            "Pradžia">
+<!ENTITY  bookmarksToolbarItem.label  "Adresyno juostos elementai">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Dokumentas baigtas">

@@ -48,5 +48,5 @@
 <!ENTITY serverName.label "Serverio vardas: ">
 <!ENTITY serverPort.label "Prievadas: ">
 <!ENTITY userName.label   "Abonento vardas: ">
-<!ENTITY useSecureConnection.label   "Saugusis ryšys: ">
+<!ENTITY connectionSecurity.label   "Saugusis ryšys: ">
 <!ENTITY useSecureAuthentication.label   "Saugusis tapatumo tikrinimas: ">
