@@ -1,0 +1,32 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
+<!ENTITY doNotDownload.label "Pentru a economisi spațiul pe disc, nu descărca pentru utilizare în mod deconectat:">
+<!ENTITY allFoldersOffline.label "Păstrează mesajele contului pe acest calculator">
+<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY offlineNotDownload.label "Mesaje mai mari de">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KO">
+<!ENTITY daysOld.label "zile">
+<!ENTITY message.label "mesaj">
+<!ENTITY nntpNotDownloadRead.label "Citește corespondența">
+<!ENTITY nntpNotDownloadRead.accesskey "d">
+<!ENTITY nntpDownloadMsg.label "Mesaje mai vechi de">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Pentru economisirea spațiului pe disc, se pot șterge permanent mesajele vechi.">
+<!ENTITY retentionKeepMsg.label "Șterge mesajele mai vechi de">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Nu șterge niciun mesaj">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "Șterge toate în afară de ultimele">
+<!ENTITY retentionKeepNew.accesskey "b">
+<!ENTITY retentionKeepUnread.label "Șterge întotdeauna mesajele citite">
+<!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY nntpRemoveBody.label "Doar corpurile mesajelor de mai puțin de">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat...">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Avansat...">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Sincronizare mesaje">
+<!ENTITY diskspaceGroupTitle.label "Avertizare spațiu de disc">

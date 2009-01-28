@@ -1,0 +1,23 @@
+<!-- These are added to the Advanced - Scripts & Plugins panel -->
+<!ENTITY enbJsCheckMailNews.label         "Email și grupuri de discuții">
+<!ENTITY enbJsCheckMailNews.accesskey     "M">
+<!ENTITY enbPluginCheckMailNews.label     "Email și grupuri de discuții">
+<!ENTITY enbPluginCheckMailNews.accesskey "a">
+
+<!-- These are added to the Window menu -->
+<!ENTITY mail.label                       "Email și grupuri de discuții">
+<!ENTITY mail.accesskey                   "M">
+<!ENTITY addressbook.label                "Contacte">
+<!ENTITY addressbook.accesskey            "A">
+
+<!-- These are added to Preferences dialog -->
+<!ENTITY viewingMessages.label            "Message Display">
+<!ENTITY notifications.label              "Notificări">
+<!ENTITY address.label                    "Adrese">
+<!ENTITY composingMessages.label          "Redactare">
+<!ENTITY format.label                     "Format de trimitere">
+<!ENTITY return.label                     "Confirmări de primire">
+<!ENTITY junk.label                       "Spam">
+<!ENTITY tags.label                       "Tag-uri">
+<!ENTITY characterEncoding.label          "Codare caractere">
+<!ENTITY offline.label                    "Offline &amp; Disk Space">

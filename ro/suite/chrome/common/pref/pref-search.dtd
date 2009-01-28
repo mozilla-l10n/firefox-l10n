@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-search.xul -->
+
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+<!ENTITY pref.search.title                "Căutare Pe Internet">
+<!ENTITY legendHeader                     "Default Search Engine">
+<!ENTITY defaultSearchEngine.label        "Search using:">
+<!ENTITY defaultSearchEngine.accesskey    "S">
+
+<!ENTITY openSidebarSearchPanel.label     "Open the Search tab in the Sidebar when a search is invoked">
+<!ENTITY openSidebarSearchPanel.accesskey "O">
+
+<!ENTITY openContextSearchTab.label       "Open a tab instead of a window for a context menu web search">
+<!ENTITY openContextSearchTab.accesskey   "t">
+
+<!ENTITY searchResults.label              "Rezultatele căutării">
+
+<!ENTITY sidebarSearchTabPref.label       "Sidebar Search Tab Preference">
+<!ENTITY searchModeBasic.label            "Bază">
+<!ENTITY searchModeBasic.accesskey        "B">
+<!ENTITY searchModeAdvanced.label         "Avansat">
+<!ENTITY searchModeAdvanced.accesskey     "A">
+

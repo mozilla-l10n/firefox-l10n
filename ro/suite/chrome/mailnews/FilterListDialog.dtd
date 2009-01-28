@@ -1,0 +1,28 @@
+<!ENTITY window.title "Filtre mesaje">
+<!ENTITY nameColumn.label "Nume filtru">
+<!ENTITY activeColumn.label "Activează">
+<!ENTITY newButton.label "Nouă...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Editează">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Șterge elementul">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "Mută sus">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "Mută jos">
+<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY filterHeader.label "Filtrele active vor fi rulate automat în ordinea de mai jos.">
+<!ENTITY filtersForPrefix.label "Filtre pentru:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Jurnal filtre">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Rulează acum">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "Stop">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Rulează filtrul(ele) selectate pe:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "alege acest dosar">
+<!ENTITY choosethisnewsserver.label "alege acest server de news">
+<!ENTITY helpButton.label "Ajutor">
+<!ENTITY helpButton.accesskey "H">

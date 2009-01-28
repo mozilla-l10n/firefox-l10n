@@ -1,0 +1,20 @@
+<!ENTITY window.title "Sort Folder">
+
+<!ENTITY sortOptions.label "Sort options">
+<!ENTITY description.label "&brandShortName; can sort individual folders. Use these options to customize the sorting for this Folder.">
+
+<!ENTITY sortBy.label "Sortare după:">
+<!ENTITY sortBy.name.label "Denumire">
+<!ENTITY sortBy.url.label "Locul de desfășurare">
+<!ENTITY sortBy.shortcutUrl.label "Cuvânt cheie">
+<!ENTITY sortBy.description.label "Descriere">
+<!ENTITY sortBy.bookmarkAddDate.label "Adăugat">
+<!ENTITY sortBy.lastModifiedDate.label "Ultima modificare">
+<!ENTITY sortBy.lastVisitDate.label "Ultima vizită">
+
+<!ENTITY sortOrder.label "Sort order:">
+<!ENTITY sortAscending.label "Crescătoare">
+<!ENTITY sortDescending.label "În ordine descrescătoare">
+
+<!ENTITY sortFoldersFirst.label "Sort folders first">
+<!ENTITY sortRecursively.label "Sort recursively">

@@ -1,0 +1,17 @@
+
+<!ENTITY search.name.label              "nume">
+<!ENTITY search.url.label               "Nume constelații">
+<!ENTITY search.shortcut.label          "cuvântul cheie">
+<!ENTITY search.description.label       "descriere">
+<!ENTITY search.startswith.label        "începe cu">
+<!ENTITY search.endswith.label          "se termină cu">
+<!ENTITY search.is.label                "este">
+<!ENTITY search.isnot.label             "nu este">
+<!ENTITY search.contains.label          "conține">
+<!ENTITY search.doesntcontain.label     "nu conține">
+<!ENTITY save.query.label               "Save query in bookmarks">
+<!ENTITY save.query.accesskey           "S">
+<!ENTITY search.for.label               "Find Bookmarks whose">
+<!ENTITY findBookmark.title             "Find Bookmarks">
+<!ENTITY findButton.label               "Căutați">
+<!ENTITY findButton.accesskey           "F">

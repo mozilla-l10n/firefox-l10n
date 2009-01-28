@@ -1,0 +1,19 @@
+
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+<!ENTITY messengerCmd.label					"Email și grupuri de discuții">
+<!ENTITY messengerCmd.accesskey				"M">
+<!ENTITY messengerCmd.commandkey			"F2">
+<!ENTITY addressBookCmd.label				"Contacte">  
+<!ENTITY addressBookCmd.accesskey			"A">
+<!ENTITY addressBookCmd.commandkey			"5">
+
+<!ENTITY taskMessenger.tooltip  "Email și grupuri de discuții">
+<!ENTITY taskAddressBook.tooltip  "Contacte">
+
+<!-- searchAddressesCmd is also used by addressbook -->
+<!ENTITY searchAddressesCmd.label                       "Search Addresses...">
+<!ENTITY searchAddressesCmd.accesskey                   "A">
+
+<!ENTITY searchMailCmd.label "Caută mesaje...">
+<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.key "d">

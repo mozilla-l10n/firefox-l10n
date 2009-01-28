@@ -1,0 +1,21 @@
+<!ENTITY sanitizeDialog.title            "Ștergere date private">
+<!ENTITY sanitizeItems.label             "Șterge următoarele elemente:">
+
+<!ENTITY itemHistory.label               "Istoric">
+<!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemDownloads.label             "Istoric descărcări">
+<!ENTITY itemDownloads.accesskey         "D">
+<!ENTITY itemFormSearchHistory.label     "Date salvate de pe formulare și istoricul căutărilor">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemCache.label                 "Caută">
+<!ENTITY itemCache.accesskey             "a">
+<!ENTITY itemCookies.label               "Cookie-urile">
+<!ENTITY itemCookies.accesskey           "C">
+<!ENTITY itemOfflineApps.label           "Datele saiturilor offline">
+<!ENTITY itemOfflineApps.accesskey       "O">
+<!ENTITY itemPasswords.label             "Parolele salvate">
+<!ENTITY itemPasswords.accesskey         "P">
+<!ENTITY itemSessions.label              "Sesiuni autentificate">
+<!ENTITY itemSessions.accesskey          "S">
+
+<!ENTITY sanitizeButton.label            "Șterge datele private acum">

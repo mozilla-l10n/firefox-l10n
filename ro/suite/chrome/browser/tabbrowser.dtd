@@ -1,0 +1,17 @@
+<!ENTITY  untitledTab            "(fără titlu)">
+<!ENTITY  newTab.label           "Filă nouă">
+<!ENTITY  newTab.accesskey       "n">
+<!ENTITY  closeTab.label         "Închide tabul">
+<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  closeOtherTabs.label   "Închide celelalte file">
+<!ENTITY  closeOtherTabs.accesskey         "Î">
+<!ENTITY  reloadAllTabs.label    "Reîncarcă toate filele">
+<!ENTITY  reloadAllTabs.accesskey         "a">
+<!ENTITY  reloadTab.label        "Reîncarcă fila">
+<!ENTITY  reloadTab.accesskey         "R">
+<!ENTITY  bookmarkGroup.label    "Bookmark This Group of Tabs">
+<!ENTITY  bookmarkGroup.accesskey  "B">
+<!ENTITY  closeTabButton.tooltip   "Închide fila curentă">
+<!ENTITY  newTabButton.tooltip   "Deschide o filă nouă">
+<!ENTITY  undoCloseTab.label    "Anulează închiderea filei">
+<!ENTITY  undoCloseTab.accesskey  "u">
