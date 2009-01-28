@@ -1,0 +1,62 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "Naspäť">
+<!ENTITY back.tooltip          "Naspäť">
+<!ENTITY forward.label         "Dopredu">
+<!ENTITY forward.tooltip       "Dopredu">
+<!ENTITY reload.label          "Obnoviť">
+<!ENTITY reload.tooltip        "Obnoviť">
+<!ENTITY stop.label            "Zastaviť">
+<!ENTITY stop.tooltip          "Zastaviť">
+<!ENTITY search.label          "Hľadať">
+<!ENTITY search.tooltip        "Hľadať">
+<!ENTITY go.label              "Prejsť">
+<!ENTITY go.tooltip            "Prejsť">
+<!ENTITY openLocation.label    "Otvoriť adresu">
+<!ENTITY openLocation.tooltip  "Otvoriť adresu">
+<!ENTITY star.label            "Hviezda">
+<!ENTITY star.tooltip          "Pridať medzi záložky">
+<!ENTITY bookmarks.label       "Záložky">
+<!ENTITY bookmarks.tooltip     "Zobraziť záložky">
+
+<!ENTITY newtab.label          "Nová karta">
+<!ENTITY closetab.label        "Zavrieť kartu">
+
+<!ENTITY cut.label             "Vystrihnúť">
+<!ENTITY copy.label            "Kopírovať">
+<!ENTITY copylink.label        "Kopírovať adresu odkazu">
+<!ENTITY paste.label           "Prilepiť">
+<!ENTITY delete.label          "Odstrániť">
+<!ENTITY selectAll.label       "Vybrať všetko">
+<!ENTITY noSuggestions.label   "(Žiadne návrhy)">
+<!ENTITY addToDictionary.label "Pridať do slovníka">
+
+<!ENTITY editBookmarkName.label    "Názov:">
+<!ENTITY editBookmarkURI.label     "Adresa:">
+<!ENTITY editBookmarkTags.label    "Značky:">
+<!ENTITY bookmarkRemove.label      "Odstrániť záložku">
+<!ENTITY editBookmarkDone.label    "Hotovo">
+
+<!ENTITY findOnCmd.label     "Hľadať na tejto stránke…">
+<!ENTITY findOnCmd.accesskey "H">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Hľadať znova">
+<!ENTITY findAgainCmd.accesskey "d">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o svojej identite.">
+<!ENTITY identity.connectedTo "Pripojené k stránke">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "Spravuje ju">
