@@ -63,6 +63,8 @@
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Șterge întotdeauna mesajele citite">
 <!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionApplyToFlagged.label "Păstrează întotdeauna mesajele cu steluță">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderOfflineTab.label                  "Offline">
 <!ENTITY folderCheckForNewMessages.label         "Verifică dacă sunt mesaje noi în acest dosar">

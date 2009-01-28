@@ -20,6 +20,8 @@
 <!ENTITY retentionKeepNew.accesskey "u">
 <!ENTITY retentionKeepUnread.label "Șterge mereu mesajele citite">
 <!ENTITY retentionKeepUnread.accesskey "c">
+<!ENTITY retentionApplyToFlagged.label "Păstrează întotdeauna mesajele cu steluță">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Doar corpurile mesajelor de mai puțin de">
 <!ENTITY nntpRemoveBody.accesskey "p">
 <!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat...">

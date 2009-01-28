@@ -64,11 +64,11 @@
 <!ENTITY pageTitle.label              "Titlu pagină:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "Introduceți un titlu care să identifice pagina în fereastră și în semnele de carte">
-<!ENTITY pageTitleExample.label       "ex.: &quot;Pagina mea de web&quot;">
+<!ENTITY pageTitleExample.label       "ex.: „Pagina mea de web”">
 <!ENTITY filename.label               "Nume fișier:">
 <!ENTITY filename.accesskey           "N">
 <!ENTITY filename.tooltip             "Introduceți un nume pentru acest fișier, adăugând '.html' în cazul unei pagini web">
-<!ENTITY filenameExample.label        "ex.: &quot;paginamea.html&quot;">
+<!ENTITY filenameExample.label        "ex.: „pagina mea.html”">
 <!ENTITY setDefaultButton.label       "Implicit">
 <!ENTITY setDefaultButton.accesskey   "I">
 <!ENTITY removeButton.label           "Elimină saitul">

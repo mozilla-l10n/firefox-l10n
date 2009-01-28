@@ -21,11 +21,17 @@
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Altul:">
 <!ENTITY draftInOtherFolder.accesskey "l">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "Dosarul „Arhive” din:">
+<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "Altul:">
+<!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Dosarul &quot;Șabloane&quot; din:">
-<!ENTITY templatesFolderOn.accesskey "o">
+<!ENTITY templatesFolderOn.label "Dosarul „Șabloane” din:">
+<!ENTITY templatesFolderOn.accesskey "D">
 <!ENTITY templateInOtherFolder.label "Altul:">
 <!ENTITY templateInOtherFolder.accesskey "t">
 <!ENTITY specialFoldersTitle.label "Mesaje nefinalizate și șabloane">
 <!ENTITY keepDrafts.label "Păstrează mesajele nefinalizate în:">
+<!ENTITY keepArchives.label "Păstrează mesajele arhivate în:">
 <!ENTITY keepTempltes.label "Păstrează șabloanele de mesaje în:">

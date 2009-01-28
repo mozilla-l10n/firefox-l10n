@@ -30,7 +30,7 @@
 <!ENTITY printPreviewAddressBook.label                  "Previz. imprimare carte adrese">
 <!ENTITY printPreviewAddressBook.accesskey              "z">
 <!ENTITY printContactCmd.label                          "Tipărește contactul…">
-<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.accesskey                      "T">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Tipărește agenda de contacte...">
 <!ENTITY printAddressBook.accesskey                     "a">
@@ -86,7 +86,7 @@
 <!ENTITY customizeToolbar.label                         "Personalizează...">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY showContactPane.label                          "Panoul sumar al contactului">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY showContactPane.accesskey                      "P">
 <!ENTITY menu_ShowNameAs.label                          "Afișează numele în forma">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "Prenume Nume">
@@ -127,7 +127,7 @@
 <!ENTITY newIM.label                                    "Mesaj instantaneu">
 <!ENTITY newIM.accesskey                                "i">
 <!ENTITY deleteButton2.label                            "Șterge">
-<!ENTITY deleteButton2.accesskey                        "D">
+<!ENTITY deleteButton2.accesskey                        "t">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Creează un nou contact în agendă">

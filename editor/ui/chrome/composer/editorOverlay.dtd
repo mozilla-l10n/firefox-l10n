@@ -112,9 +112,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul tastării">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd.label "Verifică ortografia">
-<!ENTITY checkSpellingCmd.accesskey "V">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Verifică ortografia">
+<!ENTITY checkSpellingCmd2.accesskey "V">
+<!ENTITY checkSpellingCmd2.key "o">
 <!ENTITY validateCmd.label "Validează HTML">
 <!ENTITY validateCmd.accesskey "V">
 
