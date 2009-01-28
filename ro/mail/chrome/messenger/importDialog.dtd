@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Import">
-<!ENTITY importDialog.allTitle    "Importă tot">
-<!ENTITY importDialog.mailTitle   "Corespondență">
-<!ENTITY importDialog.addressbookTitle "Agende de contacte">
-<!ENTITY importDialog.settingsTitle "Setări">
-<!ENTITY importDialog.filtersTitle "Filtre">
+<!ENTITY importAll.label          "Importă totul">
+<!ENTITY importAll.accesskey      "I">
+<!ENTITY importMail.label         "Mesaje">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "Agende de contacte">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Setări">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "Filtre">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Odată importate, le veți putea accesa din  &brandShortName; și/sau agenda de contacte.">
 
 <!ENTITY selectDescription.label  "Vă rog alegeți programul din care doriți să importați:">
+<!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label               "&lt; Înapoi">
 <!ENTITY forward.label            "Înainte &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x are o singură adresă poștală pentru fiecare fișă, în timp ce &brandShortName; are două (Acasă și Serviciu).">
 <!ENTITY FieldDiscInputText2.label  "Alegeți categoria în care doriți să memorați adresele poștale importate:">
 <!ENTITY FieldDiscWarning.label  "Această categorie va fi folosită pentru toate intrările din agenda de contacte selectată:">
-<!ENTITY importDialog.homeTitle  "Acasă">
-<!ENTITY importDialog.workTitle  "Serviciu">
+<!ENTITY importHome.label        "Pagina de start">
+<!ENTITY importHome.accesskey    "P">
+<!ENTITY importWork.label        "Lucru">
+<!ENTITY importWork.accesskey    "L">

@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "Nume server:">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY userName.label   "Nume utilizator:">
-<!ENTITY useSecureConnection.label   "Folosește conexiune securizată:">
+<!ENTITY connectionSecurity.label "Securitatea conexiunii: ">
 <!ENTITY useSecureAuthentication.label   "Autentificare securizată: ">

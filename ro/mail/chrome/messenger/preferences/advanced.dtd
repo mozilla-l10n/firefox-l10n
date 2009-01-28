@@ -11,8 +11,8 @@
 <!ENTITY systemDefaults.label          "Opțiunile implicite ale sistemului">
 <!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY checkNow.label                "Check Now">
-<!ENTITY checkNow.accesskey            "N">
+<!ENTITY checkNow.label                "Verifică acum...">
+<!ENTITY checkNow.accesskey            "V">
 <!ENTITY configEditDesc.label          "Configurare avansată">
 <!ENTITY configEdit.label              "Editor de configurație...">
 <!ENTITY configEdit.accesskey          "g">
@@ -45,10 +45,9 @@
 <!-- Update -->
 <!ENTITY autoCheck.label                "Caută automat actualizări pentru:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAppUpdate.accesskey      "&">
 <!ENTITY enableAddonsUpdate.label       "Suplimente instalate">
 <!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY checkNow.label                 "Verifică acum...">
 <!ENTITY whenUpdatesFound.label         "Când sunt găsite actualizări pentru Thundebird,">
 <!ENTITY modeAskMe.label                "Întreabă-mă ce vreau să fac">
 <!ENTITY modeAskMe.accesskey            "Î">

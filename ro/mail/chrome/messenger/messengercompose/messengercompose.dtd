@@ -92,7 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
 <!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showCompositionToolbarCmd.accesskey "B">
 <!ENTITY showFormattingBarCmd.label "Bară de formatare">
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Bară de stare">
@@ -110,10 +110,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opțiuni">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "Verifică ortografia...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "V">
+<!ENTITY checkSpellingCmd2.label "Verifică ortografia...">
+<!ENTITY checkSpellingCmd2.key "o">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY enableInlineSpellChecker.label "Verifică ortografia pe măsură ce tastez">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY quoteCmd.label "Citează mesajul">

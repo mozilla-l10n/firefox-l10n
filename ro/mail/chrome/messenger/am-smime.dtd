@@ -18,7 +18,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Semnătură electronică">
 <!ENTITY signMessage.label "Semnează (implicit) mesajele">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY signMessage.accesskey "S">
 <!ENTITY signingCert.message "Folosește acest certificat pentru a semna electronic mesajele pe care le trimit:">
 
 <!ENTITY certificates.label "Certificate">
