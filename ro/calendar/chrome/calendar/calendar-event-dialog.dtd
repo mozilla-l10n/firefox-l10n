@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -358,17 +359,19 @@
 
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Invitare participanți">
-<!ENTITY event.organizer.label           "Organizator">
-<!ENTITY event.freebusy.suggest.slot     "Sugerați intervalul orar:">
-<!ENTITY event.freebusy.next.slot        "Intervalul următor " >
-<!ENTITY event.freebusy.previous.slot    " Intervalul precedent" >
-<!ENTITY event.freebusy.zoom             "Scalare:">
-<!ENTITY event.freebusy.plus             "Ora următoare" >
-<!ENTITY event.freebusy.minus            "Ora precedentă" >
-<!ENTITY event.freebusy.legend.free      "Liber" >
-<!ENTITY event.freebusy.legend.busy      "Ocupat" >
-<!ENTITY event.freebusy.legend.unknown   "Fără informații" >
+<!ENTITY invite.title.label                     "Invitare participanți">
+<!ENTITY event.organizer.label                  "Organizator">
+<!ENTITY event.freebusy.suggest.slot            "Sugerați intervalul orar:">
+<!ENTITY event.freebusy.next.slot               "Intervalul următor " >
+<!ENTITY event.freebusy.previous.slot           " Intervalul precedent" >
+<!ENTITY event.freebusy.zoom                    "Scalare:">
+<!ENTITY event.freebusy.plus                    "Ora următoare" >
+<!ENTITY event.freebusy.minus                   "Ora precedentă" >
+<!ENTITY event.freebusy.legend.free             "Liber" >
+<!ENTITY event.freebusy.legend.busy             "Ocupat" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Tentativă" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Plecat de la birou" >
+<!ENTITY event.freebusy.legend.unknown          "Fără informații" >
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Vă rugăm să specificați fusul orar">
