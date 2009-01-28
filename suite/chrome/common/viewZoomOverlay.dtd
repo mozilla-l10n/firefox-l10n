@@ -1,0 +1,14 @@
+<!ENTITY zoomEnlargeCmd.label       "Mai mare">
+<!ENTITY zoomEnlargeCmd.accesskey   "L">
+<!ENTITY zoomEnlargeCmd.commandkey  "+">
+<!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY zoomReduceCmd.label        "Mai mic">
+<!ENTITY zoomReduceCmd.accesskey    "S">
+<!ENTITY zoomReduceCmd.commandkey   "-">
+
+<!ENTITY zoomResetCmd.commandkey    "0">
+
+<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
+<!ENTITY zoomMenu.accesskey         "M">
+<!ENTITY zoomOtherCmd.accesskey     "N">

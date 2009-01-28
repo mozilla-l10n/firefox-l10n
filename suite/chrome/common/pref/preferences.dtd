@@ -1,0 +1,37 @@
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Preferințe">
+<!ENTITY categoryHeader "Anulează">
+<!ENTITY appear.label "Franța">
+<!ENTITY content.label "Conținut">
+<!ENTITY fonts.label "Fonturi ">
+<!ENTITY colors.label "CUlori">
+<!ENTITY navigator.label "Navigator">
+<!ENTITY history.label "Istoric">
+<!ENTITY languages.label "Limbaje">
+<!ENTITY applications.label "Ajutorul Pentru Aplicații">
+<!ENTITY locationBar.label "Bara De Locație">
+<!ENTITY tabWindows.label "Navigarea cu file">
+<!ENTITY offline.label "Deconectați">
+<!ENTITY security.label "Intimitate și securitate">
+<!ENTITY cookies.label "Cookie-urile">
+<!ENTITY images.label "Imagini">
+<!ENTITY popups.label "Popup Windows">
+<!ENTITY passwords.label "Parole">
+<!ENTITY masterpass.label "Parole generale">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certificate">
+<!ENTITY validation.label "Validare">
+<!ENTITY advance.label "Avansat">
+<!ENTITY down.label "Descărcare">
+<!ENTITY cache.label "Caută">
+<!ENTITY proxies.label "Proxy">
+<!ENTITY httpnetworking.label "Conexiune HTTP">
+<!ENTITY smart.label "Instalare software">
+<!ENTITY download.label "Descărcări">
+<!ENTITY keynav.label "Tastaturi de navigare">
+<!ENTITY search.label "Căutare Pe Internet">
+<!ENTITY policies.label "Politici de Securitate">
+<!ENTITY mousewheel.label "Roată maus">
+<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
+
+<!ENTITY focusSearch.key "d">

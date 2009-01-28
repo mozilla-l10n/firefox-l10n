@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Configurare perspectivă mesaje">
+<!ENTITY mailViewHeading.label "Nume perspectivă:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Când selectez această perspectivă, afișează doar mesajele">
+

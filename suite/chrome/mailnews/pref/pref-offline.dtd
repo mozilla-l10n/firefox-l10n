@@ -1,0 +1,30 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY pref.offline.title               "Offline &amp; Disk Space">
+<!ENTITY pref.offline.caption             "Deconectați">
+<!ENTITY textStartUp                      "La pornire:">
+<!ENTITY textStartUp.accesskey            "W">
+<!ENTITY menuitemRememberPrevState        "Memorează starea online precedentă">
+<!ENTITY menuitemAskMe                    "Întreabă-mă despre starea online la pornire">
+<!ENTITY menuitemAlwaysOnline             "Pornește întotdeauna online">
+<!ENTITY menuitemAlwaysOffline            "Always start up offline">
+<!ENTITY menuitemAutomatic                "Detect automatically (if available)">
+<!ENTITY textGoingOnline                  "Doriți să se expedieze mesajele netrimise când lucrați online?">
+<!ENTITY radioAutoSend                    "da">
+<!ENTITY radioAutoSend.accesskey          "Y">
+<!ENTITY radioNotSend                     "nu">
+<!ENTITY radioNotSend.accesskey           "N">
+<!ENTITY radioAskUnsent                   "Întreabă-mă">
+<!ENTITY radioAskUnsent.accesskey         "s">
+<!ENTITY textGoingOffline                 "Doriți să se descarce mesajele pentru uz offline când alegeți să lucrați offline?">
+<!ENTITY radioAutoDownload                "da">
+<!ENTITY radioAutoDownload.accesskey      "e">
+<!ENTITY radioNotDownload                 "nu">
+<!ENTITY radioNotDownload.accesskey       "o">
+<!ENTITY radioAskDownload                 "Întreabă-mă">
+<!ENTITY radioAskDownload.accesskey       "k">
+<!ENTITY Diskspace                        "Avertizare spațiu de disc">
+<!ENTITY offlineCompact.label             "Compactează dosarele dacă asta economisește peste">
+<!ENTITY offlineCompact.accesskey         "C">
+<!ENTITY kb.label                         "KO">

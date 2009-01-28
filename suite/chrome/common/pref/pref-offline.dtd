@@ -1,0 +1,13 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY window.title  "Deconectați">
+<!ENTITY boxHeader  "Deconectați">
+<!ENTITY rHeader  "Deconectați">
+<!--LOCALIZATION NOTE (textStart): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY textStart   "When starting &brandShortName;:">
+<!ENTITY radioAskMode  "Ask me if I want online or offline mode">
+<!ENTITY radioUsePrev  "Use my previous online/offline state"> 

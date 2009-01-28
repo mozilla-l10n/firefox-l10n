@@ -1,0 +1,45 @@
+<!-- extracted from tasksOverlay.xul -->
+<!ENTITY navigatorCmd.label "Navigator">
+<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.commandkey "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label					"Compozitor">
+<!ENTITY editorCmd.accesskey				"C">
+<!ENTITY editorCmd.commandkey				"F4">
+
+<!ENTITY javaConsoleCmd.label					"Java Console">
+<!ENTITY javaConsoleCmd.accesskey				"J">
+
+<!ENTITY errorConsoleCmd.label                                  "Consolă de eroare">
+<!ENTITY errorConsoleCmd.accesskey				"C">
+<!ENTITY errorConsoleCmd.commandkey				"r">
+
+<!ENTITY taskNavigator.tooltip  "Navigator">
+<!ENTITY taskComposer.tooltip  "Compozitor">
+
+<!ENTITY webDevelopment.label "Dezvoltare web">
+<!ENTITY webDevelopment.accesskey "W">
+
+<!ENTITY windowMenu.label "Fereastră">
+<!ENTITY windowMenu.accesskey "W">
+
+<!ENTITY tasksMenu.label "Unelte">
+<!ENTITY tasksMenu.accesskey "T"> 
+
+<!ENTITY passwordManagerCmd.label "Manager de parole">
+<!ENTITY passwordManagerCmd.accesskey "P">
+
+<!ENTITY passwordDisplayCmd.label "Manage Stored Passwords">
+<!ENTITY passwordDisplayCmd.accesskey "M">
+
+<!ENTITY passwordExpireCmd.label "Deconectează">
+<!ENTITY passwordExpireCmd.accesskey "L">
+
+<!ENTITY downloadManagerCmd.label "Administrator descărcări">
+<!ENTITY downloadManagerCmd.accesskey "D">
+
+<!ENTITY addonsManagerCmd.label "Add-on Manager">
+<!ENTITY addonsManagerCmd.accesskey "A">
+
+<!ENTITY switchProfileCmd.label "Switch Profile…">
+<!ENTITY switchProfileCmd.accesskey "h">

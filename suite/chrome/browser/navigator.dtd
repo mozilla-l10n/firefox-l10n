@@ -1,0 +1,169 @@
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY tabCmd.label "Browser Tab">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "u">
+<!ENTITY openCmd.label "Deschide locație web...">
+<!ENTITY openCmd.accesskey "O">
+<!ENTITY openCmd.commandkey "g">
+<!ENTITY openFileCmd.label "Deschide un fișier...">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "N">
+<!ENTITY recentTabs.label "File închise recent">
+<!ENTITY recentTabs.accesskey "R">
+<!ENTITY recentTabs.commandkey "u">
+<!ENTITY editPageCmd.label "Editare pagină">
+<!ENTITY editPageCmd.accesskey "E">
+<!ENTITY editPageCmd.commandkey "l">
+
+<!ENTITY uploadFile.label "Upload File…">
+<!ENTITY uploadFile.accesskey "F">
+
+<!ENTITY printSetupCmd.label "Aranjare în pagină...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Previzualizează tipărirea">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Tipărește...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "o">
+
+<!ENTITY viewMenu.label "Vizualizează jurnal">
+<!ENTITY viewMenu.accesskey "V">
+
+<!ENTITY toolbarsCmd.label "Arată/Ascunde">
+<!ENTITY toolbarsCmd.accesskey "w">
+<!ENTITY navbarCmd.label "Bară de navigare">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Bară Laterală Personală">
+<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY tabbarCmd.label "Tab Bar">
+<!ENTITY tabbarCmd.accesskey "T">
+<!ENTITY taskbarCmd.label "Bară de stare">
+<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY componentbarCmd.label "Component Bar">
+<!ENTITY componentbarCmd.accesskey "C">
+
+<!ENTITY useStyleSheetMenu.label "Use Style">
+<!ENTITY useStyleSheetMenu.accesskey "U">
+<!ENTITY useStyleSheetNone.label "Nespecificat">
+<!ENTITY useStyleSheetNone.accesskey "N">
+<!ENTITY useStyleSheetPersistentOnly.label "Default Style">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "D">
+<!ENTITY pageSourceCmd.label "Sursă pagină">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Informații pagină">
+<!ENTITY pageInfoCmd.accesskey "P">
+<!ENTITY pageInfoCmd.commandkey "C">
+<!ENTITY fullScreenCmd.label "Ecran complet">
+<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY translateMenu.label "Translate Page">
+<!ENTITY translateMenu.accesskey "T">
+
+<!ENTITY closeOtherTabs.label "Închide celelalte file">
+<!ENTITY closeOtherTabs.accesskey "T">
+<!ENTITY closeWindow.label "Închidere fereastră">
+<!ENTITY closeWindow.accesskey "W">
+
+<!ENTITY minimizeButton.tooltip       "Minimizează">
+<!ENTITY restoreButton.tooltip        "Restartează">
+
+<!ENTITY applyTheme.label	"Apply Theme"> 
+<!ENTITY applyTheme.accesskey	"A"> 
+<!ENTITY getNewThemesCmd.label "Get New Themes">
+<!ENTITY getNewThemesCmd.accesskey "G">
+<!ENTITY findOnCmd.label "Caută în această pagină...">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "d">
+<!ENTITY findAgainCmd.label "Caută din nou">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "L">
+<!ENTITY findPrevCmd.label "Caută înapoi">
+<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.commandkey "L">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Search the Web">
+<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternet.commandKey "I">
+
+<!ENTITY clearPrivateDataCmd.label "Șterge datele private...">
+<!ENTITY clearPrivateDataCmd.accesskey "e">
+
+<!ENTITY goMenu.label "OK">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY goHomeCmd.label "Pagina de start">
+<!ENTITY goHomeCmd.accesskey "H">
+
+<!ENTITY bookmarksMenu.label "Semne de carte">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY addCurPageCmd.label "Pune un semn la această pagină">
+<!ENTITY addCurPageCmd.accesskey "B">
+<!ENTITY addCurPageAsCmd.label "File Bookmark…">
+<!ENTITY addCurPageAsCmd.accesskey "F">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Bookmark This Group of Tabs…">
+<!ENTITY addCurTabsAsCmd.accesskey "G">
+<!ENTITY manBookmarksCmd.label "Manage Bookmarks…">
+<!ENTITY manBookmarksCmd.accesskey "M">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Abonare la această pagină">
+<!ENTITY feedsMenu.accesskey "S">
+<!ENTITY emptyItem.label "(Gol)">
+
+<!ENTITY menuBar.tooltip                  "Bară meniu">
+<!ENTITY personalToolbar.tooltip          "Bară Laterală Personală">
+<!ENTITY navigationToolbar.tooltip        "Bară de navigare">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label             "Înapoi">
+<!ENTITY backButton.tooltip           "Du-te o pagină înapoi">
+<!ENTITY forwardButton.label          "Forward">
+<!ENTITY forwardButton.tooltip        "Du-te o pagină înainte">
+<!ENTITY reloadButton.label           "Reîncarcă">
+<!ENTITY reloadButton.tooltip         "Reîncarcă pagina curentă">
+<!ENTITY stopButton.label             "Stop">
+<!ENTITY stopButton.tooltip           "Oprește încărcarea acestei pagini">
+<!ENTITY searchButton.label           "Cautare">
+<!ENTITY searchButton.tooltip         "Type a word in the field to the left, then click Search">
+<!ENTITY goButton.label               "OK">
+<!ENTITY goButton.tooltip             "Type a location in the field to the left, then click Go">
+<!ENTITY printButton.label            "Listare">
+<!ENTITY printButton.tooltip          "Tipărește această pagină">
+
+<!ENTITY throbber.tooltip             "Pagina principală &vendorShortName;">
+
+<!ENTITY locationBar.tooltip          "Enter search term, keyword, or web address">
+<!ENTITY locationBar.accesskey        "L">
+<!ENTITY locationBar.title            "Locul de desfășurare">
+
+<!ENTITY proxyIcon.tooltip            "Trageți și aruncați această iconiță pentru a crea o legătură la această pagină">
+
+<!-- Toolbar items --> 
+<!ENTITY  bookmarksButton.label       "Semne de carte">
+<!ENTITY  bookmarksButton.tooltip     "Bookmarks list">
+<!ENTITY  homeButton.label            "Pagina de start">
+<!ENTITY  bookmarksToolbarItem.label  "Elemente pe bara pentru semne de carte">
+
+<!-- Statusbar -->
+<!ENTITY  statusText.label            "Terminat">
+
+<!ENTITY historyCmd.label           "Istoric">  
+<!ENTITY historyCmd.accesskey       "i">
+<!ENTITY history.commandKey         "z">
+
+<!ENTITY popupIcon.tooltiptext      "Unblock this site's popups">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Schimbă direcția paginii">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">

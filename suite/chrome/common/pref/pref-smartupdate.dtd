@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+<!ENTITY pref.smartUpdate.title               "Instalare software">
+<!ENTITY smartTitle.label                     "Manage Software Installations and Updates">
+<!ENTITY enableSU.label                       "Allow web sites to install extensions and updates">
+<!ENTITY enableSU.accesskey                   "e">
+<!ENTITY allowedSites.label                   "Allowed Sites">
+<!ENTITY allowedSites.accesskey               "A">
+
+<!ENTITY verifyUpdates.caption                "Actualizări">
+<!ENTITY autoUpdates.label                    "Caută automat actualizări pentru:">
+<!ENTITY appUpdates.label                     "&brandShortName;">
+<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY daily.label                          "zilnic">
+<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY weekly.label                         "săptămânal">
+<!ENTITY appWeekly.accesskey                  "c">
+<!ENTITY extensionsUpdates.label              "Suplimente instalate">
+<!ENTITY extensionsUpdates.accesskey          "n">
+<!ENTITY extensionsDaily.accesskey            "C">
+<!ENTITY extensionsWeekly.accesskey           "s">
+<!ENTITY addonManagerButton.label             "Add-on Manager">
+<!ENTITY addonManagerButton.accesskey         "M">
