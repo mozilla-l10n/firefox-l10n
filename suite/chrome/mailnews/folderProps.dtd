@@ -54,7 +54,9 @@
 <!ENTITY retentionUseDefault.accesskey "U">
 <!ENTITY daysOld.label "jours">
 <!ENTITY message.label "les plus récents">
-<!ENTITY retentionCleanup.label "Conserver :">
+<!ENTITY retentionCleanup.label "Conserver les messages :">
+<!ENTITY retentionCleanupImap.label "Conserver les messages, les copies locales et les originaux sur le serveur :">
+<!ENTITY retentionCleanupPop.label "Conserver les messages, y compris les originaux sur le serveur :">
 <!ENTITY retentionDeleteMsg.label "Supprimer les messages ayant plus de ">
 <!ENTITY retentionDeleteMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Tous les messages">
