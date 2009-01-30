@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -57,7 +58,7 @@
 <!ENTITY newevent.status.tentative.label    "Avventar" >
 <!ENTITY newevent.status.confirmed.label    "Stadfesta" >
 <!ENTITY newevent.status.needsaction.label  "Treng tilsyn" >
-<!ENTITY newevent.status.inprogress.label   "Pågår" >
+<!ENTITY newevent.status.inprogress.label   "Under arbeid" >
 <!ENTITY newevent.status.completed.label    "Fullført" >
 
 <!-- The following entity is for New Task dialog only -->
@@ -72,16 +73,16 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "H">
 <!ENTITY  event.menu.file.new.message.label               "Melding">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "Adressebokkort">
-<!ENTITY  event.menu.file.new.address.accesskey           "K">
+<!ENTITY  event.menu.file.new.address.label               "Adressekort">
+<!ENTITY  event.menu.file.new.address.accesskey           "A">
 <!ENTITY  event.menu.file.close.label                     "Lat att">
-<!ENTITY  event.menu.file.close.accesskey                 "a">
+<!ENTITY  event.menu.file.close.accesskey                 "L">
 <!ENTITY  event.menu.file.save.label                      "Lagre">
-<!ENTITY  event.menu.file.save.accesskey                  "L">
-<!ENTITY  event.menu.file.page.setup.label                "Utskriftsformat">
+<!ENTITY  event.menu.file.save.accesskey                  "a">
+<!ENTITY  event.menu.file.page.setup.label                "Utskriftsformat …">
 <!ENTITY  event.menu.file.page.setup.accesskey            "m">
 <!ENTITY  event.menu.file.print.label                     "Skriv ut">
-<!ENTITY  event.menu.file.print.accesskey                 "S">
+<!ENTITY  event.menu.file.print.accesskey                 "k">
 
 <!ENTITY  event.menu.edit.label                           "Endre">
 <!ENTITY  event.menu.edit.accesskey                       "E">
@@ -103,7 +104,7 @@
 <!ENTITY  event.menu.view.toolbars.label                  "Verktøylinjer">
 <!ENTITY  event.menu.view.toolbars.accesskey              "V">
 <!ENTITY  event.menu.view.toolbars.event.label            "Verktøylinje for hendingar">
-<!ENTITY  event.menu.view.toolbars.event.accesskey        "H">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Tilpass …">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "T">
 <!ENTITY  event.menu.view.showlink.label                  "Vis relatert lenkje">
@@ -112,21 +113,21 @@
 <!ENTITY  event.menu.options.label                            "Innstillingar">
 <!ENTITY  event.menu.options.accesskey                        "I">
 <!ENTITY  event.menu.options.attachments.label                "Legg ved nettside …">
-<!ENTITY  event.menu.options.attachments.accesskey            "v">
+<!ENTITY  event.menu.options.attachments.accesskey            "L">
 <!ENTITY  event.menu.options.attendees.label                  "Inviter deltakarar …">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
 <!ENTITY  event.menu.options.spellcheck.label                 "Stavekontroll …">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "h">
+<!ENTITY  event.menu.options.spellcheck.accesskey             "a">
 <!ENTITY  event.menu.options.inline.spellcheck.label          "Stavekontroll medan du skriv">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "v">
 <!ENTITY  event.menu.options.link.label                       "Legg til lenkje …">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone.label                   "Tidssone">
-<!ENTITY  event.menu.options.timezone.accesskey               "s">
+<!ENTITY  event.menu.options.timezone.accesskey               "T">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritet">
-<!ENTITY  event.menu.options.priority2.accesskey              "r">
+<!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Ikkje valt">
-<!ENTITY  event.menu.options.priority.notspecified.accesskey  "j">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "I">
 <!ENTITY  event.menu.options.priority.low.label               "Låg">
 <!ENTITY  event.menu.options.priority.low.accesskey           "L">
 <!ENTITY  event.menu.options.priority.normal.label            "Normal">
@@ -134,15 +135,15 @@
 <!ENTITY  event.menu.options.priority.high.label              "Høg">
 <!ENTITY  event.menu.options.priority.high.accesskey          "H">
 <!ENTITY  event.menu.options.privacy.label                    "Personvern">
-<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.accesskey                "e">
 <!ENTITY  event.menu.options.privacy.public.label             "Offentleg hending">
-<!ENTITY  event.menu.options.privacy.public.accesskey         "f">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "O">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Vis berre tid og dato">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey   "b">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "V">
 <!ENTITY  event.menu.options.privacy.private.label            "Privat hending">
-<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "P">
 <!ENTITY  event.menu.options.show.time.label                  "Vis tid som">
-<!ENTITY  event.menu.options.show.time.accesskey              "T">
+<!ENTITY  event.menu.options.show.time.accesskey              "V">
 <!ENTITY  event.menu.options.show.time.busy.label             "Oppteken">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "O">
 <!ENTITY  event.menu.options.show.time.free.label             "Ledig">
@@ -152,14 +153,14 @@
 <!ENTITY event.help.accesskey                             "H">
 <!ENTITY event.help.release.notes.label                   "Merknader til utgjevinga">
 <!ENTITY event.help.release.notes.accesskey               "M">
-<!ENTITY event.help.help.label                            "Hjelp til &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "H">
+<!ENTITY event.help.help.label                            "&brandShortName; hjelp">
+<!ENTITY event.help.help.accesskey                        "h">
 <!ENTITY event.help.about.label                           "Om &brandShortName;">
 <!ENTITY event.help.about.accesskey                       "O">
 
 <!ENTITY event.invite.attendees.label                     "Inviter deltakarar …">
 <!ENTITY event.invite.attendees.accesskey                 "I">
-<!ENTITY event.email.attendees.label                      "Skriv e-post til alle deltakarar …">
+<!ENTITY event.email.attendees.label                      "Skriv e-post til alle deltakarane …">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Skriv e-post til usikre deltakarar …">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
@@ -185,23 +186,23 @@
 <!ENTITY event.alldayevent.label                          "Heildagshending" >
 <!ENTITY event.alldayevent.accesskey                      "H">
 <!ENTITY event.from.label                                 "Start:" >
-<!ENTITY event.from.accesskey                             "S">
+<!ENTITY event.from.accesskey                             "a">
 <!ENTITY task.from.label                                  "Start:" >
-<!ENTITY task.from.accesskey                              "S">
+<!ENTITY task.from.accesskey                              "a">
 <!ENTITY event.to.label                                   "Slutt:" >
 <!ENTITY event.to.accesskey                               "l">
 <!ENTITY task.to.label                                    "Forfallsdato:" >
-<!ENTITY task.to.accesskey                                "F">
+<!ENTITY task.to.accesskey                                "o">
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Gjenta:" >
 <!ENTITY event.repeat.accesskey                           "G">
 <!ENTITY event.reminder.label                             "Påminning:" >
-<!ENTITY event.reminder.accesskey                         "P">
+<!ENTITY event.reminder.accesskey                         "å">
 <!ENTITY event.description.label                          "Skildring:" >
 <!ENTITY event.description.accesskey                      "S">
 <!ENTITY event.attachments.label                          "Vedlegg:" >
-<!ENTITY event.attachments.accesskey                      "e" >
+<!ENTITY event.attachments.accesskey                      "V" >
 <!ENTITY event.attachments.popup.remove.label             "Fjern" >
 <!ENTITY event.attachments.popup.remove.accesskey         "F" >
 <!ENTITY event.attachments.popup.open.label               "Opne" >
@@ -259,7 +260,7 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Kvar" >
 <!ENTITY repeat.units.months.both                       "Månad(er)" >
-<!ENTITY event.recurrence.the.label                     "" >
+<!ENTITY event.recurrence.the.label                     "Den" >
 <!ENTITY event.recurrence.repeat.first.label            "Første">
 <!ENTITY event.recurrence.repeat.second.label           "Andre">
 <!ENTITY event.recurrence.repeat.third.label            "Tredje">
@@ -358,17 +359,19 @@
 
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Inviter deltakarar">
-<!ENTITY event.organizer.label           "Organisert av">
-<!ENTITY event.freebusy.suggest.slot     "Føreslå tidsluke:">
-<!ENTITY event.freebusy.next.slot        "Neste tidsluke" >
-<!ENTITY event.freebusy.previous.slot    "Førre tidsluke" >
-<!ENTITY event.freebusy.zoom             "Zoom:">
-<!ENTITY event.freebusy.plus             "Neste time" >
-<!ENTITY event.freebusy.minus            "Førre time" >
-<!ENTITY event.freebusy.legend.free      "Ledig" >
-<!ENTITY event.freebusy.legend.busy      "Oppteken" >
-<!ENTITY event.freebusy.legend.unknown   "Ingen informasjon" >
+<!ENTITY invite.title.label                     "Inviter deltakarar">
+<!ENTITY event.organizer.label                  "Organisert av">
+<!ENTITY event.freebusy.suggest.slot            "Føreslå tidsluke:">
+<!ENTITY event.freebusy.next.slot               "Neste tidsluke" >
+<!ENTITY event.freebusy.previous.slot           "Førre tidsluke" >
+<!ENTITY event.freebusy.zoom                    "Zoom:">
+<!ENTITY event.freebusy.plus                    "Neste time" >
+<!ENTITY event.freebusy.minus                   "Førre time" >
+<!ENTITY event.freebusy.legend.free             "Ledig" >
+<!ENTITY event.freebusy.legend.busy             "Oppteken" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Tentativ" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Ikkje på kontoret" >
+<!ENTITY event.freebusy.legend.unknown          "Ingen informasjon" >
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Gje opp tidssone">

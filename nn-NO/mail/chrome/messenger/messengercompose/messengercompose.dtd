@@ -14,7 +14,7 @@
 <!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Legg ved">
 <!ENTITY attachMenu.accesskey "v">
-<!ENTITY attachFileCmd.label "Fil …">
+<!ENTITY attachFileCmd.label "Filer …">
 <!ENTITY attachFileCmd.accesskey "f">
 <!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "n">
@@ -41,7 +41,7 @@
 <!ENTITY sendLaterCmd.label "Send seinare">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Utskriftsformat">
+<!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "m">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.key "P">
