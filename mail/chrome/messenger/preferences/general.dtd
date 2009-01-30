@@ -1,29 +1,17 @@
-<!ENTITY systemDefaults.label              "Systemstandard">
-<!ENTITY alwaysCheckDefault.label          "Kontroller alltid om &brandShortName; er standard e-postprogram ved oppstart">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Kontroller no">
-<!ENTITY checkNow.accesskey         "N">
-
 <!ENTITY messengerStartPage.label         "&brandShortName; startside">
 <!ENTITY enableStartPage.label            "Når &brandShortName; startar, vis startsida i meldingsområdet">
 <!ENTITY enableStartPage.accesskey        "N">
 <!ENTITY location.label                   "Adresse:">
 <!ENTITY location1.accesskey               "A">
 <!ENTITY useDefault.label                 "Still tilbake til standard">
-<!ENTITY useDefault.accesskey             "G">
+<!ENTITY useDefault.accesskey             "t">
 
 <!ENTITY bounceSystemDockIcon.label       "Animer startmeny-ikonet (docking-ikonet)">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
 
 <!ENTITY newMessagesArrive.label          "Når ei ny melding kjem:">
 <!ENTITY playSound.label                  "Spel av ein lyd">
-<!ENTITY playSound1.accesskey              "p">
+<!ENTITY playSound1.accesskey              "S">
 <!ENTITY showAnimatedAlert.label          "Vis ei melding">
 <!ENTITY showAnimatedAlert.accesskey      "S">
 <!ENTITY customizeMailAlert.label         "Avansert …">
@@ -31,17 +19,17 @@
 
 <!ENTITY play.label                       "Spel">
 <!ENTITY play.accesskey                   "p">
-<!ENTITY systemsound.label                "Bruk standardsystemlyden for ny e-post">
-<!ENTITY systemsoundMac.label             "Systemvarslingslyd">
-<!ENTITY systemsoundMac.accesskey         "l">
-<!ENTITY systemsound.accesskey            "L">
+<!ENTITY systemsound.label                "Standardsystemlyd for ny e-post">
+<!ENTITY systemsoundMac.label             "Systemlyd">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Bruk denne lydfila">
-<!ENTITY customsound.accesskey            "u">
+<!ENTITY customsound.accesskey            "r">
 <!ENTITY browse.label                     "Bla gjennom …">
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY addonsMgr.label                  "Utvidingar">
-<!ENTITY manageAddonsDescWin.label        "Endre val for utvidingane dine">
-<!ENTITY manageAddonsDescUnix2.label      "Endre innstillingar for utvidingar">
-<!ENTITY manageAddons.label               "Handsam utvidingar …">
+<!ENTITY manageAddonsDescWin.label        "Endre innstillingar for utvidingane dine">
+<!ENTITY manageAddonsDescUnix2.label      "Endre innstillingar for utvidingane dine">
+<!ENTITY manageAddons.label               "Handsame utvidingar …">
 <!ENTITY manageAddons.accesskey           "H">

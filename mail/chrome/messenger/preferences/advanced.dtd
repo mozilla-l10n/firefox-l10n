@@ -1,5 +1,5 @@
 <!ENTITY itemGeneral.label       "Generelt">
-<!ENTITY itemDisplay.label       "Les &amp; Vis">
+<!ENTITY itemDisplay.label       "Lesing og vising">
 <!ENTITY itemUpdate.label        "Oppdatering">
 <!ENTITY itemNetworking.label    "Nettverk og diskplass">
 <!ENTITY itemCertificates.label  "Sertifikat">
@@ -8,66 +8,70 @@
 
 <!ENTITY enableGloda.label             "Slå på meldingsindeksering">
 <!ENTITY enableGloda.accesskey         "S">
-<!ENTITY showCondensedAddresses.label  "Vis berre synleg namn for personar som er i adresseboka">
-<!ENTITY showCondensedAddresses.accesskey "S">
+<!ENTITY systemDefaults.label          "Standard e-postklient">
+<!ENTITY alwaysCheckDefault.label      "Alltid kontroller om &brandShortName; er standard e-postklient ved oppstart">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY checkNow.label                "Kontroller no …">
+<!ENTITY checkNow.accesskey            "n">
+<!ENTITY configEditDesc.label          "Avanserte innstillingar">
+<!ENTITY configEdit.label              "Konfigurasjonseditor …">
+<!ENTITY configEdit.accesskey          "o">
+<!ENTITY returnReceiptsInfo.label      "Avgjer korleis &brandShortName; skal handsame kvitteringar">
+<!ENTITY showReturnReceipts.label      "Kvitteringar …">
+<!ENTITY showReturnReceipts.accesskey  "K">
 
-<!ENTITY autoMarkAsRead.label          "Merk meldingar automatisk som lesne">
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Lesing">
+<!ENTITY display.caption               "Utsjånad">
+<!ENTITY showCondensedAddresses.label  "Vis berre synleg namn for personar som er i adresseboka">
+<!ENTITY showCondensedAddresses.accesskey "V">
+
+<!ENTITY autoMarkAsRead.label          "Automatisk merk meldingar som lesne">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "Med ein gong på skjerm">
 <!ENTITY markAsReadNoDelay.accesskey   "d">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Etter vising i">
-<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY markAsReadDelay.label         "Etter at dei er vist i">
+<!ENTITY markAsReadDelay.accesskey     "E">
 <!ENTITY secondsLabel.label            "sekund">
-<!ENTITY openMsgIn.label               "Opne nye meldingar i:">
+<!ENTITY openMsgIn.label               "Opne meldingar i:">
 <!ENTITY reuseExpRadio0.label          "Eit nytt vindauge">
-<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio0.accesskey      "y">
 <!ENTITY reuseExpRadio1.label          "Eit eksisterande meldingsvindauge">
-<!ENTITY reuseExpRadio1.accesskey      "E">
-<!ENTITY configEditDesc.label          "Avanserte innstillingar">
-<!ENTITY configEdit.label              "Endre innstillingar …">
-<!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Avgjer korleis &brandShortName; skal handsame returnerte kvitteringar">
-<!ENTITY showReturnReceipts.label      "Send tilbake kvitteringar …">
-<!ENTITY showReturnReceipts.accesskey  "R">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Les">
-<!ENTITY display.caption                "Vis">
+<!ENTITY reuseExpRadio1.accesskey      "e">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Sjå etter oppdateringar automatisk for:">
+<!ENTITY autoCheck.label                "Automatisk sjå etter oppdateringar for:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Mine tema og utvidingar">
-<!ENTITY enableAddonsUpdate.accesskey   "M">
-<!ENTITY checkNow.label                 "Oppdater no …">
+<!ENTITY enableAddonsUpdate.label       "Installerte utvidingar">
+<!ENTITY enableAddonsUpdate.accesskey   "n">
 <!ENTITY whenUpdatesFound.label         "Når oppdateringar til &brandShortName; vert funne,">
 <!ENTITY modeAskMe.label                "Spør meg kva som skal gjerast">
 <!ENTITY modeAskMe.accesskey            "p">
-<!ENTITY modeAutomatic.label            "Last ned og installer oppdateringa automatisk">
+<!ENTITY modeAutomatic.label            "Automatisk last ned og installer oppdateringa">
 <!ENTITY modeAutomatic.accesskey        "A">
-<!ENTITY modeAutoAddonWarn.label        "Åtvar meg om dette fører til at utvidingar eller tema vert slått av">
+<!ENTITY modeAutoAddonWarn.label        "Åtvar meg om dette vil slå av utvidingar eller tema">
 <!ENTITY modeAutoAddonWarn.accesskey    "d">
 <!ENTITY showUpdates.label              "Vis oppdateringshistorikk">
-<!ENTITY showUpdates.accesskey          "o">
+<!ENTITY showUpdates.accesskey          "V">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Settings…">
-<!ENTITY showSettings.accesskey        "n">
-<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
+<!ENTITY showSettings.label            "Innstillingar">
+<!ENTITY showSettings.accesskey        "I">
+<!ENTITY proxiesConfigure.label        "Still inn korleis &brandShortName; koplar seg til Internett">
 <!ENTITY connectionsInfo.caption       "Tilkopling">
 <!ENTITY offlineInfo.caption           "Fråkopla">
-<!ENTITY offlineInfo.label             "Endre innstillingane for fråkopla bruk">
+<!ENTITY offlineInfo.label             "Konfigurer innstillingar for fråkopla modus">
 <!ENTITY showOffline.label             "Fråkopla …">
 <!ENTITY showOffline.accesskey         "F">
 
 <!ENTITY Diskspace "Diskplass">
 <!ENTITY offlineCompact.label "Komprimer mapper når det vil spare meir enn">
-<!ENTITY offlineCompact.accesskey "v">
-<!ENTITY kb.label " KB">
+<!ENTITY offlineCompact.accesskey "K">
+<!ENTITY kb.label "KB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -75,18 +79,18 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Use up to">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB of space for the cache">
-<!ENTITY clearCacheNow.label             "Clear Now">
-<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY useCacheBefore.label            "Bruk opptil">
+<!ENTITY useCacheBefore.accesskey        "B">
+<!ENTITY useCacheAfter.label             "MB diskplass for snøgglageret">
+<!ENTITY clearCacheNow.label             "Tøm no">
+<!ENTITY clearCacheNow.accesskey         "T">
 
 <!-- Certificates -->
 <!ENTITY viewCertificates.label         "Vis sertifikat">
-<!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewCRLs.label                 "Tilbakekallingslister">
-<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewCertificates.accesskey     "V">
+<!ENTITY viewCRLs.label                 "Tilbakekalling">
+<!ENTITY viewCRLs.accesskey             "T">
 <!ENTITY validation.label               "Validering">
-<!ENTITY validation.accesskey           "d">
+<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Sikkerheitseiningar">
-<!ENTITY viewSecurityDevices.accesskey  "g">
+<!ENTITY viewSecurityDevices.accesskey  "S">

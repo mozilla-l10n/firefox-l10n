@@ -19,13 +19,13 @@
 <!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Bruk Mac OS X adressebok">
-<!ENTITY osxAddressBook.accesskey                       "O">
+<!ENTITY osxAddressBook.accesskey                       "r">
 <!ENTITY closeCmd.label                                 "Lat att">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "L">
 <!ENTITY printSetupCmd.label                            "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey                        "m">
-<!ENTITY printPreviewContactCmd.label                   "Førehandsvising av adressekort">
+<!ENTITY printPreviewContactCmd.label                   "Førehandsvising av kort">
 <!ENTITY printPreviewContactCmd.accesskey               "r">
 <!ENTITY printPreviewAddressBook.label                  "Førehandsvising av adressebok">
 <!ENTITY printPreviewAddressBook.accesskey              "F">
@@ -78,9 +78,9 @@
 <!ENTITY viewMenu.label                                 "Vis">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Verktøylinjer">
-<!ENTITY viewToolbarsMenu.accesskey                     ""> 
+<!ENTITY viewToolbarsMenu.accesskey                     "e"> 
 <!ENTITY showAbToolbarCmd.label                         "Verktøylinje for adressebok">
-<!ENTITY showAbToolbarCmd.accesskey                     "A">
+<!ENTITY showAbToolbarCmd.accesskey                     "r">
 <!ENTITY showTaskbarCmd.label                           "Statuslinje">
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Tilpass …">
@@ -100,7 +100,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Verktøy">
-<!ENTITY tasksMenu.accesskey                            "">
+<!ENTITY tasksMenu.accesskey                            "V">
 <!ENTITY messengerCmd.label                             "E-post og nyhendegrupper">
 <!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
@@ -117,9 +117,9 @@
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "Nytt kort">
-<!ENTITY newContactButton.accesskey                     "">
+<!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny liste">
-<!ENTITY newlistButton.accesskey                        "">
+<!ENTITY newlistButton.accesskey                        "l">
 <!ENTITY editButton2.label                              "Eigenskapar">
 <!ENTITY editButton2.accesskey                          "E">
 <!ENTITY newmsgButton.label                             "Skriv ny">
@@ -130,7 +130,7 @@
 <!ENTITY deleteButton2.accesskey                        "S">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Opprett nytt kort">
+<!ENTITY newContactButton.tooltip                       "Opprett eit nytt adressekort">
 <!ENTITY newlistButton.tooltip                          "Opprett ei ny liste">
 <!ENTITY editButton2.tooltip                            "Rediger valde element">
 <!ENTITY newmsgButton.tooltip                           "Send ein e-post">
@@ -157,7 +157,7 @@
 <!ENTITY Company.label                                  "Firma">
 <!ENTITY Company.accesskey                              "F">
 <!ENTITY NickName.label                                 "Kallenamn">
-<!ENTITY NickName.accesskey                             "">
+<!ENTITY NickName.accesskey                             "K">
 <!ENTITY SecondEmail.label                              "Anna e-postadresse">
 <!ENTITY SecondEmail.accesskey                          "n">
 <!ENTITY Department.label                               "Avdeling">
@@ -174,7 +174,7 @@
 <!ENTITY HomePhone.accesskey                            "H">
 <!ENTITY WorkPhone.label                                "Arbeidstelefon">
 <!ENTITY WorkPhone.accesskey                            "A">
-<!ENTITY sortAscending.label                            "I stigande rekkefølgje">
+<!ENTITY sortAscending.label                            "I stigande rekkjefølgje">
 <!ENTITY sortAscending.accesskey                        "S">
 <!ENTITY sortDescending.label                           "I minkande rekkefølgje">
 <!ENTITY sortDescending.accesskey                       "i">
@@ -184,7 +184,7 @@
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Kontakt">
-<!ENTITY home.heading                                   "Heim">
+<!ENTITY home.heading                                   "Heime">
 <!ENTITY other.heading                                  "Anna">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Arbeid">
@@ -203,4 +203,4 @@
 <!ENTITY minimizeWindow.label "Minimer">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Send alle til framgrunnen">
-<!ENTITY zoomWindow.label "Forstørr">
+<!ENTITY zoomWindow.label "Skalering">

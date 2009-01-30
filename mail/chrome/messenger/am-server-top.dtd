@@ -1,16 +1,15 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Innstillingar for sikkerheit">
+<!ENTITY securitySettings.label "Sikkerheitsinnstillingar">
 <!ENTITY serverSettings.label "Tenarinnstillingar">
 <!ENTITY serverType.label "Tenartype:">
 <!ENTITY serverName.label "Tenarnamn:">
 <!ENTITY serverName.accesskey "n">
 <!ENTITY userName.label "Brukarnamn:">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "B">
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Standard:">
-<!ENTITY savePassword.label "Lagre passord">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -22,8 +21,8 @@
 <!ENTITY socketType.label "Bruk trygg tilkopling:">
 <!ENTITY neverSecure.label "Aldri">
 <!ENTITY neverSecure.accesskey "A">
-<!ENTITY sometimesSecure.label "TLS, viss tilgjengeleg">
-<!ENTITY sometimesSecure.accesskey "v">
+<!ENTITY sometimesSecure.label "TLS, dersom tilgjengeleg">
+<!ENTITY sometimesSecure.accesskey "d">
 <!ENTITY alwaysSecure.label "TLS">
 <!ENTITY alwaysSecure.accesskey "T">
 <!ENTITY alwaysSSL.label "SSL">
@@ -65,7 +64,7 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "meldingar">
 <!ENTITY alwaysAuthenticate.label "Spør alltid etter autentisering ved tilkopling til denne tenaren">
-<!ENTITY alwaysAuthenticate.accesskey "A">
+<!ENTITY alwaysAuthenticate.accesskey "ø">
 <!ENTITY newsrcFilePath.label "newsrc-fil:">
 <!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY abbreviate.label "Vis namn i mappelista med">

@@ -6,9 +6,9 @@
 <!ENTITY newFolderCmd.label "Mappe …">
 <!ENTITY newFolderCmd.accesskey "p">
 <!ENTITY closeTabCmd.label "Lat att fane">
-<!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY closeTabCmd.accesskey "L">
 <!ENTITY newVirtualFolderCmd.label "Lagra søk …">
-<!ENTITY newVirtualFolderCmd.accesskey "L">
+<!ENTITY newVirtualFolderCmd.accesskey "a">
 <!ENTITY newAccountCmd.label "Konto …">
 <!ENTITY newAccountCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Opne lagra melding …">
@@ -28,32 +28,32 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle kontoar">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Denne kontoen">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "N">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "D">
 <!ENTITY getNextNMsgCmd.label "Hent neste 500 meldingar i nyhendegruppa">
-<!ENTITY getNextNMsgCmd.accesskey "N">
+<!ENTITY getNextNMsgCmd.accesskey "e">
 <!ENTITY sendUnsentCmd.label "Send usende meldingar">
 <!ENTITY sendUnsentCmd.accesskey "u">
 <!ENTITY subscribeCmd.label "Abonner …">
 <!ENTITY subscribeCmd.accesskey "A">
 <!ENTITY deleteFolder.label "Slett mappe">
-<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY deleteFolder.accesskey "S">
 <!ENTITY renameFolder.label "Endre mappenamn …">
 <!ENTITY renameFolder.accesskey "E">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Komprimer mapper">
-<!ENTITY compactFolders.accesskey    "F">
+<!ENTITY compactFolders.accesskey    "K">
 <!ENTITY emptyTrashCmd.label "Tøm bosskorg">
 <!ENTITY emptyTrashCmd.accesskey    "T">
 <!ENTITY importCmd.label "Importer …">
 <!ENTITY importCmd.accesskey "p">
 <!ENTITY offlineMenu.label "Fråkopla">
-<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineMenu.accesskey "F">
 <!ENTITY offlineGoOfflineCmd.label "Arbeid fråkopla">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY offlineGoOfflineCmd.accesskey "A">
 <!ENTITY synchronizeOfflineCmd.label "Last ned/synkroniser no …">
-<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY synchronizeOfflineCmd.accesskey "a">
 <!ENTITY settingsOfflineCmd.label "Fråkopla-innstillingar …">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd.accesskey "F">
 <!ENTITY downloadSelectedCmd.label "Hent dei valde meldingane">
 <!ENTITY downloadSelectedCmd.accesskey "M">
 <!ENTITY downloadStarredCmd.label "Hent dei stjernemerkte meldingane">
@@ -61,7 +61,7 @@
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Førehandsvising">
+<!ENTITY printPreviewCmd.label "Førehandsvis sida">
 <!ENTITY printPreviewCmd.accesskey "F">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "m">
@@ -102,31 +102,31 @@
 <!ENTITY accountManagerCmd.accesskey "K">
 <!ENTITY accountManagerCmdUnix.accesskey "K">
 <!ENTITY undoDeleteMsgCmd.label "Angre sletting av melding">
-<!ENTITY redoDeleteMsgCmd.label "Gjer om igjen sletting av melding">
+<!ENTITY redoDeleteMsgCmd.label "Gjenta sletting av melding">
 <!ENTITY undoMoveMsgCmd.label "Angre flytting av melding">
-<!ENTITY redoMoveMsgCmd.label "Gjer om igjen flytting av melding">
+<!ENTITY redoMoveMsgCmd.label "Gjenta flytting av melding">
 <!ENTITY undoCopyMsgCmd.label "Angre kopiering av melding">
-<!ENTITY redoCopyMsgCmd.label "Gjer om igjen kopiering av melding">
+<!ENTITY redoCopyMsgCmd.label "Gjenta kopiering av melding">
 <!ENTITY undoMarkAllCmd.label "Angre merk alle som lesne">
-<!ENTITY redoMarkAllCmd.label "Gjer om merk alle som lesne">
+<!ENTITY redoMarkAllCmd.label "Gjenta merk alle som lesne">
 <!ENTITY undoDefaultCmd.label "Angre">
 <!ENTITY undoDefaultCmd.accesskey "A">
-<!ENTITY redoDefaultCmd.label "Gjer om igjen">
+<!ENTITY redoDefaultCmd.label "Gjenta">
 <!ENTITY redoDefaultCmd.accesskey "G">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Verktøylinje for meldingar">
-<!ENTITY showMessengerToolbarCmd.accesskey "E">
+<!ENTITY showMessengerToolbarCmd.accesskey "V">
 <!ENTITY customizeToolbar.label "Tilpass …">
 <!ENTITY customizeToolbar.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "Utsjånad">
 <!ENTITY messagePaneLayoutStyle.accesskey "U">
-<!ENTITY messagePaneClassic.label "Klassisk framsyning">
+<!ENTITY messagePaneClassic.label "Klassisk vising">
 <!ENTITY messagePaneClassic.accesskey "K">
-<!ENTITY messagePaneWide.label "Brei framsyning">
+<!ENTITY messagePaneWide.label "Brei vising">
 <!ENTITY messagePaneWide.accesskey "B">
-<!ENTITY messagePaneVertical.label "Vertikal framsyning">
+<!ENTITY messagePaneVertical.label "Vertikal vising">
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showMessageCmd.label "Meldingsvindauge">
 <!ENTITY showMessageCmd.accesskey "v">
@@ -162,7 +162,7 @@
 <!ENTITY sortByTagsCmd.label "Merkelapp">
 <!ENTITY sortByTagsCmd.accesskey "M">
 <!ENTITY sortByJunkStatusCmd.label "Uønskt-status">
-<!ENTITY sortByJunkStatusCmd.accesskey "S">
+<!ENTITY sortByJunkStatusCmd.accesskey "U">
 <!ENTITY sortBySubjectCmd.label "Emne">
 <!ENTITY sortBySubjectCmd.accesskey "E">
 <!ENTITY sortByFromCmd.label "Frå">
@@ -171,7 +171,7 @@
 <!ENTITY sortByRecipientCmd.accesskey "M">
 <!ENTITY sortByUnreadCmd.label "Lese">
 <!ENTITY sortByUnreadCmd.accesskey "L">
-<!ENTITY sortByOrderReceivedCmd.label "Mottaksrekkjefølgje">
+<!ENTITY sortByOrderReceivedCmd.label "Mottatt rekkjefølgje">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
 <!ENTITY sortAscending.label "Stigande">
 <!ENTITY sortAscending.accesskey "S">
@@ -212,7 +212,7 @@
 <!ENTITY bodyMenu.label "Meldingskropp som">
 <!ENTITY bodyMenu.accesskey "d">
 <!ENTITY bodyAllowHTML.label "Original HTML">
-<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodyAllowHTML.accesskey "O">
 <!ENTITY bodySanitized.label "Enkel HTML">
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Rein tekst">
@@ -226,14 +226,14 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Forstørre">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "F">
+<!ENTITY fullZoomEnlargeCmd.label       "Større">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "S">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Forminske">
-<!ENTITY fullZoomReduceCmd.accesskey    "o">
+<!ENTITY fullZoomReduceCmd.label        "Mindre">
+<!ENTITY fullZoomReduceCmd.accesskey    "M">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -244,8 +244,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Forstørr berre tekst">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Forstørre">
-<!ENTITY fullZoom.accesskey             "F">
+<!ENTITY fullZoom.label                 "Skalering">
+<!ENTITY fullZoom.accesskey             "S">
 
 <!ENTITY pageSourceCmd.label "Kjeldekode">
 <!ENTITY pageSourceCmd.accesskey "K">
@@ -672,7 +672,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY minimizeWindow.label "Minimer">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Send alle til framgrunnen">
-<!ENTITY zoomWindow.label "Forstørr">
+<!ENTITY zoomWindow.label "Skalering">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Innstillingar …">
