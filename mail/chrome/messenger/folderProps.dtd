@@ -100,3 +100,7 @@
 <!-- FIXME: localize -->
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+
+<!-- FIXME: localize -->
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
