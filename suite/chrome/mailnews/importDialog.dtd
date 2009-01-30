@@ -37,11 +37,16 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY importDialog.windowTitle "Importieren">
-<!ENTITY importDialog.allTitle    "Alles importieren">
-<!ENTITY importDialog.mailTitle   "Mail">
-<!ENTITY importDialog.addressbookTitle "Adressbücher">
-<!ENTITY importDialog.settingsTitle "Einstellungen">
-<!ENTITY importDialog.filtersTitle "Filter">
+<!ENTITY importAll.label          "Alles importieren">
+<!ENTITY importAll.accesskey      "o">
+<!ENTITY importMail.label         "Mail">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "Adressbücher">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Einstellungen">
+<!ENTITY importSettings.accesskey "E">
+<!ENTITY importFilters.label      "Filter">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -53,6 +58,7 @@
 <!ENTITY importDescription2.label "Wenn diese importiert wurden, können Sie auf diese von &brandShortName; zugreifen.">
 
 <!ENTITY selectDescription.label  "Bitte wählen Sie den Typ der Datei, die importiert werden soll:">
+<!ENTITY selectDescription.accesskey "B">
 
 <!ENTITY back.label               "&lt; Zurück">
 <!ENTITY forward.label            "Weiter &gt;">
@@ -67,5 +73,7 @@
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x speichert nur eine Postadresse für jede Karte, während &brandShortName; zwei speichert (private und dienstliche).">
 <!ENTITY FieldDiscInputText2.label  "Wählen Sie die Kategorie, in die importierte Postadressen gespeichert werden:">
 <!ENTITY FieldDiscWarning.label  "Diese Kategorie wird für alle Einträge des gewählten Adressbuchs verwendet: ">
-<!ENTITY importDialog.homeTitle  "Privat">
-<!ENTITY importDialog.workTitle  "Dienstlich">
+<!ENTITY importHome.label        "Privat">
+<!ENTITY importHome.accesskey    "P">
+<!ENTITY importWork.label        "Dienstlich">
+<!ENTITY importWork.accesskey    "D">

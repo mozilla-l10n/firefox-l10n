@@ -54,7 +54,9 @@
 <!ENTITY retentionUseDefault.accesskey "S">
 <!ENTITY daysOld.label "Tage sind">
 <!ENTITY message.label "Nachrichten">
-<!ENTITY retentionCleanup.label "Behalten:">
+<!ENTITY retentionCleanup.label "Nachrichten behalten:">
+<!ENTITY retentionCleanupImap.label "Nachrichten behalten, sowohl die lokalen Kopien als auch ihre Originale am Server:">
+<!ENTITY retentionCleanupPop.label "Nachrichten behalten, inklusive ihrer Originale am Server:">
 <!ENTITY retentionDeleteMsg.label "Nachrichten löschen, die älter sind als">
 <!ENTITY retentionDeleteMsg.accesskey "c">
 <!ENTITY retentionKeepAll.label "Alle Nachrichten">

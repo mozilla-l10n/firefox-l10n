@@ -291,8 +291,10 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Zurück">
+<!ENTITY goBackCmd.accesskey "Z">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Vor">
+<!ENTITY goForwardCmd.accesskey "V">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Gekennzeichnete Nachricht">
 <!ENTITY prevFlaggedMsgCmd.accesskey "k">

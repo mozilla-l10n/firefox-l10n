@@ -76,7 +76,7 @@
 <!ENTITY PlainText.label                "Reiner Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Unbekannt">
-<!ENTITY ScreenName.label               "AIM-Name:">
+<!ENTITY ScreenName.label               "Anzeigename:">
 <!ENTITY ScreenName.accesskey           "I">
 
 <!ENTITY allowRemoteContent.label       "Von außen stammende Grafiken erlauben.">
