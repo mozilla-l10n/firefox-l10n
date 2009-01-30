@@ -11,7 +11,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "и">
 <!ENTITY nntpDownloadMsg.label "Загружать сообщения только за последние">
 <!ENTITY nntpDownloadMsg.accesskey "с">
-<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть удалены">
+<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены.">
+<!ENTITY retentionCleanupImap.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (как локальные копии, так и их оригиналы на сервере).">
+<!ENTITY retentionCleanupPop.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (в том числе их оригиналы на сервере).">
 <!ENTITY retentionKeepMsg.label "Удалять сообщения старше">
 <!ENTITY retentionKeepMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">

@@ -52,7 +52,9 @@
 <!ENTITY retentionUseDefault.accesskey "у">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
-<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть удалены">
+<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены.">
+<!ENTITY retentionCleanupImap.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (как локальные копии, так и оригиналы на удалённом сервере).">
+<!ENTITY retentionCleanupPop.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (в том числе оригиналы на удалённом сервере).">
 <!ENTITY retentionDeleteMsg.label "Удалять сообщения старше">
 <!ENTITY retentionDeleteMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">

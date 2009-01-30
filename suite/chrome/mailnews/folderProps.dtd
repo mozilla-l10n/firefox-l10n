@@ -52,7 +52,9 @@
 <!ENTITY retentionUseDefault.accesskey "у">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
-<!ENTITY retentionCleanup.label "Хранить:">
+<!ENTITY retentionCleanup.label "Хранить сообщения:">
+<!ENTITY retentionCleanupImap.label "Хранить сообщения (как локальные копии, так и их оригиналы на сервере):">
+<!ENTITY retentionCleanupPop.label "Хранить сообщения (в том числе их оригиналы на сервере):">
 <!ENTITY retentionDeleteMsg.label "Удалять сообщения старше">
 <!ENTITY retentionDeleteMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Все сообщения">
