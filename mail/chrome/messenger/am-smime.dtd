@@ -1,4 +1,4 @@
-<!ENTITY securityTitle.label "Захист">
+﻿<!ENTITY securityTitle.label "Захист">
 <!ENTITY securityHeading.label "Щоб отримувати і відсилати зашифровані повідомлення або повідомлення з цифровим підписом, вам потрібно вказати сертифікат ключа шифрування і сертифікат ключа підпису.">
 <!ENTITY encryptionGroupTitle.label "Шифрування">
 <!ENTITY encryptionChoiceLabel.label "Використовувати шифрування при відсиланні повідомлень:">
@@ -12,19 +12,19 @@
 <!ENTITY certificates.label     "Сертифікати">
 
 <!-- FIXME: localize -->
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY digitalSign.certificate.accesskey "S">
-<!ENTITY digitalSign.certificate.button "Select…">
-<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY alwaysEncryptMessage.accesskey "З">
+<!ENTITY digitalSign.certificate.accesskey "О">
+<!ENTITY digitalSign.certificate.button "Обрати…">
+<!ENTITY digitalSign.certificate_clear.accesskey "ч">
 <!ENTITY digitalSign.certificate_clear.button "Очистити">
-<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate.accesskey "т">
 <!ENTITY encryption.certificate.button "Вибрати…">
-<!ENTITY encryption.certificate_clear.accesskey "e">
-<!ENTITY encryption.certificate_clear.button "Clear">
-<!ENTITY manageCerts.accesskey "V">
-<!ENTITY manageCerts.label "View Certificates">
-<!ENTITY manageDevices.accesskey "y">
-<!ENTITY manageDevices.label "Security Devices">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY securityTab.label "Security">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY encryption.certificate_clear.accesskey "и">
+<!ENTITY encryption.certificate_clear.button "Очистити">
+<!ENTITY manageCerts.accesskey "П">
+<!ENTITY manageCerts.label "Перегляд сертифікатів">
+<!ENTITY manageDevices.accesskey "К">
+<!ENTITY manageDevices.label "Керувати пристроями">
+<!ENTITY neverEncrypt.accesskey "Н">
+<!ENTITY securityTab.label "Безпека">
+<!ENTITY signMessage.accesskey "і">

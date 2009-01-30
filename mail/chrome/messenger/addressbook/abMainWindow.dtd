@@ -194,24 +194,24 @@
 <!ENTITY osxAddressBook.label                           "Використовувати адресну книгу Mac OS X">
 
 <!-- FIXME: localize -->
-<!ENTITY deleteButton2.accesskey                        "D">
-<!ENTITY deleteButton2.label                            "Delete">
-<!ENTITY deleteButton2.tooltip                           "Delete selected item">
-<!ENTITY deleteContactCmd.label                         "Delete Contact">
-<!ENTITY deleteContactsCmd.label                        "Delete Contacts">
-<!ENTITY editButton2.accesskey                          "P">
-<!ENTITY editButton2.label                              "Properties">
-<!ENTITY editButton2.tooltip                            "Edit the selected item">
-<!ENTITY newContact.accesskey                           "C">
+<!ENTITY deleteButton2.accesskey                        "В">
+<!ENTITY deleteButton2.label                            "Вилучити">
+<!ENTITY deleteButton2.tooltip                          "Вилучити обраний елемент">
+<!ENTITY deleteContactCmd.label                         "Вилучити картку">
+<!ENTITY deleteContactsCmd.label                        "Вилучити кілька карток">
+<!ENTITY editButton2.accesskey                          "Р">
+<!ENTITY editButton2.label                              "Редагувати">
+<!ENTITY editButton2.tooltip                            "Змінити властивості виділеного елемента">
+<!ENTITY newContact.accesskey                           "п">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newContact.label                               "Address Book Contact…">
-<!ENTITY newContactButton.accesskey                     "C">
-<!ENTITY newContactButton.label                         "New Contact">
-<!ENTITY newContactButton.tooltip                       "Create a new address book contact">
-<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY newContact.label                               "Запис в адресній книзі…">
+<!ENTITY newContactButton.accesskey                     "С">
+<!ENTITY newContactButton.label                         "Створити картку">
+<!ENTITY newContactButton.tooltip                       "Створити нову картку в адресній книзі">
+<!ENTITY printContactCmd.accesskey                      "Д">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printContactCmd.label                          "Print Contact…">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
-<!ENTITY showContactPane.accesskey                      "C">
-<!ENTITY showContactPane.label                          "Contact Summary Pane">
+<!ENTITY printContactCmd.label                          "Роздрукувати картку…">
+<!ENTITY printPreviewContactCmd.accesskey               "П">
+<!ENTITY printPreviewContactCmd.label                   "Попередній перегляд картки">
+<!ENTITY showContactPane.accesskey                      "З">
+<!ENTITY showContactPane.label                          "Зведення за карткою">

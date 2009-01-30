@@ -1,4 +1,4 @@
-<!ENTITY itemJunk.label          "Спам">
+﻿<!ENTITY itemJunk.label          "Спам">
 <!ENTITY itemPhishing.label      "Анти-фішинг">
 <!ENTITY itemPasswords.label     "Паролі">
 <!ENTITY itemAntiVirus.label     "Робота з антивірусом">
@@ -39,9 +39,9 @@
 
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
 <!-- FIXME: localize -->
-<!ENTITY changeMasterPassword.accesskey "C">
-<!ENTITY changeMasterPassword.label     "Change Master Password…">
-<!ENTITY savedPasswords.accesskey       "S">
-<!ENTITY savedPasswords.label           "Saved Passwords…">
-<!ENTITY useMasterPassword.accesskey    "m">
-<!ENTITY useMasterPassword.label        "Use a master password">
+<!ENTITY changeMasterPassword.accesskey "З">
+<!ENTITY changeMasterPassword.label     "Зміна головного паролю…">
+<!ENTITY savedPasswords.accesskey       "б">
+<!ENTITY savedPasswords.label           "Збережені паролі…">
+<!ENTITY useMasterPassword.accesskey    "В">
+<!ENTITY useMasterPassword.label        "Встановити головний пароль">
