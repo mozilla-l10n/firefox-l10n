@@ -73,18 +73,18 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importShortDesc.label    "Імпорт листів, адресних книжок, налаштувань і фільтрів з інших програм">
 
 <!-- FIXME: localize -->
-<!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importAddressbook.label  "Address Books">
-<!ENTITY importAll.accesskey      "E">
+<!ENTITY importAddressbook.accesskey "А">
+<!ENTITY importAddressbook.label  "Адресні книжки">
+<!ENTITY importAll.accesskey      "с">
 <!ENTITY importAll.label          "Імпортувати все">
-<!ENTITY importFilters.accesskey  "F">
-<!ENTITY importFilters.label      "Filters">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importHome.label        "Home">
-<!ENTITY importMail.accesskey     "M">
-<!ENTITY importMail.label         "Mail">
-<!ENTITY importSettings.accesskey "S">
-<!ENTITY importSettings.label     "Settings">
-<!ENTITY importWork.accesskey    "W">
-<!ENTITY importWork.label        "Work">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY importFilters.accesskey  "Ф">
+<!ENTITY importFilters.label      "Фільтри">
+<!ENTITY importHome.accesskey    "Д">
+<!ENTITY importHome.label        "Домашню сторінку">
+<!ENTITY importMail.accesskey     "П">
+<!ENTITY importMail.label         "Пошту">
+<!ENTITY importSettings.accesskey "Н">
+<!ENTITY importSettings.label     "Налаштування">
+<!ENTITY importWork.accesskey    "Р">
+<!ENTITY importWork.label        "Роботу">
+<!ENTITY selectDescription.accesskey "В">

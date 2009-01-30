@@ -95,6 +95,6 @@
 
 <!-- FIXME: localize -->
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
-<!ENTITY checkNow.accesskey            "N">
-<!ENTITY systemDefaults.label          "System Defaults">
+<!ENTITY alwaysCheckDefault.label      "Перевіряти на старті чи &brandShortName; є типовою поштовою програмою">
+<!ENTITY checkNow.accesskey            "т">
+<!ENTITY systemDefaults.label          "Системні параметри">

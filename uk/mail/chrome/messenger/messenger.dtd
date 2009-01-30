@@ -694,8 +694,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY more.label "більше">
 
 <!-- FIXME: localize -->
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key  "a">
-<!ENTITY archiveMsgCmd.label "Archive">
-<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
-<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
+<!ENTITY archiveMsgCmd.accesskey "А">
+<!ENTITY archiveMsgCmd.key  "а">
+<!ENTITY archiveMsgCmd.label "Архів">
+<!ENTITY redoMarkAllCmd.label "Повторити помітку всіх як прочитаних">
+<!ENTITY undoMarkAllCmd.label "Скасувати помітку всіх як прочитаних">
