@@ -5,3 +5,6 @@
  
 <!ENTITY  newContactCmd.accesskey         "К">
 <!ENTITY  newContactCmd.label             "Картку адресної книги…>
+
+<!-- FIXME: localize -->
+<!ENTITY  newContactCmd.label             "Address Book Contact…">
