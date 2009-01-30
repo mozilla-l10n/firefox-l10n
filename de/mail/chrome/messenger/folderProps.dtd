@@ -55,6 +55,8 @@
 <!ENTITY daysOld.label "Tage">
 <!ENTITY message.label "Nachrichten">
 <!ENTITY retentionCleanup.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben:">
+<!ENTITY retentionCleanupImap.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben - sowohl lokale Kopien als auch auf dem IMAP-Server:">
+<!ENTITY retentionCleanupPop.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben - einschließlich der Originale auf dem POP-Server:">
 <!ENTITY retentionDeleteMsg.label "Nachrichten, die älter sind als">
 <!ENTITY retentionDeleteMsg.accesskey "N">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten">
