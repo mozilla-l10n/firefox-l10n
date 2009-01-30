@@ -61,7 +61,9 @@
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY daysOld.label "dies d'antiguitat">
 <!ENTITY message.label "missatges">
-<!ENTITY retentionCleanup.label "Per a recuperar espai de disc, els missatges antics poden suprimir-se permanentment">
+<!ENTITY retentionCleanup.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics">
+<!ENTITY retentionCleanupImap.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics, tant les còpies locals com els originals del servidor remot.">
+<!ENTITY retentionCleanupPop.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics, inclosos els originals del servidor remot.">
 <!ENTITY retentionDeleteMsg.label "Suprimeix els missatges de més de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No suprimeixis cap missatge">

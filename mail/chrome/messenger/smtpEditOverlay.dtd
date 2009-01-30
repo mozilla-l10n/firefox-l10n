@@ -21,5 +21,11 @@
 <!ENTITY alwaysSTARTTLS.accesskey "T">
 <!ENTITY alwaysSMTPOverSSL.label "SSL sobre SMTP">
 <!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Connexió segura:">
+<!ENTITY connectionSecurity.accesskey "C">
+<!ENTITY connectionSecurityType-0.label "Cap">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, si està disponible">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "TLS sobre SSL">
 <!ENTITY smtpEditTitle.label "Servidor SMTP">
 <!ENTITY serverPortDefault.label "Per defecte:">

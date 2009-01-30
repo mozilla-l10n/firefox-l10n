@@ -87,6 +87,9 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY customizeToolbarContext.label            "Personalitza…">
+<!ENTITY customizeToolbarContext.accesskey        "P">
+
 <!ENTITY customizeToolbar.toolbarmode.label       "Paràmetres d'aquesta barra d'eines">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
 <!ENTITY customizeToolbar.iconsAndText.label      "Icones i text">
