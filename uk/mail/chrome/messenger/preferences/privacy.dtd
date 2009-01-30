@@ -30,15 +30,7 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro         "&brandShortName; може запам’ятовувати реєстраційну інформацію для всіх ваших облікових записів так, що вам не доведеться вводити її знову. ">
-<!ENTITY  encryptEnabled.label        "Використовувати головний пароль для шифрування збережених паролів">
-<!ENTITY  encryptEnabled.accesskey    "В">
 <!ENTITY  masterPassword.intro        "Будучи встановленим, головний пароль буде використаний для захисту всіх ваших паролів. Вам потрібно буде вводити його один раз в сесію.">
-<!ENTITY  setMasterPassword.label     "Головний пароль">
-<!ENTITY  setMasterPassword.accesskey "Г">
-<!ENTITY  removeMasterPassword.label  "Прибрати головний пароль…">
-<!ENTITY  removeMasterPassword.accesskey "и">
-<!ENTITY  editPasswords.label         "Змінити збережені паролі">
-<!ENTITY  editPasswords.accesskey     "і">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; може полегшити роботу антивіруса при перевірці вхідних повідомлень на наявність вірусів перед тим, як зберегти їх в поштові теки.">
@@ -46,3 +38,10 @@
 <!ENTITY antiVirus.accesskey  "Д">
 
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!-- FIXME: localize -->
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY changeMasterPassword.label     "Change Master Password…">
+<!ENTITY savedPasswords.accesskey       "S">
+<!ENTITY savedPasswords.label           "Saved Passwords…">
+<!ENTITY useMasterPassword.accesskey    "m">
+<!ENTITY useMasterPassword.label        "Use a master password">

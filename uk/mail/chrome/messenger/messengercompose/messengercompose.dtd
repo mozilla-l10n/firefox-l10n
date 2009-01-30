@@ -10,8 +10,6 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "П">
-<!ENTITY newCard.label "Картку адресної книги…">
-<!ENTITY newCard.accesskey "к">
 <!ENTITY attachMenu.label "Вкласти">
 <!ENTITY attachMenu.accesskey "к">
 <!ENTITY attachFileCmd.label "Файл(и)…">
@@ -105,10 +103,6 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Налаштування">
 <!ENTITY optionsMenu.accesskey "Н">
-<!ENTITY checkSpellingCmd.label "Перевірка орфографії…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "р">
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії при наборі тексту">
 <!ENTITY enableInlineSpellChecker.accesskey "б">
 <!ENTITY quoteCmd.label "Цитувати повідомлення">
@@ -180,7 +174,6 @@
 <!ENTITY attachButton.label "Вкладення">
 <!ENTITY spellingButton.label "Орфографія">
 <!ENTITY saveButton.label "Зберегти">
-<!ENTITY throbberItem.title "Індикатор активності">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Відіслати це повідомлення зараз"> 
@@ -269,3 +262,13 @@
 <!ENTITY showCompositionToolbarCmd.label "Панель інструментів складання листа">
 <!ENTITY showFormattingBarCmd.accesskey "ф">
 <!ENTITY showFormattingBarCmd.label "Панель форматування">
+
+<!-- FIXME: localize -->
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.label "Check Spelling…">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.label "Address Book Contact…">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">

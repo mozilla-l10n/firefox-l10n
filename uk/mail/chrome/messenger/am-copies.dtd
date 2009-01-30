@@ -29,3 +29,11 @@
 <!ENTITY specialFoldersTitle.label "Чернетки та шаблони">
 <!ENTITY keepDrafts.label "Зберігати чернетки листів у:">
 <!ENTITY keepTempltes.label "Зберігати шаблони листів у:">
+
+<!-- FIXME: localize -->
+<!ENTITY archiveInOtherFolder.accesskey "t">
+<!ENTITY archiveInOtherFolder.label "Other:">
+<!ENTITY archivesFolderOn.accesskey "D">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
+<!ENTITY keepArchives.label "Keep message archives in:">

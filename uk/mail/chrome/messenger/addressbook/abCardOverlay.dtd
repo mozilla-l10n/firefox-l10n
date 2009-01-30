@@ -68,7 +68,6 @@
 <!ENTITY NickName.label                 "Псевдонім:">
 <!ENTITY NickName.accesskey             "д">
 
-<!ENTITY Internet.box                   "Інтернет">
 <!ENTITY PrimaryEmail.label             "Електронна пошта:">
 <!ENTITY PrimaryEmail.accesskey         "Е">
 <!ENTITY SecondEmail.label              "Дод. адреса електронної пошти:">
@@ -168,3 +167,7 @@
 листа. Відмітивши цей флажок, ви дозволите відкривати зовнішні зображення
 в HTML-листах від цього контакту.">
 
+
+<!-- FIXME: localize -->
+<!ENTITY In.label                       "">
+<!ENTITY YearsOld.label                 "">

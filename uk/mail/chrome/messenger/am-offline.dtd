@@ -31,3 +31,7 @@
 <!ENTITY offlineImapAdvancedOffline.label "Додатково…">
 
 <!ENTITY syncGroupTitle.label "Синхронізація листів">
+
+<!-- FIXME: localize -->
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">

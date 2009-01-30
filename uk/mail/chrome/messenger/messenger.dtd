@@ -692,3 +692,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY undeleteButton.label "Відновити">
 <!ENTITY undeleteButton.tooltip "Відновити виділене повідомлення">
 <!ENTITY more.label "більше">
+
+<!-- FIXME: localize -->
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
+<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">

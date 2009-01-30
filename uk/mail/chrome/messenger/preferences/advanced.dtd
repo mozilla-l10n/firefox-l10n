@@ -8,8 +8,6 @@
 <!ENTITY showCondensedAddresses.label  "Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі">
 <!ENTITY showCondensedAddresses.accesskey "м">
 
-<!ENTITY showFolderColumns.label       "Показувати додаткові колонки у вікні дерева тек">
-<!ENTITY showFolderColumns.accesskey   "к">
 <!ENTITY reuseExpRadio0.label          "новому вікні">
 <!ENTITY reuseExpRadio0.accesskey      "н">
 <!ENTITY reuseExpRadio1.label          "вже існуючому вікні">
@@ -94,3 +92,9 @@
 <!-- FIXME: localize -->
 <!ENTITY enableGloda.accesskey         "i">
 <!ENTITY enableGloda.label             "Ввімкнути індексування листів">
+
+<!-- FIXME: localize -->
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY checkNow.accesskey            "N">
+<!ENTITY systemDefaults.label          "System Defaults">

@@ -96,3 +96,7 @@
 <!ENTITY folderProps.location.label              "Розташування:">
 <!ENTITY retentionDeleteMsg.accesskey "л">
 <!ENTITY retentionDeleteMsg.label "Видаляти листи більші ніж">
+
+<!-- FIXME: localize -->
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
