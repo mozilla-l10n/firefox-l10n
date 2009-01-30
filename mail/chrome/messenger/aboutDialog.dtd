@@ -8,3 +8,6 @@
 <!ENTITY aboutLink.label        "&lt; Про &brandFullName;">
 <!ENTITY credits.accesskey      "д">
 <!ENTITY credits.label          "Подяки">
+
+<!-- FIXME: localize -->
+<!ENTITY cmdCloseMac.commandKey "w">

@@ -107,7 +107,9 @@
 <!ENTITY smtpServerNamePrefix.label "Ім’я сервера вихідних повідомлень (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Ім’я сервера новин (NNTP):">
 <!ENTITY downloadOnLogin.label "Тепер завантажте повідомлення">
+<!ENTITY downloadOnLogin.accesskey "Т">
 <!ENTITY deferStorageDesc.label "Зніміть цей флажок, щоб зберігати пошту для цього облікового запису в окремому поштовому ящику. В іншому випадку, пошта зберігатиметься в Загальному поштовому ящику.">
+<!ENTITY deferStorage.accesskey "З">
 <!ENTITY deferStorage.label "Використовувати Загальний поштовий ящик (зберігати пошту в локальних теках)">
 <!ENTITY clickFinish.label "Натисніть «Гаразд», щоб зберегти новий обліковий запис та вийти з майстра.">
 

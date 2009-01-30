@@ -5,14 +5,26 @@
 <!ENTITY neverEncrypt.label "Ніколи (не використовувати шифрування)">
 <!ENTITY alwaysEncryptMessage.label "Завжди (повідомлення не буде відіслано, якщо не у всіх адресатів є сертифікати)">
 <!ENTITY encryptionCert.message "Особистий сертифікат для шифрування: ">
-<!ENTITY certificate.button "Вибрати…">
-<!ENTITY certificate_clear.button "Очистити">
 <!ENTITY signingGroupTitle.label "Цифровий підпис">
 <!ENTITY signMessage.label "Підписувати повідомлення цифровим підписом (за умовчанням)">
 <!ENTITY signingCert.message "Особистий сертифікат для підпису:">
 
 <!ENTITY certificates.label     "Сертифікати">
-<!ENTITY managecerts.label      "Перегляд сертифікатів">
-<!ENTITY managecerts.accesskey  "е">
-<!ENTITY managedevices.label    "Пристрої захисту">
-<!ENTITY managedevices.accesskey "и">
+
+<!-- FIXME: localize -->
+<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate.button "Select…">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY digitalSign.certificate_clear.button "Очистити">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate.button "Вибрати…">
+<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY encryption.certificate_clear.button "Clear">
+<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageCerts.label "View Certificates">
+<!ENTITY manageDevices.accesskey "y">
+<!ENTITY manageDevices.label "Security Devices">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY securityTab.label "Security">
+<!ENTITY signMessage.accesskey "D">

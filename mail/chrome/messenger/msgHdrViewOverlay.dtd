@@ -90,3 +90,6 @@
 <!ENTITY userAgentField2.label "user-agent ">
 <!ENTITY viewSourceMenuItem.accesskey "д">
 <!ENTITY viewSourceMenuItem.label "глянути джерело…">
+
+<!-- FIXME: localize -->
+<!ENTITY archiveButton.label "archive">

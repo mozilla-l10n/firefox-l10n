@@ -4,8 +4,6 @@
 
 <!ENTITY importFromNothing.label        "Не імпортувати нічого">
 <!ENTITY importFromNothing.accesskey    "н">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 или Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
 <!ENTITY importFromNetscape4.label      "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey  "4">
 <!ENTITY importFromOExpress.label       "Outlook Express">
@@ -31,3 +29,7 @@
 <!-- FIXME: localize -->
 <!ENTITY importFromNonWin.label         "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
 <!ENTITY importFromWin.label            "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
+
+<!-- FIXME: localize -->
+<!ENTITY importFromSeamonkey2.accesskey "s">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x or SeaMonkey">

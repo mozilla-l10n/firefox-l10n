@@ -5,10 +5,6 @@
 <!ENTITY fileMenu.accesskey                             "Ф">
 <!ENTITY newMenu.label                                  "Створити">
 <!ENTITY newMenu.accesskey                              "С">
-<!ENTITY newCard.label                                  "Картку адресної книги…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey                              "К">
-<!ENTITY newCard.key                                    "N">
 <!ENTITY newListCmd.label                               "Список розсилки…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "С">
@@ -25,14 +21,8 @@
 <!ENTITY closeCmd.accesskey                             "З">
 <!ENTITY printSetupCmd.label                            "Параметри сторінки…">
 <!ENTITY printSetupCmd.accesskey                        "м">
-<!ENTITY printPreviewCardViewCmd.label                  "Попередній перегляд картки">
-<!ENTITY printPreviewCardViewCmd.accesskey              "к">
 <!ENTITY printPreviewAddressBook.label                  "Попередній перегляд адресної книги">
 <!ENTITY printPreviewAddressBook.accesskey              "а">
-<!ENTITY printCardViewCmd.label                         "Друк картки…">
-<!ENTITY printCardViewCmd.accesskey                     "т">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key                           "P">
 <!ENTITY printAddressBook.label                         "Друк адресної книги…">
 <!ENTITY printAddressBook.accesskey                     "е">
 
@@ -58,7 +48,6 @@
 <!ENTITY deleteCmd.label                                "Вилучити">
 <!ENTITY deleteCmd.accesskey                            "В">
 <!ENTITY deleteAbCmd.label                              "Вилучити адресну книгу">
-<!ENTITY deleteCardCmd.label                            "Вилучити картку">
 <!ENTITY selectAllCmd.label                             "Виділити все">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -84,8 +73,6 @@
 <!ENTITY showTaskbarCmd.accesskey                       "я">
 <!ENTITY customizeToolbar.label                         "Налаштувати…">
 <!ENTITY customizeToolbar.accesskey                     "Н">
-<!ENTITY showCardPane.label                             "Область вікна картки">
-<!ENTITY showCardPane.accesskey                         "О">
 <!ENTITY menu_ShowNameAs.label                          "Показувати ім’я як">
 <!ENTITY menu_ShowNameAs.accesskey                      "П"> 
 <!ENTITY firstLastCmd.label                             "Ім’я, Прізвище">
@@ -117,27 +104,17 @@
 <!-- Help Menu -->
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "Створити картку">
-<!ENTITY newcardButton.accesskey                        "к">
 <!ENTITY newlistButton.label                            "Створити список">
 <!ENTITY newlistButton.accesskey                        "С">
-<!ENTITY editButton.label                               "Властивості">
-<!ENTITY editButton.accesskey                           "В">
 <!ENTITY newmsgButton.label                             "Повідомлення">
 <!ENTITY newmsgButton.accesskey                         "П">
 <!ENTITY newIM.label                                    "Миттєве повідомлення">
 <!ENTITY newIM.accesskey                                "М">
-<!ENTITY deleteButton.label                             "Вилучити">
-<!ENTITY deleteButton.accesskey                         "ч">
-<!ENTITY throbberItem.title                             "Індикатор активності">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Створення нової картки адресної книги">
 <!ENTITY newlistButton.tooltip                          "Створення нового списку розсилки">
-<!ENTITY editButton.tooltip                             "Зміна вибраної картки">
 <!ENTITY newmsgButton.tooltip                           "Створення повідомлення">
 <!ENTITY newIM.tooltip                                  "Відіслати миттєве повідомлення або почати бесіду">
-<!ENTITY deleteButton.tooltip                           "Вилучення вибраної картки або адресної книги">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Адресні книги">
@@ -210,9 +187,31 @@
 <!ENTITY zoomWindow.label "Розвернути вікно">
 
 <!-- FIXME: localize -->
-<!ENTITY deleteCardsCmd2.label                          "Знищити картки">
 <!ENTITY deleteItemsCmd.label                           "Знищити елементи">
 <!ENTITY deleteListCmd.label                            "Знищити список">
 <!ENTITY deleteListsCmd.label                           "Знищити списки">
 <!ENTITY osxAddressBook.accesskey                       "О">
 <!ENTITY osxAddressBook.label                           "Використовувати адресну книгу Mac OS X">
+
+<!-- FIXME: localize -->
+<!ENTITY deleteButton2.accesskey                        "D">
+<!ENTITY deleteButton2.label                            "Delete">
+<!ENTITY deleteButton2.tooltip                           "Delete selected item">
+<!ENTITY deleteContactCmd.label                         "Delete Contact">
+<!ENTITY deleteContactsCmd.label                        "Delete Contacts">
+<!ENTITY editButton2.accesskey                          "P">
+<!ENTITY editButton2.label                              "Properties">
+<!ENTITY editButton2.tooltip                            "Edit the selected item">
+<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
+<!ENTITY newContact.label                               "Address Book Contact…">
+<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newContactButton.label                         "New Contact">
+<!ENTITY newContactButton.tooltip                       "Create a new address book contact">
+<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.key                            "P">
+<!ENTITY printContactCmd.label                          "Print Contact…">
+<!ENTITY printPreviewContactCmd.accesskey               "v">
+<!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
+<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY showContactPane.label                          "Contact Summary Pane">
