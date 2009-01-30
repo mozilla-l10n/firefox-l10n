@@ -60,7 +60,7 @@
 <!ENTITY HomePhone.accesskey                   "T">
 <!ENTITY WorkPhone.label                       "Tel. dienstlich">
 <!ENTITY WorkPhone.accesskey                   "T">
-<!ENTITY ScreenName.label                      "AIM-Name">
+<!ENTITY ScreenName.label                      "Anzeigename">
 <!ENTITY ScreenName.accesskey                  "A">
 <!ENTITY sortAscending.label                   "Aufsteigend">
 <!ENTITY sortAscending.accesskey               "A">

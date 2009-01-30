@@ -56,9 +56,11 @@
 <!ENTITY inReplyToField.label "Als-Antwort-auf: ">
 <!ENTITY originalWebsite.label "Website:">
 
-<!ENTITY editMessage.label "Entwurf bearbeiten…">
+<!ENTITY editMessage.label                 "Entwurf bearbeiten…">
+<!ENTITY editMessage.accesskey             "E">
 
 <!ENTITY attachmentsTree.label             "Attachments:">
+<!ENTITY attachmentsTree.accesskey         "A">
 <!ENTITY openAttachmentCmd.label           "Öffnen">
 <!ENTITY openAttachmentCmd.accesskey       "Ö">
 <!ENTITY viewAttachmentCmd.label           "Quelltext ansehen">
@@ -66,12 +68,12 @@
 <!ENTITY saveAsAttachmentCmd.label         "Speichern unter…">
 <!ENTITY saveAsAttachmentCmd.accesskey     "S">
 <!ENTITY detachAttachmentCmd.label         "Abtrennen…">
-<!ENTITY detachAttachmentCmd.accesskey     "A">
+<!ENTITY detachAttachmentCmd.accesskey     "n">
 <!ENTITY deleteAttachmentCmd.label         "Löschen">
 <!ENTITY deleteAttachmentCmd.accesskey     "L">
 <!ENTITY saveAllAttachmentsCmd.label       "Alle speichern…">
-<!ENTITY saveAllAttachmentsCmd.accesskey   "A">
+<!ENTITY saveAllAttachmentsCmd.accesskey   "p">
 <!ENTITY detachAllAttachmentsCmd.label     "Alle abtrennen…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "A">
+<!ENTITY detachAllAttachmentsCmd.accesskey "b">
 <!ENTITY deleteAllAttachmentsCmd.label     "Alle löschen…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "A">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "c">

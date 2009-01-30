@@ -29,5 +29,5 @@
 <!ENTITY displayNotification.label      "Eine Benachrichtigungsleiste am oberen Rand des Inhaltsbereichs anzeigen">
 <!ENTITY displayNotification.accesskey  "n">
 
-<!ENTITY popupNote.description          "Anmerkung: Das Blockieren aller Pop-ups kann wichtige Funktionen mancher Websites unterbinden, wie Anmeldefenster bei Bank- und Einkauf-Websites. Weitere Hinweise, wie Sie trotz einer allgemeinen Blockade  bei speziellen Websites Pop-ups erlauben können, erhalten Sie per Klick auf 'Hilfe'. Selbst wenn Websites blockiert werden, können sie noch andere Methoden verwenden, um Pop-ups anzuzeigen.">
+<!ENTITY popupNote.description          "Anmerkung: Das Blockieren aller Pop-ups kann wichtige Funktionen mancher Websites unterbinden, wie Anmeldefenster bei Bank- und Einkauf-Websites. Weitere Hinweise, wie Sie trotz einer allgemeinen Blockade bei speziellen Websites Pop-ups erlauben können, erhalten Sie per Klick auf 'Hilfe'. Selbst wenn Websites blockiert werden, können sie noch andere Methoden verwenden, um Pop-ups anzuzeigen.">
 

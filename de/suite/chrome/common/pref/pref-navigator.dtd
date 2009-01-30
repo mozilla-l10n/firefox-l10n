@@ -31,14 +31,6 @@
 <!ENTITY goButton.accesskey             "z">
 <!ENTITY searchButton.label             "Suchen">
 <!ENTITY searchButton.accesskey         "u">
-<!ENTITY printButton.label              "Drucken">
-<!ENTITY printButton.accesskey          "r">
-
-<!ENTITY persToolbarIntro.label         "Persönliche Symbolleiste">
-<!ENTITY homeButton.label               "Startseite">
-<!ENTITY homeButton.accesskey           "t">
-<!ENTITY bookmarksButton.label          "Lesezeichen">
-<!ENTITY bookmarksButton.accesskey      "c">
 
 <!ENTITY defaultBrowserGroup.label      "Standard-Browser">
 <!ENTITY defaultBrowserButton.label     "Standard-Browser setzen">

@@ -86,6 +86,9 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY customizeToolbarContext.label            "Anpassen…">
+<!ENTITY customizeToolbarContext.accesskey        "A">
+
 <!ENTITY customizeToolbar.toolbarmode.label       "Einstellungen für diese Symbolleiste">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "E">
 <!ENTITY customizeToolbar.iconsAndText.label      "Symbole und Text">
