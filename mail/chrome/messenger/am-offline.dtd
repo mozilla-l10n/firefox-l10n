@@ -12,6 +12,8 @@
 <!ENTITY nntpDownloadMsg.label "Nachrichten, die älter sind als">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben:">
+<!ENTITY retentionCleanupImap.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben - sowohl lokale Kopien als auch auf dem IMAP-Server:">
+<!ENTITY retentionCleanupPop.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben - einschließlich der Originale auf dem POP-Server:">
 <!ENTITY retentionKeepMsg.label "Nachrichten, die älter sind als">
 <!ENTITY retentionKeepMsg.accesskey "N">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten">
