@@ -58,7 +58,9 @@
 <!ENTITY retentionUseDefault.accesskey           "v">
 <!ENTITY daysOld.label                           "dagar">
 <!ENTITY message.label                           "meddelandena">
-<!ENTITY retentionCleanup.label                  "För att spara diskutrymme kan gamla meddelanden tas bort">
+<!ENTITY retentionCleanup.label                  "För att spara diskutrymme kan gamla meddelanden tas bort.">
+<!ENTITY retentionCleanupImap.label              "För att återvinna diskutrymme kan gamla meddelanden tas bort permanent, både lokala kopior och originalen på fjärrservern.">
+<!ENTITY retentionCleanupPop.label               "För att återvinna diskutrymme kan gamla meddelanden tas bort permanent, inklusive originalen på fjärrservern.">
 <!ENTITY retentionDeleteMsg.label                "Ta bort meddelanden äldre än">
 <!ENTITY retentionDeleteMsg.accesskey            "e">
 <!ENTITY retentionKeepAll.label                  "Ta inte bort några meddelanden">
