@@ -259,13 +259,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label "Chaque" >
 <!ENTITY repeat.units.months.both "Mois" >
-<!ENTITY event.recurrence.the.label "Le" >
-<!ENTITY event.recurrence.repeat.first.label "premier">
-<!ENTITY event.recurrence.repeat.second.label "deuxième">
-<!ENTITY event.recurrence.repeat.third.label "troisième">
-<!ENTITY event.recurrence.repeat.fourth.label "quatrième">
-<!ENTITY event.recurrence.repeat.fifth.label "cinquième">
-<!ENTITY event.recurrence.repeat.last.label "dernier">
+<!ENTITY event.recurrence.monthly.every.label           "Chaque" >
+<!ENTITY event.recurrence.monthly.first.label           "Le premier">
+<!ENTITY event.recurrence.monthly.second.label          "Le deuxième">
+<!ENTITY event.recurrence.monthly.third.label           "Le troisième">
+<!ENTITY event.recurrence.monthly.fourth.label          "Le quatrième">
+<!ENTITY event.recurrence.monthly.fifth.label           "Le cinquième">
+<!ENTITY event.recurrence.monthly.last.label            "Le dernier">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label "Dimanche">
 <!ENTITY event.recurrence.pattern.monthly.week.2.label "Lundi">
 <!ENTITY event.recurrence.pattern.monthly.week.3.label "Mardi">
@@ -279,7 +279,6 @@
 
 <!ENTITY repeat.units.years.both "Année(s)">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Chaque">
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Chaque">
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -302,12 +301,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label "Octobre">
 <!ENTITY event.recurrence.pattern.yearly.month.11.label "Novembre">
 <!ENTITY event.recurrence.pattern.yearly.month.12.label "Décembre">
-<!ENTITY event.recurrence.pattern.yearly.first.label "Premier">
-<!ENTITY event.recurrence.pattern.yearly.second.label "Deuxième">
-<!ENTITY event.recurrence.pattern.yearly.third.label "Troisième">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label "Quatrième">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label "Cinquième">
-<!ENTITY event.recurrence.pattern.yearly.last.label "Dernier">
+<!ENTITY event.recurrence.yearly.every.label                 "Chaque">
+<!ENTITY event.recurrence.yearly.first.label                 "Le premier">
+<!ENTITY event.recurrence.yearly.second.label                "Le deuxième">
+<!ENTITY event.recurrence.yearly.third.label                 "Le troisième">
+<!ENTITY event.recurrence.yearly.fourth.label                "Le quatrième">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Le cinquième">
+<!ENTITY event.recurrence.yearly.last.label                  "Le dernier">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label "Dimanche">
 <!ENTITY event.recurrence.pattern.yearly.week.2.label "Lundi">
 <!ENTITY event.recurrence.pattern.yearly.week.3.label "Mardi">
