@@ -1,0 +1,15 @@
+<!ENTITY content.title                             "المحتوى">
+<!ENTITY permissions.default.image.title           "تحميل الصور">
+<!ENTITY permissions.default.image.description     "يجعل مواقع الوب جميلة">
+<!ENTITY javascript.enabled.title                  "تفعيل جافاسكربت">
+<!ENTITY javascript.enabled.description            "يجعل مواقع الوب مبهرجة">
+<!ENTITY plugins.enabled.title                     "تفعيل الملحقات">
+<!ENTITY plugins.enabled.description               "يجعل مواقع الوب مزعجة">
+<!ENTITY privacy.title                             "الخصوصية والسرية">
+<!ENTITY network.cookie.cookieBehavior.title       "حفظ الكعكات">
+<!ENTITY network.cookie.cookieBehavior.description "كعكات لذيذة">
+<!ENTITY clear.private.data.title                  "مسح البيانات الخاصة">
+<!ENTITY clear.private.data.button                 "امسح…">
+<!ENTITY clear.private.data.description            "يبقي لك خصوصيتك">
+<!ENTITY signon.rememberSignons.title              "حفظ كلمات السر">
+<!ENTITY signon.rememberSignons.description        "يوفر عليك الكتابة">

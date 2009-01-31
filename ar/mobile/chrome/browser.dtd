@@ -1,0 +1,62 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "عودة">
+<!ENTITY back.tooltip          "عودة">
+<!ENTITY forward.label         "إلى الأمام">
+<!ENTITY forward.tooltip       "إلى الأمام">
+<!ENTITY reload.label          "أعِد التحميل">
+<!ENTITY reload.tooltip        "أعِد التحميل">
+<!ENTITY stop.label            "أوقِف">
+<!ENTITY stop.tooltip          "أوقِف">
+<!ENTITY search.label          "ابحث">
+<!ENTITY search.tooltip        "ابحث">
+<!ENTITY go.label              "اذهب">
+<!ENTITY go.tooltip            "اذهب">
+<!ENTITY openLocation.label    "افتح موقعًا">
+<!ENTITY openLocation.tooltip  "افتح موقعًا">
+<!ENTITY star.label            "ضع نجمة">
+<!ENTITY star.tooltip          "علّم هذه الصفحة بنجمة">
+<!ENTITY bookmarks.label       "العلامات">
+<!ENTITY bookmarks.tooltip     "شاهد العلامات">
+
+<!ENTITY newtab.label          "لسان جديد">
+<!ENTITY closetab.label        "أغلِق اللسان">
+
+<!ENTITY cut.label             "قص">
+<!ENTITY copy.label            "انسخ">
+<!ENTITY copylink.label        "انسخ وصلة الموقع">
+<!ENTITY paste.label           "الصق">
+<!ENTITY delete.label          "احذف">
+<!ENTITY selectAll.label       "اختر الكل">
+<!ENTITY noSuggestions.label   "(لا اقتراحات)">
+<!ENTITY addToDictionary.label "أضِف إلى القاموس">
+
+<!ENTITY editBookmarkName.label    "الاسم:">
+<!ENTITY editBookmarkURI.label     "العنوان:">
+<!ENTITY editBookmarkTags.label    "الوسوم:">
+<!ENTITY bookmarkRemove.label      "أزِل العلامة">
+<!ENTITY editBookmarkDone.label    "تمّ">
+
+<!ENTITY findOnCmd.label     "ابحث في هذه الصفحة…">
+<!ENTITY findOnCmd.accesskey "ث">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "ابحث مجددًا">
+<!ENTITY findAgainCmd.accesskey "ح">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "لا يزوّد موقع الوب هذا معلومات تعريفية.">
+<!ENTITY identity.connectedTo "أنت متصل بـ">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "يديره">
