@@ -44,9 +44,6 @@
 
 <!ENTITY event.title.label "Modifier l'élément" >
 
-<!ENTITY newevent.before.label "avant" >
-<!ENTITY newevent.after.label "après" >
-
 <!ENTITY newevent.from.label "Du" >
 <!ENTITY newevent.to.label "Au" >
 <!ENTITY newevent.attendees.notify.label "Notifier les participants">
@@ -338,26 +335,6 @@
 <!ENTITY event.recurrence.appointments.label "Rendez-vous" >
 <!ENTITY event.repeat.until.label "Répéter jusqu'à" >
 <!ENTITY event.recurrence.preview.label "Aperçu">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes "minutes" >
-<!ENTITY alarm.units.hours "heures" >
-<!ENTITY alarm.units.days "jours" >
-
-<!ENTITY reminder.title.label "Personnaliser le rappel">
-<!ENTITY reminder.dialogtitle.label "Définir les rappels">
-<!ENTITY reminder.reminderDetails.label "Détails du rappel">
-<!ENTITY reminder.action.label "Choisir une action pour le rappel">
-<!ENTITY reminder.action.alert.label "Afficher une alerte">
-<!ENTITY reminder.action.email.label "Envoyer un courriel">
-<!ENTITY reminder.new.label "Nouveau">
-<!ENTITY reminder.delete.label "Supprimer">
-<!ENTITY reminder.relation.start.label "l'événement débute">
-<!ENTITY reminder.relation.end.label "l'événement se termine">
-<!ENTITY reminder.add.label "Ajouter">
-<!ENTITY reminder.add.accesskey "A">
-<!ENTITY reminder.remove.label "Supprimer">
-<!ENTITY reminder.remove.accesskey "R">
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label "Inviter des participants">
