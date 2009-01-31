@@ -44,8 +44,6 @@
 
 <!ENTITY event.title.label                  "Eintrag bearbeiten">
 
-<!ENTITY newevent.before.label              "vor">
-<!ENTITY newevent.after.label               "nach">
 <!ENTITY newevent.from.label                "Von">
 <!ENTITY newevent.to.label                  "Bis">
 <!ENTITY newevent.attendees.notify.label    "Teilnehmer benachrichtigen">
@@ -258,14 +256,14 @@
 <!ENTITY event.recurrence.on.label                      "Am:">
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Jeden">
-<!ENTITY repeat.units.months.both                       "Monat">
-<!ENTITY event.recurrence.the.label                     "Am">
-<!ENTITY event.recurrence.repeat.first.label            "ersten">
-<!ENTITY event.recurrence.repeat.second.label           "zweiten">
-<!ENTITY event.recurrence.repeat.third.label            "dritten">
-<!ENTITY event.recurrence.repeat.fourth.label           "vierten">
-<!ENTITY event.recurrence.repeat.fifth.label            "fünften">
-<!ENTITY event.recurrence.repeat.last.label             "letzten">
+<!ENTITY repeat.units.months.both                       "Monat(e)">
+<!ENTITY event.recurrence.monthly.every.label           "Jeden">
+<!ENTITY event.recurrence.monthly.first.label           "Am ersten">
+<!ENTITY event.recurrence.monthly.second.label          "Am zweiten">
+<!ENTITY event.recurrence.monthly.third.label           "Am dritten">
+<!ENTITY event.recurrence.monthly.fourth.label          "Am vierten">
+<!ENTITY event.recurrence.monthly.fifth.label           "Am fünften">
+<!ENTITY event.recurrence.monthly.last.label            "Am letzten">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Sonntag">
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Montag">
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Dienstag">
@@ -279,7 +277,6 @@
 <!ENTITY event.recurrence.every.label                        "Jedes">
 <!ENTITY repeat.units.years.both                             "Jahr">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Jeden">
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Jeden">
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -302,12 +299,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Oktober">
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "November">
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "Dezember">
-<!ENTITY event.recurrence.pattern.yearly.first.label         "ersten">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "zweiten">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "dritten">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "vierten">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "fünften">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "letzten">
+<!ENTITY event.recurrence.yearly.every.label                 "Jeden">
+<!ENTITY event.recurrence.yearly.first.label                 "Am ersten">
+<!ENTITY event.recurrence.yearly.second.label                "Am zweiten">
+<!ENTITY event.recurrence.yearly.third.label                 "Am dritten">
+<!ENTITY event.recurrence.yearly.fourth.label                "Am vierten">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Am fünften">
+<!ENTITY event.recurrence.yearly.last.label                  "Am letzten">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Sonntag">
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Montag">
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Dienstag">
@@ -335,27 +333,6 @@
 <!ENTITY event.recurrence.appointments.label            "Termin(e)">
 <!ENTITY event.repeat.until.label                       "Wiederhole bis">
 <!ENTITY event.recurrence.preview.label                 "Vorschau">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes              "Minuten">
-<!ENTITY alarm.units.hours                "Stunden">
-<!ENTITY alarm.units.days                 "Tage">
-
-<!ENTITY reminder.title.label                           "Benutzerdefinierte Erinnerung">
-<!ENTITY reminder.dialogtitle.label                     "Erinnerungen einrichten">
-<!ENTITY reminder.reminderDetails.label                 "Erinnerungsdetails">
-<!ENTITY reminder.action.label                          "Erinnerungsaktion auswählen">
-<!ENTITY reminder.action.alert.label                    "Alarm anzeigen">
-<!ENTITY reminder.action.email.label                    "E-Mail senden">
-<!ENTITY reminder.new.label                             "Neu">
-<!ENTITY reminder.delete.label                          "Löschen">
-<!ENTITY reminder.relation.start.label                  "der Termin startet">
-<!ENTITY reminder.relation.end.label                    "der Termin endet">
-<!ENTITY reminder.add.label                             "Hinzufügen">
-<!ENTITY reminder.add.accesskey                         "H">
-<!ENTITY reminder.remove.label                          "Entfernen">
-<!ENTITY reminder.remove.accesskey                      "E">
-
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Teilnehmer einladen">
