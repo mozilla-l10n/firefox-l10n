@@ -34,7 +34,7 @@
 <!ENTITY serverSettings.label "Serverinställningar">
 <!ENTITY serverType.label "Typ av teknik:">
 <!ENTITY serverName.label "Servernamn:">
-<!ENTITY serverName.accesskey "e">
+<!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Användarnamn:">
 <!ENTITY userName.accesskey "n">
 <!ENTITY port.label "Port:">
@@ -48,15 +48,12 @@
 <!ENTITY biffStart.label "Kontrollera var ">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minut om det kommit nya meddelanden">
-<!ENTITY socketType.label "Använd säker anslutning:">
-<!ENTITY neverSecure.label "Aldrig">
-<!ENTITY neverSecure.accesskey "A">
-<!ENTITY sometimesSecure.label "TLS, om tillgängligt">
-<!ENTITY sometimesSecure.accesskey "">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "S">
+<!ENTITY connectionSecurity.label "Anslutningssäkerhet:">
+<!ENTITY connectionSecurity.accesskey "A">
+<!ENTITY connectionSecurityType-0.label "Ingen">
+<!ENTITY connectionSecurityType-1.label "STARTTLS (om tillgängligt)">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Använd säker autentisering">
 <!ENTITY useSecAuth.accesskey "u">
 <!ENTITY leaveOnServer.label "Lämna kvar meddelanden på servern">
@@ -94,7 +91,7 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "meddelanden hämtas">
 <!ENTITY alwaysAuthenticate.label "Begär alltid inloggning vid anslutning till denna server">
-<!ENTITY alwaysAuthenticate.accesskey "">
+<!ENTITY alwaysAuthenticate.accesskey "e">
 <!ENTITY newsrcFilePath.label "newsrc-fil:">
 <!ENTITY localPath.label "Lokal katalog:">
 <!ENTITY abbreviate.label "Visa namn på diskussionsgrupper:">
