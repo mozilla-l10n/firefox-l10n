@@ -19,7 +19,7 @@
 
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label        "Aktualisieren">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "A">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "k">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Auf Updates für Add-ons überprüfen">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Auf Updates für Themes überprüfen">
 <!ENTITY cmd.installLocalFile.label       "Installieren…">
@@ -40,10 +40,10 @@
 <!ENTITY cmd.continue.tooltip             "&brandShortName; weiter herunterladen">
 
 <!ENTITY cmd.enableAll.label              "Alle aktivieren">
-<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY cmd.enableAll.accesskey          "A">
 <!ENTITY cmd.enableAll.tooltip            "Alle angezeigten Add-ons aktivieren">
 <!ENTITY cmd.disableAll.label             "Alle deaktivieren">
-<!ENTITY cmd.disableAll.accesskey         "a">
+<!ENTITY cmd.disableAll.accesskey         "A">
 <!ENTITY cmd.disableAll.tooltip           "Alle angezeigten Add-ons deaktivieren">
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
