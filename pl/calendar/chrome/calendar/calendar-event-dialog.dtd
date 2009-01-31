@@ -310,7 +310,7 @@
 <!ENTITY event.recurrence.yearly.third.label                 "3.">
 <!ENTITY event.recurrence.yearly.fourth.label                "4.">
 <!ENTITY event.recurrence.yearly.fifth.label                 "5.">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "Ostatni(a)">
+<!ENTITY event.recurrence.yearly.last.label                  "Ostatni(a)">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "niedziela" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "poniedziałek" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "wtorek" >
