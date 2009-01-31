@@ -105,7 +105,7 @@
 <!ENTITY BPProps.TriggerCount.label "Auslösezähler">
 <!ENTITY BPProps.OneTime.label      "Haltepunkt nach dem ersten Auslösen löschen">
 <!ENTITY BPProps.Then.label         "Dann …">
-<!ENTITY BPProps.ConditionalCheck.label      "Wenn ausgelöst, folgendes ausführen…">
+<!ENTITY BPProps.ConditionalCheck.label      "Wenn ausgelöst, Folgendes ausführen…">
 <!ENTITY BPProps.NeverStopRadio.label        "Ohne Rücksicht auf das Ergebnis fortsetzen">
 <!ENTITY BPProps.AlwaysStopRadio.label       "Ohne Rücksicht auf das Ergebnis anhalten">
 <!ENTITY BPProps.ConditionalBreakRadio.label "Anhalten, wenn das Ergebnis wahr ist">

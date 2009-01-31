@@ -51,5 +51,5 @@
 <!ENTITY subscribedHeader.label       "Abonnieren">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Einträge anzeigen, die folgendes enthalten:">
+<!ENTITY namefield.label              "Einträge anzeigen, die Folgendes enthalten:">
 <!ENTITY namefield.accesskey          "E">
