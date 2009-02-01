@@ -56,12 +56,12 @@
 <!ENTITY day.7.Ddd.accesskey "a">
 
 <!ENTITY day.1.name "ਐਤਵਾਰ" >
-<!ENTITY day.2.name "Monday" >
-<!ENTITY day.3.name "Tuesday" >
-<!ENTITY day.4.name "Wednesday" >
-<!ENTITY day.5.name "Thursday" >
-<!ENTITY day.6.name "Friday" >
-<!ENTITY day.7.name "Saturday" >
+<!ENTITY day.2.name "ਸੋਮਵਰ" >
+<!ENTITY day.3.name "ਮੰਗਲਵਾਰ" >
+<!ENTITY day.4.name "ਬੁੱਧਵਾਰ" >
+<!ENTITY day.5.name "ਵੀਰਵਾਰ" >
+<!ENTITY day.6.name "ਸ਼ੁੱਕਰਵਾਰ" >
+<!ENTITY day.7.name "ਸ਼ਨਿੱਚਰਵਾਰ" >
 
 <!-- Units -->
 <!ENTITY calendar.global.units.minute   "ਮਿੰਟ">
@@ -72,21 +72,21 @@
 <!ENTITY calendar.global.units.days     "ਦਿਨ">
 
 <!ENTITY month.1.name "ਜਨਵਰੀ" >
-<!ENTITY month.2.name "February" >
-<!ENTITY month.3.name "March" >
+<!ENTITY month.2.name "ਫਰਵਰੀ" >
+<!ENTITY month.3.name "ਮਾਰਚ" >
 <!ENTITY month.4.name "ਅਪਰੈਲ" >
-<!ENTITY month.5.name "May" >
-<!ENTITY month.6.name "June" >
-<!ENTITY month.7.name "July" >
-<!ENTITY month.8.name "August" >
-<!ENTITY month.9.name "September" >
-<!ENTITY month.10.name "October" >
-<!ENTITY month.11.name "November" >
-<!ENTITY month.12.name "December" >
+<!ENTITY month.5.name "ਮਈ" >
+<!ENTITY month.6.name "ਜੂਨ" >
+<!ENTITY month.7.name "ਜੁਲਾਈ" >
+<!ENTITY month.8.name "ਅਗਸਤ" >
+<!ENTITY month.9.name "ਸਤੰਬਰ" >
+<!ENTITY month.10.name "ਅਕਤੂਬਰ" >
+<!ENTITY month.11.name "ਨਵੰਬਰ" >
+<!ENTITY month.12.name "ਦਸੰਬਰ" >
 
-<!ENTITY onemonthbackward.tooltip "One Month Back" >
-<!ENTITY onemonthforward.tooltip "One Month Forward" >
-<!ENTITY showToday.tooltip "Go to Today">
-<!ENTITY onedayforward.tooltip "One Day Forward">
-<!ENTITY onedaybackward.tooltip "One Day Backward">
-<!ENTITY showselectedday.tooltip "Show events for selected day">
+<!ENTITY onemonthbackward.tooltip "ਇੱਕ ਮਹੀਨਾ ਪਿੱਛੇ" >
+<!ENTITY onemonthforward.tooltip "ਇੱਕ ਮਹੀਨਾ ਅੱਗੇ" >
+<!ENTITY showToday.tooltip "ਅੱਜ ਉੱਤੇ ਜਾਓ">
+<!ENTITY onedayforward.tooltip "ਇੱਕ ਦਿਨ ਅੱਗੇ">
+<!ENTITY onedaybackward.tooltip "ਇੱਕ ਦਿਨ ਪਿੱਛੇ">
+<!ENTITY showselectedday.tooltip "ਚੁਣੇ ਦਿਨ ਲਈ ਈਵੈਂਟ ਵੇਖੋ">
