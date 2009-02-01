@@ -45,7 +45,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label                "Caută automat actualizări pentru:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "&">
+<!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Suplimente instalate">
 <!ENTITY enableAddonsUpdate.accesskey   "t">
 <!ENTITY whenUpdatesFound.label         "Când sunt găsite actualizări pentru Thundebird,">
