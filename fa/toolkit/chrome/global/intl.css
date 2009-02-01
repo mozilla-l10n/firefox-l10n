@@ -35,6 +35,12 @@ textbox[disabled] {
   font-style: normal !important;
 }
 
+/* Make the XML error page RTL (bug 417489) */
+
+parsererror {
+  direction: rtl;
+}
+
 
 /********************
 **  Firefox  **
