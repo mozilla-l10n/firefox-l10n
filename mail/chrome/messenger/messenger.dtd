@@ -137,7 +137,7 @@
 <!ENTITY allFolders.accesskey "a">
 <!ENTITY unreadFolders.label "Necitite">
 <!ENTITY unreadFolders.accesskey "N">
-<!ENTITY favoriteFolders.label "Favorit">
+<!ENTITY favoriteFolders.label "Favorite">
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recente">
 <!ENTITY recentFolders.accesskey "R">
