@@ -133,7 +133,7 @@ Vous pouvez également utiliser la commande dans le menu d'aide pour signaler un
 
 <!ENTITY nssBadCert.title "Échec de la connexion sécurisée">
 <!ENTITY nssBadCert.longDesc2 "<ul><li>Ceci peut-être dû à un problème de configuration du serveur ou à une personne essayant d'usurper l'identité du serveur.</li>
-<li>Si vous vous êtes déjà connecté avec succès à ce serveur, l'erreur est peut-être temporaire et vous pouvez essayer à nouveau plus tard.</li>
+<li>Si vous avez déjà pu vous connecter à ce serveur, l'erreur est peut-être temporaire et vous pouvez essayer à nouveau plus tard.</li>
 </ul>">
 
 <!ENTITY sharedLongDesc "
