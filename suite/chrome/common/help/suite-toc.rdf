@@ -1201,7 +1201,7 @@
                   <nc:subheadings>
                     <rdf:Seq>
                       <rdf:li> <rdf:Description ID="using-help-certs-validation-how" nc:name="Comment fonctionne la validation des certificats" nc:link="using_certs_help.xhtml#how_certificate_validation_works"/> </rdf:li>
-                      <rdf:li> <rdf:Description ID="using-help-certs-validation-crls" nc:name="Gérer les LRC" nc:link="using_certs_help.xhtml#managing_crls"/> </rdf:li>
+                      <rdf:li> <rdf:Description ID="using-help-certs-validation-crls" nc:name="Gérer les LCR" nc:link="using_certs_help.xhtml#managing_crls"/> </rdf:li>
                       <rdf:li> <rdf:Description ID="using-help-certs-validation-ocsp" nc:name="Configurer l'OCSP" nc:link="using_certs_help.xhtml#configuring_ocsp"/> </rdf:li>
                       <rdf:li> <rdf:Description ID="validation_prefs" nc:name="Préférences de validation" nc:link="validation_help.xhtml"/> </rdf:li>
                     </rdf:Seq>
@@ -1212,8 +1212,8 @@
                           <nc:subheadings>
                             <rdf:Seq>
                               <rdf:li> <rdf:Description ID="using-help-certs-validation-crls-next" nc:name="À propos de la prochaine date de mise à jour" nc:link="using_certs_help.xhtml#about_the_next_update_date"/> </rdf:li>
-                              <rdf:li> <rdf:Description ID="using-help-certs-validation-crls-import" nc:name="Importer les LRC" nc:link="using_certs_help.xhtml#importing_crls"/> </rdf:li>
-                              <rdf:li> <rdf:Description ID="using-help-certs-validation-crls-view" nc:name="Voir et gérer les LRC" nc:link="using_certs_help.xhtml#viewing_and_managing_crls"/> </rdf:li>
+                              <rdf:li> <rdf:Description ID="using-help-certs-validation-crls-import" nc:name="Importer les LCR" nc:link="using_certs_help.xhtml#importing_crls"/> </rdf:li>
+                              <rdf:li> <rdf:Description ID="using-help-certs-validation-crls-view" nc:name="Voir et gérer les LCR" nc:link="using_certs_help.xhtml#viewing_and_managing_crls"/> </rdf:li>
                             </rdf:Seq>
                           </nc:subheadings>
                         </rdf:Description>
@@ -1222,9 +1222,9 @@
                           <nc:subheadings>
                             <rdf:Seq>
                               <rdf:li> <rdf:Description ID="validation-prefs" nc:name="Préférences de confidentialité et de sécurité - validation" nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/> </rdf:li>
-                              <rdf:li> <rdf:Description ID="validation-crl-manage" nc:name="Gérer les LRC" nc:link="validation_help.xhtml#manage_crls"/> </rdf:li>
-                              <rdf:li> <rdf:Description ID="validation-crl-import" nc:name="Statut de l'importation des LRC" nc:link="validation_help.xhtml#crl_import_status"/> </rdf:li>
-                              <rdf:li> <rdf:Description ID="validation-crl-auto-update-prefs" nc:name="Préférences de mise à jour automatique des LRC" nc:link="validation_help.xhtml#automatic_crl_update_preferences"/> </rdf:li>
+                              <rdf:li> <rdf:Description ID="validation-crl-manage" nc:name="Gérer les LCR" nc:link="validation_help.xhtml#manage_crls"/> </rdf:li>
+                              <rdf:li> <rdf:Description ID="validation-crl-import" nc:name="Statut de l'importation des LCR" nc:link="validation_help.xhtml#crl_import_status"/> </rdf:li>
+                              <rdf:li> <rdf:Description ID="validation-crl-auto-update-prefs" nc:name="Préférences de mise à jour automatique des LCR" nc:link="validation_help.xhtml#automatic_crl_update_preferences"/> </rdf:li>
                             </rdf:Seq>
                           </nc:subheadings>
                         </rdf:Description>
@@ -1232,7 +1232,7 @@
                                 <!--<rdf:Description about="#validation-prefs">
                                   <nc:subheadings>
                                     <rdf:Seq>
-                                      <rdf:li> <rdf:Description ID="validation-prefs-CRL" nc:name="LRC" nc:link="validation_help.xhtml#crl"/> </rdf:li>
+                                      <rdf:li> <rdf:Description ID="validation-prefs-CRL" nc:name="LCR" nc:link="validation_help.xhtml#crl"/> </rdf:li>
                                       <rdf:li> <rdf:Description ID="validation-prefs-OCSP" nc:name="OCSP" nc:link="validation_help.xhtml#ocsp"/> </rdf:li>
                                     </rdf:Seq>
                                   </nc:subheadings>
