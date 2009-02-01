@@ -27,8 +27,8 @@
 <!ENTITY printSetupCmd.accesskey                        "j">
 <!ENTITY printPreviewContactCmd.label                   "Previzualizare tipărire contact">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Previz. imprimare carte adrese">
-<!ENTITY printPreviewAddressBook.accesskey              "z">
+<!ENTITY printPreviewAddressBook.label                  "Previzualizează tipărirea agendei de contacte">
+<!ENTITY printPreviewAddressBook.accesskey              "P">
 <!ENTITY printContactCmd.label                          "Tipărește contactul…">
 <!ENTITY printContactCmd.accesskey                      "T">
 <!ENTITY printContactCmd.key                            "P">
@@ -79,8 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Bare de unelte">
 <!ENTITY viewToolbarsMenu.accesskey                     "t"> 
-<!ENTITY showAbToolbarCmd.label                         "Bara Agendă">
-<!ENTITY showAbToolbarCmd.accesskey                     "a">
+<!ENTITY showAbToolbarCmd.label                         "Bara cu contacte">
+<!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Bară de stare">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Personalizează...">
