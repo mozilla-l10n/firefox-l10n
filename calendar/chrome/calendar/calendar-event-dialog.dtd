@@ -45,9 +45,6 @@
 
 <!ENTITY event.title.label                  "Taisomas įrašas" >
 
-<!ENTITY newevent.before.label              "iki" >
-<!ENTITY newevent.after.label               "po" >
-
 <!ENTITY newevent.from.label                "Nuo" >
 <!ENTITY newevent.to.label                  "Iki" >
 <!ENTITY newevent.attendees.notify.label    "Pranešti dalyviams">
@@ -234,6 +231,7 @@
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Kartojimosi keitimas">
+
 <!ENTITY event.repeat.does.not.repeat.label             "nesikartoja">
 <!ENTITY event.repeat.daily.label                       "kasdien">
 <!ENTITY event.repeat.weekly.label                      "kas savaitę">
@@ -260,13 +258,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Įvykis kartojasi kas" >
 <!ENTITY repeat.units.months.both                       "mėn." >
-<!ENTITY event.recurrence.the.label                     "mėnesio" >
-<!ENTITY event.recurrence.repeat.first.label            "pirmąjį">
-<!ENTITY event.recurrence.repeat.second.label           "antrąjį">
-<!ENTITY event.recurrence.repeat.third.label            "trečiąjį">
-<!ENTITY event.recurrence.repeat.fourth.label           "ketvirtąjį">
-<!ENTITY event.recurrence.repeat.fifth.label            "penktąjį">
-<!ENTITY event.recurrence.repeat.last.label             "paskutinį">
+<!ENTITY event.recurrence.monthly.every.label           "mėnesio" >
+<!ENTITY event.recurrence.monthly.first.label           "pirmąjį">
+<!ENTITY event.recurrence.monthly.second.label          "antrąjį">
+<!ENTITY event.recurrence.monthly.third.label           "trečiąjį">
+<!ENTITY event.recurrence.monthly.fourth.label          "ketvirtąjį">
+<!ENTITY event.recurrence.monthly.fifth.label           "penktąjį">
+<!ENTITY event.recurrence.monthly.last.label            "paskutinįjį">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "sekmadienį" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "pirmadienį" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "antradienį" >
@@ -280,7 +278,6 @@
 <!ENTITY event.recurrence.every.label                        "Įvykis kartojasi kas" >
 <!ENTITY repeat.units.years.both                             "m." >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "ir įvyksta" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "ir įvyksta" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -303,12 +300,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "spalio" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "lapkričio" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "gruodžio" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "pirmąjį">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "antrąjį">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "trečiąjį">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "ketvirtąjį">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "penktąjį">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "paskutinįjį">
+<!ENTITY event.recurrence.yearly.every.label                 "mėnesio">
+<!ENTITY event.recurrence.yearly.first.label                 "pirmąjį">
+<!ENTITY event.recurrence.yearly.second.label                "antrąjį">
+<!ENTITY event.recurrence.yearly.third.label                 "trečiąjį">
+<!ENTITY event.recurrence.yearly.fourth.label                "ketvirtąjį">
+<!ENTITY event.recurrence.yearly.fifth.label                 "penktąjį">
+<!ENTITY event.recurrence.yearly.last.label                  "paskutinįjį">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "sekmadienį" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "pirmadienį" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "antradienį" >
@@ -336,26 +334,6 @@
 <!ENTITY event.recurrence.appointments.label            "k." >
 <!ENTITY event.repeat.until.label                       "Kartotis iki" >
 <!ENTITY event.recurrence.preview.label                 "Peržiūra">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "min." >
-<!ENTITY alarm.units.hours                  "val." >
-<!ENTITY alarm.units.days                   "d." >
-
-<!ENTITY reminder.title.label                           "Parenkamas priminimas">
-<!ENTITY reminder.dialogtitle.label                     "Priminimų nustatymas">
-<!ENTITY reminder.reminderDetails.label                 "Priminimo savybės">
-<!ENTITY reminder.action.label                          "Parinkite priminimo būdą">
-<!ENTITY reminder.action.alert.label                    "Rodyti pranešimą">
-<!ENTITY reminder.action.email.label                    "Atsiųsti laišką el. paštu">
-<!ENTITY reminder.new.label                             "Naujas">
-<!ENTITY reminder.delete.label                          "Pašalinti">
-<!ENTITY reminder.relation.start.label                  "įvykio pradžios">
-<!ENTITY reminder.relation.end.label                    "įvykio pabaigos">
-<!ENTITY reminder.add.label                             "Pridėti">
-<!ENTITY reminder.add.accesskey                         "P">
-<!ENTITY reminder.remove.label                          "Pašalinti">
-<!ENTITY reminder.remove.accesskey                      "š">
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                       "Pakviesti dalyvių">
