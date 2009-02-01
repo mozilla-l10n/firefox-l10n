@@ -275,7 +275,7 @@
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "zi a lunii">
 <!ENTITY event.recurrence.repeat.recur.label            "Repetă în zilele">
 
-<!ENTITY event.recurrence.every.label                        "În fiecare:" >
+<!ENTITY event.recurrence.every.label                        "La fiecare:" >
 <!ENTITY repeat.units.years.both                             "ani" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "În fiecare" >
 
@@ -300,7 +300,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "octombrie" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "noiembrie" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "decembrie" >
-<!ENTITY event.recurrence.yearly.every.label                 "La fiecare">
+<!ENTITY event.recurrence.yearly.every.label                 "În fiecare">
 <!ENTITY event.recurrence.yearly.first.label                 "Prima">
 <!ENTITY event.recurrence.yearly.second.label                "A doua">
 <!ENTITY event.recurrence.yearly.third.label                 "A treia">
