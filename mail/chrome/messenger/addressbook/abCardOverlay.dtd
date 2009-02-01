@@ -78,8 +78,8 @@
 <!ENTITY PlainText.label                "grynuoju tekstu">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "nėra pageidavimo">
-<!ENTITY ScreenName.label               "Pseudonimas:">
-<!ENTITY ScreenName.accesskey           "u">
+<!ENTITY ScreenName.label               "AOL abonento vardas:">
+<!ENTITY ScreenName.accesskey           "A">
 
 <!ENTITY allowRemoteContent.label       "Leisti paveikslus iš tinklo.">
 <!ENTITY allowRemoteContent.accesskey   "t">

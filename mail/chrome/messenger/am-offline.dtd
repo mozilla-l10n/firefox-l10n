@@ -42,7 +42,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "k">
 <!ENTITY nntpDownloadMsg.label "laiškų, senesnių nei">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Taupant vietą diske, senus laiškus galima negrąžinamai šalinti">
+<!ENTITY retentionCleanup.label "Taupant vietą diske, senus laiškus galima negrąžinamai šalinti.">
+<!ENTITY retentionCleanupImap.label "Taupant vietą diske, senus laiškus (tiek vietines kopijas, tiek jų originalus serveryje) galima negrąžinamai šalinti.">
+<!ENTITY retentionCleanupPop.label "Taupant vietą diske, senus laiškus (taip pat ir jų originalus serveryje) galima negrąžinamai šalinti.">
 <!ENTITY retentionKeepMsg.label "šalinti laiškus, senesnius nei">
 <!ENTITY retentionKeepMsg.accesskey "s">
 <!ENTITY retentionKeepAll.label "nešalinti laiškų">
