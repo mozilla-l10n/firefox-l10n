@@ -55,9 +55,11 @@
 <!ENTITY retention.label                         "Laiškų šalinimas">
 <!ENTITY retentionUseDefault.label               "Naudoti serverio nuostatas">
 <!ENTITY retentionUseDefault.accesskey           "s">
-<!ENTITY daysOld.label                           "d. laiškus">
+<!ENTITY daysOld.label                           "d.">
 <!ENTITY message.label                           "laiškų">
-<!ENTITY retentionCleanup.label                  "Palikti:">
+<!ENTITY retentionCleanup.label                  "Palikti laiškus:">
+<!ENTITY retentionCleanupImap.label              "Palikti laiškus (tiek vietines kopijas, tiek originalus serveryje):">
+<!ENTITY retentionCleanupPop.label               "Palikti laiškus (taip pat ir originalus serveryje):">
 <!ENTITY retentionDeleteMsg.label                "ne senesnius nei">
 <!ENTITY retentionDeleteMsg.accesskey            "s">
 <!ENTITY retentionKeepAll.label                  "visus laiškus">

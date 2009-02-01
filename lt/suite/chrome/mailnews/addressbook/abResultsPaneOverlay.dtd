@@ -35,7 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY GeneratedName.label                   "Asmenvardis">
-<!ENTITY GeneratedName.accesskey               "A">
+<!ENTITY GeneratedName.accesskey               "v">
 <!ENTITY PrimaryEmail.label                    "El. pašto adresas">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organizacija">
@@ -61,11 +61,11 @@
 <!ENTITY WorkPhone.label                       "Darbo telefonas">
 <!ENTITY WorkPhone.accesskey                   "D">
 <!ENTITY ScreenName.label                      "AOL abonento vardas">
-<!ENTITY ScreenName.accesskey                  "r">
+<!ENTITY ScreenName.accesskey                  "A">
 <!ENTITY sortAscending.label                   "Pagal abėcėlę">
 <!ENTITY sortAscending.accesskey               "b">
 <!ENTITY sortDescending.label                  "Atvirkščiai">
-<!ENTITY sortDescending.accesskey              "v">
+<!ENTITY sortDescending.accesskey              "k">
 
 <!-- context menu -->
 <!ENTITY composeEmail.label                    "Rašyti laišką">

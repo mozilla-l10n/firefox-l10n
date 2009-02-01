@@ -183,8 +183,8 @@
 <!ENTITY GeneratedName.accesskey                        "v">
 <!ENTITY PrimaryEmail.label                             "El. pašto adresas">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Kiti vardai">
-<!ENTITY ScreenName.accesskey                           "k">
+<!ENTITY ScreenName.label                               "AOL abonento vardas">
+<!ENTITY ScreenName.accesskey                           "A">
 <!ENTITY Company.label                                  "Organizacija">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Slapyvardis">
@@ -208,7 +208,7 @@
 <!ENTITY sortAscending.label                            "Pagal abėcėlę">
 <!ENTITY sortAscending.accesskey                        "b">
 <!ENTITY sortDescending.label                           "Atvirkščiai">
-<!ENTITY sortDescending.accesskey                       "v">
+<!ENTITY sortDescending.accesskey                       "k">
 <!ENTITY _PhoneticName.label                            "Sulietuvintas užsieniečio vardas">
 <!ENTITY _PhoneticName.accesskey                        "ž">
 

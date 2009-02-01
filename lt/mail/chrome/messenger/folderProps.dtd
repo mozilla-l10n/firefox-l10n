@@ -43,58 +43,60 @@
 
 <!ENTITY folderProps.windowtitle.label  "Savybės">
 
-<!ENTITY generalInfo.label            "Bendroji informacija">
-<!ENTITY folderCharsetTab.label       "Numatytoji koduotė">
+<!ENTITY generalInfo.label                       "Bendroji informacija">
+<!ENTITY folderCharsetTab.label                  "Numatytoji koduotė">
 <!ENTITY folderCharsetTab.accesskey              "k">
-<!ENTITY folderCharsetOverride.label  "Laikyti numatytąja visiems aplanko laiškams (individualios laiškų koduotės ir kitos nuostatos bus ignoruojamos)">
+<!ENTITY folderCharsetOverride.label             "Laikyti numatytąja visiems aplanko laiškams (individualios laiškų koduotės ir kitos nuostatos bus ignoruojamos)">
 <!ENTITY folderCharsetOverride.accesskey         "L">
 <!ENTITY folderRebuildSummaryFile.label          "Perindeksuoti">
 <!ENTITY folderRebuildSummaryFile.accesskey      "i">
 <!ENTITY folderRebuildSummaryFileTip.label       "Perindeksuoti aplanką">
 
-<!ENTITY retention.label                                    "Laiškų šalinimas">
-<!ENTITY retentionUseDefault.label                          "Naudoti serverio nuostatas">
+<!ENTITY retention.label                         "Laiškų šalinimas">
+<!ENTITY retentionUseDefault.label               "Naudoti serverio nuostatas">
 <!ENTITY retentionUseDefault.accesskey           "s">
-<!ENTITY daysOld.label                                      "d. laiškus">
-<!ENTITY message.label                                      "laiškų">
-<!ENTITY retentionCleanup.label                             "Taupant vietą diske, galima negrąžinamai šalinti senus laiškus">
-<!ENTITY retentionDeleteMsg.label                           "šalinti, senesnius nei">
+<!ENTITY daysOld.label                           "d. laiškus">
+<!ENTITY message.label                           "laiškų">
+<!ENTITY retentionCleanup.label                  "Taupant vietą diske, senus laiškus galima negrąžinamai šalinti.">
+<!ENTITY retentionCleanupImap.label              "Taupant vietą diske, senus laiškus (tiek vietines kopijas, tiek jų originalus serveryje) galima negrąžinamai šalinti.">
+<!ENTITY retentionCleanupPop.label               "Taupant vietą diske, senus laiškus (taip pat ir jų originalus serveryje) galima negrąžinamai šalinti.">
+<!ENTITY retentionDeleteMsg.label                "šalinti, senesnius nei">
 <!ENTITY retentionDeleteMsg.accesskey            "s">
-<!ENTITY retentionKeepAll.label                             "nešalinti laiškų">
+<!ENTITY retentionKeepAll.label                  "nešalinti laiškų">
 <!ENTITY retentionKeepAll.accesskey              "n">
-<!ENTITY retentionKeepNew.label                             "šalinti visus išskyrus paskiausius">
+<!ENTITY retentionKeepNew.label                  "šalinti visus išskyrus paskiausius">
 <!ENTITY retentionKeepNew.accesskey              "p">
-<!ENTITY retentionKeepUnread.label                          "visuomet šalinti skaitytus laiškus">
+<!ENTITY retentionKeepUnread.label               "visuomet šalinti skaitytus laiškus">
 <!ENTITY retentionKeepUnread.accesskey           "v">
-<!ENTITY retentionApplyToFlagged.label                      "visuomet palikti žvaigždute pažymėtus laiškus">
+<!ENTITY retentionApplyToFlagged.label           "visuomet palikti žvaigždute pažymėtus laiškus">
 <!ENTITY retentionApplyToFlagged.accesskey       "ž">
 
-<!ENTITY folderOfflineTab.label                             "Atsijungus nuo tinklo">
-<!ENTITY folderCheckForNewMessages.label                    "Patikrinti, ar šiame aplanke nėra naujų laiškų">
+<!ENTITY folderOfflineTab.label                  "Atsijungus nuo tinklo">
+<!ENTITY folderCheckForNewMessages.label         "Patikrinti, ar šiame aplanke nėra naujų laiškų">
 <!ENTITY folderCheckForNewMessages.accesskey     "P">
 
-<!ENTITY offlineFolder.check.label                          "Šio aplanko laiškus skaityti atsijungus nuo tinklo">
+<!ENTITY offlineFolder.check.label               "Šio aplanko laiškus skaityti atsijungus nuo tinklo">
 <!ENTITY offlineFolder.check.accesskey           "a">
-<!ENTITY offlineFolder.button.label                         "Parsisiųsti">
+<!ENTITY offlineFolder.button.label              "Parsisiųsti">
 <!ENTITY offlineFolder.button.accesskey          "s">
 
-<!ENTITY selectofflineNewsgroup.check.label                 "Šios naujienų grupės laiškus skaityti atsijungus nuo tinklo">
+<!ENTITY selectofflineNewsgroup.check.label      "Šios naujienų grupės laiškus skaityti atsijungus nuo tinklo">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "a">
-<!ENTITY offlineNewsgroup.button.label                      "Parsisiųsti">
+<!ENTITY offlineNewsgroup.button.label           "Parsisiųsti">
 <!ENTITY offlineNewsgroup.button.accesskey       "P">
 
-<!ENTITY folderProps.name.label	        "Vardas:">
+<!ENTITY folderProps.name.label	                "Vardas:">
 <!ENTITY folderProps.name.accesskey              "V">
 <!ENTITY folderProps.location.label              "Vieta:">
 <!ENTITY folderProps.location.accesskey          "t">
 
-<!ENTITY folderSharingTab.label                             "Bendras naudojimas">
-<!ENTITY privileges.button.label                      "Teisės">
-<!ENTITY privileges.button.accesskey                  "T">
-<!ENTITY permissionsDesc.label                            "Jums leidžiama:">
-<!ENTITY folderType.label                             "Aplanko tipas:">
+<!ENTITY folderSharingTab.label                  "Bendras naudojimas">
+<!ENTITY privileges.button.label                 "Teisės">
+<!ENTITY privileges.button.accesskey             "T">
+<!ENTITY permissionsDesc.label                   "Jums leidžiama:">
+<!ENTITY folderType.label                        "Aplanko tipas:">
 
-<!ENTITY folderQuotaTab.label                               "Kvota">
-<!ENTITY folderQuotaRoot.label                              "Kvotos šaknis:">
-<!ENTITY folderQuotaUsage.label                             "Naudojimas:">
-<!ENTITY folderQuotaStatus.label                            "Būsena:">
+<!ENTITY folderQuotaTab.label                    "Kvota">
+<!ENTITY folderQuotaRoot.label                   "Kvotos šaknis:">
+<!ENTITY folderQuotaUsage.label                  "Naudojimas:">
+<!ENTITY folderQuotaStatus.label                 "Būsena:">
