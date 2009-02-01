@@ -44,8 +44,6 @@
 
 <!ENTITY event.title.label                  "Editează elementul" >
 
-<!ENTITY newevent.before.label              "înainte" >
-<!ENTITY newevent.after.label               "după" >
 
 <!ENTITY newevent.from.label                "De la" >
 <!ENTITY newevent.to.label                  "Până la" >
@@ -260,13 +258,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "În fiecare" >
 <!ENTITY repeat.units.months.both                       "luni" >
-<!ENTITY event.recurrence.the.label                     "În" >
-<!ENTITY event.recurrence.repeat.first.label            "prima">
-<!ENTITY event.recurrence.repeat.second.label           "a doua">
-<!ENTITY event.recurrence.repeat.third.label            "a treia">
-<!ENTITY event.recurrence.repeat.fourth.label           "a patra">
-<!ENTITY event.recurrence.repeat.fifth.label            "a cincea">
-<!ENTITY event.recurrence.repeat.last.label             "ultima">
+<!ENTITY event.recurrence.monthly.every.label           "În fiecare" >
+<!ENTITY event.recurrence.monthly.first.label           "Prima">
+<!ENTITY event.recurrence.monthly.second.label          "A doua">
+<!ENTITY event.recurrence.monthly.third.label           "A treia">
+<!ENTITY event.recurrence.monthly.fourth.label          "A patra">
+<!ENTITY event.recurrence.monthly.fifth.label           "A cincea">
+<!ENTITY event.recurrence.monthly.last.label            "Ultima">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "duminică" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "luni" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "marți" >
@@ -280,7 +278,6 @@
 <!ENTITY event.recurrence.every.label                        "În fiecare:" >
 <!ENTITY repeat.units.years.both                             "ani" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "În fiecare" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "În fiecare" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -303,12 +300,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "octombrie" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "noiembrie" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "decembrie" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "prima">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "a doua">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "a treia">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "a patra">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "a cincea">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "ultima">
+<!ENTITY event.recurrence.yearly.every.label                 "La fiecare">
+<!ENTITY event.recurrence.yearly.first.label                 "Prima">
+<!ENTITY event.recurrence.yearly.second.label                "A doua">
+<!ENTITY event.recurrence.yearly.third.label                 "A treia">
+<!ENTITY event.recurrence.yearly.fourth.label                "A patra">
+<!ENTITY event.recurrence.yearly.fifth.label                 "A cincea">
+<!ENTITY event.recurrence.yearly.last.label                  "Ultima">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "duminică" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "luni" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "marți" >
@@ -336,27 +334,6 @@
 <!ENTITY event.recurrence.appointments.label            "Întâlniri" >
 <!ENTITY event.repeat.until.label                       "Repetă până în" >
 <!ENTITY event.recurrence.preview.label                 "Previzualizează">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "minute" >
-<!ENTITY alarm.units.hours                  "ore" >
-<!ENTITY alarm.units.days                   "zile" >
-
-<!ENTITY reminder.title.label                           "Memento personalizat">
-<!ENTITY reminder.dialogtitle.label                     "Setare memento">
-<!ENTITY reminder.reminderDetails.label                 "Detalii despre memento">
-<!ENTITY reminder.action.label                          "Alege o acțiune pentru memento">
-<!ENTITY reminder.action.alert.label                    "Arată o alertă">
-<!ENTITY reminder.action.email.label                    "Trimite un mesaj">
-<!ENTITY reminder.new.label                             "Creează">
-<!ENTITY reminder.delete.label                          "Șterge">
-<!ENTITY reminder.relation.start.label                  "începerea evenimentului">
-<!ENTITY reminder.relation.end.label                    "încheierea evenimentului">
-<!ENTITY reminder.add.label                             "Adaugă">
-<!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "Șterge">
-<!ENTITY reminder.remove.accesskey                      "r">
-
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Invitare participanți">
