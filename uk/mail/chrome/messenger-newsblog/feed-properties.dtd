@@ -1,4 +1,4 @@
-<!-- Feed Properties Dialog -->
+﻿<!-- Feed Properties Dialog -->
 <!ENTITY window.title             "Властивості підписки на RSS-канал">
 
 <!ENTITY feedFolder.label         "Зберігати статті в:">
@@ -15,5 +15,5 @@
 <!ENTITY copyLinkCmd.label        "Копіювати посилання">
 <!ENTITY copyLinkCmd.accesskey    "и">
 
-<!ENTITY pasteLinkCmd.label       "Paste">
-<!ENTITY pasteLinkCmd.accesskey   "P">
+<!ENTITY pasteLinkCmd.label       "Вставити">
+<!ENTITY pasteLinkCmd.accesskey   "В">
