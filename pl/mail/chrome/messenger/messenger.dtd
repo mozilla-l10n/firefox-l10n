@@ -412,6 +412,8 @@
 <!ENTITY tasksMenu.accesskey               "N">
 <!ENTITY addons.label                      "Dodatki">
 <!ENTITY addons.accesskey                  "D">
+<!ENTITY activitymanager.label             "Menedżer aktywności">
+<!ENTITY activitymanager.accesskey         "M">
 <!ENTITY messengerCmd.label                "Poczta i grupy dyskusyjne">
 <!ENTITY messengerCmd.accesskey            "P">
 <!ENTITY messengerCmd.commandkey           "1">
