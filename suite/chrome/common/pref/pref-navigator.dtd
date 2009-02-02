@@ -31,14 +31,6 @@
 <!ENTITY goButton.accesskey             "G">
 <!ENTITY searchButton.label             "Søk">
 <!ENTITY searchButton.accesskey         "S">
-<!ENTITY printButton.label              "Skriv ut">
-<!ENTITY printButton.accesskey          "k">
-
-<!ENTITY persToolbarIntro.label         "Personlig verktøylinje">
-<!ENTITY homeButton.label               "Hjem">
-<!ENTITY homeButton.accesskey           "e">
-<!ENTITY bookmarksButton.label          "Bokmerker">
-<!ENTITY bookmarksButton.accesskey      "o">
 
 <!ENTITY defaultBrowserGroup.label      "Standard nettleser">
 <!ENTITY defaultBrowserButton.label     "Sett standard nettleser">
