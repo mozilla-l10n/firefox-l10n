@@ -18,21 +18,18 @@
 <!ENTITY biffStart.label "Sjå etter nye meldingar kvart">
 <!ENTITY biffStart.accesskey "r">
 <!ENTITY biffEnd.label "minutt">
-<!ENTITY socketType.label "Bruk trygg tilkopling:">
-<!ENTITY neverSecure.label "Aldri">
-<!ENTITY neverSecure.accesskey "A">
-<!ENTITY sometimesSecure.label "TLS, dersom tilgjengeleg">
-<!ENTITY sometimesSecure.accesskey "d">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Tilkoplings-sikkerheit:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "Ingen">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, om tilgjengeleg">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Bruk trygg autentisering">
 <!ENTITY useSecAuth.accesskey "a">
 <!ENTITY leaveOnServer.label "Lat meldingar liggje på tenaren">
 <!ENTITY leaveOnServer.accesskey "m">
-<!ENTITY headersOnly.label "Berre hent meldingshovuda">
-<!ENTITY headersOnly.accesskey "H">
+<!ENTITY headersOnly.label "Hent berre meldingshovuda">
+<!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "Som er toppen">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dagar gamle">
@@ -42,25 +39,25 @@
 <!ENTITY downloadOnBiff.accesskey "n">
 <!ENTITY username.label "Innloggingsnamn">
 <!ENTITY deleteMessagePrefix.label "Når eg slettar ei melding:">
-<!ENTITY modelMoveToTrash.label "Flytt henne til Bosskorga">
-<!ENTITY modelMoveToTrash.accesskey "B">
+<!ENTITY modelMoveToTrash.label "Flytt henne til denne mappa:">
+<!ENTITY modelMoveToTrash.accesskey "h">
 <!ENTITY modelMarkDeleted.label "Merk som sletta">
 <!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "Fjern med ein gong">
 <!ENTITY modelDeleteImmediately.accesskey "n">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Reinsk («Expunge») innboksen under avsluttinga">
+<!ENTITY expungeOnExit.label "Rydd opp («Expunge») innboksen ved avslutting">
 <!ENTITY expungeOnExit.accesskey "a">
-<!ENTITY emptyTrashOnExit.label "Tøm bosskorga under avsluttinga">
+<!ENTITY emptyTrashOnExit.label "Tøm bosskorga ved avslutting">
 <!ENTITY emptyTrashOnExit.accesskey "ø">
 <!ENTITY loginAtStartup.label "Sjå etter nye meldingar ved oppstart">
-<!ENTITY loginAtStartup.accesskey "e">
+<!ENTITY loginAtStartup.accesskey "å">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Spør meg før nedlasting av meir enn">
-<!ENTITY maxMessagesStart.accesskey "M">
+<!ENTITY maxMessagesStart.accesskey "S">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "meldingar">
 <!ENTITY alwaysAuthenticate.label "Spør alltid etter autentisering ved tilkopling til denne tenaren">
@@ -69,7 +66,7 @@
 <!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY abbreviate.label "Vis namn i mappelista med">
 <!ENTITY abbreviateOn.label "fulle namn (til dømes «netscape.public.mozilla.mail-news»)">
-<!ENTITY abbreviateOff.label "avkorta namn (til dømes «n.p.m.mail-news»)">
+<!ENTITY abbreviateOff.label "forkorta namn (til dømes «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avansert …">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset.label "Standard teiknkoding:">

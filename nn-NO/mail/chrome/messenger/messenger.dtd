@@ -33,8 +33,8 @@
 <!ENTITY getNextNMsgCmd.accesskey "e">
 <!ENTITY sendUnsentCmd.label "Send usende meldingar">
 <!ENTITY sendUnsentCmd.accesskey "u">
-<!ENTITY subscribeCmd.label "Abonner …">
-<!ENTITY subscribeCmd.accesskey "A">
+<!ENTITY subscribeCmd.label "Meld inn …">
+<!ENTITY subscribeCmd.accesskey "M">
 <!ENTITY deleteFolder.label "Slett mappe">
 <!ENTITY deleteFolder.accesskey "S">
 <!ENTITY renameFolder.label "Endre mappenamn …">
@@ -54,10 +54,10 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "a">
 <!ENTITY settingsOfflineCmd.label "Fråkopla-innstillingar …">
 <!ENTITY settingsOfflineCmd.accesskey "F">
-<!ENTITY downloadSelectedCmd.label "Hent dei valde meldingane">
-<!ENTITY downloadSelectedCmd.accesskey "M">
-<!ENTITY downloadStarredCmd.label "Hent dei stjernemerkte meldingane">
-<!ENTITY downloadStarredCmd.accesskey "a">
+<!ENTITY downloadSelectedCmd.label "Last ned dei valde meldingane">
+<!ENTITY downloadSelectedCmd.accesskey "n">
+<!ENTITY downloadStarredCmd.label "Last ned dei stjernemerkte meldingane">
+<!ENTITY downloadStarredCmd.accesskey "L">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.key "p">
@@ -217,7 +217,7 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Rein tekst">
 <!ENTITY bodyAsPlaintext.accesskey "R">
-<!ENTITY viewAttachmentsInlineCmd.label "Vis vedlegg innbunde i meldingane">
+<!ENTITY viewAttachmentsInlineCmd.label "Vis vedlegg innbunde">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "V">
 
 <!-- LOCALIZATION NOTE :
@@ -297,7 +297,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Tilbake">
-<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY goBackCmd.accesskey "T">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
@@ -309,6 +309,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Melding">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Arkiv">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Svar">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key  "r">
@@ -416,10 +419,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY runJunkControls.accesskey "r">
 <!ENTITY deleteJunk.label "Slett all uønskt e-post i denne mappa">
 <!ENTITY deleteJunk.accesskey "S">
-<!ENTITY errorConsoleCmd.label "Feillogg">
+<!ENTITY errorConsoleCmd.label "Feilmeldingar">
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY filtersCmd.label "Meldingsfilter …">
-<!ENTITY filtersCmd.accesskey "f">
+<!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Køyr filter på mappe">
 <!ENTITY filtersApply.accesskey "K">
 <!ENTITY filtersApplyToSelection.label "Køyr filter på valde meldingar">
@@ -447,7 +450,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Uønskt">
 <!ENTITY notJunkButton.label "Ønskt">
 <!ENTITY addressBookButton.label "Adressebok">
-<!ENTITY searchItem.title "Hurtigsøk">
+<!ENTITY searchItem.title "Snøggsøk">
 <!ENTITY mailViewsToolbarItem.title "Meldingsoversyn">
 <!ENTITY folderLocationToolbarItem.title "Mappeplassering">
 <!ENTITY tagButton.label "Merkelapp">
@@ -457,7 +460,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY advancedButton.tooltip "Avansert meldingssøk">
 <!ENTITY getMsgButton.tooltip "Hent nye meldingar">
 <!ENTITY getAllNewMsgCmd.label "Hent alle nye meldingar">
-<!ENTITY getAllNewMsgCmd.accesskey "G">
+<!ENTITY getAllNewMsgCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Skriv ny melding">
 <!ENTITY replyButton.tooltip "Svar til avsendar">
@@ -514,7 +517,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "r">
 <!ENTITY folderContextMarkMailFolderRead.label "Merk mappe som lesen">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
-<!ENTITY folderContextSubscribe.label "Abonner …">
+<!ENTITY folderContextSubscribe.label "Meld inn …">
 <!ENTITY folderContextSubscribe.accesskey "M">
 <!ENTITY folderContextSearchMessages.label "Søk i meldingar …">
 <!ENTITY folderContextSearchMessages.accesskey "S">
@@ -556,8 +559,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY receivedColumn.label "Mottatt">
 <!ENTITY starredColumn.label "Stjerne">
 <!ENTITY locationColumn.label "Plassering">
-<!ENTITY idColumn.label "Rekkjefølgje motteken">
-<!ENTITY attachmentColumn.label "Vedlegg-status">
+<!ENTITY idColumn.label "Mottaksrekkjefølgje">
+<!ENTITY attachmentColumn.label "Vedlegg">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Trykk her for å velje kolonner du vil vise">
@@ -585,7 +588,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.label "Opne melding i nytt vindauge">
 <!ENTITY contextOpenNewWindow.accesskey "O">
 <!ENTITY contextOpenNewTab.label "Opne melding i ny fane">
-<!ENTITY contextOpenNewTab.accesskey "f">
+<!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextEditAsNew.label "Rediger som ny …">
 <!ENTITY contextEditAsNew.accesskey "R">
 <!ENTITY contextReplySender.label "Svar til avsendar">
@@ -614,7 +617,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Uønskt">
 <!ENTITY junkBarButton1.label "Ønskt">
-<!ENTITY junkInfoButton.label "Informasjon">
+<!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Av personvernomsyn er eksterne bilete blokkerte.">
@@ -651,9 +654,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Lagre lenkje som …">
-<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveLinkAsCmd.accesskey "r">
 <!ENTITY saveImageAsCmd.label "Lagre biletet som …">
-<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY saveImageAsCmd.accesskey "a">
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Merk alt">
@@ -661,7 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.label "Kopier lenkjeadresse">
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageCmd.label "Kopier bileteplassering">
-<!ENTITY copyImageCmd.accesskey "d">
+<!ENTITY copyImageCmd.accesskey "t">
 <!ENTITY copyEmailCmd.label "Kopier e-postadresse">
 <!ENTITY copyEmailCmd.accesskey "e">
 

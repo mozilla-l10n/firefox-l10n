@@ -112,9 +112,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Stavekontroll medan du skriv">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd.label "Stavekontroll">
-<!ENTITY checkSpellingCmd.accesskey "S">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Kontroller staving">
+<!ENTITY checkSpellingCmd2.accesskey "K">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Kontroller HTML">
 <!ENTITY validateCmd.accesskey "K">
 
@@ -252,8 +252,8 @@
 <!ENTITY tableOrCellColor.label "Bakgrunnsfarge for tabell eller celle …">
 <!ENTITY tableOrCellColor.accesskey "B">
 
-<!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveStyles.key "y">
+<!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Fjern namngjevne anker">
 <!ENTITY formatRemoveNamedAnchors.accesskey "n">
 <!ENTITY formatRemoveNamedAnchors.key "A">

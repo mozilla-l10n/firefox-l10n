@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "For å ta i mot meldingar må du først lage ein nyhende- eller e-postkonto.">
+<!ENTITY accountSetupInfo.label "For å ta i mot meldingar må du først opprette ein konto.">
 <!ENTITY accountTypeTitle.label "Innstillingar for ny konto">
-<!ENTITY accountTypeDesc.label "Denne vegvisaren vil samle saman informasjon som trengst for å setje opp ein nyhende- eller e-postkonto. Om du ikkje har denne informasjonen, kan du ta kontakt med systemansvarleg eller internett-leverandøren din.">
+<!ENTITY accountTypeDesc.label "Denne vegvisaren vil samle saman informasjon som trengst for å setje opp ein ny konto. Om du ikkje har denne informasjonen, må du kontakte med systemansvarleg eller internett-leverandøren din.">
 <!ENTITY accountTypeDirections.label "Vel kontotype">
 <!ENTITY accountTypeMail.label "E-post">
 <!ENTITY accountTypeMail.accesskey "E">
@@ -17,7 +17,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitet">
-<!ENTITY identityDesc.label "Kvar konto har ein identitet. Dette er den informasjonen som gjer at andre kan kjenne deg att når dei får ei melding frå deg.">
+<!ENTITY identityDesc.label "Kvar konto har sin eigen identitet. Dette er den informasjonen som gjer at andre kan kjenne deg att når dei får ei melding frå deg.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Skriv inn namnet du ønskjer skal stå i «Frå»-feltet på meldingane du sender">
@@ -25,7 +25,7 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(til dømes «Anne Knutsdotter»)">
+<!ENTITY fullnameExample.label "(til dømes «Ola Nordmann»)">
 <!ENTITY fullnameLabel.label "Namnet ditt:">
 <!ENTITY fullnameLabel.accesskey "N">
 
@@ -37,11 +37,11 @@
 <!ENTITY serverTitle.label "Tenarinformasjon">
 <!ENTITY incomingServerTypeDesc.label "Vel kva for type e-posttenar du nyttar for å hente e-post.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Skriv inn namnet på tenaren du hentar e-posten din frå (POP/IMAP-tenar, til dømes pop.døme.no).">
+<!ENTITY incomingServerNameDesc.label "Skriv inn namnet på tenaren du hentar e-posten frå (POP/IMAP-tenar, til dømes pop.døme.no).">
 <!ENTITY incomingServerLabel.label "Innkomande tenar:">
 <!ENTITY incomingServerLabel.accesskey "k">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Skriv inn namnet på nyhendetenaren din (NNTP-tenar, til dømes «nyhende.døme.no»).">
+<!ENTITY newsServerNameDesc.label "Skriv inn namnet på nyhendegruppetenaren din (NNTP-tenar, til dømes «nyhende.døme.no»).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Skriv inn namnet på tenaren du nyttar for å sende e-post (SMTP-tenar, til dømes «smtp.døme.no»).">
 <!ENTITY smtpServerLabel.label "Utgåande tenar:">
@@ -59,15 +59,15 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Den valde utgåande tenaren din (SMTP), «">
-<!ENTITY haveSmtp1.suffix "» vert nytta. Du kan endre innstillingane for utgåande tenar ved å velje Kontoinnstillingar frå Rediger-menyen .">
+<!ENTITY haveSmtp1.prefix "Den noverande utgåande tenaren din (SMTP), «">
+<!ENTITY haveSmtp1.suffix "» vil bli brukt. Du kan endre innstillingane for utgåande tenar ved å velje Kontoinnstillingar frå Verktøy-menyen .">
 
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Brukarnamn">
 <!ENTITY usernameDesc.label "Skriv inn brukarnamnet du har fått frå e-postleverandøren din for å hente e-post">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(til dømes «aknutsdotter»)">
+<!ENTITY usernameExample.label "(til dømes «onordmann»)">
 <!ENTITY usernameLabel.label "Innkomande brukarnamn:">
 <!ENTITY usernameLabel.accesskey "k">
 <!ENTITY usernameSmtpDesc.label "Skriv inn brukarnamnet du har fått frå e-postleverandøren din for å sende e-post (dette er vanlegvis det same som innkomande brukarnamn).">
@@ -78,13 +78,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Det valde utgåande (SMTP-) brukarnamnet ditt, «">
-<!ENTITY haveSmtp2.suffix "» vert nytta. Du kan endre innstillingane for utgåande tenar ved å velje Kontoinnstillingar frå Rediger-menyen.">
+<!ENTITY haveSmtp2.suffix "» vil bli brukt. Du kan endre innstillingane for utgåande tenar ved å velje Kontoinnstillingar frå Verktøy-menyen.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Den utgåande (SMTP-) tenaren din, «">
-<!ENTITY haveSmtp3.suffix "» er identisk med den innkomande tenaren, og det innkomande brukarnamnet ditt vert nytta for å få tilgjenge til han. Du kan endre utgåande tenar ved å velje Kontoinnstillingar frå Rediger-menyen.">
+<!ENTITY haveSmtp3.suffix "» er identisk med den innkomande tenaren, og det innkomande brukarnamnet ditt vil bli brukt for å få tilgang til han. Du kan endre utgåande tenar ved å velje Kontoinnstillingar frå Verktøy-menyen.">
 
 <!-- Entities for Account name page -->
 
@@ -97,13 +97,14 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Gratulerer!">
-<!ENTITY completionText.label "Kontroller at informasjonen under er rett.">
+<!ENTITY completionText.label "Kontroller at informasjonen nedanfor er rett.">
 <!ENTITY serverTypePrefix.label "Type:">
 <!ENTITY serverNamePrefix.label "Innkomande tenar:">
 <!ENTITY smtpServerNamePrefix.label "Utgåande tenar (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nyhendetenar (NNTP):">
 <!ENTITY downloadOnLogin.label "Last ned meldingar no">
-<!ENTITY deferStorageDesc.label "Fjern krysset frå boksen om du ønskjer å lagre e-post i eiga mappe. Det vil gjere at kontoen vert synleg i mappelista (toppnivå-konto). Viss det er kryssa av vert kontoen ein del av «Lokale mapper» (global Innboks-konto).">
+<!ENTITY downloadOnLogin.accesskey "L">
+<!ENTITY deferStorageDesc.label "Fjern krysset frå denne boksen for å lagre e-post i eiga mappe. Det vil gjere at kontoen vert synleg i mappelista. Dersom det er kryssa av vil kontoen verte ein del av «Lokale mapper».">
 <!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i «Lokale mapper»)">
 <!ENTITY deferStorage.accesskey "B">
 <!ENTITY clickFinish.label "Trykk Fullfør for å opprette kontoen og late att vegvisaren.">
