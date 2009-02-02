@@ -1,0 +1,15 @@
+<!ENTITY content.title                             "Conținut">
+<!ENTITY permissions.default.image.title           "Încarcă imaginile">
+<!ENTITY permissions.default.image.description     "Face saiturile mai atractive">
+<!ENTITY javascript.enabled.title                  "Activează Javascript">
+<!ENTITY javascript.enabled.description            "Face saiturile interactive">
+<!ENTITY plugins.enabled.title                     "Activează modulele">
+<!ENTITY plugins.enabled.description               "Face saiturile supărătoare">
+<!ENTITY privacy.title                             "Intimitate și securitate">
+<!ENTITY network.cookie.cookieBehavior.title       "Salvează cookie-urile">
+<!ENTITY network.cookie.cookieBehavior.description "Delicatese delicioase">
+<!ENTITY clear.private.data.title                  "Curăță datele private">
+<!ENTITY clear.private.data.button                 "Curăță…">
+<!ENTITY clear.private.data.description            "Vă acoperă spatele">
+<!ENTITY signon.rememberSignons.title              "Salvează parolele">
+<!ENTITY signon.rememberSignons.description        "Veți tasta mai puțin">
