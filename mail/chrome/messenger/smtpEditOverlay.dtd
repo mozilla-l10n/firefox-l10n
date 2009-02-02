@@ -1,4 +1,4 @@
-﻿<!ENTITY settings.caption "Налаштування">
+<!ENTITY settings.caption "Налаштування">
 <!ENTITY security.caption "Безпека і аутентифікація">
 <!ENTITY serverName.label "Ім’я сервера:">
 <!ENTITY serverName.accesskey "І">
