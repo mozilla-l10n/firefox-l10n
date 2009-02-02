@@ -352,6 +352,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "ย่อ-ขยาย">
 <!ENTITY fullZoom.accesskey "ข">
 
+<!ENTITY newTabButton.tooltip  "เปิดแท็บใหม่">
 <!ENTITY newWindowButton.tooltip "เปิดหน้าต่างใหม่">
 <!ENTITY sidebarCloseButton.tooltip "ปิดแถบข้าง">
 
