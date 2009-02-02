@@ -45,22 +45,28 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Import">
-<!ENTITY importDialog.allTitle    "Importer alt">
-<!ENTITY importDialog.mailTitle   "E-post">
-<!ENTITY importDialog.addressbookTitle "Adressebøker">
-<!ENTITY importDialog.settingsTitle "Innstillingar">
-<!ENTITY importDialog.filtersTitle "Filter">
+<!ENTITY importAll.label          "Import alt">
+<!ENTITY importAll.accesskey      "a">
+<!ENTITY importMail.label         "E-post">
+<!ENTITY importMail.accesskey     "E">
+<!ENTITY importAddressbook.label  "Adressebøker">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Innstillingar">
+<!ENTITY importSettings.accesskey "I">
+<!ENTITY importFilters.label      "Filter">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "&brandShortName; E-postimportvegvisar">
+<!ENTITY importTitle.label        "&brandShortName; E-post importvegvisar">
 <!ENTITY importShortDesc.label    "Importer e-post, adressebøker, innstillingar og filter frå andre program">
 
-<!ENTITY importDescription1.label "Denne vegvisaren vil importere e-postmeldingar, oppføringar i adressebøker, innstillingar og/eller filter frå andre e-postprogram og vanlege adressebokformat til &brandShortName;.">
+<!ENTITY importDescription1.label "Denne vegvisaren hjelper deg å importere e-post, adressebøker, innstillingar og/eller filter frå andre e-postprogram og vanlege adressebokformat til &brandShortName;.">
 <!ENTITY importDescription2.label "Når dei er importerte, vil du kunne bruke dei i &brandShortName; e-post og nyhendegrupper og/eller adressebok.">
 
 <!ENTITY selectDescription.label  "Vel filtypen du ønskjer å importere:">
+<!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label               "&lt; Tilbake">
 <!ENTITY forward.label            "Neste &gt;">
@@ -72,8 +78,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY title.label              "Tittel">
 <!ENTITY processing.label         "Importerer …">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har ei postadresse for kvart kort, medan &brandShortName; har to (heim og adresse)">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har ei postadresse for kvart kort, medan &brandShortName; har to (heime og arbeid)">
 <!ENTITY FieldDiscInputText2.label  "Vel kategorien som du vil lagre dei importerte e-postadressene i:">
 <!ENTITY FieldDiscWarning.label  "Denne kategorien vil bli brukt for alle elementa i den valde adresseboka:">
-<!ENTITY importDialog.homeTitle  "Heim">
-<!ENTITY importDialog.workTitle  "Arbeid">
+<!ENTITY importHome.label        "Heime">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "Arbeid">
+<!ENTITY importWork.accesskey    "W">

@@ -43,7 +43,7 @@
 <!ENTITY generalInfo.label                       "Generell informasjon">
 <!ENTITY folderCharsetTab.label                  "Standard teiknkoding">
 <!ENTITY folderCharsetTab.accesskey              "S">
-<!ENTITY folderCharsetOverride.label             "Bruk standard for alle meldingar i mappa (teiknkodingar og auto-detekterte teiknkodingar individuelle meldingar vil ikkje verte ignorerte)">
+<!ENTITY folderCharsetOverride.label             "Bruk standard for alle meldingar i mappa (dette vil ikkje verke inn på teiknkoding til enkeltmeldingar og auto-detekterte teiknkodingar)">
 <!ENTITY folderCharsetOverride.accesskey         "B">
 <!ENTITY folderRebuildSummaryFile.label          "Bygg opp på nytt">
 <!ENTITY folderRebuildSummaryFile.accesskey      "o">
@@ -54,15 +54,19 @@
 <!ENTITY retentionUseDefault.accesskey "B">
 <!ENTITY daysOld.label "dagar gamle">
 <!ENTITY message.label "meldingar">
-<!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldingar slettast permanent">
+<!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldingar slettast permanent.">
+<!ENTITY retentionCleanupImap.label "For å redde diskplass, kan gamle meldingar verte permanent sletta, både lokale kopiar og originalar på ekstern tenar.">
+<!ENTITY retentionCleanupPop.label "For å redde diskplass, kan gamle meldingar verte permanent sletta, både lokale kopiar og originalar på ekstern tenar.">
 <!ENTITY retentionDeleteMsg.label "Slett meldingar eldre enn">
-<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikkje slett meldingar">
 <!ENTITY retentionKeepAll.accesskey "I">
 <!ENTITY retentionKeepNew.label "Slett alle med unntak av dei siste">
 <!ENTITY retentionKeepNew.accesskey "S">
-<!ENTITY retentionKeepUnread.label "Alltid slett lesne meldingar">
-<!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY retentionKeepUnread.label "Slett alltid lesne meldingar">
+<!ENTITY retentionKeepUnread.accesskey "a">
+<!ENTITY retentionApplyToFlagged.label "Ta alltid vare på meldingar merkt med stjerne">
+<!ENTITY retentionApplyToFlagged.accesskey "d">
 
 <!ENTITY folderOfflineTab.label                  "Fråkopla">
 <!ENTITY folderCheckForNewMessages.label         "Sjå etter nye meldingar for denne mappa">
@@ -84,8 +88,8 @@
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Deling">
-<!ENTITY privileges.button.label                 "Privilegium …">
-<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY privileges.button.label                 "Løyve …">
+<!ENTITY privileges.button.accesskey             "L">
 <!ENTITY permissionsDesc.label                   "Du har følgjande løyve:">
 <!ENTITY folderType.label                        "Mappetype:">
 

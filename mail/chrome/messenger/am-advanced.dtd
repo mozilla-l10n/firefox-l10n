@@ -4,20 +4,20 @@
 <!ENTITY smtpServer.label "Innstillingar for utgåande SMTP-tenar">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Berre ein utgåande SMTP-tenar treng å vere oppgjeve, sjølv om du har fleire e-postkontoar. Skriv inn namnet på tenaren du vil bruke for utgåande meldingar.">
+<!ENTITY smtpDesc.label "Du treng berre å velje ein SMTP-tenar, sjølv om du har fleire e-postkontoar. Skriv inn namnet på tenaren du vil bruke for utgåande meldingar.">
 
 <!ENTITY smtpListAdd.label  "Legg til …">
 <!ENTITY smtpListAdd.accesskey  "L">
-<!ENTITY smtpListEdit.label "Endre …">
-<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListEdit.label "Rediger …">
+<!ENTITY smtpListEdit.accesskey "R">
 <!ENTITY smtpListDelete.label "Slett">
 <!ENTITY smtpListDelete.accesskey "S">
 <!ENTITY smtpListSetDefault.label "Vel standard">
-<!ENTITY smtpListSetDefault.accesskey "a">
+<!ENTITY smtpListSetDefault.accesskey "e">
 
 <!ENTITY serverDescription.label "Forklaring: ">
 <!ENTITY serverName.label "Tenarnamn: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Brukarnamn: ">
-<!ENTITY useSecureConnection.label   "Trygg tilkopling: ">
+<!ENTITY connectionSecurity.label "Tilkoplings-sikkerheit: ">
 <!ENTITY useSecureAuthentication.label   "Trygg autentiering: ">
