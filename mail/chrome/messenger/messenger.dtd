@@ -570,7 +570,6 @@
 <!ENTITY bringAllToFront.label "Помістити все на передній план">
 <!ENTITY zoomWindow.label "Розвернути вікно">
 
-<!-- FIXME: localize -->
 <!ENTITY AddDirectlyToAddressBook.accesskey "а">
 <!ENTITY AddDirectlyToAddressBook.label "Додати до адресної книги">
 <!ENTITY CreateFilterFrom.accesskey "ф">
@@ -698,3 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Архів">
 <!ENTITY redoMarkAllCmd.label "Повторити помітку всіх як прочитаних">
 <!ENTITY undoMarkAllCmd.label "Скасувати помітку всіх як прочитаних">
+
+<!-- FIXME : localize -->
+<!ENTITY activitymanager.accesskey "a">
+<!ENTITY activitymanager.label "Activity Manager">
