@@ -20,7 +20,7 @@
     <strong>www</strong>.example.com</li>
   <li>إن كنت غير قادر على تحميل أي صفحة، تحقق من اتصال جهازك بالشبكة.
    </li>
-  <li>إن كان جهازك أو شبكتك محميًا بجدار نار أو خادوم وسيط، تأكّد من السماح لـ 
+  <li>إن كان جهازك أو شبكتك محميًا بجدار نار أو خادوم وسيط، تأكّد من السماح ل‍ 
     &brandShortName; بالوصول إلى الوب.</li>
 </ul>
 ">
@@ -34,9 +34,9 @@
 ">
 
 
-<!ENTITY generic.title "أوبس">
+<!ENTITY generic.title "أخ!">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; لا يمكنه تحميل هذه الصفحة لسبب ما.</p>
+<p>لا يستطيع &brandShortName; تحميل هذه الصفحة لسبب ما.</p>
 ">
 
 <!ENTITY malformedURI.title "العنوان غير صالح">
