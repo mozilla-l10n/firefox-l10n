@@ -409,6 +409,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "x">
 <!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "Activiteitsbeheerder">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "E-mail &amp; nieuwsgroepen">
 <!ENTITY messengerCmd.accesskey "E">
 <!ENTITY messengerCmd.commandkey "1">
