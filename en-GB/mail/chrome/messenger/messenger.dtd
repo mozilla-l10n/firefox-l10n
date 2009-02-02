@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "Redo Move Message">
 <!ENTITY undoCopyMsgCmd.label "Undo Copy Message">
 <!ENTITY redoCopyMsgCmd.label "Redo Copy Message">
+<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
+<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
 <!ENTITY undoDefaultCmd.label "Undo">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "Redo">
@@ -307,6 +309,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Message">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Reply">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "r">
@@ -404,6 +409,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "Activity Manager">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
