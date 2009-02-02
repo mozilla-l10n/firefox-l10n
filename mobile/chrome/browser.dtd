@@ -1,0 +1,62 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "Înapoi">
+<!ENTITY back.tooltip          "Înapoi">
+<!ENTITY forward.label         "Înainte">
+<!ENTITY forward.tooltip       "Înainte">
+<!ENTITY reload.label          "Reîncarcă">
+<!ENTITY reload.tooltip        "Reîncarcă">
+<!ENTITY stop.label            "Oprește">
+<!ENTITY stop.tooltip          "Oprește">
+<!ENTITY search.label          "Caută">
+<!ENTITY search.tooltip        "Caută">
+<!ENTITY go.label              "Du-te">
+<!ENTITY go.tooltip            "Du-te">
+<!ENTITY openLocation.label    "Deschide adresa">
+<!ENTITY openLocation.tooltip  "Deschide adresa">
+<!ENTITY star.label            "Steluță">
+<!ENTITY star.tooltip          "Pune un semn la pagină">
+<!ENTITY bookmarks.label       "Semne de carte">
+<!ENTITY bookmarks.tooltip     "Vezi semnele de carte">
+
+<!ENTITY newtab.label          "Filă nouă">
+<!ENTITY closetab.label        "Închide fila">
+
+<!ENTITY cut.label             "Taie">
+<!ENTITY copy.label            "Copiază">
+<!ENTITY copylink.label        "Copiază adresa legăturii">
+<!ENTITY paste.label           "Lipește">
+<!ENTITY delete.label          "Șterge">
+<!ENTITY selectAll.label       "Selectează tot">
+<!ENTITY noSuggestions.label   "(Nicio sugestie)">
+<!ENTITY addToDictionary.label "Adaugă la dicționar">
+
+<!ENTITY editBookmarkName.label    "Nume:">
+<!ENTITY editBookmarkURI.label     "Adresă:">
+<!ENTITY editBookmarkTags.label    "Etichete:">
+<!ENTITY bookmarkRemove.label      "Șterge semnul de carte">
+<!ENTITY editBookmarkDone.label    "Gata">
+
+<!ENTITY findOnCmd.label     "Caută în această pagină...">
+<!ENTITY findOnCmd.accesskey "C">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Caută din nou">
+<!ENTITY findAgainCmd.accesskey "C">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "Acest sait web nu oferă informații despre identitatea sa.">
+<!ENTITY identity.connectedTo "Sunteți conectat la">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "care este menținut de">
