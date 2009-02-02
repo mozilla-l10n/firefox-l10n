@@ -47,7 +47,7 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY identity.unverifiedsite2 "لا يزوّد موقع الوب هذا معلومات تعريفية.">
-<!ENTITY identity.connectedTo "أنت متصل بـ">
+<!ENTITY identity.connectedTo "تتصل ب‍">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
