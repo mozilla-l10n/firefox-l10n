@@ -2,9 +2,15 @@
 
 <!ENTITY  pref.history.caption              "Nettleserhistorikk">
 <!ENTITY  historyPages.label                "Nettleseren holder oversikt over sidene du har besøkt i det siste.">
-<!ENTITY  pageHis.label                     "Husk sider besøkt de siste">
-<!ENTITY  pageHis.accesskey                 "s">
-<!ENTITY  days.label                        "dagene">
+<!ENTITY  expireDaysMin1.label              "Alltid husk besøkte nettsider minst">
+<!ENTITY  expireDaysMin1.accesskey          "A">
+<!ENTITY  expireDaysMin2.label              "dager">
+<!ENTITY  expireDays1.label                 "Husk besøkte nettsider for opptil">
+<!ENTITY  expireDays1.accesskey             "H">
+<!ENTITY  expireDays2.label                 "dager">
+<!ENTITY  expireSites1.label                "Husk inntil">
+<!ENTITY  expireSites1.accesskey            "u">
+<!ENTITY  expireSites2.label                "besøkte nettsider">
 <!ENTITY  clearHistory.label                "Tøm">
 <!ENTITY  clearHistory.accesskey            "T">
 

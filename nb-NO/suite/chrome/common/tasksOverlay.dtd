@@ -12,6 +12,7 @@
 
 <!ENTITY errorConsoleCmd.label                                  "Feilkonsoll">
 <!ENTITY errorConsoleCmd.accesskey				"F">
+<!ENTITY errorConsoleCmd.commandkey				"j">
 
 <!ENTITY taskNavigator.tooltip  "Nettleser">
 <!ENTITY taskComposer.tooltip  "Nettsideutvikler">
@@ -24,6 +25,15 @@
 
 <!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "e"> 
+
+<!ENTITY passwordManagerCmd.label "Passordbehandling">
+<!ENTITY passwordManagerCmd.accesskey "P">
+
+<!ENTITY passwordDisplayCmd.label "Behandle lagrede passord">
+<!ENTITY passwordDisplayCmd.accesskey "e">
+
+<!ENTITY passwordExpireCmd.label "Logg ut">
+<!ENTITY passwordExpireCmd.accesskey "u">
 
 <!ENTITY downloadManagerCmd.label "Nedlastinger">
 <!ENTITY downloadManagerCmd.accesskey "N">

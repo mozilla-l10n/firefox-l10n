@@ -8,8 +8,20 @@
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Vis en liste med resultater">
 <!ENTITY autoCompleteShowPopup.accesskey       "V">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Bare pass til nettsider du har manuelt skrevet inn før">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Bare sammenlign med nettsider du har manuelt skrevet inn før">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "B">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Bare sammenlign med adresser, ikke nettsidetitler">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "a">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "Sammenlign med">
+<!ENTITY autoCompleteMatch.accesskey           "S">
+<!ENTITY autoCompleteMatchAnywhere             "Hvor som helst i adressen eller tittelen">
+<!ENTITY autoCompleteMatchWordsFirst           "Hvor som helst, men foretrekk starten/slutten av ord">
+<!ENTITY autoCompleteMatchWords                "Bare på starten/slutten av ord">
+<!ENTITY autoCompleteMatchStart                "Bare på starten av adressene eller titlene">
 
 <!ENTITY searchEngine.label                    "Internett-søkemotor">
 <!ENTITY showSearchEngine.label                "Vis standard søkemotor">

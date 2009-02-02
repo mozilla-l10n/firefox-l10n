@@ -154,6 +154,7 @@
 <!ENTITY  bookmarksButton.label       "Bokmerker">
 <!ENTITY  bookmarksButton.tooltip     "Bokmerkeliste">
 <!ENTITY  homeButton.label            "Hjem">
+<!ENTITY  bookmarksToolbarItem.label  "Elementer i bokmerkeverktøylinje">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Fullført">

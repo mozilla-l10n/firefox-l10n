@@ -116,5 +116,5 @@
 
 <!ENTITY bookmarksWindowTitle.label     "Bokmerkebehandling">
 
-<!ENTITY search.label                     "Søk">
-<!ENTITY search.accesskey                 "S">
+<!ENTITY search.emptytext               "Søk i bokmerker">
+<!ENTITY search.key                     "f">

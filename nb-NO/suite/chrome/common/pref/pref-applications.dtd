@@ -7,5 +7,4 @@
 <!ENTITY actionColumn2.label     "Handling">
 <!ENTITY actionColumn2.accesskey "H">
 
-<!ENTITY filter.label            "Søk:">
-<!ENTITY filter.accesskey        "S">
+<!ENTITY search.emptytext        "Søk i typer og handlinger">
