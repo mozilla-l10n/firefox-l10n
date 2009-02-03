@@ -411,6 +411,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY tasksMenu.accesskey "O">
 <!ENTITY addons.label "Modules complémentaires">
 <!ENTITY addons.accesskey "c">
+<!ENTITY activitymanager.label "Activités">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Courrier et groupes">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
