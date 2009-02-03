@@ -41,7 +41,7 @@
 <!ENTITY folderProps.windowtitle.label           "Egenskaper">
 
 <!ENTITY generalInfo.label                       "Generell informasjon">
-<!ENTITY folderCharsetTab.label                  "Standard tegnkoding">
+<!ENTITY folderCharsetTab.label                  "Standard tegnkoding:">
 <!ENTITY folderCharsetTab.accesskey              "S">
 <!ENTITY folderCharsetOverride.label             "Bruk standarder for alle meldinger i mappen (individuelle meldingers tegnkodinger og auto-detekterte tegnkodinger vil ikke bli rørt)">
 <!ENTITY folderCharsetOverride.accesskey         "B">
@@ -55,6 +55,8 @@
 <!ENTITY daysOld.label "dager gammel">
 <!ENTITY message.label "meldingene">
 <!ENTITY retentionCleanup.label "Behold:">
+<!ENTITY retentionCleanupImap.label "Behold meldinger, både lokale kopier og originalene på tjeneren:">
+<!ENTITY retentionCleanupPop.label "Behold meldinger, også originalene på tjeneren:">
 <!ENTITY retentionDeleteMsg.label "Slett meldinger eldre enn">
 <!ENTITY retentionDeleteMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
@@ -63,6 +65,8 @@
 <!ENTITY retentionKeepNew.accesskey "S">
 <!ENTITY retentionKeepUnread.label "Alltid slett leste meldinger">
 <!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY retentionApplyToFlagged.label "Alltid behold flaggede meldinger">
+<!ENTITY retentionApplyToFlagged.accesskey "d">
 
 <!ENTITY folderOfflineTab.label                  "Frakoblet">
 <!ENTITY folderCheckForNewMessages.label         "Se etter nye meldinger for denne mappen">

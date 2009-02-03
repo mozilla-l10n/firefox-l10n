@@ -291,8 +291,10 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Tilbake">
+<!ENTITY goBackCmd.accesskey "T">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Frem">
+<!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Flagget melding">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">

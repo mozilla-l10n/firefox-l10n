@@ -11,7 +11,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Meldinger mer enn">
 <!ENTITY nntpDownloadMsg.accesskey "L">
-<!ENTITY retentionCleanup.label "For å frigi diskplass kan gamle meldinger bli slettet">
+<!ENTITY retentionCleanup.label "For å frigi diskplass kan gamle meldinger slettes">
+<!ENTITY retentionCleanupImap.label "For å frigi diskplass kan gamle meldinger slettes, både lokale kopier og originalene på e-posttjeneren.">
+<!ENTITY retentionCleanupPop.label "For å frigi diskplass kan gamle meldinger slettes, inkludert originalene som ligger på e-posttjeneren.">
 <!ENTITY retentionKeepMsg.label "Slett meldinger mer enn">
 <!ENTITY retentionKeepMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
@@ -20,6 +22,8 @@
 <!ENTITY retentionKeepNew.accesskey "a">
 <!ENTITY retentionKeepUnread.label "Alltid slett leste meldinger">
 <!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionApplyToFlagged.label "Alltid behold flaggede meldinger">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Fjern meldingsinnhold eldre enn">
 <!ENTITY nntpRemoveBody.accesskey "k">
 <!ENTITY offlineSelectNntp.label "Velg nyhetsgrupper som skal leses frakoblet">
