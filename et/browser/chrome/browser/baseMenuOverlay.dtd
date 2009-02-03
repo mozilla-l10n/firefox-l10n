@@ -29,7 +29,7 @@
 <!ENTITY helpReleaseNotes.label         "Väljalaskest">
 <!ENTITY helpReleaseNotes.accesskey     "V">
 <!ENTITY updateCmd.label                "Kontrolli uuendusi...">
-<!ENTITY updateCmd.accesskey            "K">
+<!ENTITY updateCmd.accesskey            "e">
 
 <!ENTITY preferencesCmdMac.label        "Eelistused...">
 <!ENTITY preferencesCmdMac.commandkey   ",">

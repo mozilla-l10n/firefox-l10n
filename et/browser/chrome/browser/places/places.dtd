@@ -2,16 +2,16 @@
 <!ENTITY places.library.title                     "Kogumik">
 <!ENTITY places.library.width                     "700">
 <!ENTITY places.library.height                    "500">
-<!ENTITY organize.label                           "Redigeeri">
+<!ENTITY organize.label                           "Redigeerimine">
 <!ENTITY organize.accesskey                       "R">
 
 <!ENTITY file.accesskey                           "F">
 <!ENTITY file.close.label                         "Sulge">
 <!ENTITY file.close.accesskey                     "S">
 <!ENTITY cmd.close.key                            "W">
-<!ENTITY edit.label                               "Redigeeri">
+<!ENTITY edit.label                               "Redigeerimine">
 <!ENTITY edit.accesskey                           "R">
-<!ENTITY views.label                              "Vaated">
+<!ENTITY views.label                              "Vaade">
 <!ENTITY views.accesskey                          "V">
 <!ENTITY view.toolbar.label                       "Tööriistariba">
 <!ENTITY view.toolbar.accesskey                   "T">
@@ -201,7 +201,7 @@
 
 <!ENTITY view.addons.label                        "Tõmba vaatamise laiendusi">
 
-<!ENTITY maintenance.label                        "Impordi ja varunda">
+<!ENTITY maintenance.label                        "Importimine ja varundamine">
 <!ENTITY maintenance.accesskey                    "I">
 
 <!ENTITY backCmd.label                            "Tagasi">
