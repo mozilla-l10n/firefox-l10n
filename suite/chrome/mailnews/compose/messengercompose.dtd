@@ -83,9 +83,9 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "V">
 
-<!ENTITY checkSpellingCmd.label "Stavekontroller …">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "a">
+<!ENTITY checkSpellingCmd2.label "Kontroller staving …">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "a">
 <!ENTITY enableInlineSpellChecker.label "Stavekontroller mens du skriver">
 <!ENTITY enableInlineSpellChecker.accesskey "v">
 
