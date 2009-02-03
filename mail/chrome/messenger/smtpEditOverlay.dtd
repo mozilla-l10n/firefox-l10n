@@ -12,14 +12,11 @@
 <!ENTITY userName.accesskey "r">
 <!ENTITY useSecAuth.label "Bruk sikker autentisering">
 <!ENTITY useSecAuth.accesskey "u">
-<!ENTITY isSecure.label "Bruk trygg tilkopling (SSL):">
-<!ENTITY neverSecure.label "Nei">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, dersom tilgjengelig">
-<!ENTITY sometimesSTARTTLS.accesskey "A">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Tilkoplings-sikkerheit:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "Ingen">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, om tilgjengeleg">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Utgåande tenar">
 <!ENTITY serverPortDefault.label "Standard:">
