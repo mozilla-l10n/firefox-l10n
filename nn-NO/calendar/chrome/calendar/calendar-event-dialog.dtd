@@ -44,8 +44,6 @@
 
 <!ENTITY event.title.label                  "Endre hending" >
 
-<!ENTITY newevent.before.label              "før" >
-<!ENTITY newevent.after.label               "etter" >
 
 <!ENTITY newevent.from.label                "Frå" >
 <!ENTITY newevent.to.label                  "Til" >
@@ -280,7 +278,6 @@
 <!ENTITY event.recurrence.every.label                        "Kvar:" >
 <!ENTITY repeat.units.years.both                             "År" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Kvar" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Kvar" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -336,27 +333,6 @@
 <!ENTITY event.recurrence.appointments.label            "Avtala(r)" >
 <!ENTITY event.repeat.until.label                       "Gjenta til" >
 <!ENTITY event.recurrence.preview.label                 "Førehandsvising">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "minutt" >
-<!ENTITY alarm.units.hours                  "timar" >
-<!ENTITY alarm.units.days                   "dagar" >
-
-<!ENTITY reminder.title.label                           "Standard påminning">
-<!ENTITY reminder.dialogtitle.label                     "Still inn påminningar">
-<!ENTITY reminder.reminderDetails.label                 "Påminningsdetaljar">
-<!ENTITY reminder.action.label                          "Vel ei påminningshandling">
-<!ENTITY reminder.action.alert.label                    "Vis eit varsel">
-<!ENTITY reminder.action.email.label                    "Send ein e-post">
-<!ENTITY reminder.new.label                             "Ny">
-<!ENTITY reminder.delete.label                          "Slett">
-<!ENTITY reminder.relation.start.label                  "hendinga startar">
-<!ENTITY reminder.relation.end.label                    "hendinga sluttar">
-<!ENTITY reminder.add.label                             "Legg til">
-<!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "Fjern">
-<!ENTITY reminder.remove.accesskey                      "R">
-
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Inviter deltakarar">
