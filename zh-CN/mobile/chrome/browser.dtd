@@ -32,16 +32,17 @@
 <!ENTITY noSuggestions.label   "(无建议)">
 <!ENTITY addToDictionary.label "添加至字典">
 
-<!ENTITY bookmarkName.label    "名称:">
-<!ENTITY bookmarkFolder.label  "文件夹:">
-<!ENTITY bookmarkTags.label    "标签:">
-<!ENTITY bookmarkRemove.label  "移除书签">
+<!ENTITY editBookmarkName.label    "名称：">
+<!ENTITY editBookmarkURI.label     "地址：">
+<!ENTITY editBookmarkTags.label    "标签:">
+<!ENTITY bookmarkRemove.label      "移除书签">
+<!ENTITY editBookmarkDone.label    "完成">
 
 <!ENTITY findOnCmd.label     "在当前页查找…">
-<!ENTITY findOnCmd.accesskey "在">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "再次查找">
-<!ENTITY findAgainCmd.accesskey "再">
+<!ENTITY findAgainCmd.accesskey "G">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
