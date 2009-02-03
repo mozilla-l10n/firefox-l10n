@@ -45,7 +45,7 @@
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "kopi ">
 <!ENTITY bccField2.label "blindkopi">
-<!ENTITY newsgroupsField2.label "nyhendegruppe">
+<!ENTITY newsgroupsField2.label "nyhendegrupper">
 <!ENTITY followupToField2.label "oppfølging">
 <!ENTITY tagsHdr2.label "merkelappar">
 <!ENTITY dateField2.label "dato ">
@@ -57,6 +57,7 @@
 
 <!ENTITY editMessageDescription.label "Dette er eit meldingsutkast">
 <!ENTITY editMessageButton.label "Rediger …">
+<!ENTITY archiveButton.label "arkiver">
 <!ENTITY replyButton.label "svar …">
 <!ENTITY forwardButton.label "vidaresend …">
 <!ENTITY junkButton.label "merk som uønskt">
@@ -64,15 +65,15 @@
 
 <!ENTITY otherActionsButton.label "andre handlingar">
 <!ENTITY saveAsMenuItem.label "lagre som …">
-<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "vis kjeldekode …">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY viewSourceMenuItem.accesskey "k">
 
 <!ENTITY hideDetailsButton.label "skjul detaljar">
 <!ENTITY showDetailsButton.label "vis detaljar">
 
 <!ENTITY openAttachmentCmd.label    "Opne">
-<!ENTITY openAttachmentCmd.accesskey    "Å">
+<!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Lagre som …">
 <!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Splitt …">
