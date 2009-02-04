@@ -54,7 +54,9 @@
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY daysOld.label "dni">
 <!ENTITY message.label "najnowszych wiadomości">
-<!ENTITY retentionCleanup.label "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane">
+<!ENTITY retentionCleanup.label "Przechowuj wiadomości:">
+<!ENTITY retentionCleanupImap.label "Przechowuj zarówno oryginalne wiadomości na serwerze jak i ich lokalne kopie:">
+<!ENTITY retentionCleanupPop.label "Przechowuj wiadomości, włączając w to oryginalne wiadomości na serwerze:">
 <!ENTITY retentionDeleteMsg.label "Usuń wiadomości starsze niż">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Nie usuwaj żadnych wiadomości">
