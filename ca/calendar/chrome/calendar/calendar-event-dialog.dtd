@@ -43,9 +43,6 @@
 
 <!ENTITY event.title.label       "Edita l'element" >
 
-<!ENTITY newevent.before.label       "abans" >
-<!ENTITY newevent.after.label        "després" >
-
 <!ENTITY newevent.from.label         "Des de" >
 <!ENTITY newevent.to.label           "fins a" >
 <!ENTITY newevent.attendees.notify.label "Invita als assistents">
@@ -259,13 +256,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Cada" >
 <!ENTITY repeat.units.months.both        		"Mes/os" >
-<!ENTITY event.recurrence.the.label                     "El" >
-<!ENTITY event.recurrence.repeat.first.label            "Primer">
-<!ENTITY event.recurrence.repeat.second.label           "Segon">
-<!ENTITY event.recurrence.repeat.third.label            "Tercer">
-<!ENTITY event.recurrence.repeat.fourth.label           "Quart">
-<!ENTITY event.recurrence.repeat.fifth.label            "Cinquè">
-<!ENTITY event.recurrence.repeat.last.label             "Darrer ">
+<!ENTITY event.recurrence.monthly.every.label           "Cada" >
+<!ENTITY event.recurrence.monthly.first.label            "El primer">
+<!ENTITY event.recurrence.monthly.second.label           "El segon">
+<!ENTITY event.recurrence.monthly.third.label            "El tercer">
+<!ENTITY event.recurrence.monthly.fourth.label           "El quart">
+<!ENTITY event.recurrence.monthly.fifth.label            "El cinquè">
+<!ENTITY event.recurrence.monthly.last.label             "L'últim">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Diumenge" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Dilluns" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Dimarts" >
@@ -279,7 +276,6 @@
 <!ENTITY event.recurrence.every.label                   "Cada:" >
 <!ENTITY repeat.units.years.both         		"Any/s" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Cada" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Cada" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -302,12 +298,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Octubre" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "Novembre" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "Desembre" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "Primer">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "Segon">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "Tercer">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "Quart">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "Cinquè">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "Últim">
+<!ENTITY event.recurrence.yearly.every.label           "Cada" >
+<!ENTITY event.recurrence.yearly.first.label            "El primer">
+<!ENTITY event.recurrence.yearly.second.label           "El segon">
+<!ENTITY event.recurrence.yearly.third.label            "El tercer">
+<!ENTITY event.recurrence.yearly.fourth.label           "El quart">
+<!ENTITY event.recurrence.yearly.fifth.label            "El cinquè">
+<!ENTITY event.recurrence.yearly.last.label             "L'últim">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Diumenge" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Dilluns" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Dimarts" >
@@ -335,27 +332,6 @@
 <!ENTITY event.recurrence.appointments.label            "Cites" >
 <!ENTITY event.repeat.until.label                       "Es repeteixen fins" >
 <!ENTITY event.recurrence.preview.label                 "Visualització prèvia">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "minuts" >
-<!ENTITY alarm.units.hours                  "hores" >
-<!ENTITY alarm.units.days                   "dies" >
-
-<!ENTITY reminder.title.label                           "Recordatori personalitzat">
-<!ENTITY reminder.dialogtitle.label                     "Configura els recordatoris">
-<!ENTITY reminder.reminderDetails.label                 "Detalls del recordatori">
-<!ENTITY reminder.action.label                          "Escull una acció de recordatori">
-<!ENTITY reminder.action.alert.label                    "Mostra un avís">
-<!ENTITY reminder.action.email.label                    "Envia un missatge electrònic">
-<!ENTITY reminder.new.label                             "Nou">
-<!ENTITY reminder.delete.label                          "Suprimeix">
-<!ENTITY reminder.relation.start.label                  "de l'inici de la cita">
-<!ENTITY reminder.relation.end.label                    "de la fi de la cita">
-<!ENTITY reminder.add.label                             "Afegeix">
-<!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "Suprimeix">
-<!ENTITY reminder.remove.accesskey                      "S">
-
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label              "Invita assistents">
