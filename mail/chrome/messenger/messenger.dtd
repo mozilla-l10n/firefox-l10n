@@ -440,12 +440,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "P">
 <!ENTITY addons.label "Programos priedai">
 <!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "Veiklų tvarkytuvė">
+<!ENTITY activitymanager.accesskey "V">
 <!ENTITY messengerCmd.label "Paštas ir naujienų grupės">
 <!ENTITY messengerCmd.accesskey "P">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adresų knyga">  
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "Ieškoti šlamšto šiame aplanke">
 <!ENTITY runJunkControls.accesskey "m">
 <!ENTITY deleteJunk.label "Pašalinti laiškus, pažymėtus kaip šlamštą">
