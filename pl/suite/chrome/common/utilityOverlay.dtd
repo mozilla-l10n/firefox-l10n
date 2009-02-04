@@ -86,6 +86,9 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "k">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
+<!ENTITY customizeToolbarContext.label "Dostosuj…">
+<!ENTITY customizeToolbarContext.accesskey "C">
+
 <!ENTITY customizeToolbar.toolbarmode.label "Ustawienia dla tego paska narzędzi">
 <!ENTITY customizeToolbar.toolbarmode.accesskey "t">
 <!ENTITY customizeToolbar.iconsAndText.label "Ikony i tekst">

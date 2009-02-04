@@ -31,14 +31,6 @@
 <!ENTITY goButton.accesskey "I">
 <!ENTITY searchButton.label "Szukaj">
 <!ENTITY searchButton.accesskey "S">
-<!ENTITY printButton.label "Drukuj">
-<!ENTITY printButton.accesskey "k">
-
-<!ENTITY persToolbarIntro.label "Osobisty pasek narzędzi">
-<!ENTITY homeButton.label "Strona domowa">
-<!ENTITY homeButton.accesskey "d">
-<!ENTITY bookmarksButton.label "Zakładki">
-<!ENTITY bookmarksButton.accesskey "k">
 
 <!ENTITY defaultBrowserGroup.label "Domyślna przeglądarka">
 <!ENTITY defaultBrowserButton.label "Ustaw jako domyślną przeglądarkę">

@@ -154,6 +154,7 @@
 <!ENTITY bookmarksButton.label "Zakładki">
 <!ENTITY bookmarksButton.tooltip "Lista zakładek">
 <!ENTITY homeButton.label "Strona domowa">
+<!ENTITY bookmarksToolbarItem.label "Elementy paska zakładek">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Zakończono">
