@@ -47,7 +47,7 @@
 <!ENTITY manualMarkModeDelete.accesskey "U">
 
 <!ENTITY markAsRead.intro "Oznacz wiadomości jako przeczytane:">
-<!ENTITY autoMarkAsRead.label "Kiedy program &brandShortName; rozpozna wiadomości jako nieznane">
+<!ENTITY autoMarkAsRead.label "Kiedy program &brandShortName; rozpozna wiadomości jako niechciane">
 <!ENTITY autoMarkAsRead.accesskey "u">
 <!ENTITY manualMarkAsRead.label "W przypadku ręcznego oznaczenia ich jako niechciane">
 <!ENTITY manualMarkAsRead.accesskey "k">
