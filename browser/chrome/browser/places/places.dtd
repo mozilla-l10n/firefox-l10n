@@ -45,7 +45,7 @@
 <!ENTITY cmd.backup.label               "Reservekopi …">
 <!ENTITY cmd.backup.accesskey           "R">
 <!ENTITY cmd.restore2.label             "Still tilbake …">
-<!ENTITY cmd.restore2.accesskey         "G">
+<!ENTITY cmd.restore2.accesskey         "S">
 <!ENTITY cmd.restoreFromFile.label      "Vel fil …">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
@@ -178,7 +178,7 @@
 <!ENTITY advancedSearch.plus.label                 "+">
 <!ENTITY advancedSearch.minus.label                "-">
 <!ENTITY advancedSearch.groupby.label              "Gruppert etter: ">
-<!ENTITY advancedSearch.groupby_host.label         "vert">
+<!ENTITY advancedSearch.groupby_host.label         "tenar">
 <!ENTITY advancedSearch.groupby_domain.label       "domene">
 <!ENTITY advancedSearch.groupby_folder.label       "mappe">
 <!ENTITY advancedSearch.sortby.label               "Sortert etter: ">
@@ -215,6 +215,6 @@
 <!ENTITY detailsPane.more.label "Meir">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Mindre">
-<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.less.accesskey "i">
 <!ENTITY detailsPane.noPreviewAvailable.label "Førehandsvising">
 <!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil vise og redigere">
