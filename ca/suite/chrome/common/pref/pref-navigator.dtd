@@ -31,14 +31,6 @@
 <!ENTITY  goButton.accesskey        "s">
 <!ENTITY searchButton.label "Cerca">
 <!ENTITY  searchButton.accesskey    "r">
-<!ENTITY printButton.label "Imprimeix">
-<!ENTITY  printButton.accesskey     "p">
-
-<!ENTITY  persToolbarIntro.label    "Barra d'eines personal">
-<!ENTITY homeButton.label "Inici">
-<!ENTITY  homeButton.accesskey      "n">
-<!ENTITY bookmarksButton.label "Adreces d'interès">
-<!ENTITY  bookmarksButton.accesskey "c">
 
 <!ENTITY defaultBrowserGroup.label      "Navegador per defecte">
 <!ENTITY defaultBrowserButton.label     "Defineix com a navegador per defecte">
