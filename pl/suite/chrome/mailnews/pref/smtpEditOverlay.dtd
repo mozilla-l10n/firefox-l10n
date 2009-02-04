@@ -12,14 +12,11 @@
 <!ENTITY userName.accesskey "w">
 <!ENTITY useSecAuth.label "Używaj bezpiecznego uwierzytelniania">
 <!ENTITY useSecAuth.accesskey "i">
-<!ENTITY isSecure.label "Używaj połączenia szyfrowanego:">
-<!ENTITY neverSecure.label "Bez szyfrowania">
-<!ENTITY neverSecure.accesskey "n">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, jeśli dostępne">
-<!ENTITY sometimesSTARTTLS.accesskey "a">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP przez SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Bezpieczeństwo połączenia:">
+<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurityType-0.label "Bez szyfrowania">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, jeśli dostępne">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Serwer SMTP">
 <!ENTITY serverPortDefault.label "Domyślny:">
