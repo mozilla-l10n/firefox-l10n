@@ -408,6 +408,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "n">
 <!ENTITY addons.label "Complements">
 <!ENTITY addons.accesskey "m">
+<!ENTITY activitymanager.label "Gestor d'activitat">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Missatgeria">
 <!ENTITY messengerCmd.accesskey "M">
 <!ENTITY messengerCmd.commandkey "1">
