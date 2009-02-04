@@ -416,10 +416,8 @@
 <!ENTITY activitymanager.accesskey         "M">
 <!ENTITY messengerCmd.label                "Poczta i grupy dyskusyjne">
 <!ENTITY messengerCmd.accesskey            "P">
-<!ENTITY messengerCmd.commandkey           "1">
 <!ENTITY addressBookCmd.label              "Książka adresowa">
 <!ENTITY addressBookCmd.accesskey          "a">
-<!ENTITY addressBookCmd.commandkey         "2">
 <!ENTITY runJunkControls.label             "Rozpoznaj niechciane w bieżącym folderze">
 <!ENTITY runJunkControls.accesskey         "p">
 <!ENTITY deleteJunk.label                  "Usuń niechciane wiadomości z folderu">
