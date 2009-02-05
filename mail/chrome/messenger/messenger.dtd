@@ -412,12 +412,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "x">
 <!ENTITY addons.label "Add-ons…">
 <!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "Aktivitäten">
+<!ENTITY activitymanager.accesskey "k">
 <!ENTITY messengerCmd.label "&brandShortName;">
 <!ENTITY messengerCmd.accesskey "T">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adressbuch">
-<!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY runJunkControls.label "Junk-Filter auf Ordner anwenden">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Junk in diesem Ordner löschen">
