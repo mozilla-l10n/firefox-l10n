@@ -36,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey   "ف">
 <!ENTITY itemActiveLogins.label       "نشست‌های فعال">
 <!ENTITY itemActiveLogins.accesskey   "ن">
+<!ENTITY itemSiteSettings.label       "تنظیمات خاص وب‌گاه‌ها">
+<!ENTITY itemSiteSettings.accesskey   "ت">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">
