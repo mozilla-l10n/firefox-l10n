@@ -415,10 +415,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Courrier et groupes">
 <!ENTITY messengerCmd.accesskey "m">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "Traquer les indésirables dans le dossier">
 <!ENTITY runJunkControls.accesskey "q">
 <!ENTITY deleteJunk.label "Supprimer les indésirables de ce dossier">
