@@ -380,12 +380,12 @@
 <!ENTITY tasksMenu.accesskey "И">
 <!ENTITY addons.label "Дополнения">
 <!ENTITY addons.accesskey "Д">
+<!ENTITY activitymanager.label "Диспетчер работы">
+<!ENTITY activitymanager.accesskey "и">
 <!ENTITY messengerCmd.label "Почта и группы новостей">
 <!ENTITY messengerCmd.accesskey "п">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адресная книга">
 <!ENTITY addressBookCmd.accesskey "А">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "Запустить в папке анти-спам фильтры">
 <!ENTITY runJunkControls.accesskey "а">
 <!ENTITY deleteJunk.label "Удалить сообщения помеченные как спам">
