@@ -54,8 +54,8 @@
 <!ENTITY openingTarget     "Avec :">
 
 <!-- This is used when the download percentage is unknown -->
-<!ENTITY unknownSavingTitle  "Enregistrement #1">
-<!ENTITY unknownOpeningTitle "Ouverture #1">
+<!ENTITY unknownSavingTitle  "Enregistrement de #1">
+<!ENTITY unknownOpeningTitle "Ouverture de #1">
 
 <!-- Labels on other fields -->
 <!ENTITY status      "Statut :"> 
