@@ -68,23 +68,23 @@
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "u">
+<!ENTITY editRewrapCmd.accesskey "b">
 <!ENTITY deleteCmd.label "Löschen">
 <!ENTITY deleteCmd.accesskey "L">
 <!ENTITY selectAllCmd.label "Alles auswählen">
-<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.key "u">
 <!ENTITY selectAllCmd.accesskey "w">
 <!ENTITY findCmd.label "Suchen und ersetzen…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "S">
 <!ENTITY findAgainCmd.label "Weitersuchen">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "W">
+<!ENTITY findAgainCmd.accesskey "c">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Vorheriges suchen">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.accesskey "V">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ansicht">
@@ -96,7 +96,7 @@
 <!ENTITY showFormattingBarCmd.label "Formatierungsleiste">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statusleiste">
-<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY showTaskbarCmd.accesskey "u">
 <!ENTITY customizeToolbar.label "Anpassen…">
 <!ENTITY customizeToolbar.accesskey "A">
 

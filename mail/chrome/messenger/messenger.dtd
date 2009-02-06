@@ -4,13 +4,13 @@
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ordner…">
-<!ENTITY newFolderCmd.accesskey "O">
+<!ENTITY newFolderCmd.accesskey "d">
 <!ENTITY closeTabCmd.label "Tab schließen">
 <!ENTITY closeTabCmd.accesskey "s">
 <!ENTITY newVirtualFolderCmd.label "Virtueller Ordner…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newAccountCmd.label "Konto…">
-<!ENTITY newAccountCmd.accesskey "K">
+<!ENTITY newAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY openAttachmentCmd.label "Anhänge">
@@ -46,7 +46,7 @@
 <!ENTITY compactFolders.label "Alle Ordner des Kontos komprimieren">
 <!ENTITY compactFolders.accesskey		"k">
 <!ENTITY emptyTrashCmd.label "Papierkorb leeren">
-<!ENTITY emptyTrashCmd.accesskey		"l">
+<!ENTITY emptyTrashCmd.accesskey		"r">
 <!ENTITY importCmd.label "Importieren…">
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY offlineMenu.label "Offline">
