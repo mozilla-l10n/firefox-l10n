@@ -364,7 +364,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyHereMenu.label "In diesen Ordner kopieren">
 <!ENTITY copyHereMenu.accesskey "I">
 <!ENTITY tagMenu.label "Schlagwörter">
-<!ENTITY tagMenu.accesskey "r">
+<!ENTITY tagMenu.accesskey "ö">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -376,12 +376,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Markieren">
-<!ENTITY markMenu.accesskey "M">
+<!ENTITY markMenu.accesskey "r">
 <!ENTITY markAsReadCmd.label "Gelesen">
 <!ENTITY markAsReadCmd.accesskey "G">
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Thema gelesen">
-<!ENTITY markThreadAsReadCmd.accesskey "t">
+<!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Datumsbereich gelesen…">
 <!ENTITY markReadByDateCmd.accesskey "D">
@@ -390,7 +390,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Kennzeichnung">
-<!ENTITY markStarredCmd.accesskey "k">
+<!ENTITY markStarredCmd.accesskey "K">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Junk">
 <!ENTITY markAsJunkCmd.accesskey "J">
