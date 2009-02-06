@@ -69,7 +69,7 @@
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "Nachrichten">
-<!ENTITY lightning.toolbar.mail.accesskey     "r">
+<!ENTITY lightning.toolbar.mail.accesskey     "N">
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Aufgaben">

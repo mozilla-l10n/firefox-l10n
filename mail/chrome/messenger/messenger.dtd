@@ -96,7 +96,7 @@
 <!ENTITY selectFlaggedCmd.label "Gekennzeichnete Nachrichten">
 <!ENTITY selectFlaggedCmd.accesskey "G">
 <!ENTITY menuFavoriteFolder.label "Favoriten-Ordner">
-<!ENTITY menuFavoriteFolder.accesskey "a">
+<!ENTITY menuFavoriteFolder.accesskey "F">
 <!ENTITY folderPropsCmd.label "Eigenschaften…">
 <!ENTITY folderPropsFolderCmd.label "Ordner-Eigenschaften…">
 <!ENTITY folderPropsNewsgroupCmd.label "Newsgruppen-Eigenschaften…">
@@ -159,11 +159,11 @@
 <!ENTITY sortByPriorityCmd.label "Priorität">
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Größe">
-<!ENTITY sortBySizeCmd.accesskey "G">
+<!ENTITY sortBySizeCmd.accesskey "ö">
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "S">
 <!ENTITY sortByTagsCmd.label "Schlagwörter">
-<!ENTITY sortByTagsCmd.accesskey "e">
+<!ENTITY sortByTagsCmd.accesskey "c">
 <!ENTITY sortByJunkStatusCmd.label "Junk-Status">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
 <!ENTITY sortBySubjectCmd.label "Betreff">
@@ -189,19 +189,19 @@
 <!ENTITY msgsMenu.label "Nachrichten">
 <!ENTITY msgsMenu.accesskey "N">
 <!ENTITY threads.label "Themen">
-<!ENTITY threads.accesskey "T">
+<!ENTITY threads.accesskey "h">
 <!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "a">
 <!ENTITY expandAllThreadsCmd.label "Alle Themen aufklappen">
-<!ENTITY expandAllThreadsCmd.accesskey "A">
+<!ENTITY expandAllThreadsCmd.accesskey "u">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Alle Themen zuklappen">
 <!ENTITY collapseAllThreadsCmd.accesskey "z">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Nur ungelesene Beiträge">
-<!ENTITY unreadMsgsCmd.accesskey "U">
+<!ENTITY unreadMsgsCmd.accesskey "N">
 <!ENTITY threadsWithUnreadCmd.label "Mit ungelesenen Beiträgen">
-<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY threadsWithUnreadCmd.accesskey "M">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Beobachtete mit ungelesenen Beiträgen">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "B">
 <!ENTITY ignoredThreadsCmd.label "Ignorierte Themen">
@@ -248,7 +248,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.label        "Nur Text zoomen">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "Zoom">
-<!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY fullZoom.accesskey             "m">
 
 <!ENTITY pageSourceCmd.label "Nachrichten-Quelltext">
 <!ENTITY pageSourceCmd.accesskey "Q">
@@ -270,13 +270,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchMailCmd.accesskey "N">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Adressen suchen…">
-<!ENTITY searchAddressesCmd.accesskey "s">
+<!ENTITY searchAddressesCmd.accesskey "A">
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Navigation">
 <!ENTITY goMenu.accesskey "v">
 <!ENTITY nextMenu.label "Nächste">
-<!ENTITY nextMenu.accesskey "n">
+<!ENTITY nextMenu.accesskey "c">
 <!ENTITY nextMsgCmd.label "Nachricht">
 <!ENTITY nextMsgCmd.accesskey "N">
 <!ENTITY nextMsgCmd.key "f">
@@ -284,12 +284,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Gekennzeichnete Nachricht">
-<!ENTITY nextStarredMsgCmd.accesskey "k">
+<!ENTITY nextStarredMsgCmd.accesskey "G">
 <!ENTITY nextUnreadThread.label "Ungelesenes Thema">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Vorherige">
-<!ENTITY prevMenu.accesskey "v">
+<!ENTITY prevMenu.accesskey "h">
 <!ENTITY prevMsgCmd.label "Nachricht">
 <!ENTITY prevMsgCmd.accesskey "n">
 <!ENTITY prevMsgCmd.key "b">
@@ -303,7 +303,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.accesskey "Z">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Gekennzeichnete Nachricht">
-<!ENTITY prevStarredMsgCmd.accesskey "k">
+<!ENTITY prevStarredMsgCmd.accesskey "G">
 <!ENTITY startPageCmd.label "Thunderbird-Startseite">
 <!ENTITY startPageCmd.accesskey "S">
 <!ENTITY msgMenu.label "Nachricht">
@@ -312,8 +312,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "n">
 <!ENTITY newNewMsgCmd.label "Nachricht">
 <!ENTITY newNewMsgCmd.accesskey "N">
-<!ENTITY archiveMsgCmd.label "Archiv">
-<!ENTITY archiveMsgCmd.accesskey "v">
+<!ENTITY archiveMsgCmd.label "Archivieren">
+<!ENTITY archiveMsgCmd.accesskey "h">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Antworten">
 <!ENTITY replyMsgCmd.accesskey "A">
@@ -419,9 +419,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.label "Adressbuch">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY runJunkControls.label "Junk-Filter auf Ordner anwenden">
-<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY runJunkControls.accesskey "J">
 <!ENTITY deleteJunk.label "Junk in diesem Ordner löschen">
-<!ENTITY deleteJunk.accesskey "n">
+<!ENTITY deleteJunk.accesskey "u">
 <!ENTITY errorConsoleCmd.label "Fehlerkonsole">
 <!ENTITY errorConsoleCmd.accesskey "h">
 <!ENTITY filtersCmd.label "Filter…">
