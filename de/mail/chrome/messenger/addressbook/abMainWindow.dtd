@@ -62,7 +62,7 @@
 <!ENTITY deleteListsCmd.label                           "Lösche Listen">
 <!ENTITY deleteItemsCmd.label                           "Lösche Elemente">
 <!ENTITY selectAllCmd.label                             "Alles auswählen">
-<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY selectAllCmd.key                               "u">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "w">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Vor-/Nachnamen vertauschen">
@@ -82,7 +82,7 @@
 <!ENTITY showAbToolbarCmd.label                         "Adressbuch-Symbolleiste">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Statusleiste">
-<!ENTITY showTaskbarCmd.accesskey                       "S">
+<!ENTITY showTaskbarCmd.accesskey                       "u">
 <!ENTITY customizeToolbar.label                         "Anpassen…">
 <!ENTITY customizeToolbar.accesskey                     "A">
 <!ENTITY showContactPane.label                          "Kontaktvorschau">
@@ -157,7 +157,7 @@
 <!ENTITY Company.label                                  "Organisation">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Spitzname">
-<!ENTITY NickName.accesskey                             "S">
+<!ENTITY NickName.accesskey                             "i">
 <!ENTITY SecondEmail.label                              "Zusätzliche E-Mail">
 <!ENTITY SecondEmail.accesskey                          "Z">
 <!ENTITY Department.label                               "Abteilung">

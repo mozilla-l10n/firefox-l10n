@@ -39,7 +39,7 @@
 <!ENTITY viewToolbarsMenu.label				"Symbolleisten">
 <!ENTITY viewToolbarsMenu.accesskey			"y">
 <!ENTITY showTaskbarCmd.label					"Statusleiste">
-<!ENTITY showTaskbarCmd.accesskey				"S">
+<!ENTITY showTaskbarCmd.accesskey				"u">
 
 <!ENTITY proxy.label                                    "Proxy-Konfiguration…">
 <!ENTITY proxy.accesskey                                "K">
