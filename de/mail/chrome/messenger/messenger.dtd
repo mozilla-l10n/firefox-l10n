@@ -413,7 +413,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.label "Add-ons…">
 <!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Aktivitäten">
-<!ENTITY activitymanager.accesskey "k">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY messengerCmd.label "&brandShortName;">
 <!ENTITY messengerCmd.accesskey "T">
 <!ENTITY addressBookCmd.label "Adressbuch">
