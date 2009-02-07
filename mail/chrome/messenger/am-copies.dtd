@@ -1,15 +1,19 @@
+<!-- extracted from am-copies.xul -->
+
 <!ENTITY copyAndFolderTitle.label "עותקים ותיקיות">
 <!ENTITY sendingPrefix.label "כאשר שולחים הודעות, אוטומטית:">
 <!ENTITY fccMailFolder.label "שים עותק בתוך:">
-<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccMailFolder.accesskey "ע">
 <!ENTITY fccReplyFollowsParent.label "שים השבות בתיקייה של ההודעה שהושבה">
 <!ENTITY fccReplyFollowsParent.accesskey "ש">
 
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "עותק סמוי לכתובות נוספות:">
 <!ENTITY bccAddress.accesskey "מ">
 
 <!ENTITY saveMessageDlg.label "הצג בקשה לאישור כאשר הודעות נשמרות">
 <!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "תיקיית &quot;נשלח&quot; על:">
 <!ENTITY sentFolderOn.accesskey "נ">
 <!ENTITY sentInOtherFolder.label "אחר:">
@@ -19,10 +23,17 @@
 <!ENTITY draftInOtherFolder.label "אחר:">
 
 <!ENTITY draftInOtherFolder.accesskey "א">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "תיקיית &quot;ארכיון&quot; על:">
+<!ENTITY archivesFolderOn.accesskey "ר">
+<!ENTITY archiveInOtherFolder.label "אחר:">
+<!ENTITY archiveInOtherFolder.accesskey "ח">
+
 <!ENTITY templatesFolderOn.label "תיקיית &quot;תבניות&quot; על:">
-<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templatesFolderOn.accesskey "ב">
 <!ENTITY templateInOtherFolder.label "אחר:">
 <!ENTITY templateInOtherFolder.accesskey "א">
 <!ENTITY specialFoldersTitle.label "טיוטות ותבניות">
 <!ENTITY keepDrafts.label "שמור טיוטות הודעות בתוך:">
+<!ENTITY keepArchives.label "שמור ארכיון הודעות בתוך:">
 <!ENTITY keepTempltes.label "שמור תבניות הודעה בתוך:">
