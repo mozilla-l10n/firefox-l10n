@@ -160,11 +160,11 @@
 <!ENTITY event.invite.attendees.accesskey                 "I">
 <!ENTITY event.email.attendees.label                      "Skriv e-post til alle deltakarane …">
 <!ENTITY event.email.attendees.accesskey                  "a">
-<!ENTITY event.email.tentative.attendees.label            "Skriv e-post til usikre deltakarar …">
+<!ENTITY event.email.tentative.attendees.label            "Skriv e-post til uvisse deltakarar …">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Lagre og avslutt">
+<!ENTITY  event.toolbar.save.label                        "Lagre og lat att">
 <!ENTITY  event.toolbar.attendees.label                   "Inviter deltakarar">
 <!ENTITY  event.toolbar.spellcheck.label                  "Stavekontroll">
 <!ENTITY  event.toolbar.privacy.label                     "Personvern">
@@ -176,13 +176,13 @@
 <!ENTITY event.location.label                             "Stad:" >
 <!ENTITY event.location.accesskey                         "S">
 <!ENTITY event.categories.label                           "Kategori:">
-<!ENTITY event.categories.accesskey                       "t">
+<!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.calendar.label                             "Kalender:" >
-<!ENTITY event.calendar.accesskey                         "K">
+<!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Deltakarar:" >
 <!ENTITY event.attendees.accesskey                        "D" >
 <!ENTITY event.alldayevent.label                          "Heildagshending" >
-<!ENTITY event.alldayevent.accesskey                      "H">
+<!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Start:" >
 <!ENTITY event.from.accesskey                             "a">
 <!ENTITY task.from.label                                  "Start:" >
@@ -225,9 +225,9 @@
 <!ENTITY event.reminder.1day.before.label                 "1 dag før" >
 <!ENTITY event.reminder.2days.before.label                "2 dagar før" >
 <!ENTITY event.reminder.1week.before.label                "1 veke før" >
-<!ENTITY event.reminder.custom.label                      "Anna …" >
+<!ENTITY event.reminder.custom.label                      "Eigendefinert …" >
 
-<!ENTITY event.reminder.multiple.label                    "Fleire påminninger …" >
+<!ENTITY event.reminder.multiple.label                    "Fleire påminningar …" >
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Endre gjentaking">
@@ -239,7 +239,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "Annakvar veke">
 <!ENTITY event.repeat.monthly.label                     "Kvar månad">
 <!ENTITY event.repeat.yearly.label                      "Kvart år">
-<!ENTITY event.repeat.custom.label                      "Anna …">
+<!ENTITY event.repeat.custom.label                      "Tilpassa …">
 
 <!ENTITY event.recurrence.pattern.label                 "Gjentakingsmønster">
 <!ENTITY event.recurrence.occurs.label                  "Gjenta" >
@@ -258,13 +258,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Kvar" >
 <!ENTITY repeat.units.months.both                       "Månad(er)" >
-<!ENTITY event.recurrence.the.label                     "Den" >
-<!ENTITY event.recurrence.repeat.first.label            "Første">
-<!ENTITY event.recurrence.repeat.second.label           "Andre">
-<!ENTITY event.recurrence.repeat.third.label            "Tredje">
-<!ENTITY event.recurrence.repeat.fourth.label           "Fjerde">
-<!ENTITY event.recurrence.repeat.fifth.label            "Femte">
-<!ENTITY event.recurrence.repeat.last.label             "Siste">
+<!ENTITY event.recurrence.monthly.every.label           "Kvar" >
+<!ENTITY event.recurrence.monthly.first.label           "Den første">
+<!ENTITY event.recurrence.monthly.second.label          "Den andre">
+<!ENTITY event.recurrence.monthly.third.label           "Den tredje">
+<!ENTITY event.recurrence.monthly.fourth.label          "Den ferde">
+<!ENTITY event.recurrence.monthly.fifth.label           "Den femte">
+<!ENTITY event.recurrence.monthly.last.label            "Den siste">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Søndag" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Måndag" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Tysdag" >
@@ -300,12 +300,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Oktober" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "November" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "Desember" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "Første">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "Andre">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "Tredje">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "Fjerde">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "Femte">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "Siste">
+<!ENTITY event.recurrence.yearly.every.label                 "Kvar">
+<!ENTITY event.recurrence.yearly.first.label                 "Den første">
+<!ENTITY event.recurrence.yearly.second.label                "Den andre">
+<!ENTITY event.recurrence.yearly.third.label                 "Den tredje">
+<!ENTITY event.recurrence.yearly.fourth.label                "Den fjerde">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Den femte">
+<!ENTITY event.recurrence.yearly.last.label                  "Den siste">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Søndag" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Måndag" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Tysdag" >
@@ -330,7 +331,7 @@
 <!ENTITY event.recurrence.range.label                   "Gjentakingslengd">
 <!ENTITY event.recurrence.forever.label                 "Ingen sluttdato" >
 <!ENTITY event.recurrence.repeat.for.label              "Opprett" >
-<!ENTITY event.recurrence.appointments.label            "Avtala(r)" >
+<!ENTITY event.recurrence.appointments.label            "Avtalar" >
 <!ENTITY event.repeat.until.label                       "Gjenta til" >
 <!ENTITY event.recurrence.preview.label                 "Førehandsvising">
 
@@ -339,8 +340,8 @@
 <!ENTITY event.organizer.label                  "Organisert av">
 <!ENTITY event.freebusy.suggest.slot            "Føreslå tidsluke:">
 <!ENTITY event.freebusy.next.slot               "Neste tidsluke" >
-<!ENTITY event.freebusy.previous.slot           "Førre tidsluke" >
-<!ENTITY event.freebusy.zoom                    "Zoom:">
+<!ENTITY event.freebusy.previous.slot           " Førre tidsluke" >
+<!ENTITY event.freebusy.zoom                    "Skalering:">
 <!ENTITY event.freebusy.plus                    "Neste time" >
 <!ENTITY event.freebusy.minus                   "Førre time" >
 <!ENTITY event.freebusy.legend.free             "Ledig" >
@@ -362,7 +363,7 @@
 <!ENTITY read.only.reply.label           "Svar:">
 <!ENTITY read.only.accept.label          "Eg vil vere med">
 <!ENTITY read.only.decline.label         "Eg vil ikkje vere med">
-<!ENTITY read.only.tentative.label       "Eg vil kanskje delta">
+<!ENTITY read.only.tentative.label       "Eg vil kanskje vere med">
 <!ENTITY read.only.needs.action.label    "Eg vil stadfeste seinare">
 <!ENTITY read.only.reminder.label        "Påminning:">
 <!ENTITY read.only.attendees.label       "Deltakarar">
