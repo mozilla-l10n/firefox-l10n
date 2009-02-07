@@ -89,6 +89,7 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "כ">
 
 <!ENTITY showCompositionToolbarCmd.label "סרגל כלים כתיבה">
+<!ENTITY showCompositionToolbarCmd.accesskey "כ">
 
 <!ENTITY showFormattingBarCmd.label "סרגל עיצוב">
 <!ENTITY showFormattingBarCmd.accesskey "ע">
@@ -102,10 +103,14 @@
 <!ENTITY formatMenu.accesskey "ב">
 <!ENTITY optionsMenu.label "אפשרויות">
 <!ENTITY optionsMenu.accesskey "א">
-<!ENTITY checkSpellingCmd.label "בדוק איות...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd2.label "בדוק איות…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "א">
+<!--###ENTITY checkSpellingCmd.label "בדוק איות..."-->
+<!--###ENTITY checkSpellingCmd.key "K"-->
+<!--###ENTITY checkSpellingCmd.key2 "VK_F7"-->
+<!--###ENTITY checkSpellingCmd.accesskey "h"-->
 <!ENTITY enableInlineSpellChecker.label "בדוק איות תוך כדי הקלדה">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "לצטט הודעה">
@@ -170,7 +175,7 @@
 <!ENTITY attachButton.label "צרף">
 <!ENTITY spellingButton.label "איות">
 <!ENTITY saveButton.label "שמור">
-<!ENTITY throbberItem.title "מחוון פעילות">
+<!--###ENTITY throbberItem.title "מחוון פעילות"-->
 <!ENTITY sendButton.tooltip "שלח הודעה זו כעת">
 <!ENTITY sendlaterButton.tooltip "שלח הודעה זו מאוחר יותר">
 <!ENTITY quoteButton.tooltip "צטט הודעה קודמת">

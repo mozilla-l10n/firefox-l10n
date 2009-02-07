@@ -47,9 +47,15 @@
 
 <!ENTITY editMessageDescription.label "זוהי הודעת טיוטא">
 <!ENTITY editMessageButton.label "עריכה…">
-<!ENTITY replyButton.label "תגובה…">
-<!ENTITY forwardButton.label "העבר…">
-<!ENTITY junkButton.label "סמן בתור זבל">
+<!ENTITY archiveButton.label "ארכיון">
+
+<!ENTITY hdrReplyButton.label "תגובה">
+<!ENTITY hdrForwardButton.label "העבר">
+<!ENTITY hdrJunkButton.label "זבל">
+
+<!--###ENTITY replyButton.label "תגובה…"-->
+<!--###ENTITY forwardButton.label "העבר…"-->
+<!--###ENTITY junkButton.label "סמן בתור זבל"-->
 <!ENTITY trashButton.tooltiptext "מחק">
 
 <!ENTITY CopyMessageId.label "העתק מזהה הודעה">
