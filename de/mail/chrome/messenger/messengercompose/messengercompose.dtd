@@ -124,9 +124,9 @@
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Empfangsbestätigung (MDN) anfordern">
-<!ENTITY returnReceiptMenu.accesskey "m">
+<!ENTITY returnReceiptMenu.accesskey "M">
 <!ENTITY dsnMenu.label "Übermittlungsstatus (DSN) anfordern">
-<!ENTITY dsnMenu.accesskey "b">
+<!ENTITY dsnMenu.accesskey "D">
 <!ENTITY outputFormatMenu.label "Format">
 <!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Autom. bestimmen">
@@ -254,7 +254,7 @@
 <!ENTITY renameAttachment.label "Umbenennen…">
 <!ENTITY renameAttachment.accesskey "U">
 <!ENTITY selectAll.label "Alles auswählen">
-<!ENTITY selectAll.accesskey "w">
+<!ENTITY selectAll.accesskey "u">
 <!ENTITY attachFile.label "Datei(en) als Anhang anfügen">
 <!ENTITY attachFile.accesskey "D">
 <!ENTITY attachPage.label "Webseite anhängen…">

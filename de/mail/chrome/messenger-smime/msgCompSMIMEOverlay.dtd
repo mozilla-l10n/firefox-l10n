@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY securityMenu.label "S/MIME-Sicherheit">
-<!ENTITY securityMenu.accesskey "M">
+<!ENTITY securityMenu.accesskey "c">
 
 <!ENTITY menu_securityEncryptRequire.label "Nachricht verschlüsseln">
 <!ENTITY menu_securityEncryptRequire.accesskey "v">
