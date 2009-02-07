@@ -29,15 +29,24 @@
 <!ENTITY useDownloadedList.label "השתמש ברשימה שהורדה של הונאות דוא״ל חשודות">
 <!ENTITY useDownloadedList.accesskey "U">
 <!ENTITY savedPasswords.intro "&brandShortName; יכול לזכור מידע סיסמאות עבור כל החשבונות שלך כדי שלא תצטרך להכניס שוב את מידע ההתחברות.">
-<!ENTITY encryptEnabled.label "השתמש בסיסמה ראשית בכדי להצפין סיסמאות מאוחסנות">
-<!ENTITY encryptEnabled.accesskey "ה">
+<!--###ENTITY encryptEnabled.label "השתמש בסיסמה ראשית בכדי להצפין סיסמאות מאוחסנות"-->
+<!--###ENTITY encryptEnabled.accesskey "ה"-->
+
+<!ENTITY useMasterPassword.label        "השתמש בסיסמה ראשית">
+<!ENTITY useMasterPassword.accesskey    "ר">
 <!ENTITY masterPassword.intro "כאשר נקבעה, הסיסמה הראשית מגינה על כל סיסמאותיך - אולם תצטרך להקליד אותה פעם אחת בכל הפעלה.">
-<!ENTITY setMasterPassword.label "סיסמה ראשית">
-<!ENTITY setMasterPassword.accesskey "ס">
-<!ENTITY removeMasterPassword.label "הסר סיסמה ראשית...">
-<!ENTITY removeMasterPassword.accesskey "מ">
-<!ENTITY editPasswords.label "ערוך סיסמאות שמורות">
-<!ENTITY editPasswords.accesskey "i">
+
+<!ENTITY changeMasterPassword.label     "שנה סיסמה ראשית…">
+<!ENTITY changeMasterPassword.accesskey "ש">
+<!ENTITY savedPasswords.label           "שמור סיסמאות…">
+<!ENTITY savedPasswords.accesskey       "מ">
+
+<!--###ENTITY setMasterPassword.label "סיסמה ראשית"-->
+<!--###ENTITY setMasterPassword.accesskey "ס"-->
+<!--###ENTITY removeMasterPassword.label "הסר סיסמה ראשית..."-->
+<!--###ENTITY removeMasterPassword.accesskey "מ"-->
+<!--###ENTITY editPasswords.label "ערוך סיסמאות שמורות"-->
+<!--###ENTITY editPasswords.accesskey "i"-->
 <!ENTITY antiVirus.intro "&brandShortName; יכול לגרום לתוכנות אנטי-וירוס לנתח בקלות הודעות דואר נכנס עבור וירוסים לפני שהן מאוכסנות באופן מקומי.">
 <!ENTITY antiVirus.label "אפשר ללקוחות אנטי וירוס לבודד הודעות יחידות מתוך ההודעות הנכנסות">
 <!ENTITY antiVirus.accesskey "ב">

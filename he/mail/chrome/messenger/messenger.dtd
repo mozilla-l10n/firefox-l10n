@@ -1,16 +1,18 @@
 <!ENTITY messengerWindow.title "דואר וקבוצות דיון">
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!ENTITY newFolderCmd.label "תיקייה...">
+
+<!-- File Menu -->
+<!ENTITY newFolderCmd.label "תיקייה…
 <!ENTITY newFolderCmd.accesskey "ת">
 <!ENTITY closeTabCmd.label "סגור לשונית">
 <!ENTITY closeTabCmd.accesskey "ג">
-<!ENTITY newVirtualFolderCmd.label "חיפוש שמור...">
+<!ENTITY newVirtualFolderCmd.label "חיפוש שמור…">
 <!ENTITY newVirtualFolderCmd.accesskey "פ">
-<!ENTITY newAccountCmd.label "חשבון...">
+<!ENTITY newAccountCmd.label "חשבון…">
 <!ENTITY newAccountCmd.accesskey "ח">
 <!ENTITY openMessageWindowCmd.label "פתיחה">
-<!ENTITY openMessageFileCmd.label "פתח הודעה שמורה...">
+<!ENTITY openMessageFileCmd.label "פתח הודעה שמורה…">
 <!ENTITY openMessageFileCmd.accesskey "ת">
 <!ENTITY openAttachmentCmd.label "קבצים מצורפים">
 <!ENTITY openAttachmentCmd.accesskey "פ">
@@ -107,6 +109,8 @@
 <!ENTITY redoMoveMsgCmd.label "בצע שוב העברת הודעה">
 <!ENTITY undoCopyMsgCmd.label "בטל העתקת הודעה">
 <!ENTITY redoCopyMsgCmd.label "בצע שוב העתקת הודעה">
+<!ENTITY undoMarkAllCmd.label "בטל סמן הכל כנקרא">
+<!ENTITY redoMarkAllCmd.label "בצע שוב סמן הכל כנקרא">
 <!ENTITY undoDefaultCmd.label "בטל">
 <!ENTITY undoDefaultCmd.accesskey "ב">
 <!ENTITY redoDefaultCmd.label "בצע שוב">
@@ -276,24 +280,27 @@
 <!ENTITY newMsgCmd.label "הודעה חדשה">
 <!ENTITY newMsgCmd.accesskey "ח">
 <!ENTITY newNewMsgCmd.label "הודעה">
-<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY newNewMsgCmd.accesskey "ה">
+<!ENTITY archiveMsgCmd.label "ארכיון">
+<!ENTITY archiveMsgCmd.accesskey "א">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "השב">
 <!ENTITY replyMsgCmd.accesskey "ש">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "השב לשולח בלבד">
-<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replySenderCmd.accesskey "ב">
 <!ENTITY replyNewsgroupCmd.label "השב לקבוצת דיון">
-<!ENTITY replyNewsgroupCmd.accesskey "y">
+<!ENTITY replyNewsgroupCmd.accesskey "ק">
 <!ENTITY replyToAllMsgCmd.label "השב לכולם">
 <!ENTITY replyToAllMsgCmd.accesskey "כ">
 <!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY forwardMsgCmd.label "העבר">
-<!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardMsgCmd.accesskey "ע">
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "העבר בתור">
-<!ENTITY forwardAsMenu.accesskey "o">
+<!ENTITY forwardAsMenu.accesskey "ר">
 <!ENTITY forwardAsInline.label "גוף הודעה">
-<!ENTITY forwardAsInline.accesskey "I">
+<!ENTITY forwardAsInline.accesskey "ג">
 <!ENTITY forwardAsAttachmentCmd.label "קובץ מצורף">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editMsgAsNewCmd.label "ערוך כהודעה חדשה">
@@ -376,12 +383,14 @@
 <!ENTITY tasksMenu.accesskey "כ">
 <!ENTITY addons.label "תוספות">
 <!ENTITY addons.accesskey "ת">
+<!ENTITY activitymanager.label "מנהל פעילויות">
+<!ENTITY activitymanager.accesskey "פ">
 <!ENTITY messengerCmd.label "דואר וקבוצות דיון">
 <!ENTITY messengerCmd.accesskey "ד">
-<!ENTITY messengerCmd.commandkey "1">
+<!--###ENTITY messengerCmd.commandkey "1"-->
 <!ENTITY addressBookCmd.label "פנקס כתובות">
 <!ENTITY addressBookCmd.accesskey "כ">
-<!ENTITY addressBookCmd.commandkey "2">
+<!--###ENTITY addressBookCmd.commandkey "2"-->
 
 <!ENTITY runJunkControls.label "הפעל פקדי דואר זבל על התיקייה">
 <!ENTITY runJunkControls.accesskey "פ">
