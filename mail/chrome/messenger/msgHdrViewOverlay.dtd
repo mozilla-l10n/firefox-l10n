@@ -61,9 +61,9 @@
 <!ENTITY editMessageDescription.label "Det här är ett utkast">
 <!ENTITY editMessageButton.label "Redigera…">
 <!ENTITY archiveButton.label "arkivera">
-<!ENTITY replyButton.label "svara">
-<!ENTITY forwardButton.label "vidarebefordra">
-<!ENTITY junkButton.label "märk som skräp">
+<!ENTITY hdrReplyButton.label "svara">
+<!ENTITY hdrForwardButton.label "vidarebefordra">
+<!ENTITY hdrJunkButton.label "skräp">
 <!ENTITY trashButton.tooltiptext "ta bort">
 
 <!ENTITY otherActionsButton.label "andra åtgärder">
