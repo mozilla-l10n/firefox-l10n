@@ -50,10 +50,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importMail.label         "דואר">
 <!ENTITY importMail.accesskey     "ד">
 <!--###ENTITY importDialog.allTitle    "יבא הכל"-->
-<!ENTITY importDialog.mailTitle "דואר">
+<!--###ENTITY importDialog.mailTitle "דואר"-->
 <!--###ENTITY importDialog.addressbookTitle "פנקסי כתובות"-->
 <!--###ENTITY importDialog.settingsTitle "הגדרות"-->
-<!ENTITY importDialog.filtersTitle "מסננים">
+<!--###ENTITY importDialog.filtersTitle "מסננים"-->
 <!ENTITY importAddressbook.label  "ספרי כתובות">
 <!ENTITY importAddressbook.accesskey "כ">
 <!ENTITY importSettings.label     "הגדרות">

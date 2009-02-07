@@ -3,7 +3,7 @@
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "תיקייה…
+<!ENTITY newFolderCmd.label "תיקייה…">
 <!ENTITY newFolderCmd.accesskey "ת">
 <!ENTITY closeTabCmd.label "סגור לשונית">
 <!ENTITY closeTabCmd.accesskey "ג">
