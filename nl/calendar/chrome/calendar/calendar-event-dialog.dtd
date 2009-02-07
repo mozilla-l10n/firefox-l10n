@@ -44,8 +44,6 @@
 
 <!ENTITY event.title.label                  "Item bewerken" >
 
-<!ENTITY newevent.before.label              "voordat" >
-<!ENTITY newevent.after.label               "nadat" >
 
 <!ENTITY newevent.from.label                "Van" >
 <!ENTITY newevent.to.label                  "Tot" >
@@ -260,13 +258,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Elke" >
 <!ENTITY repeat.units.months.both                       "maand(en)" >
-<!ENTITY event.recurrence.the.label                     "De" >
-<!ENTITY event.recurrence.repeat.first.label            "eerste">
-<!ENTITY event.recurrence.repeat.second.label           "tweede">
-<!ENTITY event.recurrence.repeat.third.label            "derde">
-<!ENTITY event.recurrence.repeat.fourth.label           "vierde">
-<!ENTITY event.recurrence.repeat.fifth.label            "vijfde"> 
-<!ENTITY event.recurrence.repeat.last.label             "laatste">
+<!ENTITY event.recurrence.monthly.every.label           "Elke" >
+<!ENTITY event.recurrence.monthly.first.label           "De eerste">
+<!ENTITY event.recurrence.monthly.second.label          "De tweede">
+<!ENTITY event.recurrence.monthly.third.label           "De derde">
+<!ENTITY event.recurrence.monthly.fourth.label          "De vierde">
+<!ENTITY event.recurrence.monthly.fifth.label           "De vijfde">
+<!ENTITY event.recurrence.monthly.last.label            "De laatste">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "zondag" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "maandag" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "dinsdag" >
@@ -280,7 +278,6 @@
 <!ENTITY event.recurrence.every.label                        "Elke:" >
 <!ENTITY repeat.units.years.both                             "jaar" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Elke" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Elke" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -303,12 +300,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "oktober" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "november" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "december" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "eerste">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "tweede">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "derde">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "vierde">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "vijfde">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "laatste">
+<!ENTITY event.recurrence.yearly.every.label                 "Elke">
+<!ENTITY event.recurrence.yearly.first.label                 "De eerste">
+<!ENTITY event.recurrence.yearly.second.label                "De tweede">
+<!ENTITY event.recurrence.yearly.third.label                 "De derde">
+<!ENTITY event.recurrence.yearly.fourth.label                "De vierde">
+<!ENTITY event.recurrence.yearly.fifth.label                 "De vijfde">
+<!ENTITY event.recurrence.yearly.last.label                  "De zesde">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "zondag" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "maandag" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "dinsdag" >
@@ -336,27 +334,6 @@
 <!ENTITY event.recurrence.appointments.label            "afspra(a)k(en) maken" >
 <!ENTITY event.repeat.until.label                       "Herhalen tot" >
 <!ENTITY event.recurrence.preview.label                 "Voorbeeld">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "minuten" >
-<!ENTITY alarm.units.hours                  "uur" >
-<!ENTITY alarm.units.days                   "dagen" >
-
-<!ENTITY reminder.title.label                           "Aangepaste herinnering">
-<!ENTITY reminder.dialogtitle.label                     "Herinneringen instellen">
-<!ENTITY reminder.reminderDetails.label                 "Herinneringsdetails">
-<!ENTITY reminder.action.label                          "Actie voor de herinnering kiezen">
-<!ENTITY reminder.action.alert.label                    "Een waarschuwing tonen">
-<!ENTITY reminder.action.email.label                    "Een e-mail sturen">
-<!ENTITY reminder.new.label                             "Nieuw">
-<!ENTITY reminder.delete.label                          "Verwijderen">
-<!ENTITY reminder.relation.start.label                  "de gebeurtenis begint">
-<!ENTITY reminder.relation.end.label                    "de gebeurtenis eindigt">
-<!ENTITY reminder.add.label                             "Toevoegen">
-<!ENTITY reminder.add.accesskey                         "T">
-<!ENTITY reminder.remove.label                          "Verwijderen">
-<!ENTITY reminder.remove.accesskey                      "V">
-
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Genodigden uitnodigen">
