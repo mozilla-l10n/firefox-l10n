@@ -58,9 +58,9 @@
 <!ENTITY editMessageDescription.label "Dette er eit meldingsutkast">
 <!ENTITY editMessageButton.label "Rediger …">
 <!ENTITY archiveButton.label "arkiver">
-<!ENTITY replyButton.label "svar …">
-<!ENTITY forwardButton.label "vidaresend …">
-<!ENTITY junkButton.label "merk som uønskt">
+<!ENTITY hdrReplyButton.label "svar">
+<!ENTITY hdrForwardButton.label "vidaresend">
+<!ENTITY hdrJunkButton.label "uønskt">
 <!ENTITY trashButton.tooltiptext "slett">
 
 <!ENTITY otherActionsButton.label "andre handlingar">
