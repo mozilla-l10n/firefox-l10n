@@ -58,9 +58,9 @@
 <!ENTITY editMessageDescription.label "Dies ist ein Nachrichten-Entwurf">
 <!ENTITY editMessageButton.label "Bearbeiten…">
 <!ENTITY archiveButton.label "Archivieren">
-<!ENTITY replyButton.label "Antworten">
-<!ENTITY forwardButton.label "Weiterleiten">
-<!ENTITY junkButton.label "Als Junk markieren">
+<!ENTITY hdrReplyButton.label "Antworten">
+<!ENTITY hdrForwardButton.label "Weiterleiten">
+<!ENTITY hdrJunkButton.label "Junk">
 <!ENTITY trashButton.tooltiptext "Löschen">
 
 <!ENTITY otherActionsButton.label "Andere Aktionen">
