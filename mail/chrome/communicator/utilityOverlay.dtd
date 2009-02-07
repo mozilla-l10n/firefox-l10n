@@ -28,7 +28,7 @@
 <!ENTITY deleteCmd.accesskey				"L">
 <!ENTITY selectAllCmd.label					"Alles auswählen">
 <!ENTITY selectAllCmd.key					"A">
-<!ENTITY selectAllCmd.accesskey				"w">
+<!ENTITY selectAllCmd.accesskey				"u">
 <!ENTITY preferencesCmd.label				"Einstellungen…">
 <!ENTITY preferencesCmd.accesskey			"E">
 <!ENTITY preferencesCmdUnix.label       "Einstellungen…">
