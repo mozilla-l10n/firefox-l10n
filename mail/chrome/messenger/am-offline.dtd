@@ -15,6 +15,10 @@
 <!ENTITY nntpDownloadMsg.accesskey "י">
 <!ENTITY retentionCleanup.label "בכדי להשיג שטח דיסק, הודעות ישנות יכולות להמחק לצמיתות">
 <!ENTITY retentionKeepMsg.label "מחק הודעות מלפני">
+
+<!ENTITY retentionCleanupImap.label "כדי לשמר מקום בדיסק, הודעות ישנות יכולות להימחק לתמיד, גם העותק המקומי וגם המקור על השרת המרוחק.">
+<!ENTITY retentionCleanupPop.label "כדי לשמר מקום בדיסק, הודעות ישנות יכולות להימחק לתמיד, כולל הודעות המקור בשרת המרוחק.">
+
 <!ENTITY retentionKeepMsg.accesskey "ל">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "ש">
