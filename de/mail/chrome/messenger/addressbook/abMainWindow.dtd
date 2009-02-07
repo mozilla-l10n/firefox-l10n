@@ -62,9 +62,9 @@
 <!ENTITY deleteListsCmd.label                           "Lösche Listen">
 <!ENTITY deleteItemsCmd.label                           "Lösche Elemente">
 <!ENTITY selectAllCmd.label                             "Alles auswählen">
-<!ENTITY selectAllCmd.key                               "u">
+<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "w">
+<!ENTITY selectAllCmd.accesskey                         "u">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Vor-/Nachnamen vertauschen">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "V">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
