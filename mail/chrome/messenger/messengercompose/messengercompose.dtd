@@ -72,8 +72,8 @@
 <!ENTITY deleteCmd.label "Löschen">
 <!ENTITY deleteCmd.accesskey "L">
 <!ENTITY selectAllCmd.label "Alles auswählen">
-<!ENTITY selectAllCmd.key "u">
-<!ENTITY selectAllCmd.accesskey "w">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "u">
 <!ENTITY findCmd.label "Suchen und ersetzen…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "S">
