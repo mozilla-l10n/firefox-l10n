@@ -193,7 +193,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Хаяг болон зорчсон түүхэнд хайх">
+<!ENTITY urlbar.emptyText             "Хадгалсан хаяг болон зорчсон түүхэнд хайх">
 <!ENTITY urlbar.accesskey             "я">
 
 <!--
