@@ -60,9 +60,9 @@
 <!ENTITY editMessageDescription.label "Tai – laiško juodraštis">
 <!ENTITY editMessageButton.label "Taisyti…">
 <!ENTITY archiveButton.label "archyvuoti">
-<!ENTITY replyButton.label "atsakyti…">
-<!ENTITY forwardButton.label "persiųsti…">
-<!ENTITY junkButton.label "pažymėti kaip šlamštą">
+<!ENTITY hdrReplyButton.label "atsakyti">
+<!ENTITY hdrForwardButton.label "persiųsti">
+<!ENTITY hdrJunkButton.label "šlamštas">
 <!ENTITY trashButton.tooltiptext "pašalinti">
 
 <!ENTITY otherActionsButton.label "kiti veiksmai">
