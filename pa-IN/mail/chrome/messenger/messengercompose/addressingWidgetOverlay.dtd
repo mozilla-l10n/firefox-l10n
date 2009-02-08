@@ -4,6 +4,6 @@
 <!ENTITY ccAddr.label   "Cc:"> 
 <!ENTITY bccAddr.label  "Bcc:"> 
 <!ENTITY replyAddr.label   "ਜਵਾਬ:"> 
-<!ENTITY newsgroupsAddr.label   "ਖ਼ਬਰ-ਸਮੂਹ:"> 
+<!ENTITY newsgroupsAddr.label   "ਨਿਊਜ਼ਗਰੁੱਪ:"> 
 <!ENTITY followupAddr.label   "ਵਾਪਸੀ:"> 
 

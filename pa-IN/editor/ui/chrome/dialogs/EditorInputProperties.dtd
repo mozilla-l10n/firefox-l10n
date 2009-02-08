@@ -63,7 +63,7 @@
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "ਸ਼ੁਰੂਆਤੀ ਚੁਣਿਆ">
 <!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "ਪੜਨ ਲਈ">
+<!ENTITY InputReadOnly.label "ਪੜ੍ਹਨ ਲਈ">
 <!ENTITY InputReadOnly.accesskey "R">
 <!ENTITY InputDisabled.label "ਆਯੋਗ">
 <!ENTITY InputDisabled.accesskey "D">

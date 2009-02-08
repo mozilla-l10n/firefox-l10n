@@ -37,17 +37,17 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Mailing List">
+<!ENTITY mailListWindow.title           "ਮੇਲਿੰਗ ਲਿਸਟ">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Add to: ">
+<!ENTITY addToAddressBook.label         "ਸ਼ਾਮਲ ਕਰੋ: ">
 
-<!ENTITY ListName.label                 "List Name: ">
-<!ENTITY ListNickName.label             "List Nickname: ">
-<!ENTITY ListDescription.label          "Description: ">
+<!ENTITY ListName.label                 "ਲਿਸਟ ਨਾਂ: ">
+<!ENTITY ListNickName.label             "ਲਿਸਟ ਸੰਖੇਪ ਨਾਂ: ">
+<!ENTITY ListDescription.label          "ਵੇਰਵਾ: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Type email addresses to add them to the mailing list:">
-<!ENTITY UpButton.label                 "Move Up">
-<!ENTITY DownButton.label               "Move Down">
+<!ENTITY AddressTitle.label             "ਮੇਲਿੰਗ ਲਿਸਟ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਵਾਸਤੇ ਈਮੇਲ ਐਡਰੈੱਸ:">
+<!ENTITY UpButton.label                 "ਉੱਤੇ ਭੇਜੋ">
+<!ENTITY DownButton.label               "ਹੇਠਾਂ ਕਰੋ">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">

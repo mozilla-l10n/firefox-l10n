@@ -1,16 +1,16 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
-<!ENTITY windowTitle.label "HTML Mail Question">
+<!ENTITY windowTitle.label "HTML ਮੇਲ ਸਵਾਲ">
 
 <!ENTITY recipient.label "Some of the recipients are not listed as being able to receive HTML mail.">
 
 <!ENTITY question.label "Would you like to convert the message to plain text or send it in HTML anyway?">
 
-<!ENTITY plainTextAndHtml.label "Send in Plain Text and HTML">
+<!ENTITY plainTextAndHtml.label "ਪਲੇਨ ਟੈਕਸਟ ਅਤੇ HTML ਵਿੱਚ ਭੇਜੋ">
 <!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Send in Plain Text Only">
+<!ENTITY plainTextOnly.label "ਕੇਵਲ ਪਲੇਨ ਟੈਕਸਟ ਹੀ ਭੇਜੋ">
 <!ENTITY plainTextOnly.accesskey "P">
-<!ENTITY htmlOnly.label "Send in HTML Only">
+<!ENTITY htmlOnly.label "ਕੇਵਲ HTML ਵਿੱਚ ਹੀ ਭੇਜੋ">
 <!ENTITY htmlOnly.accesskey "H">
 
-<!ENTITY send.label "Send">
+<!ENTITY send.label "ਭੇਜੋ">
 <!ENTITY send.accesskey "S">

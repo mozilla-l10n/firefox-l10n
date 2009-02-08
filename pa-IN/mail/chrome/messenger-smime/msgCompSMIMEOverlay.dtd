@@ -16,7 +16,7 @@
 <!ENTITY menu_securityStatus.accesskey "I">
 
 <!ENTITY securityButton.label "ਸੁਰੱਖਿਆ">
-<!ENTITY securityButton.tooltip "ਸੁਰੱਖਿਆ ਵਿਵਸਥਾ ਵੇਖੋ ਜਾਂ ਤਬਦੀਲ ਕਰੋ">
+<!ENTITY securityButton.tooltip "ਸੁਰੱਖਿਆ ਸੈਟਿੰਗ ਵੇਖੋ ਜਾਂ ਬਦਲੋ">
 
 <!ENTITY menu_viewSecurityStatus.label "ਸੁਨੇਹਾ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ">
 <!ENTITY menu_viewSecurityStatus.accesskey "I">
