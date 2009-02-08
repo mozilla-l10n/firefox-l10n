@@ -178,7 +178,7 @@
 <!ENTITY viewMenu.accesskey       "ц">
 <!ENTITY viewToolbarsMenu.label       "Багажит самбарууд">
 <!ENTITY viewToolbarsMenu.accesskey     "Б">
-<!ENTITY viewSidebarMenu.label "Хажуу самбар">
+<!ENTITY viewSidebarMenu.label "Хажуу самбарт">
 <!ENTITY viewSidebarMenu.accesskey "Х">
 <!ENTITY viewCustomizeToolbar.label       "Өөрчлөх…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Ө">
@@ -352,7 +352,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ж">
 
 <!ENTITY newWindowButton.tooltip        "Шинэ цонх нээ">
-<!ENTITY sidebarCloseButton.tooltip     "Хажуу самбарыг хаа">
+<!ENTITY sidebarCloseButton.tooltip     "Хажуу самбарыг хаана">
 
 <!ENTITY cutButton.tooltip              "Тасдаж сана">
 <!ENTITY copyButton.tooltip             "Сануул">
@@ -378,7 +378,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Хуудасны үндсэн загвар">
 <!ENTITY pageStylePersistentOnly.accesskey "Х">
 
-<!ENTITY pageReportIcon.tooltip            "Энэ хуудсанд жижиг цонх хорих тохиргоог өөрчил">
+<!ENTITY pageReportIcon.tooltip            "Энэ хуудсанд жижиг цонх хорих тохиргоог өөрчилнө">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -407,7 +407,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "м">
 
 
-<!ENTITY editBookmark.done.label                     "Гүйцэв">
+<!ENTITY editBookmark.done.label                     "Гүйцэтгэ">
 <!ENTITY editBookmark.cancel.label                   "Цуцал">
 <!ENTITY editBookmark.removeBookmark.accessKey       "я">
 <!ENTITY editBookmark.undo.label                     "Буцаж үйлд">
@@ -432,6 +432,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Нэмэлт мэдээлэл…">
 
-<!ENTITY downloadMonitor2.tooltip "Дарж татаж авалтын цонхыг нээнэ үү.">
+<!ENTITY downloadMonitor2.tooltip "Үүн дээр дарж татаж авалт хийж буй цонхыг нээнэ.">
 
 <!ENTITY ctrlTab.search.emptyText "Хайлт хийгч самбарууд">

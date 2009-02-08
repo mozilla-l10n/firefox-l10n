@@ -35,6 +35,6 @@
 <!ENTITY reportResults.showDetail.title "Нарийн мэдээллийг харуул">
 <!ENTITY reportWizard.title "Эвдрэлтэй вэб хуудсыг мэдэгд">
 <!ENTITY reportWizardMustAgree.description "Үргэлжлүүлэхийн тулд та дээрх хуулийн нөхцлийг зөвшөөрөх ёстой.">
-<!ENTITY reportWizardPrivacy.description "Энэ багаж нь Evangelism багт &brandShortName;-д ажиллахгүй байгаа вэб хуудсын талаар мэдэгдэх буюу, эсвэл &brandShortName;-г хаана. Энэ нь бидэнд &brandShortName; хэрэглэгчидтэй хандах дадлагын хамгийн сайн арга юм. Дараахаас бид хэрхэн танаас ямар мэдээлэл авч болох талаар  уншина уу.">
+<!ENTITY reportWizardPrivacy.description "Энэ багаж нь Evangelism багт &brandShortName;-д ажиллахгүй байгаа вэб хуудасны талаар мэдэгдэх буюу, эсвэл &brandShortName;-г хаана. Энэ нь бидэнд &brandShortName; хэрэглэгчидтэй хандах дадлагын хамгийн сайн арга юм. Дараахаас бид хэрхэн танаас ямар мэдээлэл авч болох талаар  уншина уу.">
 <!ENTITY sendReport.description "Мэдээллийг сервер лүү илгээж байна…">
 <!ENTITY sendReport.label "Мэдээллийг илгээж байна">
