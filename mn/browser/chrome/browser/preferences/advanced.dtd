@@ -26,7 +26,7 @@
 <!ENTITY networkTab.label                "Сүлжээ">
 <!ENTITY connection.label                "Холболт">
 <!ENTITY connectionDesc.label            "&brandShortName; интернэтэд хэрхэн холбогдохыг тохируул">
-<!ENTITY connectionSettings.label        "Тохируулга...">
+<!ENTITY connectionSettings.label        "Тохируулга…">
 <!ENTITY connectionSettings.accesskey    "а">
 <!ENTITY offlineStorage.label            "Салангид үеийн хадгалалт">
 <!-- LOCALIZATION NOTE:                                   
@@ -42,7 +42,7 @@
 <!ENTITY clearCacheNow.accesskey         "д">
 
 <!ENTITY updateTab.label                 "Шинэчлэл">
-<!ENTITY autoCheck.label                 "Шинэчлэлийг нь автомат шалга:">
+<!ENTITY autoCheck.label                 "Автоматаар шалгах зүйлс:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate.label         "Суугдсан нэмэгдлүүд">
@@ -50,7 +50,7 @@
 <!ENTITY enableSearchUpdate.label        "Интернэтэд хайлт хийгчид">
 <!ENTITY enableSearchUpdate.accesskey    "р">
 
-<!ENTITY whenUpdatesFound.label          "Хэрэв &brandShortName;-н шинэчлэл олдвол:">
+<!ENTITY whenUpdatesFound.label          "Хэрэв &brandShortName; дээр шинэчлэл олдвол:">
 <!ENTITY askMe.label                     "Надаас юу хийхийг минь асуу">
 <!ENTITY askMe.accesskey                 "а">
 <!ENTITY modeAutomatic.label             "Шинэчлэлийг автоматаар татаж аваад суулга">

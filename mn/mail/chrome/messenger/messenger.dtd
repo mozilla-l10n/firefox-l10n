@@ -649,7 +649,7 @@
 <!ENTITY copyEmailCmd.accesskey "З">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Гүйцэтгэгдсэн">
+<!ENTITY statusText.label "Дуудаж дууссан">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Багасга">

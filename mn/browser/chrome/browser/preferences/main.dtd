@@ -16,15 +16,15 @@
 <!ENTITY restoreDefault.accesskey  "с">
 
 <!ENTITY downloads.label     "Файл татаж авах үед">
-<!ENTITY showWhenDownloading.label     "Татаж авагч цонхыг харуул">
+<!ENTITY showWhenDownloading.label     "Татаж авч байгаа цонхыг харуул">
 <!ENTITY showWhenDownloading.accesskey "в">
 <!ENTITY closeWhenDone.label "Бүх татаж авалт дуусангуут хаа">
 <!ENTITY closeWhenDone.accesskey "т">
 <!ENTITY saveTo.label "Файлыг энд хадгал">
 <!ENTITY saveTo.accesskey "д">
-<!ENTITY chooseFolderWin.label        "Зааж өг...">
+<!ENTITY chooseFolderWin.label        "Зааж өг…">
 <!ENTITY chooseFolderWin.accesskey    "ө">
-<!ENTITY chooseFolderMac.label        "Сонго...">
+<!ENTITY chooseFolderMac.label        "Сонго…">
 <!ENTITY chooseFolderMac.accesskey    "о">
 <!ENTITY alwaysAsk.label "Файл хаана хадгалахыг үргэлж асуу">
 <!ENTITY alwaysAsk.accesskey "ы">

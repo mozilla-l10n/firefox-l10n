@@ -90,7 +90,7 @@
 <!ENTITY  permUseDefault        "Анхдагч эрхийг хэрэглэ">
 <!ENTITY  permAllow             "Зөвшөөр">
 <!ENTITY  permAllowSession      "Зорчсон хэсэгт зөвшөөр">
-<!ENTITY  permBlock             "Хорь">
+<!ENTITY  permBlock             "Хорих">
 <!ENTITY  permissionsFor        "Хандах эрхийн сан:">
 <!ENTITY  permImage             "Зурагнуудыг дууд">
 <!ENTITY  permPopup             "Цовхчигч цонхнуудыг нээ">

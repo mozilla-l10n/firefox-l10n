@@ -62,7 +62,7 @@
 <!ENTITY closeWindow.label "Цонх хаа">
 <!ENTITY closeWindow.accesskey "х">
 
-<!ENTITY bookmarksMenu.label "Хаягууд">
+<!ENTITY bookmarksMenu.label "Хаягнууд">
 <!ENTITY bookmarksMenu.accesskey "я">
 <!ENTITY bookmarkThisPageCmd.label "Энэ хуудасны хаягийг хадгал">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -94,12 +94,12 @@
 <!ENTITY locationItem.title           "Байрлал">
 <!ENTITY searchItem.title             "Хайх">
 <!ENTITY throbberItem.title           "Идэвхижлийн заалт">
-<!ENTITY bookmarksItem.title          "Хаягууд">
+<!ENTITY bookmarksItem.title          "Хаягнууд">
 
 <!-- Toolbar items -->
 <!ENTITY  homeButton.label            "Эхлэл">
 
-<!ENTITY bookmarksButton.label          "Хаягууд">
+<!ENTITY bookmarksButton.label          "Хаягнууд">
 <!ENTITY bookmarksButton.tooltip        "Хаягийн жагсаалт">
 <!ENTITY bookmarksSidebarCmd.accesskey  "я">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
@@ -117,8 +117,8 @@
 <!ENTITY keywordfield.accesskey       "ү">
 <!ENTITY search.label                 "Вэб хайлт">
 <!ENTITY search.accesskey             "а">
-<!ENTITY downloads.label              "Татаж авагч">
-<!ENTITY downloads.tooltip            "Татаж авалтын явцыг харуул">
+<!ENTITY downloads.label              "Татаж авсан файлууд">
+<!ENTITY downloads.tooltip            "Татаж авалтын явцыг харуулна">
 <!ENTITY downloads.accesskey          "Т">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -126,7 +126,7 @@
 <!ENTITY addons.tooltip               "Суугдсан нэмэгдлүүдийг харуулах ба зохицуулах">
 <!ENTITY addons.accesskey             "Н">
 
-<!ENTITY errorConsoleCmd.label        "Алдаа харуулагч цонх">
+<!ENTITY errorConsoleCmd.label        "Гарсан алдааг харуулах цонх">
 <!ENTITY errorConsoleCmd.accesskey    "ц">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
@@ -282,7 +282,7 @@
 <!ENTITY saveVideoCmd.accesskey       "е">
 <!ENTITY saveAudioCmd.label           "Дуут файлд нэр өгч хадгал…">
 <!ENTITY saveAudioCmd.accesskey       "н">
-<!ENTITY sendImageCmd.label           "Зураг илгээ…">
+<!ENTITY sendImageCmd.label           "Зургийг илгээ…">
 <!ENTITY sendImageCmd.accesskey       "З">
 <!ENTITY sendVideoCmd.label           "Видеог илгээ…">
 <!ENTITY sendVideoCmd.accesskey       "и">
@@ -294,7 +294,7 @@
 <!ENTITY copyLinkTextCmd.accesskey    "а">
 <!ENTITY copyImageCmd.label           "Зургийн байрлалыг сануул">
 <!ENTITY copyImageCmd.accesskey       "З">
-<!ENTITY copyImageContentsCmd.label   "Зураг сануул">
+<!ENTITY copyImageContentsCmd.label   "Зургийг сануул">
 <!ENTITY copyImageContentsCmd.accesskey  "у">
 <!ENTITY copyVideoURLCmd.label        "Видеоны байрлалыг сануул">
 <!ENTITY copyVideoURLCmd.accesskey    "л">

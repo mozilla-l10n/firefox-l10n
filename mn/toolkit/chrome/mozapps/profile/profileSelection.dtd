@@ -47,11 +47,11 @@
 
 <!ENTITY            availprofiles.label    "Боломжтой хувийн орчин">
 
-<!ENTITY            newButton.label        "Хувийн орчин үүсгэ...">
+<!ENTITY            newButton.label        "Хувийн орчин үүсгэ…">
 <!ENTITY            newButton.accesskey    "Х">
-<!ENTITY            renameButton.label     "Хувийн орчны нэр өөрчил...">
+<!ENTITY            renameButton.label     "Хувийн орчны нэр өөрчил…">
 <!ENTITY            renameButton.accesskey "ө">
-<!ENTITY            deleteButton.label     "Хувийн орчинг устга...">
+<!ENTITY            deleteButton.label     "Хувийн орчинг устга…">
 <!ENTITY            deleteButton.accesskey "у">
 
 <!-- manager entities -->

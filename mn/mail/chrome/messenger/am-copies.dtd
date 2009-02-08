@@ -8,7 +8,7 @@
 <!ENTITY fccReplyFollowsParent.accesskey "р">
 <!ENTITY chooseFolderButton.label "Сан сонго…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Хуулбар2 захианы хаягууд:">
+<!ENTITY bccAddress.label "Хуулбар2 захианы хаягнууд:">
 <!ENTITY bccAddress.accesskey "Х">
 <!ENTITY specialFolderTitle.label "Тусгай сангууд">
 <!ENTITY draftMailFolder.label "Захианы ноорог хадгалах газар:">

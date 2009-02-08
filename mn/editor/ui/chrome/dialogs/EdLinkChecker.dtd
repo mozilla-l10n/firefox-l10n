@@ -39,7 +39,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Зургийг эсвэл Холбоосыг шалга">
-<!ENTITY urlsNotFound.label    "Дараах зураг эсвэл холбоосын байрлал олдсонгүй:">
+<!ENTITY urlsNotFound.label    "Дараах зураг эсвэл холбоосны байрлал олдсонгүй:">
 <!ENTITY notFoundKey.label     "(&quot;X&quot; = файл олдоогүй, &quot;?&quot; = холбогдох оролдлогын цаг дууссан.)">
 <!ENTITY changeUrlButton.label "Сонгосон зүйлийн байрлалыг өөрчлөх">
 <!ENTITY succeeded.label       "Амжилттай">

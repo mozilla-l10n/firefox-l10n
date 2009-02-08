@@ -40,8 +40,8 @@
 <!ENTITY importItems.title              "Импортлох зүйлс">
 <!ENTITY importItems.label              "Алиныг нь импортлохоо сонго:">
 
-<!ENTITY migrating.title                "Импортолж байна...">
-<!ENTITY migrating.label                "Дараах зүйлс импортлогдож байна...">
+<!ENTITY migrating.title                "Импортолж байна…">
+<!ENTITY migrating.label                "Дараах зүйлс импортлогдож байна…">
 
 <!ENTITY selectProfile.title            "Хувийн орчинг сонго">
 <!ENTITY selectProfile.label            "Уг байрлалаас дараах зүйлсийг импортлох боломжтой байна:">

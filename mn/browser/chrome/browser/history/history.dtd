@@ -22,7 +22,7 @@
 <!ENTITY openInNewTab.accesskey "с">
 <!ENTITY openInNewWindow.label "Шинэ цонхонд нээ">
 <!ENTITY openInNewWindow.accesskey "ц">
-<!ENTITY bookmarkLink.label "Энэ холбоосын хаягийг хадгал...">
+<!ENTITY bookmarkLink.label "Энэ холбоосны хаягийг хадгал…">
 <!ENTITY bookmarkLink.accesskey "Э">
-<!ENTITY copyLink.label "Холбоосын хаягийг сануул">
+<!ENTITY copyLink.label "Холбоосны хаягийг сануул">
 <!ENTITY copyLink.accesskey "б">

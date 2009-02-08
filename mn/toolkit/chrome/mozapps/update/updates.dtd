@@ -37,8 +37,8 @@
 <!ENTITY  incompatibleList.title          "Нийцгүй нэмэгдлүүд олдлоо">
 
 <!ENTITY  downloading.title               "Шинэчлэлийг татаж авч байна">
-<!ENTITY  downloading.intro               "Шинэчлэлийг татаж авч байна...">
-<!ENTITY  connecting.label                "Шинэчлэх сервертэй холбогдож байна...">
+<!ENTITY  downloading.intro               "Шинэчлэлийг татаж авч байна…">
+<!ENTITY  connecting.label                "Шинэчлэх сервертэй холбогдож байна…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; татаж авсан шинэчлэлийн нягтыг
                                            шалгаж чадахгүй байна. Иймд шинэчлэлийн багцыг дахин
                                            бүхлээр нь татаж авч байна.">
@@ -65,7 +65,7 @@
                                            Та одоо &brandShortName;-г шинээр ачаалах, эсвэл үргэлжлүүлэн ажиллаад сүүлд шинээр ачаалж болох юм.">
 <!ENTITY  installed.title                 "Шинэчлэл суугдсан">
 <!ENTITY  installed.intro                 "Шинэчлэл амжилттай суугдлаа.">
-<!ENTITY  whatsnew.label                  "Юу шинээр нэмэгдсэнийг унш...">
+<!ENTITY  whatsnew.label                  "Юу шинээр нэмэгдсэнийг унш…">
 
 <!ENTITY  update.details.label            "Нарийн мэдээлэл">
 <!ENTITY  update.installedOn.label        "Суугдсан газар:">

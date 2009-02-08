@@ -57,10 +57,10 @@
 <!ENTITY stopButton.label "Зогс">
 <!ENTITY stopButton.accessKey "о">
 <!ENTITY userDictionary.label "Хувийн толь бичиг:">
-<!ENTITY moreDictionaries.label "Нэмж толь бичиг тат...">
+<!ENTITY moreDictionaries.label "Нэмж толь бичиг тат…">
 <!ENTITY addToUserDictionaryButton.label "Үг нэм">
 <!ENTITY addToUserDictionaryButton.accessKey "г">
-<!ENTITY editUserDictionaryButton.label "Засварлах...">
+<!ENTITY editUserDictionaryButton.label "Засварлах…">
 <!ENTITY editUserDictionaryButton.accessKey "З">
 <!ENTITY recheckButton.label "Хуудсыг дахин шалга">
 <!ENTITY recheckButton.accessKey "д">

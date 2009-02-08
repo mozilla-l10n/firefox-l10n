@@ -16,7 +16,7 @@
 <!ENTITY devmgr.status.label                "Төлөв байдал">
 <!ENTITY devmgr.title                       "Төхөөрөмжийн зохицуулагч">
 <!ENTITY devmgr.version.label               "Хувилбар">
-<!ENTITY loaddevice.browse                  "Зааж өг...">
+<!ENTITY loaddevice.browse                  "Зааж өг…">
 <!ENTITY loaddevice.browse.accesskey        "З">
 <!ENTITY loaddevice.filename                "Модулийн файлын нэр:">
 <!ENTITY loaddevice.filename.accesskey      "ф">

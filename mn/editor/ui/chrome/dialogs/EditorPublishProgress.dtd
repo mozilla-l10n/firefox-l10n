@@ -42,7 +42,7 @@
 <!ENTITY docSubdir.label       "Хуудасны дэд сан:">
 <!ENTITY otherSubdir.label     "Зургийн дэд сан:">
 
-<!ENTITY status.label          "Бүтээж байна...">
+<!ENTITY status.label          "Бүтээж байна…">
 <!ENTITY fileList.label        "Бүтээх төлөв байдал">
 <!ENTITY statusHeader.label    "Төлөв байдал">
 <!ENTITY filenameHeader.label  "Файлын нэр">

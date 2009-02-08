@@ -22,7 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "ч">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Таны нэмэдлүүдийн шинэчлэлийг хайна">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Таны харагдцын маягийн шинэчлэлийг хайна">
-<!ENTITY cmd.installLocalFile.label       "Суулга...">
+<!ENTITY cmd.installLocalFile.label       "Суулга…">
 <!ENTITY cmd.installLocalFile.accesskey   "а">
 <!ENTITY cmd.installFileAddon.tooltip     "Нэмэгдлийг суулга">
 <!ENTITY cmd.installFileTheme.tooltip     "Маягийг суулга">
@@ -63,7 +63,7 @@
 <!ENTITY cmd.enable.accesskey             "З">
 <!ENTITY cmd.enable.tooltip               "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдлийг зөвшөөрнө">
 
-<!ENTITY cmd.disable.label                "Хорь">
+<!ENTITY cmd.disable.label                "Хорих">
 <!ENTITY cmd.disable.accesskey            "Х">
 <!ENTITY cmd.disable.tooltip              "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдлийг хорино">
 <!ENTITY cmd.uninstall.label              "Үл суулга">
@@ -163,9 +163,9 @@
 <!ENTITY installSuccess.label             "Суулгац амжилттай гүйцэтгэгдлээ.">
 <!ENTITY installSuccessRestart.label      "Суулгацыг гүйцээхийн тулд шинээр ачаал.">
 <!ENTITY updateSuccessRestart.label       "Шинэчлэлийг гүйцээхийн тулд шинээр ачаал.">
-<!ENTITY installWaiting.label             "Хүлээж байна...">
-<!ENTITY installIncompatibleUpdate.label  "Хувилбарын тохиромжийг шалгаж байна...">
-<!ENTITY installFinishing.label           "Суулгаж байна...">
+<!ENTITY installWaiting.label             "Хүлээж байна…">
+<!ENTITY installIncompatibleUpdate.label  "Хувилбарын тохиромжийг шалгаж байна…">
+<!ENTITY installFinishing.label           "Суулгаж байна…">
 <!ENTITY installFailure.label             "Суулгацад алдаа гарлаа.">
 <!ENTITY progressStatus.label             "Шинэчлэл буй эсэхийг шалгаж байна">
 

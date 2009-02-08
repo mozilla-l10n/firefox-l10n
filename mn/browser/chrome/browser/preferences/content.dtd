@@ -10,7 +10,7 @@
 
 <!ENTITY  enableJavaScript.label      "Жааваскриптийг зөвшөөр">
 <!ENTITY  enableJavaScript.accesskey  "а">
-<!ENTITY  advancedJS.label            "Нэмэлт...">
+<!ENTITY  advancedJS.label            "Нэмэлт…">
 <!ENTITY  advancedJS.accesskey        "м">
 
 <!ENTITY  enableJava.label            "Жааваг зөвшөөр">
@@ -24,10 +24,10 @@
 <!ENTITY  defaultSize.label           "Хэмжээ:">
 <!ENTITY  defaultSize.accesskey       "э">
 
-<!ENTITY  advancedFonts.label         "Нэмэлт...">
+<!ENTITY  advancedFonts.label         "Нэмэлт…">
 <!ENTITY  advancedFonts.accesskey     "м">
 
-<!ENTITY  colors.label                "Өнгө...">
+<!ENTITY  colors.label                "Өнгө…">
 <!ENTITY  colors.accesskey            "н">
 
 <!ENTITY languages.label              "Хэл">

@@ -7,7 +7,7 @@
 <!ENTITY longTimeFormat "#1:#2:#3">
 <!ENTITY openingSource "Нээгдэж буй байрлал:">
 <!ENTITY openingTarget "Үүгээр:">
-<!ENTITY openingTitle "#1-н #2&#037; Гүйцэтгэгдсэн">
+<!ENTITY openingTitle "#1-н #2&#037; дуудаж дууссан">
 <!ENTITY pause "Завсарла">
 <!ENTITY pausedMsg "Татаж авалт завсарлагдсан">
 <!ENTITY percentMsg "#1&#037;">

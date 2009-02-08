@@ -56,7 +56,7 @@
 <!ENTITY hfPage "Хуудас #">
 <!ENTITY hfPageAndTotal "Хуудас # , нийт #">
 <!ENTITY hfBlank "--хоосон--">
-<!ENTITY hfCustom "Дурын...">
+<!ENTITY hfCustom "Дурын…">
 
-<!ENTITY customPrompt.title "Дурын...">
+<!ENTITY customPrompt.title "Дурын…">
 <!ENTITY customPrompt.prompt "Дурын толгой болон хөл хэсгийн текст оруул">

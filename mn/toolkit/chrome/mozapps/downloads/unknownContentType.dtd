@@ -43,7 +43,7 @@
 
 <!ENTITY  openWith.label              "Үүгээр нээ">
 <!ENTITY  openWith.accesskey          "н">
-<!ENTITY  other.label                 "Бусад...">
+<!ENTITY  other.label                 "Бусад…">
 
 <!ENTITY  saveFile.label              "Файлыг хадгал">
 <!ENTITY  saveFile.accesskey          "л">
@@ -53,9 +53,9 @@
 
 <!ENTITY  whichIsA.label              "ямар:">
 
-<!ENTITY  chooseHandlerMac.label      "Сонго...">
+<!ENTITY  chooseHandlerMac.label      "Сонго…">
 <!ENTITY  chooseHandlerMac.accesskey  "С">
-<!ENTITY  chooseHandler.label         "Зааж өг...">
+<!ENTITY  chooseHandler.label         "Зааж өг…">
 <!ENTITY  chooseHandler.accesskey     "З">
 <!ENTITY  unknownPromptText.label     "Та энэ файлыг хадгалмаар байна уу?">
 

@@ -9,7 +9,7 @@
 <!ENTITY languages.customize.moveDown.accesskey         "о">
 <!ENTITY languages.customize.deleteButton.label         "Устга">
 <!ENTITY languages.customize.deleteButton.accesskey     "У">
-<!ENTITY languages.customize.selectLanguage.label       "Нэмэх хэлээ сонго...">
+<!ENTITY languages.customize.selectLanguage.label       "Нэмэх хэлээ сонго…">
 <!ENTITY languages.customize.addButton.label            "Нэм">
 <!ENTITY languages.customize.addButton.accesskey        "м">
 

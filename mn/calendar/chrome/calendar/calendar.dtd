@@ -222,7 +222,7 @@
 <!ENTITY calendar.task.delete.button.tooltip    "Сонгосон даалгаварыг устга">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label            "Бичиг баримт: Гүйцэтгэгдсэн">
+<!ENTITY statusText.label            "Бичиг баримт: Дуудаж дууссан">
 
 <!-- customizable toolbars -->
 <!ENTITY calendar.context.customize.label             "Өөрчил…">
@@ -415,7 +415,7 @@
 <!ENTITY calendar.print.settingsGroup.label "Хэвлэх тохиргоо">
 
 <!-- Error reporting -->
-<!ENTITY calendar.error.detail "Нарийн мэдээлэл...">
+<!ENTITY calendar.error.detail "Нарийн мэдээлэл…">
 <!ENTITY calendar.error.number "Алдааны дугаар:">
 <!ENTITY calendar.error.description "Тодорхойлолт:">
 <!ENTITY calendar.error.title "Алдаа гарлаа">

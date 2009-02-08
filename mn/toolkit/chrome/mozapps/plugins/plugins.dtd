@@ -1,7 +1,7 @@
 <!ENTITY pluginWizard.title                                  "Плагин ологч үйлчилгээ">
 <!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title;-д тавтай морил">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; одоо боломжтой плагиныг шалгаж байна...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; одоо боломжтой плагиныг шалгаж байна…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Боломжтой плагины татаж авалт">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Дараах плагинууд боломжтой:">
@@ -13,7 +13,7 @@
 <!ENTITY pluginWizard.licensePage.deny.label                 "Би зөвшөөрөхгүй (плагин суугдахгүй).">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "Плагиныг суулгаж байна">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; плагин суулгаж байна...">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; плагин суулгаж байна…">
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; дутагдсан плагиныг суулгаж дууслаа:">
 

@@ -35,13 +35,13 @@
 <!ENTITY  keepUntil.accesskey           "й">
 
 <!ENTITY  expire.label                  "тэдний хугацаа нь дуустал">
-<!ENTITY  close.label                   "Намайг &brandShortName;-г хаатал">
-<!ENTITY  askEachTime.label             "тухайн бүрд надаас асуу">
+<!ENTITY  close.label                   "намайг &brandShortName;-г хаатал">
+<!ENTITY  askEachTime.label             "тухай бүрд надаас асуу">
 
-<!ENTITY  cookieExceptions.label        "Зөвшөөрөгдсөн хуудас...">
+<!ENTITY  cookieExceptions.label        "Зөвшөөрөгдсөн хуудас…">
 <!ENTITY  cookieExceptions.accesskey    "ш">
 
-<!ENTITY  showCookies.label             "Күүкиг харуул...">
+<!ENTITY  showCookies.label             "Күүкиг харуул…">
 <!ENTITY  showCookies.accesskey         "а">
 
 <!ENTITY  privateData.label             "Хувийн өгөгдөл">
@@ -49,9 +49,9 @@
 <!ENTITY  alwaysClear.label              "Намайг &brandShortName;-г хаах үед үргэлж миний хувийн өгөгдлийг устга">
 <!ENTITY  alwaysClear.accesskey          "Н">
 
-<!ENTITY  clearDataSettings.label        "Тохиргоо...">
+<!ENTITY  clearDataSettings.label        "Тохиргоо…">
 <!ENTITY  clearDataSettings.accesskey    "х">
 
-<!ENTITY  clearDataNow.label             "Одоо арилга...">
+<!ENTITY  clearDataNow.label             "Одоо арилга…">
 <!ENTITY  clearDataNow.accesskey         "а">
 

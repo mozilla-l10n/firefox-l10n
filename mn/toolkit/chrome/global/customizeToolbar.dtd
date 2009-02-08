@@ -5,7 +5,7 @@
 <!ENTITY iconsAndText.label			"Тэмдэгт зураг ба текст">
 <!ENTITY instructions.description	"Та самбараас юм арилгах эсвэл нэмэхдээ чирж тавин гүйцэтгэж болно.">
 <!ENTITY restoreDefaultSet.label	"Анхны тохиргоог сэргээ">
-<!ENTITY saveChanges.label			"Гүйцэтгэгдсэн">
+<!ENTITY saveChanges.label			"Хадгалсан">
 <!ENTITY show.label					"Харуул:">
 <!ENTITY text.label					"Текст">
 <!ENTITY undoChanges.label			"Өөрчлөлтийг буцаа">

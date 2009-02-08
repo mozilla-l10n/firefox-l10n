@@ -10,8 +10,8 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; эдгээр нэмэгдлүүдэд тохирсон хувилбар байгаа эсэхийг шалгаж чадна.">
 
 <!ENTITY  checking.wizard.title           "Тохиромжтой нэмэгдлүүдийг шалгаж байна">
-<!ENTITY  checking.top.label              "Шинэчлэлд тохирохгүй нэмэгдлүүдийг шалгаж байна...">
-<!ENTITY  checking.status                 "Энэ нь хэсэг удаж магадгүй...">
+<!ENTITY  checking.top.label              "Шинэчлэлд тохирохгүй нэмэгдлүүдийг шалгаж байна…">
+<!ENTITY  checking.status                 "Энэ нь хэсэг удаж магадгүй…">
 
 <!ENTITY  found.wizard.title               "Тохиромжтой нэмэгдлүүд олдлоо">
 <!ENTITY  found.top.label                 "Суулгахыг хүссэн нэмэгдлээ сонгоно уу:">
@@ -20,7 +20,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "В">
 
 <!ENTITY  installing.wizard.title         "Тохиромжтой нэмэгдлүүдийг суулгаж байна">
-<!ENTITY  installing.top.label            "Таны нэмэгдлүүдийн шинэчлэлийг татаж авч суулгаж байна...">
+<!ENTITY  installing.top.label            "Таны нэмэгдлүүдийн шинэчлэлийг татаж авч суулгаж байна…">
 
 <!ENTITY  noupdates.wizard.title          "Тохиромжтой нэмэгдэл олдсонгүй">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; таны тохиромжгүй нэмэгдлүүдэд шинэчлэл хайгаад олсонгүй.">
@@ -37,7 +37,7 @@
 
 <!ENTITY  versioninfo.wizard.title        "Нэмэгдлүүдийн тохиромжтой эсэхийг шалгаж байна">
 <!ENTITY  versioninfo.top.label           "&brandShortName;-н энэ хувилбартай таны нэмэгдлүүд тохирох эсэхийг шалгаж байна.">
-<!ENTITY  versioninfo.waiting             "Энэ нь хэсэг хугацаа авч магадгүй...">
+<!ENTITY  versioninfo.waiting             "Энэ нь хэсэг хугацаа авч магадгүй…">
 
 <!ENTITY  installerrors.wizard.title      "Шинэчлэлийг суулгах үед алдаа гарлаа">
 <!ENTITY  installerrors.intro.label       "&brandShortName; таны зарим нэмэгдлүүдийг шинэчлэж байх үед алдаатай тулгарлаа.">
@@ -46,5 +46,5 @@
 <!ENTITY  clickFinish.label               "Дуусга товч дээр дарж &brandShortName;-г ачаалалтыг үргэлжлүүлнэ.">
 <!ENTITY  clickFinish.labelMac            "Гүйцэтгэсэн товч дээр дарж &brandShortName;-г үргэлжлүүлнэ үү.">
 <!ENTITY  enableChecking.label            "&brandShortName; шинэчлэл шалгахыг нь зөвшөөр.">
-<!ENTITY  details.label                   "Тодорхой мэдээлэл...">
+<!ENTITY  details.label                   "Тодорхой мэдээлэл…">
 <!ENTITY  details.accesskey               "й">

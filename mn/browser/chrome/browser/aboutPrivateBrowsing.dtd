@@ -1,16 +1,16 @@
 <!ENTITY privatebrowsingpage.title                          "Хувийн зорчилт">
 <!ENTITY privatebrowsingpage.title.normal                   "Та хувийн зорчих горимыг эхлүүлмээр байна уу?">
 
-<!ENTITY privatebrowsingpage.issueDesc                      "Энэ хэсэгт ямар ч зорчсон түүхийг &brandShortName; хадгалахгүй.">
+<!ENTITY privatebrowsingpage.issueDesc                      "Энэ хэсэгт зорчсон ямар ч түүхийг &brandShortName; хадгалахгүй.">
 <!ENTITY privatebrowsingpage.issueDesc.normal               "&brandShortName; одоогоор аминчлан зорчих горимд биш байна.">
 
-<!ENTITY privatebrowsingpage.description                    "Хувийн зорчих хэсэгт, &brandShortName; ямар ч зорчсон түүх, хайлт хийсэн түүх, татаж авсан түүх, вэб хүснэгтийн мэдээлэл, күүки мөн интернэтийн түр хадгалсан файл зэргийг хадгалдаггүй. Гэхдээ, таны татаж авсан бол хадгалсан хаягнууд тань үлдэх болно.">
+<!ENTITY privatebrowsingpage.description                    "Хувийн зорчих хэсэгт, &brandShortName; зорчсон ямар ч түүх, хайлт хийсэн түүх, татаж авсан түүх, вэб хүснэгтийн мэдээлэл, күүки мөн интернэтийн түр хадгалсан файл зэргийг хадгалдаггүй. Харин, таны татаж авсан болон хадгалсан хаягнууд тань үлдэх болно.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 <!ENTITY privatebrowsingpage.clearRecentHistoryBefore       "Та ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner        "сүүлийн зорчсон түүхээ устгаснаар">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter        "мөн эхлүүлж болно.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner        "сүүлийн зорчсон түүхээ устгачихаад">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter        " мөн эхлүүлж болно.">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label     "Хувийн зорчилтыг эхлүүл">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">

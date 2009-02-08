@@ -81,7 +81,7 @@
 <!ENTITY imagemapBox.label "Зургийн холбоост хуваалт">
 <!ENTITY removeImageMapButton.label "Арилга">
 <!ENTITY removeImageMapButton.accessKey "л">
-<!ENTITY editImageMapButton.label "Засварлах...">
+<!ENTITY editImageMapButton.label "Засварлах…">
 <!ENTITY editImageMapButton.tooltip "Энэ зурганд дарж болохоор цэг үүсгэ">
 
 <!-- These are the options for image alignment -->

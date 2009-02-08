@@ -48,10 +48,10 @@
 <!ENTITY newBlankPageCmd.label "Бүтээгч хуудас">
 <!ENTITY newBlankPage.accesskey "у" >
 <!ENTITY newMenu.label "Шинэ">
-<!ENTITY openFileCmd.label "Файл нээ...">
+<!ENTITY openFileCmd.label "Файл нээ…">
 <!ENTITY fileopen.accesskey "э">
 <!ENTITY fileopen.keybinding "o">
-<!ENTITY openremoteCmd.label "Вэб хаяг нээ...">
+<!ENTITY openremoteCmd.label "Вэб хаяг нээ…">
 <!ENTITY fileopenremote.accesskey "н">
 <!ENTITY fileopenremote.keybinding "l">
 <!ENTITY fileRecentMenu.label "Сүүлд хэрэглэсэн хуудас">
@@ -61,12 +61,12 @@
 <!ENTITY saveCmd.label "Хадгал">
 <!ENTITY filesave.accesskey "х">
 <!ENTITY filesave.keybinding "s">
-<!ENTITY saveAsCmd.label "Нэр өгч хадгал...">
+<!ENTITY saveAsCmd.label "Нэр өгч хадгал…">
 <!ENTITY filesaveas.accesskey "х">
 
 <!ENTITY publishCmd.label "Бэлэн болго">
 <!ENTITY publishcmd.accesskey "б">
-<!ENTITY publishAsCmd.label "Нэр өгч бүтээ...">
+<!ENTITY publishAsCmd.label "Нэр өгч бүтээ…">
 <!ENTITY publishas.accesskey "н">
 <!ENTITY exportToTextCmd.label "Текст рүү экспортол">
 <!ENTITY fileexporttotext.accesskey "п">
@@ -74,14 +74,14 @@
 <!ENTITY filesaveandchangeencoding.accesskey "Т">
 <!ENTITY previewCmd.label "Хуудасны харагдац">
 <!ENTITY filepreview.accesskey "ц">
-<!ENTITY sendPageCmd.label "Хуудсыг илгээ...">
+<!ENTITY sendPageCmd.label "Хуудсыг илгээ…">
 <!ENTITY sendPage.accesskey "у">
 <!ENTITY printSetupCmd.label "Хуудасны тохиргоо">
 <!ENTITY fileprintsetup.accesskey "т">
 <!ENTITY printPreviewCmd.label "Хэвлэх харагдац">
 <!ENTITY fileprintpreview.accesskey "ц">
-<!ENTITY printCmd.label "Хэвлэ...">
-<!ENTITY printButtonCmd.label "Хэвлэ...">
+<!ENTITY printCmd.label "Хэвлэ…">
+<!ENTITY printButtonCmd.label "Хэвлэ…">
 <!ENTITY fileprint.accesskey "в">
 <!ENTITY fileprint.keybinding "p">
 <!ENTITY closeCmd.label "Хаа">
@@ -98,7 +98,7 @@
 <!ENTITY pasteNoFormatting.accesskey "й">
 <!ENTITY pasteAs.label "Буулгахдаа">
 <!ENTITY pasteAs.accesskey "Б">
-<!ENTITY publishSettings.label "Хуудас бүтээх тохиргоо...">
+<!ENTITY publishSettings.label "Хуудас бүтээх тохиргоо…">
 <!ENTITY publishSettings.accesskey "т">
 
 <!-- For a "Paste" submenu when more than 1 
@@ -124,7 +124,7 @@
 <!ENTITY editpastequotation.keybinding "v">
 <!ENTITY editStripQuotesCmd.label "Strip Quotes">
 <!ENTITY editRewrapCmd.label "Мөрөнд багтаа">
-<!ENTITY findCmd.label "Олж орлуул...">
+<!ENTITY findCmd.label "Олж орлуул…">
 <!ENTITY editfind.accesskey "л">
 <!ENTITY editfind.keybinding "f">
 <!ENTITY editfind.keybinding2 "VK_F19">
@@ -154,23 +154,23 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Орлуул">
 <!ENTITY insertmenu.accesskey "р">
-<!ENTITY insertLinkCmd.label "Холбоос...">
+<!ENTITY insertLinkCmd.label "Холбоос…">
 <!ENTITY insertlink.accesskey "Х">
 <!ENTITY insertlink.keybinding "l">
-<!ENTITY insertAnchorCmd.label "Нэрлэсэн зангуу...">
+<!ENTITY insertAnchorCmd.label "Нэрлэсэн зангуу…">
 <!ENTITY insertanchor.accesskey "с">
-<!ENTITY insertImageCmd.label "Зураг...">
+<!ENTITY insertImageCmd.label "Зураг…">
 <!ENTITY insertimage.accesskey "З">
-<!ENTITY insertImageMapCmd.label "Зурагтай холбоос...">
+<!ENTITY insertImageMapCmd.label "Зурагтай холбоос…">
 <!ENTITY insertHLineCmd.label "Хэвтээ шугам">
 <!ENTITY inserthline.accesskey "ш">
-<!ENTITY insertTableCmd.label "Хүснэгт...">
+<!ENTITY insertTableCmd.label "Хүснэгт…">
 <!ENTITY inserttable.accesskey "с">
 <!ENTITY insertFormMenu.label "Хүснэгт">
 <!ENTITY insertformmenu.accesskey "Х">
-<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Тэмдэгт ба дүрс...">
+<!ENTITY insertCharsCmd.label "Тэмдэгт ба дүрс…">
 <!ENTITY insertchars.accesskey "э">
 <!ENTITY insertBreakCmd.label "Мөр хугалах">
 <!ENTITY insertbreak.accesskey "а">
@@ -178,21 +178,21 @@
 <!ENTITY insertbreakall.accesskey "г">
 
 <!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Хүснэгтэд зааж өгөх...">
+<!ENTITY insertFormCmd.label "Хүснэгтэд зааж өгөх…">
 <!ENTITY insertform.accesskey "г">
-<!ENTITY insertInputTagCmd.label "Хүснэгтийн талбар...">
+<!ENTITY insertInputTagCmd.label "Хүснэгтийн талбар…">
 <!ENTITY insertinputtag.accesskey "т">
-<!ENTITY insertInputImageCmd.label "Зургийн хэлбэр...">
+<!ENTITY insertInputImageCmd.label "Зургийн хэлбэр…">
 <!ENTITY insertinputimage.accesskey "з">
-<!ENTITY insertTextAreaCmd.label "Бүлэг текст...">
+<!ENTITY insertTextAreaCmd.label "Бүлэг текст…">
 <!ENTITY inserttextarea.accesskey "т">
-<!ENTITY insertSelectCmd.label "Жагсаалтын сонголт...">
+<!ENTITY insertSelectCmd.label "Жагсаалтын сонголт…">
 <!ENTITY insertselect.accesskey "у">
-<!ENTITY insertButtonCmd.label "Товч зааж өг...">
+<!ENTITY insertButtonCmd.label "Товч зааж өг…">
 <!ENTITY insertbutton.accesskey "о">
 <!ENTITY insertLabelCmd.label "Зэрэглэл тогтоох">
 <!ENTITY insertlabel.accesskey "р">
-<!ENTITY insertFieldSetCmd.label "Талбарын өгөгдлийг зааж өг...">
+<!ENTITY insertFieldSetCmd.label "Талбарын өгөгдлийг зааж өг…">
 <!ENTITY insertfieldset.accesskey "т">
 <!ENTITY insertIsIndexCmd.label "Жагсаасан хайлт">
 <!ENTITY insertisindex.accesskey "о">
@@ -203,7 +203,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "г">
 <!ENTITY spellCheckAddToDictionary.label "Үгийн санд нэм">
 <!ENTITY spellCheckAddToDictionary.accesskey "э">
-<!ENTITY createLinkCmd.label "Холбоос үүсгэ...">
+<!ENTITY createLinkCmd.label "Холбоос үүсгэ…">
 <!ENTITY createlink.accesskey "с">
 <!ENTITY editLinkCmd.label "Шинэ бүтээгчид холбоосыг засварла">
 <!ENTITY editlink.accesskey "б">
@@ -307,9 +307,9 @@
 <!ENTITY styleVar.label "Хувьсагч">
 <!ENTITY styleVar.accesskey "ь">
 
-<!ENTITY formatFontColor.label "Текстийн өнгө...">
+<!ENTITY formatFontColor.label "Текстийн өнгө…">
 <!ENTITY formatfontcolor.accesskey "к">
-<!ENTITY tableOrCellColor.label "Хүснэгт ба нүдний арын дэвсгэр өнгө...">
+<!ENTITY tableOrCellColor.label "Хүснэгт ба нүдний арын дэвсгэр өнгө…">
 <!ENTITY tableOrCellColor.accesskey "д">
 
 <!ENTITY formatremovestyles.keybinding "y">
@@ -414,9 +414,9 @@
 <!ENTITY grid.label "Торны байрлал">
 <!ENTITY grid.accesskey "б">
 
-<!ENTITY pageProperties.label "Хүснэгтийн шинж чанар...">
+<!ENTITY pageProperties.label "Хүснэгтийн шинж чанар…">
 <!ENTITY pageproperties.accesskey "ш">
-<!ENTITY colorsAndBackground.label "Хуудасны өнгө болон арын дэвсгэр...">
+<!ENTITY colorsAndBackground.label "Хуудасны өнгө болон арын дэвсгэр…">
 <!ENTITY colorsandbackground.accesskey "д">
 
 <!-- Table Menu -->
@@ -495,7 +495,7 @@
 <!ENTITY openToolbarCmd.tooltip "Дотоод файлыг нээ">
 <!ENTITY saveToolbarCmd.tooltip "Файлыг дотоод байрлалд хадгал">
 <!ENTITY publishToolbarCmd.tooltip "Алсын байрлалд файлыг илгээ">
-<!ENTITY previewToolbarCmd.label "Хуудасны харагдац...">
+<!ENTITY previewToolbarCmd.label "Хуудасны харагдац…">
 <!ENTITY previewToolbarCmd.tooltip "Энэ хуудсыг хөтлөгчид дууд">
 <!ENTITY printToolbarCmd.label "Хэвлэ">
 <!ENTITY printToolbarCmd.tooltip "Энэ хуудсыг хэвлэ">
@@ -510,7 +510,7 @@
 <!ENTITY tableToolbarCmd.label "Хүснэгт">
 <!ENTITY tableToolbarCmd.tooltip "Шинэ хүснэгт орлуул эсвэл сонгосон хүснэгтийн шинж чанарыг засварла">
 <!ENTITY linkToolbarCmd.label "Холбоос">
-<!ENTITY linkToolbarCmd.tooltip "Шинэ холбоос орлуул эсвэл сонгосон холбоосын шинж чанарыг засварла">
+<!ENTITY linkToolbarCmd.tooltip "Шинэ холбоос орлуул эсвэл сонгосон холбоосны шинж чанарыг засварла">
 <!ENTITY anchorToolbarCmd.label "Зангуу">
 <!ENTITY anchorToolbarCmd.tooltip "Шинэ нэртэй зангуу орлуул эсвэл сонгосон зангууны шинж чанарыг засварла">
 <!ENTITY textColorCaption.label "Текстийн өнгө">
@@ -588,5 +588,5 @@
 <!ENTITY updateTOC.accesskey      "и">
 <!ENTITY removeTOC.label          "Арилга">
 <!ENTITY removeTOC.accesskey      "р">
-<!ENTITY tocMenu.label            "Бүтцийн хүснэгт...">
+<!ENTITY tocMenu.label            "Бүтцийн хүснэгт…">
 <!ENTITY tocMenu.accesskey        "Б">

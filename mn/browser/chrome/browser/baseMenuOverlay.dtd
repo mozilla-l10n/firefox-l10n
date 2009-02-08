@@ -13,7 +13,7 @@
 <!ENTITY helpReleaseNotes.accesskey "Х">
 <!ENTITY helpReleaseNotes.label "Хувилбарын тэмдэглэл">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Багасга">
+<!ENTITY minimizeWindow.label "Хураа">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
@@ -25,7 +25,7 @@
 <!ENTITY updateCmd.accesskey "Ш">
 <!ENTITY updateCmd.label "Шинэчлэлийг шалга…">
 <!ENTITY windowMenu.label "Цонх">
-<!ENTITY zoomWindow.label "Томруулалт">
+<!ENTITY zoomWindow.label "Тэлэлт">
 
 <!ENTITY preferencesCmdMac.label        "Тохируулга…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

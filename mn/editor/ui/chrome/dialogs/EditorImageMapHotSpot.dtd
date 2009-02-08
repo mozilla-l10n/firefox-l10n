@@ -45,7 +45,7 @@
 <!ENTITY link.label				"Hotspot Link">
 <!ENTITY urlFieldset.label		"Hotspot URL:">
 <!ENTITY altFieldset.label		"Hotspot Alt Text:">
-<!ENTITY browseButton.label		"Зааж өг...">
+<!ENTITY browseButton.label		"Зааж өг…">
 <!ENTITY targetFieldset.label	"Байны тохиргоо">
 <!ENTITY target.label			"Hotspot Target">
 

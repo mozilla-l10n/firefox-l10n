@@ -15,7 +15,7 @@
 <!ENTITY profilePrompt.accesskey        "Ш">
 <!ENTITY profileDirectoryExplanation.text     "Таны хэрэглэгчийн тохиргоо, хаяг, захианууд хадгалагдах газар:">
 <!ENTITY profileDefaultName             "Анхны хэрэглэгч">
-<!ENTITY button.choosefolder.label      "Санг сонго...">
+<!ENTITY button.choosefolder.label      "Санг сонго…">
 <!ENTITY button.choosefolder.accesskey  "С">
 <!ENTITY button.usedefault.label        "Анхны санг хэрэглэ">
 <!ENTITY button.usedefault.accesskey    "А">

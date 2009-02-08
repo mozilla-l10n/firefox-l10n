@@ -4,7 +4,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                     "520">
 <!ENTITY window.height                    "300">
 
-<!ENTITY starting.label                   "Эхэлж байна...">
+<!ENTITY starting.label                   "Эхэлж байна…">
 <!ENTITY scanning.label                   "Вирусыг шалгаж байна…">
 
 <!ENTITY downloads.title                  "Татаж авалт">
@@ -22,7 +22,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.open.label                   "Нээ">
 <!ENTITY cmd.open.accesskey               "Н">
-<!ENTITY cmd.openWith.label               "Үүгээр нээ...">
+<!ENTITY cmd.openWith.label               "Үүгээр нээ…">
 <!ENTITY cmd.openWith.accesskey           "г">
 <!ENTITY cmd.retry.label                  "Дахин оролд">
 <!ENTITY cmd.retry.accesskey              "д">
