@@ -8,19 +8,19 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Миний зорчиж буй хуудас хэрэв хорлонтой дайралт хийхээр сэжигтэй бол надад хэл">
-<!ENTITY  tellMaybeAttackSite.accesskey "й">
+<!ENTITY  blockAttackSites.label     "Довтлогч хуудас гэж мэдэгдсэн бол хорино">
+<!ENTITY  blockAttackSites.accesskey "х">
 
-<!ENTITY  tellMaybeForgery.label              "Намайг хуудас дуудах үед хуудасны хуурамч сэжигтэй эсэхийг нь надад хэл">
-<!ENTITY  tellMaybeForgery.accesskey          "м">
+<!ENTITY  blockWebForgeries.label     "Вэб хууралт хийгч хуудас гэж мэдэгдсэн бол хорино">
+<!ENTITY  blockWebForgeries.accesskey "В">
 
 <!ENTITY  addonExceptions.label         "Тодорхойлж өгөх…">
 <!ENTITY  addonExceptions.accesskey     "ж">
 
 <!ENTITY  passwords.label               "Нууц үгс">
+
 <!ENTITY  rememberPasswords.label       "Хуудасны нууц үгсийг сануул">
 <!ENTITY  rememberPasswords.accesskey   "Х">
-
 <!ENTITY  passwordExceptions.label      "Зөвшөөрөгдсөн хуудас…">
 <!ENTITY  passwordExceptions.accesskey  "ш">
 
@@ -33,6 +33,7 @@
 <!ENTITY  savedPasswords.accesskey        "х">
 
 <!ENTITY  warnings.label                "Анхааруулах мэдэгдэл">
+
 <!ENTITY  chooseWarnings.label          "Таныг вэб хуудсанд зорчих үед харуулах анхааруулгын мэдэгдлийг сонгоно уу">
 <!ENTITY  warningSettings.label         "Тохируулга…">
 <!ENTITY  warningSettings.accesskey     "о">

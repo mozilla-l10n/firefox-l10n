@@ -20,7 +20,7 @@
 #
 # Contributor(s): Daniel Brooks <db48x@yahoo.com>
 #                 Florian QUEZE <f.qu@queze.net>
-#				  Ehsan Akhgari <ehsan.akhgari@gmail.com>                                
+#				  Ehsan Akhgari <ehsan.akhgari@gmail.com>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Хувиргалт:">
 <!ENTITY  generalMetaName       "Нэр">
 <!ENTITY  generalMetaContent    "Бүтэц">
-<!ENTITY  generalSecurityMore   "Нэмэлт">
-<!ENTITY  generalSecurityMore.accesskey "Н">
+<!ENTITY  generalSecurityDetails   "Нэмэлт">
+<!ENTITY  generalSecurityDetails.accesskey "т">
 
 <!ENTITY  mediaTab              "Дуу дүрс">
 <!ENTITY  mediaTab.accesskey    "Д">

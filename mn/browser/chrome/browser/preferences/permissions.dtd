@@ -9,6 +9,7 @@
 <!ENTITY removeallpermissions.label   "Бүх хуудсыг устга">
 <!ENTITY removeallpermissions.accesskey "Б">
 <!ENTITY address.label                "Вэб хуудасны хаяг:">
+<!ENTITY address.accesskey            "я">
 <!ENTITY block.label                  "Хорих">
 <!ENTITY block.accesskey              "р">
 <!ENTITY session.label                "Тухайн хэсэгт зөвшөөр">

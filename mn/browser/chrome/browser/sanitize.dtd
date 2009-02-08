@@ -1,25 +1,41 @@
-<!ENTITY sanitizeDialog.title "Хувийн өгөгдлийг устга">
+<!ENTITY sanitizePrefs.title             "Хувийн өгөгдлийг устга">
+<!ENTITY sanitizeDialog2.title           "Сүүлийн зорчсон түүхийг арилга">
 
-<!ENTITY sanitizeItems.label "Дараах зүйлсийг одоо арилга:">
-<!ENTITY clearDataSettings.label      "Намайг хувийн өгөгдөл устга гэж &brandShortName;-с асуух үед дараах өгөгдлүүдийг устга:">
+<!ENTITY sanitizeItems.label             "Дараах зүйлсийг одоо арилга:">
+<!ENTITY clearDataSettings2.label         "Намайг &brandShortName;-с гарах үед дараах өгөгдлүүдийг автоматаар устга:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label "Хуудсанд зорчсон түүх">
-<!ENTITY itemHistory.accesskey        "с">
-<!ENTITY itemFormSearchHistory.label "Хадгалагдсан хүснэгт ба хайлтын түүх">
-<!ENTITY itemFormSearchHistory.accesskey       "д">
-<!ENTITY itemPasswords.label "Хадгалагдсан нууц үгс">
-<!ENTITY itemPasswords.accesskey      "ц">
-<!ENTITY itemCookies.label "Күүки">
-<!ENTITY itemCookies.accesskey        "к">
-<!ENTITY itemCache.label "Түр хадгалагч">
-<!ENTITY itemCache.accesskey          "ч">
-<!ENTITY itemOfflineApps.label        "Салангид хуудасны өгөгдөл">
-<!ENTITY itemOfflineApps.accesskey    "ө">
-<!ENTITY itemDownloads.label "Татаж авсан түүх">
-<!ENTITY itemDownloads.accesskey      "ж">
-<!ENTITY itemSessions.label           "Нэвтэрсэн хэсгийн өгөгдлүүд">
-<!ENTITY itemSessions.accesskey       "т">
-<!ENTITY window.width                 "30em">
+<!ENTITY clearDuration.label             "Устга ">
+<!ENTITY clearDuration.accesskey         "У">
+<!ENTITY clearDuration.lastHour          "сүүлийн нэг цагийн түүх">
+<!ENTITY clearDuration.last2Hours        "сүүлийн хоёр цагийн түүх">
+<!ENTITY clearDuration.last4Hours        "сүүлийн дөрвөн цагийн түүх">
+<!ENTITY clearDuration.today             "миний өнөөдрийн зорчсон түүх">
+<!ENTITY clearDuration.everything        "миний бүх зорчсон түүх">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix            "">
 
+<!ENTITY historySection.label            "Зорчсон түүх">
+<!ENTITY dataSection.label               "Өгөгдлүүд">
+
+<!ENTITY itemVisitedPages.label          "Зорчсон хуудсууд">
+<!ENTITY itemVisitedPages.accesskey      "ч">
+<!ENTITY itemFormSearchEntries.label     "Хүснэгт болон хайх талбарын оруулгууд">
+<!ENTITY itemFormSearchEntries.accesskey "с">
+<!ENTITY itemPasswords.label             "Хадгалагдсан нууц үгс">
+<!ENTITY itemPasswords.accesskey         "ц">
+<!ENTITY itemCookies.label               "Күүки">
+<!ENTITY itemCookies.accesskey           "к">
+<!ENTITY itemWebCache.label              "Вэб түр хадгалалт">
+<!ENTITY itemWebCache.accesskey          "т">
+<!ENTITY itemOfflineApps.label           "Салангид хуудасны өгөгдөл">
+<!ENTITY itemOfflineApps.accesskey       "ө">
+<!ENTITY itemDownloadList.label          "Татаж авсан түүх">
+<!ENTITY itemDownloadList.accesskey      "ж">
+<!ENTITY itemActiveLogins.label          "Нэвтрэлт хийж орсон идэвхитэй хэсэг">
+<!ENTITY itemActiveLogins.accesskey      "х">
+
+<!ENTITY window.width                    "30em">
+<!ENTITY column.width                    "14em">

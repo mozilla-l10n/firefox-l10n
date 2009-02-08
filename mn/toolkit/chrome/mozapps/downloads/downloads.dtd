@@ -40,6 +40,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Татаж дууссан, цуцлагдсан болон татаж авах үед зогсоогдсон оруулгыг жагсаалтаас устгана.">
 <!ENTITY cmd.clearList.accesskey          "ц">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Татаж авалт дууссан үед хаа">
 <!ENTITY closeWhenDone.tooltip            "Бүх файлыг татаж авч дууссаны дараа татаж авалтын цонхыг хаа">

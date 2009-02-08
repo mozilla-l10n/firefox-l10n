@@ -69,6 +69,12 @@
 <!ENTITY cmd.edit_redo.label		"Дахин үйлд">
 <!ENTITY cmd.edit_redo.accesskey		"Д">
 <!ENTITY cmd.edit_redo.key		"y">
+
+<!ENTITY cmd.delete.label               "Энэ хуудсыг устга">
+<!ENTITY cmd.delete.accesskey           "т">
+<!ENTITY cmd.deleteDomainData.label     "Энэ хуудсыг март">
+<!ENTITY cmd.deleteDomainData.accesskey "м">
+
 <!ENTITY cmd.open.label		"Нээ">
 <!ENTITY cmd.open.accesskey		"Н">
 <!ENTITY cmd.open_window.label		"Шинэ цонхонд нээ">
@@ -77,14 +83,19 @@
 <!ENTITY cmd.open_tab.accesskey		"с">
 <!ENTITY cmd.open_all_in_tabs.label		"Бүгдийг нь самбарт нээ">
 <!ENTITY cmd.open_all_in_tabs.accesskey		"н">
+
 <!ENTITY cmd.properties.label		"Шинж чанар">
 <!ENTITY cmd.properties.accesskey		"и">
+
 <!ENTITY cmd.show_info.key		"i">
+
 <!ENTITY cmd.rename.label		"Нэр өөрчил">
 <!ENTITY cmd.rename.accesskey		"ө">
+
 <!ENTITY cmd.sortby_name.label		"Нэрээр эрэмбэл">
 <!ENTITY cmd.sortby_name.accesskey		"р">
 <!ENTITY cmd.context_sortby_name.accesskey		"э">
+
 <!ENTITY cmd.new_bookmark.label		"Шинэ хаяг…">
 <!ENTITY cmd.new_bookmark.accesskey		"Ш">
 <!ENTITY cmd.new_livemark.label		"Шинэ амьд хаяг…">

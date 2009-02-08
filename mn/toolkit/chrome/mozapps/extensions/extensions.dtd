@@ -116,6 +116,7 @@
 <!ENTITY insecureUpdate.label             "Аюулгүйн нууцлалын шинэчлэлийг дэмжээгүй.">
 <!ENTITY needsDependencies.label          "Нэмэлт зүйлс шаардаж байна.">
 <!ENTITY blocklisted.label                "Таныг хамгаалах үүднээс хорисон.">
+<!ENTITY softBlocklisted.label            "Баталгаа болон найдварын эрсдэлтэй.">
 <!ENTITY toBeDisabled.label               "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед хоригдох болно.">
 <!ENTITY toBeEnabled.label                "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед зөвшөөрөгдөх болно.">
 <!ENTITY toBeInstalled.label               "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед суугдах болно.">
@@ -172,3 +173,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Зөвшөөрөөд суулга…">
+
+<!ENTITY blocklist.blocked.label          "Хоригдсон">
+<!ENTITY blocklist.checkbox.label         "Зөвшөөрөгдөөгүй">

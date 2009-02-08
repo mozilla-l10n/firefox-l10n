@@ -1,20 +1,40 @@
-<!ENTITY allpagesRadio.label		"Бүх хуудсыг">
-<!ENTITY aslaidoutRadio.label		"Дэлгэцэд байрласан шиг">
-<!ENTITY copies.label				"Хувилбарууд">
-<!ENTITY descText.label				"Хэвлэгчийн тодорхойлолт:">
-<!ENTITY eachframesepRadio.label	"Хүрээ болгоныг тусад нь">
-<!ENTITY fileCheck.label			"Файл руу хэвлэ">
-<!ENTITY fpDialog.title				"Файл хадгал">
-<!ENTITY frompageInput.label		"хаанаас">
-<!ENTITY numCopies.label			"Хувилах дугаар:">
-<!ENTITY printButton.label			"Хэвлэ">
-<!ENTITY printDialog.title			"Хэвлэ">
-<!ENTITY printer.label				"Хэвлэгч">
-<!ENTITY printerInput.label			"Хэвлэгч:">
-<!ENTITY printframeGroup.label		"Хүрээг хэвлэ">
-<!ENTITY printrangeGroup.label		"Хэвлэх орчин">
-<!ENTITY propertiesButton.label		"Шинж чанар...">
-<!ENTITY rangeRadio.label			"Хуудас">
-<!ENTITY selectedframeRadio.label	"Сонгосон хүрээг">
-<!ENTITY selectionRadio.label		"Сонголт">
-<!ENTITY topageInput.label			"хаана">
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label            "Хэвлэ">
+
+<!ENTITY printDialog.title            "Хэвлэ">
+
+<!ENTITY fpDialog.title               "Файл хадгал">
+
+<!ENTITY fileCheck.label              "Файл руу хэвлэ">
+<!ENTITY fileCheck.accesskey          "Ф">
+<!ENTITY propertiesButton.label       "Шинж чанар…">
+<!ENTITY propertiesButton.accesskey   "и">
+<!ENTITY descText.label               "Хэвлэгчийн тодорхойлолт:">
+<!ENTITY printer.label                "Хэвлэгч">
+<!ENTITY printerInput.label           "Хэвлэгч:">
+<!ENTITY printerInput.accesskey       "ч">
+
+<!ENTITY printrangeGroup.label        "Хэвлэх орчин">
+<!ENTITY allpagesRadio.label          "Бүх хуудсыг">
+<!ENTITY allpagesRadio.accesskey      "Б">
+<!ENTITY rangeRadio.label             "Хуудас">
+<!ENTITY rangeRadio.accesskey         "Х">
+<!ENTITY frompageInput.label          "хаанаас">
+<!ENTITY frompageInput.accesskey      "с">
+<!ENTITY topageInput.label            "хаана">
+<!ENTITY topageInput.accesskey        "а">
+<!ENTITY selectionRadio.label         "Сонголт">
+<!ENTITY selectionRadio.accesskey     "С">
+
+<!ENTITY copies.label                 "Хувилбарууд">
+<!ENTITY numCopies.label              "Хувилах дугаар:">
+<!ENTITY numCopies.accesskey          "д">
+
+<!ENTITY printframeGroup.label        "Хүрээг хэвлэ">
+<!ENTITY aslaidoutRadio.label         "Дэлгэцэд байрласан шиг">
+<!ENTITY aslaidoutRadio.accesskey     "ш">
+<!ENTITY selectedframeRadio.label     "Сонгосон хүрээг">
+<!ENTITY selectedframeRadio.accesskey "р">
+<!ENTITY eachframesepRadio.label      "Хүрээ болгоныг тусад нь">
+<!ENTITY eachframesepRadio.accesskey  "ү">

@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Энэ вэб хууралт биш…">
 <!ENTITY safeb.palm.report.label "Энэ хуудас яагаад хоригдсон бэ?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Энэ хуудас аюултай байж магадгүй. Энд дарж нэмэлт мэдээллийг харна уу.">
-
 <!ENTITY safeb.blocked.malware.title "Мэдээлсэн довтлогч хуудас!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc " <span id='malware_sitename'/> дээрх энэ вэб хуудас нь довтлогч хуудас хэмээн мэдээлэгдсэн байгаа бөгөөд таны нууцлалын тохиргооны дагуу хоригдсон болно.">

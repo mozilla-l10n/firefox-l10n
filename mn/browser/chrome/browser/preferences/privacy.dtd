@@ -1,4 +1,12 @@
 <!ENTITY  history.label                 "Түүх">
+
+<!ENTITY  locbar.pre.label              "Хаягийн самбар хэрэглэж байвал үүнийг санал болго:">
+<!ENTITY  locbar.pre.accessKey          "с">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Зорчсон түүх болон хадгалсан хаягнаас">
+<!ENTITY  locbar.history.label          "Зорчсон түүх">
+<!ENTITY  locbar.bookmarks.label        "Хадгалсан хаягнаас">
+<!ENTITY  locbar.nothing.label          "Юуг ч санал болгохгүй">
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
   line in preferences as follows:
@@ -41,13 +49,9 @@
 <!ENTITY  alwaysClear.label              "Намайг &brandShortName;-г хаах үед үргэлж миний хувийн өгөгдлийг устга">
 <!ENTITY  alwaysClear.accesskey          "Н">
 
-<!ENTITY  askBeforeClear.label           "Хувийн өгөгдлийг минь устгахаасаа өмнө надаас асуу">
-<!ENTITY  askBeforeClear.accesskey       "в">
-
 <!ENTITY  clearDataSettings.label        "Тохиргоо...">
 <!ENTITY  clearDataSettings.accesskey    "х">
 
 <!ENTITY  clearDataNow.label             "Одоо арилга...">
-<!ENTITY  clearDataNow.label2            "Одоо арилга">
 <!ENTITY  clearDataNow.accesskey         "а">
 

@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "Энэ хуудсыг хэвлэ">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label				"Хайх">
-<!ENTITY searchtab.accesskey            "й">
-<!ENTITY searchClose.tooltip            "Хайлтын үр дүнг хаа">
+<!ENTITY search.emptytext               "Хайх">
+<!ENTITY searchHeader.label             "Хайлтын үр дүн">
 <!ENTITY toctab.label					"Бүтэц">
 <!ENTITY toctab.accesskey               "Б">
 

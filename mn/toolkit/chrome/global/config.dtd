@@ -55,6 +55,7 @@
 <!ENTITY copyValue.label "Утга хуул">
 <!ENTITY filterPrefs.accesskey "т">
 <!ENTITY filterPrefs.label "Шүүлт:">
+<!ENTITY focusFilter.key "f">
 <!ENTITY integer.accesskey "I">
 <!ENTITY integer.label "Тоон утга">
 <!ENTITY lockColumn.label "Төлөв байдал">
@@ -66,8 +67,6 @@
 <!ENTITY prefColumnHeader.tooltip "Эрэмбэл">
 <!ENTITY reset.accesskey "С">
 <!ENTITY reset.label "Сэргээ">
-<!ENTITY showAll.accesskey "Б">
-<!ENTITY showAll.label "Бүгдийг харуул">
 <!ENTITY string.accesskey "S">
 <!ENTITY string.label "Мөр утга">
 <!ENTITY toggle.accesskey "T">

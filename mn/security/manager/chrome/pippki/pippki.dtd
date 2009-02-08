@@ -68,7 +68,7 @@
 <!ENTITY formSigning.title "Текстийн гарын үсгийн хүсэлт">
 <!ENTITY getPassword.password.label "Нууц үг:">
 <!ENTITY getPassword.title "Мастер нууц үг оруулна уу">
-<!ENTITY getPassword.tokenName.label "Нууцлалын төхөөрөмж">
+<!ENTITY getPassword.tokenName2.label "Нууцлалын төхөөрөмж">
 <!ENTITY pipalert.title "Алдаа - сэргээж чадахгүй байна">
 <!ENTITY piperror.title "Алдаа">
 <!ENTITY pkcs12.getpassword.message "Энэ гэрчилгээний нөөцийг нууцлахад хэрэглэж байсан нууц үгийг оруулна уу.">
@@ -107,3 +107,7 @@
 <!ENTITY protectedAuth.title "Хамгаалттай хэсгийн нэвтрэлт">
 <!ENTITY protectedAuth.msg "Энэ хэсэгт нэвтрэх үйлдэл хийх шаардлагатай. Нэвтрүүлэх аргачлал нь тухайн хэсгээс хамаарна.">
 <!ENTITY protectedAuth.tokenName.label "Хэсэг:">
+
+<!ENTITY certErrorDlg.title "Нууцлалтай холболтонд алдаа гарлаа">
+<!ENTITY certErrorDlg.info1 "Энэ нь серверийн тохиргооноос болсон юмуу эсвэл хэн нэг нь уг серверийг дууриах үйлдэл хийсэн байж магадгүй.">
+<!ENTITY certErrorDlg.info2 "Хэрэв та урьд нь энэ сервертэй амжилттай холбогдож байсан бол энэ нь түр зуурынх байж болох бөгөөд дараа дахин оролдоно уу.">

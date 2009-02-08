@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Шинэ цонхонд нээгдэх ёстой холбоосыг нээхдээ:">
-<!ENTITY inNewWindow.label            "шинэ цонхонд">
-<!ENTITY inNewWindow.accesskey        "ц">
-<!ENTITY inNewTab.label               "шинэ самбарт">
-<!ENTITY inNewTab.accesskey           "с">
+<!ENTITY newWindowsAsTabs.label       "Шинэ цонх нээгдэхээр бол шинэ самбарт нээ">
+<!ENTITY newWindowsAsTabs.accesskey   "Ш">
 
 <!ENTITY warnCloseMultipleTabs.label  "Олон самбар хаах үед надад анхааруул">
 <!ENTITY warnCloseMultipleTabs.accesskey  "б">

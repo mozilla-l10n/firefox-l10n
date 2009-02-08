@@ -2,7 +2,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Дараах күүкинүүд таны компьютерт хадгалагдсан байна:">
 <!ENTITY     cookiename.label               "Күүкигийн нэр">
-<!ENTITY     cookiedomain.label             "Хуудас"> 
+<!ENTITY     cookiedomain.label             "Хуудас">
 <!ENTITY     button.removecookie.label      "Күүкиг устга">
 <!ENTITY     button.removecookie.accesskey  "у">
 <!ENTITY     button.removeallcookies.label  "Бүх күүкиг устга">
@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "Хайх:">
 <!ENTITY     filter.accesskey               "й">
-<!ENTITY     clear.label                    "Цэвэрлэ">
-<!ENTITY     clear.accesskey                "э">
 
 <!ENTITY     button.close.label             "Хаа">
 <!ENTITY     button.close.accesskey         "Х">

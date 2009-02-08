@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Энэ хаягийг хажуу самбарт дууд">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "и">
 <!ENTITY editBookmarkOverlay.choose.label                    "Сонго…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Шинэ сан">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "с">
