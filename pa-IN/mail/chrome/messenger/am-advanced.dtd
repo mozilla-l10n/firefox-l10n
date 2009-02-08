@@ -1,22 +1,23 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "ਭੇਜਣ ਵਾਲੇ ਸਰਵਰ (SMTP) ਦੀ ਵਿਵਸਥਾ">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "ਸਿਰਫ ਇੱਕ ਹੀ ਭੇਜਣ ਵਾਲਾ ਸਰਵਰ (SMTP) ਨਿਰਧਾਰਿਤ ਕਰਨ ਦੀ ਲੋੜ ਹੈ, ਭਾਵੇਂ ਕਿ ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤੇ ਪੱਤਰ ਖਾਤੇ ਹਨ। ਪੱਤਰ ਭੇਜਣ ਲਈ ਸਰਵਰ ਦਾ ਨਾਂ ਦਿਓ।">
+<!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
 
-<!ENTITY smtpListAdd.label  "ਸ਼ਾਮਿਲ...">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
+
+<!ENTITY smtpListAdd.label  "Add…">
 <!ENTITY smtpListAdd.accesskey  "d">
-<!ENTITY smtpListEdit.label "ਸੋਧ...">
+<!ENTITY smtpListEdit.label "Edit…">
 <!ENTITY smtpListEdit.accesskey "E">
-<!ENTITY smtpListDelete.label "ਹਟਾਉ">
+<!ENTITY smtpListDelete.label "Remove">
 <!ENTITY smtpListDelete.accesskey "m">
-<!ENTITY smtpListSetDefault.label "ਮੂਲ ਬਣਾਉ">
+<!ENTITY smtpListSetDefault.label "Set Default">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
-<!ENTITY serverDescription.label "ਵੇਰਵਾ: ">
-<!ENTITY serverName.label "ਸਰਵਰ ਨਾਂ: ">
-<!ENTITY serverPort.label "ਪੋਰਟ: ">
-<!ENTITY userName.label   "ਉਪਭੋਗੀ ਨਾਂ: ">
-<!ENTITY useSecureConnection.label   "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ: ">
+<!ENTITY serverDescription.label "Description: ">
+<!ENTITY serverName.label "Server Name: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "User Name: ">
+<!ENTITY connectionSecurity.label "Connection Security: ">
 <!ENTITY useSecureAuthentication.label   "Secure Authentication: ">

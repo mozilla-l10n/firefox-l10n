@@ -55,6 +55,8 @@
 <!ENTITY daysOld.label "ਦਿਨ ਪੁਰਾਣੇ">
 <!ENTITY message.label "ਸੁਨੇਹੇ">
 <!ENTITY retentionCleanup.label "ਡਿਸਕ ਥਾਂ ਨੂੰ ਮੁੜ-ਪਰਾਪਤ ਕਰਨ ਲਈ, ਪੁਰਾਣੇ ਸੁਨਹਿਆਂ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਹਟਾਇਆ ਜਾ ਸਕਦਾ ਹੈ">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionDeleteMsg.label "ਇਸ ਤੋਂ ਵੱਧ ਸੁਨੇਹੇ ਹਟਾਓ">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "ਕੋਈ ਸੁਨੇਹਾ ਨਾ ਹਟਾਓ">
