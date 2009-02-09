@@ -6,7 +6,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Questo indirizzo è bloccato">
 <!ENTITY deniedPortAccess.longDesc "">
-<!ENTITY dnsNotFound.title "Indirizzo non trovato">
+<!ENTITY dnsNotFound.title "Impossibile contattare il server">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Verificare se l'indirizzo contiene errori di battitura del tipo
@@ -55,7 +55,7 @@
 </ul>">
 <!ENTITY netReset.title "La connessione è stata annullata">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-<!ENTITY netTimeout.title "Tempo di attesa terminato">
+<!ENTITY netTimeout.title "Tempo per la connessione esaurito">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 <!ENTITY protocolNotFound.title "Indirizzo non interpretabile">
 <!ENTITY protocolNotFound.longDesc "
