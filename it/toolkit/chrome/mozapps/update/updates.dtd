@@ -33,7 +33,7 @@
 <!ENTITY error.label "Si è verificato un problema nel controllo, nel download o nell'installazione di questo aggiornamento. &brandShortName; potrebbe non essersi aggiornato poiché:">
 <!ENTITY errorManual.label "È possibile aggiornare &brandShortName; manualmente visitando il seguente link
                                            e scaricando l'ultima versione:">
-<!ENTITY errorpatching.title "Aggiornamento fallito">
+<!ENTITY errorpatching.title "Aggiornamento non riuscito">
 <!ENTITY errorpatching.intro "L'aggiornamento parziale non può essere applicato. 
                                            &brandShortName; ritenterà nuovamente scaricando un aggiornamento completo.">
 <!ENTITY finishedPage.title "Aggiornamento pronto per l'installazione">
