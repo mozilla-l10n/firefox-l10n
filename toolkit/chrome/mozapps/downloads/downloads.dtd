@@ -29,7 +29,7 @@
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">
 <!ENTITY cmd.clearList.label "Svuota elenco">
-<!ENTITY cmd.clearList.tooltip "Rimuovi dall'elenco i download completati, annullati e falliti.">
+<!ENTITY cmd.clearList.tooltip "Rimuovi dall'elenco i download completati, annullati e non riusciti.">
 <!ENTITY cmd.clearList.accesskey "v">
 <!ENTITY cmd.find.commandKey "c">
 <!ENTITY cmd.search.commandKey "k">

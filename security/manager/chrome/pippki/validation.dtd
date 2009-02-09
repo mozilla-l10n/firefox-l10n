@@ -61,6 +61,6 @@
 <!ENTITY crl.issuer.org.label "Organizzazione: ">
 <!ENTITY crl.issuer.orgunit.label "Unità: ">
 <!ENTITY crl.import.nextupdate.label "Prossimo aggiornamento: ">
-<!ENTITY crl.autoupdate.fail.cnt.label "Tentativi consecutivi di aggiornamento falliti in precedenza: ">
-<!ENTITY crl.autoupdate.fail.reason.label "Dettagli ultimo tentativo fallito di aggiornamento: ">
+<!ENTITY crl.autoupdate.fail.cnt.label "Tentativi consecutivi di aggiornamento non riusciti in precedenza: ">
+<!ENTITY crl.autoupdate.fail.reason.label "Dettagli ultimo tentativo non riuscito di aggiornamento: ">
 <!ENTITY edit.button "Impostazioni">

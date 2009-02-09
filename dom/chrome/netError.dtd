@@ -2,7 +2,7 @@
 %netErrorAppDTD;
 <!ENTITY loadError.label "Errore caricamento pagina">
 <!ENTITY retry.label "Riprova">
-<!ENTITY connectionFailure.title "Connessione fallita">
+<!ENTITY connectionFailure.title "Connessione non riuscita">
 <!ENTITY connectionFailure.longDesc "<p>Anche se l'indirizzo del sito sembra valido, il browser non riesce a stabilire una connessione.</p><ul><li>Il sito potrebbe non essere disponible al momento? Riprovare in un altro momento.</li><li>Non è possibile navigare da questa postazione? Controllare la connessione alla rete di questo computer.</li><li>Il computer o la rete sono protetti da un firewall o un proxy? Eventuali impostazioni errate potrebbero bloccare la navigazione.</li></ul>">
 <!ENTITY deniedPortAccess.title "Porta bloccata per motivi di sicurezza">
 <!ENTITY deniedPortAccess.longDesc "<p>L'indirizzo richiesto specifica una porta (ad esempio <q>mozillaitalia.org:80</q> per la porta 80 su mozillaitalia.org) normalmente utilizzata per scopi <em>differenti</em> dalla navigazione. Il browser ha annullato la richiesta per proteggere il computer.</p>">
@@ -39,9 +39,9 @@
 <!ENTITY redirectLoop.longDesc "<p>Il browser si è fermato dopo aver tentato di recuperare l'oggetto richiesto. Il sito reindirizza la richiesta in modo che non possa mai essere completata.</p><ul><li>Assicurarsi di non aver disattivato o bloccato i cookie per questo sito.</li><li><em>Nota</em>: se anche accettando i cookie del sito il problema non si risolve, con tutta probabilità si tratta di un problema di configurazione del server e non del computer in uso.</li></ul>">
 <!ENTITY unknownSocketType.title "Risposta errata">
 <!ENTITY unknownSocketType.longDesc "<p>Il sito ha risposto alla richiesta di rete in modo inatteso, quindi il browser non può continuare.</p>">
-<!ENTITY nssFailure2.title "Connessione sicura fallita">
+<!ENTITY nssFailure2.title "Connessione sicura non riuscita">
 <!ENTITY nssFailure2.longDesc "<p>La pagina che si sta cercando di visualizzare non può essere mostrata poiché non è possibile verificare l'autenticità dei dati ricevuti.</p><ul><li>Contattare il proprietario del sito web per informarlo del problema.</li></ul>">
-<!ENTITY nssBadCert.title "Connessione sicura fallita">
+<!ENTITY nssBadCert.title "Connessione sicura non riuscita">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Potrebbe trattarsi di un problema nella configurazione del server oppure di un tentativo da parte di qualcuno di sostituirsi al server stesso.</li>
 <li>Se è stato possibile connettersi a questo server in passato, il problema potrebbe essere solo temporaneo. Si consiglia di riprovare più tardi.</li>

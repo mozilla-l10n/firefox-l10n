@@ -123,7 +123,7 @@
 <!ENTITY recommendedResults.label "Visualizza tutti i componenti aggiuntivi consigliati">
 <!ENTITY searchResultConnecting.label "Connessione in corso…">
 <!ENTITY searchResultInstalling.label "Installazione in corso…">
-<!ENTITY searchResultFailed.label "Installazione fallita">
+<!ENTITY searchResultFailed.label "Installazione non riuscita">
 <!ENTITY searchResultInstalled.label "Installazione completata">
 <!ENTITY addonTypeExtension.label "Estensioni">
 <!ENTITY addonTypeTheme.label "Temi">
@@ -141,7 +141,7 @@
 <!ENTITY installWaiting.label "Attendere…">
 <!ENTITY installIncompatibleUpdate.label "Controllo compatibilità…">
 <!ENTITY installFinishing.label "Installazione in corso…">
-<!ENTITY installFailure.label "Installazione fallita.">
+<!ENTITY installFailure.label "Installazione non riuscita.">
 <!ENTITY progressStatus.label "Ricerca aggiornamenti">
 <!ENTITY eula.title "Licenza per l'utente finale (EULA)">
 <!ENTITY eula.width "560px">

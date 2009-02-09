@@ -2,7 +2,7 @@
 %brandDTD;
 <!ENTITY loadError.label "Errore caricamento pagina">
 <!ENTITY retry.label "Riprova">
-<!ENTITY connectionFailure.title "Connessione fallita">
+<!ENTITY connectionFailure.title "Connessione non riuscita">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Questo indirizzo è bloccato">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -86,13 +86,13 @@
   <li>Potrebbe trattarsi di una configurazione non standard del server.</li>
 </ul>
 ">
-<!ENTITY nssFailure2.title "Connessione sicura fallita">
+<!ENTITY nssFailure2.title "Connessione sicura non riuscita">
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>La pagina che si sta cercando di visualizzare non può essere mostrata in quanto non è possibile verificare l'autenticità dei dati ricevuti.</li>
   <li>Contattare il responsabile del sito web per informarlo del problema. In alternativa, utilizzare il comando disponibile nel menu per segnalare un sito non funzionante.</li>
 </ul>">
-<!ENTITY nssBadCert.title "Connessione sicura fallita">
+<!ENTITY nssBadCert.title "Connessione sicura non riuscita">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Potrebbe trattarsi di un problema nella configurazione del server oppure di un tentativo da parte di qualcuno di sostituirsi al server stesso.</li>
