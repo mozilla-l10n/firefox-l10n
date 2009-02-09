@@ -44,7 +44,7 @@
 <!ENTITY all.label "Všetky">
 <!ENTITY all.accesskey "V">
 <!ENTITY errors.label "Chyby">
-<!ENTITY errors.accesskey "h">
+<!ENTITY errors.accesskey "C">
 <!ENTITY warnings.label "Upozornenia">
 <!ENTITY warnings.accesskey "o">
 <!ENTITY messages.label "Správy">
@@ -52,9 +52,9 @@
 <!ENTITY clear.label "Vymazať">
 <!ENTITY clear.accesskey "m">
 <!ENTITY codeEval.label     "Kód:">
-<!ENTITY codeEval.accesskey "K">
+<!ENTITY codeEval.accesskey "d">
 <!ENTITY evaluate.label "Vyhodnotiť">
-<!ENTITY evaluate.accesskey "d">
+<!ENTITY evaluate.accesskey "h">
 
 <!ENTITY copyCmd.label "Kopírovať">
 <!ENTITY copyCmd.accesskey "K">
