@@ -1,10 +1,8 @@
-<!ENTITY aboutDialog.title      "&brandFullName;  ਬਾਰੇ">
+<!ENTITY aboutDialog.title      "&brandFullName; ਬਾਰੇ">
 <!ENTITY credits.label          "ਮਾਣ">
 <!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label        "&lt;&brandFullName; ਬਾਰੇ">
+<!ENTITY aboutLink.label        "&lt; &brandFullName; ਮਾਣ">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "ਵਰਜਨ">
-<!ENTITY copyrightText          "&#169;1998-2008 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
-                                 Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 
-                                 reserved.">
+<!ENTITY copyrightText          "&#169;1998-2009 ਯੋਗਦਾਨੀ। ਸਭ ਹੱਕ ਰਾਖਵੇਂ ਹਨ। ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ ਅਤੇ ਥੰਡਰਬਰਡ ਲੋਗੋ ਮੋਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ ਹਨ। ਸਭ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।">
 <!ENTITY cmdCloseMac.commandKey "w">

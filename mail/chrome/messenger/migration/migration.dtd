@@ -1,5 +1,5 @@
 
-<!ENTITY migrationWizard.title          "Import Wizard">
+<!ENTITY migrationWizard.title          "ਇੰਪੋਰਟ ਸਹਾਇਕ">
 
 <!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
 <!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
