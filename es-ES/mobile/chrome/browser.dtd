@@ -27,10 +27,11 @@
 <!ENTITY selectAll.label "Seleccionar todo">
 <!ENTITY noSuggestions.label "(Sin sugerencias)">
 <!ENTITY addToDictionary.label "Añadir al diccionario">
-<!ENTITY bookmarkName.label "Nombre:">
-<!ENTITY bookmarkFolder.label "Carpeta:">
-<!ENTITY bookmarkTags.label "Etiquetas:">
+<!ENTITY editBookmarkName.label "Nombre:">
+<!ENTITY editBookmarkURI.label "Dirección:">
+<!ENTITY editBookmarkTags.label "Etiquetas:">
 <!ENTITY bookmarkRemove.label "Eliminar marcador">
+<!ENTITY editBookmarkDone.label "Terminar">
 <!ENTITY findOnCmd.label "Buscar en esta página…">
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
