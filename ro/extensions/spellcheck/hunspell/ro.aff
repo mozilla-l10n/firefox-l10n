@@ -1,6 +1,24 @@
+# word list version 3.3-test5
 SET UTF-8
 TRY iaertolncusămpdbgțfzvșhâjîxkwyqACDM
 
+#***************************************
+# Romanian Hunspell Dictionary
+#***************************************
+# Authors:
+#   Lucian Constantin (rospell) <struct_bylighting at yahoo dot com>
+#   Sorin Sbârnea (Romanian Internationalization Team, http://www.i18n.ro);
+#   Alexandru Szasz (Mozilla and OpenOffice.org Romanian Translation Team)
+#   Ionut Paduraru (http://www.archeus.ro)
+#   Adrian Stoica (OpenOffice.org Romanian Translation Team) <adrian dot stoica at cuvinte dot ro>
+#   Nicu Buculei (OpenOffice.org Romanian Translation Team) <nicu at apsro dot com>
+#   Catalin Francu (http://dexonline.ro)
+#   Ionel Mugurel Ciobica (previous aspell releases) <tgakic at sg10 chem tue nl>
+#   Mihai Budiu (ispell dictionary) <mihaib at cs cmu edu>
+# 
+# Copyright Terms:
+#  GPL 2.0/LGPL 2.1/MPL 1.1 tri-license
+#
 #***************************************
 # Cuprins:
 # O - general prefix re
@@ -19,7 +37,7 @@ TRY iaertolncusămpdbgțfzvșhâjîxkwyqACDM
 #
 # Substantive
 # AF - feminine (sf.utf8)
-# C - neutre care fac plural in uri: abajur/abajurui (sn.utf8)
+# C - neutre care fac plural in uri: abajur/abajururi (sn.utf8)
 # MP - neutre care fac pluralul in e: șablon/șabloane (sn.utf8)
 #       - M si P ar trebui sa fie mergiuite
 # L - masculine (sm.utf8)
@@ -575,7 +593,7 @@ PFX E Y 1
 PFX E 0 re .
 
 # cont... - verbe terimante in g sau c la persoana I singular prezend: ajung,
-SFX H Y 110
+SFX H Y 116
 SFX H g ge-mi g
 SFX H g ge-ți g
 SFX H g ge-mă g
@@ -617,16 +635,19 @@ SFX H t te-ne t
 SFX H t te-i t
 SFX H t te-le t
 SFX H 0 eți-mă .
+SFX H 0 eți-vă .
 SFX H 0 eți-l .
 SFX H 0 eți-o .
 SFX H 0 eți-ne .
 SFX H 0 eți-i .
+SFX H 0 eți-le .
 SFX H t țându-mă t
 SFX H t țându-te t
 SFX H t țându-l t
 SFX H t țând-o t
 SFX H t țându-se t
 SFX H t țându-și t
+SFX H t țându-și-i t
 SFX H t țându-și-l t
 SFX H t țându-și-o t
 SFX H t țându-și-le t
@@ -653,6 +674,7 @@ SFX H 0 ându-l [^a]g
 SFX H 0 ând-o [^a]g
 SFX H 0 ându-se [^a]g
 SFX H 0 ându-și [^a]g
+SFX H 0 ându-și-i [^a]g
 SFX H 0 ându-și-l [^a]g
 SFX H 0 ându-și-o [^a]g
 SFX H 0 ându-și-le [^a]g
@@ -666,6 +688,7 @@ SFX H ag ăgându-l ag
 SFX H ag ăgând-o ag
 SFX H ag ăgându-se ag
 SFX H ag ăgându-și ag
+SFX H ag ăgându-și-i ag
 SFX H ag ăgându-și-l ag
 SFX H ag ăgându-și-o ag
 SFX H ag ăgându-și-le ag
@@ -679,6 +702,7 @@ SFX H 0 ându-l [^dtg]
 SFX H 0 ând-o [^dtg]
 SFX H 0 ându-se [^dtg]
 SFX H 0 ându-și [^dtg]
+SFX H 0 ându-și-i [^dtg]
 SFX H 0 ându-și-l [^dtg]
 SFX H 0 ându-și-o [^dtg]
 SFX H 0 ându-și-le [^dtg]
@@ -701,7 +725,7 @@ PFX G 0 re .
 #********************************************************************************
 # verbe conjugarea 4.2 (esc) si 4.4 (ăsc) (v4/I)
 #********************************************************************************
-SFX I Y 147
+SFX I Y 150
 SFX I esc ești esc    #prezent
 SFX I esc ește esc
 SFX I esc ește-mă esc #prezent imperativ
@@ -743,6 +767,7 @@ SFX I esc indu-l [^i]esc
 SFX I esc ind-o [^i]esc
 SFX I esc indu-se [^i]esc
 SFX I esc indu-și [^i]esc
+SFX I esc indu-și-i [^i]esc
 SFX I esc indu-și-o [^i]esc
 SFX I esc indu-și-l [^i]esc
 SFX I esc indu-și-le [^i]esc
@@ -757,6 +782,7 @@ SFX I esc ndu-l iesc
 SFX I esc nd-o iesc
 SFX I esc ndu-se iesc
 SFX I esc ndu-și iesc
+SFX I esc ndu-și-i iesc
 SFX I esc ndu-și-o iesc
 SFX I esc ndu-și-l iesc
 SFX I esc ndu-și-le iesc
@@ -826,6 +852,7 @@ SFX I ăsc ându-l ăsc
 SFX I ăsc ând-o ăsc
 SFX I ăsc ându-se ăsc
 SFX I ăsc ându-și ăsc
+SFX I ăsc ându-și-i ăsc
 SFX I ăsc ându-și-o ăsc
 SFX I ăsc ându-și-l ăsc
 SFX I ăsc ându-și-le ăsc
@@ -861,7 +888,7 @@ SFX F Y 53
 SFX F   ă     a       ă
 SFX F   ă     a-i       ă
 SFX F   ă     o       ă
-SFX F   eală elei      eală
+SFX F   eală elii      eală
 SFX F   eală eli       eală
 SFX F   eală  elile     eală
 SFX F   eală  elilor   eală
@@ -1188,7 +1215,7 @@ SFX Q   s     aselor  os
 SFX Q   0     l       u
 SFX Q   0     lui     u
 SFX Q   u     i       [^r]u
-SFX Q   u     0      iu
+SFX Q   u     ii      iu
 SFX Q   u     ii      [^ri]u
 SFX Q   u     ilor    [^r]u
 SFX Q   u     i       [^s].ru
@@ -1279,8 +1306,8 @@ SFX L   u     i       [^ri]u
 SFX L   u     ii      [^ri]u
 SFX L   u     ilor    [^ri]u
 SFX L   iu     iu-i       iu
-SFX L   iu     i       iu
-SFX L   iu     ii      iu
+SFX L   iu     ii       iu
+SFX L   iu     iii      iu
 SFX L   u     ilor    iu
 SFX L   u     i       [^s].ru
 SFX L   u     ii      [^s].ru
@@ -1304,6 +1331,7 @@ SFX L   st    știi    st
 SFX L   st    știlor  st
 #end*******************************************************************************
 
+# Nume proprii
 SFX U Y 3
 SFX U a o a
 SFX U a ei [^cgk]a
@@ -1319,9 +1347,14 @@ REP gi ghi
 
 # this is a addon for hunspell-utf8 only dictionaries
 # it allows sugestions based on both cedilla and commabelow
-MAP 4
-MAP aăâ
-MAP iî
+# it also allows transliteration for î to â
+MAP 8
+MAP aăâî
+MAP iîâ
 MAP sşș
 MAP tţț
+MAP AĂÂÎ
+MAP IÎÂ
+MAP SȘȘ
+MAP TȚȚ
 
