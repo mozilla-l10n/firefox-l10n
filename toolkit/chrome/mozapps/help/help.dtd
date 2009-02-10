@@ -23,7 +23,7 @@
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Sykje">
-<!ENTITY searchHeader.label             "Sykrisseltaten">
+<!ENTITY searchHeader.label             "Sykresultaten">
 <!ENTITY toctab.label                   "Ynhâld">
 <!ENTITY toctab.accesskey               "Y">
 
