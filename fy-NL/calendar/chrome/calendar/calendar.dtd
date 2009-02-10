@@ -51,9 +51,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
+<!ENTITY calendar.newevent.button.tooltip         "In nij barren meitsje" >
 <!ENTITY calendar.newtask.button.tooltip          "In nije taak meitsje" >
-<!ENTITY calendar.newevent.button.tooltip         "In nij agindabarren meitsje" >
-<!ENTITY calendar.edit.button.tooltip             "Selektearre barren bewurkje" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Taken" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Foltôge taken toane">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "Nei hjoed gean" >
 <!ENTITY calendar.todaypane.button.tooltip        "Finster Hjoed toane" >
-<!ENTITY calendar.unifinder.button.tooltip        "Barrens sykje en toane" >
 
 <!ENTITY calendar.day.button.tooltip            "Nei dei-oersjoch oerskeakelje" >
 <!ENTITY calendar.week.button.tooltip           "Nei wyk-oersjoch oerskeakelje" >
@@ -102,23 +100,11 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Folgjende moanne" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Foarige moanne" >
 
-<!ENTITY calendar.newtask.button.label          "Nije taak" >
 <!ENTITY calendar.newevent.button.label         "Nij barren" >
-<!ENTITY calendar.edit.button.label             "Bewurkje" >
+<!ENTITY calendar.newtask.button.label          "Nije taak" >
 <!ENTITY calendar.print.button.label            "Ofdrukke" >
 
-<!ENTITY calendar.import.button.tooltip            "Barrens ymportearje út in lokaal bestân" >
-<!ENTITY calendar.export.button.tooltip            "Barrens eksportearje nei in lokaal bestân" >
-<!ENTITY calendar.subscribe.button.tooltip         "Oanmelde by in agindabestân op in oare masine" >
-<!ENTITY calendar.publish.button.tooltip           "Barrens publisearje nei in oare masine" >
-
 <!ENTITY calendar.export.calendar                "Aginda eksportearje…" >
-
-<!ENTITY calendar.import.button.label              "Ymportearje" >
-<!ENTITY calendar.export.button.label              "Eksportearje" >
-<!ENTITY calendar.subscribe.button.label           "Oanmelde" >
-<!ENTITY calendar.publish.button.label             "Publisearje" >
-<!ENTITY calendar.unifinder.button.label           "Barrens sykje" >
 
 <!ENTITY calendar.day.button.label              "Dei" >
 <!ENTITY calendar.week.button.label             "Wike" >
@@ -154,15 +140,15 @@
 <!ENTITY calendar.task.filter.open.label            "Net foltôge taken">
 <!ENTITY calendar.task.filter.open.accesskey        "N">
 
-<!ENTITY calendar.task.details.title.label           "Titel:">
-<!ENTITY calendar.task.details.organizer.label       "Fan:">
-<!ENTITY calendar.task.details.priority2.label       "Prioriteit:">
-<!ENTITY calendar.task.details.priority.low.label    "Leech">
-<!ENTITY calendar.task.details.priority.normal.label "Normaal">
-<!ENTITY calendar.task.details.priority.high.label   "Heech">
-<!ENTITY calendar.task.details.status.label          "Steat:">
-<!ENTITY calendar.task.details.category.label        "Kategorie:">
-<!ENTITY calendar.task.details.repeat.label          "Werhelje:">
+<!ENTITY calendar.task-details.title.label           "titel:">
+<!ENTITY calendar.task-details.organizer.label       "fan:">
+<!ENTITY calendar.task-details.priority.label        "prioriteit:">
+<!ENTITY calendar.task-details.priority.low.label    "Leech">
+<!ENTITY calendar.task-details.priority.normal.label "Normaal">
+<!ENTITY calendar.task-details.priority.high.label   "Heech">
+<!ENTITY calendar.task-details.status.label          "steat:">
+<!ENTITY calendar.task-details.category.label        "kategorie:">
+<!ENTITY calendar.task-details.repeat.label          "werhelje:">
 
 <!ENTITY calendar.task.category.button.tooltip  "Taken kategorisearje">
 <!ENTITY calendar.task.complete.button.tooltip  "Selektearre taken as foltôge markearje">

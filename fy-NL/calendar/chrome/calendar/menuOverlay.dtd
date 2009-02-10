@@ -70,11 +70,6 @@
 <!ENTITY calendar.publish.label                 "Publisearje…">
 <!ENTITY calendar.publish.accesskey             "P">
 
-<!ENTITY calendar.toolbar.label                 "Aginda-arkbalke">
-<!ENTITY calendar.toolbar.accesskey             "e">
-<!ENTITY task.toolbar.label                     "Taakarkbalke">
-<!ENTITY task.toolbar.accesskey                 "T">
-
 <!ENTITY calendar.menu.customize.label          "Oanpasse…">
 <!ENTITY calendar.menu.customize.accesskey      "O">
 

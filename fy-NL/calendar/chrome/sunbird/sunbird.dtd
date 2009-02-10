@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "Aginda ôfdrukke" >
 <!ENTITY sunbird.delete.button.tooltip                     "Selektearre barren fuortsmite" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Alle aginda's op ôfstân op 'e nij lade" >
+<!ENTITY sunbird.import.button.tooltip                     "Ymportear eveneminten út in lokaal bestân" >
+<!ENTITY sunbird.export.button.tooltip                     "Eksportear evenminten nei in lokaal bestân" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Abonnearje op agindabestân op in masine op ôfstân" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publisearje eveneminten nei in masine op ôfstân" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Fyn en meitsje list fan eveneminten" >
+<!ENTITY sunbird.edit.button.tooltip                       "Bewurk selektearre evenemint" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Kies datum" >
 <!ENTITY sunbird.cut.button.label                          "Knippe" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "Plakke" >
 <!ENTITY sunbird.delete.button.label                       "Fuortsmite" >
 <!ENTITY sunbird.remotereload.button.label                 "Op 'e nij lade" >
+<!ENTITY sunbird.import.button.label                       "Ymportearje" >
+<!ENTITY sunbird.export.button.label                       "Eksportearje" >
+<!ENTITY sunbird.subscribe.button.label                    "Abonnearje" >
+<!ENTITY sunbird.publish.button.label                      "Publisearje" >
+<!ENTITY sunbird.unifinder.button.label                    "Fyn eveneminten" >
+<!ENTITY sunbird.edit.button.label                         "Bewurkje" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Gean nei datum" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Dei" >
