@@ -58,9 +58,9 @@
 <!ENTITY editMessageDescription.label "Acesta e un mesaj netrimis, o ciornă">
 <!ENTITY editMessageButton.label "Editează…">
 <!ENTITY archiveButton.label "arhivează">
-<!ENTITY replyButton.label "răspunde…">
-<!ENTITY forwardButton.label "înaintează…">
-<!ENTITY junkButton.label "marchează ca spam">
+<!ENTITY hdrReplyButton.label "răspunde">
+<!ENTITY hdrForwardButton.label "înaintează">
+<!ENTITY hdrJunkButton.label "spam">
 <!ENTITY trashButton.tooltiptext "șterge">
 
 <!ENTITY otherActionsButton.label "alte acțiuni">
