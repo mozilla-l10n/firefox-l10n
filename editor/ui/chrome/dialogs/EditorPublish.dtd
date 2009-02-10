@@ -37,65 +37,65 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label            "Pagina publiceren">
-<!ENTITY windowTitleSettings.label    "Publiceerinstellingen">
+<!ENTITY windowTitle.label            "Side publisearje">
+<!ENTITY windowTitleSettings.label    "Publikaasjeynstellings">
 
-<!ENTITY publishTab.label             "Publiceren">
-<!ENTITY settingsTab.label            "Instellingen">
+<!ENTITY publishTab.label             "Publisearje">
+<!ENTITY settingsTab.label            "Ynstellings">
 
-<!ENTITY publishButton.label          "Publiceren">
+<!ENTITY publishButton.label          "Publisearje">
 
 <!-- Publish Tab Panel -->
-<!ENTITY siteList.label               "Websitenaam:">
+<!ENTITY siteList.label               "Websteenamme:">
 <!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip             "Kies de website waarop u wilt publiceren">
-<!ENTITY newSiteButton.label          "Nieuwe website">
+<!ENTITY siteList.tooltip             "Kies it webstee dy't jo publisearje wolle">
+<!ENTITY newSiteButton.label          "Nij webstee">
 <!ENTITY newSiteButton.accesskey      "N">
-<!ENTITY docDirList.label             "Websitesubmap voor deze pagina:">
+<!ENTITY docDirList.label             "websteesubmap foar dizze side:">
 <!ENTITY docDirList.accesskey         "W">
-<!ENTITY docDirList.tooltip           "Kies of voer de naam in van de submap waarin u wilt publiceren">
-<!ENTITY publishImgCheckbox.label     "Afbeeldingen en andere bestanden bijvoegen">
+<!ENTITY docDirList.tooltip           "Kies of fier de namme yn fan de submap dy't jo yn publisearje wolle">
+<!ENTITY publishImgCheckbox.label     "Ofbyldingen en oare bestannen byfoegje">
 <!ENTITY publishImgCheckbox.accesskey "o">
-<!ENTITY publishImgCheckbox.tooltip   "Afbeeldingen en andere bestanden waarnaar deze pagina verwijst publiceren">
-<!ENTITY sameLocationRadio.label      "Dezelfde locatie als de pagina gebruiken">
+<!ENTITY publishImgCheckbox.tooltip   "Ofbyldings en oare bestannen dy't dizze side nei ferwiist publisearje">
+<!ENTITY sameLocationRadio.label      "Deselde lokaasje as de side brûke">
 <!ENTITY sameLocationRadio.accesskey  "z">
-<!ENTITY sameLocationRadio.tooltip    "Bestanden publiceren op dezelfde locatie als de pagina">
-<!ENTITY useSubdirRadio.label         "Deze websitesubmap gebruiken:">
+<!ENTITY sameLocationRadio.tooltip    "Bestannen publisearje op deselde lokaasje as de side">
+<!ENTITY useSubdirRadio.label         "Dizze websteesubmap brûke:">
 <!ENTITY useSubdirRadio.accesskey     "s">
-<!ENTITY useSubdirRadio.tooltip       "Bestanden publiceren in de gelecteerde websitesubmap">
-<!ENTITY otherDirList.tooltip         "Kies of voer de naam in van de submap waarin de bestanden zullen worden gepubliceerd">
-<!ENTITY pageTitle.label              "Paginatitel:">
+<!ENTITY useSubdirRadio.tooltip       "Bestannen publisearje yn de selektearre websteesubmap">
+<!ENTITY otherDirList.tooltip         "Kies of fier de namme yn fan de submap dy't de bestannen yn publisearre wurde sille">
+<!ENTITY pageTitle.label              "Sidetitel:">
 <!ENTITY pageTitle.accesskey          "t">
-<!ENTITY pageTitle.tooltip            "Voer een titel in om de pagina te identificeren in het venster en in bladwijzers">
-<!ENTITY pageTitleExample.label       "bv. &quot;Mijn webpagina&quot;">
-<!ENTITY filename.label               "Bestandsnaam:">
+<!ENTITY pageTitle.tooltip            "Fier in titel yn om de side te identifisearjen yn it finster en yn blêdwizers">
+<!ENTITY pageTitleExample.label       "bgl. &quot;Myn webtee&quot;">
+<!ENTITY filename.label               "Bestânsnamme:">
 <!ENTITY filename.accesskey           "B">
-<!ENTITY filename.tooltip             "Voer een naam in voor dit bestand, eindigend op ‘html’ voor een webpagina">
-<!ENTITY filenameExample.label        "bv. &quot;mypage.html&quot;">
-<!ENTITY setDefaultButton.label       "Als standaard instellen">
+<!ENTITY filename.tooltip             "Fier in namme yn foar dit bestân dat einiget op ‘html’ foar in webside">
+<!ENTITY filenameExample.label        "bgl. &quot;mynwebside.html&quot;">
+<!ENTITY setDefaultButton.label       "As standert ynstelle">
 <!ENTITY setDefaultButton.accesskey   "d">
-<!ENTITY removeButton.label           "Website verwijderen">
-<!ENTITY removeButton.accesskey       "v">
+<!ENTITY removeButton.label           "webstee fuortsmite">
+<!ENTITY removeButton.accesskey       "f">
 
 <!-- Settings Tab Panel -->
-<!ENTITY publishSites.label           "Publicatiewebsites">
-<!ENTITY serverInfo.label             "Serverinformatie">
-<!ENTITY loginInfo.label              "Inloginformatie">
-<!ENTITY siteName.label               "Websitenaam:">
+<!ENTITY publishSites.label           "Publikaasjewebsteeën">
+<!ENTITY serverInfo.label             "Tsjinnerynformaasje">
+<!ENTITY loginInfo.label              "Ynlogynformaasje">
+<!ENTITY siteName.label               "websteenamme:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip             "Een bijnaam om deze publicatiewebsite te identificeren (bv. ‘MijnWebsite’)">
-<!ENTITY siteUrl.label                "Publicatieadres (bv. ‘ftp://ftp.myisp.com/myusername’):">
+<!ENTITY siteName.tooltip             "In bynamme om dit publikaasjewebstee te identisearjen (bgl. ‘Mynwebstee’)">
+<!ENTITY siteUrl.label                "Publikaasjeadres (byg. ‘ftp://ftp.myisp.com/myusername’):">
 <!ENTITY siteUrl.accesskey            "a">
-<!ENTITY siteUrl.tooltip              "Het FTP://- of HTTP://-adres dat door uw ISP of webhostingservice is voorzien">
-<!ENTITY browseUrl.label              "HTTP-adres van uw homepage (bv. ‘http://www.mijnisp.com/mijngebruikernaam’):">
+<!ENTITY siteUrl.tooltip              "It FTP://- of HTTP://-adres dat troch jo ISP- of webhostingservice jûn is">
+<!ENTITY browseUrl.label              "HTTP-adres fan jo thússide (byg. ‘http://www.mynisp.com/mynbrûkersnamme’):">
 <!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip            "Het HTTP://-adres van uw hoofdmap (zonder bestandsnaam)">
-<!ENTITY username.label               "Gebruikersnaam:">
+<!ENTITY browseUrl.tooltip            "It HTTP://-adres fan jo haadmap (sûnder bestânsnamme)">
+<!ENTITY username.label               "Brûkersnamme:">
 <!ENTITY username.accesskey           "G">
-<!ENTITY username.tooltip             "De gebruikersnaam om in te loggen bij uw ISP of webhostingservice">
-<!ENTITY password.label               "Wachtwoord:">
+<!ENTITY username.tooltip             "De brûkersnamme om yn te loggen by jo ISP- of webhostingservice">
+<!ENTITY password.label               "Wachtwurd:">
 <!ENTITY password.accesskey           "W">
-<!ENTITY password.tooltip             "Het wachtwoord behorende bij uw gebruikersnaam">
-<!ENTITY savePassword.label           "Wachtwoord opslaan">
+<!ENTITY password.tooltip             "It wachtwurd dat by jo brûkersnamme heart">
+<!ENTITY savePassword.label           "Wachtwurd bewarje">
 <!ENTITY savePassword.accesskey       "s">
-<!ENTITY savePassword.tooltip         "Selecteer dit om uw wachtwoord veilig op te slaan met de wachtwoordenbeheerder">
+<!ENTITY savePassword.tooltip         "Selektearje dit om jo wachtwurd feilich te bewarjen mei de wachtwurdbehearder">

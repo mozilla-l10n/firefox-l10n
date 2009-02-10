@@ -10,9 +10,9 @@
 <!ENTITY  documentsInMenu.accesskey     "n">
 
 <!ENTITY  savingFiles.title             "By it bewarjen of publisearjen fan siden">
-<!ENTITY  preserveExisting.label        "Orsjinele boarne-opmaak behâlde">
+<!ENTITY  preserveExisting.label        "Orizjinele boarne-opmaak behâlde">
 <!ENTITY  preserveExisting.accesskey    "b">
-<!ENTITY  preserveExisting.tooltip      "Behâldt nije rigels en de orsjinele opmaak fan de side">
+<!ENTITY  preserveExisting.tooltip      "Behâldt nije rigels en de orizjinele opmaak fan de side">
 <!ENTITY  saveAssociatedFiles.label     "Ofbyldings en oare assosjearre bestannen bewarje by it bewarjen fan siden">
 <!ENTITY  saveAssociatedFiles.accesskey "O">
 <!ENTITY  showPublishDialog.label       "Altyd publiseardialooch toane by it publisearjen fan siden">

@@ -35,74 +35,74 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY tableWindow.title                "Tabeleigenschappen">
-<!ENTITY applyButton.label                "Toepassen">
+<!ENTITY tableWindow.title                "Tabeleigenskippen">
+<!ENTITY applyButton.label                "Tapasse">
 <!ENTITY applyButton.accesskey            "T">
-<!ENTITY closeButton.label                "Sluiten">
+<!ENTITY closeButton.label                "Slute">
 <!ENTITY tableTab.label                   "Tabel">
-<!ENTITY cellTab.label                    "Cellen">
-<!ENTITY tableRows.label                  "Rijen:">
+<!ENTITY cellTab.label                    "Sellen">
+<!ENTITY tableRows.label                  "Rigen:">
 <!ENTITY tableRows.accessKey              "R">
 <!ENTITY tableColumns.label               "Kolommen:">
 <!ENTITY tableColumns.accessKey           "K">
-<!ENTITY tableHeight.label                "Hoogte:">
+<!ENTITY tableHeight.label                "Hichte:">
 <!ENTITY tableHeight.accessKey            "H">
 <!ENTITY tableWidth.label                 "Breedte:">
 <!ENTITY tableWidth.accessKey             "B">
-<!ENTITY tableBorderSpacing.label         "Randen en marges">
-<!ENTITY tableBorderWidth.label           "Rand:">
+<!ENTITY tableBorderSpacing.label         "Rânen en marzjes">
+<!ENTITY tableBorderWidth.label           "Râne:">
 <!ENTITY tableBorderWidth.accessKey       "n">
-<!ENTITY tableSpacing.label               "Marges:">
+<!ENTITY tableSpacing.label               "Marzjes:">
 <!ENTITY tableSpacing.accessKey           "M">
-<!ENTITY tablePadding.label               "Opvulling:">
+<!ENTITY tablePadding.label               "Opfolling:">
 <!ENTITY tablePadding.accessKey           "p">
-<!ENTITY tablePxBetwCells.label           "pixels tussen cellen">
-<!ENTITY tablePxBetwBrdrCellContent.label "pixels tussen celrand en inhoud">
-<!ENTITY tableAlignment.label             "Tabeluitlijning:">
-<!ENTITY tableAlignment.accessKey         "u">
-<!ENTITY tableCaption.label               "Bijschrift:">
+<!ENTITY tablePxBetwCells.label           "piksels tusken sellen">
+<!ENTITY tablePxBetwBrdrCellContent.label "piksels tusken selrâne en ynhâld">
+<!ENTITY tableAlignment.label             "Rjochtsjen Tabel:">
+<!ENTITY tableAlignment.accessKey         "j">
+<!ENTITY tableCaption.label               "Byskrift:">
 <!ENTITY tableCaption.accessKey           "i">
-<!ENTITY tableCaptionAbove.label          "Boven de tabel">
-<!ENTITY tableCaptionBelow.label          "Onder de tabel">
-<!ENTITY tableCaptionLeft.label           "Links van de tabel">
-<!ENTITY tableCaptionRight.label          "Rechts van de tabel">
-<!ENTITY tableCaptionNone.label           "Geen">
-<!ENTITY tableInheritColor.label          "(Paginakleur laten doorschijnen)">
+<!ENTITY tableCaptionAbove.label          "Boppe de tabel">
+<!ENTITY tableCaptionBelow.label          "Under de tabel">
+<!ENTITY tableCaptionLeft.label           "Links fan de tabel">
+<!ENTITY tableCaptionRight.label          "Rochts fan de tabel">
+<!ENTITY tableCaptionNone.label           "Gjin">
+<!ENTITY tableInheritColor.label          "(Sidekleur trochskine litte)">
 
-<!ENTITY cellSelection.label              "Selectie">
-<!ENTITY cellSelectCell.label             "Cel">
-<!ENTITY cellSelectRow.label              "Rij">
+<!ENTITY cellSelection.label              "Seleksje">
+<!ENTITY cellSelectCell.label             "Sel">
+<!ENTITY cellSelectRow.label              "Rige">
 <!ENTITY cellSelectColumn.label           "Kolom">
-<!ENTITY cellSelectNext.label             "Volgende">
-<!ENTITY cellSelectNext.accessKey         "V">
-<!ENTITY cellSelectPrevious.label         "Vorige">
+<!ENTITY cellSelectNext.label             "Folgjende">
+<!ENTITY cellSelectNext.accessKey         "F">
+<!ENTITY cellSelectPrevious.label         "Foarige">
 <!ENTITY cellSelectPrevious.accessKey     "o">
-<!ENTITY applyBeforeChange.label          "Current changes will be applied before changing the selection.">
-<!ENTITY cellContentAlignment.label       "Inhoud uitlijnen">
+<!ENTITY applyBeforeChange.label          "Dizze wizigings wurde tapast foardat de seleksje wizige wurdt.">
+<!ENTITY cellContentAlignment.label       "Ynhâld rjochtsje">
 <!ENTITY cellHorizontal.label             "Horizontaal:">
 <!ENTITY cellHorizontal.accessKey         "z">
-<!ENTITY cellVertical.label               "Verticaal:">
+<!ENTITY cellVertical.label               "Fertikaal:">
 <!ENTITY cellVertical.accessKey           "e">
-<!ENTITY cellStyle.label                  "Celstijl:">
+<!ENTITY cellStyle.label                  "Selstyl:">
 <!ENTITY cellStyle.accessKey              "s">
 <!ENTITY cellNormal.label                 "Normaal">
 <!ENTITY cellHeader.label                 "Kop">
-<!ENTITY cellTextWrap.label               "Tekstuitlijning:">
-<!ENTITY cellTextWrap.accessKey           "l">
-<!ENTITY cellWrap.label                   "Uitlijnen">
-<!ENTITY cellNoWrap.label                 "Niet uitlijnen">
-<!ENTITY cellAlignTop.label               "Boven">
+<!ENTITY cellTextWrap.label               "Rjochtsjen tekst:">
+<!ENTITY cellTextWrap.accessKey           "k">
+<!ENTITY cellWrap.label                   "Rjochtsje">
+<!ENTITY cellNoWrap.label                 "Net rjochtsje">
+<!ENTITY cellAlignTop.label               "Boppe">
 <!ENTITY cellAlignMiddle.label            "Midden">
-<!ENTITY cellAlignBottom.label            "Onder">
-<!ENTITY cellAlignJustify.label           "Uitvullen">
-<!ENTITY cellInheritColor.label           "(Tabelkleur laten doorschijnen)">
-<!ENTITY cellUseCheckboxHelp.label        "Gebruik de selectievakjes om te bepalen welke eigenschappen worden toegepast op alle geselecteerde cellen">
+<!ENTITY cellAlignBottom.label            "Under">
+<!ENTITY cellAlignJustify.label           "Utfolje">
+<!ENTITY cellInheritColor.label           "(Tabelkleur trochskine litte)">
+<!ENTITY cellUseCheckboxHelp.label        "Brûk de seleksjefekjes om te bepalen hokker eigenskippen tapast wurde op alle selektearre sellen">
 
 <!-- Used in both Table and Cell panels  -->
-<!ENTITY size.label                       "Grootte">
-<!ENTITY pixels.label                     "pixels">
-<!ENTITY backgroundColor.label            "Achtergrondkleur:">
-<!ENTITY backgroundColor.accessKey        "A">
+<!ENTITY size.label                       "Grutte">
+<!ENTITY pixels.label                     "piksels">
+<!ENTITY backgroundColor.label            "Eftergrûnkleur:">
+<!ENTITY backgroundColor.accessKey        "E">
 <!ENTITY AlignLeft.label                  "Links">
 <!ENTITY AlignCenter.label                "Midden">
-<!ENTITY AlignRight.label                 "Rechts">
+<!ENTITY AlignRight.label                 "Rjochts">

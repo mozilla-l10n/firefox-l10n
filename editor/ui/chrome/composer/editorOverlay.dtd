@@ -118,12 +118,11 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Stavering kontrolearje tiidens typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd.label "Stavering kontrolearje">
-<!ENTITY checkSpellingCmd.accesskey "c">
-<!ENTITY checkSpellingCmd.key "k">
+<!ENTITY checkSpellingCmd2.label "Stavering kontrolearje">
+<!ENTITY checkSpellingCmd2.accesskey "k">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "HTML falidearje">
 <!ENTITY validateCmd.accesskey "H">
-<!ENTITY checkSpellingCmd.accesskey "M">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Ynfoegje">
@@ -135,7 +134,7 @@
 <!ENTITY insertAnchorCmd.accesskey "n">
 <!ENTITY insertImageCmd.label "Ofbylding...">
 <!ENTITY insertImageCmd.accesskey "O">
-<!ENTITY insertHLineCmd.label "Horisontale lijn">
+<!ENTITY insertHLineCmd.label "Horisontale line">
 <!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "Tabel...">
 <!ENTITY insertTableCmd.accesskey "T">
@@ -193,21 +192,21 @@
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Tekengrutte kieze">
 <!ENTITY decreaseFontSize.label "Lytser">
-<!ENTITY decreaseFontSize.accesskey "n">
+<!ENTITY decreaseFontSize.accesskey "L">
 <!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Grutter">
-<!ENTITY increaseFontSize.accesskey "o">
+<!ENTITY increaseFontSize.accesskey "u">
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Grutte">
 <!ENTITY fontSizeMenu.accesskey "G">
 <!ENTITY size-xx-smallCmd.label "xx-lyts">
-<!ENTITY size-xx-smallCmd.accesskey "e">
+<!ENTITY size-xx-smallCmd.accesskey "t">
 <!ENTITY size-x-smallCmd.label "x-lyts">
-<!ENTITY size-x-smallCmd.accesskey "l">
+<!ENTITY size-x-smallCmd.accesskey "y">
 <!ENTITY size-smallCmd.label "lyts">
-<!ENTITY size-smallCmd.accesskey "k">
+<!ENTITY size-smallCmd.accesskey "l">
 <!ENTITY size-mediumCmd.label "medium">
 <!ENTITY size-mediumCmd.accesskey "m">
 <!ENTITY size-largeCmd.label "grut">
@@ -261,8 +260,8 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Ankerverwijzing verwijderen">
-<!ENTITY formatRemoveNamedAnchors.accesskey "V">
+<!ENTITY formatRemoveNamedAnchors.label "Ankerferwizing fuortsmite">
+<!ENTITY formatRemoveNamedAnchors.accesskey "f">
 <!ENTITY formatRemoveNamedAnchors.key "a">
 
 <!ENTITY paragraphMenu.label "Alinea">
@@ -311,17 +310,17 @@
 <!ENTITY advancedPropertiesCmd.accesskey "a">
 
 <!-- Align menu items -->
-<!ENTITY alignMenu.label "Utlijne">
+<!ENTITY alignMenu.label "Utlynje">
 <!ENTITY alignMenu.accesskey "U">
 <!ENTITY alignLeft.label "Links">
 <!ENTITY alignLeft.accesskey "L">
-<!ENTITY alignLeft.tooltip "Links útlijne">
+<!ENTITY alignLeft.tooltip "Links útlynje">
 <!ENTITY alignCenter.label "Midden">
 <!ENTITY alignCenter.accesskey "M">
-<!ENTITY alignCenter.tooltip "Yn it midden útlijne">
+<!ENTITY alignCenter.tooltip "Yn it midden útlynje">
 <!ENTITY alignRight.label "Rjochts">
 <!ENTITY alignRight.accesskey "R">
-<!ENTITY alignRight.tooltip "Rjochts útlijne">
+<!ENTITY alignRight.tooltip "Rjochts útlynje">
 <!ENTITY alignJustify.label "Utfolje">
 <!ENTITY alignJustify.accesskey "U">
 <!ENTITY alignJustify.tooltip "Utfolje">
@@ -338,7 +337,7 @@
 <!ENTITY decreaseIndent.accesskey "r">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Raster pleatse">
+<!ENTITY grid.label "Raster sette">
 <!ENTITY grid.accesskey "t">
 
 <!ENTITY pageProperties.label "Sidetitel en -eigenskippen...">
@@ -371,7 +370,7 @@
 <!ENTITY tableRowAbove.label "Rige dêrboppe">
 <!ENTITY tableRowAbove.accesskey "R">
 <!ENTITY tableRowBelow.label "Rige dêrûnder">
-<!ENTITY tableRowBelow.accesskey "o">
+<!ENTITY tableRowBelow.accesskey "û">
 <!ENTITY tableColumn.label "Kolom">
 <!ENTITY tableColumns.label "Kolom(men)">
 <!ENTITY tableColumn.accesskey "K">
@@ -427,8 +426,8 @@
 <!ENTITY spellToolbarCmd.tooltip "Stavering fan seleksje of hiele side kontrolearje">
 <!ENTITY imageToolbarCmd.label "Ofbylding">
 <!ENTITY imageToolbarCmd.tooltip "Nije ôfbylding ynfoegje of eigenskippen fan selektearre ôfbylding oanpasse">
-<!ENTITY hruleToolbarCmd.label "H.lijn">
-<!ENTITY hruleToolbarCmd.tooltip "Horisontale lijn ynfoegje of eigenskippen fan selektearre lijn oanpasse">
+<!ENTITY hruleToolbarCmd.label "H.line">
+<!ENTITY hruleToolbarCmd.tooltip "Horisontale line ynfoegje of eigenskippen fan selektearre line oanpasse">
 <!ENTITY tableToolbarCmd.label "Tabel">
 <!ENTITY tableToolbarCmd.tooltip "Nije tabel ynfoegje of eigenskippen fan selektearre tabel oanpasse">
 <!ENTITY linkToolbarCmd.label "Keppeling">
@@ -450,12 +449,12 @@
 <!ENTITY numberListToolbarCmd.tooltip "List mei nûmering">
 <!ENTITY outdentToolbarCmd.tooltip "Ynspringing ferlytse">
 <!ENTITY indentToolbarCmd.tooltip "Ynspringing fergrutsje">
-<!ENTITY AlignPopupButton.tooltip "Tekstútlijning kieze">
-<!ENTITY InsertPopupButton.tooltip "In keppeling, ankerferwizing, ôfbylding, horisontale lijn of tabel ynfoegje">
-<!ENTITY alignLeftButton.tooltip "Tekst útlijne lâns de linkermarge">
-<!ENTITY alignCenterButton.tooltip "Tekst útlijne yn it midden">
-<!ENTITY alignRightButton.tooltip "Tekst útlijne lâns de rjochtermarge">
-<!ENTITY alignjustifyButton.tooltip "Tekst útlijne lâns de linker- en rjochtermarge">
+<!ENTITY AlignPopupButton.tooltip "Tekstútlyning kieze">
+<!ENTITY InsertPopupButton.tooltip "In keppeling, ankerferwizing, ôfbylding, horisontale line of tabel ynfoegje">
+<!ENTITY alignLeftButton.tooltip "Tekst útlynje lâns de linkermarge">
+<!ENTITY alignCenterButton.tooltip "Tekst útlynje yn it midden">
+<!ENTITY alignRightButton.tooltip "Tekst útlynje lâns de rjochtermarge">
+<!ENTITY alignjustifyButton.tooltip "Tekst útlynje lâns de linker- en rjochtermarge">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normaal">
