@@ -1,33 +1,33 @@
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Akkountynstellings">
-<!ENTITY accountName.label "Accountnaam:">
+<!ENTITY accountTitle.label "Accountynstellings">
+<!ENTITY accountName.label "Accountnamme:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit is de informatie die anderen zien als ze uw berichten lezen.">
-<!ENTITY identityTitle.label "Standaardidentiteit">
-<!ENTITY name.label "Uw naam:">
-<!ENTITY name.accesskey "U">
+<!ENTITY identityDesc.label "Elk account hat in identiteit. Dit is de ynformaasje dy't oaren sjogge as se jo berjochten lêze.">
+<!ENTITY identityTitle.label "Standertidentiteit">
+<!ENTITY name.label "Jo namme:">
+<!ENTITY name.accesskey "J">
 <!ENTITY email.label "E-mailadres:">
 <!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Antwoordadres:">
+<!ENTITY replyTo.label "Antwurdadres:">
 <!ENTITY replyTo.accesskey "n">
-<!ENTITY organization.label "Organisatie:">
+<!ENTITY organization.label "Organisaasje:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Deze ondertekening invoegen:">
+<!ENTITY signature.label "Dizze ûndertekening ynfoegje:">
 <!ENTITY signature.accesskey "D">
-<!ENTITY edit.label "Bewerken…">
-<!ENTITY choose.label "Kiezen…">
+<!ENTITY edit.label "Bewurkje…">
+<!ENTITY choose.label "Kieze…">
 <!ENTITY choose.accesskey "K">
-<!ENTITY editVCard.label "Kaart bewerken…">
+<!ENTITY editVCard.label "Kaart bewurkje…">
 <!ENTITY editVCard.accesskey "b">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "vCard aan berichten koppelen">
+<!ENTITY attachVCard.label "vCard oan berjochten keppelje">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Identiteiten beheren…">
+<!ENTITY manageIdentities.label "Identiteiten beheare…">
 <!ENTITY manageIdentities.accesskey "h">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Uitgaande server (SMTP):">
+<!ENTITY smtpName.label "Utgeande tsjinner (SMTP):">
 <!ENTITY smtpName.accesskey "s">
-<!ENTITY smtpDefaultServer.label "Standaardserver gebruiken">
+<!ENTITY smtpDefaultServer.label "Standerttsjinner brûke">

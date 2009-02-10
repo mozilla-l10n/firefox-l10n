@@ -3,5 +3,5 @@
 <!ENTITY newMessageCmd.label "Berjocht">
 <!ENTITY newMessageCmd.accesskey "B">
 
-<!ENTITY newCardCmd.label "Adresboekkaart...">
-<!ENTITY newCardCmd.accesskey "k">
+<!ENTITY newContactCmd.label "Adresboekkontakt...">
+<!ENTITY newContactCmd.accesskey "k">

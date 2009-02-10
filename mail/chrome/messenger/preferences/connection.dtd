@@ -1,18 +1,18 @@
-<!ENTITY  connectionsDialog.title       "Verbindingsinstellingen">
+<!ENTITY  connectionsDialog.title       "Ferbiningsynstellings">
 <!ENTITY  window.width                  "41em">
 
-<!ENTITY  proxyTitle.label              "Proxy’s voor toegang tot het internet configureren">
-<!ENTITY  noProxyTypeRadio.label        "Geen proxy">
+<!ENTITY  proxyTitle.label              "Proxy’s foar tagong ta it ynternet konfigurearje">
+<!ENTITY  noProxyTypeRadio.label        "Gjin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Systeem proxyinstellingen gebruiken">
-<!ENTITY  systemTypeRadio.accesskey     "u">
-<!ENTITY  WPADTypeRadio.label           "Proxyinstellingen voor dit netwerk automatisch detecteren">
+<!ENTITY  systemTypeRadio.label         "Systeem proxyynstellings brûke">
+<!ENTITY  systemTypeRadio.accesskey     "k">
+<!ENTITY  WPADTypeRadio.label           "Proxyynstellings foar dit netwurk automatysk detektearje">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Handmatige proxyconfiguratie:">
+<!ENTITY  manualTypeRadio.label         "Hânmjittige proxykonfiguraasje:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "URL voor automatische proxyconfiguratie:">
+<!ENTITY  autoTypeRadio.label           "URL foar automatyske proxykonfiguraasje:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  reload.label                  "Opnieuw laden">
+<!ENTITY  reload.label                  "Op 'e ni lade">
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  http.label                    "HTTP-proxy:">
 <!ENTITY  http.accesskey                "H">
@@ -24,14 +24,14 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  HTTPport.label                "Poort:">
+<!ENTITY  HTTPport.label                "Poarte:">
 <!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.label                 "Poort:">
+<!ENTITY  SSLport.label                 "Poarte:">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  SOCKSport.label               "Poort:">
+<!ENTITY  SOCKSport.label               "Poarte:">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Geen proxy voor:">
+<!ENTITY  noproxy.label                 "Gjin proxy foar:">
 <!ENTITY  noproxy.accesskey             "n">
-<!ENTITY  noproxyExplain.label          "Voorbeeld: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Deze proxyserver voor alle protocollen gebruiken">
+<!ENTITY  noproxyExplain.label          "Foarbyld: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Dizze proxytsjinner foar alle protokollen brûke">
 <!ENTITY  shareproxy.accesskey          "x">

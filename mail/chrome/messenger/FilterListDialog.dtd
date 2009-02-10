@@ -1,29 +1,29 @@
-<!ENTITY window.title "Berichtenfilters">
-<!ENTITY nameColumn.label "Filternaam">
-<!ENTITY activeColumn.label "Actief">
-<!ENTITY newButton.label "Nieuw...">
+<!ENTITY window.title "Berjochtefilters">
+<!ENTITY nameColumn.label "Filternamme">
+<!ENTITY activeColumn.label "Aktyf">
+<!ENTITY newButton.label "Nij...">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Bewerken...">
+<!ENTITY editButton.label "Bewurkje...">
 <!ENTITY editButton.accesskey "B">
-<!ENTITY deleteButton.label "Verwijderen">
-<!ENTITY deleteButton.accesskey "V">
-<!ENTITY reorderUpButton.label "Omhoog verplaatsen">
+<!ENTITY deleteButton.label "Fuortsmite">
+<!ENTITY deleteButton.accesskey "F">
+<!ENTITY reorderUpButton.label "Omheech ferpleatse">
 <!ENTITY reorderUpButton.accesskey "h">
-<!ENTITY reorderDownButton.label "Omlaag verplaatsen">
+<!ENTITY reorderDownButton.label "Omleech ferpleatse">
 <!ENTITY reorderDownButton.accesskey "l">
-<!ENTITY filterHeader.label "Geactiveerde filters werken in de onderstaande volgorde.">
-<!ENTITY filtersForPrefix.label "Filters voor:">
+<!ENTITY filterHeader.label "Aktivearre filters wurkje yn dizze folchoarder.">
+<!ENTITY filtersForPrefix.label "Filters foar:">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Filterlogboek">
+<!ENTITY viewLogButton.label "Filterlochboek">
 <!ENTITY viewLogButton.accesskey "i">
-<!ENTITY runFilters.label "Nu toepassen">
-<!ENTITY runFilters.accesskey "T">
-<!ENTITY stopFilters.label "Stoppen">
-<!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Geselecteerde filter(s) toepassen op:">
-<!ENTITY folderPickerPrefix.accesskey "P">
-<!ENTITY choosethis.label "Deze map kiezen">
-<!ENTITY choosethisnewsserver.label "Deze nieuwsserver kiezen">
+<!ENTITY runFilters.label "No tapasse">
+<!ENTITY runFilters.accesskey "t">
+<!ENTITY stopFilters.label "Ophâlde">
+<!ENTITY stopFilters.accesskey "O">
+<!ENTITY folderPickerPrefix.label "Selektearre filter(s) tapasse op:">
+<!ENTITY folderPickerPrefix.accesskey "S">
+<!ENTITY choosethis.label "Dizze map kieze">
+<!ENTITY choosethisnewsserver.label "Dizze nijstsjinner kieze">
 <!ENTITY helpButton.label "Help">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">

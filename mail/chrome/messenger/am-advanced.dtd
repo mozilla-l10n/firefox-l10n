@@ -1,23 +1,23 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Uitgaande server (SMTP-)instellingen">
+<!ENTITY smtpServer.label "Utgeande tsjinner (SMTP-)ynstellings">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Hoewel u meer dan één uitgaande server (SMTP) kunt opgeven, wordt dit alleen aangeraden voor ervaren gebruikers. Instellen van meerdere SMTP-servers kan fouten veroorzaken bij het verzenden van berichten.">
+<!ENTITY smtpDesc.label "Hoewol jo mear as ien útgeande tsjinner (SMTP) opjaan kinne, wurdt dit allinnich oanret foar betûfte brûkers. It ynstellen fan mear SMTP-tsjinners kin flaters feroarsaakje by it ferstjoeren fan berjochten.">
 
-<!ENTITY smtpListAdd.label "Toevoegen...">
+<!ENTITY smtpListAdd.label "Tafoegje...">
 <!ENTITY smtpListAdd.accesskey "T">
-<!ENTITY smtpListEdit.label "Bewerken...">
+<!ENTITY smtpListEdit.label "Bewurkje...">
 <!ENTITY smtpListEdit.accesskey "B">
-<!ENTITY smtpListDelete.label "Verwijderen">
-<!ENTITY smtpListDelete.accesskey "V">
-<!ENTITY smtpListSetDefault.label "Standaard">
+<!ENTITY smtpListDelete.label "Fuortsmite">
+<!ENTITY smtpListDelete.accesskey "F">
+<!ENTITY smtpListSetDefault.label "Standert">
 <!ENTITY smtpListSetDefault.accesskey "S">
 
-<!ENTITY serverDescription.label "Omschrijving: ">
-<!ENTITY serverName.label "Servernaam: ">
-<!ENTITY serverPort.label "Poort: ">
-<!ENTITY userName.label "Gebruikersnaam: ">
-<!ENTITY useSecureConnection.label "Beveiligde verbinding: ">
-<!ENTITY useSecureAuthentication.label   "Beveilgde verificatie: ">
+<!ENTITY serverDescription.label "Omskriuwing: ">
+<!ENTITY serverName.label "Tsjinnernamme: ">
+<!ENTITY serverPort.label "Poarte: ">
+<!ENTITY userName.label "Brûkersnamme: ">
+<!ENTITY connectionSecurity.label "Ferbiningsfeilichheid: ">
+<!ENTITY useSecureAuthentication.label   "Befeilge ferifikaasje: ">

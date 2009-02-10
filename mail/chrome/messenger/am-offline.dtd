@@ -1,30 +1,34 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Om schijfruimte te besparen, niet downloaden:">
-<!ENTITY doNotDownload.label "Om schijfruimte te besparen, de volgende berichten niet downloaden voor offlinegebruik:">
-<!ENTITY allFoldersOffline.label "Berichten voor deze account op deze computer bewaren">
+<!ENTITY doNotDownloadPop3Movemail.label "Om skiifromte te besparjen, net ynlade:">
+<!ENTITY doNotDownload.label "Om skiifromte te besparjen, de folgjende berjochten net ynlade foar offlinegebrûk:">
+<!ENTITY allFoldersOffline.label "Berjochten foar dizze account op dizze kompjûter bewarje">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "Berichten groter dan">
+<!ENTITY offlineNotDownload.label "Berjochten grutter as">
 <!ENTITY offlineNotDownload.accesskey "r">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
-<!ENTITY nntpNotDownloadRead.label "Gelezen berichten">
-<!ENTITY nntpNotDownloadRead.accesskey "G">
-<!ENTITY nntpDownloadMsg.label "Berichten ouder dan">
-<!ENTITY nntpDownloadMsg.accesskey "o">
-<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd">
-<!ENTITY retentionKeepMsg.label "Berichten verwijderen die ouder zijn dan">
+<!ENTITY nntpNotDownloadRead.label "Lêzen berjochten">
+<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpDownloadMsg.label "Berjochten âlder as">
+<!ENTITY nntpDownloadMsg.accesskey "a">
+<!ENTITY retentionCleanup.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde">
+<!ENTITY retentionCleanupImap.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, sawol lokale kopyen as de orizjinele op de tsjinner.">
+<!ENTITY retentionCleanupPop.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, ynklusyf orizjinelen op de tsjinner.">
+<!ENTITY retentionKeepMsg.label "Berjochten fuortsmite dy't âlder binne as">
 <!ENTITY retentionKeepMsg.accesskey "u">
-<!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
+<!ENTITY retentionKeepAll.label "Gjin berjochten fuortsmite">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "Alle berichten verwijderen, behalve de laatste">
+<!ENTITY retentionKeepNew.label "Alle berjochten fuortsmite, útsein de lêste">
 <!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Gelezen berichten altijd verwijderen">
+<!ENTITY retentionKeepUnread.label "Lêzen berjochten altyd fuortsmite">
 <!ENTITY retentionKeepUnread.accesskey "z">
-<!ENTITY nntpRemoveBody.label "Alleen berichtkernen verwijderen die ouder zijn dan">
+<!ENTITY retentionApplyToFlagged.label "Berjochten mei stjerke altyd bewarje">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY nntpRemoveBody.label "Allinnich berjochtkearnen fuortsmite dy't âlder binne as">
 <!ENTITY nntpRemoveBody.accesskey "k">
-<!ENTITY offlineSelectNntp.label "Nieuwsgroepen voor offlinegebruik selecteren…">
+<!ENTITY offlineSelectNntp.label "Nijsgroepen foar offline-gebrûk selektearje…">
 <!ENTITY offlineSelectNntp.accesskey "s">
-<!ENTITY offlineImapAdvancedOffline.label "Uitgebreid…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "U">
-<!ENTITY syncGroupTitle.label "Berichten synchroniseren">
-<!ENTITY diskspaceGroupTitle.label "Schijfruimte">
+<!ENTITY offlineImapAdvancedOffline.label "Wiidweidich…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "W">
+<!ENTITY syncGroupTitle.label "Berjochten syngronisearje">
+<!ENTITY diskspaceGroupTitle.label "Skiifromte">

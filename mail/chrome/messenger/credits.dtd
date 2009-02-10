@@ -1,6 +1,6 @@
 <!ENTITY credit.title     "&brandFullName; credits">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
-<!ENTITY credit.leads     "Haadûntwiklers">
+<!ENTITY credit.leads     "Haadûntwikkelers">
 <!ENTITY credit.thanks    "Spesjale tank oan">
 
 <!-- localization credits look like this: -->
@@ -16,7 +16,7 @@
           </ul>">
 
 <!ENTITY credit.theme       "Tema-ûntwerp">
-<!ENTITY credit.qa          "Kwaliteitskontrole">
+<!ENTITY credit.qa          "Kwaliteitskontrôle">
 <!ENTITY credit.build       "Build en útjefte">
-<!ENTITY credit.memory      "Yn dierbere werinnering oan">
-<!ENTITY credit.poweredByGecko "Oandreun troch Gecko&trade;">
+<!ENTITY credit.memory      "Yn dierber oantinken oan">
+<!ENTITY credit.poweredByGecko "Oandreaun troch Gecko&trade;">

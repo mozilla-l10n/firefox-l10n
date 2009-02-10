@@ -1,45 +1,43 @@
-<!ENTITY itemJunk.label          "Ongewenste berichten">
+<!ENTITY itemJunk.label          "Net-winske berjochten">
 <!ENTITY itemPhishing.label      "E-mailscams">
-<!ENTITY itemPasswords.label     "Wachtwoorden">
-<!ENTITY itemAntiVirus.label     "Antivirus">
+<!ENTITY itemPasswords.label     "Wachtwurden">
+<!ENTITY itemAntiVirus.label     "Antifirus">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Stel uw standaardinstellingen voor ongewenste-berichtendetectie in. Accountspecifieke instellingen kunnen worden geconfigureerd in Accountinstellingen.">
-<!ENTITY manualMark.label "Wanneer ik berichten markeer als ongewenst:">
+<!ENTITY junkMail.intro "Stel jo standertynstellings foar net-winske-berjochtedeteksje yn. Accountspesifike ynstellings kinne konfigureard wurde yn Accountynstellings.">
+<!ENTITY manualMark.label "Wannear ik berjochten markear as net-winske:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "ze verplaatsen naar de map &quot;Ongewenst&quot; van de account">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "ze verwijderen">
+<!ENTITY manualMarkModeMove.label "se ferpleatse nei de map &quot;Net-winske&quot; fan de account">
+<!ENTITY manualMarkModeMove.accesskey "u">
+<!ENTITY manualMarkModeDelete.label "se fuortsmite">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Berichten die zijn gedetecteerd als ongewenst, markeren als gelezen">
+<!ENTITY markAsReadOnSpam.label "Berjochten dy't detektearre binne as net-winske, markearje as lêzen">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Ongewenste-berichtenlogboek activeren">
+<!ENTITY enableJunkLogging.label "Net-winske-berjochtelochboek aktifearje">
 <!ENTITY enableJunkLogging.accesskey "a">
-<!ENTITY openJunkLog.label "Logboek tonen">
+<!ENTITY openJunkLog.label "Lochboek toane">
 <!ENTITY openJunkLog.accesskey "L">
-<!ENTITY resetTrainingData.label "Trainingsgegevens herinitialiseren">
+<!ENTITY resetTrainingData.label "Trainingsgegevens op 'e nij inisjalisearje">
 <!ENTITY resetTrainingData.accesskey "r">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro "&brandShortName; kan berichten analyseren op verdachte e-mailscams door te kijken naar veelvoorkomende technieken die worden gebruikt om u te misleiden.">
-<!ENTITY enablePhishingDetector1.label    "Mij vertellen of het gelezen bericht een verdachte e-mailscam is">
+<!ENTITY phishingDetector1.intro "&brandShortName; kin berjochten analysearje op fertochte e-mailscams troch te sjen nei faakfoarkommende techniken dy't brûkt wurde om jo te mislieden.">
+<!ENTITY enablePhishingDetector1.label    "My fertelle of it lêzen berjocht in fertochte e-mailscam is">
 <!ENTITY enablePhishingDetector1.accesskey  "e">
-<!ENTITY useDownloadedList.label "Een gedownloade lijst van verdachte e-mailscams gebruiken">
+<!ENTITY useDownloadedList.label "In ynladen list fan fertochte e-mailscams brûke">
 <!ENTITY useDownloadedList.accesskey "d">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro        "&brandShortName; kan wachtwoordinformatie voor al uw accounts onthouden, zodat u niet telkens uw inloggegevens hoeft in te voeren.">
-<!ENTITY encryptEnabled.label        "Een hoofdwachtwoord gebruiken om opgeslagen wachtwoorden te versleutelen">
-<!ENTITY encryptEnabled.accesskey    "h">
-<!ENTITY masterPassword.intro        "Indien ingesteld beveiligt het hoofdwachtwoord al uw wachtwoorden - maar u moet het eens per sessie invoeren.">
-<!ENTITY setMasterPassword.label     "Hoofdwachtwoord">
-<!ENTITY setMasterPassword.accesskey "o">
-<!ENTITY removeMasterPassword.label  "Hoofdwachtwoord verwijderen...">
-<!ENTITY removeMasterPassword.accesskey "v">
-<!ENTITY editPasswords.label         "Opgeslagen wachtwoorden bewerken">
-<!ENTITY editPasswords.accesskey     "b">
+<!ENTITY savedPasswords.intro        	"&brandShortName; kin wachtwurdynformaasje foar al jo accounts ûnthâlde, sadat jo net hieltyd jo ynlochgegevens hoege yn te fieren.">
+<!ENTITY useMasterPassword.label        "Brûk in haadwachtwurd">
+<!ENTITY useMasterPassword.accesskey    "h">
+<!ENTITY masterPassword.intro        	"As dit ynsteld is befeiligt it haadwachtwurd al jo wachtwurden - mar jo moatte it ien kear per sesje ynfiere.">
+<!ENTITY changeMasterPassword.label     "Wizigje haadwachtwurd…">
+<!ENTITY changeMasterPassword.accesskey "W">
+<!ENTITY savedPasswords.label           "Bewarre wachtwurden…">
+<!ENTITY savedPasswords.accesskey       "B">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; kan het antivirussoftware makkelijk maken om inkomende e-mailberichten op virussen te controleren voordat ze lokaal worden opgeslagen.">
-<!ENTITY antiVirus.label      "Antivirusprogramma’s toestaan om individuele inkomende berichten in quarantaine te plaatsen">
+<!ENTITY antiVirus.intro      "&brandShortName; kin it antifirusprogramma maklik meitsje om ynkommende e-mailberjochten op firussen te kontrolearjen foardat se lokaal bewarre wurde.">
+<!ENTITY antiVirus.label      "Antifirusprogramma’s tastean om yndividuele ynkommende berjochten yn karantêne te pleatsen">
 <!ENTITY antiVirus.accesskey  "u">

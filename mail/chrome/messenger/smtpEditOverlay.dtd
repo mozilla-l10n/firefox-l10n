@@ -1,25 +1,22 @@
-<!ENTITY settings.caption "Instellingen">
-<!ENTITY security.caption "Beveiliging en authenticatie">
-<!ENTITY serverName.label "Servernaam:">
-<!ENTITY serverName.accesskey "S">
-<!ENTITY serverDescription.label "Omschrijving:">
+<!ENTITY settings.caption "Ynstellings">
+<!ENTITY security.caption "Befeiliging en autentikaasje">
+<!ENTITY serverName.label "Tsjinnernamme:">
+<!ENTITY serverName.accesskey "T">
+<!ENTITY serverDescription.label "Omskriuwing:">
 <!ENTITY serverDescription.accesskey "O">
-<!ENTITY serverPort.label "Poort:">
+<!ENTITY serverPort.label "Poarte:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Gebruikersnaam en wachtwoord">
-<!ENTITY alwaysUseUsername.accesskey "G">
-<!ENTITY userName.label "Gebruikersnaam:">
+<!ENTITY alwaysUseUsername.label "Brûkersnamme en wachtwurd">
+<!ENTITY alwaysUseUsername.accesskey "B">
+<!ENTITY userName.label "Brûkersnamme:">
 <!ENTITY userName.accesskey "e">
-<!ENTITY useSecAuth.label "Beveiligde verificatie gebruiken">
+<!ENTITY useSecAuth.label "Befeilige ferifikaasje brûke">
 <!ENTITY useSecAuth.accesskey "i">
-<!ENTITY isSecure.label "Beveiligde verbinding gebruiken:">
-<!ENTITY neverSecure.label "Nee">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, als beschikbaar">
-<!ENTITY sometimesSTARTTLS.accesskey "a">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
-<!ENTITY smtpEditTitle.label "SMTP-server">
-<!ENTITY serverPortDefault.label "Standaard:">
+<!ENTITY connectionSecurity.label "Ferbiningsfeilichheid:">
+<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurityType-0.label "Gjin">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, as beskikber">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY smtpEditTitle.label "SMTP-tsjinner">
+<!ENTITY serverPortDefault.label "Standert:">

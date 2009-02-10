@@ -1,8 +1,8 @@
-<!ENTITY matchAll.label "Die voldoen aan al het volgende">
+<!ENTITY matchAll.label "Dy't foldogge oan al it folgjende">
 <!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label "Die voldoen aan één van het volgende">
+<!ENTITY matchAny.label "Dy't foldogge oan ien fan it folgjende">
 <!ENTITY matchAny.accesskey "d">
-<!ENTITY matchAllMsgs.label     "Voldoen aan alle berichten">
+<!ENTITY matchAllMsgs.label     "Foldogge oan alle berjochten">
 <!ENTITY matchAllMsgs.accesskey "b">
 
 <!-- LOCALIZATION NOTE  

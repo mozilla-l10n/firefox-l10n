@@ -67,7 +67,6 @@
 <!ENTITY NickName.label "Bynamme:">
 <!ENTITY NickName.accesskey "B">
 
-<!ENTITY Internet.box "Ynternet">
 <!ENTITY PrimaryEmail.label "E-mail:">
 <!ENTITY PrimaryEmail.accesskey "m">
 <!ENTITY SecondEmail.label "Alternative e-mail:">
@@ -115,6 +114,13 @@ it brjocht lêzen is. It oanfinken fan dit fak stiet it laden fan dizze eksterne
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label "Webstee:">
 <!ENTITY HomeWebPage.accesskey	"s">
+<!ENTITY Birthday.label                 "Jierdei:">
+<!ENTITY Birthday.accesskey             "d">
+<!ENTITY In.label                       "">
+<!ENTITY Year.emptytext                 "Jier">
+<!ENTITY Or.value                       "of">
+<!ENTITY Age.emptytext                  "Leeftiid">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab						"Wurk">
 <!ENTITY Work.accesskey                 "W">
@@ -141,11 +147,6 @@ it brjocht lêzen is. It oanfinken fan dit fak stiet it laden fan dizze eksterne
 
 <!ENTITY Other.tab "Oars">
 <!ENTITY Other.accesskey                "O">
-<!ENTITY Birthday.label                 "Jierdei:">
-<!ENTITY Birthday.accesskey             "d">
-<!ENTITY Year.emptytext                 "Jier">
-<!ENTITY Or.value                       "of">
-<!ENTITY Age.emptytext                  "Leeftiid">
 <!ENTITY Custom1.label					"Oars 1:">
 <!ENTITY Custom1.accesskey				"1">
 <!ENTITY Custom2.label					"Oars 2:">

@@ -1,73 +1,78 @@
-<!ENTITY itemGeneral.label       "Algemien">
-<!ENTITY itemDisplay.label       "Lêze &amp; Toane">
-<!ENTITY itemUpdate.label        "Fernijing">
-<!ENTITY itemNetworking.label    "Netwurk &amp; skiifromte">
-<!ENTITY itemCertificates.label  "Sertifikaten">
+<!ENTITY itemGeneral.label       			"Algemien">
+<!ENTITY itemDisplay.label       			"Lêze &amp; Toane">
+<!ENTITY itemUpdate.label        			"Fernijing">
+<!ENTITY itemNetworking.label    			"Netwurk &amp; skiifromte">
+<!ENTITY itemCertificates.label  			"Sertifikaten">
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Berjocht yndeksearder ynskeakelje">
-<!ENTITY enableGloda.accesskey         "y">
-<!ENTITY showCondensedAddresses.label  "Fan minsken yn myn adresboek allinnich werjeftenamme toane">
-<!ENTITY showCondensedAddresses.accesskey "m">
+<!ENTITY enableGloda.label             		"Berjocht yndeksearder ynskeakelje">
+<!ENTITY enableGloda.accesskey         		"y">
+<!ENTITY systemDefaults.label              	"Standertwearden systeem">
+<!ENTITY alwaysCheckDefault.label          	"Altyd tiidens it opstarten kontrolearje of &brandShortName; de standert e-mailclient is">
+<!ENTITY alwaysCheckDefault.accesskey      	"k">
+<!ENTITY checkNow.label             		"No kontrolearje">
+<!ENTITY checkNow.accesskey         		"N">
+<!ENTITY configEditDesc.label          		"Wiidweide konfiguraasje">
+<!ENTITY configEdit.label              		"Konfiguraasje-bewurker…">
+<!ENTITY configEdit.accesskey          		"f">
+<!ENTITY returnReceiptsInfo.label      		"Bepale hoe't &brandShortName; omgiet mei lêsbefestigings">
+<!ENTITY showReturnReceipts.label      		"Lêsbefestigings…">
+<!ENTITY showReturnReceipts.accesskey  		"L">
 
-<!ENTITY autoMarkAsRead.label             "Berjochten automatysk as lêzen markearje">
-<!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "Direkt op it skerm">
-<!ENTITY markAsReadNoDelay.accesskey      "O">
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                	"Lêze">
+<!ENTITY display.caption                	"Toane">
+<!ENTITY showCondensedAddresses.label  		"Fan minsken yn myn adresboek allinnich werjeftenamme toane">
+<!ENTITY showCondensedAddresses.accesskey 	"m">
+
+<!ENTITY autoMarkAsRead.label             	"Berjochten automatysk as lêzen markearje">
+<!ENTITY autoMarkAsRead.accesskey         	"A">
+<!ENTITY markAsReadNoDelay.label          	"Direkt op it skerm">
+<!ENTITY markAsReadNoDelay.accesskey      	"O">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Nei it toanen foar">
-<!ENTITY markAsReadDelay.accesskey        "N">
-<!ENTITY secondsLabel.label               "sekonden">
-<!ENTITY openMsgIn.label               "Nije berjochten iepenje yn:">
-<!ENTITY reuseExpRadio0.label          "In nij berjochtfinster">
-<!ENTITY reuseExpRadio0.accesskey      "i">
-<!ENTITY reuseExpRadio1.label          "In besteand berjochtfinster">
-<!ENTITY reuseExpRadio1.accesskey      "a">
-<!ENTITY configEditDesc.label          "Wiidweide konfiguraasje">
-<!ENTITY configEdit.label              "Konfiguraasje-bewurker…">
-<!ENTITY configEdit.accesskey          "f">
-<!ENTITY returnReceiptsInfo.label      "Bepale hoe't &brandShortName; omgiet mei lêsbefestigings">
-<!ENTITY showReturnReceipts.label      "Lêsbefestigings…">
-<!ENTITY showReturnReceipts.accesskey  "L">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lêze">
-<!ENTITY display.caption                "Toane">
+<!ENTITY markAsReadDelay.label            	"Nei it toanen foar">
+<!ENTITY markAsReadDelay.accesskey        	"N">
+<!ENTITY secondsLabel.label               	"sekonden">
+<!ENTITY openMsgIn.label               		"Nije berjochten iepenje yn:">
+<!ENTITY reuseExpRadio0.label          		"In nij berjochtefinster">
+<!ENTITY reuseExpRadio0.accesskey      		"i">
+<!ENTITY reuseExpRadio1.label          		"In besteand berjochtefinster">
+<!ENTITY reuseExpRadio1.accesskey      		"a">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatysk kontrolearje op fernijings foar:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Ynstallearre tafoegings">
-<!ENTITY enableAddonsUpdate.accesskey   "Y">
-<!ENTITY checkNow.label                 "No kontrolearje…">
-<!ENTITY whenUpdatesFound.label         "As der fernijings foar &brandShortName; fûn wurde:">
-<!ENTITY modeAskMe.label                "My freegje wat ik dwaan wol">
-<!ENTITY modeAskMe.accesskey            "r">
-<!ENTITY modeAutomatic.label            "Automatysk de fernijing ynlade en ynstallearje">
-<!ENTITY modeAutomatic.accesskey        "f">
-<!ENTITY modeAutoAddonWarn.label        "My warskôgje as dit ien fan myn tafoegngs útskeakelje sil">
-<!ENTITY modeAutoAddonWarn.accesskey    "s">
-<!ENTITY showUpdates.label              "Fernijingsskiednis toane">
-<!ENTITY showUpdates.accesskey          "d">
+<!ENTITY autoCheck.label                	"Automatysk kontrolearje op fernijings foar:">
+<!ENTITY enableAppUpdate.label          	"&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      	"T">
+<!ENTITY enableAddonsUpdate.label       	"Ynstallearre tafoegings">
+<!ENTITY enableAddonsUpdate.accesskey   	"Y">
+<!ENTITY checkNow.label                 	"No kontrolearje…">
+<!ENTITY whenUpdatesFound.label         	"As der fernijings foar &brandShortName; fûn wurde:">
+<!ENTITY modeAskMe.label                	"My freegje wat ik dwaan wol">
+<!ENTITY modeAskMe.accesskey            	"r">
+<!ENTITY modeAutomatic.label            	"Automatysk de fernijing ynlade en ynstallearje">
+<!ENTITY modeAutomatic.accesskey        	"f">
+<!ENTITY modeAutoAddonWarn.label        	"My warskôgje as dit ien fan myn tafoegngs útskeakelje sil">
+<!ENTITY modeAutoAddonWarn.accesskey    	"s">
+<!ENTITY showUpdates.label              	"Toan fernijingsskiednis">
+<!ENTITY showUpdates.accesskey          	"d">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label         	"Ynstellings...">
-<!ENTITY showSettings.accesskey    		"n">
-<!ENTITY proxiesConfigure.label			"Konfigurearje hoe't &brandShortName; ferbining makket mei it ynternet">
-<!ENTITY connectionsInfo.caption		"Ferbining">
-<!ENTITY offlineInfo.caption			"Sûnder ferbining">
-<!ENTITY offlineInfo.label				"Sûnder ferbining-ynstellings konfigurearje">
-<!ENTITY showOffline.label				"Sûnder ferbining...">
-<!ENTITY showOffline.accesskey			"S">
+<!ENTITY showSettings.label         		"Ynstellings...">
+<!ENTITY showSettings.accesskey    			"n">
+<!ENTITY proxiesConfigure.label				"Konfigurearje hoe't &brandShortName; ferbining makket mei it ynternet">
+<!ENTITY connectionsInfo.caption			"Ferbining">
+<!ENTITY offlineInfo.caption				"Sûnder ferbining">
+<!ENTITY offlineInfo.label					"Sûnder ferbining-ynstellings konfigurearje">
+<!ENTITY showOffline.label					"Sûnder ferbining...">
+<!ENTITY showOffline.accesskey				"S">
 
-<!ENTITY Diskspace "Skiifromte">
-<!ENTITY offlineCompact.label "Mappen ynpakke as it mear besparret as">
-<!ENTITY offlineCompact.accesskey "p">
-<!ENTITY kb.label "KB">
+<!ENTITY Diskspace 							"Skiifromte">
+<!ENTITY offlineCompact.label 				"Mappen ynpakke as it mear besparret as">
+<!ENTITY offlineCompact.accesskey 			"p">
+<!ENTITY kb.label 							"KB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -75,18 +80,18 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Brûk oant">
-<!ENTITY useCacheBefore.accesskey        "o">
-<!ENTITY useCacheAfter.label             "MB skiifromte foar de buffer">
-<!ENTITY clearCacheNow.label             "No wiskje">
-<!ENTITY clearCacheNow.accesskey         "N">
+<!ENTITY useCacheBefore.label            	"Brûk oant">
+<!ENTITY useCacheBefore.accesskey        	"o">
+<!ENTITY useCacheAfter.label             	"MB skiifromte foar de buffer">
+<!ENTITY clearCacheNow.label             	"No wiskje">
+<!ENTITY clearCacheNow.accesskey         	"N">
 
 <!-- Certificates -->
-<!ENTITY viewCertificates.label         "Sertifikaten besjen">
-<!ENTITY viewCertificates.accesskey     "S">
-<!ENTITY viewCRLs.label                 "Ynlûklisten">
-<!ENTITY viewCRLs.accesskey             "Y">
-<!ENTITY validation.label               "Falidaasje">
-<!ENTITY validation.accesskey           "F">
-<!ENTITY viewSecurityDevices.label      "Befeiligingsapparaten">
-<!ENTITY viewSecurityDevices.accesskey  "B">
+<!ENTITY viewCertificates.label         	"Toan sertifikaten">
+<!ENTITY viewCertificates.accesskey     	"S">
+<!ENTITY viewCRLs.label                 	"Ynlûklisten">
+<!ENTITY viewCRLs.accesskey             	"Y">
+<!ENTITY validation.label               	"Falidaasje">
+<!ENTITY validation.accesskey           	"F">
+<!ENTITY viewSecurityDevices.label      	"Befeiligingsapparaten">
+<!ENTITY viewSecurityDevices.accesskey  	"B">
