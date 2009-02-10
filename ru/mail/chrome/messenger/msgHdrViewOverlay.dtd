@@ -19,9 +19,10 @@
 <!ENTITY editMessageDescription.label "Это черновик">
 <!ENTITY editMessageButton.label "Изменить…">
 <!ENTITY archiveButton.label "архивировать">
-<!ENTITY replyButton.label "ответить">
-<!ENTITY forwardButton.label "переслать">
-<!ENTITY junkButton.label "отметить как спам">
+<!ENTITY hdrReplyButton.label "ответить">
+<!ENTITY hdrReplyAllButton.label "ответить всем">
+<!ENTITY hdrForwardButton.label "переслать">
+<!ENTITY hdrJunkButton.label "спам">
 <!ENTITY trashButton.tooltiptext "удалить">
 <!ENTITY otherActionsButton.label "другие действия">
 <!ENTITY saveAsMenuItem.label "сохранить как…">
