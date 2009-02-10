@@ -34,47 +34,47 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Selectielijsteigenschappen">
+<!ENTITY windowTitle.label "Seleksjelisteigenskippen">
 
-<!ENTITY Select.label "Selectielijst">
-<!ENTITY SelectName.label "Lijstnaam:">
+<!ENTITY Select.label "Seleksjelist">
+<!ENTITY SelectName.label "Listnamme:">
 <!ENTITY SelectName.accesskey "n">
-<!ENTITY SelectSize.label "Hoogte:">
+<!ENTITY SelectSize.label "Hichte:">
 <!ENTITY SelectSize.accesskey "H">
-<!ENTITY SelectMultiple.label "Meervoudige selectie">
+<!ENTITY SelectMultiple.label "Mearfâldige seleksje">
 <!ENTITY SelectMultiple.accesskey "M">
-<!ENTITY SelectDisabled.label "Uitgeschakeld">
+<!ENTITY SelectDisabled.label "Utskeakele">
 <!ENTITY SelectDisabled.accesskey "U">
-<!ENTITY SelectTabIndex.label "Tabindex:">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.label "Ljepblêdyndeks:">
+<!ENTITY SelectTabIndex.accesskey "Y">
 
-<!ENTITY OptGroup.label "Optiegroep">
+<!ENTITY OptGroup.label "Opsjegroep">
 <!ENTITY OptGroupLabel.label "Label:">
 <!ENTITY OptGroupLabel.accesskey "L">
-<!ENTITY OptGroupDisabled.label "Uitgeschakeld">
+<!ENTITY OptGroupDisabled.label "Utskeakele">
 <!ENTITY OptGroupDisabled.accesskey "U">
 
-<!ENTITY Option.label "Optie">
+<!ENTITY Option.label "Opsje">
 <!ENTITY OptionText.label "Tekst:">
 <!ENTITY OptionText.accesskey "T">
-<!ENTITY OptionValue.label "Waarde:">
+<!ENTITY OptionValue.label "Wearde:">
 <!ENTITY OptionValue.accesskey "W">
-<!ENTITY OptionSelected.label "Initieel geselecteerd">
+<!ENTITY OptionSelected.label "Inisjeel selektearre">
 <!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "Uitgeschakeld">
+<!ENTITY OptionDisabled.label "Utskeakele">
 <!ENTITY OptionDisabled.accesskey "U">
 
 <!ENTITY TextHeader.label "Tekst">
-<!ENTITY ValueHeader.label "Waarde">
-<!ENTITY SelectedHeader.label "Geselecteerd">
+<!ENTITY ValueHeader.label "Wearde">
+<!ENTITY SelectedHeader.label "Selektearre">
 
-<!ENTITY AddOption.label "Optie toevoegen">
+<!ENTITY AddOption.label "Opsje tafoegje">
 <!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "Groep toevoegen">
+<!ENTITY AddOptGroup.label "Groep tafoegje">
 <!ENTITY AddOptGroup.accesskey "G">
-<!ENTITY RemoveElement.label "Verwijderen">
-<!ENTITY RemoveElement.accesskey "V">
-<!ENTITY MoveElementUp.label "Omhoog verplaatsen">
+<!ENTITY RemoveElement.label "Fuortsmite">
+<!ENTITY RemoveElement.accesskey "F">
+<!ENTITY MoveElementUp.label "Omheech ferpleatse">
 <!ENTITY MoveElementUp.accesskey "h">
-<!ENTITY MoveElementDown.label "Omlaag verplaatsen">
+<!ENTITY MoveElementDown.label "Omleech ferpleatse">
 <!ENTITY MoveElementDown.accesskey "l">

@@ -36,36 +36,36 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Spelling controleren">
+<!ENTITY windowTitle.label "Stavering kontrolearje">
 
-<!ENTITY misspelledWord.label "Niet in woordenlijst:">
-<!ENTITY wordEditField.label "Vervangen door:">
-<!ENTITY wordEditField.accessKey "d">
-<!ENTITY checkwordButton.label "Woord controleren">
-<!ENTITY checkwordButton.accessKey "c">
-<!ENTITY suggestions.label "Suggesties:">
+<!ENTITY misspelledWord.label "Net yn wurdlist:">
+<!ENTITY wordEditField.label "Ferfange troch:">
+<!ENTITY wordEditField.accessKey "t">
+<!ENTITY checkwordButton.label "Wurd kontrolearje">
+<!ENTITY checkwordButton.accessKey "k">
+<!ENTITY suggestions.label "Suggestjes:">
 <!ENTITY suggestions.accessKey "u">
-<!ENTITY ignoreButton.label "Negeren">
+<!ENTITY ignoreButton.label "Negearje">
 <!ENTITY ignoreButton.accessKey "N">
-<!ENTITY ignoreAllButton.label "Alles negeren">
+<!ENTITY ignoreAllButton.label "Alles negearje">
 <!ENTITY ignoreAllButton.accessKey "e">
-<!ENTITY replaceButton.label "Vervangen">
-<!ENTITY replaceButton.accessKey "V">
-<!ENTITY replaceAllButton.label "Alles vervangen">
+<!ENTITY replaceButton.label "Ferfange">
+<!ENTITY replaceButton.accessKey "F">
+<!ENTITY replaceAllButton.label "Alles ferfange">
 <!ENTITY replaceAllButton.accessKey "A">
-<!ENTITY stopButton.label "Stoppen">
-<!ENTITY stopButton.accessKey "p">
-<!ENTITY userDictionary.label "Persoonlijk woordenboek:">
-<!ENTITY moreDictionaries.label "Meer woordenboeken downloaden...">
-<!ENTITY addToUserDictionaryButton.label "Woord toevoegen">
+<!ENTITY stopButton.label "Ophâlde">
+<!ENTITY stopButton.accessKey "l">
+<!ENTITY userDictionary.label "Persoanlik wurdboek:">
+<!ENTITY moreDictionaries.label "Mear wurdboeken ynlade...">
+<!ENTITY addToUserDictionaryButton.label "Wurd tafoegje">
 <!ENTITY addToUserDictionaryButton.accessKey "o">
-<!ENTITY editUserDictionaryButton.label "Bewerken...">
+<!ENTITY editUserDictionaryButton.label "Bewurkje...">
 <!ENTITY editUserDictionaryButton.accessKey "B">
-<!ENTITY recheckButton.label "Pagina opnieuw controleren">
+<!ENTITY recheckButton.label "Side op 'e nij kontrolearje">
 <!ENTITY recheckButton.accessKey "r">
-<!ENTITY closeButton.label "Sluiten">
+<!ENTITY closeButton.label "Slute">
 <!ENTITY closeButton.accessKey "S">
-<!ENTITY sendButton.label "Verzenden">
-<!ENTITY sendButton.accessKey "z">
+<!ENTITY sendButton.label "Ferstjoere">
+<!ENTITY sendButton.accessKey "j">
 <!ENTITY languagePopup.label "Taal:">
 <!ENTITY languagePopup.accessKey "T">
