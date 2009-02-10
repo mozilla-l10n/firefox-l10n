@@ -7,6 +7,6 @@
 <!ENTITY text.label               "Tên">
 <!ENTITY useSmallIcons.label      "Dùng Biểu Tượng Nhỏ">
 <!ENTITY restoreDefaultSet.label  "Khôi phục Mặc định">
-<!ENTITY addNewToolbar.label      "Thêm Thanh Công Cụ Mới">
+<!ENTITY addNewToolbar.label      "Thanh Công Cụ Mới">
 <!ENTITY saveChanges.label        "Xong">
 <!ENTITY undoChanges.label        "Hoàn tác các Thay đổi">
