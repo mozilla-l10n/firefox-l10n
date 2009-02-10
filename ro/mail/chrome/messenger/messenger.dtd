@@ -409,12 +409,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "t">
 <!ENTITY addons.label "Suplimente">
 <!ENTITY addons.accesskey "S">
+<!ENTITY activitymanager.label "Gestionar de activitate">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Poștă și grupuri de discuții">
 <!ENTITY messengerCmd.accesskey "P">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Agendă de contacte">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "Controlează dosarul de mesaje spam">
 <!ENTITY runJunkControls.accesskey "C">
 <!ENTITY deleteJunk.label "Șterge mesajele spam din dosar">
