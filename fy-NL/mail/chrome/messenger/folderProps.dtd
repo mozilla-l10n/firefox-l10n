@@ -38,58 +38,62 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label           "Eigenschappen">
+<!ENTITY folderProps.windowtitle.label           "Eigenskippen">
 
-<!ENTITY generalInfo.label                       "Algemene informatie">
-<!ENTITY folderCharsetTab.label                  "Standaard tekenset:">
+<!ENTITY generalInfo.label                       "Algemiene ynformaasje">
+<!ENTITY folderCharsetTab.label                  "Standert tekenset:">
 <!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Standaard toepassen op alle berichten in de map (de in berichten opgegeven tekenset en autodetectie worden genegeerd)">
+<!ENTITY folderCharsetOverride.label             "Standert tapasse op alle berjochten yn de map (de yn berjochten opjûne tekenset en autodeteksje wurde negearre)">
 <!ENTITY folderCharsetOverride.accesskey         "t">
-<!ENTITY folderRebuildSummaryFile.label          "Index vernieuwen">
-<!ENTITY folderRebuildSummaryFile.accesskey      "v">
-<!ENTITY folderRebuildSummaryFileTip.label       "Samenvattingsbestand vernieuwen">      
+<!ENTITY folderRebuildSummaryFile.label          "Yndeks fernije">
+<!ENTITY folderRebuildSummaryFile.accesskey      "f">
+<!ENTITY folderRebuildSummaryFileTip.label       "Gearfettingsbestân fernije">      
 
-<!ENTITY retention.label "Behoudbeleid">
-<!ENTITY retentionUseDefault.label  "Serverstandaard gebruiken">
+<!ENTITY retention.label "Behâldbelied">
+<!ENTITY retentionUseDefault.label  "Tsjinnerstandert brûke">
 <!ENTITY retentionUseDefault.accesskey "r">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
-<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd">
-<!ENTITY retentionDeleteMsg.label "Berichten verwijderen die ouder zijn dan">
+<!ENTITY retentionCleanup.label "Om skiifromte frij te meitsjen, kinne âlde berjochten foargoed fuortsmiten wurde">
+<!ENTITY retentionCleanupImap.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, sawol lokale kopyen as de orizjinele op de tsjinner.">
+<!ENTITY retentionCleanupPop.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, ynklusyf orizjinelen op de tsjinner.">
+<!ENTITY retentionDeleteMsg.label "Berjochten fuortsmite dy't âlder binne as">
 <!ENTITY retentionDeleteMsg.accesskey "o">
-<!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
+<!ENTITY retentionKeepAll.label "Gjin berjochten fuortsmite">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "Alle berichten verwijderen, behalve de laatste">
+<!ENTITY retentionKeepNew.label "Alle berjochten fuortsmite, útsein de lêste">
 <!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Gelezen berichten altijd verwijderen">
+<!ENTITY retentionKeepUnread.label "Lêzen berjochten altyd fuortsmite">
 <!ENTITY retentionKeepUnread.accesskey "z">
+<!ENTITY retentionApplyToFlagged.label "Berjochten mei stjer altyd bewarje">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderOfflineTab.label                  "Offline">
-<!ENTITY folderCheckForNewMessages.label         "Deze map op nieuwe berichten controleren">
-<!ENTITY folderCheckForNewMessages.accesskey     "c">
+<!ENTITY folderCheckForNewMessages.label         "Dizze map op nije berjochten kontrolearje">
+<!ENTITY folderCheckForNewMessages.accesskey     "k">
 
-<!ENTITY offlineFolder.check.label               "Deze map voor offlinegebruik selecteren">
+<!ENTITY offlineFolder.check.label               "Dizze map foar gebrûk sûnder ferbining selektearje">
 <!ENTITY offlineFolder.check.accesskey           "s">
-<!ENTITY offlineFolder.button.label              "Nu downloaden">
+<!ENTITY offlineFolder.button.label              "No ynlade">
 <!ENTITY offlineFolder.button.accesskey          "d">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Deze nieuwsgroep voor offlinegebruik selecteren">
+<!ENTITY selectofflineNewsgroup.check.label      "Dizze nijsgroep foar gebrûk sûnder ferbining selektearje">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "f">
-<!ENTITY offlineNewsgroup.button.label           "Nu downloaden">
+<!ENTITY offlineNewsgroup.button.label           "No ynlade">
 <!ENTITY offlineNewsgroup.button.accesskey       "d">
 
-<!ENTITY folderProps.name.label                  "Naam:">
+<!ENTITY folderProps.name.label                  "Namme:">
 <!ENTITY folderProps.name.accesskey              "m">
-<!ENTITY folderProps.location.label              "Locatie:">
+<!ENTITY folderProps.location.label              "Lokaasje:">
 <!ENTITY folderProps.location.accesskey          "L">
 
-<!ENTITY folderSharingTab.label                  "Delen">
-<!ENTITY privileges.button.label                 "Privileges…">
+<!ENTITY folderSharingTab.label                  "Diele">
+<!ENTITY privileges.button.label                 "Privileezjes…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "U hebt de volgende toestemmingen:">
+<!ENTITY permissionsDesc.label                   "Jo hawwe de folgjende foegen:">
 <!ENTITY folderType.label                        "Maptype:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota root:">
-<!ENTITY folderQuotaUsage.label                  "Gebruik:">
-<!ENTITY folderQuotaStatus.label                 "Status:">
+<!ENTITY folderQuotaTab.label                    "Kwota">
+<!ENTITY folderQuotaRoot.label                   "Kwota root:">
+<!ENTITY folderQuotaUsage.label                  "Gebrûk">
+<!ENTITY folderQuotaStatus.label                 "Steat:">

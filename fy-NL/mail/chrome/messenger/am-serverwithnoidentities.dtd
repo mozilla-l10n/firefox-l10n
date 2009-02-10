@@ -1,11 +1,11 @@
-<!ENTITY accountSettingsDesc.label "Dit is een speciale account. Er zijn geen identiteiten mee verbonden.">
-<!ENTITY accountTitle.label "Accountinstellingen">
-<!ENTITY accountName.label "Accountnaam:">
+<!ENTITY accountSettingsDesc.label "Dit is in spesjaal account. Der binne gjin identiteiten mei ferbûn.">
+<!ENTITY accountTitle.label "Accountynstellings">
+<!ENTITY accountName.label "Accountnamme:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY messageStorage.label "Berichtenopslag">
-<!ENTITY emptyTrashOnExit.label "Prullenbak leegmaken bij afsluiten">
-<!ENTITY emptyTrashOnExit.accesskey "P">
+<!ENTITY messageStorage.label "Berjochteopslach">
+<!ENTITY emptyTrashOnExit.label "Jiskefet leechmeitsje by ôfslute">
+<!ENTITY emptyTrashOnExit.accesskey "J">
 <!ENTITY localPath.label "Lokale map">
-<!ENTITY localFolderPicker.label "Selecteer lokale map">
-<!ENTITY browseFolder.label "Bladeren…">
+<!ENTITY localFolderPicker.label "Selektearje lokale map">
+<!ENTITY browseFolder.label "Blêdzje…">
 <!ENTITY browseFolder.accesskey "B">

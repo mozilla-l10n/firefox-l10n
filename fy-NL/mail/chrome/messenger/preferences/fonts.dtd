@@ -3,70 +3,70 @@
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "Lettertypen voor:">
+<!ENTITY  language.label                          "Lettertypen foar:">
 <!ENTITY  language.accesskey                      "L">
 
-<!ENTITY  sizes.label                             "Grootte (pixels)">
+<!ENTITY  sizes.label                             "Grutte (piksels)">
 <!ENTITY  proportionalSize.accesskey              "G">
 <!ENTITY  monospaceSize.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proportioneel:">
+<!ENTITY  proportional.label                      "Proporsjoneel:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Met schreef:">
+<!ENTITY  serif.label                             "Mei skreef:">
 <!ENTITY  serif.accesskey                         "s">
-<!ENTITY  sans-serif.label                        "Schreefloos:">
-<!ENTITY  sans-serif.accesskey                    "c">
+<!ENTITY  sans-serif.label                        "Skreefleas:">
+<!ENTITY  sans-serif.accesskey                    "k">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
 
 <!ENTITY  font.langGroup.latin1                   "Westers">
-<!ENTITY  font.langGroup.latin2                   "Centraal-Europees">
-<!ENTITY  font.langGroup.japanese                 "Japans">
-<!ENTITY  font.langGroup.trad-chinese             "Traditioneel Chinees (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Vereenvoudigd Chinees">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Traditioneel Chinees (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Koreaans">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrillisch">
-<!ENTITY  font.langGroup.baltic                   "Baltisch">
-<!ENTITY  font.langGroup.el                       "Grieks">
+<!ENTITY  font.langGroup.latin2                   "Sintraal-Europeesk">
+<!ENTITY  font.langGroup.japanese                 "Japansk">
+<!ENTITY  font.langGroup.trad-chinese             "Tradisjoneel Sineesk (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Ferienfâldigd Sineesk">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Tradisjoneel Sineesk (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Koreaansk">
+<!ENTITY  font.langGroup.cyrillic                 "Syrillysk">
+<!ENTITY  font.langGroup.baltic                   "Baltysk">
+<!ENTITY  font.langGroup.el                       "Gryksk">
 <!ENTITY  font.langGroup.turkish                  "Turks">
-<!ENTITY  font.langGroup.unicode                  "Andere talen">
-<!ENTITY  font.langGroup.user-def                 "Door gebruiker gedefinieerd">
-<!ENTITY  font.langGroup.thai                     "Thai">
-<!ENTITY  font.langGroup.hebrew                   "Hebreeuws">
-<!ENTITY  font.langGroup.arabic                   "Arabisch">
+<!ENTITY  font.langGroup.unicode                  "Onre talen">
+<!ENTITY  font.langGroup.user-def                 "Troch brûker definiearre">
+<!ENTITY  font.langGroup.thai                     "Thaisk">
+<!ENTITY  font.langGroup.hebrew                   "Hebreeuwsk">
+<!ENTITY  font.langGroup.arabic                   "Arabysk">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Armeens">
-<!ENTITY  font.langGroup.bengali                  "Bengaals">
-<!ENTITY  font.langGroup.canadian                 "Verenigd Canadees lettergreepschrift">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopisch">
-<!ENTITY  font.langGroup.georgian                 "Georgisch">
+<!ENTITY  font.langGroup.armenian                 "Armeensk">
+<!ENTITY  font.langGroup.bengali                  "Bengaalsk">
+<!ENTITY  font.langGroup.canadian                 "Ferienigd Kanadeesk lettergreepskrift">
+<!ENTITY  font.langGroup.ethiopic                 "Etiopysk">
+<!ENTITY  font.langGroup.georgian                 "Georgysk">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimale lettergrootte:">
+<!ENTITY minSize.label                            "Minimale lettergrutte:">
 <!ENTITY minSize.accesskey                        "n">
-<!ENTITY minSize.none                             "Geen">
+<!ENTITY minSize.none                             "Gjin">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Met schreef">
-<!ENTITY  useDefaultFontSansSerif.label           "Schreefloos">
+<!ENTITY  useDefaultFontSerif.label               "Mei skreef">
+<!ENTITY  useDefaultFontSansSerif.label           "Skreefleas">
 
-<!ENTITY  useDocumentFonts.label                  "Berichten toestaan om andere lettertypen te gebruiken">
+<!ENTITY  useDocumentFonts.label                  "Berjochten tastean om oanre lettertypen te brûken">
 <!ENTITY  useDocumentFonts.accesskey              "a">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Uitgaande e-mailberichten:">
+<!ENTITY sendDefaultCharset.label         "Utgeande e-mailberjochten:">
 <!ENTITY sendDefaultCharset.accesskey     "U">
 <!ENTITY languagesTitle1.label            "Tekensets">
-<!ENTITY composingDescription.label       "Standaard tekensets voor verzenden en ontvangen van e-mailberichten">
+<!ENTITY composingDescription.label       "Standert tekensets foar ferstjoeren en ûntfangen fan e-mailberjochten">
 
-<!ENTITY viewDefaultCharsetList.label     "Inkomende e-mailberichten:">
-<!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY replyInDefaultCharset2.label     "Wanneer mogelijk, standaard tekenset gebruiken in antwoorden">
+<!ENTITY viewDefaultCharsetList.label     "Ynkommende e-mailberjochten:">
+<!ENTITY viewDefaultCharsetList.accesskey "Y">
+<!ENTITY replyInDefaultCharset2.label     "Wannear mooglik, standert tekenset brûke yn antwurden">
 <!ENTITY replyInDefaultCharset2.accesskey  "b">

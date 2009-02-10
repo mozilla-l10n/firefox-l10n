@@ -1,16 +1,16 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
-<!ENTITY windowTitle.label "HTML-e-mailvraag">
+<!ENTITY windowTitle.label "HTML-e-mailfraach">
 
-<!ENTITY recipient.label "Van een aantal geadresseerden staat niet geregistreerd of ze HTML-e-mail kunnen ontvangen.">
+<!ENTITY recipient.label "Fan in oantal adressearden stiet net registreard of se HTML-e-mail ûntfange kinne.">
 
-<!ENTITY question.label "Wilt u het bericht converteren naar platte tekst of toch verzenden als HTML?">
+<!ENTITY question.label "Wolle jo it berjocht konfertearje nei platte tekst of toch ferstjoere as HTML?">
 
-<!ENTITY plainTextAndHtml.label "Als platte tekst en HTML verzenden">
+<!ENTITY plainTextAndHtml.label "As platte tekst en HTML ferstjoere">
 <!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Alleen als platte tekst verzenden">
+<!ENTITY plainTextOnly.label "Allinnich as platte tekst ferstjoere">
 <!ENTITY plainTextOnly.accesskey "p">
-<!ENTITY htmlOnly.label "Alleen als HTML verzenden">
+<!ENTITY htmlOnly.label "Allinnich als HTML ferstjoere">
 <!ENTITY htmlOnly.accesskey "H">
 
-<!ENTITY send.label "Verzenden">
-<!ENTITY send.accesskey "V">
+<!ENTITY send.label "Ferstjoere">
+<!ENTITY send.accesskey "F">

@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "Standertwearden systeem">
-<!ENTITY alwaysCheckDefault.label          "Altyd tiidens it opstarten kontrolearje of &brandShortName; de standert e-mailklient is">
-<!ENTITY alwaysCheckDefault.accesskey      "k">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "No kontrolearje">
-<!ENTITY checkNow.accesskey         "N">
-
 <!ENTITY messengerStartPage.label         "&brandShortName;-startside">
 <!ENTITY enableStartPage.label            "Wannear &brandShortName; start, de startside yn it berjochtdiel toane">
 <!ENTITY enableStartPage.accesskey        "W">
@@ -18,7 +6,7 @@
 <!ENTITY useDefault.label                 "Standertynstelling werstelle">
 <!ENTITY useDefault.accesskey             "S">
 
-<!ENTITY bounceSystemDockIcon.label       "It systeemfekpiktogram animearje">
+<!ENTITY bounceSystemDockIcon.label       "It systeemfakpiktogram animearje">
 <!ENTITY bounceSystemDockIcon.accesskey   "i">
 
 <!ENTITY newMessagesArrive.label          "As nije berjochten oankomme:">
@@ -36,7 +24,7 @@
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "It folgjende lûdsbestân brûke">
-<!ENTITY customsound.accesskey            "v">
+<!ENTITY customsound.accesskey            "l">
 <!ENTITY browse.label                     "Blêdzje...">
 <!ENTITY browse.accesskey                 "B">
 

@@ -1,54 +1,54 @@
-<!ENTITY itemGeneral.label                   "Algemeen">
-<!ENTITY itemAutoComplete.label              "Adressering">
-<!ENTITY itemSpellCheck.label                "Spelling">
+<!ENTITY itemGeneral.label                   "Algemien">
+<!ENTITY itemAutoComplete.label              "Adressearing">
+<!ENTITY itemSpellCheck.label                "Stavering">
 
-<!ENTITY forwardMsg.label                     "Berichten doorsturen:">
-<!ENTITY forwardMsg.accesskey                 "d">
-<!ENTITY inline.label                         "In het bericht">
-<!ENTITY inline.accesskey                     "I">
-<!ENTITY asAttachment.label                   "Als bijlage">
-<!ENTITY asAttachment.accesskey               "b">
-<!ENTITY addExtension.label                   "Extensie aan bestandsnaam toevoegen">
+<!ENTITY forwardMsg.label                     "Berjochten trochstjoere:">
+<!ENTITY forwardMsg.accesskey                 "t">
+<!ENTITY inline.label                         "Yn it berjocht">
+<!ENTITY inline.accesskey                     "Y">
+<!ENTITY asAttachment.label                   "As bylage">
+<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY addExtension.label                   "Ekstensje oan bestânsnamme tafoegje">
 <!ENTITY addExtension.accesskey               "t">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Lettertype:">
 <!ENTITY font.accesskey                       "L">
-<!ENTITY size.label                           "Grootte:">
+<!ENTITY size.label                           "Grutte:">
 <!ENTITY size.accesskey                       "G">
 <!ENTITY fontColor.label                      "Tekstkleur:">
 <!ENTITY fontColor.accesskey                  "k">
-<!ENTITY bgColor.label                        "Achtergrondkleur:">
+<!ENTITY bgColor.label                        "Achtergrûnkleur:">
 <!ENTITY bgColor.accesskey                    "A">
-<!ENTITY restoreHTMLDefaults.label            "Standaardwaarden herstellen">
+<!ENTITY restoreHTMLDefaults.label            "Standertwearden werstelle">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
 
-<!ENTITY spellCheck.label                     "Spelling controleren voor het verzenden">
-<!ENTITY spellCheck.accesskey                 "c">
-<!ENTITY spellCheckInline.label               "Spelling controleren tijdens het typen">
+<!ENTITY spellCheck.label                     "Stavering kontrolearje foar it ferstjoeren">
+<!ENTITY spellCheck.accesskey                 "k">
+<!ENTITY spellCheckInline.label               "Stavering kontrolearje tiidens it typen">
 <!ENTITY spellCheckInline1.accesskey          "n">
 <!ENTITY languagePopup.label                  "Taal:">
 <!ENTITY languagePopup.accessKey              "T">
-<!ENTITY downloadDictionaries.label           "Meer woordenboeken downloaden">
+<!ENTITY downloadDictionaries.label           "Mear wurdboeken ynlade">
 
-<!ENTITY warnOnSendAccelKey.label             "Bevestiging vragen bij gebruik van sneltoets om berichten te verzenden">
+<!ENTITY warnOnSendAccelKey.label             "Befestiging freegje by gebrûk fan fluchtoets om berjochten te ferstjoeren">
 <!ENTITY warnOnSendAccelKey.accesskey         "B">
 <!ENTITY autoSave.label                       "Elke">
 <!ENTITY autoSave.accesskey                   "E">
-<!ENTITY autoSaveEnd.label                    "minuten automatisch opslaan">
+<!ENTITY autoSaveEnd.label                    "minuten automatysk bewarje">
 
-<!ENTITY emailCollectionPicker.label           "E-mailadressen van uitgaande berichten automatisch toevoegen aan mijn:">
-<!ENTITY emailCollectionPicker.accesskey       "u">
-<!ENTITY addressingTitle.label                 "Automatische adresaanvulling">
-<!ENTITY autocompleteText.label                "Bij het adresseren van berichten, naar overeenkomsten zoeken in:">
+<!ENTITY emailCollectionPicker.label           "E-mailadressen fan útgeande berjochten automatysk tafoegje oan myn:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY addressingTitle.label                 "Automatyske adresoanfolling">
+<!ENTITY autocompleteText.label                "By it adressearjen fan berjochten, nei oerienkomsten sykje yn:">
 <!ENTITY addressingEnable.label                "Lokale adresboeken">
 <!ENTITY addressingEnable.accesskey            "r">
-<!ENTITY directories.label                     "Directoryserver:">
+<!ENTITY directories.label                     "Directorytsjinner:">
 <!ENTITY directories.accesskey                 "y">
-<!ENTITY directoriesNone.label                 "Geen">
-<!ENTITY editDirectories.label                 "Directory’s bewerken…">
+<!ENTITY directoriesNone.label                 "Gjin">
+<!ENTITY editDirectories.label                 "Directory’s bewurkje…">
 <!ENTITY editDirectories.accesskey             "w">
 
-<!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrag configureren">
-<!ENTITY sendOptions.label                     "Verzendopties…">
-<!ENTITY sendOptions.accesskey                 "V">
+<!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrach konfigurearje">
+<!ENTITY sendOptions.label                     "Ferstjoeropsjes…">
+<!ENTITY sendOptions.accesskey                 "F">

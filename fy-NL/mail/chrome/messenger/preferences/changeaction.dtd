@@ -1,21 +1,21 @@
-<!ENTITY  changeAction.title                  "Actie wijzigen">
+<!ENTITY  changeAction.title                  "Aksje wizigje">
 <!ENTITY  window.width                        "36em">
 
-<!ENTITY  whenDownloading.label               "Bij het downloaden van dit type bestanden:">
+<!ENTITY  whenDownloading.label               "By it ynladen fan dit type bestannen:">
 
-<!ENTITY  openDefault.label                   "Ze openen met de standaardtoepassing:">
+<!ENTITY  openDefault.label                   "Se iepenje mei de standerttapassing:">
 <!ENTITY  openDefault.accesskey               "s">
-<!ENTITY  openApplication.label               "Ze openen met deze toepassing:">
+<!ENTITY  openApplication.label               "Se iepenje mei dizze tapassing:">
 <!ENTITY  openApplication.accesskey           "d">
-<!ENTITY  changeApp.label                     "Bladeren...">
+<!ENTITY  changeApp.label                     "Blêdzje...">
 <!ENTITY  changeApp.accesskey                 "B">
-<!ENTITY  saveToDisk.label                    "Ze opslaan op mijn computer">
+<!ENTITY  saveToDisk.label                    "Se bewarje op myn kompjûter">
 <!ENTITY  saveToDisk.accesskey                "o">
-<!ENTITY  saveToDefaultFolder.label           "in de standaard downloadmap">
+<!ENTITY  saveToDefaultFolder.label           "yn de standert ynlaadmap">
 <!ENTITY  saveToDefaultFolder.accesskey       "t">
-<!ENTITY  saveToThisFolder.label              "in deze map:">
+<!ENTITY  saveToThisFolder.label              "yn dizze map:">
 <!ENTITY  saveToThisFolder.accesskey          "m">
-<!ENTITY  chooseFolder.label                  "Bladeren...">
+<!ENTITY  chooseFolder.label                  "Blêdzje...">
 <!ENTITY  chooseFolder.accesskey              "l">
-<!ENTITY  saveToAskMe.label                   "mij vragen waar het bestand moet worden opgeslagen">
-<!ENTITY  saveToAskMe.accesskey               "v">
+<!ENTITY  saveToAskMe.label                   "my freegje wêr't it bestân bewarre wurde moat">
+<!ENTITY  saveToAskMe.accesskey               "f">

@@ -37,12 +37,12 @@
    - ***** END LICENSE BLOCK ***** -->
    
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "Nieuwe map">
-<!ENTITY name.label                 "Naam:">
+<!ENTITY newFolderDialog.title      "Nije map">
+<!ENTITY name.label                 "Namme:">
 <!ENTITY name.accesskey             "N">
-<!ENTITY description.label          "Maken als een submap van:">
+<!ENTITY description.label          "Meitsje as in submap fan:">
 <!ENTITY description.accesskey      "M">
-<!ENTITY folderRestriction1.label   "Deze server beperkt mappen tot twee speciale soorten.">
-<!ENTITY folderRestriction2.label   "Toestaan dat de nieuwe map bevat:">
-<!ENTITY foldersOnly.label          "Alleen mappen">
-<!ENTITY messagesOnly.label         "Alleen berichten">
+<!ENTITY folderRestriction1.label   "Dizze tsjinner beheint mappen ta twa spesjale soarten.">
+<!ENTITY folderRestriction2.label   "Tastean dat de nije map befettet:">
+<!ENTITY foldersOnly.label          "Allinnich mappen">
+<!ENTITY messagesOnly.label         "Allinnich berjochten">

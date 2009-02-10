@@ -1,33 +1,33 @@
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Opstelle &amp; adressearje">
-<!ENTITY addressingGroupTitle.label "Adressering">
-<!ENTITY addressingText.label      "Bij het opzoeken van adressen:">
+<!ENTITY addressingGroupTitle.label "Adressearing">
+<!ENTITY addressingText.label      "By it opsykjen fan adressen:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Mijn algemene LDAP-serverinstellingen gebruiken voor deze account">
+<!ENTITY useGlobal.label           "Myn algiemene LDAP-tsjinnerynstellings brûke foar dizze account">
 <!ENTITY useGlobal.accesskey       "M">
-<!ENTITY editDirectories.label     "Directory’s bewerken…">
+<!ENTITY editDirectories.label     "Mappen bewurkje…">
 <!ENTITY editDirectories.accesskey "B">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Andere LDAP-server gebruiken:">
+<!ENTITY directories.label         "Oare LDAP-tsjinner brûke:">
 <!ENTITY directories.accesskey     "n">
-<!ENTITY directoriesNone.label     "Geen">
+<!ENTITY directoriesNone.label     "Gjin">
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Opstellen">
+<!ENTITY compositionGroupTitle.label "Opstelle">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Berichten opstellen in HTML-formaat">
+<!ENTITY useHtml.label                        "Berjochten opstelle yn HTML-formaat">
 <!ENTITY useHtml.accesskey                    "o">
-<!ENTITY autoQuote.label                      "Automatisch de originele tekst citeren bij antwoorden">
+<!ENTITY autoQuote.label                      "Automatysk de orizjinele tekst sitearje by antwurdzjen">
 <!ENTITY autoQuote.accesskey                  "A">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Dan,">
 <!ENTITY then.accesskey                       "D">
-<!ENTITY aboveQuote.label                     "mijn reactie boven de geciteerde tekst starten">
-<!ENTITY belowQuote.label                     "mijn reactie onder de geciteerde tekst starten">
-<!ENTITY selectAndQuote.label                 "de geciteerde tekst selecteren">
-<!ENTITY place.label                          "en mijn ondertekening plaatsen">
+<!ENTITY aboveQuote.label                     "myn reaksje boppe de sitearre tekst starte">
+<!ENTITY belowQuote.label                     "myn reaksje ûnder de sitearre tekst starte">
+<!ENTITY selectAndQuote.label                 "de sitearre tekst selektearje">
+<!ENTITY place.label                          "en myn ûndertekening sette">
 <!ENTITY place.accesskey                      "p">
-<!ENTITY belowText.label                      "onder de geciteerde tekst (aanbevolen)">
-<!ENTITY aboveText.label                      "onder mijn antwoord (boven de geciteerde tekst)">
+<!ENTITY belowText.label                      "ûnder de sitearre tekst (oanret)">
+<!ENTITY aboveText.label                      "ûnder myn antwurd (boppe de sitearre tekst)">

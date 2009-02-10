@@ -44,12 +44,12 @@
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Fernije">
 <!ENTITY refreshButton.accesskey      "V">
-<!ENTITY stopButton.label             "Stoppe">
+<!ENTITY stopButton.label             "Ophâlde">
 <!ENTITY stopButton.accesskey         "S">
-<!ENTITY server.label                 "Akkount:">
+<!ENTITY server.label                 "Account:">
 <!ENTITY server.accesskey             "A">
 <!ENTITY subscribedHeader.label       "Abonnearje">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Berichten"> -->
+<!ENTITY messagesHeader.label         "Berjochten"> -->
 <!ENTITY namefield.label              "Nijsgroepen toane mei de tekst:">
 <!ENTITY namefield.accesskey          "t">

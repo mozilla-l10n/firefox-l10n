@@ -1,31 +1,37 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Kopieën &amp; mappen">
-<!ENTITY sendingPrefix.label "Bij het verzenden van berichten, automatisch:">
-<!ENTITY fccMailFolder.label "Een kopie plaatsen in:">
+<!ENTITY copyAndFolderTitle.label "Kopiyen &amp; mappen">
+<!ENTITY sendingPrefix.label "By it ferstjoeren fan berjochten, automatysk:">
+<!ENTITY fccMailFolder.label "In kopy sette yn:">
 <!ENTITY fccMailFolder.accesskey "k">
-<!ENTITY fccReplyFollowsParent.label "Antwoorden plaatsen in de map van het bericht waarop wordt geantwoord">
+<!ENTITY fccReplyFollowsParent.label "Antwurden sette yn de map fan it berjocht dêr't op antwurde wurdt">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc naar deze e-mailadressen:">
+<!ENTITY bccAddress.label "Bcc nei dizze e-mailadressen:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY saveMessageDlg.label "Bevestiging weergeven als berichten zijn opgeslagen">
+<!ENTITY saveMessageDlg.label "Befestiging werjaan as berjochten bewarre binne">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Map &quot;Verzonden&quot; in:">
-<!ENTITY sentFolderOn.accesskey "V">
-<!ENTITY sentInOtherFolder.label "Anders:">
-<!ENTITY sentInOtherFolder.accesskey "A">
+<!ENTITY sentFolderOn.label "Map &quot;Ferstjoerd&quot; yn:">
+<!ENTITY sentFolderOn.accesskey "F">
+<!ENTITY sentInOtherFolder.label "Oars:">
+<!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Map &quot;Concepten&quot; in:">
-<!ENTITY draftsFolderOn.accesskey "C">
-<!ENTITY draftInOtherFolder.label "Anders:">
-<!ENTITY draftInOtherFolder.accesskey "n">
+<!ENTITY draftsFolderOn.label "Map &quot;Konsepten&quot; yn:">
+<!ENTITY draftsFolderOn.accesskey "K">
+<!ENTITY draftInOtherFolder.label "Oars:">
+<!ENTITY draftInOtherFolder.accesskey "r">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "&quot;Argyf&quot; map op:">
+<!ENTITY archivesFolderOn.accesskey "g">
+<!ENTITY archiveInOtherFolder.label "Oars:">
+<!ENTITY archiveInOtherFolder.accesskey "r">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Map &quot;Sjablonen&quot; in:">
+<!ENTITY templatesFolderOn.label "Map &quot;Sjabloanen&quot; yn:">
 <!ENTITY templatesFolderOn.accesskey "S">
-<!ENTITY templateInOtherFolder.label "Anders:">
-<!ENTITY templateInOtherFolder.accesskey "d">
-<!ENTITY specialFoldersTitle.label "Concepten en sjablonen">
-<!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
-<!ENTITY keepTempltes.label "Berichtsjablonen bewaren in:">
+<!ENTITY templateInOtherFolder.label "Oars:">
+<!ENTITY templateInOtherFolder.accesskey "s">
+<!ENTITY specialFoldersTitle.label "Konsepten en sjabloanen">
+<!ENTITY keepDrafts.label "Berjochtkonsepten bewarje yn:">
+<!ENTITY keepArchives.label "Bewarje berjochtargyf yn:">
+<!ENTITY keepTempltes.label "Berjochtsjabloanen bewarje yn:">

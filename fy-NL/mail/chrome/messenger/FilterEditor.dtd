@@ -1,39 +1,39 @@
 <!ENTITY window.title "Filterregels">
 
-<!ENTITY filterName.label "Filternaam:">
+<!ENTITY filterName.label "Filternamme:">
 <!ENTITY filterName.accesskey "F">
 
-<!ENTITY junk.label "Ongewenst bericht">
-<!ENTITY notJunk.label "Geen ongewenst bericht">
+<!ENTITY junk.label "Net-winske berjocht">
+<!ENTITY notJunk.label "Gjin net-winske berjocht">
 
-<!ENTITY lowestPriorityCmd.label "Laagst">
-<!ENTITY lowPriorityCmd.label "Laag">
+<!ENTITY lowestPriorityCmd.label "Leechst">
+<!ENTITY lowPriorityCmd.label "Leech">
 <!ENTITY normalPriorityCmd.label "Normaal">
-<!ENTITY highPriorityCmd.label "Hoog">
-<!ENTITY highestPriorityCmd.label "Hoogst">
+<!ENTITY highPriorityCmd.label "Heech">
+<!ENTITY highestPriorityCmd.label "Heechst">
 
-<!ENTITY contextDesc.label "Filter toepassen bij het:">
+<!ENTITY contextDesc.label "Filter tapasse by it:">
 <!ENTITY contextDesc.accesskey "a">
-<!ENTITY contextIncoming.label "Controleren van E-mail">
-<!ENTITY contextManual.label "Handmatig activeren">
-<!ENTITY contextBoth.label "Controleren van E-mail of handmatig activeren">
-<!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
-<!ENTITY filterActionDesc.accesskey "V">
+<!ENTITY contextIncoming.label "Kontrolearjen fan E-mail">
+<!ENTITY contextManual.label "Hânmjittich aktivearjen">
+<!ENTITY contextBoth.label "Kontrolearjen fan E-mail of hânmjittich aktivearjen">
+<!ENTITY filterActionDesc.label "Dizze aksjes útfiere:">
+<!ENTITY filterActionDesc.accesskey "f">
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Bericht verplaatsen naar">
-<!ENTITY copyMessage.label "Bericht kopiëren naar">
-<!ENTITY forwardTo.label "Bericht doorsturen naar">
-<!ENTITY replyWithTemplate.label "Met sjabloon antwoorden">
-<!ENTITY markMessageRead.label "Bericht als gelezen markeren">
-<!ENTITY markMessageStarred.label "Ster toevoegen">
-<!ENTITY setPriority.label "Prioriteit veranderen naar">
-<!ENTITY addTag.label "Bericht labelen">
-<!ENTITY setJunkScore.label "Ongewenst-berichtstatus instellen op">
-<!ENTITY deleteMessage.label "Bericht verwijderen">
-<!ENTITY deleteFromPOP.label "Van POP-server verwijderen">
-<!ENTITY fetchFromPOP.label "Van POP-server ophalen">
-<!ENTITY ignoreThread.label "Conversatie negeren">
-<!ENTITY ignoreSubthread.label "Subconversatie negeren"> 
-<!ENTITY watchThread.label "Conversatie volgen">
-<!ENTITY stopExecution.label "Uitvoeren filter stoppen">
+<!ENTITY moveMessage.label "Berjocht ferpleatse nei">
+<!ENTITY copyMessage.label "Berjocht kopiearje nei">
+<!ENTITY forwardTo.label "Berjocht trochstjoere nei">
+<!ENTITY replyWithTemplate.label "Mei sjabloan antwurdzje">
+<!ENTITY markMessageRead.label "Berjocht as lêzen markearje">
+<!ENTITY markMessageStarred.label "Stjer tafoegje">
+<!ENTITY setPriority.label "Prioriteit feroarje nei">
+<!ENTITY addTag.label "Berjocht labelje">
+<!ENTITY setJunkScore.label "Net-winske-berjochtesteat ynstelle op">
+<!ENTITY deleteMessage.label "Berjocht fuortsmite">
+<!ENTITY deleteFromPOP.label "Fan POP-tsjinner smite">
+<!ENTITY fetchFromPOP.label "Fan POP-tsjinner ophelje">
+<!ENTITY ignoreThread.label "Petear negearje">
+<!ENTITY ignoreSubthread.label "Subpetear negearje"> 
+<!ENTITY watchThread.label "Petear folgje">
+<!ENTITY stopExecution.label "Ophâlde mei útfieren fan filter">

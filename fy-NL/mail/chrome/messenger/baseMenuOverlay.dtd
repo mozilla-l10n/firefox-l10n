@@ -5,7 +5,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Help">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY releaseCmd.label "Utjefeopmerkings">
+<!ENTITY releaseCmd.label "Utjefe-opmerkings">
 <!ENTITY releaseCmd.accesskey "U">
 <!ENTITY openHelp.label "Help ynhâld">
 <!ENTITY openHelp.accesskey "H">

@@ -44,37 +44,44 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Importeren">
-<!ENTITY importDialog.allTitle    "Alles importeren">
-<!ENTITY importDialog.mailTitle   "E-mail">
-<!ENTITY importDialog.addressbookTitle "Adresboeken">
-<!ENTITY importDialog.settingsTitle "Instellingen">
-<!ENTITY importDialog.filtersTitle "Filters">
-
+<!ENTITY importDialog.windowTitle "Ymportearje">
+<!ENTITY importAll.label    	  "Alles ymportearje">
+<!ENTITY importAll.accesskey      "A">
+<!ENTITY importMail.label         "E-mail">
+<!ENTITY importMail.accesskey     "E">
+<!ENTITY importAddressbook.label  "Adresboeken">
+<!ENTITY importAddressbook.accesskey "b">
+<!ENTITY importSettings.label     "Ynstellings">
+<!ENTITY importSettings.accesskey "Y">
+<!ENTITY importFilters.label      "Filters">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "42em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "&brandShortName;-importeerwizard">
-<!ENTITY importShortDesc.label    "E-mail, adresboeken, instellingen en filters van andere programma’s importeren">
+<!ENTITY importTitle.label        "&brandShortName;-ymportearhelper">
+<!ENTITY importShortDesc.label    "E-mail, adresboeken, ynstellings en filters fan oanre programma’s ymportearje">
 
-<!ENTITY importDescription1.label "Deze wizard zal e-mailberichten, adresboekgegevens, voorkeuren en/of filters van andere e-mailprogramma’s en bekende adresboekformaten importeren in &brandShortName;.">
-<!ENTITY importDescription2.label "Als deze eenmaal zijn geïmporteerd kunt u ze gebruiken in &brandShortName;.">
+<!ENTITY importDescription1.label "Dizze helper sil e-mailberjochten, adresboekgegevens, foarkarren en/of filters fan oare e-mailprogramma’s en bekende adresboekformaten ymportearje yn &brandShortName;.">
+<!ENTITY importDescription2.label "As dizze ien kear ymportearre binne kinne jo se brûke yn &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Selecteer het type bestand dat u wilt importeren:">
+<!ENTITY selectDescription.label  "Selektearje it type bestân dat jo ymportearje wolle:">
+<!ENTITY selectDescription.accesskey "P">
 
-<!ENTITY back.label               "&lt; Vorige">
-<!ENTITY forward.label            "Volgende &gt;">
-<!ENTITY finish.label             "Voltooien">
-<!ENTITY cancel.label             "Annuleren">
+<!ENTITY back.label               "&lt; Foarige">
+<!ENTITY forward.label            "Folgjende &gt;">
+<!ENTITY finish.label             "Foltôgje">
+<!ENTITY cancel.label             "Annulearje">
 
-<!ENTITY select.label             "of selecteer het type gegevens om te importeren:">
+<!ENTITY select.label             "of selektearje it type gegevens om te ymportearjen:">
 
 <!ENTITY title.label              "Titel">
-<!ENTITY processing.label         "Importeren…">
+<!ENTITY processing.label         "Ymportearje…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x heeft één e-mailadres op elke kaart, terwijl &brandShortName; er twee heeft (Thuis en Werk).">
-<!ENTITY FieldDiscInputText2.label  "Selecteer de categorie waarin u de geïmporteerde e-mailadressen wilt opslaan:">
-<!ENTITY FieldDiscWarning.label  "Deze categorie zal worden gebruikt voor alle gegevens van het geselecteerde adresboek: ">
-<!ENTITY importDialog.homeTitle  "Thuis">
-<!ENTITY importDialog.workTitle  "Werk">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x hat ien e-mailadres op elke kaart, wylst &brandShortName; der twa hat (Thús en Wurk).">
+<!ENTITY FieldDiscInputText2.label  "Selektearje de kategorie wêryn jo de ymportearre e-mailadressen bewarje wolle:">
+<!ENTITY FieldDiscWarning.label  "Dizze kategorie sil brûkt wurde foar alle gegevens fan it selektearre adresboek: ">
+<!ENTITY importHome.label        "Thús">
+<!ENTITY importHome.accesskey    "T">
+<!ENTITY importWork.label        "Wurk">
+<!ENTITY importWork.accesskey    "W">

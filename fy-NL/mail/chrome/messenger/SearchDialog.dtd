@@ -1,72 +1,72 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "Berichten zoeken in:">
+<!ENTITY searchHeading.label         "Berjochten sykje yn:">
 <!ENTITY searchHeading.accesskey     "k">
-<!ENTITY searchSubfolders.label      "In submappen zoeken">
+<!ENTITY searchSubfolders.label      "Yn submappen sykje">
 <!ENTITY searchSubfolders.accesskey  "s">
-<!ENTITY resetButton.label           "Wissen">
+<!ENTITY resetButton.label           "Wiskje">
 <!ENTITY resetButton.accesskey       "W">
-<!ENTITY openButton.label            "Openen">
-<!ENTITY openButton.accesskey        "O">
-<!ENTITY deleteButton.label          "Verwijderen">
-<!ENTITY deleteButton.accesskey      "V">
-<!ENTITY searchDialogTitle.label     "Berichten zoeken">
+<!ENTITY openButton.label            "Iepenje">
+<!ENTITY openButton.accesskey        "I">
+<!ENTITY deleteButton.label          "Fuortsmite">
+<!ENTITY deleteButton.accesskey      "F">
+<!ENTITY searchDialogTitle.label     "Berjochten sykje">
 <!ENTITY results.label               "Resultaten">
-<!ENTITY fileHereMenu.label          "Hier opslaan">
+<!ENTITY fileHereMenu.label          "Hjir bewarje">
 <!ENTITY fileHereMenu.accesskey      "H">
-<!ENTITY fileButton.label            "Opslaan in">
-<!ENTITY fileButton.accesskey        "l">
+<!ENTITY fileButton.label            "Bewarje yn">
+<!ENTITY fileButton.accesskey        "w">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Berichtenmap openen">
+<!ENTITY goToFolderButton.label      "Berjochtemap iepenje">
 <!ENTITY goToFolderButton.accesskey  "B">
-<!ENTITY saveAsVFButton.label        "Opslaan als zoekmap">
+<!ENTITY saveAsVFButton.label        "Bewarje as sykmap">
 <!ENTITY saveAsVFButton.accesskey    "m">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label       "Adressen zoeken in:">
+<!ENTITY abSearchHeading.label       "Adressen sykje yn:">
 <!ENTITY abSearchHeading.accesskey   "k">
-<!ENTITY propertiesButton.label      "Eigenschappen">
+<!ENTITY propertiesButton.label      "Eigenskippen">
 <!ENTITY propertiesButton.accesskey  "E">
-<!ENTITY composeButton.label         "Opstellen">
+<!ENTITY composeButton.label         "Opstelle">
 <!ENTITY composeButton.accesskey     "O">
-<!ENTITY abSearchDialogTitle.label   "Adresboek uitgebreid doorzoeken">
+<!ENTITY abSearchDialogTitle.label   "Adresboek wiidweidich trochsykje">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Conversatie">
-<!ENTITY fromColumn.label "Van">
-<!ENTITY recipientColumn.label "Ontvanger">
-<!ENTITY subjectColumn.label "Onderwerp">
+<!ENTITY threadColumn.label "Petear">
+<!ENTITY fromColumn.label "Fan">
+<!ENTITY recipientColumn.label "Untfanger">
+<!ENTITY subjectColumn.label "Underwerp">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioriteit">
 <!ENTITY tagsColumn.label "Labels">
 <!ENTITY accountColumn.label "Account">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Grootte">
-<!ENTITY junkStatusColumn.label "Ongewenst-berichtstatus">
-<!ENTITY unreadColumn.label "Ongelezen">
+<!ENTITY statusColumn.label "Steat">
+<!ENTITY sizeColumn.label "Grutte">
+<!ENTITY junkStatusColumn.label "Net-winske berjochtsteat">
+<!ENTITY unreadColumn.label "Net-lêzen">
 <!ENTITY totalColumn.label "Totaal">
-<!ENTITY readColumn.label "Gelezen">
-<!ENTITY receivedColumn.label "Ontvangen">
-<!ENTITY starredColumn.label "Met ster">
-<!ENTITY locationColumn.label "Locatie">
-<!ENTITY idColumn.label "Volgorde van ontvangst">
+<!ENTITY readColumn.label "Lêzen">
+<!ENTITY receivedColumn.label "Untfongen">
+<!ENTITY starredColumn.label "Mei stjer">
+<!ENTITY locationColumn.label "Lokaasje">
+<!ENTITY idColumn.label "Folchoarder fan ûntfangst">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Klik om weer te geven kolommen te selecteren">
-<!ENTITY threadColumn.tooltip "Klik om berichtconversaties weer te geven">
-<!ENTITY fromColumn.tooltip "Klik om te sorteren op van">
-<!ENTITY recipientColumn.tooltip "Klik om te sorteren op ontvanger">
-<!ENTITY subjectColumn.tooltip "Klik om te sorteren op onderwerp">
-<!ENTITY dateColumn.tooltip "Klik om te sorteren op datum">
-<!ENTITY priorityColumn.tooltip "Klik om te sorteren op prioriteit">
-<!ENTITY tagsColumn.tooltip "Klik om te sorteren op labels">
-<!ENTITY accountColumn.tooltip "Klik om te sorteren op account">
-<!ENTITY statusColumn.tooltip "Klik om te sorteren op status">
-<!ENTITY sizeColumn.tooltip "Klik om te sorteren op grootte">
-<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op ongewenst-berichtstatus">
-<!ENTITY unreadColumn.tooltip "Aantal ongelezen berichten in conversatie">
-<!ENTITY totalColumn.tooltip "Totaal aantal berichten in conversatie">
-<!ENTITY readColumn.tooltip "Klik om te sorteren op gelezen">
-<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangsdatum">
-<!ENTITY starredColumn.tooltip "Klik om te sorteren op ster">
-<!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
-<!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">
+<!ENTITY columnChooser.tooltip "Klik om wer te jaan kolommen te selektearjen">
+<!ENTITY threadColumn.tooltip "Klik om berjochtpetear wer te jaan">
+<!ENTITY fromColumn.tooltip "Klik om te sortearjen op fan">
+<!ENTITY recipientColumn.tooltip "Klik om te sortearjen op ûntfanger">
+<!ENTITY subjectColumn.tooltip "Klik om te sortearjen op ûnderwerp">
+<!ENTITY dateColumn.tooltip "Klik om te sortearjen op datum">
+<!ENTITY priorityColumn.tooltip "Klik om te sortearjen op prioriteit">
+<!ENTITY tagsColumn.tooltip "Klik om te sortearjen op labels">
+<!ENTITY accountColumn.tooltip "Klik om te sortearjen op account">
+<!ENTITY statusColumn.tooltip "Klik om te sortearjen op steat">
+<!ENTITY sizeColumn.tooltip "Klik om te sortearjen op grutte">
+<!ENTITY junkStatusColumn.tooltip "Klik om te sortearjen op net-winske berjochtesteat">
+<!ENTITY unreadColumn.tooltip "Oantal net-lêzen berjochten yn petear">
+<!ENTITY totalColumn.tooltip "Totaal oantal berjochten yn petear">
+<!ENTITY readColumn.tooltip "Klik om te sortearjen op lêzen">
+<!ENTITY receivedColumn.tooltip "Klik om te sortearjen op ûntfangstdatum">
+<!ENTITY starredColumn.tooltip "Klik om te sortearjen op stjer">
+<!ENTITY locationColumn.tooltip "Klik om te sortearjen op lokaasje">
+<!ENTITY idColumn.tooltip "Klik om te sortearjen op folchoarder fan ûntfangst">

@@ -1,22 +1,22 @@
-<!ENTITY dialog.title "Leesbevestigingen">
-<!ENTITY requestReceipt.label "Altijd een leesbevestiging vragen bij het verzenden van berichten">
+<!ENTITY dialog.title "Lêsbefestigings">
+<!ENTITY requestReceipt.label "Altyd in lêsbefestiging freegje by it ferstjoeren fan berjochten">
 <!ENTITY requestReceipt.accesskey "t">
-<!ENTITY receiptArrive.label "Als een leesbevestiging aankomt:">
-<!ENTITY leaveIt.label "Deze in mijn Postvak IN laten staan">
+<!ENTITY receiptArrive.label "As in lêsbefestiging oankomt:">
+<!ENTITY leaveIt.label "Dizze yn myn Postfek YN stean litte">
 <!ENTITY leaveIt.accesskey "l">
-<!ENTITY moveToSent.label "Deze naar mijn map &quot;Verzonden&quot; verplaatsen">
-<!ENTITY moveToSent.accesskey "v">
-<!ENTITY requestMDN.label "Als een verzoek voor een leesbevestiging aankomt:">
-<!ENTITY never.label "Nooit een leesbevestiging sturen">
+<!ENTITY moveToSent.label "Dizze nei myn map &quot;Ferstjoerd&quot; ferpleatse">
+<!ENTITY moveToSent.accesskey "f">
+<!ENTITY requestMDN.label "As in fersyk foar in lêsbefestiging oankomt:">
+<!ENTITY never.label "Noait in lêsbefestiging stjoere">
 <!ENTITY never.accesskey "s">
-<!ENTITY returnSome.label "In de volgende gevallen een leesbevestiging sturen">
+<!ENTITY returnSome.label "Yn de folgjende gefallen in lêsbefestiging stjoere">
 <!ENTITY returnSome.accesskey "o">
-<!ENTITY notInToCc.label "Als ik niet in de Aan of CC van het bericht sta:">
+<!ENTITY notInToCc.label "As ik net yn de Oan of CC fan it berjocht stean:">
 <!ENTITY notInToCc.accesskey "n">
-<!ENTITY outsideDomain.label "Als de afzender buiten mijn domein is:">
+<!ENTITY outsideDomain.label "As de ôfstjoerder bûten myn domein is:">
 <!ENTITY outsideDomain.accesskey "b">
-<!ENTITY otherCases.label "In alle andere gevallen:">
+<!ENTITY otherCases.label "Yn alle oare gefallen:">
 <!ENTITY otherCases.accesskey "a">
-<!ENTITY askMe.label "Mij vragen">
-<!ENTITY alwaysSend.label "Altijd verzenden">
-<!ENTITY neverSend.label "Nooit verzenden">
+<!ENTITY askMe.label "My freegje">
+<!ENTITY alwaysSend.label "Altyd ferstjoere">
+<!ENTITY neverSend.label "Noait ferstjoere">

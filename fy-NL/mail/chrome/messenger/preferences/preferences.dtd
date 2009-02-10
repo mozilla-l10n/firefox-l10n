@@ -8,8 +8,6 @@
 <!ENTITY paneGeneral.title        "Algemien">
 <!ENTITY paneDisplay.title        "Werjefte">
 <!ENTITY paneComposition.title    "Opstelle">
-<!ENTITY paneAttachments.title    "Taheaksels">
+<!ENTITY paneAttachments.title    "Bylagen">
 <!ENTITY panePrivacy.title        "Privacy">
 <!ENTITY paneAdvanced.title       "Avansearre">
-
-<!ENTITY cmdCloseMac.commandKey   "w">

@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Ongewenste-berichteninstellingen">
-<!ENTITY trainingWarning.label "Wanneer geactiveerd, moet &brandShortName; eerst worden getraind om ongewenste berichten te identificeren. Dit gebeurt door met de werkbalkknop &quot;Ongewenst&quot; aan te geven of berichten wel of niet ongewenst zijn. U moet zowel ongewenste als gewenste berichten identificeren.">
-<!ENTITY level.label "Zelflerende ongewenste-berichtendetectie voor deze account activeren">
+<!ENTITY junkSettings.label "Net-winske-berjochteynstellings">
+<!ENTITY trainingWarning.label "Wannear aktifearre, moat &brandShortName; earst traind wurde om net-winske berjochten te identifisearjen. Dit wurd dien troch mei de arkbalkeknop &quot;Net-winske&quot; oan te jaan oft berjochten al of net net-winske binne. Jo moatte sawol net-winske as winske berjochten identifisearje.">
+<!ENTITY level.label "Selslearende net-winske-berjochtedeteksje foar dizze account aktifearje">
 <!ENTITY level.accesskey "a">
 
-<!ENTITY move.label "Nieuwe ongewenste berichten verplaatsen naar:">
+<!ENTITY move.label "Nije net-winske berjochten ferpleatse nei:">
 <!ENTITY move.accesskey "N">
-<!ENTITY junkFolderOn.label "map &quot;Ongewenst&quot; in:">
-<!ENTITY junkFolderOn.accesskey "O">
-<!ENTITY otherFolder.label "Anders:">
+<!ENTITY junkFolderOn.label "map &quot;Net-winske&quot; yn:">
+<!ENTITY junkFolderOn.accesskey "U">
+<!ENTITY otherFolder.label "Oars:">
 <!ENTITY otherFolder.accesskey "r">
-<!ENTITY purge1.label "Ongewenste berichten ouder dan">
+<!ENTITY purge1.label "Net-winske berjochten âlder as">
 <!ENTITY purge1.accesskey "a">
-<!ENTITY purge2.label "dagen automatisch uit deze map verwijderen">
+<!ENTITY purge2.label "dagen automatysk út dizze map fuortsmite">
 
-<!ENTITY whitelist.label "Berichten niet als ongewenst markeren als de afzender voorkomt in mijn: ">
+<!ENTITY whitelist.label "Berjochten net as net-winske markearje as de ôfstjoerder foarkomt yn myn: ">
 <!ENTITY whitelist.accesskey "m">
 
-<!ENTITY ispHeaders.label "Ongewenst-berichtkoppen vertrouwen die zijn ingesteld door: ">
-<!ENTITY ispHeaders.accesskey "v">
+<!ENTITY ispHeaders.label "Net-winske-berjochtkoppen fertrouwe dy't ynsteld binne troch: ">
+<!ENTITY ispHeaders.accesskey "f">

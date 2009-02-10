@@ -35,58 +35,59 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "Aan ">
-<!ENTITY fromField2.label "Van ">
-<!ENTITY senderField2.label "Afzender ">
-<!ENTITY organizationField2.label "Organisatie ">
-<!ENTITY replyToField2.label "Antwoord-naar ">
+<!ENTITY toField2.label "Oan ">
+<!ENTITY fromField2.label "Fan ">
+<!ENTITY senderField2.label "Ofstjoerder ">
+<!ENTITY organizationField2.label "Organisaasje ">
+<!ENTITY replyToField2.label "Antwurd-nei ">
 
-<!ENTITY subjectField2.label "Onderwerp ">
+<!ENTITY subjectField2.label "Underwerp ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "Cc ">
 <!ENTITY bccField2.label "Bcc ">
-<!ENTITY newsgroupsField2.label "Nieuwsgroepen ">
-<!ENTITY followupToField2.label "Reacties-naar ">
+<!ENTITY newsgroupsField2.label "Nijsgroepen ">
+<!ENTITY followupToField2.label "Reaksjes-nei ">
 <!ENTITY tagsHdr2.label "Labels ">
 <!ENTITY dateField2.label "Datum ">
 <!ENTITY userAgentField2.label "Useragent ">
-<!ENTITY referencesField2.label "Referenties ">
+<!ENTITY referencesField2.label "Referinsjes ">
 <!ENTITY messageIdField2.label "Message-ID ">
-<!ENTITY inReplyToField2.label "In-antwoord-op ">
-<!ENTITY originalWebsite2.label "Website ">
+<!ENTITY inReplyToField2.label "Yn-antwurd-op ">
+<!ENTITY originalWebsite2.label "Webstee ">
 
-<!ENTITY editMessageDescription.label "Dit is een berichtconcept">
-<!ENTITY editMessageButton.label "Bewerken…">
-<!ENTITY replyButton.label "antwoorden…">
-<!ENTITY forwardButton.label "doorsturen…">
-<!ENTITY junkButton.label "markeer als ongewenst">
-<!ENTITY trashButton.tooltiptext "verwijderen">
+<!ENTITY editMessageDescription.label "Dit is in berjochtkonsept">
+<!ENTITY editMessageButton.label "Bewurkje…">
+<!ENTITY archiveButton.label "argivearje">
+<!ENTITY hdrReplyButton.label "antwurdzje">
+<!ENTITY hdrForwardButton.label "trochstjoere">
+<!ENTITY hdrJunkButton.label "net-winske">
+<!ENTITY trashButton.tooltiptext "fuortsmite">
 
-<!ENTITY otherActionsButton.label "andere acties">
-<!ENTITY saveAsMenuItem.label "opslaan als…">
+<!ENTITY otherActionsButton.label "oare aksjes">
+<!ENTITY saveAsMenuItem.label "bewarje as…">
 <!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "bron bekijken…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY viewSourceMenuItem.label "boarne besjen…">
+<!ENTITY viewSourceMenuItem.accesskey "b">
 
-<!ENTITY hideDetailsButton.label "details verbergen">
-<!ENTITY showDetailsButton.label "details tonen">
+<!ENTITY hideDetailsButton.label "details ferbergje">
+<!ENTITY showDetailsButton.label "details toane">
 
-<!ENTITY openAttachmentCmd.label "Openen">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "Opslaan als…">
-<!ENTITY saveAsAttachmentCmd.accesskey "l">
-<!ENTITY detachAttachmentCmd.label "Ontkoppelen…">
-<!ENTITY deleteAttachmentCmd.label "Verwijderen">
-<!ENTITY saveAllAttachmentsCmd.label "Alles opslaan…">
+<!ENTITY openAttachmentCmd.label "Iepenje">
+<!ENTITY openAttachmentCmd.accesskey "I">
+<!ENTITY saveAsAttachmentCmd.label "Bewarje as…">
+<!ENTITY saveAsAttachmentCmd.accesskey "a">
+<!ENTITY detachAttachmentCmd.label "Untkeppelje…">
+<!ENTITY deleteAttachmentCmd.label "Fuortsmite">
+<!ENTITY saveAllAttachmentsCmd.label "Alles bewarje…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "s">
-<!ENTITY detachAllAttachmentsCmd.label "Alles ontkoppelen…">
+<!ENTITY detachAllAttachmentsCmd.label "Alles ûntkeppelje…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "k">
-<!ENTITY deleteAllAttachmentsCmd.label "Alles verwijderen…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "v">
+<!ENTITY deleteAllAttachmentsCmd.label "Alles fuortsmite…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "f">
 
-<!ENTITY copyLinkCmd.label "Koppelingslocatie kopiëren">
+<!ENTITY copyLinkCmd.label "Keppelingslokaasje kopiearje">
 <!ENTITY copyLinkCmd.accesskey "k">
 
-<!ENTITY CopyMessageId.label "Bericht-ID kopiëren">
-<!ENTITY OpenMessageForMsgId.label "Bericht voor ID openen">
-<!ENTITY OpenBrowserWithMsgId.label "Browser met bericht-ID openen">
+<!ENTITY CopyMessageId.label "Berjocht-ID kopiearje">
+<!ENTITY OpenMessageForMsgId.label "Berjocht foar ID iepenje">
+<!ENTITY OpenBrowserWithMsgId.label "Browser mei berjocht-ID iepenje">

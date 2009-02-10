@@ -1,19 +1,19 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Berichten downloaden en synchroniseren">
-<!ENTITY MsgSelect.label "Items voor offlinegebruik">
-<!ENTITY MsgSyncDesc.label "Als u reeds e-mailmappen of nieuwsgroepen hebt geselecteerd voor offlinegebruik, kunt u ze nu downloaden en/of synchroniseren. Gebruik anders de knop &quot;Selecteren&quot; om e-mailmappen en nieuwsgroepen te selecteren voor offlinegebruik.">
-<!ENTITY MsgSyncDirections.label "Het volgende downloaden en/of synchroniseren:">
-<!ENTITY syncTypeMail.label "E-mailberichten">
+<!ENTITY MsgSynchronize.label "Berjochten ynlade en syngronisearje">
+<!ENTITY MsgSelect.label "Items foar offline gebrûk">
+<!ENTITY MsgSyncDesc.label "As jo al e-mailmappen of nijsgroepen selektearre hawwe foar offline gebrûk, kinne jo se no ynlade en/of syngronisearje. Brûk oars de knop &quot;Selektearje&quot; om e-mailmappen en nijsgroepen te selektearjen foar offline gebrûk.">
+<!ENTITY MsgSyncDirections.label "It folgjende ynlade en/of syngronisearje:">
+<!ENTITY syncTypeMail.label "E-mailberjochten">
 <!ENTITY syncTypeMail.accesskey "E">
-<!ENTITY syncTypeNews.label "Nieuwsgroepberichten">
+<!ENTITY syncTypeNews.label "Nijsgroepberjochten">
 <!ENTITY syncTypeNews.accesskey "N">
-<!ENTITY sendMessage.label "Niet-verzonden berichten verzenden">
-<!ENTITY sendMessage.accesskey "v">
-<!ENTITY workOffline.label "Offline werken zodra het downloaden en/of synchroniseren is voltooid">
+<!ENTITY sendMessage.label "Net-ferstjoerde berjochten ferstjoere">
+<!ENTITY sendMessage.accesskey "f">
+<!ENTITY workOffline.label "Offline wurkje sadree it ynladen en/of syngronisearjen klear is">
 <!ENTITY workOffline.accesskey "O">
-<!ENTITY selectButton.label "Selecteren...">
+<!ENTITY selectButton.label "Selektearje...">
 <!ENTITY selectButton.accesskey "S">
-<!ENTITY MsgSelectDesc.label "Kies e-mailmappen en nieuwsgroepen voor offlinegebruik.">
-<!ENTITY MsgSelectInd.label "Downloaden">
-<!ENTITY MsgSelectItems.label "Mappen en nieuwsgroepen">
+<!ENTITY MsgSelectDesc.label "Kies e-mailmappen en nijsgroepen foar offline gebrûk.">
+<!ENTITY MsgSelectInd.label "Ynlade">
+<!ENTITY MsgSelectItems.label "Mappen en nijsgroepen">
