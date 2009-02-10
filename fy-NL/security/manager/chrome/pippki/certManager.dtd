@@ -78,7 +78,7 @@
 <!ENTITY certmgr.editcert.trustemail          "Dit sertifikaat kin e-mailbrûkers identifisearje.">
 <!ENTITY certmgr.editcert.trustobjsign        "Dit sertifikaat kin makkers fan programmatuer identifisearje.">
 <!ENTITY certmgr.editsslcert.edittrust        "Sertifikaat-fertrouwensynstellings bewurkje:">
-<!ENTITY certmgr.editsslcert.dotrust          "Fertrouw de echtheid fan dit sertifikaat.">
+<!ENTITY certmgr.editsslcert.dotrust          "Fertrou de echtheid fan dit sertifikaat.">
 <!ENTITY certmgr.editsslcert.donttrust 		  "Wantrouw de echtheid fan dit sertifikaat.">
 <!ENTITY certmgr.editemailcert.title          "E-mailsertifikaat-fertrouwensynstellings bewurkje">
 <!ENTITY certmgr.editemailcert.edittrust      "Sertifikaat-fertrouwensynstellings bewurkje:">
@@ -97,7 +97,7 @@
 <!ENTITY certmgr.typesofoverrides             "Utsûnderings">
 <!ENTITY certmgr.override_lifetime            "Libbensdoer">
 <!ENTITY certmgr.tokenname 					  "Befeiligingsapparaat">
-<!ENTITY certmgr.purpose 					  "Doeleinden">
+<!ENTITY certmgr.purpose 					  "Doeleinen">
 <!ENTITY certmgr.issued 					  "Utjûn op">
 <!ENTITY certmgr.expires 					  "Ferrint op">
 <!ENTITY certmgr.email 						  "E-mailadres">
@@ -117,9 +117,9 @@
 <!ENTITY certmgr.export.accesskey             "k">
 <!ENTITY certmgr.delete2.label 				  "Fuorsmite...">
 <!ENTITY certmgr.delete2.accesskey            "F">
-<!ENTITY certmgr.backup2.label 				  "Reservekopie meitsje...">
+<!ENTITY certmgr.backup2.label 				  "Reservekopy meitsje...">
 <!ENTITY certmgr.backup2.accesskey            "R">
-<!ENTITY certmgr.backupall2.label 			  "Reservekopie fan alles meitsje...">
+<!ENTITY certmgr.backupall2.label 			  "Reservekopy fan alles meitsje...">
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label				  "Ymportearje....">
 <!ENTITY certmgr.restore2.accesskey           "Y">

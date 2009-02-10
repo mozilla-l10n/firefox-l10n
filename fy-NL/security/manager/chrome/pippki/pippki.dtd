@@ -77,7 +77,7 @@
 <!ENTITY downloadCert.viewCert.label "Werjaan">
 <!ENTITY downloadCert.viewPolicy.label "Belied">
 <!ENTITY downloadCert.viewCert.text "CA-sertifikaat bestudearje">
-<!ENTITY downloadCert.viewPolicy.text "CA-belied en -procedures bestudearje">
+<!ENTITY downloadCert.viewPolicy.text "CA-belied en -prosedueres bestudearje">
 
 <!-- Certificate Exists in database -->
 <!ENTITY caCertExists.title "Sertifikaat bestiet">
@@ -85,40 +85,40 @@
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Brûkersydentifikaasjefersyk">
-<!ENTITY clientAuthAsk.message1 "Dizze webstee fersykt jo om josels te ydentifisearjen mei in befeiligingssertifikaat:">
+<!ENTITY clientAuthAsk.message1 "Dizze webstee fersiket jo om josels te ydentifisearjen mei in befeiligingssertifikaat:">
 <!ENTITY clientAuthAsk.message2 "Kies in sertifikaat om as ydentifikaasje te presentearjen:">
-<!ENTITY clientAuthAsk.message3 "Details fan it selekteare sertifikaat:">
+<!ENTITY clientAuthAsk.message3 "Details fan it selektearre sertifikaat:">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Sertifikaat selektearje">
 <!ENTITY certPicker.info  "Sertifikaat:">
 <!ENTITY certPicker.detailsLabel "Details fan it selektearre sertifikaat:">
 
-<!ENTITY pkcs12.setpassword.title  "Kies in wachtwurd foar de reservekopie fan it sertifikaat">
-<!ENTITY pkcs12.setpassword.message  "It wachtwurd foar de reservekopie fan it sertifikaat dat jo hjir ynstelle beskermt it reserverkopiebestân dat jo op it punt stean te meitsjen.  Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopie.">
-<!ENTITY pkcs12.setpassword.label1 "Wachtwurd foar de reservekopie fan it sertifikaat:">
-<!ENTITY pkcs12.setpassword.label2 "Wachtwurd foar de reservekopie fan it sertifikaat (op 'e nij):">
-<!ENTITY pkcs12.setpassword.reminder "Belangryk: as jo jo wachtwurd foar de reservekopie fan it sertifikaat fejitte, kinne jo dizze reservekopie letter net ferhelpe.  Bewarje it op in feilige plek.">
+<!ENTITY pkcs12.setpassword.title  "Kies in wachtwurd foar de reservekopy fan it sertifikaat">
+<!ENTITY pkcs12.setpassword.message  "It wachtwurd foar de reservekopy fan it sertifikaat dat jo hjir ynstelle beskermt it reserverkopybestân dat jo op it punt stean te meitsjen.  Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopy.">
+<!ENTITY pkcs12.setpassword.label1 "Wachtwurd foar de reservekopy fan it sertifikaat:">
+<!ENTITY pkcs12.setpassword.label2 "Wachtwurd foar de reservekopy fan it sertifikaat (op 'e nij):">
+<!ENTITY pkcs12.setpassword.reminder "Belangryk: as jo jo wachtwurd foar de reservekopy fan it sertifikaat fejitte, kinne jo dizze reservekopy letter net ferhelpe.  Bewarje it op in feilich plak.">
 
-<!ENTITY pkcs12.getpassword.title  "Wachtwurdynfierdialoogfinster">
-<!ENTITY pkcs12.getpassword.message "Fier it wachtwurd yn dat brûkt wurde by it kodearjen fan de reservekopie fan dit sertifikaat.">
+<!ENTITY pkcs12.getpassword.title  "Wachtwurdynfierdialoochfinster">
+<!ENTITY pkcs12.getpassword.message "Fier it wachtwurd yn dat brûkt wurde by it kodearjen fan de reservekopy fan dit sertifikaat.">
 
-<!ENTITY chooseToken.title  "Tokenkardialoogfinster">
+<!ENTITY chooseToken.title  "Tokenkardialoochfinster">
 <!ENTITY chooseToken.message1 "Kies in token.">
 
-<!ENTITY escrowWarn.title "kodearingskaaikopie">
-<!ENTITY escrowWarn.message1 "Belangryk: dizze sertifikaasjeautoriteit hat jo frege om in reservekopie te meitsjen fan jo privee-befeiligingskaai.">
-<!ENTITY escrowWarn.benefit1 "Het foardiel is dat as jo de tagang ta jo privee-befeiligingskaai ferlieze, jo in kopie opfreegje kinne by dizze sertifikaasjeautoriteit.">
-<!ENTITY escrowWarn.message2 "Jo privee-befeiligingskaai wurdt echter bewarre troch de sertifikaasjeautoriteit en soe brûkt wurde kinne om sûnder jo tastemming jo kodearre e-mail of dokumenten te lêzen.">
+<!ENTITY escrowWarn.title "kodearingskaaikopy">
+<!ENTITY escrowWarn.message1 "Belangryk: dizze sertifikaasjeautoriteit hat jo frege om in reservekopy te meitsjen fan jo privee-befeiligingskaai.">
+<!ENTITY escrowWarn.benefit1 "It foardiel is dat as jo de tagong ta jo privee-befeiligingskaai ferlieze, jo in kopy opfreegje kinne by dizze sertifikaasjeautoriteit.">
+<!ENTITY escrowWarn.message2 "Jo privee-befeiligingskaai wurdt echter bewarre troch de sertifikaasjeautoriteit en soe brûkt wurde kinne om sûnder jo tastemming jo kodearre e-mail of dokuminten te lêzen.">
 <!ENTITY examineCert.label "Toan Sertifikaat">
 <!ENTITY examineCert.accesskey "T">
 
-<!ENTITY serverCrlNextupdate.message "Freegje jo systeembehearder om assistentie">
+<!ENTITY serverCrlNextupdate.message "Freegje jo systeembehearder om assistinsje">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Dwaande in privee-kaai te meitsjen">
 <!ENTITY createCertInfo.msg1 "Dwaande kaai te meitsjen... Dit kin in pear minuten dourje...">
-<!ENTITY createCertInfo.msg2 "In moment geduld asjobleaft...">
+<!ENTITY createCertInfo.msg2 "In momint geduld asjobleaft...">
 
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Tekstûndertekeningsfersyk">
@@ -131,5 +131,5 @@
 <!ENTITY protectedAuth.tokenName.label "Token:">
 
 <!ENTITY certErrorDlg.title "Feilige ferbining mislearre">
-<!ENTITY certErrorDlg.info1 "Dit kin in probleem mei de tsjinner syn konfiguraasje wêze of it kin ien wêze dy't besyket sich foar te dwaan as de tsjinner.">
+<!ENTITY certErrorDlg.info1 "Dit kin in probleem mei de tsjinner syn konfiguraasje wêze of it kin ien wêze dy't besiket sich foar te dwaan as de tsjinner.">
 <!ENTITY certErrorDlg.info2 "As it yn it ferline slagge is om ferbining te meitsjen mei dizze tsjinner kin de flater tydlik wêze en kinne jo it letter nochris besykje.">
