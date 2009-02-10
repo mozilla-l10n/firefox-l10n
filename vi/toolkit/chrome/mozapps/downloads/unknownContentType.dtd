@@ -48,7 +48,7 @@
 <!ENTITY  saveFile.label              "Lưu Tập Tin">
 <!ENTITY  saveFile.accesskey          "L">
 
-<!ENTITY  rememberChoice.label        "Tự động xử lí tương tự đối với những tập tin thuộc kiểu này từ bây giờ trở đi.">
+<!ENTITY  rememberChoice.label        "Tự động xử lí tương tự đối với các tập tin kiểu này kể từ bây giờ trở đi.">
 <!ENTITY  rememberChoice.accesskey    "T">
 
 <!ENTITY  whichIsA.label              "là một:">
