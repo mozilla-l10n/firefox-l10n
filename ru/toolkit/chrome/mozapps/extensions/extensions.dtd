@@ -124,7 +124,7 @@
 <!ENTITY searchResultConnecting.label "Идёт соединение…">
 <!ENTITY searchResultInstalling.label "Идёт установка…">
 <!ENTITY searchResultFailed.label "Установка не удалась">
-<!ENTITY searchResultInstalled.label "Установка завершения">
+<!ENTITY searchResultInstalled.label "Установка завершена">
 <!ENTITY addonTypeExtension.label "Расширение">
 <!ENTITY addonTypeTheme.label "Тема">
 <!ENTITY missingThumbnail.label "Нет предпросмотра">
