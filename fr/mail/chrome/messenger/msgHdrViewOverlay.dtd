@@ -58,9 +58,9 @@
 <!ENTITY editMessageDescription.label "Ceci est un brouillon">
 <!ENTITY editMessageButton.label "Modifier…">
 <!ENTITY archiveButton.label "archiver">
-<!ENTITY replyButton.label "répondre">
-<!ENTITY forwardButton.label "faire suivre à">
-<!ENTITY junkButton.label "marquer comme indésirable">
+<!ENTITY hdrReplyButton.label "répondre">
+<!ENTITY hdrForwardButton.label "transférer">
+<!ENTITY hdrJunkButton.label "indésirable">
 <!ENTITY trashButton.tooltiptext "supprimer">
 
 <!ENTITY otherActionsButton.label "autres actions">
