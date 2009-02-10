@@ -129,8 +129,8 @@
 <!ENTITY recommendedHeader.label          "Oanrikkemandearre">
 <!ENTITY recommendedThrobber.label        "Oanrikkemandearre tafoegings krije">
 <!ENTITY searchThrobber.label             "Sykt no tafoegings">
-<!ENTITY resetSearch.label                "Risseltaten wisse">
-<!ENTITY noSearchResults.label            "Alle risseltaten binne al ynstallearre of net kompatibel.">
+<!ENTITY resetSearch.label                "Resultaten wisse">
+<!ENTITY noSearchResults.label            "Alle resultaten binne al ynstallearre of net kompatibel.">
 <!ENTITY noRecommendedResults.label       "Alle oanrikkemandearre binne al ynstallearre of net kompatibel.">
 <!ENTITY emptySearch.label                "Gjin oerienkommende tafoegings">
 <!ENTITY emptySearch.button               "Ok">
