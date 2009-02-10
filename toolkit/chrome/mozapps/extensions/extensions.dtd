@@ -20,8 +20,8 @@
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label        "மேம்படுத்தல்களை தேடு">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Finds Updates to your Add-ons">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Finds Updates to your Themes">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "உங்கள் கூடுதல் இணைப்புகளில் மேம்படுத்தலை தேடுகிறது">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "உங்கள் தீம்களில் மேம்படுத்தலை தேடுகிறது">
 <!ENTITY cmd.installLocalFile.label       "நிறுவு…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "ஒரு கூடுதல் இணைப்பை நிறுவு">
@@ -31,61 +31,61 @@
 <!ENTITY cmd.installUpdatesAll.tooltip    "தேர்ந்தெடுக்கப்பட்ட மேம்படுத்தல்களை நிறுவுகிறது">
 <!ENTITY cmd.restartApp2.label            "&brandShortName;ஐ மறுதுவக்கு">
 <!ENTITY cmd.restartApp2.accesskey        "R">
-<!ENTITY cmd.restartApp2.tooltip          "Restart &brandShortName; to apply changes">
+<!ENTITY cmd.restartApp2.tooltip          "மாற்றங்களை செயல்படுத்த &brandShortName;ஐ செயல்படுத்துகிறது">
 <!ENTITY cmd.skip.label                   "தவிர்">
 <!ENTITY cmd.skip.accesskey               "k">
 <!ENTITY cmd.skip.tooltip                 "இந்த மேம்படுத்தல்களை தவிர்">
 <!ENTITY cmd.continue.label               "தொடரவும்">
 <!ENTITY cmd.continue.accesskey           "C">
-<!ENTITY cmd.continue.tooltip             "Continue loading &brandShortName;">
+<!ENTITY cmd.continue.tooltip             "&brandShortName; ஏற்றுவதைத் தொடர்கிறது">
 
 <!ENTITY cmd.enableAll.label              "அனைத்தையும் செயல்படுத்து">
 <!ENTITY cmd.enableAll.accesskey          "a">
-<!ENTITY cmd.enableAll.tooltip            "Enable all displayed Add-ons">
+<!ENTITY cmd.enableAll.tooltip            "காட்டப்பட்ட அனைத்து கூடுதல் இணைப்புகளையும் செயல்படுத்து">
 <!ENTITY cmd.disableAll.label             "அனைத்தையும் செயல்நீக்கு">
 <!ENTITY cmd.disableAll.accesskey         "s">
-<!ENTITY cmd.disableAll.tooltip           "Disable all displayed Add-ons">
+<!ENTITY cmd.disableAll.tooltip           "காட்டப்பட்ட அனைத்து கூடுதல் இணைப்புகளையும் செயல்நீக்கு">
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "தீம்மை பயன்படுத்து">
 <!ENTITY cmd.useTheme.accesskey           "T">
-<!ENTITY cmd.useTheme.tooltip             "Changes &brandShortName;'s Theme">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName;இன் தீம்மை மாற்றுகிறது">
 <!ENTITY cmd.options.label                "விருப்பங்கள்">
 <!ENTITY cmd.options.accesskey            "O">
-<!ENTITY cmd.options.tooltip              "Set Options for the selected Extension">
+<!ENTITY cmd.options.tooltip              "தேர்ந்தெடுக்கப்பட்ட விரிவாக்கத்திற்கு விருப்பங்களை அமை">
 <!ENTITY cmd.optionsUnix.label            "முன்னுரிமைகள்">
 <!ENTITY cmd.optionsUnix.accesskey        "r">
-<!ENTITY cmd.optionsUnix.tooltip          "Edit Preferences for the selected Extension">
+<!ENTITY cmd.optionsUnix.tooltip          "தேர்ந்தெடுக்கப்பட்ட விரிவாக்கத்திற்கு முன்னுரிமைகளை திருத்து">
 <!ENTITY cmd.enable.label                 "செயல்படுத்து">
 <!ENTITY cmd.enable.accesskey             "E">
-<!ENTITY cmd.enable.tooltip               "Enable this Add-on when &brandShortName; is restarted">
+<!ENTITY cmd.enable.tooltip               "&brandShortName; மறுதுவக்கப்படும் போது இந்த கூடுதல் இணைப்பை செயல்படுத்து">
 <!ENTITY cmd.disable.label                "செயல்நீக்கு">
 <!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "Disable this Add-on when &brandShortName; is restarted">
+<!ENTITY cmd.disable.tooltip              "&brandShortName; மறுதுவக்கப்படும் போது இந்த கூடுதல் இணைப்பை செயல்நீக்கு">
 <!ENTITY cmd.uninstall.label              "நிறுவல் நீக்கு">
 <!ENTITY cmd.uninstall2.accesskey         "U">
-<!ENTITY cmd.uninstall2.tooltip           "Uninstall this Add-on when &brandShortName; is restarted">
+<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; மறுதுவக்கப்படும் போது இந்த கூடுதல் இணைப்பை நிறுவல் நீக்கு">
 <!ENTITY cmd.cancelUninstall.label        "நிறுவல் நீக்கத்தை ரத்து செய்">
 <!ENTITY cmd.cancelUninstall.accesskey    "C">
-<!ENTITY cmd.cancelUninstall.tooltip      "Cancel the uninstall of this Add-on">
+<!ENTITY cmd.cancelUninstall.tooltip      "இந்த கூடுதல் இணைப்பின் நிறுவல் நீக்கலை ரத்து செய்">
 <!ENTITY cmd.cancelInstall.label          "நிறுவலை ரத்து செய்">
 <!ENTITY cmd.cancelInstall.accesskey      "C">
-<!ENTITY cmd.cancelInstall.tooltip        "Cancel the install of this Add-on">
+<!ENTITY cmd.cancelInstall.tooltip        "இந்த கூடுதல் இணைப்பின் நிறுவலை ரத்து செய்">
 <!ENTITY cmd.cancelUpgrade.label          "மேம்படுத்தலை ரத்து செய்">
 <!ENTITY cmd.cancelUpgrade.accesskey      "C">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Cancel the upgrade of this Add-on">
+<!ENTITY cmd.cancelUpgrade.tooltip        "இந்த கூடுதல் இணைப்பின் மேம்படுத்தலை ரத்து செய்">
 <!ENTITY cmd.installUpdate.label          "மேம்படுத்தலை நிறுவு">
 <!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "Install an update for this Add-on">
+<!ENTITY cmd.installUpdate.tooltip        "இந்த கூடுதல் இணைப்புக்கு ஒரு மேம்படுத்தலை நிறுவு">
 <!ENTITY cmd.showUpdateInfo.label         "தகவலைக் காட்டு">
 <!ENTITY cmd.showUpdateInfo.accesskey     "S">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Show more information about these updates">
+<!ENTITY cmd.showUpdateInfo.tooltip       "இந்த மேம்படுத்தல்கள் பற்றிய மேலும் தகவல்களை காட்டு">
 <!ENTITY cmd.hideUpdateInfo.label         "தகவலை மறை">
 <!ENTITY cmd.hideUpdateInfo.accesskey     "H">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Hide information about these updates">
-<!ENTITY cmd.installSearchResult.label     "Add to &brandShortName;…">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "இந்த மேம்படுத்தல்கள் பற்றிய தகவல்களை மறை">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName; க்கு சேர்…">
 <!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip   "Download and install this add-on">
+<!ENTITY cmd.installSearchResult.tooltip   "இந்த கூடுதல் இணைப்பைப் பதிவிறக்கி நிறுவு">
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label                     "ரத்து">
 <!ENTITY cancel.accesskey                 "C">
@@ -106,18 +106,18 @@
 <!ENTITY cmd.includeUpdate.accesskey      "n">
 <!ENTITY includeUpdate.label              "இந்த மேம்படுத்தலை சேர்">
 <!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "Include this Add-on when installing the updates">
+<!ENTITY includeUpdate.tooltip            "மேம்படுத்தல்களை நிறுவும் போது இந்த கூடுதல் இணைப்பையும் சேர்">
 
 <!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Does not provide secure updates.">
-<!ENTITY needsDependencies.label          "Requires additional items.">
-<!ENTITY blocklisted.label                "Disabled for your protection.">
-<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
-<!ENTITY toBeDisabled.label               "This add-on will be disabled when &brandShortName; is restarted.">
-<!ENTITY toBeEnabled.label                "This add-on will be enabled when &brandShortName; is restarted.">
-<!ENTITY toBeInstalled.label              "This add-on will be installed when &brandShortName; is restarted.">
-<!ENTITY toBeUninstalled.label            "This add-on will be uninstalled when &brandShortName; is restarted.">
-<!ENTITY toBeUpdated.label                "This add-on will be updated when &brandShortName; is restarted.">
+<!ENTITY insecureUpdate.label             "பாதுகாப்பு மேம்படுத்தல்களை கொடுக்கவில்லை.">
+<!ENTITY needsDependencies.label          "கூடுதல் உருப்படிகள் தேவைப்படுகிறது.">
+<!ENTITY blocklisted.label                "உங்கள் பாதுகாப்பை செயல்நீக்கியுள்ளது.">
+<!ENTITY softBlocklisted.label            "பாதுகாப்பு அல்லது நிலைப்புத்தன்மை சிக்கல்களை ஏற்படுத்தலாம்.">
+<!ENTITY toBeDisabled.label               "இந்த கூடுதல் இணைப்பு &brandShortName; மறுதுவக்கப்படும் போது செயல்நீக்கப்படும்.">
+<!ENTITY toBeEnabled.label                "இந்த கூடுதல் இணைப்பு &brandShortName; மறுதுவக்கப்படும் போது செயல்படுத்தப்படும்.">
+<!ENTITY toBeInstalled.label              "இந்த கூடுதல் இணைப்பு &brandShortName; மறுதுவக்கப்படும் போது நிறுவப்படும்.">
+<!ENTITY toBeUninstalled.label            "இந்த கூடுதல் இணைப்பு &brandShortName; மறுதுவக்கப்படும் போது நிறுவல் நீக்கப்படும்.">
+<!ENTITY toBeUpdated.label                "இந்த கூடுதல் இணைப்பு &brandShortName; மறுதுவக்கப்படும் போது மேம்படுத்தப்படும்.">
 
 <!ENTITY getExtensions.label              "விரிவாக்கங்களை பெறு">
 <!ENTITY getThemes.label                  "தீம்களை பெறு">
@@ -130,8 +130,8 @@
 <!ENTITY recommendedThrobber.label        "பரிந்துரைக்கப்பட்ட கூடுதல் இணைப்புகளை எடுக்கிறது">
 <!ENTITY searchThrobber.label             "கூடுதல் இணைப்புகளை தேடுகிறது">
 <!ENTITY resetSearch.label                "முடிவுகளை துடை">
-<!ENTITY noSearchResults.label            "All results are already installed or incompatible.">
-<!ENTITY noRecommendedResults.label       "All recommendations are already installed or incompatible.">
+<!ENTITY noSearchResults.label            "அனைத்து தீர்வுகளும் ஏற்கனவே நிறுவப்பட்டது அல்லது ஏற்றதல்ல.">
+<!ENTITY noRecommendedResults.label       "அனைத்து பரிந்துரைகளும் ஏற்கனவே நிறுவப்பட்டது அல்லது ஏற்றதல்ல.">
 <!ENTITY emptySearch.label                "கூடுதல் இணைப்புகள் பொருந்தவில்லை">
 <!ENTITY emptySearch.button               "சரி">
 <!ENTITY cancelSearch.button              "ரத்து">
@@ -148,11 +148,11 @@
 <!ENTITY missingThumbnail.label           "முன்பார்வை இல்லை">
 
 <!ENTITY previewNoThemeSelected.label     "எந்த தீமும் தேர்ந்தெடுக்கப்படவில்லை">
-<!ENTITY previewNoPreviewImage.label      "This Theme does not have a Preview Image">
+<!ENTITY previewNoPreviewImage.label      "இந்த தீம் ஒரு முன்பார்வைப் படத்தைக் கொண்டிருக்கவில்லை">
 <!ENTITY moreInfo.label                   "மேலும் தகவலுக்கு">
 <!ENTITY infoNoAddonSelected.label        "எந்த மேம்படுத்தலும் தேர்ந்தெடுக்கப்படவில்லை">
-<!ENTITY infoNoUpdateInfo.label           "This update does not have any additional information">
-<!ENTITY infoUpdateInfoError.label        "There was an error loading the information about this update">
+<!ENTITY infoNoUpdateInfo.label           "இந்த மேம்படுத்தல் எந்த கூடுதல் தகவல்களையும் கொண்டிருக்கவில்லை">
+<!ENTITY infoUpdateInfoError.label        "இந்த மேம்படுத்தல் பற்றிய தகவலை ஏற்றும் போது ஒரு பிழை">
 
 <!ENTITY updateSuccess.label              "மேம்படுத்தல் முடிந்தது.">
 <!ENTITY installSuccess.label             "நிறுவல் முடிந்தது.">
