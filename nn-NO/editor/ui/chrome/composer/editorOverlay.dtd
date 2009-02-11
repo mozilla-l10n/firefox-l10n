@@ -80,7 +80,7 @@
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "m">
 <!ENTITY printCmd.label "Skriv ut …">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "Lat att">
 <!ENTITY closeCmd.accesskey "L">

@@ -26,13 +26,13 @@
 <!ENTITY spellCheck.label                     "Køyr stavekontroll før meldingar vert sendte">
 <!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Kontroller staving medan du skriv">
-<!ENTITY spellCheckInline1.accesskey           "n">
+<!ENTITY spellCheckInline1.accesskey           "k">
 <!ENTITY languagePopup.label                  "Språk:">
 <!ENTITY languagePopup.accessKey              "S">
 <!ENTITY downloadDictionaries.label           "Last ned fleire ordbøker">
 
 <!ENTITY warnOnSendAccelKey.label             "Stadfest når tastatursnarveg vert brukt for å sende meldingar">
-<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY warnOnSendAccelKey.accesskey         "S">
 <!ENTITY autoSave.label                       "Automatisk lagring kvart">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minutt">
@@ -47,7 +47,7 @@
 <!ENTITY directories.accesskey                 "K">
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Rediger katalogar …">
-<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY editDirectories.accesskey             "R">
 
 <!ENTITY sendOptionsDescription.label          "Konfigurer åtferda til tekstformatet">
 <!ENTITY sendOptions.label                     "Sendeinnstillingar …">

@@ -3,7 +3,7 @@
 <!ENTITY editfield0.label "Brukarnamn:"> 
 <!ENTITY editfield1.label "Passord:"> 
 <!ENTITY editfield2.label "Stadfest passord:"> 
-<!ENTITY checkbox.label   "avkryss">
+<!ENTITY checkbox.label   "kryss av">
 <!ENTITY copyCmd.label    "Kopier">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Merk alt">

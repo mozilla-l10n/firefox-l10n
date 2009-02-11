@@ -7,12 +7,12 @@
 <!ENTITY viewUnread.label "Ulesne">
 <!ENTITY viewUnread.accesskey "U">
 <!ENTITY viewNotDeleted.label "Ikkje sletta">
-<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewNotDeleted.accesskey "i">
 <!ENTITY viewTags.label "Merkelappar">
-<!ENTITY viewTags.accesskey "T">
-<!ENTITY viewCustomViews.label "Eigne oversyn">
-<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewTags.accesskey "m">
+<!ENTITY viewCustomViews.label "Eigendefinerte oversyn">
+<!ENTITY viewCustomViews.accesskey "E">
 <!ENTITY viewVirtualFolder.label "Lagre oversyn som mappe …">
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Tilpass …">
-<!ENTITY viewCustomizeView.accesskey "D">
+<!ENTITY viewCustomizeView.accesskey "T">

@@ -55,7 +55,7 @@
 <!ENTITY newevent.status.cancelled.label    "Avlyst" >
 <!ENTITY newevent.status.tentative.label    "Avventar" >
 <!ENTITY newevent.status.confirmed.label    "Stadfesta" >
-<!ENTITY newevent.status.needsaction.label  "Treng tilsyn" >
+<!ENTITY newevent.status.needsaction.label  "Treng handling" >
 <!ENTITY newevent.status.inprogress.label   "Under arbeid" >
 <!ENTITY newevent.status.completed.label    "Fullført" >
 
@@ -82,8 +82,8 @@
 <!ENTITY  event.menu.file.print.label                     "Skriv ut">
 <!ENTITY  event.menu.file.print.accesskey                 "k">
 
-<!ENTITY  event.menu.edit.label                           "Endre">
-<!ENTITY  event.menu.edit.accesskey                       "E">
+<!ENTITY  event.menu.edit.label                           "Rediger">
+<!ENTITY  event.menu.edit.accesskey                       "R">
 <!ENTITY  event.menu.edit.undo.label                      "Angre">
 <!ENTITY  event.menu.edit.undo.accesskey                  "A">
 <!ENTITY  event.menu.edit.redo.label                      "Gjer om">

@@ -2,7 +2,7 @@
 
 <!ENTITY copyAndFolderTitle.label "Kopiar og mapper">
 <!ENTITY sendingPrefix.label "Når meldingar vert sende: ">
-<!ENTITY fccMailFolder.label "Legg ein kopi i:">
+<!ENTITY fccMailFolder.label "Lagre ein kopi i:">
 <!ENTITY fccMailFolder.accesskey "g">
 <!ENTITY fccReplyFollowsParent.label "Legg svar i mappa der den opphavlege meldinga ligg">
 <!ENTITY fccReplyFollowsParent.accesskey "v">
@@ -23,14 +23,14 @@
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "«Arkiv»-mappa på:">
-<!ENTITY archivesFolderOn.accesskey "D">
+<!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Anna:">
 <!ENTITY archiveInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "«Malar»-mappa på:">
 <!ENTITY templatesFolderOn.accesskey "M">
 <!ENTITY templateInOtherFolder.label "Anna mappe:">
-<!ENTITY templateInOtherFolder.accesskey "n">
+<!ENTITY templateInOtherFolder.accesskey "a">
 <!ENTITY specialFoldersTitle.label "Utkast og malar">
 <!ENTITY keepDrafts.label "Ta vare på meldingsutkast i:">
 <!ENTITY keepArchives.label "Ta vare på meldingsarkiv i:">

@@ -2,14 +2,14 @@
 <!ENTITY sendMail.title               "Tekstformat">
 <!ENTITY sendMaildesc.label           "Ved sending av meldingar i HTML-format, og ein eller fleire mottakarar er oppførde som å ikkje kunne ta imot HTML:">
 <!ENTITY askMe.label                  "Spør meg om kva som skal gjerast">
-<!ENTITY askMe.accesskey              "k">
+<!ENTITY askMe.accesskey              "p">
 <!ENTITY convertPlain.label           "Konverter meldinga til rein tekst">
-<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY convertPlain.accesskey       "K">
 <!ENTITY sendHTML.label               "Send meldinga i HTML likevel">
-<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendHTML.accesskey           "S">
 <!ENTITY sendBoth.label               "Send meldinga som både tekst og HTML">
-<!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Merk: Bruk adresseboka til å oppgje føretrekt tekstformat for mottakarane.">
+<!ENTITY sendBoth.accesskey           "m">
+<!ENTITY override.label               "Merk: Bruk adresseboka til å gje opp føretrekt tekstformat for mottakarane.">
 
 <!ENTITY domaindesc.label             "Når du sender ei melding til ei adresse innanfor eit av domena som er lista under, vil &brandShortName; automatisk sende meldinga i det formatet som er valt.">
 <!ENTITY HTMLTab.label                "HTML-domene">

@@ -11,5 +11,5 @@
 
 <!ENTITY fileTypes.label              "Nedlastingshandlingar">
 <!ENTITY configureActions.label       "Vis og rediger handlingar …">
-<!ENTITY configureActions.accesskey   "n">
-<!ENTITY fileTypesDescription.label   "&brandShortName; kan lagre eller opne vedlegg av bestemte typar automatisk.">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "&brandShortName; kan automatisk lagre eller opne vedlegg av bestemte typar.">

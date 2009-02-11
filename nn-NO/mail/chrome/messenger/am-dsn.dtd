@@ -13,4 +13,4 @@
 <!ENTITY requestOnDelay.label       "Forseinka levering">
 <!ENTITY requestOnDelay.accesskey   "O">
 <!ENTITY requestNever.label         "Aldri ta imot leveringsstadfesting">
-<!ENTITY requestNever.accesskey     "D">
+<!ENTITY requestNever.accesskey     "d">

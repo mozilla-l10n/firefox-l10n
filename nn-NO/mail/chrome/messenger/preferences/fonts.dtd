@@ -17,8 +17,8 @@
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Skrift med fast teiknavstand:">
-<!ENTITY  monospace.accesskey                     "m">
+<!ENTITY  monospace.label                         "Fast teiknavstand:">
+<!ENTITY  monospace.accesskey                     "F">
 
 <!ENTITY  font.langGroup.latin1                   "Vestleg">
 <!ENTITY  font.langGroup.latin2                   "Sentraleuropeisk">
@@ -40,7 +40,7 @@
 <!ENTITY  font.langGroup.tamil                    "Tamilsk">
 <!ENTITY  font.langGroup.armenian                 "Armensk">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.canadian                 "Kanadisk">
 <!ENTITY  font.langGroup.ethiopic                 "Etiopisk">
 <!ENTITY  font.langGroup.georgian                 "Georgisk">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
@@ -64,9 +64,9 @@
 <!ENTITY sendDefaultCharset.label         "Utgåande e-post:">
 <!ENTITY sendDefaultCharset.accesskey     "U">
 <!ENTITY languagesTitle1.label            "Teiknkoding">
-<!ENTITY composingDescription.label       "Sett standard karakter for koding for sending og mottaking av e-post">
+<!ENTITY composingDescription.label       "Vel standard teiknkoding for sending og mottak av e-post">
 
 <!ENTITY viewDefaultCharsetList.label     "Innkomande e-post:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-<!ENTITY replyInDefaultCharset2.label     "Bruk standard karakter for å kode tilbakemeldingar">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset2.label     "Når mogleg, bruk standard teiknkoding i svar">
+<!ENTITY replyInDefaultCharset2.accesskey "N">

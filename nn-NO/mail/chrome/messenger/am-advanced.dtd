@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "Tenarnamn: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Brukarnamn: ">
-<!ENTITY connectionSecurity.label "Tilkoplings-sikkerheit: ">
+<!ENTITY connectionSecurity.label "Tilkoplingssikkerheit: ">
 <!ENTITY useSecureAuthentication.label   "Trygg autentiering: ">

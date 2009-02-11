@@ -6,4 +6,4 @@
 <!ENTITY rss.label "RSS-nyhendekjelder">
 
 <!ENTITY checkOnStartup.label "Konroller alltid dette når &brandShortName; startar">
-<!ENTITY checkOnStartup.accesskey "A">
+<!ENTITY checkOnStartup.accesskey "K">
