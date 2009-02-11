@@ -6,8 +6,8 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label "Activer l'indexation des messages">
-<!ENTITY enableGloda.accesskey "x">
+<!ENTITY enableGlodaSearch.label       "Activer la recherche et l'indexation globales">
+<!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemDefaults.label "Paramètres système par défaut">
 <!ENTITY alwaysCheckDefault.label "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
 <!ENTITY alwaysCheckDefault.accesskey "T">
