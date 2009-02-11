@@ -56,9 +56,9 @@
 <!ENTITY PagerNumber.accesskey "r">
 <!ENTITY FaxNumber.label "Faks">
 <!ENTITY FaxNumber.accesskey "x">
-<!ENTITY HomePhone.label "Telefoon thús">
+<!ENTITY HomePhone.label "Telefoan thús">
 <!ENTITY HomePhone.accesskey "f">
-<!ENTITY WorkPhone.label "Telefoon wurk">
+<!ENTITY WorkPhone.label "Telefoan wurk">
 <!ENTITY WorkPhone.accesskey "w">
 <!ENTITY ScreenName.label "Skermnamme">
 <!ENTITY ScreenName.accesskey "S">
