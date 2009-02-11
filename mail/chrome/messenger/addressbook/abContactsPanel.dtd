@@ -1,7 +1,7 @@
 <!ENTITY addressbookPicker.label            "Adresboek:">
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchInput.label                  "Sykje nei:">
-<!ENTITY searchInput.accesskey              "o">
+<!ENTITY searchInput.accesskey              "n">
 <!ENTITY SearchNameOrEmail.label            "Namme of e-mail">
 
 <!ENTITY deleteAddrBookCard.label           "Fuortsmite">
