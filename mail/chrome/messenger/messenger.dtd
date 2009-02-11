@@ -449,10 +449,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markButton.label "Markieren">
 <!ENTITY printButton.label "Drucken">
 <!ENTITY stopButton.label "Stopp">
-<!ENTITY throbberItem.title "Aktivitäts-Indikator">
+<!ENTITY throbberItem.title "Aktivitätsindikator">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Kein Junk">
 <!ENTITY addressBookButton.label "Adressbuch">
+<!ENTITY glodaSearch.title "Globale Suche">
 <!ENTITY searchItem.title "Schnellsuche">
 <!ENTITY mailViewsToolbarItem.title "Ansichten">
 <!ENTITY folderLocationToolbarItem.title "Ordner wechseln">
@@ -532,6 +533,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "Name oder E-Mail enthält:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Nachrichten suchen…">
+<!ENTITY glodaSearchBar.facet.label "Durchsuchen:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Alles">
+<!ENTITY glodaSearchFacet.subject.label "Betreff">
+<!ENTITY glodaSearchFacet.involves.label "Beteiligte (Von, An, CC, BCC)">
+<!ENTITY glodaSearchFacet.to.label "An, CC">
+<!ENTITY glodaSearchFacet.from.label "Von">
+<!ENTITY glodaSearchFacet.body.label "Nachrichtentext">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Namen der Anhänge">
+
+<!ENTITY glodaSearchBar.location.label "Ablageort:">
+<!ENTITY glodaSearchFacet.everywhere.label "Alle Ordner">
+<!ENTITY glodaSearchFacet.folder.label "In einem bestimmten Ordner…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Betreff">
 <!ENTITY searchFromMenu.label "Von">
@@ -561,6 +587,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Ablageort">
 <!ENTITY idColumn.label "Eingangsreihenfolge">
 <!ENTITY attachmentColumn.label "Anhänge">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Grund">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
@@ -583,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Klicken, um nach Ablageort zu sortieren">
 <!ENTITY idColumn.tooltip "Klicken, um nach Eingangsreihenfolge zu sortieren">
 <!ENTITY attachmentColumn.tooltip "Klicken, um nach Anhang zu sortieren">
+<!ENTITY glodaWhyColumn.tooltip "Klicken, um nach den Gründen für die Suchergebnisse zu sortieren">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "In neuem Fenster öffnen">
