@@ -37,11 +37,11 @@
 <!ENTITY cmd.open_window.accesskey      "v">
 <!ENTITY cmd.open_tab.label             "Openen in een nieuw tabblad">
 <!ENTITY cmd.open_tab.accesskey         "t">
-<!ENTITY cmd.open_all_in_tabs.label     "Alle openen in tabbladen">
-<!ENTITY cmd.open_all_in_tabs.accesskey "t">
 
-<!ENTITY bookmarkCmd.label              "Bladwijzers van deze koppelingen maken…">
-<!ENTITY bookmarkCmd.accesskey          "B">
+<!ENTITY bookmarkLinkCmd.label          "Bladwijzers van deze koppeling maken…">
+<!ENTITY bookmarkLinkCmd.accesskey      "B">
+<!ENTITY bookmarkLinksCmd.label         "Bladwijzers van deze koppelingen maken…">
+<!ENTITY bookmarkLinksCmd.accesskey     "B">
 
 <!ENTITY col.title.label                "Titel">
 <!ENTITY col.title.accesskey            "T">
