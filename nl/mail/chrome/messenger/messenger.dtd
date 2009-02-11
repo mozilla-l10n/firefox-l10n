@@ -451,6 +451,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY notJunkButton.label "Niet ongewenst">
 <!ENTITY addressBookButton.label "Adresboek">
 <!ENTITY searchItem.title "Snel zoeken">
+<!ENTITY glodaSearch.title "Globaal zoeken">
 <!ENTITY mailViewsToolbarItem.title "E-mailweergaven">
 <!ENTITY folderLocationToolbarItem.title "Maplocatie">
 <!ENTITY tagButton.label "Labelen">
@@ -532,6 +533,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "Naam of e-mail bevat:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Berichten zoeken…">
+<!ENTITY glodaSearchBar.facet.label "Doorzoek:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Alles">
+<!ENTITY glodaSearchFacet.subject.label "Onderwerp">
+<!ENTITY glodaSearchFacet.involves.label "Betreft (van,aan,cc,bcc)">
+<!ENTITY glodaSearchFacet.to.label "Aan, CC">
+<!ENTITY glodaSearchFacet.from.label "Van">
+<!ENTITY glodaSearchFacet.body.label "Berichttekst">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Bijlagenamen">
+
+<!ENTITY glodaSearchBar.location.label "Locatie:">
+<!ENTITY glodaSearchFacet.everywhere.label "Alle mappen">
+<!ENTITY glodaSearchFacet.folder.label "In een specifieke map…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Onderwerp">
 <!ENTITY searchFromMenu.label "Van">
@@ -561,6 +587,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Locatie">
 <!ENTITY idColumn.label "Volgorde van ontvangst">
 <!ENTITY attachmentColumn.label "Bijlagen">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Waarom">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klik om weer te geven kolommen te selecteren">
@@ -583,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
 <!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">
 <!ENTITY attachmentColumn.tooltip "Klik om te sorteren op bijlagen">
+<!ENTITY glodaWhyColumn.tooltip "Klik om te sorteren op waarom het bericht in uw zoekresultaten staat">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Bericht openen in nieuw venster">
