@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "For å ta i mot meldingar må du først opprette ein konto.">
+<!ENTITY accountSetupInfo.label "For å ta i mot meldingar må du først setje opp ein konto.">
 <!ENTITY accountTypeTitle.label "Innstillingar for ny konto">
-<!ENTITY accountTypeDesc.label "Denne vegvisaren vil samle saman informasjon som trengst for å setje opp ein ny konto. Om du ikkje har denne informasjonen, må du kontakte med systemansvarleg eller internett-leverandøren din.">
+<!ENTITY accountTypeDesc.label "Denne vegvisaren vil samle saman informasjonen som trengst for å setje opp ein ny konto. Om du ikkje har denne informasjonen, må du kontakte med systemansvarleg eller internett-leverandøren din.">
 <!ENTITY accountTypeDirections.label "Vel kontotype">
 <!ENTITY accountTypeMail.label "E-post">
 <!ENTITY accountTypeMail.accesskey "E">
@@ -17,7 +17,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitet">
-<!ENTITY identityDesc.label "Kvar konto har sin eigen identitet. Dette er den informasjonen som gjer at andre kan kjenne deg att når dei får ei melding frå deg.">
+<!ENTITY identityDesc.label "Kvar konto har ein identitet, som er den informasjonen som identifiserer deg til andre når dei får ei melding frå deg.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Skriv inn namnet du ønskjer skal stå i «Frå»-feltet på meldingane du sender">

@@ -55,8 +55,8 @@
 <!ENTITY daysOld.label "dagar gamle">
 <!ENTITY message.label "meldingar">
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldingar slettast permanent.">
-<!ENTITY retentionCleanupImap.label "For å redde diskplass, kan gamle meldingar verte permanent sletta, både lokale kopiar og originalar på ekstern tenar.">
-<!ENTITY retentionCleanupPop.label "For å redde diskplass, kan gamle meldingar verte permanent sletta, både lokale kopiar og originalar på ekstern tenar.">
+<!ENTITY retentionCleanupImap.label "For å spare diskplass, kan gamle meldingar verte permanent sletta, både lokale kopiar og originalar på e-posttenaren.">
+<!ENTITY retentionCleanupPop.label "For å spare diskplass, kan gamle meldingar slettast permanent, òg originalmeldingar på e-posttenaren.">
 <!ENTITY retentionDeleteMsg.label "Slett meldingar eldre enn">
 <!ENTITY retentionDeleteMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikkje slett meldingar">

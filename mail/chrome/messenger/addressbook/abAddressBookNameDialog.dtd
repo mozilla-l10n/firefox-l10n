@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY name.label			"Namn på adressebok:">
-<!ENTITY name.accesskey  "A">
+<!ENTITY name.label      "Namn på adressebok:">
+<!ENTITY name.accesskey  "N">

@@ -1,5 +1,5 @@
 <!ENTITY accountTitle.label "Kontoinnstillingar">
-<!ENTITY accountSettingsDesc.label "Dette er ein spesiell konto, som ikkje er knytt til ein identitet.">
+<!ENTITY accountSettingsDesc.label "Dette er ein spesiell konto, som ikkje er knytt til nokon identitet.">
 <!ENTITY accountName.label "Kontonamn:">
 <!ENTITY accountName.accesskey "K">
 <!ENTITY messageStorage.label "Meldingslagring">

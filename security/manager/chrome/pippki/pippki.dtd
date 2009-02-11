@@ -45,9 +45,9 @@
 <!ENTITY setPassword.meter.loading "Lastar">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Tilbakestill">
-<!ENTITY resetPassword.title  "Tilbakestill hovudpassord">
-<!ENTITY resetPassword.text  "Dersom du tilbakestiller hovudpassordet, vil alle nett- og e-post-passord, skjemadata, personlege sertifikat og private nøklar som er lagra gå tapt. Vil du tilbakestille hovudpassordet?">
+<!ENTITY resetPasswordButtonLabel "Still tilbake">
+<!ENTITY resetPassword.title  "Still tilbake hovudpassord">
+<!ENTITY resetPassword.text  "Dersom du stiller tilbake hovudpassordet, vil alle nett- og e-post-passord, skjemadata, personlege sertifikat og private nøklar som er lagra gå tapt. Vil du stille tilbake hovudpassordet?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Skriv inn hovudpassord">
@@ -56,14 +56,14 @@
 
 <!-- These should be common -->
 <!ENTITY piperror.title "Feil">
-<!ENTITY pipalert.title "Feil - kunne ikkje byggje opp att">
+<!ENTITY pipalert.title "Feil - kan ikkje byggje opp att">
 
 <!-- Prefs panel strings -->
 <!ENTITY pref.security.general.lHeader "Sikkerheit">
 <!ENTITY pref.security.general.rHeader "Innstillingar for generell sikkerheit">
 <!ENTITY pref.security.general.header "Innstillingar for sikkerheit">
 <!ENTITY pref.security.general.level.title "Sikkerheitsnivå">
-<!ENTITY pref.security.general.paranoid.label "Bruk paranoide sikkerheits-innstillingar">
+<!ENTITY pref.security.general.paranoid.label "Bruk paranoide sikkerheitsinnstillingar">
 <!ENTITY pref.security.general.certificates.title "Sertifikat">
 <!ENTITY pref.security.general.manageCert.label "Handsame sertifikat">
 
@@ -95,10 +95,10 @@
 <!ENTITY certPicker.detailsLabel "Detaljar om valt sertifikat:">
 
 <!ENTITY pkcs12.setpassword.title  "Vel passord for sikkerheitskopi av sertifikat">
-<!ENTITY pkcs12.setpassword.message  "Passordet for sikkerheitskopien du vel her, vernar sikkerheitskopi-fila du no vil opprette. Du må velje dette passordet for å halde fram med sikkerheitskopieringa.">
+<!ENTITY pkcs12.setpassword.message  "Passordet for sikkerheitskopien du vel her, vil verne sikkerheitskopi-fila du lagar no. Du må skrive inn dette passordet for å halde fram med sikkerheitskopieringa.">
 <!ENTITY pkcs12.setpassword.label1 "Passord for sikkerheitskopi:">
 <!ENTITY pkcs12.setpassword.label2 "Passord for sikkerheitskopi (igjen):">
-<!ENTITY pkcs12.setpassword.reminder "Viktig: Dersom du gløymer passordet til sikkerheitskopien, vil du ikkje kunne få attende innhaldet i sikkerheitskopien seinare. Skriv det ned på ein trygg sted.">
+<!ENTITY pkcs12.setpassword.reminder "Viktig: Dersom du gløymer passordet til sikkerheitskopien, vil du ikkje kunne få tilbake innhaldet i sikkerheitskopien seinare. Skriv det ned på ein trygg stad.">
 
 <!ENTITY pkcs12.getpassword.title  "Passorddialog">
 <!ENTITY pkcs12.getpassword.message "Skriv inn passordet som vart brukt for å kryptere denne sikkerheitskopien.">
@@ -108,8 +108,8 @@
 
 <!ENTITY escrowWarn.title "Krypteringsnøkkel-kopi">
 <!ENTITY escrowWarn.message1 "Viktig: Denne sertifikat-fullmakta (CA) har førespurd ein sikerheitskopi av dei private krypteringsnøklane dine.">
-<!ENTITY escrowWarn.benefit1 "Fordelen er at dersom du mister tilgjenget til den private krypteringsnøkkelen, so kan du be om ein ny kopi frå sertifikat-fullmakta (CA).">
-<!ENTITY escrowWarn.message2 "Den private krypteringsnøkkelen din vil verte lagra hjå sertifikat-fullmakta (CA), og kan verte brukt for å lese krypterte e-postar eller dokument utan løyve frå deg.">
+<!ENTITY escrowWarn.benefit1 "Fordelen er at dersom du mistar tilgjenget til den private krypteringsnøkkelen, så kan du be om ein ny kopi frå sertifikat-fullmakta (CA).">
+<!ENTITY escrowWarn.message2 "Den private krypteringsnøkkelen din vil bli lagra hos sertifikatutskrivaren (CA), og kan bli brukt for å lese kryptert e-post eller dokument utan løyve frå deg.">
 <!ENTITY examineCert.label "Vis sertifikat">
 <!ENTITY examineCert.accesskey "V">
 
@@ -126,10 +126,10 @@
 <!ENTITY formSigning.confirmPassword "For å stadfeste at du ønskjer å signere denne meldinga med det valde sertifikatet, skriv inn hovudpassordet.">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Verna symbolautentisering">
-<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
+<!ENTITY protectedAuth.title "Autentisering med verna teikn">
+<!ENTITY protectedAuth.msg "Gjer vel og autentiser teiknet. Autentiseringsmetoden er avhengig av type signeringseining">
 <!ENTITY protectedAuth.tokenName.label "Symbol:">
 
 <!ENTITY certErrorDlg.title "Sikkert samband feila">
 <!ENTITY certErrorDlg.info1 "Dette kan vere pga. eit problem med tenarkonfigurasjonen, eller at nokon prøver å gje seg ut for å vere tenaren.">
-<!ENTITY certErrorDlg.info2 "Dersom du har brukt denne tenaren tidlegare kan feilen vere mellombels, og du kan prøve å kople til igjen seinare.">
+<!ENTITY certErrorDlg.info2 "Dersom du har brukt denne tenaren tidlegare kan feilen vere mellombels, og du kan prøve å kople til på nytt seinare.">

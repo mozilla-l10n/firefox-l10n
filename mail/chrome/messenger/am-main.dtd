@@ -14,7 +14,7 @@
 <!ENTITY organization.label "Organisasjon:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Bruk denne signaturen:">
-<!ENTITY signature.accesskey "d">
+<!ENTITY signature.accesskey "k">
 <!ENTITY edit.label "Endre …">
 <!ENTITY choose.label "Vel …">
 <!ENTITY choose.accesskey "V">
@@ -22,7 +22,7 @@
 <!ENTITY editVCard.accesskey "R">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Legg ved kortet mitt (vCard)">
-<!ENTITY attachVCard.accesskey "g">
+<!ENTITY attachVCard.accesskey "m">
 
 <!ENTITY manageIdentities.label "Handsame identitetar …">
 <!ENTITY manageIdentities.accesskey "H">

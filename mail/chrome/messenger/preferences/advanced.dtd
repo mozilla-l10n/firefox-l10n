@@ -54,7 +54,7 @@
 <!ENTITY modeAutomatic.label            "Automatisk last ned og installer oppdateringa">
 <!ENTITY modeAutomatic.accesskey        "A">
 <!ENTITY modeAutoAddonWarn.label        "Åtvar meg om dette vil slå av utvidingar eller tema">
-<!ENTITY modeAutoAddonWarn.accesskey    "d">
+<!ENTITY modeAutoAddonWarn.accesskey    "Å">
 <!ENTITY showUpdates.label              "Vis oppdateringshistorikk">
 <!ENTITY showUpdates.accesskey          "V">
 

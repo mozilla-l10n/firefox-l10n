@@ -3,9 +3,9 @@
 
 <!ENTITY alertCustomization.intro         "Vel kva for felt som skal visast i varselmeldinga:">
 <!ENTITY previewText.label                "Førehandsvising av meldingstekst">
-<!ENTITY previewText.accesskey            "M">
+<!ENTITY previewText.accesskey            "F">
 <!ENTITY subject.label                    "Emne">
-<!ENTITY subject.accesskey                "S">
+<!ENTITY subject.accesskey                "E">
 <!ENTITY sender.label                     "Avsendar">
-<!ENTITY sender.accesskey                 "e">
+<!ENTITY sender.accesskey                 "A">
 

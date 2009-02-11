@@ -13,7 +13,7 @@
 <!ENTITY about.relnotes.afterLink     "for dette produktet.">
 
 <!ENTITY about.buildconfig.beforeLink "Sjå">
-<!ENTITY about.buildconfig.linkTitle  "Bygg-konfigurasjonen">
+<!ENTITY about.buildconfig.linkTitle  "bygginnstillingane">
 <!ENTITY about.buildconfig.afterLink  "brukt av denne versjonen.">
 
-<!ENTITY about.buildIdentifier        "Bygg-id">
+<!ENTITY about.buildIdentifier        "Byggidentifikasjon:">

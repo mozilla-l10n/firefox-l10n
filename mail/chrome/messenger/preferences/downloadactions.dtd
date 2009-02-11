@@ -5,13 +5,13 @@
 <!ENTITY  fileTypesDescription.label          "Utfør automatisk dei tilhøyrande handlingane med følgjande filtypar:">
 
 <!ENTITY  fileHandlerColumn.label             "Handling">
-<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileHandlerColumn.accesskey         "H">
 <!ENTITY  fileTypeColumn.label                "Filtype">
-<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileTypeColumn.accesskey            "F">
 <!ENTITY  fileMIMETypeColumn.label            "MIME-type">
 <!ENTITY  fileMIMETypeColumn.accesskey        "M">
-<!ENTITY  fileExtensionColumn.label           "Utviding">
-<!ENTITY  fileExtensionColumn.accesskey       "U">
+<!ENTITY  fileExtensionColumn.label           "Filtype">
+<!ENTITY  fileExtensionColumn.accesskey       "i">
 
 <!ENTITY  remove.label                        "Fjern handling">
 <!ENTITY  remove.accesskey                    "F">

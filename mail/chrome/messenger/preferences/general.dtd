@@ -17,9 +17,9 @@
 <!ENTITY customizeMailAlert.label         "Avansert …">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
-<!ENTITY play.label                       "Spel">
+<!ENTITY play.label                       "Spel av">
 <!ENTITY play.accesskey                   "p">
-<!ENTITY systemsound.label                "Standardsystemlyd for ny e-post">
+<!ENTITY systemsound.label                "Standard systemlyd for ny e-post">
 <!ENTITY systemsoundMac.label             "Systemlyd">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">

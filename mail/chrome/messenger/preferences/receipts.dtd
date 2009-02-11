@@ -1,22 +1,22 @@
 <!ENTITY dialog.title                  "Kvitteringar">
-<!ENTITY requestReceipt.label          "Spør alltid etter kvittering ved sending av e-post">
-<!ENTITY requestReceipt.accesskey      "V">
+<!ENTITY requestReceipt.label          "Spør alltid om kvittering ved sending av e-post">
+<!ENTITY requestReceipt.accesskey      "S">
 <!ENTITY receiptArrive.label           "Når ei kvittering vert motteken:">
 <!ENTITY leaveIt.label                 "Lat ho liggje i innboksen">
-<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY leaveIt.accesskey             "L">
 <!ENTITY moveToSent.label              "Flytt ho til «Sendt»-mappa">
-<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY moveToSent.accesskey          "F">
 <!ENTITY requestMDN.label              "Når eg mottek førespurnad for kvittering:">
 <!ENTITY never.label                   "Send aldri kvitteringar">
-<!ENTITY never.accesskey               "n">
+<!ENTITY never.accesskey               "a">
 <!ENTITY returnSome.label              "Tillat kvitteringar for nokre meldingar">
-<!ENTITY returnSome.accesskey          "r">
-<!ENTITY notInToCc.label               "Viss eg ikkje er i Til- eller Cc-feltet på meldinga:">
-<!ENTITY notInToCc.accesskey           "f">
+<!ENTITY returnSome.accesskey          "T">
+<!ENTITY notInToCc.label               "Om eg ikkje er i Til- eller Cc-feltet:">
+<!ENTITY notInToCc.accesskey           "O">
 <!ENTITY outsideDomain.label           "Om sendaren er utanfor domenet mitt:">
-<!ENTITY outsideDomain.accesskey       "t">
-<!ENTITY otherCases.label              "I alle andre tilfelle:">
-<!ENTITY otherCases.accesskey          "a">
+<!ENTITY outsideDomain.accesskey       "m">
+<!ENTITY otherCases.label              "I alle andre høve:">
+<!ENTITY otherCases.accesskey          "I">
 <!ENTITY askMe.label                   "Spør meg">
 <!ENTITY alwaysSend.label              "Send alltid">
 <!ENTITY neverSend.label               "Send aldri">

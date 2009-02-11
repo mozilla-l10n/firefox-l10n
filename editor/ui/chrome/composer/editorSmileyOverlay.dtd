@@ -49,13 +49,13 @@
 <!ENTITY smiley3Cmd.accesskey "W">
 <!ENTITY smiley3Cmd.tooltip "Set inn blink">
 <!ENTITY smiley4Cmd.label "Geip">
-<!ENTITY smiley4Cmd.accesskey "T">
+<!ENTITY smiley4Cmd.accesskey "G">
 <!ENTITY smiley4Cmd.tooltip "Set inn geip">
 <!ENTITY smiley5Cmd.label "Flirar">
 <!ENTITY smiley5Cmd.accesskey "L">
 <!ENTITY smiley5Cmd.tooltip "Set inn smilefjes">
 <!ENTITY smiley6Cmd.label "Brydd">
-<!ENTITY smiley6Cmd.accesskey "E">
+<!ENTITY smiley6Cmd.accesskey "B">
 <!ENTITY smiley6Cmd.tooltip "Set inn brydd smilefjes">
 <!ENTITY smiley7Cmd.label "Ubestemt">
 <!ENTITY smiley7Cmd.accesskey "U">
@@ -69,23 +69,23 @@
 <!ENTITY smiley10Cmd.label "Skrik">
 <!ENTITY smiley10Cmd.accesskey "Y">
 <!ENTITY smiley10Cmd.tooltip "Set inn smilefjesskrik">
-<!ENTITY smiley11Cmd.label "Cool">
-<!ENTITY smiley11Cmd.accesskey "C">
-<!ENTITY smiley11Cmd.tooltip "Set inn cool-smilefjes">
+<!ENTITY smiley11Cmd.label "Kul">
+<!ENTITY smiley11Cmd.accesskey "K">
+<!ENTITY smiley11Cmd.tooltip "Set inn kult smilefjes">
 <!ENTITY smiley12Cmd.label "Pengemunn">
-<!ENTITY smiley12Cmd.accesskey "M">
+<!ENTITY smiley12Cmd.accesskey "P">
 <!ENTITY smiley12Cmd.tooltip "Set inn pengemunn-fjes">
 <!ENTITY smiley13Cmd.label "Fot-i-munn">
 <!ENTITY smiley13Cmd.accesskey "o">
 <!ENTITY smiley13Cmd.tooltip "Set inn Fot-i-munn-fjes">
 <!ENTITY smiley14Cmd.label "Uskuldig">
-<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.accesskey "U">
 <!ENTITY smiley14Cmd.tooltip "Set inn uskuldig smilefjes">
 <!ENTITY smiley15Cmd.label "Gråtande">
-<!ENTITY smiley15Cmd.accesskey "r">
+<!ENTITY smiley15Cmd.accesskey "G">
 <!ENTITY smiley15Cmd.tooltip "Set inn gråtande smilefjes">
 <!ENTITY smiley16Cmd.label "Munnen-er-forsegla">
-<!ENTITY smiley16Cmd.accesskey "a">
+<!ENTITY smiley16Cmd.accesskey "M">
 <!ENTITY smiley16Cmd.tooltip "Set inn munnen-er-forsegla-smil">
 <!ENTITY SmileButton.tooltip "Set inn smilefjes">
 
