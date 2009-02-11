@@ -135,7 +135,7 @@ it berjocht lêzen is. It oanfinken fan dit fak stiet it laden fan dizze ekstern
 <!ENTITY WorkAddress2.label				"">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label					"Plak:">
-<!ENTITY WorkCity.accesskey             "S">
+<!ENTITY WorkCity.accesskey             "P">
 <!ENTITY WorkState.label				"Provinsje:">
 <!ENTITY WorkState.accesskey            "v">
 <!ENTITY WorkZipCode.label "Postkoade:">
