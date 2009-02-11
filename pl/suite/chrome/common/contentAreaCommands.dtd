@@ -52,7 +52,7 @@
 <!ENTITY bookmarkPageCmd.label "Dodaj zakładkę do strony">
 <!ENTITY bookmarkPageCmd.accesskey "D">
 <!ENTITY bookmarkLinkCmd.label "Dodaj zakładkę do odnośnika">
-<!ENTITY bookmarkLinkCmd.accesskey "e">
+<!ENTITY bookmarkLinkCmd.accesskey "a">
 <!ENTITY bookmarkFrameCmd.label "Dodaj zakładkę do ramki">
 <!ENTITY bookmarkFrameCmd.accesskey "D">
 <!ENTITY savePageAsCmd.label "Zapisz stronę jako…">
@@ -69,9 +69,9 @@
 <!ENTITY saveImageCmd.label "Zapisz obrazek">
 <!ENTITY saveImageCmd.accesskey "b">
 <!ENTITY saveVideoCmd.label "Zapisz wideo jako…">
-<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveVideoCmd.accesskey "w">
 <!ENTITY saveAudioCmd.label "Zapisz dźwięk jako…">
-<!ENTITY saveAudioCmd.accesskey "v">
+<!ENTITY saveAudioCmd.accesskey "d">
 <!ENTITY copyCmd.label "Kopiuj">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Zaznacz wszystko">
@@ -101,17 +101,17 @@
 <!ENTITY thisFrameMenu.label "Ramka">
 <!ENTITY thisFrameMenu.accesskey "r">
 <!ENTITY mediaPlay.label "Odtwórz">
-<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPlay.accesskey "z">
 <!ENTITY mediaPause.label "Wstrzymaj">
-<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaPause.accesskey "z">
 <!ENTITY mediaMute.label "Wycisz">
-<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaMute.accesskey "y">
 <!ENTITY mediaUnmute.label "Przywróć głośność">
-<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaUnmute.accesskey "P">
 <!ENTITY mediaShowControls.label "Wyświetl narzędzia mediowe">
-<!ENTITY mediaShowControls.accesskey "a">
+<!ENTITY mediaShowControls.accesskey "m">
 <!ENTITY mediaHideControls.label "Ukryj narzędzia mediowe">
-<!ENTITY mediaHideControls.accesskey "a">
+<!ENTITY mediaHideControls.accesskey "m">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Przełącz kierunek strony">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "s">
@@ -127,4 +127,4 @@
 <!ENTITY spellDictionaries.label "Języki">
 <!ENTITY spellDictionaries.accesskey "J">
 <!ENTITY spellAddDictionaries.label "Pobierz więcej słowników…">
-<!ENTITY spellAddDictionaries.accesskey "D">
+<!ENTITY spellAddDictionaries.accesskey "P">

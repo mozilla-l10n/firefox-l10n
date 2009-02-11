@@ -41,7 +41,7 @@
 <!ENTITY menuBar.tooltip "Pasek menu">
 <!ENTITY bookmarkToolbar.tooltip "Pasek narzędzi zakładek">
 <!ENTITY menuitem.newBookmark.label "Zakładka">
-<!ENTITY menuitem.newBookmark.accesskey "B">
+<!ENTITY menuitem.newBookmark.accesskey "a">
 <!ENTITY menuitem.newFolder.label "Folder">
 <!ENTITY menuitem.newFolder.accesskey "F">
 <!ENTITY button.newFolder.label "Nowy folder">
@@ -55,8 +55,8 @@
 <!ENTITY menuitem.import.label "Importuj…">
 <!ENTITY menuitem.import.accesskey "I">
 <!ENTITY menuitem.export.label "Eksportuj…">
-<!ENTITY menuitem.export.accesskey "e">
-<!ENTITY menuitem.find.label "Szukaj w zakładkach…">
+<!ENTITY menuitem.export.accesskey "E">
+<!ENTITY menuitem.find.label "Znajdź w zakładkach…">
 <!ENTITY menuitem.find.accesskey "Z">
 <!ENTITY menuitem.find.find.key "F">
 <!ENTITY command.findBookmarks.label "Szukaj…">
@@ -70,7 +70,7 @@
 <!ENTITY button.delete.label "Usuń">
 <!ENTITY button.delete.accesskey "U">
 <!ENTITY menuitem.moveBookmark.label "Przenieś zakładkę/zakładki…">
-<!ENTITY menuitem.moveBookmark.accesskey "M">
+<!ENTITY menuitem.moveBookmark.accesskey "P">
 <!ENTITY button.moveBookmark.label "Przenieś…">
 <!ENTITY button.moveBookmark.accesskey "P">
 <!ENTITY command.addBookmark.label "Dodaj…">

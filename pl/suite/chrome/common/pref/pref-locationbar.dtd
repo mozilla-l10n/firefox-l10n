@@ -6,13 +6,13 @@
 <!ENTITY autoCompleteAutoFill.label "Automatycznie uzupełniaj najodpowiedniejszą propozycją">
 <!ENTITY autoCompleteAutoFill.accesskey "u">
 <!ENTITY autoCompleteShowPopup.label "Pokaż listę pasujących wyników">
-<!ENTITY autoCompleteShowPopup.accesskey "S">
+<!ENTITY autoCompleteShowPopup.accesskey "P">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Uwzględniaj tylko adresy, które zostały wpisane ręcznie">
-<!ENTITY autoCompleteMatchOnlyTyped.accesskey "M">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey "r">
 <!ENTITY autoCompleteMatchOnlyURLs.label "Wyłącznie w adresach (bez tytułów stron)">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "a">
 <!ENTITY autoCompleteMatch.label "Szukaj">
-<!ENTITY autoCompleteMatch.accesskey "w">
+<!ENTITY autoCompleteMatch.accesskey "S">
 <!ENTITY autoCompleteMatchAnywhere "Gdziekolwiek w adresie bądź tytule">
 <!ENTITY autoCompleteMatchWordsFirst "Gdziekolwiek, preferuj ale granice słów">
 <!ENTITY autoCompleteMatchWords "Wyłącznie na granicach słów">
@@ -26,4 +26,4 @@
 <!ENTITY domainGuessing.label "Automatycznie dodaj &quot;www.&quot; oraz &quot;.com&quot; do wprowadzonego adresu, jeżeli odnalezienie witryny nie będzie możliwe">
 <!ENTITY domainGuessing.accesskey "d">
 <!ENTITY keywords.label "Wykonaj wyszukiwanie w sieci, gdy wpisany tekst nie jest adresem internetowym">
-<!ENTITY keywords.accesskey "P">
+<!ENTITY keywords.accesskey "y">

@@ -4,11 +4,11 @@
 <!ENTITY serverSettings.label "Konfiguracja serwera">
 <!ENTITY serverType.label "Typ serwera:">
 <!ENTITY serverName.label "Nazwa serwera:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "s">
 <!ENTITY userName.label "Użytkownik:">
 <!ENTITY userName.accesskey "i">
 <!ENTITY port.label "Port:">
-<!ENTITY port.accesskey "P">
+<!ENTITY port.accesskey "o">
 <!ENTITY serverPortDefault.label "Domyślnie:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
@@ -19,13 +19,13 @@
 <!ENTITY biffStart.accesskey "r">
 <!ENTITY biffEnd.label "minut">
 <!ENTITY connectionSecurity.label "Bezpieczeństwo połączenia:">
-<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurity.accesskey "B">
 <!ENTITY connectionSecurityType-0.label "Bez szyfrowania">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, jeśli dostępne">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Używaj bezpiecznego uwierzytelniania">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY useSecAuth.accesskey "c">
 <!ENTITY leaveOnServer.label "Pozostaw kopię wiadomości na serwerze">
 <!ENTITY leaveOnServer.accesskey "k">
 <!ENTITY headersOnly.label "Pobieraj tylko nagłówki wiadomości">
@@ -34,17 +34,17 @@
 <!ENTITY deleteByAgeFromServer.accesskey "z">
 <!ENTITY daysEnd.label "dni">
 <!ENTITY deleteOnServer2.label "Dopóki wiadomość nie zostanie usunięta">
-<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY deleteOnServer2.accesskey "e">
 <!ENTITY downloadOnBiff.label "Automatycznie pobieraj nowe wiadomości">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Nazwa użytkownika">
 <!ENTITY deleteMessagePrefix.label "Wiadomość usunięta lokalnie:">
 <!ENTITY modelMoveToTrash.label "zostanie przeniesiona do folderu:">
-<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMoveToTrash.accesskey "p">
 <!ENTITY modelMarkDeleted.label "zostanie oznaczona jako usunięta">
-<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelMarkDeleted.accesskey "o">
 <!ENTITY modelDeleteImmediately.label "zostanie niezwłoczenie usunięta">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY modelDeleteImmediately.accesskey "u">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Przy wyjściu z programu porządkuj folder Odebrane">
 <!ENTITY expungeOnExit.accesskey "y">
@@ -61,7 +61,7 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "wiadomości">
 <!ENTITY alwaysAuthenticate.label "Zawsze żądaj uwierzytelniania podczas łączenia z tym serwerem">
-<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY alwaysAuthenticate.accesskey "c">
 <!ENTITY newsrcFilePath.label "Plik newsrc:">
 <!ENTITY localPath.label "Katalog lokalny:">
 <!ENTITY abbreviate.label "W folderze poczty pokazuj nazwy grup dyskusyjnych w formie:">

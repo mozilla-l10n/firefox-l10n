@@ -39,9 +39,9 @@
 <!ENTITY modeToolbar.tooltip "Pasek narzędziowy trybu">
 <!ENTITY entryToolbar.tooltip "Pasek wprowadzania kodu JavaScript">
 <!ENTITY toolbarsCmd.label "Pokaż/Ukryj">
-<!ENTITY toolbarsCmd.accesskey "w">
+<!ENTITY toolbarsCmd.accesskey "P">
 <!ENTITY toolbarMode.label "trybu">
-<!ENTITY toolbarMode.accesskey "M">
+<!ENTITY toolbarMode.accesskey "t">
 <!ENTITY toolbarEval.label "wprowadzania JavaScript">
 <!ENTITY toolbarEval.accesskey "J">
 

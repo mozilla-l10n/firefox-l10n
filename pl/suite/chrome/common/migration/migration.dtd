@@ -8,9 +8,9 @@
 <!ENTITY importFromThunderbird.label "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label "Plik">
-<!ENTITY importFromFile.accesskey "F">
+<!ENTITY importFromFile.accesskey "P">
 <!ENTITY importFromNothing.label "Nie importuj niczego">
-<!ENTITY importFromNothing.accesskey "D">
+<!ENTITY importFromNothing.accesskey "N">
 
 <!ENTITY importSource.title "Importuj ustawienia i dane">
 <!ENTITY importItems.title "Elementy do zaimportowania">

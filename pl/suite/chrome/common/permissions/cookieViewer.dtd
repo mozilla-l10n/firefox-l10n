@@ -7,9 +7,9 @@
 <!ENTITY treehead.cookieexpires.label "Wygasa">
 <!ENTITY treehead.infoselected.label "Informacje o wybranym ciasteczku">
 <!ENTITY button.removecookie.label "Usuń ciasteczko">
-<!ENTITY button.removecookie.accesskey "R">
+<!ENTITY button.removecookie.accesskey "U">
 <!ENTITY button.removeallcookies.label "Usuń wszystkie ciasteczka">
-<!ENTITY button.removeallcookies.accesskey "e">
+<!ENTITY button.removeallcookies.accesskey "w">
 
 <!ENTITY props.name.label "Nazwa:">
 <!ENTITY props.value.label "Zawartość:">
@@ -22,18 +22,18 @@
 <!ENTITY treehead.status.label "Status">
 <!ENTITY windowtitle.label "Menedżer ciasteczek">
 <!ENTITY buttonaccept.label "Zamknij">
-<!ENTITY buttonaccept.accesskey "C">
+<!ENTITY buttonaccept.accesskey "k">
 
 <!ENTITY blockSite.label "Blokuj">
 <!ENTITY blockSite.accesskey "B">
 <!ENTITY allowSite.label "Zezwól">
-<!ENTITY allowSite.accesskey "A">
+<!ENTITY allowSite.accesskey "Z">
 <!ENTITY allowSiteSession.label "Sesja">
 <!ENTITY allowSiteSession.accesskey "S">
 <!ENTITY removepermission.label "Usuń witrynę">
-<!ENTITY removepermission.accesskey "R">
+<!ENTITY removepermission.accesskey "U">
 <!ENTITY removeallpermissions.label "Usuń wszystkie witryny">
-<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY removeallpermissions.accesskey "w">
 
 <!ENTITY futureCookies.label "Nie pozwól, aby usunięte ciasteczka były później ponownie zaakceptowane">
-<!ENTITY futureCookies.accesskey "D">
+<!ENTITY futureCookies.accesskey "N">

@@ -71,9 +71,9 @@
 <!ENTITY translateMenu.accesskey "t">
 
 <!ENTITY closeOtherTabs.label "Zamknij pozostałe karty">
-<!ENTITY closeOtherTabs.accesskey "T">
+<!ENTITY closeOtherTabs.accesskey "t">
 <!ENTITY closeWindow.label "Zamknij okno">
-<!ENTITY closeWindow.accesskey "W">
+<!ENTITY closeWindow.accesskey "k">
 
 <!ENTITY minimizeButton.tooltip "Minimalizuj">
 <!ENTITY restoreButton.tooltip "Przywróć">
@@ -99,7 +99,7 @@
 <!ENTITY searchInternet.commandKey "f">
 
 <!ENTITY clearPrivateDataCmd.label "Wyczyść prywatne dane…">
-<!ENTITY clearPrivateDataCmd.accesskey "e">
+<!ENTITY clearPrivateDataCmd.accesskey "W">
 
 <!ENTITY goMenu.label "Przejdź">
 <!ENTITY goMenu.accesskey "d">
@@ -134,7 +134,7 @@
 <!ENTITY reloadButton.label "Odśwież">
 <!ENTITY reloadButton.tooltip "Odśwież bieżącą stronę">
 <!ENTITY stopButton.label "Zatrzymaj">
-<!ENTITY stopButton.tooltip "Zatrzymuje wczytywanie bieżącej strony">
+<!ENTITY stopButton.tooltip "Zatrzymaj wczytywanie bieżącej strony">
 <!ENTITY searchButton.label "Szukaj">
 <!ENTITY searchButton.tooltip "Wprowadź słowo w polu po lewej stronie, a następnie kliknij przycisk Szukaj">
 <!ENTITY goButton.label "Idź">

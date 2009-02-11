@@ -1,6 +1,6 @@
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY navigatorCmd.label "Przeglądarka">
-<!ENTITY navigatorCmd.accesskey "N">
+<!ENTITY navigatorCmd.accesskey "P">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label "Kompozytor Stron">
@@ -18,7 +18,7 @@
 <!ENTITY taskComposer.tooltip "Kompozytor Stron">
 
 <!ENTITY webDevelopment.label "Narzędzia programistyczne">
-<!ENTITY webDevelopment.accesskey "p">
+<!ENTITY webDevelopment.accesskey "r">
 
 <!ENTITY windowMenu.label "Okno">
 <!ENTITY windowMenu.accesskey "O">
@@ -27,10 +27,10 @@
 <!ENTITY tasksMenu.accesskey "N">
 
 <!ENTITY passwordManagerCmd.label "Menedżer haseł">
-<!ENTITY passwordManagerCmd.accesskey "P">
+<!ENTITY passwordManagerCmd.accesskey "h">
 
 <!ENTITY passwordDisplayCmd.label "Zarządzaj zapamiętanymi hasłami">
-<!ENTITY passwordDisplayCmd.accesskey "M">
+<!ENTITY passwordDisplayCmd.accesskey "Z">
 
 <!ENTITY passwordExpireCmd.label "Wyloguj">
 <!ENTITY passwordExpireCmd.accesskey "l">

@@ -101,17 +101,17 @@
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Miasto:">
-<!ENTITY HomeCity.accesskey "y">
+<!ENTITY HomeCity.accesskey "M">
 <!ENTITY HomeState.label "Województwo:">
-<!ENTITY HomeState.accesskey "S">
+<!ENTITY HomeState.accesskey "W">
 <!ENTITY HomeZipCode.label "Kod pocztowy:">
 <!ENTITY HomeZipCode.accesskey "Z">
 <!ENTITY HomeCountry.label "Państwo:">
-<!ENTITY HomeCountry.accesskey "u">
+<!ENTITY HomeCountry.accesskey "o">
 <!ENTITY HomeWebPage.label "Strona WWW:">
 <!ENTITY HomeWebPage.accesskey "n">
 <!ENTITY Birthday.label "Urodziny:">
-<!ENTITY Birthday.accesskey "B">
+<!ENTITY Birthday.accesskey "U">
 <!ENTITY In.label "">
 <!ENTITY Year.emptytext "rok">
 <!ENTITY Or.value "lub">
@@ -123,7 +123,7 @@
 <!ENTITY JobTitle.label "Stanowisko:">
 <!ENTITY JobTitle.accesskey "t">
 <!ENTITY Department.label "Dział:">
-<!ENTITY Department.accesskey "m">
+<!ENTITY Department.accesskey "z">
 <!ENTITY Company.label "Firma/Organizacja:">
 <!ENTITY Company.accesskey "O">
 <!ENTITY WorkAddress.label "Adres:">

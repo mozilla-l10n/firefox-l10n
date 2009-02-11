@@ -43,12 +43,12 @@
 <!ENTITY colorColumn.label "Kolor">
 <!ENTITY defaultTagName.label "Etykieta bez nazwy">
 <!ENTITY addTagButton.label "Dodaj">
-<!ENTITY addTagButton.accesskey "A">
+<!ENTITY addTagButton.accesskey "D">
 <!ENTITY deleteTagButton.label "Usuń">
-<!ENTITY deleteTagButton.accesskey "D">
+<!ENTITY deleteTagButton.accesskey "U">
 <!ENTITY raiseTagButton.label "Zwiększ ważność">
-<!ENTITY raiseTagButton.accesskey "R">
+<!ENTITY raiseTagButton.accesskey "w">
 <!ENTITY lowerTagButton.label "Zmniejsz ważność">
-<!ENTITY lowerTagButton.accesskey "L">
+<!ENTITY lowerTagButton.accesskey "Z">
 <!ENTITY restoreButton.label "Przywróć domyślne">
-<!ENTITY restoreButton.accesskey "s">
+<!ENTITY restoreButton.accesskey "P">

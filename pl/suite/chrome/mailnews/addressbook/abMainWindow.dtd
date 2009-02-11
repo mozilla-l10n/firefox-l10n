@@ -43,7 +43,7 @@
 <!-- File Menu -->
 <!ENTITY newContact.label "Wizytówka…">
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.accesskey "W">
 <!ENTITY newListCmd.label "Lista dystrybucyjna…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey "l">
@@ -54,9 +54,9 @@
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "Komunikator">
 <!ENTITY printContactViewCmd.label "Drukuj wizytówkę…">
-<!ENTITY printContactViewCmd.accesskey "p">
+<!ENTITY printContactViewCmd.accesskey "D">
 <!ENTITY printPreviewContactViewCmd.label "Podgląd wydruku wizytówki">
-<!ENTITY printPreviewContactViewCmd.accesskey "v">
+<!ENTITY printPreviewContactViewCmd.accesskey "w">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
 <!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Drukuj książkę adresową…">
@@ -105,15 +105,15 @@
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label "Nowa wizytówka">
-<!ENTITY newContactButton.accesskey "C">
+<!ENTITY newContactButton.accesskey "N">
 <!ENTITY newlistButton.label "Nowa lista dystrybucyjna">
 <!ENTITY newlistButton.accesskey "L">
 <!ENTITY editItemButton.label "Właściwości">
-<!ENTITY editItemButton.accesskey "P">
+<!ENTITY editItemButton.accesskey "W">
 <!ENTITY newmsgButton.label "Nowa">
 <!ENTITY newmsgButton.accesskey "N">
 <!ENTITY deleteItemButton.label "Usuń">
-<!ENTITY deleteItemButton.accesskey "D">
+<!ENTITY deleteItemButton.accesskey "U">
 <!ENTITY newimButton.label "Komunikator">
 <!ENTITY newimButton.accesskey "K">
 

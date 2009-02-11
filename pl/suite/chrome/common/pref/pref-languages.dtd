@@ -16,17 +16,17 @@
 <!ENTITY languages.customize.others.accesskey "I">
 <!ENTITY languages.customize.Charset.grouplabel "Domyślny zestaw znaków">
 <!ENTITY languages.customize.DefaultCharset.label "Zestaw znaków:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "D">
+<!ENTITY languages.customize.DefaultCharset.accesskey "Z">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples "(wprowadź kod języka, np.: en-bz, ar-jo)">
 <!ENTITY languages.customize.moveUp.label "Przenieś w górę">
 <!ENTITY languages.customize.moveUp.accesskey "g">
 <!ENTITY languages.customize.moveDown.label "Przenieś w dół">
-<!ENTITY languages.customize.moveDown.accesskey "d">
+<!ENTITY languages.customize.moveDown.accesskey "P">
 
 <!ENTITY spelling.label "Pisownia">
 <!ENTITY checkSpelling.label "Sprawdź pisownię podczas wprowadzania tekstu:">
-<!ENTITY checkSpelling.accesskey "W">
+<!ENTITY checkSpelling.accesskey "w">
 <!ENTITY dontCheckSpelling.label "Nigdy">
 <!ENTITY multilineCheckSpelling.label "W polach wieloliniowych">
 <!ENTITY alwaysCheckSpelling.label "We wszystkich polach">

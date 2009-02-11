@@ -50,6 +50,6 @@
 <!ENTITY fieldMapImport.fieldListTitle "Pole książki adresowej">
 <!ENTITY fieldMapImport.dataTitle "Importowane dane rekordu">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Pierwszy rekord zawiera nazwy pól">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "r">
 
 

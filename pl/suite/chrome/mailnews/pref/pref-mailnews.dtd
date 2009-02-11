@@ -44,11 +44,11 @@
 
 <!ENTITY defaultMailSettings.description "Używaj &brandShortName; jako domyślnego programu dla:">
 <!ENTITY setDefaultMail.label "Poczty">
-<!ENTITY setDefaultMail.accesskey "M">
+<!ENTITY setDefaultMail.accesskey "P">
 <!ENTITY setDefaultNews.label "Grup dyskusyjnych">
-<!ENTITY setDefaultNews.accesskey "N">
+<!ENTITY setDefaultNews.accesskey "G">
 <!ENTITY setDefaultFeed.label "kanałów informacyjnych">
-<!ENTITY setDefaultFeed.accesskey "e">
+<!ENTITY setDefaultFeed.accesskey "K">
 
 <!ENTITY messengerStartPage.caption "Strona startowa Kuriera Poczty">
 <!ENTITY enableStartPage.label "Po uruchomieniu Kuriera Poczty wyświetl poniższą stronę startową w oknie wiadomości:">

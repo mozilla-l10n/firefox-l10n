@@ -8,7 +8,7 @@
 <!ENTITY loginAtStartup.accesskey "C">
 
 <!ENTITY useQuickMode.label "Domyślnie pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
-<!ENTITY useQuickMode.accesskey "B">
+<!ENTITY useQuickMode.accesskey "D">
 
 <!ENTITY manageSubscriptions.label "Menedżer kanałów RSS…">
 <!ENTITY manageSubscriptions.accesskey "M">

@@ -45,7 +45,7 @@
 <!ENTITY asAttachment.accesskey "a">
 
 <!ENTITY replyQuoteInline.label "Podczas komponowania odpowiedzi cytuj załączniki pokazane w treści wiadomości">
-<!ENTITY replyQuoteInline.accesskey "Q">
+<!ENTITY replyQuoteInline.accesskey "c">
 <!ENTITY warnOnSendAccelKey.label "Wymagaj potwierdzenia, gdy do wysłania wiadomości użyty został skrót klawiaturowy">
 <!ENTITY warnOnSendAccelKey.accesskey "C">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with

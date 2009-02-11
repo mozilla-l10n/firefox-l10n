@@ -64,7 +64,7 @@
 <!ENTITY updateCmd.label "Sprawdź dostępność aktualizacji…">
 <!ENTITY updateCmd.accesskey "C">
 <!ENTITY aboutCmd.label "O &brandShortName;">
-<!ENTITY aboutCmd.accesskey "M">
+<!ENTITY aboutCmd.accesskey "O">
 <!ENTITY aboutCommPluginsCmd.label "O wtyczkach">
 <!ENTITY aboutCommPluginsCmd.accesskey "w">
 
@@ -84,25 +84,25 @@
 
 <!ENTITY bidiSwitchTextDirectionItem.label "Zmień kierunek tekstu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "k">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "m">
 
 <!ENTITY customizeToolbarContext.label "Dostosuj…">
-<!ENTITY customizeToolbarContext.accesskey "C">
+<!ENTITY customizeToolbarContext.accesskey "D">
 
 <!ENTITY customizeToolbar.toolbarmode.label "Ustawienia dla tego paska narzędzi">
 <!ENTITY customizeToolbar.toolbarmode.accesskey "t">
 <!ENTITY customizeToolbar.iconsAndText.label "Ikony i tekst">
-<!ENTITY customizeToolbar.iconsAndText.accesskey "a">
+<!ENTITY customizeToolbar.iconsAndText.accesskey "t">
 <!ENTITY customizeToolbar.icons.label "Ikony">
 <!ENTITY customizeToolbar.icons.accesskey "I">
 <!ENTITY customizeToolbar.text.label "Tekst">
-<!ENTITY customizeToolbar.text.accesskey "T">
+<!ENTITY customizeToolbar.text.accesskey "s">
 <!ENTITY customizeToolbar.useSmallIcons.label "Używaj małych ikon">
-<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "a">
 <!ENTITY customizeToolbar.labelAlignEnd.label "Wyświetlaj tekst obok ikon">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
 <!ENTITY customizeToolbar.useDefault.label "Używaj domyślnych ustawień">
-<!ENTITY customizeToolbar.useDefault.accesskey "g">
+<!ENTITY customizeToolbar.useDefault.accesskey "d">
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey "p">

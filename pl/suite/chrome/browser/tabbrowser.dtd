@@ -14,4 +14,4 @@
 <!ENTITY closeTabButton.tooltip "Zamknij bieżącą kartę">
 <!ENTITY newTabButton.tooltip "Otwórz nową kartę">
 <!ENTITY undoCloseTab.label "Cofnij zamknięcie karty">
-<!ENTITY undoCloseTab.accesskey "U">
+<!ENTITY undoCloseTab.accesskey "C">

@@ -9,6 +9,6 @@
 
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label "&#8984;+Return w pasku adresu">
-<!ENTITY urlbar.accesskey "L">
+<!ENTITY urlbar.accesskey "R">
 <!ENTITY middleClick.label "Odnośnik zostanie otworzony za pomocą: środkowego przycisku myszy, lewego przycisku myszy z wciśniętym przyciskiem &#8984; na klawiaturze lub naciśnięcia przycisków &#8984;+Enter">
 <!ENTITY middleClick.accesskey "M">

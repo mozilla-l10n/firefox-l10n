@@ -12,4 +12,4 @@
 
 <!ENTITY prefCheckDefault.caption "Integracja z systemem">
 <!ENTITY prefCheckDefaultClient.label "Sprawdzaj ustawienia domyślnych aplikacji podczas uruchamiania">
-<!ENTITY prefCheckDefaultClient.accesskey "C">
+<!ENTITY prefCheckDefaultClient.accesskey "c">

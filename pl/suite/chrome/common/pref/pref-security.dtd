@@ -39,13 +39,13 @@
 <!ENTITY privateData.label "Dane prywatne">
 
 <!ENTITY alwaysClear.label "Zawsze czyść dane prywatne przy zamykaniu programu &brandShortName;">
-<!ENTITY alwaysClear.accesskey "w">
+<!ENTITY alwaysClear.accesskey "Z">
 
 <!ENTITY askBeforeClear.label "Poproś o potwierdzenie przed czyszczeniem danych prywatnych">
-<!ENTITY askBeforeClear.accesskey "A">
+<!ENTITY askBeforeClear.accesskey "P">
 
 <!ENTITY clearDataSettings.label "Podczas usuwania danych prywatnych, program &brandShortName; usunie:">
 
 <!ENTITY clearDataDialog.label "Wyczyść teraz…">
 <!ENTITY clearDataSilent.label "Wyczyść teraz">
-<!ENTITY clearDataDialog.accesskey "N">
+<!ENTITY clearDataDialog.accesskey "W">

@@ -1,10 +1,10 @@
 <!ENTITY zoomEnlargeCmd.label "Większy">
-<!ENTITY zoomEnlargeCmd.accesskey "L">
+<!ENTITY zoomEnlargeCmd.accesskey "W">
 <!ENTITY zoomEnlargeCmd.commandkey "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "=">
 
 <!ENTITY zoomReduceCmd.label "Mniejszy">
-<!ENTITY zoomReduceCmd.accesskey "S">
+<!ENTITY zoomReduceCmd.accesskey "M">
 <!ENTITY zoomReduceCmd.commandkey "-">
 
 <!ENTITY zoomResetCmd.commandkey "0">

@@ -42,11 +42,11 @@
 
 <!ENTITY generalInfo.label "Informacje ogólne">
 <!ENTITY folderCharsetTab.label "Domyślny zestaw znaków:">
-<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetTab.accesskey "e">
 <!ENTITY folderCharsetOverride.label "Domyślnie zastosuj dla wszystkich wiadomości (indywidualne ustawienia zestawu znaków wiadomości oraz autodetekcja zostaną zignorowane)">
-<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderCharsetOverride.accesskey "a">
 <!ENTITY folderRebuildSummaryFile.label "Przebuduj plik podsumowania">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
+<!ENTITY folderRebuildSummaryFile.accesskey "r">
 <!ENTITY folderRebuildSummaryFileTip.label "Przebuduj plik podsumowania">
 
 <!ENTITY retention.label "Reguły przechowywania wiadomości">
@@ -70,7 +70,7 @@
 
 <!ENTITY folderOfflineTab.label "Tryb offline">
 <!ENTITY folderCheckForNewMessages.label "Sprawdzaj, czy są dostępne nowe wiadomości dla tego folderu">
-<!ENTITY folderCheckForNewMessages.accesskey "C">
+<!ENTITY folderCheckForNewMessages.accesskey "n">
 
 <!ENTITY offlineFolder.check.label "Wybrany folder będzie dostępny w trybie offline.">
 <!ENTITY offlineFolder.check.accesskey "s">
@@ -85,7 +85,7 @@
 <!ENTITY folderProps.name.label "Nazwa:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Położenie:">
-<!ENTITY folderProps.location.accesskey "L">
+<!ENTITY folderProps.location.accesskey "P">
 
 <!ENTITY folderSharingTab.label "Współużytkowanie">
 <!ENTITY privileges.button.label "Uprawnienia…">

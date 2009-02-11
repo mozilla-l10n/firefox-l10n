@@ -3,11 +3,11 @@
 
 <!ENTITY closeCmd.label "Zamknij">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.accesskey "k">
 
 <!ENTITY quitApplicationCmd.label "Zakończ">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "q">
+<!ENTITY quitApplicationCmd.accesskey "Z">
 
 <!ENTITY redoCmd.label "Przywróć">
 <!ENTITY redoCmd.key "Y">
@@ -20,7 +20,7 @@
 
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label "Spis treści">
-<!ENTITY openHelpCmd.accesskey "H">
+<!ENTITY openHelpCmd.accesskey "t">
 <!ENTITY openHelpCmd.key "VK_F1">
 
 <!-- Key labels, for mousewheel prefs -->

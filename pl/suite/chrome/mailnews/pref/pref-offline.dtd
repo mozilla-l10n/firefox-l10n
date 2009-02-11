@@ -3,7 +3,7 @@
 <!ENTITY pref.offline.title "Tryb offline i miejsce na dysku">
 <!ENTITY pref.offline.caption "Tryb offline">
 <!ENTITY textStartUp "Uruchamiając program:">
-<!ENTITY textStartUp.accesskey "W">
+<!ENTITY textStartUp.accesskey "U">
 <!ENTITY menuitemRememberPrevState "Zapamiętaj ostatnio używany tryb">
 <!ENTITY menuitemAskMe "Zapytaj w jakim trybie rozpocząć pracę">
 <!ENTITY menuitemAlwaysOnline "Zawsze startuj w trybie online">

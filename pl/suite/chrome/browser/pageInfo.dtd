@@ -49,7 +49,7 @@
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "Ogólne">
-<!ENTITY generalTab.accesskey "G">
+<!ENTITY generalTab.accesskey "g">
 <!ENTITY generalURL "URL:">
 <!ENTITY generalType "Typ:">
 <!ENTITY generalMode "Tryb wyświetlania:">
@@ -61,7 +61,7 @@
 <!ENTITY generalMetaName "Nazwa">
 <!ENTITY generalMetaContent "Treści">
 <!ENTITY generalSecurityMore "Więcej">
-<!ENTITY generalSecurityMore.accesskey "o">
+<!ENTITY generalSecurityMore.accesskey "c">
 
 <!ENTITY formsTab "Formularze">
 <!ENTITY formsTab.accesskey "F">
@@ -77,7 +77,7 @@
 <!ENTITY formCValue "Bieżąca wartość">
 
 <!ENTITY linksTab "Odnośniki">
-<!ENTITY linksTab.accesskey "L">
+<!ENTITY linksTab.accesskey "O">
 <!ENTITY linkNo "Indeks">
 <!ENTITY linkName "Nazwa">
 <!ENTITY linkAddress "Adres">
@@ -105,7 +105,7 @@
 <!ENTITY mediaPreview "Podgląd:">
 
 <!ENTITY feedTab "Kanały">
-<!ENTITY feedTab.accesskey "F">
+<!ENTITY feedTab.accesskey "K">
 <!ENTITY feedSubscribe "Subskrybuj">
 <!ENTITY feedSubscribe.accesskey "u">
 

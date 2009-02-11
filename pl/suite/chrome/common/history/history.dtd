@@ -5,20 +5,20 @@
 <!ENTITY searchBar.tooltip "Pasek wyszukiwanie">
 
 <!ENTITY search.emptytext "Przeszukaj historię">
-<!ENTITY search.key "f">
+<!ENTITY search.key "P">
 <!ENTITY view.label "Porządkuj">
 
-<!ENTITY view.columns.label "yświetl kolumny">
-<!ENTITY view.columns.accesskey "C">
+<!ENTITY view.columns.label "Wyświetl kolumny">
+<!ENTITY view.columns.accesskey "W">
 <!ENTITY view.sortBy.label "Sortuj według">
 <!ENTITY view.sortBy.accesskey "S">
 <!ENTITY view.groupBy.label "Grupuj według">
 <!ENTITY view.groupBy.accesskey "G">
 
 <!ENTITY view.unsorted.label "Nieposortowane">
-<!ENTITY view.unsorted.accesskey "U">
+<!ENTITY view.unsorted.accesskey "o">
 <!ENTITY view.sortAscending.label "Porządek sortowania A > Z">
-<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortAscending.accesskey "P">
 <!ENTITY view.sortDescending.label "Porządek sortowania Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
 
@@ -27,27 +27,27 @@
 <!ENTITY view.groupDay.label "Dnia">
 <!ENTITY view.groupDay.accesskey "D">
 <!ENTITY view.groupSite.label "Witryny">
-<!ENTITY view.groupSite.accesskey "S">
+<!ENTITY view.groupSite.accesskey "t">
 <!ENTITY view.groupDayAndSite.label "Dnia i witryny">
 <!ENTITY view.groupDayAndSite.accesskey "a">
 
 <!ENTITY cmd.open.label "Otwórz">
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.open_window.label "Otwórz odnośnik w nowym oknie">
-<!ENTITY cmd.open_window.accesskey "N">
+<!ENTITY cmd.open_window.accesskey "n">
 <!ENTITY cmd.open_tab.label "Otwórz odnośnik w nowej karcie">
 <!ENTITY cmd.open_tab.accesskey "w">
 <!ENTITY cmd.open_all_in_tabs.label "Otwórz wszystkie w kartach">
 <!ENTITY cmd.open_all_in_tabs.accesskey "O">
 
 <!ENTITY bookmarkCmd.label "Dodaj zakładkę do odnośnika…">
-<!ENTITY bookmarkCmd.accesskey "B">
+<!ENTITY bookmarkCmd.accesskey "D">
 
 <!ENTITY col.title.label "Tytuł">
 <!ENTITY col.title.accesskey "T">
 <!ENTITY col.url.label "Adres">
-<!ENTITY col.url.accesskey "L">
+<!ENTITY col.url.accesskey "A">
 <!ENTITY col.lastvisit.label "Ostatnia data odwiedzin">
-<!ENTITY col.lastvisit.accesskey "V">
+<!ENTITY col.lastvisit.accesskey "z">
 <!ENTITY col.visitcount.label "Liczba wizyt">
-<!ENTITY col.visitcount.accesskey "C">
+<!ENTITY col.visitcount.accesskey "L">

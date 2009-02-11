@@ -23,6 +23,6 @@
 
 <!ENTITY certificates.label "Certyfikaty">
 <!ENTITY manageCerts.label "Zarządzaj certyfikatami…">
-<!ENTITY manageCerts.accesskey "M">
+<!ENTITY manageCerts.accesskey "Z">
 <!ENTITY manageDevices.label "Zarządzaj urządzeniami zabezpieczającymi…">
-<!ENTITY manageDevices.accesskey "g">
+<!ENTITY manageDevices.accesskey "u">

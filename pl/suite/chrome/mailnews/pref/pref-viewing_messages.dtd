@@ -51,7 +51,7 @@
 <!ENTITY color.accesskey "K">
 <!ENTITY displayPlainText.caption "Wiadomości tekstowe">
 <!ENTITY fontPlainText.label "Czcionka:">
-<!ENTITY fontPlainText.accesskey "F">
+<!ENTITY fontPlainText.accesskey "C">
 <!ENTITY displayQuoted.label "Ustawienia cytowanych wiadomości:">
 <!ENTITY wrapInMsg.label "Zawijaj tekst, aby mieścił się w oknie">
 <!ENTITY wrapInMsg.accesskey "w">
@@ -72,7 +72,7 @@
 
 <!ENTITY openingMessages.label "Otwierając wiadomości wyświetl je w:">
 <!ENTITY newWindowRadio.label "Nowym oknie">
-<!ENTITY newWindowRadio.accesskey "n">
+<!ENTITY newWindowRadio.accesskey "N">
 <!ENTITY existingWindowRadio.label "Istniejącym oknie">
 <!ENTITY existingWindowRadio.accesskey "e">
 <!ENTITY disableContent.label "Blokuj obrazki i inną treść ze zdalnych serwerów">

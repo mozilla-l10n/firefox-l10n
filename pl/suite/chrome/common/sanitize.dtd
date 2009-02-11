@@ -2,20 +2,20 @@
 <!ENTITY sanitizeItems.label "Wyczyść następujące elementy:">
 
 <!ENTITY itemHistory.label "historię przeglądanych stron">
-<!ENTITY itemHistory.accesskey "B">
+<!ENTITY itemHistory.accesskey "s">
 <!ENTITY itemDownloads.label "historię pobieranych plików">
-<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemDownloads.accesskey "h">
 <!ENTITY itemFormSearchHistory.label "dane formularzy i historię wyszukiwania">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemFormSearchHistory.accesskey "f">
 <!ENTITY itemCache.label "pamięć podręczną">
 <!ENTITY itemCache.accesskey "a">
 <!ENTITY itemCookies.label "ciasteczka">
-<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCookies.accesskey "c">
 <!ENTITY itemOfflineApps.label "dane witryn trybu offline">
-<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemOfflineApps.accesskey "o">
 <!ENTITY itemPasswords.label "zapamiętane hasła">
-<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemPasswords.accesskey "z">
 <!ENTITY itemSessions.label "sesje uwierzytelnione">
-<!ENTITY itemSessions.accesskey "S">
+<!ENTITY itemSessions.accesskey "e">
 
 <!ENTITY sanitizeButton.label "Wyczyść dane prywatne">

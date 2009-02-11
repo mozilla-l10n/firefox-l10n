@@ -2,18 +2,18 @@
 <!ENTITY window.title "Właściwości kanału RSS">
 
 <!ENTITY feedFolder.label "Przechowuj artykuły w: ">
-<!ENTITY feedFolder.accesskey "S">
+<!ENTITY feedFolder.accesskey "r">
 
 <!ENTITY feedLocation.label "Adres URL kanału: ">
-<!ENTITY feedLocation.accesskey "F">
+<!ENTITY feedLocation.accesskey "A">
 
 <!ENTITY choosethisfolder.label "wybierz ten folder">
 
 <!ENTITY quickMode.label "Pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
-<!ENTITY quickMode.accesskey "h">
+<!ENTITY quickMode.accesskey "o">
 
 <!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.accesskey "K">
 
 <!ENTITY pasteLinkCmd.label "Wklej">
-<!ENTITY pasteLinkCmd.accesskey "P">
+<!ENTITY pasteLinkCmd.accesskey "W">

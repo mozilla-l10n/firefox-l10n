@@ -5,14 +5,14 @@
 <!ENTITY location.label "Adres:">
 
 <!ENTITY button.addFeed.label "Dodaj">
-<!ENTITY button.addFeed.accesskey "A">
+<!ENTITY button.addFeed.accesskey "D">
 <!ENTITY button.editFeed.label "Edytuj">
 <!ENTITY button.editFeed.accesskey "E">
 <!ENTITY button.removeFeed.label "Usuń">
-<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.removeFeed.accesskey "U">
 <!ENTITY button.importOPML.label "Importuj">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label "Eksportuj">
-<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.accesskey "k">
 
 <!ENTITY cmd.close.commandKey "w">
