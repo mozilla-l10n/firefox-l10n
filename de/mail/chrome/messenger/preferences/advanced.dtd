@@ -6,8 +6,9 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Nachrichten-Indexierung aktivieren">
-<!ENTITY enableGloda.accesskey         "N">
+<!ENTITY enableGlodaSearch.label       "Globale Suche und Nachrichtenindexierung aktivieren">
+<!ENTITY enableGlodaSearch.accesskey   "N">
+
 <!ENTITY systemDefaults.label          "Standard-Anwendung">
 <!ENTITY alwaysCheckDefault.label      "Beim Starten prüfen, ob &brandShortName; als Standard-Anwendung registriert ist">
 <!ENTITY alwaysCheckDefault.accesskey  "B">
