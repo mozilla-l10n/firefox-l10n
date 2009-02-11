@@ -55,7 +55,7 @@
                                            &brandShortName; шинэчлэлийг бүхлээр нь дахин татаж авахыг оролдох болно.">
 
 <!ENTITY  finishedPage.title              "Шинэчлэл суугдахад бэлэн">
-<!ENTITY  finishedPage.text               "Энэ шинэчлэл &brandShortName;-г дараагийн удаа эхлэх үед суугдах болно.
+<!ENTITY  finishedPage.text               "&brandShortName; шинээр ачаалагдах үед энэ шинэчлэл суугдах болно.
                                            Та одоо &brandShortName;-г шинээр ачаалах, эсвэл үргэлжлүүлэн ажиллаад сүүлд шинээр ачаалж болох юм.">
 
 <!ENTITY  finishedBackgroundPage.text     "&brandShortName;-н баталгаа болон найдварын шинэчлэл татаж авагдсан бөгөөд суулгахад бэлэн боллоо.">

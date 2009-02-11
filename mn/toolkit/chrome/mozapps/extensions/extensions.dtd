@@ -11,7 +11,7 @@
 <!-- View labels -->
 <!ENTITY search.label                     "Нэмэгдлүүд авах">
 <!ENTITY extensions.label                 "Өргөтгөлүүд">
-<!ENTITY themes.label                     "Маягууд">
+<!ENTITY themes.label                     "Харуулах маяг">
 <!ENTITY locales.label                    "Хэл">
 <!ENTITY plugins.label                    "Плагинууд">
 <!ENTITY update.label                     "Шинэчлэлүүд">
@@ -38,7 +38,7 @@
 <!ENTITY cmd.skip.tooltip                 "Шинэчлэлүүдийг алгас">
 <!ENTITY cmd.continue.label               "Үргэлжлүүл">
 <!ENTITY cmd.continue.accesskey           "ж">
-<!ENTITY cmd.continue.tooltip             "&brandShortName;-г ачаалахаа үргэлжлүүл">
+<!ENTITY cmd.continue.tooltip             "&brandShortName;-н ачаалах явцыг үргэлжлүүл">
 
 <!ENTITY cmd.enableAll.label              "Бүгдийг зөвшөөр">
 <!ENTITY cmd.enableAll.accesskey          "ү">
@@ -99,7 +99,7 @@
 <!ENTITY cancelUpgrade.accesskey          "л">
 
 <!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Вэб хуудсанд нь зорч">
+<!ENTITY cmd.homepage.label               "Вэб хуудсанд нь зорчих">
 <!ENTITY cmd.homepage.accesskey           "ч">
 <!ENTITY cmd.about2.label                 "Энэ нэмэгдлийн тухай">
 <!ENTITY cmd.about.accesskey              "й">
@@ -117,14 +117,14 @@
 <!ENTITY needsDependencies.label          "Нэмэлт зүйлс шаардаж байна.">
 <!ENTITY blocklisted.label                "Таныг хамгаалах үүднээс хорисон.">
 <!ENTITY softBlocklisted.label            "Баталгаа болон найдварын эрсдэлтэй.">
-<!ENTITY toBeDisabled.label               "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед хоригдох болно.">
-<!ENTITY toBeEnabled.label                "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед зөвшөөрөгдөх болно.">
-<!ENTITY toBeInstalled.label               "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед суугдах болно.">
-<!ENTITY toBeUninstalled.label             "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед үл суугдах болно.">
+<!ENTITY toBeDisabled.label               "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдэл хоригдох болно.">
+<!ENTITY toBeEnabled.label                "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдэл зөвшөөрөгдөх болно.">
+<!ENTITY toBeInstalled.label               "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдэл суугдах болно.">
+<!ENTITY toBeUninstalled.label             "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдэл устгагдах болно.">
 <!ENTITY toBeUpdated.label                "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед шинэчлэгдэх болно.">
 
 <!ENTITY getExtensions.label            "Өргөтгөлүүд авах">
-<!ENTITY getThemes.label              "Маяг татаж авах">
+<!ENTITY getThemes.label              "Харуулах маяг татаж авах">
 <!ENTITY getPlugins.label                 "Плагин татаж авах">
 
 <!ENTITY searchAddons.label               "Бүх нэмэгдэлд хайх">
@@ -133,7 +133,7 @@
 <!ENTITY recommendedHeader.label          "Санал болгогдсон">
 <!ENTITY recommendedThrobber.label        "Санал болгогдсон нэмэгдлүүд рүү хандаж байна">
 <!ENTITY searchThrobber.label             "Нэмэгдэл хайж байна">
-<!ENTITY resetSearch.label                "Үр дүнг цэвэрлэ">
+<!ENTITY resetSearch.label                "Үр дүнг арилга">
 <!ENTITY noSearchResults.label            "Үр дүнд байгаа бүх зүйлс өмнө нь суугдчихсан юмуу эсвэл бүтэц нь бүрэн биш байна.">
 <!ENTITY noRecommendedResults.label       "Бүх санал болголтууд өмнө нь суугдсан юмуу эсвэл бүтэц нь бүрэн биш байна.">
 <!ENTITY emptySearch.label                "Тохирсон нэмэгдэл олдсонгүй">
@@ -142,34 +142,34 @@
 <!ENTITY searchFailed.button              "OK">
 <!ENTITY searchResultHomepage.value       "Нэмэлт мэдээлэл">
 <!ENTITY searchBox.label                  "Бүх нэмэгдэлд хайх">
-<!ENTITY recommendedResults.label         "Бүх санал болгогдсон нэмэгдлүүдийг харах">
+<!ENTITY recommendedResults.label         "Бүх санал болгосон нэмэгдлүүдийг харах">
 <!ENTITY searchResultConnecting.label     "Холбогдож байна…">
 <!ENTITY searchResultInstalling.label     "Суулгаж байна…">
 <!ENTITY searchResultFailed.label         "Суулгацад алдаа гарлаа">
 <!ENTITY searchResultInstalled.label      "Суулгац гүйцлээ">
 <!ENTITY addonTypeExtension.label         "Өргөтгөл">
-<!ENTITY addonTypeTheme.label             "Харагдцын маяг">
-<!ENTITY missingThumbnail.label           "Урьдчилсан харуулалтгүй">
+<!ENTITY addonTypeTheme.label             "Харуулах маяг">
+<!ENTITY missingThumbnail.label           "Урьдчилсан харуулалт байхгүй">
 
-<!ENTITY previewNoThemeSelected.label     "Маяг сонгогдоогүй байна">
-<!ENTITY previewNoPreviewImage.label      "Энэ маягт туршилтын харагдац алга">
+<!ENTITY previewNoThemeSelected.label     "Харуулах маяг сонгогдоогүй байна">
+<!ENTITY previewNoPreviewImage.label      "Энэ маягт туршилтын харуулалт алга">
 <!ENTITY moreInfo.label                   "Нэмэлт мэдээлэл">
 <!ENTITY infoNoAddonSelected.label        "Ямар ч шинэчлэл сонгогдоогүй байна">
 <!ENTITY infoNoUpdateInfo.label           "Энэ шинэчлэлд нэмэлт мэдээлэл байхгүй байна">
 <!ENTITY infoUpdateInfoError.label        "Энэ шинэчлэлийн нэмэлт мэдээллийг дуудах үед алдаа гарлаа">
 
 
-<!ENTITY updateSuccess.label              "Шинэчлэл амжилттай гүйцэтгэгдлээ.">
-<!ENTITY installSuccess.label             "Суулгац амжилттай гүйцэтгэгдлээ.">
+<!ENTITY updateSuccess.label              "Шинэчлэл амжилттай хийгдлээ.">
+<!ENTITY installSuccess.label             "Суулгац амжилттай хийгдлээ.">
 <!ENTITY installSuccessRestart.label      "Суулгацыг гүйцээхийн тулд шинээр ачаал.">
-<!ENTITY updateSuccessRestart.label       "Шинэчлэлийг гүйцээхийн тулд шинээр ачаал.">
+<!ENTITY updateSuccessRestart.label       "Шинэчлэлтийг гүйцээхийн тулд шинээр ачаал.">
 <!ENTITY installWaiting.label             "Хүлээж байна…">
-<!ENTITY installIncompatibleUpdate.label  "Хувилбарын тохиромжийг шалгаж байна…">
+<!ENTITY installIncompatibleUpdate.label  "Хувилбар тохиромжтой эсэхийг шалгаж байна…">
 <!ENTITY installFinishing.label           "Суулгаж байна…">
 <!ENTITY installFailure.label             "Суулгацад алдаа гарлаа.">
-<!ENTITY progressStatus.label             "Шинэчлэл буй эсэхийг шалгаж байна">
+<!ENTITY progressStatus.label             "Шинэчлэл байгаа эсэхийг шалгаж байна">
 
-<!ENTITY eula.title                       "Эцсийн хэрэглэгчийн зөвшилцөл">
+<!ENTITY eula.title                       "Хэрэглэгчийн ашиглах нөхцөл">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Зөвшөөрөөд суулга…">
