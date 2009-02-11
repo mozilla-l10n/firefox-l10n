@@ -46,7 +46,7 @@
 <!ENTITY modelDeleteImmediately.label "Fjern den umiddelbart">
 <!ENTITY modelDeleteImmediately.accesskey "F">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Tøm («utslett») innboks ved avslutning">
+<!ENTITY expungeOnExit.label "Tøm (slett) innboks ved avslutning">
 <!ENTITY expungeOnExit.accesskey "u">
 <!ENTITY emptyTrashOnExit.label "Tøm søppelkasse ved avslutning">
 <!ENTITY emptyTrashOnExit.accesskey "T">
