@@ -6,8 +6,8 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Berichtenindexer activeren">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Globale zoek en indexer activeren">
+<!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemDefaults.label          "Standaardwaarden systeem">
 <!ENTITY alwaysCheckDefault.label      "Altijd tijdens het opstarten controleren of &brandShortName; de standaard e-mailclient is">
 <!ENTITY alwaysCheckDefault.accesskey  "c">
