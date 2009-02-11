@@ -81,11 +81,11 @@
 
 <!ENTITY allowRemoteContent.label       "Ofbyldings op ôfstân yn HTML-e-mail tastean.">
 <!ENTITY allowRemoteContent.accesskey   "d">
-<!ENTITY allowRemoteContent.tooltip     "Yn HTML berjochten is it mooglik om
-ôfbyldings fanoare boarnen te pleatsen. It iepenjen fan sa'n bejocht sil in
-ferbining iepenje nei dizze eksterne boarne. It is mooglik dat sjoen wurd dat 
-it brjocht lêzen is. It oanfinken fan dit fak stiet it laden fan dizze eksterne
-ôfbyldings yn HTML-berjochten fan dit persoan ta.">
+<!ENTITY allowRemoteContent.tooltip     "Yn HTML-berjochten is it mooglik om
+ôfbyldings fan oare boarnen te pleatsen. It iepenjen fan sa'n berjocht
+iepenet in ferbining nei dizze eksterne boarne. It is mooglik dat sjoen wurdt dat 
+it berjocht lêzen is. It oanfinken fan dit fak stiet it laden fan dizze eksterne
+ôfbyldings yn HTML-berjochten fan dizze persoan ta.">
 
 <!ENTITY WorkPhone.label "Wurk">
 <!ENTITY WorkPhone.accesskey "r">

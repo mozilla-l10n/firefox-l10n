@@ -7,7 +7,7 @@
 <!ENTITY deleteAddrBookCard.label           "Fuortsmite">
 <!ENTITY addrBookCardProperties.label       "Eigenskippen">
 <!ENTITY addtoToFieldMenu.label             "Tafoegje oan it Oan-fjild">
-<!ENTITY addtoCcFieldMenu.label             "Tafoegje oan it CC-fjild">
+<!ENTITY addtoCcFieldMenu.label             "Tafoegje oan it Cc-fjild">
 <!ENTITY addtoBccFieldMenu.label            "Tafoegje oan it Bcc-fjild">
 
 <!ENTITY toButton.label                     "Tafoegje oan Oan:">
