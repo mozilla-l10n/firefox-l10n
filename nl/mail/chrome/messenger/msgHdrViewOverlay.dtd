@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Bewerken…">
 <!ENTITY archiveButton.label "archiveren">
 <!ENTITY hdrReplyButton.label "beantwoorden">
+<!ENTITY hdrReplyAllButton.label "allen beantwoorden">
 <!ENTITY hdrForwardButton.label "doorsturen">
 <!ENTITY hdrJunkButton.label "ongewenst">
 <!ENTITY trashButton.tooltiptext "verwijderen">
