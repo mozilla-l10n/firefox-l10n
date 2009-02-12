@@ -19,7 +19,7 @@
 <!ENTITY findNextCmd.label "Znajdź następny">
 <!ENTITY findNextCmd.accesskey "n">
 
-<!ENTITY goToLineCmd.label "Przejdź do wiersza...">
+<!ENTITY goToLineCmd.label "Przejdź do wiersza…">
 <!ENTITY goToLineCmd.accesskey "P">
 <!ENTITY goToLineCmd.commandkey "l">
 

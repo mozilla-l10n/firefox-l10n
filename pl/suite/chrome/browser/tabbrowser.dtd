@@ -13,5 +13,5 @@
 <!ENTITY bookmarkGroup.accesskey "g">
 <!ENTITY closeTabButton.tooltip "Zamknij bieżącą kartę">
 <!ENTITY newTabButton.tooltip "Otwórz nową kartę">
-<!ENTITY undoCloseTab.label "Cofnij zamknięcie karty">
-<!ENTITY undoCloseTab.accesskey "C">
+<!ENTITY undoCloseTab.label "Przywróć zamkniętą kartę">
+<!ENTITY undoCloseTab.accesskey "P">

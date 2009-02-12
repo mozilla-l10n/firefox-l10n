@@ -10,7 +10,7 @@
 <!ENTITY importFromFile.label "Plik">
 <!ENTITY importFromFile.accesskey "P">
 <!ENTITY importFromNothing.label "Nie importuj niczego">
-<!ENTITY importFromNothing.accesskey "N">
+<!ENTITY importFromNothing.accesskey "r">
 
 <!ENTITY importSource.title "Importuj ustawienia i dane">
 <!ENTITY importItems.title "Elementy do zaimportowania">

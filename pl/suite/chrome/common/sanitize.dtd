@@ -12,7 +12,7 @@
 <!ENTITY itemCookies.label "ciasteczka">
 <!ENTITY itemCookies.accesskey "c">
 <!ENTITY itemOfflineApps.label "dane witryn trybu offline">
-<!ENTITY itemOfflineApps.accesskey "o">
+<!ENTITY itemOfflineApps.accesskey "d">
 <!ENTITY itemPasswords.label "zapamiętane hasła">
 <!ENTITY itemPasswords.accesskey "z">
 <!ENTITY itemSessions.label "sesje uwierzytelnione">
