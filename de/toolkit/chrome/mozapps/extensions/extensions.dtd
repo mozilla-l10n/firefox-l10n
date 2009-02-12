@@ -100,7 +100,7 @@
 <!ENTITY cmd.about2.label                 "Über dieses Add-on">
 <!ENTITY cmd.about.accesskey              "Ü">
 <!ENTITY cmd.checkUpdate.label            "Aktualisieren">
-<!ENTITY cmd.checkUpdate.accesskey        "A">
+<!ENTITY cmd.checkUpdate.accesskey        "k">
 
 <!ENTITY cmd.includeUpdate.label          "Update einschließen">
 <!ENTITY cmd.includeUpdate.accesskey      "d">
