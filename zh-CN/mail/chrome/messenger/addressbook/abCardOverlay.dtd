@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "昵称：">
 <!ENTITY NickName.accesskey             "N">
 
-<!ENTITY Internet.box                   "因特网">
 <!ENTITY PrimaryEmail.label             "电子邮件：">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "辅助邮件：">
@@ -113,9 +112,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "生日：">
 <!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "年">
 <!ENTITY Or.value                       "或者">
 <!ENTITY Age.emptytext                  "年纪">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "工作">
 <!ENTITY Work.accesskey                 "W">

@@ -1,0 +1,33 @@
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more activities in the list -->
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "300">
+
+<!ENTITY activity.title                  "活动管理器">
+
+<!ENTITY cmd.pause.label                  "暂停">
+<!ENTITY cmd.pause.accesskey              "暂">
+<!ENTITY cmd.resume.label                 "恢复">
+<!ENTITY cmd.resume.accesskey             "恢">
+<!ENTITY cmd.cancel.label                 "取消">
+<!ENTITY cmd.cancel.accesskey             "取">
+<!ENTITY cmd.undo.label                   "撤消">
+<!ENTITY cmd.undo.accesskey               "撤">
+<!ENTITY cmd.recover.label                "恢复">
+<!ENTITY cmd.recover.accesskey            "恢">
+<!ENTITY cmd.retry.label                  "重试">
+<!ENTITY cmd.retry.accesskey              "重">
+<!ENTITY cmd.removeFromList.label         "从列表中移除">
+<!ENTITY cmd.removeFromList.accesskey     "从">
+
+<!ENTITY cmd.close.commandkey             "w">
+<!ENTITY cmd.close2.commandkey            "j">
+<!ENTITY cmd.close2Unix.commandkey        "y">
+<!ENTITY cmd.clearList.label              "清空列表">
+<!ENTITY cmd.clearList.tooltip            "从列表中移除已完成，已取消或者已失败的条目">
+<!ENTITY cmd.clearList.accesskey          "清">
+<!ENTITY cmd.find.commandkey              "f">
+<!ENTITY cmd.search.commandkey            "k">
+
+<!ENTITY searchBox.label                  "搜索…">

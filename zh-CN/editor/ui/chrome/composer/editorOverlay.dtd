@@ -112,11 +112,11 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "输入同时进行拼写检查">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd.label "拼写检查">
-<!ENTITY checkSpellingCmd.accesskey "h">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "拼写检查">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "验证 HTML">
-<!ENTITY validateCmd.accesskey "验">
+<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "插入">

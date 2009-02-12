@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "重做移动消息">
 <!ENTITY undoCopyMsgCmd.label "撤销 复制消息">
 <!ENTITY redoCopyMsgCmd.label "重做复制消息">
+<!ENTITY undoMarkAllCmd.label "撤消全部标记为已读">
+<!ENTITY redoMarkAllCmd.label "重做全部标记为已读">
 <!ENTITY undoDefaultCmd.label "撤销">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "重做">
@@ -307,6 +309,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "消息">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "归档">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "回复">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "r">
@@ -404,12 +409,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "附加组件">
 <!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "活动管理器">
+<!ENTITY activitymanager.accesskey "A">
 <!ENTITY messengerCmd.label "邮件和新闻组">
 <!ENTITY messengerCmd.accesskey "m">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "通讯录">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "对文件夹运行垃圾邮件控制">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "删除当前文件夹中标记为垃圾的消息">
@@ -445,6 +450,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "垃圾">
 <!ENTITY notJunkButton.label "非垃圾">
 <!ENTITY addressBookButton.label "通讯录">
+<!ENTITY glodaSearch.title "全局搜索">
 <!ENTITY searchItem.title "快速搜索">
 <!ENTITY mailViewsToolbarItem.title "邮件视图">
 <!ENTITY folderLocationToolbarItem.title "文件夹地址">
@@ -527,6 +533,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "名称或者电子邮件包含:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "搜索消息…">
+<!ENTITY glodaSearchBar.facet.label "搜索：">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "全部">
+<!ENTITY glodaSearchFacet.subject.label "标题">
+<!ENTITY glodaSearchFacet.involves.label "参与者 （from,to,cc,bcc）">
+<!ENTITY glodaSearchFacet.to.label "To，CC">
+<!ENTITY glodaSearchFacet.from.label "发件人">
+<!ENTITY glodaSearchFacet.body.label "消息文本">
+<!ENTITY glodaSearchFacet.attachmentNames.label "附件名称">
+
+<!ENTITY glodaSearchBar.location.label "地址：">
+<!ENTITY glodaSearchFacet.everywhere.label "全部文件夹">
+<!ENTITY glodaSearchFacet.folder.label "位于某个文件夹…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "标题">
 <!ENTITY searchFromMenu.label "发件人">
@@ -556,6 +587,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "地址">
 <!ENTITY idColumn.label "按接收时间排序">
 <!ENTITY attachmentColumn.label "附件">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "原因">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "点击选择要显示的列">
@@ -578,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "点击按地址排序">
 <!ENTITY idColumn.tooltip "点击按接收顺序排序">
 <!ENTITY attachmentColumn.tooltip "点击对附件排序">
+<!ENTITY glodaWhyColumn.tooltip "点击将搜索结果按消息被列入的原因排序">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "在新窗口中打开消息">

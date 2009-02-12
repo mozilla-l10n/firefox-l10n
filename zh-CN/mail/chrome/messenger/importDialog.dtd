@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "导入">
-<!ENTITY importDialog.allTitle    "全部导入">
-<!ENTITY importDialog.mailTitle   "邮件">
-<!ENTITY importDialog.addressbookTitle "通讯录">
-<!ENTITY importDialog.settingsTitle "设置">
-<!ENTITY importDialog.filtersTitle "过滤器">
+<!ENTITY importAll.label          "全部导入">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "邮件">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "通讯录">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "设置">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "过滤器">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "一旦导入，您就可以从 &brandShortName; 存取他们。">
 
 <!ENTITY selectDescription.label  "请选择导入的文件类型：">
+<!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label               "&lt; 后退">
 <!ENTITY forward.label            "下一步 &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x的每一个名片对应一个邮件地址，而 &brandShortName;对应两个地址（家庭和工作）。">
 <!ENTITY FieldDiscInputText2.label  "选择您想要保存导入的重要邮件地址的类别：">
 <!ENTITY FieldDiscWarning.label  "此类别将在已选择通讯录的所有条目中使用：">
-<!ENTITY importDialog.homeTitle  "家庭">
-<!ENTITY importDialog.workTitle  "工作">
+<!ENTITY importHome.label        "家庭">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "工作">
+<!ENTITY importWork.accesskey    "W">

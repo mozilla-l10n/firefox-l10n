@@ -29,16 +29,14 @@
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro         "&brandShortName; 能记住您所有帐户的密码信息，因此您不必在每次登录时重复输入密码。">
-<!ENTITY  encryptEnabled.label        "使用主密码加密保存的密码">
-<!ENTITY  encryptEnabled.accesskey    "s">
-<!ENTITY  masterPassword.intro        "设置主密码可以保护您所有的密码 - 但是您必须对每次会话输入一次主密码。">
-<!ENTITY  setMasterPassword.label     "主密码">
-<!ENTITY  setMasterPassword.accesskey "M">
-<!ENTITY  removeMasterPassword.label  "移除主密码…">
-<!ENTITY  removeMasterPassword.accesskey "R">
-<!ENTITY  editPasswords.label         "编辑已保存的密码">
-<!ENTITY  editPasswords.accesskey     "i">
+<!ENTITY savedPasswords.intro           "&brandShortName; 能记住您所有帐户的密码信息，因此您不必在每次登录时重复输入密码。">
+<!ENTITY useMasterPassword.label        "使用主密码">
+<!ENTITY useMasterPassword.accesskey    "M">
+<!ENTITY masterPassword.intro           "设置主密码可以保护您所有的密码 - 但是您必须对每次会话输入一次主密码。">
+<!ENTITY changeMasterPassword.label     "更换主密码…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label           "已保存密码…">
+<!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; 可在将消息保存到本地之前，让防病毒软件分析扫描它接收到的电子邮件。">

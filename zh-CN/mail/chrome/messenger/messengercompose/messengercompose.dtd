@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "通讯录名片…">
-<!ENTITY newCard.accesskey "c">
+<!ENTITY newContact.label "通讯录联系人…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "附加">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "文件…">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "工具栏"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
 <!ENTITY showCompositionToolbarCmd.label "编写工具栏">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "格式栏">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "状态栏">
@@ -109,10 +110,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "选项">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "检查拼写…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd2.label "检查拼写…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "S">
 <!ENTITY enableInlineSpellChecker.label "输入同时拼写检查">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "引用原始消息">
@@ -184,7 +185,6 @@
 <!ENTITY attachButton.label "附加">
 <!ENTITY spellingButton.label "拼写">
 <!ENTITY saveButton.label "保存">
-<!ENTITY throbberItem.title "活动指示器">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "现在发送此消息"> 

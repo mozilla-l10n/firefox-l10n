@@ -12,6 +12,8 @@
 <!ENTITY nntpDownloadMsg.label "消息超过">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "将旧消息永久删除可释放更多的磁盘空间">
+<!ENTITY retentionCleanupImap.label "要回收磁盘空间，可以永久删除本地副本和远程服务器上的原始旧消息。">
+<!ENTITY retentionCleanupPop.label "要回收磁盘空间，可以永久删除旧消息，包括远程服务器上的原文。">
 <!ENTITY retentionKeepMsg.label "删除超过">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "不要删除任何消息">
@@ -20,6 +22,8 @@
 <!ENTITY retentionKeepNew.accesskey "b">
 <!ENTITY retentionKeepUnread.label "总删除已读消息">
 <!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY retentionApplyToFlagged.label "总是保留已加星标之消息">
+<!ENTITY retentionApplyToFlagged.accesskey "E">
 <!ENTITY nntpRemoveBody.label "仅消息小于">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "选择用于脱机工作的新闻组…">

@@ -12,14 +12,11 @@
 <!ENTITY userName.accesskey "m">
 <!ENTITY useSecAuth.label "使用安全验证">
 <!ENTITY useSecAuth.accesskey "i">
-<!ENTITY isSecure.label "使用安全连接：">
-<!ENTITY neverSecure.label "不">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS，如果可用">
-<!ENTITY sometimesSTARTTLS.accesskey "A">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "通过 SSL 加密的 SMTP">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "连接安全：">
+<!ENTITY connectionSecurity.accesskey "N">
+<!ENTITY connectionSecurityType-0.label "无">
+<!ENTITY connectionSecurityType-1.label "STARTTLS，如果可用">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP服务器">
 <!ENTITY serverPortDefault.label "默认：">

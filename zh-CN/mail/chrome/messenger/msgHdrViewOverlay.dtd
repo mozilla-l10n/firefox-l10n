@@ -57,9 +57,11 @@
 
 <!ENTITY editMessageDescription.label "这是一份草稿消息">
 <!ENTITY editMessageButton.label "编辑…">
-<!ENTITY replyButton.label "回复…">
-<!ENTITY forwardButton.label "转发…">
-<!ENTITY junkButton.label "标记为垃圾">
+<!ENTITY archiveButton.label "归档">
+<!ENTITY hdrReplyButton.label "回复">
+<!ENTITY hdrReplyAllButton.label "全部回复">
+<!ENTITY hdrForwardButton.label "转发">
+<!ENTITY hdrJunkButton.label "垃圾">
 <!ENTITY trashButton.tooltiptext "删除">
 
 <!ENTITY otherActionsButton.label "其他操作">

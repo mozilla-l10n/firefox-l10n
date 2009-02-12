@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey                             "f">
 <!ENTITY newMenu.label                                  "新建">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "通讯录名片…">
-<!ENTITY newCard.accesskey                              "C">
-<!ENTITY newCard.key                                    "N">
+<!ENTITY newContact.label                               "通讯录联系人…">
+<!ENTITY newContact.accesskey                           "A">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "邮递列表…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "通讯录…">
@@ -25,13 +25,13 @@
 <!ENTITY closeCmd.accesskey                             "c">
 <!ENTITY printSetupCmd.label                            "页面设置…">
 <!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewCardViewCmd.label                  "卡片打印预览">
-<!ENTITY printPreviewCardViewCmd.accesskey              "v">
+<!ENTITY printPreviewContactCmd.label                   "联系人打印预览">
+<!ENTITY printPreviewContactCmd.accesskey               "v">
 <!ENTITY printPreviewAddressBook.label                  "通讯录打印预览">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printCardViewCmd.label                         "打印名片…">
-<!ENTITY printCardViewCmd.accesskey                     "p">
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactCmd.label                          "打印联系人…">
+<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "打印通讯录…">
 <!ENTITY printAddressBook.accesskey                     "A">
 
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label                                "删除">
 <!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "删除通讯录">
-<!ENTITY deleteCardCmd.label                            "删除名片">
-<!ENTITY deleteCardsCmd2.label                          "删除卡片">
+<!ENTITY deleteContactCmd.label                         "删除联系人">
+<!ENTITY deleteContactsCmd.label                        "删除联系人">
 <!ENTITY deleteListCmd.label                            "删除列表">
 <!ENTITY deleteListsCmd.label                           "删除列表">
 <!ENTITY deleteItemsCmd.label                           "删除项">
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "自定义…">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showCardPane.label                             "名片窗格">
-<!ENTITY showCardPane.accesskey                         "C">
+<!ENTITY showContactPane.label                          "联系人信息面板">
+<!ENTITY showContactPane.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label                          "名称显示方式">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "名字，姓氏">
@@ -116,27 +116,26 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "新建名片">
-<!ENTITY newcardButton.accesskey                        "C">
+<!ENTITY newContactButton.label                         "新建联系人">
+<!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "新建列表">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton.label                               "属性">
-<!ENTITY editButton.accesskey                           "P">
+<!ENTITY editButton2.label                              "属性">
+<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "新建消息">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "实时消息">
 <!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton.label                             "删除">
-<!ENTITY deleteButton.accesskey                         "D">
-<!ENTITY throbberItem.title                             "活动指示器">
+<!ENTITY deleteButton2.label                            "删除">
+<!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "创建新的通讯录名片">
+<!ENTITY newContactButton.tooltip                       "创建新的通讯录联系人">
 <!ENTITY newlistButton.tooltip                          "创建新列表">
-<!ENTITY editButton.tooltip                             "编辑选择的名片">
+<!ENTITY editButton2.tooltip                            "编辑选中项">
 <!ENTITY newmsgButton.tooltip                           "发送一个邮件消息">
 <!ENTITY newIM.tooltip                                  "发送一条即时消息或聊天">
-<!ENTITY deleteButton.tooltip                           "删除选择的名片或通讯录">
+<!ENTITY deleteButton2.tooltip                           "删除选中项">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "通讯录">

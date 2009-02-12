@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "系统默认">
-<!ENTITY alwaysCheckDefault.label          "启动时检查 &brandShortName; 是否为默认邮件客户端">
-<!ENTITY alwaysCheckDefault.accesskey      "b">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "立即检查">
-<!ENTITY checkNow.accesskey         "N">
-
 <!ENTITY messengerStartPage.label         "&brandShortName; 起始页">
 <!ENTITY enableStartPage.label            "&brandShortName; 启动时在消息区域显示起始页">
 <!ENTITY enableStartPage.accesskey        "b">
