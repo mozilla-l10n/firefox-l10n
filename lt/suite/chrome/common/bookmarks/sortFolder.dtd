@@ -36,6 +36,7 @@
 <!ENTITY description.label "Galima surikiuoti aplankus arba jų turinį. Parinkite pažymėto aplanko rikiavimo nuostatas.">
 
 <!ENTITY sortBy.label "Rikiuoti pagal:">
+<!ENTITY sortBy.accesskey "R">
 <!ENTITY sortBy.name.label "Vardas">
 <!ENTITY sortBy.url.label "Adresas">
 <!ENTITY sortBy.shortcutUrl.label "Reikšminis žodis">
@@ -45,8 +46,11 @@
 <!ENTITY sortBy.lastVisitDate.label "Paskiausiai aplankytas">
 
 <!ENTITY sortOrder.label "Rikiavimo tvarka:">
+<!ENTITY sortOrder.accesskey "t">
 <!ENTITY sortAscending.label "Pagal abėcėlę">
 <!ENTITY sortDescending.label "Atvirkščiai">
 
 <!ENTITY sortFoldersFirst.label "Aplankus išdėstyti sąrašo pradžioje">
+<!ENTITY sortFoldersFirst.accesskey "A">
 <!ENTITY sortRecursively.label "Rikiuoti poaplankių turinį">
+<!ENTITY sortRecursively.accesskey "p">
