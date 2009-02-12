@@ -6,8 +6,8 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Habilita l'indexador de missatges">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
+<!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemDefaults.label              "Paràmetres per defecte del sistema">
 <!ENTITY alwaysCheckDefault.label          "Comprova sempre si el &brandShortName; és el client de correu per defecte a l'inici">
 <!ENTITY alwaysCheckDefault.accesskey      "l">

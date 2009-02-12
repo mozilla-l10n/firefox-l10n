@@ -482,6 +482,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a brossa">
 <!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a legítims">
 <!ENTITY addressBookButton.tooltip "Vés a la llibreta d'adreces">
+<!ENTITY glodaSearch.title "Cerca global">
 <!ENTITY tagButton.tooltip "Etiqueta els missatges">
 <!ENTITY compactButton.tooltip "Treu els missatges suprimits de la carpeta seleccionada">
 
@@ -534,6 +535,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "El nom o l'adreça electrònica conté:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Cerca missatges…">
+<!ENTITY glodaSearchBar.facet.label "Cerca:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Tots els camps">
+<!ENTITY glodaSearchFacet.subject.label "Assumpte">
+<!ENTITY glodaSearchFacet.involves.label "Implicats (a,de,cc,bcc)">
+<!ENTITY glodaSearchFacet.to.label "Destinatari, CC">
+<!ENTITY glodaSearchFacet.from.label "Remitent">
+<!ENTITY glodaSearchFacet.body.label "Text del missatge">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Noms de les adjuncions">
+
+<!ENTITY glodaSearchBar.location.label "Ubicació:">
+<!ENTITY glodaSearchFacet.everywhere.label "Totes les carpetes">
+<!ENTITY glodaSearchFacet.folder.label "En una carpeta determinada…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Assumpte">
 <!ENTITY searchFromMenu.label "Remitent">
@@ -563,6 +589,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Ubicació">
 <!ENTITY idColumn.label "Ordre de rebuda">
 <!ENTITY attachmentColumn.label "Adjuncions">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Motiu">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Feu un clic per a seleccionar les columnes a visualitzar">
@@ -585,6 +615,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Feu un clic per a ordenar per ubicació">
 <!ENTITY idColumn.tooltip "Feu clic per a ordenar per ordre de recepció">
 <!ENTITY attachmentColumn.tooltip "Feu un clic per a ordenar per adjuncions">
+<!ENTITY glodaWhyColumn.tooltip "Feu un clic per a ordenar pel motiu per el qual el missatge és a la llista de resultats"> 
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
