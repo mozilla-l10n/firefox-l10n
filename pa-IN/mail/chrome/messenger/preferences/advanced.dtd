@@ -6,12 +6,12 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "ਸੁਨੇਹਾ ਇੰਡੈਕਸਰ ਯੋਗ">
-<!ENTITY enableGloda.accesskey         "i">
-<!ENTITY systemDefaults.label          "System Defaults">
-<!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY enableGlodaSearch.label       "ਗਲੋਬਲ ਖੋਜ ਅਤੇ ਇੰਡੈਕਸਰ ਚਾਲੂ">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY systemDefaults.label          "ਸਿਸਟਮ ਡਿਫਾਲਟ">
+<!ENTITY alwaysCheckDefault.label      "ਹਮੇਸ਼ਾਂ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ &brandShortName; ਡਿਫਾਲਟ ਮੇਲ ਕਲਾਇਟ ਹੈ">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY checkNow.label                "Check Now">
+<!ENTITY checkNow.label                "ਹੁਣੇ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkNow.accesskey            "N">
 
 <!ENTITY showCondensedAddresses.label  "ਜਿਹੜੇ ਲੋਕ ਮੇਰੀ ਐਡਰੈੱਸ ਬੁੱਕ ਵਿੱਚ ਹੋਣ, ਕੇਵਲ ਉਨ੍ਹਾਂ ਲਈ ਹੀ ਨਾਂ ਵੇਖਾਓ">
@@ -54,7 +54,7 @@
 <!ENTITY modeAskMe.accesskey            "k">
 <!ENTITY modeAutomatic.label            "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY modeAutomatic.accesskey        "m">
-<!ENTITY modeAutoAddonWarn.label        "Warn me if this will disable any of my add-ons">
+<!ENTITY modeAutoAddonWarn.label        "ਮੈਨੂੰ ਚੇਤਾਵਨੀ ਦਿਓ, ਜਦੋਂ ਇਹ ਮੇਰੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਬੰਦ ਕਰੇ">
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ">
 <!ENTITY showUpdates.accesskey          "y">
