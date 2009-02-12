@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key      "W">
 <!ENTITY closeCmd.accesskey    "c">
 
-<!ENTITY closeWindow.label "关闭窗口">
-
 <!ENTITY quitApplicationCmd.label  "退出">
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "x">

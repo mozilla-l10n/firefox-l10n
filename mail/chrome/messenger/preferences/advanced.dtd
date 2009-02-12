@@ -6,8 +6,23 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Enable Message Indexer">
-<!ENTITY enableGloda.accesskey         "I">
+<!ENTITY enableGlodaSearch.label       "启用全局搜索以及索引">
+<!ENTITY enableGlodaSearch.accesskey   "I">
+<!ENTITY systemDefaults.label          "系统默认值">
+<!ENTITY alwaysCheckDefault.label      "启动时检查 &brandShortName; 是否为默认邮件客户端">
+<!ENTITY alwaysCheckDefault.accesskey  "L">
+<!ENTITY checkNow.label                "立即检查…">
+<!ENTITY checkNow.accesskey            "N">
+<!ENTITY configEditDesc.label          "高级配置">
+<!ENTITY configEdit.label              "配置编辑器…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "指定 &brandShortName; 如何处理回执">
+<!ENTITY showReturnReceipts.label      "回执…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "阅读">
+<!ENTITY display.caption               "显示">
 <!ENTITY showCondensedAddresses.label  "仅显示我通讯录中联系人的显示名。">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -21,23 +36,11 @@
 <!ENTITY markAsReadDelay.label         "显示超过">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "秒">
-<!ENTITY showFolderColumns.label       "在文件夹面板中显示扩展的列。">
-<!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY openMsgIn.label               "打开消息，使用：">
 <!ENTITY reuseExpRadio0.label          "新的消息窗口">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "已打开的消息窗口">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY configEditDesc.label          "高级配置">
-<!ENTITY configEdit.label              "配置编辑器…">
-<!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "指定 &brandShortName; 如何处理回执">
-<!ENTITY showReturnReceipts.label      "回执…">
-<!ENTITY showReturnReceipts.accesskey  "R">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "阅读">
-<!ENTITY display.caption                "显示">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "自动检查下列组件的更新：">
@@ -45,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "已安装的附加组件">
 <!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY checkNow.label                 "立即检查…">
 <!ENTITY whenUpdatesFound.label         "当找到 &brandShortName; 的更新时，">
 <!ENTITY modeAskMe.label                "询问我要如何做">
 <!ENTITY modeAskMe.accesskey            "k">

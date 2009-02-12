@@ -5,3 +5,4 @@
 <!ENTITY aboutLink.accesskey    "l">
 <!ENTITY aboutVersion           "版本">
 <!ENTITY copyrightText          "©1998-2007 贡献者。保留所有权利。 Mozilla Thunderbird 以及                                   Thunderbird 标志是  Mozilla Foundation 的商标。  保留所有权利。 ">
+<!ENTITY cmdCloseMac.commandKey "w">

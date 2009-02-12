@@ -10,7 +10,6 @@
 <!ENTITY port.label "端口：">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "默认：">
-<!ENTITY savePassword.label "保存密码">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -19,17 +18,12 @@
 <!ENTITY biffStart.label "每隔">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "分钟检查一次新消息">
-<!ENTITY isSecure.label "使用安全连接 (SSL)">
-<!ENTITY isSecure.accesskey "使">
-<!ENTITY socketType.label "使用安全连接:">
-<!ENTITY neverSecure.label "从不">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS ，如果可用">
-<!ENTITY sometimesSecure.accesskey "T">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "连接安全：">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "无">
+<!ENTITY connectionSecurityType-1.label "STARTTLS，如果可用">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "使用安全认证">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "把消息留在服务器上">

@@ -21,6 +21,11 @@
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "其他：">
 <!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "&quot;归档&quot; 文件夹于：">
+<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "其他：">
+<!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "“模板”文件夹：">
 <!ENTITY templatesFolderOn.accesskey "m">
@@ -28,4 +33,5 @@
 <!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY specialFoldersTitle.label "草稿和模板">
 <!ENTITY keepDrafts.label "保留消息草稿在：">
+<!ENTITY keepArchives.label "保存消息归档至：">
 <!ENTITY keepTempltes.label "保留消息模板到：">
