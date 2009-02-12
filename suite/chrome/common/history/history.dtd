@@ -68,11 +68,11 @@
 <!ENTITY cmd.open_window.accesskey            "l">
 <!ENTITY cmd.open_tab.label                   "Atverti naujoje kortelėje">
 <!ENTITY cmd.open_tab.accesskey               "o">
-<!ENTITY cmd.open_all_in_tabs.label           "Atverti kortelėse">
-<!ENTITY cmd.open_all_in_tabs.accesskey       "A">
 
-<!ENTITY bookmarkCmd.label                    "Saitą įrašyti į adresyną…">
-<!ENTITY bookmarkCmd.accesskey                "d">
+<!ENTITY bookmarkLinkCmd.label                "Saitą įrašyti į adresyną…">
+<!ENTITY bookmarkLinkCmd.accesskey            "d">
+<!ENTITY bookmarkLinksCmd.label               "Saitus įrašyti į adresyną">
+<!ENTITY bookmarkLinksCmd.accesskey           "d">
 
 <!ENTITY col.title.label                      "Pavadinimas">
 <!ENTITY col.title.accesskey                  "P">
