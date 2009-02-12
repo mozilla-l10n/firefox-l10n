@@ -71,7 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Lesezeichen für alle Tabs hinzufügen…">
 <!ENTITY organizeBookmarks.label "Lesezeichen verwalten…">
 <!ENTITY bookmarkAllCmd.label "Lesezeichen für alle Tabs hinzufügen…">
-<!ENTITY bookmarksToolbarChevron.tooltip "Weitere Lesezeichen zeigen">
+<!ENTITY bookmarksToolbarChevron.tooltip "Weitere Lesezeichen anzeigen">
 
 <!ENTITY backCmd.label                "Zurück">
 <!ENTITY backCmd.accesskey            "Z">
