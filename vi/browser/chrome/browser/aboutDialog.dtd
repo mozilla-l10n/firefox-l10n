@@ -1,6 +1,6 @@
 <!ENTITY aboutDialog.title          "Thông tin về &brandFullName;">
-<!ENTITY copyright                  "Những người thực hiện">
-<!ENTITY copyright.accesskey        "N">
+<!ENTITY copyright                  "Công trạng">
+<!ENTITY copyright.accesskey        "C">
 <!ENTITY copyrightGNOME.accesskey   "h">
 <!ENTITY aboutLink                  "&lt; Thông tin về &brandFullName;">
 <!ENTITY aboutLink.accesskey        "v">
