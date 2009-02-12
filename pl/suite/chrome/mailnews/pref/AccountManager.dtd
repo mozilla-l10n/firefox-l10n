@@ -18,4 +18,4 @@
      this window for en-US. -->
 <!ENTITY accountManager.size "width: 70em; height: 50em;">
 <!ENTITY macAccountManager.size "width: 72em; height: 50em;">
-<!ENTITY accountTree.width "width: 17em;">
+<!ENTITY accountTree.width "width: 19em;">
