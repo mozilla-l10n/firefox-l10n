@@ -484,6 +484,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Skräppost">
 <!ENTITY notJunkButton.label "Ej skräp">
 <!ENTITY addressBookButton.label "Adressboken">
+<!ENTITY glodaSearch.title "Global sökning">
 <!ENTITY searchItem.title "Snabbsökning">
 <!ENTITY mailViewsToolbarItem.title "Meddelandevyer">
 <!ENTITY folderLocationToolbarItem.title "Mappväljare">
@@ -566,6 +567,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "Namn eller meddelande innehåller:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Sök meddelanden…">
+<!ENTITY glodaSearchBar.facet.label "Sök:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Allt">
+<!ENTITY glodaSearchFacet.subject.label "Ämne">
+<!ENTITY glodaSearchFacet.involves.label "Berör (från,till,kopia,dold kopia)">
+<!ENTITY glodaSearchFacet.to.label "Till, Kopia">
+<!ENTITY glodaSearchFacet.from.label "Från">
+<!ENTITY glodaSearchFacet.body.label "Meddelandetext">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Namn på bilagor">
+
+<!ENTITY glodaSearchBar.location.label "Plats:">
+<!ENTITY glodaSearchFacet.everywhere.label "Alla mappar">
+<!ENTITY glodaSearchFacet.folder.label "I en specifik mapp…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Ämne">
 <!ENTITY searchFromMenu.label "Från">
@@ -595,6 +621,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Plats">
 <!ENTITY idColumn.label "Mottagen ordning">
 <!ENTITY attachmentColumn.label "Bilagor">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Varför">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klicka för att välja vilka kolumner som ska visas">
@@ -617,6 +647,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Klicka för att ordna efter plats">
 <!ENTITY idColumn.tooltip "Klicka för att ordna efter mottagen ordning">
 <!ENTITY attachmentColumn.tooltip "Klicka för att ordna efter bilagor">
+<!ENTITY glodaWhyColumn.tooltip "Klicka för att ordna efter orsaken till att meddelandet finns bland sökresultaten">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Öppna meddelande i nytt fönster">
