@@ -61,10 +61,11 @@
 <!ENTITY editMessageDescription.label "Aço és un esborrany">
 <!ENTITY editMessageButton.label "Edita…">
 <!ENTITY archiveButton.label "arxiu">
-<!ENTITY replyButton.label "respon…">
-<!ENTITY forwardButton.label "reenvia…">
-<!ENTITY junkButton.label "marca com a brossa">
 <!ENTITY trashButton.tooltiptext "suprimeix">
+<!ENTITY hdrReplyButton.label "respon">
+<!ENTITY hdrReplyAllButton.label "respon tots">
+<!ENTITY hdrForwardButton.label "reenvia">
+<!ENTITY hdrJunkButton.label "marca com a brossa">
 
 <!ENTITY otherActionsButton.label "altres accions">
 <!ENTITY saveAsMenuItem.label "anomena i desa…">
