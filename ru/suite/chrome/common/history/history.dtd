@@ -30,10 +30,10 @@
 <!ENTITY cmd.open_window.accesskey "н">
 <!ENTITY cmd.open_tab.label "Открыть ссылку в новой вкладке">
 <!ENTITY cmd.open_tab.accesskey "в">
-<!ENTITY cmd.open_all_in_tabs.label "Открыть всё во вкладках">
-<!ENTITY cmd.open_all_in_tabs.accesskey "в">
-<!ENTITY bookmarkCmd.label "Добавить ссылку в закладки…">
-<!ENTITY bookmarkCmd.accesskey "с">
+<!ENTITY bookmarkLinkCmd.label "Добавить ссылку в закладки…">
+<!ENTITY bookmarkLinkCmd.accesskey "б">
+<!ENTITY bookmarkLinksCmd.label "Сделать закладки на эти ссылки">
+<!ENTITY bookmarkLinksCmd.accesskey "д">
 <!ENTITY col.title.label "Заголовок">
 <!ENTITY col.title.accesskey "г">
 <!ENTITY col.url.label "Адрес">

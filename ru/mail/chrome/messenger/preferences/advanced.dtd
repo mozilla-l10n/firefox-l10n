@@ -3,8 +3,8 @@
 <!ENTITY itemUpdate.label "Обновления">
 <!ENTITY itemNetworking.label "Сеть и дисковое пространство">
 <!ENTITY itemCertificates.label "Сертификаты">
-<!ENTITY enableGloda.label "Включить индексацию сообщений">
-<!ENTITY enableGloda.accesskey "к">
+<!ENTITY enableGlodaSearch.label "Включить глобальный поиск и индекс">
+<!ENTITY enableGlodaSearch.accesskey "и">
 <!ENTITY systemDefaults.label "Системные настройки по умолчанию">
 <!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
 <!ENTITY alwaysCheckDefault.accesskey "п">
