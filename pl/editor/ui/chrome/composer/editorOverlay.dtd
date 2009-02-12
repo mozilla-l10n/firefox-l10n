@@ -393,8 +393,8 @@
 <!ENTITY tableDeleteMenu.accesskey "U">
 <!-- text for "Join Cells" is in editor.properties ("JoinSelectedCells" and "JoinCellToRight") the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly -->
-<!ENTITY tableJoinCells.label      "Złącz komórki">
-<!ENTITY tableJoinCells.accesskey  "p">
+<!ENTITY tableJoinCells.label      "Połącz komórki">
+<!ENTITY tableJoinCells.accesskey  "P">
 <!ENTITY tableSplitCell.label      "Podziel komórkę">
 <!ENTITY tableSplitCell.accesskey  "d">
 <!ENTITY convertToTable.label      "Utwórz tabelę z zaznaczenia">

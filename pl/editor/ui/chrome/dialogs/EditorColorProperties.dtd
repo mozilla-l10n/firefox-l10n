@@ -43,7 +43,7 @@
 <!ENTITY defaultColorsRadio.accessKey "D">
 <!ENTITY defaultColorsRadio.tooltip "Użyj ustawień kolorów odbiorcy">
 <!ENTITY customColorsRadio.label      "Używaj wybranych kolorów">
-<!ENTITY customColorsRadio.accessKey "f">
+<!ENTITY customColorsRadio.accessKey "U">
 <!ENTITY customColorsRadio.tooltip "Te ustawienia kolorów zastępują ustawienia odbiorcy">
 <!ENTITY normalText.label "Zwykły tekst">
 <!ENTITY normalText.accessKey "Z">
