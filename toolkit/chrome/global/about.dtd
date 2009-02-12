@@ -10,10 +10,10 @@
 
 <!ENTITY about.relnotes.beforeLink    "Đọc">
 <!ENTITY about.relnotes.linkTitle     "ghi chú phát hành">
-<!ENTITY about.relnotes.afterLink     "cho phiên bản này.">
+<!ENTITY about.relnotes.afterLink     "của phiên bản này.">
 
 <!ENTITY about.buildconfig.beforeLink "Xem">
 <!ENTITY about.buildconfig.linkTitle  "cấu hình bản xây dựng">
 <!ENTITY about.buildconfig.afterLink  "được dùng cho phiên bản này.">
 
-<!ENTITY about.buildIdentifier        "Chỉ báo bản xây dựng:">
+<!ENTITY about.buildIdentifier        "Chỉ báo bản xây dựng: ">

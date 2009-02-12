@@ -9,12 +9,12 @@
 <!ENTITY  button-back-unix.accesskey   "L">
 <!ENTITY  button-next-unix.label       "Tiến">
 <!ENTITY  button-next-unix.accesskey   "T">
-<!ENTITY  button-finish-unix.label     "Hoàn tất">
+<!ENTITY  button-finish-unix.label     "Hoàn thành">
 <!ENTITY  button-cancel-unix.label     "Hủy bỏ">
 
 <!ENTITY  button-back-win.label        "&lt; Lùi">
 <!ENTITY  button-back-win.accesskey    "L">
 <!ENTITY  button-next-win.label        "Tiến &gt;">
 <!ENTITY  button-next-win.accesskey    "T">
-<!ENTITY  button-finish-win.label      "Hoàn tất">
+<!ENTITY  button-finish-win.label      "Hoàn thành">
 <!ENTITY  button-cancel-win.label      "Hủy bỏ">

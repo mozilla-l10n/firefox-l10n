@@ -41,7 +41,7 @@
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Ẩn các ứng dụng khác">
+<!ENTITY hideOtherAppsCmdMac.label      "Ẩn các Chương trình khác">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 

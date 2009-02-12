@@ -58,7 +58,7 @@
 <!ENTITY unknownOpeningTitle "Đang mở #1">
 
 <!-- Labels on other fields -->
-<!ENTITY status      "Tình trạng:"> 
+<!ENTITY status      "Trạng thái:"> 
 <!ENTITY timeElapsed "Thời gian Đã qua:">
 <!ENTITY timeLeft    "Thời gian Còn lại:">
 <!ENTITY progress    "Tiến trình:">
