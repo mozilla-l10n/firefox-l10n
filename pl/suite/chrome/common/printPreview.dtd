@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "Drukuj...">
+<!ENTITY print.label "Drukuj…">
 <!ENTITY print.accesskey "D">
-<!ENTITY pageSetup.label "Ustawienia strony...">
+<!ENTITY pageSetup.label "Ustawienia strony…">
 <!ENTITY pageSetup.accesskey "u">
 <!ENTITY page.label "Strona:">
 <!ENTITY page.accesskey "a">
@@ -62,9 +62,9 @@
 <!ENTITY p150.label "150&#037;">
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
-<!ENTITY Custom.label "Użytkownika...">
+<!ENTITY Custom.label "Użytkownika…">
 <!ENTITY ShrinkToFit.label "Dostosuj do szerokości strony">
-<!ENTITY customPrompt.title "Skalowanie...">
+<!ENTITY customPrompt.title "Skalowanie…">
 
 <!ENTITY homearrow.tooltip "Pierwsza strona">
 <!ENTITY endarrow.tooltip "Ostatnia strona">
