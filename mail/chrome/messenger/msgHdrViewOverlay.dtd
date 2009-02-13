@@ -37,20 +37,20 @@
 
 <!ENTITY toField2.label "către ">
 <!ENTITY fromField2.label "from ">
-<!ENTITY senderField2.label "sender ">
-<!ENTITY organizationField2.label "organization ">
-<!ENTITY replyToField2.label "reply-to ">
+<!ENTITY senderField2.label "expeditor ">
+<!ENTITY organizationField2.label "organizație ">
+<!ENTITY replyToField2.label "răspunde-la ">
 
-<!ENTITY subjectField2.label "subject ">
+<!ENTITY subjectField2.label "subiect ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
 <!ENTITY newsgroupsField2.label "newsgroups ">
 <!ENTITY followupToField2.label "followup-to ">
-<!ENTITY tagsHdr2.label "tags ">
-<!ENTITY dateField2.label "date ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
+<!ENTITY tagsHdr2.label "etichete ">
+<!ENTITY dateField2.label "data ">
+<!ENTITY userAgentField2.label "agent-utilizator ">
+<!ENTITY referencesField2.label "referințe ">
 <!ENTITY messageIdField2.label "message-id ">
 <!ENTITY inReplyToField2.label "in-reply-to ">
 <!ENTITY originalWebsite2.label "sait web ">
@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Editează…">
 <!ENTITY archiveButton.label "arhivează">
 <!ENTITY hdrReplyButton.label "răspunde">
+<!ENTITY hdrReplyAllButton.label "răspunde la toți">
 <!ENTITY hdrForwardButton.label "înaintează">
 <!ENTITY hdrJunkButton.label "spam">
 <!ENTITY trashButton.tooltiptext "șterge">

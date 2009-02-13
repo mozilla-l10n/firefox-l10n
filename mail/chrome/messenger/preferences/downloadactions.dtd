@@ -25,8 +25,8 @@
 <!ENTITY  filter.label                        "Caută:">
 <!ENTITY  filter.accesskey                    "C">
 <!ENTITY  clear.label                         "Șterge">
-<!ENTITY  clear.accesskey                     "Ș">
+<!ENTITY  clear.accesskey                     "t">
 
 <!ENTITY  button.close.label                  "Închide">
-<!ENTITY  button.close.accesskey              "Î">
+<!ENTITY  button.close.accesskey              "n">
 

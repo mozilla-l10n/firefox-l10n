@@ -68,9 +68,9 @@
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "Î">
+<!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Șterge">
-<!ENTITY deleteCmd.accesskey "Ș">
+<!ENTITY deleteCmd.accesskey "t">
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
@@ -250,7 +250,7 @@
 <!ENTITY openAttachment.label "Deschide">
 <!ENTITY openAttachment.accesskey "D">
 <!ENTITY delete.label "Șterge">
-<!ENTITY delete.accesskey "Ș">
+<!ENTITY delete.accesskey "t">
 <!ENTITY renameAttachment.label "Redenumește…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selectează tot">

@@ -3,7 +3,7 @@
 <!ENTITY itemSpellCheck.label                "Ortografie">
 
 <!ENTITY forwardMsg.label                     "Înaintează mesajele:">
-<!ENTITY forwardMsg.accesskey                 "Î">
+<!ENTITY forwardMsg.accesskey                 "n">
 <!ENTITY inline.label                         "Mesaj inclus">
 <!ENTITY inline.accesskey                     "i">
 <!ENTITY asAttachment.label                   "Ca anexă">

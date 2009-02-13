@@ -50,7 +50,7 @@
 <!ENTITY enableAddonsUpdate.accesskey   "t">
 <!ENTITY whenUpdatesFound.label         "Când sunt găsite actualizări pentru Thundebird,">
 <!ENTITY modeAskMe.label                "Întreabă-mă ce vreau să fac">
-<!ENTITY modeAskMe.accesskey            "Î">
+<!ENTITY modeAskMe.accesskey            "n">
 <!ENTITY modeAutomatic.label            "Descarcă și instalează actualizarea automat">
 <!ENTITY modeAutomatic.accesskey        "m">
 <!ENTITY modeAutoAddonWarn.label        "Avertizează-mă dacă asta va duce la dezactivarea unora dintre suplimentele mele">

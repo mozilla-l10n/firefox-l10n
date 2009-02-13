@@ -12,7 +12,7 @@
 <!ENTITY searchDialogTitle.label     "Căutare mesaje">
 <!ENTITY results.label               "Rezultate">
 <!ENTITY fileHereMenu.label          "Îndosariază aici">
-<!ENTITY fileHereMenu.accesskey      "Î">
+<!ENTITY fileHereMenu.accesskey      "n">
 <!ENTITY fileButton.label            "Îndosariază">
 <!ENTITY fileButton.accesskey        "n">
 <!ENTITY closeCmd.key                "w"> 
