@@ -51,8 +51,8 @@
 <!ENTITY openFileCmd.label "Deschide fișier…">
 <!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.key "D">
-<!ENTITY openRemoteCmd.label "Open Web Location…">
-<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.label "Deschide locație web...">
+<!ENTITY openRemoteCmd.accesskey "l">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Pagini recente">
 <!ENTITY fileRecentMenu.accesskey "P">
@@ -132,7 +132,7 @@
 <!ENTITY insertHLineCmd.accesskey "L">
 <!ENTITY insertTableCmd.label "Tabel…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.label "HTML...">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Caractere și simboluri…">
 <!ENTITY insertCharsCmd.accesskey "C">
@@ -193,8 +193,8 @@
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "Size">
-<!ENTITY fontSizeMenu.accesskey "z">
+<!ENTITY fontSizeMenu.label "Mărime">
+<!ENTITY fontSizeMenu.accesskey "M">
 <!ENTITY size-xx-smallCmd.label "ff-mic">
 <!ENTITY size-xx-smallCmd.accesskey "f">
 <!ENTITY size-x-smallCmd.label "f-mic">
@@ -452,7 +452,7 @@
 <!ENTITY alignjustifyButton.tooltip "Aliniază textul la stânga și la dreapta">
 
 <!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY NormalModeTab.label "Normală">
 <!ENTITY NormalMode.label "Mod editare normal">
 <!ENTITY NormalMode.accesskey "n">
 <!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele cu nume">

@@ -1,5 +1,5 @@
 <!ENTITY notificationsDialog2.title       "Personalizează alerta de mesaj nou">
-<!ENTITY window.width                     "30em">
+<!ENTITY window.width                     "32em">
 
 <!ENTITY alertCustomization.intro         "Alege care câmpuri să fie afișate în notificare:">
 <!ENTITY previewText.label                "Previzualizarea textului din mesaj">
