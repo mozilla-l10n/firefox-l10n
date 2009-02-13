@@ -23,6 +23,6 @@
 
 <!ENTITY backgroundImage.label      "Imagine fundal:">
 <!ENTITY backgroundImage.accesskey  "g">
-<!ENTITY chooseFile.label           "Alegere fișier...">
+<!ENTITY chooseFile.label           "Alegere fișier…">
 <!ENTITY chooseFile.accesskey       "A">
 

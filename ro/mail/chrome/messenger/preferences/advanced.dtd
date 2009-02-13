@@ -11,13 +11,13 @@
 <!ENTITY systemDefaults.label          "Opțiunile implicite ale sistemului">
 <!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY checkNow.label                "Verifică acum...">
+<!ENTITY checkNow.label                "Verifică acum…">
 <!ENTITY checkNow.accesskey            "V">
 <!ENTITY configEditDesc.label          "Configurare avansată">
-<!ENTITY configEdit.label              "Editor de configurație...">
+<!ENTITY configEdit.label              "Editor de configurație…">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Configurați gestionarea confirmărilor de primire">
-<!ENTITY showReturnReceipts.label      "Confirmări de primire...">
+<!ENTITY showReturnReceipts.label      "Confirmări de primire…">
 <!ENTITY showReturnReceipts.accesskey  "r">
 
 <!-- Display and Reading Settings -->
@@ -59,13 +59,13 @@
 <!ENTITY showUpdates.accesskey          "A">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Setări...">
+<!ENTITY showSettings.label            "Setări…">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Configurați cum se conectează &brandShortName; la Internet">
 <!ENTITY connectionsInfo.caption       "Conexiune">
 <!ENTITY offlineInfo.caption           "Deconectat">
 <!ENTITY offlineInfo.label             "Configurează preferințele pentru modul deconectat">
-<!ENTITY showOffline.label             "Offline...">
+<!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "Spațiu pe disc">

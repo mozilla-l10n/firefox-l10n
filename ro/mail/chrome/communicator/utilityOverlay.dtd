@@ -29,7 +29,7 @@
 <!ENTITY selectAllCmd.label          "Selectează tot">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "o">
-<!ENTITY preferencesCmd.label        "Opțiuni...">
+<!ENTITY preferencesCmd.label        "Opțiuni…">
 <!ENTITY preferencesCmd.accesskey      "O">
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey     "e">
@@ -41,7 +41,7 @@
 <!ENTITY showTaskbarCmd.label          "Bară de stare">
 <!ENTITY showTaskbarCmd.accesskey        "s">
 
-<!ENTITY proxy.label                                    "Configurare proxy...">
+<!ENTITY proxy.label                                    "Configurare proxy…">
 <!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY closeCmd.label      "Închide">

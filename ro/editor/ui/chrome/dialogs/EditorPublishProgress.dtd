@@ -41,7 +41,7 @@
 <!ENTITY docSubdir.label       "Subdirector pagini:">
 <!ENTITY otherSubdir.label     "Subdirector imagini:">
 
-<!ENTITY status.label          "Publicare...">
+<!ENTITY status.label          "Publicare…">
 <!ENTITY fileList.label        "Starea publicării">
 <!ENTITY succeeded.label       "Reușit">
 <!ENTITY failed.label          "Eșuat">

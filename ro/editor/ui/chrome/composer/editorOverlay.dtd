@@ -48,7 +48,7 @@
 <!ENTITY newBlankPageCmd.label "Pagină Composer">
 <!ENTITY newBlankPageCmd.accesskey "P" >
 <!ENTITY newMenu.label "Nouă">
-<!ENTITY openFileCmd.label "Deschide fișier...">
+<!ENTITY openFileCmd.label "Deschide fișier…">
 <!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.key "D">
 <!ENTITY openRemoteCmd.label "Open Web Location…">
@@ -61,25 +61,25 @@
 <!ENTITY saveCmd.label "Salvează">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Salvează ca...">
+<!ENTITY saveAsCmd.label "Salvează ca…">
 <!ENTITY saveAsCmd.accesskey "S">
 
 <!ENTITY publishCmd.label "Publică">
 <!ENTITY publishCmd.accesskey "P">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publică ca...">
+<!ENTITY publishAsCmd.label "Publică ca…">
 <!ENTITY publishAsCmd.accesskey "P">
-<!ENTITY exportToTextCmd.label "Exportă ca text...">
+<!ENTITY exportToTextCmd.label "Exportă ca text…">
 <!ENTITY exportToTextCmd.accesskey "E">
 <!ENTITY saveAsChangeEncodingCmd.label "Salvează cu schimbarea codării de caractere">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "S">
 <!ENTITY previewCmd.label "Afișează în browser">
 <!ENTITY previewCmd.accesskey "A">
-<!ENTITY sendPageCmd.label "Trimite pagina...">
+<!ENTITY sendPageCmd.label "Trimite pagina…">
 <!ENTITY sendPageCmd.accesskey "T">
-<!ENTITY printSetupCmd.label "Aranjare în pagină...">
+<!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "A">
-<!ENTITY printCmd.label "Imprimă...">
+<!ENTITY printCmd.label "Imprimă…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "Închide">
@@ -94,11 +94,11 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Lipește ca">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Opțiuni sit publicare...">
+<!ENTITY publishSettings.label "Opțiuni sit publicare…">
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
-<!ENTITY findCmd.label "Caută și înlocuiește...">
+<!ENTITY findCmd.label "Caută și înlocuiește…">
 <!ENTITY findCmd.accesskey "C">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
@@ -121,20 +121,20 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserare">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Legătură...">
+<!ENTITY insertLinkCmd.label "Legătură…">
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "Ancoră cu nume...">
+<!ENTITY insertAnchorCmd.label "Ancoră cu nume…">
 <!ENTITY insertAnchorCmd.accesskey "A">
-<!ENTITY insertImageCmd.label "Imagine...">
+<!ENTITY insertImageCmd.label "Imagine…">
 <!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "Linie Orizontală">
 <!ENTITY insertHLineCmd.accesskey "L">
-<!ENTITY insertTableCmd.label "Tabel...">
+<!ENTITY insertTableCmd.label "Tabel…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Caractere și simboluri...">
+<!ENTITY insertCharsCmd.label "Caractere și simboluri…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Întrerupere sub imagine(i)">
 <!ENTITY insertBreakAllCmd.accesskey "n">
@@ -145,7 +145,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Adaugă în dicționar">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY createLinkCmd.label "Creează legătură...">
+<!ENTITY createLinkCmd.label "Creează legătură…">
 <!ENTITY createLinkCmd.accesskey "C">
 <!ENTITY editLinkCmd.label "Editează legătura în fereastră nouă Composer">
 <!ENTITY editLinkCmd.accesskey "E">
@@ -247,9 +247,9 @@
 <!ENTITY styleVar.label "Variabilă">
 <!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "Culoare text...">
+<!ENTITY formatFontColor.label "Culoare text…">
 <!ENTITY formatFontColor.accesskey "C">
-<!ENTITY tableOrCellColor.label "Tabel sau culoare de fundal a celulei...">
+<!ENTITY tableOrCellColor.label "Tabel sau culoare de fundal a celulei…">
 <!ENTITY tableOrCellColor.accesskey "b">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -292,7 +292,7 @@
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definiție">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listPropsCmd.label "Proprietăți listă...">
+<!ENTITY listPropsCmd.label "Proprietăți listă…">
 <!ENTITY listPropsCmd.accesskey "l">
 
 <!ENTITY ParagraphSelect.tooltip "Alegeți o formatare pentru paragraf">
@@ -334,9 +334,9 @@
 <!ENTITY grid.label "Grid poziționare">
 <!ENTITY grid.accesskey "d">
 
-<!ENTITY pageProperties.label "Titlul și proprietățile paginii...">
+<!ENTITY pageProperties.label "Titlul și proprietățile paginii…">
 <!ENTITY pageProperties.accesskey "T">
-<!ENTITY colorsAndBackground.label "Culorile și fundalul paginii...">
+<!ENTITY colorsAndBackground.label "Culorile și fundalul paginii…">
 <!ENTITY colorsAndBackground.accesskey "C">
 
 <!-- Table Menu -->
@@ -399,7 +399,7 @@
 <!ENTITY tableSplitCell.accesskey "S">
 <!ENTITY convertToTable.label "Creează tabel din selecție">
 <!ENTITY convertToTable.accesskey "C">
-<!ENTITY tableProperties.label "Proprietăți tabel...">
+<!ENTITY tableProperties.label "Proprietăți tabel…">
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
@@ -492,5 +492,5 @@
 <!ENTITY updateTOC.accesskey      "A">
 <!ENTITY removeTOC.label          "Elimină">
 <!ENTITY removeTOC.accesskey      "E">
-<!ENTITY tocMenu.label            "Cuprins...">
+<!ENTITY tocMenu.label            "Cuprins…">
 <!ENTITY tocMenu.accesskey        "C">

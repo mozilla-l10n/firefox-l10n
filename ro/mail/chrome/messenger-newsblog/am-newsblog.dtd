@@ -10,7 +10,7 @@
 <!ENTITY useQuickMode.label "În mod implicit arată sumarul articolului în loc să încarci pagina web"> 
 <!ENTITY useQuickMode.accesskey "b">
 
-<!ENTITY manageSubscriptions.label "Gestionare abonamente..."> 
+<!ENTITY manageSubscriptions.label "Gestionare abonamente…"> 
 <!ENTITY manageSubscriptions.accesskey "m">
 
 <!-- entities from defaults/isp/rss.rdf -->

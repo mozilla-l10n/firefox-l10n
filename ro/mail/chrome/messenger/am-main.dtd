@@ -15,16 +15,16 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Atașează următoarea semnătură:">
 <!ENTITY signature.accesskey "s">
-<!ENTITY edit.label "Editează...">
-<!ENTITY choose.label "Alege...">
+<!ENTITY edit.label "Editează…">
+<!ENTITY choose.label "Alege…">
 <!ENTITY choose.accesskey "A">
-<!ENTITY editVCard.label "Editează fișă...">
+<!ENTITY editVCard.label "Editează fișă…">
 <!ENTITY editVCard.accesskey "f">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Anexează vCard-ul meu la mesaje">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Gestiune identități...">
+<!ENTITY manageIdentities.label "Gestiune identități…">
 <!ENTITY manageIdentities.accesskey "G">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->

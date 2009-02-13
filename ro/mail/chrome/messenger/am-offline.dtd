@@ -26,9 +26,9 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Doar corpurile mesajelor de mai puțin de">
 <!ENTITY nntpRemoveBody.accesskey "p">
-<!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat...">
+<!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat…">
 <!ENTITY offlineSelectNntp.accesskey "A">
-<!ENTITY offlineImapAdvancedOffline.label "Avansat...">
+<!ENTITY offlineImapAdvancedOffline.label "Avansat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronizare mesaje">
 <!ENTITY diskspaceGroupTitle.label "Spațiu pe disc">

@@ -44,7 +44,7 @@
 <!ENTITY link.label				"Legătură">
 <!ENTITY urlFieldset.label		"URL:">
 <!ENTITY altFieldset.label		"Text alternativ:">
-<!ENTITY browseButton.label		"Răsfoiește...">
+<!ENTITY browseButton.label		"Răsfoiește…">
 <!ENTITY targetFieldset.label	"Setări legate de țintă">
 <!ENTITY target.label			"Destinație zonă">
 

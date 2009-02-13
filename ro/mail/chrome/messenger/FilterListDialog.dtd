@@ -1,9 +1,9 @@
 <!ENTITY window.title "Filtre mesaje">
 <!ENTITY nameColumn.label "Nume filtru">
 <!ENTITY activeColumn.label "Activ">
-<!ENTITY newButton.label "Nou...">
+<!ENTITY newButton.label "Nou…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Editează...">
+<!ENTITY editButton.label "Editează…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Șterge">
 <!ENTITY deleteButton.accesskey "t">

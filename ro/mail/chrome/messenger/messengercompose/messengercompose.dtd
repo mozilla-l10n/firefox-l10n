@@ -14,9 +14,9 @@
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Anexează">
 <!ENTITY attachMenu.accesskey "x">
-<!ENTITY attachFileCmd.label "Fișier(e)...">
+<!ENTITY attachFileCmd.label "Fișier(e)…">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Pagină web...">
+<!ENTITY attachPageCmd.label "Pagină web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Fișă personală (vCard)">
@@ -29,7 +29,7 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salvează ca">
 <!ENTITY saveAsCmd.accesskey "c">
-<!ENTITY saveAsFileCmd.label "Fișier...">
+<!ENTITY saveAsFileCmd.label "Fișier…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Ciornă">
 <!ENTITY saveAsDraftCmd.accesskey "C">
@@ -41,9 +41,9 @@
 <!ENTITY sendLaterCmd.label "Trimite mai târziu">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "r">
-<!ENTITY printSetupCmd.label "Aranjare în pagină...">
+<!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "j">
-<!ENTITY printCmd.label "Imprimă...">
+<!ENTITY printCmd.label "Imprimă…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
 
@@ -74,7 +74,7 @@
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
-<!ENTITY findCmd.label "Caută și înlocuiește...">
+<!ENTITY findCmd.label "Caută și înlocuiește…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "C">
 <!ENTITY findAgainCmd.label "Caută din nou">
@@ -97,7 +97,7 @@
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Bară de stare">
 <!ENTITY showTaskbarCmd.accesskey "s">
-<!ENTITY customizeToolbar.label "Personalizează...">
+<!ENTITY customizeToolbar.label "Personalizează…">
 <!ENTITY customizeToolbar.accesskey "P">
 
 <!ENTITY addressSidebar.label "Listă de contacte"> 
@@ -110,7 +110,7 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opțiuni">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd2.label "Verifică ortografia...">
+<!ENTITY checkSpellingCmd2.label "Verifică ortografia…">
 <!ENTITY checkSpellingCmd2.key "o">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "V">
@@ -163,10 +163,10 @@
 <!ENTITY addressBookCmd.label "Agendă de contacte">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Setările conturilor...">
+<!ENTITY accountManagerCmd.label "Setările conturilor…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Opțiuni...">
+<!ENTITY preferencesCmd.label "Opțiuni…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
@@ -255,9 +255,9 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selectează tot">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Anexează fișier(e)...">
+<!ENTITY attachFile.label "Anexează fișier(e)…">
 <!ENTITY attachFile.accesskey "f">
-<!ENTITY attachPage.label "Anexează pagină web...">
+<!ENTITY attachPage.label "Anexează pagină web…">
 <!ENTITY attachPage.accesskey "w">
 
 <!-- Title for the address picker panel -->

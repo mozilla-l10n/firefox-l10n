@@ -8,11 +8,11 @@
 <!ENTITY newContact.label                               "Contact în agendă…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "O listă nouă de expediție...">
+<!ENTITY newListCmd.label                               "O listă nouă de expediție…">
 <!ENTITY newListCmd.accesskey                           "l">
-<!ENTITY newAddressBookCmd.label                        "o nouă listă de contacte...">
+<!ENTITY newAddressBookCmd.label                        "o nouă listă de contacte…">
 <!ENTITY newAddressBookCmd.accesskey                    "c">
-<!ENTITY newLDAPDirectoryCmd.label                      "un nou director LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label                      "un nou director LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "d">
 <!ENTITY newMessageCmd.label                            "un mesaj nou">
 <!ENTITY newMessageCmd.key                              "M">
@@ -23,7 +23,7 @@
 <!ENTITY closeCmd.label                                 "Închide">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "h">
-<!ENTITY printSetupCmd.label                            "Aranjare în pagină...">
+<!ENTITY printSetupCmd.label                            "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey                        "j">
 <!ENTITY printPreviewContactCmd.label                   "Previzualizare tipărire contact">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
@@ -32,7 +32,7 @@
 <!ENTITY printContactCmd.label                          "Tipărește contactul…">
 <!ENTITY printContactCmd.accesskey                      "T">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Tipărește agenda de contacte...">
+<!ENTITY printAddressBook.label                         "Tipărește agenda de contacte…">
 <!ENTITY printAddressBook.accesskey                     "a">
 
 <!-- Edit Menu -->
@@ -70,7 +70,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "adevărat">
-<!ENTITY propertiesCmd.label                            "Proprietăți...">
+<!ENTITY propertiesCmd.label                            "Proprietăți…">
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "I">
 
@@ -83,7 +83,7 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Bară de stare">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
-<!ENTITY customizeToolbar.label                         "Personalizează...">
+<!ENTITY customizeToolbar.label                         "Personalizează…">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY showContactPane.label                          "Panoul sumar al contactului">
 <!ENTITY showContactPane.accesskey                      "P">
@@ -104,13 +104,13 @@
 <!ENTITY messengerCmd.label                             "Email și grupuri de discuții">
 <!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Caută adrese...">
+<!ENTITY searchAddressesCmd.label                       "Caută adrese…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
-<!ENTITY importCmd.label                                "Import...">
+<!ENTITY importCmd.label                                "Import…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Export...">
+<!ENTITY exportCmd.label                                "Export…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Opțiuni...">
+<!ENTITY preferencesCmd.label                           "Opțiuni…">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
