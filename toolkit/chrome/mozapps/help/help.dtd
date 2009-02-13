@@ -47,6 +47,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.accesskey               "T">
 
 <!ENTITY fullZoomReduceBtn.label        "缩小">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomReduceBtn.accesskey    "o">
 <!ENTITY fullZoomEnlargeBtn.label       "放大">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">

@@ -3,7 +3,7 @@
 <!ENTITY copyright.accesskey        "C">
 <!ENTITY copyrightGNOME.accesskey   "r">
 <!ENTITY aboutLink                  "&lt; 关于 &brandFullName;">
-<!ENTITY aboutLink.accesskey        "l">
+<!ENTITY aboutLink.accesskey        "A">
 <!ENTITY aboutVersion               "版本">
 <!ENTITY closeCmdGNOME.label        "关闭">  
 <!ENTITY closeCmdGNOME.accesskey    "C">

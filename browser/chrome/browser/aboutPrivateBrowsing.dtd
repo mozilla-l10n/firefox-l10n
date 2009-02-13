@@ -13,7 +13,7 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   "。">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "进入隐私浏览模式">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "进">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
 <!ENTITY privatebrowsingpage.howToStop                 "要退出隐私浏览模式，您可以选择 &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, 或者关闭 &brandShortName;。">
 <!ENTITY privatebrowsingpage.howToStart                "要启动隐私浏览模式，您可以选择 &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;。">

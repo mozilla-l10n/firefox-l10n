@@ -31,7 +31,7 @@
 <!ENTITY  acceptCookies.accesskey       "c">
 
 <!ENTITY  acceptThirdParty.label        "接受第三方 cookie">
-<!ENTITY  acceptThirdParty.accesskey    "接">
+<!ENTITY  acceptThirdParty.accesskey    "p">
 
 <!ENTITY  keepUntil.label               "保存，直到：">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -44,13 +44,13 @@
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "显示 Cookie…">
-<!ENTITY  showCookies.accesskey         "显">
+<!ENTITY  showCookies.accesskey         "S">
 
 
 <!ENTITY  privateData.label             "隐私数据">
 
 <!ENTITY  alwaysClear.label              "退出 &brandShortName; 时自动清除我的隐私数据">
-<!ENTITY  alwaysClear.accesskey          "b">
+<!ENTITY  alwaysClear.accesskey          "w">
 
 <!ENTITY  clearDataSettings.label        "设置…">
 <!ENTITY  clearDataSettings.accesskey    "t">

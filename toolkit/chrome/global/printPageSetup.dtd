@@ -8,9 +8,9 @@
 
 <!ENTITY orientation.label   "方向：">
 <!ENTITY portrait.label      "纵向">
-<!ENTITY portrait.accesskey  "纵">
+<!ENTITY portrait.accesskey  "P">
 <!ENTITY landscape.label     "横向">
-<!ENTITY landscape.accesskey "横">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "比例：">
 <!ENTITY scale.accesskey     "S">

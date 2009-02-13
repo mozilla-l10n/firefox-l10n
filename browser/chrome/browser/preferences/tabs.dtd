@@ -5,7 +5,7 @@
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOpenManyTabs.label       "打开多个可能会影响 &brandShortName; 速度的标签页时警告我">
-<!ENTITY warnOpenManyTabs.accesskey   "b">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
 
 <!ENTITY showTabBar.label             "总是显示标签栏">
 <!ENTITY showTabBar.accesskey         "b">

@@ -76,7 +76,7 @@
 <!ENTITY  mediaLongdesc         "详细描述：">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "另存为…">
-<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs.accesskey "a">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "媒体预览：">
 

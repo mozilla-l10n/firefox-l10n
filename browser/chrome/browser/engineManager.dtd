@@ -16,7 +16,7 @@
 <!ENTITY  edit.accesskey            "t">
 
 <!ENTITY  addEngine.label           "获取更多搜索引擎…">
-<!ENTITY  addEngine.accesskey       "A">
+<!ENTITY  addEngine.accesskey       "a">
 
 <!ENTITY  enableSuggest.label       "显示搜索建议">
 <!ENTITY  enableSuggest.accesskey   "S">

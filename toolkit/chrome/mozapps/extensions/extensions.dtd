@@ -30,7 +30,7 @@
 <!ENTITY cmd.installUpdatesAll.accesskey  "I">
 <!ENTITY cmd.installUpdatesAll.tooltip    "安装选中的更新">
 <!ENTITY cmd.restartApp2.label            "重启 &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey        "b">
+<!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "重启 &brandShortName; 以使更改生效">
 <!ENTITY cmd.skip.label                   "跳过">
 <!ENTITY cmd.skip.accesskey               "k">
@@ -84,7 +84,7 @@
 <!ENTITY cmd.hideUpdateInfo.accesskey     "H">
 <!ENTITY cmd.hideUpdateInfo.tooltip       "隐藏这些更新的信息">
 <!ENTITY cmd.installSearchResult.label     "添加至 &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "b">
+<!ENTITY cmd.installSearchResult.accesskey "A">
 <!ENTITY cmd.installSearchResult.tooltip   "下载并安装此附加组件">
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label                     "取消">

@@ -23,7 +23,7 @@ that require it.  -->
 <!ENTITY itemVisitedPages.label       "已访问页面">
 <!ENTITY itemVisitedPages.accesskey   "V">
 <!ENTITY itemFormSearchEntries.label  "表单 &amp; 搜索记录">
-<!ENTITY itemFormSearchEntries.accesskey "a">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "已保存的密码">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "Cookies">

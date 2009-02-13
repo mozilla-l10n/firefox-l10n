@@ -7,4 +7,4 @@
 <!ENTITY blocklist.moreinfo          "更多信息">
 
 <!ENTITY blocklist.accept.label      "重新启动 &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "b">
+<!ENTITY blocklist.accept.accesskey  "R">
