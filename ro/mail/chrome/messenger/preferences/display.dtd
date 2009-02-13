@@ -39,7 +39,7 @@
 <!ENTITY editTagButton.label      "Modifică">
 <!ENTITY editTagButton.accesskey   "M">
 <!ENTITY removeTagButton.label    "Șterge">
-<!ENTITY removeTagButton.accesskey "Ș">
+<!ENTITY removeTagButton.accesskey "t">
 
 <!-- Fonts -->
 <!ENTITY fontAndEncodingsDescription.label  "Configurează fonturile și seturile de caractere folosite de &brandShortName;">

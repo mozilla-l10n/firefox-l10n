@@ -23,7 +23,7 @@
 <!ENTITY draftInOtherFolder.accesskey "l">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "Dosarul „Arhive” din:">
-<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archivesFolderOn.accesskey "a">
 <!ENTITY archiveInOtherFolder.label "Altul:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->

@@ -2,7 +2,7 @@
 <!ENTITY sendMail.title               "Formatare text">
 <!ENTITY sendMaildesc.label           "Când trimiteți mesaje în format HTML și unul sau mai mulți destinatari nu sunt marcați ca fiind capabili să accepte HTML:">
 <!ENTITY askMe.label                  "Întreabă-mă ce să fac">
-<!ENTITY askMe.accesskey              "Î">
+<!ENTITY askMe.accesskey              "n">
 <!ENTITY convertPlain.label           "Convertește mesajul la text simplu">
 <!ENTITY convertPlain.accesskey       "C">
 <!ENTITY sendHTML.label               "Trimite oricum mesajul în format HTML">
@@ -21,7 +21,7 @@
 <!ENTITY AddPlainText.label           "Adaugă…">
 <!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteHtmlDomain.label       "Șterge">
-<!ENTITY DeleteHtmlDomain.accesskey   "Ș">
+<!ENTITY DeleteHtmlDomain.accesskey   "t">
 <!ENTITY DeletePlainText.label        "Șterge">
 <!ENTITY DeletePlainText.accesskey    "t">
 

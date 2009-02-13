@@ -54,7 +54,7 @@
 <!ENTITY pasteCmd.key                                   "v">
 <!ENTITY pasteCmd.accesskey                             "I">
 <!ENTITY deleteCmd.label                                "Șterge">
-<!ENTITY deleteCmd.accesskey                            "Ș">
+<!ENTITY deleteCmd.accesskey                            "t">
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
 <!ENTITY deleteContactCmd.label                         "Șterge contactul">
 <!ENTITY deleteContactsCmd.label                        "Șterge contacte">
