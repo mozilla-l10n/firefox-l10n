@@ -78,7 +78,7 @@
 <!ENTITY forwardButton.tooltip "התקדם דף אחד קדימה">
 <!ENTITY backForwardMenu.tooltip      "דפים אחרונים">
 <!ENTITY reloadCmd.label "טען מחדש">
-<!ENTITY reloadCmd.accesskey "מ">
+<!ENTITY reloadCmd.accesskey "ט">
 <!ENTITY reloadButton.tooltip "טען מחדש דף נוכחי">
 <!ENTITY stopCmd.label "עצור">
 <!ENTITY stopCmd.accesskey "צ">
