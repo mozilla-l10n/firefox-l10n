@@ -140,16 +140,16 @@
 <!ENTITY priorityMenu.label "Prioritate">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "Prioritate:">
-<!ENTITY lowestPriorityCmd.label "F. joasă">
-<!ENTITY lowestPriorityCmd.accesskey "s">
-<!ENTITY lowPriorityCmd.label "Joasă">
-<!ENTITY lowPriorityCmd.accesskey "J">
+<!ENTITY lowestPriorityCmd.label "Cea mai mică">
+<!ENTITY lowestPriorityCmd.accesskey "C">
+<!ENTITY lowPriorityCmd.label "Mică">
+<!ENTITY lowPriorityCmd.accesskey "M">
 <!ENTITY normalPriorityCmd.label "Normală">
 <!ENTITY normalPriorityCmd.accesskey "N">
-<!ENTITY highPriorityCmd.label "Înaltă">
-<!ENTITY highPriorityCmd.accesskey "t">
-<!ENTITY highestPriorityCmd.label "F. înaltă">
-<!ENTITY highestPriorityCmd.accesskey "a">
+<!ENTITY highPriorityCmd.label "Mare">
+<!ENTITY highPriorityCmd.accesskey "M">
+<!ENTITY highestPriorityCmd.label "Cea mai mare">
+<!ENTITY highestPriorityCmd.accesskey "C">
 <!ENTITY fileCarbonCopyCmd.label "Trimite copie în">
 <!ENTITY fileCarbonCopyCmd.accesskey "T">
 <!ENTITY fileHereMenu.label "Îndosariază aici">
