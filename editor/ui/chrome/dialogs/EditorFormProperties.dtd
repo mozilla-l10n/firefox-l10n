@@ -41,7 +41,7 @@
 <!ENTITY FormName.label "表单名称:">
 <!ENTITY FormName.accesskey "N">
 <!ENTITY FormAction.label "动作 URL:">
-<!ENTITY FormAction.accesskey "动">
+<!ENTITY FormAction.accesskey "A">
 <!ENTITY FormMethod.label "方法:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "编码:">

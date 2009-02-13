@@ -7,7 +7,7 @@
 <!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY bounceSystemDockIcon.label       "显示 dock 图标动画">
-<!ENTITY bounceSystemDockIcon.accesskey   "显">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
 
 <!ENTITY newMessagesArrive.label          "当新消息到达时：">
 <!ENTITY playSound.label                  "播放声音">
