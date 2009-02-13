@@ -28,7 +28,7 @@
 
 <!ENTITY useSystemDefault.label        "使用默认应用程序(#1)打开它">
 <!ENTITY useSystemDefault.noDesc.label "使用默认应用程序打开它">
-<!ENTITY useSystemDefault.accesskey    "1">
+<!ENTITY useSystemDefault.accesskey    "O">
 
 <!ENTITY openUsing.label       "打开方式">
 <!ENTITY openUsing.accesskey   "w">

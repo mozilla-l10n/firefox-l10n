@@ -52,7 +52,7 @@
 <!ENTITY resetBookmarks.accesskey     "b">
 
 <!ENTITY resetUserPrefs.label         "重置 &brandShortName; 所有用户的首选项">
-<!ENTITY resetUserPrefs.accesskey     "b">
+<!ENTITY resetUserPrefs.accesskey     "p">
 
 <!ENTITY restoreSearch.label          "恢复默认搜索引擎">
 <!ENTITY restoreSearch.accesskey      "s">

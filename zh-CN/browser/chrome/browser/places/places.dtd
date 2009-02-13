@@ -30,7 +30,7 @@
 <!ENTITY help.usingHistory.label        "使用历史">
 <!ENTITY help.usingHistory.accesskey    "i">
 <!ENTITY help.advancedTips.label        "高级 提示 &amp; 技巧">
-<!ENTITY help.advancedTips.accesskey    "a">
+<!ENTITY help.advancedTips.accesskey    "T">
 
 <!ENTITY cmd.findInBookmarks.label      "在当前书签中查找…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
@@ -38,9 +38,9 @@
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
 <!ENTITY cmd.exportHTML.label           "导出 HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "导">
+<!ENTITY cmd.exportHTML.accesskey       "E">
 <!ENTITY cmd.importHTML.label           "导入 HTML…">
-<!ENTITY cmd.importHTML.accesskey       "导">
+<!ENTITY cmd.importHTML.accesskey       "I">
 
 <!ENTITY cmd.backup.label               "备份…">
 <!ENTITY cmd.backup.accesskey           "B">
@@ -79,7 +79,7 @@
 <!ENTITY cmd.open.label                  "打开">
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "在新窗口中打开">
-<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_window.accesskey       "n">
 <!ENTITY cmd.open_tab.label              "在新标签页中打开">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "在标签页中打开书签组">
@@ -115,11 +115,11 @@
 <!ENTITY cmd.groupby_site.label      "按站点分组">
 <!ENTITY cmd.groupby_site.accesskey  "S">
 <!ENTITY cmd.groupby_page.label      "按页面分组">
-<!ENTITY cmd.groupby_page.accesskey  "P">
+<!ENTITY cmd.groupby_page.accesskey  "p">
 <!ENTITY cmd.groupby_feed.label      "按订阅分组">
 <!ENTITY cmd.groupby_feed.accesskey  "S">
 <!ENTITY cmd.groupby_post.label      "按提交分组">
-<!ENTITY cmd.groupby_post.accesskey  "P">
+<!ENTITY cmd.groupby_post.accesskey  "p">
 
 <!ENTITY cmd.moveBookmarks.label                  "移动…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -145,13 +145,13 @@
 <!ENTITY search.scopeAll.label                     "全部书签">
 <!ENTITY search.scopeAll.accesskey                 "A">
 <!ENTITY search.scopeMenu.label                    "书签菜单">
-<!ENTITY search.scopeMenu.accesskey                "M">
+<!ENTITY search.scopeMenu.accesskey                "m">
 <!ENTITY search.scopeToolbar.label                 "书签工具栏">
 <!ENTITY search.scopeToolbar.accesskey             "T">
 <!ENTITY search.scopeDownloads.label               "下载">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "历史">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "显示搜索构建器">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "隐藏搜索构建器">
 <!ENTITY saveSearch.label                          "保存">

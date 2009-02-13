@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.label        "帮助"> 
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "关于 &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "b">
+<!ENTITY aboutCmd.accesskey       "A">
 <!ENTITY helpContents.label       "帮助内容">
 <!ENTITY helpContents.accesskey   "H">
 <!ENTITY helpContentsMac.label    "&brandShortName; 帮助">

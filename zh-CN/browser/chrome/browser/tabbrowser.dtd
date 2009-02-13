@@ -2,13 +2,13 @@
 <!ENTITY  newTab.label           "新建标签页">
 <!ENTITY  newTab.accesskey       "N">
 <!ENTITY  closeTab.label         "关闭标签页">
-<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  closeTab.accesskey         "C">
 <!ENTITY  closeOtherTabs.accesskey  "o">
 <!ENTITY  closeOtherTabs.label   "关闭其他标签页">
 <!ENTITY  reloadAllTabs.label    "重新载入全部标签页">
-<!ENTITY  reloadAllTabs.accesskey         "A">
+<!ENTITY  reloadAllTabs.accesskey         "a">
 <!ENTITY  reloadTab.label        "重新载入标签页">
-<!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  reloadTab.accesskey         "R">
 <!ENTITY  listAllTabs.label      "列出所有标签页">
 <!ENTITY  bookmarkAllTabs.label       "将全部标签页加为书签…">
 <!ENTITY  bookmarkAllTabs.accesskey   "T">

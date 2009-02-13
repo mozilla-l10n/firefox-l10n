@@ -13,7 +13,7 @@
 <!ENTITY descText.label "打印机描述：">
 <!ENTITY printer.label "打印机">
 <!ENTITY printerInput.label "打印机名称：">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.accesskey "n">
 
 <!ENTITY printrangeGroup.label "打印范围">
 <!ENTITY allpagesRadio.label "全部页">

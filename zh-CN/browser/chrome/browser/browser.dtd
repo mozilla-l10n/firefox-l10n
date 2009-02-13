@@ -32,7 +32,7 @@
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "脱机工作">
-<!ENTITY goOfflineCmd.accesskey "w">
+<!ENTITY goOfflineCmd.accesskey "W">
 
 <!ENTITY navbarCmd.label "导航工具栏">
 <!ENTITY navbarCmd.accesskey "N">
@@ -169,9 +169,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "进入隐私浏览模式">
-<!ENTITY privateBrowsingCmd.start.accesskey     "进">
+<!ENTITY privateBrowsingCmd.start.accesskey     "B">
 <!ENTITY privateBrowsingCmd.stop.label          "退出隐私浏览模式">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "退">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "查看"> 
@@ -221,11 +221,11 @@
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "在新窗口中打开">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmd.accesskey        "w">
 <!ENTITY openLinkCmdInTab.label       "在新标签页中打开">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openFrameCmd.label           "在新窗口打开帧">
-<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmd.accesskey       "w">
 <!ENTITY openFrameCmdInTab.label      "在新标签页中打开新帧">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "仅显示当前帧">
@@ -243,15 +243,15 @@
 <!ENTITY viewFrameSourceCmd.label     "查看帧源代码">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "查看页面信息">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "查看帧信息">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY reloadImageCmd.label         "重新载入图像">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "查看图片">
-<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewVideoCmd.label           "查看视频">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "查看背景图片">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "设为桌面背景…">
@@ -265,7 +265,7 @@
 <!ENTITY sendPageCmd.label            "发送页面…">
 <!ENTITY sendPageCmd.accesskey        "e">
 <!ENTITY savePageCmd.label            "页面另存为…">
-<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -337,7 +337,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "缩小">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.accesskey    "o">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -374,9 +374,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "页面风格">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "无风格">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "基本页面风格">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "更改此站点的弹出阻止设置">
 

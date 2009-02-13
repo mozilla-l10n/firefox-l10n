@@ -13,8 +13,8 @@
 <!ENTITY  button-cancel-unix.label     "取消">
 
 <!ENTITY  button-back-win.label        "&lt; 上一步">
-<!ENTITY  button-back-win.accesskey    "l">
+<!ENTITY  button-back-win.accesskey    "B">
 <!ENTITY  button-next-win.label        "下一步 &gt;">
-<!ENTITY  button-next-win.accesskey    "g">
+<!ENTITY  button-next-win.accesskey    "N">
 <!ENTITY  button-finish-win.label      "结束">
 <!ENTITY  button-cancel-win.label      "取消">
