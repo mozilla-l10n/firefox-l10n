@@ -110,7 +110,9 @@
 <!ENTITY smtpServerNamePrefix.label "යැවුම් සේවාදායක‌යේ නම (SMTP):">
 <!ENTITY newsServerNamePrefix.label "පුවත් සේවාදායක‌යේ නම (NNTP):">
 <!ENTITY downloadOnLogin.label "දැන් ලිපි භාගත කරන්න">
+<!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Untick this box to store mail for this account in its own directory. That will make this account appear as a top-level account. Otherwise, it will be part of the Local Folders Global Inbox account.">
 <!ENTITY deferStorage.label "Use Global Inbox (store mail in Local Folders)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "නිමි ‌බොත්තම මත ක්ලික් කිරී‌මෙන් ‌මෙම ‌තොරතූරු සුරැකීමට හා ගිණුම් විශාරද ක්‍රියාවලියෙන් ඔබට ඉවත්විය හැකිය.">
 <!ENTITY clickFinish.labelMac "කළා බොත්තම මත ක්ලික් කිරී‌මෙන් ‌මෙම ‌තොරතූරු සුරැකීමට හා ගිණුම් විශාරද ක්‍රියාවලියෙන් ඔබට ඉවත්විය හැකිය.">

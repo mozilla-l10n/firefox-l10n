@@ -68,7 +68,6 @@
 <!ENTITY NickName.label                 "විකල්පනාමය:">
 <!ENTITY NickName.accesskey             "N">
 
-<!ENTITY Internet.box                   "අන්තර්ජාලය">
 <!ENTITY PrimaryEmail.label             "විද්‍යුත් තැපැල්:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "අතිරේක විද්‍යුත් තැපැල්:">
@@ -146,9 +145,12 @@ images in HTML messages from this contact.">
 <!ENTITY Other.accesskey                "h">
 <!ENTITY Birthday.label                 "උපන් දිනය:">
 <!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "වර්ෂය">
-<!ENTITY Or.value                       "or">
+<!ENTITY Or.value                       "හෝ">
 <!ENTITY Age.emptytext                  "වයස">
+<!ENTITY YearsOld.label                 "">
+
 <!ENTITY Custom1.label                  "රිසිකරණය 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "රිසිකරණය 2:">

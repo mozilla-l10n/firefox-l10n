@@ -12,6 +12,8 @@
 <!ENTITY nntpDownloadMsg.label "ට වඩා වැඩි ලිපි මකන්න">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "ඩිස්කයේ ඉඩ ලබා ගැනීම සඳහා, පැරණි ලිපි සම්පූර්ණයෙන්ම මකා දැමිය හැකිය">
+<!ENTITY retentionCleanupImap.label "ඩිස්කයේ ඉඩ ලබා ගැනීම සඳහා, සමීප පිටපත්(local copies)  සහ  සේවාදායකයේ මුල් ලිපි (originals on the remote server)යන ආකාර දෙකේම පැරණි ලිපි සම්පූර්ණයෙන්ම මකා දැමිය හැකිය.">
+<!ENTITY retentionCleanupPop.label "ඩිස්කයේ ඉඩ ලබා ගැනීම සඳහා, සේවාදායකයේ මුල් ලිපි (originals on the remote server) ඇතුළු පැරණි ලිපි සම්පූර්ණයෙන්ම මකා දැමිය හැකිය.">
 <!ENTITY retentionKeepMsg.label "දින ">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "කිසිඳු ලිපියක් නොමකන්න">
@@ -20,6 +22,8 @@
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "කියවූ ලිපි සෑමවිටම මකන්න">
 <!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "ලිපියේ බඳ (ට වඩා) කුඩා">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "අසම්බන්ධිතව භාවිතා කිරීම සඳහා පුවත්සමූහ තෝරන්න...">

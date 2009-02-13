@@ -44,11 +44,16 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 --> 
 
 <!ENTITY importDialog.windowTitle "ආයාත කිරීම">
-<!ENTITY importDialog.allTitle    "සියල්ල ආයාත කිරීම">
-<!ENTITY importDialog.mailTitle   "ලිපි">
-<!ENTITY importDialog.addressbookTitle "ලිපින පොත්">
-<!ENTITY importDialog.settingsTitle "සැකසුම්">
-<!ENTITY importDialog.filtersTitle "පෙරහන්">
+<!ENTITY importAll.label          "සියල්ල ආයාත කිරීම">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "ලිපි">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "ලිපින පොත්">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "සැකසුම්">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "පෙරහන්">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName; Mail and/or Address Book.">
 
 <!ENTITY selectDescription.label  "Please select the program from which you would like to import:">
+<!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label               "&lt; පසුපසට">
 <!ENTITY forward.label            "ඊළඟ &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x has one mailing address for each card, while &brandShortName; has two (Home and Work).">
 <!ENTITY FieldDiscInputText2.label  "Select the category in which you want to store the imported mailing addresses:">
 <!ENTITY FieldDiscWarning.label  "This category will be used for all the entries of the selected address book: ">
-<!ENTITY importDialog.homeTitle  "නිවස">
-<!ENTITY importDialog.workTitle  "කාර්යාලය">
+<!ENTITY importHome.label        "නිවස">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "කාර්යාලය">
+<!ENTITY importWork.accesskey    "W">

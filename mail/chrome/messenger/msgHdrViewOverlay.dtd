@@ -57,9 +57,11 @@
 
 <!ENTITY editMessageDescription.label "මෙය කෙටුමුපත් කරන ලිපියකි">
 <!ENTITY editMessageButton.label "සැකසීම...">
-<!ENTITY replyButton.label "පිළිතුරු…">
-<!ENTITY forwardButton.label "යොමුකිරීම…">
-<!ENTITY junkButton.label "නිසරු සේ ලකුණු කරන්න">
+<!ENTITY archiveButton.label "archive">
+<!ENTITY hdrReplyButton.label "පිළිතුරු">
+<!ENTITY hdrReplyAllButton.label "සැමට පිළිතුරු">
+<!ENTITY hdrForwardButton.label "යොමු කරන්න">
+<!ENTITY hdrJunkButton.label "නිසරු (junk)">
 <!ENTITY trashButton.tooltiptext "මකන්න">
 
 <!ENTITY otherActionsButton.label "වෙනත් ක්‍රියාවන්">
