@@ -45,7 +45,7 @@
 <!ENTITY findButton.label                  "查找">
 <!ENTITY findButton.accesskey              "f">
 <!ENTITY directorySecure.label             "使用安全连接 (SSL)">
-<!ENTITY directorySecure.accesskey         "使">
+<!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "使用用户名和密码来登录">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "基本信息">

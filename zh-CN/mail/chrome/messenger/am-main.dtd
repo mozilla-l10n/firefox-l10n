@@ -29,5 +29,5 @@
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "发送服务器 (SMTP)：">
-<!ENTITY smtpName.accesskey "发">
+<!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "使用默认服务器">
