@@ -5,8 +5,12 @@
 <!ENTITY itemCertificates.label  "සහතික">
 
 <!-- General Settings -->
-<!ENTITY enableGloda.label             "Enable Message Indexer">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY systemDefaults.label              "පද්ධති පෙරනිමි (Defaults)">
+<!ENTITY alwaysCheckDefault.label          "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. සෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY checkNow.accesskey            "N">
 <!ENTITY showCondensedAddresses.label  "මගේ ලිපින පොතේ අඩංගු අයගේ පෙන්වන නම පමණක් ප්‍රදර්ශණය කරන්න">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -20,8 +24,6 @@
 <!ENTITY markAsReadDelay.label         "පෙන්වා තත්පර">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "ට පසු">
-<!ENTITY showFolderColumns.label       "විදහළු තීරු ෆෝල්ඩර කවුළුවේ පෙන්වන්න">
-<!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY openMsgIn.label               "ලිපි විවෘත කරන්නේ:">
 <!ENTITY reuseExpRadio0.label          "නව ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio0.accesskey      "i">

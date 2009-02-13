@@ -13,7 +13,6 @@
 <!ENTITY port.label "විවරය (Port):">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "පෙරනිමි:">
-<!ENTITY savePassword.label "රහස් පදය සුරකින්න">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -22,17 +21,12 @@
 <!ENTITY biffStart.label "සෑම විනාඩි  ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "වරක් අලුත් ලිපි ලබාගන්න">
-<!ENTITY isSecure.label "ආරක්ෂිත සම්බන්ධතාවය භාවිතා කරන්න. (SSL)">
-<!ENTITY isSecure.accesskey "U">
-<!ENTITY socketType.label "ආරක්ෂිත අනන්‍යතාවය භාවිතා කරන්න:">
-<!ENTITY neverSecure.label "කිසිවිටෙක එපා">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, තිබේ නම්">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "සම්බන්ධතාවයේ ආරක්ෂාව:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "කිසිවිටෙක එපා">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, තිබේ නම්">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "ආරක්ෂිත අනන්‍යතාවය භාවිතා කරන්න">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "සේවාදායකය තුළ ලිපි ඉතිරි කරන්න">

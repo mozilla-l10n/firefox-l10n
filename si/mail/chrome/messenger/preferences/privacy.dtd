@@ -29,15 +29,13 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro         "&brandShortName; ට ඔබගේ සියළු ගිණුම් සඳහා වන රහස්පද මතක තබාගත හැකිය, එවිට ඔබට පිරුම් විස්තර නැවත ඇතුළු කිරීම අවශ්‍ය නොවේ.">
-<!ENTITY  encryptEnabled.label        "තැන්පත් කළ රහස්පද සංකේතනය කිරීම සඳහා ප්‍රධාන රහස්පදය (master password) භාවිතා කරන්න">
-<!ENTITY  encryptEnabled.accesskey    "s">
 <!ENTITY  masterPassword.intro        "සැකසූ විට, ප්‍රධාන රහස්පදය සියළු සියළු රහස්පද ආරක්ෂා කරයි - නමුත් සැසියකට එක් වරක් ඔබ එය ඇතුළු කළ යුතුමය.">
-<!ENTITY  setMasterPassword.label     "ප්‍රධාන රහස්පදය (Master Password)">
-<!ENTITY  setMasterPassword.accesskey "M">
-<!ENTITY  removeMasterPassword.label  "ප්‍රධාන රහස්පදය ඉවත් කරන්න...">
-<!ENTITY  removeMasterPassword.accesskey "R">
-<!ENTITY  editPasswords.label         "සුරැකූ රහස්පද සැකසුම් කිරීම">
-<!ENTITY  editPasswords.accesskey     "i">
+<!ENTITY useMasterPassword.label        "ප්‍රධාන රහස්පදයක් (Master Password) භාවිතා කරන්න">
+<!ENTITY useMasterPassword.accesskey    "m">
+<!ENTITY changeMasterPassword.label     "ප්‍රධාන රහස්පදය (Master Password) වෙනස් කිරීම…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label           "සුරැකූ රහස්පද…">
+<!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; can make it easy for anti-virus software to analyse incoming mail messages for viruses before they are stored locally.">

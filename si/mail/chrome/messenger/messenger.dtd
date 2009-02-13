@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "ලිපි ගෙනයාම යළි කරන්න">
 <!ENTITY undoCopyMsgCmd.label "ලිපි කොපි කිරීම අහෝසි.">
 <!ENTITY redoCopyMsgCmd.label "ලිපි කොපි කිරීම යළි කරන්න">
+<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
+<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
 <!ENTITY undoDefaultCmd.label "අහෝසි.">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "යළි කරන්න">
@@ -117,7 +119,6 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "රිසිකරණය...">
 <!ENTITY customizeToolbar.accesskey "C">
-
 <!ENTITY messagePaneLayoutStyle.label "සැලැස්ම (Layout)">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
 <!ENTITY messagePaneClassic.label "Classic View">
@@ -275,6 +276,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextMsgCmd.label "ලිපියට">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
+<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY nextUnreadMsgCmd.label "නොකියවූ ලිපියට">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
@@ -404,12 +408,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "ඇඩෝන (Add-ons)">
 <!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "Activity Manager">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "ලිපි සහ පුවත්සමූහ">
 <!ENTITY messengerCmd.accesskey "m">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "ලිපින පොත">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "ෆෝල්ඩරය මත නිසරු ලිපි පාලක ක්‍රියා ක.">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "ෆෝල්ඩරය තුළ නිසරු සේ සළකුණු කර ඇති ලිපි මකන්න">
@@ -445,6 +449,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "නිසරු ලිපි">
 <!ENTITY notJunkButton.label "නිසරු සේ නොගැනෙන ලිපි">
 <!ENTITY addressBookButton.label "ලිපින පොත">
+<!ENTITY glodaSearch.title "Global Search">
 <!ENTITY searchItem.title "ඉක්මන් සෙවුම">
 <!ENTITY mailViewsToolbarItem.title "ලිපි දැකුම්">
 <!ENTITY folderLocationToolbarItem.title "ෆෝල්ඩර ස්ථානය">
@@ -527,6 +532,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "නමේ හෝ ලිපියේ අඩංගු:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Search messages…">
+<!ENTITY glodaSearchBar.facet.label "Search:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Everything">
+<!ENTITY glodaSearchFacet.subject.label "Subject">
+<!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
+<!ENTITY glodaSearchFacet.to.label "To, CC">
+<!ENTITY glodaSearchFacet.from.label "From">
+<!ENTITY glodaSearchFacet.body.label "Message Text">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Attachment Names">
+
+<!ENTITY glodaSearchBar.location.label "Location:">
+<!ENTITY glodaSearchFacet.everywhere.label "All Folders">
+<!ENTITY glodaSearchFacet.folder.label "In a specific folder…">
+
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "විෂයය">
 <!ENTITY searchFromMenu.label "එවන්නා">
@@ -556,6 +587,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "ස්ථානය">
 <!ENTITY idColumn.label "ලැබුණු අනුපිළිවෙළ">
 <!ENTITY attachmentColumn.label "ඇමුණුම්">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Why">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "පෙන්වීම සඳහා තීරු තේරීමට ක්ලික් කරන්න">
@@ -578,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "ස්ථානය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY attachmentColumn.tooltip "Cඇමුණුම් පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "ලිපිය නව කවුළුවක විවෘත කරන්න">

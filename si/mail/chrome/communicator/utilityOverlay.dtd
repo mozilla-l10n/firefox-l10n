@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"C">
 
-<!ENTITY closeWindow.label "කවුළුව වසන්න">
-
 <!ENTITY quitApplicationCmd.label	"පිටවීම"> 
 <!ENTITY quitApplicationCmd.key		"Q"> 
 <!ENTITY quitApplicationCmd.accesskey	"x">
