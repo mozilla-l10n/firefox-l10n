@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "打印日历" >
 <!ENTITY sunbird.delete.button.tooltip                     "删除选中事件" >
 <!ENTITY sunbird.remotereload.button.tooltip               "重新加载远程日历" >
+<!ENTITY sunbird.import.button.tooltip                     "从本地文件导入事件" >
+<!ENTITY sunbird.export.button.tooltip                     "将事件导出至本地文件。" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "从远程服务器订阅日历文件" >
+<!ENTITY sunbird.publish.button.tooltip                    "将事件发布到远程服务器。" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "查找并列出事件" >
+<!ENTITY sunbird.edit.button.tooltip                       "编辑所选事件" >
 
 <!ENTITY sunbird.choosedate.button.label                   "选择日期" >
 <!ENTITY sunbird.cut.button.label                          "剪切" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "粘贴" >
 <!ENTITY sunbird.delete.button.label                       "删除" >
 <!ENTITY sunbird.remotereload.button.label                 "重新加载" >
+<!ENTITY sunbird.import.button.label                       "导入" >
+<!ENTITY sunbird.export.button.label                       "导出" >
+<!ENTITY sunbird.subscribe.button.label                    "订阅" >
+<!ENTITY sunbird.publish.button.label                      "发布" >
+<!ENTITY sunbird.unifinder.button.label                    "查找事件" >
+<!ENTITY sunbird.edit.button.label                         "编辑" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "转到日期" >
 <!ENTITY sunbird.flat.topbar.dayview                       "日视图" >
@@ -68,7 +80,8 @@
 <!ENTITY sunbird.close.key                                 "W">
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "周数" >
-<!ENTITY sunbird.menu.numberofweeks.accesskey              "周" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "N" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 周" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "双周" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 周" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 周" >
@@ -77,15 +90,15 @@
 
 <!-- customizable toolbars -->
 <!ENTITY sunbird.context.customize.label                   "定制…">
-<!ENTITY sunbird.context.customize.accesskey               "定">
+<!ENTITY sunbird.context.customize.accesskey               "C">
 <!ENTITY sunbird.menu.customize.label                      "定制工具栏…">
-<!ENTITY sunbird.menu.customize.accesskey                  "定">
+<!ENTITY sunbird.menu.customize.accesskey                  "C">
 <!ENTITY sunbird.maintoolbar.name                          "主工具栏">
 <!ENTITY sunbird.maintoolbar.accesskey                     "M">
 
 <!-- Sunbird Help -->
 <!ENTITY sunbird.help.label                                "帮助内容">
-<!ENTITY sunbird.help.accesskey                            "帮">
+<!ENTITY sunbird.help.accesskey                            "H">
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title                                  "&brandFullName;">
