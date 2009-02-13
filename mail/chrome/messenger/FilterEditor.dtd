@@ -6,11 +6,11 @@
 <!ENTITY junk.label "Spam">
 <!ENTITY notJunk.label "Nu e spam">
 
-<!ENTITY lowestPriorityCmd.label "F. joasă">
-<!ENTITY lowPriorityCmd.label "Joasă">
+<!ENTITY lowestPriorityCmd.label "Cea mai mică">
+<!ENTITY lowPriorityCmd.label "Mică">
 <!ENTITY normalPriorityCmd.label "Normală">
-<!ENTITY highPriorityCmd.label "Înaltă">
-<!ENTITY highestPriorityCmd.label "F. înaltă">
+<!ENTITY highPriorityCmd.label "Mare">
+<!ENTITY highestPriorityCmd.label "Cea mai mare">
 
 <!ENTITY contextDesc.label "Aplică filtrul când:">
 <!ENTITY contextDesc.accesskey "A">
