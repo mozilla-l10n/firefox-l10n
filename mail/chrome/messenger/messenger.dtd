@@ -137,7 +137,7 @@
 <!ENTITY allFolders.accesskey "a">
 <!ENTITY unreadFolders.label "Necitite">
 <!ENTITY unreadFolders.accesskey "N">
-<!ENTITY favoriteFolders.label "Favorite">
+<!ENTITY favoriteFolders.label "Favorit">
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recente">
 <!ENTITY recentFolders.accesskey "R">
@@ -244,8 +244,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Zoom doar pe text">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Zoom">
-<!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY fullZoom.label                 "Scalare">
+<!ENTITY fullZoom.accesskey             "S">
 
 <!ENTITY pageSourceCmd.label "Sursă mesaj">
 <!ENTITY pageSourceCmd.accesskey "u">
@@ -450,6 +450,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Nu e spam">
 <!ENTITY addressBookButton.label "Contacte">
+<!ENTITY glodaSearch.title "Căutare globală">
 <!ENTITY searchItem.title "Căutare rapidă">
 <!ENTITY mailViewsToolbarItem.title "Vederi de mesaje">
 <!ENTITY folderLocationToolbarItem.title "Amplasare dosar">
@@ -532,6 +533,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "Numele sau mesajul conțin:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Caută mesaje…">
+<!ENTITY glodaSearchBar.facet.label "Caută:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Tot">
+<!ENTITY glodaSearchFacet.subject.label "Subiect">
+<!ENTITY glodaSearchFacet.involves.label "Are legătură cu (de la, la, cc, bcc)">
+<!ENTITY glodaSearchFacet.to.label "Către, CC">
+<!ENTITY glodaSearchFacet.from.label "De la">
+<!ENTITY glodaSearchFacet.body.label "Textul mesajului">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Numele anexelor">
+
+<!ENTITY glodaSearchBar.location.label "Amplasare:">
+<!ENTITY glodaSearchFacet.everywhere.label "Toate dosarele">
+<!ENTITY glodaSearchFacet.folder.label "Într-un dosar anume…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subiect">
 <!ENTITY searchFromMenu.label "Expeditor">
@@ -561,6 +587,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Loc">
 <!ENTITY idColumn.label "Ordinea primirii">
 <!ENTITY attachmentColumn.label "Anexe">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "De ce">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clic pentru a selecta coloanele de afișat">
@@ -583,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
 <!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
 <!ENTITY attachmentColumn.tooltip "Clic pentru a sorta după anexe">
+<!ENTITY glodaWhyColumn.tooltip "Clic pentru a sorta după motivul pentru care mesajele sunt în rezultatele căutării">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Deschide mesajul în fereastră nouă">

@@ -1,6 +1,6 @@
 <!ENTITY  fontsAndEncodingsDialog.title           "Fonturi și codări">
 <!ENTITY  window.width                            "40em">
-<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.macWidth                         "47em">
 <!ENTITY  window.unixWidth                        "42em">
 
 <!ENTITY  language.label                          "Fonturi pentru:">

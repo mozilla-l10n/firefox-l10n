@@ -106,9 +106,9 @@
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Caută adrese…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
-<!ENTITY importCmd.label                                "Import…">
+<!ENTITY importCmd.label                                "Import...">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Export…">
+<!ENTITY exportCmd.label                                "Export...">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Opțiuni…">
 <!ENTITY preferencesCmd.accesskey                       "O">

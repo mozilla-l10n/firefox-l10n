@@ -1,5 +1,5 @@
 <!ENTITY  downloadactionsWindow.title         "Acțiuni pentru descărcări">
-<!ENTITY  window.width                         "480">
+<!ENTITY  window.width                         "520">
 <!ENTITY  window.height                        "310">
 
 <!ENTITY  fileTypesDescription.label          "Efectuează automat acțiunea asociată pentru fiecare din următoarele tipuri de fișiere:">

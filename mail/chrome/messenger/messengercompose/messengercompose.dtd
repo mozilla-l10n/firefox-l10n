@@ -201,8 +201,8 @@
 <!ENTITY fromAddr.label "De la:">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "Către:"> 
-<!ENTITY ccAddr.label "Cc:"> 
-<!ENTITY bccAddr.label "Bcc:"> 
+<!ENTITY ccAddr.label "Copie:"> 
+<!ENTITY bccAddr.label "Copie ascunsă:"> 
 <!ENTITY replyAddr.label "Răspuns către:"> 
 <!ENTITY newsgroupsAddr.label "Grup news:"> 
 <!ENTITY followupAddr.label "Urmare la:"> 

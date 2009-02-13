@@ -6,8 +6,8 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Activează indexarea mesajelor">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
+<!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemDefaults.label          "Opțiunile implicite ale sistemului">
 <!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
@@ -65,7 +65,7 @@
 <!ENTITY connectionsInfo.caption       "Conexiune">
 <!ENTITY offlineInfo.caption           "Deconectat">
 <!ENTITY offlineInfo.label             "Configurează preferințele pentru modul deconectat">
-<!ENTITY showOffline.label             "Offline…">
+<!ENTITY showOffline.label             "Offline...">
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "Spațiu pe disc">
