@@ -15,7 +15,7 @@
 
 <!ENTITY  remove.label                        "Șterge acțiunea">
 <!ENTITY  remove.accesskey                    "r">
-<!ENTITY  edit.label                          "Schimbă acțiunea...">
+<!ENTITY  edit.label                          "Schimbă acțiunea…">
 <!ENTITY  edit.accesskey                      "c">
 
 <!ENTITY  windowClose.key                     "w">

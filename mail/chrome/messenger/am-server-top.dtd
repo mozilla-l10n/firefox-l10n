@@ -67,12 +67,12 @@
 <!ENTITY abbreviate.label "Arată numele grupurilor de discuții în panoul cu dosare ca:">
 <!ENTITY abbreviateOn.label "Nume complete (ex: „netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "Nume abreviate (ex: „n.p.m.mail-news”)">
-<!ENTITY advancedButton.label "Avansat...">
+<!ENTITY advancedButton.label "Avansat…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Codare caractere implicită:">
 <!ENTITY localFolderPicker.label "Alegeți directorul local">
-<!ENTITY browseFolder.label "Răsfoiește...">
+<!ENTITY browseFolder.label "Răsfoiește…">
 <!ENTITY browseFolder.accesskey "R">
 <!ENTITY newsrcPicker.label "Selectați fișierul newsrc">
-<!ENTITY browseNewsrc.label "Răsfoiește...">
+<!ENTITY browseNewsrc.label "Răsfoiește…">
 <!ENTITY browseNewsrc.accesskey "e">

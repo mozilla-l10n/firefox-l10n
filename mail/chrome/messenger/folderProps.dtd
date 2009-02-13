@@ -88,7 +88,7 @@
 <!ENTITY folderProps.location.accesskey          "l">
 
 <!ENTITY folderSharingTab.label                  "Partajare">
-<!ENTITY privileges.button.label                 "Privilegii...">
+<!ENTITY privileges.button.label                 "Privilegii…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Aveți următoarele drepturi:">
 <!ENTITY folderType.label                        "Tip dosar:">

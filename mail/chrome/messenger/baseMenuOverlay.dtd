@@ -14,7 +14,7 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "Caută actualizări...">
+<!ENTITY updateCmd.label "Caută actualizări…">
 <!ENTITY updateCmd.accesskey "C">
 <!ENTITY aboutCmd.label "Despre &brandFullName;">
 <!ENTITY aboutCmd.accesskey "D">

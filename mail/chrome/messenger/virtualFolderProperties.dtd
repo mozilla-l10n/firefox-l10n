@@ -7,7 +7,7 @@
 <!ENTITY searchTermCaption.label "Configurați criteriul de căutare folosit pentru acest dosar:">
 
 <!ENTITY folderSelectionCaption.label "Selectați dosarele în care se caută:">
-<!ENTITY chooseFoldersButton.label "Alege...">
+<!ENTITY chooseFoldersButton.label "Alege…">
 <!ENTITY chooseFoldersButton.accesskey "A">
 
 <!ENTITY searchOnline.label "Caută online (rezultatele sunt obținute de pe server pentru dosare IMAP și News dar timpul de deschidere al dosarului crește)">

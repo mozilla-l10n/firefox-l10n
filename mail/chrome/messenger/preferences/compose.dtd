@@ -46,9 +46,9 @@
 <!ENTITY directories.label                     "Server de directoare:">
 <!ENTITY directories.accesskey                 "d">
 <!ENTITY directoriesNone.label                 "Niciunul">
-<!ENTITY editDirectories.label                 "Editează directoarele...">
+<!ENTITY editDirectories.label                 "Editează directoarele…">
 <!ENTITY editDirectories.accesskey             "E">
 
 <!ENTITY sendOptionsDescription.label          "Configurează aspectul textului">
-<!ENTITY sendOptions.label                     "Opțiuni de trimitere...">
+<!ENTITY sendOptions.label                     "Opțiuni de trimitere…">
 <!ENTITY sendOptions.accesskey                 "O">

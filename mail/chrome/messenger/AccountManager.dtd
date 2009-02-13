@@ -2,7 +2,7 @@
 
 <!ENTITY accountManagerTitle.label "Setările contului">
 
-<!ENTITY addAccountButton.label "Adaugă cont...">
+<!ENTITY addAccountButton.label "Adaugă cont…">
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Marchează ca implicit">
 <!ENTITY setDefaultButton.accesskey "M">

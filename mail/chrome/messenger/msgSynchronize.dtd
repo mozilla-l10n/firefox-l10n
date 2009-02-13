@@ -12,7 +12,7 @@
 <!ENTITY sendMessage.accesskey "T">
 <!ENTITY workOffline.label "Deconectează imediat ce se termină descărcarea și sincronizarea">
 <!ENTITY workOffline.accesskey "D">
-<!ENTITY selectButton.label "Selectează...">
+<!ENTITY selectButton.label "Selectează…">
 <!ENTITY selectButton.accesskey "S">
 <!ENTITY MsgSelectDesc.label "Alegeți dosarele de email și grupurile de news pentru utilizare în mod deconectat.">
 <!ENTITY MsgSelectInd.label "Descarcă">

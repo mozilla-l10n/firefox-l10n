@@ -75,15 +75,15 @@
 
 <!ENTITY openAttachmentCmd.label    "Deschide">
 <!ENTITY openAttachmentCmd.accesskey    "D">
-<!ENTITY saveAsAttachmentCmd.label    "Salvează ca...">
+<!ENTITY saveAsAttachmentCmd.label    "Salvează ca…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
-<!ENTITY detachAttachmentCmd.label    "Elimină anexa...">
+<!ENTITY detachAttachmentCmd.label    "Elimină anexa…">
 <!ENTITY deleteAttachmentCmd.label    "Șterge">
-<!ENTITY saveAllAttachmentsCmd.label    "Salvează toate...">
+<!ENTITY saveAllAttachmentsCmd.label    "Salvează toate…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
-<!ENTITY detachAllAttachmentsCmd.label    "Elimină toate anexele...">
+<!ENTITY detachAllAttachmentsCmd.label    "Elimină toate anexele…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "l">
-<!ENTITY deleteAllAttachmentsCmd.label    "Șterge toate anexele...">
+<!ENTITY deleteAllAttachmentsCmd.label    "Șterge toate anexele…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">

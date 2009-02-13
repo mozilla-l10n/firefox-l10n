@@ -7,7 +7,7 @@
 <!ENTITY  openDefault.accesskey               "D">
 <!ENTITY  openApplication.label               "Deschide-le cu aplicația aceasta:">
 <!ENTITY  openApplication.accesskey           "e">
-<!ENTITY  changeApp.label                     "Răsfoiește...">
+<!ENTITY  changeApp.label                     "Răsfoiește…">
 <!ENTITY  changeApp.accesskey                 "R">
 <!ENTITY  saveToDisk.label                    "Salvează-le pe calculatorul meu">
 <!ENTITY  saveToDisk.accesskey                "S">
@@ -15,7 +15,7 @@
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
 <!ENTITY  saveToThisFolder.label              "în acest dosar:">
 <!ENTITY  saveToThisFolder.accesskey          "d">
-<!ENTITY  chooseFolder.label                  "Răsfoiește...">
+<!ENTITY  chooseFolder.label                  "Răsfoiește…">
 <!ENTITY  chooseFolder.accesskey              "R">
 <!ENTITY  saveToAskMe.label                   "întreabă-mă unde se va salva fișierul">
 <!ENTITY  saveToAskMe.accesskey               "a">
