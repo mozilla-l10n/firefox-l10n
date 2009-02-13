@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,8 +44,6 @@
 
 <!ENTITY event.title.label                  "编辑项目" >
 
-<!ENTITY newevent.before.label              "之前" >
-<!ENTITY newevent.after.label               "之后" >
 
 <!ENTITY newevent.from.label                "从" >
 <!ENTITY newevent.to.label                  "到" >
@@ -86,7 +85,7 @@
 <!ENTITY  event.menu.edit.label                           "编辑">
 <!ENTITY  event.menu.edit.accesskey                       "E">
 <!ENTITY  event.menu.edit.undo.label                      "撤消">
-<!ENTITY  event.menu.edit.undo.accesskey                  "撤">
+<!ENTITY  event.menu.edit.undo.accesskey                  "U">
 <!ENTITY  event.menu.edit.redo.label                      "重做">
 <!ENTITY  event.menu.edit.redo.accesskey                  "R">
 <!ENTITY  event.menu.edit.cut.label                       "剪切">
@@ -129,7 +128,7 @@
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
 <!ENTITY  event.menu.options.priority.low.label               "低">
 <!ENTITY  event.menu.options.priority.low.accesskey           "L">
-<!ENTITY  event.menu.options.priority.normal.label            "正常">
+<!ENTITY  event.menu.options.priority.normal.label            "普通">
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
 <!ENTITY  event.menu.options.priority.high.label              "高">
 <!ENTITY  event.menu.options.priority.high.accesskey          "H">
@@ -151,7 +150,7 @@
 <!ENTITY event.help.label                                 "帮助">
 <!ENTITY event.help.accesskey                             "H">
 <!ENTITY event.help.release.notes.label                   "发行说明">
-<!ENTITY event.help.release.notes.accesskey               "发">
+<!ENTITY event.help.release.notes.accesskey               "R">
 <!ENTITY event.help.help.label                            "&brandShortName; 帮助">
 <!ENTITY event.help.help.accesskey                        "b">
 <!ENTITY event.help.about.label                           "关闭 &brandShortName;">
@@ -190,7 +189,7 @@
 <!ENTITY task.from.accesskey                              "B">
 <!ENTITY event.to.label                                   "结束：" >
 <!ENTITY event.to.accesskey                               "n">
-<!ENTITY task.to.label                                    "截止日期：" >
+<!ENTITY task.to.label                                    "截止时间：" >
 <!ENTITY task.to.accesskey                                "u">
 <!ENTITY task.status.label                                "状态：" >
 <!ENTITY task.status.accesskey                            "a">
@@ -259,13 +258,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "每" >
 <!ENTITY repeat.units.months.both                       "月" >
-<!ENTITY event.recurrence.the.label                     "这个" >
-<!ENTITY event.recurrence.repeat.first.label            "第一">
-<!ENTITY event.recurrence.repeat.second.label           "第二">
-<!ENTITY event.recurrence.repeat.third.label            "第三">
-<!ENTITY event.recurrence.repeat.fourth.label           "第四">
-<!ENTITY event.recurrence.repeat.fifth.label            "第五">
-<!ENTITY event.recurrence.repeat.last.label             "最后">
+<!ENTITY event.recurrence.monthly.every.label           "每" >
+<!ENTITY event.recurrence.monthly.first.label           "第一">
+<!ENTITY event.recurrence.monthly.second.label          "第二">
+<!ENTITY event.recurrence.monthly.third.label           "第三">
+<!ENTITY event.recurrence.monthly.fourth.label          "第四">
+<!ENTITY event.recurrence.monthly.fifth.label           "第五">
+<!ENTITY event.recurrence.monthly.last.label            "最后">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "星期天" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "星期一" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "星期二" >
@@ -279,7 +278,6 @@
 <!ENTITY event.recurrence.every.label                        "每：" >
 <!ENTITY repeat.units.years.both                             "年" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "每" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "每" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -302,12 +300,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "十月" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "十一月" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "十二月" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "第一">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "第二">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "第三">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "第四">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "第五">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "最后">
+<!ENTITY event.recurrence.yearly.every.label                 "每">
+<!ENTITY event.recurrence.yearly.first.label                 "第一">
+<!ENTITY event.recurrence.yearly.second.label                "第二">
+<!ENTITY event.recurrence.yearly.third.label                 "第三">
+<!ENTITY event.recurrence.yearly.fourth.label                "第四">
+<!ENTITY event.recurrence.yearly.fifth.label                 "第五">
+<!ENTITY event.recurrence.yearly.last.label                  "最后">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "星期天" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "星期一" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "星期二" >
@@ -336,39 +335,20 @@
 <!ENTITY event.repeat.until.label                       "重复直到" >
 <!ENTITY event.recurrence.preview.label                 "预览">
 
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "分钟" >
-<!ENTITY alarm.units.hours                  "小时" >
-<!ENTITY alarm.units.days                   "天" >
-
-<!ENTITY reminder.title.label                           "定制提醒">
-<!ENTITY reminder.dialogtitle.label                     "设置提醒器">
-<!ENTITY reminder.reminderDetails.label                 "提醒器详细信息">
-<!ENTITY reminder.action.label                          "选择备忘录动作">
-<!ENTITY reminder.action.alert.label                    "显示一个警示">
-<!ENTITY reminder.action.email.label                    "发送一封邮件">
-<!ENTITY reminder.new.label                             "新建">
-<!ENTITY reminder.delete.label                          "删除">
-<!ENTITY reminder.relation.start.label                  "事件开始">
-<!ENTITY reminder.relation.end.label                    "事件结束">
-<!ENTITY reminder.add.label                             "添加">
-<!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "移除">
-<!ENTITY reminder.remove.accesskey                      "R">
-
-
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "邀请参与者">
-<!ENTITY event.organizer.label           "组织者">
-<!ENTITY event.freebusy.suggest.slot     "建议时间间距：">
-<!ENTITY event.freebusy.next.slot        "下次空闲" >
-<!ENTITY event.freebusy.previous.slot    "上次空闲" >
-<!ENTITY event.freebusy.zoom             "缩放：">
-<!ENTITY event.freebusy.plus             "下一小时" >
-<!ENTITY event.freebusy.minus            "前一小时" >
-<!ENTITY event.freebusy.legend.free      "空闲" >
-<!ENTITY event.freebusy.legend.busy      "繁忙" >
-<!ENTITY event.freebusy.legend.unknown   "无信息" >
+<!ENTITY invite.title.label                     "邀请参与者">
+<!ENTITY event.organizer.label                  "组织者">
+<!ENTITY event.freebusy.suggest.slot            "建议时间间距：">
+<!ENTITY event.freebusy.next.slot               "下次空闲" >
+<!ENTITY event.freebusy.previous.slot           "上次空闲" >
+<!ENTITY event.freebusy.zoom                    "缩放：">
+<!ENTITY event.freebusy.plus                    "下一小时" >
+<!ENTITY event.freebusy.minus                   "前一小时" >
+<!ENTITY event.freebusy.legend.free             "空闲" >
+<!ENTITY event.freebusy.legend.busy             "繁忙" >
+<!ENTITY event.freebusy.legend.busy_tentative   "暂定" >
+<!ENTITY event.freebusy.legend.busy_unavailable "不在办公室" >
+<!ENTITY event.freebusy.legend.unknown          "无信息" >
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "请指定时区">

@@ -51,9 +51,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newtask.button.tooltip          "创建新的任务" >
 <!ENTITY calendar.newevent.button.tooltip         "创建新的事件" >
-<!ENTITY calendar.edit.button.tooltip             "编辑所选事件" >
+<!ENTITY calendar.newtask.button.tooltip          "创建新的任务" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "任务" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "显示已完成任务">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "转至今天" >
 <!ENTITY calendar.todaypane.button.tooltip        "显示当日面板" >
-<!ENTITY calendar.unifinder.button.tooltip        "查找并列出事件" >
 
 <!ENTITY calendar.day.button.tooltip            "切换到日视图" >
 <!ENTITY calendar.week.button.tooltip           "切换到周视图" >
@@ -102,23 +100,11 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "后一月" >
 <!ENTITY calendar.prevmonth.button.tooltip      "前一月" >
 
-<!ENTITY calendar.newtask.button.label          "新建任务" >
 <!ENTITY calendar.newevent.button.label         "新建事件" >
-<!ENTITY calendar.edit.button.label             "编辑" >
+<!ENTITY calendar.newtask.button.label          "新建任务" >
 <!ENTITY calendar.print.button.label            "打印" >
 
-<!ENTITY calendar.import.button.tooltip            "导入：从本地文件导入事件。" >
-<!ENTITY calendar.export.button.tooltip            "导出：将事件导出至本地文件。" >
-<!ENTITY calendar.subscribe.button.tooltip         "订阅：从远程服务器订阅日历文件。" >
-<!ENTITY calendar.publish.button.tooltip           "发布：将事件发布到远程服务器。" >
-
 <!ENTITY calendar.export.calendar                "导出日历…" >
-
-<!ENTITY calendar.import.button.label              "导入" >
-<!ENTITY calendar.export.button.label              "导出" >
-<!ENTITY calendar.subscribe.button.label           "订阅" >
-<!ENTITY calendar.publish.button.label             "发布" >
-<!ENTITY calendar.unifinder.button.label           "查找事件" >
 
 <!ENTITY calendar.day.button.label              "日" >
 <!ENTITY calendar.week.button.label             "周" >
@@ -154,15 +140,15 @@
 <!ENTITY calendar.task.filter.open.label            "未完成任务">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 
-<!ENTITY calendar.task.details.title.label           "标题：">
-<!ENTITY calendar.task.details.organizer.label       "从：">
-<!ENTITY calendar.task.details.priority2.label       "优先级：">
-<!ENTITY calendar.task.details.priority.low.label    "低">
-<!ENTITY calendar.task.details.priority.normal.label "正常">
-<!ENTITY calendar.task.details.priority.high.label   "高">
-<!ENTITY calendar.task.details.status.label          "状态：">
-<!ENTITY calendar.task.details.category.label        "分类：">
-<!ENTITY calendar.task.details.repeat.label          "重复：">
+<!ENTITY calendar.task-details.title.label           "标题">
+<!ENTITY calendar.task-details.organizer.label       "从">
+<!ENTITY calendar.task-details.priority.label        "优先级">
+<!ENTITY calendar.task-details.priority.low.label    "低">
+<!ENTITY calendar.task-details.priority.normal.label "普通">
+<!ENTITY calendar.task-details.priority.high.label   "高">
+<!ENTITY calendar.task-details.status.label          "状态">
+<!ENTITY calendar.task-details.category.label        "分类">
+<!ENTITY calendar.task-details.repeat.label          "重复">
 
 <!ENTITY calendar.task.category.button.tooltip  "任务分类">
 <!ENTITY calendar.task.complete.button.tooltip  "标记选中的任务为已完成">
@@ -235,7 +221,7 @@
 <!ENTITY priority.level.none.accesskey      "s">
 <!ENTITY priority.level.low                 "低">
 <!ENTITY priority.level.low.accesskey       "L">
-<!ENTITY priority.level.normal              "正常">
+<!ENTITY priority.level.normal              "普通">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "高">
 <!ENTITY priority.level.high.accesskey      "H">

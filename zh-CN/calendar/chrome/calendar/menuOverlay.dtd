@@ -70,11 +70,6 @@
 <!ENTITY calendar.publish.label                 "发布…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.toolbar.label                 "日历工具栏">
-<!ENTITY calendar.toolbar.accesskey             "T">
-<!ENTITY task.toolbar.label                     "任务工具栏">
-<!ENTITY task.toolbar.accesskey                 "b">
-
 <!ENTITY calendar.menu.customize.label          "自定义…">
 <!ENTITY calendar.menu.customize.accesskey      "C">
 

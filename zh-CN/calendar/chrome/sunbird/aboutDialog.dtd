@@ -38,7 +38,7 @@
 
 <!ENTITY aboutDialog.title      "关于 &brandFullName;">
 <!ENTITY copyright.label        "贡献者">
-<!ENTITY copyright.accesskey    "贡">
+<!ENTITY copyright.accesskey    "C">
 <!ENTITY aboutLink.label        "&lt; 关于 &brandFullName;">
 <!ENTITY aboutLink.accesskey    "a">
 <!ENTITY aboutVersion           "版本">
@@ -53,7 +53,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "<h3>翻译人员</h3><ul><li>SkyEarth</li><li>文少华</li></ul>">
 
 <!ENTITY credit.powered     "基于">
 <!ENTITY license.and        "并且">
