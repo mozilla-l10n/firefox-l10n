@@ -49,13 +49,13 @@
 
 <!ENTITY            newButton.label        "Opprett profil …">
 <!ENTITY            newButton.accesskey    "O">
-<!ENTITY            renameButton.label     "Endre profilnavn …">
+<!ENTITY            renameButton.label     "Endre navn …">
 <!ENTITY            renameButton.accesskey "E">
 <!ENTITY            deleteButton.label     "Slett profil …">
 <!ENTITY            deleteButton.accesskey "S">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; lagrer informasjon om innstillinger og andre valg i brukerprofilen din.">
+<!ENTITY            pmDescription.label    "&brandShortName; lagrer informasjon om innstillinger og annen brukerdata i brukerprofilen din.">
 
 <!ENTITY            offlineState.label    "Arbeid frakoblet">
 <!ENTITY            offlineState.accesskey "A">
