@@ -27,7 +27,7 @@
 <!ENTITY  evangelism.desc                 "Det er sterkt anbefalt at du installerer denne 
                                            oppdateringen for &brandShortName; så snart som mulig.">
 
-<!ENTITY  license.instructions            "Dersom du godtar betingelsene i avtalen, trykk på «Godta»-knappen under for
+<!ENTITY  license.instructions            "Dersom du godtar betingelsene i avtalen, trykk «Godta»-knappen under for
                                            å fortsette å installere oppdateringen.">
 
 <!ENTITY  license.titleText               "Avtale for programvarelisens">
