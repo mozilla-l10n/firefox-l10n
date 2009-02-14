@@ -1,14 +1,14 @@
 
-<!ENTITY  prefWindow.titleWin     "Options">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Preferences">
+<!ENTITY  prefWindow.titleWin     "ਚੋਣਾਂ">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; ਪਸੰਦ">
 <!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 47em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title        "General">
-<!ENTITY paneDisplay.title        "Display">
-<!ENTITY paneComposition.title    "Composition">
-<!ENTITY paneAttachments.title    "Attachments">
-<!ENTITY panePrivacy.title        "Privacy">
-<!ENTITY paneAdvanced.title       "Advanced">
+<!ENTITY paneGeneral.title        "ਆਮ">
+<!ENTITY paneDisplay.title        "ਵੇਖਣ">
+<!ENTITY paneComposition.title    "ਲਿਖਣ">
+<!ENTITY paneAttachments.title    "ਅਟੈਚਮੈਂਟs">
+<!ENTITY panePrivacy.title        "ਪਰਾਈਵੇਸੀ">
+<!ENTITY paneAdvanced.title       "ਮਾਹਰ">
 

@@ -1,6 +1,6 @@
-<!ENTITY offlineDialog.title "Offline Settings">
+<!ENTITY offlineDialog.title "ਆਫਲਾਈਨ ਸੈਟਿੰਗ">
 
-<!ENTITY textStartUp "When starting up:">
+<!ENTITY textStartUp "ਜਦੋਂ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ:">
 <!ENTITY radioRememberPrevState.label "Remember previous online state">
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskMe.label "Ask me for online state at startup">
@@ -9,16 +9,16 @@
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend.label "Yes">
+<!ENTITY radioAutoSend.label "ਹਾਂ">
 <!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend.label "No">
+<!ENTITY radioNotSend.label "ਨਹੀਂ">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Ask me">
+<!ENTITY radioAskUnsent.label "ਮੈਨੂੰ ਪੁੱਛੋ">
 <!ENTITY radioAskUnsent.accesskey "s">
 <!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload.label "Yes">
+<!ENTITY radioAutoDownload.label "ਹਾਂ">
 <!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload.label "No">
+<!ENTITY radioNotDownload.label "ਨਹੀਂ">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "Ask me">
+<!ENTITY radioAskDownload.label "ਮੈਨੂੰ ਪੁੱਛੋ">
 <!ENTITY radioAskDownload.accesskey "a">

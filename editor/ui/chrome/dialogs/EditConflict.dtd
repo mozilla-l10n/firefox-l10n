@@ -37,7 +37,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "ਸੋਧ ਚੋਣ ਕਰੋ">
-<!ENTITY conflictWarning.label "ਇਸ ਸਫ਼ੇ ਨੂੰ ਹੋਰ ਕਾਰਜ ਰਾਹੀਂ ਸੋਧਿਆ ਗਿਆ ਹੈ, ਅਤੇ ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਸੰਪਾਦਕ ਵਿੱਚ ਨਾ-ਸੰਭਾਲੀਆਂ ਤਬਦੀਲੀਆਂ ਹਨ।">
+<!ENTITY conflictWarning.label "ਇਸ ਸਫ਼ੇ ਨੂੰ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ ਰਾਹੀਂ ਸੋਧਿਆ ਗਿਆ ਹੈ, ਅਤੇ ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਐਡੀਟਰ ਵਿੱਚ ਨਾ-ਸੰਭਾਲੀਆਂ ਤਬਦੀਲੀਆਂ ਹਨ।">
 <!ENTITY conflictResolve.label "ਚੋਣ ਕਰੋ ਕਿ ਕਿਹੜਾ ਵਰਜਨ ਰੱਖਣਾ ਹੈ:">
 <!ENTITY keepCurrentPageButton.label "ਤਬਦੀਲੀਆਂ ਨਾਲ ਮੌਜੂਦਾ ਵਰਜਨ ਰੱਖੋ">
 <!ENTITY useOtherPageButton.label "ਹੋਰ ਤਬਦੀਲੀਆਂ ਨਾਲ ਮੌਜੂਦਾ ਸਫ਼ਾ ਤਬਦੀਲ ਕਰੋ">

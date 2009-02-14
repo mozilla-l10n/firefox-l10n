@@ -2,7 +2,7 @@
 <!ENTITY  window.width                         "480">
 <!ENTITY  window.height                        "310">
   
-<!ENTITY  fileTypesDescription.label          "ਹੇਠ ਦਿੱਤੀ ਫਾਇਲ ਕਿਸਮਾਂ ਨਾਲ ਸਬੰਧਿਤ ਕਾਰਵਾਈ ਸਵੈ-ਚਾਲਿਤ ਹੀ ਕਰੋ:">
+<!ENTITY  fileTypesDescription.label          "ਹੇਠ ਦਿੱਤੀ ਫਾਇਲ ਕਿਸਮਾਂ ਨਾਲ ਸਬੰਧਿਤ ਐਕਸ਼ਨ ਆਟੋਮੈਟਿਕ ਹੀ ਕਰੋ:">
 
 <!ENTITY  fileHandlerColumn.label             "ਕਾਰਵਾਈ">
 <!ENTITY  fileHandlerColumn.accesskey         "A">
@@ -13,9 +13,9 @@
 <!ENTITY  fileExtensionColumn.label           "ਸਹਿਯੋਗੀ">
 <!ENTITY  fileExtensionColumn.accesskey       "E">
 
-<!ENTITY  remove.label                        "ਕਾਰਵਾਈ ਹਟਾਓ">
+<!ENTITY  remove.label                        "ਐਕਸ਼ਨ ਹਟਾਓ">
 <!ENTITY  remove.accesskey                    "R">
-<!ENTITY  edit.label                          "ਕਾਰਵਾਈ ਤਬਦੀਲ...">
+<!ENTITY  edit.label                          "ਐਕਸ਼ਨ ਬਦਲੋ...">
 <!ENTITY  edit.accesskey                      "C">
 
 <!ENTITY  windowClose.key                     "w">

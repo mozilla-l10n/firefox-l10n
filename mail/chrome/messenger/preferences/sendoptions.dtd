@@ -1,5 +1,5 @@
-<!ENTITY dialog.title                 "Send Options">
-<!ENTITY sendMail.title               "Text Format">
+<!ENTITY dialog.title                 "ਭੇਜਣ ਚੋਣਾਂ">
+<!ENTITY sendMail.title               "ਟੈਕਸਟ ਫਾਰਮੈਟ">
 <!ENTITY sendMaildesc.label           "When sending messages in HTML format and one or more recipients are not listed as being able to receive HTML:">
 <!ENTITY askMe.label                  "Ask me what to do">
 <!ENTITY askMe.accesskey              "k">
@@ -12,17 +12,17 @@
 <!ENTITY override.label               "Note: Use the Address Book to specify preferred text formats for recipients.">
 
 <!ENTITY domaindesc.label             "When you send a message to an address with one of the domain names listed below, &brandShortName; automatically sends the message in the correct format.">
-<!ENTITY HTMLTab.label                "HTML Domains">
+<!ENTITY HTMLTab.label                "HTML ਡੋਮੇਨ">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Plain Text Domains">
+<!ENTITY PlainTextTab.label           "ਪਲੇਨ ਟੈਕਸਟ ਡੋਮੇਨ">
 <!ENTITY PlainTextTab.accesskey       "P">
-<!ENTITY AddHtmlDomain.label          "Add…">
+<!ENTITY AddHtmlDomain.label          "ਸ਼ਾਮਲ…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
-<!ENTITY AddPlainText.label           "Add…">
+<!ENTITY AddPlainText.label           "ਸ਼ਾਮਲ…">
 <!ENTITY AddPlainText.accesskey       "A">
-<!ENTITY DeleteHtmlDomain.label       "Delete">
+<!ENTITY DeleteHtmlDomain.label       "ਹਟਾਓ">
 <!ENTITY DeleteHtmlDomain.accesskey   "D">
-<!ENTITY DeletePlainText.label        "Delete">
+<!ENTITY DeletePlainText.label        "ਹਟਾਓ">
 <!ENTITY DeletePlainText.accesskey    "D">
 
 <!ENTITY add.htmltitle                "Add HTML Domain Name">

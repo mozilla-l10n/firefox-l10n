@@ -1,7 +1,7 @@
-<!ENTITY messengerStartPage.label         "&brandShortName; Start Page">
+<!ENTITY messengerStartPage.label         "&brandShortName; ਸ਼ੁਰੂਆਤੀ ਪੇਜ਼">
 <!ENTITY enableStartPage.label            "When &brandShortName; launches, show the Start Page in the message area">
 <!ENTITY enableStartPage.accesskey        "W">
-<!ENTITY location.label                   "Location:">
+<!ENTITY location.label                   "ਟਿਕਾਣਾ:">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Restore Default">
 <!ENTITY useDefault.accesskey             "R">
@@ -10,14 +10,14 @@
 <!ENTITY bounceSystemDockIcon.accesskey   "i">
 
 <!ENTITY newMessagesArrive.label          "When new messages arrive:">
-<!ENTITY playSound.label                  "Play a sound">
+<!ENTITY playSound.label                  "ਸਾਊਂਡ ਚਲਾਓ">
 <!ENTITY playSound1.accesskey              "d">
-<!ENTITY showAnimatedAlert.label          "Show an alert">
+<!ENTITY showAnimatedAlert.label          "ਚੇਤਾਵਨੀ ਵੇਖੋ">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "Customize…">
+<!ENTITY customizeMailAlert.label         "ਕਸਟਮਾਈਜ਼…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY play.label                       "Play">
+<!ENTITY play.label                       "ਚਲਾਓ">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Default system sound for new mail">
 <!ENTITY systemsoundMac.label             "System Alert Sound">
@@ -25,11 +25,11 @@
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Use the following sound file">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Browse…">
+<!ENTITY browse.label                     "ਝਲਕ…">
 <!ENTITY browse.accesskey                 "B">
 
-<!ENTITY addonsMgr.label                  "Add-ons">
+<!ENTITY addonsMgr.label                  "ਐਡਆਨ">
 <!ENTITY manageAddonsDescWin.label        "Change options for your add-ons">
 <!ENTITY manageAddonsDescUnix2.label      "Change preferences for your add-ons">
-<!ENTITY manageAddons.label               "Manage Add-ons…">
+<!ENTITY manageAddons.label               "ਐਡ-ਆਨ ਪਰਬੰਧ…">
 <!ENTITY manageAddons.accesskey           "M">

@@ -1,54 +1,54 @@
-<!ENTITY itemGeneral.label                   "General">
-<!ENTITY itemAutoComplete.label              "Addressing">
-<!ENTITY itemSpellCheck.label                "Spelling">
+<!ENTITY itemGeneral.label                   "ਆਮ">
+<!ENTITY itemAutoComplete.label              "ਐਡਰੈੱਸ">
+<!ENTITY itemSpellCheck.label                "ਸਪੈਲਿੰਗ">
 
-<!ENTITY forwardMsg.label                     "Forward messages:">
+<!ENTITY forwardMsg.label                     "ਸੁਨੇਹੇ ਅੱਗੇ ਭੇਜੋ:">
 <!ENTITY forwardMsg.accesskey                 "w">
-<!ENTITY inline.label                         "Inline">
+<!ENTITY inline.label                         "ਲਾਈਨ ਵਿੱਚ">
 <!ENTITY inline.accesskey                     "I">
-<!ENTITY asAttachment.label                   "As Attachment">
+<!ENTITY asAttachment.label                   "ਅਟੈਚਮੈਂਟ ਵਾਂਗ">
 <!ENTITY asAttachment.accesskey               "A">
-<!ENTITY addExtension.label                   "add extension to file name">
+<!ENTITY addExtension.label                   "ਫਾਇਲ ਨਾਂ ਲਈ ਇੱਕ ਇਕਸਟੈਨਸ਼ਨ">
 <!ENTITY addExtension.accesskey               "f">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Font:">
+<!ENTITY font.label                           "ਫੋਂਟ:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Size:">
+<!ENTITY size.label                           "ਸਾਈਜ਼:">
 <!ENTITY size.accesskey                       "z">
-<!ENTITY fontColor.label                      "Text Color:">
+<!ENTITY fontColor.label                      "ਟੈਕਸਟ ਰੰਗ:">
 <!ENTITY fontColor.accesskey                  "x">
-<!ENTITY bgColor.label                        "Background Color:">
+<!ENTITY bgColor.label                        "ਬੈਕਗਰਾਊਂਡ ਰੰਗ:">
 <!ENTITY bgColor.accesskey                    "B">
-<!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
+<!ENTITY restoreHTMLDefaults.label            "ਡਿਫਾਲਟ ਰੀ-ਸਟੋਰ ਕਰੋ">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY spellCheck.label                     "Check spelling before sending">
+<!ENTITY spellCheck.label                     "ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
 <!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Enable spell check as you type">
+<!ENTITY spellCheckInline.label               "ਟਾਈਪ ਕਰਨ ਦੇ ਨਾਲ ਦੀ ਨਾਲ ਹੀ ਸਪੈੱਲ ਚੈੱਕ">
 <!ENTITY spellCheckInline1.accesskey           "k">
-<!ENTITY languagePopup.label                  "Language:">
+<!ENTITY languagePopup.label                  "ਭਾਸ਼ਾ:">
 <!ENTITY languagePopup.accessKey              "g">
-<!ENTITY downloadDictionaries.label           "Download More Dictionaries">
+<!ENTITY downloadDictionaries.label           "ਹੋਰ ਡਿਕਸ਼ਨਰੀਆਂ ਡਾਊਨਲੋਡ ਕਰੋ">
 
 <!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
-<!ENTITY autoSave.label                       "Auto Save every">
+<!ENTITY autoSave.label                       "ਆਪਣੇ ਆਪ ਸੰਭਾਲੋ ਹਰੇਕ">
 <!ENTITY autoSave.accesskey                   "u">
-<!ENTITY autoSaveEnd.label                    "minutes">
+<!ENTITY autoSaveEnd.label                    "ਮਿੰਟ">
 
 <!ENTITY emailCollectionPicker.label           "Automatically add outgoing e-mail addresses to my:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
-<!ENTITY addressingTitle.label                 "Address Autocompletion">
+<!ENTITY addressingTitle.label                 "ਐਡਰੈੱਸ ਆਟੋਮੈਟਿਕ ਹੀ ਪੂਰਾ ਕਰੋ">
 <!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
-<!ENTITY addressingEnable.label                "Local Address Books">
+<!ENTITY addressingEnable.label                "ਲੋਕਲ ਐਡਰੈੱਸ ਬੁੱਕ">
 <!ENTITY addressingEnable.accesskey            "A">
-<!ENTITY directories.label                     "Directory Server:">
+<!ENTITY directories.label                     "ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ:">
 <!ENTITY directories.accesskey                 "D">
-<!ENTITY directoriesNone.label                 "None">
-<!ENTITY editDirectories.label                 "Edit Directories…">
+<!ENTITY directoriesNone.label                 "ਕੋਈ ਨਹੀ">
+<!ENTITY editDirectories.label                 "ਡਾਇਰੈਕਟਰੀਆਂ ਸੋਧ…">
 <!ENTITY editDirectories.accesskey             "E">
 
-<!ENTITY sendOptionsDescription.label          "Configure text format behavior">
-<!ENTITY sendOptions.label                     "Send Options…">
+<!ENTITY sendOptionsDescription.label          "ਟੈਕਸਟ ਫਾਰਮੈਟ ਰਵੱਈਆ ਸੰਰਚਨਾ">
+<!ENTITY sendOptions.label                     "ਭੇਜਣ ਚੋਣਾਂ…">
 <!ENTITY sendOptions.accesskey                 "S">
