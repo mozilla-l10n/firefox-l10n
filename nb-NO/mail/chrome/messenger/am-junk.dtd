@@ -16,5 +16,5 @@
 <!ENTITY whitelist.label "Ikke marker e-post som uønsket dersom avsender er i: ">
 <!ENTITY whitelist.accesskey "I">
 
-<!ENTITY ispHeaders.label "Stol på meldingshoder om uønsket-status som er satt av: ">
+<!ENTITY ispHeaders.label "Stol på uønsket-meldingshoder som er satt av: ">
 <!ENTITY ispHeaders.accesskey "S">
