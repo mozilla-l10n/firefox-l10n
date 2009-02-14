@@ -12,6 +12,8 @@
 <!ENTITY homePageRadio.accesskey "d">
 <!ENTITY lastPageRadio.label "Ostatnio odwiedzoną stronę">
 <!ENTITY lastPageRadio.accesskey "O">
+<!ENTITY restoreSessionRadio.label "Przywróć poprzednią sesję">
+<!ENTITY restoreSessionRadio.accesskey "P">
 
 <!ENTITY header2.label "Strona domowa">
 <!ENTITY homePageIntro.label "Naciśnięcie przycisku Strona domowa wyświetli poniższą grupę stron w oddzielnych kartach:">
