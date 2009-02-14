@@ -406,7 +406,7 @@
 <!ENTITY menuBar.tooltip "Menylinje">
 <!ENTITY compositionToolbar.tooltip "Utformingsverktøylinje">
 <!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
-<!ENTITY newToolbarCmd.tooltip "Opprett en ny nettsideutvikler-side">
+<!ENTITY newToolbarCmd.tooltip "Lag en ny nettsideutvikler-side">
 <!ENTITY openToolbarCmd.label "Åpne">
 <!ENTITY openToolbarCmd.tooltip "Åpne en lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Lagre fil lokalt">

@@ -38,7 +38,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Konverter til tabell">
-<!ENTITY instructions1.label   "Nettsideutvikler oppretter en ny tabellrad for hvert avsnitt i det valgte området.">
+<!ENTITY instructions1.label   "Nettsideutvikler lager en ny tabellrad for hvert avsnitt i det valgte området.">
 <!ENTITY instructions2.label   "Velg tegnet som er brukt for å separere kolonnene i det valgte området:">
 <!ENTITY commaRadio.label      "Komma">
 <!ENTITY spaceRadio.label      "Mellomrom">
