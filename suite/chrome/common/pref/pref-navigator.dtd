@@ -12,6 +12,8 @@
 <!ENTITY homePageRadio.accesskey        "B">
 <!ENTITY lastPageRadio.label            "Laatst bezochte pagina">
 <!ENTITY lastPageRadio.accesskey        "L">
+<!ENTITY restoreSessionRadio.label      "Vorige sessie herstellen">
+<!ENTITY restoreSessionRadio.accesskey  "V">
 
 <!ENTITY header2.label                  "Beginpagina">
 <!ENTITY homePageIntro.label            "Op de Begin knop klikken brengt u naar deze pagina of groep pagina's.">
