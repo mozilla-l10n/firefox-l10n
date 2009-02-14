@@ -1,20 +1,24 @@
-<!ENTITY window.title "Sort Folder">
+<!ENTITY window.title "Řazení složek">
 
-<!ENTITY sortOptions.label "Sort options">
-<!ENTITY description.label "&brandShortName; can sort individual folders. Use these options to customize the sorting for this Folder.">
+<!ENTITY sortOptions.label "Možnosti řazení">
+<!ENTITY description.label "&brandShortName; umí řadit jednotlivé složky. Pomocí těchto možností můžete nastavit řazení v této složce.">
 
-<!ENTITY sortBy.label "Sort by:">
-<!ENTITY sortBy.name.label "Name">
-<!ENTITY sortBy.url.label "Location">
-<!ENTITY sortBy.shortcutUrl.label "Keyword">
-<!ENTITY sortBy.description.label "Description">
-<!ENTITY sortBy.bookmarkAddDate.label "Added">
-<!ENTITY sortBy.lastModifiedDate.label "Last Modified">
-<!ENTITY sortBy.lastVisitDate.label "Last Visited">
+<!ENTITY sortBy.label "Seřadit podle sloupce:">
+<!ENTITY sortBy.accesskey "S">
+<!ENTITY sortBy.name.label "Jméno">
+<!ENTITY sortBy.url.label "Adresa">
+<!ENTITY sortBy.shortcutUrl.label "Klíčové slovo">
+<!ENTITY sortBy.description.label "Popis">
+<!ENTITY sortBy.bookmarkAddDate.label "Přidáno">
+<!ENTITY sortBy.lastModifiedDate.label "Poslední změna">
+<!ENTITY sortBy.lastVisitDate.label "Poslední návštěva">
 
-<!ENTITY sortOrder.label "Sort order:">
-<!ENTITY sortAscending.label "Ascending">
-<!ENTITY sortDescending.label "Descending">
+<!ENTITY sortOrder.label "Řadit:">
+<!ENTITY sortOrder.accesskey "a">
+<!ENTITY sortAscending.label "Vzestupně">
+<!ENTITY sortDescending.label "Sestupně">
 
-<!ENTITY sortFoldersFirst.label "Sort folders first">
-<!ENTITY sortRecursively.label "Sort recursively">
+<!ENTITY sortFoldersFirst.label "Řadit složky nejdříve">
+<!ENTITY sortFoldersFirst.accesskey "d">
+<!ENTITY sortRecursively.label "Řadit rekurzivně">
+<!ENTITY sortRecursively.accesskey "r">

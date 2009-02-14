@@ -1,53 +1,53 @@
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY historyWindowTitle.label       "History">
-<!ENTITY menuBar.tooltip                "Menu Bar">
-<!ENTITY searchBar.tooltip              "Search Bar">
+<!ENTITY historyWindowTitle.label "Historie">
+<!ENTITY menuBar.tooltip "Lišta nabídky">
+<!ENTITY searchBar.tooltip "Lišta hledání">
 
-<!ENTITY search.emptytext               "Search History">
-<!ENTITY search.key                     "f">
-<!ENTITY view.label                     "View">
+<!ENTITY search.emptytext "Hledat v historii">
+<!ENTITY search.key "f">
+<!ENTITY view.label "Zobrazit">
 
-<!ENTITY view.columns.label             "Show Columns">
-<!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sortBy.label              "Sort by">
-<!ENTITY view.sortBy.accesskey          "S">
-<!ENTITY view.groupBy.label             "Group by">
-<!ENTITY view.groupBy.accesskey         "G">
+<!ENTITY view.columns.label "Zobrazit sloupce">
+<!ENTITY view.columns.accesskey "Z">
+<!ENTITY view.sortBy.label "Seřadit podle sloupce">
+<!ENTITY view.sortBy.accesskey "S">
+<!ENTITY view.groupBy.label "Seskupit podle">
+<!ENTITY view.groupBy.accesskey "k">
 
-<!ENTITY view.unsorted.label            "Unsorted">
-<!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z Sort Order">
-<!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A Sort Order">
-<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY view.unsorted.label "Neřadit">
+<!ENTITY view.unsorted.accesskey "N">
+<!ENTITY view.sortAscending.label "Řadit od A do Z">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Řadit od Z do A">
+<!ENTITY view.sortDescending.accesskey "Z">
 
-<!ENTITY view.groupNone.label           "None">
-<!ENTITY view.groupNone.accesskey       "N">
-<!ENTITY view.groupDay.label            "Day">
-<!ENTITY view.groupDay.accesskey        "D">
-<!ENTITY view.groupSite.label           "Site">
-<!ENTITY view.groupSite.accesskey       "S">
-<!ENTITY view.groupDayAndSite.label     "Day and Site">
+<!ENTITY view.groupNone.label "Nic">
+<!ENTITY view.groupNone.accesskey "N">
+<!ENTITY view.groupDay.label "Den">
+<!ENTITY view.groupDay.accesskey "D">
+<!ENTITY view.groupSite.label "Server">
+<!ENTITY view.groupSite.accesskey "S">
+<!ENTITY view.groupDayAndSite.label "Den a server">
 <!ENTITY view.groupDayAndSite.accesskey "a">
 
-<!ENTITY cmd.open.label                 "Open">
-<!ENTITY cmd.open.accesskey             "O">
-<!ENTITY cmd.open_window.label          "Open Link in New Window">
-<!ENTITY cmd.open_window.accesskey      "N">
-<!ENTITY cmd.open_tab.label             "Open Link in New Tab">
-<!ENTITY cmd.open_tab.accesskey         "w">
-<!ENTITY cmd.open_all_in_tabs.label     "Open All in Tabs">
-<!ENTITY cmd.open_all_in_tabs.accesskey "O">
+<!ENTITY cmd.open.label "Otevřít">
+<!ENTITY cmd.open.accesskey "O">
+<!ENTITY cmd.open_window.label "Otevřít odkaz v novém okně">
+<!ENTITY cmd.open_window.accesskey "n">
+<!ENTITY cmd.open_tab.label "Otevřít odkaz v novém panelu">
+<!ENTITY cmd.open_tab.accesskey "p">
 
-<!ENTITY bookmarkCmd.label              "Bookmark This Link…">
-<!ENTITY bookmarkCmd.accesskey          "B">
+<!ENTITY bookmarkLinkCmd.label "Přidat odkaz do záložek…">
+<!ENTITY bookmarkLinkCmd.accesskey "P">
+<!ENTITY bookmarkLinksCmd.label "Přidat odkazy do záložek">
+<!ENTITY bookmarkLinksCmd.accesskey "P">
 
-<!ENTITY col.title.label                "Title">
-<!ENTITY col.title.accesskey            "T">
-<!ENTITY col.url.label                  "Location">
-<!ENTITY col.url.accesskey              "L">
-<!ENTITY col.lastvisit.label            "Last Visited">
-<!ENTITY col.lastvisit.accesskey        "V">
-<!ENTITY col.visitcount.label           "Visit Count">
-<!ENTITY col.visitcount.accesskey       "C">
+<!ENTITY col.title.label "Název">
+<!ENTITY col.title.accesskey "N">
+<!ENTITY col.url.label "Adresa">
+<!ENTITY col.url.accesskey "A">
+<!ENTITY col.lastvisit.label "Poslední návštěva">
+<!ENTITY col.lastvisit.accesskey "s">
+<!ENTITY col.visitcount.label "Počet návštěv">
+<!ENTITY col.visitcount.accesskey "P">

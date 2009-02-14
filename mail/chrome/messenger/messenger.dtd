@@ -68,7 +68,7 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Smazat zprávu">
-  <!ENTITY deleteMsgCmd.accesskey "m">
+<!ENTITY deleteMsgCmd.accesskey "m">
 <!ENTITY undeleteMsgCmd.label "Obnovit zprávu">
 <!ENTITY undeleteMsgCmd.accesskey "n">
 <!ENTITY cancelNewsMsgCmd.label "Zrušit zprávu">
@@ -309,10 +309,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Zpráva">
 <!ENTITY newNewMsgCmd.accesskey "Z">
-<!ENTITY replyMsgCmd.label "Odpovědět">
 <!ENTITY archiveMsgCmd.label "Archivovat">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
+<!ENTITY replyMsgCmd.label "Odpovědět">
 <!ENTITY replyMsgCmd.accesskey "O">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Odpovědět pouze odesílateli">
@@ -409,12 +409,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "N">
 <!ENTITY addons.label "Správce doplňků">
 <!ENTITY addons.accesskey "D">
+<!ENTITY activitymanager.label "Správce aktivit">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Pošta a Diskusní skupiny">
 <!ENTITY messengerCmd.accesskey "P">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adresář">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "Spustit kontrolu pošty ve složce">
 <!ENTITY runJunkControls.accesskey "S">
 <!ENTITY deleteJunk.label "Smazat nevyžádanou poštu ve složce">
@@ -450,8 +450,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Nevyžádané">
 <!ENTITY notJunkButton.label "Není nevyžádaná">
 <!ENTITY addressBookButton.label "Adresář">
-<!ENTITY searchItem.title "Rychlé vyhledávání">
-<!ENTITY mailViewsToolbarItem.title "Pohledy na zprávy">
+<!ENTITY glodaSearch.title "Globální hledání">
+<!ENTITY searchItem.title "Rychlé hledání">
+<!ENTITY mailViewsToolbarItem.title "Pohledy pošty">
 <!ENTITY folderLocationToolbarItem.title "Umístění složky">
 <!ENTITY tagButton.label "Štítek">
 <!ENTITY compactButton.label "Provést údržbu">
@@ -532,6 +533,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "Jméno nebo e-mail obsahuje:">
 <!ENTITY SearchNameOrEmail.accesskey "m">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Hledat zprávy…">
+<!ENTITY glodaSearchBar.facet.label "Hledat:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Vše">
+<!ENTITY glodaSearchFacet.subject.label "Předměnt">
+<!ENTITY glodaSearchFacet.involves.label "Účastníci (od,komu,kopie)">
+<!ENTITY glodaSearchFacet.to.label "Komu, kopie">
+<!ENTITY glodaSearchFacet.from.label "Od">
+<!ENTITY glodaSearchFacet.body.label "Text zprávy">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Jména příloh">
+
+<!ENTITY glodaSearchBar.location.label "Umístění:">
+<!ENTITY glodaSearchFacet.everywhere.label "Všechny složky">
+<!ENTITY glodaSearchFacet.folder.label "Vybrané složky…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Předmět">
 <!ENTITY searchFromMenu.label "Od">
@@ -561,6 +587,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Adresa">
 <!ENTITY idColumn.label "Pořadí přijetí">
 <!ENTITY attachmentColumn.label "Přílohy">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Proč">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klepnutím vyberte sloupce pro zobrazení">
@@ -583,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle adresy">
 <!ENTITY idColumn.tooltip "Klepnutím seřadíte podle pořadí přijetí">
 <!ENTITY attachmentColumn.tooltip "Klepnutím seřadíte podle příloh">
+<!ENTITY glodaWhyColumn.tooltip "Klepnutím seřadíte podle důvodu proč je zpráva ve výsledku vyhledávání">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otevřít zprávu v novém okně">

@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Password Manager.
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
-   - Brian Ryner.
-   - Portions created by the Initial Developer are Copyright (C) 2003
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008-2009
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -  Brian Ryner <bryner@brianryner.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -29,13 +28,27 @@
    - under the terms of either the GPL or the LGPL, and not to allow others to
    - use your version of this file under the terms of the MPL, indicate your
    - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - and other provisions required by the LGPL or the GPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "Správce hesel">
-<!ENTITY tab.signonsstored.label "Uložená hesla">
-<!ENTITY tab.signonsnotstored.label "Neukládaná hesle">
-<!ENTITY search.emptytext "Hledat">
+<!ENTITY reminderdialog.title "Nastavit připomenutí">
+<!ENTITY reminder.add.label "Přidat">
+<!ENTITY reminder.add.accesskey "P">
+<!ENTITY reminder.remove.label "Odstranit">
+<!ENTITY reminder.remove.accesskey "O">
+
+<!ENTITY reminder.reminderDetails.label "Podrobnosti připomenutí">
+<!ENTITY reminder.action.label "Zvolit akci">
+
+<!ENTITY reminder.relation.before.label "před">
+<!ENTITY reminder.relation.after.label "po">
+
+<!ENTITY reminder.action.alert.label "Zobrazit výstrahu">
+<!ENTITY reminder.action.email.label "Poslat e-mail">
+
+<!ENTITY alarm.units.minutes "minuty">
+<!ENTITY alarm.units.hours "hodiny">
+<!ENTITY alarm.units.days "dny">

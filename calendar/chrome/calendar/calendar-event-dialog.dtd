@@ -44,8 +44,6 @@
 
 <!ENTITY event.title.label "Upravit položku">
 
-<!ENTITY newevent.before.label "před">
-<!ENTITY newevent.after.label "po">
 
 <!ENTITY newevent.from.label "Od">
 <!ENTITY newevent.to.label "Do">
@@ -260,13 +258,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label "Každý">
 <!ENTITY repeat.units.months.both "měsíc">
-<!ENTITY event.recurrence.the.label "">
-<!ENTITY event.recurrence.repeat.first.label "první">
-<!ENTITY event.recurrence.repeat.second.label "druhý">
-<!ENTITY event.recurrence.repeat.third.label "třetí">
-<!ENTITY event.recurrence.repeat.fourth.label "čtvrtý">
-<!ENTITY event.recurrence.repeat.fifth.label "pátý">
-<!ENTITY event.recurrence.repeat.last.label "poslední">
+<!ENTITY event.recurrence.monthly.every.label "každý" >
+<!ENTITY event.recurrence.monthly.first.label "první">
+<!ENTITY event.recurrence.monthly.second.label "druhý">
+<!ENTITY event.recurrence.monthly.third.label "třetí">
+<!ENTITY event.recurrence.monthly.fourth.label "čtvrtý">
+<!ENTITY event.recurrence.monthly.fifth.label "pátý">
+<!ENTITY event.recurrence.monthly.last.label "poslední">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label "neděle">
 <!ENTITY event.recurrence.pattern.monthly.week.2.label "pondělí">
 <!ENTITY event.recurrence.pattern.monthly.week.3.label "úterý">
@@ -280,7 +278,6 @@
 <!ENTITY event.recurrence.every.label "Každý:">
 <!ENTITY repeat.units.years.both "rok">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Každý">
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Každý">
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -303,12 +300,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label "říjen">
 <!ENTITY event.recurrence.pattern.yearly.month.11.label "listopad">
 <!ENTITY event.recurrence.pattern.yearly.month.12.label "prosinec">
-<!ENTITY event.recurrence.pattern.yearly.first.label "první">
-<!ENTITY event.recurrence.pattern.yearly.second.label "druhý">
-<!ENTITY event.recurrence.pattern.yearly.third.label "třetí">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label "čtvrtý">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label "pátý">
-<!ENTITY event.recurrence.pattern.yearly.last.label "poslední">
+<!ENTITY event.recurrence.yearly.every.label "každý">
+<!ENTITY event.recurrence.yearly.first.label "první">
+<!ENTITY event.recurrence.yearly.second.label "druhý">
+<!ENTITY event.recurrence.yearly.third.label "třetí">
+<!ENTITY event.recurrence.yearly.fourth.label "čtvrtý">
+<!ENTITY event.recurrence.yearly.fifth.label "pátý">
+<!ENTITY event.recurrence.yearly.last.label "poslední">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label "neděle">
 <!ENTITY event.recurrence.pattern.yearly.week.2.label "pondělí">
 <!ENTITY event.recurrence.pattern.yearly.week.3.label "úterý">
@@ -336,27 +334,6 @@
 <!ENTITY event.recurrence.appointments.label "opakování">
 <!ENTITY event.repeat.until.label "Opakovat do">
 <!ENTITY event.recurrence.preview.label "Náhled">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes "minuty">
-<!ENTITY alarm.units.hours "hodiny">
-<!ENTITY alarm.units.days "dny">
-
-<!ENTITY reminder.title.label "Vlastní připomenutí">
-<!ENTITY reminder.dialogtitle.label "Nastavit připomenutí">
-<!ENTITY reminder.reminderDetails.label "Podrobnosti">
-<!ENTITY reminder.action.label "Zvolit akci pro připomenutí">
-<!ENTITY reminder.action.alert.label "Zobrazit výstrahu">
-<!ENTITY reminder.action.email.label "Poslat e-mail">
-<!ENTITY reminder.new.label "Nový">
-<!ENTITY reminder.delete.label "Smazat">
-<!ENTITY reminder.relation.start.label "událost začne">
-<!ENTITY reminder.relation.end.label "událost skončí">
-<!ENTITY reminder.add.label "Přidat">
-<!ENTITY reminder.add.accesskey "P">
-<!ENTITY reminder.remove.label "Odstranit">
-<!ENTITY reminder.remove.accesskey "O">
-
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label "Pozvání účastníků">

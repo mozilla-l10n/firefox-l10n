@@ -6,8 +6,8 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label "Povolit indexování zpráv">
-<!ENTITY enableGloda.accesskey "P">
+<!ENTITY enableGlodaSearch.label "Povolit globální hledání a indexaci">
+<!ENTITY enableGlodaSearch.accesskey "P">
 <!ENTITY systemDefaults.label "Nastavení systému">
 <!ENTITY alwaysCheckDefault.label "Při startu aplikace &brandShortName; kontrolovat, zda je výchozím poštovním klientem">
 <!ENTITY alwaysCheckDefault.accesskey "t">
@@ -48,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey "T">
 <!ENTITY enableAddonsUpdate.label "Nainstalované doplňky">
 <!ENTITY enableAddonsUpdate.accesskey "i">
-<!ENTITY checkNow.label "Zkontrolovat…">
 <!ENTITY whenUpdatesFound.label "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
 <!ENTITY modeAskMe.label "Vždy se dotázat, co dělat">
 <!ENTITY modeAskMe.accesskey "V">
