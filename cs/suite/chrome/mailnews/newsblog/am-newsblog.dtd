@@ -1,20 +1,20 @@
-<!ENTITY newsblogTitle.label "RSS Account Settings">
+<!ENTITY newsblogTitle.label "Nastavení RSS účtu">
 
-<!ENTITY biffStart.label "Check for new articles every ">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "minutes">
+<!ENTITY biffStart.label "Kontrolovat nové články každých">
+<!ENTITY biffStart.accesskey "K">
+<!ENTITY biffEnd.label "minut">
 
-<!ENTITY loginAtStartup.label "Check for new articles at startup"> 
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.label "Po spuštění zkontrolovat nové články">
+<!ENTITY loginAtStartup.accesskey "z">
 
-<!ENTITY useQuickMode.label "By default, show the article summary instead of loading the web page"> 
-<!ENTITY useQuickMode.accesskey "B">
+<!ENTITY useQuickMode.label "Zobrazit stručný obsah článku namísto načtení webové stránky">
+<!ENTITY useQuickMode.accesskey "o">
 
-<!ENTITY manageSubscriptions.label "Manage Subscriptions…"> 
-<!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY manageSubscriptions.label "Správce RSS kanálů…">
+<!ENTITY manageSubscriptions.accesskey "S">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "News &amp; Blogs">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS News &amp; Blogs">
+<!ENTITY rss.accountName "RSS kanaly">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "Účet pro RSS kanály">
 <!ENTITY rss.wizardLongName.accesskey "R">

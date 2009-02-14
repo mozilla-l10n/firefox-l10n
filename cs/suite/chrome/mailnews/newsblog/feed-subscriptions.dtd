@@ -1,18 +1,18 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS Subscriptions">
-<!ENTITY subscriptionDesc.label "Note: Removing or changing the folder for a feed will not affect previously downloaded articles.">
-<!ENTITY feedTitle.label "Title:">
-<!ENTITY location.label  "Location:">
+<!ENTITY newsBlogSubscriptions.label "Správce RSS kanálů">
+<!ENTITY subscriptionDesc.label "Odebrání nebo změna složky kanálu neovlivní již stažené články.">
+<!ENTITY feedTitle.label "Titulek:">
+<!ENTITY location.label "Adresa:">
 
-<!ENTITY button.addFeed.label       "Add">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Edit">
-<!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "Remove">
-<!ENTITY button.removeFeed.accesskey   "R">
-<!ENTITY button.importOPML.label "Import">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Export">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY button.addFeed.label "Přidat">
+<!ENTITY button.addFeed.accesskey "a">
+<!ENTITY button.editFeed.label "Upravit">
+<!ENTITY button.editFeed.accesskey "U">
+<!ENTITY button.removeFeed.label "Odebrat">
+<!ENTITY button.removeFeed.accesskey "d">
+<!ENTITY button.importOPML.label "Importovat">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Exportovat">
+<!ENTITY button.exportOPML.accesskey "x">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close.commandKey "w">
