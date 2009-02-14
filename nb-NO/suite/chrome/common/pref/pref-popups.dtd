@@ -29,5 +29,5 @@
 <!ENTITY displayNotification.label      "Vis en varslingslinje øverst i innholdsområdet">
 <!ENTITY displayNotification.accesskey  "V">
 
-<!ENTITY popupNote.description          "Merk: Å blokkere alle sprettoppvinduer kan medføre at viktige funksjoner på noen nettsted slutter å virke, som f.eks. innloggingsvinduer for banker og nettbutikker. For informasjon om hvordan du kan blokkere sprettoppvinduer på spesielle nettsted, trykk på Hjelp. Selv om sprettoppvinduer blokkeres kan nettsted bruke andre måter å åpne sprettoppvinduer på.">
+<!ENTITY popupNote.description          "Merk: Å blokkere alle sprettoppvinduer kan medføre at viktige funksjoner på noen nettsted slutter å virke, som f.eks. innloggingsvinduer for banker og nettbutikker. For informasjon om hvordan du kan blokkere sprettoppvinduer på spesielle nettsted, trykk på «Hjelp». Selv om sprettoppvinduer blokkeres kan nettsted bruke andre måter å åpne sprettoppvinduer på.">
 

@@ -5,7 +5,7 @@
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Programtillegg tilgjengelige for nedlasting">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Følgende programtillegg er tilgjengelige:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Trykk på Neste for å installere disse programtilleggene.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Trykk «Neste» for å installere disse programtilleggene.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Noen programtillegg krever at du gir ytterligere informasjon under installasjon.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Lisenser for programtillegg">
