@@ -19,15 +19,12 @@
 <!ENTITY biffStart.label "புதிய செய்திகள் வருகிறதா என ஒவ்வொரு">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label " நிமிடங்களுக்கொரு தடவை பார்க்கவும்.">
-<!ENTITY socketType.label "பாதுகாப்பான இணைப்பை உபயோகிக்கவும்:">
-<!ENTITY neverSecure.label "ஒருபோதுமில்லை">
-<!ENTITY neverSecure.accesskey "">
-<!ENTITY sometimesSecure.label "TLS, கிடைத்தால்">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "பாதுகாப்பான உறுதிப்படுத்தலை பயன்படுத்துக">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "சேவையகத்தில் செய்திகளை விடுக">

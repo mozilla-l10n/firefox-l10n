@@ -409,12 +409,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "Activity Manager">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "அஞ்சல் &amp; Newsgroups">
 <!ENTITY messengerCmd.accesskey "m">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "முகவரிப்புத்தகம்">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "கோப்புறையிலே கூள அஞ்சல் கட்டுப்பாடுகளை இயக்குக">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "கூளக் கோப்புறையில் உள்ளதுபோல் குறியிடப்பட்ட அஞ்சலை நீக்குக">
@@ -450,6 +450,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "௯ளம்">
 <!ENTITY notJunkButton.label "௯ளம் அல்ல">
 <!ENTITY addressBookButton.label "முகவரிப்புத்தகம்">
+<!ENTITY glodaSearch.title "Global Search">
 <!ENTITY searchItem.title "விரைவான தேடல்">
 <!ENTITY mailViewsToolbarItem.title "அஞ்சல் நோக்கல்கள்">
 <!ENTITY folderLocationToolbarItem.title "கோப்புறை இருப்பிடம்">
@@ -532,6 +533,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "பெயர் அல்லது மின்னஞ்சல் கொண்டிருக்கிறது:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Search messages…">
+<!ENTITY glodaSearchBar.facet.label "Search:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Everything">
+<!ENTITY glodaSearchFacet.subject.label "Subject">
+<!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
+<!ENTITY glodaSearchFacet.to.label "To, CC">
+<!ENTITY glodaSearchFacet.from.label "From">
+<!ENTITY glodaSearchFacet.body.label "Message Text">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Attachment Names">
+<!ENTITY glodaSearchBar.location.label "Location:">
+<!ENTITY glodaSearchFacet.everywhere.label "All Folders">
+<!ENTITY glodaSearchFacet.folder.label "In a specific folder…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "விடயம்">
 <!ENTITY searchFromMenu.label "இருந்து">
@@ -562,6 +587,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.label "பெறப்பட்ட ஒழுங்கு முறை">
 <!ENTITY attachmentColumn.label "உடனிணைப்புக்கள்">
 
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Why">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "நிரல்களை தெரிவுசெய்து காட்சிப்படுத்துவதற்கு சொடுக்குக">
 <!ENTITY threadColumn.tooltip "செய்தி இழைகளை காட்சிப்படுத்துவதற்கு சொடுக்குக">
@@ -583,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "இருப்பிடத்தைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
 <!ENTITY idColumn.tooltip "பெறப்பட்ட ஒழுங்கைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
 <!ENTITY attachmentColumn.tooltip "உடனிணைப்புக்களைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
+<!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "செய்தியை புதிய சாரளத்தில் திறக்க">

@@ -5,10 +5,10 @@
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Kengatharaiyer Sarveswaran</li><li>Mohamed Nimshath</li><li>Kavitha Logan</li><li>Balanithy Murugaiah</li><li>Mohamed Rila</li><li>Rohana Dasanayaka</li></ul>">
+  "<h3>Translators</h3><ul><li>Kengatharaiyer Sarveswaran</li><li>Mohamed Nimshath</li><li>Kavitha Logan</li><li>Balanithy Murugaiah</li><li>Mohamed Rila</li></ul>">
 -->
 
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "<h3>Translators</h3><ul><li>Kengatharaiyer Sarveswaran</li><li>Mohamed Nimshath</li><li>Kavitha Logan</li><li>Balanithy Murugaiah</li><li>Mohamed Rila</li>">
 
 <!ENTITY credit.theme "கருத்து வடிவமைப்பு ">
 <!ENTITY credit.qa "தர உறுதி">

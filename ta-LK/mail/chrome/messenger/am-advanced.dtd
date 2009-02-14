@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "சேவையக பெயர்: ">
 <!ENTITY serverPort.label "தளம்: ">
 <!ENTITY userName.label "பயனர் பெயர்: ">
-<!ENTITY useSecureConnection.label "பாதுகாப்பான இணைப்பு:  ">
+<!ENTITY connectionSecurity.label "Connection Security: ">
 <!ENTITY useSecureAuthentication.label   "பாதுகாப்பான உறுதிப்படுத்தல்: ">

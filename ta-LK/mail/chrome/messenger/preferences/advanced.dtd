@@ -5,6 +5,9 @@
 <!ENTITY itemCertificates.label "சான்றிதழ்கள்">
 
 <!-- General Settings -->
+
+<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY systemDefaults.label          "System Defaults">
@@ -34,8 +37,6 @@
 <!ENTITY showReturnReceipts.accesskey "R">
 
 <!-- Display and Reading Settings -->
-<!ENTITY enableGloda.label             "Enable Message Indexer">
-<!ENTITY enableGloda.accesskey         "i">
 <!ENTITY reading.caption               "Reading">
 <!ENTITY display.caption               "Display">
 
