@@ -1,16 +1,13 @@
-<!ENTITY prefWindow.titleWin "אפשרויות">
-<!ENTITY prefWindow.titleGNOME "העדפות &brandShortName;">
-<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
 
-<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY  prefWindow.titleWin     "אפשרויות">
+<!ENTITY  prefWindow.titleGNOME   "העדפות &brandShortName;">
+<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title "כללי">
-<!ENTITY paneDisplay.title "תצוגה">
-
-<!ENTITY paneComposition.title "חיבור הודעה">
-<!ENTITY paneAttachments.title "נספחים">
-<!ENTITY panePrivacy.title "פרטיות">
-<!ENTITY paneAdvanced.title "מתקדם">
-
-<!ENTITY cmdCloseMac.commandKey   "w">
+<!ENTITY paneGeneral.title        "כללי">
+<!ENTITY paneDisplay.title        "תצוגה">
+<!ENTITY paneComposition.title    "חיבור הודעה">
+<!ENTITY paneAttachments.title    "נספחים">
+<!ENTITY panePrivacy.title        "פרטיות">
+<!ENTITY paneAdvanced.title       "מתקדם">

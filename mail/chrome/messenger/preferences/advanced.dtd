@@ -8,8 +8,10 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "אפשר אינדוקס הודעות">
-<!ENTITY enableGloda.accesskey         "י">
+<!ENTITY enableGlodaSearch.label       "אפשר חיפוש גלובלי ואינדוקס">
+<!ENTITY enableGlodaSearch.accesskey   "ח">
+<!-- ### ENTITY enableGloda.label             "אפשר אינדוקס הודעות" -->
+<!-- ### ENTITY enableGloda.accesskey         "י" -->
 <!ENTITY systemDefaults.label          "ברירת מחדל">
 <!ENTITY alwaysCheckDefault.label      "בדוק בכל הפעלה אם &brandShortName; היא תוכנת דואר ברירת המחדל">
 <!ENTITY checkNow.label                "בדוק כעת...">

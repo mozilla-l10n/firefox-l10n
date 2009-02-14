@@ -509,6 +509,31 @@
 <!ENTITY SearchNameOrEmail.label "שם או דוא״ל מכילים:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "חיפוש הודעות…">
+<!ENTITY glodaSearchBar.facet.label "חיפוש:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "הכל">
+<!ENTITY glodaSearchFacet.subject.label "נושא">
+<!ENTITY glodaSearchFacet.involves.label "מעורב (מאת, אל, עותק, עותק מוסתר)">
+<!ENTITY glodaSearchFacet.to.label "אל, עותק">
+<!ENTITY glodaSearchFacet.from.label "מאת">
+<!ENTITY glodaSearchFacet.body.label "טקסט בהודעה">
+<!ENTITY glodaSearchFacet.attachmentNames.label "שמות קבצים מצורפים">
+
+<!ENTITY glodaSearchBar.location.label "מיקום:">
+<!ENTITY glodaSearchFacet.everywhere.label "כל התיקיות">
+<!ENTITY glodaSearchFacet.folder.label "בתיקייה מסויימת…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "נושא">
 <!ENTITY searchFromMenu.label "מאת">
