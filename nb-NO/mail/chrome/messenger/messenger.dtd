@@ -356,8 +356,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY watchThreadMenu.label "Overvåk tråd">
 <!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Arkiver her">
-<!ENTITY fileHereMenu.accesskey "A">
+<!ENTITY fileHereMenu.label "Hit">
+<!ENTITY fileHereMenu.accesskey "H">
 <!ENTITY copyHereMenu.label "Kopier hit">
 <!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Etikett">
