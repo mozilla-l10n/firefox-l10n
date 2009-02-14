@@ -11,7 +11,7 @@
 <!ENTITY sendBoth.accesskey           "m">
 <!ENTITY override.label               "Merk: Bruk adresseboken til angi foretrukket tekstformat for mottakerne.">
 
-<!ENTITY domaindesc.label             "Når du sende en melding til en adresse innenfor et av domenene som er listet under, vil &brandShortName; automatisk sende meldingen i det formatet som er valgt.">
+<!ENTITY domaindesc.label             "Når du sender en melding til en adresse innenfor et av domenene som er listet under, vil &brandShortName; automatisk sende meldingen i det formatet som er valgt.">
 <!ENTITY HTMLTab.label                "HTML-domener">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Tekst-domener">

@@ -3,7 +3,7 @@
 <!ENTITY editorCheck.label "Composer">
 <!ENTITY editorCheck.accesskey "c">
 
-<!ENTITY compose.label "Composer">
-<!ENTITY editing.label "New Page Settings">
-<!ENTITY toolbars.label "Toolbars">
-<!ENTITY publish.label "Publishing">
+<!ENTITY compose.label "Nettsideutvikling">
+<!ENTITY editing.label "Innstillinger for nye sider">
+<!ENTITY toolbars.label "Verktøylinjer">
+<!ENTITY publish.label "Publisering">
