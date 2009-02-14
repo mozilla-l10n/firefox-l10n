@@ -59,7 +59,7 @@
 <!ENTITY calendar.pagesetup.label               "Configuració de la pàgina…">
 <!ENTITY calendar.pagesetup.accesskey           "u">
 
-<!ENTITY calendar.subscribe.label               "Subscriu a un calendari remot…">
+<!ENTITY calendar.subscribe.label               "Subscriu-me a un calendari remot…">
 <!ENTITY calendar.subscribe.accesskey           "r">
 
 <!ENTITY calendar.reloadserver.label            "Actualitza els calendaris remots">
