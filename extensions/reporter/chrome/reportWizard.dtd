@@ -3,7 +3,7 @@
 
 <!ENTITY privacyNotice.label                        "Personvern">
 <!ENTITY reportWizardPrivacy.description            "Dette verktøyet gjer det mogleg for deg å melde frå om om nettstadar som ikkje verkar skikkeleg med &brandShortName;, eller som stengjer ute &brandShortName;. På denne måten kan du hjelpe andre &brandShortName;-brukarar med å unngå problem. Les gjennom avtalen nedanfor om korleis innsamla data vert handsama dersom du veljer å vere med.">
-<!ENTITY reportWizardMustAgree.description          "Du må gokjenne avtalen ovanfor for å halde fram.">
+<!ENTITY reportWizardMustAgree.description          "Du må godkjenne avtalen ovanfor for å halde fram.">
 
 <!ENTITY dontShowPrivacyStatement.label             "Eg godtek avtalen.">
 <!ENTITY dontShowPrivacyStatement.accesskey         "E">
@@ -20,12 +20,12 @@
 <!ENTITY reportForm.problem_type.title              "Problemtype:">
 <!ENTITY reportForm.problem_type.accesskey          "P">
 
-<!ENTITY reportForm.problem_type.chooseOne.title    "Vel eitt …">
+<!ENTITY reportForm.problem_type.chooseOne.title    "Vel …">
 
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
 <!ENTITY reportForm.problem_type.item1.title        "Nettlesaren er ikkje støtta">
 <!ENTITY reportForm.problem_type.item2.title        "Kan ikkje logge inn">
-<!ENTITY reportForm.problem_type.item3.title        "Eit programtillegg vert ikkje vist">
+<!ENTITY reportForm.problem_type.item3.title        "Programtillegg vert ikkje vist">
 <!ENTITY reportForm.problem_type.item4.title        "Anna innhald manglar">
 <!ENTITY reportForm.problem_type.item5.title        "Feil åtferd">
 <!ENTITY reportForm.problem_type.item6.title        "Feil utsjånad">
@@ -34,7 +34,7 @@
 <!ENTITY reportForm.problem_type.item9.title        "Utskrive innhald er feil">
 
 <!ENTITY reportForm.describe.title                  "Forklar problemet:">
-<!ENTITY reportForm.describe.accesskey              "G">
+<!ENTITY reportForm.describe.accesskey              "F">
 
 <!ENTITY reportForm.platform.title                  "Plattform:">
 <!ENTITY reportForm.product.title                   "Produkt:">
