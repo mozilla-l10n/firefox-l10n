@@ -25,7 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Le navigateur s'est connecté avec succès mais la connexion a été interrompue pendant le transfert d'informations. Veuillez réessayer.</p><ul><li>D'autres sites sont aussi inaccessibles ? Vérifiez la connexion au réseau de votre ordinateur.</li><li>Vous avez toujours des problèmes ? Consultez votre administrateur réseau ou votre fournisseur d'accès à Internet pour obtenir de l'aide.</li></ul>">
 
 <!ENTITY netOffline.title "Mode hors connexion">
-<!ENTITY netOffline.longDesc "<p>Le navigateur est actuellement hors connexion et ne peut se connecter au site.</p><ul><li>L'ordinateur est-il connecté au réseau ?</li><li>Passez en mode connecté et réessayer.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Le navigateur est actuellement hors connexion et ne peut se connecter au site.</p><ul><li>L'ordinateur est-il connecté au réseau ?</li><li>Passez en mode connecté et réessayez.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erreur d'encodage de contenu">
 <!ENTITY contentEncodingError.longDesc "<p>La page que vous essayez de voir ne peut être affichée car elle utilise un type de compression invalide ou non pris en charge.</p><ul><li>Veuillez contacter le webmestre du site pour l'informer de ce problème.</li></ul>">
