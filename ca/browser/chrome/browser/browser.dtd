@@ -88,6 +88,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip "Atura la càrrega d'aquesta pàgina">
 <!ENTITY goEndCap.tooltip "Es va a l'adreça en la barra d'ubicació">
+<!ENTITY feedButton.tooltip           "Subscriu-me a aquesta pàgina…">
 <!ENTITY printButton.label "Imprimeix">
 <!ENTITY printButton.tooltip "Imprimeix aquesta pàgina">
 
@@ -347,6 +348,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mida de la pàgina">
 <!ENTITY fullZoom.accesskey             "d">
 
+<!ENTITY newTabButton.tooltip           "Obre una nova pestanya">
 <!ENTITY newWindowButton.tooltip "Obre una nova finestra">
 <!ENTITY sidebarCloseButton.tooltip "Tanca la barra lateral">
 
