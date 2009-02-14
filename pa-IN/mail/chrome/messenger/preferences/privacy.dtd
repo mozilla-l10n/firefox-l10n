@@ -1,7 +1,7 @@
-<!ENTITY itemJunk.label          "Junk">
-<!ENTITY itemPhishing.label      "E-mail Scams">
-<!ENTITY itemPasswords.label     "Passwords">
-<!ENTITY itemAntiVirus.label     "Anti-Virus">
+<!ENTITY itemJunk.label          "ਜੰਕ">
+<!ENTITY itemPhishing.label      "ਈਮੇਮਲ ਘਪਲੇ">
+<!ENTITY itemPasswords.label     "ਪਾਸਵਰਡ">
+<!ENTITY itemAntiVirus.label     "ਐਟੀ-ਵਾਈਰਸ">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings.">
@@ -9,13 +9,13 @@
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Delete them">
+<!ENTITY manualMarkModeDelete.label "ਉਹ ਹਟਾਓ">
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
 <!ENTITY markAsReadOnSpam.accesskey "k">
 <!ENTITY enableJunkLogging.label "Enable junk filter logging">
 <!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Show log">
+<!ENTITY openJunkLog.label "ਲਾਗ ਵੇਖੋ">
 <!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "Reset Training Data">
 <!ENTITY resetTrainingData.accesskey "D">
@@ -29,12 +29,12 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName; can remember passwords for all of your accounts.">
-<!ENTITY useMasterPassword.label        "Use a master password">
+<!ENTITY useMasterPassword.label        "ਇੱਕ ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY useMasterPassword.accesskey    "m">
 <!ENTITY masterPassword.intro           "A Master Password protects all your passwords, but you must enter it once per session.">
-<!ENTITY changeMasterPassword.label     "Change Master Password…">
+<!ENTITY changeMasterPassword.label     "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਦਲੋ…">
 <!ENTITY changeMasterPassword.accesskey "C">
-<!ENTITY savedPasswords.label           "Saved Passwords…">
+<!ENTITY savedPasswords.label           "ਸੰਭਾਲੇ ਪਾਸਵਰਡ…">
 <!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->

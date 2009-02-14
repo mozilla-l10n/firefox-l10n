@@ -1,6 +1,6 @@
-<!ENTITY junkLog.title "Junk Mail Log">
-<!ENTITY junkLogInfo.label "Log of junk mail control activity.">
-<!ENTITY clearLog.label "Clear Log">
+<!ENTITY junkLog.title "ਜੰਕ ਮੇਲ ਲਾਗ">
+<!ENTITY junkLogInfo.label "ਜੰਕ ਮੇਲ ਕੰਟਰੋਲ ਸਰਗਰਮੀ ਲਈ ਲਾਗ ਹੈ">
+<!ENTITY clearLog.label "ਲਾਗ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearLog.accesskey "C">
-<!ENTITY closeLog.label "Close">
+<!ENTITY closeLog.label "ਬੰਦ ਕਰੋ">
 <!ENTITY closeLog.accesskey "o">

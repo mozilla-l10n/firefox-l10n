@@ -1,12 +1,12 @@
-<!ENTITY  fontsAndEncodingsDialog.title           "Fonts &amp; Encodings">
+<!ENTITY  fontsAndEncodingsDialog.title           "ਫੋਂਟ &amp; ਇੰਕੋਡਿੰਗ">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "Fonts for:">
+<!ENTITY  language.label                          "ਇਸ ਲਈ ਫੋਂਟ:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  sizes.label                             "Size (pixels)">
+<!ENTITY  sizes.label                             "ਸਾਈਜ਼ ਪਿਕਸਲ">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
 
@@ -36,22 +36,22 @@
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebrew">
 <!ENTITY  font.langGroup.arabic                   "Arabic">
-<!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.devanagari               "ਦੇਵਨਾਗਰੀ">
+<!ENTITY  font.langGroup.tamil                    "ਤਾਮਿਲ">
 <!ENTITY  font.langGroup.armenian                 "Armenian">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.bengali                  "ਬੰਗਾਲੀ">
 <!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
 <!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
-<!ENTITY  font.langGroup.georgian                 "Georgian">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
-<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.georgian                 "ਜਾਰਜੀਆਈ">
+<!ENTITY  font.langGroup.gujarati                 "ਗੁਜਰਾਤੀ">
+<!ENTITY  font.langGroup.gurmukhi                 "ਗੁਰਮੁਖੀ">
+<!ENTITY  font.langGroup.khmer                    "ਖਮੀਰ">
+<!ENTITY  font.langGroup.malayalam                "ਮਲਿਆਲਮ">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimum font size:">
+<!ENTITY minSize.label                            "ਘੱਟੋ-ਘੱਟ ਫੋਂਟ ਸਾਈਜ਼:">
 <!ENTITY minSize.accesskey                        "z">
-<!ENTITY minSize.none                             "None">
+<!ENTITY minSize.none                             "ਕੋਈ ਨਹੀਂ">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
@@ -62,12 +62,12 @@
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Outgoing Mail:">
+<!ENTITY sendDefaultCharset.label         "ਜਾ ਰਹੀ ਮੇਲ:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label            "Character Encodings">
+<!ENTITY languagesTitle1.label            "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
 <!ENTITY composingDescription.label       "Set the default character encodings for sending and receiving mail">
 
-<!ENTITY viewDefaultCharsetList.label     "Incoming Mail:">
+<!ENTITY viewDefaultCharsetList.label     "ਆਉਣ ਵਾਲੀ ਮੇਲ:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
 <!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
 <!ENTITY replyInDefaultCharset2.accesskey "h">

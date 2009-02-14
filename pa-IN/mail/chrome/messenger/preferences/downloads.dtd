@@ -1,15 +1,15 @@
-<!ENTITY askOnSave.label              "Attachments Folder">
+<!ENTITY askOnSave.label              "ਅਟੈਚਮੈਂਟ ਫੋਲਡਰ">
 <!ENTITY alwaysAsk.label              "Ask me where to save every file">
 <!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY neverAsk.label               "Save all attachments to this folder:">
 <!ENTITY neverAsk.accesskey           "S">
-<!ENTITY chooseFolderWin.label        "Browse…">
+<!ENTITY chooseFolderWin.label        "ਝਲਕ…">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Choose…">
+<!ENTITY chooseFolderMac.label        "ਚੁਣੋ…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
 
-<!ENTITY fileTypes.label              "Download Actions">
-<!ENTITY configureActions.label       "View &amp; Edit Actions…">
+<!ENTITY fileTypes.label              "ਡਾਊਨਲੋਡ ਐਕਸ਼ਨ">
+<!ENTITY configureActions.label       "ਐਕਸ਼ਨ ਵੇਖੋ ਅਤੇ ਸੋਧੋ…">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "&brandShortName; can automatically save or open attachments of certain types.">
