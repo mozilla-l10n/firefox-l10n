@@ -130,8 +130,8 @@
 <!ENTITY deleteButton2.accesskey                        "S">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Opprett et nytt adressekort">
-<!ENTITY newlistButton.tooltip                          "Opprett en ny liste">
+<!ENTITY newContactButton.tooltip                       "Lag et nytt adressekort">
+<!ENTITY newlistButton.tooltip                          "Lag en ny liste">
 <!ENTITY editButton2.tooltip                            "Rediger valgt element">
 <!ENTITY newmsgButton.tooltip                           "Send en e-post">
 <!ENTITY newIM.tooltip                                  "Send en melding eller chat">

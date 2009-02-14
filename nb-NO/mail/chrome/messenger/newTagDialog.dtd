@@ -1,4 +1,4 @@
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Opprett ny etikett">
+<!ENTITY newTagDialog.title      "Lag ny etikett">
 <!ENTITY name.label              "Navn på etikett:">
 <!ENTITY name.accesskey          "N">
