@@ -1,6 +1,6 @@
 <!ENTITY securityTitle.label "Sikkerhet">
 <!ENTITY securityTab.label "Sikkerhet">
-<!ENTITY securityHeading.label "For å sende og motta signerte eller krypterte meldinger, bør du angi både et digitalt signatursertifikat og et krypteringssertifikat.">
+<!ENTITY securityHeading.label "For å sende og motta signerte eller krypterte meldinger bør du angi både et digitalt signatursertifikat og et krypteringssertifikat.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Standard krypteringsvalg ved sending av meldinger:">
 <!ENTITY neverEncrypt.label "Aldri (ikke bruk kryptering)">
