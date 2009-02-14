@@ -117,7 +117,7 @@
 
 <!ENTITY fileCarbonCopyCmd.label "Send en kopi til">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
-<!ENTITY fileHereMenu.label "Fil her">
+<!ENTITY fileHereMenu.label "Arkiver her">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
