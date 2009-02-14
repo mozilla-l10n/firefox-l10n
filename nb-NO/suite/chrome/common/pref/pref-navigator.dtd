@@ -12,6 +12,8 @@
 <!ENTITY homePageRadio.accesskey        "H">
 <!ENTITY lastPageRadio.label            "Sist besøkte side">
 <!ENTITY lastPageRadio.accesskey        "S">
+<!ENTITY restoreSessionRadio.label      "Gjenopprett forrige programøkt">
+<!ENTITY restoreSessionRadio.accesskey  "G">
 
 <!ENTITY header2.label                  "Hjemmeside">
 <!ENTITY homePageIntro.label            "Når du trykker på Hjem-knappen vil denne gruppen av sider bli vist.">

@@ -37,11 +37,11 @@
 <!ENTITY cmd.open_window.accesskey      "Å">
 <!ENTITY cmd.open_tab.label             "Åpne lenke i ny fane">
 <!ENTITY cmd.open_tab.accesskey         "n">
-<!ENTITY cmd.open_all_in_tabs.label     "Åpne alle i faner">
-<!ENTITY cmd.open_all_in_tabs.accesskey "f">
 
-<!ENTITY bookmarkCmd.label              "Legg til bokmerke for lenke …">
-<!ENTITY bookmarkCmd.accesskey          "L">
+<!ENTITY bookmarkLinkCmd.label          "Legg lenken i bokmerker …">
+<!ENTITY bookmarkLinkCmd.accesskey      "L">
+<!ENTITY bookmarkLinksCmd.label         "Legg disse lenkene i bokmerker">
+<!ENTITY bookmarkLinksCmd.accesskey     "L">
 
 <!ENTITY col.title.label                "Tittel">
 <!ENTITY col.title.accesskey            "T">
