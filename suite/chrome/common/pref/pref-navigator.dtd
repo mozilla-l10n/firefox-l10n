@@ -30,43 +30,45 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  pref.navigator.title      "Naršyklė">
+<!ENTITY pref.navigator.title             "Naršyklė">
 
-<!ENTITY  navRadio.label            "Rodyti">
-<!ENTITY  navRadio.accesskey        "R">
-<!ENTITY  navStartPageMenu.label    "paleidžiant naršyklę:">
-<!ENTITY  newWinPageMenu.label      "atveriant naują langą:">
-<!ENTITY  newTabPageMenu.label      "atveriant naują kortelę:">
+<!ENTITY navRadio.label                   "Rodyti">
+<!ENTITY navRadio.accesskey               "R">
+<!ENTITY navStartPageMenu.label           "paleidžiant naršyklę:">
+<!ENTITY newWinPageMenu.label             "atveriant naują langą:">
+<!ENTITY newTabPageMenu.label             "atveriant naują kortelę:">
 
-<!ENTITY  blankPageRadio.label      "tuščią puslapį">
-<!ENTITY  blankPageRadio.accesskey  "š">
-<!ENTITY  homePageRadio.label       "pradžios tinklalapį">
-<!ENTITY  homePageRadio.accesskey   "p">
-<!ENTITY  lastPageRadio.label       "paskiausiai aplankytą tinklalapį">
-<!ENTITY  lastPageRadio.accesskey   "k">
+<!ENTITY blankPageRadio.label             "tuščią puslapį">
+<!ENTITY blankPageRadio.accesskey         "š">
+<!ENTITY homePageRadio.label              "pradžios tinklalapį">
+<!ENTITY homePageRadio.accesskey          "p">
+<!ENTITY lastPageRadio.label              "paskiausiai aplankytą tinklalapį">
+<!ENTITY lastPageRadio.accesskey          "k">
+<!ENTITY restoreSessionRadio.label        "paskutinio seanso langus ir korteles">
+<!ENTITY restoreSessionRadio.accesskey    "s">
 
-<!ENTITY  header2.label             "Pradžios tinklalapis">
-<!ENTITY  homePageIntro.label       "Šis tinklalapis bus įkeliamas spustelėjus mygtuką „Pradžia“.">
-<!ENTITY  useCurrent.label          "Šiuo metu atvertas tinklalapis">
-<!ENTITY  useCurrent.accesskey      "v">
-<!ENTITY  useCurrentGroup.label     "Šiuo metu atverta tinklalapių grupė">
-<!ENTITY  useCurrentGroup.accesskey "g">
-<!ENTITY  browseFile.label          "Parinkti failą…">
-<!ENTITY  browseFile.accesskey      "f">
-<!ENTITY  useDefault.label          "Atstatyti numatytąjį">
-<!ENTITY  useDefault.accesskey      "n">
+<!ENTITY header2.label                    "Pradžios tinklalapis">
+<!ENTITY homePageIntro.label              "Šis tinklalapis bus įkeliamas spustelėjus mygtuką „Pradžia“.">
+<!ENTITY useCurrent.label                 "Šiuo metu atvertas tinklalapis">
+<!ENTITY useCurrent.accesskey             "v">
+<!ENTITY useCurrentGroup.label            "Šiuo metu atverta tinklalapių grupė">
+<!ENTITY useCurrentGroup.accesskey        "g">
+<!ENTITY browseFile.label                 "Parinkti failą…">
+<!ENTITY browseFile.accesskey             "f">
+<!ENTITY useDefault.label                 "Atstatyti numatytąjį">
+<!ENTITY useDefault.accesskey             "n">
 
-<!ENTITY  toolbarIntro.label        "Pagrindinio naršyklės lango mygtukai">
+<!ENTITY toolbarIntro.label               "Pagrindinio naršyklės lango mygtukai">
 
-<!ENTITY  navToolbarIntro.label     "Naršymo juosta">
-<!ENTITY  goButton.label            "Eiti">
-<!ENTITY  goButton.accesskey        "E">
-<!ENTITY  searchButton.label        "Ieškoti">
-<!ENTITY  searchButton.accesskey    "I">
+<!ENTITY navToolbarIntro.label            "Naršymo juosta">
+<!ENTITY goButton.label                   "Eiti">
+<!ENTITY goButton.accesskey               "E">
+<!ENTITY searchButton.label               "Ieškoti">
+<!ENTITY searchButton.accesskey           "I">
 
-<!ENTITY defaultBrowserGroup.label      "Numatytoji naršyklė">
-<!ENTITY defaultBrowserButton.label     "Skirti numatytąja naršykle">
-<!ENTITY defaultBrowserButton.accesskey "N">
-<!ENTITY alreadyDefaultText             "„&brandShortName;“ jau yra skirta numatytąja naršykle.">
-<!ENTITY defaultPendingText             "Paspaudus mygtuką „Gerai“, „&brandShortName;“ bus skirta numatytąja naršykle.">
-<!ENTITY makeDefaultText                "Skirti „&brandShortName;“ numatytąja naršykle.">
+<!ENTITY defaultBrowserGroup.label        "Numatytoji naršyklė">
+<!ENTITY defaultBrowserButton.label       "Skirti numatytąja naršykle">
+<!ENTITY defaultBrowserButton.accesskey   "n">
+<!ENTITY alreadyDefaultText               "„&brandShortName;“ jau yra skirta numatytąja naršykle.">
+<!ENTITY defaultPendingText               "Paspaudus mygtuką „Gerai“, „&brandShortName;“ bus skirta numatytąja naršykle.">
+<!ENTITY makeDefaultText                  "Skirti „&brandShortName;“ numatytąja naršykle.">
