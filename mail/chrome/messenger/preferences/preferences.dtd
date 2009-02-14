@@ -11,5 +11,3 @@
 <!ENTITY paneAttachments.title    "Vedlegg">
 <!ENTITY panePrivacy.title        "Personvern">
 <!ENTITY paneAdvanced.title       "Avansert">
-
-<!ENTITY cmdCloseMac.commandKey   "w">
