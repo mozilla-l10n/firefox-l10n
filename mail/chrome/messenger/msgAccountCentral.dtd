@@ -12,7 +12,7 @@
 
 <!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjoner"> 
 <!ENTITY searchMsgsLink.label         "Søk i meldinger"> 
-<!ENTITY filtersLink.label            "Opprett meldingsfiltre">
+<!ENTITY filtersLink.label            "Lag meldingsfiltre">
 <!ENTITY junkSettings.label           "Innstillinger for uønsket e-post">
 <!ENTITY offlineLink.label            "Innstillinger for frakoblet tilstand">
 

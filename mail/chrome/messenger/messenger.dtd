@@ -334,8 +334,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.label "Rediger som ny">
 <!ENTITY editMsgAsNewCmd.accesskey "R">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "Opprett filter fra melding">
-<!ENTITY createFilter.accesskey "O">
+<!ENTITY createFilter.label "Lag filter fra melding">
+<!ENTITY createFilter.accesskey "L">
 <!ENTITY moveMsgToMenu.label "Flytt til">
 <!ENTITY moveMsgToMenu.accesskey "F">
 <!ENTITY moveCopyMsgRecentMenu.label "Sist brukt">
@@ -678,8 +678,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SendMailTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Kopier e-postadresse">
 <!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CreateFilterFrom.label "Opprett filter fra …">
-<!ENTITY CreateFilterFrom.accesskey "O">
+<!ENTITY CreateFilterFrom.label "Lag filter fra …">
+<!ENTITY CreateFilterFrom.accesskey "L">
 <!ENTITY reportPhishingURL.label "Rapporter e-postsvindel">
 <!ENTITY reportPhishingURL.accesskey "o">
 

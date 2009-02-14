@@ -330,7 +330,7 @@
 
 <!ENTITY event.recurrence.range.label                   "Varighet på gjentakelsen">
 <!ENTITY event.recurrence.forever.label                 "Ingen sluttdato" >
-<!ENTITY event.recurrence.repeat.for.label              "Opprett" >
+<!ENTITY event.recurrence.repeat.for.label              "Lag" >
 <!ENTITY event.recurrence.appointments.label            "avtaler" >
 <!ENTITY event.repeat.until.label                       "Gjenta frem til" >
 <!ENTITY event.recurrence.preview.label                 "Forhåndsvisning">
