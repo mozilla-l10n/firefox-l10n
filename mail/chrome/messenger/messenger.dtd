@@ -129,7 +129,7 @@
 <!ENTITY messagePaneVertical.label "Vertikal visning">
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showMessageCmd.label "Meldingsvindu">
-<!ENTITY showMessageCmd.accesskey "v">
+<!ENTITY showMessageCmd.accesskey "M">
 
 <!ENTITY folderView.label "Mapper">
 <!ENTITY folderView.accesskey "M">
