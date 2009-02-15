@@ -56,7 +56,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "I">
 <!ENTITY downloadSelectedCmd.label "Last ned valgte meldinger">
 <!ENTITY downloadSelectedCmd.accesskey "n">
-<!ENTITY downloadStarredCmd.label "Last ned stjernede meldinger">
+<!ENTITY downloadStarredCmd.label "Last ned meldinger merket med stjerne">
 <!ENTITY downloadStarredCmd.accesskey "L">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
@@ -90,7 +90,7 @@
 <!ENTITY selectThreadCmd.label "Tråd">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Stjernede meldinger">
+<!ENTITY selectFlaggedCmd.label "Meldinger med stjerne">
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Favorittmappe">
 <!ENTITY menuFavoriteFolder.accesskey "F">
@@ -386,7 +386,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.label "Alle som lest">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Legg til stjerne">
+<!ENTITY markStarredCmd.label "Merk med stjerne">
 <!ENTITY markStarredCmd.accesskey "s">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Som uønsket">
