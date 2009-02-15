@@ -4,7 +4,7 @@
 <!ENTITY description.label          "Opprett som undermappe av:">
 <!ENTITY description.accesskey      "O">
 
-<!ENTITY searchTermCaption.label "Velg søkekriteriene for denne søkemappen: ">
+<!ENTITY searchTermCaption.label "Velg søkekriteriene for dette søket: ">
 
 <!ENTITY folderSelectionCaption.label "Velg mapper å søke i: ">
 <!ENTITY chooseFoldersButton.label "Velg …">
