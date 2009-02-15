@@ -12,6 +12,8 @@
 <!ENTITY  homePageRadio.accesskey "p">
 <!ENTITY  lastPageRadio.label "La dernière page visitée">
 <!ENTITY  lastPageRadio.accesskey "r">
+<!ENTITY restoreSessionRadio.label      "Restaurer la session précédente">
+<!ENTITY restoreSessionRadio.accesskey  "s">
 
 <!ENTITY  header2.label "Ma page d'accueil">
 <!ENTITY  homePageIntro.label "Cliquer sur le bouton « Accueil » chargera cette page ou ce groupe de pages :">
