@@ -12,6 +12,8 @@
 <!ENTITY homePageRadio.accesskey        "a">
 <!ENTITY lastPageRadio.label            "Letzte angezeigte Seite">
 <!ENTITY lastPageRadio.accesskey        "e">
+<!ENTITY restoreSessionRadio.label      "Vorherige Sitzung wiederherstellen">
+<!ENTITY restoreSessionRadio.accesskey  "V">
 
 <!ENTITY header2.label                  "Startseite">
 <!ENTITY homePageIntro.label            "Klicken auf die Schaltfläche &quot;Startseite&quot; bringt Sie zu dieser Seite oder Gruppe von Seiten.">
