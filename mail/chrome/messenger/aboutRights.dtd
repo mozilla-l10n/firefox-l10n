@@ -45,7 +45,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; bietet optionale Dienste (&quot;Services&quot;) wie den Add-on-Update-Dienst, die für den Gebrauch mit der Binaryversion von &brandShortName; unter den unten angegebenen Bedingungen zur Verfügung gestellt werden. Falls Sie die Dienste nicht verwenden möchten oder die Bedingungen für Sie nicht akzeptabel sind, können Sie den Add-on-Update-Dienst abschalten, in dem Sie das Einstellungen-Fenster öffnen, dort den Bereich ">
+<!ENTITY rights.webservices-a "&brandFullName; bietet optionale Dienste (&quot;Services&quot;) wie den Add-on-Update-Dienst, die für den Gebrauch mit der Binaryversion von &brandShortName; unter den unten angegebenen Bedingungen zur Verfügung gestellt werden. Falls Sie die Dienste nicht verwenden möchten oder die Bedingungen für Sie nicht akzeptabel sind, können Sie den Add-on-Update-Dienst abschalten, indem Sie das Einstellungen-Fenster öffnen, dort den Bereich ">
 <!ENTITY rights.webservices-b "&quot;Erweitert&quot;">
 <!ENTITY rights.webservices-c " und darin den Tab ">
 <!ENTITY rights.webservices-d "&quot;Update&quot;">
