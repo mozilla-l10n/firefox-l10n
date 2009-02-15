@@ -7,7 +7,7 @@
 <!ENTITY smtpListAdd.label "Bæta við…">
 <!ENTITY smtpListAdd.accesskey "B">
 <!ENTITY smtpListEdit.label "Breyta…">
-<!ENTITY smtpListEdit.accesskey "B">
+<!ENTITY smtpListEdit.accesskey "r">
 <!ENTITY smtpListDelete.label "Fjarlægja">
 <!ENTITY smtpListDelete.accesskey "F">
 <!ENTITY smtpListSetDefault.label "Setja sem sjálfgefið">
@@ -16,5 +16,5 @@
 <!ENTITY serverName.label "Nafn netþjóns: ">
 <!ENTITY serverPort.label "Gátt: ">
 <!ENTITY userName.label "Notandanafn: ">
-<!ENTITY useSecureConnection.label "Örugg tenging: ">
+<!ENTITY connectionSecurity.label "Öryggi tengingar: ">
 <!ENTITY useSecureAuthentication.label "Öruggt auðkenni: ">

@@ -79,7 +79,7 @@
 <!ENTITY feedTab "Straumar">
 <!ENTITY feedTab.accesskey "S">
 <!ENTITY feedSubscribe "Gerast áskrifandi">
-<!ENTITY feedSubscribe.accesskey "G">
+<!ENTITY feedSubscribe.accesskey "r">
 <!ENTITY permTab "Heimildir">
 <!ENTITY permTab.accesskey "H">
 <!ENTITY permUseDefault "Nota sjálfgefið">

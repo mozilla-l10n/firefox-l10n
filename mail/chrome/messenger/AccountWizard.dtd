@@ -94,6 +94,7 @@
 <!ENTITY smtpServerNamePrefix.label "Nafn útsent póstþjóns (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nafn fréttaþjóns (NNTP):">
 <!ENTITY downloadOnLogin.label "Hlaða niður tölvupósti strax">
+<!ENTITY downloadOnLogin.accesskey "H">
 <!ENTITY deferStorageDesc.label "Afhakaðu þennan gátreit ef þú vilt geyma póst fyrir þennan reikning í eigin möppu. Það mun þá sýna þennan reikning sem rótarhlut. Annars mun hann verða partur af staðbundnum möppum í víðværa innhólfinu.
 ">
 <!ENTITY deferStorage.label "Nota víðvært innhólf (geyma póst í Staðbundnum möppum)">

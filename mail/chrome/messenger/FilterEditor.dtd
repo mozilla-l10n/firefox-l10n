@@ -24,7 +24,7 @@
 <!ENTITY markMessageStarred.label "Stjörnumerkja">
 <!ENTITY setPriority.label "Setja mikilvægi sem">
 <!ENTITY addTag.label "Flokka póst">
-<!ENTITY setJunkScore.label "Setja ruslpóst stöðu sem">
+<!ENTITY setJunkScore.label "Setja ruslpóstsstöðu sem">
 <!ENTITY deleteMessage.label "Eyða pósti">
 <!ENTITY deleteFromPOP.label "Eyða frá POP póstþjóni">
 <!ENTITY fetchFromPOP.label "Ná í frá POP póstþjóni">

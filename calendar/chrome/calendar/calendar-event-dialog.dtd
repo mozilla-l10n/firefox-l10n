@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -42,8 +43,6 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY event.title.label "Breyta atriði">
-<!ENTITY newevent.before.label "fyrir">
-<!ENTITY newevent.after.label "eftir">
 <!ENTITY newevent.from.label "Frá">
 <!ENTITY newevent.to.label "Til">
 <!ENTITY newevent.attendees.notify.label "Tilkynna þátttakendum">
@@ -239,13 +238,13 @@
 <!ENTITY event.recurrence.on.label "Á:">
 <!ENTITY event.recurrence.pattern.monthly.every.label "Hverja">
 <!ENTITY repeat.units.months.both "Mánuður(ir)">
-<!ENTITY event.recurrence.the.label "Þann">
-<!ENTITY event.recurrence.repeat.first.label "Fyrsta">
-<!ENTITY event.recurrence.repeat.second.label "Annan">
-<!ENTITY event.recurrence.repeat.third.label "Þriðja">
-<!ENTITY event.recurrence.repeat.fourth.label "Fjórða">
-<!ENTITY event.recurrence.repeat.fifth.label "Fimmta">
-<!ENTITY event.recurrence.repeat.last.label "Síðasta">
+<!ENTITY event.recurrence.monthly.every.label "Hverja">
+<!ENTITY event.recurrence.monthly.first.label "Fyrsti">
+<!ENTITY event.recurrence.monthly.second.label "Annar">
+<!ENTITY event.recurrence.monthly.third.label "Þriðji">
+<!ENTITY event.recurrence.monthly.fourth.label "Fjórða">
+<!ENTITY event.recurrence.monthly.fifth.label "Fimmta">
+<!ENTITY event.recurrence.monthly.last.label "Seinasta">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label "Sunnudagur">
 <!ENTITY event.recurrence.pattern.monthly.week.2.label "Mánudagur">
 <!ENTITY event.recurrence.pattern.monthly.week.3.label "Þriðjudagur">
@@ -258,7 +257,6 @@
 <!ENTITY event.recurrence.every.label "Hverja:">
 <!ENTITY repeat.units.years.both "Ár">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Hvern">
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Hvern">
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -279,12 +277,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label "Október">
 <!ENTITY event.recurrence.pattern.yearly.month.11.label "Nóvember">
 <!ENTITY event.recurrence.pattern.yearly.month.12.label "Desember">
-<!ENTITY event.recurrence.pattern.yearly.first.label "Fyrsta">
-<!ENTITY event.recurrence.pattern.yearly.second.label "Annan">
-<!ENTITY event.recurrence.pattern.yearly.third.label "Þriðja">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label "Fjórða">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label "Fimmta">
-<!ENTITY event.recurrence.pattern.yearly.last.label "Síðasta">
+<!ENTITY event.recurrence.yearly.every.label "Hverja">
+<!ENTITY event.recurrence.yearly.first.label "Fyrsta">
+<!ENTITY event.recurrence.yearly.second.label "Annar">
+<!ENTITY event.recurrence.yearly.third.label "Þriðja">
+<!ENTITY event.recurrence.yearly.fourth.label "Fjórða">
+<!ENTITY event.recurrence.yearly.fifth.label "Fimmta">
+<!ENTITY event.recurrence.yearly.last.label "Seinasta">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label "Sunnudag">
 <!ENTITY event.recurrence.pattern.yearly.week.2.label "Mánudagur">
 <!ENTITY event.recurrence.pattern.yearly.week.3.label "Þriðjudagur">
@@ -311,24 +310,6 @@
 <!ENTITY event.recurrence.appointments.label "Atburði">
 <!ENTITY event.repeat.until.label "Endurtaka þangað til">
 <!ENTITY event.recurrence.preview.label "Forskoða">
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes "mínútur">
-<!ENTITY alarm.units.hours "klukkustundir">
-<!ENTITY alarm.units.days "dagar">
-<!ENTITY reminder.title.label "Sérniðin áminning">
-<!ENTITY reminder.dialogtitle.label "Setja upp áminningar">
-<!ENTITY reminder.reminderDetails.label "Áminning upplýsingar">
-<!ENTITY reminder.action.label "Veldur áminningar aðgerð">
-<!ENTITY reminder.action.alert.label "Sýna glugga">
-<!ENTITY reminder.action.email.label "Senda póst">
-<!ENTITY reminder.new.label "Nýtt">
-<!ENTITY reminder.delete.label "Eyða">
-<!ENTITY reminder.relation.start.label "atburðinn">
-<!ENTITY reminder.relation.end.label "áminning endar þann">
-<!ENTITY reminder.add.label "Bæta við">
-<!ENTITY reminder.add.accesskey "A">
-<!ENTITY reminder.remove.label "Fjarlægja">
-<!ENTITY reminder.remove.accesskey "R">
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label "Bjóða þátttakendum">
 <!ENTITY event.organizer.label "Stjórnandi">
@@ -340,6 +321,8 @@
 <!ENTITY event.freebusy.minus "Fyrri klst">
 <!ENTITY event.freebusy.legend.free "Laust">
 <!ENTITY event.freebusy.legend.busy "Upptekið">
+<!ENTITY event.freebusy.legend.busy_tentative "Með fyrirvara">
+<!ENTITY event.freebusy.legend.busy_unavailable "Fjarverandi">
 <!ENTITY event.freebusy.legend.unknown "Engar upplýsingar">
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Settu inn tímabelti">

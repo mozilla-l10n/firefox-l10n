@@ -61,7 +61,7 @@
 <!ENTITY accountColumn.tooltip "Smelltu til að raða eftir reikningi">
 <!ENTITY statusColumn.tooltip "Smelltu til að raða eftir stöðu">
 <!ENTITY sizeColumn.tooltip "Smelltu til að raða eftir stærð">
-<!ENTITY junkStatusColumn.tooltip "Smelltu til að raða eftir ruslpóst stöðu">
+<!ENTITY junkStatusColumn.tooltip "Smelltu til að raða eftir ruslpóstsstöðu">
 <!ENTITY unreadColumn.tooltip "Fjöldi ólesinna pósta í umræðu">
 <!ENTITY totalColumn.tooltip "Heildarfjöldi pósta í umræðu">
 <!ENTITY readColumn.tooltip "Smelltu til að raða eftir lesið">

@@ -22,7 +22,7 @@
 <!ENTITY restoreHTMLDefaults.accesskey "R">
 <!ENTITY spellCheck.label "Athuga stafsetningu áður en póstur er sendur">
 <!ENTITY spellCheck.accesskey "A">
-<!ENTITY spellCheckInline.label "Virkja stafsetningar leiðréttingu á innsleginn texta">
+<!ENTITY spellCheckInline.label "Virkja leiðréttingu á stafsetningu fyrir innsleginn texta">
 <!ENTITY spellCheckInline1.accesskey "k">
 <!ENTITY languagePopup.label "Tungumál:">
 <!ENTITY languagePopup.accessKey "g">
@@ -31,7 +31,7 @@
 <!ENTITY warnOnSendAccelKey.accesskey "i">
 <!ENTITY autoSave.label "Vista sjálfkrafa á">
 <!ENTITY autoSave.accesskey "V">
-<!ENTITY autoSaveEnd.label "mínútur">
+<!ENTITY autoSaveEnd.label "mínútna fresti">
 <!ENTITY emailCollectionPicker.label "Bæta sjálfvirkt útsendum póst í:">
 <!ENTITY emailCollectionPicker.accesskey "t">
 <!ENTITY addressingTitle.label "Sjálfvirk útfylling fyrir póstfang">

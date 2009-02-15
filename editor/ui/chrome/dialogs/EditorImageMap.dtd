@@ -77,8 +77,8 @@
 <!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
-<!ENTITY zoominCmd.label "Þysja inn">
-<!ENTITY zoomoutCmd.label "Þysja út">
+<!ENTITY zoominCmd.label "Þysja að">
+<!ENTITY zoomoutCmd.label "Þysja frá">
 <!-- Keys -->
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">

@@ -110,9 +110,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Athuga stafsetningu í innslætti">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd.label "Yfirfara stafsetningu">
-<!ENTITY checkSpellingCmd.accesskey "Y">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Yfirfara stafsetningu">
+<!ENTITY checkSpellingCmd2.accesskey "Y">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Staðfesta HTML">
 <!ENTITY validateCmd.accesskey "S">
 <!-- Insert menu items -->

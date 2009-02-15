@@ -55,8 +55,6 @@
 <!ENTITY reload.accesskey "E">
 <!ENTITY ftp.label "FTP staðgengill:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher staðgengill:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "HTTP staðgengill:">
 <!ENTITY http.accesskey "s">
 <!ENTITY ssl.label "SSL staðgengill:">
@@ -71,8 +69,6 @@
 <!ENTITY HTTPport.accesskey "G">
 <!ENTITY SSLport.accesskey "">
 <!ENTITY FTPport.accesskey "">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "Engir staðgenglar fyrir:">
 <!ENTITY noproxy.accesskey "n">

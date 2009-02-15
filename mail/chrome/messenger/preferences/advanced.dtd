@@ -5,12 +5,12 @@
 <!ENTITY itemCertificates.label "Skilríki">
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label "Virkja póstatriðaskrá">
-<!ENTITY enableGloda.accesskey "p">
+<!ENTITY enableGlodaSearch.label "Virkja víðtæka leit og atriðaskrá">
+<!ENTITY enableGlodaSearch.accesskey "i">
 <!ENTITY systemDefaults.label "Sjálfgefnar kerfistillingar">
 <!ENTITY alwaysCheckDefault.label "Alltaf athuga hvort &brandShortName; sé sjálfgefið póstforrit í ræsingu">
 <!ENTITY alwaysCheckDefault.accesskey "l">
-<!ENTITY checkNow.label "Check Now">
+<!ENTITY checkNow.label "Kanna núna…">
 <!ENTITY checkNow.accesskey "N">
 <!ENTITY configEditDesc.label "Ítarlegar stillingar">
 <!ENTITY configEdit.label "Stillinga ritill…">
@@ -44,7 +44,6 @@
 <!ENTITY enableAppUpdate.accesskey "T">
 <!ENTITY enableAddonsUpdate.label "Uppsettar viðbætur">
 <!ENTITY enableAddonsUpdate.accesskey "U">
-<!ENTITY checkNow.label "Kanna núna…">
 <!ENTITY whenUpdatesFound.label "Þegar uppfærslur fyrir &brandShortName; finnast,">
 <!ENTITY modeAskMe.label "Spyrja hvað á að gera">
 <!ENTITY modeAskMe.accesskey "S">

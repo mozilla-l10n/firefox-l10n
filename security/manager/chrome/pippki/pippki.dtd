@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title "Breyta aðal lykilorði">
+<!ENTITY setPassword.title "Breyta aðallykilorði">
 <!ENTITY setPassword.tokenName.label "Öryggistæki">
 <!ENTITY setPassword.oldPassword.label "Núverandi lykilorð:">
 <!ENTITY setPassword.newPassword.label "Nýtt lykilorð:">
@@ -45,10 +45,10 @@
 <!ENTITY setPassword.meter.loading "Hleður">
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Endursetja">
-<!ENTITY resetPassword.title "Endurstilla aðal lykilorð">
-<!ENTITY resetPassword.text "Ef þú endurstillir aðal lykilorðið, þá muntu missa öll geymd vef og póst lykilorð, öll form gögn, öll skilríki og alla einkalykla. Ertu viss um að þú viljir endurstilla aðal lykilorðið?">
+<!ENTITY resetPassword.title "Endurstilla aðallykilorð">
+<!ENTITY resetPassword.text "Ef þú endurstillir aðallykilorðið, þá muntu missa öll geymd vef- og póstlykilorð, öll form gögn, öll skilríki og alla einkalykla. Ertu viss um að þú viljir endurstilla aðallykilorðið?">
 <!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title "Sláðu inn aðal lykilorð">
+<!ENTITY getPassword.title "Sláðu inn aðallykilorð">
 <!ENTITY getPassword.tokenName2.label "Öryggistæki:">
 <!ENTITY getPassword.password.label "Lykilorð:">
 <!-- These should be common -->
@@ -108,7 +108,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Beiðni um undirskrift á texta">
 <!ENTITY formSigning.cert "Undirskrift skilríkis">
-<!ENTITY formSigning.confirmPassword "Til að staðfesta með þínu skilríki að þú samþykkir þennan texta, staðfestu með því að slá inn aðal lykilorð:">
+<!ENTITY formSigning.confirmPassword "Til að staðfesta með þínu skilríki að þú samþykkir þennan texta, staðfestu með því að slá inn aðallykilorð:">
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Varin tóka sannvottun">
 <!ENTITY protectedAuth.msg "Vinsamlega auðkenndu þig með tóka. Hvernig auðkennt er fer eftir tegund tóka.">

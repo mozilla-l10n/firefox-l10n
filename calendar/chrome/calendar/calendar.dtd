@@ -76,7 +76,7 @@
 <!ENTITY calendar.unifinder.tree.location.label "Staðsetning">
 <!ENTITY calendar.unifinder.tree.status.label "Staða">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Nafn dagatals">
-<!ENTITY calendar.unifinder.tree.duration.label "Vera lokið fyrir">
+<!ENTITY calendar.unifinder.tree.duration.label "Lokið fyrir">
 <!ENTITY calendar.unifinder.close.tooltip "Loka atburðaleit og atburðalista">
 <!ENTITY calendar.today.button.tooltip "Hoppa á daginn í dag">
 <!ENTITY calendar.todaypane.button.tooltip "Sýn dagsins í dag">

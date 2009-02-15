@@ -15,9 +15,9 @@
 <!ENTITY rememberDaysBefore.label "Geyma feril í að minnsta kosti">
 <!ENTITY rememberDaysBefore.accesskey "f">
 <!ENTITY rememberDaysAfter2.label "daga">
-<!ENTITY rememberForms.label "Muna hvað ég hef slegið inn í eyðublað og á leitarstiku">
+<!ENTITY rememberForms.label "Muna það sem er slegið inn í vefsíður og leitarstiku">
 <!ENTITY rememberForms.accesskey "f">
-<!ENTITY rememberDownloads.label "Muna hvað ég hef niðurhalað">
+<!ENTITY rememberDownloads.label "Muna hvað hefur verið niðurhalað">
 <!ENTITY rememberDownloads.accesskey "u">
 <!ENTITY cookies.label "Smákökur">
 <!ENTITY acceptCookies.label "Taka á móti smákökum frá þessum vefsvæðum">
@@ -34,7 +34,7 @@
 <!ENTITY showCookies.label "Sýna smákökur…">
 <!ENTITY showCookies.accesskey "S">
 <!ENTITY privateData.label "Persónuleg gögn">
-<!ENTITY alwaysClear.label "Í hvert skipti sem ég loka &brandShortName; hreinsa persónuleg gögn">
+<!ENTITY alwaysClear.label "Hreinsa persónuleg gögn þegar hætt er í &brandShortName;">
 <!ENTITY alwaysClear.accesskey "g">
 <!ENTITY clearDataSettings.label "Stillingar…">
 <!ENTITY clearDataSettings.accesskey "t">
