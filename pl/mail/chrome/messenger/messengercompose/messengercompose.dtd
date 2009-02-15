@@ -161,7 +161,6 @@
 <!ENTITY messengerCmd.commandkey         "1">
 <!ENTITY addressBookCmd.label            "Książka adresowa">
 <!ENTITY addressBookCmd.accesskey        "a">
-<!ENTITY addressBookCmd.commandkey       "2">
 <!ENTITY accountManagerCmd.label         "Konfiguracja kont…">
 <!ENTITY accountManagerCmd.accesskey     "g">
 <!ENTITY accountManagerCmdUnix.accesskey "g">
