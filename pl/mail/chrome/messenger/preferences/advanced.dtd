@@ -5,8 +5,8 @@
 <!ENTITY itemCertificates.label "Certyfikaty">
 
 <!-- General Settings -->
-<!ENTITY enableGloda.label            "Indeksowanie wiadomości">
-<!ENTITY enableGloda.accesskey        "n">
+<!ENTITY enableGlodaSearch.label      "Indeksowanie wiadomości i wyszukiwanie">
+<!ENTITY enableGlodaSearch.accesskey  "n">
 <!ENTITY systemDefaults.label         "Ustawienia systemowe">
 <!ENTITY alwaysCheckDefault.label     "Przy uruchamianiu sprawdzaj, czy &brandShortName; jest domyślnym programem pocztowym">
 <!ENTITY alwaysCheckDefault.accesskey "P">
@@ -28,7 +28,7 @@
 <!ENTITY autoMarkAsRead.accesskey         "A">
 <!ENTITY markAsReadNoDelay.label          "natychmiast po wyświetleniu">
 <!ENTITY markAsReadNoDelay.accesskey      "n">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to 
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds" -->
 <!ENTITY markAsReadDelay.label            "po wyświetlaniu przez">
 <!ENTITY markAsReadDelay.accesskey        "w">

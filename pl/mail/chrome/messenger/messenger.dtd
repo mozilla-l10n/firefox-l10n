@@ -453,6 +453,7 @@
 <!ENTITY junkButton.label       "Niechciana">
 <!ENTITY notJunkButton.label    "Pożądana">
 <!ENTITY addressBookButton.label         "Adresy">
+<!ENTITY glodaSearch.title               "Wyszukiwanie"><!-- FIXME: <!ENTITY glodaSearch.title "Global Search"> -->
 <!ENTITY searchItem.title                "Szybkie wyszukiwanie">
 <!ENTITY mailViewsToolbarItem.title      "Widoki poczty">
 <!ENTITY folderLocationToolbarItem.title "Położenie folderu">
@@ -535,6 +536,21 @@
 <!ENTITY SearchNameOrEmail.label     "Imię, nazwisko lub e-mail zawiera:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
 
+<!-- Gloda Search Bar --><!-- FIXME: bad, bad UI -->
+<!ENTITY glodaSearchBar.emptyText               "Szukaj wiadomości…">
+<!ENTITY glodaSearchBar.facet.label             "Wyszukuj w:">
+<!ENTITY glodaSearchFacet.everything.label      "Wszystkim">
+<!ENTITY glodaSearchFacet.subject.label         "Tematach">
+<!ENTITY glodaSearchFacet.involves.label        "Adresatach (pola Od,Do,Kopia,Ukryta kopia)">
+<!ENTITY glodaSearchFacet.to.label              "Polach Do i Kopia">
+<!ENTITY glodaSearchFacet.from.label            "Polu Od">
+<!ENTITY glodaSearchFacet.body.label            "Tekście wiadomości">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Nazwach załączników">
+
+<!ENTITY glodaSearchBar.location.label          "Położeniu:">
+<!ENTITY glodaSearchFacet.everywhere.label      "Wszystkie foldery">
+<!ENTITY glodaSearchFacet.folder.label          "W wybranym folderze…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label     "Temat">
 <!-- FIXME(searchFromMenu, searchSubjectOrFromMenu): en-US: "From", "Subject or From"
@@ -548,7 +564,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label      "Zapisz ustawienia wyszukiwania jako folder…">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Wątek">
+<!ENTITY threadColumn.label     "Wątek">
 <!-- FIXME(fromColumn): en-US: "From"
      From!=Sender, ale nie ma jak tego poprawic w pl [marcoos]
      zob. https://bugzilla.mozilla.org/show_bug.cgi?id=338753 -->
@@ -570,6 +586,7 @@
 <!ENTITY locationColumn.label   "Położenie">
 <!ENTITY idColumn.label         "Kolejność otrzymania">
 <!ENTITY attachmentColumn.label "Załączniki">
+<!ENTITY glodaWhyColumn.label   "Powód"><!-- FIXME ENTITY glodaWhyColumn.label "Why" -->
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip    "Zaznacz, które kolumny zostaną wyświetlone">
@@ -595,6 +612,7 @@
 <!ENTITY locationColumn.tooltip   "Kliknij, aby posortować według adresu">
 <!ENTITY idColumn.tooltip         "Kliknij, aby posortować według kolejności otrzymania">
 <!ENTITY attachmentColumn.tooltip "Kliknij, aby posortować według załącznika">
+<!ENTITY glodaWhyColumn.tooltip   "Kliknij, aby posortować według powodu wyszukania"><!-- FIXME glodaWhyColumn.label -->
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label      "Otwórz wiadomość w nowym oknie">
