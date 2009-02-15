@@ -23,7 +23,7 @@
 <!ENTITY view.sortDescending.accesskey "Z">
 
 <!ENTITY view.groupNone.label "aucun">
-<!ENTITY view.groupNone.accesskey "P">
+<!ENTITY view.groupNone.accesskey "u">
 <!ENTITY view.groupDay.label "par date">
 <!ENTITY view.groupDay.accesskey "d">
 <!ENTITY view.groupSite.label "par site">
