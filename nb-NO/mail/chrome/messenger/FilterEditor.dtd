@@ -28,7 +28,7 @@
 <!ENTITY markMessageRead.label "Marker som lest">
 <!ENTITY markMessageStarred.label "Merk med stjerne">
 <!ENTITY setPriority.label "Sett prioritet til">
-<!ENTITY addTag.label "Merk melding">
+<!ENTITY addTag.label "Tilordne etikett">
 <!ENTITY setJunkScore.label "Sett uønsket-status til">
 <!ENTITY deleteMessage.label "Slett melding">
 <!ENTITY deleteFromPOP.label "Slett fra POP-tjeneren">
