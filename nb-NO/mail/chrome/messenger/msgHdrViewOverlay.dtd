@@ -77,11 +77,11 @@
 <!ENTITY openAttachmentCmd.accesskey    "Å">
 <!ENTITY saveAsAttachmentCmd.label    "Lagre som …">
 <!ENTITY saveAsAttachmentCmd.accesskey    "s">
-<!ENTITY detachAttachmentCmd.label    "Splitt …">
+<!ENTITY detachAttachmentCmd.label    "Fraskill …">
 <!ENTITY deleteAttachmentCmd.label    "Slett">
 <!ENTITY saveAllAttachmentsCmd.label    "Lagre alle …">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "L">
-<!ENTITY detachAllAttachmentsCmd.label    "Splitt alle …">
+<!ENTITY detachAllAttachmentsCmd.label    "Fraskill alle …">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">
 <!ENTITY deleteAllAttachmentsCmd.label    "Slett alle …">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
