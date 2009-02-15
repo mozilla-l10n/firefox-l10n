@@ -63,6 +63,7 @@
 <!ENTITY editMessageButton.label      "edytuj…">
 <!ENTITY archiveButton.label          "archiwizuj"><!-- FIXME: wielokropki, bmo 451995 -->
 <!ENTITY hdrReplyButton.label         "odpowiedz">
+<!ENTITY hdrReplyAllButton.label      "odpowiedz wszystkim">
 <!ENTITY hdrForwardButton.label       "przekaż">
 <!ENTITY hdrJunkButton.label          "niechciana"><!-- FIXME -->
 <!ENTITY trashButton.tooltiptext      "Usuń">
