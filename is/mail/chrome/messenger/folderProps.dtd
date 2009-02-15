@@ -54,7 +54,9 @@
 <!ENTITY retentionUseDefault.accesskey "N">
 <!ENTITY daysOld.label "daga gömlum">
 <!ENTITY message.label "póstum">
-<!ENTITY retentionCleanup.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti">
+<!ENTITY retentionCleanup.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti.">
+<!ENTITY retentionCleanupImap.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti, bæði staðbundnu afriti og upprunalegum pósti á netþjóninum.">
+<!ENTITY retentionCleanupPop.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti, og með því upprunalegum pósti á netþjóninum.">
 <!ENTITY retentionDeleteMsg.label "Eyða póstum eldri en">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ekki eyða neinum póstum">
@@ -63,6 +65,8 @@
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Alltaf eyða lesnum póstum">
 <!ENTITY retentionKeepUnread.accesskey "f">
+<!ENTITY retentionApplyToFlagged.label "Alltaf geyma stjörnumerktan póst">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY folderOfflineTab.label "Ótengdur">
 <!ENTITY folderCheckForNewMessages.label "Athuga hvort nýr póstur sé í þessari möppu">
 <!ENTITY folderCheckForNewMessages.accesskey "A">

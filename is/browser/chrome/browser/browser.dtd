@@ -23,7 +23,7 @@
 <!ENTITY printSetupCmd.label "Síðustillingar…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Forskoðun">
-<!ENTITY printPreviewCmd.accesskey "o">
+<!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
@@ -37,7 +37,7 @@
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Hlutir í bókamerkjaslá">
 <!ENTITY taskbarCmd.label "Stöðurein">
-<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY taskbarCmd.accesskey "ö">
 <!ENTITY pageSourceCmd.label "Frumkóði síðu">
 <!ENTITY pageSourceCmd.accesskey "k">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -45,7 +45,7 @@
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Fylla skjá">
-<!ENTITY fullScreenCmd.accesskey "k">
+<!ENTITY fullScreenCmd.accesskey "y">
 <!ENTITY fullScreenMinimize.tooltip "Minnka">
 <!ENTITY fullScreenRestore.tooltip "Endurheimta">
 <!ENTITY fullScreenClose.tooltip "Loka">
@@ -252,7 +252,7 @@
 <!ENTITY viewFrameSourceCmd.label "Frumkóði ramma">
 <!ENTITY viewFrameSourceCmd.accesskey "F">
 <!ENTITY viewPageInfoCmd.label "Síðuupplýsingar">
-<!ENTITY viewPageInfoCmd.accesskey "S">
+<!ENTITY viewPageInfoCmd.accesskey "u">
 <!ENTITY viewFrameInfoCmd.label "Rammaupplýsingar">
 <!ENTITY viewFrameInfoCmd.accesskey "R">
 <!ENTITY reloadImageCmd.label "Endurlesa mynd">
@@ -276,7 +276,7 @@
 <!ENTITY savePageCmd.label "Vista síðu sem…">
 <!ENTITY savePageCmd.accesskey "V">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2 "s">
+<!ENTITY savePageCmd.accesskey2 "V">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameCmd.label "Vista ramma sem…">
 <!ENTITY saveFrameCmd.accesskey "r">
@@ -338,14 +338,14 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label "Þysja inn">
-<!ENTITY fullZoomEnlargeCmd.accesskey "I">
+<!ENTITY fullZoomEnlargeCmd.label "Þysja að">
+<!ENTITY fullZoomEnlargeCmd.accesskey "a">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
  <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Þysja út">
-<!ENTITY fullZoomReduceCmd.accesskey "t">
+<!ENTITY fullZoomReduceCmd.label "Þysja frá">
+<!ENTITY fullZoomReduceCmd.accesskey "f">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.label "Endursetja">
@@ -425,7 +425,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "sem er keyrt af">
+<!ENTITY identity.runBy "sem er í eigu">
 <!ENTITY identity.moreInfoLinkText "Nánari upplýsingar…">
 <!ENTITY downloadMonitor2.tooltip "Smelltu til að opna niðurhalsglugga">
 <!ENTITY ctrlTab.search.emptyText "Leita í flipum">

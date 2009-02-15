@@ -120,10 +120,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Valkostir">
 <!ENTITY optionsMenu.accesskey "V">
-<!ENTITY checkSpellingCmd.label "Yfirfara stafsetningu…">
-<!ENTITY checkSpellingCmd.key "Y">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "Y">
+<!ENTITY checkSpellingCmd2.label "Yfirfara stafsetningu…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "Y">
 <!ENTITY enableInlineSpellChecker.label "Athuga stafsetningu í innslætti">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Vitna í póst">

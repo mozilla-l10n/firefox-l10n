@@ -11,7 +11,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Póstar fleiri en">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti">
+<!ENTITY retentionCleanup.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti.">
+<!ENTITY retentionCleanupImap.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti, bæði staðbundnu afriti og upprunalegum pósti á netþjóninum.">
+<!ENTITY retentionCleanupPop.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti, og með því upprunalegum pósti á netþjóninum.">
 <!ENTITY retentionKeepMsg.label "Eyða póstum eldri en">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ekki eyða neinum póstum">
@@ -20,6 +22,8 @@
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Alltaf eyða lesnum póstum">
 <!ENTITY retentionKeepUnread.accesskey "l">
+<!ENTITY retentionApplyToFlagged.label "Alltaf geyma stjörnumerktan póst">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Aðeins meginmál pósts sem er minni en">
 <!ENTITY nntpRemoveBody.accesskey "A">
 <!ENTITY offlineSelectNntp.label "Veldu fréttahópa fyrir ótengda notkun…">

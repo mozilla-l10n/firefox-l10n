@@ -51,7 +51,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "V">
 <!ENTITY synchronizeOfflineCmd.label "Niðurhala/Samstilla núna…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Stillingar fyrir ótengdur…">
+<!ENTITY settingsOfflineCmd.label 'Stillingar fyrir "ótengdur"…'>
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Ná í valda pósta">
 <!ENTITY downloadSelectedCmd.accesskey "l">
@@ -65,7 +65,7 @@
 <!ENTITY printSetupCmd.label "Síðustillingar…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
-<!ENTITY deleteMsgCmd.label "Eyða bréfi">
+<!ENTITY deleteMsgCmd.label "Eyða pósti">
 <!ENTITY deleteMsgCmd.accesskey "y">
 <!ENTITY undeleteMsgCmd.label "Endurheimta póst">
 <!ENTITY undeleteMsgCmd.accesskey "d">
@@ -139,31 +139,31 @@
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Raða eftir">
 <!ENTITY sortMenu.accesskey "R">
-<!ENTITY sortByDateCmd.label "Dagsetning">
+<!ENTITY sortByDateCmd.label "Dagsetningu">
 <!ENTITY sortByDateCmd.accesskey "e">
 <!ENTITY sortByReceivedCmd.label "Móttekið">
 <!ENTITY sortByReceivedCmd.accesskey "M">
-<!ENTITY sortByStarCmd.label "Stjarna">
+<!ENTITY sortByStarCmd.label "Stjörnumerkt">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Viðhengi">
 <!ENTITY sortByAttachmentsCmd.accesskey "V">
-<!ENTITY sortByPriorityCmd.label "Forgangur">
+<!ENTITY sortByPriorityCmd.label "Forgangi">
 <!ENTITY sortByPriorityCmd.accesskey "F">
 <!ENTITY sortBySizeCmd.label "Stærð">
 <!ENTITY sortBySizeCmd.accesskey "S">
-<!ENTITY sortByStatusCmd.label "Staða">
+<!ENTITY sortByStatusCmd.label "Stöðu">
 <!ENTITY sortByStatusCmd.accesskey "ð">
-<!ENTITY sortByTagsCmd.label "Flokkar">
+<!ENTITY sortByTagsCmd.label "Flokkum">
 <!ENTITY sortByTagsCmd.accesskey "F">
-<!ENTITY sortByJunkStatusCmd.label "Rusl staða">
+<!ENTITY sortByJunkStatusCmd.label "Ruslpóststöðu">
 <!ENTITY sortByJunkStatusCmd.accesskey "R">
 <!ENTITY sortBySubjectCmd.label "Efni">
 <!ENTITY sortBySubjectCmd.accesskey "E">
 <!ENTITY sortByFromCmd.label "Frá">
 <!ENTITY sortByFromCmd.accesskey "F">
-<!ENTITY sortByRecipientCmd.label "Viðtakandi">
+<!ENTITY sortByRecipientCmd.label "Viðtakanda">
 <!ENTITY sortByRecipientCmd.accesskey "V">
-<!ENTITY sortByUnreadCmd.label "Lesa">
+<!ENTITY sortByUnreadCmd.label "Lesið">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Í móttekinni röð">
 <!ENTITY sortByOrderReceivedCmd.accesskey "m">
@@ -181,7 +181,7 @@
 <!ENTITY msgsMenu.accesskey "P">
 <!ENTITY threads.label "Umræður">
 <!ENTITY threads.accesskey "U">
-<!ENTITY allMsgsCmd.label "Allir">
+<!ENTITY allMsgsCmd.label "Allar">
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Opna allar umræður">
 <!ENTITY expandAllThreadsCmd.accesskey "O">
@@ -189,14 +189,14 @@
 <!ENTITY collapseAllThreadsCmd.label "Fella saman allar umræður">
 <!ENTITY collapseAllThreadsCmd.accesskey "F">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Ólesið">
+<!ENTITY unreadMsgsCmd.label "Ólesnar">
 <!ENTITY unreadMsgsCmd.accesskey "l">
 <!ENTITY threadsWithUnreadCmd.label "Ólesnar umræður">
 <!ENTITY threadsWithUnreadCmd.accesskey "u">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Ólesnar umræður sem fylgst er með">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "f">
-<!ENTITY ignoredThreadsCmd.label "Hunsaðir umræður">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY ignoredThreadsCmd.label "Hunsaðar umræður">
+<!ENTITY ignoredThreadsCmd.accesskey "H">
 <!ENTITY headersMenu.label "Hausar">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "Allir">
@@ -204,7 +204,7 @@
 <!ENTITY headersNormalCmd.label "Venjulegt">
 <!ENTITY headersNormalCmd.accesskey "V">
 <!ENTITY bodyMenu.label "Meginmál sem">
-<!ENTITY bodyMenu.accesskey "M">
+<!ENTITY bodyMenu.accesskey "g">
 <!ENTITY bodyAllowHTML.label "Upprunalegt HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Einfalt HTML">
@@ -219,13 +219,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label "Þysja inn">
-<!ENTITY fullZoomEnlargeCmd.accesskey "I">
+<!ENTITY fullZoomEnlargeCmd.label "Þysja að">
+<!ENTITY fullZoomEnlargeCmd.accesskey "a">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
  <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Þysja út">
+<!ENTITY fullZoomReduceCmd.label "Þysja frá">
 <!ENTITY fullZoomReduceCmd.accesskey "y">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
@@ -237,8 +237,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.accesskey "T">
 <!ENTITY fullZoom.label "Þysja">
 <!ENTITY fullZoom.accesskey "Þ">
-<!ENTITY pageSourceCmd.label "Uppruni boða">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.label "Uppruni pósts">
+<!ENTITY pageSourceCmd.accesskey "p">
 <!ENTITY pageSourceCmd.key "u">
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Leita">
@@ -260,17 +260,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Fara">
 <!ENTITY goMenu.accesskey "F">
-<!ENTITY nextMenu.label "Næsta">
+<!ENTITY nextMenu.label "Næsti">
 <!ENTITY nextMenu.accesskey "N">
 <!ENTITY nextMsgCmd.label "Póstur">
 <!ENTITY nextMsgCmd.accesskey "P">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Ólesið skeyti">
+<!ENTITY nextUnreadMsgCmd.label "Ólesinn póstur">
 <!ENTITY nextUnreadMsgCmd.accesskey "l">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Stjörnumerktur póstur">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
-<!ENTITY nextUnreadThread.label "Aflesa umræðu">
+<!ENTITY nextUnreadThread.label "Ólesna umræða">
 <!ENTITY nextUnreadThread.accesskey "A">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Fyrri">
@@ -278,7 +278,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevMsgCmd.label "Póstur">
 <!ENTITY prevMsgCmd.accesskey "P">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Ólesið skeyti">
+<!ENTITY prevUnreadMsgCmd.label "Ólesinn póstur">
 <!ENTITY prevUnreadMsgCmd.accesskey "l">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Áframsenda">
@@ -297,10 +297,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Póstur">
 <!ENTITY newNewMsgCmd.accesskey "P">
+<!ENTITY archiveMsgCmd.label "Skjalasafn">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Svara">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key "r">
-<!ENTITY replySenderCmd.label "Svara aðeins sendanda">
+<!ENTITY replySenderCmd.label "Svara sendanda">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd.label "Svara á fréttahóp">
 <!ENTITY replyNewsgroupCmd.accesskey "v">
@@ -310,13 +313,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardMsgCmd.label "Áfram">
 <!ENTITY forwardMsgCmd.accesskey "r">
 <!ENTITY forwardMsgCmd.key "l">
-<!ENTITY forwardAsMenu.label "Framsenda sem">
+<!ENTITY forwardAsMenu.label "Áframsenda sem">
 <!ENTITY forwardAsMenu.accesskey "m">
 <!ENTITY forwardAsInline.label "Innfellt">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Viðhengi">
 <!ENTITY forwardAsAttachmentCmd.accesskey "V">
-<!ENTITY editMsgAsNewCmd.label "Breyta póst sem nýjum">
+<!ENTITY editMsgAsNewCmd.label "Breyta pósti sem nýjum">
 <!ENTITY editMsgAsNewCmd.accesskey "B">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Búa til síu út frá pósti…">
@@ -368,7 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markReadByDateCmd.label "Sem lesið eftir dagsetningu…">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "Alla lesna">
+<!ENTITY markAllReadCmd.label "Alla sem lesna">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Stjörnumerkja">
@@ -380,7 +383,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsNotJunkCmd.label "Ekki sem ruslpóst">
 <!ENTITY markAsNotJunkCmd.accesskey "E">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Keyra ruslpósts aðgerðir">
+<!ENTITY recalculateJunkScoreCmd.label "Keyra ruslpóstsaðgerðir">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
 <!ENTITY openMessageWindowCmd.label "Opna póst">
 <!ENTITY openMessageWindowCmd.accesskey "O">
@@ -392,13 +395,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "V">
 <!ENTITY addons.label "Viðbætur">
 <!ENTITY addons.accesskey "b">
+<!ENTITY activitymanager.label "Yfirlit aðgerða">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Póstur &amp; Fréttahópar">
 <!ENTITY messengerCmd.accesskey "P">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Nafnaskrá">
 <!ENTITY addressBookCmd.accesskey "N">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY runJunkControls.label "Keyra ruslpóst aðgerðir á möppu">
+<!ENTITY runJunkControls.label "Keyra ruslpóstsaðgerðir á möppu">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Eyða öllum merktum ruslpósti í möppu">
 <!ENTITY deleteJunk.accesskey "l">
@@ -411,7 +414,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.label "Keyra síur á valda pósta">
 <!ENTITY filtersApplyToSelection.accesskey "S">
 <!ENTITY filtersApplyToMessage.label "Keyra síur á póst">
-<!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY filtersApplyToMessage.accesskey "e">
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Ná í póst">
 <!ENTITY newMsgButton.label "Skrifa">
@@ -432,6 +435,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Ruslpóstur">
 <!ENTITY notJunkButton.label "Ekki ruslpóstur">
 <!ENTITY addressBookButton.label "Nafnaskrá">
+<!ENTITY glodaSearch.title "Víðtæk leit">
 <!ENTITY searchItem.title "Flýtileit">
 <!ENTITY mailViewsToolbarItem.title "Póstsýn">
 <!ENTITY folderLocationToolbarItem.title "Möppustaðsetning">
@@ -508,6 +512,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Nafn eða tölvupóstfang inniheldur:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Leita í póstum…">
+<!ENTITY glodaSearchBar.facet.label "Leita:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Allt">
+<!ENTITY glodaSearchFacet.subject.label "Efni">
+<!ENTITY glodaSearchFacet.involves.label "Þátttakandi (frá,til,afrit,falið afrit)">
+<!ENTITY glodaSearchFacet.to.label "Til, Afrit">
+<!ENTITY glodaSearchFacet.from.label "Frá">
+<!ENTITY glodaSearchFacet.body.label "Texti meginmáls">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Nöfn viðhengja">
+<!ENTITY glodaSearchBar.location.label "Staðsetning:">
+<!ENTITY glodaSearchFacet.everywhere.label "Allar möppur">
+<!ENTITY glodaSearchFacet.folder.label "Í tilgreindri möppu…">
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Efni">
 <!ENTITY searchFromMenu.label "Frá">
@@ -536,6 +563,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Staðsetning">
 <!ENTITY idColumn.label "Í móttekinni röð">
 <!ENTITY attachmentColumn.label "Viðhengi">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Hvers vegna">
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Smelltu til að velja hvaða dálka á að sýna">
 <!ENTITY threadColumn.tooltip "Smelltu til að sýna umræður">
@@ -548,7 +579,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.tooltip "Smelltu til að raða eftir reikningi">
 <!ENTITY statusColumn.tooltip "Smelltu til að raða eftir stöðu">
 <!ENTITY sizeColumn.tooltip "Smelltu til að raða eftir stærð">
-<!ENTITY junkStatusColumn.tooltip "Smelltu til að raða eftir ruslpóst stöðu">
+<!ENTITY junkStatusColumn.tooltip "Smelltu til að raða eftir ruslpóstsstöðu">
 <!ENTITY unreadColumn.tooltip "Fjöldi ólesinna pósta í umræðu">
 <!ENTITY totalColumn.tooltip "Heildarfjöldi pósta í umræðu">
 <!ENTITY readColumn.tooltip "Smelltu til að raða eftir lesið">
@@ -557,12 +588,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Smelltu til að raða eftir staðsetningu">
 <!ENTITY idColumn.tooltip "Smelltu til að raða eftir hvenær móttekið">
 <!ENTITY attachmentColumn.tooltip "Smelltu til að raða eftir viðhengjum">
+<!ENTITY glodaWhyColumn.tooltip "Smelltu til að raða eftir því hvers vegna pósturinn er í leitarniðurstöðum">
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Opna póst í nýjum glugga">
 <!ENTITY contextOpenNewWindow.accesskey "O">
 <!ENTITY contextOpenNewTab.label "Opna póst í nýjum flipa">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextEditAsNew.label "Breyta sem nýjum…">
+<!ENTITY contextEditAsNew.label "Breyta pósti sem nýjum…">
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "Svara aðeins sendanda">
 <!ENTITY contextReplySender.accesskey "S">

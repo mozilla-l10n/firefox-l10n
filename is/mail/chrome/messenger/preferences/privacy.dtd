@@ -1,9 +1,9 @@
 <!ENTITY itemJunk.label "Ruslpóstur">
-<!ENTITY itemPhishing.label "Tölvupóstsvindl">
+<!ENTITY itemPhishing.label "Tölvupóstssvindl">
 <!ENTITY itemPasswords.label "Lykilorð">
 <!ENTITY itemAntiVirus.label "Vírusvörn">
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Stilla sjálfgefnar ruslpóst stillingar. Stillingar fyrir ruslpóst fyrir ákveðin reikning er hægt að stilla í stillingum reiknings.">
+<!ENTITY junkMail.intro "Stilla sjálfgefnar ruslpóstsstillingar. Stillingar fyrir ruslpóst fyrir ákveðinn reikning er hægt að stilla í stillingum reiknings.">
 <!ENTITY manualMark.label "Þegar ég flokka póst sem ruslpóst:">
 <!ENTITY manualMark.accesskey "g">
 <!ENTITY manualMarkModeMove.label "Færa þá í &quot;Ruslpóstur&quot; möppuna">
@@ -12,7 +12,7 @@
 <!ENTITY manualMarkModeDelete.accesskey "E">
 <!ENTITY markAsReadOnSpam.label "Merkja staðfestan ruslpóst sem lesinn">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Virkja kladda fyrir ruslpóst síu">
+<!ENTITY enableJunkLogging.label "Virkja kladda fyrir ruslpóstssíu">
 <!ENTITY enableJunkLogging.accesskey "V">
 <!ENTITY openJunkLog.label "Sýna kladda">
 <!ENTITY openJunkLog.accesskey "S">
@@ -25,17 +25,15 @@
 <!ENTITY useDownloadedList.label "Nota niðurhalaðan lista af grunuðum falspósti">
 <!ENTITY useDownloadedList.accesskey "U">
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro "&brandShortName; getur munað öll þín lykilorð þannig að þú þurfir ekki alltaf að slá þau inn aftur og aftur.">
-<!ENTITY encryptEnabled.label "Nota eitt aðal lykilorð til að dulkóða önnur vistuð lykilorð">
-<!ENTITY encryptEnabled.accesskey "a">
-<!ENTITY masterPassword.intro "Þegar þetta er sett, mun aðal lykilorð vernda öll önnur lykilorð - en þú verður að slá það inn í hverri lotu.">
-<!ENTITY setMasterPassword.label "Aðal lykilorð">
-<!ENTITY setMasterPassword.accesskey "A">
-<!ENTITY removeMasterPassword.label "Fjarlægja aðal lykilorð…">
-<!ENTITY removeMasterPassword.accesskey "F">
-<!ENTITY editPasswords.label "Breyta vistuðum lykilorðum">
-<!ENTITY editPasswords.accesskey "B">
+<!ENTITY savedPasswords.intro "&brandShortName; getur munað öll þín lykilorð þannig að þú þurfir ekki að slá þau inn aftur.">
+<!ENTITY useMasterPassword.label "Nota aðallykilorð">
+<!ENTITY useMasterPassword.accesskey "A">
+<!ENTITY masterPassword.intro "Þegar þetta er vailið, mun aðallykilorð vernda öll önnur lykilorð en þú verður að slá það inn í hverri lotu.">
+<!ENTITY changeMasterPassword.label "Breyta aðallykilorði…">
+<!ENTITY changeMasterPassword.accesskey "B">
+<!ENTITY savedPasswords.label "Vistuð lykilorð…">
+<!ENTITY savedPasswords.accesskey "S">
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro "&brandShortName; gerir vírusvörnum auðvelt að athuga allann innkomin póst fyrir vírusum áður en pósturinn er geymdur.">
-<!ENTITY antiVirus.label "Leyfa vírusvörn að setja einstaka innkominn póstskeyti í sóttkví">
+<!ENTITY antiVirus.intro "&brandShortName; gerir vírusvörnum kleyft að athuga allan innkominn póst varðandi vírusa áður en pósturinn er geymdur.">
+<!ENTITY antiVirus.label "Leyfa vírusvörn að setja einstaka innkomna pósta í sóttkví">
 <!ENTITY antiVirus.accesskey "l">

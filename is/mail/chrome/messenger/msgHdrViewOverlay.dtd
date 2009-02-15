@@ -55,9 +55,11 @@
 <!ENTITY originalWebsite2.label "vefsvæði ">
 <!ENTITY editMessageDescription.label "Þetta eru tölvupóstsdrög">
 <!ENTITY editMessageButton.label "Breyta…">
-<!ENTITY replyButton.label "svara…">
-<!ENTITY forwardButton.label "áframsenda…">
-<!ENTITY junkButton.label "merkja sem ruslpóst">
+<!ENTITY archiveButton.label "skjalasafn">
+<!ENTITY hdrReplyButton.label "svara">
+<!ENTITY hdrReplyAllButton.label "svara öllum">
+<!ENTITY hdrForwardButton.label "áframsenda">
+<!ENTITY hdrJunkButton.label "ruslpóstur">
 <!ENTITY trashButton.tooltiptext "eyða">
 <!ENTITY otherActionsButton.label "aðrar aðgerðir">
 <!ENTITY saveAsMenuItem.label "vista sem…">

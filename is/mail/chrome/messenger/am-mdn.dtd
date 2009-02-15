@@ -1,5 +1,5 @@
 <!ENTITY pane.title "Staðfesting á lestri">
-<!ENTITY useGlobalPrefs.label "Nota víðværa stillingu á staðfestingu á lestri fyrir þennan reikning">
+<!ENTITY useGlobalPrefs.label "Nota aðalstillingu á staðfestingu á lestri fyrir þennan reikning">
 <!ENTITY useGlobalPrefs.accesskey "U">
 <!ENTITY useCustomPrefs.label "Sérsniða staðfestingar á lestri fyrir þennan reikning">
 <!ENTITY useCustomPrefs.accesskey "S">

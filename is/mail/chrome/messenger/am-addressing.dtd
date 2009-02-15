@@ -4,7 +4,7 @@
 <!ENTITY addressingGroupTitle.label "Póstföng">
 <!ENTITY addressingText.label "Þegar póstföngum er flett upp:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label "Nota þær stillingar sem eru fyrir víðværan LDAP þjón fyrir þennan reikning">
+<!ENTITY useGlobal.label "Nota stillingar sem eru fyrir LDAP þjón fyrir þennan reikning">
 <!ENTITY useGlobal.accesskey "U">
 <!ENTITY editDirectories.label "Breyta netfangaþjónum…">
 <!ENTITY editDirectories.accesskey "E">
@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label "Búa til póst á HTML sniði">
 <!ENTITY useHtml.accesskey "B">
-<!ENTITY autoQuote.label "Setja inn sjálfvirkt tilvitnun í upprunalegan póst þegar ég svara">
+<!ENTITY autoQuote.label "Setja sjálfvirkt inn tilvitnun í upprunalegan póst þegar svarað er">
 <!ENTITY autoQuote.accesskey "S">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label "Og svo,">

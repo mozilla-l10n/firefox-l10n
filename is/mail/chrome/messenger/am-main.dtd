@@ -4,12 +4,12 @@
 <!ENTITY accountName.label "Heiti reiknings:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Sjálfgefið auðkenni">
-<!ENTITY identityDesc.label "Hver reikningur er með auðkenni, sem eru þær upplýsingar sem aðrir sjá þegar það les póstinn frá þér.">
+<!ENTITY identityDesc.label "Hver reikningur er með auðkenni, sem eru þær upplýsingar sem aðrir sjá þegar þeir lesa póstinn frá þér.">
 <!ENTITY name.label "Nafnið þitt:">
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "Tölvupóstfang:">
 <!ENTITY email.accesskey "T">
-<!ENTITY replyTo.label "Svar tölvupóstfang:">
+<!ENTITY replyTo.label "Svar-tölvupóstfang:">
 <!ENTITY replyTo.accesskey "S">
 <!ENTITY organization.label "Fyrirtæki:">
 <!ENTITY organization.accesskey "F">

@@ -7,7 +7,7 @@
 <!ENTITY chooseFolderWin.accesskey "F">
 <!ENTITY chooseFolderMac.label "Velja…">
 <!ENTITY chooseFolderMac.accesskey "V">
-<!ENTITY fileTypes.label "Niðurhals aðgerðir">
+<!ENTITY fileTypes.label "Niðurhalsaðgerðir">
 <!ENTITY configureActions.label "Skoða &amp; Breyta aðgerðum…">
 <!ENTITY configureActions.accesskey "S">
 <!ENTITY fileTypesDescription.label "&brandShortName; getur vistað eða opnað sjálfvirkt viðhengi af ákveðnum tegundum.">

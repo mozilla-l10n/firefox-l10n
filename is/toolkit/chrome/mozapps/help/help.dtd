@@ -40,7 +40,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey "k">
 <!ENTITY zLevel.label "Alltaf efst">
 <!ENTITY zLevel.accesskey "T">
-<!ENTITY fullZoomReduceBtn.label "Þysja út">
+<!ENTITY fullZoomReduceBtn.label "Þysja frá">
 <!ENTITY fullZoomReduceBtn.accesskey "y">
-<!ENTITY fullZoomEnlargeBtn.label "Þysja inn">
-<!ENTITY fullZoomEnlargeBtn.accesskey "I">
+<!ENTITY fullZoomEnlargeBtn.label "Þysja að">
+<!ENTITY fullZoomEnlargeBtn.accesskey "a">
