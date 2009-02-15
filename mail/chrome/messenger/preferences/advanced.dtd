@@ -6,8 +6,8 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Slå på meldingsindeksering">
-<!ENTITY enableGloda.accesskey         "S">
+<!ENTITY enableGlodaSearch.label       "Slå på globalt søk og indeksering">
+<!ENTITY enableGlodaSearch.accesskey   "S">
 <!ENTITY systemDefaults.label          "Standard e-postklient">
 <!ENTITY alwaysCheckDefault.label      "Alltid kontroller om &brandShortName; er standard e-postklient ved oppstart">
 <!ENTITY alwaysCheckDefault.accesskey  "l">

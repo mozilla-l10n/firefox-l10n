@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Rediger …">
 <!ENTITY archiveButton.label "arkiver">
 <!ENTITY hdrReplyButton.label "svar">
+<!ENTITY hdrReplyAllButton.label "Svar til alle">
 <!ENTITY hdrForwardButton.label "vidaresend">
 <!ENTITY hdrJunkButton.label "uønskt">
 <!ENTITY trashButton.tooltiptext "slett">
