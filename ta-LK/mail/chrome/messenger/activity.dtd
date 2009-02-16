@@ -1,0 +1,33 @@
+﻿<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more activities in the list -->
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "300">
+
+<!ENTITY activity.title                  "செயற்பாட்டு முகாமையாளர்">
+
+<!ENTITY cmd.pause.label                  "நிறுத்தி வைக்க">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "மீள ஆரம்பிக்க">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "இரத்து செய்க">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.undo.label                   "அ-செய்">
+<!ENTITY cmd.undo.accesskey               "U">
+<!ENTITY cmd.recover.label                "மீட்பு">
+<!ENTITY cmd.recover.accesskey            "v">
+<!ENTITY cmd.retry.label                  "மீண்டும் முயற்சி செய்க">
+<!ENTITY cmd.retry.accesskey              "R">
+<!ENTITY cmd.removeFromList.label         "பட்டியலிலிருந்து நீக்கு">
+<!ENTITY cmd.removeFromList.accesskey     "e">
+
+<!ENTITY cmd.close.commandkey             "w">
+<!ENTITY cmd.close2.commandkey            "j">
+<!ENTITY cmd.close2Unix.commandkey        "y">
+<!ENTITY cmd.clearList.label              "பட்டியலை சுத்தப்படுத்துக">
+<!ENTITY cmd.clearList.tooltip            "பூரணப்படுத்தப்பட்ட,இரத்துச் செய்யப்பட்ட மற்றும் தோல்வியுற்ற பொருட்களை பட்டியலிலிருந்து நீக்குக">
+<!ENTITY cmd.clearList.accesskey          "C">
+<!ENTITY cmd.find.commandkey              "f">
+<!ENTITY cmd.search.commandkey            "k">
+
+<!ENTITY searchBox.label                  "தேடல்…">
