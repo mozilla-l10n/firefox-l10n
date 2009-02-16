@@ -19,7 +19,7 @@
 <!ENTITY attachPageCmd.label "Webstee…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Persoanlike visitekaart (vCard)">
+<!ENTITY attachVCardCmd.label "Persoanlike fisitekaart (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "Slute">
 <!ENTITY closeCmd.key "W">
@@ -66,7 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
-<!ENTITY editRewrapCmd.label "Op 'e nij útlynje">
+<!ENTITY editRewrapCmd.label "Op 'e nij rjochtsje">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Fuortsmite">
@@ -100,7 +100,7 @@
 <!ENTITY customizeToolbar.label "Oanpasse…">
 <!ENTITY customizeToolbar.accesskey "O">
 
-<!ENTITY addressSidebar.label "Adressensidebalke">
+<!ENTITY addressSidebar.label "Adressydbalke">
 <!ENTITY addressSidebar.accesskey "A">
 
 <!-- Format Menu -->
@@ -114,7 +114,7 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "k">
-<!ENTITY enableInlineSpellChecker.label "Staveringkontrole wylst it typen">
+<!ENTITY enableInlineSpellChecker.label "Staveringkontrôle by it typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Berjocht sitearje">
 <!ENTITY quoteCmd.accesskey "B">
@@ -190,7 +190,7 @@
 <!ENTITY sendButton.tooltip "Dit berjocht no ferstjoere">
 <!ENTITY sendlaterButton.tooltip "Dit berjocht letter ferstjoere">
 <!ENTITY quoteButton.tooltip "It foarige berjocht sitearje">
-<!ENTITY addressButton.tooltip "In adressearde út in adresboek selektearje">
+<!ENTITY addressButton.tooltip "Immen út in adresboek selektearje">
 <!ENTITY attachButton.tooltip "In bylage keppelje">
 <!ENTITY saveButton.tooltip "Dit berjocht bewarje">
 <!ENTITY cutButton.tooltip "Knippe">
@@ -231,7 +231,7 @@
 <!ENTITY smiley16Cmd.label "Ik sis neat">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "Gjin foarstellen fûn">
+<!ENTITY spellCheckNoSuggestions.label "Gjin suggestjes fûn">
 <!ENTITY spellCheckIgnoreWord.label "Wurd negearje">
 <!ENTITY spellCheckIgnoreWord.accesskey "d">
 <!ENTITY spellCheckAddToDictionary.label "Tafoegje oan wurdboek">
@@ -248,11 +248,11 @@
 <!ENTITY pasteQuote.accesskey "s">
 
 <!ENTITY openAttachment.label "Iepenje">
-<!ENTITY openAttachment.accesskey "O">
+<!ENTITY openAttachment.accesskey "I">
 <!ENTITY delete.label "Fuortsmite">
 <!ENTITY delete.accesskey "F">
-<!ENTITY renameAttachment.label "Werneame…">
-<!ENTITY renameAttachment.accesskey "W">
+<!ENTITY renameAttachment.label "Omneame…">
+<!ENTITY renameAttachment.accesskey "O">
 <!ENTITY selectAll.label "Alles selektearje">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Bestân(nen) keppelje…">
