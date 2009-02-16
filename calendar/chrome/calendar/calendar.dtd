@@ -60,7 +60,7 @@
 
 <!ENTITY calendar.today.button.label       "Hoje" >
 <!ENTITY calendar.tomorrow.button.label       "Amanhã">
-<!ENTITY calendar.soon.button.label           "Próximamente">
+<!ENTITY calendar.soon.button.label           "Proximamente">
 
 <!ENTITY calendar.events.filter.all.label "Todos os Eventos">
 <!ENTITY calendar.events.filter.today.label "Eventos de Hoje">
@@ -174,7 +174,7 @@
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label            "Abrir">
 <!ENTITY calendar.context.modifyorviewitem.accesskey        "A">
-<!ENTITY calendar.context.modifyorviewtask.label      "Abrir Tarefaâ€¦">
+<!ENTITY calendar.context.modifyorviewtask.label      "Abrir Tarefa...">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "A">
 <!ENTITY calendar.context.newevent.label              "Novo Evento…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
@@ -182,7 +182,7 @@
 <!ENTITY calendar.context.newtodo.accesskey           "a">
 <!ENTITY calendar.context.modifytask.label            "Editar Tarefa…">
 <!ENTITY calendar.context.modifytask.accesskey        "E">
-<!ENTITY calendar.context.modifyitem.label            "Editar Itemâ€¦">
+<!ENTITY calendar.context.modifyitem.label            "Editar Item...">
 <!ENTITY calendar.context.modifyitem.accesskey        "E">
 <!ENTITY calendar.context.deletetask.label            "Apagar Tarefa">
 <!ENTITY calendar.context.deletetask.accesskey        "r">
