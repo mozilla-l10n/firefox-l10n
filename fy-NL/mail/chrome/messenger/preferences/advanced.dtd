@@ -6,14 +6,14 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             		"Berjocht yndeksearder ynskeakelje">
+<!ENTITY enableGloda.label             		"Berjochtyndeksearder ynskeakelje">
 <!ENTITY enableGloda.accesskey         		"y">
 <!ENTITY systemDefaults.label              	"Standertwearden systeem">
-<!ENTITY alwaysCheckDefault.label          	"Altyd tiidens it opstarten kontrolearje of &brandShortName; de standert e-mailclient is">
+<!ENTITY alwaysCheckDefault.label          	"Altyd by it opstarten kontrolearje of &brandShortName; de standert e-mailclient is">
 <!ENTITY alwaysCheckDefault.accesskey      	"k">
 <!ENTITY checkNow.label             		"No kontrolearje">
 <!ENTITY checkNow.accesskey         		"N">
-<!ENTITY configEditDesc.label          		"Wiidweide konfiguraasje">
+<!ENTITY configEditDesc.label          		"Wiidweidige konfiguraasje">
 <!ENTITY configEdit.label              		"Konfiguraasje-bewurker…">
 <!ENTITY configEdit.accesskey          		"f">
 <!ENTITY returnReceiptsInfo.label      		"Bepale hoe't &brandShortName; omgiet mei lêsbefestigings">
@@ -54,7 +54,7 @@
 <!ENTITY modeAskMe.accesskey            	"r">
 <!ENTITY modeAutomatic.label            	"Automatysk de fernijing ynlade en ynstallearje">
 <!ENTITY modeAutomatic.accesskey        	"f">
-<!ENTITY modeAutoAddonWarn.label        	"My warskôgje as dit ien fan myn tafoegngs útskeakelje sil">
+<!ENTITY modeAutoAddonWarn.label        	"My warskôgje as dit ien fan myn tafoegings útskeakelje sil">
 <!ENTITY modeAutoAddonWarn.accesskey    	"s">
 <!ENTITY showUpdates.label              	"Toan fernijingsskiednis">
 <!ENTITY showUpdates.accesskey          	"d">

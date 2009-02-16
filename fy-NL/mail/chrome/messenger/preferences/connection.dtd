@@ -4,15 +4,15 @@
 <!ENTITY  proxyTitle.label              "Proxy’s foar tagong ta it ynternet konfigurearje">
 <!ENTITY  noProxyTypeRadio.label        "Gjin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Systeem proxyynstellings brûke">
+<!ENTITY  systemTypeRadio.label         "Systeem proxy-ynstellings brûke">
 <!ENTITY  systemTypeRadio.accesskey     "k">
-<!ENTITY  WPADTypeRadio.label           "Proxyynstellings foar dit netwurk automatysk detektearje">
+<!ENTITY  WPADTypeRadio.label           "Proxy-ynstellings foar dit netwurk automatysk detektearje">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Hânmjittige proxykonfiguraasje:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL foar automatyske proxykonfiguraasje:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  reload.label                  "Op 'e ni lade">
+<!ENTITY  reload.label                  "Op 'e nij lade">
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  http.label                    "HTTP-proxy:">
 <!ENTITY  http.accesskey                "H">

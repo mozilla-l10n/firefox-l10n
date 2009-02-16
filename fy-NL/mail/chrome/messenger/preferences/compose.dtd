@@ -8,7 +8,7 @@
 <!ENTITY inline.accesskey                     "Y">
 <!ENTITY asAttachment.label                   "As bylage">
 <!ENTITY asAttachment.accesskey               "A">
-<!ENTITY addExtension.label                   "Ekstensje oan bestânsnamme tafoegje">
+<!ENTITY addExtension.label                   "Ekstinsje oan bestânsnamme tafoegje">
 <!ENTITY addExtension.accesskey               "t">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
@@ -25,7 +25,7 @@
 
 <!ENTITY spellCheck.label                     "Stavering kontrolearje foar it ferstjoeren">
 <!ENTITY spellCheck.accesskey                 "k">
-<!ENTITY spellCheckInline.label               "Stavering kontrolearje tiidens it typen">
+<!ENTITY spellCheckInline.label               "Stavering kontrolearje ûnder it typen">
 <!ENTITY spellCheckInline1.accesskey          "n">
 <!ENTITY languagePopup.label                  "Taal:">
 <!ENTITY languagePopup.accessKey              "T">
