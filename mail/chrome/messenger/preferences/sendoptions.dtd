@@ -1,0 +1,31 @@
+<!ENTITY dialog.title                 "Tùy chọn Gửi">
+<!ENTITY sendMail.title               "Định dạng Văn bản">
+<!ENTITY sendMaildesc.label           "Khi gửi thư dưới dạng HTML mà người nhận không có khả năng nhận thư HTML:">
+<!ENTITY askMe.label                  "Hỏi tôi muốn làm gì">
+<!ENTITY askMe.accesskey              "m">
+<!ENTITY convertPlain.label           "Chuyển đổi thư về dạng văn bản thuần">
+<!ENTITY convertPlain.accesskey       "C">
+<!ENTITY sendHTML.label               "Vẫn cứ gửi thư dưới dạng HTML">
+<!ENTITY sendHTML.accesskey           "d">
+<!ENTITY sendBoth.label               "Gửi thư dưới cả hai dạng HTML và văn bản thuần">
+<!ENTITY sendBoth.accesskey           "G">
+<!ENTITY override.label               "Lưu ý: Dùng Sổ Địa Chỉ để thiết lập định dạng phù hợp cho mỗi người nhận.">
+
+<!ENTITY domaindesc.label             "Khi bạn gửi thư đến một địa chỉ có tên miền được liệt kê ở bên dưới, &brandShortName; sẽ tự động gửi thư đó theo định dạng phù hợp.">
+<!ENTITY HTMLTab.label                "Tên miền HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Tên miền Văn bản Thuần">
+<!ENTITY PlainTextTab.accesskey       "V">
+<!ENTITY AddHtmlDomain.label          "Thêm…">
+<!ENTITY AddHtmlDomain.accesskey      "T">
+<!ENTITY AddPlainText.label           "Thêm…">
+<!ENTITY AddPlainText.accesskey       "T">
+<!ENTITY DeleteHtmlDomain.label       "Xóa">
+<!ENTITY DeleteHtmlDomain.accesskey   "X">
+<!ENTITY DeletePlainText.label        "Xóa">
+<!ENTITY DeletePlainText.accesskey    "X">
+
+<!ENTITY add.htmltitle                "Thêm Tên Miền HTML">
+<!ENTITY add.htmldomain               "Tên Miền HTML:">
+<!ENTITY add.plaintexttitle           "Thêm Tên Miền Văn Bản Thuần">
+<!ENTITY add.plaintextdomain          "Tên Miền Văn Bản Thuần:">

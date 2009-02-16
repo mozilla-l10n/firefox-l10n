@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "C">
+
+<!ENTITY compose.label "Trình soạn thảo">
+<!ENTITY editing.label "Thiết lập Trang Mới">
+<!ENTITY toolbars.label "Thanh Công Cụ">
+<!ENTITY publish.label "Xuất bản">

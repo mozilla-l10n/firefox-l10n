@@ -1,0 +1,496 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+<!ENTITY fileMenu.label "Tập tin">
+<!ENTITY fileMenu.accesskey "T">
+<!ENTITY newBlankPageCmd.label "Trang Soạn Thảo">
+<!ENTITY newBlankPageCmd.accesskey "T" >
+<!ENTITY newMenu.label "Mới">
+<!ENTITY openFileCmd.label "Mở Tập tin...">
+<!ENTITY openFileCmd.accesskey "M">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "Open Web Location…">
+<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "Các Trang Gần đây">
+<!ENTITY fileRecentMenu.accesskey "r">
+<!ENTITY fileRevert.label "Hoàn nguyên">
+<!ENTITY fileRevert.accesskey "H">
+<!ENTITY saveCmd.label "Lưu">
+<!ENTITY saveCmd.accesskey "L">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveAsCmd.label "Lưu Thành…">
+<!ENTITY saveAsCmd.accesskey "T">
+
+<!ENTITY publishCmd.label "Xuất bản">
+<!ENTITY publishCmd.accesskey "X">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "Xuất bản Thành…">
+<!ENTITY publishAsCmd.accesskey "h">
+<!ENTITY exportToTextCmd.label "Xuất thành Văn bản…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY saveAsChangeEncodingCmd.label "Lưu và Thay đổi Bảng mã">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "B">
+<!ENTITY previewCmd.label "Duyệt Trang">
+<!ENTITY previewCmd.accesskey "D">
+<!ENTITY sendPageCmd.label "Gửi Trang…">
+<!ENTITY sendPageCmd.accesskey "G">
+<!ENTITY printSetupCmd.label "Thiết lập Trang…">
+<!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printCmd.label "In…">
+<!ENTITY printCmd.accesskey "I">
+<!ENTITY printCmd.key "P">
+<!ENTITY closeCmd.label "Đóng">
+<!ENTITY closeCmd.accesskey "g">
+<!ENTITY closeCmd.key "W">
+
+<!-- Edit menu items -->
+<!ENTITY editMenu.label "Chỉnh sửa">
+<!ENTITY editMenu.accesskey "C">
+<!ENTITY pasteNoFormatting.label "Dán dưới dạng Văn bản thuần">
+<!ENTITY pasteNoFormatting.accesskey "V">
+<!ENTITY pasteNoFormatting.key "V">
+<!ENTITY pasteAs.label "Dán Thành">
+<!ENTITY pasteAs.accesskey "D">
+<!ENTITY publishSettings.label "Thiết lập Trang Xuất bản…">
+<!ENTITY publishSettings.accesskey "b">
+<!ENTITY pasteAsQuotationCmd.label "Dán dưới dạng Trích dẫn">
+<!ENTITY pasteAsQuotationCmd.accesskey "n">
+<!ENTITY findCmd.label "Tìm và Thay…">
+<!ENTITY findCmd.accesskey "y">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findAgainCmd.label "Tìm Lại">
+<!ENTITY findAgainCmd.accesskey "L">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Tìm Trước">
+<!ENTITY findPrevCmd.accesskey "r">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY enableInlineSpellChecker.label "Kiểm tra Chính tả khi Gõ">
+<!ENTITY enableInlineSpellChecker.accesskey "K">
+<!ENTITY checkSpellingCmd2.label "Kiểm tra Chính tả">
+<!ENTITY checkSpellingCmd2.accesskey "a">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY validateCmd.label "Phê chuẩn HTML">
+<!ENTITY validateCmd.accesskey "P">
+
+<!-- Insert menu items -->
+<!ENTITY insertMenu.label "Chèn">
+<!ENTITY insertMenu.accesskey "n">
+<!ENTITY insertLinkCmd.label "Liên kết…">
+<!ENTITY insertLinkCmd.accesskey "L">
+<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertAnchorCmd.label "Thẻ Neo Anchor…">
+<!ENTITY insertAnchorCmd.accesskey "A">
+<!ENTITY insertImageCmd.label "Hình…">
+<!ENTITY insertImageCmd.accesskey "H">
+<!ENTITY insertHLineCmd.label "Đường Ngang">
+<!ENTITY insertHLineCmd.accesskey "N">
+<!ENTITY insertTableCmd.label "Bảng…">
+<!ENTITY insertTableCmd.accesskey "B">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "T">
+<!ENTITY insertCharsCmd.label "Ký tự và Ký hiệu…">
+<!ENTITY insertCharsCmd.accesskey "K">
+<!ENTITY insertBreakAllCmd.label "Ngắt Đoạn Sau Hình">
+<!ENTITY insertBreakAllCmd.accesskey "S">
+
+<!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label "(Không có Gợi ý)">
+<!ENTITY spellCheckIgnoreWord.label "Bỏ qua Từ">
+<!ENTITY spellCheckIgnoreWord.accesskey "u">
+<!ENTITY spellCheckAddToDictionary.label "Thêm vào Từ điển">
+<!ENTITY spellCheckAddToDictionary.accesskey "T">
+<!ENTITY createLinkCmd.label "Tạo Liên Kết…">
+<!ENTITY createLinkCmd.accesskey "K">
+<!ENTITY editLinkCmd.label "Sửa đổi Liên kết ở trang Soạn thảo Mới">
+<!ENTITY editLinkCmd.accesskey "i">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label "Hoàn tác">
+<!ENTITY undoCmd.accesskey "H">
+<!ENTITY redoCmd.label "Làm lại">
+<!ENTITY redoCmd.accesskey "L">
+<!ENTITY cutCmd.label "Cắt">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Chép">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Dán">
+<!ENTITY pasteCmd.accesskey "D">
+<!ENTITY deleteCmd.label "Xóa">
+<!ENTITY deleteCmd.accesskey "X">
+<!ENTITY clearCmd.label "Xóa trắng">
+<!ENTITY clearCmd.accesskey "X">
+<!ENTITY selectAllCmd.label "Chọn Toàn Bộ">
+<!ENTITY selectAllCmd.accesskey "B">
+
+<!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "Chọn phông">
+<!ENTITY fontfaceMenu.label "Phông">
+<!ENTITY fontfaceMenu.accesskey "P">
+<!ENTITY fontVarWidth.label "Độ rộng Biến đổi">
+<!ENTITY fontVarWidth.accesskey "r">
+<!ENTITY fontFixedWidth.label "Độ rộng Cố định">
+<!ENTITY fontFixedWidth.accesskey "r">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
+
+<!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip "Chọn cỡ chữ">
+<!ENTITY decreaseFontSize.label "Nhỏ hơn">
+<!ENTITY decreaseFontSize.accesskey "N">
+<!ENTITY decreaseFontSize.key "-">
+<!ENTITY increaseFontSize.label "Lớn hơn">
+<!ENTITY increaseFontSize.accesskey "L">
+<!ENTITY increaseFontSize.key "+">
+<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY fontSizeMenu.label "Size">
+<!ENTITY fontSizeMenu.accesskey "z">
+<!ENTITY size-xx-smallCmd.label "siêu nhỏ">
+<!ENTITY size-xx-smallCmd.accesskey "s">
+<!ENTITY size-x-smallCmd.label "rất nhỏ">
+<!ENTITY size-x-smallCmd.accesskey "r">
+<!ENTITY size-smallCmd.label "nhỏ">
+<!ENTITY size-smallCmd.accesskey "n">
+<!ENTITY size-mediumCmd.label "vừa">
+<!ENTITY size-mediumCmd.accesskey "v">
+<!ENTITY size-largeCmd.label "lớn">
+<!ENTITY size-largeCmd.accesskey "l">
+<!ENTITY size-x-largeCmd.label "rất lớn">
+<!ENTITY size-x-largeCmd.accesskey "t">
+<!ENTITY size-xx-largeCmd.label "siêu lớn">
+<!ENTITY size-xx-largeCmd.accesskey "u">
+
+<!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Kiểu Chữ">
+<!ENTITY fontStyleMenu.accesskey "K">
+<!ENTITY styleBoldCmd.label "Đậm">
+<!ENTITY styleBoldCmd.accesskey "m">
+<!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleItalicCmd.label "Nghiêng">
+<!ENTITY styleItalicCmd.accesskey "N">
+<!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleUnderlineCmd.label "Gạch dưới">
+<!ENTITY styleUnderlineCmd.accesskey "G">
+<!ENTITY styleUnderlineCmd.key "U">
+<!ENTITY styleStrikeThruCmd.label "Gạch ngang">
+<!ENTITY styleStrikeThruCmd.accesskey "a">
+<!ENTITY styleSuperscriptCmd.label "Chữ nhỏ bên trên">
+<!ENTITY styleSuperscriptCmd.accesskey "t">
+<!ENTITY styleSubscriptCmd.label "Chữ nhỏ bên dưới">
+<!ENTITY styleSubscriptCmd.accesskey "d">
+<!ENTITY styleNonbreakingCmd.label "Không ngắt dòng">
+<!ENTITY styleNonbreakingCmd.accesskey "K">
+<!ENTITY styleEm.label "Nhấn mạnh">
+<!ENTITY styleEm.accesskey "N">
+<!ENTITY styleStrong.label "Nhấn mạnh hơn">
+<!ENTITY styleStrong.accesskey "h">
+<!ENTITY styleCite.label "Nguồn trích dẫn">
+<!ENTITY styleCite.accesskey "g">
+<!ENTITY styleAbbr.label "Viết tắt">
+<!ENTITY styleAbbr.accesskey "V">
+<!ENTITY styleAcronym.label "Viết tắt chữ cái đầu">
+<!ENTITY styleAcronym.accesskey "i">
+<!ENTITY styleCode.label "Mã">
+<!ENTITY styleCode.accesskey "M">
+<!ENTITY styleSamp.label "Ví dụ mẫu">
+<!ENTITY styleSamp.accesskey "m">
+<!ENTITY styleVar.label "Biến">
+<!ENTITY styleVar.accesskey "B">
+
+<!ENTITY formatFontColor.label "Màu Chữ…">
+<!ENTITY formatFontColor.accesskey "M">
+<!ENTITY tableOrCellColor.label "Màu nền Bảng hoặc Ô…">
+<!ENTITY tableOrCellColor.accesskey "B">
+
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Xóa Thẻ Neo Anchor">
+<!ENTITY formatRemoveNamedAnchors.accesskey "r">
+<!ENTITY formatRemoveNamedAnchors.key "A">
+
+<!ENTITY paragraphMenu.label "Đoạn văn">
+<!ENTITY paragraphMenu.accesskey "v">
+<!ENTITY paragraphParagraphCmd.label "Đoạn văn">  
+<!ENTITY paragraphParagraphCmd.accesskey "v">
+<!ENTITY heading1Cmd.label "Đề mục Cấp 1">
+<!ENTITY heading1Cmd.accesskey "1">
+<!ENTITY heading2Cmd.label "Đề mục Cấp 2">
+<!ENTITY heading2Cmd.accesskey "2">
+<!ENTITY heading3Cmd.label "Đề mục Cấp 3">
+<!ENTITY heading3Cmd.accesskey "3">
+<!ENTITY heading4Cmd.label "Đề mục Cấp 4">
+<!ENTITY heading4Cmd.accesskey "4">
+<!ENTITY heading5Cmd.label "Đề mục Cấp 5">
+<!ENTITY heading5Cmd.accesskey "5">
+<!ENTITY heading6Cmd.label "Đề mục Cấp 6">
+<!ENTITY heading6Cmd.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Địa chỉ">
+<!ENTITY paragraphAddressCmd.accesskey "a">
+<!ENTITY paragraphPreformatCmd.label "Định dạng sẵn">
+<!ENTITY paragraphPreformatCmd.accesskey "s">
+
+<!-- List menu items -->
+<!ENTITY formatlistMenu.label "Danh sách">
+<!ENTITY formatlistMenu.accesskey "D">
+<!ENTITY noneCmd.label "Không có">
+<!ENTITY noneCmd.accesskey "K">
+<!ENTITY listBulletCmd.label "Được Bullet">
+<!ENTITY listBulletCmd.accesskey "B">
+<!ENTITY listNumberedCmd.label "Được Đánh Số">
+<!ENTITY listNumberedCmd.accesskey "S">
+<!ENTITY listTermCmd.label "Thuật ngữ">
+<!ENTITY listTermCmd.accesskey "u">
+<!ENTITY listDefinitionCmd.label "Định nghĩa">
+<!ENTITY listDefinitionCmd.accesskey "h">
+<!ENTITY listPropsCmd.label "Thuộc tính Danh sách…">
+<!ENTITY listPropsCmd.accesskey "h">
+
+<!ENTITY ParagraphSelect.tooltip "Chọn một định dạng cho đoạn">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Nội dung">
+<!ENTITY bodyTextCmd.accesskey "N">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Thuộc tính Nâng cao">
+<!ENTITY advancedPropertiesCmd.accesskey "h">
+
+<!-- Align menu items -->
+<!ENTITY alignMenu.label "Căn">
+<!ENTITY alignMenu.accesskey "C">
+<!ENTITY alignLeft.label "Trái">
+<!ENTITY alignLeft.accesskey "T">
+<!ENTITY alignLeft.tooltip "Căn Trái">
+<!ENTITY alignCenter.label "Giữa">
+<!ENTITY alignCenter.accesskey "G">
+<!ENTITY alignCenter.tooltip "Căn Giữa">
+<!ENTITY alignRight.label "Phải">
+<!ENTITY alignRight.accesskey "P">
+<!ENTITY alignRight.tooltip "Căn Phải">
+<!ENTITY alignJustify.label "Hai Bên">
+<!ENTITY alignJustify.accesskey "H">
+<!ENTITY alignJustify.tooltip "Căn Hai Bên">
+
+<!-- Layer toolbar items -->
+<!ENTITY layer.tooltip "Lớp">
+<!ENTITY layerSendToBack.tooltip "Đưa ra Sau">
+<!ENTITY layerBringToFront.tooltip "Đưa ra Trước">
+
+<!ENTITY increaseIndent.label "Tăng Lề">
+<!ENTITY increaseIndent.accesskey "T">
+<!ENTITY increaseIndent.key "]">
+<!ENTITY decreaseIndent.label "Giảm Lề">
+<!ENTITY decreaseIndent.accesskey "G">
+<!ENTITY decreaseIndent.key "[">
+
+<!ENTITY grid.label "Lưới định vị">
+<!ENTITY grid.accesskey "L">
+
+<!ENTITY pageProperties.label "Tựa và Thuộc tính Trang…">
+<!ENTITY pageProperties.accesskey "v">
+<!ENTITY colorsAndBackground.label "Nền và Màu Trang…">
+<!ENTITY colorsAndBackground.accesskey "u">
+
+<!-- Table Menu -->
+<!ENTITY tableMenu.label "Bảng">
+<!ENTITY tableMenu.accesskey "B">
+
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Chọn">
+<!ENTITY tableSelectMenu.accesskey "n">
+
+<!ENTITY tableSelectMenu2.label "Chọn Bảng">
+<!ENTITY tableSelectMenu2.accesskey "n">
+<!ENTITY tableInsertMenu2.label "Chèn Bảng">
+<!ENTITY tableInsertMenu2.accesskey "C">
+<!ENTITY tableDeleteMenu2.label "Xóa Bảng">
+<!ENTITY tableDeleteMenu2.accesskey "X">
+
+<!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Chèn">
+<!ENTITY tableInsertMenu.accesskey "C">
+<!ENTITY tableTable.label "Bảng">
+<!ENTITY tableTable.accesskey "B">
+<!ENTITY tableRow.label "Hàng">
+<!ENTITY tableRows.label "Hàng">
+<!ENTITY tableRow.accesskey "H">
+<!ENTITY tableRowAbove.label "Hàng Trên">
+<!ENTITY tableRowAbove.accesskey "H">
+<!ENTITY tableRowBelow.label "Hàng Dưới">
+<!ENTITY tableRowBelow.accesskey "D">
+<!ENTITY tableColumn.label "Cột">
+<!ENTITY tableColumns.label "Cột">
+<!ENTITY tableColumn.accesskey "t">
+<!ENTITY tableColumnBefore.label "Cột Trước">
+<!ENTITY tableColumnBefore.accesskey "T">
+<!ENTITY tableColumnAfter.label "Cột Sau">
+<!ENTITY tableColumnAfter.accesskey "S">
+<!ENTITY tableCell.label "Các Ô">
+<!ENTITY tableCells.label "Các Ô">
+<!ENTITY tableCell.accesskey "C">
+<!ENTITY tableCellContents.label "Nội dung Ô">
+<!ENTITY tableCellContents.accesskey "N">
+<!ENTITY tableAllCells.label "Toàn bộ các Ô">
+<!ENTITY tableAllCells.accesskey "b">
+<!ENTITY tableCellBefore.label "Ô Trước">
+<!ENTITY tableCellBefore.accesskey "r">
+<!ENTITY tableCellAfter.label "Ô Sau">
+<!ENTITY tableCellAfter.accesskey "a">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Xóa">
+<!ENTITY tableDeleteMenu.accesskey "X">
+
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label "r">
+<!ENTITY tableJoinCells.accesskey "r">
+<!ENTITY tableSplitCell.label "Chia Ô">
+<!ENTITY tableSplitCell.accesskey "a">
+<!ENTITY convertToTable.label "Tạo Bảng từ Phần đã chọn">
+<!ENTITY convertToTable.accesskey "T">
+<!ENTITY tableProperties.label "Thuộc tính Bảng…">
+<!ENTITY tableProperties.accesskey "u">
+
+<!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Thanh Trình Đơn">
+<!ENTITY compositionToolbar.tooltip "Thanh Soạn Thảo">
+<!ENTITY formatToolbar.tooltip "Thanh Định Dạng">
+<!ENTITY newToolbarCmd.tooltip "Tạo trang Soạn thảo mới">
+<!ENTITY openToolbarCmd.label "Mở">
+<!ENTITY openToolbarCmd.tooltip "Mở một tập tin trong máy">
+<!ENTITY saveToolbarCmd.tooltip "Lưu tập tin vào thư mục trong máy">
+<!ENTITY publishToolbarCmd.tooltip "Tải tập tin lên một địa chỉ từ xa">
+<!ENTITY previewToolbarCmd.label "Duyệt">
+<!ENTITY previewToolbarCmd.tooltip "Tải trang này trong trình duyệt">
+<!ENTITY printToolbarCmd.label "In">
+<!ENTITY printToolbarCmd.tooltip "In trang này">
+<!ENTITY findToolbarCmd.label "Tìm">
+<!ENTITY findToolbarCmd.tooltip "Tìm văn bản trong trang">
+<!ENTITY spellToolbarCmd.label "Chính tả">
+<!ENTITY spellToolbarCmd.tooltip "Kiểm tra chính tả của phần đã chọn hoặc toàn bộ trang">
+<!ENTITY imageToolbarCmd.label "Hình">
+<!ENTITY imageToolbarCmd.tooltip "Chèn hình mới hoặc chỉnh sửa thuộc tính của hình">
+<!ENTITY hruleToolbarCmd.label "Đ.Ngang">
+<!ENTITY hruleToolbarCmd.tooltip "Chèn đường kẻ ngang hoặc chỉnh sửa thuộc tính của đường kẻ">
+<!ENTITY tableToolbarCmd.label "Bảng">
+<!ENTITY tableToolbarCmd.tooltip "Chèn bảng mới hoặc chỉnh sửa thuộc tính của bảng">
+<!ENTITY linkToolbarCmd.label "Liên kết">
+<!ENTITY linkToolbarCmd.tooltip "Chèn liên kết mới hoặc chỉnh sửa thuộc tính của liên kết đã chọn">
+<!ENTITY anchorToolbarCmd.label "Anchor">
+<!ENTITY anchorToolbarCmd.tooltip "Chèn thẻ neo anchor mới hoặc chỉnh sửa thuộc tính của anchor">
+<!ENTITY TextColorButton.tooltip "Chọn màu chữ">
+<!ENTITY BackgroundColorButton.tooltip "Chọn màu nền">
+<!ENTITY throbber.tooltip "Mở trang chủ &vendorShortName;">
+<!ENTITY HighlightColorButton.tooltip "Chọn màu tô đậm văn bản">
+
+<!-- Editor toolbar -->
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Cỡ chữ nhỏ hơn">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Cỡ chữ lớn hơn">
+<!ENTITY boldToolbarCmd.tooltip "Đậm">
+<!ENTITY italicToolbarCmd.tooltip "Nghiêng">
+<!ENTITY underlineToolbarCmd.tooltip "Gạch dưới">
+<!ENTITY bulletListToolbarCmd.tooltip "Áp dụng hoặc xóa danh sách bullet">
+<!ENTITY numberListToolbarCmd.tooltip "Áp dụng hoặc xóa danh sách số">
+<!ENTITY outdentToolbarCmd.tooltip "Giảm lề văn bản (chuyển trái)">
+<!ENTITY indentToolbarCmd.tooltip "Tăng lề văn bản (chuyển phải)">
+<!ENTITY AlignPopupButton.tooltip "Chọn cách căn văn bản">
+<!ENTITY InsertPopupButton.tooltip "Chèn một Liên kết, Anchor, Hình ảnh, Đường kẻ ngang, hoặc Bảng">
+<!ENTITY alignLeftButton.tooltip "Căn theo lề trái">
+<!ENTITY alignCenterButton.tooltip "Căn vào giữa">
+<!ENTITY alignRightButton.tooltip "Căn theo lề phải">
+<!ENTITY alignjustifyButton.tooltip "Căn theo hai bên lề">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Bình thường">
+<!ENTITY NormalMode.label "Chế độ Chỉnh sửa Bình thường">
+<!ENTITY NormalMode.accesskey "B">
+<!ENTITY NormalMode.tooltip "Hiện đường viền bảng và thẻ neo anchor">
+<!ENTITY AllTagsMode.label "Thẻ HTML">
+<!ENTITY AllTagsMode.accesskey "H">
+<!ENTITY AllTagsMode.tooltip "Hiện biểu tượng cho tất cả thẻ HTML">
+
+<!ENTITY HTMLSourceMode.label "Nguồn HTML">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label "Nguồn">
+<!ENTITY HTMLSourceMode.accesskey "N">
+<!ENTITY HTMLSourceMode.tooltip "Chỉnh sửa nguồn HTML">
+<!ENTITY PreviewMode.label "Xem trước">
+<!ENTITY PreviewMode.accesskey "X">
+<!ENTITY PreviewMode.tooltip "Hiển thị WYSIWYG (giống trình duyệt)">
+
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+<!ENTITY SourceTabDirection "ltr">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Chọn">
+<!ENTITY structSelect.accesskey     "C">
+<!ENTITY structRemoveTag.label      "Xóa thẻ">
+<!ENTITY structRemoveTag.accesskey  "X">
+<!ENTITY structChangeTag.label      "Đổi thẻ">
+<!ENTITY structChangeTag.accesskey  "i">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Chèn">
+<!ENTITY insertTOC.accesskey      "C">
+<!ENTITY updateTOC.label          "Cập nhật">
+<!ENTITY updateTOC.accesskey      "C">
+<!ENTITY removeTOC.label          "Xóa">
+<!ENTITY removeTOC.accesskey      "X">
+<!ENTITY tocMenu.label            "Mục lục…">
+<!ENTITY tocMenu.accesskey        "M">

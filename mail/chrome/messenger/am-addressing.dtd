@@ -1,0 +1,33 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "Soạn thảo &amp; Xác định Địa chỉ">
+<!ENTITY addressingGroupTitle.label "Xác định Địa chỉ">
+<!ENTITY addressingText.label      "Khi tìm địa chỉ:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Dùng tùy chỉnh máy chủ LDAP bao trùm của tôi cho tài khoản này">
+<!ENTITY useGlobal.accesskey       "D">
+<!ENTITY editDirectories.label     "Chỉnh sửa Thư mục…">
+<!ENTITY editDirectories.accesskey "C">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Dùng một máy chủ LDAP khác:">
+<!ENTITY directories.accesskey     "m">
+<!ENTITY directoriesNone.label     "Không có">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Soạn thảo">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Soạn thư định dạng HTML">
+<!ENTITY useHtml.accesskey                    "S">
+<!ENTITY autoQuote.label                      "Tự động trích dẫn thư gốc khi trả lời">
+<!ENTITY autoQuote.accesskey                  "n">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "Rồi,">
+<!ENTITY then.accesskey                       "R">
+<!ENTITY aboveQuote.label                     "bắt đầu viết trả lời trên đoạn trích dẫn">
+<!ENTITY belowQuote.label                     "bắt đầu viết trả lời dưới đoạn trích dẫn">
+<!ENTITY selectAndQuote.label                 "chọn trích dẫn">
+<!ENTITY place.label                          "và đặt chữ kí của tôi">
+<!ENTITY place.accesskey                      "k">
+<!ENTITY belowText.label                      "dưới đoạn trích dẫn (khuyên dùng)">
+<!ENTITY aboveText.label                      "dưới trả lời của tôi (trên đoạn trích dẫn)">

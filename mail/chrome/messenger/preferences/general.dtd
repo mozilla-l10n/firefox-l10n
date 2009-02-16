@@ -1,0 +1,35 @@
+<!ENTITY messengerStartPage.label         "Trang Bắt Đầu &brandShortName;">
+<!ENTITY enableStartPage.label            "Khi &brandShortName; chạy, hiện Trang Bắt Đầu trong vùng nội dung thư">
+<!ENTITY enableStartPage.accesskey        "h">
+<!ENTITY location.label                   "Địa chỉ:">
+<!ENTITY location1.accesskey               "a">
+<!ENTITY useDefault.label                 "Khôi phục Mặc định">
+<!ENTITY useDefault.accesskey             "K">
+
+<!ENTITY bounceSystemDockIcon.label       "Biểu tượng dock chuyển động hoạt họa">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "Khi có thư mới:">
+<!ENTITY playSound.label                  "Chơi một đoạn âm thanh">
+<!ENTITY playSound1.accesskey              "m">
+<!ENTITY showAnimatedAlert.label          "Hiện một thông báo">
+<!ENTITY showAnimatedAlert.accesskey      "n">
+<!ENTITY customizeMailAlert.label         "Tùy biến…">
+<!ENTITY customizeMailAlert.accesskey     "y">
+
+<!ENTITY play.label                       "Chơi">
+<!ENTITY play.accesskey                   "C">
+<!ENTITY systemsound.label                "Âm thanh mặc định của hệ thống khi có thư mới">
+<!ENTITY systemsoundMac.label             "Âm thanh Thông báo Hệ thống">
+<!ENTITY systemsoundMac.accesskey         "a">
+<!ENTITY systemsound.accesskey            "a">
+<!ENTITY customsound.label                "Sử dụng tập tin âm thanh sau">
+<!ENTITY customsound.accesskey            "u">
+<!ENTITY browse.label                     "Duyệt…">
+<!ENTITY browse.accesskey                 "D">
+
+<!ENTITY addonsMgr.label                  "Tiện ích">
+<!ENTITY manageAddonsDescWin.label        "Thay đổi tùy chọn cho tiện ích">
+<!ENTITY manageAddonsDescUnix2.label      "Thay đổi tùy chỉnh cho tiện ích">
+<!ENTITY manageAddons.label               "Quản lí Tiện ích…">
+<!ENTITY manageAddons.accesskey           "Q">

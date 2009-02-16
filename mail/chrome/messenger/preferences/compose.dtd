@@ -1,0 +1,54 @@
+<!ENTITY itemGeneral.label                   "Tổng quát">
+<!ENTITY itemAutoComplete.label              "Xác định Địa chỉ">
+<!ENTITY itemSpellCheck.label                "Chính tả">
+
+<!ENTITY forwardMsg.label                     "Chuyển tiếp thư:">
+<!ENTITY forwardMsg.accesskey                 "y">
+<!ENTITY inline.label                         "Ngay trong thư">
+<!ENTITY inline.accesskey                     "N">
+<!ENTITY asAttachment.label                   "Dưới dạng Đính kèm">
+<!ENTITY asAttachment.accesskey               "D">
+<!ENTITY addExtension.label                   "thêm đuôi mở rộng vào tên tập tin">
+<!ENTITY addExtension.accesskey               "r">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Phông:">
+<!ENTITY font.accesskey                       "P">
+<!ENTITY size.label                           "Kích thước:">
+<!ENTITY size.accesskey                       "h">
+<!ENTITY fontColor.label                      "Màu Chữ:">
+<!ENTITY fontColor.accesskey                  "C">
+<!ENTITY bgColor.label                        "Màu Nền:">
+<!ENTITY bgColor.accesskey                    "N">
+<!ENTITY restoreHTMLDefaults.label            "Khôi phục về Mặc định">
+<!ENTITY restoreHTMLDefaults.accesskey        "K">
+
+<!ENTITY spellCheck.label                     "Kiểm tra chính tả trước khi gửi">
+<!ENTITY spellCheck.accesskey                 "c">
+<!ENTITY spellCheckInline.label               "Kích hoạt kiểm tra chính tả khi bạn gõ">
+<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY languagePopup.label                  "Ngôn ngữ:">
+<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY downloadDictionaries.label           "Tải thêm Từ điển">
+
+<!ENTITY warnOnSendAccelKey.label             "Xác nhận khi sử dụng phím tắt để gửi thư">
+<!ENTITY warnOnSendAccelKey.accesskey         "X">
+<!ENTITY autoSave.label                       "Tự động Lưu mỗi">
+<!ENTITY autoSave.accesskey                   "T">
+<!ENTITY autoSaveEnd.label                    "phút">
+
+<!ENTITY emailCollectionPicker.label           "Tự động thêm địa chỉ email gửi đi vào:">
+<!ENTITY emailCollectionPicker.accesskey       "T">
+<!ENTITY addressingTitle.label                 "Tự động điền Địa chỉ">
+<!ENTITY autocompleteText.label                "Khi tìm địa chỉ trong thư, tra cứu các mục khớp nhau trong:">
+<!ENTITY addressingEnable.label                "Sổ địa chỉ Nội bộ">
+<!ENTITY addressingEnable.accesskey            "S">
+<!ENTITY directories.label                     "Máy chủ Thư mục:">
+<!ENTITY directories.accesskey                 "M">
+<!ENTITY directoriesNone.label                 "Không có">
+<!ENTITY editDirectories.label                 "Chỉnh sửa Thư mục…">
+<!ENTITY editDirectories.accesskey             "C">
+
+<!ENTITY sendOptionsDescription.label          "Cấu hình hành vi định dạng văn bản">
+<!ENTITY sendOptions.label                     "Tùy chọn Gửi…">
+<!ENTITY sendOptions.accesskey                 "y">

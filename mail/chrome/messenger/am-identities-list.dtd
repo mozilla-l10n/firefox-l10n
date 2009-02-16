@@ -1,0 +1,7 @@
+<!ENTITY identitiesListDesc.label "Hỗ trợ Nhiều Định Danh">
+<!ENTITY identitiesListAdd.label  "Thêm…">
+<!ENTITY identitiesListAdd.accesskey  "T">
+<!ENTITY identitiesListEdit.label "Chỉnh sửa…">
+<!ENTITY identitiesListEdit.accesskey "C">
+<!ENTITY identitiesListDelete.label "Xóa">
+<!ENTITY identitiesListDelete.accesskey "X">

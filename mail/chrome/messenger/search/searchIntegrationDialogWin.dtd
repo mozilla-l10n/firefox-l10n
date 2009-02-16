@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "Tìm kiếm Windows">
+<!ENTITY searchIntegration.title "Tích hợp &searchIntegration.engineName;">
+<!ENTITY searchIntegration.description "Bạn có muốn kích hoạt &searchIntegration.engineName; để lập chỉ mục và tìm kiếm thư và tin của &brandShortName;?">
+
+<!ENTITY searchIntegration.accept "Kích hoạt &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Không kích hoạt &searchIntegration.engineName;">

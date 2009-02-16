@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Thư mục Tìm kiếm Được lưu Mới">
+<!ENTITY name.label                 "Tên:">
+<!ENTITY name.accesskey             "n">
+<!ENTITY description.label          "Tạo thành thư mục con cho:">
+<!ENTITY description.accesskey      "c">
+
+<!ENTITY searchTermCaption.label "Cấu hình tiêu chuẩn đưa vào thư mục tìm kiếm được lưu này: ">
+
+<!ENTITY folderSelectionCaption.label "Chọn các thư mục để tìm trong: ">
+<!ENTITY chooseFoldersButton.label "Chọn…">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Tìm Trực Tuyến (các thư mục IMAP và Tin tức có kết quả hiện đại nhưng mở chậm hơn)">
+<!ENTITY searchOnline.accesskey "T">

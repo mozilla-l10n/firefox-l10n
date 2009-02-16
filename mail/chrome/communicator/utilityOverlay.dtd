@@ -1,0 +1,59 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Tập tin">
+<!ENTITY fileMenu.accesskey        "T">
+<!ENTITY newMenu.label            "Mới">
+<!ENTITY newMenu.accesskey          "M">
+
+<!ENTITY editMenu.label          "Chỉnh sửa">
+<!ENTITY editMenu.accesskey        "C">
+<!ENTITY undoCmd.label            "Hoàn tác">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "H">
+<!ENTITY redoCmd.label            "Làm lại">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "L">
+<!ENTITY cutCmd.label            "Cắt">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label            "Chép">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label            "Dán">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "D">
+<!ENTITY deleteCmd.label          "Xóa">
+<!ENTITY deleteCmd.accesskey        "X">
+<!ENTITY selectAllCmd.label          "Chọn Toàn Bộ">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "B">
+<!ENTITY preferencesCmd.label        "Tùy chọn…">
+<!ENTITY preferencesCmd.accesskey      "y">
+<!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">
+<!ENTITY preferencesCmdUnix.accesskey     "y">
+
+<!ENTITY viewMenu.label          "Hiển thị">
+<!ENTITY viewMenu.accesskey        "H">
+<!ENTITY viewToolbarsMenu.label        "Thanh Công Cụ">
+<!ENTITY viewToolbarsMenu.accesskey      "h">
+<!ENTITY showTaskbarCmd.label          "Thanh Trạng Thái">
+<!ENTITY showTaskbarCmd.accesskey        "a">
+
+<!ENTITY proxy.label                                    "Cấu hình Proxy…">
+<!ENTITY proxy.accesskey                                "y">
+
+<!ENTITY closeCmd.label      "Đóng">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "g">
+
+<!ENTITY quitApplicationCmd.label  "Thoát">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "o">
+
+<!ENTITY quitApplicationCmdUnix.label  "Thoát">
+<!ENTITY quitApplicationCmdUnix.accesskey  "o">
+
+<!ENTITY quitApplicationCmdMac.label  "Thoát &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "o">

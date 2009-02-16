@@ -1,0 +1,7 @@
+<!ENTITY window.title "Tùy biến Đầu đề">
+<!ENTITY addButton.label "Thêm">
+<!ENTITY addButton.accesskey "T">
+<!ENTITY removeButton.label "Xóa">
+<!ENTITY removeButton.accesskey "X">
+<!ENTITY newMsgHeader.label "Đầu đề thư mới:">
+<!ENTITY newMsgHeader.accesskey "h">

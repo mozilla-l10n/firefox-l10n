@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Tạo Thẻ Tag Mới">
+<!ENTITY name.label              "Tên Tag:">
+<!ENTITY name.accesskey          "T">

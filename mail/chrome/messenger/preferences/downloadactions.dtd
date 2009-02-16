@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "Thao tác Tải xuống">
+<!ENTITY  window.width                         "480">
+<!ENTITY  window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "Tự động thực hiện Thao tác được gán cho mỗi kiểu tập tin sau đây:">
+
+<!ENTITY  fileHandlerColumn.label             "Thao tác">
+<!ENTITY  fileHandlerColumn.accesskey         "a">
+<!ENTITY  fileTypeColumn.label                "Kiểu Tập Tin">
+<!ENTITY  fileTypeColumn.accesskey            "K">
+<!ENTITY  fileMIMETypeColumn.label            "Loại MIME">
+<!ENTITY  fileMIMETypeColumn.accesskey        "L">
+<!ENTITY  fileExtensionColumn.label           "Phần mở rộng">
+<!ENTITY  fileExtensionColumn.accesskey       "P">
+
+<!ENTITY  remove.label                        "Xóa Thao Tác">
+<!ENTITY  remove.accesskey                    "X">
+<!ENTITY  edit.label                          "Thay đổi Thao tác…">
+<!ENTITY  edit.accesskey                      "c">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "Tìm kiếm:">
+<!ENTITY  filter.accesskey                    "m">
+<!ENTITY  clear.label                         "Xóa trắng">
+<!ENTITY  clear.accesskey                     "r">
+
+<!ENTITY  button.close.label                  "Đóng">
+<!ENTITY  button.close.accesskey              "g">
+
