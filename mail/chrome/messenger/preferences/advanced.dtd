@@ -45,7 +45,7 @@
 <!ENTITY enableAddonsUpdate.accesskey     "t">
 <!ENTITY checkNow.label                   "Kontrolli nüüd...">
 <!ENTITY whenUpdatesFound.label           "Kui &brandShortName;ile leitakse uuendusi:">
-<!ENTITY modeAskMe.label                  "küsitake, mida teha">
+<!ENTITY modeAskMe.label                  "küsitakse, mida teha">
 <!ENTITY modeAskMe.accesskey              "k">
 <!ENTITY modeAutomatic.label              "uuendused laaditakse automaatselt alla ja paigaldatakse">
 <!ENTITY modeAutomatic.accesskey          "t">
