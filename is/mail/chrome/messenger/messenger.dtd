@@ -270,7 +270,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Stjörnumerktur póstur">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
-<!ENTITY nextUnreadThread.label "Ólesna umræða">
+<!ENTITY nextUnreadThread.label "Ólesin umræða">
 <!ENTITY nextUnreadThread.accesskey "A">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Fyrri">

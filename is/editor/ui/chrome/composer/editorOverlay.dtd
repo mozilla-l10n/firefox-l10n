@@ -268,7 +268,7 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Heimilisfang">
 <!ENTITY paragraphAddressCmd.accesskey "A">
-<!ENTITY paragraphPreformatCmd.label "Forsníða">
+<!ENTITY paragraphPreformatCmd.label "Forsniðið">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Listi">

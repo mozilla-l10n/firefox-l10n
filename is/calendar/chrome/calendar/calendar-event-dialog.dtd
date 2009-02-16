@@ -209,7 +209,7 @@
 <!ENTITY event.reminder.2hours.before.label "2 klukkustundum fyrir">
 <!ENTITY event.reminder.5hours.before.label "5 klukkustundum fyrir">
 <!ENTITY event.reminder.15hours.before.label "15 klukkustundum fyrir">
-<!ENTITY event.reminder.1day.before.label "1 dag fyrir">
+<!ENTITY event.reminder.1day.before.label "1 degi fyrir">
 <!ENTITY event.reminder.2days.before.label "2 dögum fyrir">
 <!ENTITY event.reminder.1week.before.label "1 viku fyrir">
 <!ENTITY event.reminder.custom.label "Sérsniðið…">
@@ -234,17 +234,17 @@
 <!ENTITY repeat.units.days.both "Dag(a)">
 <!ENTITY event.recurrence.pattern.every.weekday.label "Alla virka daga">
 <!ENTITY event.recurrence.pattern.weekly.every.label "Hverja">
-<!ENTITY repeat.units.weeks.both "Viku(r)">
+<!ENTITY repeat.units.weeks.both "Viku">
 <!ENTITY event.recurrence.on.label "Á:">
-<!ENTITY event.recurrence.pattern.monthly.every.label "Hverja">
-<!ENTITY repeat.units.months.both "Mánuður(ir)">
+<!ENTITY event.recurrence.pattern.monthly.every.label "Hvern">
+<!ENTITY repeat.units.months.both "Mánuður">
 <!ENTITY event.recurrence.monthly.every.label "Hverja">
 <!ENTITY event.recurrence.monthly.first.label "Fyrsti">
 <!ENTITY event.recurrence.monthly.second.label "Annar">
 <!ENTITY event.recurrence.monthly.third.label "Þriðji">
-<!ENTITY event.recurrence.monthly.fourth.label "Fjórða">
-<!ENTITY event.recurrence.monthly.fifth.label "Fimmta">
-<!ENTITY event.recurrence.monthly.last.label "Seinasta">
+<!ENTITY event.recurrence.monthly.fourth.label "Fjórði">
+<!ENTITY event.recurrence.monthly.fifth.label "Fimmti">
+<!ENTITY event.recurrence.monthly.last.label "Seinasti">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label "Sunnudagur">
 <!ENTITY event.recurrence.pattern.monthly.week.2.label "Mánudagur">
 <!ENTITY event.recurrence.pattern.monthly.week.3.label "Þriðjudagur">
@@ -253,8 +253,8 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label "Föstudagur">
 <!ENTITY event.recurrence.pattern.monthly.week.7.label "Laugardagur">
 <!ENTITY event.recurrence.repeat.dayofmonth.label "Dags mánaðar">
-<!ENTITY event.recurrence.repeat.recur.label "Endurtaka á hverjum degi">
-<!ENTITY event.recurrence.every.label "Hverja:">
+<!ENTITY event.recurrence.repeat.recur.label "Endurtaka á dögum">
+<!ENTITY event.recurrence.every.label "Hvert:">
 <!ENTITY repeat.units.years.both "Ár">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Hvern">
 <!-- LOCALIZATON NOTE
@@ -277,7 +277,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label "Október">
 <!ENTITY event.recurrence.pattern.yearly.month.11.label "Nóvember">
 <!ENTITY event.recurrence.pattern.yearly.month.12.label "Desember">
-<!ENTITY event.recurrence.yearly.every.label "Hverja">
+<!ENTITY event.recurrence.yearly.every.label "Hvern">
 <!ENTITY event.recurrence.yearly.first.label "Fyrsta">
 <!ENTITY event.recurrence.yearly.second.label "Annar">
 <!ENTITY event.recurrence.yearly.third.label "Þriðja">
@@ -285,12 +285,12 @@
 <!ENTITY event.recurrence.yearly.fifth.label "Fimmta">
 <!ENTITY event.recurrence.yearly.last.label "Seinasta">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label "Sunnudag">
-<!ENTITY event.recurrence.pattern.yearly.week.2.label "Mánudagur">
-<!ENTITY event.recurrence.pattern.yearly.week.3.label "Þriðjudagur">
-<!ENTITY event.recurrence.pattern.yearly.week.4.label "Miðvikudagur">
-<!ENTITY event.recurrence.pattern.yearly.week.5.label "Fimmtudagur">
-<!ENTITY event.recurrence.pattern.yearly.week.6.label "Föstudagur">
-<!ENTITY event.recurrence.pattern.yearly.week.7.label "Laugardagur">
+<!ENTITY event.recurrence.pattern.yearly.week.2.label "Mánudag">
+<!ENTITY event.recurrence.pattern.yearly.week.3.label "Þriðjudag">
+<!ENTITY event.recurrence.pattern.yearly.week.4.label "Miðvikudag">
+<!ENTITY event.recurrence.pattern.yearly.week.5.label "Fimmtudag">
+<!ENTITY event.recurrence.pattern.yearly.week.6.label "Föstudag">
+<!ENTITY event.recurrence.pattern.yearly.week.7.label "Laugardag">
 <!ENTITY event.recurrence.of.label "í">
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label "Janúar">
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label "Febrúar">
