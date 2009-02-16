@@ -681,9 +681,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY preferencesCmdMac.modifiers                   "accel">
 <!ENTITY servicesMenuMac.label                         "Teenused">
 <!ENTITY hideThisAppCmdMac.label                       "Peida &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey                  "P">
+<!ENTITY hideThisAppCmdMac.commandkey                  "H">
 <!ENTITY hideThisAppCmdMac.modifiers                   "accel">
 <!ENTITY hideOtherAppsCmdMac.label                     "Peida teised">
-<!ENTITY hideOtherAppsCmdMac.commandkey                "e">
+<!ENTITY hideOtherAppsCmdMac.commandkey                "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                 "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                       "Näita kõiki">

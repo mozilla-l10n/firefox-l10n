@@ -172,9 +172,9 @@
 <!-- Mac OS X Application menu items -->
 <!ENTITY servicesMenuMac.label          "Teenused">
 <!ENTITY hideThisAppCmdMac.label        "Peida &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "P">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Peida ülejäänud">
-<!ENTITY hideOtherAppsCmdMac.commandkey "l">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Näita kõiki">
