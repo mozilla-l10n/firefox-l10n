@@ -10,7 +10,7 @@
 <!ENTITY reorderUpButton.label "Færa upp">
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "Færa niður">
-<!ENTITY reorderDownButton.accesskey "N">
+<!ENTITY reorderDownButton.accesskey "i">
 <!ENTITY filterHeader.label "Virkar síur eru keyrðar sjálfvirkt í þeirri röð sem er hér fyrir neðan.">
 <!ENTITY filtersForPrefix.label "Sía fyrir:">
 <!ENTITY filtersForPrefix.accesskey "F">

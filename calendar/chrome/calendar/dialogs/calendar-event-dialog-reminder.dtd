@@ -34,13 +34,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY reminderdialog.title "Setja upp áminningar">
+<!ENTITY reminderdialog.title "Búa til áminningar">
 <!ENTITY reminder.add.label "Bæta við">
 <!ENTITY reminder.add.accesskey "B">
 <!ENTITY reminder.remove.label "Fjarlægja">
 <!ENTITY reminder.remove.accesskey "F">
-<!ENTITY reminder.reminderDetails.label "Áminning upplýsingar">
-<!ENTITY reminder.action.label "Veldur áminningar aðgerð">
+<!ENTITY reminder.reminderDetails.label "Upplýsingar fyrir áminningu">
+<!ENTITY reminder.action.label "Veldu áminningu">
 <!ENTITY reminder.relation.before.label "fyrir">
 <!ENTITY reminder.relation.after.label "eftir">
 <!ENTITY reminder.action.alert.label "Sýna aðvörun">

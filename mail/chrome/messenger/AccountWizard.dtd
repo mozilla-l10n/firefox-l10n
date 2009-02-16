@@ -4,7 +4,7 @@
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Til þess að fá póst, verðurðu fyrst að búa til póstreikning eða reikning fyrir fréttahópa.">
+<!ENTITY accountSetupInfo.label "Til að taka á móti pósti, verðurðu fyrst að búa til póstreikning eða reikning fyrir fréttahópa.">
 <!ENTITY accountTypeTitle.label "Uppsetning á nýjum reikningi">
 <!ENTITY accountTypeDesc.label "Þessi gluggi hjálpar þér að safna saman þeim upplýsingum sem þarf til að búa til póst eða fréttareikning. Ef þú hefur ekki þær upplýsingar sem spurt er um, hafðu þá samband við kerfistjóra eða netþjónustuaðila.">
 <!ENTITY accountTypeDirections.label "Veldu þá tegund reiknings sem þú vilt búa til:">
