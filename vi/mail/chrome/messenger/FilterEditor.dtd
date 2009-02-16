@@ -1,0 +1,39 @@
+<!ENTITY window.title "Quy luật Bộ lọc">
+
+<!ENTITY filterName.label "Tên bộ lọc:">
+<!ENTITY filterName.accesskey "b">
+
+<!ENTITY junk.label "Thư rác">
+<!ENTITY notJunk.label "Không phải Thư rác">
+
+<!ENTITY lowestPriorityCmd.label "Thấp nhất">
+<!ENTITY lowPriorityCmd.label "Thấp">
+<!ENTITY normalPriorityCmd.label "Bình thường">
+<!ENTITY highPriorityCmd.label "Cao">
+<!ENTITY highestPriorityCmd.label "Cao nhất">
+
+<!ENTITY contextDesc.label "Áp dụng bộ lọc khi:">
+<!ENTITY contextDesc.accesskey "k">
+<!ENTITY contextIncoming.label "Kiểm tra Thư">
+<!ENTITY contextManual.label "Tự Chạy">
+<!ENTITY contextBoth.label "Kiểm tra Thư hoặc Tự Chạy">
+<!ENTITY filterActionDesc.label "Thực hiện các thao tác này:">
+<!ENTITY filterActionDesc.accesskey "T">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Di chuyển Thư tới">
+<!ENTITY copyMessage.label "Chép Thư tới">
+<!ENTITY forwardTo.label "Chuyển tiếp Thư tới">
+<!ENTITY replyWithTemplate.label "Trả lời bằng Thư mẫu">
+<!ENTITY markMessageRead.label "Đánh Dấu Đã Đọc">
+<!ENTITY markMessageStarred.label "Thêm Sao">
+<!ENTITY setPriority.label "Thiết lập Mức ưu tiên thành">
+<!ENTITY addTag.label "Dán tag cho Thư">
+<!ENTITY setJunkScore.label "Thiết lập Trạng thái Thư rác thành">
+<!ENTITY deleteMessage.label "Xóa Thư">
+<!ENTITY deleteFromPOP.label "Xóa trên Máy chủ POP">
+<!ENTITY fetchFromPOP.label "Lấy từ Máy chủ POP">
+<!ENTITY ignoreThread.label "Bỏ qua Chủ đề">
+<!ENTITY ignoreSubthread.label "Bỏ qua Chủ đề con">
+<!ENTITY watchThread.label "Theo dõi Chủ đề">
+<!ENTITY stopExecution.label "Ngừng Thực thi Bộ lọc">

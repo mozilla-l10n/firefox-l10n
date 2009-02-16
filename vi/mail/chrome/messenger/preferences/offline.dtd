@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title "Thiết lập Ngoại tuyến">
+
+<!ENTITY textStartUp "Khi khởi động:">
+<!ENTITY radioRememberPrevState.label "Ghi nhớ tình trạng trực tuyến trước đó">
+<!ENTITY radioRememberPrevState.accesskey "G">
+<!ENTITY radioAskMe.label "Hỏi tôi về tình trạng trực tuyến khi khởi động">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "Luôn khởi động trực tuyến">
+<!ENTITY radioAlwaysOnline.accesskey "L">
+
+<!ENTITY textGoingOnline "Gửi những thư chưa gửi khi vào mạng?">
+<!ENTITY radioAutoSend.label "Có">
+<!ENTITY radioAutoSend.accesskey "C">
+<!ENTITY radioNotSend.label "Không">
+<!ENTITY radioNotSend.accesskey "n">
+<!ENTITY radioAskUnsent.label "Hỏi tôi">
+<!ENTITY radioAskUnsent.accesskey "H">
+<!ENTITY textGoingOffline "Tải thư về để dùng ngoại tuyến khi rời mạng?">
+<!ENTITY radioAutoDownload.label "Có">
+<!ENTITY radioAutoDownload.accesskey "C">
+<!ENTITY radioNotDownload.label "Không">
+<!ENTITY radioNotDownload.accesskey "K">
+<!ENTITY radioAskDownload.label "Hỏi tôi">
+<!ENTITY radioAskDownload.accesskey "i">

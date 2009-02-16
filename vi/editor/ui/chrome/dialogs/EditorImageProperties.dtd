@@ -1,0 +1,110 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Thuộc tính Hình ảnh">
+
+<!ENTITY pixelsPopup.value "điểm ảnh">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Địa chỉ Hình ảnh:">
+<!ENTITY locationEditField.accessKey "a">
+<!ENTITY locationEditField.tooltip "Gõ vào tên hoặc vị trí của hình ảnh">
+<!ENTITY title.label "Ghi chú:">
+<!ENTITY title.accessKey "G">
+<!ENTITY title.tooltip "Thuộc tính 'title' html hiển thị dưới dạng ghi chú">
+<!ENTITY altText.label "Văn bản phụ:">
+<!ENTITY altText.accessKey "V">
+<!ENTITY altTextEditField.tooltip "Gõ văn bản hiển thị thay cho hình ảnh">
+<!ENTITY noAltText.label "Không dùng văn bản phụ">
+<!ENTITY noAltText.accessKey "h">
+
+<!ENTITY previewBox.label "Xem trước Hình ảnh">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Kích thước Thật:">
+<!ENTITY actualSizeRadio.label "Kích thước Thật">
+<!ENTITY actualSizeRadio.accessKey "K">
+<!ENTITY actualSizeRadio.tooltip "Chuyển ảnh về kích thước thật">
+<!ENTITY customSizeRadio.label "Kích thước Tùy biến">
+<!ENTITY customSizeRadio.accessKey "T">
+<!ENTITY customSizeRadio.tooltip "Thay đổi kích thước như đang hiển thị trên trang">
+<!ENTITY heightEditField.label "Cao:">
+<!ENTITY heightEditField.accessKey "C">
+<!ENTITY widthEditField.label "Rộng:">
+<!ENTITY widthEditField.accessKey "R">
+<!ENTITY constrainCheckbox.label "Giữ nguyên">
+<!ENTITY constrainCheckbox.accessKey "G">
+<!ENTITY constrainCheckbox.tooltip "Giữ nguyên tỉ lệ ảnh">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Bản đồ Hình ảnh">
+<!ENTITY removeImageMapButton.label "Xóa">
+<!ENTITY removeImageMapButton.accessKey "X">
+<!ENTITY editImageMapButton.label "Chỉnh sửa…">
+<!ENTITY editImageMapButton.tooltip "Tạo các hotspot có thể nhấn được cho hình ảnh này">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Căn Chữ theo Hình ảnh">
+<!ENTITY bottomPopup.value "Theo phần dưới">
+<!ENTITY topPopup.value "Theo phần trên">
+<!ENTITY centerPopup.value "Ở giữa">
+<!ENTITY wrapRightPopup.value "Bao lại ở bên phải">
+<!ENTITY wrapLeftPopup.value "Bao lại ở bên trái">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Khoảng cách">
+<!ENTITY leftRightEditField.label "Trái và Phải:">
+<!ENTITY leftRightEditField.accessKey "T">
+<!ENTITY topBottomEditField.label "Trên và Dưới:">
+<!ENTITY topBottomEditField.accessKey "D">
+<!ENTITY borderEditField.label "Đường viền rắn:">
+<!ENTITY borderEditField.accessKey "V">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Hiện viền xung quanh ảnh liên kết">
+<!ENTITY showImageLinkBorder.accessKey "H">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Biểu mẫu">
+<!ENTITY imageLocationTab.label "Địa chỉ">
+<!ENTITY imageDimensionsTab.label "Chiều">
+<!ENTITY imageAppearanceTab.label "Hiện diện">
+<!ENTITY imageLinkTab.label "Liên kết">

@@ -1,0 +1,94 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY toField2.label "tới ">
+<!ENTITY fromField2.label "từ ">
+<!ENTITY senderField2.label "người-gửi ">
+<!ENTITY organizationField2.label "tổ-chức ">
+<!ENTITY replyToField2.label "trả-lời-tới ">
+
+<!ENTITY subjectField2.label "tiêu đề ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "nhóm-tin ">
+<!ENTITY followupToField2.label "theo-sau-tới ">
+<!ENTITY tagsHdr2.label "thẻ-tag ">
+<!ENTITY dateField2.label "ngày ">
+<!ENTITY userAgentField2.label "đại-diện-người-dùng ">
+<!ENTITY referencesField2.label "nơi-trỏ-tới ">
+<!ENTITY messageIdField2.label "id-thư ">
+<!ENTITY inReplyToField2.label "để-trả-lời-tới ">
+<!ENTITY originalWebsite2.label "trang-web ">
+
+<!ENTITY editMessageDescription.label "Đây là một thư nháp">
+<!ENTITY editMessageButton.label "Chỉnh sửa…">
+<!ENTITY archiveButton.label "lưu trữ">
+<!ENTITY hdrReplyButton.label "trả lời">
+<!ENTITY hdrReplyAllButton.label "trả lời tất cả">
+<!ENTITY hdrForwardButton.label "chuyển tiếp">
+<!ENTITY hdrJunkButton.label "thư rác">
+<!ENTITY trashButton.tooltiptext "xóa">
+
+<!ENTITY otherActionsButton.label "thao tác khác">
+<!ENTITY saveAsMenuItem.label "lưu thành…">
+<!ENTITY saveAsMenuItem.accesskey "l">
+<!ENTITY viewSourceMenuItem.label "xem mã nguồn…">
+<!ENTITY viewSourceMenuItem.accesskey "x">
+
+<!ENTITY hideDetailsButton.label "ẩn chi tiết">
+<!ENTITY showDetailsButton.label "hiện chi tiết">
+
+<!ENTITY openAttachmentCmd.label    "Mở">
+<!ENTITY openAttachmentCmd.accesskey    "M">
+<!ENTITY saveAsAttachmentCmd.label    "Lưu Thành…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "L">
+<!ENTITY detachAttachmentCmd.label    "Tách rời…">
+<!ENTITY deleteAttachmentCmd.label    "Xóa">
+<!ENTITY saveAllAttachmentsCmd.label    "Lưu Toàn Bộ…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "L">
+<!ENTITY detachAllAttachmentsCmd.label    "Tách rời Toàn bộ…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "b">
+<!ENTITY deleteAllAttachmentsCmd.label    "Xóa Toàn Bộ…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "B">
+
+<!ENTITY copyLinkCmd.label        "Chép Địa Chỉ Liên Kết">
+<!ENTITY copyLinkCmd.accesskey    "a">
+
+<!ENTITY CopyMessageId.label "Chép ID-Thư">
+<!ENTITY OpenMessageForMsgId.label "Mở Thư Để Đọc ID">
+<!ENTITY OpenBrowserWithMsgId.label "Mở Trình Duyệt Với ID-Thư">

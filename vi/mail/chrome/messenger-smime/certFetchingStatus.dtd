@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Đang tải Chứng thư ">
+<!ENTITY info.message "Đang tìm chứng thư của người nhận trong thư mục. Có thể sẽ mất vài phút.">
+<!ENTITY stop.label "Dừng tìm kiếm">

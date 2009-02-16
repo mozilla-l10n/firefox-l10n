@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Tùy biến Thông báo Thư Mới">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Chọn các trường muốn hiện trong thông báo:">
+<!ENTITY previewText.label                "Văn bản Xem trước Thư">
+<!ENTITY previewText.accesskey            "m">
+<!ENTITY subject.label                    "Tiêu đề">
+<!ENTITY subject.accesskey                "T">
+<!ENTITY sender.label                     "Người gửi">
+<!ENTITY sender.accesskey                 "N">
+

@@ -1,0 +1,10 @@
+<!ENTITY aboutDialog.title      "Thông tin về &brandFullName;">
+<!ENTITY credits.label          "Công trạng">
+<!ENTITY credits.accesskey      "C">
+<!ENTITY aboutLink.label        "&lt; Thông tin về &brandFullName;">
+<!ENTITY aboutLink.accesskey    "v">
+<!ENTITY aboutVersion           "phiên bản">
+<!ENTITY copyrightText          "&#169;1998-2009 Những người đóng góp. Mọi Quyền Được Bảo Lưu. Mozilla Thunderbird và 
+                                 biểu trưng Thunderbird là thương hiệu của Quỹ Mozilla.  Mọi quyền 
+                                 được bảo lưu.">
+<!ENTITY cmdCloseMac.commandKey "w">

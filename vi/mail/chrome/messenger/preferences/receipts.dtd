@@ -1,0 +1,22 @@
+<!ENTITY dialog.title                  "Chứng nhận Hồi báo">
+<!ENTITY requestReceipt.label          "Khi gửi thư, luôn luôn yêu cầu chứng chận hồi báo">
+<!ENTITY requestReceipt.accesskey      "K">
+<!ENTITY receiptArrive.label           "Khi một chứng nhận đến:">
+<!ENTITY leaveIt.label                 "Để nó trong Hộp thư của tôi">
+<!ENTITY leaveIt.accesskey             "H">
+<!ENTITY moveToSent.label              "Chuyển nó vào thư mục &quot;Đã gửi&quot;">
+<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY requestMDN.label              "Khi tôi nhận được một yêu cầu chứng nhận hồi báo:">
+<!ENTITY never.label                   "Không bao giờ gửi chứng nhận hồi báo">
+<!ENTITY never.accesskey               "a">
+<!ENTITY returnSome.label              "Cho phép chứng nhận hồi báo đối với một số loại thư">
+<!ENTITY returnSome.accesskey          "C">
+<!ENTITY notInToCc.label               "Nếu tôi không nằm trong trường Tới hoặc Cc của thư:">
+<!ENTITY notInToCc.accesskey           "N">
+<!ENTITY outsideDomain.label           "Nếu người gửi nằm ngoài tên miền của tôi:">
+<!ENTITY outsideDomain.accesskey       "t">
+<!ENTITY otherCases.label              "Trong mọi trường hợp khác:">
+<!ENTITY otherCases.accesskey          "o">
+<!ENTITY askMe.label                   "Hỏi tôi">
+<!ENTITY alwaysSend.label              "Luôn gửi">
+<!ENTITY neverSend.label               "Không bao giờ gửi">

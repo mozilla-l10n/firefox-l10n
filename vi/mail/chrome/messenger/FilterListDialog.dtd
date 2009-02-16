@@ -1,0 +1,29 @@
+<!ENTITY window.title "Bộ lọc Thư">
+<!ENTITY nameColumn.label "Tên Bộ Lọc">
+<!ENTITY activeColumn.label "Kích hoạt">
+<!ENTITY newButton.label "Mới…">
+<!ENTITY newButton.accesskey "M">
+<!ENTITY editButton.label "Chỉnh sửa…">
+<!ENTITY editButton.accesskey "C">
+<!ENTITY deleteButton.label "Xóa">
+<!ENTITY deleteButton.accesskey "a">
+<!ENTITY reorderUpButton.label "Chuyển Lên">
+<!ENTITY reorderUpButton.accesskey "L">
+<!ENTITY reorderDownButton.label "Chuyển Xuống">
+<!ENTITY reorderDownButton.accesskey "X">
+<!ENTITY filterHeader.label "Các bộ lọc đã kích hoạt sẽ được chạy tự động theo thứ tự bên dưới.">
+<!ENTITY filtersForPrefix.label "Bộ lọc cho:">
+<!ENTITY filtersForPrefix.accesskey "B">
+<!ENTITY viewLogButton.label "Lưu kí Bộ lọc">
+<!ENTITY viewLogButton.accesskey "u">
+<!ENTITY runFilters.label "Chạy Ngay">
+<!ENTITY runFilters.accesskey "N">
+<!ENTITY stopFilters.label "Dừng">
+<!ENTITY stopFilters.accesskey "D">
+<!ENTITY folderPickerPrefix.label "Chạy các bộ lọc đã chọn cho:">
+<!ENTITY folderPickerPrefix.accesskey "o">
+<!ENTITY choosethis.label "chọn thư mục này">
+<!ENTITY choosethisnewsserver.label "chọn máy chủ tin này">
+<!ENTITY helpButton.label "Trợ giúp">
+<!ENTITY helpButton.accesskey "T">
+<!ENTITY closeCmd.key "W"> 

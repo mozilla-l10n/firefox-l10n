@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Thiết lập Thư rác">
+<!ENTITY trainingWarning.label "Nếu kích hoạt, đầu tiên bạn phải luyện cho &brandShortName; nhận dạng thư rác bằng cách dùng nút thanh công cụ Thư rác để đánh dấu các thư rác. Bạn cũng cần chỉ rõ đâu là thư rác và đâu là thư bình thường.">
+<!ENTITY level.label "Kích hoạt nút điều khiển thư rác tích hợp cho tài khoản này">
+<!ENTITY level.accesskey "K">
+
+<!ENTITY move.label "Chuyển thư rác mới vào:">
+<!ENTITY move.accesskey "C">
+<!ENTITY junkFolderOn.label "Thư mục &quot;Thư rác&quot; trên:">
+<!ENTITY junkFolderOn.accesskey "r">
+<!ENTITY otherFolder.label "Khác:">
+<!ENTITY otherFolder.accesskey "h">
+<!ENTITY purge1.label "Tự động xóa thư rác sau">
+<!ENTITY purge1.accesskey "a">
+<!ENTITY purge2.label "ngày">
+
+<!ENTITY whitelist.label "Không đánh dấu là thư rác nếu người gửi nằm trong: ">
+<!ENTITY whitelist.accesskey "n">
+
+<!ENTITY ispHeaders.label "Tin tưởng bộ lọc đầu đề thư rác của: ">
+<!ENTITY ispHeaders.accesskey "b">

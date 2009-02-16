@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Lưu kí Thư rác">
+<!ENTITY junkLogInfo.label "Lưu kí của hoạt động kiểm soát thư rác.">
+<!ENTITY clearLog.label "Xóa Lưu Kí">
+<!ENTITY clearLog.accesskey "X">
+<!ENTITY closeLog.label "Đóng">
+<!ENTITY closeLog.accesskey "g">

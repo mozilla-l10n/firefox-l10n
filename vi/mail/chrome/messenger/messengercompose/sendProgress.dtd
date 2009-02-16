@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "Đang gửi Thư"> 
+<!ENTITY status.label "Trạng thái:">
+<!ENTITY progress.label "Tiến trình:">

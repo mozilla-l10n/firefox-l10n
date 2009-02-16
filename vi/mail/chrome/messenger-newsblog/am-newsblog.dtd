@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "Thiết lập Tài khoản RSS">
+
+<!ENTITY biffStart.label "Kiểm tra bài viết mới mỗi ">
+<!ENTITY biffStart.accesskey "i">
+<!ENTITY biffEnd.label "phút">
+
+<!ENTITY loginAtStartup.label "Kiểm tra bài viết mới khi khởi động"> 
+<!ENTITY loginAtStartup.accesskey "r">
+
+<!ENTITY useQuickMode.label "Mặc định, hiện tóm tắt bài viết thay vì tải cả trang web"> 
+<!ENTITY useQuickMode.accesskey "M">
+
+<!ENTITY manageSubscriptions.label "Quản lí Đăng kí nhận tin…"> 
+<!ENTITY manageSubscriptions.accesskey "Q">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "Tin tức &amp; Blog">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS Tin tức &amp; Blog">
+<!ENTITY rss.wizardLongName.accesskey "R">

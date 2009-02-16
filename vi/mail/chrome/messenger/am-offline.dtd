@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Để tiết kiệm dung lượng đĩa, không tải:">
+<!ENTITY doNotDownload.label "Để tiết kiệm dung lượng đĩa, không tải xuống để dùng ngoại tuyến:">
+<!ENTITY allFoldersOffline.label "Giữ thư cho tài khoản trên máy tính này">
+<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY offlineNotDownload.label "Thư lớn hơn">
+<!ENTITY offlineNotDownload.accesskey "l">
+<!ENTITY kb.label "KB">
+<!ENTITY daysOld.label "ngày">
+<!ENTITY message.label "thư mới nhất">
+<!ENTITY nntpNotDownloadRead.label "Thư đã đọc">
+<!ENTITY nntpNotDownloadRead.accesskey "h">
+<!ENTITY nntpDownloadMsg.label "Thư cũ hơn">
+<!ENTITY nntpDownloadMsg.accesskey "c">
+<!ENTITY retentionCleanup.label "Để khôi phục dung lượng đĩa, thư cũ sẽ bị xóa.">
+<!ENTITY retentionCleanupImap.label "Để khôi phục dung lượng đĩa, thư cũ có thể bị xóa vĩnh viễn, cả bản sao trong máy lẫn bản gốc trên máy chủ.">
+<!ENTITY retentionCleanupPop.label "Để khôi phục dung lượng đĩa, thư cũ có thể bị xóa vĩnh viễn, bao gồm cả bản gốc trên máy chủ.">
+<!ENTITY retentionKeepMsg.label "Xóa thư cũ hơn">
+<!ENTITY retentionKeepMsg.accesskey "a">
+<!ENTITY retentionKeepAll.label "Không xóa bất kì thư nào">
+<!ENTITY retentionKeepAll.accesskey "K">
+<!ENTITY retentionKeepNew.label "Xóa tất cả ngoại trừ">
+<!ENTITY retentionKeepNew.accesskey "r">
+<!ENTITY retentionKeepUnread.label "Luôn luôn xóa thư đã đọc">
+<!ENTITY retentionKeepUnread.accesskey "u">
+<!ENTITY retentionApplyToFlagged.label "Luôn luôn giữ lại thư gắn sao">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
+<!ENTITY nntpRemoveBody.label "Chỉ đối với các nội dung thư ít hơn">
+<!ENTITY nntpRemoveBody.accesskey "v">
+<!ENTITY offlineSelectNntp.label "Chọn nhóm tin để dùng ngoại tuyến…">
+<!ENTITY offlineSelectNntp.accesskey "m">
+<!ENTITY offlineImapAdvancedOffline.label "Nâng cao…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "N">
+<!ENTITY syncGroupTitle.label "Đồng bộ hóa Thư">
+<!ENTITY diskspaceGroupTitle.label "Dung lượng Đĩa">

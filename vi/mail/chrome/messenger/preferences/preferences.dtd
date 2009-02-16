@@ -1,0 +1,13 @@
+
+<!ENTITY  prefWindow.titleWin     "Tùy chọn">
+<!ENTITY  prefWindow.titleGNOME   "Tùy chọn &brandShortName;">
+<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title        "Tổng quát">
+<!ENTITY paneDisplay.title        "Hiển thị">
+<!ENTITY paneComposition.title    "Soạn thảo">
+<!ENTITY paneAttachments.title    "Đính kèm">
+<!ENTITY panePrivacy.title        "Riêng tư">
+<!ENTITY paneAdvanced.title       "Nâng cao">

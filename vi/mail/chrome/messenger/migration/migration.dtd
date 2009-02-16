@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "Trình thuật sĩ Nhập">
+
+<!ENTITY importFromWin.label            "Nhập Tùy chọn, Thiết lập Tài khoản, Sổ địa chỉ, Bộ lọc và các dữ liệu khác từ:">
+<!ENTITY importFromNonWin.label         "Nhập Tùy chỉnh, Thiết lập Tài khoản, Sổ địa chỉ, Bộ lọc và các dữ liệu khác từ:">
+
+<!ENTITY importFromNothing.label        "Không nhập gì cả">
+<!ENTITY importFromNothing.accesskey    "K">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x hoặc SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "S">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Nhập Thiết lập và Thư mục Thư">
+<!ENTITY importItems.title              "Các mục cần Nhập">
+<!ENTITY importItems.label              "Chọn các mục để nhập:">
+
+<!ENTITY migrating.title                "Đang nhập…">
+<!ENTITY migrating.label                "Các mục sau đang được nhập…">
+
+<!ENTITY selectProfile.title            "Chọn Hồ Sơ">
+<!ENTITY selectProfile.label            "Các hồ sơ có thể nhập được từ:">
+
+<!ENTITY done.title                     "Nhập Xong">
+<!ENTITY done.label                     "Các mục sau đã được nhập thành công:">

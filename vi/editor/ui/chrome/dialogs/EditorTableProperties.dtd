@@ -1,0 +1,108 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title                "Thuộc tính Bảng">
+<!ENTITY applyButton.label                "Áp dụng">
+<!ENTITY applyButton.accesskey            "d">
+<!ENTITY closeButton.label                "Đóng">
+<!ENTITY tableTab.label                   "Bảng">
+<!ENTITY cellTab.label                    "Ô">
+<!ENTITY tableRows.label                  "Hàng:">
+<!ENTITY tableRows.accessKey              "H">
+<!ENTITY tableColumns.label               "Cột:">
+<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableHeight.label                "Cao:">
+<!ENTITY tableHeight.accessKey            "a">
+<!ENTITY tableWidth.label                 "Rộng:">
+<!ENTITY tableWidth.accessKey             "R">
+<!ENTITY tableBorderSpacing.label         "Viền và Khoảng trống">
+<!ENTITY tableBorderWidth.label           "Viền:">
+<!ENTITY tableBorderWidth.accessKey       "V">
+<!ENTITY tableSpacing.label               "Khoảng trống:">
+<!ENTITY tableSpacing.accessKey           "K">
+<!ENTITY tablePadding.label               "Khoảng đệm:">
+<!ENTITY tablePadding.accessKey           "o">
+<!ENTITY tablePxBetwCells.label           "điểm ảnh giữa các ô">
+<!ENTITY tablePxBetwBrdrCellContent.label "điểm ảnh giữa viền ô và nội dung">
+<!ENTITY tableAlignment.label             "Canh chỉnh Bảng:">
+<!ENTITY tableAlignment.accessKey         "B">
+<!ENTITY tableCaption.label               "Tiêu đề:">
+<!ENTITY tableCaption.accessKey           "u">
+<!ENTITY tableCaptionAbove.label          "Trên Bảng">
+<!ENTITY tableCaptionBelow.label          "Dưới Bảng">
+<!ENTITY tableCaptionLeft.label           "Bên trái Bảng">
+<!ENTITY tableCaptionRight.label          "Bên phải Bảng">
+<!ENTITY tableCaptionNone.label           "Không có">
+<!ENTITY tableInheritColor.label           "(Để cho màu trang hiện xuyên suốt)">
+
+<!ENTITY cellSelection.label              "Phần được chọn">
+<!ENTITY cellSelectCell.label             "Các Ô">
+<!ENTITY cellSelectRow.label              "Hàng">
+<!ENTITY cellSelectColumn.label           "Cột">
+<!ENTITY cellSelectNext.label             "Tiếp">
+<!ENTITY cellSelectNext.accessKey         "i">
+<!ENTITY cellSelectPrevious.label         "Trước">
+<!ENTITY cellSelectPrevious.accessKey     "r">
+<!ENTITY applyBeforeChange.label          "Thay đổi hiện tại sẽ được áp dụng sau khi thay đổi phần được chọn.">
+<!ENTITY cellContentAlignment.label       "Canh chỉnh Nội dung">
+<!ENTITY cellHorizontal.label             "Ngang:">
+<!ENTITY cellHorizontal.accessKey         "B">
+<!ENTITY cellVertical.label               "Dọc:">
+<!ENTITY cellVertical.accessKey           "D">
+<!ENTITY cellStyle.label                  "Kiểu Ô:">
+<!ENTITY cellStyle.accessKey              "K">
+<!ENTITY cellNormal.label                 "Bình thường">
+<!ENTITY cellHeader.label                 "Đầu đề">
+<!ENTITY cellTextWrap.label               "Bao Chữ:">
+<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellWrap.label                   "Bẻ dòng">
+<!ENTITY cellNoWrap.label                 "Không bẻ">
+<!ENTITY cellAlignTop.label               "Trên cùng">
+<!ENTITY cellAlignMiddle.label            "Giữa">
+<!ENTITY cellAlignBottom.label            "Dưới cùng">
+<!ENTITY cellAlignJustify.label           "Hai Bên">
+<!ENTITY cellInheritColor.label           "(Để màu bảng hiện xuyên suốt)">
+<!ENTITY cellUseCheckboxHelp.label        "Sử dụng hộp kiểm để xác định thuộc tính nào sẽ được áp dụng cho tất cả các ô được chọn">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Kích thước">
+<!ENTITY pixels.label                     "điểm ảnh">
+<!ENTITY backgroundColor.label            "Màu Nền:">
+<!ENTITY backgroundColor.accessKey        "M">
+<!ENTITY AlignLeft.label                  "Trái">
+<!ENTITY AlignCenter.label                "Giữa">
+<!ENTITY AlignRight.label                 "Phải">

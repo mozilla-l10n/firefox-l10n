@@ -1,0 +1,15 @@
+<!ENTITY askOnSave.label              "Thư mục Phần đính kèm">
+<!ENTITY alwaysAsk.label              "Hỏi tôi nơi lưu mỗi tập tin">
+<!ENTITY alwaysAsk.accesskey          "H">
+<!ENTITY neverAsk.label               "Lưu tất cả tập tin đính kèm vào thư mục này:">
+<!ENTITY neverAsk.accesskey           "L">
+<!ENTITY chooseFolderWin.label        "Duyệt…">
+<!ENTITY chooseFolderWin.accesskey    "D">
+<!ENTITY chooseFolderMac.label        "Chọn…">
+<!ENTITY chooseFolderMac.accesskey    "C">
+
+
+<!ENTITY fileTypes.label              "Thao tác Tải xuống">
+<!ENTITY configureActions.label       "Xem &amp; Chỉnh sửa Thao tác…">
+<!ENTITY configureActions.accesskey   "X">
+<!ENTITY fileTypesDescription.label   "&brandShortName; có thể tự động lưu hoặc mở một số kiểu tập tin đính kèm.">

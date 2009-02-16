@@ -1,0 +1,21 @@
+<!ENTITY  changeAction.title                  "Thay đổi Thao tác">
+<!ENTITY  window.width                         "36em">
+
+<!ENTITY  whenDownloading.label               "Khi tải các tập tin thuộc kiểu này:">
+
+<!ENTITY  openDefault.label                   "Mở chúng bằng chương trình mặc định:">
+<!ENTITY  openDefault.accesskey               "M">
+<!ENTITY  openApplication.label               "Mở chúng bằng chương trình này:">
+<!ENTITY  openApplication.accesskey           "c">
+<!ENTITY  changeApp.label                     "Duyệt…">
+<!ENTITY  changeApp.accesskey                 "D">
+<!ENTITY  saveToDisk.label                    "Lưu chúng trên máy tính của tôi">
+<!ENTITY  saveToDisk.accesskey                "L">
+<!ENTITY  saveToDefaultFolder.label           "trong thư mục tải xuống mặc định">
+<!ENTITY  saveToDefaultFolder.accesskey       "x">
+<!ENTITY  saveToThisFolder.label              "trong thư mục này:">
+<!ENTITY  saveToThisFolder.accesskey          "y">
+<!ENTITY  chooseFolder.label                  "Duyệt…">
+<!ENTITY  chooseFolder.accesskey              "u">
+<!ENTITY  saveToAskMe.label                   "hỏi tôi nơi lưu tập tin">
+<!ENTITY  saveToAskMe.accesskey               "h">

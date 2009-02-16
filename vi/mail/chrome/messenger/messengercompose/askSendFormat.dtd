@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Câu hỏi Thư HTML">
+
+<!ENTITY recipient.label "Một số người nhận không được liệt kê là có khả năng nhận thư HTML.">
+
+<!ENTITY question.label "Bạn có muốn chuyển đổi thư thành dạng văn bản thuần hay vẫn gửi nó đi dưới dạng HTML?">
+
+<!ENTITY plainTextAndHtml.label "Gửi dạng Văn bản Thuần và HTML">
+<!ENTITY plainTextAndHtml.accesskey "d">
+<!ENTITY plainTextOnly.label "Chỉ gửi dạng Văn bản Thuần">
+<!ENTITY plainTextOnly.accesskey "V">
+<!ENTITY htmlOnly.label "Chỉ gửi dạng HTML">
+<!ENTITY htmlOnly.accesskey "H">
+
+<!ENTITY send.label "Gửi">
+<!ENTITY send.accesskey "G">

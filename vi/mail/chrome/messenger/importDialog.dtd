@@ -1,0 +1,87 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+"&brandShortName;" below.
+-->
+
+<!ENTITY importDialog.windowTitle "Nhập">
+<!ENTITY importAll.label          "Nhập Mọi Thứ">
+<!ENTITY importAll.accesskey      "M">
+<!ENTITY importMail.label         "Thư">
+<!ENTITY importMail.accesskey     "T">
+<!ENTITY importAddressbook.label  "Sổ Địa Chỉ">
+<!ENTITY importAddressbook.accesskey "a">
+<!ENTITY importSettings.label     "Thiết lập">
+<!ENTITY importSettings.accesskey "h">
+<!ENTITY importFilters.label      "Bộ lọc">
+<!ENTITY importFilters.accesskey  "B">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "Trình thuật sĩ Nhập &brandShortName;">
+<!ENTITY importShortDesc.label    "Nhập Thư, Sổ địa chỉ, Thiết lập và Bộ lọc từ chương trình khác">
+
+<!ENTITY importDescription1.label "Trình thuật sĩ này sẽ nhập thư, sổ địa chỉ, tùy chỉnh và/hoặc bộ lọc từ các chương trình gửi thư và các định dạng sổ địa chỉ phổ biến khác vào &brandShortName;.">
+<!ENTITY importDescription2.label "Khi chúng đã được nhập, bạn có thể truy cập chúng ngay trong &brandShortName;.">
+
+<!ENTITY selectDescription.label  "Vui lòng chọn kiểu tập tin mà bạn muốn nhập:">
+<!ENTITY selectDescription.accesskey "V">
+
+<!ENTITY back.label               "&lt; Lùi">
+<!ENTITY forward.label            "Tiến &gt;">
+<!ENTITY finish.label             "Hoàn thành">
+<!ENTITY cancel.label             "Hủy bỏ">
+
+<!ENTITY select.label             "hoặc chọn các mục muốn nhập:">
+
+<!ENTITY title.label              "Chức vụ">
+<!ENTITY processing.label         "Đang nhập…">
+
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x có một địa chỉ thư cho mỗi thẻ card, trong khi &brandShortName; lại có hai (Nhà và Công ty).">
+<!ENTITY FieldDiscInputText2.label  "Chọn phân mục mà bạn muốn lưu trữ các địa chỉ thư được nhập:">
+<!ENTITY FieldDiscWarning.label  "Phân mục này sẽ được dùng cho tất cả các mục của sổ địa chỉ đã chọn: ">
+<!ENTITY importHome.label        "Nhà">
+<!ENTITY importHome.accesskey    "N">
+<!ENTITY importWork.label        "Công ty">
+<!ENTITY importWork.accesskey    "C">
