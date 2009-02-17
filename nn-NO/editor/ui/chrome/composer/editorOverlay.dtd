@@ -68,7 +68,7 @@
 <!ENTITY publishCmd.accesskey "P">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publiser som …">
-<!ENTITY publishAsCmd.accesskey "s">
+<!ENTITY publishAsCmd.accesskey "o">
 <!ENTITY exportToTextCmd.label "Eksporter til tekst …">
 <!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY saveAsChangeEncodingCmd.label "Lagre og endre teiknkoding">
@@ -119,7 +119,7 @@
 <!ENTITY validateCmd.accesskey "K">
 
 <!-- Insert menu items -->
-<!ENTITY insertMenu.label "Sett inn">
+<!ENTITY insertMenu.label "Set inn">
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd.label "Lenkje …">
 <!ENTITY insertLinkCmd.accesskey "L">
@@ -349,7 +349,7 @@
 
 <!ENTITY tableSelectMenu2.label "Merk tabell">
 <!ENTITY tableSelectMenu2.accesskey "M">
-<!ENTITY tableInsertMenu2.label "Sett inn tabell">
+<!ENTITY tableInsertMenu2.label "Set inn tabell">
 <!ENTITY tableInsertMenu2.accesskey "S">
 <!ENTITY tableDeleteMenu2.label "Tabellsletting">
 <!ENTITY tableDeleteMenu2.accesskey "T">
