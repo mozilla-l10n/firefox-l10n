@@ -58,7 +58,7 @@
 <!ENTITY savePageAsCmd.label "Zapisz stronę jako…">
 <!ENTITY savePageCmd.label "Zapisz stronę">
 <!ENTITY savePageCmd.accesskey "a">
-<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameAsCmd.label "Zapisz ramkę jako…">
 <!ENTITY saveFrameCmd.label "Zapisz ramkę">
 <!ENTITY saveFrameCmd.accesskey "Z">

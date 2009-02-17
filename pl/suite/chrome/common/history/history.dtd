@@ -5,7 +5,7 @@
 <!ENTITY searchBar.tooltip "Pasek wyszukiwanie">
 
 <!ENTITY search.emptytext "Przeszukaj historię">
-<!ENTITY search.key "P">
+<!ENTITY search.key "f">
 <!ENTITY view.label "Porządkuj">
 
 <!ENTITY view.columns.label "Wyświetl kolumny">

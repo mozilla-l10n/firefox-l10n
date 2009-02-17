@@ -84,7 +84,7 @@
 
 <!ENTITY bidiSwitchTextDirectionItem.label "Zmień kierunek tekstu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "k">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "m">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
 <!ENTITY customizeToolbarContext.label "Dostosuj…">
 <!ENTITY customizeToolbarContext.accesskey "D">
