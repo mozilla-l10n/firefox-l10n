@@ -1,22 +1,22 @@
-<!ENTITY  colorsDialog.title              "色彩">
+<!ENTITY  colorsDialog.title              "Colors">
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "優先使用網頁指定的色彩">
+<!ENTITY  allowPagesToUse.label           "Allow pages to choose their own colors, instead of my selections above">
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
-<!ENTITY  color                           "文字與背景">
-<!ENTITY  textColor.label                 "文字:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "背景">
-<!ENTITY  backgroundColor.accesskey       "B">
-<!ENTITY  useSystemColors.label           "使用系統色彩">
+<!ENTITY  color                           "Text and Background">
+<!ENTITY  textColor.label                 "Text:">
+<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  backgroundColor.label           "Background:">
+<!ENTITY  backgroundColor.accesskey       "b">
+<!ENTITY  useSystemColors.label           "Use system colors">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "鏈結加底線">
-<!ENTITY  underlineLinks.accesskey        "U">
-<!ENTITY  links                           "鏈結色彩">
-<!ENTITY  linkColor.label                 "未拜訪鏈結">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "已拜訪鏈結">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  underlineLinks.label            "Underline links">
+<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  links                           "Link Colors">
+<!ENTITY  linkColor.label                 "Unvisited Links:">
+<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  visitedLinkColor.label          "Visited Links:">
+<!ENTITY  visitedLinkColor.accesskey      "v">

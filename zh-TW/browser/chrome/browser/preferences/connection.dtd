@@ -1,20 +1,20 @@
 
-<!ENTITY  connectionsDialog.title       "連線設定">
+<!ENTITY  connectionsDialog.title       "Connection Settings">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "設定存取網路的代理伺服器 (Proxy)">
-<!ENTITY  noProxyTypeRadio.label        "不使用 Proxy">
+<!ENTITY  proxyTitle.label              "Configure Proxies to Access the Internet">
+<!ENTITY  noProxyTypeRadio.label        "No proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "使用系統 Proxy 設定">
-<!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "自動偵測此網路的 Proxy 設定">
+<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "Auto-detect proxy settings for this network">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "手動設定 Proxy:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "Proxy 自動設定網址 (URL): (若造成無法連線請改用手動設定)">
+<!ENTITY  manualTypeRadio.label         "Manual proxy configuration:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
-<!ENTITY  reload.label                  "重新載入">
+<!ENTITY  reload.label                  "Reload">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP Proxy:">
 <!ENTITY  ftp.accesskey                 "F">
@@ -24,7 +24,7 @@
 <!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL Proxy:">
 <!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS 主機:">
+<!ENTITY  socks.label                   "SOCKS Host:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
@@ -37,8 +37,8 @@
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "直接連線:">
-<!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "範例: .mozilla.org, .net.tw, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "所有通訊協定都使用此 Proxy 代理伺服器">
+<!ENTITY  noproxy.label                 "No Proxy for:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Example: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
 <!ENTITY  shareproxy.accesskey          "s">

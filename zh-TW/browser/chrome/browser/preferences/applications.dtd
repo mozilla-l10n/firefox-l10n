@@ -1,10 +1,10 @@
-<!ENTITY  typeColumn.label        "檔案類型">
-<!ENTITY  typeColumn.accesskey    "t">
+<!ENTITY  typeColumn.label        "Content Type">
+<!ENTITY  typeColumn.accesskey    "T">
 
-<!ENTITY  actionColumn2.label     "動作">
+<!ENTITY  actionColumn2.label     "Action">
 <!ENTITY  actionColumn2.accesskey "A">
 
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.emptytext        "搜尋">
+<!ENTITY  filter.emptytext        "Search">

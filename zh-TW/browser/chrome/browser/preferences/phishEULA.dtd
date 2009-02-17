@@ -1,4 +1,4 @@
-<!ENTITY phishDlg.title  "詐騙防護服務條款">
+<!ENTITY phishDlg.title  "Phishing Protection Terms of Service">
 
 <!-- LOCALIZATION NOTE:
      The following entities contain sizing information for the phishing privacy
@@ -10,8 +10,8 @@
 <!ENTITY phishDlg.height      "40em">
 <!ENTITY phishDlg.width       "35em">
 
-<!ENTITY acceptToS.label      "我接受上述的詐騙防護服務條款">
-<!ENTITY declineToS.label     "我「不」接受上述的詐騙防護服務條款">
+<!ENTITY acceptToS.label      "I accept these Phishing Protection terms of service">
+<!ENTITY declineToS.label     "I do NOT accept these Phishing Protection terms of service">
 
-<!ENTITY accept.label         "接受並繼續">
-<!ENTITY cancel.label         "取消">
+<!ENTITY accept.label         "Accept and Continue">
+<!ENTITY cancel.label         "Cancel">
