@@ -91,7 +91,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "ਤੁਹਾਡਾ ਭੇਜਣ ਵਾਲਾ (SMTP) ਸਰਵਰ, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, ਤੁਹਾਡੇ ਆਉਣ ਵਾਲੇ ਸਰਵਰ ਦੇ ਨਾਲ ਮਿਲਦਾ ਹੈ ਹੈ, ਤੁਹਾਡਾ ਆਉਣ ਵਾਲਾ ਯੂਜ਼ਰ ਨਾਂ ਇਸ ਨੂੰ ਇਸਤੇਮਾਲ ਕਰਨ ਵਰਤਿਆ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਸੋਧ ਮੇਨੂ ਵਿੱਚੋਂ ਪੱਤਰ ਤੇ ਖ਼ਬਰ-ਸਮੂਹ ਅਕਾਊਂਟ ਸੈਟਿੰਗ ਦੀ ਚੋਣ ਕਰਕੇ ਭੇਜਣ ਵਾਲੀ ਸੈਟਿੰਗ ਸੋਧ ਸਕਦੇ ਹੋ।">
+<!ENTITY haveSmtp3.suffix "&quot;, ਤੁਹਾਡੇ ਆਉਣ ਵਾਲੇ ਸਰਵਰ ਦੇ ਨਾਲ ਮਿਲਦਾ ਹੈ ਹੈ, ਤੁਹਾਡਾ ਆਉਣ ਵਾਲਾ ਯੂਜ਼ਰ ਨਾਂ ਇਸ ਨੂੰ ਇਸਤੇਮਾਲ ਕਰਨ ਵਰਤਿਆ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਸੋਧ ਮੇਨੂ ਵਿੱਚੋਂ ਪੱਤਰ ਤੇ ਨਿਊਜ਼ਗਰੁੱਪ ਅਕਾਊਂਟ ਸੈਟਿੰਗ ਦੀ ਚੋਣ ਕਰਕੇ ਭੇਜਣ ਵਾਲੀ ਸੈਟਿੰਗ ਸੋਧ ਸਕਦੇ ਹੋ।">
 
 <!-- Entities for Account name page -->
 
@@ -115,5 +115,5 @@
 <!ENTITY deferStorage.label "ਗਲੋਬਲ Inbox (ਲੋਕਲ ਫੋਲਡਰ ਵਿੱਚ ਪੱਤਰ) ਵਰਤੋਂ">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "ਮੁਕੰਮਲ ਨੂੰ ਸੈਟਿੰਗ ਸੰਭਾਲਣ ਅਤੇ ਅਕਾਊਂਟ ਸਹਾਇਕ ਨੂੰ ਬੰਦ ਕਰਨ ਲਈ ਇਸਤੇਮਾਲ ਕਰੋ">
-<!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">
+<!ENTITY clickFinish.labelMac "ਇਹ ਸੈਟਿੰਗ ਸੰਭਾਲਣ ਅਤੇ ਅਕਾਊਂਟ ਸਹਾਇਕ ਨੂੰ ਬੰਦ ਕਰਨ ਵਾਸਤੇ ਮੁਕੰਮਲ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।">
 

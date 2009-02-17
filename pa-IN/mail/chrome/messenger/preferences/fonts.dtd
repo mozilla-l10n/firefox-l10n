@@ -10,7 +10,7 @@
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
 
-<!ENTITY  proportional.label                      "Proportional:">
+<!ENTITY  proportional.label                      "ਅਨੁਪਾਤੀ:">
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
@@ -20,9 +20,9 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "m">
 
-<!ENTITY  font.langGroup.latin1                   "Western">
-<!ENTITY  font.langGroup.latin2                   "Central European">
-<!ENTITY  font.langGroup.japanese                 "Japanese">
+<!ENTITY  font.langGroup.latin1                   "ਪੱਛਮੀ">
+<!ENTITY  font.langGroup.latin2                   "ਕੇਂਦਰੀ ਯੂਰਪੀ">
+<!ENTITY  font.langGroup.japanese                 "ਜਾਪਾਨੀ">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
@@ -31,8 +31,8 @@
 <!ENTITY  font.langGroup.baltic                   "Baltic">
 <!ENTITY  font.langGroup.el                       "Greek">
 <!ENTITY  font.langGroup.turkish                  "Turkish">
-<!ENTITY  font.langGroup.unicode                  "Other Languages">
-<!ENTITY  font.langGroup.user-def                 "User Defined">
+<!ENTITY  font.langGroup.unicode                  "ਹੋਰ ਭਾਸ਼ਾਵਾਂ">
+<!ENTITY  font.langGroup.user-def                 "ਯੂਜ਼ਰ ਵਲੋਂ ਦਿੱਤੀ">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebrew">
 <!ENTITY  font.langGroup.arabic                   "Arabic">

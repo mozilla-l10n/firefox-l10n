@@ -13,11 +13,11 @@
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.label "ਜੰਕ ਫਿਲਟਰ ਲਾਗ ਚਾਲੂ">
 <!ENTITY enableJunkLogging.accesskey "g">
 <!ENTITY openJunkLog.label "ਲਾਗ ਵੇਖੋ">
 <!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.label "ਟਰੇਨਿੰਗ ਡਾਟਾ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
 <!ENTITY resetTrainingData.accesskey "D">
 
 <!-- Phishing Detector -->

@@ -1,6 +1,6 @@
-<!ENTITY identityTitle.label "ਪਛਾਣ ਵਿਵਸਥਾ">
-<!ENTITY identityListDesc.label "ਇਸ ਪਛਾਣ ਲਈ ਵਿਵਸਥਾ ਸੰਰਚਿਤ ਕਰੋ:">
+<!ENTITY identityTitle.label "ਪਛਾਣ ਸੈਟਿੰਗ">
+<!ENTITY identityListDesc.label "ਇਸ ਪਛਾਣ ਲਈ ਸੈਟਿੰਗ ਸੰਰਚਨਾ:">
 
-<!ENTITY settingsTab.label       "ਵਿਵਸਥਾ">
-<!ENTITY copiesFoldersTab.label "ਨਕਲ &amp; ਫੋਲਡਰ">
-<!ENTITY addressingTab.label    "ਲੇਖਣ &amp; ਸਿਰਨਾਵੇਂ">
+<!ENTITY settingsTab.label       "ਸੈਟਿੰਗ">
+<!ENTITY copiesFoldersTab.label "ਕਾਪੀ &amp; ਫੋਲਡਰ">
+<!ENTITY addressingTab.label    "ਲੇਖਣ &amp; ਐਡਰੈੱਸ">

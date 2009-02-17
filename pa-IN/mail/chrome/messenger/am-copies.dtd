@@ -1,6 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
+<!ENTITY copyAndFolderTitle.label "ਕਾਪੀ &amp; ਫੇਲਡਰ">
 <!ENTITY sendingPrefix.label "When sending messages, automatically: ">
 <!ENTITY fccMailFolder.label "Place a copy in:">
 <!ENTITY fccMailFolder.accesskey "P">

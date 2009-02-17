@@ -1,4 +1,4 @@
-<!ENTITY pane.title                 "Delivery Status Notification">
+<!ENTITY pane.title                 "ਡਿਲਵਰੀ ਹਾਲਤ ਨੋਟੀਫਿਕੇਸ਼ਨ">
 <!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
 <!ENTITY useGlobalPrefs.accesskey   "U">
 <!ENTITY useCustomPrefs.label       "Customize Delivery Status Notification for this account">
