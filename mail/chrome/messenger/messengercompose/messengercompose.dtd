@@ -125,7 +125,7 @@
 
 <!ENTITY returnReceiptMenu.label "Chứng nhận Hồi báo">
 <!ENTITY returnReceiptMenu.accesskey "C">
-<!ENTITY dsnMenu.label "Thông báo Trạng thái Gửi">
+<!ENTITY dsnMenu.label "Thông báo Trạng thái Gửi thư">
 <!ENTITY dsnMenu.accesskey "G">
 <!ENTITY outputFormatMenu.label "Định dạng">
 <!ENTITY outputFormatMenu.accesskey "d">

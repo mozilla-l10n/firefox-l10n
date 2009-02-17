@@ -6,8 +6,8 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
-<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY enableGlodaSearch.label       "Kích hoạt Chỉ mục và Tìm kiếm Bao quát">
+<!ENTITY enableGlodaSearch.accesskey   "q">
 <!ENTITY systemDefaults.label          "Mặc định cho Hệ thống">
 <!ENTITY alwaysCheckDefault.label      "Luôn kiểm tra xem &brandShortName; có phải là chương trình gửi thư mặc định mỗi khi khởi chạy">
 <!ENTITY alwaysCheckDefault.accesskey  "L">
