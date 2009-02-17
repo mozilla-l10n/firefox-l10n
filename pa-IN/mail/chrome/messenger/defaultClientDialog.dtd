@@ -1,5 +1,5 @@
-<!ENTITY defaultClient.title  "ਮੂਲ ਕਲਾਂਇਟ">
-<!ENTITY defaultClient.intro  "&brandShortName; ਨੂੰ ਇਸ ਲਈ ਮੂਲ ਕਲਾਂਇਟ ਵਾਂਗ ਵਰਤੋਂ:">
+<!ENTITY defaultClient.title  "ਡਿਫਾਲਟ ਕਲਾਈਟ">
+<!ENTITY defaultClient.intro  "&brandShortName; ਨੂੰ ਇਸ ਲਈ ਡਿਫਾਲਟ ਕਲਾਈਟ ਵਾਂਗ ਵਰਤੋਂ:">
 
 <!ENTITY email.label "ਈ-ਮੇਲ">
 <!ENTITY newsgroups.label "ਖ਼ਬਰ-ਗਰੁੱਪ">

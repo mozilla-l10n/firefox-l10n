@@ -1,11 +1,11 @@
-<!ENTITY editContactName.label "Name:">
+<!ENTITY editContactName.label "ਨਾਂ:">
 <!ENTITY editContactName.accesskey "N">
 
-<!ENTITY editContactEmail.label "Email:">
+<!ENTITY editContactEmail.label "ਈਮੇਲ:">
 <!ENTITY editContactEmail.accesskey "E">
 
-<!ENTITY editContactPanelCancel.label "Cancel">
+<!ENTITY editContactPanelCancel.label "ਰੱਦ ਕਰੋ">
 <!ENTITY editContactPanelCancel.accesskey "C">
 
-<!ENTITY editContactPanelDone.label "Done">
+<!ENTITY editContactPanelDone.label "ਮੁਕੰਮਲ">
 <!ENTITY editContactPanelDone.accesskey "D">

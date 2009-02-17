@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY all.label	"ਸਭ ਸਿਰਲੇਖ ਡਾਊਨਲੋਡ ਕਰੋ">
+<!ENTITY all.label	"ਸਭ ਹੈੱਡਰ ਡਾਊਨਲੋਡ ਕਰੋ">
 <!ENTITY all.accesskey      "D">
 
 <!--LOCALIZATION NOTE (download.label):
@@ -48,7 +48,7 @@
 <!ENTITY download.label "ਡਾਊਨਲੋਡ">
 <!ENTITY download.accesskey "o">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label 	"ਸਿਰਲੇਖ">
+<!ENTITY headers.label 	"ਹੈੱਡਰ">
 <!ENTITY headers.accesskey  "h">
-<!ENTITY mark.label	"ਬਕਾਇਆ ਸਿਰਲੇਖਾਂ ਨੂੰ ਪੜਿਆ ਘੋਸ਼ਿਤ ਕਰੋ">
+<!ENTITY mark.label	"ਬਕਾਇਆ ਹੈੱਡਰਾਂ ਨੂੰ ਪੜ੍ਹਿਆ ਐਲਾਨੋ">
 <!ENTITY mark.accesskey     "M">

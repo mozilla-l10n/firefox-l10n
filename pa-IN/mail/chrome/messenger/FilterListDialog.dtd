@@ -7,7 +7,7 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "ਹਟਾਓ">
 <!ENTITY deleteButton.accesskey "t">
-<!ENTITY reorderUpButton.label "ਉੱਪਰ ਭੇਜੋ">
+<!ENTITY reorderUpButton.label "ਉੱਤੇ ਭੇਜੋ">
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "ਹੇਠਾਂ ਭੇਜੋ">
 <!ENTITY reorderDownButton.accesskey "D">
@@ -24,6 +24,6 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY choosethis.label "ਇਹ ਫੋਲਡਰ ਚੁਣੋ">
 <!ENTITY choosethisnewsserver.label "ਇਹ ਖਬਰ ਸਰਵਰ ਚੁਣੋ">
-<!ENTITY helpButton.label "ਸਹਾਇਤਾ">
+<!ENTITY helpButton.label "ਮੱਦਦ">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

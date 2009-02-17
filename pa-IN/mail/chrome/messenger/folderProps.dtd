@@ -63,12 +63,12 @@
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "ਸਭ ਹਟਾਓ, ਪਰ ਆਖਰੀ">
 <!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "ਹਮੇਸ਼ਾ ਪੜੇ ਸੁਨੇਹੇ ਹਟਾਓ">
+<!ENTITY retentionKeepUnread.label "ਹਮੇਸ਼ਾ ਪੜ੍ਹੇ ਸੁਨੇਹੇ ਹਟਾਓ">
 <!ENTITY retentionKeepUnread.accesskey "r">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                             "ਆਫਲਾਇਨ">
+<!ENTITY folderOfflineTab.label                             "ਆਫਲਾਈਨ">
 <!ENTITY folderCheckForNewMessages.label                    "ਇਸ ਫੋਲਡਰ ਲਈ ਨਵੇਂ ਸੁਨੇਹਿਆਂ ਲਈ ਜਾਂਚ ਕਰੋ">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 

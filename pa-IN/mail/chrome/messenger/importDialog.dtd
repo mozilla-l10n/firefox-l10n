@@ -44,10 +44,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Import">
+<!ENTITY importDialog.windowTitle "ਇੰਪੋਰਟ">
 <!ENTITY importAll.label          "Import Everything">
 <!ENTITY importAll.accesskey      "E">
-<!ENTITY importMail.label         "Mail">
+<!ENTITY importMail.label         "ਮੇਲ">
 <!ENTITY importMail.accesskey     "M">
 <!ENTITY importAddressbook.label  "Address Books">
 <!ENTITY importAddressbook.accesskey "A">
