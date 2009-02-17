@@ -4,7 +4,7 @@
 <!ENTITY senderField2.label "pengirim ">
 <!ENTITY organizationField2.label "organisasi ">
 <!ENTITY replyToField2.label "balas-ke ">
-<!ENTITY subjectField2.label "judul-subyek ">
+<!ENTITY subjectField2.label "judul-subjek ">
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
 <!ENTITY newsgroupsField2.label "newsgroup ">
@@ -18,10 +18,11 @@
 <!ENTITY originalWebsite2.label "situs-web ">
 <!ENTITY editMessageDescription.label "Pesan ini masih konsep">
 <!ENTITY editMessageButton.label "Sunting…">
-<!ENTITY archiveButton.label "arkiv">
-<!ENTITY replyButton.label "balas…">
-<!ENTITY forwardButton.label "teruskan…">
-<!ENTITY junkButton.label "tandai sebagai junk">
+<!ENTITY archiveButton.label "simpan ke gudang">
+<!ENTITY hdrReplyButton.label "balas">
+<!ENTITY hdrReplyAllButton.label "balas ke semua">
+<!ENTITY hdrForwardButton.label "teruskan">
+<!ENTITY hdrJunkButton.label "tandai sebagai junk">
 <!ENTITY trashButton.tooltiptext "hapus">
 <!ENTITY otherActionsButton.label "aksi lainnya">
 <!ENTITY saveAsMenuItem.label "simpan sebagai…">

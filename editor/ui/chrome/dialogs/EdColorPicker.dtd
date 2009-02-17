@@ -45,7 +45,7 @@
 <!ENTITY default.label "Default">
 <!ENTITY default.accessKey "D">
 <!ENTITY palette.label "Palet:">
-<!ENTITY standardPalette.label "Standard">
+<!ENTITY standardPalette.label "Standar">
 <!ENTITY webPalette.label "Semua warna web">
 <!ENTITY background.label "Latar belakang untuk:">
 <!ENTITY background.accessKey "l">

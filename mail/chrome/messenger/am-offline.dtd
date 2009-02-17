@@ -12,6 +12,8 @@
 <!ENTITY nntpDownloadMsg.label "Pesan lebih dari">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen">
+<!ENTITY retentionCleanupImap.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk salinan yang ada di komputer dan pesan asli yang disimpan di server.">
+<!ENTITY retentionCleanupPop.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk pesan asli yang disimpan di server.">
 <!ENTITY retentionKeepMsg.label "Hapus pesan yang lebih dari">
 <!ENTITY retentionKeepMsg.accesskey "l">
 <!ENTITY retentionKeepAll.label "Jangan hapus pesan sama sekali">

@@ -1,4 +1,4 @@
-<!ENTITY msgComposeWindow.title "Tulis: (tidak ada judul subyek)">
+<!ENTITY msgComposeWindow.title "Tulis: (belum ada judul subjek)">
 <!ENTITY fileMenu.label "Berkas">
 <!ENTITY fileMenu.accesskey "B">
 <!ENTITY newMenu.label "Baru">
@@ -180,7 +180,7 @@
 <!ENTITY replyAddr.label "Balas Kepada:">
 <!ENTITY newsgroupsAddr.label "Newsgroup:">
 <!ENTITY followupAddr.label "Lanjutkan Kepada:">
-<!ENTITY subject.label "Judul Subyek:">
+<!ENTITY subject.label "Judul Subjek:">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "Lampiran:">
 <!ENTITY attachments.accesskey "L">

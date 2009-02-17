@@ -29,7 +29,7 @@
 <!ENTITY threadColumn.label "Alur Bahasan">
 <!ENTITY fromColumn.label "Dari">
 <!ENTITY recipientColumn.label "Penerima">
-<!ENTITY subjectColumn.label "Subyek">
+<!ENTITY subjectColumn.label "Judul Subjek">
 <!ENTITY dateColumn.label "Tanggal">
 <!ENTITY priorityColumn.label "Prioritas">
 <!ENTITY tagsColumn.label "Tag">
@@ -48,7 +48,7 @@
 <!ENTITY threadColumn.tooltip "Klik untuk menampilkan alur bahasan pesan">
 <!ENTITY fromColumn.tooltip "Klik untuk mengurut berdasar nama pengirim">
 <!ENTITY recipientColumn.tooltip "Klik untuk mengurut berdasar nama penerima">
-<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasar subyek">
+<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasar judul subjek">
 <!ENTITY dateColumn.tooltip "Klik untuk mengurut berdasar tanggal">
 <!ENTITY priorityColumn.tooltip "Klik untuk mengurut berdasar prioritas">
 <!ENTITY tagsColumn.tooltip "Klik untuk mengurut berdasar tag">

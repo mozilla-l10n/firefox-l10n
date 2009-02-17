@@ -65,8 +65,8 @@
 <!ENTITY showSettings.label "Pengaturan…">
 <!ENTITY showSettings.accesskey "a">
 <!ENTITY proxiesConfigure.label "Atur cara &brandShortName; tersambung ke Internet">
-<!ENTITY enableGloda.label "Aktifkan Sistem Pengindeksan Pesan">
-<!ENTITY enableGloda.accesskey "i">
+<!ENTITY enableGlodaSearch.label "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
+<!ENTITY enableGlodaSearch.accesskey "i">
 <!ENTITY alwaysCheckDefault.label "Selalu periksa apakah &brandShortName; adalah pembaca email default saat memulai">
 <!ENTITY alwaysCheckDefault.accesskey "l">
 <!ENTITY systemDefaults.label "Nilai Default Sistem">

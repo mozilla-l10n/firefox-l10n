@@ -1,8 +1,5 @@
 <!ENTITY event.title.label                  "Ubah Item" >
 
-<!ENTITY newevent.before.label              "sebelum" >
-<!ENTITY newevent.after.label               "sesudah" >
-
 <!ENTITY newevent.from.label                "Dari" >
 <!ENTITY newevent.to.label                  "Ke" >
 <!ENTITY newevent.attendees.notify.label    "Beritahu para undangan">
@@ -149,9 +146,9 @@
 <!ENTITY task.to.accesskey                                "o">
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
-<!ENTITY event.repeat.label                               "Ulangan:" >
+<!ENTITY event.repeat.label                               "Perulangan:" >
 <!ENTITY event.repeat.accesskey                           "R">
-<!ENTITY event.reminder.label                             "Pengingat:" >
+<!ENTITY event.reminder.label                             "Alarm:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Deskripsi:" >
 <!ENTITY event.description.accesskey                      "p">
@@ -168,7 +165,7 @@
 <!ENTITY event.url.label                                  "Tautan Terkait:" >
 <!ENTITY event.priority2.label                            "Prioritas:">
 
-<!ENTITY event.reminder.none.label                        "Tidak ada alarm " >
+<!ENTITY event.reminder.none.label                        "Tidak ada" >
 <!ENTITY event.reminder.5minutes.before.label             "5 menit sebelumnya" >
 <!ENTITY event.reminder.10minutes.before.label            "10 menit sebelumnya" >
 <!ENTITY event.reminder.15minutes.before.label            "15 menit sebelumnya" >
@@ -214,13 +211,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Tiap" >
 <!ENTITY repeat.units.months.both                       "Bulan" >
-<!ENTITY event.recurrence.the.label                     "" >
-<!ENTITY event.recurrence.repeat.first.label            "Pertama">
-<!ENTITY event.recurrence.repeat.second.label           "Kedua">
-<!ENTITY event.recurrence.repeat.third.label            "Ketiga">
-<!ENTITY event.recurrence.repeat.fourth.label           "Keempat">
-<!ENTITY event.recurrence.repeat.fifth.label            "Kelima">
-<!ENTITY event.recurrence.repeat.last.label             "Terakhir">
+<!ENTITY event.recurrence.monthly.every.label           "Tiap" >
+<!ENTITY event.recurrence.monthly.first.label           "Pertama">
+<!ENTITY event.recurrence.monthly.second.label          "Kedua">
+<!ENTITY event.recurrence.monthly.third.label           "Ketiga">
+<!ENTITY event.recurrence.monthly.fourth.label          "Keempat">
+<!ENTITY event.recurrence.monthly.fifth.label           "Kelima">
+<!ENTITY event.recurrence.monthly.last.label            "Terakhir">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Minggu" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Senin" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Selasa" >
@@ -234,15 +231,8 @@
 <!ENTITY event.recurrence.every.label                        "Tiap:" >
 <!ENTITY repeat.units.years.both                             "Tahun" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Tiap" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Tiap" >
+<!ENTITY event.recurrence.yearly.every.label "Tiap" >
 
-<!-- LOCALIZATON NOTE
-     Some languages use a preposition when describing dates:
-     Portuguese: 6 de Setembro
-     English: 6 [of] September
-     event.recurrence.pattern.yearly.of.label is "of" in
-     Edit recurrence window -> Recurrence pattern -> Repeat yearly
--->
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Januari" >
@@ -257,12 +247,12 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Oktober" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "November" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "Desember" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "Pertama">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "Kedua">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "Ketiga">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "Keempat">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "Kelima">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "Terakhir">
+<!ENTITY event.recurrence.yearly.first.label         "Pertama">
+<!ENTITY event.recurrence.yearly.second.label        "Kedua">
+<!ENTITY event.recurrence.yearly.third.label         "Ketiga">
+<!ENTITY event.recurrence.yearly.fourth.label        "Keempat">
+<!ENTITY event.recurrence.yearly.fifth.label	             "Kelima">
+<!ENTITY event.recurrence.yearly.last.label          "Terakhir">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Minggu" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Senin" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Selasa" >
@@ -291,33 +281,12 @@
 <!ENTITY event.repeat.until.label                       "Ulang hingga" >
 <!ENTITY event.recurrence.preview.label                 "Pratinjau">
 
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "menit" >
-<!ENTITY alarm.units.hours                  "jam" >
-<!ENTITY alarm.units.days                   "hari" >
-
-<!ENTITY reminder.title.label                           "Pengingat">
-<!ENTITY reminder.dialogtitle.label                     "Atur alarm">
-<!ENTITY reminder.reminderDetails.label                 "Detail alarm">
-<!ENTITY reminder.action.label                          "Pilih aksi alarm">
-<!ENTITY reminder.action.alert.label                    "Tampilkan Peringatan">
-<!ENTITY reminder.action.email.label                    "Kirim Email">
-<!ENTITY reminder.new.label                             "Baru">
-<!ENTITY reminder.delete.label                          "Hapus">
-<!ENTITY reminder.relation.start.label                  "acara dimulai">
-<!ENTITY reminder.relation.end.label                    "acara berakhir">
-<!ENTITY reminder.add.label                             "Tambah">
-<!ENTITY reminder.add.accesskey                         "T">
-<!ENTITY reminder.remove.label                          "Hapus">
-<!ENTITY reminder.remove.accesskey                      "H">
-
-
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label              "Undang Undangan">
 <!ENTITY event.organizer.label           "Organizer">
 <!ENTITY event.freebusy.suggest.slot     "Sarankan rentang waktu:">
-<!ENTITY event.freebusy.next.slot        "Rentang waktu sesudahnya " >
-<!ENTITY event.freebusy.previous.slot    " Rentang waktu sebelumnya" >
+<!ENTITY event.freebusy.next.slot        "sesudah " >
+<!ENTITY event.freebusy.previous.slot    " sebelum" >
 <!ENTITY event.freebusy.zoom             "Perbesaran:">
 <!ENTITY event.freebusy.plus             "Jam berikutnya" >
 <!ENTITY event.freebusy.minus            "Jam selanjutnya" >

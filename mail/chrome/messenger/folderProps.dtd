@@ -52,6 +52,8 @@
 <!ENTITY daysOld.label "hari">
 <!ENTITY message.label "pesan">
 <!ENTITY retentionCleanup.label "Untuk mengembalikan ruang disk, pesan lama dapat dihapus secara permanen">
+<!ENTITY retentionCleanupImap.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk salinan yang ada di komputer dan pesan asli yang disimpan di server.">
+<!ENTITY retentionCleanupPop.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk pesan asli yang disimpan di server.">
 <!ENTITY retentionDeleteMsg.label "Hapus pesan yang lebih dari">
 <!ENTITY retentionDeleteMsg.accesskey "l">
 <!ENTITY retentionKeepAll.label "Jangan hapus pesan apapun">
