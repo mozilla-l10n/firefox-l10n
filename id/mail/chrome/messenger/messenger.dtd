@@ -153,7 +153,7 @@
 <!ENTITY sortByTagsCmd.accesskey "T">
 <!ENTITY sortByJunkStatusCmd.label "Status Junk">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
-<!ENTITY sortBySubjectCmd.label "Subjek">
+<!ENTITY sortBySubjectCmd.label "Judul Subjek">
 <!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "Dari">
 <!ENTITY sortByFromCmd.accesskey "D">
@@ -380,12 +380,12 @@
 <!ENTITY tasksMenu.accesskey "A">
 <!ENTITY addons.label "Pengaya">
 <!ENTITY addons.accesskey "P">
+<!ENTITY activitymanager.label "Pengelola Aktivitas">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY messengerCmd.label "Email &amp; Newsgroup">
 <!ENTITY messengerCmd.accesskey "m">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Buku Alamat">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "Jalankan Pengontrol Email Junk pada Folder">
 <!ENTITY runJunkControls.accesskey "o">
 <!ENTITY deleteJunk.label "Hapus Email bertanda Junk dalam Folder">
@@ -419,6 +419,7 @@
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Bukan Junk">
 <!ENTITY addressBookButton.label "Buku Alamat">
+<!ENTITY glodaSearch.title "Pencarian Global">
 <!ENTITY searchItem.title "Cari Cepat">
 <!ENTITY mailViewsToolbarItem.title "Tampilan Email">
 <!ENTITY folderLocationToolbarItem.title "Lokasi Folder">
@@ -490,17 +491,30 @@
 <!ENTITY folderContextSettings.accesskey "e">
 <!ENTITY SearchNameOrEmail.label "Nama atau Email yang mengandung:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY searchSubjectMenu.label "Judul Subyek">
+<!ENTITY glodaSearchBar.emptyText "Search messages…">
+<!ENTITY glodaSearchBar.facet.label "Cari:">
+<!ENTITY glodaSearchFacet.everything.label "Apa saja">
+<!ENTITY glodaSearchFacet.subject.label "Judul Subjek">
+<!ENTITY glodaSearchFacet.involves.label "Dari dan Kepada (dari,kepada,cc,bcc)">
+<!ENTITY glodaSearchFacet.to.label "Kepada, CC">
+<!ENTITY glodaSearchFacet.from.label "Dari">
+<!ENTITY glodaSearchFacet.body.label "Isi Pesan">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Nama Lampiran">
+
+<!ENTITY glodaSearchBar.location.label "Lokasi:">
+<!ENTITY glodaSearchFacet.everywhere.label "Semua Folder">
+<!ENTITY glodaSearchFacet.folder.label "Di folder tertentu…">
+<!ENTITY searchSubjectMenu.label "Judul Subjek">
 <!ENTITY searchFromMenu.label "Dari">
-<!ENTITY searchSubjectOrFromMenu.label "Judul Subyek atau Dari">
+<!ENTITY searchSubjectOrFromMenu.label "Judul Subjek atau Dari">
 <!ENTITY searchRecipient.label "Kepada atau Cc">
-<!ENTITY searchSubjectOrRecipientMenu.label "Judul Subyek, Kepada, atau Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Judul Subjek, Kepada, atau Cc">
 <!ENTITY searchMessageBody.label "Keseluruhan Pesan">
 <!ENTITY saveAsVirtualFolderMenu.label "Simpan Pencarian sebagai Folder…">
 <!ENTITY threadColumn.label "Alur Bahasan">
 <!ENTITY fromColumn.label "Dari">
 <!ENTITY recipientColumn.label "Penerima">
-<!ENTITY subjectColumn.label "Judul Subyek">
+<!ENTITY subjectColumn.label "Judul Subjek">
 <!ENTITY dateColumn.label "Tanggal">
 <!ENTITY priorityColumn.label "Prioritas">
 <!ENTITY tagsColumn.label "Tag">
@@ -516,11 +530,12 @@
 <!ENTITY locationColumn.label "Lokasi">
 <!ENTITY idColumn.label "Urutan Diterima">
 <!ENTITY attachmentColumn.label "Lampiran">
+<!ENTITY glodaWhyColumn.label "Alasan">
 <!ENTITY columnChooser.tooltip "Klik untuk memilih kolom tampilan">
 <!ENTITY threadColumn.tooltip "Klik untuk menampilkan alur bahasan pesan">
 <!ENTITY fromColumn.tooltip "Klik untuk mengurut berdasar pengirim">
 <!ENTITY recipientColumn.tooltip "Klik untuk mengurut berdasar penerima">
-<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasar judul subyek">
+<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasar judul subjek">
 <!ENTITY dateColumn.tooltip "Klik untuk mengurut berdasar tanggal">
 <!ENTITY priorityColumn.tooltip "Klik untuk mengurut berdasar prioritas">
 <!ENTITY tagsColumn.tooltip "Klik untuk mengurut berdasar tag">
@@ -536,6 +551,7 @@
 <!ENTITY locationColumn.tooltip "Klik untuk mengurut berdasar lokasi">
 <!ENTITY idColumn.tooltip "Klik untuk mengurut berdasar urutan diterima">
 <!ENTITY attachmentColumn.tooltip "Klik untuk mengurut berdasar lampiran">
+<!ENTITY glodaWhyColumn.tooltip "Klik untuk mengurut pesan berdasar alasan pesan ini tampil pada hasil pencarian">
 <!ENTITY contextOpenNewWindow.label "Buka Pesan di Jendela Baru">
 <!ENTITY contextOpenNewWindow.accesskey "J">
 <!ENTITY contextOpenNewTab.label "Buka Pesan di Tab Baru">
