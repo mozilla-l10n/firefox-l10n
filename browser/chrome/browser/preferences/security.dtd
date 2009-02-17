@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "在網站試圖安裝附加元件時通知我">
+<!ENTITY  warnAddonInstall.label        "Warn me when sites try to install add-ons">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
@@ -8,35 +8,35 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  blockAttackSites.label     "封鎖可能有害的網站">
+<!ENTITY  blockAttackSites.label     "Block reported attack sites">
 <!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY  blockWebForgeries.label     "封鎖可能是偽造的網頁">
+<!ENTITY  blockWebForgeries.label     "Block reported web forgeries">
 <!ENTITY  blockWebForgeries.accesskey "B">
 
-<!ENTITY  addonExceptions.label         "例外網站…">
+<!ENTITY  addonExceptions.label         "Exceptions…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "密碼">
+<!ENTITY  passwords.label               "Passwords">
 
-<!ENTITY  rememberPasswords.label       "記住每個網站的密碼">
+<!ENTITY  rememberPasswords.label       "Remember passwords for sites">
 <!ENTITY  rememberPasswords.accesskey   "R">
-<!ENTITY  passwordExceptions.label      "例外網站…">
+<!ENTITY  passwordExceptions.label      "Exceptions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "使用主控密碼">
+<!ENTITY  useMasterPassword.label        "Use a master password">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "變更主控密碼…">
+<!ENTITY  changeMasterPassword.label     "Change Master Password…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "已存密碼…">
+<!ENTITY  savedPasswords.label            "Saved Passwords…">
 <!ENTITY  savedPasswords.accesskey        "P">
 
 
-<!ENTITY  warnings.label                "警告訊息">
+<!ENTITY  warnings.label                "Warning Messages">
 
-<!ENTITY  chooseWarnings.label          "選擇瀏覽網路時要顯示何種警告訊息">
+<!ENTITY  chooseWarnings.label          "Choose which warning messages you want to see while browsing the web">
 
-<!ENTITY  warningSettings.label         "設定…">
+<!ENTITY  warningSettings.label         "Settings…">
 <!ENTITY  warningSettings.accesskey     "S">

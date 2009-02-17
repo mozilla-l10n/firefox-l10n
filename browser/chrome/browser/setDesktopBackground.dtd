@@ -1,9 +1,9 @@
-<!ENTITY position.label             "位置:">
-<!ENTITY tile.label                 "並排顯示">
-<!ENTITY center.label               "置中">
-<!ENTITY stretch.label              "延展">
-<!ENTITY preview.label              "預覽">
-<!ENTITY color.label                "色彩:">
-<!ENTITY setDesktopBackground.title "設為桌面背景">
-<!ENTITY openDesktopPrefs.label     "開啟桌面設定">
+<!ENTITY position.label             "Position:">
+<!ENTITY tile.label                 "Tile">
+<!ENTITY center.label               "Center">
+<!ENTITY stretch.label              "Stretch">
+<!ENTITY preview.label              "Preview">
+<!ENTITY color.label                "Color:">
+<!ENTITY setDesktopBackground.title "Set Desktop Background">
+<!ENTITY openDesktopPrefs.label     "Open Desktop Preferences">
 <!ENTITY closeWindow.key            "w">

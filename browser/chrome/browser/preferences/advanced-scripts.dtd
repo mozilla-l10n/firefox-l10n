@@ -35,18 +35,18 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title         "進階 JavaScript 設定">
+<!ENTITY advancedJSDialog.title         "Advanced JavaScript Settings">
 <!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label             "允許網頁程式碼 (Script) 執行下列操作:">
+<!ENTITY allowScripts.label             "Allow scripts to:">
 
-<!ENTITY moveResizeWindows.label        "移動或改變已開啟視窗大小">
+<!ENTITY moveResizeWindows.label        "Move or resize existing windows">
 <!ENTITY moveResizeWindows.accesskey    "M">
-<!ENTITY raiseLowerWindows.label        "顯示視窗於最上層或移往上下層">
+<!ENTITY raiseLowerWindows.label        "Raise or lower windows">
 <!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "停用或取代右鍵選單">
+<!ENTITY disableContextMenus.label      "Disable or replace context menus">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "隱藏狀態列">
+<!ENTITY hideStatusBar.label            "Hide the status bar">
 <!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "改變狀態列文字">
+<!ENTITY changeStatusBar.label          "Change status bar text">
 <!ENTITY changeStatusBar.accesskey      "C">

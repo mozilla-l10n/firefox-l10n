@@ -1,19 +1,19 @@
-<!ENTITY  untitledTab            "(未命名)">
-<!ENTITY  newTab.label           "開新分頁">
+<!ENTITY  untitledTab            "(Untitled)">
+<!ENTITY  newTab.label           "New Tab">
 <!ENTITY  newTab.accesskey       "N">
-<!ENTITY  closeTab.label         "關閉分頁">
-<!ENTITY  closeTab.accesskey         "C">
+<!ENTITY  closeTab.label         "Close Tab">
+<!ENTITY  closeTab.accesskey         "c">
 <!ENTITY  closeOtherTabs.accesskey  "o">
-<!ENTITY  closeOtherTabs.label   "關閉其他分頁">
-<!ENTITY  reloadAllTabs.label    "重新載入所有分頁">
-<!ENTITY  reloadAllTabs.accesskey         "a">
-<!ENTITY  reloadTab.label        "重新載入分頁">
-<!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  listAllTabs.label      "列出所有分頁">
-<!ENTITY  bookmarkAllTabs.label       "所有分頁加入書籤…">
+<!ENTITY  closeOtherTabs.label   "Close Other Tabs">
+<!ENTITY  reloadAllTabs.label    "Reload All Tabs">
+<!ENTITY  reloadAllTabs.accesskey         "A">
+<!ENTITY  reloadTab.label        "Reload Tab">
+<!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  listAllTabs.label      "List all tabs">
+<!ENTITY  bookmarkAllTabs.label       "Bookmark All Tabs…">
 <!ENTITY  bookmarkAllTabs.accesskey   "T">
-<!ENTITY  bookmarkThisTab.label       "將此分頁加入書籤">
+<!ENTITY  bookmarkThisTab.label       "Bookmark This Tab">
 <!ENTITY  bookmarkThisTab.accesskey   "B">
-<!ENTITY  undoCloseTab.label          "復原已關閉分頁">
+<!ENTITY  undoCloseTab.label          "Undo Close Tab">
 <!ENTITY  undoCloseTab.accesskey      "U">
-<!ENTITY  newTabButton.tooltip        "開啟新分頁">
+<!ENTITY  newTabButton.tooltip        "Open a new tab">

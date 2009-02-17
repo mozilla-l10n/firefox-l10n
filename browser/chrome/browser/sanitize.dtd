@@ -1,39 +1,40 @@
-<!ENTITY sanitizePrefs.title           "清除隱私資料">
-<!ENTITY sanitizeDialog2.title         "刪除最近的歷史記錄">
+<!ENTITY sanitizePrefs.title           "Clear Private Data">
+<!ENTITY sanitizeDialog2.title         "Clear Recent History">
 
-<!ENTITY sanitizeItems.label          "立刻清除下列項目:">
-<!ENTITY clearDataSettings2.label     "當我離開 &brandShortName; 時，它應該自動清除:">
+<!ENTITY sanitizeItems.label          "Clear the following items now:">
+<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "清除範圍: ">
-<!ENTITY clearDuration.lastHour       "之前 1 小時">
-<!ENTITY clearDuration.last2Hours     "之前 2 小時">
-<!ENTITY clearDuration.last4Hours     "之前 4 小時">
-<!ENTITY clearDuration.today          "今日的歷史記錄">
-<!ENTITY clearDuration.everything     "我的所有歷史記錄">
+<!ENTITY clearDuration.label          "Remove ">
+<!ENTITY clearDuration.accesskey      "R">
+<!ENTITY clearDuration.lastHour       "the last hour">
+<!ENTITY clearDuration.last2Hours     "the last 2 hours">
+<!ENTITY clearDuration.last4Hours     "the last 4 hours">
+<!ENTITY clearDuration.today          "my history for today">
+<!ENTITY clearDuration.everything     "my entire history">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearDuration.suffix         "">
 
-<!ENTITY historySection.label         "歷史記錄">
-<!ENTITY dataSection.label            "資料">
+<!ENTITY historySection.label         "History">
+<!ENTITY dataSection.label            "Data">
 
-<!ENTITY itemVisitedPages.label       "已瀏覽網頁">
+<!ENTITY itemVisitedPages.label       "Visited Pages">
 <!ENTITY itemVisitedPages.accesskey   "V">
-<!ENTITY itemFormSearchEntries.label  "表單內容與搜尋記錄">
+<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
 <!ENTITY itemFormSearchEntries.accesskey "F">
-<!ENTITY itemPasswords.label          "已存密碼">
+<!ENTITY itemPasswords.label          "Saved Passwords">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "Cookies">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemWebCache.label           "網站快取">
+<!ENTITY itemWebCache.label           "Web Cache">
 <!ENTITY itemWebCache.accesskey       "W">
-<!ENTITY itemOfflineApps.label        "離線網站資料">
+<!ENTITY itemOfflineApps.label        "Offline Website Data">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloadList.label       "下載檔案清單">
+<!ENTITY itemDownloadList.label       "Download List">
 <!ENTITY itemDownloadList.accesskey   "D">
-<!ENTITY itemActiveLogins.label       "已登入的連線">
+<!ENTITY itemActiveLogins.label       "Active Logins">
 <!ENTITY itemActiveLogins.accesskey   "L">
 
 <!ENTITY window.width                 "30em">
