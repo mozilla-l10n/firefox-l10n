@@ -10,7 +10,7 @@
 <!ENTITY choosethisfolder.label   "chọn thư mục này">
 
 <!ENTITY quickMode.label          "Hiện tóm tắt bài viết thay vì tải cả trang web">
-<!ENTITY quickMode.accesskey      "h">
+<!ENTITY quickMode.accesskey      "H">
 
 <!ENTITY copyLinkCmd.label        "Chép Địa chỉ Liên kết">
 <!ENTITY copyLinkCmd.accesskey    "a">

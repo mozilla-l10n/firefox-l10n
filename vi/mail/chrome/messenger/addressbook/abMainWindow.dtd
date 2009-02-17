@@ -60,7 +60,7 @@
 <!ENTITY deleteContactsCmd.label                        "Xóa Danh Bạ">
 <!ENTITY deleteListCmd.label                            "Xóa Danh Sách">
 <!ENTITY deleteListsCmd.label                           "Xóa Danh Sách">
-<!ENTITY deleteItemsCmd.label                           "Xóa Mục">
+<!ENTITY deleteItemsCmd.label                           "Xóa Các Mục">
 <!ENTITY selectAllCmd.label                             "Chọn Toàn Bộ">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">

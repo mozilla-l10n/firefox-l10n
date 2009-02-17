@@ -23,7 +23,7 @@
 <!ENTITY frompageInput.label  "từ">
 <!ENTITY frompageInput.accesskey  "t">
 <!ENTITY topageInput.label  "đến">
-<!ENTITY topageInput.accesskey  "đ">
+<!ENTITY topageInput.accesskey  "n">
 <!ENTITY selectionRadio.label "Phần được chọn">
 <!ENTITY selectionRadio.accesskey "P">
 
