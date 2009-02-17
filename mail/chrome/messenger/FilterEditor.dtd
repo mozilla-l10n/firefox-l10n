@@ -1,10 +1,10 @@
-<!ENTITY window.title "Filter Rules">
+<!ENTITY window.title "ਫਿਲਟਰ ਨਿਯਮ">
 
-<!ENTITY filterName.label "Filter name:">
+<!ENTITY filterName.label "ਫਿਲਟਰ ਨਾਂ:">
 <!ENTITY filterName.accesskey "i">
 
-<!ENTITY junk.label "Junk">
-<!ENTITY notJunk.label "Not Junk">
+<!ENTITY junk.label "ਜੰਕ">
+<!ENTITY notJunk.label "ਜੰਕ ਨਹੀਂ">
 
 <!ENTITY lowestPriorityCmd.label "Lowest">
 <!ENTITY lowPriorityCmd.label "Low">

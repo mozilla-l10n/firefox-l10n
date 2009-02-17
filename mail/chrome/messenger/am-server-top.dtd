@@ -21,10 +21,10 @@
 <!ENTITY biffStart.label "ਨਵੇਂ ਸੁਨਹਿਆਂ ਦੀ ਹਰ ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "ਮਿੰਟ ਬਾਅਦ ਜਾਂਚ ਕਰੋ">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "ਕੁਨੈਕਸ਼ਨ ਸੁਰੱਖਿਆ:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, ਜੇ ਉਪਲੱਬਧ ਹੋਵੇ">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "ਸੁਰੱਖਿਅਤ ਪਰਮਾਣਕਿਤਾ ਵਰਤੋਂ">
@@ -36,7 +36,7 @@
 <!ENTITY deleteByAgeFromServer.label "ਲੱਗਭਗ">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "ਦਿਨ">
-<!ENTITY deleteOnServer2.label "Until I delete them">
+<!ENTITY deleteOnServer2.label "ਜਦੋਂ ਤੱਕ ਮੈਂ ਉਨ੍ਹਾਂ ਨੂੰ ਹਟਾਵਾਂ ਨਾ">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "ਨਵੇਂ ਸੁਨੇਹੇ ਆਟੋਮੈਟਿਕ ਹੀ ਡਾਊਨਲੋਡ ਕਰੋ">
 <!ENTITY downloadOnBiff.accesskey "m">

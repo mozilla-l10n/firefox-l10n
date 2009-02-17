@@ -18,6 +18,6 @@ Communications Corporation. Portions created by Netscape are
 Rights Reserved.
 --> 
 <!ENTITY nameColumn.label   "ਨਾਂ"> 
-<!ENTITY unreadColumn.label "ਨਾ-ਪੜੇ"> 
+<!ENTITY unreadColumn.label "ਨਾ-ਪੜ੍ਹੇ"> 
 <!ENTITY totalColumn.label "ਕੁੱਲ"> 
-<!ENTITY folderSizeColumn.label "ਆਕਾਰ"> 
+<!ENTITY folderSizeColumn.label "ਸਾਈਜ਼"> 

@@ -1,7 +1,7 @@
-<!ENTITY credit.title     "&brandFullName; Credits">
+<!ENTITY credit.title     "&brandFullName; ਮਾਣ">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
 <!ENTITY credit.leads     "Engineering Leads">
-<!ENTITY credit.thanks    "Special Thanks To">
+<!ENTITY credit.thanks    "ਖਾਸ ਧੰਨਵਾਦ ਹੈ">
 
 <!-- localization credits look like this: -->
 <!--
@@ -13,8 +13,8 @@
   <li>Punjabi Open Source R&D Lab</li>
   <li>ਆਪਣੀ ਬੋਲੀ ਆਪਣਾ ਮਾਣ</li></ul>">
 
-<!ENTITY credit.theme          "Theme Design">
-<!ENTITY credit.qa             "Quality Assurance">
-<!ENTITY credit.build          "Build and Release">
+<!ENTITY credit.theme          "ਥੀਮ ਡਿਜ਼ਾਇਨ">
+<!ENTITY credit.qa             "ਕੁਆਲਟੀ ਜਾਂਚ">
+<!ENTITY credit.build          "ਬਿਲਡ ਅਤੇ ਰੀਲਿਜ਼">
 <!ENTITY credit.memory         "In Fond Memory Of">
 <!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">
