@@ -47,7 +47,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; biedt optionele diensten (&quot;Diensten&quot;) aan, zoals de add-on update-service, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Als u de Diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de add-on update-service uitschakelen door de voorkeuren van de toepassing te openen, de sectie ">
 <!ENTITY rights.webservices-b "Geavanceerd">
-<!ENTITY rights.webservices-c "te selecteren, gevolgd door het ">
+<!ENTITY rights.webservices-c " te selecteren, gevolgd door het ">
 <!ENTITY rights.webservices-d "Update">
 <!ENTITY rights.webservices-e " tabblad en de opties voor &quot;Automatisch controleren op updates voor:&quot; uit te vinken.">
 
