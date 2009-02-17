@@ -116,6 +116,7 @@
 <!ENTITY deleteItemButton.accesskey "U">
 <!ENTITY newimButton.label "Komunikator">
 <!ENTITY newimButton.accesskey "K">
+<!ENTITY searchNameAndEmail.emptytext "Szukaj w nazwiskach, imionach oraz adresach email">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip "Pasek narzędzi książki adresowej">
