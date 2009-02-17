@@ -1,13 +1,13 @@
-<!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
+<!ENTITY doNotDownloadPop3Movemail.label "ਡਿਸਕ ਥਾਂ ਬਚਾਉਣ ਲਈ ਡਾਊਨਲੋਡ ਨਾ ਕਰੋ:">
 <!ENTITY doNotDownload.label "To save disk space, do not download for offline use:">
 <!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "Messages larger than">
+<!ENTITY offlineNotDownload.label "ਇਸ ਤੋਂ ਵੱਡੇ ਸੁਨੇਹੇ">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY nntpNotDownloadRead.label "Read messages">
+<!ENTITY daysOld.label "ਦਿਨ ਪੁਰਾਣੇ">
+<!ENTITY message.label "ਸੁਨੇਹੇ">
+<!ENTITY nntpNotDownloadRead.label "ਸੁਨੇਹੇ ਪੜ੍ਹੋ">
 <!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "Messages more than">
 <!ENTITY nntpDownloadMsg.accesskey "e">
@@ -28,7 +28,7 @@
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
+<!ENTITY offlineImapAdvancedOffline.label "ਮਾਹਰ…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
-<!ENTITY diskspaceGroupTitle.label "Disk Space">
+<!ENTITY syncGroupTitle.label "ਸੁਨੇਹੇ ਸੈਕਰੋਨਾਈਜ਼">
+<!ENTITY diskspaceGroupTitle.label "ਡਿਸਕ ਥਾਂ">

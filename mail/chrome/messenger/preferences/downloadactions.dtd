@@ -4,13 +4,13 @@
   
 <!ENTITY  fileTypesDescription.label          "ਹੇਠ ਦਿੱਤੀ ਫਾਇਲ ਕਿਸਮਾਂ ਨਾਲ ਸਬੰਧਿਤ ਐਕਸ਼ਨ ਆਟੋਮੈਟਿਕ ਹੀ ਕਰੋ:">
 
-<!ENTITY  fileHandlerColumn.label             "ਕਾਰਵਾਈ">
+<!ENTITY  fileHandlerColumn.label             "ਐਕਸ਼ਨ">
 <!ENTITY  fileHandlerColumn.accesskey         "A">
-<!ENTITY  fileTypeColumn.label                "ਫਾਇਲ ਕਿਸਮ">
+<!ENTITY  fileTypeColumn.label                "ਫਾਇਲ ਟਾਈਪ">
 <!ENTITY  fileTypeColumn.accesskey            "T">
-<!ENTITY  fileMIMETypeColumn.label            "MIME ਕਿਸਮ">
+<!ENTITY  fileMIMETypeColumn.label            "MIME ਟਾਈਪ">
 <!ENTITY  fileMIMETypeColumn.accesskey        "M">
-<!ENTITY  fileExtensionColumn.label           "ਸਹਿਯੋਗੀ">
+<!ENTITY  fileExtensionColumn.label           "ਇਕਸਟੈਨਸ਼ਨ">
 <!ENTITY  fileExtensionColumn.accesskey       "E">
 
 <!ENTITY  remove.label                        "ਐਕਸ਼ਨ ਹਟਾਓ">
@@ -29,4 +29,3 @@
 
 <!ENTITY  button.close.label                  "ਬੰਦ ਕਰੋ">
 <!ENTITY  button.close.accesskey              "o">
-

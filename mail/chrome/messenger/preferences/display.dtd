@@ -1,22 +1,22 @@
-<!ENTITY itemFormatting.label             "ਫਾਰਮੈਟ">
+<!ENTITY itemFormatting.label             "ਫਾਰਮਿਟ">
 <!ENTITY itemTags.label                   "ਟੈਗ">
 
-<!ENTITY style.label                      "ਸ਼ੈਲੀ:">
+<!ENTITY style.label                      "ਸਟਾਈਲ:">
 <!ENTITY style.accesskey                  "y">
-<!ENTITY regularStyle.label               "ਨਿਯਮਿਤ">
+<!ENTITY regularStyle.label               "ਰੈਗੂਲਰ">
 <!ENTITY bold.label                       "ਗੂੜੇ">
 <!ENTITY italic.label                     "ਤਿਰਛੇ">
 <!ENTITY boldItalic.label                 "ਗੂੜੇ ਤਿਰਛੇ">
-<!ENTITY size.label                       "ਅਕਾਰ:">
+<!ENTITY size.label                       "ਸਾਈਜ਼:">
 <!ENTITY size.accesskey                   "s">
-<!ENTITY regularSize.label                "ਨਿਯਮਿਤ">
+<!ENTITY regularSize.label                "ਰੈਗੂਲਰ">
 <!ENTITY bigger.label                     "ਵੱਡੇ">
 <!ENTITY smaller.label                    "ਛੋਟੇ">
 <!ENTITY color.label                      "ਰੰਗ:">
 <!ENTITY color.accesskey                  "c">
-<!ENTITY displayWidth.label               "ਸਧਾਰਨ ਪਾਠ ਸੁਨੇਹੇ">
+<!ENTITY displayWidth.label               "ਸਧਾਰਨ ਟੈਕਸਟ ਸੁਨੇਹੇ">
 <!ENTITY plainText.label	          "ਹੇਠ ਦਿੱਤੇ ਫੋਂਟ ਵਰਤੋਂ:">
-<!ENTITY displayText.label	       "ਜਦੋਂ ਕਾਮਿਆਂ ਸਮੇਤ ਸਧਾਰਨ ਪਾਠ ਸੁਨੇਹੇ ਵੇਖਾਏ ਜਾਣ:">
+<!ENTITY displayText.label	       "ਜਦੋਂ ਕਾਮਿਆਂ ਸਮੇਤ ਸਧਾਰਨ ਟੈਕਸਟ ਸੁਨੇਹੇ ਵੇਖਾਏ ਜਾਣ:">
 <!ENTITY fixedWidth.label                 "ਸਥਿਰ ਚੌੜਾਈ ਫੋਂਟ">
 <!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "ਅਸਥਿਰ ਚੌੜਾਈ ਫੋਂਟ">
@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "ਭਾਵਨਾ-ਆਈਕਾਨ ਨੂੰ ਚਿੱਤਰਾਂ ਵਾਂਗ ਵੇਖਾਓ">
 <!ENTITY convertEmoticons.accesskey       "D">
-<!ENTITY  textColor.label                 "ਪਾਠ ਰੰਗ:">
+<!ENTITY  textColor.label                 "ਟੈਕਸਟ ਰੰਗ:">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "ਬੈਕਗਰਾਊਂਡ ਰੰਗ:">
 <!ENTITY  backgroundColor.accesskey       "b">

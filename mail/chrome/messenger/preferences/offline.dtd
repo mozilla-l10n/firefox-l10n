@@ -1,11 +1,11 @@
 <!ENTITY offlineDialog.title "ਆਫਲਾਈਨ ਸੈਟਿੰਗ">
 
 <!ENTITY textStartUp "ਜਦੋਂ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ:">
-<!ENTITY radioRememberPrevState.label "Remember previous online state">
+<!ENTITY radioRememberPrevState.label "ਪਿਛਲੀ ਆਨਲਾਈਨ ਹਾਲਤ ਯਾਦ ਰੱਖੋ">
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskMe.label "Ask me for online state at startup">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Always start up online">
+<!ENTITY radioAlwaysOnline.label "ਹਮੇਸ਼ਾ ਆਨਲਾਈਨ ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline "Send unsent messages when going online?">

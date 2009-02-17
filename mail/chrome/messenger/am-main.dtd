@@ -1,16 +1,16 @@
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "ਖਾਤਾ ਵਿਵਸਥਾ">
-<!ENTITY accountName.label "ਖਾਤਾ ਨਾਂ:">
+<!ENTITY accountTitle.label "ਅਕਾਊਂਟ ਸੈਟਿੰਗ">
+<!ENTITY accountName.label "ਅਕਾਊਂਟ ਨਾਂ:">
 <!ENTITY accountName.accesskey "N">
 
-<!ENTITY identityTitle.label "ਮੂਲ ਪਛਾਣ">
-<!ENTITY identityDesc.label "ਹਰ ਖਾਤੇ ਦੀ ਇੱਕ ਪਛਾਣ ਹੁੰਦੀ ਹੈ, ਜੋ ਕਿ ਜਾਣਕਾਰੀ ਹੈ , ਜਿਸ ਨੂੰ  ਹੋਰ ਲੋਕ ਤੁਹਾਡਾ ਪੱਤਰ ਪੜਨ ਦੌਰਾਨ ਵੇਖ ਸਕਦੇ ਹਨ।">
+<!ENTITY identityTitle.label "ਡਿਫਾਲਟ ਪਛਾਣ">
+<!ENTITY identityDesc.label "ਹਰ ਅਕਾਊਂਟ ਦੀ ਇੱਕ ਪਛਾਣ ਹੁੰਦੀ ਹੈ, ਜੋ ਕਿ ਜਾਣਕਾਰੀ ਹੈ , ਜਿਸ ਨੂੰ  ਹੋਰ ਲੋਕ ਤੁਹਾਡੀ ਮੇਲ ਪੜ੍ਹਨ ਦੌਰਾਨ ਵੇਖ ਸਕਦੇ ਹਨ।">
 <!ENTITY name.label "ਤੁਹਾਡਾ ਨਾਂ:">
 <!ENTITY name.accesskey "Y">
-<!ENTITY email.label "ਈ-ਪੱਤਰ ਸਿਰਨਾਵਾਂ:">
+<!ENTITY email.label "ਈ-ਮੇਲ ਐਡਰੈੱਸ:">
 <!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "ਜਵਾਬੀ ਸਿਰਨਾਵਾਂ:">
+<!ENTITY replyTo.label "ਜਵਾਬੀ ਐਡਰੈੱਸ:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "ਸੰਸਥਾ:">
 <!ENTITY organization.accesskey "O">
@@ -25,11 +25,11 @@
 <!ENTITY attachVCard.label "ਸੁਨੇਹੇ ਵਿੱਚ ਮੇਰਾ vCard ਸ਼ਾਮਿਲ ਕਰੋ">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "ਪਛਾਣ ਪ੍ਰਬੰਧਨ...">
+<!ENTITY manageIdentities.label "ਪਛਾਣ ਪਰਬੰਧ...">
 <!ENTITY manageIdentities.accesskey "M">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "ਬਾਹਰੀ ਸਰਵਰ (SMTP):">
 <!ENTITY smtpName.accesskey "u">
-<!ENTITY smtpDefaultServer.label "ਮੂਲ ਸਰਵਰ ਵਰਤੋਂ">
+<!ENTITY smtpDefaultServer.label "ਡਿਫਾਲਟ ਸਰਵਰ ਵਰਤੋਂ">
 

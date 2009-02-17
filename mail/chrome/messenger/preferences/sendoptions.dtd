@@ -3,7 +3,7 @@
 <!ENTITY sendMaildesc.label           "When sending messages in HTML format and one or more recipients are not listed as being able to receive HTML:">
 <!ENTITY askMe.label                  "Ask me what to do">
 <!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "Convert the message to plain text">
+<!ENTITY convertPlain.label           "ਸੁਨੇਹੇ ਨੂੰ ਪਲੇਨ ਟੈਕਸਟ ਵਿੱਚ ਬਦਲੋ">
 <!ENTITY convertPlain.accesskey       "C">
 <!ENTITY sendHTML.label               "Send the message in HTML anyway">
 <!ENTITY sendHTML.accesskey           "S">
@@ -25,7 +25,7 @@
 <!ENTITY DeletePlainText.label        "ਹਟਾਓ">
 <!ENTITY DeletePlainText.accesskey    "D">
 
-<!ENTITY add.htmltitle                "Add HTML Domain Name">
-<!ENTITY add.htmldomain               "HTML Domain Name:">
-<!ENTITY add.plaintexttitle           "Add Plain Text Domain Name">
-<!ENTITY add.plaintextdomain          "Plain Text Domain Name:">
+<!ENTITY add.htmltitle                "HTML ਡੋਮੇਨ ਨਾਂ ਸ਼ਾਮਲ">
+<!ENTITY add.htmldomain               "HTML ਡੋਮੇਨ ਨਾਂ:">
+<!ENTITY add.plaintexttitle           "ਪਲੇਨ ਟੈਕਸਟ ਡੋਮੇਨ ਨਾਂ ਸ਼ਾਮਲ">
+<!ENTITY add.plaintextdomain          "ਪਲੇਨ ਟੈਕਸਟ ਡੋਮੇਨ ਨਾਂ:">
