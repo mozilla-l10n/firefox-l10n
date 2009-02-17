@@ -26,7 +26,7 @@
 <!ENTITY closeCmd.accesskey "L">
 <!ENTITY saveCmd.label "Lagre">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "g">
+<!ENTITY saveCmd.accesskey "a">
 <!ENTITY saveAsCmd.label "Lagre som">
 <!ENTITY saveAsCmd.accesskey "s">
 <!ENTITY saveAsFileCmd.label "Fil …">

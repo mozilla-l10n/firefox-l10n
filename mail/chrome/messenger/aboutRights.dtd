@@ -46,15 +46,19 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; brukar informasjonstenester (&quot;Tjenester&quot;), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruke Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå Program-innstillingane, ved å velje ">
+<!ENTITY rights.webservices-b "«Avansert»-">
+<!ENTITY rights.webservices-c "delen, etterfølgd av ">
+<!ENTITY rights.webservices-d "«Oppdater»-">
+<!ENTITY rights.webservices-e "fana og fjernar avkryssinga for «Sjå autoamtisk etter oppdateringar til».">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Ei oversikt over nformasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
+<!ENTITY rights.webservices-unbranded "Ei oversikt over informasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Andre tenestevilkår for dette produktet bør førast opp her.">
 
 <!-- points 1-7 text for branded builds -->
-
+<!ENTITY rights.webservices-term1 "&vendorShortName; kan avslutte eller endre tenesta når det måtte vere nødvendig.">
 <!ENTITY rights.webservices-term2 "Du er velkomen til å bruke desse Tenestene med den medfølgjande versjonen av &brandShortName;, og du har alle rettar for å gjere det. &vendorShortName; og dess lisensgjevarar reserverer alle andre rettar til Tenestene. Desse vilkåra er ikkje meint for å avgrense rettane som er gjevne under open kjeldekode-lisensane som er knytta til &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Tenestene er tilbydde &quot;som-de-er.&quot; &vendorShortName;, bidragsytarane, lisensgjevarane og distributørane gjev ingen garantiar, verken eksplisitt eller implisitt, inkludert utan avgrensingar, garantiar for at Tenestene skal passe til dine føremål. Du har den fulle og heile risikoen for å velje Tenestene for å oppnå dine føremål, samt for kvaliteten og ytinga til Tenstene. Nokre jurisdiksjonar tillèt ikkje at implisitte garantiar vert ekskluderte, så dettee dementiet gjeld kanskje ikkje deg.">
 <!ENTITY rights.webservices-term4 "Med unntak av der det er påkravd av lova, &vendorShortName;, dess bidragsytarar, lisensgjevarar og distributørar er ikkje ansvarlege for nokon indirekte, spesiell, tilfeldig, følgjeleg, strafferettsleg eller mønstergyldige skadar eller ulemper som skjer som ei følgje av eller relatert til bruk av &brandShortName; og Tenestene. Det kollektive ansvaret i desse vilkåra vil ikkje overstige $500 (fem hundre amerikanske dollar). Nokre jurisdiksjonar tillèt ikkje eksklusjon eller avgrensing av enkelte former av skade, så det er mogleg desse eksklusjonane og avgrensingane ikkje gjeld deg.">
