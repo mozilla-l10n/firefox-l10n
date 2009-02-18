@@ -1,18 +1,28 @@
 <!ENTITY securityTitle.label "Sekuriteit">
+<!ENTITY securityTab.label "Sekuriteit">
 <!ENTITY securityHeading.label "Om ondertekende of geënkripteerde boodskappe te stuur en te ontvang, moet u beide 'n ondertekening- en enkripsiesertifikaat toon.">
 <!ENTITY encryptionGroupTitle.label "Enkripsie">
 <!ENTITY encryptionChoiceLabel.label "Verstek-enkripsieopstelling vir wanneer boodskappe versend word:">
-<!ENTITY neverEncrypt.label "Nooit (moenie enkripsie gebruik nie)">
-<!ENTITY alwaysEncryptMessage.label "Verlang (kan nie boodskappe versend tensy al die ontvangers sertifikate het nie)">
+<!ENTITY neverEncrypt.label "Never (do not use encryption)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "Required (can't send message unless all recipients have certificates)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Gebruik hierdie sertifikaat om boodskappe wat aan u gestuur word, te enkripteer en te dekripteer:">
-<!ENTITY certificate.button "Select…">
-<!ENTITY certificate_clear.button "Maak skoon">
+<!ENTITY digitalSign.certificate.button "Select…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Maak skoon">
+<!ENTITY digitalSign.certificate_clear.accesskey "K">
+<!ENTITY encryption.certificate.button "Select…">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate_clear.button "Maak skoon">
+<!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digitale ondertekening">
-<!ENTITY signMessage.label "Onderteken boodskappe digitaal (by verstek)">
+<!ENTITY signMessage.label "Digitally sign messages (by default)">
+<!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Gebruik hierdie sertifikaat om boodskappe wat u versend, digitaal te onderteken:">
 
 <!ENTITY certificates.label "Sertifikate">
-<!ENTITY managecerts.label "Bekyk sertifikate">
-<!ENTITY managecerts.accesskey "B">
-<!ENTITY managedevices.label "Sekuriteitstoestelle">
-<!ENTITY managedevices.accesskey "S">
+<!ENTITY manageCerts.label "Bekyk sertifikate">
+<!ENTITY manageCerts.accesskey "B">
+<!ENTITY manageDevices.label "Security Devices">
+<!ENTITY manageDevices.accesskey "y">

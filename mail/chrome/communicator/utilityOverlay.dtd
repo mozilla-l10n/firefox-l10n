@@ -29,7 +29,7 @@
 <!ENTITY selectAllCmd.label "Merk alles">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Options…">
+<!ENTITY preferencesCmd.label "Opsies…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
@@ -47,8 +47,6 @@
 <!ENTITY closeCmd.label "Sluit">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "s">
-
-<!ENTITY closeWindow.label "Sluit venster">
 
 <!ENTITY quitApplicationCmd.label "Afsluit">
 <!ENTITY quitApplicationCmd.key "Q">

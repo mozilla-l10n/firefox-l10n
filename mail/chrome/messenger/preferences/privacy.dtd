@@ -28,16 +28,14 @@
 <!ENTITY useDownloadedList.accesskey "G">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro "&brandShortName; kan wagwoordinligting vir al u rekeninge onthou sodat u nie u aanmeldbesonderhede hoef in te tik nie.">
-<!ENTITY encryptEnabled.label "Gebruik 'n meesterwagwoord om gestoorde wagwoorde te enkripteer">
-<!ENTITY encryptEnabled.accesskey "g">
-<!ENTITY masterPassword.intro "Die meesterwagwoord sal al u wagwoorde beskerm, maar u moet dit een maal per sessie intik.">
-<!ENTITY setMasterPassword.label "Meesterwagwoord">
-<!ENTITY setMasterPassword.accesskey "M">
-<!ENTITY removeMasterPassword.label "Remove Master Password…">
-<!ENTITY removeMasterPassword.accesskey "R">
-<!ENTITY editPasswords.label "Bekyk gestoorde wagwoorde">
-<!ENTITY editPasswords.accesskey "b">
+<!ENTITY savedPasswords.intro "&brandShortName; can remember passwords for all of your accounts.">
+<!ENTITY useMasterPassword.label "Use a master password">
+<!ENTITY useMasterPassword.accesskey "m">
+<!ENTITY masterPassword.intro "A Master Password protects all your passwords, but you must enter it once per session.">
+<!ENTITY changeMasterPassword.label "Change Master Password…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label "Saved Passwords…">
+<!ENTITY savedPasswords.accesskey "S">
 <!-- Anti Virus -->
 
 <!ENTITY antiVirus.intro "&brandShortName; maak dit maklik vir viruswering om inkomende posboodskappe vir virusse te ontleed voor hulle plaaslik gestoor word.">

@@ -6,8 +6,23 @@
 <!-- General Settings -->
 
 
-<!ENTITY enableGloda.label "Enable Message Indexer">
-<!ENTITY enableGloda.accesskey "i">
+<!ENTITY enableGlodaSearch.label "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.accesskey "i">
+<!ENTITY systemDefaults.label "Stelselverstek">
+<!ENTITY alwaysCheckDefault.label "Kontroleer altyd aan die begin of &brandShortName; die verstek-poskliënt is">
+<!ENTITY alwaysCheckDefault.accesskey "k">
+<!ENTITY checkNow.label "Kontroleer nou">
+<!ENTITY checkNow.accesskey "N">
+<!ENTITY configEditDesc.label "Gevorderde opstelling">
+<!ENTITY configEdit.label "Config Editor…">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "Bepaal hoe &brandShortName; antwoordstrokies hanteer">
+<!ENTITY showReturnReceipts.label "Return Receipts…">
+<!ENTITY showReturnReceipts.accesskey "R">
+<!-- Display and Reading Settings -->
+
+<!ENTITY reading.caption "Reading">
+<!ENTITY display.caption "Vertoon">
 <!ENTITY showCondensedAddresses.label "Wys net vertoonnaam vir mense in my adresboek">
 <!ENTITY showCondensedAddresses.accesskey "t">
 
@@ -21,23 +36,11 @@
 <!ENTITY markAsReadDelay.label "After displaying for">
 <!ENTITY markAsReadDelay.accesskey "e">
 <!ENTITY secondsLabel.label "sekondes">
-<!ENTITY showFolderColumns.label "Wys uitgevoude kolomme in die vouerpaneel">
-<!ENTITY showFolderColumns.accesskey "v">
 <!ENTITY openMsgIn.label "Open messages in:">
 <!ENTITY reuseExpRadio0.label "'n Nuwe nuwe boodskapvenster">
 <!ENTITY reuseExpRadio0.accesskey "v">
 <!ENTITY reuseExpRadio1.label "'n Bestaande boodskapvenster">
 <!ENTITY reuseExpRadio1.accesskey "e">
-<!ENTITY configEditDesc.label "Gevorderde opstelling">
-<!ENTITY configEdit.label "Config Editor…">
-<!ENTITY configEdit.accesskey "g">
-<!ENTITY returnReceiptsInfo.label "Bepaal hoe &brandShortName; antwoordstrokies hanteer">
-<!ENTITY showReturnReceipts.label "Return Receipts…">
-<!ENTITY showReturnReceipts.accesskey "R">
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption "Reading">
-<!ENTITY display.caption "Display">
 <!-- Update -->
 
 <!ENTITY autoCheck.label "Kontroleer outomaties vir bywerkings aan:">
@@ -45,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Geïnstalleerde byvoegings">
 <!ENTITY enableAddonsUpdate.accesskey "s">
-<!ENTITY checkNow.label "Check Now…">
 <!ENTITY whenUpdatesFound.label "Wanneer bywerkings vir &brandShortName; gevind word,">
 <!ENTITY modeAskMe.label "Vra my wat ek wil doen">
 <!ENTITY modeAskMe.accesskey "r">
@@ -77,11 +79,11 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "Use up to">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "MB of space for the cache">
-<!ENTITY clearCacheNow.label "Clear Now">
-<!ENTITY clearCacheNow.accesskey "C">
+<!ENTITY useCacheBefore.label "Gebruik tot">
+<!ENTITY useCacheBefore.accesskey "G">
+<!ENTITY useCacheAfter.label "MB spasie vir die kasgeheue">
+<!ENTITY clearCacheNow.label "Maak nou skoon">
+<!ENTITY clearCacheNow.accesskey "M">
 <!-- Certificates -->
 
 <!ENTITY viewCertificates.label "Bekyk sertifikate">

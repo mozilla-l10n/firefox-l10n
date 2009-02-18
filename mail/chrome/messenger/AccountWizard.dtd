@@ -102,8 +102,10 @@
 <!ENTITY serverNamePrefix.label "Inkomende bediener:">
 <!ENTITY smtpServerNamePrefix.label "Uitgaande bediener (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nuusgroepbediener (NNTP):">
-<!ENTITY downloadOnLogin.label "Laai nou boodskappe af">
+<!ENTITY downloadOnLogin.label "Download messages now">
+<!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Ontmerk hierdie merkblokkie om pos vir hierdie rekening in sy eie gids te stoor. Dit sal hierdie rekening as 'n bovlak-rekening laat vertoon. Anders sal dit deel van die Plaaslike vouers se Globale inkassie-rekening wees.">
-<!ENTITY deferStorage.label "Gebruik globale inkassie (stoor pos in plaaslike vouers)">
+<!ENTITY deferStorage.label "Use Global Inbox (store mail in Local Folders)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Kliek Klaar om hierdie opstelling te stoor en die rekeningslimmerd af te sluit.">
 <!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">

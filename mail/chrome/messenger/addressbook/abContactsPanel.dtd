@@ -4,8 +4,8 @@
 <!ENTITY searchInput.accesskey "o">
 <!ENTITY SearchNameOrEmail.label "Naam of e-pos">
 
-<!ENTITY deleteAddrBookCard.label "Delete">
-<!ENTITY addrBookCardProperties.label "Properties">
+<!ENTITY deleteAddrBookCard.label "Skrap">
+<!ENTITY addrBookCardProperties.label "Eienskappe">
 <!ENTITY addtoToFieldMenu.label "Voeg by Aan-veld">
 <!ENTITY addtoCcFieldMenu.label "Voeg by CC-veld">
 <!ENTITY addtoBccFieldMenu.label "Voeg by BCC-veld">

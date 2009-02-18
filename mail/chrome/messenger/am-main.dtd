@@ -16,8 +16,8 @@
 <!ENTITY signature.label "Las hierdie handtekening by:">
 <!ENTITY signature.accesskey "l">
 <!ENTITY edit.label "Edit…">
-<!ENTITY choose.label "Choose…">
-<!ENTITY choose.accesskey "C">
+<!ENTITY choose.label "Kies…">
+<!ENTITY choose.accesskey "K">
 <!ENTITY editVCard.label "Edit Card…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->

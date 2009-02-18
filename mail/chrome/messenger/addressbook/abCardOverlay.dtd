@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY Contact.tab "Kontak">
-<!ENTITY Contact.accesskey "C">
+<!ENTITY Contact.accesskey "K">
 <!ENTITY Name.box "Naam">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -67,7 +67,6 @@
 <!ENTITY NickName.label "Bynaam:">
 <!ENTITY NickName.accesskey "B">
 
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "E-pos:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Additional Email:">
@@ -100,7 +99,7 @@ images in HTML messages from this contact.">
 <!ENTITY CellularNumber.accesskey "S">
 
 <!ENTITY Home.tab "Private">
-<!ENTITY Home.accesskey "P">
+<!ENTITY Home.accesskey "w">
 <!ENTITY HomeAddress.label "Address:">
 <!ENTITY HomeAddress.accesskey "A">
 <!ENTITY HomeAddress2.label "">
@@ -117,9 +116,11 @@ images in HTML messages from this contact.">
 <!ENTITY HomeWebPage.accesskey "e">
 <!ENTITY Birthday.label "Birthday:">
 <!ENTITY Birthday.accesskey "B">
+<!ENTITY In.label "">
 <!ENTITY Year.emptytext "Year">
 <!ENTITY Or.value "or">
 <!ENTITY Age.emptytext "Age">
+<!ENTITY YearsOld.label "">
 
 <!ENTITY Work.tab "Werk">
 <!ENTITY Work.accesskey "W">
@@ -145,7 +146,7 @@ images in HTML messages from this contact.">
 <!ENTITY WorkWebPage.accesskey "e">
 
 <!ENTITY Other.tab "Ander">
-<!ENTITY Other.accesskey "h">
+<!ENTITY Other.accesskey "l">
 <!ENTITY Custom1.label "Doelmaak 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Doelmaak 2:">

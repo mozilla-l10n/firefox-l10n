@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "O">
-<!ENTITY newCard.label "Address Book Card…">
-<!ENTITY newCard.accesskey "c">
+<!ENTITY newContact.label "Address Book Contact…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Aanheg">
 <!ENTITY attachMenu.accesskey "a">
 <!ENTITY attachFileCmd.label "File(s)…">
@@ -43,9 +43,9 @@
 <!ENTITY sendLaterCmd.accesskey "L">
 <!ENTITY printSetupCmd.label "Page Setup…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Print…">
+<!ENTITY printCmd.label "Druk…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "D">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Redigeer">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Nutsbalke">
 <!ENTITY viewToolbarsMenuNew.accesskey "N">
 <!ENTITY showCompositionToolbarCmd.label "Composition Toolbar">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formatting Bar">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statusbalk">
@@ -109,10 +110,10 @@
 
 <!ENTITY optionsMenu.label "Opsies">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "Check Spelling…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd2.label "Check Spelling…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "Gaan spelling na terwyl u tik">
 <!ENTITY enableInlineSpellChecker.accesskey "G">
 <!ENTITY quoteCmd.label "Haal boodskap aan">
@@ -165,7 +166,7 @@
 <!ENTITY accountManagerCmd.label "Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Options…">
+<!ENTITY preferencesCmd.label "Opsies…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
@@ -184,7 +185,6 @@
 <!ENTITY attachButton.label "Heg aan">
 <!ENTITY spellingButton.label "Spelling">
 <!ENTITY saveButton.label "Stoor">
-<!ENTITY throbberItem.title "Aktiwitietaanwyser">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Versend hierdie boodskap nou">
