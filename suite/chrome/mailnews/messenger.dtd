@@ -465,10 +465,8 @@
 <!ENTITY folderContextProperties.accesskey "С">
 <!ENTITY folderContextSettings.label "Параметры…">
 <!ENTITY folderContextSettings.accesskey "а">
-<!ENTITY SearchSubjectOrFrom.label "Поля «Тема» или «От» содержат:">
-<!ENTITY SearchSubjectOrFrom.accesskey "я">
-<!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес содержат:">
-<!ENTITY SearchNameOrEmail.accesskey "И">
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchSubjectAndFrom.emptytext "Поиск по теме и отправителю">
 <!ENTITY advancedButton.label "Дополнительно…">
 <!ENTITY advancedButton.accesskey "Д">
 <!ENTITY all.label "Все сообщения">
