@@ -65,7 +65,7 @@
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "ਹਮੇਸ਼ਾ ਪੜ੍ਹੇ ਸੁਨੇਹੇ ਹਟਾਓ">
 <!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.label "ਹਮੇਸ਼ਾ ਤਾਰਾਬੱਧ ਸੁਨੇਹੇ ਰੱਖੋ">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderOfflineTab.label                             "ਆਫਲਾਈਨ">
@@ -77,7 +77,7 @@
 <!ENTITY offlineFolder.button.label                         "ਹੁਣ ਡਾਊਨਲੋਡ ਕਰੋ">
 <!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label                 "ਆਫਲਾਇਨ ਇਸਤੇਮਾਲ ਲਈ ਇਹ ਨਿਊਜ਼ਗਰੁੱਪ ਇਸਤੇਮਾਲ ਕਰੋ">
+<!ENTITY selectofflineNewsgroup.check.label                 "ਆਫਲਾਈਨ ਇਸਤੇਮਾਲ ਲਈ ਇਹ ਨਿਊਜ਼ਗਰੁੱਪ ਇਸਤੇਮਾਲ ਕਰੋ">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 
 <!ENTITY offlineNewsgroup.button.label                      "ਡਾਊਨਲੋਡ ਕਰੋ">

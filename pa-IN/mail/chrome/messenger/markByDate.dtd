@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "ਸੁਨੇਹੇ ਮਿਤੀ ਨਾਲ ਪੜੇ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ">
-<!ENTITY markByDateLower.label "ਇਸ ਤੋਂ ਸੁਨੇਹੇ ਪੜੇ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ:">
+<!ENTITY messageMarkByDate.label "ਸੁਨੇਹੇ ਮਿਤੀ ਨਾਲ ਪੜ੍ਹੇ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ">
+<!ENTITY markByDateLower.label "ਇਸ ਤੋਂ ਸੁਨੇਹੇ ਪੜ੍ਹੇ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ:">
 <!ENTITY markByDateLower.accesskey "F">
 <!ENTITY markByDateUpper.accesskey "T">
 <!ENTITY markByDateUpper.label "ਤੱਕ:">

@@ -43,9 +43,9 @@
 <!ENTITY fieldMapImport.previous.label "ਪਿੱਛੇ">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Use Move Up and Move Down to match the address book fields on the left to the correct data for import on the right. Uncheck items you do not want to import.">
-<!ENTITY fieldMapImport.up.label "Move Up">
+<!ENTITY fieldMapImport.up.label "ਉੱਤੇ ਭੇਜੋ">
 <!ENTITY fieldMapImport.up.accesskey "U">
-<!ENTITY fieldMapImport.down.label "Move Down">
+<!ENTITY fieldMapImport.down.label "ਹੇਠਾਂ ਭੇਜੋ">
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Address Book fields">
 <!ENTITY fieldMapImport.dataTitle "Record data to import">
