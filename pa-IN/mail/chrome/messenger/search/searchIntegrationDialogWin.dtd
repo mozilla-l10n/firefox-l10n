@@ -1,4 +1,4 @@
-<!ENTITY searchIntegration.engineName "Windows Search">
+<!ENTITY searchIntegration.engineName "ਵਿੰਡੋਜ਼ ਖੋਜ">
 <!ENTITY searchIntegration.title "&searchIntegration.engineName; Integration">
 <!ENTITY searchIntegration.description "Would you like to enable &searchIntegration.engineName; to index and search through &brandShortName; mail and news messages?">
 
