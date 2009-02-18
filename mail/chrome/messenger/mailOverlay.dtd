@@ -1,7 +1,7 @@
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "M">
-<!ENTITY  newMessageCmd.label             "Message">
+<!ENTITY  newMessageCmd.label             "ਸੁਨੇਹਾ">
 <!ENTITY  newMessageCmd.accesskey         "m">
  
-<!ENTITY  newContactCmd.label             "Address Book Contact…">
+<!ENTITY  newContactCmd.label             "ਐਡਰੈੱਸ ਬੁੱਕ ਸੰਪਰਕ…">
 <!ENTITY  newContactCmd.accesskey         "C">

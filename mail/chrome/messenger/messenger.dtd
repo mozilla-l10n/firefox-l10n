@@ -1,93 +1,93 @@
-<!ENTITY messengerWindow.title "Mail &amp; Newsgroups">
+<!ENTITY messengerWindow.title "ਮੇਲ &amp; ਨਿਊਜ਼ਗਰੁੱਪ">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Folder…">
+<!ENTITY newFolderCmd.label "ਫੋਲਡਰ…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY closeTabCmd.label "Close Tab">
+<!ENTITY closeTabCmd.label "ਟੈਬ ਬੰਦ ਕਰੋ">
 <!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY newVirtualFolderCmd.label "Saved Search…">
+<!ENTITY newVirtualFolderCmd.label "ਸੰਭਾਲੀ ਖੋਜ…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newAccountCmd.label "Account…">
+<!ENTITY newAccountCmd.label "ਅਕਾਊਂਟ…">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageFileCmd.label "Open Saved Message…">
+<!ENTITY openMessageFileCmd.label "ਸੰਭਾਲਿਆ ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Attachments">
+<!ENTITY openAttachmentCmd.label "ਅਟੈਚਮੈਂਟ">
 <!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsMenu.label "Save As">
+<!ENTITY saveAsMenu.label "ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "File">
+<!ENTITY saveAsFileCmd.label "ਫਾਇਲ">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
-<!ENTITY saveAsTemplateCmd.label "Template">
+<!ENTITY saveAsTemplateCmd.label "ਟੈਪਲੇਟ">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgCmd.key "t">
-<!ENTITY getNewMsgForCmd.label "Get New Messages for">
+<!ENTITY getNewMsgForCmd.label "ਨਵੇਂ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY getNewMsgForCmd.accesskey "w">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "ਸਭ ਅਕਾਊਂਟ">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "ਮੌਜੂਦਾ ਅਕਾਊਂਟ">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Get Next 500 News Messages">
+<!ENTITY getNextNMsgCmd.label "ਅੱਗੇ 500 ਖ਼ਬਰ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY getNextNMsgCmd.accesskey "t">
-<!ENTITY sendUnsentCmd.label "Send Unsent Messages">
+<!ENTITY sendUnsentCmd.label "ਨਾ-ਭੇਜੇ ਸੁਨੇਹੇ ਭੇਜੋ">
 <!ENTITY sendUnsentCmd.accesskey "d">
-<!ENTITY subscribeCmd.label "Subscribe…">
+<!ENTITY subscribeCmd.label "…ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY deleteFolder.label "Delete Folder">
+<!ENTITY deleteFolder.label "ਫੋਲਡਰ ਹਟਾਓ">
 <!ENTITY deleteFolder.accesskey "e">
-<!ENTITY renameFolder.label "Rename Folder…">
+<!ENTITY renameFolder.label "…ਫੋਲਡਰ ਨਾਂ ਬਦਲੋ">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
-<!ENTITY compactFolders.label "Compact Folders">
+<!ENTITY compactFolders.label "ਫੋਲਡਰ ਕੰਪੈਕਟ">
 <!ENTITY compactFolders.accesskey    "F">
-<!ENTITY emptyTrashCmd.label "Empty Trash">
+<!ENTITY emptyTrashCmd.label "ਰੱਦੀ ਖਾਲੀ ਕਰੋ">
 <!ENTITY emptyTrashCmd.accesskey    "y">
-<!ENTITY importCmd.label "Import…">
+<!ENTITY importCmd.label "…ਇੰਪੋਰਟ ਕਰੋ">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY offlineMenu.label "Offline">
+<!ENTITY offlineMenu.label "ਆਫਲਾਈਨ">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "Work Offline">
+<!ENTITY offlineGoOfflineCmd.label "ਆਫਲਾਈਨ ਚੱਲੋ">
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
-<!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
+<!ENTITY synchronizeOfflineCmd.label "ਹੁਣੇ ਡਾਊਨਲੋਡ/ਸੈਕਰੋ ਕਰੋ…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Offline Settings…">
+<!ENTITY settingsOfflineCmd.label "ਆਫਲਾਈਨ ਸੈਟਿੰਗ…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
-<!ENTITY downloadSelectedCmd.label "Get Selected Messages">
+<!ENTITY downloadSelectedCmd.label "ਚੁਣੇ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Get Starred Messages">
+<!ENTITY downloadStarredCmd.label "ਤਾਰਾਬੱਧ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY downloadStarredCmd.accesskey "a">
-<!ENTITY printCmd.label "Print…">
+<!ENTITY printCmd.label "…ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.label "ਪਰਿੰਟ ਝਲਕ">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Page Setup…">
+<!ENTITY printSetupCmd.label "…ਪੇਜ਼ ਸੈੱਟਅੱਪ">
 <!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY deleteMsgCmd.label "Delete Message">
+<!ENTITY deleteMsgCmd.label "ਸੁਨੇਹਾ ਹਟਾਓ">
 <!ENTITY deleteMsgCmd.accesskey "D">
-<!ENTITY undeleteMsgCmd.label "Undelete Message">
+<!ENTITY undeleteMsgCmd.label "ਹਟਾਇਆ ਸੁਨੇਹਾ ਵਾਪਿਸ">
 <!ENTITY undeleteMsgCmd.accesskey "d">
-<!ENTITY cancelNewsMsgCmd.label "Cancel Message">
+<!ENTITY cancelNewsMsgCmd.label "ਸੁਨੇਹਾ ਰੱਦ ਕਰੋ">
 <!ENTITY cancelNewsMsgCmd.accesskey "M">
-<!ENTITY deleteMsgsCmd.label "Delete Selected Messages">
+<!ENTITY deleteMsgsCmd.label "ਚੁਣੇ ਸੁਨੇਹੇ ਹਟਾਓ">
 <!ENTITY deleteMsgsCmd.accesskey "D">
-<!ENTITY undeleteMsgsCmd.label "Undelete Selected Messages">
+<!ENTITY undeleteMsgsCmd.label "ਚੁਣੇ ਹਟਾਏ ਸੁਨੇਹੇ ਵਾਪਿਸ ਲਵੋ">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "Cancel Selected Messages">
+<!ENTITY cancelNewsMsgsCmd.label "ਚੁਣੇ ਸੁਨੇਹੇ ਰੱਦ ਕਰੋ">
 <!ENTITY cancelNewsMsgsCmd.accesskey "n">
-<!ENTITY deleteFolderCmd.label "Delete Folder">
+<!ENTITY deleteFolderCmd.label "ਫੋਲਡਰ ਹਟਾਓ">
 <!ENTITY deleteFolderCmd.accesskey "D">
-<!ENTITY unsubscribeNewsgroupCmd.label "Unsubscribe">
+<!ENTITY unsubscribeNewsgroupCmd.label "ਮੈਂਬਰੀ ਹਟਾਓ">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
-<!ENTITY selectMenu.label "Select">
+<!ENTITY selectMenu.label "ਚੁਣੋ">
 <!ENTITY selectMenu.accesskey "S">
-<!ENTITY all.label "All">
+<!ENTITY all.label "ਸਭ">
 <!ENTITY all.accesskey "A">
-<!ENTITY selectThreadCmd.label "Thread">
+<!ENTITY selectThreadCmd.label "ਥਰਿੱਡ">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Starred Messages">

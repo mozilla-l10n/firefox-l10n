@@ -10,11 +10,11 @@
 -->
 <!ENTITY credit.translation
   "<h3>ਅਨੁਵਾਦ (Translator)</h3><ul><li>ਅਮਨਪਰੀਤ ਸਿੰਘ ਬਰਾੜ ਆਲਮਵਾਲਾ</li>
-  <li>Punjabi Open Source R&D Lab</li>
+  <li>Punjabi Open Source Team (http://www.satluj.com/)</li>
   <li>ਆਪਣੀ ਬੋਲੀ ਆਪਣਾ ਮਾਣ</li></ul>">
 
 <!ENTITY credit.theme          "ਥੀਮ ਡਿਜ਼ਾਇਨ">
 <!ENTITY credit.qa             "ਕੁਆਲਟੀ ਜਾਂਚ">
 <!ENTITY credit.build          "ਬਿਲਡ ਅਤੇ ਰੀਲਿਜ਼">
-<!ENTITY credit.memory         "In Fond Memory Of">
-<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">
+<!ENTITY credit.memory         "ਯਾਦ ਵਿੱਚ">
+<!ENTITY credit.poweredByGecko "Gecko&trade; ਵਲੋਂ ਮੱਦਦ ਨਾਲ">
