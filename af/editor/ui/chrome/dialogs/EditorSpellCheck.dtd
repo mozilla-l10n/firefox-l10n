@@ -59,8 +59,8 @@
 <!ENTITY moreDictionaries.label "Download more dictionaries…">
 <!ENTITY addToUserDictionaryButton.label "Voeg woord by">
 <!ENTITY addToUserDictionaryButton.accessKey "o">
-<!ENTITY editUserDictionaryButton.label "Edit…">
-<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY editUserDictionaryButton.label "Redigeer…">
+<!ENTITY editUserDictionaryButton.accessKey "R">
 <!ENTITY recheckButton.label "Gaan bladsy weer na">
 <!ENTITY recheckButton.accessKey "B">
 <!ENTITY closeButton.label "Sluit">

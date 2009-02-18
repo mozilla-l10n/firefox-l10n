@@ -8,8 +8,8 @@
 
 <!ENTITY smtpListAdd.label "Add…">
 <!ENTITY smtpListAdd.accesskey "d">
-<!ENTITY smtpListEdit.label "Edit…">
-<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListEdit.label "Redigeer…">
+<!ENTITY smtpListEdit.accesskey "R">
 <!ENTITY smtpListDelete.label "Verwyder">
 <!ENTITY smtpListDelete.accesskey "w">
 <!ENTITY smtpListSetDefault.label "Stel verstek op">
@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "Bedienernaam: ">
 <!ENTITY serverPort.label "Poort: ">
 <!ENTITY userName.label "Gebruikernaam: ">
-<!ENTITY useSecureConnection.label "Beveiligde verbinding: ">
+<!ENTITY connectionSecurity.label "Connection Security: ">
 <!ENTITY useSecureAuthentication.label "Secure Authentication: ">

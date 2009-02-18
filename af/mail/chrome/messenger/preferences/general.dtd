@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label "Stelselverstek">
-<!ENTITY alwaysCheckDefault.label "Kontroleer altyd aan die begin of &brandShortName; die verstek-poskliënt is">
-<!ENTITY alwaysCheckDefault.accesskey "k">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "Kontroleer nou">
-<!ENTITY checkNow.accesskey "N">
-
 <!ENTITY messengerStartPage.label "&brandShortName; se beginbladsy">
 <!ENTITY enableStartPage.label "Wanneer &brandShortName; laat loop word, wys die beginbladsy in die boodskaparea">
 <!ENTITY enableStartPage.accesskey "W">
@@ -37,11 +25,11 @@
 <!ENTITY systemsound.accesskey "t">
 <!ENTITY customsound.label "Gebruik die volgende klanklêer">
 <!ENTITY customsound.accesskey "G">
-<!ENTITY browse.label "Browse…">
+<!ENTITY browse.label "Blaai…">
 <!ENTITY browse.accesskey "B">
 
-<!ENTITY addonsMgr.label "Add-ons">
-<!ENTITY manageAddonsDescWin.label "Change options for your add-ons">
-<!ENTITY manageAddonsDescUnix2.label "Change preferences for your add-ons">
-<!ENTITY manageAddons.label "Manage Add-ons…">
-<!ENTITY manageAddons.accesskey "M">
+<!ENTITY addonsMgr.label "Byvoegings">
+<!ENTITY manageAddonsDescWin.label "Verander opsies vir u byvoegings">
+<!ENTITY manageAddonsDescUnix2.label "Verander voorkeure vir u byvoegings">
+<!ENTITY manageAddons.label "Bestuur byvoegings…">
+<!ENTITY manageAddons.accesskey "B">

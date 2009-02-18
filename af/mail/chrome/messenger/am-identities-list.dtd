@@ -1,7 +1,7 @@
 <!ENTITY identitiesListDesc.label "Steun vir meervoudige identiteite">
 <!ENTITY identitiesListAdd.label "Add…">
 <!ENTITY identitiesListAdd.accesskey "A">
-<!ENTITY identitiesListEdit.label "Edit…">
-<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListEdit.label "Redigeer…">
+<!ENTITY identitiesListEdit.accesskey "R">
 <!ENTITY identitiesListDelete.label "Skrap">
 <!ENTITY identitiesListDelete.accesskey "S">

@@ -54,7 +54,9 @@
 <!ENTITY retentionUseDefault.accesskey "v">
 <!ENTITY daysOld.label "dae oud">
 <!ENTITY message.label "boodskappe">
-<!ENTITY retentionCleanup.label "Om skyfpasie te herwin, kan ou boodskappe permanent geskrap word">
+<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionDeleteMsg.label "Skrap boodskappe van meer as">
 <!ENTITY retentionDeleteMsg.accesskey "b">
 <!ENTITY retentionKeepAll.label "Moenie enige boodskappe skrap nie">
@@ -63,6 +65,8 @@
 <!ENTITY retentionKeepNew.accesskey "r">
 <!ENTITY retentionKeepUnread.label "Skrap atyd geleesde boodskappe">
 <!ENTITY retentionKeepUnread.accesskey "g">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderOfflineTab.label "Aflyn">
 <!ENTITY folderCheckForNewMessages.label "Kontroleer hierdie vouer vir nuwe boodskappe">
@@ -80,7 +84,7 @@
 
 <!ENTITY folderProps.name.label "Naam:">
 <!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderProps.location.label "Location:">
+<!ENTITY folderProps.location.label "Ligging:">
 <!ENTITY folderProps.location.accesskey "L">
 
 <!ENTITY folderSharingTab.label "Deel">

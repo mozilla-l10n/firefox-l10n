@@ -48,7 +48,7 @@
 <!ENTITY newBlankPageCmd.label "Composer Page">
 <!ENTITY newBlankPageCmd.accesskey "P">
 <!ENTITY newMenu.label "Nuwe">
-<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY openFileCmd.label "Open lêer…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Open Web Location…">
@@ -77,10 +77,10 @@
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Send Page…">
 <!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Print…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printSetupCmd.label "Bladsyopstelling…">
+<!ENTITY printSetupCmd.accesskey "t">
+<!ENTITY printCmd.label "Druk…">
+<!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "Close">
 <!ENTITY closeCmd.accesskey "C">
@@ -112,9 +112,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Gaan spelling na terwyl u tik">
 <!ENTITY enableInlineSpellChecker.accesskey "G">
-<!ENTITY checkSpellingCmd.label "Check Spelling">
-<!ENTITY checkSpellingCmd.accesskey "h">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Check Spelling">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Validate HTML">
 <!ENTITY validateCmd.accesskey "V">
 <!-- Insert menu items -->

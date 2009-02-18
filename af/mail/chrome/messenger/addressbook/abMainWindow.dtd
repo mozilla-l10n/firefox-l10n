@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey "l">
 <!ENTITY newMenu.label "Nuwe">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "Address Book Card…">
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
+<!ENTITY newContact.label "Address Book Contact…">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.key "N">
 <!ENTITY newListCmd.label "Mailing List…">
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "Address Book…">
@@ -25,13 +25,13 @@
 <!ENTITY closeCmd.accesskey "s">
 <!ENTITY printSetupCmd.label "Page Setup…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCardViewCmd.label "Drukvoorskou van kaart">
-<!ENTITY printPreviewCardViewCmd.accesskey "v">
+<!ENTITY printPreviewContactCmd.label "Print Preview Contact">
+<!ENTITY printPreviewContactCmd.accesskey "v">
 <!ENTITY printPreviewAddressBook.label "Drukvoorskou van adresboek">
 <!ENTITY printPreviewAddressBook.accesskey "B">
-<!ENTITY printCardViewCmd.label "Print Card…">
-<!ENTITY printCardViewCmd.accesskey "p">
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactCmd.label "Print Contact…">
+<!ENTITY printContactCmd.accesskey "P">
+<!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Print Address Book…">
 <!ENTITY printAddressBook.accesskey "A">
 <!-- Edit Menu -->
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label "Skrap">
 <!ENTITY deleteCmd.accesskey "s">
 <!ENTITY deleteAbCmd.label "Skrap adresboek">
-<!ENTITY deleteCardCmd.label "Skrap kaart">
-<!ENTITY deleteCardsCmd2.label "Delete Cards">
+<!ENTITY deleteContactCmd.label "Delete Contact">
+<!ENTITY deleteContactsCmd.label "Delete Contacts">
 <!ENTITY deleteListCmd.label "Delete List">
 <!ENTITY deleteListsCmd.label "Delete Lists">
 <!ENTITY deleteItemsCmd.label "Delete Items">
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Customize…">
 <!ENTITY customizeToolbar.accesskey "C">
-<!ENTITY showCardPane.label "Kaartopsomming-paneel">
-<!ENTITY showCardPane.accesskey "K">
+<!ENTITY showContactPane.label "Contact Summary Pane">
+<!ENTITY showContactPane.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "Vertoon naam as">
 <!ENTITY menu_ShowNameAs.accesskey "n">
 <!ENTITY firstLastCmd.label "Voornaam en van">
@@ -106,37 +106,36 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "Search Addresses…">
 <!ENTITY searchAddressesCmd.accesskey "S">
-<!ENTITY importCmd.label "Import…">
+<!ENTITY importCmd.label "Invoer…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Export…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "Options…">
+<!ENTITY preferencesCmd.label "Opsies…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newcardButton.label "Nuwe kaart">
-<!ENTITY newcardButton.accesskey "K">
+<!ENTITY newContactButton.label "New Contact">
+<!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "Nuwe lys">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton.label "Eienskappe">
-<!ENTITY editButton.accesskey "E">
+<!ENTITY editButton2.label "Eienskappe">
+<!ENTITY editButton2.accesskey "E">
 <!ENTITY newmsgButton.label "Skryf">
 <!ENTITY newmsgButton.accesskey "S">
 <!ENTITY newIM.label "Kitsboodskappe">
 <!ENTITY newIM.accesskey "K">
-<!ENTITY deleteButton.label "Skrap">
-<!ENTITY deleteButton.accesskey "S">
-<!ENTITY throbberItem.title "Aktiwitietaanwyser">
+<!ENTITY deleteButton2.label "Skrap">
+<!ENTITY deleteButton2.accesskey "S">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newcardButton.tooltip "Skep nuwe adresboekkaart">
+<!ENTITY newContactButton.tooltip "Create a new address book contact">
 <!ENTITY newlistButton.tooltip "Skep nuwe lys">
-<!ENTITY editButton.tooltip "Redigeer geselekteerde kaart">
+<!ENTITY editButton2.tooltip "Edit the selected item">
 <!ENTITY newmsgButton.tooltip "Stuur 'n posboodskap">
 <!ENTITY newIM.tooltip "Stuur 'n kitsboodskap of klets">
-<!ENTITY deleteButton.tooltip "Skrap geselekteerde kaart of adresboek">
+<!ENTITY deleteButton2.tooltip "Delete selected item">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label "Adresboeke">

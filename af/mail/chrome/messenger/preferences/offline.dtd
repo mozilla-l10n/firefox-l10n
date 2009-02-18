@@ -11,7 +11,7 @@
 <!ENTITY textGoingOnline "Stuur ongestuurde boodskappe wanneer aanlyn gaan?">
 <!ENTITY radioAutoSend.label "Yes">
 <!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend.label "No">
+<!ENTITY radioNotSend.label "Nee">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Ask me">
 <!ENTITY radioAskUnsent.accesskey "s">

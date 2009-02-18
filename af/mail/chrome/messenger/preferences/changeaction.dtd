@@ -7,7 +7,7 @@
 <!ENTITY openDefault.accesskey "O">
 <!ENTITY openApplication.label "Open dit met hierdie toepassing:">
 <!ENTITY openApplication.accesskey "e">
-<!ENTITY changeApp.label "Browse…">
+<!ENTITY changeApp.label "Blaai…">
 <!ENTITY changeApp.accesskey "B">
 <!ENTITY saveToDisk.label "Stoor dit op my rekenaar">
 <!ENTITY saveToDisk.accesskey "S">

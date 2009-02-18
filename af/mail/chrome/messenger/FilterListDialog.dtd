@@ -3,8 +3,8 @@
 <!ENTITY activeColumn.label "Geaktiveer">
 <!ENTITY newButton.label "New…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Edit…">
-<!ENTITY editButton.accesskey "E">
+<!ENTITY editButton.label "Redigeer…">
+<!ENTITY editButton.accesskey "R">
 <!ENTITY deleteButton.label "Skrap">
 <!ENTITY deleteButton.accesskey "a">
 <!ENTITY reorderUpButton.label "Skuif op">

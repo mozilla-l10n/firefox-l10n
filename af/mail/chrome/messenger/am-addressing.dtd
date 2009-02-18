@@ -11,7 +11,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Gebruik 'n ander LDAP-bediener:">
 <!ENTITY directories.accesskey "d">
-<!ENTITY directoriesNone.label "None">
+<!ENTITY directoriesNone.label "Geen">
 <!-- am-addressing.xul -->
 
 

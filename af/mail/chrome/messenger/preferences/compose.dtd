@@ -45,7 +45,7 @@
 <!ENTITY addressingEnable.accesskey "A">
 <!ENTITY directories.label "Gidsbediener:">
 <!ENTITY directories.accesskey "G">
-<!ENTITY directoriesNone.label "None">
+<!ENTITY directoriesNone.label "Geen">
 <!ENTITY editDirectories.label "Edit Directories…">
 <!ENTITY editDirectories.accesskey "E">
 

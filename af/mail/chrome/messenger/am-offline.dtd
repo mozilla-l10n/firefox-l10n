@@ -11,7 +11,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "Boodskappe van meer as">
 <!ENTITY nntpDownloadMsg.accesskey "o">
-<!ENTITY retentionCleanup.label "Om skyfpasie te herwin, kan ou boodskappe permanent geskrap word">
+<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionKeepMsg.label "Delete messages more than">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Don't delete any messages">
@@ -20,11 +22,13 @@
 <!ENTITY retentionKeepNew.accesskey "b">
 <!ENTITY retentionKeepUnread.label "Always delete read messages">
 <!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Verwyder boodskappe se inhoud wat ouer is as">
 <!ENTITY nntpRemoveBody.accesskey "W">
 <!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY offlineImapAdvancedOffline.label "Gevorderd…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "G">
 <!ENTITY syncGroupTitle.label "Message Synchronizing">
 <!ENTITY diskspaceGroupTitle.label "Skyfspasie">
