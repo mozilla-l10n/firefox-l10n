@@ -28,16 +28,14 @@
 <!ENTITY useDownloadedList.accesskey "K">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro          "&brandShortName; tallentaa sähköpostitilien salasanat, jotta niitä ei tarvitse kirjoittaa joka kerta kun yhteys palvelimeen luodaan.">
-<!ENTITY  encryptEnabled.label         "Salaa tallennetut kirjautumistiedot pääsalasanalla">
-<!ENTITY  encryptEnabled.accesskey     "S">
-<!ENTITY  masterPassword.intro         "Kun pääsalasana on asetettu, sillä suojataan muita salasanoja ja se kysytään tarvittaessa kerran joka istunnossa.">
-<!ENTITY  setMasterPassword.label      "Pääsalasana">
-<!ENTITY  setMasterPassword.accesskey  "A">
-<!ENTITY  removeMasterPassword.label   "Poista pääsalasana…">
-<!ENTITY  removeMasterPassword.accesskey  "o">
-<!ENTITY  editPasswords.label         "Muokkaa tallennettuja salasanoja">
-<!ENTITY  editPasswords.accesskey     "M">
+<!ENTITY savedPasswords.intro          "Voit tallentaa &brandShortName;iin kaikkien sähköpostitiliesi salasanat.">
+<!ENTITY useMasterPassword.label        "Ota pääsalasana käyttöön">
+<!ENTITY useMasterPassword.accesskey    "p">
+<!ENTITY masterPassword.intro           "Pääsalasanalla suojaat kaikkien sähköpostitiliesi salasanat, mutta se kysytään kerran joka istunnossa.">
+<!ENTITY changeMasterPassword.label     "Muuta pääsalasanaa…">
+<!ENTITY changeMasterPassword.accesskey "M">
+<!ENTITY savedPasswords.label           "Tallennetut salasanat…">
+<!ENTITY savedPasswords.accesskey       "T">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro       "&brandShortName;issä virustorjuntaohjelman voi antaa tarkistaa saapuvat sähköpostiviestit virusten varalta ennen kuin ne tallennetaan tietokoneelle.">

@@ -112,9 +112,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Oikolue kirjoitettaessa">
 <!ENTITY enableInlineSpellChecker.accesskey "k">
-<!ENTITY checkSpellingCmd.label "Oikolue">
-<!ENTITY checkSpellingCmd.accesskey "O">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Oikolue">
+<!ENTITY checkSpellingCmd2.accesskey "O">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Tarkista HTML">
 <!ENTITY validateCmd.accesskey "H">
 

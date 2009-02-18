@@ -18,15 +18,12 @@
 <!ENTITY biffStart.label  "Hae uusia viestejä">
 <!ENTITY biffStart.accesskey  "H">
 <!ENTITY biffEnd.label  "minuutin välein">
-<!ENTITY socketType.label  "Käytä suojattua yhteyttä:">
-<!ENTITY neverSecure.label  "Ei koskaan">
-<!ENTITY neverSecure.accesskey  "E">
-<!ENTITY sometimesSecure.label  "TLS, jos mahdollista">
-<!ENTITY sometimesSecure.accesskey  "j">
-<!ENTITY alwaysSecure.label  "TLS">
-<!ENTITY alwaysSecure.accesskey  "T">
-<!ENTITY alwaysSSL.label  "SSL">
-<!ENTITY alwaysSSL.accesskey  "S">
+<!ENTITY connectionSecurity.label "Yhteyden suojaus:">
+<!ENTITY connectionSecurity.accesskey "Y">
+<!ENTITY connectionSecurityType-0.label "Ei mitään">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, jos mahdollista">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label  "Käytä suojattua käyttäjätunnuksen todennusta">
 <!ENTITY useSecAuth.accesskey  "y">
 <!ENTITY leaveOnServer.label  "Jätä viestit palvelimelle">

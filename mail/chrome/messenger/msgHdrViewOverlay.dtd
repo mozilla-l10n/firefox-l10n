@@ -57,9 +57,11 @@
 
 <!ENTITY editMessageDescription.label "Tämä on luonnos">
 <!ENTITY editMessageButton.label "Muokkaa…">
-<!ENTITY replyButton.label "Vastaa…">
-<!ENTITY forwardButton.label "välitä…">
-<!ENTITY junkButton.label "merkitse roskapostiksi">
+<!ENTITY archiveButton.label "arkistoi">
+<!ENTITY hdrReplyButton.label "vastaa">
+<!ENTITY hdrReplyAllButton.label "vastaa kaikille">
+<!ENTITY hdrForwardButton.label "välitä">
+<!ENTITY hdrJunkButton.label "roskapostiksi">
 <!ENTITY trashButton.tooltiptext "poista">
 
 <!ENTITY otherActionsButton.label "muut toiminnot">
