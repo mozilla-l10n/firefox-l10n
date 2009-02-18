@@ -536,10 +536,8 @@
 
 <!-- SearchBar -->
 <!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Ieškoti: temos ar autoriaus lauke yra: ">
-<!ENTITY SearchSubjectOrFrom.accesskey "I">
-<!ENTITY SearchNameOrEmail.label "Ieškoti: asmenvardyje arba el. p. adrese yra:">
-<!ENTITY SearchNameOrEmail.accesskey "I">
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchSubjectAndFrom.emptytext "Ieškoti temos ar autoriaus">
 <!ENTITY advancedButton.label "Papildomai…">
 <!ENTITY advancedButton.accesskey "a">
 
