@@ -1,0 +1,35 @@
+<!ENTITY messengerStartPage.label         "&brandShortName; Start Page">
+<!ENTITY enableStartPage.label            "When &brandShortName; launches, show the Start Page in the message area">
+<!ENTITY enableStartPage.accesskey        "W">
+<!ENTITY location.label                   "مکان:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Restore Default">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "Animate the dock icon">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "When new messages arrive:">
+<!ENTITY playSound.label                  "Play a sound">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Show an alert">
+<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY customizeMailAlert.label         "سفارشی‌سازی…">
+<!ENTITY customizeMailAlert.accesskey     "س">
+
+<!ENTITY play.label                       "پخش">
+<!ENTITY play.accesskey                   "پ">
+<!ENTITY systemsound.label                "Default system sound for new mail">
+<!ENTITY systemsoundMac.label             "System Alert Sound">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Use the following sound file">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "مرور…">
+<!ENTITY browse.accesskey                 "م">
+
+<!ENTITY addonsMgr.label                  "افزودنی‌ها">
+<!ENTITY manageAddonsDescWin.label        "تغییر تنظیمات افزودنی‌ها">
+<!ENTITY manageAddonsDescUnix2.label      "تغییر ترجیحات افزودنی‌ها">
+<!ENTITY manageAddons.label               "مدیریت افزودنی‌ها…">
+<!ENTITY manageAddons.accesskey           "م">

@@ -1,0 +1,72 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Search for messages in:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "Search subfolders">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY resetButton.label           "پاک کردن">
+<!ENTITY resetButton.accesskey       "پ">
+<!ENTITY openButton.label            "باز کردن">
+<!ENTITY openButton.accesskey        "ب">
+<!ENTITY deleteButton.label          "حذف">
+<!ENTITY deleteButton.accesskey      "ح">
+<!ENTITY searchDialogTitle.label     "Search Messages">
+<!ENTITY results.label               "Results">
+<!ENTITY fileHereMenu.label          "File Here">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "پرونده">
+<!ENTITY fileButton.accesskey        "پ">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY goToFolderButton.label      "Open Message Folder">
+<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY saveAsVFButton.label        "Save as Search Folder">
+<!ENTITY saveAsVFButton.accesskey    "v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Search in:">
+<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY propertiesButton.label      "ویژگی‌ها">
+<!ENTITY propertiesButton.accesskey  "و">
+<!ENTITY composeButton.label         "Write">
+<!ENTITY composeButton.accesskey     "W">
+<!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Thread">
+<!ENTITY fromColumn.label "From">
+<!ENTITY recipientColumn.label "Recipient">
+<!ENTITY subjectColumn.label "موضوع">
+<!ENTITY dateColumn.label "تاریخ">
+<!ENTITY priorityColumn.label "Priority">
+<!ENTITY tagsColumn.label "برچسب‌ها">
+<!ENTITY accountColumn.label "Account">
+<!ENTITY statusColumn.label "وضعیت">
+<!ENTITY sizeColumn.label "اندازه">
+<!ENTITY junkStatusColumn.label "Junk Status">
+<!ENTITY unreadColumn.label "Unread">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Read">
+<!ENTITY receivedColumn.label "Received">
+<!ENTITY starredColumn.label "Starred">
+<!ENTITY locationColumn.label "محل">
+<!ENTITY idColumn.label "Order Received">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "برای انتخاب ستون‌هایی که می‌خواهید نمایش داده شوند، ‌کلیک کنید">
+<!ENTITY threadColumn.tooltip "Click to display message threads"> 
+<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY recipientColumn.tooltip "Click to sort by recipient">
+<!ENTITY subjectColumn.tooltip "Click to sort by subject">
+<!ENTITY dateColumn.tooltip "Click to sort by date">
+<!ENTITY priorityColumn.tooltip "Click to sort by priority">
+<!ENTITY tagsColumn.tooltip "Click to sort by tags">
+<!ENTITY accountColumn.tooltip "Click to sort by account">
+<!ENTITY statusColumn.tooltip "Click to sort by status">
+<!ENTITY sizeColumn.tooltip "Click to sort by size">
+<!ENTITY junkStatusColumn.tooltip "Click to sort by junk status">
+<!ENTITY unreadColumn.tooltip "Number of unread messages in thread">
+<!ENTITY totalColumn.tooltip "Total number of messages in thread">
+<!ENTITY readColumn.tooltip "Click to sort by read">
+<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY locationColumn.tooltip "Click to sort by location">
+<!ENTITY idColumn.tooltip "Click to sort by order received">

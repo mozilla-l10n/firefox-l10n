@@ -1,0 +1,22 @@
+<!ENTITY settings.caption "تنظیمات">
+<!ENTITY security.caption "Security and Authentication">
+<!ENTITY serverName.label "Server Name:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "شرح:">
+<!ENTITY serverDescription.accesskey "ش">
+<!ENTITY serverPort.label "درگاه:">
+<!ENTITY serverPort.accesskey "د">
+<!ENTITY alwaysUseUsername.label "Use name and password">
+<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY userName.label "نام کاربر:">
+<!ENTITY userName.accesskey "ن">
+<!ENTITY useSecAuth.label "Use secure authentication">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurityType-0.label "هیچ">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY smtpEditTitle.label "SMTP Server">
+<!ENTITY serverPortDefault.label "Default:">

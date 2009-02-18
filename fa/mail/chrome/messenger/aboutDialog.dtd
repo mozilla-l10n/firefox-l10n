@@ -1,0 +1,11 @@
+<!ENTITY aboutDialog.title      "دربارهٔ &brandFullName;">
+<!ENTITY credits.label          "دست‌اندرکاران">
+<!ENTITY credits.accesskey      "د">
+<!ENTITY aboutLink.label        "&lt; دربارهٔ &brandFullName;">
+<!ENTITY aboutLink.accesskey    "a">
+<!ENTITY aboutVersion           "نسخهٔ">
+<!ENTITY copyrightText          "&#169; حق نسخه‌برداری ۱۹۹۸-۲۰۰۹ مخصوص مشارکت‌کنندگان.  تمام حقوق محفوظ است.  موزیلا تاندربرد و
+                                 نشانه‌های تاندربرد علائم تجاری بنیاد
+                                 موزیلا می‌باشند.  تمام حقوق
+                                 محفوظ است.">
+<!ENTITY cmdCloseMac.commandKey "w">
