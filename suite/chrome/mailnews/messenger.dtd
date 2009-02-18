@@ -537,12 +537,9 @@
 <!ENTITY folderContextSettings.label "Instellingen…">
 <!ENTITY folderContextSettings.accesskey "i">
 
-<!-- Search Bar -->
-<!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Onderwerp of afzender bevat:">
-<!ENTITY SearchSubjectOrFrom.accesskey "O">
-<!ENTITY SearchNameOrEmail.label "Naam of e-mail bevat:">
-<!ENTITY SearchNameOrEmail.accesskey "N">
+<!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchSubjectAndFrom.emptytext "Onderwerp en afzender doorzoeken">
 <!ENTITY advancedButton.label "Advanced…">
 <!ENTITY advancedButton.accesskey "A">
 
