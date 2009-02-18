@@ -8,8 +8,8 @@
 <!ENTITY inline.accesskey                     "N">
 <!ENTITY asAttachment.label                   "Dưới dạng Đính kèm">
 <!ENTITY asAttachment.accesskey               "D">
-<!ENTITY addExtension.label                   "thêm đuôi mở rộng vào tên tập tin">
-<!ENTITY addExtension.accesskey               "r">
+<!ENTITY addExtension.label                   "thêm đuôi vào tên tập tin">
+<!ENTITY addExtension.accesskey               "u">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Phông:">

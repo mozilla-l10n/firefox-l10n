@@ -1,8 +1,8 @@
 <!ENTITY itemFormatting.label             "Định dạng">
 <!ENTITY itemTags.label                   "Thẻ tag">
 
-<!ENTITY style.label                      "Kiểu Style:">
-<!ENTITY style.accesskey                  "y">
+<!ENTITY style.label                      "Kiểu:">
+<!ENTITY style.accesskey                  "K">
 <!ENTITY regularStyle.label               "Thông thường">
 <!ENTITY bold.label                       "Đậm">
 <!ENTITY italic.label                     "Nghiêng">
