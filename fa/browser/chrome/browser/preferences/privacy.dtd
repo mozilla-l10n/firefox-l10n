@@ -1,4 +1,4 @@
-<!ENTITY  history.label "تاریخچه">
+<!ENTITY  history.label                 "تاریخچه">
 
 <!ENTITY  locbar.pre.label              "هنگام استفاده از نوار مکان، از میان">
 <!ENTITY  locbar.pre.accessKey          "گ">

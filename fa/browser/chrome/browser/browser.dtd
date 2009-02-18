@@ -181,7 +181,7 @@
 <!ENTITY viewToolbarsMenu.accesskey     "ن"> 
 <!ENTITY viewSidebarMenu.label "نوار کناری">
 <!ENTITY viewSidebarMenu.accesskey "ک">
-<!ENTITY viewCustomizeToolbar.label       "سفارشی‌سازی"> 
+<!ENTITY viewCustomizeToolbar.label       "سفارشی‌سازی…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "س">
 
 <!ENTITY historyMenu.label "تاریخچه">
