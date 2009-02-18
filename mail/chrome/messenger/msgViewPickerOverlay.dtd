@@ -12,7 +12,7 @@
 <!ENTITY viewTags.accesskey "a">
 <!ENTITY viewCustomViews.label "Tùy biến Cách hiển thị">
 <!ENTITY viewCustomViews.accesskey "y">
-<!ENTITY viewVirtualFolder.label "Lưu Cách Hiển thị dưới dạng Thư mục…">
+<!ENTITY viewVirtualFolder.label "Lưu Cách Hiển thị thành Thư mục…">
 <!ENTITY viewVirtualFolder.accesskey "L">
 <!ENTITY viewCustomizeView.label "Tùy biến…">
 <!ENTITY viewCustomizeView.accesskey "b">

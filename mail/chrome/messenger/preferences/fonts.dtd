@@ -40,7 +40,7 @@
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armenia">
 <!ENTITY  font.langGroup.bengali                  "Băng-gan">
-<!ENTITY  font.langGroup.canadian                 "Âm Canađa thống nhất">
+<!ENTITY  font.langGroup.canadian                 "Ký hiệu Âm tiết Canađa Thống nhất">
 <!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
 <!ENTITY  font.langGroup.georgian                 "Gruzia">
 <!ENTITY  font.langGroup.gujarati                 "Gujarat">
@@ -61,12 +61,12 @@
 <!ENTITY  useDocumentFonts.accesskey              "C">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Thư Đi:">
-<!ENTITY sendDefaultCharset.accesskey     "T">
+<!ENTITY sendDefaultCharset.label         "Thư Gửi:">
+<!ENTITY sendDefaultCharset.accesskey     "G">
 <!ENTITY languagesTitle1.label            "Bảng mã">
 <!ENTITY composingDescription.label       "Thiết lập bảng mã mặc định để gửi và nhận thư">
 
-<!ENTITY viewDefaultCharsetList.label     "Thư Đến:">
-<!ENTITY viewDefaultCharsetList.accesskey  "h">
+<!ENTITY viewDefaultCharsetList.label     "Thư Nhận:">
+<!ENTITY viewDefaultCharsetList.accesskey  "N">
 <!ENTITY replyInDefaultCharset2.label     "Nếu được, dùng bảng mã mặc định trong thư trả lời">
 <!ENTITY replyInDefaultCharset2.accesskey "o">
