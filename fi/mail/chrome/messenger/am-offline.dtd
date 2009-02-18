@@ -12,6 +12,8 @@
 <!ENTITY nntpDownloadMsg.label  "Viestejä, jotka ovat yli">
 <!ENTITY nntpDownloadMsg.accesskey  "s">
 <!ENTITY retentionCleanup.label  "Kiintolevytilaa voi vapauttaa poistamalla vanhoja viestejä pysyvästi.">
+<!ENTITY retentionCleanupImap.label "Kiintolevytilaa voidaan vapauttaa poistamalla lopullisesti vanhat viestit sekä omalta koneelta, että palvelimelta.">
+<!ENTITY retentionCleanupPop.label "Kiintolevytilaa voidaan vapauttaa poistamalla vanhat viestit lopullisesti, myös sähköpostipalvelimelta.">
 <!ENTITY retentionKeepMsg.label  "Poista viestit, jotka ovat yli">
 <!ENTITY retentionKeepMsg.accesskey  "o">
 <!ENTITY retentionKeepAll.label  "Älä poista mitään viestejä">
@@ -20,6 +22,8 @@
 <!ENTITY retentionKeepNew.accesskey  "P">
 <!ENTITY retentionKeepUnread.label  "Poista aina luetut viestit">
 <!ENTITY retentionKeepUnread.accesskey  "t">
+<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista lipulla merkittyjä viestejä">
+<!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveBody.label  "Vain ne viestit, jotka ovat yli">
 <!ENTITY nntpRemoveBody.accesskey  "n">
 <!ENTITY offlineSelectNntp.label  "Valitse yhteydettömässä tilassa käytettävät ryhmät…">

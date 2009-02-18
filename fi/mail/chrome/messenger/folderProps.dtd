@@ -55,6 +55,8 @@
 <!ENTITY daysOld.label  "päivää vanhoja">
 <!ENTITY message.label  "viestiä">
 <!ENTITY retentionCleanup.label  "Kiintolevytilaa voi vapauttaa poistamalla vanhoja viestejä pysyvästi.">
+<!ENTITY retentionCleanupImap.label "Kiintolevytilaa voidaan vapauttaa poistamalla lopullisesti vanhat viestit sekä omalta koneelta, että palvelimelta.">
+<!ENTITY retentionCleanupPop.label "Kiintolevytilaa voidaan vapauttaa poistamalla vanhat viestit lopullisesti, myös sähköpostipalvelimelta.">
 <!ENTITY retentionDeleteMsg.label "Poista viestit, jotka ovat yli">
 <!ENTITY retentionDeleteMsg.accesskey "y">
 <!ENTITY retentionKeepAll.label  "Älä poista mitään viestejä">
@@ -63,6 +65,8 @@
 <!ENTITY retentionKeepNew.accesskey  "v">
 <!ENTITY retentionKeepUnread.label  "Poista aina luetut viestit">
 <!ENTITY retentionKeepUnread.accesskey  "l">
+<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista lipulla merkittyjä viestejä">
+<!ENTITY retentionApplyToFlagged.accesskey "k">
 
 <!ENTITY folderOfflineTab.label                   "Yhteydetön tila">
 <!ENTITY folderCheckForNewMessages.label          "Tarkista, onko kansioon tullut uusia viestejä">

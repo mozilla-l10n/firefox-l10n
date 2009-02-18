@@ -309,6 +309,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey  "U">
 <!ENTITY newNewMsgCmd.label  "Viesti">
 <!ENTITY newNewMsgCmd.accesskey  "V">
+<!ENTITY archiveMsgCmd.label "Arkistoi">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label  "Vastaa">
 <!ENTITY replyMsgCmd.accesskey  "V">
 <!ENTITY replyMsgCmd.key	 "r">
@@ -406,12 +409,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey  "y">
 <!ENTITY addons.label "Lisäosat">
 <!ENTITY addons.accesskey "o">
+<!ENTITY activitymanager.label "Toimintojen hallinta">
+<!ENTITY activitymanager.accesskey "h">
 <!ENTITY messengerCmd.label  "Sähköposti ja keskusteluryhmät">
 <!ENTITY messengerCmd.accesskey  "S">
-<!ENTITY messengerCmd.commandkey  "1">
 <!ENTITY addressBookCmd.label  "Osoitekirja">
 <!ENTITY addressBookCmd.accesskey  "O">
-<!ENTITY addressBookCmd.commandkey  "2">
 <!ENTITY runJunkControls.label  "Tunnista kansion roskapostit">
 <!ENTITY runJunkControls.accesskey  "u">
 <!ENTITY deleteJunk.label  "Poista kansiosta roskapostiviestiksi merkityt">
@@ -447,6 +450,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label  "Roskapostiksi">
 <!ENTITY notJunkButton.label  "Ei roskapostia">
 <!ENTITY addressBookButton.label  "Osoitekirja">
+<!ENTITY glodaSearch.title "Yleishaku">
 <!ENTITY searchItem.title "Pikahaku">
 <!ENTITY mailViewsToolbarItem.title "Viestinäkymät">
 <!ENTITY folderLocationToolbarItem.title "Kansion sijainti">
@@ -529,6 +533,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label  "Nimi- tai sähköpostikentässä:">
 <!ENTITY SearchNameOrEmail.accesskey  "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Etsi viesteistä…">
+<!ENTITY glodaSearchBar.facet.label "Etsi:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Kaikesta">
+<!ENTITY glodaSearchFacet.subject.label "Aiheista">
+<!ENTITY glodaSearchFacet.involves.label "Vaihtoon osallistuneista">
+<!ENTITY glodaSearchFacet.to.label "Vastaanottajista, CC:stä">
+<!ENTITY glodaSearchFacet.from.label "Lähettäjistä">
+<!ENTITY glodaSearchFacet.body.label "Viestirungosta">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Liitteiden nimistä">
+
+<!ENTITY glodaSearchBar.location.label "Sijainti:">
+<!ENTITY glodaSearchFacet.everywhere.label "Kaikki kansiot">
+<!ENTITY glodaSearchFacet.folder.label "Tietystä kansiosta…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label  "Aihe">
 <!ENTITY searchFromMenu.label  "Lähettäjä">
@@ -558,6 +587,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label  "Sijainti">
 <!ENTITY idColumn.label  "Saapumisjärjestys">
 <!ENTITY attachmentColumn.label  "Liitteet">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Syy">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip  "Valitse näkyvät sarakkeet">
@@ -580,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip  "Napsauta järjestääksesi sijainnin mukaan">
 <!ENTITY idColumn.tooltip  "Napsauta järjestääksesi saapumisjärjestyksen mukaan">
 <!ENTITY attachmentColumn.tooltip  "Napsauta järjestääksesi liitteiden mukaan">
+<!ENTITY glodaWhyColumn.tooltip "Napsauta järjestääksesi listaussyyn mukaan">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label  "Avaa viesti uudessa ikkunassa">

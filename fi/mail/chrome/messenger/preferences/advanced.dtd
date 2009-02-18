@@ -6,8 +6,8 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Ota käyttöön viestien indeksoija">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
+<!ENTITY enableGlodaSearch.accesskey   "O">
 <!ENTITY systemDefaults.label          "Järjestelmän oletus">
 <!ENTITY alwaysCheckDefault.label      "Tarkista aina onko &brandShortName; järjestelmän oletussähköpostiohjelma">
 <!ENTITY alwaysCheckDefault.accesskey  "T">

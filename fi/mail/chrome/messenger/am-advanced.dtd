@@ -19,5 +19,5 @@
 <!ENTITY serverName.label  "Palvelin:">
 <!ENTITY serverPort.label  "Portti:">
 <!ENTITY userName.label    "Käyttäjätunnus:">
-<!ENTITY useSecureConnection.label    "Suojattu yhteys:">
+<!ENTITY connectionSecurity.label "Yhteyden suojaus: ">
 <!ENTITY useSecureAuthentication.label   "Suojattu todennus: ">

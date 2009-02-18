@@ -54,6 +54,7 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label  "POP">
 <!ENTITY popType.accesskey  "P">
+
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
@@ -102,6 +103,7 @@
 <!ENTITY smtpServerNamePrefix.label  "Lähtevän postin palvelimen nimi (SMTP):">
 <!ENTITY newsServerNamePrefix.label  "Keskusteluryhmäpalvelimen (NNTP) nimi:">
 <!ENTITY downloadOnLogin.label  "Nouda viestit nyt">
+<!ENTITY downloadOnLogin.accesskey  "N">
 <!ENTITY deferStorageDesc.label  "Poista tästä valinta, jos haluat tallentaa tilin viestit tilikohtaiseen kansioon. Muussa tapauksessa tilin viestit tallennetaan paikallisten kansioiden saapuneet-kansioon.">
 <!ENTITY deferStorage.label  "Käytä yhteistä saapuneet-kansiota (paikallisissa kansioissa)">
 <!ENTITY deferStorage.accesskey "y">
