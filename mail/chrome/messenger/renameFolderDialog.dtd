@@ -21,6 +21,6 @@
   -   Fabian Guisset <hidday@geocities.com>
   -->
 
-<!ENTITY renameFolderDialog.title          "ਫੋਲਡਰ ਨਾਂ-ਤਬਦੀਲ">
+<!ENTITY renameFolderDialog.title          "ਫੋਲਡਰ ਨਾਂ ਬਦਲੋ">
 <!ENTITY rename.label                      "ਆਪਣੇ ਫੋਲਡਰ ਦਾ ਨਵਾਂ ਨਾਂ ਇੱਥੇ ਦਿਓ:">
 <!ENTITY rename.accesskey                  "e">

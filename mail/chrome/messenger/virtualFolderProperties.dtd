@@ -10,5 +10,5 @@
 <!ENTITY chooseFoldersButton.label "ਚੋਣ...">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label "ਆਨਲਾਇਨ ਖੋਜ ( IMAP ਅਤੇ ਖਬਰ ਫੋਲਡਰਾਂ ਲਈ ਖੋਜ ਰੱਦ ਹੋ ਜਾਵੇਗੀ, ਪਰ ਫੋਲਡਰ ਖੋਲਣ ਲਈ ਵਧੇਰੇ ਸਮਾਂ ਲੱਗੇਗਾ)">
+<!ENTITY searchOnline.label "ਆਨਲਾਈਨ ਖੋਜ ( IMAP ਅਤੇ ਖਬਰ ਫੋਲਡਰਾਂ ਲਈ ਖੋਜ ਰੱਦ ਹੋ ਜਾਵੇਗੀ, ਪਰ ਫੋਲਡਰ ਖੋਲਣ ਲਈ ਵਧੇਰੇ ਸਮਾਂ ਲੱਗੇਗਾ)">
 <!ENTITY searchOnline.accesskey "O">

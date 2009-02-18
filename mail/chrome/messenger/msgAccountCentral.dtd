@@ -1,21 +1,21 @@
-<!ENTITY emailSectionHdr.label        "ਈ-ਪੱਤਰ"> 
-<!ENTITY readMsgsLink.label           "ਪੜੇ ਸੁਨੇਹੇ"> 
+<!ENTITY emailSectionHdr.label        "ਈ-ਮੇਲ"> 
+<!ENTITY readMsgsLink.label           "ਪੜ੍ਹੇ ਸੁਨੇਹੇ"> 
 <!ENTITY composeMsgLink.label         "ਇੱਕ ਨਵਾਂ ਸੁਨੇਹਾ ਲਿਖੋ"> 
 
-<!ENTITY newsSectionHdr.label         "ਖ਼ਬਰਸਮੂਹ"> 
-<!ENTITY subscribeNewsLink.label      "ਖ਼ਬਰ-ਸਮੂਹ ਮੈਂਬਰੀ ਪ੍ਰਬੰਧਨ"> 
+<!ENTITY newsSectionHdr.label         "ਨਿਊਜ਼ਗਰੁੱਪ"> 
+<!ENTITY subscribeNewsLink.label      "ਨਿਊਜ਼ਗਰੁੱਪ ਮੈਂਬਰੀ ਪਰਬੰਧ"> 
 
-<!ENTITY accountsSectionHdr.label     "ਖਾਤੇ"> 
+<!ENTITY accountsSectionHdr.label     "ਅਕਾਊਂਟ"> 
 
-<!ENTITY subscribeImapFolders.label   "ਫੋਲਡਰ ਮੈਂਬਰੀ ਪ੍ਰਬੰਧਨ">
+<!ENTITY subscribeImapFolders.label   "ਫੋਲਡਰ ਮੈਂਬਰੀ ਪਰਬੰਧ">
 
-<!ENTITY settingsLink.label           "ਇਸ ਖਾਤੇ ਲਈ ਵਿਵਸਥਾ ਕਰੋ"> 
-<!ENTITY newAcctLink.label            "ਇੱਕ ਨਵਾਂ ਖਾਤਾ ਬਣਾਓ"> 
+<!ENTITY settingsLink.label           "ਇਸ ਅਕਾਊਂਟ ਲਈ ਸੈਟਿੰਗ ਕਰੋ"> 
+<!ENTITY newAcctLink.label            "ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ"> 
 
 <!ENTITY advFeaturesSectionHdr.label  "ਤਕਨੀਕੀ ਫੀਚਰ"> 
 <!ENTITY searchMsgsLink.label         "ਸੁਨੇਹੇ ਖੋਜ"> 
-<!ENTITY filtersLink.label            "ਸੁਨੇਹਾ ਫਿਲਟਰ ਪ੍ਰਬੰਧਨ">
-<!ENTITY junkSettings.label           "ਕੂੜ ਪੱਤਰ ਵਿਵਸਥਾ">
-<!ENTITY offlineLink.label            "ਆਫਲਾਇਨ ਵਿਵਸਥਾ">
-<!ENTITY rssSectionHdr.label          "RSS ਖ਼ਬਰਾਂ &amp; Blogs"> 
-<!ENTITY subscibeRSS.label            "ਮੈਂਬਰੀ ਪ੍ਰਬੰਧਨ"> 
+<!ENTITY filtersLink.label            "ਸੁਨੇਹਾ ਫਿਲਟਰ ਪਰਬੰਧ">
+<!ENTITY junkSettings.label           "ਜੰਕ ਮੇਲ ਸੈਟਿੰਗ">
+<!ENTITY offlineLink.label            "ਆਫਲਾਈਨ ਸੈਟਿੰਗ">
+<!ENTITY rssSectionHdr.label          "RSS ਖ਼ਬਰਾਂ &amp; ਬਲੌਗ"> 
+<!ENTITY subscibeRSS.label            "ਮੈਂਬਰੀ ਪਰਬੰਧ"> 

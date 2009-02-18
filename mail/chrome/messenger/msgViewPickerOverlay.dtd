@@ -6,7 +6,7 @@
 <!ENTITY viewAll.accesskey "A">
 <!ENTITY viewUnread.label "ਨਾ-ਪੜ੍ਹੇ">
 <!ENTITY viewUnread.accesskey "U">
-<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.label "ਨਾ ਹਟਾਓ">
 <!ENTITY viewNotDeleted.accesskey "D">
 <!ENTITY viewTags.label "ਟੈਗ">
 <!ENTITY viewTags.accesskey "T">

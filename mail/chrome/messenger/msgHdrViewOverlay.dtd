@@ -35,60 +35,60 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "to ">
-<!ENTITY fromField2.label "from ">
-<!ENTITY senderField2.label "sender ">
-<!ENTITY organizationField2.label "organization ">
-<!ENTITY replyToField2.label "reply-to ">
+<!ENTITY toField2.label "ਵੱਲ ">
+<!ENTITY fromField2.label "ਵਲੋਂ ">
+<!ENTITY senderField2.label "ਭੇਜਣ ਵਾਲਾ ">
+<!ENTITY organizationField2.label "ਸੰਗਠਨ ">
+<!ENTITY replyToField2.label "ਜਵਾਬ">
 
-<!ENTITY subjectField2.label "subject ">
+<!ENTITY subjectField2.label "ਵਿਸ਼ਾ ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "newsgroups ">
+<!ENTITY newsgroupsField2.label "ਨਿਊਜ਼ਗਰੁੱਪ ">
 <!ENTITY followupToField2.label "followup-to ">
-<!ENTITY tagsHdr2.label "tags ">
-<!ENTITY dateField2.label "date ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
+<!ENTITY tagsHdr2.label "ਟੈਗ ">
+<!ENTITY dateField2.label "ਮਿਤੀ ">
+<!ENTITY userAgentField2.label "ਯੂਜ਼ਰ-ਏਜੰਟ ">
+<!ENTITY referencesField2.label "ਰੈਫਰੈਂਸ ">
 <!ENTITY messageIdField2.label "message-id ">
 <!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY originalWebsite2.label "ਵੈਬਸਾਈਟ ">
 
-<!ENTITY editMessageDescription.label "This is a draft message">
-<!ENTITY editMessageButton.label "Edit…">
-<!ENTITY archiveButton.label "archive">
-<!ENTITY hdrReplyButton.label "reply">
-<!ENTITY hdrReplyAllButton.label "reply all">
-<!ENTITY hdrForwardButton.label "forward">
-<!ENTITY hdrJunkButton.label "junk">
-<!ENTITY trashButton.tooltiptext "delete">
+<!ENTITY editMessageDescription.label "ਇਹ ਡਰਾਫਟ ਸੁਨੇਹਾ ਹੈ">
+<!ENTITY editMessageButton.label "…ਸੋਧ">
+<!ENTITY archiveButton.label "ਅਕਾਇਵ">
+<!ENTITY hdrReplyButton.label "ਜਵਾਬ ਦਿਓ">
+<!ENTITY hdrReplyAllButton.label "ਸਭ ਨੂੰ ਜਵਾਬ">
+<!ENTITY hdrForwardButton.label "ਅੱਗੇ ਭੇਜੋ">
+<!ENTITY hdrJunkButton.label "ਜੰਕ">
+<!ENTITY trashButton.tooltiptext "ਹਟਾਓ">
 
-<!ENTITY otherActionsButton.label "other actions">
-<!ENTITY saveAsMenuItem.label "save as…">
+<!ENTITY otherActionsButton.label "ਹੋਰ ਐਕਸ਼ਨ">
+<!ENTITY saveAsMenuItem.label "…ਵਾਂਗ ਸੰਭਾਲੋ">
 <!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "view source…">
+<!ENTITY viewSourceMenuItem.label "…ਸਰੋਤ ਵੇਖੋ">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 
-<!ENTITY hideDetailsButton.label "hide details">
-<!ENTITY showDetailsButton.label "show details">
+<!ENTITY hideDetailsButton.label "ਵੇਰਵਾ ਓਹਲੇ">
+<!ENTITY showDetailsButton.label "ਵੇਰਵਾ ਵੇਖੋ">
 
-<!ENTITY openAttachmentCmd.label    "Open">
+<!ENTITY openAttachmentCmd.label    "ਖੋਲ੍ਹੋ">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Save As…">
+<!ENTITY saveAsAttachmentCmd.label    "…ਵਾਂਗ ਸੰਭਾਲੋ">
 <!ENTITY saveAsAttachmentCmd.accesskey    "A">
-<!ENTITY detachAttachmentCmd.label    "Detach…">
-<!ENTITY deleteAttachmentCmd.label    "Delete">
-<!ENTITY saveAllAttachmentsCmd.label    "Save All…">
+<!ENTITY detachAttachmentCmd.label    "…ਵੱਖ ਕਰੋ">
+<!ENTITY deleteAttachmentCmd.label    "ਹਟਾਓ">
+<!ENTITY saveAllAttachmentsCmd.label    "…ਸਭ ਸੰਭਾਲੋ">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
-<!ENTITY detachAllAttachmentsCmd.label    "Detach All…">
+<!ENTITY detachAllAttachmentsCmd.label    "…ਸਭ ਵੱਖ ਕਰੋ">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
-<!ENTITY deleteAllAttachmentsCmd.label    "Delete All…">
+<!ENTITY deleteAllAttachmentsCmd.label    "…ਸਭ ਹਟਾਓ">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
 
-<!ENTITY copyLinkCmd.label        "Copy Link Location">
+<!ENTITY copyLinkCmd.label        "ਲਿੰਕ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
-<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+<!ENTITY CopyMessageId.label "ਸੁਨੇਹਾ-ID ਕਾਪੀ ਕਰੋ">
+<!ENTITY OpenMessageForMsgId.label "ID ਲਈ ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ">
+<!ENTITY OpenBrowserWithMsgId.label "ਸੁਨੇਹਾ-ID ਨਾਲ ਬਰਾਊਜ਼ਰ ਖੋਲ੍ਹੋ">
