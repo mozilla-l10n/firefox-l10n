@@ -537,12 +537,9 @@
 <!ENTITY folderContextSettings.label "Innstillinger …">
 <!ENTITY folderContextSettings.accesskey "e">
 
-<!-- Search Bar -->
-<!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Emne eller avsender inneholder:">
-<!ENTITY SearchSubjectOrFrom.accesskey "n">
-<!ENTITY SearchNameOrEmail.label "Navn eller e-postadresse inneholder:">
-<!ENTITY SearchNameOrEmail.accesskey "e">
+<!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchSubjectAndFrom.emptytext "Søk i emne og fra">
 <!ENTITY advancedButton.label "Avansert …">
 <!ENTITY advancedButton.accesskey "A">
 

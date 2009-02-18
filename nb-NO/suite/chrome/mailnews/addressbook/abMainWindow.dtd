@@ -117,6 +117,7 @@
 <!ENTITY deleteItemButton.accesskey                     "S">  
 <!ENTITY newimButton.label                              "Lynmelding">  
 <!ENTITY newimButton.accesskey                          "I">  
+<!ENTITY searchNameAndEmail.emptytext                   "Søk i navn og e-postadresse">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adressebok-verktøylinje">
