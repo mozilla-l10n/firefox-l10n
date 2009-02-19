@@ -358,10 +358,8 @@
 <!ENTITY addons.accesskey "Д">
 <!ENTITY messengerCmd.label "Пошта і конференції">
 <!ENTITY messengerCmd.accesskey "п">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адресна книга">  
 <!ENTITY addressBookCmd.accesskey "А">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "Відфільтрувати спам в теці">
 <!ENTITY runJunkControls.accesskey "л">
 <!ENTITY deleteJunk.label "Вилучити з теки повідомлення помічені як спам">
@@ -701,3 +699,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- FIXME : localize -->
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY activitymanager.label "Activity Manager">
+
+<!-- FIXME: localize -->
+<!ENTITY glodaSearch.title "Global Search">
+<!ENTITY glodaSearchBar.emptyText "Search messages…">
+<!ENTITY glodaSearchBar.facet.label "Search:">
+<!ENTITY glodaSearchBar.location.label "Location:">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Attachment Names">
+<!ENTITY glodaSearchFacet.body.label "Message Text">
+<!ENTITY glodaSearchFacet.everything.label "Everything">
+<!ENTITY glodaSearchFacet.everywhere.label "All Folders">
+<!ENTITY glodaSearchFacet.folder.label "In a specific folder…">
+<!ENTITY glodaSearchFacet.from.label "From">
+<!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
+<!ENTITY glodaSearchFacet.subject.label "Subject">
+<!ENTITY glodaSearchFacet.to.label "To, CC">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label) -->
+<!ENTITY glodaWhyColumn.label "Why">
+<!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
