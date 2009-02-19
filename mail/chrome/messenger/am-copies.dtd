@@ -12,17 +12,17 @@
 <!ENTITY saveMessageDlg.label "Показувати діалог підтвердження під час збереження пошти">
 <!ENTITY saveMessageDlg.accesskey "к">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Тека «Відіслані» на:">
+<!ENTITY sentFolderOn.label "Тека «Відіслані» у:">
 <!ENTITY sentFolderOn.accesskey "в">
 <!ENTITY sentInOtherFolder.label "Інші:">
 <!ENTITY sentInOtherFolder.accesskey "І">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Тека «Чернетки» на:">
+<!ENTITY draftsFolderOn.label "Тека «Чернетки» у:">
 <!ENTITY draftsFolderOn.accesskey "Ч">
 <!ENTITY draftInOtherFolder.label "Інші:">
 <!ENTITY draftInOtherFolder.accesskey "н">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Тека «Шаблони» на:">
+<!ENTITY templatesFolderOn.label "Тека «Шаблони» у:">
 <!ENTITY templatesFolderOn.accesskey "ш">
 <!ENTITY templateInOtherFolder.label "Інші:">
 <!ENTITY templateInOtherFolder.accesskey "і">
@@ -30,9 +30,9 @@
 <!ENTITY keepDrafts.label "Зберігати чернетки листів у:">
 <!ENTITY keepTempltes.label "Зберігати шаблони листів у:">
 
-<!ENTITY archiveInOtherFolder.accesskey "х">
+<!ENTITY archiveInOtherFolder.accesskey "і">
 <!ENTITY archiveInOtherFolder.label "Інші:">
-<!ENTITY archivesFolderOn.accesskey "D">
+<!ENTITY archivesFolderOn.accesskey "А">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Тека «Архіви» на:">
+<!ENTITY archivesFolderOn.label "Тека «Архіви» у:">
 <!ENTITY keepArchives.label "Зберігати архіви листів у:">

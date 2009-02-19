@@ -98,8 +98,8 @@
 <!ENTITY retentionDeleteMsg.label "Видаляти листи більші ніж">
 
 <!-- FIXME: localize -->
-<!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "з">
+<!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
 
 <!-- FIXME: localize -->
 <!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
