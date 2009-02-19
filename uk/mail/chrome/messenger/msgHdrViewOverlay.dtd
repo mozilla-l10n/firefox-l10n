@@ -54,7 +54,6 @@
 <!ENTITY copyLinkCmd.label        "Копіювати посилання">  
 <!ENTITY copyLinkCmd.accesskey		"К">  
 
-<!-- FIXME: localize -->
 <!ENTITY CopyMessageId.label "Copy Message-ID">
 <!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
 <!ENTITY OpenMessageForMsgId.label "Open Message For ID">
@@ -66,18 +65,15 @@
 <!ENTITY editMessageButton.label "Редагувати…">
 <!ENTITY editMessageDescription.label "Це чернетка">
 <!ENTITY followupToField2.label "followup-to ">
-<!ENTITY forwardButton.label "переслати…">
 <!ENTITY fromField2.label "від ">
 <!ENTITY hideDetailsButton.label "приховати подробиці">
 <!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY junkButton.label "позначити як спам">
 <!ENTITY messageIdField2.label "message-id ">
 <!ENTITY newsgroupsField2.label "групи новин ">
 <!ENTITY organizationField2.label "організація ">
 <!ENTITY originalWebsite2.label "сайт ">
 <!ENTITY otherActionsButton.label "інші дії">
 <!ENTITY referencesField2.label "references ">
-<!ENTITY replyButton.label "відповісти…">
 <!ENTITY replyToField2.label "reply-to ">
 <!ENTITY saveAsMenuItem.accesskey "з">
 <!ENTITY saveAsMenuItem.label "зберегти як…">
@@ -89,7 +85,9 @@
 <!ENTITY trashButton.tooltiptext "вилучити">
 <!ENTITY userAgentField2.label "user-agent ">
 <!ENTITY viewSourceMenuItem.accesskey "д">
-<!ENTITY viewSourceMenuItem.label "глянути джерело…">
-
-<!-- FIXME: localize -->
+<!ENTITY viewSourceMenuItem.label "глнути джерело…">
 <!ENTITY archiveButton.label "архів">
+<!ENTITY hdrForwardButton.label "переслати">
+<!ENTITY hdrJunkButton.label "в спам">
+<!ENTITY hdrReplyAllButton.label "відповісти всім">
+<!ENTITY hdrReplyButton.label "відповісти">

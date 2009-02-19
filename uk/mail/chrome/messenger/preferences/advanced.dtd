@@ -89,10 +89,11 @@
 <!ENTITY validation.accesskey           "р">
 <!ENTITY validation.label               "Перевірка">
 
-<!ENTITY enableGloda.accesskey         "i">
-<!ENTITY enableGloda.label             "Ввімкнути індексування листів">
-
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY alwaysCheckDefault.label      "Перевіряти на старті чи &brandShortName; є типовою поштовою програмою">
 <!ENTITY checkNow.accesskey            "т">
 <!ENTITY systemDefaults.label          "Системні параметри">
+
+<!-- FIXME: localize -->
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">

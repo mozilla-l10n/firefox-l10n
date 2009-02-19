@@ -13,5 +13,3 @@
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 41em;">
 <!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 41em;">
 
-<!-- FIXME: localize -->
-<!ENTITY cmdCloseMac.commandKey   "w">
