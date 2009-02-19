@@ -1,5 +1,4 @@
 <!ENTITY importDialog.windowTitle "Importar">
-<!ENTITY importDialog.mailTitle "Mensagens">
 <!ENTITY importAddressbook.label  "Catálogos de endereços">
 <!ENTITY importAddressbook.accesskey "C">
 <!ENTITY window.width "40em">
@@ -19,11 +18,9 @@
 <!ENTITY FieldDiscInputText1.label "O Netscape Communicator 4.x possui um endereço para cada contato, enquanto o &brandShortName; possui dois (residencial e comercial).">
 <!ENTITY FieldDiscInputText2.label "Selecione a categoria na qual deseja amazenar os endereços importados:">
 <!ENTITY FieldDiscWarning.label "Esta categoria será usada para todos os nomes do catálogo de endereços selecionado: ">
-<!ENTITY importDialog.homeTitle "Residencial">
 <!ENTITY importHome.label        "Residencial">
 <!ENTITY importHome.accesskey    "R">
 
-<!ENTITY importDialog.workTitle "Comercial">
 <!ENTITY importWork.label        "Comercial">
 <!ENTITY importWork.accesskey    "C">
 
