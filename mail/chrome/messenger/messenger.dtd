@@ -103,12 +103,12 @@
 <!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY undoDeleteMsgCmd.label "ਹਟਾਇਆ ਸੁਨੇਹਾ ਵਾਪਸ ਲਿਆਓ">
 <!ENTITY redoDeleteMsgCmd.label "ਹਟਾਇਆ ਸੁਨੇਹਾ ਪਰਤਾਓ">
-<!ENTITY undoMoveMsgCmd.label "Undo Move Message">
-<!ENTITY redoMoveMsgCmd.label "Redo Move Message">
-<!ENTITY undoCopyMsgCmd.label "Undo Copy Message">
-<!ENTITY redoCopyMsgCmd.label "Redo Copy Message">
-<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
-<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
+<!ENTITY undoMoveMsgCmd.label "ਭੇਜੇ ਸੁਨੇਹਾ ਵਾਪਸ ਲਿਆਓ">
+<!ENTITY redoMoveMsgCmd.label "ਭੇਜੇ ਸੁਨੇਹਾ ਪਰਤਾਓ">
+<!ENTITY undoCopyMsgCmd.label "ਕਾਪੀ ਕੀਤਾ ਸੁਨੇਹਾ ਵਾਪਸ ਲਿਆਓ">
+<!ENTITY redoCopyMsgCmd.label "ਕਾਪੀ ਕੀਤਾ ਸੁਨੇਹਾ ਪਰਤਾਓ">
+<!ENTITY undoMarkAllCmd.label "ਸਭ ਪੜ੍ਹੇ ਨਿਸ਼ਾਨਬੱਧ ਕੀਤੇ ਵਾਪਸ ਬਦਲੋ">
+<!ENTITY redoMarkAllCmd.label "ਸਭ ਪੜ੍ਹੇ ਨਿਸ਼ਾਨਬੱਧ ਕੀਤੇ ਪਰਤਾਓ">
 <!ENTITY undoDefaultCmd.label "ਵਾਪਸ">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "ਪਰਤਾਓ">

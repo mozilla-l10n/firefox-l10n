@@ -19,7 +19,7 @@
 
 <!ENTITY play.label                       "ਚਲਾਓ">
 <!ENTITY play.accesskey                   "P">
-<!ENTITY systemsound.label                "Default system sound for new mail">
+<!ENTITY systemsound.label                "ਨਵੀਂ ਮੇਲ ਲਈ ਡਿਫਾਲਟ ਸਿਸਟਮ ਸਾਊਂਡ">
 <!ENTITY systemsoundMac.label             "ਸਿਸਟਮ ਚੇਤਾਵਨੀ ਚਲਾਓ">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
@@ -29,7 +29,7 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY addonsMgr.label                  "ਐਡਆਨ">
-<!ENTITY manageAddonsDescWin.label        "Change options for your add-ons">
-<!ENTITY manageAddonsDescUnix2.label      "Change preferences for your add-ons">
+<!ENTITY manageAddonsDescWin.label        "ਆਪਣੇ ਐਡ-ਆਨ ਲਈ ਚੋਣਾਂ ਬਦਲੋ">
+<!ENTITY manageAddonsDescUnix2.label      "ਆਪਣੀ ਐਡ-ਆਨ ਲਈ ਪਸੰਦ ਬਦਲੋ">
 <!ENTITY manageAddons.label               "ਐਡ-ਆਨ ਪਰਬੰਧ…">
 <!ENTITY manageAddons.accesskey           "M">
