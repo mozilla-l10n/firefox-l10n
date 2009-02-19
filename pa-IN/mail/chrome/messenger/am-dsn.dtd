@@ -1,16 +1,16 @@
 <!ENTITY pane.title                 "ਡਿਲਵਰੀ ਹਾਲਤ ਨੋਟੀਫਿਕੇਸ਼ਨ">
-<!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
+<!ENTITY useGlobalPrefs.label       "ਇਸ ਅਕਾਊਂਟ ਲਈ ਮੇਰਾ ਗਲੋਬਲ ਡਿਲਵਰੀ ਹਾਲਤ ਨੋਟੀਫਿਕੇਸ਼ਨ ਵਰਤੋਂ">
 <!ENTITY useGlobalPrefs.accesskey   "U">
-<!ENTITY useCustomPrefs.label       "Customize Delivery Status Notification for this account">
+<!ENTITY useCustomPrefs.label       "ਇਸ ਅਕਾਊਂਟ ਲਈ ਕਸਟਮਾਈਜ਼ ਡਿਲਵਰੀ ਹਾਲਤ ਨੋਟੀਫਿਕੇਸ਼ਨ">
 <!ENTITY useCustomPrefs.accesskey   "C">
-<!ENTITY requestAlways.label        "When sending messages, always request a Delivery Status Notification">
+<!ENTITY requestAlways.label        "ਜਦੋਂ ਸੁਨੇਹੇ ਭੇਜਣੇ ਹੋਣ ਤਾਂ ਹਮੇਸ਼ਾ ਡਿਲਵਰੀ ਹਾਲਤ ਨੋਟੀਫਿਕੇਸ਼ਨ ਦੀ ਮੰਗ ਕਰੋ">
 <!ENTITY requestAlways.accesskey    "W">
-<!ENTITY optionTitle.label          "Ask notification on :">
-<!ENTITY requestOnSucess.label      "Success in delivering">
+<!ENTITY optionTitle.label          "ਨੋਟੀਫਿਕੇਸ਼ਨ ਲਈ ਪੁੱਛੋ :">
+<!ENTITY requestOnSucess.label      "ਡਿਲਵਰੀ ਲਈ ਸਫ਼ਲ">
 <!ENTITY requestOnSucess.accesskey  "S">
-<!ENTITY requestOnFailure.label     "Failure in delivering">
+<!ENTITY requestOnFailure.label     "ਡਿਲਵਰੀ ਲਈ ਫੇਲ੍ਹ">
 <!ENTITY requestOnFailure.accesskey "F">
-<!ENTITY requestOnDelay.label       "Delay in delivering">
+<!ENTITY requestOnDelay.label       "ਡਿਲਵਰੀ ਲਈ ਦੇਰੀ">
 <!ENTITY requestOnDelay.accesskey   "D">
-<!ENTITY requestNever.label         "Never receive Delivery Status Notification">
+<!ENTITY requestNever.label         "ਕਦੇ ਵੀ ਡਿਲਵਰੀ ਹਾਲਤ ਨੋਟੀਫਿਕੇਸ਼ਨ ਨਾ ਲਵੋ">
 <!ENTITY requestNever.accesskey     "N">

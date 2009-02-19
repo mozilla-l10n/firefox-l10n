@@ -3,7 +3,7 @@
 
 <!ENTITY serverDirectory.label "IMAP ਸਰਵਰ ਡਾਇਰੈਕਟਰੀ:">
 <!ENTITY serverDirectory.accesskey "d">
-<!ENTITY usingSubscription.label "ਸਵੀਕਾਰ ਫੋਲਡਰ ਹੀ ਵੇਖਾਓ">
+<!ENTITY usingSubscription.label "ਮਨਜ਼ੂਰ ਫੋਲਡਰ ਹੀ ਵੇਖਾਓ">
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "ਸਰਵਰ ਉਹਨਾਂ ਫੋਲਡਰਾਂ ਲਈ ਸਹਾਇਕ ਹੈ, ਜੋ ਕਿ ਸਬ-ਫੋਲਡਰ ਤੇ ਸੁਨੇਹੇ ਰੱਖਦੇ ਹਨ">
 <!ENTITY dualUseFolders.accesskey "f">

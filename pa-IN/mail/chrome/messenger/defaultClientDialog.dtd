@@ -1,8 +1,8 @@
-<!ENTITY defaultClient.title  "ਡਿਫਾਲਟ ਕਲਾਈਟ">
-<!ENTITY defaultClient.intro  "&brandShortName; ਨੂੰ ਇਸ ਲਈ ਡਿਫਾਲਟ ਕਲਾਈਟ ਵਾਂਗ ਵਰਤੋਂ:">
+<!ENTITY defaultClient.title  "ਡਿਫਾਲਟ ਕਲਾਇਟ">
+<!ENTITY defaultClient.intro  "&brandShortName; ਨੂੰ ਇਸ ਲਈ ਡਿਫਾਲਟ ਕਲਾਇਟ ਵਾਂਗ ਵਰਤੋਂ:">
 
 <!ENTITY email.label "ਈ-ਮੇਲ">
-<!ENTITY newsgroups.label "ਖ਼ਬਰ-ਗਰੁੱਪ">
+<!ENTITY newsgroups.label "ਨਿਊਜ਼ਗਰੁੱਪ">
 <!ENTITY rss.label "RSS ਫੀਡ">
 
 <!ENTITY checkOnStartup.label " &brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾ ਇਹ ਜਾਂਚ ਕਰੋ">

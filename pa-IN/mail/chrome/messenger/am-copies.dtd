@@ -1,37 +1,37 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "ਕਾਪੀ &amp; ਫੇਲਡਰ">
-<!ENTITY sendingPrefix.label "When sending messages, automatically: ">
-<!ENTITY fccMailFolder.label "Place a copy in:">
+<!ENTITY sendingPrefix.label "ਜਦੋਂ ਸੁਨੇਹੇ ਭੇਜੇ ਜਾਣ ਤਾਂ ਆਟੋਮੈਟਿਕ ਹੀ: ">
+<!ENTITY fccMailFolder.label "ਇੱਕ ਕਾਪੀ ਰੱਖੋ:">
 <!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.label "ਜਵਾਬ ਨੂੰ ਸੁਨੇਹੇ ਦੇ ਫੋਲਡਰ ਵਿੱਚ ਰੱਖੋ, ਜਿਸ ਦਾ ਜਵਾਬ ਦਿੱਤਾ ਗਿਆ ਹੈ">
 <!ENTITY fccReplyFollowsParent.accesskey "c">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc these email addresses:">
+<!ENTITY bccAddress.label "ਇਹ ਈਮੇਲ ਐਡਰੈੱਸ Bcc ਵਿੱਚ ਰੱਖੋ:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY saveMessageDlg.label "Show confirmation dialog when messages are saved">
+<!ENTITY saveMessageDlg.label "ਜਦੋਂ ਸੁਨੇਹੇ ਸੰਭਾਲੇ ਜਾ ਰਹੇ ਹੋਣ ਤਾਂ ਪੁਸ਼ਟੀ ਡਾਈਲਾਗ ਵੇਖੋ">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;Sent&quot; Folder on:">
+<!ENTITY sentFolderOn.label "&quot;ਭੇਜੇ&quot;ਫੋਲਡਰ ਉੱਤੇ:">
 <!ENTITY sentFolderOn.accesskey "S">
-<!ENTITY sentInOtherFolder.label "Other:">
+<!ENTITY sentInOtherFolder.label "ਹੋਰ:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; Folder on:">
+<!ENTITY draftsFolderOn.label "&quot;ਡਰਾਫਟ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
 <!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Other:">
+<!ENTITY draftInOtherFolder.label "ਹੋਰ:">
 <!ENTITY draftInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
+<!ENTITY archivesFolderOn.label "&quot;ਅਕਾਇਵ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
 <!ENTITY archivesFolderOn.accesskey "D">
-<!ENTITY archiveInOtherFolder.label "Other:">
+<!ENTITY archiveInOtherFolder.label "ਹੋਰ:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Templates&quot; Folder on:">
+<!ENTITY templatesFolderOn.label "&quot;ਟੈਪਲੇਟ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
 <!ENTITY templatesFolderOn.accesskey "m">
-<!ENTITY templateInOtherFolder.label "Other:">
+<!ENTITY templateInOtherFolder.label "ਹੋਰ:">
 <!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "Drafts, Archives, and Templates">
-<!ENTITY keepDrafts.label "Keep message drafts in:">
-<!ENTITY keepArchives.label "Keep message archives in:">
-<!ENTITY keepTempltes.label "Keep message templates in:">
+<!ENTITY specialFoldersTitle.label "ਡਰਾਫਟ, ਅਕਾਇਵ, ਅਤੇ ਟੈਪਲੇਟ">
+<!ENTITY keepDrafts.label "ਸੁਨੇਹਾ ਡਰਾਫਟ ਵਿੱਚ ਰੱਖੋ:">
+<!ENTITY keepArchives.label "ਸੁਨੇਹਾ ਅਕਾਇਵ ਵਿੱਚ ਰੱਖੋ:">
+<!ENTITY keepTempltes.label "ਸੁਨੇਹਾ ਟੈਪਲੇਟ ਵਿੱਚ ਰੱਖੋ:">

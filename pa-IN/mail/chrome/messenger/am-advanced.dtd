@@ -4,7 +4,7 @@
 <!ENTITY smtpServer.label "ਭੇਜਣ ਸਰਵਰ (SMTP) ਸੈਟਿੰਗ">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
+<!ENTITY smtpDesc.label "ਹਾਲਾਂਕਿ ਤੁਸੀਂ ਇੱਕ ਤੋਂ ਵੱਧ ਭੇਜਣ ਵਾਲੇ ਸਰਵਰ (SMTP) ਦੇ ਸਕਦੇ ਹੋ, ਤਾਂ ਵੀ ਇਹ ਵਰਤੋਂ ਕੇਵਲ ਮਾਹਰ ਯੂਜ਼ਰ ਲਈ ਹੀ ਸਿਫਾਰਸ਼ੀ ਹੈ। ਕਈ SMTP ਸਰਵਰ ਸੈੱਟਅੱਪ ਕਰਨ ਨਾਲ ਸੁਨੇਹੇ ਭੇਜਣ ਦੌਰਾਨ ਗਲਤੀ ਆ ਸਕਦੀ ਹੈ।">
 
 <!ENTITY smtpListAdd.label  "ਸ਼ਾਮਲ…">
 <!ENTITY smtpListAdd.accesskey  "d">
