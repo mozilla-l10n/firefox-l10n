@@ -3,19 +3,19 @@
 <!ENTITY textStartUp "ਜਦੋਂ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ:">
 <!ENTITY radioRememberPrevState.label "ਪਿਛਲੀ ਆਨਲਾਈਨ ਹਾਲਤ ਯਾਦ ਰੱਖੋ">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Ask me for online state at startup">
+<!ENTITY radioAskMe.label "ਸ਼ੁਰੂ ਵੇਲੇ ਮੇਰੇ ਕੋਲੋ ਆਨਲਾਈਨ ਹਾਲਤ ਬਾਰੇ ਪੁੱਛੋ">
 <!ENTITY radioAskMe.accesskey "u">
 <!ENTITY radioAlwaysOnline.label "ਹਮੇਸ਼ਾ ਆਨਲਾਈਨ ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline "Send unsent messages when going online?">
+<!ENTITY textGoingOnline "ਕੀ ਜਦੋਂ ਆਨਲਾਈਨ ਜਾਵੋ ਤਾਂ ਨਾ-ਭੇਜੇ ਸੁਨੇਹੇ ਭੇਜਣੇ ਹਨ?">
 <!ENTITY radioAutoSend.label "ਹਾਂ">
 <!ENTITY radioAutoSend.accesskey "Y">
 <!ENTITY radioNotSend.label "ਨਹੀਂ">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "ਮੈਨੂੰ ਪੁੱਛੋ">
 <!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
+<!ENTITY textGoingOffline "ਕੀ ਜਦੋਂ ਆਫਲਾਈਨ ਜਾਣਾ ਹੈ ਤਾਂ ਕੀ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਸੁਨੇਹੇ ਡਾਊਨਲੋਡ ਕਰਨੇ ਹਨ?">
 <!ENTITY radioAutoDownload.label "ਹਾਂ">
 <!ENTITY radioAutoDownload.accesskey "e">
 <!ENTITY radioNotDownload.label "ਨਹੀਂ">

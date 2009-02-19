@@ -1,13 +1,13 @@
 <!ENTITY dialog.title                 "ਭੇਜਣ ਚੋਣਾਂ">
 <!ENTITY sendMail.title               "ਟੈਕਸਟ ਫਾਰਮੈਟ">
 <!ENTITY sendMaildesc.label           "When sending messages in HTML format and one or more recipients are not listed as being able to receive HTML:">
-<!ENTITY askMe.label                  "Ask me what to do">
+<!ENTITY askMe.label                  "ਮੈਨੂੰ ਪੁੱਛੋ ਕਿ ਕੀ ਕਰਨਾ ਹੈ">
 <!ENTITY askMe.accesskey              "k">
 <!ENTITY convertPlain.label           "ਸੁਨੇਹੇ ਨੂੰ ਪਲੇਨ ਟੈਕਸਟ ਵਿੱਚ ਬਦਲੋ">
 <!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Send the message in HTML anyway">
+<!ENTITY sendHTML.label               "ਕਿਵੇਂ ਵੀ HTML ਵਿੱਚ ਸੁਨੇਹਾ ਹੀ ਭੇਜੋ">
 <!ENTITY sendHTML.accesskey           "S">
-<!ENTITY sendBoth.label               "Send the message in both plain text and HTML">
+<!ENTITY sendBoth.label               "ਪਲੇਨ ਟੈਕਸਟ ਅਤੇ HTML ਦੋਵਾਂ ਵਿੱਚ ਹੀ ਸੁਨੇਹਾ ਭੇਜੋ">
 <!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "Note: Use the Address Book to specify preferred text formats for recipients.">
 
