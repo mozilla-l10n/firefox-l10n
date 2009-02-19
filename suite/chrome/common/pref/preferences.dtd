@@ -36,3 +36,5 @@
 <!ENTITY certs.label "Certificados">
 <!ENTITY validation.label "Validação">
 <!ENTITY smart.label "Instalação de programas">
+
+<!ENTITY focusSearch.key "f">

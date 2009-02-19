@@ -96,3 +96,6 @@
 <!ENTITY customizeToolbar.useDefault.label        "Usar configurações padrão">
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "U">
 <!ENTITY customizeToolbar.useSmallIcons.label     "Usar ícones pequenos">
+
+<!ENTITY customizeToolbarContext.label            "Personalizar…">
+<!ENTITY customizeToolbarContext.accesskey        "P">

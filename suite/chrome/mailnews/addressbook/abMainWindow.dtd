@@ -81,3 +81,4 @@
 <!ENTITY printContactViewCmd.label                      "Imprimir contato…">
 <!ENTITY printPreviewContactViewCmd.accesskey           "z">
 <!ENTITY printPreviewContactViewCmd.label               "Visualizar impressão do contato">
+<!ENTITY searchNameAndEmail.emptytext                   "Procurar por nome e email">
