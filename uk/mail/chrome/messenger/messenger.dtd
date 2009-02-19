@@ -697,7 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY undoMarkAllCmd.label "Скасувати помітку всіх як прочитаних">
 
 <!-- FIXME : localize -->
-<!ENTITY activitymanager.accesskey "к">
+<!ENTITY activitymanager.accesskey "д">
 <!ENTITY activitymanager.label "Менеджер діяльності">
 
 <!-- FIXME: localize -->

@@ -22,7 +22,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label                "Автоматично перевіряти наявність оновлень:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAppUpdate.accesskey      "">
 <!ENTITY enableAddonsUpdate.label       "встановлених додатків">
 <!ENTITY enableAddonsUpdate.accesskey   "д">
 <!ENTITY checkNow.label                 "Перевірити зараз…">
@@ -84,12 +84,12 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 <!ENTITY useCacheAfter.label             "MB місця під кеш">
-<!ENTITY useCacheBefore.accesskey        "ш">
+<!ENTITY useCacheBefore.accesskey        "и">
 <!ENTITY useCacheBefore.label            "Використовувати до">
 <!ENTITY validation.accesskey           "р">
 <!ENTITY validation.label               "Перевірка">
 
-<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY alwaysCheckDefault.accesskey  "ш">
 <!ENTITY alwaysCheckDefault.label      "Перевіряти на старті чи &brandShortName; є типовою поштовою програмою">
 <!ENTITY checkNow.accesskey            "т">
 <!ENTITY systemDefaults.label          "Системні параметри">
