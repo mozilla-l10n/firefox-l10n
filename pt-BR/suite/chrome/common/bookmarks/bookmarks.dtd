@@ -77,3 +77,6 @@
 
 <!ENTITY button.rename.label           "Renomear…">
 <!ENTITY button.rename.accesskey "R">
+
+<!ENTITY search.emptytext "Procurar nos marcadores">
+<!ENTITY search.key "P">

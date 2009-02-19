@@ -117,6 +117,7 @@
 <!ENTITY proxyIcon.tooltip 'Para salvar arraste para dentro do menu "Marcadores"'>
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Lista de marcadores">
+<!ENTITY bookmarksToolbarItem.label  "Marcadores da barra de ferramentas">
 <!ENTITY homeButton.label "Página Inicial">
 <!ENTITY statusText.label "Concluído">
 <!ENTITY historyCmd.label "Histórico">

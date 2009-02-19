@@ -1,13 +1,14 @@
 <!ENTITY importDialog.windowTitle "Importar">
 <!ENTITY importDialog.mailTitle "Mensagens">
-<!ENTITY importDialog.addressbookTitle "Catálogos de endereços">
-<!ENTITY importDialog.settingsTitle "Configurações">
+<!ENTITY importAddressbook.label  "Catálogos de endereços">
+<!ENTITY importAddressbook.accesskey "C">
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 <!ENTITY importTitle.label "Assistente de Importação de Mail do &brandShortName; ">
 <!ENTITY importDescription1.label "Este assistente importará para o &brandShortName; mensagens, nomes do catálogo de endereços, preferências e/ou opções de filtros a partir de outros programas.">
 <!ENTITY importDescription2.label "Uma vez importados, você poderá acessá-los no &brandShortName;.">
 <!ENTITY selectDescription.label "Por favor selecione o programa do qual você deseja importar:">
+<!ENTITY selectDescription.accesskey "P">
 <!ENTITY back.label "&lt; Voltar">
 <!ENTITY forward.label "Avançar &gt;">
 <!ENTITY finish.label "Concluir">
@@ -19,8 +20,23 @@
 <!ENTITY FieldDiscInputText2.label "Selecione a categoria na qual deseja amazenar os endereços importados:">
 <!ENTITY FieldDiscWarning.label "Esta categoria será usada para todos os nomes do catálogo de endereços selecionado: ">
 <!ENTITY importDialog.homeTitle "Residencial">
-<!ENTITY importDialog.workTitle "Comercial">
+<!ENTITY importHome.label        "Residencial">
+<!ENTITY importHome.accesskey    "R">
 
-<!ENTITY importDialog.allTitle    "Importar tudo">
-<!ENTITY importDialog.filtersTitle "Filtros">
+<!ENTITY importDialog.workTitle "Comercial">
+<!ENTITY importWork.label        "Comercial">
+<!ENTITY importWork.accesskey    "C">
+
+<!ENTITY importAll.label          "Importar tudo">
+<!ENTITY importAll.accesskey      "t">
+
+<!ENTITY importFilters.label      "Filtros">
+<!ENTITY importFilters.accesskey  "F">
+
 <!ENTITY importShortDesc.label    "Importar email, catálogos de endereço, configurações e filtros de outros programas">
+
+<!ENTITY importMail.label         "Email">
+<!ENTITY importMail.accesskey     "m">
+
+<!ENTITY importSettings.label     "Configurações">
+<!ENTITY importSettings.accesskey "n">

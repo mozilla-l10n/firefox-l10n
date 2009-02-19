@@ -36,3 +36,13 @@
 <!ENTITY windowMenu.label "Janela">
 <!ENTITY windowMenu.accesskey "J">
 
+<!ENTITY errorConsoleCmd.commandkey				"j">
+
+<!ENTITY passwordDisplayCmd.label "Gerenciar senhas">
+<!ENTITY passwordDisplayCmd.accesskey "G">
+
+<!ENTITY passwordExpireCmd.label "Deslogar">
+<!ENTITY passwordExpireCmd.accesskey "D">
+
+<!ENTITY passwordManagerCmd.label "Gerenciador de senhas">
+<!ENTITY passwordManagerCmd.accesskey "G">

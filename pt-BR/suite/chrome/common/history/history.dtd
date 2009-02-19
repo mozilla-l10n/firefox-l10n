@@ -1,13 +1,13 @@
 <!ENTITY menuBar.tooltip "Menu (clique para exibir)">
 <!ENTITY historyWindowTitle.label "Histórico">
 
-<!ENTITY bookmarkCmd.accesskey          "C">
-<!ENTITY bookmarkCmd.label              "Criar marcador para este link…">
+<!ENTITY bookmarkLinkCmd.label          "Criar marcador para este link…">
+<!ENTITY bookmarkLinkCmd.accesskey      "C">
+<!ENTITY bookmarkLinksCmd.label         "Criar marcador para estes links">
+<!ENTITY bookmarkLinksCmd.accesskey     "C">
 
 <!ENTITY cmd.open.accesskey             "A">
 <!ENTITY cmd.open.label                 "Abrir">
-<!ENTITY cmd.open_all_in_tabs.accesskey "n">
-<!ENTITY cmd.open_all_in_tabs.label     "Abrir todos em novas abas">
 <!ENTITY cmd.open_tab.accesskey         "v">
 <!ENTITY cmd.open_tab.label             "Abrir endereço em nova aba">
 <!ENTITY cmd.open_window.accesskey      "e">
