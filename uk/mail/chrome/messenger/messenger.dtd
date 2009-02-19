@@ -697,23 +697,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY undoMarkAllCmd.label "Скасувати помітку всіх як прочитаних">
 
 <!-- FIXME : localize -->
-<!ENTITY activitymanager.accesskey "a">
-<!ENTITY activitymanager.label "Activity Manager">
+<!ENTITY activitymanager.accesskey "к">
+<!ENTITY activitymanager.label "Менеджер діяльності">
 
 <!-- FIXME: localize -->
-<!ENTITY glodaSearch.title "Global Search">
-<!ENTITY glodaSearchBar.emptyText "Search messages…">
-<!ENTITY glodaSearchBar.facet.label "Search:">
-<!ENTITY glodaSearchBar.location.label "Location:">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Attachment Names">
-<!ENTITY glodaSearchFacet.body.label "Message Text">
-<!ENTITY glodaSearchFacet.everything.label "Everything">
-<!ENTITY glodaSearchFacet.everywhere.label "All Folders">
-<!ENTITY glodaSearchFacet.folder.label "In a specific folder…">
-<!ENTITY glodaSearchFacet.from.label "From">
-<!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
-<!ENTITY glodaSearchFacet.subject.label "Subject">
-<!ENTITY glodaSearchFacet.to.label "To, CC">
+<!ENTITY glodaSearch.title "Глобальний пошук">
+<!ENTITY glodaSearchBar.emptyText "Пошук листів…">
+<!ENTITY glodaSearchBar.facet.label "Шукати:">
+<!ENTITY glodaSearchBar.location.label "Місце:">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Назви долучень">
+<!ENTITY glodaSearchFacet.body.label "Текст листа">
+<!ENTITY glodaSearchFacet.everything.label "Все">
+<!ENTITY glodaSearchFacet.everywhere.label "Усі теки">
+<!ENTITY glodaSearchFacet.folder.label "У заданій теці…">
+<!ENTITY glodaSearchFacet.from.label "Від">
+<!ENTITY glodaSearchFacet.involves.label "Стосується (від, до, копія, потайна копія)">
+<!ENTITY glodaSearchFacet.subject.label "Тема">
+<!ENTITY glodaSearchFacet.to.label "До, копія">
 <!-- LOCALIZATION NOTE (glodaWhyColumn.label) -->
-<!ENTITY glodaWhyColumn.label "Why">
-<!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
+<!ENTITY glodaWhyColumn.label "Чому">
+<!ENTITY glodaWhyColumn.tooltip "Клацніть, щоби відсортувати за причиною того, що лист є в результатах пошуку">

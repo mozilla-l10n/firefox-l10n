@@ -95,5 +95,5 @@
 <!ENTITY systemDefaults.label          "Системні параметри">
 
 <!-- FIXME: localize -->
-<!ENTITY enableGlodaSearch.accesskey   "i">
-<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.accesskey   "і">
+<!ENTITY enableGlodaSearch.label       "Ввімкнути глобальний пошук та індексацію">
