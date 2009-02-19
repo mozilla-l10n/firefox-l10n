@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "Alertar se sites tentarem instalar complementos">
+<!ENTITY  warnAddonInstall.label        "Alertar se sites tentarem instalar extensões ou temas">
 <!ENTITY  warnAddonInstall.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
