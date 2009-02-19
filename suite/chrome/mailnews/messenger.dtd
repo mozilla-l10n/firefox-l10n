@@ -537,12 +537,9 @@
 <!ENTITY folderContextSettings.label "Paramètres…">
 <!ENTITY folderContextSettings.accesskey "a">
 
-<!-- Search Bar -->
-<!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Le sujet ou l'expéditeur contient :">
-<!ENTITY SearchSubjectOrFrom.accesskey "s">
-<!ENTITY SearchNameOrEmail.label "Le nom ou le message contient :">
-<!ENTITY SearchNameOrEmail.accesskey "n">
+<!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchSubjectAndFrom.emptytext "Rechercher dans le sujet et l'expéditeur">
 <!ENTITY advancedButton.label "Avancée…">
 <!ENTITY advancedButton.accesskey "v">
 
