@@ -59,8 +59,6 @@
 <!ENTITY treecol.lastvisit.accesskey    "v">
 <!ENTITY treecol.lastvisit.tooltip "Clique para ordenar pela data da última visita">
 <!ENTITY bookmarksWindowTitle.label "Marcadores">
-<!ENTITY search.label "Localizar nome:">
-<!ENTITY search.accesskey "Z">
 <!ENTITY button.delete.label "Excluir">
 <!ENTITY button.delete.accesskey "c">
 
