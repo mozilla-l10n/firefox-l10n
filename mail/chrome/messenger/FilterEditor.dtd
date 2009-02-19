@@ -12,12 +12,12 @@
 <!ENTITY highPriorityCmd.label "ਵੱਧ">
 <!ENTITY highestPriorityCmd.label "ਸਭ ਤੋਂ ਵੱਧ">
 
-<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.label "ਫਿਲਟਰ ਲਾਗੂ ਕਰੋ, ਜਦੋਂ:">
 <!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-<!ENTITY filterActionDesc.label "Perform these actions:">
+<!ENTITY contextIncoming.label "ਮੇਲ ਚੈੱਕ ਕਰੋ">
+<!ENTITY contextManual.label "ਖੁਦ ਚਲਾਓ">
+<!ENTITY contextBoth.label "ਜਦੋਂ ਮੇਲ ਚੈੱਕ ਕਰੋ ਜਾਂ ਖੁਦ ਚਲਾਓ">
+<!ENTITY filterActionDesc.label "ਇਹ ਐਕਸ਼ਨ ਕਰੋ:">
 <!ENTITY filterActionDesc.accesskey "P">
 
 
@@ -25,16 +25,16 @@
 <!ENTITY moveMessage.label "ਸੁਨੇਹਾ ਭੇਜੋ">
 <!ENTITY copyMessage.label "ਸੁਨੇਹਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY forwardTo.label "ਸੁਨੇਹਾ ਅੱਗੇ ਭੇਜੋ">
-<!ENTITY replyWithTemplate.label "Reply with Template">
+<!ENTITY replyWithTemplate.label "ਟੈਪਲੇਟ ਨਾਲ ਜਵਾਬ">
 <!ENTITY markMessageRead.label "ਪੜ੍ਹਿਆ ਮਾਰਕ ਕਰੋ">
 <!ENTITY markMessageStarred.label "ਤਾਰਾ ਸ਼ਾਮਲ">
 <!ENTITY setPriority.label "ਤਰਜੀਹ ਸੈੱਟ ਕਰੋ">
 <!ENTITY addTag.label "ਸੁਨੇਹਾ ਟੈਗ ਕਰੋ">
-<!ENTITY setJunkScore.label "Set Junk Status to">
+<!ENTITY setJunkScore.label "ਜੰਕ ਹਾਲਤ ਸੈੱਟ ਕਰੋ">
 <!ENTITY deleteMessage.label "ਸੁਨੇਹਾ ਹਟਾਓ">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY watchThread.label "Watch Thread">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY deleteFromPOP.label "POP ਸਰਵਰ ਤੋਂ ਹਟਾਓ">
+<!ENTITY fetchFromPOP.label "POP ਸਰਵਰ ਤੋਂ ਲਵੋ">
+<!ENTITY ignoreThread.label "ਥਰਿੱਡ ਅਣਡਿੱਠਾ">
+<!ENTITY ignoreSubthread.label "ਸਬ-ਥਰਿੱਡ ਅਣਡਿੱਠਾ">
+<!ENTITY watchThread.label "ਥਰਿੱਡ ਨਿਗਰਾਨੀ">
+<!ENTITY stopExecution.label "ਫਿਲਟਰ ਚਲਾਉਣਾ ਰੋਕੋ">

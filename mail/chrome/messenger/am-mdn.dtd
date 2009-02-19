@@ -1,7 +1,7 @@
 <!ENTITY pane.title                   "ਵਾਪਸੀ ਰਸੀਦ">
-<!ENTITY useGlobalPrefs.label         "ਇਸ ਖਾਤੇ ਲਈ ਮੇਰੀ ਵਿਆਪਕ ਵਾਪਸੀ ਰਸੀਦ ਪਸੰਦ ਵਰਤੋਂ">
+<!ENTITY useGlobalPrefs.label         "ਇਸ ਅਕਾਊਂਟ ਲਈ ਮੇਰੀ ਗਲੋਬਲ ਵਾਪਸੀ ਰਸੀਦ ਪਸੰਦ ਵਰਤੋਂ">
 <!ENTITY useGlobalPrefs.accesskey     "U">
-<!ENTITY useCustomPrefs.label         "ਇਸ ਖਾਤੇ ਲਈ ਵਾਪਸੀ ਰਸੀਦ ਪਸੰਦ">
+<!ENTITY useCustomPrefs.label         "ਇਸ ਅਕਾਊਂਟ ਲਈ ਵਾਪਸੀ ਰਸੀਦ ਪਸੰਦ">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "ਜਦੋਂ ਸੁਨੇਹੇ ਭੇਜੇ ਜਾਣ ਤਾਂ ਹਮੇਸ਼ਾ ਵਾਪਸੀ ਰਸੀਦ ਲਈ ਬੇਨਤੀ ਕਰੋ">
 <!ENTITY requestReceipt.accesskey     "W">
