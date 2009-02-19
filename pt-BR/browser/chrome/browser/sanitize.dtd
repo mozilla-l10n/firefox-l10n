@@ -7,6 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "Remover:">
+<!ENTITY clearDuration.accesskey      "R">
 <!ENTITY clearDuration.lastHour       "A última hora">
 <!ENTITY clearDuration.last2Hours     "As últimas 2 horas">
 <!ENTITY clearDuration.last4Hours     "As últimas 4 horas">
@@ -21,12 +22,12 @@ that require it.  -->
 
 <!ENTITY itemVisitedPages.label       "Páginas visitadas">
 <!ENTITY itemVisitedPages.accesskey   "P">
-<!ENTITY itemFormSearchEntries.label  "Itens memorizados (formulários e pesquisa)">
-<!ENTITY itemFormSearchEntries.accesskey "I">
+<!ENTITY itemFormSearchEntries.label  "Campos memorizados de páginas e pesquisas">
+<!ENTITY itemFormSearchEntries.accesskey "C">
 <!ENTITY itemPasswords.label          "Senhas memorizadas">
 <!ENTITY itemPasswords.accesskey      "S">
 <!ENTITY itemCookies.label            "Cookies">
-<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCookies.accesskey        "o">
 <!ENTITY itemWebCache.label           "Cache da web">
 <!ENTITY itemWebCache.accesskey       "a">
 <!ENTITY itemOfflineApps.label        "Dados offline de sites">
@@ -34,7 +35,7 @@ that require it.  -->
 <!ENTITY itemDownloadList.label       "Lista de downloads">
 <!ENTITY itemDownloadList.accesskey   "L">
 <!ENTITY itemActiveLogins.label       "Logins ativos">
-<!ENTITY itemActiveLogins.accesskey   "o">
+<!ENTITY itemActiveLogins.accesskey   "t">
 
 <!ENTITY window.width                 "30.0em">
 <!ENTITY column.width                 "14.0em">
