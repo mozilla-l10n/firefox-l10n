@@ -3,7 +3,7 @@
 <!ENTITY security.warn_when                       "Hiện một hộp thoại cảnh báo khi:">
 <!ENTITY security.warn_entering_secure.label      "Tôi sắp sửa xem một trang đã được mã hóa.">
 <!ENTITY security.warn_entering_secure.accesskey  "x">
-<!ENTITY security.warn_entering_weak.label        "Tôi sắp sửa xem một trang dùng mã hóa cấp thấp">
+<!ENTITY security.warn_entering_weak.label        "Tôi sắp sửa xem một trang dùng mã hóa cấp thấp.">
 <!ENTITY security.warn_entering_weak.accesskey    "e">
 <!ENTITY security.warn_leaving_secure.label       "Tôi chuyển từ một trang được mã hóa sang một trang không được mã hóa.">
 <!ENTITY security.warn_leaving_secure.accesskey   "y">

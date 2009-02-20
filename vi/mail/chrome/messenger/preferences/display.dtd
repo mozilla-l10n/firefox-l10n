@@ -2,7 +2,7 @@
 <!ENTITY itemTags.label                   "Thẻ tag">
 
 <!ENTITY style.label                      "Kiểu:">
-<!ENTITY style.accesskey                  "K">
+<!ENTITY style.accesskey                  "u">
 <!ENTITY regularStyle.label               "Thông thường">
 <!ENTITY bold.label                       "Đậm">
 <!ENTITY italic.label                     "Nghiêng">
@@ -16,7 +16,7 @@
 <!ENTITY color.accesskey                  "M">
 <!ENTITY displayWidth.label               "Thư Văn Bản Thuần">
 <!ENTITY plainText.label                  "Sử dụng phông sau:">
-<!ENTITY displayText.label                "Khi hiển thị thư văn bản thuần được trích dẫn:">
+<!ENTITY displayText.label                "Khi hiển thị nội dung văn bản thuần được trích dẫn:">
 <!ENTITY fixedWidth.label                 "Phông có độ rộng cố định">
 <!ENTITY fixedWidth.accesskey             "r">
 <!ENTITY variableWidth.label              "Phông có độ rộng biến đổi">

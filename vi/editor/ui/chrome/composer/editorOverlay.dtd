@@ -212,7 +212,7 @@
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Kiểu Chữ">
-<!ENTITY fontStyleMenu.accesskey "K">
+<!ENTITY fontStyleMenu.accesskey "i">
 <!ENTITY styleBoldCmd.label "Đậm">
 <!ENTITY styleBoldCmd.accesskey "m">
 <!ENTITY styleBoldCmd.key "B">
