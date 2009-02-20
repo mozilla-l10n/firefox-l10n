@@ -51,8 +51,8 @@
 <!ENTITY openFileCmd.label "Mở Tập tin...">
 <!ENTITY openFileCmd.accesskey "M">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Open Web Location…">
-<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.label "Mở Địa Chỉ Web…">
+<!ENTITY openRemoteCmd.accesskey "a">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Các Trang Gần đây">
 <!ENTITY fileRecentMenu.accesskey "r">
@@ -193,8 +193,8 @@
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "Size">
-<!ENTITY fontSizeMenu.accesskey "z">
+<!ENTITY fontSizeMenu.label "Kích thước">
+<!ENTITY fontSizeMenu.accesskey "K">
 <!ENTITY size-xx-smallCmd.label "siêu nhỏ">
 <!ENTITY size-xx-smallCmd.accesskey "s">
 <!ENTITY size-x-smallCmd.label "rất nhỏ">
