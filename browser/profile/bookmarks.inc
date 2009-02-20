@@ -15,8 +15,8 @@
 #define bookmarks_toolbarfolder_description Lisa järjehoidjad sellesse kausta, kui soovid neid näha järjehoidjaribal
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
-#define getting_started Getting Started
+# link title for http://et.www.mozilla.com/et/firefox/central/
+#define getting_started Alustamisjuhend
 
 # LOCALIZATION NOTE (latest_headlines):
 # link title for the live bookmarks sample, a redirect on
