@@ -56,6 +56,8 @@
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas.">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionDeleteMsg.label "Excluir mensagens com mais de">
 <!ENTITY retentionDeleteMsg.accesskey "x">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
@@ -64,6 +66,8 @@
 <!ENTITY retentionKeepNew.accesskey "E">
 <!ENTITY retentionKeepUnread.label "Sempre excluir as mensagens lidas">
 <!ENTITY retentionKeepUnread.accesskey "S">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderOfflineTab.label                  "Offline">
 <!ENTITY folderCheckForNewMessages.label         "Verificar novas mensagens nesta pasta">

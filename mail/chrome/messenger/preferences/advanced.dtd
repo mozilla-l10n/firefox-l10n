@@ -6,8 +6,23 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Ativar indexação de mensagens">
-<!ENTITY enableGloda.accesskey         "A">
+<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY systemDefaults.label          "System Defaults">
+<!ENTITY alwaysCheckDefault.label      "Ao iniciar, verificar se o &brandShortName; é o aplicativo de email padrão">
+<!ENTITY alwaysCheckDefault.accesskey  "o">
+<!ENTITY checkNow.label                "Verificar agora">
+<!ENTITY checkNow.accesskey            "V">
+<!ENTITY configEditDesc.label          "Configuração avançada:">
+<!ENTITY configEdit.label              "Editor de config…">
+<!ENTITY configEdit.accesskey          "E">
+<!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de leitura.">
+<!ENTITY showReturnReceipts.label      "Confirmações de leitura…">
+<!ENTITY showReturnReceipts.accesskey  "C">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Leitura">
+<!ENTITY display.caption               "Exibição">
 <!ENTITY showCondensedAddresses.label  "Para pessoas em meus contatos, exibir somente o nome">
 <!ENTITY showCondensedAddresses.accesskey "P">
 
@@ -21,23 +36,11 @@
 <!ENTITY markAsReadDelay.label         "Ao exibir por">
 <!ENTITY markAsReadDelay.accesskey     "o">
 <!ENTITY secondsLabel.label            "segundos">
-<!ENTITY showFolderColumns.label       "Exibir o seletor de colunas no painel de pastas">
-<!ENTITY showFolderColumns.accesskey   "x">
 <!ENTITY openMsgIn.label               "Abrir mensagens em:">
 <!ENTITY reuseExpRadio0.label          "Nova janela">
 <!ENTITY reuseExpRadio0.accesskey      "N">
 <!ENTITY reuseExpRadio1.label          "Janela existente">
 <!ENTITY reuseExpRadio1.accesskey      "J">
-<!ENTITY configEditDesc.label          "Configuração avançada:">
-<!ENTITY configEdit.label              "Editor de config…">
-<!ENTITY configEdit.accesskey          "E">
-<!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de leitura.">
-<!ENTITY showReturnReceipts.label      "Confirmações de leitura…">
-<!ENTITY showReturnReceipts.accesskey  "C">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Leitura">
-<!ENTITY display.caption                "Exibição">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Verificar automaticamente se há atualizações para:">
@@ -45,13 +48,12 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Extensões e temas instalados">
 <!ENTITY enableAddonsUpdate.accesskey   "E">
-<!ENTITY checkNow.label                 "Verificar agora…">
 <!ENTITY whenUpdatesFound.label         "Ao encontrar atualizações do &brandShortName;:">
 <!ENTITY modeAskMe.label                "Perguntar o que fazer">
 <!ENTITY modeAskMe.accesskey            "P">
 <!ENTITY modeAutomatic.label            "Receber e instalar a atualização automaticamente">
 <!ENTITY modeAutomatic.accesskey        "R">
-<!ENTITY modeAutoAddonWarn.label        "Alertar caso desative algum complemento">
+<!ENTITY modeAutoAddonWarn.label        "Alertar caso desative alguma extensão ou tema">
 <!ENTITY modeAutoAddonWarn.accesskey    "A">
 <!ENTITY showUpdates.label              "Histórico de atualizações">
 <!ENTITY showUpdates.accesskey          "H">

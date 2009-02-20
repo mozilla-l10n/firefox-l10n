@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "Apelido:">
 <!ENTITY NickName.accesskey             "d">
 
-<!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "e">
 <!ENTITY SecondEmail.label              "Email alternativo:">
@@ -113,9 +112,11 @@
 <!ENTITY HomeWebPage.accesskey          "w">
 <!ENTITY Birthday.label                 "Aniversário:">
 <!ENTITY Birthday.accesskey             "v">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Ano">
 <!ENTITY Or.value                       "ou">
 <!ENTITY Age.emptytext                  "Idade">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Trabalho">
 <!ENTITY Work.accesskey                 "T">

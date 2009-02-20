@@ -57,9 +57,11 @@
 
 <!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
 <!ENTITY editMessageButton.label "Editar">
-<!ENTITY replyButton.label "responder…">
-<!ENTITY forwardButton.label "encaminhar…">
-<!ENTITY junkButton.label "marcar como spam">
+<!ENTITY archiveButton.label "archive">
+<!ENTITY hdrReplyButton.label "reply">
+<!ENTITY hdrReplyAllButton.label "reply all">
+<!ENTITY hdrForwardButton.label "forward">
+<!ENTITY hdrJunkButton.label "junk">
 <!ENTITY trashButton.tooltiptext "excluir">
 
 <!ENTITY otherActionsButton.label "outras ações">

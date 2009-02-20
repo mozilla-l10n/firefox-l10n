@@ -4,4 +4,5 @@
 <!ENTITY aboutLink.label        "&lt; Sobre o &brandFullName;">
 <!ENTITY aboutLink.accesskey    "S">
 <!ENTITY aboutVersion           "versão">
-<!ENTITY copyrightText          "©1998-2008 Colaboradores. Todos os direitos reservados. Mozilla Thunderbird e logotipos Thunderbird são marcas comerciais da Mozilla Foundation. Todos os direitos reservados.">
+<!ENTITY copyrightText          "©1998-2009 Colaboradores. Todos os direitos reservados. Mozilla Thunderbird e logotipos Thunderbird são marcas comerciais da Mozilla Foundation. Todos os direitos reservados.">
+<!ENTITY cmdCloseMac.commandKey "w">

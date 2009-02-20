@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "m">
 <!ENTITY newMessageCmd2.key "n">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Contato…">
-<!ENTITY newCard.accesskey "c">
+<!ENTITY newContact.label "Address Book Contact…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Anexar">
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Arquivos…">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "B"> 
 <!ENTITY showCompositionToolbarCmd.label "Padrão">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Barra de formatação">
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barra de status">
@@ -109,12 +110,12 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opções">
 <!ENTITY optionsMenu.accesskey "O">
-<!ENTITY checkSpellingCmd.label "Verificar ortografia…">
-<!ENTITY checkSpellingCmd.key "k">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "e">
+<!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
-<!ENTITY enableInlineSpellChecker.accesskey "V">
+<!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY quoteCmd.label "Citar a mensagem">
 <!ENTITY quoteCmd.accesskey "t">
 
@@ -184,7 +185,6 @@
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Salvar">
-<!ENTITY throbberItem.title "Indicador de atividade">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora"> 
