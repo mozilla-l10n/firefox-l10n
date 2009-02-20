@@ -62,7 +62,7 @@
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Thư Gửi:">
-<!ENTITY sendDefaultCharset.accesskey     "G">
+<!ENTITY sendDefaultCharset.accesskey     "h">
 <!ENTITY languagesTitle1.label            "Bảng mã">
 <!ENTITY composingDescription.label       "Thiết lập bảng mã mặc định để gửi và nhận thư">
 

@@ -25,7 +25,7 @@
 
 <!ENTITY spellCheck.label                     "Kiểm tra chính tả trước khi gửi">
 <!ENTITY spellCheck.accesskey                 "c">
-<!ENTITY spellCheckInline.label               "Kích hoạt kiểm tra chính tả khi bạn gõ">
+<!ENTITY spellCheckInline.label               "Kiểm tra chính tả ngay khi đang gõ">
 <!ENTITY spellCheckInline1.accesskey           "k">
 <!ENTITY languagePopup.label                  "Ngôn ngữ:">
 <!ENTITY languagePopup.accessKey              "g">
@@ -51,4 +51,4 @@
 
 <!ENTITY sendOptionsDescription.label          "Cấu hình hành vi định dạng văn bản">
 <!ENTITY sendOptions.label                     "Tùy chọn Gửi…">
-<!ENTITY sendOptions.accesskey                 "y">
+<!ENTITY sendOptions.accesskey                 "G">
