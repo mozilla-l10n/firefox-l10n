@@ -12,6 +12,8 @@
 <!ENTITY nntpDownloadMsg.label "Mensagens com mais de">
 <!ENTITY nntpDownloadMsg.accesskey "n">
 <!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas.">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionKeepMsg.label "Excluir mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "x">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
@@ -20,6 +22,8 @@
 <!ENTITY retentionKeepNew.accesskey "E">
 <!ENTITY retentionKeepUnread.label "Sempre excluir as mensagens lidas">
 <!ENTITY retentionKeepUnread.accesskey "S">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Somente o conteúdo de mensagens com menos de">
 <!ENTITY nntpRemoveBody.accesskey "S">
 <!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura offline…">

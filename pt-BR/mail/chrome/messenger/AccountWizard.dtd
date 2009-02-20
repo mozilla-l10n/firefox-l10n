@@ -103,7 +103,9 @@
 <!ENTITY smtpServerNamePrefix.label "Enviar por este servidor SMTP:">
 <!ENTITY newsServerNamePrefix.label "Nome do servidor de news (NNTP):">
 <!ENTITY downloadOnLogin.label "Receber as mensagens agora">
+<!ENTITY downloadOnLogin.accesskey "R">
 <!ENTITY deferStorageDesc.label "Desmarque a opção abaixo se quiser receber as mensagens desta conta em um espaço separado. Se deixar marcado, serão usadas as pastas da conta Pastas Locais.">
 <!ENTITY deferStorage.label "Receber mensagens na conta Pastas Locais">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Clique em “Concluir” para salvar estas configurações e sair do assistente de contas.">
 <!ENTITY clickFinish.labelMac "Clique em “Concluir” para salvar estas configurações e sair do assistente de contas.">
