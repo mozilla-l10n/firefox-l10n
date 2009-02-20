@@ -22,7 +22,7 @@
 <!ENTITY signingCert.message "Dùng chứng thư này để kí thư mà bạn gửi đi:">
 
 <!ENTITY certificates.label "Chứng thư">
-<!ENTITY manageCerts.label "View Certificates">
-<!ENTITY manageCerts.accesskey "V">
-<!ENTITY manageDevices.label "Security Devices">
-<!ENTITY manageDevices.accesskey "y">
+<!ENTITY manageCerts.label "Xem Chứng Thư">
+<!ENTITY manageCerts.accesskey "e">
+<!ENTITY manageDevices.label "Thiết bị Bảo mật">
+<!ENTITY manageDevices.accesskey "B">
