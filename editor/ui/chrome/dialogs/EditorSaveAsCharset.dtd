@@ -44,7 +44,7 @@
 <!ENTITY windowTitle.label "Salvar e mudar codificação">
 <!ENTITY documentTitleTitle.label "Título da página">
 <!ENTITY documentCharsetTitle.label "Codificação">
-<!ENTITY documentCharsetDesc.label "Selecione a codificação no qual você deseja salvar:">
+<!ENTITY documentCharsetDesc.label "Selecione a codificação na qual você deseja salvar:">
 <!ENTITY documentExportToText.label "Exportar como texto">
 
 
