@@ -38,8 +38,8 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Fortsett med varsomhet, du kan bryte garantien!">
-<!ENTITY aboutWarningText.label "About:config gir deg tilgang til avanserte innstillinger i programmet. Endringer av disse innstillingene kan gi uønskede bivirkninger, spesielt på sikkerhet og stabilitet. Fortsett bare dersom du er sikker på at du vet hva du gjør, eller dersom du følger råd som du stoler på.">
+<!ENTITY aboutWarningTitle.label "Fortsett med varsomhet. Du kan bryte garantien!">
+<!ENTITY aboutWarningText.label "About:config gir deg tilgang til avanserte innstillinger i programmet. Dersom du endrer disse innstillingene kan du oppleve uønskede virkninger spesielt på sikkerhet og stabilitet. Fortsett bare dersom du vet hva du gjør, eller dersom du følger råd som du stoler på.">
 <!ENTITY aboutWarningButton.label "Jeg skal være forsiktig, jeg lover!">
 <!ENTITY aboutWarningCheckbox.label "Vis denne advarselen neste gang også">
 
@@ -48,7 +48,7 @@
 <!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "Innstillingnavn">
+<!ENTITY prefColumn.label "Innstilling">
 <!ENTITY lockColumn.label "Status">
 <!ENTITY typeColumn.label "Type">
 <!ENTITY valueColumn.label "Verdi">

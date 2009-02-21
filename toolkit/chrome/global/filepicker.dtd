@@ -8,7 +8,7 @@
 <!ENTITY size.label             "Størrelse">
 <!ENTITY lastModified.label     "Sist endret">
 <!ENTITY showHiddenFiles.label  "Vis skjulte filer og mapper">
-<!ENTITY showHiddenFiles.accesskey  "v">
+<!ENTITY showHiddenFiles.accesskey  "V">
 
 <!ENTITY noPermissionError.label "Du har ikke tilgang til å vise innholdet i denne mappen.">
 

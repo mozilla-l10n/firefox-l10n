@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "Feilkonsoll">
+<!ENTITY errorConsole.title "Feilmeldinger">
 
 <!ENTITY errFile.label   "Kildefil:">
 <!ENTITY errLine.label   "Linje:">

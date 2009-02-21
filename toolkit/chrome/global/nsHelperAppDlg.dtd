@@ -12,11 +12,11 @@
 <!ENTITY intro.label           "Filen «#3» er av type #2 (#1), og #4 vet ikke hvordan denne filtypen skal åpnes. Filen ligger i:">
 <!ENTITY intro.noDesc.label    "Filen «#3» er av type #2, og #4 vet ikke hvordan denne typer filer skal behandles. Filen ligger i:">
 
-<!ENTITY intro.attachment.label "Nettstedet har foreslått at &quot;#3&quot; skal bli behandlet som et vedlegg. Det har filtypen #2 (#1) og ligger på:">
-<!ENTITY intro.attachment.noDesc.label "Nettstedet har foreslått at &quot;#3&quot; skal bli behandlet som et vedlegg. Det har filtypen #2, og er plassert på:">
+<!ENTITY intro.attachment.label "Nettstedet har foreslått at «#3» skal bli behandlet som et vedlegg. Det har filtypen #2 (#1) og ligger på:">
+<!ENTITY intro.attachment.noDesc.label "Nettstedet har foreslått at «#3» skal bli behandlet som et vedlegg. Det har filtypen #2, og er plassert på:">
 
-<!ENTITY intro.sniffed.label "#4 har oppdaget at filen &quot;#3&quot; sannsynligvis er av typen #2 (#1). Filens adresse er:">
-<!ENTITY intro.sniffed.noDesc.label "#4 har oppdaget at filen &quot;#3&quot; sannsynligvis er av typen #2. Filens adresse er:">
+<!ENTITY intro.sniffed.label "#4 har oppdaget at filen «#3» sannsynligvis er av typen #2 (#1). Filens adresse er:">
+<!ENTITY intro.sniffed.noDesc.label "#4 har oppdaget at filen «#3» sannsynligvis er av typen #2. Filens adresse er:">
 
 <!ENTITY prompt.label          "Hva skal #1 gjøre med denne filen?">
 
@@ -24,7 +24,7 @@
 <!ENTITY alwaysHandle.accesskey "A">
 
 <!ENTITY saveToDisk.label      "Lagre til disk">
-<!ENTITY saveToDisk.accesskey  "l">
+<!ENTITY saveToDisk.accesskey  "L">
 
 <!ENTITY useSystemDefault.label        "Åpne med standardprogram (#1)">
 <!ENTITY useSystemDefault.noDesc.label "Åpne med standardprogram">
@@ -38,5 +38,5 @@
 
 <!ENTITY chooseAppFilePickerTitle "Velg program">
 
-<!ENTITY badApp                 "Programmet du oppgav («#1») ble ikke funnet. Kontroller filnavnet eller velg en annen applikasjon.">
+<!ENTITY badApp                 "Klarte ikke finne programmet du oppgav («#1»). Kontroller filnavnet eller velg et annet program.">
 <!ENTITY badApp.title           "Klarte ikke finne programmet">

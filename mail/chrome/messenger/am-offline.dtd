@@ -24,7 +24,7 @@
 <!ENTITY retentionKeepUnread.accesskey "A">
 <!ENTITY retentionApplyToFlagged.label "Alltid behold meldinger merket med stjerne">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
-<!ENTITY nntpRemoveBody.label "Fjern meldingsinnhold eldre enn">
+<!ENTITY nntpRemoveBody.label "Fjern meldingstekster eldre enn">
 <!ENTITY nntpRemoveBody.accesskey "m">
 <!ENTITY offlineSelectNntp.label "Velg nyhetsgrupper som skal leses frakoblet">
 <!ENTITY offlineSelectNntp.accesskey "V">

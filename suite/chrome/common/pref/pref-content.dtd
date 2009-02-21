@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "Innhold">
-<!ENTITY pref.content.description               "Disse innstillingene bestemmer hvordan netttside- og meldingsinnhold presenteres i &brandShortName;.">
+<!ENTITY pref.content.description               "Disse innstillingene bestemmer hvordan nettside- og meldingstekst presenteres i &brandShortName;.">
 <!ENTITY siteIcons.label                        "Nettsideikoner">
 <!ENTITY useSiteIcons.label                     "Vis nettsideikoner">
 <!ENTITY useSiteIcons.accesskey                 "V">
