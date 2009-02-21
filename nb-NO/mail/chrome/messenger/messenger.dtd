@@ -209,7 +209,7 @@
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Meldingskropp som">
+<!ENTITY bodyMenu.label "Meldingstekst som">
 <!ENTITY bodyMenu.accesskey "d">
 <!ENTITY bodyAllowHTML.label "Opprinnelig HTML">
 <!ENTITY bodyAllowHTML.accesskey "O">
@@ -564,7 +564,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchSubjectOrFromMenu.label "Emne eller fra">
 <!ENTITY searchRecipient.label "Til eller Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Emne, Til eller Cc">
-<!ENTITY searchMessageBody.label "Meldingskropp">
+<!ENTITY searchMessageBody.label "Meldingstekst">
 <!ENTITY saveAsVirtualFolderMenu.label "Lagre søk som mappe …">
 
 <!-- Thread Pane -->

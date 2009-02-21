@@ -235,7 +235,7 @@
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Meldingskropp som">
+<!ENTITY bodyMenu.label "Meldingstekst som">
 <!ENTITY bodyMenu.accesskey "d">
 <!ENTITY bodyAllowHTML.label "Opprinnelig HTML">
 <!ENTITY bodyAllowHTML.accesskey "O">
