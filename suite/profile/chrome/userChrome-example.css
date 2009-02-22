@@ -1,39 +1,39 @@
 /*
- * Edit this file and copy it as userChrome.css into your
- * profile-directory/chrome/
+ * Rediger denne filen og kopier den som userChrome.css til
+ * din profilmappe/chrome/
  */
 
 /*
- * This file can be used to customize the look of Mozilla's user interface
- * You should consider using !important on rules which you want to
- * override default settings.
+ * Denne filen kan brukes til å forandre på utseendet til Mozillas
+ * brukergrensesnitt. Om du vil overstyre de forvalgte innstillingene kan
+ * du bruke !important.
  */
 
 /*
- * Do not remove the @namespace line -- it's required for correct functioning
+ * Ikke fjern @namespace-linjen, den må være tilstede for at ting skal fungere.
  */
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* set default namespace to XUL */
 
 
 /*
- * Some possible accessibility enhancements:
+ * Noen mulige regler for å øke tilgjengeligheten:
  */
 /*
- * Make all the default font sizes 20 pt:
+ * Gjør alle skriftstørrelser om til 20 punkter
  *
  * * {
  *   font-size: 20pt !important
  * }
  */
 /*
- * Make menu items in particular 15 pt instead of the default size:
+ * Gjør skriftstørrelsen i alle menyer om til 15 punkter
  *
  * menupopup > * {
  *   font-size: 15pt !important
  * }
  */
 /*
- * Give the Location (URL) Bar a fixed-width font
+ * Gir adresselinjen en ikke-proporsjonal skrift.
  *
  * #urlbar {
  *    font-family: monospace !important;
@@ -41,7 +41,7 @@
  */
 
 /*
- * Eliminate the throbber and its annoying movement:
+ * Tar bort lastingsanimasjonen
  *
  * #throbber-box {
  *   display: none !important;
@@ -49,6 +49,6 @@
  */
 
 /*
- * For more examples see http://www.mozilla.org/unix/customizing.html
+ * Gå til http://www.mozilla.org/unix/customizing.html (Engelsk) for flere eksempler
  */
  
