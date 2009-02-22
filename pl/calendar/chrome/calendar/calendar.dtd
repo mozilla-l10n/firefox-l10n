@@ -324,6 +324,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Szczegóły…">
-<!ENTITY calendar.error.number "Numer błędu:">
+<!ENTITY calendar.error.code "Kod błędu:">
 <!ENTITY calendar.error.description "Opis:">
 <!ENTITY calendar.error.title "Wystąpił błąd">
