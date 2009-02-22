@@ -48,7 +48,7 @@
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "E">  
 <!ENTITY newAddressBookCmd.label                        "Adressebok …"> 
-<!ENTITY newAddressBookCmd.accesskey                    "A">  
+<!ENTITY newAddressBookCmd.accesskey                    "d">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog …">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
@@ -89,10 +89,10 @@
   
 <!ENTITY menu_ShowNameAs.label                          "Vis navn som"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Første Siste">  
+<!ENTITY firstLastCmd.label                             "Fornavn, Etternavn">
 <!ENTITY firstLastCmd.accesskey                         "F"> 
-<!ENTITY lastFirstCmd.label                             "Siste, Første">  
-<!ENTITY lastFirstCmd.accesskey                         "S"> 
+<!ENTITY lastFirstCmd.label                             "Etternavn, Fornavn">
+<!ENTITY lastFirstCmd.accesskey                         "E">
 <!ENTITY displayNameCmd.label                           "Vis navn">  
 <!ENTITY displayNameCmd.accesskey                       "V"> 
 

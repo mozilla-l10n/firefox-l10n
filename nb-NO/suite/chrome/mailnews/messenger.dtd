@@ -144,7 +144,7 @@
 <!ENTITY redoDefaultCmd.label "Gjenta">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label		"Verktøylinje for e-post">
+<!ENTITY showMessengerToolbarCmd.label		"Verktøylinje for meldinger">
 <!ENTITY showMessengerToolbarCmd.accesskey	"e">
  
 <!-- showSearchToolbarCmd is also used by addressbook -->
@@ -183,8 +183,8 @@
 <!ENTITY sortBySizeCmd.accesskey "t">
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "u">
-<!ENTITY sortByTagsCmd.label "Merkelapper">
-<!ENTITY sortByTagsCmd.accesskey "M">
+<!ENTITY sortByTagsCmd.label "Etiketter">
+<!ENTITY sortByTagsCmd.accesskey "k">
 <!ENTITY sortByJunkStatusCmd.label "Uønsket-status">
 <!ENTITY sortByJunkStatusCmd.accesskey "S">
 <!ENTITY sortBySubjectCmd.label "Emne">
@@ -287,7 +287,7 @@
 <!ENTITY prevMsgCmd.label "Melding">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Ulest melding">
+<!ENTITY prevUnreadMsgCmd.label "Uleste melding">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Tilbake">
@@ -296,7 +296,7 @@
 <!ENTITY goForwardCmd.label "Frem">
 <!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY prevFlaggedMsgCmd.label "Flagget melding">
+<!ENTITY prevFlaggedMsgCmd.label "Flaggede melding">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
@@ -336,7 +336,7 @@
 <!ENTITY createFilter.accesskey "O">
 <!ENTITY moveMsgToMenu.label "Flytt til">
 <!ENTITY moveMsgToMenu.accesskey "F">
-<!ENTITY copyMessageLocation.label "Kopier meldingsadresse">
+<!ENTITY copyMessageLocation.label "Kopier meldingsplassering">
 <!ENTITY copyMessageLocation.accesskey "p">
 <!ENTITY copyMsgToMenu.label "Kopier til">
 <!ENTITY copyMsgToMenu.accesskey "K">
@@ -355,7 +355,7 @@
 <!ENTITY fileHereMenu.accesskey "H">
 <!ENTITY copyHereMenu.label "Kopier hit">
 <!ENTITY copyHereMenu.accesskey "K">
-<!ENTITY tagMenu.label "Merkelapp">
+<!ENTITY tagMenu.label "Etikett">
 <!ENTITY tagMenu.accesskey "e">
 <!ENTITY tagCustomize.label "Tilpass …">
 <!ENTITY tagCustomize.accesskey "T">

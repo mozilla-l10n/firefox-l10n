@@ -43,7 +43,7 @@
 <!ENTITY generalInfo.label                       "Generell informasjon">
 <!ENTITY folderCharsetTab.label                  "Standard tegnkoding:">
 <!ENTITY folderCharsetTab.accesskey              "S">
-<!ENTITY folderCharsetOverride.label             "Bruk standarder for alle meldinger i mappen (individuelle meldingers tegnkodinger og auto-detekterte tegnkodinger vil ikke bli rørt)">
+<!ENTITY folderCharsetOverride.label             "Bruk standarder for alle meldinger i mappen (enkeltmeldingers tegnkoding og auto-detekterte tegnkodinger vil ikke bli berørt)">
 <!ENTITY folderCharsetOverride.accesskey         "B">
 <!ENTITY folderRebuildSummaryFile.label          "Bygg opp på nytt">
 <!ENTITY folderRebuildSummaryFile.accesskey      "o">
@@ -65,7 +65,7 @@
 <!ENTITY retentionKeepNew.accesskey "S">
 <!ENTITY retentionKeepUnread.label "Alltid slett leste meldinger">
 <!ENTITY retentionKeepUnread.accesskey "A">
-<!ENTITY retentionApplyToFlagged.label "Alltid behold flaggede meldinger">
+<!ENTITY retentionApplyToFlagged.label "Alltid behold meldinger merket med flagg">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 
 <!ENTITY folderOfflineTab.label                  "Frakoblet">
@@ -88,8 +88,8 @@
 <!ENTITY folderProps.location.accesskey          "A">
 
 <!ENTITY folderSharingTab.label                  "Deling">
-<!ENTITY privileges.button.label                 "Privilegier …">
-<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY privileges.button.label                 "Tillatelser …">
+<!ENTITY privileges.button.accesskey             "T">
 <!ENTITY permissionsDesc.label                   "Du har følgende tillatelser:">
 <!ENTITY folderType.label                        "Mappetype:">
 

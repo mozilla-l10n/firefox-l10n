@@ -3,7 +3,7 @@
 <!ENTITY searchHeading.accesskey     "ø">
 <!ENTITY searchSubfolders.label      "Søk i undermapper">
 <!ENTITY searchSubfolders.accesskey  "u">
-<!ENTITY resetButton.label           "Tøm">
+<!ENTITY resetButton.label           "Tilbakestill">
 <!ENTITY resetButton.accesskey       "T">
 <!ENTITY openButton.label            "Åpne">
 <!ENTITY openButton.accesskey        "Å">
@@ -13,13 +13,13 @@
 <!ENTITY results.label               "Resultater">
 <!ENTITY fileHereMenu.label          "Arkiver her">
 <!ENTITY fileHereMenu.accesskey      "A">
-<!ENTITY fileButton.label            "Fil">
-<!ENTITY fileButton.accesskey        "F">
+<!ENTITY fileButton.label            "Arkiver">
+<!ENTITY fileButton.accesskey        "r">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Åpne meldingsmappe">
+<!ENTITY goToFolderButton.label      "Åpne mappen med meldingen">
 <!ENTITY goToFolderButton.accesskey  "m">
 <!ENTITY saveAsVFButton.label        "Lagre som søkemappe">
-<!ENTITY saveAsVFButton.accesskey    "g">
+<!ENTITY saveAsVFButton.accesskey    "L">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Søk i:">

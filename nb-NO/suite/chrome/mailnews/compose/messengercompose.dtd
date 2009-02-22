@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "E-post: (uten emne)">
+<!ENTITY msgComposeWindow.title "Ny melding: (uten emne)">
 
 <!ENTITY fromAddr.label "Fra:">
 <!ENTITY fromAddr.accesskey "r">
@@ -161,10 +161,10 @@
 <!ENTITY delete.label "Slett">
 <!ENTITY delete.accesskey "S">
 <!ENTITY renameAttachment.label "Endre navn …">
-<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY renameAttachment.accesskey "E">
 <!ENTITY selectAll.label "Merk alt">
 <!ENTITY selectAll.accesskey "M">
-<!ENTITY attachFile.label "Legg ved fil(er) …">
+<!ENTITY attachFile.label "Legg ved filer …">
 <!ENTITY attachFile.accesskey "L">
 <!ENTITY attachPage.label "Legg ved nettside …">
 <!ENTITY attachPage.accesskey "W">

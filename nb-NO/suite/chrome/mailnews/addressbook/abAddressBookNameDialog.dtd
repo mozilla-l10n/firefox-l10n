@@ -34,5 +34,5 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY name.label                    "Adresseboknavn:">
-<!ENTITY name.accesskey                "A">
+<!ENTITY name.label                    "Navn på adressebok:">
+<!ENTITY name.accesskey                "N">
