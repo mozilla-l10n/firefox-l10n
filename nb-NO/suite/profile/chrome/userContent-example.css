@@ -1,36 +1,36 @@
 /*
- * Edit this file and copy it as userContent.css into your
- * profile-directory/chrome/
+ * Rediger denne filen og kopier den til userContent.css i din
+ * profilmappe/chrome/
  */
 
 /*
- * This file can be used to apply a style to all web pages you view
- * Rules without !important are overruled by author rules if the
- * author sets any.  Rules with !important overrule author rules.
+ * Denne filen kan brukes til å legge på stiler til alle nettsteder
+ * du viser i Mozilla. Stilregler uten !important kan overstyres av
+ * nettstedsansvarlig.
  */
 
 /*
- * example: turn off "blink" element blinking
+ * eks.: skrur av "blink"-elementets blinking
  *
  * blink { text-decoration: none ! important; }
  *
  */
 
 /*
- * example: give all tables a 2px border
+ * eks.: gir alle tabeller en 2px synlig ramme
  *
  * table { border: 2px solid; }
  */
 
 /*
- * example: turn off "marquee" element
+ * eks.: skrur av "marquee"-elementet
  *
  * marquee { -moz-binding: none; }
  *
  */
 
 /*
- * example: make search fields on www.mozilla.org black-on-white
+ * eks.: gjør søkefeltene på www.mozilla.org til svart-på-hvit
  *
  * @-moz-document url-prefix(http://www.mozilla.org/) {
  *   #q { background: white ! important; color: black ! important; }
@@ -38,6 +38,6 @@
  */
  
 /* 
- * For more examples see http://www.mozilla.org/unix/customizing.html
+ * Gå til http://www.mozilla.org/unix/customizing.html (Engelsk) for flere eksempler
  */
 

@@ -18,8 +18,8 @@
 <!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Importer innstillinger og e-postmapper fra">
-<!ENTITY importItems.title              "Hva som skal importeres">
-<!ENTITY importItems.label              "Velg det du vil importere:">
+<!ENTITY importItems.title              "Elementer som skal importeres">
+<!ENTITY importItems.label              "Velg hvilke elementer som skal importeres:">
 
 <!ENTITY migrating.title                "Importerer …">
 <!ENTITY migrating.label                "Følgende elementer blir nå importert …">
@@ -28,4 +28,4 @@
 <!ENTITY selectProfile.label            "Du kan importere fra følgende profiler:">
 
 <!ENTITY done.title                     "Importering fullført">
-<!ENTITY done.label                     "Følgende elementer ble importert:">
+<!ENTITY done.label                     "Følgende elementer er importert:">
