@@ -66,10 +66,10 @@
 <!ENTITY highPriorityCmd.label "Høy">
 <!ENTITY highestPriorityCmd.label "Høyest">
 
-<!ENTITY contextDesc.label "Bruk filtre når:">
+<!ENTITY contextDesc.label "Bruk filteret når:">
 <!ENTITY contextDesc.accesskey "B">
 <!ENTITY contextIncoming.label "Henter e-post">
-<!ENTITY contextManual.label "Manuell filtrering av e-post">
+<!ENTITY contextManual.label "Ved manuell filtrering">
 <!ENTITY contextBoth.label "Henter e-post eller manuell filtrering">
 
 <!ENTITY filterActionDesc.label "Gjør dette med meldingene:">
@@ -81,11 +81,11 @@
 <!ENTITY forwardTo.label "Videresend melding til">
 <!ENTITY replyWithTemplate.label "Svar med mal">
 <!ENTITY markMessageRead.label "Marker som lest">
-<!ENTITY markMessageStarred.label "Merk med stjerne">
+<!ENTITY markMessageStarred.label "Merk med flagg">
 <!ENTITY labelMessage.label "Label Message As">
 <!ENTITY setPriority.label "Sett prioritet til">
-<!ENTITY addTag.label "Merk melding">
-<!ENTITY setJunkScore.label "Sett reklame-status til">
+<!ENTITY addTag.label "Tilordne etikett">
+<!ENTITY setJunkScore.label "Sett uønsket-status til">
 <!ENTITY deleteMessage.label "Slett melding">
 <!ENTITY deleteFromPOP.label "Slett fra POP-tjeneren">
 <!ENTITY fetchFromPOP.label "Hent fra POP-tjeneren">

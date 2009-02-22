@@ -41,11 +41,11 @@
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Legg til i: ">
 
-<!ENTITY ListName.label                 "Listenavn: ">
-<!ENTITY ListNickName.label             "Kallenavn på lista: ">
-<!ENTITY ListDescription.label          "Beskrivelse: ">
+<!ENTITY ListName.label                 "Listenavn:">
+<!ENTITY ListNickName.label             "Kallenavn på listen:">
+<!ENTITY ListDescription.label          "Beskrivelse:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Skriv inn e-postadressene her for å legge dem til i e-postlista.">
+<!ENTITY AddressTitle.label             "Skriv inn e-postadressene her for å legge dem til i e-postlisten:">
 <!ENTITY UpButton.label                 "Flytt opp">
 <!ENTITY DownButton.label               "Flytt ned">
 

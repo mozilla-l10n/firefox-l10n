@@ -35,10 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY startpage.title "Velkommen til &brandShortName; E-post og nyhetsgrupper">
+<!ENTITY startpage.title "Velkommen til &brandShortName; e-post og nyhetsgrupper">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label
-'Velkommen til <a id="vendorURL" href="">&brandShortName;</a> E-post og nyhetsgrupper!'>
+'Velkommen til <a id="vendorURL" href="">&brandShortName;</a> e-post og nyhetsgrupper!'>
 <!ENTITY description.label
 "&brandShortName; E-post og nyhetsgrupper er en kraftig åpen-kildekode e-post og nyhetsgruppeklient
 som støtter avansert søppelpostkontroll og andre nyttige funksjoner.">

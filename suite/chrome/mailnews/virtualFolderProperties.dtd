@@ -4,11 +4,11 @@
 <!ENTITY description.label             "Opprett som undermappe av:">
 <!ENTITY description.accesskey         "O">
 
-<!ENTITY searchTermCaption.label       "Velg søkekriteriene for denne søkemappen: ">
+<!ENTITY searchTermCaption.label "Velg søkekriteriene for dette søket: ">
 
 <!ENTITY folderSelectionCaption.label  "Velg mapper å søke i: ">
-<!ENTITY chooseFoldersButton.label     "Velg ...">
+<!ENTITY chooseFoldersButton.label "Velg …">
 <!ENTITY chooseFoldersButton.accesskey "V">
 
-<!ENTITY searchOnline.label            "Søk på ekstern tjener hver gang (gjør at det tar lengre tid å åpne mappen).">
+<!ENTITY searchOnline.label "Søk på ekstern tjener hver gang (gjør at det tar lengre tid å åpne mappen)">
 <!ENTITY searchOnline.accesskey        "t">

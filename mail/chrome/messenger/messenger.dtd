@@ -425,7 +425,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Utfør filtre på mappe">
 <!ENTITY filtersApply.accesskey "U">
-<!ENTITY filtersApplyToSelection.label "Utfør filtre på valgte meldinger">
+<!ENTITY filtersApplyToSelection.label "Utfør filtre på merkede meldinger">
 <!ENTITY filtersApplyToSelection.accesskey "f">
 <!ENTITY filtersApplyToMessage.label "Utfør filtre på melding">
 <!ENTITY filtersApplyToMessage.accesskey "ø">
@@ -477,8 +477,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markButton.tooltip "Merk meldinger">
 <!ENTITY printButton.tooltip "Skriv ut denne meldingen">
 <!ENTITY stopButton.tooltip "Stopp denne overføringen">
-<!ENTITY junkButton.tooltip "Merk de valgte meldingene som uønsket">
-<!ENTITY notJunkButton.tooltip "Merk valgt melding som ønsket">
+<!ENTITY junkButton.tooltip "Merk de valgte meldingene som uønskede">
+<!ENTITY notJunkButton.tooltip "Merk valgt melding som ønskede">
 <!ENTITY addressBookButton.tooltip "Gå til adresseboken">
 <!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern slettede meldinger fra valgt mappe">
