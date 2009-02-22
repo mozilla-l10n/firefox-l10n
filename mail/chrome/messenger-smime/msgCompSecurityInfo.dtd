@@ -3,7 +3,7 @@
 <!ENTITY title.label "Meldingssikkerhet">
 <!ENTITY subject.plaintextWarning "Merk: Emnelinjer i e-postmeldinger blir aldri kryptert.">
 <!ENTITY status.heading "Innholdet i meldingen vil bli sendt på denne måten:">
-<!ENTITY status.signed "Digitalt signert:">
+<!ENTITY status.signed "Digital signering:">
 <!ENTITY status.encrypted "Kryptering:">
 <!ENTITY status.certificates "Sertifikater:">
 <!ENTITY view.label "Vis">

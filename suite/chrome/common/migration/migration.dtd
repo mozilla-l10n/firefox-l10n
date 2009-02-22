@@ -19,8 +19,8 @@
 <!ENTITY selectProfile.title             "Velg profil">
 <!ENTITY selectProfile.label             "Følgende profiler er tilgjengelige å importere fra:">
 
-<!ENTITY migrating.title                 "Importerer ...">
-<!ENTITY migrating.label                 "Følgende elementer blir importert ...">
+<!ENTITY migrating.title                 "Importerer …">
+<!ENTITY migrating.label                 "Følgende elementer blir importert …">
 
 <!ENTITY done.title                      "Import fullført">
 <!ENTITY done.label                      "Følgende elementer er importert:">
