@@ -1,53 +1,53 @@
 <!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titleseparator " - ">
 
-<!ENTITY back.label            "Back">
-<!ENTITY back.tooltip          "Back">
-<!ENTITY forward.label         "Forward">
-<!ENTITY forward.tooltip       "Forward">
-<!ENTITY reload.label          "Reload">
-<!ENTITY reload.tooltip        "Reload">
-<!ENTITY stop.label            "Stop">
-<!ENTITY stop.tooltip          "Stop">
-<!ENTITY search.label          "Search">
-<!ENTITY search.tooltip        "Search">
-<!ENTITY go.label              "Go">
-<!ENTITY go.tooltip            "Go">
-<!ENTITY openLocation.label    "Open location">
-<!ENTITY openLocation.tooltip  "Open location">
-<!ENTITY star.label            "Star">
-<!ENTITY star.tooltip          "Bookmark this page">
-<!ENTITY bookmarks.label       "Bookmarks">
-<!ENTITY bookmarks.tooltip     "View bookmarks">
+<!ENTITY back.label            "Enrere">
+<!ENTITY back.tooltip          "Enrere">
+<!ENTITY forward.label         "Endavant">
+<!ENTITY forward.tooltip       "Endavant">
+<!ENTITY reload.label          "Actualitza">
+<!ENTITY reload.tooltip        "Actualitza">
+<!ENTITY stop.label            "Atura">
+<!ENTITY stop.tooltip          "Atura">
+<!ENTITY search.label          "Cerca">
+<!ENTITY search.tooltip        "Cerca">
+<!ENTITY go.label              "Vés-hi">
+<!ENTITY go.tooltip            "Vés-hi">
+<!ENTITY openLocation.label    "Obre una ubicació">
+<!ENTITY openLocation.tooltip  "Obre una ubicació">
+<!ENTITY star.label            "Senyala">
+<!ENTITY star.tooltip          "Afegeix a les adreces d'interès">
+<!ENTITY bookmarks.label       "Adreces d'interès">
+<!ENTITY bookmarks.tooltip     "Visualitza les adreces d'interès">
 
-<!ENTITY newtab.label          "New Tab">
-<!ENTITY closetab.label        "Close Tab">
+<!ENTITY newtab.label          "Crea una pestanya">
+<!ENTITY closetab.label        "Tanca la pestanya">
 
-<!ENTITY cut.label             "Cut">
-<!ENTITY copy.label            "Copy">
-<!ENTITY copylink.label        "Copy Link Location">
-<!ENTITY paste.label           "Paste">
-<!ENTITY delete.label          "Delete">
-<!ENTITY selectAll.label       "Select All">
-<!ENTITY noSuggestions.label   "(No suggestions)">
-<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY cut.label             "Retalla">
+<!ENTITY copy.label            "Copia">
+<!ENTITY copylink.label        "Copia l'enllaç">
+<!ENTITY paste.label           "Enganxa">
+<!ENTITY delete.label          "Suprimeix">
+<!ENTITY selectAll.label       "Selecciona-ho tot">
+<!ENTITY noSuggestions.label   "(Cap suggeriment)">
+<!ENTITY addToDictionary.label "Afegeix al diccionari">
 
-<!ENTITY editBookmarkName.label    "Name:">
-<!ENTITY editBookmarkURI.label     "Address:">
-<!ENTITY editBookmarkTags.label    "Tags:">
-<!ENTITY bookmarkRemove.label      "Remove Bookmark">
-<!ENTITY editBookmarkDone.label    "Done">
+<!ENTITY editBookmarkName.label    "Nom:">
+<!ENTITY editBookmarkURI.label     "Adreça:">
+<!ENTITY editBookmarkTags.label    "Etiquetes:">
+<!ENTITY bookmarkRemove.label      "Suprimeix l'adreça d'interès">
+<!ENTITY editBookmarkDone.label    "Fet">
 
-<!ENTITY findOnCmd.label     "Find in This Page…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.label     "Cerca a la pàgina…">
+<!ENTITY findOnCmd.accesskey "C">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Find Again">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.label  "Torna a cercar">
+<!ENTITY findAgainCmd.accesskey "r">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY identity.unverifiedsite2 "This web site does not supply identity information.">
-<!ENTITY identity.connectedTo "You are connected to">
+<!ENTITY identity.unverifiedsite2 "El lloc web no proporciona informació d'identitat.">
+<!ENTITY identity.connectedTo "Esteu connectat a">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -59,4 +59,4 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "which is run by">
+<!ENTITY identity.runBy "que funciona amb">
