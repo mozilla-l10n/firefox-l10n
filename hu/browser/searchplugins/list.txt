@@ -1,7 +1,7 @@
-amazondotcom
-answers
 creativecommons
-eBay
+eBay-en-GB
 google
+polymeta
+sztaki-en-hu
+vatera
 wikipedia-hu
-yahoo
