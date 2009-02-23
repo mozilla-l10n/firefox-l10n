@@ -46,6 +46,6 @@
 <!ENTITY selectProfile.title            "Profil wählen">
 <!ENTITY selectProfile.label            "Es stehen folgende Profile zum Import zur Verfügung:">
 
-<!ENTITY done.title                     "Importierung abgeschlossen">
+<!ENTITY done.title                     "Importieren abgeschlossen">
 <!ENTITY done.label                     "Folgende Daten wurden erfolgreich importiert:">
 
