@@ -62,7 +62,7 @@
 <!ENTITY calendar.events.filter.current.label "Núverandi valinn dagur">
 <!ENTITY calendar.events.filter.next7Days.label "Atburðir næstu 7 daga">
 <!ENTITY calendar.events.filter.next14Days.label "Atburðir næstu 14 daga">
-<!ENTITY calendar.events.filter.next31Days.label "Atburðir næstu 31 dag">
+<!ENTITY calendar.events.filter.next31Days.label "Atburðir næsta 31 dag">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Atburðir í þessum mánuði">
 <!ENTITY calendar.unifinder.tree.done.label "Ljúka">
 <!ENTITY calendar.unifinder.tree.priority.label "Forgangur">
@@ -285,6 +285,6 @@
 <!ENTITY calendar.print.settingsGroup.label "Prent stillingar">
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Upplýsingar…">
-<!ENTITY calendar.error.number "Villu númer:">
+<!ENTITY calendar.error.code "Villunúmer:">
 <!ENTITY calendar.error.description "Lýsing:">
 <!ENTITY calendar.error.title "Villa kom upp">

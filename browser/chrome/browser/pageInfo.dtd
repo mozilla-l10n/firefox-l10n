@@ -71,7 +71,7 @@
 <!ENTITY mediaCount "Fjöldi">
 <!ENTITY mediaDimension "Víddir:">
 <!ENTITY mediaLongdesc "Löng lýsing:">
-<!ENTITY mediaBlockImage.accesskey "B">
+<!ENTITY mediaBlockImage.accesskey "L">
 <!ENTITY mediaSaveAs "Vista sem…">
 <!ENTITY mediaSaveAs.accesskey "V">
 <!ENTITY mediaSaveAs2.accesskey "e">
