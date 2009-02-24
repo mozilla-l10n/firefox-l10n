@@ -50,7 +50,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey "E">
 
 <!ENTITY cmd.select_all.label "Elekti ĉion">
-<!ENTITY cmd.select_all.accesskey "ĉ">
+<!ENTITY cmd.select_all.accesskey "Ĉ">
 <!ENTITY cmd.select_all.key "a">
 
 <!ENTITY cmd.edit_cut.label "Eltondi">

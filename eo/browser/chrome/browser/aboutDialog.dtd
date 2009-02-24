@@ -7,7 +7,7 @@
 <!ENTITY aboutVersion "versio">
 <!ENTITY closeCmdGNOME.label "Fermi">
 <!ENTITY closeCmdGNOME.accesskey "F">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Kontribuantoj. Ĉiuj rajtoj rezervitaj. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Permesila informo">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY copyrightInfo1 "&#169;1998-2009 Kontribuantoj. Ĉiuj rajtoj rezervitaj. (">
+<!ENTITY licenseLink "about:license">
+<!ENTITY licenseLinkText "Permesila informo">
+<!ENTITY copyrightInfo2 ").">

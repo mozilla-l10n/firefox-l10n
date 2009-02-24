@@ -15,7 +15,7 @@
 <!ENTITY cmdInput.accesskey "o">
 
 <!ENTITY jobTitleInput.label "Titolo de tasko:">
-<!ENTITY jobTitleInput.accesskey "t">
+<!ENTITY jobTitleInput.accesskey "T">
 
 <!ENTITY colorGroup.label "Koloro:">
 <!ENTITY grayRadio.label "Grizoj">
@@ -36,6 +36,6 @@
 <!ENTITY bottomInput.label "Malsupre:">
 <!ENTITY bottomInput.accesskey "M">
 <!ENTITY leftInput.label "Maldekstre:">
-<!ENTITY leftInput.accesskey "a">
+<!ENTITY leftInput.accesskey "A">
 <!ENTITY rightInput.label "Dekstre:">
 <!ENTITY rightInput.accesskey "D">

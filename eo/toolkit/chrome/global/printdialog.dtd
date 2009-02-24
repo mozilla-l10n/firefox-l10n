@@ -9,7 +9,7 @@
 <!ENTITY fileCheck.label "Presi sur dosiero">
 <!ENTITY fileCheck.accesskey "D">
 <!ENTITY propertiesButton.label "Atributoj…">
-<!ENTITY propertiesButton.accesskey "A">
+<!ENTITY propertiesButton.accesskey "a">
 <!ENTITY descText.label "Priskribo de presilo:">
 <!ENTITY printer.label "Presilo">
 <!ENTITY printerInput.label "Nomo de presilo:">
@@ -17,7 +17,7 @@
 
 <!ENTITY printrangeGroup.label "Presa amplekso">
 <!ENTITY allpagesRadio.label "Ĉiuj paĝoj">
-<!ENTITY allpagesRadio.accesskey "i">
+<!ENTITY allpagesRadio.accesskey "I">
 <!ENTITY rangeRadio.label "Paĝoj">
 <!ENTITY rangeRadio.accesskey "P">
 <!ENTITY frompageInput.label "ekde">
@@ -29,7 +29,7 @@
 
 <!ENTITY copies.label "Kopioj">
 <!ENTITY numCopies.label "Kvanto da kopioj:">
-<!ENTITY numCopies.accesskey "K">
+<!ENTITY numCopies.accesskey "k">
 
 <!ENTITY printframeGroup.label "Presi kadrojn">
 <!ENTITY aslaidoutRadio.label "Kiel videblas sur la ekrano">
@@ -37,4 +37,4 @@
 <!ENTITY selectedframeRadio.label "La elektita kadro">
 <!ENTITY selectedframeRadio.accesskey "l">
 <!ENTITY eachframesepRadio.label "Ĉiu kadro aparte">
-<!ENTITY eachframesepRadio.accesskey "a">
+<!ENTITY eachframesepRadio.accesskey "A">

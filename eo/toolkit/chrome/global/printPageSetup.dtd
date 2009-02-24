@@ -22,7 +22,7 @@
 <!ENTITY optionsGroup.label "Opcioj">
 
 <!ENTITY printBG.label "Presi fonon (kolorojn kaj bildojn)">
-<!ENTITY printBG.accesskey "f">
+<!ENTITY printBG.accesskey "F">
 
 <!ENTITY advanced.tab "Marĝenoj kaj paĝokapo/paĝopiedo">
 
@@ -34,7 +34,7 @@
 <!ENTITY marginBottom.label "Malsupre:">
 <!ENTITY marginBottom.accesskey "M">
 <!ENTITY marginLeft.label "Maldekstre:">
-<!ENTITY marginLeft.accesskey "a">
+<!ENTITY marginLeft.accesskey "A">
 <!ENTITY marginRight.label "Dekstre:">
 <!ENTITY marginRight.accesskey "D">
 
