@@ -59,10 +59,10 @@
 <!ENTITY fileRevert.label "Afturkalla">
 <!ENTITY fileRevert.accesskey "A">
 <!ENTITY saveCmd.label "Vista">
-<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveCmd.accesskey "V">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "Vista sem…">
-<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsCmd.accesskey "s">
 <!ENTITY publishCmd.label "Gefa út">
 <!ENTITY publishCmd.accesskey "G">
 <!ENTITY publishCmd.key "S">
@@ -97,7 +97,7 @@
 <!ENTITY pasteAsQuotationCmd.label "Líma inn sem tilvitnun">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
 <!ENTITY findCmd.label "Finna og víxla…">
-<!ENTITY findCmd.accesskey "L">
+<!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findAgainCmd.label "Finna aftur">
@@ -130,7 +130,7 @@
 <!ENTITY insertTableCmd.label "Tafla…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
-<!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Stafir og tákn…">
 <!ENTITY insertCharsCmd.accesskey "S">
 <!ENTITY insertBreakAllCmd.label "Lína fyrir neðan mynd(ir)">

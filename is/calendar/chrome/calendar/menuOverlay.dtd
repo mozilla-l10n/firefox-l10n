@@ -44,7 +44,7 @@
 <!-- Event Menu -->
 <!ENTITY event.new.event "Nýr atburður…">
 <!ENTITY event.new.event.key "N">
-<!ENTITY event.new.event.accesskey "r">
+<!ENTITY event.new.event.accesskey "N">
 <!ENTITY event.new.todo "Nýtt verk…">
 <!ENTITY event.new.todo.key "T">
 <!ENTITY event.new.todo.accesskey "v">
@@ -60,7 +60,7 @@
 <!ENTITY calendar.export.calendar.label "Flytja út dagatal…">
 <!ENTITY calendar.export.calendar.accesskey "j">
 <!ENTITY calendar.export.selection.label "Flytja út val…">
-<!ENTITY calendar.export.selection.accesskey "v">
+<!ENTITY calendar.export.selection.accesskey "y">
 <!ENTITY calendar.publish.label "Gefa út…">
 <!ENTITY calendar.publish.accesskey "t">
 <!ENTITY calendar.menu.customize.label "Sérsníða…">
@@ -84,7 +84,7 @@
 <!ENTITY goNextCmd.day.label "Næsti dagur">
 <!ENTITY goNextCmd.week.label "Næsta vika">
 <!ENTITY goNextCmd.month.label "Næsti mánuður">
-<!ENTITY goNextCmd.all.accesskey "N">
+<!ENTITY goNextCmd.all.accesskey "æ">
 <!ENTITY addressBookCmd.label "Tengiliðir">
 <!ENTITY addressBookCmd.accesskey "T">
 <!ENTITY calendar.importcalendar.label "Flytja inn dagatal…">
