@@ -162,7 +162,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adresář">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY accountManagerCmd.label "Nastavení účtu…">
 <!ENTITY accountManagerCmd.accesskey "t">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
