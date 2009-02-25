@@ -27,11 +27,13 @@
 <!ENTITY selectAll.label "Seleziona tutto">
 <!ENTITY noSuggestions.label "(nessun suggerimento)">
 <!ENTITY addToDictionary.label "Aggiungi al dizionario">
-<!ENTITY editBookmarkName.label "Nome:">
-<!ENTITY editBookmarkURI.label "Indirizzo:">
-<!ENTITY editBookmarkTags.label "Etichette:">
-<!ENTITY bookmarkRemove.label "Elimina segnalibro">
+<!ENTITY bookmarksHeader.label "Segnalibri">
+<!ENTITY bookmarksManage.label "Gestisci">
+<!ENTITY foldersHeader.label "Cartelle">
+<!ENTITY editBookmarkEdit.label "Modifica">
+<!ENTITY editBookmarkMove.label "Sposta">
 <!ENTITY editBookmarkDone.label "Fatto">
+<!ENTITY editBookmarkTags.label "Etichette:">
 <!ENTITY findOnCmd.label "Trova in questa pagina…">
 <!ENTITY findOnCmd.accesskey "T">
 <!ENTITY findOnCmd.commandkey "f">
