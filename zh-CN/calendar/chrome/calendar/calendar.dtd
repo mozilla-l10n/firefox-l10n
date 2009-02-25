@@ -59,7 +59,7 @@
 
 <!ENTITY calendar.today.button.label       "今天">
 <!ENTITY calendar.tomorrow.button.label       "明天">
-<!ENTITY calendar.soon.button.label           "中午">
+<!ENTITY calendar.soon.button.label           "即将">
 
 <!ENTITY calendar.events.filter.all.label "所有事件">
 <!ENTITY calendar.events.filter.today.label "今日事件">
@@ -323,6 +323,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "详细信息…">
-<!ENTITY calendar.error.number "错误代码：">
+<!ENTITY calendar.error.code "错误码：">
 <!ENTITY calendar.error.description "描述：">
 <!ENTITY calendar.error.title "发生错误">
