@@ -537,12 +537,9 @@
 <!ENTITY folderContextSettings.label "Nastavení…">
 <!ENTITY folderContextSettings.accesskey "s">
 
-<!-- Search Bar -->
-<!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Předmět nebo odesílatel obsahuje:">
-<!ENTITY SearchSubjectOrFrom.accesskey "S">
-<!ENTITY SearchNameOrEmail.label "Jméno nebo e-mail obsahuje:">
-<!ENTITY SearchNameOrEmail.accesskey "M">
+<!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchSubjectAndFrom.emptytext "Hledat předmět a od">
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
 

@@ -34,16 +34,16 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+
 <!-- Title -->
-
 <!ENTITY addressbookWindow.title "Adresář">
+
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
+
 <!-- File Menu -->
-
-
-<!ENTITY newCard.label "Kontakt…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey "K">
+<!ENTITY newContact.label "Kontakt…">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey "K">
 <!ENTITY newListCmd.label "Skupina…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "S">
@@ -53,33 +53,34 @@
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "IM">
-<!ENTITY printCardViewCmd.label "Tisk kontaktu…">
-<!ENTITY printCardViewCmd.accesskey "t">
-<!ENTITY printPreviewCardViewCmd.label "Náhled tisku kontaktu">
-<!ENTITY printPreviewCardViewCmd.accesskey "h">
+<!ENTITY printContactViewCmd.label "Tisk kontaktu…">
+<!ENTITY printContactViewCmd.accesskey "t">
+<!ENTITY printPreviewContactViewCmd.label "Náhled tisku kontaktu">
+<!ENTITY printPreviewContactViewCmd.accesskey "h">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Tisk složky kontaktů…">
 <!ENTITY printAddressBook.accesskey "O">
 <!ENTITY printPreviewAddressBook.label "Náhled tisku složky kontaktů">
 <!ENTITY printPreviewAddressBook.accesskey "L">
 <!ENTITY printSetupCmd.label "Nastavení stránky…">
 <!ENTITY printSetupCmd.accesskey "s">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label "Odstranit">
-<!ENTITY deleteCardCmd.label "Odstranit">
-<!ENTITY deleteCardsCmd.label "Odstranit">
+<!ENTITY deleteContactCmd.label "Odstranit">
+<!ENTITY deleteContactsCmd.label "Odstranit">
 <!ENTITY deleteListCmd.label "Smazat seznam">
 <!ENTITY deleteListsCmd.label "Smazat vybrané seznamy">
 <!ENTITY deleteItemsCmd.label "Smazat vybrané položky">
 <!ENTITY swapFirstNameLastNameCmd.label "Vyměnit jméno/příjmení">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "m">
 <!ENTITY propertiesCmd.label "Vlastnosti…">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey "V">
 <!ENTITY propertiesCmd.key "i">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label "Nástrojová lišta s kontakty">
 <!ENTITY showAbToolbarCmd.accesskey "n">
 
@@ -94,44 +95,44 @@
 <!ENTITY lastFirstCmd.accesskey "p">
 <!ENTITY displayNameCmd.label "Zobrazené jméno">
 <!ENTITY displayNameCmd.accesskey "z">
-<!-- Tasks Menu -->
 
+<!-- Tasks Menu -->
 <!ENTITY importCmd.label "Importovat…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exportovat…">
-<!ENTITY exportCmd.accesskey "X">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY allowOnlineCheck.label "Ověřit přítomnost online (AOL)">
 <!ENTITY allowOnlineCheck.accesskey "O">
 
 <!-- Toolbar and Popup items -->
-
-<!ENTITY newcardButton.label "Nový kontakt">
-<!ENTITY newcardButton.accesskey "K">
+<!ENTITY newContactButton.label "Nový kontakt">
+<!ENTITY newContactButton.accesskey "k">
 <!ENTITY newlistButton.label "Nová skupina">
-<!ENTITY newlistButton.accesskey "S">
-<!ENTITY editButton.label "Vlastnosti">
-<!ENTITY editButton.accesskey "I">
+<!ENTITY newlistButton.accesskey "s">
+<!ENTITY editItemButton.label "Vlastnosti">
+<!ENTITY editItemButton.accesskey "V">
 <!ENTITY newmsgButton.label "Napsat">
 <!ENTITY newmsgButton.accesskey "N">
-<!ENTITY deleteButton.label "Smazat">
-<!ENTITY deleteButton.accesskey "M">
+<!ENTITY deleteItemButton.label "Smazat">
+<!ENTITY deleteItemButton.accesskey "m">
 <!ENTITY newimButton.label "Krátká zpráva">
 <!ENTITY newimButton.accesskey "K">
-<!-- Tooltips -->
+<!ENTITY searchNameAndEmail.emptytext "Hledat jméno a e-mail">
 
+<!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip "Lišta složky kontaktů">
-<!ENTITY newcardButton.tooltip "Vytvoří nový kontakt">
+<!ENTITY newContactButton.tooltip "Vytvoří nový kontakt">
 <!ENTITY newlistButton.tooltip "Vytvoří novou skupinu">
-<!ENTITY editButton.tooltip "Upraví označený kontakt">
+<!ENTITY editItemButton.tooltip "Upraví označenou položku">
 <!ENTITY newmsgButton.tooltip "Vytvoří novou zprávu">
 <!ENTITY newIM.tooltip "Pošle krátkou zprávu nebo začne rozhovor">
-<!ENTITY deleteButton.tooltip "Smaže označený kontakt nebo složku kontaktů">
+<!ENTITY deleteItemButton.tooltip "Smaže označenou položku">
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Rozšířené hledání adres">
-<!-- Status Bar -->
 
+<!-- Status Bar -->
 <!ENTITY statusText.label "">
+
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-
 <!ENTITY hideSwapFnLnUI "true">

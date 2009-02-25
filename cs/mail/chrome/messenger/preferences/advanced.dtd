@@ -1,6 +1,6 @@
 <!ENTITY itemGeneral.label "Obecné">
 <!ENTITY itemDisplay.label "Čtení a zobrazení">
-<!ENTITY itemUpdate.label "Aktualizovat">
+<!ENTITY itemUpdate.label "Aktualizace">
 <!ENTITY itemNetworking.label "Síť a místo na disku">
 <!ENTITY itemCertificates.label "Certifikáty">
 
@@ -43,7 +43,7 @@
 <!ENTITY reuseExpRadio1.accesskey "A">
 
 <!-- Update -->
-<!ENTITY autoCheck.label "Opakovaně kontrolovat aktualizace pro:">
+<!ENTITY autoCheck.label "Automaticky kontrolovat aktualizace pro:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "T">
 <!ENTITY enableAddonsUpdate.label "Nainstalované doplňky">
