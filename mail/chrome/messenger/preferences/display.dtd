@@ -1,7 +1,7 @@
 <!ENTITY itemFormatting.label "Форматирование">
 <!ENTITY itemTags.label "Метки">
 <!ENTITY style.label "Стиль:">
-<!ENTITY style.accesskey "т">
+<!ENTITY style.accesskey "и">
 <!ENTITY regularStyle.label "Обычный">
 <!ENTITY bold.label "Полужирный">
 <!ENTITY italic.label "Курсив">
@@ -27,15 +27,15 @@
 <!ENTITY backgroundColor.label "Цвет фона:">
 <!ENTITY backgroundColor.accesskey "ф">
 <!ENTITY convertEmoticons.label "Отображать смайлики как графику">
-<!ENTITY convertEmoticons.accesskey "б">
+<!ENTITY convertEmoticons.accesskey "м">
 <!ENTITY displayTagsText.label "Метки могут быть использованы для классификации и изменения приоритета сообщений.">
 <!ENTITY addTagButton.label "Добавить">
 <!ENTITY addTagButton.accesskey "б">
 <!ENTITY editTagButton.label "Редактировать">
-<!ENTITY editTagButton.accesskey "д">
+<!ENTITY editTagButton.accesskey "е">
 <!ENTITY removeTagButton.label "Удалить">
 <!ENTITY removeTagButton.accesskey "д">
 <!ENTITY fontAndEncodingsDescription.label "Настройка шрифтов и кодировок, используемых в &brandShortName;">
 <!ENTITY fontsAndEncodingsCaption.label "Шрифты и кодировки">
-<!ENTITY fontOptions.accesskey "ф">
+<!ENTITY fontOptions.accesskey "р">
 <!ENTITY fontOptions.label "Шрифты…">

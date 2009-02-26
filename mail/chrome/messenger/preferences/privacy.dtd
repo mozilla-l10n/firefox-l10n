@@ -6,9 +6,9 @@
 <!ENTITY manualMark.label "Когда я помечаю сообщения как спам:">
 <!ENTITY manualMark.accesskey "с">
 <!ENTITY manualMarkModeMove.label "Перемещать их в папку «Спам» учётной записи">
-<!ENTITY manualMarkModeMove.accesskey "П">
+<!ENTITY manualMarkModeMove.accesskey "м">
 <!ENTITY manualMarkModeDelete.label "Удалять их">
-<!ENTITY manualMarkModeDelete.accesskey "У">
+<!ENTITY manualMarkModeDelete.accesskey "д">
 <!ENTITY markAsReadOnSpam.label "Отметить сообщения, определённые как спам, как прочитанные">
 <!ENTITY markAsReadOnSpam.accesskey "ч">
 <!ENTITY enableJunkLogging.label "Включить журнал анти-спам фильтра">

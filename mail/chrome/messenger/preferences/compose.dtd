@@ -4,9 +4,7 @@
 <!ENTITY forwardMsg.label "Пересылать сообщения:">
 <!ENTITY forwardMsg.accesskey "с">
 <!ENTITY inline.label "Внутри сообщения">
-<!ENTITY inline.accesskey "н">
 <!ENTITY asAttachment.label "Как вложение">
-<!ENTITY asAttachment.accesskey "л">
 <!ENTITY addExtension.label "добавлять расширение к имени файла">
 <!ENTITY addExtension.accesskey "ф">
 <!ENTITY htmlComposeHeader.label "HTML">
@@ -17,11 +15,11 @@
 <!ENTITY fontColor.label "Цвет текста:">
 <!ENTITY fontColor.accesskey "т">
 <!ENTITY bgColor.label "Цвет фона:">
-<!ENTITY bgColor.accesskey "ф">
+<!ENTITY bgColor.accesskey "в">
 <!ENTITY restoreHTMLDefaults.label "Восстановить значения по умолчанию">
 <!ENTITY restoreHTMLDefaults.accesskey "м">
 <!ENTITY spellCheck.label "Проверять орфографию перед отправкой сообщения">
-<!ENTITY spellCheck.accesskey "ф">
+<!ENTITY spellCheck.accesskey "г">
 <!ENTITY spellCheckInline.label "Проверять орфографию при наборе текста">
 <!ENTITY spellCheckInline1.accesskey "н">
 <!ENTITY languagePopup.label "Язык:">
@@ -39,7 +37,7 @@
 <!ENTITY addressingEnable.label "Локальных адресных книгах">
 <!ENTITY addressingEnable.accesskey "к">
 <!ENTITY directories.label "Сервере каталогов:">
-<!ENTITY directories.accesskey "к">
+<!ENTITY directories.accesskey "р">
 <!ENTITY directoriesNone.label "Нет">
 <!ENTITY editDirectories.label "Изменить каталоги…">
 <!ENTITY editDirectories.accesskey "з">
