@@ -2,7 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazione anonima)">
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 <!ENTITY tabCmd.label "Nuova scheda">
 <!ENTITY tabCmd.accesskey "h">
 <!ENTITY tabCmd.commandkey "t">
