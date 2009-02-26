@@ -27,11 +27,13 @@
 <!ENTITY selectAll.label "Выделить всё">
 <!ENTITY noSuggestions.label "(нет предположений)">
 <!ENTITY addToDictionary.label "Добавить в словарь">
-<!ENTITY editBookmarkName.label "Имя:">
-<!ENTITY editBookmarkURI.label "Адрес:">
-<!ENTITY editBookmarkTags.label "Метки:">
-<!ENTITY bookmarkRemove.label "Удалить закладку">
+<!ENTITY bookmarksHeader.label "Закладки">
+<!ENTITY bookmarksManage.label "Управлять">
+<!ENTITY foldersHeader.label "Папки">
+<!ENTITY editBookmarkEdit.label "Изменить">
+<!ENTITY editBookmarkMove.label "Переместить">
 <!ENTITY editBookmarkDone.label "Готово">
+<!ENTITY editBookmarkTags.label "Добавьте сюда метки">
 <!ENTITY findOnCmd.label "Найти на этой странице…">
 <!ENTITY findOnCmd.accesskey "Н">
 <!ENTITY findOnCmd.commandkey "f">

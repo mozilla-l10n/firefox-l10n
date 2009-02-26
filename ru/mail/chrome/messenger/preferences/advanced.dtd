@@ -19,19 +19,19 @@
 <!ENTITY reading.caption "Чтение">
 <!ENTITY display.caption "Отображение">
 <!ENTITY showCondensedAddresses.label "Показывать только имя для людей, находящихся в моей адресной книге">
-<!ENTITY showCondensedAddresses.accesskey "и">
+<!ENTITY showCondensedAddresses.accesskey "к">
 <!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
 <!ENTITY autoMarkAsRead.accesskey "в">
 <!ENTITY markAsReadNoDelay.label "Немедленно при просмотре">
 <!ENTITY markAsReadNoDelay.accesskey "м">
 <!ENTITY markAsReadDelay.label "После просмотра в течение">
-<!ENTITY markAsReadDelay.accesskey "с">
+<!ENTITY markAsReadDelay.accesskey "т">
 <!ENTITY secondsLabel.label "сек.">
 <!ENTITY openMsgIn.label "Открывать новые сообщения в:">
 <!ENTITY reuseExpRadio0.label "новом окне">
 <!ENTITY reuseExpRadio0.accesskey "о">
 <!ENTITY reuseExpRadio1.label "уже существующем окне">
-<!ENTITY reuseExpRadio1.accesskey "с">
+<!ENTITY reuseExpRadio1.accesskey "ж">
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
@@ -59,7 +59,7 @@
 <!ENTITY offlineCompact.accesskey "м">
 <!ENTITY kb.label "КБ">
 <!ENTITY useCacheBefore.label "Использовать до">
-<!ENTITY useCacheBefore.accesskey "И">
+<!ENTITY useCacheBefore.accesskey "п">
 <!ENTITY useCacheAfter.label "МБ на диске для кэша">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
@@ -68,6 +68,6 @@
 <!ENTITY viewCRLs.label "Списки отзыва сертификатов">
 <!ENTITY viewCRLs.accesskey "з">
 <!ENTITY validation.label "Настройки OCSP">
-<!ENTITY validation.accesskey "O">
+<!ENTITY validation.accesskey "т">
 <!ENTITY viewSecurityDevices.label "Устройства защиты">
 <!ENTITY viewSecurityDevices.accesskey "щ">

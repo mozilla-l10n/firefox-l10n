@@ -2,7 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Режим приватного просмотра)">
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 <!ENTITY tabCmd.label "Новая вкладка">
 <!ENTITY tabCmd.accesskey "в">
 <!ENTITY tabCmd.commandkey "t">
