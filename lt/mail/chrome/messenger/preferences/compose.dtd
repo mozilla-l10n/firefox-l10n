@@ -37,9 +37,7 @@
 <!ENTITY forwardMsg.label                     "Persiųsti laiškus:">
 <!ENTITY forwardMsg.accesskey                 "P">
 <!ENTITY inline.label                         "tiesiogiai">
-<!ENTITY inline.accesskey                     "e">
 <!ENTITY asAttachment.label                   "kaip priedus">
-<!ENTITY asAttachment.accesskey               "r">
 <!ENTITY addExtension.label                   "failo vardui suteikti prievardį">
 <!ENTITY addExtension.accesskey               "v">
 
