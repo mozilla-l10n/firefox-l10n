@@ -64,10 +64,13 @@
 <!ENTITY noSuggestions.label              "(Nėra siūlymų)">
 <!ENTITY addToDictionary.label            "Įtraukti į žodyną">
 
-<!ENTITY editBookmarkName.label           "Pavadinimas:">
-<!ENTITY editBookmarkURI.label            "Adresas:">
+<!ENTITY bookmarksHeader.label            "Adresynas">
+<!ENTITY bookmarksManage.label            "Tvarkyti">
+<!ENTITY foldersHeader.label              "Aplankai">
+
+<!ENTITY editBookmarkEdit.label           "Taisyti">
+<!ENTITY editBookmarkMove.label           "Perkelti">
 <!ENTITY editBookmarkTags.label           "Gairės:">
-<!ENTITY bookmarkRemove.label             "Pašalinti įrašą">
 <!ENTITY editBookmarkDone.label           "Įrašyti">
 
 <!ENTITY findOnCmd.label                  "Ieškoti šiame tinklalapyje…">
