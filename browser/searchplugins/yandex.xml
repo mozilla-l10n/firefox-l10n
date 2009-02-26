@@ -9,6 +9,7 @@
 <Url type="text/html" method="GET" template="http://yandex.ru/yandsearch">
   <Param name="text" value="{searchTerms}"/>
   <Param name="from" value="fx3"/>
+  <Param name="clid" value="46510"/>
 </Url>
 <SearchForm>http://www.yandex.ru/</SearchForm>
 </SearchPlugin>
