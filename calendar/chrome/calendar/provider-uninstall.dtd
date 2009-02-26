@@ -11,11 +11,11 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Google Calendar Provider code.
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
    -   Philipp Kewisch <mozilla@kewis.ch>
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
@@ -35,15 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY gdata-provider.label "„Google“ kalendorius">
-
-<!ENTITY gdata.privacy.default.label "„Google“ numatytasis">
-<!ENTITY gdata.privacy.default.accesskey "n">
-
-<!ENTITY gdata.migration.title "Tik skaitymui skirtų kalendorių konvertavimas">
-<!ENTITY gdata.migration.description "Prieigos prie „Google“ kalendoriaus teiktuvas nustatė, jog kai kurie Jūsų naudojami kalendoriai geba tik skaityti „Google“ kalendorius. Jei kažkuriuos jų norite konvertuoti į dvipusės prieigos kalendorius, parinkite juos žemiau">
-<!ENTITY gdata.migration.upgrade.label "Konvertuoti">
-<!ENTITY gdata.migration.upgrade.accesskey "K">
-<!ENTITY gdata.migration.showagain.label "Tikrinti visada ">
-
-<!ENTITY gdata.reminder.action.sms.label "Nusiųsti trumpąją žinutę">
+<!ENTITY providerUninstall.title                           "Pašalinti teiktuvą">
+<!ENTITY providerUninstall.accept.label                    "Atsisakyti prenumeratos">
+<!ENTITY providerUninstall.accept.accesskey                "A">
+<!ENTITY providerUninstall.cancel.label                    "Nešalinti priedo">
+<!ENTITY providerUninstall.cancel.accesskey                "N">
+<!ENTITY providerUninstall.preName.label                   "Jūs nurodėte išjungti arba pašalinti priedą:">
+<!ENTITY providerUninstall.postName.label                  "Tai reiškia, kad reikės išjungti žemiau išvardintus kalendorius.">
+<!ENTITY providerUninstall.reinstallNote.label             "Jei neplanuojate iš naujo įdiegti šio tiektuvo, galite atsisakyti šio teiktuvo teikiamų kalendorių prenumeratos.">

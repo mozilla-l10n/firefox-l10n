@@ -285,20 +285,23 @@
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Kalendoriaus aprašo taisymas">
-<!ENTITY calendar.server.dialog.name.label          "Kalendoriaus avadinimas:">
+<!ENTITY calendar.server.dialog.name.label          "Kalendoriaus pavadinimas:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Spalva:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Tipas:">
-<!ENTITY calendarproperties.location.label "Vieta:">
-<!ENTITY calendarproperties.name.label     "Pavadinimas:">
-<!ENTITY calendarproperties.readonly.label "Skirtas tik skaitymui">
-<!ENTITY calendarproperties.cache.label    "Kešuojamas (EKSPERIMENTINĖ GALIMYBĖ, reikės perleisti programą)">
-<!ENTITY calendarproperties.firealarms.label "Rodyti priminimus">
-<!ENTITY calendarproperties.enabled.label  "Naudoti šį kalendorių">
+<!ENTITY calendarproperties.color.label             "Spalva:">
+<!ENTITY calendarproperties.webdav.label            "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label            "CalDAV">
+<!ENTITY calendarproperties.wcap.label              "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label            "Tipas:">
+<!ENTITY calendarproperties.location.label          "Vieta:">
+<!ENTITY calendarproperties.name.label              "Pavadinimas:">
+<!ENTITY calendarproperties.readonly.label          "Skirtas tik skaitymui">
+<!ENTITY calendarproperties.cache.label             "Kešuojamas (EKSPERIMENTINĖ GALIMYBĖ, reikės perleisti programą)">
+<!ENTITY calendarproperties.firealarms.label        "Rodyti priminimus">
+<!ENTITY calendarproperties.enabled.label           "Naudoti šį kalendorių">
+<!ENTITY calendarproperties.forceDisabled.label     "Prieigos prie šio kalendoriaus teiktuvas nerastas. Tai gali nutikti, jei esate išjungę ar pašalinę kai kuriuos priedus.">
+<!ENTITY calendarproperties.unsubscribe.label       "Atsisakyti prenumeratos">
+<!ENTITY calendarproperties.unsubscribe.accesskey   "A">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title     "Kalendoriaus publikavimas">
@@ -325,6 +328,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detaliau…">
-<!ENTITY calendar.error.number "Klaidos kodas:">
+<!ENTITY calendar.error.code "Klaidos kodas:">
 <!ENTITY calendar.error.description "Aprašas:">
 <!ENTITY calendar.error.title "Įvyko klaida">
