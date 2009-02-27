@@ -21,7 +21,7 @@
 <!ENTITY  monospace.accesskey                     "F">
 
 <!ENTITY  font.langGroup.latin1                   "Westlich">
-<!ENTITY  font.langGroup.latin2                   "Zentraleuropäisch">
+<!ENTITY  font.langGroup.latin2                   "Mitteleuropäisch">
 <!ENTITY  font.langGroup.japanese                 "Japanisch">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
