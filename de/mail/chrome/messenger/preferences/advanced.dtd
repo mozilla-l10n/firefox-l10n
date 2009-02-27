@@ -87,11 +87,11 @@
 <!ENTITY clearCacheNow.accesskey         "l">
 
 <!-- Certificates -->
-<!ENTITY viewCertificates.label         "Zertifikate…">
+<!ENTITY viewCertificates.label         "Zertifikate">
 <!ENTITY viewCertificates.accesskey     "Z">
-<!ENTITY viewCRLs.label                 "Widerrufslisten…">
+<!ENTITY viewCRLs.label                 "Zertifikatsperrliste">
 <!ENTITY viewCRLs.accesskey             "W">
-<!ENTITY validation.label               "Validierung…">
+<!ENTITY validation.label               "Validierung">
 <!ENTITY validation.accesskey           "V">
-<!ENTITY viewSecurityDevices.label      "Kryptographie-Module…">
+<!ENTITY viewSecurityDevices.label      "Kryptographie-Module">
 <!ENTITY viewSecurityDevices.accesskey  "K">

@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Nachrichten weiterleiten:">
 <!ENTITY forwardMsg.accesskey                 "w">
 <!ENTITY inline.label                         "Eingebunden">
-<!ENTITY inline.accesskey                     "E">
 <!ENTITY asAttachment.label                   "Als Anhang">
-<!ENTITY asAttachment.accesskey               "l">
 <!ENTITY addExtension.label                   "Dateinamenserweiterung hinzufügen">
 <!ENTITY addExtension.accesskey               "D">
 
