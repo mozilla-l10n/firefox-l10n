@@ -32,11 +32,14 @@
 <!ENTITY noSuggestions.label   "(Pad de suggestion)">
 <!ENTITY addToDictionary.label "Ajouter au dictionnaire">
 
-<!ENTITY editBookmarkName.label    "Nom :">
-<!ENTITY editBookmarkURI.label     "Adresse :">
-<!ENTITY editBookmarkTags.label    "Étiquettes :">
-<!ENTITY bookmarkRemove.label      "Supprimer le marque-page">
-<!ENTITY editBookmarkDone.label    "Terminé">
+<!ENTITY bookmarksHeader.label "Marque-pages">
+<!ENTITY bookmarksManage.label "Gérer">
+<!ENTITY foldersHeader.label "Dossiers">
+
+<!ENTITY editBookmarkEdit.label "Modifier">
+<!ENTITY editBookmarkMove.label "Déplacer">
+<!ENTITY editBookmarkDone.label "Terminé">
+<!ENTITY editBookmarkTags.label "Ajouter des étiquettes">
 
 <!ENTITY findOnCmd.label     "Chercher dans cette page…">
 <!ENTITY findOnCmd.accesskey "C">
