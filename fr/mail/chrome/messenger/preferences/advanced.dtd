@@ -6,8 +6,8 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Activer la recherche et l'indexation globales">
-<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
+<!ENTITY enableGlodaSearch.accesskey "c">
 <!ENTITY systemDefaults.label "Paramètres système par défaut">
 <!ENTITY alwaysCheckDefault.label "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
 <!ENTITY alwaysCheckDefault.accesskey "T">
@@ -18,7 +18,7 @@
 <!ENTITY configEdit.accesskey "d">
 <!ENTITY returnReceiptsInfo.label "Gestion des accusés de réception dans &brandShortName;">
 <!ENTITY showReturnReceipts.label "Accusés de réception…">
-<!ENTITY showReturnReceipts.accesskey "c">
+<!ENTITY showReturnReceipts.accesskey "A">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption "Lecture">
@@ -40,7 +40,7 @@
 <!ENTITY reuseExpRadio0.label          "une nouvelle fenêtre">
 <!ENTITY reuseExpRadio0.accesskey      "U">
 <!ENTITY reuseExpRadio1.label          "une fenêtre existante">
-<!ENTITY reuseExpRadio1.accesskey      "n">
+<!ENTITY reuseExpRadio1.accesskey      "e">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Rechercher automatiquement des mises à jour pour :">

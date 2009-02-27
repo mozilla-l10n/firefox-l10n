@@ -2,35 +2,35 @@
 <!ENTITY itemTags.label                   "Étiquettes">
 
 <!ENTITY style.label                      "Style :">
-<!ENTITY style.accesskey                  "t">
+<!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Normal">
 <!ENTITY bold.label                       "Gras">
 <!ENTITY italic.label                     "Italique">
 <!ENTITY boldItalic.label                 "Gras italique">
 <!ENTITY size.label                       "Taille :">
-<!ENTITY size.accesskey                   "a">
+<!ENTITY size.accesskey                   "T">
 <!ENTITY regularSize.label                "Normale">
 <!ENTITY bigger.label                     "Plus grande">
 <!ENTITY smaller.label                    "Plus petite">
 <!ENTITY color.label                      "Couleur :">
-<!ENTITY color.accesskey                  "c">
+<!ENTITY color.accesskey                  "u">
 <!ENTITY displayWidth.label               "Messages en texte simple">
 <!ENTITY plainText.label		  "Utiliser la police suivante :">
 <!ENTITY displayText.label	          "Lors de l'affichage de citations en texte simple :">
 <!ENTITY fixedWidth.label                 "Police de largeur fixe">
-<!ENTITY fixedWidth.accesskey             "f">
+<!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "Police de largeur variable">
-<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY variableWidth.accesskey          "v">
 <!ENTITY colors.label                     "Couleurs">
 <!ENTITY overrideColors.label             "Lors de l'affichage des messages, utiliser les couleurs suivantes :">
 <!ENTITY textColor.label                  "Couleur de texte :">
-<!ENTITY textColor.accesskey              "t">
+<!ENTITY textColor.accesskey              "C">
 <!ENTITY backgroundColor.label            "Couleur de fond :">
-<!ENTITY backgroundColor.accesskey        "d">
+<!ENTITY backgroundColor.accesskey        "o">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "Afficher les émoticônes sous forme graphique">
-<!ENTITY convertEmoticons.accesskey       "s">
+<!ENTITY convertEmoticons.accesskey       "A">
 
 <!-- labels -->
 <!ENTITY displayTagsText.label      "Les étiquettes peuvent être utilisées pour classer en catégories et donner un ordre de priorité à vos messages">
