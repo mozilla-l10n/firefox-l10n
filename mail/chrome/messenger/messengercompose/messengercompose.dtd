@@ -154,7 +154,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "פנקס כתובות">
 <!ENTITY addressBookCmd.accesskey "כ">
-<!ENTITY addressBookCmd.commandkey "2">
+<!--###ENTITY addressBookCmd.commandkey "2"-->
 <!ENTITY accountManagerCmd.label "הגדרות חשבון...">
 <!ENTITY accountManagerCmd.accesskey "ה">
 <!ENTITY accountManagerCmdUnix.accesskey "ה">
