@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Transférer les messages :">
 <!ENTITY forwardMsg.accesskey                 "T">
 <!ENTITY inline.label                         "intégrés">
-<!ENTITY inline.accesskey                     "i">
 <!ENTITY asAttachment.label                   "en pièces jointes">
-<!ENTITY asAttachment.accesskey               "p">
 <!ENTITY addExtension.label                   "ajouter une extension au nom de fichier">
 <!ENTITY addExtension.accesskey               "a">
 
