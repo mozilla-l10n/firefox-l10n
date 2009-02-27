@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label       "Przekazuj wiadomości:">
 <!ENTITY forwardMsg.accesskey   "P">
 <!ENTITY inline.label           "bezpośrednio">
-<!ENTITY inline.accesskey       "b">
 <!ENTITY asAttachment.label     "jako załącznik">
-<!ENTITY asAttachment.accesskey "a">
 <!ENTITY addExtension.label     "dodawaj rozszerzenia do nazw plików załączników">
 <!ENTITY addExtension.accesskey "d">
 
@@ -24,9 +22,9 @@
 <!ENTITY restoreHTMLDefaults.accesskey "y">
 
 <!ENTITY spellCheck.label              "Sprawdzaj pisownię przed wysłaniem wiadomości">
-<!ENTITY spellCheck.accesskey          "p">
+<!ENTITY spellCheck.accesskey          "a">
 <!ENTITY spellCheckInline.label        "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
-<!ENTITY spellCheckInline1.accesskey   "r">
+<!ENTITY spellCheckInline1.accesskey   "w">
 <!ENTITY languagePopup.label           "Słownik:">
 <!ENTITY languagePopup.accessKey       "S">
 <!ENTITY downloadDictionaries.label    "Pobierz więcej słowników">
