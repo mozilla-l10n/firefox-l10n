@@ -162,9 +162,7 @@
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "முகவரிப் புத்தகம்">
-<!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "கணக்கு அமைவுகள்">
+<!ENTITY addressBookCmd.accesskey "a"><!ENTITY accountManagerCmd.label "கணக்கு அமைவுகள்">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "விருப்பங்கள்...">
