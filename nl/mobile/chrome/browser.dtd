@@ -32,11 +32,14 @@
 <!ENTITY noSuggestions.label   "(Geen spellingsuggesties)">
 <!ENTITY addToDictionary.label "Toevoegen aan woordenboek">
 
-<!ENTITY editBookmarkName.label    "Naam:">
-<!ENTITY editBookmarkURI.label     "Adres:">
-<!ENTITY editBookmarkTags.label    "Labels:">
-<!ENTITY bookmarkRemove.label      "Bladwijzer verwijderen">
+<!ENTITY bookmarksHeader.label     "Bladwijzers">
+<!ENTITY bookmarksManage.label     "Beheren">
+<!ENTITY foldersHeader.label       "Mappen">
+
+<!ENTITY editBookmarkEdit.label    "Bewerken">
+<!ENTITY editBookmarkMove.label    "Verplaatsen">
 <!ENTITY editBookmarkDone.label    "Klaar">
+<!ENTITY editBookmarkTags.label    "Labels hier toevoegen">
 
 <!ENTITY findOnCmd.label     "Zoeken in deze pagina…">
 <!ENTITY findOnCmd.accesskey "Z">
