@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Vidarebefordra meddelanden:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Infogade">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Bifogade">
-<!ENTITY asAttachment.accesskey               "o">
 <!ENTITY addExtension.label                   "med ett filnamnstillägg">
 <!ENTITY addExtension.accesskey               "m">
 
