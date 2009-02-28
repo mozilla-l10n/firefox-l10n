@@ -10,12 +10,12 @@
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemDefaults.label          "Standaardwaarden systeem">
 <!ENTITY alwaysCheckDefault.label      "Altijd tijdens het opstarten controleren of &brandShortName; de standaard e-mailclient is">
-<!ENTITY alwaysCheckDefault.accesskey  "c">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY checkNow.label                "Nu controleren">
 <!ENTITY checkNow.accesskey            "N">
 <!ENTITY configEditDesc.label          "Uitgebreide configuratie">
 <!ENTITY configEdit.label              "Configuratie-editor…">
-<!ENTITY configEdit.accesskey          "f">
+<!ENTITY configEdit.accesskey          "C">
 <!ENTITY returnReceiptsInfo.label      "Bepalen hoe &brandShortName; omgaat met leesbevestigingen">
 <!ENTITY showReturnReceipts.label      "Leesbevestigingen…">
 <!ENTITY showReturnReceipts.accesskey  "L">
@@ -24,7 +24,7 @@
 <!ENTITY reading.caption               "Lezen">
 <!ENTITY display.caption               "Scherm">
 <!ENTITY showCondensedAddresses.label  "Van personen in mijn adresboek alleen weergavenaam tonen">
-<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY showCondensedAddresses.accesskey "V">
 
 <!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
 <!ENTITY autoMarkAsRead.accesskey         "e">
