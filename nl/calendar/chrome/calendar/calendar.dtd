@@ -286,17 +286,20 @@
 <!ENTITY calendar.server.dialog.name.label          "Agendanaam:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Kleur:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Formaat:">
-<!ENTITY calendarproperties.location.label "Locatie:">
-<!ENTITY calendarproperties.name.label     "Naam:">
-<!ENTITY calendarproperties.readonly.label "Alleen-lezen">
-<!ENTITY calendarproperties.firealarms.label "Alarmen tonen">
-<!ENTITY calendarproperties.cache.label    "Buffer (EXPERIMENTEEL, herstart nodig)">
-<!ENTITY calendarproperties.enabled.label  "Deze agenda inschakelen">
+<!ENTITY calendarproperties.color.label                    "Kleur:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Formaat:">
+<!ENTITY calendarproperties.location.label                 "Locatie:">
+<!ENTITY calendarproperties.name.label                     "Naam:">
+<!ENTITY calendarproperties.readonly.label                 "Alleen-lezen">
+<!ENTITY calendarproperties.firealarms.label               "Alarmen tonen">
+<!ENTITY calendarproperties.cache.label                    "Buffer (EXPERIMENTEEL, herstart nodig)">
+<!ENTITY calendarproperties.enabled.label                  "Deze agenda inschakelen">
+<!ENTITY calendarproperties.forceDisabled.label            "De provider voor deze agenda kon niet worden gevonden. Dit gebeurt vaak als u bepaalde add-ons hebt uitgeschakeld of gede-installeerd.">
+<!ENTITY calendarproperties.unsubscribe.label              "Afmelden">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "A">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Agenda publiceren">
@@ -323,6 +326,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Details…">
-<!ENTITY calendar.error.number "Foutnummer:">
+<!ENTITY calendar.error.code "Foutcode:">
 <!ENTITY calendar.error.description "Beschrijving:">
 <!ENTITY calendar.error.title "Er is een fout opgetreden">
