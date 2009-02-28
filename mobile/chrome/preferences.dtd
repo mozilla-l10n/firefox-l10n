@@ -1,0 +1,15 @@
+<!ENTITY content.title                             "Ynhâld">
+<!ENTITY permissions.default.image.title           "Laad ôfbyldings">
+<!ENTITY permissions.default.image.description     "Makket websteeën maklik">
+<!ENTITY javascript.enabled.title                  "Javaskript ynskeakelje">
+<!ENTITY javascript.enabled.description            "Makket websteeën flashy">
+<!ENTITY plugins.enabled.title                     "Ynstekkers ynskeakelje">
+<!ENTITY plugins.enabled.description               "Makket websteeën ferfelend">
+<!ENTITY privacy.title                             "Privacy &amp; Feilichheid">
+<!ENTITY network.cookie.cookieBehavior.title       "Bewarje cookies">
+<!ENTITY network.cookie.cookieBehavior.description "Lekker lekkers">
+<!ENTITY clear.private.data.title                  "Wis priveegegevens">
+<!ENTITY clear.private.data.button                 "Wisse…">
+<!ENTITY clear.private.data.description            "Bewarret jo ferstop">
+<!ENTITY signon.rememberSignons.title              "Wachtwurden bewarje">
+<!ENTITY signon.rememberSignons.description        "Lit jo minder type">
