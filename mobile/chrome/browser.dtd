@@ -32,10 +32,13 @@
 <!ENTITY noSuggestions.label   "(لا اقتراحات)">
 <!ENTITY addToDictionary.label "أضِف إلى القاموس">
 
-<!ENTITY editBookmarkName.label    "الاسم:">
-<!ENTITY editBookmarkURI.label     "العنوان:">
+<!ENTITY bookmarksHeader.label     "العلامات">
+<!ENTITY bookmarksManage.label     "إدارة">
+<!ENTITY foldersHeader.label       "المجلدات">
+
+<!ENTITY editBookmarkEdit.label    "حرّر">
+<!ENTITY editBookmarkMove.label    "انقل">
 <!ENTITY editBookmarkTags.label    "الوسوم:">
-<!ENTITY bookmarkRemove.label      "أزِل العلامة">
 <!ENTITY editBookmarkDone.label    "تمّ">
 
 <!ENTITY findOnCmd.label     "ابحث في هذه الصفحة…">
