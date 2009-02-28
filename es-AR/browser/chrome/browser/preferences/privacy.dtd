@@ -55,6 +55,3 @@
 
 <!ENTITY  clearDataSettings.label        "Opciones…">
 <!ENTITY  clearDataSettings.accesskey    "O">
-
-<!ENTITY  clearDataNow.label             "Borrar ahora…">
-<!ENTITY  clearDataNow.accesskey         "h">
