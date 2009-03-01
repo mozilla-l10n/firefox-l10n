@@ -3,26 +3,26 @@
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
-<!ENTITY  pref.composer.title           "Editor">
+<!ENTITY pref.composer.title "Editor">
 
-<!ENTITY  recentFiles.title             "Recent Pages Menu">
-<!ENTITY  documentsInMenu.label         "Maximum number of pages listed:">
-<!ENTITY  documentsInMenu.accesskey     "n">
+<!ENTITY recentFiles.title "Nabídka nedávných stránek">
+<!ENTITY documentsInMenu.label "Maximální počet uvedených stránek:">
+<!ENTITY documentsInMenu.accesskey "M">
 
-<!ENTITY  savingFiles.title             "When Saving or Publishing Pages">
-<!ENTITY  preserveExisting.label        "Preserve original source formatting">
-<!ENTITY  preserveExisting.accesskey    "P">
-<!ENTITY  preserveExisting.tooltip      "Preserves line breaks and page's original formatting">
-<!ENTITY  saveAssociatedFiles.label     "Save images and other associated files when saving pages">
-<!ENTITY  saveAssociatedFiles.accesskey "S">
-<!ENTITY  showPublishDialog.label       "Always show Publish dialog when publishing pages">
-<!ENTITY  showPublishDialog.accesskey   "A">
+<!ENTITY savingFiles.title "Při ukládání nebo publikaci stránek">
+<!ENTITY preserveExisting.label "Zachovat původní formátování kódu">
+<!ENTITY preserveExisting.accesskey "Z">
+<!ENTITY preserveExisting.tooltip "Zachová konce řádků a původní formátování stránky">
+<!ENTITY saveAssociatedFiles.label "Při ukládání stránek uložit obrázky a další přidružené soubory">
+<!ENTITY saveAssociatedFiles.accesskey "u">
+<!ENTITY showPublishDialog.label "Při publikování stránek vždy zobrazit Publikační dialog">
+<!ENTITY showPublishDialog.accesskey "P">
 
-<!ENTITY  composerEditing.label         "Editing">
-<!ENTITY  maintainStructure.label       "Maintain table layout when inserting or deleting cells">
-<!ENTITY  maintainStructure.tooltip     "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells">
-<!ENTITY  maintainStructure.accesskey   "M">
-<!ENTITY  useCSS.label                  "Use CSS styles instead of HTML elements and attributes">
-<!ENTITY  useCSS.accesskey              "U">
-<!ENTITY  crInPCreatesNewP.label        "Return in a paragraph always creates a new paragraph">
-<!ENTITY  crInPCreatesNewP.accesskey    "R">
+<!ENTITY composerEditing.label "Úpravy">
+<!ENTITY maintainStructure.label "Při vložení nebo smazání buněk tabulky, zachovat její rozvržení.">
+<!ENTITY maintainStructure.tooltip "Pomocí automatického přidání buněk po vložení nebo smazání buněk tabulky zachovává její pravoúhlý tvar">
+<!ENTITY maintainStructure.accesskey "t">
+<!ENTITY useCSS.label "Místo HTML prvků a atributů použít kaskádové styly">
+<!ENTITY useCSS.accesskey "H">
+<!ENTITY crInPCreatesNewP.label "Stisk Enteru v odstavci vytvoří vždy nový odstavec">
+<!ENTITY crInPCreatesNewP.accesskey "E">

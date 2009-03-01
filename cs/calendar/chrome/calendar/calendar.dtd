@@ -297,6 +297,9 @@
 <!ENTITY calendarproperties.firealarms.label "Zobrazit upozornění">
 <!ENTITY calendarproperties.cache.label "Vyrovnávací paměť (EXPERIMENTÁLNÍ - vyžaduje restart)">
 <!ENTITY calendarproperties.enabled.label "Zapnout kalendář">
+<!ENTITY calendarproperties.forceDisabled.label "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
+<!ENTITY calendarproperties.unsubscribe.label "Neodebírat">
+<!ENTITY calendarproperties.unsubscribe.accesskey "N">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title "Publikovat kalendář">
