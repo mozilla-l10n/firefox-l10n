@@ -209,6 +209,9 @@
 <!ENTITY calendarproperties.firealarms.label "Tampilkan Alarm">
 <!ENTITY calendarproperties.cache.label "Cache (EKSPERIMENTAL, membutuhkan restart)">
 <!ENTITY calendarproperties.enabled.label "Aktifkan kalender ini">
+<!ENTITY calendarproperties.forceDisabled.label "Provider kalender ini tidak ditemukan. Ini sering terjadi karena Anda telah menon-aktifkan atau menghapus pemasangan pengaya tertentu.">
+<!ENTITY calendarproperties.unsubscribe.label "Berhenti Langganan">
+<!ENTITY calendarproperties.unsubscribe.accesskey "B">
 <!ENTITY calendar.publish.dialog.title "Terbitkan Kalender">
 <!ENTITY calendar.publish.url.label "URL Penerbitan">
 <!ENTITY calendar.publish.publish.button "Terbitkan">
@@ -226,6 +229,6 @@
 <!ENTITY calendar.print.to.label "Kepada:">
 <!ENTITY calendar.print.settingsGroup.label "Pengaturan Cetak">
 <!ENTITY calendar.error.detail "Detail…">
-<!ENTITY calendar.error.number "Nomor kesalahan:">
+<!ENTITY calendar.error.code "Kode kesalahan:">
 <!ENTITY calendar.error.description "Deskripsi:">
 <!ENTITY calendar.error.title "Terjadi kesalahan">

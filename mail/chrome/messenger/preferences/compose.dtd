@@ -4,9 +4,7 @@
 <!ENTITY forwardMsg.label "Teruskan pesan:">
 <!ENTITY forwardMsg.accesskey "T">
 <!ENTITY inline.label "Tidak Terpisah">
-<!ENTITY inline.accesskey "I">
 <!ENTITY asAttachment.label "Sebagai Lampiran">
-<!ENTITY asAttachment.accesskey "A">
 <!ENTITY addExtension.label "tambahkan ekstensi di belakang nama berkas">
 <!ENTITY addExtension.accesskey "b">
 <!ENTITY htmlComposeHeader.label "HTML">

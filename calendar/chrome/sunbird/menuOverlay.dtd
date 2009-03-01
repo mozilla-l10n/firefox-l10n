@@ -74,8 +74,8 @@
 <!ENTITY calendar.addons.label                             "Pengaya">
 <!ENTITY calendar.addons.accesskey                         "p">
 
-<!ENTITY goMenu.label                                      "Ke">
-<!ENTITY goMenu.accesskey                                  "K">
+<!ENTITY goMenu.label                                      "Navigasi">
+<!ENTITY goMenu.accesskey                                  "N">
 
 <!ENTITY goDateCmd.label                                   "Tanggal…">
 <!ENTITY goDateCmd.accesskey                               "T">
