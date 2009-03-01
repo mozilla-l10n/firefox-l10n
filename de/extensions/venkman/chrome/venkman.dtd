@@ -40,7 +40,7 @@
 <!ENTITY MainWindow.title "JavaScript-Debugger">
 
 <!-- floating views -->
-<!ENTITY ViewFloat.tooltip      "Hier klicken, um diese Ansicht zu an/ab zu docken">
+<!ENTITY ViewFloat.tooltip      "Hier klicken, um diese Ansicht an-/abzudocken">
 <!ENTITY ViewGrippy.tooltip     "Hier klicken, um diese Ansicht zu bewegen">
 <!ENTITY ViewClose.tooltip      "Hier klicken, um diese Ansicht zu schließen">
 

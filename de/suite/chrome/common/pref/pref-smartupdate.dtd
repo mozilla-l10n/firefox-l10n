@@ -3,7 +3,7 @@
 <!ENTITY smartTitle.label                     "Software-Installationen und Updates verwalten">
 <!ENTITY enableSU.label                       "Installation von Erweiterungen und Updates von Webseiten erlauben">
 <!ENTITY enableSU.accesskey                   "I">
-<!ENTITY allowedSites.label                   "Erlaubte Website">
+<!ENTITY allowedSites.label                   "Erlaubte Websites">
 <!ENTITY allowedSites.accesskey               "E">
 
 <!ENTITY verifyUpdates.caption                "Updates">
