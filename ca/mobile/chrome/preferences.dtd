@@ -1,15 +1,15 @@
-<!ENTITY content.title                             "Content">
-<!ENTITY permissions.default.image.title           "Load images">
-<!ENTITY permissions.default.image.description     "Makes websites pretty">
-<!ENTITY javascript.enabled.title                  "Enable Javascript">
+<!ENTITY content.title                             "Contingut">
+<!ENTITY permissions.default.image.title           "Carrega les imatges">
+<!ENTITY permissions.default.image.description     "Embelleix els llocs web">
+<!ENTITY javascript.enabled.title                  "Habilita els Javascript">
 <!ENTITY javascript.enabled.description            "Makes websites flashy">
-<!ENTITY plugins.enabled.title                     "Enable Plugins">
+<!ENTITY plugins.enabled.title                     "Habilita els connectors">
 <!ENTITY plugins.enabled.description               "Makes websites annoying">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
-<!ENTITY network.cookie.cookieBehavior.title       "Save cookies">
-<!ENTITY network.cookie.cookieBehavior.description "Delicious delicacies">
-<!ENTITY clear.private.data.title                  "Clear private data">
-<!ENTITY clear.private.data.button                 "Clear…">
-<!ENTITY clear.private.data.description            "Saves your hide">
-<!ENTITY signon.rememberSignons.title              "Save passwords">
-<!ENTITY signon.rememberSignons.description        "Lets you type less">
+<!ENTITY privacy.title                             "Privadesa i seguretat">
+<!ENTITY network.cookie.cookieBehavior.title       "Desa les galetes">
+<!ENTITY network.cookie.cookieBehavior.description "Exquisides delicadeses">
+<!ENTITY clear.private.data.title                  "Neteja les dades privades">
+<!ENTITY clear.private.data.button                 "Neteja…">
+<!ENTITY clear.private.data.description            "Desa les vostra interioritat">
+<!ENTITY signon.rememberSignons.title              "Desa les contrasenyes">
+<!ENTITY signon.rememberSignons.description        "Fa que escriviu menys">
