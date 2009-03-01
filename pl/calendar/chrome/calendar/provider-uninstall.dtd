@@ -42,4 +42,4 @@
 <!ENTITY providerUninstall.cancel.accesskey                "P">
 <!ENTITY providerUninstall.preName.label                   "Poproszono o odinstalowanie lub wyłączenie:">
 <!ENTITY providerUninstall.postName.label                  "Spowoduje to wyłączenie poniższych kalendarzy.">
-<!ENTITY providerUninstall.reinstallNote.label             "Jeśli użytkownik nie planuje ponownej instalacji tego dostawcy, może zrezygnować subskrybowania go.">
+<!ENTITY providerUninstall.reinstallNote.label             "Jeśli użytkownik nie planuje ponownej instalacji tego dostawcy, może zrezygnować z subskrybowania go.">
