@@ -50,11 +50,11 @@
 
 <!ENTITY  generalTab            "Algemeen">
 <!ENTITY  generalTab.accesskey  "A">
-<!ENTITY  generalURL            "URL:">
+<!ENTITY  generalURL            "Adres:">
 <!ENTITY  generalType           "Type:">
 <!ENTITY  generalMode           "Rendermodus:">
 <!ENTITY  generalSize           "Grootte:">
-<!ENTITY  generalReferrer       "Verwijzende URL:">
+<!ENTITY  generalReferrer       "Verwijzende adres:">
 <!ENTITY  generalSource         "Bufferbron:">
 <!ENTITY  generalModified       "Gewijzigd:">
 <!ENTITY  generalEncoding       "Tekenset:">
