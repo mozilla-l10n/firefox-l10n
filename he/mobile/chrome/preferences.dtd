@@ -1,0 +1,15 @@
+<!ENTITY content.title                             "תוכן">
+<!ENTITY permissions.default.image.title           "טען תמונות">
+<!-- ### #!# ENTITY permissions.default.image.description     "Makes websites pretty" -->
+<!ENTITY javascript.enabled.title                  "אפשר Javascript">
+<!-- ### #!# ENTITY javascript.enabled.description            "Makes websites flashy" -->
+<!ENTITY plugins.enabled.title                     "אפשר תוספים">
+<!-- ### #!# ENTITY plugins.enabled.description               "Makes websites annoying" -->
+<!ENTITY privacy.title                             "פרטיות ואבטחה">
+<!ENTITY network.cookie.cookieBehavior.title       "הצג עוגיות">
+<!-- ### #!# Internal joke goes here. :) ENTITY network.cookie.cookieBehavior.description "Delicious delicacies">
+<!ENTITY clear.private.data.title                  "מחק מידע פרטי">
+<!ENTITY clear.private.data.button                 "מחק…">
+<!-- ### #!# ENTITY clear.private.data.description            "Saves your hide" -->
+<!ENTITY signon.rememberSignons.title              "שמור סיסמאות">
+<!ENTITY signon.rememberSignons.description        "מאפשר לך להקליד פחות">
