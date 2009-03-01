@@ -36,7 +36,7 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; veilige modus">
+<!ENTITY safeModeDialog.title         "&brandShortName; Veilige modus">
 <!ENTITY window.width                 "37em">
 
 <!ENTITY safeModeDescription.label    "&brandShortName; werkt nu in veilige modus, wat uw persoonlijke instellingen, thema’s en extensies tijdelijk uitschakelt.">
