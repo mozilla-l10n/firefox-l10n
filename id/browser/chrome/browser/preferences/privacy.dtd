@@ -32,5 +32,3 @@
 <!ENTITY alwaysClear.accesskey "s">
 <!ENTITY clearDataSettings.label "Pengaturan…">
 <!ENTITY clearDataSettings.accesskey "p">
-<!ENTITY clearDataNow.label "Bersihkan Sekarang…">
-<!ENTITY clearDataNow.accesskey "b">
