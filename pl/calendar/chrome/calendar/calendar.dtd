@@ -298,7 +298,7 @@
 <!ENTITY calendarproperties.firealarms.label       "Wyświetlaj powiadomienia">
 <!ENTITY calendarproperties.cache.label            "Pamięć podręczna (EKSPERYMENTALNE, wymaga ponownego uruchomienia)">
 <!ENTITY calendarproperties.enabled.label          "Włącz ten kalendarz">
-<!ENTITY calendarproperties.forceDisabled.label    "Nie znaleziono dostawcy dla tego kalendarza. To się często zdarza, gdy wyłączono lub odinstalowano pewne rozszerzenia.">
+<!ENTITY calendarproperties.forceDisabled.label    "Nie znaleziono dostawcy dla tego kalendarza. Zdarza się to często, gdy zostały wyłączone lub odinstalowane pewne rozszerzenia.">
 <!ENTITY calendarproperties.unsubscribe.label      "Zrezygnuj z subskrypcji">
 <!ENTITY calendarproperties.unsubscribe.accesskey  "Z">
 
