@@ -32,5 +32,3 @@
 <!ENTITY alwaysClear.accesskey "з">
 <!ENTITY clearDataSettings.label "Настроить…">
 <!ENTITY clearDataSettings.accesskey "т">
-<!ENTITY clearDataNow.label "Стереть сейчас…">
-<!ENTITY clearDataNow.accesskey "е">
