@@ -4,9 +4,7 @@
 <!ENTITY forwardMsg.label "Áframsenda póst:">
 <!ENTITY forwardMsg.accesskey "f">
 <!ENTITY inline.label "Innfellt">
-<!ENTITY inline.accesskey "I">
 <!ENTITY asAttachment.label "Sem viðhengi">
-<!ENTITY asAttachment.accesskey "S">
 <!ENTITY addExtension.label "bæta skráarendingu við skráarnafn">
 <!ENTITY addExtension.accesskey "f">
 <!ENTITY htmlComposeHeader.label "HTML">

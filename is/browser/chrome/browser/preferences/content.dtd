@@ -13,8 +13,8 @@
 <!ENTITY enableJava.label "Virkja Java">
 <!ENTITY enableJava.accesskey "a">
 <!ENTITY fontsAndColors.label "Letur &amp; Litir">
-<!ENTITY defaultFont.label "Sjálfgefin leturgerð:">
-<!ENTITY defaultFont.accesskey "S">
+<!ENTITY defaultFont.label "Leturgerð:">
+<!ENTITY defaultFont.accesskey "e">
 <!ENTITY defaultSize.label "Stærð:">
 <!ENTITY defaultSize.accesskey "t">
 <!ENTITY advancedFonts.label "Frekari stillingar…">

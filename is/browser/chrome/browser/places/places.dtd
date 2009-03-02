@@ -1,9 +1,9 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title "Bókasafn">
+<!ENTITY places.library.title "Safn">
 <!ENTITY places.library.width "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label "Sýsla">
-<!ENTITY organize.accesskey "S">
+<!ENTITY organize.label "Breyta">
+<!ENTITY organize.accesskey "B">
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Loka">
 <!ENTITY file.close.accesskey "L">

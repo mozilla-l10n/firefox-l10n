@@ -1,4 +1,4 @@
-<!ENTITY engineManager.title "Sjá um leitarvélalista">
+<!ENTITY engineManager.title "Stilla leitarvélalista">
 <!ENTITY engineManager.style "min-width: 35em;">
 <!ENTITY engineManager.intro "Þú ert með eftirfarandi leitarvélar uppsettar:">
 <!ENTITY columnLabel.name "Heiti">
