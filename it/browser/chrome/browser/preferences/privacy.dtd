@@ -32,5 +32,3 @@
 <!ENTITY alwaysClear.accesskey "n">
 <!ENTITY clearDataSettings.label "Impostazioni…">
 <!ENTITY clearDataSettings.accesskey "s">
-<!ENTITY clearDataNow.label "Svuota adesso…">
-<!ENTITY clearDataNow.accesskey "u">
