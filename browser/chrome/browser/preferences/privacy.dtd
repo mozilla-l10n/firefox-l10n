@@ -54,6 +54,3 @@
 
 <!ENTITY  clearDataSettings.label        "Ynstellings...">
 <!ENTITY  clearDataSettings.accesskey    "s">
-
-<!ENTITY  clearDataNow.label             "No opskjinje...">
-<!ENTITY  clearDataNow.accesskey         "N">
