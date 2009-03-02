@@ -62,7 +62,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
 <!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
-<!ENTITY organizeBookmarks.label "Raða bókamerkjum…">
+<!ENTITY organizeBookmarks.label "Breyta bókamerkjum…">
 <!ENTITY bookmarkAllCmd.label "Setja flipa í bókamerki…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 <!ENTITY backCmd.label "Til baka">
