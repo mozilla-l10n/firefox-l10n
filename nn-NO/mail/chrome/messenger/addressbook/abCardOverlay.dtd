@@ -56,22 +56,22 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "Førenamn:">
+<!ENTITY NameField1.label               "Fornamn:">
 <!ENTITY NameField1.accesskey           "F">
 <!ENTITY NameField2.label               "Etternamn:">
 <!ENTITY NameField2.accesskey           "E">
 <!ENTITY PhoneticField1.label           "Fonetisk:">
 <!ENTITY PhoneticField2.label           "Fonetisk:">
-<!ENTITY DisplayName.label              "Namnet som vert vist:">
-<!ENTITY DisplayName.accesskey          "V">
+<!ENTITY DisplayName.label              "Fullt namn:">
+<!ENTITY DisplayName.accesskey          "F">
 <!ENTITY NickName.label                 "Kallenamn:">
 <!ENTITY NickName.accesskey             "K">
 
 <!ENTITY PrimaryEmail.label             "E-post:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "E-post (annan):">
-<!ENTITY SecondEmail.accesskey          "a">
-<!ENTITY PreferMailFormat.label         "Føretrekkjer å motta meldingar i:">
+<!ENTITY SecondEmail.label              "Annan e-post:">
+<!ENTITY SecondEmail.accesskey          "A">
+<!ENTITY PreferMailFormat.label         "Føretrekkjer å motta meldingar formatert som:">
 <!ENTITY PreferMailFormat.accesskey     "r">
 <!ENTITY PlainText.label                "Rein tekst">
 <!ENTITY HTML.label                     "HTML">
@@ -79,13 +79,13 @@
 <!ENTITY ScreenName.label               "Skjermnamn:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "Tillat eksterne bilete i HTML-e-post.">
+<!ENTITY allowRemoteContent.label       "Tillat bilete frå eksterne kjelder.">
 <!ENTITY allowRemoteContent.accesskey   "T">
 <!ENTITY allowRemoteContent.tooltip     "I HTML-meldingar er det mogleg å leggje ved bilete frå eksterne kjelder. Ved opning av meldingar vil tilkoplinger til den eksterne kjelda verte opna. Dette kan gjere det mogleg å spore at meldinga vert lest. Ved å krysse av her, tillèt du slike innebygde bilete i HTML-meldingar frå denne kontakten.">
 
 <!ENTITY WorkPhone.label                "Arbeid:">
 <!ENTITY WorkPhone.accesskey            "A">
-<!ENTITY HomePhone.label                "Heimetelefon:">
+<!ENTITY HomePhone.label                "Heime:">
 <!ENTITY HomePhone.accesskey            "H">
 <!ENTITY FaxNumber.label                "Faks:">
 <!ENTITY FaxNumber.accesskey            "k">
@@ -101,17 +101,17 @@
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Poststad:">
-<!ENTITY HomeCity.accesskey             "P">
+<!ENTITY HomeCity.accesskey             "o">
 <!ENTITY HomeState.label                "Delstat/region">
-<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeState.accesskey            "e">
 <!ENTITY HomeZipCode.label              "Postnummer:">
-<!ENTITY HomeZipCode.accesskey          "n">
+<!ENTITY HomeZipCode.accesskey          "s">
 <!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Nettside:">
 <!ENTITY HomeWebPage.accesskey          "N">
 <!ENTITY Birthday.label                 "Fødselsdag:">
-<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Birthday.accesskey             "F">
 <!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "År">
 <!ENTITY Or.value                       "eller">
@@ -121,28 +121,28 @@
 <!ENTITY Work.tab                       "Arbeid">
 <!ENTITY Work.accesskey                 "A">
 <!ENTITY JobTitle.label                 "Tittel:">
-<!ENTITY JobTitle.accesskey             "e">
+<!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Avdeling:">
-<!ENTITY Department.accesskey           "v">
+<!ENTITY Department.accesskey           "A">
 <!ENTITY Company.label                  "Organisasjon:">
 <!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "Adresse:">
-<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Poststad:">
-<!ENTITY WorkCity.accesskey             "s">
+<!ENTITY WorkCity.accesskey             "t">
 <!ENTITY WorkState.label                "Delstat/region:">
-<!ENTITY WorkState.accesskey            "D">
+<!ENTITY WorkState.accesskey            "s">
 <!ENTITY WorkZipCode.label              "Postnummer:">
 <!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label              "Land:">
-<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkCountry.accesskey          "L">
 <!ENTITY WorkWebPage.label              "Nettside:">
-<!ENTITY WorkWebPage.accesskey          "d">
+<!ENTITY WorkWebPage.accesskey          "N">
 
 <!ENTITY Other.tab                      "Anna">
-<!ENTITY Other.accesskey                "n">
+<!ENTITY Other.accesskey                "A">
 <!ENTITY Custom1.label                  "Eigendefinert 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Eigendefinert 2:">
