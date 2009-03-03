@@ -1,6 +1,6 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "ਲਿਖਣ &amp; ਐਡਰੈੱਸ">
+<!ENTITY addressing.label          "ਲਿਖਣ ਅਤੇ ਐਡਰੈੱਸ">
 <!ENTITY addressingGroupTitle.label "ਐਡਰੈੱਸ">
 <!ENTITY addressingText.label      "ਜਦੋਂ ਐਡਰੈੱਸ ਦੀ ਖੋਜ ਕੀਤੀ ਜਾਵੇ:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->

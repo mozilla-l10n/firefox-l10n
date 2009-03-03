@@ -1,6 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "ਕਾਪੀ &amp; ਫੇਲਡਰ">
+<!ENTITY copyAndFolderTitle.label "ਕਾਪੀ ਅਤੇ ਫੋਲਡਰ">
 <!ENTITY sendingPrefix.label "ਜਦੋਂ ਸੁਨੇਹੇ ਭੇਜੇ ਜਾਣ ਤਾਂ ਆਟੋਮੈਟਿਕ ਹੀ: ">
 <!ENTITY fccMailFolder.label "ਇੱਕ ਕਾਪੀ ਰੱਖੋ:">
 <!ENTITY fccMailFolder.accesskey "P">

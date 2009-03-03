@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "ਸੁਨੇਹੇ ਅੱਗੇ ਭੇਜੋ:">
 <!ENTITY forwardMsg.accesskey                 "w">
 <!ENTITY inline.label                         "ਲਾਈਨ ਵਿੱਚ">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "ਅਟੈਚਮੈਂਟ ਵਾਂਗ">
-<!ENTITY asAttachment.accesskey               "A">
 <!ENTITY addExtension.label                   "ਫਾਇਲ ਨਾਂ ਲਈ ਇੱਕ ਇਕਸਟੈਨਸ਼ਨ">
 <!ENTITY addExtension.accesskey               "f">
 

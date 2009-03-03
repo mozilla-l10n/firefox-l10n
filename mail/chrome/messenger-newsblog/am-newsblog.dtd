@@ -14,7 +14,7 @@
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "ਖ਼ਬਰਾਂ &amp; ਬੀ-ਲਾਗ">
+<!ENTITY rss.accountName            "ਖ਼ਬਰਾਂ ਤੇ ਬੀ-ਲਾਗ">
 <!ENTITY rss.wizardShortName        "RSS">
 <!ENTITY rss.wizardLongName.accesskey "R">
-<!ENTITY rss.wizardLongName         "RSS ਖ਼ਬਰਾਂ &amp; ਬੀ-ਲਾਗ">
+<!ENTITY rss.wizardLongName         "RSS ਖ਼ਬਰਾਂ ਤੇ ਬੀ-ਲਾਗ">
