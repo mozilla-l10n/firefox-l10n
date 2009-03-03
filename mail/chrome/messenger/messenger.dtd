@@ -83,8 +83,8 @@
 <!ENTITY deleteFolderCmd.accesskey "S">
 <!ENTITY unsubscribeNewsgroupCmd.label "Stopp abonnement">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "a">
-<!ENTITY selectMenu.label "Velg">
-<!ENTITY selectMenu.accesskey "V">
+<!ENTITY selectMenu.label "Merk">
+<!ENTITY selectMenu.accesskey "M">
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
 <!ENTITY selectThreadCmd.label "Tråd">

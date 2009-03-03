@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Videresend meldinger:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Innbundet">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Som vedlegg">
-<!ENTITY asAttachment.accesskey               "o">
 <!ENTITY addExtension.label                   "legg til utvidelse til filnavn">
 <!ENTITY addExtension.accesskey               "e">
 
