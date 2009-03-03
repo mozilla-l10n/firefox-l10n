@@ -48,7 +48,7 @@
 <!ENTITY smtpServerDesc.label "ਆਪਣੇ ਬਾਹਰ ਭੇਜਣ ਵਾਲੇ ਸਰਵਰ ਦਾ ਨਾਂ ਦਿਉ (SMTP) (ਜਿਵੇਂ,  &quot;smtp.example.net&quot;)">
 <!ENTITY smtpServerLabel.label "ਬਾਹਰ ਭੇਜਣ ਵਾਲਾ ਸਰਵਰ:">
 <!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "ਖ਼ਬਰ-ਸਮੂਹ ਸਰਵਰ:">
+<!ENTITY newsServerLabel.label "ਨਿਊਜ਼ਗਰੁੱਪ ਸਰਵਰ:">
 <!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -97,7 +97,7 @@
 
 <!ENTITY accnameTitle.label "ਅਕਾਊਂਟ ਨਾਂ">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "ਨਾਂ ਦਿਉ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਇਸ ਅਕਾਊਂਟ ਨੂੰ ਸੰਬੋਧਨ ਕਰੋਗੇ (ਉਦਾਹਰਨ ਲਈ, &quot;ਕੰਮ ਅਕਾਊਂਟ&quot;, &quot;ਘਰ ਅਕਾਊਂਟ&quot; ਜਾਂ &quot;ਖ਼ਬਰ ਅਕਾਊਂਟ&quot;)">
+<!ENTITY accnameDesc.label "ਨਾਂ ਦਿਉ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਇਸ ਅਕਾਊਂਟ ਨੂੰ ਸੰਬੋਧਨ ਕਰੋਗੇ (ਉਦਾਹਰਨ ਲਈ, &quot;ਕੰਮ ਅਕਾਊਂਟ&quot;, &quot;ਘਰ ਅਕਾਊਂਟ&quot; ਜਾਂ &quot;ਨਿਊਜ਼ ਅਕਾਊਂਟ&quot;)">
 <!ENTITY accnameLabel.label "ਅਕਾਊਂਟ ਨਾਂ:">
 <!ENTITY accnameLabel.accesskey "A">
 

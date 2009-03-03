@@ -43,6 +43,6 @@
 
 <!-- Fonts -->
 <!ENTITY fontAndEncodingsDescription.label  "&brandShortName; ਵਲੋਂ ਵਰਤਣ ਲਈ ਫੋਂਟ ਅਤੇ ਇੰਕੋਡਿੰਗ ਦੀ ਚੋਣ">
-<!ENTITY fontsAndEncodingsCaption.label      "ਫੋਂਟ &amp; ਇੰਕੋਡਿੰਗ">
+<!ENTITY fontsAndEncodingsCaption.label      "ਫੋਂਟ ਤੇ ਇੰਕੋਡਿੰਗ">
 <!ENTITY fontOptions.accesskey   "F">
 <!ENTITY fontOptions.label       "ਫੋਂਟ...">

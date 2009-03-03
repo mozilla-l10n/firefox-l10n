@@ -1,7 +1,7 @@
 <!ENTITY itemGeneral.label       "ਆਮ">
-<!ENTITY itemDisplay.label       "ਪੜ੍ਹਨ &amp; ਵੇਖਣ">
+<!ENTITY itemDisplay.label       "ਪੜ੍ਹਨ ਤੇ ਵੇਖਣ">
 <!ENTITY itemUpdate.label        "ਅੱਪਡੇਟ">
-<!ENTITY itemNetworking.label    "ਨੈੱਟਵਰਕ &amp; ਡਿਸਕ ਥਾਂ">
+<!ENTITY itemNetworking.label    "ਨੈੱਟਵਰਕ ਤੇ ਡਿਸਕ ਥਾਂ">
 <!ENTITY itemCertificates.label  "ਸਰਟੀਫਿਕੇਟ">
 
 <!-- General Settings -->

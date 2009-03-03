@@ -1,4 +1,4 @@
-<!ENTITY  fontsAndEncodingsDialog.title           "ਫੋਂਟ &amp; ਇੰਕੋਡਿੰਗ">
+<!ENTITY  fontsAndEncodingsDialog.title           "ਫੋਂਟ ਤੇ ਇੰਕੋਡਿੰਗ">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
@@ -28,14 +28,14 @@
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korean">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
-<!ENTITY  font.langGroup.el                       "Greek">
-<!ENTITY  font.langGroup.turkish                  "Turkish">
+<!ENTITY  font.langGroup.baltic                   "ਬਾਲਟਿਕ">
+<!ENTITY  font.langGroup.el                       "ਗਰੀਕ">
+<!ENTITY  font.langGroup.turkish                  "ਤੁਰਕ">
 <!ENTITY  font.langGroup.unicode                  "ਹੋਰ ਭਾਸ਼ਾਵਾਂ">
 <!ENTITY  font.langGroup.user-def                 "ਯੂਜ਼ਰ ਵਲੋਂ ਦਿੱਤੀ">
-<!ENTITY  font.langGroup.thai                     "Thai">
-<!ENTITY  font.langGroup.hebrew                   "Hebrew">
-<!ENTITY  font.langGroup.arabic                   "Arabic">
+<!ENTITY  font.langGroup.thai                     "ਥਾਈ">
+<!ENTITY  font.langGroup.hebrew                   "ਹੈਬਰਿਊ">
+<!ENTITY  font.langGroup.arabic                   "ਅਰਬੀ">
 <!ENTITY  font.langGroup.devanagari               "ਦੇਵਨਾਗਰੀ">
 <!ENTITY  font.langGroup.tamil                    "ਤਾਮਿਲ">
 <!ENTITY  font.langGroup.armenian                 "Armenian">
