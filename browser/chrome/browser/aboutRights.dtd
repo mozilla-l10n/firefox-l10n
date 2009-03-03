@@ -50,7 +50,7 @@
 <!ENTITY rights.webservices-c " -seksjonen, og deretter fjerne avkryssingane frå &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Ei oversikt over nformasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
+<!ENTITY rights.webservices-unbranded "Ei oversikt over informasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Andre tenestevilkår for dette produktet bør førast opp her.">

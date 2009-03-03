@@ -8,7 +8,7 @@
 <!ENTITY closeTabCmd.label "Lat att fane">
 <!ENTITY closeTabCmd.accesskey "L">
 <!ENTITY newVirtualFolderCmd.label "Lagra søk …">
-<!ENTITY newVirtualFolderCmd.accesskey "a">
+<!ENTITY newVirtualFolderCmd.accesskey "L">
 <!ENTITY newAccountCmd.label "Konto …">
 <!ENTITY newAccountCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Opne lagra melding …">
@@ -90,7 +90,7 @@
 <!ENTITY selectThreadCmd.label "Tråd">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Stjernemerka meldingar">
+<!ENTITY selectFlaggedCmd.label "Meldingar med stjerne">
 <!ENTITY selectFlaggedCmd.accesskey "e">
 <!ENTITY menuFavoriteFolder.label "Favorittmappe">
 <!ENTITY menuFavoriteFolder.accesskey "F">
@@ -334,8 +334,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.label "Rediger som ny">
 <!ENTITY editMsgAsNewCmd.accesskey "R">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "Opprett filter frå melding">
-<!ENTITY createFilter.accesskey "O">
+<!ENTITY createFilter.label "Lag filter frå melding">
+<!ENTITY createFilter.accesskey "L">
 <!ENTITY moveMsgToMenu.label "Flytt til">
 <!ENTITY moveMsgToMenu.accesskey "F">
 <!ENTITY moveCopyMsgRecentMenu.label "Sist brukt">
@@ -406,9 +406,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">
-<!ENTITY tasksMenu.accesskey "E">
+<!ENTITY tasksMenu.accesskey "e">
 <!ENTITY addons.label "Utvidingar">
-<!ENTITY addons.accesskey "d">
+<!ENTITY addons.accesskey "U">
 <!ENTITY activitymanager.label "Aktivitetshandsaming">
 <!ENTITY activitymanager.accesskey "A">
 <!ENTITY messengerCmd.label "E-post og nyhendegrupper">
@@ -428,7 +428,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.label "Køyr filter på valde meldingar">
 <!ENTITY filtersApplyToSelection.accesskey "S">
 <!ENTITY filtersApplyToMessage.label "Køyr filter på meldingar">
-<!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY filtersApplyToMessage.accesskey "ø">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Hent nye">
@@ -671,17 +671,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY AddDirectlyToAddressBook.label "Legg til i adresseboka">
 <!ENTITY AddDirectlyToAddressBook.accesskey "L">
 <!ENTITY EditContact.label "Rediger kontakt …">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact.accesskey "R">
 <!ENTITY ViewContact.label "Vis kontakt">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Skriv ny e-post til">
 <!ENTITY SendMailTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Kopier e-postadresse">
 <!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CreateFilterFrom.label "Opprett filter frå …">
-<!ENTITY CreateFilterFrom.accesskey "O">
+<!ENTITY CreateFilterFrom.label "Lag filter frå …">
+<!ENTITY CreateFilterFrom.accesskey "L">
 <!ENTITY reportPhishingURL.label "Rapporter e-postsvindel">
-<!ENTITY reportPhishingURL.accesskey "R">
+<!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Lagre lenkje som …">

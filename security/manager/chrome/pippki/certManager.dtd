@@ -49,7 +49,7 @@
 <!ENTITY certmgr.mine                         "Du har sertifikat frå desse organisasjonane som identifiserer deg:">
 <!ENTITY certmgr.others                       "Du har lagra sertifikat som identifiserer desse personane:">
 <!ENTITY certmgr.websites2                    "Du har lagra sertifikat som identifiserer desse tenarane:">
-<!ENTITY certmgr.cas                          "Du har lagra sertifikat som identifiserer desse sertifikat-utskrivarane:">
+<!ENTITY certmgr.cas                          "Du har lagra sertifikat som identifiserer desse sertifikatutskrivarane:">
 <!ENTITY certmgr.orphans                      "Du har lagra sertifikat som ikkje passar i nokon av dei andre kategoriane:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Generelt">
@@ -87,7 +87,7 @@
 
 <!ENTITY certmgr.deletecert.title             "Slett sertifikat">
 <!ENTITY certmgr.deletecert.beforename        "Du har bede om å slette dette sertifikatet:">
-<!ENTITY certmgr.deletecert.aftername         "Er du viss på at du vil slette dette sertifikatet?">
+<!ENTITY certmgr.deletecert.aftername         "Er du sikker på at du vil slette dette sertifikatet?">
 <!ENTITY certmgr.deleteusercert.title         "Slett sertifikatet ditt">
 <!ENTITY certmgr.deleteusercert.beforename    "Du har bede om å slette sertifikatet:">
 <!ENTITY certmgr.deleteusercert.aftername     "Når du har sletta dette sertifikatet, vil du ikkje kunne lese e-post som er kryptert med det.">

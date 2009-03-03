@@ -39,9 +39,9 @@
 <!ENTITY AdvancedEditButton.accessKey "A">
 <!ENTITY AdvancedEditButton.tooltip "Legg til eller endra HTML-attributtar, stilattributtar og JavaScript">
 <!ENTITY chooseFileButton.label "Vel fil …">
-<!ENTITY chooseFileButton.accessKey "F">
+<!ENTITY chooseFileButton.accessKey "V">
 <!ENTITY chooseFileLinkButton.label "Vel fil …">
-<!ENTITY chooseFileLinkButton.accessKey "o">
+<!ENTITY chooseFileLinkButton.accessKey "e">
 <!ENTITY makeUrlRelative.label "URL-en er relativ til sideadressa">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Byt mellom relativ og absolutt URL. Først må du lagre sida for å endre dette.">
