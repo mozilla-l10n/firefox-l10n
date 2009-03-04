@@ -32,11 +32,14 @@
 <!ENTITY noSuggestions.label   "(无建议)">
 <!ENTITY addToDictionary.label "添加至字典">
 
-<!ENTITY editBookmarkName.label    "名称：">
-<!ENTITY editBookmarkURI.label     "地址：">
-<!ENTITY editBookmarkTags.label    "标签:">
-<!ENTITY bookmarkRemove.label      "移除书签">
+<!ENTITY bookmarksHeader.label     "书签">
+<!ENTITY bookmarksManage.label     "管理">
+<!ENTITY foldersHeader.label       "文件夹">
+
+<!ENTITY editBookmarkEdit.label    "编辑">
+<!ENTITY editBookmarkMove.label    "移动">
 <!ENTITY editBookmarkDone.label    "完成">
+<!ENTITY editBookmarkTags.label    "标签:">
 
 <!ENTITY findOnCmd.label     "在当前页查找…">
 <!ENTITY findOnCmd.accesskey "F">

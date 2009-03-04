@@ -20,7 +20,7 @@
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "个人名片（vCard）">
-<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY attachVCardCmd.accesskey "v">
 <!ENTITY closeCmd.label "关闭">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
@@ -134,7 +134,7 @@
 <!ENTITY plainTextFormatCmd.label "仅纯文本">
 <!ENTITY plainTextFormatCmd.accesskey "p">
 <!ENTITY htmlFormatCmd.label "仅复杂文本 (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY htmlFormatCmd.accesskey "H">
 <!ENTITY bothFormatCmd.label "简单或复杂 (HTML) 文本">
 <!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "优先级">
@@ -162,7 +162,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "通讯录">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY accountManagerCmd.label "帐户设置…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">

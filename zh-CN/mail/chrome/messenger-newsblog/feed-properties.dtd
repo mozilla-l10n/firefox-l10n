@@ -5,7 +5,7 @@
 <!ENTITY feedFolder.accesskey     "S">
 
 <!ENTITY feedLocation.label       "收取点 URL：">
-<!ENTITY feedLocation.accesskey   "F">
+<!ENTITY feedLocation.accesskey   "U">
 
 <!ENTITY choosethisfolder.label   "选择此文件夹">
 

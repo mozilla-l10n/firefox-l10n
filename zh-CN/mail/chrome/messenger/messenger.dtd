@@ -214,7 +214,7 @@
 <!ENTITY bodyAllowHTML.label "原始 HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "简单 HTML">
-<!ENTITY bodySanitized.accesskey "S">
+<!ENTITY bodySanitized.accesskey "H">
 <!ENTITY bodyAsPlaintext.label "纯文本">
 <!ENTITY bodyAsPlaintext.accesskey "P">
 <!ENTITY viewAttachmentsInlineCmd.label "查看直接插入的附件">

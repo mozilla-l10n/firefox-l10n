@@ -5,7 +5,7 @@
 <!ENTITY addressingText.label      "查找地址时：">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "对此帐户使用我的全局 LDAP 服务器">
-<!ENTITY useGlobal.accesskey       "U">
+<!ENTITY useGlobal.accesskey       "L">
 <!ENTITY editDirectories.label     "编辑目录…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
@@ -18,7 +18,7 @@
 <!ENTITY compositionGroupTitle.label "编写">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "以 HTML 格式编写消息">
-<!ENTITY useHtml.accesskey                    "C">
+<!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "回复时自动引用原始消息">
 <!ENTITY autoQuote.accesskey                  "m">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->

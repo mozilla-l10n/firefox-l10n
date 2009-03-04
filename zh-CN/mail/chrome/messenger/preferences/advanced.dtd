@@ -54,7 +54,7 @@
 <!ENTITY modeAutomatic.label            "自动下载并安装更新">
 <!ENTITY modeAutomatic.accesskey        "m">
 <!ENTITY modeAutoAddonWarn.label        "如果这将导致禁用某些附加组件，警告我">
-<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "显示更新历史">
 <!ENTITY showUpdates.accesskey          "y">
 

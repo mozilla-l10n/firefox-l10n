@@ -17,4 +17,4 @@
 <!ENTITY whitelist.accesskey "D">
 
 <!ENTITY ispHeaders.label "信任下列 ISP 设置的垃圾邮件头：">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.accesskey "I">
