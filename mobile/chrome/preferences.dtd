@@ -1,10 +1,12 @@
 <!ENTITY content.title                             "Contenu">
-<!ENTITY permissions.default.image.title           "Charger les images">
+<!ENTITY permissions.default.image.title           "Charger les images automatiquement">
 <!ENTITY permissions.default.image.description     "Embellit les sites">
-<!ENTITY javascript.enabled.title                  "Activer Javascript">
+<!ENTITY javascript.enabled.title                  "Activer JavaScript">
 <!ENTITY javascript.enabled.description            "Rend les sites tape-à-l'œil">
 <!ENTITY plugins.enabled.title                     "Activer les plugins">
 <!ENTITY plugins.enabled.description               "Rend les sites ennuyeux">
+<!ENTITY javascript.options.jit.content.title      "Activer l'accélération JavaScript">
+<!ENTITY javascript.options.jit.content.description "Utiliser la compilation juste à temps de JavaScript">
 <!ENTITY privacy.title                             "Vie privée et confidentialité">
 <!ENTITY network.cookie.cookieBehavior.title       "Enregistrer les cookies">
 <!ENTITY network.cookie.cookieBehavior.description "De délicieuses délices">
