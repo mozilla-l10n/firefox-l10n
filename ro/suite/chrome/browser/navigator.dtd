@@ -14,13 +14,13 @@
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "u">
 <!ENTITY openCmd.label "Deschide locație web...">
-<!ENTITY openCmd.accesskey "O">
+<!ENTITY openCmd.accesskey "o">
 <!ENTITY openCmd.commandkey "g">
-<!ENTITY openFileCmd.label "Deschide un fișier...">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.label "Deschide fișier…">
+<!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.commandkey "N">
 <!ENTITY recentTabs.label "File închise recent">
-<!ENTITY recentTabs.accesskey "R">
+<!ENTITY recentTabs.accesskey "r">
 <!ENTITY recentTabs.commandkey "u">
 <!ENTITY editPageCmd.label "Editare pagină">
 <!ENTITY editPageCmd.accesskey "E">
@@ -29,27 +29,27 @@
 <!ENTITY uploadFile.label "Upload File…">
 <!ENTITY uploadFile.accesskey "F">
 
-<!ENTITY printSetupCmd.label "Aranjare în pagină...">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Aranjare în pagină…">
+<!ENTITY printSetupCmd.accesskey "A">
 <!ENTITY printPreviewCmd.label "Previzualizează tipărirea">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Tipărește...">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.label "Tipărește…">
+<!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "o">
 
 <!ENTITY viewMenu.label "Vizualizează jurnal">
 <!ENTITY viewMenu.accesskey "V">
 
 <!ENTITY toolbarsCmd.label "Arată/Ascunde">
-<!ENTITY toolbarsCmd.accesskey "w">
+<!ENTITY toolbarsCmd.accesskey "A">
 <!ENTITY navbarCmd.label "Bară de navigare">
-<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Bară Laterală Personală">
 <!ENTITY personalbarCmd.accesskey "P">
 <!ENTITY tabbarCmd.label "Tab Bar">
 <!ENTITY tabbarCmd.accesskey "T">
 <!ENTITY taskbarCmd.label "Bară de stare">
-<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY taskbarCmd.accesskey "s">
 <!ENTITY componentbarCmd.label "Component Bar">
 <!ENTITY componentbarCmd.accesskey "C">
 
@@ -60,20 +60,20 @@
 <!ENTITY useStyleSheetPersistentOnly.label "Default Style">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "D">
 <!ENTITY pageSourceCmd.label "Sursă pagină">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "S">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informații pagină">
-<!ENTITY pageInfoCmd.accesskey "P">
+<!ENTITY pageInfoCmd.accesskey "p">
 <!ENTITY pageInfoCmd.commandkey "C">
 <!ENTITY fullScreenCmd.label "Ecran complet">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.accesskey "E">
 <!ENTITY translateMenu.label "Translate Page">
 <!ENTITY translateMenu.accesskey "T">
 
 <!ENTITY closeOtherTabs.label "Închide celelalte file">
-<!ENTITY closeOtherTabs.accesskey "T">
+<!ENTITY closeOtherTabs.accesskey "t">
 <!ENTITY closeWindow.label "Închidere fereastră">
-<!ENTITY closeWindow.accesskey "W">
+<!ENTITY closeWindow.accesskey "n">
 
 <!ENTITY minimizeButton.tooltip       "Minimizează">
 <!ENTITY restoreButton.tooltip        "Restartează">
@@ -83,13 +83,13 @@
 <!ENTITY getNewThemesCmd.label "Get New Themes">
 <!ENTITY getNewThemesCmd.accesskey "G">
 <!ENTITY findOnCmd.label "Caută în această pagină...">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.accesskey "C">
 <!ENTITY findOnCmd.commandkey "d">
 <!ENTITY findAgainCmd.label "Caută din nou">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "C">
 <!ENTITY findAgainCmd.commandkey "L">
 <!ENTITY findPrevCmd.label "Caută înapoi">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.accesskey "C">
 <!ENTITY findPrevCmd.commandkey "L">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findPrevCmd.commandkey2 "VK_F3">
@@ -102,14 +102,14 @@
 <!ENTITY clearPrivateDataCmd.accesskey "e">
 
 <!ENTITY goMenu.label "OK">
-<!ENTITY goMenu.accesskey "G">
+<!ENTITY goMenu.accesskey "O">
 <!ENTITY goHomeCmd.label "Pagina de start">
-<!ENTITY goHomeCmd.accesskey "H">
+<!ENTITY goHomeCmd.accesskey "P">
 
 <!ENTITY bookmarksMenu.label "Semne de carte">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.accesskey "S">
 <!ENTITY addCurPageCmd.label "Pune un semn la această pagină">
-<!ENTITY addCurPageCmd.accesskey "B">
+<!ENTITY addCurPageCmd.accesskey "P">
 <!ENTITY addCurPageAsCmd.label "File Bookmark…">
 <!ENTITY addCurPageAsCmd.accesskey "F">
 <!ENTITY addCurPageAsCmd.commandkey "d">
@@ -119,7 +119,7 @@
 <!ENTITY manBookmarksCmd.accesskey "M">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Abonare la această pagină">
-<!ENTITY feedsMenu.accesskey "S">
+<!ENTITY feedsMenu.accesskey "s">
 <!ENTITY emptyItem.label "(Gol)">
 
 <!ENTITY menuBar.tooltip                  "Bară meniu">
@@ -129,11 +129,11 @@
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Înapoi">
 <!ENTITY backButton.tooltip           "Du-te o pagină înapoi">
-<!ENTITY forwardButton.label          "Forward">
+<!ENTITY forwardButton.label          "Înainte">
 <!ENTITY forwardButton.tooltip        "Du-te o pagină înainte">
 <!ENTITY reloadButton.label           "Reîncarcă">
 <!ENTITY reloadButton.tooltip         "Reîncarcă pagina curentă">
-<!ENTITY stopButton.label             "Stop">
+<!ENTITY stopButton.label             "Oprește">
 <!ENTITY stopButton.tooltip           "Oprește încărcarea acestei pagini">
 <!ENTITY searchButton.label           "Cautare">
 <!ENTITY searchButton.tooltip         "Type a word in the field to the left, then click Search">
@@ -160,7 +160,7 @@
 <!ENTITY  statusText.label            "Terminat">
 
 <!ENTITY historyCmd.label           "Istoric">  
-<!ENTITY historyCmd.accesskey       "i">
+<!ENTITY historyCmd.accesskey       "I">
 <!ENTITY history.commandKey         "z">
 
 <!ENTITY popupIcon.tooltiptext      "Unblock this site's popups">

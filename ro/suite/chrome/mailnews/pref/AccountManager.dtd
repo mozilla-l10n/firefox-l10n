@@ -2,12 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Mail &amp; Newsgroups Account Settings">
 
-<!ENTITY addAccountButton.label "Adaugă cont...">
+<!ENTITY addAccountButton.label "Adaugă cont…">
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Setează ca implicit">
-<!ENTITY setDefaultButton.accesskey "f">
+<!ENTITY setDefaultButton.accesskey "S">
 <!ENTITY removeButton.label "Șterge cont">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.accesskey "r">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

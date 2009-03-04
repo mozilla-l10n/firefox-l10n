@@ -41,24 +41,24 @@
 <!ENTITY directoryHostname.label           "Nume host:">
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "DN bază:">
-<!ENTITY directoryBaseDN.accesskey         "B">
+<!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Căutați">
-<!ENTITY findButton.accesskey              "F">
+<!ENTITY findButton.accesskey              "C">
 <!ENTITY directorySecure.label             "Folosește conexiune securizată (SSL)">
-<!ENTITY directorySecure.accesskey         "U">
+<!ENTITY directorySecure.accesskey         "u">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "General">
 <!ENTITY Offline.tab                       "Deconectați">
 <!ENTITY Advanced.tab                      "Avansat">
 <!ENTITY portNumber.label                  "Număr port:">
-<!ENTITY portNumber.accesskey              "P">
+<!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Filtru căutare:">
-<!ENTITY searchFilter.accesskey            "f">
+<!ENTITY searchFilter.accesskey            "F">
 <!ENTITY scope.label                       "Interval:">
-<!ENTITY scope.accesskey                   "c">
+<!ENTITY scope.accesskey                   "I">
 <!ENTITY scopeOneLevel.label               "Un nivel">
-<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeOneLevel.accesskey           "l">
 <!ENTITY scopeSubtree.label                "Sub-arborele">
 <!ENTITY scopeSubtree.accesskey            "S">
 <!ENTITY return.label                      "Nu întoarce mai mult de">
@@ -69,4 +69,4 @@
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-<!ENTITY newDirectoryWidth                 "36em">
+<!ENTITY newDirectoryWidth                 "38em">

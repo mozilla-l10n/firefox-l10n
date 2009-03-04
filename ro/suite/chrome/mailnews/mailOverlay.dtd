@@ -1,7 +1,7 @@
 
 <!ENTITY  newMessageCmd.key               "p">
 <!ENTITY  newMessageCmd.label             "un mesaj nou">
-<!ENTITY  newMessageCmd.accesskey         "M">
+<!ENTITY  newMessageCmd.accesskey         "m">
  
 <!ENTITY  newContactCmd.label             "Contact…">
 <!ENTITY  newContactCmd.accesskey         "C">

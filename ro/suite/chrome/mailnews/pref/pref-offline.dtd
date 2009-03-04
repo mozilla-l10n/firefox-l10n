@@ -4,7 +4,7 @@
 <!ENTITY pref.offline.title               "Offline &amp; Disk Space">
 <!ENTITY pref.offline.caption             "Deconectați">
 <!ENTITY textStartUp                      "La pornire:">
-<!ENTITY textStartUp.accesskey            "W">
+<!ENTITY textStartUp.accesskey            "L">
 <!ENTITY menuitemRememberPrevState        "Memorează starea online precedentă">
 <!ENTITY menuitemAskMe                    "Întreabă-mă despre starea online la pornire">
 <!ENTITY menuitemAlwaysOnline             "Pornește întotdeauna online">
@@ -12,18 +12,18 @@
 <!ENTITY menuitemAutomatic                "Detect automatically (if available)">
 <!ENTITY textGoingOnline                  "Doriți să se expedieze mesajele netrimise când lucrați online?">
 <!ENTITY radioAutoSend                    "da">
-<!ENTITY radioAutoSend.accesskey          "Y">
+<!ENTITY radioAutoSend.accesskey          "d">
 <!ENTITY radioNotSend                     "nu">
-<!ENTITY radioNotSend.accesskey           "N">
+<!ENTITY radioNotSend.accesskey           "n">
 <!ENTITY radioAskUnsent                   "Întreabă-mă">
-<!ENTITY radioAskUnsent.accesskey         "s">
+<!ENTITY radioAskUnsent.accesskey         "n">
 <!ENTITY textGoingOffline                 "Doriți să se descarce mesajele pentru uz offline când alegeți să lucrați offline?">
 <!ENTITY radioAutoDownload                "da">
-<!ENTITY radioAutoDownload.accesskey      "e">
+<!ENTITY radioAutoDownload.accesskey      "d">
 <!ENTITY radioNotDownload                 "nu">
-<!ENTITY radioNotDownload.accesskey       "o">
+<!ENTITY radioNotDownload.accesskey       "n">
 <!ENTITY radioAskDownload                 "Întreabă-mă">
-<!ENTITY radioAskDownload.accesskey       "k">
+<!ENTITY radioAskDownload.accesskey       "n">
 <!ENTITY Diskspace                        "Avertizare spațiu de disc">
 <!ENTITY offlineCompact.label             "Compactează dosarele dacă asta economisește peste">
 <!ENTITY offlineCompact.accesskey         "C">

@@ -3,16 +3,16 @@
 <!ENTITY viewPicker.label "Vizualizează:">
 <!ENTITY viewPicker.accesskey "i">
 <!ENTITY viewAll.label "Tot">
-<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewAll.accesskey "T">
 <!ENTITY viewUnread.label "Necitit">
-<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewUnread.accesskey "N">
 <!ENTITY viewNotDeleted.label "Nu este șters">
-<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewNotDeleted.accesskey "N">
 <!ENTITY viewTags.label "Tag-uri">
 <!ENTITY viewTags.accesskey "T">
 <!ENTITY viewCustomViews.label "Vederi personalizate">
 <!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Salvează vederea ca un dosar...">
+<!ENTITY viewVirtualFolder.label "Salvează vederea ca un dosar…">
 <!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "Personalizează...">
-<!ENTITY viewCustomizeView.accesskey "C">
+<!ENTITY viewCustomizeView.label "Personalizare…">
+<!ENTITY viewCustomizeView.accesskey "P">

@@ -4,8 +4,8 @@
 <!ENTITY accountName.accesskey "N">
 <!ENTITY messageStorage.label "Stocare mesaje">
 <!ENTITY emptyTrashOnExit.label "Golește coșul de gunoi la ieșire">
-<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY emptyTrashOnExit.accesskey "G">
 <!ENTITY localPath.label "Director local:">
 <!ENTITY localFolderPicker.label "Alegeți directorul local">
 <!ENTITY browseFolder.label "Răsfoiește...">
-<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseFolder.accesskey "R">

@@ -49,7 +49,7 @@
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
+<!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.accesskey      "e">
 

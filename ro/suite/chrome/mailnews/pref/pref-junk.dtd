@@ -40,11 +40,11 @@
 
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label               "Când marchez mesaje ca spam:">
-<!ENTITY manualMark.accesskey           "W">
+<!ENTITY manualMark.accesskey           "C">
 <!ENTITY manualMarkModeMove.label       "Mută-le în dosarul „Spam” al contului">
 <!ENTITY manualMarkModeMove.accesskey   "M">
 <!ENTITY manualMarkModeDelete.label     "Șterge-le">
-<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY manualMarkModeDelete.accesskey "t">
 
 <!ENTITY markAsRead.intro               "Mark messages as read:">
 <!ENTITY autoMarkAsRead.label           "When &brandShortName; determines that they are junk">
@@ -53,8 +53,8 @@
 <!ENTITY manualMarkAsRead.accesskey     "k">
 
 <!ENTITY enableJunkLogging.label        "Activează jurnalizarea pentru filtrarea de spam">
-<!ENTITY enableJunkLogging.accesskey    "E">
+<!ENTITY enableJunkLogging.accesskey    "e">
 <!ENTITY openJunkLog.label              "Arată jurnalul">
-<!ENTITY openJunkLog.accesskey          "S">
+<!ENTITY openJunkLog.accesskey          "A">
 <!ENTITY resetTrainingData.label        "Reset training data">
 <!ENTITY resetTrainingData.accesskey    "t">

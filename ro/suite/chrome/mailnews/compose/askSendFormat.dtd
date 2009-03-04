@@ -8,9 +8,9 @@
 <!ENTITY plainTextAndHtml.label "Trimite și în format text și în HTML">
 <!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Trimite doar în format text">
-<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY plainTextOnly.accesskey "T">
 <!ENTITY htmlOnly.label "Trimite doar în format HTML">
 <!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Trimite">
-<!ENTITY send.accesskey "S">
+<!ENTITY send.accesskey "T">

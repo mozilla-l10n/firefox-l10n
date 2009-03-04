@@ -5,15 +5,15 @@
 <!ENTITY feedFolder.accesskey     "S">
 
 <!ENTITY feedLocation.label       "URL flux: ">
-<!ENTITY feedLocation.accesskey   "F">
+<!ENTITY feedLocation.accesskey   "f">
 
 <!ENTITY choosethisfolder.label   "alege acest dosar">
 
 <!ENTITY quickMode.label          "Arată sumarul articolului în loc de a încărca pagina web">
-<!ENTITY quickMode.accesskey      "h">
+<!ENTITY quickMode.accesskey      "A">
 
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY pasteLinkCmd.label       "Lipiți">
-<!ENTITY pasteLinkCmd.accesskey   "P">
+<!ENTITY pasteLinkCmd.accesskey   "p">

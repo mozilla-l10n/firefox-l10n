@@ -42,12 +42,12 @@
 <!ENTITY inline.label                         "Mesaj inclus">
 <!ENTITY inline.accesskey                     "n">
 <!ENTITY asAttachment.label                   "Ca anexă">
-<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY asAttachment.accesskey               "a">
 
 <!ENTITY replyQuoteInline.label               "Quote attachments viewed inline in replies">
 <!ENTITY replyQuoteInline.accesskey           "Q">
 <!ENTITY warnOnSendAccelKey.label             "Confirmă trimiterea când se folosesc scurtături de taste">
-<!ENTITY warnOnSendAccelKey.accesskey         "k">
+<!ENTITY warnOnSendAccelKey.accesskey         "C">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
 <!ENTITY autoSave.label                       "Automatically save the message every">
@@ -55,24 +55,24 @@
 <!ENTITY autoSaveEnd.label                    "minute">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
 <!ENTITY wrapOutMsg.label                     "Încadrează mesajele text pe lățime la">
-<!ENTITY wrapOutMsg.accesskey                 "W">
+<!ENTITY wrapOutMsg.accesskey                 "n">
 <!ENTITY char.label                           "caractere">
 
-<!ENTITY spellingHeader.label                 "Spelling">
+<!ENTITY spellingHeader.label                 "Ortografie">
 <!ENTITY spellCheck.label                     "Verifică ortografia înainte de a trimite">
-<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheck.accesskey                 "c">
 <!ENTITY spellCheckInline.label               "Verific ortografia pe măsură ce scrieți">
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "Limba:">
 <!ENTITY languagePopup.accessKey              "L">
-<!ENTITY moreDictionaries.label               "Descarcă mai multe dicționare...">
+<!ENTITY moreDictionaries.label               "Descarcă mai multe dicționare…">
 
 <!ENTITY defaultMessagesHeader.label          "Defaults for HTML Messages">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "F">
 <!ENTITY size.label                           "Mărime:">
-<!ENTITY size.accesskey                       "S">
+<!ENTITY size.accesskey                       "M">
 <!ENTITY fontColor.label                      "Text:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Fundal:">
-<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY bgColor.accesskey                    "F">

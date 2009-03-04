@@ -57,23 +57,23 @@
 <!ENTITY originalWebsite.label "Sait web:">
 
 <!ENTITY editMessage.label                 "Editează ciorna...">
-<!ENTITY editMessage.accesskey             "D">
+<!ENTITY editMessage.accesskey             "d">
 
 <!ENTITY attachmentsTree.label             "Anexe:">
 <!ENTITY attachmentsTree.accesskey         "A">
 <!ENTITY openAttachmentCmd.label           "Deschis">
-<!ENTITY openAttachmentCmd.accesskey       "O">
+<!ENTITY openAttachmentCmd.accesskey       "D">
 <!ENTITY viewAttachmentCmd.label           "Vizualizează sursa">
 <!ENTITY viewAttachmentCmd.accesskey       "V">
-<!ENTITY saveAsAttachmentCmd.label         "Salvează ca...">
-<!ENTITY saveAsAttachmentCmd.accesskey     "A">
-<!ENTITY detachAttachmentCmd.label         "Desprinde...">
-<!ENTITY detachAttachmentCmd.accesskey     "h">
+<!ENTITY saveAsAttachmentCmd.label         "Salvează ca…">
+<!ENTITY saveAsAttachmentCmd.accesskey     "a">
+<!ENTITY detachAttachmentCmd.label         "Elimină anexa…">
+<!ENTITY detachAttachmentCmd.accesskey     "E">
 <!ENTITY deleteAttachmentCmd.label         "Șterge elementul">
 <!ENTITY deleteAttachmentCmd.accesskey     "t">
-<!ENTITY saveAllAttachmentsCmd.label       "Salvează toate...">
+<!ENTITY saveAllAttachmentsCmd.label       "Salvează toate…">
 <!ENTITY saveAllAttachmentsCmd.accesskey   "S">
-<!ENTITY detachAllAttachmentsCmd.label     "Elimină toate anexele...">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label     "Șterge toate anexele...">
+<!ENTITY detachAllAttachmentsCmd.label     "Elimină toate anexele…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "E">
+<!ENTITY deleteAllAttachmentsCmd.label     "Șterge toate anexele…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "e">

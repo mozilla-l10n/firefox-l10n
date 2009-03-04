@@ -18,12 +18,12 @@
 <!ENTITY autoDownload.accesskey         "A">
 <!ENTITY downloadFolder.label           "Current Download Folder:">
 <!ENTITY chooseDownloadFolder.label     "Alege dosar...">
-<!ENTITY chooseDownloadFolder.accesskey "C">
+<!ENTITY chooseDownloadFolder.accesskey "A">
 <!ENTITY playSound.label                "Redă un sunet">
 <!ENTITY playSound.accesskey            "s">
 <!ENTITY showAlert.label                "Afișează o alertă">
-<!ENTITY showAlert.accesskey            "n">
+<!ENTITY showAlert.accesskey            "A">
 <!ENTITY browse.label                   "Răsfoiește...">
-<!ENTITY browse.accesskey               "B">
+<!ENTITY browse.accesskey               "R">
 <!ENTITY preview.label                  "Previzionare">
 <!ENTITY preview.accesskey              "v">

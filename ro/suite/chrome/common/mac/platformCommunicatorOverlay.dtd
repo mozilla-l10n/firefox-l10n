@@ -24,8 +24,8 @@
 <!ENTITY closeCmd.label                 "Închide">  
 <!ENTITY closeCmd.key                   "W">  
 
-<!ENTITY printSetupCmd.label            "Aranjare în pagină...">
-<!ENTITY printSetupCmd.accesskey        "u">
+<!ENTITY printSetupCmd.label            "Aranjare în pagină…">
+<!ENTITY printSetupCmd.accesskey        "A">
 
 <!ENTITY redoCmd.label                  "Refacere">  
 <!ENTITY redoCmd.key                    "Z">  
@@ -43,7 +43,7 @@
 
 <!-- Help menu -->
 <!ENTITY openHelpCmd.label              "&brandShortName; Ajutor">
-<!ENTITY openHelpCmd.accesskey          "H">
+<!ENTITY openHelpCmd.accesskey          "A">
 <!ENTITY openHelpCmd.key                "?">
 <!ENTITY openHelpCmd.modifiers          "accel">
 

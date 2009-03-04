@@ -6,7 +6,7 @@
 -->
 <!ENTITY onStartLegend.label                    "When &brandShortName; starts up, open">
 <!ENTITY navCheck.label                         "Navigator">
-<!ENTITY navCheck.accesskey                     "B">
+<!ENTITY navCheck.accesskey                     "N">
 <!ENTITY showToolsLegend.label                  "Show toolbars as">
 <!ENTITY picsNtextRadio.label                   "Pictures and text">
 <!ENTITY picsNtextRadio.accesskey               "P">

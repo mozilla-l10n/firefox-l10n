@@ -7,7 +7,7 @@
 <!ENTITY languages.customize.addButton.label            "Adaugă…">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 <!ENTITY languages.customize.deleteButton.label         "Eliminați">
-<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.deleteButton.accesskey     "E">
 <!ENTITY languages.customize.add.title.label            "Add Languages">
 <!ENTITY languages.customize.available.label            "Languages:">
 <!ENTITY languages.customize.active.label               "Limbi în ordinea preferinței:">
@@ -20,11 +20,11 @@
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "e.g.: en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label               "Mută sus">
-<!ENTITY languages.customize.moveUp.accesskey           "U">
+<!ENTITY languages.customize.moveUp.accesskey           "u">
 <!ENTITY languages.customize.moveDown.label             "Mută jos">
-<!ENTITY languages.customize.moveDown.accesskey         "D">
+<!ENTITY languages.customize.moveDown.accesskey         "M">
 
-<!ENTITY spelling.label                                 "Spelling">
+<!ENTITY spelling.label                                 "Ortografie">
 <!ENTITY checkSpelling.label                            "When typing check my spelling:">
 <!ENTITY checkSpelling.accesskey                        "W">
 <!ENTITY dontCheckSpelling.label                        "Niciodată">

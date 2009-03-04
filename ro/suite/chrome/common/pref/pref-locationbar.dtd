@@ -7,7 +7,7 @@
 <!ENTITY autoCompleteAutoFill.label            "Automatically prefill the best match">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Arată lista de potrivire a rezultatelor">
-<!ENTITY autoCompleteShowPopup.accesskey       "S">
+<!ENTITY autoCompleteShowPopup.accesskey       "s">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Match only websites you've typed previously">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
 <!ENTITY autoCompleteMatchOnlyURLs.label       "Only match locations, not website titles">
@@ -17,7 +17,7 @@
   via the accesskey
 -->
 <!ENTITY autoCompleteMatch.label               "Respectă">
-<!ENTITY autoCompleteMatch.accesskey           "M">
+<!ENTITY autoCompleteMatch.accesskey           "R">
 <!ENTITY autoCompleteMatchAnywhere             "Anywhere in the location or title">
 <!ENTITY autoCompleteMatchWordsFirst           "Anywhere but preferring word boundaries">
 <!ENTITY autoCompleteMatchWords                "Only on word boundaries">

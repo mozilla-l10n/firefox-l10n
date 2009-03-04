@@ -2,6 +2,6 @@
 <!ENTITY addButton.label "Adaugă">
 <!ENTITY addButton.accesskey "A">
 <!ENTITY removeButton.label "Eliminați">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.accesskey "E">
 <!ENTITY newMsgHeader.label "Nou antet mesaj:">
 <!ENTITY newMsgHeader.accesskey "N">

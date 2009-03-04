@@ -7,12 +7,12 @@
 <!ENTITY syncTypeMail.label "Mesajele email">
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Mesajele news">
-<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Trimite mesajele netrimise">
-<!ENTITY sendMessage.accesskey "S">
+<!ENTITY sendMessage.accesskey "s">
 <!ENTITY workOffline.label "Deconectează imediat ce se termină descărcarea și sincronizarea">
-<!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "Selectează...">
+<!ENTITY workOffline.accesskey "D">
+<!ENTITY selectButton.label "Selectează…">
 <!ENTITY selectButton.accesskey "S">
 <!ENTITY MsgSelectDesc.label "Alegeți dosarele de email și grupurile de news pentru utilizare în mod deconectat.">
 <!ENTITY MsgSelectInd.label "Descărcare">

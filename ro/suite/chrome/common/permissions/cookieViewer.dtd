@@ -7,7 +7,7 @@
 <!ENTITY     treehead.cookieexpires.label   "Expiră la:"> 
 <!ENTITY     treehead.infoselected.label    "Informații despre cookie-ul selectat">
 <!ENTITY     button.removecookie.label      "Șterge cookie">
-<!ENTITY     button.removecookie.accesskey  "R">
+<!ENTITY     button.removecookie.accesskey  "r">
 <!ENTITY     button.removeallcookies.label  "Șterge toate cookie-urile">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
@@ -22,18 +22,18 @@
 <!ENTITY     treehead.status.label          "Situația">
 <!ENTITY     windowtitle.label              "Managerul Cookie-urilor">
 <!ENTITY     buttonaccept.label             "Închide">
-<!ENTITY     buttonaccept.accesskey         "C">
+<!ENTITY     buttonaccept.accesskey         "c">
 
 <!ENTITY     blockSite.label                "Blochează">
 <!ENTITY     blockSite.accesskey            "B">
 <!ENTITY     allowSite.label                "Permite">
-<!ENTITY     allowSite.accesskey            "A">
+<!ENTITY     allowSite.accesskey            "P">
 <!ENTITY     allowSiteSession.label         "Session">
 <!ENTITY     allowSiteSession.accesskey     "S">
 <!ENTITY     removepermission.label         "Elimină sit">
-<!ENTITY     removepermission.accesskey     "R">
+<!ENTITY     removepermission.accesskey     "E">
 <!ENTITY     removeallpermissions.label     "Elimină toate saiturile">
-<!ENTITY     removeallpermissions.accesskey "e">
+<!ENTITY     removeallpermissions.accesskey "E">
 
 <!ENTITY     futureCookies.label            "Nu mai accepta cookie-uri de la saiturile de la care am șters deja cookie-uri">
-<!ENTITY     futureCookies.accesskey        "D">
+<!ENTITY     futureCookies.accesskey        "d">

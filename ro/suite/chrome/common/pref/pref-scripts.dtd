@@ -4,7 +4,7 @@
 <!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
 
 <!ENTITY navigator.label                 "Navigator">
-<!ENTITY navigator.accesskey             "B">
+<!ENTITY navigator.accesskey             "N">
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label          "Enable JavaScript for">
@@ -21,4 +21,4 @@
 
 <!ENTITY whenPluginsRequired.label       "When additional plugins are required">
 <!ENTITY displayNotification.label       "Display a notification bar at the top of the content area">
-<!ENTITY displayNotification.accesskey   "D">
+<!ENTITY displayNotification.accesskey   "n">

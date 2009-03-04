@@ -3,7 +3,7 @@
 <!ENTITY  pref.history.caption              "Istoric">
 <!ENTITY  historyPages.label                "History is a list of previously visited pages.">
 <!ENTITY  expireDaysMin1.label              "Always remember visited pages for at least">
-<!ENTITY  expireDaysMin1.accesskey          "A">
+<!ENTITY  expireDaysMin1.accesskey          "r">
 <!ENTITY  expireDaysMin2.label              "zile">
 <!ENTITY  expireDays1.label                 "Remember visited pages for up to">
 <!ENTITY  expireDays1.accesskey             "e">

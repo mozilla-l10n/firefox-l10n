@@ -41,14 +41,14 @@
 <!ENTITY style.accesskey                  "S">
 <!ENTITY regular.label                    "Simplu">
 <!ENTITY bold.label                       "Aldin">
-<!ENTITY italic.label                     "Italic">
+<!ENTITY italic.label                     "Cursiv">
 <!ENTITY boldItalic.label                 "Aldin Cursiv">
 <!ENTITY size.label                       "Mărime:">
-<!ENTITY size.accesskey                   "z">
+<!ENTITY size.accesskey                   "M">
 <!ENTITY bigger.label                     "Mai mare">
 <!ENTITY smaller.label                    "Mai mic">
 <!ENTITY color.label                      "Stabilire culori">
-<!ENTITY color.accesskey                  "C">
+<!ENTITY color.accesskey                  "c">
 <!ENTITY displayPlainText.caption         "Plain text messages">
 <!ENTITY fontPlainText.label              "Font:">
 <!ENTITY fontPlainText.accesskey          "F">
@@ -57,10 +57,10 @@
 <!ENTITY wrapInMsg.accesskey              "W">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "Arată simbolurile emotive ca imagini">
-<!ENTITY convertEmoticons.accesskey       "D">
+<!ENTITY convertEmoticons.accesskey       "A">
 <!ENTITY generalMessageDisplay.caption    "General">
 <!ENTITY autoMarkAsRead.label             "Marchează automat mesajele ca citite">
-<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY autoMarkAsRead.accesskey         "a">
 <!ENTITY markAsReadNoDelay.label          "Imediat la afișare">
 <!ENTITY markAsReadNoDelay.accesskey      "m">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to

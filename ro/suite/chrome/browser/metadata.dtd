@@ -2,7 +2,7 @@
 
 <!ENTITY caption.label         "Proprietăți element">
 <!ENTITY image-sec.label       "Proprietăți imagine">
-<!ENTITY image-url.label       "Amplasament:">
+<!ENTITY image-url.label       "Locația:">
 <!ENTITY image-desc.label      "Colecție locală">
 <!ENTITY image-alt.label       "Text alternativ:">
 <!ENTITY image-width.label     "Greutate:">

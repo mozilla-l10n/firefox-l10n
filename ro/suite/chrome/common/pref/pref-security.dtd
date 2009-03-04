@@ -40,10 +40,10 @@
 <!ENTITY privateData.label                "Date private">
 
 <!ENTITY alwaysClear.label                "Șterge datele private de fiecare dată când închid &brandShortName;">
-<!ENTITY alwaysClear.accesskey            "w">
+<!ENTITY alwaysClear.accesskey            "t">
 
 <!ENTITY askBeforeClear.label             "Întreabă înainte de a șterge datele private">
-<!ENTITY askBeforeClear.accesskey         "A">
+<!ENTITY askBeforeClear.accesskey         "a">
 
 <!ENTITY clearDataSettings.label          "Când cer să se șteargă datele private, &brandShortName; ar trebui să șteargă:">
 
@@ -53,4 +53,4 @@
 -->
 <!ENTITY clearDataDialog.label            "Șterge acum...">
 <!ENTITY clearDataSilent.label            "Șterge acum">
-<!ENTITY clearDataDialog.accesskey        "N">
+<!ENTITY clearDataDialog.accesskey        "t">

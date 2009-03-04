@@ -12,7 +12,7 @@
 <!ENTITY accountTypeMail.label "Cont de email">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Cont pentru grupuri de discuții">
-<!ENTITY accountTypeNews.accesskey "w">
+<!ENTITY accountTypeNews.accesskey "C">
 
 <!-- Entities for Identity page -->
 
@@ -27,10 +27,10 @@
 -->
 <!ENTITY fullnameExample.label "(de exemplu, „Mihai Georgescu”).">
 <!ENTITY fullnameLabel.label "Numele dumneavoastră:">
-<!ENTITY fullnameLabel.accesskey "Y">
+<!ENTITY fullnameLabel.accesskey "N">
 
 <!ENTITY emailLabel.label "Adresa de email:">
-<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailLabel.accesskey "e">
 
 <!-- Entities for Server page -->
 
@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Introduceți numele serverului de trimitere (SMTP) (de exemplu, „smtp.example.net”).">
 <!ENTITY smtpServerLabel.label "Server de trimitere:">
-<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY smtpServerLabel.accesskey "S">
 <!ENTITY newsServerLabel.label "Server de news:">
 <!ENTITY newsServerLabel.accesskey "w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
@@ -69,10 +69,10 @@
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(de exemplu, „jsmith”).">
 <!ENTITY usernameLabel.label "Nume utilizator pt primire:">
-<!ENTITY usernameLabel.accesskey "I">
+<!ENTITY usernameLabel.accesskey "i">
 <!ENTITY usernameSmtpDesc.label "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de email (de obicei este același cu numele de utilizator pentru primire).">
 <!ENTITY usernameSmtpLabel.label "Nume utilizator pt trimitere:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
+<!ENTITY usernameSmtpLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
@@ -92,7 +92,7 @@
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Introduceți un nume pe care doriți să-l acordați acestui cont (de exemplu, &quot;Cont Serviciu&quot;, &quot;Cont Acasă&quot; sau &quot;Cont News&quot;).">
 <!ENTITY accnameLabel.label "Nume cont:">
-<!ENTITY accnameLabel.accesskey "A">
+<!ENTITY accnameLabel.accesskey "N">
 
 <!-- Entities for Done (Congratulations) page -->
 
@@ -106,6 +106,6 @@
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Check this checkbox to store mail for this account in the Local Folders Global Inbox. Otherwise the account appears as a top-level account and its mail is stored in its own directory.">
 <!ENTITY deferStorage.label "Folosește căsuța de intrare globală (stochează mesajele în Dosare locale)">
-<!ENTITY deferStorage.accesskey "G">
+<!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Apăsați Încheiere pentru a salva setările și a părăsi asistentul de creat conturi.">
 <!ENTITY clickFinish.labelMac "Clic pe „Încheiere” pentru a salva acești parametri și a părăsi asistentul de creat conturi.">

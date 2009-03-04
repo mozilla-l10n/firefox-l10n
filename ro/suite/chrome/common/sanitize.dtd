@@ -2,17 +2,17 @@
 <!ENTITY sanitizeItems.label             "Șterge următoarele elemente:">
 
 <!ENTITY itemHistory.label               "Istoric">
-<!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemHistory.accesskey           "I">
 <!ENTITY itemDownloads.label             "Istoric descărcări">
-<!ENTITY itemDownloads.accesskey         "D">
+<!ENTITY itemDownloads.accesskey         "d">
 <!ENTITY itemFormSearchHistory.label     "Date salvate de pe formulare și istoricul căutărilor">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemFormSearchHistory.accesskey "f">
 <!ENTITY itemCache.label                 "Caută">
 <!ENTITY itemCache.accesskey             "a">
 <!ENTITY itemCookies.label               "Cookie-urile">
 <!ENTITY itemCookies.accesskey           "C">
 <!ENTITY itemOfflineApps.label           "Datele saiturilor offline">
-<!ENTITY itemOfflineApps.accesskey       "O">
+<!ENTITY itemOfflineApps.accesskey       "o">
 <!ENTITY itemPasswords.label             "Parolele salvate">
 <!ENTITY itemPasswords.accesskey         "P">
 <!ENTITY itemSessions.label              "Sesiuni autentificate">

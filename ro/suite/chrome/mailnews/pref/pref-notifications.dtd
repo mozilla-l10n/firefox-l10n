@@ -39,9 +39,9 @@
 <!ENTITY notifications.caption            "Notificări">
 <!ENTITY newMessagesArrive.label          "Când sosesc noi mesaje:">
 <!ENTITY playSound.label                  "Redă un sunet">
-<!ENTITY playSound.accesskey              "P">
+<!ENTITY playSound.accesskey              "R">
 <!ENTITY showAnimatedAlert.label          "Afișează o alertă">
-<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY showAnimatedAlert.accesskey      "A">
 <!ENTITY showTrayIcon.label               "Show a tray icon">
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "Animate the Dock icon">
@@ -53,5 +53,5 @@
 <!ENTITY customsound.label                "Custom sound file">
 <!ENTITY customsound.accesskey            "C">
 <!ENTITY browse.label                     "Răsfoiește...">
-<!ENTITY browse.accesskey                 "B">
+<!ENTITY browse.accesskey                 "R">
 <!ENTITY browse.title                     "Choose file">

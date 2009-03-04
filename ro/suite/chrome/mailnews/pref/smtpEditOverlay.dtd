@@ -1,13 +1,13 @@
 <!ENTITY settings.caption "Parametri">
 <!ENTITY security.caption "Securitate și autentificare">
 <!ENTITY serverName.label "Nume server:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Colecție locală">
-<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverDescription.accesskey "C">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY alwaysUseUsername.label "Folosește nume și parolă">
-<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY alwaysUseUsername.accesskey "u">
 <!ENTITY userName.label "Nume Utilizator:">
 <!ENTITY userName.accesskey "m">
 <!ENTITY useSecAuth.label "Folosește autentificare securizată">

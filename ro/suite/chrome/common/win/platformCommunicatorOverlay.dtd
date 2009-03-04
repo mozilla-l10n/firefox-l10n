@@ -4,11 +4,11 @@
 
 <!ENTITY closeCmd.label                 "Închide">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "c">
 
 <!ENTITY quitApplicationCmd.label       "Ieșire"> 
 <!ENTITY quitApplicationCmd.key         "Q"> 
-<!ENTITY quitApplicationCmd.accesskey   "x">
+<!ENTITY quitApplicationCmd.accesskey   "I">
 
 <!ENTITY redoCmd.label                  "Refacere">  
 <!ENTITY redoCmd.key                    "Y">  
@@ -21,10 +21,10 @@
 
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label              "Ajutor conținut">
-<!ENTITY openHelpCmd.accesskey          "H">
+<!ENTITY openHelpCmd.accesskey          "A">
 <!ENTITY openHelpCmd.key                "VK_F1">
 <!ENTITY helpForIEUsers.label           "Pentru utilizatorii Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey       "I">
+<!ENTITY helpForIEUsers.accesskey       "i">
 
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label                  "Ctrl+P">

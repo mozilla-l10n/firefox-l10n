@@ -35,10 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label          "Tipărește...">
-<!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "Aranjare în pagină...">
-<!ENTITY pageSetup.accesskey  "u">
+<!ENTITY print.label          "Tipărește…">
+<!ENTITY print.accesskey      "p">
+<!ENTITY pageSetup.label      "Aranjare în pagină…">
+<!ENTITY pageSetup.accesskey  "A">
 <!ENTITY page.label           "Pagină:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "a">
@@ -47,9 +47,9 @@
 <!ENTITY portrait.label       "Portret">
 <!ENTITY portrait.accesskey   "o">
 <!ENTITY landscape.label      "Peisaj">
-<!ENTITY landscape.accesskey  "L">
+<!ENTITY landscape.accesskey  "P">
 <!ENTITY close.label          "Închide">
-<!ENTITY close.accesskey      "C">
+<!ENTITY close.accesskey      "c">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">

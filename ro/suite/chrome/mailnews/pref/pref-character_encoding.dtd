@@ -40,7 +40,7 @@
 <!ENTITY pref.character.encoding.title   "Codare caractere">
 <!ENTITY messageDisplay.caption          "Message Display">
 <!ENTITY viewDefaultCharset.label        "Codare caractere implicită:">
-<!ENTITY viewDefaultCharset.accesskey    "D">
+<!ENTITY viewDefaultCharset.accesskey    "d">
 
 <!ENTITY composingMessages.caption       "Redactare mesaje">
 <!ENTITY useMIME.label                   "For messages that contain 8-bit characters, use 'quoted printable' MIME encoding. Leave unchecked to send the messages as is.">

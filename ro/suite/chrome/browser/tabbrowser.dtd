@@ -4,13 +4,13 @@
 <!ENTITY  closeTab.label         "Închide tabul">
 <!ENTITY  closeTab.accesskey         "c">
 <!ENTITY  closeOtherTabs.label   "Închide celelalte file">
-<!ENTITY  closeOtherTabs.accesskey         "Î">
+<!ENTITY  closeOtherTabs.accesskey         "n">
 <!ENTITY  reloadAllTabs.label    "Reîncarcă toate filele">
 <!ENTITY  reloadAllTabs.accesskey         "a">
 <!ENTITY  reloadTab.label        "Reîncarcă fila">
 <!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  bookmarkGroup.label    "Bookmark This Group of Tabs">
-<!ENTITY  bookmarkGroup.accesskey  "B">
+<!ENTITY  bookmarkGroup.label    "Pune semn de carte la acest grup de file">
+<!ENTITY  bookmarkGroup.accesskey  "P">
 <!ENTITY  closeTabButton.tooltip   "Închide fila curentă">
 <!ENTITY  newTabButton.tooltip   "Deschide o filă nouă">
 <!ENTITY  undoCloseTab.label    "Anulează închiderea filei">

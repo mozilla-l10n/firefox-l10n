@@ -45,7 +45,7 @@
 <!ENTITY addTagButton.label         "Adaugă">
 <!ENTITY addTagButton.accesskey     "A">
 <!ENTITY deleteTagButton.label      "Șterge elementul">
-<!ENTITY deleteTagButton.accesskey  "D">
+<!ENTITY deleteTagButton.accesskey  "t">
 <!ENTITY raiseTagButton.label       "Raise Importance">
 <!ENTITY raiseTagButton.accesskey   "R">
 <!ENTITY lowerTagButton.label       "Lower Importance">

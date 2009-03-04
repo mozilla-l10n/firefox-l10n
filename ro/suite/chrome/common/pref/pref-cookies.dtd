@@ -22,11 +22,11 @@
 <!ENTITY acceptForSession.accesskey     "s">
 
 <!ENTITY acceptforNDays.label           "Acceptă cookie-urile pentru">
-<!ENTITY acceptforNDays.accesskey       "f">
+<!ENTITY acceptforNDays.accesskey       "A">
 <!ENTITY days.label                     "zile">
 
 <!ENTITY warnAboutCookies.label         "Întreabă pentru fiecare cookie">
-<!ENTITY warnAboutCookies.accesskey     "A">
+<!ENTITY warnAboutCookies.accesskey     "a">
 <!ENTITY forCurrentSession.label        "except for session cookies">
 <!ENTITY forCurrentSession.accesskey    "e">
 

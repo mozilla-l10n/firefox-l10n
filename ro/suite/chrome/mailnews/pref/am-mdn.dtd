@@ -1,13 +1,13 @@
 <!ENTITY pane.title                   "Confirmări de primire">
 <!ENTITY useGlobalPrefs.label         "Folosește pentru acest cont preferințele globale legate de confirmările de primire">
-<!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY useGlobalPrefs.accesskey     "u">
 <!ENTITY useCustomPrefs.label         "Personalizează pentru acest cont">
-<!ENTITY useCustomPrefs.accesskey     "C">
+<!ENTITY useCustomPrefs.accesskey     "c">
 <!ENTITY requestReceipt.label         "La trimiterea unui mesaj, solicită întotdeauna confirmare de primire">
-<!ENTITY requestReceipt.accesskey     "W">
+<!ENTITY requestReceipt.accesskey     "L">
 <!ENTITY receiptArrive.label          "Când sosește o confirmare:">
 <!ENTITY leaveIt.label                "Las-o în căsuța poștală">
-<!ENTITY leaveIt.accesskey            "I">
+<!ENTITY leaveIt.accesskey            "L">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Mut-o în dosarul „Mesaje trimise”">
 <!ENTITY moveToSent.accesskey         "M">
@@ -17,11 +17,11 @@
 <!ENTITY never.label                  "Nu trimite confirmare de primire">
 <!ENTITY never.accesskey              "N">
 <!ENTITY notInToCc.label              "Dacă nu mă regăsesc în câmpurile Către sau Cc ale mesajului:">
-<!ENTITY notInToCc.accesskey          "T">
+<!ENTITY notInToCc.accesskey          "t">
 <!ENTITY outsideDomain.label          "Dacă expeditorul nu este în domeniul meu:">
 <!ENTITY outsideDomain.accesskey      "s">
 <!ENTITY otherCases.label             "Altfel:">
-<!ENTITY otherCases.accesskey         "o">
+<!ENTITY otherCases.accesskey         "A">
 <!ENTITY askMe.label                  "Întreabă-mă">
 <!ENTITY alwaysSend.label             "Trimite">
 <!ENTITY neverSend.label              "Nu trimite">

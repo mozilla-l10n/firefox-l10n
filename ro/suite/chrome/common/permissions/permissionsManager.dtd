@@ -2,14 +2,14 @@
 <!ENTITY treehead.sitename.label        "Sait">
 <!ENTITY treehead.status.label          "Situația">
 <!ENTITY remove.label                   "Elimină sit">
-<!ENTITY remove.accesskey               "R">
+<!ENTITY remove.accesskey               "E">
 <!ENTITY removeall.label                "Elimină toate saiturile">
-<!ENTITY removeall.accesskey            "e">
+<!ENTITY removeall.accesskey            "E">
 <!ENTITY address.label                  "Adresa saitului web:">
 <!ENTITY address.accesskey              "d">
 <!ENTITY block.label                    "Blochează">
 <!ENTITY block.accesskey                "B">
 <!ENTITY session.label                  "Permite pentru sesiune">
-<!ENTITY session.accesskey              "S">
+<!ENTITY session.accesskey              "s">
 <!ENTITY allow.label                    "Permite">
-<!ENTITY allow.accesskey                "A">
+<!ENTITY allow.accesskey                "P">

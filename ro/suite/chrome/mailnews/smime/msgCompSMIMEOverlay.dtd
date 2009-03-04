@@ -4,7 +4,7 @@
 <!ENTITY securityMenu.accesskey "e">
 
 <!ENTITY menu_securityEncryptRequire.label "Criptează mesajul">
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
+<!ENTITY menu_securityEncryptRequire.accesskey "e">
 
 <!ENTITY menu_securityNoEncryption.label "Nu cripta mesajul">
 <!ENTITY menu_securityNoEncryption.accesskey "N">

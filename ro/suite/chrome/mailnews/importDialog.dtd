@@ -38,13 +38,13 @@
 
 <!ENTITY importDialog.windowTitle "Preluare">
 <!ENTITY importAll.label          "Importă totul">
-<!ENTITY importAll.accesskey      "E">
+<!ENTITY importAll.accesskey      "I">
 <!ENTITY importMail.label         "Email">
-<!ENTITY importMail.accesskey     "M">
+<!ENTITY importMail.accesskey     "m">
 <!ENTITY importAddressbook.label  "Agende de contacte">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Parametri">
-<!ENTITY importSettings.accesskey "S">
+<!ENTITY importSettings.accesskey "P">
 <!ENTITY importFilters.label      "Filtre">
 <!ENTITY importFilters.accesskey  "F">
 
@@ -58,7 +58,7 @@
 <!ENTITY importDescription2.label "Odată importate, le veți putea accesa din  &brandShortName; și/sau agenda de contacte.">
 
 <!ENTITY selectDescription.label  "Vă rog alegeți programul din care doriți să importați:">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescription.accesskey "p">
 
 <!ENTITY back.label               "&lt; Înapoi">
 <!ENTITY forward.label            "Înainte &gt;">
@@ -68,12 +68,12 @@
 <!ENTITY select.label             "Alegeți ce material se va importa:">
 
 <!ENTITY title.label              "Titlul">
-<!ENTITY processing.label         "Import...">
+<!ENTITY processing.label         "Se importă…">
 
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x are o singură adresă poștală pentru fiecare fișă, în timp ce &brandShortName; are două (Acasă și Serviciu).">
 <!ENTITY FieldDiscInputText2.label  "Alegeți categoria în care doriți să memorați adresele poștale importate:">
 <!ENTITY FieldDiscWarning.label  "Această categorie va fi folosită pentru toate intrările din agenda de contacte selectată:">
 <!ENTITY importHome.label        "Pagina de start">
-<!ENTITY importHome.accesskey    "H">
+<!ENTITY importHome.accesskey    "P">
 <!ENTITY importWork.label        "Lucru">
-<!ENTITY importWork.accesskey    "W">
+<!ENTITY importWork.accesskey    "L">

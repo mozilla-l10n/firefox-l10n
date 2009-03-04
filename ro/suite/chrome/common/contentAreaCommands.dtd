@@ -16,16 +16,16 @@
 <!ENTITY showOnlyThisFrameCmd.label     "Afișează doar acest cadru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY goBackCmd.label              "Înapoi">
-<!ENTITY goBackCmd.accesskey          "Î">
-<!ENTITY goForwardCmd.label           "Forward">
-<!ENTITY goForwardCmd.accesskey       "Î">
+<!ENTITY goBackCmd.accesskey          "n">
+<!ENTITY goForwardCmd.label           "Înainte">
+<!ENTITY goForwardCmd.accesskey       "n">
 <!ENTITY goUpCmd.label                "În sus">
-<!ENTITY goUpCmd.accesskey            "U">
+<!ENTITY goUpCmd.accesskey            "u">
 <!ENTITY reloadCmd.label              "Reîncarcă">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadCmd.commandkey         "d">
-<!ENTITY stopCmd.label                "Stop">
-<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.label                "Oprește">
+<!ENTITY stopCmd.accesskey            "O">
 <!ENTITY reloadFrameCmd.label         "Reîncarcă cadrul">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vezi sursa selecției">
@@ -36,23 +36,23 @@
 <!ENTITY viewFrameSourceCmd.label     "Vezi sursa cadrului">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "Vezi informații despre pagină">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Vezi informații despre cadru">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY fitImageCmd.label            "Potrivește imaginea la fereastră">
-<!ENTITY fitImageCmd.accesskey        "F">
+<!ENTITY fitImageCmd.accesskey        "f">
 <!ENTITY reloadImageCmd.label         "Reîncarcă imaginea">
 <!ENTITY reloadImageCmd.accesskey     "e">
 <!ENTITY viewImageCmd.label           "Vezi imaginea">
-<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Vezi imaginea de fundal">
-<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY viewBGImageCmd.accesskey     "V">
 <!ENTITY setWallpaperCmd.label        "Setează ca fundal pe ecran">
 <!ENTITY setWallpaperCmd.accesskey    "S">
 <!ENTITY bookmarkPageCmd.label        "Pune un semn la această pagină">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Pune semn de carte la această legătură">
-<!ENTITY bookmarkLinkCmd.accesskey    "L">
+<!ENTITY bookmarkLinkCmd.accesskey    "l">
 <!ENTITY bookmarkFrameCmd.label       "Pune semn de carte la acest cadru">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
 <!ENTITY savePageAsCmd.label          "Salvează pagina ca...">
@@ -61,11 +61,11 @@
 <!ENTITY savePageCmd.commandkey       "I">
 <!ENTITY saveFrameAsCmd.label         "Salvează cadrul ca...">
 <!ENTITY saveFrameCmd.label           "Salvează cadrul">
-<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveFrameCmd.accesskey       "S">
 <!ENTITY saveLinkAsCmd.label          "Salvează Legătura Ca">
 <!ENTITY saveLinkCmd.label            "Salvează ținta legăturii">
 <!ENTITY saveLinkCmd.accesskey        "r">
-<!ENTITY saveImageAsCmd.label         "Salvează imaginea ca...">
+<!ENTITY saveImageAsCmd.label         "Salvează imaginea ca…">
 <!ENTITY saveImageCmd.label           "Salvează imaginea">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Salvează clipul ca…">
@@ -75,7 +75,7 @@
 <!ENTITY copyCmd.label                "Copiați">
 <!ENTITY copyCmd.accesskey            "C">
 <!ENTITY selectAllCmd.label           "Selectați tot">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY copyLinkCmd.label            "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copiază imaginea">
@@ -87,27 +87,27 @@
 <!ENTITY metadataCmd.label            "Proprietăți">
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "Copiază adresa de email">
-<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY pasteCmd.label               "Lipiți">
-<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY pasteCmd.accesskey           "p">
 <!ENTITY cutCmd.label                 "Tăiați">
-<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY cutCmd.accesskey             "T">
 <!ENTITY deleteCmd.label              "Șterge elementul">
-<!ENTITY deleteCmd.accesskey          "D">
-<!ENTITY undoCmd.label                "Undo">
-<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY deleteCmd.accesskey          "t">
+<!ENTITY undoCmd.label                "Anulează">
+<!ENTITY undoCmd.accesskey            "u">
 <!ENTITY redoCmd.label                "Refacere">
 <!ENTITY redoCmd.accesskey            "R">
 <!ENTITY thisFrameMenu.label          "Acest cadru">
-<!ENTITY thisFrameMenu.accesskey      "h">
+<!ENTITY thisFrameMenu.accesskey      "A">
 <!ENTITY mediaPlay.label              "Redare">
-<!ENTITY mediaPlay.accesskey          "P">
+<!ENTITY mediaPlay.accesskey          "R">
 <!ENTITY mediaPause.label             "Pauză">
 <!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Oprește microfon">
-<!ENTITY mediaMute.accesskey          "M">
+<!ENTITY mediaMute.accesskey          "m">
 <!ENTITY mediaUnmute.label            "Activează sonorul">
-<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaUnmute.accesskey        "A">
 <!ENTITY mediaShowControls.label      "Show Media Controls">
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Hide Media Controls">
@@ -116,13 +116,13 @@
 <!ENTITY bidiSwitchPageDirectionItem.label        "Schimbă direcția paginii">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Schimbă direcția textului">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "S">
 <!ENTITY spellAddToDictionary.label     "Adaugă la dicționar">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellIgnoreWord.label          "Ignoră cuvânt">
-<!ENTITY spellIgnoreWord.accesskey      "W">
+<!ENTITY spellIgnoreWord.accesskey      "I">
 <!ENTITY spellCheckEnable.label         "Verificați ortografie">
-<!ENTITY spellCheckEnable.accesskey     "S">
+<!ENTITY spellCheckEnable.accesskey     "V">
 <!ENTITY spellNoSuggestions.label       "(nicio sugestie de ortografie)">
 <!ENTITY spellDictionaries.label        "Limbaje">
 <!ENTITY spellDictionaries.accesskey    "L">

@@ -2,72 +2,72 @@
 <!ENTITY msgComposeWindow.title "Redactare mesaj: (fără subiect)">
 
 <!ENTITY fromAddr.label "De la:">
-<!ENTITY fromAddr.accesskey "r">
+<!ENTITY fromAddr.accesskey "D">
 <!ENTITY subject.label  "Subiectul:">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "Anexe:">
-<!ENTITY attachments.accesskey "c">
+<!ENTITY attachments.accesskey "A">
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
 <!ENTITY newMessage.label "un mesaj nou">  
-<!ENTITY newMessage.accesskey "M">  
+<!ENTITY newMessage.accesskey "m">  
 <!ENTITY saveCmd.label "Salvare">
 <!ENTITY saveCmd.key "F">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salvează ca">
-<!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsFileCmd.label "Fișier...">
+<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsFileCmd.label "Fișier…">
 <!ENTITY saveAsFileCmd.accesskey "F">
-<!ENTITY saveAsDraftCmd.label "Ciornă">
-<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsDraftCmd.label "Mesaj nefinalizat">
+<!ENTITY saveAsDraftCmd.accesskey "M">
 <!ENTITY saveAsTemplateCmd.label "Șablon">
-<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY saveAsTemplateCmd.accesskey "a">
 <!ENTITY attachMenu.label "Anexează">
-<!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "Fișier(e)...">
+<!ENTITY attachMenu.accesskey "A">
+<!ENTITY attachFileCmd.label "Fișier(e)…">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Pagină web...">
-<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachPageCmd.label "Pagină web…">
+<!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Fișă personală (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY attachVCardCmd.accesskey "p">
 <!ENTITY sendNowCmd.label "Trimite acum">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendNowCmd.accesskey "T">
 <!ENTITY sendLaterCmd.label "Trimite mai târziu">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Aranjare în pagină...">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Tipărește...">
+<!ENTITY sendLaterCmd.accesskey "T">
+<!ENTITY printSetupCmd.label "Aranjare în pagină…">
+<!ENTITY printSetupCmd.accesskey "A">
+<!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "p">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY editRewrapCmd.key "L">
-<!ENTITY editRewrapCmd.accesskey  "w">
-<!ENTITY findCmd.label "Caută și înlocuiește...">
+<!ENTITY editRewrapCmd.accesskey  "n">
+<!ENTITY findCmd.label "Caută și înlocuiește…">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.accesskey "C">
 <!ENTITY findAgainCmd.label "Caută din nou">
 <!ENTITY findAgainCmd.key "D">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "C">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Caută înapoi">
 <!ENTITY findPrevCmd.key "D">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.accesskey "C">
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "M">
 
 <!-- View menu items -->
 <!ENTITY showComposeToolbarCmd.label "Bara de unelte">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
+<!ENTITY showComposeToolbarCmd.accesskey "B">
 <!ENTITY showFormatToolbarCmd.label "Bara de formatare">
-<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showFormatToolbarCmd.accesskey "f">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
@@ -78,45 +78,45 @@
 <!ENTITY optionsMenu.accesskey "p">
 
 <!ENTITY quoteCmd.label "Citează mesajul">
-<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY quoteCmd.accesskey "C">
 <!ENTITY selectAddressCmd.label "Select Addresses…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
 
-<!ENTITY checkSpellingCmd2.label "Verifică ortografia...">
+<!ENTITY checkSpellingCmd2.label "Verifică ortografia…">
 <!ENTITY checkSpellingCmd2.key "o">
-<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul tastării">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY enableInlineSpellChecker.accesskey "s">
 
 <!ENTITY priorityMenu.label "prioritatea">
-<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityMenu.accesskey "p">
 <!ENTITY lowestPriorityCmd.label "Cea mai mică">
-<!ENTITY lowestPriorityCmd.accesskey "L">
+<!ENTITY lowestPriorityCmd.accesskey "C">
 <!ENTITY lowPriorityCmd.label "Încet">
-<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY lowPriorityCmd.accesskey "n">
 <!ENTITY normalPriorityCmd.label "Normală">
 <!ENTITY normalPriorityCmd.accesskey "N">
 <!ENTITY highPriorityCmd.label "Tare">
-<!ENTITY highPriorityCmd.accesskey "i">
-<!ENTITY highestPriorityCmd.label "F. înaltă">
-<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY highPriorityCmd.accesskey "T">
+<!ENTITY highestPriorityCmd.label "Cea mai mare">
+<!ENTITY highestPriorityCmd.accesskey "C">
 
 <!ENTITY returnReceiptMenu.label "Confirmare de primire">
-<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY returnReceiptMenu.accesskey "C">
 <!ENTITY outputFormatMenu.label "Format">
 <!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Autodetecție">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Doar text">
-<!ENTITY plainTextFormatCmd.accesskey "P">
+<!ENTITY plainTextFormatCmd.accesskey "D">
 <!ENTITY htmlFormatCmd.label "Doar text îmbogățit (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "R">
+<!ENTITY htmlFormatCmd.accesskey "r">
 <!ENTITY bothFormatCmd.label "Text și HTML">
-<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY bothFormatCmd.accesskey "L">
 
 <!ENTITY fileCarbonCopyCmd.label "Trimite copie în">
-<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileCarbonCopyCmd.accesskey "T">
 <!ENTITY fileHereMenu.label "Îndosariază aici">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
@@ -124,9 +124,9 @@
 <!ENTITY sendButton.label "Trimite">
 <!ENTITY addressButton.label "Adresă proprie">
 <!ENTITY attachButton.label "Anexează">
-<!ENTITY spellingButton.label "Spelling">
+<!ENTITY spellingButton.label "Ortografie">
 <!ENTITY saveButton.label "Salvare">
-<!ENTITY stopButton.label "Stop">
+<!ENTITY stopButton.label "Oprește">
 
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
@@ -148,23 +148,23 @@
 <!ENTITY undo.label "Undo">
 <!ENTITY undo.accesskey "U">
 <!ENTITY cut.label "Tăiați">
-<!ENTITY cut.accesskey "t">
+<!ENTITY cut.accesskey "T">
 <!ENTITY copy.label "Copiați">
 <!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Lipiți">
-<!ENTITY paste.accesskey "P">
+<!ENTITY paste.accesskey "p">
 <!ENTITY pasteQuote.label "Lipește ca citat">
-<!ENTITY pasteQuote.accesskey "Q">
+<!ENTITY pasteQuote.accesskey "L">
 
 <!ENTITY openAttachment.label "Deschis">
-<!ENTITY openAttachment.accesskey "O">
+<!ENTITY openAttachment.accesskey "D">
 <!ENTITY delete.label "Șterge elementul">
-<!ENTITY delete.accesskey "D">
+<!ENTITY delete.accesskey "t">
 <!ENTITY renameAttachment.label "Redenumește…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selectați tot">
-<!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "Anexează fișier(e)...">
-<!ENTITY attachFile.accesskey "F">
-<!ENTITY attachPage.label "Anexează pagină web...">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY selectAll.accesskey "a">
+<!ENTITY attachFile.label "Anexează fișier(e)…">
+<!ENTITY attachFile.accesskey "f">
+<!ENTITY attachPage.label "Anexează pagină web…">
+<!ENTITY attachPage.accesskey "w">

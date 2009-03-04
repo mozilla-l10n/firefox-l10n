@@ -42,16 +42,16 @@
 <!ENTITY sidebar.reload.accesskey       "R">
 <!ENTITY sidebar.picker.label           "Taburi">
 <!ENTITY sidebar.customize.label        "Personalizare Bara laterală">
-<!ENTITY sidebar.customize.accesskey    "u">
+<!ENTITY sidebar.customize.accesskey    "P">
 <!ENTITY sidebar.hide.label             "Ascunde Fila">
-<!ENTITY sidebar.hide.accesskey         "H">
+<!ENTITY sidebar.hide.accesskey         "A">
 <!ENTITY sidebar.switch.label           "Schimbă la fila">
-<!ENTITY sidebar.switch.accesskey       "T">
+<!ENTITY sidebar.switch.accesskey       "S">
 <!ENTITY sidebarCmd.label               "Panoul lateral">
-<!ENTITY sidebarCmd.accesskey           "B">
+<!ENTITY sidebarCmd.accesskey           "P">
 <!ENTITY sidebar.loading.label          "Încărcare...">
 <!ENTITY sidebar.loadstopped.label      "încărcarea s-a oprit">
-<!ENTITY sidebar.loading.stop.label     "Stop">
+<!ENTITY sidebar.loading.stop.label     "Oprește">
 <!ENTITY sidebar.loading.stop.accesskey "O">
 
 <!ENTITY sidebar.no-panels.state     "Bara laterală este momentan goală.">
