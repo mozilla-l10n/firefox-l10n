@@ -46,10 +46,10 @@
 <!ENTITY highlightNonMatches.label             "Highlight addresses that do not autocomplete">
 <!ENTITY highlightNonMatches.accesskey         "a">
 <!ENTITY addressingEnable.label                "Agende locale de contacte">
-<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY addressingEnable.accesskey            "l">
 <!ENTITY autocompleteText.label                "Când se scrie destinatarul, caută potriviri în:">
 <!ENTITY directories.label                     "Server de directoare:">
-<!ENTITY directories.accesskey                 "D">
+<!ENTITY directories.accesskey                 "d">
 <!ENTITY directoriesNone.label                 "Nespecificat">
-<!ENTITY editDirectories.label                 "Editează directoarele...">
+<!ENTITY editDirectories.label                 "Editează repertoare…">
 <!ENTITY editDirectories.accesskey             "E">

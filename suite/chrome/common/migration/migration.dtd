@@ -10,7 +10,7 @@
 <!ENTITY importFromFile.label            "Fișierul">
 <!ENTITY importFromFile.accesskey        "F">
 <!ENTITY importFromNothing.label         "Nu importa nimic">
-<!ENTITY importFromNothing.accesskey     "D">
+<!ENTITY importFromNothing.accesskey     "N">
 
 <!ENTITY importSource.title              "Importă configurații și date din">
 <!ENTITY importItems.title               "Elemente de importat">
@@ -19,8 +19,8 @@
 <!ENTITY selectProfile.title             "Alegere profil">
 <!ENTITY selectProfile.label             "Puteți importa din următoarele profiluri:">
 
-<!ENTITY migrating.title                 "Import...">
-<!ENTITY migrating.label                 "Se importă următoarele elemente...">
+<!ENTITY migrating.title                 "Se importă…">
+<!ENTITY migrating.label                 "Se importă următoarele elemente…">
 
 <!ENTITY done.title                      "Import încheiat">
 <!ENTITY done.label                      "Următoarele elemente au fost importate cu succes:">

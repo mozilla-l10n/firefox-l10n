@@ -41,13 +41,13 @@
 <!ENTITY sidebar.customize.title.label          "Personalizare &sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "File în &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "T">
+<!ENTITY sidebar.customize.current.accesskey    "F">
 <!ENTITY sidebar.customize.customize.label      "Personalizare filă">
-<!ENTITY sidebar.customize.customize.accesskey  "C">
+<!ENTITY sidebar.customize.customize.accesskey  "P">
 <!ENTITY sidebar.customize.remove.label         "Eliminați">
 <!ENTITY sidebar.customize.remove.accesskey     "E">
 <!ENTITY sidebar.customize.additional.label     "File Disponibile:">
-<!ENTITY sidebar.customize.additional.accesskey "v">
+<!ENTITY sidebar.customize.additional.accesskey "F">
 <!ENTITY sidebar.customize.add.label            "Adaugă">
 <!ENTITY sidebar.customize.add.accesskey        "A">
 <!ENTITY sidebar.customize.preview.label        "Previzualizare">
@@ -57,4 +57,4 @@
 <!ENTITY sidebar.customize.down.label           "Mută jos">
 <!ENTITY sidebar.customize.down.accesskey       "M">
 <!ENTITY sidebar.more.label                     "Află mai multe file">
-<!ENTITY sidebar.more.accesskey                 "F">
+<!ENTITY sidebar.more.accesskey                 "f">

@@ -17,6 +17,6 @@
 <!ENTITY enableAutomaticImageResizing.label     "Resize large images to fit in the browser window">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label                  "Folosește derularea lină">
-<!ENTITY useSmoothScroll.accesskey              "U">
+<!ENTITY useSmoothScroll.accesskey              "u">
 <!ENTITY textZoomOnly.label                     "Zoom only text instead of full pages">
 <!ENTITY textZoomOnly.accesskey                 "Z">

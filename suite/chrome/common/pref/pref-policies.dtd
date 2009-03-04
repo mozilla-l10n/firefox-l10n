@@ -12,8 +12,8 @@
 
 <!ENTITY  addSite.label       "Adaugă Site">
 <!ENTITY  addSite.accesskey   "A">
-<!ENTITY  settings.label      "Settings for ">
-<!ENTITY  settings.accesskey  "s">
+<!ENTITY  settings.label      "Setări pentru ">
+<!ENTITY  settings.accesskey  "S">
 
 <!ENTITY  description.label   "Descrierea Politicii:">
  

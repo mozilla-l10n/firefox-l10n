@@ -45,9 +45,9 @@
 -->
 
 <!ENTITY download.label     "Descărcare">
-<!ENTITY download.accesskey "o">
+<!ENTITY download.accesskey "D">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "antete">
-<!ENTITY headers.accesskey  "h">
+<!ENTITY headers.accesskey  "a">
 <!ENTITY mark.label         "Marchează antetele rămase ca citite">
 <!ENTITY mark.accesskey     "M">

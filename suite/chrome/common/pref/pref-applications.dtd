@@ -5,6 +5,6 @@
 <!ENTITY typeColumn.accesskey    "T">
 
 <!ENTITY actionColumn2.label     "Procesează acțiunea">
-<!ENTITY actionColumn2.accesskey "A">
+<!ENTITY actionColumn2.accesskey "a">
 
 <!ENTITY search.emptytext        "Search Types and Actions">

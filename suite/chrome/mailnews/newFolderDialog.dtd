@@ -38,7 +38,7 @@
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Adaugă dosar">
 <!ENTITY name.label                 "Denumire:">
-<!ENTITY name.accesskey             "N">
+<!ENTITY name.accesskey             "n">
 <!ENTITY description.label          "Creează ca dosar sub:">
 <!ENTITY description.accesskey      "C">
 <!ENTITY folderRestriction1.label   "Acest server impune restricța ca dosarele să fie doar de două tipuri.">

@@ -7,7 +7,7 @@
 <!ENTITY prefEnableHTTP10.accesskey          "U">
 <!ENTITY prefEnableHTTP10Proxy.accesskey     "F">
 <!ENTITY prefEnableHTTP11.label              "Use HTTP 1.1">
-<!ENTITY prefEnableHTTP11.accesskey          "U">
+<!ENTITY prefEnableHTTP11.accesskey          "e">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "S">
 <!ENTITY prefEnableKeepAlive.label           "Enable Keep-Alive">
 <!ENTITY prefEnableKeepAlive.accesskey       "K">

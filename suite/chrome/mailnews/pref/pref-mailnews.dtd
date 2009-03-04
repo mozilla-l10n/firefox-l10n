@@ -44,7 +44,7 @@
 
 <!ENTITY defaultMailSettings.description  "Make &brandShortName; the default application for:">
 <!ENTITY setDefaultMail.label             "Email">
-<!ENTITY setDefaultMail.accesskey         "M">
+<!ENTITY setDefaultMail.accesskey         "m">
 <!ENTITY setDefaultNews.label             "Noutăți">
 <!ENTITY setDefaultNews.accesskey         "N">
 <!ENTITY setDefaultFeed.label             "Feed-uri">
@@ -53,20 +53,20 @@
 <!ENTITY messengerStartPage.caption       "Pagina de start a contului">
 <!ENTITY enableStartPage.label            "When Mail launches, show the Start Page in the message area">
 <!ENTITY enableStartPage.accesskey        "W">
-<!ENTITY location.label                   "Amplasament:">
+<!ENTITY location.label                   "Locația:">
 <!ENTITY location.accesskey               "L">
 <!ENTITY useDefault.label                 "Restaurează">
-<!ENTITY useDefault.accesskey             "D">
+<!ENTITY useDefault.accesskey             "R">
 <!ENTITY rememberLastMsg.label            "Reține ultimul mesaj selectat">
 <!ENTITY rememberLastMsg.accesskey        "R">
 <!ENTITY toolbarIntro.caption             "Select the buttons you want to see in the toolbar">
 <!ENTITY fileButton.label                 "Fișierul">
 <!ENTITY fileButton.accesskey             "F">
 <!ENTITY nextButton.label                 "General">
-<!ENTITY nextButton.accesskey             "x">
+<!ENTITY nextButton.accesskey             "G">
 <!ENTITY junkMailButton.label             "Nesolicitate">
-<!ENTITY junkMailButton.accesskey         "J">
+<!ENTITY junkMailButton.accesskey         "N">
 <!ENTITY printButton.label                "Listare">
-<!ENTITY printButton.accesskey            "P">
+<!ENTITY printButton.accesskey            "L">
 <!ENTITY stopButton.label                 "Stop">
 <!ENTITY stopButton.accesskey             "S">

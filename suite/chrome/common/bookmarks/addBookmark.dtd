@@ -38,13 +38,13 @@
 <!ENTITY newBookmark.title          "File Semne De Carte">
 <!ENTITY selectFolder.title         "Alege dosar">
 <!ENTITY name.label                 "Denumire:">
-<!ENTITY name.accesskey             "N">
-<!ENTITY url.label                  "Amplasament:">
+<!ENTITY name.accesskey             "n">
+<!ENTITY url.label                  "Locația:">
 <!ENTITY url.accesskey              "L">
 <!ENTITY shortcutURL.label          "Cuvânt cheie:">
-<!ENTITY shortcutURL.accesskey      "K">
+<!ENTITY shortcutURL.accesskey      "C">
 <!ENTITY destination.label          "Destinație:">
-<!ENTITY newFolder.label            "Dosar nou...">
-<!ENTITY newFolder.accesskey        "w">
+<!ENTITY newFolder.label            "Dosar nou…">
+<!ENTITY newFolder.accesskey        "D">
 <!ENTITY addGroup.label             "Adaugati la acest grup de file">
-<!ENTITY addGroup.accesskey         "B">
+<!ENTITY addGroup.accesskey         "A">

@@ -64,16 +64,16 @@
 <!ENTITY lowPriorityCmd.label "Încet">
 <!ENTITY normalPriorityCmd.label "Normală">
 <!ENTITY highPriorityCmd.label "Tare">
-<!ENTITY highestPriorityCmd.label "F. înaltă">
+<!ENTITY highestPriorityCmd.label "Cea mai mare">
 
 <!ENTITY contextDesc.label "Aplică filtrul când:">
-<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextDesc.accesskey "A">
 <!ENTITY contextIncoming.label "Se verifică mesajele">
 <!ENTITY contextManual.label "Rulează manual">
 <!ENTITY contextBoth.label "Se verifică mailul sau se rulează manual">
 
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY filterActionDesc.accesskey "E">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mută mesajul în">

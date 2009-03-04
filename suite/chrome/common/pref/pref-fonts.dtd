@@ -24,15 +24,15 @@
 <!ENTITY  cursive.label                           "Cursive:">
 <!ENTITY  cursive.accesskey                       "C">
 
-<!ENTITY  font.langGroup.latin1                   "Manchester">
-<!ENTITY  font.langGroup.latin2                   "European de est">
-<!ENTITY  font.langGroup.japanese                 "Japonez">
+<!ENTITY  font.langGroup.latin1                   "Occidentală">
+<!ENTITY  font.langGroup.latin2                   "Central europeană">
+<!ENTITY  font.langGroup.japanese                 "Japaneză">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese(Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chineză simplificată">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese(Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreeană">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
+<!ENTITY  font.langGroup.cyrillic                 "Chirilică">
+<!ENTITY  font.langGroup.baltic                   "Baltică">
 <!ENTITY  font.langGroup.el                       "Grec">
 <!ENTITY  font.langGroup.turkish                  "Turcesc">
 <!ENTITY  font.langGroup.unicode                  "Alte limbi">
@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Mărime minimă font:">
-<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Nespecificat">
 
 <!-- default font type -->

@@ -41,19 +41,19 @@
 
 <!ENTITY generalInfo.label            "General">
 <!ENTITY bookmarks.name.label         "Denumire:">
-<!ENTITY bookmarks.name.accesskey     "N">
-<!ENTITY bookmarks.location.label     "Amplasament:">
+<!ENTITY bookmarks.name.accesskey     "n">
+<!ENTITY bookmarks.location.label     "Locația:">
 <!ENTITY bookmarks.location.accesskey "L">
 <!ENTITY bookmarks.shortcut.label     "Cuvânt cheie:">
-<!ENTITY bookmarks.shortcut.accesskey "K">
+<!ENTITY bookmarks.shortcut.accesskey "C">
 <!ENTITY bookmarks.description.label  "Colecție locală">
-<!ENTITY bookmarks.description.accesskey "D">
+<!ENTITY bookmarks.description.accesskey "C">
 
 <!ENTITY checkforupdates.legend.label "Verificați această locație pentru actualizări">
 <!ENTITY when.label                   "Când:">
-<!ENTITY when.accesskey               "W">
+<!ENTITY when.accesskey               "C">
 <!ENTITY from.label                   "de la:">
-<!ENTITY from.accesskey               "f">
+<!ENTITY from.accesskey               "d">
 <!ENTITY to.label                     "pentru: ">
 <!ENTITY to.accesskey                 "t">
 <!ENTITY every.label                  "fiecare">
@@ -74,35 +74,35 @@
 <!ENTITY checksundays.label           "Zilele de Duminică">
 
 <!ENTITY midnight.label               "Miezul nopții">
-<!ENTITY AMone.label                  "1 AM">
-<!ENTITY AMtwo.label                  "2 AM">
-<!ENTITY AMthree.label                "3 AM">
-<!ENTITY AMfour.label                 "4 AM">
-<!ENTITY AMfive.label                 "5 AM">
-<!ENTITY AMsix.label                  "6 AM">
-<!ENTITY AMseven.label                "7 AM">
-<!ENTITY AMeight.label                "8 AM">
-<!ENTITY AMnine.label                 "9 AM">
-<!ENTITY AMten.label                  "10 AM">
-<!ENTITY AMeleven.label               "11 AM">
+<!ENTITY AMone.label                  "1">
+<!ENTITY AMtwo.label                  "2">
+<!ENTITY AMthree.label                "3">
+<!ENTITY AMfour.label                 "4">
+<!ENTITY AMfive.label                 "5">
+<!ENTITY AMsix.label                  "6">
+<!ENTITY AMseven.label                "7">
+<!ENTITY AMeight.label                "8">
+<!ENTITY AMnine.label                 "9">
+<!ENTITY AMten.label                  "10">
+<!ENTITY AMeleven.label               "11">
 <!ENTITY noon.label                   "Amiază">
-<!ENTITY PMone.label                  "1 PM">
-<!ENTITY PMtwo.label                  "2 PM">
-<!ENTITY PMthree.label                "3 PM">
-<!ENTITY PMfour.label                 "4 PM">
-<!ENTITY PMfive.label                 "5 PM">
-<!ENTITY PMsix.label                  "6 PM">
-<!ENTITY PMseven.label                "7 PM">
-<!ENTITY PMeight.label                "8 PM">
-<!ENTITY PMnine.label                 "9 PM">
-<!ENTITY PMten.label                  "10 PM">
-<!ENTITY PMeleven.label               "11 PM">
+<!ENTITY PMone.label                  "13">
+<!ENTITY PMtwo.label                  "14">
+<!ENTITY PMthree.label                "15">
+<!ENTITY PMfour.label                 "16">
+<!ENTITY PMfive.label                 "17">
+<!ENTITY PMsix.label                  "18">
+<!ENTITY PMseven.label                "19">
+<!ENTITY PMeight.label                "20">
+<!ENTITY PMnine.label                 "21">
+<!ENTITY PMten.label                  "22">
+<!ENTITY PMeleven.label               "23">
 
 <!ENTITY notification.icon.label      "Schimbați pictograma de marcaj">
-<!ENTITY notification.icon.accesskey  "C">
+<!ENTITY notification.icon.accesskey  "c">
 <!ENTITY notification.sound.label     "Redă un sunet">
-<!ENTITY notification.sound.accesskey "P">
+<!ENTITY notification.sound.accesskey "R">
 <!ENTITY notification.alert.label     "Afișare alertă">
 <!ENTITY notification.alert.accesskey "r">
 <!ENTITY notification.window.label    "Deschideți pagina de web într-o fereastră nouă">
-<!ENTITY notification.window.accesskey "O">
+<!ENTITY notification.window.accesskey "o">

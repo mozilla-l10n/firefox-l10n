@@ -498,11 +498,6 @@
          nc:link="using_priv_help.xhtml#cookies"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="cookies:privacy_levels_for"
-         nc:name="privacy levels"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="cookies:removing"
          nc:name="removing cookies"
          nc:link="using_priv_help.xhtml#removing_cookies"/>
@@ -569,7 +564,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Download_Manager:preferences"
-         nc:name="downoad manager preferences"
+         nc:name="download manager preferences"
          nc:link="cs_nav_prefs_navigator.xhtml#downloads"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -670,71 +665,6 @@
        <rdf:Description ID="font_changing_in_composer"
          nc:name="Font changing in Composer"
          nc:link="composer_help.xhtml#changing_text_color_style_and_font"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Form_Manager"
-         nc:name="Form Manager"
-         nc:link="using_priv_help.xhtml#using_the_form_manager"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="#Form_Manager">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="Form_Manager:encrypting_stored_information"
-         nc:name="encrypting stored information"
-         nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Form_Manager:preferences"
-         nc:name="form manager preferences"
-         nc:link="using_priv_help.xhtml#forms"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Form_Manager:settings"
-         nc:name="form manager settings"
-         nc:link="using_priv_help.xhtml#form_settings"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Form_Manager:using"
-         nc:name="using the form manager"
-         nc:link="using_priv_help.xhtml#using_the_form_manager"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms"
-         nc:name="forms"
-         nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="#forms">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="forms:encrypting_stored_information"
-         nc:name="encrypting stored information"
-         nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms:filling_out_automatically"
-         nc:name="filling out automatically"
-         nc:link="using_priv_help.xhtml#filling_out_forms_automatically"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms:preferences"
-         nc:name="form preferences"
-         nc:link="using_priv_help.xhtml#forms"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms:saving_data"
-         nc:name="saving data from forms"
-         nc:link="using_priv_help.xhtml#saving_form_data"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms:storing_data_from"
-         nc:name="storing data from forms"
-         nc:link="using_priv_help.xhtml#managing_stored_form_data"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1537,11 +1467,6 @@
          nc:link="cs_nav_prefs_appearance.xhtml#fonts"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="preferences:forms"
-         nc:name="form preferences"
-         nc:link="using_priv_help.xhtml#forms"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="preferences:helper_applications"
          nc:name="helper application preferences"
          nc:link="cs_nav_prefs_navigator.xhtml#helper_applications"/>
@@ -1647,16 +1572,6 @@
          nc:link="privacy_help.xhtml#internet_address"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="privacy:P3P_levels"
-         nc:name="P3P levels"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:P3P_standard_and"
-         nc:name="P3P standard"
-         nc:link="page_info_help.xhtml"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="privacy:preferences"
          nc:name="privacy preferences"
          nc:link="privsec_help.xhtml"/>
@@ -1665,11 +1580,6 @@
        <rdf:Description ID="privacy:protecting"
          nc:name="protecting your privacy"
          nc:link="privacy_help.xhtml#using_privacy_features"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:settings"
-         nc:name="privacy settings"
-         nc:link="using_priv_help.xhtml#privacy_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="privacy:viewing_site_policy"

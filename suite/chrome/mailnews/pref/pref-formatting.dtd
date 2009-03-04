@@ -52,9 +52,9 @@
 <!ENTITY domain.title                 "HTML and Plain Text Domains">
 <!ENTITY domaindesc.label             "When you send a message to an address with one of the domain names listed below, Mail automatically sends the message in the preferred format (formatted text or plain text).">
 <!ENTITY HTMLdomaintitle.label        "Domenii cu HTML">
-<!ENTITY HTMLdomaintitle.accesskey    "M">
+<!ENTITY HTMLdomaintitle.accesskey    "m">
 <!ENTITY PlainTexttitle.label         "Domenii cu text simplu">
-<!ENTITY PlainTexttitle.accesskey     "P">
+<!ENTITY PlainTexttitle.accesskey     "p">
 <!ENTITY AddButton.label              "Adaugă…">
 <!ENTITY AddHtmlDomain.accesskey      "a">
 <!ENTITY AddPlainText.accesskey       "d">

@@ -44,27 +44,27 @@
 <!ENTITY newContact.label                               "Contact…">
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "C">
-<!ENTITY newListCmd.label                               "O listă nouă de expediție...">
+<!ENTITY newListCmd.label                               "O listă nouă de expediție…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newListCmd.accesskey                           "L">  
-<!ENTITY newAddressBookCmd.label                        "o nouă listă de contacte..."> 
+<!ENTITY newListCmd.accesskey                           "l">  
+<!ENTITY newAddressBookCmd.label                        "o nouă listă de contacte…"> 
 <!ENTITY newAddressBookCmd.accesskey                    "o">  
-<!ENTITY newLDAPDirectoryCmd.label                      "un nou director LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label                      "un nou director LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "d">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Tipărește contactul…">
-<!ENTITY printContactViewCmd.accesskey                  "P">
+<!ENTITY printContactViewCmd.accesskey                  "p">
 <!ENTITY printPreviewContactViewCmd.label               "Previzualizare tipărire contact">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
 <!ENTITY printContactViewCmd.key                        "P">
-<!ENTITY printAddressBook.label                         "Tipărește agenda de contacte..."> 
-<!ENTITY printAddressBook.accesskey                     "A"> 
+<!ENTITY printAddressBook.label                         "Tipărește agenda de contacte…"> 
+<!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Previz. imprimare carte adrese"> 
-<!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printSetupCmd.label                            "Aranjare în pagină...">
-<!ENTITY printSetupCmd.accesskey                        "u">
+<!ENTITY printPreviewAddressBook.accesskey              "P">
+<!ENTITY printSetupCmd.label                            "Aranjare în pagină…">
+<!ENTITY printSetupCmd.accesskey                        "A">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">  
@@ -74,30 +74,30 @@
 <!ENTITY deleteListsCmd.label                           "Delete Selected Lists">
 <!ENTITY deleteItemsCmd.label                           "Delete Selected Items">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Interschimbă numele cu prenumele">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">  
-<!ENTITY propertiesCmd.label                            "Proprietăți...">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "I">  
+<!ENTITY propertiesCmd.label                            "Proprietăți…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY propertiesCmd.accesskey                        "i">  
 <!ENTITY propertiesCmd.key                              "C">  
 
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "Bara Agendă"> 
-<!ENTITY showAbToolbarCmd.accesskey                     "o">  
+<!ENTITY showAbToolbarCmd.accesskey                     "B">  
 
 <!ENTITY showCardPane.label                             "Panou fișă">
-<!ENTITY showCardPane.accesskey                         "C">
+<!ENTITY showCardPane.accesskey                         "P">
   
 <!ENTITY menu_ShowNameAs.label                          "Afișează numele în forma"> 
-<!ENTITY menu_ShowNameAs.accesskey                      "S"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "A"> 
 <!ENTITY firstLastCmd.label                             "First Last">  
 <!ENTITY firstLastCmd.accesskey                         "F"> 
 <!ENTITY lastFirstCmd.label                             "Nume, Prenume">  
-<!ENTITY lastFirstCmd.accesskey                         "L"> 
+<!ENTITY lastFirstCmd.accesskey                         "N"> 
 <!ENTITY displayNameCmd.label                           "Nume de afișat">  
-<!ENTITY displayNameCmd.accesskey                       "D"> 
+<!ENTITY displayNameCmd.accesskey                       "d"> 
 
 <!-- Tasks Menu -->
-<!ENTITY importCmd.label                                "Importă">
+<!ENTITY importCmd.label                                "Importă…">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportă...">
 <!ENTITY exportCmd.accesskey                            "E">
@@ -114,9 +114,10 @@
 <!ENTITY newmsgButton.label                             "Compune">  
 <!ENTITY newmsgButton.accesskey                         "C">  
 <!ENTITY deleteItemButton.label                         "Șterge elementul">
-<!ENTITY deleteItemButton.accesskey                     "D">
+<!ENTITY deleteItemButton.accesskey                     "t">
 <!ENTITY newimButton.label                              "Mesaj instantaneu">  
-<!ENTITY newimButton.accesskey                          "I">  
+<!ENTITY newimButton.accesskey                          "i">  
+<!ENTITY searchNameAndEmail.emptytext                   "Search Name and Email">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Bara Agendă">

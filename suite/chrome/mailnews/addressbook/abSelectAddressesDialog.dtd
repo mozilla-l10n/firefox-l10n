@@ -40,21 +40,21 @@
 
 <!-- Buttons -->
 <!ENTITY toButton.label                      "Către->"> 
-<!ENTITY toButton.accesskey                  "T"> 
+<!ENTITY toButton.accesskey                  "t"> 
 <!ENTITY ccButton.label                      "Cc->"> 
 <!ENTITY ccButton.accesskey                  "C"> 
 <!ENTITY bccButton.label                     "Bcc->">  
 <!ENTITY bccButton.accesskey                 "B">  
-<!ENTITY newButton.label                     "Nouă..."> 
+<!ENTITY newButton.label                     "Nou…"> 
 <!ENTITY newButton.accesskey                 "N"> 
 <!ENTITY editButton.label                    "Editează"> 
 <!ENTITY editButton.accesskey                "E">
 <!ENTITY removeButton.label                  "Eliminați"> 
-<!ENTITY removeButton.accesskey              "R"> 
+<!ENTITY removeButton.accesskey              "E"> 
 <!ENTITY lookIn.label                        "Privește în:"> 
-<!ENTITY lookIn.accesskey                    "L"> 
+<!ENTITY lookIn.accesskey                    "P"> 
 <!ENTITY for.label                           "pentru:"> 
-<!ENTITY for.accesskey                       "f"> 
+<!ENTITY for.accesskey                       "p"> 
 <!ENTITY addressMessageTo.label              "Mesaj adresat către:"> 
 
 <!-- Tooltips items -->  

@@ -11,22 +11,24 @@
 <!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "Mesaje mai vechi de">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Pentru economisirea spațiului pe disc, se pot șterge permanent mesajele vechi.">
+<!ENTITY retentionCleanup.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse pentru totdeauna.">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both the local copies and their originals on the server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including their originals on the server.">
 <!ENTITY retentionKeepMsg.label "Șterge mesajele mai vechi de">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Nu șterge niciun mesaj">
-<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepNew.label "Șterge toate în afară de ultimele">
-<!ENTITY retentionKeepNew.accesskey "b">
+<!ENTITY retentionKeepNew.accesskey "t">
 <!ENTITY retentionKeepUnread.label "Șterge întotdeauna mesajele citite">
-<!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY retentionKeepUnread.accesskey "t">
 <!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Doar corpurile mesajelor de mai puțin de">
-<!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat...">
-<!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Avansat...">
+<!ENTITY nntpRemoveBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat…">
+<!ENTITY offlineSelectNntp.accesskey "s">
+<!ENTITY offlineImapAdvancedOffline.label "Avansat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronizare mesaje">
 <!ENTITY diskspaceGroupTitle.label "Avertizare spațiu de disc">

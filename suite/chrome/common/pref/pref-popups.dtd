@@ -6,11 +6,11 @@
 <!ENTITY popupBlock.accesskey           "B">
 
 <!ENTITY popupExceptions.label          "Site-uri Permise">
-<!ENTITY popupExceptions.accesskey      "A">
+<!ENTITY popupExceptions.accesskey      "S">
 
 <!ENTITY whenBlock.description          "When a popup window has been blocked:">
 <!ENTITY playSound.label                "Redați un sunet:">
-<!ENTITY playSound.accesskey            "P">
+<!ENTITY playSound.accesskey            "R">
 <!ENTITY systemSound.label              "System beep">
 <!ENTITY systemSound.accesskey          "S">
 <!ENTITY customSound.label              "Custom sound file">
@@ -27,7 +27,7 @@
 <!ENTITY displayIcon.accesskey          "D">
 
 <!ENTITY displayNotification.label      "Display a notification bar at the top of the content area">
-<!ENTITY displayNotification.accesskey  "D">
+<!ENTITY displayNotification.accesskey  "n">
 
 <!ENTITY popupNote.description          "Note: Blocking all popups may prevent important features of some websites from working, such as login windows for banks and shopping sites. For details of how to allow specific sites to use popups while blocking all others, click Help. Even if blocked, sites may use other methods to show popups.">
 

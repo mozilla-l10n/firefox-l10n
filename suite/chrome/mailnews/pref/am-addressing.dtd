@@ -7,12 +7,12 @@
 <!ENTITY addressingText.label      "La căutarea adreselor:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Folosește pentru acest cont preferințele globale pentru servere LDAP">
-<!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "Editează directoarele...">
+<!ENTITY useGlobal.accesskey       "u">
+<!ENTITY editDirectories.label     "Editează repertoare…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Folosește un alt server LDAP:">
-<!ENTITY directories.accesskey     "d">
+<!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Nespecificat">
 
 <!-- am-addressing.xul -->
@@ -20,12 +20,12 @@
 <!ENTITY compositionGroupTitle.label "Redactare">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Redactează mesajele în format HTML">
-<!ENTITY useHtml.accesskey                    "C">
+<!ENTITY useHtml.accesskey                    "c">
 <!ENTITY autoQuote.label                      "La răspuns, citează automat din mesajul original">
 <!ENTITY autoQuote.accesskey                  "m">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Apoi,">
-<!ENTITY then.accesskey                       "T">
+<!ENTITY then.accesskey                       "A">
 <!ENTITY aboveQuote.label                     "începe răspunsul deasupra textului citat">
 <!ENTITY belowQuote.label                     "începe răspunsul sub textul citat">
 <!ENTITY selectAndQuote.label                 "selectează textul citat">

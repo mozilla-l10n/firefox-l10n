@@ -3,11 +3,11 @@
 
 <!ENTITY closeCmd.label                 "Închide">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "c">
 
 <!ENTITY quitApplicationCmd.label       "_Închide"> 
 <!ENTITY quitApplicationCmd.key         "Q"> 
-<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmd.accesskey   "n">
 
 <!ENTITY redoCmd.label                  "Refacere">  
 <!ENTITY redoCmd.key                    "Y">  
@@ -20,7 +20,7 @@
 
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label              "Ajutor conținut">
-<!ENTITY openHelpCmd.accesskey          "H">
+<!ENTITY openHelpCmd.accesskey          "A">
 <!ENTITY openHelpCmd.key                "VK_F1">
 
 <!-- Key labels, for mousewheel prefs -->

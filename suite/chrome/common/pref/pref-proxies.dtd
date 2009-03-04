@@ -5,13 +5,13 @@
 <!ENTITY  pref.proxies.desc             "A Proxy is a network service that can filter and speed up your Internet connection.">
 <!ENTITY  proxyTitle.label              "Configurare de servere proxy pentru acces la internet">
 <!ENTITY  directTypeRadio.label         "Conexiune directă la internet">
-<!ENTITY  directTypeRadio.accesskey     "D">
+<!ENTITY  directTypeRadio.accesskey     "d">
 <!ENTITY  systemTypeRadio.label         "Folosește setările proxy ale sistemului">
-<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  manualTypeRadio.label         "Configurare proxy manuală:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  wpadTypeRadio.label           "Detectează automat setările pentru Proxy">
-<!ENTITY  wpadTypeRadio.accesskey       "A">
+<!ENTITY  wpadTypeRadio.accesskey       "a">
 <!ENTITY  autoTypeRadio.label           "URL de configurare proxy automată:">
 <!ENTITY  autoTypeRadio.accesskey       "c">
 <!ENTITY  reload.label                  "Reîncarcă">
@@ -20,7 +20,7 @@
 <!ENTITY  http.accesskey                "P">
 <!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPPort.accesskey            "o">
-<!ENTITY  advanced.label                "Avansat...">
+<!ENTITY  advanced.label                "Avansat…">
 <!ENTITY  advanced.accesskey            "v">
 <!ENTITY  noproxy.label                 "Niciun proxy pentru:">
 <!ENTITY  noproxy.accesskey             "N">

@@ -39,7 +39,7 @@
 <!ENTITY modeToolbar.tooltip   "Bara de unelte pentru moduri">
 <!ENTITY entryToolbar.tooltip  "Javascript Entry Toolbar">
 <!ENTITY toolbarsCmd.label     "Arată/Ascunde">
-<!ENTITY toolbarsCmd.accesskey "w">
+<!ENTITY toolbarsCmd.accesskey "A">
 <!ENTITY toolbarMode.label     "Mod">
 <!ENTITY toolbarMode.accesskey "M">
 <!ENTITY toolbarEval.label     "JavaScript Entry">

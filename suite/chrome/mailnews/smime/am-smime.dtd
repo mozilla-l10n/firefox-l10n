@@ -8,21 +8,21 @@
 <!ENTITY alwaysEncryptMessage.label "Criptează întotdeauna (mesajul se trimite doar dacă toți destinatarii au certificate)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Folosește acest certificat pentru a cripta și decripta mesajele pe care le primesc:">
-<!ENTITY digitalSign.certificate.button "Selectează...">
+<!ENTITY digitalSign.certificate.button "Selectează…">
 <!ENTITY digitalSign.certificate.accesskey "F">
 <!ENTITY digitalSign.certificate_clear.button "Șterge">
 <!ENTITY digitalSign.certificate_clear.accesskey "A">
-<!ENTITY encryption.certificate.button "Selectează...">
+<!ENTITY encryption.certificate.button "Selectează…">
 <!ENTITY encryption.certificate.accesskey "u">
 <!ENTITY encryption.certificate_clear.button "Șterge">
 <!ENTITY encryption.certificate_clear.accesskey "l">
 <!ENTITY signingGroupTitle.label "Semnătură electronică">
 <!ENTITY signMessage.label "Semnează (implicit) mesajele">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY signMessage.accesskey "S">
 <!ENTITY signingCert.message "Folosește acest certificat pentru a semna electronic mesajele pe care le trimit:">
 
 <!ENTITY certificates.label "Certificate">
 <!ENTITY manageCerts.label "Gestionează certificatele...">
-<!ENTITY manageCerts.accesskey "M">
+<!ENTITY manageCerts.accesskey "G">
 <!ENTITY manageDevices.label "Gestionează dispozitivele de securitate...">
-<!ENTITY manageDevices.accesskey "g">
+<!ENTITY manageDevices.accesskey "G">

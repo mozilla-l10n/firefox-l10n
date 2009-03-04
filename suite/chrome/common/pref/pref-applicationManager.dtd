@@ -1,4 +1,4 @@
 <!ENTITY appManager.title     "Detaliile aplicației">
 <!ENTITY appManager.style     "width: 40ch; min-height: 20em;">
 <!ENTITY remove.label         "Eliminați">
-<!ENTITY remove.accesskey     "R">
+<!ENTITY remove.accesskey     "E">

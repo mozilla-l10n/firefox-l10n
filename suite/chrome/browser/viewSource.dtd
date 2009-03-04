@@ -11,17 +11,17 @@
 <!ENTITY viewPartialSourceWindow.title "DOM Source">
 
 <!ENTITY menu_wrapLongLines.title "Înfășoară rândurile lungi"> 
-<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_wrapLongLines.accesskey "n">
 
 <!ENTITY menu_highlightSyntax.label "Evidențiere sintaxă">
-<!ENTITY menu_highlightSyntax.accesskey "H">
+<!ENTITY menu_highlightSyntax.accesskey "E">
 
 <!ENTITY findNextCmd.label "Caută următorul">
-<!ENTITY findNextCmd.accesskey "n">
+<!ENTITY findNextCmd.accesskey "C">
 
 <!ENTITY goToLineCmd.label "Salt la rândul...">
-<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.accesskey "S">
 <!ENTITY goToLineCmd.commandkey "g">
 
-<!ENTITY printSetupCmd.label "Aranjare în pagină...">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Aranjare în pagină…">
+<!ENTITY printSetupCmd.accesskey "A">

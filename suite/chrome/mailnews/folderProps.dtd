@@ -42,7 +42,7 @@
 
 <!ENTITY generalInfo.label                       "Informații generale">
 <!ENTITY folderCharsetTab.label                  "Codare caractere implicită:">
-<!ENTITY folderCharsetTab.accesskey              "E">
+<!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "Aplică această codare implicit tuturor mesajelor din dosar (se vor ignora setările din mesaje precum și detecția automată)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFile.label          "Reconstruiește fișierul sumar">
@@ -51,10 +51,12 @@
 
 <!ENTITY retention.label "Politica de păstrare">
 <!ENTITY retentionUseDefault.label "Utilizează setările implicite ale serverului">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseDefault.accesskey "U">
 <!ENTITY daysOld.label "zile">
 <!ENTITY message.label "mesaj">
-<!ENTITY retentionCleanup.label "Keep:">
+<!ENTITY retentionCleanup.label "Keep messages:">
+<!ENTITY retentionCleanupImap.label "Keep messages, both the local copies and their originals on the server:">
+<!ENTITY retentionCleanupPop.label "Keep messages, including their originals on the server:">
 <!ENTITY retentionDeleteMsg.label "Șterge mesajele mai vechi de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "All messages">
@@ -68,7 +70,7 @@
 
 <!ENTITY folderOfflineTab.label                  "Deconectați">
 <!ENTITY folderCheckForNewMessages.label         "Verifică dacă sunt mesaje noi în acest dosar">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY folderCheckForNewMessages.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Selectează acest dosar pentru utilizare în mod deconectat">
 <!ENTITY offlineFolder.check.accesskey           "S">
@@ -81,12 +83,12 @@
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
 <!ENTITY folderProps.name.label                  "Denumire:">
-<!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Amplasament:">
+<!ENTITY folderProps.name.accesskey              "n">
+<!ENTITY folderProps.location.label              "Locația:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Partajare">
-<!ENTITY privileges.button.label                 "Privilegii...">
+<!ENTITY privileges.button.label                 "Privilegii…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Aveți următoarele drepturi:">
 <!ENTITY folderType.label                        "Tip dosar:">

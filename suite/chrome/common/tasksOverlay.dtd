@@ -1,6 +1,6 @@
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY navigatorCmd.label "Navigator">
-<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label					"Compozitor">
@@ -18,25 +18,25 @@
 <!ENTITY taskComposer.tooltip  "Compozitor">
 
 <!ENTITY webDevelopment.label "Dezvoltare web">
-<!ENTITY webDevelopment.accesskey "W">
+<!ENTITY webDevelopment.accesskey "w">
 
 <!ENTITY windowMenu.label "Fereastră">
-<!ENTITY windowMenu.accesskey "W">
+<!ENTITY windowMenu.accesskey "F">
 
 <!ENTITY tasksMenu.label "Unelte">
-<!ENTITY tasksMenu.accesskey "T"> 
+<!ENTITY tasksMenu.accesskey "t"> 
 
 <!ENTITY passwordManagerCmd.label "Manager de parole">
-<!ENTITY passwordManagerCmd.accesskey "P">
+<!ENTITY passwordManagerCmd.accesskey "p">
 
 <!ENTITY passwordDisplayCmd.label "Manage Stored Passwords">
 <!ENTITY passwordDisplayCmd.accesskey "M">
 
 <!ENTITY passwordExpireCmd.label "Deconectează">
-<!ENTITY passwordExpireCmd.accesskey "L">
+<!ENTITY passwordExpireCmd.accesskey "D">
 
 <!ENTITY downloadManagerCmd.label "Administrator descărcări">
-<!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY downloadManagerCmd.accesskey "d">
 
 <!ENTITY addonsManagerCmd.label "Add-on Manager">
 <!ENTITY addonsManagerCmd.accesskey "A">

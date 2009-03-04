@@ -45,7 +45,7 @@
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "a">
 <!ENTITY  selectall.label       "Selectați tot">
-<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  selectall.accesskey   "a">
 <!ENTITY  closeWindow.key       "c">
 
 <!ENTITY  generalTab            "General">
@@ -61,7 +61,7 @@
 <!ENTITY  generalMetaName       "Denumire">
 <!ENTITY  generalMetaContent    "Conținut">
 <!ENTITY  generalSecurityMore   "Mai multe">
-<!ENTITY  generalSecurityMore.accesskey "o">
+<!ENTITY  generalSecurityMore.accesskey "M">
 
 <!ENTITY  formsTab              "Formă">
 <!ENTITY  formsTab.accesskey    "F">
@@ -99,8 +99,8 @@
 <!ENTITY  mediaTitle            "Denumire:">
 <!ENTITY  mediaLongdesc         "Descriere lungă:">
 <!ENTITY  mediaBlockImage.accesskey "R">
-<!ENTITY  mediaSaveAs           "Salvează ca...">
-<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs           "Salvează ca…">
+<!ENTITY  mediaSaveAs.accesskey "a">
 <!ENTITY  mediaSaveAs2.accesskey "l">
 <!ENTITY  mediaPreview          "Previzualizare media:">
 

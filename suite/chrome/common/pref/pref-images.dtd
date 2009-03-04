@@ -13,7 +13,7 @@
 <!ENTITY accOrgImagesRadio.label        "Accept images that come from the originating server only">
 <!ENTITY accOrgImagesRadio.accesskey    "r">
 <!ENTITY disableImages.label            "Nu încărca imagini">
-<!ENTITY disableImages.accesskey        "n">
+<!ENTITY disableImages.accesskey        "N">
 <!ENTITY viewImages.label               "Manage Image Permissions">
 <!ENTITY viewImages.accesskey           "P">
 <!ENTITY animLoopingTitle.label         "Animated images should loop">
@@ -22,4 +22,4 @@
 <!ENTITY animLoopOnce.label             "O dată">
 <!ENTITY animLoopOnce.accesskey         "O">
 <!ENTITY animLoopNever.label            "Niciodată">
-<!ENTITY animLoopNever.accesskey        "v">
+<!ENTITY animLoopNever.accesskey        "N">

@@ -1,43 +1,43 @@
 <!-- these things need to move into utilityOverlay.xul -->
 <!ENTITY  offlineGoOfflineCmd.label                 "Lucrează offline">
-<!ENTITY  offlineGoOfflineCmd.accesskey             "k">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "L">
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 <!ENTITY fileMenu.label					"Fișierul"> 
 <!ENTITY fileMenu.accesskey				"F">
 <!ENTITY newMenu.label						"Adaugă">
-<!ENTITY newMenu.accesskey					"N">
+<!ENTITY newMenu.accesskey					"A">
 <!ENTITY newBlankPageCmd.label "Pagină Composer">
 <!ENTITY newBlankPageCmd.accesskey "P" >
 <!ENTITY newBlankPageCmd.key "n" >
 <!ENTITY newPageFromTemplateCmd.label "Page Using Template">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "Page Using Draft">
-<!ENTITY newPageFromDraftCmd.accesskey "P">
+<!ENTITY newPageFromDraftCmd.accesskey "D">
 <!ENTITY newNavigatorCmd.label "Browser Window">
 <!ENTITY newNavigatorCmd.key "V">
 <!ENTITY newNavigatorCmd.accesskey "B">
 
 <!ENTITY editMenu.label					"Modificare"> 
-<!ENTITY editMenu.accesskey				"E"> 
-<!ENTITY undoCmd.label						"Undo">  
+<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY undoCmd.label						"Anulează">  
 <!ENTITY undoCmd.key						"Z">  
-<!ENTITY undoCmd.accesskey					"U"> 
+<!ENTITY undoCmd.accesskey					"u"> 
 <!ENTITY redoCmd.label						"Refacere">  
 <!ENTITY redoCmd.key						"Y">  
 <!ENTITY redoCmd.accesskey					"R"> 
 <!ENTITY cutCmd.label						"Tăiați">  
 <!ENTITY cutCmd.key							"X">  
-<!ENTITY cutCmd.accesskey					"t"> 
+<!ENTITY cutCmd.accesskey					"T"> 
 <!ENTITY copyCmd.label						"Copiați">  
 <!ENTITY copyCmd.key						"A">  
 <!ENTITY copyCmd.accesskey					"C"> 
 <!ENTITY pasteCmd.label						"Lipiți">  
 <!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"P"> 
+<!ENTITY pasteCmd.accesskey					"p"> 
 <!ENTITY deleteCmd.label					"Șterge elementul">  
-<!ENTITY deleteCmd.accesskey				"D"> 
+<!ENTITY deleteCmd.accesskey				"t"> 
 <!ENTITY selectAllCmd.label					"Selectați tot">  
 <!ENTITY selectAllCmd.key					"a">  
 <!ENTITY selectAllCmd.accesskey				"S"> 
@@ -52,21 +52,21 @@
 <!ENTITY viewMenu.label					"Vizualizează jurnal"> 
 <!ENTITY viewMenu.accesskey				"V"> 
 <!ENTITY viewToolbarsMenu.label				"Arată/Ascunde"> 
-<!ENTITY viewToolbarsMenu.accesskey			"w"> 
+<!ENTITY viewToolbarsMenu.accesskey			"A"> 
 <!ENTITY showTaskbarCmd.label					"Bară de stare">  
-<!ENTITY showTaskbarCmd.accesskey				"S"> 
+<!ENTITY showTaskbarCmd.accesskey				"s"> 
 
 <!ENTITY helpMenu.label					"Ajutor"> 
-<!ENTITY helpMenu.accesskey				"H"> 
+<!ENTITY helpMenu.accesskey				"A"> 
 
 <!ENTITY releaseCmd.label				"Note de lansare">
 <!ENTITY releaseCmd.accesskey                   "N">
-<!ENTITY updateCmd.label                        "Caută actualizări...">
+<!ENTITY updateCmd.label                        "Caută actualizări…">
 <!ENTITY updateCmd.accesskey                    "C">
 <!ENTITY aboutCmd.label					"Despre &brandShortName;">
-<!ENTITY aboutCmd.accesskey				"A">
+<!ENTITY aboutCmd.accesskey				"D">
 <!ENTITY aboutCommPluginsCmd.label			"Despre plugin-uri">
-<!ENTITY aboutCommPluginsCmd.accesskey			"A">
+<!ENTITY aboutCommPluginsCmd.accesskey			"D">
 
 <!ENTITY direct.label                                   "Online (Proxy: None)">
 <!ENTITY direct.accesskey                               "N">
@@ -79,20 +79,20 @@
 <!ENTITY system.label                                   "Online (Proxy: System Proxy)">
 <!ENTITY system.accesskey                               "S">
 
-<!ENTITY proxy.label                                    "Configurare proxy...">
+<!ENTITY proxy.label                                    "Configurare proxy…">
 <!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Schimbă direcția textului">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "S">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY customizeToolbarContext.label            "Personalizează...">
-<!ENTITY customizeToolbarContext.accesskey        "C">
+<!ENTITY customizeToolbarContext.label            "Personalizare…">
+<!ENTITY customizeToolbarContext.accesskey        "P">
 
 <!ENTITY customizeToolbar.toolbarmode.label       "Settings for this toolbar">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "e">
 <!ENTITY customizeToolbar.iconsAndText.label      "Iconițe și text">
-<!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "I">
 <!ENTITY customizeToolbar.icons.label             "Pictograme">
 <!ENTITY customizeToolbar.icons.accesskey         "o">
 <!ENTITY customizeToolbar.text.label              "Text">
@@ -109,4 +109,4 @@
 <!ENTITY showPopupManager.label       "Manage Popups">
 <!ENTITY showPopupManager.accesskey   "M">
 <!ENTITY dontShowMessage.label        "Nu afișa acest mesaj când sunt blocate ferestre popup">
-<!ENTITY dontShowMessage.accesskey    "D">
+<!ENTITY dontShowMessage.accesskey    "d">
