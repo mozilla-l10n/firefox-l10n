@@ -51,7 +51,7 @@
 <!ENTITY event.edit.event.accesskey                        "E">
 
 <!ENTITY event.delete.event                                "Șterge evenimentele selectate">
-<!ENTITY event.delete.event.accesskey                      "Ș">
+<!ENTITY event.delete.event.accesskey                      "t">
 
 <!ENTITY event.delete.tasks                                "Șterge sarcinile selectate">
 <!ENTITY event.delete.tasks.accesskey                      "t">
