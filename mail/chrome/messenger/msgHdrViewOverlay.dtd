@@ -37,23 +37,23 @@
 
 <!ENTITY toField2.label "tới ">
 <!ENTITY fromField2.label "từ ">
-<!ENTITY senderField2.label "người-gửi ">
-<!ENTITY organizationField2.label "tổ-chức ">
-<!ENTITY replyToField2.label "trả-lời-tới ">
+<!ENTITY senderField2.label "nhờ ">
+<!ENTITY organizationField2.label "tổ chức ">
+<!ENTITY replyToField2.label "trả lời tới ">
 
 <!ENTITY subjectField2.label "tiêu đề ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "nhóm-tin ">
-<!ENTITY followupToField2.label "theo-sau-tới ">
-<!ENTITY tagsHdr2.label "thẻ-tag ">
+<!ENTITY newsgroupsField2.label "nhóm tin ">
+<!ENTITY followupToField2.label "trả lời tin tại ">
+<!ENTITY tagsHdr2.label "thẻ tag ">
 <!ENTITY dateField2.label "ngày ">
-<!ENTITY userAgentField2.label "đại-diện-người-dùng ">
-<!ENTITY referencesField2.label "nơi-trỏ-tới ">
-<!ENTITY messageIdField2.label "id-thư ">
-<!ENTITY inReplyToField2.label "để-trả-lời-tới ">
-<!ENTITY originalWebsite2.label "trang-web ">
+<!ENTITY userAgentField2.label "chương trình ">
+<!ENTITY referencesField2.label "tham khảo ">
+<!ENTITY messageIdField2.label "id thư ">
+<!ENTITY inReplyToField2.label "để trả lời ">
+<!ENTITY originalWebsite2.label "trang web ">
 
 <!ENTITY editMessageDescription.label "Đây là một thư nháp">
 <!ENTITY editMessageButton.label "Chỉnh sửa…">
@@ -89,6 +89,6 @@
 <!ENTITY copyLinkCmd.label        "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyLinkCmd.accesskey    "a">
 
-<!ENTITY CopyMessageId.label "Chép ID-Thư">
+<!ENTITY CopyMessageId.label "Chép ID Thư">
 <!ENTITY OpenMessageForMsgId.label "Mở Thư Để Đọc ID">
-<!ENTITY OpenBrowserWithMsgId.label "Mở Trình Duyệt Với ID-Thư">
+<!ENTITY OpenBrowserWithMsgId.label "Mở Trình Duyệt Với ID Thư">

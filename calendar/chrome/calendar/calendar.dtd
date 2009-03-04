@@ -1,0 +1,331 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 ArentJan Banck <ajbanck@planet.nl>
+   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Simon Paquet <bugzilla@babylonsounds.com>
+   -                 Stefan Sitter <ssitter@gmail.com>
+   -                 Philipp Kewisch <mozilla@kewis.ch>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- General -->
+<!ENTITY calendar.calendar.label     "Lịch">
+<!ENTITY calendar.calendar.accesskey "L">
+
+<!ENTITY calendar.dayView.key                  "1" >
+<!ENTITY calendar.weekView.key                 "2" >
+<!ENTITY calendar.multiweekView.key            "3" >
+<!ENTITY calendar.monthView.key                "4" >
+
+<!ENTITY calendar.newevent.button.tooltip         "Tạo một sự kiện mới" >
+<!ENTITY calendar.newtask.button.tooltip          "Tạo một tác vụ mới" >
+
+<!ENTITY calendar.unifinder.todoitems.label       "Tác vụ" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Hiện các Tác vụ đã hoàn tất">
+
+<!ENTITY calendar.today.button.label       "Hôm nay">
+<!ENTITY calendar.tomorrow.button.label       "Ngày mai">
+<!ENTITY calendar.soon.button.label           "Sớm">
+
+<!ENTITY calendar.events.filter.all.label "Tất cả Sự kiện">
+<!ENTITY calendar.events.filter.today.label "Sự kiện Hôm nay">
+<!ENTITY calendar.events.filter.future.label "Tất cả Sự kiện Tương lai">
+<!ENTITY calendar.events.filter.current.label "Ngày đang Được chọn Hiện tại">
+<!ENTITY calendar.events.filter.next7Days.label "Sự kiện trong 7 Ngày Tới">
+<!ENTITY calendar.events.filter.next14Days.label "Sự kiện trong 14 Ngày Tới">
+<!ENTITY calendar.events.filter.next31Days.label "Sự kiện trong 31 Ngày Tới">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Sự kiện trong Tháng này">
+
+<!ENTITY calendar.unifinder.tree.done.label          "Xong">
+<!ENTITY calendar.unifinder.tree.priority.label      "Ưu tiên">
+<!ENTITY calendar.unifinder.tree.title.label         "Tiêu đề">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "Hoàn tất &#37;">
+<!ENTITY calendar.unifinder.tree.startdate.label     "Bắt đầu">
+<!ENTITY calendar.unifinder.tree.enddate.label       "Kết thúc">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Đến hạn">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Hoàn tất">
+<!ENTITY calendar.unifinder.tree.categories.label    "Phân mục">
+<!ENTITY calendar.unifinder.tree.location.label      "Địa điểm">
+<!ENTITY calendar.unifinder.tree.status.label        "Trạng thái">
+<!ENTITY calendar.unifinder.tree.calendarname.label  "Tên Lịch">
+<!ENTITY calendar.unifinder.tree.duration.label      "Đến hạn trong">
+<!ENTITY calendar.unifinder.close.tooltip            "Đóng tìm kiếm và danh sách sự kiện">
+
+<!ENTITY calendar.today.button.tooltip            "Nhảy tới hôm nay" >
+<!ENTITY calendar.todaypane.button.tooltip        "Hiện bảng Ngày Hôm Nay" >
+
+<!ENTITY calendar.day.button.tooltip            "Chuyển sang xem theo ngày" >
+<!ENTITY calendar.week.button.tooltip           "Chuyển sang xem theo tuần" >
+<!ENTITY calendar.month.button.tooltip          "Chuyển sang xem theo tháng" >
+<!ENTITY calendar.multiweek.button.tooltip      "Chuyển sang xem theo nhiều tuần" >
+
+<!ENTITY calendar.nextday.button.tooltip        "Ngày Sau" >
+<!ENTITY calendar.prevday.button.tooltip        "Ngày Trước" >
+<!ENTITY calendar.nextweek.button.tooltip       "Tuần Sau" >
+<!ENTITY calendar.prevweek.button.tooltip       "Tuần Trước" >
+<!ENTITY calendar.nextmonth.button.tooltip      "Tháng Sau" >
+<!ENTITY calendar.prevmonth.button.tooltip      "Tháng Trước" >
+
+<!ENTITY calendar.newevent.button.label         "Sự kiện Mới" >
+<!ENTITY calendar.newtask.button.label          "Tác vụ Mới" >
+<!ENTITY calendar.print.button.label            "In" >
+
+<!ENTITY calendar.export.calendar                "Xuất Lịch…" >
+
+<!ENTITY calendar.day.button.label              "Ngày" >
+<!ENTITY calendar.week.button.label             "Tuần" >
+<!ENTITY calendar.month.button.label            "Tháng" >
+<!ENTITY calendar.multiweek.button.label        "Nhiều Tuần" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Chỉ hiện các ngày làm việc" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "l" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Tác vụ trong Trang lịch" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "v" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Hiện các Tác vụ đã hoàn tất" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "H" >
+
+<!ENTITY calendar.orientation.label "Xoay bố cục Trang lịch" >
+<!ENTITY calendar.orientation.accesskey "X" >
+
+<!ENTITY calendar.search.options.searchfor " chứa">
+
+<!ENTITY calendar.list.header.label                 "Lịch">
+
+<!ENTITY calendar.task.filter.title.label           "Hiện">
+<!ENTITY calendar.task.filter.all.label             "Tất cả">
+<!ENTITY calendar.task.filter.all.accesskey         "T">
+<!ENTITY calendar.task.filter.today.label           "Hôm nay">
+<!ENTITY calendar.task.filter.today.accesskey       "H">
+<!ENTITY calendar.task.filter.next7days.label       "Bảy Ngày Tới">
+<!ENTITY calendar.task.filter.next7days.accesskey   "B">
+<!ENTITY calendar.task.filter.notstarted.label      "Tác vụ Chưa bắt đầu">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "Tác vụ Quá hạn">
+<!ENTITY calendar.task.filter.overdue.accesskey     "Q">
+<!ENTITY calendar.task.filter.completed.label       "Tác vụ đã Hoàn tất">
+<!ENTITY calendar.task.filter.completed.accesskey   "o">
+<!ENTITY calendar.task.filter.open.label            "Tác vụ Chưa hoàn tất">
+<!ENTITY calendar.task.filter.open.accesskey        "v">
+
+<!ENTITY calendar.task-details.title.label           "tiêu đề">
+<!ENTITY calendar.task-details.organizer.label       "từ">
+<!ENTITY calendar.task-details.priority.label        "ưu tiên">
+<!ENTITY calendar.task-details.priority.low.label    "Thấp">
+<!ENTITY calendar.task-details.priority.normal.label "Bình thường">
+<!ENTITY calendar.task-details.priority.high.label   "Cao">
+<!ENTITY calendar.task-details.status.label          "trạng thái">
+<!ENTITY calendar.task-details.category.label        "phân mục">
+<!ENTITY calendar.task-details.repeat.label          "lặp lại">
+
+<!ENTITY calendar.task.category.button.tooltip  "Phân loại tác vụ">
+<!ENTITY calendar.task.complete.button.tooltip  "Đánh dấu các tác vụ đã chọn là hoàn tất">
+<!ENTITY calendar.task.priority.button.tooltip  "Thay đổi mức ưu tiên">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label            "Tài liệu: Xong">
+
+<!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "Mở">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "M">
+<!ENTITY calendar.context.modifyorviewtask.label      "Mở Tác Vụ…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "M">
+<!ENTITY calendar.context.newevent.label              "Sự kiện Mới…">
+<!ENTITY calendar.context.newevent.accesskey          "S">
+<!ENTITY calendar.context.newtodo.label               "Tác vụ Mới…">
+<!ENTITY calendar.context.newtodo.accesskey           "v">
+<!ENTITY calendar.context.modifytask.label            "Chỉnh sửa Tác vụ…">
+<!ENTITY calendar.context.modifytask.accesskey        "C">
+<!ENTITY calendar.context.modifyitem.label            "Chỉnh sửa Mục…">
+<!ENTITY calendar.context.modifyitem.accesskey        "C">
+<!ENTITY calendar.context.deletetask.label            "Xóa Tác Vụ">
+<!ENTITY calendar.context.deletetask.accesskey        "X">
+<!ENTITY calendar.context.deleteitem.label            "Xóa">
+<!ENTITY calendar.context.deleteitem.accesskey        "X">
+<!ENTITY calendar.context.deleteevent.label           "Xóa Sự Kiện">
+<!ENTITY calendar.context.deleteevent.accesskey       "a">
+<!ENTITY calendar.context.deletethisevent.label       "Sự kiện Này">
+<!ENTITY calendar.context.deletethisevent.accesskey   "S">
+<!ENTITY calendar.context.deletecompleteseries.label  "Các đợt Hoàn tất">
+<!ENTITY calendar.context.deletecompleteseries.accesskey   "C">
+<!ENTITY calendar.context.deletefutureevents.label     "Tất cả Sự kiện Tương lai">
+<!ENTITY calendar.context.deletefutureevents.accesskey "S">
+<!ENTITY calendar.context.deletefuturetasks.label     "Tất cả Tác vụ Tương lai">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "v">
+<!ENTITY calendar.context.cutevent.label              "Cắt">
+<!ENTITY calendar.context.cutevent.accesskey          "t">
+<!ENTITY calendar.context.copyevent.label             "Chép">
+<!ENTITY calendar.context.copyevent.accesskey         "C">
+<!ENTITY calendar.context.pasteevent.label            "Dán">
+<!ENTITY calendar.context.pasteevent.accesskey        "D">
+<!ENTITY calendar.context.selectall.label             "Chọn Toàn Bộ">
+<!ENTITY calendar.context.selectall.accesskey         "B">
+<!ENTITY calendar.context.button.label                "Bảng Ngày Hôm Nay" >
+<!ENTITY calendar.context.button.accesskey            "B" >
+
+<!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Tiến trình">
+<!ENTITY calendar.context.progress.accesskey          "i">
+<!ENTITY calendar.context.priority.label              "Ưu tiên">
+<!ENTITY calendar.context.priority.accesskey          "u">
+
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
+
+<!ENTITY calendar.context.markcompleted.label     "Đánh dấu Đã hoàn tất">
+<!ENTITY calendar.context.markcompleted.accesskey "o">
+
+<!ENTITY progress.level.0             "Xong 0&percnt;">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "Xong 25&percnt;">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "Xong 50&percnt;">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "Xong 75&percnt;">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "Xong 100&percnt;">
+<!ENTITY progress.level.100.accesskey  "1">
+
+<!ENTITY priority.level.none                "Không xác định">
+<!ENTITY priority.level.none.accesskey      "K">
+<!ENTITY priority.level.low                 "Thấp">
+<!ENTITY priority.level.low.accesskey       "T">
+<!ENTITY priority.level.normal              "Bình thường">
+<!ENTITY priority.level.normal.accesskey    "B">
+<!ENTITY priority.level.high                "Cao">
+<!ENTITY priority.level.high.accesskey      "C">
+
+<!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Lịch Mới…">
+<!ENTITY calendar.context.newserver.accesskey          "L">
+<!ENTITY calendar.context.findcalendar.label           "Tìm Lịch…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "T" >
+<!ENTITY calendar.context.deleteserver.label           "Xóa Lịch">
+<!ENTITY calendar.context.deleteserver.accesskey       "X">
+<!ENTITY calendar.context.reloadserver.label           "Tải lại Bộ lịch Ở xa">
+<!ENTITY calendar.context.reloadserver.accesskey       "a">
+<!ENTITY calendar.context.publish.label                "Xuất bản Lịch…">
+<!ENTITY calendar.context.publish.accesskey            "b">
+<!ENTITY calendar.context.export.label                 "Xuất Lịch…">
+<!ENTITY calendar.context.export.accesskey             "X">
+<!ENTITY calendar.context.properties.label             "Thuộc tính">
+<!ENTITY calendar.context.properties.accesskey         "T">
+
+<!ENTITY calendar.context.convertmenu.label              "Chuyển đổi Thành">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "h">
+<!ENTITY calendar.context.convertmenu.event.label        "Sự kiện…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "S">
+<!ENTITY calendar.context.convertmenu.message.label      "Thư tin…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "T">
+<!ENTITY calendar.context.convertmenu.task.label         "Tác vụ…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "v">
+
+<!ENTITY calendar.tasks.view.minimonth.label           "Tháng Mini">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
+
+<!ENTITY calendar.tasks.view.calendarlist.label        "Danh sách Lịch">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
+
+<!ENTITY calendar.tasks.view.filtertasks.label           "Lọc các Tác vụ">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "L">
+
+<!-- Calendar Alarm Dialog -->
+
+<!ENTITY calendar.alarm.location.label              "Địa chỉ:" >
+<!ENTITY calendar.alarm.details.label               "Chi tiết…" >
+
+<!ENTITY calendar.alarm.snoozefor.label             "Tạm im trong" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Tạm im Tất cả trong" >
+<!ENTITY calendar.alarm.title.label                 "Chuông báo Lịch" >
+<!ENTITY calendar.alarm.dismiss.label               "Mặc kệ" >
+<!ENTITY calendar.alarm.dismissall.label            "Mặc kệ Tất cả" >
+
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Phút" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Phút" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Phút" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Phút" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Phút" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 Tiếng" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 Tiếng" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 Ngày" >
+
+<!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Chỉnh sửa Lịch">
+<!ENTITY calendar.server.dialog.name.label          "Tên Lịch:">
+
+<!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label                    "Màu sắc:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Máy chủ Lịch Hệ thống Sun Java (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Định dạng:">
+<!ENTITY calendarproperties.location.label                 "Địa chỉ:">
+<!ENTITY calendarproperties.name.label                     "Tên:">
+<!ENTITY calendarproperties.readonly.label                 "Chỉ Đọc">
+<!ENTITY calendarproperties.firealarms.label               "Hiện các Chuông báo">
+<!ENTITY calendarproperties.cache.label                    "Bộ đệm (THỬ NGHIỆM, yêu cầu khởi động lại)">
+<!ENTITY calendarproperties.enabled.label                  "Kích hoạt bộ lịch này">
+<!ENTITY calendarproperties.forceDisabled.label            "Không thể tìm thấy nhà cung cấp bộ lịch này. Điều này thường xảy ra khi bạn vô hiệu hóa hoặc gỡ bỏ tiện ích nào đó.">
+<!ENTITY calendarproperties.unsubscribe.label              "Dừng theo dõi">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "D">
+
+<!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Xuất bản Lịch">
+<!ENTITY calendar.publish.url.label                 "Địa chỉ Xuất bản:">
+<!ENTITY calendar.publish.publish.button      "Xuất bản">
+<!ENTITY calendar.publish.close.button      "Đóng">
+
+<!ENTITY calendar.publish.example.url.description   "Ví dụ như http://www.tênmáychủ.com/webdav/test.ics">
+
+<!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Chọn Lịch">
+
+<!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "In Lịch">
+<!ENTITY calendar.print.title.label "Tiêu đề:">
+<!ENTITY calendar.print.layout.label "Bố cục:">
+<!ENTITY calendar.print.range.label "Thông tin để In ra">
+<!ENTITY calendar.print.currentview.label "Sự kiện trong phần đang xem">
+<!ENTITY calendar.print.selected.label "Sự kiện đã chọn">
+<!ENTITY calendar.print.custom.label "Khoảng ngày tùy biến:">
+<!ENTITY calendar.print.from.label "Từ:">
+<!ENTITY calendar.print.to.label "Tới:">
+<!ENTITY calendar.print.settingsGroup.label "Thiết lập In">
+
+<!-- Error reporting -->
+<!ENTITY calendar.error.detail "Chi tiết…">
+<!ENTITY calendar.error.code "Mã lỗi:">
+<!ENTITY calendar.error.description "Mô tả:">
+<!ENTITY calendar.error.title "Một lỗi đã xảy ra">

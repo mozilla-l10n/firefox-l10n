@@ -1,0 +1,361 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is Sun Microsystems.
+   - Portions created by the Initial Developer are Copyright (C) 2006
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Michael Büttner <michael.buettner@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
+   -   Fred Jendrzejewski <fred.jen@web.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Menubar -->
+<!ENTITY  event.menu.file.label                           "Tập tin">
+<!ENTITY  event.menu.file.accesskey                       "T">
+<!ENTITY  event.menu.file.new.label                       "Mới">
+<!ENTITY  event.menu.file.new.accesskey                   "M">
+<!ENTITY  event.menu.file.new.event.label                 "Sự kiện">
+<!ENTITY  event.menu.file.new.event.accesskey             "S">
+<!ENTITY  event.menu.file.new.message.label               "Thư tin">
+<!ENTITY  event.menu.file.new.message.accesskey           "T">
+<!ENTITY  event.menu.file.new.address.label               "Danh thiếp Sổ địa chỉ">
+<!ENTITY  event.menu.file.new.address.accesskey           "a">
+<!ENTITY  event.menu.file.close.label                     "Đóng">
+<!ENTITY  event.menu.file.close.accesskey                 "g">
+<!ENTITY  event.menu.file.save.label                      "Lưu">
+<!ENTITY  event.menu.file.save.accesskey                  "L">
+<!ENTITY  event.menu.file.page.setup.label                "Thiết lập Trang">
+<!ENTITY  event.menu.file.page.setup.accesskey            "p">
+<!ENTITY  event.menu.file.print.label                     "In">
+<!ENTITY  event.menu.file.print.accesskey                 "I">
+<!ENTITY  event.menu.file.exit.label                      "Thoát">
+<!ENTITY  event.menu.file.exit.accesskey                  "o">
+
+<!ENTITY  event.menu.edit.label                           "Chỉnh sửa">
+<!ENTITY  event.menu.edit.accesskey                       "C">
+<!ENTITY  event.menu.edit.undo.label                      "Hoàn tác">
+<!ENTITY  event.menu.edit.undo.accesskey                  "H">
+<!ENTITY  event.menu.edit.redo.label                      "Làm lại">
+<!ENTITY  event.menu.edit.redo.accesskey                  "L">
+<!ENTITY  event.menu.edit.cut.label                       "Cắt">
+<!ENTITY  event.menu.edit.cut.accesskey                   "t">
+<!ENTITY  event.menu.edit.copy.label                      "Chép">
+<!ENTITY  event.menu.edit.copy.accesskey                  "C">
+<!ENTITY  event.menu.edit.paste.label                     "Dán">
+<!ENTITY  event.menu.edit.paste.accesskey                 "D">
+<!ENTITY  event.menu.edit.select.all.label                "Chọn Toàn Bộ">
+<!ENTITY  event.menu.edit.select.all.accesskey            "B">
+
+<!ENTITY  event.menu.view.label                           "Hiển thị">
+<!ENTITY  event.menu.view.accesskey                       "H">
+<!ENTITY  event.menu.view.toolbars.label                  "Thanh Công cụ">
+<!ENTITY  event.menu.view.toolbars.accesskey              "C">
+<!ENTITY  event.menu.view.toolbars.event.label            "Thanh Sự Kiện">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "S">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Tùy biến…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "y">
+<!ENTITY  event.menu.view.showlink.label                  "Hiển thị Liên kết Liên quan">
+<!ENTITY  event.menu.view.showlink.accesskey              "L">
+
+<!ENTITY  event.menu.options.label                            "Tùy chọn">
+<!ENTITY  event.menu.options.accesskey                        "y">
+<!ENTITY  event.menu.options.attachments.label                "Đính kèm Trang web…">
+<!ENTITY  event.menu.options.attachments.accesskey            "w">
+<!ENTITY  event.menu.options.attendees.label                  "Mời khách Tham dự…">
+<!ENTITY  event.menu.options.attendees.accesskey              "M">
+<!ENTITY  event.menu.options.spellcheck.label                 "Kiểm tra Chính tả…">
+<!ENTITY  event.menu.options.spellcheck.accesskey             "a">
+<!ENTITY  event.menu.options.inline.spellcheck.label          "Kiểm tra Chính tả Khi gõ">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "K">
+<!ENTITY  event.menu.options.link.label                       "Thêm Liên Kết…">
+<!ENTITY  event.menu.options.link.accesskey                   "L">
+<!ENTITY  event.menu.options.timezone.label                   "Múi giờ">
+<!ENTITY  event.menu.options.timezone.accesskey               "g">
+<!ENTITY  event.menu.options.priority2.label                  "Ưu tiên">
+<!ENTITY  event.menu.options.priority2.accesskey              "u">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Không xác định">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "x">
+<!ENTITY  event.menu.options.priority.low.label               "Thấp">
+<!ENTITY  event.menu.options.priority.low.accesskey           "T">
+<!ENTITY  event.menu.options.priority.normal.label            "Bình thường">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "B">
+<!ENTITY  event.menu.options.priority.high.label              "Cao">
+<!ENTITY  event.menu.options.priority.high.accesskey          "C">
+<!ENTITY  event.menu.options.privacy.label                    "Riêng tư">
+<!ENTITY  event.menu.options.privacy.accesskey                "R">
+<!ENTITY  event.menu.options.privacy.public.label             "Sự kiện Công khai">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "S">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Chỉ hiện Ngày và Giờ">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "N">
+<!ENTITY  event.menu.options.privacy.private.label            "Sự kiện Cá nhân">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "C">
+<!ENTITY  event.menu.options.show.time.label                  "Hiện thời gian là">
+<!ENTITY  event.menu.options.show.time.accesskey              "t">
+<!ENTITY  event.menu.options.show.time.busy.label             "Bận">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
+<!ENTITY  event.menu.options.show.time.free.label             "Rảnh">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "R">
+
+<!ENTITY event.help.label                                 "Trợ giúp">
+<!ENTITY event.help.accesskey                             "p">
+<!ENTITY event.help.release.notes.label                   "Ghi chú Phát hành">
+<!ENTITY event.help.release.notes.accesskey               "P">
+<!ENTITY event.help.help.label                            "Trợ giúp &brandShortName;">
+<!ENTITY event.help.help.accesskey                        "T">
+<!ENTITY event.help.about.label                           "Thông tin về &brandShortName;">
+<!ENTITY event.help.about.accesskey                       "v">
+
+<!ENTITY event.invite.attendees.label                     "Mời khách Tham dự…">
+<!ENTITY event.invite.attendees.accesskey                 "M">
+<!ENTITY event.email.attendees.label                      "Gửi Email cho Tất cả Khách tham dự…">
+<!ENTITY event.email.attendees.accesskey                  "T">
+<!ENTITY event.email.tentative.attendees.label            "Gửi Email cho các Khách tham dự Chưa quyết định…">
+<!ENTITY event.email.tentative.attendees.accesskey        "C">
+
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "Lưu và Đóng">
+<!ENTITY  event.toolbar.attendees.label                   "Mời khách Tham dự">
+<!ENTITY  event.toolbar.spellcheck.label                  "Kiểm tra Chính tả">
+<!ENTITY  event.toolbar.privacy.label                     "Riêng tư">
+<!ENTITY  event.toolbar.attachments.label                 "Đính kèm">
+
+<!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Tiêu đề:" >
+<!ENTITY event.title.textbox.accesskey                    "u">
+<!ENTITY event.location.label                             "Địa điểm:" >
+<!ENTITY event.location.accesskey                         "a">
+<!ENTITY event.categories.label                           "Phân mục:">
+<!ENTITY event.categories.accesskey                       "n">
+<!ENTITY event.calendar.label                             "Lịch:" >
+<!ENTITY event.calendar.accesskey                         "L">
+<!ENTITY event.attendees.label                            "Khách tham dự:" >
+<!ENTITY event.attendees.accesskey                        "a" >
+<!ENTITY event.alldayevent.label                          "Sự kiện Cả ngày" >
+<!ENTITY event.alldayevent.accesskey                      "S">
+<!ENTITY event.from.label                                 "Bắt đầu:" >
+<!ENTITY event.from.accesskey                             "B">
+<!ENTITY task.from.label                                  "Bắt đầu:" >
+<!ENTITY task.from.accesskey                              "B">
+<!ENTITY event.to.label                                   "Kết thúc:" >
+<!ENTITY event.to.accesskey                               "K">
+<!ENTITY task.to.label                                    "Ngày đến hạn:" >
+<!ENTITY task.to.accesskey                                "y">
+<!ENTITY task.status.label                                "Trạng thái:" >
+<!ENTITY task.status.accesskey                            "r">
+<!ENTITY event.repeat.label                               "Lặp lại:" >
+<!ENTITY event.repeat.accesskey                           "i">
+<!ENTITY event.reminder.label                             "Nhắc việc:" >
+<!ENTITY event.reminder.accesskey                         "v">
+<!ENTITY event.description.label                          "Mô tả:" >
+<!ENTITY event.description.accesskey                      "M">
+<!ENTITY event.attachments.label                          "Đính kèm:" >
+<!ENTITY event.attachments.accesskey                      "k" >
+<!ENTITY event.attachments.popup.remove.label             "Xóa" >
+<!ENTITY event.attachments.popup.remove.accesskey         "X" >
+<!ENTITY event.attachments.popup.open.label               "Mở" >
+<!ENTITY event.attachments.popup.open.accesskey           "M" >
+<!ENTITY event.attachments.popup.removeAll.label          "Xóa Toàn Bộ" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
+<!ENTITY event.attachments.popup.attachPage.label         "Đính kèm Trang web…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
+<!ENTITY event.url.label                                  "Liên kết Liên quan:" >
+<!ENTITY event.priority2.label                            "Ưu tiên:">
+
+<!ENTITY event.reminder.none.label                        "Không có nhắc việc " >
+<!ENTITY event.reminder.5minutes.before.label             "5 phút trước lúc đó" >
+<!ENTITY event.reminder.10minutes.before.label            "10 phút trước lúc đó" >
+<!ENTITY event.reminder.15minutes.before.label            "15 phút trước lúc đó" >
+<!ENTITY event.reminder.30minutes.before.label            "30 phút trước lúc đó" >
+<!ENTITY event.reminder.45minutes.before.label            "45 phút trước lúc đó" >
+<!ENTITY event.reminder.1hour.before.label                "1 tiếng trước lúc đó" >
+<!ENTITY event.reminder.2hours.before.label               "2 tiếng trước lúc đó" >
+<!ENTITY event.reminder.5hours.before.label               "5 tiếng trước lúc đó" >
+<!ENTITY event.reminder.15hours.before.label              "15 tiếng trước lúc đó" >
+<!ENTITY event.reminder.1day.before.label                 "1 ngày trước lúc đó" >
+<!ENTITY event.reminder.2days.before.label                "2 ngày trước lúc đó" >
+<!ENTITY event.reminder.1week.before.label                "1 tuần trước lúc đó" >
+<!ENTITY event.reminder.custom.label                      "Tùy biến…" >
+
+<!ENTITY event.reminder.multiple.label                    "Nhiều lời Nhắc việc…" >
+
+<!-- Recurrence dialog -->
+
+<!ENTITY recurrence.title.label                         "Chỉnh sửa Việc tái diễn">
+
+<!ENTITY event.repeat.does.not.repeat.label             "Không lặp lại">
+<!ENTITY event.repeat.daily.label                       "Hàng ngày">
+<!ENTITY event.repeat.weekly.label                      "Hàng tuần">
+<!ENTITY event.repeat.every.weekday.label               "Mỗi ngày-làm-việc">
+<!ENTITY event.repeat.bi.weekly.label                   "Mỗi hai tuần">
+<!ENTITY event.repeat.monthly.label                     "Hàng tháng">
+<!ENTITY event.repeat.yearly.label                      "Hàng năm">
+<!ENTITY event.repeat.custom.label                      "Tùy biến…">
+
+<!ENTITY event.recurrence.pattern.label                 "Khuôn mẫu cho việc tái diễn">
+<!ENTITY event.recurrence.occurs.label                  "Lặp lại" >
+<!ENTITY event.recurrence.day.label                     "hàng ngày" >
+<!ENTITY event.recurrence.week.label                    "hàng tuần" >
+<!ENTITY event.recurrence.month.label                   "hàng tháng" >
+<!ENTITY event.recurrence.year.label                    "hàng năm" >
+
+<!ENTITY event.recurrence.pattern.every.label           "Mỗi" >
+<!ENTITY repeat.units.days.both                         "Ngày" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Mỗi ngày-làm-việc" >
+
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Mỗi" >
+<!ENTITY repeat.units.weeks.both                        "Tuần" >
+<!ENTITY event.recurrence.on.label                      "Vào:" >
+
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Mỗi" >
+<!ENTITY repeat.units.months.both                       "Tháng" >
+<!ENTITY event.recurrence.the.label                     "Ngày" >
+<!ENTITY event.recurrence.repeat.first.label            "Tuần đầu">
+<!ENTITY event.recurrence.repeat.second.label           "Tuần hai">
+<!ENTITY event.recurrence.repeat.third.label            "Tuần ba">
+<!ENTITY event.recurrence.repeat.fourth.label           "Tuần bốn">
+<!ENTITY event.recurrence.repeat.fifth.label            "Tuần năm">
+<!ENTITY event.recurrence.repeat.last.label             "Tuần cuối">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Chủ Nhật" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Thứ Hai" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Thứ Ba" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Thứ Tư" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Thứ Năm" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Thứ Sáu" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Thứ Bảy" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Ngày của tháng">
+<!ENTITY event.recurrence.repeat.recur.label            "Tái diễn vào ngày">
+
+<!ENTITY event.recurrence.every.label                        "Mỗi:" >
+<!ENTITY repeat.units.years.both                             "Năm" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Mỗi" >
+<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Mỗi" >
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Tháng Một" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Tháng Hai" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Tháng Ba" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Tháng Tư" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Tháng Năm" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Tháng Sáu" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Tháng Bảy" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Tháng Tám" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Tháng Chín" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Tháng Mười" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Tháng Mười Một" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Tháng Mười Hai" >
+<!ENTITY event.recurrence.pattern.yearly.first.label         "Tuần đầu">
+<!ENTITY event.recurrence.pattern.yearly.second.label        "Tuần hai">
+<!ENTITY event.recurrence.pattern.yearly.third.label         "Tuần ba">
+<!ENTITY event.recurrence.pattern.yearly.fourth.label        "Tuần bốn">
+<!ENTITY event.recurrence.pattern.yearly.fifth.label         "Tuần năm">
+<!ENTITY event.recurrence.pattern.yearly.last.label          "Tuần cuối">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Chủ Nhật" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Thứ Hai" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Thứ Ba" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Thứ Tư" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Thứ Năm" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Thứ Sáu" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Thứ Bảy" >
+<!ENTITY event.recurrence.of.label                           "của" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Tháng Một" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Tháng Hai" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Tháng Ba" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Tháng Tư" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Tháng Năm" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Tháng Sáu" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Tháng Bảy" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Tháng Tám" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Tháng Chín" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Tháng Mười" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Tháng Mười Một" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Tháng Mười Hai" >
+
+<!ENTITY event.recurrence.range.label                   "Khoảng thời gian tái diễn">
+<!ENTITY event.recurrence.forever.label                 "Không có ngày kết thúc" >
+<!ENTITY event.recurrence.repeat.for.label              "Tạo" >
+<!ENTITY event.recurrence.appointments.label            "Cuộc hẹn" >
+<!ENTITY event.repeat.until.label                       "Lặp lại cho tới khi" >
+<!ENTITY event.recurrence.preview.label                 "Xem trước">
+
+<!-- Reminder dialog -->
+
+<!ENTITY reminder.title.label                           "Tùy biến Nhắc việc">
+<!ENTITY reminder.dialogtitle.label                     "Thiết lập nhắc việc">
+<!ENTITY reminder.reminderDetails.label                 "Chi tiết Nhắc việc">
+<!ENTITY reminder.action.label                          "Chọn một Thao tác Nhắc việc">
+<!ENTITY reminder.action.alert.label                    "Hiện một Cảnh báo">
+<!ENTITY reminder.action.email.label                    "Gửi một Email">
+<!ENTITY reminder.new.label                             "Mới">
+<!ENTITY reminder.delete.label                          "Xóa">
+<!ENTITY reminder.relation.start.label                  "sự kiện bắt đầu">
+<!ENTITY reminder.relation.end.label                    "sự kiện kết thúc">
+<!ENTITY reminder.add.label                             "Thêm">
+<!ENTITY reminder.add.accesskey                         "T">
+<!ENTITY reminder.remove.label                          "Xóa">
+<!ENTITY reminder.remove.accesskey                      "X">
+
+
+<!-- Attendees dialog -->
+<!ENTITY invite.title.label              "Mời khách Tham dự">
+<!ENTITY event.organizer.label           "Người tổ chức">
+<!ENTITY event.freebusy.suggest.slot     "Đề xuất khung thời gian:">
+<!ENTITY event.freebusy.next.slot        "Khung kế " >
+<!ENTITY event.freebusy.previous.slot    " Khung trước" >
+<!ENTITY event.freebusy.zoom             "Thu phóng:">
+<!ENTITY event.freebusy.plus             "Giờ kế" >
+<!ENTITY event.freebusy.minus            "Giờ trước" >
+<!ENTITY event.freebusy.legend.free      "Rảnh" >
+<!ENTITY event.freebusy.legend.busy      "Bận" >
+<!ENTITY event.freebusy.legend.unknown   "Không có thông tin" >
+
+<!-- Timezone dialog -->
+
+<!ENTITY timezone.title.label            "Vui lòng Xác định Múi giờ">
+
+<!-- Read-Only dialog -->
+
+<!ENTITY read.only.general.label         "Tổng quát">
+<!ENTITY read.only.title.label           "Tiêu đề:">
+<!ENTITY read.only.repeat.label          "Lặp lại:">
+<!ENTITY read.only.location.label        "Địa điểm:">
+<!ENTITY read.only.category.label        "Phân mục:">
+<!ENTITY read.only.organizer.label       "Người tổ chức:">
+<!ENTITY read.only.reply.label           "Trả lời:">
+<!ENTITY read.only.accept.label          "Tôi sẽ tham dự">
+<!ENTITY read.only.decline.label         "Tôi sẽ không tham dự">
+<!ENTITY read.only.needs.action.label    "Tôi sẽ xác nhận sau">
+<!ENTITY read.only.reminder.label        "Nhắc việc:">
+<!ENTITY read.only.attendees.label       "Khách tham dự">
+<!ENTITY read.only.description.label     "Mô tả">
+<!ENTITY read.only.documents.label       "Tài liệu">
+<!ENTITY read.only.link.label            "Liên kết Liên quan">
+
+

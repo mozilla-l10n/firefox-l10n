@@ -1,0 +1,111 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Stefan Sitter <ssitter@googlemail.com>
+   -                 Berend Cornelius <berend.cornelius@sun.com>
+   -                 Philipp Kewisch <mozilla@kewis.ch>
+   -                 Simon Paquet <bugzilla@babylonsounds.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Event Menu -->
+<!ENTITY event.new.event                        "Sự kiện Mới…">
+<!ENTITY event.new.event.key                    "N">
+<!ENTITY event.new.event.accesskey              "S">
+
+<!ENTITY event.new.todo                         "Tác vụ Mới…">
+<!ENTITY event.new.todo.key                     "T">
+<!ENTITY event.new.todo.accesskey               "T">
+
+<!ENTITY calendar.new.server.label              "Lịch Mới…">
+<!ENTITY calendar.new.server.key                "L">
+<!ENTITY calendar.new.server.accesskey          "L">
+
+<!ENTITY calendar.print.label                   "In…">
+<!ENTITY calendar.print.key                     "P">
+<!ENTITY calendar.print.accesskey               "I">
+
+<!ENTITY calendar.import.label                  "Nhập…">
+<!ENTITY calendar.import.key                    "I">
+<!ENTITY calendar.import.accesskey              "N">
+
+<!ENTITY calendar.export.calendar.label         "Xuất Lịch…">
+<!ENTITY calendar.export.calendar.accesskey     "u">
+<!ENTITY calendar.export.selection.label        "Xuất phần Đã chọn…">
+<!ENTITY calendar.export.selection.accesskey    "u">
+
+<!ENTITY calendar.publish.label                 "Xuất bản…">
+<!ENTITY calendar.publish.accesskey             "b">
+
+<!ENTITY calendar.menu.customize.label          "Tùy biến…">
+<!ENTITY calendar.menu.customize.accesskey      "T">
+
+<!ENTITY showUnifinderCmd.label                 "Tìm Sự Kiện">
+<!ENTITY showUnifinderCmd.accesskey             "m">
+
+<!ENTITY calendar.displaytodos.checkbox.label       "Hiện các Tác vụ trong Lịch">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "v">
+
+<!ENTITY calendar.menu.numberofweeks.label      "Kích thước của Chế độ Hiển thị Nhiều tuần">
+<!ENTITY calendar.menu.numberofweeks.2          "Hai Tuần">
+<!ENTITY calendar.menu.numberofweeks.3          "Ba Tuần">
+<!ENTITY calendar.menu.numberofweeks.4          "Bốn Tuần">
+<!ENTITY calendar.menu.numberofweeks.5          "Năm Tuần">
+<!ENTITY calendar.menu.numberofweeks.6          "Sáu Tuần">
+
+<!ENTITY goTodayCmd.label                       "Hôm nay">
+<!ENTITY goTodayCmd.accesskey                   "H">
+
+<!ENTITY goPreviousCmd.day.label                "Ngày Trước">
+<!ENTITY goPreviousCmd.week.label               "Tuần Trước">
+<!ENTITY goPreviousCmd.month.label              "Tháng Trước">
+<!ENTITY goPreviousCmd.accesskey                "r">
+
+<!ENTITY goNextCmd.day.label                    "Ngày Sau">
+<!ENTITY goNextCmd.week.label                   "Tuần Sau">
+<!ENTITY goNextCmd.month.label                  "Tháng Sau">
+<!ENTITY goNextCmd.all.accesskey                "a">
+
+<!ENTITY addressBookCmd.label                   "Sổ Địa Chỉ">
+<!ENTITY addressBookCmd.accesskey               "a">
+
+<!ENTITY calendar.importcalendar.label          "Nhập Lịch…">
+
+<!ENTITY showCurrentView.label                  "Hiển thị Hiện tại">
+<!ENTITY showCurrentView.accesskey              "H">
+
+<!ENTITY calendar.properties.label              "Thuộc tính Lịch…">
+<!ENTITY calendar.properties.accesskey          "c">

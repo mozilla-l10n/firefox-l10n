@@ -162,7 +162,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Sổ Địa Chỉ">
 <!ENTITY addressBookCmd.accesskey "S">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY accountManagerCmd.label "Thiết lập Tài khoản…">
 <!ENTITY accountManagerCmd.accesskey "h">
 <!ENTITY accountManagerCmdUnix.accesskey "l">
@@ -203,9 +202,9 @@
 <!ENTITY toAddr.label "Tới:"> 
 <!ENTITY ccAddr.label "Cc:"> 
 <!ENTITY bccAddr.label "Bcc:"> 
-<!ENTITY replyAddr.label "Trả-lời-Tới:"> 
+<!ENTITY replyAddr.label "Trả lời Tới:"> 
 <!ENTITY newsgroupsAddr.label "Nhóm tin:"> 
-<!ENTITY followupAddr.label "Theo-sau-Tới:"> 
+<!ENTITY followupAddr.label "Trả lời Tin tại:"> 
 <!ENTITY subject.label "Tiêu đề:">
 <!ENTITY subject.accesskey "u">
 <!ENTITY attachments.label "Phần đính kèm:">
