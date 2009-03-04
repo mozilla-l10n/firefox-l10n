@@ -32,11 +32,14 @@
 <!ENTITY noSuggestions.label   "(Nicio sugestie)">
 <!ENTITY addToDictionary.label "Adaugă la dicționar">
 
-<!ENTITY editBookmarkName.label    "Nume:">
-<!ENTITY editBookmarkURI.label     "Adresă:">
-<!ENTITY editBookmarkTags.label    "Etichete:">
-<!ENTITY bookmarkRemove.label      "Șterge semnul de carte">
+<!ENTITY bookmarksHeader.label     "Semne de carte">
+<!ENTITY bookmarksManage.label     "Gestionează">
+<!ENTITY foldersHeader.label       "Dosare">
+
+<!ENTITY editBookmarkEdit.label    "Editează">
+<!ENTITY editBookmarkMove.label    "Mută">
 <!ENTITY editBookmarkDone.label    "Gata">
+<!ENTITY editBookmarkTags.label    "Etichete:">
 
 <!ENTITY findOnCmd.label     "Caută în această pagină...">
 <!ENTITY findOnCmd.accesskey "C">
