@@ -184,9 +184,9 @@
 <!ENTITY event.alldayevent.label                          "Evenimentul durează toată ziua" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Început:" >
-<!ENTITY event.from.accesskey                             "Î">
+<!ENTITY event.from.accesskey                             "n">
 <!ENTITY task.from.label                                  "Început:" >
-<!ENTITY task.from.accesskey                              "Î">
+<!ENTITY task.from.accesskey                              "n">
 <!ENTITY event.to.label                                   "Sfârșit:" >
 <!ENTITY event.to.accesskey                               "S">
 <!ENTITY task.to.label                                    "Dată de sfârșit:" >

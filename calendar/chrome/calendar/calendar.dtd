@@ -286,17 +286,20 @@
 <!ENTITY calendar.server.dialog.name.label          "Nume calendar:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Culoare:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Format:">
-<!ENTITY calendarproperties.location.label "Loc:">
-<!ENTITY calendarproperties.name.label     "Nume:">
-<!ENTITY calendarproperties.readonly.label "Numai pentru citit">
-<!ENTITY calendarproperties.firealarms.label "Arată alarmele">
-<!ENTITY calendarproperties.cache.label    "Cache (EXPERIMENTAL, necesită repornirea)">
-<!ENTITY calendarproperties.enabled.label "Activează acest calendar">
+<!ENTITY calendarproperties.color.label                    "Culoare:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format:">
+<!ENTITY calendarproperties.location.label                 "Loc:">
+<!ENTITY calendarproperties.name.label                     "Nume:">
+<!ENTITY calendarproperties.readonly.label                 "Numai pentru citit">
+<!ENTITY calendarproperties.firealarms.label               "Arată alarmele">
+<!ENTITY calendarproperties.cache.label                    "Cache (EXPERIMENTAL, necesită repornirea)">
+<!ENTITY calendarproperties.enabled.label                  "Activează acest calendar">
+<!ENTITY calendarproperties.forceDisabled.label            "Furnizorul pentru acest calendar nu poate fi găsit. Acest lucru se întâmplă adesea dacă ați dezactivat sau dezinstalat unele suplimente.">
+<!ENTITY calendarproperties.unsubscribe.label              "Dezabonare">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "D">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publicare calendar">
@@ -323,6 +326,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detalii...">
-<!ENTITY calendar.error.number "Numărul erorii:">
+<!ENTITY calendar.error.code "Cod de eroare:">
 <!ENTITY calendar.error.description "Descriere:">
 <!ENTITY calendar.error.title "A apărut o eroare">

@@ -1,3 +1,3 @@
-Pentru informații despre instalarea, rularea și configurarea 
-Sunbird, inclusiv o listă de probleme cunoscute precum și alte 
-informații, vizitați http://www.mozilla.org/projects/calendar/
+For information about installing, running and configuring Sunbird 
+including a list of known issues and troubleshooting information, 
+refer to: http://www.mozilla.org/projects/calendar/
