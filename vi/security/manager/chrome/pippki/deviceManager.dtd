@@ -40,7 +40,7 @@
 <!ENTITY devmgr.devlist.label                   "Các Module và Thiết bị Bảo mật">
 <!ENTITY devmgr.details.title                   "Chi tiết">
 <!ENTITY devmgr.details.title2                  "Giá trị">
-<!ENTITY devmgr.status.label                    "Tình trạng">
+<!ENTITY devmgr.status.label                    "Trạng thái">
 <!ENTITY devmgr.version.label                   "Phiên bản">
 
 <!ENTITY devmgr.button.changeslotname.label     "Đổi Tên Khe Cắm">

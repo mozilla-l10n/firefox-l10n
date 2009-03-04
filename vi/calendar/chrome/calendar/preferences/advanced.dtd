@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Thunderbird Preferences System
+   -
+   - The Initial Developer of the Original Code is
+   - Scott MacGregor
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.calendar.advanced.generalTab.label "Tổng quát">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "Mật khẩu">
+<!ENTITY pref.calendar.advanced.updateTab.label "Cập nhật">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Mã hóa">
+
+<!-- General -->
+<!ENTITY pref.calendar.advanced.showConnections.label     "Thiết lập Kết nối…">
+<!ENTITY pref.calendar.advanced.showConnections.accesskey "T">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Xác định cách thức &brandShortName; kết nối vào Internet">
+<!ENTITY pref.calendar.advanced.configEdit.caption "Cấu hình Nâng cao">
+<!ENTITY pref.calendar.advanced.configEdit.button "Chỉnh sửa Cấu hình…">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "C">
+
+<!-- Passwords -->
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; có thể ghi nhớ thông tin mật khẩu cho tất cả các lịch của bạn, do đó bạn không cần nhập lại thông tin đăng nhập.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Sử dụng một Mật khẩu Chính để mã hóa các mật khẩu đã được lưu trữ">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "S">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Khi được thiết lập, Mật khẩu Chính sẽ bảo vệ tất cả các mật khẩu của bạn, nhưng bạn phải nhập nó trong mỗi phiên làm việc.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Thay đổi Mật khẩu Chính…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "M">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Xem các Mật khẩu Đã lưu…">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "X">
+
+<!-- Update -->
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Tự động kiểm tra phiên bản mới của:">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Những Tiện-ích đã cài">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "N">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Khi tìm thấy các bản cập nhật của &brandShortName;:">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Hỏi tôi nên làm gì">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "H">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Tự động tải xuống và cài đặt">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "x">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Cảnh báo tôi nếu điều này làm vô hiệu hóa bất kì tiện ích nào">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "C">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Hiển thị Lược sử Cập nhật…">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "L">
+
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Giao thức">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Dùng SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Dùng TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Chứng thư">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Khi một máy chủ yêu cầu chứng thư cá nhân của tôi:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Tự động chọn một cái">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "n">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Hỏi tôi mỗi lần">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "H">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Xem Chứng Thư">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "X">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Danh sách Thu hồi">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "D">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Phê chuẩn">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "P">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Thiết bị Bảo mật">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "B">

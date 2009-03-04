@@ -1,0 +1,92 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "Nửa đêm" >
+<!ENTITY time.noon "Trưa" >
+
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "ChN" >
+<!ENTITY day.1.Ddd.accesskey "C">
+<!ENTITY day.2.Ddd "Th2" >
+<!ENTITY day.2.Ddd.accesskey "2">
+<!ENTITY day.3.Ddd "Th3" >
+<!ENTITY day.3.Ddd.accesskey "3">
+<!ENTITY day.4.Ddd "Th4" >
+<!ENTITY day.4.Ddd.accesskey "4">
+<!ENTITY day.5.Ddd "Th5" >
+<!ENTITY day.5.Ddd.accesskey "5">
+<!ENTITY day.6.Ddd "Th6" >
+<!ENTITY day.6.Ddd.accesskey "6">
+<!ENTITY day.7.Ddd "Th7" >
+<!ENTITY day.7.Ddd.accesskey "7">
+
+<!ENTITY day.1.name "Chủ Nhật" >
+<!ENTITY day.2.name "Thứ Hai" >
+<!ENTITY day.3.name "Thứ Ba" >
+<!ENTITY day.4.name "Thứ Tư" >
+<!ENTITY day.5.name "Thứ Năm" >
+<!ENTITY day.6.name "Thứ Sáu" >
+<!ENTITY day.7.name "Thứ Bảy" >
+
+<!-- Units -->
+<!ENTITY calendar.global.units.minute   "phút">
+<!ENTITY calendar.global.units.minutes  "phút">
+<!ENTITY calendar.global.units.hour     "giờ">
+<!ENTITY calendar.global.units.hours    "giờ">
+<!ENTITY calendar.global.units.day      "ngày">
+<!ENTITY calendar.global.units.days     "ngày">
+
+<!ENTITY month.1.name "Tháng Một" >
+<!ENTITY month.2.name "Tháng Hai" >
+<!ENTITY month.3.name "Tháng Ba" >
+<!ENTITY month.4.name "Tháng Tư" >
+<!ENTITY month.5.name "Tháng Năm" >
+<!ENTITY month.6.name "Tháng Sáu" >
+<!ENTITY month.7.name "Tháng Bảy" >
+<!ENTITY month.8.name "Tháng Tám" >
+<!ENTITY month.9.name "Tháng Chín" >
+<!ENTITY month.10.name "Tháng Mười" >
+<!ENTITY month.11.name "Tháng Mười Một" >
+<!ENTITY month.12.name "Tháng Mười Hai" >
+
+<!ENTITY onemonthbackward.tooltip "Lùi Một Tháng" >
+<!ENTITY onemonthforward.tooltip "Tiến Một Tháng" >
+<!ENTITY showToday.tooltip "Nhảy tới Hôm nay">
+<!ENTITY onedayforward.tooltip "Tiến Một Ngày">
+<!ENTITY onedaybackward.tooltip "Lùi Một Ngày">
+<!ENTITY showselectedday.tooltip "Hiện các sự kiện của ngày đã chọn">

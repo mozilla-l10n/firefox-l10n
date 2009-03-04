@@ -1,0 +1,65 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "Lùi">
+<!ENTITY back.tooltip          "Lùi">
+<!ENTITY forward.label         "Tiến">
+<!ENTITY forward.tooltip       "Tiến">
+<!ENTITY reload.label          "Tải lại">
+<!ENTITY reload.tooltip        "Tải lại">
+<!ENTITY stop.label            "Dừng">
+<!ENTITY stop.tooltip          "Dừng">
+<!ENTITY search.label          "Tìm kiếm">
+<!ENTITY search.tooltip        "Tìm kiếm">
+<!ENTITY go.label              "Đi">
+<!ENTITY go.tooltip            "Đi">
+<!ENTITY openLocation.label    "Mở địa chỉ">
+<!ENTITY openLocation.tooltip  "Mở địa chỉ">
+<!ENTITY star.label            "Đánh dấu">
+<!ENTITY star.tooltip          "Đánh dấu trang này">
+<!ENTITY bookmarks.label       "Đánh dấu">
+<!ENTITY bookmarks.tooltip     "Xem các trang đánh dấu">
+
+<!ENTITY newtab.label          "Thẻ Mới">
+<!ENTITY closetab.label        "Đóng Thẻ">
+
+<!ENTITY cut.label             "Cắt">
+<!ENTITY copy.label            "Chép">
+<!ENTITY copylink.label        "Chép Địa Chỉ Liên Kết">
+<!ENTITY paste.label           "Dán">
+<!ENTITY delete.label          "Xóa">
+<!ENTITY selectAll.label       "Chọn Toàn Bộ">
+<!ENTITY noSuggestions.label   "(Không có gợi ý)">
+<!ENTITY addToDictionary.label "Thêm vào Từ điển">
+
+<!ENTITY bookmarksHeader.label     "Đánh dấu">
+<!ENTITY bookmarksManage.label     "Quản lí">
+<!ENTITY foldersHeader.label       "Thư mục">
+
+<!ENTITY editBookmarkEdit.label    "Chỉnh sửa">
+<!ENTITY editBookmarkMove.label    "Di chuyển">
+<!ENTITY editBookmarkDone.label    "Xong">
+<!ENTITY editBookmarkTags.label    "Thêm thẻ tag tại đây">
+
+<!ENTITY findOnCmd.label     "Tìm kiếm trong Trang Này…">
+<!ENTITY findOnCmd.accesskey "m">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Tìm Lại">
+<!ENTITY findAgainCmd.accesskey "i">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "Trang web này không cung cấp thông tin định danh.">
+<!ENTITY identity.connectedTo "Bạn đang kết nối đến">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "thuộc quyền kiểm soát của">

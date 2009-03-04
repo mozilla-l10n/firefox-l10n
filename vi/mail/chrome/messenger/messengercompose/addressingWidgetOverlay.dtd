@@ -3,7 +3,7 @@
 <!ENTITY toAddr.label   "Tới:"> 
 <!ENTITY ccAddr.label   "Cc:"> 
 <!ENTITY bccAddr.label  "Bcc:"> 
-<!ENTITY replyAddr.label   "Trả-lời-Tới:"> 
+<!ENTITY replyAddr.label   "Trả lời Tới:"> 
 <!ENTITY newsgroupsAddr.label   "Nhóm tin:"> 
-<!ENTITY followupAddr.label   "Theo-sau-Tới:"> 
+<!ENTITY followupAddr.label   "Trả lời Tin tại:"> 
 

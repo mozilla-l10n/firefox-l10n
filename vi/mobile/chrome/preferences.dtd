@@ -1,0 +1,15 @@
+<!ENTITY content.title                             "Nội dung">
+<!ENTITY permissions.default.image.title           "Tải hình ảnh">
+<!ENTITY permissions.default.image.description     "Làm trang web đẹp đẽ hơn">
+<!ENTITY javascript.enabled.title                  "Bật JavaScript">
+<!ENTITY javascript.enabled.description            "Làm trang web sống động hơn">
+<!ENTITY plugins.enabled.title                     "Bật các Phần bổ trợ">
+<!ENTITY plugins.enabled.description               "Làm trang web rườm rà hơn">
+<!ENTITY privacy.title                             "Riêng tư &amp; Bảo mật">
+<!ENTITY network.cookie.cookieBehavior.title       "Lưu cookie">
+<!ENTITY network.cookie.cookieBehavior.description "Bánh ngọt ngon lành">
+<!ENTITY clear.private.data.title                  "Xóa dữ liệu cá nhân">
+<!ENTITY clear.private.data.button                 "Xóa…">
+<!ENTITY clear.private.data.description            "Bảo vệ nơi ẩn náu của bạn">
+<!ENTITY signon.rememberSignons.title              "Lưu mật khẩu">
+<!ENTITY signon.rememberSignons.description        "Để đỡ phải gõ nhiều">

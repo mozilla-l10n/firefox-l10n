@@ -1,0 +1,104 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY sunbird.choosedate.button.tooltip                 "Chọn ngày để nhảy tới" >
+<!ENTITY sunbird.cut.button.tooltip                        "Cắt" >
+<!ENTITY sunbird.copy.button.tooltip                       "Chép" >
+<!ENTITY sunbird.paste.button.tooltip                      "Dán" >
+<!ENTITY sunbird.print.button.tooltip                      "In lịch" >
+<!ENTITY sunbird.delete.button.tooltip                     "Xóa sự kiện đã chọn" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Tải lại tất cả các lịch ở xa" >
+<!ENTITY sunbird.import.button.tooltip                     "Nhập sự kiện từ một tập tin trong máy" >
+<!ENTITY sunbird.export.button.tooltip                     "Xuất sự kiện ra một tập tin trong máy" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Theo dõi tập tin lịch của một máy ở xa" >
+<!ENTITY sunbird.publish.button.tooltip                    "Xuất bản sự kiện tới một máy ở xa" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Tìm và liệt kê sự kiện" >
+<!ENTITY sunbird.edit.button.tooltip                       "Chỉnh sửa sự kiện đã chọn" >
+
+<!ENTITY sunbird.choosedate.button.label                   "Chọn Ngày" >
+<!ENTITY sunbird.cut.button.label                          "Cắt" >
+<!ENTITY sunbird.copy.button.label                         "Chép" >
+<!ENTITY sunbird.paste.button.label                        "Dán" >
+<!ENTITY sunbird.delete.button.label                       "Xóa" >
+<!ENTITY sunbird.remotereload.button.label                 "Tải lại" >
+<!ENTITY sunbird.import.button.label                       "Nhập" >
+<!ENTITY sunbird.export.button.label                       "Xuất" >
+<!ENTITY sunbird.subscribe.button.label                    "Theo dõi" >
+<!ENTITY sunbird.publish.button.label                      "Xuất bản" >
+<!ENTITY sunbird.unifinder.button.label                    "Tìm Sự Kiện" >
+<!ENTITY sunbird.edit.button.label                         "Chỉnh sửa" >
+
+<!ENTITY sunbird.flat.topbar.choosedate                    "Nhảy tới Ngày" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Hiển thị theo Ngày" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Hiển thị theo Tuần" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Hiển thị theo Tháng" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Hiển thị theo Nhiều Tuần" >
+
+<!ENTITY sunbird.dayview.accesskey                         "y" >
+<!ENTITY sunbird.weekview.accesskey                        "u" >
+<!ENTITY sunbird.monthview.accesskey                       "o" >
+<!ENTITY sunbird.multiweekview.accesskey                   "e" >
+
+
+<!ENTITY sunbird.calendartab.label                         "Ngày">
+<!ENTITY sunbird.listofcalendarstab.label                  "Lịch">
+
+<!ENTITY sunbird.find.key                                  "F">
+<!ENTITY sunbird.close.key                                 "W">
+
+<!ENTITY sunbird.menu.numberofweeks.label                  "Số Tuần" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "S" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 Tuần" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 Tuần" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 Tuần" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 Tuần" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 Tuần" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 Tuần" >
+
+<!-- customizable toolbars -->
+<!ENTITY sunbird.context.customize.label                   "Tùy biến…">
+<!ENTITY sunbird.context.customize.accesskey               "y">
+<!ENTITY sunbird.menu.customize.label                      "Tùy biến Thanh công cụ…">
+<!ENTITY sunbird.menu.customize.accesskey                  "y">
+<!ENTITY sunbird.maintoolbar.name                          "Thanh công cụ Chính">
+<!ENTITY sunbird.maintoolbar.accesskey                     "T">
+
+<!-- Sunbird Help -->
+<!ENTITY sunbird.help.label                                "Nội dung Trợ giúp">
+<!ENTITY sunbird.help.accesskey                            "T">
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title                                  "&brandFullName;">

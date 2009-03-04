@@ -33,12 +33,12 @@
 <!ENTITY convertEmoticons.accesskey    "H">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Thẻ tag có thể dùng để phân loại và thiết lập mức ưu tiên cho thư.">
-<!ENTITY addTagButton.label       "Thêm">
-<!ENTITY addTagButton.accesskey   "T">
-<!ENTITY editTagButton.label      "Chỉnh sửa">
+<!ENTITY displayTagsText.label     "Thẻ tag có thể dùng để phân loại và thiết lập mức ưu tiên cho thư.">
+<!ENTITY addTagButton.label        "Thêm">
+<!ENTITY addTagButton.accesskey    "T">
+<!ENTITY editTagButton.label       "Chỉnh sửa">
 <!ENTITY editTagButton.accesskey   "C">
-<!ENTITY removeTagButton.label    "Xóa">
+<!ENTITY removeTagButton.label     "Xóa">
 <!ENTITY removeTagButton.accesskey "X">
 
 <!-- Fonts -->

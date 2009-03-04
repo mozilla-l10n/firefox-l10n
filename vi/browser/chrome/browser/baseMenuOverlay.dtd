@@ -14,7 +14,7 @@
 <!ENTITY aboutCmd.accesskey       "v">
 <!ENTITY helpContents.label       "Nội dung Trợ giúp">
 <!ENTITY helpContents.accesskey   "T">
-<!ENTITY helpContentsMac.label    "Trợ giúp">
+<!ENTITY helpContentsMac.label    "Trợ giúp &brandShortName;">
 <!ENTITY helpForIEUsers.label     "Dành cho Người dùng Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">

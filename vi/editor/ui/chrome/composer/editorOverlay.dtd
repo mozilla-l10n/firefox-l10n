@@ -193,7 +193,7 @@
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "Kích thước">
+<!ENTITY fontSizeMenu.label "Kích cỡ">
 <!ENTITY fontSizeMenu.accesskey "K">
 <!ENTITY size-xx-smallCmd.label "siêu nhỏ">
 <!ENTITY size-xx-smallCmd.accesskey "s">

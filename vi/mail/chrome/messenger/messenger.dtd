@@ -109,7 +109,7 @@
 <!ENTITY redoCopyMsgCmd.label "Làm lại Chép Thư">
 <!ENTITY undoMarkAllCmd.label "Hoàn tác Đánh dấu Đã Đọc">
 <!ENTITY redoMarkAllCmd.label "Làm lại Đánh dấu Đã Đọc">
-<!ENTITY undoDefaultCmd.label "Hoàn tác ">
+<!ENTITY undoDefaultCmd.label "Hoàn tác">
 <!ENTITY undoDefaultCmd.accesskey "H">
 <!ENTITY redoDefaultCmd.label "Làm lại">
 <!ENTITY redoDefaultCmd.accesskey "L">

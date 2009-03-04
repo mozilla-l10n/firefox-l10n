@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Chuyển tiếp thư:">
 <!ENTITY forwardMsg.accesskey                 "y">
 <!ENTITY inline.label                         "Ngay trong thư">
-<!ENTITY inline.accesskey                     "N">
 <!ENTITY asAttachment.label                   "Dưới dạng Đính kèm">
-<!ENTITY asAttachment.accesskey               "D">
 <!ENTITY addExtension.label                   "thêm đuôi vào tên tập tin">
 <!ENTITY addExtension.accesskey               "u">
 
@@ -26,7 +24,7 @@
 <!ENTITY spellCheck.label                     "Kiểm tra chính tả trước khi gửi">
 <!ENTITY spellCheck.accesskey                 "c">
 <!ENTITY spellCheckInline.label               "Kiểm tra chính tả ngay khi đang gõ">
-<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY spellCheckInline1.accesskey          "K">
 <!ENTITY languagePopup.label                  "Ngôn ngữ:">
 <!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "Tải thêm Từ điển">
