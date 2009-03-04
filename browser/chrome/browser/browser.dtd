@@ -390,7 +390,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "n">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Paginarichting omkeren">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Tekstrichting omkeren">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
