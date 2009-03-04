@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "转发消息：">
 <!ENTITY forwardMsg.accesskey                 "w">
 <!ENTITY inline.label                         "内联">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "作为附件">
-<!ENTITY asAttachment.accesskey               "A">
 <!ENTITY addExtension.label                   "添加扩展名至文件名">
 <!ENTITY addExtension.accesskey               "f">
 
@@ -26,7 +24,7 @@
 <!ENTITY spellCheck.label                     "发送前进行拼写检查">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "启用即时拼写检查">
-<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY spellCheckInline1.accesskey          "k">
 <!ENTITY languagePopup.label                  "语言：">
 <!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "下载更多字典">

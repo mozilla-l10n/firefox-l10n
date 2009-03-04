@@ -6,9 +6,9 @@
 <!ENTITY convertPlain.label           "把消息转换为纯文本">
 <!ENTITY convertPlain.accesskey       "C">
 <!ENTITY sendHTML.label               "无论如何均以 HTML 格式发送">
-<!ENTITY sendHTML.accesskey           "S">
+<!ENTITY sendHTML.accesskey           "H">
 <!ENTITY sendBoth.label               "以纯文本和 HTML 两种格式发送">
-<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY sendBoth.accesskey           "H">
 <!ENTITY override.label               "说明：使用通讯录为收件人指定优先的文本格式。">
 
 <!ENTITY domaindesc.label             "当向具有如下所列域的地址发送消息时，&brandShortName; 会自动以正确的格式来发送消息。">

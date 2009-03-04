@@ -33,12 +33,12 @@
 <!ENTITY convertEmoticons.accesskey    "D">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "标签用于对消息进行分类或区分优先级。">
-<!ENTITY addTagButton.label       "添加">
-<!ENTITY addTagButton.accesskey   "A">
-<!ENTITY editTagButton.label      "编辑">
+<!ENTITY displayTagsText.label     "标签用于对消息进行分类或区分优先级。">
+<!ENTITY addTagButton.label        "添加">
+<!ENTITY addTagButton.accesskey    "A">
+<!ENTITY editTagButton.label       "编辑">
 <!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label    "删除">
+<!ENTITY removeTagButton.label     "删除">
 <!ENTITY removeTagButton.accesskey "l">
 
 <!-- Fonts -->
