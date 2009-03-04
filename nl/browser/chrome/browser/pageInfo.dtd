@@ -54,7 +54,7 @@
 <!ENTITY  generalType           "Type:">
 <!ENTITY  generalMode           "Rendermodus:">
 <!ENTITY  generalSize           "Grootte:">
-<!ENTITY  generalReferrer       "Verwijzende adres:">
+<!ENTITY  generalReferrer       "Verwijzende URL:">
 <!ENTITY  generalSource         "Bufferbron:">
 <!ENTITY  generalModified       "Gewijzigd:">
 <!ENTITY  generalEncoding       "Tekenset:">

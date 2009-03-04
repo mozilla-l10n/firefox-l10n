@@ -54,7 +54,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textSize.label "Tekengrootte">
 <!ENTITY menu_textSize.accesskey "T">
 <!ENTITY menu_textEnlarge.label "Vergroten">
-<!ENTITY menu_textEnlarge.accesskey "g">
+<!ENTITY menu_textEnlarge.accesskey "r">
 <!ENTITY menu_textReduce.label "Verkleinen">
 <!ENTITY menu_textReduce.accesskey "k">
 <!ENTITY menu_textReset.label "Normaal">
