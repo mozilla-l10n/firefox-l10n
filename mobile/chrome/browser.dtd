@@ -13,6 +13,8 @@
 <!ENTITY search.tooltip        "Sykje">
 <!ENTITY go.label              "Gean">
 <!ENTITY go.tooltip            "Gean">
+<!ENTITY openLocation.label    "Iepenje lokaasje">
+<!ENTITY openLocation.tooltip  "Iepenje lokaasje">
 <!ENTITY star.label            "Stjer">
 <!ENTITY star.tooltip          "Meitsje blêdwizer">
 <!ENTITY bookmarks.label       "Blêdwizers">
@@ -30,10 +32,14 @@
 <!ENTITY noSuggestions.label   "(Gjin foarstellen)">
 <!ENTITY addToDictionary.label "Foech ta oan wurdlist">
 
-<!ENTITY bookmarkName.label    "Namme:">
-<!ENTITY bookmarkFolder.label  "Map:">
-<!ENTITY bookmarkTags.label    "Labels:">
-<!ENTITY bookmarkRemove.label  "Blêdwizer fuortsmite">
+<!ENTITY bookmarksHeader.label     "Blêdwizers">
+<!ENTITY bookmarksManage.label     "Beheare">
+<!ENTITY foldersHeader.label       "Mappen">
+
+<!ENTITY editBookmarkEdit.label    "Bewurkje">
+<!ENTITY editBookmarkMove.label    "Ferpleats">
+<!ENTITY editBookmarkDone.label    "Klear">
+<!ENTITY editBookmarkTags.label    "Foech hjir labels ta">
 
 <!ENTITY findOnCmd.label     "Fyn yn dizze side…">
 <!ENTITY findOnCmd.accesskey "F">
