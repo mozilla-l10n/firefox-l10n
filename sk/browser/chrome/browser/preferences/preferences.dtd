@@ -7,7 +7,7 @@
 <!ENTITY  prefWin.styleMac2        "width: 47em; min-height: 40em;">
 <!ENTITY  prefWin.styleGNOME2      "width: 48em; min-height: 36em;">
 
-<!ENTITY  paneMain.title          "Hlavné">
+<!ENTITY  paneGeneral.title       "Všeobecné">
 <!ENTITY  paneTabs.title          "Karty">
 <!ENTITY  paneContent.title       "Obsah">
 <!ENTITY  paneApplications.title  "Aplikácie">

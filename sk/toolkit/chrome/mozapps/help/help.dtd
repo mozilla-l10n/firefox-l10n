@@ -44,9 +44,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey          "k">
 
 <!ENTITY zLevel.label                   "Vždy navrchu">
-<!ENTITY zLevel.accesskey               "d">
+<!ENTITY zLevel.accesskey               "a">
 
 <!ENTITY fullZoomReduceBtn.label        "Vzdialiť">
 <!ENTITY fullZoomReduceBtn.accesskey    "V">
 <!ENTITY fullZoomEnlargeBtn.label       "Priblížiť">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "i">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "P">
