@@ -54,7 +54,3 @@
 
 <!ENTITY  clearDataSettings.label       "Nastavenia…">
 <!ENTITY  clearDataSettings.accesskey   "a">
-
-<!ENTITY  clearDataNow.label            "Odstrániť teraz…">
-<!ENTITY  clearDataNow.accesskey        "d">
-

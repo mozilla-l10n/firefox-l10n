@@ -32,11 +32,14 @@
 <!ENTITY noSuggestions.label   "(Žiadne návrhy)">
 <!ENTITY addToDictionary.label "Pridať do slovníka">
 
-<!ENTITY editBookmarkName.label    "Názov:">
-<!ENTITY editBookmarkURI.label     "Adresa:">
-<!ENTITY editBookmarkTags.label    "Značky:">
-<!ENTITY bookmarkRemove.label      "Odstrániť záložku">
+<!ENTITY bookmarksHeader.label     "Záložky">
+<!ENTITY bookmarksManage.label     "Spravovať">
+<!ENTITY foldersHeader.label       "Priečinky">
+
+<!ENTITY editBookmarkEdit.label    "Upraviť">
+<!ENTITY editBookmarkMove.label    "Presunúť">
 <!ENTITY editBookmarkDone.label    "Hotovo">
+<!ENTITY editBookmarkTags.label    "Pridajte značky">
 
 <!ENTITY findOnCmd.label     "Hľadať na tejto stránke…">
 <!ENTITY findOnCmd.accesskey "H">
