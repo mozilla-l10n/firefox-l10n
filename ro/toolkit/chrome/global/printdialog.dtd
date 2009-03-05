@@ -7,23 +7,23 @@
 <!ENTITY fpDialog.title "Salvare fișier">
 
 <!ENTITY fileCheck.label "Tipărește în fișier">
-<!ENTITY fileCheck.accesskey "F">
+<!ENTITY fileCheck.accesskey "f">
 <!ENTITY propertiesButton.label "Proprietăți...">
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Descriere imprimantă:">
 <!ENTITY printer.label "Imprimantă">
 <!ENTITY printerInput.label "Imprimantă:">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.accesskey "n">
 
 <!ENTITY printrangeGroup.label "Ce se tipărește?">
 <!ENTITY allpagesRadio.label "Toate paginile">
-<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY allpagesRadio.accesskey "a">
 <!ENTITY rangeRadio.label  "Paginile">
 <!ENTITY rangeRadio.accesskey  "P">
 <!ENTITY frompageInput.label  "de la">
-<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY frompageInput.accesskey  "d">
 <!ENTITY topageInput.label  "la">
-<!ENTITY topageInput.accesskey  "t">
+<!ENTITY topageInput.accesskey  "l">
 <!ENTITY selectionRadio.label "Selecția">
 <!ENTITY selectionRadio.accesskey "S">
 
@@ -33,8 +33,8 @@
 
 <!ENTITY printframeGroup.label "Tipărire cadre">
 <!ENTITY aslaidoutRadio.label "În aranjarea de pe ecran">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.accesskey "n">
 <!ENTITY selectedframeRadio.label  "Doar cadrul selectat">
-<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY selectedframeRadio.accesskey  "D">
 <!ENTITY eachframesepRadio.label  "Fiecare cadru separat">
-<!ENTITY eachframesepRadio.accesskey  "E">
+<!ENTITY eachframesepRadio.accesskey  "e">

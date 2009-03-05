@@ -54,6 +54,3 @@
 
 <!ENTITY  clearDataSettings.label        "Setări...">
 <!ENTITY  clearDataSettings.accesskey    "S">
-
-<!ENTITY  clearDataNow.label             "Șterge acum...">
-<!ENTITY  clearDataNow.accesskey         "m">
