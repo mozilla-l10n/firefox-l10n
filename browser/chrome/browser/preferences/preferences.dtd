@@ -7,7 +7,7 @@
 <!ENTITY  prefWin.styleMac2       "width: 56em; min-height: 40em;">
 <!ENTITY  prefWin.styleGNOME2     "width: 56em; min-height: 39em;">
 
-<!ENTITY  paneMain.title          "General">
+<!ENTITY  paneGeneral.title       "General">
 <!ENTITY  paneTabs.title          "File">
 <!ENTITY  paneContent.title       "Conținut">
 <!ENTITY  paneApplications.title  "Aplicații">

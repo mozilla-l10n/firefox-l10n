@@ -36,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey   "d">
 <!ENTITY itemActiveLogins.label       "Autentificări active">
 <!ENTITY itemActiveLogins.accesskey   "A">
+<!ENTITY itemSiteSettings.label       "Setări specifice saitului">
+<!ENTITY itemSiteSettings.accesskey   "S">
 
-<!ENTITY window.width                 "30em">
+<!ENTITY window.width                 "32em">
 <!ENTITY column.width                 "14em">

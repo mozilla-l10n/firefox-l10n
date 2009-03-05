@@ -43,7 +43,7 @@
 <!ENTITY  validation.crlautoupdateenabled.label   "Actualizare automată">
 <!ENTITY  validation.crlautoupdatestatus.label    "Starea actualizării automate">
 <!ENTITY  validation.deletecrl.label              "Șterge">
-<!ENTITY  validation.deletecrl.accesskey          "Ș">
+<!ENTITY  validation.deletecrl.accesskey          "t">
 <!ENTITY  validation.updatecrl.label              "Actualizează">
 <!ENTITY  validation.updatecrl.accesskey          "u">
 <!ENTITY  validation.advanced.label               "Setări">

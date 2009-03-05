@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigare fără urme)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Filă nouă">
 <!ENTITY tabCmd.accesskey "F">
@@ -88,6 +86,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Oprește încărcarea acestei pagini">
 <!ENTITY goEndCap.tooltip             "Mergi la adresa din bara adresei">
+<!ENTITY feedButton.tooltip           "Abonare la această pagină...">
 <!ENTITY printButton.label            "Tipărește">
 <!ENTITY printButton.tooltip          "Tipărește această pagină">
 
@@ -351,6 +350,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mărime text">
 <!ENTITY fullZoom.accesskey             "M">
 
+<!ENTITY newTabButton.tooltip           "Deschide o filă nouă">
 <!ENTITY newWindowButton.tooltip        "Deschide o fereastră nouă">
 <!ENTITY sidebarCloseButton.tooltip     "Închide bara laterală">
 
