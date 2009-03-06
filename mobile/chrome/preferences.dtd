@@ -3,6 +3,8 @@
 <!ENTITY permissions.default.image.description     "Makket websteeën maklik">
 <!ENTITY javascript.enabled.title                  "Javaskript ynskeakelje">
 <!ENTITY javascript.enabled.description            "Makket websteeën flashy">
+<!ENTITY javascript.options.jit.content.title      "JavaScript tracing ynskeakelje">
+<!ENTITY javascript.options.jit.content.description "Brûk basiskoade kompilaasje yn JavaScript">
 <!ENTITY plugins.enabled.title                     "Ynstekkers ynskeakelje">
 <!ENTITY plugins.enabled.description               "Makket websteeën ferfelend">
 <!ENTITY privacy.title                             "Privacy &amp; Feilichheid">
