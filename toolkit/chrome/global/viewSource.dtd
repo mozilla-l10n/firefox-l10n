@@ -15,7 +15,7 @@
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Chiudi">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "h">
 <!ENTITY closeCmd.commandkey "W">
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">

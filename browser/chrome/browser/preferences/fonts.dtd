@@ -47,12 +47,12 @@
 <!ENTITY font.langGroup.kannada "Kannada">
 <!ENTITY font.langGroup.sinhala "Singalese">
 <!ENTITY minSize.label "Dimensione min. carattere:">
-<!ENTITY minSize.accesskey "e">
+<!ENTITY minSize.accesskey "n">
 <!ENTITY minSize.none "Nessuna">
 <!ENTITY useDefaultFontSerif.label "Con grazie">
 <!ENTITY useDefaultFontSansSerif.label "Senza grazie">
 <!ENTITY allowPagesToUse.label "Permetti alle pagine di scegliere i propri caratteri invece di quelli impostati">
-<!ENTITY allowPagesToUse.accesskey "P">
+<!ENTITY allowPagesToUse.accesskey "e">
 <!ENTITY languages.customize.Charset.grouplabel "Codifica caratteri">
 <!ENTITY languages.customize.DefaultCharset.label "Codifica carattere predefinita:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "o">

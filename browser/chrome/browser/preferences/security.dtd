@@ -16,7 +16,7 @@
 <!ENTITY changeMasterPassword.label "Cambia la password principale…">
 <!ENTITY changeMasterPassword.accesskey "b">
 <!ENTITY savedPasswords.label "Password salvate…">
-<!ENTITY savedPasswords.accesskey "o">
+<!ENTITY savedPasswords.accesskey "w">
 <!ENTITY warnings.label "Messaggi di avviso">
 <!ENTITY chooseWarnings.label "Scegliere i messaggi di avviso che si desidera visualizzare durante la navigazione">
 <!ENTITY warningSettings.label "Impostazioni…">
