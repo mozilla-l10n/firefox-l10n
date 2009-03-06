@@ -1,8 +1,10 @@
 <!ENTITY content.title "Contenido">
-<!ENTITY permissions.default.image.title "Cargar imágenes">
+<!ENTITY permissions.default.image.title "Cargar imágenes automáticamente">
 <!ENTITY permissions.default.image.description "Hace más bonitos a los sitios web">
-<!ENTITY javascript.enabled.title "Activar Javascript">
+<!ENTITY javascript.enabled.title "Activar JavaScript">
 <!ENTITY javascript.enabled.description "Mejora las webs con JS">
+<!ENTITY javascript.options.jit.content.title "Habilitar traceado de JavaScript">
+<!ENTITY javascript.options.jit.content.description "Usar la compilación nativa de código en JavaScript (TraceMonkey)">
 <!ENTITY plugins.enabled.title "Activar plugins">
 <!ENTITY plugins.enabled.description "Hace las webs más molestas">
 <!ENTITY privacy.title "Privacidad y seguridad">
