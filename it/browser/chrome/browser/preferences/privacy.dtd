@@ -7,10 +7,10 @@
 <!ENTITY locbar.bookmarks.label "segnalibri">
 <!ENTITY locbar.nothing.label "nessun suggerimento">
 <!ENTITY rememberDaysBefore.label "Conserva la cronologia per almeno">
-<!ENTITY rememberDaysBefore.accesskey "v">
+<!ENTITY rememberDaysBefore.accesskey "C">
 <!ENTITY rememberDaysAfter2.label "giorni">
 <!ENTITY rememberForms.label "Salva le informazioni inserite nei moduli e nella barra di ricerca">
-<!ENTITY rememberForms.accesskey "z">
+<!ENTITY rememberForms.accesskey "v">
 <!ENTITY rememberDownloads.label "Ricorda i file scaricati">
 <!ENTITY rememberDownloads.accesskey "R">
 <!ENTITY cookies.label "Cookie">

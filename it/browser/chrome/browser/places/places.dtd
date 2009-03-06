@@ -84,14 +84,14 @@
 <!ENTITY cmd.sortby_name.accesskey "n">
 <!ENTITY cmd.context_sortby_name.accesskey "O">
 <!ENTITY cmd.new_bookmark.label "Nuovo segnalibro…">
-<!ENTITY cmd.new_bookmark.accesskey "s">
+<!ENTITY cmd.new_bookmark.accesskey "b">
 <!ENTITY cmd.new_livemark.label "Nuovo segnalibro Live…">
 <!ENTITY cmd.new_livemark.accesskey "L">
 <!ENTITY cmd.new_folder.label "Nuova cartella…">
 <!ENTITY cmd.new_folder.accesskey "N">
 <!ENTITY cmd.context_new_folder.accesskey "N">
 <!ENTITY cmd.new_separator.label "Nuovo separatore">
-<!ENTITY cmd.new_separator.accesskey "r">
+<!ENTITY cmd.new_separator.accesskey "u">
 <!ENTITY cmd.reloadLivebookmark.label "Ricarica segnalibro Live">
 <!ENTITY cmd.reloadLivebookmark.accesskey "R">
 <!ENTITY cmd.reloadMicrosummary.label "Ricarica titolo Live">

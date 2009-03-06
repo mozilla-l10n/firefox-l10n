@@ -23,11 +23,11 @@
 <!ENTITY ssl.label "Proxy SSL:">
 <!ENTITY ssl.accesskey "S">
 <!ENTITY socks.label "Host SOCKS:">
-<!ENTITY socks.accesskey "C">
+<!ENTITY socks.accesskey "K">
 <!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "K">
+<!ENTITY socks4.accesskey "4">
 <!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
+<!ENTITY socks5.accesskey "5">
 <!ENTITY port.label "Porta:">
 <!ENTITY HTTPport.accesskey "P">
 <!ENTITY SSLport.accesskey "o">
@@ -38,4 +38,4 @@
 <!ENTITY noproxy.accesskey "x">
 <!ENTITY noproxyExplain.label "Esempio: .mozilla.org, .net.it">
 <!ENTITY shareproxy.label "Utilizzare lo stesso proxy per tutti i protocolli">
-<!ENTITY shareproxy.accesskey "x">
+<!ENTITY shareproxy.accesskey "c">
