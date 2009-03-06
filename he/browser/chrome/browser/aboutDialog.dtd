@@ -1,12 +1,16 @@
-<!ENTITY aboutDialog.title "&brandFullName; אודות">
-<!ENTITY copyright "תודות">
-<!ENTITY copyright.accesskey    "ת">
-<!ENTITY aboutLink "&lt; אודות &brandFullName;">
-<!ENTITY aboutLink.accesskey    "א">
-<!ENTITY aboutVersion "גרסה">
-<!ENTITY copyrightInfo          "&#169;1998-2008 תורמים. 
-כל הזכויות שמורות. Firefox והסמלים של Firefox הם סימנים מסחריים של קרן Mozilla. כל הזכויות שמורות.">
+<!ENTITY aboutDialog.title          "&brandFullName; אודות">
+<!ENTITY copyright                  "תודות">
+<!ENTITY copyright.accesskey        "ת">
+<!ENTITY copyrightGNOME.accesskey   "ת">
+<!ENTITY aboutLink                  "&lt; אודות &brandFullName;">
+<!ENTITY aboutLink.accesskey        "א">
+<!ENTITY aboutVersion               "גרסה">
 
 <!ENTITY closeCmdGNOME.label        "סגירה">  
 <!ENTITY closeCmdGNOME.accesskey    "ס">
-<!ENTITY copyrightGNOME.accesskey   "ת">
+
+
+<!ENTITY copyrightInfo1             "&#169;1998-2009 תורמים. כל הזכויות שמורות. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "מידע רישוי">
+<!ENTITY copyrightInfo2             ").">

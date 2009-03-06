@@ -7,10 +7,12 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(גלישה פרטית)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (גלישה פרטית)">
 
 <!ENTITY tabCmd.label "לשונית חדשה">
 <!ENTITY tabCmd.accesskey "ש">
@@ -66,6 +68,8 @@
 <!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
 <!ENTITY organizeBookmarks.label "ארגן סימניות…">
 <!ENTITY bookmarkAllCmd.label "הוסף סימנייה לכל הלשוניות...">
+<!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
+
 <!ENTITY backCmd.label "אחורה">
 <!ENTITY backCmd.accesskey "ח">
 <!ENTITY backButton.tooltip "חזור דף אחד אחורה">
@@ -74,13 +78,15 @@
 <!ENTITY forwardButton.tooltip "התקדם דף אחד קדימה">
 <!ENTITY backForwardMenu.tooltip      "דפים אחרונים">
 <!ENTITY reloadCmd.label "טען מחדש">
-<!ENTITY reloadCmd.accesskey "מ">
+<!ENTITY reloadCmd.accesskey "ט">
 <!ENTITY reloadButton.tooltip "טען מחדש דף נוכחי">
 <!ENTITY stopCmd.label "עצור">
 <!ENTITY stopCmd.accesskey "צ">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "הפסק לטעון דף זה">
 <!ENTITY goEndCap.tooltip "עבור לכתובת שבסרגל המיקום">
+
+<!-- ### ENTITY feedButton.tooltip           "הירשם לדף זה…" -->
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY printButton.tooltip "הדפס דף זה">
 <!ENTITY locationItem.title "מיקום">
@@ -152,8 +158,16 @@
 <!ENTITY clearRecentHistoryCmd.label            "מחק היסטוריה אחרונה">
 <!ENTITY clearRecentHistoryCmd.accesskey        "ה">
 
-<!ENTITY privateBrowsingCmd.label            "גלישה פרטית">
-<!ENTITY privateBrowsingCmd.accesskey        "פ">
+<!-- ### ENTITY privateBrowsingCmd.label            "גלישה פרטית" -->
+<!-- ### ENTITY privateBrowsingCmd.accesskey        "פ" -->
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "התחל גלישה פרטית">
+<!ENTITY privateBrowsingCmd.start.accesskey     "ג">
+<!ENTITY privateBrowsingCmd.stop.label          "הפסק גלישה פרטית">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "ג">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
 
 <!ENTITY viewMenu.label "תצוגה">
 <!ENTITY viewMenu.accesskey "ת">
@@ -361,7 +375,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY editBookmark.cancel.label                   "ביטול">
-<!ENTITY editBookmark.removeBookmark.label           "הסר סימניה">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ה">
 <!ENTITY editBookmark.undo.label                     "ביטול">
 <!ENTITY editBookmark.undo.accessKey                 "ב">

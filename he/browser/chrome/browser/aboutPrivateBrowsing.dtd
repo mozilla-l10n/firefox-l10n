@@ -1,14 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "גלישה פרטית">
+<!ENTITY privatebrowsingpage.title                 "גלישה פרטית">
+<!ENTITY privatebrowsingpage.title.normal          "האם ברצונך להתחיל גלישה פרטית?">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "גלישה פרטית">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; לא יזכור היסטוריה כלשהי בהפעלה זו.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; לא נמצא כעת במצב גלישה פרטית.">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; לא ישמור היסטוריה כלשהי בהפעלה זו.">
-<!ENTITY privatebrowsingpage.longDesc                  "לא תשמר היסטוריה כלשהי בהפעלה זו של &brandShortName;, לרבות היסטוריית הדפדפן, היסטוריית חיפושים, היסטוריית הורדות, היסטוריית טפסים, עוגיות וקבצי אינטרנט זמניים. למרות זאת, קבצים שתוריד או סימניות שתיצור ישמרו.">
+<!ENTITY privatebrowsingpage.description               "בהפעלה במצב גלישה פרטית, &brandShortName; לא ישמור את היסטורית דפדפן גלשהי, היסטורית חיפוש, היסטורית הורדות, היסטורית טפסים, עוגיות, או קבצי אינטרנט זמניים. למרות זאת, קבצים שתוריד וסימניות שתיצור ישמרו.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "ייתכן ותרצה להתחיל גם עם ניקוי ההיסטוריה.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label  "נקה היסטוריה…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "נ">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "ייתכן ותרצה להתחיל גם עם ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "ניקוי ההיסטוריה האחרונה">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "התחל גלישה פרטית">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "פ">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "כדי לסיים את הגלישה הפרטית, הסר את הסימון מתפריט כלים &gt; גלישה פרטית.">
-<!ENTITY privatebrowsingpage.footerDesc                "תהנה!">
+<!ENTITY privatebrowsingpage.howToStop                 "כדי להפסיק את הגלישה הפרטית, בחר &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, או סגור את &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "כדי להתחיל בגלישה פרטית, אתה יכול גם לבחור באפשרות select &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "למרות שמחשב זה לא ישמור את היסטורית הגלישה שלך, ספק שירותי האינטרנט שלך או המעסיק עדיין יוכלו לעקוב אחר הדפים שאתה מבקר בהם.">
+<!ENTITY privatebrowsingpage.learnMore                 "מידע נוסף">
