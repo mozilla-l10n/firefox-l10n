@@ -52,7 +52,7 @@
 <!ENTITY openFileCmd.accesskey "M">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Mở Địa Chỉ Web…">
-<!ENTITY openRemoteCmd.accesskey "a">
+<!ENTITY openRemoteCmd.accesskey "W">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Các Trang Gần đây">
 <!ENTITY fileRecentMenu.accesskey "r">
