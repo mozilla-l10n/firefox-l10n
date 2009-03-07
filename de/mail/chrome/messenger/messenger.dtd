@@ -418,6 +418,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY messengerCmd.accesskey "T">
 <!ENTITY addressBookCmd.label "Adressbuch">
 <!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY runJunkControls.label "Junk-Filter auf Ordner anwenden">
 <!ENTITY runJunkControls.accesskey "J">
 <!ENTITY deleteJunk.label "Junk in diesem Ordner löschen">
