@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "Paramètres compte RSS">
+<!ENTITY accountTitle.label "Paramètres de compte">
 
 <!ENTITY biffStart.label "Vérifier les nouveaux articles toutes les ">
 <!ENTITY biffStart.accesskey "V">
@@ -14,7 +14,7 @@
 <!ENTITY manageSubscriptions.accesskey "G">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Nouvelles et Blogs">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "Nouvelles RSS et Blogs">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY feeds.accountName "Blogs et nouvelles">
+<!ENTITY feeds.wizardShortName "Flux">
+<!ENTITY feeds.wizardLongName "Blogs et nouvelles">
+<!ENTITY feeds.wizardLongName.accesskey "B">
