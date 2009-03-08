@@ -449,6 +449,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY messengerCmd.accesskey "p">
 <!ENTITY addressBookCmd.label "Adressboken">
 <!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY runJunkControls.label "Kör skräppost-kontrollen på mapp">
 <!ENTITY runJunkControls.accesskey "ö">
 <!ENTITY deleteJunk.label "Ta bort e-post märkt som skräp från mapp">
