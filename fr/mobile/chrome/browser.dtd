@@ -16,8 +16,8 @@
 <!ENTITY openLocation.label    "Ouvrir une adresse">
 <!ENTITY openLocation.tooltip  "Ouvrir une adresse">
 <!ENTITY star.label            "Marquer">
-<!ENTITY star.tooltip          "Mrquer cette page">
-<!ENTITY bookmarks.label       "MArque-pages">
+<!ENTITY star.tooltip          "Marquer cette page">
+<!ENTITY bookmarks.label       "Marque-pages">
 <!ENTITY bookmarks.tooltip     "Afficher les marque-pages">
 
 <!ENTITY newtab.label          "Nouvel onglet">
@@ -29,7 +29,7 @@
 <!ENTITY paste.label           "Coller">
 <!ENTITY delete.label          "Supprimer">
 <!ENTITY selectAll.label       "Tout sélectionner">
-<!ENTITY noSuggestions.label   "(Pad de suggestion)">
+<!ENTITY noSuggestions.label   "(Pas de suggestion)">
 <!ENTITY addToDictionary.label "Ajouter au dictionnaire">
 
 <!ENTITY bookmarksHeader.label "Marque-pages">
@@ -50,7 +50,7 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit pas d'information sur son identité.">
-<!ENTITY identity.connectedTo "Vous êtes connecté à">
+<!ENTITY identity.connectedTo "Vous vous trouvez sur">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
