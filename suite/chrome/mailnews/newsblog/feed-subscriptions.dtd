@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Abonnements aux fils">
+<!ENTITY feedSubscriptions.label "Abonnements aux fils">
 <!ENTITY subscriptionDesc.label "Note : supprimer ou modifier le dossier pour un fil n'affectera pas les articles déjà téléchargés.">
 <!ENTITY feedTitle.label "Titre :">
 <!ENTITY location.label "Emplacement :">
