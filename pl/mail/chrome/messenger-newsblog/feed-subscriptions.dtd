@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Subskrypcje RSS">
+<!ENTITY feedSubscriptions.label     "Subskrypcje">
 <!ENTITY subscriptionDesc.label      "Uwaga: Usunięcie lub zmiana folderu dla kanału nie będą miały wpływu na pobrane wcześniej artykuły.">
 <!ENTITY feedTitle.label             "Tytuł:">
 <!ENTITY location.label              "Adres:">

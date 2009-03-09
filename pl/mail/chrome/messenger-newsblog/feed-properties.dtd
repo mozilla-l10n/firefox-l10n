@@ -1,5 +1,5 @@
 <!-- Feed Properties Dialog -->
-<!ENTITY window.title "Właściwości kanału RSS">
+<!ENTITY window.title "Właściwości źródła">
 
 <!ENTITY feedFolder.label     "Przechowuj artykuły w: ">
 <!ENTITY feedFolder.accesskey "r">

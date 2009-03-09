@@ -17,5 +17,5 @@
 <!ENTITY junkSettings.label          "Ustawienia niechcianej poczty">
 <!ENTITY offlineLink.label           "Ustawienia offline">
 
-<!ENTITY rssSectionHdr.label "RSS: Aktualności i blogi">
-<!ENTITY subscibeRSS.label   "Menedżer kanałów RSS">
+<!ENTITY rssSectionHdr.label "Aktualności i blogi">
+<!ENTITY subscibeRSS.label   "Menedżer źródeł aktualności">
