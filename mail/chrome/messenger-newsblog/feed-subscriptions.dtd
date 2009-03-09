@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS ਮੈਂਬਰੀ">
+<!ENTITY feedSubscriptions.label "ਫੀਡ ਮੈਂਬਰੀ">
 <!ENTITY subscriptionDesc.label "ਸੂਚਨਾ: ਫੀਡ ਲਈ ਫੋਲਡਰ ਹਟਾਉਣ ਜਾਂ ਬਦਲਣ ਨਾਲ ਪਹਿਲਾਂ ਡਾਊਨਲੋਡ ਕੀਤੇ ਫੋਲਡਰਾਂ ਉੱਤੇ ਕੋਈ ਅਸਰ ਨਹੀਂ ਪੈਂਦਾ ਹੈ।">
 <!ENTITY feedTitle.label "ਟਾਈਟਲ:">
 <!ENTITY location.label  "ਟਿਕਾਣਾ:">

@@ -1,20 +1,20 @@
-<!ENTITY newsblogTitle.label "RSS ਅਕਾਊਂਟ ਸੈਟਿੰਗ">
+<!ENTITY accountTitle.label "ਅਕਾਊਂਟ ਸੈਟਿੰਘ">
 
-<!ENTITY biffStart.label "ਨਵੇਂ ਲੇਖ ਦੀ ਜਾਂਚ ਹਰ">
+<!ENTITY biffStart.label "ਨਵੇਂ ਲੇਖਾਂ ਦੀ ਜਾਂਚ ਕਰੋ ਹਰੇਕ ">
 <!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "ਮਿੰਟ ਬਾਅਦ">
+<!ENTITY biffEnd.label "ਮਿੰਟਾਂ ਬਾਅਦ">
 
-<!ENTITY loginAtStartup.label "ਸ਼ੁਰੂ ਹੋਣ ਸਮੇਂ ਨਵੇਂ ਲੇਖ ਦੀ ਜਾਂਚ ਕਰੋ"> 
+<!ENTITY loginAtStartup.label "ਸ਼ੁਰੂ ਵੇਲੇ ਨਵੇਂ ਲੇਖਾਂ ਲਈ ਚੈੱਕ ਕਰੋ"> 
 <!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "ਡਿਫਾਲਟ ਰੂਪ ਵਿੱਚ, ਪੂਰੇ ਵੈੱਬ ਸਫੇ ਦੀ ਬਜਾਏ ਸਿਰਫ ਇੱਕ ਲੇਖ ਹੀ ਵੇਖਾਓ"> 
+<!ENTITY useQuickMode.label "ਡਿਫਾਲਟ ਰੂਪ ਵਿੱਚ ਵੈੱਬ ਪੇਜ਼ ਲੋਡ ਕਰਨ ਦੀ ਬਜਾਏ ਲੇਖ ਸੰਖੇਪ ਜਾਣਕਾਰੀ ਵੇਖੋ"> 
 <!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "ਮੈਂਬਰੀ ਪਰਬੰਧ..."> 
+<!ENTITY manageSubscriptions.label "…ਮੈਂਬਰੀ ਪਰਬੰਧ"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "ਖ਼ਬਰਾਂ ਤੇ ਬੀ-ਲਾਗ">
-<!ENTITY rss.wizardShortName        "RSS">
-<!ENTITY rss.wizardLongName.accesskey "R">
-<!ENTITY rss.wizardLongName         "RSS ਖ਼ਬਰਾਂ ਤੇ ਬੀ-ਲਾਗ">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "ਬਲੌਗ ਤੇ ਨਿਊਜ਼ ਫੀਡ">
+<!ENTITY feeds.wizardShortName "ਫੀਡ">
+<!ENTITY feeds.wizardLongName "ਬਲੌਗ ਅਤੇ ਨਿਊਜ਼ ਫੀਡ">
+<!ENTITY feeds.wizardLongName.accesskey "F">
