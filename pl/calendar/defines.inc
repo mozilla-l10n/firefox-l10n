@@ -1,9 +1,11 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR mozilla.org
+#define MOZ_LANGPACK_CREATOR Aviary.pl
+
+#define MOZ_LANGPACK_HOMEPAGE http://www.aviary.pl
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Marek Stępień</em:contributor> 
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Hubert Gajewski</em:contributor><em:contributor>Marek Stępień</em:contributor> 
 
 #unfilter emptyLines
