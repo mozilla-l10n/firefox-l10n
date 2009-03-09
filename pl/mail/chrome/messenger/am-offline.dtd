@@ -12,8 +12,8 @@
 <!ENTITY nntpDownloadMsg.label           "Nie pobieraj treści wiadomości starszych niż">
 <!ENTITY nntpDownloadMsg.accesskey       "b">
 <!ENTITY retentionCleanup.label          "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane.">
-<!ENTITY retentionCleanupImap.label      "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane - zarówno lokalne kopie jak i oryginalne z serwera.">
-<!ENTITY retentionCleanupPop.label       "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane wliczając w to oryginalne ze zdalnego serwera.">
+<!ENTITY retentionCleanupImap.label      "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane, zarówno lokalne kopie jak i oryginalne wiadomości ze zdalnego serwera.">
+<!ENTITY retentionCleanupPop.label       "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane, wliczając w to oryginalne wiadomości ze zdalnego serwera.">
 <!ENTITY retentionKeepMsg.label          "Usuwaj wiadomości starsze niż">
 <!ENTITY retentionKeepMsg.accesskey      "m">
 <!ENTITY retentionKeepAll.label          "Nie usuwaj żadnych wiadomości">
