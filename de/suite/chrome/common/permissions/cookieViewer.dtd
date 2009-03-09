@@ -11,6 +11,10 @@
 <!ENTITY     button.removeallcookies.label  "Alle Cookies löschen">
 <!ENTITY     button.removeallcookies.accesskey "o">
 
+<!ENTITY     search.emptytext               "Cookies durchsuchen">
+<!ENTITY     focusSearch.key                "f">
+<!ENTITY     windowClose.key                "w">
+
 <!ENTITY     props.name.label               "Name:">
 <!ENTITY     props.value.label              "Inhalt:">
 <!ENTITY     props.domain.label             "Host:">
