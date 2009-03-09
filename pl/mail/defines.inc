@@ -1,6 +1,7 @@
 #filter emptyLines
 
 #define MOZ_LANGPACK_CREATOR Aviary.pl
+#define MOZ_LANGPACK_HOMEPAGE http://www.aviary.pl
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
