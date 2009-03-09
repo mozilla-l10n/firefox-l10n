@@ -24,7 +24,7 @@
 <!ENTITY templatesFolderOn.accesskey     "z">
 <!ENTITY templateInOtherFolder.label     "innym folderze:">
 <!ENTITY templateInOtherFolder.accesskey "n">
-<!ENTITY specialFoldersTitle.label       "Szkice, archiwum i Szablony">
+<!ENTITY specialFoldersTitle.label       "Szkice, archiwum i szablony">
 <!ENTITY keepDrafts.label                "Szkice wiadomości przechowuj w:">
 <!ENTITY keepArchives.label              "Archiwum wiadomości przechowuj w:">
 <!ENTITY keepTempltes.label              "Szablony wiadomości przechowuj w:">
