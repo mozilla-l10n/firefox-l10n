@@ -16,8 +16,8 @@
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Lainnya:">
 <!ENTITY draftInOtherFolder.accesskey "L">
-<!ENTITY archivesFolderOn.label "Folder &quot;Gudang&quot; di:">
-<!ENTITY archivesFolderOn.accesskey "G">
+<!ENTITY archivesFolderOn.label "Folder &quot;Arsip&quot; di:">
+<!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Lainnya:">
 <!ENTITY archiveInOtherFolder.accesskey "L">
 <!ENTITY templatesFolderOn.label "Folder &quot;Templat&quot; di:">
@@ -26,5 +26,5 @@
 <!ENTITY templateInOtherFolder.accesskey "a">
 <!ENTITY specialFoldersTitle.label "Konsep dan Templat">
 <!ENTITY keepDrafts.label "Letakkan pesan konsep di:">
-<!ENTITY keepArchives.label "Letakkan gudang pesan di:">
+<!ENTITY keepArchives.label "Letakkan arsip pesan di:">
 <!ENTITY keepTempltes.label "Letakkan pesan templat di:">
