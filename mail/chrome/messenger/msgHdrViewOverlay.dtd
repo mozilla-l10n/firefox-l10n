@@ -18,7 +18,7 @@
 <!ENTITY originalWebsite2.label "situs-web ">
 <!ENTITY editMessageDescription.label "Pesan ini masih konsep">
 <!ENTITY editMessageButton.label "Sunting…">
-<!ENTITY archiveButton.label "simpan ke gudang">
+<!ENTITY archiveButton.label "arsipkan">
 <!ENTITY hdrReplyButton.label "balas">
 <!ENTITY hdrReplyAllButton.label "balas ke semua">
 <!ENTITY hdrForwardButton.label "teruskan">

@@ -1,4 +1,4 @@
-<!ENTITY newsBlogSubscriptions.label "Langganan RSS">
+<!ENTITY feedSubscriptions.label "Langganan Feed">
 <!ENTITY subscriptionDesc.label "Catatan: Menghapus atau mengubah folder untuk feed tidak akan berpengaruh pada artikel yang pernah diunduh sebelumnya.">
 <!ENTITY feedTitle.label "Judul:">
 <!ENTITY location.label "Lokasi:">
