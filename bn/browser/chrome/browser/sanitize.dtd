@@ -1,0 +1,41 @@
+<!ENTITY sanitizePrefs.title "ব্যক্তিগত ডেটা মুছে ফেলুন">
+<!ENTITY sanitizeDialog2.title "সাম্প্রতিক ইতিহাস মুছে ফেলুন">
+
+<!ENTITY sanitizeItems.label "নিম্নলিখিত বিষয়বস্তুগুলি এই মুহূর্তে মুছে ফেলুন:">
+<!ENTITY clearDataSettings2.label "যখন আমি &brandShortName; বন্ধ করবো, সকল স্বয়ংক্রিয়ভাবে মুছে যাবে:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY clearDuration.label "সরিয়ে ফেলুন">
+<!ENTITY clearDuration.accesskey "R">
+<!ENTITY clearDuration.lastHour "শেষ ঘন্টায়">
+<!ENTITY clearDuration.last2Hours "শেষ ২ ঘন্টায়">
+<!ENTITY clearDuration.last4Hours "শেষ ৪ ঘন্টায়">
+<!ENTITY clearDuration.today "আমার আজকের ইতিহাস">
+<!ENTITY clearDuration.everything "আমার সকল ইতিহাস">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix "_: clearDuration.suffix">
+
+<!ENTITY historySection.label "ইতিহাস">
+<!ENTITY dataSection.label "ডেটা">
+
+<!ENTITY itemVisitedPages.label "পরিদর্শিত পৃষ্ঠাসমূহ (V)">
+<!ENTITY itemVisitedPages.accesskey "V">
+<!ENTITY itemFormSearchEntries.label "ফর্ম &amp; এন্ট্রি অনুসন্ধান (F)">
+<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemPasswords.label "সংরক্ষিত পাসওয়ার্ড (P)">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "কুকি (C)">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemWebCache.label "ওয়েব ক্যাশ (W)">
+<!ENTITY itemWebCache.accesskey "W">
+<!ENTITY itemOfflineApps.label "অফ-লাইন ওয়েব-সাইটের তথ্য (O)">
+<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemDownloadList.label "ডাউনলোড তালিকা (D)">
+<!ENTITY itemDownloadList.accesskey "D">
+<!ENTITY itemActiveLogins.label "সক্রিয় লগইনসমূহ (L)">
+<!ENTITY itemActiveLogins.accesskey "L">
+
+<!ENTITY window.width "30em">
+<!ENTITY column.width "14em">

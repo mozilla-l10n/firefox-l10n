@@ -1,0 +1,7 @@
+<!ENTITY crashes.title "প্রেরণকৃত ক্র্যাশ রিপোর্ট">
+<!ENTITY id.heading "রিপোর্ট আইডি">
+<!ENTITY date.heading "যেই তারিখে প্রেরণ করা হয়েছে">
+<!ENTITY noReports.label "কোনো ক্র্যাশ রিপোর্ট প্রেরণ করা হয়নি।">
+<!ENTITY noConfig.label "এই অ্যাপ্লিকেশনটি ক্র্যাশ রিপোর্ট দেখানোর জন্য কনফিগার করা হয়নি। পছন্দসই <code>breakpad.reportURL</code>  সেট করা আবশ্যক।">
+<!ENTITY clearReports.label "রিপোর্ট মুছে ফেলুন">
+

@@ -1,0 +1,22 @@
+<!ENTITY colorsDialog.title "রং">
+<!ENTITY window.width "38em">
+<!ENTITY window.macWidth "41em">
+
+<!ENTITY allowPagesToUse.label "উপরোক্ত পছন্দসই মানের পরিবর্তে পৃষ্ঠার দ্বারা নিজস্ব রং নির্বাচন করা হবে (A)">
+<!ENTITY allowPagesToUse.accesskey "A">
+
+<!ENTITY color "হরফ ও পটভূমি">
+<!ENTITY textColor.label "হরফ (T):">
+<!ENTITY textColor.accesskey "t">
+<!ENTITY backgroundColor.label "পটভূমি (B):">
+<!ENTITY backgroundColor.accesskey "b">
+<!ENTITY useSystemColors.label "সিস্টেমের রং ব্যবহার করা হবে (s)">
+<!ENTITY useSystemColors.accesskey "s">
+
+<!ENTITY underlineLinks.label "লিঙ্কের তলায় রেখা আঁকা হবে (U)">
+<!ENTITY underlineLinks.accesskey "u">
+<!ENTITY links "লিঙ্কের রং">
+<!ENTITY linkColor.label "পরিদর্শন না করা লিঙ্ক (L):">
+<!ENTITY linkColor.accesskey "l">
+<!ENTITY visitedLinkColor.label "পরিদর্শিত লিঙ্ক (V):">
+<!ENTITY visitedLinkColor.accesskey "v">

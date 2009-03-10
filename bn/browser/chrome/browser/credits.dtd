@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "রি-ডিস্কোভার দি ওয়েব">
+<!ENTITY credit.thanks "বিশেষ কৃতজ্ঞতা">
+
+<!ENTITY credit.thanks2 "কৃতজ্ঞতা জানাই">
+<!ENTITY credit.contributors2 "অংশগ্রহণকারী">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>অনুবাদকবৃন্দ</h3><ul><li>রুণা ভট্টাচার্য্য</li><li>মুঃ রেজওয়ান শহীদ</li><li>জামিল আহমেদ</li></ul>">
+
+<!ENTITY credit.memory "স্মরণে">
+<!ENTITY credit.poweredByGeckoReg "Gecko&reg; সহযোগে সঞ্চালিত">

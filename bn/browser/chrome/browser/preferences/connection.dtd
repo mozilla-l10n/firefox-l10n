@@ -1,0 +1,44 @@
+
+<!ENTITY connectionsDialog.title "সংযোগ সংক্রান্ত বৈশিষ্ট্যাবলী">
+<!ENTITY window.width "37em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY proxyTitle.label "ইন্টারনেট ব্যবহারের জন্য প্রক্সির বৈশিষ্ট্য নির্ধারণ করুন">
+<!ENTITY noProxyTypeRadio.label "প্রক্সি অনুপস্থিত (y)">
+<!ENTITY noProxyTypeRadio.accesskey "y">
+<!ENTITY systemTypeRadio.label "সিস্টেম প্রক্সির বৈশিষ্ট্য ব্যবহার করুন (U)">
+<!ENTITY systemTypeRadio.accesskey "u">
+<!ENTITY WPADTypeRadio.label "চিহ্নিত নেটওয়ার্কের প্রক্সির বৈশিষ্ট্য স্বয়ংক্রিয়ভাবে সনাক্ত করা হবে (w)">
+<!ENTITY WPADTypeRadio.accesskey "w">
+<!ENTITY manualTypeRadio.label "ব্যবহারকারী দ্বারা প্রক্সি কনফিগারেশন (M)">
+<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY autoTypeRadio.label "স্বয়ংক্রিয়ভাবে প্রক্সি কনফিগার করার URL (A):">
+<!ENTITY autoTypeRadio.accesskey "A">
+<!ENTITY reload.label "পুনরায় লোড (e)">
+<!ENTITY reload.accesskey "e">
+<!ENTITY ftp.label "FTP প্রক্সি (F):">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "Gopher প্রক্সি (G):">
+<!ENTITY gopher.accesskey "G">
+<!ENTITY http.label "HTTP প্রক্সি (x):">
+<!ENTITY http.accesskey "x">
+<!ENTITY ssl.label "SSL প্রক্সি (L):">
+<!ENTITY ssl.accesskey "S">
+<!ENTITY socks.label "SOCKS হোস্ট (C):">
+<!ENTITY socks.accesskey "C">
+<!ENTITY socks4.label "SOCKS v4 (K)">
+<!ENTITY socks4.accesskey "K">
+<!ENTITY socks5.label "SOCKS v5 ( v)">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY port.label "পোর্ট:">
+<!ENTITY HTTPport.accesskey "P">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "কোনো প্রক্সি উপস্থিত নেই (N):">
+<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxyExplain.label "উদাহরণ: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "সর্বধরনের প্রোটোকলের জন্য একই প্রক্সি ব্যবহার করা হবে (s)">
+<!ENTITY shareproxy.accesskey "s">

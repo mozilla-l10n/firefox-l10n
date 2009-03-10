@@ -1,0 +1,13 @@
+<!ENTITY ocspDialog.title "পরিচয় প্রমাণ ব্যবস্থা">
+<!ENTITY enableOCSP.label "সার্টিফিকেটের বর্তমান বৈধতা যাচাই করার জন্য অনলাইন সার্টিফিকেট স্ট্যাটাস প্রোটোকল (OCSP) ব্যবহার করুন। (U)">
+<!ENTITY enableOCSP.accesskey "U">
+<!ENTITY certOCSP2.label "কোনো সার্টিফিকেট দ্বারা OCSP সার্ভার উল্লিখিত হলে, সংশ্লিষ্ট সার্টিফিকেটকে বৈধ ধার্য করা হবে (V)">
+<!ENTITY certOCSP2.accesskey "V">
+<!ENTITY proxyOCSP2.label "নিম্নলিখিত OCSP সার্ভার সহযোগে সকল সার্টিফিকেটের বৈধতা যাচাই করা হবে (a):">
+<!ENTITY proxyOCSP2.accesskey "a">
+<!ENTITY serviceURL.label "পরিসেবার URL (S):">
+<!ENTITY serviceURL.accesskey "S">
+<!ENTITY signingCA.label "প্রত্যুত্তরকারী স্বাক্ষর(R):">
+<!ENTITY signingCA.accesskey "R">
+<!ENTITY requireOCSP.label "OCSP সার্ভারের সাথে সংযোগ স্থাপন সম্ভব না হলে, সংশ্লিষ্ট সার্টিফিকেটকে অবৈধ ধার্য করা হবে (W)">
+<!ENTITY requireOCSP.accesskey "W">
