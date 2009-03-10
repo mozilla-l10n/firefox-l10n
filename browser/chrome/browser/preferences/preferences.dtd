@@ -1,9 +1,9 @@
 
 <!ENTITY  prefWindow.titleWin     "Options">
 <!ENTITY  prefWindow.titleGNOME   "Préférences de &brandShortName;">
-<!ENTITY  prefWin.styleWin2       "width: 49em; min-height: 39.5em;">
-<!ENTITY  prefWin.styleMac2       "width: 52.5em; min-height: 50em;">
-<!ENTITY  prefWin.styleGNOME2     "width: 52.5em; min-height: 40.5em;">
+<!ENTITY  prefWin.styleWin        "width: 49em; min-height: 39.5em;">
+<!ENTITY  prefWin.styleMac        "width: 52.5em; min-height: 50em;">
+<!ENTITY  prefWin.styleGNOME      "width: 52.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title       "Général">
 <!ENTITY  paneTabs.title          "Onglets">
