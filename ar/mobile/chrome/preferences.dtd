@@ -3,6 +3,8 @@
 <!ENTITY permissions.default.image.description     "يجعل مواقع الوب جميلة">
 <!ENTITY javascript.enabled.title                  "تفعيل جافاسكربت">
 <!ENTITY javascript.enabled.description            "يجعل مواقع الوب مبهرجة">
+<!ENTITY javascript.options.jit.content.title      "تفعيل تتبع جافاسكربت">
+<!ENTITY javascript.options.jit.content.description "يستخدم تصريف الشيفرة الأصلية في جافاسكربت">
 <!ENTITY plugins.enabled.title                     "تفعيل الملحقات">
 <!ENTITY plugins.enabled.description               "يجعل مواقع الوب مزعجة">
 <!ENTITY privacy.title                             "الخصوصية والسرية">
