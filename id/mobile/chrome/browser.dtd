@@ -1,0 +1,54 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "Kembali">
+<!ENTITY back.tooltip          "Kembali">
+<!ENTITY forward.label         "Maju">
+<!ENTITY forward.tooltip       "Maju">
+<!ENTITY reload.label          "Muat Ulang">
+<!ENTITY reload.tooltip        "Muat Ulang">
+<!ENTITY stop.label            "Stop">
+<!ENTITY stop.tooltip          "Stop">
+<!ENTITY search.label          "Cari">
+<!ENTITY search.tooltip        "Cari">
+<!ENTITY go.label              "Buka">
+<!ENTITY go.tooltip            "Buka">
+<!ENTITY openLocation.label    "Buka lokasi">
+<!ENTITY openLocation.tooltip  "Buka lokasi">
+<!ENTITY star.label            "Bookmark">
+<!ENTITY star.tooltip          "Buat Bookmark untuk halaman ini">
+<!ENTITY bookmarks.label       "Bookmark">
+<!ENTITY bookmarks.tooltip     "Tampilkan bookmark">
+
+<!ENTITY newtab.label          "Tab Baru">
+<!ENTITY closetab.label        "Tutup Tab">
+
+<!ENTITY cut.label             "Potong">
+<!ENTITY copy.label            "Salin">
+<!ENTITY copylink.label        "Salin Lokasi Tautan">
+<!ENTITY paste.label           "Tempel">
+<!ENTITY delete.label          "Hapus">
+<!ENTITY selectAll.label       "Pilih Semua">
+<!ENTITY noSuggestions.label   "(tidak ada saran)">
+<!ENTITY addToDictionary.label "Tambah ke kamus">
+
+<!ENTITY bookmarksHeader.label     "Daftar Bookmark">
+<!ENTITY bookmarksManage.label     "Kelola">
+<!ENTITY foldersHeader.label       "Folder">
+
+<!ENTITY editBookmarkEdit.label    "Ubah">
+<!ENTITY editBookmarkMove.label    "Pindah">
+<!ENTITY editBookmarkDone.label    "Selesai">
+<!ENTITY editBookmarkTags.label    "Tambah tag di sini">
+
+<!ENTITY findOnCmd.label     "Cari di Halaman Ini…">
+<!ENTITY findOnCmd.accesskey "C">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Cari Lagi">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
+<!ENTITY identity.connectedTo "Anda terhubung ke">
+<!ENTITY identity.runBy "yang dijalankan oleh">
