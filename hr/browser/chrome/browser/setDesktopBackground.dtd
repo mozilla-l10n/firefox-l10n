@@ -1,0 +1,9 @@
+<!ENTITY position.label             "Položaj:">
+<!ENTITY tile.label                 "Popločeno">
+<!ENTITY center.label               "Centrirano">
+<!ENTITY stretch.label              "Razvučeno">
+<!ENTITY preview.label              "Pregled">
+<!ENTITY color.label                "Boja:">
+<!ENTITY setDesktopBackground.title "Postavi pozadinu radne površine">
+<!ENTITY openDesktopPrefs.label     "Otvori postavke radne površine">
+<!ENTITY closeWindow.key            "w">

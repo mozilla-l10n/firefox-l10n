@@ -1,0 +1,81 @@
+<!ENTITY  updateWizard.title              "Ažuriranje programa">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Provjera za dopunama">
+<!ENTITY  updateCheck.label               "Traženje novije verzije &brandShortName;…">
+
+<!ENTITY  noupdatesfound.title            "Nijedna dopuna nije pronađena">
+<!ENTITY  noupdatesautoenabled.intro      "Nema dostupnih dopuna. &brandShortName; će periodički
+                                           provjeravati dostupnost dopuna.">
+<!ENTITY  noupdatesautodisabled.intro     "Nema dostupnih dopuna. Pokušajte ponovo kasnije ili omogućite
+                                           &brandShortName;ovu automatsku provjeru dopuna.">
+
+<!ENTITY  manualUpdate.title              "Ažuriranje nije moguće">
+<!ENTITY  manualUpdate.desc               "Predložene dopune radi sigurnosti i stabilnosti su dostupne, ali vi nemate
+                                           dovoljna prava na stustavu za instalaciju istih. Molim, kontaktirajte svog
+                                           administratora sustava ili pokušajte s korisničkim računom koji ima dozvolu
+                                           instaliranja softvera na ovo računalo.">
+<!ENTITY  manualUpdateGetMsg.label        "Najnoviju verziju &brandShortName; uvijek možete naći na:">
+
+<!ENTITY  incompatibleCheck.title         "Provjera kompatibilnosti dodatka">
+<!ENTITY  incompatibleCheck.label         "Traženje novijih verzija vaših dodataka…">
+
+<!ENTITY  clickHere.label                 "Pogledaj više informacija o ovom ažuriranju">
+
+<!ENTITY  evangelism.desc                 "Izričito vam preporučano da primjenite ovu dopunu 
+                                           &brandShortName; što je prije moguće.">
+
+<!ENTITY  license.instructions            "Ako se slažete s uvjetima ovog sporazuma, kliknite na Slažem se 
+                                           niže kako biste nastavili instalaciju ovog ažuriranja.">
+
+<!ENTITY  license.titleText               "Sporazum licence programa">
+<!ENTITY  license.introText               "Uvjeti korištenja ovog programa.">
+<!ENTITY  license.instructionText         "Molim pročitajte sljedeći licenčni sporazum. Za pregled ostatka licence, upotrijebite kliznu traku.">
+<!ENTITY  license.accept                  "Prihvaćam uvjete ovog licenčnog sporazuma">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "NE prihvaćam uvjete ovog licenčnog sporazuma">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  incompatibleList.title          "Nekompatibilni dodaci pronađeni">
+
+<!ENTITY  downloading.title               "Preuzimanje dopuna">
+<!ENTITY  downloading.intro               "Preuzimanje dopuna...">
+<!ENTITY  connecting.label                "Spajanje na server dopuna...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; nije mogao ovjeriti integritet 
+                                           inkrementalnih dopuna koje je preuzeo, stoga sada preuzima
+                                           potpuni paket dopuna.">
+
+<!ENTITY  viewDetails.tooltip             "Detalji ove dopune">
+
+<!ENTITY  details.link                    "Detalji">
+
+<!ENTITY  error.label                     "Došlo je do problema pri provjeri, preuzimanju ili instalaciji ove
+                                           dopune. &brandShortName; se nije mogao ažurirati zbog:">
+                                           
+<!ENTITY  errorManual.label               "&brandShortName; možete ažurirati ručno tako da posjetite ovu poveznicu
+                                           ili preuzmete posljednju inačicu:">
+                                           
+<!ENTITY  errorpatching.title             "Ažuriranje nije uspjelo">
+<!ENTITY  errorpatching.intro             "Djelomično ažuriranje nije moglo biti primijenjeno. 
+                                           &brandShortName; će pokušati ponovno preuzimanjem potpuih dopuna.">
+
+<!ENTITY  finishedPage.title              "Dopuna sprema za instalaciju">
+<!ENTITY  finishedPage.text               "Dopuna će biti instalirana slijedeći put kada se &brandShortName; pokrene. Možete 
+                                           ponovo pokrenuti &brandShortName; sad ili nastaviti ga koristiti i ponovo ga pokrenuti kasnije.">
+
+<!ENTITY  finishedBackgroundPage.text     "Dopuna s pobojšanjima za sigurnost i stabilnost za&brandShortName; je preuzeta
+                                           i može se instalirati.">
+<!ENTITY  finishedBackground.name         "Dopuna:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Dopuna će biti instaliarana slijedeći put kada se &brandShortName; pokrene. Možete
+                                           ponovo pokrenuti &brandShortName; sad ili nastaviti ga koristiti i ponovo ga pokrenuti kasnije.">
+
+<!ENTITY  installed.title                 "Dopuna instalirano">
+<!ENTITY  installed.intro                 "Dopuna je uspješno instalirana.">
+<!ENTITY  whatsnew.label                  "Pročitajte više o novim stvarima...">
+
+<!ENTITY  update.details.label            "Detalji">
+<!ENTITY  update.installedOn.label        "Instalirano:">
+<!ENTITY  update.status.label             "Stanje:">

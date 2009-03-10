@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Općenito">
+
+<!ENTITY accessibility.label             "Pristupačnost">
+
+<!ENTITY useCursorNavigation.label       "Uvijek koristi tipke pokazivača za navigaciju unutar stranica">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Pretražuj tekst pri upisivanju">
+<!ENTITY searchStartTyping.accesskey     "t">
+<!ENTITY blockAutoRefresh.label          "Upozori me kad se web stranica pokuša osvježiti ili me pokuša preusmjeriti">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "Pregledavanje">
+
+<!ENTITY useAutoScroll.label             "Koristi automatsko klizanje">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Koristi uglađeno klizanje">
+<!ENTITY useSmoothScrolling.accesskey    "u">
+<!ENTITY checkSpelling.label             "Provjeri pravopis pri pisanju">
+<!ENTITY checkSpelling.accesskey         "p">
+
+<!ENTITY systemDefaults.label            "Zadane postavke sustava">
+<!ENTITY alwaysCheckDefault.label        "Pri pokretanju uvijek provjeri je li &brandShortName; zadani preglednik"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "z">
+<!ENTITY checkNow.label                  "Provjeri sada">
+<!ENTITY checkNow.accesskey              "s">
+
+<!ENTITY networkTab.label                "Mreža">
+
+<!ENTITY connection.label                "Veza">
+
+<!ENTITY connectionDesc.label            "Postavi kako se &brandShortName; spaja na Internet">
+<!ENTITY connectionSettings.label        "Postavke...">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY offlineStorage.label            "Izvanmrežna pohrana">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Koristi do">
+<!ENTITY useCacheBefore.accesskey        "d">
+<!ENTITY useCacheAfter.label             "MB prostora za privremenu memoriju">
+<!ENTITY clearCacheNow.label             "Očisti sada">
+<!ENTITY clearCacheNow.accesskey         "č">
+
+<!ENTITY updateTab.label                 "Nadogradnje">
+
+<!ENTITY autoCheck.label                 "Automatski provjeri postojanje nadogradnji za:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Instalirane dodatke">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableSearchUpdate.label        "Pretraživače">
+<!ENTITY enableSearchUpdate.accesskey    "t">
+<!ENTITY whenUpdatesFound.label          "Kad su nadogradnje za &brandShortName; pronađene:">
+<!ENTITY askMe.label                     "Pitaj me što želim učiniti">
+<!ENTITY askMe.accesskey                 "P">
+<!ENTITY modeAutomatic.label             "Automatski preuzmi i instaliraj nadogradnju">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "Upozori me ako će nadogradnja isključiti neki od mojih dodataka">
+<!ENTITY modeAutoAddonWarn.accesskey     "U">
+<!ENTITY updateHistory.label             "Prikaži povijest nadogradnji">
+<!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY offlineNotify.label             "Obavijesti me kad web stranica zatraži spremanje podataka za izvanmrežno korištenje">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY offlineNotifyExceptions.label   "Iznimke…">
+<!ENTITY offlineNotifyExceptions.accesskey "z">
+
+<!ENTITY offlineAppsList.label           "Sljedeće web stranice su spremile podatke za izvanmrežno korištenje:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Ukloni…">
+<!ENTITY offlineAppsListRemove.accesskey "U">
+<!ENTITY offlineAppRemove.confirm        "Ukloni izvanmrežne podatke">
+
+<!ENTITY encryptionTab.label             "Enkripcija">
+
+<!ENTITY protocols.label                 "Protokoli">
+<!ENTITY useSSL3.label                   "Koristi SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Koristi TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certifikati">
+<!ENTITY certSelection.description       "Kad poslužitelj zatraži moje osobni certifikat:">
+<!ENTITY certs.auto                      "Automatski označi jednoga">
+<!ENTITY certs.auto.accesskey            "A">
+<!ENTITY certs.ask                       "Upitaj me svaki put">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Pogledaj certifikate">
+<!ENTITY viewCerts.accesskey             "P">
+<!ENTITY viewCRLs.label                  "Liste opoziva">
+<!ENTITY viewCRLs.accesskey              "L">
+<!ENTITY verify2.label                   "Ovjera">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Sigurnosni uređaji">
+<!ENTITY viewSecurityDevices.accesskey   "S">

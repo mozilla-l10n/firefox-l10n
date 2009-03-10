@@ -1,0 +1,41 @@
+<!ENTITY sanitizePrefs.title           "Očisti privatne podatke">
+<!ENTITY sanitizeDialog2.title         "Očisti nedavnu povijest">
+
+<!ENTITY sanitizeItems.label          "Sljedeće stavke očisti odmah:">
+<!ENTITY clearDataSettings2.label     "Kada ugasim &brandShortName;, automatski će obrisati:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY clearDuration.label          "Ukloni ">
+<!ENTITY clearDuration.accesskey      "U">
+<!ENTITY clearDuration.lastHour       "posljednji sat">
+<!ENTITY clearDuration.last2Hours     "posljednja 2 sata">
+<!ENTITY clearDuration.last4Hours     "posljednja 4 sata">
+<!ENTITY clearDuration.today          "moju cjelodvnevnu povijest">
+<!ENTITY clearDuration.everything     "moju cijelu posvijest">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Povijest">
+<!ENTITY dataSection.label            "Podaci">
+
+<!ENTITY itemVisitedPages.label       "Posjećene stranica">
+<!ENTITY itemVisitedPages.accesskey   "P">
+<!ENTITY itemFormSearchEntries.label  "Unosi formi i pretraživanja">
+<!ENTITY itemFormSearchEntries.accesskey "f">
+<!ENTITY itemPasswords.label          "Spremljene lozinke">
+<!ENTITY itemPasswords.accesskey      "P">
+<!ENTITY itemCookies.label            "Kolačići">
+<!ENTITY itemCookies.accesskey        "K">
+<!ENTITY itemWebCache.label           "Međuspremnik">
+<!ENTITY itemWebCache.accesskey       "M">
+<!ENTITY itemOfflineApps.label        "Podaci neumreženih stranica">
+<!ENTITY itemOfflineApps.accesskey    "n">
+<!ENTITY itemDownloadList.label       "Lista preuzimanja">
+<!ENTITY itemDownloadList.accesskey   "z">
+<!ENTITY itemActiveLogins.label       "Aktivne prijave">
+<!ENTITY itemActiveLogins.accesskey   "A">
+
+<!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

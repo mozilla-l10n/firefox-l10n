@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "Povrati sesiju">
+<!ENTITY restorepage.pagetitle      "Želite li povratiti svoju sesiju?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Vaša prethodna &brandShortName; session neočekivano je završena. Iskreno se ispričavamo zbog neugodnosti. Zbog toga možete povratiti svoje kartice i prozore iz prethodne sesije ili započeti novu ako vam stare kartice i prozori više ne trebaju.">
+<!ENTITY restorepage.remedies       "Ako se &brandShortName; neočekivano ruši:">
+<!ENTITY restorepage.dueToChrome    "Pokušajte onemogućiti nedavno dodane dodatke u Upravitelju dodataka.">
+<!ENTITY restorepage.dueToContent   "Pokušajte povratiti svoju sesiju bez Web stranica koje bi mogle raditi probleme:">
+
+<!ENTITY restorepage.restoreButton  "Povrati prethodnu sesiju">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Pokreni novu sesiju">
+<!ENTITY restorepage.cancel.access  "S">
+
+<!ENTITY restorepage.restoreHeader  "Povrati">
+<!ENTITY restorepage.listHeader     "Prozore i kartice">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Prozor &#37;S">

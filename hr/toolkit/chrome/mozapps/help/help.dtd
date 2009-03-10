@@ -1,0 +1,52 @@
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Natrag">
+<!ENTITY backButton.accesskey           "N">
+<!ENTITY backButton.tooltip             "Natrag za jednu stranicu">
+<!ENTITY forwardButton.label            "Naprijed">
+<!ENTITY forwardButton.accesskey        "N">
+<!ENTITY forwardButton.tooltip          "Naprijed za jednu stranicu">
+<!ENTITY copyCmd.label                  "Kopiraj">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Označi sve">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Početna stranica">
+<!ENTITY homeButton.tooltip             "Idi na početnu stranicu pomoći">
+<!ENTITY printButton.label              "Ispis">
+<!ENTITY printButton.tooltip            "Ispiši ovu stranicu">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY search.emptytext               "Traži">
+<!ENTITY searchHeader.label             "Rezultati traženja">
+<!ENTITY toctab.label                   "Sadržaj">
+<!ENTITY toctab.accesskey               "S">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Uvijek na vrhu">
+<!ENTITY zLevel.accesskey               "v">
+
+<!ENTITY fullZoomReduceBtn.label        "Umanji">
+<!ENTITY fullZoomReduceBtn.accesskey    "U">
+<!ENTITY fullZoomEnlargeBtn.label       "Uvećaj">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "v">

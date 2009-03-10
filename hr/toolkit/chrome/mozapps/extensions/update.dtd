@@ -1,0 +1,63 @@
+<!ENTITY  updateWizard.title              "&brandShortName; Ažuriraj">
+
+<!ENTITY  offline.title                   "&brandShortName; radi izvanmrežno">
+<!ENTITY  offline.description             "&brandShortName; mora otići u mrežni način rada da bi provjerio ako su ažuriranja
+                                           dostupna za vaše dodatke, kako bi bila usklađena s ovom
+                                           inačicom.">
+<!ENTITY  offline.toggleOffline.label     "Poveži se odmah.">
+<!ENTITY  offline.toggleOffline.accesskey "o">
+
+<!ENTITY  mismatch.win.title              "Neusklađeni dodaci">
+<!ENTITY  mismatch.top.label              "Sljedeći dodaci nisu kompatibilni s ovom inačicom
+                                           &brandShortName; stoga su onemogućeni:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; može provjeriti jesu li usklađene inačice
+                                           ovih dodataka dostupne.">
+
+<!ENTITY  checking.wizard.title           "Provjeravam za usklađene dodatke">
+<!ENTITY  checking.top.label              "Provjeravam ažuriranja za vaše neusklađene dodatke...">
+<!ENTITY  checking.status                 "Ovo može potrajati nekoliko minuta...">
+
+<!ENTITY  found.wizard.title               "Pronađeni usklađeni dodaci">
+<!ENTITY  found.top.label                 "Odaberite dodatke koje biste htjeli instalirati:">
+<!ENTITY  found.disabledXPinstall.label   "Ove dodatke nije moguće instalirati jer je instalacija programa trenutno
+                                           onemogućena. Ovu postavku možete promijeniti niže.">
+<!ENTITY  found.enableXPInstall.label     "Dopusti web stranicama da instaliraju programe">
+<!ENTITY  found.enableXPInstall.accesskey "A">
+
+<!ENTITY  installing.wizard.title         "Instaliram usklađene dodatke">
+<!ENTITY  installing.top.label            "Preuzimanje i instalacija ažuriranja vaših dodataka...">
+
+<!ENTITY  noupdates.wizard.title          "Nije pronađen nijedan usklađeni dodatak">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; nije uspio pronaći ažuriranja za vaše
+                                           neusklađene dodatke.">
+<!ENTITY  noupdates.error.desc            "Došlo je do nekih problema pri potrazi za ažuriranjima.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; će povremeno provjeravati i obavijestiti vas
+                                           kada su pronađena usklađena ažuriranja za ove dodatke.">
+
+<!ENTITY  finished.wizard.title           "Usklađeni dodaci su instalirani">
+<!ENTITY  finished.top.label              "&brandShortName; je instalirao ažuriranja za vaše dodatke.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; može povremeno provjeravati i obavještavati vas
+                                           kada su ažuriranja za dodatke dostupna.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; će povremeno provjeravati i obavještavati vas
+                                           kada su pronađena ažuriranja za dodatke.">
+
+<!ENTITY  adminDisabled.wizard.title      "Provjera za ažuriranja nije moguća">
+<!ENTITY  adminDisabled.warning.label     "Nije moguće provjeriti za ažuriranja za neusklađene dodatke
+                                           jer je instalacija programa za &brandShortName; onemogućena.
+                                           Molim kontaktirajte administratora vašeg sustava za pomoć.">
+
+<!ENTITY  versioninfo.wizard.title        "Provjera usklađenosti dodataka">
+<!ENTITY  versioninfo.top.label           "Provjeravam usklađenost vaših dodataka i ove
+                                           &brandShortName; inačice.">
+<!ENTITY  versioninfo.waiting             "Ovo može potrajati nekoliko minuta...">
+
+<!ENTITY  installerrors.wizard.title      "Problemi pri instalaciji ažuriranja">
+<!ENTITY  installerrors.intro.label       "&brandShortName; je naišao na probleme kod ažuriranja
+                                           nekih vaših dodataka.">
+
+<!-- general strings used by several of the finish pages -->
+<!ENTITY  clickFinish.label               "Kliknite na Završi da biste nastavili pokretanje &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Kliknite Završi za nastavak pokretanja &brandShortName;.">
+<!ENTITY  enableChecking.label            "Dopusti da &brandShortName; provjerava za ažuriranja.">
+<!ENTITY  details.label                   "Detalji...">
+<!ENTITY  details.accesskey               "D">
