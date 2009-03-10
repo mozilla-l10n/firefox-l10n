@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle "সম্পর্কিত:অধিকার">
+<!ENTITY rights.intro-header "আপনার অধিকার সম্বন্ধীয়">
+<!ENTITY rights.intro "&brandFullName; হলো মুক্ত এবং ওপেন সোর্স সফটওয়্যার, যেটি সারা বিশ্বের হাজার হাজার মানুষের কমিউনিটি দ্বারা তৈরি করা হয়েছে। কিছু জিনিস আপনার জানা দরকার:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; আপনার জন্য উপস্থিত করা হয়েছে মজিলা পাবলিক লাইসেন্স">
+<!ENTITY rights.intro-point1b "এর অধীনে">
+<!ENTITY rights.intro-point1c "। এর মানে আপনি &brandShortName; ব্যবহার, কপি এবং অন্যদের কাছে বিতরন করতে পারবেন। আপনি আপনার প্রয়োজন পূরনের জন্য &brandShortName; এর সোর্স কোড পরিবর্তন করতে পারেন। মজিলা পাবলিক লাইসেন্স আপনাকে আপনার পরিবর্তিত সংস্করনটি বিতনর করার অধিকারও প্রদান করে।">
+
+<!ENTITY rights.intro-point2a "মজিলা আপনাকে মজিলার এবং ফায়ারফক্সের ট্রেডমার্ক এবং লোগো পরিবর্তনের ‌অধিকার দেয় না। আরো তথ্য পাওয়া যেতে পারে">
+<!ENTITY rights.intro-point2b "এখানে">
+<!ENTITY rights.intro-point2c "।">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3a "&vendorShortName; প্রডাক্টের ব্যক্তিগত নীতিমালা পাওয়া যেতে পারে">
+<!ENTITY rights.intro-point3b "এখানে">
+<!ENTITY rights.intro-point3c "।">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "এই প্রডাক্টের যেকোনো প্রযোজ্য ব্যক্তিগত নীতিমালা এখানে তালিকাভুক্ত থাকা উচিত।">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights.intro-point4a "&brandShortName; ঐচ্ছিক ওয়েব সাইট তথ্য সেবা প্রদান করে। যেমন SafeBrowsing সেবা; যদিও আমরা নিশ্চয়তা প্রদান করি না যে এগুলো ১০০&#37; সঠিক বা নির্ভুল। কিভাবে সেবাগুলো নিষ্ক্রিয় করা যাবে সেটি সহ আরো বিস্তারিত পাওয়া যাবে">
+<!ENTITY rights.intro-point4b "সেবার শর্তসমূহ">
+<!ENTITY rights.intro-point4c "।">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "যদি এই প্রোডাক্টটি ওয়েব সেবাকে যুক্ত করে, সেবাটির যেকোনো প্রযোজ্য  শর্ত লিঙ্ক করা থাকা উচিত ">
+<!ENTITY rights.intro-point4b-unbranded "ওয়েব সাইট সেবা">
+<!ENTITY rights.intro-point4c-unbranded " সেকশনের সাথে।">
+
+<!ENTITY rights.webservices-header "&brandFullName; ওয়েব সাইট সেবাসমূহ">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights.webservices-a "&brandFullName; ওয়েব সাইট সেবাসমূহ ব্যবহার করে (&quot;Services&quot;)। যেমনা নিরাপদব্রাউজিং সেবা। যেটি আপনার জন্য &brandShortName; এর এই বাইনারি সংস্করনের সাথে ব্যবহারের জন্য প্রাপ্তিসাধ্য করা হয়েছে, নিম্নে বর্ননা অনুযায়ী। যদি আপনি এই সেবাটি ব্যবহার করতে না চান বা শর্তগুলো যদি অগ্রহনযোগ্য হয়, তাহলে আপনি নিরাপদব্রাউজিং সেবা নিষ্ক্রিয় করতে পারেন এভাবে, অ্যাপ্লিকেশনের পছন্দসমূহ খুলে">
+<!ENTITY rights.webservices-b "নিরপত্তা সেকশন নির্বাচন করুন">
+<!ENTITY rights.webservices-c ", এবং &quot;&blockAttackSites.label;&quot; ও &quot;&blockWebForgeries.label;&quot; থেকে টিক চিহ্ন উঠিয়ে দিন।">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "নিষ্ক্রিয় করার নির্দেশনাসহ প্রযোজ্য ওয়েব সাইট সেবাসমূহের একটি ওভারভিউ এখানে অন্তর্ভূক্ত থাকা উচিত।">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "এই প্রোডাক্টের যেকোনো সেবার প্রযোজ্য শর্তসমূহ এখানে তালিকাভুক্ত থাকা উচিত।">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights.webservices-term1 "&vendorShortName; এবং এর প্রদায়কসমূহ, লাইসেন্সকারী এবং পার্টনাররা একসাথে কাজ করে, ফিশিং এবং ম্যালওয়্যার সম্পর্কে সবচেয়ে নতুন তথ্য প্রদান করার জন্য। যদিও, তারা এই নিশ্চয়তা দেয় না যে এই তথ্যসমূহ সম্পূর্ণ নির্ভুল: কিছু ঝুঁকিপূর্ণ সাইট আইডেন্টিফাই করা নাও হতে পারে, আবার কিছু নিরাপদ সাইটকে ঝুঁকিপূর্ণ হিসেবে আইডেন্টিফাই করা হতে পারে।">
+<!ENTITY rights.webservices-term2 "&vendorShortName; নিজের বিবেচনা অনুযায়ী সেবাসমূহ বন্ধ বা পরিবর্তন করতে পারে।">
+<!ENTITY rights.webservices-term3 "আপনাকে &brandShortName; এর এই সংস্করনের সাথে এই সেবাসমূহ ব্যবহার করার জন্য স্বাগতম জানানো হচ্ছে, এবং তার জন্য আপনাকে সব অধিকার দেয়া হয়েছে। অন্যান্য সকল অধিকার &vendorShortName; এবং এর লাইসেন্সকারী দ্বারা সংরক্ষিত। এসকল শর্তসমূহ &brandShortName; এবং &brandShortName; এর সংশ্লিষ্ট সোর্স কোড ভার্সনের জন্য প্রযোজ্য ওপেন সোর্স লাইসেন্সের অধিকার খর্ব করার জন্য দেয়া হয়নি।">
+<!ENTITY rights.webservices-term4 "সেবাগুলো প্রদান করা হয় &quot;ঠিক যেমনভাবে.&quot;  &vendorShortName;, এর অংশগ্রহনকারীবৃন্দ, লাইসেন্স প্রদানকারী, এবং বিতরনকারীরা নিশ্চয়তা দিয়ে থাকে, সেটা বলা থাকতে পারে বা ব্যবহার করা হতে পারে, নিশ্চয়তা দেয় যে সেবাগুলো ব্যবসাযোগ্য এবং আপনার নির্দিষ্ট কাজের জন্য প্রস্তুতকৃত। আপনার কাজের এবং সেবার মানের জন্য সেবাসমূহ নির্বাচন করার জন্য আপনি পুরো ঝুকি নিয়ে থাকেন। কিছু বিতরনকারী নিশ্চয়তা অনুযায়ী সেবা প্রদান করে না। তাই, এই ঘোষনাটি আপনার জন্য কার্যকর নাও হতে পারে।">
+<!ENTITY rights.webservices-term5 "আইন দ্বারা প্রয়োজন ব্যতীত, &vendorShortName;, এর অংশগ্রহণকারীগণ, লাইসেন্স প্রদানকারী, এবং পরিবেশক যেকোন পরোক্ষ, বিশেষ, পর:পরঘটিত, ক্ষতি, শাস্তিমূলক ঘটনার জন্য দায়ী হবে না, যা &brandShortName; এর বাইরে অথবা এর সাথে কোনোভাবে সম্পর্কযুক্ত সেবাসমূহের ব্যবহারে সংঘটিত হয়েছে। এই শর্তাবলীর অধীনে সম্মিলিত দায় $৫০০ (পাঁচ শত ডলার) অতিক্রম করবে না। কিছু নিয়ম কিছু ক্ষতির জন্য সীমাবদ্ধতা অনুমোদন করে না, সুতরাং এই বহির্ভুক্ততা এবং সীমাবদ্ধতা আপনার বিপক্ষে প্রয়োগ করা নাও হতে পারে।">
+<!ENTITY rights.webservices-term6 "&vendorShortName; প্রয়োজন অনুযায়ী মাঝে মাঝে এসকল শর্তসমূহ আপডেট করতে পারে। এসকল শর্তসমূহ &vendorShortName; এর লিখিত অনুমতি ব্যতীত পরির্তন বা বাতিল করা যাবে না।">
+<!ENTITY rights.webservices-term7 "এই শর্তসমূহ ক্যালিফোর্নিয়া স্টেট, উই.এস.এ. এর আইন অনুযায়ী করা হয়েছে, অাইনের জটিলতা ব্যাতীত। যদি এই শর্তসমূহের কোনো অংশ অবৈধ বা অগ্রহনযোগ্য হলে বাকি অংশ সম্পূর্নভাবে কার্যকর থাকবে। যদি ইংরেজি সংস্করন এবং অনুবাদকৃত সংস্করনের মধ্যে কোনো বিরোধ থাকে তাহলে ইংরেজি সংস্করনটিকে মানা হবে।">

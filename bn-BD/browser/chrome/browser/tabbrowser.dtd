@@ -1,0 +1,19 @@
+<!ENTITY untitledTab "(শিরোনামবিহীন)">
+<!ENTITY newTab.label "নতুন ট্যাব (N)">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY closeTab.label "ট্যাব বন্ধ করুন (T)">
+<!ENTITY closeTab.accesskey "t">
+<!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY closeOtherTabs.label "অন্যান্য ট্যাব বন্ধ করুন (O)">
+<!ENTITY reloadAllTabs.label "সমস্ত ট্যাব পুনরায় লোড করুন (A)">
+<!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY reloadTab.label "ট্যাব পুনরায় লোড করুন (R)">
+<!ENTITY reloadTab.accesskey "r">
+<!ENTITY listAllTabs.label "সব ট্যাবের তালিকা নির্মাণ করুন">
+<!ENTITY bookmarkAllTabs.label "সকল ট্যাব বুকমার্ক করুন… (T)">
+<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY bookmarkThisTab.label "বর্তমান ট্যাব বুকমার্ক করুন (B)">
+<!ENTITY bookmarkThisTab.accesskey "B">
+<!ENTITY undoCloseTab.label "ট্যাব বন্ধের কর্ম বাতিল করুন (U)">
+<!ENTITY undoCloseTab.accesskey "U">
+<!ENTITY newTabButton.tooltip "একটি নতুন ট্যাব খুলুন">

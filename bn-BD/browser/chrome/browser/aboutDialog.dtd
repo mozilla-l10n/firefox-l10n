@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title "&brandFullName; পরিচিতি">
+<!ENTITY copyright "স্বীকৃতি">
+<!ENTITY copyright.accesskey "C">
+<!ENTITY copyrightGNOME.accesskey "r">
+<!ENTITY aboutLink "&lt; &brandFullName; পরিচিতি">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "সংস্করণ">
+<!ENTITY closeCmdGNOME.label "বন্ধ করো (C)">
+<!ENTITY closeCmdGNOME.accesskey "C">
+<!ENTITY copyrightInfo1 "&#169;1998-2009 Contributors. All rights reserved. (">
+<!ENTITY licenseLink "about:license">
+<!ENTITY licenseLinkText "Licensing information">
+<!ENTITY copyrightInfo2 ").">
