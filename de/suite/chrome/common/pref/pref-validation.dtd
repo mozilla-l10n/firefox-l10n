@@ -38,7 +38,7 @@
 <!ENTITY  pref.validation.title                   "Validierung">
 
 <!ENTITY  validation.crl.caption                  "CRL">
-<!ENTITY  validation.crl.description              "Verwenden Sie den CRL-Manager, um Zertifikat-Widerrufslisten (CRL) zu verwalten, die in Ihrer Zertifikatsdatenbank gespeichert werden.">
+<!ENTITY  validation.crl.description              "Verwenden Sie den CRL-Manager, um Zertifikatsperrlisten (CRL) zu verwalten, die in Ihrer Zertifikatsdatenbank gespeichert werden.">
 <!ENTITY  validation.managecrls.button            "CRLs verwalten…">
 <!ENTITY  validation.managecrls.accesskey         "C">
 

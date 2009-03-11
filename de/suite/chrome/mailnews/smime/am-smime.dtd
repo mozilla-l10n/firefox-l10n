@@ -1,6 +1,6 @@
 <!ENTITY securityTitle.label "Sicherheit">
 <!ENTITY securityTab.label "Sicherheit">
-<!ENTITY securityHeading.label "Um verschlüsselte Nachrichten zu senden und zu empfangen, sollten Sie sowohl ein Zertifikat für Verschlüsselung als auch eines für digitale Unterschrift angeben.">
+<!ENTITY securityHeading.label "Um verschlüsselte Nachrichten zu senden und zu empfangen, sollten Sie sowohl ein Zertifikat für Verschlüsselung als auch eines für digitale Signatur angeben.">
 <!ENTITY encryptionGroupTitle.label "Verschlüsselung">
 <!ENTITY encryptionChoiceLabel.label "Standard-Verschlüsselung beim Senden von Nachrichten:">
 <!ENTITY neverEncrypt.label "Nie (keine Verschlüsselung verwenden)">
@@ -16,10 +16,10 @@
 <!ENTITY encryption.certificate.accesskey "w">
 <!ENTITY encryption.certificate_clear.button "Leeren">
 <!ENTITY encryption.certificate_clear.accesskey "e">
-<!ENTITY signingGroupTitle.label "Digitale Unterschrift">
-<!ENTITY signMessage.label "Nachrichten digital unterschreiben (als Standard)">
+<!ENTITY signingGroupTitle.label "Digitale Signatur">
+<!ENTITY signMessage.label "Nachrichten digital signieren (als Standard)">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Folgendes Zertifikat zum Absenden digital unterschriebener Nachrichten verwenden:">
+<!ENTITY signingCert.message "Folgendes Zertifikat zum Absenden digital signierter Nachrichten verwenden:">
 
 <!ENTITY certificates.label "Zertifikate">
 <!ENTITY manageCerts.label "Zertifikate verwalten…">

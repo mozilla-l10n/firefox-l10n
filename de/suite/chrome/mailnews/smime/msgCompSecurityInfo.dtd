@@ -3,7 +3,7 @@
 <!ENTITY title.label "Nachrichtensicherheit">
 <!ENTITY subject.plaintextWarning "Bitte beachten Sie: Betreff-Zeilen von E-Mail-Nachrichten werden nie verschlüsselt.">
 <!ENTITY status.heading "Die Inhalte Ihrer Nachricht werden wie folgt gesendet:">
-<!ENTITY status.signed "Digital unterschrieben:">
+<!ENTITY status.signed "Digital signiert:">
 <!ENTITY status.encrypted "Verschlüsselt:">
 <!ENTITY status.certificates "Zertifikate:">
 <!ENTITY view.label "Ansehen">
