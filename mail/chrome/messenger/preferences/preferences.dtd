@@ -9,5 +9,5 @@
 <!ENTITY paneDisplay.title        "Ansicht">
 <!ENTITY paneComposition.title    "Verfassen">
 <!ENTITY paneAttachments.title    "Anhänge">
-<!ENTITY panePrivacy.title        "Datenschutz">
+<!ENTITY paneSecurity.title       "Sicherheit">
 <!ENTITY paneAdvanced.title       "Erweitert">
