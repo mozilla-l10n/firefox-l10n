@@ -17,5 +17,5 @@
 <!ENTITY junkSettings.label           "Paramètres des courriers indésirables">
 <!ENTITY offlineLink.label            "Paramètres hors ligne">
 
-<!ENTITY rssSectionHdr.label          "RSS Nouvelles et Blogs">
-<!ENTITY subscibeRSS.label            "Gérer les abonnements">
+<!ENTITY feedsSectionHdr.label        "Nouvelles et Blogs">
+<!ENTITY subscribeFeeds.label         "Gérer les abonnements">
