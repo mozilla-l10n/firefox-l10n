@@ -47,8 +47,6 @@
 <!ENTITY compactFolders.accesskey		"k">
 <!ENTITY emptyTrashCmd.label "Papierkorb leeren">
 <!ENTITY emptyTrashCmd.accesskey		"r">
-<!ENTITY importCmd.label "Importieren…">
-<!ENTITY importCmd.accesskey "m">
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "O">
 <!ENTITY offlineGoOfflineCmd.label "Offline arbeiten">
@@ -101,9 +99,6 @@
 <!ENTITY folderPropsFolderCmd.label "Ordner-Eigenschaften…">
 <!ENTITY folderPropsNewsgroupCmd.label "Newsgruppen-Eigenschaften…">
 <!ENTITY folderPropsCmd.accesskey "n">
-<!ENTITY accountManagerCmd.label "Konten-Einstellungen…">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Rückgängig: Nachricht löschen">
 <!ENTITY redoDeleteMsgCmd.label "Wiederherstellen: Nachricht löschen">
 <!ENTITY undoMoveMsgCmd.label "Rückgängig: Nachricht verschieben">
@@ -410,21 +405,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Extras">
 <!ENTITY tasksMenu.accesskey "x">
-<!ENTITY addons.label "Add-ons…">
-<!ENTITY addons.accesskey "d">
-<!ENTITY activitymanager.label "Aktivitäten">
-<!ENTITY activitymanager.accesskey "v">
-<!ENTITY messengerCmd.label "&brandShortName;">
-<!ENTITY messengerCmd.accesskey "T">
+<!ENTITY messengerCmd.label "Nachrichten &amp; Newsgruppen">
+<!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Adressbuch">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY runJunkControls.label "Junk-Filter auf Ordner anwenden">
-<!ENTITY runJunkControls.accesskey "J">
-<!ENTITY deleteJunk.label "Junk in diesem Ordner löschen">
-<!ENTITY deleteJunk.accesskey "u">
-<!ENTITY errorConsoleCmd.label "Fehlerkonsole">
-<!ENTITY errorConsoleCmd.accesskey "h">
+<!ENTITY addons.label "Add-ons">
+<!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "Aktivitäten">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY filtersCmd.label "Filter…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Filter auf Ordner anwenden">
@@ -432,7 +421,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.label "Filter auf gewählte Nachrichten anwenden">
 <!ENTITY filtersApplyToSelection.accesskey "g">
 <!ENTITY filtersApplyToMessage.label "Filter auf Nachricht anwenden">
-<!ENTITY filtersApplyToMessage.accesskey "N">
+<!ENTITY filtersApplyToMessage.accesskey "t">
+<!ENTITY runJunkControls.label "Junk-Filter auf Ordner anwenden">
+<!ENTITY runJunkControls.accesskey "J">
+<!ENTITY deleteJunk.label "Junk in diesem Ordner löschen">
+<!ENTITY deleteJunk.accesskey "u">
+<!ENTITY importCmd.label "Importieren…">
+<!ENTITY importCmd.accesskey "m">
+<!ENTITY errorConsoleCmd.label "Fehlerkonsole">
+<!ENTITY errorConsoleCmd.accesskey "h">
+<!ENTITY accountManagerCmd.label "Konten-Einstellungen…">
+<!ENTITY accountManagerCmd.accesskey "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "o">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Abrufen">
