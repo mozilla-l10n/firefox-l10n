@@ -101,8 +101,8 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Extras">
 <!ENTITY tasksMenu.accesskey                            "x">
-<!ENTITY messengerCmd.label                             "&brandShortName;">
-<!ENTITY messengerCmd.accesskey                         "T">
+<!ENTITY messengerCmd.label                             "Nachrichten &amp; Newsgruppen">
+<!ENTITY messengerCmd.accesskey                         "N">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Adressen suchen…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
