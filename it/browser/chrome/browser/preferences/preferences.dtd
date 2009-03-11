@@ -2,7 +2,7 @@
 <!ENTITY prefWindow.titleGNOME "Preferenze di &brandShortName;">
 <!ENTITY prefWinMinSize.styleWin "width: 45em; min-height: 39em;">
 <!ENTITY prefWinMinSize.styleMac "width: 47em; min-height: 40em;">
-<!ENTITY prefWinMinSize.styleGNOME "46em; min-height: 40.5em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 46em; min-height: 40.5em;">
 <!ENTITY paneGeneral.title "Principale">
 <!ENTITY paneTabs.title "Schede">
 <!ENTITY paneContent.title "Contenuti">
