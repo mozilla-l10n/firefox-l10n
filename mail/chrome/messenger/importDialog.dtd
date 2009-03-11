@@ -1,12 +1,21 @@
+<!ENTITY importAll.label          "Importo Gjithçka">
+<!ENTITY importAll.accesskey      "G">
+<!ENTITY importAddressbook.label  "Libra Vendndodhjesh">
+<!ENTITY importAddressbook.accesskey "L">
+<!ENTITY importSettings.label     "Rregullime">
+<!ENTITY importSettings.accesskey "R">
+<!ENTITY importFilters.label      "Filtra">
+<!ENTITY importFilters.accesskey  "F">
+<!ENTITY importMail.label         "Postë">
+<!ENTITY importMail.accesskey     "P">
 <!ENTITY importDialog.windowTitle "Importo">
-<!ENTITY importDialog.allTitle    "Importo gjithçka">
-<!ENTITY importDialog.mailTitle   "Filtra">
-<!ENTITY importDialog.addressbookTitle "Libra Vendndodhjesh">
-<!ENTITY importDialog.settingsTitle "Rregullime">
-<!ENTITY importDialog.filtersTitle "Filtra">
-
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
+<!ENTITY importHome.label        "Shtëpie">
+<!ENTITY importHome.accesskey    "t">
+<!ENTITY importWork.label        "Pune">
+<!ENTITY importWork.accesskey    "N">
+<!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY importTitle.label        "Ndihmësi &brandShortName; për Importim Poste">
 <!ENTITY importShortDesc.label    "Importoni prej programesh të tjerë Postë, Libra Vendndodhjesh, Rregullime dhe Filtra">
@@ -28,7 +37,3 @@
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ka një vendndodhje postimi për secilën kartë, kurse &brandShortName; ka dy (Shtëpie dhe Pune).">
 <!ENTITY FieldDiscInputText2.label  "Përzgjidhni kategorinë në të cilën doni të ruhen vendndodhjet e importuara të postës:">
 <!ENTITY FieldDiscWarning.label  "Kjo kategori do të përdoret për tërë hyrjet e librit të përzgjedhur të vendndodhjeve: ">
-<!ENTITY importDialog.homeTitle  "Shtëpie">
-<!ENTITY importDialog.workTitle  "Pune">
-
-

@@ -295,7 +295,7 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">            
 <!ENTITY bookmarkThisPageCmd.label "Faqeruaj Këtë Faqe">
-<!ENTITY closeWindow.accesskey "m">
+<!ENTITY closeWindow.accesskey "D">
 <!ENTITY fullZoom.accesskey             "Z">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY editBookmark.done.label                      "U bë">

@@ -33,3 +33,6 @@
 <!ENTITY retentionApplyToFlagged.label "Mesazhet me yllkë mbaji përherë">
 <!ENTITY retentionApplyToFlagged.accesskey "m">
 
+<!ENTITY retentionCleanupImap.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, si kopjet vendore, ashtu edhe origjinalet në shërbyesin e largët.">
+<!ENTITY retentionCleanupPop.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, përfshi origjinalet në shërbyesin e largët.">
+

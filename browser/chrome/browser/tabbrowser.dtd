@@ -2,7 +2,7 @@
 <!ENTITY  newTab.label           "Skedë e Re">
 <!ENTITY  newTab.accesskey       "R">
 <!ENTITY  closeTab.label         "Mbylle Skedën">
-<!ENTITY  closeTab.accesskey         "m">
+<!ENTITY  closeTab.accesskey         "S">
 <!ENTITY  closeOtherTabs.accesskey  "t">
 <!ENTITY  closeOtherTabs.label   "Mbyll Skeda të Tjera">
 <!ENTITY  reloadAllTabs.label    "Ringarko Tërë Skedat">
