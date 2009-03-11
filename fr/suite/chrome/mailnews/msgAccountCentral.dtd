@@ -55,5 +55,5 @@
 <!ENTITY junkSettings.label "Paramètres des courriers indésirables">
 <!ENTITY offlineLink.label "Paramètres hors connexion">
 
-<!ENTITY rssSectionHdr.label "Flux RSS &amp; carnets Web">
-<!ENTITY subscibeRSS.label "Gérer les abonnements">
+<!ENTITY feedsSectionHdr.label "Flux &amp; carnets Web">
+<!ENTITY subscribeFeeds.label "Gérer les abonnements">
