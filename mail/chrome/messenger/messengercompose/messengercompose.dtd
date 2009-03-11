@@ -157,19 +157,19 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Extras">
 <!ENTITY tasksMenu.accesskey "x">
-<!ENTITY messengerCmd.label "&brandShortName;">
-<!ENTITY messengerCmd.accesskey "T">
+<!ENTITY messengerCmd.label "Nachrichten &amp; Newsgruppen">
+<!ENTITY messengerCmd.accesskey "N">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adressbuch">
-<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Konten-Einstellungen…">
 <!ENTITY accountManagerCmd.accesskey "K">
 <!ENTITY accountManagerCmdUnix.accesskey "o">
 <!ENTITY preferencesCmd.label "Einstellungen…">
 <!ENTITY preferencesCmd.accesskey "E">
-<!ENTITY preferencesCmdUnix.label       "Einstellungen…">
-<!ENTITY preferencesCmdUnix.accesskey   "n">
+<!ENTITY preferencesCmdUnix.label "Einstellungen…">
+<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
