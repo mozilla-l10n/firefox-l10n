@@ -55,6 +55,6 @@
 <!ENTITY junkSettings.label           "Junk-Mail-Einstellungen">
 <!ENTITY offlineLink.label            "Offline-Einstellungen">
 
-<!ENTITY rssSectionHdr.label          "RSS News &amp; Blogs"> 
-<!ENTITY subscibeRSS.label            "Abonnements verwalten"> 
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Abonnements verwalten">
 
