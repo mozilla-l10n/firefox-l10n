@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey   	"A">
 <!ENTITY  reloadTab.label        		"Ljepblêd op 'e nij lade">
 <!ENTITY  reloadTab.accesskey       	"n">
+<!ENTITY  openTabInNewWindow.label		"Iepenje yn in nij skerm">
+<!ENTITY  openTabInNewWindow.accesskey	"s">
 <!ENTITY  listAllTabs.label      		"Alle ljepblêdtitels werjaan">
 <!ENTITY  bookmarkAllTabs.label       	"Blêdwizer meitsje fan alle ljepblêden">
 <!ENTITY  bookmarkAllTabs.accesskey   	"B">
