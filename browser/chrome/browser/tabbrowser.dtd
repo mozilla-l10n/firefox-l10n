@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "T">
 <!ENTITY  reloadTab.label        "Recarregar Separador">
 <!ENTITY  reloadTab.accesskey         "R">
+<!ENTITY  openTabInNewWindow.label "Abrir numa nova janela">
+<!ENTITY  openTabInNewWindow.accesskey "n">
 <!ENTITY  listAllTabs.label      "Listar Todos os Separadores">
 <!ENTITY  bookmarkAllTabs.label       "Guardar Separadores como Marcadores...">
 <!ENTITY  bookmarkAllTabs.accesskey   "S">
