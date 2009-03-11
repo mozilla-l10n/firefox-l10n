@@ -410,10 +410,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "s">
 <!ENTITY messengerCmd.label "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey "p">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Libër Vendndodhjesh">
 <!ENTITY addressBookCmd.accesskey "v">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY runJunkControls.label "Zbato mbi Dosjen Kontrolle Poste Hedhurinë">
 <!ENTITY runJunkControls.accesskey "z">
 <!ENTITY deleteJunk.label "Fshi Postë të Shënuar si Hedhurinë në Dosje">
@@ -695,4 +694,43 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Arkivë">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
+
+
+<!ENTITY activitymanager.label "Përgjegjës Veprimtarie">
+<!ENTITY activitymanager.accesskey "P">
+
+<!ENTITY glodaSearch.title "Kërkim Global">
+
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Kërkoni në mesazhet…">
+<!ENTITY glodaSearchBar.facet.label "Kërko në:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Gjithçka">
+<!ENTITY glodaSearchFacet.subject.label "Subjekt">
+<!ENTITY glodaSearchFacet.involves.label "Çka përfshin (from,to,cc,bcc)">
+<!ENTITY glodaSearchFacet.to.label "Për, CC">
+<!ENTITY glodaSearchFacet.from.label "Nga">
+<!ENTITY glodaSearchFacet.body.label "Tekst Mesazhi">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Emra Bashkangjitjesh">
+
+<!ENTITY glodaSearchBar.location.label "Vend:">
+<!ENTITY glodaSearchFacet.everywhere.label "Tërë Dosjet">
+<!ENTITY glodaSearchFacet.folder.label "Në një dosje të dhënë…">
+
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Pse">
+
+<!ENTITY glodaWhyColumn.tooltip "Klikoni për t&apos;i renditur sipas arsyes pse mesazhi gjendet te përfundimet e kërkimit tuaj">
+
 
