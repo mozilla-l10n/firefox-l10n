@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  validation.crlmanager.label             "CRLs verwalten">
-<!ENTITY  validation.crlmanager.description       "Diese Zertifikat-Widerrufslisten (CRL) sind in Ihrer Zertifikat-Datenbank gespeichert:">
+<!ENTITY  validation.crlmanager.description       "Diese Zertifikatsperrlisten (CRL) sind in Ihrer Zertifikatdatenbank gespeichert:">
 <!ENTITY  validation.crlname.label                "Name">
 <!ENTITY  validation.crllastupdate.label          "Letztes Update">
 <!ENTITY  validation.crlnextupdate.label          "Nächstes Update">
@@ -57,7 +57,7 @@
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Tag(e) durch">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL würde importiert von:">
 <!ENTITY  crl.import.status.title                 "CRL Importstatus">
-<!ENTITY  crl.import.success.message              "Die Zertifikat-Widerrufsliste (CRL) wurde erfolgreich importiert.">
+<!ENTITY  crl.import.success.message              "Die Zertifikatsperrliste (CRL) wurde erfolgreich importiert.">
 <!ENTITY  crl.issuer.label                        "CRL herausgegeben von:">
 <!ENTITY  crl.issuer.org.label                    "Organisation:">
 <!ENTITY  crl.issuer.orgunit.label                "Einheiten:">

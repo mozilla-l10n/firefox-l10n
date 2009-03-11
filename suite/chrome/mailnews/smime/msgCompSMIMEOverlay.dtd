@@ -9,7 +9,7 @@
 <!ENTITY menu_securityNoEncryption.label "Diese Nachricht nicht verschlüsseln">
 <!ENTITY menu_securityNoEncryption.accesskey "D">
 
-<!ENTITY menu_securitySign.label "Diese Nachricht digital unterschreiben">
+<!ENTITY menu_securitySign.label "Diese Nachricht digital signieren">
 <!ENTITY menu_securitySign.accesskey "D">
 
 <!ENTITY menu_securityStatus.label "Sicherheitsinformationen anzeigen">
