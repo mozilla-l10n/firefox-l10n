@@ -1,4 +1,4 @@
-<!ENTITY  updateWizard.title              "&brandShortName; update">
+<!ENTITY  updateWizard.title              "&brandShortName;-update">
 
 <!ENTITY  offline.title                   "&brandShortName; werkt nu offline">
 <!ENTITY  offline.description             "&brandShortName; moet online gaan om te kunnen zien of er updates
