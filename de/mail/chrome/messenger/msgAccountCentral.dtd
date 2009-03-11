@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label           "Junk-Filter-Einstellungen">
 <!ENTITY offlineLink.label            "Offline-Einstellungen bearbeiten">
 
-<!ENTITY rssSectionHdr.label          "RSS-Feeds">
-<!ENTITY subscibeRSS.label            "Abonnements verwalten">
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscibeFeeds.label          "Abonnements verwalten">
