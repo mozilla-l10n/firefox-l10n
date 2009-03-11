@@ -1,0 +1,17 @@
+<!ENTITY content.title                             "내용">
+<!ENTITY permissions.default.image.title           "그림 자동으로 읽기">
+<!ENTITY permissions.default.image.description     "웹사이트를 보기좋게">
+<!ENTITY javascript.enabled.title                  "자바스크립트 사용">
+<!ENTITY javascript.enabled.description            "동적인 웹사이트를 보여줍니다">
+<!ENTITY javascript.options.jit.content.title      "자바스크립트 JIT 사용">
+<!ENTITY javascript.options.jit.content.description "네이티브 코드 컴파일 사용">
+<!ENTITY plugins.enabled.title                     "플러그인 사용">
+<!ENTITY plugins.enabled.description               "웹을 짜증나게 만든다">
+<!ENTITY privacy.title                             "개인 정보 &amp; 보안">
+<!ENTITY network.cookie.cookieBehavior.title       "쿠키 저장">
+<!ENTITY network.cookie.cookieBehavior.description "맛있는 먹거리">
+<!ENTITY clear.private.data.title                  "개인 정보 초기화">
+<!ENTITY clear.private.data.button                 "초기화…">
+<!ENTITY clear.private.data.description            "Saves your hide">
+<!ENTITY signon.rememberSignons.title              "암호 저장하기">
+<!ENTITY signon.rememberSignons.description        "웹 사이트에 입력하는 암호 저장하기">
