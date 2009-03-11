@@ -44,8 +44,6 @@
 <!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
 <!ENTITY emptyTrashCmd.accesskey "V">
-<!ENTITY importCmd.label "Importer…">
-<!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "Hors-ligne">
 <!ENTITY offlineMenu.accesskey "H">
 <!ENTITY offlineGoOfflineCmd.label "Travailler hors-connexion">
@@ -98,9 +96,6 @@
 <!ENTITY folderPropsFolderCmd.label "Propriétés du dossier…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriétés du groupe…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Paramètres des comptes…">
-<!ENTITY accountManagerCmd.accesskey "m">
-<!ENTITY accountManagerCmdUnix.accesskey "a">
 <!ENTITY undoDeleteMsgCmd.label "Annuler l'effacement">
 <!ENTITY redoDeleteMsgCmd.label "Restaurer le message effacé">
 <!ENTITY undoMoveMsgCmd.label "Annuler le déplacement de message">
@@ -409,21 +404,15 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Outils">
 <!ENTITY tasksMenu.accesskey "O">
-<!ENTITY addons.label "Modules complémentaires">
-<!ENTITY addons.accesskey "c">
-<!ENTITY activitymanager.label "Activités">
-<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Courrier et groupes">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY runJunkControls.label "Traquer les indésirables dans le dossier">
-<!ENTITY runJunkControls.accesskey "q">
-<!ENTITY deleteJunk.label "Supprimer les indésirables de ce dossier">
-<!ENTITY deleteJunk.accesskey "e">
-<!ENTITY errorConsoleCmd.label "Console d'erreurs">
-<!ENTITY errorConsoleCmd.accesskey "s">
+<!ENTITY addons.label "Modules complémentaires">
+<!ENTITY addons.accesskey "c">
+<!ENTITY activitymanager.label "Activités">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY filtersCmd.label "Filtres de messages…">
 <!ENTITY filtersCmd.accesskey "t">
 <!ENTITY filtersApply.label "Appliquer les filtres sur le dossier">
@@ -432,6 +421,19 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY filtersApplyToSelection.accesskey "A">
 <!ENTITY filtersApplyToMessage.label "Appliquer les filtres sur le message">
 <!ENTITY filtersApplyToMessage.accesskey "m">
+<!ENTITY runJunkControls.label "Traquer les indésirables dans le dossier">
+<!ENTITY runJunkControls.accesskey "q">
+<!ENTITY deleteJunk.label "Supprimer les indésirables de ce dossier">
+<!ENTITY deleteJunk.accesskey "e">
+<!ENTITY importCmd.label "Importer…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY errorConsoleCmd.label "Console d'erreurs">
+<!ENTITY errorConsoleCmd.accesskey "s">
+<!ENTITY accountManagerCmd.label "Paramètres des comptes…">
+<!ENTITY accountManagerCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "a">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Relever">
