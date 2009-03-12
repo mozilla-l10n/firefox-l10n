@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "ලිපි යොමුකිරීම:">
 <!ENTITY forwardMsg.accesskey                 "F">
 <!ENTITY inline.label                         "ලිපිය තුළ">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "ඇමුණුමක් ලෙස">
-<!ENTITY asAttachment.accesskey               "A">
 <!ENTITY addExtension.label                   "දිගු කිරීම ගොනු නමට එක් කරන්න">
 <!ENTITY addExtension.accesskey               "f">
 

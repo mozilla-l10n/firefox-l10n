@@ -9,5 +9,5 @@
 <!ENTITY paneDisplay.title        "පෙන්වීම">
 <!ENTITY paneComposition.title    "ලිපි ලිවීම">
 <!ENTITY paneAttachments.title    "ඇමුණුම්">
-<!ENTITY panePrivacy.title        "පෞද්ගලිකත්වය">
+<!ENTITY paneSecurity.title       "ආරක්ෂාව">
 <!ENTITY paneAdvanced.title       "වැඩිමනත්">

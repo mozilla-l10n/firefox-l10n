@@ -414,6 +414,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "ලිපින පොත">
 <!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY runJunkControls.label "ෆෝල්ඩරය මත නිසරු ලිපි පාලක ක්‍රියා ක.">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "ෆෝල්ඩරය තුළ නිසරු සේ සළකුණු කර ඇති ලිපි මකන්න">
