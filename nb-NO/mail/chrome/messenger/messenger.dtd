@@ -44,8 +44,6 @@
 <!ENTITY compactFolders.accesskey    "K">
 <!ENTITY emptyTrashCmd.label "Tøm søppelkasse">
 <!ENTITY emptyTrashCmd.accesskey    "T">
-<!ENTITY importCmd.label "Importer …">
-<!ENTITY importCmd.accesskey "p">
 <!ENTITY offlineMenu.label "Frakoblet">
 <!ENTITY offlineMenu.accesskey "F">
 <!ENTITY offlineGoOfflineCmd.label "Arbeid frakoblet">
@@ -98,9 +96,6 @@
 <!ENTITY folderPropsFolderCmd.label "Mappeegenskaper …">
 <!ENTITY folderPropsNewsgroupCmd.label "Innstillinger for nyhetsgrupper …">
 <!ENTITY folderPropsCmd.accesskey "E">
-<!ENTITY accountManagerCmd.label "Kontoinnstillinger …">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "K">
 <!ENTITY undoDeleteMsgCmd.label "Angre sletting av melding">
 <!ENTITY redoDeleteMsgCmd.label "Gjenta sletting av melding">
 <!ENTITY undoMoveMsgCmd.label "Angre flytting av melding">
@@ -407,20 +402,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "E">
-<!ENTITY addons.label "Utvidelser">
-<!ENTITY addons.accesskey "U">
-<!ENTITY activitymanager.label "Aktivitetsbehandling">
-<!ENTITY activitymanager.accesskey "A">
 <!ENTITY messengerCmd.label "E-post og nyhetsgrupper">
 <!ENTITY messengerCmd.accesskey "E">
 <!ENTITY addressBookCmd.label "Adressebok">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY runJunkControls.label "Kjør kontroll av uønsket e-post på mappe">
-<!ENTITY runJunkControls.accesskey "r">
-<!ENTITY deleteJunk.label "Slett all uønsket e-post i denne mappen">
-<!ENTITY deleteJunk.accesskey "S">
-<!ENTITY errorConsoleCmd.label "Feilmeldinger">
-<!ENTITY errorConsoleCmd.accesskey "F">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Utvidelser">
+<!ENTITY addons.accesskey "U">
+<!ENTITY activitymanager.label "Aktivitetsbehandling">
+<!ENTITY activitymanager.accesskey "A">
 <!ENTITY filtersCmd.label "Meldingsfiltre …">
 <!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Utfør filtre på mappe">
@@ -429,6 +419,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "f">
 <!ENTITY filtersApplyToMessage.label "Utfør filtre på melding">
 <!ENTITY filtersApplyToMessage.accesskey "ø">
+<!ENTITY runJunkControls.label "Kjør kontroll av uønsket e-post på mappe">
+<!ENTITY runJunkControls.accesskey "r">
+<!ENTITY deleteJunk.label "Slett all uønsket e-post i denne mappen">
+<!ENTITY deleteJunk.accesskey "S">
+<!ENTITY importCmd.label "Importer …">
+<!ENTITY importCmd.accesskey "m">
+<!ENTITY errorConsoleCmd.label "Feilmeldinger">
+<!ENTITY errorConsoleCmd.accesskey "F">
+<!ENTITY accountManagerCmd.label "Kontoinnstillinger …">
+<!ENTITY accountManagerCmd.accesskey "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "K">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Hent nye">

@@ -9,7 +9,7 @@
 
 <!ENTITY  mismatch.win.title              "Inkompatible utvidelser">
 <!ENTITY  mismatch.top.label              "Følgende utvidelser er ikke kompatible med denne nye versjonen
-                                           av &brandShortName;, og er derfor avslått:">
+                                           av &brandShortName;, og blir derfor avslått:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; kan se etter kompatible
                                            versjoner av disse utvidelsene.">
 
@@ -32,7 +32,7 @@
                                            oppdateringer.">
 <!ENTITY  noupdates.error.desc            "Problemer oppstod ved forsøk på å finne oppdateringer.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ser jevnlig etter oppdateringer for disse utvidelsene, og
-                                           informerer deg når de blir funnet.">
+                                           informerer deg når de er tilgjengelige.">
 
 <!ENTITY  finished.wizard.title           "Oppdatering fullført">
 <!ENTITY  finished.top.label              "&brandShortName; har installert de tilgjengelige oppdateringene.">

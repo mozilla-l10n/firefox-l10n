@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "Kontoinnstillinger for nyheter">
+<!ENTITY accountTitle.label "Kontoinnstillinger">
 
 <!ENTITY biffStart.label "Se etter nye artikler med ">
 <!ENTITY biffStart.accesskey "e">
@@ -13,8 +13,8 @@
 <!ENTITY manageSubscriptions.label "Behandle abonnement …"> 
 <!ENTITY manageSubscriptions.accesskey "B">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Nyheter og blogger">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS nyheter og blogger">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogger og nyhetskilder">
+<!ENTITY feeds.wizardShortName "Nyhetskilder">
+<!ENTITY feeds.wizardLongName "Blogger og nyhetskilder">
+<!ENTITY feeds.wizardLongName.accesskey "B">
