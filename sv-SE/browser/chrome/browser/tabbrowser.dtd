@@ -41,6 +41,8 @@
 <!ENTITY  reloadAllTabs.accesskey  "a">
 <!ENTITY  reloadTab.label          "Uppdatera flik">
 <!ENTITY  reloadTab.accesskey      "U">
+<!ENTITY  openTabInNewWindow.label    "Öppna i ett nytt fönster">
+<!ENTITY  openTabInNewWindow.accesskey "Ö">
 <!ENTITY  listAllTabs.label        "Visa upp alla flikar">
 <!ENTITY  bookmarkAllTabs.label       "Bokmärke för alla flikar…">
 <!ENTITY  bookmarkAllTabs.accesskey   "m">
