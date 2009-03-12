@@ -286,17 +286,20 @@
 <!ENTITY calendar.server.dialog.name.label          "Navn:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Farge:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Format:">
-<!ENTITY calendarproperties.location.label "Adresse:">
-<!ENTITY calendarproperties.name.label     "Navn:">
-<!ENTITY calendarproperties.readonly.label "Skrivebeskyttet">
-<!ENTITY calendarproperties.firealarms.label "Vis alarmer">
-<!ENTITY calendarproperties.cache.label    "Hurtiglager (EKSPERIMENTELT, krever omstart)">
-<!ENTITY calendarproperties.enabled.label "Bruk denne kalenderen">
+<!ENTITY calendarproperties.color.label                    "Farge:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format:">
+<!ENTITY calendarproperties.location.label                 "Adresse:">
+<!ENTITY calendarproperties.name.label                     "Navn:">
+<!ENTITY calendarproperties.readonly.label                 "Skrivebeskyttet">
+<!ENTITY calendarproperties.firealarms.label               "Vis alarmer">
+<!ENTITY calendarproperties.cache.label                    "Hurtiglager (EKSPERIMENTELT, krever omstart)">
+<!ENTITY calendarproperties.enabled.label                  "Bruk denne kalenderen">
+<!ENTITY calendarproperties.forceDisabled.label            "Klarte ikke finne tilbyderen av denne kalenderen. Dette skjer ofte dersom du har slått av eller avinstallert enkelte utvidelser.">
+<!ENTITY calendarproperties.unsubscribe.label              "Stopp abonnement">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "S">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publiser kalender">
@@ -323,6 +326,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detaljer …">
-<!ENTITY calendar.error.number "Feilnummer:">
+<!ENTITY calendar.error.code "Feilkode:">
 <!ENTITY calendar.error.description "Beskrivelse:">
 <!ENTITY calendar.error.title "En feil har oppstått">
