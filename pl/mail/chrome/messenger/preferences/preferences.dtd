@@ -8,5 +8,5 @@
 <!ENTITY paneDisplay.title       "Wyświetlanie">
 <!ENTITY paneComposition.title   "Tworzenie">
 <!ENTITY paneAttachments.title   "Załączniki">
-<!ENTITY panePrivacy.title       "Prywatność">
+<!ENTITY paneSecurity.title      "Bezpieczeństwo">
 <!ENTITY paneAdvanced.title      "Zaawansowane">
