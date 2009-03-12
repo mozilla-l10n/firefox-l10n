@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "A">
 <!ENTITY  reloadTab.label        "Recargar pestaña">
 <!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  openTabInNewWindow.label    "Abrir en nueva ventana">
+<!ENTITY  openTabInNewWindow.accesskey "v">
 <!ENTITY  listAllTabs.label      "Listar todas las pestañas">
 <!ENTITY  bookmarkAllTabs.label       "Marcar todas las pestañas…">
 <!ENTITY  bookmarkAllTabs.accesskey   "t">
