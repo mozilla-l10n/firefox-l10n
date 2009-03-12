@@ -8,7 +8,9 @@
 <!ENTITY reloadAllTabs.label "Odśwież wszystkie karty" >
 <!ENTITY reloadAllTabs.accesskey "w" >
 <!ENTITY reloadTab.label "Odśwież kartę" >
-<!ENTITY reloadTab.accesskey "O" >
+<!ENTITY reloadTab.accesskey "d" >
+<!ENTITY  openTabInNewWindow.label    "Otwórz w nowym oknie">
+<!ENTITY  openTabInNewWindow.accesskey "O">
 <!ENTITY  listAllTabs.label      "Pokaż wszystkie karty">
 <!ENTITY  bookmarkAllTabs.label       "Dodaj zakładki do wszystkich kart…">
 <!ENTITY  bookmarkAllTabs.accesskey   "k">
