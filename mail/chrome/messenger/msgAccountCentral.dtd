@@ -48,5 +48,5 @@
 <!ENTITY junkSettings.label           "Inställningar för skräppost">
 <!ENTITY offlineLink.label            "Inställningar för nedkopplat läge">
 
-<!ENTITY rssSectionHdr.label          "RSS nyheter &amp; bloggar"> 
-<!ENTITY subscibeRSS.label            "Hantera prenumerationer">
+<!ENTITY feedsSectionHdr.label        "RSS-kanaler"> 
+<!ENTITY subscribeFeeds.label         "Hantera prenumerationer">
