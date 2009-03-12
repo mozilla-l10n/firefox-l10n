@@ -1,8 +1,10 @@
 <!ENTITY content.title                             "Obsah">
-<!ENTITY permissions.default.image.title           "Načítavať obrázky">
+<!ENTITY permissions.default.image.title           "Automaticky načítavať obrázky">
 <!ENTITY permissions.default.image.description     "Robí stránky krajšími">
-<!ENTITY javascript.enabled.title                  "Povoliť Javascript">
+<!ENTITY javascript.enabled.title                  "Povoliť JavaScript">
 <!ENTITY javascript.enabled.description            "Robí stránky efektívnejšími">
+<!ENTITY javascript.options.jit.content.title      "Povoliť JavaScript tracing">
+<!ENTITY javascript.options.jit.content.description "Pri JavaScripte použije kompiláciu do natívneho kódu">
 <!ENTITY plugins.enabled.title                     "Povoliť zásuvné moduly">
 <!ENTITY plugins.enabled.description               "Robí stránky otravnými">
 <!ENTITY privacy.title                             "Súkromie a bezpečnosť">

@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "Nastavenia je možné zmeniť na karte Aplikácie v Možnostiach &brandShortName;u.">
-<!ENTITY  settingsChangeOptions.label      "Nastavenia je možné zmeniť na karte Aplikácie v Možnostiach &brandShortName;u.">
+<!ENTITY  settingsChangePreferences.label  "Nastavenia je možné zmeniť na paneli Aplikácie v okne Možnosti &brandShortName;u.">
+<!ENTITY  settingsChangeOptions.label      "Nastavenia je možné zmeniť na paneli Aplikácie v okne Možnosti &brandShortName;u.">
