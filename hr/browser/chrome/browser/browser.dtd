@@ -351,6 +351,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Uvećanje">
 <!ENTITY fullZoom.accesskey             "v">
 
+<!ENTITY newTabButton.tooltip           "Otvori novu karticu">
 <!ENTITY newWindowButton.tooltip        "Otvori novi prozor">
 <!ENTITY sidebarCloseButton.tooltip     "Zatvori bočnu traku">
 

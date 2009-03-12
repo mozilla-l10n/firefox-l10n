@@ -37,7 +37,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Očisti popis">
 <!ENTITY cmd.clearList.tooltip            "Uklanja završena, prekinuta i neuspjela preuzimanja s popisa">
-<!ENTITY cmd.clearList.accesskey          "U">
+<!ENTITY cmd.clearList.accesskey          "s">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 

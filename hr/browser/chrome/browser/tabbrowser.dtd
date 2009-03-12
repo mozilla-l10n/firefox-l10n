@@ -9,7 +9,9 @@
 <!ENTITY  reloadAllTabs.accesskey         "u">
 <!ENTITY  reloadTab.label        "Ponovo učitaj karticu">
 <!ENTITY  reloadTab.accesskey         "r">
-<!ENTITY  listAllTabs.label      "Ispiči sve kartice">
+<!ENTITY  openTabInNewWindow.label    "Otvori u novom prozoru">
+<!ENTITY  openTabInNewWindow.accesskey "p">
+<!ENTITY  listAllTabs.label      "Ispiši sve kartice">
 <!ENTITY  bookmarkAllTabs.label       "Zabilježi sve kartice…">
 <!ENTITY  bookmarkAllTabs.accesskey   "T">
 <!ENTITY  bookmarkThisTab.label       "Zabilježi ovu karticu">

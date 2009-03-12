@@ -9,7 +9,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Prevoditelji</h3><ul><li>Saša Teković</li></ul><ul><li>Danije Šnajder</li></ul><ul><li>Robert Okadar</li></ul><ul><li>Anton Gagić</li></ul><ul><li>Ante Karamatić</li></ul>">
+<!ENTITY credit.translation "<h3>Prevoditelji</h3><ul><li>Saša Teković</li></ul><ul><li>Danijel Šnajder</li></ul><ul><li>Robert Okadar</li></ul><ul><li>Anton Gagić</li></ul><ul><li>Ante Karamatić</li></ul>">
 
-<!ENTITY credit.memory      "U sjećanju na">
+<!ENTITY credit.memory      "U sjećanje na">
 <!ENTITY credit.poweredByGeckoReg "Pokreće Gecko&reg;">

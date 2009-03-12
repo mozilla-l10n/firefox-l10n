@@ -10,7 +10,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Zatražena adresa ima definiran ulaz (npr. <q>mozilla.org:80</q> za ulaz 80 na mozilla.org) koji se inače koristi za <em>druge</em> radnje, a ne pretraživanje. Pretraživač je prekinuo zahtjev za vaše zaštite i sigurnosti.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa nije pronađena">
-<!ENTITY dnsNotFound.longDesc "<p>Pretraživač nije pronašao poslužitelj za danu adresu.</p><ul><li>Jeste li napravili grešku prilikom upisa adrese? (npr. <q><strong>ww</strong>.mozilla.org</q> umjesto <q><strong>www</strong>mozilla.org</q></li><liJeste li sigurni da ova domena postoji? Možda joj je istekla registracija.</li><li>Ne možete pretraživati i druge stranice? Provjerite mrežne postavke i postavke DNS poslužitelja.</li><li>Je li vaše računalo zaštićeno vatrozidom ili proxyem? Neispravne postavke mogu onemoućiti pretraživanje.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Pretraživač nije pronašao poslužitelj za danu adresu.</p><ul><li>Jeste li napravili grešku prilikom upisa adrese? (npr. <q><strong>ww</strong>.mozilla.org</q> umjesto <q><strong>www</strong>mozilla.org</q>)</li><li>Jeste li sigurni da ova domena postoji? Možda joj je istekla registracija.</li><li>Ne možete pretraživati i druge stranice? Provjerite mrežne postavke i postavke DNS poslužitelja.</li><li>Je li vaše računalo zaštićeno vatrozidom ili proxyem? Neispravne postavke mogu onemoućiti pretraživanje.</li></ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul><li>Možda je uklonjena, premještena ili joj je ime promijenjeno?</li><li>Postoji li pravopisna ili nekakva tipografska greška?</li><li>Imate li dovoljna prava za pristup traženoj datoteci?</li></ul>">
