@@ -3,7 +3,7 @@
 
 <!ENTITY email.label      "poczty">
 <!ENTITY newsgroups.label "grup dyskusyjnych">
-<!ENTITY rss.label        "źródeł aktualności">
+<!ENTITY feeds.label      "źródeł aktualności">
 
 <!ENTITY checkOnStartup.label     "Sprawdzaj to zawsze przy uruchamianiu programu &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "S">
