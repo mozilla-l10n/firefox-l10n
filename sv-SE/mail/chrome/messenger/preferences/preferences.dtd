@@ -9,5 +9,5 @@
 <!ENTITY paneDisplay.title        "Visa">
 <!ENTITY paneComposition.title    "Skriva">
 <!ENTITY paneAttachments.title    "Bilagor">
-<!ENTITY panePrivacy.title        "Sekretess">
+<!ENTITY paneSecurity.title       "Säkerhet">
 <!ENTITY paneAdvanced.title       "Avancerat">
