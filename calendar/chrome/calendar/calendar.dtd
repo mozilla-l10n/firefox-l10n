@@ -244,7 +244,7 @@
 
 <!ENTITY calendar.context.convertmenu.label              "Konverter til">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "K">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "K">
 <!ENTITY calendar.context.convertmenu.event.label        "Hending …">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "H">
 <!ENTITY calendar.context.convertmenu.message.label      "Melding …">
@@ -286,17 +286,20 @@
 <!ENTITY calendar.server.dialog.name.label          "Kalendernamn:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Farge:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Format:">
-<!ENTITY calendarproperties.location.label "Adresse:">
-<!ENTITY calendarproperties.name.label     "Namn:">
-<!ENTITY calendarproperties.readonly.label "Skriveverna">
-<!ENTITY calendarproperties.firealarms.label "Vis alarmar">
-<!ENTITY calendarproperties.cache.label    "Mellomlager (EKSPERIMENTELT, krev omstart)">
-<!ENTITY calendarproperties.enabled.label "Slå på denne kalenderen">
+<!ENTITY calendarproperties.color.label                    "Farge:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format:">
+<!ENTITY calendarproperties.location.label                 "Adresse:">
+<!ENTITY calendarproperties.name.label                     "Namn:">
+<!ENTITY calendarproperties.readonly.label                 "Skriveverna">
+<!ENTITY calendarproperties.firealarms.label               "Vis alarmar">
+<!ENTITY calendarproperties.cache.label                    "Mellomlager (EKSPERIMENTELT, krev omstart)">
+<!ENTITY calendarproperties.enabled.label                  "Slå på denne kalenderen">
+<!ENTITY calendarproperties.forceDisabled.label            "Fann ikkje tilbydaren av denne kalenderen. Dette skjer ofte om du har slått av eller avinstallert enkelte utvidingar.">
+<!ENTITY calendarproperties.unsubscribe.label              "Stopp abonnement">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "S">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publiser kalender">
@@ -323,6 +326,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detaljar …">
-<!ENTITY calendar.error.number "Feilnummer:">
+<!ENTITY calendar.error.code "Feilkode:">
 <!ENTITY calendar.error.description "Skildring:">
 <!ENTITY calendar.error.title "Det har oppstått ein feil">

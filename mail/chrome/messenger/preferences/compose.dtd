@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Vidaresend meldingar:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Innebygd">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Som vedlegg">
-<!ENTITY asAttachment.accesskey               "o">
 <!ENTITY addExtension.label                   "legg til filtype i filnamnet">
 <!ENTITY addExtension.accesskey               "e">
 
@@ -26,7 +24,7 @@
 <!ENTITY spellCheck.label                     "Køyr stavekontroll før meldingar vert sendte">
 <!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Kontroller staving medan du skriv">
-<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY spellCheckInline1.accesskey          "k">
 <!ENTITY languagePopup.label                  "Språk:">
 <!ENTITY languagePopup.accessKey              "S">
 <!ENTITY downloadDictionaries.label           "Last ned fleire ordbøker">
