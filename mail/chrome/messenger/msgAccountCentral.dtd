@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label           "Innstillinger for uønsket e-post">
 <!ENTITY offlineLink.label            "Innstillinger for frakoblet tilstand">
 
-<!ENTITY rssSectionHdr.label          "Nyheter og blogger"> 
-<!ENTITY subscibeRSS.label            "Behandle abonnement"> 
+<!ENTITY feedsSectionHdr.label        "Nyheter og blogger">
+<!ENTITY subscribeFeeds.label         "Behandle abonnement">

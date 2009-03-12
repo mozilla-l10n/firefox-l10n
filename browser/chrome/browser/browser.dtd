@@ -351,6 +351,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Skalering">
 <!ENTITY fullZoom.accesskey             "r">
 
+<!ENTITY newTabButton.tooltip           "Åpner en ny fane">
 <!ENTITY newWindowButton.tooltip        "Åpner et nytt vindu">
 <!ENTITY sidebarCloseButton.tooltip     "Lukk sidestolpen">
 

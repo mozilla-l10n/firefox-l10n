@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "d">
 <!ENTITY  reloadTab.label        "Oppdater fane">
 <!ENTITY  reloadTab.accesskey         "O">
+<!ENTITY  openTabInNewWindow.label    "Åpne i et nytt vindu">
+<!ENTITY  openTabInNewWindow.accesskey "e">
 <!ENTITY  listAllTabs.label      "List alle faner">
 <!ENTITY  bookmarkAllTabs.label       "Bokmerk alle faner …">
 <!ENTITY  bookmarkAllTabs.accesskey   "o">

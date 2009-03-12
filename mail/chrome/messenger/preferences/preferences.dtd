@@ -9,5 +9,5 @@
 <!ENTITY paneDisplay.title        "Visning">
 <!ENTITY paneComposition.title    "Skriving">
 <!ENTITY paneAttachments.title    "Vedlegg">
-<!ENTITY panePrivacy.title        "Personvern">
+<!ENTITY paneSecurity.title       "Sikkerhet">
 <!ENTITY paneAdvanced.title       "Avansert">
