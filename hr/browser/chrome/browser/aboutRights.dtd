@@ -14,14 +14,14 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; je dostupan pod uvjetima ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". To znači da možete koristiti, kopirati i distribuirati drugima &brandShortName;.  Također ste pozvani mijenjati izvorni kod &brandShortName; ako želite učiniti neke promjene. Mozilla Public License vam daje pravo da distribuirati izmijenjene verzije.">
+<!ENTITY rights.intro-point1c ". To znači da možete koristiti, kopirati i distribuirati drugima &brandShortName;.  Također ste pozvani mijenjati izvorni kod &brandShortName; ako želite učiniti neke promjene. Mozilla Public License vam daje pravo distribucije izmijenjene verzije.">
 
 <!ENTITY rights.intro-point2a "Mozilla vam ne daje nikakva prava na Mozilla i Mozilla Firefox zaštićene znakove i logotipe. Dodatne informacije o zaštićenim znkovima mogu se naći ">
 <!ENTITY rights.intro-point2b "ovdje">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Privatna pravila za &vendorShortName;' proizvode se mogu naći ">
+<!ENTITY rights.intro-point3a "Privatna pravila za &vendorShortName; proizvode se mogu naći ">
 <!ENTITY rights.intro-point3b "ovdje">
 <!ENTITY rights.intro-point3c ".">
 
@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Sva primjenjiva privatna pravila za ovaj proizvod bi trebala biti popisana ovdje.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; isto tako pruža opcijske usluge putem web stranica, kao što su SafeBrowsing usluga; međutim, mi ne možemo jamčiti da su one 100&#37; točne ili bezgrešne. Više detalja, uključujući informacije kako isključiti te usluge, možete naći u ">
+<!ENTITY rights.intro-point4a "&brandShortName; isto tako pruža opcijske usluge putem web stranica, kao što je SafeBrowsing usluga. Međutim, mi ne možemo jamčiti da su one 100&#37; točne ili bezgrešne. Više detalja, uključujući informacije kako isključiti te usluge, možete naći u ">
 <!ENTITY rights.intro-point4b "uvjetima usluga">
 <!ENTITY rights.intro-point4c ".">
 
