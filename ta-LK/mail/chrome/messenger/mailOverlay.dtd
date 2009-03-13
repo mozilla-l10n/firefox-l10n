@@ -3,5 +3,5 @@
 <!ENTITY newMessageCmd.label "செய்தி">
 <!ENTITY newMessageCmd.accesskey "m">
  
-<!ENTITY  newContactCmd.label             "Address Book Contact…">
+<!ENTITY  newContactCmd.label             "முகவரிப்புத்தக தொடர்பு…">
 <!ENTITY  newContactCmd.accesskey         "C">

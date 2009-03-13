@@ -16,13 +16,13 @@
 <!ENTITY HTMLTab.accesskey "h">
 <!ENTITY PlainTextTab.label "எளிய உரை Domains">
 <!ENTITY PlainTextTab.accesskey "p">
-<!ENTITY AddHtmlDomain.label          "Add…">
+<!ENTITY AddHtmlDomain.label          "சேர்க்க…">
 <!ENTITY AddHtmlDomain.accesskey "a">
-<!ENTITY AddPlainText.label           "Add…">
+<!ENTITY AddPlainText.label           "சேர்க்க…">
 <!ENTITY AddPlainText.accesskey "d">
-<!ENTITY DeleteHtmlDomain.label       "Delete">
+<!ENTITY DeleteHtmlDomain.label       "நீக்குக">
 <!ENTITY DeleteHtmlDomain.accesskey   "l">
-<!ENTITY DeletePlainText.label        "Delete">
+<!ENTITY DeletePlainText.label        "நீக்குக">
 <!ENTITY DeletePlainText.accesskey "t">
 
 <!ENTITY add.htmltitle "HTML Domain பெயரை சேர்க்கவும்">

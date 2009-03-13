@@ -17,5 +17,5 @@
 <!ENTITY offlineLink.label "Offline அமைவுகள்">
 
 
-<!ENTITY rssSectionHdr.label "RSS செய்திகள் &amp; Blogs">
-<!ENTITY subscibeRSS.label "subscriptionsஐ நிர்வகிக்கவும்">
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Manage subscriptions">
