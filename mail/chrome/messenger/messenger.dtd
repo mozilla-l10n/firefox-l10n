@@ -4,7 +4,7 @@
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe …">
-<!ENTITY newFolderCmd.accesskey "p">
+<!ENTITY newFolderCmd.accesskey "e">
 <!ENTITY closeTabCmd.label "Lat att fane">
 <!ENTITY closeTabCmd.accesskey "L">
 <!ENTITY newVirtualFolderCmd.label "Lagra søk …">
@@ -30,7 +30,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Denne kontoen">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "D">
 <!ENTITY getNextNMsgCmd.label "Hent neste 500 meldingar i nyhendegruppa">
-<!ENTITY getNextNMsgCmd.accesskey "e">
+<!ENTITY getNextNMsgCmd.accesskey "H">
 <!ENTITY sendUnsentCmd.label "Send usende meldingar">
 <!ENTITY sendUnsentCmd.accesskey "u">
 <!ENTITY subscribeCmd.label "Abonner …">
@@ -44,8 +44,6 @@
 <!ENTITY compactFolders.accesskey    "K">
 <!ENTITY emptyTrashCmd.label "Tøm bosskorg">
 <!ENTITY emptyTrashCmd.accesskey    "T">
-<!ENTITY importCmd.label "Importer …">
-<!ENTITY importCmd.accesskey "p">
 <!ENTITY offlineMenu.label "Fråkopla">
 <!ENTITY offlineMenu.accesskey "F">
 <!ENTITY offlineGoOfflineCmd.label "Arbeid fråkopla">
@@ -98,9 +96,6 @@
 <!ENTITY folderPropsFolderCmd.label "Mappeeigenskapar …">
 <!ENTITY folderPropsNewsgroupCmd.label "Innstillingar for nyhendegrupper">
 <!ENTITY folderPropsCmd.accesskey "E">
-<!ENTITY accountManagerCmd.label "Kontoinnstillingar …">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "K">
 <!ENTITY undoDeleteMsgCmd.label "Angre sletting av melding">
 <!ENTITY redoDeleteMsgCmd.label "Gjenta sletting av melding">
 <!ENTITY undoMoveMsgCmd.label "Angre flytting av melding">
@@ -407,20 +402,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "e">
-<!ENTITY addons.label "Utvidingar">
-<!ENTITY addons.accesskey "U">
-<!ENTITY activitymanager.label "Aktivitetshandsaming">
-<!ENTITY activitymanager.accesskey "A">
 <!ENTITY messengerCmd.label "E-post og nyhendegrupper">
 <!ENTITY messengerCmd.accesskey "E">
 <!ENTITY addressBookCmd.label "Adressebok">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY runJunkControls.label "Køyr kontroll av uønskt e-post på mappe">
-<!ENTITY runJunkControls.accesskey "r">
-<!ENTITY deleteJunk.label "Slett all uønskt e-post i denne mappa">
-<!ENTITY deleteJunk.accesskey "S">
-<!ENTITY errorConsoleCmd.label "Feilmeldingar">
-<!ENTITY errorConsoleCmd.accesskey "F">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Utvidingar">
+<!ENTITY addons.accesskey "U">
+<!ENTITY activitymanager.label "Aktivitetshandsaming">
+<!ENTITY activitymanager.accesskey "A">
 <!ENTITY filtersCmd.label "Meldingsfilter …">
 <!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Køyr filter på mappe">
@@ -429,6 +419,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "S">
 <!ENTITY filtersApplyToMessage.label "Køyr filter på meldingar">
 <!ENTITY filtersApplyToMessage.accesskey "ø">
+<!ENTITY runJunkControls.label "Køyr kontroll av uønskt e-post på mappe">
+<!ENTITY runJunkControls.accesskey "r">
+<!ENTITY deleteJunk.label "Slett all uønskt e-post i denne mappa">
+<!ENTITY deleteJunk.accesskey "S">
+<!ENTITY importCmd.label "Importer …">
+<!ENTITY importCmd.accesskey "p">
+<!ENTITY errorConsoleCmd.label "Feilmeldingar">
+<!ENTITY errorConsoleCmd.accesskey "F">
+<!ENTITY accountManagerCmd.label "Kontoinnstillingar …">
+<!ENTITY accountManagerCmd.accesskey "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "K">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Hent nye">

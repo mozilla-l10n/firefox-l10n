@@ -3,7 +3,7 @@
 
 <!ENTITY email.label "E-post">
 <!ENTITY newsgroups.label "Nyhendegrupper">
-<!ENTITY rss.label "RSS-nyhendekjelder">
+<!ENTITY feeds.label "Kjelder">
 
 <!ENTITY checkOnStartup.label "Konroller alltid dette når &brandShortName; startar">
 <!ENTITY checkOnStartup.accesskey "K">
