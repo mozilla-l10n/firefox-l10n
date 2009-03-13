@@ -3,7 +3,7 @@
 
 <!ENTITY email.label "மின்னஞ்சல்">
 <!ENTITY newsgroups.label "செய்தித்தொகுப்புக்கள்">
-<!ENTITY rss.label "RSS Feeds">
+<!ENTITY feeds.label "Feeds">
 
 <!ENTITY checkOnStartup.label "&brandShortName;ஐ தொடங்கும்போது எப்பொழுதும் இந்தச் சோதனையை செய்க">
 <!ENTITY checkOnStartup.accesskey "A">

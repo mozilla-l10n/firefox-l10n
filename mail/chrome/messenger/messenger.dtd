@@ -5,7 +5,7 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "கோப்புறை…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY closeTabCmd.label "தத்தலை மூடு">
+<!ENTITY closeTabCmd.label "தத்தலை மூடுக">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "சேமிக்கப்பட்ட தேடல்…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
@@ -15,7 +15,7 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "உடனிணைப்புகள்">
 <!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsMenu.label "என சேமி">
+<!ENTITY saveAsMenu.label "என சேமிக்க">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "கோப்பு">
 <!ENTITY saveAsFileCmd.accesskey "F">
@@ -23,7 +23,7 @@
 <!ENTITY saveAsTemplateCmd.label "படிம அச்சு">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgCmd.key "t">
-<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.label "ஆவணக்காப்பகம்">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY getNewMsgForCmd.label "புதிய செய்திகளைப் பெறுவதற்காக">
@@ -95,7 +95,7 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "நட்சத்திரம் இடப்பட்ட செய்திகள்">
 <!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY menuFavoriteFolder.label "Favorite Folder">
+<!ENTITY menuFavoriteFolder.label "விருப்ப கோப்புறை">
 <!ENTITY menuFavoriteFolder.accesskey "a">
 <!ENTITY folderPropsCmd.label "பண்பியல்புகள்…">
 <!ENTITY folderPropsFolderCmd.label "கோப்புறைப் பண்பியல்புகள்…">
@@ -110,8 +110,8 @@
 <!ENTITY redoMoveMsgCmd.label "செய்திசெய்தி நதர்த்துதலை மீளச்செய்க">
 <!ENTITY undoCopyMsgCmd.label "செய்தி நகல் எடுத்தலை செயல் நீக்குக">
 <!ENTITY redoCopyMsgCmd.label "செய்தி நகல் எடுத்தலை மீளச்செய்க">
-<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
-<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
+<!ENTITY undoMarkAllCmd.label "வாசிக்கப்பட்டுள்ளது என அடையாளப்படுத்தப்பட்டிருக்கும் யாவற்றையும் செயல் நீக்குக">
+<!ENTITY redoMarkAllCmd.label "வாசிக்கப்பட்டுள்ளது என அடையாளப்படுத்தப்பட்டிருக்கும் யாவற்றையும் மீளச்செய்க">
 <!ENTITY undoDefaultCmd.label "செயல் நீக்குக">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "மீளச்செய்க">
@@ -146,7 +146,7 @@
 <!ENTITY recentFolders.accesskey "R">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label "Sort by">
+<!ENTITY sortMenu.label "இதன்படி வரிசைப்படுத்துக">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "திகதி">
 <!ENTITY sortByDateCmd.accesskey "e">
@@ -184,7 +184,7 @@
 <!ENTITY sortThreaded.accesskey "T">
 <!ENTITY sortUnthreaded.label "இழையாகாது">
 <!ENTITY sortUnthreaded.accesskey "h">
-<!ENTITY groupBySort.label "Grouped By Sort">
+<!ENTITY groupBySort.label "வரிசைப்படுத்தப்படுவதன்படி குழுமமாக்குக">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "செய்திகள்">
 <!ENTITY msgsMenu.accesskey "M">
@@ -218,7 +218,7 @@
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "எளிதான HTML">
 <!ENTITY bodySanitized.accesskey "S">
-<!ENTITY bodyAsPlaintext.label "Plain Text">
+<!ENTITY bodyAsPlaintext.label "தனி உரை">
 <!ENTITY bodyAsPlaintext.accesskey "P">
 <!ENTITY viewAttachmentsInlineCmd.label "உள்ளமை உடனிணைப்புகள் காட்சி">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
@@ -229,25 +229,25 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Zoom In">
+<!ENTITY fullZoomEnlargeCmd.label       "பெரிதாக்குக">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Zoom Out">
+<!ENTITY fullZoomReduceCmd.label        "சிறிதாக்குக">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Reset">
+<!ENTITY fullZoomResetCmd.label         "மீளஅமைக்க">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoom Text Only">
+<!ENTITY fullZoomToggleCmd.label        "உரையை மாத்திரம் பெரிதாக்குக">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.label                 "பெரிதாக்குக">
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "செய்தி மூலம்">
@@ -407,14 +407,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "கருவிகள்">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY addons.label "Add-ons">
+<!ENTITY addons.label "செருகல்கள்">
 <!ENTITY addons.accesskey "d">
-<!ENTITY activitymanager.label "Activity Manager">
+<!ENTITY activitymanager.label "செயற்பாட்டு முகாமையாளர்">
 <!ENTITY activitymanager.accesskey "a">
-<!ENTITY messengerCmd.label "அஞ்சல் &amp; Newsgroups">
+<!ENTITY messengerCmd.label "அஞ்சல் &amp; செய்திகள்குழுமங்கள்">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "முகவரிப்புத்தகம்">
 <!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY runJunkControls.label "கோப்புறையிலே கூள அஞ்சல் கட்டுப்பாடுகளை இயக்குக">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "கூளக் கோப்புறையில் உள்ளதுபோல் குறியிடப்பட்ட அஞ்சலை நீக்குக">
@@ -450,7 +451,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "௯ளம்">
 <!ENTITY notJunkButton.label "௯ளம் அல்ல">
 <!ENTITY addressBookButton.label "முகவரிப்புத்தகம்">
-<!ENTITY glodaSearch.title "Global Search">
+<!ENTITY glodaSearch.title "அகிலத் தேடல்">
 <!ENTITY searchItem.title "விரைவான தேடல்">
 <!ENTITY mailViewsToolbarItem.title "அஞ்சல் நோக்கல்கள்">
 <!ENTITY folderLocationToolbarItem.title "கோப்புறை இருப்பிடம்">
@@ -534,8 +535,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Search messages…">
-<!ENTITY glodaSearchBar.facet.label "Search:">
+<!ENTITY glodaSearchBar.emptyText "தகவல்கள் தேடல்…">
+<!ENTITY glodaSearchBar.facet.label "தேடல்:">
 <!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
        "everything" searches over subject, involves, body, and attachments.
        "subject" searches only messages subjects.
@@ -546,23 +547,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
            attachment names or the content of the attachments.  Message body
            basically means a message part with a content-type of text/*.
     -->
-<!ENTITY glodaSearchFacet.everything.label "Everything">
-<!ENTITY glodaSearchFacet.subject.label "Subject">
+<!ENTITY glodaSearchFacet.everything.label "ஒவ்வொருபொருளும்">
+<!ENTITY glodaSearchFacet.subject.label "விடயம்">
 <!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
 <!ENTITY glodaSearchFacet.to.label "To, CC">
 <!ENTITY glodaSearchFacet.from.label "From">
-<!ENTITY glodaSearchFacet.body.label "Message Text">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Attachment Names">
-<!ENTITY glodaSearchBar.location.label "Location:">
-<!ENTITY glodaSearchFacet.everywhere.label "All Folders">
-<!ENTITY glodaSearchFacet.folder.label "In a specific folder…">
+<!ENTITY glodaSearchFacet.body.label "தகவல் உரை">
+<!ENTITY glodaSearchFacet.attachmentNames.label "உடணினைப்பு பெயர்கள்">
+<!ENTITY glodaSearchBar.location.label "இடம்:">
+<!ENTITY glodaSearchFacet.everywhere.label "கோப்புறைகள் யாவும்">
+<!ENTITY glodaSearchFacet.folder.label "குறிப்பிட்ட கோப்புறையில்…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "விடயம்">
 <!ENTITY searchFromMenu.label "இருந்து">
 <!ENTITY searchSubjectOrFromMenu.label "விடயம் அல்லது இருந்து">
 <!ENTITY searchRecipient.label "To or Cc">
-<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "விடயம், To or Cc">
 <!ENTITY searchMessageBody.label "செய்தி முழுவதும்">
 <!ENTITY saveAsVirtualFolderMenu.label "தேடலை ஒரு கோப்புறையாக சேமிக்க…">
 
@@ -660,7 +661,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "இந்தச் செய்தி சூழ்ச்சியானதாக இல்லை.">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "more">
+<!ENTITY more.label "மேலும்">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -674,11 +675,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "தொடர்பினை நோக்குக">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "Compose Mail To">
+<!ENTITY SendMailTo.label " க்கு அஞ்சலை உருவாக்குக">
 <!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "மின்னஞ்சல் முகவரியினை நகல் எடுக்க">
 <!ENTITY CopyEmailAddress.accesskey "C">
-<!ENTITY CreateFilterFrom.label "Create Filter From…">
+<!ENTITY CreateFilterFrom.label " இலிருந்து வடிகளை உருவாக்குக…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "மின்னஞ்சல் சூழ்ச்சியை அறிவிக்க">
 <!ENTITY reportPhishingURL.accesskey "o">

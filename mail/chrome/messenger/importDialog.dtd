@@ -44,15 +44,15 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 
 
 <!ENTITY importDialog.windowTitle "இறக்குமதி">
-<!ENTITY importAll.label          "Import Everything">
+<!ENTITY importAll.label          "ஒவ்வொரு பொருளையும் இறக்குமதி செய்க">
 <!ENTITY importAll.accesskey      "E">
-<!ENTITY importMail.label         "Mail">
+<!ENTITY importMail.label         "அஞ்சல்">
 <!ENTITY importMail.accesskey     "M">
-<!ENTITY importAddressbook.label  "Address Books">
+<!ENTITY importAddressbook.label  "முகவரிப்புத்தகங்கள்">
 <!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importSettings.label     "Settings">
+<!ENTITY importSettings.label     "அமைப்புக்கள்">
 <!ENTITY importSettings.accesskey "S">
-<!ENTITY importFilters.label      "Filters">
+<!ENTITY importFilters.label      "வடிகள்">
 <!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY window.width "40em">
@@ -80,8 +80,8 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY FieldDiscInputText1.label "நெட்ஸ்கேப் கம்யூனிகேட்டர் 4.x-ல் ஒவ்வொரு கார்டிற்கும் ஒரு  தனி அஞ்சல் முகவரி இருக்கிறது, ஆனால் &brandShortName;-ல் இரண்டு முகவரிகள் உண்டு (இல்லம் மற்றும் வேலைக்கு).">
 <!ENTITY FieldDiscInputText2.label "இறக்குமதி செய்யப்பட்ட அஞ்சல் முகவரிகளை சேகரிக்கவைக்கும் வகையை தேர்வு செய்க:">
 <!ENTITY FieldDiscWarning.label "தேர்வு செய்த முகவரிப்புத்தகத்தில் உள்ள அனைத்து பதிவுகளுக்கும் இந்த வகை பயன்படுத்தப்படும்: ">
-<!ENTITY importHome.label        "Home">
+<!ENTITY importHome.label        "முகப்பு">
 <!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "Work">
+<!ENTITY importWork.label        "வேலை">
 <!ENTITY importWork.accesskey    "W">
 

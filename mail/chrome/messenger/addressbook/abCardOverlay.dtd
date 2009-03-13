@@ -98,7 +98,7 @@ images in HTML messages from this contact.">
 <!ENTITY CellularNumber.label           "கையடக்கத் தொலைபேசி:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Home.tab                       "Private">
+<!ENTITY Home.tab                       "தனியார்">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "முகவரி:">
 <!ENTITY HomeAddress.accesskey          "d">
@@ -115,7 +115,7 @@ images in HTML messages from this contact.">
 <!ENTITY HomeWebPage.label              "இணையப்பக்கம்:">
 <!ENTITY HomeWebPage.accesskey          "W">
 
-<!ENTITY Work.tab                       "Work">
+<!ENTITY Work.tab                       "வேலை">
 <!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "தலைப்பு:">
 <!ENTITY JobTitle.accesskey             "e">

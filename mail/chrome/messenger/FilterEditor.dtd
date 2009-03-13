@@ -16,7 +16,7 @@
 
 <!ENTITY contextDesc.label "Apply filter when:">
 <!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextIncoming.label "அஞ்சலை சரிபார்க்க">
 <!ENTITY contextManual.label "Manually Run">
 <!ENTITY contextBoth.label "Checking Mail or Manually Run">
 <!ENTITY filterActionDesc.label "இந்தச் செயல்களை செய்க:">
@@ -37,7 +37,7 @@
 <!ENTITY deleteFromPOP.label "POP சேவையகத்திலிருந்து நீக்குக">
 <!ENTITY fetchFromPOP.label "POP சேவையகத்திலிருந்து கொணர்க">
 <!ENTITY ignoreThread.label "Threadஐ தவிர்க்கவும்">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY ignoreSubthread.label "Subthread ஐ தவிர்க்கவும்">
 <!ENTITY watchThread.label "Threadஐ கவனிக்கவும்">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY stopExecution.label "வடி இயக்கத்தினை நிறுத்துக">
 
