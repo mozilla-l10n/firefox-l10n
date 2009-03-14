@@ -1,0 +1,13 @@
+<!ENTITY resetsettings.label "Параметрлерді тастау...">
+<!ENTITY resetpreferences.label "Баптауларды тастау...">
+<!ENTITY managecerts.caption "Сертификаттарды басқару">
+<!ENTITY managecerts.text "Сертификат менеджерін сіздің жеке сертификаттарыңызды, сонымен бірге басқа адамдар мен certificate authorities басқару үшін қолданыңыз.">
+<!ENTITY managecerts.button "Сертификаттарды басқару...">
+<!ENTITY managecerts.accesskey "б">
+<!ENTITY managedevices.caption "Қорғаныс құрылғыларын басқару">
+<!ENTITY managedevices.text "Осы батырманы сіздің қауіпсіздк құрылғыларды басқару үшін қолдаңыңыз, смарт-карталар сияқты">
+<!ENTITY managedevices.button "Құрылғыларды басқару...">
+<!ENTITY managedevices.accesskey "р">
+<!ENTITY ssl.label "SSL">
+<!ENTITY pref.certs.title "Сертификаттар">
+<!ENTITY certs.label "Сертификаттар">

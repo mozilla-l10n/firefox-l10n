@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Қате веб-сайт туралы хабарлау">
+
+<!ENTITY privacyNotice.label                        "Жекелік саясаты">
+<!ENTITY reportWizardPrivacy.description            "Бұл сайманды қолдану арқылы сіз бізге &brandShortName; ішінде қате немесе мүлдем жұмыс істемейтін сайттар жөнінде хабарласа аласыз. Ол арқылы біз &brandShortName; пайдаланушылары үшін веб-парақтармен жұмыс жасауды жақсартамыз. Жиналғын ақпарат қалай қоланылатыны туралы білу үшін келесі мәтінді оқып шығыңыз.">
+<!ENTITY reportWizardMustAgree.description          "Жалғастырар алдында, жекелік саясаты туралы оқып шығуыңыз керек.">
+
+<!ENTITY dontShowPrivacyStatement.label             "Жекелік саясаты туралы оқып шығып, шарртарын толық қабылдаймын.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "Ж">
+
+<!ENTITY reportForm.label                           "Отчетты толтыру">
+
+<!ENTITY reportForm.description                     "Табылған қатені қысқаша сипаттаңыз:">
+<!ENTITY reportForm.url.title                       "Веб-сайт URL:">
+<!ENTITY reportForm.url.accesskey                   "с">
+
+<!ENTITY reportForm.behind_login.title              "Бұл веб-сайт парольмен қорғалған"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "л">
+
+<!ENTITY reportForm.problem_type.title              "Мәселе түрі:">
+<!ENTITY reportForm.problem_type.accesskey          "т">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Мәселе түрін таңдаңыз...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "Браузерге қолдау жоқ.">
+<!ENTITY reportForm.problem_type.item2.title        "Авторизацияны өту мүмкін емес">
+<!ENTITY reportForm.problem_type.item3.title        "Плагин көрсетілмейді">
+<!ENTITY reportForm.problem_type.item4.title        "Құраманың бір бөлігі жоғалды">
+<!ENTITY reportForm.problem_type.item5.title        "Парақ қате жұмыс істеп тұр">
+<!ENTITY reportForm.problem_type.item6.title        "Парақ қате көрсетіліп тұр">
+<!ENTITY reportForm.problem_type.item7.title        "Басқа мәселе">
+<!ENTITY reportForm.problem_type.item8.title        "Мүмкіндіктері шектелген адамдар үшін қатынау">
+<!ENTITY reportForm.problem_type.item9.title        "Құрама баспаға қате шығарылды">
+
+<!ENTITY reportForm.describe.title                  "Мәселені сипаттаңыз:">
+<!ENTITY reportForm.describe.accesskey              "с">
+
+<!ENTITY reportForm.platform.title                  "Платформа:">
+<!ENTITY reportForm.product.title                   "Өнім:">
+<!ENTITY reportForm.gecko.title                     "Gecko нұсқасы:">
+<!ENTITY reportForm.useragent.title                 "Браузер:">
+<!ENTITY reportForm.language.title                  "Тіл:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Электронды пошта адресі (міндетті емес):">
+<!ENTITY reportForm.email.accesskey                 "ш">
+
+<!ENTITY reportForm.privacyPolicy.title             "Жекелік саясаты">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Жекелік саясатын қарау">
+
+<!ENTITY reportResults.showDetail.title             "Көбірек білу">
+<!ENTITY reportResults.showDetail.accesskey         "л">
+
+<!ENTITY sendReport.label                           "Хабарлама жіберілуде">
+<!ENTITY sendReport.description                     "Хабарлама серверге жіберілуде…">
+
+<!ENTITY finish.label                               "Хабарлама жіберілді">

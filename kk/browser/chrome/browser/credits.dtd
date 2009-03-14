@@ -1,0 +1,15 @@
+<!ENTITY brandMotto       "Вебті жаңадан аш">
+<!ENTITY credit.thanks    "Ерекше алғыс">
+
+<!ENTITY credit.thanks2       "Алғыстарымызды айтамыз келесі">
+<!ENTITY credit.contributors2 "жобаға қатысушыларға">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Аударғандар</h3><ul><li>Бауржан Муфтахидинов</li><li>Тимур Тимирханов</li><li>Даурен Сарсенов</li></ul>">
+
+<!ENTITY credit.memory      "Құрметіне арналады">
+<!ENTITY credit.poweredByGeckoReg "Gecko&reg; негізінде">

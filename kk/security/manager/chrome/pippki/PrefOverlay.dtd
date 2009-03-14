@@ -1,0 +1,5 @@
+<!ENTITY masterpass.label "Мастер-парольдер">
+<!ENTITY security.label "Жекелік пен Қауіпсіздік">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Сертификаттар">
+<!ENTITY validation.label "Растау">

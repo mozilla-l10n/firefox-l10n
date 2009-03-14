@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Жалпы">
+
+<!ENTITY accessibility.label             "Кеңейтілген мүмкіндіктері">
+
+<!ENTITY useCursorNavigation.label       "Парақтарға навигация жасау үшін әрқашан курсор батырмаларын қолдану">
+<!ENTITY useCursorNavigation.accesskey   "н">
+<!ENTITY searchStartTyping.label         "Мәтін терілген кезде оны парақтан іздей бастау">
+<!ENTITY searchStartTyping.accesskey     "т">
+<!ENTITY blockAutoRefresh.label          "Веб-сайт парақты басқа жерге бағдарласа, немесе өздігінен жаңартса, мені ескерту">
+<!ENTITY blockAutoRefresh.accesskey      "п">
+
+<!ENTITY browsing.label                  "Сайттарды қарау">
+
+<!ENTITY useAutoScroll.label             "Автоматты айналдыруды қолдану">
+<!ENTITY useAutoScroll.accesskey         "в">
+<!ENTITY useSmoothScrolling.label        "Байсалды айналдыруды қолдану">
+<!ENTITY useSmoothScrolling.accesskey    "й">
+<!ENTITY checkSpelling.label             "Мәтін терілген кезде орфографияны тексеру">
+<!ENTITY checkSpelling.accesskey         "о">
+
+<!ENTITY systemDefaults.label            "Жүйедегі негізгі браузер">
+<!ENTITY alwaysCheckDefault.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "н">
+<!ENTITY checkNow.label                  "Қазір тексеру">
+<!ENTITY checkNow.accesskey              "з">
+
+<!ENTITY networkTab.label                "Желі">
+
+<!ENTITY connection.label                "Байланыс">
+
+<!ENTITY connectionDesc.label            "&brandShortName; Интернетке қосылу параметрлерін баптау">
+<!ENTITY connectionSettings.label        "Баптау…">
+<!ENTITY connectionSettings.accesskey    "а">
+
+<!ENTITY offlineStorage.label            "Дербес режим қоймасы">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Көрсетілгенге дейін қолдану">
+<!ENTITY useCacheBefore.accesskey        "К">
+<!ENTITY useCacheAfter.label             "Дискілік кэш үшін МБ">
+<!ENTITY clearCacheNow.label             "Қазір өшіру">
+<!ENTITY clearCacheNow.accesskey         "з">
+
+<!ENTITY updateTab.label                 "Жаңартулар">
+
+<!ENTITY autoCheck.label                 "Келесілер үшін жаңартулар бар-жоғын автоматты түрде тексеру:">
+<!ENTITY enableAppUpdate.label           "&brandShortName; браузері үшін">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Орнатылған кеңейтулері үшін">
+<!ENTITY enableAddonsUpdate.accesskey    "О">
+<!ENTITY enableSearchUpdate.label        "Іздеу плагиндері үшін">
+<!ENTITY enableSearchUpdate.accesskey    "у">
+<!ENTITY whenUpdatesFound.label          "&brandShortName; үшін жаңартулар табылған кезде:">
+<!ENTITY askMe.label                     "Пайдаланушының іс-әрекетін сұрау">
+<!ENTITY askMe.accesskey                 "т">
+<!ENTITY modeAutomatic.label             "Жаңартуларды менен сұрамай-ақ жүктеп, орнату">
+<!ENTITY modeAutomatic.accesskey         "м">
+<!ENTITY modeAutoAddonWarn.label         "Осы әрекеттер нәтижесінде кеңейтулердің біреуі болса да өшсе, мені ескерту">
+<!ENTITY modeAutoAddonWarn.accesskey     "н">
+<!ENTITY updateHistory.label             "Жаңартулар тарихын көрсету">
+<!ENTITY updateHistory.accesskey         "р">
+
+<!ENTITY offlineNotify.label             "Веб-сайт дербес режимде қолданылатын мәліметтерді сақтауды сұраса, мені ескерту">
+<!ENTITY offlineNotify.accesskey         "р">
+<!ENTITY offlineNotifyExceptions.label   "Осыдан бөлек…">
+<!ENTITY offlineNotifyExceptions.accesskey "б">
+
+<!ENTITY offlineAppsList.label           "Келесі веб-сайттар дербес режимде жұмыс істеу үшін мәліметтерді сақтап қойды">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Өшіру…">
+<!ENTITY offlineAppsListRemove.accesskey "ш">
+<!ENTITY offlineAppRemove.confirm        "Дербес режимдегі веб-сайттардың ақпаратын өшіру">
+
+<!ENTITY encryptionTab.label             "Шифрлеу">
+
+<!ENTITY protocols.label                 "Хаттамалар">
+<!ENTITY useSSL3.label                   "SSL 3.0 қолдану">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 қолдану">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Сертификаттар">
+<!ENTITY certSelection.description       "Егерде сервер менің жеке сертификатымды сұраса:">
+<!ENTITY certs.auto                      "Мені сұрамай-ақ жіберу">
+<!ENTITY certs.auto.accesskey            "н">
+<!ENTITY certs.ask                       "Әрбір ретте менен сұрау">
+<!ENTITY certs.ask.accesskey             "б">
+<!ENTITY viewCerts.label                 "Сертификатарды қарап шығу">
+<!ENTITY viewCerts.accesskey             "т">
+<!ENTITY viewCRLs.label                  "CRL басқару">
+<!ENTITY viewCRLs.accesskey              "б">
+<!ENTITY verify2.label                   "OCSP баптаулары">
+<!ENTITY verify2.accesskey               "п">
+<!ENTITY viewSecurityDevices.label       "Қорғаныс жабдықтары">
+<!ENTITY viewSecurityDevices.accesskey   "ж">

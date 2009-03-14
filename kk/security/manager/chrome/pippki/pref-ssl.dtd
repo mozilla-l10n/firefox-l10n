@@ -1,0 +1,26 @@
+<!ENTITY SSLProtocolVersions.caption "SSL хаттамасының нұсқалары">
+<!ENTITY SSLWarnings.caption "SSL ескертулері">
+<!ENTITY SSLClientAuthMethod.caption "Клиент сертификатын таңдау">
+<!ENTITY pref.ssl.title "Secure Sockets Layer (SSL)">
+<!ENTITY enable.ssl3 "SSL 3 нұсқасын қосу">
+<!ENTITY enable.ssl3.accesskey "3">
+<!ENTITY enable.tls "TLS қосу">
+<!ENTITY enable.tls.accesskey "с">
+<!ENTITY warn.description "&brandShortName; қаралып тұрған парақтардың қауіпсіздік күйі жөнінде сізді ескерте алады. &brandShortName; ескерту көрсетіп, рұқсатты келесі жағдайларда сұрасын:">
+<!ENTITY warn.enteringsecure "Шифрлеуді қолдайтын парақты жүктеген кезде">
+<!ENTITY warn.enteringsecure.accesskey "L">
+<!ENTITY warn.enteringweak "Төмен деңгейлі шифрлеуді қолданып тұрған парақты жүктеген кезде">
+<!ENTITY warn.enteringweak.accesskey "o">
+<!ENTITY warn.insecurepost "Мәліметтерді шифрленбеген парақтан шифрленбеген параққа жіберу кезінде">
+<!ENTITY warn.insecurepost.accesskey "S">
+<!ENTITY warn.leavingsecure "Шифрлеуді қолдайтын парақтан кеткен кезде">
+<!ENTITY warn.leavingsecure.accesskey "a">
+<!ENTITY warn.secureredirect "Шифрленген парақтан басқа кез-келген түрдегі параққа бағдарланған кезде">
+<!ENTITY warn.secureredirecttoinsecure "Шифрленген парақтан шифрленбеген параққа бағдарланған кезде">
+<!ENTITY warn.viewmixed "Құрамасы аралас шифрленген/шифрленбеген парақты қарау кезінде">
+<!ENTITY warn.viewmixed.accesskey "V">
+<!ENTITY certselect.description "&brandShortName; веб-сайттар сұраған кезде қауіпсіздік сертификатты қалай таңдайтынын анықтаңыз:">
+<!ENTITY certselect.auto "Автоматты түрде">
+<!ENTITY certselect.auto.accesskey "т">
+<!ENTITY certselect.ask "Әрқашан сұрау">
+<!ENTITY certselect.ask.accesskey "с">

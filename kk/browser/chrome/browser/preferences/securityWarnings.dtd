@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Қауіпсіздік ескертулері">
+
+<!ENTITY security.warn_when                       "Қауіпсіздік ескертулерін келесі жағдайларда көрсету:">
+<!ENTITY security.warn_entering_secure.label      "Шифрленген парақты қарау кезінде.">
+<!ENTITY security.warn_entering_secure.accesskey  "а">
+<!ENTITY security.warn_entering_weak.label        "Әлсіз шифрленген парақты қарау кезінде.">
+<!ENTITY security.warn_entering_weak.accesskey    "с">
+<!ENTITY security.warn_leaving_secure.label       "Шифрленген парақтан шифрленбеген параққа өту кезінде.">
+<!ENTITY security.warn_leaving_secure.accesskey   "т">
+<!ENTITY security.warn_submit_insecure.label      "Шифрленбеген байланыс арқылы ақпаратты жіберу кезінде.">
+<!ENTITY security.warn_submit_insecure.accesskey  "ж">
+<!ENTITY security.warn_viewing_mixed.label        "Бір бөлігі ғана шифрленген парақты қараған кезде.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "н">

@@ -1,0 +1,19 @@
+<!ENTITY about.version                "нұсқасы">
+
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998–2008">
+<!ENTITY about.copy.linkTitle         "үлесін қосқандар">
+<!ENTITY about.copy.afterLink         "Mozilla жобасына.">
+
+<!ENTITY about.license.beforeLink     "Осы өнім үшін">
+<!ENTITY about.license.linkTitle      "лицензиялық ақпаратын">
+<!ENTITY about.license.afterLink      "оқып шығу.">
+
+<!ENTITY about.relnotes.beforeLink    "Оқып шығу">
+<!ENTITY about.relnotes.linkTitle     "осы нұсқасы үшін">
+<!ENTITY about.relnotes.afterLink     "шығарылым ерекшеліктері.">
+
+<!ENTITY about.buildconfig.beforeLink "Қарап шығу">
+<!ENTITY about.buildconfig.linkTitle  "осы нұсқасын үшін қолданылған">
+<!ENTITY about.buildconfig.afterLink  "бағдарламаны құру жөніндегі ақпарат">
+
+<!ENTITY about.buildIdentifier        "Бағдарламаны құру ерекшесі:">

@@ -1,0 +1,18 @@
+<!ENTITY pref.masterpass.title "Мастер-парольдер">
+<!ENTITY managepassword.caption "Мастер-парольдің өмір сүру уақыты">
+<!ENTITY managepassword.text "&brandShortName; мастер-парольді сұрайды:">
+<!ENTITY managepassword.askfirsttime "Бірінші рет керек болған кезде">
+<!ENTITY managepassword.askfirsttime.accesskey "T">
+<!ENTITY managepassword.askeverytime "Әр рет керек болған кезде">
+<!ENTITY managepassword.askeverytime.accesskey "E">
+<!ENTITY managepassword.asktimeout "Ол келесі уақыт бойы қолданылмады:">
+<!ENTITY managepassword.asktimeout.accesskey "n">
+<!ENTITY managepassword.timeout.unit "минут, немесе көбірек">
+<!ENTITY changepassword.caption "Мастер-парольді ауыстыру">
+<!ENTITY changepassword.text "Сіздің мастер-пароліңіз веб парольдер мен сертификаттарды қорғау үшін қолданылады.">
+<!ENTITY changepassword.button "Парольді ауыстыру…">
+<!ENTITY changepassword.accesskey "ы">
+<!ENTITY resetpassword.caption "Мастер-парольді тастау">
+<!ENTITY resetpassword.text "Мастер-пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар жіне жеке кілттер жоғалып кетеді.">
+<!ENTITY resetpassword.button "Парольді тастау">
+<!ENTITY resetpassword.accesskey "с">

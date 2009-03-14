@@ -1,0 +1,59 @@
+<!ENTITY  history.label                 "Тарихы">
+
+<!ENTITY  locbar.pre.label              "Адрес жолағын қолдану кезінде, ұсыну:">
+<!ENTITY  locbar.pre.accessKey          "А">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Тарихы мен Бетбелгілер">
+<!ENTITY  locbar.history.label          "Тарихы">
+<!ENTITY  locbar.bookmarks.label        "Бетбелгілер">
+<!ENTITY  locbar.nothing.label          "Ешнәрсе">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Қарап шыққан сайттардың тарихын ең аз дегенде мына уақыт бойы сақтау">
+<!ENTITY  rememberDaysBefore.accesskey  "ш">
+<!ENTITY  rememberDaysAfter2.label      "күн">
+
+<!ENTITY  rememberForms.label           "Формаларға мен іздеу панеліне енгізілген ақпаратты есте сақтау">
+<!ENTITY  rememberForms.accesskey       "е">
+
+<!ENTITY  rememberDownloads.label       "Жүктелген файлдардың аттарын есте сақтау">
+<!ENTITY  rememberDownloads.accesskey   "Ж">
+
+
+<!ENTITY  cookies.label                 "Cookies">
+
+<!ENTITY  acceptCookies.label           "Сайттардан cookies қабылдау">
+<!ENTITY  acceptCookies.accesskey       "т">
+
+<!ENTITY  acceptThirdParty.label        "Үшінші дәрежелі сайттардан cookies қабылдау">
+<!ENTITY  acceptThirdParty.accesskey    "н">
+
+<!ENTITY  keepUntil.label               "Келесі уақыт бойы cookies сақтау:">
+<!ENTITY  keepUntil.accesskey           "у">
+
+<!ENTITY  expire.label                  "олардың мерзімі аяқталғанша дейін">
+<!ENTITY  close.label                   "Мен &brandShortName; жапқанға дейін">
+<!ENTITY  askEachTime.label             "әрқашан менен сұрау">
+
+<!ENTITY  cookieExceptions.label        "Ережелерден бөлек…">
+<!ENTITY  cookieExceptions.accesskey    "Е">
+
+<!ENTITY  showCookies.label             "Cookies көрсету…">
+<!ENTITY  showCookies.accesskey         "р">
+
+
+<!ENTITY  privateData.label             "Жеке мәліметтер">
+
+<!ENTITY  alwaysClear.label              "&brandShortName; жабылған кезде менің жеке мәліметтерімді өшіру">
+<!ENTITY  alwaysClear.accesskey          "ж">
+
+<!ENTITY  clearDataSettings.label        "Баптау…">
+<!ENTITY  clearDataSettings.accesskey    "п">
+
+<!ENTITY  clearDataNow.label             "Қазір тазарту…">
+<!ENTITY  clearDataNow.accesskey         "а">

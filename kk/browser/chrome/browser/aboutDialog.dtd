@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title          "&brandFullName; туралы">
+<!ENTITY copyright                  "Өндірушілер">
+<!ENTITY copyright.accesskey        "н">
+<!ENTITY copyrightGNOME.accesskey   "н">
+<!ENTITY aboutLink                  "&lt; &brandFullName; туралы">
+<!ENTITY aboutLink.accesskey        "т">
+<!ENTITY aboutVersion               "нұсқа">
+<!ENTITY closeCmdGNOME.label        "Жабу">  
+<!ENTITY closeCmdGNOME.accesskey    "Ж">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Үлесін қосқандар. Барлық құқықтары қорғалған. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Лицензиялық ақпарат">
+<!ENTITY copyrightInfo2             ").">

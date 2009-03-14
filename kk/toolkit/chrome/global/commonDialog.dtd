@@ -1,0 +1,10 @@
+<!ENTITY header.label     "Қысқаша атауы"> 
+<!ENTITY message.label    "Мәтін үлгісі.">
+<!ENTITY editfield0.label "Пайдаланушы аты:"> 
+<!ENTITY editfield1.label "Пароль:"> 
+<!ENTITY editfield2.label "Парольді растау:"> 
+<!ENTITY checkbox.label   "Тексеру">
+<!ENTITY copyCmd.label    "Көшіру">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY selectAllCmd.label "Барлығын ерекшелеу">
+<!ENTITY selectAllCmd.accesskey "Б">

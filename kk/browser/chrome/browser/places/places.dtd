@@ -1,0 +1,220 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Жинақталған">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Басқару">
+<!ENTITY organize.accesskey    "с">
+
+<!ENTITY file.accesskey                 "Ф">
+<!ENTITY file.close.label               "Жабу">
+<!ENTITY file.close.accesskey           "Ж">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Түзету">
+<!ENTITY edit.accesskey                 "Т">
+<!ENTITY views.label                    "Түрі">
+<!ENTITY views.accesskey                "р">
+<!ENTITY view.toolbar.label             "Саймандар панелі">
+<!ENTITY view.toolbar.accesskey         "м">
+<!ENTITY view.columns.label             "Бағаналарды көрсету">
+<!ENTITY view.columns.accesskey         "к">
+<!ENTITY view.sort.label                "Сұрыптау">
+<!ENTITY view.sort.accesskey            "С">
+<!ENTITY view.unsorted.label            "Сұрыптаусыз">
+<!ENTITY view.unsorted.accesskey        "п">
+<!ENTITY view.sortAscending.label       "Алфавит бойынша сұрыптау">
+<!ENTITY view.sortAscending.accesskey   "б">
+<!ENTITY view.sortDescending.label      "Алфавит бойынша кері сұрыптау">
+<!ENTITY view.sortDescending.accesskey  "к">
+<!ENTITY help.usingBookmarks.label      "Бетбелгіні қолдану">
+<!ENTITY help.usingBookmarks.accesskey  "т">
+<!ENTITY help.usingHistory.label        "Тарихтың қолданылуы">
+<!ENTITY help.usingHistory.accesskey    "х">
+<!ENTITY help.advancedTips.label        "Тәжірибелі пайдаланушыларға кеңестер">
+<!ENTITY help.advancedTips.accesskey    "ж">
+
+<!ENTITY cmd.findInBookmarks.label      "Бетбелгілер ішінен іздеу…">
+<!ENTITY cmd.findInBookmarks.accesskey  "н">
+<!ENTITY cmd.findCurrent.label          "Ағымдағы топтама ішінен іздеу…">
+<!ENTITY cmd.findCurrent.accesskey      "з">
+
+<!ENTITY cmd.exportHTML.label           "HTML ретінде экспорттау…">
+<!ENTITY cmd.exportHTML.accesskey       "э">
+<!ENTITY cmd.importHTML.label           "HTML-ді импорттау…">
+<!ENTITY cmd.importHTML.accesskey       "и">
+
+<!ENTITY cmd.backup.label               "Резервті көшіру…">
+<!ENTITY cmd.backup.accesskey           "в">
+<!ENTITY cmd.restore2.label             "Қалпына келтіру">
+<!ENTITY cmd.restore2.accesskey         "к">
+<!ENTITY cmd.restoreFromFile.label      "Файлды таңдау…">
+<!ENTITY cmd.restoreFromFile.accesskey  "д">
+
+<!ENTITY cmd.select_all.label "Барлығын ерекшелеу">
+<!ENTITY cmd.select_all.accesskey "Б">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "Қию">
+<!ENTITY cmd.edit_cut.accesskey     "и">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "Көшіру">
+<!ENTITY cmd.edit_copy.accesskey    "К">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "Кірістіру">
+<!ENTITY cmd.edit_paste.accesskey   "р">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "Өшіру">
+<!ENTITY cmd.edit_delete.accesskey  "ш">
+<!ENTITY cmd.edit_undo.label        "Болдырмау">
+<!ENTITY cmd.edit_undo.accesskey    "Б">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "Қайталау">
+<!ENTITY cmd.edit_redo.accesskey    "й">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.delete.label               "Беттер ішінен іздеу">
+<!ENTITY cmd.delete.accesskey           "Б">
+<!ENTITY cmd.deleteDomainData.label     "Бұл парақты өшіру">
+<!ENTITY cmd.deleteDomainData.accesskey "Б">
+
+<!ENTITY cmd.open.label                  "Ашу">
+<!ENTITY cmd.open.accesskey              "А">
+<!ENTITY cmd.open_window.label           "Жаңа терезеде ашу">
+<!ENTITY cmd.open_window.accesskey       "т">
+<!ENTITY cmd.open_tab.label              "Жаңа бетте ашу">
+<!ENTITY cmd.open_tab.accesskey          "т">
+<!ENTITY cmd.open_all_in_tabs.label      "Әрқайсысын жаңа бетте ашу">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "с">
+
+<!ENTITY cmd.properties.label      "Қасиеттері">
+<!ENTITY cmd.properties.accesskey  "е">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "Атын өзгерту">
+<!ENTITY cmd.rename.accesskey  "з">
+
+<!ENTITY cmd.sortby_name.label              "Аты бойынша сұрыптау">
+<!ENTITY cmd.sortby_name.accesskey          "ы">
+<!ENTITY cmd.context_sortby_name.accesskey  "й">
+
+<!ENTITY cmd.new_bookmark.label            "Жаңа бетбелгі…">
+<!ENTITY cmd.new_bookmark.accesskey        "б">
+<!ENTITY cmd.new_livemark.label            "Жаңалықтар таспасының жаңа бетбелгісі…">
+<!ENTITY cmd.new_livemark.accesskey        "т">
+<!ENTITY cmd.new_folder.label              "Жаңа бума…">
+<!ENTITY cmd.new_folder.accesskey          "у">
+<!ENTITY cmd.context_new_folder.accesskey  "м">
+<!ENTITY cmd.new_separator.label           "Жаңа ажырағыш">
+<!ENTITY cmd.new_separator.accesskey       "а">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Жаңалықтар таспасының бетбелгісін жаңарту">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "р">
+<!ENTITY cmd.reloadMicrosummary.label      "Ағымдағы тақырыпты жаңарту">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "А">
+
+<!ENTITY cmd.groupby_site.label      "Сайт бойынша топтау">
+<!ENTITY cmd.groupby_site.accesskey  "С">
+<!ENTITY cmd.groupby_page.label      "Парақ бойынша топтау">
+<!ENTITY cmd.groupby_page.accesskey  "П">
+<!ENTITY cmd.groupby_feed.label      "Жазылу бойынша топтау">
+<!ENTITY cmd.groupby_feed.accesskey  "з">
+<!ENTITY cmd.groupby_post.label      "Пост бойынша топтау">
+<!ENTITY cmd.groupby_post.accesskey  "о">
+
+<!ENTITY cmd.moveBookmarks.label                  "Басқа жерге ауыстыру…">
+<!ENTITY cmd.moveBookmarks.accesskey              "у">
+
+<!ENTITY col.name.label          "Аты">
+<!ENTITY col.tags.label          "Белгілер">
+<!ENTITY col.url.label           "Орналасқан жеру">
+<!ENTITY col.lastvisit.label     "Қаралған күні">
+<!ENTITY col.visitcount.label    "Қараулар саны">
+<!ENTITY col.keyword.label       "Қысқаша аты">
+<!ENTITY col.description.label   "Анықтамасы">
+<!ENTITY col.dateadded.label     "Қосылған">
+<!ENTITY col.lastmodified.label  "Соңғы рет өзгертілген">
+
+<!ENTITY search.label                              "Іздеу">
+<!ENTITY search.accesskey                          "з">
+<!ENTITY search.collection.label                   "Тек ағымдағы топтама">
+<!ENTITY search.collection.accesskey               "т">
+<!ENTITY search.allBookmarks.label                 "Барлық бетбелгілер">
+<!ENTITY search.allBookmarks.accesskey             "Б">
+<!ENTITY search.scopeFolder.label                  "Ерекшеленген бума">
+<!ENTITY search.scopeFolder.accesskey              "Е">
+<!ENTITY search.scopeAll.label                     "Барлық бетбелгілер">
+<!ENTITY search.scopeAll.accesskey                 "л">
+<!ENTITY search.scopeMenu.label                    "Бетбелгілер мәзірі">
+<!ENTITY search.scopeMenu.accesskey                "м">
+<!ENTITY search.scopeToolbar.label                 "Бетбелгілер панелі">
+<!ENTITY search.scopeToolbar.accesskey             "п">
+<!ENTITY search.scopeDownloads.label               "Жүктемелер">
+<!ENTITY search.scopeDownloads.accesskey           "к">
+<!ENTITY search.scopeHistory.label                 "Тарихы">
+<!ENTITY search.scopeHistory.accesskey             "р">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Іздеу құрылысшыны көрсету">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Іздеу құрылысшыны жасыру">
+<!ENTITY saveSearch.label                          "Сақтау">
+<!ENTITY saveSearch.accesskey                      "С">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "Тек бетбелгілер ішінен іздеу">
+<!ENTITY advancedSearch.match.label                "Сәйкес">
+<!ENTITY advancedSearch.all.label                  "келесілердің әрқайсысына">
+<!ENTITY advancedSearch.any.label                  "келесілердің кез-келгеніне">
+<!ENTITY advancedSearch.rules.label                "ережелердің:">
+<!ENTITY advancedSearch.subj_keyword.label         "Құрамында мына мәтіні бар">
+<!ENTITY advancedSearch.subj_visited.label         "Қаралған">
+<!ENTITY advancedSearch.subj_location.label        "Адрес">
+<!ENTITY advancedSearch.location_startswith.label  "келесіден басталады">
+<!ENTITY advancedSearch.location_is.label          "келесімен сәйкес келеді">
+<!ENTITY advancedSearch.location_onsite.label      "келесі сайтта орналасқан">
+<!ENTITY advancedSearch.time_is.label              "ішінде">
+<!ENTITY advancedSearch.time_before.label          "дейін">
+<!ENTITY advancedSearch.time_after.label           "кейін">
+<!ENTITY advancedSearch.time_inlast.label          "соңғыларға">
+<!ENTITY advancedSearch.last_days.label            "күндер">
+<!ENTITY advancedSearch.last_weeks.label           "апталар">
+<!ENTITY advancedSearch.last_months.label          "айлар">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "Келесі шарт бойынша топтау:">
+<!ENTITY advancedSearch.groupby_host.label         "хост бойынша">
+<!ENTITY advancedSearch.groupby_domain.label       "домен бойынша">
+<!ENTITY advancedSearch.groupby_folder.label       "бума бойынша">
+<!ENTITY advancedSearch.sortby.label               "Келесі шарт бойынша сұрыптау:">
+<!ENTITY advancedSearch.sortby_title.label         "тақырыбы">
+<!ENTITY advancedSearch.sortby_date.label          "күні">
+<!ENTITY advancedSearch.sortby_visit.label         "қаралу саны">
+<!ENTITY advancedSearch.sortby_url.label           "сілтеме (URL)">
+<!ENTITY advancedSearch.sortby_asc.label           "өсуі">
+<!ENTITY advancedSearch.sortby_desc.label          "кемуі">
+<!ENTITY advancedSearch.max.label                  "Нәтижелердің максимал саны:">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Жаңалықтар таспасы">
+<!ENTITY feed.subscribe.tooltip  "Жазылу">
+
+<!ENTITY view.detailsMacOSX.label  "Тізім">
+<!ENTITY view.details.label        "Көбірек білу">
+<!ENTITY view.details.accesskey    "К">
+
+<!ENTITY view.addons.label   "&quot;Түрі&quot; мәзірі үшін кеңейтулерді жүктеу">
+
+<!ENTITY maintenance.label      "Импорт және резервілеу">
+<!ENTITY maintenance.accesskey  "И">
+
+<!ENTITY backCmd.label       "Қайту">
+<!ENTITY backCmd.accesskey   "й">
+<!ENTITY backButton.tooltip  "Алдыңғы бетке қайту">
+
+<!ENTITY forwardCmd.label       "Алға">
+<!ENTITY forwardCmd.accesskey   "А">
+<!ENTITY forwardButton.tooltip  "Келесі бетке өту">
+
+<!ENTITY detailsPane.more.label "Көбірек">
+<!ENTITY detailsPane.more.accesskey "е">
+<!ENTITY detailsPane.less.label "Аздау">
+<!ENTITY detailsPane.less.accesskey "з">
+<!ENTITY detailsPane.noPreviewAvailable.label "Алдын-ала қарау">
+<!ENTITY detailsPane.selectAnItemText.description "Қарап шығу мен қасиеттерін түзету үшін элементті таңдаңыз">

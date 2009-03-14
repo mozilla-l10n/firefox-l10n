@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Іздеу:">
+<!ENTITY find.accesskey            "з">
+<!ENTITY expand.label              "Жазу">
+<!ENTITY expand.accesskey          "Ж">
+<!ENTITY collapse.label            "Бүктеу">
+<!ENTITY collapse.accesskey        "Б">
+<!ENTITY byDate.label "Күні бойынша">
+<!ENTITY byDate.accesskey "К">
+<!ENTITY bySite.label "Сайттар бойынша">
+<!ENTITY bySite.accesskey "С">
+<!ENTITY view.label "Түрі">
+<!ENTITY view.accesskey "р">
+<!ENTITY byMostVisited.label "Жиірек қаралатындары бойынша">
+<!ENTITY byMostVisited.accesskey "и">
+<!ENTITY byLastVisited.label "Соңғы қаралғандар бойынша">
+<!ENTITY byLastVisited.accesskey "С">
+<!ENTITY byDayAndSite.label "Күні мен сайты бойынша">
+<!ENTITY byDayAndSite.accesskey "м">
+<!ENTITY openLinkInWindow.label "Ашу">
+<!ENTITY openLinkInWindow.accesskey "А">
+<!ENTITY openInNewTab.label "Жаңа бетте ашу">
+<!ENTITY openInNewTab.accesskey "б">
+<!ENTITY openInNewWindow.label "Жаңа терезеде ашу">
+<!ENTITY openInNewWindow.accesskey "т">
+<!ENTITY bookmarkLink.label "Сілтемені бетбелгілерге қосу…">
+<!ENTITY bookmarkLink.accesskey "С">
+<!ENTITY copyLink.label "Сілтемені көшіру">
+<!ENTITY copyLink.accesskey "к">
