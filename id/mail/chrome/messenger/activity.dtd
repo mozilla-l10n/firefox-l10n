@@ -20,7 +20,7 @@
 <!ENTITY cmd.close2Unix.commandkey "y">
 <!ENTITY cmd.clearList.label "Bersihkan Daftar">
 <!ENTITY cmd.clearList.tooltip "Hapus item yang telah selesai, dibatalkan, atau gagal dari daftar">
-<!ENTITY cmd.clearList.accesskey "C">
+<!ENTITY cmd.clearList.accesskey "D">
 <!ENTITY cmd.find.commandkey "f">
 <!ENTITY cmd.search.commandkey "k">
 <!ENTITY searchBox.label "Cari…">
