@@ -1,20 +1,20 @@
-<!ENTITY emailSectionHdr.label "E-mail">
-<!ENTITY readMsgsLink.label "Berichten lezen">
-<!ENTITY composeMsgLink.label "Nieuw bericht aanmaken">
+<!ENTITY emailSectionHdr.label        "E-mail">
+<!ENTITY readMsgsLink.label           "Berichten lezen">
+<!ENTITY composeMsgLink.label         "Nieuw bericht aanmaken">
 
-<!ENTITY newsSectionHdr.label "Nieuwsgroepen">
-<!ENTITY subscribeNewsLink.label "Nieuwsgroepabonnementen beheren">
+<!ENTITY newsSectionHdr.label         "Nieuwsgroepen">
+<!ENTITY subscribeNewsLink.label      "Nieuwsgroepabonnementen beheren">
 
-<!ENTITY accountsSectionHdr.label "Accounts">
-<!ENTITY subscribeImapFolders.label "Mapabonnementen beheren">
-<!ENTITY settingsLink.label "Instellingen voor deze account bekijken">
-<!ENTITY newAcctLink.label "Nieuwe account aanmaken">
+<!ENTITY accountsSectionHdr.label     "Accounts">
+<!ENTITY subscribeImapFolders.label   "Mapabonnementen beheren">
+<!ENTITY settingsLink.label           "Instellingen voor deze account bekijken">
+<!ENTITY newAcctLink.label            "Nieuwe account aanmaken">
 
-<!ENTITY advFeaturesSectionHdr.label "Uitgebreide mogelijkheden">
-<!ENTITY searchMsgsLink.label "Berichten zoeken">
-<!ENTITY filtersLink.label "Berichtenfilters beheren">
-<!ENTITY junkSettings.label "Ongewensteberichtenfilters instellen">
-<!ENTITY offlineLink.label "Offline-instellingen">
+<!ENTITY advFeaturesSectionHdr.label  "Uitgebreide mogelijkheden">
+<!ENTITY searchMsgsLink.label         "Berichten zoeken">
+<!ENTITY filtersLink.label            "Berichtenfilters beheren">
+<!ENTITY junkSettings.label           "Ongewensteberichtenfilters instellen">
+<!ENTITY offlineLink.label            "Offline-instellingen">
 
-<!ENTITY rssSectionHdr.label "RSS-nieuws &amp; blogs">
-<!ENTITY subscibeRSS.label "Abonnementen beheren">
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Abonnementen beheren">
