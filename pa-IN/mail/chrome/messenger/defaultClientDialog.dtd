@@ -3,7 +3,7 @@
 
 <!ENTITY email.label "ਈ-ਮੇਲ">
 <!ENTITY newsgroups.label "ਨਿਊਜ਼ਗਰੁੱਪ">
-<!ENTITY rss.label "RSS ਫੀਡ">
+<!ENTITY feeds.label "ਫੀਡ">
 
 <!ENTITY checkOnStartup.label " &brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾ ਇਹ ਜਾਂਚ ਕਰੋ">
 <!ENTITY checkOnStartup.accesskey "A">

@@ -17,5 +17,7 @@
 <!ENTITY filtersLink.label            "ਸੁਨੇਹਾ ਫਿਲਟਰ ਪਰਬੰਧ">
 <!ENTITY junkSettings.label           "ਜੰਕ ਮੇਲ ਸੈਟਿੰਗ">
 <!ENTITY offlineLink.label            "ਆਫਲਾਈਨ ਸੈਟਿੰਗ">
-<!ENTITY rssSectionHdr.label          "RSS ਖ਼ਬਰਾਂ &amp; ਬਲੌਗ"> 
-<!ENTITY subscibeRSS.label            "ਮੈਂਬਰੀ ਪਰਬੰਧ"> 
+
+<!ENTITY feedsSectionHdr.label        "ਫੀਡ">
+<!ENTITY subscribeFeeds.label         "ਮੈਂਬਰੀ ਪਰਬੰਧ">
+
