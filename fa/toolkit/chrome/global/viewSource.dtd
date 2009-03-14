@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "رفتن به سطر …">
+<!ENTITY goToLineCmd.label "رفتن به سطر…">
 <!ENTITY goToLineCmd.accesskey "س">
 <!ENTITY goToLineCmd.commandkey "l">
 
