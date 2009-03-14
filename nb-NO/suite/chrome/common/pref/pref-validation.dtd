@@ -38,7 +38,7 @@
 <!ENTITY  pref.validation.title                   "Validering">
 
 <!ENTITY  validation.crl.caption                  "CRL">
-<!ENTITY  validation.crl.description              "Bruk CRL-behandler for å behandle listene over opphevede sertifikater (CRL) som er lagret i sertifikat-databasen din.">
+<!ENTITY  validation.crl.description              "Bruk CRL-behandler for å behandle listene over tilbakekalte sertifikater (CRL) som er lagret i sertifikat-databasen din.">
 <!ENTITY  validation.managecrls.button            "Behandle CRL-er …">
 <!ENTITY  validation.managecrls.accesskey         "B">
 
