@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS-abonnementen">
+<!ENTITY feedSubscriptions.label "Feed-abonnementen">
 <!ENTITY subscriptionDesc.label "Opmerking: het verwijderen of veranderen van een feedmap heeft geen invloed op artikelen die reeds zijn gedownload.">
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY location.label "Locatie:">

@@ -13,8 +13,8 @@
 <!ENTITY manageSubscriptions.label "Abonnementen beheren…">
 <!ENTITY manageSubscriptions.accesskey "b">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Nieuws &amp; blogs">
-<!ENTITY rss.wizardShortName        "RSS">
-<!ENTITY rss.wizardLongName         "RSS-nieuws &amp; blogs">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogs &amp; nieuws-feeds">
+<!ENTITY feeds.wizardShortName "Feeds">
+<!ENTITY feeds.wizardLongName "Blogs &amp; nieuws-feeds">
+<!ENTITY feeds.wizardLongName.accesskey "F">
