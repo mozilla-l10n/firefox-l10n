@@ -9,6 +9,8 @@
 <!ENTITY reloadAllTabs.accesskey "m">
 <!ENTITY reloadTab.label "Muat Ulang Tab">
 <!ENTITY reloadTab.accesskey "l">
+<!ENTITY openTabInNewWindow.label "Buka di Jendela Baru">
+<!ENTITY openTabInNewWindow.accesskey "J">
 <!ENTITY listAllTabs.label "Daftar tab">
 <!ENTITY bookmarkAllTabs.label "Buat Bookmark Semua Tab…">
 <!ENTITY bookmarkAllTabs.accesskey "s">

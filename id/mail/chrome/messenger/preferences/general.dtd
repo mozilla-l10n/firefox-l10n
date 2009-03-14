@@ -1,5 +1,5 @@
-<!ENTITY messengerStartPage.label "Halaman Awal &brandShortName;">
-<!ENTITY enableStartPage.label "Saat &brandShortName; dimulai tampilkan Halaman Awal pada panel pesan">
+<!ENTITY messengerStartPage.label "Halaman Beranda &brandShortName;">
+<!ENTITY enableStartPage.label "Saat &brandShortName; dimulai tampilkan Halaman Beranda pada panel pesan">
 <!ENTITY enableStartPage.accesskey "W">
 <!ENTITY location.label "Lokasi:">
 <!ENTITY location1.accesskey "o">
@@ -25,7 +25,7 @@
 <!ENTITY browse.label "Telusuri…">
 <!ENTITY browse.accesskey "T">
 <!ENTITY addonsMgr.label "Pengaya">
-<!ENTITY manageAddonsDescWin.label "Ubah pengaturan untuk Pengaya">
-<!ENTITY manageAddonsDescUnix2.label "Ubah pengaturan untuk Pengaya">
+<!ENTITY manageAddonsDescWin.label "Ubah pengaturan Pengaya">
+<!ENTITY manageAddonsDescUnix2.label "Ubah pengaturan Pengaya">
 <!ENTITY manageAddons.label "Kelola Pengaya…">
 <!ENTITY manageAddons.accesskey "P">

@@ -1,6 +1,6 @@
 <!ENTITY dialog.title "Pengaturan Pengiriman">
 <!ENTITY sendMail.title "Format Teks">
-<!ENTITY sendMaildesc.label "Saat mengirim pesan dalam format HTML dan salah satu atau lebih penerima tidak didaftar mempunyai kemampuan menerima format HTML:">
+<!ENTITY sendMaildesc.label "Saat mengirim pesan dalam format HTML dan salah satu penerima atau lebih tidak didaftar mempunyai kemampuan menerima format HTML:">
 <!ENTITY askMe.label "Tanyakan saya">
 <!ENTITY askMe.accesskey "k">
 <!ENTITY convertPlain.label "Ganti format pesan ke teks biasa">

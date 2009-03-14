@@ -29,13 +29,13 @@
 <!ENTITY enableAddonsUpdate.accesskey "g">
 <!ENTITY checkNow.label "Periksa Sekarang…">
 <!ENTITY whenUpdatesFound.label "Bila versi baru &brandShortName; ditemukan:">
-<!ENTITY modeAskMe.label "Tanya saya">
+<!ENTITY modeAskMe.label "Tanya apa yang harus dilakukan">
 <!ENTITY modeAskMe.accesskey "s">
 <!ENTITY modeAutomatic.label "Otomatis diunduh dan dipasang">
 <!ENTITY modeAutomatic.accesskey "p">
 <!ENTITY modeAutoAddonWarn.label "Peringatkan jika Pengaya terpasang akan dimatikan">
 <!ENTITY modeAutoAddonWarn.accesskey "t">
-<!ENTITY showUpdates.label "Tampilkan Riwayat Versi Baru…">
+<!ENTITY showUpdates.label "Tampilkan Riwayat Pemutakhiran…">
 <!ENTITY showUpdates.accesskey "y">
 <!ENTITY connectionsInfo.caption "Sambungan">
 <!ENTITY offlineInfo.caption "Offline">
@@ -46,7 +46,7 @@
 <!ENTITY offlineCompact.label "Padatkan folder jika menghemat lebih dari">
 <!ENTITY offlineCompact.accesskey "P">
 <!ENTITY kb.label "KB">
-<!ENTITY viewCertificates.label "Tampilkan Sertifikat">
+<!ENTITY viewCertificates.label "Daftar Sertifikat">
 <!ENTITY viewCertificates.accesskey "a">
 <!ENTITY viewCRLs.label "Daftar Pencabutan">
 <!ENTITY viewCRLs.accesskey "c">
@@ -64,11 +64,11 @@
 <!ENTITY reading.caption "Baca">
 <!ENTITY showSettings.label "Pengaturan…">
 <!ENTITY showSettings.accesskey "a">
-<!ENTITY proxiesConfigure.label "Atur cara &brandShortName; tersambung ke Internet">
+<!ENTITY proxiesConfigure.label "Atur cara &brandShortName; terhubung ke Internet">
 <!ENTITY enableGlodaSearch.label "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
 <!ENTITY enableGlodaSearch.accesskey "i">
-<!ENTITY alwaysCheckDefault.label "Selalu periksa apakah &brandShortName; adalah pembaca email default saat memulai">
+<!ENTITY alwaysCheckDefault.label "Periksa apakah &brandShortName; adalah pembaca email default ketika memulai">
 <!ENTITY alwaysCheckDefault.accesskey "l">
-<!ENTITY systemDefaults.label "Nilai Default Sistem">
+<!ENTITY systemDefaults.label "Nilai Default dari Sistem">
 <!ENTITY checkNow.label "Periksa Sekarang">
 <!ENTITY checkNow.accesskey "N">
