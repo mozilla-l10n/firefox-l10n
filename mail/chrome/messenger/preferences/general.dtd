@@ -1,6 +1,6 @@
 <!ENTITY messengerStartPage.label "Halaman Beranda &brandShortName;">
 <!ENTITY enableStartPage.label "Saat &brandShortName; dimulai tampilkan Halaman Beranda pada panel pesan">
-<!ENTITY enableStartPage.accesskey "W">
+<!ENTITY enableStartPage.accesskey "H">
 <!ENTITY location.label "Lokasi:">
 <!ENTITY location1.accesskey "o">
 <!ENTITY useDefault.label "Kembalikan Nilai Default">

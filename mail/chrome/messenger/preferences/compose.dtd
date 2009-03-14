@@ -9,7 +9,7 @@
 <!ENTITY addExtension.accesskey "b">
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Huruf:">
-<!ENTITY font.accesskey "n">
+<!ENTITY font.accesskey "H">
 <!ENTITY size.label "Ukuran:">
 <!ENTITY size.accesskey "U">
 <!ENTITY fontColor.label "Warna Teks:">
