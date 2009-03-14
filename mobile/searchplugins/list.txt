@@ -1,4 +1,6 @@
-answers
+yahoo-kr
 google
-wikipedia
-yahoo
+daum-kr
+naver-kr
+wikipedia-kr
+danawa-kr
