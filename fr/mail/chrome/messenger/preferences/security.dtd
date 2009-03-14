@@ -38,6 +38,6 @@
 <!ENTITY savedPasswords.accesskey "o">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; peut permettre aux logiciels antivirus d'analyser les courriers entrant avant qu'ils ne soient stockés localement.">
-<!ENTITY antiVirus.label      "Permettre aux logiciels antivirus de mettre individuellement en quarantaine les messages entrant">
+<!ENTITY antiVirus.intro      "&brandShortName; peut permettre aux logiciels antivirus d'analyser les courriers entrants avant qu'ils ne soient stockés localement.">
+<!ENTITY antiVirus.label      "Permettre aux logiciels antivirus de mettre individuellement en quarantaine les messages entrants">
 <!ENTITY antiVirus.accesskey  "P">
