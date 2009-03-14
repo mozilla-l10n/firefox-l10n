@@ -8,7 +8,7 @@
 <!ENTITY addExtension.label "tambahkan ekstensi di belakang nama berkas">
 <!ENTITY addExtension.accesskey "b">
 <!ENTITY htmlComposeHeader.label "HTML">
-<!ENTITY font.label "Font:">
+<!ENTITY font.label "Huruf:">
 <!ENTITY font.accesskey "n">
 <!ENTITY size.label "Ukuran:">
 <!ENTITY size.accesskey "U">
@@ -27,13 +27,13 @@
 <!ENTITY downloadDictionaries.label "Unduh Kamus Lainnya">
 <!ENTITY warnOnSendAccelKey.label "Konfirmasi dengan menggunakan tombol cepat papan ketik untuk mengirim pesan">
 <!ENTITY warnOnSendAccelKey.accesskey "i">
-<!ENTITY autoSave.label "Simpan Otomatis setiap">
-<!ENTITY autoSave.accesskey "O">
+<!ENTITY autoSave.label "Simpan otomatis setiap">
+<!ENTITY autoSave.accesskey "o">
 <!ENTITY autoSaveEnd.label "menit">
 <!ENTITY emailCollectionPicker.label "Otomatis tambahkan alamat email keluar ke:">
 <!ENTITY emailCollectionPicker.accesskey "t">
 <!ENTITY addressingTitle.label "Otomatis Melengkapi Alamat">
-<!ENTITY autocompleteText.label "Saat memberi alamat pada pesan, cari item yang cocok di:">
+<!ENTITY autocompleteText.label "Saat menulis alamat email tujuan, cari item yang cocok di:">
 <!ENTITY addressingEnable.label "Buku Alamat Lokal">
 <!ENTITY addressingEnable.accesskey "A">
 <!ENTITY directories.label "Server Direktori:">

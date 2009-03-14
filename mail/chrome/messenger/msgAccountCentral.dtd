@@ -12,5 +12,5 @@
 <!ENTITY filtersLink.label "Kelola penyaring pesan">
 <!ENTITY junkSettings.label "Pengaturan email junk">
 <!ENTITY offlineLink.label "Pengaturan offline">
-<!ENTITY rssSectionHdr.label "Berita &amp; Blog RSS">
-<!ENTITY subscibeRSS.label "Kelola langganan">
+<!ENTITY feedsSectionHdr.label "Feed">
+<!ENTITY subscribeFeeds.label "Kelola langganan">

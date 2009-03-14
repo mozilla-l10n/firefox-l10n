@@ -276,7 +276,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Pesan Berbintang">
 <!ENTITY prevStarredMsgCmd.accesskey "B">
-<!ENTITY startPageCmd.label "Halaman Awal">
+<!ENTITY startPageCmd.label "Halaman Beranda">
 <!ENTITY startPageCmd.accesskey "H">
 <!ENTITY msgMenu.label "Pesan">
 <!ENTITY msgMenu.accesskey "P">
@@ -401,7 +401,7 @@
 <!ENTITY filtersApplyToSelection.accesskey "J">
 <!ENTITY filtersApplyToMessage.label "Jalankan Filter pada Pesan">
 <!ENTITY filtersApplyToMessage.accesskey "P">
-<!ENTITY getMsgButton.label "Ambil Email">
+<!ENTITY getMsgButton.label "Ambil Pesan">
 <!ENTITY newMsgButton.label "Tulis">
 <!ENTITY replyButton.label "Balas">
 <!ENTITY replyAllButton.label "Balas ke Semua">
