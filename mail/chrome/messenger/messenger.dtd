@@ -415,6 +415,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY messengerCmd.accesskey "E">
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY runJunkControls.label "Ongewensteberichtenverwerking uitvoeren op map">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Ongewenste berichten uit map verwijderen">
