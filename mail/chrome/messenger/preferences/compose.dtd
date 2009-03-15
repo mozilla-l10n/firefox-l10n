@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Berichten doorsturen:">
 <!ENTITY forwardMsg.accesskey                 "d">
 <!ENTITY inline.label                         "In het bericht">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Als bijlage">
-<!ENTITY asAttachment.accesskey               "b">
 <!ENTITY addExtension.label                   "Extensie aan bestandsnaam toevoegen">
 <!ENTITY addExtension.accesskey               "t">
 
@@ -17,7 +15,7 @@
 <!ENTITY size.label                           "Grootte:">
 <!ENTITY size.accesskey                       "G">
 <!ENTITY fontColor.label                      "Tekstkleur:">
-<!ENTITY fontColor.accesskey                  "k">
+<!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Achtergrondkleur:">
 <!ENTITY bgColor.accesskey                    "A">
 <!ENTITY restoreHTMLDefaults.label            "Standaardwaarden herstellen">
@@ -38,16 +36,16 @@
 <!ENTITY autoSaveEnd.label                    "minuten automatisch opslaan">
 
 <!ENTITY emailCollectionPicker.label           "E-mailadressen van uitgaande berichten automatisch toevoegen aan mijn:">
-<!ENTITY emailCollectionPicker.accesskey       "u">
+<!ENTITY emailCollectionPicker.accesskey       "E">
 <!ENTITY addressingTitle.label                 "Automatische adresaanvulling">
 <!ENTITY autocompleteText.label                "Bij het adresseren van berichten, naar overeenkomsten zoeken in:">
 <!ENTITY addressingEnable.label                "Lokale adresboeken">
-<!ENTITY addressingEnable.accesskey            "r">
+<!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Directoryserver:">
-<!ENTITY directories.accesskey                 "y">
+<!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "Geen">
 <!ENTITY editDirectories.label                 "Directory’s bewerken…">
-<!ENTITY editDirectories.accesskey             "w">
+<!ENTITY editDirectories.accesskey             "b">
 
 <!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrag configureren">
 <!ENTITY sendOptions.label                     "Verzendopties…">

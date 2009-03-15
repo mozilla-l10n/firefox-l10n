@@ -7,7 +7,7 @@
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label       "Globale zoek en indexer activeren">
-<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY systemDefaults.label          "Standaardwaarden systeem">
 <!ENTITY alwaysCheckDefault.label      "Altijd tijdens het opstarten controleren of &brandShortName; de standaard e-mailclient is">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
@@ -27,7 +27,7 @@
 <!ENTITY showCondensedAddresses.accesskey "V">
 
 <!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
-<!ENTITY autoMarkAsRead.accesskey         "e">
+<!ENTITY autoMarkAsRead.accesskey         "B">
 <!ENTITY markAsReadNoDelay.label          "Direct zichtbaar">
 <!ENTITY markAsReadNoDelay.accesskey      "D">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
@@ -38,9 +38,9 @@
 <!ENTITY secondsLabel.label               "seconden weergeven">
 <!ENTITY openMsgIn.label               "Nieuwe berichten openen in:">
 <!ENTITY reuseExpRadio0.label          "Een nieuw berichtvenster">
-<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "Een bestaand berichtvenster">
-<!ENTITY reuseExpRadio1.accesskey      "a">
+<!ENTITY reuseExpRadio1.accesskey      "e">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisch controleren op updates voor:">
@@ -50,17 +50,17 @@
 <!ENTITY enableAddonsUpdate.accesskey   "G">
 <!ENTITY whenUpdatesFound.label         "Als er updates voor &brandShortName; worden gevonden:">
 <!ENTITY modeAskMe.label                "Mij vragen wat ik wil doen">
-<!ENTITY modeAskMe.accesskey            "r">
+<!ENTITY modeAskMe.accesskey            "M">
 <!ENTITY modeAutomatic.label            "Automatisch de update downloaden en installeren">
-<!ENTITY modeAutomatic.accesskey        "u">
+<!ENTITY modeAutomatic.accesskey        "A">
 <!ENTITY modeAutoAddonWarn.label        "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
-<!ENTITY modeAutoAddonWarn.accesskey    "s">
+<!ENTITY modeAutoAddonWarn.accesskey    "w">
 <!ENTITY showUpdates.label              "Updategeschiedenis tonen">
-<!ENTITY showUpdates.accesskey          "d">
+<!ENTITY showUpdates.accesskey          "U">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Instellingen…">
-<!ENTITY showSettings.accesskey        "i">
+<!ENTITY showSettings.accesskey        "I">
 <!ENTITY proxiesConfigure.label        "Instellen hoe &brandShortName; verbinding maakt met het internet">
 <!ENTITY connectionsInfo.caption       "Verbinding">
 <!ENTITY offlineInfo.caption           "Offline">
@@ -70,7 +70,7 @@
 
 <!ENTITY Diskspace "Schijfruimte">
 <!ENTITY offlineCompact.label "Mappen comprimeren als het meer bespaart dan">
-<!ENTITY offlineCompact.accesskey "p">
+<!ENTITY offlineCompact.accesskey "M">
 <!ENTITY kb.label "KB">
 
 <!-- LOCALIZATION NOTE:
@@ -80,7 +80,7 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 <!ENTITY useCacheBefore.label            "Tot">
-<!ENTITY useCacheBefore.accesskey        "o">
+<!ENTITY useCacheBefore.accesskey        "T">
 <!ENTITY useCacheAfter.label             "MB ruimte gebruiken voor de buffer">
 <!ENTITY clearCacheNow.label             "Nu wissen">
 <!ENTITY clearCacheNow.accesskey         "w">
