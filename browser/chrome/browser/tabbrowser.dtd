@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "l">
 <!ENTITY  reloadTab.label        "Tải lại Thẻ">
 <!ENTITY  reloadTab.accesskey         "i">
+<!ENTITY  openTabInNewWindow.label    "Mở trong Cửa Sổ Mới">
+<!ENTITY  openTabInNewWindow.accesskey "S">
 <!ENTITY  listAllTabs.label      "Liệt kê tất cả các thẻ">
 <!ENTITY  bookmarkAllTabs.label       "Đánh dấu Tất cả Các thẻ…">
 <!ENTITY  bookmarkAllTabs.accesskey   "u">

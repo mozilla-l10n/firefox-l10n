@@ -52,4 +52,4 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "@AB_CD@");
 
 # categories
-pref("calendar.categories.names", "Anniversary,Birthday,Business,Calls,Clients,Competition,Customer,Favorites,Follow up,Gifts,Holidays,Ideas,Issues,Meeting,Miscellaneous,Personal,Projects,Public Holiday,Status,Suppliers,Travel,Vacation");
+pref("calendar.categories.names", "Lễ Kỉ Niệm,Sinh Nhật,Kinh Doanh,Cuộc Gọi,Khách Hàng,Thi Thố,Ưa Thích,Theo Dõi,Quà Tặng,Ngày Lễ,Ý Kiến,Vấn Đề,Họp Mặt,Linh Tinh,Cá Nhân,Dự Án,Ngày Lễ Công Cộng,Trạng Thái,Nhà Cung Cấp,Du Lịch,Tham Quan");

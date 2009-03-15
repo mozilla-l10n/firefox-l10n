@@ -1,4 +1,4 @@
-<!ENTITY minimizeWindow.key       "u">
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Thu nhỏ">
 <!ENTITY bringAllToFront.label    "Đưa Tất Cả ra Tiền Cảnh">
 <!ENTITY zoomWindow.label         "Thu phóng">

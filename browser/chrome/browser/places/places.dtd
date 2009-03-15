@@ -165,7 +165,7 @@
 <!ENTITY advancedSearch.subj_keyword.label         "Bao gồm văn bản">
 <!ENTITY advancedSearch.subj_visited.label         "Đã xem">
 <!ENTITY advancedSearch.subj_location.label        "Địa chỉ">
-<!ENTITY advancedSearch.location_startswith.label  "bắt đầu với">
+<!ENTITY advancedSearch.location_startswith.label  "bắt đầu bằng">
 <!ENTITY advancedSearch.location_is.label          "ở">
 <!ENTITY advancedSearch.location_onsite.label      "ở trên trang">
 <!ENTITY advancedSearch.time_is.label              "trên">

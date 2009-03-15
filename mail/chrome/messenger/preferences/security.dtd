@@ -1,0 +1,43 @@
+<!ENTITY itemJunk.label          "Thư rác">
+<!ENTITY itemPhishing.label      "Lừa đảo Email">
+<!ENTITY itemPasswords.label     "Mật khẩu">
+<!ENTITY itemAntiVirus.label     "Diệt Virút">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Chỉnh các thiết lập thư rác mặc định. Cũng có thể thiết lập thư rác từng tài khoản trong Thiết lập Tài khoản.">
+<!ENTITY manualMark.label "Khi tôi đánh dấu thư là rác:">
+<!ENTITY manualMark.accesskey "r">
+<!ENTITY manualMarkModeMove.label "Di chuyển chúng vào thư mục &quot;Thư rác&quot; của tài khoản">
+<!ENTITY manualMarkModeMove.accesskey "D">
+<!ENTITY manualMarkModeDelete.label "Xóa chúng">
+<!ENTITY manualMarkModeDelete.accesskey "X">
+<!ENTITY markAsReadOnSpam.label "Đánh dấu các thư được xem là Thư rác thành đã đọc">
+<!ENTITY markAsReadOnSpam.accesskey "d">
+<!ENTITY enableJunkLogging.label "Kích hoạt lưu kí bộ lọc thư rác">
+<!ENTITY enableJunkLogging.accesskey "l">
+<!ENTITY openJunkLog.label "Hiện lưu kí">
+<!ENTITY openJunkLog.accesskey "H">
+<!ENTITY resetTrainingData.label "Đặt lại Dữ liệu Huấn luyện về Mặc định">
+<!ENTITY resetTrainingData.accesskey "H">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; có thể phân tích những thư bị nghi ngờ là email xấu bằng cách tra cứu những trò thường được dùng để lừa đảo.">
+<!ENTITY enablePhishingDetector1.label    "Báo tôi biết nếu thư tôi đang đọc bị nghi ngờ là email xấu">
+<!ENTITY enablePhishingDetector1.accesskey  "B">
+<!ENTITY useDownloadedList.label "Sử dụng một danh sách đen trên mạng để nhận biết các email xấu">
+<!ENTITY useDownloadedList.accesskey "m">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName; có thể ghi nhớ mật khẩu cho tất cả tài khoản của bạn.">
+<!ENTITY useMasterPassword.label        "Dùng một mật khẩu chính">
+<!ENTITY useMasterPassword.accesskey    "c">
+<!ENTITY masterPassword.intro           "Mật khẩu Chính bảo vệ tất cả mật khẩu của bạn, nhưng bạn phải nhập nó trong mỗi phiên làm việc.">
+<!ENTITY changeMasterPassword.label     "Thay đổi Mật khẩu Chính…">
+<!ENTITY changeMasterPassword.accesskey "T">
+<!ENTITY savedPasswords.label           "Mật khẩu đã Lưu…">
+<!ENTITY savedPasswords.accesskey       "L">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; có thể giúp các phần mềm diệt virút dễ dàng phân tích các thư đến, trước khi chúng được lưu trữ vào máy.">
+<!ENTITY antiVirus.label      "Cho phép chương trình diệt virút cách ly riêng biệt từng thư đến">
+<!ENTITY antiVirus.accesskey  "C">
