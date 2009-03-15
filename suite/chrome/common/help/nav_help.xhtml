@@ -11,7 +11,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>Prohlížeč webových stránek</title>
-<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+<link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
@@ -54,8 +54,6 @@ a vyhledávat informace.</p>
 
 <h2 id="viewing_your_home_page">Prohlížení domovské stránky</h2>
 
-<p>Když poprvé spustíte aplikaci &brandShortName;, otevře se vám prohlížeč webových stránek, který automaticky načte stránku o projektu &brandShortName; v češtině.</p>
-
 <p>Při každém dalším spuštění se vám vždy načte vaše domovská stránka. Pokud ji nezměníte, bude vaší domovskou stránkou tato česká stránka o projektu &brandShortName;.</p>
 
 <p>Chcete-li se dozvědět, jak nastavit vlastní domovskou stránku, podívejte se do kapitoly <a href="customize_help.xhtml#specifying_how_mozilla_starts_up">Nastavení úvodní stránky</a>.</p>
@@ -71,7 +69,10 @@ a vyhledávat informace.</p>
 
 <h2 id="moving_to_another_page">Přesun na další stránku</h2>
 
-<p>Na novou stránku se můžete přesunout tak, že napíšete její URL (webovou adresu) do adresního řádku v horní části okna Prohlížeče. URL stránky ve většině případů začíná zkratkou <q>http://</q> následovanou jedním nebo více jmény, jenž identifikují adresu. Například <q>http://www.czilla.cz</q>.</p>
+<p>Na novou stránku se můžete přesunout tak, že napíšete její URL (webovou adresu) do 
+adresního řádku v horní části okna Prohlížeče. URL stránky ve většině případů začíná zkratkou 
+<q>http://</q> následovanou jedním nebo více jmény, jenž identifikují adresu. 
+Například <q>http://www.czilla.cz</q>.</p>
 
 <ol>
   <li>Klepněte do adresního řádku. Tím označíte stávající adresu.</li>
@@ -252,8 +253,7 @@ a vyhledávat informace.</p>
   <tr>
     <td><img src="images/sidebar.png"
       alt="Madlo postranní lišty"/></td>
-    <td style="vertical-align:
-      middle; padding-right: 20px;"><strong>Madlo<br/>postranní<br/>lišty</strong></td>
+    <td style="vertical-align: middle; -moz-padding-end: 20px;"><strong>Madlo<br/>postranní<br/>lišty</strong></td>
     <td style="vertical-align: middle;">Jestliže nevidíte postranní lištu, může být zavřená. Otevřete ji klepnutím na její madlo. Jestliže madlo není vidět, otevřete v Prohlížeči nabídku Zobrazit a klepněte na položku Zobrazit/Skrýt a zde klepněte na položku Postranní lišta.</td>
   </tr>
 </table>
@@ -269,7 +269,6 @@ a vyhledávat informace.</p>
   <li><a href="#fast_searches">Rychlé vyhledávání</a></li>
   <li><a href="#sidebar_advanced_search_mode">Režim rozšířeného vyhledávání v postranní liště</a></li>
   <li><a href="#setting_search_preferences">Nastavení předvoleb pro vyhledávání na Internetu</a></li>
-  <li><a href="#using_internet_keywords">Používání klíčových slov</a></li>
   <li><a href="#searching_within_a_page">Hledání uvnitř stránky</a></li>
   <li><a href="#using_find_as_you_type">Používání funkce Hledat během psaní</a></li>
   <li><a href="#searching_the_bookmarks_or_history_list">Prohledávání Historie a Záložek</a></li>
@@ -296,15 +295,27 @@ z vyhledávací webové stránky a přímo z webové stránky za pomocí vybrán
   <li>Proveďte jeden z následujících kroků:
     <ul>
       <li>Klepněte na tlačítko Hledat.</li>
-      <li>Vyberte <q>Najít na Jyxo text Pražské jaro</q> z poslední řádky rozbalovacího seznamu adresního řádku. (Váš výchozí vyhledávací modul může být různý.)<p>
-        Použije se vyhledávací modul nastavený v <a href="cs_nav_prefs_navigator.xhtml#smart_browsing">Předvolbách</a> Výsledky vyhledávání slova <q>Pražské jaro</q> se objeví v okně Prohlížeče i v Postranní liště. Klepnutím na odkazy navštívíte stránky týkající se Pražského jara.</p></li>
+      <li>Vyberte <q>Najít na Jyxo text Pražské jaro</q> z poslední řádky rozbalovacího seznamu adresního řádku. 
+	  (Váš výchozí vyhledávací modul může být různý.)
+	  
+	  <p>Použije se vyhledávací modul nastavený v <a href="cs_nav_prefs_navigator.xhtml#internet_search">
+        	Předvolbách</a>. Výsledky vyhledávání slova <q>Pražské jaro</q> se objeví v okně Prohlížeče i v 
+			Postranní liště. Klepnutím na odkazy navštívíte stránky týkající se Pražského jara.</p></li>
     </ul>
   </li>
 </ol>
 
 <p>Výsledky posledního vyhledávání jsou uloženy v postranní liště v panelu Hledání do doby dalšího hledání, takže nemusíte používat tlačítko Zpět, aby jste se dostali zpět na stránku s výsledky hledání.</p>
 
-<p>Poznámka: Můžete také použít <a href="#using_internet_keywords">Klíčových slov</a> pro hledání v adresním řádku.</p>
+<p><strong>Poznámka</strong>: <!--translate--> In the <q>Unknown Locations</q> section of the
+  <a href="cs_nav_prefs_navigator.xhtml#location_bar">Location Bar
+  Preferences</a>, you can set up the Location Bar so a search is automatically
+  performed if the text you have typed is not a web location. Typing a word in
+  the Location Bar and pressing <kbd class="noMac">Enter</kbd><kbd class="mac">
+  Return</kbd> will then perform a search. For a more technical description of
+  this feature, see the online document
+  <a href="http://www.mozilla.org/docs/end-user/internet-keywords.html">
+  Internet Keywords<!--end translate--></a>.</p>
 
 <h3 id="searching_from_sidebar">Vyhledávání z Postranní lišty</h3>
 
@@ -402,35 +413,6 @@ z vyhledávací webové stránky a přímo z webové stránky za pomocí vybrán
   <li>V sekci Výsledky hledání zvolte zaškrtávací políčko <q>Otevřít vyhledávací panel v liště, pokud jsou dostupné výsledky vyhledávání</q> jestliže chcete, aby se otevřel panel Hledání z Postranní lišty a zobrazoval výsledky vašeho hledání.</li>
   <li>V sekci Zobrazit panel Hledat jako si vyberte Zjednodušený, jakmile chcete hledat pomocí jednoho vyhledávacího modulu anebo Podrobný, jakmile chcete hledat s pomocí více vyhledávacích modulů.</li>
 </ol>
-
-<p>[<a href="#searching_the_web">Návrat na začátek sekce</a>]</p>
-
-<h2 id="using_internet_keywords">Používání klíčových slov</h2>
-
-<p>Klíčová slova Internetu umožňují rychlý přechod na specifické stránky napsáním jednoho nebo více slov do adresního řádku. Existuje několik způsobů použití:</p>
-
-<ul>
-  <li>Vložte název specifického produktu, značky nebo firmy do adresního řádku a stiskněte klávesu <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>, pro přechod na webovskou stránku firmy.</li>
-  <li>Vložte určitá slovesa jako <q>shop</q> (nakupovat) nebo <q>quote</q> (uvést cenu) následovaná slovem popisující to, co hledáte do adresního řádku. Např. dotaz <q>shop pets</q> vás přesune na stránky s online obchody s domácími mazlíčky.</li>
-  <li>Vložte jméno určitého města následované určitými slovy jako <q>movies</q> (filmy) nebo <q>restaurants</q> (restaurace) do adresní řádky. Např. dotaz <q>san francisco restaurants</q> vás přesune na stránky s restauracemi v San Francisku.</li>
-</ul>
-
-<p><strong>Důležité</strong>: Klíčová slova Internetu se odesílají stiskem klávesy <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd> namísto stisku tlačítka Hledat. Stiskněte klávesu <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd> aktivující funkci Klíčového slova Internetu; klepnutím na tlačítko Hledat položíte dotaz preferované vyhledávací službě.</p>
-
-<p>K zobrazení rozdílu těchto dvou funkcí vyzkoušejte následující:</p>
-
-<ol>
-  <li>Zadejte <q>apple imac</q> do adresního řádku a stiskněte klávesu <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>. Apple. Objeví se stránka počítačů iMac od společnosti Apple Computer.</li>
-  <li>Znovu zadejte <q>apple imac</q> do adresního řádku a klepněte na tlačítko Hledat. Zobrazí se seznam stránek vyhledaných preferovanou vyhledávací službou souvisejících s počítači Apple iMac.</li>
-</ol>
-
-<p>Pokud vám klíčová slova nefungují, podívejte se na <a href="cs_nav_prefs_navigator.xhtml#smart_browsing">Související stránky</a>, kde zvolte volbu Povolit klíčová slova Internetu.</p>
-
-<h3 id="quick_stock_quotes">Rychlé zobrazení kurzu akcií</h3>
-
-<p>K zobrazení nejnovějšího kurzu akcií určité firmy napište slovo <q>quote</q> nasledované burzovou zkratkou firmy do adresní řádky a klepněte na tlačítko <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>.</p>
-
-<p>Neznáte-li burzovní zkratku firmy, zadejte její jméno. Zobrazí se seznam firem s podobnými jmény, z kterých si můžete vybrat.</p>
 
 <p>[<a href="#searching_the_web">Návrat na začátek sekce</a>]</p>
 
@@ -692,9 +674,9 @@ Například, zadejte <q><kbd>/ahoj</kbd></q> pro vyhledání slova <q>ahoj</q> v
     <ul>
       <li><strong>Orientace</strong>:
         <ul>
-          <li><strong>Na výšku</strong>: Vyberte <img src="chrome://global/skin/icons/pg-portrait-small.gif" 
+          <li><strong>Na výšku</strong>: Vyberte <img src="chrome://global/skin/icons/Portrait.png" 
             alt="Tlačítko Na výšku"/> pro normální nastavení stránky, kratší stranou nahoru.</li>
-          <li><strong>Na šířku</strong>: Vyberte <img src="chrome://global/skin/icons/pg-landscape-small.gif"
+          <li><strong>Na šířku</strong>: Vyberte <img src="chrome://global/skin/icons/Landscape.png"
 	    alt="Tlačítko Na šířku"/> pro nastavení stránky dlouhou stranou nahoru.</li>
         </ul>
       </li>
@@ -811,42 +793,26 @@ Například, zadejte <q><kbd>/ahoj</kbd></q> pro vyhledání slova <q>ahoj</q> v
 
 <h2 id="setting_language_preferences">Nastavení předvoleb jazyka</h2>
 
-<p>Jazyk nastavený pro aplikaci &brandShortName; ovlivňuje texty na tlačítkách, v dialogových oknech, nabídce, panelech nástrojů a jiných místech. Funkčnost těchto položek se nemění.</p>
+<p><!--translate-->The language you use for &brandShortName; affects the user
+  interface&mdash;text of buttons, dialog boxes, menus, tools, and other items.
+  You can download and install language packages from the
+  <a href="http://www.seamonkey-project.org/releases/">SeaMonkey Project
+  Releases</a> page and then use the
+  <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences
+  panel</a> to switch user interface language.</p>
 
-<p>Když chcete změnit jazyk aplikace &brandShortName;:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Vzhled klepněte na podkategorii Jazyky/Obsah. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Vzhled zobrazíte jejich seznam.)</li>
-  <li>Pod sekcí <q>Dostupné jazykové balíky</q> si vyberte jazykový balíček.</li>
-  <li>Klepněte na tlačítko OK.
-
-    <p><strong>Poznámka</strong>: Změny nastavení jazyka se projeví až po restartu aplikace &brandShortName;.</p>
-
-  </li>
-</ol>
-
-<p><strong>Tip</strong>: Chcete-li stáhnout více balíčků jazyku, klepněte na tlačítko Stáhnout další.</p>
-
-<p>Některé internetové stránky jsou k dispozici ve více jak jednom jazyku. &brandShortName; zobrazí stránky v jazyku, který preferujete, je-li k dispozici. Můžete si zadat jazyky, které preferujete, a jejich pořadí.</p>
-
-<p>Když chcete nastavit preferované jazyky:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Prohlížeč klepněte na podkategorii Jazyky. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Prohlížeč zobrazíte jejich seznam.)</li>
-  <li>Klepněte na tlačítko Přidat. Zobrazí se dialogové okno Přidání jazyka(ů).</li>
-  <li>Vyberte jazyk a jeho kód. Když chcete přidat kód, který není v seznamu, zadejte ho do editačního políčka Ostatní: (viz. poznámka níže). Chcete-li změnit pořadí jazyků v seznamu, označte jazyk a klepněte na tlačítka Přesunout výše anebo Přesunout níže.</li>
-  <li>Klepněte na tlačítko OK.</li>
-</ol>
-
-<p><strong>Poznámka</strong>: Dvoupísmenné kódy uzavřené v závorkách se přidají k jazykům do seznamu. Jsou to standardizované kódy jazyků dle ISO 639. Kompletní seznam těchto kódů naleznete v online dokumentu <a href="http://www.loc.gov/standards/iso639-2/langcodes.html">Reprezentační kódy jmen jazyků</a> [Eng.].</p>
+<p>A web page can sometimes be available in several languages. In the
+  <a href="cs_nav_prefs_navigator.xhtml#languages">Languages Preferences
+  panel</a>, you can configure &brandShortName; so the page is shown in the
+  language you prefer. You can have multiple languages and list them in order
+  of preference.<!--end translate--></p>
 
 <p>[<a href="#using_languages_and_international_content">Návrat na začátek sekce</a>]</p>
 
 <h2 id="finding_localized_version">Hledání verze SeaMonkey ve vašem jazyce</h2>
 
-<p>Pokud hledáte verzi &brandShortName; ve vašem jazyce, navštivte stránku <a href="http://www.mozilla.org/projects/seamonkey/releases/">SeaMonkey Project Releases</a>. [Eng.]</p> 
+<p>Pokud hledáte verzi &brandShortName; ve vašem jazyce, navštivte stránku 
+<a href="http://www.seamonkey-project.org/releases/">SeaMonkey Project Releases</a>. [Eng.]</p> 
 
 <p>[<a href="#using_languages_and_international_content">Návrat na začátek sekce</a>]</p>
 
@@ -854,15 +820,19 @@ Například, zadejte <q><kbd>/ahoj</kbd></q> pro vyhledání slova <q>ahoj</q> v
 
 <div class="contentsBox">V této sekci:
 <ul>
-  <li><a href="#plug-ins">Zásuvné moduly</a></li>
+  <li><a href="#plugins">Zásuvné moduly</a></li>
   <li><a href="#helper_applications">Pomocné aplikace</a></li>
   <li><a href="#download_manager">Správce stahování souborů</a></li>
 </ul>
 </div>
 
-<p>Prohlížeč dokáže pracovat s různými typy souborů. Avšak pro některé soubory, například filmy, potřebuje <q>pomocné</q> programy nebo zásuvné moduly, které se souborem umí pracovat. Když není pomocný program nebo zásuvný modul k dispozici, je možné soubor uložit na disk. Stav ukládání můžete sledovat ve Správci stahování souborů.</p>
+<p>Prohlížeč dokáže pracovat s různými typy souborů. Avšak pro některé soubory, 
+například filmy, potřebuje <q>pomocné</q> programy nebo zásuvné moduly, které 
+se souborem umí pracovat. Když není pomocný program nebo zásuvný modul k 
+dispozici, je možné soubor uložit na disk. Stav ukládání můžete sledovat ve Správci 
+stahování souborů.</p>
 
-<h2 id="plug-ins">Zásuvné moduly</h2>
+<h2 id="plugins">Zásuvné moduly</h2>
 
 <p>Zásuvné moduly jsou pomocné aplikace, které rozšiřují funkčnost Prohlížeče a běží v aplikaci &brandShortName;. Zásuvné moduly jako třeba Sun Java, Macromedia Flash a RealNetworks RealPlayer umožňují aplikaci &brandShortName; zobrazovat multimediální soubory a spouštět malé aplikace, jako například filmy, animace či hry.</p>
 
@@ -885,65 +855,14 @@ následujícího:
 
 <h2 id="helper_applications">Pomocné aplikace</h2>
 
-<p>Když soubory nemohou být použité pomocí aplikace &brandShortName;, stále můžete spustit pomocné aplikace, které se otevřou zcela mimo aplikaci &brandShortName;. Například na přehrávání MP3 souborů můžete použít programy jako je Winamp.</p>
+<p>Když soubory nemohou být použité pomocí aplikace &brandShortName;, 
+stále můžete spustit pomocné aplikace, které se otevřou zcela mimo aplikaci 
+&brandShortName;. Například na přehrávání MP3 souborů můžete použít 
+programy jako je Winamp.</p>
 
-<p>Nastavení podkategorie Pomocné aplikace v kategorii Prohlížeč v Předvolbách určuje, které pomocné aplikace má Prohlížeč používat na vašem počítači. Toto nastavení obvykle není potřeba měnit, protože jsou už přednastavené. Taktéž, když prohlížeč neví, kterou pomocnou aplikaci použít, umožní vám vyhledat pomocnou aplikaci v dialogovém okně po stáhnutí souboru.</p>
-
-<p>Dialogové okno Ukládání umožňuje používat tyto možnosti:</p>
-
-<ul>
-  <li><strong>Otevřít s výchozí aplikací (jméno aplikace)</strong>:
-    &brandShortName; otevře soubor ve výchozím program dle nastavení v systému.
-
-    <p><strong>Poznámka</strong>: Tuto volbu uvidíte pouze tehdy, pokud je program asociován s tímto typem souboru v nastavení vašeho systému.
-</p></li>
-
-  <li><strong>Otevřít v aplikaci</strong>: &brandShortName; otevře soubor za použití programu, který si vyberete. 
-  Klepněte na tlačítko Vybrat pro výběr aplikace, s kterou chcete tento typ souboru otevírat.</li>
-  <li><strong>Uložit soubor na disk</strong>: &brandShortName; vám umožní vybrat si adresář, do kterého chcete soubor uložit.</li>
-  <li><strong>Při zpracování souboru tohoto typu provést vždy tuto akci</strong>: Když je tato volba vybrána, &brandShortName; vždy otevře dialogové okno Ukládání před stahováním tohoto typu souboru.</li>
-</ul>
-
-<p><strong>Tip</strong>: Můžete vymazat vaše uložené volby z <q>Při zpracování souboru tohoto typu provést vždy tuto akci</q> v nastavení. Více naleznete v kapitole <a href="cs_nav_prefs_navigator.xhtml#helper_applications">Pomocné aplikace</a>.</p>
-
-<p>Detailnější nastavení Pomocných aplikací, (pro zkušené uživatele):</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Prohlížeč klepněte na podkategorii Pomocné aplikace (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Prohlížeč zobrazíte jejich seznam.)</li>
-  <li>Proveďte jeden z následujících postupů:
-
-    <p id="adding_a_new_helper_application">Přidání nové pomocné aplikace do seznamu:</p>
-
-      <ol>
-        <li>Klepněte na tlačítko Nový typ. Zobrazí se dialogové okno Upravit typ.</li>
-        <li>Napište Popis typu souboru, s kterým aplikace pracuje; například, <q>filmy</q> nebo <q>zvukové soubory"</q>.</li>
-        <li>Napište typ MIME. MIME typy jsou složené ze dvou slov oddělených lomítkem. Například MIME typ obrázku TIFF je <q>image/tiff"</q>.
-          <p><strong>Poznámka:</strong> &brandShortName; zobrazuje MIME typ souboru v dialogovém okně před jeho stáhnutím na disk.</p></li>
-        <li>Do editačního pole Přípona napište příponu souboru, kterou tento typ souboru používá. Když typ souboru používá víc jak jednu příponu, zadejte je všechny oddělené mezerami.</li>
-        <li>Klepněte na tlačítko Vybrat pro vybrání aplikace jenž obsluhuje zadávaný typ souboru.</li>
-        <li>Klepněte na tlačítko OK.</li>
-      </ol>
-
-    <p>Pro určení, jak má Prohlížeč pracovat s různými typy souborů:</p>
-
-      <ol>
-        <li>Vyberte typ souboru v seznamu a klepněte na tlačítko Upravit.</li>
-        <li>Napište typ MIME, jenž chcete pro soubor používat.</li>
-        <li>Zvolte mezi možností ukládat stažené soubory na disk, otevírat je ve výchozím programu vašeho systému či otevírat v programu, který zvolíte. Klepněte na tlačítko Vybrat pro vyhledání programu.</li>
-        <li>Klepněte na tlačítko OK.</li>
-      </ol>
-
-    <p>Smazání vybraného typu souboru ze seznamu:</p>
-
-      <ol>
-        <li>Vyberte typ souboru v seznamu a klepněte na tlačítko Odebrat.</li>
-        <li>Klepněte na tlačítko OK.</li>
-      </ol>
-  </li>
-</ol>
-
-<p>Chcete-li se dozvědět více o nastavení pomocných aplikací, nahlédněte do kapitoly <a href="cs_nav_prefs_navigator.xhtml#helper_applications">Pomocné aplikace</a>.</p>
+<p>Chcete-li se dozvědět více o nastavení pomocných aplikací, nahlédněte 
+do kapitoly <a href="cs_nav_prefs_navigator.xhtml#helper_applications">
+Pomocné aplikace</a>.</p>
 
 <p>[<a href="#plugins_and_downloads">Návrat na začátek sekce</a>]</p>
 
@@ -989,8 +908,7 @@ následujícího:
   <li><a href="#getting_the_latest_software_automatically">Automatické získávání nejnovějšího softwaru</a></li>
   <li><a href="#using_a_mouse_wheel">Používání kolečka myši</a></li>
   <li><a href="#making_mozilla_your_default_browser">Nastavení aplikace &brandShortName; jako výchozího Prohlížeče</a></li>
-  <li class="win"><a href="#using_quick_launch">Používání Rychlého spuštění</a></li>
-</ul>
+ </ul>
 </div>
 
 <h2 id="automatic_loading">Automatické načítání</h2>
@@ -999,7 +917,9 @@ následujícího:
 
 <p>Když se chcete dozvědět, jak vypnout Javu, nahlédněte do kapitoly <a href="cs_nav_prefs_advanced.xhtml#advanced">Rozšířené nastavení</a>.</p>
 
-<p>Když se chcete dozvědět, jak vypnout JavaScript, nahlédněte do kapitoly <a href="cs_nav_prefs_advanced.xhtml#scripts_and_plug-ins">Předvolby Rozšířené nastavení - Skripty &amp; zásuvné moduly</a>.</p>
+<p>Když se chcete dozvědět, jak vypnout JavaScript, nahlédněte do kapitoly 
+<a href="cs_nav_prefs_advanced.xhtml#scripts_and_plugins">Předvolby 
+Rozšířené nastavení - Skripty &amp; zásuvné moduly</a>.</p>
 
 <p>[<a href="#improving_speed_and_efficiency">Návrat na začátek sekce</a>]</p>
 
@@ -1038,7 +958,7 @@ Můžete například vytvořit takové klíčové slovo, že
   <li>V dialogu zvolte pole Umístění a nahraďte zástupný řetězec (např. 
 	<tt>MámRádMozillu</tt>) za <kbd>%s</kbd>.
     Umístění může např. vypadat takto:
-    <kbd>http://www.google.com/search?q=<strong>%s</strong>&amp;btnI=I'mFeelingLucky</kbd>.</li>
+    <kbd>http://www.google.com/search?q=<strong>%s</strong>&amp;btnI=I&apos;mFeelingLucky</kbd>.</li>
   <li>Vložte klíčové slovo do pole Klíčové slovo.</li>
   <li>Pojmenujte záložku a zvolte její umístění.</li>
   <li>Zavřete dialog.</li>
@@ -1097,7 +1017,9 @@ do adresního řádku <kbd><var>klíčové slovo</var> <var>hledaný řetězec</
 
 <h2 id="getting_the_latest_software_automatically">Automatické získávání nejnovějšího softwaru</h2>
 
-<p>&brandShortName; může informovat a kontrolovat, jestli jsou k dispozici softwarové aktualizace a může tyto aktualizace automaticky nainstalovat. Může též informovat, když je dostupná nová verze aplikace &brandShortName;.</p>
+<p>&brandShortName; může informovat a kontrolovat, jestli jsou k dispozici softwarové 
+aktualizace a může tyto aktualizace automaticky nainstalovat. Může též informovat, když jsou 
+dostupné nové verze aplikace &brandShortName; a instalovaných zásuvných modulů.</p>
 
 <p>Pro nastavení automatické aktualizace nahlédněte do kapitoly <a href="cs_nav_prefs_advanced.xhtml#software_installation">Aktualizace vybavení</a>.</p>
 
@@ -1157,39 +1079,6 @@ do adresního řádku <kbd><var>klíčové slovo</var> <var>hledaný řetězec</
 <p>Způsob, jakým má &brandShortName; spravovat různé typy souborů a protokolů, si můžete manuálně nastavit. Pro bližší informace nahlédněte do kapitoly <a href="cs_nav_prefs_advanced.xhtml#system">Systém</a>.</p>
 
 <p>[<a href="#improving_speed_and_efficiency">Návrat na začátek sekce</a>]</p>
-
-<h2 id="using_quick_launch">Používání Rychlého spuštění</h2>
-
-<p>Rychlé spuštění zkracuje čas potřebný pro nastartování aplikace &brandShortName;. Pokud je Rychlé spuštění aktivované, v systémové liště (blízko hodin) se objeví ikona aplikace &brandShortName;.</p>
-
-<table summary="table for images">
-  <tr>
-    <td><img src="chrome://communicator/skin/icons/turbo-systray.gif"
-      alt="Ikona rychlého spuštění"/></td>
-  </tr>
-  <tr>
-    <td><strong>Ikona Rychlé spuštění aplikace &brandShortName;</strong></td>
-  </tr>
-</table>
-
-<p><strong>Tip</strong>: Pro rychlé spuštění komponent (například okna Editor, Pošta &amp; Diskusní skupiny a Adresář), klepněte pravým tlačítkem myši na ikonu aplikace &brandShortName; vedle hodin a klepněte na položku v místní nápovědě.</p>
-
-<p>Rychlý start se dá povolit už při instalaci aplikace &brandShortName;. Jestliže je Rychlé spuštění povolené, spouští se při startu operačního systému Windows (a každého nastartování prvního okna aplikace &brandShortName;). Rychlé spuštění umožňuje aplikaci &brandShortName; i po vypnutí všech oken stále zůstávat v paměti. Toto umožňuje rychlý start bez nutnosti načítání celé aplikace. Když má váš počítač málo paměti, můžete Rychlé spuštění dočasně nebo natrvalo zakázat a tím ušetřit paměť.</p>
-
-<p>Pro povolení nebo zakázání Rychlého spuštění aplikace &brandShortName;:</p>
-
-<ol>
-  <li>Otevřete nabídku Úpravy a klepněte na položku Předvolby.</li>
-  <li>Klepněte na kategorii Rozšířené nastavení.</li>
-  <li>Vyberte zaškrtávací políčko <q>Ponechat aplikaci &brandShortName; v paměti pro zrychlení při spuštění</q> pro zapnutí Rychlého spuštění nebo volbu odznačte pro vypnutí Rychlého spuštění.</li>
-  <li>Klepněte na tlačítko OK.
-
-    <p><strong>Tip</strong>: Pro rychlé vypnutí Rychlého spuštění klepněte pravým tlačítkem myši na ikonu aplikace &brandShortName; v systémové liště (blízko hodin) a v místní nápovědě klepněte na položku <q>Zakázat rychlé spuštění</q>.</p>
-
-  </li>
-</ol>
-
-<p>[<a href="#improving_speed_and_efficiency">Návrat na začátek sekce</a>]</p>
 </div>
 
 <h1 id="proxies">Proxy servery</h1>
@@ -1246,7 +1135,7 @@ do adresního řádku <kbd><var>klíčové slovo</var> <var>hledaný řetězec</
 
 <p>[<a href="#proxies">Návrat na začátek sekce</a>]</p>
 
-<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+<p>&copyright.string;</p>
 
 </body>
 </html>

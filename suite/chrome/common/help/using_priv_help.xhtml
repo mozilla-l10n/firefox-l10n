@@ -9,7 +9,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>Nastavení Soukromí a jeho použití</title>
-<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+<link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
@@ -33,7 +33,6 @@ je uložené na vašem počítači. Pro další informace o Cookies se podívejt
   <li><a href="#managing_cookies_site-by-site">Správa cookies stránku-po-stránce</a></li>
   <li><a href="#viewing_cookies">Prohlížení cookies</a></li>
   <li><a href="#removing_cookies">Odstranění cookies</a></li>
-  <li><a href="#setting_privacy_levels">Nastavení úrovně soukromí</a></li>
   <li><a href="#cookie_manager_settings">Nastavení správce cookies</a></li>
 </ul>
 </div>
@@ -138,34 +137,6 @@ Přednastaveno je <q>Povolit všechny cookies</q>.</p>
 
 <p>[<a href="#using_the_cookie_manager">Návrat na začátek kapitoly</a>]</p>
 
-<h2 id="setting_privacy_levels">Nastavení úrovně soukromí</h2>
-
-<p>Mnoho stránek vyvíjí a uvolňuje jejich nastavení soukromí založené na standardu P3P (Platform for Privacy Preferences). Následující informace jsou proto platné pouze pro stránky, které využívají nastavení soukromí založené na standardu P3P a pro implementaci tohoto standardu v Prohlížeči &brandShortName;. Implementace v Prohlížeči nemusí být ve všech směrech identická se standardem publikovaným konsorciem W3C.</p>
-
-<p>P3P nastavení soukromí popisuje, standardizovanou cestou, jaký typ informací stránka shromažďuje, komu je předává a jak je používá. Pro prohlížení nastavení soukromí jednotlivých stránek se podívejte na <a href="#viewing_privacy_policies">Prohlížení pravidel soukromí</a>.</p>
-
-<p>Implementace P3P v aplikaci &brandShortName; definuje tři úrovně soukromí: nízkou, střední a vysokou (přednastavena je střední). Podle toho jaké typy cookies chcete přijímat můžete nastavit úroveň soukromí, buď pomocí těchto přednastavených hodnot nebo si nadefinovat vlastní. Pokud pak stránka umí pracovat s P3P, Prohlížeč porovná vaše nastavení a nastavení stránky a pošle pouze odpovídající cookies.</p>
-
-<p>Např. vaše nastavení soukromí vyžaduje, aby byly odmítány žádosti o cookies s vašimi osobními údaji bez vašeho vědomí. Můžete tedy nastavit soukromí vašeho Prohlížeče tak že vás pouze varuje, pokud by mohl být cookie takto použit.</p>
-
-<p>Pro nastavení soukromí, které má Prohlížeč dodržovat pro všechny stránky:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Cookies. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
-  <li>Vyberte přepínač <q>Povolit cookies na základě nastavení soukromí</q>.</li>
-  <li>Klepněte na tlačítko Zobrazit.</li>
-  <li>V dialogovém okně Nastavení soukromí vyberte úroveň nastavení soukromí, nebo vyberte přepínač <q>Vlastní</q> a specifikujte vaše vlastní nastavení soukromí, jak je popsáno níže.</li>
-  <li>Klepněte na tlačítko OK, abyste vaše nastavení potvrdili.</li>
-</ol>
-
-<p>Váš Prohlížeč bude pracovat s cookies podle vašeho nastavení. Jestliže nevyberete preferované nastavení bude použit přednastavený přepínač Střední. Podrobnější informace o přednastavených hodnotách najdete v <a href="#privacy_settings">Nastavení soukromí</a>.</p>
-
-<p>Pokud zvolíte přepínač <q>Vlastní</q>, můžete podrobně specifikovat vaše vlastní nastavení soukromí. V závislosti na nastavení P3P stránky, která žádá o uložení cookie a v závislosti na tom jestli stránku právě prohlížíte nebo ne, můžete vybrat z rozbalovacího seznamu zda má Správce cookies toto cookies Přijmout, Odmítnout, přijmout pouze pro toto Sezení (to je do ukončení Prohlížeče), nebo ho jen Označit.</p>
-
-<p>Pokud vyberete Odmítnout, Označit nebo Sezení pro danou kategorii cookies, Správce cookies zobrazí notifikační ikonu (<img alt="cookie notification icon" src="chrome://cookie/content/taskbar-cookie.gif"/>) v pravém dolním rohu okna Prohlížeče pokaždé, když cookies ze stránky budou vyhovovat dané kategorii. Pokud je tato ikona zobrazena, můžete na ni kliknout a tak získáte informace o příslušných cookies.</p>
-
-<p><q>Původní soubory cookies</q> jsou cookies uložené stránkou kterou prohlížíte, <q>Cookies třetích stran</q>, také známé jako <a href="privacy_help.xhtml#what_are_third-party_cookies">cizí cookies</a>, jsou cookies uložená stránkou kterou neprohlížíte.</p>
 
 <p>Více informací v <a href="#privacy_settings">Nastavení soukromí</a>.</p>
 
@@ -182,7 +153,6 @@ Přednastaveno je <q>Povolit všechny cookies</q>.</p>
   <li><a href="#cookies">Soukromí &amp; zabezpečení - Cookies</a></li>
   <li><a href="#stored_cookies">Uložené cookies</a></li>
   <li><a href="#cookie_sites">Nastavení webových serverů</a></li>
-  <li><a href="#privacy_settings">Nastavení soukromí</a></li>
   <li><a href="#cookie_notification">Upozorňování na cookie</a></li>
 </ul>
 </div>
@@ -203,7 +173,6 @@ Přednastaveno je <q>Povolit všechny cookies</q>.</p>
 <ul>
   <li><strong>Blokovat cookies</strong>: Vyberte, pokud chcete zakázat přijmutí všech souborů cookie.</li>
   <li><strong>Povolit pouze cookies pro zdrojový server</strong>: Vyberte, pokud nechcete přijímat ani odesílat cookies <a href="privacy_help.xhtml#what_are_third-party_cookies">cizím stránkám</a>.</li>
-  <li><strong>Povolit cookies na základě nastavení soukromí</strong>: Vyberte, pokud chcete s cookies zacházet na základě vašich pravidel. Klepněte na tlačítko Zobrazit nastavení soukromí a potvrďte nebo upravte dané nastavení soukromí.</li>
   <li><strong>Povolit všechny cookies</strong>: Toto je výchozí volba. Vyberte, pokud chcete povolit práci s cookies od všech serverů, které nejsou přímo zakázány.</li>
 </ul>
 
@@ -226,7 +195,7 @@ Pokud například povolíte serveru nastavit cookies, může je nastavit, i kdy�
 <p>Více informací o uložených cookies můžete získat:</p>
 
 <ul>
-  <li><strong>Zobrazit uložené soubory cookie</strong>: Klepnutím na toto tlačítko se zobrazí Správce cookies s podrobnými informacemi o cookies uložených na vašem počítači a stránkami které s nimi mohou pracovat.</li>
+  <li><strong>Správce cookies</strong>: Klepnutím na toto tlačítko se zobrazí Správce cookies s podrobnými informacemi o cookies uložených na vašem počítači a stránkami které s nimi mohou pracovat.</li>
 </ul>
 
 <h2 id="stored_cookies">Uložené cookies</h2>
@@ -240,8 +209,6 @@ Pokud například povolíte serveru nastavit cookies, může je nastavit, i kdy�
 
 <p>Panel Uložené cookies zobrazuje seznam všech cookies uložených na počítači, dále stránku, ke které cookie patří a aktuální stav cookie.</p>
 
-<p>Pokud nevidíte sloupec Stav, klepněte na ikonu v pravém horním rohu tabulky a klepněte na položku Stav. Tento sloupec indikuje, která cookie byla označena nebo přijata na základě vašeho <a href="#privacy_settings">nastavení soukromí</a>.</p>
-
 <p>Vybrání cookie v tomto seznamu zobrazí ve spodní části následující informace:</p>
 
 <table class="defaultTable">
@@ -251,12 +218,12 @@ Pokud například povolíte serveru nastavit cookies, může je nastavit, i kdy�
     <th>Vysvětlivka</th>
   </tr>
 </thead>
-<tbody>
+<tbody class="tbody-default">
   <tr>
     <td>Název cookie</td>
     <td>Jméno přiřazené souboru cookie jeho původcem.</td>
   </tr>
-  <tr class="even">
+  <tr>
     <td>Data uložená v cookie</td>
     <td>Řetězec znaků obsahujících informaci kterou si stránka uložila. Může obsahovat uživatelské klíče, nebo jméno, kterým se na webu identifikujete, informace o vašich zájmech a pod.</td>
   </tr>
@@ -269,7 +236,7 @@ Pokud například povolíte serveru nastavit cookies, může je nastavit, i kdy�
       <p><strong>Doménový</strong> cookie se posílá zpět jakékoli stránce, která je ve stejné doméně. Doména stránky tedy musí být v URL shodná s doménou cookie, např. doména organizace, firmy nebo školy &mdash; jako netscape.com nebo washington.org.</p>
     </td>
   </tr>
-  <tr class="even">
+  <tr>
     <td>Cesta</td>
     <td>Cesta k souboru. Toto pole je použito pouze pokud má být cookie poslán zpět všem stránkám, které se nacházejí na stejné cestě, nebo níže. Např. <tt>http://a.b/x/y/z.html</tt> znamená, že cookie může být poslán i stránce <tt>x/</tt>.</td>
   </tr>
@@ -277,7 +244,7 @@ Pokud například povolíte serveru nastavit cookies, může je nastavit, i kdy�
     <td>Omezení na</td>
     <td>Toto pole určuje zda bude Prohlížeč kontrolovat zda je spojení zabezpečené před tím než začne pracovat s cookie. (HTTPS).</td>
   </tr>
-  <tr class="even">
+  <tr>
     <td>Platnost cookie vyprší</td>
     <td>Datum a čas, kdy bude cookie deaktivován. Prohlížeč pravidelně odstraňuje cookies s prošlou lhůtou z vašeho počítače.</td>
   </tr>
@@ -339,91 +306,6 @@ Pokud například povolíte serveru nastavit cookies, může je nastavit, i kdy�
 </ul>
 
 <p>Jakmile jednou odeberete server z tohoto seznamu, Správce cookies si o něm nebude nic pamatovat. Pokud máte nastaveno <q>Ptát se pro každou cookie</q>, budete upozorněni, pokud jakýkoliv server, neuvedený na tomto seznamu, bude požadovat povolení stanovit cookie.</p>
-
-<h2 id="privacy_settings">Nastavení soukromí</h2>
-
-<p>Tato sekce popisuje jak používat Nastavení soukromí. Pokud podkategorii pro nastavení nevidíte, postupujte následovně:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Cookies. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
-  <li>Vyberte přepínač <q>Povolit cookies na základě nastavení soukromí</q>.</li>
-  <li>Klepněte na tlačítko Zobrazit nastavení soukromí.</li>
-</ol>
-
-<p>Další informace jak používat <a href="#setting_privacy_levels">nastavení úrovně soukromí</a>.</p>
-
-<div class="contentsBox">V této sekci:
-<ul>
-  <li><a href="#level_of_privacy">Úroveň soukromí</a></li>
-  <li><a href="#cookie_acceptance_policy">Pravidla pro uznávání cookie</a></li>
-</ul>
-</div>
-
-<h3 id="level_of_privacy">Úroveň soukromí</h3>
-
-<p>Úroveň soukromí, kterou zde nastavíte, určuje jak se Prohlížeč vypořádá se soubory cookie. Rozhodování je založeno na informaci kterou stránka deklaruje podle P3P standardu a na tom jaké nastavení máte u Původních souborů cookie a i Cookies třetích stran.</p>
-
-<p><q>Původní soubory cookies</q> jsou takové, které nastavila stránka kterou prohlížíte. <q>Cookies třetích stran</q>, také známé jako <a href="privacy_help.xhtml#what_are_third-party_cookies">cizí cookies</a>, jsou přijaty od stránek jiných než od té, kterou prohlížíte.</p>
-
-<p>Vybrat si můžete z následujících úrovní:</p>
-
-<ul>
-  <li><strong>nízká</strong>: Vyberte tento přepínač pokud chcete přijímat všechny původní cookie bez ohledu na nastavení soukromí. 
-
-    <p>Při tomto nastavení přijímá Prohlížeč všechny cookies třetích stran, ale <strong>označuje</strong> je pokud je to možné, že pocházejí ze stránek, které se zdají že sbírají osobní informace bez vašeho svolení. Označené cookies jsou vypsány jako <q>Označené</q> ve sloupci Stav v Správci cookies, panelu <a href="#stored_cookies">Uložené cookies</a>.</p>
-
-    <p>Když je cookie poprvé označen, Správce cookies zobrazí ikonku (<img alt="ikona upozorňující na cookie" src="chrome://cookie/content/taskbar-cookie.gif"/>) v pravém dolním rohu okna Prohlížeče. Můžete na ni klepnout, pokud se chcete dozvědět detaily o označeném cookie.</p>
-
-  </li>
-  <li><strong>střední</strong>: Vyberte, pokud chcete přijmout a označit jak původní cookie, tak cookie třetí strany, které by mohly shromažďovat osobní informace bez vašeho svolení. Toto je předvolené nastavení.</li>
-  <li><strong>vysoká</strong>: Vyberte, pokud chcete stejná nastavení jako u střední úrovně s těmito rozdíly:
-    <ul>
-      <li>Odmítnout cookies třetích stran, které by mohli shromažďovat informace o vás, bez vašeho svolení.</li>
-      <li>Dočasně (do ukončení Prohlížeče) přijmout cookie třetích stran, které by mohli shromažďovat informace o vás bez vašeho souhlasu, ale webová stránka nebo jiný mechanismus vám umožňuje dát souhlas s použitím údajů.</li>
-    </ul>
-  </li>
-  <li><strong>vlastní</strong>: Vyberte, pokud chcete nastavit vlastní pravidla pro přijímání cookies. Předvolená nastavení pro <q>vlastní</q> jsou stejná jako nastavení které jste vybrali posledně. Můžete je upravit výběrem z rozbalovacího seznamu.</li>
-</ul>
-
-<p>Pro přesné pochopení významu každého nastavení soukromí, vyberte určitý přepínač Úrovně soukromí a sledujte jeho vliv na zacházení s cookies (viz. dále).</p>
-
-<h3 id="cookie_acceptance_policy">Pravidla pro uznávání cookie</h3>
-
-<p>Pokud vyberete nastavení <strong>vlastní</strong>, můžete vybrat jedno ze čtyř nastavení z rozbalovacího seznamu v každé z osmi kategorií. Tato nastavení určují chování Správce cookies následovně:</p>
-
-<ul>
-  <li><strong>Přijmout</strong>: Přijme všechny cookies z této kategorie.</li>
-  <li><strong>Sezení</strong>: Přijme všechny soubory cookie z této kategorie pouze pro toto sezení, tzn. jsou platné do ukončení Prohlížeče.</li>
-  <li><strong>Odmítnout</strong>: Odmítne všechny soubory cookie z této kategorie.</li>
-  <li><strong>Označit</strong>: Zobrazí cookie v panelu <a href="#stored_cookies">Uložené cookies</a> dialogového okna Správce cookies jako <q>označený</q> a zobrazí upozorňovací ikonu.</li>
-</ul>
-
-<p>Upozorňovací ikona (<img alt="ikona upozorňující na cookie" src="chrome://cookie/content/taskbar-cookie.gif"/>) se zobrazuje v pravém dolním rohu okna Prohlížeče. Po klepnutí na ni získáte podrobné informace o cookie a můžete měnit svá nastavená pravidla pro soukromí.</p>
-
-<p>Stránky a servery jsou rozděleny do čtyř kategorií, pro každý ze dvou typů (Původní soubory cookies, Cookies třetích stran):</p>
-
-<ul>
-  <li><strong>Stránka nemá žádná pravidla pro soukromí</strong>: Stránka nezveřejnila žádná pravidla soukromí. Neexistuje způsob jak zjistit za jakým účelem a jaký typ informace stránka shromažďuje.</li>
-  <li><strong>Stránka sbírá osobně identifikovatelné informace bez vašeho vědomí</strong>: Stránka zveřejnila pravidla, ale nezeptala se vás zda smí vaše osobní údaje shromažďovat.</li>
-  <li><strong>Stránka sbírá osobně identifikovatelné informace pouze s vaším implicitním svolením</strong>: Stránka o vás nesbírá informace aniž byste na stránku přišli (nebo použili jiný mechanismus) a tím vyjádřili, že se sbíráním údajů souhlasíte.</li>
-  <li><strong>Stránka sbírá osobně identifikovatelné informace pouze s vaším přímým souhlasem</strong>: Stránka nebude sbírat osobní údaje, pouze pokud s tím výslovně souhlasíte.</li>
-</ul>
-
-<h2 id="cookie_notification">Upozorňování na cookie</h2>
-
-<p>Ikona upozorňující na cookie (<img alt="ikona upozorňující na cookie" src="chrome://cookie/content/taskbar-cookie.gif"/>) se zobrazuje ve Stavovém řádku v pravém dolním rohu okna Prohlížeče. Objeví se vždy pokud stránka použije cookie způsobem o kterém jste si, podle vašeho <a href="#privacy_settings">nastavení soukromí</a>, přáli být informováni.</p>
-
-<p>Tato sekce popisuje, jak používat dialogové okno Informace o souborech cookie, který se zobrazí po klepnutí na upozorňovací ikonu. Z dialogového okna lze provádět následující akce:</p>
-
-<ul>
-  <li><strong>Povolit všechny cookies</strong>: Klepněte na toto tlačítko pro zrušení používání pravidel pro zacházení s cookies. Význam tohoto tlačítka je stejný jako když v <a href="#cookies">Soukromí &amp;zabezpečení - Cookies</a> nastavíte <q>Povolit všechny cookies</q>. Tzn. pokud provedete tuto akci, bude Prohlížeč přijímat všechny cookies.</li>
-  <li><strong>Zobrazit správce cookies</strong>: Klepněte na toto tlačítko, aby se vám otevřel Správce cookies, kde můžete prohlížet Stav všech cookie a najít cookie, který způsobil objevení upozorňovací ikony.</li>
-  <li><strong>Zobrazit nastavení soukromí</strong>: Klepněte na toto tlačítko, aby se vám otevřelo dialogové okno Nastavení soukromí. Nastavení v tomto dialogovém okně určuje jakým způsobem mohou webové stránky používat cookies na vašem počítači a jaké akce způsobí, že se zobrazí upozorňovací ikona.</li>
-  <li><strong>Zavřít</strong>: Na toto tlačítko klepněte, pokud chcete opustit dialogové okno Informace o souborech cookie bez toho, abyste něco změnili.</li>
-</ul>
-
-<p>Další informace o použití nastavení soukromí najdete v <a href="#setting_privacy_levels">Nastavení úrovně soukromí</a>.</p>
 
 <h1 id="using_the_password_manager">Používání Správce hesel</h1>
 
@@ -523,340 +405,9 @@ Pokud například povolíte serveru nastavit cookies, může je nastavit, i kdy�
 
 <p>[<a href="#using_the_password_manager">Návrat na začátek kapitoly</a>]</p>
 
-<h1 id="using_the_form_manager">Použití Správce formulářů</h1>
-
-<p>Mnoho webových stránek obsahuje formuláře, které musíte vyplňovat. Např. formuláře v internetových obchodech, informačních databázích, bankách a pod.</p>
-
-<p>Správce formulářů může data, která často vkládáte, jako např. vaše jméno, adresu, telefon, čísla kreditních karet a pod. uchovat na vašem pevném disku. Poté, když se opět dostanete na stránku s tímto formulářem, Správce formulářů ho může automaticky vyplnit.</p>
-
-<div class="contentsBox">V této kapitole:
-<ul>
-  <li><a href="#saving_form_data">Ukládání dat formulářů</a></li>
-  <li><a href="#filling_out_forms_automatically">Automatické vyplňování formulářů</a></li>
-  <li><a href="#turning_off_form_manager_notification">Vypnutí správce formulářů</a></li>
-  <li><a href="#managing_stored_form_data">Správa uložených formulářových dat</a></li>
-  <li><a href="#editing_stored_site_information">Editace informací o serverech</a></li>
-  <li><a href="#viewing_privacy_policies">Prohlížení pravidel soukromí</a></li>
-  <li><a href="#form_settings">Nastavení formulářů</a></li>
-</ul>
-</div>
-
-<h2 id="saving_form_data">Ukládání dat formulářů</h2>
-
-<p>Přednastaveno je, aby se vás správce formulářů vždy, když klepnete u formuláře na tlačítko Uložit/Vložit/Odeslat a pod. zeptal, zda chcete data která jste právě vložili uschovat ve Správci formulářů. Brzy pak již bude Správce formulářů schopen doplňovat za vás data automaticky.</p>
-
-<p>Existují dva způsoby jak ukládat osobní data:</p>
-
-<ul>
-  <li>Pokaždé když odešlete nějaký formulář, který obsahuje daný typ informací, jako např. jméno a adresu, správce se zeptá, jestli chcete tyto informace uschovat. Klepněte na tlačítko Ano. 
-
-    <p>Je třeba mít na paměti, že správce se zeptá jen tehdy, pokud je automatické upozorňování zapnuto. (Správce je po instalaci zapnut.) Pro další informace se podívejte do <a href="#turning_off_form_manager_notification">Vypnutí správce formulářů</a>.</p>
-
-  </li>
-  <li>Potom co vyplníte data do formuláře, ale ještě před tím než je odešlete, otevřete nabídku Úpravy a klepněte na položku Uložit položky formuláře.</li>
-</ul>
-
-<p>Pokud se vás Správce formulářů zeptá, zda chcete uložit položky, které jste vyplnili ve formuláři (nastává první situace popsaná výše), dá vám na výběr tři možnosti:</p>
-
-<ul>
-  <li><strong>Ano</strong>: Klepněte na toto tlačítko pro uložení informací, které jste vložili. V budoucnu můžete automaticky vyplnit formulář, který vyžaduje stejné informace.</li>
-  <li><strong>Nikdy pro tento server</strong>: Klepněte na toto tlačítko pokud nechcete, aby se vás v budoucnu Správce formulářů opět na této stránce ptal, zda chcete informace uložit. 
-
-    <p>Důvody pro to mohou být např. to, že si přejete vždy vkládat citlivé informace ručně. Pokud v budoucnu změníte názor, podívejte se do <a href="#editing_stored_site_information">Editace informací o serverech</a>, kde můžete toto nastavení změnit.</p>
-
-  </li>
-  <li><strong>Ne</strong>: Správce formulářů neuloží informace, které jste zadali, ale příště, až na této stránce údaje vyplníte, tak se opět zeptá.</li>
-</ul>
-
-<p>Správce formulářů ukládá vaše údaje na vašem počítači v souboru, který je pro případného záškodníka obtížné, nikoli ale nemožné, přečíst. Podívejte se do sekce <a href="#encrypting_stored_sensitive_information">Šifrování citlivých informací</a> jak ochránit vaše údaje pomocí kryptovacích technologií.</p>
-
-<p>[<a href="#using_the_form_manager">Návrat na začátek kapitoly</a>]</p>
-
-<h2 id="filling_out_forms_automatically">Automatické vyplňování formulářů</h2>
-
-<p>Správce formulářů může být použit k automatickému vyplňování formulářů dvěma způsoby: buď po políčkách, nebo pro vyplnění více políček najednou. V obou případech ale není informace posílána přímo serveru dokud nestisknete tlačítko pro odeslání formuláře.</p>
-
-<p>Pro automatické vyplnění jednoho políčka ve formuláři na něj dvakrát klepněte. Pokud správce formulářů zná údaj, který se má vkládat, tak ho doplní. Samozřejmě můžete poté vložená data editovat.</p>
-
-<p>Pro vyplnění více políček ve formuláři najednou:</p>
-
-<ol>
-  <li>Najděte formulář, který chcete vyplnit.</li>
-  <li>Otevřete nabídku Úpravy a klepněte na položku Předvyplnit formulář. 
-
-    <p>Pokud Správce formulářů zatím nemá uloženy žádné informace položka Předvyplnit formulář nebude přístupná.</p>
-
-  </li>
-  <li>Objeví se dialogové okno nazvané Vyplnit data do formuláře (pokud jste již v minulosti nevybrali, aby se pro tento server přeskakovalo vyplňování). V tomto dialogovém okně vám Správce ukáže, jaká data se chystá předvyplnit. Dialogové okno lze použít následovně:
-    <ul>
-      <li>Aby se položka formuláře nevyplňovala automaticky, zrušte zaškrtávací políčko vedle ní.</li>
-      <li>Aby se automaticky nevyplnila žádná položka, klepněte na tlačítko Zrušit.</li>
-    </ul>
-
-    <p><strong>Důležité</strong>: Můžete také vybrat přeskočení tohoto dialogového okna v budoucnu. Pokud tak učiníte, riskujete, že budou vyplněny informace (např. číslo kreditní karty), které nechcete. Viz. níže.</p>
-  </li>
-  <li>Klepněte na tlačítko OK pro potvrzení výběru. Správce formulářů poté vyplní formulář podle vašeho přání.
-
-    <p>Formulář je nyní vyplněn podle uložených informací. Stále ale může být potřeba některé informace doplnit. Žádná data nejsou odeslána do té doby, dokud k tomu nedáte pokyn stiskem tlačítka Odeslat, nebo nějakého podobného.</p>
-
-  </li>
-</ol>
-
-<p>Dialogové okno Vyplnit data do formuláře je důležitý z následujících dvou důvodů:</p>
-
-<ul>
-  <li>Pomůže vám pomoci upozornit vás na vyplnění nepřijatelných dat na stránkách, které shromažďují údaje, které nechcete poskytnout. 
-
-    <p>Například, některé stránky schovávají položky formulářů. Tak se může stát, že nevědomky automaticky předvyplníte např. číslo kreditní karty. Pokud tedy neprovedete kontrolu v tomto dialogovém okně, můžete číslo kreditní karty poskytnout takovému serveru bez vašeho vědomí. Naopak dialogové okno Vyplnit data do formuláře vám umožní vidět všechny hodnoty, které budou serveru poskytnuty a tím odhalit tento trik.</p>
-
-  </li>
-  <li>Dovoluje vám vybrat z více hodnot pro dané pole.</li>
-</ul>
-
-<p>Podrobný popis dialogového okna Vyplnit data do formuláře najdete v sekci <a href="#prefill_form_data">Předvyplnit data formulářů</a>.</p>
-
-<p>[<a href="#using_the_form_manager">Návrat na začátek kapitoly</a>]</p>
-
-<h2 id="turning_off_form_manager_notification">Vypnutí správce formulářů</h2>
-
-<p>Správce formulářů je nastaven tak, aby se ptal zda má uložit informace pokaždé, když je odešlete v nějakém online formuláři. Abyste zrušili zobrazování tohoto dialogového okna, postupujte následovně:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Formuláře. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
-  <li>V sekci Správce formulářů, odstraňte zvolení zaškrtávacího políčka <q>Uložit data z webových stránek při odeslání formuláře.</q></li>
-</ol>
-
-<p>Vypnutí této volby znamená, že Správce formulářů se vás přestane ptát na ukládání dat, nevypnete ale Správce formulářů zcela. Data, která již posbíral jsou stále dostupná.</p>
-
-<p>Stále můžete v nabídce Úpravy kdykoli klepnout na položku Uložit položky formuláře, abyste uložili informace z formuláře, nebo klepnout na položku Předvyplnit formulář (nebo klepnout dvakrát na každém editačním poli), aby se formulář vyplnil automaticky.</p>
-
-<p>[<a href="#using_the_form_manager">Návrat na začátek kapitoly</a>]</p>
-
-<h2 id="managing_stored_form_data">Správa uložených formulářových dat</h2>
-
-<p>K prohlížení a úpravám dat která uschoval správce formulářů:</p>
-
-<ol>
-  <li>Otevřete nabídku Úpravy <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Formuláře. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
-  <li>Klepněte na tlačítko Správa uložených dat formuláře.</li>
-</ol>
-
-<p>Objeví se dialogové okno Správce formulářů, který slouží k úpravě dat. Prohlížet a upravovat lze položky nalevo poté co na ně klepnete. Zobrazit další podkategorie, které nejsou viditelné lze dvojklepnutím na kategorii.</p>
-
-<p>Přidat informace, které zatím nejsou vloženy v jednom z rozbalovacích seznamů napravo, lze zvolením prázdné položky a jejím vyplněním. Stejně tak můžete změnit nebo smazat existující text.</p>
-
-<p>Poslední kategorie na levé straně, Ostatní informace, obsahuje dva speciální druhy položek:</p>
-
-<ul>
-  <li><strong>Spojení</strong>: zobrazuje data uložená v jedné položce jako dvě nebo více položek. Například data uložená jako Plné jméno, které se skládá ze dvou, křestního jméno i příjmení, se zde zobrazí jako jedna položka.</li>
-  <li><strong>Upřesnění umístění</strong>: zobrazuje položky a hodnoty, které jsou použitelné pouze na stránkách a serverech kde jste je zadali.</li>
-</ul>
-
-<p>[<a href="#using_the_form_manager">Návrat na začátek kapitoly</a>]</p>
-
-<h2 id="editing_stored_site_information">Editace informací o serverech</h2>
-
-<p>Jak bylo vysvětleno v sekci <a href="#saving_form_data">Ukládání dat formulářů</a>, když se vás Správce formulářů zeptá zda má uložit data formuláře, můžete si vybrat <q>Nikdy pro tento server</q>. Stejně tak si můžete nechat zobrazit dialogové okno Vyplnit data do formuláře, podle toho na jaké stránce jste.</p>
-
-<p>Správce formulářů vám umožňuje kdykoli změnit vaše rozhodnutí. Abyste si mohli prohlédnout informace podle serverů postupujte následovně:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Formuláře. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
-  <li>Klepněte na tlačítko Správa formulářů.</li>
-</ol>
-
-<p>Objeví se dialogové okno Správce formulářů:</p>
-
-<ul>
-  <li>Panel Formuláře bez náhledu ukazuje servery pro které jste se rozhodli, že nechcete zobrazovat dialogové okno Vyplnit data do formuláře.</li>
-  <li>Panel Neuložené formuláře ukazuje servery pro které jste odpověděli, že nechcete aby z nich Správce formulářů ukládal data.</li>
-</ul>
-
-<p>Odebrat server ze seznamu, a tím se vrátit k původnímu chování můžete tak, že vyberete server a klepnete na tlačítko Odebrat.
-Další informace v sekci <a href="#form_manager_sites">Správce formulářů - Servery</a>.</p>
-
-<p>[<a href="#using_the_form_manager">Návrat na začátek kapitoly</a>]</p>
-
-<h2 id="viewing_privacy_policies">Prohlížení pravidel soukromí</h2>
-
-<p>Pokud se rozhodnete na stránce vyplňovat osobní údaje jako vaše jméno, telefon, nebo e-mailovou adresu, a nebo pokud stránka vyžaduje vaše osobní údaje jinou cestou, musíte si uvědomit, že server může použít data pro své vlastní záměry (např. zaslat vám zboží, které nechcete nebo pozměnit stránky tak, aby se vám podbízeli) a může tyto informace též sdílet s někým dalším.</p>
-
-<p>Proto, než vyplníte své osobní údaje do jakéhokoli online formuláře, musíte si dobře rozmyslet, zda serveru důvěřujete &mdash; stejně jako se rozhodujete zda důvěřovat nebo ne různým letákovým prodejům, než jim poskytnete číslo své kreditní karty.</p>
-
-<p>Jedna z cest jak si ověřit důvěryhodnost serveru je prohlédnout si jeho deklarovaná pravidla soukromí. Servery by měli zveřejňovat svůj postoj k nakládání se soukromými daty online nejlépe na základě standardu P3P (Platform for Privacy Preference) a na základě implementace dostupné v Prohlížeči.</p>
-
-<p>Pravidla soukromí která stránka zveřejňuje, určují jaký typ informací server sbírá, komu je předává a jak je používá. Stránka by měla uvádět tato pravidla jak v člověku srozumitelné podobě, tak v podobě která je interpretována Prohlížečem, kterému umožňuje aplikovat <a href="#privacy_settings">Nastavení soukromí</a>.</p>
-
-<p>Prohlížet pravidla soukromí daná serverem lze poté, co přejdete na příslušnou stránku pomocí následujících kroků:</p>
-
-<ul>
-  <li>Otevřete nabídku Zobrazit a klepněte na položku Informace o stránce. Objeví se dialogové okno Informace o stránce.</li>
-  <li>Klepněte na panel Soukromí.</li>
-  <li>Následně klepněte na příslušná tlačítka podle toho co chcete zobrazit:
-    <ul>
-      <li><strong>Zásady</strong>: Klepněte na toto tlačítko, aby se zobrazila pravidla pro soukromí k této stránce.</li>
-      <li><strong>Souhrn</strong>: Klepněte na toto tlačítko, aby se zobrazil souhrn stránkou deklarovaných zabudovaných XML struktur, která definují pravidla velmi detailně.</li>
-      <li><strong>Volby</strong>: Klepněte na toto tlačítko, aby se zobrazily stránkou poskytované volby, kde můžete povolit nebo zamítnout poskytnutí určitého druhu informací.</li>
-    </ul>
-  </li>
-</ul>
-
-<p>Mnoho stránek je složeno z velkého množství prvků jako text, obrázky, reklamy a dalších, které mohou být poskytovány a kontrolovány různými společnostmi.</p>
-
-<p>Abyste mohli prohlížet výše popsané informace pro každý prvek zvlášť:</p>
-
-<ol>
-  <li>Dvojklepněte na kategorii. Tím se zobrazí adresy jednotlivých komponent.</li>
-  <li>Vyberte komponentu jejíž pravidla chcete zkoumat.</li>
-  <li>Klepejte na tlačítka stejně, jako bylo popsáno výše.</li>
-</ol>
-
-<p>Pro další informace o kontrolování vašeho soukromí se podívejte do sekce <a href="#setting_privacy_levels">Nastavení úrovně soukromí</a>.</p>
-
-<p>[<a href="#using_the_form_manager">Návrat na začátek kapitoly</a>]</p>
-
-<h1 id="form_settings">Nastavení formulářů</h1>
-
-<p>Pokud vyplňujete nějaký online formulář, Správce formulářů jej detekuje a když klepnete na tlačítko Odeslat, dá vám možnost uložit data, která jste vložili.</p>
-
-<p>Tato sekce popisuje nastavení, která kontrolují jak funguje Správce formulářů.</p>
-
-<p>Pro popis všech kroků jak používat tato nastavení se podívejte do sekce <a href="#using_the_form_manager">Použití správce formulářů</a>.</p>
-
-<div class="contentsBox">V této sekci:
-<ul>
-  <li><a href="#forms">Soukromí &amp; zabezpečení - Formuláře</a></li>
-  <li><a href="#form_manager_data">Správce formulářů - Data</a></li>
-  <li><a href="#form_manager_sites">Správce formulářů - Servery</a></li>
-  <li><a href="#prefill_form_data">Předvyplnění dat formulářů</a></li>
-</ul>
-</div>
-
-<h2 id="forms">Soukromí &amp; zabezpečení - Formuláře</h2>
-
-<p>Tato sekce popisuje jak používat podkategorii Formuláře v předvolbách. Pokud se na něj nedíváte postupujte následovně:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Formuláře. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
-</ol>
-
-<h3 id="form_manager">Správce formulářů</h3>
-
-<p>Pokud vyplňujete online formulář a klepnete na tlačítko Odeslat, zobrazí Správce formulářů dialogové okno, kde se vás ptá, zda chcete data která jste právě vložili, uschovat (ne všechny musí obsahovat standardní údaje jako jméno a adresu).</p>
-
-<p>Pokud aspoň občas klepnete na tlačítko Ano, Správce formulářů bude mít brzy k dispozici dostatek údajů, aby za vás mohl formuláře předvyplňovat automaticky.</p>
-
-<p>Nastavení formulářů vám umožňují:</p>
-
-<ul>
-  <li><strong>Uložit data z webových stránek při odeslání formuláře</strong>: Tato volba určuje, zda máte být dotázáni na uložení dat pokaždé, když je odešlete. Volba je přednastavena jako zapnutá. Pokud odeberete toto zaškrtávací políčko, Správce formulářů se vás na uschování dat nebude nikdy ptát. Pak již můžete položky formulářů ukládat pouze přes nabídku Úpravy a klepnutím na položku Uložit položky formuláře.
-
-    <p>Prosím uvědomte si, že vypnutí této volby znamená vypnutí upozorňování, nikoli vypnutí Správce formulářů. Data, která Správce formulářů doposud shromáždil jsou stále dostupná a můžete využívat položky Předvyplnit formulář a Uložit položky formuláře v nabídce Úpravy.</p>
-
-  </li>
-  <li><strong>Správa uložených dat formulářů</strong>: Po klepnutí na toto tlačítko můžete upravovat a prohlížet osobní údaje které jsou uschovány ve Správci formulářů. Podrobněji v <a href="#form_manager_data">Správce formulářů - Data</a>.</li>
-  <li><strong>Správa formulářů</strong>: Klepnutím na toto tlačítko otevřete informace o položkách vážících se k danému serveru. Podrobněji v <a href="#form_manager_sites">Správce formulářů - Servery</a>.</li>
-</ul>
-
-<h2 id="form_manager_data">Správce formulářů - Data</h2>
-
-<p>Tato sekce popisuje jak používat dialogové okno Správce formulářů pro úprav dat, která Správce formulářů na vaši žádost uložil. Pokud se na něj nedíváte, postupujte následovně:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Formuláře. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
-  <li>Klepněte na tlačítko Správa uložených dat formulářů.</li>
-</ol>
-
-<p>Dialogové okno Správce formulářů vám umožňuje provádět následující akce:</p>
-
-<ul>
-  <li><strong>Kategorie</strong>: Dvojklepněte na kategorii ve sloupci Kategorie a poté vyberte klepnutím podkategorii, abyste mohli prohlížet data v pravé části okna. Úpravu nebo přidání údajů proveďte klepnutím na položku a jejím vyplněním.
-
-    <p>Informaci, která není doposud v pravém rozbalovacím seznamu, můžete doplnit tak, že klepnete na prázdnou položku a vyplníte ji. Stejně tak můžete smazat nebo změnit stávající text.</p>
-
-  </li>
-  <li><strong>Odebrat vše</strong>: Klepněte na toto tlačítko pro odstranění všech uložených údajů najednou.</li>
-</ul>
-
-<p>Poslední kategorie nalevo, Ostatní informace, obsahuje data pro dvě podkategorie:</p>
-
-<ul>
-  <li><strong>Spojení</strong>: Správce formulářů zachycuje jednotlivé položky, jako křestní jméno a příjmení, a pokud je to potřeba kombinuje je. Pokud stránka vyžaduje např. celé jméno, Správce formulářů položku předvyplní pomocí položek křestní jméno a příjmení, které má již uloženy.
-
-    <p>Pokud ovšem ještě nemá vaše křestní jméno a příjmení k dispozici, uloží si po vyplnění pouze vaše celé jméno jako jednu položku, kterou uvidíte zde v podkategorii Spojení.</p>
-
-  </li>
-  <li><strong>Upřesnění umístění</strong>: Zobrazuje položky a hodnoty, které jsou použitelné pouze na stránkách a serverech kde jste je zadali.</li>
-</ul>
-
-<p>Pro podrobný popis jak používat Správce formulářů se podívejte do <a href="#using_the_form_manager">Použití Správce formulářů</a>.</p>
-
-<h2 id="form_manager_sites">Správce formulářů - Servery</h2>
-
-<p>Tato sekce popisuje jak používat dialogové okno úprav informací o serverech v Správci formulářů, které byly na vaši žádost uloženy. Pokud ho nevidíte postupujte následovně:</p>
-
-<ol>
-  <li>Otevřete nabídku Úpravy <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Formuláře. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
-  <li>Klepněte na tlačítko Správa formulářů.</li>
-</ol>
-
-<p>Okno Správce formulářů má dva panely:</p>
-
-<ul>
-  <li><strong>Formuláře bez náhledu</strong>: Klepněte na tento panel pro prohlížení serverů u kterých jste zvolili zaškrtávací políčko <q>Přeskočit tuto obrazovku při dalším předvyplňování formulářů</q> po klepnutí na položku Předvyplnit formulář v nabídce Úpravy.
-
-    <p>Pokud z tohoto seznamu odstraníte nějaký záznam, Správce formulářů vám dá opět možnost na tomto serveru kontrolovat data před jejich vložením do formuláře.</p>
-
-  </li>
-  <li><strong>Neuložené formuláře</strong>: Klepněte na tento panel, abyste viděli seznam serverů, kde jste klepnuli na tlačítko <q>Nikdy pro tento server</q> na otázku Správce formulářů, zda má data uložit.
-
-    <p>Pokud z tohoto seznamu odstraníte nějaký záznam, Správce formulářů se bude znovu ptát, zda má po odeslání formuláře uložit jeho položky (za předpokladu, že upozorňování správce formulářů je povoleno), viz <a href= "#forms">Soukromí &amp; zabezpečení - Formuláře</a>).</p>
-
-  </li>
-</ul>
-
-<p>Nezávisle na tom, který panel prohlížíte, můžete odebrat záznam se seznamu následovně:</p>
-
-<ul>
-  <li><strong>Odebrat</strong>: Vyberte jednu nebo více položek, které chcete smazat a klepněte na toto tlačítko.</li>
-  <li><strong>Odebrat vše</strong>: Klepnutím na toto tlačítko smažete všechny záznamy v panelu, který právě prohlížíte.</li>
-</ul>
-
-<p>Popis odstraňovaných záznamů naleznete v předchozích odstavcích.</p>
-
-<p>Podrobné instrukce pro práci s formulářovými daty naleznete v <a href="#using_the_form_manager">Použití Správce formulářů</a>.</p>
-
-<h2 id="prefill_form_data">Předvyplnit data formulářů</h2>
-
-<p>Tato sekce popisuje dialogové okno, které se objeví když otevřete nabídku Úpravy a klepnete na položku Předvyplnit formulář.</p>
-
-<p>Položku Předvyplnit formulář lze použít až poté, co jste použili Správce formulářů k uložení alespoň nějakých data a nyní se koukáte na stránku, která některá uložená data vyžaduje. Podrobnější instrukce jak pracovat s daty formulářů najdete v <a href="#using_the_form_manager">Použití Správce formulářů</a>.</p>
-
-<p>Dialogové okno Vyplnit data do formuláře vám dovoluje provádět následující akce:</p>
-
-<ul>
-  <li><strong>Klepnutí do editačního pole upravuje zobrazená data</strong>: Jakékoli změny zde udělané, budou použity pouze k vyplnění tohoto formuláře, ale nezmění již uložená data.</li>
-  <li><strong>Vybrat jiná/alternativní data</strong>: Klepněte na šipku vpravo u kteréhokoli políčka, tím se zobrazí rozbalovací seznam. Pokud jste již použili Správce formulářů pro uložení alternativních dat (např. jiné e-mailové adresy), jsou v tomto seznamu zobrazeny ostatní alternativy.</li>
-  <li><strong>Kontrola položek které chcete předvyplňovat</strong>: Budou automaticky vyplněny pouze položky u kterých je to zaškrtnuto. Při prvním otevření tohoto okna jsou zaškrtnuty všechny položky. Klepněte na zaškrtávací políčko pokud nechcete, aby se některé automaticky vyplňovali.</li>
-  <li><strong>Přeskočit tuto obrazovku při dalším předvyplňování formulářů</strong>: Po zaškrtnutí této volby neuvidíte při příští návštěvě tohoto serveru toto okno. Hodí se pokud často vyplňujete stejná data na stejné stránce.
-
-    <p><strong>Důležité</strong>: Pokud přeskakujete tuto obrazovku, vystavujete se riziku nechtěného vyplnění osobních údajů (jako číslo vaší kreditní karty). Podrobnosti naleznete v <a href="#filling_out_forms_automatically">Automatické vyplňování informací</a>.</p>
-
-    <p>Pokud změníte názor ohledně tohoto rozhodnutí, můžete obnovit zobrazení okna Vyplnit data do formuláře pro tuto stránku. Podrobněji v <a href="#form_manager_sites">Správce formulářů - Server</a>.</p>
-
-  </li>
-  <li><strong>Zobrazit uložená data z formuláře</strong>: Klepněte na toto tlačítko abyste mohli prohlížet nebo upravovat všechna osobní data, která má Správce formulářů uložena. Podrobněji v <a href="#form_manager_data">Správce formulářů - Data</a>.</li>
-</ul>
-
 <h1 id="encrypting_stored_sensitive_information">Šifrování citlivých informací</h1>
 
-<p>Používáte-li Správce hesel nebo Správce formulářů k uložení hesel a osobních dat, potom citlivé informace jsou uloženy na vašem počítači v souboru jenž je těžké, ale ne nemožné si přečíst.</p>
+<p>Používáte-li Správce hesel k uložení hesel, potom citlivé informace jsou uloženy na vašem počítači v souboru jenž je těžké, ale ne nemožné si přečíst.</p>
 
 <p>Například, váš počítač je v oblasti, odkud k němu může mít přístup neautorizovaná osoba. Je možné že tento člověk si přečte soubor obsahující vaše citlivé informace.</p>
 
@@ -951,9 +502,15 @@ Další informace v sekci <a href="#form_manager_sites">Správce formulářů - 
 
 <h2 id="what_to_do_if_you_forget_your_master_password">Co dělat, zapomenete-li hlavní heslo</h2>
 
-<p>Když zapomenete vaše hlavní heslo a máte zvoleno zašifrování citlivých dat (podívejte se na <a href="#encrypting_stored_sensitive_information">Šifrování citlivých informací</a>), nebudete schopni přistoupit k jakémukoli uloženému heslu a datům formulářů (za předpokladu zašifrování těchto dat). Vaše hlavní heslo je nejdůležitější heslo. Zapamatujte si ho nebo uložte na bezpečné místo.</p>
+<p>Když zapomenete vaše hlavní heslo a máte zvoleno zašifrování citlivých dat 
+(podívejte se na <a href="#encrypting_stored_sensitive_information">
+Šifrování citlivých informací</a>), nebudete schopni přistoupit k jakémukoli uloženému heslu  (za předpokladu 
+zašifrování těchto dat). Vaše hlavní heslo je nejdůležitější heslo. Zapamatujte si ho nebo uložte na bezpečné místo.</p>
 
-<p>Jako poslední možnost, pokud si na heslo nemůžete vzpomenout, je znovu ho nastavit. Avšak obnovením hlavního hesla ztratíte všechna uložená hesla z webový stránek a emailů, vyplněná data z formulářů, která jsou uložena ve Správcích hesel a formulářů. Také ztratíte všechny osobní certifikáty přidružené k <a href="glossary.xhtml#software_security_device">Softwarovým bezpečnostním zařízením</a>.</p>
+<p>Jako poslední možnost, pokud si na heslo nemůžete vzpomenout, je znovu ho nastavit. Avšak 
+obnovením hlavního hesla ztratíte všechna uložená hesla z webový stránek a emailů, která jsou 
+uložena ve Správcích hesel a formulářů. Také ztratíte všechny osobní certifikáty přidružené k 
+<a href="glossary.xhtml#software_security_device">Softwarovým bezpečnostním zařízením</a>.</p>
 
 <p>Před tím než uděláte tento krok, podívejte se do <a href="passwords_help.xhtml#reset_master_password">Smazání hlavního hesla</a>.</p>
 
@@ -987,12 +544,12 @@ Další informace v sekci <a href="#form_manager_sites">Správce formulářů - 
 
 <h3 id="image_acceptance_policy">Nahrávání obrázků</h3>
 
-<p>Předvolby pro přijímání obrázků vám dovolují kontrolovat kdy a jak Prohlížeč obrázky zobrazí:</p>
+<p>Předvolby pro přijímání obrázků vám dovolují kontrolovat kdy a kde Prohlížeč obrázky zobrazí:</p>
 
 <ul>
   <li><strong>Nenačítat žádné obrázky</strong>: Vyberte tuto volbu pokud chcete, aby Prohlížeč nezobrazoval žádné obrázky.</li>
   <li><strong>Povolit pouze obrázky, které pocházejí ze stejného serveru</strong>: Vyberte pokud nechcete nahrávat obrázky, které pocházejí ze serverů třetích stran.</li>
-  <li><strong>Povolit všechny obrázky</strong>: Vyberte pokud chcete, aby Prohlížeč zobrazoval všechny obrázky. (Toto je předvolené nastavení.)</li>
+  <li><strong>Povolit všechny obrázky</strong>: Vyberte pokud chcete, aby se zobrazovaly všechny obrázky. (Toto je předvolené nastavení.)</li>
   <li><strong>Nenačítat v poště obrázky ze vzdálených serverů:</strong> Vyberte toto zaškrtávací políčko, pokud chcete předejít stahování obrázků do webových stránek, které jsou přiloženy v poště. (Toto je předvolené nastavení.)</li>
 </ul>
 
@@ -1006,7 +563,7 @@ Další informace v sekci <a href="#form_manager_sites">Správce formulářů - 
   <li><strong>Nepřehrávat</strong>: Vyberte pokud nechce, aby se animace obrázku neprovedly vůbec.</li>
 </ul>
 
-<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+<p>&copyright.string;</p>
 
 </body>
 </html>

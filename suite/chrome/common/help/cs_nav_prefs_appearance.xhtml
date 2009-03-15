@@ -11,26 +11,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>Nápověda předvoleb související s prohlížečem v aplikaci &brandShortName;</title>
-<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+<link rel="stylesheet" href="helpFileLayout.css"
 type="text/css"/>
 </head>
 <body>
-
-<h1 id="navigator_settings">Nastavení prohlížeče</h1>
-
-<p>Tato kapitola popisuje předvolby souvisejících s prohlížečem &brandShortName;:</p>
-
-<ol>
-  <li>Z jakéhokoliv okna prohlížeče otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-</ol>
-
-<div class="contentsBox">V této kapitole:
-<ul>
-  <li><a href="#appearance_preferences">Předvolby - Vzhled</a></li>
-  <li><a href="cs_nav_prefs_navigator.xhtml">Předvolby - Prohlížeč</a></li>
-  <li><a href="cs_nav_prefs_advanced.xhtml">Předvolby - Rozšířené nastavení</a></li>
-</ul>
-</div>
 
 <h1 id="appearance_preferences">Předvolby - Vzhled</h1>
 
@@ -44,10 +28,9 @@ type="text/css"/>
 <div class="contentsBox">V této sekci:
 <ul>
   <li><a href="#appearance">Vzhled</a></li>
+  <li><a href="#content">Obsah</a></li>
   <li><a href="#fonts">Písma</a></li>
   <li><a href="#colors">Barvy</a></li>
-  <li><a href="#themes">Motiv vzhledu</a></li>
-  <li><a href="#locales">Jazyky</a></li>
 </ul>
 </div>
 
@@ -71,13 +54,72 @@ type="text/css"/>
       <li><strong>Pouze text</strong>: Navigační lišta bude obsahovat pouze text.</li>
     </ul>
   </li>
-  <li><strong>Zobrazovat plovoucí tipy</strong>: Zaškrtněte, pokud chcete povolit zobrazování <a href="glossary.xhtml#tooltip">tooltips</a> při ponechání kurzoru myši nad uživatelským prvkem rozhraní s definovanou místní nápovědou.</li>
-  <li><strong>Zobrazovat ikony webových serveru</strong>: Zaškrtněte, pokud chcete v Záložkách a v Adresní řádce zobrazovat ikonky webových stránek (jsou-li dostupné) namísto standardní ikonky webové stránky
-    <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif"
-    alt="Ikonka"/>. Ikonky webového serveru jsou zobrazeny na levé straně v pole s webovou adresou a v panelech prohlížeče.</li>
+  <li><strong>Zobrazovat plovoucí tipy</strong>: Zaškrtněte, pokud chcete povolit zobrazování 
+  <a href="glossary.xhtml#tooltip">tooltips</a> při ponechání kurzoru myši nad uživatelským 
+  prvkem rozhraní s definovanou místní nápovědou.</li>
+  <li><strong>Jazyk uživatelského rozhranní</strong>: <!--translate-->This setting allows you to
+    change the language used in the user interface of &brandShortName;.
+    Additional languages can be installed from the &brandShortName; home page.
+    <strong>Poznámka</strong>: You must restart &brandShortName; for a new language
+    setting to take effect.
+  </li>
+</ul>
+
+<p>[<a href="#appearance_preferences">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="content">Obsah</h2>
+
+<p>Tato sekce popisuje nastavení předvoleb kategorie Obsah. Dialogové okno pro nastavení předvoleb získáte tak, že:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> 
+  <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Vzhled klepněte na podkategorii Obsah. (Pokud nevidíte žádnou 
+  podkategorii, dvojklepnutím na Vzhled zobrazíte jejich seznam.)</li>
+</ol>
+
+<p>The Content preferences panel allows you to change settings that influence
+  how website and message content appears in &brandShortName;.</p>
+
+<ul>
+  <li>Ikonky webového serveru:
+    <ul>
+      <li><strong>Zobrazovat ikony webového serveru</strong>: Select this if you want see
+        site-specific icons, if available, in place of the bookmark icon
+        <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+        alt="Bookmark item icon"/>. Website icons are shown to the left of the
+        Location Bar and Browser tabs.</li>
+      <li><strong>Automaticky hledat ikonu webového serveru, pokud není ve stránce 
+	  uvedena</strong>: If the page itself does not define a website
+        icon, turning on this setting makes &brandShortName; look for a
+        &quot;favicon&quot; on the server and use that instead.</li>
+      <li>Zobrazovat ikony webového serveru u záložek v nabídce a na liště:
+        <ul>
+          <li><strong>Nikdy u záložek nezobrazovat ikony webového serveru</strong>: Select this if
+            you only want to see the default icons but not the website&apos;s
+            own icon in the bookmarks menu or the personal toolbar.</li>
+          <li><strong>Pouze pokud byla stránka nedávno navštívena</strong>: Select
+            this to show the website&apos;s own icon only if the website has
+            been recently loaded and the icon is currently in the
+            browser&apos;s cache.</li>
+          <li><strong>Vždy u záložek nahrávat ikony webového serveru</strong>: Select
+            this to always load website icons to be displayed in the bookmarks
+            menu or personal toolbar, even if it&apos;s not in the cache. <!--end translate--></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
   <li><strong>Použít jemné posunování</strong>: Zvolte tuto volbu pro povolení jemného posunování. Stiskem klávesy Page Down budete postupně přesunuty na další stránku místo okamžitého skoku.</li>
   <li><strong>Povolit automatickou změnu velikosti obrázků</strong>: Zvolte tuto volbu, pokud chcete, aby balík &brandShortName; automaticky zmenšoval velikosti obrázků na velikost okna tehdy, pokud je tento obrázek větší. Klepnutím na takto zmenšený obrázek jej zvětšíte do plné velikosti.</li>
+  <li><strong><!--translate-->Měnit velikost pouze textu místo celé stránky</strong>: Select this if you
+    want &brandShortName; to only resize text of websites when using the
+    &quot;Zoom&quot; function. If this is not selected, the whole page,
+    including images, will be zoomed.</li>
 </ul>
+<p><strong>Poznámka</strong>: See the separate preferences panels for colors, fonts
+  and languages to further customize content appearance and the Privacy &amp;
+  Security section for privacy-related settings that also might influence how
+  content appears to you.<!--end translate--></p>
 
 <p>[<a href="#appearance_preferences">Návrat na začátek kapitoly</a>]</p>
 
@@ -143,65 +185,7 @@ type="text/css"/>
 
 <p>[<a href="#appearance_preferences">Návrat na začátek kapitoly</a>]</p>
 
-<h2 id="themes">Motiv vzhledu</h2>
-
-<p>Tato sekce popisuje nastavení předvoleb v podkategorii Motiv vzhledu. Dialogové okno pro nastavení předvoleb získáte tak, že:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.<br />
-  </li>
-  <li>V kategorii Vzhled klepněte na podkategorii Motiv vzhledu. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Vzhled zobrazíte jejich seznam.)</li>
-</ol>
-
-<p>Podkategorie Motiv vzhledu vám umožňuje nastavit téma celkového vzhledu balíku &brandShortName;, tzv. skin.</p>
-
-<ul>
-  <li><strong>Instalované motivy</strong>: Volbou jednoho z nainstalovaných Motivů vzhledu změníte vzhled balíku &brandShortName;.
-    <ul>
-      <li><strong>Odinstalovat motiv</strong>: Klepnutím odinstalujete vybraný motiv vzhledu.</li>
-    </ul>
-  </li>
-  <li><strong>Získat nový motiv</strong>: Klepnutím otevřete webovou stránku se seznamem služeb poskytující různá Témata vzhledu.
-
-    <p><strong>Poznámka</strong>:</p>
-
-    <ul>
-      <li>Aby se změna motivu vzhledu projevila, musíte balík &brandShortName; nejdříve restartovat.</li>
-      <li>Výchozí motivy vzhledu nemohou být odinstalována.</li>
-      <li>Po odinstalování některého motivu vzhledu už nepůjde tento motiv vzhledu znovu nastavit.</li>
-    </ul>
-  </li>
-</ul>
-
-<p>[<a href="#appearance_preferences">Návrat na začátek kapitoly</a>]</p>
-
-<h2 id="locales">Jazyky</h2>
-
-<p>Tato sekce popisuje nastavení předvoleb v podkategorii Jazyky. Dialogové okno pro nastavení předvoleb získáte tak, že:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Vzhled klepněte na podkategorii Jazyky. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Vzhled zobrazíte jejich seznam.)</li>
-</ol>
-
-<p>Podkategorie Jazyky/Obsah umožňuje přepínat mezi různými 
-jazyky pro uživatelské rozhranní aplikace &brandShortName;, jenž také obsahuje
-nastavení domovské stránky, záložek, obsahu nástrojové lišty, postranní lišty a 
-dalších položek.</p>
-
-<ul>
-  <li><strong>Dostupné jazykové balíky</strong>: Zvolte jazykový balíček, jenž má &brandShortName; používat.</li>
-  <li><strong>Odinstalovat</strong>: Klepněte na toto tlačítko pro odinstalaci zvoleného jazykového balíčku či lokalizovaného obsahu.</li>
-  <li><strong>Stáhnout další</strong>: Klepněte pro otevření webové stránky se seznamem dalších jazykových balíčků.
-
-    <p><strong>Poznámka</strong>: Aby se změna jazyka projevila, musíte program &brandShortName; nejdříve restartovat.</p>
-
-  </li>
-</ul>
-
-<p>[<a href="#appearance_preferences">Návrat na začátek kapitoly</a>]</p>
-
-<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+<p>&copyright.string;</p>
 
 </body>
 </html>

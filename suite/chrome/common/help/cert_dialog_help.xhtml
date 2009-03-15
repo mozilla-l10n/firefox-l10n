@@ -11,7 +11,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<title>Práce s certifikáty</title>
-	<link rel="stylesheet" type="text/css" href="chrome://help/locale/helpFileLayout.css"/>
+	<link rel="stylesheet" type="text/css" href="helpFileLayout.css"/>
 </head>
 
 <body>
@@ -307,34 +307,29 @@ Můžete vybrat jakékoli z následujících možností:</p>
   certifikační autoritu (CA)</a>, která vydala certifikát této webové stránky, zobrazí
   dialogové okno s varováním, kde můžete tento certifikát prozkoumat a rozhodnout se, jak se zachovat.</p>
 
+<!--translate-->
+<p>Use the buttons to perform the following actions:</p>
 <ul>
-	<li><strong>Prozkoumat certifikát</strong>: Klepněte na toto tlačítko pro zobrazení
-   certifikátu webové stránky.</li>
+  <li><strong>View Certificate</strong>: Examine the website&apos;s
+    certificate.</li>
+  <li><strong>Cancel</strong>: Cancel the operation. Certificate Manager
+    will not recognize the certificate as legitimate identification and will not
+    connect to the website.</li>
+  <li><strong>OK</strong>: Accept the certificate and connect to the website.
+    Choose for how long the certificate should be accepted:
+    <ul>
+      <li><strong>Accept this certificate permanently</strong>: Certificate
+        Manager will recognize the certificate as legitimate identification
+        until the certificate expires.</li>
+      <li><strong>Accept this certificate temporarily for this session</strong>:
+        Certificate Manager will recognize the certificate as legitimate
+        identification only during your current &brandShortName; session. You
+        will see the alert again if you restart &brandShortName; and attempt to
+        visit the website.</li>
+    </ul>
+  </li>
 </ul>
-
-<p>V tomto dialogu můžete vybrat jednu z těchto možností:</p>
-<ul>
-
-	<li><strong>Přijmout tento certifikát natrvalo</strong>: Zvolte tuto možnost
-   pro přijetí tohoto certifikátu (navzdory patrnému problému) a připojení na webovou
-   stránku. Správce certifikátů bude tento certifikát uznávat jako platný až do doby,
-   kdy jeho platnost vyprší.</li>
-	<li><strong>Přijmout dočasně tento certifikát  pro toto sezení:</strong>: 
-   Zvolte tuto možnost pro přijetí tohoto certifikátu dočasně a připojení na
-   webovou stránku. Správce certifikátů bude tento certifikát uznávat jako platný jen do
-   té doby, než příště spustíte prohlížeč webu. Může se stát, že se toto varování objeví
-   znovu, až se příště pokusíte tyto stránky  navštívit.</li>
-	<li><strong>Nepřijmout tento certifikát a nepřipojit se k této webové adrese</strong>: 
-   Zvolte tuto možnost, pokud se rozhodnete tuto stránku vůbec nenavštívit. Tato volba
-   je vhodná například jedná-li se o stránky, kde se provádí finanční operace. V tom
-   případě byste měli tento problém nahlásit bance, nebo jiné organizaci, která tyto
-   stránky provozuje a ujistit se, že je certifikát platný, než zvolíte některou
-   z možností výše.</li>
-</ul>
-
-<p>Klepněte na tlačítko OK pro potvrzení vašeho výběru. Pokud klepnete na tlačítko Zrušit,
- Správce certifikátů neuzná certifikát jako platnou identifikaci a přeruší připojování na tyto
- webové stránky.</p>
+<!--end translate-->
 
 <p><strong>Důležitá poznámka pro správce serverů</strong>: 
   Toto varování může být způsobeno špatnou konfigurací serveru. Pro zjištění, jestli je to
@@ -464,7 +459,7 @@ l-certificate.html">SSL Certificates Support</a> [Eng.]</li>
 <p>Pokud se přesto rozhodnete certifikát přijmout, buďte během vaší návštěvy těchto stránek  opatrní,
   jaké akce provádíte, a veškeré informace, které obsahují, berte jako potenciálně podezřelé.</p>
 
-<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+<p>&copyright.string;</p>
 
 </body>
 </html>

@@ -9,7 +9,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>Rozšířené nastavení</title>
-<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+<link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
@@ -35,7 +35,6 @@ získáte tak, že:</p>
   <li><a href="#software_installation">Aktualizace vybavení</a></li>
   <li><a href="#mouse_wheel">Kolečko myši</a></li>
   <li><a href="#dom_inspector">DOM Inspektor</a></li>
-  <li class="win"><a href="#system">Systém</a></li>
 </ul>
 </div>
 
@@ -49,23 +48,18 @@ tak, že:</p>
   <li>Klepněte na kategorii Rozšířené nastavení.</li>
 </ol>
 
-<p>Kategorie Rozšířené nastavení umožňuje povolit či zakázat Java aplety <span class="win">a rychlé spuštění aplikace &brandShortName;</span>:</p>
+<p>Kategorie Rozšířené nastavení umožňuje povolit či zakázat Java aplety:</p>
 
 <ul>
   <li><strong>Povolit aplety Java</strong>: Touto volbou povolíte načítání a spouštění Java-apletů.
 Java je používána na některých webových stránkách pro začlenění interaktivního a multimediálního obsahu.</li>
-  <li class="win"><strong>Ponechat aplikaci &brandShortName; v paměti pro zrychlení při spuštění</strong>: Tuto volbu zvolte, pokud chcete, aby &brandShortName; startovala rychleji. Pro více informací zvolte kapitolu <q><a href="nav_help.xhtml#using_quick_launch">Používání rychlého spouštění</a></q>.</li>
   <li class="unix"><strong>Použít nastavení systému</strong>: Zvolte, pokud si přejete
-	aby nastavení operačního systému přepsala nastavení balíku &brandShortName;.
-
-    <p><strong>Poznámka</strong>: Tato možnost je dostupná pouze v sestavení
-		pro XFT/GTK2.</p>
-  </li>
+	aby nastavení operačního systému přepsala nastavení balíku &brandShortName;.</li>
 </ul>
 
 <p>[<a href="#advanced_preferences">Návrat na začátek sekce</a>]</p>
 
-<h2 id="scripts_and_plug-ins">Skripty &amp; zásuvné moduly</h2>
+<h2 id="scripts_and_plugins">Skripty &amp; zásuvné moduly</h2>
 
 <p>Podkategorie Skripty &amp; zásuvné moduly vám umožňuje nastavit chování skriptů a zásuvných modulů. Dialogové okno pro nastavení předvoleb získáte tak, že:</p>
 
@@ -96,6 +90,17 @@ Java je používána na některých webových stránkách pro začlenění inter
   <li><strong>Povolit zásuvné moduly pro</strong>: Vyberte zaškrtávací políčko k určení, u jakých akcí může být použit zásuvný modul:
     <ul>
       <li><strong>Pošta &amp; Diskusní skupiny</strong>: Umožňuje používat zásuvné moduly v programu Pošta &amp; Diskusní skupiny.</li>
+    </ul>
+  </li>
+    <li><strong><!--translate-->When additional plugins are required</strong>: Check this
+    checkbox if you want to be informed whenever a website requires additional
+    plugins:
+    <ul>
+      <li><strong>Display a notification bar at the top of the content
+        area</strong>: When a website requires a plugin which is not installed,
+        a notification bar will be displayed above the website content area.
+        From the bar you will be able to download and install the missing
+        plugin.<!--end translate--></li>
     </ul>
   </li>
 </ul>
@@ -259,17 +264,17 @@ které umožňuje posílat více než jeden HTTP požadavek současně. Tím pod
 
 <ol>
   <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Rozšířené nastavení klepněte na podkategorii Aktualizace vybavení. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Rozšířené nastavení zobrazíte jejich seznam.)</li>
+  <li>V kategorii Rozšířené nastavení klepněte na podkategorii Instalace software. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Rozšířené nastavení zobrazíte jejich seznam.)</li>
 </ol>
 
-<p>Podkategorie Aktualizace vybavení je používána k povolení automatické aktualizace programového vybavení a zjišťování nových aktualizací:</p>
+<p>Podkategorie Instalace software je používána k povolení automatické aktualizace programového vybavení a zjišťování nových aktualizací:</p>
 
 <ul>
 <li><strong>Povolit instalaci rozšíření a automatickou aktualizaci programového vybavení. 
 (Před aktualizací budete upozorněni.)</strong>: Vyberte, pokud chcete povolit webovým 
 stránkám instalaci rozšíření a aktualizací pro aplikaci &brandShortName;. Před instalací budete
 upozorněni.</li>
-<li><strong>Povolené servery</strong>: Otevře dialogové okno Povolené servery - instalace software, 
+<li><strong>Povolené servery...</strong>: Otevře dialogové okno Povolené servery - instalace software, 
 kde se spravuje seznam Internetových stránek, z kterých chcete povolit instalaci:
   <ul>
     <li><strong>Povolit</strong>: Přidá server do seznamu povolených serverů.</li>
@@ -277,11 +282,17 @@ kde se spravuje seznam Internetových stránek, z kterých chcete povolit instal
     <li><strong>Odebrat všechny servery</strong>: Odebere všechny servery ze seznamu.</li>
     </ul>
   </li>
-  <li><strong>Zjišťovat aktualizace</strong>: Zvolte, pokud chcete povolit kontrolu nových verzí balíku &brandShortName;. Při této kontrole nejsou odeslána žádná důvěrná data o vás nebo o vašem počítači.
-    <ul>
-      <li><strong>týdně</strong>: Zvolte, pokud chcete jednou za týden zkontrolovat, zda neexistuje nová verze balíku &brandShortName;.</li>
-      <li><strong>měsíčně</strong>: Zvolte, pokud chcete jednou za měsíc zkontrolovat, zda neexistuje nová verze balíku &brandShortName;.</li>
+  <li><strong>Automaticky kontrolovat aktualizace pro</strong>: 
+  	<ul>
+      <li><strong>&brandShortName;</strong>: Zvolte, pokud chcete být upozorněni na novou verzi balíku 
+	  &brandShortName;. Při této kontrole nejsou odeslána žádná důvěrná data o vás nebo o vašem počítači.
+	  Zvolte přepínač, zda-li chcete <strong>denně</strong> nebo jednou <strong>týdně</strong> kontrolovat aktualizace.</li>
+      	<li><strong>Nainstalované doplňky</strong>: Zvolte, pokud chcete být upozorněni na novou verzi doplňku.
+		 Při této kontrole nejsou odeslána žádná důvěrná data o vás nebo o vašem počítači.
+	  Zvolte přepínač, zda-li chcete <strong>denně</strong> nebo jednou <strong>týdně</strong> zkontrolovat aktualizace.</li>
     </ul>
+	<li><strong>Správa doplňků</strong>: Klepněte na toto tlačítko pro otevření okna Správce doplňků,
+	kde můžete spravovat všechny nainstalované rozšíření a motivy vzhledu.</li>
   </li>
 </ul>
 
@@ -364,36 +375,7 @@ blikáním tohoto prvku nebo jeho rámečku:</p>
   </li>
 </ul>
 
-<p>[<a href="#advanced_preferences">Návrat na začátek sekce</a>]</p>
-
-<h2 id="system">Systém</h2>
-
-<p class="noWin">Tato kategorie není k dispozici v tomto systému.</p>
-
-<div class="win">
-
-<p>Tato sekce popisuje, pro co se používá podkategorie Systém. Dialogové okno pro nastavení předvoleb získáte tak, že:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Rozšířené nastavení klepněte na podkategorii Systém. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Rozšířené nastavení zobrazíte jejich seznam.)</li>
-</ol>
-
-<p>Podkategorie Systém taktéž umožňuje asociovat některé typy souborů nebo internetové protokoly s balíkem &brandShortName;:</p>
-
-<ul>
-  <li><strong>Windows použijí aplikaci &brandShortName; při otevírání těchto typů souborů</strong>: Zvolte jaké typy souborů mají být asociovány s balíkem &brandShortName;. </li>
-  <li><strong>Windows použijí aplikaci &brandShortName; při volání těchto protokolů</strong>: Zvolte jaké Internetové protokoly mají být asociovány s balíkem &brandShortName;.</li>
-  <li><strong>Informuj mě, pokud jiné aplikace změní toto nastavení</strong>: Zvolte, pokud si přejete, aby vás balík &brandShortName; při startu vždy upozornil, když si některá aplikace asociuje vámi vybrané typy souborů a internetových protokolů.</li>
-</ul>
-
-<p><strong>Tip</strong>: Snadné nastavení &brandShortName; jako výchozího prohlížeče webových stránek naleznete v kapitole <a href="cs_nav_prefs_navigator.xhtml#navigator">Předvolby prohlížeče</a>. Můžete též zvolit volbu <q>Informuj mě, pokud jiné aplikace změní toto nastavení</q> pro informování o situacích, kdy se jiný program stane výchozím.
-</p>
-</div>
-
-<p>[<a href="#advanced_preferences">Návrat na začátek sekce</a>]</p>
-
-<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+<p>&copyright.string;</p>
 
 </body>
 </html>
