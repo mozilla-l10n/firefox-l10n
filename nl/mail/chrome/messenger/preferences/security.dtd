@@ -6,15 +6,15 @@
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Stel uw standaardinstellingen voor ongewensteberichtendetectie in. Accountspecifieke instellingen kunnen worden geconfigureerd in Accountinstellingen.">
 <!ENTITY manualMark.label "Wanneer ik berichten markeer als ongewenst:">
-<!ENTITY manualMark.accesskey "m">
+<!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "ze verplaatsen naar de map “Ongewenst” van de account">
-<!ENTITY manualMarkModeMove.accesskey "r">
+<!ENTITY manualMarkModeMove.accesskey "z">
 <!ENTITY manualMarkModeDelete.label "ze verwijderen">
-<!ENTITY manualMarkModeDelete.accesskey "w">
+<!ENTITY manualMarkModeDelete.accesskey "v">
 <!ENTITY markAsReadOnSpam.label "Berichten die zijn gedetecteerd als ongewenst, markeren als gelezen">
-<!ENTITY markAsReadOnSpam.accesskey "k">
+<!ENTITY markAsReadOnSpam.accesskey "B">
 <!ENTITY enableJunkLogging.label "Ongewensteberichtenlogboek activeren">
-<!ENTITY enableJunkLogging.accesskey "a">
+<!ENTITY enableJunkLogging.accesskey "O">
 <!ENTITY openJunkLog.label "Logboek tonen">
 <!ENTITY openJunkLog.accesskey "L">
 <!ENTITY resetTrainingData.label "Trainingsgegevens herinitialiseren">
@@ -23,7 +23,7 @@
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro "&brandShortName; kan berichten analyseren op verdachte e-mailscams door te kijken naar veelvoorkomende technieken die worden gebruikt om u te misleiden.">
 <!ENTITY enablePhishingDetector1.label    "Mij vertellen of het gelezen bericht een verdachte e-mailscam is">
-<!ENTITY enablePhishingDetector1.accesskey  "e">
+<!ENTITY enablePhishingDetector1.accesskey  "M">
 <!ENTITY useDownloadedList.label "Een gedownloade lijst van verdachte e-mailscams gebruiken">
 <!ENTITY useDownloadedList.accesskey "d">
 
@@ -40,4 +40,4 @@
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; kan het antivirussoftware makkelijk maken om inkomende e-mailberichten op virussen te controleren voordat ze lokaal worden opgeslagen.">
 <!ENTITY antiVirus.label      "Antivirusprogramma’s toestaan om individuele inkomende berichten in quarantaine te plaatsen">
-<!ENTITY antiVirus.accesskey  "u">
+<!ENTITY antiVirus.accesskey  "A">

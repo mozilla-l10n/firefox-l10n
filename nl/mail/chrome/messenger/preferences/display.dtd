@@ -30,16 +30,16 @@
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "Emoticons weergeven als afbeeldingen">
-<!ENTITY convertEmoticons.accesskey       "m">
+<!ENTITY convertEmoticons.accesskey       "E">
 
 <!-- labels -->
 <!ENTITY displayTagsText.label            "Labels kunnen worden gebruikt voor het categoriseren van uw berichten.">
 <!ENTITY addTagButton.label               "Toevoegen">
-<!ENTITY addTagButton.accesskey           "o">
+<!ENTITY addTagButton.accesskey           "T">
 <!ENTITY editTagButton.label              "Bewerken">
-<!ENTITY editTagButton.accesskey          "w">
+<!ENTITY editTagButton.accesskey          "B">
 <!ENTITY removeTagButton.label            "Verwijderen">
-<!ENTITY removeTagButton.accesskey        "d">
+<!ENTITY removeTagButton.accesskey        "V">
 
 <!-- Fonts -->
 <!ENTITY fontAndEncodingsDescription.label  "De lettertypen en tekensets configureren die worden gebruikt door &brandShortName;">
