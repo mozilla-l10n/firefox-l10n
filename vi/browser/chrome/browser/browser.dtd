@@ -351,6 +351,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Thu phóng">
 <!ENTITY fullZoom.accesskey             "p">
 
+<!ENTITY newTabButton.tooltip           "Mở một thẻ mới">
 <!ENTITY newWindowButton.tooltip        "Mở một cửa sổ mới">
 <!ENTITY sidebarCloseButton.tooltip     "Đóng thanh lề">
 

@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Đăng kí nhận tin RSS">
+<!ENTITY feedSubscriptions.label "Đăng kí Nhận tin">
 <!ENTITY subscriptionDesc.label "Lưu ý: Xóa hoặc thay đổi thư mục của một feed sẽ không ảnh hưởng đến các bài viết đã tải trước đây.">
 <!ENTITY feedTitle.label "Tiêu đề:">
 <!ENTITY location.label  "Địa chỉ:">

@@ -3,7 +3,7 @@
 
 <!ENTITY email.label "Thư điện tử (E-Mail)">
 <!ENTITY newsgroups.label "Nhóm tin">
-<!ENTITY rss.label "RSS Feed">
+<!ENTITY feeds.label "Feed">
 
 <!ENTITY checkOnStartup.label "Luôn thực hiện việc kiểm tra này mỗi khi khởi động &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "L">

@@ -49,7 +49,7 @@
 <!ENTITY title.label "Ghi chú:">
 <!ENTITY title.accessKey "G">
 <!ENTITY title.tooltip "Thuộc tính 'title' html hiển thị dưới dạng ghi chú">
-<!ENTITY altText.label "Văn bản phụ:">
+<!ENTITY altText.label "Văn bản thay thế:">
 <!ENTITY altText.accessKey "V">
 <!ENTITY altTextEditField.tooltip "Gõ văn bản hiển thị thay cho hình ảnh">
 <!ENTITY noAltText.label "Không dùng văn bản phụ">

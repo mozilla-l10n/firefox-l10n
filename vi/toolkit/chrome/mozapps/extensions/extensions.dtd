@@ -95,7 +95,7 @@
 <!ENTITY cancelUpgrade.accesskey          "H">
 
 <!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Vào Trang chủ">
+<!ENTITY cmd.homepage.label               "Vào Trang Chủ">
 <!ENTITY cmd.homepage.accesskey           "a">
 <!ENTITY cmd.about2.label                 "Thông tin về Tiện ích này">
 <!ENTITY cmd.about.accesskey              "v">

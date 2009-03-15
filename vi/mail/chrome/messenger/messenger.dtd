@@ -44,8 +44,6 @@
 <!ENTITY compactFolders.accesskey    "n">
 <!ENTITY emptyTrashCmd.label "Dọn sạch Thùng rác">
 <!ENTITY emptyTrashCmd.accesskey    "D">
-<!ENTITY importCmd.label "Nhập…">
-<!ENTITY importCmd.accesskey "N">
 <!ENTITY offlineMenu.label "Ngoại tuyến">
 <!ENTITY offlineMenu.accesskey "u">
 <!ENTITY offlineGoOfflineCmd.label "Làm việc Ngoại tuyến">
@@ -98,9 +96,6 @@
 <!ENTITY folderPropsFolderCmd.label "Thuộc tính Thư mục…">
 <!ENTITY folderPropsNewsgroupCmd.label "Thuộc tính Nhóm tin…">
 <!ENTITY folderPropsCmd.accesskey "u">
-<!ENTITY accountManagerCmd.label "Thiết lập Tài khoản…">
-<!ENTITY accountManagerCmd.accesskey "h">
-<!ENTITY accountManagerCmdUnix.accesskey "h">
 <!ENTITY undoDeleteMsgCmd.label "Hoàn tác Xóa Thư">
 <!ENTITY redoDeleteMsgCmd.label "Làm lại Xóa Thư">
 <!ENTITY undoMoveMsgCmd.label "Hoàn tác Di chuyển Thư">
@@ -407,20 +402,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Công cụ">
 <!ENTITY tasksMenu.accesskey "g">
-<!ENTITY addons.label "Tiện ích">
-<!ENTITY addons.accesskey "T">
-<!ENTITY activitymanager.label "Quản lí Hoạt động">
-<!ENTITY activitymanager.accesskey "Q">
 <!ENTITY messengerCmd.label "Thư &amp; Nhóm tin">
 <!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Sổ Địa Chỉ">
 <!ENTITY addressBookCmd.accesskey "S">
-<!ENTITY runJunkControls.label "Chạy Bộ kiểm soát Thư rác trên Thư mục">
-<!ENTITY runJunkControls.accesskey "k">
-<!ENTITY deleteJunk.label "Xóa các Thư rác trong Thư mục">
-<!ENTITY deleteJunk.accesskey "X">
-<!ENTITY errorConsoleCmd.label "Bảng kiểm soát Lỗi">
-<!ENTITY errorConsoleCmd.accesskey "L">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Tiện ích">
+<!ENTITY addons.accesskey "T">
+<!ENTITY activitymanager.label "Quản lí Hoạt động">
+<!ENTITY activitymanager.accesskey "Q">
 <!ENTITY filtersCmd.label "Bộ lọc Thư…">
 <!ENTITY filtersCmd.accesskey "B">
 <!ENTITY filtersApply.label "Chạy Bộ lọc trên Thư mục">
@@ -429,6 +419,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "r">
 <!ENTITY filtersApplyToMessage.label "Chạy Bộ lọc trên Thư">
 <!ENTITY filtersApplyToMessage.accesskey "r">
+<!ENTITY runJunkControls.label "Chạy Bộ kiểm soát Thư rác trên Thư mục">
+<!ENTITY runJunkControls.accesskey "k">
+<!ENTITY deleteJunk.label "Xóa các Thư rác trong Thư mục">
+<!ENTITY deleteJunk.accesskey "X">
+<!ENTITY importCmd.label "Nhập…">
+<!ENTITY importCmd.accesskey "N">
+<!ENTITY errorConsoleCmd.label "Bảng kiểm soát Lỗi">
+<!ENTITY errorConsoleCmd.accesskey "L">
+<!ENTITY accountManagerCmd.label "Thiết lập Tài khoản…">
+<!ENTITY accountManagerCmd.accesskey "h">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "h">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Lấy Thư">
@@ -492,7 +495,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderSizeColumn.label "Dung lượng">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label "Lấy thư">
+<!ENTITY folderContextGetMessages.label "Lấy Thư">
 <!ENTITY folderContextGetMessages.accesskey "L">
 <!ENTITY folderContextOpenNewWindow.label "Mở">
 <!ENTITY folderContextOpenNewWindow.accesskey "M">
@@ -706,7 +709,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY minimizeWindow.label "Thu nhỏ">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Đưa Tất Cả ra Tiền Cảnh">
-<!ENTITY zoomWindow.label "Phóng to">
+<!ENTITY zoomWindow.label "Thu phóng">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Tùy chỉnh…">

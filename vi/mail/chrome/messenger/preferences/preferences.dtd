@@ -9,5 +9,5 @@
 <!ENTITY paneDisplay.title        "Hiển thị">
 <!ENTITY paneComposition.title    "Soạn thảo">
 <!ENTITY paneAttachments.title    "Đính kèm">
-<!ENTITY panePrivacy.title        "Riêng tư">
+<!ENTITY paneSecurity.title       "Bảo mật">
 <!ENTITY paneAdvanced.title       "Nâng cao">

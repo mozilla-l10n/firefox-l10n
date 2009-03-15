@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label           "Thiết lập thư rác">
 <!ENTITY offlineLink.label            "Thiết lập ngoại tuyến">
 
-<!ENTITY rssSectionHdr.label          "RSS Tin tức &amp; Blog"> 
-<!ENTITY subscibeRSS.label            "Quản lí phần đăng kí">
+<!ENTITY feedsSectionHdr.label        "Feed">
+<!ENTITY subscribeFeeds.label         "Quản lí phần đăng kí">

@@ -52,7 +52,7 @@
 <!ENTITY openFileCmd.accesskey "M">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Mở Địa Chỉ Web…">
-<!ENTITY openRemoteCmd.accesskey "W">
+<!ENTITY openRemoteCmd.accesskey "a">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Các Trang Gần đây">
 <!ENTITY fileRecentMenu.accesskey "r">
@@ -193,8 +193,8 @@
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "Kích cỡ">
-<!ENTITY fontSizeMenu.accesskey "K">
+<!ENTITY fontSizeMenu.label "Cỡ chữ">
+<!ENTITY fontSizeMenu.accesskey "C">
 <!ENTITY size-xx-smallCmd.label "siêu nhỏ">
 <!ENTITY size-xx-smallCmd.accesskey "s">
 <!ENTITY size-x-smallCmd.label "rất nhỏ">
@@ -305,7 +305,7 @@
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Căn">
-<!ENTITY alignMenu.accesskey "C">
+<!ENTITY alignMenu.accesskey "n">
 <!ENTITY alignLeft.label "Trái">
 <!ENTITY alignLeft.accesskey "T">
 <!ENTITY alignLeft.tooltip "Căn Trái">

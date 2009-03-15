@@ -67,7 +67,7 @@
 <!ENTITY  mediaTab.accesskey    "a">
 <!ENTITY  mediaLocation         "Địa chỉ:">
 <!ENTITY  mediaText             "Văn bản đi kèm:">
-<!ENTITY  mediaAltHeader        "Văn bản phụ">
+<!ENTITY  mediaAltHeader        "Văn bản Thay thế">
 <!ENTITY  mediaAddress          "Địa chỉ">
 <!ENTITY  mediaType             "Kiểu">
 <!ENTITY  mediaSize             "Kích thước">
@@ -106,7 +106,7 @@
 
 
 <!ENTITY  securityView.identity.header   "Định danh Trang Web">
-<!ENTITY  securityView.identity.owner    "Chủ:">
+<!ENTITY  securityView.identity.owner    "Người sở hữu: ">
 <!ENTITY  securityView.identity.domain   "Trang web:">
 <!ENTITY  securityView.identity.verifier "Xác minh bởi: ">
 
@@ -116,7 +116,7 @@
 <!ENTITY  securityView.privacy.viewCookies              "Xem Cookie">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "e">
 <!ENTITY  securityView.privacy.passwords                "Tôi có lưu mật khẩu nào trên trang web này không?">
-<!ENTITY  securityView.privacy.viewPasswords            "Xem Mật Khẩu đã Lưu">
+<!ENTITY  securityView.privacy.viewPasswords            "Xem các Mật khẩu Đã lưu">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "M">
 
 <!ENTITY  securityView.technical.header                 "Chi tiết Kĩ thuật">
