@@ -9,7 +9,7 @@
 
 <head>
 <title>Nápověda předvoleb pro Prohlížeč aplikace &brandShortName;</title>
-<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+<link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
@@ -29,7 +29,7 @@
   <li><a href="#history">Historie</a></li>
   <li><a href="#languages">Jazyky</a></li>
   <li><a href="#helper_applications">Pomocné aplikace</a></li>
-  <li><a href="#smart_browsing">Související stránky</a></li>
+  <li><a href="#location_bar">Adresní řádek</a></li>
   <li><a href="#internet_search">Hledání v Internetu</a></li>
   <li><a href="#tabbed_browsing">Prohlížení v panelech</a></li>
   <li><a href="#downloads">Stahování</a></li>
@@ -140,7 +140,15 @@
   <li><strong>Jazyky webových stránek</strong>:
     <ul>
       <li><strong>Přesunout níže / Přesunout výše</strong>: Klepněte na jedno z těchto tlačítek pro přerovnání jazyků do vámi požadovaného pořadí.</li>
-      <li><strong>Přidat</strong>: Tímto tlačítkem přidáte další jazyk do seznamu.</li>
+      <li><strong>Přidat</strong>: Tímto tlačítkem přidáte další jazyk do seznamu. 
+	  <!--translate-->In the dialog, select a language from the list.
+        If you want to add a language that is not in the list, type a language
+        code (both two- and three-letter codes can be used) in the field below
+        the list. See the online document
+        <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php">Codes
+        for the Representation of Names of Languages</a> for a complete list of
+        language codes. Click OK to close the dialog and save your
+        changes.<!--end translate--></li>
       <li><strong>Odebrat</strong>: Tímto tlačítkem odstraníte vybraný jazyk.</li>
     </ul>
   </li>
@@ -164,87 +172,125 @@ být při psaní kontrolován pravopis použijte rozbalovací seznam.</li>
 <p>Tato kapitola popisuje použití podkategorie Pomocné aplikace. Dialogové okno pro nastavení předvoleb:</p>
 
 <ol>
-  <li>Otevřete nabídku Úpravy <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Prohlížeč klepněte na podkategorii Pomocné aplikace. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Prohlížeč zobrazíte jejich seznam.)</li>
+  <li>Otevřete nabídku Úpravy <span class="mac">&brandShortName;</span> 
+  <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Prohlížeč klepněte na podkategorii Pomocné aplikace. (Pokud nevidíte 
+  žádnou podkategorii, dvojklepnutím na Prohlížeč zobrazíte jejich seznam.)</li>
 </ol>
 
-<p>Nastavení podkategorie Pomocné aplikace v kategorii Prohlížeč pomáhá prohlížeči určit jakou aplikaci použít pro otevření určitého typu souboru:</p>
+<p><!--translate-->The Helper Applications preferences panel lets you choose applications and
+  other handlers to handle different types of content (e.g. PDF documents).
+  It shows you a list of content types and lets you select a handler for each
+  type. To filter the list, use the search field. Text entered in there will
+  narrow the list to entries containing that text either in the type description
+  or the currently selected action.</p>
+<p>You can choose a local application to handle any type. For some types, you
+  can also choose a web application to handle the type, choose
+  <!-- a feature (like <a href="glossary.xhtml#live_bookmark">Live Bookmarks</a> for
+  feeds) or --> a <a href="glossary.xhtml#plugin">plugin</a> in &brandShortName; to
+  handle the type, or save the type on your computer.</p>
+<p>To choose a handler for a type, select the type from the list. The current
+  handler for the type will turn into a menu. Open the menu and select the
+  handler you want to handle the type. Depending on the actual type, you can:</p>
 
 <ul>
-  <li><strong>Určení obsluhujících aplikací pro různé typy souborů</strong>:
-    <ul>
-      <li><strong>Typy souborů</strong>: &brandShortName; zde zobrazí typy souborů, jenž používá. Pro zobrazení následujících informací vyberte v okně typ souborů:
-        <ul>
-          <li><strong>Popis</strong>: Popis typu obsluhovaného souboru.</li>
-          <li><strong>Přípona(y)</strong>: Zobrazí příponu pro vybraný typ souboru.</li>
-          <li><strong>Zpracuje</strong>: Zobrazí, jaký typ akce se provede, když &brandShortName; narazí na tento typ souboru.</li>
-        </ul>
-      </li>
-      <li><strong>Nový typ</strong>: Klepněte na toto tlačítko pro přidání nového typu souboru. Zobrazí se vám dialogové okno:
-	<ul>
-	  <li><strong>Typ MIME</strong>: MIME typ souboru, který chcete přidat.</li>
-	  <li><strong>Popis</strong>: Popis typu souboru, který chcete přidat.</li>
-	  <li><strong>Přípona</strong>: Přípona souboru, který chcete přidat.</li>
-	  <li><strong>Pokud je detekován soubor tohoto typu</strong>:
-	   Zvolte jednu z nabízených možností:
-	    <ul>
-              <li><strong>Použít nastavení systému</strong>:
-          Znamená, že souboru bude otevřen výchozím programem dle nastavení v systému.</li>
-	      <li><strong>Aplikace</strong>: Znamená, že soubor bude otevřen určeným programem. Použijte tlačítko Vybrat pro vyhledání umístění programu na vašem disku.</li>
-	      <li><strong>Uložit na disk</strong>: Soubor bude uložen na disk.</li>
-            </ul>
-	  </li>
-	  <li><strong>Dotázat se před otevřením souborů tohoto typu</strong>: Zvolte, pokud chcete, aby jste byl(a) před každou manipulací s tímto typem souboru dotázán(a).</li>
-	</ul>
-      </li>
-      <li><strong>Upravit</strong>: Klepněte na toto tlačítko pro úpravu zvoleného typu souboru.</li>
-      <li><strong>Odebrat</strong>: Klepněte na toto tlačítko pro odebrání zvoleného typu souboru.</li>
-    </ul>
-  </li>
-  <li><strong>Služba nalezení zásuvných modulů</strong>:
-    <ul>
-      <li><strong>Pro vyhledávání zásuvných modulů vždy použít PFS společnosti Netscape</strong>: Vyberte pro použití služby nalezení zásuvných modulů (PFS), kdykoliv &brandShortName; potřebuje použít nový zásuvný modul. Pokud není toto zaškrtávací políčko zvoleno, je služba Plugin Finder Service použit pouze pokud webová stránka požadující zásuvný modul neuvede adresu pro stažení zásuvného modulu.</li>
-    </ul>
-  </li>
+  <li>Choose an application by selecting it from the menu. If you want a local
+    application that is not in the menu to handle the type, select
+    <strong>Použít jinou...</strong> from the menu and navigate to its location.</li>
+  <li>Choose a <!-- feature or --> plugin by selecting it from the menu.</li>
+  <li>Save files of this type on your computer by selecting
+    <strong>Uložit soubor</strong> from the menu. If you have selected the
+    <strong>Automaticky stahovat soubory do složky</strong>
+    preference in the <strong>Stahování</strong> panel, &brandShortName; will
+    save content of this type on your computer automatically. Otherwise, when
+    you encounter this type, &brandShortName; will prompt you for a location on
+    your computer to save it to.</li>
+  <li>Tell &brandShortName; to <strong>Vždy se dotázat</strong> what to do when
+    encountering this type. When you choose this option, a dialog will always be
+    shown when files of this type are accessed, and you can choose how to handle
+    that specific file from there.</li>
 </ul>
 
-<p>Pro více informací o tom, jak manipulovat s různými typy soubor v &brandShortName;, nahlédněte do kapitoly
-  <a href="nav_help.xhtml#plugins_and_downloads">Zásuvné moduly a stahování</a>.</p>
+<p><strong>Poznámka:</strong> When a plugin is available to handle a type, and you
+  choose another handler for that type, &brandShortName; will only use your
+  chosen handler when you access the type directly. When the type is embedded
+  inside a web page, &brandShortName; will continue to use the plugin to handle
+  it. See also
+  <a href="nav_help.xhtml#plugins_and_downloads">Plugins and Downloads</a><!--end translate--></p>.
 
 <p>[<a href="#navigator_preferences">Návrat na začátek kapitoly</a>]</p>
 
-<h2 id="smart_browsing">Související stránky</h2>
+<h2 id="location_bar">Adresní řádek</h2>
 
-<p>Tato kapitola popisuje použití podkategorie Související stránky. Dialogové okno pro nastavení Předvoleb získáte tak, že:</p>
+<p>Tato kapitola popisuje použití podkategorie Adresní řádek. Dialogové okno pro nastavení Předvoleb získáte tak, že:</p>
 
 <ol>
   <li>Otevřete nabídku Úpravy <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Prohlížeč klepněte na podkategorii Související stránky. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Prohlížeč zobrazíte jejich seznam.)</li>
+  <li>V kategorii Prohlížeč klepněte na podkategorii Adresní řádek. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Prohlížeč zobrazíte jejich seznam.)</li>
 </ol>
 
-<p>Podkategorie Související stránky vám umožňuje povolit používání klíčových slov, automatického doplňování v adresním řádku a hádání domén.</p>
+<p><!-- translate-->The Location Bar Preferences panel lets you fine-tune the behavior of the
+  Location Bar.</p>
 
 <ul>
-  <li><strong>Klíčová slova Internetu</strong>:
+  <li id="location_bar_autocomplete"><strong>Automatické doplňování</strong>:
     <ul>
-      <li><strong>Povolit klíčová slova Internetu</strong>: Zvolením tohoto zaškrtávacího políčka povolíte rychlý přístup ke službám jako je cena akcií, prohledávání a další informace. Vše přímo z adresního řádku.</li>
-      <li><strong>Více informací</strong>: Klepněte na toto tlačítko pro otevření webové stránky (v angličtině) s dalšími informacemi o klíčových slovech Internetu.</li>
-    </ul>
-  </li>
-  <li id="location_bar_autocomplete"><strong>Doplňování v adresním řádku</strong>:
-    <ul>
-      <li><strong>Povolit doplňování v adresním řádku</strong>: Zvolte toto zaškrtávací políčko, pokud chcete povolit automatické doplňování adres v adresním řádku.</li>
-      <li><strong>Rozšířené...</strong>: Klepněte na toto tlačítko pro podrobnější nastavení doplňování v adresním řádku:
+      <li><strong>Při psaní automaticky doplňovat adresy z historie</strong>:
+        Select this to let &brandShortName; automatically show suggestions from
+        your browsing history when you type in the Location Bar.
         <ul>
-          <li><strong>Automaticky doplňovat nejlepší odhad zatímco píšete</strong>: Zatímco píšete adresu webové stránky do adresního řádku, &brandShortName; automaticky doplňuje nejvíce se shodující, dříve napsanou, webovou adresu.</li>
-          <li><strong>Zobrazovat seznam vyhovujících výsledků</strong>: Zatímco píšete adresu webové stránky do adresního řádku, balík &brandShortName; zobrazí výsuvný seznam se shodnými, dříve napsanými, webovými adresami.</li>
-          <li><strong>Zobrazovat vyhledávací moduly</strong>: V posledním řádku výsuvného seznamu se zobrazí odkaz na vyhledání vloženého textu preferovanou vyhledávací službou.</li>
-          <li><strong>Nabízet pouze dříve napsané webové adresy</strong>: Zobrazovat se budou pouze webové stránky napsané do adresního řádku, narozdíl od stránek, které byly navštíveny jiným způsobem, např. klepnutím na odkaz.</li>
-        </ul>
-      </li>
+          <li><strong>Nabízet pouze dříve napsané webové adresy</strong>: 
+		  Shows only websites that you&apos;ve typed in
+            the Location Bar and not sites that were opened in other ways, such
+            as clicking a link on a web page.</li>
+          <li><strong>Automatically prefill the best match</strong>: As you
+            type in the Location Bar, &brandShortName; will automatically
+            complete your web address using the visited website it most closely
+            matches. <span class="unix"><strong>Note</strong>: Having this
+            option on will prefill local addresses (like paths to files on your
+            hard drive) even if you have turned off <q>Autocomplete from your
+            browsing history as you type</q>.</span></li>
+          <li><strong>Show list of matching results</strong>: As you type in
+            the Location Bar, &brandShortName; will show a drop-down list of
+            matching visited web addresses.
+            <span class="unix"><strong>Note</strong>: If you have turned off
+            <q>Autocomplete from your browsing history as you type</q>
+            matching results from locations on your hard drive will still be
+            shown in the drop-down list.</span></li>
+        </ul></li>
     </ul>
   </li>
-  <li><strong>Odhadování domén</strong>: Zvolte, pokud chcete, aby &brandShortName; automaticky přidávala <tt>www.</tt> a <tt>.cz</tt> k webové stránce zadané v adresním řádku, pokud nemůže být nalezena. Pro více detailních informací o funkcí hádání domén nahlédněte do on-line dokumentu <a href="http://www.mozilla.org/docs/end-user/domain-guessing.html">Domain Guessing</a> (Eng.).</li>
+  <li><strong>Vyhledávací moduly</strong>:
+    <ul>
+      <li><strong>Zobrazit výchozí modul</strong>: Shows a drop-down list item,
+        allowing you to search with the default search engine for words you
+        enter.</li>
+    </ul>
+  </li>
+  <li><strong>Neznámá adresa</strong>
+    <ul>
+      <li><strong>Pokud není nalezena webová adresa, automaticky přidat k názvu 
+	  <q>www.</q> a <q>.com</q> </strong>: 
+	  Select this if you want &brandShortName; to
+        automatically add <tt>www.</tt> to the beginning and <tt>.com</tt> to
+        the end of a web page location that can&apos;t be found. For more
+        detailed information about this feature, see the online document
+        <a href="http://www.mozilla.org/docs/end-user/domain-guessing.html">
+        Domain Guessing</a>.</li>
+      <li><strong>Pokud není nalezena webová adresa, provést hledání ve
+        vyhledávači</strong>: Select this to let &brandShortName; automatically
+        search the web for text entered in the Location Bar. If the text
+        you&apos;ve typed is not a web location, &brandShortName; will do a web
+        search when you press <kbd class="noMac">Enter</kbd>
+        <kbd class="mac">Return</kbd> in the Location Bar. See the online
+        document
+        <a href="http://www.mozilla.org/docs/end-user/internet-keywords.html">
+        Internet Keywords</a> for a more technical description about this
+        feature. <strong>Poznámka</strong>: The search engine used can not be
+        changed by the <a href="#internet_search">Internet Search
+        Preferences</a>.<!--end translate--></li>
+    </ul>
+  </li>
 </ul>
 
 <p>[<a href="#navigator_preferences">Návrat na začátek kapitoly</a>]</p>
@@ -394,7 +440,7 @@ nebo stiskněte <kbd>Command</kbd> a zároveň <kbd>Return</kbd> na odkazu</span
 <p>Více informací o stahování souborů z webových stránek naleznete v kapitole
   <a href= "nav_help.xhtml#plugins_and_downloads">Zásuvné moduly a stahování</a>.</p>
 
-<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+<p>&copyright.string;</p>
 
 </body>
 </html>

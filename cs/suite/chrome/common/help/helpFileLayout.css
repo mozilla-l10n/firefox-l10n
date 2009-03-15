@@ -42,7 +42,7 @@ body {
 	max-width: 120ex;
 }
 
-dd { margin-left: 0px; margin-bottom: 1em; }
+dd { -moz-margin-start: 0px; margin-bottom: 1em; }
 dt { font-size: 10pt; font-weight: bold; }
 tt { font-size: 10pt; }
 
@@ -63,7 +63,9 @@ kbd { font-family: sans-serif; }
 .defaultTable th { background-color: #99ccff;
   border: 1px solid grey; font-size: 10pt; padding: 4px; text-align: left; }
 
-.defaultTable tbody > tr.even { background-color: #eeeeee; }
+.tbody-default > tr:nth-child(2n) {
+  background-color: #eeeeee;
+}
 
 .boilerPlate { font-size: 7pt; }
 
@@ -88,9 +90,6 @@ p:first-child { padding-top: 0; margin-top: 0; }
 	list-style-type: none;
 }
 
-.makeLeftMargin {
-	margin-left: 25px;
+a[href^="http://"]:after, a[href^="https://"]:after, a[href^="x-moz-url-link:"]:after {
+	content: url("images/web-links.png");
 }
-
-a[href^="http://"]:after, a[href^="https://"]:after 
-{ content: url("chrome://help/locale/images/web-links.png"); }

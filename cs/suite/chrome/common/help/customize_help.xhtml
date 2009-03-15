@@ -11,7 +11,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>Úprava nastavení aplikace &brandShortName;</title>
-<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+<link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
@@ -33,7 +33,9 @@ funkcí Postranních panelů, Záložek či Prohlížení v panelech.</p>
   <li><a href="#toolbars">Panely nástrojů</a></li>
   <li><a href="#bookmarks">Záložky</a></li>
   <li><a href="#specifying_how_mozilla_starts_up">Nastavení startu aplikace &brandShortName;</a></li>
-  <li><a href="cs_nav_prefs_appearance.xhtml#navigator_settings">Nastavení Prohlížeče</a></li>
+  <li><a href="cs_nav_prefs_appearance.xhtml">Nastavení vzhledu prohlížeče</a></li>
+  <li><a href="cs_nav_prefs_navigator.xhtml">Nastavení prohlížeče</a></li>
+  <li><a href="cs_nav_prefs_advanced.xhtml">Rozšířené nastavení</a></li>
 </ul>
 </div>
 
@@ -289,7 +291,7 @@ prohlížeče - Prohlížení v panelech</a>.</p>
 nabídku Soubor, klepněte na podnabídku Nový objekt. Zde klepněte na položku Panel prohlížeče.</li>
   <li><strong>Z lišty panelů</strong>: Je-li zobrazená, klepněte na ikonu <q>Nový
 panel</q>
-    <img src="chrome://global/skin/icons/tab-new.gif" alt="new tab icon"/> na levé straně Lišty panelů.</li>
+    <img src="chrome://navigator/skin/icons/tab-new.gif" alt="new tab icon"/> na levé straně Lišty panelů.</li>
   <li><strong>Z místní nabídky</strong>: Je-li lišta panelů zobrazená,
 klepněte na ni pravým tlačítkem a z místní nabídky klepněte na položku Nový panel.</li>
 </ul>
@@ -456,22 +458,24 @@ zvýrazňování syntaxe</q>.</p>
 
 <h3 id="changing_the_theme">Změna Motivu vzhledu</h3>
 
-<p>Změnou Motivu vzhledu lze snadno změnit vzhled aplikace &brandShortName;.</p>
+<p>Změnou Motivu vzhledu lze snadno změnit vzhled aplikace &brandShortName;. <!--translate-->Changing the theme can be done either from the View menu or from the
+  Add-on Manager.</p>
+
+<p>From the View menu:</p>
 
 <ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Vzhled klepněte na podkategorii Motiv vzhledu.</li>
-  <li>Kliknutím zvolte motiv, které chcete používat.</li>
-  <li>Pro potvrzení klepněte na tlačítko OK.
-  
-    <p><strong>Poznámka</strong>: Pro změnu Motivu vzhledu je třeba aplikace &brandShortName;
-ukončit a znovu spustit.</p>
-
-  </li>
+  <li>Otevřete nabídku Zobrazit a klepněte na položku Motivy vzhledu, and then select a theme from
+    the menu.</li>
 </ol>
 
-<p><strong>Zkratka</strong>: Motiv je možno
-rychleji změnit otevřením nabídky Zobrazit a klepnutím na podnabídku Motivy vzhledu. Zde klepněte na motiv, který vám nejvíce vyhovuje.</p>
+<p>From the Add-on Manager:</p>
+
+<ol>
+  <li>Otevřete nabídku Nástrojet a klepněte na položku Správce doplňků.</li>
+  <li>Klepněte na tlačítko Motivy vzhledu v panelu nástrojů.</li>
+  <li>Select a theme from the list, and then click the Použít motiv vzhledu.</li>
+  <li>Quit and restart &brandShortName;.<!--end translate--></li>
+</ol>
 
 <p>[<a href="#changing_fonts_colors_and_themes">Návrat na začátek kapitoly</a>]</p>
 
@@ -541,7 +545,7 @@ můžete přidat do Osobní lišty tímto způsobem:</p>
   
 <ol>
   <li>Přejděte na stránku, jejíž záložku chcete přidat.</li>
-  <li>Přetáhněte myší ikonku stránky <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif"
+  <li>Přetáhněte myší ikonku stránky <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
     alt="image of bookmark icon"/>  (nalevo v editačním poli Adresního řádku) na
 určité místo na Osobní liště. Můžete přetáhnout ikonu záložky přímo do
 Osobní lišty, nebo do adresáře v liště umístěném. Pro více informací,
@@ -549,7 +553,7 @@ viz. <a href="#adding_bookmark_folders_to_the_personal_toolbar">Přidání slož
 Osobní lišty</a>.</li>
 </ol>
 
-<p><strong>Poznámka</strong>: Ikona záložky <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif" alt="image
+<p><strong>Poznámka</strong>: Ikona záložky <img src="chrome://communicator/skin/bookmarks/bookmark-item.png" alt="image
   of bookmark icon"/> může být nahrazena jinou, webovými
 stránkami určenou ikonou, pokud jste vybrali zaškrtávací políčko Zobrazovat ikony
 webového serveru v Předvolbách. Více informací najdete zde <a href="cs_nav_prefs_appearance.xhtml#appearance">Předvolby - Vzhled</a>.</p>
@@ -628,17 +632,17 @@ Prohlížeče. Obsahuje následující objekty:</p>
 aplikace &brandShortName;. Více informací viz. <a href="#component_bar">Lišta komponent</a>.</li>
   <li>Informace o stavu: Zobrazuje informace jako např. URL adresu
 webové stránky a informaci o stavu načítání stránky.</li>
-  <li>Ikona upozornění na cookie <img src="chrome://cookie/content/taskbar-cookie.gif"
+  <li>Ikona upozornění na cookie <img src="chrome://communicator/skin/permissions/taskbar-cookie.gif"
     alt="cookie notification icon"/>: Zobrazí se, když webová stránka
 použije cookie tak, že na to musíte být upozorněni. Pro podrobnější
 informace se podívejte na <a href="using_priv_help.xhtml#cookie_notification">Upozorňování na cookie</a>.</li>
-  <li>Ikona práce offline <img src="chrome://communicator/skin/icons/offline.gif"
-    alt="work offline icon"/> nebo práce online <img src="chrome://communicator/skin/icons/online.gif"
+  <li>Ikona práce offline <img src="chrome://communicator/skin/icons/offline.png"
+    alt="work offline icon"/> nebo práce online <img src="chrome://communicator/skin/icons/online.png"
     alt="work online icon"/> : Kliknutím na ikonu přepínáte mezi prací
 online a offline. Při práci offline se aplikace &brandShortName; brání připojení k
 Internetu například z důvodu načítání obrázků nebo automatické kontroly
 nové pošty.</li>
-  <li>Ikona zámku (Příklad: <img src="chrome://communicator/skin/icons/lock-insecure.gif"
+  <li>Ikona zámku (Příklad: <img src="chrome://communicator/skin/icons/lock-insecure.png"
     alt="lock icon"/>): Indikuje, zda byl obsah webové stránky při přenosu
 do vašeho počítače zašifrovaný. Pro podrobnější informace se podívejte
 na <a href="using_certs_help.xhtml#checking_security_for_a_web_page">Kontrola zabezpečení webové stránky</a>.</li>
@@ -749,7 +753,7 @@ okně, můžete přidat aktuálně prohlížené webové stránky jako jedinou
 záložku klepnutím na položku <q>Přidat skupinu panelů k záložkám</q>. Po klepnutí na takto vytvořenou záložku se otevřou všechny panely v aktuálním okně.</p>
 
   </li>
-  <li>Pro přidání záložky do Osobní lišty, přetáhněte myší ikonku <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif"
+  <li>Pro přidání záložky do Osobní lišty, přetáhněte myší ikonku <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
     alt="image of bookmark icon"/> stránky z editačního pole Adresního řádku na určité místo
 nebo do určité složky záložek na Osobní liště. Záložku můžete
 přetáhnout na následující místa:
@@ -777,7 +781,7 @@ liště.</li>
   <li>Chcete-li přidat záložku na panel Záložky na Postranní liště,
 otevřete Postranní lištu, klepněte na jmenovku Záložky a přeneste
 ikonu záložky 
-    <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif"
+    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
     alt="image of bookmark icon"/> z editačního pole Adresního řádku na zvolené místo v panelu 
 Záložky.
   </li>
@@ -785,7 +789,7 @@ Záložky.
 
 <p><strong>Poznámky</strong>:</p>
 <ul>
-  <li>Ikona záložky <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif"
+  <li>Ikona záložky <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
     alt="image of bookmark icon"/> může být nahrazena vlastní ikonou webové
 stránky, pokud jste vybrali zaškrtávací políčko Zobrazovat ikony webového serveru
 v předvolbách. Pro více informací se podívejte na <a href="cs_nav_prefs_appearance.xhtml#appearance">Předvolby - vzhled</a>.</li>
@@ -837,8 +841,11 @@ tlačítko Smazat v Nástrojové liště.</li>
 <p>Seřazení záložek v dialogovém okně Správce záložek:</p>
 
 <ul>
-  <li>Otevřete nabídku Zobrazit a vyberte si, jak chcete seznam
-seřadit (podle jména, podle umístění, popisu).
+  <li><!--translate-->Select the folder you want to sort.</li>
+  <li>To sort bookmarks by Name, open the Edit menu and select Sort Folder by
+    Name.</li>
+  <li>To sort bookmarks in other ways, open the Edit menu and select Sort
+    Folder. In the dialog, choose how you want the list sorted.<!--end translate-->
 
     <p><strong>Tip</strong>: Chcete-li zobrazit více sloupců, otevřete nabídku
 Zobrazit, klepněte na podnabídku <q>Zobrazit sloupce</q> a zde klepněte na název sloupce který chcete zobrazit.</p></li>
@@ -881,12 +888,11 @@ založených webových stránek.</p>
   <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
   <li>V dialogovém okně Správce záložek vyberte záložku, kterou chcete změnit.</li>
   <li>Klepněte na tlačítko Vlastnosti.</li>
-  <li>Otevře se vám dialogové okno Vlastnosti záložky a zde je sekce
-Kontrolovat odkaz na změny.</li>
-  <li>V rozbalovacím seznamu nastavte jak často bude &brandShortName; kontrolovat
-aktualizace webových stránek.</li>
-  <li>Chcete-li být upozorněni při změně stránky, v sekci Oznámení si můžete
-způsob oznámení nakonfigurovat.</li>
+  <li><!--translate-->Use the pull down lists and the textfield under <q>Check this location
+    for updates</q> to specify how often you want &brandShortName; to check the
+    bookmarked page for changes.</li>
+  <li>To be notified when the bookmarked page changes, choose from the options
+    in the <q>Notification</q> section.<!--end translate--></li>
 </ol>
 
 <p> [<a href="#bookmarks">Návrat na začátek kapitoly</a>]</p>
@@ -954,9 +960,15 @@ HTML.</p>
   <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
   <li>Otevře se vám dialogové okno Správce záložek. V něm otevřete nabídku
 Nástroje a klepněte na položku Importovat.</li>
-  <li>V dialogovém okně <q>Import souboru se záložkami</q> vyberte
-adresář do kterého chcete kopii souboru bookmarks.html importovat.</li>
-  <li>Klepněte na tlačítko Otevřít.</li>
+  <li><!--translate-->In the dialog that appears, choose whether you want to import bookmarks
+    from earlier versions of &brandShortName;, or from a bookmarks file on your
+    computer.</li>
+  <li>Click Continue.</li>
+  <li>If you have chosen to import bookmarks from an earlier version of
+    &brandShortName;, select the profile you want to import bookmarks from,
+    then click Continue. If you have chosen to import bookmarks from a
+    file, navigate to and select the bookmarks file you want to import, then
+    click Open.<!--end translate--></li>
 </ol>
 
 <p>Importované záložky (se zachováním struktury) jsou připojeny na
@@ -984,9 +996,10 @@ bookmarks.html. Soubory se záložkami se nezdvojí.</p>
 Prohlížeče:</p>
 
 <ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">
+  	Úpravy</span> a klepněte na položku Předvolby.</li>
   <li>Klepněte na kategorii Prohlížeč</li>
-  <li>V sekci <q>Zobrazit při spuštění prohlížeče</q> si vyberte přepínač Prázdná stránka,
+  <li>V sekci <q>Zobrazit v spuštění prohlížeče</q> si vyberte přepínač Prázdná stránka,
 Domovská stránka nebo Naposledy navštívenou stránku , která se automaticky
 nahraje při spuštění Prohlížeče.
   <p><strong>Poznámka</strong>: Zvolíte-li Domovskou stránku, uveďte URL adresu do adresního řádku.</p></li>
@@ -1004,7 +1017,8 @@ při startu aplikace &brandShortName;.</p>
 <p>Chcete-li zadat vaší domovskou stránku:</p>
 
 <ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">
+  	Úpravy</span> a klepněte na položku Předvolby.</li>
   <li>Klepněte na kategorii Prohlížeč.</li>
   <li>V sekci Domovská stránka proveďte jeden z následujících
 kroků:
@@ -1019,7 +1033,7 @@ který se nachází na pevném disku vašeho počítače.</li>
 </ol>
 
 <p><strong>Tip</strong>: Pro rychlé zadání domovské stránky přetáhněte ikonu
-záložky <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif"
+záložky <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
   alt="image of bookmark icon"/> z adresního řádku na tlačítko Domů na
 Osobní liště.</p>
 
@@ -1039,7 +1053,7 @@ startu aplikace &brandShortName;.</li>
 
 <p>[<a href="#specifying_how_mozilla_starts_up">Návrat na začátek kapitoly</a>]</p>
 
-<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+<p>&copyright.string;</p>
 
 </body>
 </html>

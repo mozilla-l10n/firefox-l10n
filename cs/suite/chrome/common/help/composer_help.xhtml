@@ -11,7 +11,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
    <title>Vytváření webových stránek s Editorem</title>
-   <link rel="stylesheet" type="text/css" href="chrome://help/locale/helpFileLayout.css"/>
+   <link rel="stylesheet" type="text/css" href="helpFileLayout.css"/>
 </head>
 
 <body>
@@ -30,7 +30,7 @@ Pro používání Editoru nemusíte umět jazyk HTML; tvorba stánek je zde stej
 </ul>
 
 <div><img src="images/composer_icon.png" width="128" height="23" alt="" /></div>
-<div style="margin-left: 80px;"><strong>Ikona Editoru</strong></div>
+<div style="-moz-margin-start: 80px;"><strong>Ikona Editoru</strong></div>
 
 <div class="contentsBox">V této kapitole:
   <ul>
@@ -197,7 +197,7 @@ Nadpis 1 je nadpis nejvyšší úrovně, Nadpis 6 je nejnižší úroveň nadpis
 <li><strong>Adresa</strong>: Může být použito pro <q>podpis</q> webové stránky obsahující
 jméno autora stránky a kontaktní osobu, například: <tt>uzivatel@vzor.com</tt> 
 
-<p>Toto formátování se hodí k umístění datumu a oznámení o autorství či podmínkách kopírování. Tyto informace se většinou umísťují do spodní části stránky, pod vodorovnou linku. prohlížeč zobrazuje toto formátování kurzívou.</p>
+<p>Toto formátování se hodí k umístění datumu a oznámení o autorství či podmínkách kopírování. Tyto informace se většinou umísťují do spodní části stránky, pod vodorovnou linku. Prohlížeč zobrazuje toto formátování kurzívou.</p>
 </li>
 
 <li><strong>Předformátováno</strong>: Toto formátování se používá pro věci jako třeba ukázky zdrojových kódů, data ve sloupcích a e-mailové zprávy, které chcete zobrazit fontem
@@ -332,11 +332,8 @@ položky obou seznamů. Počítejte s tím, že případný text mezi oběma sez
 <li><strong>Písmo</strong>: Klepněte pro změnu písma (fontu).
 Pokud dáváte přednost písmům, které má nastaveny prohlížeč čtenáře, klepněte na položku Proporcionální nebo Neproporcionální. 
 
-<p><strong>Poznámka</strong>: Nezobrazují se všechna písma, které máte nainstalované na počítači.
-Namísto použití písma které nemusí být dostupný všem kteří si budou
-prohlížet stránku kterou vytváříte, je všeobecně lepší vybrat jedno z písem které jsou v nabídce,
-protože tyto fonty fungují na všech počítačích.
-Například písma Helvetica, Arial, Times, a Courier obecně vypadají stejně, když se zobrazují na různých počítačích. Pokud zvolíte jiné písma, nemusí na jiném počítači vypadat stejně.</p>
+<p><strong>Poznámka</strong>: Písma Helvetica, Arial, Times, a Courier obecně vypadají stejně, 
+při zobrazení na různých počítačích. Pokud zvolíte jiné písma, nemusí na jiném počítači vypadat stejně.</p>
 </li>
 
 <li><strong>Velikost</strong>: Klepněte pro změnu <em>relativní</em> velikosti písma
@@ -579,7 +576,7 @@ Pro odstranění vlastnosti zvolte požadovanou vlastnost v seznamu a klepněte 
 <p>Než nahrajete váš dokument na webový server, aby ho mohli ostatní prohlížet,
 měli byste nejdřív zkontrolovat formátování HTML v tomto dokumentu, abyste se ujistili, že odpovídá standardům webu. Dokumenty, které obsahují validovaný (ověřený) kód HTML s větší pravděpodobností
 nezpůsobí problémy, když budou prohlíženy v různých prohlížečích.
-Pouhá vizuální kontrola webových stánek v Navigátoru neověří, že se stránky
+Pouhá vizuální kontrola webových stánek v Prohlížeči neověří, že se stránky
 zobrazí správně v jiných webových prohlížečích.</p>
 
 <p>Editor poskytuje pohodlný způsob pro ověření, že váš dokument splňuje
@@ -593,14 +590,14 @@ Tato služba také poskytuje informace o tom, jak opravit chyby.</p>
 <p>Pro ověření HTML syntaxe vašeho dokumentu:</p>
 
 <ol>
-<li>Otevřete nabídku Nástroje a klepněte na položku Kontrolovat HTML.
+<li>Otevřete nabídku Nástroje a klepněte na položku Kontrola HTML.
 Pokud máte v dokumentu nějaké neuložené změny, Editor vás požádá
 o jejich uložení, než budete moci pokračovat.</li>
 
-<li>Až se objeví stránka W3C HTML ověřovací služby, klepněte na tlačítko Procházet
+<li>Až se objeví stránka W3C HTML ověřovací služby, klepněte na tlačítko <q>Procházet</q>
 a na vašem disku vyberte soubor který chcete validovat.</li>
 
-<li>Klepněte na tlačítko <q>Validovat tento dokument</q>.</li>
+<li>Klepněte na tlačítko <q>Check</q>.</li>
 </ol>
 
 <p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
@@ -720,7 +717,7 @@ Zvolte jednu možnost z rozbalovacího seznamu.</li>
 Použijte tuto položku pro zadání barvy pozadí tabulky, nebo ji ponechte průhlednou.</li>
       </ul></li>
   <li>Pro přidání rozšířených vlastností nebo událostí JavaScriptu, klepněte
-na tlačítko Rozšířené úpravy; zobrazí se <a href="#formatting_paragraphs_headings_and_lists">Editor
+na tlačítko Rozšířené úpravy; zobrazí se <a href="#using_the_advanced_property_editor">Editor
 rozšířených vlastností</a>.</li>
   <li>Klepněte na tlačítko Použít pro náhled provedených změn bez opuštění dialogového okna nebo klepněte na tlačítko OK pro jejich potvrzení.</li>
 </ol>
@@ -831,7 +828,8 @@ s mezerami nebo s nepravidelným rozmístěním buněk způsobeným nestejným p
 <p>Pro změnu výchozího chování při úpravě tabulky začněte v okně Editoru:</p>
 
 <ol>
-<li>Otevřete nabídku Úpravy, klepněte na položku Předvolby. Potom klepněte na kategorii Editor.</li>
+<li>Otevřete nabídku <span class="mac">&brandShortName;</span>
+    <span class="noMac">Úpravy </span>, klepněte na položku Předvolby. Potom klepněte na kategorii Editor.</li>
 
 <li>V sekci Úprava tabulky nastavte tyto volby:
 
@@ -840,10 +838,8 @@ s mezerami nebo s nepravidelným rozmístěním buněk způsobeným nestejným p
 </ul></li>
 
 
-<li>Klepněte na tlačítko OK.</li>
+<li class="win">Klepněte na tlačítko OK.</li>
 </ol>
-
-<p>Viz také <a href="#composer">Nastavení obecných voleb Editoru</a>.</p>
 
 <p>[<a href="#adding_tables_to_your_web_page">Návrat na začátek kapitoly</a>]</p>
 
@@ -1280,9 +1276,16 @@ prohlížeč zobrazí stránku, na kterou obrázek odkazuje.</p>
 <p><strong>Tip</strong>: Přetáhněte obrázek s odkazem z okna prohlížeče
 do okna Editoru pro zkopírování obrázku i s odkazem.</p>
 
-<p><strong>Poznámka</strong>:
-Pro odstranění modrého rámečku kolem obrázků s odkazy, otevřete dialogové okno Vlastnosti obrázku,
-klepněte na panel Odkaz a zde odeberte zaškrtávací políčko <q>Zobrazit okraje okolo obrázku</q>.</p>
+<p><strong>Poznámka</strong>: <!--translate-->To remove the blue border that can appear around
+  images used as links:</p>
+
+<ol>
+  <li>Select the linked image.<!--end translate--></li>
+  <li>Otevřete nabídku Formát a klepněte na položku Vlastnosti Obrázek a odkaz.</li>
+  <li>V dialogovém okně klepněte na panel Odkaz.</li>
+  <li>Odznačte <q>Zobrazit okraje okolo obrázku</q>.</li>
+  <li>Klepněte na tlačítko OK.</li>
+</ol>
 
 <p>[<a href="#creating_links_in_composer">Návrat na začátek kapitoly</a>]</p>
 
@@ -1542,9 +1545,7 @@ Samotné místo (soubory na webovém serveru) zůstane beze změn.</p></li>
 
 <p>Pokud se nepodaří publikovat jeden nebo více souborů v dialogovém okně Zveřejňuje se
 zobrazí chybové hlášení, které vám může pomoci zjistit, co se pokazilo
-a jak by se problém dal řešit.
-V dialogovém okně Zveřejňuje se klepněte na tlačítko Řešení problémů pro získání nápovědy
-při řešení vašich problémů s publikováním.</p>
+a jak by se problém dal řešit.</p>
 
 <p>Pokud problémy s publikováním přetrvávají, uložte soubor na váš pevný disk
 otevřením nabídky Soubor a klepnutím na položku Uložit.
@@ -2109,7 +2110,7 @@ Otevřete nabídku Formát a klepněte na položku Barvy a pozadí stránky.</p>
 
 <p>[<a href="#composer_preferences">Návrat na začátek kapitoly</a>]</p>
 
-<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+<p>&copyright.string;</p>
 
 </body>
 </html>
