@@ -9,9 +9,11 @@
 <!ENTITY reloadAllTabs.accesskey "b">
 <!ENTITY reloadTab.label "Obnovit panel">
 <!ENTITY reloadTab.accesskey "O">
+<!ENTITY openTabInNewWindow.label "Otevřít v novém okně">
+<!ENTITY openTabInNewWindow.accesskey "v">
 <!ENTITY listAllTabs.label "Seznam všech panelů">
 <!ENTITY bookmarkAllTabs.label "Přidat všechny panely do záložek…">
-<!ENTITY bookmarkAllTabs.accesskey "v">
+<!ENTITY bookmarkAllTabs.accesskey "d">
 <!ENTITY bookmarkThisTab.label "Přidat tento panel do záložek…">
 <!ENTITY bookmarkThisTab.accesskey "P">
 <!ENTITY undoCloseTab.label "Otevřít zavřený panel">

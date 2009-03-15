@@ -3,6 +3,8 @@
 <!ENTITY permissions.default.image.description "Zkrášlí webové stránky">
 <!ENTITY javascript.enabled.title "Povolit Javascript">
 <!ENTITY javascript.enabled.description "Zefektní webové stránky">
+<!ENTITY javascript.options.jit.content.title "V JavaScriptu povolit stopování">
+<!ENTITY javascript.options.jit.content.description "V JavaScriptu použije kompilaci do nativního kódu">
 <!ENTITY plugins.enabled.title "Povolit moduly">
 <!ENTITY plugins.enabled.description "Zotravní webové stránky">
 <!ENTITY privacy.title "Soukromí a bezpečnost">
