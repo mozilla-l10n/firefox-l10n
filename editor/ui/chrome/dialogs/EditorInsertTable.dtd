@@ -40,12 +40,12 @@
 
 <!ENTITY size.label "அளவு">
 <!ENTITY numRowsEditField.label "வரிசைகள்:">
-<!ENTITY numRowsEditField.accessKey "வ">
+<!ENTITY numRowsEditField.accessKey "R">
 <!ENTITY numColumnsEditField.label "நெடுவரிசைகள்:">
-<!ENTITY numColumnsEditField.accessKey "ந">
+<!ENTITY numColumnsEditField.accessKey "C">
 <!ENTITY widthEditField.label "அகலம்:">
-<!ENTITY widthEditField.accessKey "அ">
+<!ENTITY widthEditField.accessKey "W">
 <!ENTITY borderEditField.label "கரை:">
-<!ENTITY borderEditField.accessKey "க">
+<!ENTITY borderEditField.accessKey "B">
 <!ENTITY borderEditField.tooltip "பட்டியலின் கரைக்காக ஒரு எண்ணை தட்டச்சு செய்க, அல்லது கரை வேண்டாமென்றால் (0) என தட்டச்சு செய்க">
 <!ENTITY pixels.label "பிக்சல்கள்">
