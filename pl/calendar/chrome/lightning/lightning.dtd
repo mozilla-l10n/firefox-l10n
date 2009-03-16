@@ -41,7 +41,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!-- Tools menu -->
 <!ENTITY lightning.taskLabel "Lightning">
 
@@ -51,12 +51,12 @@
 <!ENTITY lightning.menupopup.new.calendar.label "Kalendarz…">
 
 <!-- Open menu popup in File menu -->  
-<!ENTITY lightning.menupopup.open.label               "Otwórz"> 
-<!ENTITY lightning.menupopup.open.accesskey           "O">   
+<!ENTITY lightning.menupopup.open.label               "Otwórz">
+<!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Zapisana wiadomość…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "w">    
+<!ENTITY lightning.menupopup.open.message.accesskey   "w">
 <!ENTITY lightning.menupopup.open.calendar.label      "Plik kalendarza…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey  "k">            
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
 
 <!-- Messenger Sidebar -->
 <!ENTITY lightning.calendar.label                "Kalendarz">
@@ -82,7 +82,7 @@
 <!ENTITY lightning.toolbar.week.label                "Tydzień">
 <!ENTITY lightning.toolbar.week.accesskey            "T">
 <!ENTITY lightning.toolbar.multiweek.label           "Wiele tygodni">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "n">                       
+<!ENTITY lightning.toolbar.multiweek.accesskey       "n">
 <!ENTITY lightning.toolbar.month.label               "Miesiąc">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 

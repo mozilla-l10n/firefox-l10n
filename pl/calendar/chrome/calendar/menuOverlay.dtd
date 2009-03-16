@@ -104,8 +104,8 @@
 <!ENTITY addressBookCmd.label                   "Książka adresowa">
 <!ENTITY addressBookCmd.accesskey               "a">
 
-<!ENTITY calendar.importcalendar.label          "Importuj kalendarz…">           
-<!ENTITY showCurrentView.label                  "Bieżący widok">                 
-<!ENTITY showCurrentView.accesskey              "B">                            
-<!ENTITY calendar.properties.label              "Właściwości kalendarza…">       
+<!ENTITY calendar.importcalendar.label          "Importuj kalendarz…">
+<!ENTITY showCurrentView.label                  "Bieżący widok">
+<!ENTITY showCurrentView.accesskey              "B">
+<!ENTITY calendar.properties.label              "Właściwości kalendarza…">
 <!ENTITY calendar.properties.accesskey          "W">

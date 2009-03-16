@@ -128,8 +128,8 @@
 <!ENTITY calendar.list.header.label                 "Kalendarz">
 
 <!ENTITY calendar.task.filter.title.label           "Wyświetl">
-<!ENTITY calendar.task.filter.all.label             "Wszystko"> 
-<!ENTITY calendar.task.filter.all.accesskey         "W"> 
+<!ENTITY calendar.task.filter.all.label             "Wszystko">
+<!ENTITY calendar.task.filter.all.accesskey         "W">
 <!ENTITY calendar.task.filter.today.label           "Dzisiaj">
 <!ENTITY calendar.task.filter.today.accesskey       "D">
 <!ENTITY calendar.task.filter.next7days.label       "Następne siedem dni">
@@ -186,7 +186,7 @@
 <!ENTITY calendar.context.deletefutureevents.label     "Wszystkie przyszłe wydarzenia">
 <!ENTITY calendar.context.deletefutureevents.accesskey "W">
 <!ENTITY calendar.context.deletefuturetasks.label     "Wszystkie przyszłe zadania">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "W">                      
+<!ENTITY calendar.context.deletefuturetasks.accesskey "W">
 <!ENTITY calendar.context.cutevent.label              "Wytnij">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
 <!ENTITY calendar.context.copyevent.label             "Kopiuj">
@@ -196,7 +196,7 @@
 <!ENTITY calendar.context.selectall.label             "Zaznacz wszystko">
 <!ENTITY calendar.context.selectall.accesskey         "a">
 <!ENTITY calendar.context.button.label                "Bieżące">
-<!ENTITY calendar.context.button.accesskey            "B" >                     
+<!ENTITY calendar.context.button.accesskey            "B" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Postęp">

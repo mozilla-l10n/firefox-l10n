@@ -72,11 +72,11 @@
 <!ENTITY calendar.publish.calendar.label        "Publikuj kalendarz…">
 <!ENTITY calendar.publish.calendar.accesskey    "P">
 <!ENTITY calendar.publish.selection.label       "Publikuj zaznaczone…">
-<!ENTITY calendar.publish.selection.accesskey   "b">           
+<!ENTITY calendar.publish.selection.accesskey   "b">
 
 <!ENTITY calendar.quit.label                    "Zakończ">
 <!ENTITY calendar.quit.accesskey                "k">
-<!ENTITY calendar.quit.key                      "Q"> 
+<!ENTITY calendar.quit.key                      "Q">
 <!ENTITY calendar.quit.label.mac                "Zakończ program &brandShortName;">
 
 <!ENTITY calendar.exit.label                    "Zakończ">
