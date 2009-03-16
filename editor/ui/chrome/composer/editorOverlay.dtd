@@ -280,8 +280,8 @@
 <!ENTITY paragraphPreformatCmd.accesskey "P">
 
 <!-- List menu items -->
-<!ENTITY formatlistMenu.label "listă">
-<!ENTITY formatlistMenu.accesskey "l">
+<!ENTITY formatlistMenu.label "Listă">
+<!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Nimic">
 <!ENTITY noneCmd.accesskey "N">
 <!ENTITY listBulletCmd.label "Buline">
@@ -359,7 +359,7 @@
 <!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Tabel">
 <!ENTITY tableTable.accesskey "T">
-<!ENTITY tableRow.label "RÂND">
+<!ENTITY tableRow.label "Rând">
 <!ENTITY tableRows.label "Rând(uri)">
 <!ENTITY tableRow.accesskey "R">
 <!ENTITY tableRowAbove.label "Rând deasupra">

@@ -9,5 +9,5 @@
 <!ENTITY paneDisplay.title        "Afișare">
 <!ENTITY paneComposition.title    "Redactare">
 <!ENTITY paneAttachments.title    "Anexe">
-<!ENTITY panePrivacy.title        "Intimitate">
+<!ENTITY paneSecurity.title       "Securitate">
 <!ENTITY paneAdvanced.title       "Avansat">

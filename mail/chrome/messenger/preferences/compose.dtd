@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Înaintează mesajele:">
 <!ENTITY forwardMsg.accesskey                 "n">
 <!ENTITY inline.label                         "Mesaj inclus">
-<!ENTITY inline.accesskey                     "i">
 <!ENTITY asAttachment.label                   "Ca anexă">
-<!ENTITY asAttachment.accesskey               "a">
 <!ENTITY addExtension.label                   "adaugă extensia la numele fișierului">
 <!ENTITY addExtension.accesskey               "f">
 
@@ -26,7 +24,7 @@
 <!ENTITY spellCheck.label                     "Verifică ortografia înainte de a trimite">
 <!ENTITY spellCheck.accesskey                 "c">
 <!ENTITY spellCheckInline.label               "Activează verificarea ortografiei în timpul tastării">
-<!ENTITY spellCheckInline1.accesskey           "n">
+<!ENTITY spellCheckInline1.accesskey          "n">
 <!ENTITY languagePopup.label                  "Limba:">
 <!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Descarcă mai multe dicționare">

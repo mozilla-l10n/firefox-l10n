@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "Setări cont RSS">
+<!ENTITY accountTitle.label "Setări de cont">
 
 <!ENTITY biffStart.label "Verifică disponibilitatea articolelor noi la fiecare">
 <!ENTITY biffStart.accesskey "V">
@@ -13,8 +13,8 @@
 <!ENTITY manageSubscriptions.label "Gestionare abonamente…"> 
 <!ENTITY manageSubscriptions.accesskey "m">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Știri și bloguri">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "Știri și bloguri prin RSS">
-<!ENTITY rss.wizardLongName.accesskey "t">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Bloguri și fluxuri de știri">
+<!ENTITY feeds.wizardShortName "Fluxuri">
+<!ENTITY feeds.wizardLongName "Bloguri și fluxuri de știri">
+<!ENTITY feeds.wizardLongName.accesskey "f">

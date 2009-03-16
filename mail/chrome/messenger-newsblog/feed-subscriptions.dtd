@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Subscripții RSS">
+<!ENTITY feedSubscriptions.label "Abonamente la fluxuri">
 <!ENTITY subscriptionDesc.label "Notă: eliminarea sau schimbarea directorului pentru stocare nu va afecta articolele preluate anterior.">
 <!ENTITY feedTitle.label "Titlu:">
 <!ENTITY location.label  "Loc:">
