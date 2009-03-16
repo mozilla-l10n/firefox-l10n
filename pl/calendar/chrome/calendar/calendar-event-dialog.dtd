@@ -73,8 +73,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "W">
 <!ENTITY  event.menu.file.new.message.label               "Wiadomość">
 <!ENTITY  event.menu.file.new.message.accesskey           "m">
-<!ENTITY  event.menu.file.new.address.label               "Wizytówka">
-<!ENTITY  event.menu.file.new.address.accesskey           "t">
+<!ENTITY  event.menu.file.new.contact.label               "Wizytówka">
+<!ENTITY  event.menu.file.new.contact.accesskey           "t">
 <!ENTITY  event.menu.file.close.label                     "Zamknij">
 <!ENTITY  event.menu.file.close.accesskey                 "Z">
 <!ENTITY  event.menu.file.save.label                      "Zapisz">
