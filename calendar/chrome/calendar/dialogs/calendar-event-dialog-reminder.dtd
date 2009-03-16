@@ -11,18 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008-2009
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Mike Potter <mikep@oeone.com>
-   -   ArentJan Banck <ajbanck@planet.nl>
-   -   Eric Belhaire <belhaire@ief.u-psud.fr>
-   -   Matthew Willis <mattwillis@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,15 +34,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  prefWindow.titleWin     "වරණ">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; මනාපයන්">
-<!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
+<!ENTITY reminderdialog.title                              "සිහිකැඳවීම් සැකසීම">
+<!ENTITY reminder.add.label                                "එක් කරන්න">
+<!ENTITY reminder.add.accesskey                            "A">
+<!ENTITY reminder.remove.label                             "ඉවත් කරන්න">
+<!ENTITY reminder.remove.accesskey                         "R">
 
-<!ENTITY  paneGeneral.title       "සාමාන්‍ය">
-<!ENTITY  paneAlarms.title        "සංඥාව">
-<!ENTITY  paneCategories.title    "ප්‍රභේද">
-<!ENTITY  paneViews.title         "දැකුම්">
-<!ENTITY  paneTimezones.title     "වේලා කළාපය">
-<!ENTITY  paneAdvanced.title      "උසස්">
+<!ENTITY reminder.reminderDetails.label                    "සිහිකැඳවීම් විස්තර">
+<!ENTITY reminder.action.label                             "සිහිකැඳවීමේ ක්‍රියාවක් තෝරන්න">
+
+<!ENTITY reminder.relation.before.label                    "පෙර" >
+<!ENTITY reminder.relation.after.label                     "පසු" >
+
+<!ENTITY reminder.action.alert.label                       "සංඥාවක් පෙන්වන්න">
+<!ENTITY reminder.action.email.label                       "ඊ-මේලයක් යවන්න">
+
+<!ENTITY alarm.units.minutes                               "විනාඩි" >
+<!ENTITY alarm.units.hours                                 "පැය" >
+<!ENTITY alarm.units.days                                  "දින" >

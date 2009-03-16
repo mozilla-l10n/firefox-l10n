@@ -56,8 +56,6 @@
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP ප්‍රොක්සි:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Gopher ප්‍රොක්සි:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP ප්‍රොක්සි:">
 <!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL ප්‍රොක්සි:">
@@ -68,12 +66,11 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  port.label                    "පොර්ට්:">
+<!ENTITY  port.label                    "විවරය (port):">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ප්‍රොක්සි අවශ්‍ය නොවන්නේ:">
 <!ENTITY  noproxy.accesskey             "n">

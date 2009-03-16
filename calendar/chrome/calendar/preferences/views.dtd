@@ -45,8 +45,8 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "සාමාන්‍ය">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "දින සහ සති දර්‍ශන">
-<!ENTITY pref.calendar.view.multiweekview.caption "බහු සති දර්‍ශන">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "දින සහ සති දර්ශන">
+<!ENTITY pref.calendar.view.multiweekview.caption "බහු සති දර්ශන">
 <!ENTITY pref.calendar.view.workweek.caption "වැඩ පත">
 
 <!ENTITY pref.weekstarts.label "සතිය මෙම දිනයෙන් පටන් ගන්න:">
