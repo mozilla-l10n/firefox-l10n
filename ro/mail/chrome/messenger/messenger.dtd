@@ -44,8 +44,6 @@
 <!ENTITY compactFolders.accesskey    "C">
 <!ENTITY emptyTrashCmd.label "Golește coșul de gunoi">
 <!ENTITY emptyTrashCmd.accesskey    "G">
-<!ENTITY importCmd.label "Importă…">
-<!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Lucrează offline">
@@ -98,9 +96,6 @@
 <!ENTITY folderPropsFolderCmd.label "Proprietăți dosar…">
 <!ENTITY folderPropsNewsgroupCmd.label "Proprietăți grup de discuții…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Setările conturilor…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "r">
 <!ENTITY undoDeleteMsgCmd.label "Anulează ștergerea mesajului">
 <!ENTITY redoDeleteMsgCmd.label "Șterge mesajul din nou">
 <!ENTITY undoMoveMsgCmd.label "Anulează mutarea mesajului">
@@ -407,20 +402,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Unelte">
 <!ENTITY tasksMenu.accesskey "t">
-<!ENTITY addons.label "Suplimente">
-<!ENTITY addons.accesskey "S">
-<!ENTITY activitymanager.label "Gestionar de activitate">
-<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Poștă și grupuri de discuții">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY addressBookCmd.label "Agendă de contacte">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY runJunkControls.label "Controlează dosarul de mesaje spam">
-<!ENTITY runJunkControls.accesskey "C">
-<!ENTITY deleteJunk.label "Șterge mesajele spam din dosar">
-<!ENTITY deleteJunk.accesskey "l">
-<!ENTITY errorConsoleCmd.label "Consolă de erori">
-<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Suplimente">
+<!ENTITY addons.accesskey "S">
+<!ENTITY activitymanager.label "Gestionar de activitate">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY filtersCmd.label "Filtre de mesaje…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Filtrează dosarul">
@@ -429,6 +419,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "s">
 <!ENTITY filtersApplyToMessage.label "Rulează filtrele pe mesaj">
 <!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY runJunkControls.label "Controlează dosarul de mesaje spam">
+<!ENTITY runJunkControls.accesskey "C">
+<!ENTITY deleteJunk.label "Șterge mesajele spam din dosar">
+<!ENTITY deleteJunk.accesskey "l">
+<!ENTITY importCmd.label "Importă…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY errorConsoleCmd.label "Consolă de erori">
+<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY accountManagerCmd.label "Setările conturilor…">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "r">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Primește">

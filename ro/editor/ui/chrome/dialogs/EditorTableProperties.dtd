@@ -71,7 +71,7 @@
 
 <!ENTITY cellSelection.label              "Selecție">
 <!ENTITY cellSelectCell.label             "Celulă">
-<!ENTITY cellSelectRow.label              "RÂND">
+<!ENTITY cellSelectRow.label              "Rând">
 <!ENTITY cellSelectColumn.label           "Coloană">
 <!ENTITY cellSelectNext.label             "Înainte">
 <!ENTITY cellSelectNext.accessKey         "I">

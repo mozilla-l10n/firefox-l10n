@@ -3,6 +3,8 @@
 <!ENTITY permissions.default.image.description     "Face saiturile mai atractive">
 <!ENTITY javascript.enabled.title                  "Activează Javascript">
 <!ENTITY javascript.enabled.description            "Face saiturile interactive">
+<!ENTITY javascript.options.jit.content.title      "Activează urmărirea JavaScript">
+<!ENTITY javascript.options.jit.content.description "Folosește compilarea în cod nativ pentru JavaScript">
 <!ENTITY plugins.enabled.title                     "Activează modulele">
 <!ENTITY plugins.enabled.description               "Face saiturile supărătoare">
 <!ENTITY privacy.title                             "Intimitate și securitate">

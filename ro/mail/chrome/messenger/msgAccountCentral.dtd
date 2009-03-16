@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label           "Setări pentru mesaje spam">
 <!ENTITY offlineLink.label            "Setări pentru lucru offline">
 
-<!ENTITY rssSectionHdr.label          "Știri și bloguri prin RSS"> 
-<!ENTITY subscibeRSS.label            "Gestionează abonamentele">
+<!ENTITY feedsSectionHdr.label        "Fluxuri">
+<!ENTITY subscribeFeeds.label         "Gestionează abonamentele">

@@ -55,6 +55,6 @@
 
 <!ENTITY threeDShading.label "Umbrire 3-D">
 <!ENTITY threeDShading.accessKey "U">
-<!ENTITY saveSettings.label "Folosește implicit">
+<!ENTITY saveSettings.label "Folosește ca implicit">
 <!ENTITY saveSettings.accessKey "I">
 <!ENTITY saveSettings.tooltip "Salvează aceste setări pentru a fi folosite când introduceți linii orizontale">
