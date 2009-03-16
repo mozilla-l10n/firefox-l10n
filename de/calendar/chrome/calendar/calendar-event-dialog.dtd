@@ -70,8 +70,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "T">
 <!ENTITY  event.menu.file.new.message.label               "Nachricht">
 <!ENTITY  event.menu.file.new.message.accesskey           "a">
-<!ENTITY  event.menu.file.new.address.label               "Adressbuch-Karte">
-<!ENTITY  event.menu.file.new.address.accesskey           "K">
+<!ENTITY  event.menu.file.new.contact.label               "Kontakt">
+<!ENTITY  event.menu.file.new.contact.accesskey           "K">
 <!ENTITY  event.menu.file.close.label                     "Schließen">
 <!ENTITY  event.menu.file.close.accesskey                 "S">
 <!ENTITY  event.menu.file.save.label                      "Speichern">
