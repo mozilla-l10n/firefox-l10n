@@ -9,5 +9,5 @@
 <!ENTITY serviceURL.accesskey "n">
 <!ENTITY signingCA.label "Firmatario risposta:">
 <!ENTITY signingCA.accesskey "F">
-<!ENTITY requireOCSP.label "Quando la connessione al server OCSP fallisce, considera il certificato come non valido.">
+<!ENTITY requireOCSP.label "Quando non è possibile stabilire una connessione con il server OCSP, considera il certificato come non valido.">
 <!ENTITY requireOCSP.accesskey "a">
