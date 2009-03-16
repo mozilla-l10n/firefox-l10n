@@ -7,7 +7,7 @@
 <!ENTITY inline.label                         "In het bericht">
 <!ENTITY asAttachment.label                   "Als bijlage">
 <!ENTITY addExtension.label                   "Extensie aan bestandsnaam toevoegen">
-<!ENTITY addExtension.accesskey               "t">
+<!ENTITY addExtension.accesskey               "n">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Lettertype:">
