@@ -72,8 +72,8 @@
 <!ENTITY event.menu.file.new.event.accesskey "v">
 <!ENTITY event.menu.file.new.message.label "Message">
 <!ENTITY event.menu.file.new.message.accesskey "M">
-<!ENTITY event.menu.file.new.address.label "Fiche de carnet d'adresses">
-<!ENTITY event.menu.file.new.address.accesskey "c">
+<!ENTITY event.menu.file.new.contact.label "Nouveau contact">
+<!ENTITY event.menu.file.new.contact.accesskey "c">
 <!ENTITY event.menu.file.close.label "Fermer">
 <!ENTITY event.menu.file.close.accesskey "F">
 <!ENTITY event.menu.file.save.label "Enregistrer">
