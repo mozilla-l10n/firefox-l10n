@@ -22,6 +22,8 @@
  Contributor(s):
    Stephen Donner <stephend@netscape.com>
    Seth Spitzer <sspitzer@netscape.com>
+	Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	Rimas Kudelis <rq@akl.lt>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,24 +39,23 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY emailSectionHdr.label        "Elektroninis paštas"> 
-<!ENTITY readMsgsLink.label           "Skaityti laiškus"> 
-<!ENTITY composeMsgLink.label         "Rašyti naują laišką"> 
+<!ENTITY emailSectionHdr.label        "Elektroninis paštas">
+<!ENTITY readMsgsLink.label           "Skaityti laiškus">
+<!ENTITY composeMsgLink.label         "Rašyti naują laišką">
 
-<!ENTITY newsSectionHdr.label         "Naujienų grupės"> 
-<!ENTITY subscribeNewsLink.label      "Naujienų grupių prenumerata"> 
+<!ENTITY newsSectionHdr.label         "Naujienų grupės">
+<!ENTITY subscribeNewsLink.label      "Naujienų grupių prenumerata">
 
-<!ENTITY accountsSectionHdr.label     "Paskyros"> 
-<!ENTITY subscribeImapFolders.label   "Aplanko prenumerata"> 
-<!ENTITY settingsLink.label           "Paskyros nuostatos"> 
-<!ENTITY newAcctLink.label            "Užregistruoti naują abonentą"> 
+<!ENTITY accountsSectionHdr.label     "Paskyros">
+<!ENTITY subscribeImapFolders.label   "Aplanko prenumerata">
+<!ENTITY settingsLink.label           "Paskyros nuostatos">
+<!ENTITY newAcctLink.label            "Užregistruoti naują abonentą">
 
-<!ENTITY advFeaturesSectionHdr.label  "Kitkas"> 
-<!ENTITY searchMsgsLink.label         "Laiškų paieška"> 
+<!ENTITY advFeaturesSectionHdr.label  "Kitkas">
+<!ENTITY searchMsgsLink.label         "Laiškų paieška">
 <!ENTITY filtersLink.label            "Laiškų filtrai">
 <!ENTITY junkSettings.label           "Šlamšto (nepageidaujamų laiškų) nuostatos">
 <!ENTITY offlineLink.label            "Darbo atsijungus nuo tinklo nuostatos">
 
-<!ENTITY rssSectionHdr.label          "RSS naujienos"> 
-<!ENTITY subscibeRSS.label            "Tvarkyti prenumeratas"> 
-
+<!ENTITY feedsSectionHdr.label        "Sklaidos kanalai">
+<!ENTITY subscribeFeeds.label         "Tvarkyti prenumeratas">
