@@ -12,8 +12,6 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
-   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -30,15 +28,5 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY prefWindow.titleWin      "Nuostatos">
-<!ENTITY prefWindow.titleGNOME    "„&brandShortName;“ nuostatos">
-<!ENTITY prefWindow.styleWindows  "width: 44em; min-height: 40em;">
-<!ENTITY prefWindow.styleMac      "width: 52em;">
-<!ENTITY prefWindow.styleGNOME    "width: 42em; min-height: 40em;">
-
-<!ENTITY paneGeneral.title        "Bendrosios">
-<!ENTITY paneDisplay.title        "Laiškų skaitymas">
-<!ENTITY paneComposition.title    "Laiškų rašymas">
-<!ENTITY paneAttachments.title    "Laiškų priedai">
-<!ENTITY paneSecurity.title       "Saugumas">
-<!ENTITY paneAdvanced.title       "Kitkas">
+<!ENTITY  settingsChangePreferences.label  "Nuostatas galite keisti „&brandShortName;“ nuostatų lango skiltyje „Laiškų priedai“.">
+<!ENTITY  settingsChangeOptions.label      "Nuostatas galite keisti „&brandShortName;“ nuostatų lango skiltyje „Laiškų priedai“.">
