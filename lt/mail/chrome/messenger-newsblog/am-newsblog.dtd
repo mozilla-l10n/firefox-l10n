@@ -46,7 +46,7 @@
 <!ENTITY manageSubscriptions.accesskey  "T">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY feeds.accountName              "Tinklaraščių ir naujienų sklaidos kanalai">
+<!ENTITY feeds.accountName              "Sklaidos kanalai">
 <!ENTITY feeds.wizardShortName          "Sklaidos kanalai">  
 <!ENTITY feeds.wizardLongName           "Tinklaraščių ir naujienų sklaidos kanalai">
-<!ENTITY feeds.wizardLongName.accesskey "S">
+<!ENTITY feeds.wizardLongName.accesskey "s">

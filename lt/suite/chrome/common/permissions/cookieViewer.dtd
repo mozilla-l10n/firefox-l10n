@@ -43,6 +43,11 @@
 <!ENTITY     button.removeallcookies.label  "Pašalinti visus slapukus">
 <!ENTITY     button.removeallcookies.accesskey "v">
 
+<!ENTITY     search.emptytext               "Ieškoti slapukų">
+<!ENTITY     focusSearch.key                "f">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     selectAll.key                  "a">
+
 <!ENTITY     props.name.label               "Vardas:">
 <!ENTITY     props.value.label              "Kita informacija:">
 <!ENTITY     props.domain.label             "Pagrindinis kompiuteris:">

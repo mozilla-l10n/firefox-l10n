@@ -28,13 +28,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY defaultClient.title  "Numatytoji programa">
-<!ENTITY defaultClient.intro  "Skirti „&brandShortName;“ numatytąja:">
+<!ENTITY defaultClient.title        "Numatytoji programa">
+<!ENTITY defaultClient.intro        "Skirti „&brandShortName;“ numatytąja:">
 
-<!ENTITY browser.label "žiniatinklio naršykle">
-<!ENTITY email.label "el. pašto programa">
-<!ENTITY newsgroups.label "naujienų grupių programa">
-<!ENTITY rss.label "sklaidos kanalų skaitytuve">
+<!ENTITY browser.label              "žiniatinklio naršykle">
+<!ENTITY email.label                "el. pašto programa">
+<!ENTITY newsgroups.label           "naujienų grupių programa">
+<!ENTITY feeds.label                "sklaidos kanalų skaitytuve">
 
-<!ENTITY checkOnStartup.label "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
-<!ENTITY checkOnStartup.accesskey "P">
+<!ENTITY checkOnStartup.label       "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
+<!ENTITY checkOnStartup.accesskey   "P">

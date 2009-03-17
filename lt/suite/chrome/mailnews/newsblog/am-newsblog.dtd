@@ -30,23 +30,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newsblogTitle.label "RSS paskyros nuostatos">
+<!ENTITY accountTitle.label               "Paskyros nuostatos">
 
-<!ENTITY biffStart.label "Tikrinti, ar atsirado naujų straipsnių, kas ">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "min.">
+<!ENTITY biffStart.label                  "Tikrinti, ar atsirado naujų straipsnių, kas ">
+<!ENTITY biffStart.accesskey              "k">
+<!ENTITY biffEnd.label                    "min.">
 
-<!ENTITY loginAtStartup.label "Paleidžiant programą tikrinti, ar yra naujų straipsnių"> 
-<!ENTITY loginAtStartup.accesskey "P">
+<!ENTITY loginAtStartup.label             "Paleidžiant programą tikrinti, ar yra naujų straipsnių"> 
+<!ENTITY loginAtStartup.accesskey         "P">
 
-<!ENTITY useQuickMode.label "Pradžioje rodyti ne visą straipsnį, o tik jo santrauką"> 
-<!ENTITY useQuickMode.accesskey "r">
+<!ENTITY useQuickMode.label               "Pradžioje rodyti ne visą straipsnį, o tik jo santrauką"> 
+<!ENTITY useQuickMode.accesskey           "r">
 
-<!ENTITY manageSubscriptions.label "Tvarkyti prenumeratas…"> 
-<!ENTITY manageSubscriptions.accesskey "T">
+<!ENTITY manageSubscriptions.label        "Tvarkyti prenumeratas…"> 
+<!ENTITY manageSubscriptions.accesskey    "T">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName                "Naujienos">
-<!ENTITY rss.wizardShortName            "RSS">  
-<!ENTITY rss.wizardLongName             "RSS naujienas">
-<!ENTITY rss.wizardLongName.accesskey   "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName                "Sklaidos kanalai">
+<!ENTITY feeds.wizardShortName            "Sklaidos kanalai">  
+<!ENTITY feeds.wizardLongName             "Tinklaraščių ir naujienų sklaidos kanalai">
+<!ENTITY feeds.wizardLongName.accesskey   "s">
