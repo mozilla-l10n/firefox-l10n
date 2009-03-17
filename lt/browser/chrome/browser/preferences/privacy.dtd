@@ -86,6 +86,3 @@
 
 <!ENTITY  clearDataSettings.label        "Nuostatos…">
 <!ENTITY  clearDataSettings.accesskey    "N">
-
-<!ENTITY  clearDataNow.label             "Pašalinti dabar…">
-<!ENTITY  clearDataNow.accesskey         "š">
