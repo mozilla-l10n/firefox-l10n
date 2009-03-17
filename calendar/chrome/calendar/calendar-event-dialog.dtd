@@ -71,8 +71,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "v">
 <!ENTITY  event.menu.file.new.message.label               "Laiškas">
 <!ENTITY  event.menu.file.new.message.accesskey           "L">
-<!ENTITY  event.menu.file.new.address.label               "Kortelė adresinėje">
-<!ENTITY  event.menu.file.new.address.accesskey           "K">
+<!ENTITY  event.menu.file.new.contact.label               "Adresatas">
+<!ENTITY  event.menu.file.new.contact.accesskey           "A">
 <!ENTITY  event.menu.file.close.label                     "Užverti">
 <!ENTITY  event.menu.file.close.accesskey                 "U">
 <!ENTITY  event.menu.file.save.label                      "Įrašyti">
