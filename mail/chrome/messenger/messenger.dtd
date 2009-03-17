@@ -446,6 +446,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY addressBookCmd.label "Adresų knyga">  
 <!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY runJunkControls.label "Ieškoti šlamšto šiame aplanke">
 <!ENTITY runJunkControls.accesskey "m">
 <!ENTITY deleteJunk.label "Pašalinti laiškus, pažymėtus kaip šlamštą">
