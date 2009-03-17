@@ -28,18 +28,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY content.title                             "Turinys">
-<!ENTITY permissions.default.image.title           "Įkelti paveikslus">
-<!ENTITY permissions.default.image.description     "Svetainės taps gražesnės">
-<!ENTITY javascript.enabled.title                  "Leisti naudoti „Javascript“">
-<!ENTITY javascript.enabled.description            "Svetainės taps aktyvesnės">
-<!ENTITY plugins.enabled.title                     "Leisti papildinius">
-<!ENTITY plugins.enabled.description               "Svetainės labiau erzins">
-<!ENTITY privacy.title                             "Privatumas ir saugumas">
-<!ENTITY network.cookie.cookieBehavior.title       "Leisti įrašyti slapukus">
-<!ENTITY network.cookie.cookieBehavior.description "Kai kurioms svetainėms slapukai būtini">
-<!ENTITY clear.private.data.title                  "Pašalinti privačius duomenis">
-<!ENTITY clear.private.data.button                 "Pašalinti…">
-<!ENTITY clear.private.data.description            "Padės išlaikyti Jūsų anonimiškumą">
-<!ENTITY signon.rememberSignons.title              "Įrašyti slaptažodžius">
-<!ENTITY signon.rememberSignons.description        "Padės Jums rašyti mažiau">
+<!ENTITY content.title                                 "Turinys">
+<!ENTITY permissions.default.image.title               "Įkelti paveikslus">
+<!ENTITY permissions.default.image.description         "Svetainės taps gražesnės">
+<!ENTITY javascript.enabled.title                      "Leisti naudoti „JavaScript“">
+<!ENTITY javascript.enabled.description                "Svetainės taps aktyvesnės">
+<!ENTITY javascript.options.jit.content.title          "Spartinti „JavaScript“">
+<!ENTITY javascript.options.jit.content.description    "Kompiliuoti „JavaScript“ kodą">
+<!ENTITY plugins.enabled.title                         "Leisti papildinius">
+<!ENTITY plugins.enabled.description                   "Svetainės labiau erzins">
+<!ENTITY privacy.title                                 "Privatumas ir saugumas">
+<!ENTITY network.cookie.cookieBehavior.title           "Leisti įrašyti slapukus">
+<!ENTITY network.cookie.cookieBehavior.description     "Kai kurioms svetainėms slapukai būtini">
+<!ENTITY clear.private.data.title                      "Pašalinti privačius duomenis">
+<!ENTITY clear.private.data.button                     "Pašalinti…">
+<!ENTITY clear.private.data.description                "Padės išlaikyti Jūsų anonimiškumą">
+<!ENTITY signon.rememberSignons.title                  "Įrašyti slaptažodžius">
+<!ENTITY signon.rememberSignons.description            "Padės Jums rašyti mažiau">
