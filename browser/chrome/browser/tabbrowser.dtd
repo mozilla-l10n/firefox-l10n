@@ -40,6 +40,8 @@
 <!ENTITY  reloadAllTabs.accesskey     "v">
 <!ENTITY  reloadTab.label             "Atsiųsti kortelės tinklalapį iš naujo">
 <!ENTITY  reloadTab.accesskey         "A">
+<!ENTITY  openTabInNewWindow.label    "Atverti naujame lange">
+<!ENTITY  openTabInNewWindow.accesskey "l">
 <!ENTITY  listAllTabs.label           "Pateikti visas korteles">
 <!ENTITY  bookmarkAllTabs.label       "Įrašyti į adresyną visas korteles…">
 <!ENTITY  bookmarkAllTabs.accesskey   "v">
