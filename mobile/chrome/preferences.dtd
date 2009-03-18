@@ -2,9 +2,11 @@
 <!ENTITY permissions.default.image.title           "Carrega les imatges">
 <!ENTITY permissions.default.image.description     "Embelleix els llocs web">
 <!ENTITY javascript.enabled.title                  "Habilita els Javascript">
-<!ENTITY javascript.enabled.description            "Makes websites flashy">
+<!ENTITY javascript.enabled.description            "Fes els llocs web vius">
+<!ENTITY javascript.options.jit.content.title      "Habilita el seguiment del Javascript">
+<!ENTITY javascript.options.jit.content.description "Utilitza compilació de codi natiu en JavaScript">
 <!ENTITY plugins.enabled.title                     "Habilita els connectors">
-<!ENTITY plugins.enabled.description               "Makes websites annoying">
+<!ENTITY plugins.enabled.description               "Fes els llocs web emprenyadors">
 <!ENTITY privacy.title                             "Privadesa i seguretat">
 <!ENTITY network.cookie.cookieBehavior.title       "Desa les galetes">
 <!ENTITY network.cookie.cookieBehavior.description "Exquisides delicadeses">
