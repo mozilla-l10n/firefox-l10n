@@ -117,18 +117,10 @@
 <!ENTITY col.lastmodified.label "Ultima modifica">
 <!ENTITY search.label "Cerca:">
 <!ENTITY search.accesskey "R">
-<!ENTITY search.collection.label "Solo nella collezione corrente">
-<!ENTITY search.collection.accesskey "c">
-<!ENTITY search.allBookmarks.label "Tutti i segnalibri">
-<!ENTITY search.allBookmarks.accesskey "T">
 <!ENTITY search.scopeFolder.label "Cartella selezionata">
-<!ENTITY search.scopeFolder.accesskey "s">
-<!ENTITY search.scopeAll.label "Tutti i segnalibri">
-<!ENTITY search.scopeAll.accesskey "T">
-<!ENTITY search.scopeMenu.label "Menu Segnalibri">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "Barra dei segnalibri">
-<!ENTITY search.scopeToolbar.accesskey "B">
+<!ENTITY search.scopeFolder.accesskey "a">
+<!ENTITY search.scopeBookmarks.label "Segnalibri">
+<!ENTITY search.scopeBookmarks.accesskey "S">
 <!ENTITY search.scopeDownloads.label "Download">
 <!ENTITY search.scopeDownloads.accesskey "D">
 <!ENTITY search.scopeHistory.label "Cronologia">
