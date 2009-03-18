@@ -138,7 +138,7 @@
 <!ENTITY search.accesskey                  "S">
 <!ENTITY search.scopeFolder.label                  "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey              "d">
-<!ENTITY search.scopeBookmarks.labe                 "Marcadores">
+<!ENTITY search.scopeBookmarks.label               "Marcadores">
 <!ENTITY search.scopeBookmarks.accesskey           "A">
 <!ENTITY search.scopeDownloads.label               "Descargas">
 <!ENTITY search.scopeDownloads.accesskey           "D">
