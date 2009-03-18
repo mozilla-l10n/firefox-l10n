@@ -55,6 +55,3 @@
 <!ENTITY  clearDataSettings.label        "Paràmetres…">
 <!ENTITY  clearDataSettings.accesskey    "t">
 
-<!ENTITY  clearDataNow.label             "Neteja-ho ara…">
-<!ENTITY  clearDataNow.accesskey         "N">
-
