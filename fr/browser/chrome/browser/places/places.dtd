@@ -125,22 +125,14 @@
 
 <!ENTITY search.label "Rechercher :">
 <!ENTITY search.accesskey "R">
-<!ENTITY search.collection.label "Dans la sélection actuelle seulement">
-<!ENTITY search.collection.accesskey "C">
-<!ENTITY search.allBookmarks.label "Tous les marque-pages">
-<!ENTITY search.allBookmarks.accesskey "h">
 <!ENTITY search.scopeFolder.label "Dossier sélectionné">
 <!ENTITY search.scopeFolder.accesskey "D">
-<!ENTITY search.scopeAll.label "Tous les marque-pages">
-<!ENTITY search.scopeAll.accesskey "T">
-<!ENTITY search.scopeMenu.label "Menu des marque-pages">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "Barre personnelle">
-<!ENTITY search.scopeToolbar.accesskey "B">
+<!ENTITY search.scopeBookmarks.label "Marque-pages">
+<!ENTITY search.scopeBookmarks.accesskey "M">
 <!ENTITY search.scopeDownloads.label "Téléchargements">
-<!ENTITY search.scopeDownloads.accesskey "a">
+<!ENTITY search.scopeDownloads.accesskey "T">
 <!ENTITY search.scopeHistory.label "Historique">
-<!ENTITY search.scopeHistory.accesskey "u">
+<!ENTITY search.scopeHistory.accesskey "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip "Afficher la barre de recherche">
 <!ENTITY search.scopeBarExpanderUp.tooltip "Masquer la barre de recherche">
 <!ENTITY saveSearch.label "Enregistrer">
