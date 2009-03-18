@@ -32,10 +32,13 @@
 <!ENTITY noSuggestions.label   "(Cap suggeriment)">
 <!ENTITY addToDictionary.label "Afegeix al diccionari">
 
-<!ENTITY editBookmarkName.label    "Nom:">
-<!ENTITY editBookmarkURI.label     "Adreça:">
+<!ENTITY bookmarksHeader.label     "Adreces d'interès">
+<!ENTITY bookmarksManage.label     "Gestiona">
+<!ENTITY foldersHeader.label       "Carpetes">
+
+<!ENTITY editBookmarkEdit.label    "Edita">
+<!ENTITY editBookmarkMove.label    "Mou">
 <!ENTITY editBookmarkTags.label    "Etiquetes:">
-<!ENTITY bookmarkRemove.label      "Suprimeix l'adreça d'interès">
 <!ENTITY editBookmarkDone.label    "Fet">
 
 <!ENTITY findOnCmd.label     "Cerca a la pàgina…">
