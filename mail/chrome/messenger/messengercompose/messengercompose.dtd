@@ -41,7 +41,7 @@
 <!ENTITY sendLaterCmd.label "පසුව යවන්න">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "පිටු සකසීම...">
+<!ENTITY printSetupCmd.label "පිටු සැකසීම...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.key "P">
@@ -74,7 +74,7 @@
 <!ENTITY selectAllCmd.label "සියල්ල තෝරන්න">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A"> 
-<!ENTITY findCmd.label "Find and Replace...">
+<!ENTITY findCmd.label "සොයා ප්‍රතිපිහිටුවන්න (Find and Replace)...">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findAgainCmd.label "නැවත සොයන්න">

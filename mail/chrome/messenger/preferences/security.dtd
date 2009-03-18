@@ -29,7 +29,7 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro         "&brandShortName; ට ඔබගේ සියළු ගිණුම් සඳහා වන රහස්පද මතක තබාගත හැකිය, එවිට ඔබට පිරුම් විස්තර නැවත ඇතුළු කිරීම අවශ්‍ය නොවේ.">
-<!ENTITY  masterPassword.intro        "සැකසූ විට, ප්‍රධාන රහස්පදය සියළු සියළු රහස්පද ආරක්ෂා කරයි - නමුත් සැසියකට එක් වරක් ඔබ එය ඇතුළු කළ යුතුමය.">
+<!ENTITY  masterPassword.intro        "සැකසූ විට, ප්‍රධාන රහස්පදය සියළු රහස්පද ආරක්ෂා කරයි - නමුත් සැසියකට එක් වරක් ඔබ එය ඇතුළු කළ යුතුමය.">
 <!ENTITY useMasterPassword.label        "ප්‍රධාන රහස්පදයක් (Master Password) භාවිතා කරන්න">
 <!ENTITY useMasterPassword.accesskey    "m">
 <!ENTITY changeMasterPassword.label     "ප්‍රධාන රහස්පදය (Master Password) වෙනස් කිරීම…">

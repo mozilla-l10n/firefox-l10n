@@ -8,7 +8,7 @@
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemDefaults.label              "පද්ධති පෙරනිමි (Defaults)">
-<!ENTITY alwaysCheckDefault.label          "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. සෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
+<!ENTITY alwaysCheckDefault.label          "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. යෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY checkNow.accesskey            "N">
 <!ENTITY showCondensedAddresses.label  "මගේ ලිපින පොතේ අඩංගු අයගේ පෙන්වන නම පමණක් ප්‍රදර්ශණය කරන්න">
@@ -52,7 +52,7 @@
 <!ENTITY modeAskMe.accesskey            "k">
 <!ENTITY modeAutomatic.label            "ස්වයංක්‍රීයව භාගත කර ස්ථාපනය කරන්න">
 <!ENTITY modeAutomatic.accesskey        "m">
-<!ENTITY modeAutoAddonWarn.label        "මෙය මගේ කිසියම් එක්-කිරීමක් අබල (disable) කරන්නේ නම් අනතුරු අඟවන්න">
+<!ENTITY modeAutoAddonWarn.label        "මෙය මගේ කිසියම් ඇඩෝනයක් අබල (disable) කරන්නේ නම් අනතුරු අඟවන්න">
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "යාවත්කාලීන ඉතිහාසය පෙන්වන්න">
 <!ENTITY showUpdates.accesskey          "y">
@@ -74,7 +74,7 @@
 <!ENTITY kb.label "kB">
 <!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY useCacheBefore.label            "කෑච් සඳහා මෙගාබයිට (MB)">
+<!ENTITY useCacheBefore.label            "කෑච් (Cache) සඳහා මෙගාබයිට (MB)">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             " දක්වා ප්‍රමාණයක් භාවිතා කරන්න">
 

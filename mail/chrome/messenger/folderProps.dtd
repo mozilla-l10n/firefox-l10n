@@ -40,7 +40,7 @@
 
 <!ENTITY folderProps.windowtitle.label           "ලක්ෂණ">
 <!ENTITY generalInfo.label                       "සාමාන්‍ය තොරතුරු">
-<!ENTITY folderCharsetTab.label                  "පෛරනිමි (Default) අකුරු කේතනයන්:">
+<!ENTITY folderCharsetTab.label                  "පෙරනිමි (Default) අකුරු කේතනයන්:">
 <!ENTITY folderCharsetTab.accesskey              "E">
 <!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
@@ -49,7 +49,7 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File">
 
 <!ENTITY retention.label "තබාගැනීමේ පිළිවෙත">
-<!ENTITY retentionUseDefault.label  "සේවාදායක පෛරනිමි භාවිතා කරන්න">
+<!ENTITY retentionUseDefault.label  "සේවාදායක පෙරනිමි භාවිතා කරන්න">
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY daysOld.label "දිනකට වඩා පැරණි ලිපි">
 <!ENTITY message.label "ලිපි">

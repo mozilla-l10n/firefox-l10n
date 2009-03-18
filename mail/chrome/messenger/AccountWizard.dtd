@@ -20,7 +20,7 @@
 <!ENTITY identityDesc.label "සෑම ගිණූමකටම හැඳුනුමක් ඇත. එහි, අන්අය ඔබගේ ලිපි ලැබී‌මේදී ඔබව හඳුනාගැනීම සදහා අවශ්‍ය තොරතූරු ඇත.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "ඔබ ලිපි යැවීමේදී &quot;යවන්නා&quot;  තීරැව තූළ ඔබ‌ගේ නම සදහන් විය යුතූ ආකාරය මෙහි ඇතුළත් කරන්න.">
+<!ENTITY fullnameDesc.label "ඔබ ලිපි යැවීමේදී &quot;යවන්නා&quot;  තීරුව තූළ ඔබ‌ගේ නම සදහන් විය යුතූ ආකාරය මෙහි ඇතුළත් කරන්න.">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
@@ -46,7 +46,7 @@
 <!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "ඔබගේ  යැවුම් සේවාදායක‌යේ නම ඇතුළත් කරන්න (SMTP) (උදාහරණයක් ‌ලෙස, &quot;smtp.example.lk&quot;).">
-<!ENTITY smtpServerLabel.label "යැවුම් සේවාදාය:">
+<!ENTITY smtpServerLabel.label "යැවුම් සේවාදායකය:">
 <!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "පුවත්සමුහ සේවාදායකය:">
 <!ENTITY newsServerLabel.accesskey "N">
