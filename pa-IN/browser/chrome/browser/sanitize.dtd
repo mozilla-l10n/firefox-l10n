@@ -37,5 +37,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.label       "ਐਕਟਿਵ ਲਾਗਇਨ">
 <!ENTITY itemActiveLogins.accesskey   "L">
 
+<!ENTITY itemSiteSettings.label       "ਸਾਈਟ-ਖਾਸ ਸੈਟਿੰਗ">
+<!ENTITY itemSiteSettings.accesskey   "S">
+
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">
