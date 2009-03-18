@@ -136,18 +136,10 @@
 
 <!ENTITY search.label  							"Sykje:">
 <!ENTITY search.accesskey  						"S">
-<!ENTITY search.collection.label  				"Allinnich Aktuele Kolleksje">
-<!ENTITY search.collection.accesskey  			"K">
-<!ENTITY search.allBookmarks.label  			"Alle Blêdwizers">
-<!ENTITY search.allBookmarks.accesskey  		"A">
 <!ENTITY search.scopeFolder.label               "Selektearre Map">
 <!ENTITY search.scopeFolder.accesskey           "a">
-<!ENTITY search.scopeAll.label                  "Alle Blêdwizers">
-<!ENTITY search.scopeAll.accesskey              "A">
-<!ENTITY search.scopeMenu.label                 "Blêdwizers Menu">
-<!ENTITY search.scopeMenu.accesskey             "M">
-<!ENTITY search.scopeToolbar.label              "Blêdwizers Arkbalke">
-<!ENTITY search.scopeToolbar.accesskey          "A">
+<!ENTITY search.scopeBookmarks.label			"Blêdwizers">
+<!ENTITY search.scopeBookmarks.accesskey		"z">
 <!ENTITY search.scopeDownloads.label            "Ynladen Bestannen">
 <!ENTITY search.scopeDownloads.accesskey        "B">
 <!ENTITY search.scopeHistory.label              "Skiednis">
