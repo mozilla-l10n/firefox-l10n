@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Procurar:">
 <!ENTITY search.accesskey                          "P">
-<!ENTITY search.collection.label                   "Apenas Colecção Actual:">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "Todos os Marcadores">
-<!ENTITY search.allBookmarks.accesskey             "T">
 <!ENTITY search.scopeFolder.label                  "Pasta Escolhida">
 <!ENTITY search.scopeFolder.accesskey              "P">
-<!ENTITY search.scopeAll.label                     "Todos os Marcadores">
-<!ENTITY search.scopeAll.accesskey                 "T">
-<!ENTITY search.scopeMenu.label                    "Menu de Marcadores">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "Barra de Marcadores">
-<!ENTITY search.scopeToolbar.accesskey             "B">
+<!ENTITY search.scopeBookmarks.label               "Marcadores">
+<!ENTITY search.scopeBookmarks.accesskey           "M">
 <!ENTITY search.scopeDownloads.label               "Transferências">
 <!ENTITY search.scopeDownloads.accesskey           "r">
 <!ENTITY search.scopeHistory.label                 "Histórico">
