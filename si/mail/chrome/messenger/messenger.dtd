@@ -107,8 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "ලිපි ගෙනයාම යළි කරන්න">
 <!ENTITY undoCopyMsgCmd.label "ලිපි කොපි කිරීම අහෝසි.">
 <!ENTITY redoCopyMsgCmd.label "ලිපි කොපි කිරීම යළි කරන්න">
-<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
-<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
+<!ENTITY undoMarkAllCmd.label "කියවූ සේ ලකුණු කිරීම අහෝසි.">
+<!ENTITY redoMarkAllCmd.label "කියවූ සේ ලකුණු කිරීම යළි කරන්න">
 <!ENTITY undoDefaultCmd.label "අහෝසි.">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "යළි කරන්න">
@@ -138,7 +138,7 @@
 <!ENTITY unreadFolders.accesskey "U">
 <!ENTITY favoriteFolders.label "ප්‍රියතම">
 <!ENTITY favoriteFolders.accesskey "F">
-<!ENTITY recentFolders.label "මෑතකිලීන">
+<!ENTITY recentFolders.label "මෑතකාලීන">
 <!ENTITY recentFolders.accesskey "R">
 
 <!-- Sort Menu -->
@@ -158,7 +158,7 @@
 <!ENTITY sortBySizeCmd.accesskey "z">
 <!ENTITY sortByStatusCmd.label "තත්ත්වය">
 <!ENTITY sortByStatusCmd.accesskey "u">
-<!ENTITY sortByTagsCmd.label "Tags">
+<!ENTITY sortByTagsCmd.label "ටැග්ස්">
 <!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "නිසරු">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
@@ -408,7 +408,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "ඇඩෝන (Add-ons)">
 <!ENTITY addons.accesskey "d">
-<!ENTITY activitymanager.label "Activity Manager">
+<!ENTITY activitymanager.label "ක්‍රියාකාරීත්ව කළමණාකරු">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "ලිපි සහ පුවත්සමූහ">
 <!ENTITY messengerCmd.accesskey "m">
@@ -534,8 +534,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Search messages…">
-<!ENTITY glodaSearchBar.facet.label "Search:">
+<!ENTITY glodaSearchBar.emptyText "ලිපි සෙවීම…">
+<!ENTITY glodaSearchBar.facet.label "සෙවීම:">
 <!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
        "everything" searches over subject, involves, body, and attachments.
        "subject" searches only messages subjects.
@@ -546,17 +546,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
            attachment names or the content of the attachments.  Message body
            basically means a message part with a content-type of text/*.
     -->
-<!ENTITY glodaSearchFacet.everything.label "Everything">
-<!ENTITY glodaSearchFacet.subject.label "Subject">
+<!ENTITY glodaSearchFacet.everything.label "සෑමදෙයම">
+<!ENTITY glodaSearchFacet.subject.label "විෂයය">
 <!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
-<!ENTITY glodaSearchFacet.to.label "To, CC">
-<!ENTITY glodaSearchFacet.from.label "From">
-<!ENTITY glodaSearchFacet.body.label "Message Text">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Attachment Names">
+<!ENTITY glodaSearchFacet.to.label "වෙත, පිටපත්">
+<!ENTITY glodaSearchFacet.from.label "වෙතින්">
+<!ENTITY glodaSearchFacet.body.label "ලිපි පාඨ">
+<!ENTITY glodaSearchFacet.attachmentNames.label "ඇමුණුම් නම්">
 
-<!ENTITY glodaSearchBar.location.label "Location:">
-<!ENTITY glodaSearchFacet.everywhere.label "All Folders">
-<!ENTITY glodaSearchFacet.folder.label "In a specific folder…">
+<!ENTITY glodaSearchBar.location.label "ස්ථානය:">
+<!ENTITY glodaSearchFacet.everywhere.label "සියළු ෆෝල්ඩර">
+<!ENTITY glodaSearchFacet.folder.label "විශේෂිත ෆෝල්ඩරයක් තුළ…">
 
 
 <!-- Quick Search Menu Bar -->
@@ -652,7 +652,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "ඔබගේ ර්‍පෙද්ගලිකත්වය රැකීම සඳහා, දුරස්ථ රූප අවහිර කර ඇත.">
+<!ENTITY remoteContentMessage1.label "ඔබගේ පෞද්ගලිකත්වය රැකීම සඳහා, දුරස්ථ රූප අවහිර කර ඇත.">
 <!ENTITY loadRemoteContentButton2.label "දැන් රූපය පෙන්වන්න">
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "This message may be a scam.">

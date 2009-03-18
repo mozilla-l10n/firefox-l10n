@@ -9,7 +9,7 @@
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "මෙම ජාලය සඳහා  ස්ව-හැඳුනුම් ප්‍රොක්සි සැකසුමකි">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "වින්‍යාසය  පරිශීලක විසින් කරනු ඇත(Manual proxy conf):">
+<!ENTITY  manualTypeRadio.label         "වින්‍යාසය පරිශීලක විසින් කරනු ඇත (Manual proxy conf):">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "ස්වයංක්‍රීය ප්‍රොක්සි වින්‍යාස URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">

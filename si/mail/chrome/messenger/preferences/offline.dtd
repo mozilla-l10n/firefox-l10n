@@ -15,7 +15,7 @@
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "විමසන්න">
 <!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "අසම්බන්ධිත වීමේදී, අසම්බන්ධව වැඩ කිරීම සඳහා ලිපි භාගත කරන්නද?">
+<!ENTITY textGoingOffline "අසම්බන්ධිත වීමේදී, අසම්බන්ධිතවව වැඩ කිරීම සඳහා ලිපි භාගත කරන්නද?">
 <!ENTITY radioAutoDownload.label "ඔව්">
 <!ENTITY radioAutoDownload.accesskey "e">
 <!ENTITY radioNotDownload.label "නැහැ">

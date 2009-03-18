@@ -29,7 +29,7 @@
 <!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "තවත් ශබ්දකෝෂ බාගත කිරීම">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
+<!ENTITY warnOnSendAccelKey.label             "ලිපි යැවීමට යතුරුපුවරු කෙටිමං (keyboard shortcut) භාවිතා කරන විටදී තහවුරු කරන්න">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "සෑම විනාඩි ">
 <!ENTITY autoSave.accesskey                   "u">
@@ -38,7 +38,7 @@
 
 <!ENTITY emailCollectionPicker.label           "ලිපි යවන ලිපින ස්වයංක්‍රීයවම එක් කරන්නේ මගේ:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
-<!ENTITY addressingTitle.label                 "ලිපින සවයං-පූර්ණය">
+<!ENTITY addressingTitle.label                 "ලිපින ස්වයං-පූර්ණය">
 <!ENTITY autocompleteText.label                "ලිපින යෙදීමේදී, ගැලපෙන යෙදීම් බලන්නේ:">
 <!ENTITY addressingEnable.label                "පෙදෙසි (Local) ලිපින පොත්">
 <!ENTITY addressingEnable.accesskey            "A">
