@@ -122,18 +122,10 @@
 <!ENTITY col.lastmodified.label "Darrera modificació">
 <!ENTITY search.label "Cerca:">
 <!ENTITY search.accesskey "r">
-<!ENTITY search.collection.label "Només la coŀlecció actual">
-<!ENTITY search.collection.accesskey "C">
-<!ENTITY search.allBookmarks.label "Totes les adreces d'interès i l'historial">
-<!ENTITY search.allBookmarks.accesskey "a">
 <!ENTITY search.scopeFolder.label                  "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey              "p">
-<!ENTITY search.scopeAll.label                     "Totes les adreces d'interès">
-<!ENTITY search.scopeAll.accesskey                 "a">
-<!ENTITY search.scopeMenu.label                    "Menú de les adreces d'interès">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "Barra de les adreces d'interès">
-<!ENTITY search.scopeToolbar.accesskey             "B">
+<!ENTITY search.scopeBookmarks.label               "Adreces d'interès">
+<!ENTITY search.scopeBookmarks.accesskey           "A">
 <!ENTITY search.scopeDownloads.label               "Baixades">
 <!ENTITY search.scopeDownloads.accesskey           "d">
 <!ENTITY search.scopeHistory.label                 "Historial">
