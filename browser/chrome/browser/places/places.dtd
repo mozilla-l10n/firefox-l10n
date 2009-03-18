@@ -136,18 +136,10 @@
 
 <!ENTITY search.label "ابحث:">
 <!ENTITY search.accesskey "ب">
-<!ENTITY search.collection.label "المجموعة الحالية فقط">
-<!ENTITY search.collection.accesskey "ح">
-<!ENTITY search.allBookmarks.label "كل العلامات">
-<!ENTITY search.allBookmarks.accesskey "ك">
+<!ENTITY search.scopeBookmarks.label               "العلامات">
+<!ENTITY search.scopeBookmarks.accesskey           "ت">
 <!ENTITY search.scopeFolder.label "اختر مجلدا">
 <!ENTITY search.scopeFolder.accesskey "م">
-<!ENTITY search.scopeAll.label "كل العلامات">
-<!ENTITY search.scopeAll.accesskey "ك">
-<!ENTITY search.scopeMenu.label "قائمة العلامات">
-<!ENTITY search.scopeMenu.accesskey "ق">
-<!ENTITY search.scopeToolbar.label "شريط العلامات">
-<!ENTITY search.scopeToolbar.accesskey "ش">
 <!ENTITY search.scopeDownloads.label "التنزيلات">
 <!ENTITY search.scopeDownloads.accesskey "ز">
 <!ENTITY search.scopeHistory.label "التّاريخ">
