@@ -120,7 +120,7 @@
 <!ENTITY search.scopeFolder.label "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey "C">
 <!ENTITY search.scopeBookmarks.label "Marcadores">
-<!ENTITY search.scopeBookmarks.accesskey "k">
+<!ENTITY search.scopeBookmarks.accesskey "d">
 <!ENTITY search.scopeDownloads.label "Descargas">
 <!ENTITY search.scopeDownloads.accesskey "D">
 <!ENTITY search.scopeHistory.label "Historial">

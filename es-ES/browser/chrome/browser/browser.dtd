@@ -70,7 +70,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Parar la carga de esta página">
 <!ENTITY goEndCap.tooltip "Ir a la URL de la barra de direcciones">
-<!ENTITY feedButton.tooltip "Subscribe to this page…">
+<!ENTITY feedButton.tooltip "Suscribirse a esta página…">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 <!ENTITY locationItem.title "Dirección">
@@ -138,10 +138,10 @@
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistoryCmd.label "Limpiar el historial reciente">
 <!ENTITY clearRecentHistoryCmd.accesskey "H">
-<!ENTITY privateBrowsingCmd.start.label "Iniciar navegación privada ">
-<!ENTITY privateBrowsingCmd.start.accesskey "v ">
-<!ENTITY privateBrowsingCmd.stop.label "Detener navegación privada ">
-<!ENTITY privateBrowsingCmd.stop.accesskey "v ">
+<!ENTITY privateBrowsingCmd.start.label "Iniciar navegación privada">
+<!ENTITY privateBrowsingCmd.start.accesskey "v">
+<!ENTITY privateBrowsingCmd.stop.label "Detener navegación privada">
+<!ENTITY privateBrowsingCmd.stop.accesskey "v">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
