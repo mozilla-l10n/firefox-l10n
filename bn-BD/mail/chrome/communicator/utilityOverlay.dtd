@@ -1,0 +1,59 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
+<!ENTITY fileMenu.label "ফাইল (F)">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "নতুন (N)">
+<!ENTITY newMenu.accesskey "N">
+
+<!ENTITY editMenu.label "সম্পাদনা করুন (E)">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "পূর্বাবস্থায় ফিরিয়ে আনুন (U)">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "পুনরায় করুন (R)">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "কাট (t)">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "কপি (C)">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "পেস্ট (P)">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "ডিলিট (D)">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "সকল নির্বাচন করুন (A)">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "পছন্দসমূহ… (O)">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!ENTITY viewMenu.label "প্রদর্শন (V)">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenu.label "টুলবার (T)">
+<!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY showTaskbarCmd.label "স্ট্যাটাস বার (S)">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY proxy.label "প্রক্সি কনফিগারেশন… (C)">
+<!ENTITY proxy.accesskey "C">
+
+<!ENTITY closeCmd.label "বন্ধ করুন (C)">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "c">
+
+<!ENTITY quitApplicationCmd.label "প্রস্থান (x)">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "x">
+
+<!ENTITY quitApplicationCmdUnix.label "বন্ধ করুন (Q)">
+<!ENTITY quitApplicationCmdUnix.accesskey "q">
+
+<!ENTITY quitApplicationCmdMac.label "&brandShortName; বন্ধ করুন (Q)">
+<!ENTITY quitApplicationCmdMac.accesskey "q">

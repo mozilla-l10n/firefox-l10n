@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "সার্টিফিকেট ডাউনলোড করা হচ্ছে">
+<!ENTITY info.message "প্রাপকের সার্টিফিকেটের জন্য ডিরেক্টরি অনুসন্ধান করা হচ্ছে। এতে কয়েক মিনিট লাগতে পারে।">
+<!ENTITY stop.label "অনুসন্ধান বন্ধ করুন">

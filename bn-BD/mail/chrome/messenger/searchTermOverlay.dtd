@@ -1,0 +1,16 @@
+<!ENTITY matchAll.label "নিম্নের সকল মিল করা হবে (a)">
+<!ENTITY matchAll.accesskey "a">
+<!ENTITY matchAny.label "নিম্নের যেকোনোটি মিল করা হবে (o)">
+<!ENTITY matchAny.accesskey "o">
+<!ENTITY matchAllMsgs.label "সকল বার্তা মিল করা হবে (M)">
+<!ENTITY matchAllMsgs.accesskey "m">
+<!-- LOCALIZATION NOTE  
+  The values below are used to control the widths of the search widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+
+<!ENTITY searchTermListAttributesFlexValue "৫">
+<!ENTITY searchTermListOperatorsFlexValue "৫">
+<!ENTITY searchTermListValueFlexValue "৫">
+<!ENTITY searchTermListButtonsFlexValue "২">

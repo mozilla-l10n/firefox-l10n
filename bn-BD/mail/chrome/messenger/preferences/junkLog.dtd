@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "জাঙ্ক মেইল লগ">
+<!ENTITY junkLogInfo.label "জাঙ্ক মেইল নিয়ন্ত্র কার্যক্রমের লগ।">
+<!ENTITY clearLog.label "লগ পরিষ্কার করুন (C)">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY closeLog.label "বন্ধ করুন (o)">
+<!ENTITY closeLog.accesskey "o">

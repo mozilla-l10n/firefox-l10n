@@ -1,0 +1,31 @@
+<!ENTITY serverAdvanced.label "উন্নত অ্যাকাউন্ট সেটিং">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "আইম্যাপ সার্ভার ডিরেক্টরি (d):">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "শুধুমাত্র সাবস্ক্রাইব করা ফোল্ডার দেখানো হবে (w)">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "সার্ভার এমন ফোল্ডার সমর্থন করে যেটিতে উপ-ফোল্ডার এবং বার্তা আছে (f)">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "সার্ভার সমর্থন করলে IDLE কমান্ড ব্যবহার করা হবে">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "ক্যাশে সর্বোচ্চ সংখ্যক সার্ভার সংযোগ (M)">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "এই পছন্দগুলো আপনার আইম্যাপ সার্ভারের নেমস্পেস উল্লেখ করে">
+<!ENTITY personalNamespace.label "ব্যক্তিগত নেমস্পেস (P):">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "জনসাধারন (অংশীদারী) (u):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "অন্যান্য ব্যবহারকারী (O):">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "সার্ভার এই নেমস্পেসগুলো ওভাররাইড করতে পারবে (A)">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "এই সার্ভারের পপ মেইল ডাউনলোড করার সময় নতুন মেইলের জন্য নিম্নোক্ত ফোল্ডার ব্যবহার করা হবে:">
+<!ENTITY globalInbox.label "গ্লোবাল ইনবক্স (স্থানীয় ফোল্ডার অ্যাকাউন্ট) (G)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "এই সার্ভারের অ্যাকাউন্টের ইনবক্স (s)">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "অন্য অ্যাকাউন্টের ইনবক্স (d)">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "নতুন মেইল পাওয়ার সময় এই সার্ভার অন্তর্ভূক্ত করা হবে (I)">
+<!ENTITY deferGetNewMail.accesskey "I">

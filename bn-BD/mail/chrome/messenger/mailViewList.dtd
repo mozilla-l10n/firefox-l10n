@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewListTitle.label "বার্তার প্রদর্শন স্বনির্বচন করুন">
+<!ENTITY viewName.label "নাম প্রদর্শন করুন">
+

@@ -1,0 +1,33 @@
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "অ্যাকাউন্ট সেটিং">
+<!ENTITY accountName.label "অ্যাকাউন্ট নাম (N):">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY identityTitle.label "ডিফল্ট পরিচয়">
+<!ENTITY identityDesc.label "প্রতিটি অ্যাকাউন্টের একটি পরিচয় আছে, অন্যকেউ আপনার বার্তা পড়ার সময় এই তথ্যটি দেখতে পারবে।">
+<!ENTITY name.label "আপনার নাম (Y):">
+<!ENTITY name.accesskey "Y">
+<!ENTITY email.label "ইমেইল ঠিকানা (E):">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "যেই ঠিকানায় জবাব দেয়া হবে (s):">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY organization.label "অর্গানাইজেশন (O):">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "এই স্বাক্ষরটি যোগ করুন (t):">
+<!ENTITY signature.accesskey "t">
+<!ENTITY edit.label "সম্পাদনা করুন…">
+<!ENTITY choose.label "পছন্দ করুন... (C)">
+<!ENTITY choose.accesskey "C">
+<!ENTITY editVCard.label "কার্ড সম্পাদনা করুন… (E)">
+<!ENTITY editVCard.accesskey ")">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "বার্তায় আমার vCard যুক্ত করা হবে (v)">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY manageIdentities.label "পরিচয়পত্র ম্যানেজ করুন... (M)">
+<!ENTITY manageIdentities.accesskey "M">
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
+<!ENTITY smtpName.label "বহি:গামী সার্ভার (SMTP) (u):">
+<!ENTITY smtpName.accesskey "u">
+<!ENTITY smtpDefaultServer.label "ডিফল্ট সার্ভার ব্যবহার করা হবে">

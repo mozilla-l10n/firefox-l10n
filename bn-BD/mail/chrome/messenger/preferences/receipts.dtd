@@ -1,0 +1,22 @@
+<!ENTITY dialog.title "রশিদ ফেরত দেয়া হবে">
+<!ENTITY requestReceipt.label "বার্তা পাঠানের সময় সর্বদা একটি রশিদের জন্য অনুরোধ করা হবে (W)">
+<!ENTITY requestReceipt.accesskey "W">
+<!ENTITY receiptArrive.label "যখন একটি রশিদ আসবে:">
+<!ENTITY leaveIt.label "আমার ইনবক্সে রেখে দেয়া হবে (I)">
+<!ENTITY leaveIt.accesskey "i">
+<!ENTITY moveToSent.label "এটিকে আমার &quot;প্রেরনকৃত&quot; ফোল্ডারে সরানো হবে (M)">
+<!ENTITY moveToSent.accesskey "m">
+<!ENTITY requestMDN.label "যখন আমাকে অনুরোধ করা হবে একটি রশিদ ফেরত পাঠাতে:">
+<!ENTITY never.label "কখনও রশিদ পাঠানো হবে না (N)">
+<!ENTITY never.accesskey "n">
+<!ENTITY returnSome.label "কিছু বার্তার জন্য রশিদ পাঠানো হবে (r)">
+<!ENTITY returnSome.accesskey "r">
+<!ENTITY notInToCc.label "যদি আমি বার্তার প্রাপক বা অবিকল অনুলিপি তালিকায় না থালি (f):">
+<!ENTITY notInToCc.accesskey "f">
+<!ENTITY outsideDomain.label "যদি প্রেরক আমার ডোমেইন বহি:র্ভূত হয় (t):">
+<!ENTITY outsideDomain.accesskey "t">
+<!ENTITY otherCases.label "অন্য সকল ক্ষেত্রে (a):">
+<!ENTITY otherCases.accesskey "a">
+<!ENTITY askMe.label "আমাকে জিজ্ঞেস করা হবে">
+<!ENTITY alwaysSend.label "সর্বদা পাঠানো হবে">
+<!ENTITY neverSend.label "কখনও পাঠানো হবে না">

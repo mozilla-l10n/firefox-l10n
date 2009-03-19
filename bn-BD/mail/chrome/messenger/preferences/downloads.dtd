@@ -1,0 +1,15 @@
+<!ENTITY askOnSave.label "সংযুক্তি ফোল্ডার">
+<!ENTITY alwaysAsk.label "আমার প্রতিটি ফাইল কোথায় সংরক্ষন করা হবে তা আমাকে জিজ্ঞেস করা হবে (A)">
+<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY neverAsk.label "সকল সংযুক্তি এই ফোল্ডারে সংরক্ষন করা হবে (S):">
+<!ENTITY neverAsk.accesskey "S">
+<!ENTITY chooseFolderWin.label "ব্রাউজ... (B)">
+<!ENTITY chooseFolderWin.accesskey "B">
+<!ENTITY chooseFolderMac.label "নির্বাচন করুন... (C)">
+<!ENTITY chooseFolderMac.accesskey "C">
+
+
+<!ENTITY fileTypes.label "ডাউনলোড ক্রিয়া">
+<!ENTITY configureActions.label "&amp; সম্পাদনার ক্রিয়া প্রদর্শন করা হবে… (V)">
+<!ENTITY configureActions.accesskey "V">
+<!ENTITY fileTypesDescription.label "&brandShortName; স্বয়ংক্রিয়ভাবে নির্দিষ্ট ধরনের সংযুক্তি সংরক্ষন বা খুলতে পারবে।">

@@ -1,0 +1,87 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+"&brandShortName;" below.
+-->
+
+
+<!ENTITY importDialog.windowTitle "ইম্পোর্ট করুন">
+<!ENTITY importAll.label "সবকিছু ইম্পোর্ট করুন (E)">
+<!ENTITY importAll.accesskey "E">
+<!ENTITY importMail.label "মেইল (M)">
+<!ENTITY importMail.accesskey "M">
+<!ENTITY importAddressbook.label "ঠিকানার বই (A)">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label "সেটিং (S)">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label "ফিল্টার (F)">
+<!ENTITY importFilters.accesskey "F">
+
+<!ENTITY window.width "40em">
+<!ENTITY window.macWidth "45em">
+
+<!ENTITY importTitle.label "&brandShortName; ইম্পোর্ট উইজার্ড">
+<!ENTITY importShortDesc.label "অন্য প্রোগ্রাম থেকে মেইল, ঠিকানার বই, সেটিং, এবং ফিল্টার ইম্পোর্ট করুন">
+
+<!ENTITY importDescription1.label "এই উইজার্ড অন্য মেইল প্রোগ্রাম থেকে মেইল বার্তা, ঠিকানার বইয়ের এন্ট্রি, পছন্দসমূহ, ফিল্টার এবং সাধারন ঠিকানার বইয়ের ফরম্যাট &brandShortName; এ ইম্পোর্ট করে।">
+<!ENTITY importDescription2.label "একবার এগুলো ইম্পোর্ট করা হলে আপনি &brandShortName; থেকেই এগুলো এক্সেস করতে পারবেন।">
+
+<!ENTITY selectDescription.label "অনুগ্রহ করে নির্বাচন করুন আপনি কি ধরনের ফাইল ইম্পোর্ট করতে চান (P):">
+<!ENTITY selectDescription.accesskey "P">
+
+<!ENTITY back.label "&lt; পূর্ববর্তী">
+<!ENTITY forward.label "পরবর্তী &gt;">
+<!ENTITY finish.label "সম্পন্ন">
+<!ENTITY cancel.label "বাতিল">
+
+<!ENTITY select.label "বা কি ধরনের ম্যাটেরিয়াল ইম্পোর্ট করতে চান তা নির্বাচন করুন:">
+
+<!ENTITY title.label "শিরোনাম">
+<!ENTITY processing.label "ইম্পোর্ট করা হচ্ছে...">
+
+<!ENTITY FieldDiscInputText1.label "নেটস্কেপ কমিউনিকেটর ৪.x এর প্রতিটি কার্ডের জন্য একটি মেইলিং ঠিকানা আছে, যেখানে &brandShortName; এর দুটি আছে (বাসা এবং অফিস)।">
+<!ENTITY FieldDiscInputText2.label "যে ক্যাটেগরিতে আপনি ইম্পোর্ট করা মেইল ঠিকানা সংরক্ষন করতে চান তা নির্বাচন করুন:">
+<!ENTITY FieldDiscWarning.label "নির্বাচিত ঠিকানার বইয়ের সকল এন্ট্রির জন্য এই ক্যাটেগরি ব্যবহৃত হবে:">
+<!ENTITY importHome.label "বাসা (H)">
+<!ENTITY importHome.accesskey "H">
+<!ENTITY importWork.label "অফিস (W)">
+<!ENTITY importWork.accesskey "W">

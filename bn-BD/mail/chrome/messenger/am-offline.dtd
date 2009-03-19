@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "ডিস্কের জায়গা বাচাতে, এগুলো ডাউনলোড করা হবে না:">
+<!ENTITY doNotDownload.label "ডিস্কের জায়গা বাচাতে, অফলাইনে ব্যবহারের জন্য এগুলো ডাউনলোড করা হবে না:">
+<!ENTITY allFoldersOffline.label "এই কম্পিউটারে এই অ্যাকাউন্টের জন্য বার্তা রাখা হবে (o)">
+<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY offlineNotDownload.label "এর চেয়ে বড় বার্তা (M):">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "কিলোবাইট">
+<!ENTITY daysOld.label "দিন পুরনো">
+<!ENTITY message.label "বার্তা">
+<!ENTITY nntpNotDownloadRead.label "পড়ে ফেলা বার্তা (d)">
+<!ENTITY nntpNotDownloadRead.accesskey "d">
+<!ENTITY nntpDownloadMsg.label "এর চেয়ে অধিক বার্তা (e)">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "ডিস্কের জায়গা ফেরত পেতে, পুরনো বার্তা স্থায়ীভাবে মুছে ফেলা যেতে পারে।">
+<!ENTITY retentionCleanupImap.label "ডিস্কের জায়গা ফেরত পেতে, পুরনো বার্তা স্থায়ীভাবে মুছে ফেলা যেতে পারে, স্থানীয় কপি এবং দূরবর্তী সার্ভারে রাখা আসল কপি।">
+<!ENTITY retentionCleanupPop.label "ডিস্কের জায়গা ফেরত পেতে, পুরনো বার্তা স্থায়ীভাবে মুছে ফেলা যেতে পারে, দূরবর্তী সার্ভারে রাখা আসল কপিসহ।">
+<!ENTITY retentionKeepMsg.label "এর চেয়ে পুরনো বার্তা মুছে ফেলা হবে  (t)">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "কোনো বার্তা মোছা হবে না (n)">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "সর্বশেষ ব্যতীত বাকি সকল বার্তা মুছে ফেলা হবে (b)">
+<!ENTITY retentionKeepNew.accesskey "b">
+<!ENTITY retentionKeepUnread.label "পড়ে ফেলা বার্তা সর্বদা মুছে ফেলা হবে (w)">
+<!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY retentionApplyToFlagged.label "তারকা চিহ্নিত বার্তা সর্বদা রাখা হবে (e)">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY nntpRemoveBody.label "শুধুমাত্র এর চেয়ে ছোট বার্তা (O)">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "অফলাইনে ব্যবহারের জন্য নিউজগ্রুপ নির্বাচন করুন... (S)">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "উন্নত... (A)">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "বার্তা সিনক্রোনাইজ">
+<!ENTITY diskspaceGroupTitle.label "ডিস্কের জায়গা">

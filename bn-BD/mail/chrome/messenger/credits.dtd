@@ -1,0 +1,17 @@
+<!ENTITY credit.title "&brandFullName; ক্রেডিট">
+<!ENTITY brandMotto "থান্ডারবার্ড যাও!">
+<!ENTITY credit.leads "প্রকৌশলী নেতৃত্ব">
+<!ENTITY credit.thanks "বিশেষ ধন্যবাদ">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "">
+
+<!ENTITY credit.theme "থিম ডিজাইন">
+<!ENTITY credit.qa "গুনমান নিশ্চয়তা">
+<!ENTITY credit.build "তৈরি এবং প্রকাশ">
+<!ENTITY credit.memory "এর স্মৃতিতে:">
+<!ENTITY credit.poweredByGecko "Gecko&trade; দ্বারা চালিত">

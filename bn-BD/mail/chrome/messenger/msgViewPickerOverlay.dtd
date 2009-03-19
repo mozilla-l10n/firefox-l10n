@@ -1,0 +1,18 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "প্রদর্শন (i):">
+<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewAll.label "সকল (A)">
+<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewUnread.label "না পড়া (U)">
+<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewNotDeleted.label "মুছে না ফেলা (D)">
+<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewTags.label "ট্যাগ (T)">
+<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewCustomViews.label "স্বনির্বাচিত দর্শন (V)">
+<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewVirtualFolder.label "প্রদর্শন একটি ফোল্ডার হিসেবে সংরক্ষন করুন... (S)">
+<!ENTITY viewVirtualFolder.accesskey "S">
+<!ENTITY viewCustomizeView.label "স্বনির্বাচন... (C)">
+<!ENTITY viewCustomizeView.accesskey "C">

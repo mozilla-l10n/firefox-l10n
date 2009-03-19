@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title "নতুন ট্যাগ তৈরি করুন">
+<!ENTITY name.label "ট্যাগের নাম (T):">
+<!ENTITY name.accesskey "T">

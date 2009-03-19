@@ -1,0 +1,20 @@
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "সহায়তা (H)">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "সহায়তা (H)">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY releaseCmd.label "রিলিজ নোট (R)">
+<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY openHelp.label "সহায়তার বিষয়বস্তু (H)">
+<!ENTITY openHelp.accesskey "H">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "&brandShortName; সহায়তা">
+<!ENTITY openHelpMac2.commandkey "?">
+<!ENTITY openHelpMac2.modifiers "এক্সেল">
+
+<!ENTITY updateCmd.label "আপডেট পরীক্ষা করুন... (o)">
+<!ENTITY updateCmd.accesskey "o">
+<!ENTITY aboutCmd.label "&brandFullName; সম্পর্কিত (A)">
+<!ENTITY aboutCmd.accesskey "A">

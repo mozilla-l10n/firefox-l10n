@@ -1,0 +1,32 @@
+<!ENTITY downloadactionsWindow.title "ডাউনলোড ক্রিয়া">
+<!ENTITY window.width "480">
+<!ENTITY window.height "310">
+
+<!ENTITY fileTypesDescription.label "নিম্নের প্রতি ধরনের ফাইলের জন্য স্বয়ংক্রিয়ভাবে সংশ্লিষ্ট ক্রিয়া সম্পন্ন করা হবে:">
+
+<!ENTITY fileHandlerColumn.label "ক্রিয়া (A)">
+<!ENTITY fileHandlerColumn.accesskey "A">
+<!ENTITY fileTypeColumn.label "ফাইলের ধরন (T)">
+<!ENTITY fileTypeColumn.accesskey "T">
+<!ENTITY fileMIMETypeColumn.label "MIME ধরন (M)">
+<!ENTITY fileMIMETypeColumn.accesskey "M">
+<!ENTITY fileExtensionColumn.label "এক্সটেনশন (E)">
+<!ENTITY fileExtensionColumn.accesskey "E">
+
+<!ENTITY remove.label "ক্রিয়া মুছে ফেলুন (R)">
+<!ENTITY remove.accesskey "R">
+<!ENTITY edit.label "ক্রিয়া পরিবর্তন করুন... (C)">
+<!ENTITY edit.accesskey "C">
+
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "অনুসন্ধান করুন (S):">
+<!ENTITY filter.accesskey "S">
+<!ENTITY clear.label "পরিষ্কার করুন (l)">
+<!ENTITY clear.accesskey "l">
+
+<!ENTITY button.close.label "বন্ধ করুন (o)">
+<!ENTITY button.close.accesskey "o">
+

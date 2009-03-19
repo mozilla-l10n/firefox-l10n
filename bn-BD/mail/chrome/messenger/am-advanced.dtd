@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "বহি:গামী সার্ভার (SMTP) সেটিং">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "যদিও আপনি একাধিক বহি:গামী সার্ভার (SMTP) উল্লেখ করতে পারেন, এটি শুধুমাত্র দক্ষ ব্যবহারকারীদের জন্য সুপারিশকৃত। একাধিক SMTP সার্ভার সেট করলে বার্তা পাঠানোর সময় সমস্যা হতে পারে।">
+
+<!ENTITY smtpListAdd.label "যোগ করুন... (d)">
+<!ENTITY smtpListAdd.accesskey "d">
+<!ENTITY smtpListEdit.label "সম্পাদনা করুন... (E)">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "মুছে ফেলুন (m)">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "ডিফল্ট সেট করুন (t)">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "বিবরন:">
+<!ENTITY serverName.label "সার্ভারের নাম:">
+<!ENTITY serverPort.label "পোর্ট:">
+<!ENTITY userName.label "ব্যবহারকারীর নাম:">
+<!ENTITY connectionSecurity.label "সংযোগ নিরাপত্তা:">
+<!ENTITY useSecureAuthentication.label "নিরাপদ অথেন্টিকেশন:">

@@ -1,0 +1,52 @@
+<!ENTITY itemGeneral.label "সাধারন">
+<!ENTITY itemAutoComplete.label "সম্বোধন">
+<!ENTITY itemSpellCheck.label "বানান">
+
+<!ENTITY forwardMsg.label "বার্তা অন্যদেরকে পাঠান (w):">
+<!ENTITY forwardMsg.accesskey "W">
+<!ENTITY inline.label "ইনলাইন (I)">
+<!ENTITY asAttachment.label "সংযুক্তি হিসেবে (A)">
+<!ENTITY addExtension.label "ফাইলের নামের সাথে এক্সটেনশন যোগ করা হবে (f)">
+<!ENTITY addExtension.accesskey "f">
+
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "ফন্ট (n):">
+<!ENTITY font.accesskey "n">
+<!ENTITY size.label "আকার (z):">
+<!ENTITY size.accesskey "z">
+<!ENTITY fontColor.label "টেক্সটের রং (x):">
+<!ENTITY fontColor.accesskey "X">
+<!ENTITY bgColor.label "পিছনের রং (B):">
+<!ENTITY bgColor.accesskey "B">
+<!ENTITY restoreHTMLDefaults.label "ডিফল্ট পুনরায় স্থাপন করা হবে (R)">
+<!ENTITY restoreHTMLDefaults.accesskey "R">
+
+<!ENTITY spellCheck.label "প্রেরনের পূর্বে বানান পরীক্ষা করা হবে (C)">
+<!ENTITY spellCheck.accesskey "C">
+<!ENTITY spellCheckInline.label "আপনি টাইপ করার সময় বানান পরীক্ষা সক্রিয় করা হবে">
+<!ENTITY spellCheckInline1.accesskey "k">
+<!ENTITY languagePopup.label "ভাষা (g):">
+<!ENTITY languagePopup.accessKey "G">
+<!ENTITY downloadDictionaries.label "আরো অভিধান ডাউনলোড করা হবে">
+
+<!ENTITY warnOnSendAccelKey.label "প্রেরনের ক্ষেত্রে কিবোর্ড শর্টকাট ব্যবহার করা হলে নিশ্চিতকরন বার্তা দেখানো হবে (i)">
+<!ENTITY warnOnSendAccelKey.accesskey "I">
+<!ENTITY autoSave.label "স্বয়ংক্রিয়ভাবে সংরক্ষন করা হবে (u)">
+<!ENTITY autoSave.accesskey "U">
+<!ENTITY autoSaveEnd.label "মিনিট অন্তর">
+
+<!ENTITY emailCollectionPicker.label "স্বয়ংক্রিয়ভাবে বহি:গামী ই-মেইল ঠিকানা সংরক্ষন করা হবে এখানে:">
+<!ENTITY emailCollectionPicker.accesskey "A">
+<!ENTITY addressingTitle.label "ঠিকানা স্বয়ংক্রিয়ভাবে সম্পন্ন করা হবে">
+<!ENTITY autocompleteText.label "যখন বার্তাকে সম্বোধন করা হবে, এখানে মিল খোজা হবে:">
+<!ENTITY addressingEnable.label "স্থানীয় ঠিকানার বই (A)">
+<!ENTITY addressingEnable.accesskey "A">
+<!ENTITY directories.label "ডিরেক্টরি সার্ভার (D):">
+<!ENTITY directories.accesskey "D">
+<!ENTITY directoriesNone.label "কিছু নয়">
+<!ENTITY editDirectories.label "ডিরেক্টরি সম্পাদনা করুন... (E)">
+<!ENTITY editDirectories.accesskey "E">
+
+<!ENTITY sendOptionsDescription.label "টেক্সট ফরম্যাটের আচরন কনফিগার করুন">
+<!ENTITY sendOptions.label "প্রেরনের পছন্দসমূহ... (S)">
+<!ENTITY sendOptions.accesskey "S">

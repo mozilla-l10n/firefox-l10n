@@ -1,0 +1,96 @@
+<!ENTITY itemGeneral.label "সাধারন">
+<!ENTITY itemDisplay.label "&amp; প্রদর্শন পড়া হচ্ছে">
+<!ENTITY itemUpdate.label "আপডেট">
+<!ENTITY itemNetworking.label "নেটওয়ার্ক &amp; ডিস্কের জায়গা">
+<!ENTITY itemCertificates.label "সার্টিফিকেট">
+<!-- General Settings -->
+
+
+<!ENTITY enableGlodaSearch.label "গ্লোবাল অনুসন্ধান এবং সূচীকারক সক্রিয় করুন (I)">
+<!ENTITY enableGlodaSearch.accesskey "I">
+<!ENTITY systemDefaults.label "সিস্টেম ডিফল্ট">
+<!ENTITY alwaysCheckDefault.label "স্টার্টআপের সময় সর্বদা পরীক্ষা করা হবে যে &brandShortName; ডিফল্ট মেইল ক্লায়েন্ট কিনা">
+<!ENTITY alwaysCheckDefault.accesskey "A">
+<!ENTITY checkNow.label "এখন পরীক্ষা করুন (N)">
+<!ENTITY checkNow.accesskey "N">
+<!ENTITY configEditDesc.label "উন্নত কনফিগারেশন">
+<!ENTITY configEdit.label "কনফিগ সম্পাদক... (g)">
+<!ENTITY configEdit.accesskey "G">
+<!ENTITY returnReceiptsInfo.label "&brandShortName; কিভাবে রশিদ পাঠাবে তা নির্ধারন করে">
+<!ENTITY showReturnReceipts.label "রশিদ ফেরত পাঠান... (R)">
+<!ENTITY showReturnReceipts.accesskey "R">
+<!-- Display and Reading Settings -->
+
+<!ENTITY reading.caption "পড়া হচ্ছে">
+<!ENTITY display.caption "প্রদর্শন">
+<!ENTITY showCondensedAddresses.label "আমার ঠিকানার বইয়ের মানুষদের শুধুমাত্র প্রদর্শন নাম দেখানো হবে (p)">
+<!ENTITY showCondensedAddresses.accesskey "P">
+
+<!ENTITY autoMarkAsRead.label "বার্তাসমূহকে স্বয়ংক্রিয়ভাবে 'পড়া হয়েছে' হিসেবে চিহ্নিত করা হবে (A)">
+<!ENTITY autoMarkAsRead.accesskey "A">
+<!ENTITY markAsReadNoDelay.label "তাৎক্ষনিকভাবে প্রদর্শন করা হবে (d)">
+<!ENTITY markAsReadNoDelay.accesskey "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label "প্রদর্শন করা হবে (e)">
+<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY secondsLabel.label "সেকেন্ড">
+<!ENTITY openMsgIn.label "বার্তা খোলা হবে:">
+<!ENTITY reuseExpRadio0.label "একটি নতুন বার্তা উইন্ডোতে (i)">
+<!ENTITY reuseExpRadio0.accesskey "i">
+<!ENTITY reuseExpRadio1.label "একটি উপস্থিত বার্তা উইন্ডোতে (x)">
+<!ENTITY reuseExpRadio1.accesskey "x">
+<!-- Update -->
+
+<!ENTITY autoCheck.label "স্বয়ংক্রিয়ভাবে আপডেট পরীক্ষা করা হবে:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "ইন্সটল করা অতিরিক্ত-সামগ্রী (t)">
+<!ENTITY enableAddonsUpdate.accesskey "T">
+<!ENTITY whenUpdatesFound.label "যখন &brandShortName; এর আপডেট পাওয়া যাবে,">
+<!ENTITY modeAskMe.label "আমাকে জিজ্ঞেস করা হবে আমি কি করতে চাই (k)">
+<!ENTITY modeAskMe.accesskey "k">
+<!ENTITY modeAutomatic.label "স্বয়ংক্রীয়ভাবে আপডেট ডাউনলোড এবং ইন্সটল করা হবে (m)">
+<!ENTITY modeAutomatic.accesskey "m">
+<!ENTITY modeAutoAddonWarn.label "আমাকে সতর্ক করা হবে যদি এটি আমার কোনো অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে দেয় (-)">
+<!ENTITY modeAutoAddonWarn.accesskey "-">
+<!ENTITY showUpdates.label "আপডেটের ইতিহাস দেখানো হবে (y)">
+<!ENTITY showUpdates.accesskey "Y">
+<!-- Networking and Disk Space -->
+
+<!ENTITY showSettings.label "সেটিং... (n)">
+<!ENTITY showSettings.accesskey "N">
+<!ENTITY proxiesConfigure.label "&brandShortName; কিভাবে ইন্টারনেটে সংযুক্ত হবে তা কনফিগার করুন">
+<!ENTITY connectionsInfo.caption "সংযোগ">
+<!ENTITY offlineInfo.caption "অফলাইন">
+<!ENTITY offlineInfo.label "অফলাইন সেটিং কনফিগার করুন">
+<!ENTITY showOffline.label "অফলাইন… (O)">
+<!ENTITY showOffline.accesskey "O">
+
+<!ENTITY Diskspace "ডিস্কের জায়গা">
+<!ENTITY offlineCompact.label "ফোল্ডার সঙ্কুচিত করা হবে যখন এটি এর বেশি জায়গা ব্যবহার করে ফেলবে (v):">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "কিলোবাইট">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "ক্যাশের জন্য (U)">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "মেগাবাইট পর্যন্ত জায়গা ব্যবহার করা হবে">
+<!ENTITY clearCacheNow.label "এখন পরীষ্কার করা হবে (C)">
+<!ENTITY clearCacheNow.accesskey "C">
+<!-- Certificates -->
+
+<!ENTITY viewCertificates.label "সার্টিফিকেট দেখানো হবে (a)">
+<!ENTITY viewCertificates.accesskey "A">
+<!ENTITY viewCRLs.label "বাদ দেয়ার তালিকা (e)">
+<!ENTITY viewCRLs.accesskey "E">
+<!ENTITY validation.label "বৈধতা (d)">
+<!ENTITY validation.accesskey "D">
+<!ENTITY viewSecurityDevices.label "নিরাপত্তার যন্ত্র (u)">
+<!ENTITY viewSecurityDevices.accesskey "U">

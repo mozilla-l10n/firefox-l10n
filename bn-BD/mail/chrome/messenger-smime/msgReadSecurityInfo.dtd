@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "বার্তা নিরাপত্তা">
+<!ENTITY signatureCert.label "স্বাক্ষর সার্টিফিকেট দেখুন">
+<!ENTITY encryptionCert.label "এনক্রিপশন সার্টিফিকেট দেখুন">
+
+<!ENTITY signer.name "এর দ্বারা স্বাক্ষরিত:">
+<!ENTITY recipient.name "এর জন্য এনক্রিপ্ট করা:">
+<!ENTITY email.address "ইমেইল ঠিকানা:">
+<!ENTITY issuer.name "এর দ্বারা সার্টিফিকেট ইস্যু করা হয়েছে:">

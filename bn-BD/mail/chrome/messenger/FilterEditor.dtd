@@ -1,0 +1,39 @@
+<!ENTITY window.title "ফিল্টার নিয়মাবলী">
+
+<!ENTITY filterName.label "ফিল্টারের নাম (i):">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "জাঙ্ক">
+<!ENTITY notJunk.label "জাঙ্ক নয়">
+
+<!ENTITY lowestPriorityCmd.label "সর্বনিম্ন">
+<!ENTITY lowPriorityCmd.label "নিম্ন">
+<!ENTITY normalPriorityCmd.label "সাধারন">
+<!ENTITY highPriorityCmd.label "উচ্চ">
+<!ENTITY highestPriorityCmd.label "সর্বোচ্চ">
+
+<!ENTITY contextDesc.label "ফিল্টার কার্যকর করা হবে এবং কখন (w):">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "মেইল পরীক্ষা করা হচ্ছে">
+<!ENTITY contextManual.label "ম্যানুয়ালভাবে চালানো হবে">
+<!ENTITY contextBoth.label "মেইল পরীক্ষা করা হচ্ছে বা ম্যানুয়ালভাবে চালানো হবে">
+<!ENTITY filterActionDesc.label "এই ক্রিয়াগুলো সম্পন্ন করা হবে (P):">
+<!ENTITY filterActionDesc.accesskey "P">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "বার্তা সরানো হবে">
+<!ENTITY copyMessage.label "বার্তা কপি করা হবে">
+<!ENTITY forwardTo.label "বার্তা ফরওয়ার্ড করা হবে">
+<!ENTITY replyWithTemplate.label "টেমপ্লেট থেকে জবাব দেয়া হবে">
+<!ENTITY markMessageRead.label "পড়া হয়েছে হিসেবে চিহ্নিত করুন">
+<!ENTITY markMessageStarred.label "তারকা যোগ করুন">
+<!ENTITY setPriority.label "অগ্রাধিকার সেট করুন">
+<!ENTITY addTag.label "বার্তা ট্যাগ করুন">
+<!ENTITY setJunkScore.label "জাঙ্ক স্ট্যাটাস সেট করুন">
+<!ENTITY deleteMessage.label "বার্তা মুছে ফেলুন">
+<!ENTITY deleteFromPOP.label "পপ সার্ভার থেকে মুছে ফেলুন">
+<!ENTITY fetchFromPOP.label "পপ সার্ভার থেকে আনা হবে">
+<!ENTITY ignoreThread.label "থ্রেড উপেক্ষা করা হবে">
+<!ENTITY ignoreSubthread.label "উপ-থ্রেড উপেক্ষা করা হবে">
+<!ENTITY watchThread.label "থ্রেড দেখা হবে">
+<!ENTITY stopExecution.label "ফিল্টার চালানো থামানো হবে">

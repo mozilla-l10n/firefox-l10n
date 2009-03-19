@@ -1,0 +1,16 @@
+<!ENTITY pane.title "ডেলিভারি অবস্থা প্রজ্ঞাপন">
+<!ENTITY useGlobalPrefs.label "এই অ্যাকাউন্টের জন্য আমার গ্লোবাল ডেলিভারি অবস্থা প্রজ্ঞাপন ব্যবহার করা হবে (U)">
+<!ENTITY useGlobalPrefs.accesskey "U">
+<!ENTITY useCustomPrefs.label "এই অ্যাকাউন্টের জন্য ডেলিভারি অবস্থা প্রজ্ঞাপন স্বনির্বাচিত করা হবে (C)">
+<!ENTITY useCustomPrefs.accesskey "C">
+<!ENTITY requestAlways.label "বার্তা প্রেরনের সময় সর্বদা একটি ডেলিভারি অবস্থা প্রজ্ঞাপন অনুরোধ করা হবে (W)">
+<!ENTITY requestAlways.accesskey "W">
+<!ENTITY optionTitle.label "প্রজ্ঞাপন দেয়া হবে:">
+<!ENTITY requestOnSucess.label "ডেলিভারি সফল হলে (S)">
+<!ENTITY requestOnSucess.accesskey "S">
+<!ENTITY requestOnFailure.label "ডেলিভারি ব্যর্থ হলে (F)">
+<!ENTITY requestOnFailure.accesskey "F">
+<!ENTITY requestOnDelay.label "ডেলিভারি বিলম্বিত হলে (D)">
+<!ENTITY requestOnDelay.accesskey "D">
+<!ENTITY requestNever.label "কখনও ডেলিভারি অবস্থা প্রজ্ঞাপন গ্রহন করা হবে না (N)">
+<!ENTITY requestNever.accesskey "N">
