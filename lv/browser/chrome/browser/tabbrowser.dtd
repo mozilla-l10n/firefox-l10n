@@ -17,3 +17,5 @@
 <!ENTITY undoCloseTab.label "Atsaukt cilnes aizvēršanu">
 <!ENTITY undoCloseTab.accesskey "U">
 <!ENTITY  newTabButton.tooltip        "Atvērt jaunu cilni">
+<!ENTITY  openTabInNewWindow.label    "Atvērt jaunā logā">
+<!ENTITY  openTabInNewWindow.accesskey "l">

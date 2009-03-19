@@ -47,9 +47,6 @@
 <!ENTITY clearDataSettings.label "Iestatījumi...">
 <!ENTITY clearDataSettings.accesskey "t">
 
-<!ENTITY clearDataNow.label "Notīrīt tagad...">
-<!ENTITY clearDataNow.accesskey "N">
-
 <!ENTITY  locbar.pre.label              "Adrešu joslā ieteikt:">
 <!ENTITY  locbar.pre.accessKey          "A">
 <!ENTITY  locbar.post.label             "">
