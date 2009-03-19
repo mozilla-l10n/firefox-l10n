@@ -41,13 +41,13 @@
 <!ENTITY initialpage.computer.label  "මගේ පරිගණකය මත">
 <!ENTITY initialpage.network.label  "ජාලය මත">
 
-<!ENTITY locationpage.description         "ඔබගේ දුරස්ථ දිනදර්ශනයට ප්‍රවේෂණ තොරතුරු සපයන්න" >
+<!ENTITY locationpage.description         "ඔබගේ දුරස්ථ දිනදර්ශනයට ප්‍රවේශ තොරතුරු සපයන්න" >
 <!ENTITY locationpage.login.description   "විකල්ප: පරිශීලක නමක් සහ රහස්පදයක් ඇතුළු කරන්න" >
 <!ENTITY locationpage.username.label      "පරිශීලක නාමය:" >
 <!ENTITY locationpage.password.label      "රහස්පදය:" >
 
 <!ENTITY custompage.shortdescription  "ඔබේ දිනදර්ශනය රිසිසේ සකසන්න" >
-<!ENTITY custompage.longdescription   "ඔබට දිනදර්ශනයට සුරතල් නමක් ලබාදීමට සහ දිනදර්ශනයේ සිදුවීම් වර්‍ණ ගැන්විය හැකිය." >
+<!ENTITY custompage.longdescription   "ඔබට දිනදර්ශනයට සුරතල් නමක් ලබාදීමට සහ දිනදර්ශනයේ සිදුවීම් වර්ණ ගැන්විය හැකිය." >
 
 <!ENTITY finishpage.shortdescription  "දිනදර්ශනය නිර්මාණය විය" >
 <!ENTITY finishpage.longdescription   "ඔබේ දිනදර්ශනය නිර්මාණය විය." >

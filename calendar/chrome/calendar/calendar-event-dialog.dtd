@@ -45,8 +45,8 @@
 <!ENTITY newevent.status.none.label         "විශේෂිතව දක්වා නැත" >
 <!ENTITY newevent.status.cancelled.label    "අහෝසි කළා" >
 <!ENTITY newevent.status.tentative.label    "තාවකාලික" >
-<!ENTITY newevent.status.confirmed.label    "ස්තිරයි" >
-<!ENTITY newevent.status.needsaction.label  "අක්‍රියාවක් අවශ්‍යයි" >
+<!ENTITY newevent.status.confirmed.label    "ස්ථිරයි" >
+<!ENTITY newevent.status.needsaction.label  "ක්‍රියාවක් අවශ්‍යයි" >
 <!ENTITY newevent.status.inprogress.label   "සිදුවෙමින් පවතී" >
 <!ENTITY newevent.status.completed.label    "නිමවන්නේ" >
 
@@ -81,8 +81,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "E">
 <!ENTITY  event.menu.file.new.message.label               "පණිවිඩයක්">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "ලිපින පොතේ පිටුවක්">
-<!ENTITY  event.menu.file.new.address.accesskey           "C">
+<!ENTITY  event.menu.file.new.contact.label              "ලිපින පොතේ සබඳතාවයක්">
+<!ENTITY  event.menu.file.new.contact.accesskey           "C">
 <!ENTITY  event.menu.file.close.label                     "වසන්න">
 <!ENTITY  event.menu.file.close.accesskey                 "C">
 <!ENTITY  event.menu.file.save.label                      "සුරකින්න">

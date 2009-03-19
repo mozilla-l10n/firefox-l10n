@@ -163,7 +163,7 @@
 <!ENTITY calendar.task.filter.next7days.accesskey   "N">
 <!ENTITY calendar.task.filter.notstarted.label      "ආරම්භ නොකළ කාර්යයන්">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
-<!ENTITY calendar.task.filter.overdue.label         "පමා වූ කාර්‍යයන්">
+<!ENTITY calendar.task.filter.overdue.label         "පමා වූ කාර්යයන්">
 <!ENTITY calendar.task.filter.overdue.accesskey     "O">
 <!ENTITY calendar.task.filter.completed.label       "නිම කළ කාර්යයන්">
 <!ENTITY calendar.task.filter.completed.accesskey   "C">
@@ -253,7 +253,7 @@
 <!ENTITY progress.level.75.accesskey  "7">
 <!ENTITY progress.level.100            "100&percnt; අවසන්">
 <!ENTITY progress.level.100.accesskey  "1">
-<!ENTITY progress.level.0             "0&percnt; අවස">
+<!ENTITY progress.level.0             "0&percnt; අවසන්">
 <!ENTITY progress.level.0.accesskey   "0">
 <!ENTITY progress.level.25            "25&percnt; සම්පූර්ණ කළ">
 <!ENTITY progress.level.25.accesskey  "2">
@@ -286,7 +286,7 @@
 <!ENTITY calendar.context.publish.accesskey            "b">
 <!ENTITY calendar.context.export.label                 "දිනදර්ශනය නිර්යාත කරන්න…">
 <!ENTITY calendar.context.export.accesskey             "E">
-<!ENTITY calendar.context.properties.label             "වත්කම්">
+<!ENTITY calendar.context.properties.label             "ලක්ෂණ">
 <!ENTITY calendar.context.properties.accesskey         "P">
 
 <!ENTITY calendar.context.convertmenu.label              "පරිවර්තනය වන්නේ">
@@ -314,7 +314,7 @@
 <!ENTITY calendar.alarm.details.label               "විස්තර…" >
 
 <!ENTITY calendar.alarm.snoozefor.label             "නිද්‍රාව" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "සිල්ල නිද්‍රාව" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "සියල්ල නිද්‍රාව" >
 <!ENTITY calendar.alarm.title.label                 "දිනදර්ශන සංඥාව" >
 <!ENTITY calendar.alarm.dismiss.label               "ඉවතලන්න" >
 <!ENTITY calendar.alarm.dismissall.label            "සියල්ල ඉවතලන්න" >
@@ -345,7 +345,7 @@
 <!ENTITY calendarproperties.cache.label    "Cache (EXPERIMENTAL, requires restart)">
 <!ENTITY calendarproperties.enabled.label "මෙම දිනදර්ශනය සක්‍රීය කරන්න">
 <!ENTITY calendarproperties.forceDisabled.label            "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
-<!ENTITY calendarproperties.unsubscribe.label              "Unsubscribe">
+<!ENTITY calendarproperties.unsubscribe.label              "දායකත්වය හරින්න">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
 <!-- Sunbird Help -->

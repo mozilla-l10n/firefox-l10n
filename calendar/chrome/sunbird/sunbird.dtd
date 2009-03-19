@@ -41,12 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "දිනදර්ශනය මුද්‍රණය" >
 <!ENTITY sunbird.delete.button.tooltip                     "තෝරාගත් සිදුවීම මැකීමට" >
 <!ENTITY sunbird.remotereload.button.tooltip               "සියළු දුරස්ථ දිනදර්ශන ප්‍රති-පූරණය කිරීමට" >
-<!ENTITY sunbird.import.button.tooltip                     "Import events from a local file" >
-<!ENTITY sunbird.export.button.tooltip                     "Export events to a local file" >
-<!ENTITY sunbird.subscribe.button.tooltip                  "Subscribe to a calendar file on a remote machine" >
-<!ENTITY sunbird.publish.button.tooltip                    "Publish events to a remote machine" >
-<!ENTITY sunbird.unifinder.button.tooltip                  "Find and list events" >
-<!ENTITY sunbird.edit.button.tooltip                       "Edit selected event" >
+<!ENTITY sunbird.import.button.tooltip                     "පෙදෙසි ගොනුවකින් (local file) සිදුවීම් ආයාත කිරීම" >
+<!ENTITY sunbird.export.button.tooltip                     "පෙදෙසි ගොනුවකට (local file) සිදුවීම් නිර්යාත කිරීම" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "දුරස්ථ පරිගණකයක වූ දිනදර්ශණයකට දායකත්වය ලබා ගැනීම" >
+<!ENTITY sunbird.publish.button.tooltip                    "දුරස්ථ පරිගණකයකට සිදුවීම් ප්‍රකාශණය කිරීම" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "සිදුවීම් සෙවීම හා ලැයිස්තුගත කිරීම" >
+<!ENTITY sunbird.edit.button.tooltip                       "තෝරාගත් සිදුවීම් සැකසීම" >
 
 <!ENTITY sunbird.choosedate.button.label                   "දිනය තෝරන්න" >
 <!ENTITY sunbird.cut.button.label                          "කපන්න" >

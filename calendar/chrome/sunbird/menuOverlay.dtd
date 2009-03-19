@@ -42,7 +42,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendar.open.file.label                          "දිනදර්ශන ගොනුව විවෘත නිරීම…">
+<!ENTITY calendar.open.file.label                          "දිනදර්ශන ගොනුව විවෘත කිරීම…">
 <!ENTITY calendar.open.file.key                            "O">
 <!ENTITY calendar.open.file.accesskey                      "O">
 
@@ -59,16 +59,16 @@
 <!ENTITY calendar.pagesetup.label                          "පිටු සැකසීම…">
 <!ENTITY calendar.pagesetup.accesskey                      "u">
 
-<!ENTITY calendar.subscribe.label                          "Subscribe to Remote Calendar…">
+<!ENTITY calendar.subscribe.label                          "දුරස්ථ දිනදර්ශණ සඳහා දායකත්වය ලබා ගැනීම…">
 <!ENTITY calendar.subscribe.accesskey                      "R">
 
-<!ENTITY calendar.reloadserver.label                       "Reload Remote Calendars">
+<!ENTITY calendar.reloadserver.label                       "දුරස්ථ දිනදර්ශණ ප්‍රතිපූරණය කිරීම">
 <!ENTITY calendar.reloadserver.key                         "R">
 <!ENTITY calendar.reloadserver.accesskey                   "R">
 
 <!ENTITY calendar.publish.calendar.label                   "දිනදර්ශනය පළකිරීම…">
 <!ENTITY calendar.publish.calendar.accesskey               "b">
-<!ENTITY calendar.publish.selection.label                  "Publish Selection…">
+<!ENTITY calendar.publish.selection.label                  "තෝරාගත් කොටස පළකිරීම…">
 <!ENTITY calendar.publish.selection.accesskey              "c">
 
 <!ENTITY calendar.quit.label                               "පිටවීම">
