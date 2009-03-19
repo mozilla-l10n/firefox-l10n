@@ -186,6 +186,8 @@
 <!ENTITY historyMenu.label "Historio">
 <!ENTITY historyMenu.accesskey "h">
 <!ENTITY historyUndoMenu.label "Antaŭ ne longe fermitaj folioj">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Antaŭ ne longe fermitaj folioj">
 
 <!ENTITY historyHomeCmd.label "Eka paĝo">
 <!ENTITY showAllHistoryCmd2.label "Montri tutan historion">
