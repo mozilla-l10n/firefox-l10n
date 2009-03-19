@@ -32,5 +32,3 @@
 <!ENTITY alwaysClear.accesskey "v">
 <!ENTITY clearDataSettings.label "Configuración…">
 <!ENTITY clearDataSettings.accesskey "f">
-<!ENTITY clearDataNow.label "Limpiar ahora…">
-<!ENTITY clearDataNow.accesskey "L">
