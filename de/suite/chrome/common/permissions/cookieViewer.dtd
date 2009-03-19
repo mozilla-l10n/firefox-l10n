@@ -14,6 +14,7 @@
 <!ENTITY     search.emptytext               "Cookies durchsuchen">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
+<!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Name:">
 <!ENTITY     props.value.label              "Inhalt:">
