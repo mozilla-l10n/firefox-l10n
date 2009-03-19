@@ -93,8 +93,8 @@
 <!ENTITY  rememberHistory.pre.accesskey  "C">
 <!ENTITY  rememberHistory.post.label     "jours">
 
-<!ENTITY  rememberDownloads.label        "Conserver l'historique des téléchargements">
-<!ENTITY  rememberDownloads.accesskey    "o">
+<!ENTITY  rememberDownload.label        "Conserver l'historique des téléchargements">
+<!ENTITY  rememberDownload.accesskey    "o">
 
 <!ENTITY  rememberSearchForm.label       "Conserver l'historique des recherches et des formulaires">
 <!ENTITY  rememberSearchForm.accesskey   "n">
