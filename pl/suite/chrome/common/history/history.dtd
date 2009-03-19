@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip "Pasek menu">
 <!ENTITY searchBar.tooltip "Pasek wyszukiwanie">
 
-<!ENTITY search.emptytext "Przeszukaj historię">
+<!ENTITY search.emptytext "Szukaj w historii">
 <!ENTITY search.key "f">
 <!ENTITY view.label "Porządkuj">
 
