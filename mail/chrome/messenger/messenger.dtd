@@ -42,8 +42,6 @@
 <!ENTITY compactFolders.accesskey "ж">
 <!ENTITY emptyTrashCmd.label "Очистить «Удалённые»">
 <!ENTITY emptyTrashCmd.accesskey "ч">
-<!ENTITY importCmd.label "Импорт…">
-<!ENTITY importCmd.accesskey "И">
 <!ENTITY offlineMenu.label "Автономная работа">
 <!ENTITY offlineMenu.accesskey "А">
 <!ENTITY offlineGoOfflineCmd.label "Работать автономно">
@@ -89,14 +87,11 @@
 <!ENTITY selectFlaggedCmd.label "Отмеченные звёздочкой сообщения">
 <!ENTITY selectFlaggedCmd.accesskey "з">
 <!ENTITY menuFavoriteFolder.label "Избранная папка">
-<!ENTITY menuFavoriteFolder.accesskey "И">
+<!ENTITY menuFavoriteFolder.accesskey "з">
 <!ENTITY folderPropsCmd.label "Свойства…">
 <!ENTITY folderPropsFolderCmd.label "Свойства папки…">
 <!ENTITY folderPropsNewsgroupCmd.label "Свойства группы новостей…">
 <!ENTITY folderPropsCmd.accesskey "й">
-<!ENTITY accountManagerCmd.label "Параметры учётной записи…">
-<!ENTITY accountManagerCmd.accesskey "м">
-<!ENTITY accountManagerCmdUnix.accesskey "м">
 <!ENTITY undoDeleteMsgCmd.label "Отменить удаление сообщения">
 <!ENTITY redoDeleteMsgCmd.label "Повторить удаление сообщения">
 <!ENTITY undoMoveMsgCmd.label "Отменить перемещение сообщения">
@@ -378,20 +373,15 @@
 <!ENTITY windowMenu.label "Окно">
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
-<!ENTITY addons.label "Дополнения">
-<!ENTITY addons.accesskey "Д">
-<!ENTITY activitymanager.label "Диспетчер работы">
-<!ENTITY activitymanager.accesskey "и">
 <!ENTITY messengerCmd.label "Почта и группы новостей">
 <!ENTITY messengerCmd.accesskey "п">
 <!ENTITY addressBookCmd.label "Адресная книга">
 <!ENTITY addressBookCmd.accesskey "А">
-<!ENTITY runJunkControls.label "Запустить в папке анти-спам фильтры">
-<!ENTITY runJunkControls.accesskey "а">
-<!ENTITY deleteJunk.label "Удалить сообщения помеченные как спам">
-<!ENTITY deleteJunk.accesskey "д">
-<!ENTITY errorConsoleCmd.label "Консоль ошибок">
-<!ENTITY errorConsoleCmd.accesskey "н">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Дополнения">
+<!ENTITY addons.accesskey "Д">
+<!ENTITY activitymanager.label "Диспетчер работы">
+<!ENTITY activitymanager.accesskey "и">
 <!ENTITY filtersCmd.label "Фильтры сообщений…">
 <!ENTITY filtersCmd.accesskey "Ф">
 <!ENTITY filtersApply.label "Применить фильтры к папке">
@@ -400,6 +390,17 @@
 <!ENTITY filtersApplyToSelection.accesskey "в">
 <!ENTITY filtersApplyToMessage.label "Применить фильтры к сообщению">
 <!ENTITY filtersApplyToMessage.accesskey "с">
+<!ENTITY runJunkControls.label "Запустить в папке анти-спам фильтры">
+<!ENTITY runJunkControls.accesskey "а">
+<!ENTITY deleteJunk.label "Удалить сообщения помеченные как спам">
+<!ENTITY deleteJunk.accesskey "д">
+<!ENTITY importCmd.label "Импорт…">
+<!ENTITY importCmd.accesskey "И">
+<!ENTITY errorConsoleCmd.label "Консоль ошибок">
+<!ENTITY errorConsoleCmd.accesskey "н">
+<!ENTITY accountManagerCmd.label "Параметры учётной записи…">
+<!ENTITY accountManagerCmd.accesskey "м">
+<!ENTITY accountManagerCmdUnix.accesskey "м">
 <!ENTITY getMsgButton.label "Получить">
 <!ENTITY newMsgButton.label "Создать">
 <!ENTITY replyButton.label "Ответить">

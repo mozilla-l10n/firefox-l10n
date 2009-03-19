@@ -10,6 +10,10 @@
 <!ENTITY button.removecookie.accesskey "д">
 <!ENTITY button.removeallcookies.label "Удалить все куки">
 <!ENTITY button.removeallcookies.accesskey "с">
+<!ENTITY search.emptytext "Поиск кук">
+<!ENTITY focusSearch.key "f">
+<!ENTITY windowClose.key "w">
+<!ENTITY selectAll.key "a">
 <!ENTITY props.name.label "Имя:">
 <!ENTITY props.value.label "Информация:">
 <!ENTITY props.domain.label "Узел:">

@@ -117,18 +117,10 @@
 <!ENTITY col.lastmodified.label "Посл. изменение">
 <!ENTITY search.label "Поиск:">
 <!ENTITY search.accesskey "о">
-<!ENTITY search.collection.label "Только текущая коллекция">
-<!ENTITY search.collection.accesskey "л">
-<!ENTITY search.allBookmarks.label "Все закладки">
-<!ENTITY search.allBookmarks.accesskey "с">
 <!ENTITY search.scopeFolder.label "Выбранная папка">
 <!ENTITY search.scopeFolder.accesskey "б">
-<!ENTITY search.scopeAll.label "Все закладки">
-<!ENTITY search.scopeAll.accesskey "с">
-<!ENTITY search.scopeMenu.label "Меню закладок">
-<!ENTITY search.scopeMenu.accesskey "е">
-<!ENTITY search.scopeToolbar.label "Панель закладок">
-<!ENTITY search.scopeToolbar.accesskey "н">
+<!ENTITY search.scopeBookmarks.label "Закладки">
+<!ENTITY search.scopeBookmarks.accesskey "к">
 <!ENTITY search.scopeDownloads.label "Загрузки">
 <!ENTITY search.scopeDownloads.accesskey "г">
 <!ENTITY search.scopeHistory.label "Журнал">

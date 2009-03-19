@@ -9,6 +9,8 @@
 <!ENTITY reloadAllTabs.accesskey "О">
 <!ENTITY reloadTab.label "Обновить вкладку">
 <!ENTITY reloadTab.accesskey "в">
+<!ENTITY openTabInNewWindow.label "Открыть в новом окне">
+<!ENTITY openTabInNewWindow.accesskey "н">
 <!ENTITY listAllTabs.label "Список всех вкладок">
 <!ENTITY bookmarkAllTabs.label "Добавить все вкладки в закладки…">
 <!ENTITY bookmarkAllTabs.accesskey "в">

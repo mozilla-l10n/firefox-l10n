@@ -12,5 +12,5 @@
 <!ENTITY filtersLink.label "Создать фильтры сообщений">
 <!ENTITY junkSettings.label "Параметры анти-спам фильтров">
 <!ENTITY offlineLink.label "Параметры автономной работы">
-<!ENTITY rssSectionHdr.label "Блоги и ленты новостей">
-<!ENTITY subscibeRSS.label "Управление подписками">
+<!ENTITY feedsSectionHdr.label "Блоги и ленты новостей">
+<!ENTITY subscribeFeeds.label "Управление подписками">

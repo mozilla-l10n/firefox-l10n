@@ -7,5 +7,5 @@
 <!ENTITY paneDisplay.title "Отображение">
 <!ENTITY paneComposition.title "Составление">
 <!ENTITY paneAttachments.title "Вложенные файлы">
-<!ENTITY panePrivacy.title "Приватность">
-<!ENTITY paneAdvanced.title "Дополнительно">
+<!ENTITY paneSecurity.title "Защита">
+<!ENTITY paneAdvanced.title "Дополнительные">

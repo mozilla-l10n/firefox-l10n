@@ -32,3 +32,32 @@
 <!ENTITY alwaysClear.accesskey "з">
 <!ENTITY clearDataSettings.label "Настроить…">
 <!ENTITY clearDataSettings.accesskey "т">
+<!ENTITY historyHeader.pre.label "&brandShortName; будет:">
+<!ENTITY historyHeader.pre.accesskey "F">
+<!ENTITY historyHeader.remember.label "Запоминать историю работы">
+<!ENTITY historyHeader.dontremember.label "Никогда не запоминать историю работы">
+<!ENTITY historyHeader.custom.label "Использовать свои настройки для истории работы">
+<!ENTITY historyHeader.post.label "">
+<!ENTITY rememberDescription.label "&brandShortName; будет помнить историю посещений, загрузок, поиска, данные форм, и хранить куки, оставленные посещёнными вами веб-сайтами.">
+<!ENTITY rememberActions.pre.label "Возможно, вы захотите ">
+<!ENTITY rememberActions.clearHistory.label "очистить вашу недавнюю историю">
+<!ENTITY rememberActions.middle.label ", или">
+<!ENTITY rememberActions.removeCookies.label "удалить отдельные куки">
+<!ENTITY rememberActions.post.label ".">
+<!ENTITY dontrememberDescription.label "&brandShortName; будет использовать настройки режима приватного просмотра и не будет помнить историю вашей работы с веб-сайтами.">
+<!ENTITY dontrememberActions.pre.label "Возможно, вы также захотите  ">
+<!ENTITY dontrememberActions.clearHistory.label "очистить всю текущую историю">
+<!ENTITY dontrememberActions.post.label ".">
+<!ENTITY privateBrowsingAutoStart.label "Автоматически запускать &brandShortName; в режиме приватного просмотра">
+<!ENTITY privateBrowsingAutoStart.accesskey "в">
+<!ENTITY rememberHistory.pre.label "Помнить историю посещений не менее">
+<!ENTITY rememberHistory.pre.accesskey "с">
+<!ENTITY rememberHistory.post.label "дней">
+<!ENTITY rememberDownload.label "Помнить историю загрузок">
+<!ENTITY rememberDownload.accesskey "з">
+<!ENTITY rememberSearchForm.label "Помнить историю поиска и данных форм">
+<!ENTITY rememberSearchForm.accesskey "и">
+<!ENTITY clearOnClose.label "Очищать историю при закрытии &brandShortName;">
+<!ENTITY clearOnClose.accesskey "ч">
+<!ENTITY clearOnCloseSettings.label "Параметры…">
+<!ENTITY clearOnCloseSettings.accesskey "м">
