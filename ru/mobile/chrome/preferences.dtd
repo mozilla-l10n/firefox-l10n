@@ -3,7 +3,9 @@
 <!ENTITY permissions.default.image.description "С ними сайты будут симпатичными">
 <!ENTITY javascript.enabled.title "Включить Javascript">
 <!ENTITY javascript.enabled.description "Придаёт сайтам броскость">
-<!ENTITY plugins.enabled.title "Включить плагины ">
+<!ENTITY javascript.options.jit.content.title "Включить трассировку JavaScript">
+<!ENTITY javascript.options.jit.content.description "Использовать компиляцию в нативный код в JavaScript">
+<!ENTITY plugins.enabled.title "Включить плагины">
 <!ENTITY plugins.enabled.description "Делает сайты слегка надоедливыми">
 <!ENTITY privacy.title "Приватность и защита">
 <!ENTITY network.cookie.cookieBehavior.title "Сохранять куки">

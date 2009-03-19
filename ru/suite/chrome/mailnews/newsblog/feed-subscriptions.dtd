@@ -1,4 +1,4 @@
-<!ENTITY newsBlogSubscriptions.label "Подписки на ленты новостей">
+<!ENTITY feedSubscriptions.label "Подписки на ленты новостей">
 <!ENTITY subscriptionDesc.label "Примечание: Удаление или изменение папки ленты новостей не повлияет на ранее загруженные новости.">
 <!ENTITY feedTitle.label "Заголовок:">
 <!ENTITY location.label "Адрес:">

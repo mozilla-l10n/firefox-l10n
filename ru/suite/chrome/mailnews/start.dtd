@@ -41,7 +41,7 @@
 <!ENTITY features.title "Возможности">
 <!ENTITY feat_multiacc.label "Поддержка нескольких учётных записей">
 <!ENTITY feat_junk.label "Определение и эффективная фильтрация спама">
-<!ENTITY feat_rss.label "Чтение лент новостей">
+<!ENTITY feat_feeds.label "Чтение лент новостей">
 <!ENTITY feat_filters.label "Фильтры сообщений">
 <!ENTITY feat_htmlmsg.label "Составление сообщений в формате HTML">
 <!ENTITY feat_abook.label "Адресная книга">

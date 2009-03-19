@@ -2,6 +2,6 @@
 <!ENTITY defaultClient.intro "Использовать &brandShortName; по умолчанию в качестве:">
 <!ENTITY email.label "Почтового клиента">
 <!ENTITY newsgroups.label "Клиента групп новостей">
-<!ENTITY rss.label "Клиента RSS каналов">
+<!ENTITY feeds.label "Клиента лент новостей">
 <!ENTITY checkOnStartup.label "Всегда производить эту проверку при запуске &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "В">
