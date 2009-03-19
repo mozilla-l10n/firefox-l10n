@@ -11,6 +11,11 @@
 <!ENTITY button.removeallcookies.label "Usuń wszystkie ciasteczka">
 <!ENTITY button.removeallcookies.accesskey "w">
 
+<!ENTITY search.emptytext "Szukaj w ciasteczkach">
+<!ENTITY focusSearch.key "f">
+<!ENTITY windowClose.key "w">
+<!ENTITY selectAll.key "a">
+
 <!ENTITY props.name.label "Nazwa:">
 <!ENTITY props.value.label "Zawartość:">
 <!ENTITY props.domain.label "Host:">
