@@ -193,6 +193,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Serĉi en paĝosignoj kaj historio">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Serĉi en paĝosignoj kaj historio">
+<!ENTITY urlbar.bookmark.emptyText "Serĉi en paĝosignoj">
+<!ENTITY urlbar.history.emptyText "Serĉi en historio">
+<!ENTITY urlbar.none.emptyText "Tajpu retadreson">
 <!ENTITY urlbar.accesskey "d">
 <!-- 
   Comment duplicated from browser-sets.inc:
