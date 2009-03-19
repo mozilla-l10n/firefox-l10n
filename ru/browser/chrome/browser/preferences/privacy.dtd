@@ -36,7 +36,7 @@
 <!ENTITY historyHeader.pre.accesskey "F">
 <!ENTITY historyHeader.remember.label "Запоминать историю работы">
 <!ENTITY historyHeader.dontremember.label "Никогда не запоминать историю работы">
-<!ENTITY historyHeader.custom.label "Использовать свои настройки для истории работы">
+<!ENTITY historyHeader.custom.label "Использовать другие настройки для истории работы">
 <!ENTITY historyHeader.post.label "">
 <!ENTITY rememberDescription.label "&brandShortName; будет помнить историю посещений, загрузок, поиска, данные форм, и хранить куки, оставленные посещёнными вами веб-сайтами.">
 <!ENTITY rememberActions.pre.label "Возможно, вы захотите ">
