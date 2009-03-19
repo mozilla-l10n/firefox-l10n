@@ -82,12 +82,12 @@
 
 <!-- Encryption -->
 <!ENTITY pref.calendar.advanced.encryption.protocols.label "ප්‍රොටෝකෝල">
-<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "SSL 3.0 භාවිත කරන්න">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "SSL 3.0 භාවිතා කරන්න">
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
-<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "TLS 1.0 භාවිත කරන්න">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "TLS 1.0 භාවිතා කරන්න">
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
 <!ENTITY pref.calendar.advanced.encryption.certificates.label "සහතික">
-<!ENTITY pref.calendar.advanced.encryption.certSelection.description "සේවාදායකය මාගේ පුද්ගලික සහති ඉල්ලූ විට:">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "සේවාදායකය මාගේ පුද්ගලික සහතික ඉල්ලූ විට:">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto "ස්වයංක්‍රීයවම එකක් තෝරන්න">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "සෑම විටම මාගෙන් විමසන්න">
