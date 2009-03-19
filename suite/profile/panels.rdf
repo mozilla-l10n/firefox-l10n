@@ -17,6 +17,7 @@
         <RDF:li resource="urn:sidebar:panel:bookmarks"/>
         <RDF:li resource="urn:sidebar:panel:history"/>
         <RDF:li resource="urn:sidebar:panel:addressbook"/>
+        <RDF:li resource="urn:sidebar:3rdparty-panel:http://www.seamonkey.at/sidebar/sidebar.xul"/>
       </RDF:Seq>
     </NC:panel-list>
     <NC:version>0.1</NC:version>
@@ -36,5 +37,9 @@
   <RDF:Description about="urn:sidebar:panel:addressbook">
     <NC:title>&sidebar.client-addressbook.label;</NC:title>
     <NC:content>chrome://messenger/content/addressbook/addressbook-panel.xul</NC:content>
+  </RDF:Description>
+  <RDF:Description about="urn:sidebar:3rdparty-panel:http://www.seamonkey.at/sidebar/sidebar.xul">
+    <NC:title>SeaMonkey deutsch</NC:title>
+    <NC:content>http://www.seamonkey.at/sidebar/sidebar.xul</NC:content>
   </RDF:Description>
 </RDF:RDF>
