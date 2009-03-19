@@ -36,6 +36,8 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey "D">
 <!ENTITY itemActiveLogins.label "Aktivaj akreditadoj">
 <!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemSiteSettings.label "Agordoj de specifaj retejoj">
+<!ENTITY itemSiteSettings.accesskey "A">
 
 <!ENTITY window.width "30em">
 <!ENTITY column.width "14em">
