@@ -21,7 +21,7 @@
   <li>Compruebe si el archivo ha sido movido, renombrado o eliminado.</li>
 </ul>
 ">
-<!ENTITY generic.title "¡Uuuuy!">
+<!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; no puede cargar esta página por alguna razón.</p>
 ">
