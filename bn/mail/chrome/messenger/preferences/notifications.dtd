@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title "নতুন মেইল সতর্কবার্তা পরিবর্তন করুন">
+<!ENTITY window.width "30em">
+
+<!ENTITY alertCustomization.intro "সতর্কবার্তা বিজ্ঞপ্তিতে কোন ফিল্ডগুলো দেখানো হবে তা নির্বাচন করুন:">
+<!ENTITY previewText.label "বার্তা পূর্বদর্শন টেক্সট (M)">
+<!ENTITY previewText.accesskey "M">
+<!ENTITY subject.label "বিষয় (S)">
+<!ENTITY subject.accesskey "S">
+<!ENTITY sender.label "প্রেরক (e)">
+<!ENTITY sender.accesskey "e">
+

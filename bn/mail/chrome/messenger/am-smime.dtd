@@ -1,0 +1,28 @@
+<!ENTITY securityTitle.label "নিরাপত্তা">
+<!ENTITY securityTab.label "নিরাপত্তা">
+<!ENTITY securityHeading.label "স্বাক্ষরিত বা এনক্রিপ্ট করা বার্তা পাঠানো এবং গ্রহনের সময় ডিজিটাল স্বাক্ষরিত সার্টিফিকেট এবং একটি এনক্রিপ্ট করা সার্টিফিকেট - দুটোই পাঠানো উচিত।">
+<!ENTITY encryptionGroupTitle.label "এনক্রিপশন">
+<!ENTITY encryptionChoiceLabel.label "বার্তা প্রেরনের সময় ডিফল্ট এনক্রিপশন সেটিং:">
+<!ENTITY neverEncrypt.label "কখনও না (এনক্রিপশন ব্যবহার করা হবে না) (N)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "প্রয়োজন (সকল প্রাপকে সার্টিফিকেট না থাকলে বার্তা প্রেরন করা যাবে না) (u)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert.message "আপনার কাছে প্রেরিত &amp; ডিক্রিপ্ট বার্তা এনক্রিপ্ট করতে এই সার্টিফিকেটটি ব্যবহার করা হবে:">
+<!ENTITY digitalSign.certificate.button "নির্বাচন করুন...">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "পরিষ্কার করুন">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY encryption.certificate.button "নির্বাচন করুন...">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate_clear.button "পরিষ্কার করুন">
+<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY signingGroupTitle.label "ডিজিটাল স্বাক্ষরকরন">
+<!ENTITY signMessage.label "বার্তা ডিজিটালভাবে স্বাক্ষর করা হবে (ডিফল্ট) (D)">
+<!ENTITY signMessage.accesskey "D">
+<!ENTITY signingCert.message "আপনার প্রেরন করা বার্তা ডিজিটালভাবে স্বাক্ষর করতে এই সার্টিফিকেট ব্যবহার করা হবে:">
+
+<!ENTITY certificates.label "সার্টিফিকেট">
+<!ENTITY manageCerts.label "সার্টিফিকেট প্রদর্শন করা হবে (V)">
+<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageDevices.label "নিরাপত্তা যন্ত্র (y)">
+<!ENTITY manageDevices.accesskey "y">

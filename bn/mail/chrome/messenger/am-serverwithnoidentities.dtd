@@ -1,0 +1,11 @@
+<!ENTITY accountTitle.label "অ্যাকাউন্ট সেটিং">
+<!ENTITY accountSettingsDesc.label "নিম্নোক্তটি একটি বিশেষ অ্যাকাউন্ট। এটির সাথে কোনো পরিচয়পত্র নেই।">
+<!ENTITY accountName.label "অ্যাকাউন্টের নাম (N):">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "বার্তা স্টোরেজ">
+<!ENTITY emptyTrashOnExit.label "প্রস্থানের সময় আবর্জনার বাক্স খালি করা হবে (x)">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY localPath.label "স্থানীয় ডিরেক্টরি:">
+<!ENTITY localFolderPicker.label "স্থানীয় ডিরেক্টরি নির্বাচন করুন">
+<!ENTITY browseFolder.label "ব্রাউজ... (B)">
+<!ENTITY browseFolder.accesskey "B">

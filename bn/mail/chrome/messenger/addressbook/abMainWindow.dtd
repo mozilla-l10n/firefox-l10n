@@ -1,0 +1,206 @@
+<!ENTITY addressbookWindow.title "ঠিকানার বই">
+<!-- File Menu -->
+
+<!ENTITY fileMenu.label "ফাইল (F)">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "নতুন (N)">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newContact.label "ঠিকানার বই এবং পরিচিত… (C)">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.key "N">
+<!ENTITY newListCmd.label "মেইলের তালিকা… (L)">
+<!ENTITY newListCmd.accesskey "L">
+<!ENTITY newAddressBookCmd.label "ঠিকানার বই… (B)">
+<!ENTITY newAddressBookCmd.accesskey "B">
+<!ENTITY newLDAPDirectoryCmd.label "LDAP ডিরেক্টরি… (D)">
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newMessageCmd.label "বার্তা (M)">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label "ম্যাক অপারেটিং সিস্টেম X ঠিকানার বই ব্যবহার করা হবে (O)">
+<!ENTITY osxAddressBook.accesskey "O">
+<!ENTITY closeCmd.label "বন্ধ করুন (C)">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY printSetupCmd.label "পৃষ্ঠা সেটআপ ... (u)">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewContactCmd.label "পরিচিত পৃষ্ঠা প্রিন্টের পূর্বদর্শন (v)">
+<!ENTITY printPreviewContactCmd.accesskey "v">
+<!ENTITY printPreviewAddressBook.label "ঠিকানার বই প্রিন্টের পূর্বদর্শন (B)">
+<!ENTITY printPreviewAddressBook.accesskey "B">
+<!ENTITY printContactCmd.label "পরিচিত প্রিন্ট করুন… (P)">
+<!ENTITY printContactCmd.accesskey "P">
+<!ENTITY printContactCmd.key "P">
+<!ENTITY printAddressBook.label "ঠিকানার বই প্রিন্ট করুন... (A)">
+<!ENTITY printAddressBook.accesskey "A">
+<!-- Edit Menu -->
+
+<!ENTITY editMenu.label "সম্পাদনা করুন (E)">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "পূর্বাবস্থায় ফিরিয়ে আনুন (U)">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "পুনরায় করুন (R)">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "কাট (t)">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "কপি (C)">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "পেস্ট (P)">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "মুছে ফেলুন (D)">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteAbCmd.label "ঠিকানার বই মুছে ফেলুন">
+<!ENTITY deleteContactCmd.label "পরিচিত মুছে ফেলুন">
+<!ENTITY deleteContactsCmd.label "পরিচিতসমূহ মুছে ফেলুন">
+<!ENTITY deleteListCmd.label "তালিকা মুছে ফেলুন">
+<!ENTITY deleteListsCmd.label "তালিকাসমূহ মুছে ফেলুন">
+<!ENTITY deleteItemsCmd.label "আইটেম মুছে ফেলুন">
+<!ENTITY selectAllCmd.label "সকল নির্বাচন করুন (A)">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY searchAddressesCmd.key "f">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY swapFirstNameLastNameCmd.label "প্রথম/শেষ নাম অদল-বদল করুন (w)">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "w">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label "বৈশিষ্ট্যসমূহ... (i)">
+<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.key "i">
+<!-- View Menu -->
+
+<!ENTITY viewMenu.label "প্রদর্শন (V)">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenu.label "টুলবার (T)">
+<!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY showAbToolbarCmd.label "ঠিকানার বই টুলবার (o)">
+<!ENTITY showAbToolbarCmd.accesskey "o">
+<!ENTITY showTaskbarCmd.label "স্ট্যাটাস বার (S)">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "স্বনির্বচন… (C)">
+<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY showContactPane.label "পরিচিত সারসংক্ষেপ পেন (C)">
+<!ENTITY showContactPane.accesskey "C">
+<!ENTITY menu_ShowNameAs.label "নাম এরুপে প্রদর্শন করা হবে (N)">
+<!ENTITY menu_ShowNameAs.accesskey "n">
+<!ENTITY firstLastCmd.label "প্রথম, শেষ (F)">
+<!ENTITY firstLastCmd.accesskey "f">
+<!ENTITY lastFirstCmd.label "শেষ, প্রথম (L)">
+<!ENTITY lastFirstCmd.accesskey "l">
+<!ENTITY displayNameCmd.label "প্রদর্শন নাম (D)">
+<!ENTITY displayNameCmd.accesskey "d">
+<!ENTITY sortMenu.label "সাজানো হবে (S)">
+<!ENTITY sortMenu.accesskey "S">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "টুল (T)">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "মেইল &amp; নিউজগ্রুপ (M)">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "১">
+<!ENTITY searchAddressesCmd.label "ঠিকানা অনুসন্ধান করুন… (S)">
+<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY importCmd.label "ইম্পোর্ট… (I)">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "এক্সপোর্ট… (E)">
+<!ENTITY exportCmd.accesskey "E">
+<!ENTITY preferencesCmd.label "বিকল্পসমূহ... (O)">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "পছন্দসমূহ... (n)">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+<!-- Address Book Toolbar and Context Menus -->  
+
+<!ENTITY newContactButton.label "নতুন পরিচিত (C)">
+<!ENTITY newContactButton.accesskey "C">
+<!ENTITY newlistButton.label "নতুন তালিকা (L)">
+<!ENTITY newlistButton.accesskey "L">
+<!ENTITY editButton2.label "বৈশিষ্ট্যসমূহ (P)">
+<!ENTITY editButton2.accesskey "P">
+<!ENTITY newmsgButton.label "লিখুন (W)">
+<!ENTITY newmsgButton.accesskey "W">
+<!ENTITY newIM.label "তাৎক্ষনিক বার্তা (I)">
+<!ENTITY newIM.accesskey "I">
+<!ENTITY deleteButton2.label "মুছে ফেলুন (D)">
+<!ENTITY deleteButton2.accesskey "D">
+<!-- Address Book Toolbar Tooltips -->
+
+<!ENTITY newContactButton.tooltip "একটি নতুন ঠিকানার বই পরিচিত তৈরি করুন">
+<!ENTITY newlistButton.tooltip "একটি নতুন তালিকা তৈরি করুন">
+<!ENTITY editButton2.tooltip "নির্বাচিত আইটেম সম্পাদনা করুন">
+<!ENTITY newmsgButton.tooltip "একটি মেইল বার্তা প্রেরন করুন">
+<!ENTITY newIM.tooltip "একটি তাৎক্ষনিক বার্তা প্রেরন করুন">
+<!ENTITY deleteButton2.tooltip "নির্বাচিত আইটেম মুছে দিন">
+<!-- Dir Tree header -->
+
+<!ENTITY dirTreeHeader.label "ঠিকানার বই">
+<!-- Search Bar -->
+
+<!ENTITY SearchNameOrEmail.label "নাম বা ইমেইল (N)">
+<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY advancedButton.tooltip "উন্নত ঠিকানা অনুসন্ধান">
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchItem.title "দ্রুত অনুসন্ধান">
+<!-- Results Pane -->
+
+<!ENTITY GeneratedName.label "নাম (N)">
+<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY PrimaryEmail.label "ইমেইল (E)">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY ScreenName.label "প্রদর্শনের নাম (S)">
+<!ENTITY ScreenName.accesskey "S">
+<!ENTITY Company.label "অর্গানাইজেশন (z)">
+<!ENTITY Company.accesskey "z">
+<!ENTITY NickName.label "ডাকনাম (i)">
+<!ENTITY NickName.accesskey "i">
+<!ENTITY SecondEmail.label "অতিরিক্ত ইমেইল (l)">
+<!ENTITY SecondEmail.accesskey "l">
+<!ENTITY Department.label "বিভাগ (r)">
+<!ENTITY Department.accesskey "r">
+<!ENTITY JobTitle.label "পদবি (T)">
+<!ENTITY JobTitle.accesskey "T">
+<!ENTITY CellularNumber.label "মোবাইল (M)">
+<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY PagerNumber.label "পেজার (P)">
+<!ENTITY PagerNumber.accesskey "P">
+<!ENTITY FaxNumber.label "ফ্যাক্স (F)">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY HomePhone.label "বাসার ফোন (H)">
+<!ENTITY HomePhone.accesskey "H">
+<!ENTITY WorkPhone.label "অফিসের ফোন (W)">
+<!ENTITY WorkPhone.accesskey "W">
+<!ENTITY sortAscending.label "ছোট থেকে বড় (A)">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "বড় থেকে ছোট (D)">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY _PhoneticName.label "প্রতিক নাম (o)">
+<!ENTITY _PhoneticName.accesskey "o">
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+
+<!ENTITY contact.heading "পরিচিত">
+<!ENTITY home.heading "বাসা">
+<!ENTITY other.heading "অন্যান্য">
+<!ENTITY phone.heading "ফোন">
+<!ENTITY work.heading "অফিস">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading "বিবরন">
+<!ENTITY addresses.heading "ঠিকানাসমূহ">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label "মানচিত্র নিন">
+<!ENTITY mapIt.tooltip "ওয়েব থেকে এই ঠিকানার একটি মানচিত্র প্রদর্শন করা হবে">
+<!-- Status Bar -->
+
+<!ENTITY statusText.label "">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY windowMenu.label "উইন্ডো">
+<!ENTITY minimizeWindow.label "মিনিমাইজ">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "সবকিছু সামনে আনা হবে">
+<!ENTITY zoomWindow.label "বড় করে প্রদর্শন">

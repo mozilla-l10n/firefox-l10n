@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "বার্তা প্রদর্শন সেটআপ">
+<!ENTITY mailViewHeading.label "বার্তা প্রদর্শন নাম (e):">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "যখন এই প্রদর্শন নির্বাচিত করা হবে, শুধুমাত্র এখানের বার্তাগুলো দেখানো হবে:">
+

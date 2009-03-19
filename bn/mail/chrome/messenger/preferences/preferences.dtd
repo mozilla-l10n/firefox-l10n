@@ -1,0 +1,13 @@
+
+<!ENTITY prefWindow.titleWin "বিকল্প">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; পছন্দসমূহ">
+<!ENTITY prefWindow.styleWindows "প্রস্থ: 44em; সর্বনিম্ন-উচ্চতা: 38.5em;">
+<!ENTITY prefWindow.styleMac "প্রস্থ: 47em;">
+<!ENTITY prefWindow.styleGNOME "প্রস্থ: 42em; সর্বনিম্ন-উচ্চতা: 38em;">
+
+<!ENTITY paneGeneral.title "সাধারন">
+<!ENTITY paneDisplay.title "প্রদর্শন">
+<!ENTITY paneComposition.title "কম্পোজিশন">
+<!ENTITY paneAttachments.title "সংযুক্তি">
+<!ENTITY paneSecurity.title "Security">
+<!ENTITY paneAdvanced.title "উন্নত">

@@ -1,0 +1,110 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "ছবি বৈশিষ্ট্য">
+
+<!ENTITY pixelsPopup.value "পিক্সেল">
+<!-- These are in the Location tab panel -->
+
+<!ENTITY locationEditField.label "ছবির অবস্থান (L):">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "ছবির ফাইলের নাম বা অবস্থান টাইপ করুন">
+<!ENTITY title.label "টুলটিপ (T):">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "html 'শিরোনাম' বৈশিষ্ট্য যেটি একটি টুলটিপ হিসেবে দেখানো হয়">
+<!ENTITY altText.label "বিকল্প টেক্সট (A):">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "ছবির জায়গায় দেখানোর জন্য টেক্সট টাইপ করুন">
+<!ENTITY noAltText.label "বিকল্প টেক্সট ব্যবহার করা হবে না (D)">
+<!ENTITY noAltText.accessKey "D">
+
+<!ENTITY previewBox.label "ছবির পূর্বদর্শন">
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
+<!ENTITY actualSize.label "আসল আকার:">
+<!ENTITY actualSizeRadio.label "আসল আকার (A)">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "ছবির আসল সাইজে ফিরিয়ে নিন">
+<!ENTITY customSizeRadio.label "স্বনির্বাচিত আকার (S)">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "পৃষ্ঠার প্রদর্শন অনুযায়ী ছবির আকার পরিবর্তন করুন">
+<!ENTITY heightEditField.label "উচ্চতা (g):">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY widthEditField.label "প্রস্থ (W):">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY constrainCheckbox.label "বাধা (C)">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "ছবির অ্যাসপেক্ট অনুপাত বজায় রাখা হবে">
+<!-- These controls are in the Image Map box of the expanded area -->
+
+<!ENTITY imagemapBox.label "ছবি ম্যাপ">
+<!ENTITY removeImageMapButton.label "মুছে ফেলুন (R)">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY editImageMapButton.label "সম্পাদনা করুন...">
+<!ENTITY editImageMapButton.tooltip "এই ছবির জন্য একটি ক্লিকযোগ্য হটস্পট তৈরি করুন">
+<!-- These are the options for image alignment -->
+
+<!ENTITY alignment.label "টেক্সট ছবির সাথে সাজান">
+<!ENTITY bottomPopup.value "নিচে">
+<!ENTITY topPopup.value "ওপরে">
+<!ENTITY centerPopup.value "মাঝ বরাবর">
+<!ENTITY wrapRightPopup.value "ডানে মোড়ান">
+<!ENTITY wrapLeftPopup.value "বামে মোড়ান">
+<!-- These controls are in the Spacing Box -->
+
+<!ENTITY spacingBox.label "জায়গা">
+<!ENTITY leftRightEditField.label "বাম এবং ডান (L):">
+<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY topBottomEditField.label "ওপর এবং নিচ (T):">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "পূর্ণ সীমানা (B):">
+<!ENTITY borderEditField.accessKey "B">
+<!-- These controls are in the Link Box -->
+
+<!ENTITY showImageLinkBorder.label "লিঙ্ক দেয়া ছবির চারদিকে সীমানা দেখানো হবে (b)">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!-- These tabs are currently used in the image input dialog -->
+
+<!ENTITY imageInputTab.label "ফর্ম">
+<!ENTITY imageLocationTab.label "অবস্থান">
+<!ENTITY imageDimensionsTab.label "মাত্রা">
+<!ENTITY imageAppearanceTab.label "চেহারা">
+<!ENTITY imageLinkTab.label "লিঙ্ক">

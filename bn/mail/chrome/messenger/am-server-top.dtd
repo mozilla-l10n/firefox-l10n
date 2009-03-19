@@ -1,0 +1,78 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "নিরাপত্তা সেটিং">
+<!ENTITY serverSettings.label "সার্ভার সেটিং">
+<!ENTITY serverType.label "সার্ভারের ধরন:">
+<!ENTITY serverName.label "সার্ভারের নাম (S):">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "ব্যবহারকারীর নাম (N):">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "পোর্ট (P):">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "ডিফল্ট:">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "প্রতি এত মিনিট পর পর নতুন বার্তার জন্য পরিক্ষা করা হবে (y):">
+<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffEnd.label "মিনিট">
+<!ENTITY connectionSecurity.label "সংযোগ নিরাপত্তা (u):">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "কিছু নয়">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, যদি উপস্থিত থাকে">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY useSecAuth.label "নিরাপদ অথেনটিকেশন ব্যবহার করা হবে (i)">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "বার্তা সার্ভারেই রাখা হবে (g)">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "শুধুমাত্র হেডার আনা হবে (F)">
+<!ENTITY headersOnly.accesskey "f">
+<!ENTITY deleteByAgeFromServer.label "সর্বোচ্চ এত দিনের জন্য (o):">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "দিন">
+<!ENTITY deleteOnServer2.label "আমি এগুলো মুছে না ফেলা পর্যন্ত (d)">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "নতুন বার্তা স্বয়ংক্রিয়ভাবে ডাউনলোড করা হবে (m)">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY username.label "আপনার লগিন নাম">
+<!ENTITY deleteMessagePrefix.label "যখন আমি কোনো বার্তা মুছে ফেলি:">
+<!ENTITY modelMoveToTrash.label "সেটিকে এই ফোল্ডারে সরানো হবে (o):">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "এটিকে মুছে ফেলা হয়েছে হিসেবে চিহ্নিত করা হবে (k)">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "সাথে সাথে মুছে ফেলা হবে (d)">
+<!ENTITY modelDeleteImmediately.accesskey "d">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "প্রস্থানের সময় ইনবক্স পরিষ্কার করা হবে (&quot;Expunge&quot;)">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "প্রস্থানের সময় আবর্জনার বাক্স খালি করা হবে (x)">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "স্টার্টআপের সময় নতুন বার্তার জন্য পরীক্ষা করা হবে (C)">
+<!ENTITY loginAtStartup.accesskey "C">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
+<!ENTITY maxMessagesStart.label "এর চেয়ে অধিক বার্তা ডাউনলোড করার পূর্বে আমাকে জিজ্ঞেস করা হবে (m):">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "টি বার্তা">
+<!ENTITY alwaysAuthenticate.label "এই সার্ভারে সংযোগ করার সময় সর্বদা অথেনটিকেশনের জন্য অনুরোধ করা হবে (w)">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath.label "newsrc ফাইল:">
+<!ENTITY localPath.label "স্থানীয় ডিরেক্টরি:">
+<!ENTITY abbreviate.label "মেইল ফোল্ডার পেনে নিউজগ্রুপ নাম দেখানো হবে এইরুপে:">
+<!ENTITY abbreviateOn.label "পুরো নাম (উদাহরনস্বরুপ, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "নাম সংক্ষিপ্তকরন (উদাহরনস্বরুপ, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "উন্নত... (v)">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY serverDefaultCharset.label "ডিফল্ট ক্যারেক্টার এনকোডিং:">
+<!ENTITY localFolderPicker.label "স্থানীয় ডিরেক্টরি নির্বাচন করুন">
+<!ENTITY browseFolder.label "ব্রাউজ... (B)">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "newsrc ফাইল নির্বাচন করুন">
+<!ENTITY browseNewsrc.label "ব্রাউজ... (e)">
+<!ENTITY browseNewsrc.accesskey "e">

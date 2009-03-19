@@ -1,0 +1,25 @@
+<!-- extracted from content/pref-composer.xul -->
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+<!ENTITY pref.composer.title "Composer">
+<!ENTITY recentFiles.title "সাম্প্রতিক পৃষ্ঠার মেনু">
+<!ENTITY documentsInMenu.label "তালিকাকৃত পৃষ্ঠার সর্বোচ্চ সংখ্যা (n):">
+<!ENTITY documentsInMenu.accesskey "n">
+<!ENTITY savingFiles.title "যখন পৃষ্ঠা সংরক্ষন বা প্রকাশ করা হবে">
+<!ENTITY preserveExisting.label "আসল উৎস ফরম্যাট সংরক্ষন করা হবে (P)">
+<!ENTITY preserveExisting.accesskey "P">
+<!ENTITY preserveExisting.tooltip "লাইন ব্রেক এবং পৃষ্ঠার আসল ফরম্যাটিং সংরক্ষন করা হবে">
+<!ENTITY saveAssociatedFiles.label "পৃষ্ঠা সংরক্ষনের সময় ছবি এবং অন্যান্য সংশ্লিষ্ট ফাইল সংরক্ষন করা হবে (S)">
+<!ENTITY saveAssociatedFiles.accesskey "S">
+<!ENTITY showPublishDialog.label "পৃষ্ঠা প্রকাশের সময় প্রকাশের ডায়লগ সর্বদা দেখানো হবে (A)">
+<!ENTITY showPublishDialog.accesskey "A">
+<!ENTITY composerEditing.label "সম্পাদনা করা হচ্ছে">
+<!ENTITY maintainStructure.label "যখন ঘর প্রবেশ বা মুছে দেয়া হবে তখন সারনী লেআউট বজায় রাখা হবে (M)">
+<!ENTITY maintainStructure.tooltip "ঘর প্রবেশ বা মুছে ফেলার পরে স্বয়ংক্রিয়ভাবে ঘর যোগ করার মাধ্যমে সারনীর আয়তক্ষেত্রিক আকৃতি সংরক্ষন করা হবে">
+<!ENTITY maintainStructure.accesskey "M">
+<!ENTITY useCSS.label "HTML উপাদান এবং বৈশিষ্ট্যের পরিবর্তে CSS স্টাইল ব্যবহার করা হবে (U)">
+<!ENTITY useCSS.accesskey "U">
+<!ENTITY crInPCreatesNewP.label "অনুচ্ছেদে ফেরত পাঠানোর ফলাফল সর্বদা একটি নতুন অনুচ্ছেদ তৈরি করবে (R)">
+<!ENTITY crInPCreatesNewP.accesskey "R">

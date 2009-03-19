@@ -1,0 +1,48 @@
+<!ENTITY itemFormatting.label "ফরম্যাটিং">
+<!ENTITY itemTags.label "ট্যাগ">
+
+<!ENTITY style.label "স্টাইল (y):">
+<!ENTITY style.accesskey "y">
+<!ENTITY regularStyle.label "সাধারন">
+<!ENTITY bold.label "মোটা অক্ষর">
+<!ENTITY italic.label "ইটালিক">
+<!ENTITY boldItalic.label "মোটা অক্ষর ইটালিক">
+<!ENTITY size.label "আকার (S):">
+<!ENTITY size.accesskey "s">
+<!ENTITY regularSize.label "সাধারন">
+<!ENTITY bigger.label "বড়">
+<!ENTITY smaller.label "ছোট">
+<!ENTITY color.label "রং (C):">
+<!ENTITY color.accesskey "c">
+<!ENTITY displayWidth.label "সরল টেক্সট বার্তা">
+<!ENTITY plainText.label "নিম্নের ফন্ট ব্যবহার করা হবে:">
+<!ENTITY displayText.label "যখন উদ্ধৃত সরল টেক্সট বার্তা প্রদর্শন করা হবে:">
+<!ENTITY fixedWidth.label "নির্দিষ্ট প্রস্থের ফন্ট (x)">
+<!ENTITY fixedWidth.accesskey "x">
+<!ENTITY variableWidth.label "পরিবর্তনশীল প্রস্থের ফন্ট (V)">
+<!ENTITY variableWidth.accesskey "V">
+<!ENTITY colors.label "রং">
+<!ENTITY overrideColors.label "বার্তা প্রদর্শনে সময় নিম্নের রং ব্যবহার করা হবে:">
+<!ENTITY textColor.label "টেক্সটের রং (T):">
+<!ENTITY textColor.accesskey "T">
+<!ENTITY backgroundColor.label "পিছনের রং (B):">
+<!ENTITY backgroundColor.accesskey "b">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
+<!ENTITY convertEmoticons.label "অভিব্যক্তি গ্রফিক্স হিসেবে দেখানো হবে (D)">
+<!ENTITY convertEmoticons.accesskey "D">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label "আপনার বার্তা শ্রেনীবিভাগ এবং অগ্রাধিকার ভিত্তিতে ভাগ করার জন্য ট্যাগ ব্যবহার করা যাবে।">
+<!ENTITY addTagButton.label "যোগ করুন (A)">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "সম্পাদনা করুন (E)">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "মুছে ফেলুন (l)">
+<!ENTITY removeTagButton.accesskey "L">
+<!-- Fonts -->
+
+<!ENTITY fontAndEncodingsDescription.label "&brandShortName; দ্বারা ব্যবহৃতব্য ফন্ট এবং এনকোডিং কনফিগার করুন">
+<!ENTITY fontsAndEncodingsCaption.label "&amp; ফন্ট এনকোডিং">
+<!ENTITY fontOptions.accesskey "F">
+<!ENTITY fontOptions.label "ফন্ট... (F)">

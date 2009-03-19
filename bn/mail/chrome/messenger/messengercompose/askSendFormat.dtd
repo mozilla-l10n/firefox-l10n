@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML মেইল প্রশ্ন">
+
+<!ENTITY recipient.label "কিছু প্রাপককে HTML মেইল পাওয়ার জন্য তালিকাকৃত করা হয়নি।">
+
+<!ENTITY question.label "আপনি কি বার্তাটি সরল টেক্সটে পরিনত করতে চান নাকি HTML হিসেবেই প্রেরন করতে চান?">
+
+<!ENTITY plainTextAndHtml.label "সরল টেক্সট এবং HTML এ প্রেরন করা হবে (a)">
+<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.label "শুধুমাত্র সরল টেক্সট এ প্রেরন করা হবে (P)">
+<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY htmlOnly.label "শুধুমাত্র HTML এ প্রেরন করা হবে (H)">
+<!ENTITY htmlOnly.accesskey "H">
+
+<!ENTITY send.label "প্রেরন করুন (S)">
+<!ENTITY send.accesskey "S">

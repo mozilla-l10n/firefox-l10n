@@ -1,0 +1,20 @@
+<!ENTITY accountTitle.label "Account Settings">
+
+<!ENTITY biffStart.label "এই সময় পরপর নতুন নিবন্ধ পরীক্ষা করা হবে (k):">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "মিনিট">
+
+<!ENTITY loginAtStartup.label "স্টার্টআপের সময় নতুন নিবন্ধ পরীক্ষা করা হবে (C)">
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "ডিফল্টভাবে, ওয়েবপেজ লোড করার পরিবর্তে নিবন্ধের সারসংক্ষেপ দেখানো হবে">
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "সাবস্ক্রিপশন ম্যানেজ করুন... (M)">
+<!ENTITY manageSubscriptions.accesskey "M">
+<!-- entities from rss.rdf -->
+
+<!ENTITY feeds.accountName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardShortName "Feeds">
+<!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardLongName.accesskey "F">

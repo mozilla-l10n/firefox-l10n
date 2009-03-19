@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label "ঠিকানার বই (k):">
+<!ENTITY addressbookPicker.accesskey "k">
+<!ENTITY searchInput.label "অনুসন্ধান করুন (o):">
+<!ENTITY searchInput.accesskey "o">
+<!ENTITY SearchNameOrEmail.label "নাম বা ইমেইল">
+
+<!ENTITY deleteAddrBookCard.label "মুছে ফেলুন">
+<!ENTITY addrBookCardProperties.label "বৈশিষ্ট্য">
+<!ENTITY addtoToFieldMenu.label "প্রাপক ফিল্ডে যোগ করুন">
+<!ENTITY addtoCcFieldMenu.label "অবিকল অনুলিপি ফিল্ডে যোগ করুন">
+<!ENTITY addtoBccFieldMenu.label "অন্ধ অবিকল অনুলিপি ফিল্ডে যোগ করুন">
+
+<!ENTITY toButton.label "প্রাপকে যোগ করুন (A):">
+<!ENTITY toButton.accesskey "A">
+<!ENTITY ccButton.label "অবিকল অনুলিপিতে যোগ করুন (d):">
+<!ENTITY ccButton.accesskey "d">
+<!ENTITY bccButton.label "অন্ধ অবিকল অনুলিপিতে যোগ করুন (B):">
+<!ENTITY bccButton.accesskey "B">

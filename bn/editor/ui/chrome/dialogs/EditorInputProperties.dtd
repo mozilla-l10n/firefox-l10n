@@ -1,0 +1,82 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Input Tag Properties Dialog.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY windowTitle.label "ফর্ম ফিল্ড বৈশিষ্ট্য">
+<!ENTITY windowTitleImage.label "ফর্ম ছবির বৈশিষ্ট্য ">
+
+<!ENTITY InputType.label "ফিল্ডের ধরন (T)">
+<!ENTITY InputType.accesskey "T">
+<!ENTITY text.value "টেক্সট">
+<!ENTITY password.value "পাসওয়ার্ড">
+<!ENTITY checkbox.value "চেকবক্স">
+<!ENTITY radio.value "রেডিও বাটন">
+<!ENTITY submit.value "বাটন সাবমিট করুন">
+<!ENTITY reset.value "বাটন রিসেট করুন">
+<!ENTITY file.value "ফাইল">
+<!ENTITY hidden.value "লুক্কায়িত">
+<!ENTITY image.value "ছবি">
+<!ENTITY button.value "বাটন">
+
+<!ENTITY InputSettings.label "ফিল্ড সেটিং">
+<!ENTITY InputName.label "ফিল্ডের নাম (N):">
+<!ENTITY InputName.accesskey "N">
+<!ENTITY GroupName.label "গ্রুপের নাম (N):">
+<!ENTITY GroupName.accesskey "N">
+<!ENTITY InputValue.label "ফিল্ডের মান (V):">
+<!ENTITY InputValue.accesskey "V">
+<!ENTITY InitialValue.label "প্রাথমিক মান (V):">
+<!ENTITY InitialValue.accesskey "V">
+<!ENTITY InputChecked.label "প্রাথমিকভাবে টিক দেয়া হয়েছে (C)">
+<!ENTITY InputChecked.accesskey "C">
+<!ENTITY InputSelected.label "প্রাথমিকভাবে নির্বাচিত করা হয়েছে (S)">
+<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputReadOnly.label "শুধুমাত্র পাঠযোগ্য (R)">
+<!ENTITY InputReadOnly.accesskey "R">
+<!ENTITY InputDisabled.label "নিষ্ক্রিয় (D)">
+<!ENTITY InputDisabled.accesskey "D">
+<!ENTITY tabIndex.label "ট্যাব সূচী (I):">
+<!ENTITY tabIndex.accesskey "I">
+<!ENTITY TextSize.label "ফিল্ডের আকার (F):">
+<!ENTITY TextSize.accesskey "F">
+<!ENTITY TextLength.label "সর্বোচ্চ দৈর্ঘ্য (L):">
+<!ENTITY TextLength.accesskey "L">
+<!ENTITY AccessKey.label "এক্সেস কী (K):">
+<!ENTITY AccessKey.accesskey "K">
+<!ENTITY Accept.label "গ্রহনের ধরন (A):">
+<!ENTITY Accept.accesskey "A">
+
+<!ENTITY ImageProperties.label "ছবির বৈশিষ্ট্য... (e)">
+<!ENTITY ImageProperties.accesskey "E">

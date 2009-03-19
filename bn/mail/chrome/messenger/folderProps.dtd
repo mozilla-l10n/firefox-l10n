@@ -1,0 +1,99 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label "বৈশিষ্ট্য">
+
+<!ENTITY generalInfo.label "সাধারন তথ্য">
+<!ENTITY folderCharsetTab.label "ডিফল্ট ক্যারেক্টার এনকোডিং (E):">
+<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetOverride.label "ফোল্ডারের সকল বার্তায় ডিফল্ট কার্যকর করুন (পৃথক বার্তা ক্যারেক্টার এনকোডিং সেটিং এবং স্বয়ংক্রিয়-সনাক্তকরন উপেক্ষা করা হবে) (A)">
+<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderRebuildSummaryFile.label "সূচী নতুন করে তৈরি করুন (R)">
+<!ENTITY folderRebuildSummaryFile.accesskey "R">
+<!ENTITY folderRebuildSummaryFileTip.label "সারসংক্ষেপ ফাইল নতুন করে তৈরি করুন">
+     
+<!ENTITY retention.label "ধানর নীতিমালা">
+<!ENTITY retentionUseDefault.label "সার্ভার ডিফল্ট ব্যবহার করুন (d)">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY daysOld.label "দিন পুরনো">
+<!ENTITY message.label "বার্তা">
+<!ENTITY retentionCleanup.label "ডিস্কের জায়গা ফিরে পেতে, পুরনো বার্তা স্থায়ীভাবে মুছে দেয়া যেতে পারে।">
+<!ENTITY retentionCleanupImap.label "ডিস্কের জায়গা ফিরে পেতে, পুরনো বার্তা স্থায়ীভাবে মুছে দেয়া যেতে পারে, স্থানীয় কপি এবং দূরবর্তী সার্ভারে রাখা আসল কপি-দুটোই।">
+<!ENTITY retentionCleanupPop.label "ডিস্কের জায়গা ফিরে পেতে, পুরনো বার্তা স্থায়ীভাবে মুছে দেয়া যেতে পারে, দূরবর্তী সার্ভারে রাখা আসল কপিসহ।">
+<!ENTITY retentionDeleteMsg.label "এর অধিক বার্তা মুছে ফেলা হবে (m)">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "কোনো বার্তা মোছা হবে না (a)">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "সর্বশেষ ব্যতীত সব মুছে ফেলা হবে (l)">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "পড়া বার্তা সর্বদা মুছে ফেলা হবে (r)">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionApplyToFlagged.label "তারকাকৃত বার্তা সর্বদা রাখা হবে (e)">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY folderOfflineTab.label "অফলাইন">
+<!ENTITY folderCheckForNewMessages.label "পরীক্ষা করা হবে যে এই ফোল্ডারে নতুন বার্তা আছে কিনা (C)">
+<!ENTITY folderCheckForNewMessages.accesskey "C">
+
+<!ENTITY offlineFolder.check.label "অফলাইনে ব্যবহারের জন্য এই ফোল্ডার নির্বাচন করুন (S)">
+<!ENTITY offlineFolder.check.accesskey "S">
+<!ENTITY offlineFolder.button.label "এখন ডাউনলোড করা হবে (D)">
+<!ENTITY offlineFolder.button.accesskey "D">
+
+<!ENTITY selectofflineNewsgroup.check.label "অফলাইনে ব্যবহারের জন্য এই নিউজগ্রুপ নির্বাচন করুন (o)">
+<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY offlineNewsgroup.button.label "এখন ডাউনলোড করা হবে (D)">
+<!ENTITY offlineNewsgroup.button.accesskey "D">
+
+<!ENTITY folderProps.name.label "নাম (N):">
+<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.location.label "অবস্থান (L):">
+<!ENTITY folderProps.location.accesskey "L">
+
+<!ENTITY folderSharingTab.label "অংশীদারী">
+<!ENTITY privileges.button.label "সুবিধা... (P)">
+<!ENTITY privileges.button.accesskey "P">
+<!ENTITY permissionsDesc.label "আপনার নিম্নবর্তী অনুমতি আছে:">
+<!ENTITY folderType.label "ফোল্ডারের ধরন:">
+
+<!ENTITY folderQuotaTab.label "কোটা">
+<!ENTITY folderQuotaRoot.label "কোটা রুট:">
+<!ENTITY folderQuotaUsage.label "ব্যবহার:">
+<!ENTITY folderQuotaStatus.label "স্ট্যাটাস:">

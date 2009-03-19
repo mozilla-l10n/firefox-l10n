@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "&brandFullName; পরিচিতি">
+<!ENTITY credits.label "স্বীকৃতি (C)">
+<!ENTITY credits.accesskey "C">
+<!ENTITY aboutLink.label "&lt; &brandFullName; পরিচিতি (A)">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "সংস্করণ">
+<!ENTITY copyrightText "&#169;১৯৯৮-২০০৮ অংশগ্রহণকারী। সর্বস্বত্ত্ব সংরক্ষিত। মজিলা থান্ডারবার্ড এবং 
+থান্ডারবার্ড লোগো মজিলা ফাউন্ডেশনের ট্রেডমার্ক। সর্বস্বত্ব সংরক্ষিত।">
+<!ENTITY cmdCloseMac.commandKey "w">

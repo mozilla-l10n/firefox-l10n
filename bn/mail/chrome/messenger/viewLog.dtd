@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "ফিল্টার লগ">
+<!ENTITY viewLogInfo.text "ফিল্টার লগ সেই ফিল্টারগুলো লগ করে যেগুলো এই অ্যাকাউন্টের জন্য চালানো হয়। নিম্নের চেকবক্স ব্যবহার করে লগিং সক্রিয় করুন।">
+<!ENTITY clearLog.label "লগ পরিষ্কার করুন (C)">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY enableLog.label "ফিল্টার লগ সক্রিয় করুন (E)">
+<!ENTITY enableLog.accesskey "E">
+<!ENTITY closeLog.label "বন্ধ করুন (o)">
+<!ENTITY closeLog.accesskey "o">

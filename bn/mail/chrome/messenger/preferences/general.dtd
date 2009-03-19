@@ -1,0 +1,35 @@
+<!ENTITY messengerStartPage.label "&brandShortName; শুরুর পৃষ্ঠা">
+<!ENTITY enableStartPage.label "যখন &brandShortName; চালু হবে, শুরুর পৃষ্ঠাটি বার্তা অঞ্চলে প্রদর্শন করা হবে (W)">
+<!ENTITY enableStartPage.accesskey "W">
+<!ENTITY location.label "অবস্থান:">
+<!ENTITY location1.accesskey "o">
+<!ENTITY useDefault.label "ডিফল্ট পুনরায় স্থাপন করা হবে (R)">
+<!ENTITY useDefault.accesskey "R">
+
+<!ENTITY bounceSystemDockIcon.label "ডক আইকন অ্যানিমেট করা হবে (i)">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+
+<!ENTITY newMessagesArrive.label "যখন নতুন বার্তা আসবে:">
+<!ENTITY playSound.label "একটি শব্দ চালানো হবে">
+<!ENTITY playSound1.accesskey "d">
+<!ENTITY showAnimatedAlert.label "একটি সতর্কবার্তা দেখানো হবে (S)">
+<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY customizeMailAlert.label "স্বনির্বাচন... (C)">
+<!ENTITY customizeMailAlert.accesskey "C">
+
+<!ENTITY play.label "চালানো হবে (P)">
+<!ENTITY play.accesskey "P">
+<!ENTITY systemsound.label "নতুন মেইলের জন্য ডিফল্ট সিস্টেম সাউন্ড (y)">
+<!ENTITY systemsoundMac.label "সিস্টেম সতর্কবার্তা সাউন্ড (y)">
+<!ENTITY systemsoundMac.accesskey "y">
+<!ENTITY systemsound.accesskey "y">
+<!ENTITY customsound.label "নিম্নলিখিত সাউন্ড ফাইল ব্যবহার করা হবে (U)">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "ব্রাউজ... (B)">
+<!ENTITY browse.accesskey "B">
+
+<!ENTITY addonsMgr.label "অতিরিক্ত-সামগ্রী">
+<!ENTITY manageAddonsDescWin.label "আপনার অতিরিক্ত-সামগ্রীর জন্য বিকল্প পরিবর্তন করুন">
+<!ENTITY manageAddonsDescUnix2.label "আপনার অতিরিক্ত-সামগ্রীর জন্য পছন্দ পরিবর্তন করুন">
+<!ENTITY manageAddons.label "অতিরিক্ত-সামগ্রী ম্যানেজ করুন... (M)">
+<!ENTITY manageAddons.accesskey "M">

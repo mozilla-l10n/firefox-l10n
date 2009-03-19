@@ -1,0 +1,21 @@
+<!ENTITY changeAction.title "ক্রিয়া পরিবর্তন করুন">
+<!ENTITY window.width "36em">
+
+<!ENTITY whenDownloading.label "যখন এধরনের ফাইল ডাউনলোড করা হবে:">
+
+<!ENTITY openDefault.label "এই ডিফল্ট অ্যাপ্লিকেশন দ্বারা এগুলো খোলা হবে (O):">
+<!ENTITY openDefault.accesskey "O">
+<!ENTITY openApplication.label "এই অ্যাপ্লিকেশন দ্বারা এগুলো খোলা হবে (e):">
+<!ENTITY openApplication.accesskey "e">
+<!ENTITY changeApp.label "ব্রাউজ... (B)">
+<!ENTITY changeApp.accesskey "B">
+<!ENTITY saveToDisk.label "এগুলো আমার কম্পিউটারে সংরক্ষন করা হবে (S)">
+<!ENTITY saveToDisk.accesskey "S">
+<!ENTITY saveToDefaultFolder.label "ডিফল্ট ডাউনলোড ফোল্ডারে (d)">
+<!ENTITY saveToDefaultFolder.accesskey "d">
+<!ENTITY saveToThisFolder.label "এই ফোল্ডারে (h):">
+<!ENTITY saveToThisFolder.accesskey "h">
+<!ENTITY chooseFolder.label "ব্রাউজ... (w)">
+<!ENTITY chooseFolder.accesskey "w">
+<!ENTITY saveToAskMe.label "আমাকে জিজ্ঞেস করা হবে কোথায় সংরক্ষন করা হবে (a)">
+<!ENTITY saveToAskMe.accesskey "a">

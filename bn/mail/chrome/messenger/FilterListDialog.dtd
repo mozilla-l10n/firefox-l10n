@@ -1,0 +1,29 @@
+<!ENTITY window.title "বার্তা ফিল্টার">
+<!ENTITY nameColumn.label "ফিল্টারের নাম">
+<!ENTITY activeColumn.label "সক্রিয় করা হয়েছে">
+<!ENTITY newButton.label "নতুন... (N)">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "সম্পাদনা করুন... (E)">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "মুছে ফেলুন (t)">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "ওপরে সরান (U)">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "নিচে সরান (D)">
+<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY filterHeader.label "সক্রিয় ফিল্টারগুলো নিম্নের ক্রম অনুযায়ী স্বয়ংক্রিয়ভাবে চালানো হয়।">
+<!ENTITY filtersForPrefix.label "এর জন্য ফিল্টার (F):">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "ফিল্টার লগ (L)">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "এখন চালানো হবে (R)">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "থামুন (S)">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "নির্বাচিত ফিল্টার(গুলো) চালানো হবে এখানে (c):">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "এই ফোল্ডার নির্বাচন করুন">
+<!ENTITY choosethisnewsserver.label "এই নিউজ সার্ভার নির্বাচন করুন">
+<!ENTITY helpButton.label "সহায়তা (H)">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W">
