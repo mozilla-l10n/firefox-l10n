@@ -131,18 +131,10 @@
 
 <!ENTITY search.label "Meklēt:">
 <!ENTITY search.accesskey "M">
-<!ENTITY search.collection.label "Tikai šajā kolekcijā">
-<!ENTITY search.collection.accesskey "C">
-<!ENTITY search.allBookmarks.label "Visās grāmatzīmēs">
-<!ENTITY search.allBookmarks.accesskey "ā">
 <!ENTITY search.scopeFolder.label "Izvēlētajā mapē">
 <!ENTITY search.scopeFolder.accesskey "M">
-<!ENTITY search.scopeAll.label "Visās grāmatzīmēs">
-<!ENTITY search.scopeAll.accesskey "ā">
-<!ENTITY search.scopeMenu.label "Grāmatzīmju izvēlnē">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "Grāmatzīmju rīkjoslā">
-<!ENTITY search.scopeToolbar.accesskey "T">
+<!ENTITY search.scopeBookmarks.label               "Grāmatzīmes">
+<!ENTITY search.scopeBookmarks.accesskey           "G">
 <!ENTITY search.scopeDownloads.label "Lejupielādēs">
 <!ENTITY search.scopeDownloads.accesskey "D">
 <!ENTITY search.scopeHistory.label "Vēsturē">
