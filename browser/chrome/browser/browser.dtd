@@ -192,7 +192,11 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Rechercher dans les marque-pages et l'historique">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Rechercher dans les marque-pages et l'historique">
+<!ENTITY urlbar.bookmark.emptyText    "Rechercher dans les marque-pages">
+<!ENTITY urlbar.history.emptyText     "Rechercher dans l'historique">
+<!ENTITY urlbar.none.emptyText        "Saisir une adresse Web">
+<!ENTITY urlbar.accesskey             "W">
 
 <!-- 
   Comment duplicated from browser-sets.inc:

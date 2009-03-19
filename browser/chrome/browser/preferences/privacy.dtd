@@ -53,3 +53,54 @@
 
 <!ENTITY  clearDataSettings.label        "Paramètres…">
 <!ENTITY  clearDataSettings.accesskey    "P">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "conservera l'historique">
+<!ENTITY  historyHeader.dontremember.label "ne conservera jamais l'historique">
+<!ENTITY  historyHeader.custom.label       "utilisera les paramètres personnalisés pour l'historique">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; conservera les données de navigation, les téléchargements, les formulaires et l'historique de recherche, et les cookies des sites visités.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Vous voulez peut-être ">
+<!ENTITY  rememberActions.clearHistory.label  "effacer votre historique récent">
+<!ENTITY  rememberActions.middle.label        ", ou ">
+<!ENTITY  rememberActions.removeCookies.label "supprimer des cookies spécifiques">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; utilisera les mêmes paramètres que pour la navigation privée et ne conservera aucun historique de votre navigation.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Vous voulez peut-être ">
+<!ENTITY  dontrememberActions.clearHistory.label "effacer la totalité de l'historique actuel">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Démarrer automatiquement &brandShortName; en session de navigation privée">
+<!ENTITY  privateBrowsingAutoStart.accesskey "D">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Conserver l'historique de navigation pendant au moins">
+<!ENTITY  rememberHistory.pre.accesskey  "C">
+<!ENTITY  rememberHistory.post.label     "jours">
+
+<!ENTITY  rememberDownloads.label        "Conserver l'historique des téléchargements">
+<!ENTITY  rememberDownloads.accesskey    "o">
+
+<!ENTITY  rememberSearchForm.label       "Conserver l'historique des recherches et des formulaires">
+<!ENTITY  rememberSearchForm.accesskey   "n">
+
+<!ENTITY  clearOnClose.label             "Vider l'historique lors de la fermeture de &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "V">
+
+<!ENTITY  clearOnCloseSettings.label     "Paramètres…">
+<!ENTITY  clearOnCloseSettings.accesskey "m">
