@@ -65,6 +65,12 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "résultats">
 <!ENTITY offlineText.label                 "Vous pouvez créer une copie locale de cet annuaire pour pouvoir l'utiliser une fois déconnecté.">
+<!ENTITY saslMechanism.label               "Méthode d'identification : ">
+<!ENTITY saslMechanism.accesskey           "M">
+<!ENTITY saslOff.label                     "Simple">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
 
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
