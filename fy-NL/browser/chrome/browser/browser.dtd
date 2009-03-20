@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privee sneupe)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nij ljepblêd">
 <!ENTITY tabCmd.accesskey "L">
@@ -86,7 +88,6 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ophâlde mei it laden fan dizze side">
 <!ENTITY goEndCap.tooltip             "Typ in lokaasje yn it adresfjild, klik dernei Gean">
-<!ENTITY feedButton.tooltip           "Abonnearje op dizze side…">
 <!ENTITY printButton.label            "Ofdrukke">
 <!ENTITY printButton.tooltip          "Dizze side ôfdrukke">
 
@@ -102,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "Jo blêdwizers sjen litte">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "i">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Skiednis">
@@ -185,6 +190,8 @@
 <!ENTITY historyMenu.label "Skiednis">
 <!ENTITY historyMenu.accesskey "S">
 <!ENTITY historyUndoMenu.label "Koartlyn sluten ljepblêden">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Koartlyn sluten skermen">
 
 <!ENTITY historyHomeCmd.label "Begjinside">
 <!ENTITY showAllHistoryCmd2.label "Toan alle skiednis">
@@ -192,7 +199,11 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Blêdwizers en skiednis trochsykje">
-<!ENTITY urlbar.accesskey             "D">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Blêdwizers en skiednis trochsykje">
+<!ENTITY urlbar.bookmark.emptyText    "Blêdwizers trochsykje">
+<!ENTITY urlbar.history.emptyText     "Skiednis trochsykje">
+<!ENTITY urlbar.none.emptyText        "Typ in webadres">
+<!ENTITY urlbar.accesskey             "d">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
