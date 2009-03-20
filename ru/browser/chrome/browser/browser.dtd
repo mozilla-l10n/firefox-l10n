@@ -221,7 +221,7 @@
 <!ENTITY saveLinkCmd.label "Сохранить объект как…">
 <!ENTITY saveLinkCmd.accesskey "С">
 <!ENTITY sendLinkCmd.label "Отправить ссылку…">
-<!ENTITY sendLinkCmd.accesskey "ы">
+<!ENTITY sendLinkCmd.accesskey "т">
 <!ENTITY saveImageCmd.label "Сохранить изображение как…">
 <!ENTITY saveImageCmd.accesskey "х">
 <!ENTITY saveVideoCmd.label "Сохранить видео как…">
