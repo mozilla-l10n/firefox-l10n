@@ -24,8 +24,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "A">
 <!ENTITY  event.menu.file.new.message.label               "Pesan">
 <!ENTITY  event.menu.file.new.message.accesskey           "P">
-<!ENTITY  event.menu.file.new.address.label               "Kartu Nama">
-<!ENTITY  event.menu.file.new.address.accesskey           "K">
+<!ENTITY  event.menu.file.new.contact.label               "Kontak Daftar Alamat">
+<!ENTITY  event.menu.file.new.contact.accesskey           "K">
 <!ENTITY  event.menu.file.close.label                     "Tutup">
 <!ENTITY  event.menu.file.close.accesskey                 "T">
 <!ENTITY  event.menu.file.save.label                      "Simpan">
