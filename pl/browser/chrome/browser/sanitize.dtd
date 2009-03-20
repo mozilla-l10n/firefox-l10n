@@ -1,40 +1,60 @@
-<!ENTITY sanitizePrefs.title          "Czyszczenie danych prywatnych">
+<!ENTITY sanitizePrefs2.title         "Ustawienia czyszczenia historii">
 <!ENTITY sanitizeDialog2.title        "Wyczyść historię przeglądania">
 
 <!ENTITY sanitizeItems.label          "Wyczyść następujące elementy:">
 <!ENTITY clearDataSettings2.label     "Podczas zamykania programu &brandShortName; powinny zostać usunięte następujące elementy:">
 
-<!ENTITY clearDuration.label          "Usuń ">
-<!ENTITY clearDuration.accesskey      "U">
-<!ENTITY clearDuration.lastHour       "z ostatniej godziny">
-<!ENTITY clearDuration.last2Hours     "z ostatnich 2 godzin">
-<!ENTITY clearDuration.last4Hours     "z ostatnich 4 godzin">
-<!ENTITY clearDuration.today          "historię z dzisiaj">
-<!ENTITY clearDuration.everything     "całą historię">
-<!-- Localization note (clearDuration.suffix) - trailing entity for languages that require it. -->
-<!ENTITY clearDuration.suffix         "">
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+<!ENTITY clearTimeDuration.label          "Okres do wyczyszczenia: ">
+<!ENTITY clearTimeDuration.accesskey      "O">
+<!ENTITY clearTimeDuration.lastHour       "ostatnia godzina">
+<!ENTITY clearTimeDuration.last2Hours     "ostatnie dwie godziny">
+<!ENTITY clearTimeDuration.last4Hours     "ostatnie cztery godziny">
+<!ENTITY clearTimeDuration.today          "dzisiaj">
+<!ENTITY clearTimeDuration.everything     "wszystko">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.dateColumn     "Data wizyty">
+<!ENTITY clearTimeDuration.nameColumn     "Nazwa">
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "Szczegóły">
+<!ENTITY detailsProgressiveDisclosure.accesskey "S">
 
 <!ENTITY historySection.label         "Historia">
 <!ENTITY dataSection.label            "Dane">
 
-<!ENTITY itemVisitedPages.label       "historię przeglądanych stron">
-<!ENTITY itemVisitedPages.accesskey   "h">
-<!ENTITY itemFormSearchEntries.label  "dane formularzy i historię wyszukiwania">
-<!ENTITY itemFormSearchEntries.accesskey "f">
-<!ENTITY itemPasswords.label          "zapamiętane hasła">
-<!ENTITY itemPasswords.accesskey      "z">     
-<!ENTITY itemCookies.label            "ciasteczka">
-<!ENTITY itemCookies.accesskey        "c">  
-<!ENTITY itemWebCache.label           "pamięć podręczną"><!-- fuzzy, było "Web Cache" -->
-<!ENTITY itemWebCache.accesskey       "p">
-<!ENTITY itemOfflineApps.label        "dane witryn trybu offline">
-<!ENTITY itemOfflineApps.accesskey    "d">
-<!ENTITY itemDownloadList.label       "listę pobieranych plików">
-<!ENTITY itemDownloadList.accesskey   "b">
-<!ENTITY itemActiveLogins.label       "aktywne zalogowania">
-<!ENTITY itemActiveLogins.accesskey   "a">
-<!ENTITY itemSiteSettings.label       "ustawienia dotyczące konkretnych witryn">
-<!ENTITY itemSiteSettings.accesskey   "u">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+<!ENTITY itemHistoryAndDownloads.label     "Historia przeglądanych stron i pobranych plików">
+<!ENTITY itemHistoryAndDownloads.accesskey "H">
+<!ENTITY itemBrowsingHistory.label         "Historia przeglądanych stron">
+<!ENTITY itemBrowsingHistory.accesskey     "H">
+<!ENTITY itemFormSearchHistory.label       "Dane formularzy i historię wyszukiwania">
+<!ENTITY itemFormSearchHistory.accesskey   "f">
+<!ENTITY itemPasswords.label               "Zapamiętane hasła">
+<!ENTITY itemPasswords.accesskey           "Z">
+<!ENTITY itemCookies.label                 "Ciasteczka">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Pamięć podręczna">
+<!ENTITY itemCache.accesskey               "P">
+<!ENTITY itemOfflineApps.label             "Dane witryn trybu offline">
+<!ENTITY itemOfflineApps.accesskey         "D">
+<!ENTITY itemDownloadHistory.label         "Historię pobranych plików">
+<!ENTITY itemDownloadHistory.accesskey     "b">
+<!ENTITY itemActiveLogins.label            "Aktywne zalogowania">
+<!ENTITY itemActiveLogins.accesskey        "A">
+<!ENTITY itemSitePreferences.label         "Ustawienia witryn">
+<!ENTITY itemSitePreferences.accesskey     "U">
 
-<!ENTITY window.width                 "30em">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Tej operacji nie można cofnąć.">
+
+<!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "14em">
