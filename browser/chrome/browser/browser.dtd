@@ -154,11 +154,16 @@
 <!ENTITY historyMenu.label "Cronologia">
 <!ENTITY historyMenu.accesskey "C">
 <!ENTITY historyUndoMenu.label "Schede chiuse di recente">
+<!ENTITY historyUndoWindowMenu.label "Finestre chiuse di recente">
 <!ENTITY historyHomeCmd.label "Pagina iniziale">
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "V">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Cerca segnalibri e cronologia">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Cerca nei segnalibri e nella cronologia">
+<!ENTITY urlbar.bookmark.emptyText "Cerca nei segnalibri">
+<!ENTITY urlbar.history.emptyText "Cerca nella cronologia">
+<!ENTITY urlbar.none.emptyText "Digitare un indirizzo web">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
