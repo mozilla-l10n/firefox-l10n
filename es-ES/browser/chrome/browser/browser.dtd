@@ -154,11 +154,16 @@
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
+<!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Buscar en marcadores e historial">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Buscar en marcadores e historial">
+<!ENTITY urlbar.bookmark.emptyText "Buscar marcadores">
+<!ENTITY urlbar.history.emptyText "Historial de búsquedas">
+<!ENTITY urlbar.none.emptyText "Escriba una dirección web">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
