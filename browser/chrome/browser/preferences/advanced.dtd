@@ -27,8 +27,8 @@
 <!ENTITY useCacheBefore.label "Usa fino a">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB di spazio per la cache">
-<!ENTITY clearCacheNow.label "Svuota adesso">
-<!ENTITY clearCacheNow.accesskey "S">
+<!ENTITY clearCacheNow.label "Cancella adesso">
+<!ENTITY clearCacheNow.accesskey "C">
 <!ENTITY updateTab.label "Aggiornamenti">
 <!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
