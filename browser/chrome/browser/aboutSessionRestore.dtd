@@ -1,13 +1,18 @@
 <!ENTITY restorepage.tabtitle       "Restauration de session">
-<!ENTITY restorepage.pagetitle      "Voulez-vous restaurer votre session ?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Votre dernière session de &brandShortName; s'est terminée de manière inattendue. Nous sommes sincèrement désolés pour ce désagrément. Vous pouvez restaurer les onglets et fenêtres de votre session précédente, ou démarrer une nouvelle session si ceux-ci ne sont plus nécessaires.">
-<!ENTITY restorepage.remedies       "Si &brandShortName; se ferme à maintes reprises :">
-<!ENTITY restorepage.dueToChrome    "Essayez de désactiver les éventuelles extensions ajoutées récemment depuis la fenêtre des modules complémentaires.">
-<!ENTITY restorepage.dueToContent   "Essayez de restaurer votre session sans la ou les pages que vous soupçonnez d'être à l'origine du problème :">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Hum, c'est embarrassant.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; rencontre des difficultés pour restaurer vos fenêtres et onglets. Ceci est habituellement provoqué par une page Web ouverte récemment.">
+<!ENTITY restorepage.tryThis        "Vous pouvez essayer de :">
+<!ENTITY restorepage.restoreSome    "supprimer un ou plusieurs onglets que vous suspectez être à l'origine du problème">
+<!ENTITY restorepage.startNew       "démarrer une toute nouvelle session de navigation">
 
-<!ENTITY restorepage.restoreButton  "Restaurer la session précédente">
+<!ENTITY restorepage.tryagainButton "Restaurer">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Démarrer une nouvelle session">
+<!ENTITY restorepage.cancel.access  "s">
+
+<!ENTITY restorepage.restoreHeader  "Restaurer">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "Démarrer une nouvelle session">
 <!ENTITY restorepage.cancel.access  "s">
