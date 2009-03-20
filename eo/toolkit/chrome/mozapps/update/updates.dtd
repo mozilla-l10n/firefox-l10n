@@ -7,10 +7,9 @@
 <!ENTITY updateCheck.label "Serĉado de novaj versioj de &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "Neniu ĝisdatigo trovita">
-<!ENTITY noupdatesautoenabled.intro "There are no updates available. &brandShortName; will check 
-periodically for updates.">
-<!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable 
-&brandShortName;'s automatic update checking.">
+<!ENTITY noupdatesautoenabled.intro "Ne estas ĝisdatigoj disponeblaj. &brandShortName; kontrolos periode ĉu ekzistas ĝisdatigoj.">
+<!ENTITY noupdatesautodisabled.intro "Ne estas ĝisdatigoj disponeblaj. Bonvolu kontroli poste aŭ aktivigu la aŭtomatan kontroladon de ĝisdatigoj de 
+&brandShortName;.">
 
 <!ENTITY manualUpdate.title "Ne eblas ĝisdatigi">
 <!ENTITY manualUpdate.desc "Rekomendata sekureca kaj stabileca ĝisdatigo disponeblas, sed vi ne havas la sistemajn rajtojn por instali ĝin. Bonvolu kontakti vian sisteman administranton aŭ klopodu denove ekde konto kiu rajtas instali programojn en tiu ĉi komputilo.">

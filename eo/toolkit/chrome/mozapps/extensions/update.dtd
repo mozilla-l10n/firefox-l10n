@@ -29,14 +29,14 @@ estas nuntempe malaktiva. Vi povas ŝanĝi tiun agordon malsupre.">
 <!ENTITY noupdates.intro.desc "&brandShortName; ne povis trovi ĝisdatigojn por viaj 
 nekongruaj kromprogramoj.">
 <!ENTITY noupdates.error.desc "Okazis kelkaj problemoj dum la klopodo trovi ĝisdatigojn.">
-<!ENTITY noupdates.checkEnabled.desc "&brandShortName; regule kontrolos kaj informos al vi 
+<!ENTITY noupdates.checkEnabled.desc "&brandShortName; regule kontrolos kaj informos vin 
 ĉu ekzistas kongruaj ĝisdatigoj por tiuj ĉi kromprogramoj.">
 
 <!ENTITY finished.wizard.title "Kongruaj kromprogramoj instalitaj">
 <!ENTITY finished.top.label "&brandShortName; instalis la ĝisdatigojn por viaj kromprogramoj.">
 <!ENTITY finished.checkDisabled.desc "&brandShortName; povas regule kontroli kaj informi al vi 
 kiam ĝisdatigoj por kromprogramoj estas trovitaj.">
-<!ENTITY finished.checkEnabled.desc "&brandShortName; regule kontrolos kaj informos al vi 
+<!ENTITY finished.checkEnabled.desc "&brandShortName; regule kontrolos kaj informos vin 
  
 kiam ĝisdatigoj por kromprogramoj estos trovitaj.">
 
