@@ -136,19 +136,11 @@
 
 <!ENTITY search.label   "Przeszukaj:">
 <!ENTITY search.accesskey   "s">
-<!ENTITY search.collection.label   "Tylko bieżącą kolekcję">
-<!ENTITY search.collection.accesskey   "k">
-<!ENTITY search.allBookmarks.label   "Wszystkie zakładki">
-<!ENTITY search.allBookmarks.accesskey   "w">
 <!ENTITY search.scopeFolder.label                  "Wybrany folder">
-<!ENTITY search.scopeFolder.accesskey              "f">
-<!ENTITY search.scopeAll.label                     "Wszystkie zakładki">
-<!ENTITY search.scopeAll.accesskey                 "z">
-<!ENTITY search.scopeMenu.label                    "Menu zakładek">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "Pasek zakładek">
-<!ENTITY search.scopeToolbar.accesskey             "e">
-<!ENTITY search.scopeDownloads.label               "Pobierane pliki">
+<!ENTITY search.scopeFolder.accesskey              "W">
+<!ENTITY search.scopeBookmarks.label               "Zakładki">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
+<!ENTITY search.scopeDownloads.label               "Pobrane pliki">
 <!ENTITY search.scopeDownloads.accesskey           "P">
 <!ENTITY search.scopeHistory.label                 "Historię">
 <!ENTITY search.scopeHistory.accesskey             "H">
