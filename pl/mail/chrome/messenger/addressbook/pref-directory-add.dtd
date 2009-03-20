@@ -69,6 +69,12 @@
 <!ENTITY return.accesskey            "w">
 <!ENTITY results.label               "wyników">
 <!ENTITY offlineText.label           "W celu korzystania z zawartości katalogu w trybie offline należy utworzyć jego lokalną kopię.">
+<!ENTITY saslMechanism.label         "Metoda uwierzytelniania: ">
+<!ENTITY saslMechanism.accesskey     "M">
+<!ENTITY saslOff.label               "Proste">
+<!ENTITY saslOff.accesskey           "e">
+<!ENTITY saslGSSAPI.label            "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey        "K">
 
 <!-- Localization note: this is here because the width of the dialog
        is determined by the width of the base DN box; and that is likely
