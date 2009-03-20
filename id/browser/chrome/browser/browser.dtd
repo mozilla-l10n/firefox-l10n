@@ -154,11 +154,16 @@
 <!ENTITY historyMenu.label "Riwayat">
 <!ENTITY historyMenu.accesskey "R">
 <!ENTITY historyUndoMenu.label "Tab yang Baru Saja Ditutup">
+<!ENTITY historyUndoWindowMenu.label "Jendela yang Baru Saja Ditutup">
 <!ENTITY historyHomeCmd.label "Beranda">
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Cari di Daftar Bookmark dan Riwayat">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Cari di Daftar Bookmark dan Riwayat">
+<!ENTITY urlbar.bookmark.emptyText "Cari di Daftar Bookmark">
+<!ENTITY urlbar.history.emptyText "Cari di Daftar Riwayat">
+<!ENTITY urlbar.none.emptyText "Ketikkan alamat Web">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">

@@ -117,18 +117,10 @@
 <!ENTITY col.lastmodified.label "Modifikasi Terakhir">
 <!ENTITY search.label "Cari di:">
 <!ENTITY search.accesskey "C">
-<!ENTITY search.collection.label "Kelompok Ini saja">
-<!ENTITY search.collection.accesskey "j">
-<!ENTITY search.allBookmarks.label "Semua Bookmark">
-<!ENTITY search.allBookmarks.accesskey "a">
 <!ENTITY search.scopeFolder.label "Folder Terpilih">
 <!ENTITY search.scopeFolder.accesskey "T">
-<!ENTITY search.scopeAll.label "Semua Bookmark">
-<!ENTITY search.scopeAll.accesskey "a">
-<!ENTITY search.scopeMenu.label "Menu Bookmark">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "Toolbar Bookmark">
-<!ENTITY search.scopeToolbar.accesskey "T">
+<!ENTITY search.scopeBookmarks.label "Bookmark">
+<!ENTITY search.scopeBookmarks.accesskey "k">
 <!ENTITY search.scopeDownloads.label "Unduhan">
 <!ENTITY search.scopeDownloads.accesskey "U">
 <!ENTITY search.scopeHistory.label "Riwayat">
