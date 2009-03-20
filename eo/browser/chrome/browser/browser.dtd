@@ -104,6 +104,11 @@
 <!ENTITY bookmarksSidebarCmd.accesskey "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Historio">
 <!ENTITY historyButton.tooltip "Montri antaŭ nelonge viditajn paĝojn">
