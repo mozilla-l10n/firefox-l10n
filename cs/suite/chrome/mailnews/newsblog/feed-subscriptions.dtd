@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Správce RSS kanálů">
+<!ENTITY feedSubscriptions.label "Správce kanálů">
 <!ENTITY subscriptionDesc.label "Odebrání nebo změna složky kanálu neovlivní již stažené články.">
 <!ENTITY feedTitle.label "Titulek:">
 <!ENTITY location.label "Adresa:">

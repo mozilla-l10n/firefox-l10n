@@ -44,8 +44,6 @@
 <!ENTITY compactFolders.accesskey "P">
 <!ENTITY emptyTrashCmd.label "Vysypat koš">
 <!ENTITY emptyTrashCmd.accesskey "y">
-<!ENTITY importCmd.label "Importovat…">
-<!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "Režim offline">
 <!ENTITY offlineMenu.accesskey "R">
 <!ENTITY offlineGoOfflineCmd.label "Pracovat offline">
@@ -98,9 +96,6 @@
 <!ENTITY folderPropsFolderCmd.label "Vlastnosti složky…">
 <!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusní skupiny…">
 <!ENTITY folderPropsCmd.accesskey "i">
-<!ENTITY accountManagerCmd.label "Nastavení účtu…">
-<!ENTITY accountManagerCmd.accesskey "t">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY undoDeleteMsgCmd.label "Zpět smazání zprávy">
 <!ENTITY redoDeleteMsgCmd.label "Znovu smazat zprávu">
 <!ENTITY undoMoveMsgCmd.label "Zpět přesunutí zprávy">
@@ -407,20 +402,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Nástroje">
 <!ENTITY tasksMenu.accesskey "N">
-<!ENTITY addons.label "Správce doplňků">
-<!ENTITY addons.accesskey "D">
-<!ENTITY activitymanager.label "Správce aktivit">
-<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "Pošta a Diskusní skupiny">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY addressBookCmd.label "Adresář">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY runJunkControls.label "Spustit kontrolu pošty ve složce">
-<!ENTITY runJunkControls.accesskey "S">
-<!ENTITY deleteJunk.label "Smazat nevyžádanou poštu ve složce">
-<!ENTITY deleteJunk.accesskey "m">
-<!ENTITY errorConsoleCmd.label "Chybová konzola">
-<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Správce doplňků">
+<!ENTITY addons.accesskey "D">
+<!ENTITY activitymanager.label "Správce aktivit">
+<!ENTITY activitymanager.accesskey "a">
 <!ENTITY filtersCmd.label "Třídící filtry zpráv…">
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Spustit filtry na složce">
@@ -429,6 +419,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Spustit filtry na zprávě">
 <!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY runJunkControls.label "Spustit kontrolu pošty ve složce">
+<!ENTITY runJunkControls.accesskey "S">
+<!ENTITY deleteJunk.label "Smazat nevyžádanou poštu ve složce">
+<!ENTITY deleteJunk.accesskey "m">
+<!ENTITY importCmd.label "Importovat…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY errorConsoleCmd.label "Chybová konzola">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY accountManagerCmd.label "Nastavení účtu…">
+<!ENTITY accountManagerCmd.accesskey "t">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "A">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Přijmout">
