@@ -1,4 +1,4 @@
-<!--null-->
+<!--null--> 
 <!ENTITY newDirectoryTitle.label "Properti Server Direktori">
 <!ENTITY directoryName.label "Nama: ">
 <!ENTITY directoryName.accesskey "N">
@@ -29,4 +29,10 @@
 <!ENTITY return.accesskey "J">
 <!ENTITY results.label "item">
 <!ENTITY offlineText.label "Anda dapat mengunduh salinan lokal direktori ini sehingga tersedia untuk digunakan saat dalam mode offline.">
+<!ENTITY saslMechanism.label "Metode log-masuk: ">
+<!ENTITY saslMechanism.accesskey "M">
+<!ENTITY saslOff.label "Sederhana">
+<!ENTITY saslOff.accesskey "s">
+<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey "K">
 <!ENTITY newDirectoryWidth "36em">
