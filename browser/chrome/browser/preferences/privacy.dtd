@@ -32,3 +32,32 @@
 <!ENTITY alwaysClear.accesskey "v">
 <!ENTITY clearDataSettings.label "Configuración…">
 <!ENTITY clearDataSettings.accesskey "f">
+<!ENTITY historyHeader.pre.label "&brandShortName; podrá:">
+<!ENTITY historyHeader.pre.accesskey "F">
+<!ENTITY historyHeader.remember.label "Recordar historial">
+<!ENTITY historyHeader.dontremember.label "Nunca recordar el historial">
+<!ENTITY historyHeader.custom.label "Usar una configuración personalizada para el historial">
+<!ENTITY historyHeader.post.label "">
+<!ENTITY rememberDescription.label "&brandShortName; recordará su historial de navegación, descargas, formularios e historial de búsquedas, y guardará también cookies de los sitios Web que visite.">
+<!ENTITY rememberActions.pre.label "También podría">
+<!ENTITY rememberActions.clearHistory.label "limpiar su historial reciente">
+<!ENTITY rememberActions.middle.label ", o">
+<!ENTITY rememberActions.removeCookies.label "eliminar cookies de forma individual">
+<!ENTITY rememberActions.post.label ".">
+<!ENTITY dontrememberDescription.label "&brandShortName; usará la misma configuración que en la navegación privada, y no recordará ningún dato de su historial mientras navega por la Web.">
+<!ENTITY dontrememberActions.pre.label "También le podría interesar">
+<!ENTITY dontrememberActions.clearHistory.label "limpiar todo el historial">
+<!ENTITY dontrememberActions.post.label ".">
+<!ENTITY privateBrowsingAutoStart.label "Empezar automáticamente &brandShortName; en una sesión de navegación privada">
+<!ENTITY privateBrowsingAutoStart.accesskey "E">
+<!ENTITY rememberHistory.pre.label "Recordar el historial de búsqueda al menos">
+<!ENTITY rememberHistory.pre.accesskey "R">
+<!ENTITY rememberHistory.post.label "días">
+<!ENTITY rememberDownload.label "Recordar historial de descargas">
+<!ENTITY rememberDownload.accesskey "R">
+<!ENTITY rememberSearchForm.label "Recorgar el historial de formularios y búsquedas">
+<!ENTITY rememberSearchForm.accesskey "R">
+<!ENTITY clearOnClose.label "Limpiar el historial cuando &brandShortName; se cierre">
+<!ENTITY clearOnClose.accesskey "w">
+<!ENTITY clearOnCloseSettings.label "Configuración…">
+<!ENTITY clearOnCloseSettings.accesskey "t">
