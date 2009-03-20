@@ -82,7 +82,6 @@
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
 <!ENTITY bookmarksSidebarCmd.accesskey "M">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Historial">
 <!ENTITY historyButton.tooltip "Mostrar páginas que ha visto recientemente">
