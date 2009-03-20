@@ -32,11 +32,11 @@
 <!ENTITY alwaysClear.accesskey "s">
 <!ENTITY clearDataSettings.label "Pengaturan…">
 <!ENTITY clearDataSettings.accesskey "p">
-<!ENTITY historyHeader.pre.label "&brandShortName; will:">
+<!ENTITY historyHeader.pre.label "&brandShortName;:">
 <!ENTITY historyHeader.pre.accesskey "F">
-<!ENTITY historyHeader.remember.label "Remember history">
-<!ENTITY historyHeader.dontremember.label "Never remember history">
-<!ENTITY historyHeader.custom.label "Use custom settings for history">
+<!ENTITY historyHeader.remember.label "akan mengingat data riwayat">
+<!ENTITY historyHeader.dontremember.label "tidak akan mengingat data riwayat">
+<!ENTITY historyHeader.custom.label "menggunakan pengaturan khusus untuk data riwayat">
 <!ENTITY historyHeader.post.label "">
 <!ENTITY rememberDescription.label "&brandShortName; akan mengingat riwayat penjelajahan, unduhan, isian form, dan pencarian serta menyimpan cookie dari situs Web yang pernah dikunjungi.">
 <!ENTITY rememberActions.pre.label "Anda juga dapat ">
@@ -44,11 +44,11 @@
 <!ENTITY rememberActions.middle.label " atau ">
 <!ENTITY rememberActions.removeCookies.label "menghapus cookie satu-persatu">
 <!ENTITY rememberActions.post.label ".">
-<!ENTITY dontrememberDescription.label "&brandShortName; akan menggunakan pengaturan seperti pengaturan mode penjelahan pribadi dan tidak akan menyimpan riwayat apapun ketika Anda menjelajah Web.">
+<!ENTITY dontrememberDescription.label "&brandShortName; akan menggunakan pengaturan seperti halnya pengaturan mode penjelahan pribadi dan tidak akan menyimpan riwayat apapun ketika Anda menjelajah Web.">
 <!ENTITY dontrememberActions.pre.label "Anda juga dapat ">
 <!ENTITY dontrememberActions.clearHistory.label "membersihkan riwayat terkini">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingAutoStart.label "Otomatis memulai sesi &brandShortName; dalam mode penjelajahan pribadi">
+<!ENTITY privateBrowsingAutoStart.label "Otomatis mulai sesi &brandShortName; dalam mode penjelajahan pribadi">
 <!ENTITY privateBrowsingAutoStart.accesskey "O">
 <!ENTITY rememberHistory.pre.label "Simpan riwayat penjelajahan untuk">
 <!ENTITY rememberHistory.pre.accesskey "r">
@@ -57,7 +57,7 @@
 <!ENTITY rememberDownload.accesskey "u">
 <!ENTITY rememberSearchForm.label "Simpan riwayat pencarian dan isian form">
 <!ENTITY rememberSearchForm.accesskey "f">
-<!ENTITY clearOnClose.label "Hapus riwayat saat &brandShortName; ditutuo">
+<!ENTITY clearOnClose.label "Hapus riwayat saat &brandShortName; ditutup">
 <!ENTITY clearOnClose.accesskey "H">
 <!ENTITY clearOnCloseSettings.label "Pengaturan…">
 <!ENTITY clearOnCloseSettings.accesskey "P">
