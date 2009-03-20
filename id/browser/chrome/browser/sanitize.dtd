@@ -1,35 +1,42 @@
-<!ENTITY sanitizePrefs.title "Bersihkan Data Pribadi">
+<!ENTITY sanitizePrefs2.title "Pengaturan untuk Menghapus Riwayat">
 <!ENTITY sanitizeDialog2.title "Bersihkan Riwayat Terakhir">
 <!ENTITY sanitizeItems.label "Hapus data berikut sekarang:">
 <!ENTITY clearDataSettings2.label "Saat keluar dari &brandShortName;, otomatis hapus semua:">
-<!ENTITY clearDuration.label "Hapus ">
-<!ENTITY clearDuration.accesskey "H">
-<!ENTITY clearDuration.lastHour "riwayat sejam terakhir">
-<!ENTITY clearDuration.last2Hours "riwayat 2 jam terakhir">
-<!ENTITY clearDuration.last4Hours "riwayat 4 jam terakhir">
-<!ENTITY clearDuration.today "riwayat hari ini">
-<!ENTITY clearDuration.everything "seluruh riwayat">
-<!ENTITY clearDuration.suffix "">
+<!ENTITY clearTimeDuration.label "Jangka waktu riwayat untuk dibersihkan: ">
+<!ENTITY clearTimeDuration.accesskey "J">
+<!ENTITY clearTimeDuration.lastHour "Sejam Sebelumnya">
+<!ENTITY clearTimeDuration.last2Hours "Dua Jam Sebelumnya">
+<!ENTITY clearTimeDuration.last4Hours "Empat Jam Sebelumnya">
+<!ENTITY clearTimeDuration.today "Hari Ini">
+<!ENTITY clearTimeDuration.everything "Semuanya">
+<!ENTITY clearTimeDuration.suffix "">
+<!ENTITY clearTimeDuration.dateColumn "Tanggal Kunjungan">
+<!ENTITY clearTimeDuration.nameColumn "Nama">
+<!ENTITY detailsProgressiveDisclosure.label "Detail">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 <!ENTITY historySection.label "Riwayat">
 <!ENTITY dataSection.label "Data">
-<!ENTITY itemVisitedPages.label "Halaman yang Telah Dikunjungi">
-<!ENTITY itemVisitedPages.accesskey "H">
-<!ENTITY itemFormSearchEntries.label "Form &amp; Kata Kunci Pencarian">
-<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemHistoryAndDownloads.label "Riwayat Penjelajahan dan Unduhan">
+<!ENTITY itemHistoryAndDownloads.accesskey "R">
+<!ENTITY itemBrowsingHistory.label "Riwayat Penjelajahan">
+<!ENTITY itemBrowsingHistory.accesskey "P">
+<!ENTITY itemFormSearchHistory.label "Riwayat Pencarian dan Isian Form">
+<!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label "Kata Sandi Tersimpan">
 <!ENTITY itemPasswords.accesskey "S">
 <!ENTITY itemCookies.label "Cookie">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemWebCache.label "Cache Web">
-<!ENTITY itemWebCache.accesskey "a">
+<!ENTITY itemCache.label "Cache">
+<!ENTITY itemCache.accesskey "A">
 <!ENTITY itemOfflineApps.label "Data Situs Web Offline">
-<!ENTITY itemOfflineApps.accesskey "W">
-<!ENTITY itemDownloadList.label "Riwayat Unduhan">
-<!ENTITY itemDownloadList.accesskey "U">
+<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemDownloadHistory.label "Riwayat Unduhan">
+<!ENTITY itemDownloadHistory.accesskey "U">
 <!ENTITY itemActiveLogins.label "Log-Masuk Aktif">
 <!ENTITY itemActiveLogins.accesskey "L">
-<!ENTITY itemSiteSettings.label "Pengaturan Situs Tertentu">
-<!ENTITY itemSiteSettings.accesskey "t">
-<!ENTITY window.width "36em">
+<!ENTITY itemSitePreferences.label "Pengaturan Situs Tertentu">
+<!ENTITY itemSitePreferences.accesskey "S">
+<!ENTITY sanitizeEverythingUndoWarning "Melakukan aksi ini menyebabkan data riwayat yang telah dihapus tidak dapat dikembalikan.">
+<!ENTITY dialog.width "36em">
 <!ENTITY column.width "18em">
 
