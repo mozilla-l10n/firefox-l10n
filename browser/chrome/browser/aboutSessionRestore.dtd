@@ -1,18 +1,19 @@
 <!ENTITY restorepage.tabtitle			"Werstel foargeande sesje">
-<!ENTITY restorepage.pagetitle			"Wolle jo jo sesje werstelle?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc			"Jo foarige &brandShortName; sesje is ûnferwacht ôfsluten. Us ferûntskuldigings foar it ûngemak. Jo kinne de ljepblêden en skermen werstelle fan jo foargeande sesje, of in nije sesje starte as jo tinke dat jo se net mear nedich hawwe.">
-<!ENTITY restorepage.remedies			"As &brandShortName; faker slút:">
-<!ENTITY restorepage.dueToChrome		"Besykje resint ynstallearre útwreidings út te skeakeljen yn de tafoegingsbehearder.">
-<!ENTITY restorepage.dueToContent		"Besykje jo sesje te werstellen sûnder websiden wêrfan jo tinke dat se problemen feroarsaakje:">
 
-<!ENTITY restorepage.restoreButton		"Westel foargeande sesje">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle			"Wel, dit is ûnnoflik.">
+<!ENTITY restorepage.problemDesc		"&brandShortName; hat moaite om jo skermen en ljepblêden te werstellen. Dit bart faak troch in resint iepene webside.">
+<!ENTITY restorepage.tryThis			"Jo kinne besykje om:">
+<!ENTITY restorepage.restoreSome		"Ien of mear ljepblêden te sluten dêr't jo fan tinke dat se it probleem feroarsaakje">
+<!ENTITY restorepage.startNew			"Te starten mei in folslein nije sneupsesje">
+
+<!ENTITY restorepage.tryagainButton		"Westel">
 <!ENTITY restorepage.restore.access		"W">
 <!ENTITY restorepage.cancelButton		"Start nije sesje">
 <!ENTITY restorepage.cancel.access		"S">
 
 <!ENTITY restorepage.restoreHeader		"Werstel">
 <!ENTITY restorepage.listHeader			"Skermen en ljepblêden">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel		"Skerm #&#37;S">

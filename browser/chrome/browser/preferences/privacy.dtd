@@ -105,6 +105,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ynstellings…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY  clearDataNow.label             "No opskjinje...">
-<!ENTITY  clearDataNow.accesskey         "N">
