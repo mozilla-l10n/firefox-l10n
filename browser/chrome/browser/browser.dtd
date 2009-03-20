@@ -154,6 +154,7 @@
 <!ENTITY historyMenu.label "Журнал">
 <!ENTITY historyMenu.accesskey "Ж">
 <!ENTITY historyUndoMenu.label "Недавно закрытые вкладки">
+<!ENTITY historyUndoWindowMenu.label "Недавно закрытые окна">
 <!ENTITY historyHomeCmd.label "Домашняя страница">
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
