@@ -1,43 +1,62 @@
-<!ENTITY sanitizePrefs.title				"Privee-gegevens opskjinje">
+<!ENTITY sanitizePrefs2.title				"Ynstellings foar wiskjen skiednis">
 <!ENTITY sanitizeDialog2.title				"Wis resinte skiednis">
 
 <!ENTITY sanitizeItems.label				"De folgjende ûnderdielen no fuortsmite:">
 <!ENTITY clearDataSettings2.label			"As ik &brandShortName; ôfslút, moat it alles automatysk it folgjende opskjinje:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
-
-<!ENTITY clearDuration.label				"Fuortsmite ">
-<!ENTITY clearDuration.accesskey      		"F">
-<!ENTITY clearDuration.lastHour				"it lêste oer">
-<!ENTITY clearDuration.last2Hours			"de lêste 2 oeren">
-<!ENTITY clearDuration.last4Hours			"de lêste 4 oeren">
-<!ENTITY clearDuration.today				"myn skiednis fan hjoed">
-<!ENTITY clearDuration.everything			"myn folsleine skiednis">
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+<!ENTITY clearTimeDuration.label				"Tiidrek om te wiskjen: ">
+<!ENTITY clearTimeDuration.accesskey      		"T">
+<!ENTITY clearTimeDuration.lastHour				"Lêste oer">
+<!ENTITY clearTimeDuration.last2Hours			"Lêste twa oeren">
+<!ENTITY clearTimeDuration.last4Hours			"Lêste fjouwer oeren">
+<!ENTITY clearTimeDuration.today				"Hjoed">
+<!ENTITY clearTimeDuration.everything			"Alles">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix				"">
+<!ENTITY clearTimeDuration.suffix				"">
+<!ENTITY clearTimeDuration.dateColumn			"Besykdatum">
+<!ENTITY clearTimeDuration.nameColumn			"Namme">
+
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "Details">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label				"Skiednis">
 <!ENTITY dataSection.label					"Gegevens">
 
-<!ENTITY itemVisitedPages.label				"Besochte sides">
-<!ENTITY itemVisitedPages.accesskey			"B">
-<!ENTITY itemFormSearchEntries.label		"Bewarre formulier- en sykskiednis">
-<!ENTITY itemFormSearchEntries.accesskey	"f">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+<!ENTITY itemHistoryAndDownloads.label     	"Sneup- en ynlaadskiednis">
+<!ENTITY itemHistoryAndDownloads.accesskey 	"S">
+<!ENTITY itemBrowsingHistory.label         	"Sneupskiednis">
+<!ENTITY itemBrowsingHistory.accesskey     	"S">
+<!ENTITY itemFormSearchHistory.label		"Formulier- &amp; sykskiednis">
+<!ENTITY itemFormSearchHistory.accesskey	"F">
 <!ENTITY itemPasswords.label				"Bewarre wachtwurden">
 <!ENTITY itemPasswords.accesskey			"w">
 <!ENTITY itemCookies.label					"Cookies">
 <!ENTITY itemCookies.accesskey				"C">
-<!ENTITY itemWebCache.label					"Webbuffer">
-<!ENTITY itemWebCache.accesskey				"b">
+<!ENTITY itemCache.label					"Buffer">
+<!ENTITY itemCache.accesskey				"u">
 <!ENTITY itemOfflineApps.label				"Bewarre websteegegevens">
 <!ENTITY itemOfflineApps.accesskey			"g">
-<!ENTITY itemDownloadList.label				"Ynlaadskiednis">
-<!ENTITY itemDownloadList.accesskey			"Y">
+<!ENTITY itemDownloadHistory.label				"Ynlaadskiednis">
+<!ENTITY itemDownloadHistory.accesskey			"Y">
 <!ENTITY itemActiveLogins.label				"Aktieve lochyns">
 <!ENTITY itemActiveLogins.accesskey			"l">
-<!ENTITY itemSiteSettings.label       		"Webstee-spesifike ynstellings">
-<!ENTITY itemSiteSettings.accesskey   		"S">
+<!ENTITY itemSitePreferences.label				"Sidefoarkarren">
+<!ENTITY itemSitePreferences.accesskey			"S">
 
-<!ENTITY window.width						"30em">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Dizze aksje kin net ûngedien makke wurde.">
+
+<!ENTITY dialog.width						"32em">
 <!ENTITY column.width						"14em">

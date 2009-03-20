@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privee sneupe)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nij ljepblêd">
 <!ENTITY tabCmd.accesskey "L">
@@ -88,6 +86,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ophâlde mei it laden fan dizze side">
 <!ENTITY goEndCap.tooltip             "Typ in lokaasje yn it adresfjild, klik dernei Gean">
+<!ENTITY feedButton.tooltip           "Abonnearje op dizze side…">
 <!ENTITY printButton.label            "Ofdrukke">
 <!ENTITY printButton.tooltip          "Dizze side ôfdrukke">
 
@@ -103,10 +102,6 @@
 <!ENTITY bookmarksButton.tooltip        "Jo blêdwizers sjen litte">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "i">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Skiednis">
