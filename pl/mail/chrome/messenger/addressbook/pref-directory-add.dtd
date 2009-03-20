@@ -51,7 +51,7 @@
 <!ENTITY directorySecure.label       "Użyj szyfrowanego połączenia (SSL)">
 <!ENTITY directorySecure.accesskey   "U">
 <!ENTITY directoryLogin.label        "Serwer Bind DN: ">
-<!ENTITY directoryLogin.accesskey    "i">
+<!ENTITY directoryLogin.accesskey    "D">
 <!ENTITY General.tab                 "Ogólne">
 <!ENTITY Offline.tab                 "Tryb offline">
 <!ENTITY Advanced.tab                "Zaawansowane">
