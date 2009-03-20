@@ -5,39 +5,55 @@
 <!ENTITY clearDataSettings2.label     "Lorsque je quitte &brandShortName;, supprimer automatiquement les éléments suivants :">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
-
-<!ENTITY clearDuration.label          "Supprimer ">
-<!ENTITY clearDuration.accesskey      "u">
-<!ENTITY clearDuration.lastHour       "la dernière heure">
-<!ENTITY clearDuration.last2Hours     "les deux dernières heures">
-<!ENTITY clearDuration.last4Hours     "les quatre dernières heures">
-<!ENTITY clearDuration.today          "l'historique du jour">
-<!ENTITY clearDuration.everything     "l'historique complet">
-<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+<!ENTITY clearTimeDuration.label          "Intervalle à effacer : ">
+<!ENTITY clearTimeDuration.accesskey      "I">
+<!ENTITY clearTimeDuration.lastHour       "la dernière heure">
+<!ENTITY clearTimeDuration.last2Hours     "les deux dernières heures">
+<!ENTITY clearTimeDuration.last4Hours     "les quatre dernières heures">
+<!ENTITY clearTimeDuration.today          "aujourd'hui">
+<!ENTITY clearTimeDuration.everything     "tout">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.dateColumn     "Date de visite">
+<!ENTITY clearTimeDuration.nameColumn     "Nom">
 
-<!ENTITY historySection.label         "Historique">
-<!ENTITY dataSection.label            "Données">
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "Détails">
+<!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
-<!ENTITY itemVisitedPages.label       "pages visitées">
-<!ENTITY itemVisitedPages.accesskey   "v">
-<!ENTITY itemFormSearchEntries.label  "formulaires et saisies de recherche">
-<!ENTITY itemFormSearchEntries.accesskey "f">
-<!ENTITY itemPasswords.label          "mots de passe enregistrés">
-<!ENTITY itemPasswords.accesskey      "m">
-<!ENTITY itemCookies.label            "cookies">
-<!ENTITY itemCookies.accesskey        "c">
-<!ENTITY itemWebCache.label           "cache Web">
-<!ENTITY itemWebCache.accesskey       "W">
-<!ENTITY itemOfflineApps.label        "données de sites Web hors connexion">
-<!ENTITY itemOfflineApps.accesskey    "d">
-<!ENTITY itemDownloadList.label       "liste des téléchargements">
-<!ENTITY itemDownloadList.accesskey   "t">
-<!ENTITY itemActiveLogins.label       "sessions actives avec identifiants">
-<!ENTITY itemActiveLogins.accesskey   "s">
-<!ENTITY itemSiteSettings.label       "paramètres de sites spécifiques">
-<!ENTITY itemSiteSettings.accesskey   "p">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+<!ENTITY itemHistoryAndDownloads.label     "Navigation et historique de téléchargements">
+<!ENTITY itemHistoryAndDownloads.accesskey "N">
+<!ENTITY itemBrowsingHistory.label         "Historique de navigation">
+<!ENTITY itemBrowsingHistory.accesskey     "H">
+<!ENTITY itemFormSearchHistory.label       "Formulaires et historique des recherches">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemPasswords.label               "Mots de passe enregistrés">
+<!ENTITY itemPasswords.accesskey           "M">
+<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Cache">
+<!ENTITY itemCache.accesskey               "a">
+<!ENTITY itemOfflineApps.label             "Données de site Web hors-connexion">
+<!ENTITY itemOfflineApps.accesskey         "W">
+<!ENTITY itemDownloadHistory.label         "Historique des téléchargements">
+<!ENTITY itemDownloadHistory.accesskey     "o">
+<!ENTITY itemActiveLogins.label            "Connexions actives">
+<!ENTITY itemActiveLogins.accesskey        "x">
+<!ENTITY itemSitePreferences.label         "Préférences de site">
+<!ENTITY itemSitePreferences.accesskey     "P">
 
-<!ENTITY window.width                 "35em">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Cette action est irréversible.">
+
+<!ENTITY dialog.width                 "37em">
 <!ENTITY column.width                 "16em">
