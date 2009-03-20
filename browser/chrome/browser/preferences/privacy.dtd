@@ -54,11 +54,11 @@
 <!ENTITY  clearDataSettings.label        "Paramètres…">
 <!ENTITY  clearDataSettings.accesskey    "P">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
+<!ENTITY  historyHeader.pre.label          "Règles de conservation :">
 <!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.remember.label     "conservera l'historique">
-<!ENTITY  historyHeader.dontremember.label "ne conservera jamais l'historique">
-<!ENTITY  historyHeader.custom.label       "utilisera les paramètres personnalisés pour l'historique">
+<!ENTITY  historyHeader.remember.label     "conserver l'historique">
+<!ENTITY  historyHeader.dontremember.label "ne jamais conserver l'historique">
+<!ENTITY  historyHeader.custom.label       "utiliser les paramètres personnalisés pour l'historique">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; conservera les données de navigation, les téléchargements, les formulaires et l'historique de recherche, et les cookies des sites visités.">
