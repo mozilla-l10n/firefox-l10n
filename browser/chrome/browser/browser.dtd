@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Novo separador">
 <!ENTITY tabCmd.accesskey "e">
@@ -86,7 +88,6 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Pára de carregar esta página">
 <!ENTITY goEndCap.tooltip             "Ir para o endereço da Barra de Localização">
-<!ENTITY feedButton.tooltip           "Subscrever esta página…">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 
@@ -102,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip "Mostra os marcadores">
 <!ENTITY bookmarksSidebarCmd.accesskey "m">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Histórico">
@@ -185,6 +190,8 @@
 <!ENTITY historyMenu.label "Histórico">
 <!ENTITY historyMenu.accesskey "i">
 <!ENTITY historyUndoMenu.label "Separadores fechados recentemente">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Janelas recentemente fechadas">
 
 <!ENTITY historyHomeCmd.label "Início">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo o Histórico">
@@ -192,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Procurar em Marcadores e Histórico">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Pesquisar marcadores e histórico">
+<!ENTITY urlbar.bookmark.emptyText    "Pesquisar marcadores">
+<!ENTITY urlbar.history.emptyText     "pesquisar histórico">
+<!ENTITY urlbar.none.emptyText        "Escreva um endereço web">
 <!ENTITY urlbar.accesskey "A">
 
 <!-- 
