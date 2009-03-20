@@ -54,56 +54,57 @@
 
 <!ENTITY clearDataSettings.label "Agordoj…">
 <!ENTITY clearDataSettings.accesskey "a">
-<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "l">
-<!ENTITY  historyHeader.remember.label     "memoros historion">
-<!ENTITY  historyHeader.dontremember.label "neniam memoros historion">
-<!ENTITY  historyHeader.custom.label       "uzos personajn agordojn por la historio">
-<!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; memoros la historion de via retesplorado, elŝutado, serĉadoj kaj formularoj, kaj ĝi konservos kuketojn de retejoj kiujn vi vizitas.">
+<!ENTITY historyHeader.pre.label "&brandShortName; :">
+<!ENTITY historyHeader.pre.accesskey "l">
+<!ENTITY historyHeader.remember.label "memoros historion">
+<!ENTITY historyHeader.dontremember.label "neniam memoros historion">
+<!ENTITY historyHeader.custom.label "uzos personajn agordojn por la historio">
+<!ENTITY historyHeader.post.label "">
 
+<!ENTITY rememberDescription.label "&brandShortName; memoros la historion de via retesplorado, elŝutado, serĉadoj kaj formularoj, kaj ĝi konservos kuketojn de retejoj kiujn vi vizitas.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Vi eble volos ">
-<!ENTITY  rememberActions.clearHistory.label  "forviŝi vian ĵusan historion">
-<!ENTITY  rememberActions.middle.label        ", aŭ ">
-<!ENTITY  rememberActions.removeCookies.label "forviŝi individuajn kuketojn">
-<!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; uzos la samajn agordojn de privata retesplorado, kaj ĝi ne memoros iun historion dum vi esploras la reton.">
+<!ENTITY rememberActions.pre.label "Vi eble volos ">
+<!ENTITY rememberActions.clearHistory.label "forviŝi vian ĵusan historion">
+<!ENTITY rememberActions.middle.label ", aŭ ">
+<!ENTITY rememberActions.removeCookies.label "forviŝi individuajn kuketojn">
+<!ENTITY rememberActions.post.label ".">
 
+<!ENTITY dontrememberDescription.label "&brandShortName; uzos la samajn agordojn de privata retesplorado, kaj ĝi ne memoros iun historion dum vi esploras la reton.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Vi eble volos ankaŭ ">
-<!ENTITY  dontrememberActions.clearHistory.label "forviŝi la tutan aktualan historion">
-<!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Aŭtomate startigu &brandShortName; en reĝimo de privata retesplorado">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY dontrememberActions.pre.label "Vi eble volos ankaŭ ">
+<!ENTITY dontrememberActions.clearHistory.label "forviŝi la tutan aktualan historion">
+<!ENTITY dontrememberActions.post.label ".">
 
+<!ENTITY privateBrowsingAutoStart.label "Aŭtomate startigu &brandShortName; en reĝimo de privata retesplorado">
+<!ENTITY privateBrowsingAutoStart.accesskey "A">
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
   line in preferences as follows:
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label "Memori mian restesploran historion almenaŭ dum">
-<!ENTITY  rememberHistory.pre.accesskey  "a">
-<!ENTITY  rememberHistory.post.label     "tagoj">
 
-<!ENTITY  rememberDownload.label         "Memori mian elŝutan historion">
-<!ENTITY  rememberDownload.accesskey     "e">
+<!ENTITY rememberHistory.pre.label "Memori mian restesploran historion almenaŭ dum">
+<!ENTITY rememberHistory.pre.accesskey "a">
+<!ENTITY rememberHistory.post.label "tagoj">
 
-<!ENTITY  rememberSearchForm.label       "Memori historion de serĉadoj kaj formularoj">
-<!ENTITY  rememberSearchForm.accesskey   "s">
+<!ENTITY rememberDownload.label "Memori mian elŝutan historion">
+<!ENTITY rememberDownload.accesskey "e">
 
-<!ENTITY  clearOnClose.label             "Forviŝi historion kiam &brandShortName; finas">
-<!ENTITY  clearOnClose.accesskey         "f">
+<!ENTITY rememberSearchForm.label "Memori historion de serĉadoj kaj formularoj">
+<!ENTITY rememberSearchForm.accesskey "s">
 
-<!ENTITY  clearOnCloseSettings.label     "Agordoj…">
-<!ENTITY  clearOnCloseSettings.accesskey "a">
+<!ENTITY clearOnClose.label "Forviŝi historion kiam &brandShortName; finas">
+<!ENTITY clearOnClose.accesskey "f">
+
+<!ENTITY clearOnCloseSettings.label "Agordoj…">
+<!ENTITY clearOnCloseSettings.accesskey "a">
 
 <!ENTITY clearDataNow.label "Forviŝi nun…">
 <!ENTITY clearDataNow.accesskey "F">

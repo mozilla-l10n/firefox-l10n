@@ -137,13 +137,13 @@
 <!ENTITY search.label "Serĉi:">
 <!ENTITY search.accesskey "S">
 <!ENTITY search.scopeFolder.label "Elektitaj dosierujo">
-<!ENTITY search.scopeFolder.accesskey "D">
+<!ENTITY search.scopeFolder.accesskey "d">
 <!ENTITY search.scopeBookmarks.label "Paĝosignoj">
 <!ENTITY search.scopeBookmarks.accesskey "p">
 <!ENTITY search.scopeDownloads.label "Elŝutoj">
 <!ENTITY search.scopeDownloads.accesskey "E">
 <!ENTITY search.scopeHistory.label "Historio">
-<!ENTITY search.scopeHistory.accesskey "A">
+<!ENTITY search.scopeHistory.accesskey "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip "Montri la konstruanton de serĉado">
 <!ENTITY search.scopeBarExpanderUp.tooltip "Kaŝi la konstruanton de serĉado">
 <!ENTITY saveSearch.label "Konservi">

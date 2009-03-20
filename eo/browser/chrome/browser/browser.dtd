@@ -103,7 +103,6 @@
 <!ENTITY bookmarksButton.tooltip "Montri viajn paĝosignojn">
 <!ENTITY bookmarksSidebarCmd.accesskey "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
