@@ -193,6 +193,8 @@
 <!ENTITY historyMenu.label "Historia">
 <!ENTITY historyMenu.accesskey "h">
 <!ENTITY historyUndoMenu.label "Ostatnio zamknięte karty">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Ostatnio zamknięte okna">
 
 <!ENTITY historyHomeCmd.label "Strona startowa">
 <!ENTITY showAllHistoryCmd2.label "Wyświetl całą historię">
@@ -200,6 +202,10 @@
 
 <!ENTITY openCmd.commandkey "l" >
 <!ENTITY urlbar.emptyText             "Szukaj w zakładkach i historii">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Search Bookmarks and History">
+<!ENTITY urlbar.bookmark.emptyText    "Szukaj w zakładkach">
+<!ENTITY urlbar.history.emptyText     "Szukaj w historii">
+<!ENTITY urlbar.none.emptyText        "Wprowadź adres strony WWW">
 <!ENTITY urlbar.accesskey "d" >
 
 <!-- 
