@@ -40,13 +40,13 @@
 <!ENTITY historyHeader.post.label "">
 <!ENTITY rememberDescription.label "Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca e i cookie impostati dai siti visitati.">
 <!ENTITY rememberActions.pre.label "È possibile ">
-<!ENTITY rememberActions.clearHistory.label "eliminare la cronologia recente">
+<!ENTITY rememberActions.clearHistory.label "cancellare la cronologia recente">
 <!ENTITY rememberActions.middle.label "n ">
 <!ENTITY rememberActions.removeCookies.label "rimuovere selettivamente dei cookie">
 <!ENTITY rememberActions.post.label ".">
 <!ENTITY dontrememberDescription.label "Verranno utilizzate le stesse impostazioni della navigazione privata: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.">
 <!ENTITY dontrememberActions.pre.label "È inoltre possibile ">
-<!ENTITY dontrememberActions.clearHistory.label "eliminare tutta la cronologia corrente">
+<!ENTITY dontrememberActions.clearHistory.label "cancellare tutta la cronologia corrente">
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY privateBrowsingAutoStart.label "Avvia automaticamente &brandShortName; in una sessione di navigazione privata">
 <!ENTITY privateBrowsingAutoStart.accesskey "A">
@@ -57,7 +57,7 @@
 <!ENTITY rememberDownload.accesskey "d">
 <!ENTITY rememberSearchForm.label "Conserva la cronologia delle ricerche e dei moduli">
 <!ENTITY rememberSearchForm.accesskey "o">
-<!ENTITY clearOnClose.label "Elimina la cronologia alla chiusura di &brandShortName;">
-<!ENTITY clearOnClose.accesskey "E">
+<!ENTITY clearOnClose.label "Cancella la cronologia alla chiusura di &brandShortName;">
+<!ENTITY clearOnClose.accesskey "e">
 <!ENTITY clearOnCloseSettings.label "Impostazioni…">
 <!ENTITY clearOnCloseSettings.accesskey "m">

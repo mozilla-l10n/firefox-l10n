@@ -1,34 +1,41 @@
-<!ENTITY sanitizePrefs.title "Elimina dati personali">
-<!ENTITY sanitizeDialog2.title "Elimina cronologia recente">
+<!ENTITY sanitizePrefs2.title "Impostazioni per la cancellazione della cronologia">
+<!ENTITY sanitizeDialog2.title "Cancella cronologia recente">
 <!ENTITY sanitizeItems.label "Cancella adesso i seguenti elementi:">
 <!ENTITY clearDataSettings2.label "Alla chiusura di &brandShortName; eliminare automaticamente:">
-<!ENTITY clearDuration.label "Rimuovi ">
-<!ENTITY clearDuration.accesskey "R">
-<!ENTITY clearDuration.lastHour "ultima ora">
-<!ENTITY clearDuration.last2Hours "ultime 2 ore">
-<!ENTITY clearDuration.last4Hours "ultime 4 ore">
-<!ENTITY clearDuration.today "oggi">
-<!ENTITY clearDuration.everything "cronologia completa">
-<!ENTITY clearDuration.suffix "">
+<!ENTITY clearTimeDuration.label "Intervallo di tempo da rimuovere:">
+<!ENTITY clearTimeDuration.accesskey "U">
+<!ENTITY clearTimeDuration.lastHour "ultima ora">
+<!ENTITY clearTimeDuration.last2Hours "ultime due ore">
+<!ENTITY clearTimeDuration.last4Hours "ultime quattro ore">
+<!ENTITY clearTimeDuration.today "Oggi">
+<!ENTITY clearTimeDuration.everything "tutto">
+<!ENTITY clearTimeDuration.suffix "">
+<!ENTITY clearTimeDuration.dateColumn "Data visita">
+<!ENTITY clearTimeDuration.nameColumn "Nome">
+<!ENTITY detailsProgressiveDisclosure.label "Dettagli">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 <!ENTITY historySection.label "Cronologia">
 <!ENTITY dataSection.label "Dati">
-<!ENTITY itemVisitedPages.label "Pagine visitate">
-<!ENTITY itemVisitedPages.accesskey "P">
-<!ENTITY itemFormSearchEntries.label "Moduli e ricerche">
-<!ENTITY itemFormSearchEntries.accesskey "M">
+<!ENTITY itemHistoryAndDownloads.label "Cronologia navigazione e download">
+<!ENTITY itemHistoryAndDownloads.accesskey "M">
+<!ENTITY itemBrowsingHistory.label "Cronologia navigazione">
+<!ENTITY itemBrowsingHistory.accesskey "C">
+<!ENTITY itemFormSearchHistory.label "Moduli e ricerche">
+<!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label "Password salvate">
 <!ENTITY itemPasswords.accesskey "s">
 <!ENTITY itemCookies.label "Cookie">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemWebCache.label "Cache">
-<!ENTITY itemWebCache.accesskey "a">
+<!ENTITY itemCache.label "Cache">
+<!ENTITY itemCache.accesskey "a">
 <!ENTITY itemOfflineApps.label "Dati non in linea dei siti web ">
 <!ENTITY itemOfflineApps.accesskey "D">
-<!ENTITY itemDownloadList.label "Elenco dei download">
-<!ENTITY itemDownloadList.accesskey "E">
+<!ENTITY itemDownloadHistory.label "Cronologia download">
+<!ENTITY itemDownloadHistory.accesskey "d">
 <!ENTITY itemActiveLogins.label "Login attivi">
 <!ENTITY itemActiveLogins.accesskey "L">
-<!ENTITY itemSiteSettings.label "Impostazioni specifiche per sito">
-<!ENTITY itemSiteSettings.accesskey "m">
-<!ENTITY window.width "30em">
+<!ENTITY itemSitePreferences.label "Preferenze siti">
+<!ENTITY itemSitePreferences.accesskey "N">
+<!ENTITY sanitizeEverythingUndoWarning "Questa azione non può essere annullata.">
+<!ENTITY dialog.width "32em">
 <!ENTITY column.width "16em">
