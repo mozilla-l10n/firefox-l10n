@@ -1,4 +1,4 @@
-<!ENTITY sanitizePrefs.title          "Effacer mes traces">
+<!ENTITY sanitizePrefs2.title         "Paramètres d'effacement de l'historique">
 <!ENTITY sanitizeDialog2.title        "Supprimer l'historique récent">
 
 <!ENTITY sanitizeItems.label          "Supprimer immédiatement les éléments suivants :">
@@ -25,6 +25,9 @@ that require it.  -->
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Détails">
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
+
+<!ENTITY historySection.label         "Historique">
+<!ENTITY dataSection.label            "Données">
 
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can

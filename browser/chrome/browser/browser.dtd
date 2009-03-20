@@ -102,10 +102,6 @@
 <!ENTITY bookmarksButton.tooltip        "Afficher le panneau des marque-pages">
 <!ENTITY bookmarksSidebarCmd.accesskey  "m">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historique">
