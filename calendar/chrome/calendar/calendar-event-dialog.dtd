@@ -71,8 +71,8 @@
 <!ENTITY event.menu.file.new.event.accesskey "U">
 <!ENTITY event.menu.file.new.message.label "Zpráva">
 <!ENTITY event.menu.file.new.message.accesskey "Z">
-<!ENTITY event.menu.file.new.address.label "Kontakt">
-<!ENTITY event.menu.file.new.address.accesskey "K">
+<!ENTITY event.menu.file.new.contact.label "Kontakt">
+<!ENTITY event.menu.file.new.contact.accesskey "K">
 <!ENTITY event.menu.file.close.label "Zavřít">
 <!ENTITY event.menu.file.close.accesskey "Z">
 <!ENTITY event.menu.file.save.label "Uložit">

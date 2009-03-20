@@ -55,6 +55,5 @@
 <!ENTITY junkSettings.label "Nastavení pro nevyžádanou poštu">
 <!ENTITY offlineLink.label "Nastavení režimu offline">
 
-<!ENTITY rssSectionHdr.label "Kanály RSS">
-<!ENTITY subscibeRSS.label "Správa odběru">
-
+<!ENTITY feedsSectionHdr.label "Kanály">
+<!ENTITY subscribeFeeds.label "Spravovat odebírání">

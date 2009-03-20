@@ -3,7 +3,7 @@
 
 <!ENTITY email.label "E-mail">
 <!ENTITY newsgroups.label "Diskusní skupiny">
-<!ENTITY rss.label "RSS kanály">
+<!ENTITY feeds.label "Kanály">
 
 <!ENTITY checkOnStartup.label "Vždy kontrolovat při startu aplikace &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "k">
