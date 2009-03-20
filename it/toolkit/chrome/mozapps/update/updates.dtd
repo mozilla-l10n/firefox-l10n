@@ -45,5 +45,5 @@
 <!ENTITY installed.intro "L'aggiornamento è stato installato correttamente.">
 <!ENTITY whatsnew.label "Informazioni sulle novità…">
 <!ENTITY update.details.label "Dettagli">
-<!ENTITY update.installedOn.label "Installato in:">
+<!ENTITY update.installedOn.label "Installato:">
 <!ENTITY update.status.label "Stato:">
