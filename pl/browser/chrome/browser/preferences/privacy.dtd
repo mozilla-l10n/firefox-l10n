@@ -54,3 +54,57 @@
 
 <!ENTITY  clearDataSettings.label        "Ustawienia…">
 <!ENTITY  clearDataSettings.accesskey    "t">
+
+
+<!ENTITY  historyHeader.pre.label          "Program &brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "będzie pamiętał historię">
+<!ENTITY  historyHeader.dontremember.label "nie będzie pamiętał historii">
+<!ENTITY  historyHeader.custom.label       "będzie używał ustawień użytkownika dotyczących historii">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from Web sites you visit.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "Możesz chcieć ">
+<!ENTITY  rememberActions.clearHistory.label  "wyczyścić ostatnią historię">
+<!ENTITY  rememberActions.middle.label        " lub ">
+<!ENTITY  rememberActions.removeCookies.label "usunąć pojedyncze ciasteczka">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; będzie używać tych samych ustawień, co prywatny tryb przeglądania, i nie będzie zapisywał historii podczas przeglądania witryn WWW.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Możesz także chcieć ">
+<!ENTITY  dontrememberActions.clearHistory.label "wyczyścić całą aktualną historię">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Uruchom program &brandShortName; automatycznie w prywatnym trybie przeglądania">
+<!ENTITY  privateBrowsingAutoStart.accesskey "U">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+
+<!ENTITY  rememberHistory.pre.label      "Pamiętaj historię przeglądania przez co najmniej">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "dni">
+
+<!ENTITY  rememberDownload.label         "Pamiętaj historię pobierania plików">
+<!ENTITY  rememberDownload.accesskey     "b">
+
+<!ENTITY  rememberSearchForm.label       "Pamiętaj historię wyszukiwania i formularzy">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Czyść historię podczas zamykania programu &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "C">
+
+<!ENTITY  clearOnCloseSettings.label     "Ustawienia…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
