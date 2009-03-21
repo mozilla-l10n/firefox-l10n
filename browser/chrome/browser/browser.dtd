@@ -223,6 +223,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Sök bland bokmärken och i historiken">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Sök bland bokmärken och i historiken">
+<!ENTITY urlbar.bookmark.emptyText    "Sök bokmärken">
+<!ENTITY urlbar.history.emptyText     "Sök i historiken">
+<!ENTITY urlbar.none.emptyText        "Skriv in en webbadress">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
