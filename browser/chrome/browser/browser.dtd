@@ -185,6 +185,8 @@
 <!ENTITY historyMenu.label "Historie">
 <!ENTITY historyMenu.accesskey "H">
 <!ENTITY historyUndoMenu.label "Naposledy zavřené panely">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Naposledy zavřená okna">
 
 <!ENTITY historyHomeCmd.label "Domů">
 <!ENTITY showAllHistoryCmd2.label "Zobrazit celou historii">
