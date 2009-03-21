@@ -75,7 +75,7 @@
 <!ENTITY propertiesCmd.key "i">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Zobrazit">
+<!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">
 <!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenu.accesskey "r">

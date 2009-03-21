@@ -2,7 +2,7 @@
 <!ENTITY places.library.title "Knihovna stránek">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label "Spravovat">
+<!ENTITY organize.label "Správa">
 <!ENTITY organize.accesskey "S">
 
 <!ENTITY file.accesskey "S">
@@ -11,7 +11,7 @@
 <!ENTITY cmd.close.key "w">
 <!ENTITY edit.label "Úpravy">
 <!ENTITY edit.accesskey "a">
-<!ENTITY views.label "Zobrazit">
+<!ENTITY views.label "Zobrazení">
 <!ENTITY views.accesskey "Z">
 <!ENTITY view.toolbar.label "Nástrojové lišty">
 <!ENTITY view.toolbar.accesskey "N">
@@ -193,7 +193,7 @@
 
 <!ENTITY view.addons.label "Získat doplňky pohledů">
 
-<!ENTITY maintenance.label "Importovat a zálohovat">
+<!ENTITY maintenance.label "Import a záloha">
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label "Zpět">
