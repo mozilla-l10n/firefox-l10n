@@ -1,4 +1,5 @@
 <!ENTITY history.label "Журнал посещений">
+<!ENTITY locationBar.label "Панель адреса">
 <!ENTITY locbar.pre.label "При использовании панели адреса, предлагать ссылки:">
 <!ENTITY locbar.pre.accessKey "с">
 <!ENTITY locbar.post.label "">
@@ -32,13 +33,13 @@
 <!ENTITY alwaysClear.accesskey "з">
 <!ENTITY clearDataSettings.label "Настроить…">
 <!ENTITY clearDataSettings.accesskey "т">
-<!ENTITY historyHeader.pre.label "&brandShortName;:">
+<!ENTITY historyHeader.pre.label "&brandShortName; будет:">
 <!ENTITY historyHeader.pre.accesskey "F">
-<!ENTITY historyHeader.remember.label "будет запоминать историю">
-<!ENTITY historyHeader.dontremember.label "не будет запоминать историю">
-<!ENTITY historyHeader.custom.label "будет использовать ваши настройки хранения истории">
+<!ENTITY historyHeader.remember.label "Запоминать историю работы">
+<!ENTITY historyHeader.dontremember.label "Никогда не запоминать историю работы">
+<!ENTITY historyHeader.custom.label "Использовать другие настройки для истории работы">
 <!ENTITY historyHeader.post.label "">
-<!ENTITY rememberDescription.label "&brandShortName; будет помнить историю посещений, загрузок, поиска, сохранять данные форм и хранить куки, оставленные посещёнными вами веб-сайтами.">
+<!ENTITY rememberDescription.label "&brandShortName; будет помнить историю посещений, загрузок, поиска, данные форм, и хранить куки, оставленные посещёнными вами веб-сайтами.">
 <!ENTITY rememberActions.pre.label "Возможно, вы захотите ">
 <!ENTITY rememberActions.clearHistory.label "очистить вашу недавнюю историю">
 <!ENTITY rememberActions.middle.label ", или">
