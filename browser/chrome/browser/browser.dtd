@@ -14,9 +14,9 @@
 <!ENTITY tabCmd.label "لسان جديد">
 <!ENTITY tabCmd.accesskey "ل">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "افتح مكانا…">
+<!ENTITY openLocationCmd.label "افتح مكانًا…">
 <!ENTITY openLocationCmd.accesskey "م">
-<!ENTITY openFileCmd.label "افتح ملفا…">
+<!ENTITY openFileCmd.label "افتح ملفًا…">
 <!ENTITY openFileCmd.accesskey "ف">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "إعداد الصفحة…">
@@ -80,11 +80,11 @@
 <!ENTITY backForwardMenu.tooltip "صفحات حديثة">
 <!ENTITY reloadCmd.label "أعِد التحميل">
 <!ENTITY reloadCmd.accesskey "ع">
-<!ENTITY reloadButton.tooltip "أعِد تحميل الصّفحة الحاليّة">
+<!ENTITY reloadButton.tooltip "أعِد تحميل الصفحة الحاليّة">
 <!ENTITY stopCmd.label "قف">
 <!ENTITY stopCmd.accesskey "ق">
 <!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "أوقف تحميل هذه الصّفحة">
+<!ENTITY stopButton.tooltip "أوقف تحميل هذه الصفحة">
 <!ENTITY goEndCap.tooltip "اذهب للعنوان في شريط الموقع">
 <!ENTITY feedButton.tooltip           "اشترك في هذه الصفحة…">
 <!ENTITY printButton.label "اطبع">
@@ -105,7 +105,7 @@
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "التاريخ">
-<!ENTITY historyButton.tooltip "اعرض الصّفحات التي عرضتها مؤخّرًا">
+<!ENTITY historyButton.tooltip "اعرض الصفحات التي شاهدتها مؤخرًا">
 <!ENTITY historySidebarCmd.accesskey "ت">
 <!ENTITY historySidebarCmd.commandKey "h">
 
@@ -117,7 +117,7 @@
 <!ENTITY search.label "ابحث في الشبكة">
 <!ENTITY search.accesskey "ب">
 <!ENTITY downloads.label "التنزيلات">
-<!ENTITY downloads.tooltip "اعرض تقدّم التّنزيلات الجارية">
+<!ENTITY downloads.tooltip "اعرض تقدّم التنزيلات الجارية">
 <!ENTITY downloads.accesskey "ز">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -135,7 +135,7 @@
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "ج">
 
-<!ENTITY editMenu.label "حرّر">
+<!ENTITY editMenu.label "تحرير">
 <!ENTITY editMenu.accesskey "ح">
 <!ENTITY undoCmd.label "تراجع">
 <!ENTITY undoCmd.key "Z">
@@ -184,14 +184,20 @@
 
 <!ENTITY historyMenu.label "التاريخ">
 <!ENTITY historyMenu.accesskey "ت">
-<!ENTITY historyUndoMenu.label "الألسنة المُغلقة حديثا">
+<!ENTITY historyUndoMenu.label "الألسنة المُغلقة حديثًا">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "النوافذ المغلقة حديثًا">
 
 <!ENTITY historyHomeCmd.label "المنزل">
 <!ENTITY showAllHistoryCmd2.label "أظهر كل التاريخ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "ابحث في التاريخ و العلامات">
+<!ENTITY urlbar.emptyText "ابحث في العلامات والتاريخ">
+<!ENTITY urlbar.bookmarkhistory.emptyText "ابحث في العلامات والتاريخ">
+<!ENTITY urlbar.bookmark.emptyText    "ابحث في العلامات">
+<!ENTITY urlbar.history.emptyText     "ابحث في التاريخ">
+<!ENTITY urlbar.none.emptyText        "اكتب عنوان موقع وب">
 <!ENTITY urlbar.accesskey "ح">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -255,7 +261,7 @@
 <!ENTITY viewBGImageCmd.accesskey "خ">
 <!ENTITY setDesktopBackgroundCmd.label "اجعلها خلفية سطح المكتب…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "ج">
-<!ENTITY bookmarkPageCmd2.label "علِّم هذه الصّفحة">
+<!ENTITY bookmarkPageCmd2.label "علِّم هذه الصفحة">
 <!ENTITY bookmarkPageCmd2.accesskey "ع">
 <!ENTITY bookmarkThisLinkCmd.label "علِّم هذه الوصلة">
 <!ENTITY bookmarkThisLinkCmd.accesskey "و">
@@ -353,7 +359,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "افتح لسانًا جديدًا">
 <!ENTITY newWindowButton.tooltip "افتح نافذة جديدة">
-<!ENTITY sidebarCloseButton.tooltip "أغلِق الشّريط الجّانبي">
+<!ENTITY sidebarCloseButton.tooltip "أغلِق الشريط الجانبي">
 
 <!ENTITY cutButton.tooltip "قصّ">
 <!ENTITY copyButton.tooltip "انسخ">

@@ -8,6 +8,24 @@
 <!ENTITY  locbar.bookmarks.label        "العلامات المرجعية">
 <!ENTITY  locbar.nothing.label          "لا شيء">
 
+<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "ف">
+<!ENTITY  historyHeader.remember.label     "سيتذكر التاريخ">
+<!ENTITY  historyHeader.dontremember.label "لن يتذكر التاريخ أبدًا">
+<!ENTITY  historyHeader.custom.label       "سيستخدم إعدادات مخصصة للتاريخ">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "سيتذكر &brandShortName; تصفحك وتنزيلاتك والنماذج التي ملأتها وتاريخ البحث، كما سيحتفظ بكعكات مواقع الوب التي زرتها.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "قد ترغب بأن ">
+<!ENTITY  rememberActions.clearHistory.label  "تمسح تاريخك الحالي">
+<!ENTITY  rememberActions.middle.label        "، أو ">
+<!ENTITY  rememberActions.removeCookies.label "تزيل الكعكات الشخصية">
+<!ENTITY  rememberActions.post.label          ".">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
@@ -25,6 +43,38 @@
 <!ENTITY rememberDownloads.label "تذكر ما نزَّلتُه">
 <!ENTITY rememberDownloads.accesskey "ن">
 
+<!ENTITY  dontrememberDescription.label  "سيستخدم &brandShortName; نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تاريخ لتصفحك للوب.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "قد ترغب أيضًا بأن ">
+<!ENTITY  dontrememberActions.clearHistory.label "تمسح تاريخك الحالي كله">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "ابدأ &brandShortName; تلقائيًا في جلسة تصفح خاص">
+<!ENTITY  privateBrowsingAutoStart.accesskey "خ">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "تذكّر تاريخ التصفح لمدةRemember my browsing history for at least">
+<!ENTITY  rememberHistory.pre.accesskey  "د">
+<!ENTITY  rememberHistory.post.label     "يومًا/أيام على الأقل">
+
+<!ENTITY  rememberDownload.label         "تذكّر تاريخ التنزيلات">
+<!ENTITY  rememberDownload.accesskey     "ز">
+
+<!ENTITY  rememberSearchForm.label       "تذكّر تاريخ النماذج والبحث">
+<!ENTITY  rememberSearchForm.accesskey   "ث">
+
+<!ENTITY  clearOnClose.label             "امسح التاريخ عند إغلاق &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "غ">
+
+<!ENTITY  clearOnCloseSettings.label     "إعدادات…">
+<!ENTITY  clearOnCloseSettings.accesskey "د">
 
 <!ENTITY cookies.label "الكعكات">
 

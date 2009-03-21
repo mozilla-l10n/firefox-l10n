@@ -1,42 +1,60 @@
-<!ENTITY sanitizePrefs.title           "امسح البيانات الشخصية">
-<!ENTITY sanitizeDialog2.title "امسح التاريخ الحالي">
+<!ENTITY sanitizePrefs2.title           "إعدادات مسح التاريخ">
+<!ENTITY sanitizeDialog2.title "مسح التاريخ الحالي">
 
-<!ENTITY sanitizeItems.label "امسح العناصر التّالية الآن:">
+<!ENTITY sanitizeItems.label "امسح العناصر التالية الآن:">
 <!ENTITY clearDataSettings2.label     "عند خروجي من &brandShortName;، ينبغي عليه تلقائيًا أن يمسح كل:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "أزِل ">
-<!ENTITY clearDuration.accesskey      "ز">
-<!ENTITY clearDuration.lastHour       "آخر ساعة">
-<!ENTITY clearDuration.last2Hours     "آخر ساعتين">
-<!ENTITY clearDuration.last4Hours     "آخر أربع ساعات">
-<!ENTITY clearDuration.today          "التاريخ لهذا اليوم">
-<!ENTITY clearDuration.everything     "التاريخ كله">
+<!ENTITY clearTimeDuration.label          "أزِل ">
+<!ENTITY clearTimeDuration.accesskey          "ز">
+<!ENTITY clearTimeDuration.lastHour       "آخر ساعة">
+<!ENTITY clearTimeDuration.last2Hours     "آخر ساعتين">
+<!ENTITY clearTimeDuration.last4Hours     "آخر أربع ساعات">
+<!ENTITY clearTimeDuration.today          "التاريخ لهذا اليوم">
+<!ENTITY clearTimeDuration.everything     "التاريخ كله">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.dateColumn     "تاريخ الزيارة">
+<!ENTITY clearTimeDuration.nameColumn     "الاسم">
+
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "التفاصيل">
+<!ENTITY detailsProgressiveDisclosure.accesskey "ف">
 
 <!ENTITY historySection.label         "التاريخ">
 <!ENTITY dataSection.label            "البيانات">
 
-<!ENTITY itemVisitedPages.label       "الصفحات التي زرتها">
-<!ENTITY itemVisitedPages.accesskey   "ر">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+<!ENTITY itemHistoryAndDownloads.label     "تاريخ التصفح والتنزيلات">
+<!ENTITY itemHistoryAndDownloads.accesskey "ص">
+<!ENTITY itemBrowsingHistory.label         "تاريخ التصفح">
+<!ENTITY itemBrowsingHistory.accesskey     "ص">
 <!ENTITY itemPasswords.label "كلمات السر المحفوظة">
 <!ENTITY itemPasswords.accesskey "ك">
 <!ENTITY itemCookies.label "الكعكات">
-<!ENTITY itemCookies.accesskey "س">
-<!ENTITY itemDownloadList.label       "قائمة التنزيل">
-<!ENTITY itemDownloadList.accesskey   "ز">
+<!ENTITY itemCookies.accesskey "ت">
+<!ENTITY itemCache.label                   "ذاكرة مخبّأة">
+<!ENTITY itemCache.accesskey               "ة">
+<!ENTITY itemDownloadHistory.label       "تاريخ التنزيل">
+<!ENTITY itemDownloadHistory.accesskey   "ز">
 <!ENTITY itemOfflineApps.label "بيانات المواقع للعمل دون اتصال">
 <!ENTITY itemOfflineApps.accesskey "ب">
-<!ENTITY itemWebCache.label           "ذاكرة الوب المخبّأة">
-<!ENTITY itemWebCache.accesskey       "و">
-<!ENTITY itemFormSearchEntries.label  "مُدخلات بحث &amp; النماذج">
-<!ENTITY itemFormSearchEntries.accesskey "ث">
+<!ENTITY itemFormSearchHistory.label  "تاريخ البحث والنماذج">
+<!ENTITY itemFormSearchHistory.accesskey "ث">
 <!ENTITY itemActiveLogins.label "تسجيلات الدخول النشِطة">
 <!ENTITY itemActiveLogins.accesskey "ش">
-<!ENTITY itemSiteSettings.label       "إعدادات متعلقة بالموقع">
-<!ENTITY itemSiteSettings.accesskey   "د">
+<!ENTITY itemSitePreferences.label         "تفضيلات الموقع">
+<!ENTITY itemSitePreferences.accesskey     "ض">
 
-<!ENTITY window.width "30em">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "لا يمكن التراجع عن هذا الإجراء.">
+
+<!ENTITY dialog.width                 "32em">
 <!ENTITY column.width "14em">

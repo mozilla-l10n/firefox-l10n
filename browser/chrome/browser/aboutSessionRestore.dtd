@@ -1,13 +1,14 @@
 <!ENTITY restorepage.tabtitle "استرجع الجلسة">
-<!ENTITY restorepage.pagetitle "هل تريد استرجاع جلستك؟">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "أُغلقت جلستك &brandShortName; السابقة بشكل غير متوقع. نعتذر بشدة عن هذا الإزعاج. يمكنك استرجاع الألسنة والنوافذ من الجلسة الماضية، أو بدء جلسة جديدة إن لم تعد بحاجة إلى ما كان في القديمة.">
-<!ENTITY restorepage.remedies "إن تكرر انغلاق &brandShortName;:">
-<!ENTITY restorepage.dueToChrome "جرّب تعطيل أيّ ملحقات أضفتها مؤخرًا باستخدام مدير الملحقات.">
-<!ENTITY restorepage.dueToContent "جرّب استرجاع جلستك من دون أي صفحات وب تشتبه في أنها قد أحدثت الانهيار:">
 
-<!ENTITY restorepage.restoreButton "استرجع الجلسة السابقة">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "حسنًا، هذا الموقف محرج.">
+<!ENTITY restorepage.problemDesc    "يواجه &brandShortName; مشكلة في استرجاع نوافذك وألسنتك. سبب هذا عادة هو صفحة وب فتحتها مؤخرًا.">
+<!ENTITY restorepage.tryThis        "يمكنك تجربة:">
+<!ENTITY restorepage.restoreSome    "إزالة لسان واحد أو أكثر تظن أنه مسبّب المشكلة">
+<!ENTITY restorepage.startNew       "بدء جلسة تصفح جديدة">
+
+<!ENTITY restorepage.tryagainButton "استرجع">
 <!ENTITY restorepage.restore.access "س">
 <!ENTITY restorepage.cancelButton "ابدأ جلسة جديدة">
 <!ENTITY restorepage.cancel.access "ب">
