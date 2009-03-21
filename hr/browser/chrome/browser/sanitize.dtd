@@ -1,4 +1,4 @@
-<!ENTITY sanitizePrefs.title           "Očisti privatne podatke">
+<!ENTITY sanitizePrefs2.title          "Postavke za čišćenje povijesti">
 <!ENTITY sanitizeDialog2.title         "Očisti nedavnu povijest">
 
 <!ENTITY sanitizeItems.label          "Sljedeće stavke očisti odmah:">
@@ -25,22 +25,28 @@ that require it.  -->
 <!ENTITY historySection.label         "Povijest">
 <!ENTITY dataSection.label            "Podaci">
 
-<!ENTITY itemVisitedPages.label       "Posjećene stranica">
-<!ENTITY itemVisitedPages.accesskey   "P">
-<!ENTITY itemFormSearchEntries.label  "Unosi formi i pretraživanja">
-<!ENTITY itemFormSearchEntries.accesskey "f">
+<!ENTITY itemHistoryAndDownloads.label     "Povijest pretraživanja i preuzimanja">
+<!ENTITY itemHistoryAndDownloads.accesskey "p">
+<!ENTITY itemBrowsingHistory.label         "Povijest pretraživanja">
+<!ENTITY itemBrowsingHistory.accesskey     "p">
+<!ENTITY itemFormSearchHistory.label       "Povijest formi i traženja">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label          "Spremljene lozinke">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "Kolačići">
 <!ENTITY itemCookies.accesskey        "K">
-<!ENTITY itemWebCache.label           "Međuspremnik">
-<!ENTITY itemWebCache.accesskey       "M">
+<!ENTITY itemCache.label                   "Međuspremnik">
+<!ENTITY itemCache.accesskey               "s">
 <!ENTITY itemOfflineApps.label        "Podaci neumreženih stranica">
 <!ENTITY itemOfflineApps.accesskey    "n">
-<!ENTITY itemDownloadList.label       "Lista preuzimanja">
-<!ENTITY itemDownloadList.accesskey   "z">
+<!ENTITY itemDownloadHistory.label         "Povijest preuzimanja">
+<!ENTITY itemDownloadHistory.accesskey     "p">
 <!ENTITY itemActiveLogins.label       "Aktivne prijave">
 <!ENTITY itemActiveLogins.accesskey   "A">
+<!ENTITY itemSitePreferences.label         "Postavke stranice">
+<!ENTITY itemSitePreferences.accesskey     "s">
 
-<!ENTITY window.width                 "30em">
+<!ENTITY sanitizeEverythingUndoWarning     "Ovaj se potez neće moći poništiti.">
+
+<!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "14em">
