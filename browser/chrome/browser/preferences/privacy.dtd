@@ -1,5 +1,7 @@
 <!ENTITY history.label "Histórico">
 
+<!ENTITY  locationBar.label             "Barra de localização">
+
 <!ENTITY  locbar.pre.label              "Ao usar a barra de localização, sugerir:">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
