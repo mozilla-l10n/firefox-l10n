@@ -61,7 +61,7 @@
 <!ENTITY propsCmd.label "Vlastnosti oblasti">
 <!ENTITY propsCmd.accesskey "o">
 <!-- View menu -->
-<!ENTITY mapviewMenu.label "Zobrazit">
+<!ENTITY mapviewMenu.label "Zobrazení">
 <!ENTITY mapviewMenu.accesskey "Z">
 <!ENTITY showhideTbarCmd.label "Skrýt nástroje">
 <!ENTITY showhideTbarCmd.accesskey "S">

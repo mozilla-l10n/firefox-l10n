@@ -97,8 +97,8 @@
 <!ENTITY printCmd.label "Tisk…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Print Preview">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.label "Náhled tisku">
+<!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "v">
 
@@ -284,8 +284,8 @@
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Předchozí">
 <!ENTITY prevMenu.accesskey "P">
-<!ENTITY prevMsgCmd.label "Message">
-<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY prevMsgCmd.label "Zpráva">
+<!ENTITY prevMsgCmd.accesskey "Z">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Nepřečtená zpráva">
 <!ENTITY prevUnreadMsgCmd.accesskey "N">
@@ -298,27 +298,27 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Zpráva s praporkem">
 <!ENTITY prevFlaggedMsgCmd.accesskey "r">
-<!ENTITY startPageCmd.label "Úvodní stránka pošty">
-<!ENTITY startPageCmd.accesskey "S">
-<!ENTITY msgMenu.label "Message">
-<!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "New Message">
+<!ENTITY startPageCmd.label "Úvodní stránka">
+<!ENTITY startPageCmd.accesskey "s">
+<!ENTITY msgMenu.label "Zpráva">
+<!ENTITY msgMenu.accesskey "Z">
+<!ENTITY newMsgCmd.label "Nová zpráva">
 <!ENTITY newMsgCmd.accesskey "N">
-<!ENTITY newNewMsgCmd.label "Message">
-<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY newNewMsgCmd.label "Zpráva">
+<!ENTITY newNewMsgCmd.accesskey "Z">
 <!ENTITY replyMsgCmd.label "Odpovědět">
 <!ENTITY replyMsgCmd.accesskey "O">
 <!ENTITY replyMsgCmd.key "r">
-<!ENTITY replySenderCmd.label "Odpovědět pouze odesílateli">
+<!ENTITY replySenderCmd.label "Odpovědět odesílateli">
 <!ENTITY replySenderCmd.accesskey "L">
-<!ENTITY replyNewsgroupCmd.label "Reply to Newsgroup">
+<!ENTITY replyNewsgroupCmd.label "Odpovědět do skupiny">
 <!ENTITY replyNewsgroupCmd.accesskey "y">
 <!ENTITY replyToAllMsgCmd.label "Odpovědět všem">
 <!ENTITY replyToAllMsgCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToSenderAndNewsgroupCmd.label "Reply to Sender and Newsgroup">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Odpovědět odesílateli a do skupiny">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY replyToAllRecipientsCmd.label "Reply to All Recipients">
+<!ENTITY replyToAllRecipientsCmd.label "Odpovědět všem příjemcům">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "Přeposlat">
 <!ENTITY forwardMsgCmd.accesskey "P">

@@ -49,8 +49,8 @@
 <!ENTITY findTypeLinksCmd.label "Hledat během psaní odkazy">
 <!ENTITY findTypeLinksCmd.accesskey "b">
 
-<!ENTITY viewMenu.label "Zobrazit">
-<!ENTITY viewMenu.accesskey "z">
+<!ENTITY viewMenu.label "Zobrazení">
+<!ENTITY viewMenu.accesskey "Z">
 <!ENTITY viewToolbarsMenu.label "Zobrazit/Skrýt">
 <!ENTITY viewToolbarsMenu.accesskey "o">
 <!ENTITY showTaskbarCmd.label "Stavový řádek">

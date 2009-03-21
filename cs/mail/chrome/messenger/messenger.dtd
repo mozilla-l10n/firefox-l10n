@@ -296,7 +296,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Zpráva s hvězdičkou">
 <!ENTITY prevStarredMsgCmd.accesskey "h">
-<!ENTITY startPageCmd.label "Úvodní stránka pošty">
+<!ENTITY startPageCmd.label "Úvodní stránka">
 <!ENTITY startPageCmd.accesskey "s">
 <!ENTITY msgMenu.label "Zpráva">
 <!ENTITY msgMenu.accesskey "r">
@@ -712,14 +712,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "Zvětšit okno">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Předvolby…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
-<!ENTITY servicesMenuMac.label          "Služby">
-<!ENTITY hideThisAppCmdMac.label        "Skrýt &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Skrýt ostatní">
+<!ENTITY preferencesCmdMac.label "Předvolby…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY servicesMenuMac.label "Služby">
+<!ENTITY hideThisAppCmdMac.label "Skrýt &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY hideOtherAppsCmdMac.label "Skrýt ostatní">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Zobrazit vše">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "Zobrazit vše">

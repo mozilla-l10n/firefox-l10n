@@ -87,7 +87,7 @@
 <!ENTITY findPrevCmd.accesskey "N">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Zobrazit">
+<!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">
 <!ENTITY viewToolbarsMenuNew.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenuNew.accesskey "N">

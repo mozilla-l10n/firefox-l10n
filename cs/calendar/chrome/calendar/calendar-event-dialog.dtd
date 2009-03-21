@@ -97,7 +97,7 @@
 <!ENTITY event.menu.edit.select.all.label "Vybrat vše">
 <!ENTITY event.menu.edit.select.all.accesskey "a">
 
-<!ENTITY event.menu.view.label "Zobrazit">
+<!ENTITY event.menu.view.label "Zobrazení">
 <!ENTITY event.menu.view.accesskey "Z">
 <!ENTITY event.menu.view.toolbars.label "Nástrojové lišty">
 <!ENTITY event.menu.view.toolbars.accesskey "N">

@@ -18,7 +18,7 @@
  - Portions created by the Initial Developer are Copyright (C) 2001
  - the Initial Developer. All Rights Reserved.
  -
- - Contributor(s): 
+ - Contributor(s):
  - Garth Smedley <garths@oeone.com>
  - Mike Potter <mikep@oeone.com>
  - Chris Charabaruk <coldacid@meldstar.com>
@@ -134,7 +134,7 @@
 <!ENTITY helpMenu.accesskey "N">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
            for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Nápověda"> 
+<!ENTITY helpMenuWin.label "Nápověda">
 <!ENTITY helpMenuWin.accesskey "N">
 
 <!ENTITY fileMenu.label "Soubor">
@@ -152,7 +152,7 @@
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 
-<!ENTITY viewMenu.label "Zobrazit">
+<!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">
 
 <!ENTITY releaseCmd.label "Poznámky k vydání">
