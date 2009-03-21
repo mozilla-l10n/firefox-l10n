@@ -1,18 +1,20 @@
 <!ENTITY restorepage.tabtitle       "ਸ਼ੈਸ਼ਨ ਰੀਸਟੋਰ ਕਰੋ">
-<!ENTITY restorepage.pagetitle      "ਕੀ ਤੁਸੀਂ ਆਪਣਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "ਤੁਹਾਡਾ ਪਿਛਲਾ &brandShortName; ਸ਼ੈਸ਼ਨ ਅਚਾਨਕ ਬੰਦ ਹੋ ਗਿਆ ਸੀ। ਸਾਨੂੰ ਇਹ ਸਮੱਸਿਆ ਲਈ ਤਹਿ ਦਿਲੋਂ ਅਫਸੋਸ ਹੈ। ਤੁਸੀਂ ਆਪਣੇ ਪਿਛਲੇ ਸੈਸ਼ਨ ਤੋਂ ਟੈਬਾਂ ਅਟੇ ਵਿੰਡੋ ਨੂੰ ਰੀਸਟੋਰ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਜੇ ਉਨ੍ਹਾਂ ਦੀ ਲੋੜ ਨਹੀਂ ਸੀ ਤਾਂ ਨਵਾਂ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ।">
-<!ENTITY restorepage.remedies       "ਜੇ &brandShortName; ਲਗਾਤਾਰ ਬੰਦ ਹੁੰਦਾ ਹੈ ਤਾਂ:">
-<!ENTITY restorepage.dueToChrome    "ਐਡ-ਆਨ ਮੈਨੇਜਰ ਵਿੱਚ ਤਾਜ਼ਾ ਸ਼ਾਮਲ ਕੀਤੀ ਕਿਸੇ ਵੀ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਆਯੋਗ ਕਰਕੇ ਟਰਾਈ ਕਰੋ।">
-<!ENTITY restorepage.dueToContent   "ਆਪਣੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਕਿਸ ਵੀ ਵੈੱਬ ਪੇਜ਼ ਤੋਂ ਬਿਨਾਂ ਰੀ-ਸਟੋਰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੋਰ, ਜਿਸ ਬਾਰੇ ਤੁਹਾਨੂੰ ਸ਼ੱਕ ਹੈ ਕਿ ਸਮੱਸਿਆ ਪੈਦਾ ਕਰ ਸਕਦਾ ਹੈ:">
 
-<!ENTITY restorepage.restoreButton  "ਪਿਛਲਾ ਸ਼ੈਸ਼ਨ ਰੀ-ਸਟੋਰ ਕਰੋ">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "ਹਾਂ, ਇਹ ਸਮੱਸਿਆ ਖੜ੍ਹੀ ਕਰ ਰਿਹਾ ਹੈ।">
+<!ENTITY restorepage.problemDesc    "&brandShortName; ਨੂੰ ਤੁਹਾਡੀਆਂ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਪ੍ਰਾਪਤ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਹੈ। ਇਹ ਅਕਰਸ ਇੱਕ ਤਾਜ਼ਾ ਖੋਲ੍ਹੇ ਵੈੱਬ ਪੇਜ਼ ਕਰਕੇ ਹੁੰਦਾ ਹੈ।">
+<!ENTITY restorepage.tryThis        "ਤੁਸੀਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ:">
+<!ENTITY restorepage.restoreSome    "ਇੱਕ ਜਾਂ ਵੱਧ ਟੈਬਾਂ ਨੂੰ ਹਟਾਓ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਸਮੱਸਿਆ ਪੈਦਾ ਕਰ ਰਹੀਆਂ ਹਨ">
+<!ENTITY restorepage.startNew       "ਪੂਰਾ ਨਵਾਂ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+
+<!ENTITY restorepage.tryagainButton "ਰੀਸਟੋਰ ਕਰੋ">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "ਨਵਾਂ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY restorepage.cancel.access  "S">
 
-<!ENTITY restorepage.restoreHeader  "ਰੀ-ਸਟੋਰ">
+<!ENTITY restorepage.restoreHeader  "ਰੀਸਟੋਰ ਕਰੋ">
 <!ENTITY restorepage.listHeader     "ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "ਵਿੰਡੋ &#37;S">
+

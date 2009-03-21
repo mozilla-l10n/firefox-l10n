@@ -105,6 +105,12 @@
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+
+
 <!ENTITY historyButton.label            "ਅਤੀਤ">
 <!ENTITY historyButton.tooltip          "ਆਪਣੇ ਵਲੋਂ ਤਾਜ਼ਾ ਖੋਲ੍ਹੇ ਪੇਜ਼ ਵੇਖੋ">
 <!ENTITY historySidebarCmd.accesskey    "s">
@@ -193,6 +199,10 @@
 <!-- XXX places only -->
 <!ENTITY historyHomeCmd.label "ਘਰ">
 <!ENTITY showAllHistoryCmd2.label "ਸਭ ਅਤੀਤ ਵੇਖੋ">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਵਿੰਡੋ">
+
+
 <!-- XXX remove above if places sticks --> 
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -200,6 +210,10 @@
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ (ਹਿਸਟਰੀ) ਖੋਜ">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.bookmarkhistory.emptyText "ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਖੋਜ">
+<!ENTITY urlbar.bookmark.emptyText    "ਬੁੱਕਮਾਰਕ ਖੋਜ">
+<!ENTITY urlbar.history.emptyText     "ਖੋਜ ਅਤੀਤ">
+<!ENTITY urlbar.none.emptyText        "ਵੈੱਬ ਐਡਰੈੱਸ ਲਿਖੋ">
 
 <!-- 
   Comment duplicated from browser-sets.inc:

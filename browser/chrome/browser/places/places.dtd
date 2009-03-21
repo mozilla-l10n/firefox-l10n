@@ -133,18 +133,10 @@
 
 <!ENTITY search.label                              "ਖੋਜ:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "ਮੌਜੂਦਾ ਭੰਡਾਰ ਹੀ">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "ਸਭ ਬੁੱਕਮਾਰਕ">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "ਚੁਣਿਆ ਫੋਲਡਰ">
 <!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "ਸਭ ਬੁੱਕਮਾਰਕ">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "ਬੁੱਕਮਾਰਕ ਮੇਨੂ">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ">
-<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeBookmarks.label               "ਬੁੱਕਮਾਰਕ">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "ਡਾਊਨਲੋਡ">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ਅਤੀਤ">
