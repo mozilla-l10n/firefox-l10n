@@ -6,16 +6,21 @@
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "Ukloni ">
-<!ENTITY clearDuration.accesskey      "U">
-<!ENTITY clearDuration.lastHour       "posljednji sat">
-<!ENTITY clearDuration.last2Hours     "posljednja 2 sata">
-<!ENTITY clearDuration.last4Hours     "posljednja 4 sata">
-<!ENTITY clearDuration.today          "moju cjelodvnevnu povijest">
-<!ENTITY clearDuration.everything     "moju cijelu posvijest">
+<!ENTITY clearTimeDuration.label          "Vremeski opseg za čišćenje: ">
+<!ENTITY clearTimeDuration.accesskey      "o">
+<!ENTITY clearTimeDuration.lastHour       "zadnji sat">
+<!ENTITY clearTimeDuration.last2Hours     "zadnja dva sata">
+<!ENTITY clearTimeDuration.last4Hours     "zadnja četri sata">
+<!ENTITY clearTimeDuration.today          "danas">
+<!ENTITY clearTimeDuration.everything     "sve">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.dateColumn     "Posjeti dan">
+<!ENTITY clearTimeDuration.nameColumn     "Ime">
+
+<!ENTITY detailsProgressiveDisclosure.label     "Detalji">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "Povijest">
 <!ENTITY dataSection.label            "Podaci">

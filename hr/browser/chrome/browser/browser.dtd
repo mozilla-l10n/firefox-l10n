@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "Prikaži svoje zabilješke">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "i">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Povijest">
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "Povijest">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Nedavno zatvorene kartice">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Nedavno zatvorene kartice">
 
 <!ENTITY historyHomeCmd.label "Početna stranica">
 <!ENTITY showAllHistoryCmd2.label "Prikaži svu povijest">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Pretraži zabilješke i povijest">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Pretraži zabilješke i povijest">
+<!ENTITY urlbar.bookmark.emptyText    "Pretraži zabilješke">
+<!ENTITY urlbar.history.emptyText     "Pretraži povijest">
+<!ENTITY urlbar.none.emptyText        "Upišite web adresu">
 <!ENTITY urlbar.accesskey             "r">
 
 <!-- 

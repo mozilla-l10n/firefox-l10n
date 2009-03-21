@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Pretraga:">
 <!ENTITY search.accesskey                          "P">
-<!ENTITY search.collection.label                   "Samo trenutna kolekcija">
-<!ENTITY search.collection.accesskey               "k">
-<!ENTITY search.allBookmarks.label                 "Sve zabilješke">
-<!ENTITY search.allBookmarks.accesskey             "S">
 <!ENTITY search.scopeFolder.label                  "Odabrana mapa">
 <!ENTITY search.scopeFolder.accesskey              "m">
-<!ENTITY search.scopeAll.label                     "Sve zabilješke">
-<!ENTITY search.scopeAll.accesskey                 "z">
-<!ENTITY search.scopeMenu.label                    "Izbornik zabilješki">
-<!ENTITY search.scopeMenu.accesskey                "I">
-<!ENTITY search.scopeToolbar.label                 "Alatna traka zabilješki">
-<!ENTITY search.scopeToolbar.accesskey             "t">
+<!ENTITY search.scopeBookmarks.label               "Zabilješke">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "Preuzimanja">
 <!ENTITY search.scopeDownloads.accesskey           "r">
 <!ENTITY search.scopeHistory.label                 "Povijest">
