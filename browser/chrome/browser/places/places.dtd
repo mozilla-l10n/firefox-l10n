@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Sök:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "Endast denna grupp">
-<!ENTITY search.collection.accesskey               "E">
-<!ENTITY search.allBookmarks.label                 "Alla bokmärken">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "Markerad mapp">
 <!ENTITY search.scopeFolder.accesskey              "M">
-<!ENTITY search.scopeAll.label                     "Alla bokmärken">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "Bokmärken-menyn">
-<!ENTITY search.scopeMenu.accesskey                "B">
-<!ENTITY search.scopeToolbar.label                 "Bokmärkesfältet">
-<!ENTITY search.scopeToolbar.accesskey             "o">
+<!ENTITY search.scopeBookmarks.label               "Bokmärken">
+<!ENTITY search.scopeBookmarks.accesskey           "o">
 <!ENTITY search.scopeDownloads.label               "Filhämtningar">
 <!ENTITY search.scopeDownloads.accesskey           "F">
 <!ENTITY search.scopeHistory.label                 "Historik">
