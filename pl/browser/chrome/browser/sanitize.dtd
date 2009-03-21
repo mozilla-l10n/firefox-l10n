@@ -34,7 +34,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemBrowsingHistory.label         "Historia przeglądanych stron">
 <!ENTITY itemBrowsingHistory.accesskey     "H">
-<!ENTITY itemFormSearchHistory.label       "Dane formularzy i historię wyszukiwania">
+<!ENTITY itemFormSearchHistory.label       "Dane formularzy i historia wyszukiwania">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemPasswords.label               "Zapamiętane hasła">
 <!ENTITY itemPasswords.accesskey           "Z">
@@ -44,7 +44,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "P">
 <!ENTITY itemOfflineApps.label             "Dane witryn trybu offline">
 <!ENTITY itemOfflineApps.accesskey         "D">
-<!ENTITY itemDownloadHistory.label         "Historię pobranych plików">
+<!ENTITY itemDownloadHistory.label         "Historia pobranych plików">
 <!ENTITY itemDownloadHistory.accesskey     "b">
 <!ENTITY itemActiveLogins.label            "Aktywne zalogowania">
 <!ENTITY itemActiveLogins.accesskey        "A">
