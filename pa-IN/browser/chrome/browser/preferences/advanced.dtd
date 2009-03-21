@@ -83,9 +83,9 @@
 <!ENTITY encryptionTab.label             "ਇੰਕ੍ਰਿਪਸ਼ਨ">
 
 <!ENTITY protocols.label                 "ਪਰੋਟੋਕਾਲ">
-<!ENTITY useSSL3.label                   "SSL 3.0 ਵਰਤੋਂ">
+<!ENTITY useSSL3.label                   "SSL ੩.੦ ਵਰਤੋਂ">
 <!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 ਵਰਤੋਂ">
+<!ENTITY useTLS1.label                   "TLS ੧.੦ ਵਰਤੋਂ">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "ਸਰਟੀਫਿਕੇਟ">
 <!ENTITY certSelection.description          "ਜਦੋਂ ਇੱਕ ਵੈੱਬ ਸਾਈਟ ਨੂੰ ਇੱਕ ਸਰਟੀਫਿਕੇਟ ਦੀ ਲੋੜ ਹੋਵੇ:">

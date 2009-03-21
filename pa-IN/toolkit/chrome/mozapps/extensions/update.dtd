@@ -38,7 +38,7 @@
 <!ENTITY  adminDisabled.wizard.title      "ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰਨ ਲਈ ਅਸਫ਼ਲ ਹੈ">
 <!ENTITY  adminDisabled.warning.label     "ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਵਾਸਤੇ ਅੱਪਡੇਟ ਬਾਰੇ ਜਾਂਚ ਕਰਨੀ ਸੰਭਵ ਨਹੀਂ ਹੈ
                                            ਕਿਉਂਕਿ &brandShortName; ਲਈ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲੇਸ਼ਨ ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ।
-                                           ਮੱਦਦ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।">
+                                           ਮੱਦਦ ਲਈ ਆਪਣੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।">
 
 <!ENTITY  versioninfo.wizard.title        "ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਲਈ ਜਾਂਚ ਜਾਰੀ ਹੈ">
 <!ENTITY  versioninfo.top.label           "&brandShortName; ਦੇ ਇਹ ਵਰਜਨ ਨਾਲ ਇਸ ਐਂਡ-ਆਨ

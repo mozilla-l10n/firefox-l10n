@@ -1,61 +1,111 @@
-<!ENTITY  history.label "ਅਤੀਤ">
+<!ENTITY  history.label                 "ਅਤੀਤ">
 
-
-<!ENTITY  locbar.pre.label              "ਟਿਕਾਣਾ-ਬਾਰ ਦੀ ਜਦੋਂ ਵਰਤੋਂ ਹੋਵੇ ਤਾਂ ਸੁਝਾਅ:">
+<!ENTITY  locbar.pre.label              "ਜਦੋਂ ਮੈਂ ਟਿਕਾਣਾ ਪੱਟੀ ਦੀ ਵਰਤੋਂ ਕਰੋ ਤਾਂ ਸੁਝਾਅ ਦਿਓ:">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ">
 <!ENTITY  locbar.history.label          "ਅਤੀਤ">
 <!ENTITY  locbar.bookmarks.label        "ਬੁੱਕਮਾਰਕ">
 <!ENTITY  locbar.nothing.label          "ਕੁਝ ਨਹੀਂ">
+
 <!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
 
-  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "ਮੇਰਾ ਅਤੀਤ (ਹਿਸਟਰੀ) ਘੱਟੋ-ਘੱਟ">
+<!ENTITY  rememberDaysBefore.label      "ਮੇਰਾ ਅਤੀਤ ਘੱਟੋ-ਘੱਟ ">
 <!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "ਦਿਨ">
+<!ENTITY  rememberDaysAfter2.label      " ਦਿਨ ਰੱਖੋ">
 
-
-<!ENTITY  rememberForms.label           "ਜੋ ਕੁਝ ਮੈਂ ਫਾਰਮ ਅਤੇ ਖੋਜ ਪੱਟੀ ਵਿੱਚ ਭਰਿਆ ਹੈ ਯਾਦ ਰੱਖੋ">
+<!ENTITY  rememberForms.label           "Remember what I enter in forms and the search bar">
 <!ENTITY  rememberForms.accesskey       "f">
 
-<!ENTITY  rememberDownloads.label       "ਜੋ ਕਿ ਮੈਂ ਡਾਊਨਲੋਡ ਕੀਤਾ, ਯਾਦ ਰੱਖੋ">
+<!ENTITY  rememberDownloads.label       "Remember what I've downloaded">
 <!ENTITY  rememberDownloads.accesskey   "d">
 
 
 <!ENTITY  cookies.label                 "ਕੂਕੀਜ਼">
 
-<!ENTITY  acceptCookies.label           "ਸਾਇਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ">
+<!ENTITY  acceptCookies.label           "ਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ ਕਰੋ">
 <!ENTITY  acceptCookies.accesskey       "c">
 
 <!ENTITY  acceptThirdParty.label        "ਸੁਤੰਤਰ ਧਿਰ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ">
 <!ENTITY  acceptThirdParty.accesskey    "p">
 
-<!ENTITY  keepUntil.label               "ਉਦੋਂ ਤੱਕ ਰੱਖੋ:">
+<!ENTITY  keepUntil.label               "ਰੱਖੋ ਜਦੋਂ ਤੱਕ ਕਿ:">
 <!ENTITY  keepUntil.accesskey           "K">
 
-<!ENTITY  expire.label                  "ਉਹਨਾਂ ਦੀ ਮਿਆਦ ਖਤਮ ਨਹੀਂ ਹੁੰਦੀ">
+<!ENTITY  expire.label                  "ਉਨ੍ਹਾਂ ਦੀ ਮਿਆਦ ਹੋਵੇ">
 <!ENTITY  close.label                   "ਜਦੋਂ ਮੈਂ &brandShortName; ਬੰਦ ਕਰਾਂ">
-<!ENTITY  askEachTime.label             "ਹਰ ਵਾਰ ਮੈਨੂੰ ਪੁੱਛੋ">
+<!ENTITY  askEachTime.label             "ਮੈਨੂੰ ਹਰ ਵਾਰ ਪੁੱਛੋ">
 
-<!ENTITY  cookieExceptions.label        "ਛੋਟ (ਅਪਵਾਦ)...">
+<!ENTITY  cookieExceptions.label        "ਛੋਟ…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "ਕੂਕੀਜ਼ ਵੇਖੋ...">
+<!ENTITY  showCookies.label             "ਕੂਕੀਜ਼ ਵੇਖੋ…">
 <!ENTITY  showCookies.accesskey         "S">
+
 
 <!ENTITY  privateData.label             "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ">
 
-
-<!ENTITY  alwaysClear.label              "ਜਦੋਂ ਮੈਂ &brandShortName; ਨੂੰ ਬੰਦ ਕਰਾਂ ਤਾਂ ਹਮੇਸ਼ਾ ਮੇਰਾ ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY  alwaysClear.label              "Always clear my private data when I close &brandShortName;">
 <!ENTITY  alwaysClear.accesskey          "w">
 
-<!ENTITY  clearDataSettings.label        "ਸੈਟਿੰਗ...">
+<!ENTITY  clearDataSettings.label        "ਸੈਟਿੰਗ…">
 <!ENTITY  clearDataSettings.accesskey    "t">
 
+<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "Remember history">
+<!ENTITY  historyHeader.dontremember.label "Never remember history">
+<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
+<!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  clearDataNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ...">
+<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from Web sites you visit.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "You may want to ">
+<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
+<!ENTITY  rememberActions.middle.label        ", or ">
+<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
+<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Automatically start &brandShortName; in a private browsing session">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Remember my browsing history for at least">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "days">
+
+<!ENTITY  rememberDownload.label         "Remember download history">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "Remember search and form history">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
+<!ENTITY  clearOnClose.accesskey         "w">
+
+<!ENTITY  clearOnCloseSettings.label     "Settings…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  clearDataNow.label             "Clear Now…">
 <!ENTITY  clearDataNow.accesskey         "N">
+
