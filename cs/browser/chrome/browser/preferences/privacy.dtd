@@ -1,5 +1,7 @@
 <!ENTITY history.label "Historie">
 
+<!ENTITY locationBar.label "Adresní řádek">
+
 <!ENTITY locbar.pre.label "Při použití adresního řádku našeptávat:">
 <!ENTITY locbar.pre.accessKey "P">
 <!ENTITY locbar.post.label "">
