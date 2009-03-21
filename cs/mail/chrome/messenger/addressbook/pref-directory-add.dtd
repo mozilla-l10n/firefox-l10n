@@ -65,6 +65,13 @@
 <!ENTITY return.accesskey "N">
 <!ENTITY results.label "výsledků">
 <!ENTITY offlineText.label "Můžete si stáhnout místní kopii kontaktů, takže bude přístupná pro použití i v režimu offline.">
+<!ENTITY saslMechanism.label "Způsob přihlášení: ">
+<!ENTITY saslMechanism.accesskey "Z">
+<!ENTITY saslOff.label "Jednoduchý">
+<!ENTITY saslOff.accesskey "J">
+<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey "K">
+
 <!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

@@ -1,13 +1,14 @@
 <!ENTITY restorepage.tabtitle "Obnovení relace">
-<!ENTITY restorepage.pagetitle "Chcete obnovit vaši relaci?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "Předchozí relace aplikace &brandShortName; skončila neočekávaně. Omlouváme se za nepříjemnosti. Nyní můžete obnovit otevřené panely a okna původní relace a nebo začít novou relaci, pokud je již nepotřebujete.">
-<!ENTITY restorepage.remedies "Pokud se &brandShortName; ukončuje opakovaně:">
-<!ENTITY restorepage.dueToChrome "Zkuste pomocí Správce doplňků odebrat některý z naposledy přidaných doplňků.">
-<!ENTITY restorepage.dueToContent "Zkuste obnovit relaci bez webové stránky, o které si myslíte, že způsobuje pád:">
 
-<!ENTITY restorepage.restoreButton "Obnovit předchozí relaci">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+ and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle "Ale toto je nepříjemné.">
+<!ENTITY restorepage.problemDesc "&brandShortName; má potíže s obnovením otevřených oken a panelů, což je většinou způsobeno některou z naposledy otevřených webových stránek.">
+<!ENTITY restorepage.tryThis "Můžete zkusit:">
+<!ENTITY restorepage.restoreSome "Odebrat jeden nebo více problémových panelů">
+<!ENTITY restorepage.startNew "Začít s prohlížením v nové relaci">
+
+<!ENTITY restorepage.tryagainButton "Obnovit">
 <!ENTITY restorepage.restore.access "O">
 <!ENTITY restorepage.cancelButton "Začít novou relaci">
 <!ENTITY restorepage.cancel.access "Z">
