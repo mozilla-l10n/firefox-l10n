@@ -1,5 +1,7 @@
 <!ENTITY history.label "Historio">
 
+<!ENTITY locationBar.label "Retadresa strio">
+
 <!ENTITY locbar.pre.label "Dum uzado de la retadresa strio, sugesti el:">
 <!ENTITY locbar.pre.accessKey "r">
 <!ENTITY locbar.post.label "">
