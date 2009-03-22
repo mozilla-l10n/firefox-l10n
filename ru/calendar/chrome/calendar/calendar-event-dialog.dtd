@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,8 +44,6 @@
 
 <!ENTITY event.title.label                  "Изменить" >
 
-<!ENTITY newevent.before.label              "до" >
-<!ENTITY newevent.after.label               "после" >
 
 <!ENTITY newevent.from.label                "С" >
 <!ENTITY newevent.to.label                  "По" >
@@ -72,8 +71,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "о">
 <!ENTITY  event.menu.file.new.message.label               "Сообщение">
 <!ENTITY  event.menu.file.new.message.accesskey           "б">
-<!ENTITY  event.menu.file.new.address.label               "Карточку адресной книги">
-<!ENTITY  event.menu.file.new.address.accesskey           "К">
+<!ENTITY  event.menu.file.new.contact.label               "Карточку адресной книги">
+<!ENTITY  event.menu.file.new.contact.accesskey           "К">
 <!ENTITY  event.menu.file.close.label                     "Закрыть">
 <!ENTITY  event.menu.file.close.accesskey                 "З">
 <!ENTITY  event.menu.file.save.label                      "Сохранить">
@@ -259,13 +258,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Каждый" >
 <!ENTITY repeat.units.months.both                       "месяц" >
-<!ENTITY event.recurrence.the.label                     "" >
-<!ENTITY event.recurrence.repeat.first.label            "первый">
-<!ENTITY event.recurrence.repeat.second.label           "второй">
-<!ENTITY event.recurrence.repeat.third.label            "третий">
-<!ENTITY event.recurrence.repeat.fourth.label           "четвёртый">
-<!ENTITY event.recurrence.repeat.fifth.label            "пятый">
-<!ENTITY event.recurrence.repeat.last.label             "последний">
+<!ENTITY event.recurrence.monthly.every.label           "Каждый" >
+<!ENTITY event.recurrence.monthly.first.label           "первый">
+<!ENTITY event.recurrence.monthly.second.label          "второй">
+<!ENTITY event.recurrence.monthly.third.label           "третий">
+<!ENTITY event.recurrence.monthly.fourth.label          "четвёртый">
+<!ENTITY event.recurrence.monthly.fifth.label           "пятый">
+<!ENTITY event.recurrence.monthly.last.label            "последний">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Воскресенье" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Понедельник" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Вторник" >
@@ -279,7 +278,6 @@
 <!ENTITY event.recurrence.every.label                        "Каждый:" >
 <!ENTITY repeat.units.years.both                             "год" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Каждый" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Каждый" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -302,12 +300,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Октябрь" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "Ноябрь " >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "Декабрь" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "Первый">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "Второй">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "Третий">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "Четвёртый">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "Пятый">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "Последний">
+<!ENTITY event.recurrence.yearly.every.label                 "Каждый">
+<!ENTITY event.recurrence.yearly.first.label                 "первый">
+<!ENTITY event.recurrence.yearly.second.label                "второй">
+<!ENTITY event.recurrence.yearly.third.label                 "третий">
+<!ENTITY event.recurrence.yearly.fourth.label                "четвёртый">
+<!ENTITY event.recurrence.yearly.fifth.label                 "пятый">
+<!ENTITY event.recurrence.yearly.last.label                  "последний">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Воскресенье" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Понедельник" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Вторник" >
@@ -336,39 +335,20 @@
 <!ENTITY event.repeat.until.label                       "Повторять до" >
 <!ENTITY event.recurrence.preview.label                 "Предварительный просмотр">
 
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "минут" >
-<!ENTITY alarm.units.hours                  "часов" >
-<!ENTITY alarm.units.days                   "дней" >
-
-<!ENTITY reminder.title.label                           "Настройка напоминания">
-<!ENTITY reminder.dialogtitle.label                     "Установка напоминания">
-<!ENTITY reminder.reminderDetails.label                 "Детали напоминания">
-<!ENTITY reminder.action.label                          "Выберите действие для напоминания">
-<!ENTITY reminder.action.alert.label                    "Показать всплывающее окно">
-<!ENTITY reminder.action.email.label                    "Отправить электронное письмо">
-<!ENTITY reminder.new.label                             "Создать">
-<!ENTITY reminder.delete.label                          "Удалить">
-<!ENTITY reminder.relation.start.label                  "начало события">
-<!ENTITY reminder.relation.end.label                    "конец события">
-<!ENTITY reminder.add.label                             "Добавить">
-<!ENTITY reminder.add.accesskey                         "Д">
-<!ENTITY reminder.remove.label                          "Удалить">
-<!ENTITY reminder.remove.accesskey                      "У">
-
-
-<!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Приглашение участников">
-<!ENTITY event.organizer.label           "Организатор">
-<!ENTITY event.freebusy.suggest.slot     "Предложить отрезок времени:">
-<!ENTITY event.freebusy.next.slot        "Следующий отрезок " >
-<!ENTITY event.freebusy.previous.slot    " Предыдущий отрезок" >
-<!ENTITY event.freebusy.zoom             "Масштаб:">
-<!ENTITY event.freebusy.plus             "Следующий час" >
-<!ENTITY event.freebusy.minus            "Предыдущий час" >
-<!ENTITY event.freebusy.legend.free      "Свободен" >
-<!ENTITY event.freebusy.legend.busy      "Занят" >
-<!ENTITY event.freebusy.legend.unknown   "Нет информации" >
+<<!-- Attendees dialog -->
+<!ENTITY invite.title.label                     "Приглашение участников">
+<!ENTITY event.organizer.label                  "Организатор">
+<!ENTITY event.freebusy.suggest.slot            "Предложить отрезок времени:">
+<!ENTITY event.freebusy.next.slot               "Следующий отрезок " >
+<!ENTITY event.freebusy.previous.slot           " Предыдущий отрезок" >
+<!ENTITY event.freebusy.zoom                    "Масштаб:">
+<!ENTITY event.freebusy.plus                    "Следующий час" >
+<!ENTITY event.freebusy.minus                   "Предыдущий час" >
+<!ENTITY event.freebusy.legend.free             "Свободен" >
+<!ENTITY event.freebusy.legend.busy             "Занят" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Неопределено" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Нет на месте" >
+<!ENTITY event.freebusy.legend.unknown          "Нет информации" >
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Укажите часовой пояс">

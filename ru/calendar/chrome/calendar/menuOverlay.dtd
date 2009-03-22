@@ -70,11 +70,6 @@
 <!ENTITY calendar.publish.label                 "Публикация…">
 <!ENTITY calendar.publish.accesskey             "у">
 
-<!ENTITY calendar.toolbar.label                 "Панель календаря">
-<!ENTITY calendar.toolbar.accesskey             "к">
-<!ENTITY task.toolbar.label                     "Панель задач">
-<!ENTITY task.toolbar.accesskey                 "з">
-
 <!ENTITY calendar.menu.customize.label          "Настроить…">
 <!ENTITY calendar.menu.customize.accesskey      "Н">
 

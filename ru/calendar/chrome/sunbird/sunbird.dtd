@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "Печать календаря" >
 <!ENTITY sunbird.delete.button.tooltip                     "Удалить выбранные события" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Обновить все удалённые календари" >
+<!ENTITY sunbird.import.button.tooltip                     "Импортировать события из локального файла" >
+<!ENTITY sunbird.export.button.tooltip                     "Экспортировать события в локальный файл" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Подписаться на календарь, расположенный на удалённом компьютере" >
+<!ENTITY sunbird.publish.button.tooltip                    "Опубликовать события на удалённом компьютере" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Найти и составить список событий" >
+<!ENTITY sunbird.edit.button.tooltip                       "Изменить выбранное событие" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Перейти к дате" >
 <!ENTITY sunbird.cut.button.label                          "Вырезать" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "Вставить" >
 <!ENTITY sunbird.delete.button.label                       "Удалить" >
 <!ENTITY sunbird.remotereload.button.label                 "Обновить" >
+<!ENTITY sunbird.import.button.label                       "Импорт" >
+<!ENTITY sunbird.export.button.label                       "Экспорт" >
+<!ENTITY sunbird.subscribe.button.label                    "Подписка" >
+<!ENTITY sunbird.publish.button.label                      "Публикация" >
+<!ENTITY sunbird.unifinder.button.label                    "Найти события" >
+<!ENTITY sunbird.edit.button.label                         "Правка" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Перейти к дате" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Обзор дня" >
