@@ -192,6 +192,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "جستجو در چوب‌الف‌ها و تاریخچه">
+<!ENTITY urlbar.bookmarkhistory.emptyText "جستجو در چوب‌الف‌ها و تاریخچه">
+<!ENTITY urlbar.bookmark.emptyText    "جستجو در چوب‌الف‌ها">
+<!ENTITY urlbar.history.emptyText     "جستجو در تاریخچه">
+<!ENTITY urlbar.none.emptyText        "یک نشانی وبی وارد کنید">
 <!ENTITY urlbar.accesskey             "م">
 
 <!-- 
