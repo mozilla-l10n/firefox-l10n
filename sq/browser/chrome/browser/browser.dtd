@@ -387,8 +387,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Shfletim Vetjak)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Nis Shfletimin Vetjak">
@@ -396,4 +394,15 @@
 <!ENTITY privateBrowsingCmd.stop.label          "Ndale Shfletimin Vetjak">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "N">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
+
+
+
+<!ENTITY feedButton.tooltip           "Pajtohu te kjo faqe…">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Dritare të mbyllura Së Fundmi">
+<!ENTITY newTabButton.tooltip           "Hap skedë të re">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Kërko në Faqerojtësa dhe Historik">
+<!ENTITY urlbar.bookmark.emptyText    "Kërko në Faqerojtësa">
+<!ENTITY urlbar.history.emptyText     "Kërko në Historik">
+<!ENTITY urlbar.none.emptyText        "Shtypni një vendndodhje Web">
 
