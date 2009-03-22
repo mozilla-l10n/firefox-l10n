@@ -64,7 +64,7 @@
 <!ENTITY  historyHeader.custom.label       "Använda anpassade inställningar för historiken">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; kommer att spara information om besökta webbsidor, filhämtningar, formulär och sökhistorik, samt spara kakor från webbplatser du besöker.">
+<!ENTITY  rememberDescription.label      "&brandShortName; kommer att spara information om besökta webbsidor, filhämtningar, formulär- och sökhistorik, samt spara kakor från webbplatser du besöker.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
