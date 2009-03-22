@@ -71,8 +71,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "G">
 <!ENTITY  event.menu.file.new.message.label               "Bericht">
 <!ENTITY  event.menu.file.new.message.accesskey           "B">
-<!ENTITY  event.menu.file.new.address.label               "Adresboekkaart">
-<!ENTITY  event.menu.file.new.address.accesskey           "k">
+<!ENTITY  event.menu.file.new.contact.label               "Adresboekcontact">
+<!ENTITY  event.menu.file.new.contact.accesskey           "c">
 <!ENTITY  event.menu.file.close.label                     "Sluiten">
 <!ENTITY  event.menu.file.close.accesskey                 "S">
 <!ENTITY  event.menu.file.save.label                      "Opslaan">
