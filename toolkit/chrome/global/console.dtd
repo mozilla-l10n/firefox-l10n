@@ -47,8 +47,8 @@
 <!ENTITY warnings.accesskey "A">
 <!ENTITY messages.label "Messaggi">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label "Svuota">
-<!ENTITY clear.accesskey "S">
+<!ENTITY clear.label "Cancella tutto">
+<!ENTITY clear.accesskey "C">
 <!ENTITY codeEval.label "Codice:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label "Valuta">
