@@ -1,6 +1,8 @@
 <!ENTITY  history.label                 "Historiatiedot">
 
-<!ENTITY  locbar.pre.label              "Kirjoitettaessa osoitepalkkiin, näytä vastaavia osoitteita:">
+<!ENTITY  locationBar.label             "Osoitepalkki">
+
+<!ENTITY  locbar.pre.label              "Ehdota osoitepalkissa sivuja:">
 <!ENTITY  locbar.pre.accessKey          "K">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Sivuhistoriasta ja kirjanmerkeistä">
@@ -27,7 +29,7 @@
 
 <!ENTITY  cookies.label                 "Evästeet">
 
-<!ENTITY  acceptCookies.label           "Sivustot voivat asettaa evästeitä">
+<!ENTITY  acceptCookies.label           "Sivustot saavat asettaa evästeitä">
 <!ENTITY  acceptCookies.accesskey       "v">
 
 <!ENTITY  acceptThirdParty.label        "Salli kolmannen osapuolen evästeet">
@@ -49,11 +51,62 @@
 
 <!ENTITY  privateData.label             "Yksityisyystiedot">
 
-<!ENTITY  alwaysClear.label              "Tyhjennä valitut yksityisyystiedot, aina kun &brandShortName; suljetaan">
-<!ENTITY  alwaysClear.accesskey          "h">
+<!ENTITY  alwaysClear.label              "Poista valitut yksityisyystiedot, aina kun &brandShortName; suljetaan">
+<!ENTITY  alwaysClear.accesskey          "o">
 
 <!ENTITY  clearDataSettings.label        "Asetukset…">
 <!ENTITY  clearDataSettings.accesskey    "A">
 
-<!ENTITY  clearDataNow.label             "Tyhjennä heti…">
-<!ENTITY  clearDataNow.accesskey         "e">
+<!ENTITY  historyHeader.pre.label          "">
+<!ENTITY  historyHeader.pre.accesskey      "h">
+<!ENTITY  historyHeader.remember.label     "Säilytä täydelliset historiatiedot">
+<!ENTITY  historyHeader.dontremember.label "Älä säilytä mitään historiatietoja">
+<!ENTITY  historyHeader.custom.label       "Valitse säilytettävät tiedot">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; kerää ja säilyttää sivu-, lataus-, lomake- ja hakuhistoriatietoja sekä evästeet sivuilta, joilla olet käynyt.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Voit halutessasi ">
+<!ENTITY  rememberActions.clearHistory.label  "poistaa joitain historiatietoja">
+<!ENTITY  rememberActions.middle.label        " tai ">
+<!ENTITY  rememberActions.removeCookies.label "poistaa yksittäisiä evästeitä">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Voit halutessasi myös ">
+<!ENTITY  dontrememberActions.clearHistory.label "poistaa kaikki kerätyt historiatiedot">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Käynnistä &brandShortName; automaattisesti yksityiseen selaustilaan">
+<!ENTITY  privateBrowsingAutoStart.accesskey "y">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Säilytä sivuhistoria ainakin">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "päivältä">
+
+<!ENTITY  rememberDownload.label         "Säilytä tieto ladatuista tiedostoista">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "Säilytä lomakkeiden ja hakupalkin tiedot">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Poista historiatiedot kun &brandShortName; suljetaan">
+<!ENTITY  clearOnClose.accesskey         "k">
+
+<!ENTITY  clearOnCloseSettings.label     "Asetukset…">
+<!ENTITY  clearOnCloseSettings.accesskey "A">
+
+<!ENTITY  clearDataNow.label             "Poista tietoja…">
+<!ENTITY  clearDataNow.accesskey         "P">

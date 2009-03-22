@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label  "Tilatut RSS-syötteet">
+<!ENTITY feedSubscriptions.label "Tilatut syötteet">
 <!ENTITY subscriptionDesc.label  "Huom.: Syötteen kansion poistaminen tai vaihtaminen ei vaikuta aiemmin ladattuihin artikkeleihin.">
 <!ENTITY feedTitle.label  "Otsikko:">
 <!ENTITY location.label   "Osoite:">

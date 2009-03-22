@@ -9,5 +9,5 @@
 <!ENTITY paneDisplay.title         "Viestin näyttö">
 <!ENTITY paneComposition.title     "Viestin kirjoitus">
 <!ENTITY paneAttachments.title     "Liitetiedostot">
-<!ENTITY panePrivacy.title         "Tietosuoja">
+<!ENTITY paneSecurity.title       "Turvallisuus">
 <!ENTITY paneAdvanced.title        "Lisäasetukset">
