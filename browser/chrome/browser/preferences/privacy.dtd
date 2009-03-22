@@ -1,5 +1,7 @@
 <!ENTITY  history.label                 "Historik">
 
+<!ENTITY  locationBar.label             "Adressfältet">
+
 <!ENTITY  locbar.pre.label              "Ge förslag i Adressfältet från:">
 <!ENTITY  locbar.pre.accessKey          "G">
 <!ENTITY  locbar.post.label             "">
