@@ -112,3 +112,8 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  locationBar.label             "Shtyllë Vendndodhjesh">
+
+<!ENTITY  clearOnClose.label             "Pastroje historikun kur mbyllet &brandShortName;-i">
+<!ENTITY  clearOnClose.accesskey         "p">
+
+<!ENTITY  rememberDescription.label      "&brandShortName;-i do të mbajë mend historikun e shfletimeve tuaja, shkarkimeve, kërkimeve dhe formularëve, dhe do të depozitojë &quot;cookies&quot; prej &quot;site&quot;-eve Web që vizitoni.">
