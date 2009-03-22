@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "Viser bokmerkene dine">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historikk">
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "Historikk">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Nylig lukkede faner">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Nylig lukkede vinduer">
 
 <!ENTITY historyHomeCmd.label "Hjem">
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Søk i bokmerker og historikk">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Søk i bokmerker og historikk">
+<!ENTITY urlbar.bookmark.emptyText    "Søk i bokmerker">
+<!ENTITY urlbar.history.emptyText     "Søk i historikk">
+<!ENTITY urlbar.none.emptyText        "Skriv inn nettadresse">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 

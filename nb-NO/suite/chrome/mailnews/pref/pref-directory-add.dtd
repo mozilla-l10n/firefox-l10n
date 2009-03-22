@@ -65,6 +65,13 @@
 <!ENTITY return.accesskey                  "I">
 <!ENTITY results.label                     "resultater">
 <!ENTITY offlineText.label                 "Du kan laste ned en lokal kopi av denne katalogen slik at den er tilgjengelig for deg når du arbeider i frakoblet modus.">
+<!ENTITY saslMechanism.label               "Innloggingsmetode: ">
+<!ENTITY saslMechanism.accesskey           "n">
+<!ENTITY saslOff.label                     "Enkel">
+<!ENTITY saslOff.accesskey		   "E">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey		   "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

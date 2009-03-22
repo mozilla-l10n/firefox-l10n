@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Søk:">
 <!ENTITY search.accesskey                          "ø">
-<!ENTITY search.collection.label                   "Bare i nåværende samling">
-<!ENTITY search.collection.accesskey               "B">
-<!ENTITY search.allBookmarks.label                 "Alle bokmerker">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "Valgt mappe">
 <!ENTITY search.scopeFolder.accesskey              "V">
-<!ENTITY search.scopeAll.label                     "Alle bokmerker">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "Bokmerkemeny">
-<!ENTITY search.scopeMenu.accesskey                "o">
-<!ENTITY search.scopeToolbar.label                 "Verktøylinje">
-<!ENTITY search.scopeToolbar.accesskey             "V">
+<!ENTITY search.scopeBookmarks.label               "Bokmerker">
+<!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY search.scopeDownloads.label               "Nedlastinger">
 <!ENTITY search.scopeDownloads.accesskey           "N">
 <!ENTITY search.scopeHistory.label                 "Historikk">
