@@ -123,24 +123,17 @@
 
 <!ENTITY search.label                              "Kërko në:">
 <!ENTITY search.accesskey                          "K">
-<!ENTITY search.collection.label                   "Vetëm në Përmbledhjen e Tanishme">
-<!ENTITY search.collection.accesskey               "P">
-<!ENTITY search.allBookmarks.label                 "Tërë Faqerojtësit">
-<!ENTITY search.allBookmarks.accesskey             "T">
 <!ENTITY search.scopeFolder.label                  "Dosjen e Përzgjedhur">
-<!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "Tërë Faqerojtësit">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "Menunë e Faqerojtësave">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "Panelin e Faqerojtësave">
-<!ENTITY search.scopeToolbar.accesskey             "P">
-<!ENTITY search.scopeDownloads.label               "Shkarkime">
-<!ENTITY search.scopeDownloads.accesskey           "K">
+<!ENTITY search.scopeFolder.accesskey              "D">
+<!ENTITY search.scopeDownloads.label               "Shkarkimet">
+<!ENTITY search.scopeDownloads.accesskey           "S">
 <!ENTITY search.scopeHistory.label                 "Historik">
 <!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "Shfaq krijues kërkimesh">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "Fshih krijues kërkimesh">
+<!ENTITY search.scopeBookmarks.label               "Faqerojtësa">
+<!ENTITY search.scopeBookmarks.accesskey           "F">
+
 <!ENTITY saveSearch.label                          "Ruaje">
 <!ENTITY saveSearch.accesskey                      "R">
 <!ENTITY moreCriteria.label                        "+">
