@@ -65,6 +65,13 @@
 <!ENTITY return.accesskey                  "m">
 <!ENTITY results.label                     "resultaten weergeven">
 <!ENTITY offlineText.label                 "U kunt een lokale kopie van deze directory downloaden, zodat deze beschikbaar is voor offlinegebruik.">
+<!ENTITY saslMechanism.label               "Loginmethode: ">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslOff.label                     "Simpel">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
