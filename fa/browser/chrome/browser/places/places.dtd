@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "جستجو:">
 <!ENTITY search.accesskey                          "ج">
-<!ENTITY search.collection.label                   "تنها در مجموعهٔ فعلی">
-<!ENTITY search.collection.accesskey               "ف">
-<!ENTITY search.allBookmarks.label                 "همهٔ چوب‌الف‌ها">
-<!ENTITY search.allBookmarks.accesskey             "ه">
 <!ENTITY search.scopeFolder.label                  "پوشهٔ انتخاب شده">
 <!ENTITY search.scopeFolder.accesskey              "پ">
-<!ENTITY search.scopeAll.label                     "همهٔ چوب‌الف‌ها">
-<!ENTITY search.scopeAll.accesskey                 "ه">
-<!ENTITY search.scopeMenu.label                    "منوی چوب‌الف‌ها">
-<!ENTITY search.scopeMenu.accesskey                "م">
-<!ENTITY search.scopeToolbar.label                 "نوار ابزار چوب‌الف‌ها">
-<!ENTITY search.scopeToolbar.accesskey             "ن">
+<!ENTITY search.scopeBookmarks.label               "چوب‌الف‌ها">
+<!ENTITY search.scopeBookmarks.accesskey           "چ">
 <!ENTITY search.scopeDownloads.label               "بارگیری‌ها">
 <!ENTITY search.scopeDownloads.accesskey           "ب">
 <!ENTITY search.scopeHistory.label                 "تاریخچه">
