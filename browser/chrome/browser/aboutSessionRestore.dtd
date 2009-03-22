@@ -1,13 +1,10 @@
+<!ENTITY restorepage.errorTitle     "Hmmm, kjo na vë në siklet.">
+<!ENTITY restorepage.problemDesc    "&brandShortName;-i po ka probleme me rikthimin e dritareve dhe skedave tuaja. Kjo shkaktohet zakonisht nga një faqe web e hapur së fundmi.">
+<!ENTITY restorepage.tryThis        "Mund të bëni provë:">
+<!ENTITY restorepage.restoreSome    "Të hiqni një ose më shumë skeda që mendoni se mund të jenë shkak i problemit">
+<!ENTITY restorepage.startNew       "Të filloni një sesion krejtësisht të ri shfletimi">
+<!ENTITY restorepage.tryagainButton "Rikthe">
 <!ENTITY restorepage.tabtitle       "Rikthe Sesionin">
-<!ENTITY restorepage.pagetitle      "Do të Donit të Riktheni Sesionin Tuaj?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Sesioni juaj i mëparshëm i  &brandShortName;-it u mbyll papritmas. Ju kërkojmë ndjesë sinqerisht për këtë mangësi. Mund të riktheni skedat dhe dritaret e sesionit të mëparshëm, ose të nisni një sesion të ri nëse ato nuk ju duhen më.">
-<!ENTITY restorepage.remedies       "Po qe se &brandShortName;-i mbyllet në mënyrë të përsëritur:">
-<!ENTITY restorepage.dueToChrome    "Provoni të çaktivizoni te Përgjegjësi i Shtesave cilindo zgjerim të shtuar së fundmi.">
-<!ENTITY restorepage.dueToContent   "Provoni të riktheni sesionin tuaj pa ndonjë faqe Web për të cilën dyshoni se mund të shkaktojë problemin:">
-
-<!ENTITY restorepage.restoreButton  "Rikthe Sesionin e Mëparshëm">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "Nis Sesion të Ri">
 <!ENTITY restorepage.cancel.access  "N">
