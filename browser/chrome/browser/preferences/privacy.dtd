@@ -1,4 +1,5 @@
 <!ENTITY history.label "Historial">
+<!ENTITY locationBar.label "Barra de direcciones">
 <!ENTITY locbar.pre.label "Cuando se use la barra de direcciones, sugerir:">
 <!ENTITY locbar.pre.accessKey "l">
 <!ENTITY locbar.post.label "">
