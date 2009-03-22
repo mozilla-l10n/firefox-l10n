@@ -16,14 +16,14 @@
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "تاریخچهٔ من را حداقل">
+<!ENTITY  rememberDaysBefore.label      "تاریخچهٔ من حداقل">
 <!ENTITY  rememberDaysBefore.accesskey  "ت">
-<!ENTITY  rememberDaysAfter2.label      "روز نگهداری کن">
+<!ENTITY  rememberDaysAfter2.label      "روز نگهداری شود">
 
-<!ENTITY  rememberForms.label           "اطلاعاتی که در فرم‌های صفحات وب و نوار جستجو وارد می‌شوند را خاطر سپرده شوند.">
+<!ENTITY  rememberForms.label           "اطلاعاتی که در فرم‌های صفحات وب و نوار جستجو وارد می‌شوند به خاطر سپرده شوند.">
 <!ENTITY  rememberForms.accesskey       "ط">
 
-<!ENTITY  rememberDownloads.label       "فایل‌های بارگیری‌شده به خاطر سپرده شوند">
+<!ENTITY  rememberDownloads.label       "پرونده‌های بارگیری‌شده به خاطر سپرده شوند">
 <!ENTITY  rememberDownloads.accesskey   "خ">
 
 
