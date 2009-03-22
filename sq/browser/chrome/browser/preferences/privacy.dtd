@@ -51,8 +51,6 @@
 <!ENTITY  clearDataSettings.label        "Rregullime…">
 <!ENTITY  clearDataSettings.accesskey    "R">
 
-<!ENTITY  clearDataNow.label             "Pastroje Tani…">
-<!ENTITY  clearDataNow.accesskey         "T">
 <!ENTITY  acceptThirdParty.label        "Prano &quot;cookie&quot; palësh të treta">
 <!ENTITY  acceptThirdParty.accesskey    "e">
 
@@ -64,3 +62,53 @@
 <!ENTITY  locbar.bookmarks.label        "Shfletuesa">
 <!ENTITY  locbar.nothing.label          "Asgjë">
 
+
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Mba mend historikun tim të shfletimit për të paktën">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "ditë">
+
+<!ENTITY  rememberSearchForm.label       "Mba mend historik shfletimesh dhe formularësh">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  rememberDownload.label         "Mba mend historik shkarkimesh">
+<!ENTITY  rememberDownload.accesskey     "s">
+
+<!ENTITY  clearOnCloseSettings.label     "Rregullime…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Mund të dëshironi të ">
+<!ENTITY  rememberActions.clearHistory.label  "pastroni historikun tuaj së fundmi">
+<!ENTITY  rememberActions.middle.label        ", ose ">
+<!ENTITY  rememberActions.removeCookies.label "hiqni &quot;cookies&quot; individuale">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName;-i do të përdorë të njëjtat rregullime si të shfletimit vetjak, dhe nuk do të mbajë mend ndonjë historik ndërkohë që shfletoni në Web.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Mund të doni po ashtu të ">
+<!ENTITY  dontrememberActions.clearHistory.label "pastroni tërë historikun tuja të tanishëm">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Nise vetvetiu &brandShortName;-in në sesion shfletimi vetjak">
+<!ENTITY  privateBrowsingAutoStart.accesskey "N">
+
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName;-i:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "Do të mbajë mend historikun">
+<!ENTITY  historyHeader.dontremember.label "Nuk do ta mbajë mend historikun">
+<!ENTITY  historyHeader.custom.label       "Do të përdorë rregullime vetjake për historikun">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  locationBar.label             "Shtyllë Vendndodhjesh">
