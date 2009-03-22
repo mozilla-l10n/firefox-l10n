@@ -2,7 +2,7 @@
 <!ENTITY sanitizeDialog2.title         "Rensa ut tidigare historik">
 
 <!ENTITY sanitizeItems.label          "Ta bort följande poster:">
-<!ENTITY clearDataSettings2.label     "När jag avslutar &brandShortName; ska följande tas bort automatiskt:">
+<!ENTITY clearDataSettings2.label     "När &brandShortName; avslutas ska följande tas bort automatiskt:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
