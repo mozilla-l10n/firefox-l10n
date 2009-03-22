@@ -185,6 +185,8 @@
 <!ENTITY historyMenu.label "تاریخچه">
 <!ENTITY historyMenu.accesskey "ت">
 <!ENTITY historyUndoMenu.label "زبانه‌های تازه بسته‌شده">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "پنجره‌های تازه بسته‌شده">
 
 <!ENTITY historyHomeCmd.label "آغازه">
 <!ENTITY showAllHistoryCmd2.label "نمایش تمام تاریخچه">
