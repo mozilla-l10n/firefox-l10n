@@ -51,9 +51,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newtask.button.tooltip          "Создать новую задачу" >
 <!ENTITY calendar.newevent.button.tooltip         "Создать новое событие" >
-<!ENTITY calendar.edit.button.tooltip             "Редактировать выбранное событие" >
+<!ENTITY calendar.newtask.button.tooltip          "Создать новую задачу" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Задачи" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Показать выполненные задачи">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "Перейти на сегодня" >
 <!ENTITY calendar.todaypane.button.tooltip        "Показать мероприятия на сегодня" >
-<!ENTITY calendar.unifinder.button.tooltip        "Найти и составить список событий" >
 
 <!ENTITY calendar.day.button.tooltip            "Перейти к обзору дня" >
 <!ENTITY calendar.week.button.tooltip           "Перейти к обзору недели" >
@@ -102,23 +100,11 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Следующий месяц" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Предыдущий месяц" >
 
-<!ENTITY calendar.newtask.button.label          "Новая задача" >
 <!ENTITY calendar.newevent.button.label         "Новое событие" >
-<!ENTITY calendar.edit.button.label             "Изменить" >
+<!ENTITY calendar.newtask.button.label          "Новая задача" >
 <!ENTITY calendar.print.button.label            "Печать" >
 
-<!ENTITY calendar.import.button.tooltip            "Импортировать события из локального файла" >
-<!ENTITY calendar.export.button.tooltip            "Экспортировать события в локальный файл" >
-<!ENTITY calendar.subscribe.button.tooltip         "Подписаться на календарь, расположенный на удалённом компьютере" >
-<!ENTITY calendar.publish.button.tooltip           "Опубликовать события на удалённом компьютере" >
-
 <!ENTITY calendar.export.calendar                "Экспорт календаря…" >
-
-<!ENTITY calendar.import.button.label              "Импорт" >
-<!ENTITY calendar.export.button.label              "Экспорт" >
-<!ENTITY calendar.subscribe.button.label           "Подписаться" >
-<!ENTITY calendar.publish.button.label             "Публикация" >
-<!ENTITY calendar.unifinder.button.label           "Найти события" >
 
 <!ENTITY calendar.day.button.label              "День" >
 <!ENTITY calendar.week.button.label             "Неделя" >
@@ -154,15 +140,15 @@
 <!ENTITY calendar.task.filter.open.label            "Невыполненные задачи">
 <!ENTITY calendar.task.filter.open.accesskey        "е">
 
-<!ENTITY calendar.task.details.title.label           "Название:">
-<!ENTITY calendar.task.details.organizer.label       "Организатор:">
-<!ENTITY calendar.task.details.priority2.label       "Приоритет:">
-<!ENTITY calendar.task.details.priority.low.label    "Низкий">
-<!ENTITY calendar.task.details.priority.normal.label "Средний">
-<!ENTITY calendar.task.details.priority.high.label   "Высокий">
-<!ENTITY calendar.task.details.status.label          "Состояние:">
-<!ENTITY calendar.task.details.category.label        "Категория:">
-<!ENTITY calendar.task.details.repeat.label          "Повторение:">
+<!ENTITY calendar.task-details.title.label           "Название:">
+<!ENTITY calendar.task-details.organizer.label       "Организатор:">
+<!ENTITY calendar.task-details.priority.label        "Приоритет:">
+<!ENTITY calendar.task-details.priority.low.label    "Низкий">
+<!ENTITY calendar.task-details.priority.normal.label "Средний">
+<!ENTITY calendar.task-details.priority.high.label   "Высокий">
+<!ENTITY calendar.task-details.status.label          "Состояние:">
+<!ENTITY calendar.task-details.category.label        "Категория:">
+<!ENTITY calendar.task-details.repeat.label          "Повторение:">
 
 <!ENTITY calendar.task.category.button.tooltip  "Указать категорию задачи">
 <!ENTITY calendar.task.complete.button.tooltip  "Отметить выбранные задачи как выполненные">
@@ -300,17 +286,20 @@
 <!ENTITY calendar.server.dialog.name.label          "Название календаря:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Цвет:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Сервер календарей Sun Java System (WCAP)">
-<!ENTITY calendarproperties.format.label   "Формат:">
-<!ENTITY calendarproperties.location.label "Адрес:">
-<!ENTITY calendarproperties.name.label     "Название:">
-<!ENTITY calendarproperties.readonly.label "Только для чтения">
-<!ENTITY calendarproperties.firealarms.label "Показывать оповещения">
-<!ENTITY calendarproperties.cache.label    "Кэшировать (ЭКСПЕРИМЕНТАЛЬНО, требуется перезапуск)">
-<!ENTITY calendarproperties.enabled.label "Переключить на этот календарь">
+<!ENTITY calendarproperties.color.label                    "Цвет:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Сервер календарей Sun Java System (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Формат:">
+<!ENTITY calendarproperties.location.label                 "Адрес:">
+<!ENTITY calendarproperties.name.label                     "Название:">
+<!ENTITY calendarproperties.readonly.label                 "Только для чтения">
+<!ENTITY calendarproperties.firealarms.label               "Показывать оповещения">
+<!ENTITY calendarproperties.cache.label                    "Кэшировать (ЭКСПЕРИМЕНТАЛЬНО, требуется перезапуск)">
+<!ENTITY calendarproperties.enabled.label                  "Включите этот календарь">
+<!ENTITY calendarproperties.forceDisabled.label            "Провайдер для этого календаря не найден. Зачастую это происходит после отключения или удаления специальных дополнений.">
+<!ENTITY calendarproperties.unsubscribe.label              "Отменить подписку">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "О">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Публикация календаря">
@@ -337,6 +326,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Подробнее…">
-<!ENTITY calendar.error.number "Номер ошибки:">
+<!ENTITY calendar.error.code "Код ошибки:">
 <!ENTITY calendar.error.description "Описание:">
 <!ENTITY calendar.error.title "Произошла ошибка">
