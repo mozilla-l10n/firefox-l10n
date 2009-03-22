@@ -9,15 +9,14 @@
 <!ENTITY  locbar.nothing.label          "Nada">
 
 <!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
 
-  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<!ENTITY  rememberDaysBefore.label          "Mantener mi historial por al menos">
+<!ENTITY  rememberDaysBefore.label          "Mantener mi historial durante al menos">
 <!ENTITY  rememberDaysBefore.accesskey      "h">
 <!ENTITY  rememberDaysAfter2.label           "días">
-
 
 <!ENTITY  rememberForms.label           "Recordar lo que haya ingresado en formularios y en la barra de búsqueda">
 <!ENTITY  rememberForms.accesskey       "f">
@@ -38,20 +37,74 @@
 <!ENTITY  keepUntil.accesskey           "n">
 
 <!ENTITY  expire.label                  "que expiren">
-<!ENTITY  close.label                   "cierre &brandShortName;">
-<!ENTITY  askEachTime.label             "preguntarme cada vez">
+<!ENTITY  close.label                   "que cierre &brandShortName;">
+<!ENTITY  askEachTime.label             "preguntarme siempre">
 
 <!ENTITY  cookieExceptions.label        "Excepciones…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Mostrar Cookies…">
+<!ENTITY  showCookies.label             "Mostrar cookies…">
 <!ENTITY  showCookies.accesskey         "S">
 
 
-<!ENTITY  privateData.label             "Datos Privados">
+<!ENTITY  privateData.label             "Datos privados">
 
 <!ENTITY  alwaysClear.label              "Siempre borrar mis datos privados cuando cierre &brandShortName;">
 <!ENTITY  alwaysClear.accesskey          "b">
 
 <!ENTITY  clearDataSettings.label        "Opciones…">
 <!ENTITY  clearDataSettings.accesskey    "O">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "recordará el historial">
+<!ENTITY  historyHeader.dontremember.label "nunca recordará el historial">
+<!ENTITY  historyHeader.custom.label       "usará la configuración predeterminada para el historial">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; recordará las búsquedas, las descargas, los formularios y el historial de descargas y además, almacenará las cookies de los sitios web que visite.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Quizás desee ">
+<!ENTITY  rememberActions.clearHistory.label  "eliminar el historial reciente">
+<!ENTITY  rememberActions.middle.label        " o ">
+<!ENTITY  rememberActions.removeCookies.label "eliminar determinadas cookies">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la Web.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Quizás también desee ">
+<!ENTITY  dontrememberActions.clearHistory.label "eliminar el historial actual">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Iniciar &brandShortName; automáticamente en una sesión de navegación privada">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Recordar mi historial de navegación durante al menos">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "días">
+
+<!ENTITY  rememberDownload.label         "Recordar mi historial de descargas">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "Recordar lo que haya ingresado en formularios y en la barra de búsqueda">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Elimimar el historial cuando cierre &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "E">
+
+<!ENTITY  clearOnCloseSettings.label     "Opciones…">
+<!ENTITY  clearOnCloseSettings.accesskey "O">
+
+<!ENTITY  clearDataNow.label             "Borrar ahora…">
+<!ENTITY  clearDataNow.accesskey         "B">
