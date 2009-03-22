@@ -65,6 +65,13 @@
 <!ENTITY return.accesskey                   "t">
 <!ENTITY results.label                      "tulosta">
 <!ENTITY offlineText.label                  "Luettelosta on mahdollista ladata paikallinen kopio, joka on käytettävissä ollessasi yhteydettömässä tilassa.">
+<!ENTITY saslMechanism.label               "Kirjautumistapa: ">
+<!ENTITY saslMechanism.accesskey           "K">
+<!ENTITY saslOff.label                     "Yksinkertainen">
+<!ENTITY saslOff.accesskey                 "Y">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

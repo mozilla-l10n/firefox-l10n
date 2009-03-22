@@ -44,8 +44,6 @@
 <!ENTITY compactFolders.accesskey		 "k">
 <!ENTITY emptyTrashCmd.label  "Tyhjennä roskakori">
 <!ENTITY emptyTrashCmd.accesskey		 "r">
-<!ENTITY importCmd.label  "Tuo toisista ohjelmista…">
-<!ENTITY importCmd.accesskey  "h">
 <!ENTITY offlineMenu.label "Yhteydetön tila">
 <!ENTITY offlineMenu.accesskey "Y">
 <!ENTITY offlineGoOfflineCmd.label "Työskentele yhteydettömässä tilassa">
@@ -98,9 +96,6 @@
 <!ENTITY folderPropsFolderCmd.label  "Kansion ominaisuudet…">
 <!ENTITY folderPropsNewsgroupCmd.label  "Keskusteluryhmän ominaisuudet…">
 <!ENTITY folderPropsCmd.accesskey  "O">
-<!ENTITY accountManagerCmd.label  "Tilien asetukset…">
-<!ENTITY accountManagerCmd.accesskey  "s">
-<!ENTITY accountManagerCmdUnix.accesskey  "A">
 <!ENTITY undoDeleteMsgCmd.label  "Kumoa Poista viesti">
 <!ENTITY redoDeleteMsgCmd.label  "Tee uudelleen Poista viesti">
 <!ENTITY undoMoveMsgCmd.label  "Kumoa Siirrä viesti">
@@ -407,20 +402,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label  "Työkalut">
 <!ENTITY tasksMenu.accesskey  "y">
-<!ENTITY addons.label "Lisäosat">
-<!ENTITY addons.accesskey "o">
-<!ENTITY activitymanager.label "Toimintojen hallinta">
-<!ENTITY activitymanager.accesskey "h">
 <!ENTITY messengerCmd.label  "Sähköposti ja keskusteluryhmät">
 <!ENTITY messengerCmd.accesskey  "S">
 <!ENTITY addressBookCmd.label  "Osoitekirja">
 <!ENTITY addressBookCmd.accesskey  "O">
-<!ENTITY runJunkControls.label  "Tunnista kansion roskapostit">
-<!ENTITY runJunkControls.accesskey  "u">
-<!ENTITY deleteJunk.label  "Poista kansiosta roskapostiviestiksi merkityt">
-<!ENTITY deleteJunk.accesskey  "P">
-<!ENTITY errorConsoleCmd.label  "Virhekonsoli">
-<!ENTITY errorConsoleCmd.accesskey  "V">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Lisäosat">
+<!ENTITY addons.accesskey "o">
+<!ENTITY activitymanager.label "Toimintojen hallinta">
+<!ENTITY activitymanager.accesskey "h">
 <!ENTITY filtersCmd.label  "Viestisuodattimet…">
 <!ENTITY filtersCmd.accesskey  "V">
 <!ENTITY filtersApply.label  "Suodata kansion viestit">
@@ -429,6 +419,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Suorita suodattimet viestille">
 <!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY runJunkControls.label  "Tunnista kansion roskapostit">
+<!ENTITY runJunkControls.accesskey  "u">
+<!ENTITY deleteJunk.label  "Poista kansiosta roskapostiviestiksi merkityt">
+<!ENTITY deleteJunk.accesskey  "P">
+<!ENTITY importCmd.label "Tuo toisista ohjelmista…">
+<!ENTITY importCmd.accesskey "T">
+<!ENTITY errorConsoleCmd.label  "Virhekonsoli">
+<!ENTITY errorConsoleCmd.accesskey  "V">
+<!ENTITY accountManagerCmd.label "Tilien asetukset…">
+<!ENTITY accountManagerCmd.accesskey "S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "a">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label  "Nouda viestit">

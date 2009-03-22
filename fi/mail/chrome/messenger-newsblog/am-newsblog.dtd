@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label  "RSS-tilin asetukset">
+<!ENTITY accountTitle.label "Tilin asetukset">
 
 <!ENTITY biffStart.label  "Hae uusia artikkeleita">
 <!ENTITY biffStart.accesskey  "H">
@@ -13,8 +13,9 @@
 <!ENTITY manageSubscriptions.label  "Muokkaa tilauksia…">
 <!ENTITY manageSubscriptions.accesskey  "M">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Uutiset ja verkkopäiväkirjat">
-<!ENTITY rss.wizardShortName        "RSS">
-<!ENTITY rss.wizardLongName         "RSS-uutiset ja -verkkopäiväkirjat">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Uutiset ja verkkopäiväkirjat">
+<!ENTITY feeds.wizardShortName "Syötteet">
+<!ENTITY feeds.wizardLongName "Uutis- ja verkkopäiväkirjasyötteet">
+<!ENTITY feeds.wizardLongName.accesskey "U">
+

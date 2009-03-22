@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                      "Välitä viestit:">
 <!ENTITY forwardMsg.accesskey                  "V">
 <!ENTITY inline.label                          "Viestirungossa">
-<!ENTITY inline.accesskey                      "i">
 <!ENTITY asAttachment.label                    "Liitteenä">
-<!ENTITY asAttachment.accesskey                "L">
 <!ENTITY addExtension.label                   "lisää tiedostonimeen pääte">
 <!ENTITY addExtension.accesskey               "s">
 

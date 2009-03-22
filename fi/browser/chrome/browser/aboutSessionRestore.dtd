@@ -1,13 +1,14 @@
 <!ENTITY restorepage.tabtitle       "Palauta istunto">
-<!ENTITY restorepage.pagetitle      "Palautetaanko selaimen edellinen istunto?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "&brandShortName;in edellinen istunto päättyi yllättäen. Pahoittelemme häiriötä. Voit palauttaa edellisen istunnon ikkunat ja välilehdet tai aloittaa uuden istunnon jos viimeksi auki olleille sivuille ei ole käyttöä.">
-<!ENTITY restorepage.remedies       "Jos &brandShortName; sulkeutuu jatkuvasti yllättäen, usein auttaa:">
-<!ENTITY restorepage.dueToChrome    "Poistaa käytöstä äskettäin asennetut lisäosat lisäosien hallinnasta.">
-<!ENTITY restorepage.dueToContent   "Palauttaa istuntosi ilman sivustoja, joiden arvelet ehkä aiheuttavan ongelmia:">
 
-<!ENTITY restorepage.restoreButton  "Palauta edellinen istunto">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Oho, kävi nolosti...">
+<!ENTITY restorepage.problemDesc    "&brandShortName; ei onnistunut palauttamaan avattuja ikkunoita ja välilehtiä. Tämä yleisimmin johtuu jostakin äskettäin avatusta sivusta.">
+<!ENTITY restorepage.tryThis        "Voit yrittää:">
+<!ENTITY restorepage.restoreSome    "Poistaa yhden tai useamman välilehden, jonka voisit kuvitella aiheuttavan ongelman">
+<!ENTITY restorepage.startNew       "Aloittaa uuden istunnon">
+
+<!ENTITY restorepage.tryagainButton "Palauta edellinen istunto">
 <!ENTITY restorepage.restore.access "P">
 <!ENTITY restorepage.cancelButton   "Aloita uusi istunto">
 <!ENTITY restorepage.cancel.access  "A">

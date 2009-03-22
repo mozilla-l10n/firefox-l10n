@@ -9,7 +9,9 @@
 <!ENTITY  reloadAllTabs.accesskey          "ä">
 <!ENTITY  reloadTab.label         "Päivitä välilehti">
 <!ENTITY  reloadTab.accesskey          "P">
-<!ENTITY  listAllTabs.label      "Luetteloi kaikki välilehdet">
+<!ENTITY  openTabInNewWindow.label    "Avaa uuteen ikkunaan">
+<!ENTITY  openTabInNewWindow.accesskey "A">
+<!ENTITY  listAllTabs.label      "Listaa kaikki välilehdet">
 <!ENTITY  bookmarkAllTabs.label       "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY  bookmarkAllTabs.accesskey   "i">
 <!ENTITY  bookmarkThisTab.label       "Lisää välilehti kirjanmerkkeihin">

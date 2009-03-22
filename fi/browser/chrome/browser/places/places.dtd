@@ -136,21 +136,13 @@
 
 <!ENTITY search.label                              "Etsi:">
 <!ENTITY search.accesskey                          "E">
-<!ENTITY search.collection.label                   "Vain avoin kokoelma">
-<!ENTITY search.collection.accesskey               "V">
-<!ENTITY search.allBookmarks.label                 "Kaikki kirjanmerkit">
-<!ENTITY search.allBookmarks.accesskey             "K">
-<!ENTITY search.scopeFolder.label                  "Avoin kansio">
-<!ENTITY search.scopeFolder.accesskey              "V">
-<!ENTITY search.scopeAll.label                     "Kirjanmerkit">
-<!ENTITY search.scopeAll.accesskey                 "K">
-<!ENTITY search.scopeMenu.label                    "Kirjanmerkkivalikko">
-<!ENTITY search.scopeMenu.accesskey                "K">
-<!ENTITY search.scopeToolbar.label                 "Kirjanmerkkipalkki">
-<!ENTITY search.scopeToolbar.accesskey             "K">
-<!ENTITY search.scopeDownloads.label               "Lataukset">
+<!ENTITY search.scopeFolder.label                  "Valitusta kansiosta">
+<!ENTITY search.scopeFolder.accesskey              "r">
+<!ENTITY search.scopeBookmarks.label               "Kirjanmerkeistä">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
+<!ENTITY search.scopeDownloads.label               "Latauksista">
 <!ENTITY search.scopeDownloads.accesskey           "L">
-<!ENTITY search.scopeHistory.label                 "Sivuhistoria">
+<!ENTITY search.scopeHistory.label                 "Sivuhistoriasta">
 <!ENTITY search.scopeHistory.accesskey             "S">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "Näytä tarkennettu haku">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "Piilota tarkennettu haku">
