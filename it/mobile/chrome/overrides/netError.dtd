@@ -96,7 +96,7 @@
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Potrebbe trattarsi di un problema nella configurazione del server oppure di un tentativo da parte di qualcuno di sostituirsi al server stesso.</li>
-  <li>Se è stato possibile connettersi a questo server in passato, il problema potrebbe essere solo temporaneo. Si consiglia di riprovare più tardi.</li>
+  <li>Se è stato possibile connettersi a questo server in passato, il problema potrebbe essere solo temporaneo. Si consiglia di riprovare in seguito.</li>
 </ul>">
 <!ENTITY sharedLongDesc "
 <ul>

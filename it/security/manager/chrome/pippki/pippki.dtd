@@ -103,4 +103,4 @@
 <!ENTITY protectedAuth.tokenName.label "Token:">
 <!ENTITY certErrorDlg.title "Connessione sicura non riuscita">
 <!ENTITY certErrorDlg.info1 "Potrebbe trattarsi di un problema nella configurazione del server oppure di un tentativo da parte di qualcuno di sostituirsi al server stesso.">
-<!ENTITY certErrorDlg.info2 "Se è stato possibile connettersi a questo server in passato, il problema potrebbe essere solo temporaneo. Si consiglia di riprovare più tardi.">
+<!ENTITY certErrorDlg.info2 "Se è stato possibile connettersi a questo server in passato, il problema potrebbe essere solo temporaneo. Si consiglia di riprovare in seguito.">

@@ -1,4 +1,5 @@
 <!ENTITY history.label "Cronologia">
+<!ENTITY locationBar.label "Barra degli indirizzi">
 <!ENTITY locbar.pre.label "Nella barra degli indirizzi visualizza suggerimenti da:">
 <!ENTITY locbar.pre.accessKey "z">
 <!ENTITY locbar.post.label "">
@@ -34,7 +35,7 @@
 <!ENTITY clearDataSettings.accesskey "s">
 <!ENTITY historyHeader.pre.label "Impostazioni cronologia:">
 <!ENTITY historyHeader.pre.accesskey "m">
-<!ENTITY historyHeader.remember.label "salvare la cronologia">
+<!ENTITY historyHeader.remember.label "salva la cronologia">
 <!ENTITY historyHeader.dontremember.label "non salvare la cronologia">
 <!ENTITY historyHeader.custom.label "utilizza impostazioni personalizzate">
 <!ENTITY historyHeader.post.label "">
