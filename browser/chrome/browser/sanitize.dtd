@@ -60,3 +60,4 @@ that require it.  -->
 <!ENTITY itemSitePreferences.label         "Parapëlqime &quot;Site&quot;">
 <!ENTITY itemSitePreferences.accesskey     "P">
 
+<!ENTITY clearDataSettings2.label     "Kur dal prej &brandShortName;-it, do të duhej të pastronte vetvetiu tërë:">

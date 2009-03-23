@@ -17,3 +17,6 @@
 <!ENTITY  bookmarkThisTab.label       "Faqeruaj Këtë Skedë">
 <!ENTITY  bookmarkThisTab.accesskey   "F">
 <!ENTITY  newTabButton.tooltip        "Hap skedë të re">
+<!ENTITY  openTabInNewWindow.label    "Hape në Dritare të Re">
+<!ENTITY  openTabInNewWindow.accesskey "D">
+
