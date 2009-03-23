@@ -60,7 +60,7 @@
 <!ENTITY newevent.status.completed.label    "Fullført" >
 
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; ferdig">
+<!ENTITY newtodo.percentcomplete.label      "&#37; fullført">
 
 <!-- Menubar -->
 <!ENTITY  event.menu.file.label                           "Fil">
@@ -71,8 +71,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "H">
 <!ENTITY  event.menu.file.new.message.label               "Melding">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "Adressekort">
-<!ENTITY  event.menu.file.new.address.accesskey           "A">
+<!ENTITY  event.menu.file.new.contact.label               "Kontakt i adresseboka">
+<!ENTITY  event.menu.file.new.contact.accesskey           "a">
 <!ENTITY  event.menu.file.close.label                     "Lat att">
 <!ENTITY  event.menu.file.close.accesskey                 "L">
 <!ENTITY  event.menu.file.save.label                      "Lagre">

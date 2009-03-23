@@ -25,17 +25,17 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Å > A rekkjefølgje">
 <!ENTITY view.sortDescending.accesskey  "Å">
-<!ENTITY help.usingBookmarks.label      "Bruk av bokmerke">
+<!ENTITY help.usingBookmarks.label      "Bokmerke">
 <!ENTITY help.usingBookmarks.accesskey  "B">
-<!ENTITY help.usingHistory.label        "Bruk av historikk">
-<!ENTITY help.usingHistory.accesskey    "r">
+<!ENTITY help.usingHistory.label        "Historikk">
+<!ENTITY help.usingHistory.accesskey    "i">
 <!ENTITY help.advancedTips.label        "Avanserte tips og triks">
-<!ENTITY help.advancedTips.accesskey    "n">
+<!ENTITY help.advancedTips.accesskey    "v">
 
 <!ENTITY cmd.findInBookmarks.label      "Finn i bokmerke …">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
 <!ENTITY cmd.findCurrent.label          "Finn i denne samlinga …">
-<!ENTITY cmd.findCurrent.accesskey      "n">
+<!ENTITY cmd.findCurrent.accesskey      "i">
 
 <!ENTITY cmd.exportHTML.label           "Eksporter HTML …">
 <!ENTITY cmd.exportHTML.accesskey       "E">
@@ -49,8 +49,8 @@
 <!ENTITY cmd.restoreFromFile.label      "Vel fil …">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.select_all.label "Vel alle">
-<!ENTITY cmd.select_all.accesskey "a">
+<!ENTITY cmd.select_all.label "Merk alle">
+<!ENTITY cmd.select_all.accesskey "M">
 <!ENTITY cmd.select_all.key "a">
 
 <!ENTITY cmd.edit_cut.label         "Klipp ut">
@@ -103,23 +103,23 @@
 <!ENTITY cmd.new_livemark.accesskey        "N">
 <!ENTITY cmd.new_folder.label              "Ny mappe …">
 <!ENTITY cmd.new_folder.accesskey          "m">
-<!ENTITY cmd.context_new_folder.accesskey  "N">
+<!ENTITY cmd.context_new_folder.accesskey  "m">
 <!ENTITY cmd.new_separator.label           "Ny skiljelinje">
-<!ENTITY cmd.new_separator.accesskey       "S">
+<!ENTITY cmd.new_separator.accesskey       "s">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Oppdater levande bokmerke">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "O">
 <!ENTITY cmd.reloadMicrosummary.label      "Oppdater levande titlar">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "O">
 
 <!ENTITY cmd.groupby_site.label      "Grupper etter nettstad">
-<!ENTITY cmd.groupby_site.accesskey  "r">
+<!ENTITY cmd.groupby_site.accesskey  "G">
 <!ENTITY cmd.groupby_page.label      "Grupper etter side">
-<!ENTITY cmd.groupby_page.accesskey  "u">
+<!ENTITY cmd.groupby_page.accesskey  "r">
 <!ENTITY cmd.groupby_feed.label      "Grupper etter tinging">
-<!ENTITY cmd.groupby_feed.accesskey  "e">
+<!ENTITY cmd.groupby_feed.accesskey  "u">
 <!ENTITY cmd.groupby_post.label      "Grupper etter post">
-<!ENTITY cmd.groupby_post.accesskey  "o">
+<!ENTITY cmd.groupby_post.accesskey  "p">
 
 <!ENTITY cmd.moveBookmarks.label                  "Flytt …">
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
@@ -136,22 +136,14 @@
 
 <!ENTITY search.label                              "Søk:">
 <!ENTITY search.accesskey                          "ø">
-<!ENTITY search.collection.label                   "Berre denne samlinga">
-<!ENTITY search.collection.accesskey               "B">
-<!ENTITY search.allBookmarks.label                 "Alle bokmerke">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "Vald mappe">
 <!ENTITY search.scopeFolder.accesskey              "V">
-<!ENTITY search.scopeAll.label                     "Alle bokmerke">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "Bokmerkemeny">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "Verktøylinje">
-<!ENTITY search.scopeToolbar.accesskey             "V">
+<!ENTITY search.scopeBookmarks.label               "Bokmerke">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "Nedlastingar">
-<!ENTITY search.scopeDownloads.accesskey           "D">
+<!ENTITY search.scopeDownloads.accesskey           "N">
 <!ENTITY search.scopeHistory.label                 "Historikk">
-<!ENTITY search.scopeHistory.accesskey             "H">
+<!ENTITY search.scopeHistory.accesskey             "s">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "Vis søkjebyggjar">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "Skjul søkjebyggjar">
 <!ENTITY saveSearch.label                          "Lagre">

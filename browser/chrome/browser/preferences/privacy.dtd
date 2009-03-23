@@ -44,7 +44,7 @@
 <!ENTITY  cookieExceptions.accesskey    "U">
 
 <!ENTITY  showCookies.label             "Vis infokapslar …">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.accesskey         "V">
 
 
 <!ENTITY  privateData.label             "Private data">
@@ -54,6 +54,57 @@
 
 <!ENTITY  clearDataSettings.label        "Innstillingar …">
 <!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortNamevil:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "Hugse historikk">
+<!ENTITY  historyHeader.dontremember.label "Aldri hugse historikk">
+<!ENTITY  historyHeader.custom.label       "Bruke sjølvvalde innstillingar for historikk">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; vil hugse nettlesing, nedlasting, skjema og søkjehistorikk, og ta vare på infokapslar frå nettsider du vitjar.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Det kan vere at du vil">
+<!ENTITY  rememberActions.clearHistory.label  "slette nyleg historikk">
+<!ENTITY  rememberActions.middle.label        ", eller">
+<!ENTITY  rememberActions.removeCookies.label "fjerne enkelte infokapslar">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; vil bruke dei same innstillingane som privat nettlesing og vil ikkje hugse historikk når du surfar på nettet.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Det kan òg vere at du vil">
+<!ENTITY  dontrememberActions.clearHistory.label "slette all noverande historikk">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Automatisk start &brandShortName; i ei privat nettlesingsøkt">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Hugs nettlesarhistorikk i minst">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "dagar">
+
+<!ENTITY  rememberDownload.label         "Hugs nedlasta historikk">
+<!ENTITY  rememberDownload.accesskey     "u">
+
+<!ENTITY  rememberSearchForm.label       "Hugs søk og skjemahistorikk">
+<!ENTITY  rememberSearchForm.accesskey   "s">
+
+<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
+<!ENTITY  clearOnClose.accesskey         "w">
+
+<!ENTITY  clearOnCloseSettings.label     "Innstillingar …">
+<!ENTITY  clearOnCloseSettings.accesskey "I">
 
 <!ENTITY  clearDataNow.label             "Slett no …">
 <!ENTITY  clearDataNow.accesskey         "n">
