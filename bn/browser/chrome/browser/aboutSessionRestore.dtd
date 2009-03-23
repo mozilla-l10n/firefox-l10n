@@ -1,13 +1,14 @@
 <!ENTITY restorepage.tabtitle "সেশন রিস্টোর করো">
-<!ENTITY restorepage.pagetitle "আপনি কি আপনার সেশন রিস্টোর করতে চান?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "আপনার পূর্ববর্তী &brandShortName; সেশন অপ্রত্যাশিতভাবে বন্ধ হয়ে গিয়েছে। আপনার এর জন্য গভীরভাবে ক্ষমা চাচ্ছি। আপনি আপনার পূর্ববর্তী সেশনের ট্যাব এবং উইন্ডোগুলো রিস্টোর করতে পারেন, অথবা একটি নতুন সেশন শুরু করতে পারেন যদি আগেরগুলো আর প্রয়োজন না হয়।">
-<!ENTITY restorepage.remedies "যদি &brandShortName; ধারাবাহিকভাবে বন্ধ হয়:">
-<!ENTITY restorepage.dueToChrome "সম্প্রতি অতিরিক্ত সামগ্রীতে যোগ করা কোনো এক্সটেন্সন নিষ্ক্রিয় করার চেষ্টা করুন।">
-<!ENTITY restorepage.dueToContent "সমস্যাটি যে ওয়েব পেজের জন্য হয়েছে বলে মনে করেন সেটি ব্যতীত সেশনটি রিস্টোর করার চেষ্টা করুন:">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.restoreButton "পূর্ববর্তী সেশন রিস্টোর করুন">
+<!ENTITY restorepage.errorTitle "Well, this is embarrassing.">
+<!ENTITY restorepage.problemDesc "&brandShortName; is having trouble recovering your windows and tabs. This is usually caused by a recently opened web page.">
+<!ENTITY restorepage.tryThis "You can try:">
+<!ENTITY restorepage.restoreSome "Removing one or more tabs that you think may be causing the problem">
+<!ENTITY restorepage.startNew "Starting an entirely new browsing session">
+
+<!ENTITY restorepage.tryagainButton "Restore">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton "নতুন সেশন শুরু করুন">
 <!ENTITY restorepage.cancel.access "S">

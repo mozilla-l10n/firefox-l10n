@@ -13,10 +13,10 @@
 &brandShortName;-র স্বয়ংক্রিয় আপডেট সক্রিয় করুন।">
 
 <!ENTITY manualUpdate.title "Unable to Update">
-<!ENTITY manualUpdate.desc "A recommended security and stability update is available, but you do
-                                           not have the system permissions required to install it. Please contact your
-                                           system administrator, or try again from an account that has permission to
-                                           install software on this computer.">
+<!ENTITY manualUpdate.desc "A recommended security and stability update is available, but you do 
+not have the system permissions required to install it. Please contact your 
+system administrator, or try again from an account that has permission to 
+install software on this computer.">
 <!ENTITY manualUpdateGetMsg.label "You can always get the latest version of &brandShortName; at:">
 
 <!ENTITY incompatibleCheck.title "অতিরিক্ত সামগ্রীর সামঞ্জস্যতা পরীক্ষা করা হচ্ছে">

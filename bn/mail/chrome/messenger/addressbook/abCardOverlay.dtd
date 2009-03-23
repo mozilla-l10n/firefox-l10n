@@ -81,7 +81,7 @@
 
 <!ENTITY allowRemoteContent.label "দূরবর্তী ছবি অনুমোদিত হবে (r)।">
 <!ENTITY allowRemoteContent.accesskey "r">
-<!ENTITY allowRemoteContent.tooltip "HTML বার্তায় দূরবর্তী উৎস থেকে
+<!ENTITY allowRemoteContent.tooltip "HTML বার্তায় দূরবর্তী উৎস থেকে 
 ছবি যোগ করা সম্ভব। এরকম একটি বার্তা খোলা হলে 
 এই বাহ্যিক উৎসের একটি সংযোগ খুলবে। এতে যে বার্তাটি 
 পড়া হচ্ছে তাকে ট্র্যাক করা হতে পারে। এই বক্সে টিক দিলে এরকম 
