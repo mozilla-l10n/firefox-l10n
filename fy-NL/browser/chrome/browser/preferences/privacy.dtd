@@ -1,5 +1,7 @@
 <!ENTITY  history.label "Skiednis">
 
+<!ENTITY  locationBar.label             "Lokaasjebalke">
+
 <!ENTITY  locbar.pre.label              "As de lokaasjebalke brûkt wurd, foarstelle út:">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
