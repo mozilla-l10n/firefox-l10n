@@ -1,14 +1,15 @@
 <!ENTITY restorepage.tabtitle       "Bygg opp att programøkta">
-<!ENTITY restorepage.pagetitle      "Vil du byggje opp att  programøkta??">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Den siste programøkta med &brandShortName; vart avbroten. Vi er svært leie for dette. Du kan byggje opp att fanene og vindauga frå den førre programøkta, eller du kan starte ei ny programøkt dersom du ikkje treng dei.">
-<!ENTITY restorepage.remedies       "Om &brandShortName; uventa lèt seg att:">
-<!ENTITY restorepage.dueToChrome    "Prøv å slå av utvidingar du nettopp har installert i utvidingshandsamaren.">
-<!ENTITY restorepage.dueToContent   "Prøv å byggje opp att programøkta utan nettsider som du trur kan ha vore årsak til krasjet:">
 
-<!ENTITY restorepage.restoreButton  "Bygg opp att førre programøkt">
-<!ENTITY restorepage.restore.access "G">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Vel, dette er flaut.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; har problem med å byggje opp att vingauge og faner. Dette er vanlegvis som følgje av ei nettopp opna nettside.">
+<!ENTITY restorepage.tryThis        "du kan prøve:">
+<!ENTITY restorepage.restoreSome    "Å fjerne ei eller fleire faner som du trur kan ha vore årsak til problemet">
+<!ENTITY restorepage.startNew       "Å starte ei heilt ny nettlesarøkt">
+
+<!ENTITY restorepage.tryagainButton "Bygg opp att">
+<!ENTITY restorepage.restore.access "B">
 <!ENTITY restorepage.cancelButton   "Start ny programøkt">
 <!ENTITY restorepage.cancel.access  "S">
 

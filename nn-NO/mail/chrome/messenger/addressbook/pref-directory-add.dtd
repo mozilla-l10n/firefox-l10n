@@ -45,7 +45,7 @@
 <!ENTITY findButton.label                  "Søk">
 <!ENTITY findButton.accesskey              "S">
 <!ENTITY directorySecure.label             "Bruk sikker oppkopling (SSL)">
-<!ENTITY directorySecure.accesskey         "S">
+<!ENTITY directorySecure.accesskey         "B">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Generelt">
@@ -65,6 +65,13 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultat">
 <!ENTITY offlineText.label                 "Du kan laste ned ein lokal kopi av katalogen slik at han er tilgjengeleg når du arbeider frakopla.">
+<!ENTITY saslMechanism.label               "Innloggingsmetode: ">
+<!ENTITY saslMechanism.accesskey           "n">
+<!ENTITY saslOff.label                     "Enkel">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
