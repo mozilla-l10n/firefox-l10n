@@ -3,5 +3,6 @@
 <!ENTITY date.heading               "Datë Parashtrimi">
 <!ENTITY noReports.label            "Nuk ka raportime të parashtruar.">
 <!ENTITY noConfig.label             "Ky zbatim nuk është formësuar për paraqitje raportimesh vithisjesh. Duhet rregulluar parapëlqimi <code>breakpad.reportURL</code>.">
-<!ENTITY clearReports.label         "Hiqi Raportimet">
+<!ENTITY clearAllReports.label      "Hiq Tërë Raportimet">
+
 
