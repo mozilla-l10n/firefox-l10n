@@ -335,7 +335,7 @@
 <!ENTITY event.repeat.until.label                       "Повторять до" >
 <!ENTITY event.recurrence.preview.label                 "Предварительный просмотр">
 
-<<!-- Attendees dialog -->
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Приглашение участников">
 <!ENTITY event.organizer.label                  "Организатор">
 <!ENTITY event.freebusy.suggest.slot            "Предложить отрезок времени:">
