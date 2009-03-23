@@ -1,5 +1,7 @@
 <!ENTITY  history.label                 "Povijest">
 
+<!ENTITY  locationBar.label             "Adresna traka">
+
 <!ENTITY  locbar.pre.label              "Pri korištenju adresne trake, predloži:">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
