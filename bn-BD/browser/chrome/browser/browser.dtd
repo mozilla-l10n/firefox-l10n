@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip "আপনার নির্মিত বুকমার্কগুলি প্রদর্শন করুন">
 <!ENTITY bookmarksSidebarCmd.accesskey "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "ইতিহাস">
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "ইতিহাস (s)">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "সম্প্রতি বন্ধ করা ট্যাব">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Recently Closed Windows">
 
 <!ENTITY historyHomeCmd.label "হোম">
 <!ENTITY showAllHistoryCmd2.label "সকল পূর্ববর্তী তথ্য প্রদর্শন করা হবে">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "বুকমার্ক ও পূর্ববর্তী তথ্য অনুসন্ধান করুন">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Search Bookmarks and History">
+<!ENTITY urlbar.bookmark.emptyText "Search Bookmarks">
+<!ENTITY urlbar.history.emptyText "Search History">
+<!ENTITY urlbar.none.emptyText "Type a Web address">
 <!ENTITY urlbar.accesskey "d">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -352,6 +362,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "প্রদর্শনের মাপ (Z)">
 <!ENTITY fullZoom.accesskey "Z">
 
+<!ENTITY newTabButton.tooltip "Open a new tab">
 <!ENTITY newWindowButton.tooltip "নতুন উইন্ডো খুলুন">
 <!ENTITY sidebarCloseButton.tooltip "সাইডবার বন্ধ করুন">
 

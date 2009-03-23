@@ -136,22 +136,14 @@
 
 <!ENTITY search.label "অনুসন্ধান (S):">
 <!ENTITY search.accesskey "S">
-<!ENTITY search.collection.label "শুধুমাত্র বর্তমান সংকলনের মধ্যে (C)">
-<!ENTITY search.collection.accesskey "C">
-<!ENTITY search.allBookmarks.label "সকল বুকমার্ক (A)">
-<!ENTITY search.allBookmarks.accesskey "A">
 <!ENTITY search.scopeFolder.label "নির্বাচিত ফোল্ডার (F)">
-<!ENTITY search.scopeFolder.accesskey "F">
-<!ENTITY search.scopeAll.label "সকল বুকমার্ক (A)">
-<!ENTITY search.scopeAll.accesskey "A">
-<!ENTITY search.scopeMenu.label "বুকমার্ক মেনু (M)">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "বুকমার্ক টুল-বার (T)">
-<!ENTITY search.scopeToolbar.accesskey "T">
+<!ENTITY search.scopeFolder.accesskey "f">
+<!ENTITY search.scopeBookmarks.label "Bookmarks">
+<!ENTITY search.scopeBookmarks.accesskey "k">
 <!ENTITY search.scopeDownloads.label "ডাউনলোড (D)">
 <!ENTITY search.scopeDownloads.accesskey "D">
 <!ENTITY search.scopeHistory.label "পূর্ববর্তী তথ্য">
-<!ENTITY search.scopeHistory.accesskey "A">
+<!ENTITY search.scopeHistory.accesskey "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip "অনুসন্ধানের তথ্য গঠনের ব্যবস্থা প্রদর্শন করা হবে">
 <!ENTITY search.scopeBarExpanderUp.tooltip "অনুসন্ধানের তথ্য গঠনের ব্যবস্থা আড়াল করা হবে">
 <!ENTITY saveSearch.label "সংরক্ষণ করুন (S)">

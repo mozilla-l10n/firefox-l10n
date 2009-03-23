@@ -65,8 +65,15 @@
 <!ENTITY return.accesskey "r">
 <!ENTITY results.label "ফলাফল">
 <!ENTITY offlineText.label "আপনি এই ডিরেক্টরির একটি স্থানীয় কপি ডাউনলোড করতে পারেন যেন আপনি অফলাইন থাকা অবস্থায় এটি পাওয়া যায়।">
+<!ENTITY saslMechanism.label "Login method: ">
+<!ENTITY saslMechanism.accesskey "m">
+<!ENTITY saslOff.label "Simple">
+<!ENTITY saslOff.accesskey "l">
+<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey "K">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+
 <!ENTITY newDirectoryWidth "36em">
