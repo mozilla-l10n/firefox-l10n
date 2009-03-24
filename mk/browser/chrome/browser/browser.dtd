@@ -182,6 +182,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Пребарај во обележувачите и историјата">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Пребарај во обележувачите и историјата">
+<!ENTITY urlbar.bookmark.emptyText    "Пребарај во обележувачите">
+<!ENTITY urlbar.history.emptyText     "Пребарај во историјата">
+<!ENTITY urlbar.none.emptyText        "Внеси адреса на страница">
 <!ENTITY urlbar.accesskey "д">
 
 <!--

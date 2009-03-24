@@ -39,7 +39,7 @@
 <!ENTITY cmd.importHTML.accesskey       "У">
 <!ENTITY cmd.backup.label "Резерва…">
 <!ENTITY cmd.backup.accesskey "Р">
-<!ENTITY cmd.restore2.label "Реконструтирај">
+<!ENTITY cmd.restore2.label "Реконструирај">
 <!ENTITY cmd.restore2.accesskey "Р">
 <!ENTITY cmd.restoreFromFile.label "Одбери датотека…">
 <!ENTITY cmd.restoreFromFile.accesskey "О">
