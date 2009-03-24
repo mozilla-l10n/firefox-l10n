@@ -1,14 +1,16 @@
 <!ENTITY restorepage.tabtitle       "Obnovenie relácie">
-<!ENTITY restorepage.pagetitle      "Chcete obnoviť vašu reláciu?">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Tak toto je nepríjemné">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Posledná relácia prehliadača &brandShortName; bola neočakávane ukončená. Ospravedlňujeme sa za túto nepríjemnosť. Teraz môžete obnoviť okná a karty otvorené pri ukončení predchádzajúcej relácie, alebo spustiť novú reláciu, ak tieto nie sú potrebné.">
-<!ENTITY restorepage.remedies       "Ak sa &brandShortName; ukončuje opakovane:">
-<!ENTITY restorepage.dueToChrome    "V Správcovi doplnkov skúste zakázať naposledy pridané rozšírenia.">
-<!ENTITY restorepage.dueToContent   "Skúste obnoviť reláciu bez načítania stránok, ktoré by mohli spôsobovať zlyhanie:">
+<!ENTITY restorepage.problemDesc    "&brandShortName; má problémy s obnovením vašich naposledy otvorených okien a kariet. Toto zvyčajne spôsobuje posledná načítaná webová stránka.">
+<!ENTITY restorepage.tryThis        "Môžete skúsiť:">
+<!ENTITY restorepage.restoreSome    "Odstrániť jednu alebo viacero kariet, ktoré by mohli spôsobovať problémy">
+<!ENTITY restorepage.startNew       "Spustiť úplne novú reláciu prehliadania">
 
-<!ENTITY restorepage.restoreButton  "Obnoviť predchádzajúcu reláciu">
-<!ENTITY restorepage.restore.access "O">
+<!ENTITY restorepage.tryagainButton "Obnoviť">
+<!ENTITY restorepage.restore.access "b">
 <!ENTITY restorepage.cancelButton   "Spustiť novú reláciu">
 <!ENTITY restorepage.cancel.access  "r">
 
