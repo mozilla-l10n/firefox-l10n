@@ -102,6 +102,10 @@
 <!ENTITY bookmarksButton.tooltip "Приказ на обележувачи">
 <!ENTITY bookmarksSidebarCmd.accesskey "б">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Историја">
@@ -175,6 +179,8 @@
 <!ENTITY historyMenu.label "Историја">
 <!ENTITY historyMenu.accesskey "с">
 <!ENTITY historyUndoMenu.label "Скоро затворени јазичиња">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Скоро затворени прозорци">
 
 <!ENTITY historyHomeCmd.label "Дома">
 <!ENTITY showAllHistoryCmd2.label "Прикажи ја сета историја">
@@ -300,6 +306,7 @@
 <!ENTITY fullZoomToggleCmd.accesskey "т">
 <!ENTITY fullZoom.label "Зум">
 <!ENTITY fullZoom.accesskey "з">
+<!ENTITY newTabButton.tooltip  "Отвора ново јазиче">
 <!ENTITY newWindowButton.tooltip "Отвора нов прозорец">
 <!ENTITY sidebarCloseButton.tooltip "Ја затвора страничната лента">
 <!ENTITY cutButton.tooltip "Сече">
