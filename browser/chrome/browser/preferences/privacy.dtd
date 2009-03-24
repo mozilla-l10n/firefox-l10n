@@ -1,5 +1,7 @@
 <!ENTITY  history.label                 "História">
 
+<!ENTITY  locationBar.label             "Panel s adresou">
+
 <!ENTITY  locbar.pre.label              "Pri používaní panela s adresou ponúkať záznamy:">
 <!ENTITY  locbar.pre.accessKey          "v">
 <!ENTITY  locbar.post.label             "">
@@ -41,7 +43,7 @@
 <!ENTITY  askEachTime.label             "vždy sa opýtať">
 
 <!ENTITY  cookieExceptions.label        "Výnimky…">
-<!ENTITY  cookieExceptions.accesskey    "n">
+<!ENTITY  cookieExceptions.accesskey    "m">
 
 <!ENTITY  showCookies.label             "Zobraziť cookies…">
 <!ENTITY  showCookies.accesskey         "c">
@@ -54,3 +56,54 @@
 
 <!ENTITY  clearDataSettings.label       "Nastavenia…">
 <!ENTITY  clearDataSettings.accesskey   "a">
+
+<!ENTITY  historyHeader.pre.label          "Uchovávanie histórie:">
+<!ENTITY  historyHeader.pre.accesskey      "o">
+<!ENTITY  historyHeader.remember.label     "Pamätať si históriu prehliadania">
+<!ENTITY  historyHeader.dontremember.label "Nikdy neukladať históriu prehliadania">
+<!ENTITY  historyHeader.custom.label       "Použiť vlastné nastavenia">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; si bude pamätať históriu prehliadania, zoznam prevzatých súborov, údaje zadané do formulárov a históriu vyhľadávania, a takisto bude ukladať súbory cookies navštívených webových stránok.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Teraz môžete ">
+<!ENTITY  rememberActions.clearHistory.label  "vymazať aktuálnu históriu">
+<!ENTITY  rememberActions.middle.label        ", alebo ">
+<!ENTITY  rememberActions.removeCookies.label "odstrániť jednotlivé súbory cookies">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; použije totožné nastavenia s režimom Súkromné prehliadanie a nebude si pamätať žiadnu históriu prehliadania webu.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Teraz môžete ">
+<!ENTITY  dontrememberActions.clearHistory.label "vymazať celú aktuálnu históriu">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Automaticky spustiť &brandShortName; v režime Súkromné prehliadanie">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Históriu prehliadania uchovávať minimálne">
+<!ENTITY  rememberHistory.pre.accesskey  "H">
+<!ENTITY  rememberHistory.post.label     "dní">
+
+<!ENTITY  rememberDownload.label        "Pamätať si informácie o prevzatých súboroch">
+<!ENTITY  rememberDownload.accesskey    "z">
+
+<!ENTITY  rememberSearchForm.label       "Pamätať si údaje zadané do formulárov a vyhľadávacieho panela">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Vymazať históriu pri ukončení &brandShortName;u">
+<!ENTITY  clearOnClose.accesskey         "k">
+
+<!ENTITY  clearOnCloseSettings.label     "Nastavenia…">
+<!ENTITY  clearOnCloseSettings.accesskey "N">

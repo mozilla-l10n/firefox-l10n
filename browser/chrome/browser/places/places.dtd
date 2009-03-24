@@ -3,7 +3,7 @@
 <!ENTITY places.library.width               "760">
 <!ENTITY places.library.height              "500">
 <!ENTITY organize.label                     "Usporiadať">
-<!ENTITY organize.accesskey                 "U">
+<!ENTITY organize.accesskey                 "s">
 
 <!ENTITY file.accesskey                     "S">
 <!ENTITY file.close.label                   "Zavrieť">
@@ -134,26 +134,18 @@
 <!ENTITY col.dateadded.label                "Pridané">
 <!ENTITY col.lastmodified.label             "Posledná úprava">
 
-<!ENTITY search.label                       "Hľadať:">
-<!ENTITY search.accesskey                   "H">
-<!ENTITY search.collection.label            "Len aktuálna kolekcia">
-<!ENTITY search.collection.accesskey        "L">
-<!ENTITY search.allBookmarks.label          "Všetky záložky">
-<!ENTITY search.allBookmarks.accesskey      "V">
-<!ENTITY search.scopeFolder.label                  "Označený priečinok">
-<!ENTITY search.scopeFolder.accesskey              "p">
-<!ENTITY search.scopeAll.label                     "Všetky záložky">
-<!ENTITY search.scopeAll.accesskey                 "V">
-<!ENTITY search.scopeMenu.label                    "Ponuku Záložky">
-<!ENTITY search.scopeMenu.accesskey                "Z">
-<!ENTITY search.scopeToolbar.label                 "Panel záložiek">
-<!ENTITY search.scopeToolbar.accesskey             "P">
-<!ENTITY search.scopeDownloads.label               "Prevzaté súbory">
-<!ENTITY search.scopeDownloads.accesskey           "P">
-<!ENTITY search.scopeHistory.label                 "Históriu">
-<!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Zobraziť možnosti vyhľadávania">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Skryť možnosti vyhľadávania">
+<!ENTITY search.label                       "Prehľadávať:">
+<!ENTITY search.accesskey                   "h">
+<!ENTITY search.scopeFolder.label           "Označený priečinok">
+<!ENTITY search.scopeFolder.accesskey       "a">
+<!ENTITY search.scopeBookmarks.label        "Záložky">
+<!ENTITY search.scopeBookmarks.accesskey    "Z">
+<!ENTITY search.scopeDownloads.label        "Prevzaté súbory">
+<!ENTITY search.scopeDownloads.accesskey    "P">
+<!ENTITY search.scopeHistory.label          "Históriu">
+<!ENTITY search.scopeHistory.accesskey      "H">
+<!ENTITY search.scopeBarExpanderDown.tooltip "Zobraziť možnosti vyhľadávania">
+<!ENTITY search.scopeBarExpanderUp.tooltip  "Skryť možnosti vyhľadávania">
 <!ENTITY saveSearch.label                   "Uložiť">
 <!ENTITY saveSearch.accesskey               "U">
 <!ENTITY moreCriteria.label                 "+">
