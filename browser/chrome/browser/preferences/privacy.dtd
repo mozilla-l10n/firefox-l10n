@@ -1,5 +1,7 @@
 <!ENTITY history.label "التاريخ">
 
+<!ENTITY  locationBar.label             "شريط العناوين">
+
 <!ENTITY  locbar.pre.label              "عند استخدام شريط العناوين، اقترح:">
 <!ENTITY  locbar.pre.accessKey          "ح">
 <!ENTITY  locbar.post.label             "">
