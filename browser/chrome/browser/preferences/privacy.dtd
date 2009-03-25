@@ -30,7 +30,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  history.label "Žurnalas">
+<!ENTITY  history.label                 "Žurnalas">
+
+<!ENTITY  locationBar.label             "Adreso laukas">
 
 <!ENTITY  locbar.pre.label              "Rašant adreso lauke, siūlyti tinklalapius iš:">
 <!ENTITY  locbar.pre.accessKey          "d">
@@ -78,7 +80,6 @@
 <!ENTITY  showCookies.label             "Rodyti slapukus…">
 <!ENTITY  showCookies.accesskey         "R">
 
-
 <!ENTITY  privateData.label             "Privatieji duomenys">
 
 <!ENTITY  alwaysClear.label              "Baigiant darbą su „&brandShortName;“ pašalinti įrašytus privačius duomenis">
@@ -86,3 +87,54 @@
 
 <!ENTITY  clearDataSettings.label        "Nuostatos…">
 <!ENTITY  clearDataSettings.accesskey    "N">
+
+<!ENTITY  historyHeader.pre.label                "„&brandShortName;“ privalo:">
+<!ENTITY  historyHeader.pre.accesskey            "t">
+<!ENTITY  historyHeader.remember.label           "vesti žurnalą">
+<!ENTITY  historyHeader.dontremember.label       "niekada nevesti žurnalo">
+<!ENTITY  historyHeader.custom.label             "laikytis tinkintų žurnalo vedimo nuostatų">
+<!ENTITY  historyHeader.post.label               "">
+
+<!ENTITY  rememberDescription.label              "Naršyklė įsimins Jūsų naršytus tinklalapius, parsiųstus failus, įvestas formų ir paieškos laukų reikšmes bei laikys lankomų svetainių slapukus.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label              "Taip pat galbūt norite ">
+<!ENTITY  rememberActions.clearHistory.label     "išvalyti žurnalą">
+<!ENTITY  rememberActions.middle.label           " arba ">
+<!ENTITY  rememberActions.removeCookies.label    "pašalinti kai kuriuos slapukus">
+<!ENTITY  rememberActions.post.label             ".">
+
+<!ENTITY  dontrememberDescription.label          "Naršyklė visą laiką laikysis privačiojo naršymo seanso nuostatų ir nepildys žurnalo.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Taip pat galbūt norite ">
+<!ENTITY  dontrememberActions.clearHistory.label "visiškai išvalyti žurnalą">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label         "Paleidžiant „&brandShortName;“, automatiškai pradėti privačiojo naršymo seansą">
+<!ENTITY  privateBrowsingAutoStart.accesskey     "A">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label              "Žurnale įsiminti lankytus tinklalapius bent">
+<!ENTITY  rememberHistory.pre.accesskey          "r">
+<!ENTITY  rememberHistory.post.label             "d.">
+
+<!ENTITY  rememberDownload.label                 "Įsiminti parsiųstus failus">
+<!ENTITY  rememberDownload.accesskey             "s">
+
+<!ENTITY  rememberSearchForm.label               "Įsiminti įvestas formų ir paieškos laukų reiškmes">
+<!ENTITY  rememberSearchForm.accesskey           "f">
+
+<!ENTITY  clearOnClose.label                     "Išvalyti žurnalą baigiant „&brandShortName;“ darbą">
+<!ENTITY  clearOnClose.accesskey                 "b">
+
+<!ENTITY  clearOnCloseSettings.label             "Nuostatos…">
+<!ENTITY  clearOnCloseSettings.accesskey         "N">

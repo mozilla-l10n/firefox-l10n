@@ -217,14 +217,20 @@
 <!ENTITY historyMenu.label "Žurnalas">
 <!ENTITY historyMenu.accesskey "u">
 <!ENTITY historyUndoMenu.label "Paskiausiai užvertos kortelės">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Paskiausiai užverti langai">
 
 <!ENTITY historyHomeCmd.label "Pradžios tinklalapis">
 <!ENTITY showAllHistoryCmd2.label "Rodyti visą žurnalą">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Paieška adresyne ir žurnale">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY openCmd.commandkey                 "l">
+<!ENTITY urlbar.emptyText                   "Paieška adresyne ir žurnale">
+<!ENTITY urlbar.bookmarkhistory.emptyText   "Paieška adresyne ir žurnale">
+<!ENTITY urlbar.bookmark.emptyText          "Paieška adresyne">
+<!ENTITY urlbar.history.emptyText           "Paieška žurnale">
+<!ENTITY urlbar.none.emptyText              "Įveskite tinklalapio adresą">
+<!ENTITY urlbar.accesskey                   "d">
 
 <!-- 
   Comment duplicated from browser-sets.inc:

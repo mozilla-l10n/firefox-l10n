@@ -12,7 +12,6 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
    -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
@@ -34,7 +33,7 @@
 <!ENTITY  prefWindow.titleGNOME   "„&brandShortName;“ nuostatos">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY  prefWinMinSize.styleWin      "width: 50em; min-height: 43em;">
+<!ENTITY  prefWinMinSize.styleWin2      "width: 50em; min-height: 43em;">
 <!ENTITY  prefWinMinSize.styleMac      "width: 57em; min-height: 45em;">
 <!ENTITY  prefWinMinSize.styleGNOME    "width: 52em; min-height: 41.5em;">
 
