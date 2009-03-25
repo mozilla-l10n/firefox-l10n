@@ -31,15 +31,16 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY restorepage.tabtitle       "Seanso atkūrimas">
-<!ENTITY restorepage.pagetitle      "Ar norėtumėte atkurti ankstesnį naršymo seansą?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Paskutinis Jūsų darbo su „&brandShortName;“ seansas netikėtai nutrūko. Nuoširdžiai apgailestaujame dėl nepatogumų. Galite atstatyti ankstesnio seanso langus ir korteles, arba, jei jie nebereikalingi, pradėti naują seansą.">
-<!ENTITY restorepage.remedies       "Jei „&brandShortName;“ darbas nutrūksta keliskart paeiliui:">
-<!ENTITY restorepage.dueToChrome    "pabandykite išjungti pastaruoju metu įdiegtus priedus, arba">
-<!ENTITY restorepage.dueToContent   "pabandykite atkurti seansą, neatverdami tinklalapių, kurie, Jūsų nuomone, galėtų būti šių trikčių priežastimi:">
 
-<!ENTITY restorepage.restoreButton  "Atkurti ankstesnį seansą">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Et, nemalonu…">
+<!ENTITY restorepage.problemDesc    "„&brandShortName;“ nepavyksta atkurti Jūsų langų ir kortelių. Paprastai dėl to kalta kažkuri iš vėliausiai atvertų kortelių.">
+<!ENTITY restorepage.tryThis        "Jūs galite:">
+<!ENTITY restorepage.restoreSome    "pašalinti vieną ar daugiau kortelių, kurios, Jūsų manymu, gali būti šios problemos priežastimi">
+<!ENTITY restorepage.startNew       "pradėti visiškai naują naršymo seansą">
+
+<!ENTITY restorepage.tryagainButton "Atkurti">
 <!ENTITY restorepage.restore.access "A">
 <!ENTITY restorepage.cancelButton   "Pradėti naują seansą">
 <!ENTITY restorepage.cancel.access  "P">
