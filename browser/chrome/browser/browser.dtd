@@ -96,13 +96,17 @@
 <!ENTITY bookmarksItem.title          "Marque-pages">
 
 <!-- Toolbar items -->
-<!ENTITY  homeButton.label            "Accueil">
+<!ENTITY  homeButton.label          "Accueil">
 
-<!ENTITY bookmarksButton.label          "Marque-pages">
-<!ENTITY bookmarksButton.tooltip        "Afficher le panneau des marque-pages">
-<!ENTITY bookmarksSidebarCmd.accesskey  "m">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.label      "Marque-pages">
+<!ENTITY bookmarksButton.tooltip    "Afficher le panneau des marque-pages">
+<!ENTITY bookmarksButton.accesskey  "M">
+<!ENTITY bookmarksCmd.commandkey    "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historique">
 <!ENTITY historyButton.tooltip          "Afficher les pages visitées récemment">
