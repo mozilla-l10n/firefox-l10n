@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "A">
 <!ENTITY  reloadTab.label        "ටැබය යළි පූරණය">
 <!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  openTabInNewWindow.label    "අලුත් කවුළුවක අරින්න">
+<!ENTITY  openTabInNewWindow.accesskey "W">
 <!ENTITY  listAllTabs.label      "ටැබ් ලැයිස්තුව">
 <!ENTITY  bookmarkAllTabs.label       "ටැබ් සියල්ල පිටු සලකුණුගත කරන්න…">
 <!ENTITY  bookmarkAllTabs.accesskey   "T">
