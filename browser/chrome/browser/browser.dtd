@@ -85,9 +85,14 @@
 
 <!ENTITY bookmarksButton.label          "Faqerojtësa">
 <!ENTITY bookmarksButton.tooltip        "Shfaqni faqerojtësit tuaj">
-<!ENTITY bookmarksSidebarCmd.accesskey  "F">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "F">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
 
 <!ENTITY historyButton.label            "Historik">
 <!ENTITY historyButton.tooltip          "Shfaqni faqet që keni parë së fundmi">
