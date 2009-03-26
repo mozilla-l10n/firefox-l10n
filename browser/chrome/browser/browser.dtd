@@ -80,9 +80,10 @@
 <!ENTITY homeButton.label "Домой">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Отобразить ваши закладки">
-<!ENTITY bookmarksSidebarCmd.accesskey "З">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey "к">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Журнал">
 <!ENTITY historyButton.tooltip "Отобразить список недавно просмотренных страниц">
 <!ENTITY historySidebarCmd.accesskey "Ж">
