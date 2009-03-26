@@ -31,7 +31,7 @@
 <!ENTITY editBookmark.edit.accessKey                 "E">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY fullScreenExit.label "පූර්‍ණතිර ආකාරයෙන් ඉවත් වන්න">
+<!ENTITY fullScreenExit.label "පර්ණතිර ආකාරයෙන් ඉවත් වන්න">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.label       "විශාල කරන්න">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
@@ -54,7 +54,10 @@
 <!ENTITY fullZoom.accesskey             "Z">
 
 
-
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 
 
 <!ENTITY tabCmd.label "නව ටැබයක් විවෘත කරන්න">
@@ -231,9 +234,16 @@
 <!-- XXX historyMenu entities are used with or without places (bug 336058) -->
 <!ENTITY historyMenu.label "අතීතය">
 <!ENTITY historyMenu.accesskey "s">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "මෑතකදී වැසූ කවුළු">
 <!-- XXX places only -->
 <!ENTITY historyHomeCmd.label "ආරම්භක පිටුව">
 <!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.emptyText             "අතීතය සහ පිටු සළකුණු සෙවීම">
+<!ENTITY urlbar.bookmarkhistory.emptyText "අතීතය සහ පිටු සළකුණු සෙවීම">
+<!ENTITY urlbar.bookmark.emptyText    "පිටු සළකුණු සෙවීම">
+<!ENTITY urlbar.history.emptyText     "අතීතය සෙවීම">
+<!ENTITY urlbar.none.emptyText        "වෙබ් ලිපිනයක් ටයිප් කරන්න">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -324,10 +334,7 @@
 <!ENTITY thisFrameMenu.label              "මෙම රාමුව">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
-
-
-
-
+<!ENTITY newTabButton.tooltip           "නව ටැබයක් අරින්න">
 <!ENTITY newWindowButton.tooltip        "නව කවුළුවක් අරින්න">
 <!ENTITY sidebarCloseButton.tooltip     "පැති තීරුව වසන්න">
 
