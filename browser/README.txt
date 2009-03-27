@@ -1,7 +1,6 @@
 Информацию об установке, запуске и настройке Firefox, а также список
-известных проблем и важных изменений можно найти:
-На английском языке - на сайте http://getfirefox.com/releases/
-На русском языке - на сайте http://www.mozilla-russia.org/ (сайт поддержки)
-и http://forum.mozilla-russia.org/ (форум сообщества пользователей Firefox)
+известных проблем и важных изменений можно найти на:
+Сайтах http://www.mozilla-europe.org/ru/firefox/ и http://www.mozilla-russia.org/
+Форуме http://forum.mozilla-russia.org/ 
 
 
