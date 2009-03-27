@@ -11,15 +11,14 @@
 # for the specific language governing rights and limitations under the
 # License.
 #
-# The Original Code is mozilla.org code.
+# The Original Code is the Firefox browser.
 #
 # The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998
+# Benjamin Smedberg <bsmedberg@covad.net>
+# Portions created by the Initial Developer are Copyright (C) 2004
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
-#   Ben Goodger
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,27 +34,6 @@
 #
 # ***** END LICENSE BLOCK *****
 
-# note this section of the code may require some tinkering in other languages =(
-# format in dialog: site [can/cannot] set cookies
-can=server může uložit cookies
-cannot=server nemůže uložit cookies
-canSession=stránka může nastavit cookies pro relaci
-domain=Doména, ze které cookie přichází:
-host=Server, který poslal cookie:
-hostColon=Server:
-domainColon=Doména:
-forSecureOnly=Pouze šifrovaná spojení
-forAnyConnection=Jakýkoliv typ spojení
-expireAtEndOfSession=Na konci relace
-deleteAllCookies=Chcete skutečně odebrat všechny cookies?
-deleteAllCookiesTitle=Odebrání všech cookies
-deleteAllCookiesYes=&Odebrat
-deleteAllCookiesSites=Chcete skutečně odebrat všechny servery?
-deleteAllSitesTitle=Odebrání všech serverů
-deleteAllSitesYes=&Odebrat
-deleteSelectedCookies=Chcete skutečně odebrat označené cookies?
-deleteSelectedCookiesTitle=Odebrání označených cookies
-deleteSelectedCookiesYes=&Odebrat
-deleteSelectedCookiesSites=Chcete skutečně odebrat označené servery?
-deleteSelectedSitesTitle=Odebrání označených serverů
-deleteSelectedSitesYes=&Odebrat
+#filter substitution
+
+pref("general.useragent.locale", "@AB_CD@");
