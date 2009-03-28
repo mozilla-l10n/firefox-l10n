@@ -100,9 +100,13 @@
 
 <!ENTITY bookmarksButton.label          "چوب‌الف‌ها">
 <!ENTITY bookmarksButton.tooltip        "نمایش چوب‌الف‌ها">
-<!ENTITY bookmarksSidebarCmd.accesskey  "چ">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "چ">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "تاریخچه">
 <!ENTITY historyButton.tooltip          "نمایش صفحه‌هایی که اخیراً دیده‌اید">
