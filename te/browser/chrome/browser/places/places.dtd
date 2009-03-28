@@ -1,8 +1,8 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Library">
+<!ENTITY places.library.title  "దాచిన సంచయము">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Organize">
+<!ENTITY organize.label        "అమర్చు">
 <!ENTITY organize.accesskey    "O">
 
 <!ENTITY file.accesskey                 "F">
@@ -135,18 +135,10 @@
 
 <!ENTITY search.label                              "శోధించు:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "ప్రస్తుత సంకలనం మాత్రమే">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "అన్ని ఇష్టాంశములు">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "ఎంపికచేసిన సంచయం">
 <!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "అన్ని ఇష్టాంశములు">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "ఇష్టాంశముల జాబితా">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "ఇష్టాంశముల సాధనపట్టీ">
-<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeBookmarks.label               "ఇష్టాంశములు">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "డౌన్‌లోడ్స్ ‌">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "చరిత్ర">
