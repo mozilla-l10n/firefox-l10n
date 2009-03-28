@@ -88,7 +88,7 @@
 <!ENTITY goEndCap.tooltip "اذهب للعنوان في شريط الموقع">
 <!ENTITY feedButton.tooltip           "اشترك في هذه الصفحة…">
 <!ENTITY printButton.label "اطبع">
-<!ENTITY printButton.tooltip "اطبع هذه الصّفحة">
+<!ENTITY printButton.tooltip "اطبع هذه الصفحة">
 
 <!ENTITY locationItem.title "المكان">
 <!ENTITY searchItem.title "ابحث">
@@ -100,9 +100,14 @@
 
 <!ENTITY bookmarksButton.label "العلامات">
 <!ENTITY bookmarksButton.tooltip "اعرض علاماتك">
-<!ENTITY bookmarksSidebarCmd.accesskey "ع">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "ع">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
 
 <!ENTITY historyButton.label "التاريخ">
 <!ENTITY historyButton.tooltip "اعرض الصفحات التي شاهدتها مؤخرًا">
