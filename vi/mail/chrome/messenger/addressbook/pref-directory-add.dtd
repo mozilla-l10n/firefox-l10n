@@ -65,6 +65,13 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "kết quả">
 <!ENTITY offlineText.label                 "Bạn có thể tải xuống một bản sao của thư mục này để sử dụng khi đang ở chế độ ngoại tuyến.">
+<!ENTITY saslMechanism.label               "Phương thức đăng nhập: ">
+<!ENTITY saslMechanism.accesskey           "P">
+<!ENTITY saslOff.label                     "Đơn giản">
+<!ENTITY saslOff.accesskey                 "g">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

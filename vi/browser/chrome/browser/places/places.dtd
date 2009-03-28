@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Tìm kiếm:">
 <!ENTITY search.accesskey                          "k">
-<!ENTITY search.collection.label                   "Chỉ Bộ sưu tập Hiện tại">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "Toàn bộ các Trang đánh dấu">
-<!ENTITY search.allBookmarks.accesskey             "b">
 <!ENTITY search.scopeFolder.label                  "Thư mục được chọn">
 <!ENTITY search.scopeFolder.accesskey              "n">
-<!ENTITY search.scopeAll.label                     "Toàn bộ các Trang đánh dấu">
-<!ENTITY search.scopeAll.accesskey                 "b">
-<!ENTITY search.scopeMenu.label                    "Trình đơn Đánh dấu">
-<!ENTITY search.scopeMenu.accesskey                "u">
-<!ENTITY search.scopeToolbar.label                 "Thanh Đánh Dấu">
-<!ENTITY search.scopeToolbar.accesskey             "u">
+<!ENTITY search.scopeBookmarks.label               "Đánh dấu">
+<!ENTITY search.scopeBookmarks.accesskey           "u">
 <!ENTITY search.scopeDownloads.label               "Tải xuống">
 <!ENTITY search.scopeDownloads.accesskey           "x">
 <!ENTITY search.scopeHistory.label                 "Lược sử">
@@ -199,7 +191,7 @@
 <!ENTITY view.details.label        "Chi tiết">
 <!ENTITY view.details.accesskey    "C">
 
-<!ENTITY view.addons.label   "Lấy các Tiện ích Hiển thị">
+<!ENTITY view.addons.label   "Lấy thêm Tiện ích Hiển thị">
 
 <!ENTITY maintenance.label      "Nhập và Sao lưu">
 <!ENTITY maintenance.accesskey  "v">

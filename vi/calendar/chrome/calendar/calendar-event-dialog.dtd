@@ -71,8 +71,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "S">
 <!ENTITY  event.menu.file.new.message.label               "Thư">
 <!ENTITY  event.menu.file.new.message.accesskey           "T">
-<!ENTITY  event.menu.file.new.address.label               "Danh thiếp Sổ địa chỉ">
-<!ENTITY  event.menu.file.new.address.accesskey           "a">
+<!ENTITY  event.menu.file.new.contact.label               "Tên liên hệ trên Sổ Địa Chỉ">
+<!ENTITY  event.menu.file.new.contact.accesskey           "C">
 <!ENTITY  event.menu.file.close.label                     "Đóng">
 <!ENTITY  event.menu.file.close.accesskey                 "g">
 <!ENTITY  event.menu.file.save.label                      "Lưu">
