@@ -32,16 +32,11 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey        "C">
 <!ENTITY itemActiveLogins.label       "చేతన లాగ్ ఇన్లు">
 <!ENTITY itemActiveLogins.accesskey   "L">
-<!ENTITY clearDuration.label          "తొలగించు ">
-<!ENTITY clearDuration.accesskey      "R">
-<!ENTITY clearDuration.lastHour       "ఇటీవలి  ఒక గంట">
-<!ENTITY clearDuration.last2Hours     "ఇటీవలి  2 గంటలు ">
-<!ENTITY clearDuration.last4Hours     "ఇటీవలి  4 గంటలు">
-<!ENTITY clearDuration.today          "నా  ఈనాటి వీక్షణ చరిత్ర ">
-<!ENTITY clearDuration.everything     "నా   వీక్షణ చరిత్ర మొత్తము ">
+
+
+
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix         "">
 
 <!ENTITY historySection.label         "వీక్షణ చరిత్ర">
 <!ENTITY dataSection.label            "దత్తాంశము">
@@ -51,6 +46,8 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.label     " వీక్షణ మరియు దిగుమతుల చరిత్ర ">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemBrowsingHistory.label         "వీక్షణ చరిత్ర">
+<!ENTITY itemFormSearchHistory.label       "ఫారమ్ &amp; శోధన చరిత్ర ">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemBrowsingHistory.accesskey     "B">
 <!ENTITY itemCache.label                   "క్యాచి">
 <!ENTITY itemCache.accesskey               "A">

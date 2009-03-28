@@ -60,6 +60,7 @@
 <!ENTITY  historyHeader.dontremember.label " ఎప్పుడు  చరిత్రని గుర్తు పెట్టుకోదు">
 <!ENTITY  historyHeader.custom.label       "చరిత్రకు వ్యక్తిగత అమరికలు వాడు">
 <!ENTITY  historyHeader.post.label         "">
+<!ENTITY  rememberDescription.label      "&brandShortName; మీ వీక్షణ, దిగుమతి, ఫారమ్ మరియు శోధన చరిత్ర గుర్తుంచుకుంటుంది మరియు, మీరు దర్శించిన వెబ్ సైటులయొక్క కుకీలను దాచుతుంది.">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; మూయునపుడు చరిత్రని చెరిపివేయి">
 <!ENTITY  clearOnClose.accesskey         "w">
