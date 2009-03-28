@@ -96,6 +96,7 @@
 <!ENTITY bookmarksButton.tooltip        "మీ ఇష్టాంశములు ప్రదర్శించుము">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "చరిత్ర">
@@ -179,6 +180,8 @@
 <!ENTITY historyMenu.label "చరిత్ర">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "ఇటీవల మూసిన టాబులు">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "ఇటీవల మూసిన విండోలు">
 
 <!-- XXX places only -->
 <!ENTITY historyHomeCmd.label "నివాసము">
@@ -306,7 +309,7 @@
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ఈ ఫ్రేమ్ ">
 <!ENTITY thisFrameMenu.accesskey          "h">
-
+<!ENTITY newTabButton.tooltip           "కొత్త టాబ్  నుతెరువు">
 <!ENTITY newWindowButton.tooltip        "కొత్త విండోను తెరువు">
 <!ENTITY sidebarCloseButton.tooltip     "పక్క పట్టీని మూయి">
 
@@ -415,6 +418,10 @@
 <!ENTITY showAllHistoryCmd2.label "చరిత్ర మొత్తం చూపుము">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY urlbar.emptyText             "శోధిత ఇష్టాంశములు మరియు  చరిత్ర">
+<!ENTITY urlbar.bookmarkhistory.emptyText "ఇష్టాంశములు మరియు  చరిత్రని శోధించు">
+<!ENTITY urlbar.bookmark.emptyText    "ఇష్టాంశములలోశోధన">
+<!ENTITY urlbar.history.emptyText     "చరిత్రలో శోధన">
+<!ENTITY urlbar.none.emptyText        "వెబ్ చిరునామాను ప్రవేశపెట్టు">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY copyLinkTextCmd.label        "లింకు పాఠ్యమును నకలుతీయుము">
 <!ENTITY fullZoom.accesskey             "Z">

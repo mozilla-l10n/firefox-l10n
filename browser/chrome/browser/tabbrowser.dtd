@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "A">
 <!ENTITY  reloadTab.label        "టాబ్ తిరిగిలోడ్‌చేయి">
 <!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  openTabInNewWindow.label    "కొత్త విండోలో తెరువు">
+<!ENTITY  openTabInNewWindow.accesskey "W">
 <!ENTITY  listAllTabs.label      "అన్ని టాబ్‌లను జాబితాచేయి">
 <!ENTITY  bookmarkAllTabs.label       "అన్ని టాబ్‌లను ఇష్టాంశముచేయి…">
 <!ENTITY  bookmarkAllTabs.accesskey   "T">
