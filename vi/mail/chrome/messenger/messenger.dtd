@@ -690,7 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.label "Lưu Liên Kết dưới dạng…">
 <!ENTITY saveLinkAsCmd.accesskey "K">
 <!ENTITY saveImageAsCmd.label "Lưu Ảnh dưới dạng…">
-<!ENTITY saveImageAsCmd.accesskey "n">
+<!ENTITY saveImageAsCmd.accesskey "L">
 <!ENTITY copyCmd.label "Chép">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Chọn Toàn Bộ">

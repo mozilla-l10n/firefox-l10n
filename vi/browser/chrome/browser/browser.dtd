@@ -198,9 +198,9 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Tìm trong Trang đánh dấu và Lược sử">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Tìm trong Trang đánh dấu và Lược sử">
-<!ENTITY urlbar.bookmark.emptyText    "Tìm các Trang đánh dấu">
+<!ENTITY urlbar.emptyText             "Tìm kiếm Trang đánh dấu và Lược sử">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Tìm kiếm Trang đánh dấu và Lược sử">
+<!ENTITY urlbar.bookmark.emptyText    "Tìm kiếm Trang đánh dấu">
 <!ENTITY urlbar.history.emptyText     "Tìm kiếm Lược sử">
 <!ENTITY urlbar.none.emptyText        "Gõ một địa chỉ Web">
 <!ENTITY urlbar.accesskey             "d">
