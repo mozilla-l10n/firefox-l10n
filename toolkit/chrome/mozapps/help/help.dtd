@@ -6,10 +6,10 @@
 
 <!ENTITY backButton.label               "Lùi">
 <!ENTITY backButton.accesskey           "L">
-<!ENTITY backButton.tooltip             "Lùi về một trang">
+<!ENTITY backButton.tooltip             "Trở lại trang trước">
 <!ENTITY forwardButton.label            "Tiến">
 <!ENTITY forwardButton.accesskey        "T">
-<!ENTITY forwardButton.tooltip          "Tiến tới một trang">
+<!ENTITY forwardButton.tooltip          "Tiến tới trang sau">
 <!ENTITY copyCmd.label                  "Chép">
 <!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "Chọn Toàn Bộ">
@@ -43,7 +43,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Luôn Nằm trên">
+<!ENTITY zLevel.label                   "Luôn nằm Trên cùng">
 <!ENTITY zLevel.accesskey               "n">
 
 <!ENTITY fullZoomReduceBtn.label        "Thu nhỏ">

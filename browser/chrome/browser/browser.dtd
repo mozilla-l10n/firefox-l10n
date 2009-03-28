@@ -78,7 +78,7 @@
 <!ENTITY backButton.tooltip           "Trở lại trang trước">
 <!ENTITY forwardCmd.label             "Tiến">
 <!ENTITY forwardCmd.accesskey         "T">
-<!ENTITY forwardButton.tooltip        "Tiến tới một trang">
+<!ENTITY forwardButton.tooltip        "Tiến tới trang sau">
 <!ENTITY backForwardMenu.tooltip      "Các trang vừa xem">
 <!ENTITY reloadCmd.label              "Tải lại">
 <!ENTITY reloadCmd.accesskey          "i">
@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "Hiển thị các trang đánh dấu của bạn">
 <!ENTITY bookmarksSidebarCmd.accesskey  "u">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Lược sử">
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "Lược sử">
 <!ENTITY historyMenu.accesskey "L">
 <!ENTITY historyUndoMenu.label "Các thẻ Đã đóng Gần đây">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Các cửa sổ Đã đóng Gần đây">
 
 <!ENTITY historyHomeCmd.label "Trang chủ">
 <!ENTITY showAllHistoryCmd2.label "Hiển thị Toàn bộ Lược sử">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Tìm trong Trang đánh dấu và Lược sử">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Tìm trong Trang đánh dấu và Lược sử">
+<!ENTITY urlbar.bookmark.emptyText    "Tìm các Trang đánh dấu">
+<!ENTITY urlbar.history.emptyText     "Tìm kiếm Lược sử">
+<!ENTITY urlbar.none.emptyText        "Gõ một địa chỉ Web">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -264,7 +274,7 @@
 <!ENTITY bookmarkThisFrameCmd.accesskey  "u">
 <!ENTITY sendPageCmd.label            "Gửi Liên Kết…">
 <!ENTITY sendPageCmd.accesskey        "K">
-<!ENTITY savePageCmd.label            "Lưu Trang Thành…">
+<!ENTITY savePageCmd.label            "Lưu Trang dưới dạng…">
 <!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "r">
@@ -277,7 +287,7 @@
 <!ENTITY saveLinkCmd.accesskey        "L">
 <!ENTITY sendLinkCmd.label            "Gửi Liên Kết…"> 
 <!ENTITY sendLinkCmd.accesskey        "K">
-<!ENTITY saveImageCmd.label           "Lưu Ảnh Thành…">
+<!ENTITY saveImageCmd.label           "Lưu Ảnh dưới dạng…">
 <!ENTITY saveImageCmd.accesskey       "n">
 <!ENTITY saveVideoCmd.label           "Lưu Phim Thành…">
 <!ENTITY saveVideoCmd.accesskey       "u">
