@@ -18,12 +18,6 @@ window {
 
 window,prefwindow,dialog,wizard,page,menu { direction: rtl; }
 
-/* Remove window resizer until we find how to change it's direction to "bottomleft" */
-
-resizer[dir="bottomright"] {
-  visibility: hidden;
-}
-
 /*
    chrome://browser/skin/pageInfo.css uses italic font style for the disabled textboxes.
    Because Persian italic fonts are busted on some platforms (such as Vista), opt for not
