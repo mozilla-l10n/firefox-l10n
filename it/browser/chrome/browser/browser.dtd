@@ -80,9 +80,10 @@
 <!ENTITY homeButton.label "Pagina iniziale">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksButton.tooltip "Mostra i segnalibri">
-<!ENTITY bookmarksSidebarCmd.accesskey "b">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey "A">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Cronologia">
 <!ENTITY historyButton.tooltip "Visualizza le pagine visitate recentemente">
 <!ENTITY historySidebarCmd.accesskey "C">
