@@ -1,13 +1,12 @@
 <!ENTITY restorepage.tabtitle       "அமர்வை மறுசேமி">
-<!ENTITY restorepage.pagetitle      "உங்கள் அமர்வை மறுசேமிப்பு செய்ய வேண்டுமா?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "உங்கள் முந்தைய &brandShortName; அமர்வு எதிர்பாராமல் முடிக்கப்பட்டது. அதற்காக நாங்கள் மிகவும் வருந்துகிறோம். நீங்கள் உங்கள் முந்தைய அமர்விலிருந்து அல்லது ஒரு புதிய அமர்விலிருந்து தத்தல்களையும் சாளரத்தையும் மறுசேமிப்பு செய்து கொள்ளலாம்.">
-<!ENTITY restorepage.remedies       "&brandShortName; மீண்டும் மீண்டும் மூடப்பட்டால்:">
-<!ENTITY restorepage.dueToChrome    "கூடுதல் இணைப்பு மேலாளரில் சமீபத்தில் சேர்க்கப்பட்ட விரிவாக்கங்களை செயல்நீக்கம் செய்யவும்.">
-<!ENTITY restorepage.dueToContent   "சிக்கலை கொடுக்கும் இணைய பக்கங்களை தவிர மற்றவற்றை மறுசேமிப்பு செய்யவும்:">
-
-<!ENTITY restorepage.restoreButton  "முந்தைய அமர்வை மறுசேமி">
+<!ENTITY restorepage.errorTitle     "சரி, இது தொந்தரவானது.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; உங்கள் சாளரங்கள் மற்றும் தத்தல்களை மீட்பதில் சிக்கலை கொண்டுள்ளது. இது சமீபத்தில் திறக்கப்பட்ட இணைய பக்கத்தால் ஏற்படுகிறது.">
+<!ENTITY restorepage.restoreSome    "ஒன்று அல்லது பல தத்தல்களை நீக்குவதை நீங்கள் சிக்கல் உண்டாக்கலாம் என நினைக்கலாம்">
+<!ENTITY restorepage.startNew       "முழுவதும் ஒரு புதிய உலாவும் அமர்வை துவக்குகிறது">
+<!ENTITY restorepage.tryThis        "நீங்கள் முயற்சிக்கலாம்:">
+<!ENTITY restorepage.tryagainButton "மறுசேமி">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "புதிய அமர்வை துவக்கு">
 <!ENTITY restorepage.cancel.access  "S">

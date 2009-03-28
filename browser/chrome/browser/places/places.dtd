@@ -134,20 +134,12 @@
 <!ENTITY col.dateadded.label     "சேர்க்கப்பட்டது">
 <!ENTITY col.lastmodified.label  "கடைசியாக திருத்தியமைக்கப்பட்டது">
 
+<!ENTITY search.scopeBookmarks.label               "புத்தகக்குறிகள்">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.label                              "தேடு:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "நடப்பு தொகுப்பு மட்டும்">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "அனைத்து புத்தகக்குறி">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "தேர்ந்தெடுக்கப்பட்ட அடைவு">
 <!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "அனைத்து புத்தகக்குறி">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "புத்தகக்குறி மெனு">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "புத்தகக்குறி கருவிப்பட்டி">
-<!ENTITY search.scopeToolbar.accesskey             "T">
 <!ENTITY search.scopeDownloads.label               "பதிவிறக்கங்கள்">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "வரலாறு">

@@ -17,3 +17,5 @@
 <!ENTITY  undoCloseTab.label          "மறைந்த தத்தல்களை மூடவும்">
 <!ENTITY  undoCloseTab.accesskey      "U">
 <!ENTITY  newTabButton.tooltip        "ஒரு புதிய தத்தலை திற">
+<!ENTITY  openTabInNewWindow.label    "புதிய சாளரத்தில் திற">
+<!ENTITY  openTabInNewWindow.accesskey "W">
