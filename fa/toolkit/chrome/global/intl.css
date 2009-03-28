@@ -55,13 +55,6 @@ parsererror {
 	direction: ltr !important;
 }
 
-/* right-align the safebrowsing titlebox background - Bug 399003 */
-
-#safebrowsing-palm-message-titlebox
-{
-  background-position: top right !important;
-}
-
 /* styles for the Book of Mozilla (about:mozilla) */
 
 /********************
