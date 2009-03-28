@@ -50,7 +50,7 @@ parsererror {
 
 /* set LTR for startpage, user agent and part of JavaScript console  */
 
-#browserHomePage, #userAgent, #ToolbarEval > #TextboxEval
+#browserHomePage, #userAgent
 {
   direction: ltr !important;
 }
