@@ -48,13 +48,6 @@ parsererror {
   text-align: right !important;
 }
 
-/* set LTR for startpage, user agent and part of JavaScript console  */
-
-#browserHomePage
-{
-  direction: ltr !important;
-}
-
 /* set LTR for login and password dialogs  */
 
 #password1Textbox, #password2Textbox, #loginTextbox
