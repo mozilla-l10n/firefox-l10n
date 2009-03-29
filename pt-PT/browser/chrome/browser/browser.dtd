@@ -86,6 +86,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Pára de carregar esta página">
 <!ENTITY goEndCap.tooltip             "Ir para o endereço da Barra de Localização">
+<!ENTITY feedButton.tooltip           "Subscrever esta página…">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 
@@ -99,9 +100,14 @@
 
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostra os marcadores">
-<!ENTITY bookmarksSidebarCmd.accesskey "m">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "m">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+key should not contain the letters A-F, since these are reserved
+shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
 
 <!ENTITY historyButton.label "Histórico">
 <!ENTITY historyButton.tooltip "Mostra as páginas que visitou recentemente">
