@@ -1,14 +1,15 @@
 <!ENTITY restorepage.tabtitle       "Sessie herstellen">
-<!ENTITY restorepage.pagetitle      "Wilt u uw sessie herstellen?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Uw laatste &brandShortName;-sessie is onverwacht afgesloten. Onze welgemeende excuses voor het ongemak. U kunt de tabbladen en vensters van uw vorige sessie herstellen, of een nieuwe sessie starten als deze niet meer nodig zijn.">
-<!ENTITY restorepage.remedies       "Als &brandShortName; herhaaldelijk afsluit:">
-<!ENTITY restorepage.dueToChrome    "Proberen onlangs toegevoegde extensies in de add-onbeheerder uit te schakelen.">
-<!ENTITY restorepage.dueToContent   "Proberen uw sessie te herstellen zonder webpagina’s die volgens u het probleem zouden kunnen veroorzaken:">
 
-<!ENTITY restorepage.restoreButton  "Vorige sessie herstellen">
-<!ENTITY restorepage.restore.access "V">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Dit is genant.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; heeft problemen met het herstellen van uw vensters en tabbladen. Dit wordt meestal veroorzaakt door een recentelijk geopende pagina.">
+<!ENTITY restorepage.tryThis        "U kunt proberen:">
+<!ENTITY restorepage.restoreSome    "Een of meerdere tabbladen, waarvan u denkt dat ze de problemen veroorzaken, verwijderen">
+<!ENTITY restorepage.startNew       "Een geheel nieuwe sessie starten">
+
+<!ENTITY restorepage.tryagainButton "Herstellen">
+<!ENTITY restorepage.restore.access "H">
 <!ENTITY restorepage.cancelButton   "Nieuwe sessie starten">
 <!ENTITY restorepage.cancel.access  "N">
 
