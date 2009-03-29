@@ -33,7 +33,7 @@ that require it.  -->
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "Lược sử Duyệt web và Tải xuống">
-<!ENTITY itemHistoryAndDownloads.accesskey "w">
+<!ENTITY itemHistoryAndDownloads.accesskey "D">
 <!ENTITY itemBrowsingHistory.label         "Lược sử Duyệt web">
 <!ENTITY itemBrowsingHistory.accesskey     "D">
 <!ENTITY itemFormSearchHistory.label       "Lược sử Biểu mẫu &amp; Tìm kiếm">
