@@ -8,6 +8,6 @@
 <!ENTITY closeCmdGNOME.label        "మూయుము">  
 <!ENTITY closeCmdGNOME.accesskey    "C">
 <!ENTITY copyrightInfo1             "&#169;1998-2008 సహాయకులు. అన్ని హక్కులు  పొందివున్నవి. (">
-<!ENTITY licenseLink                "లైసెన్స్ గురించి">
+<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "లైసెన్స్ వివరము">
 <!ENTITY copyrightInfo2             ").">
