@@ -48,7 +48,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; యొక్క బైనరీ  విడుదలతో  రక్షిత వీక్షణం లాంటి వెబ్ సైటు  సమాచార  సేవలు  (&quot;సేవలు &quot;)  క్రింది ఇవ్వబడిన షరతులు లోబడి    మీరు  వినయోగించవచ్చు. మీరు ఈ  సేవలు వాడదలుచుకోకపోతే, షరతులు అంగీకరించకపోతే వీటిని  అనువర్తనం  అభీష్టాలు లో  ">
 <!ENTITY rights.webservices-b "రక్షణ ">
-<!ENTITY rights.webservices-c  "విభాగంలో ,  &quot;&tellMaybeAttackSite.label;&quot;  మరియు &quot;&tellMaybeForgery.label;&quot;  కు సరి గుర్తులు  తొలగించడం ద్వారా అచేతనం చెయ్యండి">
+<!ENTITY rights.webservices-c  "విభాగంలో ,  &quot;&blockAttackSites.label;&quot;  మరియు &quot;&blockWebForgeries.label;&quot;  కు సరి గుర్తులు  తొలగించడం ద్వారా అచేతనం చెయ్యండి">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded " ఉత్పత్తి లో వున్న  వెబ్ సైటు సేవల గురించిన  సంగ్రహ సమాచారము , అటువంటి వాటిని అవసరమైతే  ఎలా అచేతనం చేయాలో  ఇక్కడ ఇవ్వాలి.">
