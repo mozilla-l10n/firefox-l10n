@@ -68,7 +68,7 @@
 <!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
 <!ENTITY retentionApplyToFlagged.accesskey "o">
 
-<!ENTITY folderOfflineTab.label                  "Hors ligne">
+<!ENTITY folderSynchronizationTab.label          "Synchronisation">
 <!ENTITY folderCheckForNewMessages.label         "Surveiller les nouveaux messages dans ce dossier">
 <!ENTITY folderCheckForNewMessages.accesskey     "S">
 
