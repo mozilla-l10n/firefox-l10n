@@ -6,36 +6,23 @@
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "הסר ">
-<!ENTITY clearDuration.accesskey      "ה">
-<!ENTITY clearDuration.lastHour       "מהשעה האחרונה">
-<!ENTITY clearDuration.last2Hours     "מהשעתיים האחרונות">
-<!ENTITY clearDuration.last4Hours     "מ־4 שעות אחרונות">
-<!ENTITY clearDuration.today          "ההיסטוריה שלי להיום">
-<!ENTITY clearDuration.everything     "כלל ההיסטוריה שלי">
-<!-- Localization note (clearDuration.suffix) - trailing entity for languages
-that require it.  -->
-<!ENTITY clearDuration.suffix         "">
-
 <!ENTITY historySection.label         "היסטוריה">
 <!ENTITY dataSection.label            "נתונים">
 
-<!ENTITY itemVisitedPages.label       "דפים שביקרתי בהם">
-<!ENTITY itemVisitedPages.accesskey   "ב">
-<!ENTITY itemFormSearchEntries.label  "טפסים ופריטי חיפוש">
-<!ENTITY itemFormSearchEntries.accesskey "ט">
-<!ENTITY itemPasswords.label "סיסמאות שמורות">
-<!ENTITY itemPasswords.accesskey "ס">
-<!ENTITY itemCookies.label "עוגיות">
-<!ENTITY itemCookies.accesskey "ע">
-<!ENTITY itemWebCache.label           "מטמון">
-<!ENTITY itemWebCache.accesskey       "מ">
-<!ENTITY itemOfflineApps.label        "נתונים לא מקוונים של אתרים">
-<!ENTITY itemOfflineApps.accesskey    "מ">
-<!ENTITY itemDownloadList.label       "רשימת הורדות">
-<!ENTITY itemDownloadList.accesskey   "ה">
-<!ENTITY itemActiveLogins.label       "התחברויות פעילות">
-<!ENTITY itemActiveLogins.accesskey   "ח">
+<!ENTITY  itemVisitedPages.label       "דפים שביקרתי בהם">
+<!ENTITY  itemVisitedPages.accesskey   "ב">
+<!ENTITY  itemFormSearchEntries.label  "טפסים ופריטי חיפוש">
+<!ENTITY  itemFormSearchEntries.accesskey "ט">
+<!ENTITY  itemPasswords.label          "סיסמאות שמורות">
+<!ENTITY  itemPasswords.accesskey      "ס">
+<!ENTITY  itemCookies.label            "עוגיות">
+<!ENTITY  itemCookies.accesskey        "ע">
 
-<!ENTITY window.width                 "30em">
+<!ENTITY  itemOfflineApps.label        "נתונים לא מקוונים של אתרים">
+<!ENTITY  itemOfflineApps.accesskey    "מ">
+
+<!ENTITY  itemActiveLogins.label       "התחברויות פעילות">
+<!ENTITY  itemActiveLogins.accesskey   "ח">
+
+<!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "14em">
