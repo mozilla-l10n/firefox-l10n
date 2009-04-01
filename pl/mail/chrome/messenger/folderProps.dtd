@@ -72,7 +72,7 @@
 <!ENTITY retentionApplyToFlagged.label      "Zawsze przechowuj wiadomości oznaczone gwiazdką">
 <!ENTITY retentionApplyToFlagged.accesskey  "Z">
 
-<!ENTITY folderOfflineTab.label                 "Tryb offline">
+<!ENTITY folderSynchronizationTab.label         "Synchronizacja"><!-- FIXME: zastępuje Tryb offline, sprawdzić wszystkie pliki pod tym kątem -->
 
 <!ENTITY folderCheckForNewMessages.label        "Sprawdzaj, czy są dostępne nowe wiadomości dla tego folderu">
 <!ENTITY folderCheckForNewMessages.accesskey    "n">
