@@ -1,4 +1,6 @@
-<!ENTITY history.label "היסטוריה">
+<!ENTITY  history.label                 "היסטוריה">
+
+<!ENTITY  locationBar.label             "סרגל המיקום">
 
 <!ENTITY  locbar.pre.label              "כאשר משתמשים בסרגל המיקום, המלץ על:">
 
@@ -19,34 +21,84 @@
 <!ENTITY  rememberDaysBefore.accesskey  "ה">
 <!ENTITY  rememberDaysAfter2.label      "ימים">
 
-<!ENTITY rememberForms.label "זכור את מה שאני מכניס בטפסים ותיבת החיפוש">
-<!ENTITY rememberForms.accesskey "ט">
-<!ENTITY rememberDownloads.label "זכור את מה שהורדתי">
-<!ENTITY rememberDownloads.accesskey "ז">
+<!ENTITY  rememberForms.label           "זכור את מה שאני מכניס בטפסים ותיבת החיפוש">
+<!ENTITY  rememberForms.accesskey       "ט">
+
+<!ENTITY  rememberDownloads.label       "זכור את מה שהורדתי">
+<!ENTITY  rememberDownloads.accesskey   "ז">
 
 
-<!ENTITY cookies.label "עוגיות">
-<!ENTITY acceptCookies.label "קבל עוגיות מאתרים">
-<!ENTITY acceptCookies.accesskey "ע">
-<!ENTITY keepUntil.label "שמור עד ש:">
-<!ENTITY keepUntil.accesskey "מ">
-<!ENTITY expire.label "הן פגות">
-<!ENTITY close.label "אני סוגר את &brandShortName;">
-<!ENTITY askEachTime.label "שאל אותי בכל פעם">
-<!ENTITY cookieExceptions.label "חריגות...">
-<!ENTITY cookieExceptions.accesskey "ח">
-<!ENTITY showCookies.label "הצג עוגיות...">
-<!ENTITY showCookies.accesskey "צ">
-<!ENTITY privateData.label "נתונים אישיים">
-<!ENTITY alwaysClear.label "תמיד נקה את הנתונים האישיים שלי כאשר אני סוגר את &brandShortName;">
-<!ENTITY alwaysClear.accesskey "נ">
-<!-- ### ENTITY askBeforeClear.label "שאל אותי לפני ניקוי נתונים אישיים" -->
-<!-- ### ENTITY askBeforeClear.accesskey "ש" -->
-<!ENTITY clearDataSettings.label "הגדרות...">
-<!ENTITY clearDataSettings.accesskey "ה">
-<!ENTITY clearDataNow.label "נקה כעת...">
-<!-- ### ENTITY clearDataNow.label2 "נקה כעת" -->
-<!ENTITY clearDataNow.accesskey "כ">
+<!ENTITY  cookies.label                 "עוגיות">
+
+<!ENTITY  acceptCookies.label           "קבל עוגיות מאתרים">
+<!ENTITY  acceptCookies.accesskey       "ע">
 
 <!ENTITY  acceptThirdParty.label        "קבל עוגיות צד־שלישי">
 <!ENTITY  acceptThirdParty.accesskey    "ש">
+
+<!ENTITY  keepUntil.label               "שמור עד ש:">
+<!ENTITY  keepUntil.accesskey           "מ">
+
+<!ENTITY  expire.label                  "הן פגות">
+<!ENTITY  close.label                   "אני סוגר את &brandShortName;">
+<!ENTITY  askEachTime.label             "שאל אותי בכל פעם">
+
+<!ENTITY  cookieExceptions.label        "חריגות...">
+<!ENTITY  cookieExceptions.accesskey    "ח">
+
+<!ENTITY  showCookies.label             "הצג עוגיות...">
+<!ENTITY  showCookies.accesskey         "צ">
+
+<!ENTITY  privateData.label             "נתונים אישיים">
+
+<!ENTITY  alwaysClear.label             "תמיד נקה את הנתונים האישיים שלי כאשר אני סוגר את &brandShortName;">
+<!ENTITY  alwaysClear.accesskey         "נ">
+
+<!ENTITY  clearDataSettings.label       "הגדרות...">
+<!ENTITY  clearDataSettings.accesskey   "ה">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; ">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "ישמור היסטוריה">
+<!ENTITY  historyHeader.dontremember.label "לעולם לא ישמור היסטוריה">
+<!ENTITY  historyHeader.custom.label       "ישתמש בהגדרות מותאמות אישית להיסטוריה">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; ישמור את היסטורית הגלישה שלך, ההורדות, טפסים והיסטורית החיפוש, וישמור עוגיות מאתרים בהם אתה מבקר.">
+
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "ייתכן ותרצה גם ">
+<!ENTITY  dontrememberActions.clearHistory.label "לנקות את כל ההיסטוריה הנוכחית">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "התחל אוטומטית את  &brandShortName; במצב גלישה פרטית">
+<!ENTITY  privateBrowsingAutoStart.accesskey "א">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "שמור את היסטורית הגלישה שלי למשך">
+<!ENTITY  rememberHistory.pre.accesskey  "ה">
+<!ENTITY  rememberHistory.post.label     "ימים לפחות">
+
+<!ENTITY  rememberDownload.label         "זכור היסטורית הורדות">
+<!ENTITY  rememberDownload.accesskey     "ז">
+
+<!ENTITY  rememberSearchForm.label       "זכור חיפושים והיסטורית טפסים">
+<!ENTITY  rememberSearchForm.accesskey   "ט">
+
+<!ENTITY  clearOnClose.label             "מחק היסטוריה כאשר &brandShortName; נסגר">
+<!ENTITY  clearOnClose.accesskey         "נ">
+
+<!ENTITY  clearOnCloseSettings.label     "הגדרות…">
+<!ENTITY  clearOnCloseSettings.accesskey "ה">
+
+<!ENTITY  clearDataNow.label             "נקה כעת...">
+<!ENTITY  clearDataNow.accesskey         "כ">
