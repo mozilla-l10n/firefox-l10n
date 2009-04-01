@@ -193,6 +193,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Lesezeichen und Chronik durchsuchen">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Lesezeichen und Chronik durchsuchen">
+<!ENTITY urlbar.bookmark.emptyText    "Lesezeichen durchsuchen">
+<!ENTITY urlbar.history.emptyText     "Chronik durchsuchen">
+<!ENTITY urlbar.none.emptyText        "Web-Adresse eingeben">
 <!ENTITY urlbar.accesskey             "s">
 
 <!-- 
