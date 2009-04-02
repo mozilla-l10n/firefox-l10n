@@ -172,10 +172,8 @@
 <!ENTITY maintenance.label "Импорт и резервирование">
 <!ENTITY maintenance.accesskey "м">
 <!ENTITY backCmd.label "Назад">
-<!ENTITY backCmd.accesskey "з">
 <!ENTITY backButton.tooltip "Перейти назад">
 <!ENTITY forwardCmd.label "Вперёд">
-<!ENTITY forwardCmd.accesskey "п">
 <!ENTITY forwardButton.tooltip "Перейти вперёд">
 <!ENTITY detailsPane.more.label "Больше">
 <!ENTITY detailsPane.more.accesskey "ш">
