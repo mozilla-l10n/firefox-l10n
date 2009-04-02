@@ -172,10 +172,8 @@
 <!ENTITY maintenance.label "Importar y respaldar">
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY backCmd.label "Atrás">
-<!ENTITY backCmd.accesskey "s">
 <!ENTITY backButton.tooltip "Ir atrás">
 <!ENTITY forwardCmd.label "Adelante">
-<!ENTITY forwardCmd.accesskey "t">
 <!ENTITY forwardButton.tooltip "Ir adelante">
 <!ENTITY detailsPane.more.label "Más">
 <!ENTITY detailsPane.more.accesskey "M">
