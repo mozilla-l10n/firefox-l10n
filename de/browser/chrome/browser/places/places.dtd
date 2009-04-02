@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Suchen:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "Nur aktuelle Auswahl">
-<!ENTITY search.collection.accesskey               "A">
-<!ENTITY search.allBookmarks.label                 "Alle Lesezeichen">
-<!ENTITY search.allBookmarks.accesskey             "L">
 <!ENTITY search.scopeFolder.label                  "Ausgewählter Ordner">
 <!ENTITY search.scopeFolder.accesskey              "O">
-<!ENTITY search.scopeAll.label                     "Alle Lesezeichen">
-<!ENTITY search.scopeAll.accesskey                 "L">
-<!ENTITY search.scopeMenu.label                    "Lesezeichen-Menü">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "Lesezeichen-Symbolleiste">
-<!ENTITY search.scopeToolbar.accesskey             "S">
+<!ENTITY search.scopeBookmarks.label               "Lesezeichen">
+<!ENTITY search.scopeBookmarks.accesskey           "L">
 <!ENTITY search.scopeDownloads.label               "Downloads">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Chronik">
