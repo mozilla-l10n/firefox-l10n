@@ -1,14 +1,15 @@
 <!ENTITY restorepage.tabtitle       "Sitzungswiederherstellung">
-<!ENTITY restorepage.pagetitle      "Soll die Sitzung wiederhergestellt werden?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Ihre letzte  &brandShortName;-Sitzung wurde unerwartet geschlossen. Bitte entschuldigen Sie die Unannehmlichkeiten. Sie können die Tabs und Fenster Ihrer letzten Sitzung wiederherstellen oder eine neue Sitzung starten, falls Sie die Fenster nicht mehr benötigen.">
-<!ENTITY restorepage.remedies       "Falls &brandShortName; wiederholt abstürzt, können Sie Folgendes probieren:">
-<!ENTITY restorepage.dueToChrome    "Deaktivieren Sie kürzlich installierte Erweiterungen im Add-ons-Manager.">
-<!ENTITY restorepage.dueToContent   "Stellen Sie die Sitzung wieder her, ohne die Webseiten, die das Problem ausgelöst haben könnten:">
 
-<!ENTITY restorepage.restoreButton  "Sitzung wiederherstellen">
-<!ENTITY restorepage.restore.access "S">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Entschuldigung, das hätte nicht passieren dürfen.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; hat Schwierigkeiten, die Tabs und Fenster Ihrer letzten Sitzung wiederherzustellen. Häufig liegt das an einer kürzlich geöffneten Webseite.">
+<!ENTITY restorepage.tryThis        "Sie können folgendes versuchen:">
+<!ENTITY restorepage.restoreSome    "Einen oder mehrere Tabs schließen, die womöglich das Problem verursachen."> 
+<!ENTITY restorepage.startNew       "Eine komplett neue Sitzung starten">
+
+<!ENTITY restorepage.tryagainButton "Wiederherstellen">
+<!ENTITY restorepage.restore.access "W">
 <!ENTITY restorepage.cancelButton   "Neue Sitzung starten">
 <!ENTITY restorepage.cancel.access  "N">
 
