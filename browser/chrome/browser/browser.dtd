@@ -186,6 +186,8 @@
 <!ENTITY historyMenu.label "Chronik">
 <!ENTITY historyMenu.accesskey "C">
 <!ENTITY historyUndoMenu.label "Kürzlich geschlossene Tabs">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Kürzlich geschlossene Fenster">
 
 <!ENTITY historyHomeCmd.label "Startseite"> 
 <!ENTITY showAllHistoryCmd2.label "Gesamte Chronik anzeigen">
