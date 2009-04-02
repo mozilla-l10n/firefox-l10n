@@ -1,5 +1,5 @@
 <!ENTITY aboutDialog.title      "&brandFullName; గురించి">
-<!ENTITY copyright              "Credits">
+<!ENTITY copyright              "గుర్తింపులు">
 <!ENTITY copyright.accesskey    "C">
 <!ENTITY copyrightGNOME.accesskey   "r">
 <!ENTITY aboutLink              "&lt;  &brandFullName; గురించి ">
