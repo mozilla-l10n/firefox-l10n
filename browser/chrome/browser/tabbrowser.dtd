@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "a">
 <!ENTITY  reloadTab.label        "重新載入分頁">
 <!ENTITY  reloadTab.accesskey         "R">
+<!ENTITY  openTabInNewWindow.label    "用新視窗開啟">
+<!ENTITY  openTabInNewWindow.accesskey "w">
 <!ENTITY  listAllTabs.label      "列出所有分頁">
 <!ENTITY  bookmarkAllTabs.label       "所有分頁加入書籤…">
 <!ENTITY  bookmarkAllTabs.accesskey   "T">
