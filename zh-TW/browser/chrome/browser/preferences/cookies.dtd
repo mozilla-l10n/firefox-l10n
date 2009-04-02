@@ -15,7 +15,7 @@
 <!ENTITY     props.secure.label             "送出:">
 <!ENTITY     props.expires.label            "有效期限:">
 
-<!ENTITY     window.title                   "Cookies">
+<!ENTITY     window.title                   "Cookie">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">

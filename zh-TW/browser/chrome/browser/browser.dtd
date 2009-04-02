@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "顯示你的書籤">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "歷史">
@@ -164,14 +168,14 @@
 <!ENTITY preferencesCmdUnix.label       "偏好設定">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "刪除最近的歷史記錄">
+<!ENTITY clearRecentHistoryCmd.label            "清除最近的歷史記錄">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "開始隱私瀏覽模式">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "停止隱私瀏覽">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "檢視"> 
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "歷史">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "最近關閉的分頁">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "最近關閉的視窗">
 
 <!ENTITY historyHomeCmd.label "首頁">
 <!ENTITY showAllHistoryCmd2.label "顯示所有瀏覽記錄">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "搜尋書籤及瀏覽記錄">
+<!ENTITY urlbar.bookmarkhistory.emptyText "搜尋書籤及瀏覽記錄">
+<!ENTITY urlbar.bookmark.emptyText    "搜尋書籤">
+<!ENTITY urlbar.history.emptyText     "搜尋瀏覽記錄">
+<!ENTITY urlbar.none.emptyText        "輸入網址">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -351,6 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "縮放">
 <!ENTITY fullZoom.accesskey             "Z">
 
+<!ENTITY newTabButton.tooltip           "開啟新分頁">
 <!ENTITY newWindowButton.tooltip        "開啟新視窗">
 <!ENTITY sidebarCloseButton.tooltip     "關閉側邊欄">
 
