@@ -68,7 +68,7 @@
 <!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
 <!ENTITY retentionApplyToFlagged.accesskey "z">
 
-<!ENTITY folderOfflineTab.label                  "Offline">
+<!ENTITY folderSynchronizationTab.label          "Synchronisation">
 <!ENTITY folderCheckForNewMessages.label         "Diesen Ordner auf neue Nachrichten überprüfen">
 <!ENTITY folderCheckForNewMessages.accesskey     "D">
 
