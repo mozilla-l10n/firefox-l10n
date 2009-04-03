@@ -197,11 +197,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Zurück">
-<!ENTITY backCmd.accesskey   "Z">
 <!ENTITY backButton.tooltip  "Eine Seite zurück">
 
 <!ENTITY forwardCmd.label       "Vorwärts">
-<!ENTITY forwardCmd.accesskey   "V">
 <!ENTITY forwardButton.tooltip  "Eine Seite vor">
 
 <!ENTITY detailsPane.more.label  "Mehr">
