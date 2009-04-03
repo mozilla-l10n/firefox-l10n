@@ -86,6 +86,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Laden dieser Seite stoppen">
 <!ENTITY goEndCap.tooltip             "In der Adressleiste eingegebene Adresse laden">
+<!ENTITY feedButton.tooltip           "Diese Seite abonnieren…">
 <!ENTITY printButton.label            "Drucken">
 <!ENTITY printButton.tooltip          "Diese Seite drucken">
 
