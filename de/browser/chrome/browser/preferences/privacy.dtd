@@ -107,6 +107,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Einstellungen…">
 <!ENTITY  clearOnCloseSettings.accesskey "E">
-
-<!ENTITY  clearDataNow.label             "Jetzt löschen…">
-<!ENTITY  clearDataNow.accesskey         "J">
