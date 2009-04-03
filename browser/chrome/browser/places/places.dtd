@@ -197,11 +197,9 @@
 <!ENTITY maintenance.accesskey  				"Y">
 
 <!ENTITY backCmd.label  						"Tebek">
-<!ENTITY backCmd.accesskey  					"b">
 <!ENTITY backButton.tooltip  					"Gean tebek">
 
 <!ENTITY forwardCmd.label  						"Foarút">
-<!ENTITY forwardCmd.accesskey  					"F">
 <!ENTITY forwardButton.tooltip  				"Gean foarút">
 
 <!ENTITY detailsPane.more.label			        "Mear">
