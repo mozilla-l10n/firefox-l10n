@@ -72,7 +72,7 @@
 <!ENTITY cmd.edit_redo.key                  "y">
 
 <!ENTITY cmd.delete.label                   "Odstrániť túto stránku">
-<!ENTITY cmd.delete.accesskey               "d">
+<!ENTITY cmd.delete.accesskey               "s">
 <!ENTITY cmd.deleteDomainData.label         "Zabudnúť na túto stránku">
 <!ENTITY cmd.deleteDomainData.accesskey     "b">
 
@@ -135,7 +135,7 @@
 <!ENTITY col.lastmodified.label             "Posledná úprava">
 
 <!ENTITY search.label                       "Prehľadávať:">
-<!ENTITY search.accesskey                   "h">
+<!ENTITY search.accesskey                   "e">
 <!ENTITY search.scopeFolder.label           "Označený priečinok">
 <!ENTITY search.scopeFolder.accesskey       "a">
 <!ENTITY search.scopeBookmarks.label        "Záložky">
@@ -197,11 +197,9 @@
 <!ENTITY maintenance.accesskey              "I">
 
 <!ENTITY backCmd.label                      "Naspäť">
-<!ENTITY backCmd.accesskey                  "N">
 <!ENTITY backButton.tooltip                 "Prejsť naspäť">
 
 <!ENTITY forwardCmd.label                   "Dopredu">
-<!ENTITY forwardCmd.accesskey               "D">
 <!ENTITY forwardButton.tooltip              "Prejsť dopredu">
 
 <!ENTITY detailsPane.more.label             "Viac">
