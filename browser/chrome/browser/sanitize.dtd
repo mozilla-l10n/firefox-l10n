@@ -1,7 +1,7 @@
-<!-- ### ENTITY sanitizePrefs.title           "ניקוי נתונים אישיים" -->
+<!ENTITY sanitizePrefs2.title          "הגדרות למחיקת היסטוריה">
 <!ENTITY sanitizeDialog2.title         "מחיקת היסטוריה אחרונה">
 
-<!ENTITY sanitizeItems.label "בחר את הפריטים לניקוי:">
+<!ENTITY sanitizeItems.label          "בחר את הפריטים לניקוי:">
 <!ENTITY clearDataSettings2.label     "כאשר אני יוצא מ־&brandShortName;, הפריטים הבאים ינוקו אוטומטית:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
@@ -38,22 +38,18 @@ that require it.  -->
 <!ENTITY itemBrowsingHistory.accesskey     "ה">
 <!ENTITY itemFormSearchHistory.label       "היסטורית טפסים וחיפוש">
 <!ENTITY itemFormSearchHistory.accesskey   "ט">
-<!-- ### ENTITY  itemVisitedPages.label       "דפים שביקרתי בהם" -->
-<!-- ### ENTITY  itemVisitedPages.accesskey   "ב" -->
-<!-- ### ENTITY  itemFormSearchEntries.label  "טפסים ופריטי חיפוש" -->
-<!-- ### ENTITY  itemFormSearchEntries.accesskey "ט" -->
-<!ENTITY  itemPasswords.label          "סיסמאות שמורות">
-<!ENTITY  itemPasswords.accesskey      "ס">
-<!ENTITY  itemCookies.label            "עוגיות">
-<!ENTITY  itemCookies.accesskey        "ע">
+<!ENTITY itemPasswords.label               "סיסמאות שמורות">
+<!ENTITY itemPasswords.accesskey           "ס">
+<!ENTITY itemCookies.label                 "עוגיות">
+<!ENTITY itemCookies.accesskey             "ע">
 <!ENTITY itemCache.label                   "מטמון">
 <!ENTITY itemCache.accesskey               "מ">
-<!ENTITY  itemOfflineApps.label        "נתונים לא מקוונים של אתרים">
-<!ENTITY  itemOfflineApps.accesskey    "מ">
+<!ENTITY itemOfflineApps.label             "נתונים לא מקוונים של אתרים">
+<!ENTITY itemOfflineApps.accesskey         "מ">
 <!ENTITY itemDownloadHistory.label         "היסטורית הורדות">
 <!ENTITY itemDownloadHistory.accesskey     "ה">
-<!ENTITY  itemActiveLogins.label       "התחברויות פעילות">
-<!ENTITY  itemActiveLogins.accesskey   "ח">
+<!ENTITY itemActiveLogins.label            "התחברויות פעילות">
+<!ENTITY itemActiveLogins.accesskey        "ח">
 <!ENTITY itemSitePreferences.label         "העדפות אתר">
 <!ENTITY itemSitePreferences.accesskey     "ה">
 

@@ -21,13 +21,15 @@ window,prefwindow,dialog,wizard,page,menu { direction: rtl; }
 /* Remove window resizer until we find how to change it's direction to "bottomleft" */
 
 resizer[dir="bottomright"] {
-  display: none;
+  visibility: hidden;
 }
+
 
 
 /********************
 **  Firefox  **
 *********************/
+
 
 /* set LTR for url and file paths and align them to the right - Bug 289934  */
 
@@ -38,7 +40,7 @@ resizer[dir="bottomright"] {
 
 /* set LTR for startpage, user agent and part of JavaScript console  */
 
-#browserStartupHomepage, #userAgent, #ConsoleBox, #ToolbarEval
+#browserHomePage, #userAgent, #ToolbarEval > #TextboxEval
 {
   direction: ltr !important;
 }
@@ -50,17 +52,22 @@ resizer[dir="bottomright"] {
 	direction: ltr !important;
 }
 
+/* right-align the safebrowsing titlebox background - Bug 399003 */
+
+#safebrowsing-palm-message-titlebox
+{
+  background-position: top right !important;
+}
 
 /********************
 **  Thunderbird  **
 *********************/
 
-/*
+
 #statusbar-display {
   direction: ltr !important;
   text-align: right !important;
   }
-*/
 
 /* Set Folder Pane on the left side of window */
 
@@ -76,13 +83,10 @@ resizer[dir="bottomright"] {
 
 /* Set Statusbar to LTR */
 
-/*
 #statusText {
   direction: ltr !important;
   text-align: right !important;
-}*/
-
-
+}
 
 /********************
 **  Extensions  **
