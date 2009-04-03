@@ -184,11 +184,9 @@
 <!ENTITY maintenance.label   "Importim dhe Kopjeruajtje">
 
 <!ENTITY backCmd.label       "Mbrapsht">
-<!ENTITY backCmd.accesskey   "M">
 <!ENTITY backButton.tooltip  "Kthehu mbrapsht">
 
 <!ENTITY forwardCmd.label       "Përpara">
-<!ENTITY forwardCmd.accesskey   "P">
 <!ENTITY forwardButton.tooltip  "Vazhdo përpara">
 
 <!ENTITY detailsPane.more.label "Më tepër">
