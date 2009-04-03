@@ -66,6 +66,14 @@
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ישמור את היסטורית הגלישה שלך, ההורדות, טפסים והיסטורית החיפוש, וישמור עוגיות מאתרים בהם אתה מבקר.">
 
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "ייתכן ותרצה ">
+<!ENTITY  rememberActions.clearHistory.label  "לנקות את ההיסטוריה האחרונה שלך">
+<!ENTITY  rememberActions.middle.label        ", או ">
+<!ENTITY  rememberActions.removeCookies.label "למחוק עוגיות בודדות">
+<!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.">
 
