@@ -36,17 +36,17 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; feilige modus">
+<!ENTITY safeModeDialog.title         "&brandShortName; feilige moadus">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; wurket no yn feilige modus, wat jo persoanlike ynstellings, tema’s en útwreidings tydlik útskeakelt.">
+<!ENTITY safeModeDescription.label    "&brandShortName; wurket no yn feilige moadus, wat jo persoanlike ynstellings, tema’s en útwreidings tydlik útskeakelt.">
 <!ENTITY safeModeDescription2.label   "Jo kinne alle of inkele fan dizze wizigings permanent meitsje:">
 
 <!ENTITY disableAddons.label          "Alle tafoegings útskeakelje">
 <!ENTITY disableAddons.accesskey      "t">
 
-<!ENTITY resetToolbars.label          "Arkbalken en betsjinningen op 'e nij inisjalisearje">
-<!ENTITY resetToolbars.accesskey      "y">
+<!ENTITY resetToolbars.label          "Arkbalken en betsjinnings op 'e nij inisjalisearje">
+<!ENTITY resetToolbars.accesskey      "i">
 
 <!ENTITY resetBookmarks.label         "Blêdwizers nei &brandShortName;-standertwearden tebeksette">
 <!ENTITY resetBookmarks.accesskey     "B">
@@ -58,4 +58,4 @@
 <!ENTITY restoreSearch.accesskey      "S">
 
 <!ENTITY changeAndRestartButton.label "Wizigings trochfiere en op 'e nij starte">
-<!ENTITY continueButton.label         "Trochgean yn feilige modus">
+<!ENTITY continueButton.label         "Trochgean yn feilige moadus">
