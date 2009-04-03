@@ -99,13 +99,13 @@
 
 <!ENTITY bookmarksButton.label          "Lesezeichen">
 <!ENTITY bookmarksButton.tooltip        "Öffnet Ihre Lesezeichen-Liste">
-<!ENTITY bookmarksSidebarCmd.accesskey  "L">
-<!ENTITY bookmarksSidebarCmd.commandkey "B">
+<!ENTITY bookmarksButton.accesskey  "L">
+<!ENTITY bookmarksCmd.commandkey "B">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Chronik">
 <!ENTITY historyButton.tooltip          "Zeigt Seiten an, die Sie kürzlich besucht haben">
