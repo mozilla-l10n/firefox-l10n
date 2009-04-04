@@ -72,7 +72,7 @@
 <!ENTITY retentionApplyToFlagged.label           "Behåll alltid märkta meddelanden">
 <!ENTITY retentionApplyToFlagged.accesskey       "e">
 
-<!ENTITY folderOfflineTab.label                  "Arbeta nedkopplad">
+<!ENTITY folderSynchronizationTab.label          "Synkronisering">
 <!ENTITY folderCheckForNewMessages.label         "Kontrollera om denna mapp har nya meddelanden">
 <!ENTITY folderCheckForNewMessages.accesskey     "K">
 
