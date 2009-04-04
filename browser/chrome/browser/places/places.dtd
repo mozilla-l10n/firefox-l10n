@@ -197,11 +197,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Bakåt">
-<!ENTITY backCmd.accesskey   "B">
 <!ENTITY backButton.tooltip  "Gå bakåt">
 
 <!ENTITY forwardCmd.label       "Framåt">
-<!ENTITY forwardCmd.accesskey   "F">
 <!ENTITY forwardButton.tooltip  "Gå framåt">
 
 <!ENTITY detailsPane.more.label                    "Mer">
