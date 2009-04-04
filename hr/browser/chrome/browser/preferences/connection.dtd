@@ -31,12 +31,12 @@
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  port.label                    "Ulaz:">
-<!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  HTTPport.accesskey            "U">
+<!ENTITY  SSLport.accesskey             "l">
+<!ENTITY  FTPport.accesskey             "a">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY  gopherPort.accesskey          "">
-<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  SOCKSport.accesskey           "z">
 <!ENTITY  noproxy.label                 "Bez proxyja za:">
 <!ENTITY  noproxy.accesskey             "z">
 <!ENTITY  noproxyExplain.label          "Primjer: .mozilla.org, .net.nz, 192.168.1.0/24">
