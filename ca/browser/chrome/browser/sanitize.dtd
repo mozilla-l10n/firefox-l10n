@@ -1,43 +1,60 @@
-<!ENTITY sanitizePrefs.title           "Neteja les dades privades">
+<!ENTITY sanitizePrefs2.title          "Paràmetres de la neteja de l'historial">
 <!ENTITY sanitizeDialog2.title         "Neteja l'historial recent">
 
 <!ENTITY sanitizeItems.label          "Neteja els elements següents:">
 <!ENTITY clearDataSettings2.label      "Quan surti del &brandShortName;, hauria d'esborrar automàticament:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "Suprimeix ">
-<!ENTITY clearDuration.accesskey      "r">
-<!ENTITY clearDuration.lastHour       "la darrera hora">
-<!ENTITY clearDuration.last2Hours     "les darreres 2 hores">
-<!ENTITY clearDuration.last4Hours     "les darreres 4 hores">
-<!ENTITY clearDuration.today          "el meu historial d'avui">
-<!ENTITY clearDuration.everything     "el meu historial sencer">
-
+<!ENTITY clearTimeDuration.label          "Abast temporal per netejar: ">
+<!ENTITY clearTimeDuration.accesskey      "r">
+<!ENTITY clearTimeDuration.lastHour       "La darrera hora">
+<!ENTITY clearTimeDuration.last2Hours     "Les darreres dues hores">
+<!ENTITY clearTimeDuration.last4Hours     "Les darreres quatre hores">
+<!ENTITY clearTimeDuration.today          "Avui">
+<!ENTITY clearTimeDuration.everything     "Tot">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.dateColumn     "Data de visita">
+<!ENTITY clearTimeDuration.nameColumn     "Nom">
+
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "Detalls">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "Historial">
 <!ENTITY dataSection.label            "Dades">
 
-<!ENTITY itemVisitedPages.label       "Pàgines visitades">
-<!ENTITY itemVisitedPages.accesskey   "v">
-<!ENTITY itemFormSearchEntries.label       "Formularis i entrades de cerca">
-<!ENTITY itemFormSearchEntries.accesskey       "F">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+<!ENTITY itemHistoryAndDownloads.label     "Historial de navegació i baixades">
+<!ENTITY itemHistoryAndDownloads.accesskey "v">
+<!ENTITY itemBrowsingHistory.label         "Historial de navegació">
+<!ENTITY itemBrowsingHistory.accesskey     "v">
+<!ENTITY itemFormSearchHistory.label       "Formularis i historial de cerca">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label          "Contrasenyes desades">
 <!ENTITY itemPasswords.accesskey      "C">
 <!ENTITY itemCookies.label            "Galetes">
 <!ENTITY itemCookies.accesskey        "G">
-<!ENTITY itemWebCache.label           "Memòria cau web">
-<!ENTITY itemWebCache.accesskey       "web">
+<!ENTITY itemCache.label           "Memòria cau">
+<!ENTITY itemCache.accesskey       "a">
 <!ENTITY itemOfflineApps.label        "Dades de llocs web fora de línia">
 <!ENTITY itemOfflineApps.accesskey    "o">
-<!ENTITY itemDownloadList.label          "Llista de baixades">
-<!ENTITY itemDownloadList.accesskey      "b">
+<!ENTITY itemDownloadHistory.label         "Historial de baixades">
+<!ENTITY itemDownloadHistory.accesskey     "d">
 <!ENTITY itemActiveLogins.label           "Sessions actives">
 <!ENTITY itemActiveLogins.accesskey       "S">
-<!ENTITY itemSiteSettings.label       "Paràmetres específics per cada lloc">
-<!ENTITY itemSiteSettings.accesskey   "l">
+<!ENTITY itemSitePreferences.label       "Preferències del lloc">
+<!ENTITY itemSitePreferences.accesskey   "l">
 
-<!ENTITY window.width                 "36em">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "No pot desfer-se l'acció.">
+
+<!ENTITY dialog.width                 "36em">
 <!ENTITY column.width                 "20em">
