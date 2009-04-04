@@ -109,9 +109,13 @@
 
 <!ENTITY bookmarksButton.label          "Zakładki">
 <!ENTITY bookmarksButton.tooltip        "Wyświetl zakładki">
-<!ENTITY bookmarksSidebarCmd.accesskey  "Z">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey      "Z">
+<!ENTITY bookmarksCmd.commandkey        "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historia">
 <!ENTITY historyButton.tooltip          "Wyświetl ostatnio oglądane strony">
