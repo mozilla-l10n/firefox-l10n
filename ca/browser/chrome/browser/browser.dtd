@@ -102,6 +102,10 @@
 <!ENTITY bookmarksButton.tooltip "Mostra les vostres adreces d'interès">
 <!ENTITY bookmarksSidebarCmd.accesskey "d">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Historial">
@@ -184,6 +188,8 @@
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Pestanyes tancades recentment">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Finestres tancades recentment">
 
 <!ENTITY historyHomeCmd.label "Inici">
 <!ENTITY showAllHistoryCmd2.label "Mostra tot l'historial">
@@ -191,6 +197,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText             "Cerca les adreces d'interès i l'historial">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Cerca les adreces d'interès i l'historial">
+<!ENTITY urlbar.bookmark.emptyText    "Cerca les adreces d'interès">
+<!ENTITY urlbar.history.emptyText     "Cerca l'historial">
+<!ENTITY urlbar.none.emptyText        "Escriviu una adreça web">
 <!ENTITY urlbar.accesskey "d">
 
 <!-- 
