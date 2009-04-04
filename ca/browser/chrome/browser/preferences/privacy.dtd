@@ -108,6 +108,3 @@
 <!ENTITY  clearOnCloseSettings.label     "Paràmetres…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  clearDataNow.label             "Neteja-ho ara…">
-<!ENTITY  clearDataNow.accesskey         "N">
-
