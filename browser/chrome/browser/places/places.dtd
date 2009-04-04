@@ -182,10 +182,10 @@
 <!ENTITY maintenance.label   "Importa i fes una còpia de seguretat">
 <!ENTITY maintenance.accesskey  "I">
 
-<!ENTITY backCmd.accesskey   "r">
+<!ENTITY backCmd.label   "Enrere">
 <!ENTITY backButton.tooltip  "Vés enrere">
 
-<!ENTITY forwardCmd.accesskey   "v">
+<!ENTITY forwardCmd.label   "Endavant">
 <!ENTITY forwardButton.tooltip  "Vés endavant">
 
 <!ENTITY detailsPane.more.label         "Més">
