@@ -57,3 +57,57 @@
 <!ENTITY  clearDataSettings.label        "Paràmetres…">
 <!ENTITY  clearDataSettings.accesskey    "t">
 
+<!ENTITY  historyHeader.pre.label          "El &brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "Recordarà l'historial">
+<!ENTITY  historyHeader.dontremember.label "No recordarà mai l'historial">
+<!ENTITY  historyHeader.custom.label       "Utilitza els paràmetres personalitzats de l'historial">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "El &brandShortName; recordarà el vostre historial, baixades, formularis i historial de cerca, i conservarà les galetes dels llocs web que visiteu.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Podeu voler ">
+<!ENTITY  rememberActions.clearHistory.label  "netejar el vostre historial recent">
+<!ENTITY  rememberActions.middle.label        ", o ">
+<!ENTITY  rememberActions.removeCookies.label "suprimir les galetes individualment">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "El &brandShortName; utilitzarà els mateixos paràmetres de la navegació privada, i no mantindrà cap historial mentre navegueu.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "També podeu voler ">
+<!ENTITY  dontrememberActions.clearHistory.label "netejar tot l'historial actual">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Inicia el &brandShortName; automàticament en una sessió de navegació privada">
+<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Recorda el meu historial de navegació com a mínim durant">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "dies">
+
+<!ENTITY  rememberDownload.label         "Recorda l'historial de baixades">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "Recorda l'historial de cerca i formularis">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Neteja l'historial quan es tanqui el &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "q">
+
+<!ENTITY  clearOnCloseSettings.label     "Paràmetres…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  clearDataNow.label             "Neteja-ho ara…">
+<!ENTITY  clearDataNow.accesskey         "N">
+

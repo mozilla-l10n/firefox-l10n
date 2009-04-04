@@ -100,13 +100,13 @@
 
 <!ENTITY bookmarksButton.label "Adreces d'interès">
 <!ENTITY bookmarksButton.tooltip "Mostra les vostres adreces d'interès">
-<!ENTITY bookmarksSidebarCmd.accesskey "d">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.accesskey "d">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Historial">
 <!ENTITY historyButton.tooltip "Mostra les pàgines que heu vist recentment">
