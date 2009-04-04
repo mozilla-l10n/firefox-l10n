@@ -199,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label   "Wstecz">
-<!ENTITY backCmd.accesskey   "W">
 <!ENTITY backButton.tooltip   "Przejdź wstecz">
 
 <!ENTITY forwardCmd.label   "Do przodu">
-<!ENTITY forwardCmd.accesskey   "P">
 <!ENTITY forwardButton.tooltip   "Przejdź do przodu">
 
 <!ENTITY detailsPane.more.label  "Więcej">
