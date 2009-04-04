@@ -1,13 +1,14 @@
 <!ENTITY restorepage.tabtitle       "Restauració de la sessió">
-<!ENTITY restorepage.pagetitle      "Voleu restaurar la vostra sessió?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "La sessió anterior del &brandShortName; s'ha penjat. En lamentem les inconveniències. Podeu restaurar les pestanyes i finestres de la sessió anterior, o bé iniciar una nova sessió si ja no us calen.">
-<!ENTITY restorepage.remedies       "Si el &brandShortName; es tanca de forma repetida:">
-<!ENTITY restorepage.dueToChrome    "Proveu d'inhabilitar aquelles extensions que hàgiu afegit recentment des del gestor de complements.">
-<!ENTITY restorepage.dueToContent   "Proveu de restaurar la vostra sessió sense cap pàgina web sospitosa de ser causant del problema:">
 
-<!ENTITY restorepage.restoreButton  "Restaura la sessió anterior">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Bé, és lamentable.">
+<!ENTITY restorepage.problemDesc    "El &brandShortName; té problemes per a recuperar les vostres finestres i pestanyes. Normalment és a causa d'una pàgina web oberta recentment.">
+<!ENTITY restorepage.tryThis        "Podeu provar el següent:">
+<!ENTITY restorepage.restoreSome    "Descartar una o més pestanyes que creieu que poden estar causant el problema">
+<!ENTITY restorepage.startNew       "Iniciar una sessió de navegació completament nova">
+
+<!ENTITY restorepage.tryagainButton "Restaura">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "Inicia una nova sessió">
 <!ENTITY restorepage.cancel.access  "S">
