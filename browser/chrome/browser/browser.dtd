@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "Vis bokmerka dine">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historikk">
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "Historikk">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Nyleg attlatne faner">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Nyleg attletne vindauge">
 
 <!ENTITY historyHomeCmd.label "Heim">
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Søk i bokmerke og historikk">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Søk i bokmerke og historikk">
+<!ENTITY urlbar.bookmark.emptyText    "Søk i bokmerke">
+<!ENTITY urlbar.history.emptyText     "Søk i historikk">
+<!ENTITY urlbar.none.emptyText        "Skriv inn nettadresse">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -237,7 +247,7 @@
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vis MathML-kjeldekode">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "k">
 <!ENTITY viewPageSourceCmd.label      "Vis kjeldekode for sida">
 <!ENTITY viewPageSourceCmd.accesskey  "k">
 <!ENTITY viewFrameSourceCmd.label     "Vis kjeldekode for ramma">
@@ -351,6 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Skalering">
 <!ENTITY fullZoom.accesskey             "r">
 
+<!ENTITY newTabButton.tooltip           "Opnar ei ny fane">
 <!ENTITY newWindowButton.tooltip        "Opnar nytt vindauge">
 <!ENTITY sidebarCloseButton.tooltip     "Lat att sidestolpen">
 

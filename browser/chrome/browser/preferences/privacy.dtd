@@ -1,5 +1,7 @@
 <!ENTITY  history.label                 "Historikk">
 
+<!ENTITY  locationBar.label             "Adresselinje">
+
 <!ENTITY  locbar.pre.label              "Når eg brukar adresselinja, føreslå:">
 <!ENTITY  locbar.pre.accessKey          "N">
 <!ENTITY  locbar.post.label             "">
