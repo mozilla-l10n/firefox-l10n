@@ -1,0 +1,17 @@
+<!ENTITY content.title                             "Tartalom">
+<!ENTITY permissions.default.image.title           "Képek automatikus betöltése">
+<!ENTITY permissions.default.image.description     "Ettől lesz a web szép">
+<!ENTITY javascript.enabled.title                  "JavaScript engedélyezése">
+<!ENTITY javascript.enabled.description            "Ettől lesz a web csillogó">
+<!ENTITY javascript.options.jit.content.title      "JavaScript-gyorsítás engedélyezése">
+<!ENTITY javascript.options.jit.content.description "JavaScript natív kódra fordításának bekapcsolása">
+<!ENTITY plugins.enabled.title                     "Bővítmények engedélyezése">
+<!ENTITY plugins.enabled.description               "Ettől lesz a web idegesítő">
+<!ENTITY privacy.title                             "Adatvédelem és biztonság">
+<!ENTITY network.cookie.cookieBehavior.title       "Sütik mentése">
+<!ENTITY network.cookie.cookieBehavior.description "Finomságok">
+<!ENTITY clear.private.data.title                  "Személyes adatok törlése">
+<!ENTITY clear.private.data.button                 "Törlés...">
+<!ENTITY clear.private.data.description            "Hagy elrejtőzni">
+<!ENTITY signon.rememberSignons.title              "Jelszavak mentése">
+<!ENTITY signon.rememberSignons.description        "Kevesebbet kell gépelni">
