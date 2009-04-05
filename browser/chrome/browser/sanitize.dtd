@@ -1,41 +1,62 @@
-<!ENTITY sanitizePrefs.title           "Privégegevens wissen">
+<!ENTITY sanitizePrefs2.title          "Instellingen voor geschiedenis wissen">
 <!ENTITY sanitizeDialog2.title         "Recente geschiedenis wissen">
 
 <!ENTITY sanitizeItems.label          "De volgende gegevens nu wissen:">
 <!ENTITY clearDataSettings2.label     "Als ik &brandShortName; afsluit, automatisch het volgende wissen:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
-
-<!ENTITY clearDuration.label          "Verwijderen: ">
-<!ENTITY clearDuration.accesskey      "V">
-<!ENTITY clearDuration.lastHour       "het laatste uur">
-<!ENTITY clearDuration.last2Hours     "de laatste 2 uur">
-<!ENTITY clearDuration.last4Hours     "de laatste 4 uur">
-<!ENTITY clearDuration.today          "mijn geschiedenis van vandaag">
-<!ENTITY clearDuration.everything     "mijn complete geschiedenis">
-<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+<!ENTITY clearTimeDuration.label          "Te wissen tijdbereik: ">
+<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.lastHour       "Laatste uur">
+<!ENTITY clearTimeDuration.last2Hours     "Laatste twee uur">
+<!ENTITY clearTimeDuration.last4Hours     "Laatste vier uur">
+<!ENTITY clearTimeDuration.today          "VandaagToday">
+<!ENTITY clearTimeDuration.everything     "Alles">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.dateColumn     "Bezoekdatum">
+<!ENTITY clearTimeDuration.nameColumn     "Naam">
+
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "Details">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "Geschiedenis">
 <!ENTITY dataSection.label            "Gegevens">
 
-<!ENTITY itemVisitedPages.label       "Bezochte pagina’s">
-<!ENTITY itemVisitedPages.accesskey   "B">
-<!ENTITY itemFormSearchEntries.label  "Formulier- &amp; zoekinvoer">
-<!ENTITY itemFormSearchEntries.accesskey "F">
-<!ENTITY itemPasswords.label          "Opgeslagen wachtwoorden">
-<!ENTITY itemPasswords.accesskey      "w">
-<!ENTITY itemCookies.label            "Cookies">
-<!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemWebCache.label           "Webbuffer">
-<!ENTITY itemWebCache.accesskey       "e">
-<!ENTITY itemOfflineApps.label        "Offlinewebsitegegevens">
-<!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloadList.label       "Downloadlijst">
-<!ENTITY itemDownloadList.accesskey   "D">
-<!ENTITY itemActiveLogins.label       "Actieve aanmeldingen">
-<!ENTITY itemActiveLogins.accesskey   "a">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+<!ENTITY itemHistoryAndDownloads.label     "Navigeer- en downloadgeschiedenis">
+<!ENTITY itemHistoryAndDownloads.accesskey "N">
+<!ENTITY itemBrowsingHistory.label         "Navigeergeschiedenis">
+<!ENTITY itemBrowsingHistory.accesskey     "N">
+<!ENTITY itemFormSearchHistory.label       "Formulier- &amp; zoekgeschiedenis">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemPasswords.label               "Opgeslagen wachtwoorden">
+<!ENTITY itemPasswords.accesskey           "w">
+<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Webbuffer">
+<!ENTITY itemCache.accesskey               "e">
+<!ENTITY itemOfflineApps.label             "Offlinewebsitegegevens">
+<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemDownloadHistory.label         "Downloadgeschiedenis">
+<!ENTITY itemDownloadHistory.accesskey     "D">
+<!ENTITY itemActiveLogins.label            "Actieve aanmeldingen">
+<!ENTITY itemActiveLogins.accesskey        "A">
+<!ENTITY itemSitePreferences.label         "Paginavoorkeuren">
+<!ENTITY itemSitePreferences.accesskey     "P">
 
-<!ENTITY window.width                 "34em">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Deze actie kan niet ongedaan gemaakt worden.">
+
+<!ENTITY dialog.width                 "34em">
 <!ENTITY column.width                 "16em">
