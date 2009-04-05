@@ -193,6 +193,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Bladwijzers en geschiedenis doorzoeken">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Bladwijzers en geschiedenis doorzoek">
+<!ENTITY urlbar.bookmark.emptyText    "Bladwijzers doorzoeken">
+<!ENTITY urlbar.history.emptyText     "Geschiedenis doorzoeken">
+<!ENTITY urlbar.none.emptyText        "Voer een webadres in">
 <!ENTITY urlbar.accesskey             "D">
 
 <!-- 
