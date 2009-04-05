@@ -1,5 +1,7 @@
 <!ENTITY  history.label                 "Geschiedenis">
 
+<!ENTITY  locationBar.label             "Location Bar">
+
 <!ENTITY  locbar.pre.label              "Bij gebruik van de locatiebalk, suggereren:">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
@@ -54,6 +56,57 @@
 
 <!ENTITY  clearDataSettings.label        "Instellingen…">
 <!ENTITY  clearDataSettings.accesskey    "s">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; zal:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "Geschiedenis onthouden">
+<!ENTITY  historyHeader.dontremember.label "Nooit geschiedenis onthouden">
+<!ENTITY  historyHeader.custom.label       "Aangepaste instellingen gebruiken voor geschiedenis">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; zal uw navigeer-, download-, formulier- en zoekgeschiedenis onthouden en cookies van website die u bezoekt bewaren.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "U wilt wellicht ">
+<!ENTITY  rememberActions.clearHistory.label  "uw recente geschiedenis wissen">
+<!ENTITY  rememberActions.middle.label        ", of ">
+<!ENTITY  rememberActions.removeCookies.label "individuele cookies verwijderen">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; zal de zelfde instellingen als bij privé navigeren gebruiken en zal geen geschiedenis onthouden als u navigeert over het web.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "U wilt wellicht ook ">
+<!ENTITY  dontrememberActions.clearHistory.label "alle huidige geschiedenis wissen">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Start &brandShortName; automatisch in een privé navigeer sessie">
+<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Mijn navigeergeschiedenis voor minstens">
+<!ENTITY  rememberHistory.pre.accesskey  "e">
+<!ENTITY  rememberHistory.post.label     "dagen onthouden">
+
+<!ENTITY  rememberDownload.label         "Downloadgeschiedenis onthouden">
+<!ENTITY  rememberDownload.accesskey     "D">
+
+<!ENTITY  rememberSearchForm.label       "Zoek- en formuliergeschiedenis onthouden">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Geschiedenis wissen als &brandShortName; afsluit">
+<!ENTITY  clearOnClose.accesskey         "w">
+
+<!ENTITY  clearOnCloseSettings.label     "Instellingen…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  clearDataNow.label             "Nu wissen…">
 <!ENTITY  clearDataNow.accesskey         "N">
