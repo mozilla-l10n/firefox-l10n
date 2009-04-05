@@ -186,6 +186,8 @@
 <!ENTITY historyMenu.label "Geschiedenis">
 <!ENTITY historyMenu.accesskey "G">
 <!ENTITY historyUndoMenu.label "Onlangs gesloten tabbladen">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Onlangs gesloten vensters">
 
 <!ENTITY historyHomeCmd.label "Startpagina">
 <!ENTITY showAllHistoryCmd2.label "Alle geschiedenis tonen">
