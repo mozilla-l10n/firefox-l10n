@@ -1,0 +1,65 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "Vissza">
+<!ENTITY back.tooltip          "Vissza">
+<!ENTITY forward.label         "Előre">
+<!ENTITY forward.tooltip       "Előre">
+<!ENTITY reload.label          "Frissítés">
+<!ENTITY reload.tooltip        "Frissítés">
+<!ENTITY stop.label            "Leállítás">
+<!ENTITY stop.tooltip          "Leállítás">
+<!ENTITY search.label          "Keresés">
+<!ENTITY search.tooltip        "Keresés">
+<!ENTITY go.label              "Ugrás">
+<!ENTITY go.tooltip            "Ugrás">
+<!ENTITY openLocation.label    "Hely megnyitása">
+<!ENTITY openLocation.tooltip  "Hely megnyitása">
+<!ENTITY star.label            "Csillag">
+<!ENTITY star.tooltip          "Oldal a könyvjelzők közé">
+<!ENTITY bookmarks.label       "Könyvjelzők">
+<!ENTITY bookmarks.tooltip     "Könyvjelzőek megtekintése">
+
+<!ENTITY newtab.label          "Új lap">
+<!ENTITY closetab.label        "Lap bezárása">
+
+<!ENTITY cut.label             "Kivágás">
+<!ENTITY copy.label            "Másolás">
+<!ENTITY copylink.label        "Hivatkozás címének másolása">
+<!ENTITY paste.label           "Beillesztés">
+<!ENTITY delete.label          "Törlés">
+<!ENTITY selectAll.label       "Minden kijelölése">
+<!ENTITY noSuggestions.label   "(Nincs javaslat)">
+<!ENTITY addToDictionary.label "Hozzáadás a szótárhoz">
+
+<!ENTITY bookmarksHeader.label     "Könyvjelzők">
+<!ENTITY bookmarksManage.label     "Kezelés">
+<!ENTITY foldersHeader.label       "Mappák">
+
+<!ENTITY editBookmarkEdit.label    "Szerkesztés">
+<!ENTITY editBookmarkMove.label    "Áthelyezés">
+<!ENTITY editBookmarkDone.label    "Kész">
+<!ENTITY editBookmarkTags.label    "Címke hozzáadása">
+
+<!ENTITY findOnCmd.label     "Keresés ezen az oldalon...">
+<!ENTITY findOnCmd.accesskey "e">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Következő keresése">
+<!ENTITY findAgainCmd.accesskey "z">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "Ez a webhely nem szolgáltat magáról azonosító információkat.">
+<!ENTITY identity.connectedTo "A következőhöz csatlakozott:">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "Működtetője:">
