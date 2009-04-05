@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Zoeken:">
 <!ENTITY search.accesskey                          "Z">
-<!ENTITY search.collection.label                   "Alleen huidige collectie">
-<!ENTITY search.collection.accesskey               "c">
-<!ENTITY search.allBookmarks.label                 "Alle bladwijzers">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "Geselecteerde map">
-<!ENTITY search.scopeFolder.accesskey              "s">
-<!ENTITY search.scopeAll.label                     "Alle bladwijzers">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "Bladwijzermenu">
-<!ENTITY search.scopeMenu.accesskey                "m">
-<!ENTITY search.scopeToolbar.label                 "Bladwijzerwerkbalk">
-<!ENTITY search.scopeToolbar.accesskey             "w">
+<!ENTITY search.scopeFolder.accesskey              "r">
+<!ENTITY search.scopeBookmarks.label               "Bladwijzers">
+<!ENTITY search.scopeBookmarks.accesskey           "l">
 <!ENTITY search.scopeDownloads.label               "Downloads">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Geschiedenis">
