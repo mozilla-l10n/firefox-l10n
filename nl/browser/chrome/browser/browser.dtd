@@ -103,11 +103,11 @@
 <!ENTITY bookmarksButton.tooltip        "Uw bladwijzers weergeven">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "w">
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Geschiedenis">
 <!ENTITY historyButton.tooltip          "Pagina’s die u recentelijk hebt bekeken weergeven">
@@ -199,11 +199,11 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Bladwijzers en geschiedenis doorzoeken">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Bladwijzers en geschiedenis doorzoek">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Bladwijzers en geschiedenis doorzoeken">
 <!ENTITY urlbar.bookmark.emptyText    "Bladwijzers doorzoeken">
 <!ENTITY urlbar.history.emptyText     "Geschiedenis doorzoeken">
-<!ENTITY urlbar.none.emptyText        "Voer een webadres in">
-<!ENTITY urlbar.accesskey             "D">
+<!ENTITY urlbar.none.emptyText        "Typ een webadres in">
+<!ENTITY urlbar.accesskey             "d">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
