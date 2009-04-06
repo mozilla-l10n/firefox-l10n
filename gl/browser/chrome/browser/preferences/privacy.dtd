@@ -1,4 +1,7 @@
 <!ENTITY  history.label "Historial">
+
+<!ENTITY  locationBar.label             "Barra de localización">
+
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.both.label             "Historial e Marcadores">
 <!ENTITY  locbar.history.label          "Historial">
@@ -9,6 +12,25 @@
 
 
 
+<!ENTITY  dontrememberDescription.label  "&brandShortName; usará a mesma configuración que na navegación privada, e non gardará ningún historial mentras navega pola Internet.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberDescription.label      "&brandShortName; lembrará a súa navegación, descargas, historial de formularios e buscas, e gardará as cookies dos sitios web que visite.">
+
+<!ENTITY  rememberActions.pre.label           "Tamén pode querer ">
+<!ENTITY  rememberActions.clearHistory.label  "limpar o seu historial recente">
+<!ENTITY  rememberActions.middle.label        ", ou ">
+<!ENTITY  rememberActions.removeCookies.label "eliminar as cookies de xeito individual">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberActions.pre.label          "Tamén pode querer ">
+<!ENTITY  dontrememberActions.clearHistory.label "borrar todo o historial actual">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Iniciar &brandShortName; de maneira automática nunha sesión de navegación privada">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
 
 <!-- LOCALIZATION NOTE:
@@ -27,6 +49,15 @@
 <!ENTITY  rememberDownloads.label       "Lembrar as descargas">
 <!ENTITY  rememberDownloads.accesskey   "d">
 
+<!ENTITY  rememberHistory.pre.label      "Lembrar o historial de navegación polo menos">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "día/s">
+
+<!ENTITY  rememberSearchForm.label       "Lembrar historial de formularios e buscas">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  rememberDownload.label         "Lembrar o historial de descargas">
+<!ENTITY  rememberDownload.accesskey     "d">
 
 <!ENTITY  cookies.label                 "Cookies">
 
@@ -59,5 +90,16 @@
 <!ENTITY  clearDataSettings.label        "Configuración…">
 <!ENTITY  clearDataSettings.accesskey    "f">
 
-<!ENTITY  clearDataNow.label             "Limpar agora…">
-<!ENTITY  clearDataNow.accesskey         "L">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "Gardará o historial">
+<!ENTITY  historyHeader.dontremember.label "Nuncar gardará o historial">
+<!ENTITY  historyHeader.custom.label       "Usará un configuración personalizada para o historial">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  clearOnClose.label             "Limpar o historial ao pechar &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "L">
+
+<!ENTITY  clearOnCloseSettings.label     "Configuración…">
+<!ENTITY  clearOnCloseSettings.accesskey "f">
+

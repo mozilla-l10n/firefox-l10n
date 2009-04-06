@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "t">
 <!ENTITY  reloadTab.label        "Recargar separador">
 <!ENTITY  reloadTab.accesskey         "R">
+<!ENTITY  openTabInNewWindow.label    "Abrir en nova xanela">
+<!ENTITY  openTabInNewWindow.accesskey "x">
 <!ENTITY  listAllTabs.label      "Relacionar todos os separadores">
 <!ENTITY  bookmarkAllTabs.label       "Marcar todos os separadores…">
 <!ENTITY  bookmarkAllTabs.accesskey   "e">

@@ -1,6 +1,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-<!ENTITY bookmarksToolbarChevron.tooltip "Amosar máis marcadores">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar máis marcadores">
 
 
 
@@ -14,8 +14,7 @@
 
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title                                                                 inside the private browsing mode --> 
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación Privada)">
- <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
 
 
 
@@ -98,9 +97,14 @@
 <!ENTITY  homeButton.label            "Inicio">
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksButton.tooltip        "Mostrar os marcadores">
-<!ENTITY bookmarksSidebarCmd.accesskey  "m">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "M">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
 <!ENTITY historyButton.label            "Historial">
 <!ENTITY historyButton.tooltip          "Mostrar as páxinas visitadas recentemente">
 <!ENTITY historySidebarCmd.accesskey    "H">
@@ -176,11 +180,16 @@
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "H">
 <!ENTITY historyUndoMenu.label "Separadores pechados recentemente">
+<!ENTITY historyUndoWindowMenu.label "Separadores pechados recentemente">
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo o historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Buscar nos marcadores e no historial">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Buscar nos marcadores e no historial">
+<!ENTITY urlbar.bookmark.emptyText    "Buscar nos marcadores">
+<!ENTITY urlbar.history.emptyText     "Buscar no historial">
+<!ENTITY urlbar.none.emptyText        "Escriba un enderezo web">
 <!ENTITY urlbar.accesskey             "B">
 
 <!-- 

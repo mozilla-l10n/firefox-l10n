@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Buscar:">
 <!ENTITY search.accesskey                          "B">
-<!ENTITY search.collection.label                   "Só a colección actual">
-<!ENTITY search.collection.accesskey               "c">
-<!ENTITY search.allBookmarks.label                 "Todos os marcadores">
-<!ENTITY search.allBookmarks.accesskey             "T">
 <!ENTITY search.scopeFolder.label                  "Cartafol seleccionado">
 <!ENTITY search.scopeFolder.accesskey              "C">
-<!ENTITY search.scopeAll.label                     "Todos os marcadores">
-<!ENTITY search.scopeAll.accesskey                 "T">
-<!ENTITY search.scopeMenu.label                    "Menú de marcadores">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "Barra de marcadores">
-<!ENTITY search.scopeToolbar.accesskey             "B">
+<!ENTITY search.scopeBookmarks.label               "Marcadores">
+<!ENTITY search.scopeBookmarks.accesskey           "M">
 <!ENTITY search.scopeDownloads.label               "Descargas">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Historial">
