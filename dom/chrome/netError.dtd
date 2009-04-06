@@ -28,7 +28,6 @@
 <!ENTITY netOffline.longDesc "<p>உலாவியானது அதனுடைய இணைப்பில்லா நிலையில் செயற்படுவதோடு கோரப்பட்ட பொருளுடன் இணைக்க முடியாமலும் உள்ளது.</p><ul><li>செயற்படும் வலையமைப்புடன் கணினி இணைக்கப்பட்டுள்ளதா? </li><li>உலாவியினை இணைப்புள்ள நிலையில் வைத்து மீண்டும் முயற்சி செய்க. </li></ul>">
 
 <!ENTITY contentEncodingError.title "உள்ளடக்க குறியீட்டாக்க வழு">
-<!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 <!ENTITY contentEncodingError.longDesc "<p>செல்லுபடியற்ற அல்லது ஆதரவற்ற இறுக்கப்பட்ட படிவத்தினை இது பயன்படுத்துவதன்காரணமாக நீங்கள் பார்க்க முயற்சி செய்யும் பக்கத்தினைக் காண்பிக்க முடியாதுள்ளது.</p><ul><li>இந்தப் பிரச்சினையினை அறிவிப்பதற்கு தயவு செய்து இணையத்தள உரிமையாளரினைத் தொடர்பு கொள்க. </li></ul>">
 
 <!ENTITY unsafeContentType.title "பாதுகாப்பற்ற கோப்பு வகை">
@@ -51,7 +50,6 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>பதிலாள் சேவையகத்தினைப் பயன்படுத்துவதற்காக உலாவியானது தகவமைக்கப்பட்டுள்ளது,ஆனால் பதிலாள் காணப்படவில்லை.உலாவிகளினுடைய பதிலாள் தகவமைப்பு சரியானதா? அமைப்புக்களினைச் சரிபார்ப்பதுடன் மீண்டும் முயற்சி செய்க.</li><li>பதிலாள் சேவை இந்த வலையமைப்பிலிருந்து இணைப்பினை அனுமதிக்கின்றதா?</li><li>இப்பொழுதும் பிரச்சினை இருக்கின்றதா?உதவிக்காக உங்களது வலையமைப்பு நிர்வாகியுடன் அல்லது இணைய வழங்குனருடன் ஆலோசனை செய்க.</li></ul>">
 
 <!ENTITY redirectLoop.title "Loop திசைதிருப்பப்படுகிறது">
-<!ENTITY redirectLoop.longDesc "<p>The browser has stopped trying to retrieve the requested item. The site is redirecting the request in a way that will never complete.</p><ul><li>Have you disabled or blocked cookies required by this site?</li><li><em>NOTE</em>: If accepting the site's cookies does not resolve the problem, it is likely a server configuration issue and not your computer.</li></ul>">
 <!ENTITY redirectLoop.longDesc "<p>கோரப்பட்ட பொருளினை மீட்டெடுத்தல் முயற்சியினை உலாவி நிறுத்தியுள்ளது.தளமானது கோரிக்கையினை திசைதிருப்புகின்ற வழியானது பூரணப்படாது.</p><ul><li>இந்த தளத்திற்கு தேவைப்பட்ட cookies இனை நீங்கள் தடைசெய்துள்ளீர்களா?அல்லது இயலாமைப்படுத்தியுள்ளீர்களா?</li><li><em>குறிப்பு</em>:இது சேவையக தகவமைப்பு சம்மந்தப்பட்டது உங்களது கணினி சம்மந்தப்பட்டதல்ல.</li></ul>"> 
 
 <!ENTITY unknownSocketType.title "தவறான பதில்">
@@ -69,9 +67,6 @@
 ">
 
 <!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.title "">
-
-<!ENTITY malwareBlocked.title "">
 <!ENTITY malwareBlocked.longDesc "
 <p>Attack sites பிரத்தியேக தகவல்களைக் களவாடக் கூடிய செயலிகளை நிறுவ முயற்சி செய்யும், மற்றவர்களைத் தாக்குவதற்கு உங்களுடைய கணனிகளைப் பாவிக்கும், அல்லது உங்களுடைய தொகுதிக்கு சேதத்தை ஏற்படுத்தும்.</p>
 <p>
