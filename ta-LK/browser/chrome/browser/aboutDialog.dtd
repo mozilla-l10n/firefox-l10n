@@ -1,0 +1,16 @@
+<!ENTITY aboutDialog.title "&brandFullName; பற்றி">
+<!ENTITY copyright "நன்றி">
+<!ENTITY aboutLink "&lt; &brandFullName; பற்றி">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY aboutVersion "">
+<!ENTITY closeCmdGNOME.label        "மூடுக">  
+<!ENTITY closeCmdGNOME.accesskey    "C">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Contributors. All rights reserved. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Licensing information">
+<!ENTITY copyrightInfo2             ").">
+
+
+

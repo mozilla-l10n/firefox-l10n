@@ -1,4 +1,4 @@
-﻿<!ENTITY editMenu.label            "செவ்வையாக்குக">
+<!ENTITY editMenu.label            "செவ்வையாக்குக">
 <!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label             "முன் செயல் நீக்குக">
 <!ENTITY undoCmd.key               "Z">

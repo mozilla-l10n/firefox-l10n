@@ -1,0 +1,17 @@
+<!ENTITY phishDlg.title "Phishing பாதுகாப்பு சேவைகளின் விதிமுறைகள்">
+<!-- LOCALIZATION NOTE:
+     The following entities contain sizing information for the phishing privacy
+     agreement dialog, which is opened when you select the "Check by asking"
+     option as how the browser checks for phishing attempts (if you haven't
+     already agreed with the policy for that provider; once you agree to a
+     provider's policy, you don't see it again).
+-->
+
+<!ENTITY phishDlg.height "40em">
+<!ENTITY phishDlg.width "35em">
+
+<!ENTITY acceptToS.label "Phishing பாதுகாப்பு சேவைகளின் இந்த விதிமுறைகளை நான் ஏற்றுக்கொள்கிறேன்">
+<!ENTITY declineToS.label "Phishing பாதுகாப்பு சேவைகளின் இந்த விதிமுறைகளை நான் ஏற்றுக்கொள்ள முடியாது">
+
+<!ENTITY accept.label "ஏற்றுக்கொண்டு தொடர்க">
+<!ENTITY cancel.label "இரத்து செய்க">
