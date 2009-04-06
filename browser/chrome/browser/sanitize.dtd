@@ -1,4 +1,4 @@
-<!ENTITY sanitizePrefs2.title          "Instellingen voor geschiedenis wissen">
+<!ENTITY sanitizePrefs2.title          "Instellingen voor het wissen van geschiedenis">
 <!ENTITY sanitizeDialog2.title         "Recente geschiedenis wissen">
 
 <!ENTITY sanitizeItems.label          "De volgende gegevens nu wissen:">
@@ -7,12 +7,12 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-<!ENTITY clearTimeDuration.label          "Te wissen tijdbereik: ">
+<!ENTITY clearTimeDuration.label          "Te wissen tijdsperiode: ">
 <!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "Laatste uur">
 <!ENTITY clearTimeDuration.last2Hours     "Laatste twee uur">
 <!ENTITY clearTimeDuration.last4Hours     "Laatste vier uur">
-<!ENTITY clearTimeDuration.today          "VandaagToday">
+<!ENTITY clearTimeDuration.today          "Vandaag">
 <!ENTITY clearTimeDuration.everything     "Alles">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
@@ -32,9 +32,9 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Navigeer- en downloadgeschiedenis">
+<!ENTITY itemHistoryAndDownloads.label     "Navigatie- en downloadgeschiedenis">
 <!ENTITY itemHistoryAndDownloads.accesskey "N">
-<!ENTITY itemBrowsingHistory.label         "Navigeergeschiedenis">
+<!ENTITY itemBrowsingHistory.label         "Navigatiegeschiedenis">
 <!ENTITY itemBrowsingHistory.accesskey     "N">
 <!ENTITY itemFormSearchHistory.label       "Formulier- &amp; zoekgeschiedenis">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
@@ -42,21 +42,21 @@ that require it.  -->
 <!ENTITY itemPasswords.accesskey           "w">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "Webbuffer">
-<!ENTITY itemCache.accesskey               "e">
+<!ENTITY itemCache.label                   "Buffer">
+<!ENTITY itemCache.accesskey               "B">
 <!ENTITY itemOfflineApps.label             "Offlinewebsitegegevens">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemDownloadHistory.label         "Downloadgeschiedenis">
 <!ENTITY itemDownloadHistory.accesskey     "D">
 <!ENTITY itemActiveLogins.label            "Actieve aanmeldingen">
 <!ENTITY itemActiveLogins.accesskey        "A">
-<!ENTITY itemSitePreferences.label         "Paginavoorkeuren">
-<!ENTITY itemSitePreferences.accesskey     "P">
+<!ENTITY itemSitePreferences.label         "Websitevoorkeuren">
+<!ENTITY itemSitePreferences.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "Deze actie kan niet ongedaan gemaakt worden.">
+<!ENTITY sanitizeEverythingUndoWarning     "Deze actie kan niet ongedaan worden gemaakt.">
 
 <!ENTITY dialog.width                 "34em">
-<!ENTITY column.width                 "16em">
+<!ENTITY column.width                 "17em">

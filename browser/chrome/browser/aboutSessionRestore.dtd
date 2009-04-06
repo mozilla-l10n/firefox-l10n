@@ -3,10 +3,10 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Dit is genant.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; heeft problemen met het herstellen van uw vensters en tabbladen. Dit wordt meestal veroorzaakt door een recentelijk geopende pagina.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; ondervindt problemen bij het herstellen van uw vensters en tabbladen. Dit wordt meestal veroorzaakt door een onlangs geopende pagina.">
 <!ENTITY restorepage.tryThis        "U kunt proberen:">
-<!ENTITY restorepage.restoreSome    "Een of meerdere tabbladen, waarvan u denkt dat ze de problemen veroorzaken, verwijderen">
-<!ENTITY restorepage.startNew       "Een geheel nieuwe sessie starten">
+<!ENTITY restorepage.restoreSome    "Eén of meerdere tabbladen die volgens u het probleem veroorzaken te verwijderen">
+<!ENTITY restorepage.startNew       "Een geheel nieuwe sessie te starten">
 
 <!ENTITY restorepage.tryagainButton "Herstellen">
 <!ENTITY restorepage.restore.access "H">

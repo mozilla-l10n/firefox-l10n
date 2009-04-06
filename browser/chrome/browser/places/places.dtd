@@ -137,9 +137,9 @@
 <!ENTITY search.label                              "Zoeken:">
 <!ENTITY search.accesskey                          "Z">
 <!ENTITY search.scopeFolder.label                  "Geselecteerde map">
-<!ENTITY search.scopeFolder.accesskey              "r">
+<!ENTITY search.scopeFolder.accesskey              "m">
 <!ENTITY search.scopeBookmarks.label               "Bladwijzers">
-<!ENTITY search.scopeBookmarks.accesskey           "l">
+<!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY search.scopeDownloads.label               "Downloads">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Geschiedenis">

@@ -9,8 +9,8 @@
 <!ENTITY reloadAllTabs.accesskey    "r">
 <!ENTITY reloadTab.label            "Tabblad vernieuwen">
 <!ENTITY reloadTab.accesskey        "v">
-<!ENTITY  openTabInNewWindow.label    "Openen in nieuw venster">
-<!ENTITY  openTabInNewWindow.accesskey "i">
+<!ENTITY  openTabInNewWindow.label    "Openen in een nieuw venster">
+<!ENTITY  openTabInNewWindow.accesskey "w">
 <!ENTITY listAllTabs.label          "Alle tabbladtitels weergeven">
 <!ENTITY  bookmarkAllTabs.label       "Bladwijzer voor alle tabbladen maken…">
 <!ENTITY  bookmarkAllTabs.accesskey   "t">
