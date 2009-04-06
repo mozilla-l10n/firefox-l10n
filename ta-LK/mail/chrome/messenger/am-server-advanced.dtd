@@ -11,7 +11,7 @@
 <!ENTITY maximumConnectionsNumber.label "விரைவு நினைவகத்திற்கான அதிகபட்ச சேவையக இணைப்புகள்">
 <!ENTITY maximumConnectionsNumber.accesskey "வ">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY namespaceDesc.label "இந்த விருப்பத்தேர்வுகள் உங்களுடைய IMAP சேவையகத்தில் உள்ள namespaces ஐ குறிக்கின்றது">
 <!ENTITY personalNamespace.label "தனிப்பட்ட பெயரிடங்கள்:">
 <!ENTITY personalNamespace.accesskey "">
 <!ENTITY publicNamespace.label "பொதுஜனத்திற்கு (பங்கிடப்பட்ட):">

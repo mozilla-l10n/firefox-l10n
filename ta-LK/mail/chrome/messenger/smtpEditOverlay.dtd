@@ -10,13 +10,13 @@
 <!ENTITY alwaysUseUsername.accesskey "ப">
 <!ENTITY userName.label "பயனர் பெயர்:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "Use secure authentication">
+<!ENTITY useSecAuth.label "பாதுகாப்பான அத்தாட்சிப்படுத்தலைப் பயன்படுத்துக">
 <!ENTITY useSecAuth.accesskey "i">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "இணைப்புப் பாதுகாப்பு:">
 <!ENTITY connectionSecurity.accesskey "n">
-<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-0.label "ஒன்றுமில்லை">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP சேவையகம்">
-<!ENTITY serverPortDefault.label "கொடாநிலை:">
+<!ENTITY serverPortDefault.label "பொதுஇருப்பு:">

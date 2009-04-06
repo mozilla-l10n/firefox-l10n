@@ -12,8 +12,8 @@
 <!ENTITY nntpDownloadMsg.label "மேலும் ">
 <!ENTITY nntpDownloadMsg.accesskey "">
 <!ENTITY retentionCleanup.label "வன்வட்டு வெற்றிடத்தை மீட்க, பழைமையான செய்திகளை நிரந்தரமாக நீக்கலாம்.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
+<!ENTITY retentionCleanupImap.label "வட்டு இடைவெளியினை மீட்டெடுப்பதற்கு,தூர சேவையகத்தில் உள்ள பழைய தகவல்கள்(மூலங்கள் மற்றும் உள்ளக பிரதிகள்) நிரந்தரமாக நீக்கப்பட் முடியும்.">
+<!ENTITY retentionCleanupPop.label "வட்டு இடைவெளியினை மீட்டெடுப்பதற்கு,தூர சேவையகத்தில் உள்ள பழைய தகவல்கள்(மூலங்கள் உள்ளடங்கலாக) நிரந்தரமாக நீக்கப்பட் முடியும்.">
 <!ENTITY retentionKeepMsg.label "மேலும் ">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "எந்த செய்திகளையும் நீக்கவேண்டாம்">

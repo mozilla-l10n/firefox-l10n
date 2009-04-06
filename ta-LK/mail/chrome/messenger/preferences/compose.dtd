@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label " இவ்வாறு அஞ்சல்களை Forward">
 <!ENTITY forwardMsg.accesskey "f">
 <!ENTITY inline.label "Inline">
-<!ENTITY inline.accesskey "I">
 <!ENTITY asAttachment.label "உடனிணைப்பாக">
-<!ENTITY asAttachment.accesskey "A">
 <!ENTITY addExtension.label                   "கோப்புப்பெயருக்கு நீட்சியொன்றைச் சேர்க்கவும்">
 <!ENTITY addExtension.accesskey               "f">
 

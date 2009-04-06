@@ -10,7 +10,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Address Book Contact…">
+<!ENTITY newContact.label "முகவரிப்புத்தக தொடர்பு…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "உடனிணை">
 <!ENTITY attachMenu.accesskey "T">
@@ -19,7 +19,7 @@
 <!ENTITY attachPageCmd.label "இணையப் பக்கம்">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label " Personal Card (vCard) ">
+<!ENTITY attachVCardCmd.label " பிரத்தியேக அட்டை (vCard) ">
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "மூடு">
 <!ENTITY closeCmd.key "W">
@@ -121,12 +121,12 @@
 <!ENTITY quoteCmd.accesskey "Q">
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
-<!ENTITY attachVCard.label " Attach Personal Card (vCard)">
+<!ENTITY attachVCard.label " பிரத்தியேக அட்டையை இணைக்க(vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "திருப்பும் ரசீது">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY dsnMenu.label "Delivery Status Notification">
+<!ENTITY dsnMenu.label "விநியோக நிலைமை அறிவித்தல்">
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY outputFormatMenu.label "வடிவம்">
 <!ENTITY outputFormatMenu.accesskey "f">
@@ -163,8 +163,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "முகவரிப் புத்தகம்">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "கணக்கு அமைவுகள்">
+<!ENTITY addressBookCmd.key "B"><!ENTITY accountManagerCmd.label "கணக்கு அமைவுகள்">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "விருப்பங்கள்...">
@@ -176,7 +175,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "அனைத்தையும் சிறியதாக்கு">
 <!ENTITY bringAllToFront.label "அனைத்தையும் முன் கொணர்க">
-<!ENTITY zoomWindow.label "பெரிதாக்கு">
+<!ENTITY zoomWindow.label "பெரிதாக்குக">
 <!ENTITY windowMenu.label "சாளரம்">
 
 <!-- Mail Toolbar -->
@@ -254,7 +253,7 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "நீக்கு">
 <!ENTITY delete.accesskey "D">
-<!ENTITY renameAttachment.label "Rename…">
+<!ENTITY renameAttachment.label "மீள்பெயரிடுக…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "அனைத்தையும் தேர்ந்தெடு">
 <!ENTITY selectAll.accesskey "A">

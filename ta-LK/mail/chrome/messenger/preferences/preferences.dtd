@@ -9,5 +9,5 @@
 <!ENTITY paneDisplay.title "காண்பிக்கவும்">
 <!ENTITY paneComposition.title "கலவை">
 <!ENTITY paneAttachments.title "இணைப்புக்கள்">
-<!ENTITY panePrivacy.title "தனிமை">
+<!ENTITY paneSecurity.title    "Security">
 <!ENTITY paneAdvanced.title "உயர்நிலை">

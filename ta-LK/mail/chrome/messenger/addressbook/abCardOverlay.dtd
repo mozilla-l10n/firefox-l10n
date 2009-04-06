@@ -48,13 +48,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "முதற் பெயர்">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "இறுதிப்பெயர்">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "ஒலியியல் முதற் பெயர்">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "ஒலியியல் இறுதிப் பெயர்">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "முதலாவது:">
 <!ENTITY NameField1.accesskey           "F">
@@ -98,7 +98,7 @@ images in HTML messages from this contact.">
 <!ENTITY CellularNumber.label           "கையடக்கத் தொலைபேசி:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Home.tab                       "Private">
+<!ENTITY Home.tab                       "தனியார்">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "முகவரி:">
 <!ENTITY HomeAddress.accesskey          "d">
@@ -115,7 +115,7 @@ images in HTML messages from this contact.">
 <!ENTITY HomeWebPage.label              "இணையப்பக்கம்:">
 <!ENTITY HomeWebPage.accesskey          "W">
 
-<!ENTITY Work.tab                       "Work">
+<!ENTITY Work.tab                       "வேலை">
 <!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "தலைப்பு:">
 <!ENTITY JobTitle.accesskey             "e">

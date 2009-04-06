@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "புதிய">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newContact.label                               "Address Book Contact…">
+<!ENTITY newContact.label                               "முகவரிப்புத்தகத் தொடர்பு…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
@@ -28,14 +28,14 @@
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY printSetupCmd.label "பக்க அமைப்பு...">
 <!ENTITY printSetupCmd.accesskey "U">
-<!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
+<!ENTITY printPreviewContactCmd.label                   "அச்சு முன்காட்சித் தொடர்பு">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
 <!ENTITY printPreviewAddressBook.label "முகவரிப் புத்தகத்தை முன்நோக்கு">
 <!ENTITY printPreviewAddressBook.accesskey "B">
 <!ENTITY printAddressBook.label "முகவரிப் புத்தகத்தை அச்சிடு">
 <!ENTITY printAddressBook.accesskey "A">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printContactCmd.label                          "Print Contact…">
+<!ENTITY printContactCmd.label                          "தொடர்பை அச்சிடுக…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
 
@@ -60,8 +60,8 @@
 <!ENTITY deleteCmd.label "நீக்கு">
 <!ENTITY deleteCmd.accesskey "D">
 <!ENTITY deleteAbCmd.label "முகவரிப் புத்தகத்தை நீக்கு">
-<!ENTITY deleteContactCmd.label                         "Delete Contact">
-<!ENTITY deleteContactsCmd.label                        "Delete Contacts">
+<!ENTITY deleteContactCmd.label                         "தொடர்பை நீக்கவும்">
+<!ENTITY deleteContactsCmd.label                        "தொடர்புகளை நீக்கவும்">
 <!ENTITY deleteListCmd.label                            "பட்டியலை நீக்குக">
 <!ENTITY deleteListsCmd.label                           "பட்டியல்களை நீக்குக">
 <!ENTITY deleteItemsCmd.label                           "உருப்படிகளை நீக்குக">
@@ -90,7 +90,7 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "தனிப்பயனாக்கு">
 <!ENTITY customizeToolbar.accesskey "C">
-<!ENTITY showContactPane.label "Contact Summary Pane">
+<!ENTITY showContactPane.label "தொடர்பு சுருக்கப் பலகம்">
 <!ENTITY showContactPane.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label "பெயரை இப்படிக் காட்டு">
 <!ENTITY menu_ShowNameAs.accesskey "N">
@@ -122,7 +122,7 @@
 
 
 <!-- Address Book Toolbar and Context Menus --> 
-<!ENTITY newContactButton.label                         "New Contact">
+<!ENTITY newContactButton.label                         "புதிய தொடர்பு">
 <!ENTITY newContactButton.accesskey                     "C"> 
 <!ENTITY newlistButton.label "புதிய பட்டியல்">
 <!ENTITY newlistButton.accesskey "L">
@@ -136,7 +136,7 @@
 <!ENTITY deleteButton2.accesskey "D">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Create a new address book contact">
+<!ENTITY newContactButton.tooltip                       "புதிய முகவரிப்புத்தகத் தொடர்பை உருவாக்குக">
 <!ENTITY newlistButton.tooltip "புதிய பட்டியலை உருவாக்கு">
 <!ENTITY editButton2.tooltip "தெரிவு செய்த பக்கத்தை செவ்வையாக்கு">
 <!ENTITY newmsgButton.tooltip "அஞ்சல் செய்தியை அனுப்பு">

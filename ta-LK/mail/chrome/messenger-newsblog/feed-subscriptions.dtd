@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS சந்தாக்கள்">
+<!ENTITY feedSubscriptions.label "Feed Subscriptions">
 <!ENTITY subscriptionDesc.label "குறிப்பு: ஒரு ஃபீடுக்கு இந்த அடைவை நீக்குவதோ, மாற்றுவதோ, முன்னால் தரவிறக்கப்பட்ட கட்டுரைகளை பாதிக்காது">
 <!ENTITY feedTitle.label "தலைப்பு:">
 <!ENTITY location.label "இடம்:">

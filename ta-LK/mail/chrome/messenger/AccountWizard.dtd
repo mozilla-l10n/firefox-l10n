@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "கணக்கு வழிகாட்டி">
-<!ENTITY accountWizard.size "அகலம்: 50em; உயரம்: 45em;">
+<!ENTITY accountWizard.size "width: 50em; height: 45em;">
 <!-- Entities for Account Type page -->
 
 

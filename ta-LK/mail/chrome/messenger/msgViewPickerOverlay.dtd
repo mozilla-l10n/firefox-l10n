@@ -6,7 +6,7 @@
 <!ENTITY viewAll.accesskey "அ">
 <!ENTITY viewUnread.label "படிக்காதது">
 <!ENTITY viewUnread.accesskey "ப">
-<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.label "நீக்கப்படவில்லை">
 <!ENTITY viewNotDeleted.accesskey "D">
 <!ENTITY viewTags.label "ஒட்டுகள்">
 <!ENTITY viewTags.accesskey "ஒ">
