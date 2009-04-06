@@ -10,7 +10,7 @@
 <!ENTITY fileTypeColumn.accesskey "T">
 <!ENTITY fileMIMETypeColumn.label "MIME வகை">
 <!ENTITY fileMIMETypeColumn.accesskey "M">
-<!ENTITY fileExtensionColumn.label "Extension">
+<!ENTITY fileExtensionColumn.label "நீட்சி">
 <!ENTITY fileExtensionColumn.accesskey "E">
 
 <!ENTITY remove.label "செயலை நீ்க்குக">

@@ -56,9 +56,9 @@
 <!ENTITY daysOld.label "நாட்களுக்கு மேற்பட்ட அஞ்சல்களை நீக்குக. ">
 <!ENTITY message.label "அஞ்சல்களைத் தவிர அனைத்தையும் நீக்குக.">
 <!ENTITY retentionCleanup.label "வன்வட்டு வெற்றிடத்தை மீட்க, பழைய அஞ்சல்கள் நிரந்தரமாக நீக்கப்படும்">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionCleanupImap.label "வட்டு இடைவெளியினை மீட்டெடுப்பதற்கு,தொலை சேவையகத்தில் உள்ள பழைய தகவல்கள்(மூலங்கள் மற்றும் உள்ளகபிரதிகள்) நிரந்தரமாக நீக்கப்பட முடியும்.">
+<!ENTITY retentionCleanupPop.label "வட்டு இடைவெளியினை மீட்டெடுப்பதற்கு,தொலை சேவையகத்தில் உள்ள பழைய தகவல்கள்(மூலங்களும் உள்ளடங்கலாக) நிரந்தரமாக நீக்கப்பட முடியும்,">
+<!ENTITY retentionDeleteMsg.label "மேலும் தகவல்களை நீக்குக">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "எந்த அஞ்சல்களையும் நீக்கவேண்டாம்.">
 <!ENTITY retentionKeepAll.accesskey "">
@@ -85,7 +85,7 @@
 
 <!ENTITY folderProps.name.label "பெயர்:">
 <!ENTITY folderProps.name.accesskey "">
-<!ENTITY folderProps.location.label              "Location:">
+<!ENTITY folderProps.location.label              "இடம்:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label "பங்கிடுதல்">

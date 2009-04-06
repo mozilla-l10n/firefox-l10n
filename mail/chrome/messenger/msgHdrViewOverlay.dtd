@@ -45,50 +45,50 @@
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "newsgroups ">
+<!ENTITY newsgroupsField2.label "செய்திகள் குழுமங்கள் ">
 <!ENTITY followupToField2.label "followup-to ">
 <!ENTITY tagsHdr2.label "அடையாள ஒட்டுகள் ">
 <!ENTITY dateField2.label "திகதி ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
+<!ENTITY userAgentField2.label "பயனாளர்-முகவர் ">
+<!ENTITY referencesField2.label "குறிப்புகள்">
 <!ENTITY messageIdField2.label "message-id ">
 <!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY originalWebsite2.label "இணையத்தளம் ">
 
-<!ENTITY editMessageDescription.label "This is a draft message">
-<!ENTITY editMessageButton.label "Edit…">
-<!ENTITY archiveButton.label "archive">
-<!ENTITY hdrReplyButton.label "reply">
-<!ENTITY hdrReplyAllButton.label "reply all">
-<!ENTITY hdrForwardButton.label "forward">
-<!ENTITY hdrJunkButton.label "junk">
-<!ENTITY trashButton.tooltiptext "delete">
+<!ENTITY editMessageDescription.label "இது முதல் வரைவு தகவல்">
+<!ENTITY editMessageButton.label "செவ்வையாக்குக…">
+<!ENTITY archiveButton.label "ஆவணக்காப்பகம்">
+<!ENTITY hdrReplyButton.label "பதிலனுப்புக">
+<!ENTITY hdrReplyAllButton.label "யாவற்றிற்கும் பதிலனுப்புக">
+<!ENTITY hdrForwardButton.label "மீளனுப்புக">
+<!ENTITY hdrJunkButton.label "கூளம்">
+<!ENTITY trashButton.tooltiptext "நீக்குக">
 
-<!ENTITY otherActionsButton.label "other actions">
-<!ENTITY saveAsMenuItem.label "save as…">
+<!ENTITY otherActionsButton.label "ஏனைய செயற்பாடுகள்">
+<!ENTITY saveAsMenuItem.label "என சேமிக்க…">
 <!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "view source…">
+<!ENTITY viewSourceMenuItem.label "மூலத்தினை நோக்குக…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 
-<!ENTITY hideDetailsButton.label "hide details">
-<!ENTITY showDetailsButton.label "show details">
+<!ENTITY hideDetailsButton.label "விபரங்களை மறைக்க">
+<!ENTITY showDetailsButton.label "விபரங்களைக் காட்டுக">
 
-<!ENTITY openAttachmentCmd.label    "Open">
+<!ENTITY openAttachmentCmd.label    "திறக்க">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Save As…">
+<!ENTITY saveAsAttachmentCmd.label    "என சேமிக்க…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "A">
 <!ENTITY detachAttachmentCmd.label    "Detach…">
-<!ENTITY deleteAttachmentCmd.label    "Delete">
-<!ENTITY saveAllAttachmentsCmd.label    "Save All…">
+<!ENTITY deleteAttachmentCmd.label    "நீக்குக">
+<!ENTITY saveAllAttachmentsCmd.label    "யாவற்றையும் சேமிக்க…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Detach All…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
-<!ENTITY deleteAllAttachmentsCmd.label    "Delete All…">
+<!ENTITY deleteAllAttachmentsCmd.label    "யாவற்றையும் நீக்குக…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
 
-<!ENTITY copyLinkCmd.label        "Copy Link Location">
+<!ENTITY copyLinkCmd.label        "இணைப்பு இடத்தை நகலெடுக்க">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
-<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+<!ENTITY CopyMessageId.label "Message-ID நகலெடுக்க">
+<!ENTITY OpenMessageForMsgId.label "ID இற்காக தகவலினைத் திறக்க">
+<!ENTITY OpenBrowserWithMsgId.label "Message-ID உடன் உலாவியினைத் திறக்க">

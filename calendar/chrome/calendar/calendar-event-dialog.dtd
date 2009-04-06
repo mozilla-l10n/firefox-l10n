@@ -44,9 +44,6 @@
 
 <!ENTITY event.title.label                  "உருப்படியை செவ்வையாக்குக" >
 
-<!ENTITY newevent.before.label              "முன்னால்" >
-<!ENTITY newevent.after.label               "பின்னால்" >
-
 <!ENTITY newevent.from.label                "இருந்த" >
 <!ENTITY newevent.to.label                  "க்கு" >
 <!ENTITY newevent.attendees.notify.label    "Notify attendees">
@@ -73,8 +70,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "E">
 <!ENTITY  event.menu.file.new.message.label               "செய்தி">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "முகவரிப்புத்தக அட்டை">
-<!ENTITY  event.menu.file.new.address.accesskey           "C">
+<!ENTITY  event.menu.file.new.contact.label               "Address Book Contact">
+<!ENTITY  event.menu.file.new.contact.accesskey           "C">
 <!ENTITY  event.menu.file.close.label                     "மூடுக">
 <!ENTITY  event.menu.file.close.accesskey                 "C">
 <!ENTITY  event.menu.file.save.label                      "சேமிக்க">
@@ -260,13 +257,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "ஒவ்வொரு" >
 <!ENTITY repeat.units.months.both                       "மாதம்(கள்)" >
-<!ENTITY event.recurrence.the.label                     "The" >
-<!ENTITY event.recurrence.repeat.first.label            "முதலாவது">
-<!ENTITY event.recurrence.repeat.second.label           "இரண்டாவது">
-<!ENTITY event.recurrence.repeat.third.label            "மூன்றாவது">
-<!ENTITY event.recurrence.repeat.fourth.label           "நான்காவது">
-<!ENTITY event.recurrence.repeat.fifth.label            "ஐந்தாவது">
-<!ENTITY event.recurrence.repeat.last.label             "இறுதி">
+<!ENTITY event.recurrence.monthly.every.label           "ஒவ்வொரு" >
+<!ENTITY event.recurrence.monthly.first.label           "முதலாவது">
+<!ENTITY event.recurrence.monthly.second.label          "இரண்டாவது">
+<!ENTITY event.recurrence.monthly.third.label           "மூன்றாவது">
+<!ENTITY event.recurrence.monthly.fourth.label          "நான்காவது">
+<!ENTITY event.recurrence.monthly.fifth.label           "ஐந்தாவது">
+<!ENTITY event.recurrence.monthly.last.label            "கடைசி">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "ஞாயிற்றுக்கிழமை" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "திங்கட்கிழமை" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "செவ்வாய்க்கிழமை" >
@@ -280,7 +277,6 @@
 <!ENTITY event.recurrence.every.label                        "ஒவ்வொரு:" >
 <!ENTITY repeat.units.years.both                             "ஆண்டு(கள்)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "ஒவ்வொரு" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "ஒவ்வொரு" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -303,12 +299,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "ஒக்டோபர்" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "நவம்பர்" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "டிசம்பர்" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "முதலாவது">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "இரண்டாவது">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "மூன்றாவது">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "நான்காவது">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "ஐந்தாவது">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "இறுதி">
+<!ENTITY event.recurrence.yearly.every.label                 "ஒவ்வொரு">
+<!ENTITY event.recurrence.yearly.first.label                 "முதலாவது">
+<!ENTITY event.recurrence.yearly.second.label                "இரண்டாவது">
+<!ENTITY event.recurrence.yearly.third.label                 "மூன்றாவது">
+<!ENTITY event.recurrence.yearly.fourth.label                "நான்காவது">
+<!ENTITY event.recurrence.yearly.fifth.label                 "ஐந்தாவது">
+<!ENTITY event.recurrence.yearly.last.label                  "கடைசி">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "ஞாயிற்றுக்கிழமை" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "திங்கட்கிழமை" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "செவ்வாய்க்கிழமை" >
@@ -336,27 +333,6 @@
 <!ENTITY event.recurrence.appointments.label            "நியமனம்(கள்)" >
 <!ENTITY event.repeat.until.label                       "வரை மீண்டும் செய்க" >
 <!ENTITY event.recurrence.preview.label                 "முன்காட்சி">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "நிமிடங்கள்" >
-<!ENTITY alarm.units.hours                  "மணித்தியாலங்கள்" >
-<!ENTITY alarm.units.days                   "நாட்கள்" >
-
-<!ENTITY reminder.title.label                           "வழக்கமான நினைவூட்டி">
-<!ENTITY reminder.dialogtitle.label                     "நினைவூட்டிகளை அமைக்க">
-<!ENTITY reminder.reminderDetails.label                 "நினைவூட்டி விவரங்கள்">
-<!ENTITY reminder.action.label                          "நினைவூட்டி செயலொன்றை தெரிவுசெய்க">
-<!ENTITY reminder.action.alert.label                    "ஒரு எச்சரிக்கையை காட்டுக">
-<!ENTITY reminder.action.email.label                    "மின்னஞ்சலொன்றை அனுப்புக">
-<!ENTITY reminder.new.label                             "புதிய">
-<!ENTITY reminder.delete.label                          "நீக்குக">
-<!ENTITY reminder.relation.start.label                  "நிகழ்ச்சி ஆரம்பிக்கிறது">
-<!ENTITY reminder.relation.end.label                    "நிகழ்ச்சி முடிவுறுகிறது">
-<!ENTITY reminder.add.label                             "சேர்க்க">
-<!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "அகற்றுக">
-<!ENTITY reminder.remove.accesskey                      "R">
-
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "வருகைதரவேண்டியவர்களை அழைக்க">

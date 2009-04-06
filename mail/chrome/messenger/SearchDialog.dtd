@@ -66,7 +66,7 @@
 <!ENTITY unreadColumn.tooltip " Threadல் உள்ள படிக்காத அஞ்சல்களின் எண்ணிக்கை">
 <!ENTITY totalColumn.tooltip " Threadல் உள்ள மொத்த அஞ்சல்களின் எண்ணிக்கை">
 <!ENTITY readColumn.tooltip "படித்ததுவாரியாக வரிசைப்படுத்த சொடுக்குக">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY receivedColumn.tooltip "பெற்றுக் கொண்ட திகதியினடிப்படையில் வரிசைப்படுத்துவதற்குச் சொடுக்குக">
 <!ENTITY starredColumn.tooltip "நிலைமைவாரியாக வரிசைப்படுத்த சொடுக்குக">
 <!ENTITY locationColumn.tooltip "இடவாரியாக வரிசைப்படுத்த சொடுக்குக">
 <!ENTITY idColumn.tooltip "கிடைத்த வரிசை வாரியாக வரிசைப்படுத்த சொடுக்குக.">
