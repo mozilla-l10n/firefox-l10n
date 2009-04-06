@@ -1,6 +1,5 @@
 <!ENTITY restorepage.tabtitle       "Restaurar sesión">
 <!ENTITY restorepage.errorTitle     "Vaia, isto é un pouco vergonzante">
-<!ENTITY restorepage.pagetitle      "Desexa restaurar a sesión?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.problemDesc      "A sesión anterior do &brandShortName; finalizou abruptamente. Vostede pode restaurar os separadores e as xanelas que estaban abertas naquel momento. En caso de que non queira restauralas, entón inicie unha nova sesión.">
