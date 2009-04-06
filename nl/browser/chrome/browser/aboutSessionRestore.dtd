@@ -5,7 +5,7 @@
 <!ENTITY restorepage.errorTitle     "Dit is genant.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; ondervindt problemen bij het herstellen van uw vensters en tabbladen. Dit wordt meestal veroorzaakt door een onlangs geopende pagina.">
 <!ENTITY restorepage.tryThis        "U kunt proberen:">
-<!ENTITY restorepage.restoreSome    "Eén of meerdere tabbladen die volgens u het probleem veroorzaken te verwijderen">
+<!ENTITY restorepage.restoreSome    "EÃ©n of meerdere tabbladen die volgens u het probleem veroorzaken te verwijderen">
 <!ENTITY restorepage.startNew       "Een geheel nieuwe sessie te starten">
 
 <!ENTITY restorepage.tryagainButton "Herstellen">
