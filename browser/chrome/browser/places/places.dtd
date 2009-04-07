@@ -172,10 +172,8 @@
 <!ENTITY maintenance.label "Importa e salva">
 <!ENTITY maintenance.accesskey "m">
 <!ENTITY backCmd.label "Indietro">
-<!ENTITY backCmd.accesskey "I">
 <!ENTITY backButton.tooltip "Vai indietro">
 <!ENTITY forwardCmd.label "Avanti">
-<!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Vai avanti">
 <!ENTITY detailsPane.more.label "Altri dati">
 <!ENTITY detailsPane.more.accesskey "d">
