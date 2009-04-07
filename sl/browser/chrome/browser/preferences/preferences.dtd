@@ -3,9 +3,9 @@
 <!ENTITY prefWindow.titleGNOME "Nastavitve &brandShortName;a">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY prefWin.styleWin2 "width: 45em; height: 32em;">
-<!ENTITY prefWin.styleMac2 "width: 45em; height: 32em;">
-<!ENTITY prefWin.styleGNOME2 "width: 45em; height: 32em;">
+<!ENTITY prefWin.styleWin3 "width: 42em; height: 37.5em;">
+<!ENTITY prefWin.styleMac2 "width: 47em; height: 40em;">
+<!ENTITY prefWin.styleGNOME2 "width: 42em; height: 39.5em;">
 
 <!ENTITY paneMain.title "Splošno">
 <!ENTITY paneTabs.title "Zavihki">
