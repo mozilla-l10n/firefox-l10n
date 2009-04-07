@@ -16,6 +16,7 @@
 <!ENTITY tabCmd.label "Жаңа бет">
 <!ENTITY tabCmd.accesskey "б">
 <!ENTITY tabCmd.commandkey "t">
+<!ENTITY newTabButton.tooltip "Жаңа бет ашу">
 <!ENTITY openLocationCmd.label "Адресті ашу...">
 <!ENTITY openLocationCmd.accesskey "А">
 <!ENTITY openFileCmd.label "Файлды ашу...">
@@ -103,6 +104,7 @@
 <!ENTITY bookmarksButton.tooltip        "Сіздің бетбелгілеріңізді көрсету">
 <!ENTITY bookmarksSidebarCmd.accesskey  "к">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Тарихы">
@@ -186,14 +188,19 @@
 <!ENTITY historyMenu.label "Тарихы">
 <!ENTITY historyMenu.accesskey "х">
 <!ENTITY historyUndoMenu.label "Жақында жабылған беттер">
+<!ENTITY historyUndoWindowMenu.label "Жақында жабылған терезелер">
 
 <!ENTITY historyHomeCmd.label "Үй беті">
 <!ENTITY showAllHistoryCmd2.label "Бүкіл тарихты көрсету">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Бетбелгілер мен тарихтың ішінен іздеу">
-<!ENTITY urlbar.accesskey             "м">
+<!ENTITY urlbar.emptyText	       "Бетбелгілер мен тарихтың ішінен іздеу">
+<!ENTITY urlbar.bookmarkhistory.emptyText       "Бетбелгілер мен тарихтың ішінен іздеу">
+<!ENTITY urlbar.bookmark.emptyText    "Бетбелгілерінің ішінен іздеу">
+<!ENTITY urlbar.history.emptyText     "Тарихтың ішінен іздеу">
+<!ENTITY urlbar.none.emptyText        "Веб адрес жазыңыз">
+<!ENTITY urlbar.accesskey             "з">
 
 <!-- 
   Comment duplicated from browser-sets.inc:

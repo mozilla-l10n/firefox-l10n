@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "р">
 <!ENTITY  reloadTab.label        "Бетті жаңарту">
 <!ENTITY  reloadTab.accesskey         "а">
+<!ENTITY  openTabInNewWindow.label    "Жаңа терезеде ашу">
+<!ENTITY  openTabInNewWindow.accesskey "т">
 <!ENTITY  listAllTabs.label      "Бүкіл беттердің тізімі">
 <!ENTITY  bookmarkAllTabs.label       "Барлық беттерді бетбелгілерге қосу...">
 <!ENTITY  bookmarkAllTabs.accesskey   "о">

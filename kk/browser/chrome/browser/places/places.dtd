@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Іздеу">
 <!ENTITY search.accesskey                          "з">
-<!ENTITY search.collection.label                   "Тек ағымдағы топтама">
-<!ENTITY search.collection.accesskey               "т">
-<!ENTITY search.allBookmarks.label                 "Барлық бетбелгілер">
-<!ENTITY search.allBookmarks.accesskey             "Б">
+<!ENTITY search.scopeBookmarks.label               "Бетбелгілер">
+<!ENTITY search.scopeBookmarks.accesskey           "Б">
 <!ENTITY search.scopeFolder.label                  "Ерекшеленген бума">
 <!ENTITY search.scopeFolder.accesskey              "Е">
-<!ENTITY search.scopeAll.label                     "Барлық бетбелгілер">
-<!ENTITY search.scopeAll.accesskey                 "л">
-<!ENTITY search.scopeMenu.label                    "Бетбелгілер мәзірі">
-<!ENTITY search.scopeMenu.accesskey                "м">
-<!ENTITY search.scopeToolbar.label                 "Бетбелгілер панелі">
-<!ENTITY search.scopeToolbar.accesskey             "п">
 <!ENTITY search.scopeDownloads.label               "Жүктемелер">
 <!ENTITY search.scopeDownloads.accesskey           "к">
 <!ENTITY search.scopeHistory.label                 "Тарихы">
