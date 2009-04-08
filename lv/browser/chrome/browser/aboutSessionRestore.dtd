@@ -1,13 +1,13 @@
 <!ENTITY restorepage.tabtitle       "Atjaunot sesiju">
-<!ENTITY restorepage.pagetitle      "Vai vēlaties atjaunot iepriekšējo sesiju?">
+<!ENTITY restorepage.errorTitle      "Ar nožēlu jāatzīst.">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Jūsu iepriekšējā &brandShortName; lietošanas reize beidzās ar avāriju. Mēs atvainojamies par sagādātajām neērtībām. Ja vēlaties jūs varat atjaunot iepriekšējā reizē atvērtās cilnes un logus, vai arī, ja gribat, varat sākt jaunu sesiju.">
-<!ENTITY restorepage.remedies       "Ja &brandShortName; negaidīti aizveras:">
-<!ENTITY restorepage.dueToChrome    "Mēģiniet atslēgt nesen pievienotos papildinājumus Papildinājumu pārvaldniekā.">
-<!ENTITY restorepage.dueToContent   "Mēģiniet atjaunot sesiju bez mājas aizdomīgām mājas lapām, kas jūsuprāt varētu būt problēmas cēlonis:">
+<!ENTITY restorepage.problemDesc      "&brandShortName; ir grūtības atgūt jūsu logus un cilnes. To parasti izraisa nesen atvērta majas lapa.">
+<!ENTITY restorepage.tryThis        "Jūs varat mēģināt:">
+<!ENTITY restorepage.restoreSome    "Aizvākt vienu vai vairākas cilnes, kuras jūsuprāt varētu radīt problēmu">
+<!ENTITY restorepage.startNew       "Sākt jaunu pārlūkošanas sesiju">
 
-<!ENTITY restorepage.restoreButton  "Atjaunot iepriekšējo sesiju">
+<!ENTITY restorepage.tryagainButton  "Atjaunot">
 <!ENTITY restorepage.restore.access "A">
 <!ENTITY restorepage.cancelButton   "Sākt jaunu sesiju">
 <!ENTITY restorepage.cancel.access  "S">

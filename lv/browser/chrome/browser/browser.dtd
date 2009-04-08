@@ -95,9 +95,7 @@
 
 <!ENTITY bookmarksButton.label "Grāmatzīmes">
 <!ENTITY bookmarksButton.tooltip "Parādīt grāmatzīmes">
-<!ENTITY bookmarksSidebarCmd.accesskey "G">
-<!ENTITY bookmarksSidebarCmd.commandkey "g">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
 
 <!ENTITY historyButton.label "Vēsture">
 <!ENTITY historyButton.tooltip "Parādīt nesen skatītās lapas">
@@ -174,6 +172,7 @@
 <!ENTITY historyMenu.label "Vēsture">
 <!ENTITY historyMenu.accesskey "v">
 <!ENTITY historyUndoMenu.label "Nesen aizvērtās cilnes">
+<!ENTITY historyUndoWindowMenu.label "Nesen aizvērtie logi">
 
 <!ENTITY historyHomeCmd.label "Sākumlapa">
 <!ENTITY showAllHistoryCmd2.label "Parādīt visu vēsturi">
@@ -182,6 +181,11 @@
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Meklēt grāmatzīmēs un vēsturē">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Meklēt grāmatzīmēs un vēsturē">
+<!ENTITY urlbar.bookmark.emptyText    "Meklēt grāmatzīmēs">
+<!ENTITY urlbar.history.emptyText     "Meklēt vēsturē">
+<!ENTITY urlbar.none.emptyText        "Ierakstīt tīmekļa adresi">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -203,6 +207,14 @@
   Do *not* tamper with these values without talking to ben@mozilla.org
   
  -->
+
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "t">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "G">
+<!ENTITY bookmarksCmd.commandkey "g">
 
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">

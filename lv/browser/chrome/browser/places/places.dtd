@@ -192,11 +192,9 @@
 <!ENTITY maintenance.accesskey "I">
 
 <!ENTITY backCmd.label "Atpakaļ">
-<!ENTITY backCmd.accesskey "T">
 <!ENTITY backButton.tooltip "Iet atpakaļ">
 
 <!ENTITY forwardCmd.label "Uz priekšu">
-<!ENTITY forwardCmd.accesskey "P">
 <!ENTITY forwardButton.tooltip "Iet uz priekšu">
 
 <!ENTITY detailsPane.more.label "Vairāk">
