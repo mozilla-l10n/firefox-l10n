@@ -30,8 +30,8 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "ш">
 <!ENTITY itemBrowsingHistory.label         "Қарап шығу тарихы">
 <!ENTITY itemBrowsingHistory.accesskey     "ш">
-<!ENTITY itemFormSearchEntries.label  "Формалардың іздеу тарихы">
-<!ENTITY itemFormSearchEntries.accesskey "Ф">
+<!ENTITY itemFormSearchHistory.label  	   "Формалардың іздеу тарихы">
+<!ENTITY itemFormSearchHistory.accesskey   "Ф">
 <!ENTITY itemPasswords.label          "Сақталған парольдерді">
 <!ENTITY itemPasswords.accesskey      "п">
 <!ENTITY itemCookies.label            "Куки">
