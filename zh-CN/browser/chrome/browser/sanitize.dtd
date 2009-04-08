@@ -37,13 +37,13 @@ that require it.  -->
 <!ENTITY itemBrowsingHistory.label         "浏览历史">
 <!ENTITY itemBrowsingHistory.accesskey     "B">
 <!ENTITY itemFormSearchHistory.label       "表单 &amp; 搜索历史">
-<!ENTITY itemFormSearchHistory.accesskey   "a">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "已保存的密码">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "高速缓存">
-<!ENTITY itemCache.accesskey               "C">
+<!ENTITY itemCache.accesskey               "A">
 <!ENTITY itemOfflineApps.label             "脱机网站数据">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemDownloadHistory.label         "下载历史">
