@@ -58,7 +58,7 @@
 <!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 将会：">
-<!ENTITY  historyHeader.pre.accesskey      "b">
+<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "记录历史">
 <!ENTITY  historyHeader.dontremember.label "从不记录历史">
 <!ENTITY  historyHeader.custom.label       "使用自定义历史记录设置">
@@ -103,7 +103,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "当&brandShortName;关闭时清除历史 ">
-<!ENTITY  clearOnClose.accesskey         "b">
+<!ENTITY  clearOnClose.accesskey         "w">
 
 <!ENTITY  clearOnCloseSettings.label     "设置…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
