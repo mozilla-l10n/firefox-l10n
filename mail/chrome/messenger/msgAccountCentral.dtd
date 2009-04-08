@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label           "垃圾邮件设置">
 <!ENTITY offlineLink.label            "脱机设置">
 
-<!ENTITY rssSectionHdr.label          "RSS 新闻&amp;博客"> 
-<!ENTITY subscibeRSS.label            "管理订阅">
+<!ENTITY feedsSectionHdr.label        "收取点">
+<!ENTITY subscribeFeeds.label         "管理订阅">

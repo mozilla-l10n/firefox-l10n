@@ -58,7 +58,7 @@
 <!ENTITY TextAreaWrap.label "折行模式:">
 <!ENTITY TextAreaWrap.accessKey "W">
 <!ENTITY WrapDefault.value "默认">
-<!ENTITY WrapOff.value "Off">
+<!ENTITY WrapOff.value "关">
 <!ENTITY WrapHard.value "硬">
 <!ENTITY WrapSoft.value "软">
 <!ENTITY WrapPhysical.value "自然">

@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "显示您的书签">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "历史">
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "历史">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "最近关闭的标签页">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "最近关闭窗口">
 
 <!ENTITY historyHomeCmd.label "主页">
 <!ENTITY showAllHistoryCmd2.label "显示全部历史">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "搜索书签和历史">
+<!ENTITY urlbar.bookmarkhistory.emptyText "搜索书签和历史">
+<!ENTITY urlbar.bookmark.emptyText    "搜索书签">
+<!ENTITY urlbar.history.emptyText     "搜索历史记录">
+<!ENTITY urlbar.none.emptyText        "输入网址">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -351,6 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "缩放">
 <!ENTITY fullZoom.accesskey             "Z">
 
+<!ENTITY newTabButton.tooltip           "打开新标签页">
 <!ENTITY newWindowButton.tooltip        "打开新窗口">
 <!ENTITY sidebarCloseButton.tooltip     "关闭侧栏">
 

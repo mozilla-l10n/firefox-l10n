@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "RSS 帐户设置">
+<!ENTITY accountTitle.label "帐号设置">
 
 <!ENTITY biffStart.label "检查是否有新文章,每隔">
 <!ENTITY biffStart.accesskey "k">
@@ -13,8 +13,8 @@
 <!ENTITY manageSubscriptions.label "管理订阅…"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "News &amp; Blogs">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS 新闻 &amp; 博客">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "博客和新闻收取点">
+<!ENTITY feeds.wizardShortName "收取点">
+<!ENTITY feeds.wizardLongName "博客和新闻收取点">
+<!ENTITY feeds.wizardLongName.accesskey "F">

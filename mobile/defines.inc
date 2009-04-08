@@ -4,6 +4,6 @@
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
-define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>文少华</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Wen Shaohua</em:contributor>
 
 #unfilter emptyLines
