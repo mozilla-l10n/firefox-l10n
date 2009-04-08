@@ -3,7 +3,6 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator "-">
 
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navigacion privada)">
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Onglet novèl">
 <!ENTITY tabCmd.accesskey "O">
@@ -85,9 +84,6 @@
 <!ENTITY homeButton.label "Acuèlh">
 <!ENTITY bookmarksButton.label "Marcapaginas">
 <!ENTITY bookmarksButton.tooltip "Visualizar los marcapaginas">
-<!ENTITY bookmarksSidebarCmd.accesskey "m">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Istoric">
 <!ENTITY historyButton.tooltip "Visualizar las paginas visitadas recentament">
 <!ENTITY historySidebarCmd.accesskey "s">
