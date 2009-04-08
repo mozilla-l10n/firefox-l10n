@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "a">
 <!ENTITY  reloadTab.label        "重新载入标签页">
 <!ENTITY  reloadTab.accesskey         "R">
+<!ENTITY  openTabInNewWindow.label    "在新窗口中打开">
+<!ENTITY  openTabInNewWindow.accesskey "W">
 <!ENTITY  listAllTabs.label      "列出所有标签页">
 <!ENTITY  bookmarkAllTabs.label       "将全部标签页加为书签…">
 <!ENTITY  bookmarkAllTabs.accesskey   "T">

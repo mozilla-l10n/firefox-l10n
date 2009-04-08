@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS 订阅">
+<!ENTITY feedSubscriptions.label "订阅收取点">
 <!ENTITY subscriptionDesc.label "说明：移除或者改变收取点的文件夹不会影响已下载的文章。">
 <!ENTITY feedTitle.label "标题:">
 <!ENTITY location.label  "地址:">

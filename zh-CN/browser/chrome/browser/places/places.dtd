@@ -38,9 +38,9 @@
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
 <!ENTITY cmd.exportHTML.label           "导出 HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.exportHTML.accesskey       "H">
 <!ENTITY cmd.importHTML.label           "导入 HTML…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY cmd.importHTML.accesskey       "H">
 
 <!ENTITY cmd.backup.label               "备份…">
 <!ENTITY cmd.backup.accesskey           "B">
@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "搜索:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "仅当前集合">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "全部书签">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "已选中文件夹">
 <!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "全部书签">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "书签菜单">
-<!ENTITY search.scopeMenu.accesskey                "m">
-<!ENTITY search.scopeToolbar.label                 "书签工具栏">
-<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeBookmarks.label               "书签">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "下载">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "历史">

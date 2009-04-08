@@ -3,6 +3,8 @@
 <!ENTITY permissions.default.image.description     "让网页显示的更漂亮">
 <!ENTITY javascript.enabled.title                  "启用 Javascript">
 <!ENTITY javascript.enabled.description            "使网站活动起来">
+<!ENTITY javascript.options.jit.content.title      "启用 JavaScript 跟踪">
+<!ENTITY javascript.options.jit.content.description "对 JavaScript 启用原生代码编译">
 <!ENTITY plugins.enabled.title                     "启用插件">
 <!ENTITY plugins.enabled.description               "使网站恼人">
 <!ENTITY privacy.title                             "隐私 &amp; 安全">

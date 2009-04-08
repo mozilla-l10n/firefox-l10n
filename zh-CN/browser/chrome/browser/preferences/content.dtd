@@ -14,7 +14,7 @@
 <!ENTITY  advancedJS.accesskey        "v">
 
 <!ENTITY  enableJava.label            "启用 Java">
-<!ENTITY  enableJava.accesskey        "n">
+<!ENTITY  enableJava.accesskey        "J">
 
 
 <!ENTITY  fontsAndColors.label        "字体 &amp; 颜色">

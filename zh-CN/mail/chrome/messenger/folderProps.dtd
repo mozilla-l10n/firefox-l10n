@@ -68,7 +68,7 @@
 <!ENTITY retentionApplyToFlagged.label "总是保留已加星标之消息">
 <!ENTITY retentionApplyToFlagged.accesskey "E">
 
-<!ENTITY folderOfflineTab.label                  "脱机">
+<!ENTITY folderSynchronizationTab.label          "Synchronization">
 <!ENTITY folderCheckForNewMessages.label         "检查此文件夹的新消息">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 

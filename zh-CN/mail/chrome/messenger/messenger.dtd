@@ -44,8 +44,6 @@
 <!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "清空“废件箱”">
 <!ENTITY emptyTrashCmd.accesskey    "y">
-<!ENTITY importCmd.label "导入…">
-<!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "脱机">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "脱机工作">
@@ -98,9 +96,6 @@
 <!ENTITY folderPropsFolderCmd.label "文件夹属性…">
 <!ENTITY folderPropsNewsgroupCmd.label "新闻组属性…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "帐户设置…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY undoDeleteMsgCmd.label "撤销 删除消息">
 <!ENTITY redoDeleteMsgCmd.label "重做删除消息">
 <!ENTITY undoMoveMsgCmd.label "撤销 移动消息">
@@ -407,20 +402,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "工具">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY addons.label "附加组件">
-<!ENTITY addons.accesskey "d">
-<!ENTITY activitymanager.label "活动管理器">
-<!ENTITY activitymanager.accesskey "A">
 <!ENTITY messengerCmd.label "邮件和新闻组">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "通讯录">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY runJunkControls.label "对文件夹运行垃圾邮件控制">
-<!ENTITY runJunkControls.accesskey "u">
-<!ENTITY deleteJunk.label "删除当前文件夹中标记为垃圾的消息">
-<!ENTITY deleteJunk.accesskey "l">
-<!ENTITY errorConsoleCmd.label "错误控制台">
-<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "附加组件">
+<!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "活动管理器">
+<!ENTITY activitymanager.accesskey "A">
 <!ENTITY filtersCmd.label "消息过滤器…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "对文件夹执行过滤器">
@@ -429,6 +419,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "S">
 <!ENTITY filtersApplyToMessage.label "对消息运行过滤器">
 <!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY runJunkControls.label "对文件夹运行垃圾邮件控制">
+<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY deleteJunk.label "删除当前文件夹中标记为垃圾的消息">
+<!ENTITY deleteJunk.accesskey "l">
+<!ENTITY importCmd.label "导入…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY errorConsoleCmd.label "错误控制台">
+<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY accountManagerCmd.label "帐户设置…">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "A">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "获取消息">
