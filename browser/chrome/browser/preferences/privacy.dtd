@@ -6,6 +6,8 @@
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
 
+<!ENTITY  locationBar.label             "Atrašanās vietas josla">
+
 <!ENTITY rememberDaysBefore.label "Glabāt manu vēsturi vismaz">
 <!ENTITY rememberDaysBefore.accesskey "v">
 <!ENTITY rememberDaysAfter2.label "dienas">
@@ -15,6 +17,28 @@
 
 <!ENTITY rememberDownloads.label "Atcerēties manas lejupielādes">
 <!ENTITY rememberDownloads.accesskey "d">
+
+
+<!ENTITY  rememberDescription.label      "&brandShortName; atcerēsies jūsu pārlūkošanas, lejupielāžu, aizpildīto formu un meklēšanu vēsturi, kā arī saglabās apmeklēto lapu sīkdatnes.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Iespējams jūs vēlaties ">
+<!ENTITY  rememberActions.clearHistory.label  "dzēst nesenās pārlūkošanas vēsturi">
+<!ENTITY  rememberActions.middle.label        " vai ">
+<!ENTITY  rememberActions.removeCookies.label "dzēst atsevišķas sīkdatnes">
+<!ENTITY  rememberActions.post.label          ".">
+
+
+<!ENTITY  rememberHistory.pre.label      "Atcerēties manu pārlūkošanas vēsturi vismaz">
+<!ENTITY  rememberHistory.pre.accesskey  "v">
+<!ENTITY  rememberHistory.post.label     "dienas">
+
+<!ENTITY  rememberDownload.label         "Atcerēties lejupielāžu vēsturi">
+<!ENTITY  rememberDownload.accesskey     "l">
+
+<!ENTITY  rememberSearchForm.label       "Atcerēties meklēšanas un formu vēsturi">
+<!ENTITY  rememberSearchForm.accesskey   "f">
 
 
 <!ENTITY cookies.label "Sīkdatnes">
@@ -38,6 +62,23 @@
 <!ENTITY showCookies.label "Parādīt sīkdatnes...">
 <!ENTITY showCookies.accesskey "S">
 
+<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "Atcerēsies vēsturi">
+<!ENTITY  historyHeader.dontremember.label "Nekad neatcerēsies vēsturi">
+<!ENTITY  historyHeader.custom.label       "Izmantos pielādotus vēstures iestatījumus">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Jūs varētu vēlēties arī ">
+<!ENTITY  dontrememberActions.clearHistory.label "dzēst šobrīd saglabāto vēsturi">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Automātiski sākt &brandShortName; privātās pārlūkošanas rešīmā">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
 <!ENTITY privateData.label "Privātie dati">
 
@@ -54,3 +95,9 @@
 <!ENTITY  locbar.history.label          "Vēsturi">
 <!ENTITY  locbar.bookmarks.label        "Grāmatzīmes">
 <!ENTITY  locbar.nothing.label          "Neko">
+
+<!ENTITY  clearOnClose.label             "Dzēst aizvetor &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "D">
+
+<!ENTITY  clearOnCloseSettings.label     "Iestatījumi…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
