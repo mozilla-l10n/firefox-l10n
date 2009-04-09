@@ -7,7 +7,7 @@
 <!ENTITY paneDisplay.title        "Відображення">
 <!ENTITY paneComposition.title    "Створення">
 <!ENTITY paneAttachments.title    "Вкладення">
-<!ENTITY panePrivacy.title        "Приватність">
+<!ENTITY paneSecurity.title       "Безпека">
 <!ENTITY paneAdvanced.title       "Додатково">
 
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 41em;">

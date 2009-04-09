@@ -148,8 +148,8 @@
 <!ENTITY messengerCmd.accesskey "П">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адресна книга">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY addressBookCmd.accesskey "А">
-<!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY accountManagerCmd.label "Параметри облікового запису…">
 <!ENTITY accountManagerCmd.accesskey "м">
 <!ENTITY accountManagerCmdUnix.accesskey "м">
