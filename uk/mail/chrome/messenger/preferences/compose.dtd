@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Пересилати повідомлення:">
 <!ENTITY forwardMsg.accesskey                 "П">
 <!ENTITY inline.label                         "Усередині повідомлення">
-<!ENTITY inline.accesskey                     "У">
 <!ENTITY asAttachment.label                   "Як вкладення">
-<!ENTITY asAttachment.accesskey               "Я">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Шрифт:">

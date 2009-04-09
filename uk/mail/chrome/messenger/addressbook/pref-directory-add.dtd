@@ -70,3 +70,11 @@
      to vary somewhat with the language.
 -->
 <!ENTITY newDirectoryWidth                 "48em">
+
+<!-- FIXME: localize -->
+<!ENTITY saslGSSAPI.accesskey              "K">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslMechanism.label               "Login method: ">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslOff.label                     "Simple">
