@@ -110,7 +110,7 @@
 <!ENTITY certmgr.edit2.label                  "编辑…">
 <!ENTITY certmgr.edit2.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "编辑CA信任">
-<!ENTITY certmgr.editca.accesskey             "C">
+<!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "添加">
 <!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "导出…">
@@ -124,7 +124,7 @@
 <!ENTITY certmgr.restore2.label               "导入…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "证书字段">
-<!ENTITY certmgr.details.accesskey            "f">
+<!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "字段值">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "证书结构">

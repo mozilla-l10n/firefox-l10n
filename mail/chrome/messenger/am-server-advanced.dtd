@@ -1,7 +1,7 @@
 <!ENTITY serverAdvanced.label "高级帐户设置">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP 服务器目录：">
-<!ENTITY serverDirectory.accesskey "I">
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "仅显示已订阅的文件夹">
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "服务器支持包含子文件夹和消息的文件夹">
@@ -24,8 +24,8 @@
 <!ENTITY globalInbox.label "全局收件箱（本地文件夹帐户）">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "此服务器帐户的收件箱">
-<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "不同帐户的收件箱">
-<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "收取新邮件时包括此服务器">
 <!ENTITY deferGetNewMail.accesskey "I">

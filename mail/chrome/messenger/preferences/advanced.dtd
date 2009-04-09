@@ -7,15 +7,15 @@
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label       "启用全局搜索以及索引">
-<!ENTITY enableGlodaSearch.accesskey   "I">
+<!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY systemDefaults.label          "系统默认值">
 <!ENTITY alwaysCheckDefault.label      "启动时检查 &brandShortName; 是否为默认邮件客户端">
-<!ENTITY alwaysCheckDefault.accesskey  "L">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY checkNow.label                "立即检查…">
 <!ENTITY checkNow.accesskey            "N">
 <!ENTITY configEditDesc.label          "高级配置">
 <!ENTITY configEdit.label              "配置编辑器…">
-<!ENTITY configEdit.accesskey          "g">
+<!ENTITY configEdit.accesskey          "C">
 <!ENTITY returnReceiptsInfo.label      "指定 &brandShortName; 如何处理回执">
 <!ENTITY showReturnReceipts.label      "回执…">
 <!ENTITY showReturnReceipts.accesskey  "R">
@@ -24,43 +24,43 @@
 <!ENTITY reading.caption               "阅读">
 <!ENTITY display.caption               "显示">
 <!ENTITY showCondensedAddresses.label  "仅显示我通讯录中联系人的显示名。">
-<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY showCondensedAddresses.accesskey "S">
 
 <!ENTITY autoMarkAsRead.label          "自动将消息标记为已读">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "显示的同时">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "显示超过">
-<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY markAsReadDelay.accesskey     "d">
 <!ENTITY secondsLabel.label            "秒">
 <!ENTITY openMsgIn.label               "打开消息，使用：">
 <!ENTITY reuseExpRadio0.label          "新的消息窗口">
-<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "已打开的消息窗口">
-<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY reuseExpRadio1.accesskey      "e">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "自动检查下列组件的更新：">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "已安装的附加组件">
-<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY enableAddonsUpdate.accesskey   "a">
 <!ENTITY whenUpdatesFound.label         "当找到 &brandShortName; 的更新时，">
 <!ENTITY modeAskMe.label                "询问我要如何做">
-<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "自动下载并安装更新">
-<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label        "如果这将导致禁用某些附加组件，警告我">
 <!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "显示更新历史">
-<!ENTITY showUpdates.accesskey          "y">
+<!ENTITY showUpdates.accesskey          "S">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "设置…">
-<!ENTITY showSettings.accesskey        "n">
+<!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "配置 &brandShortName; 连接至因特网的方式">
 <!ENTITY connectionsInfo.caption       "连接">
 <!ENTITY offlineInfo.caption           "脱机">
@@ -70,7 +70,7 @@
 
 <!ENTITY Diskspace "磁盘空间">
 <!ENTITY offlineCompact.label "压缩文件夹，当它的内容大于">
-<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY offlineCompact.accesskey "a">
 <!ENTITY kb.label "KB">
 
 <!-- LOCALIZATION NOTE:
@@ -87,10 +87,10 @@
 
 <!-- Certificates -->
 <!ENTITY viewCertificates.label         "查看证书">
-<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "证书吊销列表">
-<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "验证">
-<!ENTITY validation.accesskey           "d">
+<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "安全设备">
-<!ENTITY viewSecurityDevices.accesskey  "u">
+<!ENTITY viewSecurityDevices.accesskey  "S">

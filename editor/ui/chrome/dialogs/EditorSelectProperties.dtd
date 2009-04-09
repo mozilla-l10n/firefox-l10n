@@ -46,7 +46,7 @@
 <!ENTITY SelectDisabled.label "已禁用">
 <!ENTITY SelectDisabled.accesskey "D">
 <!ENTITY SelectTabIndex.label "Tab 序列:">
-<!ENTITY SelectTabIndex.accesskey "T">
+<!ENTITY SelectTabIndex.accesskey "I">
 
 <!ENTITY OptGroup.label "选项组">
 <!ENTITY OptGroupLabel.label "标签:">

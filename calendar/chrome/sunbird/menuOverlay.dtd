@@ -81,11 +81,11 @@
 
 <!ENTITY calendar.undo.label                               "撤消">
 <!ENTITY calendar.undo.key                                 "Z">
-<!ENTITY calendar.undo.accesskey                           "u">
+<!ENTITY calendar.undo.accesskey                           "U">
 
 <!ENTITY calendar.redo.label                               "重做">
 <!ENTITY calendar.redo.key                                 "Y">
-<!ENTITY calendar.redo.accesskey                           "r">
+<!ENTITY calendar.redo.accesskey                           "R">
 
 <!ENTITY calendar.cut.label                                "剪切">
 <!ENTITY calendar.cut.key                                  "X">
@@ -159,7 +159,7 @@
 <!ENTITY releaseCmd.accesskey                              "R">
 
 <!ENTITY aboutCmd.label                                    "关于 &brandFullName;">
-<!ENTITY aboutCmd.accesskey                                "a">
+<!ENTITY aboutCmd.accesskey                                "A">
 
 <!ENTITY updateCmd.label                                   "检查更新…">
 <!ENTITY updateCmd.accesskey                               "o">

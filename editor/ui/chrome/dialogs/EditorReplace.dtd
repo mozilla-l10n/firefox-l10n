@@ -56,5 +56,5 @@
 <!ENTITY replaceAndFindButton.label "替换并查找">
 <!ENTITY replaceAndFindButton.accesskey "d">
 <!ENTITY replaceAllButton.label "全部替换">
-<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "关闭">

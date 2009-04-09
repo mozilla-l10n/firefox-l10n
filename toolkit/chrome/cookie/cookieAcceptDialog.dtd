@@ -15,4 +15,4 @@
 
 <!ENTITY     dialog.title                   "确认设置 cookie">
 <!ENTITY     dialog.remember.label          "对此站点所有的cookie使用我的选择">
-<!ENTITY     dialog.remember.accesskey      "c">
+<!ENTITY     dialog.remember.accesskey      "U">

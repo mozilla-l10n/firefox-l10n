@@ -41,10 +41,10 @@
 <!ENTITY directories.label         "LDAP 目录服务器：">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "选择 LDAP 目录服务器：">
-<!ENTITY directoriesText.accesskey "L">
+<!ENTITY directoriesText.accesskey "S">
 <!ENTITY addDirectory.label        "添加">
-<!ENTITY addDirectory.accesskey    "a">
+<!ENTITY addDirectory.accesskey    "A">
 <!ENTITY editDirectory.label       "编辑">
-<!ENTITY editDirectory.accesskey   "e">
+<!ENTITY editDirectory.accesskey   "E">
 <!ENTITY deleteDirectory.label     "删除">
-<!ENTITY deleteDirectory.accesskey "d">
+<!ENTITY deleteDirectory.accesskey "D">

@@ -1,5 +1,5 @@
 <!ENTITY  typeColumn.label        "内容类型">
-<!ENTITY  typeColumn.accesskey    "t">
+<!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "动作">
 <!ENTITY  actionColumn2.accesskey "A">

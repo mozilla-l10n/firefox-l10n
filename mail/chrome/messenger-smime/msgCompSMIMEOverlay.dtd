@@ -13,10 +13,10 @@
 <!ENTITY menu_securitySign.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "查看安全信息">
-<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY menu_securityStatus.accesskey "i">
 
 <!ENTITY securityButton.label "安全">
 <!ENTITY securityButton.tooltip "查看或修改安全设置">
 
 <!ENTITY menu_viewSecurityStatus.label "消息安全信息">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">
+<!ENTITY menu_viewSecurityStatus.accesskey "i">

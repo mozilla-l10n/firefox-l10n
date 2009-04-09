@@ -49,7 +49,7 @@
 <!ENTITY ButtonValue.label "值:">
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Tab 序列:">
-<!ENTITY tabIndex.accesskey "T">
+<!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "已禁用">
 <!ENTITY ButtonDisabled.accesskey "D">
 <!ENTITY AccessKey.label "快捷键:">

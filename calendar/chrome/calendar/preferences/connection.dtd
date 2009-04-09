@@ -45,19 +45,19 @@
 
 <!ENTITY  proxyTitle.label              "配置访问因特网的代理">
 <!ENTITY  directTypeRadio.label         "直接连接到因特网">
-<!ENTITY  directTypeRadio.accesskey     "d">
+<!ENTITY  directTypeRadio.accesskey     "D">
 <!ENTITY  WPADTypeRadio.label           "自动检测当前网络的代理设置">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "手动代理配置：">
-<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "自动代理配置 URL：">
-<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "重新加载">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP 代理：">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP 代理：">
-<!ENTITY  http.accesskey                "H">
+<!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL 代理：">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS 主机：">
@@ -72,7 +72,7 @@
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "不使用代理：">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "示例： .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "对所有协议使用相同代理服务器">
 <!ENTITY  shareproxy.accesskey          "x">
