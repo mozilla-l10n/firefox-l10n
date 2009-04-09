@@ -71,7 +71,7 @@
 <!ENTITY retentionApplyToFlagged.label           "visuomet palikti žvaigždute pažymėtus laiškus">
 <!ENTITY retentionApplyToFlagged.accesskey       "ž">
 
-<!ENTITY folderOfflineTab.label                  "Atsijungus nuo tinklo">
+<!ENTITY folderSynchronizationTab.label          "Sinchronizavimas">
 <!ENTITY folderCheckForNewMessages.label         "Patikrinti, ar šiame aplanke nėra naujų laiškų">
 <!ENTITY folderCheckForNewMessages.accesskey     "P">
 
