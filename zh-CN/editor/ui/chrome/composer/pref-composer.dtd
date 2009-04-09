@@ -20,6 +20,6 @@
 <!ENTITY  maintainStructure.tooltip     "插入或删除单元格后自动添加单元格以维持表格的矩形">
 <!ENTITY  maintainStructure.accesskey   "M">
 <!ENTITY  useCSS.label                  "优先使用 CSS 样式而不是 HTML 元素属性">
-<!ENTITY  useCSS.accesskey              "C">
+<!ENTITY  useCSS.accesskey              "U">
 <!ENTITY  crInPCreatesNewP.label        "在当前段落中回车则自动创建新段落">
 <!ENTITY  crInPCreatesNewP.accesskey    "R">

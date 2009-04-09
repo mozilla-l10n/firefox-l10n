@@ -37,7 +37,7 @@
 <!ENTITY gdata-provider.label "Google 日历">
 
 <!ENTITY gdata.privacy.default.label "Google 默认">
-<!ENTITY gdata.privacy.default.accesskey "G">
+<!ENTITY gdata.privacy.default.accesskey "D">
 
 <!ENTITY gdata.migration.title "迁移只读日历">
 <!ENTITY gdata.migration.description "Google 日历提供者发现您拥有一些只读的 Google 日历。如果您想要修改其中的日历，请从下面选择">

@@ -40,7 +40,7 @@
 <!ENTITY Settings.accesskey "S">
 
 <!ENTITY EditLabelText.label "编辑文本:">
-<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY EditLabelText.accesskey "t">
 <!ENTITY LabelFor.label "对控件:">
 <!ENTITY LabelFor.accesskey "F">
 <!ENTITY AccessKey.label "快捷键:">

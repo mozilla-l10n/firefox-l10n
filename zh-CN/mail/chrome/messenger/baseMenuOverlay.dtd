@@ -17,4 +17,4 @@
 <!ENTITY updateCmd.label "检查更新…">
 <!ENTITY updateCmd.accesskey "o">
 <!ENTITY aboutCmd.label "关于 &brandFullName;">
-<!ENTITY aboutCmd.accesskey "b">
+<!ENTITY aboutCmd.accesskey "A">

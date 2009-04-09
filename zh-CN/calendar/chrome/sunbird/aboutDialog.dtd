@@ -40,7 +40,7 @@
 <!ENTITY copyright.label        "贡献者">
 <!ENTITY copyright.accesskey    "C">
 <!ENTITY aboutLink.label        "&lt; 关于 &brandFullName;">
-<!ENTITY aboutLink.accesskey    "a">
+<!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "版本">
 <!ENTITY copyrightText          "&#169;1998-2008 贡献者版权所有. Mozilla Sunbird, Sunbird, 和
                                  Sunbird 图标属于 Mozilla 基金会版权所有.">

@@ -47,7 +47,7 @@
 <!ENTITY offlineMenu.label "脱机">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "脱机工作">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY offlineGoOfflineCmd.accesskey "W">
 <!ENTITY synchronizeOfflineCmd.label "立即下载/同步…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "脱机设置…">
@@ -91,7 +91,7 @@
 <!ENTITY selectFlaggedCmd.label "已加星标消息">
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "收藏夹">
-<!ENTITY menuFavoriteFolder.accesskey "a">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "属性…">
 <!ENTITY folderPropsFolderCmd.label "文件夹属性…">
 <!ENTITY folderPropsNewsgroupCmd.label "新闻组属性…">
@@ -197,7 +197,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "观察的且有未读消息的论题">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "已忽略的论题">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
 <!ENTITY headersMenu.label "标题头">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "全部">
@@ -209,11 +209,11 @@
 <!ENTITY bodyAllowHTML.label "原始 HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "简单 HTML">
-<!ENTITY bodySanitized.accesskey "H">
+<!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "纯文本">
 <!ENTITY bodyAsPlaintext.accesskey "P">
 <!ENTITY viewAttachmentsInlineCmd.label "查看直接插入的附件">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -228,7 +228,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "缩小">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.accesskey    "o">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -376,7 +376,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "已读日期…">
-<!ENTITY markReadByDateCmd.accesskey "D">
+<!ENTITY markReadByDateCmd.accesskey "d">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "全部已读">
 <!ENTITY markAllReadCmd.accesskey "A">
@@ -403,32 +403,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.label "工具">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "邮件和新闻组">
-<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "通讯录">
-<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "附加组件">
-<!ENTITY addons.accesskey "d">
+<!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "活动管理器">
-<!ENTITY activitymanager.accesskey "A">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY filtersCmd.label "消息过滤器…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "对文件夹执行过滤器">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "对所选消息运行过滤器">
-<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "对消息运行过滤器">
-<!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY filtersApplyToMessage.accesskey "u">
 <!ENTITY runJunkControls.label "对文件夹运行垃圾邮件控制">
-<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY runJunkControls.accesskey "C">
 <!ENTITY deleteJunk.label "删除当前文件夹中标记为垃圾的消息">
-<!ENTITY deleteJunk.accesskey "l">
+<!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "导入…">
-<!ENTITY importCmd.accesskey "I">
+<!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "错误控制台">
-<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY accountManagerCmd.label "帐户设置…">
-<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
@@ -620,7 +620,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "在新窗口中打开消息">
-<!ENTITY contextOpenNewWindow.accesskey "W">
+<!ENTITY contextOpenNewWindow.accesskey "w">
 <!ENTITY contextOpenNewTab.label "在新标签页中打开消息">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "作为新消息编辑…">

@@ -23,7 +23,7 @@
 <!ENTITY retentionKeepUnread.label "总删除已读消息">
 <!ENTITY retentionKeepUnread.accesskey "w">
 <!ENTITY retentionApplyToFlagged.label "总是保留已加星标之消息">
-<!ENTITY retentionApplyToFlagged.accesskey "E">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "仅消息小于">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "选择用于脱机工作的新闻组…">

@@ -152,9 +152,9 @@
 <!ENTITY event.help.release.notes.label                   "发行说明">
 <!ENTITY event.help.release.notes.accesskey               "R">
 <!ENTITY event.help.help.label                            "&brandShortName; 帮助">
-<!ENTITY event.help.help.accesskey                        "b">
+<!ENTITY event.help.help.accesskey                        "H">
 <!ENTITY event.help.about.label                           "关闭 &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "b">
+<!ENTITY event.help.about.accesskey                       "A">
 
 <!ENTITY event.invite.attendees.label                     "邀请参与者…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
@@ -180,13 +180,13 @@
 <!ENTITY event.calendar.label                             "日历：" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "参与者：" >
-<!ENTITY event.attendees.accesskey                        "I" >
+<!ENTITY event.attendees.accesskey                        "A" >
 <!ENTITY event.alldayevent.label                          "全天事件" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "开始：" >
 <!ENTITY event.from.accesskey                             "S">
 <!ENTITY task.from.label                                  "开始：" >
-<!ENTITY task.from.accesskey                              "B">
+<!ENTITY task.from.accesskey                              "S">
 <!ENTITY event.to.label                                   "结束：" >
 <!ENTITY event.to.accesskey                               "n">
 <!ENTITY task.to.label                                    "截止时间：" >

@@ -2,7 +2,7 @@
 
 <!ENTITY accountTitle.label "帐户设置">
 <!ENTITY accountName.label "帐户名称：">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "n">
 <!ENTITY identityTitle.label "默认标识">
 <!ENTITY identityDesc.label "每个帐户都有一个标识，其他人在读到您的消息时会看到该标识。">
 <!ENTITY name.label "您的姓名：">
@@ -29,5 +29,5 @@
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "发送服务器 (SMTP)：">
-<!ENTITY smtpName.accesskey "S">
+<!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "使用默认服务器">

@@ -13,7 +13,7 @@
 <!ENTITY useSecAuth.label "使用安全验证">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "连接安全：">
-<!ENTITY connectionSecurity.accesskey "N">
+<!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "无">
 <!ENTITY connectionSecurityType-1.label "STARTTLS，如果可用">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">

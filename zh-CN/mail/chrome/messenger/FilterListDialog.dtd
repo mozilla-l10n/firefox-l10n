@@ -15,7 +15,7 @@
 <!ENTITY filtersForPrefix.label "此过滤器用于:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "过滤器日志">
-<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY viewLogButton.accesskey "l">
 <!ENTITY runFilters.label "立即执行">
 <!ENTITY runFilters.accesskey "R">
 <!ENTITY stopFilters.label "停止">

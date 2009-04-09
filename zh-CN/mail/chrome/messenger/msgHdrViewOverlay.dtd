@@ -66,9 +66,9 @@
 
 <!ENTITY otherActionsButton.label "其他操作">
 <!ENTITY saveAsMenuItem.label "另存为…">
-<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "查看源代码…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY viewSourceMenuItem.accesskey "v">
 
 <!ENTITY hideDetailsButton.label "隐藏详细信息">
 <!ENTITY showDetailsButton.label "显示详细信息">
@@ -76,7 +76,7 @@
 <!ENTITY openAttachmentCmd.label    "打开">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "另存为…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "移除…">
 <!ENTITY deleteAttachmentCmd.label    "删除">
 <!ENTITY saveAllAttachmentsCmd.label    "全部保存…">
@@ -84,7 +84,7 @@
 <!ENTITY detachAllAttachmentsCmd.label    "全部移除…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
 <!ENTITY deleteAllAttachmentsCmd.label    "全部删除…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label        "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey    "C">

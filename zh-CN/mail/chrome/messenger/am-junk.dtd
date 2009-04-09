@@ -6,7 +6,7 @@
 <!ENTITY move.label "将垃圾消息移动至:">
 <!ENTITY move.accesskey "M">
 <!ENTITY junkFolderOn.label "&quot;垃圾&quot; 文件夹位于：">
-<!ENTITY junkFolderOn.accesskey "q">
+<!ENTITY junkFolderOn.accesskey "J">
 <!ENTITY otherFolder.label "其他：">
 <!ENTITY otherFolder.accesskey "O">
 <!ENTITY purge1.label "自动删除垃圾邮件，如果超过">
@@ -17,4 +17,4 @@
 <!ENTITY whitelist.accesskey "D">
 
 <!ENTITY ispHeaders.label "信任下列 ISP 设置的垃圾邮件头：">
-<!ENTITY ispHeaders.accesskey "I">
+<!ENTITY ispHeaders.accesskey "T">

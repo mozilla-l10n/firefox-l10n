@@ -46,7 +46,7 @@
 <!ENTITY fileMenu.label "文件">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newBlankPageCmd.label "编写页">
-<!ENTITY newBlankPageCmd.accesskey "P" >
+<!ENTITY newBlankPageCmd.accesskey "p" >
 <!ENTITY newMenu.label "新建">
 <!ENTITY openFileCmd.label "打开文件…">
 <!ENTITY openFileCmd.accesskey "O">
@@ -62,7 +62,7 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "另存为…">
-<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsCmd.accesskey "a">
 
 <!ENTITY publishCmd.label "发布">
 <!ENTITY publishCmd.accesskey "b">
@@ -70,9 +70,9 @@
 <!ENTITY publishAsCmd.label "发布为…">
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY exportToTextCmd.label "导出至文本…">
-<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY saveAsChangeEncodingCmd.label "保存并改变字符编码">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!ENTITY previewCmd.label "浏览页面">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "发送页面…">
@@ -116,7 +116,7 @@
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "验证 HTML">
-<!ENTITY validateCmd.accesskey "H">
+<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "插入">
@@ -125,7 +125,7 @@
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "锚标…">
-<!ENTITY insertAnchorCmd.accesskey "A">
+<!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "图像…">
 <!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "水平线">
@@ -250,7 +250,7 @@
 <!ENTITY formatFontColor.label "文本颜色…">
 <!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "表格或单元背景颜色…">
-<!ENTITY tableOrCellColor.accesskey "B">
+<!ENTITY tableOrCellColor.accesskey "b">
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
@@ -455,10 +455,10 @@
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "常规">
 <!ENTITY NormalMode.label "常规编辑模式">
-<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "显示表格边界和锚标">
 <!ENTITY AllTagsMode.label "HTML 标记符">
-<!ENTITY AllTagsMode.accesskey "H">
+<!ENTITY AllTagsMode.accesskey "a">
 <!ENTITY AllTagsMode.tooltip "显示所有 HTML 标记符的图标">
 
 <!ENTITY HTMLSourceMode.label "HTML 源代码">
@@ -467,7 +467,7 @@
 <!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "编辑 HTML 源代码">
 <!ENTITY PreviewMode.label "预览">
-<!ENTITY PreviewMode.accesskey "p">
+<!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "显示为 WYSIWYG（同浏览器中显示）">
 
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
@@ -480,18 +480,18 @@
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "选择">
-<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structSelect.accesskey     "S">
 <!ENTITY structRemoveTag.label      "移除标记符">
-<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structRemoveTag.accesskey  "R">
 <!ENTITY structChangeTag.label      "修改标记符">
-<!ENTITY structChangeTag.accesskey  "c">
+<!ENTITY structChangeTag.accesskey  "C">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "插入">
-<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "更新">
-<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY updateTOC.accesskey      "U">
 <!ENTITY removeTOC.label          "移除">
-<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY removeTOC.accesskey      "R">
 <!ENTITY tocMenu.label            "目录…">
 <!ENTITY tocMenu.accesskey        "b">

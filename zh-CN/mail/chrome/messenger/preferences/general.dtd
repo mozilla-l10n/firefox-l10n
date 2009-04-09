@@ -1,13 +1,13 @@
 <!ENTITY messengerStartPage.label         "&brandShortName; 起始页">
 <!ENTITY enableStartPage.label            "&brandShortName; 启动时在消息区域显示起始页">
-<!ENTITY enableStartPage.accesskey        "b">
+<!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "地址：">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "恢复默认值">
 <!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY bounceSystemDockIcon.label       "显示 dock 图标动画">
-<!ENTITY bounceSystemDockIcon.accesskey   "d">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
 
 <!ENTITY newMessagesArrive.label          "当新消息到达时：">
 <!ENTITY playSound.label                  "播放声音">

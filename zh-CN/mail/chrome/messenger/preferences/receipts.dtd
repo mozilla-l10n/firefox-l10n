@@ -5,10 +5,10 @@
 <!ENTITY leaveIt.label                 "留在“收件箱”中">
 <!ENTITY leaveIt.accesskey             "i">
 <!ENTITY moveToSent.label              "移到“已发送邮件”文件夹中">
-<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY moveToSent.accesskey          "M">
 <!ENTITY requestMDN.label              "当我收到索取邮件回执的请求时:">
 <!ENTITY never.label                   "从不发送返回的邮件回执">
-<!ENTITY never.accesskey               "n">
+<!ENTITY never.accesskey               "N">
 <!ENTITY returnSome.label              "允许对某些消息返回邮件回执">
 <!ENTITY returnSome.accesskey          "r">
 <!ENTITY notInToCc.label               "如果我不在此消息的“收件人”或“抄送”列表中:">

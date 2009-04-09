@@ -46,7 +46,7 @@
 <!ENTITY refreshButton.label          "刷新">
 <!ENTITY refreshButton.accesskey      "R">
 <!ENTITY stopButton.label             "停止">
-<!ENTITY stopButton.accesskey         "T">
+<!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "帐户：">
 <!ENTITY server.accesskey             "A">
 <!ENTITY subscribedHeader.label       "订阅
@@ -54,4 +54,4 @@
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "消息"> -->
 <!ENTITY namefield.label              "显示包含此信息的项：">
-<!ENTITY namefield.accesskey          "O">
+<!ENTITY namefield.accesskey          "o">
