@@ -131,18 +131,8 @@
 
 <!ENTITY search.label                              "શોધો:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "માત્ર વર્તમાન સંગ્રહ">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "બધી બુકમાર્કો">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "પસંદિત ફોલ્ડર">
 <!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "બધી બુકમાર્કો">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "બુકમાર્કો મેનુ">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "બુકમાર્કો સાધનપટ્ટી">
-<!ENTITY search.scopeToolbar.accesskey             "T">
 <!ENTITY search.scopeDownloads.label               "ડાઉનલોડ">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ઈતિહાસ">
@@ -218,3 +208,6 @@
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "આ સાઈટ વિશે ભૂલી જાવ">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
+
+<!ENTITY search.scopeBookmarks.label               "બુકમાર્કો">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
