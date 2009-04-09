@@ -131,18 +131,8 @@
 
 <!ENTITY search.label "Пошук:">
 <!ENTITY search.accesskey "о">
-<!ENTITY search.collection.label "Лише у поточній колекції">
-<!ENTITY search.collection.accesskey "ї">
-<!ENTITY search.allBookmarks.label "У всіх закладках">
-<!ENTITY search.allBookmarks.accesskey "в">
 <!ENTITY search.scopeFolder.label "У вибраній теці">
 <!ENTITY search.scopeFolder.accesskey "т">
-<!ENTITY search.scopeAll.label "У всіх закладках">
-<!ENTITY search.scopeAll.accesskey "х">
-<!ENTITY search.scopeMenu.label "В Меню закладок">
-<!ENTITY search.scopeMenu.accesskey "М">
-<!ENTITY search.scopeToolbar.label "У теці закладок">
-<!ENTITY search.scopeToolbar.accesskey "т">
 <!ENTITY search.scopeDownloads.label "В Завантаженнях">
 <!ENTITY search.scopeDownloads.accesskey "З">
 <!ENTITY search.scopeHistory.label "В Історії">
@@ -218,3 +208,6 @@
 <!ENTITY cmd.delete.label               "Усунути цю сторінку">
 <!ENTITY cmd.deleteDomainData.accesskey "З">
 <!ENTITY cmd.deleteDomainData.label     "Забути про цей сайт">
+
+<!ENTITY search.scopeBookmarks.label               "Закладки">
+<!ENTITY search.scopeBookmarks.accesskey           "к">
