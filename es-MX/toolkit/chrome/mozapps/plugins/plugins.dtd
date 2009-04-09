@@ -21,5 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Se necesita reiniciar &brandShortName; para activar los plugins.">
   
 <!ENTITY missingPlugin.label                                 "Pulse aquí para descargar el plugin.">
-<!ENTITY disabledPlugin.label                                "El "plugin" para este contenido se desactivó. De clic aquí para administrarlos.">
-<!ENTITY blockedPlugin.label                                 "Este "plugin" se bloqueó para su protección.">
+<!ENTITY disabledPlugin.label                                "El plugin para este contenido se desactivó. De clic aquí para administrarlos.">
+<!ENTITY blockedPlugin.label                                 "Este plugin se bloqueó para su protección.">
