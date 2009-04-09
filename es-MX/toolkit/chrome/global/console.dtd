@@ -62,7 +62,7 @@
 <!ENTITY sortFirst.label     "Ordenar primero > último">
 <!ENTITY sortFirst.accesskey "p">
 <!ENTITY sortLast.label      "Ordenar último > primero">
-<!ENTITY sortLast.accesskey  "ú">
+<!ENTITY sortLast.accesskey  "O">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

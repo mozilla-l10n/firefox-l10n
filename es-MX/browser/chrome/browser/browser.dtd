@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "Mostrar sus marcadores">
 <!ENTITY bookmarksSidebarCmd.accesskey  "M">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historial">
@@ -186,13 +190,19 @@
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
 
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Buscar en marcadores e historial">
+<!ENTITY urlbar.emptyText             "Buscar en historial y marcadores">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Buscar en historial y marcadores">
+<!ENTITY urlbar.bookmark.emptyText    "Buscar marcadores">
+<!ENTITY urlbar.history.emptyText     "Historial de búsquedas">
+<!ENTITY urlbar.none.emptyText        "Ingresa una dirección web">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -351,6 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Tamaño">
 <!ENTITY fullZoom.accesskey             "T">
 
+<!ENTITY newTabButton.tooltip           "Abrir una pestaña nueva">
 <!ENTITY newWindowButton.tooltip        "Abrir una ventana nueva">
 <!ENTITY sidebarCloseButton.tooltip     "Cerrar panel lateral">
 

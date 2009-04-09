@@ -6,7 +6,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Fallo al conectar">
+<!ENTITY connectionFailure.title "No se puede conectar">
 <!ENTITY connectionFailure.longDesc "<p>Aunque este Sitio web parece válido, el navegador no pudo establecer una conexión</p><ul><li>Puede ser que el sitio no esté disponible temporalmente</li><li>¿No puede navegar por otros Sitios? Compruebe la conexión de red de su computadora</li><li>¿Su computadora está protegida por un proxy o un cortafuegos (firewall)? Una configuración incorrecta pudiera estar interfiriendo con su navegación.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Puerto restringido por razones de seguridad">

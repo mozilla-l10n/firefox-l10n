@@ -31,7 +31,7 @@
 <!ENTITY  changeMasterPassword.accesskey "m">
 
 <!ENTITY  savedPasswords.label            "Contraseñas guardadas…">
-<!ENTITY  savedPasswords.accesskey        "ñ">
+<!ENTITY  savedPasswords.accesskey        "C">
 
 
 <!ENTITY  warnings.label                "Mensajes de advertencia">
