@@ -105,7 +105,7 @@
 <!ENTITY toolsMenu.label              "સાધનો">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "આ શોધ માટે મુખ્ય શબ્દ ઉમેરો...">
+<!ENTITY keywordfield.label           "આ શોધ માટે મુખ્ય શબ્દ એડ-ઓન...">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "વેબ શોધ">
 <!ENTITY search.accesskey             "S">
@@ -114,8 +114,8 @@
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "ઉમેરાઓ">
-<!ENTITY addons.tooltip               "સ્થાપિત ઉમેરાઓ બતાવો અને તેની વ્યવસ્થા કરો">
+<!ENTITY addons.label                 "એડ-ઓન">
+<!ENTITY addons.tooltip               "સ્થાપિત એડ-ઓન બતાવો અને તેની વ્યવસ્થા કરો">
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "ભૂલ કન્સોલ">
@@ -339,7 +339,7 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "શબ્દકોષો ઉમેરો...">
+<!ENTITY spellAddDictionaries.label "શબ્દકોષો એડ-ઓન...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 

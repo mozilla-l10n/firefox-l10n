@@ -57,7 +57,7 @@
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "વ્યક્તિગત શબ્દકોષ:">
 <!ENTITY moreDictionaries.label "વધુ ડાઉનલોડ કરો">
-<!ENTITY addToUserDictionaryButton.label "શબ્દ ઉમેરો">
+<!ENTITY addToUserDictionaryButton.label "શબ્દ એડ-ઓન">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "ફેરફાર કરો...">
 <!ENTITY editUserDictionaryButton.accessKey "E">

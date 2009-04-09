@@ -126,7 +126,7 @@
 <!ENTITY col.visitcount.label    "મુલાકાત ગણતરી">
 <!ENTITY col.keyword.label       "મુખ્ય શબ્દ">
 <!ENTITY col.description.label   "વર્ણન">
-<!ENTITY col.dateadded.label     "ઉમેરાયું">
+<!ENTITY col.dateadded.label     "એડ-ઓનયું">
 <!ENTITY col.lastmodified.label  "છેલ્લે સુધારાયું">
 
 <!ENTITY search.label                              "શોધો:">
@@ -194,7 +194,7 @@
 <!ENTITY view.details.label        "વિગતો">
 <!ENTITY view.details.accesskey    "D">
 
-<!ENTITY view.addons.label   "ઉમેરાઓનો દેખાવ મેળવો">
+<!ENTITY view.addons.label   "એડ-ઓનનો દેખાવ મેળવો">
 
 <!ENTITY maintenance.label   "આયાત અને બેકઅપ">
 <!ENTITY maintenance.accesskey  "I">

@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "માત્ર એક આઉટગોઈંગ સર્વર (SMTP) સરળ થયેલ હોય એમ જરુરી છે, જો તમારી પાસે ઘણા મેઈલ ખાતાઓ હોય તોપણ. આઉટગોઈંગ સંદેશાઓ માટે સર્વરનું નામ દાખલ કરો.">
 
-<!ENTITY smtpListAdd.label  "ઉમેરો...">
+<!ENTITY smtpListAdd.label  "એડ-ઓન...">
 <!ENTITY smtpListAdd.accesskey  "d">
 <!ENTITY smtpListEdit.label "ફેરફાર કરો...">
 <!ENTITY smtpListEdit.accesskey "E">

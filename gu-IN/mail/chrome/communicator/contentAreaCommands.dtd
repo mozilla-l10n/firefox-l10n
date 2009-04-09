@@ -95,7 +95,7 @@
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "લખાણ દિશા બદલો">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-<!ENTITY spellAddToDictionary.label     "શબ્દકોષમાં ઉમેરો">
+<!ENTITY spellAddToDictionary.label     "શબ્દકોષમાં એડ-ઓન">
 <!ENTITY spellAddToDictionary.accesskey "t">
 <!ENTITY spellEnable.label              "આ ક્ષેત્રની જોડણી ચકાસો">
 <!ENTITY spellEnable.accesskey          "S">

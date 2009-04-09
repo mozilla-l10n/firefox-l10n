@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "કોષ્ટક ઉમેરો">
+<!ENTITY windowTitle.label "કોષ્ટક એડ-ઓન">
 
 <!ENTITY size.label "માપ">
 <!ENTITY numRowsEditField.label "હરોળો:">
