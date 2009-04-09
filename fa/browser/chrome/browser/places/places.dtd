@@ -213,8 +213,8 @@
 <!ENTITY forwardButton.tooltip  "جلو رفتن">
 
 <!ENTITY detailsPane.more.label "بیشتر">
-<!ENTITY detailsPane.more.accesskey "ت">
+<!ENTITY detailsPane.more.accesskey "ب">
 <!ENTITY detailsPane.less.label "کمتر">
-<!ENTITY detailsPane.less.accesskey "ت">
+<!ENTITY detailsPane.less.accesskey "ک">
 <!ENTITY detailsPane.noPreviewAvailable.label "پیش‌نمایش">
 <!ENTITY detailsPane.selectAnItemText.description "یک مورد را برای مشاهده و ویرایش انتخاب کنید">
