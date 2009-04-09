@@ -19,6 +19,6 @@ Rights Reserved.
 --> 
 
 <!ENTITY fieldMapExport.title "સરનામા પુસ્તિકા નિકાસ">
-<!ENTITY fieldMapExport.add		"ક્ષેત્ર ઉમેરો ->">
-<!ENTITY fieldMapExport.addAll	"બધું ઉમેરો ->">
+<!ENTITY fieldMapExport.add		"ક્ષેત્ર એડ-ઓન ->">
+<!ENTITY fieldMapExport.addAll	"બધું એડ-ઓન ->">
 <!ENTITY fieldList.label   "સરનામા ક્ષેત્રો"> 

@@ -40,7 +40,7 @@
 
 <!ENTITY wordEditField.label "નવો શબ્દકોષ:">
 <!ENTITY wordEditField.accessKey "N">
-<!ENTITY AddButton.label "ઉમેરો">
+<!ENTITY AddButton.label "એડ-ઓન">
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "શબ્દકોષમાંના શબ્દો:">
 <!ENTITY DictionaryList.accessKey "W">

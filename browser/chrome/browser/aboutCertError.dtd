@@ -22,6 +22,6 @@ was trying to connect. -->
 <!ENTITY certerror.expert.heading "હું જોખમો સમજું છું">
 <!ENTITY certerror.expert.content "જો તમને સમજમાં આવે કે શું થઈ રહ્યું છે, તો તમે &brandShortName; ને આ સાઈટની ઓળખ પર વિશ્વાસ મૂકવાનું શરૂ કરવા કહી શકો છો. <b>તમે સાઈટ પર વિશ્વાસ મૂકતા હોય, તો પણ આ ભૂલનો અર્થ એ હોઈ શકે કે કોઈક તમારા જોડાણ સાથે છેડછાડ કરે છે.</b>">
 <!ENTITY certerror.expert.contentPara2 "અપવાદ ઉમેરશો નહિં જ્યાં સુધી તમને ખબર નહિં હોય કે આ સાઈટ કેમ વિશ્વાસ ઓળખ વાપરવી જોઈએ નહિં તેના માટે સારું કારણ તમને ખબર હોય.">
-<!ENTITY certerror.addException.label "અપવાદ ઉમેરો…">
+<!ENTITY certerror.addException.label "અપવાદ એડ-ઓન…">
 
 <!ENTITY certerror.technical.heading "ટેક્નીકલ વિગતો">
