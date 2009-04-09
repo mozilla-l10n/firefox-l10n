@@ -132,9 +132,13 @@
 
 <!ENTITY bookmarksButton.label          "Adresynas">
 <!ENTITY bookmarksButton.tooltip        "Rodyti tinklalapių adresyną">
-<!ENTITY bookmarksSidebarCmd.accesskey  "d">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey      "B">
+<!ENTITY bookmarksCmd.commandkey        "b">
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey     "o">
+<!ENTITY bookmarksWinCmd.commandkey     "i">
 
 <!ENTITY historyButton.label            "Žurnalas">
 <!ENTITY historyButton.tooltip          "Rodyti aplankytų tinklalapių žurnalą">
