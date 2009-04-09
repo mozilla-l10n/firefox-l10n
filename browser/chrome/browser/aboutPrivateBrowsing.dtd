@@ -12,7 +12,7 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "清除最近的歷史記錄">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   "。">
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "開始隱私瀏覽模式">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "開始隱私瀏覽">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
 <!ENTITY privatebrowsingpage.howToStop                 "欲停止隱私瀏覽，選擇&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;或結束 &brandShortName;。">

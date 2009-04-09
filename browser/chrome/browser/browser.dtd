@@ -172,7 +172,7 @@
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "開始隱私瀏覽模式">
+<!ENTITY privateBrowsingCmd.start.label         "開始隱私瀏覽">
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "停止隱私瀏覽">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "p">
