@@ -358,7 +358,8 @@
 <!ENTITY addons.accesskey "Д">
 <!ENTITY messengerCmd.label "Пошта і конференції">
 <!ENTITY messengerCmd.accesskey "п">
-<!ENTITY addressBookCmd.label "Адресна книга">  
+<!ENTITY addressBookCmd.label "Адресна книга">
+<!ENTITY addressBookCmd.key "B"> 
 <!ENTITY addressBookCmd.accesskey "А">
 <!ENTITY runJunkControls.label "Відфільтрувати спам в теці">
 <!ENTITY runJunkControls.accesskey "л">

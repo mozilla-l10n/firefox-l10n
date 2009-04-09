@@ -63,7 +63,6 @@
 <!ENTITY retentionKeepUnread.label "Завжди вилучати прочитані повідомлення">
 <!ENTITY retentionKeepUnread.accesskey "а">
 
-<!ENTITY folderOfflineTab.label                  "Автономно">
 <!ENTITY folderCheckForNewMessages.label         "Перевіряти цю теку на наявність нових повідомлень">
 <!ENTITY folderCheckForNewMessages.accesskey     "р">
 
@@ -104,3 +103,5 @@
 <!-- FIXME: localize -->
 <!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
 <!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
+
+<!ENTITY folderSynchronizationTab.label          "Синхронізація">

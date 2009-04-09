@@ -3,7 +3,8 @@
 
 <!ENTITY email.label "Електронної пошти">
 <!ENTITY newsgroups.label "Читання новин">
-<!ENTITY rss.label "Збирання RSS">
 
 <!ENTITY checkOnStartup.label "Завжди проводити таку перевірку при запуску &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "З">
+
+<!ENTITY feeds.label "Стрічки">

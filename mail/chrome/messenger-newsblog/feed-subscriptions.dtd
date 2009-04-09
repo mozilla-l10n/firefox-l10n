@@ -1,5 +1,4 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Підписки на RSS-канали">
 <!ENTITY subscriptionDesc.label "Примітка: вилучиння чи зміна теки RSS-каналу не вплине на раніше завантажені статті.">
 <!ENTITY feedTitle.label "Заголовок:">
 <!ENTITY location.label  "Адреса:">
@@ -16,3 +15,5 @@
 <!ENTITY button.exportOPML.accesskey   "Е">
 
 <!ENTITY cmd.close.commandKey             "w">
+
+<!ENTITY feedSubscriptions.label "Підписки на стрічки">
