@@ -429,3 +429,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY privateBrowsingCmd.stop.label          "Вимкнути потайливий режим">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "В">
 
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY historyUndoWindowMenu.label "Недавно закриті вікна">
+<!ENTITY newTabButton.tooltip           "Відкрити нову вкладку">
+<!ENTITY urlbar.bookmark.emptyText    "Шукати в закладках">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Шукати в закладках та історії">
+<!ENTITY urlbar.history.emptyText     "Шукати в історії">
+<!ENTITY urlbar.none.emptyText        "Наберіть веб-адресу">

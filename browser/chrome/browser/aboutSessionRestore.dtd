@@ -1,13 +1,7 @@
 <!ENTITY restorepage.tabtitle       "Відновити сеанс">
-<!ENTITY restorepage.pagetitle      "Чи хочете ви відновити ваш сеанс?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Останній сеанс &brandShortName; було завершено аварійно. Ми щиро перепрошуємо за незручності. Ви можете відновити вкладки і вікна, відкриті при роботі у попередньому сеансі. Або розпочати новий, якщо вони більше не потрібні.">
-<!ENTITY restorepage.remedies       "Якщо закриття &brandShortName; повторюються:">
-<!ENTITY restorepage.dueToChrome    "Спробуйте вимкнути недавно встановлені розширення у Менеджері Додатків.">
-<!ENTITY restorepage.dueToContent   "Спробуйте відновити ваш сеанс без тих сторінок, котрі можуть спричиняти збій:">
 
-<!ENTITY restorepage.restoreButton  "Відновити попередній сеанс">
 <!ENTITY restorepage.restore.access "В">
 <!ENTITY restorepage.cancelButton   "Почати новий сеанс">
 <!ENTITY restorepage.cancel.access  "н">
@@ -16,3 +10,10 @@
 <!ENTITY restorepage.listHeader     "Вікна та вкладки">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Вікно &#37;S">
+
+<!ENTITY restorepage.errorTitle     "Гм… Отакої…">
+<!ENTITY restorepage.problemDesc    "&brandShortName; щось не може відновити ваші вікна та вкладки. Причиною часто є недавно відкрита сторінка.">
+<!ENTITY restorepage.restoreSome    "Вилучити одну чи кілька вкладок що можуть, на вашу думку, спричиняти проблему">
+<!ENTITY restorepage.startNew       "Почати цілком новий сеанс перегляду">
+<!ENTITY restorepage.tryThis        "Ви можете спробувати:">
+<!ENTITY restorepage.tryagainButton "Відновити">
