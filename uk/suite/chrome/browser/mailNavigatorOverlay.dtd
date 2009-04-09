@@ -12,7 +12,7 @@
 <!ENTITY contextSendThisPage.accesskey   "с">
 <!ENTITY contextSendThisLink.label       "Відіслати це посилання…">
 <!ENTITY contextSendThisLink.accesskey   "ц">
-<!ENTITY contextSendImage.label          "Відідіслати зображення…">
+<!ENTITY contextSendImage.label          "Відіслати зображення…">
 <!ENTITY contextSendImage.accesskey      "з">
 <!ENTITY contextSendVideo.label          "Відіслати відео…">
 <!ENTITY contextSendVideo.accesskey      "і">
