@@ -5,23 +5,23 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Source of: ">
+<!ENTITY mainWindow.titlemodifierseparator " — ">
+<!ENTITY mainWindow.preface "Джерело: ">
 
-<!ENTITY viewPartialSourceWindow.title "DOM Source">
+<!ENTITY viewPartialSourceWindow.title "Джерело об'єктної моделі документа(DOM)">
 
-<!ENTITY menu_wrapLongLines.title "Wrap Long Lines"> 
-<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_wrapLongLines.title "Переносити довгі рядки"> 
+<!ENTITY menu_wrapLongLines.accesskey "П">
 
-<!ENTITY menu_highlightSyntax.label "Syntax Highlighting">
+<!ENTITY menu_highlightSyntax.label "Підкреслення синтаксису">
 <!ENTITY menu_highlightSyntax.accesskey "H">
 
-<!ENTITY findNextCmd.label "Find Next">
-<!ENTITY findNextCmd.accesskey "n">
+<!ENTITY findNextCmd.label "Знайти наступне">
+<!ENTITY findNextCmd.accesskey "З">
 
-<!ENTITY goToLineCmd.label "Go to Line…">
-<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.label "Перейти до рядка…">
+<!ENTITY goToLineCmd.accesskey "П">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Наладжування сторінки…">
+<!ENTITY printSetupCmd.accesskey "Н">
