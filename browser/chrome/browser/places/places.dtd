@@ -229,11 +229,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Atgal">
-<!ENTITY backCmd.accesskey   "A">
 <!ENTITY backButton.tooltip  "Eiti atgal">
 
 <!ENTITY forwardCmd.label       "Pirmyn">
-<!ENTITY forwardCmd.accesskey   "P">
 <!ENTITY forwardButton.tooltip  "Eiti pirmyn">
 
 <!ENTITY detailsPane.more.label                    "Daugiau">
