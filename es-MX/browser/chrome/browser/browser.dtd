@@ -19,12 +19,12 @@
 <!ENTITY openLocationCmd.label "Abrir dirección…">
 <!ENTITY openLocationCmd.accesskey "d">
 <!ENTITY openFileCmd.label "Abrir archivo…">
-<!ENTITY openFileCmd.accesskey "b">
+<!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "f">
 <!ENTITY printPreviewCmd.label "Vista preliminar">
-<!ENTITY printPreviewCmd.accesskey "r">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "m">
 <!ENTITY printCmd.commandkey "p">
@@ -40,10 +40,10 @@
 <!ENTITY personalbarCmd.accesskey "M">
 <!ENTITY bookmarksToolbarItem.label "Elementos de la barra de herramientas de marcadores">
 <!ENTITY taskbarCmd.label "Barra de estado">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY taskbarCmd.accesskey "e">
 
 <!ENTITY pageSourceCmd.label "Código fuente de esta página">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Información sobre esta página">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -68,7 +68,7 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
-<!ENTITY addCurPagesCmd.label "Añadir a marcadores todas las pestañas…">
+<!ENTITY addCurPagesCmd.label "Añadir a marcadores las pestañas abiertas…">
 <!ENTITY organizeBookmarks.label "Organizar marcadores…">
 <!ENTITY bookmarkAllCmd.label "Añadir a marcadores todas las pestañas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
@@ -84,9 +84,9 @@
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Recargar esta página">
 <!ENTITY stopCmd.label                "Parar">
-<!ENTITY stopCmd.accesskey            "a">
+<!ENTITY stopCmd.accesskey            "p">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Parar la carga de esta página">
+<!ENTITY stopButton.tooltip           "Detener la descarga de esta página">
 <!ENTITY goEndCap.tooltip             "Ir a la barra de direcciones">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta página">
@@ -120,7 +120,7 @@
 <!ENTITY keywordfield.label           "Establecer una palabra clave para esta búsqueda…">
 <!ENTITY keywordfield.accesskey       "v">
 <!ENTITY search.label                 "Buscar en la web">
-<!ENTITY search.accesskey             "s">
+<!ENTITY search.accesskey             "B">
 <!ENTITY downloads.label              "Descargas">
 <!ENTITY downloads.tooltip            "Muestra el progreso de las descargas en curso">
 <!ENTITY downloads.accesskey          "D">
@@ -131,7 +131,7 @@
 <!ENTITY addons.accesskey             "C">
 
 <!ENTITY errorConsoleCmd.label        "Consola de errores">
-<!ENTITY errorConsoleCmd.accesskey    "n">
+<!ENTITY errorConsoleCmd.accesskey    "o">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY fileMenu.label         "Archivo"> 
@@ -150,7 +150,7 @@
 <!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "Cortar">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY cutCmd.accesskey         "r"> 
 <!ENTITY copyCmd.label            "Copiar">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
@@ -162,18 +162,18 @@
 <!ENTITY deleteCmd.accesskey        "l"> 
 <!ENTITY selectAllCmd.label         "Seleccionar todo">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY selectAllCmd.accesskey       "s"> 
 <!ENTITY preferencesCmd.label       "Opciones…">
 <!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "f"> 
 
 <!ENTITY clearRecentHistoryCmd.label            "Borrar el historial reciente">
-<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+<!ENTITY clearRecentHistoryCmd.accesskey        "r">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Iniciar la Navegación Privada">
-<!ENTITY privateBrowsingCmd.start.accesskey     "I">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "Detener la Navegación Privada">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "D">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
@@ -181,20 +181,20 @@
 <!ENTITY viewMenu.label         "Ver"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "Barras de herramientas"> 
-<!ENTITY viewToolbarsMenu.accesskey     "t"> 
+<!ENTITY viewToolbarsMenu.accesskey     "h"> 
 <!ENTITY viewSidebarMenu.label "Panel lateral">
-<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewSidebarMenu.accesskey "l">
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 <!ENTITY historyMenu.label "Historial">
-<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyMenu.accesskey "h">
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
 
 <!ENTITY historyHomeCmd.label "Inicio">
-<!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
+<!ENTITY showAllHistoryCmd2.label "Mostrar todo">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -273,9 +273,9 @@
 <!ENTITY bookmarkThisFrameCmd.label      "Añadir este cuadro a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY sendPageCmd.label            "Enviar dirección de esta página por correo…">
-<!ENTITY sendPageCmd.accesskey        "g">
+<!ENTITY sendPageCmd.accesskey        "e">
 <!ENTITY savePageCmd.label            "Guardar como…">
-<!ENTITY savePageCmd.accesskey        "a">
+<!ENTITY savePageCmd.accesskey        "g">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "d">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -347,17 +347,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Reducir">
-<!ENTITY fullZoomReduceCmd.accesskey    "d">
+<!ENTITY fullZoomReduceCmd.accesskey    "r">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Inicio">
-<!ENTITY fullZoomResetCmd.accesskey     "n">
+<!ENTITY fullZoomResetCmd.label         "Inicial">
+<!ENTITY fullZoomResetCmd.accesskey     "I">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Sólo ampliar texto">
-<!ENTITY fullZoomToggleCmd.accesskey    "p">
+<!ENTITY fullZoomToggleCmd.label        "Solo cambiar texto">
+<!ENTITY fullZoomToggleCmd.accesskey    "S">
 <!ENTITY fullZoom.label                 "Tamaño">
 <!ENTITY fullZoom.accesskey             "T">
 
@@ -383,9 +383,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY pageStyleMenu.label "Estilo de página">
-<!ENTITY pageStyleMenu.accesskey "g">
-<!ENTITY pageStyleNoStyle.label "Sin estilo">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleMenu.accesskey "E">
+<!ENTITY pageStyleNoStyle.label "Deshabilitar">
+<!ENTITY pageStyleNoStyle.accesskey "D">
 <!ENTITY pageStylePersistentOnly.label "Básico">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
