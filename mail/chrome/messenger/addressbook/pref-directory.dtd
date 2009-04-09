@@ -20,7 +20,7 @@ Rights Reserved.
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "LDAP ડિરેક્ટરી સર્વરો">
-<!ENTITY directory.label           "ડિરેક્ટરી ઉમેરો">
+<!ENTITY directory.label           "ડિરેક્ટરી એડ-ઓન">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP ડિરેક્ટરી સર્વર:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
@@ -28,7 +28,7 @@ Rights Reserved.
 <!ENTITY directoriesText.accesskey "S">
 <!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
 <!ENTITY autocomplete.title        "LDAP ડિરેક્ટરી સર્વર">
-<!ENTITY addDirectory.label        "ઉમેરો">
+<!ENTITY addDirectory.label        "એડ-ઓન">
 <!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "ફેરફાર કરો">
 <!ENTITY editDirectory.accesskey   "e">

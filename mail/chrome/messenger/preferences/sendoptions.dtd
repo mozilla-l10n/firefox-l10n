@@ -17,17 +17,17 @@
 <!ENTITY HTMLTab.accesskey            "h">
 <!ENTITY PlainTextTab.label           "સાદા લખાણ ડોમેઈનો">
 <!ENTITY PlainTextTab.accesskey       "p">
-<!ENTITY AddButton.label              "ઉમેરો...">
+<!ENTITY AddButton.label              "એડ-ઓન...">
 <!ENTITY AddHtmlDomain.accesskey      "a">
 <!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteButton.label           "કાઢી નાંખો">
 <!ENTITY DeleteHtmlDomain.accesskey   "l">
 <!ENTITY DeletePlainText.accesskey    "t">
 
-<!ENTITY add.htmltitle                "HTML ડોમેઈન નામ ઉમેરો">
+<!ENTITY add.htmltitle                "HTML ડોમેઈન નામ એડ-ઓન">
 <!ENTITY add.htmldomain               "HTML ડોમેઈન નામ:">
 <!ENTITY add.htmldomain.accesskey     "d">
-<!ENTITY add.plaintexttitle           "સાદું લખાણ ડોમેઈન નામ ઉમેરો">
+<!ENTITY add.plaintexttitle           "સાદું લખાણ ડોમેઈન નામ એડ-ઓન">
 <!ENTITY add.plaintextdomain          "સાદું લખાણ ડોમેઈન નામ:">
 <!ENTITY add.plaintext.accesskey      "d">
 

@@ -2,7 +2,7 @@
 
 <!ENTITY accountManagerTitle.label "ખાતા સુયોજનો">
 
-<!ENTITY addAccountButton.label "ખાતુ ઉમેરો...">
+<!ENTITY addAccountButton.label "ખાતુ એડ-ઓન...">
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "મૂળભુત તરીકે સુયોજિત કરો">
 <!ENTITY setDefaultButton.accesskey "f">

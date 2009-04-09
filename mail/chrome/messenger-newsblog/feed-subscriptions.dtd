@@ -4,7 +4,7 @@
 <!ENTITY feedTitle.label "શીર્ષક:">
 <!ENTITY location.label  "સ્થાન:">
 
-<!ENTITY button.addFeed.label       "ઉમેરો">
+<!ENTITY button.addFeed.label       "એડ-ઓન">
 <!ENTITY button.addFeed.accesskey   "A">
 <!ENTITY button.editFeed.label      "ફેરફાર">
 <!ENTITY button.editFeed.accesskey  "E">

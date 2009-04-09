@@ -137,7 +137,7 @@
 <!ENTITY viewparagraphmarks.accesskey "p">
 
 <!-- Insert menu items -->
-<!ENTITY insertMenu.label "ઉમેરો">
+<!ENTITY insertMenu.label "એડ-ઓન">
 <!ENTITY insertmenu.accesskey "i">
 <!ENTITY insertLinkCmd.label "કડી...">
 <!ENTITY insertlink.accesskey "l">
@@ -186,7 +186,7 @@
 <!ENTITY spellCheckNoSuggestions.label "(કોઈ સૂચનો મળ્યા નહિં)">
 <!ENTITY spellCheckIgnoreWord.label "શબ્દ અવગણો">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "શબ્દકોષમાં ઉમેરો">
+<!ENTITY spellCheckAddToDictionary.label "શબ્દકોષમાં એડ-ઓન">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "કડી બનાવો...">
 <!ENTITY createlink.accesskey "k">
@@ -412,11 +412,11 @@
 <!ENTITY tableselectmenu.accesskey "s">
 
 <!ENTITY tableSelectMenu2.label "કોષ્ટક પસંદગી">
-<!ENTITY tableInsertMenu2.label "કોષ્ટક ઉમેરો">
+<!ENTITY tableInsertMenu2.label "કોષ્ટક એડ-ઓન">
 <!ENTITY tableDeleteMenu2.label "કોષ્ટક કાઢી નાંખો">
 
 <!-- Insert SubMenu -->
-<!ENTITY tableInsertMenu.label "ઉમેરો">
+<!ENTITY tableInsertMenu.label "એડ-ઓન">
 <!ENTITY tableinsertmenu.accesskey "i">
 <!ENTITY tableTable.label "કોષ્ટક">
 <!ENTITY tabletable.accesskey "t">
@@ -489,15 +489,15 @@
 <!ENTITY spellToolbarCmd.label "જોડણી">
 <!ENTITY spellToolbarCmd.tooltip "પસંદગીની અથવા વર્તમાન પાનાની જોડણી ચકાસો">
 <!ENTITY imageToolbarCmd.label "ઈમેજ">
-<!ENTITY imageToolbarCmd.tooltip "નવી ઈમેજ ઉમેરો અથવા પસંદ કરેલ ઈમેજના ગુણધર્મોમાં ફેરફાર કરો">
+<!ENTITY imageToolbarCmd.tooltip "નવી ઈમેજ એડ-ઓન અથવા પસંદ કરેલ ઈમેજના ગુણધર્મોમાં ફેરફાર કરો">
 <!ENTITY hruleToolbarCmd.label "આડી લીટી">
-<!ENTITY hruleToolbarCmd.tooltip "આડી લીટી ઉમેરો અથવા પસંદ કરેલ લીટીના ગુણધર્મોમાં ફેરફાર કરો">
+<!ENTITY hruleToolbarCmd.tooltip "આડી લીટી એડ-ઓન અથવા પસંદ કરેલ લીટીના ગુણધર્મોમાં ફેરફાર કરો">
 <!ENTITY tableToolbarCmd.label "કોષ્ટક">
-<!ENTITY tableToolbarCmd.tooltip "નવું કોષ્ટક ઉમેરો અથવા પસંદ કરેલ કોષ્ટકના ગુણધર્મોમાં ફેરફાર કરો">
+<!ENTITY tableToolbarCmd.tooltip "નવું કોષ્ટક એડ-ઓન અથવા પસંદ કરેલ કોષ્ટકના ગુણધર્મોમાં ફેરફાર કરો">
 <!ENTITY linkToolbarCmd.label "કડી">
-<!ENTITY linkToolbarCmd.tooltip "નવી કડી ઉમેરો અથવા પસંદ કરેલ કડીના ગુણધર્મોમાં ફેરફાર કરો">
+<!ENTITY linkToolbarCmd.tooltip "નવી કડી એડ-ઓન અથવા પસંદ કરેલ કડીના ગુણધર્મોમાં ફેરફાર કરો">
 <!ENTITY anchorToolbarCmd.label "એન્કર">
-<!ENTITY anchorToolbarCmd.tooltip "નવા નામવાળું એન્કર ઉમેરો અથવા પસંદ કરેલ એન્કરના ગુણધર્મોમાં ફેરફાર કરો">
+<!ENTITY anchorToolbarCmd.tooltip "નવા નામવાળું એન્કર એડ-ઓન અથવા પસંદ કરેલ એન્કરના ગુણધર્મોમાં ફેરફાર કરો">
 <!ENTITY textColorCaption.label "લખાણ રંગ">
 <!ENTITY TextColorButton.tooltip "લખાણ માટે રંગ પસંદ કરો">
 <!ENTITY BackgroundColorButton.tooltip "પાશ્વ ભાગ માટે રંગ પસંદ કરો">
@@ -515,7 +515,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "હાંસિયાની બહારનું લખાણ (ડાબે ખસેડો)">
 <!ENTITY indentToolbarCmd.tooltip "હાંસિયાની અંદરનું લખાણ (જમણે ખસેડો)">
 <!ENTITY AlignPopupButton.tooltip "લખાણ ગોઠવણી પસંદ કરો">
-<!ENTITY InsertPopupButton.tooltip "કડી, એન્કર, ઈમેજ, આડી લીટી, અથવા કોષ્ટક ઉમેરો">
+<!ENTITY InsertPopupButton.tooltip "કડી, એન્કર, ઈમેજ, આડી લીટી, અથવા કોષ્ટક એડ-ઓન">
 <!ENTITY alignLeftButton.tooltip "લખાણને ડાબા હાંસિયા સાથે ગોઠવો">
 <!ENTITY alignCenterButton.tooltip "લખાણને કેન્દ્રમાં ગોઠવો">
 <!ENTITY alignRightButton.tooltip "લખાણને જમણે હાંસિયે ગોઠવો">
@@ -567,7 +567,7 @@
 <!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label          "ઉમેરો">
+<!ENTITY insertTOC.label          "એડ-ઓન">
 <!ENTITY insertTOC.accesskey      "i">
 <!ENTITY updateTOC.label          "સુધારો">
 <!ENTITY updateTOC.accesskey      "u">

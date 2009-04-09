@@ -1,4 +1,4 @@
-<!ENTITY addons.title                     "ઉમેરાઓ">
+<!ENTITY addons.title                     "એડ-ઓન">
 
 <!-- Default window size for the addon manager in pixels -->
 <!ENTITY em.width                         "520">
@@ -19,11 +19,11 @@
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label        "સુધારાઓ શોધો">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "તમારા ઉમેરાઓ માટે સુધારાઓ શોધે છે">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "તમારા એડ-ઓન માટે સુધારાઓ શોધે છે">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "તમારી થીમો માટે સુધારાઓ શોધે છે">
 <!ENTITY cmd.installLocalFile.label       "સ્થાપિત કરો...">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
-<!ENTITY cmd.installFileAddon.tooltip     "ઉમેરો સ્થાપિત કરો">
+<!ENTITY cmd.installFileAddon.tooltip     "એડ-ઓન સ્થાપિત કરો">
 <!ENTITY cmd.installFileTheme.tooltip     "થીમ સ્થાપિત કરો">
 <!ENTITY cmd.installUpdatesAll.label      "સુધારાઓ સ્થાપિત કરો">
 <!ENTITY cmd.installUpdatesAll.accesskey  "I">
@@ -37,10 +37,10 @@
 
 <!ENTITY cmd.enableAll.label              "બધું સક્રિય કરો">
 <!ENTITY cmd.enableAll.accesskey          "a">
-<!ENTITY cmd.enableAll.tooltip            "બધા દર્શાવાયેલ ઉમેરાઓ સક્રિય કરો">
+<!ENTITY cmd.enableAll.tooltip            "બધા દર્શાવાયેલ એડ-ઓન સક્રિય કરો">
 <!ENTITY cmd.disableAll.label             "બધું નિષ્ક્રિય કરો">
 <!ENTITY cmd.disableAll.accesskey         "s">
-<!ENTITY cmd.disableAll.tooltip           "બધા દર્શાવાયેલ ઉમેરાઓ નિષ્ક્રિય કરો">
+<!ENTITY cmd.disableAll.tooltip           "બધા દર્શાવાયેલ એડ-ઓન નિષ્ક્રિય કરો">
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "થીમ વાપરો">
@@ -54,19 +54,19 @@
 <!ENTITY cmd.optionsUnix.tooltip          "પસંદ કરેલ એક્સટેન્સન માટે પસંદગીઓમાં ફેરફાર કરો">
 <!ENTITY cmd.enable.label                 "સક્રિય કરો">
 <!ENTITY cmd.enable.accesskey             "E">
-<!ENTITY cmd.enable.tooltip               "આ ઉમેરાને સક્રિય કરો જ્યારે &brandShortName; પુનઃશરૂ થાય">
+<!ENTITY cmd.enable.tooltip               "આ એડ-ઓનને સક્રિય કરો જ્યારે &brandShortName; પુનઃશરૂ થાય">
 <!ENTITY cmd.disable.label                "નિષ્ક્રિય કરો">
 <!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "આ ઉમેરાને નિષ્ક્રિય કરો જ્યારે &brandShortName; પુનઃશરૂ થાય">
+<!ENTITY cmd.disable.tooltip              "આ એડ-ઓનને નિષ્ક્રિય કરો જ્યારે &brandShortName; પુનઃશરૂ થાય">
 <!ENTITY cmd.uninstall.label              "વિસ્થાપિત કરો">
 <!ENTITY cmd.uninstall2.accesskey         "U">
-<!ENTITY cmd.uninstall2.tooltip           "આ ઉમેરાને વિસ્થાપિત કરો જ્યારે &brandShortName; પુનઃશરૂ થાય">
+<!ENTITY cmd.uninstall2.tooltip           "આ એડ-ઓનને વિસ્થાપિત કરો જ્યારે &brandShortName; પુનઃશરૂ થાય">
 <!ENTITY cmd.cancelUninstall.label        "વિસ્થાપન રદ કરો">
 <!ENTITY cmd.cancelUninstall.accesskey    "C">
-<!ENTITY cmd.cancelUninstall.tooltip      "આ ઉમેરાનું વિસ્થાપન રદ કરો">
+<!ENTITY cmd.cancelUninstall.tooltip      "આ એડ-ઓનનું વિસ્થાપન રદ કરો">
 <!ENTITY cmd.installUpdate.label          "સુધારો સ્થાપિત કરો">
 <!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "આ ઉમેરા માટે સુધારો સ્થાપિત કરો">
+<!ENTITY cmd.installUpdate.tooltip        "આ એડ-ઓન માટે સુધારો સ્થાપિત કરો">
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label                     "રદ કરો">
 <!ENTITY cancel.accesskey                 "C">
@@ -78,7 +78,7 @@
 <!-- Only displayed in the selected Add-on's context menu -->
 <!ENTITY cmd.homepage.label               "ઘર પાનાંની મુલાકાત લો">
 <!ENTITY cmd.homepage.accesskey           "H">
-<!ENTITY cmd.about2.label                 "આ ઉમેરા વિશે">
+<!ENTITY cmd.about2.label                 "આ એડ-ઓન વિશે">
 <!ENTITY cmd.about.accesskey              "A">
 <!ENTITY cmd.checkUpdate.label            "સુધારો શોધો">
 <!ENTITY cmd.checkUpdate.accesskey        "F">
@@ -87,15 +87,15 @@
 <!ENTITY cmd.includeUpdate.accesskey      "n">
 <!ENTITY includeUpdate.label              "આ સુધારો સમાવો">
 <!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "આ ઉમેરાને જ્યારે સુધારાઓ સ્થાપિત કરી રહ્યા હોય ત્યારે સમાવો">
+<!ENTITY includeUpdate.tooltip            "આ એડ-ઓનને જ્યારે સુધારાઓ સ્થાપિત કરી રહ્યા હોય ત્યારે સમાવો">
 
 <!-- Status Messsages -->
 <!ENTITY needsDependencies.label          "વધારાની વસ્તુઓ જરૂરી છે.">
 <!ENTITY blocklisted.label                "તમારી સુરક્ષા માટે નિષ્ક્રિય કરવામાં આવેલ છે.">
-<!ENTITY toBeDisabled.label               "આ ઉમેરો નિષ્ક્રિય કરવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થાય.">
-<!ENTITY toBeEnabled.label                "આ ઉમેરો સક્રિય કરવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થાય.">
-<!ENTITY toBeInstalled.label              "આ ઉમેરો સ્થાપિત કરવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થાય.">
-<!ENTITY toBeUninstalled.label            "આ ઉમેરો વિસ્થાપિત કરવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થાય.">
+<!ENTITY toBeDisabled.label               "આ એડ-ઓન નિષ્ક્રિય કરવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થાય.">
+<!ENTITY toBeEnabled.label                "આ એડ-ઓન સક્રિય કરવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થાય.">
+<!ENTITY toBeInstalled.label              "આ એડ-ઓન સ્થાપિત કરવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થાય.">
+<!ENTITY toBeUninstalled.label            "આ એડ-ઓન વિસ્થાપિત કરવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થાય.">
 
 <!ENTITY getExtensions.label              "એક્સટેન્સનો મેળવો">
 <!ENTITY getThemes.label                  "થીમો મેળવો">
@@ -122,10 +122,10 @@
 <!ENTITY cmd.showUpdateInfo.accesskey     "S">
 <!ENTITY cmd.hideUpdateInfo.accesskey     "H">
 <!ENTITY cmd.hideUpdateInfo.tooltip       "આ સુધારાઓ વિશે જાણકારી છુપાવો">
-<!ENTITY toBeUpdated.label                "આ ઉમેરો સુધારવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થશે.">
-<!ENTITY cmd.cancelInstall.tooltip        "આ ઉમેરાનું સ્થાપન રદ કરો">
+<!ENTITY toBeUpdated.label                "આ એડ-ઓન સુધારવામાં આવશે જ્યારે &brandShortName; પુનઃશરૂ થશે.">
+<!ENTITY cmd.cancelInstall.tooltip        "આ એડ-ઓનનું સ્થાપન રદ કરો">
 <!ENTITY insecureUpdate.label             "સુરક્ષિત સુધારાઓ પૂરું પાડતું નથી.">
-<!ENTITY cmd.cancelUpgrade.tooltip        "આ ઉમેરાનો સુધારો રદ કરો">
+<!ENTITY cmd.cancelUpgrade.tooltip        "આ એડ-ઓનનો સુધારો રદ કરો">
 <!ENTITY updateSuccessRestart.label       "સુધારો સમાપ્ત કરવા માટે પુનઃશરૂ કરો.">
 <!ENTITY cmd.restartApp2.tooltip          "ફેરફારો લાગુ કરવા માટે &brandShortName; પુનઃશરૂ કરકો">
 <!ENTITY cmd.cancelInstall.accesskey      "C">
@@ -136,33 +136,33 @@
 <!ENTITY cmd.restartApp2.label            "&brandShortName; પુનઃશરૂ કરો">
 
 <!ENTITY missingThumbnail.label           "કોઈ પૂર્વદર્શન નથી">
-<!ENTITY searchFailed.label               "&brandShortName; ઉમેરાઓ પ્રાપ્ત કરી શક્યું નહિં">
+<!ENTITY searchFailed.label               "&brandShortName; એડ-ઓન પ્રાપ્ત કરી શક્યું નહિં">
 <!ENTITY recommendedHeader.label          "આગ્રહણીય">
-<!ENTITY searchThrobber.label             "ઉમેરાઓ શોધી રહ્યું છે">
-<!ENTITY browseAddons.label               "બધા ઉમેરાઓ શોધો">
-<!ENTITY searchBox.label                  "બધા ઉમેરાઓ શોધો">
+<!ENTITY searchThrobber.label             "એડ-ઓન શોધી રહ્યું છે">
+<!ENTITY browseAddons.label               "બધા એડ-ઓન શોધો">
+<!ENTITY searchBox.label                  "બધા એડ-ઓન શોધો">
 <!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip   "આ ઉમેરો ડાઉનલોડ કરો અને સ્થાપિત કરો">
+<!ENTITY cmd.installSearchResult.tooltip   "આ એડ-ઓન ડાઉનલોડ કરો અને સ્થાપિત કરો">
 <!ENTITY addonTypeTheme.label             "થીમ">
-<!ENTITY search.label                     "ઉમેરાઓ મેળવો">
+<!ENTITY search.label                     "એડ-ઓન મેળવો">
 <!ENTITY eula.title                       "અંતિમ-વપરાશકર્તા લાઈસન્સ મંજૂરીપત્રક">
 <!ENTITY searchResultInstalling.label     "સ્થાપિત કરી રહ્યા છીએ…">
 <!ENTITY searchResultInstalled.label      "સ્થાપન સમાપ્ત">
 <!ENTITY cancelSearch.button              "રદ કરો">
 <!ENTITY eula.accept                      "સ્વીકારો અને સ્થાપિત કરો...">
 <!ENTITY eula.height                      "400px">
-<!ENTITY cmd.installSearchResult.label     "&brandShortName; માં ઉમેરો…">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName; માં એડ-ઓન…">
 <!ENTITY searchResultFailed.label         "સ્થાપન નિષ્ફળ">
 <!ENTITY resetSearch.label                "પરિણામો સાફ કરો">
 <!ENTITY eula.width                       "560px">
-<!ENTITY searchAddons.label               "બધા ઉમેરાઓ શોધો">
-<!ENTITY recommendedResults.label         "બધા આગ્રહણીય ઉમેરાઓ જુઓ">
+<!ENTITY searchAddons.label               "બધા એડ-ઓન શોધો">
+<!ENTITY recommendedResults.label         "બધા આગ્રહણીય એડ-ઓન જુઓ">
 <!ENTITY searchResultHomepage.value       "વધુ શીખો">
 <!ENTITY addonTypeExtension.label         "એક્સટેન્સન">
-<!ENTITY recommendedThrobber.label        "આગ્રહણીય ઉમેરાઓ પ્રાપ્ત કરી રહ્યા છીએ">
+<!ENTITY recommendedThrobber.label        "આગ્રહણીય એડ-ઓન પ્રાપ્ત કરી રહ્યા છીએ">
 
 <!ENTITY noRecommendedResults.label       "બધા આગ્રહો પહેલાથી જ સ્થાપિત થયેલ છે અથવા અસુસંગત છે.">
-<!ENTITY emptySearch.label                "કોઈ બંધબેસતા ઉમેરાઓ નથી">
+<!ENTITY emptySearch.label                "કોઈ બંધબેસતા એડ-ઓન નથી">
 <!ENTITY searchFailed.button              "બરાબર">
 <!ENTITY emptySearch.button               "બરાબર">
 <!ENTITY noSearchResults.label            "બધા પરિણામો પહેલાથી જ સ્થાપિત થયેલ છે અથવા અસુસંગત છે.">

@@ -43,7 +43,7 @@
 <!ENTITY moveMessage.label "સંદેશાને આમાં ખસેડો">
 <!ENTITY copyMessage.label "સંદેશાની આમાં નકલ કરો">
 <!ENTITY markMessageRead.label "વાંચ્યો હોય એમ ચિહ્નિત કરો">
-<!ENTITY markMessageStarred.label "તારો ઉમેરો">
+<!ENTITY markMessageStarred.label "તારો એડ-ઓન">
 <!ENTITY labelMessage.label "સંદેશાને આ લેબલ આપો">
 <!ENTITY setPriority.label "આના પ્રતિ પ્રાધાન્ય સુયોજિત કરો">
 <!ENTITY addTag.label "ટેગ સંદેશો">

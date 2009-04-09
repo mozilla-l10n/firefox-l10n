@@ -51,7 +51,7 @@
 <!ENTITY autoCheck.label                 "સુધારાઓ માટે આમાં આપોઆપ ચકાસો:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "સ્થાપિત ઉમેરાઓ">
+<!ENTITY enableAddonsUpdate.label        "સ્થાપિત એડ-ઓન">
 <!ENTITY enableAddonsUpdate.accesskey    "n">
 <!ENTITY enableSearchUpdate.label        "શોધ યંત્રો">
 <!ENTITY enableSearchUpdate.accesskey    "h">
@@ -60,7 +60,7 @@
 <!ENTITY askMe.accesskey                 "k">
 <!ENTITY modeAutomatic.label             "સુધારો આપોઆપ ડાઉનલોડ અને સ્થાપિત કરો">
 <!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "જો આ મારા કોઈપણ ઉમેરાઓને નિષ્ક્રિય કરી નાંખે તો મને ચેતવો">
+<!ENTITY modeAutoAddonWarn.label         "જો આ મારા કોઈપણ એડ-ઓનને નિષ્ક્રિય કરી નાંખે તો મને ચેતવો">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY updateHistory.label             "સુધારા ઈતિહાસ બતાવો">
 <!ENTITY updateHistory.accesskey         "p">

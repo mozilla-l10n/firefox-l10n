@@ -10,7 +10,7 @@
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY deleteCmd.label "રદ કરો">
 <!ENTITY deleteCmd.accesskey "D">
-<!ENTITY spellAddToDictionary.label "શબ્દકોષમાં ઉમેરો">
+<!ENTITY spellAddToDictionary.label "શબ્દકોષમાં એડ-ઓન">
 <!ENTITY spellAddToDictionary.accesskey "t">
 <!ENTITY spellCheckEnable.label "જોડણી ચકાસો">
 <!ENTITY spellCheckEnable.accesskey "S">

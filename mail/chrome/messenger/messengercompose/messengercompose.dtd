@@ -253,7 +253,7 @@
 <!ENTITY spellCheckNoSuggestions.label "કોઈ સૂચનો મળ્યા નથી">
 <!ENTITY spellCheckIgnoreWord.label "શબ્દ અવગણો">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "શબ્દકોષમાં ઉમેરો">
+<!ENTITY spellCheckAddToDictionary.label "શબ્દકોષમાં એડ-ઓન">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "છેલ્લી ક્રિયા રદ કરો">
 <!ENTITY undo.accesskey "U">

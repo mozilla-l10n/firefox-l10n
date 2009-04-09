@@ -75,7 +75,7 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.editca.label "CA વિશ્વાસમાં ફેરફાર કરો">
 <!ENTITY certmgr.editca.accesskey             "d">
-<!ENTITY certmgr.add.label "ઉમેરો">
+<!ENTITY certmgr.add.label "એડ-ઓન">
 <!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.details.label "પ્રમાણપત્ર ક્ષેત્રો">
 <!ENTITY certmgr.details.accesskey            "F">
@@ -93,7 +93,7 @@
 <!ENTITY exceptionMgr.supplementalWarning     "કાયદાકીય બેંકો, સંગ્રહસ્થાનો, અને અન્ય જાહેર સાઈટો તમને આ કરવા માટે પૂછશે નહિં.">
 <!ENTITY certmgr.backupall2.label              "બધું બેકઅપ કરો…">
 <!ENTITY exceptionMgr.certlocation.caption2   "સર્વર">
-<!ENTITY exceptionMgr.title                   "સુરક્ષા અપવાદ ઉમેરો">
+<!ENTITY exceptionMgr.title                   "સુરક્ષા અપવાદ એડ-ઓન">
 <!ENTITY exceptionMgr.certstatus.caption      "પ્રમાણપત્ર પરિસ્થિતિ">
 <!ENTITY certmgr.orphans                      "તમારી પાસે ફાઈલ પર પ્રમાણપત્રો છે કે જેઓ અન્ય વર્ગોમાંના કોઈમાં પણ બંધબેસતા નથી:">
 <!ENTITY certmgr.export.accesskey             "x">
@@ -104,7 +104,7 @@
 <!ENTITY certmgr.export.label                 "નિકાસ…">
 <!ENTITY certmgr.addException.accesskey       "x">
 <!ENTITY certmgr.pending.label                "વર્તમાનમાં પ્રમાણપત્રની ખાતરી કરી રહ્યા છીએ...">
-<!ENTITY certmgr.addException.label           "અપવાદ ઉમેરો...">
+<!ENTITY certmgr.addException.label           "અપવાદ એડ-ઓન...">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY certmgr.restore2.label                "આયાત…">
 <!ENTITY certmgr.tab.websites3                "સર્વરો">
