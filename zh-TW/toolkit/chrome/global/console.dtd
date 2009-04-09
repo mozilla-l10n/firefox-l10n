@@ -51,7 +51,7 @@
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "清除">
 <!ENTITY clear.accesskey    "C">
-<!ENTITY codeEval.label     "代碼:">
+<!ENTITY codeEval.label     "程式碼:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "執行">
 <!ENTITY evaluate.accesskey "v">
