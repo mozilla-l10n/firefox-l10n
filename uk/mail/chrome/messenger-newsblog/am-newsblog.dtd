@@ -1,4 +1,3 @@
-<!ENTITY newsblogTitle.label "Параметри облікового запису RSS-каналів">
 
 <!ENTITY biffStart.label "Перевіряти наявність нових статей кожні">
 <!ENTITY biffStart.accesskey "П">
@@ -13,8 +12,8 @@
 <!ENTITY manageSubscriptions.label "Упорядкувати підписки…"> 
 <!ENTITY manageSubscriptions.accesskey "У">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Блоги і джерела новин">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "Блоги і RSS-канали">
-<!ENTITY rss.wizardLongName.accesskey "Б">
+<!ENTITY accountTitle.label "Параметри облікового запису">
+<!ENTITY feeds.accountName "Блоги та стрічки новин">
+<!ENTITY feeds.wizardLongName "Блоги та стрічки новин">
+<!ENTITY feeds.wizardLongName.accesskey "с">
+<!ENTITY feeds.wizardShortName "Стрічки">
