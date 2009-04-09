@@ -68,9 +68,9 @@
 <!ENTITY ValueHeader.label "કિંમત">
 <!ENTITY SelectedHeader.label "પસંદ કરેલ">
 
-<!ENTITY AddOption.label "વિકલ્પ ઉમેરો">
+<!ENTITY AddOption.label "વિકલ્પ એડ-ઓન">
 <!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "જૂથ ઉમેરો">
+<!ENTITY AddOptGroup.label "જૂથ એડ-ઓન">
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "દૂર કરો">
 <!ENTITY RemoveElement.accesskey "R">

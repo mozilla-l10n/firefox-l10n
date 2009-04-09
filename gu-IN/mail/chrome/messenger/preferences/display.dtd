@@ -38,7 +38,7 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label    "તમારા સંદેશાઓ વર્ગીકૃત અને પ્રાધાન્યવાળા કરવા માટે ટેગો વાપરી શકાય છે.">
-<!ENTITY addTagButton.label       "ઉમેરો">
+<!ENTITY addTagButton.label       "એડ-ઓન">
 <!ENTITY addTagButton.accesskey   "A">
 <!ENTITY editTagButton.label      "ફેરફાર">
 <!ENTITY editTagButton.accesskey   "E">

@@ -24,7 +24,7 @@ Contributor(s):
 <!-- Title -->
 <!ENTITY mailListWindow.title           "મેઈલની યાદી">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "માં ઉમેરો: ">
+<!ENTITY addToAddressBook.label         "માં એડ-ઓન: ">
 
 <!ENTITY ListName.label                 "છેલ્લું નામ: ">
 <!ENTITY ListNickName.label             "લાડકા નામની યાદી: ">

@@ -4,7 +4,7 @@
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc      "તમારું પહેલાંનુ &brandShortName; સત્ર અનિચ્છનીય રીતે બંધ થઈ ગયું. અમે થયેલ ખામીઓ માટે દીલગીર છીએ અને માફી ઈચ્છીએ છીએ. તમે તમારા પહેલાંના સત્રમાંથી ટેબો અને વિન્ડો પુનઃસંગ્રહી શકો છો, અથવા જો તેઓ હવે જરૂર જ નહિં હોય તો નવો સત્ર પણ શરૂ કરી શકો છો.">
 <!ENTITY restorepage.remedies       "જો &brandShortName; પુનરાવર્તિત રીતે બંધ થાય:">
-<!ENTITY restorepage.dueToChrome    "ઉમેરાઓ વ્યવસ્થાપકમાં ઉમેરાયેલ કોઈપણ છેલ્લા એક્સટેન્સનો નિષ્ક્રિય કરવાનો પ્રયાસ કરો.">
+<!ENTITY restorepage.dueToChrome    "એડ-ઓન વ્યવસ્થાપકમાં એડ-ઓનયેલ કોઈપણ છેલ્લા એક્સટેન્સનો નિષ્ક્રિય કરવાનો પ્રયાસ કરો.">
 <!ENTITY restorepage.dueToContent   "કોઈપણ વેબ પાનાંઓ જેમના પર તમને શંકા હોય તેમના વિના સત્ર પુનઃસંગ્રહવાનો પ્રયાસ કરવાનું કદાચ સમસ્યા સર્જી રહ્યું હોય:">
 
 <!ENTITY restorepage.restoreButton  "પહેલાનો સત્ર પુનઃસંગ્રહો">

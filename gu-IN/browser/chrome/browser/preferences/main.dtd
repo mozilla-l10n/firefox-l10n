@@ -30,9 +30,9 @@
 <!ENTITY alwaysAsk.label "ફાઈલો ક્યાં સંગ્રહવી છે તેના માટે હંમેશા મને પૂછો">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY addonsMgr.label            "ઉમેરાઓ">
-<!ENTITY manageAddons.label         "ઉમેરાઓની વ્યવસ્થા કરો...">
+<!ENTITY addonsMgr.label            "એડ-ઓન">
+<!ENTITY manageAddons.label         "એડ-ઓનની વ્યવસ્થા કરો...">
 <!ENTITY manageAddons.accesskey     "M">
 
-<!ENTITY manageAddonsDescWin.label     "તમારા ઉમેરાઓ માટેના વિકલ્પો બદલો">
-<!ENTITY manageAddonsDescUnix2.label   "તમારા ઉમેરાઓ માટેની પસંદગી બદલો">
+<!ENTITY manageAddonsDescWin.label     "તમારા એડ-ઓન માટેના વિકલ્પો બદલો">
+<!ENTITY manageAddonsDescUnix2.label   "તમારા એડ-ઓન માટેની પસંદગી બદલો">

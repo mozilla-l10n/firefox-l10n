@@ -42,7 +42,7 @@
 <!ENTITY safeModeDescription.label    "&brandShortName; એ હવે સુરક્ષિત સ્થિતિમાં ચાલી રહ્યું છે, કે જે થોડી વાર માટે તમારા વૈવિધ્યપૂર્ણ સુયોજનો, થીમો, અને એક્સટેન્સનો નિષ્ક્રિય કરે છે.">
 <!ENTITY safeModeDescription2.label   "તમે આમાંના અમુક અથવા બધા ફેરફારો કાયમી કરી શકો છો:">
 
-<!ENTITY disableAddons.label          "બધા ઉમેરાઓ નિષ્ક્રિય કરો">
+<!ENTITY disableAddons.label          "બધા એડ-ઓન નિષ્ક્રિય કરો">
 <!ENTITY disableAddons.accesskey      "D">
 
 <!ENTITY resetToolbars.label          "સાધનપટ્ટીઓ અને નિયંત્રકો પુનઃસુયોજિત કરો">

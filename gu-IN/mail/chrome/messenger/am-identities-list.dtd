@@ -1,6 +1,6 @@
 <!ENTITY identitiesListTitle.label "આ ખાતા સાથે સંકળાયેલ ઓળખો">
 <!ENTITY identitiesListDesc.label "ઘણી ઓળખોનો આધાર">
-<!ENTITY identitiesListAdd.label  "ઉમેરો...">
+<!ENTITY identitiesListAdd.label  "એડ-ઓન...">
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "ફેરફાર કરો...">
 <!ENTITY identitiesListEdit.accesskey "E">

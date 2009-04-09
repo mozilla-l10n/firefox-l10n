@@ -378,7 +378,7 @@
 <!ENTITY markAllReadCmd.label "બધું વાંચો">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "તારો ઉમેરો">
+<!ENTITY markStarredCmd.label "તારો એડ-ઓન">
 <!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "બગડેલ તરીકે">
@@ -400,7 +400,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "સાધનો">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY addons.label "ઉમેરાઓ">
+<!ENTITY addons.label "એડ-ઓન">
 <!ENTITY addons.accesskey "d">
 <!ENTITY messengerCmd.label "મેઈલ &amp; સમાચારજૂથો">
 <!ENTITY messengerCmd.accesskey "m">
@@ -614,9 +614,9 @@
 <!ENTITY contextPrintPreview.accesskey "v">
 <!ENTITY contextDelete.label "કાઢી નાંખો">
 <!ENTITY contextDelete.accesskey "D">
-<!ENTITY contextAddSenderToAddressBook.label "મોકલનારને સરનામા પુસ્તિકામાં ઉમેરો">
+<!ENTITY contextAddSenderToAddressBook.label "મોકલનારને સરનામા પુસ્તિકામાં એડ-ઓન">
 <!ENTITY contextAddSenderToAddressBook.accesskey "B">
-<!ENTITY contextAddAllToAddressBook.label "બધાને સરનામા પુસ્તિકામાં ઉમેરો">
+<!ENTITY contextAddAllToAddressBook.label "બધાને સરનામા પુસ્તિકામાં એડ-ઓન">
 <!ENTITY contextAddAllToAddressBook.accesskey "A">
 
 <!-- Junk Bar -->
@@ -636,7 +636,7 @@
 <!ENTITY quickSearchCmd.key "k">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "સરનામા પુસ્તિકામાં ઉમેરો...">
+<!ENTITY AddToAddressBook.label "સરનામા પુસ્તિકામાં એડ-ઓન...">
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY SendMailTo.label "આના પ્રતિ મેઈલ કમ્પોઝ કરો">
 <!ENTITY SendMailTo.accesskey "s">
