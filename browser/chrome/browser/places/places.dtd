@@ -197,11 +197,9 @@
 <!ENTITY maintenance.accesskey "ص">
 
 <!ENTITY backCmd.label "للخلف">
-<!ENTITY backCmd.accesskey "خ">
 <!ENTITY backButton.tooltip "اذهب للخلف">
 
 <!ENTITY forwardCmd.label "للأمام">
-<!ENTITY forwardCmd.accesskey "م">
 <!ENTITY forwardButton.tooltip "اذهب إلى الأمام">
 
 <!ENTITY detailsPane.more.label "أكثر">
