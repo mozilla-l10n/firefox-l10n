@@ -17,3 +17,5 @@
 <!ENTITY undoCloseTab.label "Anullar la tampadura de l'onglet">
 <!ENTITY undoCloseTab.accesskey "u">
 <!ENTITY  newTabButton.tooltip        "Dobrir un onglet novèl">
+<!ENTITY  openTabInNewWindow.label     "Dobrir dins una fenèstra novèla">
+<!ENTITY  openTabInNewWindow.accesskey "f">
