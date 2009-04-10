@@ -77,7 +77,6 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "이 페이지 읽기 중지">
 <!ENTITY goEndCap.tooltip "주소 표시줄에 주소를 입력하십시오.">
-<!ENTITY feedButton.tooltip "현재 페이지 구독…">
 <!ENTITY printButton.label "인쇄">
 <!ENTITY printButton.tooltip "현재 페이지 인쇄">
 <!ENTITY locationItem.title "주소">
@@ -89,6 +88,7 @@
 <!ENTITY bookmarksButton.tooltip "북마크 표시">
 <!ENTITY bookmarksSidebarCmd.accesskey "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 <!ENTITY historyButton.label "방문 기록">
 <!ENTITY historyButton.tooltip "최근 방문 사이트 목록 표시">
@@ -143,9 +143,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "사생활 보호 모드 시작">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "사생활 보호 모드 중지">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 
@@ -158,7 +158,11 @@
 <!ENTITY viewCustomizeToolbar.label "사용자 지정…">
 <!ENTITY viewCustomizeToolbar.accesskey "C">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "북마크와 히스토리 검색">
+<!ENTITY urlbar.emptyText "북마크와 방문기록 검색">
+<!ENTITY urlbar.bookmarkhistory.emptyText "북마크 및 방문 기록 검색">
+<!ENTITY urlbar.bookmark.emptyText    "북마크 검색">
+<!ENTITY urlbar.history.emptyText     "방문 기록 검색">
+<!ENTITY urlbar.none.emptyText        "웹 주소 입력">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
@@ -314,6 +318,7 @@
 <!ENTITY historyMenu.label "바로 가기">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "최근에 닫은 탭">
+<!ENTITY historyUndoWindowMenu.label "최근에 닫은 창">
 <!ENTITY historyHomeCmd.label "홈 페이지">
 <!ENTITY showAllHistoryCmd2.label "방문 기록 보기">
 <!ENTITY showAllHistoryCmd.commandkey "H">
