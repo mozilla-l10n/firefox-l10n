@@ -42,7 +42,7 @@
 <!ENTITY taskbarCmd.label "Statuslinje">
 <!ENTITY taskbarCmd.accesskey "a">
 
-<!ENTITY pageSourceCmd.label "Kjeldekoden til sida">
+<!ENTITY pageSourceCmd.label "Kjeldekode">
 <!ENTITY pageSourceCmd.accesskey "K">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Sideinformasjon">
@@ -56,7 +56,7 @@
 <!ENTITY fullScreenClose.tooltip "Lat att">
 <!ENTITY fullScreenAutohide.label "Skjul verktøylinjer">
 <!ENTITY fullScreenAutohide.accesskey "S">
-<!ENTITY fullScreenExit.label "Avslutt fullskjermvising">
+<!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
 <!ENTITY fullScreenExit.accesskey "v">
 
 <!ENTITY closeWindow.label "Lat att vindauge">
@@ -68,9 +68,9 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Abonnér på denne sida">
 <!ENTITY subscribeToPageMenuitem.label "Abonnér på denne sida …">
-<!ENTITY addCurPagesCmd.label "Bokmerk alle faner …">
-<!ENTITY organizeBookmarks.label "Handsame bokmerke …">
-<!ENTITY bookmarkAllCmd.label "Bokmerk alle faner …">
+<!ENTITY addCurPagesCmd.label "Bokmerk alle fanene …">
+<!ENTITY organizeBookmarks.label "Organiser bokmerke …">
+<!ENTITY bookmarkAllCmd.label "Bokmerk alle fanene … ">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
 
 <!ENTITY backCmd.label                "Tilbake">
@@ -79,7 +79,7 @@
 <!ENTITY forwardCmd.label             "Fram">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gå fram ei side">
-<!ENTITY backForwardMenu.tooltip      "Nylege sider">
+<!ENTITY backForwardMenu.tooltip      "Nylege brukte sider">
 <!ENTITY reloadCmd.label              "Oppdater">
 <!ENTITY reloadCmd.accesskey          "O">
 <!ENTITY reloadButton.tooltip         "Oppdater denne sida">
@@ -127,7 +127,7 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Utvidingar">
-<!ENTITY addons.tooltip               "Handsame installerte utvidingar">
+<!ENTITY addons.tooltip               "Vis og handsam installerte utvidingar">
 <!ENTITY addons.accesskey             "U">
 
 <!ENTITY errorConsoleCmd.label        "Feillogg">
@@ -268,11 +268,11 @@
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
 <!ENTITY bookmarkPageCmd2.label       "Legg til bokmerke …">
 <!ENTITY bookmarkPageCmd2.accesskey   "L">
-<!ENTITY bookmarkThisLinkCmd.label      "Legg til bokmerke for lenkja …">
+<!ENTITY bookmarkThisLinkCmd.label      "Bokmerk lenkje …">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Legg til bokmerke for ramma …">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "L">
-<!ENTITY sendPageCmd.label            "Send lenkje …">
+<!ENTITY bookmarkThisFrameCmd.label      "Bokmerk ramme …">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "r">
+<!ENTITY sendPageCmd.label            "Send lenkjeadresse …">
 <!ENTITY sendPageCmd.accesskey        "S">
 <!ENTITY savePageCmd.label            "Lagre sida som …">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -283,9 +283,9 @@
 <!ENTITY saveFrameCmd.accesskey       "a">
 <!ENTITY printFrameCmd.label          "Skriv ut ramme …">
 <!ENTITY printFrameCmd.accesskey      "k">
-<!ENTITY saveLinkCmd.label            "Lagre lenkja som …">
+<!ENTITY saveLinkCmd.label            "Lagre lenkje som …">
 <!ENTITY saveLinkCmd.accesskey        "L">
-<!ENTITY sendLinkCmd.label            "Send lenkje …"> 
+<!ENTITY sendLinkCmd.label            "Send lenkjeadresse …"> 
 <!ENTITY sendLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Lagre biletet som …">
 <!ENTITY saveImageCmd.accesskey       "b">
@@ -299,7 +299,7 @@
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "Send lyd …">
 <!ENTITY sendAudioCmd.accesskey       "n">
-<!ENTITY copyLinkCmd.label            "Kopier lenkjemål">
+<!ENTITY copyLinkCmd.label            "Kopier lenkjeadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyLinkTextCmd.label        "Kopier lenkjetekst">
 <!ENTITY copyLinkTextCmd.accesskey    "r">
