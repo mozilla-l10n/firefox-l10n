@@ -266,13 +266,13 @@
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label      "Sett som skrivebordsbakgrunn …">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
-<!ENTITY bookmarkPageCmd2.label       "Legg til bokmerke …">
-<!ENTITY bookmarkPageCmd2.accesskey   "L">
-<!ENTITY bookmarkThisLinkCmd.label      "Legg til bokmerke for lenke …">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Legg til bokmerke for ramme …">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "L">
-<!ENTITY sendPageCmd.label            "Send lenke …">
+<!ENTITY bookmarkPageCmd2.label       "Bokmerk …">
+<!ENTITY bookmarkPageCmd2.accesskey   "B">
+<!ENTITY bookmarkThisLinkCmd.label      "Bokmerk lenke …">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "B">
+<!ENTITY bookmarkThisFrameCmd.label      "Bokmerk ramme …">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "B">
+<!ENTITY sendPageCmd.label            "Send lenkeadresse …">
 <!ENTITY sendPageCmd.accesskey        "S">
 <!ENTITY savePageCmd.label            "Lagre side som …">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -285,7 +285,7 @@
 <!ENTITY printFrameCmd.accesskey      "k">
 <!ENTITY saveLinkCmd.label            "Lagre lenke som …">
 <!ENTITY saveLinkCmd.accesskey        "a">
-<!ENTITY sendLinkCmd.label            "Send lenke …">
+<!ENTITY sendLinkCmd.label            "Send lenkeadresse …">
 <!ENTITY sendLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Lagre bilde som …">
 <!ENTITY saveImageCmd.accesskey       "d">
@@ -299,14 +299,14 @@
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "Send lyd …">
 <!ENTITY sendAudioCmd.accesskey       "n">
-<!ENTITY copyLinkCmd.label            "Kopier lenkemål">
+<!ENTITY copyLinkCmd.label            "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyLinkTextCmd.label        "Kopier lenketekst">
 <!ENTITY copyLinkTextCmd.accesskey    "r">
 <!ENTITY copyImageCmd.label           "Kopier bildeadresse">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopier bilde">
-<!ENTITY copyImageContentsCmd.accesskey  "b">
+<!ENTITY copyImageContentsCmd.accesskey  "l">
 <!ENTITY copyVideoURLCmd.label        "Kopier videoadresse">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
