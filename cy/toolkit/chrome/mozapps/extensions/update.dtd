@@ -10,7 +10,7 @@ gyda'r fersiwn hon">
 <!ENTITY mismatch.win.title "Ategynnau Anghydweddus">
 <!ENTITY mismatch.top.label "Nid yw'r ychwanegion canlynol yn gymharus gyda'r fersiwn 
 yma o &brandShortName; ac maent wedi eu hanablu:">
-<!ENTITY mismatch.bottom.label "Mae &brandShortName; yn gallu gwirio am fersiynau cymharus
+<!ENTITY mismatch.bottom.label "Mae &brandShortName; yn gallu gwirio am fersiynau cymharus 
 o'r ychwanegion hyn ar gael.">
 
 <!ENTITY checking.wizard.title "Gwirio am Ategynnau sy'n Cydweddu">
@@ -36,9 +36,9 @@ hysbysu pan fydd diweddariad cymharus hyn ar gael.">
 
 <!ENTITY finished.wizard.title "Ategynnau Cydweddus wedi eu Gosod">
 <!ENTITY finished.top.label "Mae &brandShortName; wedi gosod diweddariadau i'ch ategynnau.">
-<!ENTITY finished.checkDisabled.desc "Gall &brandShortName; wirio o bryd i'w gilydd a'ch
+<!ENTITY finished.checkDisabled.desc "Gall &brandShortName; wirio o bryd i'w gilydd a'ch 
 hysbysu pan fydd diweddariadau ar gael.">
-<!ENTITY finished.checkEnabled.desc "Bydd &brandShortName; yn gwirio o bryd i'w gilydd a'ch
+<!ENTITY finished.checkEnabled.desc "Bydd &brandShortName; yn gwirio o bryd i'w gilydd a'ch 
 hysbysu pan fydd diweddariadau ar gael.">
 
 <!ENTITY adminDisabled.wizard.title "Methu Gwirio am Ddiweddariadau">
@@ -46,7 +46,7 @@ hysbysu pan fydd diweddariadau ar gael.">
 oherwydd mae gosod meddalwedd ar gyfer &brandShortName; wedi 
 ei anablu. Cysylltwch â'ch Gweinyddwr System am gymorth.">
 
-<!ENTITY versioninfo.wizard.title "Gwirio fod Ategynnau yn Gynharus">
+<!ENTITY versioninfo.wizard.title "Gwirio fod Ategynnau yn Cydweddu">
 <!ENTITY versioninfo.top.label "Gwirio pa ychwanegion sy'n gymharus gyda'r 
 fersiwn yma o &brandShortName;.">
 <!ENTITY versioninfo.waiting "Gall hyn gymryd ychydig o amser...">
@@ -56,7 +56,7 @@ fersiwn yma o &brandShortName;.">
 ddiweddaru rhai o'ch ychwanegion.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY clickFinish.label "Cliciwch Gorffen i gychwyn &brandShortName;.">
+<!ENTITY clickFinish.label "Clicio Gorffen i gychwyn &brandShortName;.">
 <!ENTITY clickFinish.labelMac "Cliciwch Gorffen i barhau i gychwyn &brandShortName;.">
 <!ENTITY enableChecking.label "Caniatáu i &brandShortName; wirio am ddiweddariadau.">
 <!ENTITY details.label "Manylion...">

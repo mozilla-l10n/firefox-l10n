@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc "Ni fydd &brandShortName; yn cofio unrhyw hahnes ar gyfer y sesiwn yma.">
 <!ENTITY privatebrowsingpage.issueDesc.normal "Nid yw &brandShortName; yn y modd Pori Preifat.">
 
-<!ENTITY privatebrowsingpage.description "Yn ystod sesiwn Pori Preifat ni fydd &BrandShortName; yn cadw unrhyw hanes pori, hanes chwilio, hanes llwytho i lawr, hanes ffurflenni gwe, cwcis ne ffeiliau gwe dros dro. Er hynny, bydd ffeiliau sydd wedi eu llwytho i lawr a nodau tudalen yn cael eu cadw.">
+<!ENTITY privatebrowsingpage.description "Yn ystod sesiwn Pori Preifat ni fydd &brandShortName; yn cadw unrhyw hanes pori, hanes chwilio, hanes llwytho i lawr, hanes ffurflenni gwe, cwcis ne ffeiliau gwe dros dro. Er hynny, bydd ffeiliau sydd wedi eu llwytho i lawr a nodau tudalen yn cael eu cadw.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 

@@ -58,7 +58,7 @@
 <!ENTITY pmDescription.label "Mae &brandShortName; yn storio gwybodaeth am eich gosodiadau, dewisiadau ac eitemau defnyddiwr arall yn eich proffil defnyddiwr.">
 
 <!ENTITY offlineState.label "Gweithio All-lein">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY offlineState.accesskey "g">
 
 <!ENTITY autoSelect.label "Peidiwch gofyn wrth gychwyn">
 <!ENTITY autoSelect.accesskey "g">

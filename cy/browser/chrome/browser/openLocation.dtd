@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Rhoi lleoliad gwe (URL), neu nodi'r ffeil leol hoffech ei hagor:">
+<!ENTITY enter.label "Rhowch leoliad gwe (URL), neu bennu ffeil leol yr hoffech ei hagor:">
 <!ENTITY chooseFile.label "Dewis Ffeil...">
 <!ENTITY newWindow.label "Ffenestr Newydd">
 <!ENTITY newTab.label "Tab Newydd">

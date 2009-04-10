@@ -47,7 +47,7 @@
 
 <!ENTITY resetPasswordButtonLabel "Ailosod">
 <!ENTITY resetPassword.title "Ailosod Prif Gyfrinair">
-<!ENTITY resetPassword.text "Os byddwch yn ailosod eich prif gyfrinair, bydd eich cyfrineiriau gwe ac e-bost, data ffurflen, tystysgrifau personol ac allweddi preifat sydd wedi eu cadw'n cael eu colli. Ydych chi'n siŵr eich bod eisiau ailosod eich prif gyfrinair?">
+<!ENTITY resetPassword.text "Os byddwch yn ailosod eich prif gyfrinair, bydd eich cyfrineiriau gwe ac e-bost, data ffurflen, tystysgrifau personol ac allweddi preifat sydd wedi eu cadw'n cael eu colli. Ydych chi'n s">
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Rhoi Prif Gyfrinair">
@@ -55,7 +55,7 @@
 <!ENTITY getPassword.password.label "Cyfrinair:">
 <!-- These should be common -->
 
-<!ENTITY piperror.title "GWALL">
+<!ENTITY piperror.title "Gwall">
 <!ENTITY pipalert.title "Gwall - methu adfer">
 <!-- Prefs panel strings -->
 
@@ -103,8 +103,8 @@
 <!ENTITY pkcs12.getpassword.title "Deialog Mynediad y Cyfrinair">
 <!ENTITY pkcs12.getpassword.message "Rhowch y cyfrinair ddefnyddiwyd i amgryptio'r ffeil tystysgrif wrth gefn.">
 
-<!ENTITY chooseToken.title "Deialog Dewis Tocyn">
-<!ENTITY chooseToken.message1 "Dewiswch docyn.">
+<!ENTITY chooseToken.title "Dewiswch Dialog Enghreifftiol">
+<!ENTITY chooseToken.message1 "Dewiswch arwydd.">
 
 <!ENTITY escrowWarn.title "Copi o Allwedd Amgryptio">
 <!ENTITY escrowWarn.message1 "Pwysig: Mae'r awdurdod tystysgrifo wedi gofyn i gael gwneud copi wrth gefn o'ch allwedd amgryptio breifat.">
@@ -117,7 +117,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Cynhyrchu Allwedd Breifat">
-<!ENTITY createCertInfo.msg1 "Wrthi'n Cynhyrchu Allwedd.. Gall hyn gymryd ychydig funudau...">
+<!ENTITY createCertInfo.msg1 "Wrthi'n Cynhyrchu Allwedd... Gall hyn gymryd ychydig o amser...">
 <!ENTITY createCertInfo.msg2 "Arhoswch...">
 <!-- Form Signing confirmation prompt -->
 

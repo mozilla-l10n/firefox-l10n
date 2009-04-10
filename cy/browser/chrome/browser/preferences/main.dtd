@@ -2,15 +2,15 @@
 
 <!ENTITY startupPage.label "Cychwyn &brandShortName;:">
 <!ENTITY startupPage.accesskey "c">
-<!ENTITY startupHomePage.label "Tudalen cartref">
-<!ENTITY startupBlankPage.label "Tudalen wag">
+<!ENTITY startupHomePage.label "Dangos fy nhudalen cartref">
+<!ENTITY startupBlankPage.label "Dangos tudalen wag">
 <!ENTITY startupLastSession.label "Ffenestri a thabiau tro diwethaf">
 <!ENTITY location.label "Tudalen Gartref:">
 <!ENTITY location.accesskey "T">
-<!ENTITY useCurrentPage.label "Tudalen Bresennol">
-<!ENTITY useCurrentPage.accesskey "T">
-<!ENTITY useMultiple.label "Tudalennau Presennol">
-<!ENTITY useBookmark.label "Nod Tudalen">
+<!ENTITY useCurrentPage.label "Defnyddio'r Dudalen Bresennol">
+<!ENTITY useCurrentPage.accesskey "D">
+<!ENTITY useMultiple.label "Defnyddio'r Tudalennau Presennol">
+<!ENTITY useBookmark.label "Defnyddio Nod Tudalen">
 <!ENTITY useBookmark.accesskey "N">
 <!ENTITY restoreDefault.label "Adfer i'r Rhagosodedig">
 <!ENTITY restoreDefault.accesskey "A">

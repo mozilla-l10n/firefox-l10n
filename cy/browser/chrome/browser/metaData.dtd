@@ -14,14 +14,14 @@
 <!ENTITY link-sec.label "Priodoleddau Cysylltiad ">
 <!ENTITY link-url.label "Cyfeiriad:">
 <!ENTITY link-target.label "Bydd yn agor yn:">
-<!ENTITY link-type.label "Math nod:">
-<!ENTITY link-lang.label "Iaith nod:">
+<!ENTITY link-type.label "Math targed:">
+<!ENTITY link-lang.label "Iaith targed:">
 <!ENTITY link-rel.label "Perthyn:">
-<!ENTITY link-rev.label "Perthynas gildro">
+<!ENTITY link-rev.label "Perthynas gildro:">
 <!ENTITY link-ping.label "Hysbysu:">
 <!ENTITY misc-sec.label "Priodoleddau Amrywiol">
 <!ENTITY misc-lang.label "Iaith Testun:">
 <!ENTITY misc-title.label "Teitl:">
-<!ENTITY misc-tblsummary.label "Tabl crynhoi:">
+<!ENTITY misc-tblsummary.label "Crynhoi'r tabl:">
 <!ENTITY quote-sec.label "Dyfynnu Priodoleddau">
 <!ENTITY quote-cite.label "Gwybodaeth:">
