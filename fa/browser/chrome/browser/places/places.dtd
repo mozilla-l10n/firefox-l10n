@@ -197,11 +197,9 @@
 <!ENTITY maintenance.accesskey  "و">
 
 <!ENTITY backCmd.label       "عقب">
-<!ENTITY backCmd.accesskey   "ع">
 <!ENTITY backButton.tooltip  "برگشتن">
 
 <!ENTITY forwardCmd.label       "جلو">
-<!ENTITY forwardCmd.accesskey   "ج">
 <!ENTITY forwardButton.tooltip  "جلو رفتن">
 
 <!ENTITY detailsPane.more.label "بیشتر">
