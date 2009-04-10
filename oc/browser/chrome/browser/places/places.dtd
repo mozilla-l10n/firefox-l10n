@@ -119,18 +119,8 @@
 <!ENTITY col.lastmodified.label "Darrièra modificacion">
 <!ENTITY search.label "Recercar :">
 <!ENTITY search.accesskey "R">
-<!ENTITY search.collection.label "Dins la seleccion actuala solament">
-<!ENTITY search.collection.accesskey "S">
-<!ENTITY search.allBookmarks.label "Totes los marcapaginas">
-<!ENTITY search.allBookmarks.accesskey "T">
 <!ENTITY search.scopeFolder.label "Repertòri seleccionat">
 <!ENTITY search.scopeFolder.accesskey "D">
-<!ENTITY search.scopeAll.label "Totes los marcapaginas">
-<!ENTITY search.scopeAll.accesskey "T">
-<!ENTITY search.scopeMenu.label "Menut dels marcapaginas">
-<!ENTITY search.scopeMenu.accesskey "m">
-<!ENTITY search.scopeToolbar.label "Barra dels marcapaginas">
-<!ENTITY search.scopeToolbar.accesskey "B">
 <!ENTITY search.scopeDownloads.label "Telecargaments">
 <!ENTITY search.scopeDownloads.accesskey "T">
 <!ENTITY search.scopeHistory.label "Istoric">
