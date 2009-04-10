@@ -4,6 +4,8 @@
 
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navigacion privada)">
 
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
 <!ENTITY tabCmd.label "Onglet novèl">
 <!ENTITY tabCmd.accesskey "O">
 <!ENTITY tabCmd.commandkey "t">
@@ -91,7 +93,8 @@
  -  key should not contain the letters A-F, since these are reserved
  -  shortcut keys on Linux. -->
 
-
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Istoric">
 <!ENTITY historyButton.tooltip "Visualizar las paginas visitadas recentament">
 <!ENTITY historySidebarCmd.accesskey "s">
