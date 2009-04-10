@@ -6,7 +6,7 @@
 <!ENTITY paneTabs.title "탭">
 <!ENTITY paneMain.title "일반">
 <!ENTITY paneSecurity.title "보안">
-<!ENTITY prefWin.styleWin2 "width: 42em; min-height: 42em;">
+<!ENTITY prefWin.styleWin3 "width: 42em; min-height: 39em;">
 <!ENTITY prefWin.styleMac2 "width: 47em; min-height: 43em;">
 <!ENTITY prefWin.styleGNOME2 "width: 42em; min-height: 42.5em;">
 <!ENTITY paneApplications.title "프로그램">

@@ -120,22 +120,14 @@
 <!ENTITY col.lastmodified.label "마지막 수정일">
 <!ENTITY search.label "검색:">
 <!ENTITY search.accesskey "S">
-<!ENTITY search.collection.label "현재 항목만">
-<!ENTITY search.collection.accesskey "C">
-<!ENTITY search.allBookmarks.label "북마크 전체">
-<!ENTITY search.allBookmarks.accesskey "A">
 <!ENTITY search.scopeFolder.label "현재 폴더">
 <!ENTITY search.scopeFolder.accesskey "F">
-<!ENTITY search.scopeAll.label "북마크 전체">
-<!ENTITY search.scopeAll.accesskey "A">
-<!ENTITY search.scopeMenu.label "북마크 메뉴">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "북마크 도구 모음">
-<!ENTITY search.scopeToolbar.accesskey "T">
+<!ENTITY search.scopeBookmarks.label     "북마크">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label "다운로드">
 <!ENTITY search.scopeDownloads.accesskey "D">
 <!ENTITY search.scopeHistory.label "방문 기록">
-<!ENTITY search.scopeHistory.accesskey "A">
+<!ENTITY search.scopeHistory.accesskey "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip "검색 설정 보이기">
 <!ENTITY search.scopeBarExpanderUp.tooltip "검색 설정 감추기">
 <!ENTITY saveSearch.label "저장">
