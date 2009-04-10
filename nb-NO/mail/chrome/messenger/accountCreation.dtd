@@ -1,0 +1,53 @@
+<!ENTITY welcome.description             "Hurtigoppsett">
+<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
+<!ENTITY name.description                "Navnet ditt">
+<!ENTITY email.description               "E-post">
+<!ENTITY password.description            "Passord">
+
+<!ENTITY username.label                  "brukernavn">
+<!ENTITY receivingserver.label           "mottak">
+<!ENTITY sendingserver.label             "sending">
+<!ENTITY noencryption.label              "Ingen">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY ssltls.label                    "SSL / TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY gotoadvanced.label              "Gå til avanserte innstillinger">
+<!ENTITY cancel.label                    "Avbryt">
+<!ENTITY stop.label                      "Stopp">
+<!ENTITY go_button.label                 "Gå">
+<!ENTITY edit.label                      "Rediger">
+<!ENTITY createaccount.label             "Opprett konto">
+
+<!ENTITY rememberpassword.label          "Husk passord">
+
+<!ENTITY warning.label                   "Advarsel!">
+<!ENTITY incoming_settings.label         "Innstillinger for innkommende:">
+<!ENTITY outgoing_settings.label         "Innstillinger for utgående:">
+<!ENTITY incoming_is_checked.label       "Jeg har dobbeltsjekket innstillinger for innkommende.">
+<!ENTITY outgoing_is_checked.label       "Jeg har dobbeltsjekket innstillinger for utgående.">
+<!ENTITY understood.label                "Jeg vet hva jeg driver med.">
+<!ENTITY getmeout.label                  "Dette er veldig skummelt, la meg gå herfra.">
+
+<!ENTITY lectureYourProvider.description "&brandShortName; lar deg få tilgang til e-posten din, men du bør be e-posttilbyderen din om å konfigurere tjeneren med en sikker tilkobling.">
+<!ENTITY getcertinfo.label       "Få mer informasjon om å sikre e-posttjenere.">
+<!ENTITY certinfo.url            "http://www.mozillamessaging.com/XXX/about/certs">
+
+<!ENTITY insecureCleartext.description   "Advarsel! Dette er en usikret tjener. E-post sendes i klartekst, så e-posten din kan muligens leses av angripere, osv. &brandShortName; vil la deg hente e-posten, men du bør be e-posttilbyderen din om å konfigurere tjeneren med en sikker tilkobling.">
+<!ENTITY insecureSelfsigned.description  "Advarsel! Dette er en usikret tjener. Tjeneren bruker et sertifikat som vi ikke kan stole på, så vi kan ikke være sikre på at noen ikke fanger opp trafikken mellom &brandShortName; og tjeneren. &brandShortName; vil la deg hente e-posten, men du bør be e-posttilbyderen din om å konfigurere tjeneren med et tiltrodd sertifikat.">
+<!ENTITY secureServer.description        "Gratulerer! Dette er en sikker tjener.">
+
+<!ENTITY customfields-header.label     "Annen informasjon">
+<!ENTITY customfields-intro1.descr     "Mer informasjon om din e-posttilbyder er nødvendig å for å konfigurere e-postkontoen din.">
+<!ENTITY customfields-intro2.descr     "Slå opp informasjonen på papiret eller e-posten du fikk om kontodetaljene fra din e-posttilbyder som du fikk når du registrerte deg der, og skriv inn nedenfor.">
+<!ENTITY customfields-cancel.label     "Tilbake">
+<!ENTITY customfields-ok.label         "OK">
+
+<!ENTITY enableURLs-header.label       "Aktiver kontoen for &brandShortName;">
+<!ENTITY enableURLs-intro1.descr       "Tilbyderen ber deg om å gjøre noe mer for å aktivere kontoen i &brandShortName;.">
+<!ENTITY enableURLs-intro2.descr       "Besøk nettsidene nedenfor, logg inn på kontoen din der det er nødvendig, og følg instruksjonene nedenfor eller de på nettsiden.">
+<!ENTITY enableURLs-cancel.label       "Tilbake">
+<!ENTITY enableURLs-ok.label           "Jeg har gjort det nå">

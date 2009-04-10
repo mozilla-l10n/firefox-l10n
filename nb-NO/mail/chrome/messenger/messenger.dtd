@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "L">
 <!ENTITY newAccountCmd.label "Konto …">
 <!ENTITY newAccountCmd.accesskey "K">
+<!ENTITY newMailAccountCmd.label "E-postkonto (hurtigoppsett) …">
+<!ENTITY newMailAccountCmd.accesskey "Q">
 <!ENTITY openMessageFileCmd.label "Åpne lagret melding …">
 <!ENTITY openMessageFileCmd.accesskey "Å">
 <!ENTITY openAttachmentCmd.label "Vedlegg">
