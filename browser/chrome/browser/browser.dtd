@@ -21,8 +21,8 @@
 <!ENTITY openFileCmd.label "Åpne fil …">
 <!ENTITY openFileCmd.accesskey "Å">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Sideoppsett …">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.label "Utskriftsformat …">
+<!ENTITY printSetupCmd.accesskey "k">
 <!ENTITY printPreviewCmd.label "Forhåndsvis side">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut …">

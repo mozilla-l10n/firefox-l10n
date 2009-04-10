@@ -77,8 +77,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "L">
 <!ENTITY  event.menu.file.save.label                      "Lagre">
 <!ENTITY  event.menu.file.save.accesskey                  "a">
-<!ENTITY  event.menu.file.page.setup.label                "Sideoppsett">
-<!ENTITY  event.menu.file.page.setup.accesskey            "o">
+<!ENTITY  event.menu.file.page.setup.label                "Utskriftsformat">
+<!ENTITY  event.menu.file.page.setup.accesskey            "k">
 <!ENTITY  event.menu.file.print.label                     "Skriv ut">
 <!ENTITY  event.menu.file.print.accesskey                 "k">
 
