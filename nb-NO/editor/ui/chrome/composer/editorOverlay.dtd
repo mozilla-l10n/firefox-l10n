@@ -77,8 +77,8 @@
 <!ENTITY previewCmd.accesskey "v">
 <!ENTITY sendPageCmd.label "Send side …">
 <!ENTITY sendPageCmd.accesskey "s">
-<!ENTITY printSetupCmd.label "Sideoppsett …">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.label "Utskriftsformat …">
+<!ENTITY printSetupCmd.accesskey "k">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.key "P">

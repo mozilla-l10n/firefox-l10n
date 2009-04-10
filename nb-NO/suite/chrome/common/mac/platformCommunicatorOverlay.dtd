@@ -24,8 +24,8 @@
 <!ENTITY closeCmd.label                 "Lukk">  
 <!ENTITY closeCmd.key                   "W">  
 
-<!ENTITY printSetupCmd.label            "Sideoppsett ...">
-<!ENTITY printSetupCmd.accesskey        "u">
+<!ENTITY printSetupCmd.label            "Utskriftsformat …">
+<!ENTITY printSetupCmd.accesskey        "k">
 
 <!ENTITY redoCmd.label                  "Gjenta">  
 <!ENTITY redoCmd.key                    "Z">  
