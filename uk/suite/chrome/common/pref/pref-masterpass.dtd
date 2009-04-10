@@ -21,6 +21,7 @@
    - Contributor(s):
    -   Bob Lord <lord@netscape.com>
    -   Terry Hayes <thayes@netscape.com>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,24 +36,21 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY  pref.masterpass.title                  "Master Passwords">
-<!ENTITY  managepassword.caption                 "Master Password Timeout">
-<!ENTITY  managepassword.text                    "&brandShortName; will ask for your master password:">
-<!ENTITY  managepassword.askfirsttime            "The first time it is needed">
-<!ENTITY  managepassword.askfirsttime.accesskey  "T">
-<!ENTITY  managepassword.askeverytime            "Every time it is needed">
-<!ENTITY  managepassword.askeverytime.accesskey  "E">
-<!ENTITY  managepassword.asktimeout              "If it has not been used for ">
-<!ENTITY  managepassword.asktimeout.accesskey    "n">
-<!ENTITY  managepassword.timeout.unit            "minutes or longer">
-
-<!ENTITY  changepassword.caption                 "Change Master Password">
-<!ENTITY  changepassword.text                    "Your master password protects sensitive information such as web passwords and certificates.">
-<!ENTITY  changepassword.button                  "Change Password…">
-<!ENTITY  changepassword.accesskey               "C">
-
-<!ENTITY  resetpassword.caption                  "Reset Master Password">
-<!ENTITY  resetpassword.text                     "If you reset your master password, all of your stored web and e-mail passwords, form data, personal certificates, and private keys will be lost.">
-<!ENTITY  resetpassword.button                   "Reset Password">
-<!ENTITY  resetpassword.accesskey                "R">
+<!ENTITY pref.masterpass.title "Master Passwords">
+<!ENTITY managepassword.caption "Master Password Timeout">
+<!ENTITY managepassword.text "&brandShortName; will ask for your master password:">
+<!ENTITY managepassword.askfirsttime "The first time it is needed">
+<!ENTITY managepassword.askfirsttime.accesskey "T">
+<!ENTITY managepassword.askeverytime "Every time it is needed">
+<!ENTITY managepassword.askeverytime.accesskey "E">
+<!ENTITY managepassword.asktimeout "If it has not been used for ">
+<!ENTITY managepassword.asktimeout.accesskey "n">
+<!ENTITY managepassword.timeout.unit "minutes or longer">
+<!ENTITY changepassword.caption "Зміна головного пароля">
+<!ENTITY changepassword.text "Your master password protects sensitive information such as web passwords and certificates.">
+<!ENTITY changepassword.button "Change Password…">
+<!ENTITY changepassword.accesskey "C">
+<!ENTITY resetpassword.caption "Скидання головного пароля">
+<!ENTITY resetpassword.text "If you reset your master password, all of your stored web and e-mail passwords, form data, personal certificates, and private keys will be lost.">
+<!ENTITY resetpassword.button "Reset Password">
+<!ENTITY resetpassword.accesskey "R">

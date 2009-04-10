@@ -21,6 +21,7 @@
    - Contributor(s):
    -   Sean Su <ssu@netscape.com>
    -   Karsten Düsterloh <mnyromyr@tprac.de>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,20 +36,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY pref.tags.title            "Tags">
-<!ENTITY pref.tags.caption          "Customize Tags">
-<!ENTITY pref.tags.description      "Tags can be used to categorize and prioritize your messages. Modify the appearance and importance of tags using the settings below. Tags near the top are more important than those further down.">
-<!ENTITY tagColumn.label            "Tag">
-<!ENTITY colorColumn.label          "Color">
-<!ENTITY defaultTagName.label       "Untitled Tag">
-<!ENTITY addTagButton.label         "Add">
-<!ENTITY addTagButton.accesskey     "A">
-<!ENTITY deleteTagButton.label      "Delete">
-<!ENTITY deleteTagButton.accesskey  "D">
-<!ENTITY raiseTagButton.label       "Raise Importance">
-<!ENTITY raiseTagButton.accesskey   "R">
-<!ENTITY lowerTagButton.label       "Lower Importance">
-<!ENTITY lowerTagButton.accesskey   "L">
-<!ENTITY restoreButton.label        "Restore Defaults">
-<!ENTITY restoreButton.accesskey    "s">
+<!ENTITY pref.tags.title "Ключові слова">
+<!ENTITY pref.tags.caption "Customize Tags">
+<!ENTITY pref.tags.description "Tags can be used to categorize and prioritize your messages. Modify the appearance and importance of tags using the settings below. Tags near the top are more important than those further down.">
+<!ENTITY tagColumn.label "Позначка">
+<!ENTITY colorColumn.label "Колір">
+<!ENTITY defaultTagName.label "Untitled Tag">
+<!ENTITY addTagButton.label "Додати">
+<!ENTITY addTagButton.accesskey "Д">
+<!ENTITY deleteTagButton.label "Вилучити">
+<!ENTITY deleteTagButton.accesskey "В">
+<!ENTITY raiseTagButton.label "Raise Importance">
+<!ENTITY raiseTagButton.accesskey "R">
+<!ENTITY lowerTagButton.label "Lower Importance">
+<!ENTITY lowerTagButton.accesskey "L">
+<!ENTITY restoreButton.label "Відновити типові значення">
+<!ENTITY restoreButton.accesskey "В">

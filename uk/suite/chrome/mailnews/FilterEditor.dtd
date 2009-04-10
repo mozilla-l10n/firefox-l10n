@@ -1,95 +1,35 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-    Alec Flett <alecf@netscape.com>
-    Seth Spitzer <sspitzer@netscape.com>
-    Allan Masri <amasri@netscape.com>
-    Henrik Gemal <bugzilla@gemal.dk>
-    Gayatri Bhimaraju <gayatrib@netscape.com>
-    Stephen Donner <stephend@netscape.com>
-    Gervase Markham <gervase.markham@univ.ox.ac.uk>
-    Håkan Waara <hwaara@chello.se>
-    Navin Gupta <naving@netscape.com>
-    David Bienvenu <bienvenu@netscape.com>
-    Sean Su <ssu@netscape.com>
-    Serge Gautheri <gautheri@noos.fr>
-    Scott MacGregor <scott@scott-macgregor.org>
-    Howard Chu <hyc@symas.com>
-    Mark Banner <mark@standard8.demon.co.uk>
-    Mike Shaver <shaver@mozilla.org>
-    Karsten Düsterloh <mnyromyr@tprac.de>
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY window.title "Filter Rules">
-
-<!ENTITY filterName.label "Filter name:">
-<!ENTITY filterName.accesskey "i">
-
-<!ENTITY junk.label "Junk">
-<!ENTITY notJunk.label "Not Junk">
-
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowPriorityCmd.label "Low">
-<!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highestPriorityCmd.label "Highest">
-
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-
-<!ENTITY filterActionDesc.label "Perform these actions:">
-<!ENTITY filterActionDesc.accesskey "P">
-
-<!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Move Message to">
-<!ENTITY copyMessage.label "Copy Message to">
-<!ENTITY forwardTo.label "Forward Message to">
-<!ENTITY replyWithTemplate.label "Reply with Template">
-<!ENTITY markMessageRead.label "Mark As Read">
+<!--null-->
+<!ENTITY window.title "Правила фільтрації">
+<!ENTITY filterName.label "Назва фільтру:">
+<!ENTITY filterName.accesskey "Н">
+<!ENTITY junk.label "Спам">
+<!ENTITY notJunk.label "Не спам">
+<!ENTITY lowestPriorityCmd.label "найнижчу">
+<!ENTITY lowPriorityCmd.label "низьку">
+<!ENTITY normalPriorityCmd.label "Звичайні">
+<!ENTITY highPriorityCmd.label "високу">
+<!ENTITY highestPriorityCmd.label "найвищу">
+<!ENTITY contextDesc.label "Застосувати фільтр:">
+<!ENTITY contextDesc.accesskey "З">
+<!ENTITY contextIncoming.label "При перевірці пошти">
+<!ENTITY contextManual.label "Вручну">
+<!ENTITY contextBoth.label "При перевірці пошти чи вручну">
+<!ENTITY filterActionDesc.label "Виконувати наступні дії:">
+<!ENTITY filterActionDesc.accesskey "В">
+<!ENTITY moveMessage.label "Перемістити повідомлення у">
+<!ENTITY copyMessage.label "Перемістити повідомлення у">
+<!ENTITY forwardTo.label "Переслати повідомлення до">
+<!ENTITY replyWithTemplate.label "Відповісти за шаблоном">
+<!ENTITY markMessageRead.label "Відмітити як прочитане">
 <!ENTITY markMessageStarred.label "Mark As Flagged">
 <!ENTITY labelMessage.label "Label Message As">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY addTag.label "Tag Message">
-<!ENTITY setJunkScore.label "Set Junk Status to">
-<!ENTITY deleteMessage.label "Delete Message">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY watchThread.label "Watch Thread">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY setPriority.label "Змінити важливість на">
+<!ENTITY addTag.label "Позначити повідомлення">
+<!ENTITY setJunkScore.label "Встановити ознаку спаму">
+<!ENTITY deleteMessage.label "Вилучити повідомлення">
+<!ENTITY deleteFromPOP.label "Вилучити з поштового сервера">
+<!ENTITY fetchFromPOP.label "Завантажити з поштового сервера">
+<!ENTITY ignoreThread.label "Пропустити обговорення">
+<!ENTITY ignoreSubthread.label "Ігнорувати гілку">
+<!ENTITY watchThread.label "Відстежувати обговорення">
+<!ENTITY stopExecution.label "Припинити роботу фільтра">

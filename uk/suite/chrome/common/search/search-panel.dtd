@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Robert John Churchill <rjc@netscape.com>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -34,17 +35,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY search.button.label      "Search">
-<!ENTITY allengines.label         "All Engines">
-<!ENTITY within.label             "within">
-<!ENTITY using.label              "using">
-<!ENTITY choose.label             "Choose search engines, then click Search">
-<!ENTITY results.label            "Search Results">
-<!ENTITY engine.column.label      "Search Engines">
+<!ENTITY search.button.label "Пошук">
+<!ENTITY allengines.label "All Engines">
+<!ENTITY within.label "within">
+<!ENTITY using.label "using">
+<!ENTITY choose.label "Choose search engines, then click Search">
+<!ENTITY results.label "Search Results">
+<!ENTITY engine.column.label "Засобів пошуку">
 <!ENTITY customize.menuitem.label "Edit Categories …">
-<!ENTITY next.button.label        "Next">
-<!ENTITY previous.button.label    "Previous">
-<!ENTITY next.button.tooltip      "Show next search results">
-<!ENTITY previous.button.tooltip  "Show previous search results">
-
+<!ENTITY next.button.label "Далі">
+<!ENTITY previous.button.label "Назад">
+<!ENTITY next.button.tooltip "Show next search results">
+<!ENTITY previous.button.tooltip "Show previous search results">
