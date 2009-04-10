@@ -1,5 +1,7 @@
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.tabtitle       "Restaurar la sesilha">
+<!ENTITY restorepage.pagetitle      "Volètz restaurar vòstra sesilha ?">
 
 <!ENTITY restorepage.errorTitle     "Bon, es embestiant.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; a de problèmas a recobrar vòstres fenèstras e onglets. En general, lo problèma ven d'una pagina web dobèrta fa pauc de temps.">
