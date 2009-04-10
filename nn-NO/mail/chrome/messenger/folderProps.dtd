@@ -68,7 +68,7 @@
 <!ENTITY retentionApplyToFlagged.label "Ta alltid vare på meldingar merkt med stjerne">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 
-<!ENTITY folderOfflineTab.label                  "Fråkopla">
+<!ENTITY folderSynchronizationTab.label          "Synkronisering">
 <!ENTITY folderCheckForNewMessages.label         "Sjå etter nye meldingar for denne mappa">
 <!ENTITY folderCheckForNewMessages.accesskey     "S">
 
