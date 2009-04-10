@@ -87,6 +87,11 @@
 <!ENTITY bookmarksSidebarCmd.accesskey  "m">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+ -  key should not contain the letters A-F, since these are reserved
+ -  shortcut keys on Linux. -->
+
+
 <!ENTITY historyButton.label "Istoric">
 <!ENTITY historyButton.tooltip "Visualizar las paginas visitadas recentament">
 <!ENTITY historySidebarCmd.accesskey "s">
@@ -154,11 +159,17 @@
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Onglets tampats recentament">
 <!ENTITY historyHomeCmd.label "Acuèlh">
+<!ENTITY historyUndoWindowMenu.label "Fenèstras tampadas recentament">
 <!ENTITY showAllHistoryCmd2.label "Visualizar tot l'istoric">
 <!ENTITY showAllHistoryCmd.commandkey "i">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Recercar dins los marcapaginas e l'istoric">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.emptyText             "Recercar dins los marcapaginas e l'istoric">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Recercar dins los marcapaginas e l'istoric">
+<!ENTITY urlbar.bookmark.emptyText    "Recercar dins los marcapaginas">
+<!ENTITY urlbar.history.emptyText     "Recercar dins l'istoric">
+<!ENTITY urlbar.none.emptyText        "Picatz una adreça web">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
