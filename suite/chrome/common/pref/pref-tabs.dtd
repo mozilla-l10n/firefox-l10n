@@ -10,7 +10,6 @@
 <!ENTITY loadGroupReplace.label "Replace existing tabs">
 <!ENTITY loadGroupReplace.accesskey "R">
 <!ENTITY openTabs.label "Open tabs instead of windows for">
-
 <!ENTITY newWindow.label "Link open behavior">
 <!ENTITY newWindowDescription.label "Open links meant to open a new window in">
 <!ENTITY external.label "Links from other applications">

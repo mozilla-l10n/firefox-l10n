@@ -1,4 +1,4 @@
-<!ENTITY appManager.title     "Application details">
-<!ENTITY appManager.style     "width: 40ch; min-height: 20em;">
-<!ENTITY remove.label         "Remove">
-<!ENTITY remove.accesskey     "R">
+<!ENTITY appManager.title "Подробиці програми">
+<!ENTITY appManager.style "width: 40ch; min-height: 20em;">
+<!ENTITY remove.label "Вилучити">
+<!ENTITY remove.accesskey "В">

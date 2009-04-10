@@ -1,29 +1,22 @@
-<!-- extracted from content/pref-colors.xul -->
-
-<!-- LOCALIZATION NOTE : FILE Color management prefs -->
-<!ENTITY pref.colors.title                 "Colors">
-<!ENTITY color                             "Text and Background">
-<!ENTITY textColor.label                   "Text:">
-<!ENTITY textColor.accesskey               "T">
-<!ENTITY backgroundColor.label             "Background:">
-<!ENTITY backgroundColor.accesskey         "B">
-<!ENTITY useSystemColors.label             "Use system colors">
-<!ENTITY useSystemColors.accesskey         "s">
-
-<!ENTITY underlineLinks.label              "Underline links">
-<!ENTITY underlineLinks.accesskey          "U">
-<!ENTITY links                             "Link Colors">
-<!ENTITY linkColor.label                   "Unvisited Links:">
-<!ENTITY linkColor.accesskey               "L">
-<!ENTITY activeLinkColor.label             "Active Links:">
-<!ENTITY activeLinkColor.accesskey         "c">
-<!ENTITY visitedLinkColor.label            "Visited Links:">
-<!ENTITY visitedLinkColor.accesskey        "V">
-<!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
-<!ENTITY someProvColors                    "When a web page provides its own colors and background">
-<!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
-<!ENTITY alwaysUseDocumentColors.label     "Always use the colors and background specified by the web page">
+<!ENTITY pref.colors.title "Кольори">
+<!ENTITY color "Текст та тло">
+<!ENTITY textColor.label "Текст:">
+<!ENTITY textColor.accesskey "Т">
+<!ENTITY backgroundColor.label "Тло:">
+<!ENTITY backgroundColor.accesskey "Т">
+<!ENTITY useSystemColors.label "Використовувати системні кольори">
+<!ENTITY useSystemColors.accesskey "В">
+<!ENTITY underlineLinks.label "Підкреслювати посилання">
+<!ENTITY underlineLinks.accesskey "П">
+<!ENTITY links "Колір посилань">
+<!ENTITY linkColor.label "Невідвідані посилання:">
+<!ENTITY linkColor.accesskey "Н">
+<!ENTITY activeLinkColor.label "Active Links:">
+<!ENTITY activeLinkColor.accesskey "c">
+<!ENTITY visitedLinkColor.label "Відвідані посилання:">
+<!ENTITY visitedLinkColor.accesskey "В">
+<!ENTITY someProvColors "When a web page provides its own colors and background">
+<!ENTITY alwaysUseDocumentColors.label "Always use the colors and background specified by the web page">
 <!ENTITY alwaysUseDocumentColors.accesskey "A">
-<!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
-<!ENTITY useMyColors.label                 "Use my chosen colors, ignoring the colors and background image specified">
-<!ENTITY useMyColors.accesskey             "m">
+<!ENTITY useMyColors.label "Use my chosen colors, ignoring the colors and background image specified">
+<!ENTITY useMyColors.accesskey "m">

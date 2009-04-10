@@ -19,6 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -33,18 +34,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY results.title.label         "Results:">
-
-<!ENTITY name.column.label           "Name">
-<!ENTITY relevance.column.label      "Relevance">
-<!ENTITY pagerank.column.label       "Page Ranking">
-<!ENTITY price.column.label          "Price">
-<!ENTITY availability.column.label   "Availability">
-<!ENTITY date.column.label           "Date">
-<!ENTITY site.column.label           "Internet Site">
-<!ENTITY results.header.label        "Search Results">
-<!ENTITY engine.column.label         "Search Engine">
-<!ENTITY viewbyprovider.label        "View by search engine:">
-<!ENTITY allresults.title.label      "All results combined">
-<!ENTITY internetresults.title       "Search Results">
+<!ENTITY results.title.label "Results:">
+<!ENTITY name.column.label "Ім’я">
+<!ENTITY relevance.column.label "Relevance">
+<!ENTITY pagerank.column.label "Page Ranking">
+<!ENTITY price.column.label "Price">
+<!ENTITY availability.column.label "Availability">
+<!ENTITY date.column.label "Дата">
+<!ENTITY site.column.label "Internet Site">
+<!ENTITY results.header.label "Search Results">
+<!ENTITY engine.column.label "Search Engine">
+<!ENTITY viewbyprovider.label "View by search engine:">
+<!ENTITY allresults.title.label "All results combined">
+<!ENTITY internetresults.title "Search Results">

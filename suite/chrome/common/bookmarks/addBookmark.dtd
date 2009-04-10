@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Ben Goodger <ben@netscape.com> (Original Author)
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -34,17 +35,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-  
-<!ENTITY newBookmark.title          "File Bookmark">
-<!ENTITY selectFolder.title         "Choose Folder">
-<!ENTITY name.label                 "Name:">
-<!ENTITY name.accesskey             "N">
-<!ENTITY url.label                  "Location:">
-<!ENTITY url.accesskey              "L">
-<!ENTITY shortcutURL.label          "Keyword:">
-<!ENTITY shortcutURL.accesskey      "K">
-<!ENTITY destination.label          "Destination:">
-<!ENTITY newFolder.label            "New Folder…">
-<!ENTITY newFolder.accesskey        "w">
-<!ENTITY addGroup.label             "Bookmark this group of tabs">
-<!ENTITY addGroup.accesskey         "B">
+<!ENTITY newBookmark.title "File Bookmark">
+<!ENTITY selectFolder.title "Оберіть теку">
+<!ENTITY name.label "Назва:">
+<!ENTITY name.accesskey "Н">
+<!ENTITY url.label "Місце:">
+<!ENTITY url.accesskey "М">
+<!ENTITY shortcutURL.label "Скорочення:">
+<!ENTITY shortcutURL.accesskey "С">
+<!ENTITY destination.label "Destination:">
+<!ENTITY newFolder.label "Створити теку…">
+<!ENTITY newFolder.accesskey "С">
+<!ENTITY addGroup.label "Bookmark this group of tabs">
+<!ENTITY addGroup.accesskey "B">

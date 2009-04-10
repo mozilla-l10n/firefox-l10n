@@ -1,7 +1,7 @@
 <!ENTITY pref.keyNav.title "Keyboard Navigation">
 <!ENTITY tabNavigationBehavior.label "Tab Key Navigation">
-<!ENTITY tabNavigationLinks.label "Links">
-<!ENTITY tabNavigationLinks.accesskey "L">
+<!ENTITY tabNavigationLinks.label "Посилання">
+<!ENTITY tabNavigationLinks.accesskey "П">
 <!ENTITY tabNavigationForms.label "Buttons, radio buttons, checkboxes, and selection lists">
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Note: text boxes and scrollable regions are always part of the tabbing order.">
@@ -18,4 +18,3 @@
 <!ENTITY findAsYouTypeAutoText.accesskey "A">
 <!ENTITY findAsYouTypeAutoLinks.label "Links only">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "o">
-

@@ -23,6 +23,7 @@
    -   Mohan Bhamidipati <mohanb@netscape.com>
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,28 +38,25 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY folderProps.windowtitle.label           "Properties">
-
-<!ENTITY generalInfo.label                       "General Information">
-<!ENTITY folderCharsetTab.label                  "Default Character Encoding:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Rebuild Summary File">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File">
-
-<!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseDefault.label "Use server defaults">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
+<!ENTITY folderProps.windowtitle.label "Властивості">
+<!ENTITY generalInfo.label "Основна інформація">
+<!ENTITY folderCharsetTab.label "Кодування за умовчанням:">
+<!ENTITY folderCharsetTab.accesskey "К">
+<!ENTITY folderCharsetOverride.label "Використовувати як кодування за умовчанням для всіх повідомлень в теці (ігнорувати кодування, визначені для окремих повідомлень, і автовизначення).">
+<!ENTITY folderCharsetOverride.accesskey "В">
+<!ENTITY folderRebuildSummaryFile.label "Оновити файл статистики">
+<!ENTITY folderRebuildSummaryFile.accesskey "О">
+<!ENTITY folderRebuildSummaryFileTip.label "Оновити файл статистики">
+<!ENTITY retention.label "Налаштування збереження повідомлень">
+<!ENTITY retentionUseDefault.label "Використовувати параметри сервера за умовчанням">
+<!ENTITY retentionUseDefault.accesskey "В">
+<!ENTITY daysOld.label "днів">
+<!ENTITY message.label "повідомлень">
 <!ENTITY retentionCleanup.label "Keep messages:">
 <!ENTITY retentionCleanupImap.label "Keep messages, both the local copies and their originals on the server:">
 <!ENTITY retentionCleanupPop.label "Keep messages, including their originals on the server:">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
-<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Видаляти листи більші ніж">
+<!ENTITY retentionDeleteMsg.accesskey "В">
 <!ENTITY retentionKeepAll.label "All messages">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "The newest">
@@ -67,33 +65,27 @@
 <!ENTITY retentionKeepUnread.accesskey "u">
 <!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-
-<!ENTITY folderSynchronizationTab.label          "Synchronization">
-<!ENTITY folderCheckForNewMessages.label         "Check this folder for new messages">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
-
-<!ENTITY offlineFolder.check.label               "Select this folder for offline use">
-<!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Download Now">
-<!ENTITY offlineFolder.button.accesskey          "D">
-
-<!ENTITY selectofflineNewsgroup.check.label      "Select this newsgroup for offline use">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY offlineNewsgroup.button.label           "Download Now">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
-
-<!ENTITY folderProps.name.label                  "Name:">
-<!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Location:">
-<!ENTITY folderProps.location.accesskey          "L">
-
-<!ENTITY folderSharingTab.label                  "Sharing">
-<!ENTITY privileges.button.label                 "Privileges…">
-<!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "You have the following permissions:">
-<!ENTITY folderType.label                        "Folder Type:">
-
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Usage:">
-<!ENTITY folderQuotaStatus.label                 "Status:">
+<!ENTITY folderSynchronizationTab.label "Синхронізація">
+<!ENTITY folderCheckForNewMessages.label "Перевіряти цю теку на наявність нових повідомлень">
+<!ENTITY folderCheckForNewMessages.accesskey "П">
+<!ENTITY offlineFolder.check.label "Вибрати цю теку для автономної роботи">
+<!ENTITY offlineFolder.check.accesskey "В">
+<!ENTITY offlineFolder.button.label "Завантажити зараз">
+<!ENTITY offlineFolder.button.accesskey "З">
+<!ENTITY selectofflineNewsgroup.check.label "Вибрати цю конференцію для автономної роботи">
+<!ENTITY selectofflineNewsgroup.check.accesskey "В">
+<!ENTITY offlineNewsgroup.button.label "Завантажити зараз">
+<!ENTITY offlineNewsgroup.button.accesskey "З">
+<!ENTITY folderProps.name.label "Назва:">
+<!ENTITY folderProps.name.accesskey "Н">
+<!ENTITY folderProps.location.label "Місце:">
+<!ENTITY folderProps.location.accesskey "М">
+<!ENTITY folderSharingTab.label "Сумісне використання">
+<!ENTITY privileges.button.label "Привілеї…">
+<!ENTITY privileges.button.accesskey "П">
+<!ENTITY permissionsDesc.label "У вас є наступні права:">
+<!ENTITY folderType.label "Тип теки:">
+<!ENTITY folderQuotaTab.label "Квота">
+<!ENTITY folderQuotaRoot.label "Квота:">
+<!ENTITY folderQuotaUsage.label "Використано:">
+<!ENTITY folderQuotaStatus.label "Стан:">
