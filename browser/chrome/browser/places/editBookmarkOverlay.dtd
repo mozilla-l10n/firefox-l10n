@@ -3,9 +3,9 @@
 <!ENTITY editBookmarkOverlay.location.label "Lleoliad:">
 <!ENTITY editBookmarkOverlay.location.accesskey "L">
 <!ENTITY editBookmarkOverlay.feedLocation.label "Lleoliad Llif:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey "I">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey "O">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Lleoliad Gwefan:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey "L">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey "G">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Teitlau Byw">
 <!ENTITY editBookmarkOverlay.folder.label "Ffolder:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Dangos pob ffolder nod tudalen">

@@ -10,9 +10,9 @@
 <!ENTITY bySite.accesskey "G">
 <!ENTITY view.label "Golwg">
 <!ENTITY view.accesskey "g">
-<!ENTITY byMostVisited.label "Amlder Ymweliad">
+<!ENTITY byMostVisited.label "Amlaf Ymwelwyd">
 <!ENTITY byMostVisited.accesskey "A">
-<!ENTITY byLastVisited.label "Yn ôl Ymweliad">
+<!ENTITY byLastVisited.label "Ymwelwyd Diwethaf">
 <!ENTITY byLastVisited.accesskey "Y">
 <!ENTITY byDayAndSite.label "Yn ôl Dyddiad a Gwefan">
 <!ENTITY byDayAndSite.accesskey "d">

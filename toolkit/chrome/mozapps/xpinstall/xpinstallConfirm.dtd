@@ -3,7 +3,7 @@
 <!ENTITY dialog.title "Gosod Meddalwedd">
 <!ENTITY dialog.style "width: 45em">
 <!ENTITY warningPrimary.label "Gosodwch ychwanegion gan awduron rydych yn ymddiried ynddynt.">
-<!ENTITY warningSecondary.label "Gall feddalwedd niweidiol ddifrodi eich cyfrifiadur neu dorri ar eich preifatrwydd.">
+<!ENTITY warningSecondary.label "Gall feddalwedd niweidiol ddifrodi eich cyfrifiadur neu darfu ar eich preifatrwydd.">
 
 <!ENTITY from.label "oddi wrth:">
 

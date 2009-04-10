@@ -1,5 +1,7 @@
 <!ENTITY history.label "Hanes">
 
+<!ENTITY locationBar.label "Bar Lleoliad">
+
 <!ENTITY locbar.pre.label "Wrth ddefnyddio'r bar lleoliad, cynnig:">
 <!ENTITY locbar.pre.accessKey "l">
 <!ENTITY locbar.post.label "">
@@ -54,6 +56,57 @@
 
 <!ENTITY clearDataSettings.label "Gosodiadau...">
 <!ENTITY clearDataSettings.accesskey "g">
+
+<!ENTITY historyHeader.pre.label "bydd &brandShortName; yn:">
+<!ENTITY historyHeader.pre.accesskey "F">
+<!ENTITY historyHeader.remember.label "Cofio hanes">
+<!ENTITY historyHeader.dontremember.label "Peidio cofio hanes">
+<!ENTITY historyHeader.custom.label "Defnyddio gosodiadau addasu ar gyfer hanes">
+<!ENTITY historyHeader.post.label "">
+
+<!ENTITY rememberDescription.label "Bydd &brandShortName; yn cofio eich hanes pori, llwytho, ffurflenni a chwilio ac yn cadw eich cwcis rhag Gwefannau byddwch yn ymweld â nhw.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY rememberActions.pre.label "Efallai hoffech wybod">
+<!ENTITY rememberActions.clearHistory.label "clirio eich hanes diweddar">
+<!ENTITY rememberActions.middle.label ", neu">
+<!ENTITY rememberActions.removeCookies.label "tynnu cwcis unigol">
+<!ENTITY rememberActions.post.label ".">
+
+<!ENTITY dontrememberDescription.label "Bydd &brandShortName; yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY dontrememberActions.pre.label "Efallai y byddwch eisiau">
+<!ENTITY dontrememberActions.clearHistory.label "clirio'r holl hanes presennol">
+<!ENTITY dontrememberActions.post.label ".">
+
+<!ENTITY privateBrowsingAutoStart.label "Cychwyn &brandShortName; yn awtomatig mewn sesiwn pori preifat">
+<!ENTITY privateBrowsingAutoStart.accesskey "a">
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+
+<!ENTITY rememberHistory.pre.label "Cofio hanes fy mhori preifat am o leiaf">
+<!ENTITY rememberHistory.pre.accesskey "h">
+<!ENTITY rememberHistory.post.label "diwrnod">
+
+<!ENTITY rememberDownload.label "Cofni hanes llwytho i lawr">
+<!ENTITY rememberDownload.accesskey "w">
+
+<!ENTITY rememberSearchForm.label "Cofio hanes chwilio a ffurflen">
+<!ENTITY rememberSearchForm.accesskey "h">
+
+<!ENTITY clearOnClose.label "Clirio hanes pan fydd &brandShortName; yn cau">
+<!ENTITY clearOnClose.accesskey "p">
+
+<!ENTITY clearOnCloseSettings.label "Gosodiadau...">
+<!ENTITY clearOnCloseSettings.accesskey "G">
 
 <!ENTITY clearDataNow.label "Clirio Nawr...">
 <!ENTITY clearDataNow.accesskey "N">

@@ -23,7 +23,7 @@
 <!ENTITY view.unsorted.accesskey "D">
 <!ENTITY view.sortAscending.label "Trefnu A > Z">
 <!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Trefnu Z - A">
+<!ENTITY view.sortDescending.label "Trefnu Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
 <!ENTITY help.usingBookmarks.label "Defnyddio Nodau Tudalen">
 <!ENTITY help.usingBookmarks.accesskey "N">
@@ -136,18 +136,10 @@
 
 <!ENTITY search.label "Chwilio:">
 <!ENTITY search.accesskey "C">
-<!ENTITY search.collection.label "Casgliad Cyfredol yn Unig">
-<!ENTITY search.collection.accesskey "C">
-<!ENTITY search.allBookmarks.label "Pob Nod Tudalen">
-<!ENTITY search.allBookmarks.accesskey "P">
 <!ENTITY search.scopeFolder.label "Ffolderi Dewiswyd">
-<!ENTITY search.scopeFolder.accesskey "D">
-<!ENTITY search.scopeAll.label "Pob Nod Tudalen">
-<!ENTITY search.scopeAll.accesskey "P">
-<!ENTITY search.scopeMenu.label "Dewislen Nod Tudalen">
-<!ENTITY search.scopeMenu.accesskey "D">
-<!ENTITY search.scopeToolbar.label "Bar Offer Nod Tudalen">
-<!ENTITY search.scopeToolbar.accesskey "B">
+<!ENTITY search.scopeFolder.accesskey "d">
+<!ENTITY search.scopeBookmarks.label "Nodau Tudalen">
+<!ENTITY search.scopeBookmarks.accesskey "k">
 <!ENTITY search.scopeDownloads.label "Llwythi">
 <!ENTITY search.scopeDownloads.accesskey "L">
 <!ENTITY search.scopeHistory.label "Hanes">
@@ -186,7 +178,7 @@
 <!ENTITY advancedSearch.sortby_date.label "dyddiad">
 <!ENTITY advancedSearch.sortby_visit.label "cyfrif ymweliadau">
 <!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "codi">
+<!ENTITY advancedSearch.sortby_asc.label "esgyn">
 <!ENTITY advancedSearch.sortby_desc.label "gostwng">
 <!ENTITY advancedSearch.max.label "Uchafswm canlyniadau:">
 
@@ -199,18 +191,18 @@
 <!ENTITY view.details.label "Manylion">
 <!ENTITY view.details.accesskey "M">
 
-<!ENTITY view.addons.label "Estyn Ychwanegiadau Golwg">
+<!ENTITY view.addons.label "Estyn Golwg Ychwanegion">
 
 <!ENTITY maintenance.label "Mewnforio ac Allforio">
 <!ENTITY maintenance.accesskey "M">
 
-<!ENTITY backCmd.label "Nol">
+<!ENTITY backCmd.label "Nôl">
 <!ENTITY backCmd.accesskey "N">
 <!ENTITY backButton.tooltip "Mynd Nôl">
 
 <!ENTITY forwardCmd.label "Ymlaen">
 <!ENTITY forwardCmd.accesskey "Y">
-<!ENTITY forwardButton.tooltip "Symud ymlaen">
+<!ENTITY forwardButton.tooltip "Mynd ymlaen">
 
 <!ENTITY detailsPane.more.label "Mwy">
 <!ENTITY detailsPane.more.accesskey "m">

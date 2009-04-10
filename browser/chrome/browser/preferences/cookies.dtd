@@ -3,9 +3,9 @@
 <!ENTITY cookiesonsystem.label "Mae'r cwcis canlynol wedi eu storio ar eich cyfrifiadur:">
 <!ENTITY cookiename.label "Enw'r Cwci">
 <!ENTITY cookiedomain.label "Safle">
-<!ENTITY button.removecookie.label "Diddymu'r Cwci">
+<!ENTITY button.removecookie.label "Tynnu'r Cwci">
 <!ENTITY button.removecookie.accesskey "C">
-<!ENTITY button.removeallcookies.label "Diddymu pob Cwci">
+<!ENTITY button.removeallcookies.label "Tynnu pob Cwci">
 <!ENTITY button.removeallcookies.accesskey "P">
 
 <!ENTITY props.name.label "Enw:">
@@ -25,4 +25,3 @@
 
 <!ENTITY button.close.label "Cau">
 <!ENTITY button.close.accesskey "A">
-

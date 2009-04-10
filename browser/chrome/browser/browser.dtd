@@ -9,14 +9,14 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "Pori Preifat">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Pori Preifat)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; (Pori Preifat)">
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Tab Newydd">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Agor Lleoliad">
+<!ENTITY openLocationCmd.label "Agor Lleoliad...">
 <!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "Agor Ffeil...">
 <!ENTITY openFileCmd.accesskey "A">
@@ -32,7 +32,7 @@
 <!ENTITY import.accesskey "M">
 
 <!ENTITY goOfflineCmd.label "Gweithio All-lein">
-<!ENTITY goOfflineCmd.accesskey "W">
+<!ENTITY goOfflineCmd.accesskey "w">
 
 <!ENTITY navbarCmd.label "Bar Offer Symud">
 <!ENTITY navbarCmd.accesskey "S">
@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip "Dangos eich nodau tudalen">
 <!ENTITY bookmarksSidebarCmd.accesskey "n">
 <!ENTITY bookmarksSidebarCmd.commandkey "n">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Hanes">
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "Hanes">
 <!ENTITY historyMenu.accesskey "h">
 <!ENTITY historyUndoMenu.label "Tabiau Wedi eu Cau'n Ddiweddar">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Ffenestri wedi eu Cau yn Ddiweddar">
 
 <!ENTITY historyHomeCmd.label "Cartref">
 <!ENTITY showAllHistoryCmd2.label "Dangos yr Holl Hanes">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey "L">
 <!ENTITY urlbar.emptyText "Chwilio Nodau Tudalen a Hanes">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Chwilio Nodau Tudalen a Hanes">
+<!ENTITY urlbar.bookmark.emptyText "Chwilio Nodau Tudalen">
+<!ENTITY urlbar.history.emptyText "Chwilio Hanes">
+<!ENTITY urlbar.none.emptyText "Teipio cyfeiriad Gwe">
 <!ENTITY urlbar.accesskey "o">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -352,6 +362,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Chwyddo">
 <!ENTITY fullZoom.accesskey "C">
 
+<!ENTITY newTabButton.tooltip "Agor tab newydd">
 <!ENTITY newWindowButton.tooltip "Agor Ffenestr Newydd">
 <!ENTITY sidebarCloseButton.tooltip "Cau'r Cwpwrdd Cornel">
 
@@ -379,7 +390,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Arddull Tudalen Sylfaenol">
 <!ENTITY pageStylePersistentOnly.accesskey "s">
 
-<!ENTITY pageReportIcon.tooltip "Newid gosodiadau rhwystro llamlenni ar gyfer y wefan">
+<!ENTITY pageReportIcon.tooltip "Newid gosodiadau rhwystro llamlenni ar gyfer y gwefan">
 
 <!ENTITY allowPopups.accesskey "ll">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -432,6 +443,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Rhagor o Wybodaeth...">
 
-<!ENTITY downloadMonitor2.tooltip "Agor ffenestr llwythi">
+<!ENTITY downloadMonitor2.tooltip "Cliciwch i agor ffenestr llwythi">
 
 <!ENTITY ctrlTab.search.emptyText "Chwilio Tabiau">

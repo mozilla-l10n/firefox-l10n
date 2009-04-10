@@ -55,7 +55,7 @@
 <!ENTITY generalMode "Modd Llunio:">
 <!ENTITY generalSize "Maint:">
 <!ENTITY generalReferrer "URL cyfeirio:">
-<!ENTITY generalSource "Ffynhonnell Ystorfa">
+<!ENTITY generalSource "Ystorfa Ffynhonnell:">
 <!ENTITY generalModified "Newidiwyd:">
 <!ENTITY generalEncoding "Amgodio:">
 <!ENTITY generalMetaName "Enw">
@@ -67,15 +67,15 @@
 <!ENTITY mediaTab.accesskey "y">
 <!ENTITY mediaLocation "Lleoliad:">
 <!ENTITY mediaText "Testun Cysylltiedig:">
-<!ENTITY mediaAltHeader "Testun Eiledol">
+<!ENTITY mediaAltHeader "Testun Arall">
 <!ENTITY mediaAddress "Cyfeiriad">
 <!ENTITY mediaType "Math">
 <!ENTITY mediaSize "Maint">
 <!ENTITY mediaCount "Cyfrif">
 <!ENTITY mediaDimension "Maint:">
-<!ENTITY mediaLongdesc "Priodoledd Hir:">
+<!ENTITY mediaLongdesc "Disgrifiad Hir:">
 <!ENTITY mediaBlockImage.accesskey "B">
-<!ENTITY mediaSaveAs "Cadw Fel:">
+<!ENTITY mediaSaveAs "Cadw Fel...">
 <!ENTITY mediaSaveAs.accesskey "F">
 <!ENTITY mediaSaveAs2.accesskey "y">
 <!ENTITY mediaPreview "Rhagolwg Cyfrwng:">
@@ -113,10 +113,10 @@
 <!ENTITY securityView.privacy.header "Preifatrwydd a Hanes">
 <!ENTITY securityView.privacy.history "A ydw i wedi ymweld â'r wefan hon cyn heddiw?">
 <!ENTITY securityView.privacy.cookies "A yw'r wefan yma'n cadw gwybodaeth (cwcis) ar fy nghyfrifiadur?">
-<!ENTITY securityView.privacy.viewCookies "Darllen y Cwcis">
+<!ENTITY securityView.privacy.viewCookies "Gweld y Cwcis">
 <!ENTITY securityView.privacy.viewCookies.accessKey "w">
 <!ENTITY securityView.privacy.passwords "Ydw i wedi cadw unrhyw gyfrineiriau ar gyfer y wefan yma?">
-<!ENTITY securityView.privacy.viewPasswords "Edrych ar y Cyfrineiriau wedi eu Cadw">
+<!ENTITY securityView.privacy.viewPasswords "Gweld ar y Cyfrineiriau wedi eu Cadw">
 <!ENTITY securityView.privacy.viewPasswords.accessKey "w">
 
 <!ENTITY securityView.technical.header "Manylion Technegol">

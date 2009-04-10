@@ -1,13 +1,14 @@
 <!ENTITY restorepage.tabtitle "Adfer y Sesiwn">
-<!ENTITY restorepage.pagetitle "Hoffech chi adfer eich sesiwn?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "Caeodd eich sesiwn &BrandShortName; diwethaf yn annisgwyl. Rydym yn ymddiheuro’n fawr am yr anghyfleuster. Mae modd adfer y tabiau a'r ffenestri o'ch sesiwn flaenorol, neu ddechrau sesiwn newydd os nad oes eu hangen bellach.">
-<!ENTITY restorepage.remedies "Os yw &BrandShortName; yn cau'n aml:">
-<!ENTITY restorepage.dueToChrome "Tynnwch unrhyw estyniad drwy'r Rheolwr Ychwanegion">
-<!ENTITY restorepage.dueToContent "Ceisiwch adfer eich sesiwn gyda thudalen gwe rydych yn amau ei fod yn achosi'r broblem:">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.restoreButton "Adfer y Sesiwn Blaenorol">
+<!ENTITY restorepage.errorTitle "Wel, mae hyn yn anffodus.">
+<!ENTITY restorepage.problemDesc "Mae &brandShortName; yn cael trafferth adfer eich ffenestri a'ch tabiau. Mae hyn fel arfer oherwydd tudalen gwe sydd wedi ei hagor yn ddiweddar.">
+<!ENTITY restorepage.tryThis "Gallwch geisio:">
+<!ENTITY restorepage.restoreSome "Tynnu un neu fwy o dabiau rydych yn meddwl gall achosi'r broblem">
+<!ENTITY restorepage.startNew "Cychwyn seiwn pori gwbl newydd">
+
+<!ENTITY restorepage.tryagainButton "Adfer">
 <!ENTITY restorepage.restore.access "A">
 <!ENTITY restorepage.cancelButton "Cychwyn Sesiwn Newydd">
 <!ENTITY restorepage.cancel.access "N">

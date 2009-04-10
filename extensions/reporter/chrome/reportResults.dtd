@@ -8,7 +8,7 @@
 <!ENTITY reportBuildConfig "Ffurf Adeiledd">
 <!ENTITY reportUseragent "Asiant Defnyddiwr">
 <!ENTITY reportLanguage "Iaith">
-<!ENTITY reportCharset "Set Nod">
+<!ENTITY reportCharset "Set Nodau">
 <!ENTITY reportEmail "E-bost">
 <!ENTITY error "Manylion Gwall">
 <!ENTITY faultCode "Cod">

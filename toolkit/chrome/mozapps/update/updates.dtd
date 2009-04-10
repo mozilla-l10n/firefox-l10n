@@ -10,13 +10,13 @@
 <!ENTITY noupdatesautoenabled.intro "Nid oes diweddariad newydd ar gael. Bydd &brandShortName; yn 
 gwirio o bryd i'w gilydd am ddiweddariadau newydd.">
 <!ENTITY noupdatesautodisabled.intro "Nid oes diweddariadau ar gael. Gwiriwch eto neu alluogi 
-gwirio diweddariadau awtomatig BrandShortName.">
+gwirio diweddariadau awtomatig &brandShortName;.">
 
 <!ENTITY manualUpdate.title "Yn Barod i Ddiweddaru">
-<!ENTITY manualUpdate.desc "Mae diweddariad diogelwch a sefydlogrwydd ar gael, ond nid oes gennych
-y caniatâd system i'w osod. Cysylltwch â'ch gweinyddwr system, neu ceisiwch
+<!ENTITY manualUpdate.desc "Mae diweddariad diogelwch a sefydlogrwydd ar gael, ond nid oes gennych 
+y caniatâd system i'w osod. Cysylltwch â'ch gweinyddwr system, neu ceisiwch 
 eto o gyfrif sydd â chaniatâd i osod meddalwedd ar y cyfrifiadur hwn.">
-<!ENTITY manualUpdateGetMsg.label "Mae modd cael y fersiwn diweddaraf o &BrandShortName; yn:">
+<!ENTITY manualUpdateGetMsg.label "Mae modd cael y fersiwn diweddaraf o &brandShortName; yn:">
 
 <!ENTITY incompatibleCheck.title "Gwirio Cytunedd yr Ychwanegyn">
 <!ENTITY incompatibleCheck.label "Chwilio am fersiwn mwy diweddar o'ch ychwanegion...">
@@ -64,7 +64,7 @@ Bydd &brandShortName; yn ceisio eto drwy lwytho'r Diweddariad cyfan.">
 <!ENTITY finishedPage.text "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. 
 Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
 
-<!ENTITY finishedBackgroundPage.text "Mae diweddariad diogelwch a sefydlogrwydd ar gyfer  &BrandShortName; 
+<!ENTITY finishedBackgroundPage.text "Mae diweddariad diogelwch a sefydlogrwydd ar gyfer  &brandShortName; 
 wedi ei lwytho i lawr ac mae'n barod i'w osod.">
 <!ENTITY finishedBackground.name "Diweddaru:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->

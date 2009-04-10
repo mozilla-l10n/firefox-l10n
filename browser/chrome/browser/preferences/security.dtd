@@ -20,14 +20,14 @@
 
 <!ENTITY passwords.label "Cyfrineiriau">
 
-<!ENTITY rememberPasswords.label "Cofio cyfrineiriau safeoedd gwe">
+<!ENTITY rememberPasswords.label "Cofio cyfrineiriau safleoedd gwe">
 <!ENTITY rememberPasswords.accesskey "C">
 <!ENTITY passwordExceptions.label "Eithriadau...">
 <!ENTITY passwordExceptions.accesskey "i">
 
 <!ENTITY useMasterPassword.label "Defnyddio prif gyfrinair">
 <!ENTITY useMasterPassword.accesskey "D">
-<!ENTITY changeMasterPassword.label "Newid y Prif Cyfrinair...">
+<!ENTITY changeMasterPassword.label "Newid y Prif Gyfrinair...">
 <!ENTITY changeMasterPassword.accesskey "P">
 
 <!ENTITY savedPasswords.label "Cyfrineiriau wedi eu Cadw...">

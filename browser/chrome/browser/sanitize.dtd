@@ -1,41 +1,62 @@
-<!ENTITY sanitizePrefs.title "Clirio Data Preifat">
+<!ENTITY sanitizePrefs2.title "Gosodiadau Clirio Hanes">
 <!ENTITY sanitizeDialog2.title "Clirio'r Hanes Diweddar">
 
 <!ENTITY sanitizeItems.label "Clirio'r eitemau canlynol nawr:">
-<!ENTITY clearDataSettings2.label "Pan fydda i'n gadael &BrandShortName;, dylai glirio popeth yn awtomatig:">
+<!ENTITY clearDataSettings2.label "Pan fydda i'n gadael &brandShortName;, dylai glirio popeth yn awtomatig:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
 
-
-<!ENTITY clearDuration.label "Tynnu">
-<!ENTITY clearDuration.accesskey "T">
-<!ENTITY clearDuration.lastHour "yr awr ddiwethaf">
-<!ENTITY clearDuration.last2Hours "y ddwy awr ddiwethaf">
-<!ENTITY clearDuration.last4Hours "y pedair awr ddiwethaf">
-<!ENTITY clearDuration.today "fy hanes heddiw">
-<!ENTITY clearDuration.everything "fy holl hanes">
-<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+<!ENTITY clearTimeDuration.label "Ystod amser i glirio:">
+<!ENTITY clearTimeDuration.accesskey "Y">
+<!ENTITY clearTimeDuration.lastHour "Awr Olaf">
+<!ENTITY clearTimeDuration.last2Hours "Dwy Awr Olaf">
+<!ENTITY clearTimeDuration.last4Hours "Pedair Awr Olaf">
+<!ENTITY clearTimeDuration.today "Heddiw">
+<!ENTITY clearTimeDuration.everything "Popeth">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix "">
+<!ENTITY clearTimeDuration.suffix "">
+<!ENTITY clearTimeDuration.dateColumn "Dyddiad Ymweliad">
+<!ENTITY clearTimeDuration.nameColumn "Enw">
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+
+<!ENTITY detailsProgressiveDisclosure.label "Manylion">
+<!ENTITY detailsProgressiveDisclosure.accesskey "M">
 
 <!ENTITY historySection.label "Hanes">
 <!ENTITY dataSection.label "Data">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
 
-<!ENTITY itemVisitedPages.label "Tudalennau Ymwelwyd â Hwy">
-<!ENTITY itemVisitedPages.accesskey "T">
-<!ENTITY itemFormSearchEntries.label "Cofnodion Chwilio">
-<!ENTITY itemFormSearchEntries.accesskey "C">
+<!ENTITY itemHistoryAndDownloads.label "Hanes Pori a Llwytho i Lawr">
+<!ENTITY itemHistoryAndDownloads.accesskey "P">
+<!ENTITY itemBrowsingHistory.label "Hanes Pori">
+<!ENTITY itemBrowsingHistory.accesskey "H">
+<!ENTITY itemFormSearchHistory.label "Hanes Ffurflen a Chwilio">
+<!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label "Cyfrineiriau a Gadwyd">
 <!ENTITY itemPasswords.accesskey "C">
 <!ENTITY itemCookies.label "Cwcis">
 <!ENTITY itemCookies.accesskey "W">
-<!ENTITY itemWebCache.label "Storfa Gwe">
-<!ENTITY itemWebCache.accesskey "S">
-<!ENTITY itemOfflineApps.label "Data Gwefan All-lein">
+<!ENTITY itemCache.label "S">
+<!ENTITY itemCache.accesskey "A">
+<!ENTITY itemOfflineApps.label "Data Gwfan All-lein">
 <!ENTITY itemOfflineApps.accesskey "D">
-<!ENTITY itemDownloadList.label "Hanes Llwytho i lawr">
-<!ENTITY itemDownloadList.accesskey "L">
+<!ENTITY itemDownloadHistory.label "Hanes Llwytho i Lawr">
+<!ENTITY itemDownloadHistory.accesskey "L">
 <!ENTITY itemActiveLogins.label "Mewngofnodion Gweithredol">
 <!ENTITY itemActiveLogins.accesskey "M">
+<!ENTITY itemSitePreferences.label "Dewisiadau Gwefan">
+<!ENTITY itemSitePreferences.accesskey "D">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
 
-<!ENTITY window.width "30em">
+<!ENTITY sanitizeEverythingUndoWarning "Nid oes modd dadwneud y weithred.">
+
+<!ENTITY dialog.width "32em">
 <!ENTITY column.width "14em">

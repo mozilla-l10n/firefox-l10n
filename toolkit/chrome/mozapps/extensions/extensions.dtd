@@ -111,7 +111,7 @@
 
 <!ENTITY insecureUpdate.label "Nid yw'n darparu diweddariadau diogel.">
 <!ENTITY needsDependencies.label "Mae amgen eitemau ychwanegol">
-<!ENTITY blocklisted.label "Anablu er eich diogelwch">
+<!ENTITY blocklisted.label "Anablu eich diogelwch">
 <!ENTITY softBlocklisted.label "Yn hysbys ei fod yn achosi pryder diogelwch a sefydlogrwydd.">
 <!ENTITY toBeDisabled.label "Bydd yr ychwanegyn yn cael ei anablu pan fydd &brandShortName; wedi ei ailgychwyn.">
 <!ENTITY toBeEnabled.label "Bydd yr ychwanegyn yn cael ei alluogi pan fydd &brandShortName; wedi ei ailgychwyn.">
