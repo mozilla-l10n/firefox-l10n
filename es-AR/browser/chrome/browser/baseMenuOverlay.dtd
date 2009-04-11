@@ -29,10 +29,9 @@
 
 <!ENTITY helpReleaseNotes.label "Notas de la versión">
 <!ENTITY helpReleaseNotes.accesskey "r">
-<!ENTITY updateCmd.label "Buscar actualizaciones...">
-<!ENTITY updateCmd.accesskey "u">
+<!ENTITY updateCmd.label "Buscar actualizaciones…">
 
-<!ENTITY preferencesCmdMac.label "Preferencias...">
+<!ENTITY preferencesCmdMac.label "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 
