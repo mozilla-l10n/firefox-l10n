@@ -1,23 +1,23 @@
 <!ENTITY welcome.description "Быстрая настройка учётной записи">
 <!ENTITY autoconfigWizard.style "width: 640px; height: 480px;">
 <!ENTITY name.description "Ваше имя">
-<!ENTITY email.description "Адрес электронной почты">
+<!ENTITY email.description "Электронная почта">
 <!ENTITY password.description "Пароль">
 <!ENTITY username.label "имя пользователя">
-<!ENTITY receivingserver.label "получающий">
-<!ENTITY sendingserver.label "отправляющий">
+<!ENTITY receivingserver.label "получение почты с">
+<!ENTITY sendingserver.label "отправка почты через">
 <!ENTITY noencryption.label "Нет">
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY ssltls.label "SSL / TLS">
 <!ENTITY imap.label "IMAP">
 <!ENTITY pop.label "POP">
 <!ENTITY smtp.label "SMTP">
-<!ENTITY gotoadvanced.label "Перейти в дополнительные настройки">
+<!ENTITY gotoadvanced.label "Дополнительные настройки">
 <!ENTITY cancel.label "Отмена">
 <!ENTITY stop.label "Стоп">
 <!ENTITY go_button.label "Перейти">
 <!ENTITY edit.label "Изменить">
-<!ENTITY createaccount.label "Создание учётной записи">
+<!ENTITY createaccount.label "Создать учётную запись">
 <!ENTITY rememberpassword.label "Запомнить пароль">
 <!ENTITY warning.label "Предупреждение!">
 <!ENTITY incoming_settings.label "Настройки входящей почты:">
