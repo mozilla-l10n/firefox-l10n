@@ -22,7 +22,6 @@
 <!ENTITY helpReleaseNotes.label "Примечания к выпуску">
 <!ENTITY helpReleaseNotes.accesskey "р">
 <!ENTITY updateCmd.label "Проверить наличие обновлений…">
-<!ENTITY updateCmd.accesskey "а">
 <!ENTITY preferencesCmdMac.label "Настройки…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
