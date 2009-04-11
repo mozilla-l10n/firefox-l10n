@@ -1,15 +1,21 @@
-<!ENTITY newsblogTitle.label "הגדרות חשבון RSS">
-<!ENTITY biffStart.label "בדוק למאמרים חדשים כל">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "דקות">
-<!ENTITY loginAtStartup.label "בדוק למאמרים חדשים בעת ההפעלה">
-<!ENTITY loginAtStartup.accesskey "C">
-<!ENTITY useQuickMode.label "כברירת מחדל, הראה את תמצית המאמר במקום לטעון את דף האינטרנט">
-<!ENTITY useQuickMode.accesskey "B">
-<!ENTITY manageSubscriptions.label "נהל מינויים...">
-<!ENTITY manageSubscriptions.accesskey "M">
-<!ENTITY rss.accountName "חדשות ובלוגים">
-<!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName  "RSS חדשות ובלוגים">
-<!ENTITY rss.wizardLongName.accesskey "ח">
+<!--###ENTITY newsblogTitle.label "הגדרות חשבון RSS"-->
+<!ENTITY accountTitle.label "הגדרות חשבון">
 
+<!ENTITY biffStart.label "בדוק למאמרים חדשים כל">
+<!ENTITY biffStart.accesskey "ב">
+<!ENTITY biffEnd.label "דקות">
+
+<!ENTITY loginAtStartup.label "בדוק למאמרים חדשים בעת ההפעלה">
+<!ENTITY loginAtStartup.accesskey "ה">
+
+<!ENTITY useQuickMode.label "כברירת מחדל, הראה את תקציר המאמר במקום לטעון את דף האינטרנט">
+<!ENTITY useQuickMode.accesskey "ת">
+
+<!ENTITY manageSubscriptions.label "נהל מינויים…">
+<!ENTITY manageSubscriptions.accesskey "נ">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "בלוגים והזנות">
+<!ENTITY feeds.wizardShortName "הזנות">
+<!ENTITY feeds.wizardLongName "בלוגים והזנות">
+<!ENTITY feeds.wizardLongName.accesskey "ה">

@@ -7,8 +7,9 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ה">
-<!ENTITY newCard.label "כרטיס פנקס כתובות...">
-<!ENTITY newCard.accesskey "c">
+
+<!ENTITY newContact.label "איש קשר בספר הכתובות…">
+<!ENTITY newContact.accesskey "א">
 <!ENTITY attachMenu.label "צרף">
 <!ENTITY attachMenu.accesskey "ר">
 <!ENTITY attachFileCmd.label "קובץ (קבצים)...">
@@ -87,6 +88,7 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "כ">
 
 <!ENTITY showCompositionToolbarCmd.label "סרגל כלים כתיבה">
+<!ENTITY showCompositionToolbarCmd.accesskey "כ">
 
 <!ENTITY showFormattingBarCmd.label "סרגל עיצוב">
 <!ENTITY showFormattingBarCmd.accesskey "ע">
@@ -100,10 +102,11 @@
 <!ENTITY formatMenu.accesskey "ב">
 <!ENTITY optionsMenu.label "אפשרויות">
 <!ENTITY optionsMenu.accesskey "א">
-<!ENTITY checkSpellingCmd.label "בדוק איות...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd2.label "בדוק איות…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "א">
+
 <!ENTITY enableInlineSpellChecker.label "בדוק איות תוך כדי הקלדה">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "לצטט הודעה">
@@ -147,7 +150,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "פנקס כתובות">
 <!ENTITY addressBookCmd.accesskey "כ">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "הגדרות חשבון...">
 <!ENTITY accountManagerCmd.accesskey "ה">
 <!ENTITY accountManagerCmdUnix.accesskey "ה">
@@ -168,7 +171,7 @@
 <!ENTITY attachButton.label "צרף">
 <!ENTITY spellingButton.label "איות">
 <!ENTITY saveButton.label "שמור">
-<!ENTITY throbberItem.title "מחוון פעילות">
+
 <!ENTITY sendButton.tooltip "שלח הודעה זו כעת">
 <!ENTITY sendlaterButton.tooltip "שלח הודעה זו מאוחר יותר">
 <!ENTITY quoteButton.tooltip "צטט הודעה קודמת">

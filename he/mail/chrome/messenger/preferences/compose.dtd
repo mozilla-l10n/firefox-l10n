@@ -5,9 +5,9 @@
 <!ENTITY forwardMsg.label "הודעות מועברות:">
 <!ENTITY forwardMsg.accesskey "ה">
 <!ENTITY inline.label "בתוך השורה">
-<!ENTITY inline.accesskey "ב">
+<!--###ENTITY inline.accesskey "ב"-->
 <!ENTITY asAttachment.label "כנספח">
-<!ENTITY asAttachment.accesskey "נ">
+<!--###ENTITY asAttachment.accesskey "נ"-->
 <!ENTITY addExtension.label                   "הוסף סיומת לשם הקובץ">
 <!ENTITY addExtension.accesskey               "ק">
 
