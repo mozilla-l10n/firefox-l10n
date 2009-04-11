@@ -1,15 +1,18 @@
-<!ENTITY newsBlogSubscriptions.label "מינויי RSS">
-<!ENTITY subscriptionDesc.label "שים לב: הסרה או שינוי התיקייה עבור הזנת נתונים לא ישפיעו על המאמרים שהורדו לפני כן.">
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label "מינויי הזנות">
+<!ENTITY subscriptionDesc.label "שים לב: הסרה או שינוי התיקייה עבור הזנת נתונים לא ישפיעו על המאמרים שהורדו קודם לכן.">
 <!ENTITY feedTitle.label "כותרת:">
 <!ENTITY location.label "מיקום:">
-<!ENTITY button.addFeed.label "הוסף">
-<!ENTITY button.addFeed.accesskey "A">
+
+<!ENTITY button.addFeed.label "הוספה">
+<!ENTITY button.addFeed.accesskey "ה">
 <!ENTITY button.editFeed.label "עריכה">
-<!ENTITY button.editFeed.accesskey "E">
-<!ENTITY button.removeFeed.label "הסר">
-<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.editFeed.accesskey "ע">
+<!ENTITY button.removeFeed.label "הסרה">
+<!ENTITY button.removeFeed.accesskey "ה">
 <!ENTITY button.importOPML.label "יבא">
-<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.importOPML.accesskey "ב">
 <!ENTITY button.exportOPML.label "יצא">
-<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.accesskey "צ">
+
 <!ENTITY cmd.close.commandKey "w">

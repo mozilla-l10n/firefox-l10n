@@ -31,4 +31,12 @@
 <!ENTITY return.accesskey "מ">
 <!ENTITY results.label "תוצאות">
 <!ENTITY offlineText.label "ניתן להוריד עותק מקומי של מדריך זה כך שיהיה זמין לשימוש כאשר אתה עובד במצב לא־מקוון.">
+<!ENTITY saslMechanism.label               "צורת התחברות: ">
+<!ENTITY saslMechanism.accesskey           "צ">
+<!ENTITY saslOff.label                     "פשוט">
+<!ENTITY saslOff.accesskey                 "פ">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)‎">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
+
 <!ENTITY newDirectoryWidth "36em">
