@@ -45,22 +45,34 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "יבוא">
-<!ENTITY importDialog.allTitle    "יבא הכל">
-<!ENTITY importDialog.mailTitle "דואר">
-<!ENTITY importDialog.addressbookTitle "פנקסי כתובות">
-<!ENTITY importDialog.settingsTitle "הגדרות">
-<!ENTITY importDialog.filtersTitle "מסננים">
+<!ENTITY importAll.label          "יבא הכל">
+<!ENTITY importAll.accesskey      "כ">
+<!ENTITY importMail.label         "דואר">
+<!ENTITY importMail.accesskey     "ד">
+<!--###ENTITY importDialog.allTitle    "יבא הכל"-->
+<!--###ENTITY importDialog.mailTitle "דואר"-->
+<!--###ENTITY importDialog.addressbookTitle "פנקסי כתובות"-->
+<!--###ENTITY importDialog.settingsTitle "הגדרות"-->
+<!--###ENTITY importDialog.filtersTitle "מסננים"-->
+<!ENTITY importAddressbook.label  "ספרי כתובות">
+<!ENTITY importAddressbook.accesskey "כ">
+<!ENTITY importSettings.label     "הגדרות">
+<!ENTITY importSettings.accesskey "ה">
+<!ENTITY importFilters.label      "מסננים">
+<!ENTITY importFilters.accesskey  "מ">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label "אשף יבוא הדואר של &brandShortName;">
+<!ENTITY importTitle.label        "אשף יבוא הדואר של &brandShortName;">
 <!ENTITY importShortDesc.label    "יבא דואר, פנקסי כתובות, הגדרות ומסננים מתוכנות אחרות">
 
 <!ENTITY importDescription1.label "אשף זה ייבא את כל הודעות הדואר, פריטים מפנקס הכתובות, העדפות ו/או מסננים מתוכנות דואר אחרות ומבני פנקסי כתובות מקובלים לתוך &brandShortName;.">
 
 <!ENTITY importDescription2.label "לאחר שהם ייובאו, תוכל לגשת אליהם מתוך הדואר ו/או פנקס הכתובות של &brandShortName;.">
 <!ENTITY selectDescription.label "אנא בחר את התוכנה שמתוכה ברצונך לייבא:">
+<!ENTITY selectDescription.accesskey "ב">
+
 <!ENTITY back.label "&lt; הקודם">
 <!ENTITY forward.label "הבא &gt;">
 <!ENTITY finish.label "סיום">
@@ -71,5 +83,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label "ל־Netscape Communicator 4.x יש כתובת דואר אחת לכל כרטיס, בעוד של־&brandShortName; יש שתיים (בית ועבודה).">
 <!ENTITY FieldDiscInputText2.label "בחר את הקטגוריה שבה ברצונך לשמור את כתובות הדואר המיובאות:">
 <!ENTITY FieldDiscWarning.label "קטגוריה זו תשמש לכל הרשומות בפנקס הכתובות הנבחר:">
-<!ENTITY importDialog.homeTitle "בית">
-<!ENTITY importDialog.workTitle "עבודה">
+<!--###ENTITY importDialog.homeTitle "בית"-->
+<!--###ENTITY importDialog.workTitle "עבודה"-->
+
+<!ENTITY importHome.label        "בית">
+<!ENTITY importHome.accesskey    "ב">
+<!ENTITY importWork.label        "עבודה">
+<!ENTITY importWork.accesskey    "ע">

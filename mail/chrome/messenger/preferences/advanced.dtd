@@ -8,8 +8,15 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "אפשר אינדוקס הודעות">
-<!ENTITY enableGloda.accesskey         "י">
+<!ENTITY enableGlodaSearch.label       "אפשר חיפוש גלובלי ואינדוקס">
+<!ENTITY enableGlodaSearch.accesskey   "ח">
+<!-- ### ENTITY enableGloda.label             "אפשר אינדוקס הודעות" -->
+<!-- ### ENTITY enableGloda.accesskey         "י" -->
+<!ENTITY systemDefaults.label          "ברירת מחדל">
+<!ENTITY alwaysCheckDefault.label      "בדוק בכל הפעלה אם &brandShortName; היא תוכנת דואר ברירת המחדל">
+<!ENTITY checkNow.label                "בדוק כעת...">
+<!ENTITY checkNow.accesskey            "כ">
+<!ENTITY alwaysCheckDefault.accesskey  "ב">
 <!ENTITY autoMarkAsRead.label          "סמן אוטומטית הודעות כנקראו">
 <!ENTITY autoMarkAsRead.accesskey      "א">
 
@@ -23,8 +30,8 @@
 <!ENTITY secondsLabel.label            "שניות">
 
 
-<!ENTITY showFolderColumns.label "הצג עמודות מורחבות בחלונית התיקיות">
-<!ENTITY showFolderColumns.accesskey "ה">
+<!-- ### ENTITY showFolderColumns.label "הצג עמודות מורחבות בחלונית התיקיות" -->
+<!-- ### ENTITY showFolderColumns.accesskey "ה" -->
 
 <!ENTITY openMsgIn.label               "פתח הודעות חדשות:">
 
@@ -50,7 +57,7 @@
 <!ENTITY enableAppUpdate.accesskey "T">
 <!ENTITY enableAddonsUpdate.label "תוספות מותקנות">
 <!ENTITY enableAddonsUpdate.accesskey "t">
-<!ENTITY checkNow.label "בדוק כעת...">
+
 <!ENTITY whenUpdatesFound.label "כאשר נמצאים עדכונים עבור &brandShortName;,">
 <!ENTITY modeAskMe.label "שאל אותי מה ברצוני לעשות">
 <!ENTITY modeAskMe.accesskey "A">

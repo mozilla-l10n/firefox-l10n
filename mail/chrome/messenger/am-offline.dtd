@@ -4,26 +4,32 @@
 <!ENTITY allFoldersOffline.accesskey "ע">
 
 <!ENTITY offlineNotDownload.label "הודעות גדולות מאשר">
-<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY offlineNotDownload.accesskey "ג">
 <!ENTITY kb.label "ק״ב">
 
 <!ENTITY daysOld.label "ימים">
 <!ENTITY message.label "ההודעות האחרונות">
 <!ENTITY nntpNotDownloadRead.label "הודעות שנקראו">
-<!ENTITY nntpNotDownloadRead.accesskey "R">
+<!ENTITY nntpNotDownloadRead.accesskey "נ">
 <!ENTITY nntpDownloadMsg.label "הודעות מלפני יותר מאשר">
-<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY nntpDownloadMsg.accesskey "י">
 <!ENTITY retentionCleanup.label "בכדי להשיג שטח דיסק, הודעות ישנות יכולות להמחק לצמיתות">
 <!ENTITY retentionKeepMsg.label "מחק הודעות מלפני">
-<!ENTITY retentionKeepMsg.accesskey "m">
+
+<!ENTITY retentionCleanupImap.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, גם העותק המקומי וגם המקור על השרת המרוחק.">
+<!ENTITY retentionCleanupPop.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, כולל הודעות המקור בשרת המרוחק.">
+
+<!ENTITY retentionKeepMsg.accesskey "ל">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
-<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepAll.accesskey "ש">
 <!ENTITY retentionKeepNew.label "מחק הכל מלבד">
-<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepNew.accesskey "מ">
 <!ENTITY retentionKeepUnread.label "מחק תמיד הודעות שנקראו">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepUnread.accesskey "נ">
+<!ENTITY retentionApplyToFlagged.label "שמור תמיד הודעות מסומנות">
+<!ENTITY retentionApplyToFlagged.accesskey "ס">
 <!ENTITY nntpRemoveBody.label "רק גוף הודעות בנות פחות מאשר">
-<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY nntpRemoveBody.accesskey "ר">
 <!ENTITY offlineSelectNntp.label "בחר קבוצות דיון לשימוש לא־מקוון">
 
 <!ENTITY offlineSelectNntp.accesskey "ב">
