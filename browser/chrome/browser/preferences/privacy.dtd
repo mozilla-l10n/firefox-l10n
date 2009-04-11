@@ -84,6 +84,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "설정…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY clearDataNow.label "지금 삭제…">
-<!ENTITY clearDataNow.accesskey "N">
