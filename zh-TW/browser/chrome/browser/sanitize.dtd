@@ -13,7 +13,7 @@
 <!ENTITY clearTimeDuration.last2Hours     "兩小時內">
 <!ENTITY clearTimeDuration.last4Hours     "四小時內">
 <!ENTITY clearTimeDuration.today          "今天">
-<!ENTITY clearTimeDuration.everything     "所有歷史紀錄">
+<!ENTITY clearTimeDuration.everything     "所有歷史記錄">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
@@ -32,11 +32,11 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "瀏覽與下載紀錄">
+<!ENTITY itemHistoryAndDownloads.label     "瀏覽與下載記錄">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemBrowsingHistory.label         "瀏覽記錄">
 <!ENTITY itemBrowsingHistory.accesskey     "B">
-<!ENTITY itemFormSearchHistory.label       "已存表單及搜尋紀錄">
+<!ENTITY itemFormSearchHistory.label       "已存表單及搜尋記錄">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "已存密碼">
 <!ENTITY itemPasswords.accesskey           "P">
@@ -50,7 +50,7 @@ that require it.  -->
 <!ENTITY itemDownloadHistory.accesskey     "D">
 <!ENTITY itemActiveLogins.label            "已登入的連線">
 <!ENTITY itemActiveLogins.accesskey        "L">
-<!ENTITY itemSitePreferences.label         "針對個別網站的設定">
+<!ENTITY itemSitePreferences.label         "個別網站設定">
 <!ENTITY itemSitePreferences.accesskey     "S">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
