@@ -31,7 +31,7 @@
 <!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "N">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personlig kort (vCard)">
+<!ENTITY attachVCardCmd.label "Personlig adressekort (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY sendNowCmd.label "Send nå">
 <!ENTITY sendCmd.keycode "VK_RETURN">

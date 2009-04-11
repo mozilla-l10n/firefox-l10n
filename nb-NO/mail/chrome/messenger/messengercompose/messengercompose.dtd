@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Adressekort …">
-<!ENTITY newContact.accesskey "k">
+<!ENTITY newContact.label "Kontakt …">
+<!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Legg ved">
 <!ENTITY attachMenu.accesskey "v">
 <!ENTITY attachFileCmd.label "Filer …">
@@ -19,7 +19,7 @@
 <!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "n">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personlig kort (vCard)">
+<!ENTITY attachVCardCmd.label "Personlig adressekort (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "Lukk">
 <!ENTITY closeCmd.key "W">
@@ -120,7 +120,7 @@
 <!ENTITY quoteCmd.accesskey "m">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Legg ved personlig kort (vCard)">
+<!ENTITY attachVCard.label "Legg ved personlig adressekort (vCard)">
 <!ENTITY attachVCard.accesskey "L">
 
 <!ENTITY returnReceiptMenu.label "Kvittering tilbake">

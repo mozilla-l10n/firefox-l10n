@@ -26,7 +26,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Tøm liste">
 <!ENTITY cmd.clearList.tooltip            "Fjerner fullførte, avbrutte og feilede elementer fra listen">
-<!ENTITY cmd.clearList.accesskey          "F">
+<!ENTITY cmd.clearList.accesskey          "T">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 

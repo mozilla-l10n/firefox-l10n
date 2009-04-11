@@ -71,7 +71,7 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "H">
 <!ENTITY  event.menu.file.new.message.label               "Melding">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.contact.label               "Adressekort">
+<!ENTITY  event.menu.file.new.contact.label               "Adressekontakt">
 <!ENTITY  event.menu.file.new.contact.accesskey           "A">
 <!ENTITY  event.menu.file.close.label                     "Lukk">
 <!ENTITY  event.menu.file.close.accesskey                 "L">

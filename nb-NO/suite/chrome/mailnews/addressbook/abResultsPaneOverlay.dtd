@@ -74,7 +74,7 @@
 <!ENTITY copyAddress.accesskey                 "K">
 <!ENTITY deleteAddrBookCard.label              "Slett">
 <!ENTITY deleteAddrBookCard.accesskey          "S">
-<!ENTITY newAddrBookCard.label                 "Nytt kort …">
+<!ENTITY newAddrBookCard.label                 "Ny kontakt …">
 <!ENTITY newAddrBookCard.accesskey             "k">
 <!ENTITY newAddrBookMailingList.label          "Ny e-postliste …">
 <!ENTITY newAddrBookMailingList.accesskey      "p">
