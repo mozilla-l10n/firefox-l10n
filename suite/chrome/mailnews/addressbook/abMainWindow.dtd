@@ -41,9 +41,9 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newContact.label                               "Adressekort …">
+<!ENTITY newContact.label                               "Kontakt …">
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newContact.accesskey                           "A">
+<!ENTITY newContact.accesskey                           "K">
 <!ENTITY newListCmd.label                               "E-postliste …">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "E">  
@@ -53,9 +53,9 @@
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newIM.label                                    "IM">
-<!ENTITY printContactViewCmd.label                      "Skriv ut kort …">
+<!ENTITY printContactViewCmd.label                      "Skriv ut kontakt …">
 <!ENTITY printContactViewCmd.accesskey                  "k">
-<!ENTITY printPreviewContactViewCmd.label               "Forhåndsvisning av kort">
+<!ENTITY printPreviewContactViewCmd.label               "Forhåndsvisning av kontakt">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
 <!ENTITY printContactViewCmd.key                        "P">
@@ -68,8 +68,8 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Slett adressebok">  
-<!ENTITY deleteContactCmd.label                         "Slett kort">  
-<!ENTITY deleteContactsCmd.label                        "Slett valgte kort">  
+<!ENTITY deleteContactCmd.label                         "Slett kontakt">  
+<!ENTITY deleteContactsCmd.label                        "Slett valgte kontakter">  
 <!ENTITY deleteListCmd.label                            "Slett liste">
 <!ENTITY deleteListsCmd.label                           "Slett valgte lister">
 <!ENTITY deleteItemsCmd.label                           "Slett valgte elementer">
@@ -84,7 +84,7 @@
 <!ENTITY showAbToolbarCmd.label                         "Adressebok-verktøylinje"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "A">  
 
-<!ENTITY showCardPane.label                             "Oppsummeringsvindu for adressekort">
+<!ENTITY showCardPane.label                             "Oppsummeringsvindu for kontakt">
 <!ENTITY showCardPane.accesskey                         "O">
   
 <!ENTITY menu_ShowNameAs.label                          "Vis navn som"> 
@@ -105,7 +105,7 @@
 <!ENTITY allowOnlineCheck.accesskey                     "S">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newContactButton.label                         "Nytt kort">  
+<!ENTITY newContactButton.label                         "Ny kontakt">  
 <!ENTITY newContactButton.accesskey                     "N">  
 <!ENTITY newlistButton.label                            "Ny liste">  
 <!ENTITY newlistButton.accesskey                        "L">  
@@ -121,7 +121,7 @@
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adressebok-verktøylinje">
-<!ENTITY newContactButton.tooltip                       "Lag et nytt adressekort"> 
+<!ENTITY newContactButton.tooltip                       "Lag en ny kontakt"> 
 <!ENTITY newlistButton.tooltip                          "Lag en ny liste"> 
 <!ENTITY editItemButton.tooltip                         "Rediger valgt element"> 
 <!ENTITY newmsgButton.tooltip                           "Send en e-post"> 

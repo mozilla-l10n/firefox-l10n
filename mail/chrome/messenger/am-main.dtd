@@ -18,10 +18,10 @@
 <!ENTITY edit.label "Rediger …">
 <!ENTITY choose.label "Velg …">
 <!ENTITY choose.accesskey "V">
-<!ENTITY editVCard.label "Rediger kort …">
+<!ENTITY editVCard.label "Rediger adressekort …">
 <!ENTITY editVCard.accesskey "R">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Legg ved mitt kontaktkort (vCard)">
+<!ENTITY attachVCard.label "Legg ved mitt adressekort (vCard)">
 <!ENTITY attachVCard.accesskey "m">
 
 <!ENTITY manageIdentities.label "Behandle identiteter …">

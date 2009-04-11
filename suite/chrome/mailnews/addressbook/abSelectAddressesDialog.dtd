@@ -58,6 +58,6 @@
 <!ENTITY addressMessageTo.label              "Adresser melding til:"> 
 
 <!-- Tooltips items -->  
-<!ENTITY addressPickerNewButton.tooltip      "Lag nytt adressekort"> 
-<!ENTITY addressPickerEditButton.tooltip     "Rediger valgt kort"> 
+<!ENTITY addressPickerNewButton.tooltip      "Lag ny kontakt"> 
+<!ENTITY addressPickerEditButton.tooltip     "Rediger valgt kontakt"> 
 
