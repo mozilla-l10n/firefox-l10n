@@ -10,7 +10,9 @@
 <!ENTITY newVirtualFolderCmd.label "Dossier virtuel…">
 <!ENTITY newVirtualFolderCmd.accesskey "v">
 <!ENTITY newAccountCmd.label "Compte…">
-<!ENTITY newAccountCmd.accesskey "p">
+<!ENTITY newAccountCmd.accesskey "m">
+<!ENTITY newMailAccountCmd.label "Compte (configuration rapide)…">
+<!ENTITY newMailAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Ouvrir un fichier de message…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Pièces jointes">
