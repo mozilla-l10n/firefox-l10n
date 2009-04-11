@@ -45,6 +45,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newAccountCmd.label "Nytt konto…">
 <!ENTITY newAccountCmd.accesskey "K">
+<!ENTITY newMailAccountCmd.label "Nytt e-postkonto (express)…">
+<!ENTITY newMailAccountCmd.accesskey "x">
 <!ENTITY openMessageFileCmd.label "Öppna sparat meddelande…">
 <!ENTITY openMessageFileCmd.accesskey "s">
 <!ENTITY openAttachmentCmd.label "Bilagor">
