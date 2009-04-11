@@ -71,8 +71,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle kontoer">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "Hent alle nye meldinger">
-<!ENTITY getAllNewMsgCmd.key "t">
-<!ENTITY getNextNMsgCmd.label "Hent neste 500 meldinger i nyhetsgruppa">
+<!ENTITY getAllNewMsgCmd.key "H">
+<!ENTITY getNextNMsgCmd.label "Hent neste 500 meldinger i nyhetsgruppen">
 <!ENTITY getNextNMsgCmd.accesskey "N">
 <!ENTITY sendUnsentCmd.label "Send usendte meldinger">
 <!ENTITY sendUnsentCmd.accesskey "d">

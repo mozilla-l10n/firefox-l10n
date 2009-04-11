@@ -31,7 +31,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Denne kontoen">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "D">
-<!ENTITY getNextNMsgCmd.label "Hent neste 500 meldinger i nyhetsgruppa">
+<!ENTITY getNextNMsgCmd.label "Hent neste 500 meldinger i nyhetsgruppen">
 <!ENTITY getNextNMsgCmd.accesskey "N">
 <!ENTITY sendUnsentCmd.label "Send usendte meldinger">
 <!ENTITY sendUnsentCmd.accesskey "u">
