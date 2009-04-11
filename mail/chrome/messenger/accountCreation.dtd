@@ -1,0 +1,44 @@
+<!ENTITY welcome.description "Быстрая настройка учётной записи">
+<!ENTITY autoconfigWizard.style "width: 640px; height: 480px;">
+<!ENTITY name.description "Ваше имя">
+<!ENTITY email.description "Адрес электронной почты">
+<!ENTITY password.description "Пароль">
+<!ENTITY username.label "имя пользователя">
+<!ENTITY receivingserver.label "получающий">
+<!ENTITY sendingserver.label "отправляющий">
+<!ENTITY noencryption.label "Нет">
+<!ENTITY starttls.label "STARTTLS">
+<!ENTITY ssltls.label "SSL / TLS">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop.label "POP">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY gotoadvanced.label "Перейти в дополнительные настройки">
+<!ENTITY cancel.label "Отмена">
+<!ENTITY stop.label "Стоп">
+<!ENTITY go_button.label "Перейти">
+<!ENTITY edit.label "Изменить">
+<!ENTITY createaccount.label "Создание учётной записи">
+<!ENTITY rememberpassword.label "Запомнить пароль">
+<!ENTITY warning.label "Предупреждение!">
+<!ENTITY incoming_settings.label "Настройки входящей почты:">
+<!ENTITY outgoing_settings.label "Настройки исходящей почты:">
+<!ENTITY incoming_is_checked.label "Я дважды проверил настройки входящей почты.">
+<!ENTITY outgoing_is_checked.label "Я дважды проверил настройки исходящей почты.">
+<!ENTITY understood.label "Я знаю что делаю.">
+<!ENTITY getmeout.label "Звучит жутко, выпустите меня.">
+<!ENTITY lectureYourProvider.description "&brandShortName; позволит вам забирать свою почту, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить его почтовый сервер на работу по защищённому соединению.">
+<!ENTITY getcertinfo.label "Получить информацию по защищённой работе с почтовыми серверами.">
+<!ENTITY certinfo.url "http://www.mozillamessaging.com/XXX/about/certs">
+<!ENTITY insecureCleartext.description "Внимание! Это незащищённый сервер. Письма будут отправляться в виде простого текста, так что ваша переписка может быть прочтена злоумышленниками и т.д.. &brandShortName; позволит вам забирать свою почту, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить его почтовый сервер на работу по защищённому соединению.">
+<!ENTITY insecureSelfsigned.description "Внимание! Это незащищённый сервер. Сервер использует сертификат, которому мы не можем доверять, так что мы не можем быть уверены, что кто-то не перехватывает трафик между &brandShortName; и вашим сервером. &brandShortName; позволит вам забирать свою почту, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить его почтовый сервер на работу с доверенным сертификатом.">
+<!ENTITY secureServer.description "Поздравляем! Это защищённый сервер.">
+<!ENTITY customfields-header.label "Дополнительная информация">
+<!ENTITY customfields-intro1.descr "Для настройки вашей учётной записи у вашего провайдера электронной почты необходима дополнительная информация.">
+<!ENTITY customfields-intro2.descr "Пожалуйста, поищите информацию, содержащую параметры учётной записи, и введите её в расположенные ниже поля. Данная информация обычно предоставляется вам при регистрации у провайдера на листе бумаги или в виде электронного письма.">
+<!ENTITY customfields-cancel.label "Назад">
+<!ENTITY customfields-ok.label "OK">
+<!ENTITY enableURLs-header.label "Включение учётной записи для &brandShortName;">
+<!ENTITY enableURLs-intro1.descr "Ваш провайдер просит вас произвести кое-какие дополнительные действия для активации вашей учётной записи при её использования в &brandShortName;.">
+<!ENTITY enableURLs-intro2.descr "Пожалуйста, посетите указанные ниже веб-страницы, при необходимости войдите в свою учётную запись, и произведите действие, упомянутое ниже или на этой странице.">
+<!ENTITY enableURLs-cancel.label "Назад">
+<!ENTITY enableURLs-ok.label "Я всё это сделал">
