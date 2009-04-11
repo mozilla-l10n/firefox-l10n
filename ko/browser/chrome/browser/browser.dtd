@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(사생활 보호 모드)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "새 탭">
 <!ENTITY tabCmd.accesskey "T">
@@ -86,10 +84,6 @@
 <!ENTITY homeButton.label "홈">
 <!ENTITY bookmarksButton.label "북마크">
 <!ENTITY bookmarksButton.tooltip "북마크 표시">
-<!ENTITY bookmarksSidebarCmd.accesskey "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 <!ENTITY historyButton.label "방문 기록">
 <!ENTITY historyButton.tooltip "최근 방문 사이트 목록 표시">
 <!ENTITY historySidebarCmd.accesskey "s">

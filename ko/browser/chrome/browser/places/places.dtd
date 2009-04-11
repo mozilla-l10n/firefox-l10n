@@ -175,10 +175,8 @@
 <!ENTITY maintenance.label "가져오기 및 복구">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY backCmd.label "뒤로">
-<!ENTITY backCmd.accesskey "B">
 <!ENTITY backButton.tooltip "뒤로 가기">
 <!ENTITY forwardCmd.label "앞으로">
-<!ENTITY forwardCmd.accesskey "F">
 <!ENTITY forwardButton.tooltip "앞으로 가기">
 <!ENTITY detailsPane.more.label "자세히">
 <!ENTITY detailsPane.more.accesskey "e">

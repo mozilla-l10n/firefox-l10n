@@ -22,7 +22,6 @@
 <!ENTITY helpReleaseNotes.label "온라인 제품 소개서">
 <!ENTITY helpReleaseNotes.accesskey "N">
 <!ENTITY updateCmd.label "업데이트 확인…">
-<!ENTITY updateCmd.accesskey "o">
 <!ENTITY preferencesCmdMac.label "환경 설정…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
