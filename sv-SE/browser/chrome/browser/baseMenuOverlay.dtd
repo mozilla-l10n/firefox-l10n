@@ -29,10 +29,6 @@
 <!ENTITY helpReleaseNotes.label         "Versionsfakta">
 <!ENTITY helpReleaseNotes.accesskey     "V">
 <!ENTITY updateCmd.label                "Sök efter uppdateringar…">
-<!-- SVENSK NOTERING: updateCmd.accesskey används även för menyposterna
-  updatesItem_xxx som finns i browser.properties. Bokstaven måste alltså finnas
-  både i updateCmd.label och i updatesItem_xxx-strängarna. Se bugg 315226 -->
-<!ENTITY updateCmd.accesskey            "a">
 
 <!ENTITY preferencesCmdMac.label        "Inställningar…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
