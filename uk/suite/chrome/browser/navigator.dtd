@@ -129,8 +129,8 @@
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Назад">
 <!ENTITY backButton.tooltip           "Перейти на сторінку назад">
-<!ENTITY forwardButton.label          "Попередня">
-<!ENTITY forwardButton.tooltip        "Перейти на попередню сторінку">
+<!ENTITY forwardButton.label          "Вперед">
+<!ENTITY forwardButton.tooltip        "Перейти на сторінку вперед">
 <!ENTITY reloadButton.label           "Оновити">
 <!ENTITY reloadButton.tooltip         "Оновити поточну сторінку">
 <!ENTITY stopButton.label             "Зупинити">
