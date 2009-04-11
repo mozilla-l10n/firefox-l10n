@@ -64,23 +64,27 @@
 <!ENTITY retentionDeleteMsg.label "מחק הודעות בנות יותר מאשר">
 <!ENTITY retentionDeleteMsg.accesskey "י">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
-<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepAll.accesskey "א">
 <!ENTITY retentionKeepNew.label "מחק הכל מלבד">
-<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepNew.accesskey "ה">
 <!ENTITY retentionKeepUnread.label "מחק תמיד הודעות שנקראו">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY folderOfflineTab.label "לא־מקוון">
+<!ENTITY retentionKeepUnread.accesskey "מ">
+
+<!-- ### ENTITY folderOfflineTab.label "לא־מקוון" -->
+<!ENTITY folderSynchronizationTab.label          "סינכרון">
 <!ENTITY folderCheckForNewMessages.label "בדוק אם קיימות הודעות חדשות בתיקייה זו">
-<!ENTITY folderCheckForNewMessages.accesskey "C">
+<!ENTITY folderCheckForNewMessages.accesskey "ב">
+
 <!ENTITY offlineFolder.check.label "בחר תיקייה זו לשימוש לא־מקוון">
-<!ENTITY offlineFolder.check.accesskey "S">
+<!ENTITY offlineFolder.check.accesskey "ש">
 <!ENTITY offlineFolder.button.label "הורד עכשיו">
-<!ENTITY offlineFolder.button.accesskey "D">
+<!ENTITY offlineFolder.button.accesskey "ה">
+
 <!ENTITY selectofflineNewsgroup.check.label "בחר קבוצת דיון זו לשימוש לא־מקוון">
-<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY selectofflineNewsgroup.check.accesskey "ש">
 
 <!ENTITY offlineNewsgroup.button.label "הורד עכשיו">
-<!ENTITY offlineNewsgroup.button.accesskey "D">
+<!ENTITY offlineNewsgroup.button.accesskey "ה">
 
 <!ENTITY folderProps.name.label "שם:">
 <!ENTITY folderProps.name.accesskey "ש">

@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "פ">
 <!ENTITY newAccountCmd.label "חשבון…">
 <!ENTITY newAccountCmd.accesskey "ח">
+<!ENTITY newMailAccountCmd.label "חשבון דואר (הגדרה מהירה)…">
+<!ENTITY newMailAccountCmd.accesskey "מ">
 <!ENTITY openMessageWindowCmd.label "פתיחה">
 <!ENTITY openMessageFileCmd.label "פתח הודעה שמורה…">
 <!ENTITY openMessageFileCmd.accesskey "ת">
@@ -387,10 +389,9 @@
 <!ENTITY activitymanager.accesskey "פ">
 <!ENTITY messengerCmd.label "דואר וקבוצות דיון">
 <!ENTITY messengerCmd.accesskey "ד">
-<!--###ENTITY messengerCmd.commandkey "1"-->
 <!ENTITY addressBookCmd.label "פנקס כתובות">
 <!ENTITY addressBookCmd.accesskey "כ">
-<!--###ENTITY addressBookCmd.commandkey "2"-->
+<!ENTITY addressBookCmd.key "B">
 
 <!ENTITY runJunkControls.label "הפעל פקדי דואר זבל על התיקייה">
 <!ENTITY runJunkControls.accesskey "פ">
