@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; 不會記錄此瀏覽狀態的任何記錄。">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; 目前不在隱私瀏覽模式。">
 
-<!ENTITY privatebrowsingpage.description               "在隱私瀏覽狀態下，&brandShortName; 不會留下任何瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、 Cookie、暫存 Internet 檔案。然而，下載的檔案及新增的書籤將被保留。">
+<!ENTITY privatebrowsingpage.description               "在隱私瀏覽狀態下，&brandShortName; 不會留下任何瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、Cookie、Internet 暫存檔案。然而，下載的檔案及新增的書籤將被保留。">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
@@ -18,5 +18,5 @@
 <!ENTITY privatebrowsingpage.howToStop                 "欲停止隱私瀏覽，選擇&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;或結束 &brandShortName;。">
 <!ENTITY privatebrowsingpage.howToStart                "你也可以選擇&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;來開始隱私瀏覽。">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "雖然這台電腦不會留下任何歷史紀錄，你的網路服務提供商或雇主還是能追蹤你瀏覽的頁面。">
+<!ENTITY privatebrowsingpage.moreInfo                  "雖然這台電腦不會留下任何歷史記錄，你的網路服務提供商或雇主還是能追蹤你瀏覽的頁面。">
 <!ENTITY privatebrowsingpage.learnMore                 "更多資訊">
