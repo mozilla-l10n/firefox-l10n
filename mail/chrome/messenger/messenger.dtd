@@ -9,7 +9,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "В">
 <!ENTITY newAccountCmd.label "Учётную запись…">
 <!ENTITY newAccountCmd.accesskey "У">
-<!ENTITY newMailAccountCmd.label "Учётная запись почты (Быстрая настройка)…">
+<!ENTITY newMailAccountCmd.label "Учётную запись почты (Быстрая настройка)…">
 <!ENTITY newMailAccountCmd.accesskey "с">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
