@@ -36,12 +36,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.tags.title            "Merkelapper">
-<!ENTITY pref.tags.caption          "Behandle merkelapper">
-<!ENTITY pref.tags.description      "Merkelapper kan brukes for å kategorisere og prioritere meldingene dine. Modifiser utseendet og viktigheten til merkelappene ved å bruke innstillingene nedenfor. Merkelapper nær toppen er viktigere enn de lenger nede.">
-<!ENTITY tagColumn.label            "Merkelapp">
+<!ENTITY pref.tags.title            "Etiketter">
+<!ENTITY pref.tags.caption          "Behandle etiketter">
+<!ENTITY pref.tags.description      "Etiketter kan brukes for å kategorisere og prioritere meldingene dine. Modifiser utseendet og viktigheten til etikettene ved å bruke innstillingene nedenfor. Etiketter nær toppen er viktigere enn de lenger nede.">
+<!ENTITY tagColumn.label            "Etikett">
 <!ENTITY colorColumn.label          "Farge">
-<!ENTITY defaultTagName.label       "Merkelapp uten navn">
+<!ENTITY defaultTagName.label       "Etikett uten navn">
 <!ENTITY addTagButton.label         "Legg til">
 <!ENTITY addTagButton.accesskey     "L">
 <!ENTITY deleteTagButton.label      "Slett">
