@@ -49,7 +49,7 @@
 <!ENTITY fullScreenCmd.label "تمام صفحه">
 <!ENTITY fullScreenCmd.accesskey "ت">
 
-<!ENTITY fullScreenMinimize.tooltip "حداقل کردن">
+<!ENTITY fullScreenMinimize.tooltip "کمینه کردن">
 <!ENTITY fullScreenRestore.tooltip "برگرداندن">
 <!ENTITY fullScreenClose.tooltip "بستن">
 <!ENTITY fullScreenAutohide.label "پنهان‌سازی نوارهای ابزار">

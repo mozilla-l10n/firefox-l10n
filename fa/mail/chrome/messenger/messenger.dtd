@@ -703,7 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusText.label "انجام شد">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "حداقل کردن">
+<!ENTITY minimizeWindow.label "کمینه کردن">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "آوردن همه به جلو">
 <!ENTITY zoomWindow.label "زوم">

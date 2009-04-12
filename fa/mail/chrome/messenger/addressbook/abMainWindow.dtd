@@ -200,7 +200,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "پنجره">
-<!ENTITY minimizeWindow.label "حداقل کردن">
+<!ENTITY minimizeWindow.label "کمینه کردن">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "آوردن همه به جلو">
 <!ENTITY zoomWindow.label "زوم">

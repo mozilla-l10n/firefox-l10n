@@ -1,5 +1,5 @@
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "حداقل کردن">
+<!ENTITY minimizeWindow.label     "کمینه کردن">
 <!ENTITY bringAllToFront.label    "آوردن همه به جلو">
 <!ENTITY zoomWindow.label         "زوم">
 <!ENTITY windowMenu.label         "پنجره">
