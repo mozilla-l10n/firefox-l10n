@@ -19,7 +19,7 @@
 <!ENTITY openFileCmd.label "بازکردن پرونده…">
 <!ENTITY openFileCmd.accesskey "ب">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "تنظیمات صفحه…">
+<!ENTITY printSetupCmd.label "تنظیم صفحه…">
 <!ENTITY printSetupCmd.accesskey "ت">
 <!ENTITY printPreviewCmd.label "پیش‌نمایش چاپ">
 <!ENTITY printPreviewCmd.accesskey "پ">
