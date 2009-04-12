@@ -18,6 +18,6 @@
 <!ENTITY format.label                     "Sendeformat">
 <!ENTITY return.label                     "Returkvitteringer">
 <!ENTITY junk.label                       "Søppelpost">
-<!ENTITY tags.label                       "Merkelapper">
+<!ENTITY tags.label                       "Etiketter">
 <!ENTITY characterEncoding.label          "Tegnkoding">
 <!ENTITY offline.label                    "Frakoblet og diskplass">

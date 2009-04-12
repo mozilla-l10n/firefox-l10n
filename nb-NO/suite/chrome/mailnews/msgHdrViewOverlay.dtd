@@ -48,7 +48,7 @@
 <!ENTITY newsgroupsField.label "Nyhetsgruppe ">
 <!ENTITY followupToField.label "Oppfølging til ">
 
-<!ENTITY tagsHdr.label "Merkelapper: ">
+<!ENTITY tagsHdr.label "Etiketter: ">
 <!ENTITY dateField.label "Dato ">
 <!ENTITY userAgentField.label "Applikasjon ">
 <!ENTITY referencesField.label "Referanser: ">

@@ -6,7 +6,7 @@
 <!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Generelt">
-<!ENTITY paneDisplay.title        "Visning">
+<!ENTITY paneDisplay.title        "Utseende">
 <!ENTITY paneComposition.title    "Skriving">
 <!ENTITY paneAttachments.title    "Vedlegg">
 <!ENTITY paneSecurity.title       "Sikkerhet">

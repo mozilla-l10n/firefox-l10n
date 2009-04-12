@@ -47,6 +47,6 @@
 <!ENTITY  paneGeneral.title       "Generelt">
 <!ENTITY  paneAlarms.title        "Alarmer">
 <!ENTITY  paneCategories.title    "Kategorier">
-<!ENTITY  paneViews.title         "Visning">
+<!ENTITY  paneViews.title         "Utseende">
 <!ENTITY  paneTimezones.title     "Tidssone">
 <!ENTITY  paneAdvanced.title      "Avansert">
