@@ -38,83 +38,83 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- extracted from ./bookmarks.xul -->
-<!ENTITY menuBar.tooltip               "Menu Bar">
-<!ENTITY bookmarkToolbar.tooltip       "Bookmark Toolbar">
-<!ENTITY menuitem.newBookmark.label    "Bookmark">
-<!ENTITY menuitem.newBookmark.accesskey "B">
-<!ENTITY menuitem.newFolder.label      "Folder">
-<!ENTITY menuitem.newFolder.accesskey  "F">
-<!ENTITY button.newFolder.label        "New Folder">
-<!ENTITY button.newFolder.accesskey    "N">
-<!ENTITY menuitem.newSeparator.label   "Separator">
-<!ENTITY menuitem.newSeparator.accesskey "S">
-<!ENTITY button.newSeparator.label     "New Separator">
-<!ENTITY button.newSeparator.accesskey "o">
-<!ENTITY menuitem.open.label           "Open Bookmarks File…">
-<!ENTITY menuitem.open.accesskey       "O">
-<!ENTITY menuitem.import.label         "Import…">
-<!ENTITY menuitem.import.accesskey     "i">
-<!ENTITY menuitem.export.label         "Export…">
-<!ENTITY menuitem.export.accesskey     "e">
-<!ENTITY menuitem.find.label           "Search Bookmarks…">
-<!ENTITY menuitem.find.accesskey       "S">
+<!ENTITY menuBar.tooltip               "Меню">
+<!ENTITY bookmarkToolbar.tooltip       "Пенал закладок">
+<!ENTITY menuitem.newBookmark.label    "Закладка">
+<!ENTITY menuitem.newBookmark.accesskey "З">
+<!ENTITY menuitem.newFolder.label      "Тека">
+<!ENTITY menuitem.newFolder.accesskey  "Т">
+<!ENTITY button.newFolder.label        "Нова тека">
+<!ENTITY button.newFolder.accesskey    "Н">
+<!ENTITY menuitem.newSeparator.label   "Роздільник">
+<!ENTITY menuitem.newSeparator.accesskey "Р">
+<!ENTITY button.newSeparator.label     "Новий роздільник">
+<!ENTITY button.newSeparator.accesskey "Н">
+<!ENTITY menuitem.open.label           "Відкрити файл з закладками…">
+<!ENTITY menuitem.open.accesskey       "В">
+<!ENTITY menuitem.import.label         "Імпортувати…">
+<!ENTITY menuitem.import.accesskey     "І">
+<!ENTITY menuitem.export.label         "Експортувати…">
+<!ENTITY menuitem.export.accesskey     "Е">
+<!ENTITY menuitem.find.label           "Пошукати закладки…">
+<!ENTITY menuitem.find.accesskey       "П">
 <!ENTITY menuitem.find.find.key        "F">
-<!ENTITY command.findBookmarks.label   "Search…">
-<!ENTITY menuitem.properties.label     "Properties…">
-<!ENTITY menuitem.properties.accesskey "o">
-<!ENTITY button.properties.label       "Properties…">
-<!ENTITY button.properties.accesskey   "P">
+<!ENTITY command.findBookmarks.label   "Шукати…">
+<!ENTITY menuitem.properties.label     "Властивості…">
+<!ENTITY menuitem.properties.accesskey "В">
+<!ENTITY button.properties.label       "Властивості…">
+<!ENTITY button.properties.accesskey   "В">
 <!ENTITY menuitem.properties.key       "I">
-<!ENTITY button.rename.label           "Rename…">
-<!ENTITY button.rename.accesskey       "R">
-<!ENTITY button.delete.label           "Delete">
-<!ENTITY button.delete.accesskey       "D">
-<!ENTITY menuitem.moveBookmark.label   "Move Bookmark(s)…">
-<!ENTITY menuitem.moveBookmark.accesskey "M">
-<!ENTITY button.moveBookmark.label     "Move…">
-<!ENTITY button.moveBookmark.accesskey "M">
-<!ENTITY command.addBookmark.label     "Add…">
-<!ENTITY command.manageBookmarks.label "Manage">
-<!ENTITY command.sortFolder.label      "Sort Folder…">
-<!ENTITY command.sortFolder.accesskey  "S">
+<!ENTITY button.rename.label           "Змінити назву…">
+<!ENTITY button.rename.accesskey       "З">
+<!ENTITY button.delete.label           "Вилучити">
+<!ENTITY button.delete.accesskey       "В">
+<!ENTITY menuitem.moveBookmark.label   "Перемістити закладку(и)…">
+<!ENTITY menuitem.moveBookmark.accesskey "П">
+<!ENTITY button.moveBookmark.label     "Перемістити…">
+<!ENTITY button.moveBookmark.accesskey "П">
+<!ENTITY command.addBookmark.label     "Додати…">
+<!ENTITY command.manageBookmarks.label "Впорядкувати">
+<!ENTITY command.sortFolder.label      "Впорядкувати теку…">
+<!ENTITY command.sortFolder.accesskey  "В">
 <!ENTITY command.sortFolder.key        "S">
-<!ENTITY command.sortFolderByName.label "Sort Folder by Name">
-<!ENTITY command.sortFolderByName.accesskey "N">
+<!ENTITY command.sortFolderByName.label "Впорядкувати за назвою">
+<!ENTITY command.sortFolderByName.accesskey "В">
 
-<!ENTITY menuitem.view.command.toolbar.label        "Toolbar">
-<!ENTITY menuitem.view.command.toolbar.accesskey    "t">
-<!ENTITY menuitem.view.show_columns.label           "Show columns">
-<!ENTITY menuitem.view.show_columns.accesskey       "c">
-<!ENTITY menuitem.newbookmarkfolder.label           "Set as New Bookmark Folder">
-<!ENTITY menuitem.newbookmarkfolder.accesskey       "b">
-<!ENTITY menuitem.newinternetsearchfolder.label     "Set as New Internet Search Folder">
-<!ENTITY menuitem.newinternetsearchfolder.accesskey "i">
-<!ENTITY menuitem.personaltoolbarfolder.label       "Set as Personal Toolbar Folder">
-<!ENTITY menuitem.personaltoolbarfolder.accesskey   "p">
+<!ENTITY menuitem.view.command.toolbar.label        "Пенал">
+<!ENTITY menuitem.view.command.toolbar.accesskey    "П">
+<!ENTITY menuitem.view.show_columns.label           "Показати стовпці">
+<!ENTITY menuitem.view.show_columns.accesskey       "П">
+<!ENTITY menuitem.newbookmarkfolder.label           "Влаштувати як нову теку закладок">
+<!ENTITY menuitem.newbookmarkfolder.accesskey       "В">
+<!ENTITY menuitem.newinternetsearchfolder.label     "Влаштувати як теку пошуку">
+<!ENTITY menuitem.newinternetsearchfolder.accesskey "В">
+<!ENTITY menuitem.personaltoolbarfolder.label       "Влаштувати як теку особистого пенала">
+<!ENTITY menuitem.personaltoolbarfolder.accesskey   "В">
 
-<!ENTITY treecol.name.label             "Name">
-<!ENTITY treecol.name.accesskey         "N">
-<!ENTITY treecol.name.tooltip           "Click to sort by name">
-<!ENTITY treecol.url.label              "Location">
-<!ENTITY treecol.url.accesskey          "L">
-<!ENTITY treecol.url.tooltip            "Click to sort by location">
-<!ENTITY treecol.shortcut.label         "Keyword">
-<!ENTITY treecol.shortcut.accesskey     "K">
-<!ENTITY treecol.shortcut.tooltip       "Click to sort by keyword">
-<!ENTITY treecol.description.label      "Description">
-<!ENTITY treecol.description.accesskey  "D">
-<!ENTITY treecol.description.tooltip    "Click to sort by description">
-<!ENTITY treecol.addedon.label          "Added">
-<!ENTITY treecol.addedon.accesskey      "A">
-<!ENTITY treecol.addedon.tooltip        "Click to sort by added">
-<!ENTITY treecol.lastmod.label          "Last Modified">
-<!ENTITY treecol.lastmod.accesskey      "M">
-<!ENTITY treecol.lastmod.tooltip        "Click to sort by last modified">
-<!ENTITY treecol.lastvisit.label        "Last Visited">
-<!ENTITY treecol.lastvisit.accesskey    "V">
-<!ENTITY treecol.lastvisit.tooltip      "Click to sort by last visit">
+<!ENTITY treecol.name.label             "Назва">
+<!ENTITY treecol.name.accesskey         "Н">
+<!ENTITY treecol.name.tooltip           "Клацнути, щоб впорядувати за назвою">
+<!ENTITY treecol.url.label              "Адреса">
+<!ENTITY treecol.url.accesskey          "А">
+<!ENTITY treecol.url.tooltip            "Клацнути, щоб впорядкувати за адресою">
+<!ENTITY treecol.shortcut.label         "Ключова фраза">
+<!ENTITY treecol.shortcut.accesskey     "К">
+<!ENTITY treecol.shortcut.tooltip       "Клацнути, щоб впорядкувати за ключовою фразою">
+<!ENTITY treecol.description.label      "Опис">
+<!ENTITY treecol.description.accesskey  "О">
+<!ENTITY treecol.description.tooltip    "Клацнути, щоб впорядкувати за описом">
+<!ENTITY treecol.addedon.label          "Створення">
+<!ENTITY treecol.addedon.accesskey      "С">
+<!ENTITY treecol.addedon.tooltip        "Клацнути, щоб впорядкувати за створенням">
+<!ENTITY treecol.lastmod.label          "Зміни">
+<!ENTITY treecol.lastmod.accesskey      "З">
+<!ENTITY treecol.lastmod.tooltip        "Клацнути, щоб впорядкувати за часом останньої зміни">
+<!ENTITY treecol.lastvisit.label        "Відвідування">
+<!ENTITY treecol.lastvisit.accesskey    "В">
+<!ENTITY treecol.lastvisit.tooltip      "Клацнути, щоб впорядкувати за часом останнього відвідування">
 
-<!ENTITY bookmarksWindowTitle.label     "Bookmark Manager">
+<!ENTITY bookmarksWindowTitle.label     "Впорядкування закладок">
 
-<!ENTITY search.emptytext               "Search Bookmarks">
-<!ENTITY search.key                     "f">
+<!ENTITY search.emptytext               "Пошук закладок">
+<!ENTITY search.key                     "П">

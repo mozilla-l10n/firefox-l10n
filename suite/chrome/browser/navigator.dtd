@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Вкладка преглядача">
+<!ENTITY tabCmd.label "Вкладка навігатора">
 <!ENTITY tabCmd.accesskey "В">
 <!ENTITY tabCmd.commandkey "в">
 <!ENTITY openCmd.label "Відкрити сайт…">
