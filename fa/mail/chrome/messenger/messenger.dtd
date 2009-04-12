@@ -111,7 +111,7 @@
 <!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
 <!ENTITY undoDefaultCmd.label "برگردان">
 <!ENTITY undoDefaultCmd.accesskey "ب">
-<!ENTITY redoDefaultCmd.label "دوباره">
+<!ENTITY redoDefaultCmd.label "از نو">
 <!ENTITY redoDefaultCmd.accesskey "د">
 
 <!-- View Menu -->

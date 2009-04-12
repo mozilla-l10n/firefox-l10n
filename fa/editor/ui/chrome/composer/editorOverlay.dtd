@@ -152,7 +152,7 @@
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "برگردان">
 <!ENTITY undoCmd.accesskey "ب">
-<!ENTITY redoCmd.label "دوباره">
+<!ENTITY redoCmd.label "از نو">
 <!ENTITY redoCmd.accesskey "د">
 <!ENTITY cutCmd.label "بریدن">
 <!ENTITY cutCmd.accesskey "ب">
