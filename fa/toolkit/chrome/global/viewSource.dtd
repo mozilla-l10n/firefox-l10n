@@ -15,7 +15,7 @@
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "تنظیم صفحه…">
 <!ENTITY pageSetupCmd.accesskey "ت">
-<!ENTITY printPreviewCmd.label "پیش‌نمایش چاپ">
+<!ENTITY printPreviewCmd.label "پیش‌نمای چاپ">
 <!ENTITY printPreviewCmd.accesskey "پ">
 <!ENTITY printCmd.label "چاپ…">
 <!ENTITY printCmd.accesskey "چ">

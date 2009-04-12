@@ -21,7 +21,7 @@
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "تنظیم صفحه…">
 <!ENTITY printSetupCmd.accesskey "ت">
-<!ENTITY printPreviewCmd.label "پیش‌نمایش چاپ">
+<!ENTITY printPreviewCmd.label "پیش‌نمای چاپ">
 <!ENTITY printPreviewCmd.accesskey "پ">
 <!ENTITY printCmd.label "چاپ…">
 <!ENTITY printCmd.accesskey "چ">

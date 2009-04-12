@@ -61,7 +61,7 @@
 <!ENTITY printCmd.label "چاپ…">
 <!ENTITY printCmd.accesskey "چ">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "پیش‌نمایش چاپ">
+<!ENTITY printPreviewCmd.label "پیش‌نمای چاپ">
 <!ENTITY printPreviewCmd.accesskey "پ">
 <!ENTITY printSetupCmd.label "تنظیم صفحه…">
 <!ENTITY printSetupCmd.accesskey "ت">
@@ -642,7 +642,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextSaveAs.accesskey "ذ">
 <!ENTITY contextPrint.label "چاپ…">
 <!ENTITY contextPrint.accesskey "چ">
-<!ENTITY contextPrintPreview.label "پیش‌نمایش چاپ">
+<!ENTITY contextPrintPreview.label "پیش‌نمای چاپ">
 <!ENTITY contextPrintPreview.accesskey "پ">
 
 <!-- Junk Bar -->
