@@ -16,9 +16,9 @@
 <!ENTITY openLocation.label    "باز کردن نشانی">
 <!ENTITY openLocation.tooltip  "باز کردن نشانی">
 <!ENTITY star.label            "ستاره‌گذاری">
-<!ENTITY star.tooltip          "چوب‌الف‌گذاری این صفحه">
-<!ENTITY bookmarks.label       "چوب‌الف‌ها">
-<!ENTITY bookmarks.tooltip     "مشاهدهٔ چوب‌الف‌ها">
+<!ENTITY star.tooltip          "نشانک‌گذاری این صفحه">
+<!ENTITY bookmarks.label       "نشانک‌ها">
+<!ENTITY bookmarks.tooltip     "مشاهدهٔ نشانک‌ها">
 
 <!ENTITY newtab.label          "زبانهٔ جدید">
 <!ENTITY closetab.label        "بستن زبانه">
@@ -32,7 +32,7 @@
 <!ENTITY noSuggestions.label   "(پیشنهادی موجود نیست)">
 <!ENTITY addToDictionary.label "اضافه‌کردن به واژه‌نامه">
 
-<!ENTITY bookmarksHeader.label     "چوب‌الف‌ها">
+<!ENTITY bookmarksHeader.label     "نشانک‌ها">
 <!ENTITY bookmarksManage.label     "مدیریت">
 <!ENTITY foldersHeader.label       "پوشه‌ها">
 

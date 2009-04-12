@@ -48,7 +48,7 @@
 <!ENTITY resetToolbars.label          "بازگردانی کنترل‌ها و نوارهای ابزار به حالت اولیه">
 <!ENTITY resetToolbars.accesskey      "ب">
 
-<!ENTITY resetBookmarks.label         "بازگردانی چوب‌الف‌ها به مقادیر اولیهٔ &brandShortName;">
+<!ENTITY resetBookmarks.label         "بازگردانی نشانک‌ها به مقادیر اولیهٔ &brandShortName;">
 <!ENTITY resetBookmarks.accesskey     "چ">
 
 <!ENTITY resetUserPrefs.label         "بازگردانی تمامی ترجیحات به مقادیر اولیهٔ &brandShortName;">

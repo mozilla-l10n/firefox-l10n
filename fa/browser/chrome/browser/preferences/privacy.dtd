@@ -5,9 +5,9 @@
 <!ENTITY  locbar.pre.label              "هنگام استفاده از نوار مکان، از میان">
 <!ENTITY  locbar.pre.accessKey          "گ">
 <!ENTITY  locbar.post.label             "پیشنهاد داده شود">
-<!ENTITY  locbar.both.label             "تاریخچه و چوب‌الف‌ها">
+<!ENTITY  locbar.both.label             "تاریخچه و نشانک‌ها">
 <!ENTITY  locbar.history.label          "تاریخچه">
-<!ENTITY  locbar.bookmarks.label        "چوب‌الف‌ها">
+<!ENTITY  locbar.bookmarks.label        "نشانک‌ها">
 <!ENTITY  locbar.nothing.label          "هیچ‌کدام">
 
 <!-- LOCALIZATION NOTE:

@@ -4,15 +4,15 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title چوب‌الف‌ها
-#define bookmarks_heading چوب‌الف‌ها
+#define bookmarks_title نشانک‌ها
+#define bookmarks_heading نشانک‌ها
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons دریافت افزودنی‌های چوب‌الف
+#define bookmarks_addons دریافت افزودنی‌های نشانک
 
-#define bookmarks_toolbarfolder پوشهٔ نوار ابزار چوب‌الف‌ها
-#define bookmarks_toolbarfolder_description چوب‌الف‌های این پوشه در «نوار ابزار چوب‌الف‌ها» نمایش داده خواهند شد
+#define bookmarks_toolbarfolder پوشهٔ نوار ابزار نشانک‌ها
+#define bookmarks_toolbarfolder_description نشانک‌های این پوشه در «نوار ابزار نشانک‌ها» نمایش داده خواهند شد
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/

@@ -12,9 +12,9 @@
 <!ENTITY  openTabInNewWindow.label    "باز کردن در پنجرهٔ جدید">
 <!ENTITY  openTabInNewWindow.accesskey "ک">
 <!ENTITY  listAllTabs.label      "فهرست همهٔ زبانه‌ها">
-<!ENTITY  bookmarkAllTabs.label       "چوب‌الف‌گذاری تمامی زبانه‌ها…">
+<!ENTITY  bookmarkAllTabs.label       "نشانک‌گذاری تمامی زبانه‌ها…">
 <!ENTITY  bookmarkAllTabs.accesskey   "ت">
-<!ENTITY  bookmarkThisTab.label       "چوب‌الف‌گذاری این زبانه">
+<!ENTITY  bookmarkThisTab.label       "نشانک‌گذاری این زبانه">
 <!ENTITY  bookmarkThisTab.accesskey   "چ">
 <!ENTITY  undoCloseTab.label          "برگردان بستن زبانه">
 <!ENTITY  undoCloseTab.accesskey      "ر">

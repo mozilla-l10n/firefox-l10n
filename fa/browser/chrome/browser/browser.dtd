@@ -34,9 +34,9 @@
 
 <!ENTITY navbarCmd.label "نوار ابزار راهبری">
 <!ENTITY navbarCmd.accesskey "ن">
-<!ENTITY personalbarCmd.label "نوار ابزار چوب‌الف‌ها">
+<!ENTITY personalbarCmd.label "نوار ابزار نشانک‌ها">
 <!ENTITY personalbarCmd.accesskey "ا">
-<!ENTITY bookmarksToolbarItem.label "موارد نوار ابزار چوب‌الف‌ها">
+<!ENTITY bookmarksToolbarItem.label "موارد نوار ابزار نشانک‌ها">
 <!ENTITY taskbarCmd.label "نوار وضعیت">
 <!ENTITY taskbarCmd.accesskey "و">
 
@@ -60,16 +60,16 @@
 <!ENTITY closeWindow.label "بستن پنجره">
 <!ENTITY closeWindow.accesskey "ه">
 
-<!ENTITY bookmarksMenu.label "چوب‌الف‌ها">
+<!ENTITY bookmarksMenu.label "نشانک‌ها">
 <!ENTITY bookmarksMenu.accesskey "چ">
-<!ENTITY bookmarkThisPageCmd.label "چوب‌الف‌گذاری این صفحه">
+<!ENTITY bookmarkThisPageCmd.label "نشانک‌گذاری این صفحه">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن این صفحه…">
-<!ENTITY addCurPagesCmd.label "چوب‌الف‌گذاری تمامی زبانه‌ها…">
-<!ENTITY organizeBookmarks.label "سازمان‌دهی چوب‌الف‌ها…">
-<!ENTITY bookmarkAllCmd.label "چوب‌الف‌گذاری تمامی زبانه‌ها…">
-<!ENTITY bookmarksToolbarChevron.tooltip "چوب‌الف‌های بیشتری نمایش داده شود">
+<!ENTITY addCurPagesCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
+<!ENTITY organizeBookmarks.label "سازمان‌دهی نشانک‌ها…">
+<!ENTITY bookmarkAllCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
+<!ENTITY bookmarksToolbarChevron.tooltip "نشانک‌های بیشتری نمایش داده شود">
 
 <!ENTITY backCmd.label                "عقب">
 <!ENTITY backCmd.accesskey            "ع">
@@ -93,13 +93,13 @@
 <!ENTITY locationItem.title           "مکان">
 <!ENTITY searchItem.title             "جستجو">
 <!ENTITY throbberItem.title           "شاخص فعالیت">
-<!ENTITY bookmarksItem.title          "چوب‌الف‌ها">
+<!ENTITY bookmarksItem.title          "نشانک‌ها">
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "آغازه">
 
-<!ENTITY bookmarksButton.label          "چوب‌الف‌ها">
-<!ENTITY bookmarksButton.tooltip        "نمایش چوب‌الف‌ها">
+<!ENTITY bookmarksButton.label          "نشانک‌ها">
+<!ENTITY bookmarksButton.tooltip        "نمایش نشانک‌ها">
 <!ENTITY bookmarksButton.accesskey  "چ">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -197,9 +197,9 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "جستجو در چوب‌الف‌ها و تاریخچه">
-<!ENTITY urlbar.bookmarkhistory.emptyText "جستجو در چوب‌الف‌ها و تاریخچه">
-<!ENTITY urlbar.bookmark.emptyText    "جستجو در چوب‌الف‌ها">
+<!ENTITY urlbar.emptyText             "جستجو در نشانک‌ها و تاریخچه">
+<!ENTITY urlbar.bookmarkhistory.emptyText "جستجو در نشانک‌ها و تاریخچه">
+<!ENTITY urlbar.bookmark.emptyText    "جستجو در نشانک‌ها">
 <!ENTITY urlbar.history.emptyText     "جستجو در تاریخچه">
 <!ENTITY urlbar.none.emptyText        "یک نشانی وبی وارد کنید">
 <!ENTITY urlbar.accesskey             "م">
@@ -265,11 +265,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "ص">
 <!ENTITY setDesktopBackgroundCmd.label      "قرار دادن در پس‌زمینهٔ رومیزی ">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ق">
-<!ENTITY bookmarkPageCmd2.label       "چوب‌الف‌گذاری این صفحه">
+<!ENTITY bookmarkPageCmd2.label       "نشانک‌گذاری این صفحه">
 <!ENTITY bookmarkPageCmd2.accesskey   "چ">
-<!ENTITY bookmarkThisLinkCmd.label      "چوب‌الف‌گذاری این پیوند">
+<!ENTITY bookmarkThisLinkCmd.label      "نشانک‌گذاری این پیوند">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "چ">
-<!ENTITY bookmarkThisFrameCmd.label      "چوب‌الف‌گذاری این چارچوب">
+<!ENTITY bookmarkThisFrameCmd.label      "نشانک‌گذاری این چارچوب">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "چ">
 <!ENTITY sendPageCmd.label            "فرستادن پیوند…">
 <!ENTITY sendPageCmd.accesskey        "ف">
