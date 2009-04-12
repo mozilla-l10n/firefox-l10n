@@ -41,7 +41,7 @@
 <!ENTITY taskbarCmd.accesskey "r">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
-<!ENTITY pageSourceCmd.accesskey "k">
+<!ENTITY pageSourceCmd.accesskey "d">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informácie o stránke">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -82,7 +82,7 @@
 <!ENTITY reloadCmd.accesskey            "O">
 <!ENTITY reloadButton.tooltip           "Načíta najnovšiu verziu stránky">
 <!ENTITY stopCmd.label                  "Zastaviť">
-<!ENTITY stopCmd.accesskey              "s">
+<!ENTITY stopCmd.accesskey              "Z">
 <!ENTITY stopCmd.macCommandKey          ".">
 <!ENTITY stopButton.tooltip             "Zastaví načítavanie tejto stránky">
 <!ENTITY goEndCap.tooltip               "Prejsť na adresu zadanú v paneli s adresou">
@@ -382,9 +382,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.accesskey            "Z">
 
 <!ENTITY pageStyleMenu.label           "Štýl stránky">
-<!ENTITY pageStyleMenu.accesskey       "t">
+<!ENTITY pageStyleMenu.accesskey       "s">
 <!ENTITY pageStyleNoStyle.label        "Žiadny štýl">
-<!ENTITY pageStyleNoStyle.accesskey    "n">
+<!ENTITY pageStyleNoStyle.accesskey    "a">
 <!ENTITY pageStylePersistentOnly.label "Základný štýl stránky">
 <!ENTITY pageStylePersistentOnly.accesskey "Z">
 
