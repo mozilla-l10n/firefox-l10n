@@ -9,8 +9,8 @@
 <!ENTITY reload.tooltip        "بازآوردن">
 <!ENTITY stop.label            "توقف">
 <!ENTITY stop.tooltip          "توقف">
-<!ENTITY search.label          "جستجو">
-<!ENTITY search.tooltip        "جستجو">
+<!ENTITY search.label          "جست‌وجو">
+<!ENTITY search.tooltip        "جست‌وجو">
 <!ENTITY go.label              "برو">
 <!ENTITY go.tooltip            "برو">
 <!ENTITY openLocation.label    "باز کردن نشانی">

@@ -91,7 +91,7 @@
 <!ENTITY printButton.tooltip          "چاپ کردن این صفحه">
 
 <!ENTITY locationItem.title           "مکان">
-<!ENTITY searchItem.title             "جستجو">
+<!ENTITY searchItem.title             "جست‌وجو">
 <!ENTITY throbberItem.title           "شاخص فعالیت">
 <!ENTITY bookmarksItem.title          "نشانک‌ها">
 
@@ -116,9 +116,9 @@
 <!ENTITY toolsMenu.label              "ابزارها">
 <!ENTITY toolsMenu.accesskey          "ا"> 
 
-<!ENTITY keywordfield.label           "اضافه کردن یک کلیدواژه به این جستجو…">
+<!ENTITY keywordfield.label           "اضافه کردن یک کلیدواژه به این جست‌وجو…">
 <!ENTITY keywordfield.accesskey       "ا">
-<!ENTITY search.label                 "جستجوی وب">
+<!ENTITY search.label                 "جست‌وجوی وب">
 <!ENTITY search.accesskey             "و">
 <!ENTITY downloads.label              "بارگیری">
 <!ENTITY downloads.tooltip            "نمایش پیشرفت بارگیری‌های در حال انجام">
@@ -197,10 +197,10 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "جستجو در نشانک‌ها و تاریخچه">
-<!ENTITY urlbar.bookmarkhistory.emptyText "جستجو در نشانک‌ها و تاریخچه">
-<!ENTITY urlbar.bookmark.emptyText    "جستجو در نشانک‌ها">
-<!ENTITY urlbar.history.emptyText     "جستجو در تاریخچه">
+<!ENTITY urlbar.emptyText             "جست‌وجو در نشانک‌ها و تاریخچه">
+<!ENTITY urlbar.bookmarkhistory.emptyText "جست‌وجو در نشانک‌ها و تاریخچه">
+<!ENTITY urlbar.bookmark.emptyText    "جست‌وجو در نشانک‌ها">
+<!ENTITY urlbar.history.emptyText     "جست‌وجو در تاریخچه">
 <!ENTITY urlbar.none.emptyText        "یک نشانی وبی وارد کنید">
 <!ENTITY urlbar.accesskey             "م">
 
@@ -443,4 +443,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "برای باز شدن پنجرهٔ بارگیری‌ها کلیک کنید">
 
-<!ENTITY ctrlTab.search.emptyText "جستجو در زبانه‌ها">
+<!ENTITY ctrlTab.search.emptyText "جست‌وجو در زبانه‌ها">

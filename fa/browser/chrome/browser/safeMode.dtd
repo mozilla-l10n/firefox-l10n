@@ -54,7 +54,7 @@
 <!ENTITY resetUserPrefs.label         "بازگردانی تمامی ترجیحات به مقادیر اولیهٔ &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "ت">
 
-<!ENTITY restoreSearch.label          "احیای موتورهای جستجوی پیش‌فرض">
+<!ENTITY restoreSearch.label          "احیای موتورهای جست‌وجوی پیش‌فرض">
 <!ENTITY restoreSearch.accesskey      "ح">
 
 <!ENTITY changeAndRestartButton.label "اِعمال تغییرات و راه‌اندازی مجدد">

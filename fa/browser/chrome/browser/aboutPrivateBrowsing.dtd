@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; از این نشست هیچ تاریخچه‌ای نگه نمی‌دارد.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; هم‌اکنون در حالت مرور خصوصی نیست.">
 
-<!ENTITY privatebrowsingpage.description               "در یک نشست مرور خصوصی، &brandShortName; هیج تاریخچه‌ای از مرور، جستجوها، بارگیری‌ها، فرم‌های وبی، کوکی‌ها یا پرونده‌های موقتی اینترنتی نگه نخواهد داشت.  با این حال، پرونده‌هایی که بارگیری کنید یا نشانک‌هایی که ایجاد کنید نگه داشته خواهند شد.">
+<!ENTITY privatebrowsingpage.description               "در یک نشست مرور خصوصی، &brandShortName; هیج تاریخچه‌ای از مرور، جست‌وجوها، بارگیری‌ها، فرم‌های وبی، کوکی‌ها یا پرونده‌های موقتی اینترنتی نگه نخواهد داشت.  با این حال، پرونده‌هایی که بارگیری کنید یا نشانک‌هایی که ایجاد کنید نگه داشته خواهند شد.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->

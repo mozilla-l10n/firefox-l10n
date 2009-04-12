@@ -134,7 +134,7 @@
 <!ENTITY col.dateadded.label     "تاریخ افزوده شدن">
 <!ENTITY col.lastmodified.label  "زمان آخرین تغییر">
 
-<!ENTITY search.label                              "جستجو:">
+<!ENTITY search.label                              "جست‌وجو:">
 <!ENTITY search.accesskey                          "ج">
 <!ENTITY search.scopeFolder.label                  "پوشهٔ انتخاب شده">
 <!ENTITY search.scopeFolder.accesskey              "پ">
@@ -144,12 +144,12 @@
 <!ENTITY search.scopeDownloads.accesskey           "ب">
 <!ENTITY search.scopeHistory.label                 "تاریخچه">
 <!ENTITY search.scopeHistory.accesskey             "ت">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "نمایش ایجادکنندهٔ جستجو">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "مخفی کردن ایجاد کنندهٔ جستجو">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "نمایش ایجادکنندهٔ جست‌وجو">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "مخفی کردن ایجاد کنندهٔ جست‌وجو">
 <!ENTITY saveSearch.label                          "ذخیره">
 <!ENTITY saveSearch.accesskey                      "ذ">
 <!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "جستجو تنها در نشانک‌ها">
+<!ENTITY advancedSearch.onlybookmarked.label       "جست‌وجو تنها در نشانک‌ها">
 <!ENTITY advancedSearch.match.label                "تطابق ">
 <!ENTITY advancedSearch.all.label                  "همهٔ">
 <!ENTITY advancedSearch.any.label                  "هر کدام از">

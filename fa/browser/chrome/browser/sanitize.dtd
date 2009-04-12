@@ -36,7 +36,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "ت">
 <!ENTITY itemBrowsingHistory.label         "تاریخچهٔ مرور">
 <!ENTITY itemBrowsingHistory.accesskey     "م">
-<!ENTITY itemFormSearchHistory.label       "تاریخچهٔ فرم‌ها و جستجوها">
+<!ENTITY itemFormSearchHistory.label       "تاریخچهٔ فرم‌ها و جست‌وجوها">
 <!ENTITY itemFormSearchHistory.accesskey   "ف">
 <!ENTITY itemPasswords.label               "گذرواژه‌های ذخیره شده">
 <!ENTITY itemPasswords.accesskey           "گ">

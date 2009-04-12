@@ -22,7 +22,7 @@
 <!ENTITY  focusSearch1.key                    "f">
 <!ENTITY  focusSearch2.key                    "k">
 
-<!ENTITY  filter.label                        "جستجو:">
+<!ENTITY  filter.label                        "جست‌وجو:">
 <!ENTITY  filter.accesskey                    "ج">
 <!ENTITY  clear.label                         "پاک کردن">
 <!ENTITY  clear.accesskey                     "پ">

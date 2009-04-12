@@ -123,12 +123,12 @@
 <!ENTITY getThemes.label                  "گرفتن تم جدید">
 <!ENTITY getPlugins.label                 "دریافت متصل‌شونده‌ها">
 
-<!ENTITY searchAddons.label               "جستجو در تمام افزودنی‌ها">
+<!ENTITY searchAddons.label               "جست‌وجو در تمام افزودنی‌ها">
 <!ENTITY browseAddons.label               "مرور تمام افزودنی‌ها">
 <!ENTITY searchFailed.label               "&brandShortName; موفق به دریافت افزودنی‌ها نشد">
 <!ENTITY recommendedHeader.label          "پیشنهاد شده">
 <!ENTITY recommendedThrobber.label        "دریافت افزودنی‌های پیشنهاد شده">
-<!ENTITY searchThrobber.label             "جستجو در افزودنی‌ها">
+<!ENTITY searchThrobber.label             "جست‌وجو در افزودنی‌ها">
 <!ENTITY resetSearch.label                "پاک‌سازی نتایج">
 <!ENTITY noSearchResults.label            "تمام نتایج یا قبلاً نصب شده‌اند یا ناسازگار هستند.">
 <!ENTITY noRecommendedResults.label       "تمام موارد پیشنهاد شده یا قبلاً نصب شده‌اند یا ناسازگار هستند.">
@@ -137,7 +137,7 @@
 <!ENTITY cancelSearch.button              "انصراف">
 <!ENTITY searchFailed.button              "تأیید">
 <!ENTITY searchResultHomepage.value       "بیشتر بدانید">
-<!ENTITY searchBox.label                  "جستجوی تمام افزودنی‌ها">
+<!ENTITY searchBox.label                  "جست‌وجوی تمام افزودنی‌ها">
 <!ENTITY recommendedResults.label         "مشاهدهٔ تمام افزودنی‌های پیشنهاد شده">
 <!ENTITY searchResultConnecting.label     "در حال اتصال…">
 <!ENTITY searchResultInstalling.label     "در حال نصب…">

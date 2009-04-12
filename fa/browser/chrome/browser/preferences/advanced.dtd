@@ -6,7 +6,7 @@
 
 <!ENTITY useCursorNavigation.label       "در مرور صفحات همیشه از مکان‌نما استفاده شود">
 <!ENTITY useCursorNavigation.accesskey   "م">
-<!ENTITY searchStartTyping.label         "هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جستجو شود">
+<!ENTITY searchStartTyping.label         "هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جست‌وجو شود">
 <!ENTITY searchStartTyping.accesskey     "ج">
 <!ENTITY blockAutoRefresh.label          "هنگامی که پایگاه‌های وبی تلاش می‌کنند صفحه را بازآوری کنند یا تغییر مسیر دهند، هشدار بده">
 <!ENTITY blockAutoRefresh.accesskey      "ه">
@@ -55,7 +55,7 @@
 <!ENTITY enableAppUpdate.accesskey       "ف">
 <!ENTITY enableAddonsUpdate.label        "افزودنی‌های نصب‌شده">
 <!ENTITY enableAddonsUpdate.accesskey    "ا">
-<!ENTITY enableSearchUpdate.label        "موتورهای جستجو">
+<!ENTITY enableSearchUpdate.label        "موتورهای جست‌وجو">
 <!ENTITY enableSearchUpdate.accesskey    "م">
 <!ENTITY whenUpdatesFound.label          "هنگامی که به‌هنگام‌سازی برای &brandShortName; موجود بود:">
 <!ENTITY askMe.label                     "سؤال شود تا تصمیم بگیرم">

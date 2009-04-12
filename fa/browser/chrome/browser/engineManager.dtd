@@ -1,6 +1,6 @@
-<!ENTITY  engineManager.title       "مدیریت فهرست موتورهای جستجو">
+<!ENTITY  engineManager.title       "مدیریت فهرست موتورهای جست‌وجو">
 <!ENTITY  engineManager.style       "min-width: 35em;">
-<!ENTITY  engineManager.intro       "موتورهای جستجوی زیر نصب شده‌اند:">
+<!ENTITY  engineManager.intro       "موتورهای جست‌وجوی زیر نصب شده‌اند:">
 
 <!ENTITY  columnLabel.name          "نام">
 <!ENTITY  columnLabel.keyword       "کلیدواژه">
@@ -15,10 +15,10 @@
 <!ENTITY  edit.label                "ویرایش کلیدواژه…">
 <!ENTITY  edit.accesskey            "و">
 
-<!ENTITY  addEngine.label           "گرفتن موتورهای جستجوی بیشتر…">
+<!ENTITY  addEngine.label           "گرفتن موتورهای جست‌وجوی بیشتر…">
 <!ENTITY  addEngine.accesskey       "م">
 
-<!ENTITY  enableSuggest.label       "نمایش پیشنهادهای جستجو">
+<!ENTITY  enableSuggest.label       "نمایش پیشنهادهای جست‌وجو">
 <!ENTITY  enableSuggest.accesskey   "ن">
 
 <!ENTITY  restoreDefaults.label     "احیای تنظیمات پیش‌فرض">

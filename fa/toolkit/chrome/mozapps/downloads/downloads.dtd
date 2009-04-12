@@ -45,4 +45,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "وقتی بارگیری همهٔ پرونده‌ها تمام شد پنجرهٔ بارگیری‌ها را می‌بندد">
 
 <!ENTITY showFolder.label                 "نشان دادن این پوشه">
-<!ENTITY searchBox.label                  "جستجو…">
+<!ENTITY searchBox.label                  "جست‌وجو…">

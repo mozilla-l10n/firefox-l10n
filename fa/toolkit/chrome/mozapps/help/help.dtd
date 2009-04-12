@@ -22,8 +22,8 @@
 <!ENTITY printButton.tooltip            "چاپ کردن این صفحه">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "جستجو">
-<!ENTITY searchHeader.label             "نتایج جستجو">
+<!ENTITY search.emptytext               "جست‌وجو">
+<!ENTITY searchHeader.label             "نتایج جست‌وجو">
 <!ENTITY toctab.label                   "محتوا">
 <!ENTITY toctab.accesskey               "م">
 

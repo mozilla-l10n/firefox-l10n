@@ -1,7 +1,7 @@
 <!ENTITY pluginWizard.title                                  "سرویس پیدا کردن متصل شونده">
 <!ENTITY pluginWizard.firstPage.title                        "به &pluginWizard.title; خوش آمدید">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; اکنون در حال جستجو به دنبال متصل شونده‌های موجود است…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; اکنون در حال جست‌وجو به دنبال متصل شونده‌های موجود است…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "متصل شونده‌های قابل بارگیری موجود">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "متصل شونده‌های زیر موجود است:">

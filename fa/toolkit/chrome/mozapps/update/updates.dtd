@@ -4,11 +4,11 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "در حال گشتن به دنبال به‌هنگام‌سازی‌ها">
-<!ENTITY  updateCheck.label               "جستجو به دنبال نسخهٔ جدیدتری از &brandShortName;…">
+<!ENTITY  updateCheck.label               "جست‌وجو به دنبال نسخهٔ جدیدتری از &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "هیچ به‌هنگام‌سازی‌ای پیدا نشد">
 <!ENTITY  noupdatesautoenabled.intro      "هیچ به‌هنگام‌سازی‌ای موجود نیست.  &brandShortName; هر چند وقت یک بار به دنبال به‌هنگام‌سازی‌ها خواهد گشت.">
-<!ENTITY  noupdatesautodisabled.intro     "هیچ به‌هنگام‌سازی‌ای موجود نیست.  لطفاً بعداً دوباره تلاش کنید، یا جستجوی خودکار به‌هنگام‌سازی‌های &brandShortName; را فعال سازید.">
+<!ENTITY  noupdatesautodisabled.intro     "هیچ به‌هنگام‌سازی‌ای موجود نیست.  لطفاً بعداً دوباره تلاش کنید، یا جست‌وجوی خودکار به‌هنگام‌سازی‌های &brandShortName; را فعال سازید.">
 
 <!ENTITY  manualUpdate.title              "قادر به به‌هنگام‌سازی نبود">
 <!ENTITY  manualUpdate.desc               "یک به‌هنگام‌سازی امنیتی و پایداری توصیه شده وجود دارد، ولی برای
@@ -18,7 +18,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "همیشه می‌توانید آخرین نسخهٔ &brandShortName; را در این نشانی دریافت کنید:">
 
 <!ENTITY  incompatibleCheck.title         "بررسی سازگاری افزودنی‌ها">
-<!ENTITY  incompatibleCheck.label         "جستجو به دنبال نسخهٔ جدیدتری از افزودنی‌های‌تان…">
+<!ENTITY  incompatibleCheck.label         "جست‌وجو به دنبال نسخهٔ جدیدتری از افزودنی‌های‌تان…">
 
 <!ENTITY  clickHere.label                 "اطلاعات بیشتر در مورد این به‌هنگام‌سازی">
 

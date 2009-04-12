@@ -520,7 +520,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Subscribe…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "جستجو…">
+<!ENTITY folderContextSearchMessages.label "جست‌وجو…">
 <!ENTITY folderContextSearchMessages.accesskey "ج">
 <!ENTITY folderContextProperties.label "ویژگی‌ها…">
 <!ENTITY folderContextProperties.accesskey "و">
@@ -535,7 +535,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Search messages…">
-<!ENTITY glodaSearchBar.facet.label "جستجو:">
+<!ENTITY glodaSearchBar.facet.label "جست‌وجو:">
 <!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
        "everything" searches over subject, involves, body, and attachments.
        "subject" searches only messages subjects.

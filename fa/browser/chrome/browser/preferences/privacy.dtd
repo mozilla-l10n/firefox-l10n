@@ -20,7 +20,7 @@
 <!ENTITY  rememberDaysBefore.accesskey  "ت">
 <!ENTITY  rememberDaysAfter2.label      "روز نگهداری شود">
 
-<!ENTITY  rememberForms.label           "اطلاعاتی که در فرم‌های صفحات وب و نوار جستجو وارد می‌شوند به خاطر سپرده شوند.">
+<!ENTITY  rememberForms.label           "اطلاعاتی که در فرم‌های صفحات وب و نوار جست‌وجو وارد می‌شوند به خاطر سپرده شوند.">
 <!ENTITY  rememberForms.accesskey       "ط">
 
 <!ENTITY  rememberDownloads.label       "پرونده‌های بارگیری‌شده به خاطر سپرده شوند">
@@ -64,7 +64,7 @@
 <!ENTITY  historyHeader.custom.label       "تنظیمات خاصی را برای تاریخچه استفاده می‌کند">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; تاریخچهٔ مرور، بارگیری، فرم‌ها و جستجوهای شما را به خاطر خواهد داشت، و کوکی‌های پایگاه‌هایی که بازدید می‌کنید را خواهد پذیرفت.">
+<!ENTITY  rememberDescription.label      "&brandShortName; تاریخچهٔ مرور، بارگیری، فرم‌ها و جست‌وجوهای شما را به خاطر خواهد داشت، و کوکی‌های پایگاه‌هایی که بازدید می‌کنید را خواهد پذیرفت.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -99,7 +99,7 @@
 <!ENTITY  rememberDownload.label         "تاریخچهٔ بارگیری به خاطر سپرده شود">
 <!ENTITY  rememberDownload.accesskey     "ب">
 
-<!ENTITY  rememberSearchForm.label       "اطلاعاتی که در فرم‌های صفحات وب و نوار جستجو وارد می‌شوند به خاطر سپرده شود">
+<!ENTITY  rememberSearchForm.label       "اطلاعاتی که در فرم‌های صفحات وب و نوار جست‌وجو وارد می‌شوند به خاطر سپرده شود">
 <!ENTITY  rememberSearchForm.accesskey   "ط">
 
 <!ENTITY  clearOnClose.label             "تاریخچه همیشه هنگام بستن &brandShortName; پاک شود">
