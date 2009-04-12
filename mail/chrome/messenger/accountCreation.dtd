@@ -22,8 +22,8 @@
 <!ENTITY warning.label "Предупреждение!">
 <!ENTITY incoming_settings.label "Настройки входящей почты:">
 <!ENTITY outgoing_settings.label "Настройки исходящей почты:">
-<!ENTITY incoming_is_checked.label "Я дважды проверил настройки входящей почты.">
-<!ENTITY outgoing_is_checked.label "Я дважды проверил настройки исходящей почты.">
+<!ENTITY incoming_is_checked.label "Я внимательно проверил настройки входящей почты.">
+<!ENTITY outgoing_is_checked.label "Я внимательно проверил настройки исходящей почты.">
 <!ENTITY understood.label "Я знаю что делаю.">
 <!ENTITY getmeout.label "Звучит жутко, выпустите меня.">
 <!ENTITY lectureYourProvider.description "&brandShortName; позволит вам забирать свою почту, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить его почтовый сервер на работу по защищённому соединению.">
