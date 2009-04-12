@@ -35,16 +35,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
   
-<!ENTITY newBookmark.title          "File Bookmark">
-<!ENTITY selectFolder.title         "Choose Folder">
-<!ENTITY name.label                 "Name:">
-<!ENTITY name.accesskey             "N">
-<!ENTITY url.label                  "Location:">
-<!ENTITY url.accesskey              "L">
-<!ENTITY shortcutURL.label          "Keyword:">
-<!ENTITY shortcutURL.accesskey      "K">
-<!ENTITY destination.label          "Destination:">
-<!ENTITY newFolder.label            "New Folder…">
-<!ENTITY newFolder.accesskey        "w">
-<!ENTITY addGroup.label             "Bookmark this group of tabs">
-<!ENTITY addGroup.accesskey         "B">
+<!ENTITY newBookmark.title          "Закладка">
+<!ENTITY selectFolder.title         "Вибрати теку">
+<!ENTITY name.label                 "Назва:">
+<!ENTITY name.accesskey             "Н">
+<!ENTITY url.label                  "Адреса:">
+<!ENTITY url.accesskey              "А">
+<!ENTITY shortcutURL.label          "Ключова фраза:">
+<!ENTITY shortcutURL.accesskey      "К">
+<!ENTITY destination.label          "Розміщення:">
+<!ENTITY newFolder.label            "Нова тека…">
+<!ENTITY newFolder.accesskey        "Н">
+<!ENTITY addGroup.label             "Закласти цю групу вкладок">
+<!ENTITY addGroup.accesskey         "З">
