@@ -64,7 +64,7 @@
 <!ENTITY cmd.edit_paste.key         "v">
 <!ENTITY cmd.edit_delete.label      "حذف">
 <!ENTITY cmd.edit_delete.accesskey  "ح">
-<!ENTITY cmd.edit_undo.label        "برگردان">
+<!ENTITY cmd.edit_undo.label        "واگرد">
 <!ENTITY cmd.edit_undo.accesskey    "ب">
 <!ENTITY cmd.edit_undo.key          "z">
 <!ENTITY cmd.edit_redo.label        "از نو">

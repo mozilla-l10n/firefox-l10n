@@ -12,7 +12,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.resume.accesskey             "ا">
 <!ENTITY cmd.cancel.label                 "انصراف">
 <!ENTITY cmd.cancel.accesskey             "ا">
-<!ENTITY cmd.undo.label                   "برگردان">
+<!ENTITY cmd.undo.label                   "واگرد">
 <!ENTITY cmd.undo.accesskey               "ب">
 <!ENTITY cmd.recover.label                "Recover">
 <!ENTITY cmd.recover.accesskey            "v">

@@ -141,7 +141,7 @@
 
 <!ENTITY editMenu.label         "ویرایش"> 
 <!ENTITY editMenu.accesskey       "و"> 
-<!ENTITY undoCmd.label            "برگردان">  
+<!ENTITY undoCmd.label            "واگرد">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "ب"> 
 <!ENTITY redoCmd.label            "از نو">  
@@ -419,7 +419,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "انجام شد">
 <!ENTITY editBookmark.cancel.label                   "انصراف">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ح">
-<!ENTITY editBookmark.undo.label                     "برگردان">
+<!ENTITY editBookmark.undo.label                     "واگرد">
 <!ENTITY editBookmark.undo.accessKey                 "ب">
 <!ENTITY editBookmark.edit.label                     "ویرایش…">
 <!ENTITY editBookmark.edit.accessKey                 "و">

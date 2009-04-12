@@ -4,7 +4,7 @@
 <!ENTITY copyCmd.accesskey "ن">
 <!ENTITY pasteCmd.label "چسباندن">
 <!ENTITY pasteCmd.accesskey "چ">
-<!ENTITY undoCmd.label "برگردان">
+<!ENTITY undoCmd.label "واگرد">
 <!ENTITY undoCmd.accesskey "ب">
 <!ENTITY selectAllCmd.label "انتخاب همه">
 <!ENTITY selectAllCmd.accesskey "ه">

@@ -38,7 +38,7 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "ویرایش">
 <!ENTITY editMenu.accesskey                             "و">
-<!ENTITY undoCmd.label                                  "برگردان">
+<!ENTITY undoCmd.label                                  "واگرد">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "ب">
 <!ENTITY redoCmd.label                                  "از نو">

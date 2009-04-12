@@ -16,6 +16,6 @@
 <!ENTITY  bookmarkAllTabs.accesskey   "ت">
 <!ENTITY  bookmarkThisTab.label       "نشانک‌گذاری این زبانه">
 <!ENTITY  bookmarkThisTab.accesskey   "چ">
-<!ENTITY  undoCloseTab.label          "برگردان بستن زبانه">
+<!ENTITY  undoCloseTab.label          "واگرد بستن زبانه">
 <!ENTITY  undoCloseTab.accesskey      "ر">
 <!ENTITY  newTabButton.tooltip        "باز کردن زبانهٔ جدید">

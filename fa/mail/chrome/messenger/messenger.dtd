@@ -109,7 +109,7 @@
 <!ENTITY redoCopyMsgCmd.label "Redo Copy Message">
 <!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
 <!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
-<!ENTITY undoDefaultCmd.label "برگردان">
+<!ENTITY undoDefaultCmd.label "واگرد">
 <!ENTITY undoDefaultCmd.accesskey "ب">
 <!ENTITY redoDefaultCmd.label "از نو">
 <!ENTITY redoDefaultCmd.accesskey "د">

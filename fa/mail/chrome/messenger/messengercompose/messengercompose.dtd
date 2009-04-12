@@ -50,7 +50,7 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "ویرایش"> 
 <!ENTITY editMenu.accesskey "و">
-<!ENTITY undoCmd.label "برگردان">
+<!ENTITY undoCmd.label "واگرد">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "ب"> 
 <!ENTITY redoCmd.label "از نو">
@@ -236,7 +236,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "اضافه‌کردن به واژه‌نامه">
 <!ENTITY spellCheckAddToDictionary.accesskey "ا">
-<!ENTITY undo.label "برگردان">
+<!ENTITY undo.label "واگرد">
 <!ENTITY undo.accesskey "ب">
 <!ENTITY cut.label "بریدن">
 <!ENTITY cut.accesskey "ب">
