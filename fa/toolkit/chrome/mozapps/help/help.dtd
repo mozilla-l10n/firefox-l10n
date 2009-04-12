@@ -10,7 +10,7 @@
 <!ENTITY forwardButton.label            "جلو">
 <!ENTITY forwardButton.accesskey        "ج">
 <!ENTITY forwardButton.tooltip          "جلو رفتن به یک صفحهٔ بعد">
-<!ENTITY copyCmd.label                  "نسخه‌برداری">
+<!ENTITY copyCmd.label                  "رونوشت برداشتن">
 <!ENTITY copyCmd.accesskey              "ن">
 <!ENTITY selectAllCmd.label             "انتخاب همه">
 <!ENTITY selectAllCmd.accesskey         "ه">

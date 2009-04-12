@@ -56,7 +56,7 @@
 <!ENTITY cmd.edit_cut.label         "بریدن">
 <!ENTITY cmd.edit_cut.accesskey     "ر">
 <!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "نسخه‌برداری">
+<!ENTITY cmd.edit_copy.label        "رونوشت برداشتن">
 <!ENTITY cmd.edit_copy.accesskey    "ن">
 <!ENTITY cmd.edit_copy.key          "c">
 <!ENTITY cmd.edit_paste.label       "چسباندن">

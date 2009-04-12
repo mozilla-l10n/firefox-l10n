@@ -9,7 +9,7 @@
 <!ENTITY cutCmd.label              "بریدن">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "ر">
-<!ENTITY copyCmd.label             "نسخه‌برداری">
+<!ENTITY copyCmd.label             "رونوشت برداشتن">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "ن">
 <!ENTITY pasteCmd.label            "چسباندن">

@@ -27,7 +27,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "ت">
 <!ENTITY cmd.goToDownloadPage.label       "رفتن به صفحهٔ بارگیری">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ص">
-<!ENTITY cmd.copyDownloadLink.label       "نسخه‌برداری از پیوند بارگیری">
+<!ENTITY cmd.copyDownloadLink.label       "رونوشت برداشتن از پیوند بارگیری">
 <!ENTITY cmd.copyDownloadLink.accesskey   "س">
 <!ENTITY cmd.removeFromList.label         "حذف از فهرست">
 <!ENTITY cmd.removeFromList.accesskey     "ح">

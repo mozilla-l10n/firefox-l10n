@@ -676,7 +676,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Compose Mail To">
 <!ENTITY SendMailTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "نسخه‌برداری از نشانی پست الکترونیکی">
+<!ENTITY CopyEmailAddress.label "رونوشت برداشتن از نشانی پست الکترونیکی">
 <!ENTITY CopyEmailAddress.accesskey "ن">
 <!ENTITY CreateFilterFrom.label "Create Filter From…">
 <!ENTITY CreateFilterFrom.accesskey "F">
@@ -688,15 +688,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "ذ">
 <!ENTITY saveImageAsCmd.label "ذخیرهٔ تصویر به نام…">
 <!ENTITY saveImageAsCmd.accesskey "ذ">
-<!ENTITY copyCmd.label "نسخه‌برداری">
+<!ENTITY copyCmd.label "رونوشت برداشتن">
 <!ENTITY copyCmd.accesskey "ن">
 <!ENTITY selectAllCmd.label "انتخاب همه">
 <!ENTITY selectAllCmd.accesskey "ا">
-<!ENTITY copyLinkCmd.label "نسخه‌برداری از مکان پیوند">
+<!ENTITY copyLinkCmd.label "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyLinkCmd.accesskey "ن">
-<!ENTITY copyImageCmd.label "نسخه‌برداری از مکان تصویر">
+<!ENTITY copyImageCmd.label "رونوشت برداشتن از مکان تصویر">
 <!ENTITY copyImageCmd.accesskey "ن">
-<!ENTITY copyEmailCmd.label "نسخه‌برداری از نشانی پست الکترونیکی">
+<!ENTITY copyEmailCmd.label "رونوشت برداشتن از نشانی پست الکترونیکی">
 <!ENTITY copyEmailCmd.accesskey "ن">
 
 <!-- Statusbar -->

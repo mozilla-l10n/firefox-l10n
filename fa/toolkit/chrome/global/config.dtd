@@ -59,11 +59,11 @@
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "نسخه‌برداری">
+<!ENTITY copyPref.label "رونوشت برداشتن">
 <!ENTITY copyPref.accesskey "ن">
-<!ENTITY copyName.label "نسخه‌برداری از نام">
+<!ENTITY copyName.label "رونوشت برداشتن از نام">
 <!ENTITY copyName.accesskey "ن">
-<!ENTITY copyValue.label "نسخه‌برداری از مقدار">
+<!ENTITY copyValue.label "رونوشت برداشتن از مقدار">
 <!ENTITY copyValue.accesskey "م">
 <!ENTITY modify.label "تغییر">
 <!ENTITY modify.accesskey "ت">

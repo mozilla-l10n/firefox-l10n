@@ -24,8 +24,8 @@
 <!ENTITY closetab.label        "بستن زبانه">
 
 <!ENTITY cut.label             "بریدن">
-<!ENTITY copy.label            "نسخه‌برداری">
-<!ENTITY copylink.label        "نسخه‌برداری از مکان پیوند">
+<!ENTITY copy.label            "رونوشت برداشتن">
+<!ENTITY copylink.label        "رونوشت برداشتن از مکان پیوند">
 <!ENTITY paste.label           "چسباندن">
 <!ENTITY delete.label          "حذف">
 <!ENTITY selectAll.label       "انتخاب همه">

@@ -59,7 +59,7 @@
 <!ENTITY cutCmd.label "بریدن">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "ب"> 
-<!ENTITY copyCmd.label "نسخه‌برداری">
+<!ENTITY copyCmd.label "رونوشت برداشتن">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "ن"> 
 <!ENTITY pasteCmd.label "چسباندن">
@@ -194,7 +194,7 @@
 <!ENTITY attachButton.tooltip "Include an attachment"> 
 <!ENTITY saveButton.tooltip "Save this message"> 
 <!ENTITY cutButton.tooltip              "بریدن">
-<!ENTITY copyButton.tooltip             "نسخه‌برداری">
+<!ENTITY copyButton.tooltip             "رونوشت برداشتن">
 <!ENTITY pasteButton.tooltip            "چسباندن">
 
 <!-- Headers -->
@@ -240,7 +240,7 @@
 <!ENTITY undo.accesskey "ب">
 <!ENTITY cut.label "بریدن">
 <!ENTITY cut.accesskey "ب">
-<!ENTITY copy.label "نسخه‌برداری">
+<!ENTITY copy.label "رونوشت برداشتن">
 <!ENTITY copy.accesskey "ن">
 <!ENTITY paste.label "چسباندن">
 <!ENTITY paste.accesskey "چ">

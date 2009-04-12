@@ -150,7 +150,7 @@
 <!ENTITY cutCmd.label           "بریدن">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ر"> 
-<!ENTITY copyCmd.label            "نسخه‌برداری">  
+<!ENTITY copyCmd.label            "رونوشت برداشتن">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "ن"> 
 <!ENTITY pasteCmd.label           "چسباندن">  
@@ -298,22 +298,22 @@
 <!ENTITY sendVideoCmd.accesskey       "ا">
 <!ENTITY sendAudioCmd.label           "ارسال پروندهٔ صوتی…">
 <!ENTITY sendAudioCmd.accesskey       "ا">
-<!ENTITY copyLinkCmd.label            "نسخه‌برداری از مکان پیوند">
+<!ENTITY copyLinkCmd.label            "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyLinkCmd.accesskey        "ن">
-<!ENTITY copyLinkTextCmd.label        "نسخه‌برداری از متن پیوند">
+<!ENTITY copyLinkTextCmd.label        "رونوشت برداشتن از متن پیوند">
 <!ENTITY copyLinkTextCmd.accesskey    "ن">
-<!ENTITY copyImageCmd.label           "نسخه‌برداری از مکان تصویر">
+<!ENTITY copyImageCmd.label           "رونوشت برداشتن از مکان تصویر">
 <!ENTITY copyImageCmd.accesskey       "س">
-<!ENTITY copyImageContentsCmd.label   "نسخه‌برداری از تصویر">
+<!ENTITY copyImageContentsCmd.label   "رونوشت برداشتن از تصویر">
 <!ENTITY copyImageContentsCmd.accesskey  "خ"> 
-<!ENTITY copyVideoURLCmd.label        "نسخه‌برداری از نشانی ویدیو">
+<!ENTITY copyVideoURLCmd.label        "رونوشت برداشتن از نشانی ویدیو">
 <!ENTITY copyVideoURLCmd.accesskey    "ن">
-<!ENTITY copyAudioURLCmd.label        "نسخه‌برداری از نشانی پروندهٔ صوتی">
+<!ENTITY copyAudioURLCmd.label        "رونوشت برداشتن از نشانی پروندهٔ صوتی">
 <!ENTITY copyAudioURLCmd.accesskey    "ن">
 <!ENTITY blockImageCmd.accesskey      "ب">
 <!ENTITY metadataCmd.label            "ویژگی‌ها">
 <!ENTITY metadataCmd.accesskey        "و">
-<!ENTITY copyEmailCmd.label           "نسخه‌برداری از نشانی پست الکترونیکی">
+<!ENTITY copyEmailCmd.label           "رونوشت برداشتن از نشانی پست الکترونیکی">
 <!ENTITY copyEmailCmd.accesskey       "پ">
 <!ENTITY thisFrameMenu.label              "این چارچوب">
 <!ENTITY thisFrameMenu.accesskey          "ی">
@@ -365,7 +365,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "بستن نوار کناری">
 
 <!ENTITY cutButton.tooltip              "بریدن">
-<!ENTITY copyButton.tooltip             "نسخه‌برداری">
+<!ENTITY copyButton.tooltip             "رونوشت برداشتن">
 <!ENTITY pasteButton.tooltip            "چسباندن">
 
 <!ENTITY quitApplicationCmdWin.label       "خروج"> 

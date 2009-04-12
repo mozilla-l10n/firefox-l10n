@@ -56,7 +56,7 @@
 <!ENTITY evaluate.label     "برآورد">
 <!ENTITY evaluate.accesskey "ب">
 
-<!ENTITY copyCmd.label       "نسخه‌برداری">  
+<!ENTITY copyCmd.label       "رونوشت برداشتن">  
 <!ENTITY copyCmd.accesskey   "ن"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "مرتب‌سازی از اول به آخر">
