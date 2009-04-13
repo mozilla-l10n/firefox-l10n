@@ -28,7 +28,7 @@
 <!ENTITY printCmd.accesskey "D" >
 <!ENTITY printCmd.commandkey "p" >
 <!ENTITY import.label "Importuj…">
-<!ENTITY import.accesskey "m">
+<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Pracuj w trybie offline" >
 <!ENTITY goOfflineCmd.accesskey "c" >
@@ -59,7 +59,7 @@
 <!ENTITY fullScreenExit.accesskey "O">
 
 <!ENTITY closeWindow.label "Zamknij okno" >
-<!ENTITY closeWindow.accesskey "k">
+<!ENTITY closeWindow.accesskey "m">
 
 <!ENTITY findOnCmd.label "Znajdź na tej stronie…" >
 <!ENTITY findOnCmd.accesskey "Z" >
