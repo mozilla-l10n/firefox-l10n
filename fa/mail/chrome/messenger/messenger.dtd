@@ -110,7 +110,7 @@
 <!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
 <!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
 <!ENTITY undoDefaultCmd.label "واگرد">
-<!ENTITY undoDefaultCmd.accesskey "ب">
+<!ENTITY undoDefaultCmd.accesskey "و">
 <!ENTITY redoDefaultCmd.label "از نو">
 <!ENTITY redoDefaultCmd.accesskey "ز">
 

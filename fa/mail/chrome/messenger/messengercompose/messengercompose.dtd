@@ -52,7 +52,7 @@
 <!ENTITY editMenu.accesskey "و">
 <!ENTITY undoCmd.label "واگرد">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ب"> 
+<!ENTITY undoCmd.accesskey "و"> 
 <!ENTITY redoCmd.label "از نو">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ز"> 
@@ -237,7 +237,7 @@
 <!ENTITY spellCheckAddToDictionary.label "اضافه‌کردن به واژه‌نامه">
 <!ENTITY spellCheckAddToDictionary.accesskey "ا">
 <!ENTITY undo.label "واگرد">
-<!ENTITY undo.accesskey "ب">
+<!ENTITY undo.accesskey "و">
 <!ENTITY cut.label "بریدن">
 <!ENTITY cut.accesskey "ب">
 <!ENTITY copy.label "رونوشت برداشتن">

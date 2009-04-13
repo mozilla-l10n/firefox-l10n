@@ -13,7 +13,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.cancel.label                 "انصراف">
 <!ENTITY cmd.cancel.accesskey             "ا">
 <!ENTITY cmd.undo.label                   "واگرد">
-<!ENTITY cmd.undo.accesskey               "ب">
+<!ENTITY cmd.undo.accesskey               "و">
 <!ENTITY cmd.recover.label                "Recover">
 <!ENTITY cmd.recover.accesskey            "v">
 <!ENTITY cmd.retry.label                  "تلاش مجدد">

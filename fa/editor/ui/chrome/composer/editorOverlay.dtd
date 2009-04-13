@@ -151,7 +151,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "واگرد">
-<!ENTITY undoCmd.accesskey "ب">
+<!ENTITY undoCmd.accesskey "و">
 <!ENTITY redoCmd.label "از نو">
 <!ENTITY redoCmd.accesskey "ز">
 <!ENTITY cutCmd.label "بریدن">
