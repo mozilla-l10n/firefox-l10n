@@ -1,22 +1,22 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
-<!ENTITY pref.content.title                     "Content">
-<!ENTITY pref.content.description               "These settings influence how website and message content appears in &brandShortName;.">
-<!ENTITY siteIcons.label                        "Website icons">
-<!ENTITY useSiteIcons.label                     "Show website icons">
-<!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY useFavIcons.label                      "Aggressively look for website icons when the page does not define one">
-<!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "Display website icons in bookmarks menu and toolbar:">
-<!ENTITY tbIconsNever.label                     "Never show icons for bookmarks">
-<!ENTITY tbIconsNever.accesskey                 "N">
-<!ENTITY tbIconsCache.label                     "Only when website was loaded recently">
-<!ENTITY tbIconsCache.accesskey                 "O">
-<!ENTITY tbIconsAlways.label                    "Always load website icons for bookmarks">
-<!ENTITY tbIconsAlways.accesskey                "w">
-<!ENTITY enableAutomaticImageResizing.label     "Resize large images to fit in the browser window">
-<!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "Use smooth scrolling">
-<!ENTITY useSmoothScroll.accesskey              "U">
-<!ENTITY textZoomOnly.label                     "Zoom only text instead of full pages">
-<!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY pref.content.title                     "Вміст">
+<!ENTITY pref.content.description               "Ці налаштування впливають на те, як сайт і вміст повідомлень виринає в &brandShortName;.">
+<!ENTITY siteIcons.label                        "Піпктограма сайтів">
+<!ENTITY useSiteIcons.label                     "Показувати піктограми сайтів">
+<!ENTITY useSiteIcons.accesskey                 "П">
+<!ENTITY useFavIcons.label                      "Не показувати піктограми сайтів, коли сторінка не відкриває їх">
+<!ENTITY useFavIcons.accesskey                  "Н">
+<!ENTITY tbIconsDescription.label               "Показувати піктограми сайтів у меню закладки і пенала:">
+<!ENTITY tbIconsNever.label                     "Ніколи не показувати піктограми закладок">
+<!ENTITY tbIconsNever.accesskey                 "Н">
+<!ENTITY tbIconsCache.label                     "Тільки якщо сайт був завантажений нещодавно">
+<!ENTITY tbIconsCache.accesskey                 "Т">
+<!ENTITY tbIconsAlways.label                    "Завжди завантажувати піктограми сайта для закладок">
+<!ENTITY tbIconsAlways.accesskey                "З">
+<!ENTITY enableAutomaticImageResizing.label     "Змінити розмір великих зображень до придатного у вікні навігатора">
+<!ENTITY enableAutomaticImageResizing.accesskey "З">
+<!ENTITY useSmoothScroll.label                  "Викристати плавне прокручування">
+<!ENTITY useSmoothScroll.accesskey              "В">
+<!ENTITY textZoomOnly.label                     "Масштабувати лише текст замість цілих сторінок">
+<!ENTITY textZoomOnly.accesskey                 "М">
