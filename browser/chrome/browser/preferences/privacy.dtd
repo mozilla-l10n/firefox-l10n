@@ -40,3 +40,34 @@
 <!ENTITY  locbar.history.label          "इतिहास">
 <!ENTITY  locbar.bookmarks.label        "ओळखचिन्ह">
 <!ENTITY  locbar.nothing.label          "काहिच नाही">
+
+<!ENTITY  locationBar.label             "ठिकाण पट्टी">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; असे करेल:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "इतिहास लक्षात ठेवेल">
+<!ENTITY  historyHeader.dontremember.label "इतिहास कधिच लक्षात ठेवणार नाही">
+<!ENTITY  historyHeader.custom.label       "इतिहास करीता स्वपसंत संयोजना वापरा">
+<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  rememberDescription.label      "&brandShortName; तुमची तपासणी, डाऊनलोड, फॉर्म व शोध इतिहास, व तुम्ही भेट दिलेल्या संकेत स्थळाचे कुकीज संग्रहीत करतो.">
+<!ENTITY  rememberActions.pre.label           "तुम्ही खालिल करू शकता">
+<!ENTITY  rememberActions.clearHistory.label  "अलिकडील इतिहास पूसा">
+<!ENTITY  rememberActions.middle.label        ", किंवा ">
+<!ENTITY  rememberActions.removeCookies.label "स्वतंत्र कुकीज काढूण टाका">
+<!ENTITY  rememberActions.post.label          ".">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; समान संयोजना वैयक्तिक तपासणी म्हणून वापरतो, व वेब तपास करतेवेळी कुठलाही इतिहास लक्षात ठेवत नाही.">
+<!ENTITY  dontrememberActions.pre.label          "तुम्ही खालिल देखिल करू शकता">
+<!ENTITY  dontrememberActions.clearHistory.label "सर्व वर्तमान इतिहास नष्ट करा">
+<!ENTITY  dontrememberActions.post.label         ".">
+<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; ला स्वयंरित्या वैयक्तिक तपासणी सत्र अंतर्गत सुरू करा">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  rememberHistory.pre.label      "तपासणी इतिहास किमान वेळेस लक्षात ठेवा">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "दिवस">
+<!ENTITY  rememberDownload.label         "डाऊनलोड इतिहास लक्षात ठेवा">
+<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberSearchForm.label       "शोध व फॉर्म इतिहास लक्षात ठेवा">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  clearOnClose.label             "&brandShortName; बंद झाल्यावर इतिहास पूसा">
+<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnCloseSettings.label     "संयोजना…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

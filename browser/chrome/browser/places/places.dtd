@@ -131,18 +131,22 @@
 
 <!ENTITY search.label                              "शोधा:">
 <!ENTITY search.accesskey                          "S">
+<!--
 <!ENTITY search.collection.label                   "फक्त वर्तमान संग्रह">
 <!ENTITY search.collection.accesskey               "C">
 <!ENTITY search.allBookmarks.label                 "सर्व ओळखचिन्ह">
 <!ENTITY search.allBookmarks.accesskey             "A">
+-->
 <!ENTITY search.scopeFolder.label                  "निवडलेली संचयीका">
 <!ENTITY search.scopeFolder.accesskey              "F">
+<!--
 <!ENTITY search.scopeAll.label                     "सर्व ओळखचिन्ह">
 <!ENTITY search.scopeAll.accesskey                 "A">
 <!ENTITY search.scopeMenu.label                    "ओळखचिन्ह मेन्यू">
 <!ENTITY search.scopeMenu.accesskey                "M">
 <!ENTITY search.scopeToolbar.label                 "ओळखचिन्ह साधनपट्टी">
 <!ENTITY search.scopeToolbar.accesskey             "T">
+-->
 <!ENTITY search.scopeDownloads.label               "डाऊनलोड">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "इतिहास">
@@ -219,3 +223,5 @@
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "या स्थळ विषयी विसरून जा">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY search.scopeBookmarks.label               "ओळखचिन्ह">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
