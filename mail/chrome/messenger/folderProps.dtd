@@ -68,7 +68,7 @@
 <!ENTITY retentionApplyToFlagged.label "Älä koskaan poista lipulla merkittyjä viestejä">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 
-<!ENTITY folderOfflineTab.label                   "Yhteydetön tila">
+<!ENTITY folderSynchronizationTab.label          "Synkronointi">
 <!ENTITY folderCheckForNewMessages.label          "Tarkista, onko kansioon tullut uusia viestejä">
 <!ENTITY folderCheckForNewMessages.accesskey      "T">
 

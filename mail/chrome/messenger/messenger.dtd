@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey  "h">
 <!ENTITY newAccountCmd.label  "Tili…">
 <!ENTITY newAccountCmd.accesskey  "T">
+<!ENTITY newMailAccountCmd.label "Sähköpostitili (pika-asennus)…">
+<!ENTITY newMailAccountCmd.accesskey "p">
 <!ENTITY openMessageFileCmd.label  "Avaa tallennettu viesti…">
 <!ENTITY openMessageFileCmd.accesskey  "A">
 <!ENTITY openAttachmentCmd.label  "Liitetiedostot">

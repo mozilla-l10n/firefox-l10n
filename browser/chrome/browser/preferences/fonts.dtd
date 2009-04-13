@@ -60,7 +60,7 @@
 <!ENTITY  useDefaultFontSerif.label                "Pääteviivallinen">
 <!ENTITY  useDefaultFontSansSerif.label            "Pääteviivaton">
 
-<!ENTITY  allowPagesToUse.label                    "Sivut voivat käyttää omia kirjasinlajejaan oletusten sijaan">
+<!ENTITY  allowPagesToUse.label                    "Sivut saavat käyttää omia kirjasinlajejaan oletusten sijaan">
 <!ENTITY  allowPagesToUse.accesskey                "u">
 
 <!ENTITY languages.customize.Charset.grouplabel          "Merkistökoodaus">

@@ -57,7 +57,7 @@
 <!ENTITY  useDefaultFontSerif.label                "Pääteviivallinen">
 <!ENTITY  useDefaultFontSansSerif.label            "Pääteviivaton">
 
-<!ENTITY  useDocumentFonts.label                   "Sivut voivat käyttää omia kirjasinlajejaan oletusten sijaan">
+<!ENTITY  useDocumentFonts.label                   "Sivut saavat käyttää omia kirjasinlajejaan oletusten sijaan">
 <!ENTITY  useDocumentFonts.accesskey               "i">
 
 <!-- Language settings -->
