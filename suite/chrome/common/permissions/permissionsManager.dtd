@@ -1,15 +1,15 @@
-<!ENTITY windowtitle.label              "÷ÉÎÑÔËÉ">
-<!ENTITY treehead.sitename.label        "óÁÊÔ">
-<!ENTITY treehead.status.label          "óÔÁÎ">
-<!ENTITY remove.label                   "÷ÉÌÕÞÉÔÉ ÓÁÊÔ">
-<!ENTITY remove.accesskey               "÷">
-<!ENTITY removeall.label                "÷ÉÌÕÞÉÔÉ ×Ó¦ ÓÁÊÔÉ">
-<!ENTITY removeall.accesskey            "÷">
-<!ENTITY address.label                  "áÄÒÅÓÁ ÓÁÊÔÁ:">
-<!ENTITY address.accesskey              "á">
-<!ENTITY block.label                    "úÁÂÏÒÏÎÉÔÉ">
-<!ENTITY block.accesskey                "ú">
-<!ENTITY session.label                  "äÏÚ×ÏÌÉÔÉ ÐÒÏÔÑÇÏÍ ÓÅÁÎÓÕ">
-<!ENTITY session.accesskey              "ä">
-<!ENTITY allow.label                    "äÏÚ×ÏÌÉÔÉ">
-<!ENTITY allow.accesskey                "ä">
+<!ENTITY windowtitle.label              "Ð’Ð¸Ð½ÑÑ‚ÐºÐ¸">
+<!ENTITY treehead.sitename.label        "Ð¡Ð°Ð¹Ñ‚">
+<!ENTITY treehead.status.label          "Ð¡Ñ‚Ð°Ð½">
+<!ENTITY remove.label                   "Ð’Ð¸Ð»ÑƒÑ‡Ð¸Ñ‚Ð¸ ÑÐ°Ð¹Ñ‚">
+<!ENTITY remove.accesskey               "Ð’">
+<!ENTITY removeall.label                "Ð’Ð¸Ð»ÑƒÑ‡Ð¸Ñ‚Ð¸ Ð²ÑÑ– ÑÐ°Ð¹Ñ‚Ð¸">
+<!ENTITY removeall.accesskey            "Ð’">
+<!ENTITY address.label                  "ÐÐ´Ñ€ÐµÑÐ° ÑÐ°Ð¹Ñ‚Ð°:">
+<!ENTITY address.accesskey              "Ð">
+<!ENTITY block.label                    "Ð—Ð°Ð±Ð¾Ñ€Ð¾Ð½Ð¸Ñ‚Ð¸">
+<!ENTITY block.accesskey                "Ð—">
+<!ENTITY session.label                  "Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚Ð¸ Ð¿Ñ€Ð¾Ñ‚ÑÐ³Ð¾Ð¼ ÑÐµÐ°Ð½ÑÑƒ">
+<!ENTITY session.accesskey              "Ð”">
+<!ENTITY allow.label                    "Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚Ð¸">
+<!ENTITY allow.accesskey                "Ð”">

@@ -1,27 +1,27 @@
 <!-- extracted from content/pref-cache.xul -->
 
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
-<!ENTITY pref.cache.title                "ëÅÛ">
-<!ENTITY pref.cache.caption              "îÁÌÁÛÔÕ×ÁÔÉ ×ÁÒ¦ÁÎÔÉ ËÅÛÕ">
-<!ENTITY cachePara                       "ëÅÛ ? ÃÅ ÎÁÄÛ×ÉÄËÁ ÐÁÍ'ÑÔØ, ËÏÔÒÁ ÚÂÅÒ¦ÇÁ¤ ÓÔÏÒ¦ÎËÉ, ÝÏ ×É ÎÅÝÏÄÁ×ÎÏ ×¦Ä×¦ÄÕ×ÁÌÉ ÎÁ ×ÁÛ ÖÏÒÓÔËÉÊ ÄÉÓË. (ëÌÁÃÎÕ×ÛÉ ïÎÏ×ÉÔÉ, ×É ÚÁ×ÖÄÉ ÐÏÂÁÞÉÔÅ ÎÁÊÎÏ×¦ÛÕ ×ÅÒÓ¦À ÓÔÏÒ¦ÎËÉ.)">
-<!ENTITY diskCache.label                 "òÏÚÍ¦Ò:">
-<!ENTITY diskCache.accesskey             "ò">
-<!ENTITY mbytes                          "íâ">
-<!ENTITY diskCacheFolder.label           "ôÅËÁ ÄÌÑ ËÅÛÕ:">
-<!ENTITY clearDiskCache.label            "ïÞÉÓÔÉÔÉ ËÅÛ">
-<!ENTITY clearDiskCache.accesskey        "ï">
-<!ENTITY chooseDiskCacheFolder.label     "÷ÉÂÒÁÔÉ ÔÅËÕ">
-<!ENTITY chooseDiskCacheFolder.accesskey "÷">
-<!ENTITY diskCacheFolderExplanation      "æÁÊÌÉ ËÅÛÕ ÂÕÄÕÔØ ÚÂÅÒ¦ÇÁÔÉÓØ × Ð¦ÄÔÅÃ¦ Ú ÎÁÚ×ÏÀ &quot;Cache&quot; Õ ÔÅÃ¦, ËÏÔÒÕ ×É ×ËÁÚÁÌÉ. ðÅÒÅÚÁÐÕÓÔ¦ÔØ &brandShortName;, ÝÏÂ ÚÍ¦ÎÉ ×ÓÔÕÐÉÌÉ × Ä¦À.">
-<!ENTITY docCache                        "ïÎÏ×ÉÔÉ ÓÔÏÒ¦ÎËÕ:">
-<!ENTITY oncePsessionRadio.label         "òÁÚ ÎÁ ÓÅÁÎÓ">
-<!ENTITY oncePsessionRadio.accesskey     "ò">
-<!ENTITY everyTimeRadio.label            "ëÏÖÎÏÇÏ ÒÁÚÕ, ËÏÌÉ Ñ ÐÅÒÅÇÌÑÄÁÀ ÓÔÏÒ¦ÎËÕ">
-<!ENTITY everyTimeRadio.accesskey        "ë">
-<!ENTITY neverRadio.label                "î¦ËÏÌÉ">
-<!ENTITY neverRadio.accesskey            "î">
-<!ENTITY autoRadio.label                 "ëÏÌÉ ÓÔÏÒ¦ÎËÁ ¤ ÚÁÓÔÁÒ¦ÌÏÀ">
-<!ENTITY autoRadio.accesskey             "ë">
+<!ENTITY pref.cache.title                "ÐšÐµÑˆ">
+<!ENTITY pref.cache.caption              "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ñ‚Ð¸ Ð²Ð°Ñ€Ñ–Ð°Ð½Ñ‚Ð¸ ÐºÐµÑˆÑƒ">
+<!ENTITY cachePara                       "ÐšÐµÑˆ ? Ñ†Ðµ Ð½Ð°Ð´ÑˆÐ²Ð¸Ð´ÐºÐ° Ð¿Ð°Ð¼'ÑÑ‚ÑŒ, ÐºÐ¾Ñ‚Ñ€Ð° Ð·Ð±ÐµÑ€Ñ–Ð³Ð°Ñ” ÑÑ‚Ð¾Ñ€Ñ–Ð½ÐºÐ¸, Ñ‰Ð¾ Ð²Ð¸ Ð½ÐµÑ‰Ð¾Ð´Ð°Ð²Ð½Ð¾ Ð²Ñ–Ð´Ð²Ñ–Ð´ÑƒÐ²Ð°Ð»Ð¸ Ð½Ð° Ð²Ð°Ñˆ Ð¶Ð¾Ñ€ÑÑ‚ÐºÐ¸Ð¹ Ð´Ð¸ÑÐº. (ÐšÐ»Ð°Ñ†Ð½ÑƒÐ²ÑˆÐ¸ ÐžÐ½Ð¾Ð²Ð¸Ñ‚Ð¸, Ð²Ð¸ Ð·Ð°Ð²Ð¶Ð´Ð¸ Ð¿Ð¾Ð±Ð°Ñ‡Ð¸Ñ‚Ðµ Ð½Ð°Ð¹Ð½Ð¾Ð²Ñ–ÑˆÑƒ Ð²ÐµÑ€ÑÑ–ÑŽ ÑÑ‚Ð¾Ñ€Ñ–Ð½ÐºÐ¸.)">
+<!ENTITY diskCache.label                 "Ð Ð¾Ð·Ð¼Ñ–Ñ€:">
+<!ENTITY diskCache.accesskey             "Ð ">
+<!ENTITY mbytes                          "ÐœÐ‘">
+<!ENTITY diskCacheFolder.label           "Ð¢ÐµÐºÐ° Ð´Ð»Ñ ÐºÐµÑˆÑƒ:">
+<!ENTITY clearDiskCache.label            "ÐžÑ‡Ð¸ÑÑ‚Ð¸Ñ‚Ð¸ ÐºÐµÑˆ">
+<!ENTITY clearDiskCache.accesskey        "Ðž">
+<!ENTITY chooseDiskCacheFolder.label     "Ð’Ð¸Ð±Ñ€Ð°Ñ‚Ð¸ Ñ‚ÐµÐºÑƒ">
+<!ENTITY chooseDiskCacheFolder.accesskey "Ð’">
+<!ENTITY diskCacheFolderExplanation      "Ð¤Ð°Ð¹Ð»Ð¸ ÐºÐµÑˆÑƒ Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð·Ð±ÐµÑ€Ñ–Ð³Ð°Ñ‚Ð¸ÑÑŒ Ð² Ð¿Ñ–Ð´Ñ‚ÐµÑ†Ñ– Ð· Ð½Ð°Ð·Ð²Ð¾ÑŽ &quot;Cache&quot; Ñƒ Ñ‚ÐµÑ†Ñ–, ÐºÐ¾Ñ‚Ñ€Ñƒ Ð²Ð¸ Ð²ÐºÐ°Ð·Ð°Ð»Ð¸. ÐŸÐµÑ€ÐµÐ·Ð°Ð¿ÑƒÑÑ‚Ñ–Ñ‚ÑŒ &brandShortName;, Ñ‰Ð¾Ð± Ð·Ð¼Ñ–Ð½Ð¸ Ð²ÑÑ‚ÑƒÐ¿Ð¸Ð»Ð¸ Ð² Ð´Ñ–ÑŽ.">
+<!ENTITY docCache                        "ÐžÐ½Ð¾Ð²Ð¸Ñ‚Ð¸ ÑÑ‚Ð¾Ñ€Ñ–Ð½ÐºÑƒ:">
+<!ENTITY oncePsessionRadio.label         "Ð Ð°Ð· Ð½Ð° ÑÐµÐ°Ð½Ñ">
+<!ENTITY oncePsessionRadio.accesskey     "Ð ">
+<!ENTITY everyTimeRadio.label            "ÐšÐ¾Ð¶Ð½Ð¾Ð³Ð¾ Ñ€Ð°Ð·Ñƒ, ÐºÐ¾Ð»Ð¸ Ñ Ð¿ÐµÑ€ÐµÐ³Ð»ÑÐ´Ð°ÑŽ ÑÑ‚Ð¾Ñ€Ñ–Ð½ÐºÑƒ">
+<!ENTITY everyTimeRadio.accesskey        "Ðš">
+<!ENTITY neverRadio.label                "ÐÑ–ÐºÐ¾Ð»Ð¸">
+<!ENTITY neverRadio.accesskey            "Ð">
+<!ENTITY autoRadio.label                 "ÐšÐ¾Ð»Ð¸ ÑÑ‚Ð¾Ñ€Ñ–Ð½ÐºÐ° Ñ” Ð·Ð°ÑÑ‚Ð°Ñ€Ñ–Ð»Ð¾ÑŽ">
+<!ENTITY autoRadio.accesskey             "Ðš">
 
 <!ENTITY prefetchTitle.label             "Link Prefetching">
 <!ENTITY enablePrefetch.label            "Prefetch web pages when idle, so that links in web pages designed for prefetching can load more quickly">

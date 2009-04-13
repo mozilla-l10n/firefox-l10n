@@ -1,26 +1,26 @@
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
-<!ENTITY pref.appearance.title "÷ÉÇÌÑÄ">
+<!ENTITY pref.appearance.title "Ð’Ð¸Ð³Ð»ÑÐ´">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY onStartLegend.label                    "ðÒÉ ÚÁÐÕÓËÕ &brandShortName;, ×¦ÄËÒÉÔÉ">
-<!ENTITY navCheck.label                         "îÁ×¦ÇÁÔÏÒ">
-<!ENTITY navCheck.accesskey                     "î">
-<!ENTITY showToolsLegend.label                  "ðÏËÁÚÕ×ÁÔÉ ÐÁÎÅÌØ ÑË">
-<!ENTITY picsNtextRadio.label                   "íÁÌÀÎÏË ¦ ÔÅËÓÔ">
-<!ENTITY picsNtextRadio.accesskey               "í">
-<!ENTITY picsOnlyRadio.label                    "ìÉÛÅ ÍÁÌÀÎÏË">
-<!ENTITY picsOnlyRadio.accesskey                "ì">
-<!ENTITY textonlyRadio.label                    "ìÉÛÅ ÔÅËÓÔ">
-<!ENTITY textonlyRadio.accesskey                "ì">
-<!ENTITY showHideTooltips.label                 "ðÏËÁÚÕ×ÁÔÉ Ð¦ÄËÁÚËÉ">
-<!ENTITY showHideTooltips.accesskey             "ð">
+<!ENTITY onStartLegend.label                    "ÐŸÑ€Ð¸ Ð·Ð°Ð¿ÑƒÑÐºÑƒ &brandShortName;, Ð²Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸">
+<!ENTITY navCheck.label                         "ÐÐ°Ð²Ñ–Ð³Ð°Ñ‚Ð¾Ñ€">
+<!ENTITY navCheck.accesskey                     "Ð">
+<!ENTITY showToolsLegend.label                  "ÐŸÐ¾ÐºÐ°Ð·ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð°Ð½ÐµÐ»ÑŒ ÑÐº">
+<!ENTITY picsNtextRadio.label                   "ÐœÐ°Ð»ÑŽÐ½Ð¾Ðº Ñ– Ñ‚ÐµÐºÑÑ‚">
+<!ENTITY picsNtextRadio.accesskey               "Ðœ">
+<!ENTITY picsOnlyRadio.label                    "Ð›Ð¸ÑˆÐµ Ð¼Ð°Ð»ÑŽÐ½Ð¾Ðº">
+<!ENTITY picsOnlyRadio.accesskey                "Ð›">
+<!ENTITY textonlyRadio.label                    "Ð›Ð¸ÑˆÐµ Ñ‚ÐµÐºÑÑ‚">
+<!ENTITY textonlyRadio.accesskey                "Ð›">
+<!ENTITY showHideTooltips.label                 "ÐŸÐ¾ÐºÐ°Ð·ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ñ–Ð´ÐºÐ°Ð·ÐºÐ¸">
+<!ENTITY showHideTooltips.accesskey             "ÐŸ">
 
-<!ENTITY pref.locales.title                     "íÏ×Á ¦ÎÔÅÒÆÅÊÓÕ">
-<!ENTITY selectLocale.label                     "÷ÉÂÒÁÔÉ ÍÏ×Õ ÄÌÑ ÔÅËÓÔÕ × Ä¦ÁÌÏÇÁÈ, ÍÅÎÀ, ÐÅÎÁÌÁÈ ÔÏÝÏ:">
+<!ENTITY pref.locales.title                     "ÐœÐ¾Ð²Ð° Ñ–Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÑƒ">
+<!ENTITY selectLocale.label                     "Ð’Ð¸Ð±Ñ€Ð°Ñ‚Ð¸ Ð¼Ð¾Ð²Ñƒ Ð´Ð»Ñ Ñ‚ÐµÐºÑÑ‚Ñƒ Ð² Ð´Ñ–Ð°Ð»Ð¾Ð³Ð°Ñ…, Ð¼ÐµÐ½ÑŽ, Ð¿ÐµÐ½Ð°Ð»Ð°Ñ… Ñ‚Ð¾Ñ‰Ð¾:">
 <!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY restartOnLangChange.label              "úÍ¦ÎÁ ÍÏ×É ×ÓÔÕÐÉÔØ × Ä¦À Ð¦ÓÌÑ ÐÅÒÅÚÁÐÕÓËÕ &brandShortName;.">
+<!ENTITY restartOnLangChange.label              "Ð—Ð¼Ñ–Ð½Ð° Ð¼Ð¾Ð²Ð¸ Ð²ÑÑ‚ÑƒÐ¿Ð¸Ñ‚ÑŒ Ð² Ð´Ñ–ÑŽ Ð¿Ñ–ÑÐ»Ñ Ð¿ÐµÑ€ÐµÐ·Ð°Ð¿ÑƒÑÐºÑƒ &brandShortName;.">
 

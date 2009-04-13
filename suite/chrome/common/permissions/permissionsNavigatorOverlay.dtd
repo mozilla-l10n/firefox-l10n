@@ -1,42 +1,42 @@
 <!-- the following is for the task menu overlay -->
 
-<!ENTITY cookieMessageTitle.label "ðÒÁ×Á ÄÏÓÔÕÐÕ ÎÁ ËÕËÉ ÚÍ¦ÎÅÎ¦">
-<!ENTITY cookieDisplayCookiesCmd.label "úÍ¦ÎÉÔÉ ÚÂÅÒÅÖÅÎ¦ ËÕËÉ">
-<!ENTITY cookieDisplayCookiesCmd.accesskey "÷">
-<!ENTITY cookieAllowCookiesCmd.label "äÏÚ×ÏÌÉÔÉ ËÕËÉ Ú ÃØÏÇÏ ÓÁÊÔÁ">
-<!ENTITY cookieAllowCookiesCmd.accesskey "ä">
-<!ENTITY cookieAllowCookiesMsg.label "ëÕËÉ Ú ÃØÏÇÏ ÓÁÊÔÁ ÂÕÄÕÔØ ÐÏÓÔ¦ÊÎÏ ÄÏÚ×ÏÌÑÔÉÓÑ.">
-<!ENTITY cookieAllowSessionCookiesCmd.label "äÏÚ×ÏÌÉÔÉ ËÕËÉ Ú ÃØÏÇÏ ÓÁÊÔÁ ÐÒÏÔÑÇÏÍ ÓÅÁÎÓÁ">
-<!ENTITY cookieAllowSessionCookiesCmd.accesskey "ä">
-<!ENTITY cookieAllowSessionCookiesMsg.label "ãØÏÍÕ ÓÁÊÔÕ ÂÕÄÅ ÄÏÚ×ÏÌÅÎÏ ×ÓÔÁÎÏ×ÉÔÉ ËÕËÉ ÌÉÛÅ ÎÁ ÐÏÔÏÞÎÉÊ ÓÅÁÎÓ.">
-<!ENTITY cookieCookiesDefaultCmd.label "÷ÉËÏÒÉÓÔÁÔÉ ÔÉÐÏ×¦ ÐÒÁ×Á ÄÏÓÔÕÐÕ ÎÁ ËÕËÉ">
-<!ENTITY cookieCookiesDefaultCmd.accesskey "÷">
-<!ENTITY cookieCookiesDefaultMsg.label "÷¦ÄÐÏ×¦ÄÎÏ ÄÏ ÔÉÐÏ×ÉÈ ÎÁÌÁÛÔÕ×ÁÎØ, ËÕËÉ Ú ÃØÏÇÏ ÓÁÊÔÁ ÂÕÄÕÔØ ÐÒÉÊÍÁÔÉÓÑ ÁÂÏ ×¦ÄËÉÄÁÔÉÓÑ.">
-<!ENTITY cookieBlockCookiesCmd.label "úÁÂÏÒÏÎÉÔÉ ËÕËÉ Ú ÃØÏÇÏ ÓÁÊÔÁ">
-<!ENTITY cookieBlockCookiesCmd.accesskey "ú">
-<!ENTITY cookieBlockCookiesMsg.label "ëÕËÉ Ú ÃØÏÇÏ ÓÁÊÔÁ ÂÕÄÕÔØ ÐÏÓÔ¦ÊÎÏ ÚÁÂÏÒÏÎÑÔÉÓÑ.">
+<!ENTITY cookieMessageTitle.label "ÐŸÑ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñƒ Ð½Ð° ÐºÑƒÐºÐ¸ Ð·Ð¼Ñ–Ð½ÐµÐ½Ñ–">
+<!ENTITY cookieDisplayCookiesCmd.label "Ð—Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ð·Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ñ– ÐºÑƒÐºÐ¸">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "Ð’">
+<!ENTITY cookieAllowCookiesCmd.label "Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚Ð¸ ÐºÑƒÐºÐ¸ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð°">
+<!ENTITY cookieAllowCookiesCmd.accesskey "Ð”">
+<!ENTITY cookieAllowCookiesMsg.label "ÐšÑƒÐºÐ¸ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð° Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð¿Ð¾ÑÑ‚Ñ–Ð¹Ð½Ð¾ Ð´Ð¾Ð·Ð²Ð¾Ð»ÑÑ‚Ð¸ÑÑ.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚Ð¸ ÐºÑƒÐºÐ¸ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð° Ð¿Ñ€Ð¾Ñ‚ÑÐ³Ð¾Ð¼ ÑÐµÐ°Ð½ÑÐ°">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "Ð”">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Ð¦ÑŒÐ¾Ð¼Ñƒ ÑÐ°Ð¹Ñ‚Ñƒ Ð±ÑƒÐ´Ðµ Ð´Ð¾Ð·Ð²Ð¾Ð»ÐµÐ½Ð¾ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ð¸ ÐºÑƒÐºÐ¸ Ð»Ð¸ÑˆÐµ Ð½Ð° Ð¿Ð¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¹ ÑÐµÐ°Ð½Ñ.">
+<!ENTITY cookieCookiesDefaultCmd.label "Ð’Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð°Ñ‚Ð¸ Ñ‚Ð¸Ð¿Ð¾Ð²Ñ– Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñƒ Ð½Ð° ÐºÑƒÐºÐ¸">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "Ð’">
+<!ENTITY cookieCookiesDefaultMsg.label "Ð’Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð½Ð¾ Ð´Ð¾ Ñ‚Ð¸Ð¿Ð¾Ð²Ð¸Ñ… Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½ÑŒ, ÐºÑƒÐºÐ¸ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð° Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð¿Ñ€Ð¸Ð¹Ð¼Ð°Ñ‚Ð¸ÑÑ Ð°Ð±Ð¾ Ð²Ñ–Ð´ÐºÐ¸Ð´Ð°Ñ‚Ð¸ÑÑ.">
+<!ENTITY cookieBlockCookiesCmd.label "Ð—Ð°Ð±Ð¾Ñ€Ð¾Ð½Ð¸Ñ‚Ð¸ ÐºÑƒÐºÐ¸ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð°">
+<!ENTITY cookieBlockCookiesCmd.accesskey "Ð—">
+<!ENTITY cookieBlockCookiesMsg.label "ÐšÑƒÐºÐ¸ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð° Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð¿Ð¾ÑÑ‚Ñ–Ð¹Ð½Ð¾ Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½ÑÑ‚Ð¸ÑÑ.">
 
-<!ENTITY cookieImageMessageTitle.label "ðÒÁ×Á ÄÏÓÔÕÐÕ ÎÁ ÚÏÂÒÁÖÅÎÎÑ ÚÍ¦ÎÅÎ¦">
-<!ENTITY cookieDisplayImagesCmd.label "úÍ¦ÎÉÔÉ ÐÒÁ×Á ÄÏÓÔÕÐÕ ÎÁ ÚÏÂÒÁÖÅÎÎÑ">
-<!ENTITY cookieDisplayImagesCmd.accesskey "ú">
-<!ENTITY cookieAllowImagesCmd.label "äÏÚ×ÏÌÉÔÉ ÚÏÂÒÁÖÅÎÎÑ Ú ÃØÏÇÏ ÓÁÊÔÁ">
-<!ENTITY cookieAllowImagesCmd.accesskey "ä">
-<!ENTITY cookieAllowImagesMsg.label "úÏÂÒÁÖÅÎÎÑ Ú ÃØÏÇÏ ÓÁÊÔÁ ÂÕÄÕÔØ ÐÏÓÔ¦ÊÎÏ Ú×ÁÎÔÁÖÕ×ÁÔÉÓØ.">
-<!ENTITY cookieImagesDefaultCmd.label "÷ÉËÏÒÉÓÔÁÔÉ ÔÉÐÏ×¦ ÐÒÁ×Á ÄÏÓÔÕÐÕ ÎÁ ÚÏÂÒÁÖÅÎÎÑ">
-<!ENTITY cookieImagesDefaultCmd.accesskey "÷">
-<!ENTITY cookieImagesDefaultMsg.label "÷¦ÄÐÏ×¦ÄÎÏ ÄÏ ÔÉÐÏ×ÉÈ ÎÁÌÁÛÔÕ×ÁÎØ, ÚÏÂÒÁÖÅÎÎÑ Ú ÃØÏÇÏ ÓÁÊÔÁ ÂÕÄÕÔØ Ú×ÁÎÔÁÖÕ×ÁÔÉÓØ.">
-<!ENTITY cookieBlockImagesCmd.label "úÁÂÏÒÏÎÉÔÉ ÚÏÂÒÁÖÅÎÎÑ Ú ÃØÏÇÏ ÓÁÊÔÁ">
-<!ENTITY cookieBlockImagesCmd.accesskey "ú">
-<!ENTITY cookieBlockImagesMsg.label "úÏÂÒÁÖÅÎÎÑ Ú ÃØÏÇÏ ÓÁÊÔÁ Î¦ËÏÌÉ ÎÅ ÂÕÄÕÔØ Ú×ÁÎÔÁÖÕ×ÁÔÉÓØ.">
+<!ENTITY cookieImageMessageTitle.label "ÐŸÑ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñƒ Ð½Ð° Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ Ð·Ð¼Ñ–Ð½ÐµÐ½Ñ–">
+<!ENTITY cookieDisplayImagesCmd.label "Ð—Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñƒ Ð½Ð° Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ">
+<!ENTITY cookieDisplayImagesCmd.accesskey "Ð—">
+<!ENTITY cookieAllowImagesCmd.label "Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚Ð¸ Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð°">
+<!ENTITY cookieAllowImagesCmd.accesskey "Ð”">
+<!ENTITY cookieAllowImagesMsg.label "Ð—Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð° Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð¿Ð¾ÑÑ‚Ñ–Ð¹Ð½Ð¾ Ð·Ð²Ð°Ð½Ñ‚Ð°Ð¶ÑƒÐ²Ð°Ñ‚Ð¸ÑÑŒ.">
+<!ENTITY cookieImagesDefaultCmd.label "Ð’Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð°Ñ‚Ð¸ Ñ‚Ð¸Ð¿Ð¾Ð²Ñ– Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñƒ Ð½Ð° Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ">
+<!ENTITY cookieImagesDefaultCmd.accesskey "Ð’">
+<!ENTITY cookieImagesDefaultMsg.label "Ð’Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð½Ð¾ Ð´Ð¾ Ñ‚Ð¸Ð¿Ð¾Ð²Ð¸Ñ… Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½ÑŒ, Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð° Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð·Ð²Ð°Ð½Ñ‚Ð°Ð¶ÑƒÐ²Ð°Ñ‚Ð¸ÑÑŒ.">
+<!ENTITY cookieBlockImagesCmd.label "Ð—Ð°Ð±Ð¾Ñ€Ð¾Ð½Ð¸Ñ‚Ð¸ Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð°">
+<!ENTITY cookieBlockImagesCmd.accesskey "Ð—">
+<!ENTITY cookieBlockImagesMsg.label "Ð—Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð° Ð½Ñ–ÐºÐ¾Ð»Ð¸ Ð½Ðµ Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð·Ð²Ð°Ð½Ñ‚Ð°Ð¶ÑƒÐ²Ð°Ñ‚Ð¸ÑÑŒ.">
 
-<!ENTITY cookieAllowPopupsCmd.label                  "äÏÚ×ÏÌÉ ×ÉÒÉÎÁÎÎÑ Ú ÃØÏÇÏ ÓÁÊÔÁ">
-<!ENTITY cookieAllowPopupsCmd.accesskey              "ä">
-<!ENTITY cookieManagePopups.label                    "îÁÌÁÛÔÕ×ÁÔÉ ×ÉÒÉÎÁÎÎÑ">
-<!ENTITY cookieManagePopups.accesskey                "î">
+<!ENTITY cookieAllowPopupsCmd.label                  "Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸ Ð²Ð¸Ñ€Ð¸Ð½Ð°Ð½Ð½Ñ Ð· Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð°">
+<!ENTITY cookieAllowPopupsCmd.accesskey              "Ð”">
+<!ENTITY cookieManagePopups.label                    "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ñ‚Ð¸ Ð²Ð¸Ñ€Ð¸Ð½Ð°Ð½Ð½Ñ">
+<!ENTITY cookieManagePopups.accesskey                "Ð">
 
-<!ENTITY cookieCookieManager.label "ëÅÒÕ×ÁÎÎÑ ËÕËÁÍÉ">
-<!ENTITY cookieCookieManager.accesskey "ë">
-<!ENTITY cookieImageManager.label "ëÅÒÕ×ÁÎÎÑ ÚÏÂÒÁÖÅÎÎÑÍÉ">
-<!ENTITY cookieImageManager.accesskey "ë">
-<!ENTITY cookiePopupManager.label "ëÅÒÕ×ÁÎÎÑ ×ÉÒÉÎÁÎÎÑÍ">
-<!ENTITY cookiePopupManager.accesskey "ë">
+<!ENTITY cookieCookieManager.label "ÐšÐµÑ€ÑƒÐ²Ð°Ð½Ð½Ñ ÐºÑƒÐºÐ°Ð¼Ð¸">
+<!ENTITY cookieCookieManager.accesskey "Ðš">
+<!ENTITY cookieImageManager.label "ÐšÐµÑ€ÑƒÐ²Ð°Ð½Ð½Ñ Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½ÑÐ¼Ð¸">
+<!ENTITY cookieImageManager.accesskey "Ðš">
+<!ENTITY cookiePopupManager.label "ÐšÐµÑ€ÑƒÐ²Ð°Ð½Ð½Ñ Ð²Ð¸Ñ€Ð¸Ð½Ð°Ð½Ð½ÑÐ¼">
+<!ENTITY cookiePopupManager.accesskey "Ðš">

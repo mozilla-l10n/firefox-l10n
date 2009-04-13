@@ -1,24 +1,24 @@
 
-<!ENTITY  editType.label                        "òÅÄÁÇÕ×ÁÔÉ ÔÉÐ">
-<!ENTITY  newType.label                         "îÏ×ÉÊ ÔÉÐ">
-<!ENTITY  extension.label                       "òÏÚÛÉÒÅÎÎÑ:">
-<!ENTITY  extension.accesskey                   "ò">
+<!ENTITY  editType.label                        "Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ Ñ‚Ð¸Ð¿">
+<!ENTITY  newType.label                         "ÐÐ¾Ð²Ð¸Ð¹ Ñ‚Ð¸Ð¿">
+<!ENTITY  extension.label                       "Ð Ð¾Ð·ÑˆÐ¸Ñ€ÐµÐ½Ð½Ñ:">
+<!ENTITY  extension.accesskey                   "Ð ">
 <!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
-<!ENTITY  mimetype.label                        "ôÉÐ MIME:">
-<!ENTITY  mimetype.accesskey                    "ô">
-<!ENTITY  description.label                     "ïÐÉÓ:">
-<!ENTITY  description.accesskey                 "ï">
+<!ENTITY  mimetype.label                        "Ð¢Ð¸Ð¿ MIME:">
+<!ENTITY  mimetype.accesskey                    "Ð¢">
+<!ENTITY  description.label                     "ÐžÐ¿Ð¸Ñ:">
+<!ENTITY  description.accesskey                 "Ðž">
 
-<!ENTITY  handling.label                        "ëÏÌÉ ÔÒÁÐÌÑ¤ÔØÓÑ ÆÁÊÌ ÃØÏÇÏ ÔÉÐÕ">
-<!ENTITY  useDefault.label                      "÷¦ÄËÒÉÔÉ ÔÉÐÏ×ÏÀ ÐÒÏÇÒÁÍÏÀ">
-<!ENTITY  useDefault.accesskey                  "÷">
-<!ENTITY  saveToDisk.label                      "úÁÐÉÓÁÔÉ ÎÁ ÄÉÓË">
-<!ENTITY  saveToDisk.accesskey                  "ú">
-<!ENTITY  application.label                     "÷¦ÄËÒÉÔÉ ÃÅ Ú:">
-<!ENTITY  application.accesskey                 "÷">
+<!ENTITY  handling.label                        "ÐšÐ¾Ð»Ð¸ Ñ‚Ñ€Ð°Ð¿Ð»ÑÑ”Ñ‚ÑŒÑÑ Ñ„Ð°Ð¹Ð» Ñ†ÑŒÐ¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ñƒ">
+<!ENTITY  useDefault.label                      "Ð’Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸ Ñ‚Ð¸Ð¿Ð¾Ð²Ð¾ÑŽ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¾ÑŽ">
+<!ENTITY  useDefault.accesskey                  "Ð’">
+<!ENTITY  saveToDisk.label                      "Ð—Ð°Ð¿Ð¸ÑÐ°Ñ‚Ð¸ Ð½Ð° Ð´Ð¸ÑÐº">
+<!ENTITY  saveToDisk.accesskey                  "Ð—">
+<!ENTITY  application.label                     "Ð’Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸ Ñ†Ðµ Ð·:">
+<!ENTITY  application.accesskey                 "Ð’">
 
-<!ENTITY  browse.label                          "÷ÉÂÒÁÔÉ...">
-<!ENTITY  browse.accesskey                      "÷">
+<!ENTITY  browse.label                          "Ð’Ð¸Ð±Ñ€Ð°Ñ‚Ð¸...">
+<!ENTITY  browse.accesskey                      "Ð’">
 
-<!ENTITY  askBeforeOpen.label                   "úÁ×ÖÄÉ ÍÅÎÅ ÚÁÐÉÔÕ×ÁÔÉ ÐÅÒÅÄ ×¦ÄËÒÉÔÔÑÍ ÆÁÊÌÁ ÃØÏÇÏ ÔÉÐÕ">
+<!ENTITY  askBeforeOpen.label                   "Ð—Ð°Ð²Ð¶Ð´Ð¸ Ð¼ÐµÐ½Ðµ Ð·Ð°Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿ÐµÑ€ÐµÐ´ Ð²Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ñ‚ÑÐ¼ Ñ„Ð°Ð¹Ð»Ð° Ñ†ÑŒÐ¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ñƒ">
 <!ENTITY  askBeforeOpen.accesskey               "k">
