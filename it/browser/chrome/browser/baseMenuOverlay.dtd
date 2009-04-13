@@ -22,7 +22,6 @@
 <!ENTITY helpReleaseNotes.label "Note di versione">
 <!ENTITY helpReleaseNotes.accesskey "v">
 <!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
-<!ENTITY updateCmd.accesskey "A">
 <!ENTITY preferencesCmdMac.label "Preferenze…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
