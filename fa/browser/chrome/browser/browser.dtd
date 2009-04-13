@@ -271,7 +271,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey  "چ">
 <!ENTITY bookmarkThisFrameCmd.label      "چوب‌الف‌گذاری این چارچوب">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "چ">
-<!ENTITY sendPageCmd.label            "فرستادن پیوند…">
+<!ENTITY sendPageCmd.label            "فرستادن صفحه…">
 <!ENTITY sendPageCmd.accesskey        "ف">
 <!ENTITY savePageCmd.label            "ذخیرهٔ صفحه به نام…">
 <!ENTITY savePageCmd.accesskey        "ص">
@@ -285,7 +285,7 @@
 <!ENTITY saveLinkCmd.label            "ذخیرهٔ پیوند به نام…">
 <!ENTITY saveLinkCmd.accesskey        "پ">
 <!ENTITY sendLinkCmd.label            "فرستادن پیوند…"> 
-<!ENTITY sendLinkCmd.accesskey        "و">
+<!ENTITY sendLinkCmd.accesskey        "ف">
 <!ENTITY saveImageCmd.label           "ذخیرهٔ تصویر به نام…">
 <!ENTITY saveImageCmd.accesskey       "خ">
 <!ENTITY saveVideoCmd.label           "ذخیرهٔ ویدیو با نام…">
