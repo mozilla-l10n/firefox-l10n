@@ -61,7 +61,7 @@
 <!ENTITY closeWindow.accesskey "ه">
 
 <!ENTITY bookmarksMenu.label "نشانک‌ها">
-<!ENTITY bookmarksMenu.accesskey "چ">
+<!ENTITY bookmarksMenu.accesskey "ش">
 <!ENTITY bookmarkThisPageCmd.label "نشانک‌گذاری این صفحه">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن این صفحه">
@@ -266,11 +266,11 @@
 <!ENTITY setDesktopBackgroundCmd.label      "قرار دادن در پس‌زمینهٔ رومیزی ">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ق">
 <!ENTITY bookmarkPageCmd2.label       "نشانک‌گذاری این صفحه">
-<!ENTITY bookmarkPageCmd2.accesskey   "چ">
+<!ENTITY bookmarkPageCmd2.accesskey   "ش">
 <!ENTITY bookmarkThisLinkCmd.label      "نشانک‌گذاری این پیوند">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "چ">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "ش">
 <!ENTITY bookmarkThisFrameCmd.label      "نشانک‌گذاری این چارچوب">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "چ">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "ش">
 <!ENTITY sendPageCmd.label            "فرستادن پیوند…">
 <!ENTITY sendPageCmd.accesskey        "ف">
 <!ENTITY savePageCmd.label            "ذخیرهٔ صفحه به نام…">

@@ -19,7 +19,7 @@
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "ک">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "نمایش تمام برچسب‌ها">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "بارگیری این نشانک در نوار کناری">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "چ">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "ش">
 <!ENTITY editBookmarkOverlay.choose.label                    "انتخاب…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "پوشهٔ جدید">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "پ">

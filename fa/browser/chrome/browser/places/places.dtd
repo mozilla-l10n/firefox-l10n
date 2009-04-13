@@ -98,7 +98,7 @@
 <!ENTITY cmd.context_sortby_name.accesskey  "ن">
 
 <!ENTITY cmd.new_bookmark.label            "نشانک جدید…">
-<!ENTITY cmd.new_bookmark.accesskey        "چ">
+<!ENTITY cmd.new_bookmark.accesskey        "ن">
 <!ENTITY cmd.new_livemark.label            "نشانک زندهٔ جدید…">
 <!ENTITY cmd.new_livemark.accesskey        "ز">
 <!ENTITY cmd.new_folder.label              "پوشهٔ جدید…">
@@ -139,7 +139,7 @@
 <!ENTITY search.scopeFolder.label                  "پوشهٔ انتخاب شده">
 <!ENTITY search.scopeFolder.accesskey              "پ">
 <!ENTITY search.scopeBookmarks.label               "نشانک‌ها">
-<!ENTITY search.scopeBookmarks.accesskey           "چ">
+<!ENTITY search.scopeBookmarks.accesskey           "ش">
 <!ENTITY search.scopeDownloads.label               "بارگیری‌ها">
 <!ENTITY search.scopeDownloads.accesskey           "ب">
 <!ENTITY search.scopeHistory.label                 "تاریخچه">

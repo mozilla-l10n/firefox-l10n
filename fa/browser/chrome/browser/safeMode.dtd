@@ -49,7 +49,7 @@
 <!ENTITY resetToolbars.accesskey      "ب">
 
 <!ENTITY resetBookmarks.label         "بازگردانی نشانک‌ها به مقادیر اولیهٔ &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "چ">
+<!ENTITY resetBookmarks.accesskey     "ش">
 
 <!ENTITY resetUserPrefs.label         "بازگردانی تمامی ترجیحات به مقادیر اولیهٔ &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "ت">
