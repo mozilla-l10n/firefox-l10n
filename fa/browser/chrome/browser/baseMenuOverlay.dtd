@@ -29,7 +29,6 @@
 <!ENTITY helpReleaseNotes.label         "یادداشت‌های انتشار">
 <!ENTITY helpReleaseNotes.accesskey     "ی">
 <!ENTITY updateCmd.label                "گشتن به دنبال به‌هنگام‌سازی‌ها…">
-<!ENTITY updateCmd.accesskey            "گ">
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
