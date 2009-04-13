@@ -303,9 +303,9 @@
 <!ENTITY copyLinkTextCmd.label        "رونوشت برداشتن از متن پیوند">
 <!ENTITY copyLinkTextCmd.accesskey    "ن">
 <!ENTITY copyImageCmd.label           "رونوشت برداشتن از مکان تصویر">
-<!ENTITY copyImageCmd.accesskey       "س">
+<!ENTITY copyImageCmd.accesskey       "م">
 <!ENTITY copyImageContentsCmd.label   "رونوشت برداشتن از تصویر">
-<!ENTITY copyImageContentsCmd.accesskey  "خ"> 
+<!ENTITY copyImageContentsCmd.accesskey  "ت"> 
 <!ENTITY copyVideoURLCmd.label        "رونوشت برداشتن از نشانی ویدیو">
 <!ENTITY copyVideoURLCmd.accesskey    "ن">
 <!ENTITY copyAudioURLCmd.label        "رونوشت برداشتن از نشانی پروندهٔ صوتی">
