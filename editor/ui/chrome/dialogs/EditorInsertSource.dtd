@@ -37,7 +37,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Set inn HTML">
-<!ENTITY sourceEditField.label "Skriv inn HTML-merkelappar og tekst:">
+<!ENTITY sourceEditField.label "Skriv inn HTML-taggar og tekst:">
 <!ENTITY example.label "Døme: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
