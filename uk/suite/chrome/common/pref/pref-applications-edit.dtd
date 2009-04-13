@@ -1,24 +1,24 @@
 
-<!ENTITY  editType.label                        "Edit Type">
-<!ENTITY  newType.label                         "New Type">
-<!ENTITY  extension.label                       "Extension:">
-<!ENTITY  extension.accesskey                   "E">
+<!ENTITY  editType.label                        "Редагувати тип">
+<!ENTITY  newType.label                         "Новий тип">
+<!ENTITY  extension.label                       "Розширення:">
+<!ENTITY  extension.accesskey                   "Р">
 <!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
-<!ENTITY  mimetype.label                        "MIME Type:">
-<!ENTITY  mimetype.accesskey                    "m">
-<!ENTITY  description.label                     "Description:">
-<!ENTITY  description.accesskey                 "d">
+<!ENTITY  mimetype.label                        "Тип MIME:">
+<!ENTITY  mimetype.accesskey                    "Т">
+<!ENTITY  description.label                     "Опис:">
+<!ENTITY  description.accesskey                 "О">
 
-<!ENTITY  handling.label                        "When a file of this type is encountered">
-<!ENTITY  useDefault.label                      "Open it using the default application">
-<!ENTITY  useDefault.accesskey                  "o">
-<!ENTITY  saveToDisk.label                      "Save it to Disk">
-<!ENTITY  saveToDisk.accesskey                  "s">
-<!ENTITY  application.label                     "Open it with:">
-<!ENTITY  application.accesskey                 "w">
+<!ENTITY  handling.label                        "Коли трапля╓ться файл цього типу">
+<!ENTITY  useDefault.label                      "В╕дкрити типовою програмою">
+<!ENTITY  useDefault.accesskey                  "В">
+<!ENTITY  saveToDisk.label                      "Записати на диск">
+<!ENTITY  saveToDisk.accesskey                  "З">
+<!ENTITY  application.label                     "В╕дкрити це з:">
+<!ENTITY  application.accesskey                 "В">
 
-<!ENTITY  browse.label                          "Choose...">
-<!ENTITY  browse.accesskey                      "c">
+<!ENTITY  browse.label                          "Вибрати...">
+<!ENTITY  browse.accesskey                      "В">
 
-<!ENTITY  askBeforeOpen.label                   "Always ask me before handling files of this type">
+<!ENTITY  askBeforeOpen.label                   "Завжди мене запитувати перед в╕дкриттям файла цього типу">
 <!ENTITY  askBeforeOpen.accesskey               "k">

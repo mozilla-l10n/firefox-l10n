@@ -1,27 +1,27 @@
 <!-- extracted from content/pref-cache.xul -->
 
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
-<!ENTITY pref.cache.title                "Cache">
-<!ENTITY pref.cache.caption              "Set Cache Options">
-<!ENTITY cachePara                       "The cache keeps copies of frequently visited web pages on your hard disk. (Clicking Reload always shows you the latest version of a page.)">
-<!ENTITY diskCache.label                 "Size:">
-<!ENTITY diskCache.accesskey             "S">
-<!ENTITY mbytes                          "MB">
-<!ENTITY diskCacheFolder.label           "Cache Folder Location:">
-<!ENTITY clearDiskCache.label            "Clear Cache">
-<!ENTITY clearDiskCache.accesskey        "C">
-<!ENTITY chooseDiskCacheFolder.label     "Choose FolderБ─╕">
-<!ENTITY chooseDiskCacheFolder.accesskey "F">
-<!ENTITY diskCacheFolderExplanation      "Cache files will be stored in a subfolder named &quot;Cache&quot; of the directory you specify. Restart &brandShortName; for changes to take effect.">
-<!ENTITY docCache                        "Compare the page in the cache to the page on the network:">
-<!ENTITY oncePsessionRadio.label         "Once per session">
-<!ENTITY oncePsessionRadio.accesskey     "O">
-<!ENTITY everyTimeRadio.label            "Every time I view the page">
-<!ENTITY everyTimeRadio.accesskey        "E">
-<!ENTITY neverRadio.label                "Never">
-<!ENTITY neverRadio.accesskey            "N">
-<!ENTITY autoRadio.label                 "When the page is out of date">
-<!ENTITY autoRadio.accesskey             "W">
+<!ENTITY pref.cache.title                "Кеш">
+<!ENTITY pref.cache.caption              "Налаштувати вар╕анти кешу">
+<!ENTITY cachePara                       "Кеш ? це надшвидка пам'ять, котра збер╕га╓ стор╕нки, що ви нещодавно в╕дв╕дували на ваш жорсткий диск. (Клацнувши Оновити, ви завжди побачите найнов╕шу верс╕ю стор╕нки.)">
+<!ENTITY diskCache.label                 "Розм╕р:">
+<!ENTITY diskCache.accesskey             "Р">
+<!ENTITY mbytes                          "МБ">
+<!ENTITY diskCacheFolder.label           "Тека для кешу:">
+<!ENTITY clearDiskCache.label            "Очистити кеш">
+<!ENTITY clearDiskCache.accesskey        "О">
+<!ENTITY chooseDiskCacheFolder.label     "Вибрати теку">
+<!ENTITY chooseDiskCacheFolder.accesskey "В">
+<!ENTITY diskCacheFolderExplanation      "Файли кешу будуть збер╕гатись в п╕дтец╕ з назвою &quot;Cache&quot; у тец╕, котру ви вказали. Перезапуст╕ть &brandShortName;, щоб зм╕ни вступили в д╕ю.">
+<!ENTITY docCache                        "Оновити стор╕нку:">
+<!ENTITY oncePsessionRadio.label         "Раз на сеанс">
+<!ENTITY oncePsessionRadio.accesskey     "Р">
+<!ENTITY everyTimeRadio.label            "Кожного разу, коли я переглядаю стор╕нку">
+<!ENTITY everyTimeRadio.accesskey        "К">
+<!ENTITY neverRadio.label                "Н╕коли">
+<!ENTITY neverRadio.accesskey            "Н">
+<!ENTITY autoRadio.label                 "Коли стор╕нка ╓ застар╕лою">
+<!ENTITY autoRadio.accesskey             "К">
 
 <!ENTITY prefetchTitle.label             "Link Prefetching">
 <!ENTITY enablePrefetch.label            "Prefetch web pages when idle, so that links in web pages designed for prefetching can load more quickly">

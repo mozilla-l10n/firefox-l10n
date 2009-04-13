@@ -1,26 +1,26 @@
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
-<!ENTITY pref.appearance.title "Appearance">
+<!ENTITY pref.appearance.title "Вигляд">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY onStartLegend.label                    "When &brandShortName; starts up, open">
-<!ENTITY navCheck.label                         "Browser">
-<!ENTITY navCheck.accesskey                     "B">
-<!ENTITY showToolsLegend.label                  "Show toolbars as">
-<!ENTITY picsNtextRadio.label                   "Pictures and text">
-<!ENTITY picsNtextRadio.accesskey               "P">
-<!ENTITY picsOnlyRadio.label                    "Pictures only">
-<!ENTITY picsOnlyRadio.accesskey                "o">
-<!ENTITY textonlyRadio.label                    "Text only">
-<!ENTITY textonlyRadio.accesskey                "x">
-<!ENTITY showHideTooltips.label                 "Show Tooltips">
-<!ENTITY showHideTooltips.accesskey             "T">
+<!ENTITY onStartLegend.label                    "При запуску &brandShortName;, в╕дкрити">
+<!ENTITY navCheck.label                         "Нав╕гатор">
+<!ENTITY navCheck.accesskey                     "Н">
+<!ENTITY showToolsLegend.label                  "Показувати панель як">
+<!ENTITY picsNtextRadio.label                   "Малюнок ╕ текст">
+<!ENTITY picsNtextRadio.accesskey               "М">
+<!ENTITY picsOnlyRadio.label                    "Лише малюнок">
+<!ENTITY picsOnlyRadio.accesskey                "Л">
+<!ENTITY textonlyRadio.label                    "Лише текст">
+<!ENTITY textonlyRadio.accesskey                "Л">
+<!ENTITY showHideTooltips.label                 "Показувати п╕дказки">
+<!ENTITY showHideTooltips.accesskey             "П">
 
-<!ENTITY pref.locales.title                     "User Interface Language">
-<!ENTITY selectLocale.label                     "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">
+<!ENTITY pref.locales.title                     "Мова ╕нтерфейсу">
+<!ENTITY selectLocale.label                     "Вибрати мову для тексту в д╕алогах, меню, пеналах тощо:">
 <!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY restartOnLangChange.label              "Language preferences will take effect when you restart &brandShortName;.">
+<!ENTITY restartOnLangChange.label              "Зм╕на мови вступить в д╕ю п╕сля перезапуску &brandShortName;.">
 

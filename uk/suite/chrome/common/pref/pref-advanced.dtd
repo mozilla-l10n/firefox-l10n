@@ -1,16 +1,16 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Advanced">
+<!ENTITY pref.advanced.title        "Розширен╕">
 
-<!ENTITY prefEnableJava.caption     "Features that help interpret web pages">
+<!ENTITY prefEnableJava.caption     "Властивост╕, котр╕ допомагають розп╕знавати стор╕нки">
 
-<!ENTITY enbJavaCheck.label         "Enable Java">
-<!ENTITY enbJavaCheck.accesskey     "J">
+<!ENTITY enbJavaCheck.label         "Вв╕мкнути Java">
+<!ENTITY enbJavaCheck.accesskey     "В">
 
-<!ENTITY systemPref.caption         "System Preferences">
-<!ENTITY systemPrefCheck.label      "Use Preferences from System">
-<!ENTITY systemPrefCheck.accesskey  "U">
-<!ENTITY systemPref.desc            "With this option, &brandShortName; inherits preferences from the system. These system settings will override the &brandShortName; preferences.">
+<!ENTITY systemPref.caption         "Системн╕ налаштування">
+<!ENTITY systemPrefCheck.label      "Використовувати налаштування, котр╕ надаються системою">
+<!ENTITY systemPrefCheck.accesskey  "В">
+<!ENTITY systemPref.desc            "З цим вар╕антом, &brandShortName; успадкову╓ налаштування в╕д системи. Системн╕ налаштування зам╕нять налаштування &brandShortName;.">
 
-<!ENTITY prefCheckDefault.caption   "System Integration">
-<!ENTITY prefCheckDefaultClient.label "Check default application settings on startup">
-<!ENTITY prefCheckDefaultClient.accesskey "C">
+<!ENTITY prefCheckDefault.caption   "╤нтеграц╕я системи">
+<!ENTITY prefCheckDefaultClient.label "Перев╕рити типов╕ налаштування програми при запуску">
+<!ENTITY prefCheckDefaultClient.accesskey "П">
