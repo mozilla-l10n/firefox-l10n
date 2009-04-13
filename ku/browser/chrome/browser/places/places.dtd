@@ -65,7 +65,7 @@
 <!ENTITY cmd.edit_delete.label      "Jê Bibe">
 <!ENTITY cmd.edit_delete.accesskey  "J">
 <!ENTITY cmd.edit_undo.label        "Şûnde Bîne">
-<!ENTITY cmd.edit_undo.accesskey    "Ş">
+<!ENTITY cmd.edit_undo.accesskey    "n">
 <!ENTITY cmd.edit_undo.key          "z">
 <!ENTITY cmd.edit_redo.label        "Bidomîne">
 <!ENTITY cmd.edit_redo.accesskey    "B">
@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Bigere:">
 <!ENTITY search.accesskey                          "B">
-<!ENTITY search.collection.label                   "Tenê Koleksiyonên Niha">
-<!ENTITY search.collection.accesskey               "T">
-<!ENTITY search.allBookmarks.label                 "Hemû Bijare">
-<!ENTITY search.allBookmarks.accesskey             "a">
 <!ENTITY search.scopeFolder.label                  "Peldanka Hilbijartî">
 <!ENTITY search.scopeFolder.accesskey              "P">
-<!ENTITY search.scopeAll.label                     "Hemû Bijare">
-<!ENTITY search.scopeAll.accesskey                 "a">
-<!ENTITY search.scopeMenu.label                    "Pêşeka Bijareyan">
-<!ENTITY search.scopeMenu.accesskey                "P">
-<!ENTITY search.scopeToolbar.label                 "Darikê Amûran ê Bijareyan">
-<!ENTITY search.scopeToolbar.accesskey             "D">
+<!ENTITY search.scopeBookmarks.label               "Bijare">
+<!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY search.scopeDownloads.label               "Daxistin">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Dîrok">
@@ -166,29 +158,29 @@
 <!ENTITY advancedSearch.subj_visited.label         "Vebûyî">
 <!ENTITY advancedSearch.subj_location.label        "Cî">
 <!ENTITY advancedSearch.location_startswith.label  "dest pê dike digel">
-<!ENTITY advancedSearch.location_is.label          "is">
+<!ENTITY advancedSearch.location_is.label          "dibe">
 <!ENTITY advancedSearch.location_onsite.label      "li ser malperê">
 <!ENTITY advancedSearch.time_is.label              "li ser">
 <!ENTITY advancedSearch.time_before.label          "berê">
 <!ENTITY advancedSearch.time_after.label           "dû re">
 <!ENTITY advancedSearch.time_inlast.label          "di dawiyê de">
-<!ENTITY advancedSearch.last_days.label            "days">
-<!ENTITY advancedSearch.last_weeks.label           "weeks">
-<!ENTITY advancedSearch.last_months.label          "months">
+<!ENTITY advancedSearch.last_days.label            "roj">
+<!ENTITY advancedSearch.last_weeks.label           "hefte">
+<!ENTITY advancedSearch.last_months.label          "meh">
 <!ENTITY advancedSearch.plus.label                 "+">
 <!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Group by: ">
-<!ENTITY advancedSearch.groupby_host.label         "host">
-<!ENTITY advancedSearch.groupby_domain.label       "domain">
-<!ENTITY advancedSearch.groupby_folder.label       "folder">
-<!ENTITY advancedSearch.sortby.label               "Sort by: ">
-<!ENTITY advancedSearch.sortby_title.label         "title">
-<!ENTITY advancedSearch.sortby_date.label          "date">
-<!ENTITY advancedSearch.sortby_visit.label         "visit count">
+<!ENTITY advancedSearch.groupby.label              "Kom li gorî: ">
+<!ENTITY advancedSearch.groupby_host.label         "mêvandar">
+<!ENTITY advancedSearch.groupby_domain.label       "domaîn">
+<!ENTITY advancedSearch.groupby_folder.label       "peldank">
+<!ENTITY advancedSearch.sortby.label               "Rêz bike li gorî: ">
+<!ENTITY advancedSearch.sortby_title.label         "sernav">
+<!ENTITY advancedSearch.sortby_date.label          "dîrok">
+<!ENTITY advancedSearch.sortby_visit.label         "hejmarketa serdanan">
 <!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "ascending">
-<!ENTITY advancedSearch.sortby_desc.label          "descending">
-<!ENTITY advancedSearch.max.label                  "Maximum results: ">
+<!ENTITY advancedSearch.sortby_asc.label           "zêde dibe">
+<!ENTITY advancedSearch.sortby_desc.label          "kêm dibe">
+<!ENTITY advancedSearch.max.label                  "Encamên herî zêde: ">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -196,13 +188,13 @@
 <!ENTITY feed.subscribe.tooltip  "Abonetî">
 
 <!ENTITY view.detailsMacOSX.label  "Liste">
-<!ENTITY view.details.label        "Kîtekît">
+<!ENTITY view.details.label        "Kitekit">
 <!ENTITY view.details.accesskey    "K">
 
-<!ENTITY view.addons.label   "Get View Add-ons">
+<!ENTITY view.addons.label   "Pêvekan Bibîne">
 
-<!ENTITY maintenance.label      "Import and Backup">
-<!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.label      "Bîne û Hilîne">
+<!ENTITY maintenance.accesskey  "i">
 
 <!ENTITY backCmd.label       "Paş">
 <!ENTITY backCmd.accesskey   "P">

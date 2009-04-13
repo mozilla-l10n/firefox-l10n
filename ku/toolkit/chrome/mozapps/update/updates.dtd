@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Rojanekirina Nivîsbariyê">
 
 <!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
+<!ENTITY  window.macWidth                 "43em">
 
 <!ENTITY  checking.title                  "Li Rojanekirinan Digere">
 <!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
@@ -55,7 +55,7 @@
 <!ENTITY  errorpatching.title             "Rojanekirin Bi ser Neket">
 <!ENTITY  errorpatching.intro             "Rojanekirina bi parçe nehat sepandin. &brandShortName; dê daxistina bi temamî biceribîne.">
 
-<!ENTITY  finishedPage.title              "Update Ready to Install">
+<!ENTITY  finishedPage.title              "Rojanekirin ji bo Sazbûnê Amade ye">
 <!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
                                            can restart &brandShortName; now, or continue working and restart later.">
 

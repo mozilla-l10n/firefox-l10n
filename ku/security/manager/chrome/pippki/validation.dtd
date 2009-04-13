@@ -35,33 +35,33 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  validation.crlmanager.label             "Manage CRLs">
-<!ENTITY  validation.crlmanager.description       "These Certificate Revocation Lists (CRL) are stored in your certificate database:">
-<!ENTITY  validation.crlname.label                "Name">
-<!ENTITY  validation.crllastupdate.label          "Last Update">
-<!ENTITY  validation.crlnextupdate.label          "Next Update">
-<!ENTITY  validation.crlautoupdateenabled.label   "Auto Update">
-<!ENTITY  validation.crlautoupdatestatus.label    "Auto Update Status">
-<!ENTITY  validation.deletecrl.label              "Delete">
-<!ENTITY  validation.deletecrl.accesskey          "D">
-<!ENTITY  validation.updatecrl.label              "Update">
-<!ENTITY  validation.updatecrl.accesskey          "U">
-<!ENTITY  validation.advanced.label               "Settings">
-<!ENTITY  validation.advanced.accesskey           "S">
+<!ENTITY  validation.crlmanager.label             "CRL'an bi rê ve bibe...">
+<!ENTITY  validation.crlmanager.description       "Ev Lîsteya Betalkirina Sertîfîkayê (CRL)di danegeha te ya sertîfîkayan de tomarbûyî ye:">
+<!ENTITY  validation.crlname.label                "Nav">
+<!ENTITY  validation.crllastupdate.label          "Rojanekirina Dawî">
+<!ENTITY  validation.crlnextupdate.label          "Rojanekirina Bê">
+<!ENTITY  validation.crlautoupdateenabled.label   "Rojanekirina Xweber">
+<!ENTITY  validation.crlautoupdatestatus.label    "Rewşa Rojanekirina Xweber">
+<!ENTITY  validation.deletecrl.label              "Jêbirin">
+<!ENTITY  validation.deletecrl.accesskey          "J">
+<!ENTITY  validation.updatecrl.label              "Rojanekirin">
+<!ENTITY  validation.updatecrl.accesskey          "R">
+<!ENTITY  validation.advanced.label               "Mîheng">
+<!ENTITY  validation.advanced.accesskey           "M">
 
-<!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
-<!ENTITY  validation.crl.autoupdate.enable.label  "Enable Automatic Update for this CRL">
-<!ENTITY  validation.crl.autoupdate.time.label1   "Update">
-<!ENTITY  validation.crl.autoupdate.time.label2   "Day(s) before Next Update date">
-<!ENTITY  validation.crl.autoupdate.freq.label1   "Update every">
-<!ENTITY  validation.crl.autoupdate.freq.label2   "Day(s)">
-<!ENTITY  validation.crl.autoupdate.url.label     "CRL would be imported From:">
-<!ENTITY  crl.import.status.title                 "CRL Import Status">
-<!ENTITY  crl.import.success.message              "The Certificate Revocation List (CRL) was successfully imported.">
-<!ENTITY  crl.issuer.label                        "CRL Issued By:">
-<!ENTITY  crl.issuer.org.label                    "Organization: ">
-<!ENTITY  crl.issuer.orgunit.label                "Unit: ">
-<!ENTITY  crl.import.nextupdate.label             "Next Update On: ">
-<!ENTITY  crl.autoupdate.fail.cnt.label           "Previous Consecutive Update Failures: ">
-<!ENTITY  crl.autoupdate.fail.reason.label        "Details of Last Update Failure: ">
-<!ENTITY  edit.button                             "Settings">
+<!ENTITY  validation.crl.autoupdate.title         "Mîhengên rojanekirina CRL ya xweber">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Ji bo vê CRL ê rojanekirina xweber çalak bike">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Rojanekirin">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Roja(ên) beriya dema Rojanekirina Pêş">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "Rojane bike her">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "Roj">
+<!ENTITY  validation.crl.autoupdate.url.label     "CRL Dixwaze Ji Virê Bê Veguhestin:">
+<!ENTITY  crl.import.status.title                 "Rewşa Veguhestina CRL’ê">
+<!ENTITY  crl.import.success.message              "Lîsteya Betalkilina Sertîfîkayan (CRL) serkeftî hate veguhestin.">
+<!ENTITY  crl.issuer.label                        "Weşangerê CRL'ê:">
+<!ENTITY  crl.issuer.org.label                    "Sazûmankar: ">
+<!ENTITY  crl.issuer.orgunit.label                "Yekîne: ">
+<!ENTITY  crl.import.nextupdate.label             "Dema Rojanekirina Pêş: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Çewtiyên Rojanekirina Li Dû hev yên Berê: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Kîtekîtên Çewtiyên Rojanekirina Dawî: ">
+<!ENTITY  edit.button                             "Mîheng">

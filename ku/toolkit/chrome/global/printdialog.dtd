@@ -13,7 +13,7 @@
 <!ENTITY descText.label "Danasîna Çaperê:">
 <!ENTITY printer.label "Çaper">
 <!ENTITY printerInput.label "Çaper:">
-<!ENTITY printerInput.accesskey "Ç">
+<!ENTITY printerInput.accesskey "a">
 
 <!ENTITY printrangeGroup.label "Keviyan çap bike">
 <!ENTITY allpagesRadio.label "Hemû rûpel">
@@ -35,6 +35,6 @@
 <!ENTITY aslaidoutRadio.label "Wekî ku di pacê de xuya dibe">
 <!ENTITY aslaidoutRadio.accesskey "u">
 <!ENTITY selectedframeRadio.label  "Çarçoweya hatiye hilbijartin">
-<!ENTITY selectedframeRadio.accesskey  "Ç">
+<!ENTITY selectedframeRadio.accesskey  "a">
 <!ENTITY eachframesepRadio.label  "Her çarçoweyekê cuda">
 <!ENTITY eachframesepRadio.accesskey  "H">

@@ -4,7 +4,7 @@
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Pêşkêşkarên Cîgir Sererast Bike">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.label        "Bê Proksy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Mîhengên proksiya pergalê bi kar bîne">
 <!ENTITY  systemTypeRadio.accesskey     "y">

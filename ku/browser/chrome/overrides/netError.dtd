@@ -17,7 +17,7 @@
  <ul>
   <li>Dibe ku navnîşan çewt hatibe nivîsandin.</li>
    <li>Heke nikaribî tu malperekê vekî, girêdanên torê kontrol bike û hîn bibe ka girêdana te ya înternetê heye an na.</li>
- <li>Heke navnîşaneke wisa hebe an jî ev pirsgirêk ji bo gelek malperan derkeve, dibe ku pirsgirêk ji servîsa te ya proxyê be (heke proxyekê bi kar tînî) an jî servîsa navê pelrêçê çû be.</li>
+ <li>Heke navnîşaneke wisa hebe an jî ev pirsgirêk ji bo gelek malperan derkeve, dibe ku pirsgirêk ji servîsa te ya proksyê be (heke proksyekê bi kar tînî) an jî servîsa navê pelrêçê jê çûbe.</li>
 </ul>
 ">
 
@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Dibe ku di nivîsandina tîpên hûrdek/girdek de çewtî hebe.</li>
-  <li>Dibe ku ciyê pelê an jî navê wê hatibe guhertin an î hatibe jêbirin.</li>
+  <li>Dibe ku ciyê pelê an jî navê wê hatibe guhertin an jî hatibe jêbirin.</li>
 </ul>
 ">
 
@@ -47,26 +47,26 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Çewtî! Negirêdayî">
-<!ENTITY netOffline.longDesc "netOffline long description goes here.">
+<!ENTITY netOffline.longDesc "netOffline tê vê derê.">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>Ji kerema xwe re ji bo çareserkirina vê pirsgirêkê bi xwediyê malperê re bikeve têkiliyê.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Hê nehatiye wergerandinX.">
-<!ENTITY unsafeContentType.longDesc "Hê nehatiye wergerandinX.">
+<!ENTITY unsafeContentType.title "Çewtî: Naveroka Neewle.">
+<!ENTITY unsafeContentType.longDesc "Dibe ku di vê malperê de naveroka ne ewle di virê de heye.">
 
-<!ENTITY netReset.title "Çewtî! Net Reset e">
+<!ENTITY netReset.title "Çewtî! Net Reset">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Çewtî! Demê Têrê Nekir">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "protocolNotFound title">
-<!ENTITY protocolNotFound.longDesc "protocolNotFound long description goes here.">
+<!ENTITY protocolNotFound.title "protocolNotFound sernav">
+<!ENTITY protocolNotFound.longDesc "protocolNotFound tê vê derê.">
 
 <!ENTITY proxyConnectFailure.title "Pêşkêşkara proksiyê girêdanan red dike">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Rastbûna mîhengên proksiyê kontrol bike.</li> <li>Ji bo  ka servîsa proxyê dixebite an na, bi rêvebira xwe ya torê re têkeve têkiliyê.</li> </ul>">
@@ -75,43 +75,43 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Mîhengên proksiyê kontrol bike ka bêpirsgirêkên an na.</li> <li>kontrol bike ka di komputera te de girêdaneke xebatê ya torê heye an na.</li> <li>Heke komputer an jî tora te ji hêla firewall an jî proksiyekê ve tê parastin hîn bibe ka ji bo &brandShortName; têkeve Webê destûr heye an na.</li> </ul>">
 
 <!ENTITY redirectLoop.title "redirectLoop sernav">
-<!ENTITY redirectLoop.longDesc "redirectLoop long description goes here.">
+<!ENTITY redirectLoop.longDesc "redirectLoop tê vê derê.">
 
 <!ENTITY unknownSocketType.title "Çewtî! Soket nayê zanîn">
-<!ENTITY unknownSocketType.longDesc "unknownSocketType long description goes here.">
+<!ENTITY unknownSocketType.longDesc "unknownSocketType tê vê derê.">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "Girêdana Ewle Têk Çû">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+  <li>Ji ber ku agahiyên ji malperên bên şandin nayên şandin ev malper venabe.</li>
+  <li>Ji kerema xwe re ji bo çareserkirina vê pirsgirêkê bi xwediyê malperê re bikeve têkiliyê. An jî fermanên di pêşeka alîşkariyê de hatine diyarkirin ji bo raporkirinê bi kar bîne.</li>
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "Girêdana Ewle Têk Çû">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
-  <li>You can see and change your current list of servers with known security problems
-  in your advanced encryption settings.</li>
+  <li>Dibe ku ev ji ber mîhenhgên pêşkêşkarê be an jî
+hin kes êrîşî pêşkêşkarê dikin.</li>
+  <li>Heke berê tu bi awayekî ewle ketibî vê pêşkêşkarê, dibe ku pirsgirêk
+demdemî be lewre piştre dîsa biceribîne.</li>
+  <li>Dikarî lîsteya pêşkêşkarê bi pirsgirêkên tên zanîn çareser bikî
+  bi alîkariya şîfrekirina ewle.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "<ul> <li>Dibe ku mapler ji bo demekê hatibe rawestandin an jî zêde mijûl be. Di demeke kin de dîsa biceribîne.</li> <li>Heke nikaribî tu malperan vekî, girêdana torê ya komputera xwe kontrol bike.</li> <li>Heke komputer an jî tora te ji hêla Firewall an jî proxyekê ve tê parastin, binêre ka destûra &brandShortName; 'ê ya têketina webê heye an na.</li> </ul>">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.title "Malpera Êrîşkar a Gumanbar!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+<p>Malperên êrîşkar dikin ku li ser komputera te bnernameyan saz bikin û li ser komputera te êrîşî komputerên din bikin.</p>
+<p>Xwediyên malperên ku malperên wan wekî malperên êrîşkar hatine raporkirin dikarin serî li <a href='http://www.stopbadware.org/home/reviewinfo' >bidin</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.title "Malpera Sextekariyê ya Gumanbar!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+<p>Dibe ku agahiyên bikevî vê malperê bibin sedema dizîna agahiyên te yên takekesî.</p>
+<p>Ev cure malperên sextekar xwe wekî ewle nîşan didin lê êrîşên nepen dikin.</p>
 ">
 
 <!ENTITY securityOverride.linkText "An tu dikarî awartebûnekê têxiyê...">

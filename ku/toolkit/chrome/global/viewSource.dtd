@@ -18,7 +18,7 @@
 <!ENTITY printPreviewCmd.label "Pêşdîtina Çaperê">
 <!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printCmd.label "Çap Bike...">
-<!ENTITY printCmd.accesskey "Ç">
+<!ENTITY printCmd.accesskey "a">
 <!ENTITY printCmd.commandkey "Ç">
 <!ENTITY closeCmd.label "Bigire">
 <!ENTITY closeCmd.accesskey "B">
@@ -68,9 +68,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY backCmd.label "Back">
-<!ENTITY backCmd.accesskey "B">
-<!ENTITY forwardCmd.label "Forward">
-<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY backCmd.label "Paşve">
+<!ENTITY backCmd.accesskey "a">
+<!ENTITY forwardCmd.label "Pêşve">
+<!ENTITY forwardCmd.accesskey "P">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

@@ -21,5 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Vê bijareyê di darikê gerokê de nîşan bide">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "V">
 <!ENTITY editBookmarkOverlay.choose.label                    "Hilbijêre…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "New Folder">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Peldanka Nû">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "P">

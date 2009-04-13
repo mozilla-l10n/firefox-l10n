@@ -35,7 +35,7 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title         "Vebijartokên JavaScriptê yên pêşketî">
+<!ENTITY advancedJSDialog.title         "Vebijêrkên JavaScriptê yên pêşketî">
 <!ENTITY window.width                   "42em">
 
 <!ENTITY allowScripts.label             "Destûrê bide skrîptan da ku kiryara li jêr bikin:">
@@ -47,6 +47,6 @@
 <!ENTITY disableContextMenus.label      "Bêbandorkirin an jî lisernivîsandina menuya naverokê">
 <!ENTITY disableContextMenus.accesskey  "e">
 <!ENTITY hideStatusBar.label            "Veşartina darikê rewşê">
-<!ENTITY hideStatusBar.accesskey        "ş">
+<!ENTITY hideStatusBar.accesskey        "V">
 <!ENTITY changeStatusBar.label          "Guherandina deqa darikê rewşê">
 <!ENTITY changeStatusBar.accesskey      "u">

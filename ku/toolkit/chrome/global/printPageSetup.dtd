@@ -7,10 +7,10 @@
 <!ENTITY formatGroup.label   "Şêwe">
 
 <!ENTITY orientation.label   "Cih:">
-<!ENTITY portrait.label      "Portrait">
-<!ENTITY portrait.accesskey  "P">
-<!ENTITY landscape.label     "Landscape">
-<!ENTITY landscape.accesskey "L">
+<!ENTITY portrait.label      "Çik">
+<!ENTITY portrait.accesskey  "k">
+<!ENTITY landscape.label     "Paldayî">
+<!ENTITY landscape.accesskey "l">
 
 <!ENTITY scale.label         "Pîvan:">
 <!ENTITY scale.accesskey     "P">
@@ -34,15 +34,15 @@
 <!ENTITY marginBottom.label  "Bin:">
 <!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Çep:">
-<!ENTITY marginLeft.accesskey "Ç">
-<!ENTITY marginRight.label   "Right:">
+<!ENTITY marginLeft.accesskey "e">
+<!ENTITY marginRight.label   "Rast:">
 <!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Sernav û Têbinî">
 
 <!ENTITY hfLeft.label        "Çep:">
 <!ENTITY hfCenter.label      "Navend:">
-<!ENTITY hfRight.label       "Right:">
+<!ENTITY hfRight.label       "Rast:">
 <!ENTITY headerLeft.tip      "Serê çepê">
 <!ENTITY headerCenter.tip    "Serê navendê">
 <!ENTITY headerRight.tip     "Serê rastê">

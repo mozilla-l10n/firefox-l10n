@@ -40,7 +40,7 @@
 <!ENTITY cmd.continue.tooltip             "Barkirina &brandShortName; 'ê bidomîne">
 
 <!ENTITY cmd.enableAll.label              "Hemû Çalak">
-<!ENTITY cmd.enableAll.accesskey          "Ç">
+<!ENTITY cmd.enableAll.accesskey          "H">
 <!ENTITY cmd.enableAll.tooltip            "Hemû Pêvekên hatine nîşandan çalak bike">
 <!ENTITY cmd.disableAll.label             "Hemû Neçalak">
 <!ENTITY cmd.disableAll.accesskey         "N">
@@ -171,4 +171,4 @@
 <!ENTITY eula.accept                      "Bipejirîne û Saz Bike…">
 
 <!ENTITY blocklist.blocked.label          "Blocked">
-<!ENTITY blocklist.checkbox.label         "Disable">
+<!ENTITY blocklist.checkbox.label         "Bêbandor bike">

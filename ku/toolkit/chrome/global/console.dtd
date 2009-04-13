@@ -44,7 +44,7 @@
 <!ENTITY all.label          "Hemû">
 <!ENTITY all.accesskey      "H">
 <!ENTITY errors.label       "Çewtî">
-<!ENTITY errors.accesskey   "Ç">
+<!ENTITY errors.accesskey   "e">
 <!ENTITY warnings.label     "Hişyarî">
 <!ENTITY warnings.accesskey "H">
 <!ENTITY messages.label     "Peyam">

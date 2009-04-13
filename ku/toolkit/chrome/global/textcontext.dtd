@@ -5,7 +5,7 @@
 <!ENTITY pasteCmd.label "Pêve bike">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY undoCmd.label "Şûnde bîne">
-<!ENTITY undoCmd.accesskey "Ş">
+<!ENTITY undoCmd.accesskey "n">
 <!ENTITY selectAllCmd.label "Hemûyan hilbijêre">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Jê bibe">

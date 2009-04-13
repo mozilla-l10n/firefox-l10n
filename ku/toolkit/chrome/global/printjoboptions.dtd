@@ -36,6 +36,6 @@
 <!ENTITY bottomInput.label "Bin:">
 <!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Çep:">
-<!ENTITY leftInput.accesskey "Ç">
+<!ENTITY leftInput.accesskey "e">
 <!ENTITY rightInput.label "Rast:">
 <!ENTITY rightInput.accesskey "R">

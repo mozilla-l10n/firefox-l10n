@@ -1,13 +1,13 @@
-<!ENTITY aboutDialog.title          "Derbarê  &brandFullName; 'ê de">
+<!ENTITY aboutDialog.title          "Derbarê  &brandFullName;'ê de">
 <!ENTITY copyright                  "Yên piştgiriyê didin">
 <!ENTITY copyright.accesskey        "Y">
 <!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY aboutLink                  "&lt; Derbarê &brandFullName; 'ê de">
+<!ENTITY aboutLink                  "&lt; Derbarê &brandFullName;'ê de">
 <!ENTITY aboutLink.accesskey        "a">
 <!ENTITY aboutVersion               "guherto">
-<!ENTITY closeCmdGNOME.label        "Close">  
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Contributors. All rights reserved. (">
+<!ENTITY closeCmdGNOME.label        "Girtin">  
+<!ENTITY closeCmdGNOME.accesskey    "G">
+<!ENTITY copyrightInfo1             "1998-2009 Contributors. All rights reserved. (">
 <!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Licensing information">
+<!ENTITY licenseLinkText            "Agahiyên Lîsansê">
 <!ENTITY copyrightInfo2             ").">

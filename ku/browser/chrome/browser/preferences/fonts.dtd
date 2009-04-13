@@ -13,10 +13,10 @@
 <!ENTITY  proportional.label                      "Birêje:">
 <!ENTITY  proportional.accesskey                  "r">
 
-<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.label                             "Serîf:">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.label                        "Bêserîf:">
+<!ENTITY  sans-serif.accesskey                    "B">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
 
@@ -37,19 +37,19 @@
 <!ENTITY  font.langGroup.hebrew                   "Îbranî">
 <!ENTITY  font.langGroup.arabic                   "Erebî">
 <!ENTITY  font.langGroup.devanagari               "Devanagarî">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.tamil                    "Zimanê Tamil">
 <!ENTITY  font.langGroup.armenian                 "Ermenkî">
 <!ENTITY  font.langGroup.bengali                  "Bengalî">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.canadian                 "Kanadiya yekbûyî">
 <!ENTITY  font.langGroup.ethiopic                 "Etiyopî">
 <!ENTITY  font.langGroup.georgian                 "Gurcî">
 <!ENTITY  font.langGroup.gujarati                 "Gucaratî">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuxî">
 <!ENTITY  font.langGroup.khmer                    "Xmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
-<!ENTITY  font.langGroup.oriya                    "Oriya">
-<!ENTITY  font.langGroup.telugu                   "Telugu">
-<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.malayalam                "Zimanê Malayala">
+<!ENTITY  font.langGroup.oriya                    "Zimanê Oriya">
+<!ENTITY  font.langGroup.telugu                   "Zimanê Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannadî">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Mezinahiya nivîsê ya herî biçûk:">

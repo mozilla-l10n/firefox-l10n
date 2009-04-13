@@ -36,11 +36,11 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY print.label          "Çap bike...">
-<!ENTITY print.accesskey      "Ç">
+<!ENTITY print.accesskey      "a">
 <!ENTITY pageSetup.label      "Rûpelê mîheng bike...">
 <!ENTITY pageSetup.accesskey  "m">
 <!ENTITY page.label           "Rûpel:">
-<!ENTITY page.accesskey       "û">
+<!ENTITY page.accesskey       "R">
 <!ENTITY of.label             "ji">
 <!ENTITY scale.label          "Pîvan:">
 <!ENTITY scale.accesskey      "P">

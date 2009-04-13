@@ -4,8 +4,8 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Bookmarks
-#define bookmarks_heading Bookmarks
+#define bookmarks_title Bijare
+#define bookmarks_heading Bijare
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
@@ -26,7 +26,7 @@
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
-#define firefox_heading Mozilla Firefox
+#define firefox_heading Mozîlla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/

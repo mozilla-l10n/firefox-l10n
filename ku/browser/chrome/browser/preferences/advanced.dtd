@@ -2,7 +2,7 @@
 
 <!ENTITY generalTab.label                "Giştî">
 
-<!ENTITY accessibility.label             "Gihînbarî">
+<!ENTITY accessibility.label             "Gihîştin">
 
 <!ENTITY useCursorNavigation.label       "Ji bo veguhestina bi nava rûpelan ve, her tim peyvên ji rêzê bi kar bîne">
 <!ENTITY useCursorNavigation.accesskey   "J">
@@ -52,7 +52,7 @@
 
 <!ENTITY autoCheck.label                 "Pêvekan bixweber kontrol bike:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAppUpdate.accesskey       "f">
 <!ENTITY enableAddonsUpdate.label        "Pêvekên sazbûyî">
 <!ENTITY enableAddonsUpdate.accesskey    "n">
 <!ENTITY enableSearchUpdate.label        "Motorên lêgerînê">

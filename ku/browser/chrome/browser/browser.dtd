@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gera Nepen)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
@@ -26,7 +26,7 @@
 <!ENTITY printPreviewCmd.label "Pêşdîtina Çaperê">
 <!ENTITY printPreviewCmd.accesskey "d">
 <!ENTITY printCmd.label "Çap Bike">
-<!ENTITY printCmd.accesskey "Ç">
+<!ENTITY printCmd.accesskey "a">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY import.label "Bîne hundir...">
 <!ENTITY import.accesskey "B">
@@ -43,7 +43,7 @@
 <!ENTITY taskbarCmd.accesskey "r">
 
 <!ENTITY pageSourceCmd.label "Çavkaniya Rûpelê">
-<!ENTITY pageSourceCmd.accesskey "Ç">
+<!ENTITY pageSourceCmd.accesskey "a">
 <!ENTITY pageSourceCmd.commandkey "U">
 <!ENTITY pageInfoCmd.label "Agahiyên Rûpelê">
 <!ENTITY pageInfoCmd.accesskey "A">
@@ -71,13 +71,13 @@
 <!ENTITY addCurPagesCmd.label "Hilpekînan Têxe Nava Bijareyan">
 <!ENTITY organizeBookmarks.label "Rêveberiya Bijareyan">
 <!ENTITY bookmarkAllCmd.label "Hilpekînan Têxe Nava Bijareyan">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY bookmarksToolbarChevron.tooltip "Zêdetir bijare nîşan bide">
 
 <!ENTITY backCmd.label                "Paşve">
 <!ENTITY backCmd.accesskey            "P">
 <!ENTITY backButton.tooltip           "Rûpelek paşve">
 <!ENTITY forwardCmd.label             "Pêşve">
-<!ENTITY forwardCmd.accesskey         "ê">
+<!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Rûpelek pêşve">
 <!ENTITY backForwardMenu.tooltip      "Rûpelên Dawî">
 <!ENTITY reloadCmd.label              "Nû bike">
@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "Bijareyên xwe bibîne">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "B">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Dîrok">
@@ -140,7 +144,7 @@
 <!ENTITY editMenu.accesskey       "g"> 
 <!ENTITY undoCmd.label            "Şûnde bîne">  
 <!ENTITY undoCmd.key            "z">  
-<!ENTITY undoCmd.accesskey          "Ş"> 
+<!ENTITY undoCmd.accesskey          "n"> 
 <!ENTITY redoCmd.label            "Dubare bike">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "D"> 
@@ -164,14 +168,14 @@
 <!ENTITY preferencesCmdUnix.label       "Vebijêrk">
 <!ENTITY preferencesCmdUnix.accesskey     "j"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Clear Recent History">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+<!ENTITY clearRecentHistoryCmd.label            "Mêjûya Nêz Paqij Bike">
+<!ENTITY clearRecentHistoryCmd.accesskey        "M">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Start Private Browsing">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
-<!ENTITY privateBrowsingCmd.stop.label          "Stop Private Browsing">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.start.label         "Dest bi Gera Ewle Bike">
+<!ENTITY privateBrowsingCmd.start.accesskey     "D">
+<!ENTITY privateBrowsingCmd.stop.label          "Gera Ewle Bi Dawî Bike">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "G">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Bibîne"> 
@@ -186,13 +190,19 @@
 <!ENTITY historyMenu.label "Dîrok">
 <!ENTITY historyMenu.accesskey "D">
 <!ENTITY historyUndoMenu.label "Hilpekînên Di Dîroka Dawî De Hatine Girtin">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Paceyên Di Nêz De hatine Girtin">
 
 <!ENTITY historyHomeCmd.label "Destpêk">
-<!ENTITY showAllHistoryCmd2.label "Dîrokên Nîşan Bide">
+<!ENTITY showAllHistoryCmd2.label "Hemû Dîrokê Nîşan Bide">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "L">
 <!ENTITY urlbar.emptyText             "Di Bijare û Mêjûyê de Bigere">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Di Bijare û Mêjûyê de Bigere">
+<!ENTITY urlbar.bookmark.emptyText    "Di Bijareyan de Bigere">
+<!ENTITY urlbar.history.emptyText     "Di Mêjûyê de Bigere">
+<!ENTITY urlbar.none.emptyText        "Navnîşaneke Webê têkevê">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -232,7 +242,7 @@
 <!ENTITY showOnlyThisFrameCmd.accesskey "V">
 <!ENTITY reloadCmd.commandkey         "R">
 <!ENTITY reloadFrameCmd.label         "Çarçoveyê Nû Nîşan Bide">
-<!ENTITY reloadFrameCmd.accesskey     "Ç">
+<!ENTITY reloadFrameCmd.accesskey     "a">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Çavkaniya Hilbijartinê Nîşan Bide">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Çavkaniya MathMLê Nîşan Bide">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
@@ -246,12 +256,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "A">
 <!ENTITY viewFrameInfoCmd.label       "Agahiyên Çarçoveyê Nîşan Bide">
 <!ENTITY viewFrameInfoCmd.accesskey   "A">
-<!ENTITY reloadImageCmd.label         "Reload Image">
-<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY reloadImageCmd.label         "Wêneyê Dîsa Bar Bike">
+<!ENTITY reloadImageCmd.accesskey     "r">
 <!ENTITY viewImageCmd.label           "Wêneyê Nîşan Bide">
 <!ENTITY viewImageCmd.accesskey       "W">
-<!ENTITY viewVideoCmd.label           "View Video">
-<!ENTITY viewVideoCmd.accesskey       "V">
+<!ENTITY viewVideoCmd.label           "Vîdeoyê Nîşan Bide">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Wêneyê Rûerdê Nîşan Bide">
 <!ENTITY viewBGImageCmd.accesskey     "W">
 <!ENTITY setDesktopBackgroundCmd.label      "Wekî Rûerda Sermaseyê Mîheng Bike...">
@@ -271,7 +281,7 @@
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Çarçoveyê Cuda Tomar Bike...">
 <!ENTITY saveFrameCmd.accesskey       "T">
-<!ENTITY printFrameCmd.label          "Çarçpveyê Çap Bike...">
+<!ENTITY printFrameCmd.label          "Çarçoveyê Çap Bike...">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Cuda Tomar Bike...">
 <!ENTITY saveLinkCmd.accesskey        "C">
@@ -279,15 +289,15 @@
 <!ENTITY sendLinkCmd.accesskey        "G">
 <!ENTITY saveImageCmd.label           "Wêneyê Cuda Tomar Bike...">
 <!ENTITY saveImageCmd.accesskey       "W">
-<!ENTITY saveVideoCmd.label           "Save Video As…">
-<!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Save Audio As…">
-<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "Vîdeoyê Cuda Tomar Bike…">
+<!ENTITY saveVideoCmd.accesskey       "V">
+<!ENTITY saveAudioCmd.label           "Audîoyê Cuda Tomar Bike…">
+<!ENTITY saveAudioCmd.accesskey       "A">
 <!ENTITY sendImageCmd.label           "Wêneyê Bişeyîne">
 <!ENTITY sendImageCmd.accesskey       "W">
-<!ENTITY sendVideoCmd.label           "Send Video…">
+<!ENTITY sendVideoCmd.label           "Vîdeoyê Bişîne…">
 <!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Send Audio…">
+<!ENTITY sendAudioCmd.label           "Audîoyê Bişîne…">
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Ciyê Girêdanê Ji Ber Bigire">
 <!ENTITY copyLinkCmd.accesskey        "B">
@@ -297,9 +307,9 @@
 <!ENTITY copyImageCmd.accesskey       "C">
 <!ENTITY copyImageContentsCmd.label   "Wêneyê Ji Ber Bigire">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "Copy Video Location">
+<!ENTITY copyVideoURLCmd.label        "Navnîşana Vîdeoyê Ji Ber Bigire">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.label        "Navnîşana Audîoyê Ji Ber Bigire">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "g">
 <!ENTITY metadataCmd.label            "Taybetmendî">
@@ -310,18 +320,18 @@
 <!ENTITY thisFrameMenu.accesskey          "D">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "Play">
+<!ENTITY mediaPlay.label             "Dest Pê Bike">
 <!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "Pause">
-<!ENTITY mediaPause.accesskey        "P">
-<!ENTITY mediaMute.label             "Mute">
-<!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "Unmute">
-<!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaShowControls.label     "Show Controls">
-<!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Hide Controls">
-<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaPause.label            "Raweste">
+<!ENTITY mediaPause.accesskey        "R">
+<!ENTITY mediaMute.label             "Bêdeng">
+<!ENTITY mediaMute.accesskey         "B">
+<!ENTITY mediaUnmute.label           "Bideng">
+<!ENTITY mediaUnmute.accesskey       "B">
+<!ENTITY mediaShowControls.label     "Kontrolan Nîşan Bide">
+<!ENTITY mediaShowControls.accesskey "K">
+<!ENTITY mediaHideControls.label     "Kontrolan Veşêre">
+<!ENTITY mediaHideControls.accesskey "K">
 
 
 <!-- LOCALIZATION NOTE :
@@ -341,7 +351,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Reset">
+<!ENTITY fullZoomResetCmd.label         "Reset Bike">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
@@ -351,6 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Nêzîk Bike">
 <!ENTITY fullZoom.accesskey             "z">
 
+<!ENTITY newTabButton.tooltip           "Hilpekîneke Nû Veke">
 <!ENTITY newWindowButton.tooltip        "Paceyeke Nû Veke">
 <!ENTITY sidebarCloseButton.tooltip     "Darikê quncikê bigire">
 
@@ -433,4 +444,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Ji bo vekirina paceya daxistinan bitikîne">
 
-<!ENTITY ctrlTab.search.emptyText "Search Tabs">
+<!ENTITY ctrlTab.search.emptyText "Li Hilpekînan Bigere">

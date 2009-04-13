@@ -8,33 +8,33 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  blockAttackSites.label     "Block reported attack sites">
+<!ENTITY  blockAttackSites.label     "malperên êrîşkar ên raporbûyî asteng bike">
 <!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY  blockWebForgeries.label     "Block reported web forgeries">
-<!ENTITY  blockWebForgeries.accesskey "B">
+<!ENTITY  blockWebForgeries.label     "Sextekariyên webê yên raporbûyî asteng bike">
+<!ENTITY  blockWebForgeries.accesskey "b">
 
 <!ENTITY  addonExceptions.label         "Rewşên Taybet...">
 <!ENTITY  addonExceptions.accesskey     "e">
 
 
-<!ENTITY  passwords.label               "Nasnav">
+<!ENTITY  passwords.label               "Şîfre">
 
-<!ENTITY  rememberPasswords.label       "Nasnavan ji bo malperan bi bîr bîne">
+<!ENTITY  rememberPasswords.label       "Şîfreyan ji bo malperan bi bîr bîne">
 <!ENTITY  rememberPasswords.accesskey   "r">
 <!ENTITY  passwordExceptions.label      "Rewşên Taybet...">
 <!ENTITY  passwordExceptions.accesskey  "R">
 
-<!ENTITY  useMasterPassword.label        "Nasnavekî mafbilind bi kar bîne">
-<!ENTITY  useMasterPassword.accesskey    "N">
-<!ENTITY  changeMasterPassword.label     "Nasnavê Mafbilind Biguherîne...">
+<!ENTITY  useMasterPassword.label        "Şîfreyeke mafbilind bi kar bîne">
+<!ENTITY  useMasterPassword.accesskey    "n">
+<!ENTITY  changeMasterPassword.label     "Şîfreyeke Mafbilind Biguherîne...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "Nasnavên Tomarbûyî…">
-<!ENTITY  savedPasswords.accesskey        "N">
+<!ENTITY  savedPasswords.label            "Şîfreyên Tomarbûyî…">
+<!ENTITY  savedPasswords.accesskey        "n">
 
 
-<!ENTITY  warnings.label                "Nasnavan Nîşan Bide">
+<!ENTITY  warnings.label                "Şîfreyan Nîşan Bide">
 
 <!ENTITY  chooseWarnings.label          "Peyama hişyarkirinê a di bikaranîna gerokê de hilbijêre">
 

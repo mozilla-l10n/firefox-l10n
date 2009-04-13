@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Binasnav:">
 <!ENTITY  generalMetaName       "Nav">
 <!ENTITY  generalMetaContent    "Naverok">
-<!ENTITY  generalSecurityDetails   "Details">
-<!ENTITY  generalSecurityDetails.accesskey "D">
+<!ENTITY  generalSecurityDetails   "Kitekit">
+<!ENTITY  generalSecurityDetails.accesskey "K">
 
 <!ENTITY  mediaTab              "Medya">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -82,7 +82,7 @@
 
 <!ENTITY  feedTab               "Xwedîkirin">
 <!ENTITY  feedTab.accesskey     "X">
-<!ENTITY  feedSubscribe         "Abonebûn">
+<!ENTITY  feedSubscribe         "Abonetî">
 <!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Destûr">
@@ -94,7 +94,7 @@
 <!ENTITY  permissionsFor        "Destûrê ji bo:">
 <!ENTITY  permImage             "Wêneyê Bar Bike">
 <!ENTITY  permPopup             "Paceya Hilpekîn Veke">
-<!ENTITY  permCookie            "Çerezan Serrast Bike">
+<!ENTITY  permCookie            "Çerezan Serast Bike">
 <!ENTITY  permInstall           "Pêvek an jî Dirban Saz Bike">
 
 <!ENTITY  securityTab           "Ewlekarî">
