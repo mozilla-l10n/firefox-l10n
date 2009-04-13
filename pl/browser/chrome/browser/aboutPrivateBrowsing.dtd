@@ -1,5 +1,5 @@
 <!ENTITY privatebrowsingpage.title                 "Tryb prywatny">
-<!ENTITY privatebrowsingpage.title.normal          "Czy chcesz zacząć przeglądanie w trybie prywatnym?">
+<!ENTITY privatebrowsingpage.title.normal          "Czy rozpocząć przeglądanie w trybie prywatnym?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nie zapamięta historii przeglądania dla tej sesji.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; nie pracuje obecnie w trybie prywatnym.">
