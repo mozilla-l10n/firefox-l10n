@@ -153,7 +153,7 @@
 <!ENTITY undoCmd.label "واگرد">
 <!ENTITY undoCmd.accesskey "ب">
 <!ENTITY redoCmd.label "از نو">
-<!ENTITY redoCmd.accesskey "د">
+<!ENTITY redoCmd.accesskey "ز">
 <!ENTITY cutCmd.label "بریدن">
 <!ENTITY cutCmd.accesskey "ب">
 <!ENTITY copyCmd.label "رونوشت برداشتن">

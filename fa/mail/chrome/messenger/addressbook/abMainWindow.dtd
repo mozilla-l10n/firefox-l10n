@@ -43,7 +43,7 @@
 <!ENTITY undoCmd.accesskey                              "ب">
 <!ENTITY redoCmd.label                                  "از نو">
 <!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "د">
+<!ENTITY redoCmd.accesskey                              "ز">
 <!ENTITY cutCmd.label                                   "بریدن">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "ب">

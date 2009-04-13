@@ -68,7 +68,7 @@
 <!ENTITY cmd.edit_undo.accesskey    "ب">
 <!ENTITY cmd.edit_undo.key          "z">
 <!ENTITY cmd.edit_redo.label        "از نو">
-<!ENTITY cmd.edit_redo.accesskey    "د">
+<!ENTITY cmd.edit_redo.accesskey    "ز">
 <!ENTITY cmd.edit_redo.key          "y">
 
 <!ENTITY cmd.delete.label               "حذف این صفحه">

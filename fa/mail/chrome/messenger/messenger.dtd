@@ -112,7 +112,7 @@
 <!ENTITY undoDefaultCmd.label "واگرد">
 <!ENTITY undoDefaultCmd.accesskey "ب">
 <!ENTITY redoDefaultCmd.label "از نو">
-<!ENTITY redoDefaultCmd.accesskey "د">
+<!ENTITY redoDefaultCmd.accesskey "ز">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Mail Toolbar">
