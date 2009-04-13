@@ -419,4 +419,12 @@
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
-<!ENTITY bookmarksToolbarChevron.tooltip "आणखी ओळखिन्ह दर्शवा">
+<!ENTITY bookmarksToolbarChevron.tooltip "आणखी ओळचिन्ह दर्शवा">
+
+<!ENTITY urlbar.bookmarkhistory.emptyText "ओळखचिन्ह व इतिहास शोधा">
+<!ENTITY urlbar.bookmark.emptyText    "ओळखचिन्ह शोधा">
+<!ENTITY urlbar.history.emptyText     "इतिहास शोधा">
+<!ENTITY urlbar.none.emptyText        "वेब पत्ता टाइप करा">
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY historyUndoWindowMenu.label "अलिकडील बंद खिडकी">
+<!ENTITY newTabButton.tooltip           "नवीन टॅब उघडा">
