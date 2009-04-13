@@ -25,7 +25,7 @@
 <!ENTITY systemDefaults.label  		 "Ustawienia systemowe">
 
 <!ENTITY alwaysCheckDefault.label      	 "Przy uruchamianiu sprawdzaj, czy &brandShortName; jest domyślną przeglądarką">
-<!ENTITY alwaysCheckDefault.accesskey  	 "P">
+<!ENTITY alwaysCheckDefault.accesskey  	 "c">
 
 <!ENTITY checkNow.label             	 "Sprawdź teraz">
 <!ENTITY checkNow.accesskey           	 "S">
@@ -58,13 +58,13 @@
 <!ENTITY enableAppUpdate.label           "programu &brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate.label        "zainstalowanych dodatków">
-<!ENTITY enableAddonsUpdate.accesskey    "z">
+<!ENTITY enableAddonsUpdate.accesskey    "s">
 <!ENTITY enableSearchUpdate.label        "wyszukiwarek">
 <!ENTITY enableSearchUpdate.accesskey    "w">
 
 <!ENTITY whenUpdatesFound.label          "Kiedy odnalezione zostaną aktualizacje dla programu &brandShortName;:">
 <!ENTITY askMe.label                     "zapytaj, co robić">
-<!ENTITY askMe.accesskey                 "p">
+<!ENTITY askMe.accesskey                 "z">
 <!ENTITY modeAutomatic.label             "automatycznie pobierz i zainstaluj aktualizacje">
 <!ENTITY modeAutomatic.accesskey         "a">
 <!ENTITY modeAutoAddonWarn.label         "ostrzeż, jeśli aktualizacja spowoduje wyłączenie dodatków">
@@ -74,7 +74,7 @@
 
 <!-- FIXME (offlineNotify.label) skrócić -->
 <!ENTITY offlineNotify.label             "Powiadom, kiedy witryna poprosi o możliwość przechowywania danych dla trybu offline">
-<!ENTITY offlineNotify.accesskey         "P">
+<!ENTITY offlineNotify.accesskey         "o">
 <!ENTITY offlineNotifyExceptions.label   "Wyjątki…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">
 

@@ -23,7 +23,7 @@
 <!ENTITY closeWhenDone.label 		"Zamknij po pobraniu wszystkich plików">
 <!ENTITY closeWhenDone.accesskey 	"k">
 <!ENTITY saveTo.label 			"Pobierane pliki zapisuj do:">
-<!ENTITY saveTo.accesskey 		"P">
+<!ENTITY saveTo.accesskey 		"o">
 <!ENTITY chooseFolderWin.label        	"Przeglądaj…">
 <!ENTITY chooseFolderWin.accesskey    	"g">
 <!ENTITY chooseFolderMac.label        	"Wybierz…">

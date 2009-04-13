@@ -20,7 +20,7 @@
 <!ENTITY  passwords.label               "Hasła">
 
 <!ENTITY  rememberPasswords.label       "Pamiętaj hasła do witryn">
-<!ENTITY  rememberPasswords.accesskey   "P">
+<!ENTITY  rememberPasswords.accesskey   "m">
 
 <!ENTITY  passwordExceptions.label      "Wyjątki…">
 <!ENTITY  passwordExceptions.accesskey  "y">

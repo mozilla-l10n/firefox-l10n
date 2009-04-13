@@ -11,4 +11,4 @@
 <!ENTITY showTabBar.accesskey         "w">
 
 <!ENTITY switchToNewTabs.label        "Po otwarciu odnośnika w nowej karcie przechodź do niej automatycznie">
-<!ENTITY switchToNewTabs.accesskey    "P">
+<!ENTITY switchToNewTabs.accesskey    "c">

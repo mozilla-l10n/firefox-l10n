@@ -25,7 +25,7 @@
 <!ENTITY  rememberForms.accesskey       "f">
 
 <!ENTITY  rememberDownloads.label       "Pamiętaj pobrane pliki">
-<!ENTITY  rememberDownloads.accesskey   "P">
+<!ENTITY  rememberDownloads.accesskey   "m">
 
 
 <!ENTITY  cookies.label                 "Ciasteczka">
