@@ -127,8 +127,8 @@
 <!ENTITY col.name.label   "Nazwa">
 <!ENTITY col.tags.label   "Etykiety">
 <!ENTITY col.url.label   "Adres">
-<!ENTITY col.lastvisit.label   "Data wizyty">
-<!ENTITY col.visitcount.label   "Liczba wizyt">
+<!ENTITY col.lastvisit.label   "Data odwiedzin">
+<!ENTITY col.visitcount.label   "Liczba odwiedzin">
 <!ENTITY col.keyword.label   "Słowo kluczowe">
 <!ENTITY col.description.label   "Opis">
 <!ENTITY col.dateadded.label   "Dodano">
@@ -177,7 +177,7 @@
 <!ENTITY advancedSearch.sortby.label   "Sortuj wg: ">
 <!ENTITY advancedSearch.sortby_title.label   "tytułu">
 <!ENTITY advancedSearch.sortby_date.label   "daty">
-<!ENTITY advancedSearch.sortby_visit.label   "liczby wizyt">
+<!ENTITY advancedSearch.sortby_visit.label   "liczby odwiedzin">
 <!ENTITY advancedSearch.sortby_url.label   "adresu URL">
 <!ENTITY advancedSearch.sortby_asc.label   "rosnąco">
 <!ENTITY advancedSearch.sortby_desc.label   "malejąco">
