@@ -1,10 +1,10 @@
 <!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
-<!ENTITY pref.applications.title "äÏ×¦ÄÎÉË ÐÒÏÇÒÁÍ">
+<!ENTITY pref.applications.title "Ð”Ð¾Ð²Ñ–Ð´Ð½Ð¸Ðº Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼">
 
-<!ENTITY typeColumn.label        "÷Í¦ÓÔ ÔÉÐÕ">
+<!ENTITY typeColumn.label        "Ð’Ð¼Ñ–ÑÑ‚ Ñ‚Ð¸Ð¿Ñƒ">
 <!ENTITY typeColumn.accesskey    "T">
 
-<!ENTITY actionColumn2.label     "ä¦Ñ">
-<!ENTITY actionColumn2.accesskey "ä">
+<!ENTITY actionColumn2.label     "Ð”Ñ–Ñ">
+<!ENTITY actionColumn2.accesskey "Ð”">
 
-<!ENTITY search.emptytext        "ðÏÛÕË ÔÉÐ¦× ¦ Ä¦Ê">
+<!ENTITY search.emptytext        "ÐŸÐ¾ÑˆÑƒÐº Ñ‚Ð¸Ð¿Ñ–Ð² Ñ– Ð´Ñ–Ð¹">

@@ -1,44 +1,44 @@
-<!ENTITY     tab.cookiesonsystem.label      "úÂÅÒÅÖÅÎ¦ ËÕËÉ">
-<!ENTITY     tab.bannedservers.label        "óÁÊÔÉ Ú ËÕËÁÍÉ">
-<!ENTITY     div.bannedservers.label        "÷ÐÏÒÑÄËÕ×ÁÔÉ ÓÁÊÔÉ, ËÏÔÒ¦ ÍÏÖÕÔØ ÁÂÏ ÎÅ ÍÏÖÕÔØ ÚÂÅÒ¦ÇÁÔÉ ËÕËÉ ÎÁ ×ÁÛÏÍÕ ËÏÍÐ'ÀÔÅÒ¦.">
-<!ENTITY     div.cookiesonsystem.label      "ðÅÒÅÇÌÑÎÕÔÉ ÔÁ ×ÉÌÕÞÉÔÉ ËÕËÉ, ËÏÔÒ¦ ÚÂÅÒÅÖÅÎ¦ ÎÁ ×ÁÛÏÍÕ ËÏÍÐ'ÀÔÅÒ¦.">
-<!ENTITY     treehead.cookiename.label      "îÁÚ×Á ËÕËÉ">
-<!ENTITY     treehead.cookiedomain.label    "óÁÊÔ"> 
-<!ENTITY     treehead.cookieexpires.label   "úÁÓÔÁÒ¦Ì¦"> 
-<!ENTITY     treehead.infoselected.label    "¶ÎÆÏÒÍÁÃ¦Ñ ÐÒÏ ×ÉÂÒÁÎÕ ËÕËÕ">
-<!ENTITY     button.removecookie.label      "÷ÉÌÕÞÉÔÉ ËÕËÕ">
-<!ENTITY     button.removecookie.accesskey  "÷">
-<!ENTITY     button.removeallcookies.label  "÷ÉÌÕÞÉÔÉ ×Ó¦ ËÕËÉ">
-<!ENTITY     button.removeallcookies.accesskey "÷">
+<!ENTITY     tab.cookiesonsystem.label      "Ð—Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ñ– ÐºÑƒÐºÐ¸">
+<!ENTITY     tab.bannedservers.label        "Ð¡Ð°Ð¹Ñ‚Ð¸ Ð· ÐºÑƒÐºÐ°Ð¼Ð¸">
+<!ENTITY     div.bannedservers.label        "Ð’Ð¿Ð¾Ñ€ÑÐ´ÐºÑƒÐ²Ð°Ñ‚Ð¸ ÑÐ°Ð¹Ñ‚Ð¸, ÐºÐ¾Ñ‚Ñ€Ñ– Ð¼Ð¾Ð¶ÑƒÑ‚ÑŒ Ð°Ð±Ð¾ Ð½Ðµ Ð¼Ð¾Ð¶ÑƒÑ‚ÑŒ Ð·Ð±ÐµÑ€Ñ–Ð³Ð°Ñ‚Ð¸ ÐºÑƒÐºÐ¸ Ð½Ð° Ð²Ð°ÑˆÐ¾Ð¼Ñƒ ÐºÐ¾Ð¼Ð¿'ÑŽÑ‚ÐµÑ€Ñ–.">
+<!ENTITY     div.cookiesonsystem.label      "ÐŸÐµÑ€ÐµÐ³Ð»ÑÐ½ÑƒÑ‚Ð¸ Ñ‚Ð° Ð²Ð¸Ð»ÑƒÑ‡Ð¸Ñ‚Ð¸ ÐºÑƒÐºÐ¸, ÐºÐ¾Ñ‚Ñ€Ñ– Ð·Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ñ– Ð½Ð° Ð²Ð°ÑˆÐ¾Ð¼Ñƒ ÐºÐ¾Ð¼Ð¿'ÑŽÑ‚ÐµÑ€Ñ–.">
+<!ENTITY     treehead.cookiename.label      "ÐÐ°Ð·Ð²Ð° ÐºÑƒÐºÐ¸">
+<!ENTITY     treehead.cookiedomain.label    "Ð¡Ð°Ð¹Ñ‚"> 
+<!ENTITY     treehead.cookieexpires.label   "Ð—Ð°ÑÑ‚Ð°Ñ€Ñ–Ð»Ñ–"> 
+<!ENTITY     treehead.infoselected.label    "Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ Ð¿Ñ€Ð¾ Ð²Ð¸Ð±Ñ€Ð°Ð½Ñƒ ÐºÑƒÐºÑƒ">
+<!ENTITY     button.removecookie.label      "Ð’Ð¸Ð»ÑƒÑ‡Ð¸Ñ‚Ð¸ ÐºÑƒÐºÑƒ">
+<!ENTITY     button.removecookie.accesskey  "Ð’">
+<!ENTITY     button.removeallcookies.label  "Ð’Ð¸Ð»ÑƒÑ‡Ð¸Ñ‚Ð¸ Ð²ÑÑ– ÐºÑƒÐºÐ¸">
+<!ENTITY     button.removeallcookies.accesskey "Ð’">
 
-<!ENTITY     search.emptytext               "ðÏÛÕË ËÕË">
+<!ENTITY     search.emptytext               "ÐŸÐ¾ÑˆÑƒÐº ÐºÑƒÐº">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
-<!ENTITY     props.name.label               "îÁÚ×Á:">
-<!ENTITY     props.value.label              "÷Í¦ÓÔ:">
-<!ENTITY     props.domain.label             "èÏÓÔ:">
-<!ENTITY     props.path.label               "ûÌÑÈ:">
-<!ENTITY     props.secure.label             "÷ÉËÌÉËÁÔÉ:">
-<!ENTITY     props.expires.label            "úÁÓÔÁÒ¦Ì¦:">
+<!ENTITY     props.name.label               "ÐÐ°Ð·Ð²Ð°:">
+<!ENTITY     props.value.label              "Ð’Ð¼Ñ–ÑÑ‚:">
+<!ENTITY     props.domain.label             "Ð¥Ð¾ÑÑ‚:">
+<!ENTITY     props.path.label               "Ð¨Ð»ÑÑ…:">
+<!ENTITY     props.secure.label             "Ð’Ð¸ÐºÐ»Ð¸ÐºÐ°Ñ‚Ð¸:">
+<!ENTITY     props.expires.label            "Ð—Ð°ÑÑ‚Ð°Ñ€Ñ–Ð»Ñ–:">
 
-<!ENTITY     treehead.sitename.label        "óÁÊÔ">
-<!ENTITY     treehead.status.label          "óÔÁÎ">
-<!ENTITY     windowtitle.label              "÷ÐÏÒÑÄËÕ×ÁÎÎÑ ËÕË">
-<!ENTITY     buttonaccept.label             "úÁËÒÉÔÉ">
-<!ENTITY     buttonaccept.accesskey         "ú">
+<!ENTITY     treehead.sitename.label        "Ð¡Ð°Ð¹Ñ‚">
+<!ENTITY     treehead.status.label          "Ð¡Ñ‚Ð°Ð½">
+<!ENTITY     windowtitle.label              "Ð’Ð¿Ð¾Ñ€ÑÐ´ÐºÑƒÐ²Ð°Ð½Ð½Ñ ÐºÑƒÐº">
+<!ENTITY     buttonaccept.label             "Ð—Ð°ÐºÑ€Ð¸Ñ‚Ð¸">
+<!ENTITY     buttonaccept.accesskey         "Ð—">
 
-<!ENTITY     blockSite.label                "úÁÂÏÒÏÎÉÔÉ">
-<!ENTITY     blockSite.accesskey            "ú">
-<!ENTITY     allowSite.label                "äÏÚ×ÏÌÉÔÉ">
-<!ENTITY     allowSite.accesskey            "ä">
-<!ENTITY     allowSiteSession.label         "óÅÁÎÓ">
-<!ENTITY     allowSiteSession.accesskey     "ó">
-<!ENTITY     removepermission.label         "÷ÉÌÕÞÉÔÉ ÓÁÊÔ">
-<!ENTITY     removepermission.accesskey     "÷">
-<!ENTITY     removeallpermissions.label     "÷ÉÌÕÞÉÔÉ ×Ó¦ ÓÁÊÔÉ">
-<!ENTITY     removeallpermissions.accesskey "÷">
+<!ENTITY     blockSite.label                "Ð—Ð°Ð±Ð¾Ñ€Ð¾Ð½Ð¸Ñ‚Ð¸">
+<!ENTITY     blockSite.accesskey            "Ð—">
+<!ENTITY     allowSite.label                "Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚Ð¸">
+<!ENTITY     allowSite.accesskey            "Ð”">
+<!ENTITY     allowSiteSession.label         "Ð¡ÐµÐ°Ð½Ñ">
+<!ENTITY     allowSiteSession.accesskey     "Ð¡">
+<!ENTITY     removepermission.label         "Ð’Ð¸Ð»ÑƒÑ‡Ð¸Ñ‚Ð¸ ÑÐ°Ð¹Ñ‚">
+<!ENTITY     removepermission.accesskey     "Ð’">
+<!ENTITY     removeallpermissions.label     "Ð’Ð¸Ð»ÑƒÑ‡Ð¸Ñ‚Ð¸ Ð²ÑÑ– ÑÐ°Ð¹Ñ‚Ð¸">
+<!ENTITY     removeallpermissions.accesskey "Ð’">
 
-<!ENTITY     futureCookies.label            "îÅ ÄÏÚ×ÏÌÑÔÉ ÓÁÊÔÉ, ËÏÔÒ¦ ÏÎÏ×ÌÀÀÔØ ×ÉÌÕÞÅÎ¦ ËÕËÉ">
-<!ENTITY     futureCookies.accesskey        "î">
+<!ENTITY     futureCookies.label            "ÐÐµ Ð´Ð¾Ð·Ð²Ð¾Ð»ÑÑ‚Ð¸ ÑÐ°Ð¹Ñ‚Ð¸, ÐºÐ¾Ñ‚Ñ€Ñ– Ð¾Ð½Ð¾Ð²Ð»ÑŽÑŽÑ‚ÑŒ Ð²Ð¸Ð»ÑƒÑ‡ÐµÐ½Ñ– ÐºÑƒÐºÐ¸">
+<!ENTITY     futureCookies.accesskey        "Ð">
