@@ -1,44 +1,44 @@
-<!ENTITY     tab.cookiesonsystem.label      "Stored Cookies">
-<!ENTITY     tab.bannedservers.label        "Cookie Sites">
-<!ENTITY     div.bannedservers.label        "Manage sites that can and cannot store cookies on your computer.">
-<!ENTITY     div.cookiesonsystem.label      "View and remove cookies that are stored on your computer.">
-<!ENTITY     treehead.cookiename.label      "Cookie Name">
-<!ENTITY     treehead.cookiedomain.label    "Site"> 
-<!ENTITY     treehead.cookieexpires.label   "Expires"> 
-<!ENTITY     treehead.infoselected.label    "Information about the selected Cookie">
-<!ENTITY     button.removecookie.label      "Remove Cookie">
-<!ENTITY     button.removecookie.accesskey  "R">
-<!ENTITY     button.removeallcookies.label  "Remove All Cookies">
-<!ENTITY     button.removeallcookies.accesskey "e">
+<!ENTITY     tab.cookiesonsystem.label      "Збережен╕ куки">
+<!ENTITY     tab.bannedservers.label        "Сайти з куками">
+<!ENTITY     div.bannedservers.label        "Впорядкувати сайти, котр╕ можуть або не можуть збер╕гати куки на вашому комп'ютер╕.">
+<!ENTITY     div.cookiesonsystem.label      "Переглянути та вилучити куки, котр╕ збережен╕ на вашому комп'ютер╕.">
+<!ENTITY     treehead.cookiename.label      "Назва куки">
+<!ENTITY     treehead.cookiedomain.label    "Сайт"> 
+<!ENTITY     treehead.cookieexpires.label   "Застар╕л╕"> 
+<!ENTITY     treehead.infoselected.label    "╤нформац╕я про вибрану куку">
+<!ENTITY     button.removecookie.label      "Вилучити куку">
+<!ENTITY     button.removecookie.accesskey  "В">
+<!ENTITY     button.removeallcookies.label  "Вилучити вс╕ куки">
+<!ENTITY     button.removeallcookies.accesskey "В">
 
-<!ENTITY     search.emptytext               "Search Cookies">
+<!ENTITY     search.emptytext               "Пошук кук">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
-<!ENTITY     props.name.label               "Name:">
-<!ENTITY     props.value.label              "Content:">
-<!ENTITY     props.domain.label             "Host:">
-<!ENTITY     props.path.label               "Path:">
-<!ENTITY     props.secure.label             "Send For:">
-<!ENTITY     props.expires.label            "Expires:">
+<!ENTITY     props.name.label               "Назва:">
+<!ENTITY     props.value.label              "Вм╕ст:">
+<!ENTITY     props.domain.label             "Хост:">
+<!ENTITY     props.path.label               "Шлях:">
+<!ENTITY     props.secure.label             "Викликати:">
+<!ENTITY     props.expires.label            "Застар╕л╕:">
 
-<!ENTITY     treehead.sitename.label        "Site">
-<!ENTITY     treehead.status.label          "Status">
-<!ENTITY     windowtitle.label              "Cookie Manager">
-<!ENTITY     buttonaccept.label             "Close">
-<!ENTITY     buttonaccept.accesskey         "C">
+<!ENTITY     treehead.sitename.label        "Сайт">
+<!ENTITY     treehead.status.label          "Стан">
+<!ENTITY     windowtitle.label              "Впорядкування кук">
+<!ENTITY     buttonaccept.label             "Закрити">
+<!ENTITY     buttonaccept.accesskey         "З">
 
-<!ENTITY     blockSite.label                "Block">
-<!ENTITY     blockSite.accesskey            "B">
-<!ENTITY     allowSite.label                "Allow">
-<!ENTITY     allowSite.accesskey            "A">
-<!ENTITY     allowSiteSession.label         "Session">
-<!ENTITY     allowSiteSession.accesskey     "S">
-<!ENTITY     removepermission.label         "Remove Site">
-<!ENTITY     removepermission.accesskey     "R">
-<!ENTITY     removeallpermissions.label     "Remove All Sites">
-<!ENTITY     removeallpermissions.accesskey "e">
+<!ENTITY     blockSite.label                "Заборонити">
+<!ENTITY     blockSite.accesskey            "З">
+<!ENTITY     allowSite.label                "Дозволити">
+<!ENTITY     allowSite.accesskey            "Д">
+<!ENTITY     allowSiteSession.label         "Сеанс">
+<!ENTITY     allowSiteSession.accesskey     "С">
+<!ENTITY     removepermission.label         "Вилучити сайт">
+<!ENTITY     removepermission.accesskey     "В">
+<!ENTITY     removeallpermissions.label     "Вилучити вс╕ сайти">
+<!ENTITY     removeallpermissions.accesskey "В">
 
-<!ENTITY     futureCookies.label            "Don't allow sites that set removed cookies to set future cookies">
-<!ENTITY     futureCookies.accesskey        "D">
+<!ENTITY     futureCookies.label            "Не дозволяти сайти, котр╕ оновлюють вилучен╕ куки">
+<!ENTITY     futureCookies.accesskey        "Н">
