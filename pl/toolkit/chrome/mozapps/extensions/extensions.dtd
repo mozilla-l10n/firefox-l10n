@@ -52,10 +52,10 @@
 <!ENTITY cmd.useTheme.tooltip             "Zmienia motyw programu &brandShortName;.">
 <!ENTITY cmd.options.label                "Opcje">
 <!ENTITY cmd.options.accesskey            "p">
-<!ENTITY cmd.options.tooltip              "Ustaw Opcje wybranego rozszerzenia">
+<!ENTITY cmd.options.tooltip              "Ustaw opcje wybranego rozszerzenia">
 <!ENTITY cmd.optionsUnix.label            "Preferencje">
 <!ENTITY cmd.optionsUnix.accesskey        "P">
-<!ENTITY cmd.optionsUnix.tooltip          "Edytuj Preferencje wybranego rozszerzenia">
+<!ENTITY cmd.optionsUnix.tooltip          "Edytuj preferencje wybranego rozszerzenia">
 <!ENTITY cmd.enable.label                 "Włącz">
 <!ENTITY cmd.enable.accesskey             "W">
 <!ENTITY cmd.enable.tooltip               "Włącz ten dodatek przy ponownym uruchomieniu programu &brandShortName;">
