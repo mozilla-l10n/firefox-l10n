@@ -2,7 +2,7 @@
 <!ENTITY window.width                      "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label            "Sivut voivat käyttää omia värejään oletusten sijaan">
+<!ENTITY  allowPagesToUse.label            "Sivut saavat käyttää omia värejään oletusten sijaan">
 <!ENTITY  allowPagesToUse.accesskey        "S">
 
 <!ENTITY  color                            "Tekstin ja taustan asetukset">
