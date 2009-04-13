@@ -2,17 +2,17 @@
 
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "Кеш">
-<!ENTITY pref.cache.caption              "Налаштувати варіанти кешу">
-<!ENTITY cachePara                       "Кеш ? це надшвидка пам'ять, котра зберігає сторінки, що ви нещодавно відвідували на ваш жорсткий диск. (Клацнувши Оновити, ви завжди побачите найновішу версію сторінки.)">
+<!ENTITY pref.cache.caption              "Налаштувати варіанти кеша">
+<!ENTITY cachePara                       "Кеш — це надшвидка пам'ять, котра зберігає сторінки, що ви нещодавно відвідували на ваш жорсткий диск. (Клацнувши Оновити, ви завжди побачите найновішу версію сторінки.)">
 <!ENTITY diskCache.label                 "Розмір:">
 <!ENTITY diskCache.accesskey             "Р">
 <!ENTITY mbytes                          "МБ">
-<!ENTITY diskCacheFolder.label           "Тека для кешу:">
+<!ENTITY diskCacheFolder.label           "Тека для кеша:">
 <!ENTITY clearDiskCache.label            "Очистити кеш">
 <!ENTITY clearDiskCache.accesskey        "О">
 <!ENTITY chooseDiskCacheFolder.label     "Вибрати теку">
 <!ENTITY chooseDiskCacheFolder.accesskey "В">
-<!ENTITY diskCacheFolderExplanation      "Файли кешу будуть зберігатись в підтеці з назвою &quot;Cache&quot; у теці, котру ви вказали. Перезапустіть &brandShortName;, щоб зміни вступили в дію.">
+<!ENTITY diskCacheFolderExplanation      "Файли кеша будуть зберігатись в підтеці з назвою &quot;Cache&quot; у теці, котру ви вказали. Перезапустіть &brandShortName;, щоб зміни вступили в дію.">
 <!ENTITY docCache                        "Оновити сторінку:">
 <!ENTITY oncePsessionRadio.label         "Раз на сеанс">
 <!ENTITY oncePsessionRadio.accesskey     "Р">
@@ -23,6 +23,6 @@
 <!ENTITY autoRadio.label                 "Коли сторінка є застарілою">
 <!ENTITY autoRadio.accesskey             "К">
 
-<!ENTITY prefetchTitle.label             "Link Prefetching">
-<!ENTITY enablePrefetch.label            "Prefetch web pages when idle, so that links in web pages designed for prefetching can load more quickly">
-<!ENTITY enablePrefetch.accesskey        "P">
+<!ENTITY prefetchTitle.label             "Попереднє звантаження">
+<!ENTITY enablePrefetch.label            "Звантажувати сторінки в фоновому режимі, коли є вільний трафік, щоб вони хуткіше звантажувались">
+<!ENTITY enablePrefetch.accesskey        "З">
