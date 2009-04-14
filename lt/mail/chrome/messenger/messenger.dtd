@@ -41,8 +41,10 @@
 <!ENTITY closeTabCmd.accesskey "U">
 <!ENTITY newVirtualFolderCmd.label "Paieška įrašant radinius…">
 <!ENTITY newVirtualFolderCmd.accesskey "e">
-<!ENTITY newAccountCmd.label "Pašto arba naujienų paskyra…">
+<!ENTITY newAccountCmd.label "Paskyra…">
 <!ENTITY newAccountCmd.accesskey "P">
+<!ENTITY newMailAccountCmd.label "Pašto paskyra (greitasis derinimas)…">
+<!ENTITY newMailAccountCmd.accesskey "g">
 <!ENTITY openMessageFileCmd.label "Atverti įrašytą laišką…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Priedai">
