@@ -1,8 +1,11 @@
-<!ENTITY restorepage.remedies       "यदि &brandShortName; बार बार बंद होता है:">
-<!ENTITY restorepage.dueToChrome    "सहयुक्ति प्रबंधक में किसी हाल में जोड़े विस्तारों को निष्क्रिय करने की कोशिश करें.">
-<!ENTITY restorepage.dueToContent   "अपने सत्र की वापसी की कोशिश करें बिना किसी वेब पृष्ठों के जिसे आप क्रैश का कारण समझ रहे हैं:">
+<!ENTITY restorepage.errorTitle     "Well, this is embarrassing.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; is having trouble recovering your windows and tabs. This is usually caused by a recently opened web page.">
+<!ENTITY restorepage.tryThis        "You can try:">
+<!ENTITY restorepage.restoreSome    "Removing one or more tabs that you think may be causing the problem">
+<!ENTITY restorepage.startNew       "Starting an entirely new browsing session">
 
-<!ENTITY restorepage.restoreButton  "पिछला सत्र फिर वापस करें">
+<!ENTITY restorepage.tryagainButton "Restore">
+
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "नया सत्र शुरू करें">
 <!ENTITY restorepage.cancel.access  "S">
@@ -12,8 +15,7 @@
 <!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "विंडो #&#37;S">
 
-<!ENTITY restorepage.issueDesc      "आपका पिछला &brandShortName; सत्र अप्रत्याशित रूप से बंद हो गया. हमें आपको हुई असुविधा के लिए खेद है.  आप अपने पिछले सत्र से टैब व विंडो वापस कर सकते हैं, या एक नया सत्र आरंभ करें यदि उनकी जरूरत अब नहीं रह गई है.">
 
-<!ENTITY restorepage.pagetitle      "क्या आप अपना सत्र वापस करना चाहते हैं?">
+
 
 <!ENTITY restorepage.tabtitle       "सत्र वापस करें">

@@ -17,3 +17,6 @@
 <!ENTITY  undoCloseTab.label          "बंद टैब पहले जैसा करें">
 <!ENTITY  undoCloseTab.accesskey      "U">
 <!ENTITY  newTabButton.tooltip        "एक नया टैब खोलें">
+
+<!ENTITY  openTabInNewWindow.label    "Open in a New Window">
+<!ENTITY  openTabInNewWindow.accesskey "W">
