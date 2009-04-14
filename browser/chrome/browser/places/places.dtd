@@ -113,22 +113,14 @@
 <!ENTITY col.lastmodified.label "Последна промена">
 <!ENTITY search.label "Барај:">
 <!ENTITY search.accesskey "Б">
-<!ENTITY search.collection.label "Само тековната колекција">
-<!ENTITY search.collection.accesskey "ц">
-<!ENTITY search.allBookmarks.label "Сите обележувачи">
-<!ENTITY search.allBookmarks.accesskey "и">
 <!ENTITY search.scopeFolder.label "Одбраната папка">
 <!ENTITY search.scopeFolder.accesskey "п">
-<!ENTITY search.scopeAll.label "Сите обележувачи">
-<!ENTITY search.scopeAll.accesskey "С">
-<!ENTITY search.scopeMenu.label "Мени со обележувачи">
-<!ENTITY search.scopeMenu.accesskey "М">
-<!ENTITY search.scopeToolbar.label "Алатник со обележувачи">
-<!ENTITY search.scopeToolbar.accesskey "т">
 <!ENTITY search.scopeDownloads.label "Преземања">
 <!ENTITY search.scopeDownloads.accesskey "П">
 <!ENTITY search.scopeHistory.label "Историја">
 <!ENTITY search.scopeHistory.accesskey "а">
+<!ENTITY search.scopeBookmarks.accesskey "ж">
+<!ENTITY search.scopeBookmarks.label  "Обележувачи">
 <!ENTITY search.scopeBarExpanderDown.tooltip "Го прикажува градителот на пребарувањето">
 <!ENTITY search.scopeBarExpanderUp.tooltip "Го крие градителот на пребарувањето">
 <!ENTITY saveSearch.label "Сними">
@@ -191,3 +183,4 @@
 <!ENTITY cmd.delete.accesskey           "з">
 <!ENTITY cmd.deleteDomainData.label     "Заборави го ова место">
 <!ENTITY cmd.deleteDomainData.accesskey "б">
+
