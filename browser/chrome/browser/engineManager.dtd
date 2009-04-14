@@ -9,17 +9,17 @@
 <!ENTITY up.label "Posunout nahoru">
 <!ENTITY up.accesskey "n">
 <!ENTITY dn.label "Posunout dolů">
-<!ENTITY dn.accesskey "s">
+<!ENTITY dn.accesskey "d">
 <!ENTITY remove.label "Odebrat">
-<!ENTITY remove.accesskey "d">
+<!ENTITY remove.accesskey "b">
 <!ENTITY edit.label "Upravit klíčové slovo…">
 <!ENTITY edit.accesskey "U">
 
 <!ENTITY addEngine.label "Získat další vyhledávací moduly…">
-<!ENTITY addEngine.accesskey "Z">
+<!ENTITY addEngine.accesskey "s">
 
 <!ENTITY enableSuggest.label "Zobrazit našeptávač">
-<!ENTITY enableSuggest.accesskey "n">
+<!ENTITY enableSuggest.accesskey "Z">
 
 <!ENTITY restoreDefaults.label "Obnovit výchozí">
 <!ENTITY restoreDefaults.accesskey "O">

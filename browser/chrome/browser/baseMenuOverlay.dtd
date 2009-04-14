@@ -19,7 +19,7 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
- are all the necessary keys to hit OS X's open-help 
+ are all the necessary keys to hit OS X's open-help
  keyboard (visible) shortcut (that's Cmd+? for most locales) -->
 <!ENTITY openHelpMac.commandkey "/">
 <!ENTITY openHelpMac.modifiers "accel,shift">
@@ -29,7 +29,6 @@
 <!ENTITY helpReleaseNotes.label "Poznámky k vydání">
 <!ENTITY helpReleaseNotes.accesskey "P">
 <!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
-<!ENTITY updateCmd.accesskey "a">
 
 <!ENTITY preferencesCmdMac.label "Předvolby…">
 <!ENTITY preferencesCmdMac.commandkey ",">
