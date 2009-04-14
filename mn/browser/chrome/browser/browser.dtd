@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "Хаягийн жагсаалт">
 <!ENTITY bookmarksSidebarCmd.accesskey  "я">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Түүх">
@@ -187,6 +191,8 @@
 <!ENTITY historyMenu.label "Түүх">
 <!ENTITY historyMenu.accesskey "х">
 <!ENTITY historyUndoMenu.label "Сүүлд хаагдсан самбарууд">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Сүүлд хаагдсан самбарууд">
 
 <!ENTITY historyHomeCmd.label "Эхлэл">
 <!ENTITY showAllHistoryCmd2.label "Бүх зорчсон түүхийг харуул">
@@ -194,6 +200,10 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.emptyText             "Хадгалсан хаяг болон зорчсон түүхэнд хайх">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Хаяг болон зорчсон түүхэнд хайх">
+<!ENTITY urlbar.bookmark.emptyText    "Хадгалсан хаяганд хайх">
+<!ENTITY urlbar.history.emptyText     "Зорчсон түүхэнд хайх">
+<!ENTITY urlbar.none.emptyText        "Вэб хаягаа энд бич">
 <!ENTITY urlbar.accesskey             "я">
 
 <!--
@@ -351,6 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Харуулах хэмжээ">
 <!ENTITY fullZoom.accesskey             "ж">
 
+<!ENTITY newTabButton.tooltip           "Шинэ самбар нээ">
 <!ENTITY newWindowButton.tooltip        "Шинэ цонх нээ">
 <!ENTITY sidebarCloseButton.tooltip     "Хажуу самбарыг хаана">
 

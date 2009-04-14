@@ -117,24 +117,16 @@
 <!ENTITY cmd.groupby_feed.accesskey		"ү">
 <!ENTITY cmd.groupby_post.label		"Захиагаар нь бүлэглэ">
 <!ENTITY cmd.groupby_post.accesskey		"З">
-<!ENTITY cmd.moveBookmarks.label		"Зөө…">   
-<!ENTITY cmd.moveBookmarks.accesskey		"З">                                                                   
+<!ENTITY cmd.moveBookmarks.label		"Зөө…">
+<!ENTITY cmd.moveBookmarks.accesskey		"З">
 
 <!ENTITY col.name.label          "Нэр">
 <!ENTITY col.tags.label          "Таглаа">
 
-
-
-<!ENTITY search.allBookmarks.label                 "Бүх хаяганд">
-<!ENTITY search.allBookmarks.accesskey             "Б">
 <!ENTITY search.scopeFolder.label                  "Сонгосон санд">
 <!ENTITY search.scopeFolder.accesskey              "с">
-<!ENTITY search.scopeAll.label                     "Бүх хаяганд">
-<!ENTITY search.scopeAll.accesskey                 "я">
-<!ENTITY search.scopeMenu.label                    "Цэсний хаяганд">
-<!ENTITY search.scopeMenu.accesskey                "ц">
-<!ENTITY search.scopeToolbar.label                 "Багажны хаяганд">
-<!ENTITY search.scopeToolbar.accesskey             "г">
+<!ENTITY search.scopeBookmarks.label               "Хаяганд">
+<!ENTITY search.scopeBookmarks.accesskey           "я">
 <!ENTITY search.scopeDownloads.label               "Татаж авалтанд">
 <!ENTITY search.scopeDownloads.accesskey           "ж">
 <!ENTITY search.scopeHistory.label                 "Түүхэнд">
@@ -150,8 +142,6 @@
 <!ENTITY col.lastmodified.label		"Сүүлд өөрчлөгдсөн">
 <!ENTITY search.label		"Хайх:">
 <!ENTITY search.accesskey		"й">
-<!ENTITY search.collection.label		"Зөвхөн одоогийн цуглуулганд">
-<!ENTITY search.collection.accesskey		"З">
 <!ENTITY saveSearch.label		"Хадгал">
 <!ENTITY saveSearch.accesskey		"Х">
 <!ENTITY moreCriteria.label		"+">

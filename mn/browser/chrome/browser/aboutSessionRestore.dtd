@@ -1,18 +1,19 @@
 <!ENTITY restorepage.tabtitle       "Зорчсон хэсгээ сэргээх">
-<!ENTITY restorepage.pagetitle      "Та зорчиж байсан хэсгээ сэргээмээр байна уу?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Таны &brandShortName; өмнө нь зохисгүй нөхцлөөр хаагдсан байна. Тав тухыг тань алдагдуулсан бол биднийг уучилна уу. Та өмнө нь зорчиж байсан цонх болон самбаруудыг сэргээх юмуу эсвэл тэд хэрэггүй бол шинэ зорчих хэсэг эхлүүлэх боломжтой.">
-<!ENTITY restorepage.remedies       "Хэрэв &brandShortName; дахин дахин хаагдвал:">
-<!ENTITY restorepage.dueToChrome    "Өргөтгөл зохицуулагч дээрээс хамгийн сүүлд суулгасан өргөтгөлийг хорьж туршина уу.">
-<!ENTITY restorepage.dueToContent   "Алдаа үүсгэсэн байж болзошгүй гэсэн хуудастай зорчих хэсгийг сэргээлгүйгээр турших хэрэгтэй:">
 
-<!ENTITY restorepage.restoreButton  "Өмнөх зорчих хэсгийг сэргээ">
-<!ENTITY restorepage.restore.access "Ө">
-<!ENTITY restorepage.cancelButton   "Шинэ зорчих хэсэг эхлүүл">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Хм, тун гайхмаар юм.">
+<!ENTITY restorepage.problemDesc      "&brandShortName; самбар болон цонхыг сэргээх үед хүндрэл гарлаа. Энэ нь ихэнхдээ сүүлд нээгдсэн вэб хуудаснаас шалтгаалж үүсдэг.">
+<!ENTITY restorepage.tryThis        "Та үүнийг туршиж болно:">
+<!ENTITY restorepage.restoreSome    "Хүндрэлийг үүсгэсэн байж болзошгүй гэсэн нэг юмуу хэд хэдэн самбарыг хааж үзэх">
+<!ENTITY restorepage.startNew       "Шинэ хөтлөх хэсэг эхлүүлэх">
+
+<!ENTITY restorepage.tryagainButton "Сэргээ">
+<!ENTITY restorepage.restore.access "С">
+<!ENTITY restorepage.cancelButton   "Шинэ хэсэг эхлүүлэх">
 <!ENTITY restorepage.cancel.access  "Ш">
 
-<!ENTITY restorepage.restoreHeader  "Сэргээ">
+<!ENTITY restorepage.restoreHeader  "Сэргээх">
 <!ENTITY restorepage.listHeader     "Цонх болон самбарууд">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Цонхнууд &#37;S">
+<!ENTITY restorepage.windowLabel    "&#37;S цонх">
