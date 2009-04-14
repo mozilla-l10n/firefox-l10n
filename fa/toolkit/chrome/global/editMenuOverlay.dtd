@@ -1,15 +1,15 @@
 <!ENTITY editMenu.label            "ویرایش">
 <!ENTITY editMenu.accesskey        "و">
-<!ENTITY undoCmd.label             "برگردان">
+<!ENTITY undoCmd.label             "واگرد">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "ب">
-<!ENTITY redoCmd.label             "دوباره">
+<!ENTITY undoCmd.accesskey         "و">
+<!ENTITY redoCmd.label             "از نو">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "د">
+<!ENTITY redoCmd.accesskey         "ز">
 <!ENTITY cutCmd.label              "بریدن">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "ر">
-<!ENTITY copyCmd.label             "نسخه‌برداری">
+<!ENTITY copyCmd.label             "رونوشت برداشتن">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "ن">
 <!ENTITY pasteCmd.label            "چسباندن">

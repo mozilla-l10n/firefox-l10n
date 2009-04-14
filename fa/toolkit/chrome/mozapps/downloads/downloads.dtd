@@ -27,8 +27,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "ت">
 <!ENTITY cmd.goToDownloadPage.label       "رفتن به صفحهٔ بارگیری">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ص">
-<!ENTITY cmd.copyDownloadLink.label       "نسخه‌برداری از پیوند بارگیری">
-<!ENTITY cmd.copyDownloadLink.accesskey   "س">
+<!ENTITY cmd.copyDownloadLink.label       "رونوشت برداشتن از پیوند بارگیری">
+<!ENTITY cmd.copyDownloadLink.accesskey   "ش">
 <!ENTITY cmd.removeFromList.label         "حذف از فهرست">
 <!ENTITY cmd.removeFromList.accesskey     "ح">
 
@@ -45,4 +45,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "وقتی بارگیری همهٔ پرونده‌ها تمام شد پنجرهٔ بارگیری‌ها را می‌بندد">
 
 <!ENTITY showFolder.label                 "نشان دادن این پوشه">
-<!ENTITY searchBox.label                  "جستجو…">
+<!ENTITY searchBox.label                  "جست‌وجو…">

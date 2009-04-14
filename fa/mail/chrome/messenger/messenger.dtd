@@ -61,9 +61,9 @@
 <!ENTITY printCmd.label "چاپ…">
 <!ENTITY printCmd.accesskey "چ">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "پیش‌نمایش چاپ">
+<!ENTITY printPreviewCmd.label "پیش‌نمای چاپ">
 <!ENTITY printPreviewCmd.accesskey "پ">
-<!ENTITY printSetupCmd.label "تنظیمات صفحه…">
+<!ENTITY printSetupCmd.label "تنظیم صفحه…">
 <!ENTITY printSetupCmd.accesskey "ت">
 
 <!-- Edit Menu -->
@@ -109,10 +109,10 @@
 <!ENTITY redoCopyMsgCmd.label "Redo Copy Message">
 <!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
 <!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
-<!ENTITY undoDefaultCmd.label "برگردان">
-<!ENTITY undoDefaultCmd.accesskey "ب">
-<!ENTITY redoDefaultCmd.label "دوباره">
-<!ENTITY redoDefaultCmd.accesskey "د">
+<!ENTITY undoDefaultCmd.label "واگرد">
+<!ENTITY undoDefaultCmd.accesskey "و">
+<!ENTITY redoDefaultCmd.label "از نو">
+<!ENTITY redoDefaultCmd.accesskey "ز">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Mail Toolbar">
@@ -520,7 +520,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Subscribe…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "جستجو…">
+<!ENTITY folderContextSearchMessages.label "جست‌وجو…">
 <!ENTITY folderContextSearchMessages.accesskey "ج">
 <!ENTITY folderContextProperties.label "ویژگی‌ها…">
 <!ENTITY folderContextProperties.accesskey "و">
@@ -535,7 +535,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Search messages…">
-<!ENTITY glodaSearchBar.facet.label "جستجو:">
+<!ENTITY glodaSearchBar.facet.label "جست‌وجو:">
 <!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
        "everything" searches over subject, involves, body, and attachments.
        "subject" searches only messages subjects.
@@ -642,7 +642,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextSaveAs.accesskey "ذ">
 <!ENTITY contextPrint.label "چاپ…">
 <!ENTITY contextPrint.accesskey "چ">
-<!ENTITY contextPrintPreview.label "پیش‌نمایش چاپ">
+<!ENTITY contextPrintPreview.label "پیش‌نمای چاپ">
 <!ENTITY contextPrintPreview.accesskey "پ">
 
 <!-- Junk Bar -->
@@ -676,7 +676,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Compose Mail To">
 <!ENTITY SendMailTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "نسخه‌برداری از نشانی پست الکترونیکی">
+<!ENTITY CopyEmailAddress.label "رونوشت برداشتن از نشانی پست الکترونیکی">
 <!ENTITY CopyEmailAddress.accesskey "ن">
 <!ENTITY CreateFilterFrom.label "Create Filter From…">
 <!ENTITY CreateFilterFrom.accesskey "F">
@@ -688,22 +688,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "ذ">
 <!ENTITY saveImageAsCmd.label "ذخیرهٔ تصویر به نام…">
 <!ENTITY saveImageAsCmd.accesskey "ذ">
-<!ENTITY copyCmd.label "نسخه‌برداری">
+<!ENTITY copyCmd.label "رونوشت برداشتن">
 <!ENTITY copyCmd.accesskey "ن">
 <!ENTITY selectAllCmd.label "انتخاب همه">
 <!ENTITY selectAllCmd.accesskey "ا">
-<!ENTITY copyLinkCmd.label "نسخه‌برداری از مکان پیوند">
+<!ENTITY copyLinkCmd.label "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyLinkCmd.accesskey "ن">
-<!ENTITY copyImageCmd.label "نسخه‌برداری از مکان تصویر">
+<!ENTITY copyImageCmd.label "رونوشت برداشتن از مکان تصویر">
 <!ENTITY copyImageCmd.accesskey "ن">
-<!ENTITY copyEmailCmd.label "نسخه‌برداری از نشانی پست الکترونیکی">
+<!ENTITY copyEmailCmd.label "رونوشت برداشتن از نشانی پست الکترونیکی">
 <!ENTITY copyEmailCmd.accesskey "ن">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "انجام شد">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "حداقل کردن">
+<!ENTITY minimizeWindow.label "کمینه کردن">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "آوردن همه به جلو">
 <!ENTITY zoomWindow.label "زوم">

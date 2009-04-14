@@ -37,7 +37,7 @@
 
 <!ENTITY print.label          "چاپ…">
 <!ENTITY print.accesskey      "چ">
-<!ENTITY pageSetup.label      "تنظیمات صفحه…">
+<!ENTITY pageSetup.label      "تنظیم صفحه…">
 <!ENTITY pageSetup.accesskey  "ت">
 <!ENTITY page.label           "صفحه:">
 <!ENTITY page.accesskey       "ص">

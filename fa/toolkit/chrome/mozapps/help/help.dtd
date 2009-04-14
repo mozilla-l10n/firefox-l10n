@@ -10,7 +10,7 @@
 <!ENTITY forwardButton.label            "جلو">
 <!ENTITY forwardButton.accesskey        "ج">
 <!ENTITY forwardButton.tooltip          "جلو رفتن به یک صفحهٔ بعد">
-<!ENTITY copyCmd.label                  "نسخه‌برداری">
+<!ENTITY copyCmd.label                  "رونوشت برداشتن">
 <!ENTITY copyCmd.accesskey              "ن">
 <!ENTITY selectAllCmd.label             "انتخاب همه">
 <!ENTITY selectAllCmd.accesskey         "ه">
@@ -22,8 +22,8 @@
 <!ENTITY printButton.tooltip            "چاپ کردن این صفحه">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "جستجو">
-<!ENTITY searchHeader.label             "نتایج جستجو">
+<!ENTITY search.emptytext               "جست‌وجو">
+<!ENTITY searchHeader.label             "نتایج جست‌وجو">
 <!ENTITY toctab.label                   "محتوا">
 <!ENTITY toctab.accesskey               "م">
 

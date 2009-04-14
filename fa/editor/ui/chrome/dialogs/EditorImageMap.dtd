@@ -56,7 +56,7 @@
 <!ENTITY mapeditMenu.accesskey "و">
 <!ENTITY cutCmd.label "بریدن">
 <!ENTITY cutCmd.accesskey "ب">
-<!ENTITY copyCmd.label "نسخه‌برداری">
+<!ENTITY copyCmd.label "رونوشت برداشتن">
 <!ENTITY copyCmd.accesskey "ن">
 <!ENTITY pasteCmd.label "چسباندن">
 <!ENTITY pasteCmd.accesskey "چ">

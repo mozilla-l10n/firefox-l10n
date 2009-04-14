@@ -86,7 +86,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Delete All…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
-<!ENTITY copyLinkCmd.label        "نسخه‌برداری از مکان پیوند">
+<!ENTITY copyLinkCmd.label        "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyLinkCmd.accesskey    "ن">
 
 <!ENTITY CopyMessageId.label "Copy Message-ID">

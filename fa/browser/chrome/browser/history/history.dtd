@@ -1,4 +1,4 @@
-<!ENTITY find.label                "جستجو:">
+<!ENTITY find.label                "جست‌وجو:">
 <!ENTITY find.accesskey            "ج">
 <!ENTITY expand.label              "بسط دادن">
 <!ENTITY expand.accesskey          "ب">
@@ -22,7 +22,7 @@
 <!ENTITY openInNewTab.accesskey "ز">
 <!ENTITY openInNewWindow.label "باز کردن در پنجرهٔ جدید">
 <!ENTITY openInNewWindow.accesskey "پ">
-<!ENTITY bookmarkLink.label "چوب‌الف گذاری برای این پیوند…">
-<!ENTITY bookmarkLink.accesskey "چ">
-<!ENTITY copyLink.label "نسخه‌برداری از مکان پیوند">
+<!ENTITY bookmarkLink.label "نشانک گذاری برای این پیوند…">
+<!ENTITY bookmarkLink.accesskey "ش">
+<!ENTITY copyLink.label "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyLink.accesskey "ن">

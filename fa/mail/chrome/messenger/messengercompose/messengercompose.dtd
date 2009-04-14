@@ -41,7 +41,7 @@
 <!ENTITY sendLaterCmd.label "Send Later">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "تنظیمات صفحه…">
+<!ENTITY printSetupCmd.label "تنظیم صفحه…">
 <!ENTITY printSetupCmd.accesskey "ت">
 <!ENTITY printCmd.label "چاپ…">
 <!ENTITY printCmd.key "P">
@@ -50,16 +50,16 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "ویرایش"> 
 <!ENTITY editMenu.accesskey "و">
-<!ENTITY undoCmd.label "برگردان">
+<!ENTITY undoCmd.label "واگرد">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ب"> 
-<!ENTITY redoCmd.label "دوباره">
+<!ENTITY undoCmd.accesskey "و"> 
+<!ENTITY redoCmd.label "از نو">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "د"> 
+<!ENTITY redoCmd.accesskey "ز"> 
 <!ENTITY cutCmd.label "بریدن">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "ب"> 
-<!ENTITY copyCmd.label "نسخه‌برداری">
+<!ENTITY copyCmd.label "رونوشت برداشتن">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "ن"> 
 <!ENTITY pasteCmd.label "چسباندن">
@@ -173,7 +173,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "حداقل کردن">
+<!ENTITY minimizeWindow.label "کمینه کردن">
 <!ENTITY bringAllToFront.label "آوردن همه به جلو">
 <!ENTITY zoomWindow.label "زوم"> 
 <!ENTITY windowMenu.label "پنجره">
@@ -194,7 +194,7 @@
 <!ENTITY attachButton.tooltip "Include an attachment"> 
 <!ENTITY saveButton.tooltip "Save this message"> 
 <!ENTITY cutButton.tooltip              "بریدن">
-<!ENTITY copyButton.tooltip             "نسخه‌برداری">
+<!ENTITY copyButton.tooltip             "رونوشت برداشتن">
 <!ENTITY pasteButton.tooltip            "چسباندن">
 
 <!-- Headers -->
@@ -236,11 +236,11 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "اضافه‌کردن به واژه‌نامه">
 <!ENTITY spellCheckAddToDictionary.accesskey "ا">
-<!ENTITY undo.label "برگردان">
-<!ENTITY undo.accesskey "ب">
+<!ENTITY undo.label "واگرد">
+<!ENTITY undo.accesskey "و">
 <!ENTITY cut.label "بریدن">
 <!ENTITY cut.accesskey "ب">
-<!ENTITY copy.label "نسخه‌برداری">
+<!ENTITY copy.label "رونوشت برداشتن">
 <!ENTITY copy.accesskey "ن">
 <!ENTITY paste.label "چسباندن">
 <!ENTITY paste.accesskey "چ">

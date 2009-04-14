@@ -23,7 +23,7 @@
 <!ENTITY closeCmd.label                                 "بستن">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "ب">
-<!ENTITY printSetupCmd.label                            "تنظیمات صفحه…">
+<!ENTITY printSetupCmd.label                            "تنظیم صفحه…">
 <!ENTITY printSetupCmd.accesskey                        "ت">
 <!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
@@ -38,16 +38,16 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "ویرایش">
 <!ENTITY editMenu.accesskey                             "و">
-<!ENTITY undoCmd.label                                  "برگردان">
+<!ENTITY undoCmd.label                                  "واگرد">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "ب">
-<!ENTITY redoCmd.label                                  "دوباره">
+<!ENTITY undoCmd.accesskey                              "و">
+<!ENTITY redoCmd.label                                  "از نو">
 <!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "د">
+<!ENTITY redoCmd.accesskey                              "ز">
 <!ENTITY cutCmd.label                                   "بریدن">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "ب">
-<!ENTITY copyCmd.label                                  "نسخه‌برداری">
+<!ENTITY copyCmd.label                                  "رونوشت برداشتن">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "ن">
 <!ENTITY pasteCmd.label                                 "چسباندن">
@@ -200,7 +200,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "پنجره">
-<!ENTITY minimizeWindow.label "حداقل کردن">
+<!ENTITY minimizeWindow.label "کمینه کردن">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "آوردن همه به جلو">
 <!ENTITY zoomWindow.label "زوم">

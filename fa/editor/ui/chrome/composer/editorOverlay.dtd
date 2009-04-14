@@ -77,7 +77,7 @@
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Send Page…">
 <!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "تنظیمات صفحه…">
+<!ENTITY printSetupCmd.label "تنظیم صفحه…">
 <!ENTITY printSetupCmd.accesskey "ت">
 <!ENTITY printCmd.label "چاپ…">
 <!ENTITY printCmd.accesskey "چ">
@@ -150,13 +150,13 @@
 <!ENTITY editLinkCmd.label "Edit Link in New Composer">
 <!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "برگردان">
-<!ENTITY undoCmd.accesskey "ب">
-<!ENTITY redoCmd.label "دوباره">
-<!ENTITY redoCmd.accesskey "د">
+<!ENTITY undoCmd.label "واگرد">
+<!ENTITY undoCmd.accesskey "و">
+<!ENTITY redoCmd.label "از نو">
+<!ENTITY redoCmd.accesskey "ز">
 <!ENTITY cutCmd.label "بریدن">
 <!ENTITY cutCmd.accesskey "ب">
-<!ENTITY copyCmd.label "نسخه‌برداری">
+<!ENTITY copyCmd.label "رونوشت برداشتن">
 <!ENTITY copyCmd.accesskey "ن">
 <!ENTITY pasteCmd.label "چسباندن">
 <!ENTITY pasteCmd.accesskey "چ">

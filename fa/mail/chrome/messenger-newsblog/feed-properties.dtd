@@ -12,7 +12,7 @@
 <!ENTITY quickMode.label          "Show the article summary instead of loading the web page">
 <!ENTITY quickMode.accesskey      "h">
 
-<!ENTITY copyLinkCmd.label        "نسخه‌برداری از مکان پیوند">
+<!ENTITY copyLinkCmd.label        "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyLinkCmd.accesskey    "ن">
 
 <!ENTITY pasteLinkCmd.label       "چسباندن">
