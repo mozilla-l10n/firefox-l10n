@@ -2,7 +2,7 @@
 <!ENTITY lookInMenuList.accesskey   "й">
 <!ENTITY textInput.label        "Файл аты:">
 <!ENTITY textInput.accesskey        "а">
-<!ENTITY filterMenuList.label   "Файлдар типі:">
+<!ENTITY filterMenuList.label   "Файлдар түрі:">
 <!ENTITY filterMenuList.accesskey   "т">
 <!ENTITY name.label             "Аты">
 <!ENTITY size.label             "Өлшемі:">

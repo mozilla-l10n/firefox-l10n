@@ -8,8 +8,8 @@
 <!ENTITY undoCmd.accesskey "о">
 <!ENTITY selectAllCmd.label "Барлығын ерекшелеу">
 <!ENTITY selectAllCmd.accesskey "Б">
-<!ENTITY deleteCmd.label "Жою">
-<!ENTITY deleteCmd.accesskey "о">
+<!ENTITY deleteCmd.label "Өшіру">
+<!ENTITY deleteCmd.accesskey "ш">
 
 <!ENTITY spellAddToDictionary.label "Сөздікке қосу">
 <!ENTITY spellAddToDictionary.accesskey "к">

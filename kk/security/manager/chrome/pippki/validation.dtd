@@ -42,8 +42,8 @@
 <!ENTITY  validation.crlnextupdate.label          "Келесі жаңарту">
 <!ENTITY  validation.crlautoupdateenabled.label   "Автоматты жаңарту">
 <!ENTITY  validation.crlautoupdatestatus.label    "Автоматты жаңарту күйі">
-<!ENTITY  validation.deletecrl.label              "Жою">
-<!ENTITY  validation.deletecrl.accesskey          "Ж">
+<!ENTITY  validation.deletecrl.label              "Өшіру">
+<!ENTITY  validation.deletecrl.accesskey          "ш">
 <!ENTITY  validation.updatecrl.label              "Жаңартулар">
 <!ENTITY  validation.updatecrl.accesskey          "Ж">
 <!ENTITY  validation.advanced.label               "Баптаулар">

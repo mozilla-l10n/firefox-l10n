@@ -104,9 +104,9 @@
 
 <!ENTITY cmd.includeUpdate.label          "Жаңартуды орнату">
 <!ENTITY cmd.includeUpdate.accesskey      "р">
-<!ENTITY includeUpdate.label              "Осы жаңартуды орнату">
-<!ENTITY includeUpdate.accesskey          "р">
-<!ENTITY includeUpdate.tooltip            "Жаңартуларды орнату кезінде осы қосымшаны жаңарту">
+<!ENTITY includeUpdate.label              "Осы жаңартуды енгізу">
+<!ENTITY includeUpdate.accesskey          "е">
+<!ENTITY includeUpdate.tooltip            "Жаңартуларды енгізу кезінде осы қосымшаны жаңарту">
 
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "Қауіпсіз жаңартуларды қамтамасыз етпейді.">

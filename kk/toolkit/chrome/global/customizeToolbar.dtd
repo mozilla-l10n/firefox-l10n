@@ -2,10 +2,10 @@
 <!ENTITY dialog.style             "width: 730px; height: 400px;">
 <!ENTITY instructions.description "Саймандар панелдеріндегі элементтерді тышқанмен тартып алып, оларды қосып, өшіре аласыз.">
 <!ENTITY show.label               "Көрсету:">
-<!ENTITY iconsAndText.label       "Таңбашалар мен Мәтін">
-<!ENTITY icons.label              "Тек Таңбашалар">
-<!ENTITY text.label               "Тек Мәтін">
-<!ENTITY useSmallIcons.label      "Кішкентай Таңбашалар">
+<!ENTITY iconsAndText.label       "Таңбашалар мен мәтін">
+<!ENTITY icons.label              "Тек таңбашалар">
+<!ENTITY text.label               "Тек мәтін">
+<!ENTITY useSmallIcons.label      "Кішкентай таңбашалар">
 <!ENTITY restoreDefaultSet.label  "Бастапқы түрге келтіру">
 <!ENTITY addNewToolbar.label      "Жаңа саймандар панелін қосу">
 <!ENTITY saveChanges.label        "Дайын">

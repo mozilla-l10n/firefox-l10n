@@ -12,7 +12,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; сізге">
+<!ENTITY rights.intro-point1a "&brandShortName; сізге ">
 <!ENTITY rights.intro-point1b "Mozilla MPL лицензиясы бойынша ұсынылады">
 <!ENTITY rights.intro-point1c ". Демек, сіздің &brandShortName; қолдану, көшіру және таратуға толық құқығыңыз бар.  Оның үстіне қажетіңізге қарай &brandShortName; бастапқы кодын түзете аласыз. Mozilla MPL өзіңіздің түзетулеріңіз бар жинақтарды таратуға да рұқсат береді.">
 
@@ -30,7 +30,7 @@
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName;, сонымен қатар, сайттарға қатысты SafeBrowsing; сияқты оцпиялық қызметтер ұсынады, бірақ біз олардың жұмысы 100&#037; қатесіз әрі мінсіз болады деп айта алмаймыз. Осы қызметтер мен оларды сөндіру туралы қосымша ақпаратты ">
-<!ENTITY rights.intro-point4b "қызметтерді пайдалану шарттарынан">
+<!ENTITY rights.intro-point4b "қызметтерді пайдалану шарттарынан ">
 <!ENTITY rights.intro-point4c "алуға болады">
 
 <!-- point 4 text for unbranded builds -->
@@ -46,8 +46,8 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; сайттар туралы хабарлау қызметін (әрі қарай «Қызметтер»), мысалы: SafeBrowsing қолданады. Бұл қызметтер осы &brandShortName; бинарлы нұсқасында бар. Қызметтерді пайдалану тәртібі төменде келтірілген. Егер сіз бұл Қызметтерді түрлі себеппен пайдаланудан бас тартсаңыз, SafeBrowsing қызметін сөндіруге болады. Ол үшін бағдарламаның баптау терезесін ашып, ">
-<!ENTITY rights.webservices-b "Қорғаныс">
-<!ENTITY rights.webservices-c " бөлімінде &quot;&blockAttackSites.label;&quot; мен &quot;&blockWebForgeries.label;&quot; белгішелерін алып тастаңыз">
+<!ENTITY rights.webservices-b "Қорғаныс ">
+<!ENTITY rights.webservices-c "бөлімінде &quot;&blockAttackSites.label;&quot; мен &quot;&blockWebForgeries.label;&quot; белгішелерін алып тастаңыз">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Өнімге қосылған сайттар туралы хабарлау қызметтеріне шолу, оны сөндіру тәртібі осы жерде көрсетілуі тиіс.">

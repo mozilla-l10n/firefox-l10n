@@ -24,7 +24,7 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL прокси:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS хосты:">
+<!ENTITY  socks.label                   "SOCKS прокси:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS 4">
 <!ENTITY  socks4.accesskey              "K">

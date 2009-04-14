@@ -155,9 +155,9 @@
 <!ENTITY pasteCmd.label           "Кірістіру">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "р"> 
-<!ENTITY deleteCmd.label          "Жою">  
+<!ENTITY deleteCmd.label          "Өшіру">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "о"> 
+<!ENTITY deleteCmd.accesskey        "ш"> 
 <!ENTITY selectAllCmd.label         "Барлығын ерекшелеу">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "е"> 
