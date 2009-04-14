@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey  "S">
 <!ENTITY newAccountCmd.label            "Konto…">
 <!ENTITY newAccountCmd.accesskey        "K">
+<!ENTITY newMailAccountCmd.label        "Konto pocztowe (szybka konfiguracja)…"><!-- FIXME -->
+<!ENTITY newMailAccountCmd.accesskey    "n">
 <!ENTITY openMessageFileCmd.label       "Otwórz zapisaną wiadomość">
 <!ENTITY openMessageFileCmd.accesskey   "O">
 <!ENTITY openAttachmentCmd.label        "Załączniki">
