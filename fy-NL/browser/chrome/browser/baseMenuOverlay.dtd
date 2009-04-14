@@ -28,7 +28,6 @@
 
 <!ENTITY helpReleaseNotes.accesskey     "U">
 <!ENTITY helpReleaseNotes.label         "Utjefte opmerkings">
-<!ENTITY updateCmd.accesskey            "o">
 <!ENTITY updateCmd.label                "Op nije ferzjes kontrolearje...">
 
 <!ENTITY preferencesCmdMac.label        "Foarkarren...">
