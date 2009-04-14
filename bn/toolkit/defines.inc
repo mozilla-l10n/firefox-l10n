@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE ইংরেজি (উই.এস.)
+#define MOZ_LANG_TITLE Bengali (Bangladesh)
