@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "অ্যাকাউন্ট… (A)">
 <!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY newMailAccountCmd.label "Mail Account (Quick Setup)…">
+<!ENTITY newMailAccountCmd.accesskey "Q">
 <!ENTITY openMessageFileCmd.label "সংরক্ষিত বার্তা খুলুন… (O)">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "সংযুক্তি (A)">

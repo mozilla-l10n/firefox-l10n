@@ -9,98 +9,98 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ব্যক্তিগত ব্রাউজিং)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(একান্ত ব্রাউজিং)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "নতুন ট্যাব (T)">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "অবস্থান খুলুন... (L)">
+<!ENTITY openLocationCmd.label "নতুন ঠিকানা... (L)">
 <!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "ফাইল খুলুন... (O)">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "পৃষ্টার বৈশিষ্ট্য... (u)">
+<!ENTITY printSetupCmd.label "পৃষ্ঠার বিন্যাস... (U)">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "প্রিন্টের পূর্বরূপ (v)">
+<!ENTITY printPreviewCmd.label "প্রিন্টের প্রাকদর্শন (V)">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "প্রিন্ট করুন... (P)">
+<!ENTITY printCmd.label "প্রিন্ট... (P)">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "ইম্পোর্ট করুন... (I)">
+<!ENTITY import.label "ইম্পোর্ট... (I)">
 <!ENTITY import.accesskey "I">
 
-<!ENTITY goOfflineCmd.label "অফলাইন অবস্থায় কর্ম (W)">
+<!ENTITY goOfflineCmd.label "অফলাইন অবস্থা (W)">
 <!ENTITY goOfflineCmd.accesskey "w">
 
-<!ENTITY navbarCmd.label "চলাচলে ব্যবহৃত টুলবার (N)">
+<!ENTITY navbarCmd.label "ন্যাভিগেশন টুলবার (N)">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "টুলবার বুকমার্ক করে (B)">
+<!ENTITY personalbarCmd.label "বুকমার্ক টুলবার (B)">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "টুলবারের বিষয়-বস্তু বুকমার্ক করে">
+<!ENTITY bookmarksToolbarItem.label "বুকমার্ক টুলবারে  যা যা থাকবে">
 <!ENTITY taskbarCmd.label "স্ট্যাটাস বার (B)">
 <!ENTITY taskbarCmd.accesskey "B">
 
-<!ENTITY pageSourceCmd.label "পৃষ্ঠার উৎস (o)">
+<!ENTITY pageSourceCmd.label "পৃষ্ঠার সোর্স (O)">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য (I)">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "সম্পূর্ণ পর্দা জুড়ে প্রদর্শন (F)">
+<!ENTITY fullScreenCmd.label "পর্দাজুড়ে প্রদর্শন (F)">
 <!ENTITY fullScreenCmd.accesskey "F">
 
-<!ENTITY fullScreenMinimize.tooltip "ছোট করুন">
-<!ENTITY fullScreenRestore.tooltip "পূর্ববর্তী অবস্থা">
-<!ENTITY fullScreenClose.tooltip "বন্ধ করুন">
-<!ENTITY fullScreenAutohide.label "টুল-বার আড়াল করুন (H)">
+<!ENTITY fullScreenMinimize.tooltip "ছোট করা হবে">
+<!ENTITY fullScreenRestore.tooltip "পূর্ববর্তী অবস্থা ফেরানো হবে">
+<!ENTITY fullScreenClose.tooltip "বন্ধ করা হবে">
+<!ENTITY fullScreenAutohide.label "টুলবার আড়াল করুন (H)">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "সম্পূর্ণ পর্দা জুড়ে প্রদর্শন থেকে প্রস্থান করুন (F)">
+<!ENTITY fullScreenExit.label "পর্দাজুড়ে প্রদর্শন থেকে প্রস্থান (F)">
 <!ENTITY fullScreenExit.accesskey "F">
 
-<!ENTITY closeWindow.label "উইন্ডো বন্ধ করুন (d)">
+<!ENTITY closeWindow.label "উইন্ডো বন্ধ (D)">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "বুকমার্ক (B)">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "চিহ্নিত পৃষ্ঠা বুকমার্ক করুন">
+<!ENTITY bookmarkThisPageCmd.label "এই পৃষ্ঠা বুকমার্ক করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY subscribeToPageMenupopup.label "বর্তমান পৃষ্ঠায় সাবস্ক্রাইব করুন">
-<!ENTITY subscribeToPageMenuitem.label "বর্তমান পৃষ্ঠায় সাবস্ক্রাইব করুন...">
-<!ENTITY addCurPagesCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
+<!ENTITY subscribeToPageMenupopup.label "সাবস্ক্রাইব করুন">
+<!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠায় সাবস্ক্রাইব করুন...">
+<!ENTITY addCurPagesCmd.label "সব ট্যাব বুকমার্ক করুন...">
 <!ENTITY organizeBookmarks.label "বুকমার্ক সুবিন্যস্ত করুন…">
-<!ENTITY bookmarkAllCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY bookmarkAllCmd.label "সব ট্যাব বুকমার্ক করুন...">
+<!ENTITY bookmarksToolbarChevron.tooltip "আরও বুকমার্ক প্রদর্শন করা হবে">
 
 <!ENTITY backCmd.label "পূর্ববর্তী (B)">
 <!ENTITY backCmd.accesskey "B">
-<!ENTITY backButton.tooltip "পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন করুন">
+<!ENTITY backButton.tooltip "পূর্ববর্তী পৃষ্ঠায় ফিরে যাবে">
 <!ENTITY forwardCmd.label "পরবর্তী (F)">
 <!ENTITY forwardCmd.accesskey "F">
-<!ENTITY forwardButton.tooltip "পরবর্তী পৃষ্ঠায় এগিয়ে চলুন">
-<!ENTITY backForwardMenu.tooltip "সম্প্রতি প্রদর্শিত পৃষ্ঠা">
-<!ENTITY reloadCmd.label "নতুন করে প্রদর্শন (R)">
+<!ENTITY forwardButton.tooltip "পরবর্তী পৃষ্ঠায় এগিয়ে যাবে">
+<!ENTITY backForwardMenu.tooltip "প্রদর্শিত পৃষ্ঠা">
+<!ENTITY reloadCmd.label "পুনরায় লোড (R)">
 <!ENTITY reloadCmd.accesskey "R">
-<!ENTITY reloadButton.tooltip "বর্তমান পৃষ্ঠা নতুন করে প্রদর্শন করা হবে">
-<!ENTITY stopCmd.label "স্থগিত করুন (S)">
+<!ENTITY reloadButton.tooltip "এই পৃষ্ঠা পুনরায় লোড করা হবে">
+<!ENTITY stopCmd.label "স্থগিত (S)">
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "বর্তমান পৃষ্ঠার লোড করা স্থগিত করুন">
-<!ENTITY goEndCap.tooltip "ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে">
-<!ENTITY printButton.label "প্রিন্ট করুন">
-<!ENTITY printButton.tooltip "বর্তমানে প্রদর্শিত পৃষ্ঠা প্রিন্ট করুন">
+<!ENTITY stopButton.tooltip "পৃষ্ঠা লোড করা স্থগিত করা হবে">
+<!ENTITY goEndCap.tooltip "ঠিকানার বারে উল্লেখিত পৃষ্ঠা প্রদর্শন করা হবে">
+<!ENTITY printButton.label "প্রিন্ট">
+<!ENTITY printButton.tooltip "এই পৃষ্ঠাটি প্রিন্ট করা হবে">
 
-<!ENTITY locationItem.title "অবস্থান">
+<!ENTITY locationItem.title "ঠিকানা">
 <!ENTITY searchItem.title "অনুসন্ধান">
-<!ENTITY throbberItem.title "কর্ম চিহ্নকারী">
+<!ENTITY throbberItem.title "ব্যস্তচিহ্ন">
 <!ENTITY bookmarksItem.title "বুকমার্ক">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label "হোম">
 
 <!ENTITY bookmarksButton.label "বুকমার্ক">
-<!ENTITY bookmarksButton.tooltip "আপনার নির্মিত বুকমার্কগুলি প্রদর্শন করুন">
+<!ENTITY bookmarksButton.tooltip "আপনার বুকমার্কগুলি দেখানো হবে">
 <!ENTITY bookmarksSidebarCmd.accesskey "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -110,27 +110,27 @@
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "ইতিহাস">
-<!ENTITY historyButton.tooltip "সম্প্রতি প্রত্যক্ষ করা পৃষ্ঠা প্রদর্শন করা হবে">
+<!ENTITY historyButton.tooltip "সম্প্রতি  প্রদর্শিত পৃষ্ঠা দেখানো হবে">
 <!ENTITY historySidebarCmd.accesskey "s">
 <!ENTITY historySidebarCmd.commandKey "h">
 
 <!ENTITY toolsMenu.label "টুল (T)">
 <!ENTITY toolsMenu.accesskey "T">
 
-<!ENTITY keywordfield.label "অনুসন্ধান করার উদ্দেশ্যে কোনো শব্দ লিখুন... (K)">
+<!ENTITY keywordfield.label "অনুসন্ধানের জন্য কোনো শব্দ লিখুন... (K)">
 <!ENTITY keywordfield.accesskey "K">
 <!ENTITY search.label "ওয়েবে অনুসন্ধান (S)">
 <!ENTITY search.accesskey "S">
 <!ENTITY downloads.label "ডাউনলোড (D)">
-<!ENTITY downloads.tooltip "চলমান ডাউনলোডের অগ্রগতি প্রদর্শন করা হবে">
+<!ENTITY downloads.tooltip "ডাউনলোডের অগ্রগতি দেখানো হবে">
 <!ENTITY downloads.accesskey "D">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
-<!ENTITY addons.label "অতিরিক্ত সামগ্রী (A)">
-<!ENTITY addons.tooltip "ইনস্টল করা অতিরিক্ত সামগ্রী প্রদর্শন ও পরিচালনা">
+<!ENTITY addons.label "এ্যাডঅন (A)">
+<!ENTITY addons.tooltip "ইনস্টল করা এ্যাডঅন প্রদর্শন ও পরিচালনা করা যাবে">
 <!ENTITY addons.accesskey "A">
 
-<!ENTITY errorConsoleCmd.label "কনসোল সমস্যা (C)">
+<!ENTITY errorConsoleCmd.label "ত্রুটি কনসোল (C)">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
@@ -148,57 +148,57 @@
 <!ENTITY redoCmd.label "পুনরাবৃত্তি (R)">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "কাট করুন (t)">
+<!ENTITY cutCmd.label "কাটুন (T)">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "কপি করুন (C)">
+<!ENTITY copyCmd.label "অনুলিপি করুন (C)">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "পেস্ট করুন (P)">
+<!ENTITY pasteCmd.label "সাঁটুন (P)">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "মুছে ফেলুন (D)">
 <!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "সমগ্র নির্বাচন করুন (A)">
+<!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY preferencesCmd.label "বিকল্প... (O)">
+<!ENTITY preferencesCmd.label "অপশন... (O)">
 <!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "বিবিধ বৈশিষ্ট্য (n)">
+<!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (N)">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearRecentHistoryCmd.label "Clear Recent History (H)">
+<!ENTITY clearRecentHistoryCmd.label "সাম্প্রতিক ইতিহাস মুছে ফেলুন (H)">
 <!ENTITY clearRecentHistoryCmd.accesskey "H">
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.start.label "Start Private Browsing">
-<!ENTITY privateBrowsingCmd.start.accesskey "B">
-<!ENTITY privateBrowsingCmd.stop.label "Stop Private Browsing">
-<!ENTITY privateBrowsingCmd.stop.accesskey "B">
+<!ENTITY privateBrowsingCmd.start.label "একান্ত ব্রাউজিং শুরু করুন (P)">
+<!ENTITY privateBrowsingCmd.start.accesskey "P">
+<!ENTITY privateBrowsingCmd.stop.label "একান্ত ব্রাউজিং বন্ধ করুন (P)">
+<!ENTITY privateBrowsingCmd.stop.accesskey "P">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 
-<!ENTITY viewMenu.label "প্রদর্শন (V)">
+<!ENTITY viewMenu.label "দৃশ্যপট (V)">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "টুলবার (T)">
 <!ENTITY viewToolbarsMenu.accesskey "T">
-<!ENTITY viewSidebarMenu.label "সাইডবার (e)">
+<!ENTITY viewSidebarMenu.label "সাইডবার (E)">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label "পছন্দ অনুযায়ী নির্বাচন... (C)">
+<!ENTITY viewCustomizeToolbar.label "স্বনির্বাচন... (C)">
 <!ENTITY viewCustomizeToolbar.accesskey "C">
 
-<!ENTITY historyMenu.label "ইতিহাস (s)">
+<!ENTITY historyMenu.label "ইতিহাস (S)">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "সম্প্রতি বন্ধ করা ট্যাব">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Recently Closed Windows">
+<!ENTITY historyUndoWindowMenu.label "সম্প্রতি বন্ধ করা উইন্ডো">
 
 <!ENTITY historyHomeCmd.label "হোম">
-<!ENTITY showAllHistoryCmd2.label "সকল পূর্ববর্তী তথ্য প্রদর্শন করা হবে">
+<!ENTITY showAllHistoryCmd2.label "পূর্ববর্তী সব ইতিহাস">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "বুকমার্ক ও পূর্ববর্তী তথ্য অনুসন্ধান করুন">
+<!ENTITY urlbar.emptyText "বুকমার্ক ও ইতিহাসে অনুসন্ধান">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Search Bookmarks and History">
 <!ENTITY urlbar.bookmark.emptyText "Search Bookmarks">
 <!ENTITY urlbar.history.emptyText "Search History">
@@ -230,107 +230,107 @@
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
-<!ENTITY openLinkCmd.label "নতুন উইন্ডোর মধ্যে লিঙ্ক প্রদর্শন করা হবে (W)">
+<!ENTITY openLinkCmd.label "নতুন উইন্ডোতে লিংক খোলা হবে(W)">
 <!ENTITY openLinkCmd.accesskey "W">
-<!ENTITY openLinkCmdInTab.label "নতুন ট্যাবের মধ্যে লিঙ্ক প্রদর্শন করা হবে (T)">
+<!ENTITY openLinkCmdInTab.label "নতুন ট্যাবে লিংক খোলা হবে (T)">
 <!ENTITY openLinkCmdInTab.accesskey "T">
-<!ENTITY openFrameCmd.label "নতুন উইন্ডোর মধ্যে ফ্রেম খোলা হবে (W)">
+<!ENTITY openFrameCmd.label "নতুন উইন্ডোতে ফ্রেম খোলা হবে (W)">
 <!ENTITY openFrameCmd.accesskey "W">
-<!ENTITY openFrameCmdInTab.label "নতুন ট্যাবের মধ্যে ফ্রেম খোলা হবে (T)">
+<!ENTITY openFrameCmdInTab.label "নতুন ট্যাবে ফ্রেম খোলা হবে (T)">
 <!ENTITY openFrameCmdInTab.accesskey "T">
-<!ENTITY showOnlyThisFrameCmd.label "শুধুমাত্র বর্তমান ফ্রেম প্রদর্শন করা হবে (S)">
+<!ENTITY showOnlyThisFrameCmd.label "শুধুমাত্র এই ফ্রেমটি দেখানো হবে (S)">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "ফ্রেম পুনরায় লোড করুন (R)">
 <!ENTITY reloadFrameCmd.accesskey "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "নির্বাচিত অংশের উৎস প্রদর্শন">
-<!ENTITY viewPartialSourceForMathMLCmd.label "MathML-র উৎস প্রদর্শন">
+<!ENTITY viewPartialSourceForSelectionCmd.label "নির্বাচিত অংশের সোর্স প্রদর্শন">
+<!ENTITY viewPartialSourceForMathMLCmd.label "MathML সোর্স প্রদর্শন">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label "পৃষ্ঠার উৎস প্রদর্শন (V)">
+<!ENTITY viewPageSourceCmd.label "পৃষ্ঠার সোর্স প্রদর্শন (V)">
 <!ENTITY viewPageSourceCmd.accesskey "V">
-<!ENTITY viewFrameSourceCmd.label "ফ্রেমের উৎস প্রদর্শন (V)">
+<!ENTITY viewFrameSourceCmd.label "ফ্রেমের সোর্স প্রদর্শন (V)">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য পড়ুন (I)">
+<!ENTITY viewPageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য (I)">
 <!ENTITY viewPageInfoCmd.accesskey "I">
-<!ENTITY viewFrameInfoCmd.label "ফ্রেম সংক্রান্ত তথ্য পড়ুন (I)">
+<!ENTITY viewFrameInfoCmd.label "ফ্রেম সংক্রান্ত তথ্য (I)">
 <!ENTITY viewFrameInfoCmd.accesskey "I">
 <!ENTITY reloadImageCmd.label "ছবি আবার লোড করুন (R)">
 <!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "ছবি প্রদর্শন (I)">
 <!ENTITY viewImageCmd.accesskey "I">
-<!ENTITY viewVideoCmd.label "ভিডিও প্রদর্শন (i)">
+<!ENTITY viewVideoCmd.label "ভিডিও প্রদর্শন (I)">
 <!ENTITY viewVideoCmd.accesskey "I">
-<!ENTITY viewBGImageCmd.label "পটভূমির ছবি প্রদর্শন (w)">
+<!ENTITY viewBGImageCmd.label "পটভূমির ছবি প্রদর্শন (W)">
 <!ENTITY viewBGImageCmd.accesskey "w">
-<!ENTITY setDesktopBackgroundCmd.label "ডেস্কটপের পটভূমি রূপে নির্ধারণ করুন...... (S)">
+<!ENTITY setDesktopBackgroundCmd.label "ডেস্কটপের পটভূমি হিসেবে নির্ধারণ করুন... (S)">
 <!ENTITY setDesktopBackgroundCmd.accesskey "S">
-<!ENTITY bookmarkPageCmd2.label "বর্তমান পৃষ্ঠা বুকমার্ক করুন (m)">
+<!ENTITY bookmarkPageCmd2.label "এই পৃষ্ঠা বুকমার্ক করুন (M)">
 <!ENTITY bookmarkPageCmd2.accesskey "m">
-<!ENTITY bookmarkThisLinkCmd.label "চিহ্নিত লিঙ্ক বুকমার্ক করুন (L)">
+<!ENTITY bookmarkThisLinkCmd.label "এই লিংক বুকমার্ক করুন (L)">
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
-<!ENTITY bookmarkThisFrameCmd.label "বর্তমান ফ্রেম বুকমার্ক করুন (m)">
+<!ENTITY bookmarkThisFrameCmd.label "এই ফ্রেম বুকমার্ক করুন (M)">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY sendPageCmd.label "লিঙ্ক প্রেরণ করুন... (e)">
+<!ENTITY sendPageCmd.label "লিংক প্রেরণ... (E)">
 <!ENTITY sendPageCmd.accesskey "e">
-<!ENTITY savePageCmd.label "নতুন নামে পৃষ্ঠা সংরক্ষণ করুন... (A)">
+<!ENTITY savePageCmd.label "পৃষ্ঠা সংরক্ষণ... (A)">
 <!ENTITY savePageCmd.accesskey "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2 "P">
 <!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameCmd.label "নতুন নামে ফ্রেম সংরক্ষণ করুন... (F)">
+<!ENTITY saveFrameCmd.label "ফ্রেম সংরক্ষণ... (F)">
 <!ENTITY saveFrameCmd.accesskey "F">
-<!ENTITY printFrameCmd.label "ফ্রেমের তথ্য প্রিন্ট করুন… (P)">
+<!ENTITY printFrameCmd.label "ফ্রেম প্রিন্ট… (P)">
 <!ENTITY printFrameCmd.accesskey "P">
-<!ENTITY saveLinkCmd.label "নতুন নামে লিঙ্ক সংরক্ষণ করুন... (k)">
+<!ENTITY saveLinkCmd.label "লিংক সংরক্ষণ... (K)">
 <!ENTITY saveLinkCmd.accesskey "k">
-<!ENTITY sendLinkCmd.label "লিঙ্ক প্রেরণ করুন... (d)">
+<!ENTITY sendLinkCmd.label "লিংক প্রেরণ... (D)">
 <!ENTITY sendLinkCmd.accesskey "d">
-<!ENTITY saveImageCmd.label "নতুন নামে ছবি সংরক্ষণ করুন... (v)">
+<!ENTITY saveImageCmd.label "ছবি সংরক্ষণ... (V)">
 <!ENTITY saveImageCmd.accesskey "v">
-<!ENTITY saveVideoCmd.label "নতুন নামে ভিডিও সংরক্ষণ করুন... (V)">
+<!ENTITY saveVideoCmd.label "ভিডিও সংরক্ষণ... (V)">
 <!ENTITY saveVideoCmd.accesskey "v">
-<!ENTITY saveAudioCmd.label "নতুন নামে অডিও সংরক্ষণ করুন... (v)">
+<!ENTITY saveAudioCmd.label "অডিও সংরক্ষণ... (V)">
 <!ENTITY saveAudioCmd.accesskey "v">
-<!ENTITY sendImageCmd.label "ছবি প্রেরণ করুন... (n)">
+<!ENTITY sendImageCmd.label "ছবি প্রেরণ... (N)">
 <!ENTITY sendImageCmd.accesskey "n">
-<!ENTITY sendVideoCmd.label "ভিডিও প্রেরণ করুন... (n)">
+<!ENTITY sendVideoCmd.label "ভিডিও প্রেরণ... (N)">
 <!ENTITY sendVideoCmd.accesskey "n">
-<!ENTITY sendAudioCmd.label "অডিও প্রেরণ করুন... (n)">
+<!ENTITY sendAudioCmd.label "অডিও প্রেরণ... (N)">
 <!ENTITY sendAudioCmd.accesskey "n">
-<!ENTITY copyLinkCmd.label "লিঙ্কের দ্বারা চিহ্নিত অবস্থান কপি করুন (a)">
+<!ENTITY copyLinkCmd.label "লিংকের ঠিকানা অনুলিপি করুন (A)">
 <!ENTITY copyLinkCmd.accesskey "a">
-<!ENTITY copyLinkTextCmd.label "লিঙ্কের জন্য প্রদর্শিত তথ্য কপি করুন (x)">
+<!ENTITY copyLinkTextCmd.label "লিংকের টেক্সট অনুলিপি করুন (X)">
 <!ENTITY copyLinkTextCmd.accesskey "x">
-<!ENTITY copyImageCmd.label "ছবির অবস্থান কপি করুন (o)">
+<!ENTITY copyImageCmd.label "ছবির ঠিকানা অনুলিপি করুন (O)">
 <!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyImageContentsCmd.label "ছবি কপি করুন (y)">
+<!ENTITY copyImageContentsCmd.label "ছবি অনুলিপি করুন (Y)">
 <!ENTITY copyImageContentsCmd.accesskey "y">
-<!ENTITY copyVideoURLCmd.label "ভিডিওর অবস্থান কপি করুন (o)">
+<!ENTITY copyVideoURLCmd.label "ভিডিওর ঠিকানা অনুলিপি করুন (O)">
 <!ENTITY copyVideoURLCmd.accesskey "o">
-<!ENTITY copyAudioURLCmd.label "অডিওর অবস্থান কপি করুন (o)">
+<!ENTITY copyAudioURLCmd.label "অডিওর ঠিকানা অনুলিপি করুন (O)">
 <!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "বৈশিষ্ট্যাবলী (P)">
 <!ENTITY metadataCmd.accesskey "P">
-<!ENTITY copyEmailCmd.label "ই-মেইল ঠিকানা কপি করুন (E)">
+<!ENTITY copyEmailCmd.label "ইমেইল ঠিকানা অনুলিপি করুন (E)">
 <!ENTITY copyEmailCmd.accesskey "E">
-<!ENTITY thisFrameMenu.label "বর্তমান ফ্রেম (h)">
+<!ENTITY thisFrameMenu.label "এই ফ্রেম (H)">
 <!ENTITY thisFrameMenu.accesskey "h">
 <!-- Media (video/audio) controls -->
 
-<!ENTITY mediaPlay.label "চালান (P)">
+<!ENTITY mediaPlay.label "বাজান (P)">
 <!ENTITY mediaPlay.accesskey "P">
 <!ENTITY mediaPause.label "বিরতি (P)">
 <!ENTITY mediaPause.accesskey "P">
-<!ENTITY mediaMute.label "শব্দ বন্ধ করুন (M)">
+<!ENTITY mediaMute.label "শব্দ বন্ধ (M)">
 <!ENTITY mediaMute.accesskey "M">
-<!ENTITY mediaUnmute.label "শব্দ চালু করুন (m)">
+<!ENTITY mediaUnmute.label "শব্দ চালু (M)">
 <!ENTITY mediaUnmute.accesskey "m">
-<!ENTITY mediaShowControls.label "নিয়ন্ত্রন প্রদর্শন করুন (C)">
+<!ENTITY mediaShowControls.label "কন্ট্রোলসমূহ প্রদর্শন করুন (C)">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label "নিয়ন্ত্রন লুকান (C)">
+<!ENTITY mediaHideControls.label "কন্ট্রোলসমূহ আড়াল করুন (C)">
 <!ENTITY mediaHideControls.accesskey "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -340,37 +340,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY fullZoomEnlargeCmd.label "বড় মাপে প্রদর্শন (I)">
+<!ENTITY fullZoomEnlargeCmd.label "আরও বড় আকারে (I)">
 <!ENTITY fullZoomEnlargeCmd.accesskey "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "_: fullZoomEnlargeCmd.commandkey3">
 
-<!ENTITY fullZoomReduceCmd.label "ছোট মাপে প্রদর্শন (O)">
+<!ENTITY fullZoomReduceCmd.label "আরও ছোট আকারে (O)">
 <!ENTITY fullZoomReduceCmd.accesskey "O">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 
-<!ENTITY fullZoomResetCmd.label "স্বাভাবিক অবস্থা (R)">
+<!ENTITY fullZoomResetCmd.label "স্বাভাবিক আকার (R)">
 <!ENTITY fullZoomResetCmd.accesskey "R">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 
-<!ENTITY fullZoomToggleCmd.label "শুধুমাত্র লেখা প্রদর্শিত হবে (T)">
+<!ENTITY fullZoomToggleCmd.label "শুধুমাত্র লেখার মাপ পরিবর্তন করা হবে (T)">
 <!ENTITY fullZoomToggleCmd.accesskey "T">
-<!ENTITY fullZoom.label "প্রদর্শনের মাপ (Z)">
+<!ENTITY fullZoom.label "প্রদর্শনের আকার (Z)">
 <!ENTITY fullZoom.accesskey "Z">
 
-<!ENTITY newTabButton.tooltip "Open a new tab">
-<!ENTITY newWindowButton.tooltip "নতুন উইন্ডো খুলুন">
-<!ENTITY sidebarCloseButton.tooltip "সাইডবার বন্ধ করুন">
+<!ENTITY newTabButton.tooltip "নতুন ট্যাব খোলা হবে">
+<!ENTITY newWindowButton.tooltip "নতুন উইন্ডো খোলা হবে">
+<!ENTITY sidebarCloseButton.tooltip "সাইডবার বন্ধ করা হবে">
 
-<!ENTITY cutButton.tooltip "কাট করুন">
-<!ENTITY copyButton.tooltip "কপি করুন">
-<!ENTITY pasteButton.tooltip "পেস্ট করুন">
+<!ENTITY cutButton.tooltip "কাটা হবে">
+<!ENTITY copyButton.tooltip "অনুলিপি করা হবে">
+<!ENTITY pasteButton.tooltip "সাঁটা হবে">
 
-<!ENTITY quitApplicationCmdWin.label "প্রস্থান (x)">
+<!ENTITY quitApplicationCmdWin.label "প্রস্থান (X)">
 <!ENTITY quitApplicationCmdWin.accesskey "x">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -383,34 +383,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
 
-<!ENTITY pageStyleMenu.label "পৃষ্ঠার বিন্যাস (y)">
+<!ENTITY pageStyleMenu.label "পৃষ্ঠার বিন্যাস (Y)">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "বিন্যাস বিহীন (N)">
+<!ENTITY pageStyleNoStyle.label "বিন্যাসবিহীন (N)">
 <!ENTITY pageStyleNoStyle.accesskey "n">
-<!ENTITY pageStylePersistentOnly.label "পৃষ্ঠার মৌলিক বিন্যাস (B)">
+<!ENTITY pageStylePersistentOnly.label "মৌলিক বিন্যাস (B)">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip "বর্তমান ওয়েব-সাইটে পপ-আপ উইন্ডো প্রদর্শন রোধ করার জন্য নির্ধারিত বৈশিষ্ট্য পরিবর্তন করুন">
+<!ENTITY pageReportIcon.tooltip "এই সাইটের পপ-আপ উইন্ডো সংক্রান্ত বৈশিষ্ট্য পরিবর্তন করা হবে">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "পপ-আপ প্রদর্শন রোধ সংক্রান্ত পছন্দ সম্পাদন করুন...">
-<!ENTITY editPopupSettings.label "পপ-আপ প্রদর্শন রোধ সংক্রান্ত বিকল্প সম্পাদন করুন... (E)">
+<!ENTITY editPopupSettingsUnix.label "পপ-আপ রোধ সংক্রান্ত পছন্দসমূহ...">
+<!ENTITY editPopupSettings.label "পপ-আপ রোধ সংক্রান্ত অপশন... (E)">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label "পৃষ্ঠার দিশা পরিবর্তন করুন (g)">
+<!ENTITY bidiSwitchPageDirectionItem.label "পৃষ্ঠার দিশা পরিবর্তন করুন (G)">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
-<!ENTITY bidiSwitchTextDirectionItem.label "লেখনির দিশা পরিবর্তন করুন (w)">
+<!ENTITY bidiSwitchTextDirectionItem.label "টেক্সটের দিশা পরিবর্তন করুন (W)">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
-<!ENTITY findOnCmd.label "বর্তমান পৃষ্ঠায় অনুসন্ধান... (F)">
+<!ENTITY findOnCmd.label "এই পৃষ্ঠায় অনুসন্ধান... (F)">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "পুনরায় অনুসন্ধান করুন (g)">
+<!ENTITY findAgainCmd.label "পুনরায় অনুসন্ধান (G)">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
@@ -418,7 +418,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "অভিধান যোগ করুন... (A)">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label "সমাপ্ত">
+<!ENTITY editBookmark.done.label "সম্পন্ন">
 <!ENTITY editBookmark.cancel.label "বাতিল">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "পূর্বাবস্থা (U)">
@@ -426,8 +426,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.edit.label "সম্পাদনা… (E)">
 <!ENTITY editBookmark.edit.accessKey "E">
 
-<!ENTITY identity.unverifiedsite2 "এই ওয়েব-সাইট দ্বারা নিজের পরিচিতি সম্পর্কে কোনো তথ্য উপলব্ধ করা হয় না।">
-<!ENTITY identity.connectedTo "চিহ্নিত সাইটের সাথে সংযোগ স্থাপিত হয়েছে">
+<!ENTITY identity.unverifiedsite2 "এই ওয়েবসাইটি নিজের পরিচয় সংক্রান্ত কোন তথ্য দেয় না।">
+<!ENTITY identity.connectedTo "আপনি এই সাইটের সাথে সংযুক্ত">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -439,10 +439,10 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "এটি সঞ্চালনকারী">
+<!ENTITY identity.runBy "উপরোক্ত সাইটটির পরিচালক ">
 
-<!ENTITY identity.moreInfoLinkText "অধিক বিবরণ…">
+<!ENTITY identity.moreInfoLinkText "আরও তথ্য…">
 
 <!ENTITY downloadMonitor2.tooltip "ডাউনলোড উইন্ডো খুলতে ক্লিক করুন">
 
-<!ENTITY ctrlTab.search.emptyText "অনুসন্ধানের ট্যাব">
+<!ENTITY ctrlTab.search.emptyText "ট্যাবে অনুসন্ধান">
