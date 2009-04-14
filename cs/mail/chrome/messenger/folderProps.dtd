@@ -54,7 +54,9 @@
 <!ENTITY retentionUseDefault.accesskey "v">
 <!ENTITY daysOld.label "dny(ů)">
 <!ENTITY message.label "zprávy">
-<!ENTITY retentionCleanup.label "Pro ušetření místa na disku lze staré zprávy automaticky mazat">
+<!ENTITY retentionCleanup.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy.">
+<!ENTITY retentionCleanupImap.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy, jak místní kopie, tak originály na vzdáleném serveru.">
+<!ENTITY retentionCleanupPop.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy, včetně originálů na vzdáleném serveru.">
 <!ENTITY retentionDeleteMsg.label "Smazat zprávy starší než">
 <!ENTITY retentionDeleteMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
@@ -66,13 +68,12 @@
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
 
-
-<!ENTITY folderOfflineTab.label "Režim offline">
+<!ENTITY folderSynchronizationTab.label "Synchronizace">
 <!ENTITY folderCheckForNewMessages.label "Kontrolovat tuto složku na nové zprávy">
 <!ENTITY folderCheckForNewMessages.accesskey "K">
 
 <!ENTITY offlineFolder.check.label "Označte tuto složku pro použití v režimu offline">
-<!ENTITY offlineFolder.check.accesskey "s">
+<!ENTITY offlineFolder.check.accesskey "O">
 <!ENTITY offlineFolder.button.label "Stáhnout nyní">
 <!ENTITY offlineFolder.button.accesskey "S">
 

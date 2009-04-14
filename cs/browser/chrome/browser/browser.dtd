@@ -279,7 +279,7 @@
 <!ENTITY savePageCmd.accesskey2 "j">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameCmd.label "Uložit rám jako…">
-<!ENTITY saveFrameCmd.accesskey "j">
+<!ENTITY saveFrameCmd.accesskey "r">
 <!ENTITY printFrameCmd.label "Tisknout rám…">
 <!ENTITY printFrameCmd.accesskey "T">
 <!ENTITY saveLinkCmd.label "Uložit odkaz jako…">

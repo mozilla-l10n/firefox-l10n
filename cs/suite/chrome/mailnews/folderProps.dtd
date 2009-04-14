@@ -42,9 +42,9 @@
 
 <!ENTITY generalInfo.label "Obecné informace">
 <!ENTITY folderCharsetTab.label "Výchozí znaková sada:">
-<!ENTITY folderCharsetTab.accesskey "S">
+<!ENTITY folderCharsetTab.accesskey "s">
 <!ENTITY folderCharsetOverride.label "Použít výchozí nastavení pro všechny zprávy (ignorovat znakovou sadu specifikovanou v MIME hlavičce)">
-<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderCharsetOverride.accesskey "a">
 <!ENTITY folderRebuildSummaryFile.label "Přeindexovat">
 <!ENTITY folderRebuildSummaryFile.accesskey "P">
 <!ENTITY folderRebuildSummaryFileTip.label "Obnoví indexový soubor">
@@ -54,7 +54,9 @@
 <!ENTITY retentionUseDefault.accesskey "v">
 <!ENTITY daysOld.label "dny(ů)">
 <!ENTITY message.label "zpráv(y)">
-<!ENTITY retentionCleanup.label "Pro získání více místa na disku lze staré zprávy automaticky mazat">
+<!ENTITY retentionCleanup.label "Uchovávat zprávy:">
+<!ENTITY retentionCleanupImap.label "Uchovávat zprávy, both the local copies and their originals on the server:">
+<!ENTITY retentionCleanupPop.label "chovávat zprávy, including their originals on the server:">
 <!ENTITY retentionDeleteMsg.label "Smazat zprávy starší než">
 <!ENTITY retentionDeleteMsg.accesskey "s">
 <!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
@@ -62,28 +64,28 @@
 <!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">
 <!ENTITY retentionKeepNew.accesskey "m">
 <!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
-<!ENTITY retentionKeepUnread.accesskey "v">
+<!ENTITY retentionKeepUnread.accesskey "V">
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
 
-<!ENTITY folderOfflineTab.label "Režim offline">
+<!ENTITY folderSynchronizationTab.label "Synchronizace">
 <!ENTITY folderCheckForNewMessages.label "Kontrolovat tuto složku na nové zprávy">
 <!ENTITY folderCheckForNewMessages.accesskey "K">
 
 <!ENTITY offlineFolder.check.label "Označte tuto složku pro použití v režimu offline">
-<!ENTITY offlineFolder.check.accesskey "S">
+<!ENTITY offlineFolder.check.accesskey "O">
 <!ENTITY offlineFolder.button.label "Stáhnout nyní">
 <!ENTITY offlineFolder.button.accesskey "S">
 
 <!ENTITY selectofflineNewsgroup.check.label "Označte tuto diskusní skupinu pro použití v režimu offline">
-<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY selectofflineNewsgroup.check.accesskey "O">
 <!ENTITY offlineNewsgroup.button.label "Stáhnout nyní">
 <!ENTITY offlineNewsgroup.button.accesskey "S">
 
 <!ENTITY folderProps.name.label "Název:">
 <!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderProps.location.label "Umístění:">
-<!ENTITY folderProps.location.accesskey "U">
+<!ENTITY folderProps.location.label "Adresa:">
+<!ENTITY folderProps.location.accesskey "A">
 
 <!ENTITY folderSharingTab.label "Sdílení">
 <!ENTITY privileges.button.label "Privilegia…">

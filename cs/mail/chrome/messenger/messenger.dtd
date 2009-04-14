@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "U">
 <!ENTITY newAccountCmd.label "Účet…">
 <!ENTITY newAccountCmd.accesskey "t">
+<!ENTITY newMailAccountCmd.label "Poštovní účet (rychlé nastavení)…">
+<!ENTITY newMailAccountCmd.accesskey "r">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Přílohy">

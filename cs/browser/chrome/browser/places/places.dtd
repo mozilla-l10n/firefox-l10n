@@ -15,12 +15,12 @@
 <!ENTITY views.accesskey "Z">
 <!ENTITY view.toolbar.label "Nástrojové lišty">
 <!ENTITY view.toolbar.accesskey "N">
-<!ENTITY view.columns.label "Zobrazit sloupce">
-<!ENTITY view.columns.accesskey "Z">
-<!ENTITY view.sort.label "Seřadit podle sloupce">
-<!ENTITY view.sort.accesskey "T">
+<!ENTITY view.columns.label "Zobrazené sloupce">
+<!ENTITY view.columns.accesskey "b">
+<!ENTITY view.sort.label "Řazení položek">
+<!ENTITY view.sort.accesskey "z">
 <!ENTITY view.unsorted.label "Neřadit">
-<!ENTITY view.unsorted.accesskey "N">
+<!ENTITY view.unsorted.accesskey "e">
 <!ENTITY view.sortAscending.label "Vzestupně">
 <!ENTITY view.sortAscending.accesskey "V">
 <!ENTITY view.sortDescending.label "Sestupně">
@@ -137,7 +137,7 @@
 <!ENTITY search.label "Hledat:">
 <!ENTITY search.accesskey "H">
 <!ENTITY search.scopeFolder.label "Zvolená složka">
-<!ENTITY search.scopeFolder.accesskey "Z">
+<!ENTITY search.scopeFolder.accesskey "v">
 <!ENTITY search.scopeBookmarks.label "Záložky">
 <!ENTITY search.scopeBookmarks.accesskey "Z">
 <!ENTITY search.scopeDownloads.label "Stažené soubory">
@@ -197,11 +197,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label "Zpět">
-<!ENTITY backCmd.accesskey "Z">
 <!ENTITY backButton.tooltip "Přejde zpět">
 
 <!ENTITY forwardCmd.label "Vpřed">
-<!ENTITY forwardCmd.accesskey "V">
 <!ENTITY forwardButton.tooltip "Přejde vpřed">
 
 <!ENTITY detailsPane.more.label "Více">

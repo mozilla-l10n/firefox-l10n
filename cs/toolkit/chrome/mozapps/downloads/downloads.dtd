@@ -26,7 +26,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.label "Opakovat">
 <!ENTITY cmd.retry.accesskey "p">
 <!ENTITY cmd.goToDownloadPage.label "Přejít na stránku stahování">
-<!ENTITY cmd.goToDownloadPage.accesskey "j">
+<!ENTITY cmd.goToDownloadPage.accesskey "e">
 <!ENTITY cmd.copyDownloadLink.label "Kopírovat stahovaný odkaz">
 <!ENTITY cmd.copyDownloadLink.accesskey "K">
 <!ENTITY cmd.removeFromList.label "Odebrat ze seznamu">
