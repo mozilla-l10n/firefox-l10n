@@ -7,7 +7,7 @@
 <!-- ### #!# ENTITY plugins.enabled.description               "Makes websites annoying" -->
 <!ENTITY privacy.title                             "פרטיות ואבטחה">
 <!ENTITY network.cookie.cookieBehavior.title       "הצג עוגיות">
-<!-- ### #!# Internal joke goes here. :) ENTITY network.cookie.cookieBehavior.description "Delicious delicacies">
+<!-- ### #!# Internal joke goes here. :) ENTITY network.cookie.cookieBehavior.description "Delicious delicacies"-->
 <!ENTITY clear.private.data.title                  "מחק מידע פרטי">
 <!ENTITY clear.private.data.button                 "מחק…">
 <!-- ### #!# ENTITY clear.private.data.description            "Saves your hide" -->
