@@ -75,6 +75,8 @@
 <!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
+
 
 
 <!ENTITY  cookies.label                 "कुकीज">

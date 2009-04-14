@@ -183,6 +183,10 @@
 <!ENTITY advancedSearch.sortby_desc.label          "अवरोही">
 <!ENTITY advancedSearch.max.label                  "अधिकतम परिणाम: ">
 
+<!ENTITY search.scopeBookmarks.label               "Bookmarks">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
+
+
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY feed.subscribe.label    "फ़ीड">
