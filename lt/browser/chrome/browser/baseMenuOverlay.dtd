@@ -61,7 +61,6 @@
 <!ENTITY helpReleaseNotes.label         "Laidos informacija">
 <!ENTITY helpReleaseNotes.accesskey     "L">
 <!ENTITY updateCmd.label                "Tikrinti ar yra naujinimų…">
-<!ENTITY updateCmd.accesskey            "T">
 
 <!ENTITY preferencesCmdMac.label        "Nuostatos…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
