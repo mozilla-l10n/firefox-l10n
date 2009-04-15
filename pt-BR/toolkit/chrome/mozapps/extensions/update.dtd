@@ -25,7 +25,7 @@
 <!ENTITY  noupdates.wizard.title          "Não encontradas extensões ou temas compatíveis">
 <!ENTITY  noupdates.intro.desc            "O &brandShortName; não pôde localizar atualizações para as extensões e temas incompatíveis.">
 <!ENTITY  noupdates.error.desc            "Alguns problemas foram encontrados ao tentar localizar atualizações.">
-<!ENTITY  noupdates.checkEnabled.desc     "O &brandShortName; verificará periodicamente e notificará você quando encontrar atualizações compatíveis deste complementos.">
+<!ENTITY  noupdates.checkEnabled.desc     "O &brandShortName; verificará periodicamente e notificará você quando encontrar atualizações compatíveis destes complementos.">
 
 <!ENTITY  finished.wizard.title           "Instaladas extensões e temas compatíveis">
 <!ENTITY  finished.top.label              "O &brandShortName; instalou as atualizações das extensões e temas.">

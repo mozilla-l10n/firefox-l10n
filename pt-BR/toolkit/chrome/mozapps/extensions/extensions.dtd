@@ -110,7 +110,7 @@
 
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "Não fornece um método seguro de atualização.">
-<!ENTITY needsDependencies.label          "Necessita itens adicionais.">
+<!ENTITY needsDependencies.label          "Necessita de itens adicionais.">
 <!ENTITY blocklisted.label                "Desativado para sua proteção.">
 <!ENTITY softBlocklisted.label            "Sabida causa de problemas de segurança ou estabilidade.">
 <!ENTITY toBeDisabled.label               "Este complemento será desativado quando o &brandShortName; for reiniciado.">
