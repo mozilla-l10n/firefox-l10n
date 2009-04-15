@@ -12,10 +12,7 @@
                                            &brandShortName; ਦੇ ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਦੀ ਚੋਣ ਕਰੋ।">
 
 <!ENTITY  manualUpdate.title              "ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਅਸਮੱਰਥ">
-<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
-                                           not have the system permissions required to install it. Please contact your
-                                           system administrator, or try again from an account that has permission to
-                                           install software on this computer.">
+<!ENTITY  manualUpdate.desc               "ਇੱਕ ਸਿਫਾਰਸ਼ੀ ਸੁਰੱਖਿਆ ਅਤੇ ਸਥਿਰਤਾ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ, ਪਰ ਇਹ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਸਿਸਟਮ-ਅਧਿਕਾਰਾਂ ਦੀ ਲੋੜ ਹੈ। ਆਪਣੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜਾਂ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨਯੋਗ ਅਧਿਕਾਰਾਂ ਵਾਲੇ ਅਕਾਊਂਟ ਨਾਲ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।">
 <!ENTITY  manualUpdateGetMsg.label        "ਤੁਸੀਂ &brandShortName; ਨਵਾਂ ਵਰਜਨ ਹਮੇਸ਼ਾਂ ਇੱਥੋ ਲੈ ਸਕਦੇ ਹੋ:">
 
 <!ENTITY  incompatibleCheck.title         "ਐਡ-ਆਨ ਕੰਪੈਟੇਬਿਲਟੀ ਚੈੱਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ">
@@ -41,7 +38,7 @@
 
 <!ENTITY  downloading.title               "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ:">
 <!ENTITY  downloading.intro               "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ...">
-<!ENTITY  connecting.label                "ਅੱਪਡੇਟ ਸਰਵਰ ਨਾਲ ਜੁੜਿਆ ਜਾ ਰਿਹਾ ਹੈ...">
+<!ENTITY  connecting.label                "ਅੱਪਡੇਟ ਸਰਵਰ ਨਾਲ ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ਇਸ ਰਾਹੀਂ ਡਾਊਨਲੋਡ ਕੀਤੇ ਲਗਾਤਾਰ ਅੱਪਡੇਟ ਦੀ ਇਕਸਾਰਤਾ ਚੈਕ ਕਰਨ ਲਈ ਫੇਲ੍ਹ ਹੋਇਆ ਹੈ, ਸੋ ਹੁਣ ਪੂਰਾ ਅੱਪਡੇਟ ਪੈਕੇਜ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।">
 
 <!ENTITY  viewDetails.tooltip             "ਇਸ ਅੱਪਡੇਟ ਲਈ ਵੇਰਵਾ ਵੇਖੋ">
