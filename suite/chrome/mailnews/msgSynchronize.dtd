@@ -1,19 +1,17 @@
-<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
-
-<!ENTITY MsgSynchronize.label "Download and Sync Messages">
-<!ENTITY MsgSelect.label "Items for Offline Use">
-<!ENTITY MsgSyncDesc.label "If you have already selected mail folders or newsgroups for offline use, you can download and/or sync them now. Otherwise, use the &quot;Select&quot; button to choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSyncDirections.label "Download and/or sync the following:">
-<!ENTITY syncTypeMail.label "Mail messages">
-<!ENTITY syncTypeMail.accesskey "M">
-<!ENTITY syncTypeNews.label "Newsgroup messages">
-<!ENTITY syncTypeNews.accesskey "N">
-<!ENTITY sendMessage.label "Send Unsent messages">
-<!ENTITY sendMessage.accesskey "S">
-<!ENTITY workOffline.label "Work offline once download and/or sync is complete">
-<!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "Select…">
-<!ENTITY selectButton.accesskey "E">
-<!ENTITY MsgSelectDesc.label "Choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSelectInd.label "Download">
-<!ENTITY MsgSelectItems.label "Folders and Newsgroups">
+<!ENTITY MsgSynchronize.label "Завантажити і синхронізувати повідомлення">
+<!ENTITY MsgSelect.label "Елементи для автономної роботи">
+<!ENTITY MsgSyncDesc.label "Якщо ви вже вибрали теки пошти або конференції для автономної роботи, ви можете завантажити і/або синхронізувати їх. Інакше натисніть кнопку «Вибрати», щоб вибрати теки пошти і конференції для автономної роботи.">
+<!ENTITY MsgSyncDirections.label "Завантажити і/або синхронізувати наступне:">
+<!ENTITY syncTypeMail.label "Поштові повідомлення">
+<!ENTITY syncTypeMail.accesskey "П">
+<!ENTITY syncTypeNews.label "Повідомлення конференцій">
+<!ENTITY syncTypeNews.accesskey "П">
+<!ENTITY sendMessage.label "Відіслати невідіслані повідомлення">
+<!ENTITY sendMessage.accesskey "В">
+<!ENTITY workOffline.label "Перейти в автономний режим після закінчення завантаження і/або синхронізації">
+<!ENTITY workOffline.accesskey "П">
+<!ENTITY selectButton.label "Вибрати…">
+<!ENTITY selectButton.accesskey "В">
+<!ENTITY MsgSelectDesc.label "Виберіть теки пошти і конференцій, які б ви хотіли завантажити для автономної роботи.">
+<!ENTITY MsgSelectInd.label "Завантажити">
+<!ENTITY MsgSelectItems.label "Теки і конференції">

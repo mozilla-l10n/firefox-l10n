@@ -1,36 +1,31 @@
-
-<!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "Search for messages in:">
-<!ENTITY searchHeading.accesskey     "h">
-<!ENTITY searchSubfolders.label      "Search subfolders">
-<!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY searchLocalSystem.label     "Search local system">
+<!ENTITY searchHeading.label "Шукати в повідомленнях у:">
+<!ENTITY searchHeading.accesskey "Ш">
+<!ENTITY searchSubfolders.label "Шукати у вкладених теках">
+<!ENTITY searchSubfolders.accesskey "Ш">
+<!ENTITY searchLocalSystem.label "Search local system">
 <!ENTITY searchLocalSystem.accesskey "y">
-<!ENTITY resetButton.label           "Clear">
-<!ENTITY resetButton.accesskey       "C">
-<!ENTITY helpButton.label            "Help">
-<!ENTITY helpButton.accesskey        "l">
-<!ENTITY openButton.label            "Open">
-<!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "Delete">
-<!ENTITY deleteButton.accesskey      "D">
-<!ENTITY searchDialogTitle.label     "Search Messages">
-<!ENTITY results.label               "Results">
-<!ENTITY fileHereMenu.label          "File Here">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "File">
-<!ENTITY fileButton.accesskey        "i">
-<!ENTITY goToFolderButton.label      "Open Message Folder">
-<!ENTITY goToFolderButton.accesskey  "r">
-<!ENTITY saveAsVFButton.label      "Save as Search Folder">
-<!ENTITY saveAsVFButton.accesskey  "a">
-
-<!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label       "Search in:">
-<!ENTITY abSearchHeading.accesskey   "h">
-<!ENTITY propertiesButton.label      "Properties">
-<!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "Compose">
-<!ENTITY composeButton.accesskey     "e">
-<!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
-
+<!ENTITY resetButton.label "Очистити">
+<!ENTITY resetButton.accesskey "О">
+<!ENTITY helpButton.label "Довідка">
+<!ENTITY helpButton.accesskey "Д">
+<!ENTITY openButton.label "Відкрити">
+<!ENTITY openButton.accesskey "В">
+<!ENTITY deleteButton.label "Вилучити">
+<!ENTITY deleteButton.accesskey "В">
+<!ENTITY searchDialogTitle.label "Пошук повідомлень…">
+<!ENTITY results.label "Результати">
+<!ENTITY fileHereMenu.label "Помістити сюди">
+<!ENTITY fileHereMenu.accesskey "П">
+<!ENTITY fileButton.label "Помістити">
+<!ENTITY fileButton.accesskey "П">
+<!ENTITY goToFolderButton.label "Відкрити теку повідомлень">
+<!ENTITY goToFolderButton.accesskey "В">
+<!ENTITY saveAsVFButton.label "Зберегти як віртуальну теку">
+<!ENTITY saveAsVFButton.accesskey "З">
+<!ENTITY abSearchHeading.label "Шукати в:">
+<!ENTITY abSearchHeading.accesskey "Ш">
+<!ENTITY propertiesButton.label "Властивості">
+<!ENTITY propertiesButton.accesskey "В">
+<!ENTITY composeButton.label "Compose">
+<!ENTITY composeButton.accesskey "e">
+<!ENTITY abSearchDialogTitle.label "Розширений режим пошуку в адресній книзі">

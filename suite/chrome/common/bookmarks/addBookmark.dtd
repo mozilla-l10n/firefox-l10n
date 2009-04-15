@@ -36,12 +36,12 @@
    - ***** END LICENSE BLOCK ***** -->
   
 <!ENTITY newBookmark.title          "Закладка">
-<!ENTITY selectFolder.title         "Вибрати теку">
+<!ENTITY selectFolder.title         "Виберіть теку">
 <!ENTITY name.label                 "Назва:">
 <!ENTITY name.accesskey             "Н">
 <!ENTITY url.label                  "Адреса:">
 <!ENTITY url.accesskey              "А">
-<!ENTITY shortcutURL.label          "Ключова фраза:">
+<!ENTITY shortcutURL.label          "Скорочення:">
 <!ENTITY shortcutURL.accesskey      "К">
 <!ENTITY destination.label          "Розміщення:">
 <!ENTITY newFolder.label            "Нова тека…">

@@ -19,6 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -33,22 +34,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY window.title.label          "Edit Categories">
-<!ENTITY allengines.label            "All Engines">
-<!ENTITY engine.column.label         "Engines for this Category">
-<!ENTITY category.label              "Category">
-<!ENTITY category.accesskey          "c">
-<!ENTITY done.label                  "Done">
-
-<!ENTITY add.label                   "Add">
-<!ENTITY add.accesskey               "a">
-<!ENTITY remove.label                "Remove">
-<!ENTITY remove.accesskey            "r">
-
-<!ENTITY new.category.label          "New…">
-<!ENTITY new.category.accesskey      "n">
-<!ENTITY rename.category.label       "Rename…">
-<!ENTITY rename.category.accesskey   "e">
-<!ENTITY remove.category.label       "Delete">
-<!ENTITY remove.category.accesskey   "d">
+<!ENTITY window.title.label "Edit Categories">
+<!ENTITY allengines.label "All Engines">
+<!ENTITY engine.column.label "Engines for this Category">
+<!ENTITY category.label "Категорія">
+<!ENTITY category.accesskey "К">
+<!ENTITY done.label "Готово">
+<!ENTITY add.label "Додати">
+<!ENTITY add.accesskey "Д">
+<!ENTITY remove.label "Вилучити">
+<!ENTITY remove.accesskey "В">
+<!ENTITY new.category.label "Створити…">
+<!ENTITY new.category.accesskey "С">
+<!ENTITY rename.category.label "Перейменувати…">
+<!ENTITY rename.category.accesskey "П">
+<!ENTITY remove.category.label "Вилучити">
+<!ENTITY remove.category.accesskey "В">
