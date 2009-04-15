@@ -1,0 +1,19 @@
+<!ENTITY about.version                "সংস্কৰণ">
+
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2009 by">
+<!ENTITY about.copy.linkTitle         "contributors">
+<!ENTITY about.copy.afterLink         "to the Mozilla Project.">
+
+<!ENTITY about.license.beforeLink     "এই উৎপাদনৰ কাৰণে">
+<!ENTITY about.license.linkTitle      "লাচেঞ্চৰ তথ্য">
+<!ENTITY about.license.afterLink      "পঢ়ক ।">
+
+<!ENTITY about.relnotes.beforeLink    "এই সংস্কৰণৰ কাৰণে">
+<!ENTITY about.relnotes.linkTitle     "মুক্তিৰ টোকা">
+<!ENTITY about.relnotes.afterLink     "পঢ়ক ।">
+
+<!ENTITY about.buildconfig.beforeLink "এই সংস্কৰণত ব্যৱহৃত">
+<!ENTITY about.buildconfig.linkTitle  "বিল্ড বিন্যাস">
+<!ENTITY about.buildconfig.afterLink  "চাওক ।">
+
+<!ENTITY about.buildIdentifier        "Build identifier: ">
