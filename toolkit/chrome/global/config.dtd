@@ -79,5 +79,4 @@
 <!ENTITY boolean.label "Логічне">
 <!ENTITY boolean.accesskey "о">
 
-<!-- FIXME: localize -->
 <!ENTITY focusFilter.key "f">
