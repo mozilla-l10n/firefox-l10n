@@ -1,6 +1,6 @@
 <!ENTITY history.label "Zgodovina">
 
-<!ENTITY  locationBar.label             "Location Bar">
+<!ENTITY  locationBar.label             "Vrstica z naslovom">
 
 <!ENTITY  locbar.pre.label              "Pri uporabi vrstice z naslovom predlagaj:">
 <!ENTITY  locbar.pre.accessKey          "l">
@@ -57,33 +57,33 @@
 <!ENTITY clearDataSettings.label "Nastavitve ...">
 <!ENTITY clearDataSettings.accesskey "n">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; naj:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.remember.label     "Remember history">
-<!ENTITY  historyHeader.dontremember.label "Never remember history">
-<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
+<!ENTITY  historyHeader.remember.label     "Shranjuje zgodovino">
+<!ENTITY  historyHeader.dontremember.label "Ne shranjuje zgodovine">
+<!ENTITY  historyHeader.custom.label       "Uporablja posebne nastavitve za zgodovino">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from Web sites you visit.">
+<!ENTITY  rememberDescription.label      "&brandShortName; si bo zapomnil zgodovino brskanja, prenosov, obrazcev in iskanja ter shranil piškote spletnih strani, ki jih obiščete.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "You may want to ">
-<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
-<!ENTITY  rememberActions.middle.label        ", or ">
-<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
+<!ENTITY  rememberActions.pre.label           "Morda želite ">
+<!ENTITY  rememberActions.clearHistory.label  "počistiti nedavno zgodovino">
+<!ENTITY  rememberActions.middle.label        "ali ">
+<!ENTITY  rememberActions.removeCookies.label "odstraniti posamezne piškote">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
-<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+<!ENTITY  dontrememberActions.pre.label          "Morda želite ">
+<!ENTITY  dontrememberActions.clearHistory.label "počistiti vso trenutno zgodovino">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Automatically start &brandShortName; in a private browsing session">
+<!ENTITY  privateBrowsingAutoStart.label "Samodejno zaženi &brandShortName; v seji za zasebno brskanje">
 <!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
 <!-- LOCALIZATION NOTE:
@@ -92,20 +92,20 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "Remember my browsing history for at least">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "days">
+<!ENTITY  rememberHistory.pre.label      "Zgodovino brskanja shranjuj najmanj">
+<!ENTITY  rememberHistory.pre.accesskey  "Z">
+<!ENTITY  rememberHistory.post.label     "dni">
 
-<!ENTITY  rememberDownload.label         "Remember download history">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberDownload.label         "Shranjuj zgodovino prenosov">
+<!ENTITY  rememberDownload.accesskey     "p">
 
-<!ENTITY  rememberSearchForm.label       "Remember search and form history">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.label       "Shranjuj zgodovino iskanja in obrazcev">
+<!ENTITY  rememberSearchForm.accesskey   "i">
 
-<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.label             "Počisti zgodovino ob izhodu iz programa &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "i">
 
-<!ENTITY  clearOnCloseSettings.label     "Settings…">
+<!ENTITY  clearOnCloseSettings.label     "Nastavitve…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY clearDataNow.label "Počisti zdaj ...">

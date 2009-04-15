@@ -189,9 +189,9 @@
 
 <!ENTITY historyMenu.label "Zgodovina">
 <!ENTITY historyMenu.accesskey "i">
-<!ENTITY historyUndoMenu.label "Pred kratkim zaprti zavihki">
+<!ENTITY historyUndoMenu.label "Nedavno zaprti zavihki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Recently Closed Windows">
+<!ENTITY historyUndoWindowMenu.label "Nedavno zaprta okna">
 
 <!ENTITY historyHomeCmd.label "Domov">
 <!ENTITY showAllHistoryCmd2.label "Prikaži vso zgodovino">
@@ -199,10 +199,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Iskanje po zaznamkih in zgodovini">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Search Bookmarks and History">
-<!ENTITY urlbar.bookmark.emptyText    "Search Bookmarks">
-<!ENTITY urlbar.history.emptyText     "Search History">
-<!ENTITY urlbar.none.emptyText        "Type a Web address">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Iskanje po zaznamkih in zgodovini">
+<!ENTITY urlbar.bookmark.emptyText    "Iskanje po zaznamkih">
+<!ENTITY urlbar.history.emptyText     "Iskanje po zgodovini">
+<!ENTITY urlbar.none.emptyText        "Vnesite spletni naslov">
 <!ENTITY urlbar.accesskey "d">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -361,7 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Povečevanje">
 <!ENTITY fullZoom.accesskey "P">
 
-<!ENTITY newTabButton.tooltip           "Open a new tab">
+<!ENTITY newTabButton.tooltip           "Odpri nov zavihek">
 <!ENTITY newWindowButton.tooltip "Odpri novo okno">
 <!ENTITY sidebarCloseButton.tooltip "Zapri stransko vrstico">
 
@@ -395,8 +395,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Uredi nastavitve blokiranja nezahtevanih oken ...">
-<!ENTITY editPopupSettings.label "Uredi možnosti blokiranja nezahtevanih oken ...">
+<!ENTITY editPopupSettingsUnix.label "Uredi nastavitve zavračanja nezahtevanih oken ...">
+<!ENTITY editPopupSettings.label "Uredi možnosti zavračanja nezahtevanih oken ...">
 <!ENTITY editPopupSettings.accesskey "U">
 <!ENTITY dontShowMessage.accesskey "N">
 

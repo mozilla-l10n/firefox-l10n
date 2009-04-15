@@ -8,9 +8,9 @@
 <!ENTITY reloadAllTabs.label "Ponovno naloži vse zavihke">
 <!ENTITY reloadAllTabs.accesskey "A">
 <!ENTITY reloadTab.label "Ponovno naloži zavihek">
-<!ENTITY reloadTab.accesskey "o">
-<!ENTITY  openTabInNewWindow.label    "Open in a New Window">
-<!ENTITY  openTabInNewWindow.accesskey "W">
+<!ENTITY reloadTab.accesskey "l">
+<!ENTITY  openTabInNewWindow.label    "Odpri v novem oknu">
+<!ENTITY  openTabInNewWindow.accesskey "O">
 <!ENTITY listAllTabs.label "Naštej vse zavihke">
 <!ENTITY bookmarkAllTabs.label "Dodaj vse zavihke med zaznamke ...">
 <!ENTITY bookmarkAllTabs.accesskey "V">
