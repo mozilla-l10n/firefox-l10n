@@ -60,47 +60,48 @@
 <!ENTITY  locbar.pre.accessKey          "п">
 <!ENTITY  locbar.pre.label              "У панелі адрес наводити підказками:">
 
-<!-- FIXME: localize -->
 <!ENTITY  clearOnClose.accesskey         "w">
-<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
-<!ENTITY  clearOnCloseSettings.label     "Settings…">
-<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+<!ENTITY  clearOnClose.label             "Очищати історію коли &brandShortName; закривається">
+<!ENTITY  clearOnCloseSettings.accesskey "з">
+<!ENTITY  clearOnCloseSettings.label     "Налаштування…">
+<!ENTITY  dontrememberActions.clearHistory.label "вичищати всю поточну історію">
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.post.label         ".">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
-<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
-<!ENTITY  historyHeader.dontremember.label "Never remember history">
+<!ENTITY  dontrememberActions.pre.label          "Ви також можливо хочете ">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; буде використовувати ті ж налаштування що й у потайливому режимі і не буде пам’ятати історії коли ви переглядаєте мережу.">
+<!ENTITY  historyHeader.custom.label       "Використовувати власні налаштування історії">
+<!ENTITY  historyHeader.dontremember.label "Ніколи не пам’ятати історії">
 <!ENTITY  historyHeader.post.label         "">
-<!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.remember.label     "Remember history">
-<!ENTITY  locationBar.label             "Location Bar">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
-<!ENTITY  privateBrowsingAutoStart.label "Automatically start &brandShortName; in a private browsing session">
-<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
-<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+<!ENTITY  historyHeader.pre.accesskey      "б">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; буде:">
+<!ENTITY  historyHeader.remember.label     "Пам’ятати історію">
+<!ENTITY  locationBar.label             "Панель адрес">
+<!ENTITY  privateBrowsingAutoStart.accesskey "А">
+<!ENTITY  privateBrowsingAutoStart.label "Автоматично запускати &brandShortName; у потайливому режимі">
+<!ENTITY  rememberActions.clearHistory.label  "очистити вашу недавню історію">
+<!ENTITY  dontrememberActions.clearHistory.label "очистити всю поточну історію">
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!ENTITY  rememberActions.middle.label        ", or ">
+<!ENTITY  rememberActions.middle.label        ", чи ">
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.post.label          ".">
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.post.label         ".">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!ENTITY  rememberActions.pre.label           "You may want to ">
+<!ENTITY  rememberActions.pre.label           "Ви може хочете ">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
-<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
-<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from Web sites you visit.">
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
-<!ENTITY  rememberDownload.accesskey     "d">
-<!ENTITY  rememberDownload.label         "Remember download history">
+<!ENTITY  dontrememberActions.pre.label          "Ви також можливо хочете ">
+<!ENTITY  rememberActions.removeCookies.label "прибрати персональні куки">
+<!ENTITY  rememberDescription.label      "&brandShortName; буде пам’ятати вашу історію переглядів, завантажень, форм, та пошуків, а також зберігати куки з тих сайтів що ви відвідуєте.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; буде використовувати ті ж налаштування що й у потайливому режимі і не буде пам’ятати історії коли ви переглядаєте мережу.">
+<!ENTITY  rememberDownload.accesskey     "з">
+<!ENTITY  rememberDownload.label         "Пам’ятати історію завантажень">
 <!-- FIXME:comment -->
-<!ENTITY  rememberHistory.post.label     "days">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "днів">
+<!ENTITY  rememberHistory.pre.accesskey  "п">
 <!-- FIXME:comment -->
-<!ENTITY  rememberHistory.pre.label      "Remember my browsing history for at least">
-<!ENTITY  rememberSearchForm.accesskey   "f">
-<!ENTITY  rememberSearchForm.label       "Remember search and form history">
+<!ENTITY  rememberHistory.pre.label      "Пам’ятати мою історію переглядів щонайменше">
+<!ENTITY  rememberSearchForm.accesskey   "ф">
+<!ENTITY  rememberSearchForm.label       "Пам’ятати історію пошуків та форм">
