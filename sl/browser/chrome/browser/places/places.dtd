@@ -136,18 +136,10 @@
 
 <!ENTITY search.label "Išči:">
 <!ENTITY search.accesskey "I">
-<!ENTITY search.collection.label "Zgolj trenutno zbirko">
-<!ENTITY search.collection.accesskey "Z">
-<!ENTITY search.allBookmarks.label "Vsi zaznamki">
-<!ENTITY search.allBookmarks.accesskey "V">
 <!ENTITY search.scopeFolder.label "Izbran imenik">
 <!ENTITY search.scopeFolder.accesskey "I">
-<!ENTITY search.scopeAll.label "Vsi zaznamki">
-<!ENTITY search.scopeAll.accesskey "V">
-<!ENTITY search.scopeMenu.label "Meni zaznamkov">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "Orodna vrstica zaznamkov">
-<!ENTITY search.scopeToolbar.accesskey "z">
+<!ENTITY search.scopeBookmarks.label               "Bookmarks">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label "Prenosi">
 <!ENTITY search.scopeDownloads.accesskey "P">
 <!ENTITY search.scopeHistory.label "Zgodovina">
