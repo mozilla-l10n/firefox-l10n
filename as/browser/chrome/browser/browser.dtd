@@ -390,9 +390,6 @@
 
 
 
-<!--
-entities below were automatically added by l10nmerge
--->
 
 <!ENTITY historyUndoWindowMenu.label "শেহতীয়াভাবে বন্ধ কৰা সংযোগক্ষেত্ৰ">
 <!ENTITY sendAudioCmd.accesskey       "n">

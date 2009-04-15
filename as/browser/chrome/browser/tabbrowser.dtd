@@ -18,9 +18,7 @@
 <!ENTITY  undoCloseTab.accesskey      "U">
 
 
-<!--
-entities below were automatically added by l10nmerge
--->
+
 
 <!ENTITY  openTabInNewWindow.accesskey "W">
 <!ENTITY  newTabButton.tooltip        "এটা নতুন টেব খোলক">

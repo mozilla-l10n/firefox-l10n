@@ -3,12 +3,10 @@
 <!ENTITY copyright.accesskey    "C">
 <!ENTITY aboutLink              "&lt; &brandFullName ৰ বিষয়ে;">
 <!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "version">
+<!ENTITY aboutVersion           "সংস্কৰণ">
 
 
-<!--
-entities below were automatically added by l10nmerge
--->
+
 
 <!ENTITY licenseLink                "about:license">
 <!ENTITY copyrightInfo2             ").">

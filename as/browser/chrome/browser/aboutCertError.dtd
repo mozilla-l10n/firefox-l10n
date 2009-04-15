@@ -6,31 +6,23 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Untrusted Connection">
-<!ENTITY certerror.longpagetitle "This Connection is Untrusted">
+<!ENTITY certerror.pagetitle  "অবিশ্বাসী সংযোগ">
+<!ENTITY certerror.longpagetitle "এই সংযোগ অবিশ্বাসী">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "You have asked &brandShortName; to connect
-securely to <b>#1</b>, but we can't confirm that your connection is secure.">
-<!ENTITY certerror.introPara2 "Normally, when you try to connect securely,
-sites will present trusted identification to prove that you are
-going to the right place. However, this site's identity can't be verified.">
+<!ENTITY certerror.introPara1 "আপুনি &brandShortName; ক সুৰক্ষিতভাবে <b>#1</b> লৈ সংযোগ কৰিব কৈছে, কিন্তু আপোনাৰ সংযোগ সুৰক্ষিত হোৱা আমি দৃঢ় কৰিব নোৱাৰো ।">
+<!ENTITY certerror.introPara2 "সাধাৰণতে, আমি সুৰক্ষিতভাবে সংযোগ কৰো,
+সাধাৰণতে ছাইটে বিশ্বাসীৰ প্ৰমাণ দিয়ে আপুনি শুদ্ধ স্থানলৈ যোৱা দেখুৱাবলৈ । কিন্তু, এই ছাইটৰ চিনাকি পৰীক্ষা কৰিব পৰা নাযায় ।">
 
-<!ENTITY certerror.whatShouldIDo.heading "What Should I Do?">
-<!ENTITY certerror.whatShouldIDo.content "If you usually connect to
-this site without problems, this error could mean that someone is
-trying to impersonate the site, and you shouldn't continue.">
-<!ENTITY certerror.getMeOutOfHere.label "Get me out of here!">
+<!ENTITY certerror.whatShouldIDo.heading "মই কি কৰোঁ?">
+<!ENTITY certerror.whatShouldIDo.content "যদি আপুনি সাধাৰণতে এই ছাইটলৈ কোনো সমস্যা নোহোৱাকে সংযোগ কৰে, এই ভুলৰ মানে কোনোবাই এই ছাইটৰ পৰিচয় চুৰি কৰিছে, আৰু আপুনি আগবাঢ়িব নালাগে ।">
+<!ENTITY certerror.getMeOutOfHere.label "মোক ইয়াৰ পৰা বাহিৰলৈ লৈ যাওক!">
 
-<!ENTITY certerror.expert.heading "I Understand the Risks">
-<!ENTITY certerror.expert.content "If you understand what's going on, you
-can tell &brandShortName; to start trusting this site's identification.
-<b>Even if you trust the site, this error could mean that someone is
-tampering with your connection.</b>">
-<!ENTITY certerror.expert.contentPara2 "Don't add an exception unless
-you know there's a good reason why this site doesn't use trusted identification.">
-<!ENTITY certerror.addException.label "Add Exception…">
+<!ENTITY certerror.expert.heading "মই বিপদাশঙ্কাবোৰ বুজি পাইছো">
+<!ENTITY certerror.expert.content "কি হৈ আছে আপুনি বুজিজ পালে, আপুনি &brandShortName; ক ছাইটৰ চিনাকি বিশ্বাস কৰিবলৈ ক'ব পাৰে । <b>এই ছাইট বিশ্বাস কৰিলেও, এই ভুলৰ মানে হ'ল কোনোবাই আপোনাৰ সংযোগৰ লগত কায়দা কৰিছে ।</b>">
+<!ENTITY certerror.expert.contentPara2 "এটা অব্যাহতি যোগ নকৰিব যেতিয়ালৈকে আপুনি নাজানে এই ছাইটে কিয় বিশ্বাসী চিনাকি ব্যৱহাৰ কৰা নাই ।">
+<!ENTITY certerror.addException.label "অব্যাহতি যোগ কৰক…">
 
-<!ENTITY certerror.technical.heading "Technical Details">
+<!ENTITY certerror.technical.heading "প্ৰযুক্তিগত বিৱৰণ">

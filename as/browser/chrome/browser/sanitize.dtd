@@ -16,9 +16,7 @@
 <!ENTITY itemOfflineApps.label        "অফ-লাইন ৱেব ছাইটৰ তথ্য">
 <!ENTITY itemOfflineApps.accesskey    "O">
 
-<!--
-entities below were automatically added by l10nmerge
--->
+
 
 <!ENTITY clearTimeDuration.dateColumn     "দৰ্শনৰ দিন">
 <!ENTITY dataSection.label            "তথ্য">
