@@ -11,8 +11,12 @@
 <!ENTITY replyTo.accesskey "д">
 <!ENTITY organization.label "Организация:">
 <!ENTITY organization.accesskey "О">
-<!ENTITY signature.label "Файл, содержащий подпись:">
-<!ENTITY signature.accesskey "п">
+<!ENTITY signatureText.label "Текст подписи:">
+<!ENTITY signatureText.accesskey "т">
+<!ENTITY signatureHtml.label "Использовать HTML">
+<!ENTITY signatureHtml.accesskey "п">
+<!ENTITY signatureFile.label "Вставлять подпись из файла:">
+<!ENTITY signatureFile.accesskey "с">
 <!ENTITY choose.label "Выбрать…">
 <!ENTITY choose.accesskey "ы">
 <!ENTITY editVCard.label "Редактировать визитную карточку…">

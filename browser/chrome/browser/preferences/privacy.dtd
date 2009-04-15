@@ -7,14 +7,6 @@
 <!ENTITY locbar.history.label "из журнала">
 <!ENTITY locbar.bookmarks.label "из закладок">
 <!ENTITY locbar.nothing.label "не предлагать">
-<!ENTITY rememberDaysBefore.label "Хранить историю посещений по меньшей мере">
-<!ENTITY rememberDaysBefore.accesskey "р">
-<!ENTITY rememberDaysAfter2.label "дней">
-<!ENTITY rememberForms.label "Запоминать введённые в формы и панель поиска данные">
-<!ENTITY rememberForms.accesskey "д">
-<!ENTITY rememberDownloads.label "Запоминать имена загруженных файлов">
-<!ENTITY rememberDownloads.accesskey "ф">
-<!ENTITY cookies.label "Куки">
 <!ENTITY acceptCookies.label "Принимать куки с сайтов">
 <!ENTITY acceptCookies.accesskey "р">
 <!ENTITY acceptThirdParty.label "Принимать куки со сторонних сайтов">
@@ -28,11 +20,6 @@
 <!ENTITY cookieExceptions.accesskey "к">
 <!ENTITY showCookies.label "Показать куки…">
 <!ENTITY showCookies.accesskey "о">
-<!ENTITY privateData.label "Личные данные">
-<!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда стирать мои личные данные">
-<!ENTITY alwaysClear.accesskey "з">
-<!ENTITY clearDataSettings.label "Настроить…">
-<!ENTITY clearDataSettings.accesskey "т">
 <!ENTITY historyHeader.pre.label "&brandShortName;:">
 <!ENTITY historyHeader.pre.accesskey "F">
 <!ENTITY historyHeader.remember.label "будет запоминать историю">
