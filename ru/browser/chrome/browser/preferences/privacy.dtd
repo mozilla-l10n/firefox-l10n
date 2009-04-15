@@ -1,4 +1,4 @@
-<!ENTITY history.label "Журнал посещений">
+<!ENTITY history.label "История">
 <!ENTITY locationBar.label "Панель адреса">
 <!ENTITY locbar.pre.label "При использовании панели адреса, предлагать ссылки:">
 <!ENTITY locbar.pre.accessKey "с">
@@ -29,7 +29,7 @@
 <!ENTITY rememberDescription.label "&brandShortName; будет помнить историю посещений, загрузок, поиска, сохранять данные форм и хранить куки, оставленные посещёнными вами веб-сайтами.">
 <!ENTITY rememberActions.pre.label "Возможно, вы захотите ">
 <!ENTITY rememberActions.clearHistory.label "очистить вашу недавнюю историю">
-<!ENTITY rememberActions.middle.label ", или">
+<!ENTITY rememberActions.middle.label ", или ">
 <!ENTITY rememberActions.removeCookies.label "удалить отдельные куки">
 <!ENTITY rememberActions.post.label ".">
 <!ENTITY dontrememberDescription.label "&brandShortName; будет использовать настройки режима приватного просмотра и не будет помнить историю вашей работы с веб-сайтами.">
