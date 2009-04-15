@@ -1,7 +1,5 @@
-amazondotcom
 answers
+clickbd
 creativecommons
-eBay
 google
 wikipedia-bn
-yahoo
