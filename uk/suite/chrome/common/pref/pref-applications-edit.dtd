@@ -17,7 +17,7 @@
 <!ENTITY  application.label                     "Відкрити це з:">
 <!ENTITY  application.accesskey                 "В">
 
-<!ENTITY  browse.label                          "Вибрати...">
+<!ENTITY  browse.label                          "Вибрати…">
 <!ENTITY  browse.accesskey                      "В">
 
 <!ENTITY  askBeforeOpen.label                   "Завжди мене запитувати перед відкриттям файла цього типу">

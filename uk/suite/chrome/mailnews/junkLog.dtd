@@ -22,6 +22,7 @@
    -   Seth Spitzer <sspitzer@netscape.com>
    -   Mark Banner <mark@standard8.demon.co.uk>
    -   Scott MacGregor <mscott@mozilla.org> (original Thunderbird parts)
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,10 +37,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY junkLog.title "Junk Mail Log">
-<!ENTITY junkLogInfo.label "Log of junk mail control activity.">
-<!ENTITY clearLog.label "Clear Log">
-<!ENTITY clearLog.accesskey "C">
-<!ENTITY closeLog.label "Close">
-<!ENTITY closeLog.accesskey "o">
+<!ENTITY junkLog.title "Журнал анти-спам фільтрів">
+<!ENTITY junkLogInfo.label "Журнал діяльності фільтрів спаму.">
+<!ENTITY clearLog.label "Очистити журнал">
+<!ENTITY clearLog.accesskey "О">
+<!ENTITY closeLog.label "Закрити">
+<!ENTITY closeLog.accesskey "З">

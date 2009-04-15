@@ -1,22 +1,22 @@
-<!ENTITY settings.caption "Settings">
-<!ENTITY security.caption "Security and Authentication">
-<!ENTITY serverName.label "Server Name:">
-<!ENTITY serverName.accesskey "S">
-<!ENTITY serverDescription.label "Description:">
-<!ENTITY serverDescription.accesskey "D">
-<!ENTITY serverPort.label "Port:">
-<!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Use name and password">
-<!ENTITY alwaysUseUsername.accesskey "U">
-<!ENTITY userName.label "User Name:">
-<!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "Use secure authentication">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY settings.caption "Налаштування">
+<!ENTITY security.caption "Безпека і аутентифікація">
+<!ENTITY serverName.label "Ім’я сервера:">
+<!ENTITY serverName.accesskey "І">
+<!ENTITY serverDescription.label "Опис:">
+<!ENTITY serverDescription.accesskey "О">
+<!ENTITY serverPort.label "Порт:">
+<!ENTITY serverPort.accesskey "П">
+<!ENTITY alwaysUseUsername.label "Використовувати ім’я і пароль">
+<!ENTITY alwaysUseUsername.accesskey "В">
+<!ENTITY userName.label "Ім’я користувача:">
+<!ENTITY userName.accesskey "І">
+<!ENTITY useSecAuth.label "Використовувати захищену аутентифікацію">
+<!ENTITY useSecAuth.accesskey "В">
 <!ENTITY connectionSecurity.label "Connection security:">
 <!ENTITY connectionSecurity.accesskey "n">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-0.label "Нічого">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, за наявності">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY smtpEditTitle.label "SMTP Server">
-<!ENTITY serverPortDefault.label "Default:">
+<!ENTITY smtpEditTitle.label "SMTP-сервер">
+<!ENTITY serverPortDefault.label "За умовчанням:">
