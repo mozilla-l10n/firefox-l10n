@@ -111,7 +111,7 @@
 <!ENTITY toolsMenu.label              "সৰঞ্জামসমূহ">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "এই অনিসন।ধানত এটা মূলশব্দ যোগ কৰক...">
+<!ENTITY keywordfield.label           "এই অনিসন্ধানত এটা মূলশব্দ যোগ কৰক...">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "ৱেবত অনুসন্ধান">
 <!ENTITY search.accesskey             "S">
@@ -380,7 +380,7 @@
 
 <!ENTITY identity.moreInfoLinkText "অধিক তথ্য…">
 
-<!ENTITY downloadMonitor2.tooltip "ডাউন্‌লোডৰ সংযোগক্ষেত্ৰ খউলিবলৈ টিপক">
+<!ENTITY downloadMonitor2.tooltip "ডাউন্‌লোডৰ সংযোগক্ষেত্ৰ খুলিবলৈ টিপক">
 
 
 <!ENTITY spellAddDictionaries.label "শব্দকোষসমূহ যোগ কৰক...">
