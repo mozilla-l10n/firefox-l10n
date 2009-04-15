@@ -1,5 +1,5 @@
-google
-amazondotcom
-eBay
-yahoo
 creativecommons
+eBay-in
+google
+wikipedia-ta
+yahoo-in
