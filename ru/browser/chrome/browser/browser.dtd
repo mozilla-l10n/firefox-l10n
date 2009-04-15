@@ -160,7 +160,6 @@
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "Поиск в закладках и журнале">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Поиск в закладках и журнале">
 <!ENTITY urlbar.bookmark.emptyText "Поиск в закладках">
 <!ENTITY urlbar.history.emptyText "Поиск в журнале">
