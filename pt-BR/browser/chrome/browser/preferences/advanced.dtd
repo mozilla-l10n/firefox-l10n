@@ -97,5 +97,5 @@
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Validação">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "Disp. de segurança">
+<!ENTITY viewSecurityDevices.label       "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey   "D">

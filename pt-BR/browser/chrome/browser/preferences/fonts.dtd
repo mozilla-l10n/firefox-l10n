@@ -52,7 +52,7 @@
 <!ENTITY  font.langGroup.kannada                  "Canarês">
 <!ENTITY  font.langGroup.sinhala                  "Cingalês">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Tam. mínimo permitido:">
+<!ENTITY minSize.label                            "Tamanho mínimo permitido:">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Nenhum">
 
