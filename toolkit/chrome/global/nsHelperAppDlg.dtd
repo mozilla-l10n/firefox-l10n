@@ -26,7 +26,7 @@
 <!ENTITY saveToDisk.label      "Salvar">
 <!ENTITY saveToDisk.accesskey  "S">
 
-<!ENTITY useSystemDefault.label        "Abrir com #1 (o aplicativo padrão)">
+<!ENTITY useSystemDefault.label        "Abrir com o #1 (aplicativo padrão)">
 <!ENTITY useSystemDefault.noDesc.label "Abrir com o aplicativo padrão">
 <!ENTITY useSystemDefault.accesskey    "A">
 
