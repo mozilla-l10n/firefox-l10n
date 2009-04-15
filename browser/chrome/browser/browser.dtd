@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip        "Exibir o painel com os favoritos">
 <!ENTITY bookmarksSidebarCmd.accesskey  "v">
 <!ENTITY bookmarksSidebarCmd.commandkey "B">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "I">
 
 <!ENTITY historyButton.label            "Histórico">
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "Histórico">
 <!ENTITY historyMenu.accesskey "H">
 <!ENTITY historyUndoMenu.label "Reabrir aba">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Reabrir janela">
 
 <!ENTITY historyHomeCmd.label "Página inicial">
 <!ENTITY showAllHistoryCmd2.label "Exibir todo o histórico">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey           "L">
 <!ENTITY urlbar.emptyText             "Localizar no histórico e favoritos">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Localizar no histórico e favoritos">
+<!ENTITY urlbar.bookmark.emptyText    "Localizar nos favoritos">
+<!ENTITY urlbar.history.emptyText     "Localizar no histórico">
+<!ENTITY urlbar.none.emptyText        "Forneça um endereço web">
 <!ENTITY urlbar.accesskey             "D">
 
 <!-- 
@@ -351,7 +361,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newWindowButton.tooltip        "Abrir uma nova janela">
+<!ENTITY newTabButton.tooltip           "Abrir uma aba">
+<!ENTITY newWindowButton.tooltip        "Abrir uma janela">
 <!ENTITY sidebarCloseButton.tooltip     "Fechar o painel">
 
 <!ENTITY cutButton.tooltip              "Recortar">
