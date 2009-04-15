@@ -7,7 +7,7 @@
 
 
 <!ENTITY noupdatesfound.title "Оновлення відсутні">
-<!ENTITY  noupdatesautoenabled.intro      "Оновлення відсутні. &brandShortName; буде періодично перевіряти наявніть оновлень.">
+<!ENTITY  noupdatesautoenabled.intro      "Оновлення відсутні. &brandShortName; буде періодично перевіряти наявніcть оновлень.">
 <!ENTITY  noupdatesautodisabled.intro     "Оновлення відсутні. Будь ласка перевірте ще раз пізніше, або увімкніть автоматичну перевірку оновлень &brandShortName;.">
 
 <!ENTITY clickHere.label "Переглянути докладнішу інформацію про це оновлення">
