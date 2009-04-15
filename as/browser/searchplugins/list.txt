@@ -1,3 +1,6 @@
+amazondotcom
+creativecommons
 eBay-in
+google
 wikipedia-as
 yahoo-in
