@@ -1,7 +1,9 @@
 <!ENTITY history.label "Geskiedenis">
 
-<!ENTITY locbar.pre.label "When using the location bar, suggest:">
-<!ENTITY locbar.pre.accessKey "l">
+<!ENTITY locationBar.label "Adresbalk">
+
+<!ENTITY locbar.pre.label "Wanneer ek die adresbalk gebruik, stel voor:">
+<!ENTITY locbar.pre.accessKey "a">
 <!ENTITY locbar.post.label "">
 <!ENTITY locbar.both.label "Geskiedenis en boekmerke">
 <!ENTITY locbar.history.label "Geskiedenis">
@@ -54,6 +56,57 @@
 
 <!ENTITY clearDataSettings.label "Opstelling…">
 <!ENTITY clearDataSettings.accesskey "p">
+
+<!ENTITY historyHeader.pre.label "&brandShortName; sal:">
+<!ENTITY historyHeader.pre.accesskey "F">
+<!ENTITY historyHeader.remember.label "geskiedenis onthou">
+<!ENTITY historyHeader.dontremember.label "nooit geskiedenis onthou nie">
+<!ENTITY historyHeader.custom.label "eie instellings vir geskiedenis gebruik">
+<!ENTITY historyHeader.post.label "">
+
+<!ENTITY rememberDescription.label "&brandShortName; sal u blaai-, aflaai-, vorm- en soekgeskiedenis onthou en koekies hou van webwerwe wat u besoek.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY rememberActions.pre.label "Dalk wil u die ">
+<!ENTITY rememberActions.clearHistory.label "onlangse geskiedenis wis">
+<!ENTITY rememberActions.middle.label " of ">
+<!ENTITY rememberActions.removeCookies.label "individuele koekies verwyder">
+<!ENTITY rememberActions.post.label ".">
+
+<!ENTITY dontrememberDescription.label "&brandShortName; gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY dontrememberActions.pre.label "Dal wil u ook ">
+<!ENTITY dontrememberActions.clearHistory.label "alle huidige geskiedenis skrap">
+<!ENTITY dontrememberActions.post.label ".">
+
+<!ENTITY privateBrowsingAutoStart.label "Begin outomaties &brandShortName; in 'n privaatblaai-sessie">
+<!ENTITY privateBrowsingAutoStart.accesskey "B">
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+
+<!ENTITY rememberHistory.pre.label "Onthou my blaaigeskiedenis vir ten minste">
+<!ENTITY rememberHistory.pre.accesskey "g">
+<!ENTITY rememberHistory.post.label "dae">
+
+<!ENTITY rememberDownload.label "Onthou aflaaigeskiedenis">
+<!ENTITY rememberDownload.accesskey "a">
+
+<!ENTITY rememberSearchForm.label "Onthou soek- en vormgeskiedenis">
+<!ENTITY rememberSearchForm.accesskey "v">
+
+<!ENTITY clearOnClose.label "Wys geskiedenis wanneer &brandShortName; toemaak">
+<!ENTITY clearOnClose.accesskey "w">
+
+<!ENTITY clearOnCloseSettings.label "Opstelling…">
+<!ENTITY clearOnCloseSettings.accesskey "p">
 
 <!ENTITY clearDataNow.label "Skrap nou…">
 <!ENTITY clearDataNow.accesskey "N">

@@ -22,10 +22,10 @@
 #define bookmarks_addons Kry boekmerkbyvoegings
 
 
-#define bookmarks_toolbarfolder Boekmerknutsbalkvouer
+#define bookmarks_toolbarfolder Boekmerknutsbalk-vouer
 
 
-#define bookmarks_toolbarfolder_description Voeg boekmerke by hierdie gids sodat hulle vertoon op die Boekmerknutsbalk
+#define bookmarks_toolbarfolder_description Voeg boekmerke by hierdie vouer om hulle in die Boekmerknutsbalk te sien
 
 
 # LOCALIZATION NOTE (getting_started):
@@ -49,7 +49,7 @@
 # Changing the redirect is subject to approval of l10n-drivers.
 
 
-#define latest_headlines Jongste hooftrekke
+#define latest_headlines Jongste nuus
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -76,7 +76,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
 
-#define firefox_customize Pasmaak Firefox
+#define firefox_customize Doelmaak Firefox
 
 
 # LOCALIZATION NOTE (firefox_community):
@@ -94,7 +94,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/about/
 
 
-#define firefox_about Aangaande ons
+#define firefox_about Meer oor ons
 
 
 #unfilter emptyLines

@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private blaaiery)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
@@ -71,7 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
 <!ENTITY organizeBookmarks.label "Organiseer boekmerke…">
 <!ENTITY bookmarkAllCmd.label "Boekmerk alle oortjies…">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 
 <!ENTITY backCmd.label "Terug">
 <!ENTITY backCmd.accesskey "T">
@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip "Vertoon u boekmerke">
 <!ENTITY bookmarksSidebarCmd.accesskey "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Geskiedenis">
@@ -168,10 +172,10 @@
 <!ENTITY clearRecentHistoryCmd.accesskey "G">
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.start.label "Start Private Browsing">
-<!ENTITY privateBrowsingCmd.start.accesskey "B">
-<!ENTITY privateBrowsingCmd.stop.label "Stop Private Browsing">
-<!ENTITY privateBrowsingCmd.stop.accesskey "B">
+<!ENTITY privateBrowsingCmd.start.label "Begin privaat blaai">
+<!ENTITY privateBrowsingCmd.start.accesskey "P">
+<!ENTITY privateBrowsingCmd.stop.label "Begin privaat blaai">
+<!ENTITY privateBrowsingCmd.stop.accesskey "P">
 <!ENTITY privateBrowsingCmd.commandkey "b">
 
 <!ENTITY viewMenu.label "Bekyk">
@@ -186,6 +190,8 @@
 <!ENTITY historyMenu.label "Geskiedenis">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Onlangs gesluite oortjies">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Onlangs gesluite vensters">
 
 <!ENTITY historyHomeCmd.label "Tuis">
 <!ENTITY showAllHistoryCmd2.label "Wys hele geskiedenis">
@@ -193,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Deursoek boekmerke en geskiedenis">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Deursoek boekmerke en geskiedenis">
+<!ENTITY urlbar.bookmark.emptyText "Deursoek boekmerke">
+<!ENTITY urlbar.history.emptyText "Deursoek geskiedenis">
+<!ENTITY urlbar.none.emptyText "Tik 'n webadres">
 <!ENTITY urlbar.accesskey "d">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -352,6 +362,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Zoem">
 <!ENTITY fullZoom.accesskey "Z">
 
+<!ENTITY newTabButton.tooltip "Open 'n nuwe oortjie">
 <!ENTITY newWindowButton.tooltip "Open 'n nuwe venster">
 <!ENTITY sidebarCloseButton.tooltip "Sluit kantbalk">
 
