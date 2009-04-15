@@ -1,7 +1,5 @@
 amazondotcom
-answers
 creativecommons
-eBay
 google
-wikipedia
-yahoo
+wikipedia-es
+yahoo-mx
