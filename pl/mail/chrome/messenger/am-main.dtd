@@ -11,8 +11,12 @@
 <!ENTITY replyTo.accesskey          "s">
 <!ENTITY organization.label         "Firma/Organizacja:">
 <!ENTITY organization.accesskey     "O">
-<!ENTITY signature.label            "Dołączaj sygnaturkę">
-<!ENTITY signature.accesskey        "g">
+<!ENTITY signatureText.label        "Sygnaturka:">
+<!ENTITY signatureText.accesskey    "g">
+<!ENTITY signatureHtml.label        "Używaj HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey    "H">
+<!ENTITY signatureFile.label        "Używaj treści z pliku (tekstowgo, HTML lub obrazka):">
+<!ENTITY signatureFile.accesskey    "U">
 <!ENTITY edit.label                 "Edytuj…">
 <!ENTITY choose.label               "Wybierz…">
 <!ENTITY choose.accesskey           "b">
@@ -24,7 +28,6 @@
 <!ENTITY manageIdentities.label     "Zarządzaj tożsamościami…">
 <!ENTITY manageIdentities.accesskey "Z">
 
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label             "Serwer poczty wychodzącej (SMTP):">
 <!ENTITY smtpName.accesskey         "p">
 <!ENTITY smtpDefaultServer.label    "Użyj domyślnego serwera">
