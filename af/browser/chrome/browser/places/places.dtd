@@ -71,10 +71,10 @@
 <!ENTITY cmd.edit_redo.accesskey "H">
 <!ENTITY cmd.edit_redo.key "y">
 
-<!ENTITY cmd.delete.label "Delete This Page">
-<!ENTITY cmd.delete.accesskey "D">
-<!ENTITY cmd.deleteDomainData.label "Forget About This Site">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY cmd.delete.label "Skrap hierdie bladsy">
+<!ENTITY cmd.delete.accesskey "S">
+<!ENTITY cmd.deleteDomainData.label "Vergeet van hierdie werf">
+<!ENTITY cmd.deleteDomainData.accesskey "V">
 
 <!ENTITY cmd.open.label "Open">
 <!ENTITY cmd.open.accesskey "O">
@@ -136,22 +136,14 @@
 
 <!ENTITY search.label "Soek:">
 <!ENTITY search.accesskey "S">
-<!ENTITY search.collection.label "Net huidige versameling">
-<!ENTITY search.collection.accesskey "N">
-<!ENTITY search.allBookmarks.label "Alle boekmerke">
-<!ENTITY search.allBookmarks.accesskey "A">
 <!ENTITY search.scopeFolder.label "Gekose vouer">
-<!ENTITY search.scopeFolder.accesskey "V">
-<!ENTITY search.scopeAll.label "Alle boekmerke">
-<!ENTITY search.scopeAll.accesskey "A">
-<!ENTITY search.scopeMenu.label "Boekmerke-kieslys">
-<!ENTITY search.scopeMenu.accesskey "K">
-<!ENTITY search.scopeToolbar.label "Boekmerknutsbalk">
-<!ENTITY search.scopeToolbar.accesskey "T">
+<!ENTITY search.scopeFolder.accesskey "r">
+<!ENTITY search.scopeBookmarks.label "Boekmerke">
+<!ENTITY search.scopeBookmarks.accesskey "k">
 <!ENTITY search.scopeDownloads.label "Afgelaai">
 <!ENTITY search.scopeDownloads.accesskey "A">
 <!ENTITY search.scopeHistory.label "Geskiedenis">
-<!ENTITY search.scopeHistory.accesskey "A">
+<!ENTITY search.scopeHistory.accesskey "G">
 <!ENTITY search.scopeBarExpanderDown.tooltip "Wys soekbouer">
 <!ENTITY search.scopeBarExpanderUp.tooltip "Versteek soekbouer">
 <!ENTITY saveSearch.label "Stoor">

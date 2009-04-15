@@ -134,7 +134,7 @@
 
 <!ENTITY exceptionMgr.title "Voeg sekuriteituitsondering by">
 <!ENTITY exceptionMgr.exceptionButton "Bevestig sekuriteituitsondering">
-<!ENTITY exceptionMgr.exceptionButtonAccess "C">
+<!ENTITY exceptionMgr.exceptionButtonAccess "B">
 <!ENTITY exceptionMgr.supplementalWarning "Legitieme banke, winkels en ander publieke werwe sal u nie vra om dit te doen nie.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Bediener">
 <!ENTITY exceptionMgr.certlocation.url "Ligging:">

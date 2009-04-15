@@ -7,35 +7,35 @@
 <!ENTITY formatGroup.label "Formaat">
 
 <!ENTITY orientation.label "Oriëntering:">
-<!ENTITY portrait.label "Portrait">
+<!ENTITY portrait.label "Portret">
 <!ENTITY portrait.accesskey "P">
-<!ENTITY landscape.label "Landscape">
+<!ENTITY landscape.label "Landskap">
 <!ENTITY landscape.accesskey "L">
 
-<!ENTITY scale.label "Scale:">
+<!ENTITY scale.label "Skaal:">
 <!ENTITY scale.accesskey "S">
 <!ENTITY scalePercent "&#037;">
 
-<!ENTITY shrinkToFit.label "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.label "Krimp om bladsywydte te pas">
 <!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label "Opsies">
 
-<!ENTITY printBG.label "Print Background (colors &amp; images)">
-<!ENTITY printBG.accesskey "B">
+<!ENTITY printBG.label "Druk agtergrond (kleure &amp; prente)">
+<!ENTITY printBG.accesskey "A">
 
 <!ENTITY advanced.tab "Kantlyne &amp; kopstuk/voetstuk">
 
 <!ENTITY marginGroup.label "Kantlyne (#1)">
 <!ENTITY marginUnits.inches "duim">
 <!ENTITY marginUnits.metric "millimeter">
-<!ENTITY marginTop.label "Top:">
+<!ENTITY marginTop.label "Bokant:">
 <!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label "Bottom:">
-<!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label "Left:">
+<!ENTITY marginBottom.label "Onderkant:">
+<!ENTITY marginBottom.accesskey "O">
+<!ENTITY marginLeft.label "Linkerkant:">
 <!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label "Right:">
+<!ENTITY marginRight.label "Regterkant:">
 <!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label "Kopstukke &amp; voetstukke">

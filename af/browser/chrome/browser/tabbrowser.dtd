@@ -9,6 +9,8 @@
 <!ENTITY reloadAllTabs.accesskey "A">
 <!ENTITY reloadTab.label "Herlaai oortjie">
 <!ENTITY reloadTab.accesskey "h">
+<!ENTITY openTabInNewWindow.label "Open in nuwe venster">
+<!ENTITY openTabInNewWindow.accesskey "V">
 <!ENTITY listAllTabs.label "Lys alle oortjies">
 <!ENTITY bookmarkAllTabs.label "Boekmerk alle oortjies…">
 <!ENTITY bookmarkAllTabs.accesskey "O">

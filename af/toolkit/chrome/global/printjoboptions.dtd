@@ -2,40 +2,40 @@
 
 <!ENTITY printJobOptions.title "Drukkereienskappe">
 
-<!ENTITY paperInput.label "Paper Size:">
+<!ENTITY paperInput.label "Papiergrootte:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Plex mode:">
+<!ENTITY plexInput.label "Plexmodus:">
 <!ENTITY plexInput.accesskey "m">
 
-<!ENTITY resolutionInput.label "Resolution/Quality:">
+<!ENTITY resolutionInput.label "Resolusie/gehalte:">
 <!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "Print Command:">
-<!ENTITY cmdInput.accesskey "o">
+<!ENTITY cmdInput.label "Drukbevel:">
+<!ENTITY cmdInput.accesskey "b">
 
-<!ENTITY jobTitleInput.label "Job Title:">
-<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY jobTitleInput.label "Taaktitel:">
+<!ENTITY jobTitleInput.accesskey "T">
 
 <!ENTITY colorGroup.label "Kleur:">
-<!ENTITY grayRadio.label "Grayscale">
+<!ENTITY grayRadio.label "Gryskleur">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "Color">
-<!ENTITY colorRadio.accesskey "C">
+<!ENTITY colorRadio.label "Kleur">
+<!ENTITY colorRadio.accesskey "K">
 
-<!ENTITY colorspaceInput.label "Colorspace:">
-<!ENTITY colorspaceInput.accesskey "s">
+<!ENTITY colorspaceInput.label "Kleurruim:">
+<!ENTITY colorspaceInput.accesskey "r">
 
 <!ENTITY fontsGroup.label "Fonte:">
-<!ENTITY downloadFonts.label "Download fonts to printer">
+<!ENTITY downloadFonts.label "Laai fonte af na drukker">
 <!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "Gaping van kant van papier tot kantlyn">
-<!ENTITY topInput.label "Top:">
+<!ENTITY topInput.label "Bokant:">
 <!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.label "Bottom:">
-<!ENTITY bottomInput.accesskey "B">
-<!ENTITY leftInput.label "Left:">
+<!ENTITY bottomInput.label "Onderkant:">
+<!ENTITY bottomInput.accesskey "O">
+<!ENTITY leftInput.label "Linkerkant:">
 <!ENTITY leftInput.accesskey "L">
-<!ENTITY rightInput.label "Right:">
+<!ENTITY rightInput.label "Regterkant:">
 <!ENTITY rightInput.accesskey "R">
