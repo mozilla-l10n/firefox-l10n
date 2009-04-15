@@ -32,10 +32,14 @@
 <!ENTITY noSuggestions.label   "(Brak podpowiedzi)">
 <!ENTITY addToDictionary.label "Dodaj do słownika">
 
-<!ENTITY bookmarkName.label    "Nazwa:">
-<!ENTITY bookmarkFolder.label  "Folder:">
-<!ENTITY bookmarkTags.label    "Etykiety:">
-<!ENTITY bookmarkRemove.label  "Usuń zakładkę">
+<!ENTITY bookmarksHeader.label     "Zakładki">
+<!ENTITY bookmarksManage.label     "Zarządzaj">
+<!ENTITY foldersHeader.label       "Foldery">
+
+<!ENTITY editBookmarkEdit.label    "Edytuj">
+<!ENTITY editBookmarkMove.label    "Przenieś">
+<!ENTITY editBookmarkDone.label    "Gotowe">
+<!ENTITY editBookmarkTags.label    "Dodaj etykiety">
 
 <!ENTITY findOnCmd.label     "Znajdź na tej stronie…">
 <!ENTITY findOnCmd.accesskey "Z">

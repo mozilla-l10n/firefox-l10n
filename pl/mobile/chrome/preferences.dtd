@@ -5,6 +5,8 @@
 <!ENTITY javascript.enabled.description            "Sprawia, że strony się ruszają">
 <!ENTITY plugins.enabled.title                     "Włącz wtyczki">
 <!ENTITY plugins.enabled.description               "Sprawia, że strony wkurzają">
+<!ENTITY javascript.options.jit.content.title      "Włącz Enable JavaScript tracing">                                            
+<!ENTITY javascript.options.jit.content.description "Use native?..code compilation in JavaScript">
 <!ENTITY privacy.title                             "Prywatność i bezpieczeństwo">
 <!ENTITY network.cookie.cookieBehavior.title       "Zapisuj ciasteczka">
 <!ENTITY network.cookie.cookieBehavior.description "Ciasteczkowe pyszności">
