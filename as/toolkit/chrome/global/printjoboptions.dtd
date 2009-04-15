@@ -26,3 +26,22 @@
 <!ENTITY bottomInput.label "তল:">
 <!ENTITY leftInput.label "বাওঁ:">
 <!ENTITY rightInput.label "সোঁ:">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY colorRadio.accesskey "C">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.accesskey "B">
+<!ENTITY cmdInput.accesskey "o">
+<!ENTITY paperInput.accesskey "P">
+<!ENTITY plexInput.accesskey "m">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY colorspaceInput.accesskey "s">
+<!ENTITY rightInput.accesskey "R">
+<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY leftInput.accesskey "L">

@@ -59,22 +59,18 @@
 <!ENTITY  generalEncoding       "ইনকোডিং:">
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
-<!ENTITY  generalSecurityMore   "আৰু অধিক">
-<!ENTITY  generalSecurityMore.accesskey "o">
 
 
 <!ENTITY  mediaTab              "মিডিয়া">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "স্থান:">
 <!ENTITY  mediaText             "সম্বন্ধিত লিপি:">
-<!ENTITY  mediaHeader           "এই পৃষ্ঠাত থকা প্ৰতিৰূপ">
 <!ENTITY  mediaAltHeader        "বৈকল্পিক আখৰ">
 <!ENTITY  mediaAddress          "ঠিকনা">
 <!ENTITY  mediaType             "ধৰণ">
 <!ENTITY  mediaSize             "আকাৰ">
 <!ENTITY  mediaCount            "গণনা কৰ">
 <!ENTITY  mediaDimension        "আয়তন:">
-<!ENTITY  mediaEncryption       "গুপুত কৰণ:">
 <!ENTITY  mediaLongdesc         "দীঘল বিৱৰণ:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "- হিচাপে ৰক্ষা কৰক...">
@@ -113,13 +109,21 @@
 <!ENTITY  securityView.identity.verifier "-ৰ দ্বাৰা প্ৰমাণিত কৰা হৈছে: ">
 
 <!ENTITY  securityView.privacy.header                   "গোপনীয়তা &amp; ইতিহাস">
-<!ENTITY  securityView.privacy.history                  "Have I visited this web site before today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
+<!ENTITY  securityView.privacy.history                  "আজিৰ পূৰ্বে মই এই ৱেব ছাইট চাইছোঁ নেকি ?">
+<!ENTITY  securityView.privacy.cookies                  "মোৰ কম্পিউটাৰত এই ৱেব ছাইটে তথ্য (কুকি) ৰক্ষা কৰিছে নেকি ?">
+<!ENTITY  securityView.privacy.viewCookies              "কুকি চাওক">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
-<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
+<!ENTITY  securityView.privacy.passwords                "এই ৱেব ছাইটৰ কাৰণে মই কোনো গুপ্তশব্দ ৰক্ষা কৰিছোঁ নেকি ?">
+<!ENTITY  securityView.privacy.viewPasswords            "সংৰক্ষিত গুপ্তশব্দ চাওক">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
-<!ENTITY  securityView.technical.header                 "Technical Details">
+<!ENTITY  securityView.technical.header                 "প্ৰযুক্তিবিদ্যাৰ বিৱৰণ">
 
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY  generalSecurityDetails   "বিৱৰণ">
+<!ENTITY  generalSecurityDetails.accesskey "D">

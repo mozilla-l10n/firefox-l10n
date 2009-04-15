@@ -19,3 +19,10 @@
 <!ENTITY button.close.label           "বন্ধ">
 <!ENTITY button.close.accesskey       "C">
 
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY address.accesskey            "d">

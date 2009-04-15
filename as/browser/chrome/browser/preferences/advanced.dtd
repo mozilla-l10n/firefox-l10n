@@ -74,7 +74,7 @@
 <!ENTITY offlineNotifyExceptions.label   "বিজুতিসমূহ…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "The following websites have stored data for offline use:">
+<!ENTITY offlineAppsList.label           "নিম্নলিখিত ৱেব ছাইটে অফ-লাইন ব্যৱহাৰৰ কাৰণে তথ্য সংৰক্ষণ কৰিছে:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "আঁতৰাওঁক…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

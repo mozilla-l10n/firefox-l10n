@@ -12,3 +12,10 @@
 <!ENTITY error                       "ভুলৰ বিৱৰণ">
 <!ENTITY faultCode                   "কোড">
 <!ENTITY faultMessage                "সম্বাদ">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY reportCharset               "Charset">

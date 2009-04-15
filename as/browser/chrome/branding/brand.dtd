@@ -1,3 +1,10 @@
 <!ENTITY  brandShortName        "Bon Echo">
 <!ENTITY  brandFullName         "Bon Echo">            
 <!ENTITY  vendorShortName       "Mozilla">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY  logoCopyright         " ">

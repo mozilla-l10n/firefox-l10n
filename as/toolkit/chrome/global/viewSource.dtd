@@ -58,3 +58,18 @@
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY backCmd.label "পিছলৈ">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY textReset.commandkey2 "">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY forwardCmd.label "আগলৈ">

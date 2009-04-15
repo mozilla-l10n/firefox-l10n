@@ -7,8 +7,6 @@
 <!ENTITY formatGroup.label   "আকৃতি">
 
 <!ENTITY orientation.label   "দিক্‌বিন্যাস:">
-<!ENTITY portrait            "প'ৰ্ট্ৰেইট">
-<!ENTITY landscape           "লেণ্ডস্কেপ">
 
 <!ENTITY scale.label         "মাপ:">
 <!ENTITY scalePercent        "&#037;">
@@ -42,17 +40,29 @@
 <!ENTITY footerRight.tip     "সোঁফালৰ ফুটাৰ">
 
 <!ENTITY hfTitle             "শিৰোনাম">
-<!ENTITY hfTitle.code        "[&amp;T]">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfURL.code          "[&amp;U]">
 <!ENTITY hfDateAndTime       "দিন/সময়">
-<!ENTITY hfDateAndTime.code  "&amp;D">
 <!ENTITY hfPage              "পৃষ্ঠা #">
-<!ENTITY hfPage.code         "[&amp;P]">
 <!ENTITY hfPageAndTotal      "পৃষ্ঠা # # ৰ">
-<!ENTITY hfPageAndTotal.code "[&amp;PT]">
 <!ENTITY hfBlank             "--blank--">
 <!ENTITY hfCustom            "নিজৰ পছন্দৰ...">
 
 <!ENTITY customPrompt.title  "নিজৰ পছন্দৰ...">
 <!ENTITY customPrompt.prompt "আপোনাৰ নিজৰ পছন্দৰ হেডাৰ/ফুটাৰ আখৰ দিয়ক">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY portrait.label      "প'ৰ্ট্ৰেইট">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY marginRight.accesskey "R">
+<!ENTITY landscape.label     "লেণ্ডস্কেপ">
+<!ENTITY landscape.accesskey "L">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY printBG.accesskey   "B">
+<!ENTITY scale.accesskey     "S">

@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Choose User Profile">
+<!ENTITY            windowtitle.label      "&brandShortName; - ব্যৱহাৰকৰ্তাৰ পাৰ্শ্বৰূপ নিৰ্ব্বাচন কৰক">
 
-<!ENTITY            profilename.label      "Profile Name:">
+<!ENTITY            profilename.label      "পাৰ্শ্বৰূপৰ নাম:">
 
-<!ENTITY            start.label            "Start &brandShortName;">
-<!ENTITY            exit.label             "Exit">
+<!ENTITY            start.label            "&brandShortName; আৰম্ভ কৰক">
+<!ENTITY            exit.label             "প্ৰস্থান">
 
-<!ENTITY            availprofiles.label    "Available Profiles">
+<!ENTITY            availprofiles.label    "উপস্থিত পাৰ্শ্বৰূপ">
 
-<!ENTITY            newButton.label        "Create Profile...">
+<!ENTITY            newButton.label        "পাৰ্শ্বৰূপ সৃষ্টি কৰক...">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Rename Profile...">
+<!ENTITY            renameButton.label     "পাৰ্শ্বৰূপ পুনঃ নামকৰণ কৰক...">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Delete Profile...">
+<!ENTITY            deleteButton.label     "পাৰ্শ্বৰূপ আঁতৰাওক...">
 <!ENTITY            deleteButton.accesskey "D">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; stores information about your settings, preferences, and other user items in your user profile.">
+<!ENTITY            pmDescription.label    "&brandShortName; এ আপোনাৰ পছন্দ, প্ৰতিষ্ঠা, আৰু আপোনাৰ ব্যৱহাৰকৰ্তাৰ পাৰ্শ্বৰূপৰ অন্য ব্যৱহাৰকৰ্তাৰ বস্তু সংৰক্ষণ কৰে ।">
 
-<!ENTITY            offlineState.label    "Work offline">
+<!ENTITY            offlineState.label    "অফ-লাইন ৰূপে কাম কৰক">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "Don't ask at startup">
+<!ENTITY            autoSelect.label       "আৰম্ভণিত প্ৰশ্ন নকৰিব">
 <!ENTITY            autoSelect.accesskey   "s">

@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "বিচাৰক:">
 <!ENTITY     filter.accesskey               "S">
-<!ENTITY     clear.label                    "পৰিষ্কাৰ কৰক">
-<!ENTITY     clear.accesskey                "l">
 
 <!ENTITY     button.close.label             "বন্ধ কৰক">
 <!ENTITY     button.close.accesskey         "C">

@@ -38,8 +38,6 @@
 
 <!ENTITY filterPrefs.label "ফিল্টাৰ:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "সকলো দেখুৱাওক">
-<!ENTITY showAll.accesskey "W">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "পছন্দৰ নাম">
@@ -70,8 +68,18 @@
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "বুলিয়েন">
 <!ENTITY boolean.accesskey "B">
-<!ENTITY lock.label "বন্ধ কৰক">
-<!ENTITY lock.accesskey "L">
-<!ENTITY unlock.label "বান্ধোন খেলক">
-<!ENTITY unlock.accesskey "U">
 
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY aboutWarningButton.label "মই সাৱধান হ'ম, মই কথা দিছোঁ !">
+<!ENTITY copyPref.label "নকল কৰক">
+<!ENTITY aboutWarningCheckbox.label "পিছৰ বাৰ এই সকিয়নি দেখুৱাব">
+<!ENTITY aboutWarningText.label "এই উন্নত পছন্দ সলনিন কৰা স্থিৰতা,সুৰক্ষা আৰু এই অনুপ্ৰয়োগৰ কাৰ্য্যক্ষমতাৰ কাৰণে ক্ষতিকৰ হ'ব পাৰে । আপুনি যি কিৰছে তাৰ বিষয়ে সুনিশ্চিত হ'লেহে আপুনি আগবাঢ়িব লাগে ।">
+<!ENTITY copyPref.key "C">
+<!ENTITY focusFilter.key "f">
+<!ENTITY copyPref.accesskey "C">
+<!ENTITY aboutWarningTitle.label "এইটোৱে আপোনাৰ ৱেৰেন্টি নোহোৱা কৰিব পাৰে!">

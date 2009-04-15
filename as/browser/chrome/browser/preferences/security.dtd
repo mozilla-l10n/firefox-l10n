@@ -8,11 +8,8 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "মই দৰ্শন কৰা ছাইট এটা সন্দেহযুক্ত আক্ৰমণৰ ছাইট যদি ক'ব">
-<!ENTITY  tellMaybeAttackSite.accesskey "k">
 
-<!ENTITY  tellMaybeForgery.label     "মই দৰ্শন কৰা ছাইট এটা সন্দেহযুক্ত জালিয়াতি যদি ক'ব">
-<!ENTITY  tellMaybeForgery.accesskey "T">
+
 
 <!-- LOCALIZATION NOTE (askThirdParty.label):
   The entities askThirdParty.label and askThirdPartyAfter.label appear on a
@@ -47,3 +44,13 @@
 
 <!ENTITY  warningSettings.label         "পছন্দ...">
 <!ENTITY  warningSettings.accesskey     "S">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY  blockWebForgeries.label     "প্ৰতিবেদন কৰা ৱেব জালিয়াতিক বাধা দিয়ক">
+<!ENTITY  blockAttackSites.label     "আক্ৰমণৰ ছাইটক বাধা দিয়ক">
+<!ENTITY  blockWebForgeries.accesskey "B">
+<!ENTITY  blockAttackSites.accesskey "k">

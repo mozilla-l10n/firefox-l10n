@@ -3,8 +3,7 @@
 <!ENTITY  history.intro             "নিম্নলিখিত উন্নয়ন সংস্থাপন কৰা হৈছে:">
 <!ENTITY  closebutton.label         "বন্ধ">
                                      
-<!ENTITY  detailsButton.label       "বিৱৰণ">
-<!ENTITY  detailsButton.accesskey   "D">
+
 
 <!ENTITY  noupdates.label           "কোনো উন্নয়ন সংস্থাপন কৰা হোৱা নাই">
 

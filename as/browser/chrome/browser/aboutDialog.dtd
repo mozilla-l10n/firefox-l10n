@@ -4,5 +4,16 @@
 <!ENTITY aboutLink              "&lt; &brandFullName ৰ বিষয়ে;">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "version">
-<!ENTITY copyrightInfo          "&#169;1998-2008 Contributors. সকলো অধিকাৰ সংৰক্ষিত । Firefox আৰু 
-                                 Firefox পণ্যচিহ্নসমূহ Mozilla Foundation ৰ মাৰ্কা । সকলো অধিকাৰ সংৰক্ষিত ।">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY licenseLink                "about:license">
+<!ENTITY copyrightInfo2             ").">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Contributors. All rights reserved. (">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY licenseLinkText            "প্ৰমাণপত্ৰৰ তথ্য">
+<!ENTITY closeCmdGNOME.accesskey    "C">
+<!ENTITY closeCmdGNOME.label        "বন্ধ">

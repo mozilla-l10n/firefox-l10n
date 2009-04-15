@@ -2,7 +2,7 @@
 <!ENTITY reportWizard.title                         "এটা ভঙা ৱেব ছাইটৰ প্ৰতিবেদন দিয়ক">
 
 <!ENTITY privacyNotice.label                        "গোপনীয়তাৰ চুক্তি">
-<!ENTITY reportWizardPrivacy.description            "This tool allows you to tell the Evangelism Team about web sites that do not work properly in &brandShortName;, or shut &brandShortName; out. This is your way to help us ensure the best possible experience for &brandShortName; users. Please take a moment to read the following to learn how we use the information we collect should you choose to participate.">
+<!ENTITY reportWizardPrivacy.description            "এই সৰঞ্জামে আপোনাক Evangelism দলক সেই ৱেব ছাইটৰ কথা ক'ব দিয়ে যি &brandShortName; ত ভালকৈ কাম নকৰে, বা &brandShortName; বন্ধ কৰে । এই ধৰণে আপুনি আমাক সহায় কৰিব পাৰে &brandShortName; ৰ ব্যৱহাৰকৰ্তাৰ কাৰণে চৰণ কৰাৰ অভিগ্যতা উন্নত কৰিবলৈ । ইয়াক পঢ়িবলৈ অলপ সময় দিব আমি গোটোৱা তথ্য আমি কিদৰে ব্যৱহাৰ কৰোঁ সেই কথা জানিবলৈ যদি আপুনি এই কাৰ্য্যত অলশ ল'ব বিচাৰে ।">
 <!ENTITY reportWizardMustAgree.description          "আগবাঢ়িবলৈ আপুনি ওপৰৰ গোপনীয়তাৰ চুক্তিৰ সৈতে সন্মত হ'ব লাগিব ।">
 
 <!ENTITY dontShowPrivacyStatement.label             "ওপৰৰ গোপনীয়তাৰ চুক্তি মই পঢ়িছোঁ আৰু সন্মত হৈছো ।">
@@ -27,29 +27,38 @@
 <!ENTITY reportForm.problem_type.item3.title        "প্লাগ-ইন দেখুওৱা হোৱা নাই">
 <!ENTITY reportForm.problem_type.item4.title        "অন্য বিষয়বস্তু নাই">
 <!ENTITY reportForm.problem_type.item5.title        "আচৰণ ভুল">
-<!ENTITY reportForm.problem_type.item6.title        "Appearance wrong">
-<!ENTITY reportForm.problem_type.item7.title        "Other problem">
+<!ENTITY reportForm.problem_type.item6.title        "প্ৰদৰ্শন ভুল">
+<!ENTITY reportForm.problem_type.item7.title        "অন্য সমস্যা">
 
-<!ENTITY reportForm.describe.title                  "Describe Problem:">
+<!ENTITY reportForm.describe.title                  "সমস্যাৰ বিৱৰণ:">
 <!ENTITY reportForm.describe.accesskey              "D">
 
-<!ENTITY reportForm.platform.title                  "Platform:">
-<!ENTITY reportForm.product.title                   "Product:">
+<!ENTITY reportForm.platform.title                  "স্তাপত্য:">
+<!ENTITY reportForm.product.title                   "উৎপাদন:">
 <!ENTITY reportForm.gecko.title                     "Gecko:">
 <!ENTITY reportForm.useragent.title                 "Useragent:">
-<!ENTITY reportForm.language.title                  "Language:">
+<!ENTITY reportForm.language.title                  "ভাষা:">
 
 <!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
-<!ENTITY reportForm.email.title                     "Email (Optional):">
+<!ENTITY reportForm.email.title                     "ঈ-মেইল (বৈকল্পিক):">
 <!ENTITY reportForm.email.accesskey                 "E">
 
-<!ENTITY reportForm.privacyPolicy.title             "Privacy Policy">
-<!ENTITY reportForm.privacyPolicy.tooltip           "View Privacy Policy">
+<!ENTITY reportForm.privacyPolicy.title             "গোপনীয়তাৰ নীতি">
+<!ENTITY reportForm.privacyPolicy.tooltip           "গোপনীয়তাৰ নীতি চাওক">
 
-<!ENTITY reportResults.showDetail.title             "Show Details">
+<!ENTITY reportResults.showDetail.title             "বিৱৰণ দেখুৱাওক">
 <!ENTITY reportResults.showDetail.accesskey         "S">
 
-<!ENTITY sendReport.label                           "Sending Report">
-<!ENTITY sendReport.description                     "Sending Report to server...">
+<!ENTITY sendReport.label                           "প্ৰতিবেদন পঠিওৱা হৈছে">
+<!ENTITY sendReport.description                     "সেৱকলৈ প্ৰতিবেদন পঠিওৱা হৈছে...">
 
-<!ENTITY finish.label                               "Report Sent">
+<!ENTITY finish.label                               "প্ৰতিবেদন পঠিওৱা হ'ল">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY reportForm.problem_type.item9.title        "মূদ্ৰিত নিৰ্গম ভুল">
+<!ENTITY reportForm.problem_type.item8.title        "নিষ্ক্ৰিয়তাৰ অভিগম">
+<!ENTITY reportForm.url.accesskey                   "U">

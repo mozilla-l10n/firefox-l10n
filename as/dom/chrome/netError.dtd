@@ -71,13 +71,14 @@
 <!ENTITY malwareBlocked.title "সন্দেহযুক্ত আক্ৰমণৰ ছাইট!">
 <!ENTITY malwareBlocked.longDesc "
 <p>আক্ৰমণৰ ছাইটে কাৰ্য্যক্ৰম সংস্থাপন কৰিব বিচাৰে যি ব্যক্তিগত তথ্য চুৰ কৰে, আপোনাৰ কম্পিউটাৰ অন্যক আক্ৰমণ কৰিব ব্যৱহাৰ কৰে, বা আপোনাৰ ব্যৱস্থাপ্ৰণালী নষ্ট কৰে ।</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+<p>ৱেব ছাইটৰ গৰাকীৰ যি বিশ্বাস কৰে যে তেওঁলোকৰ ৱেব ছাইটক ভুলতে আক্ৰমণৰ ছাইট হিচাপে প্ৰতিবেদন কৰা হৈছে
+<a href='http://www.stopbadware.org/home/reviewinfo' > ত এটা পুনৰীক্ষণৰ কাৰণে অনুৰোধ কৰিব পাৰে</a> ।</p>
 ">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.title "সন্দেহযুক্ত ৱেব জালিয়াতী!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+<p>এই পৃষ্ঠাত কোনো ব্যক্তিগত তথ্য দিয়াৰ ফলত চিনাকিৰ চুৰি বা অন্য ছল হ'বও পাৰে ।</p>
+<p>এই ধৰণৰ ৱেব জালিয়াতীক স্কেমত ব্যৱহাৰ কৰা হয় যাক ফিশিং আক্ৰমণ কোৱা হয়, য'ত ছল থকা ৱেব পৃষ্ঠা আৰু ঈ-মেইলক আপোনাৰ বিশ্বাসী উৎসৰে নকল কৰা হয় ।</p>
 ">
 
 <!-- Include app-specific error messages - do not change this in localization!

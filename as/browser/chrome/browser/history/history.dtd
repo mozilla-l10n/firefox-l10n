@@ -10,19 +10,19 @@
 <!ENTITY bySite.accesskey "S">
 <!ENTITY view.label "চাওক">
 <!ENTITY view.accesskey "w">
-<!ENTITY byMostVisited.label "By Most Visited">
+<!ENTITY byMostVisited.label "অধিককৈ দৰ্শন কৰাৰ মতে">
 <!ENTITY byMostVisited.accesskey "V">
-<!ENTITY byLastVisited.label "By Last Visited">
+<!ENTITY byLastVisited.label "যোৱাবাৰ শেষত দৰ্শন কৰাৰ মতে">
 <!ENTITY byLastVisited.accesskey "L">
-<!ENTITY byDayAndSite.label "By Date and Site">
+<!ENTITY byDayAndSite.label "দিন আৰু ছাইটৰ মতে">
 <!ENTITY byDayAndSite.accesskey "t">
-<!ENTITY openLinkInWindow.label "Open">
+<!ENTITY openLinkInWindow.label "খোলক">
 <!ENTITY openLinkInWindow.accesskey "O">
-<!ENTITY openInNewTab.label "Open in New Tab">
+<!ENTITY openInNewTab.label "নতুন টেবত খোলক">
 <!ENTITY openInNewTab.accesskey "T">
-<!ENTITY openInNewWindow.label "Open in New Window">
+<!ENTITY openInNewWindow.label "নতুন সংযোগক্ষেত্ৰত খোলক">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "Bookmark This Link...">
+<!ENTITY bookmarkLink.label "এই সংযোগক পত্ৰচিহ্ন কৰক...">
 <!ENTITY bookmarkLink.accesskey "B">
-<!ENTITY copyLink.label "Copy Link Location">
+<!ENTITY copyLink.label "সংযোগৰ স্থান নকল কৰক">
 <!ENTITY copyLink.accesskey "C">

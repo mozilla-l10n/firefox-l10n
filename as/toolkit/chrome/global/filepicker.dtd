@@ -7,12 +7,11 @@
 <!ENTITY name.label             "নাম">
 <!ENTITY size.label             "আকাৰ">
 <!ENTITY lastModified.label     "যোৱাবাৰ সলনি কৰা">
-<!ENTITY permissions.label      "আজ্ঞাসমূহ">
 <!ENTITY showHiddenFiles.label  "লুকুৱা নথিপত্ৰ আৰু পঞ্জিকা দেখুৱাওক">
 <!ENTITY showHiddenFiles.accesskey  "S">
 
-<!ENTITY noPermissionError.label "You do not have the permissions necessary to view this directory.">
+<!ENTITY noPermissionError.label "এই পঞ্জিকা চাবলৈ আপোনাৰ ওচৰত প্ৰয়োজনীয় অনুমতি নাই ।">
 
-<!ENTITY folderUp.tooltiptext   "Go up a level">
-<!ENTITY folderHome.tooltiptext "Go to home">
-<!ENTITY folderNew.tooltiptext  "Create new directory">
+<!ENTITY folderUp.tooltiptext   "এটা ওপৰৰ স্তৰলৈ যাওক">
+<!ENTITY folderHome.tooltiptext "ঘৰলৈ যাওক">
+<!ENTITY folderNew.tooltiptext  "নতুন পঞ্জিকা সৃষ্টি কৰক">

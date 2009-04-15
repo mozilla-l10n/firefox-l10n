@@ -16,3 +16,12 @@
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  undoCloseTab.label          "টেব বন্ধ কৰা কাৰ্য্য ওভতাওক">
 <!ENTITY  undoCloseTab.accesskey      "U">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY  openTabInNewWindow.accesskey "W">
+<!ENTITY  newTabButton.tooltip        "এটা নতুন টেব খোলক">
+<!ENTITY  openTabInNewWindow.label    "এটা নতুন সংযোগক্ষেত্ৰত খোলক">

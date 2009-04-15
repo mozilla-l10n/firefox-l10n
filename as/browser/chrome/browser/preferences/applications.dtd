@@ -7,8 +7,13 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "বিচাৰক:">
-<!ENTITY  filter.accesskey        "S">
 
-<!ENTITY  clear.label             "পৰিষ্কাৰ কৰক">
-<!ENTITY  clear.accesskey         "l">
+
+
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY  filter.emptytext        "বিচাৰক">

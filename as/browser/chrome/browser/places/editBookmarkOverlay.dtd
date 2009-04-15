@@ -21,3 +21,11 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "কাষৰ স্তম্ভত এই পত্ৰচিহ্ন তুলি লওক">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "নিৰ্ব্বাচন কৰক…">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "নতুন ফোল্ডাৰ">

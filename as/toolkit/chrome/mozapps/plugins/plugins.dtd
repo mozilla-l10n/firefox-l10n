@@ -1,22 +1,31 @@
-<!ENTITY pluginWizard.title                                  "Plugin Finder Service">
-<!ENTITY pluginWizard.firstPage.title                        "Welcome to the &pluginWizard.title;">
+<!ENTITY pluginWizard.title                                  "প্লাগ-ইন বিচৰাৰ সেৱা">
+<!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; লৈ স্বাগতম">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; is now checking for available plugins...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; এ এতিয়া পাব পৰা প্লাগ-ইন পৰীক্ষা কৰিছে...">
 
-<!ENTITY pluginWizard.availablePluginsPage.title             "Available Plugin Downloads">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "The following plugins are available:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Press Next to install these plugins.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Some plugins may require additional information from you during installation.">
+<!ENTITY pluginWizard.availablePluginsPage.title             "পাব পৰা প্লাগ-ইনৰ ডাউন্‌লোড">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "নিম্নলিখিত প্লাগ-ইন পোৱা যায়:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "এই প্লাগ-ইন সংস্থাপন কৰিবলৈ পিছলৈ টিপক ।">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "কিছুমান প্লাগ-ইনক সংস্থাপনৰ সময়ত আপোনাৰ পৰা অতিৰিক্ত তথ্যৰ প্ৰয়োজন হ'ব ।">
 
-<!ENTITY pluginWizard.licensePage.title                      "Plugin Licenses">
-<!ENTITY pluginWizard.licensePage.accept.label               "I agree.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "I do not agree (plugin will not be installed).">
+<!ENTITY pluginWizard.licensePage.title                      "প্লাগ-ইনৰ প্ৰমাণপত্ৰ">
+<!ENTITY pluginWizard.licensePage.accept.label               "মই মান্তি হৈছো ।">
+<!ENTITY pluginWizard.licensePage.deny.label                 "মই মানি ন'ল'ও (প্লাগ-ইন সংস্থাপন কৰা ন'হ'ব) ।">
 
-<!ENTITY pluginWizard.installPluginsPage.title               "Installing Plugins">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; is installing plugins...">
+<!ENTITY pluginWizard.installPluginsPage.title               "প্লাগ-ইন সংস্থাপন কৰক">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; এ প্লাগ-ইন সংস্থাপন কৰিছে...">
 
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; finished installing the missing plugins:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; এ হেৰুৱা প্লাগ-ইন সংস্থাপন কৰা সম্পূৰ্ণ কৰিলে:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Find out more about Plugins or manually find missing plugins.">
-<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; needs to be restarted for the plugin(s) to work.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "প্লাগ-ইনৰ বিষয়ে আৰু বিচাৰক বা নিজেই হেৰুৱা প্লাগ-ইন বিচাৰক ।">
+<!ENTITY pluginWizard.finalPage.restart.label                "প্লাগ-ইনে(সমূহ) কাম কৰিবলৈ &brandShortName; ক পুনৰাৰম্ভ কৰিব লাগিব ।">
 
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY disabledPlugin.label                                "এই বিষয়বস্তুৰ প্লাগ-ইন নিষ্ক্ৰিয় কৰা হৈছে । আপোনাৰ প্লাগ-ইন পৰিচালনা কৰিবলৈ ইয়াত টিপক ।">
+<!ENTITY blockedPlugin.label                                 "আপোনাৰ সুৰক্ষাৰ কাৰণে এই প্লাগ-ইনক বাধা দিয়া হৈছে ।">
+<!ENTITY missingPlugin.label                                 "প্লাগ-ইন ডাউন্‌লোড কৰিবলৈ ইয়াত টিপক ।">

@@ -63,3 +63,12 @@
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY evaluate.accesskey "v">
+<!ENTITY codeEval.label     "কোড:">
+<!ENTITY codeEval.accesskey "o">

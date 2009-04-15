@@ -131,18 +131,8 @@
 
 <!ENTITY search.label                              "বিচাৰক:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "অকল বৰ্ত্তমানৰ সংগ্ৰহ">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "সকলো পত্ৰচিহ্ন">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "নিৰ্ব্বাচিত ফোল্ডাৰ">
 <!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "সকলো পত্ৰচিহ্ন">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "পত্ৰচিহ্নৰ তালিকা">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "পত্ৰচিহ্নৰ টুলবাৰ">
-<!ENTITY search.scopeToolbar.accesskey             "T">
 <!ENTITY search.scopeDownloads.label               "ডাউন্‌লোড">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ইতিহাস">
@@ -213,3 +203,15 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "পূৰ্ব প্ৰদৰ্শন">
 <!ENTITY detailsPane.selectAnItemText.description "গুণসমূহ চাই আৰু তাক সম্পাদন কৰিবলৈ এটা বস্তু নিৰ্ব্বাচন কৰক ।">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY search.scopeBookmarks.label               "পত্ৰচিহ্ন">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY cmd.deleteDomainData.label     "এই ছাইটৰ কথা পাহৰি যাওক">
+<!ENTITY cmd.delete.label               "এই পৃষ্ঠা আঁতৰাওক">
+<!ENTITY search.scopeBookmarks.accesskey           "k">

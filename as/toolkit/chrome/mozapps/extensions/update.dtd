@@ -1,62 +1,56 @@
-<!ENTITY  updateWizard.title              "&brandShortName; Update">
+<!ENTITY  updateWizard.title              "&brandShortName; উন্নয়ন">
 
-<!ENTITY  offline.title                   "&brandShortName; is working offline">
-<!ENTITY  offline.description             "&brandShortName; needs to go online in order to see if updates
-                                           are available for your add-ons to make them compatible with this
-                                           version.">
-<!ENTITY  offline.toggleOffline.label     "Go online now.">
+<!ENTITY  offline.title                   "&brandShortName; অফ-লাইন কাম কৰিছে">
+<!ENTITY  offline.description             "&brandShortName; অন-লাইন হ'ব লাগিব আপোনাৰ এড-অ'নৰ কাৰণে উন্নয়ন আছে নে নাই চাবলৈ যাতে সিহঁতক এই সংস্কৰণৰ সৈতে সুসঙ্গত কৰিব পাৰি ।">
+<!ENTITY  offline.toggleOffline.label     "এতিয়া অন-লাইন হওক ।">
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
-<!ENTITY  mismatch.win.title              "Incompatible Add-ons">
-<!ENTITY  mismatch.top.label              "The following add-ons are not compatible with this version of
-                                           &brandShortName; and have been disabled:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; can check if there are compatible versions
-                                           of these add-ons available.">
+<!ENTITY  mismatch.win.title              "অসঙ্গত এড-অ'ন">
+<!ENTITY  mismatch.top.label              "এই এড-অ'নসমূহ &brandShortName; ৰ সৈতে সুসঙ্গত নহয় আৰু নিষ্ক্ৰিয় কৰা হৈছে:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; এ এই এড-অ'নসমূহৰ সুসঙ্গত সংস্কৰণ পোৱা যায় নে নাযায় পৰীক্ষা কৰিব পাৰে ।">
 
-<!ENTITY  checking.wizard.title           "Checking for Compatible Add-ons">
-<!ENTITY  checking.top.label              "Checking your incompatible add-ons for updates...">
-<!ENTITY  checking.status                 "This may take a few minutes...">
+<!ENTITY  checking.wizard.title           "সুসঙ্গত এড-অ'নৰ কাৰণে পৰীক্ষা কৰা হৈছে">
+<!ENTITY  checking.top.label              "উন্নয়নৰ কাৰণে আপোনাৰ অসঙ্গত এড-অ'ন পৰীক্ষা কৰা হৈছে...">
+<!ENTITY  checking.status                 "কিছু সময়ৰ প্ৰয়োজন হ'ব...">
 
-<!ENTITY  found.wizard.title               "Found Compatible Add-ons">
-<!ENTITY  found.top.label                 "Select the add-ons you would like to install:">
-<!ENTITY  found.disabledXPinstall.label   "These updates can't be installed because software installation is currently
-                                           disabled. You can change this setting below.">
-<!ENTITY  found.enableXPInstall.label     "Allow web sites to install software">
+<!ENTITY  found.wizard.title               "সুসঙ্গত এড-অ'ন পোৱা গৈছে">
+<!ENTITY  found.top.label                 "সংস্থাপন কৰিব বিচৰা এড-অ'নসমূহ বাচি লওক:">
+<!ENTITY  found.disabledXPinstall.label   "এই উন্নয়ন সংস্থাপন কৰিব নোৱাৰি কাৰণ চালনাজ্ঞানৰ সংস্থাপন বৰ্ত্তমানে নিষ্ক্ৰিয় । এই পছন্দ আপুনি তলত সলনি কৰিব পাৰে ।">
+<!ENTITY  found.enableXPInstall.label     "ৱেব ছাইটক চালনাজ্ঞান সংস্থাপন কৰিব দিব">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
-<!ENTITY  installing.wizard.title         "Installing Compatible Add-ons">
-<!ENTITY  installing.top.label            "Downloading and installing updates to your add-ons...">
+<!ENTITY  installing.wizard.title         "সুসঙ্গত এড-অ'ন সংস্থাপন কৰা হৈছে">
+<!ENTITY  installing.top.label            "আপোনাৰ এড-অ'নলৈ উন্নয়ন ডাউন্‌লোড কৰি সংস্থাপন কৰা গৈছে...">
 
-<!ENTITY  noupdates.wizard.title          "No Compatible Add-ons Found">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; was unable to find updates to your
-                                           incompatible add-ons.">
-<!ENTITY  noupdates.error.desc            "Some problems were encountered when trying to find updates.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; will check periodically and inform you
-                                           when compatible updates for these add-ons are found.">
+<!ENTITY  noupdates.wizard.title          "কোনো সুসঙ্গত এড-অ'ন পোৱা ন'গ'ল">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; এ আপোনাৰ অসঙ্গত এড-অ'নৰ কাৰণে উন্নয়ন নাপালে ।">
+<!ENTITY  noupdates.error.desc            "উন্নয়ন বিচাৰোঁতে কিছুমান সমস্যা দেখা গ'ল ।">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; এ সময়ে সময়ে পৰীক্ষা কৰি এই এড-অ'নৰ কাৰণে সুসঙ্গত উন্নয়ন কেতিয়া পোৱা যায় আপোনাক ক'ব ।">
 
-<!ENTITY  finished.wizard.title           "Compatible Add-ons Installed">
-<!ENTITY  finished.top.label              "&brandShortName; has installed the updates to your add-ons.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; can check periodically and inform you
-                                           when updates for add-ons are found.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; will check periodically and inform you
-                                           when updates for add-ons are found.">
+<!ENTITY  finished.wizard.title           "সুসঙ্গত এড-অ'ন সংস্থাপিত">
+<!ENTITY  finished.top.label              "&brandShortName; এ আপোনাৰ এড-অ'নত উন্নয়ন সংস্থাপন কৰিলে ।">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; এ সময়ে সময়ে পৰীক্ষা কৰিব আৰু এড-অ'নৰ কাৰণে উন্নয়ন কেতিয়া পোৱা যায় আপোনাক ক'ব ।">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; এ সময়ে সময়ে পৰীক্ষা কৰিব আৰু এড-অ'নৰ কাৰণে উন্নয়ন কেতিয়া পোৱা যায় আপোনাক ক'ব ।">
 
-<!ENTITY  adminDisabled.wizard.title      "Unable to Check for Updates">
-<!ENTITY  adminDisabled.warning.label     "It is not possible to check for updates to incompatible add-ons
-                                           because software installation for &brandShortName; has been disabled.
-                                           Please contact your System Administrator for assistance.">
+<!ENTITY  adminDisabled.wizard.title      "উন্নয়নৰ কাৰণে পৰীক্ষা কৰিব নোৱাৰি">
+<!ENTITY  adminDisabled.warning.label     "অসঙ্গত এড-অ'নৰ কাৰণে উন্নয়ন পৰীক্ষা কৰিব নোৱাৰি কাৰণ &brandShortName; ৰ কাৰণে চালনাজ্ঞানৰ সংস্থাপন নিষ্ক।ৰিয় কৰা হৈছে । সহায়ৰ কাৰণে আপোনাৰ ব্যৱস্থাপ্ৰণালীৰ প্ৰশাসকক লগ ধৰক ।">
 
-<!ENTITY  versioninfo.wizard.title        "Checking Compatibility of Add-ons">
-<!ENTITY  versioninfo.top.label           "Checking your add-ons for compatibility with this
-                                           version of &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "This may take a few minutes...">
+<!ENTITY  versioninfo.wizard.title        "এড-অ'ন সুসঙ্গত হোৱা পৰীক্ষা কৰা হৈছে">
+<!ENTITY  versioninfo.top.label           "&brandShortName; ৰ এই সংস্কৰণৰ সৈতে এড-অ'ন সুসঙ্গত হোৱা পৰীক্ষা কৰা হৈছে ।">
+<!ENTITY  versioninfo.waiting             "কিছু সময়ৰ প্ৰয়োজন হ'ব পাৰে...">
 
-<!ENTITY  installerrors.wizard.title      "Problems Installing Updates">
-<!ENTITY  installerrors.intro.label       "&brandShortName; encountered problems when updating
-                                           some of your add-ons.">
+<!ENTITY  installerrors.wizard.title      "উন্নয়ন সংস্থাপন কৰিবলৈ সমস্যা">
+<!ENTITY  installerrors.intro.label       "আপোনাৰ কিছুমান এড-অ'ন উন্নয়ন কৰোঁতে &brandShortName; এ কিছুমান সমস্যা পাইছে ।">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Click Finish to continue starting &brandShortName;.">
-<!ENTITY  enableChecking.label            "Allow &brandShortName; to check for updates.">
-<!ENTITY  details.label                   "Details...">
+<!ENTITY  clickFinish.label               "&brandShortName; আৰম্ভ কৰা কাৰ্য্যত আগবাঢ়িবলৈ সমাপ্ত টিপক ।">
+<!ENTITY  enableChecking.label            "&brandShortName; ক উন্নয়ন পৰীক্ষা কৰিব দিব ।">
+<!ENTITY  details.label                   "বিৱৰণ...">
 <!ENTITY  details.accesskey               "D">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY  clickFinish.labelMac            "&brandShortName; আৰম্ভ কৰা কাৰ্য্যত আগবাঢ়িবলৈ হৈ গ'ল টিপক ।">

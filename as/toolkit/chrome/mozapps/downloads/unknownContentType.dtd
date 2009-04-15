@@ -45,15 +45,12 @@
 <!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 "অন্য...">
 
-<!ENTITY  save.label                  "ডিষ্কলৈ ৰক্ষা কৰক">
-<!ENTITY  save.accesskey              "s">
+
 
 <!ENTITY  rememberChoice.label        "এনেধৰণৰ নথিপত্ৰৰ সৈতে সদায়ে এনেদৰে কৰিব ।">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  settingsChange.label        "সৰঞ্জাম, বিকল্পৰ বিষয়বস্তু বিভাগত পছন্দ সলনি কৰিব পাৰে ।">
-<!ENTITY  settingsChangeMac.label     "&brandShortName;, পছন্দৰ বিষয়বস্তু বিভাগত পছন্দ সলনি কৰিব পাৰি ।">
-<!ENTITY  settingsChangeUnix.label    "সম্পাদন,পছন্দৰ বিষয়বস্তু বিভাগত পছন্দ সলনি কৰিব পাৰে ।">
+
 
 <!ENTITY  whichIsA.label              "যি এটা:">
 
@@ -63,3 +60,11 @@
 <!ENTITY  chooseHandler.accesskey     "B">
 
 <!ENTITY  unknownPromptText.label     "আপুনি এই নথিপত্ৰ ৰক্ষা কৰিব বিচাৰে নে ?">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY  saveFile.label              "নথিপত্ৰ ৰক্ষা কৰক">
+<!ENTITY  saveFile.accesskey          "s">
