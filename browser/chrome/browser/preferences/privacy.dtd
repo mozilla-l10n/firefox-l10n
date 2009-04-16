@@ -57,7 +57,7 @@
 <!ENTITY  clearDataSettings.label        "Innstillingar …">
 <!ENTITY  clearDataSettings.accesskey    "t">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortNamevil:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; vil:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Hugse historikk">
 <!ENTITY  historyHeader.dontremember.label "Aldri hugse historikk">
