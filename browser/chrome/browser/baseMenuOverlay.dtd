@@ -22,7 +22,6 @@
 <!ENTITY helpReleaseNotes.label "Notas de publicación">
 <!ENTITY helpReleaseNotes.accesskey "N">
 <!ENTITY updateCmd.label "Buscar actualizaciones…">
-<!ENTITY updateCmd.accesskey "o">
 <!ENTITY preferencesCmdMac.label "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
