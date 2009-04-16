@@ -197,7 +197,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "s">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Blêdwizers en skiednis trochsykje">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Blêdwizers en skiednis trochsykje">
 <!ENTITY urlbar.bookmark.emptyText    "Blêdwizers trochsykje">
 <!ENTITY urlbar.history.emptyText     "Skiednis trochsykje">
