@@ -1,6 +1,6 @@
 <!ENTITY     tab.cookiesonsystem.label      "Збережені куки">
 <!ENTITY     tab.bannedservers.label        "Сайти з куками">
-<!ENTITY     div.bannedservers.label        "Впорядкувати сайти, котрі можуть або не можуть зберігати куки на вашому комп'ютері.">
+<!ENTITY     div.bannedservers.label        "Налаштувати сайти, котрі можуть або не можуть зберігати куки на вашому комп'ютері.">
 <!ENTITY     div.cookiesonsystem.label      "Переглянути та вилучити куки, котрі збережені на вашому комп'ютері.">
 <!ENTITY     treehead.cookiename.label      "Назва куки">
 <!ENTITY     treehead.cookiedomain.label    "Сайт"> 
@@ -25,7 +25,7 @@
 
 <!ENTITY     treehead.sitename.label        "Сайт">
 <!ENTITY     treehead.status.label          "Стан">
-<!ENTITY     windowtitle.label              "Впорядкування кук">
+<!ENTITY     windowtitle.label              "Налаштування кук">
 <!ENTITY     buttonaccept.label             "Закрити">
 <!ENTITY     buttonaccept.accesskey         "З">
 
