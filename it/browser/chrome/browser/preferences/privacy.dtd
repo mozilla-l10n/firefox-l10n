@@ -7,14 +7,6 @@
 <!ENTITY locbar.history.label "cronologia">
 <!ENTITY locbar.bookmarks.label "segnalibri">
 <!ENTITY locbar.nothing.label "nessun suggerimento">
-<!ENTITY rememberDaysBefore.label "Conserva la cronologia per almeno">
-<!ENTITY rememberDaysBefore.accesskey "C">
-<!ENTITY rememberDaysAfter2.label "giorni">
-<!ENTITY rememberForms.label "Salva le informazioni inserite nei moduli e nella barra di ricerca">
-<!ENTITY rememberForms.accesskey "v">
-<!ENTITY rememberDownloads.label "Ricorda i file scaricati">
-<!ENTITY rememberDownloads.accesskey "R">
-<!ENTITY cookies.label "Cookie">
 <!ENTITY acceptCookies.label "Accetta i cookie dai siti">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.label "Accetta i cookie di terze parti">
@@ -28,11 +20,6 @@
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "Mostra i cookie…">
 <!ENTITY showCookies.accesskey "M">
-<!ENTITY privateData.label "Dati personali">
-<!ENTITY alwaysClear.label "Elimina sempre i dati personali alla chiusura di &brandShortName;">
-<!ENTITY alwaysClear.accesskey "n">
-<!ENTITY clearDataSettings.label "Impostazioni…">
-<!ENTITY clearDataSettings.accesskey "s">
 <!ENTITY historyHeader.pre.label "Impostazioni cronologia:">
 <!ENTITY historyHeader.pre.accesskey "m">
 <!ENTITY historyHeader.remember.label "salva la cronologia">

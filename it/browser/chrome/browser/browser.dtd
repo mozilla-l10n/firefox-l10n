@@ -160,7 +160,6 @@
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "V">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "Cerca segnalibri e cronologia">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Cerca nei segnalibri e nella cronologia">
 <!ENTITY urlbar.bookmark.emptyText "Cerca nei segnalibri">
 <!ENTITY urlbar.history.emptyText "Cerca nella cronologia">
