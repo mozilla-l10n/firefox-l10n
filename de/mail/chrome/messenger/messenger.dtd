@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newAccountCmd.label "Konto…">
 <!ENTITY newAccountCmd.accesskey "o">
+<!ENTITY newMailAccountCmd.label "Konto (Quick Setup)…">
+<!ENTITY newMailAccountCmd.accesskey "Q">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY openAttachmentCmd.label "Anhänge">
