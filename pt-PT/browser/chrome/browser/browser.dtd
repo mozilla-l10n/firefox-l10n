@@ -198,7 +198,6 @@ shortcut keys on Linux. -->
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "Procurar em Marcadores e Histórico">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Pesquisar marcadores e histórico">
 <!ENTITY urlbar.bookmark.emptyText    "Pesquisar marcadores">
 <!ENTITY urlbar.history.emptyText     "pesquisar histórico">
