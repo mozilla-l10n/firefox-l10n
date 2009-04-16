@@ -7,14 +7,6 @@
 <!ENTITY locbar.history.label "Historial">
 <!ENTITY locbar.bookmarks.label "Marcadores">
 <!ENTITY locbar.nothing.label "Nada">
-<!ENTITY rememberDaysBefore.label "Guardar mi historial por al menos">
-<!ENTITY rememberDaysBefore.accesskey "g">
-<!ENTITY rememberDaysAfter2.label "días">
-<!ENTITY rememberForms.label "Recordar la información introducida en formularios y barra de búsqueda">
-<!ENTITY rememberForms.accesskey "t">
-<!ENTITY rememberDownloads.label "Recordar las descargas">
-<!ENTITY rememberDownloads.accesskey "d">
-<!ENTITY cookies.label "Cookies">
 <!ENTITY acceptCookies.label "Aceptar cookies">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.label "Incluso las de terceros">
@@ -28,11 +20,6 @@
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "Mostrar cookies…">
 <!ENTITY showCookies.accesskey "S">
-<!ENTITY privateData.label "Datos privados">
-<!ENTITY alwaysClear.label "Limpiar siempre los datos privados cuando cierre &brandShortName;">
-<!ENTITY alwaysClear.accesskey "v">
-<!ENTITY clearDataSettings.label "Configuración…">
-<!ENTITY clearDataSettings.accesskey "f">
 <!ENTITY historyHeader.pre.label "&brandShortName; podrá:">
 <!ENTITY historyHeader.pre.accesskey "F">
 <!ENTITY historyHeader.remember.label "Recordar historial">
