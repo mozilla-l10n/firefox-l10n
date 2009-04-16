@@ -1,35 +1,35 @@
-<!ENTITY prefWindow.title "Настройки">
+<!ENTITY prefWindow.title "Налаштування">
 <!ENTITY categoryHeader "Категорія">
-<!ENTITY appear.label "Appearance">
-<!ENTITY content.label "Зміст">
+<!ENTITY appear.label "Вигляд">
+<!ENTITY content.label "Вміст">
 <!ENTITY fonts.label "Шрифти">
 <!ENTITY colors.label "Кольори">
-<!ENTITY navigator.label "Browser">
-<!ENTITY history.label "Історія">
+<!ENTITY navigator.label "Навігатор">
+<!ENTITY history.label "Журнал">
 <!ENTITY languages.label "Мови">
-<!ENTITY applications.label "Helper Applications">
-<!ENTITY locationBar.label "Location Bar">
-<!ENTITY tabWindows.label "Tabbed Browsing">
+<!ENTITY applications.label "Довідник програм">
+<!ENTITY locationBar.label "Панель розміщення">
+<!ENTITY tabWindows.label "Навігація вкладок">
 <!ENTITY offline.label "Автономно">
-<!ENTITY security.label "Privacy &amp; Security">
+<!ENTITY security.label "Особистий &amp; захист">
 <!ENTITY cookies.label "Куки">
-<!ENTITY images.label "Images">
-<!ENTITY popups.label "Popup Windows">
+<!ENTITY images.label "Зображення">
+<!ENTITY popups.label "Виринаючі вікна">
 <!ENTITY passwords.label "Паролі">
-<!ENTITY masterpass.label "Master Passwords">
+<!ENTITY masterpass.label "Майстер паролів">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Сертифікати">
 <!ENTITY validation.label "Перевірка">
 <!ENTITY advance.label "Додатково">
-<!ENTITY down.label "Завантажити">
+<!ENTITY down.label "Звантажити">
 <!ENTITY cache.label "Кеш">
-<!ENTITY proxies.label "Proxies">
-<!ENTITY httpnetworking.label "HTTP Networking">
+<!ENTITY proxies.label "Проксі">
+<!ENTITY httpnetworking.label "Організація мережі HTTP">
 <!ENTITY smart.label "Встановлення програмного забезпечення">
-<!ENTITY download.label "Завантаження">
-<!ENTITY keynav.label "Keyboard Navigation">
-<!ENTITY search.label "Internet Search">
-<!ENTITY policies.label "Security Policies">
-<!ENTITY mousewheel.label "Mouse Wheel">
-<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
+<!ENTITY download.label "Звантаження">
+<!ENTITY keynav.label "Клавіатура">
+<!ENTITY search.label "Пошуковець">
+<!ENTITY policies.label "Умови захисту">
+<!ENTITY mousewheel.label "Коліщатко мишки">
+<!ENTITY scriptsAndWindows.label "Скриптові &amp; модулі">
 <!ENTITY focusSearch.key "f">

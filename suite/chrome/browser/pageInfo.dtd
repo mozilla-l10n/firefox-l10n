@@ -134,7 +134,7 @@
 <!ENTITY  securityView.identity.domain   "Сайт: ">
 <!ENTITY  securityView.identity.verifier "Перевірив: ">
 
-<!ENTITY  securityView.privacy.header                   "Приватний &amp; журнал">
+<!ENTITY  securityView.privacy.header                   "Особистий &amp; журнал">
 <!ENTITY  securityView.privacy.history                  "Відвідував я цей сайт раніше ніж сьогодні?">
 <!ENTITY  securityView.privacy.cookies                  "Цей сайт зберігає інформацію (куки) на мій комп'ютер?">
 <!ENTITY  securityView.privacy.viewCookies              "Подивитись куки">
