@@ -197,7 +197,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText             "Buscar marcadores e historial">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Buscar marcadores e historial">
 <!ENTITY urlbar.bookmark.emptyText    "Buscar marcadores">
 <!ENTITY urlbar.history.emptyText     "Buscar historial">
