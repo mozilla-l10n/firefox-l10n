@@ -37,5 +37,5 @@
 <!ENTITY itemSitePreferences.label "Preferenze siti">
 <!ENTITY itemSitePreferences.accesskey "P">
 <!ENTITY sanitizeEverythingUndoWarning "Questa azione non può essere annullata.">
-<!ENTITY dialog.width "32em">
+<!ENTITY dialog.width "33em">
 <!ENTITY column.width "16em">
