@@ -8,18 +8,18 @@
 <!ENTITY locbar.bookmarks.label "segnalibri">
 <!ENTITY locbar.nothing.label "nessun suggerimento">
 <!ENTITY acceptCookies.label "Accetta i cookie dai siti">
-<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptCookies.accesskey "k">
 <!ENTITY acceptThirdParty.label "Accetta i cookie di terze parti">
 <!ENTITY acceptThirdParty.accesskey "t">
 <!ENTITY keepUntil.label "Conservali fino:">
-<!ENTITY keepUntil.accesskey "o">
+<!ENTITY keepUntil.accesskey "v">
 <!ENTITY expire.label "alla loro scadenza">
 <!ENTITY close.label "alla chiusura di &brandShortName;">
 <!ENTITY askEachTime.label "chiedi ogni volta">
 <!ENTITY cookieExceptions.label "Eccezioni…">
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "Mostra i cookie…">
-<!ENTITY showCookies.accesskey "M">
+<!ENTITY showCookies.accesskey "r">
 <!ENTITY historyHeader.pre.label "Impostazioni cronologia:">
 <!ENTITY historyHeader.pre.accesskey "m">
 <!ENTITY historyHeader.remember.label "salva la cronologia">
@@ -29,7 +29,7 @@
 <!ENTITY rememberDescription.label "Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca e i cookie impostati dai siti visitati.">
 <!ENTITY rememberActions.pre.label "È possibile ">
 <!ENTITY rememberActions.clearHistory.label "cancellare la cronologia recente">
-<!ENTITY rememberActions.middle.label "n ">
+<!ENTITY rememberActions.middle.label " o ">
 <!ENTITY rememberActions.removeCookies.label "rimuovere selettivamente dei cookie">
 <!ENTITY rememberActions.post.label ".">
 <!ENTITY dontrememberDescription.label "Verranno utilizzate le stesse impostazioni della navigazione privata: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.">
@@ -46,6 +46,6 @@
 <!ENTITY rememberSearchForm.label "Conserva la cronologia delle ricerche e dei moduli">
 <!ENTITY rememberSearchForm.accesskey "o">
 <!ENTITY clearOnClose.label "Cancella la cronologia alla chiusura di &brandShortName;">
-<!ENTITY clearOnClose.accesskey "e">
+<!ENTITY clearOnClose.accesskey "n">
 <!ENTITY clearOnCloseSettings.label "Impostazioni…">
-<!ENTITY clearOnCloseSettings.accesskey "m">
+<!ENTITY clearOnCloseSettings.accesskey "s">
