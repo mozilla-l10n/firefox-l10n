@@ -15,7 +15,7 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Signaturtext:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "HTML verwenden (z.B.: &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "HTML verwenden (z.B.: &lt;b&gt;fett&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Statt dessen eine Datei als Signatur anhängen (Text, HTML, oder Grafik):">
 <!ENTITY signatureFile.accesskey "t">
