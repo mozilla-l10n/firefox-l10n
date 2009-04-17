@@ -110,7 +110,7 @@
 <!ENTITY BPProps.AlwaysStopRadio.label "Skončit bez ohledu na výsledek">
 <!ENTITY BPProps.ConditionalBreakRadio.label "Skončit pokud je výsledek pravda">
 <!ENTITY BPProps.EarlyReturnRadio.label "Předčasný návrat z volajícího s výsledkem">
-<!ENTITY BPProps.PassExceptionsCheck.label "Předat vyjímku volajícímu">
+<!ENTITY BPProps.PassExceptionsCheck.label "Předat výjimku volajícímu">
 <!ENTITY BPProps.LogResultCheck.label "Zaznamenat výsledek">
 <!ENTITY BPProps.Apply.label "Použít">
 <!ENTITY BPProps.Revert.label "Vrátit změny">

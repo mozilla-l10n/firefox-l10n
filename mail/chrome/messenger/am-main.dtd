@@ -1,30 +1,35 @@
 <!-- extracted from am-main.xul -->
+
 <!ENTITY accountTitle.label "Nastavení účtu">
 <!ENTITY accountName.label "Název účtu:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Výchozí identita">
 <!ENTITY identityDesc.label "Každý účet obsahuje identifikační informace, které ostatní lidé vidí při čtení vašich zpráv.">
-<!ENTITY name.label "Vaše jméno:">
-<!ENTITY name.accesskey "m">
+<!ENTITY name.label "Jméno:">
+<!ENTITY name.accesskey "J">
 <!ENTITY email.label "E-mailová adresa:">
 <!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Adresa pro odpovědi:">
-<!ENTITY replyTo.accesskey "d">
+<!ENTITY replyTo.label "Adresa pro odpověď:">
+<!ENTITY replyTo.accesskey "A">
 <!ENTITY organization.label "Společnost:">
-<!ENTITY organization.accesskey "o">
-<!ENTITY signature.label "Připojovat tento podpis">
-<!ENTITY signature.accesskey "P">
+<!ENTITY organization.accesskey "S">
+<!ENTITY signatureText.label "Text podpisu:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Použít HTML (např. &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY signatureFile.label "Připojit podpis ze souboru (text, HTML nebo obrázek):">
+<!ENTITY signatureFile.accesskey "P">
 <!ENTITY edit.label "Upravit…">
 <!ENTITY choose.label "Vybrat…">
 <!ENTITY choose.accesskey "V">
 <!ENTITY editVCard.label "Upravit vizitku…">
-<!ENTITY editVCard.accesskey "p">
+<!ENTITY editVCard.accesskey "U">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Ke zprávám připojovat vizitku (vCard)">
-<!ENTITY attachVCard.accesskey "v">
+<!ENTITY attachVCard.accesskey "z">
 <!ENTITY manageIdentities.label "Spravovat identity…">
-<!ENTITY manageIdentities.accesskey "S">
+<!ENTITY manageIdentities.accesskey "r">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Odchozí server (SMTP)">
-<!ENTITY smtpName.accesskey "d">
+<!ENTITY smtpName.accesskey "O">
 <!ENTITY smtpDefaultServer.label "Použít výchozí server">
