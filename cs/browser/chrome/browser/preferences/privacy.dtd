@@ -10,24 +10,6 @@
 <!ENTITY locbar.bookmarks.label "Záložky">
 <!ENTITY locbar.nothing.label "Nic">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
--->
-<!ENTITY rememberDaysBefore.label "Uchovávat historii stránek nejméně">
-<!ENTITY rememberDaysBefore.accesskey "h">
-<!ENTITY rememberDaysAfter2.label "dnů">
-
-<!ENTITY rememberForms.label "Pamatovat si údaje ve formulářích a vyhledávacím poli">
-<!ENTITY rememberForms.accesskey "m">
-
-<!ENTITY rememberDownloads.label "Pamatovat si stažené soubory">
-<!ENTITY rememberDownloads.accesskey "o">
-
-
-<!ENTITY cookies.label "Cookies">
 
 <!ENTITY acceptCookies.label "Povolit serverům nastavovat cookies">
 <!ENTITY acceptCookies.accesskey "c">
@@ -48,14 +30,6 @@
 <!ENTITY showCookies.label "Správce cookies…">
 <!ENTITY showCookies.accesskey "S">
 
-
-<!ENTITY privateData.label "Důvěrná data">
-
-<!ENTITY alwaysClear.label "Při ukončení aplikace &brandShortName; vymazat důvěrná data">
-<!ENTITY alwaysClear.accesskey "u">
-
-<!ENTITY clearDataSettings.label "Nastavení…">
-<!ENTITY clearDataSettings.accesskey "t">
 
 <!ENTITY historyHeader.pre.label "Nastavení historie:">
 <!ENTITY historyHeader.pre.accesskey "h">

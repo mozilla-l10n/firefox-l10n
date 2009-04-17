@@ -197,7 +197,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "Hledejte v záložkách a historii">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Hledejte v záložkách a historii">
 <!ENTITY urlbar.bookmark.emptyText "Hledejte v záložkách">
 <!ENTITY urlbar.history.emptyText "Hledejte v historii">
