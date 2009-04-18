@@ -50,7 +50,7 @@
 <!ENTITY Department.accesskey "т">
 <!ENTITY JobTitle.label "Должность">
 <!ENTITY JobTitle.accesskey "Д">
-<!ENTITY CellularNumber.label "Мобильный телефон">
+<!ENTITY CellularNumber.label "Мобильный">
 <!ENTITY CellularNumber.accesskey "М">
 <!ENTITY PagerNumber.label "Пейджер">
 <!ENTITY PagerNumber.accesskey "е">
