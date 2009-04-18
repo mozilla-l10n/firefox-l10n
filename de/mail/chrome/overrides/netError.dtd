@@ -1,0 +1,180 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Seiten-Ladefehler">
+<!ENTITY retry.label "Nochmals versuchen">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Fehler: Verbindung fehlgeschlagen">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Fehler: Port aus Sicherheitsgründen blockiert">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Fehler: Server nicht gefunden">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Bitte überprüfen Sie die Adresse auf Tippfehler, wie
+    <strong>ww</strong>.beispiel.de statt
+    <strong>www</strong>.beispiel.de</li>
+  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die 
+	Netzwerk-/Internetverbindung.</li>
+  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher,
+	dass &brandShortName; auf das Internet zugreifen darf.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Fehler: Datei nicht gefunden">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Bitte überprüfen Sie den Dateinamen auf Rechtschreib-, Groß-/Kleinschreibungs- oder andere Fehler.</li>
+  <li>Bitte überprüfen Sie, ob die Datei umbenannt, gelöscht oder verschoben wurde.</li>
+</ul>
+">
+
+
+<!ENTITY generic.title "Fehler: Anfrage konnte nicht ausgeführt werden">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; konnte die Seite aus unbekanntem Grund nicht laden.</p>
+">
+
+<!ENTITY malformedURI.title "Fehler: Ungültige Adresse">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Web-Adressen sehen für gewöhnlich folgendermaßen aus:
+    <strong>http://www.beispiel.de/</strong></li>
+  <li>Bitte stellen Sie sicher, dass Sie nicht den umgekehrten, s
+	ondern den einfachen Schrägstrich verwenden (<strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "Fehler: Datenübertragung unterbrochen">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Fehler: Offline-Modus">
+<!ENTITY netOffline.longDesc "
+<ul>
+  <li>Deaktivieren Sie bitte den Offline-Modus in &brandShortName;, versuchen Sie es dann nochmals.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Content-Encoding-Fehler">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Kontaktieren Sie bitte den Inhaber der Website, um ihn über dieses Problem zu informieren.</li> 
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Unsicherer Dateityp">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Bitte kontaktieren Sie die Webseitenbetreiber, um sie über dieses Problem zu informieren.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Fehler: Verbindung unterbrochen">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Fehler: Netzwerk-Zeitüberschreitung">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Fehler: unbekanntes Protokoll">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Eventuell müssen Sie andere Software installieren, um diese Adresse aufrufen zu können.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "Fehler: Proxy-Server verweigert die Verbindung">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Überprüfen Sie bitte, ob die Proxy-Einstellungen korrekt sind</li>
+  <li>Kontaktieren Sie bitte Ihren Netzwerk-Administrator, um sicherzustellen, dass der Proxy-Server 
+	funktioniert</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Fehler: Proxy-Server nicht gefunden">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Überprüfen Sie bitte, ob die Proxy-Einstellungen korrekt sind.</li>
+  <li>Überprüfen Sie bitte, ob eine Netzwerk-/Internet-Verbindung besteht.</li>
+  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher,
+	dass &brandShortName; auf das Internet zugreifen darf.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "Fehler: Umleitungsfehler">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Dieses Problem kann manchmal auftreten, wenn Cookies deaktiviert oder abgelehnt 
+	werden.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Fehler: Unerwartete Antwort">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Bitte stellen Sie sicher, dass auf Ihrem System der Personal-Security-Manager 
+	installiert ist.</li>
+  <li>Dies kann mit einer nicht-standardgemäßen Konfiguration des Servers zusammenhängen.</li>
+</ul> 
+">
+
+<!ENTITY nssFailure2.title "Fehler: Gesicherte Verbindung fehlgeschlagen">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>Die Website kann nicht angezeigt werden, da die Authentizität der erhaltenen Daten nicht verifiziert werden konnte.</li>
+  <li>Kontaktieren Sie bitte den Inhaber der Website, um ihn über dieses Problem zu informieren. Alternativ können Sie auch die Funktion im Hilfe-Menü verwenden, um diese Website als fehlerhaft zu melden.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Sichere Verbindung fehlgeschlagen">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Dies könnte ein Problem mit der Konfiguration des Servers sein oder jemand, der vorgibt, 
+	der Server zu sein.</li>
+  <li>Falls Sie früher bereits erfolgreich eine Verbindung zu dem Server aufgebaut haben, 
+	könnte dies ein vorübergehender Fehler sein. Versuchen Sie es in diesem Fall später noch einmal.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es bitte 
+	später nochmals.</li>
+  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die 
+	Netzwerk-/Internetverbindung.</li>
+  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, 
+	stellen Sie bitte sicher, dass &brandShortName; auf das Internet zugreifen darf.</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "Angreifende Website vermutet!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Angreifende Websites versuchen Programme zu installieren, die private Daten stehlen, Ihren Computer benutzen, um andere anzugreifen oder Ihr System beschädigen</p>
+<p>Website-Inhaber, die glauben, dass ihre Website fälschlicherweise als angreifende Website gemeldet wurde, können unter <a href='http://www.stopbadware.org/home/reviewinfo' > eine erneute Einschätzung beantragen</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Vermuteter Web-Betrug!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Falls Sie hier persönliche Daten eingeben, müssen Sie mit Identitätsdiebstahl oder sonstigem Betrug rechnen.</p>
+<p>Diese Art von Internet-Betrug ist auch bekannt als Phishing. Dabei versuchen Kriminelle in betrügerischer Absicht, Webseiten oder E-Mails nachzuahmen, denen Sie eventuell vertrauen.</p>
+">
+
+<!ENTITY securityOverride.linkText "Oder Sie können eine Ausnahme hinzufügen…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Website verlassen!">
+<!ENTITY securityOverride.exceptionButtonLabel "Ausnahme hinzufügen…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningText "
+<p>Sie sollten keine Ausnahme hinzufügen, wenn Sie nicht absolutes Vertrauen in die Sicherheit Ihrer aktuellen Verbindung haben oder wenn Sie bisher keine Warnung für diesen Server erhalten haben.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">
