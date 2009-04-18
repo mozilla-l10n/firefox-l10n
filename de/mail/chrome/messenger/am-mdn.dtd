@@ -16,7 +16,7 @@
 <!ENTITY returnSome.accesskey         "B">
 <!ENTITY never.label                  "Nie eine Empfangsbestätigung senden">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "Wenn ich nicht in der An- oder CC-Zeile der Nachricht stehe:">
+<!ENTITY notInToCc.label              "Wenn ich nicht in der An-/CC-Zeile der Nachricht stehe:">
 <!ENTITY notInToCc.accesskey          "t">
 <!ENTITY outsideDomain.label          "Wenn der Absender außerhalb meiner Domain ist:">
 <!ENTITY outsideDomain.accesskey      "s">
