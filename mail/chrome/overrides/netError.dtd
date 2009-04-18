@@ -1,0 +1,168 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Erreur de chargement de la page">
+<!ENTITY retry.label "Réessayer">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "La connexion a échoué">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Cette adresse est restreinte">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Serveur introuvable">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Vérifiez l'adresse pour des erreurs telles que
+    <strong>ww</strong>.exemple.com au lieu de
+    <strong>www</strong>.exemple.com</li>
+  <li>Si vous n'arrivez à charger aucune page, vérifiez la connexion au réseau de votre ordinateur.</li>
+  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que &brandShortName; est autorisé à accéder au Web.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Fichier introuvable">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Vérifiez qu'il n'y a pas d'erreur de capitalisation ou d'autres erreurs typographiques.</li>
+  <li>Vérifiez si le fichier a été renommé, supprimé ou déplacé.</li>
+</ul>
+">
+
+<!ENTITY generic.title "Oups.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; ne peut charger cette page pour une raison inconnue.</p>
+">
+
+<!ENTITY malformedURI.title "L'adresse n'est pas valide">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Les adresses Web sont généralement de la forme
+    <strong>http://www.exemple.com/</strong></li>
+  <li>Assurez-vous d'utiliser des barres obliques (
+    « <strong>/</strong> »).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "La connexion a été interrompue">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Mode hors-connexion">
+<!ENTITY netOffline.longDesc "
+<ul>
+  <li>Mettez &brandShortName; en mode connecté et essayez à nouveau.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Erreur d'encodage de contenu">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Type de fichier non sûr">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "LA connexion a été réinitialidée">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Le délai d'attente a été dépassé">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "L'adresse n'a pas été comprise">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Vous avez peut-être besoin d'installer un autre logiciel pour ouvrir cette adresse.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "Le serveur proxy refusent les connexions">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Assurez-vous que les paramètres pour le proxy sont corrects.</li>
+  <li>Contactez votre administrateur réseau pour vous assurez que le serveur proxy fonctionne.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Le serveur proxy est introuvable">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Assurez-vous que les paramètres pour le proxy sont corrects.</li>
+  <li>Assurez-vous que l'ordinateur a une connexion au réseau qui fonctionne.</li>
+  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que &brandShortName; est autorisé à accéder au Web.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "La page n'est pas redirigée correctement">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Ce problème peut parfois être causé par la désactivation ou le refus des cookies.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Réponse inattendue du serveur">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Assurez-vous que le Gestionnaire de sécurité personnelle est installé sur votre système.</li>
+  <li>Ceci peut être dû à une configuration non-standard sur le serveur.</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "Échec de la connexion sécurisée">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>La page que vous essayez de consulter ne peut pas être affichée car l'authenticité des données reçues ne peut être vérifiée.</li>
+  <li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Échec de la connexion sécurisée">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Ceci peut être dû à un problème de configuration du serveur ou à une personne essayant d'usurper l'identité du serveur.</li>
+  <li>Si vous vous êtes déjà connecté avec succès à ce serveur, l'erreur est peut-être temporaire et vous pouvez essayer à nouveau plus tard.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Le site est peut-être temporairement indisponible. Réessayez plus tard.</li>
+  <li>Si vous ne parvenez à charger aucune page, vérifiez la connexion au réseau de votre ordinateur.</li>
+  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que &brandShortName; est autorisé à accéder au Web.</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "Suspicion de site malveillant !">
+<!ENTITY malwareBlocked.longDesc "
+<p>Les sites malveillants tentent d'installer des programmes qui volent les informations personnelles, qui utilisent votre ordinateur pour en attaquer d'autres ou qui endommagent votre système.</p>
+<p>Les propriétaires de sites Web qui pensent que leur site a été rapporté à tort comme malveillant peuvent <a href='http://www.stopbadware.org/home/reviewinfo'>demander une révision</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Suspicion de site contrefait !">
+<!ENTITY phishingBlocked.longDesc "
+<p>Saisir des informations personnelles sur cette page peut aboutir à un vol d'identité ou à une autre fraude.</p>
+<p>Ces types de contrefaçon de sites sont utilisés dans des courriels frauduleux conçus pour des attaques par hameçonnage (ou phishing), dans lesquelles les pages Web et les courriels frauduleux sont utilisés pour imiter des sources en lesquelles vous avez confiance.</p>
+">
+
+<!ENTITY securityOverride.linkText "Ou vous pouvez ajouter une exception…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Quitter cette page">
+<!ENTITY securityOverride.exceptionButtonLabel "Ajouter une exception…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to thunderbird. -->
+
+<!ENTITY securityOverride.warningText "
+<p>Vous ne devez pas ajouter d'exception si vous utilisez une connexion à Internet en laquelle vous n'avez pas totalement confiance ou si vous n'avez pas l'habitude de recevoir un avertissement pour ce serveur.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">
