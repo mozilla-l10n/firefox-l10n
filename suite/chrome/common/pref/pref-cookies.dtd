@@ -19,6 +19,6 @@
 <!ENTITY forCurrentSession.label "Виключно протягом сеансу">
 <!ENTITY forCurrentSession.accesskey "В">
 <!ENTITY manageCookies.label "Налаштувати куки і сайти">
-<!ENTITY manageCookiesDescription.label "Дозволяє вам переглядати і налаштовувати куки, що збереглись та дозволяти чи забороняти їх з того чи іншого сайта. Ці налаштування нехтуватимуть вищевказані.">
+<!ENTITY manageCookiesDescription.label "Дозволяє вам переглядати і налаштовувати куки, що зберіглись та дозволяти чи забороняти їх з того чи іншого сайта. Ці налаштування нехтуватимуть вищевказані.">
 <!ENTITY viewCookies.label "Налаштування кук">
 <!ENTITY viewCookies.accesskey "Н">

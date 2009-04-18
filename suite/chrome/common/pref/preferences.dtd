@@ -8,7 +8,7 @@
 <!ENTITY history.label "Журнал">
 <!ENTITY languages.label "Мови">
 <!ENTITY applications.label "Довідник програм">
-<!ENTITY locationBar.label "Панель розміщення">
+<!ENTITY locationBar.label "Панель адреси">
 <!ENTITY tabWindows.label "Навігація вкладок">
 <!ENTITY offline.label "Автономно">
 <!ENTITY security.label "Особистий &amp; захист">
