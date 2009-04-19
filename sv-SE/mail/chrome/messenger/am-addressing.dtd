@@ -63,6 +63,6 @@
 <!ENTITY belowText.label                      "efter citerad text (rekommenderas)">
 <!ENTITY aboveText.label                      "efter mitt svar (före citerad text)">
 <!ENTITY includeSigOnReply.label              "Använd signatur för svar">
-<!ENTITY includeSigOnReply.accesskey          "A">
+<!ENTITY includeSigOnReply.accesskey          "n">
 <!ENTITY includeSigOnForward.label            "Använd signatur för vidarebefordring">
 <!ENTITY includeSigOnForward.accesskey        "v">
