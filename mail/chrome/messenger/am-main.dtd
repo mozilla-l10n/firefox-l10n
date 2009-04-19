@@ -46,8 +46,8 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Signaturtext:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "Använd HTML (t.ex. &lt;b&gt;bold&lt;/b&gt;)">
-<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureHtml.label "Använd HTML (t.ex. &lt;b&gt;fetstil&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Bifoga signaturen från en fil i stället (text, HTML eller bild):">
 <!ENTITY signatureFile.accesskey "B">
 <!ENTITY edit.label "Redigera…">
