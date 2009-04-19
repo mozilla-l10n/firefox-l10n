@@ -205,7 +205,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l" >
-<!ENTITY urlbar.emptyText             "Szukaj w zakładkach i historii">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Szukaj w zakładkach i historii">
 <!ENTITY urlbar.bookmark.emptyText    "Szukaj w zakładkach">
 <!ENTITY urlbar.history.emptyText     "Szukaj w historii">

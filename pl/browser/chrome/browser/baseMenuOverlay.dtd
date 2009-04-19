@@ -28,7 +28,6 @@
 
 <!ENTITY helpReleaseNotes.accesskey     "I">
 <!ENTITY helpReleaseNotes.label         "Informacje o wydaniu">
-<!ENTITY updateCmd.accesskey            "a"> 
 <!ENTITY updateCmd.label                "Sprawdź dostępność aktualizacji…">
 
 <!ENTITY preferencesCmdMac.label        "Preferencje…">
