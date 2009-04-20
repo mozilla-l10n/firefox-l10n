@@ -1,4 +1,5 @@
 <!ENTITY addressing.label            "Tworzenie i adresowanie wiadomości">
+
 <!ENTITY addressingGroupTitle.label  "Adresowanie">
 <!ENTITY addressingText.label        "Podczas poszukiwania adresów:">
 <!ENTITY useGlobal.label             "Użyj globalnych ustawień serwera LDAP dla tego konta">
@@ -6,21 +7,22 @@
 <!ENTITY editDirectories.label       "Edytuj katalogi…">
 <!ENTITY editDirectories.accesskey   "E">
 <!ENTITY directories.label           "Użyj innego serwera LDAP:">
-<!ENTITY directories.accesskey       "D">
+<!ENTITY directories.accesskey       "L">
 <!ENTITY directoriesNone.label       "brak">
+
 <!ENTITY compositionGroupTitle.label "Tworzenie wiadomości">
 <!ENTITY useHtml.label               "Twórz wiadomości w formacie HTML">
-<!ENTITY useHtml.accesskey           "c">
+<!ENTITY useHtml.accesskey           "T">
 <!ENTITY autoQuote.label             "Podczas tworzenia odpowiedzi automatycznie cytuj oryginalną wiadomość">
-<!ENTITY autoQuote.accesskey         "a">
+<!ENTITY autoQuote.accesskey         "P">
 <!ENTITY then.label                  "a następnie">
-<!ENTITY then.accesskey              "t">
+<!ENTITY then.accesskey              "a">
 <!ENTITY aboveQuote.label            "rozpocznij odpowiedź powyżej cytowanego tekstu">
 <!ENTITY belowQuote.label            "rozpocznij odpowiedź poniżej cytowanego tekstu">
 <!ENTITY selectAndQuote.label        "zaznacz zacytowany tekst">
 
-<!ENTITY place.label                   "Dołącz sygnaturkę">
-<!ENTITY place.accesskey               "r">
+<!ENTITY place.label                   "Dołączaj sygnaturkę">
+<!ENTITY place.accesskey               "z">
 <!ENTITY belowText.label               "pod cytowanym tekstem (zalecane)">
 <!ENTITY aboveText.label               "poniżej odpowiedzi (ponad cytowanym tekstem)">
 <!ENTITY includeSigOnReply.label       "Dołączaj sygnaturkę przy odpowiadaniu">
