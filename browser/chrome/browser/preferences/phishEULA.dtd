@@ -1,7 +1,0 @@
-<!ENTITY phishDlg.title "Términos de servicio de la protección contra phishing">
-<!ENTITY phishDlg.height "40em">
-<!ENTITY phishDlg.width "35em">
-<!ENTITY acceptToS.label "Acepto estos términos de servicio de protección contra phishing">
-<!ENTITY declineToS.label "NO acepto estos términos de servicio de protección contra phishing">
-<!ENTITY accept.label "Aceptar y continuar">
-<!ENTITY cancel.label "Cancelar">
