@@ -2,7 +2,7 @@
 <!ENTITY restorepage.errorTitle "Bueno, esto es embarazoso.">
 <!ENTITY restorepage.problemDesc "&brandShortName; ha tenido un problema al recuperar las ventanas y las pestañas. Puede estar causado por una página web abierta recientemente.">
 <!ENTITY restorepage.tryThis "Puede intentar:">
-<!ENTITY restorepage.restoreSome "Elimine una o más pestañas que crea que puedan estar causando el problema">
+<!ENTITY restorepage.restoreSome "Eliminar una o más pestañas que crea que puedan estar causando el problema">
 <!ENTITY restorepage.startNew "Comenzar una nueva sesión de navegación">
 <!ENTITY restorepage.tryagainButton "Restaurar">
 <!ENTITY restorepage.restore.access "R">
