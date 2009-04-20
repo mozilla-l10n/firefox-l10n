@@ -345,7 +345,6 @@
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
 <!ENTITY editBookmark.edit.label                     "Përpunoni…">
 <!ENTITY editBookmark.edit.accessKey                 "P">
-<!ENTITY urlbar.emptyText             "Kërko në Faqerojtësa dhe Historik">
 <!ENTITY backForwardMenu.tooltip      "Faqe së fundmi">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
