@@ -18,7 +18,12 @@
 <!ENTITY aboveQuote.label            "rozpocznij odpowiedź powyżej cytowanego tekstu">
 <!ENTITY belowQuote.label            "rozpocznij odpowiedź poniżej cytowanego tekstu">
 <!ENTITY selectAndQuote.label        "zaznacz zacytowany tekst">
-<!ENTITY place.label                 "Dołącz sygnaturkę">
-<!ENTITY place.accesskey             "r">
-<!ENTITY belowText.label             "pod cytowanym tekstem (zalecane)">
-<!ENTITY aboveText.label             "poniżej odpowiedzi (ponad cytowanym tekstem)">
+
+<!ENTITY place.label                   "Dołącz sygnaturkę">
+<!ENTITY place.accesskey               "r">
+<!ENTITY belowText.label               "pod cytowanym tekstem (zalecane)">
+<!ENTITY aboveText.label               "poniżej odpowiedzi (ponad cytowanym tekstem)">
+<!ENTITY includeSigOnReply.label       "Dołączaj sygnaturkę przy odpowiadaniu">
+<!ENTITY includeSigOnReply.accesskey   "s">
+<!ENTITY includeSigOnForward.label     "Dołączaj sygnaturkę przy przekazywaniu">
+<!ENTITY includeSigOnForward.accesskey "p">
