@@ -59,14 +59,3 @@
 <!ENTITY useDefault.accesskey "O">
 <!ENTITY rememberLastMsg.label "Pamatovat si poslední vybranou zprávu">
 <!ENTITY rememberLastMsg.accesskey "p">
-<!ENTITY toolbarIntro.caption "Zvolte tlačítka, která chcete zobrazovat v nástrojové liště">
-<!ENTITY fileButton.label "Přesunout">
-<!ENTITY fileButton.accesskey "S">
-<!ENTITY nextButton.label "Další">
-<!ENTITY nextButton.accesskey "d">
-<!ENTITY junkMailButton.label "Nevyžádaná">
-<!ENTITY junkMailButton.accesskey "N">
-<!ENTITY printButton.label "Tisk">
-<!ENTITY printButton.accesskey "T">
-<!ENTITY stopButton.label "Zastavit">
-<!ENTITY stopButton.accesskey "S">
