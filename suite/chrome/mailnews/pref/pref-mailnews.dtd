@@ -59,14 +59,3 @@
 <!ENTITY useDefault.accesskey "R">
 <!ENTITY rememberLastMsg.label "Se souvenir du dernier message sélectionné">
 <!ENTITY rememberLastMsg.accesskey "S">
-<!ENTITY toolbarIntro.caption "Choisissez les boutons que vous désirez dans la barre d'outils">
-<!ENTITY fileButton.label "Classer">
-<!ENTITY fileButton.accesskey "C">
-<!ENTITY nextButton.label "Suivant">
-<!ENTITY nextButton.accesskey "S">
-<!ENTITY junkMailButton.label "Indésirable">
-<!ENTITY junkMailButton.accesskey "I">
-<!ENTITY printButton.label "Imprimer">
-<!ENTITY printButton.accesskey "m">
-<!ENTITY stopButton.label "Arrêter">
-<!ENTITY stopButton.accesskey "A">
