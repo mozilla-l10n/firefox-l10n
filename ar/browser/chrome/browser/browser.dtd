@@ -198,7 +198,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "ابحث في العلامات والتاريخ">
 <!ENTITY urlbar.bookmarkhistory.emptyText "ابحث في العلامات والتاريخ">
 <!ENTITY urlbar.bookmark.emptyText    "ابحث في العلامات">
 <!ENTITY urlbar.history.emptyText     "ابحث في التاريخ">

@@ -28,22 +28,6 @@
 <!ENTITY  rememberActions.removeCookies.label "تزيل الكعكات الشخصية">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-
-<!ENTITY rememberDaysBefore.label "احفظ تاريخي على الأقل">
-<!ENTITY rememberDaysBefore.accesskey "ت">
-<!ENTITY rememberDaysAfter2.label "أيام">
-
-<!ENTITY rememberForms.label "تذكر ما أدخله في الاستمارات و شريط البحث.">
-<!ENTITY rememberForms.accesskey "ش">
-
-<!ENTITY rememberDownloads.label "تذكر ما نزَّلتُه">
-<!ENTITY rememberDownloads.accesskey "ن">
 
 <!ENTITY  dontrememberDescription.label  "سيستخدم &brandShortName; نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تاريخ لتصفحك للوب.">
 
@@ -78,8 +62,6 @@
 <!ENTITY  clearOnCloseSettings.label     "إعدادات…">
 <!ENTITY  clearOnCloseSettings.accesskey "د">
 
-<!ENTITY cookies.label "الكعكات">
-
 <!ENTITY acceptCookies.label "اقبل الكعكات من المواقع">
 <!ENTITY acceptCookies.accesskey "ق">
 
@@ -98,12 +80,3 @@
 
 <!ENTITY showCookies.label "اعرض الكعكات…">
 <!ENTITY showCookies.accesskey "ع">
-
-
-<!ENTITY privateData.label "البيانات الشخصية">
-
-<!ENTITY alwaysClear.label "امسح دومًا بياناتي الشخصية عند غلق &brandShortName;">
-<!ENTITY alwaysClear.accesskey "ح">
-
-<!ENTITY clearDataSettings.label "الإعدادات…">
-<!ENTITY clearDataSettings.accesskey "ع">
