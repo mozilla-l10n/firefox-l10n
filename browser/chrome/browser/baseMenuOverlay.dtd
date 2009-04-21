@@ -18,31 +18,22 @@
 <!ENTITY helpForIEUsers.label "لمستعملي إنترنت إكسبلورر">
 <!ENTITY helpForIEUsers.accesskey "ك">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey "/">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
+
+<!ENTITY helpMac.commandkey "?">
 
 <!ENTITY helpReleaseNotes.label "ملاحظات الإصدار">
 <!ENTITY helpReleaseNotes.accesskey "ص">
 <!ENTITY updateCmd.label "التمس التحديثات…">
-<!ENTITY updateCmd.accesskey "ت">
 
 <!ENTITY preferencesCmdMac.label "التفضيلات…">
 <!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
 
 <!ENTITY servicesMenuMac.label "الخدمات">
 
 <!ENTITY hideThisAppCmdMac.label "اخفِ &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label "اخفِ الآخرين">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label "أظهر الكل">
