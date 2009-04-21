@@ -18,31 +18,21 @@
 <!ENTITY helpForIEUsers.label     "Foar Internet Explorer-brûkers">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY openHelpMac.commandkey   "VK_HELP">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpReleaseNotes.label         "Utjefte-opmerkings">
 <!ENTITY helpReleaseNotes.accesskey     "U">
-<!ENTITY helpReleaseNotes.label         "Utjefte opmerkings">
 <!ENTITY updateCmd.label                "Op nije ferzjes kontrolearje...">
 
 <!ENTITY preferencesCmdMac.label        "Foarkarren...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Tsjinsten">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; ferstopje">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Oare ferstopje">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Alles sjen litte">
-
