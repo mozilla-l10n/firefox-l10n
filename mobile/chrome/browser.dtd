@@ -41,13 +41,27 @@
 <!ENTITY editBookmarkDone.label "Terminé">
 <!ENTITY editBookmarkTags.label "Ajouter des étiquettes">
 
-<!ENTITY findOnCmd.label     "Chercher dans cette page…">
+<!ENTITY findOnCmd.label "Chercher dans cette page…">
 <!ENTITY findOnCmd.accesskey "C">
 <!ENTITY findOnCmd.commandkey "">
 <!ENTITY findAgainCmd.label  "Chercher à nouveau">
 <!ENTITY findAgainCmd.accesskey "h">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY addonsHeader.label "Modules">
+<!ENTITY addonsLocal.label "Vos modules">
+<!ENTITY addonsRepo.label "Obtenir des modules">
+<!ENTITY addonsRecommended.label "Recommandés">
+<!ENTITY addonsSearch.label "Catalogue">
+<!ENTITY addonsSearch.emptytext "Chercher un module">
+
+<!ENTITY addonOptions.label "Options">
+<!ENTITY addonEnable.label "Activer">
+<!ENTITY addonDisable.label "Désactiver">
+<!ENTITY addonInstall.label "Installer">
+<!ENTITY addonUninstall.label "Désinstaller">
+<!ENTITY addonCancel.label "Annuler">
 
 <!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit pas d'information sur son identité.">
 <!ENTITY identity.connectedTo "Vous vous trouvez sur">
