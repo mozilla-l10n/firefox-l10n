@@ -59,14 +59,3 @@
 <!ENTITY useDefault.accesskey "r">
 <!ENTITY rememberLastMsg.label "Zapamiętaj ostatnio wybraną wiadomość">
 <!ENTITY rememberLastMsg.accesskey "a">
-<!ENTITY toolbarIntro.caption "Wybierz przyciski, które będą wyświetlane na pasku narzędzi">
-<!ENTITY fileButton.label "Przenieś">
-<!ENTITY fileButton.accesskey "P">
-<!ENTITY nextButton.label "Następna">
-<!ENTITY nextButton.accesskey "N">
-<!ENTITY junkMailButton.label "Niechciana">
-<!ENTITY junkMailButton.accesskey "i">
-<!ENTITY printButton.label "Drukuj">
-<!ENTITY printButton.accesskey "D">
-<!ENTITY stopButton.label "Zatrzymaj">
-<!ENTITY stopButton.accesskey "Z">
