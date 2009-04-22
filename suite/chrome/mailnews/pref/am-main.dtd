@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "R">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Diese Signatur anhängen:">
-<!ENTITY signature.accesskey "D">
+<!ENTITY signatureText.label "Signaturtext:">
+<!ENTITY signatureText.accesskey "S">
+<!ENTITY signatureHtml.label "HTML verwenden">
+<!ENTITY signatureHtml.accesskey "T">
+<!ENTITY signatureFile.label "Stattdessen die Signatur aus einer Datei anhängen:">
+<!ENTITY signatureFile.accesskey "u">
 <!ENTITY choose.label "Durchsuchen…">
 <!ENTITY choose.accesskey "D">
 <!ENTITY editVCard.label "Karte bearbeiten…">
