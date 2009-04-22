@@ -15,21 +15,15 @@
 <!ENTITY helpForIEUsers.label "Per gli utenti di Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "x">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.commandkey "/">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Note di versione">
 <!ENTITY helpReleaseNotes.accesskey "v">
 <!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
 <!ENTITY preferencesCmdMac.label "Preferenze…">
 <!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Servizi">
 <!ENTITY hideThisAppCmdMac.label "Nascondi &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
 <!ENTITY hideOtherAppsCmdMac.label "Nascondi altre">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Mostra tutte">

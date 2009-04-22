@@ -41,6 +41,31 @@
 <!ENTITY findAgainCmd.accesskey "T">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY addonsHeader.label "Componenti aggiuntivi">
+<!ENTITY addonsLocal.label "Componenti installati">
+<!ENTITY addonsRepo.label "Esplora">
+<!ENTITY addonsRecommended.label "Componenti consigliati">
+<!ENTITY addonsSearch.label "Cerca raccolta">
+<!ENTITY addonsSearch.emptytext "Cerca un componente aggiuntivo">
+<!ENTITY addonOptions.label "Opzioni">
+<!ENTITY addonEnable.label "Attiva">
+<!ENTITY addonDisable.label "Disattiva">
+<!ENTITY addonInstall.label "Installa">
+<!ENTITY addonUninstall.label "Disinstalla">
+<!ENTITY addonCancel.label "Annulla">
+<!ENTITY downloadsHeader.label "Download">
+<!ENTITY downloadsSortDate.label "Per data">
+<!ENTITY downloadsSortSite.label "Per sito">
+<!ENTITY downloadsSortName.label "Per nome">
+<!ENTITY downloadsSearch.label "Cerca">
+<!ENTITY downloadsSearch.emptytext "Cerca un file scaricato">
+<!ENTITY downloadShowPage.label "Vai a pagina">
+<!ENTITY downloadShow.label "Trova file">
+<!ENTITY downloadOpen.label "Apri file">
+<!ENTITY downloadCancel.label "Annulla">
+<!ENTITY downloadPause.label "Pausa">
+<!ENTITY downloadResume.label "Riprendi">
+<!ENTITY downloadRetry.label "Riprova">
 <!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all'identità.">
 <!ENTITY identity.connectedTo "Si è connessi con">
 <!ENTITY identity.runBy "Questo sito è gestito da">
