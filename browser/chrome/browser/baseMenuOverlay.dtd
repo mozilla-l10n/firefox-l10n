@@ -18,7 +18,6 @@
 <!ENTITY helpForIEUsers.label     "Për Përdorues të Internet Explorer-it">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY openHelpMac.commandkey   "/">
 
 <!ENTITY helpReleaseNotes.label         "Shënime Versioni">
 <!ENTITY helpReleaseNotes.accesskey     "V">
@@ -26,19 +25,14 @@
 
 <!ENTITY preferencesCmdMac.label        "Parapëlqime…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Shërbime">
 
 <!ENTITY hideThisAppCmdMac.label        "Fshihe &brandShortName;-in">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fshihi Të tjerat">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Shfaqi Të tëra">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY helpMac.commandkey       "?">
