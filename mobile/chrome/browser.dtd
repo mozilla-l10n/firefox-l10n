@@ -63,6 +63,21 @@
 <!ENTITY addonUninstall.label "Désinstaller">
 <!ENTITY addonCancel.label "Annuler">
 
+<!ENTITY downloadsHeader.label "Téléchargements">
+<!ENTITY downloadsSortDate.label "Par date">
+<!ENTITY downloadsSortSite.label "Par site">
+<!ENTITY downloadsSortName.label "Par nom">
+<!ENTITY downloadsSearch.label "Rechercher">
+<!ENTITY downloadsSearch.emptytext "Rechercher un fichier téléchargé">
+
+<!ENTITY downloadShowPage.label "Aller à la page">
+<!ENTITY downloadShow.label "Rechercher le fichier">
+<!ENTITY downloadOpen.label "Ouvrir le fichier">
+<!ENTITY downloadCancel.label "Annuler">
+<!ENTITY downloadPause.label "Pause">
+<!ENTITY downloadResume.label "Reprendre">
+<!ENTITY downloadRetry.label "Réessayer">
+
 <!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit pas d'information sur son identité.">
 <!ENTITY identity.connectedTo "Vous vous trouvez sur">
 <!-- Localization note (identity.runBy) : This string appears between a
