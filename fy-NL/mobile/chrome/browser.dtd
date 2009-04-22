@@ -49,6 +49,35 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "Tafoegings">
+<!ENTITY addonsLocal.label         "Jo Tafoegings">
+<!ENTITY addonsRepo.label          "Krij Tafoegings">
+<!ENTITY addonsRecommended.label   "Sjoch oanrêt">
+<!ENTITY addonsSearch.label        "Sykje katalogus">
+<!ENTITY addonsSearch.emptytext    "Sykje nei in tafoeging">
+
+<!ENTITY addonOptions.label        "Opsjes">
+<!ENTITY addonEnable.label         "Ynskeakelje">
+<!ENTITY addonDisable.label        "Utskeakelje">
+<!ENTITY addonInstall.label        "Ynstallearje">
+<!ENTITY addonUninstall.label      "De-ynstallearje">
+<!ENTITY addonCancel.label         "Annulearje">
+
+<!ENTITY downloadsHeader.label     "Ynladen bestannen">
+<!ENTITY downloadsSortDate.label   "Per datum">
+<!ENTITY downloadsSortSite.label   "Per webtee">
+<!ENTITY downloadsSortName.label   "Per namme">
+<!ENTITY downloadsSearch.label     "Sykje">
+<!ENTITY downloadsSearch.emptytext "Sykje nei ynladen bestân">
+
+<!ENTITY downloadShowPage.label    "Gean nei side">
+<!ENTITY downloadShow.label        "Fyn bestân">
+<!ENTITY downloadOpen.label        "Iepen bestân">
+<!ENTITY downloadCancel.label      "Annulearje">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "Fierder">
+<!ENTITY downloadRetry.label       "Opnij">
+
 <!ENTITY identity.unverifiedsite2 "Dit webstee jout gjin identiteitsynformaasje.">
 <!ENTITY identity.connectedTo "Jo binne ferbûn mei">
 <!-- Localization note (identity.runBy) : This string appears between a
