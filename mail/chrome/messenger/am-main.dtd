@@ -17,7 +17,7 @@
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "HTML verwenden (z.B.: &lt;b&gt;fett&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Statt dessen eine Datei als Signatur anhängen (Text, HTML, oder Grafik):">
+<!ENTITY signatureFile.label "Stattdessen eine Datei als Signatur anhängen (Text, HTML, oder Grafik):">
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Bearbeiten…">
 <!ENTITY choose.label "Durchsuchen…">
