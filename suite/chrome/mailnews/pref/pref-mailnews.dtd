@@ -59,14 +59,3 @@
 <!ENTITY useDefault.accesskey             "S">
 <!ENTITY rememberLastMsg.label            "Die letzte gewählte Nachricht merken">
 <!ENTITY rememberLastMsg.accesskey        "D">
-<!ENTITY toolbarIntro.caption             "Wählen Sie jene Schaltflächen, die in der Symbolleiste angezeigt werden sollen">
-<!ENTITY fileButton.label                 "Ablegen">
-<!ENTITY fileButton.accesskey             "g">
-<!ENTITY nextButton.label                 "Nächste">
-<!ENTITY nextButton.accesskey             "N">
-<!ENTITY junkMailButton.label             "Junk">
-<!ENTITY junkMailButton.accesskey         "J">
-<!ENTITY printButton.label                "Drucken">
-<!ENTITY printButton.accesskey            "c">
-<!ENTITY stopButton.label                 "Stopp">
-<!ENTITY stopButton.accesskey             "o">
