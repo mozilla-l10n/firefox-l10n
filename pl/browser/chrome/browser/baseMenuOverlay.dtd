@@ -18,13 +18,8 @@
 <!ENTITY helpForIEUsers.label     "Dla użytkowników Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.accesskey     "I">
 <!ENTITY helpReleaseNotes.label         "Informacje o wydaniu">
@@ -32,16 +27,13 @@
 
 <!ENTITY preferencesCmdMac.label        "Preferencje…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Usługi">
 
 <!ENTITY hideThisAppCmdMac.label        "Ukryj &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ukryj pozostałe">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Pokaż wszystkie">
