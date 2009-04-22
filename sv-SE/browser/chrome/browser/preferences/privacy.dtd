@@ -71,7 +71,7 @@
 <!ENTITY  rememberHistory.post.label     "dagar">
 
 <!ENTITY  rememberDownload.label         "Spara filhämtningshistorik">
-<!ENTITY  rememberDownload.accesskey     "h">
+<!ENTITY  rememberDownload.accesskey     "ä">
 
 <!ENTITY  rememberSearchForm.label       "Spara sök- och formulärhistorik">
 <!ENTITY  rememberSearchForm.accesskey   "ö">
