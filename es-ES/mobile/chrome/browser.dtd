@@ -41,6 +41,31 @@
 <!ENTITY findAgainCmd.accesskey "R">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY addonsHeader.label "Complementos">
+<!ENTITY addonsLocal.label "Sus complementos">
+<!ENTITY addonsRepo.label "Conseguir complementos">
+<!ENTITY addonsRecommended.label "Ver recomendados">
+<!ENTITY addonsSearch.label "Buscar en el catálogo">
+<!ENTITY addonsSearch.emptytext "Buscar complementos">
+<!ENTITY addonOptions.label "Opciones">
+<!ENTITY addonEnable.label "Activar">
+<!ENTITY addonDisable.label "Desactivar">
+<!ENTITY addonInstall.label "Instalar">
+<!ENTITY addonUninstall.label "Desinstalar">
+<!ENTITY addonCancel.label "Cancelar">
+<!ENTITY downloadsHeader.label "Descargas">
+<!ENTITY downloadsSortDate.label "Por fecha">
+<!ENTITY downloadsSortSite.label "Por sitio">
+<!ENTITY downloadsSortName.label "Por nombre">
+<!ENTITY downloadsSearch.label "Buscar">
+<!ENTITY downloadsSearch.emptytext "Buscar un archivo descargado">
+<!ENTITY downloadShowPage.label "Ir a la página">
+<!ENTITY downloadShow.label "Buscar archivo">
+<!ENTITY downloadOpen.label "Abrir archivo">
+<!ENTITY downloadCancel.label "Cancelar">
+<!ENTITY downloadPause.label "Pausa">
+<!ENTITY downloadResume.label "Continuar">
+<!ENTITY downloadRetry.label "Reintentar">
 <!ENTITY identity.unverifiedsite2 "Este sitio web no proporciona información de identidad.">
 <!ENTITY identity.connectedTo "Está conectado a">
 <!ENTITY identity.runBy "que pertenece a">
