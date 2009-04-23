@@ -1,4 +1,4 @@
 answers
 google
 wikipedia
--ityahoo-it
+yahoo
