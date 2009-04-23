@@ -1,6 +1,6 @@
 # AFFIXES POUR LE DICTIONNAIRE CLASSIQUE & RÉFORME 1990
 # par Olivier R. -- licences LGPL, GPL, MPL
-# Généré le 24.01.2009  11:27:44
+# Généré le 16.04.2009  01:36:17
 # Pour améliorer le dictionnaire, allez sur http://dicollecte.free.fr/
 
 
@@ -10,7 +10,7 @@ SET UTF-8
 WORDCHARS -
 
 
-TRY aàâäbcçdeéèêëfghiîïjklmnoôöpqrstuùûüvwxyzæœAÀÂÄBCÇDEÉÈÊËFGHIÎÏJKLMNOÔÖPQRSTUÙÛÜVWXYZÆŒáíÿñåóöşă
+TRY aàâäbcçdeéèêëfghiîïjklmnoôöpqrstuùûüvwxyzæœAÀÂÄBCÇDEÉÈÊËFGHIÎÏJKLMNOÔÖPQRSTUÙÛÜVWXYZÆŒáíÿñåóşăã
 
 MAP 12
 MAP aàâä
@@ -26,7 +26,7 @@ MAP OÔÖ
 MAP UÙÛÜ
 MAP CÇ
 
-REP 60
+REP 62
 REP f ph
 REP ph f
 REP c qu
@@ -79,6 +79,8 @@ REP o au
 REP au o
 REP o eau
 REP eau o
+REP ogue ogiste
+REP ogiste ogue
 REP disez dites
 REP fesez faites
 REP faisez faites
@@ -153,81 +155,75 @@ PFX D' h d'H h
 PFX D' œ d'Œ œ
 PFX D' æ d'Æ æ
 
-PFX Qu Y 17
-PFX Qu 0 qu' [aàâeèéêiîoôuyhœæAÀÂEÈÉÊIÎOÔUYHŒÆ]
-PFX Qu a qu'A a
-PFX Qu à qu'À à
-PFX Qu â qu'Â â
-PFX Qu e qu'E e
-PFX Qu é qu'É é
-PFX Qu è qu'È è
-PFX Qu ê qu'Ê ê
-PFX Qu i qu'I i
-PFX Qu î qu'Î î
-PFX Qu o qu'O o
-PFX Qu ô qu'Ô ô
-PFX Qu u qu'U u
-PFX Qu y qu'Y y
-PFX Qu h qu'H h
-PFX Qu œ qu'Œ œ
-PFX Qu æ qu'Æ æ
-
-PFX Qq Y 17
-PFX Qq 0 quoiqu' [aàâeèéêiîoôuyhœæAÀÂEÈÉÊIÎOÔUYHŒÆ]
-PFX Qq a quoiqu'A a
-PFX Qq à quoiqu'À à
-PFX Qq â quoiqu'Â â
-PFX Qq e quoiqu'E e
-PFX Qq é quoiqu'É é
-PFX Qq è quoiqu'È è
-PFX Qq ê quoiqu'Ê ê
-PFX Qq i quoiqu'I i
-PFX Qq î quoiqu'Î î
-PFX Qq o quoiqu'O o
-PFX Qq ô quoiqu'Ô ô
-PFX Qq u quoiqu'U u
-PFX Qq y quoiqu'Y y
-PFX Qq h quoiqu'H h
-PFX Qq œ quoiqu'Œ œ
-PFX Qq æ quoiqu'Æ æ
-
-PFX Qp Y 17
-PFX Qp 0 puisqu' [aàâeèéêiîoôuyhœæAÀÂEÈÉÊIÎOÔUYHŒÆ]
-PFX Qp a puisqu'A a
-PFX Qp à puisqu'À à
-PFX Qp â puisqu'Â â
-PFX Qp e puisqu'E e
-PFX Qp é puisqu'É é
-PFX Qp è puisqu'È è
-PFX Qp ê puisqu'Ê ê
-PFX Qp i puisqu'I i
-PFX Qp î puisqu'Î î
-PFX Qp o puisqu'O o
-PFX Qp ô puisqu'Ô ô
-PFX Qp u puisqu'U u
-PFX Qp y puisqu'Y y
-PFX Qp h puisqu'H h
-PFX Qp œ puisqu'Œ œ
-PFX Qp æ puisqu'Æ æ
-
-PFX Ql Y 17
-PFX Ql 0 lorsqu' [aàâeèéêiîoôuyhœæAÀÂEÈÉÊIÎOÔUYHŒÆ]
-PFX Ql a lorsqu'A a
-PFX Ql à lorsqu'À à
-PFX Ql â lorsqu'Â â
-PFX Ql e lorsqu'E e
-PFX Ql é lorsqu'É é
-PFX Ql è lorsqu'È è
-PFX Ql ê lorsqu'Ê ê
-PFX Ql i lorsqu'I i
-PFX Ql î lorsqu'Î î
-PFX Ql o lorsqu'O o
-PFX Ql ô lorsqu'Ô ô
-PFX Ql u lorsqu'U u
-PFX Ql y lorsqu'Y y
-PFX Ql h lorsqu'H h
-PFX Ql œ lorsqu'Œ œ
-PFX Ql æ lorsqu'Æ æ
+PFX Q' Y 68
+PFX Q' 0 qu' [aàâeèéêiîoôuyhœæAÀÂEÈÉÊIÎOÔUYHŒÆ]
+PFX Q' a qu'A a
+PFX Q' à qu'À à
+PFX Q' â qu'Â â
+PFX Q' e qu'E e
+PFX Q' é qu'É é
+PFX Q' è qu'È è
+PFX Q' ê qu'Ê ê
+PFX Q' i qu'I i
+PFX Q' î qu'Î î
+PFX Q' o qu'O o
+PFX Q' ô qu'Ô ô
+PFX Q' u qu'U u
+PFX Q' y qu'Y y
+PFX Q' h qu'H h
+PFX Q' œ qu'Œ œ
+PFX Q' æ qu'Æ æ
+PFX Q' 0 quoiqu' [aàâeèéêiîoôuyhœæAÀÂEÈÉÊIÎOÔUYHŒÆ]
+PFX Q' a quoiqu'A a
+PFX Q' à quoiqu'À à
+PFX Q' â quoiqu'Â â
+PFX Q' e quoiqu'E e
+PFX Q' é quoiqu'É é
+PFX Q' è quoiqu'È è
+PFX Q' ê quoiqu'Ê ê
+PFX Q' i quoiqu'I i
+PFX Q' î quoiqu'Î î
+PFX Q' o quoiqu'O o
+PFX Q' ô quoiqu'Ô ô
+PFX Q' u quoiqu'U u
+PFX Q' y quoiqu'Y y
+PFX Q' h quoiqu'H h
+PFX Q' œ quoiqu'Œ œ
+PFX Q' æ quoiqu'Æ æ
+PFX Q' 0 puisqu' [aàâeèéêiîoôuyhœæAÀÂEÈÉÊIÎOÔUYHŒÆ]
+PFX Q' a puisqu'A a
+PFX Q' à puisqu'À à
+PFX Q' â puisqu'Â â
+PFX Q' e puisqu'E e
+PFX Q' é puisqu'É é
+PFX Q' è puisqu'È è
+PFX Q' ê puisqu'Ê ê
+PFX Q' i puisqu'I i
+PFX Q' î puisqu'Î î
+PFX Q' o puisqu'O o
+PFX Q' ô puisqu'Ô ô
+PFX Q' u puisqu'U u
+PFX Q' y puisqu'Y y
+PFX Q' h puisqu'H h
+PFX Q' œ puisqu'Œ œ
+PFX Q' æ puisqu'Æ æ
+PFX Q' 0 lorsqu' [aàâeèéêiîoôuyhœæAÀÂEÈÉÊIÎOÔUYHŒÆ]
+PFX Q' a lorsqu'A a
+PFX Q' à lorsqu'À à
+PFX Q' â lorsqu'Â â
+PFX Q' e lorsqu'E e
+PFX Q' é lorsqu'É é
+PFX Q' è lorsqu'È è
+PFX Q' ê lorsqu'Ê ê
+PFX Q' i lorsqu'I i
+PFX Q' î lorsqu'Î î
+PFX Q' o lorsqu'O o
+PFX Q' ô lorsqu'Ô ô
+PFX Q' u lorsqu'U u
+PFX Q' y lorsqu'Y y
+PFX Q' h lorsqu'H h
+PFX Q' œ lorsqu'Œ œ
+PFX Q' æ lorsqu'Æ æ
 
 PFX Qj Y 1
 PFX Qj 0 jusqu' [aàâeèéêiîoôuyhœæ]
@@ -320,90 +316,90 @@ SFX W. ale al ale
 SFX W. ale aux ale
 
 SFX S* Y 2
-SFX S* 0 0/D'L'QuQqQlQp [^sxz]
-SFX S* 0 s/D'QuQqQlQp [^sxz]
+SFX S* 0 0/D'L'Q' [^sxz]
+SFX S* 0 s/D'Q' [^sxz]
 
 SFX X* Y 4
-SFX X* 0 0/D'L'QuQqQlQp .
-SFX X* 0 x/D'QuQqQlQp [aeoœ]u
-SFX X* l ux/D'QuQqQlQp al
-SFX X* il ux/D'QuQqQlQp ail
+SFX X* 0 0/D'L'Q' .
+SFX X* 0 x/D'Q' [aeoœ]u
+SFX X* l ux/D'Q' al
+SFX X* il ux/D'Q' ail
 
 SFX F* Y 65
-SFX F* 0 0/D'L'QuQqQlQp .
-SFX F* 0 s/D'QuQqQlQp [eë]
-SFX F* e 0/D'L'QuQqQlQp [éiï]e
-SFX F* e s/D'QuQqQlQp [éiï]e
-SFX F* rice eur/D'L'QuQqQlQp [dt]rice
-SFX F* rice eurs/D'QuQqQlQp [dt]rice
-SFX F* de d/D'L'QuQqQlQp de
-SFX F* de ds/D'QuQqQlQp de
-SFX F* ffe f/D'L'QuQqQlQp ffe
-SFX F* ffe fs/D'QuQqQlQp ffe
-SFX F* che c/D'L'QuQqQlQp [^è]che
-SFX F* che cs/D'QuQqQlQp [^è]che
-SFX F* èche ec/D'L'QuQqQlQp èche
-SFX F* èche ecs/D'QuQqQlQp èche
-SFX F* he h/D'L'QuQqQlQp [ut]he
-SFX F* he hs/D'QuQqQlQp [ut]he
-SFX F* ke k/D'L'QuQqQlQp ke
-SFX F* ke ks/D'QuQqQlQp ke
-SFX F* le l/D'L'QuQqQlQp [aiouû]le
-SFX F* le ls/D'QuQqQlQp [aiouû]le
-SFX F* lle l/D'L'QuQqQlQp [eiu]lle
-SFX F* lle ls/D'QuQqQlQp [eiu]lle
-SFX F* ne n/D'L'QuQqQlQp [aiou]ne
-SFX F* ne ns/D'QuQqQlQp [aiou]ne
-SFX F* nne n/D'L'QuQqQlQp [aeo]nne
-SFX F* nne ns/D'QuQqQlQp [aeo]nne
-SFX F* gne n/D'L'QuQqQlQp igne
-SFX F* gne ns/D'QuQqQlQp igne
-SFX F* re r/D'L'QuQqQlQp [aiuûy]re
-SFX F* re rs/D'QuQqQlQp [aiuûy]re
-SFX F* ère er/D'L'QuQqQlQp ère
-SFX F* ère ers/D'QuQqQlQp ère
-SFX F* se s/D'L'QuQqQlQp [^us]se
-SFX F* esse e/D'L'QuQqQlQp [^eo].esse
-SFX F* esse es/D'QuQqQlQp [^eo].esse
-SFX F* eresse eur/D'L'QuQqQlQp eresse
-SFX F* eresse eurs/D'QuQqQlQp eresse
-SFX F* oresse eur/D'L'QuQqQlQp oresse
-SFX F* oresse eurs/D'QuQqQlQp oresse
-SFX F* sse s/D'L'QuQqQlQp [^e]sse
-SFX F* use us/D'L'QuQqQlQp [^eo]use
-SFX F* euse eur/D'L'QuQqQlQp euse
-SFX F* euse eurs/D'QuQqQlQp euse
-SFX F* te t/D'L'QuQqQlQp [^èt]te
-SFX F* te ts/D'QuQqQlQp [^èt]te
-SFX F* tte t/D'L'QuQqQlQp tte
-SFX F* tte ts/D'QuQqQlQp tte
-SFX F* ète et/D'L'QuQqQlQp ète
-SFX F* ète ets/D'QuQqQlQp ète
-SFX F* ue u/D'L'QuQqQlQp [^gq]ue
-SFX F* ue us/D'QuQqQlQp [^gq]ue
-SFX F* gue g/D'L'QuQqQlQp gue
-SFX F* gue gs/D'QuQqQlQp gue
-SFX F* cque c/D'L'QuQqQlQp cque
-SFX F* cque cs/D'QuQqQlQp cque
-SFX F* que c/D'L'QuQqQlQp [^c]que
-SFX F* que cs/D'QuQqQlQp [^c]que
-SFX F* ève ef/D'L'QuQqQlQp ève
-SFX F* ève efs/D'QuQqQlQp ève
-SFX F* ve f/D'L'QuQqQlQp [iïu]ve
-SFX F* ve fs/D'QuQqQlQp [iïu]ve
-SFX F* uë u/D'L'QuQqQlQp uë
-SFX F* uë us/D'QuQqQlQp uë
-SFX F* üe u/D'L'QuQpQlQp üe
-SFX F* üe us/D'QuQqQlQp üe
+SFX F* 0 0/D'L'Q' .
+SFX F* 0 s/D'Q' [eë]
+SFX F* e 0/D'L'Q' [éiï]e
+SFX F* e s/D'Q' [éiï]e
+SFX F* rice eur/D'L'Q' [dt]rice
+SFX F* rice eurs/D'Q' [dt]rice
+SFX F* de d/D'L'Q' de
+SFX F* de ds/D'Q' de
+SFX F* ffe f/D'L'Q' ffe
+SFX F* ffe fs/D'Q' ffe
+SFX F* che c/D'L'Q' [^è]che
+SFX F* che cs/D'Q' [^è]che
+SFX F* èche ec/D'L'Q' èche
+SFX F* èche ecs/D'Q' èche
+SFX F* he h/D'L'Q' [ut]he
+SFX F* he hs/D'Q' [ut]he
+SFX F* ke k/D'L'Q' ke
+SFX F* ke ks/D'Q' ke
+SFX F* le l/D'L'Q' [aiouû]le
+SFX F* le ls/D'Q' [aiouû]le
+SFX F* lle l/D'L'Q' [eiu]lle
+SFX F* lle ls/D'Q' [eiu]lle
+SFX F* ne n/D'L'Q' [aiou]ne
+SFX F* ne ns/D'Q' [aiou]ne
+SFX F* nne n/D'L'Q' [aeo]nne
+SFX F* nne ns/D'Q' [aeo]nne
+SFX F* gne n/D'L'Q' igne
+SFX F* gne ns/D'Q' igne
+SFX F* re r/D'L'Q' [aiuûy]re
+SFX F* re rs/D'Q' [aiuûy]re
+SFX F* ère er/D'L'Q' ère
+SFX F* ère ers/D'Q' ère
+SFX F* se s/D'L'Q' [^us]se
+SFX F* esse e/D'L'Q' [^eo].esse
+SFX F* esse es/D'Q' [^eo].esse
+SFX F* eresse eur/D'L'Q' eresse
+SFX F* eresse eurs/D'Q' eresse
+SFX F* oresse eur/D'L'Q' oresse
+SFX F* oresse eurs/D'Q' oresse
+SFX F* sse s/D'L'Q' [^e]sse
+SFX F* use us/D'L'Q' [^eo]use
+SFX F* euse eur/D'L'Q' euse
+SFX F* euse eurs/D'Q' euse
+SFX F* te t/D'L'Q' [^èt]te
+SFX F* te ts/D'Q' [^èt]te
+SFX F* tte t/D'L'Q' tte
+SFX F* tte ts/D'Q' tte
+SFX F* ète et/D'L'Q' ète
+SFX F* ète ets/D'Q' ète
+SFX F* ue u/D'L'Q' [^gq]ue
+SFX F* ue us/D'Q' [^gq]ue
+SFX F* gue g/D'L'Q' gue
+SFX F* gue gs/D'Q' gue
+SFX F* cque c/D'L'Q' cque
+SFX F* cque cs/D'Q' cque
+SFX F* que c/D'L'Q' [^c]que
+SFX F* que cs/D'Q' [^c]que
+SFX F* ève ef/D'L'Q' ève
+SFX F* ève efs/D'Q' ève
+SFX F* ve f/D'L'Q' [iïu]ve
+SFX F* ve fs/D'Q' [iïu]ve
+SFX F* uë u/D'L'Q' uë
+SFX F* uë us/D'Q' uë
+SFX F* üe u/D'L'Q' üe
+SFX F* üe us/D'Q' üe
 
 SFX W* Y 7
-SFX W* 0 0/D'L'QuQqQlQp .
-SFX W* e es/D'QuQqQlQp e
-SFX W* ce x/D'L'QuQqQlQp ce
-SFX W* use ux/D'L'QuQqQlQp [eo]use
-SFX W* ousse oux/D'L'QuQqQlQp ousse
-SFX W* ale al/D'L'QuQqQlQp ale
-SFX W* ale aux/D'QuQqQlQp ale
+SFX W* 0 0/D'L'Q' .
+SFX W* e es/D'Q' e
+SFX W* ce x/D'L'Q' ce
+SFX W* use ux/D'L'Q' [eo]use
+SFX W* ousse oux/D'L'Q' ousse
+SFX W* ale al/D'L'Q' ale
+SFX W* ale aux/D'Q' ale
 
 PFX Um Y 29
 PFX Um 0 0/S. .
@@ -6604,7 +6600,8 @@ SFX aE direr dirés/q' direr
 SFX aE direr dirée/q' direr
 SFX aE direr dirées/q' direr
 
-SFX aF N 15
+SFX aF N 16
+SFX aF cerner cerner er
 SFX aF cerner cernant er
 SFX aF cerner cerné er
 SFX aF cerner cernés er
@@ -7059,7 +7056,8 @@ SFX f+ ir is/q' ir
 SFX f+ ir ie/q' ir
 SFX f+ ir ies/q' ir
 
-SFX fA N 47
+SFX fA N 48
+SFX fA aïr aïr aïr
 SFX fA aïr aïssant aïr
 SFX fA aïr aï aïr
 SFX fA aïr aïs aïr
@@ -7108,7 +7106,8 @@ SFX fA aïr aïssions aïr
 SFX fA aïr aïssiez aïr
 SFX fA aïr aïssent aïr
 
-SFX fB Y 33
+SFX fB Y 34
+SFX fB haïr haïr/s' aïr
 SFX fB haïr haïssant/s' aïr
 SFX fB haïr haï aïr
 SFX fB haïr haïs aïr
@@ -7143,7 +7142,7 @@ SFX fB haïr haïssions aïr
 SFX fB haïr haïssiez aïr
 SFX fB haïr haïssent/s' aïr
 
-SFX fC N 12
+SFX fC Y 12
 SFX fC partir partir/n'q'd'l'm't's' impartir
 SFX fC partir partissant/n'q'l'm't's' impartir
 SFX fC partir parti/q' impartir
@@ -7157,7 +7156,8 @@ SFX fC partir partissons/n'q'l't' impartir
 SFX fC partir partissez/n'q'l'm' impartir
 SFX fC partir partissent/n'q'l'm't's' impartir
 
-SFX fD N 13
+SFX fD N 14
+SFX fD ortir ortir sortir
 SFX fD ortir ortissant sortir
 SFX fD ortir ortit sortir
 SFX fD ortir ortissent sortir
@@ -7394,43 +7394,43 @@ SFX iB Y 45
 SFX iB partenir partenir/n'q'd'm't's' tenir
 SFX iB partenir partenant/n'q'm't's' tenir
 SFX iB partenir partenu/q' tenir
-SFX iB partenir partiens/n'm't' tenir
+SFX iB partenir partiens/n'j'm't' tenir
 SFX iB partenir partiens/n'm't' tenir
 SFX iB partenir partient/n'm't' tenir
 SFX iB partenir partenons/n't' tenir
 SFX iB partenir partenez/n'm' tenir
 SFX iB partenir partiennent/n'm't' tenir
-SFX iB partenir partenais/n'm't' tenir
+SFX iB partenir partenais/n'j'm't' tenir
 SFX iB partenir partenais/n'm't' tenir
 SFX iB partenir partenait/n'm't' tenir
 SFX iB partenir partenions/n't' tenir
 SFX iB partenir parteniez/n'm' tenir
 SFX iB partenir partenaient/n'm't's' tenir
-SFX iB partenir partins/n'm't' tenir
+SFX iB partenir partins/n'j'm't' tenir
 SFX iB partenir partins/n'm't' tenir
 SFX iB partenir partint/n'm't' tenir
 SFX iB partenir partînmes/n't' tenir
 SFX iB partenir partîntes/n'm' tenir
 SFX iB partenir partinrent/n'm't's' tenir
-SFX iB partenir partiendrai/n'm't' tenir
+SFX iB partenir partiendrai/n'j'm't' tenir
 SFX iB partenir partiendras/n'm't' tenir
 SFX iB partenir partiendra/n'm't' tenir
 SFX iB partenir partiendrons/n't' tenir
 SFX iB partenir partiendrez/n'm' tenir
 SFX iB partenir partiendront/n'm't's' tenir
-SFX iB partenir partiendrais/n'm't' tenir
+SFX iB partenir partiendrais/n'j'm't' tenir
 SFX iB partenir partiendrais/n'm't' tenir
 SFX iB partenir partiendrait/n'm't' tenir
 SFX iB partenir partiendrions/n't' tenir
 SFX iB partenir partiendriez/n'm' tenir
 SFX iB partenir partiendraient/n'm't's' tenir
-SFX iB partenir partienne/n'm't' tenir
+SFX iB partenir partienne/n'j'm't' tenir
 SFX iB partenir partiennes/n'm't' tenir
 SFX iB partenir partienne/n'm't' tenir
 SFX iB partenir partenions/n't' tenir
 SFX iB partenir parteniez/n'm' tenir
 SFX iB partenir partiennent/n'm't's' tenir
-SFX iB partenir partinsse/n'm't' tenir
+SFX iB partenir partinsse/n'j'm't' tenir
 SFX iB partenir partinsses/n'm't' tenir
 SFX iB partenir partînt/n'm't' tenir
 SFX iB partenir partenions/n't' tenir
@@ -8855,52 +8855,52 @@ SFX pN Y 54
 SFX pN valoir valoir/n'q'd'm't's' valoir
 SFX pN valoir valant/n'q'm't's' valoir
 SFX pN valoir valu/q' valoir
-SFX pN valoir valus prévaloir
-SFX pN valoir value prévaloir
-SFX pN valoir values prévaloir
-SFX pN valoir vaux/n'm't' valoir
+SFX pN valoir valus révaloir
+SFX pN valoir value révaloir
+SFX pN valoir values révaloir
+SFX pN valoir vaux/n'j'm't' valoir
 SFX pN valoir vaux/n'm't' valoir
 SFX pN valoir vaut/n'm't's' valoir
 SFX pN valoir valons/n't' valoir
 SFX pN valoir valez/n'm' valoir
 SFX pN valoir valent/n'm't's' valoir
-SFX pN valoir valais/n'm't' valoir
+SFX pN valoir valais/n'j'm't' valoir
 SFX pN valoir valais/n'm't' valoir
 SFX pN valoir valait/n'm't's' valoir
 SFX pN valoir valions/n't' valoir
 SFX pN valoir valiez/n'm' valoir
 SFX pN valoir valaient/n'm't's' valoir
-SFX pN valoir valus/n'm't' valoir
+SFX pN valoir valus/n'j'm't' valoir
 SFX pN valoir valus/n'm't' valoir
 SFX pN valoir valut/n'm't's' valoir
 SFX pN valoir valûmes/n't' valoir
 SFX pN valoir valûtes/n'm' valoir
 SFX pN valoir valurent/n'm't's' valoir
-SFX pN valoir vaudrai/n'm't' valoir
+SFX pN valoir vaudrai/n'j'm't' valoir
 SFX pN valoir vaudras/n'm't' valoir
 SFX pN valoir vaudra/n'm't's' valoir
 SFX pN valoir vaudrons/n't' valoir
 SFX pN valoir vaudrez/n'm' valoir
 SFX pN valoir vaudront/n'm't's' valoir
-SFX pN valoir vaudrais/n'm't' valoir
+SFX pN valoir vaudrais/n'j'm't' valoir
 SFX pN valoir vaudrais/n'm't' valoir
 SFX pN valoir vaudrait/n'm't's' valoir
 SFX pN valoir vaudrions/n't' valoir
 SFX pN valoir vaudriez/n'm' valoir
 SFX pN valoir vaudraient/n'm't's' valoir
-SFX pN valoir vaille/n'm't' équivaloir
-SFX pN valoir vale prévaloir
-SFX pN valoir vailles/n'm't' équivaloir
-SFX pN valoir vales prévaloir
-SFX pN valoir vaille/n'm't's' équivaloir
-SFX pN valoir vale prévaloir
-SFX pN valoir vailions/n't' équivaloir
-SFX pN valoir valions prévaloir
-SFX pN valoir vailiez/n'm' équivaloir
-SFX pN valoir valiez prévaloir
-SFX pN valoir vaillent/n'm't's' équivaloir
-SFX pN valoir valent prévaloir
-SFX pN valoir valusse/n'm't' valoir
+SFX pN valoir vaille/n'j'm't' quivaloir
+SFX pN valoir vale révaloir
+SFX pN valoir vailles/n'm't' quivaloir
+SFX pN valoir vales révaloir
+SFX pN valoir vaille/n'm't's' quivaloir
+SFX pN valoir vale révaloir
+SFX pN valoir vailions/n't' quivaloir
+SFX pN valoir valions révaloir
+SFX pN valoir vailiez/n'm' quivaloir
+SFX pN valoir valiez révaloir
+SFX pN valoir vaillent/n'm't's' quivaloir
+SFX pN valoir valent révaloir
+SFX pN valoir valusse/n'j'm't' valoir
 SFX pN valoir valusses/n'm't' valoir
 SFX pN valoir valût/n'm't's' valoir
 SFX pN valoir valussions/n't' valoir
@@ -8936,8 +8936,10 @@ SFX pR Y 2
 SFX pR pparoir pparoir/n'q'd' apparoir
 SFX pR pparoir ppert/n'q' apparoir
 
-SFX pS Y 153
+SFX pS Y 155
 SFX pS oir oir/n'q'd'l'm't's' oir
+SFX pS sseoir sseyant/n'q'l'm't's' seoir
+SFX pS ssoir sseyant/n'q'l'm't's' soir
 SFX pS sseoir ssoyant/n'q'l'm't's' seoir
 SFX pS ssoir ssoyant/n'q'l'm't's' soir
 SFX pS sseoir ssis/q' seoir

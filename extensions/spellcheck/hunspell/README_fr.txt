@@ -1,12 +1,19 @@
 _______________________________________________________________________________
 
    Dictionnaire orthographique français "Classique & Réforme 1990"
-   version 3.1
+   version 3.2
    
    Olivier R. - dicollecte at free dot fr
    Dicollecte: http://dicollecte.free.fr/
    
-   Licences : LGPL, GPL, MPL
+   Licences:
+   * MPL: Mozilla Public License
+     version 1.1 ou supérieure  --  http://www.mozilla.org/MPL/MPL-1.1.html
+   * GPL: GNU General Public License
+     version 2.0 ou supérieure  --  http://www.gnu.org/licenses/gpl-2.0.html
+   * LGPL: GNU Lesser General Public License
+     version 2.1 ou supérieure  --  http://www.gnu.org/licenses/lgpl-2.1.html
+
 _______________________________________________________________________________
 
    Ce dictionnaire contient les nouvelles et les anciennes graphies des mots
