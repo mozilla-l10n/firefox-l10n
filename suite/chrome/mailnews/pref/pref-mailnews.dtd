@@ -21,14 +21,3 @@
 <!ENTITY useDefault.accesskey "т">
 <!ENTITY rememberLastMsg.label "Запоминать последнее выбранное сообщение">
 <!ENTITY rememberLastMsg.accesskey "З">
-<!ENTITY toolbarIntro.caption "Выберите кнопки для отображения на панели инструментов">
-<!ENTITY fileButton.label "Поместить">
-<!ENTITY fileButton.accesskey "П">
-<!ENTITY nextButton.label "Далее">
-<!ENTITY nextButton.accesskey "л">
-<!ENTITY junkMailButton.label "Спам">
-<!ENTITY junkMailButton.accesskey "С">
-<!ENTITY printButton.label "Печать">
-<!ENTITY printButton.accesskey "е">
-<!ENTITY stopButton.label "Остановить">
-<!ENTITY stopButton.accesskey "с">
