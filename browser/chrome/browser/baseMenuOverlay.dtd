@@ -31,8 +31,8 @@
 
 <!ENTITY hideThisAppCmdMac.label "Ocultar &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label "Ocultar otras">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label "Mostrar todo">
