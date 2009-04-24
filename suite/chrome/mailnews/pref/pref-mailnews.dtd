@@ -62,14 +62,3 @@
 <!ENTITY useDefault.accesskey             "n">
 <!ENTITY rememberLastMsg.label            "Įsiminti paskiausiai pažymėtą laišką">
 <!ENTITY rememberLastMsg.accesskey        "m">
-<!ENTITY toolbarIntro.caption             "Pašto programos pagrindinio lango mygtukai">
-<!ENTITY fileButton.label                 "Perkelti į aplanką">
-<!ENTITY fileButton.accesskey             "P">
-<!ENTITY nextButton.label                 "Tolesnis">
-<!ENTITY nextButton.accesskey             "T">
-<!ENTITY junkMailButton.label             "Šlamštas">
-<!ENTITY junkMailButton.accesskey         "Š">
-<!ENTITY printButton.label                "Spausdinti">
-<!ENTITY printButton.accesskey            "S">
-<!ENTITY stopButton.label                 "Stabdyti">
-<!ENTITY stopButton.accesskey             "a">

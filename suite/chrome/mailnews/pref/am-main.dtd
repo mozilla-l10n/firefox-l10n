@@ -45,8 +45,12 @@
 <!ENTITY replyTo.accesskey "t">
 <!ENTITY organization.label "Organizacija:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Į laiško pabaigą įdėti šią vizitinę kortelę:">
-<!ENTITY signature.accesskey "d">
+<!ENTITY signatureText.label "Prierašas:">
+<!ENTITY signatureText.accesskey "š">
+<!ENTITY signatureHtml.label "Naudoti HTML gaires">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY signatureFile.label "Naudoti prierašą iš failo:">
+<!ENTITY signatureFile.accesskey "f">
 <!ENTITY choose.label "Parinkti failą…">
 <!ENTITY choose.accesskey "r">
 <!ENTITY editVCard.label "Taisyti kortelę…">
