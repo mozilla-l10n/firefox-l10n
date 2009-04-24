@@ -42,25 +42,6 @@
 <!ENTITY  locbar.bookmarks.label        "adresyno">
 <!ENTITY  locbar.nothing.label          "nesiūlyti">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "Žurnale laikyti įrašus">
-<!ENTITY  rememberDaysBefore.accesskey  "l">
-<!ENTITY  rememberDaysAfter2.label      "dienas(-ų)">
-
-<!ENTITY  rememberForms.label           "Įsiminti į formas ir paieškos langelį įvestus duomenis">
-<!ENTITY  rememberForms.accesskey       "m">
-
-<!ENTITY  rememberDownloads.label       "Laikyti informaciją apie atsiųstus failus">
-<!ENTITY  rememberDownloads.accesskey   "a">
-
-
-<!ENTITY  cookies.label                 "Slapukai">
-
 <!ENTITY  acceptCookies.label           "Leisti įrašyti slapukus">
 <!ENTITY  acceptCookies.accesskey       "s">
 
@@ -79,14 +60,6 @@
 
 <!ENTITY  showCookies.label             "Rodyti slapukus…">
 <!ENTITY  showCookies.accesskey         "R">
-
-<!ENTITY  privateData.label             "Privatieji duomenys">
-
-<!ENTITY  alwaysClear.label              "Baigiant darbą su „&brandShortName;“ pašalinti įrašytus privačius duomenis">
-<!ENTITY  alwaysClear.accesskey          "B">
-
-<!ENTITY  clearDataSettings.label        "Nuostatos…">
-<!ENTITY  clearDataSettings.accesskey    "N">
 
 <!ENTITY  historyHeader.pre.label                "„&brandShortName;“ privalo:">
 <!ENTITY  historyHeader.pre.accesskey            "t">
