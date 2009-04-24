@@ -229,7 +229,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey                 "l">
-<!ENTITY urlbar.emptyText                   "Paieška adresyne ir žurnale">
 <!ENTITY urlbar.bookmarkhistory.emptyText   "Paieška adresyne ir žurnale">
 <!ENTITY urlbar.bookmark.emptyText          "Paieška adresyne">
 <!ENTITY urlbar.history.emptyText           "Paieška žurnale">
