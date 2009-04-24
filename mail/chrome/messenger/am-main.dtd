@@ -45,8 +45,12 @@
 <!ENTITY replyTo.accesskey "d">
 <!ENTITY organization.label "Organizacija:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Laiško pabaigoje pridėti prierašą:">
-<!ENTITY signature.accesskey "d">
+<!ENTITY signatureText.label "Prierašas:">
+<!ENTITY signatureText.accesskey "š">
+<!ENTITY signatureHtml.label "Naudoti HTML gaires (pvz., &lt;b&gt;pusjuodis&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY signatureFile.label "Naudoti prierašą iš failo (tekstinio, HTML, ar paveikslo):">
+<!ENTITY signatureFile.accesskey "f">
 <!ENTITY edit.label "Taisyti…">
 <!ENTITY choose.label "Parinkti failą…">
 <!ENTITY choose.accesskey "r">
