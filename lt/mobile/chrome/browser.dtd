@@ -81,6 +81,35 @@
 <!ENTITY findAgainCmd.commandkey          "g">
 <!ENTITY findAgainCmd.commandkey2         "VK_F3">
 
+<!ENTITY addonsHeader.label               "Priedai">
+<!ENTITY addonsLocal.label                "Įdiegti priedai">
+<!ENTITY addonsRepo.label                 "Siųstis priedų">
+<!ENTITY addonsRecommended.label          "Rekomendacijos">
+<!ENTITY addonsSearch.label               "Ieškoti kataloge">
+<!ENTITY addonsSearch.emptytext           "Ieškoti priedų">
+
+<!ENTITY addonOptions.label               "Nuostatos">
+<!ENTITY addonEnable.label                "Įjungti">
+<!ENTITY addonDisable.label               "Išjungti">
+<!ENTITY addonInstall.label               "Įdiegti">
+<!ENTITY addonUninstall.label             "Pašalinti">
+<!ENTITY addonCancel.label                "Atsisakyti">
+
+<!ENTITY downloadsHeader.label            "Atsiuntimai">
+<!ENTITY downloadsSortDate.label          "Pagal datą">
+<!ENTITY downloadsSortSite.label          "Pagal svetainę">
+<!ENTITY downloadsSortName.label          "Pagal pavadinimą">
+<!ENTITY downloadsSearch.label            "Ieškoti">
+<!ENTITY downloadsSearch.emptytext        "Ieškoti atsiųsto failo">
+
+<!ENTITY downloadShowPage.label           "Eiti į tinklalapį">
+<!ENTITY downloadShow.label               "Rasti failą">
+<!ENTITY downloadOpen.label               "Atverti">
+<!ENTITY downloadCancel.label             "Atsisakyti">
+<!ENTITY downloadPause.label              "Pauzė">
+<!ENTITY downloadResume.label             "Tęsti">
+<!ENTITY downloadRetry.label              "Iš naujo">
+
 <!ENTITY identity.unverifiedsite2         "Ši svetainė nepateikia duomenų apie savo tapatumą.">
 <!ENTITY identity.connectedTo             "Jūs prisijungėte prie svetainės">
 <!-- Localization note (identity.runBy) : This string appears between a
