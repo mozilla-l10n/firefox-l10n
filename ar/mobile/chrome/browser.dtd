@@ -49,6 +49,35 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "الإضافات">
+<!ENTITY addonsLocal.label         "إضافاتك">
+<!ENTITY addonsRepo.label          "احصل على الإضافات">
+<!ENTITY addonsRecommended.label   "شاهد المُزكَّاة">
+<!ENTITY addonsSearch.label        "ابحث في الدليل">
+<!ENTITY addonsSearch.emptytext    "ابحث عن إضافة">
+
+<!ENTITY addonOptions.label        "خيارات">
+<!ENTITY addonEnable.label         "فعّل">
+<!ENTITY addonDisable.label        "عطّل">
+<!ENTITY addonInstall.label        "ثبّت">
+<!ENTITY addonUninstall.label      "أزِل التثبيت">
+<!ENTITY addonCancel.label         "ألغِ">
+
+<!ENTITY downloadsHeader.label     "التنزيلات">
+<!ENTITY downloadsSortDate.label   "حسب التاريخ">
+<!ENTITY downloadsSortSite.label   "حسب الموقع">
+<!ENTITY downloadsSortName.label   "حسب الاسم">
+<!ENTITY downloadsSearch.label     "ابحث">
+<!ENTITY downloadsSearch.emptytext "ابحث عن ملف مُنزّل">
+
+<!ENTITY downloadShowPage.label    "اذهب إلى الصفحة">
+<!ENTITY downloadShow.label        "ابحث عن الملف">
+<!ENTITY downloadOpen.label        "افتح الملف">
+<!ENTITY downloadCancel.label      "ألغِ">
+<!ENTITY downloadPause.label       "ألبِث">
+<!ENTITY downloadResume.label      "تابِع">
+<!ENTITY downloadRetry.label       "أعِد المحاولة">
+
 <!ENTITY identity.unverifiedsite2 "لا يزوّد موقع الوب هذا معلومات تعريفية.">
 <!ENTITY identity.connectedTo "تتصل ب‍">
 <!-- Localization note (identity.runBy) : This string appears between a
