@@ -49,6 +49,35 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "Complements">
+<!ENTITY addonsLocal.label         "Els vostres complements">
+<!ENTITY addonsRepo.label          "Aconsegueix complements">
+<!ENTITY addonsRecommended.label   "Vegeu els recomanats">
+<!ENTITY addonsSearch.label        "Cerqueu-ne al catàleg">
+<!ENTITY addonsSearch.emptytext    "Cerqueu uns complements">
+
+<!ENTITY addonOptions.label        "Opcions">
+<!ENTITY addonEnable.label         "Habilita">
+<!ENTITY addonDisable.label        "Inhabilita">
+<!ENTITY addonInstall.label        "Instaŀla">
+<!ENTITY addonUninstall.label      "Desinstaŀla">
+<!ENTITY addonCancel.label         "Canceŀla">
+
+<!ENTITY downloadsHeader.label     "Baixades">
+<!ENTITY downloadsSortDate.label   "Per data">
+<!ENTITY downloadsSortSite.label   "Per lloc">
+<!ENTITY downloadsSortName.label   "Per nom">
+<!ENTITY downloadsSearch.label     "Cerca">
+<!ENTITY downloadsSearch.emptytext "Cerca un fitxer baixat">
+
+<!ENTITY downloadShowPage.label    "Vés a la pàgina">
+<!ENTITY downloadShow.label        "Cerca un fitxer">
+<!ENTITY downloadOpen.label        "Obre un fitxer">
+<!ENTITY downloadCancel.label      "Canceŀla">
+<!ENTITY downloadPause.label       "Posa en pausa">
+<!ENTITY downloadResume.label      "Reprèn">
+<!ENTITY downloadRetry.label       "Reintenta">
+
 <!ENTITY identity.unverifiedsite2 "El lloc web no proporciona informació d'identitat.">
 <!ENTITY identity.connectedTo "Esteu connectat a">
 <!-- Localization note (identity.runBy) : This string appears between a
