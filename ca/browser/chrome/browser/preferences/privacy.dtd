@@ -17,19 +17,6 @@
   &rememberBefore.label  [ textbox for number of days ]   &rememberAfter2.label;
 -->
 
-<!ENTITY  rememberDaysBefore.label          "Conserva el meu historial com a mínim">
-<!ENTITY  rememberDaysBefore.accesskey      "v">
-<!ENTITY  rememberDaysAfter2.label          "dies">
-
-<!ENTITY  rememberForms.label           "Recorda el que introdueixi a formularis i a la barra de cerca">
-<!ENTITY  rememberForms.accesskey       "f">
-
-<!ENTITY  rememberDownloads.label       "Recorda el que he baixat">
-<!ENTITY  rememberDownloads.accesskey   "b">
-
-
-<!ENTITY  cookies.label                 "Galetes">
-
 <!ENTITY  acceptCookies.label           "Accepta galetes dels llocs web">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -48,14 +35,6 @@
 
 <!ENTITY  showCookies.label             "Mostra les galetes…">
 <!ENTITY  showCookies.accesskey         "s">
-
-<!ENTITY  privateData.label              "Dades privades">
-
-<!ENTITY  alwaysClear.label              "Neteja sempre les dades privades en tancar el &brandShortName;">
-<!ENTITY  alwaysClear.accesskey          "p">
-
-<!ENTITY  clearDataSettings.label        "Paràmetres…">
-<!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  historyHeader.pre.label          "El &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "F">

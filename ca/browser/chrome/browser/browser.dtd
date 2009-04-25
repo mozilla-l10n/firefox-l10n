@@ -196,7 +196,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText             "Cerca les adreces d'interès i l'historial">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Cerca les adreces d'interès i l'historial">
 <!ENTITY urlbar.bookmark.emptyText    "Cerca les adreces d'interès">
 <!ENTITY urlbar.history.emptyText     "Cerca l'historial">
