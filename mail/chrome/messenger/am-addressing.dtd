@@ -31,7 +31,7 @@
 <!ENTITY place.accesskey                      "u">
 <!ENTITY belowText.label                      "unter das Zitat platzieren. (empfohlen)">
 <!ENTITY aboveText.label                      "unter meiner Antwort, aber über dem Zitat platzieren.">
-<!ENTITY includeSigOnReply.label              "Signatur bei Antworten verwenden">
+<!ENTITY includeSigOnReply.label              "Signatur beim Antworten beifügen">
 <!ENTITY includeSigOnReply.accesskey          "A">
-<!ENTITY includeSigOnForward.label            "Signatur beim Weiterleiten verwenden">
+<!ENTITY includeSigOnForward.label            "Signatur beim Weiterleiten beifügen">
 <!ENTITY includeSigOnForward.accesskey        "W">
