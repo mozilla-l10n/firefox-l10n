@@ -68,7 +68,7 @@
 <!ENTITY retentionApplyToFlagged.label "Berichten met ster altijd bewaren">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                  "Offline">
+<!ENTITY folderSynchronizationTab.label          "Synchronisatie">
 <!ENTITY folderCheckForNewMessages.label         "Deze map op nieuwe berichten controleren">
 <!ENTITY folderCheckForNewMessages.accesskey     "c">
 
