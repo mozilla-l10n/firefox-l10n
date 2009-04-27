@@ -19,6 +19,7 @@
 <!ENTITY signatureHtml.accesskey "G">
 <!ENTITY signatureFile.label "Gebruik bestand:">
 <!ENTITY signatureFile.accesskey "u">
+<!ENTITY edit.label "Bewerken…">
 <!ENTITY choose.label "Kiezen…">
 <!ENTITY choose.accesskey "K">
 <!ENTITY editVCard.label "Kaart bewerken…">
