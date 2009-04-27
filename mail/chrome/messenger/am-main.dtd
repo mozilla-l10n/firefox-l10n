@@ -3,8 +3,8 @@
 <!ENTITY accountTitle.label "Accountinstellingen">
 <!ENTITY accountName.label "Accountnaam:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY identityTitle.label "Standaardidentiteit">
-<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit is de informatie die anderen zien als ze uw berichten lezen.">
+<!ENTITY identityTitle.label "Standaard identiteit">
+<!ENTITY identityDesc.label "Elke account heeft zijn eigen identiteit. Dit is de informatie die anderen zien als ze uw bericht lezen.">
 <!ENTITY name.label "Uw naam:">
 <!ENTITY name.accesskey "U">
 <!ENTITY email.label "E-mailadres:">
@@ -13,9 +13,12 @@
 <!ENTITY replyTo.accesskey "n">
 <!ENTITY organization.label "Organisatie:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Deze ondertekening invoegen:">
-<!ENTITY signature.accesskey "D">
-<!ENTITY edit.label "Bewerken…">
+<!ENTITY signatureText.label "Tekst van de ondertekening:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Gebruik HTML">
+<!ENTITY signatureHtml.accesskey "G">
+<!ENTITY signatureFile.label "Gebruik bestand:">
+<!ENTITY signatureFile.accesskey "u">
 <!ENTITY choose.label "Kiezen…">
 <!ENTITY choose.accesskey "K">
 <!ENTITY editVCard.label "Kaart bewerken…">
@@ -31,3 +34,4 @@
 <!ENTITY smtpName.label "Uitgaande server (SMTP):">
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Standaardserver gebruiken">
+
