@@ -59,14 +59,3 @@
 <!ENTITY useDefault.accesskey             "S">
 <!ENTITY rememberLastMsg.label            "Onthoud het laatste geselecteerde bericht">
 <!ENTITY rememberLastMsg.accesskey        "e">
-<!ENTITY toolbarIntro.caption             "Selecteer de knoppen die u wilt zien in de werkbalk">
-<!ENTITY fileButton.label                 "Bestand">
-<!ENTITY fileButton.accesskey             "B">
-<!ENTITY nextButton.label                 "Volgende">
-<!ENTITY nextButton.accesskey             "V">
-<!ENTITY junkMailButton.label             "Ongewenstbericht">
-<!ENTITY junkMailButton.accesskey         "O">
-<!ENTITY printButton.label                "Afdrukken">
-<!ENTITY printButton.accesskey            "A">
-<!ENTITY stopButton.label                 "Stop">
-<!ENTITY stopButton.accesskey             "S">
