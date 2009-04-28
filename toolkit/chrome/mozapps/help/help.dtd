@@ -21,7 +21,6 @@
 <!ENTITY fullZoomReduceCmd.commandkey	"-">
 <!ENTITY fullZoomEnlargeCmd.commandkey	"+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + në shumë tastiera është sipër këtij tasti -->
-<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY zLevel.accesskey               "T">
 <!ENTITY zLevel.label                   "Përherë Sipër">
