@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey                      "P">
 <!ENTITY belowText.label                      "under sitert tekst (anbefalt)">
 <!ENTITY aboveText.label                      "under svaret mitt (over sitert tekst)">
+<!ENTITY includeSigOnReply.label              "Inkluder signatur på svar">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Inkluder signatur på videresendte meldinger">
+<!ENTITY includeSigOnForward.accesskey        "k">
