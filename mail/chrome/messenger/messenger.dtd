@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "O">
 <!ENTITY newAccountCmd.label "Account…">
 <!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY newMailAccountCmd.label "E-mail Account (snelle setup)…">
+<!ENTITY newMailAccountCmd.accesskey "s">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
