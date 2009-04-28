@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "a">
 <!ENTITY organization.label "Organisasjon:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Bruk denne signaturen:">
-<!ENTITY signature.accesskey "k">
+<!ENTITY signatureText.label "Signaturtekst:">
+<!ENTITY signatureText.accesskey "S">
+<!ENTITY signatureHtml.label "Bruk HTML (f.eks., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "B">
+<!ENTITY signatureFile.label "Legg ved signaturen fra en fil isteden (tekst, HTML eller bilde):">
+<!ENTITY signatureFile.accesskey "L">
 <!ENTITY edit.label "Rediger …">
 <!ENTITY choose.label "Velg …">
 <!ENTITY choose.accesskey "V">

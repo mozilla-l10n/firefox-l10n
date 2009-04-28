@@ -3,9 +3,9 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Vel, dette er pinlig.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; har trøbbel med å gjenopprette vinduer og faner. Dette skyldes vanligvis en nylig åpnet nettside.">
-<!ENTITY restorepage.tryThis        "Du kan forsøke å:">
-<!ENTITY restorepage.restoreSome    "Fjerne en eller flere faner som du tror kan forårsake problemet">
+<!ENTITY restorepage.problemDesc    "&brandShortName; klarer ikke å gjenopprette vinduer og faner. Dette skyldes vanligvis en nylig åpnet nettside.">
+<!ENTITY restorepage.tryThis        "Du kan forsøke å enten:">
+<!ENTITY restorepage.restoreSome    "Fjerne en eller flere faner som du tror kan ha forårsaket problemet">
 <!ENTITY restorepage.startNew       "Starte en helt ny nettleserøkt">
 
 <!ENTITY restorepage.tryagainButton "Gjenopprett">
