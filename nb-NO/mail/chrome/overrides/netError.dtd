@@ -33,7 +33,6 @@
 </ul>
 ">
 
-
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak.</p>
@@ -55,7 +54,7 @@
 <!ENTITY netOffline.title "Frakoblet modus">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Fjern avkryssingen fra &quot;Arbeid frakoblet&quot; i Fil-menyen, og prøv igjen.</li>
+  <li>Sett &brandShortName; i tilkoblet modus, og prøv igjen.</li>
 </ul>
 ">
 
@@ -170,7 +169,7 @@ midlertidig, og du kan prøve igjen senere.</li>
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+netError.xhtml) because it exposes functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningText "
 <p>Du bør ikke legge til en unntaksregel dersom du bruker en Internett-forbindelse som du ikke stoler på, eller dersom du ikke er vant med å se slike advarsler for denne tjeneren.</p>
