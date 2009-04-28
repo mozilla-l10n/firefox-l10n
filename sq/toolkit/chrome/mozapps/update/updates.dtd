@@ -37,7 +37,6 @@
 <!ENTITY  errorpatching.title             "Përditësimi Dështoi">
 <!ENTITY  errorpatching.intro             "Nuk u zbatua dot Përditësimi i pjesshëm. 
                                            &brandShortName;-i do të riprovojë duke shkarkuar Përditësimin e plotë.">
-<!ENTITY  finishedBackground.name         "Përditëso:">
 <!ENTITY  installed.title                 "Përditësimi u Instalua">
 <!ENTITY  installed.intro                 "Përditësimi u instalua me sukses.">
 <!ENTITY  whatsnew.label                  "Lexoni më tepër rreth të rejash…">
@@ -51,8 +50,6 @@
 
 <!ENTITY  incompatibleList.title          "U gjetën Shtesa të Papërputhshme">
 <!ENTITY  incompatibleCheck.title         "Po kontrollohet Përputhshmëria e Shtesave">
-
-<!ENTITY  clickHere.label                 "Shihni më tepër të dhëna për këtë përditësim">
 
 <!ENTITY  incompatibleCheck.label         "Po shihet për versione më të rinj për shtesat tuaja…">
 
