@@ -10,19 +10,19 @@
 <!ENTITY saveMessageDlg.label "Запрашивать подтверждение при сохранении сообщений">
 <!ENTITY saveMessageDlg.accesskey "п">
 <!ENTITY sentFolderOn.label "папку «Отправленные» в:">
-<!ENTITY sentFolderOn.accesskey "О">
+<!ENTITY sentFolderOn.accesskey "к">
 <!ENTITY sentInOtherFolder.label "Другую папку:">
 <!ENTITY sentInOtherFolder.accesskey "г">
 <!ENTITY draftsFolderOn.label "папке «Черновики» в:">
-<!ENTITY draftsFolderOn.accesskey "Ч">
+<!ENTITY draftsFolderOn.accesskey "н">
 <!ENTITY draftInOtherFolder.label "Другой папке:">
 <!ENTITY draftInOtherFolder.accesskey "у">
 <!ENTITY archivesFolderOn.label "папке «Архивы» в:">
 <!ENTITY archivesFolderOn.accesskey "в">
 <!ENTITY archiveInOtherFolder.label "Другой папке:">
-<!ENTITY archiveInOtherFolder.accesskey "у">
+<!ENTITY archiveInOtherFolder.accesskey "о">
 <!ENTITY templatesFolderOn.label "папке «Шаблоны» в:">
-<!ENTITY templatesFolderOn.accesskey "Ш">
+<!ENTITY templatesFolderOn.accesskey "б">
 <!ENTITY templateInOtherFolder.label "Другой папке:">
 <!ENTITY templateInOtherFolder.accesskey "р">
 <!ENTITY specialFoldersTitle.label "Черновики, архивы и шаблоны">

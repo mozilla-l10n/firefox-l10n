@@ -10,7 +10,7 @@
 <!ENTITY acceptCookies.label "Принимать куки с сайтов">
 <!ENTITY acceptCookies.accesskey "р">
 <!ENTITY acceptThirdParty.label "Принимать куки со сторонних сайтов">
-<!ENTITY acceptThirdParty.accesskey "с">
+<!ENTITY acceptThirdParty.accesskey "н">
 <!ENTITY keepUntil.label "Сохранять куки:">
 <!ENTITY keepUntil.accesskey "х">
 <!ENTITY expire.label "до истечения срока их действия">
@@ -19,9 +19,9 @@
 <!ENTITY cookieExceptions.label "Исключения…">
 <!ENTITY cookieExceptions.accesskey "к">
 <!ENTITY showCookies.label "Показать куки…">
-<!ENTITY showCookies.accesskey "о">
+<!ENTITY showCookies.accesskey "а">
 <!ENTITY historyHeader.pre.label "&brandShortName;:">
-<!ENTITY historyHeader.pre.accesskey "F">
+<!ENTITY historyHeader.pre.accesskey "e">
 <!ENTITY historyHeader.remember.label "будет запоминать историю">
 <!ENTITY historyHeader.dontremember.label "не будет запоминать историю">
 <!ENTITY historyHeader.custom.label "будет использовать ваши настройки хранения истории">
@@ -39,7 +39,7 @@
 <!ENTITY privateBrowsingAutoStart.label "Автоматически запускать &brandShortName; в режиме приватного просмотра">
 <!ENTITY privateBrowsingAutoStart.accesskey "в">
 <!ENTITY rememberHistory.pre.label "Помнить историю посещений не менее">
-<!ENTITY rememberHistory.pre.accesskey "с">
+<!ENTITY rememberHistory.pre.accesskey "о">
 <!ENTITY rememberHistory.post.label "дней">
 <!ENTITY rememberDownload.label "Помнить историю загрузок">
 <!ENTITY rememberDownload.accesskey "з">

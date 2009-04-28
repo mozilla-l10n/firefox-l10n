@@ -8,22 +8,22 @@
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
 <!ENTITY nntpNotDownloadRead.label "Загружать только непрочитанные сообщения">
-<!ENTITY nntpNotDownloadRead.accesskey "и">
+<!ENTITY nntpNotDownloadRead.accesskey "а">
 <!ENTITY nntpDownloadMsg.label "Загружать сообщения только за последние">
-<!ENTITY nntpDownloadMsg.accesskey "с">
+<!ENTITY nntpDownloadMsg.accesskey "г">
 <!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены.">
 <!ENTITY retentionCleanupImap.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (как локальные копии, так и оригиналы на удалённом сервере).">
 <!ENTITY retentionCleanupPop.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (в том числе оригиналы на удалённом сервере).">
 <!ENTITY retentionKeepMsg.label "Удалять сообщения старше">
-<!ENTITY retentionKeepMsg.accesskey "с">
+<!ENTITY retentionKeepMsg.accesskey "л">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">
 <!ENTITY retentionKeepAll.accesskey "е">
 <!ENTITY retentionKeepNew.label "Удалять все, кроме последних">
-<!ENTITY retentionKeepNew.accesskey "п">
+<!ENTITY retentionKeepNew.accesskey "я">
 <!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
 <!ENTITY retentionKeepUnread.accesskey "ч">
 <!ENTITY retentionApplyToFlagged.label "Всегда сохранять сообщения, отмеченные звёздочкой">
-<!ENTITY retentionApplyToFlagged.accesskey "р">
+<!ENTITY retentionApplyToFlagged.accesskey "с">
 <!ENTITY nntpRemoveBody.label "Удалять только те сообщения, которые хранятся дольше чем">
 <!ENTITY nntpRemoveBody.accesskey "д">
 <!ENTITY offlineSelectNntp.label "Выбрать группы новостей, доступные в автономном режиме…">
