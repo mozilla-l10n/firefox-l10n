@@ -13,7 +13,7 @@
 <!ENTITY organization.accesskey     "O">
 <!ENTITY signatureText.label        "Sygnaturka:">
 <!ENTITY signatureText.accesskey    "g">
-<!ENTITY signatureHtml.label        "Używaj HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label        "Używaj HTML (np. &lt;b&gt;pogrubiony tekst&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey    "H">
 <!ENTITY signatureFile.label        "Używaj treści z pliku (tekstowgo, HTML lub obrazka):">
 <!ENTITY signatureFile.accesskey    "U">
