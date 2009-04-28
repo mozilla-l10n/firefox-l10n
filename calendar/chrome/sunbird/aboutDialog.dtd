@@ -42,7 +42,7 @@
 <!ENTITY aboutLink.label        "&lt; О &brandFullName;">
 <!ENTITY aboutLink.accesskey    "О">
 <!ENTITY aboutVersion           "версия">
-<!ENTITY copyrightText          "&#169;1998-2008 Contributors. Все права
+<!ENTITY copyrightText          "&#169;1998-2009 Contributors. Все права
                                  защищены. Mozilla Sunbird, Sunbird и
                                  логотип Sunbird являются торговыми марками Mozilla
                                  Foundation. Все права защищены.">
