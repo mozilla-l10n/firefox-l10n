@@ -6,7 +6,6 @@
 <!ENTITY removeButton.label         "Usuń konto">
 <!ENTITY removeButton.accesskey     "U">
 
-<!-- AccountManager.xul -->
-<!ENTITY accountManager.size    "width: 70em; height: 50em;">
-<!ENTITY macAccountManager.size "width: 72em; height: 50em;">
-<!ENTITY accountTree.width      "width: 17em;">
+<!-- 1ch = The width of the "0" (ZERO, U+0030) glyph for the current font; 1em = The height of the font -->
+<!ENTITY accountManager.size "width: 97ch; height: 49em;"><!-- en-US: width: 97ch; height: 49em; -->
+<!ENTITY accountTree.width   "width: 31ch;"><!-- en-US: width: 31ch; -->
