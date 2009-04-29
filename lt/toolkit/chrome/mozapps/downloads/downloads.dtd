@@ -53,8 +53,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Atverti">
 <!ENTITY cmd.open.accesskey               "A">
-<!ENTITY cmd.openWith.label               "Atverti su…">
-<!ENTITY cmd.openWith.accesskey           "s">
+<!ENTITY cmd.openWith.label               "Atverti programa…">
+<!ENTITY cmd.openWith.accesskey           "r">
 <!ENTITY cmd.retry.label                  "Iš naujo">
 <!ENTITY cmd.retry.accesskey              "n">
 <!ENTITY cmd.goToDownloadPage.label       "Eiti į atsisiuntimo tinklalapį">
