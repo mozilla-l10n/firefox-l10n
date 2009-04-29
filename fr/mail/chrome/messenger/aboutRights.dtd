@@ -51,10 +51,6 @@
 <!ENTITY rights.webservices-d "Mise à jour">
 <!ENTITY rights.webservices-e ", et en désactivant les options sous «&nbsp;Rechercher automatiquement des mises à jour pour&nbsp;».">
 
-<!ENTITY rights.webservices-a "&brandFullName; utilise des services d'information sur les sites Web («&nbsp;Les Services&nbsp;»), comme le service de navigation sécurisée, qui sont mis à votre disposition dans cette version binaire de &brandShortName; comme décrit ci-dessous. Si vous ne voulez pas utiliser Les Services ou si vous trouvez que les modalités ci-dessous ne sont pas acceptables, vous pouvez désactiver le service de navigation sécurisée en ouvrant les préférences de l'application et en sélectionnant la section ">
-<!ENTITY rights.webservices-b "Sécurité">
-<!ENTITY rights.webservices-c ", puis en désactivant les options de «&nbsp;&blockAttackSites.label;&nbsp;» et «&nbsp;&blockWebForgeries.label;&nbsp;»">
-
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Un aperçu des services de sites Web intégrés dans le logiciel, accompagné des instructions sur la manière de les désactiver, le cas échéant, doit être indiqué ici.">
 
