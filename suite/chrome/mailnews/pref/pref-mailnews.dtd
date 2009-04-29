@@ -59,14 +59,3 @@
 <!ENTITY useDefault.accesskey             "o">
 <!ENTITY rememberLastMsg.label            "Husk siste melding">
 <!ENTITY rememberLastMsg.accesskey        "m">
-<!ENTITY toolbarIntro.caption             "Velg knappene du ønsker å se i verktøylinjen">
-<!ENTITY fileButton.label                 "Fil">
-<!ENTITY fileButton.accesskey             "F">
-<!ENTITY nextButton.label                 "Neste">
-<!ENTITY nextButton.accesskey             "n">
-<!ENTITY junkMailButton.label             "Uønsket">
-<!ENTITY junkMailButton.accesskey         "U">
-<!ENTITY printButton.label                "Skriv ut">
-<!ENTITY printButton.accesskey            "u">
-<!ENTITY stopButton.label                 "Stopp">
-<!ENTITY stopButton.accesskey             "S">
