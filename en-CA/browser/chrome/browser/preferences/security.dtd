@@ -9,7 +9,7 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Block reported attack sites">
-<!ENTITY  blockAttackSites.accesskey "k">
+<!ENTITY  blockAttackSites.accesskey "a">
 
 <!ENTITY  blockWebForgeries.label     "Block reported web forgeries">
 <!ENTITY  blockWebForgeries.accesskey "B">

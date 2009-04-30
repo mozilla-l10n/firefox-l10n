@@ -7,9 +7,9 @@
 <!ENTITY useCursorNavigation.label       "Always use the cursor keys to navigate within pages">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Search for text when I start typing">
-<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY searchStartTyping.accesskey     "S">
 <!ENTITY blockAutoRefresh.label          "Warn me when web sites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY blockAutoRefresh.accesskey      "W">
 
 <!ENTITY browsing.label                  "Browsing">
 
@@ -18,11 +18,11 @@
 <!ENTITY useSmoothScrolling.label        "Use smooth scrolling">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY checkSpelling.label             "Check my spelling as I type">
-<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY checkSpelling.accesskey         "C">
 
 <!ENTITY systemDefaults.label            "System Defaults">
 <!ENTITY alwaysCheckDefault.label        "Always check to see if &brandShortName; is the default browser on startup"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY alwaysCheckDefault.accesskey    "d">
 <!ENTITY checkNow.label                  "Check Now">
 <!ENTITY checkNow.accesskey              "N">
 
@@ -32,7 +32,7 @@
 
 <!ENTITY connectionDesc.label            "Configure how &brandShortName; connects to the Internet">
 <!ENTITY connectionSettings.label        "Settings…">
-<!ENTITY connectionSettings.accesskey    "e">
+<!ENTITY connectionSettings.accesskey    "S">
 
 <!ENTITY offlineStorage.label            "Offline Storage">
 
@@ -54,9 +54,9 @@
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate.label        "Installed Add-ons">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableAddonsUpdate.accesskey    "A">
 <!ENTITY enableSearchUpdate.label        "Search Engines">
-<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY enableSearchUpdate.accesskey    "S">
 <!ENTITY whenUpdatesFound.label          "When updates to &brandShortName; are found:">
 <!ENTITY askMe.label                     "Ask me what I want to do">
 <!ENTITY askMe.accesskey                 "k">
@@ -65,7 +65,7 @@
 <!ENTITY modeAutoAddonWarn.label         "Warn me if this will disable any of my add-ons">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY updateHistory.label             "Show Update History">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory.accesskey         "U">
 
 <!ENTITY offlineNotify.label             "Tell me when a web site asks to store data for offline use">
 <!ENTITY offlineNotify.accesskey         "T">
@@ -88,14 +88,14 @@
 <!ENTITY certificates.label              "Certificates">
 <!ENTITY certSelection.description       "When a server requests my personal certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
-<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Ask me every time">
-<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY viewCerts.label                 "View Certificates">
-<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewCRLs.label                  "Revocation Lists">
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Validation">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Security Devices">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+<!ENTITY viewSecurityDevices.accesskey   "D">
