@@ -3,7 +3,7 @@
 <!ENTITY  locationBar.label             "Location Bar">
 
 <!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "W">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "History and Bookmarks">
 <!ENTITY  locbar.history.label          "History">
@@ -93,14 +93,14 @@
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
 <!ENTITY  rememberHistory.pre.label      "Remember my browsing history for at least">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.pre.accesskey  "b">
 <!ENTITY  rememberHistory.post.label     "days">
 
 <!ENTITY  rememberDownload.label         "Remember download history">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberDownload.accesskey     "R">
 
 <!ENTITY  rememberSearchForm.label       "Remember search and form history">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "h">
 
 <!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
 <!ENTITY  clearOnClose.accesskey         "w">
