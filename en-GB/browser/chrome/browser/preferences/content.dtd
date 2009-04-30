@@ -4,7 +4,7 @@
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  loadImages.label            "Load images automatically">
-<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  loadImages.accesskey        "L">
 <!ENTITY  exceptions.label            "Exceptions…">
 <!ENTITY  exceptions.accesskey        "x">
 
