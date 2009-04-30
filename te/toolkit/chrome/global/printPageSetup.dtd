@@ -4,7 +4,6 @@
 <!ENTITY printSetup.title    "పేజీ అమర్పు">
 <!ENTITY basic.tab           "&amp; రూపంయొక్క  ఐచ్చికాలు">
 <!ENTITY formatGroup.label   "రూపం">
-<!ENTITY orientation.label   "సర్దుబాటు:">
 <!ENTITY orientation.label   "తీరు:">
 
 <!ENTITY portrait.label      "పోర్ట్రయిట్">
@@ -33,7 +32,7 @@
 <!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "ఎడమ:">
 <!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginLeft.label    "Left:">
+
 <!ENTITY marginRight.label   "కుడి:">
 <!ENTITY marginRight.accesskey "R">
 
