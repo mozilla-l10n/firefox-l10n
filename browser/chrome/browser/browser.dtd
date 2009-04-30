@@ -164,7 +164,7 @@
 <!ENTITY urlbar.bookmark.emptyText "Поиск в закладках">
 <!ENTITY urlbar.history.emptyText "Поиск в журнале">
 <!ENTITY urlbar.none.emptyText "Наберите адрес сайта">
-<!ENTITY urlbar.accesskey "д">
+<!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
