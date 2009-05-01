@@ -131,7 +131,6 @@
 <!ENTITY Work.accesskey                 "ע">
 <!ENTITY JobTitle.accesskey             "e">
 <!ENTITY Notes.accesskey                "ה">
-<!ENTITY Or.value                       "או">
 <!ENTITY Other.accesskey                "ח">
 <!ENTITY WorkAddress.accesskey          "כ">
 <!ENTITY WorkAddress2.accesskey         "">
@@ -140,4 +139,3 @@
 <!ENTITY WorkState.accesskey            "מ">
 <!ENTITY WorkWebPage.accesskey          "א">
 <!ENTITY WorkZipCode.accesskey          "ק">
-<!ENTITY Year.emptytext                 "שנה">
