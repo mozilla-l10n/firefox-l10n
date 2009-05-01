@@ -197,7 +197,7 @@
 <!ENTITY viewImageCmd.label "Visualizza immagine">
 <!ENTITY viewImageCmd.accesskey "V">
 <!ENTITY viewVideoCmd.label "Visualizza video">
-<!ENTITY viewVideoCmd.accesskey "d">
+<!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Visualizza immagine di sfondo">
 <!ENTITY viewBGImageCmd.accesskey "V">
 <!ENTITY setDesktopBackgroundCmd.label "Imposta come sfondo del desktop…">
@@ -225,9 +225,9 @@
 <!ENTITY saveImageCmd.label "Salva immagine con nome…">
 <!ENTITY saveImageCmd.accesskey "e">
 <!ENTITY saveVideoCmd.label "Salva video come…">
-<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveVideoCmd.accesskey "S">
 <!ENTITY saveAudioCmd.label "Salva audio come…">
-<!ENTITY saveAudioCmd.accesskey "v">
+<!ENTITY saveAudioCmd.accesskey "S">
 <!ENTITY sendImageCmd.label "Invia immagine…">
 <!ENTITY sendImageCmd.accesskey "n">
 <!ENTITY sendVideoCmd.label "Invia video…">
