@@ -36,7 +36,6 @@
 <p>&brandShortName; אינו יכול לטעון דף זזה מסיבה לא ידועה.</p>
 ">
 
-<!ENTITY malformedURI.longDesc "<p>הכתובת המסופקת אינה בתבנית מזוהה. אנא בדוק את שורת המיקום עבור שגיאות ונסה שוב.</p>">
 <!ENTITY malformedURI.title "כתובת לא חוקית">
 <!ENTITY malformedURI.longDesc '
 <ul>

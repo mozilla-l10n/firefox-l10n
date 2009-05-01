@@ -6,7 +6,7 @@
 
 <!ENTITY  locbar.pre.accessKey          "כ">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "היסטוכיה וסימניות">
+<!ENTITY  locbar.both.label             "היסטוריה וסימניות">
 <!ENTITY  locbar.history.label          "היסטוריה">
 <!ENTITY  locbar.bookmarks.label        "סימניות">
 <!ENTITY  locbar.nothing.label          "שום דבר">
