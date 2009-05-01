@@ -171,9 +171,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "ਮਨਜ਼ੂਰ ਅਤੇ ਇੰਸਟਾਲ…">
-<!ENTITY installFailure.label             "ਇੰਸਟਾਲ ਫੇਲ੍ਹ ਹੈ">
-
-<!ENTITY progressStatus.label             "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
 
 <!ENTITY blocklist.blocked.label          "ਪਾਬੰਦੀਸ਼ੁਦਾ">
