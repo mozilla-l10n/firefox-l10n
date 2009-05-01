@@ -10,8 +10,8 @@
     <DT><H3>Web-Suche</H3>
     <DL><p>
         <DT><A HREF="http://www.google.de/">Google</A>
-        <DT><A HREF="http://groups.google.de/">Google Groups</A>
-        <DT><A HREF="http://news.google.de/">Google News</A>
+        <DT><A HREF="http://groups.google.de/">Google-Gruppen</A>
+        <DT><A HREF="http://news.google.de/">Google-News</A>
     </DL><p>
 
 #unfilter emptyLines
