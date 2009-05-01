@@ -74,7 +74,7 @@
 <!ENTITY  rememberSearchForm.label       "Unthâld syk- en formulierskiednis">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Wiskje skiednis a &brandShortName; ôfslút">
+<!ENTITY  clearOnClose.label             "Wiskje skiednis as &brandShortName; ôfslút">
 <!ENTITY  clearOnClose.accesskey         "w">
 
 <!ENTITY  clearOnCloseSettings.label     "Ynstellings…">
