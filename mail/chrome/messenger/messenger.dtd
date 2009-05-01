@@ -200,6 +200,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "d">
 <!ENTITY ignoredThreadsCmd.label "Ignorovat vlákna">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
+
 <!ENTITY headersMenu.label "Záhlaví">
 <!ENTITY headersMenu.accesskey "h">
 <!ENTITY headersAllCmd.label "Vše">
@@ -214,6 +215,16 @@
 <!ENTITY bodySanitized.accesskey "J">
 <!ENTITY bodyAsPlaintext.label "Prostý text">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+
+<!ENTITY bodyMenuFeed.label "Tělo zprávy kanálu jako">
+<!ENTITY bodyMenuFeed.accesskey "z">
+<!ENTITY viewFeedWebPage.label "webová stránka">
+<!ENTITY viewFeedWebPage.accesskey "w">
+<!ENTITY viewFeedSummary.label "souhrn">
+<!ENTITY viewFeedSummary.accesskey "s">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Výchozí formát">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "f">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Zobrazit vloženou přílohu">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "l">
 
@@ -300,6 +311,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "h">
 <!ENTITY startPageCmd.label "Úvodní stránka">
 <!ENTITY startPageCmd.accesskey "s">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Zpráva">
 <!ENTITY msgMenu.accesskey "r">
 <!ENTITY newMsgCmd.label "Nová zpráva">
@@ -397,6 +410,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Otevřít zprávu">
 <!ENTITY openMessageWindowCmd.accesskey "v">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Otevřít zprávu kanálu">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Webová stránka v novém okně">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Souhrn v novém okně">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Zaměnit webovou stránku a souhrn v oblasti zprávy">
+<!ENTITY openFeedWebPageInMP.accesskey "Z">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Okno">
