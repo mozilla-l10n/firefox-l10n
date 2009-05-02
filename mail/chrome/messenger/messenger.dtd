@@ -200,6 +200,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "l">
 <!ENTITY ignoredThreadsCmd.label "Discussions ignorées">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "En-têtes">
 <!ENTITY headersMenu.accesskey "n">
 <!ENTITY headersAllCmd.label "Complets">
@@ -214,6 +215,16 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Texte seul">
 <!ENTITY bodyAsPlaintext.accesskey "x">
+
+<!ENTITY bodyMenuFeed.label "Corps de message du flux">
+<!ENTITY bodyMenuFeed.accesskey "C">
+<!ENTITY viewFeedWebPage.label "Page Web">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Résumé">
+<!ENTITY viewFeedSummary.accesskey "R">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Format par défaut">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "F">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Afficher les pièces jointes dans les messages">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
@@ -302,6 +313,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY prevStarredMsgCmd.accesskey "v">
 <!ENTITY startPageCmd.label "Page de démarrage">
 <!ENTITY startPageCmd.accesskey "g">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Messages">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Nouveau message">
@@ -399,6 +412,14 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY openMessageWindowCmd.label "Ouvrir le message">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Ouvrir le message du flux">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Page Web dans une nouvelle fenêtre">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Résumé dans une nouvelle fenêtre">
+<!ENTITY openFeedSummaryInWindow.accesskey "R">
+<!ENTITY openFeedWebPageInMP.label "Basculer entre page Web et résumé dans le panneau de message">
+<!ENTITY openFeedWebPageInMP.accesskey "B">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Fenêtre">
