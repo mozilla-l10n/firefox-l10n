@@ -243,6 +243,16 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Texte seul">
 <!ENTITY bodyAsPlaintext.accesskey "x">
+
+<!ENTITY bodyMenuFeed.label "Corps de message du flux">
+<!ENTITY bodyMenuFeed.accesskey "C">
+<!ENTITY viewFeedWebPage.label "Page Web">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Résumé">
+<!ENTITY viewFeedSummary.accesskey "R">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Format par défaut">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "F">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Afficher les pièces jointes dans les messages">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "j">
 <!ENTITY reloadCmd.label "Actualiser">
@@ -300,6 +310,8 @@
 <!ENTITY prevFlaggedMsgCmd.accesskey "c">
 <!ENTITY startPageCmd.label "Page de garde du Courrier">
 <!ENTITY startPageCmd.accesskey "g">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Messages">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Nouveau message">
@@ -403,8 +415,17 @@
 <!ENTITY openMessageWindowCmd.label "Ouvrir le message">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Ouvrir le message du flux">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Page Web dans une nouvelle fenêtre">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Résumé dans une nouvelle fenêtre">
+<!ENTITY openFeedSummaryInWindow.accesskey "R">
+<!ENTITY openFeedWebPageInMP.label "Basculer entre page Web et résumé dans le panneau de message">
+<!ENTITY openFeedWebPageInMP.accesskey "B">
 
-<!-- Tools Menu -->
+
+<!--  Tools Menu -->
 <!ENTITY searchMailCmd.label "Recherche dans le courrier…">
 <!ENTITY searchMailCmd.accesskey "c">
 <!ENTITY searchMailCmd.key "s">
