@@ -3,8 +3,8 @@
 # LOCALIZATION NOTE: The 'en-US' strings in some URLs will be replaced with
 # your locale code, and link to your translated pages as soon as they're live.
 
-#define bookmarks_title Bookmarks
-#define bookmarks_heading Bookmarks
+#define bookmarks_title Adresynas
+#define bookmarks_heading Adresynas
 
 #define personal_toolbarfolder Asmeninė mygtukų juosta
 
@@ -16,7 +16,7 @@
 
 # LOCALIZATION NOTE (seamonkey_long):
 # link title for http://www.seamonkey-project.org/ (in normal bookmarks)
-#define seamonkey_long The SeaMonkey Project
+#define seamonkey_long „SeaMonkey“ projektas
 
 # LOCALIZATION NOTE (mozilla_org):
 # link title for http://www.mozilla.org/ (in the personal toolbar)
@@ -24,7 +24,7 @@
 
 # LOCALIZATION NOTE (mozilla_org_long):
 # link title for http://www.mozilla.org/ (in normal bookmarks)
-#define mozilla_org_long The Mozilla Organization
+#define mozilla_org_long Mozilla
 
 # LOCALIZATION NOTE (mozilla_projects):
 # link title for http://www.mozilla.org/projects/
