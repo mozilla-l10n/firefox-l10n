@@ -202,7 +202,7 @@
 <!ENTITY urlbar.bookmark.emptyText    "جست‌وجو در نشانک‌ها">
 <!ENTITY urlbar.history.emptyText     "جست‌وجو در تاریخچه">
 <!ENTITY urlbar.none.emptyText        "یک نشانی وبی وارد کنید">
-<!ENTITY urlbar.accesskey             "م">
+<!ENTITY urlbar.accesskey             "d">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
