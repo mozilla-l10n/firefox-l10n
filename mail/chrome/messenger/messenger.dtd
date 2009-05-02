@@ -251,6 +251,16 @@
 <!ENTITY bodySanitized.accesskey "a">
 <!ENTITY bodyAsPlaintext.label "Grynasis">
 <!ENTITY bodyAsPlaintext.accesskey "G">
+
+<!ENTITY bodyMenuFeed.label "Sklaidos kanalo pranešimo tekstas">
+<!ENTITY bodyMenuFeed.accesskey "t">
+<!ENTITY viewFeedWebPage.label "Tinklalapis">
+<!ENTITY viewFeedWebPage.accesskey "T">
+<!ENTITY viewFeedSummary.label "Santrauka">
+<!ENTITY viewFeedSummary.accesskey "S">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Numatytasis formatas">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "N">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Rodyti priedus tiesiogiai">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "o">
 
@@ -264,7 +274,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "d">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "ž"> <!-- same key as "+" and "=" on the very popular Lithuanian Baltic keyboard -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "ž"> <!-- same key as "+" and "=" in a very popular Lithuanian Numeric keyboard layout -->
 
 <!ENTITY fullZoomReduceCmd.label        "Sumažinti">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
@@ -433,6 +443,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Atverti laišką">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
+
+<!ENTITY openFeedMessage.label "Atverti pranešimą">
+<!ENTITY openFeedMessage.accesskey "A">
+<!ENTITY openFeedWebPageInWindow.label "Tinklalapis naujame lange">
+<!ENTITY openFeedWebPageInWindow.accesskey "T">
+<!ENTITY openFeedSummaryInWindow.label "Santrauka naujame lange">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Tinklalapis/santrauka pranešimo polangyje">
+<!ENTITY openFeedWebPageInMP.accesskey "p">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Langas">
