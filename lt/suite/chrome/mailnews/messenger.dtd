@@ -256,6 +256,16 @@
 <!ENTITY bodySanitized.accesskey "P">
 <!ENTITY bodyAsPlaintext.label "Grynasis tekstas">
 <!ENTITY bodyAsPlaintext.accesskey "G">
+
+<!ENTITY bodyMenuFeed.label "Sklaidos kanalo pranešimo tekstas">
+<!ENTITY bodyMenuFeed.accesskey "t">
+<!ENTITY viewFeedWebPage.label "Tinklalapis">
+<!ENTITY viewFeedWebPage.accesskey "T">
+<!ENTITY viewFeedSummary.label "Santrauka">
+<!ENTITY viewFeedSummary.accesskey "S">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Numatytasis formatas">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "N">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Rodyti priedus tiesiogiai">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "o">
 <!ENTITY reloadCmd.label "Atsiųsti iš naujo">
@@ -421,6 +431,14 @@
 <!ENTITY openMessageWindowCmd.label "Atverti laišką">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Atverti pranešimą">
+<!ENTITY openFeedMessage.accesskey "A">
+<!ENTITY openFeedWebPageInWindow.label "Tinklalapis naujame lange">
+<!ENTITY openFeedWebPageInWindow.accesskey "T">
+<!ENTITY openFeedSummaryInWindow.label "Santrauka naujame lange">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Tinklalapis/santrauka pranešimo polangyje">
+<!ENTITY openFeedWebPageInMP.accesskey "p">
 
 <!-- Folder Pane -->
 <!ENTITY nameColumn.label "Vardas">
