@@ -196,14 +196,22 @@
 <!ENTITY headersAllCmd.accesskey "В">
 <!ENTITY headersNormalCmd.label "Обычные">
 <!ENTITY headersNormalCmd.accesskey "О">
-<!ENTITY bodyMenu.label "Тело сообщения">
+<!ENTITY bodyMenu.label "Тело сообщения в виде">
 <!ENTITY bodyMenu.accesskey "Т">
-<!ENTITY bodyAllowHTML.label "В виде исходного HTML">
-<!ENTITY bodyAllowHTML.accesskey "и">
-<!ENTITY bodySanitized.label "В виде упрощённого HTML">
-<!ENTITY bodySanitized.accesskey "у">
-<!ENTITY bodyAsPlaintext.label "В виде простого текста">
+<!ENTITY bodyAllowHTML.label "Исходного HTML">
+<!ENTITY bodyAllowHTML.accesskey "с">
+<!ENTITY bodySanitized.label "Упрощённого HTML">
+<!ENTITY bodySanitized.accesskey "п">
+<!ENTITY bodyAsPlaintext.label "Простого текста">
 <!ENTITY bodyAsPlaintext.accesskey "т">
+<!ENTITY bodyMenuFeed.label "Сообщение ленты новостей в виде">
+<!ENTITY bodyMenuFeed.accesskey "б">
+<!ENTITY viewFeedWebPage.label "Веб-страницы">
+<!ENTITY viewFeedWebPage.accesskey "е">
+<!ENTITY viewFeedSummary.label "Сводки">
+<!ENTITY viewFeedSummary.accesskey "д">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Формата по умолчанию">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "м">
 <!ENTITY viewAttachmentsInlineCmd.label "Показывать вложения в теле сообщения">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "П">
 <!ENTITY fullZoomEnlargeCmd.label "Увеличить">
@@ -372,6 +380,14 @@
 <!ENTITY openMessageWindowCmd.label "Открыть">
 <!ENTITY openMessageWindowCmd.accesskey "О">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Открыть сообщение ленты новостей">
+<!ENTITY openFeedMessage.accesskey "т">
+<!ENTITY openFeedWebPageInWindow.label "Веб-страницу в новом окне">
+<!ENTITY openFeedWebPageInWindow.accesskey "е">
+<!ENTITY openFeedSummaryInWindow.label "Сводку в новом окне">
+<!ENTITY openFeedSummaryInWindow.accesskey "в">
+<!ENTITY openFeedWebPageInMP.label "Переключиться между веб-страницей и сводкой в области просмотра сообщения">
+<!ENTITY openFeedWebPageInMP.accesskey "к">
 <!ENTITY windowMenu.label "Окно">
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
