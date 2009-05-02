@@ -217,6 +217,16 @@
 <!ENTITY bodySanitized.accesskey "V">
 <!ENTITY bodyAsPlaintext.label "Reiner Text">
 <!ENTITY bodyAsPlaintext.accesskey "R">
+
+<!ENTITY bodyMenuFeed.label "Feed-Artikel">
+<!ENTITY bodyMenuFeed.accesskey "F">
+<!ENTITY viewFeedWebPage.label "Webseite">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Zusammenfassung">
+<!ENTITY viewFeedSummary.accesskey "Z">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standardformat">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Anhänge eingebunden anzeigen">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
@@ -397,9 +407,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Junk-Filter anwenden">
 <!ENTITY recalculateJunkScoreCmd.accesskey "F">
-<!ENTITY openMessageWindowCmd.label "Öffnen">
-<!ENTITY openMessageWindowCmd.accesskey "Ö">
+<!ENTITY openMessageWindowCmd.label "Nachricht öffnen">
+<!ENTITY openMessageWindowCmd.accesskey "ö">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Feed-Artikel öffnen">
+<!ENTITY openFeedMessage.accesskey "ö">
+<!ENTITY openFeedWebPageInWindow.label "Webseite in neuem Fenster">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Zusammenfassung in neuem Fenster">
+<!ENTITY openFeedSummaryInWindow.accesskey "Z">
+<!ENTITY openFeedWebPageInMP.label "Zwischen Webseite und Zusammenfassung im Nachrichtenbereich umschalten">
+<!ENTITY openFeedWebPageInMP.accesskey "s">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Fenster">
