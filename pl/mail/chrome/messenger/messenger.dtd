@@ -208,6 +208,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "l">
 <!ENTITY ignoredThreadsCmd.label        "Zignorowane wątki">
 <!ENTITY ignoredThreadsCmd.accesskey    "i">
+
 <!ENTITY headersMenu.label              "Pokazuj nagłówki">
 <!ENTITY headersMenu.accesskey          "P">
 <!ENTITY headersAllCmd.label            "Wszystkie">
@@ -222,6 +223,16 @@
 <!ENTITY bodySanitized.accesskey        "s">
 <!ENTITY bodyAsPlaintext.label          "Zwykły tekst">
 <!ENTITY bodyAsPlaintext.accesskey      "Z">
+
+<!ENTITY bodyMenuFeed.label                     "Wyświetlaj artykuły jako">
+<!ENTITY bodyMenuFeed.accesskey                 "W">
+<!ENTITY viewFeedWebPage.label                  "Strona WWW">
+<!ENTITY viewFeedWebPage.accesskey              "S">
+<!ENTITY viewFeedSummary.label                  "Podsumowanie">
+<!ENTITY viewFeedSummary.accesskey              "P">
+<!ENTITY viewFeedSummaryFeedPropsPref.label     "Domyślny format">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+
 <!ENTITY viewAttachmentsInlineCmd.label     "Pokazuj załączniki w treści wiadomości">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "z">
 
@@ -308,6 +319,8 @@
 <!ENTITY prevStarredMsgCmd.accesskey    "O">
 <!ENTITY startPageCmd.label             "Strona startowa">
 <!ENTITY startPageCmd.accesskey         "S">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label                  "Wiadomość">
 <!ENTITY msgMenu.accesskey              "m">
 <!ENTITY newMsgCmd.label                "Nowa wiadomość">
@@ -405,6 +418,14 @@
 <!ENTITY openMessageWindowCmd.label        "Otwórz wiadomość">
 <!ENTITY openMessageWindowCmd.accesskey    "O">
 <!ENTITY openMessageWindowCmd.key          "o">
+<!ENTITY openFeedMessage.label             "Otwórz artykuł">
+<!ENTITY openFeedMessage.accesskey         "z">
+<!ENTITY openFeedWebPageInWindow.label     "Strona w nowym oknie">
+<!ENTITY openFeedWebPageInWindow.accesskey "S">
+<!ENTITY openFeedSummaryInWindow.label     "Podsumowanie w nowym oknie">
+<!ENTITY openFeedSummaryInWindow.accesskey "P">
+<!ENTITY openFeedWebPageInMP.label         "Wyświetlaj strony i podsumowania w panelu wiadomości">
+<!ENTITY openFeedWebPageInMP.accesskey     "W">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Okno">
