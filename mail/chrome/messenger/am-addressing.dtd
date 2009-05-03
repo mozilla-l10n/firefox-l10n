@@ -1,4 +1,4 @@
-<!ENTITY addressing.label "Составление сообщений и адресация">
+<!ENTITY addressing.label "Составление и адресация">
 <!ENTITY addressingGroupTitle.label "Адресация">
 <!ENTITY addressingText.label "При подборе адресов:">
 <!ENTITY useGlobal.label "Использовать для этой учётной записи глобальные настройки LDAP-сервера ">
@@ -8,7 +8,7 @@
 <!ENTITY directories.label "Использовать другой LDAP-сервер:">
 <!ENTITY directories.accesskey "д">
 <!ENTITY directoriesNone.label "Нет">
-<!ENTITY compositionGroupTitle.label "Составление сообщений">
+<!ENTITY compositionGroupTitle.label "Составление">
 <!ENTITY useHtml.label "Составлять сообщения в формате HTML">
 <!ENTITY useHtml.accesskey "с">
 <!ENTITY autoQuote.label "При ответе автоматически цитировать текст исходного сообщения">
@@ -18,8 +18,8 @@
 <!ENTITY aboveQuote.label "поместить курсор перед цитируемым текстом">
 <!ENTITY belowQuote.label "поместить курсор после цитируемого текста">
 <!ENTITY selectAndQuote.label "выделить цитируемый текст">
-<!ENTITY place.label "и помещать мою подпись">
-<!ENTITY place.accesskey "и">
+<!ENTITY place.label "и ставить подпись">
+<!ENTITY place.accesskey "в">
 <!ENTITY belowText.label "после цитируемого текста (рекомендуется)">
 <!ENTITY aboveText.label "после моего ответа (перед цитируемым текстом)">
 <!ENTITY includeSigOnReply.label "Включать подпись в ответы">
