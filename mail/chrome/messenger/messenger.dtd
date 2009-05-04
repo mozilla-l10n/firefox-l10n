@@ -219,7 +219,7 @@
 <!ENTITY bodyAsPlaintext.accesskey "R">
 
 <!ENTITY bodyMenuFeed.label "Feed-Artikel">
-<!ENTITY bodyMenuFeed.accesskey "F">
+<!ENTITY bodyMenuFeed.accesskey "e">
 <!ENTITY viewFeedWebPage.label "Webseite">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Zusammenfassung">
@@ -407,17 +407,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Junk-Filter anwenden">
 <!ENTITY recalculateJunkScoreCmd.accesskey "F">
-<!ENTITY openMessageWindowCmd.label "Nachricht öffnen">
-<!ENTITY openMessageWindowCmd.accesskey "ö">
+<!ENTITY openMessageWindowCmd.label "Öffnen">
+<!ENTITY openMessageWindowCmd.accesskey "Ö">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openFeedMessage.label "Feed-Artikel öffnen">
-<!ENTITY openFeedMessage.accesskey "ö">
+<!ENTITY openFeedMessage.label "Öffne Feed-Artikel per Doppelklick">
+<!ENTITY openFeedMessage.accesskey "Ö">
 <!ENTITY openFeedWebPageInWindow.label "Webseite in neuem Fenster">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
 <!ENTITY openFeedSummaryInWindow.label "Zusammenfassung in neuem Fenster">
 <!ENTITY openFeedSummaryInWindow.accesskey "Z">
-<!ENTITY openFeedWebPageInMP.label "Zwischen Webseite und Zusammenfassung im Nachrichtenbereich umschalten">
-<!ENTITY openFeedWebPageInMP.accesskey "s">
+<!ENTITY openFeedWebPageInMP.label "Umschalten Webseite/Zusammenfassung in Vorschau">
+<!ENTITY openFeedWebPageInMP.accesskey "U">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Fenster">
