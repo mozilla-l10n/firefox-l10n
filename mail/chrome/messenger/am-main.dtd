@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "a">
 <!ENTITY organization.label "Tổ chức:">
 <!ENTITY organization.accesskey "h">
-<!ENTITY signature.label "Đính kèm chữ kí này:">
-<!ENTITY signature.accesskey "k">
+<!ENTITY signatureText.label "Chữ kí:">
+<!ENTITY signatureText.accesskey "k">
+<!ENTITY signatureHtml.label "Dùng HTML (vd.: &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "D">
+<!ENTITY signatureFile.label "Kèm theo chữ kí từ một tập tin (văn bản, HTML, hoặc ảnh):">
+<!ENTITY signatureFile.accesskey "m">
 <!ENTITY edit.label "Chỉnh sửa…">
 <!ENTITY choose.label "Chọn…">
 <!ENTITY choose.accesskey "C">

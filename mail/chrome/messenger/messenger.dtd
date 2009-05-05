@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "m">
 <!ENTITY newAccountCmd.label "Tài khoản…">
 <!ENTITY newAccountCmd.accesskey "i">
+<!ENTITY newMailAccountCmd.label "Tài khoản Thư (Thiết lập Nhanh)">
+<!ENTITY newMailAccountCmd.accesskey "T">
 <!ENTITY openMessageFileCmd.label "Mở các Thư Đã Lưu…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY openAttachmentCmd.label "Phần đính kèm">
@@ -198,6 +200,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "e">
 <!ENTITY ignoredThreadsCmd.label "Chủ đề bị Bỏ qua">
 <!ENTITY ignoredThreadsCmd.accesskey "q">
+
 <!ENTITY headersMenu.label "Đầu đề">
 <!ENTITY headersMenu.accesskey "u">
 <!ENTITY headersAllCmd.label "Tất cả">
@@ -212,6 +215,16 @@
 <!ENTITY bodySanitized.accesskey "L">
 <!ENTITY bodyAsPlaintext.label "Văn bản Thuần">
 <!ENTITY bodyAsPlaintext.accesskey "V">
+
+<!ENTITY bodyMenuFeed.label "Nội dung Tin bài dưới dạng">
+<!ENTITY bodyMenuFeed.accesskey "d">
+<!ENTITY viewFeedWebPage.label "Trang Web">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Tóm tắt">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Định dạng Mặc định">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "M">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Phần đính kèm ngay Trong thư">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "k">
 
@@ -298,6 +311,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY startPageCmd.label "Trang Bắt Đầu">
 <!ENTITY startPageCmd.accesskey "B">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Thư tin">
 <!ENTITY msgMenu.accesskey "n">
 <!ENTITY newMsgCmd.label "Thư Mới">
@@ -395,6 +410,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Mở Thư">
 <!ENTITY openMessageWindowCmd.accesskey "M">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Mở Tin bài">
+<!ENTITY openFeedMessage.accesskey "M">
+<!ENTITY openFeedWebPageInWindow.label "Trang Web trong Cửa Sổ Mới">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Tóm Tắt trong Cửa Sổ Mới">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Bật-tắt Trang web và Tóm tắt trong Khung đọc thư">
+<!ENTITY openFeedWebPageInMP.accesskey "K">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Cửa sổ">

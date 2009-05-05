@@ -152,7 +152,7 @@
 <!ENTITY highestPriorityCmd.accesskey "C">
 <!ENTITY fileCarbonCopyCmd.label "Gửi một Bản sao Tới">
 <!ENTITY fileCarbonCopyCmd.accesskey "m">
-<!ENTITY fileHereMenu.label "Tập tin Ở đây">
+<!ENTITY fileHereMenu.label "Tập tin Tại đây">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Công cụ">
@@ -224,8 +224,8 @@
 <!ENTITY smiley9Cmd.label "Chụt chụt">
 <!ENTITY smiley10Cmd.label "La hét">
 <!ENTITY smiley11Cmd.label "Ngầu">
-<!ENTITY smiley12Cmd.label "Miệng-đầy-tiền">
-<!ENTITY smiley13Cmd.label "Cứng họng">
+<!ENTITY smiley12Cmd.label "Miệng đầy tiền">
+<!ENTITY smiley13Cmd.label "Bị chặn họng">
 <!ENTITY smiley14Cmd.label "Ngây thơ">
 <!ENTITY smiley15Cmd.label "Khóc">
 <!ENTITY smiley16Cmd.label "Ngậm tăm">

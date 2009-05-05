@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey                      "k">
 <!ENTITY belowText.label                      "dưới đoạn trích dẫn (khuyên dùng)">
 <!ENTITY aboveText.label                      "dưới trả lời của tôi (trên đoạn trích dẫn)">
+<!ENTITY includeSigOnReply.label              "Bao gồm chữ kí trong thư trả lời">
+<!ENTITY includeSigOnReply.accesskey          "B">
+<!ENTITY includeSigOnForward.label            "Bao gồm chữ kí trong thư chuyển tiếp">
+<!ENTITY includeSigOnForward.accesskey        "y">

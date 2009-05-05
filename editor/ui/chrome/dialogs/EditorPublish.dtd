@@ -68,7 +68,7 @@
 <!ENTITY filename.label               "Tên tập tin:">
 <!ENTITY filename.accesskey           "i">
 <!ENTITY filename.tooltip             "Nhập tên cho tập tin này, viết thêm '.html' nếu là trang web">
-<!ENTITY filenameExample.label        "vd,: &quot;trangweb.html&quot;">
+<!ENTITY filenameExample.label        "vd.: &quot;trangweb.html&quot;">
 <!ENTITY setDefaultButton.label       "Dùng làm Mặc định">
 <!ENTITY setDefaultButton.accesskey   "M">
 <!ENTITY removeButton.label           "Xóa Site">
