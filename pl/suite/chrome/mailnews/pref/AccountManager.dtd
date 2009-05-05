@@ -19,4 +19,4 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY accountManager.size "width: 105ch; height: 53em;">
-<!ENTITY accountTree.width "width: 356h;">
+<!ENTITY accountTree.width "width: 35ch;">
