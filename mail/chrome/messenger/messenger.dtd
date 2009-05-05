@@ -11,8 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "O">
 <!ENTITY newAccountCmd.label "Account…">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY newMailAccountCmd.label "E-mail Account (snelle setup)…">
-<!ENTITY newMailAccountCmd.accesskey "s">
+<!ENTITY newMailAccountCmd.label "E-mailaccount (Snelle set-up)…">
+<!ENTITY newMailAccountCmd.accesskey "S">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
@@ -46,8 +46,6 @@
 <!ENTITY compactFolders.accesskey "c">
 <!ENTITY emptyTrashCmd.label "Prullenbak leegmaken">
 <!ENTITY emptyTrashCmd.accesskey "P">
-<!ENTITY importCmd.label "Importeren…">
-<!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "f">
 <!ENTITY offlineGoOfflineCmd.label "Offline werken">
@@ -100,14 +98,11 @@
 <!ENTITY folderPropsFolderCmd.label "Mapeigenschappen…">
 <!ENTITY folderPropsNewsgroupCmd.label "Nieuwsgroepeigenschappen…">
 <!ENTITY folderPropsCmd.accesskey "E">
-<!ENTITY accountManagerCmd.label "Accountinstellingen…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
-<!ENTITY undoDeleteMsgCmd.label "Verwijderen bericht ongedaan maken">
+<!ENTITY undoDeleteMsgCmd.label "Bericht verwijderen ongedaan maken">
 <!ENTITY redoDeleteMsgCmd.label "Bericht verwijderen opnieuw uitvoeren">
-<!ENTITY undoMoveMsgCmd.label "Verplaatsen bericht ongedaan maken">
+<!ENTITY undoMoveMsgCmd.label "Bericht verplaatsen ongedaan maken">
 <!ENTITY redoMoveMsgCmd.label "Bericht verplaatsen opnieuw uitvoeren">
-<!ENTITY undoCopyMsgCmd.label "Kopiëren bericht ongedaan maken">
+<!ENTITY undoCopyMsgCmd.label "Bericht kopiëren ongedaan maken">
 <!ENTITY redoCopyMsgCmd.label "Bericht kopiëren opnieuw uitvoeren">
 <!ENTITY undoMarkAllCmd.label "Alles gelezen markeren ongedaan maken">
 <!ENTITY redoMarkAllCmd.label "Alles gelezen markeren opnieuw uitvoeren">
@@ -205,8 +200,9 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "v">
 <!ENTITY ignoredThreadsCmd.label "Genegeerde conversaties">
 <!ENTITY ignoredThreadsCmd.accesskey "n">
+
 <!ENTITY headersMenu.label "Berichtkopregels">
-<!ENTITY headersMenu.accesskey "K">
+<!ENTITY headersMenu.accesskey "k">
 <!ENTITY headersAllCmd.label "Alle">
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normaal">
@@ -219,6 +215,16 @@
 <!ENTITY bodySanitized.accesskey "V">
 <!ENTITY bodyAsPlaintext.label "Platte tekst">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+
+<!ENTITY bodyMenuFeed.label "Feedberichtopmaak als">
+<!ENTITY bodyMenuFeed.accesskey "b">
+<!ENTITY viewFeedWebPage.label "Webpagina">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Samenvatting">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standaardformaat">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Bijlagen in bericht weergeven">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
@@ -247,7 +253,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.label        "Alleen tekst zoomen">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
 <!ENTITY fullZoom.label                 "Zoomen">
-<!ENTITY fullZoom.accesskey             "o">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "Berichtbron">
 <!ENTITY pageSourceCmd.accesskey "r">
@@ -305,6 +311,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
 <!ENTITY startPageCmd.accesskey "s">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Bericht">
 <!ENTITY msgMenu.accesskey "e">
 <!ENTITY newMsgCmd.label "Nieuw bericht">
@@ -400,8 +408,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY recalculateJunkScoreCmd.label "Ongewensteberichtenverwerking uitvoeren">
 <!ENTITY recalculateJunkScoreCmd.accesskey "u">
 <!ENTITY openMessageWindowCmd.label "Bericht openen">
-<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY openMessageWindowCmd.accesskey "o">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Feedbericht openen">
+<!ENTITY openFeedMessage.accesskey "o">
+<!ENTITY openFeedWebPageInWindow.label "Webpagina in nieuw venster">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Samenvatting in nieuw venster">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Webpagina en samenvatting in berichtvenster omschakelen">
+<!ENTITY openFeedWebPageInMP.accesskey "e">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Venster">
@@ -432,6 +448,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "s">
 <!ENTITY filtersApplyToMessage.label "Filters toepassen op bericht">
 <!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY runJunkControls.label "Ongewensteberichtenverwerking uitvoeren op map">
+<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY deleteJunk.label "Ongewenste berichten uit map verwijderen">
+<!ENTITY deleteJunk.accesskey "v">
+<!ENTITY importCmd.label "Importeren…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY errorConsoleCmd.label "Foutconsole">
+<!ENTITY errorConsoleCmd.accesskey "F">
+<!ENTITY accountManagerCmd.label "Accountinstellingen…">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "A">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "E-mail ophalen">
@@ -453,8 +482,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Ongewenst">
 <!ENTITY notJunkButton.label "Niet ongewenst">
 <!ENTITY addressBookButton.label "Adresboek">
-<!ENTITY searchItem.title "Snel zoeken">
 <!ENTITY glodaSearch.title "Globaal zoeken">
+<!ENTITY searchItem.title "Snel zoeken">
 <!ENTITY mailViewsToolbarItem.title "E-mailweergaven">
 <!ENTITY folderLocationToolbarItem.title "Maplocatie">
 <!ENTITY tagButton.label "Labelen">
@@ -466,8 +495,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getAllNewMsgCmd.label "Alle nieuwe berichten ophalen">
 <!ENTITY getAllNewMsgCmd.accesskey "A">
 <!ENTITY getAllNewMsgCmd.key "t">
-<!ENTITY newMsgButton.tooltip "Nieuw bericht aanmaken">
-<!ENTITY replyButton.tooltip "Geselecteerde bericht beantwoorden">
+<!ENTITY newMsgButton.tooltip "Een nieuw bericht aanmaken">
+<!ENTITY replyButton.tooltip "Het geselecteerde bericht beantwoorden">
 <!ENTITY replyAllButton.tooltip "Afzender en alle geadresseerden beantwoorden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
 <!ENTITY fileButton.tooltip "Geselecteerde bericht archiveren">
@@ -482,9 +511,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.tooltip "Huidige verbinding verbreken">
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
-<!ENTITY addressBookButton.tooltip "Adresboek openen">
-<!ENTITY tagButton.tooltip "Bericht labelen">
-<!ENTITY compactButton.tooltip "Verwijderde berichten uit geselecteerde map definitief verwijderen">
+<!ENTITY addressBookButton.tooltip "Naar het adresboek gaan">
+<!ENTITY tagButton.tooltip "Berichten labelen">
+<!ENTITY compactButton.tooltip "Verwijderde berichten uit geselecteerde map verwijderen">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nieuw label…">
@@ -538,7 +567,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Berichten zoeken…">
-<!ENTITY glodaSearchBar.facet.label "Doorzoek:">
+<!ENTITY glodaSearchBar.facet.label "Doorzoeken:">
 <!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
        "everything" searches over subject, involves, body, and attachments.
        "subject" searches only messages subjects.
@@ -552,7 +581,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY glodaSearchFacet.everything.label "Alles">
 <!ENTITY glodaSearchFacet.subject.label "Onderwerp">
 <!ENTITY glodaSearchFacet.involves.label "Betreft (van,aan,cc,bcc)">
-<!ENTITY glodaSearchFacet.to.label "Aan, CC">
+<!ENTITY glodaSearchFacet.to.label "Aan, Cc">
 <!ENTITY glodaSearchFacet.from.label "Van">
 <!ENTITY glodaSearchFacet.body.label "Berichttekst">
 <!ENTITY glodaSearchFacet.attachmentNames.label "Bijlagenamen">
@@ -655,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Om uw privacy te beschermen zijn afbeeldingen op afstand geblokkeerd.">
-<!ENTITY loadRemoteContentButton2.label "Afbeeldingen nu tonen">
+<!ENTITY loadRemoteContentButton2.label "Afbeeldingen nu weergeven">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Dit bericht kan een e-mailscam zijn.">
