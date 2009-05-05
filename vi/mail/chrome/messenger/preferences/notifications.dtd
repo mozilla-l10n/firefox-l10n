@@ -3,7 +3,7 @@
 
 <!ENTITY alertCustomization.intro         "Chọn các trường muốn hiện trong thông báo:">
 <!ENTITY previewText.label                "Văn bản Xem trước Thư">
-<!ENTITY previewText.accesskey            "m">
+<!ENTITY previewText.accesskey            "V">
 <!ENTITY subject.label                    "Tiêu đề">
 <!ENTITY subject.accesskey                "T">
 <!ENTITY sender.label                     "Người gửi">

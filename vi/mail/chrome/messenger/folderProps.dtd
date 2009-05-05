@@ -68,7 +68,7 @@
 <!ENTITY retentionApplyToFlagged.label "Luôn luôn giữ lại thư gắn sao">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
-<!ENTITY folderOfflineTab.label                  "Ngoại tuyến">
+<!ENTITY folderSynchronizationTab.label          "Đồng bộ hóa">
 <!ENTITY folderCheckForNewMessages.label         "Kiểm tra thư mới trong thư mục này">
 <!ENTITY folderCheckForNewMessages.accesskey     "K">
 
