@@ -704,8 +704,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "Siekiant apsaugoti Jūsų privatumą, paveikslai iš tinklo blokuojami." >
-<!ENTITY loadRemoteContentButton2.label "Parodyti paveikslus">
+<!ENTITY remoteContentMessage2.label "Siekiant apsaugoti Jūsų privatumą, intarpai iš tinklo blokuojami." >
+<!ENTITY loadRemoteContentButton3.label "Parodyti intarpus">
 
 <!-- Phshing bar Bar -->
 <!ENTITY phishingBarMessage2.label "Šis laiškas gali būti apgaulingas.">
