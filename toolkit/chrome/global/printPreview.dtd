@@ -44,7 +44,7 @@
 <!ENTITY scale.label "માપ:">
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label "ઊભું">
-<!ENTITY portrait.accesskey "t">
+<!ENTITY portrait.accesskey "o">
 <!ENTITY landscape.label "આડું">
 <!ENTITY landscape.accesskey "L">
 <!ENTITY close.label "બંધ કરો">
