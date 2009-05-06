@@ -29,7 +29,7 @@
 <!ENTITY cmd.installUpdatesAll.accesskey  "I">
 <!ENTITY cmd.installUpdatesAll.tooltip    "પસંદ કરેલ સુધારાઓ સ્થાપિત કરે છે">
 <!ENTITY cmd.skip.label                   "અવગણો">
-<!ENTITY cmd.skip.accesskey               "S">
+<!ENTITY cmd.skip.accesskey               "k">
 <!ENTITY cmd.skip.tooltip                 "આ સુધારાઓ અવગણો">
 <!ENTITY cmd.continue.label               "ચાલુ રાખો">
 <!ENTITY cmd.continue.accesskey           "C">

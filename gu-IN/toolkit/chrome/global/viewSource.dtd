@@ -40,7 +40,7 @@
 <!ENTITY menu_textSize.label "લખાણ માપ">
 <!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "લખાણનુ માપ વધારો">
-<!ENTITY menu_textEnlarge.accesskey "D">
+<!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "લખાણ માપ ઘટાડો">
 <!ENTITY menu_textReduce.accesskey "D">
 <!ENTITY menu_textReset.label "સામાન્ય">

@@ -213,7 +213,7 @@
 <!ENTITY openFrameCmdInTab.label      "નવી ટેબમાં ચોકઠું ખોલો">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "માત્ર આ ચોકઠું જ બતાવો">
-<!ENTITY showOnlyThisFrameCmd.accesskey "w">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ચોકઠું પુનઃલાવો">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -227,7 +227,7 @@
 <!ENTITY viewPageInfoCmd.label        "પાનાં જાણકારી જુઓ">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ચોકઠાં જાણકારી જુઓ">
-<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY viewImageCmd.label           "ચિત્ર જુઓ">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "પાશ્વ ભાગ ચિત્ર જુઓ">
@@ -239,7 +239,7 @@
 <!ENTITY bookmarkThisLinkCmd.label        "આ કડી બુકમાર્ક કરો...">
 <!ENTITY bookmarkThisLinkCmd.accesskey    "L">
 <!ENTITY bookmarkThisFrameCmd.label       "આ ચોકઠું બુકમાર્ક કરો...">
-<!ENTITY bookmarkThisFrameCmd.accesskey   "F">
+<!ENTITY bookmarkThisFrameCmd.accesskey   "m">
 <!ENTITY sendPageCmd.label            "કડી મોકલો...">
 <!ENTITY sendPageCmd.accesskey        "e">
 <!ENTITY savePageCmd.label            "પાનું આ રીતે સંગ્રહો...">
@@ -260,12 +260,12 @@
 <!ENTITY sendImageCmd.label           "ચિત્ર મોકલો...">
 <!ENTITY sendImageCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "કડી સ્થાનની નકલ કરો">
-<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ચિત્ર સ્થાનની નકલ કરો">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ચિત્રની  નકલ કરો">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY blockImageCmd.accesskey       "g">
+<!ENTITY blockImageCmd.accesskey       "B">
 <!ENTITY metadataCmd.label            "ગુણધર્મો">
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "ઈમેઈલ સરનામાની નકલ કરો">
@@ -279,13 +279,13 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fullZoomReduceCmd.label        "ઘટાડો">
-<!ENTITY fullZoomReduceCmd.accesskey    "D">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.label         "સામાન્ય">
-<!ENTITY fullZoomResetCmd.accesskey     "N">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoom.label                 "લખાણ માપ">
-<!ENTITY fullZoom.accesskey             "z">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY newWindowButton.tooltip        "નવી વિન્ડો ખોલો">
 <!ENTITY sidebarCloseButton.tooltip     "બાજુપટ્ટી બંધ કરો">
@@ -424,7 +424,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.start.label         "ખાનગી બ્રાઉઝીંગ શરૂ કરો">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.stop.label          "ખાનગી બ્રાઉઝીંગ અટકાવો">
