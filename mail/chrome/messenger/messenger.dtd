@@ -672,8 +672,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "ඔබගේ පෞද්ගලිකත්වය රැකීම සඳහා, දුරස්ථ රූප අවහිර කර ඇත.">
-<!ENTITY loadRemoteContentButton2.label "දැන් රූපය පෙන්වන්න">
+<!ENTITY remoteContentMessage2.label "ඔබගේ පෞද්ගලිකත්වය රැකීම සඳහා, &brandShortName; මෙම ලිපියේ දුරස්ථ අන්තර්ගතයන් අවහිර කර ඇත.">
+<!ENTITY loadRemoteContentButton3.label "දුරස්ථ අන්තර්ගතයන් පෙන්වන්න">
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "This message may be a scam.">
 <!ENTITY removePhishingBarButton1.label "අවවාදය නොසලකා වරින්න">
