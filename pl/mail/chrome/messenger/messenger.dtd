@@ -674,8 +674,8 @@
 <!ENTITY junkInfoButton.label  "Dlaczego?" >
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label    "W celu ochrony prywatności, zdalne obrazki zostały zablokowane." >
-<!ENTITY loadRemoteContentButton2.label "Wyświetl obrazki">
+<!ENTITY remoteContentMessage2.label    "W celu ochrony prywatności, zdalna zawartość została zablokowana przez program &brandShortName;." >
+<!ENTITY loadRemoteContentButton3.label "Wyświetl zdalną zawartość">
 
 <!-- Phshing Bar -->
 <!ENTITY phishingBarMessage2.label      "Ta wiadomość może być próbą oszustwa.">
