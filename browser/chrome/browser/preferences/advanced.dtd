@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.label       "પાનાંઓમાં શોધખોળ કરવા માટે હંમેશા કર્સર કીઓ વાપરો">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "જ્યારે હું લખવાનું શરૂ કરું ત્યારે લખાણ માટે શોધો">
-<!ENTITY searchStartTyping.accesskey     "S">
+<!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "જ્યારે વેબ સાઈટો પાનું પુનઃદિશામાન કરવાનો કે પુનઃલાવવાનો પ્રયાસ કરે ત્યારે મને ચેતવો">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
@@ -79,7 +79,7 @@
 <!ENTITY certs.ask                       "મને દર વખતે પૂછો">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "પ્રમાણપત્રો જુઓ">
-<!ENTITY viewCerts.accesskey             "V">
+<!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewCRLs.label                  "રીવોકેશન યાદીઓ">
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "ખાતરી">
