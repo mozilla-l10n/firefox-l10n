@@ -410,8 +410,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Öffnen">
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openFeedMessage.label "Öffne Feed-Artikel per Doppelklick">
-<!ENTITY openFeedMessage.accesskey "Ö">
+<!ENTITY openFeedMessage.label "Feed-Artikel öffnen als">
+<!ENTITY openFeedMessage.accesskey "ö">
 <!ENTITY openFeedWebPageInWindow.label "Webseite in neuem Fenster">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
 <!ENTITY openFeedSummaryInWindow.label "Zusammenfassung in neuem Fenster">
