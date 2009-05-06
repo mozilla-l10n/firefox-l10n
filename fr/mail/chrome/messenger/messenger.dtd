@@ -680,8 +680,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "Afin de protéger votre vie privée, les images distantes ont été bloquées.">
-<!ENTITY loadRemoteContentButton2.label "Afficher les images maintenant">
+<!ENTITY remoteContentMessage2.label "Afin de protéger votre vie privée, les contenus distants ont été bloqués.">
+<!ENTITY loadRemoteContentButton3.label "Afficher les contenus maintenant">
 
 <!-- Phishing bar Bar -->
 <!ENTITY phishingBarMessage2.label "Ce message est peut-être frauduleux.">
