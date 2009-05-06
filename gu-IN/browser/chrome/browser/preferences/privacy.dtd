@@ -15,7 +15,7 @@
   &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
 -->
 <!ENTITY  rememberDaysBefore.label          "છેલ્લા">
-<!ENTITY  rememberDaysBefore.accesskey      "v">
+<!ENTITY  rememberDaysBefore.accesskey      "h">
 <!ENTITY  rememberDaysAfter2.label           "દિવસો માટે મુલાકાત લીધેલ પાનાંઓ યાદ રાખો.">
 
 <!ENTITY  rememberForms.label           "હું ફોર્મો અને શોધ પટ્ટીઓમાં જે કંઈપણ દાખલ કરું તે યાદ રાખો">

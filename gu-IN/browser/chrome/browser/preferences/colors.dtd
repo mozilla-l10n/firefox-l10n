@@ -3,7 +3,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "પાનાંઓને તેમના પોતાના રંગો પસંદ કરવા દો, મારી ઉપરની પસંદગીની જગ્યાએ">
-<!ENTITY  allowPagesToUse.accesskey       "h">
+<!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "લખાણ અને પાશ્વ ભાગ">
 <!ENTITY  textColor.label                 "લખાણ:">

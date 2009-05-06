@@ -21,7 +21,7 @@
 <!ENTITY printButton.label              "છાપો">
 <!ENTITY printButton.tooltip            "આ પાનું છાપો">
 <!ENTITY fullZoomReduceBtn.label 	"લખાણ માપ ઘટાડો">
-<!ENTITY fullZoomReduceBtn.accesskey    "D">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
 <!ENTITY fullZoomEnlargeBtn.label 	"લખાણ માપ વધારો">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">
 <!ENTITY closeWindow.commandkey         "W">
