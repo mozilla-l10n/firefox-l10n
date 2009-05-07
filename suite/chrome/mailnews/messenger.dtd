@@ -228,7 +228,8 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Beobachtete Threads mit ungelesenen">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "B">
 <!ENTITY ignoredThreadsCmd.label "Ignorierte Threads">
-<!ENTITY ignoredThreadsCmd.accesskey "I">  
+<!ENTITY ignoredThreadsCmd.accesskey "I">
+
 <!ENTITY headersMenu.label "Kopfzeilen">
 <!ENTITY headersMenu.accesskey "K">
 <!ENTITY headersAllCmd.label "Alle">
@@ -243,6 +244,16 @@
 <!ENTITY bodySanitized.accesskey "V">
 <!ENTITY bodyAsPlaintext.label "Reiner Text">
 <!ENTITY bodyAsPlaintext.accesskey "R">
+
+<!ENTITY bodyMenuFeed.label "Feed-Artikel als">
+<!ENTITY bodyMenuFeed.accesskey "F">
+<!ENTITY viewFeedWebPage.label "Webseite">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Zusammenfassung">
+<!ENTITY viewFeedSummary.accesskey "Z">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standardformat">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Inline-Attachments anzeigen">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "I">
 <!ENTITY reloadCmd.label "Neu laden">
@@ -300,6 +311,8 @@
 <!ENTITY prevFlaggedMsgCmd.accesskey "k">
 <!ENTITY startPageCmd.label "Mail-Startseite">
 <!ENTITY startPageCmd.accesskey "M">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Nachricht">
 <!ENTITY msgMenu.accesskey "N">
 <!ENTITY newMsgCmd.label "Neue Nachricht">
@@ -403,6 +416,14 @@
 <!ENTITY openMessageWindowCmd.label "Nachricht öffnen">
 <!ENTITY openMessageWindowCmd.accesskey "N">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Feed-Artikel öffnen als">
+<!ENTITY openFeedMessage.accesskey "ö">
+<!ENTITY openFeedWebPageInWindow.label "Webseite in neuem Fenster">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Zusammenfassung in neuem Fenster">
+<!ENTITY openFeedSummaryInWindow.accesskey "Z">
+<!ENTITY openFeedWebPageInMP.label "Zwischen Webseite und Zusammenfassung im Nachrichtenbereich umschalten">
+<!ENTITY openFeedWebPageInMP.accesskey "s">
 
 <!-- Tools Menu -->
 <!ENTITY searchMailCmd.label "Nachrichten suchen…">

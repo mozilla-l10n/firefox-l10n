@@ -79,13 +79,9 @@
 <!ENTITY ScreenName.label               "Anzeigename:">
 <!ENTITY ScreenName.accesskey           "I">
 
-<!ENTITY allowRemoteContent.label       "Von außen stammende Grafiken erlauben.">
-<!ENTITY allowRemoteContent.accesskey   "V">
-<!ENTITY allowRemoteContent.tooltip     "In HTML-Nachrichten ist es möglich,
-Grafiken aus externen Quellen einzubetten. Das Öffnen einer solchen Nachricht
-öffnet eine Verbindung mit dieser externen Quelle. Dies könnte die Verfolgung
-von gelesenen Nachrichten erlauben. Dieses Kästchen anzuwählen erlaubt solche
-externen eingebetteten Grafiken in HTML-Nachrichten von diesem Kontakt.">
+<!ENTITY allowRemoteContent1.label      "Externe Inhalte erlauben.">
+<!ENTITY allowRemoteContent1.accesskey  "x">
+<!ENTITY allowRemoteContent1.tooltip    "In HTML-Nachrichten können Inhalte von externen Quellen eingebunden sein. Beim Anzeigen dieser Nachrichten wird eine Verbindung zur externen Quelle hergestellt. Dadurch könnte zurückverfolgt werden, dass die Nachricht gelesen wird. Durch Aktivieren dieser Option erlauben Sie das Laden der Inhalte von externen Quellen bei Nachrichten dieses Absenders.">
 
 <!ENTITY WorkPhone.label                "Dienstlich:">
 <!ENTITY WorkPhone.accesskey            "D">
