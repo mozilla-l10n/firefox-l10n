@@ -43,7 +43,7 @@
 
 <!ENTITY all.label "الكل">
 <!ENTITY all.accesskey "ك">
-<!ENTITY errors.label "الأخطاء:">
+<!ENTITY errors.label "الأخطاء">
 <!ENTITY errors.accesskey "خ">
 <!ENTITY warnings.label "التحذيرات">
 <!ENTITY warnings.accesskey "ذ">

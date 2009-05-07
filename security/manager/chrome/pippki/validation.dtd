@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY validation.crlmanager.label "إدارة قوائم إلغاء الشهادات">
-<!ENTITY validation.crlmanager.description "قوائم إلغاء الشهادات (CRL) هذه مخزنة قي قاعدة بيانات شهاداتك:">
+<!ENTITY validation.crlmanager.label "إدارة قوائم نقض الشهادات">
+<!ENTITY validation.crlmanager.description "قوائم نقض الشهادات (CRL) هذه مخزنة قي قاعدة بيانات شهاداتك:">
 <!ENTITY validation.crlname.label "الاسم">
 <!ENTITY validation.crllastupdate.label "التحديث الأخير">
 <!ENTITY validation.crlnextupdate.label "التحديث التالي">
@@ -47,18 +47,18 @@
 <!ENTITY validation.updatecrl.label "حدّث">
 <!ENTITY validation.updatecrl.accesskey "ح">
 <!ENTITY validation.advanced.label "إعدادات">
-<!ENTITY validation.advanced.accesskey "S">
+<!ENTITY validation.advanced.accesskey "ع">
 
-<!ENTITY validation.crl.autoupdate.title "تفضيلات التحديث التلقائي لقوائم إلغاء الشهادات">
-<!ENTITY validation.crl.autoupdate.enable.label "فعّل التحديث التلقائي لقائمة إلغاء الشهادات">
+<!ENTITY validation.crl.autoupdate.title "تفضيلات التحديث التلقائي لقوائم نقض الشهادات">
+<!ENTITY validation.crl.autoupdate.enable.label "فعّل التحديث التلقائي لقائمة نقض الشهادات">
 <!ENTITY validation.crl.autoupdate.time.label1 "حدّث">
 <!ENTITY validation.crl.autoupdate.time.label2 "يومًا/أيام قبل موعد التحديث التالي">
 <!ENTITY validation.crl.autoupdate.freq.label1 "حدّث كلّ">
 <!ENTITY validation.crl.autoupdate.freq.label2 "يومًا/أيام">
-<!ENTITY validation.crl.autoupdate.url.label "كانت قائمة إلغاء الشهادات ستُستورد من:">
-<!ENTITY crl.import.status.title "حالة استيراد قوائم إلغاء الشهادات">
-<!ENTITY crl.import.success.message "استوردتْ قائمة إلغاء الشهادات (CRL) بنجاح.">
-<!ENTITY crl.issuer.label "قائمة إلغاء الشهادات مُصْدرة من قِبل:">
+<!ENTITY validation.crl.autoupdate.url.label "كانت قائمة نقض الشهادات ستُستورد من:">
+<!ENTITY crl.import.status.title "حالة استيراد قوائم نقض الشهادات">
+<!ENTITY crl.import.success.message "استوردتْ قائمة نقض الشهادات (CRL) بنجاح.">
+<!ENTITY crl.issuer.label "قائمة نقض الشهادات مُصْدرة من قِبل:">
 <!ENTITY crl.issuer.org.label "المنظمة:">
 <!ENTITY crl.issuer.orgunit.label "الوحدة:">
 <!ENTITY crl.import.nextupdate.label "التحديث التالي في:">

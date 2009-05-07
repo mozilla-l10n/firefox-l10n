@@ -4,7 +4,7 @@
 <!ENTITY cookiename.label "اسم الكعكة">
 <!ENTITY cookiedomain.label "الموقع">
 <!ENTITY button.removecookie.label "أزل الكعكة">
-<!ENTITY button.removecookie.accesskey "ر">
+<!ENTITY button.removecookie.accesskey "ل">
 <!ENTITY button.removeallcookies.label "أزل كل الكعكات">
 <!ENTITY button.removeallcookies.accesskey "ك">
 

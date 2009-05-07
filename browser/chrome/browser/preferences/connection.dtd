@@ -4,11 +4,11 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY proxyTitle.label "اضبط وسطاء الوصول إلى الإنترنت">
-<!ENTITY noProxyTypeRadio.label "لا يوجد بروكسي">
+<!ENTITY noProxyTypeRadio.label "لا وسيط">
 <!ENTITY noProxyTypeRadio.accesskey "ل">
 <!ENTITY systemTypeRadio.label "استخدم إعدادات النظام للوسيط">
 <!ENTITY systemTypeRadio.accesskey "ن">
-<!ENTITY WPADTypeRadio.label "اكتشف آليا إعدادات الوسيط لهذه الشبكة:">
+<!ENTITY WPADTypeRadio.label "اكتشف آليا إعدادات الوسيط لهذه الشبكة">
 <!ENTITY WPADTypeRadio.accesskey "ش">
 <!ENTITY manualTypeRadio.label "إعداد الوسيط يدويا:">
 <!ENTITY manualTypeRadio.accesskey "ي">

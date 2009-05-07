@@ -1,5 +1,5 @@
-<!ENTITY sanitizePrefs2.title           "إعدادات مسح التاريخ">
-<!ENTITY sanitizeDialog2.title "مسح التاريخ الحالي">
+<!ENTITY sanitizePrefs2.title           "إعدادات مسح التأريخ">
+<!ENTITY sanitizeDialog2.title "مسح التأريخ الحالي">
 
 <!ENTITY sanitizeItems.label "امسح العناصر التالية الآن:">
 <!ENTITY clearDataSettings2.label     "عند خروجي من &brandShortName;، ينبغي عليه تلقائيًا أن يمسح كل:">
@@ -10,8 +10,8 @@
 <!ENTITY clearTimeDuration.lastHour       "آخر ساعة">
 <!ENTITY clearTimeDuration.last2Hours     "آخر ساعتين">
 <!ENTITY clearTimeDuration.last4Hours     "آخر أربع ساعات">
-<!ENTITY clearTimeDuration.today          "التاريخ لهذا اليوم">
-<!ENTITY clearTimeDuration.everything     "التاريخ كله">
+<!ENTITY clearTimeDuration.today          "التأريخ لهذا اليوم">
+<!ENTITY clearTimeDuration.everything     "التأريخ كله">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
@@ -24,15 +24,15 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "التفاصيل">
 <!ENTITY detailsProgressiveDisclosure.accesskey "ف">
 
-<!ENTITY historySection.label         "التاريخ">
+<!ENTITY historySection.label         "التأريخ">
 <!ENTITY dataSection.label            "البيانات">
 
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "تاريخ التصفح والتنزيلات">
+<!ENTITY itemHistoryAndDownloads.label     "تأريخ التصفح والتنزيلات">
 <!ENTITY itemHistoryAndDownloads.accesskey "ص">
-<!ENTITY itemBrowsingHistory.label         "تاريخ التصفح">
+<!ENTITY itemBrowsingHistory.label         "تأريخ التصفح">
 <!ENTITY itemBrowsingHistory.accesskey     "ص">
 <!ENTITY itemPasswords.label "كلمات السر المحفوظة">
 <!ENTITY itemPasswords.accesskey "ك">
@@ -40,11 +40,11 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey "ت">
 <!ENTITY itemCache.label                   "ذاكرة مخبّأة">
 <!ENTITY itemCache.accesskey               "ة">
-<!ENTITY itemDownloadHistory.label       "تاريخ التنزيل">
+<!ENTITY itemDownloadHistory.label       "تأريخ التنزيل">
 <!ENTITY itemDownloadHistory.accesskey   "ز">
 <!ENTITY itemOfflineApps.label "بيانات المواقع للعمل دون اتصال">
 <!ENTITY itemOfflineApps.accesskey "ب">
-<!ENTITY itemFormSearchHistory.label  "تاريخ البحث والنماذج">
+<!ENTITY itemFormSearchHistory.label  "تأريخ البحث والنماذج">
 <!ENTITY itemFormSearchHistory.accesskey "ث">
 <!ENTITY itemActiveLogins.label "تسجيلات الدخول النشِطة">
 <!ENTITY itemActiveLogins.accesskey "ش">

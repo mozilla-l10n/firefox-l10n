@@ -7,7 +7,7 @@
 <!ENTITY  updateCheck.label               "يجري البحث عن إصدارات أحدث من &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "لم يُعثر على تحديثات">
-<!ENTITY noupdatesautoenabled.intro "لا يوجد تحديثات متاحة. سوف يلتمس &brandShortName; التحديثات بشكل دوري.">
+<!ENTITY noupdatesautoenabled.intro "لا تحديثات جديدة. سوف يلتمس &brandShortName; التحديثات بشكل دوري.">
 <!ENTITY noupdatesautodisabled.intro "لا توجد تحديثات متاحة. رجاءً تحقق ثانيةً في وقت لاحق 
 أو فعّل التماس &brandShortName; للتحديث التلقائي.">
 
