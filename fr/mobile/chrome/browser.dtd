@@ -54,7 +54,7 @@
 <!ENTITY addonsRepo.label "Obtenir des modules">
 <!ENTITY addonsRecommended.label "Recommandés">
 <!ENTITY addonsSearch.label "Catalogue">
-<!ENTITY addonsSearch.emptytext "Chercher un module">
+<!ENTITY addonsSearch.emptytext "Rechercher des modules">
 
 <!ENTITY addonOptions.label "Options">
 <!ENTITY addonEnable.label "Activer">
@@ -64,9 +64,9 @@
 <!ENTITY addonCancel.label "Annuler">
 
 <!ENTITY downloadsHeader.label "Téléchargements">
-<!ENTITY downloadsSortDate.label "Par date">
-<!ENTITY downloadsSortSite.label "Par site">
-<!ENTITY downloadsSortName.label "Par nom">
+<!ENTITY downloadsSortDate.label "Date">
+<!ENTITY downloadsSortSite.label "Site">
+<!ENTITY downloadsSortName.label "Nom">
 <!ENTITY downloadsSearch.label "Rechercher">
 <!ENTITY downloadsSearch.emptytext "Rechercher un fichier téléchargé">
 
