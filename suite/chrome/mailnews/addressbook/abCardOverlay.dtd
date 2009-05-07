@@ -90,13 +90,13 @@ dans les messages HTML de ce contact.">
 
 <!ENTITY WorkPhone.label "Travail :"> 
 <!ENTITY WorkPhone.accesskey "l">
-<!ENTITY HomePhone.label "Domicile :"> 
+<!ENTITY HomePhone.label "Domicile :">
 <!ENTITY HomePhone.accesskey "i">
-<!ENTITY FaxNumber.label "Fax :"> 
+<!ENTITY FaxNumber.label "Fax :">
 <!ENTITY FaxNumber.accesskey "x">
-<!ENTITY PagerNumber.label "Pager :"> 
+<!ENTITY PagerNumber.label "Pager :">
 <!ENTITY PagerNumber.accesskey "g">
-<!ENTITY CellularNumber.label "Portable :"> 
+<!ENTITY CellularNumber.label "Portable :">
 <!ENTITY CellularNumber.accesskey "t">
 
 <!ENTITY Home.tab                       "Privée">
@@ -150,11 +150,11 @@ dans les messages HTML de ce contact.">
 <!ENTITY Other.accesskey "n">
 <!ENTITY Custom1.label "Divers 1 :">
 <!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Divers 2 :"> 
+<!ENTITY Custom2.label "Divers 2 :">
 <!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Divers 3 :"> 
+<!ENTITY Custom3.label "Divers 3 :">
 <!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Divers 4 :"> 
+<!ENTITY Custom4.label "Divers 4 :">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label                    "Notes :">
 <!ENTITY Notes.accesskey                "N">
