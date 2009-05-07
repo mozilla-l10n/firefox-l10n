@@ -44,9 +44,9 @@
 <!ENTITY addonsHeader.label "Дополнения">
 <!ENTITY addonsLocal.label "Ваши дополнения">
 <!ENTITY addonsRepo.label "Получить дополнения">
-<!ENTITY addonsRecommended.label "Просмотреть рекомендуемые">
-<!ENTITY addonsSearch.label "Каталог поиска">
-<!ENTITY addonsSearch.emptytext "Поиск дополнений">
+<!ENTITY addonsRecommended.label "Рекомендуемые">
+<!ENTITY addonsSearch.label "Поиск">
+<!ENTITY addonsSearch.emptytext "Поиск во всех дополнениях">
 <!ENTITY addonOptions.label "Настройки">
 <!ENTITY addonEnable.label "Включить">
 <!ENTITY addonDisable.label "Отключить">
@@ -54,9 +54,9 @@
 <!ENTITY addonUninstall.label "Удалить">
 <!ENTITY addonCancel.label "Отмена">
 <!ENTITY downloadsHeader.label "Загрузки">
-<!ENTITY downloadsSortDate.label "По дате">
-<!ENTITY downloadsSortSite.label "По сайту">
-<!ENTITY downloadsSortName.label "По имени">
+<!ENTITY downloadsSortDate.label "Дата">
+<!ENTITY downloadsSortSite.label "Сайт">
+<!ENTITY downloadsSortName.label "Имя">
 <!ENTITY downloadsSearch.label "Поиск">
 <!ENTITY downloadsSearch.emptytext "Поиск загруженного файла">
 <!ENTITY downloadShowPage.label "Перейти к странице">
