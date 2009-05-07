@@ -152,7 +152,7 @@
 <!ENTITY event.help.release.notes.label                   "Ghi chú Phát hành">
 <!ENTITY event.help.release.notes.accesskey               "P">
 <!ENTITY event.help.help.label                            "Trợ giúp &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "p">
+<!ENTITY event.help.help.accesskey                        "T">
 <!ENTITY event.help.about.label                           "Thông tin về &brandShortName;">
 <!ENTITY event.help.about.accesskey                       "v">
 

@@ -49,6 +49,35 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "Tiện ích">
+<!ENTITY addonsLocal.label         "Tiện ích của Bạn">
+<!ENTITY addonsRepo.label          "Lấy thêm Tiện ích">
+<!ENTITY addonsRecommended.label   "Xem 'Khuyên dùng'">
+<!ENTITY addonsSearch.label        "Tìm trong Danh mục">
+<!ENTITY addonsSearch.emptytext    "Tìm kiếm tiện ích">
+
+<!ENTITY addonOptions.label        "Tùy chọn">
+<!ENTITY addonEnable.label         "Kích hoạt">
+<!ENTITY addonDisable.label        "Vô hiệu hóa">
+<!ENTITY addonInstall.label        "Cài đặt">
+<!ENTITY addonUninstall.label      "Gỡ bỏ">
+<!ENTITY addonCancel.label         "Hủy bỏ">
+
+<!ENTITY downloadsHeader.label     "Tải xuống">
+<!ENTITY downloadsSortDate.label   "Theo Ngày tháng">
+<!ENTITY downloadsSortSite.label   "Theo Trang">
+<!ENTITY downloadsSortName.label   "Theo Tên">
+<!ENTITY downloadsSearch.label     "Tìm kiếm">
+<!ENTITY downloadsSearch.emptytext "Tìm kiếm tập tin đã tải xuống">
+
+<!ENTITY downloadShowPage.label    "Chuyển đến Trang">
+<!ENTITY downloadShow.label        "Tìm kiếm Tập tin">
+<!ENTITY downloadOpen.label        "Mở Tập Tin">
+<!ENTITY downloadCancel.label      "Hủy bỏ">
+<!ENTITY downloadPause.label       "Tạm dừng">
+<!ENTITY downloadResume.label      "Tiếp tục">
+<!ENTITY downloadRetry.label       "Thử lại">
+
 <!ENTITY identity.unverifiedsite2 "Trang web này không cung cấp thông tin định danh.">
 <!ENTITY identity.connectedTo "Bạn đang kết nối đến">
 <!-- Localization note (identity.runBy) : This string appears between a

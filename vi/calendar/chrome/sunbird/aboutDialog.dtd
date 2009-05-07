@@ -55,7 +55,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Mozilla Việt Nam</h3><ul><li>NGUYỄN Mạnh Hùng</li><li>NGUYỄN Xuân Minh</li><li>HUỲNH Hải Đăng</li><li>BÙI Việt Khoa</li><li>TRẦN Nguyễn Sơn</li></ul>">
+<!ENTITY credit.translation "<h3>Mozilla Việt Nam</h3><ul><li>Nguyễn Mạnh Hùng</li><li>Nguyễn Xuân Minh</li><li>Huỳnh Hải Đăng</li><li>Bùi Việt Khoa</li><li>Trần Nguyễn Sơn</li><li>http://vi.mozdev.org</li></ul>">
 
 <!ENTITY credit.powered     "Tiếp sức mạnh từ">
 <!ENTITY license.and        "và">

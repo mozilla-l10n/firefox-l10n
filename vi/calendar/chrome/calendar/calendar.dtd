@@ -135,7 +135,7 @@
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
 <!ENTITY calendar.task.filter.overdue.label         "Tác vụ Quá hạn">
 <!ENTITY calendar.task.filter.overdue.accesskey     "Q">
-<!ENTITY calendar.task.filter.completed.label       "Tác vụ đã Hoàn tất">
+<!ENTITY calendar.task.filter.completed.label       "Tác vụ Đã hoàn tất">
 <!ENTITY calendar.task.filter.completed.accesskey   "o">
 <!ENTITY calendar.task.filter.open.label            "Tác vụ Chưa hoàn tất">
 <!ENTITY calendar.task.filter.open.accesskey        "v">

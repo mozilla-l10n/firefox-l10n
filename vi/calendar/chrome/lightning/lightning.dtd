@@ -65,7 +65,7 @@
 <!ENTITY lightning.calendar.label            "Lịch">
 <!ENTITY lightning.calendar.accesskey        "L">
 <!ENTITY lightning.tasks.label               "Tác vụ">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!ENTITY lightning.tasks.accesskey           "v">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "Thư">

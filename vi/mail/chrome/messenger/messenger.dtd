@@ -677,8 +677,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "Để bảo vệ sự riêng tư của bạn, hình ảnh từ xa đã bị chặn.">
-<!ENTITY loadRemoteContentButton2.label "Hiển thị Hình ảnh Ngay">
+<!ENTITY remoteContentMessage2.label "Để bảo vệ sự riêng tư của bạn, &brandShortName; đã chặn nội dung từ xa trong thư này.">
+<!ENTITY loadRemoteContentButton3.label "Hiện Nội dung Từ xa">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Thư này có thể là lừa đảo.">
