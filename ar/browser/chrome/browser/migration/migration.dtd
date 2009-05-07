@@ -34,7 +34,7 @@
 <!ENTITY importFromHTMLFile.label "من ملف HTML">
 <!ENTITY importFromHTMLFile.accesskey "م">
 
-<!ENTITY noMigrationSources.label "لم يُعثر على أي برامج تحتوي على بيانات علامات، تاريخ، أو كلمات سرّ.">
+<!ENTITY noMigrationSources.label "لم يُعثر على أي برامج تحتوي على بيانات أو علامات أو تأريخ أو كلمات سرّ.">
 
 <!ENTITY importSource.title "استورد الإعدادات و البيانات">
 <!ENTITY importItems.title "العناصر المراد استيرادها">

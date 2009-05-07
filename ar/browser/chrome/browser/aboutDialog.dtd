@@ -5,7 +5,7 @@
 <!ENTITY aboutLink "&lt; عنْ &brandFullName;">
 <!ENTITY aboutLink.accesskey "ع">
 <!ENTITY aboutVersion "الإصدارة">
-<!ENTITY closeCmdGNOME.label "إغلاق">
+<!ENTITY closeCmdGNOME.label "أغلق">
 <!ENTITY closeCmdGNOME.accesskey "ل">
 <!ENTITY copyrightInfo1             "جميع الحقوق محفوظة. المساهمون &#169;1998-2009. (">
 <!ENTITY licenseLink                "about:license">

@@ -58,14 +58,14 @@
 <!ENTITY enableAddonsUpdate.accesskey "ض">
 <!ENTITY enableSearchUpdate.label "محركات البحث">
 <!ENTITY enableSearchUpdate.accesskey "ح">
-<!ENTITY whenUpdatesFound.label "عند وجود تحديثات لـ &brandShortName;:">
-<!ENTITY askMe.label "اسألني ماذا أفعل">
+<!ENTITY whenUpdatesFound.label "عند وجود تحديثات ل&brandShortName;:">
+<!ENTITY askMe.label "اسألني ماذا أريد أفعل">
 <!ENTITY askMe.accesskey "س">
 <!ENTITY modeAutomatic.label "نزِّل وثبِّت التحديث آليا">
 <!ENTITY modeAutomatic.accesskey "ن">
 <!ENTITY modeAutoAddonWarn.label "نبّهني إذا كان هذا سيعطّل أي إضافات">
 <!ENTITY modeAutoAddonWarn.accesskey "ب">
-<!ENTITY updateHistory.label "أظهر تاريخ التحديث">
+<!ENTITY updateHistory.label "أظهر تأريخ التحديث">
 <!ENTITY updateHistory.accesskey "ظ">
 
 <!ENTITY offlineNotify.label "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال.">

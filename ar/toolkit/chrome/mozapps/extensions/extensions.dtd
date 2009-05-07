@@ -126,19 +126,19 @@
 <!ENTITY searchAddons.label "ابحث في كل الإضافات">
 <!ENTITY browseAddons.label "تصفّح كل الإضافات">
 <!ENTITY searchFailed.label "لا يستطيع  &brandShortName; جلب الإضافات">
-<!ENTITY recommendedHeader.label "مُستحسنة">
-<!ENTITY recommendedThrobber.label "يجري جلب الإضافات المُستحسنة بها">
+<!ENTITY recommendedHeader.label "مُزكّاة">
+<!ENTITY recommendedThrobber.label "يجري جلب الإضافات المُزكّاة">
 <!ENTITY searchThrobber.label "البحث في الإضافات">
 <!ENTITY resetSearch.label "امسح النتائج">
 <!ENTITY noSearchResults.label "كل النتائج إما مُثبّتة أو غير متوافقة.">
-<!ENTITY noRecommendedResults.label "كل المُستحسنة إما مُثبّتة أو غير متوافقة.">
+<!ENTITY noRecommendedResults.label "كل المُزكّاة إما مُثبّتة أو غير متوافقة.">
 <!ENTITY emptySearch.label "لا إضافات مُتطابقة">
 <!ENTITY emptySearch.button "موافق">
 <!ENTITY cancelSearch.button "ألغِ">
 <!ENTITY searchFailed.button "موافق">
 <!ENTITY searchResultHomepage.value "تعلّم المزيد">
 <!ENTITY searchBox.label "ابحث في كل الإضافات">
-<!ENTITY recommendedResults.label "طالع كل الإضافات المستحسنة">
+<!ENTITY recommendedResults.label "طالع كل الإضافات المُزكّاة">
 <!ENTITY searchResultConnecting.label "يتّصل…">
 <!ENTITY searchResultInstalling.label "يُثبّت…">
 <!ENTITY searchResultFailed.label "فشل التّثبيت">

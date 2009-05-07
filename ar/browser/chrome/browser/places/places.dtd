@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title "مكتبة">
+<!ENTITY places.library.title "المكتبة">
 <!ENTITY places.library.width "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "نظّم">
@@ -27,7 +27,7 @@
 <!ENTITY view.sortDescending.accesskey "ي">
 <!ENTITY help.usingBookmarks.label "استعمال العلامات">
 <!ENTITY help.usingBookmarks.accesskey "ع">
-<!ENTITY help.usingHistory.label "استعمال التاريخ">
+<!ENTITY help.usingHistory.label "استعمال التأريخ">
 <!ENTITY help.usingHistory.accesskey "ت">
 <!ENTITY help.advancedTips.label "تلميحات وحيل متقدمة">
 <!ENTITY help.advancedTips.accesskey "ح">
@@ -59,7 +59,7 @@
 <!ENTITY cmd.edit_copy.label "انسخ">
 <!ENTITY cmd.edit_copy.accesskey "ن">
 <!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "الصق">
+<!ENTITY cmd.edit_paste.label "ألصق">
 <!ENTITY cmd.edit_paste.accesskey "ل">
 <!ENTITY cmd.edit_paste.key "v">
 <!ENTITY cmd.edit_delete.label "احذف">

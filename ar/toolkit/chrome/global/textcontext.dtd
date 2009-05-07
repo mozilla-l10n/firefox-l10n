@@ -2,7 +2,7 @@
 <!ENTITY cutCmd.accesskey "ق">
 <!ENTITY copyCmd.label "انسخ">
 <!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "الصق">
+<!ENTITY pasteCmd.label "ألصق">
 <!ENTITY pasteCmd.accesskey "ل">
 <!ENTITY undoCmd.label "تراجع">
 <!ENTITY undoCmd.accesskey "ر">

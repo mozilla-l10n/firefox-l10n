@@ -2,7 +2,7 @@
 <!ENTITY window.width "38em">
 <!ENTITY window.macWidth "41em">
 
-<!ENTITY allowPagesToUse.label "اسمح للصفحات باختيار ألوانها الخاصة، عوضا عن اختياراتي بأعلى">
+<!ENTITY allowPagesToUse.label "اسمح للصفحات باختيار ألوانها الخاصة، عوض اختياراتي في الأعلى">
 <!ENTITY allowPagesToUse.accesskey "س">
 
 <!ENTITY color "النّصّ و الخلفيّة">

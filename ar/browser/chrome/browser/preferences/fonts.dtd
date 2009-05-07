@@ -60,7 +60,7 @@
 <!ENTITY useDefaultFontSerif.label "مذيل">
 <!ENTITY useDefaultFontSansSerif.label "غير مذيل">
 
-<!ENTITY allowPagesToUse.label "اسمح للصفحات باستعمال خطوطها الخاصة، عوضا عن اختياراتي بأعلى">
+<!ENTITY allowPagesToUse.label "اسمح للصفحات باستعمال خطوطها الخاصة، عوض اختياراتي في الأعلى">
 <!ENTITY allowPagesToUse.accesskey "س">
 
 <!ENTITY languages.customize.Charset.grouplabel "ترميز المحارف">

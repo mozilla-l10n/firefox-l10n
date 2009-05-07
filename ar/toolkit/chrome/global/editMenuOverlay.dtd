@@ -12,7 +12,7 @@
 <!ENTITY copyCmd.label "انسخ">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "الصق">
+<!ENTITY pasteCmd.label "ألصق">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ل">
 <!ENTITY deleteCmd.label "احذف">

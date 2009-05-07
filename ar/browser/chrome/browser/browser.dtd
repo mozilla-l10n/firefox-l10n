@@ -109,7 +109,7 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 
-<!ENTITY historyButton.label "التاريخ">
+<!ENTITY historyButton.label "التأريخ">
 <!ENTITY historyButton.tooltip "اعرض الصفحات التي شاهدتها مؤخرًا">
 <!ENTITY historySidebarCmd.accesskey "ت">
 <!ENTITY historySidebarCmd.commandKey "h">
@@ -154,7 +154,7 @@
 <!ENTITY copyCmd.label "انسخ">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "الصق">
+<!ENTITY pasteCmd.label "ألصق">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ل">
 <!ENTITY deleteCmd.label "احذف">
@@ -168,7 +168,7 @@
 <!ENTITY preferencesCmdUnix.label "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey "ف">
 
-<!ENTITY clearRecentHistoryCmd.label            "امسح التاريخ الحالي">
+<!ENTITY clearRecentHistoryCmd.label            "امسح التأريخ الحالي">
 <!ENTITY clearRecentHistoryCmd.accesskey        "س">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
@@ -187,20 +187,20 @@
 <!ENTITY viewCustomizeToolbar.label "خصص…">
 <!ENTITY viewCustomizeToolbar.accesskey "ص">
 
-<!ENTITY historyMenu.label "التاريخ">
+<!ENTITY historyMenu.label "التأريخ">
 <!ENTITY historyMenu.accesskey "ت">
 <!ENTITY historyUndoMenu.label "الألسنة المُغلقة حديثًا">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "النوافذ المغلقة حديثًا">
 
 <!ENTITY historyHomeCmd.label "المنزل">
-<!ENTITY showAllHistoryCmd2.label "أظهر كل التاريخ">
+<!ENTITY showAllHistoryCmd2.label "أظهر كل التأريخ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "ابحث في العلامات والتاريخ">
+<!ENTITY urlbar.bookmarkhistory.emptyText "ابحث في العلامات والتأريخ">
 <!ENTITY urlbar.bookmark.emptyText    "ابحث في العلامات">
-<!ENTITY urlbar.history.emptyText     "ابحث في التاريخ">
+<!ENTITY urlbar.history.emptyText     "ابحث في التأريخ">
 <!ENTITY urlbar.none.emptyText        "اكتب عنوان موقع وب">
 <!ENTITY urlbar.accesskey "ح">
 <!-- 
@@ -259,7 +259,7 @@
 <!ENTITY reloadImageCmd.accesskey "ع">
 <!ENTITY viewImageCmd.label "اعرض الصورة">
 <!ENTITY viewImageCmd.accesskey "ص">
-<!ENTITY viewVideoCmd.label "اعرض الفيديو">
+<!ENTITY viewVideoCmd.label "اعرض الفديو">
 <!ENTITY viewVideoCmd.accesskey "ف">
 <!ENTITY viewBGImageCmd.label "اعرض صورة الخلفية">
 <!ENTITY viewBGImageCmd.accesskey "خ">
@@ -288,13 +288,13 @@
 <!ENTITY sendLinkCmd.accesskey "س">
 <!ENTITY saveImageCmd.label "احفظ الصورة ك‍…">
 <!ENTITY saveImageCmd.accesskey "ر">
-<!ENTITY saveVideoCmd.label "احفظ الفيديو ك‍…">
+<!ENTITY saveVideoCmd.label "احفظ الفديو ك‍…">
 <!ENTITY saveVideoCmd.accesskey "و">
 <!ENTITY saveAudioCmd.label "احفظ الصوت ك‍…">
 <!ENTITY saveAudioCmd.accesskey "ت">
 <!ENTITY sendImageCmd.label "أرسِل الصورة…">
 <!ENTITY sendImageCmd.accesskey "ل">
-<!ENTITY sendVideoCmd.label "أرسِل الفيديو…">
+<!ENTITY sendVideoCmd.label "أرسِل الفديو…">
 <!ENTITY sendVideoCmd.accesskey "س">
 <!ENTITY sendAudioCmd.label "أرسِل الصوت">
 <!ENTITY sendAudioCmd.accesskey "ص">
@@ -306,7 +306,7 @@
 <!ENTITY copyImageCmd.accesskey "س">
 <!ENTITY copyImageContentsCmd.label "انسخ الصورة">
 <!ENTITY copyImageContentsCmd.accesskey "خ">
-<!ENTITY copyVideoURLCmd.label "انسخ مكان الفيديو">
+<!ENTITY copyVideoURLCmd.label "انسخ مكان الفديو">
 <!ENTITY copyVideoURLCmd.accesskey "ف">
 <!ENTITY copyAudioURLCmd.label "انسخ مكان الصوت">
 <!ENTITY copyAudioURLCmd.accesskey "و">
@@ -323,9 +323,9 @@
 <!ENTITY mediaPlay.accesskey "ش">
 <!ENTITY mediaPause.label "أوقِف">
 <!ENTITY mediaPause.accesskey "ق">
-<!ENTITY mediaMute.label "أخرِس الصوت">
-<!ENTITY mediaMute.accesskey "خ">
-<!ENTITY mediaUnmute.label "أنطِق الصوت">
+<!ENTITY mediaMute.label "اكتم الصوت">
+<!ENTITY mediaMute.accesskey "ك">
+<!ENTITY mediaUnmute.label "أطلق الصوت">
 <!ENTITY mediaUnmute.accesskey "ط">
 <!ENTITY mediaShowControls.label "أظهر أزرار التحكم">
 <!ENTITY mediaShowControls.accesskey "ز">
@@ -367,7 +367,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY cutButton.tooltip "قصّ">
 <!ENTITY copyButton.tooltip "انسخ">
-<!ENTITY pasteButton.tooltip "الصق">
+<!ENTITY pasteButton.tooltip "ألصق">
 
 <!ENTITY quitApplicationCmdWin.label "اخرج">
 <!ENTITY quitApplicationCmdWin.accesskey "خ">
