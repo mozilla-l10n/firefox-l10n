@@ -79,9 +79,9 @@
 <!ENTITY ScreenName.label               "Tên screen:">
 <!ENTITY ScreenName.accesskey           "s">
 
-<!ENTITY allowRemoteContent.label       "Cho phép hình ảnh từ xa.">
-<!ENTITY allowRemoteContent.accesskey   "x">
-<!ENTITY allowRemoteContent.tooltip     "Trong thư HTML, có thể có nhúng ảnh thuộc các nguồn từ xa. Mở những thư như vậy sẽ mở ra kết nối đến đến nguồn ngoài đó. Điều này có thể cũng sẽ cho phép việc theo dõi nội dung thư đã được đọc hay chưa. Đánh dấu kiểm hộp này sẽ cho phép hiển thị hình ảnh được nhúng trong các thư HTML gửi từ người này.">
+<!ENTITY allowRemoteContent1.label      "Cho phép nội dung từ xa.">
+<!ENTITY allowRemoteContent1.accesskey  "n">
+<!ENTITY allowRemoteContent1.tooltip    "Trong các thư HTML, có thể nhúng nội dung thuộc các nguồn từ xa. Mở một thư như vậy cũng sẽ mở một kết nối đến nguồn bên ngoài này. Điều này có thể cho phép việc theo dõi để biết khi nào thư được đọc. Đánh dấu kiểm hộp này sẽ cho phép các nội dung nhúng bên ngoài trong các thư HTML gửi từ tên liên hệ này.">
 
 <!ENTITY WorkPhone.label                "Công ty:">
 <!ENTITY WorkPhone.accesskey            "y">
