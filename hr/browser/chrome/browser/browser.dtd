@@ -257,7 +257,7 @@
 <!ENTITY viewFrameInfoCmd.label       "Prikaži informacije o okviru">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "Ponovo učitaj sliku">
-<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY reloadImageCmd.accesskey     "u">
 <!ENTITY viewImageCmd.label           "Pogledaj sliku">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewVideoCmd.label           "Pogleda video">
