@@ -75,7 +75,7 @@
 <!ENTITY  mediaDimension        "Dimensiones:">
 <!ENTITY  mediaLongdesc         "Descripción larga:">      
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Guardar como...">
+<!ENTITY  mediaSaveAs           "Guardar como…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Vista previa de medios:">    
@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Usar predeterminados">
+<!ENTITY  permAskAlways         "Preguntar siempre">
 <!ENTITY  permAllow             "Habilitar"> 
 <!ENTITY  permAllowSession      "Habilitar para la sesión">
 <!ENTITY  permBlock             "Bloquear">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Abrir ventanas emergentes">
 <!ENTITY  permCookie            "Establecer Cookies">      
 <!ENTITY  permInstall           "Instalar extensiones o temas">
+<!ENTITY  permGeo               "Compartir ubicación">
 
 <!ENTITY  securityTab           "Seguridad">
 <!ENTITY  securityTab.accesskey "S">
