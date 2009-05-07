@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Tastimmings">
 <!ENTITY  permTab.accesskey     "T">
 <!ENTITY  permUseDefault        "Standert brûke">
+<!ENTITY  permAskAlways         "Altyd freegje">
 <!ENTITY  permAllow             "Tastean">
 <!ENTITY  permAllowSession      "Tastean foar sesje">
 <!ENTITY  permBlock             "Blokkearje">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Popupfinster iepenje">
 <!ENTITY  permCookie            "Cookies ynstelle">
 <!ENTITY  permInstall           "Utwreidings of tema's ynstallearje">
+<!ENTITY  permGeo               "Toan lokaasje">
 
 <!ENTITY  securityTab           "Befeiliging">
 <!ENTITY  securityTab.accesskey "B">
