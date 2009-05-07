@@ -30,7 +30,7 @@
 <!ENTITY rememberActions.pre.label "È possibile ">
 <!ENTITY rememberActions.clearHistory.label "cancellare la cronologia recente">
 <!ENTITY rememberActions.middle.label " o ">
-<!ENTITY rememberActions.removeCookies.label "rimuovere selettivamente dei cookie">
+<!ENTITY rememberActions.removeCookies.label "rimuovere i singoli cookie">
 <!ENTITY rememberActions.post.label ".">
 <!ENTITY dontrememberDescription.label "Verranno utilizzate le stesse impostazioni della navigazione privata: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.">
 <!ENTITY dontrememberActions.pre.label "È inoltre possibile ">

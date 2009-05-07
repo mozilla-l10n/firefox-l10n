@@ -44,8 +44,8 @@
 <!ENTITY addonsHeader.label "Componenti aggiuntivi">
 <!ENTITY addonsLocal.label "Componenti installati">
 <!ENTITY addonsRepo.label "Esplora">
-<!ENTITY addonsRecommended.label "Componenti consigliati">
-<!ENTITY addonsSearch.label "Cerca raccolta">
+<!ENTITY addonsRecommended.label "Consigliati">
+<!ENTITY addonsSearch.label "Cerca">
 <!ENTITY addonsSearch.emptytext "Cerca un componente aggiuntivo">
 <!ENTITY addonOptions.label "Opzioni">
 <!ENTITY addonEnable.label "Attiva">
@@ -54,9 +54,9 @@
 <!ENTITY addonUninstall.label "Disinstalla">
 <!ENTITY addonCancel.label "Annulla">
 <!ENTITY downloadsHeader.label "Download">
-<!ENTITY downloadsSortDate.label "Per data">
-<!ENTITY downloadsSortSite.label "Per sito">
-<!ENTITY downloadsSortName.label "Per nome">
+<!ENTITY downloadsSortDate.label "Data">
+<!ENTITY downloadsSortSite.label "Sito">
+<!ENTITY downloadsSortName.label "Nome">
 <!ENTITY downloadsSearch.label "Cerca">
 <!ENTITY downloadsSearch.emptytext "Cerca un file scaricato">
 <!ENTITY downloadShowPage.label "Vai a pagina">
