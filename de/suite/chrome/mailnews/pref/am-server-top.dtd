@@ -29,7 +29,7 @@
 <!ENTITY leaveOnServer.label "Nachrichten auf dem Server belassen">
 <!ENTITY leaveOnServer.accesskey "N">
 <!ENTITY headersOnly.label "Nur Kopfzeilen holen">
-<!ENTITY headersOnly.accesskey "N">
+<!ENTITY headersOnly.accesskey "K">
 <!ENTITY deleteByAgeFromServer.label "Für maximal">
 <!ENTITY deleteByAgeFromServer.accesskey "F">
 <!ENTITY daysEnd.label "Tage.">
