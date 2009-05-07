@@ -47,6 +47,7 @@
 <!ENTITY  permTab               "Leje">
 <!ENTITY  permTab.accesskey     "L">
 <!ENTITY  permUseDefault        "Përdor Parazgjedhjen">
+<!ENTITY  permAskAlways         "Pyet përherë">
 <!ENTITY  permAllow             "Lejoje">
 <!ENTITY  permAllowSession      "Lejoje për Sesionin">
 <!ENTITY  permBlock             "Bllokoje">
@@ -55,6 +56,18 @@
 <!ENTITY  permPopup             "Hap Dritare Fllucka">
 <!ENTITY  permCookie            "Rregulloni &quot;Cookie&quot;-t">
 <!ENTITY  permInstall           "Instalo Zgjerime ose Tema">
+<!ENTITY  permGeo               "Lejo Tregim Vendi">
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY  securityTab           "Siguri">
 <!ENTITY  securityTab.accesskey "S">
