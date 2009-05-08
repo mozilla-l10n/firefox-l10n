@@ -106,9 +106,9 @@
 
 
 <!ENTITY  securityView.identity.header   "هویت پایگاه وبی">
-<!ENTITY  securityView.identity.owner    "صاحب: ">
-<!ENTITY  securityView.identity.domain   "پایگاه وبی: ">
-<!ENTITY  securityView.identity.verifier "تأیید شده توسط: ">
+<!ENTITY  securityView.identity.owner    "صاحب:">
+<!ENTITY  securityView.identity.domain   "پایگاه وبی:">
+<!ENTITY  securityView.identity.verifier "تأیید شده توسط:">
 
 <!ENTITY  securityView.privacy.header                   "تاریخچه و موارد خصوصی">
 <!ENTITY  securityView.privacy.history                  "آیا قبل از امروز از این وب‌گاه بازدید کرده‌ام؟">
