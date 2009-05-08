@@ -677,8 +677,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "Kvůli ochraně vašeho soukromí byly zablokovány vzdálené obrázky.">
-<!ENTITY loadRemoteContentButton2.label "Zobrazit obrázky">
+<!ENTITY remoteContentMessage2.label "Kvůli ochraně vašeho soukromí byl ve zprávě zablokován vzdálený obsah.">
+<!ENTITY loadRemoteContentButton3.label "Zobrazit vzdálený obsah">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Tato zpráva může být podvodný e-mail.">
