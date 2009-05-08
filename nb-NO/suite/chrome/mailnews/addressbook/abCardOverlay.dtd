@@ -79,13 +79,13 @@
 <!ENTITY ScreenName.label               "Skjermnavn:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "Tillat bilder fra eksterne kilder.">
-<!ENTITY allowRemoteContent.accesskey   "T">
-<!ENTITY allowRemoteContent.tooltip     "I HTML-meldinger er det mulig å
-legge ved bilder fra eksterne kilder. Ved åpning av meldinger vil tilkoblinger
+<!ENTITY allowRemoteContent1.label      "Tillat innhold fra eksterne kilder.">
+<!ENTITY allowRemoteContent1.accesskey  "T">
+<!ENTITY allowRemoteContent1.tooltip    "I HTML-meldinger er det mulig å
+legge ved innhold fra eksterne kilder. Ved åpning av meldinger vil tilkoblinger
 til den eksterne kilden åpnes. Dette kan gjøre det mulig å spore
-at meldingen blir lest. Ved å krysse av her, tillater du slike innbundne
-bilder i HTML-meldinger fra denne kontakten.">
+at meldingen blir lest. Ved å krysse av her, tillater du slikt innbundet
+innhold i HTML-meldinger fra denne kontakten.">
 
 <!ENTITY WorkPhone.label                "Arbeid:">
 <!ENTITY WorkPhone.accesskey            "A">
@@ -100,19 +100,19 @@ bilder i HTML-meldinger fra denne kontakten.">
 
 <!ENTITY Home.tab                       "Privat">
 <!ENTITY Home.accesskey                 "P">
-<!ENTITY HomeAddress.label              "Adresse:"> 
+<!ENTITY HomeAddress.label              "Adresse:">
 <!ENTITY HomeAddress.accesskey          "d">
-<!ENTITY HomeAddress2.label             ""> 
+<!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "Poststed:"> 
+<!ENTITY HomeCity.label                 "Poststed:">
 <!ENTITY HomeCity.accesskey             "o">
-<!ENTITY HomeState.label                "Delstat/region:"> 
+<!ENTITY HomeState.label                "Delstat/region:">
 <!ENTITY HomeState.accesskey            "e">
-<!ENTITY HomeZipCode.label              "Postnummer:"> 
+<!ENTITY HomeZipCode.label              "Postnummer:">
 <!ENTITY HomeZipCode.accesskey          "s">
 <!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
-<!ENTITY HomeWebPage.label              "Nettside:"> 
+<!ENTITY HomeWebPage.label              "Nettside:">
 <!ENTITY HomeWebPage.accesskey          "N">
 <!ENTITY Birthday.label                 "Bursdag:">
 <!ENTITY Birthday.accesskey             "B">
@@ -124,25 +124,25 @@ bilder i HTML-meldinger fra denne kontakten.">
 
 <!ENTITY Work.tab                       "Arbeid">
 <!ENTITY Work.accesskey                 "A">
-<!ENTITY JobTitle.label                 "Tittel:"> 
+<!ENTITY JobTitle.label                 "Tittel:">
 <!ENTITY JobTitle.accesskey             "T">
-<!ENTITY Department.label               "Avdeling:"> 
+<!ENTITY Department.label               "Avdeling:">
 <!ENTITY Department.accesskey           "A">
-<!ENTITY Company.label                  "Organisasjon:"> 
+<!ENTITY Company.label                  "Organisasjon:">
 <!ENTITY Company.accesskey              "O">
-<!ENTITY WorkAddress.label              "Adresse:"> 
+<!ENTITY WorkAddress.label              "Adresse:">
 <!ENTITY WorkAddress.accesskey          "d">
-<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "Poststed:"> 
+<!ENTITY WorkCity.label                 "Poststed:">
 <!ENTITY WorkCity.accesskey             "t">
-<!ENTITY WorkState.label                "Delstat/region:"> 
+<!ENTITY WorkState.label                "Delstat/region:">
 <!ENTITY WorkState.accesskey            "s">
-<!ENTITY WorkZipCode.label              "Postnummer:"> 
+<!ENTITY WorkZipCode.label              "Postnummer:">
 <!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label              "Land:">
 <!ENTITY WorkCountry.accesskey          "L">
-<!ENTITY WorkWebPage.label              "Nettside:"> 
+<!ENTITY WorkWebPage.label              "Nettside:">
 <!ENTITY WorkWebPage.accesskey          "N">
 
 <!ENTITY Other.tab                      "Annet">
