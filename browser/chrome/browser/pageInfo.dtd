@@ -3,13 +3,13 @@
 <!ENTITY pageInfoWindow.height "610">
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Копировать">
-<!ENTITY copy.accesskey "К">
+<!ENTITY copy.accesskey "п">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Выделить всё">
-<!ENTITY selectall.accesskey "в">
+<!ENTITY selectall.accesskey "д">
 <!ENTITY closeWindow.key "w">
 <!ENTITY generalTab "Основная">
-<!ENTITY generalTab.accesskey "О">
+<!ENTITY generalTab.accesskey "н">
 <!ENTITY generalURL "Адрес:">
 <!ENTITY generalType "Тип:">
 <!ENTITY generalMode "Тип визуализации:">
@@ -21,9 +21,9 @@
 <!ENTITY generalMetaName "Имя">
 <!ENTITY generalMetaContent "Содержимое">
 <!ENTITY generalSecurityDetails "Подробнее">
-<!ENTITY generalSecurityDetails.accesskey "д">
+<!ENTITY generalSecurityDetails.accesskey "о">
 <!ENTITY mediaTab "Мультимедиа">
-<!ENTITY mediaTab.accesskey "М">
+<!ENTITY mediaTab.accesskey "л">
 <!ENTITY mediaLocation "Адрес:">
 <!ENTITY mediaText "Связанный текст:">
 <!ENTITY mediaAltHeader "Альтернативный текст">
@@ -54,7 +54,7 @@
 <!ENTITY permPopup "Открывать всплывающие окна">
 <!ENTITY permCookie "Устанавливать куки">
 <!ENTITY permInstall "Устанавливать расширения или темы">
-<!ENTITY permGeo "Сообщать местоположение">
+<!ENTITY permGeo "Узнавать местоположение">
 <!ENTITY securityTab "Защита">
 <!ENTITY securityTab.accesskey "щ">
 <!ENTITY securityHeader "Информация о защите этой страницы">
@@ -69,8 +69,8 @@
 <!ENTITY securityView.privacy.history "Посещал ли я этот веб-сайт ранее?">
 <!ENTITY securityView.privacy.cookies "Хранит ли этот сайт информацию (куки) на моём компьютере?">
 <!ENTITY securityView.privacy.viewCookies "Просмотреть куки">
-<!ENTITY securityView.privacy.viewCookies.accessKey "с">
+<!ENTITY securityView.privacy.viewCookies.accessKey "м">
 <!ENTITY securityView.privacy.passwords "Сохранял ли я для этого веб-сайта какие-либо пароли?">
 <!ENTITY securityView.privacy.viewPasswords "Просмотреть сохранённые пароли">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "с">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "о">
 <!ENTITY securityView.technical.header "Технические детали">
