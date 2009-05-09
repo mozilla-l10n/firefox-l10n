@@ -49,6 +49,35 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "Add-ons">
+<!ENTITY addonsLocal.label         "Uw Add-ons">
+<!ENTITY addonsRepo.label          "Add-ons verkrijgen">
+<!ENTITY addonsRecommended.label   "Aanbevolen">
+<!ENTITY addonsSearch.label        "Zoeken">
+<!ENTITY addonsSearch.emptytext    "Alle add-ons doorzoeken">
+
+<!ENTITY addonOptions.label        "Opties">
+<!ENTITY addonEnable.label         "Inschakelen">
+<!ENTITY addonDisable.label        "Uitschakelen">
+<!ENTITY addonInstall.label        "Installeren">
+<!ENTITY addonUninstall.label      "De-installeren">
+<!ENTITY addonCancel.label         "Annuleren">
+
+<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadsSortDate.label   "Datum">
+<!ENTITY downloadsSortSite.label   "Website">
+<!ENTITY downloadsSortName.label   "Naam">
+<!ENTITY downloadsSearch.label     "Zoeken">
+<!ENTITY downloadsSearch.emptytext "Gedownloade bestanden doorzoeken">
+
+<!ENTITY downloadShowPage.label    "Naar pagina gaan">
+<!ENTITY downloadShow.label        "Bestand vinden">
+<!ENTITY downloadOpen.label        "Bestand openen">
+<!ENTITY downloadCancel.label      "Annuleren">
+<!ENTITY downloadPause.label       "Pauzeren">
+<!ENTITY downloadResume.label      "Hervatten">
+<!ENTITY downloadRetry.label       "Opnieuw proberen">
+
 <!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
 <!ENTITY identity.connectedTo "U bent verbonden met">
 <!-- Localization note (identity.runBy) : This string appears between a
