@@ -15,13 +15,13 @@
 <!ENTITY filtersForPrefix.label "Filtre for:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogg">
-<!ENTITY viewLogButton.accesskey "l">
+<!ENTITY viewLogButton.accesskey "e">
 <!ENTITY runFilters.label "Kjør nå">
 <!ENTITY runFilters.accesskey "K">
 <!ENTITY stopFilters.label "Stopp">
 <!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Utfør merket meldingsfilter på:">
-<!ENTITY folderPickerPrefix.accesskey "U">
+<!ENTITY folderPickerPrefix.label "Kjør valgte filter på:">
+<!ENTITY folderPickerPrefix.accesskey "v">
 <!ENTITY choosethis.label "velg denne mappen">
 <!ENTITY choosethisnewsserver.label "velg denne nyhetsgruppetjeneren">
 <!ENTITY helpButton.label "Hjelp">

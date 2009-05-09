@@ -62,10 +62,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "&brandShortName; E-post importveiviser">
 <!ENTITY importShortDesc.label    "Importerer e-post, adressebøker, innstillinger og filtre fra andre programmer">
 
-<!ENTITY importDescription1.label "Denne veiviseren hjelper deg å importere e-post, adressebøker, filtre og/eller innstillinger fra andre e-postprogrammer for bruk i e-postdelen av &brandShortName;.">
-<!ENTITY importDescription2.label "Når de er importert vil du kunne bruke dem i &brandShortName; E-post og nyhetsgrupper og/eller adressebok.">
+<!ENTITY importDescription1.label "Denne veiviseren hjelper deg å importere e-post, adressebøker, innstillinger og/eller filtre fra andre e-postprogrammer og vanlige adressebokformater inn i &brandShortName;.">
+<!ENTITY importDescription2.label "Når de er importert vil du kunne bruke dem i &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Velg programmet du vil importere fra:">
+<!ENTITY selectDescription.label  "Velg filtypen som du ønsker å importere:">
 <!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label               "&lt; Tilbake">
@@ -78,9 +78,9 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY title.label              "Tittel">
 <!ENTITY processing.label         "Importerer …">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har en postadresse for hvert kontakt, mens &brandShortName; har to (hjem og adresse)">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har en postadresse for hver kontakt, mens &brandShortName; har to (hjem og adresse)">
 <!ENTITY FieldDiscInputText2.label  "Velg kategorien som du vil lagre de importerte e-postadressene i:">
-<!ENTITY FieldDiscWarning.label  "Denne kategorien vil bli brukt for alle elementene i den valgte adresseboka:">
+<!ENTITY FieldDiscWarning.label  "Denne kategorien vil bli brukt for alle elementene i den valgte adresseboken: ">
 <!ENTITY importHome.label        "Hjem">
 <!ENTITY importHome.accesskey    "H">
 <!ENTITY importWork.label        "Arbeid">
