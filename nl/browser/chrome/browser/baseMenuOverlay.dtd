@@ -26,13 +26,13 @@
 <!ENTITY openHelpMac.frontendCommandkey   "?">
 <!ENTITY openHelpMac.frontendModifiers    "accel">
 
-<!ENTITY helpReleaseNotes.accesskey     "U">
 <!ENTITY helpReleaseNotes.label         "Uitgaveopmerkingen">
-<!ENTITY updateCmd.accesskey            "o">
+<!ENTITY helpReleaseNotes.accesskey     "U">
 <!ENTITY updateCmd.label                "Controleren op updates…">
+<!ENTITY updateCmd.accesskey            "o">
 
 <!ENTITY preferencesCmdMac.label        "Voorkeuren…">
-<!ENTITY preferencesCmdMac.commandkey   "accel+,">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Voorzieningen">
@@ -42,7 +42,7 @@
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Verberg andere">
-<!ENTITY hideOtherAppsCmdMac.commandkey "accel+alt+H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Toon alles">
