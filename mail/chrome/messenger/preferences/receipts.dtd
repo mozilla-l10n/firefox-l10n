@@ -1,6 +1,6 @@
 <!ENTITY dialog.title                  "Kvitteringer">
-<!ENTITY requestReceipt.label          "Spør alltid om kvittering ved sending av e-post">
-<!ENTITY requestReceipt.accesskey      "S">
+<!ENTITY requestReceipt.label          "Be alltid om kvittering fra mottaker ved sending av e-post">
+<!ENTITY requestReceipt.accesskey      "B">
 <!ENTITY receiptArrive.label           "Når en kvittering mottas:">
 <!ENTITY leaveIt.label                 "La den ligge i innboksen">
 <!ENTITY leaveIt.accesskey             "L">
