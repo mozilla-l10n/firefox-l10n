@@ -52,9 +52,9 @@
 <!ENTITY addonsHeader.label        "Tiện ích">
 <!ENTITY addonsLocal.label         "Tiện ích của Bạn">
 <!ENTITY addonsRepo.label          "Lấy thêm Tiện ích">
-<!ENTITY addonsRecommended.label   "Xem 'Khuyên dùng'">
-<!ENTITY addonsSearch.label        "Tìm trong Danh mục">
-<!ENTITY addonsSearch.emptytext    "Tìm kiếm tiện ích">
+<!ENTITY addonsRecommended.label   "Khuyên dùng">
+<!ENTITY addonsSearch.label        "Tìm kiếm">
+<!ENTITY addonsSearch.emptytext    "Tìm tất cả các tiện ích">
 
 <!ENTITY addonOptions.label        "Tùy chọn">
 <!ENTITY addonEnable.label         "Kích hoạt">
@@ -64,9 +64,9 @@
 <!ENTITY addonCancel.label         "Hủy bỏ">
 
 <!ENTITY downloadsHeader.label     "Tải xuống">
-<!ENTITY downloadsSortDate.label   "Theo Ngày tháng">
-<!ENTITY downloadsSortSite.label   "Theo Trang">
-<!ENTITY downloadsSortName.label   "Theo Tên">
+<!ENTITY downloadsSortDate.label   "Ngày">
+<!ENTITY downloadsSortSite.label   "Trang">
+<!ENTITY downloadsSortName.label   "Tên">
 <!ENTITY downloadsSearch.label     "Tìm kiếm">
 <!ENTITY downloadsSearch.emptytext "Tìm kiếm tập tin đã tải xuống">
 
