@@ -34,7 +34,7 @@
 <!ENTITY itemDownloadHistory.accesskey "d">
 <!ENTITY itemActiveLogins.label "Login attivi">
 <!ENTITY itemActiveLogins.accesskey "L">
-<!ENTITY itemSitePreferences.label "Preferenze siti">
+<!ENTITY itemSitePreferences.label "Preferenze dei siti web">
 <!ENTITY itemSitePreferences.accesskey "P">
 <!ENTITY sanitizeEverythingUndoWarning "Questa azione non può essere annullata.">
 <!ENTITY dialog.width "33em">
