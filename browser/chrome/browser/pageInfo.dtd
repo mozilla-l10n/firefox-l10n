@@ -89,6 +89,7 @@
 <!ENTITY  permTab               "Rättigheter">
 <!ENTITY  permTab.accesskey     "t">
 <!ENTITY  permUseDefault        "Använd standard">
+<!ENTITY  permAskAlways         "Fråga alltid">
 <!ENTITY  permAllow             "Tillåt">
 <!ENTITY  permAllowSession      "Tillåt för sessionen">
 <!ENTITY  permBlock             "Blockera">
@@ -97,6 +98,7 @@
 <!ENTITY  permPopup             "Öppna popup-fönster">
 <!ENTITY  permCookie            "Sätta kakor">
 <!ENTITY  permInstall           "Installera tillägg eller teman">
+<!ENTITY  permGeo               "Uppge position">
 
 <!ENTITY  securityTab           "Säkerhet">
 <!ENTITY  securityTab.accesskey "ä">
@@ -107,9 +109,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Webbplatsens identitet">
-<!ENTITY  securityView.identity.owner    "Ägare: ">
-<!ENTITY  securityView.identity.domain   "Webbplats: ">
-<!ENTITY  securityView.identity.verifier "Verifierad av: ">
+<!ENTITY  securityView.identity.owner    "Ägare:">
+<!ENTITY  securityView.identity.domain   "Webbplats:">
+<!ENTITY  securityView.identity.verifier "Verifierad av:">
 
 <!ENTITY  securityView.privacy.header                   "Sekretess &amp; historik">
 <!ENTITY  securityView.privacy.history                  "Har jag besökt den här webbplatsen tidigare dagar?">
