@@ -1,8 +1,8 @@
-<!ENTITY attachmentReminderDialog.title   "Schlüsselwörter der Anhang-Erinnerung">
-<!ENTITY attachKeywordText.label          "&brandShortName; wird auf fehlende Anhänge hinweisen, wenn Sie eine Nachricht senden möchten, die eines der folgenden Schlüsselwörter enthält.">
-<!ENTITY addKeywordButton.label           "Hinzufügen">
+<!ENTITY attachmentReminderDialog.title   "SchlÃ¼sselwÃ¶rter der Anhang-Erinnerung">
+<!ENTITY attachKeywordText.label          "&brandShortName; wird auf fehlende AnhÃ¤nge hinweisen, wenn Sie eine Nachricht senden mÃ¶chten, die eines der folgenden SchlÃ¼sselwÃ¶rter enthÃ¤lt.">
+<!ENTITY addKeywordButton.label           "HinzufÃ¼gen">
 <!ENTITY addKeywordButton.accesskey       "H">
 <!ENTITY editKeywordButton.label          "Bearbeiten">
 <!ENTITY editKeywordButton.accesskey      "B">
-<!ENTITY removeKeywordButton.label        "Löschen">
+<!ENTITY removeKeywordButton.label        "LÃ¶schen">
 <!ENTITY removeKeywordButton.accesskey    "L">
