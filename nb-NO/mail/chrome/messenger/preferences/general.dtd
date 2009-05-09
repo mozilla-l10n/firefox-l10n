@@ -1,10 +1,10 @@
-<!ENTITY messengerStartPage.label         "&brandShortName; startside">
-<!ENTITY enableStartPage.label            "Når &brandShortName; starter, vis startsiden i meldingsområdet">
+<!ENTITY messengerStartPage.label         "&brandShortName;-startside">
+<!ENTITY enableStartPage.label            "Vis startsiden i meldingsområdet når &brandShortName; starter">
 <!ENTITY enableStartPage.accesskey        "N">
 <!ENTITY location.label                   "Adresse:">
 <!ENTITY location1.accesskey               "A">
-<!ENTITY useDefault.label                 "Gjenopprett forvalg">
-<!ENTITY useDefault.accesskey             "G">
+<!ENTITY useDefault.label                 "Bruk standard">
+<!ENTITY useDefault.accesskey             "u">
 
 <!ENTITY bounceSystemDockIcon.label       "Animer startmeny-ikonet (docking-ikonet)">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
@@ -15,7 +15,7 @@
 <!ENTITY showAnimatedAlert.label          "Vis en beskjed">
 <!ENTITY showAnimatedAlert.accesskey      "V">
 <!ENTITY customizeMailAlert.label         "Avansert …">
-<!ENTITY customizeMailAlert.accesskey     "A">
+<!ENTITY customizeMailAlert.accesskey     "e">
 
 <!ENTITY play.label                       "Spill av">
 <!ENTITY play.accesskey                   "p">
@@ -32,4 +32,4 @@
 <!ENTITY manageAddonsDescWin.label        "Forandre innstillinger for utvidelsene dine">
 <!ENTITY manageAddonsDescUnix2.label      "Forandre innstillinger for utvidelsene dine">
 <!ENTITY manageAddons.label               "Behandle utvidelser …">
-<!ENTITY manageAddons.accesskey           "B">
+<!ENTITY manageAddons.accesskey           "d">

@@ -11,7 +11,7 @@
 <!ENTITY  manualTypeRadio.label         "Manuelle mellomtjener-innstillinger:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Automatisk konfigurasjonsadresse:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  autoTypeRadio.accesskey       "u">
 <!ENTITY  reload.label                  "Oppdater">
 <!ENTITY  reload.accesskey              "O">
 <!ENTITY  http.label                    "HTTP:">

@@ -38,7 +38,7 @@
 <!ENTITY secondsLabel.label            "sekunder">
 <!ENTITY openMsgIn.label               "Åpne meldinger i:">
 <!ENTITY reuseExpRadio0.label          "Et nytt vindu">
-<!ENTITY reuseExpRadio0.accesskey      "y">
+<!ENTITY reuseExpRadio0.accesskey      "d">
 <!ENTITY reuseExpRadio1.label          "Et eksisterende meldingsvindu">
 <!ENTITY reuseExpRadio1.accesskey      "e">
 
@@ -50,7 +50,7 @@
 <!ENTITY enableAddonsUpdate.accesskey   "M">
 <!ENTITY whenUpdatesFound.label         "Når oppdateringer til &brandShortName; blir funnet,">
 <!ENTITY modeAskMe.label                "Spør meg hva som skal gjøres">
-<!ENTITY modeAskMe.accesskey            "p">
+<!ENTITY modeAskMe.accesskey            "r">
 <!ENTITY modeAutomatic.label            "Automatisk last ned og installer oppdateringen">
 <!ENTITY modeAutomatic.accesskey        "A">
 <!ENTITY modeAutoAddonWarn.label        "Advar meg hvis dette vil slå av utvidelser eller temaer">
@@ -91,6 +91,6 @@
 <!ENTITY viewCRLs.label                 "Tilbakekalling">
 <!ENTITY viewCRLs.accesskey             "T">
 <!ENTITY validation.label               "Validering">
-<!ENTITY validation.accesskey           "V">
+<!ENTITY validation.accesskey           "a">
 <!ENTITY viewSecurityDevices.label      "Sikkerhetsenheter">
 <!ENTITY viewSecurityDevices.accesskey  "S">
