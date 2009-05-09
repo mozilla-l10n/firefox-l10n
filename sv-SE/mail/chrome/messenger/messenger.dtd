@@ -234,6 +234,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "b">
 <!ENTITY ignoredThreadsCmd.label "Ignorerade trådar">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "Rubriker">
 <!ENTITY headersMenu.accesskey "R">
 <!ENTITY headersAllCmd.label "Alla">
@@ -248,6 +249,16 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Vanlig text">
 <!ENTITY bodyAsPlaintext.accesskey "V">
+
+<!ENTITY bodyMenuFeed.label "Flödesmeddelandetext som">
+<!ENTITY bodyMenuFeed.accesskey "F">
+<!ENTITY viewFeedWebPage.label "Webbsida">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Sammanfattning">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standardformat">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Visa bilagor i meddelandet">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "b">
 
@@ -334,6 +345,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "ä">
 <!ENTITY startPageCmd.label "Meddelandestartsidan">
 <!ENTITY startPageCmd.accesskey "S">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Meddelande">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Nytt meddelande">
@@ -431,6 +444,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Öppna meddelande">
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Öppna flödets meddelande som">
+<!ENTITY openFeedMessage.accesskey "Ö">
+<!ENTITY openFeedWebPageInWindow.label "Webbsida i nytt fönster">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Sammanfattning i nytt fönster">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Växla webbsida och sammanfattning i meddelandepanelen">
+<!ENTITY openFeedWebPageInMP.accesskey "V">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Fönster">
