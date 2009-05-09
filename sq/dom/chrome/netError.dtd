@@ -3,7 +3,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Nuk u Lidha Dot">
+<!ENTITY connectionFailure.title "Nuk u Lidh Dot">
 <!ENTITY connectionFailure.longDesc "<p>Edhe pse &quot;site&quot;-i duket të jetë i vlefshëm, shfletuesi s&apos;qe në gjendje të vendoste një lidhje.</p><ul><li>Mundet që &quot;site&quot;-i të jetë përkohësisht jashtë loje? Riprovoni më vonë.</li><li>E keni të pamundur të shfletoni faqe të tjera?  Kontrolloni lidhjen e rrjetit për kompjuterin.</li><li>Është kompjuteri apo rrjeti juaj i mbrojtur nga ndonjë &quot;firewall&quot; apo ndërmjetës? Rregullimet e pasakta mund të ndërhyjnë te shfletimi Web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Portë e Kufizuar për Arsye Sigurie">
@@ -30,7 +30,7 @@
 <!ENTITY contentEncodingError.title "Gabim Kodimi i Përmbajtjes">
 <!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li></ul>">
 
-<!ENTITY netReset.title "Lidhje e ndërprerë">
+<!ENTITY netReset.title "Lidhje e Ndërprerë">
 <!ENTITY netReset.longDesc "<p>Lidhja te rrjeti u ndërpre ndërkohë që bëheshin përpjekje për lidhje. Ju lutem riprovoni.</p>">
 
 <!ENTITY netTimeout.title "Mbarim Kohe për Rrjetin">
@@ -54,7 +54,7 @@
 
 
 
-<!ENTITY malwareBlocked.title "&quot;Site&quot; i Dyshyar për Sulme!">
+<!ENTITY malwareBlocked.title "&quot;Site&quot; i Dyshuar për Sulme!">
 <!ENTITY malwareBlocked.longDesc "
 <p>&quot;Site&quot;-et e sulmeve përpiqen të instalojnë programe që përvetësojnë të dhëna vetjake, përdorin kompjuterin tuaj të sulmojnë të tjerët, ose dëmtojnë sistemin tuaj.</p>
 <p>Pronarë &quot;site&quot;-esh Web që besojnë se &quot;site&quot;-i i tyre është raportuar gabimisht si &quot;site&quot; sulmesh mund <a href='http://www.stopbadware.org/home/reviewinfo' >të kërkojnë shqyrtim të tij</a>.</p>
@@ -82,5 +82,9 @@
   <li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
+
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
