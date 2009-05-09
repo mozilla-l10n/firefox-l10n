@@ -82,13 +82,13 @@
 <!ENTITY ScreenName.label               "Skärmnamn:">
 <!ENTITY ScreenName.accesskey           "n">
 
-<!ENTITY allowRemoteContent.label       "Tillåt fjärrbilder.">
-<!ENTITY allowRemoteContent.accesskey   "å">
-<!ENTITY allowRemoteContent.tooltip     "I HTML-meddelanden är det möjligt att
-lägga in bilder från andra källor. Om du öppnar ett sådant meddelande kommer
+<!ENTITY allowRemoteContent1.label      "Tillåt fjärrinnehåll.">
+<!ENTITY allowRemoteContent1.accesskey  "å">
+<!ENTITY allowRemoteContent1.tooltip    "I HTML-meddelanden är det möjligt att
+lägga in innehåll från andra källor. Om du öppnar ett sådant meddelande kommer
 en anslutning till den externa källan att öppnas. Det gör det möjligt för andra
 att spåra meddelandet du läser. Kryssar du i den här rutan tillåter du
-sådana externa inbäddade bilder i HTML-meddelanden från den här kontakten.">
+sådant externt inbäddat innehåll i HTML-meddelanden från den här kontakten.">
 
 <!ENTITY WorkPhone.label                "Arbete:">
 <!ENTITY WorkPhone.accesskey            "b">
