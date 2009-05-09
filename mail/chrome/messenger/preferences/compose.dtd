@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "Verhalten beim Senden von HTML-Nachrichten:">
 <!ENTITY sendOptions.label                     "Sende-Optionen…">
 <!ENTITY sendOptions.accesskey                 "O">
+
+<!ENTITY attachmentReminder.label              "Auf fehlende Anhänge prüfen">
+<!ENTITY attachmentReminder.accesskey          "u">
+<!ENTITY attachmentReminderOptions.label       "Schlüsselwörter…">
+<!ENTITY attachmentReminderOptions.accesskey   "S">
