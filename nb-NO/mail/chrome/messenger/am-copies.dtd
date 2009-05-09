@@ -7,7 +7,7 @@
 <!ENTITY fccReplyFollowsParent.label "Legg svar i samme mappe som meldingen som blir besvart">
 <!ENTITY fccReplyFollowsParent.accesskey "v">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Send blind kopi (BCC) til disse e-postadressene">
+<!ENTITY bccAddress.label "Send BCC til disse e-postadressene:">
 <!ENTITY bccAddress.accesskey "b">
 <!ENTITY saveMessageDlg.label "Vis bekreftelsesdialog når meldinger lagres">
 <!ENTITY saveMessageDlg.accesskey "V">

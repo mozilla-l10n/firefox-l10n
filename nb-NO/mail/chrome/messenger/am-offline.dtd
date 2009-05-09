@@ -5,8 +5,8 @@
 <!ENTITY offlineNotDownload.label "Meldinger større enn">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "dager gammel">
-<!ENTITY message.label "meldinger">
+<!ENTITY daysOld.label "dager gammle">
+<!ENTITY message.label "meldingene">
 <!ENTITY nntpNotDownloadRead.label "Leste meldinger">
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Meldinger mer enn">

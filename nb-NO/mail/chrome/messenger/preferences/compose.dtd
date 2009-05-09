@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "Konfigurer oppførselen til tekstformatet">
 <!ENTITY sendOptions.label                     "Sendeinnstillinger …">
 <!ENTITY sendOptions.accesskey                 "n">
+
+<!ENTITY attachmentReminder.label              "Kontroller for manglende vedlegg">
+<!ENTITY attachmentReminder.accesskey          "o">
+<!ENTITY attachmentReminderOptions.label       "Nøkkelord …">
+<!ENTITY attachmentReminderOptions.accesskey   "N">
