@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Toestemmingen">
 <!ENTITY  permTab.accesskey     "T">
 <!ENTITY  permUseDefault        "Standaard gebruiken">
+<!ENTITY  permAskAlways         "Atijd vragen">
 <!ENTITY  permAllow             "Toestaan">
 <!ENTITY  permAllowSession      "Toestaan voor sessie">
 <!ENTITY  permBlock             "Blokkeren">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Pop-upvensters openen">
 <!ENTITY  permCookie            "Cookies instellen">
 <!ENTITY  permInstall           "Extensies of thema’s installeren">
+<!ENTITY  permGeo               "Locatie doorgeven">
 
 <!ENTITY  securityTab           "Beveiliging">
 <!ENTITY  securityTab.accesskey "B">
