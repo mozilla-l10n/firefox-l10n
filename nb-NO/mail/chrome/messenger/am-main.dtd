@@ -16,7 +16,7 @@
 <!ENTITY signatureText.label "Signaturtekst:">
 <!ENTITY signatureText.accesskey "S">
 <!ENTITY signatureHtml.label "Bruk HTML (f.eks., &lt;b&gt;bold&lt;/b&gt;)">
-<!ENTITY signatureHtml.accesskey "B">
+<!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Legg ved signaturen fra en fil isteden (tekst, HTML eller bilde):">
 <!ENTITY signatureFile.accesskey "L">
 <!ENTITY edit.label "Rediger …">

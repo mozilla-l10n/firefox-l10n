@@ -432,8 +432,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Utvidelser">
 <!ENTITY addons.accesskey "U">
-<!ENTITY activitymanager.label "Aktivitetsbehandling">
-<!ENTITY activitymanager.accesskey "A">
+<!ENTITY activitymanager.label "Aktivitet">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY filtersCmd.label "Meldingsfiltre …">
 <!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Utfør filtre på mappe">

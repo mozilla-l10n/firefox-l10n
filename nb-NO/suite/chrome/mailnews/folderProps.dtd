@@ -49,7 +49,7 @@
 <!ENTITY folderRebuildSummaryFile.accesskey      "o">
 <!ENTITY folderRebuildSummaryFileTip.label       "Bygg opp oppsummeringsfil på nytt">
 
-<!ENTITY retention.label "Bevaring av meldinger">
+<!ENTITY retention.label "Automatisk sletting">
 <!ENTITY retentionUseDefault.label "Bruk tjenerens forvalg">
 <!ENTITY retentionUseDefault.accesskey "B">
 <!ENTITY daysOld.label "dager gammel">
