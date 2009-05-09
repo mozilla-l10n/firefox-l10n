@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Quyền hạn">
 <!ENTITY  permTab.accesskey     "Q">
 <!ENTITY  permUseDefault        "Dùng Mặc Định">
+<!ENTITY  permAskAlways         "Luôn hỏi">
 <!ENTITY  permAllow             "Cho phép">
 <!ENTITY  permAllowSession      "Cho phép theo Phiên">
 <!ENTITY  permBlock             "Chặn">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Mở Cửa Sổ Pop-up">
 <!ENTITY  permCookie            "Đặt Cookie">
 <!ENTITY  permInstall           "Cài đặt Phần mở rộng hoặc Giao diện">
+<!ENTITY  permGeo               "Chia sẻ Vị trí">
 
 <!ENTITY  securityTab           "Bảo mật">
 <!ENTITY  securityTab.accesskey "B">
