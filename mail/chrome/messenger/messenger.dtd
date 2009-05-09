@@ -124,11 +124,11 @@
 <!ENTITY messagePaneLayoutStyle.accesskey "F">
 <!ENTITY messagePaneClassic.label "Klassische Ansicht">
 <!ENTITY messagePaneClassic.accesskey "K">
-<!ENTITY messagePaneWide.label "Breite Nachrichtenvorschau">
+<!ENTITY messagePaneWide.label "Breiter Nachrichtenbereich">
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "3-Spalten-Ansicht">
 <!ENTITY messagePaneVertical.accesskey "S">
-<!ENTITY showMessageCmd.label "Nachrichtenvorschau">
+<!ENTITY showMessageCmd.label "Nachrichtenbereich">
 <!ENTITY showMessageCmd.accesskey "c">
 
 <!ENTITY folderView.label "Ordner">
@@ -416,7 +416,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
 <!ENTITY openFeedSummaryInWindow.label "Zusammenfassung in neuem Fenster">
 <!ENTITY openFeedSummaryInWindow.accesskey "Z">
-<!ENTITY openFeedWebPageInMP.label "Umschalten Webseite/Zusammenfassung in Vorschau">
+<!ENTITY openFeedWebPageInMP.label "Umschalten Webseite/Zusammenfassung im Nachrichtenbereich">
 <!ENTITY openFeedWebPageInMP.accesskey "U">
 
 <!-- Windows Menu -->
