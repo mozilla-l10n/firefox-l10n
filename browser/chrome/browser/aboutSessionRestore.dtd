@@ -9,7 +9,7 @@
 <!ENTITY restorepage.startNew       "Een geheel nieuwe sessie te starten">
 
 <!ENTITY restorepage.tryagainButton "Herstellen">
-<!ENTITY restorepage.restore.access "H">
+<!ENTITY restorepage.restore.access "e">
 <!ENTITY restorepage.cancelButton   "Nieuwe sessie starten">
 <!ENTITY restorepage.cancel.access  "N">
 
