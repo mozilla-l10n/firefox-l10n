@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label "Ustawienia automatycznego formatowania wysyłanych wiadomości">
 <!ENTITY sendOptions.label            "Opcje wysyłania…">
 <!ENTITY sendOptions.accesskey        "O">
+
+<!ENTITY attachmentReminder.label            "Sprawdzaj pod kątem brakujących załączników">
+<!ENTITY attachmentReminder.accesskey        "S">
+<!ENTITY attachmentReminderOptions.label     "Słowa kluczowe…">
+<!ENTITY attachmentReminderOptions.accesskey "a">
