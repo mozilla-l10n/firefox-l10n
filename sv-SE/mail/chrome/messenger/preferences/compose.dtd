@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "Anpassa valet av textformat:">
 <!ENTITY sendOptions.label                     "Anpassa…">
 <!ENTITY sendOptions.accesskey                 "A">
+
+<!ENTITY attachmentReminder.label              "Kontrollera om bilagor saknas">
+<!ENTITY attachmentReminder.accesskey          "K">
+<!ENTITY attachmentReminderOptions.label       "Nyckelord…">
+<!ENTITY attachmentReminderOptions.accesskey   "N">
