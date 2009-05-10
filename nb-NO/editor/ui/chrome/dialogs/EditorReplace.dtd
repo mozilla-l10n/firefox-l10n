@@ -48,7 +48,7 @@
 <!ENTITY wrapCheckbox.label "Bryt rundt">
 <!ENTITY wrapCheckbox.accesskey "B">
 <!ENTITY backwardsCheckbox.label "Søk baklengs">
-<!ENTITY backwardsCheckbox.accesskey "b">
+<!ENTITY backwardsCheckbox.accesskey "ø">
 <!ENTITY findNextButton.label "Søk etter neste">
 <!ENTITY findNextButton.accesskey "n">
 <!ENTITY replaceButton.label "Erstatt">

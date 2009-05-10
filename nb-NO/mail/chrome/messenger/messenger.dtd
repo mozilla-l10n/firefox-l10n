@@ -319,7 +319,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Melding">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Arkiv">
+<!ENTITY archiveMsgCmd.label "Arkiver">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Svar">
@@ -361,7 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignorer undertråd">
-<!ENTITY killSubthreadMenu.accesskey "I">
+<!ENTITY killSubthreadMenu.accesskey "u">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Overvåk tråd">
 <!ENTITY watchThreadMenu.accesskey "O">
@@ -371,7 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyHereMenu.label "Kopier hit">
 <!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Etikett">
-<!ENTITY tagMenu.accesskey "t">
+<!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -383,7 +383,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Merk">
-<!ENTITY markMenu.accesskey "e">
+<!ENTITY markMenu.accesskey "M">
 <!ENTITY markAsReadCmd.label "Som lest">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
@@ -678,7 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage2.label "Av hensyn til personvern har &brandShortName; blokkert eksternt innhold i denne meldingen.">
-<!ENTITY loadRemoteContentButton3.label "Last inn eksternt innhol">
+<!ENTITY loadRemoteContentButton3.label "Last inn eksternt innhold">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Denne meldingen kan være en svindel">
