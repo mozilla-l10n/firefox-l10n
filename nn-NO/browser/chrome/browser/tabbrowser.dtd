@@ -16,6 +16,6 @@
 <!ENTITY  bookmarkAllTabs.accesskey   "o">
 <!ENTITY  bookmarkThisTab.label       "Bokmerk denne fana">
 <!ENTITY  bookmarkThisTab.accesskey   "k">
-<!ENTITY  undoCloseTab.label          "Angre «Lat att fanemj»">
+<!ENTITY  undoCloseTab.label          "Angre «Lat att fane»">
 <!ENTITY  undoCloseTab.accesskey      "n">
 <!ENTITY  newTabButton.tooltip        "Opnar ei ny fane">

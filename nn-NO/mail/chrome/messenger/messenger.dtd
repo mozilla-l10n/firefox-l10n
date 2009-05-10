@@ -35,8 +35,8 @@
 <!ENTITY getNextNMsgCmd.accesskey "H">
 <!ENTITY sendUnsentCmd.label "Send usende meldingar">
 <!ENTITY sendUnsentCmd.accesskey "u">
-<!ENTITY subscribeCmd.label "Abonner …">
-<!ENTITY subscribeCmd.accesskey "A">
+<!ENTITY subscribeCmd.label "Meld inn …">
+<!ENTITY subscribeCmd.accesskey "M">
 <!ENTITY deleteFolder.label "Slett mappe">
 <!ENTITY deleteFolder.accesskey "S">
 <!ENTITY renameFolder.label "Endre mappenamn …">
@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Komprimer mapper">
 <!ENTITY compactFolders.accesskey    "K">
-<!ENTITY emptyTrashCmd.label "Tøm bosskorg">
+<!ENTITY emptyTrashCmd.label "Tøm søppelkasse">
 <!ENTITY emptyTrashCmd.accesskey    "T">
 <!ENTITY offlineMenu.label "Fråkopla">
 <!ENTITY offlineMenu.accesskey "F">
@@ -54,9 +54,9 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "a">
 <!ENTITY settingsOfflineCmd.label "Fråkopla-innstillingar …">
 <!ENTITY settingsOfflineCmd.accesskey "F">
-<!ENTITY downloadSelectedCmd.label "Last ned dei valde meldingane">
+<!ENTITY downloadSelectedCmd.label "Last ned valde meldingar">
 <!ENTITY downloadSelectedCmd.accesskey "n">
-<!ENTITY downloadStarredCmd.label "Last ned dei stjernemerkte meldingane">
+<!ENTITY downloadStarredCmd.label "Last ned meldingar merka med stjerne">
 <!ENTITY downloadStarredCmd.accesskey "L">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
@@ -75,9 +75,9 @@
 <!ENTITY cancelNewsMsgCmd.accesskey "b">
 <!ENTITY deleteMsgsCmd.label "Slett dei valde meldingane">
 <!ENTITY deleteMsgsCmd.accesskey "v">
-<!ENTITY undeleteMsgsCmd.label "Angre sletting av dei valde meldingane">
+<!ENTITY undeleteMsgsCmd.label "Angre valde meldingar">
 <!ENTITY undeleteMsgsCmd.accesskey "A">
-<!ENTITY cancelNewsMsgsCmd.label "Avbryt dei valde meldingane">
+<!ENTITY cancelNewsMsgsCmd.label "Avbryt valde meldingar">
 <!ENTITY cancelNewsMsgsCmd.accesskey "v">
 <!ENTITY deleteFolderCmd.label "Slett mappe">
 <!ENTITY deleteFolderCmd.accesskey "S">
@@ -156,7 +156,7 @@
 <!ENTITY sortBySizeCmd.accesskey "t">
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "u">
-<!ENTITY sortByTagsCmd.label "Merkelapp">
+<!ENTITY sortByTagsCmd.label "Merkelappar">
 <!ENTITY sortByTagsCmd.accesskey "M">
 <!ENTITY sortByJunkStatusCmd.label "Uønskt-status">
 <!ENTITY sortByJunkStatusCmd.accesskey "U">
@@ -166,7 +166,7 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Mottakar">
 <!ENTITY sortByRecipientCmd.accesskey "M">
-<!ENTITY sortByUnreadCmd.label "Lese">
+<!ENTITY sortByUnreadCmd.label "Lest">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Mottatt rekkjefølgje">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
@@ -200,6 +200,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "O">
 <!ENTITY ignoredThreadsCmd.label "Ignorerte trådar">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
+
 <!ENTITY headersMenu.label "Meldingshovud">
 <!ENTITY headersMenu.accesskey "M">
 <!ENTITY headersAllCmd.label "Alle">
@@ -214,6 +215,16 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Rein tekst">
 <!ENTITY bodyAsPlaintext.accesskey "R">
+
+<!ENTITY bodyMenuFeed.label "Vis nyhendekjelde-meldingskroppen som">
+<!ENTITY bodyMenuFeed.accesskey "s">
+<!ENTITY viewFeedWebPage.label "Nettside">
+<!ENTITY viewFeedWebPage.accesskey "N">
+<!ENTITY viewFeedSummary.label "Oppsummering">
+<!ENTITY viewFeedSummary.accesskey "O">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standardformat">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Vis vedlegg innbunde">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "V">
 
@@ -277,8 +288,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.label "Ulesen melding">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Stjernemerka melding">
-<!ENTITY nextStarredMsgCmd.accesskey "S">
+<!ENTITY nextStarredMsgCmd.label "Melding med stjerne">
+<!ENTITY nextStarredMsgCmd.accesskey "M">
 <!ENTITY nextUnreadThread.label "Ulesen tråd">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
@@ -296,17 +307,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Tilbake">
 <!ENTITY goBackCmd.accesskey "T">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Stjernemerka melding">
-<!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY prevStarredMsgCmd.label "Melding med stjerne">
+<!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Melding">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Ny melding">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Melding">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Arkiv">
+<!ENTITY archiveMsgCmd.label "Arkiver">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Svar">
@@ -397,6 +410,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Opne melding">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Opne nyhendekjelde-melding">
+<!ENTITY openFeedMessage.accesskey "e">
+<!ENTITY openFeedWebPageInWindow.label "Nettside i nytt vindauge">
+<!ENTITY openFeedWebPageInWindow.accesskey "N">
+<!ENTITY openFeedSummaryInWindow.label "Oppsummering i nytt vindauge">
+<!ENTITY openFeedSummaryInWindow.accesskey "O">
+<!ENTITY openFeedWebPageInMP.label "Byt mellom vising av nettside og oppsummering i meldingsvindauget">
+<!ENTITY openFeedWebPageInMP.accesskey "B">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Vindauge">
@@ -511,23 +532,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextRemove.accesskey "S">
 <!ENTITY folderContextCompact.label "Komprimer denne mappa">
 <!ENTITY folderContextCompact.accesskey "o">
-<!ENTITY folderContextEmptyTrash.label "Tøm bosskorg">
+<!ENTITY folderContextEmptyTrash.label "Tøm søppelkasse">
 <!ENTITY folderContextEmptyTrash.accesskey "T">
-<!ENTITY folderContextEmptyJunk.label "Tøm bosskorg">
+<!ENTITY folderContextEmptyJunk.label "Tøm søppelkasse">
 <!ENTITY folderContextEmptyJunk.accesskey "T">
 <!ENTITY folderContextSendUnsentMessages.label "Send usende meldingar">
 <!ENTITY folderContextSendUnsentMessages.accesskey "u">
-<!ENTITY folderContextUnsubscribe.label "Stopp abonnement">
-<!ENTITY folderContextUnsubscribe.accesskey "a">
+<!ENTITY folderContextUnsubscribe.label "Meld ut">
+<!ENTITY folderContextUnsubscribe.accesskey "u">
 <!ENTITY folderContextMarkNewsgroupRead.label "Merk nyhendegruppe som lesen">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "r">
 <!ENTITY folderContextMarkMailFolderRead.label "Merk mappe som lesen">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
-<!ENTITY folderContextSubscribe.label "Abonner …">
-<!ENTITY folderContextSubscribe.accesskey "A">
+<!ENTITY folderContextSubscribe.label "Meld inn …">
+<!ENTITY folderContextSubscribe.accesskey "M">
 <!ENTITY folderContextSearchMessages.label "Søk i meldingar …">
 <!ENTITY folderContextSearchMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Eigenskapar …">
+<!ENTITY folderContextProperties.label "Innstillingar …">
 <!ENTITY folderContextProperties.accesskey "I">
 <!ENTITY folderContextFavoriteFolder.label "Favorittmappe">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
@@ -656,8 +677,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "Av personvernomsyn er eksterne bilete blokkerte.">
-<!ENTITY loadRemoteContentButton2.label "Last inn bilete no">
+<!ENTITY remoteContentMessage2.label "Av omsyn til personvern har &brandShortName; blokkert eksternt innhald i denne meldinga.">
+<!ENTITY loadRemoteContentButton3.label "Last inn eksternt innhald">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Denne meldinga kan vere svindel">
