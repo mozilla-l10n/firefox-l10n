@@ -14,7 +14,7 @@
 <!ENTITY reportForm.problem_type.accesskey "T">
 <!ENTITY reportForm.problem_type.chooseOne.title "Sceglierne una:">
 <!ENTITY reportForm.problem_type.item1.title "Browser non supportato">
-<!ENTITY reportForm.problem_type.item2.title "Impossibile effettuare il login">
+<!ENTITY reportForm.problem_type.item2.title "Impossibile effettuare l'accesso">
 <!ENTITY reportForm.problem_type.item3.title "Plugin non visualizzato">
 <!ENTITY reportForm.problem_type.item4.title "Altri contenuti mancanti">
 <!ENTITY reportForm.problem_type.item5.title "Comportamento errato">
