@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label "Nastavení chování textového formátu ">
 <!ENTITY sendOptions.label "Předvolby odesílání…">
 <!ENTITY sendOptions.accesskey "e">
+
+<!ENTITY attachmentReminder.label "Kontrolovat zapomenuté přílohy">
+<!ENTITY attachmentReminder.accesskey "n">
+<!ENTITY attachmentReminderOptions.label "Klíčová slova…">
+<!ENTITY attachmentReminderOptions.accesskey "K">

@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title "Klíčová slova pro připomenutí přílohy">
+<!ENTITY attachKeywordText.label "&brandShortName; vás upozorní na zapomenutou přílohu, pokud pošlete e-mail obsahující některé z následujících slov.">
+<!ENTITY addKeywordButton.label "Přidat">
+<!ENTITY addKeywordButton.accesskey "P">
+<!ENTITY editKeywordButton.label "Upravit">
+<!ENTITY editKeywordButton.accesskey "U">
+<!ENTITY removeKeywordButton.label "Smazat">
+<!ENTITY removeKeywordButton.accesskey "S">
