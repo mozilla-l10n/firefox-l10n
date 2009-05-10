@@ -12,7 +12,7 @@
 
 <!ENTITY reportForm.description                     "در مورد  مشکلی که برخوردید کمی توضیح دهید:">
 <!ENTITY reportForm.url.title                       "نشانی اینترنتی وب‌گاه:">
-<!ENTITY reportForm.url.accesskey                   "U">
+<!ENTITY reportForm.url.accesskey                   "ن">
 
 <!ENTITY reportForm.behind_login.title              "استفاده از وب‌گاه نیاز به گذرواژه دارد"><!-- No ":" at the end -->
 <!ENTITY reportForm.behind_login.accesskey          "گ">
