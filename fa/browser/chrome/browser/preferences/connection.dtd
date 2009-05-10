@@ -16,7 +16,7 @@
 <!ENTITY  autoTypeRadio.accesskey       "ن">
 <!ENTITY  reload.label                  "بازآوردن">
 <!ENTITY  reload.accesskey              "ب">
-<!ENTITY  ftp.label                     "پیشکار FTP">
+<!ENTITY  ftp.label                     "پیشکار FTP:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  gopher.label                  "پیشکار Gopher:">
 <!ENTITY  gopher.accesskey              "G">
