@@ -275,9 +275,9 @@
 <!ENTITY heading6Cmd.label "Overskrift 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Adresse">
-<!ENTITY paragraphAddressCmd.accesskey "a">
+<!ENTITY paragraphAddressCmd.accesskey "d">
 <!ENTITY paragraphPreformatCmd.label "Forhåndsformatert">
-<!ENTITY paragraphPreformatCmd.accesskey "f">
+<!ENTITY paragraphPreformatCmd.accesskey "F">
 
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Liste">

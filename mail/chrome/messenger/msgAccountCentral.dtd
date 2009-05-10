@@ -8,7 +8,7 @@
 <!ENTITY accountsSectionHdr.label     "Kontoer">
 <!ENTITY subscribeImapFolders.label   "Behandle medlemskap i mapper">
 <!ENTITY settingsLink.label           "Vis innstillinger for denne kontoen"> 
-<!ENTITY newAcctLink.label            "Opprett ny konto"> 
+<!ENTITY newAcctLink.label            "Opprett en ny konto"> 
 
 <!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjoner"> 
 <!ENTITY searchMsgsLink.label         "Søk i meldinger"> 
