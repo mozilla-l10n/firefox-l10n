@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "Configuration du comportement pour l'envoi en format texte">
 <!ENTITY sendOptions.label                     "Options d'expédition…">
 <!ENTITY sendOptions.accesskey                 "O">
+
+<!ENTITY attachmentReminder.label              "Vérification de pièces jointes manquantes">
+<!ENTITY attachmentReminder.accesskey          "V">
+<!ENTITY attachmentReminderOptions.label       "Mots-clés">
+<!ENTITY attachmentReminderOptions.accesskey   "M">
