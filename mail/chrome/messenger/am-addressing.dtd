@@ -24,10 +24,14 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Sitering:">
 <!ENTITY then.accesskey                       "r">
-<!ENTITY aboveQuote.label                     "start svaret ovanfor den siterte teksten">
-<!ENTITY belowQuote.label                     "start svaret nedanfor den siterte teksten">
-<!ENTITY selectAndQuote.label                 "merk den siterte teksten">
+<!ENTITY aboveQuote.label                     "Start svaret ovanfor den siterte teksten">
+<!ENTITY belowQuote.label                     "Start svaret nedanfor den siterte teksten">
+<!ENTITY selectAndQuote.label                 "Merk den siterte teksten">
 <!ENTITY place.label                          "Plasser signaturen min">
 <!ENTITY place.accesskey                      "P">
-<!ENTITY belowText.label                      "under sitert tekst (tilrådd)">
-<!ENTITY aboveText.label                      "under svaret mitt (over sitert tekst)">
+<!ENTITY belowText.label                      "Under sitert tekst (tilrådd)">
+<!ENTITY aboveText.label                      "Under svaret mitt (over sitert tekst)">
+<!ENTITY includeSigOnReply.label              "Inkluder signaturen min i svar">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Inkluder signaturen min i vidaresende">
+<!ENTITY includeSigOnForward.accesskey        "k">

@@ -79,9 +79,9 @@
 <!ENTITY ScreenName.label               "Skjermnamn:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "Tillat bilete frå eksterne kjelder.">
-<!ENTITY allowRemoteContent.accesskey   "T">
-<!ENTITY allowRemoteContent.tooltip     "I HTML-meldingar er det mogleg å leggje ved bilete frå eksterne kjelder. Ved opning av meldingar vil tilkoplinger til den eksterne kjelda verte opna. Dette kan gjere det mogleg å spore at meldinga vert lest. Ved å krysse av her, tillèt du slike innebygde bilete i HTML-meldingar frå denne kontakten.">
+<!ENTITY allowRemoteContent1.label      "Allow remote content.">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "I HTML-meldingar er det mogleg å leggje ved innhald frå eksterne kjelder. Ved opning av meldingar vil tilkoplingar til den eksterne kjelda verte opna. Dette kan gjere det mogleg å spore at meldinga blir lest. Ved å krysse av her, tillet du slikt innbunde innhald i HTML-meldingar frå denne kontakten.">
 
 <!ENTITY WorkPhone.label                "Arbeid:">
 <!ENTITY WorkPhone.accesskey            "A">

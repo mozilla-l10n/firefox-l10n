@@ -132,7 +132,7 @@
 <!ENTITY certmgr.addException.label           "Legg til unntak …">
 <!ENTITY certmgr.addException.accesskey       "e">
 
-<!ENTITY exceptionMgr.title                   "Legg til sikkerheitsuntak …">
+<!ENTITY exceptionMgr.title                   "Legg til sikkerheitsunntak …">
 <!ENTITY exceptionMgr.exceptionButton         "Stadfest sikkerheitsunntak">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "S">
 <!ENTITY exceptionMgr.supplementalWarning     "Lovlege bankar, butikkar, og andre offentlege nettsider vil ikkje be deg om å gjere dette.">
