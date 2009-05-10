@@ -63,7 +63,7 @@
 
 <!ENTITY  finishedPage.title              "Oppdatering er klar til å installere">
 <!ENTITY  finishedPage.text               "Oppdateringen installeres neste gang &brandShortName; starter. Du
-                                           kan starte &brandShortName pånytt nå, eller du kan fortsette å arbeide og starte på nytt senere.">
+                                           kan starte &brandShortName på nytt nå, eller du kan fortsette å arbeide og starte på nytt senere.">
 
 <!ENTITY  finishedBackgroundPage.text     "En sikkerhets- og stabilitetsoppdatering for &brandShortName; er
                                            lastet ned, og er klar til å installeres.">
