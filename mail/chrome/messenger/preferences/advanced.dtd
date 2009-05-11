@@ -62,7 +62,6 @@
 <!ENTITY showSettings.accesskey        "n">
 <!ENTITY proxiesConfigure.label        "&brandShortName; අන්තර්ජාලයට සම්බන්ධ වන්නේ කෙසේදැයි වින්‍යාස කරන්න">
 <!ENTITY connectionsInfo.caption       "සම්බන්ධතාවය">
-<!ENTITY connectionsInfo.caption       "සම්බන්ධතාවය">
 <!ENTITY offlineInfo.caption           "අසම්බන්ධිත">
 <!ENTITY offlineInfo.label             "අසම්බන්ධිත සැකසුම් වින්‍යාස කරන්න">
 <!ENTITY showOffline.label             "අසම්බන්ධිත...">
