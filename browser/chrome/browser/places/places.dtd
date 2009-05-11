@@ -63,6 +63,8 @@
 <!ENTITY cmd.edit_redo.label "Rehacer">
 <!ENTITY cmd.edit_redo.accesskey "h">
 <!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.bookmarkLink.label "Añadir a marcadores esta página…">
+<!ENTITY cmd.bookmarkLink.accesskey "ñ">
 <!ENTITY cmd.delete.label "Eliminar esta página">
 <!ENTITY cmd.delete.accesskey "l">
 <!ENTITY cmd.deleteDomainData.label "Olvidar este sitio web">
