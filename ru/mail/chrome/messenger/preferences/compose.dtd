@@ -44,3 +44,7 @@
 <!ENTITY sendOptionsDescription.label "Текстовый формат:">
 <!ENTITY sendOptions.label "Параметры отправки…">
 <!ENTITY sendOptions.accesskey "т">
+<!ENTITY attachmentReminder.label "Проверка на забытые вложения">
+<!ENTITY attachmentReminder.accesskey "в">
+<!ENTITY attachmentReminderOptions.label "Ключевые слова…">
+<!ENTITY attachmentReminderOptions.accesskey "л">

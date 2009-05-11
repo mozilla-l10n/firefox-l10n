@@ -1,5 +1,4 @@
-<!ENTITY playButton.playLabel "Play">
-<!ENTITY playButton.pauseLabel "Pause">
-<!ENTITY muteButton.muteLabel "Mute">
-<!ENTITY muteButton.unmuteLabel "Unmute">
-
+<!ENTITY playButton.playLabel "Прослушать">
+<!ENTITY playButton.pauseLabel "Приостановить">
+<!ENTITY muteButton.muteLabel "Убрать звук">
+<!ENTITY muteButton.unmuteLabel "Восстановить звук">
