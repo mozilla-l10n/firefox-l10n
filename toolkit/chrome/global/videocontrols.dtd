@@ -1,0 +1,5 @@
+<!ENTITY playButton.playLabel "Spela upp">
+<!ENTITY playButton.pauseLabel "Pausa">
+<!ENTITY muteButton.muteLabel "Ljud av">
+<!ENTITY muteButton.unmuteLabel "Ljud på">
+
