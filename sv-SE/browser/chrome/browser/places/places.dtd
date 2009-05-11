@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "G">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Lägg till bokmärke för den här sidan…">
+<!ENTITY cmd.bookmarkLink.accesskey     "L">
 <!ENTITY cmd.delete.label               "Ta bort den här sidan">
 <!ENTITY cmd.delete.accesskey           "T">
 <!ENTITY cmd.deleteDomainData.label     "Ta bort all historik för webbplatsen">

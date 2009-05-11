@@ -53,7 +53,5 @@
 <!ENTITY openInNewTab.accesskey "p">
 <!ENTITY openInNewWindow.label "Öppna i nytt fönster">
 <!ENTITY openInNewWindow.accesskey "f">
-<!ENTITY bookmarkLink.label "Lägg till bokmärke för länk">
-<!ENTITY bookmarkLink.accesskey "L">
 <!ENTITY copyLink.label "Kopiera länkadress">
 <!ENTITY copyLink.accesskey "K">
