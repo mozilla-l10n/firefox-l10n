@@ -48,7 +48,6 @@
 <!ENTITY enableAppUpdate.accesskey      	"T">
 <!ENTITY enableAddonsUpdate.label       	"Ynstallearre tafoegings">
 <!ENTITY enableAddonsUpdate.accesskey   	"Y">
-<!ENTITY checkNow.label                 	"No kontrolearje…">
 <!ENTITY whenUpdatesFound.label         	"As der fernijings foar &brandShortName; fûn wurde:">
 <!ENTITY modeAskMe.label                	"My freegje wat ik dwaan wol">
 <!ENTITY modeAskMe.accesskey            	"r">

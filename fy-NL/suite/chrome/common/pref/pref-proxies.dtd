@@ -1,6 +1,6 @@
 <!-- extracted from content/pref-proxies.xul -->
 
-<!--LOCALIZATION NOTE : FILE The Proxies preferences dialog --><!ENTITY pref.proxies.title "Proxies">
+<!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
 <!ENTITY  pref.proxies.title            "Proxies">
 <!ENTITY  pref.proxies.desc             "A Proxy is a network service that can filter and speed up your Internet connection.">
 <!ENTITY  proxyTitle.label              "Proxies instellen voor toegang tot het Internet">
