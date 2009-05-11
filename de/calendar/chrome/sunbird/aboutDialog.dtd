@@ -51,11 +51,13 @@
 <!ENTITY credit.thanks    "Spezieller Dank an">
 
 <!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
 <!ENTITY credit.translation
   "<h3>Übersetzer</h3><ul><li>
 Thorsten Bergeler</li><li>Robert Brand</li><li>Thorsten Fritz</li><li>Robert Kaiser</li></ul>">
-
-<!ENTITY credit.translation "">
 
 <!ENTITY credit.powered     "Powered by">
 <!ENTITY license.and        "und">
