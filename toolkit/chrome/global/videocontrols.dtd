@@ -1,0 +1,5 @@
+<!ENTITY playButton.playLabel "شغّل">
+<!ENTITY playButton.pauseLabel "ألبِث">
+<!ENTITY muteButton.muteLabel "اكتم الصوت">
+<!ENTITY muteButton.unmuteLabel "أطلِق الصوت">
+
