@@ -71,8 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey  				"n">
 <!ENTITY cmd.edit_redo.key  					"y">
 
-<!ENTITY cmbookmarkLink.label					"Blêdwizer fan dizze side meitsje…">
-<!ENTITY cmbookmarkLink.accesskey				"m">
+<!ENTITY cmd.bookmarkLink.label					"Blêdwizer fan dizze side meitsje…">
+<!ENTITY cmd.bookmarkLink.accesskey				"m">
 <!ENTITY cmd.delete.label               		"Dizze side fuortsmite">
 <!ENTITY cmd.delete.accesskey           		"D">
 <!ENTITY cmd.deleteDomainData.label     		"Ferjit dit webstee">
