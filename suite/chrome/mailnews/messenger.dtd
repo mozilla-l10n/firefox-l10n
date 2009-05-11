@@ -469,7 +469,7 @@
 <!ENTITY folderContextUnsubscribe.accesskey "О">
 <!ENTITY folderContextMarkNewsgroupRead.label "Отметить группу новостей как прочитанную">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "м">
-<!ENTITY folderContextMarkMailFolderRead.label "Отметить сообщения как прочитанные">
+<!ENTITY folderContextMarkMailFolderRead.label "Отметить папку как прочитанную">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ч">
 <!ENTITY folderContextNew.label "Новая папка…">
 <!ENTITY folderContextNew.accesskey "о">

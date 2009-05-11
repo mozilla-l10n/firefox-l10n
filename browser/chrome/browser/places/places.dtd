@@ -63,6 +63,8 @@
 <!ENTITY cmd.edit_redo.label "Повторить">
 <!ENTITY cmd.edit_redo.accesskey "П">
 <!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.bookmarkLink.label "Добавить страницу в закладки…">
+<!ENTITY cmd.bookmarkLink.accesskey "б">
 <!ENTITY cmd.delete.label "Удалить эту страницу">
 <!ENTITY cmd.delete.accesskey "д">
 <!ENTITY cmd.deleteDomainData.label "Забыть об этом сайте">
