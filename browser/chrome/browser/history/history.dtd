@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "l">
 <!ENTITY openInNewWindow.label "Yn in nij finster iepenje">
 <!ENTITY openInNewWindow.accesskey "f">
-<!ENTITY bookmarkLink.label "Blêdwizer fan dizze keppeling meitsje">
-<!ENTITY bookmarkLink.accesskey "m">
 <!ENTITY copyLink.label "Keppelingslokaasje kopiearje">
 <!ENTITY copyLink.accesskey "k">
