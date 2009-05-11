@@ -132,11 +132,11 @@
 <!ENTITY search.label                              "શોધો:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.scopeFolder.label                  "પસંદિત ફોલ્ડર">
-<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeDownloads.label               "ડાઉનલોડ">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ઈતિહાસ">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "શોધ બીલ્ડર બતાવો">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "શોધ બીલ્ડર છુપાવો">
 <!ENTITY saveSearch.label                          "સંગ્રહો">

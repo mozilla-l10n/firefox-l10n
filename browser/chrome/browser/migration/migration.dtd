@@ -15,9 +15,9 @@
 <!ENTITY importFromOpera.label "ઓપેરા">
 <!ENTITY importFromOpera.accesskey "O">
 <!ENTITY importFromCamino.label "કેમિનો">
-<!ENTITY importFromCamino.accesskey "કેમિનો">
+<!ENTITY importFromCamino.accesskey "C">
 <!ENTITY importFromSafari.label "સફારી">
-<!ENTITY importFromSafari.accesskey "સફારી">
+<!ENTITY importFromSafari.accesskey "S">
 <!ENTITY importFromOmniWeb.label "ઓમ્નીવેબ">
 <!ENTITY importFromOmniWeb.accesskey "W">
 <!ENTITY importFromICab.label "iકેબ">

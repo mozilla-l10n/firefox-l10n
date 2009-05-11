@@ -4,20 +4,20 @@
 <!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY language.label "ફોન્ટ આ માટે:">
-<!ENTITY language.accesskey "t">
+<!ENTITY language.accesskey "F">
 
 <!ENTITY  size.label                              "માપ:">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY proportional.label "પ્રમાણમાપમાં:">
-<!ENTITY proportional.accesskey "p">
+<!ENTITY proportional.accesskey "P">
 <!ENTITY serif.label "શેરીફ:">
-<!ENTITY serif.accesskey "s">
+<!ENTITY serif.accesskey "S">
 <!ENTITY sans-serif.label "સાન્સ-શેરીફ:">
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "મોનોસ્પેસ:">
-<!ENTITY monospace.accesskey "m">
+<!ENTITY monospace.accesskey "M">
 <!ENTITY font.langGroup.latin1 "પશ્ચિમી">
 <!ENTITY font.langGroup.latin2 "મધ્ય યૂરોપીયન">
 <!ENTITY font.langGroup.japanese "જાપાનિઝ">
@@ -52,14 +52,14 @@
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label "ન્યૂનતમ ફોન્ટ માપ:">
-<!ENTITY minSize.accesskey "z">
+<!ENTITY minSize.accesskey "o">
 <!ENTITY minSize.none "કંઈ નહિ">
 <!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "શેરીફ">
 <!ENTITY useDefaultFontSansSerif.label "સાન્સ શેરીફ">
 
 <!ENTITY  allowPagesToUse.label                   "મારી ઉપરની પસંદગીની જગ્યાએ, પાનાંઓને તેમના પોતાના ફોન્ટ પસંદ કરવા માટે પરવાનગી આપો">
-<!ENTITY  allowPagesToUse.accesskey               "h">
+<!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Charset.grouplabel         "અક્ષર સંગ્રહપદ્ધતિ">
 <!ENTITY languages.customize.DefaultCharset.label       "મૂળભુત અક્ષર સંગ્રહપદ્ધતિ:">

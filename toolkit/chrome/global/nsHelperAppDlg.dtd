@@ -27,7 +27,7 @@
 <!ENTITY openUsing.label "તેને સાથે ખોલો">
 <!ENTITY openUsing.accesskey "w">
 <!ENTITY chooseApp.label "પસંદ કરો...">
-<!ENTITY chooseApp.accesskey "c">
+<!ENTITY chooseApp.accesskey "C">
 <!ENTITY chooseAppFilePickerTitle "મદદકર્તા કાર્યક્રમો પસંદ કરો">
 <!ENTITY badApp "તમે સ્પષ્ટ કરેલો કાર્યક્રમ (&quot;#1&quot;) મળતો નથી. ફાઈલનું નામ ચકાસો અને બીજો કાર્યક્રમ પસંદ કરો.">
 <!ENTITY badApp.title "કાર્યક્રમ મળ્યો નહિ">

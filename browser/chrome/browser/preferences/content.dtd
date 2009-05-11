@@ -22,10 +22,10 @@
 <!ENTITY  defaultFont.label                       "મૂળભૂત ફોન્ટ:">
 <!ENTITY  defaultFont.accesskey                   "D">
 <!ENTITY  defaultSize.label                       "માપ:">
-<!ENTITY  defaultSize.accesskey                   "i">
+<!ENTITY  defaultSize.accesskey                   "S">
 
 <!ENTITY  advancedFonts.label         "અદ્યતન...">
-<!ENTITY  advancedFonts.accesskey     "d">
+<!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "રંગો...">
 <!ENTITY  colors.accesskey            "C">
