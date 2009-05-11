@@ -57,7 +57,7 @@
 <!ENTITY copyPref.label "નકલ કરો">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "નામની નકલ કરો">
-<!ENTITY copyName.accesskey "C">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "કિંમતની નકલ કરો">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "ફેરફાર કરો">
@@ -67,7 +67,7 @@
 <!ENTITY reset.label "ફરી સુયોજીત કરો">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "નવું">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.accesskey "w">
 <!ENTITY string.label "શબ્દમાળા">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "પૂર્ણાંક">
