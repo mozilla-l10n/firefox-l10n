@@ -1,0 +1,26 @@
+<!ENTITY safeb.palm.warning.title "ସନ୍ଦିଗ୍ଧ ୱେବ କୂଟରଚନା">
+
+<!ENTITY safeb.palm.message.p1 "ଏହି ପୃଷ୍ଠାଟି ୱେବ କୂଟରଚନା ଭାବରେ ଖବର କରାଯାଇଛି ଯାହାକି ଚାଳକମାନଙ୍କୁ ସେମାନଙ୍କର ବ୍ୟକ୍ତିଗତ ତଥା ଆର୍ଥିକ ସୂଚନା ସହଭାଗ କରିବା ପାଇଁ ବ୍ୟବହାର କରାଯାଇଥିଏ। ଏହି ପୃଷ୍ଠାରେ ଯେକୌଣସି ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ଭରଣ କରିବା ଦ୍ୱାରା ଫଳସ୍ୱରୂପ ପରିଚୟ ଚୋରି କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଚୋରି ଘଟିଥାଏ। &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "ଅଧିକ ପଢ଼ନ୍ତୁ &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "ଅଧିକ ପଢ଼ନ୍ତୁ &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
+<!ENTITY safeb.palm.message.p2.linkText "&brandShortName; ଫିସିଙ୍ଗ ଆକ୍ରମଣରୁ">
+<!ENTITY safeb.palm.message.p2.end " ଆପଣଙ୍କୁ କିପରି ରକ୍ଷା କରିଥାଏ।">
+
+<!ENTITY safeb.palm.accept.label "ମୋତେ ଏଠାରୁ ବାହାର କରନ୍ତୁ!">
+<!ENTITY safeb.palm.accept.statustext "ମୋର ମୂଖ୍ୟ ପୃଷ୍ଠାକୁ ଅନୁସରଣ କରନ୍ତୁ">
+<!ENTITY safeb.palm.decline.label "ଏହି ଚେତାବନୀକୁ ଉପେକ୍ଷା କରନ୍ତୁ">
+<!ENTITY safeb.palm.decline.statustext "ଚେତାବନୀକୁ ବନ୍ଦ କରନ୍ତୁ" >
+<!ENTITY safeb.palm.notforgery.label2 "ଏହା ଗୋଟିଏ ୱେବ କୂଟରଚନା ନୁହଁ…">
+<!ENTITY safeb.palm.report.label "ଏହି ସାଇଟକୁ କଣ ପାଇଁ ବ୍ଲକ କରାଯାଇଛି?">
+
+<!ENTITY safeb.blocked.malware.title "ଖବର କରାଯାଇଥିବା ଆକ୍ରମଣ ସାଇଟ!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "This web site at <span id='malware_sitename'/> has been reported as an attack site and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack sites intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "ଖବର କରାଯାଇଥିବା ଆକ୍ରମଣ ୱେବ ସାଇଟ କୂଟ ରଚନା!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "This web site at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">

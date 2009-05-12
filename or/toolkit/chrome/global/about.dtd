@@ -1,0 +1,19 @@
+<!ENTITY about.version                "ସଂସ୍କରଣ">
+
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008 by">
+<!ENTITY about.copy.linkTitle         "ସହଯୋଗୀମାନେ">
+<!ENTITY about.copy.afterLink         "Mozilla ପ୍ରକଳ୍ପ ପାଇଁ।">
+
+<!ENTITY about.license.beforeLink     "ଏହି ଉତ୍ପାଦ ପାଇଁ ">
+<!ENTITY about.license.linkTitle      "ଅନୁମତି ପତ୍ର ସୂଚନା">
+<!ENTITY about.license.afterLink      "ପଢ଼ନ୍ତୁ।">
+
+<!ENTITY about.relnotes.beforeLink    "ଏହି ସଂସ୍କରଣ ପାଇଁ ">
+<!ENTITY about.relnotes.linkTitle     "ପ୍ରକାଶନ ଟିପ୍ପଣୀ">
+<!ENTITY about.relnotes.afterLink     "ପଢ଼ନ୍ତୁ।">
+
+<!ENTITY about.buildconfig.beforeLink "ଏହି ସଂସ୍କରଣ ପାଇଁ ବ୍ୟବହାର ହୋଇଥିବା">
+<!ENTITY about.buildconfig.linkTitle  "ନିର୍ମାଣ ସଂରଚନାକୁ">
+<!ENTITY about.buildconfig.afterLink  "ଦେଖନ୍ତୁ।">
+
+<!ENTITY about.buildIdentifier        "ନିର୍ମାଣ ପରିଚାୟକ: ">

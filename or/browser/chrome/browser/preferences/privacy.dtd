@@ -1,0 +1,59 @@
+<!ENTITY  history.label "ଇତିହାସ">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "ମୋର ଇତିହାସକୁ ଅତିକମରେ">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label      "ଦିନ ପର୍ଯ୍ୟନ୍ତ ରଖନ୍ତୁ">
+
+<!ENTITY  rememberForms.label           "ମୁଁ ଫର୍ମ ଏବଂ ଖୋଜାପଟିରେ ଯାହା ଭରଣକରିଛି ତାକୁ ମନେରଖନ୍ତୁ">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "ମୁଁ ଯାହା ଆହରଣ କରିଛି ତାକୁ ମନେରଖନ୍ତୁ">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "କୁକିଗୁଡ଼ିକ">
+
+<!ENTITY  acceptCookies.label           "ସାଇଟରୁ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣକରନ୍ତୁ">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "ତୃତୀୟ-ପକ୍ଷ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣକରନ୍ତୁ">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "ସେମାନେ ସମାପ୍ତ ହେଲାପର୍ଯ୍ୟନ୍ତ:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "ରୁହନ୍ତୁ">
+<!ENTITY  close.label                   "&brandShortNameକୁ ମୁଁ ବନ୍ଦକରେ;">
+<!ENTITY  askEachTime.label             "ପ୍ରତିଥର ମୋତେ ପଚାରନ୍ତୁ">
+
+<!ENTITY  cookieExceptions.label        "ବ୍ୟତିକ୍ରମ…">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "କୁକିଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ…">
+<!ENTITY  showCookies.accesskey         "S">
+
+<!ENTITY  locbar.pre.label              "ଅବସ୍ଥିତି ପଟି ବ୍ୟବହାର କରିବା ସମୟରେ, ପ୍ରସ୍ତାବ ଦିଅନ୍ତୁ:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "ପୁରୁଣା ତଥ୍ୟ ଏବଂ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
+<!ENTITY  locbar.history.label          "ପୁରୁଣା ତଥ୍ୟ">
+<!ENTITY  locbar.bookmarks.label        "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
+<!ENTITY  locbar.nothing.label          "କିଛି ନୁହଁ">
+
+<!ENTITY  privateData.label             "ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ">
+
+<!ENTITY  alwaysClear.label              "ମୁଁ &brandShortNameକୁ ବନ୍ଦକରିବା ସମୟରେ ସବୁବେଳେ ମୋର ବ୍ୟକ୍ତିଗତ ତଥ୍ୟକୁ ସଫାକରିଦିଅନ୍ତୁ;">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  clearDataSettings.label        "ବିନ୍ୟାସ…">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+
+<!ENTITY  clearDataNow.label             "ବର୍ତ୍ତମାନ ସଫାକରନ୍ତୁ">
+<!ENTITY  clearDataNow.accesskey         "N">

@@ -1,0 +1,173 @@
+<!ENTITY addons.title                     "ଏଡ-ଅନଗୁଡିକ">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "ଏଡ-ଅନଗୁଡିକୁ ଆଣନ୍ତୁ">
+<!ENTITY extensions.label                 "ଅନୁଲଗ୍ନଗୁଡ଼ିକ">
+<!ENTITY themes.label                     "ପ୍ରସଙ୍ଗଗୁଡ଼ିକ">
+<!ENTITY locales.label                    "ଭାଷାଗୁଡ଼ିକ">
+<!ENTITY plugins.label                    "ପ୍ଲଗଇନଗୁଡ଼ିକ">
+<!ENTITY update.label                     "ଅଦ୍ୟତନଗୁଡ଼ିକ">
+<!ENTITY install.label                    "ସ୍ଥାପନ">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "ଆପଣଙ୍କର ଏଡ-ଅନଗୁଡ଼ିକ ପାଇଁ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "ଆପଣଙ୍କର ପ୍ରସଙ୍ଗଗୁଡ଼ିକ ପାଇଁ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ">
+<!ENTITY cmd.installLocalFile.label       "ସ୍ଥାପନ କରନ୍ତୁ…">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.installFileAddon.tooltip     "ଗୋଟିଏ ଏଡ-ଅନ ସ୍ଥାପନ କରନ୍ତୁ">
+<!ENTITY cmd.installFileTheme.tooltip     "ଗୋଟିଏ ପ୍ରସଙ୍ଗ ସ୍ଥାପନ କରନ୍ତୁ">
+<!ENTITY cmd.installUpdatesAll.label      "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll.tooltip    "ବଚ୍ଛିତ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରେ">
+<!ENTITY cmd.restartApp2.label            "&brandShortNameକୁ ପୁନଃ ଚାଳନ କରନ୍ତୁ;">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "&brandShortNameକୁ ପୁନଃ ଚାଳନ କରନ୍ତୁ; ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରୟୋଗ କରିବା ପାଇଁ">
+<!ENTITY cmd.skip.label                   "ଏଡାଇ ଯାଆନ୍ତୁ">
+<!ENTITY cmd.skip.accesskey               "k">
+<!ENTITY cmd.skip.tooltip                 "ଏହି ଅଦ୍ୟତନଗୁଡିକୁ ଏଡାଇଯାଆନ୍ତୁ">
+<!ENTITY cmd.continue.label               "ଚାଲୁରଖନ୍ତୁ">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "&brandShortName;କୁ ଧାରଣକରିବା ଚାଲୁରଖନ୍ତୁ">
+
+<!ENTITY cmd.enableAll.label              "ସମସ୍ତଙ୍କୁ ସକ୍ରିୟ କରନ୍ତୁ">
+<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY cmd.enableAll.tooltip            "ସମସ୍ତ ପ୍ରଦର୍ଶିତ ଏଡ-ଅନଗୁଡ଼ିକୁ ସକ୍ରିୟ କରନ୍ତୁ">
+<!ENTITY cmd.disableAll.label             "ସମସ୍ତଙ୍କୁ ନିଷ୍କ୍ରୟ କରନ୍ତୁ">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "ସମସ୍ତ ପ୍ରଦର୍ଶିତ ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "ପ୍ରସଙ୍ଗ ବ୍ୟବହାର କରନ୍ତୁ">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName;ର ପ୍ରସଙ୍ଗକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
+<!ENTITY cmd.options.label                "ବିକଳ୍ପଗୁଡ଼ିକ">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "ବଚ୍ଛିତ ଅନୁଲଗ୍ନ ପାଇଁ ବିକଳ୍ପଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ">
+<!ENTITY cmd.optionsUnix.label            "ପସନ୍ଦ">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "ବଚ୍ଛିତ ଅନୁଲଗ୍ନ ପାଇଁ ପସନ୍ଦଗୁଡ଼ିକୁ ସମ୍ପାଦନ କରନ୍ତୁ">
+<!ENTITY cmd.enable.label                 "ସକ୍ରିୟ କରନ୍ତୁ">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "&brandShortName; ପୁନଃ ଚାଳନ ହେଲା ବେଳେ ଏହି ଏଡ-ଅନଗୁଡ଼ିକୁ ସକ୍ରିୟ କରନ୍ତୁ">
+<!ENTITY cmd.disable.label                "ନିଷ୍କ୍ରିୟ କରନ୍ତୁ">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "&brandShortName; ପୁନଃ ଚାଳନ ହେଲା ବେଳେ ଏହି ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ">
+<!ENTITY cmd.uninstall.label              "ଅଣସ୍ଥାପନ କରନ୍ତୁ">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; ପୁନଃ ଚାଳନ ହେଲା ବେଳେ ଏହି ଏଡ-ଅନଗୁଡ଼ିକୁ ଅଣସ୍ଥାପନ କରନ୍ତୁ">
+<!ENTITY cmd.cancelUninstall.label        "ଅଣସ୍ଥାପନକୁ ବାତିଲ କରନ୍ତୁ">
+<!ENTITY cmd.cancelUninstall.accesskey    "C">
+<!ENTITY cmd.cancelUninstall.tooltip      "ଏହି ଏଡ-ଅନର ଅଣସ୍ଥାପନକୁ ବାତିଲ କରନ୍ତୁ">
+<!ENTITY cmd.cancelInstall.label          "ସ୍ଥାପନକ୍ରିୟାକୁ ବାତିଲ କରନ୍ତୁ">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelInstall.tooltip        "ଏହି ଏଡ-ଅନର ସ୍ଥାପନକୁ ବାତିଲ କରନ୍ତୁ">
+<!ENTITY cmd.cancelUpgrade.label          "ଉନ୍ନୟନ କ୍ରିୟାକୁ ବାତିଲ କରନ୍ତୁ">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.tooltip        "ଏହି ଏଡ଼-ଅନର ଉନ୍ନୟନ କ୍ରିୟାକୁ ବାତିଲ କରନ୍ତୁ">
+<!ENTITY cmd.installUpdate.label          "ଅଦ୍ୟତନକୁ ସ୍ଥାପନ କରନ୍ତୁ">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY cmd.installUpdate.tooltip        "ଏହି ଏଡ଼-ଅନ ପାଇଁ ଗୋଟିଏ ଅଦ୍ୟତନ ସ୍ଥାପନ କରନ୍ତୁ">
+<!ENTITY cmd.showUpdateInfo.label         "ସୂଚନା ଦର୍ଶାନ୍ତୁ">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "ଏହି ଅଦ୍ୟତନଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ଦିଅନ୍ତୁ">
+<!ENTITY cmd.hideUpdateInfo.label         "ସୂଚନା ଲୁଚାନ୍ତୁ">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "ଏହି ଅଦ୍ୟତନଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ଲୁଚାନ୍ତୁ">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName;ରେ ଯୋଗ କରନ୍ତୁ…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip   "ଏହି ଅଦ୍ୟତନକୁ ଆହରଣ ଏବଂ ସ୍ଥାପନ କରନ୍ତୁ">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "ବାତିଲ କରନ୍ତୁ">
+<!ENTITY cancel.accesskey                 "C">
+<!ENTITY cancelInstall.label              "ବାତିଲ କରନ୍ତୁ">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "ବାତିଲ କରନ୍ତୁ">
+<!ENTITY cancelUpgrade.accesskey          "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "ମୂଳ ପୃଷ୍ଠାକୁ ପରିଦର୍ଶନ କରନ୍ତୁ">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "ଏହି ଏଡ଼-ଅନ ବିଷୟରେ">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "ଅଦ୍ୟତନ ଖୋଜନ୍ତୁ">
+<!ENTITY cmd.checkUpdate.accesskey        "F">
+
+<!ENTITY cmd.includeUpdate.label          "ଅଦ୍ୟତନ ଅନ୍ତର୍ଭୁକ୍ତ କରନ୍ତୁ">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "ଏହି ଅଦ୍ୟତନକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରନ୍ତୁ">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବା ସମୟରେ ଏହି ଏଡ଼-ଅନକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରନ୍ତୁ">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "ସୁରକ୍ଷିତ ଅଦ୍ୟତନ ପ୍ରଦାନ କରିନଥାଏ">
+<!ENTITY needsDependencies.label          "ଅତିରିକ୍ତ ବସ୍ତୁ ଆବଶ୍ୟକ ହୋଇଥାଏ।">
+<!ENTITY blocklisted.label                "ଆପଣଙ୍କର ସୁରକ୍ଷା ପାଇଁ ନିଷ୍କ୍ରିୟ ହୋଇଛି।">
+<!ENTITY toBeDisabled.label               "&brandShortName; ପୁନଃଚଳନ ହେଲେ ଏହି ଏଡ଼-ଅନଗୁଡ଼ିକ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।">
+<!ENTITY toBeEnabled.label                "&brandShortName; ପୁନଃଚଳନ ହେଲେ ଏହି ଏଡ଼-ଅନଗୁଡ଼ିକ ସକ୍ରିୟ ହୋଇଯିବ।">
+<!ENTITY toBeInstalled.label              "&brandShortName; ପୁନଃଚଳନ ହେବା ସମୟରେ ଏହି ଏଡ଼-ଅନଗୁଡ଼ିକ ସ୍ଥାପିତ ହେବ।">
+<!ENTITY toBeUninstalled.label            "&brandShortName; ପୁନଃଚଳନ ହେବା ସମୟରେ ଏହି ଏଡ଼-ଅନଗୁଡ଼ିକ ବିସ୍ଥାପିତ ହୋଇଯିବ।">
+<!ENTITY toBeUpdated.label                "&brandShortName; ପୁନଃ ପ୍ରାରମ୍ଭ ହେଲେ ଏହି ଏଡ଼-ଅନଗୁଡ଼ିକ ଅଦ୍ୟତିତ ହେବ। ">
+
+<!ENTITY getExtensions.label              "ଅନୁଲଗ୍ନ ଆଣନ୍ତୁ">
+<!ENTITY getThemes.label                  "ପ୍ରସଙ୍ଗ ଆଣନ୍ତୁ">
+<!ENTITY getPlugins.label                 "ପ୍ଲଗଇନ ଆଣନ୍ତୁ">
+
+<!ENTITY searchAddons.label               "ସମସ୍ତ ଏଡ଼-ଅନଗୁଡ଼ିକୁ ଖୋଜୁଅଛି">
+<!ENTITY browseAddons.label               "ସମସ୍ତ ଅଡ଼-ଅନଗୁଡ଼ିକୁ ବ୍ରାଉଜ କରୁଅଛି">
+<!ENTITY searchFailed.label               "&brandShortName; ଅଡ଼-ଅନଗୁଡ଼ିକୁ କାଢ଼ିପାରୁନାହିଁ">
+<!ENTITY recommendedHeader.label          "ପରାମର୍ଶିତ">
+<!ENTITY recommendedThrobber.label        "ପରାମର୍ଶିତ ଏଡ଼-ଅନଗୁଡ଼ିକୁ କାଢ଼ୁଅଛି">
+<!ENTITY searchThrobber.label             "ଏଡ଼-ଅନଗୁଡ଼ିକୁ ଖୋଜୁଅଛି">
+<!ENTITY resetSearch.label                "ଫଳାଫଳଗୁଡ଼ିକୁ ସଫାକରନ୍ତୁ">
+<!ENTITY noSearchResults.label            "ସମସ୍ତ ଫଳାଫଳଗୁଡ଼ିକ ପୂର୍ବରୁ ସ୍ଥାପିତ କିମ୍ବା  ଅସଙ୍ଗତ।">
+<!ENTITY noRecommendedResults.label       "ସମସ୍ତ ସୁପାରିଶଗୁଡ଼ିକ ପୂର୍ବରୁ ସ୍ଥାପିତ କିମ୍ବା ଅସମ୍ପୂର୍ଣ୍ଣ।">
+<!ENTITY emptySearch.label                "କୌଣସି ମେଳକ ଏଡ଼-ଅନ ନାହିଁ">
+<!ENTITY emptySearch.button               "ଠିକ ଅଛି">
+<!ENTITY cancelSearch.button              "ବାତିଲ କରନ୍ତୁ">
+<!ENTITY searchFailed.button              "ଠିକ ଅଛି">
+<!ENTITY searchResultHomepage.value       "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
+<!ENTITY searchBox.label                  "ସମସ୍ତ ଏଡ଼-ଅନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ">
+<!ENTITY recommendedResults.label         "ସମସ୍ତ ପରାମର୍ଶିତ ଏଡ଼-ଅନଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ">
+<!ENTITY searchResultConnecting.label     "ସଂଯୋଗ କରୁଅଛି…">
+<!ENTITY searchResultInstalling.label     "ସ୍ଥାପନ କରୁଅଛି…">
+<!ENTITY searchResultFailed.label         "ସ୍ଥାପନ କ୍ରିୟା ବିଫଳ ହେଲା">
+<!ENTITY searchResultInstalled.label      "ସ୍ଥାପନ କ୍ରିୟା ସମ୍ପୂର୍ଣ୍ଣ">
+<!ENTITY addonTypeExtension.label         "ଅନୁଲଗ୍ନ">
+<!ENTITY addonTypeTheme.label             "ପ୍ରସଙ୍ଗ">
+<!ENTITY missingThumbnail.label           "କୌଣସି ପ୍ରାକ ଦର୍ଶନ ନାହିଁ">
+
+<!ENTITY previewNoThemeSelected.label     "କୌଣସି ପ୍ରସଙ୍ଗ ବଛାହୋଇନାହିଁ">
+<!ENTITY previewNoPreviewImage.label      "ଏହି ଅଦ୍ୟତନରେ କୌଣସି ପ୍ରାକ ପ୍ରତିଛବି ନାହିଁ">
+<!ENTITY moreInfo.label                   "ଅଧିକ ସୂଚନା">
+<!ENTITY infoNoAddonSelected.label        "କୌଣସି ଅଦ୍ୟତନ ବଛାହୋଇନାହିଁ">
+<!ENTITY infoNoUpdateInfo.label           "ଏହି ଅଦ୍ୟତନରେ କୌଣସି ଅତିରିକ୍ତ ସୂଚନା ନାହିଁ">
+<!ENTITY infoUpdateInfoError.label        "ଏହି ଅଦ୍ୟତନ ବିଷୟରେ ସୂଚନା ଧାରଣ କରିବା ସମୟରେ ତ୍ରୁଟି">
+
+<!ENTITY updateSuccess.label              "ଅଦ୍ୟତନ କ୍ରିୟା ସଫଳତାର ସହିତ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା">
+<!ENTITY installSuccess.label             "ସ୍ଥାପନ କ୍ରିୟା ସଫଳତାର ସହିତ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା">
+<!ENTITY installSuccessRestart.label      "ସ୍ଥାପନ କ୍ରିୟାକୁ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ପୁନଃ ଚାଳନ କରନ୍ତୁ।">
+<!ENTITY updateSuccessRestart.label       "ଅଦ୍ୟତନକୁ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ପୁନଃ ଚାଳନ କରନ୍ତୁ।">
+<!ENTITY installWaiting.label             "ଅପେକ୍ଷା କରୁଅଛି…">
+<!ENTITY installIncompatibleUpdate.label  "ସୁସଂଗତି ଯାଞ୍ଚକରୁଅଛି…">
+<!ENTITY installFinishing.label           "ସ୍ଥାପନ କରୁଅଛି…">
+<!ENTITY installFailure.label             "ସ୍ଥାପନ ବିଫଳ ହେଲା।">
+
+<!ENTITY progressStatus.label             "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚକରୁଅଛି">
+
+<!ENTITY eula.title                       "ଚାଳକ ଅନୁମତି ପତ୍ର ସ୍ୱୀକୃତି ପତ୍ର">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "ଗ୍ରହଣ ଏବଂ ସ୍ଥାପନ କରନ୍ତୁ…">
+<!ENTITY blocklist.blocked.label          "ବ୍ଲକ ହୋଇଛି">
+<!ENTITY blocklist.checkbox.label         "ନିଷ୍କ୍ରିୟ">
+<!ENTITY softBlocklisted.label            "ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟିତ୍ୱ ସମସ୍ୟା ଘଟାଇବାରେ ପରିଚିତ">
