@@ -167,9 +167,6 @@
 <!ENTITY sortByJunkStatusCmd.accesskey  "u">
 <!ENTITY sortBySubjectCmd.label         "Tematu">
 <!ENTITY sortBySubjectCmd.accesskey     "T">
-<!-- FIXME(sortByFromCmd): en-US: "From"
-     From!=Sender, ale nie ma jak tego poprawic w pl [marcoos]
-     zob. https://bugzilla.mozilla.org/show_bug.cgi?id=338753 -->
 <!ENTITY sortByFromCmd.label            "Nadawcy">
 <!ENTITY sortByFromCmd.accesskey        "N">
 <!ENTITY sortByRecipientCmd.label       "Adresata">
@@ -577,9 +574,6 @@
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label     "Temat">
-<!-- FIXME(searchFromMenu, searchSubjectOrFromMenu): en-US: "From", "Subject or From"
-     From!=Sender, ale nie ma jak tego poprawic w pl [marcoos]
-     zob. https://bugzilla.mozilla.org/show_bug.cgi?id=338753 -->
 <!ENTITY searchFromMenu.label               "Nadawca">
 <!ENTITY searchSubjectOrFromMenu.label      "Temat lub nadawca">
 <!ENTITY searchRecipient.label              "Pola Do lub Kopia">
@@ -589,9 +583,6 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label     "Wątek">
-<!-- FIXME(fromColumn): en-US: "From"
-     From!=Sender, ale nie ma jak tego poprawic w pl [marcoos]
-     zob. https://bugzilla.mozilla.org/show_bug.cgi?id=338753 -->
 <!ENTITY fromColumn.label       "Nadawca">
 <!ENTITY recipientColumn.label  "Adresat">
 <!ENTITY subjectColumn.label    "Temat">
@@ -615,9 +606,6 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip    "Zaznacz, które kolumny zostaną wyświetlone">
 <!ENTITY threadColumn.tooltip     "Kliknij, aby posortować według wątków">
-<!-- FIXME(fromColumn): en-US: "From"
-     From!=Sender, ale nie ma jak tego poprawic w pl [marcoos]
-     zob. https://bugzilla.mozilla.org/show_bug.cgi?id=338753 -->
 <!ENTITY fromColumn.tooltip       "Kliknij, aby posortować według nadawcy">
 <!ENTITY recipientColumn.tooltip  "Kliknij, aby posortować według adresata">
 <!ENTITY subjectColumn.tooltip    "Kliknij, aby posortować według tematu">

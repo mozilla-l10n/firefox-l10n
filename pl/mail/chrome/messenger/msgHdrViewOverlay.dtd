@@ -42,7 +42,7 @@
 
 <!ENTITY toField2.label           "do ">
 <!ENTITY fromField2.label         "od ">
-<!ENTITY senderField2.label       "nadawca ">
+<!ENTITY senderField2.label       "wysyłane przez ">
 <!ENTITY organizationField2.label "organizacja ">
 <!ENTITY replyToField2.label      "odp. do ">
 
