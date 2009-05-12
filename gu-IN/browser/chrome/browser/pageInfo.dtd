@@ -85,6 +85,7 @@
 <!ENTITY  permTab               "પરવાનગીઓ">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "મૂળભૂત વાપરો">
+<!ENTITY  permAskAlways         "હંમેશા પૂછો">
 <!ENTITY  permAllow             "પરવાનગી આપો">
 <!ENTITY  permAllowSession      "સત્ર માટે પરવાનગી આપો">
 <!ENTITY  permBlock             "અટકાવો">
@@ -93,6 +94,7 @@
 <!ENTITY  permPopup             "પોપઅપ વિન્ડો ખોલો">
 <!ENTITY  permCookie            "કુકીઓ સુયોજીત કરો">
 <!ENTITY  permInstall           "એક્સટેન્સનો અથવા થીમો સ્થાપિત કરો">
+<!ENTITY  permGeo               "સ્થાન વહેંચો">
 
 <!ENTITY  securityTab           "સુરક્ષા">
 <!ENTITY  securityTab.accesskey "S">
