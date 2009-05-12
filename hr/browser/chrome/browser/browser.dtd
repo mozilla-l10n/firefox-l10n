@@ -260,7 +260,7 @@
 <!ENTITY reloadImageCmd.accesskey     "u">
 <!ENTITY viewImageCmd.label           "Pogledaj sliku">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewVideoCmd.label           "Pogleda video">
+<!ENTITY viewVideoCmd.label           "Pogledaj video">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Pogledaj pozadinsku sliku">
 <!ENTITY viewBGImageCmd.accesskey     "p">
