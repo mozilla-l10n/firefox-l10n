@@ -49,6 +49,35 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "Dodatki">
+<!ENTITY addonsLocal.label         "Twoje dodatki">
+<!ENTITY addonsRepo.label          "Pobierz dodatki">
+<!ENTITY addonsRecommended.label   "Polecane">
+<!ENTITY addonsSearch.label        "Szukaj">
+<!ENTITY addonsSearch.emptytext    "Przeszukaj wszystkie">
+
+<!ENTITY addonOptions.label        "Opcje">
+<!ENTITY addonEnable.label         "Włącz">
+<!ENTITY addonDisable.label        "Wyłącz">
+<!ENTITY addonInstall.label        "Instaluj">
+<!ENTITY addonUninstall.label      "Odinstaluj">
+<!ENTITY addonCancel.label         "Anuluj">
+
+<!ENTITY downloadsHeader.label     "Pobieranie plików">
+<!ENTITY downloadsSortDate.label   "Data">
+<!ENTITY downloadsSortSite.label   "Strona">
+<!ENTITY downloadsSortName.label   "Nazwa">
+<!ENTITY downloadsSearch.label     "Szukaj">
+<!ENTITY downloadsSearch.emptytext "Szukaj pobranego pliku">
+
+<!ENTITY downloadShowPage.label    "Idź do strony">
+<!ENTITY downloadShow.label        "Znajdź plik">
+<!ENTITY downloadOpen.label        "Otwórz plik">
+<!ENTITY downloadCancel.label      "Anuluj">
+<!ENTITY downloadPause.label       "Wstrzymaj">
+<!ENTITY downloadResume.label      "Kontynuuj">
+<!ENTITY downloadRetry.label       "Pobierz ponownie">
+
 <!ENTITY identity.unverifiedsite2 "Ta witryna nie dostarcza informacji o swej tożsamości.">
 <!ENTITY identity.connectedTo "Połączono z witryną">
 <!-- Localization note (identity.runBy) : This string appears between a
