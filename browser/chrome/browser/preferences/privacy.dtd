@@ -3,7 +3,7 @@
 <!ENTITY  locationBar.label             "位址列">
 
 <!ENTITY  locbar.pre.label              "當使用位址列時提供下列建議:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "瀏覽記錄與書籤">
 <!ENTITY  locbar.history.label          "瀏覽記錄">
@@ -58,7 +58,7 @@
 <!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 應該:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "儲存所有歷史記錄">
 <!ENTITY  historyHeader.dontremember.label "不儲存歷史記錄">
 <!ENTITY  historyHeader.custom.label       "使用自訂的設定儲存歷史記錄">
@@ -93,7 +93,7 @@
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
 <!ENTITY  rememberHistory.pre.label      "保留我的瀏覽記錄最少">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.pre.accesskey  "b">
 <!ENTITY  rememberHistory.post.label     "天">
 
 <!ENTITY  rememberDownload.label         "保留我的下載記錄">
@@ -103,7 +103,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "結束 &brandShortName; 時清除歷史記錄">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "設定…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
