@@ -3,7 +3,7 @@
 <!ENTITY  locationBar.label             "Osoitepalkki">
 
 <!ENTITY  locbar.pre.label              "Ehdota osoitepalkissa sivuja:">
-<!ENTITY  locbar.pre.accessKey          "K">
+<!ENTITY  locbar.pre.accessKey          "E">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Sivuhistoriasta ja kirjanmerkeistä">
 <!ENTITY  locbar.history.label          "Sivuhistoriasta">
@@ -57,11 +57,11 @@
 <!ENTITY  clearDataSettings.label        "Asetukset…">
 <!ENTITY  clearDataSettings.accesskey    "A">
 
-<!ENTITY  historyHeader.pre.label          "">
-<!ENTITY  historyHeader.pre.accesskey      "h">
-<!ENTITY  historyHeader.remember.label     "Säilytä täydelliset historiatiedot">
-<!ENTITY  historyHeader.dontremember.label "Älä säilytä mitään historiatietoja">
-<!ENTITY  historyHeader.custom.label       "Valitse säilytettävät tiedot">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; säilyttää:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "Täydelliset historiatiedot">
+<!ENTITY  historyHeader.dontremember.label "Ei mitään historiatietoja">
+<!ENTITY  historyHeader.custom.label       "Valitut historiatiedot">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; kerää ja säilyttää sivu-, lataus-, lomake- ja hakuhistoriatietoja sekä evästeet sivuilta, joilla olet käynyt.">
