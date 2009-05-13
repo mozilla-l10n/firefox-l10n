@@ -1,0 +1,5 @@
+<!ENTITY playButton.playLabel "Reproducir">
+<!ENTITY playButton.pauseLabel "Pausa">
+<!ENTITY muteButton.muteLabel "Mudo">
+<!ENTITY muteButton.unmuteLabel "Unmute">
+
