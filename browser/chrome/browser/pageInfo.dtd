@@ -95,7 +95,7 @@
 <!ENTITY  permImage                                    "Piltide laadimine">
 <!ENTITY  permPopup                                    "Hüpikakende avamine">
 <!ENTITY  permCookie                                   "Küpsiste salvestamine">
-<!ENTITY  permInstall                                  "Laineduste või teemade paigaldamine">
+<!ENTITY  permInstall                                  "Laienduste või teemade paigaldamine">
 
 <!ENTITY  securityTab                                  "Turvalisus">
 <!ENTITY  securityTab.accesskey                        "r">
