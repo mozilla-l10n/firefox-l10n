@@ -134,7 +134,7 @@
 <!ENTITY ScreenName.label "Интернет-пейджер">
 <!ENTITY ScreenName.accesskey "П">
 <!ENTITY Company.label "Организация">
-<!ENTITY Company.accesskey "К">
+<!ENTITY Company.accesskey "р">
 <!ENTITY NickName.label "Псевдоним:">
 <!ENTITY NickName.accesskey "д">
 <!ENTITY SecondEmail.label "Доп. адрес электронной почты">
