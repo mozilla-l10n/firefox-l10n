@@ -11,7 +11,7 @@
 <!ENTITY clearTimeDuration.accesskey      "P">
 <!ENTITY clearTimeDuration.lastHour       "Viimeinen tunti">
 <!ENTITY clearTimeDuration.last2Hours     "Viimeiset 2 tuntia">
-<!ENTITY clearTimeDuration.last4Hours     "Viimeiset 2 tuntia">
+<!ENTITY clearTimeDuration.last4Hours     "Viimeiset 4 tuntia">
 <!ENTITY clearTimeDuration.today          "Tämä päivä">
 <!ENTITY clearTimeDuration.everything     "Kaikki">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
