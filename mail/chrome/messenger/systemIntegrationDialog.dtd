@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Standard-Anwendung">
+<!ENTITY defaultClient.intro  "&brandShortName; als Standard-Anwendung verwenden für:">
+
+<!ENTITY email.label "E-Mail">
+<!ENTITY newsgroups.label "Newsgruppen">
+<!ENTITY feeds.label "Feeds">
+
+<!ENTITY checkOnStartup.label "Bei jedem Start von &brandShortName; überprüfen">
+<!ENTITY checkOnStartup.accesskey "B">
+
+<!ENTITY searchIntegration.label "&searchIntegration.engineName; ermöglichen, Nachrichten zu durchsuchen">
+<!ENTITY searchIntegration.accesskey "S">
