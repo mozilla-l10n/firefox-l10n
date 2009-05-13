@@ -206,3 +206,5 @@
 <!ENTITY cmd.delete.accesskey           "F">
 <!ENTITY cmd.deleteDomainData.label     "Harroje Këtë &quot;Site&quot;">
 <!ENTITY cmd.deleteDomainData.accesskey "H">
+<!ENTITY cmd.bookmarkLink.label         "Faqeruaje Këtë Faqe…">
+<!ENTITY cmd.bookmarkLink.accesskey     "Q">
