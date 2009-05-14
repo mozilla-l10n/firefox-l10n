@@ -1,7 +1,7 @@
-<!ENTITY startDescription.label            "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.  Whenever &brandShortName; blocks these pop-ups, you will see an icon on the status bar.">
+<!ENTITY startDescription.label            "此網站試圖開啟彈出型視窗，很可能是廣告視窗；不過 &brandShortName; 幫你擋下來了。每當發生這種情形時，你會在 &brandShortName; 狀態列看到一個圖示。">
 
-<!ENTITY endDescription.label              "You can click on this icon to see which sites &brandShortName; blocked and to allow those sites to open pop-ups if they are required for the site to function correctly.">
+<!ENTITY endDescription.label              "你可以點選此圖示以檢視 &brandShortName; 禁止開新彈出 (廣告) 視窗的網站，並可直接修改成可開新視窗。">
 
-<!ENTITY caption.label                     "About Pop-up Blocking">
+<!ENTITY caption.label                     "關於阻擋彈出型廣告視窗 (Popup)">
 
-<!ENTITY done.label "Done">
+<!ENTITY done.label "完成">

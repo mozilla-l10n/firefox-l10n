@@ -1,15 +1,15 @@
-<!ENTITY brandMotto       "Rediscover the Web">
-<!ENTITY credit.thanks    "Special Thanks To">
+<!ENTITY brandMotto       "網路生活的全新體驗">
+<!ENTITY credit.thanks    "特別感謝">
 
-<!ENTITY credit.thanks2       "Many thanks to our">
-<!ENTITY credit.contributors2 "contributors">
+<!ENTITY credit.thanks2       "非常感謝所有參與其中的">
+<!ENTITY credit.contributors2 "貢獻者">
 
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "<h3>翻譯與在地化<br />Mozilla Taiwan Community (MozTW)</h3><ul><li>Hung-Te Lin 林弘德</li><li>Wei-Lun Sun 孫偉倫</li><li>Tim Guan-Tin Chien 簡冠庭</li></ul>">
 
-<!ENTITY credit.memory      "In Fond Memory Of">
+<!ENTITY credit.memory      "緬懷紀念">
 <!ENTITY credit.poweredByGeckoReg "Powered by Gecko&reg;">

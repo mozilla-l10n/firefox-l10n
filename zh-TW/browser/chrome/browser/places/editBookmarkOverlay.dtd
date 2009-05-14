@@ -1,25 +1,25 @@
-<!ENTITY editBookmarkOverlay.name.label                      "Name:">
+<!ENTITY editBookmarkOverlay.name.label                      "名稱:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.location.label                  "Location:">
+<!ENTITY editBookmarkOverlay.location.label                  "網址:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Feed Location:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "消息來源網址:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Site Location:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "網站網址:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Live Titles">
-<!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Show all the bookmarks folders">
-<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Hide">
-<!ENTITY editBookmarkOverlay.tags.label                      "Tags:">
+<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "即時標題">
+<!ENTITY editBookmarkOverlay.folder.label                    "資料夾:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "顯示所有書籤資料夾">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "隱藏">
+<!ENTITY editBookmarkOverlay.tags.label                      "標籤:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separate tags with commas">
-<!ENTITY editBookmarkOverlay.description.label               "Description:">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "以逗號分隔每個標籤">
+<!ENTITY editBookmarkOverlay.description.label               "敘述:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
-<!ENTITY editBookmarkOverlay.keyword.label                   "Keyword:">
+<!ENTITY editBookmarkOverlay.keyword.label                   "關鍵字:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Show all tags">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Load this bookmark in the sidebar">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "顯示所有標籤">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "在側邊欄載入此書籤">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
-<!ENTITY editBookmarkOverlay.choose.label                    "Choose…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "New Folder">
+<!ENTITY editBookmarkOverlay.choose.label                    "選擇…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "新增資料夾">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

@@ -1,5 +1,5 @@
 <!ENTITY selectBookmark.title
-  "Set Home Page">
+  "設為首頁">
 <!ENTITY selectBookmark.label
-  "Choose a Bookmark to be your Home Page. If you choose a folder, the Bookmarks in that folder will be opened in Tabs.">
+  "請選擇要設為首頁的書籤，如果你選了一個資料夾，那其中的書籤會用分頁同時開啟。">
 

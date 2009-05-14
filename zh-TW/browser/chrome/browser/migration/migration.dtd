@@ -1,17 +1,17 @@
 
-<!ENTITY migrationWizard.title          "Import Wizard">
+<!ENTITY migrationWizard.title          "匯入精靈">
 
-<!ENTITY importFrom.label               "Import Options, Bookmarks, History, Passwords and other data from:">
-<!ENTITY importFromUnix.label           "Import Preferences, Bookmarks, History, Passwords and other data from:">
-<!ENTITY importFromBookmarks.label      "Import Bookmarks from:">
+<!ENTITY importFrom.label               "由下列來源匯入選項、書籤、記錄、密碼等資料:">
+<!ENTITY importFromUnix.label           "由下列來源匯入偏好設定、書籤、記錄、密碼等資料:">
+<!ENTITY importFromBookmarks.label      "由下列來源匯入書籤:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird or Phoenix">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8、Firebird 或 Phoenix">
 <!ENTITY importFromPhoenix.accesskey    "P">
-<!ENTITY importFromNothing.label        "Don't import anything">
+<!ENTITY importFromNothing.label        "不要匯入任何東西">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 或 Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey  "N">
 <!ENTITY importFromNetscape4.label      "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey  "4">
@@ -31,21 +31,21 @@
 <!ENTITY importFromEpiphany.accesskey   "E">
 <!ENTITY importFromGaleon.label         "Galeon">
 <!ENTITY importFromGaleon.accesskey     "G">
-<!ENTITY importFromHTMLFile.label       "From an HTML File">
+<!ENTITY importFromHTMLFile.label       "HTML 檔案">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 
-<!ENTITY noMigrationSources.label       "No programs that contain bookmarks, history or password data could be found.">
+<!ENTITY noMigrationSources.label       "找不到包含書籤、瀏覽記錄或密碼等個人資訊的瀏覽程式。">
 
-<!ENTITY importSource.title             "Import Settings and Data">
-<!ENTITY importItems.title              "Items to Import">
-<!ENTITY importItems.label              "Select which items to import:">
+<!ENTITY importSource.title             "匯入設定與個人資料">
+<!ENTITY importItems.title              "要匯入的項目">
+<!ENTITY importItems.label              "選取要匯入的項目:">
 
-<!ENTITY migrating.title                "Importing…">
-<!ENTITY migrating.label                "The following items are currently being imported…">
+<!ENTITY migrating.title                "匯入中…">
+<!ENTITY migrating.label                "正在匯入下列項目…">
 
-<!ENTITY selectProfile.title            "Select Profile">
-<!ENTITY selectProfile.label            "The following profiles are available to import from:">
+<!ENTITY selectProfile.title            "選取設定檔 (Profile)">
+<!ENTITY selectProfile.label            "可匯入下列設定檔的內容:">
 
-<!ENTITY done.title                     "Import Complete">
-<!ENTITY done.label                     "The following items were successfully imported:">
+<!ENTITY done.title                     "匯入完成">
+<!ENTITY done.label                     "下列項目已成功匯入:">
 
