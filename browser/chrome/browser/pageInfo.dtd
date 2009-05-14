@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "權限">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "使用預設值">
+<!ENTITY  permAskAlways         "每次詢問">
 <!ENTITY  permAllow             "允許">
 <!ENTITY  permAllowSession      "允許此次連線 (Session)">
 <!ENTITY  permBlock             "阻擋">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "開啟彈出式視窗">
 <!ENTITY  permCookie            "設定 Cookie">
 <!ENTITY  permInstall           "安裝擴充套件或佈景主題">
+<!ENTITY  permGeo               "透露地理位置">
 
 <!ENTITY  securityTab           "安全">
 <!ENTITY  securityTab.accesskey "S">

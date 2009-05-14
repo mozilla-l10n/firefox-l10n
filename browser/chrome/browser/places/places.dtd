@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "搜尋:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "僅限目前書籤集">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "所有書籤">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "所選的資料夾">
-<!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "所有書籤">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "書籤功能表">
-<!ENTITY search.scopeMenu.accesskey                "m">
-<!ENTITY search.scopeToolbar.label                 "書籤工具列">
-<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeFolder.accesskey              "r">
+<!ENTITY search.scopeBookmarks.label               "書籤">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "下載項目">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "瀏覽記錄">
