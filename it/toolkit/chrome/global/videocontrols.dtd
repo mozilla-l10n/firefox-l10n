@@ -2,3 +2,4 @@
 <!ENTITY playButton.pauseLabel "Pausa">
 <!ENTITY muteButton.muteLabel "Disattiva audio">
 <!ENTITY muteButton.unmuteLabel "Attiva audio">
+<!ENTITY scrubberScale.nameFormat "Trascorso: #1 di #2">
