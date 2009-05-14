@@ -32,10 +32,14 @@
 <!ENTITY noSuggestions.label   "(沒有建議)">
 <!ENTITY addToDictionary.label "新增到字典">
 
-<!ENTITY bookmarkName.label    "名稱:">
-<!ENTITY bookmarkFolder.label  "資料夾:">
-<!ENTITY bookmarkTags.label    "標籤:">
-<!ENTITY bookmarkRemove.label  "移除書籤">
+<!ENTITY bookmarksHeader.label     "書籤">
+<!ENTITY bookmarksManage.label     "管理">
+<!ENTITY foldersHeader.label       "資料夾">
+
+<!ENTITY editBookmarkEdit.label    "編輯">
+<!ENTITY editBookmarkMove.label    "移動">
+<!ENTITY editBookmarkDone.label    "完成">
+<!ENTITY editBookmarkTags.label    "在此加入書籤">
 
 <!ENTITY findOnCmd.label     "尋找文字…">
 <!ENTITY findOnCmd.accesskey "F">
@@ -44,6 +48,35 @@
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY addonsHeader.label        "附加元件">
+<!ENTITY addonsLocal.label         "你的附加元件">
+<!ENTITY addonsRepo.label          "取得元件">
+<!ENTITY addonsRecommended.label   "推薦元件">
+<!ENTITY addonsSearch.label        "搜尋">
+<!ENTITY addonsSearch.emptytext    "搜尋所有附加元件">
+
+<!ENTITY addonOptions.label        "選項">
+<!ENTITY addonEnable.label         "啟用">
+<!ENTITY addonDisable.label        "停用">
+<!ENTITY addonInstall.label        "安裝">
+<!ENTITY addonUninstall.label      "移除">
+<!ENTITY addonCancel.label         "取消">
+
+<!ENTITY downloadsHeader.label     "下載">
+<!ENTITY downloadsSortDate.label   "日期">
+<!ENTITY downloadsSortSite.label   "網站">
+<!ENTITY downloadsSortName.label   "名稱">
+<!ENTITY downloadsSearch.label     "搜尋">
+<!ENTITY downloadsSearch.emptytext "搜尋已下載的檔案">
+
+<!ENTITY downloadShowPage.label    "連到下載網頁">
+<!ENTITY downloadShow.label        "尋找檔案">
+<!ENTITY downloadOpen.label        "開啟檔案">
+<!ENTITY downloadCancel.label      "取消">
+<!ENTITY downloadPause.label       "暫停">
+<!ENTITY downloadResume.label      "繼續">
+<!ENTITY downloadRetry.label       "重試">
 
 <!ENTITY identity.unverifiedsite2 "此網站沒有提供身分識別資訊。">
 <!ENTITY identity.connectedTo "你已連線到">
