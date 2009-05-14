@@ -15,6 +15,6 @@
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Bloggar og nyhendekjelder">
-<!ENTITY feeds.wizardShortName "Kjelder">
-<!ENTITY feeds.wizardLongName "Blogar og nyhendekjelder ">
-<!ENTITY feeds.wizardLongName.accesskey "n">
+<!ENTITY feeds.wizardShortName "Nyhendekjelder">
+<!ENTITY feeds.wizardLongName "Bloggar og nyhendekjelder ">
+<!ENTITY feeds.wizardLongName.accesskey "B">
