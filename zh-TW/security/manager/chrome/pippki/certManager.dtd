@@ -129,7 +129,7 @@
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "憑證層級">
 <!ENTITY certmgr.hierarchy.accesskey          "C">
-<!ENTITY certmgr.addException.label           "加入例外清單…">
+<!ENTITY certmgr.addException.label           "新增例外網站…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "新增安全例外">
