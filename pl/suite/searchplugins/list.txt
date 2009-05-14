@@ -1,1 +1,6 @@
+googlePL
 google
+allegro
+pwn
+szukacz
+wikipedia-pl
