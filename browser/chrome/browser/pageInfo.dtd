@@ -97,7 +97,7 @@
 <!ENTITY  permPopup             "開啟彈出式視窗">
 <!ENTITY  permCookie            "設定 Cookie">
 <!ENTITY  permInstall           "安裝擴充套件或佈景主題">
-<!ENTITY  permGeo               "分享地理位置資訊">
+<!ENTITY  permGeo               "透露地理位置">
 
 <!ENTITY  securityTab           "安全">
 <!ENTITY  securityTab.accesskey "S">
