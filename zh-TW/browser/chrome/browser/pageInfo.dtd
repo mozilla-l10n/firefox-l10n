@@ -41,82 +41,82 @@
 <!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Copy">
+<!ENTITY  copy.label            "複製">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Select All">
+<!ENTITY  selectall.label       "全選">
 <!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
-<!ENTITY  generalTab            "General">
+<!ENTITY  generalTab            "一般">
 <!ENTITY  generalTab.accesskey  "G">
-<!ENTITY  generalURL            "Address:">
-<!ENTITY  generalType           "Type:">
-<!ENTITY  generalMode           "Render Mode:">
-<!ENTITY  generalSize           "Size:">
-<!ENTITY  generalReferrer       "Referring URL:">
-<!ENTITY  generalSource         "Cache Source:">
-<!ENTITY  generalModified       "Modified:">
-<!ENTITY  generalEncoding       "Encoding:">
-<!ENTITY  generalMetaName       "Name">
-<!ENTITY  generalMetaContent    "Content">
-<!ENTITY  generalSecurityDetails   "Details">
+<!ENTITY  generalURL            "網址:">
+<!ENTITY  generalType           "類型:">
+<!ENTITY  generalMode           "繪製模式:">
+<!ENTITY  generalSize           "大小:">
+<!ENTITY  generalReferrer       "參照網址:">
+<!ENTITY  generalSource         "快取來源:">
+<!ENTITY  generalModified       "上次修改:">
+<!ENTITY  generalEncoding       "字元編碼:">
+<!ENTITY  generalMetaName       "名稱">
+<!ENTITY  generalMetaContent    "內容">
+<!ENTITY  generalSecurityDetails   "詳細資訊">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab              "媒體">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Location:">
-<!ENTITY  mediaText             "Associated Text:">
-<!ENTITY  mediaAltHeader        "Alternate Text">
-<!ENTITY  mediaAddress          "Address">
-<!ENTITY  mediaType             "Type">
-<!ENTITY  mediaSize             "Size">
-<!ENTITY  mediaCount            "Count">
-<!ENTITY  mediaDimension        "Dimensions:">
-<!ENTITY  mediaLongdesc         "Long Description:">
+<!ENTITY  mediaLocation         "網址:">
+<!ENTITY  mediaText             "關聯文字:">
+<!ENTITY  mediaAltHeader        "替代文字">
+<!ENTITY  mediaAddress          "位址">
+<!ENTITY  mediaType             "類型">
+<!ENTITY  mediaSize             "大小">
+<!ENTITY  mediaCount            "數量">
+<!ENTITY  mediaDimension        "大小:">
+<!ENTITY  mediaLongdesc         "完整描述:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Save As…">
-<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs           "另存新檔…">
+<!ENTITY  mediaSaveAs.accesskey "a">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Media Preview:">
+<!ENTITY  mediaPreview          "媒體預覽:">
 
-<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab               "消息來源">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Subscribe">
+<!ENTITY  feedSubscribe         "訂閱">
 <!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY  permTab               "Permissions">
+<!ENTITY  permTab               "權限">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Use Default">
-<!ENTITY  permAllow             "Allow">
-<!ENTITY  permAllowSession      "Allow for Session">
-<!ENTITY  permBlock             "Block">
-<!ENTITY  permissionsFor        "Permissions for:">
-<!ENTITY  permImage             "Load Images">
-<!ENTITY  permPopup             "Open Pop-up Windows">
-<!ENTITY  permCookie            "Set Cookies">
-<!ENTITY  permInstall           "Install Extensions or Themes">
+<!ENTITY  permUseDefault        "使用預設值">
+<!ENTITY  permAllow             "允許">
+<!ENTITY  permAllowSession      "允許此次連線 (Session)">
+<!ENTITY  permBlock             "阻擋">
+<!ENTITY  permissionsFor        "此網站權限設定:">
+<!ENTITY  permImage             "載入圖片">
+<!ENTITY  permPopup             "開啟彈出式視窗">
+<!ENTITY  permCookie            "設定 Cookie">
+<!ENTITY  permInstall           "安裝擴充套件或佈景主題">
 
-<!ENTITY  securityTab           "Security">
+<!ENTITY  securityTab           "安全">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Security information for this page">
-<!ENTITY  securityView.certView "View Certificate">
+<!ENTITY  securityHeader        "本頁面的安全資訊">
+<!ENTITY  securityView.certView "檢視憑證">
 <!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "Unknown">
+<!ENTITY  securityView.unknown   "未知">
 
 
-<!ENTITY  securityView.identity.header   "Web Site Identity">
-<!ENTITY  securityView.identity.owner    "Owner: ">
-<!ENTITY  securityView.identity.domain   "Web site: ">
-<!ENTITY  securityView.identity.verifier "Verified by: ">
+<!ENTITY  securityView.identity.header   "網站身分">
+<!ENTITY  securityView.identity.owner    "擁有者: ">
+<!ENTITY  securityView.identity.domain   "網站: ">
+<!ENTITY  securityView.identity.verifier "驗證機構: ">
 
-<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
-<!ENTITY  securityView.privacy.history                  "Have I visited this web site before today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
+<!ENTITY  securityView.privacy.header                   "隱私及瀏覽記錄">
+<!ENTITY  securityView.privacy.history                  "我以前有瀏覽過這個網站嗎？">
+<!ENTITY  securityView.privacy.cookies                  "此網站有在我的電腦中儲存資訊 (Cookie) 嗎？">
+<!ENTITY  securityView.privacy.viewCookies              "檢視 Cookie">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
-<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
+<!ENTITY  securityView.privacy.passwords                "我有在此網站儲存任何密碼嗎？">
+<!ENTITY  securityView.privacy.viewPasswords            "檢視已存密碼">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
-<!ENTITY  securityView.technical.header                 "Technical Details">
+<!ENTITY  securityView.technical.header                 "技術細節">
