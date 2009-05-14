@@ -86,6 +86,7 @@
 <!ENTITY  permTab               "অনুমতিসমূহ">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "অবিকল্পিত ব্যৱহাৰ কৰক">
+<!ENTITY  permAskAlways         "সদায়ে শুধিব">
 <!ENTITY  permAllow             "অনুমতি দিয়ক">
 <!ENTITY  permAllowSession      "অধিবেশনৰ কাৰণে অনুমতি দিয়ক">
 <!ENTITY  permBlock             "ৰোধ কৰক">
@@ -94,6 +95,7 @@
 <!ENTITY  permPopup             "প'প-আপ সংযোগক্ষেত্ৰ খোলক">
 <!ENTITY  permCookie            "কুকি প্ৰতিষ্ঠা কৰক">
 <!ENTITY  permInstall           "থিম বা সম্প্ৰসাৰণ সংস্থাপন কৰক">
+<!ENTITY  permGeo               "স্থান অংশীদাৰ কৰক">
 
 <!ENTITY  securityTab           "সুৰক্ষা">
 <!ENTITY  securityTab.accesskey "S">
