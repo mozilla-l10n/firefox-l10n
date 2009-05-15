@@ -103,6 +103,8 @@
 <!ENTITY cmd.edit_redo.accesskey        "t">
 <!ENTITY cmd.edit_redo.key              "y">
 
+<!ENTITY cmd.bookmarkLink.label          "Įrašyti šį tinklalapį…">
+<!ENTITY cmd.bookmarkLink.accesskey      "r">
 <!ENTITY cmd.delete.label                "Pašalinti šį tinklalapį">
 <!ENTITY cmd.delete.accesskey            "š">
 <!ENTITY cmd.deleteDomainData.label      "Užmiršti viską apie šią svetainę">
