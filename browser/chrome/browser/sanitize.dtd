@@ -37,5 +37,5 @@
 <!ENTITY itemSitePreferences.label "Настройки сайта">
 <!ENTITY itemSitePreferences.accesskey "о">
 <!ENTITY sanitizeEverythingUndoWarning "Это действие не может быть отменено.">
-<!ENTITY dialog.width "32em">
+<!ENTITY dialog.width "28em">
 <!ENTITY column.width "16em">
