@@ -39,9 +39,11 @@
 
 <!ENTITY enableGlodaSearch.label       "Įjungti globalią laiškų paiešką ir indeksavimą">
 <!ENTITY enableGlodaSearch.accesskey   "g">
-<!ENTITY systemDefaults.label          "Sistemos numatytosios nuostatos">
+<!ENTITY systemIntegration.label       "Integracija su sistema">
 <!ENTITY alwaysCheckDefault.label      "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
 <!ENTITY alwaysCheckDefault.accesskey  "u">
+<!ENTITY searchIntegration.label       "Leisti „&searchIntegration.engineName;“ ieškoti laiškų">
+<!ENTITY searchIntegration.accesskey   "L">
 <!ENTITY checkNow.label                "Tikrinti dabar">
 <!ENTITY checkNow.accesskey            "d">
 <!ENTITY showCondensedAddresses.label  "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
