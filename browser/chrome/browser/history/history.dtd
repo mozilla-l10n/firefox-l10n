@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "N">
 <!ENTITY openInNewWindow.label "Abrir numa nova janela">
 <!ENTITY openInNewWindow.accesskey "J">
-<!ENTITY bookmarkLink.label "Adicionar esta ligação aos marcadores...">
-<!ENTITY bookmarkLink.accesskey "M">
 <!ENTITY copyLink.label "Copiar endereço da ligação">
 <!ENTITY copyLink.accesskey "C">
