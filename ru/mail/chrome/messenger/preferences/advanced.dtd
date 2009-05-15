@@ -5,9 +5,11 @@
 <!ENTITY itemCertificates.label "Сертификаты">
 <!ENTITY enableGlodaSearch.label "Включить глобальный поиск и индекс">
 <!ENTITY enableGlodaSearch.accesskey "и">
-<!ENTITY systemDefaults.label "Системные настройки по умолчанию">
+<!ENTITY systemIntegration.label "Интеграция с системой">
 <!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
 <!ENTITY alwaysCheckDefault.accesskey "п">
+<!ENTITY searchIntegration.label "Разрешить &searchIntegration.engineName; производить поиск сообщений">
+<!ENTITY searchIntegration.accesskey "з">
 <!ENTITY checkNow.label "Проверить сейчас">
 <!ENTITY checkNow.accesskey "с">
 <!ENTITY configEditDesc.label "Дополнительные настройки">

@@ -1,5 +1,0 @@
-<!ENTITY searchIntegration.engineName "«Поиск Windows»">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; — Интеграция">
-<!ENTITY searchIntegration.description "Вы хотите включить &searchIntegration.engineName;, чтобы индексировать и производить поиск в почте и группах новостей &brandShortName;?">
-<!ENTITY searchIntegration.accept "Включить &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Не включать &searchIntegration.engineName;">

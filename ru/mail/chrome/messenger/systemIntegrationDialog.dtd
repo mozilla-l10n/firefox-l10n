@@ -1,7 +1,9 @@
-<!ENTITY defaultClient.title "Клиент по умолчанию">
+<!ENTITY systemIntegration.title "Интеграция с системой">
 <!ENTITY defaultClient.intro "Использовать &brandShortName; по умолчанию в качестве:">
 <!ENTITY email.label "Почтового клиента">
 <!ENTITY newsgroups.label "Клиента групп новостей">
 <!ENTITY feeds.label "Клиента лент новостей">
 <!ENTITY checkOnStartup.label "Всегда производить эту проверку при запуске &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "В">
+<!ENTITY searchIntegration.label "Разрешить &searchIntegration.engineName; производить поиск сообщений">
+<!ENTITY searchIntegration.accesskey "з">
