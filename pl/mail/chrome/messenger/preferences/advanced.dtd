@@ -7,11 +7,9 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label      "Indeksowanie wiadomości i wyszukiwanie">
 <!ENTITY enableGlodaSearch.accesskey  "n">
-<!ENTITY systemIntegration.label      "Integracja z systemem operacyjnym">
+<!ENTITY systemDefaults.label         "Ustawienia systemowe">
 <!ENTITY alwaysCheckDefault.label     "Przy uruchamianiu sprawdzaj, czy &brandShortName; jest domyślnym programem pocztowym">
 <!ENTITY alwaysCheckDefault.accesskey "P">
-<!ENTITY searchIntegration.label      "Zezwól programowi &searchIntegration.engineName; na wyszukiwanie wiadomości">
-<!ENTITY searchIntegration.accesskey  "Z">
 <!ENTITY checkNow.label               "Sprawdź teraz">
 <!ENTITY checkNow.accesskey           "S">
 <!ENTITY configEditDesc.label         "Konfiguracja zaawansowana">

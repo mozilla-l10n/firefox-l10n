@@ -71,10 +71,13 @@
 <!ENTITY cmd.edit_redo.accesskey   "P">
 <!ENTITY cmd.edit_redo.key   "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Dodaj zakładkę do tej strony…">
+<!ENTITY cmd.bookmarkLink.accesskey     "D">
+
 <!ENTITY cmd.delete.label               "Usuń stronę">
 <!ENTITY cmd.delete.accesskey           "n">
 <!ENTITY cmd.deleteDomainData.label     "Usuń całą domenę">
-<!ENTITY cmd.deleteDomainData.accesskey "d">
+<!ENTITY cmd.deleteDomainData.accesskey "c">
 
 <!ENTITY cmd.open.label   "Otwórz">
 <!ENTITY cmd.open.accesskey   "O">
