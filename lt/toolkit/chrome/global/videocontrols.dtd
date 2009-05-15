@@ -12,8 +12,6 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
-   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -30,29 +28,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY find.label                   "Ieškoti:">
-<!ENTITY find.accesskey               "I">
-<!ENTITY expand.label                 "Išplėsti">
-<!ENTITY expand.accesskey             "ė">
-<!ENTITY collapse.label               "Sutraukti">
-<!ENTITY collapse.accesskey           "u">
-<!ENTITY byDate.label                 "–– datą">
-<!ENTITY byDate.accesskey             "D">
-<!ENTITY bySite.label                 "–– svetainę">
-<!ENTITY bySite.accesskey             "S">
-<!ENTITY view.label                   "Rodyti">
-<!ENTITY view.accesskey               "o">
-<!ENTITY byMostVisited.label          "–– lankymo dažnumą">
-<!ENTITY byMostVisited.accesskey      "ž">
-<!ENTITY byLastVisited.label          "–– lankymo datą">
-<!ENTITY byLastVisited.accesskey      "L">
-<!ENTITY byDayAndSite.label           "Pagal datą ir svetainę">
-<!ENTITY byDayAndSite.accesskey       "t">
-<!ENTITY openLinkInWindow.label       "Atverti">
-<!ENTITY openLinkInWindow.accesskey   "A">
-<!ENTITY openInNewTab.label           "Atverti naujoje kortelėje">
-<!ENTITY openInNewTab.accesskey       "k">
-<!ENTITY openInNewWindow.label        "Atverti naujame lange">
-<!ENTITY openInNewWindow.accesskey    "l">
-<!ENTITY copyLink.label               "Kopijuoti saito adresą">
-<!ENTITY copyLink.accesskey           "o">
+<!ENTITY playButton.playLabel         "Groti">
+<!ENTITY playButton.pauseLabel        "Pristabdyti">
+<!ENTITY muteButton.muteLabel         "Išjungti garsą">
+<!ENTITY muteButton.unmuteLabel       "Įjungti garsą">
+
+<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
+media position, and the #2 string is the total duration. For example, when at
+the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed". -->
+<!ENTITY scrubberScale.nameFormat     "praėjo #1 iš #2">
