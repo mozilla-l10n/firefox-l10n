@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title     "Integracja z systemem operacyjnym">
+<!ENTITY defaultClient.intro         "&brandShortName; ma być domyślnym klientem:">
+
+<!ENTITY email.label      "poczty">
+<!ENTITY newsgroups.label "grup dyskusyjnych">
+<!ENTITY feeds.label      "źródeł aktualności">
+
+<!ENTITY checkOnStartup.label        "Sprawdzaj to zawsze przy uruchamianiu programu &brandShortName;">
+<!ENTITY checkOnStartup.accesskey    "S">
+
+<!ENTITY searchIntegration.label     "Zezwól programowi &searchIntegration.engineName; na wyszukiwanie wiadomości">
+<!ENTITY searchIntegration.accesskey "Z">
