@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "S">
 <!ENTITY organization.label "நிறுவனம்:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "இந்தக் கையெழுத்தை இணைக்கவும்:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signatureText.label "Signature text:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Use HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "செவ்வையாக்கு...">
 <!ENTITY choose.label "தேர்ந்தெடு...">
 <!ENTITY choose.accesskey "C">

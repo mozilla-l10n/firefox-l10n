@@ -69,7 +69,7 @@
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label "இணைப்பில்லா நிலை">
+<!ENTITY folderSynchronizationTab.label          "Synchronization">
 <!ENTITY folderCheckForNewMessages.label "இந்தக் கோப்புறையில் புதிய அஞ்சல்கள் இருக்கிறதா எனப் பார்க்கவும்.">
 <!ENTITY folderCheckForNewMessages.accesskey "">
 
