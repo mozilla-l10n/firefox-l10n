@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Permissões">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Usar Pré-definição">
+<!ENTITY  permAskAlways         "Perguntar sempre">
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "Permitir para a Sessão">
 <!ENTITY  permBlock             "Bloquear">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Abrir Janelas Popup">
 <!ENTITY  permCookie            "Definir Cookies">
 <!ENTITY  permInstall           "Instalar Extensões ou Temas">
+<!ENTITY  permGeo               "partilhar localização">
 
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">
