@@ -62,6 +62,7 @@
 <!ENTITY addonInstall.label        "ثبّت">
 <!ENTITY addonUninstall.label      "أزِل التثبيت">
 <!ENTITY addonCancel.label         "ألغِ">
+<!ENTITY addonShowPage.label       "اذهب إلى الصفحة">
 
 <!ENTITY downloadsHeader.label     "التنزيلات">
 <!ENTITY downloadsSortDate.label   "حسب التاريخ">
@@ -71,8 +72,8 @@
 <!ENTITY downloadsSearch.emptytext "ابحث عن ملف مُنزّل">
 
 <!ENTITY downloadShowPage.label    "اذهب إلى الصفحة">
-<!ENTITY downloadShow.label        "ابحث عن الملف">
-<!ENTITY downloadOpen.label        "افتح الملف">
+<!ENTITY downloadShow2.label       "ابحث">
+<!ENTITY downloadOpen2.label       "افتح">
 <!ENTITY downloadCancel.label      "ألغِ">
 <!ENTITY downloadPause.label       "ألبِث">
 <!ENTITY downloadResume.label      "تابِع">
