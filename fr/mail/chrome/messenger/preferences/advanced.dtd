@@ -8,7 +8,6 @@
 
 <!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
-<!ENTITY systemDefaults.label "Paramètres système par défaut">
 <!ENTITY systemIntegration.label "Intégration système">
 <!ENTITY alwaysCheckDefault.label "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
 <!ENTITY alwaysCheckDefault.accesskey "T">
