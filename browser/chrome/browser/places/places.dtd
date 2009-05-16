@@ -42,7 +42,7 @@
 <!ENTITY cmd.importHTML.label "استورِد HTML…">
 <!ENTITY cmd.importHTML.accesskey "س">
 
-<!ENTITY cmd.backup.label "احفظ احتياطيا…">
+<!ENTITY cmd.backup.label "احفظ احتياطيًا…">
 <!ENTITY cmd.backup.accesskey "ط">
 <!ENTITY cmd.restore2.label "استعِد">
 <!ENTITY cmd.restore2.accesskey "ت">
@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey "ع">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.bookmarkLink.label         "علّم هذه الصفحة…">
+<!ENTITY cmd.bookmarkLink.accesskey     "ل">
 <!ENTITY cmd.delete.label               "احذف هذه الصفحة">
 <!ENTITY cmd.delete.accesskey           "ذ">
 <!ENTITY cmd.deleteDomainData.label     "انسَ هذا الموقع">
@@ -142,7 +144,7 @@
 <!ENTITY search.scopeFolder.accesskey "م">
 <!ENTITY search.scopeDownloads.label "التنزيلات">
 <!ENTITY search.scopeDownloads.accesskey "ز">
-<!ENTITY search.scopeHistory.label "التّاريخ">
+<!ENTITY search.scopeHistory.label "التاريخ">
 <!ENTITY search.scopeHistory.accesskey "ت">
 <!ENTITY search.scopeBarExpanderDown.tooltip "أظهر باني البحث">
 <!ENTITY search.scopeBarExpanderUp.tooltip "اخفِ باني البحث">
@@ -175,7 +177,7 @@
 <!ENTITY advancedSearch.groupby_folder.label "المجلد">
 <!ENTITY advancedSearch.sortby.label "رتب ب‍:">
 <!ENTITY advancedSearch.sortby_title.label "العنوان">
-<!ENTITY advancedSearch.sortby_date.label "التّاريخ">
+<!ENTITY advancedSearch.sortby_date.label "التاريخ">
 <!ENTITY advancedSearch.sortby_visit.label "عدد الزيارات">
 <!ENTITY advancedSearch.sortby_url.label "المسار">
 <!ENTITY advancedSearch.sortby_asc.label "تصاعدي">
@@ -207,4 +209,4 @@
 <!ENTITY detailsPane.less.label "أقل">
 <!ENTITY detailsPane.less.accesskey "ق">
 <!ENTITY detailsPane.noPreviewAvailable.label "معاينة">
-<!ENTITY detailsPane.selectAnItemText.description "اختر عنصرا لعرضه وتحرير خصائصه">
+<!ENTITY detailsPane.selectAnItemText.description "اختر عنصرًا لعرضه وتحرير خصائصه">
