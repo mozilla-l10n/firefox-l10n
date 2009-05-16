@@ -74,7 +74,7 @@
 <!ENTITY  rememberActions.clearHistory.label  "ја исчистите вашата скорешна историја">
 <!ENTITY  rememberActions.middle.label        ", или ">
 <!ENTITY  rememberActions.post.label          ".">
-<!ENTITY  rememberActions.removeCookies.label "да одстраните одредени колачиња">
+<!ENTITY  rememberActions.removeCookies.label "да отстраните одредени колачиња">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
