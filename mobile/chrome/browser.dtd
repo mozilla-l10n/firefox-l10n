@@ -53,6 +53,7 @@
 <!ENTITY addonInstall.label "Installa">
 <!ENTITY addonUninstall.label "Disinstalla">
 <!ENTITY addonCancel.label "Annulla">
+<!ENTITY addonShowPage.label "Vai alla scheda">
 <!ENTITY downloadsHeader.label "Download">
 <!ENTITY downloadsSortDate.label "Data">
 <!ENTITY downloadsSortSite.label "Sito">
@@ -60,8 +61,8 @@
 <!ENTITY downloadsSearch.label "Cerca">
 <!ENTITY downloadsSearch.emptytext "Cerca un file scaricato">
 <!ENTITY downloadShowPage.label "Vai a pagina">
-<!ENTITY downloadShow.label "Trova file">
-<!ENTITY downloadOpen.label "Apri file">
+<!ENTITY downloadShow2.label "Trova">
+<!ENTITY downloadOpen2.label "Apri">
 <!ENTITY downloadCancel.label "Annulla">
 <!ENTITY downloadPause.label "Pausa">
 <!ENTITY downloadResume.label "Riprendi">
