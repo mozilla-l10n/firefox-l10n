@@ -284,18 +284,10 @@
 <!ENTITY col.dateadded.label     "הוספה">
 <!ENTITY col.lastmodified.label  "שינוי אחרון">
 
-<!-- ### ENTITY search.allBookmarks.label                 "כל הסימניות" -->
-<!-- ### ENTITY search.allBookmarks.accesskey             "כ" -->
 <!ENTITY search.scopeFolder.label                  "תיקייה נבחרת">
 <!ENTITY search.scopeFolder.accesskey              "ת">
 <!ENTITY search.scopeBookmarks.label               "סימניות">
 <!ENTITY search.scopeBookmarks.accesskey           "ס">
-<!-- ### ENTITY search.scopeAll.label                     "כל הסימניות" --> 
-<!-- ### ENTITY search.scopeAll.accesskey                 "כ" -->
-<!-- ### ENTITY search.scopeMenu.label                    "תפריט סימניות" -->
-<!-- ### ENTITY search.scopeMenu.accesskey                "ת" -->
-<!-- ### ENTITY search.scopeToolbar.label                 "סרגל כלים סימניות" -->
-<!-- ### ENTITY search.scopeToolbar.accesskey             "ס" -->
 <!ENTITY search.scopeDownloads.label               "הורדות">
 <!ENTITY search.scopeDownloads.accesskey           "ר">
 <!ENTITY search.scopeHistory.label                 "היסטוריה">

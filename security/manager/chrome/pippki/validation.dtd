@@ -7,11 +7,7 @@
 <!ENTITY crl.issuer.org.label "ארגון:">
 <!ENTITY crl.issuer.orgunit.label "יחידה:">
 <!ENTITY edit.button "הגדרות">
-<!-- ### ENTITY pref.validation.title "בדיקת חוקיות" -->
-<!-- ### ENTITY serviceURL.accesskey "S" -->
-<!-- ### ENTITY serviceURL.label "URL שירות:" -->
-<!-- ### ENTITY signingCA.accesskey "R" -->
-<!-- ### ENTITY signingCA.label "חותם התגובה:" -->
+
 <!ENTITY validation.advanced.accesskey "ה">
 <!ENTITY validation.advanced.label "הגדרות">
 <!ENTITY validation.crl.autoupdate.enable.label "אפשר עדכון אוטומטי עבור רשימת ביטולי אישורים זו">
@@ -21,8 +17,7 @@
 <!ENTITY validation.crl.autoupdate.time.label2 "יום(ים) לפני תאריך העדכון הבא">
 <!ENTITY validation.crl.autoupdate.title "העדפות עדכון רשימת ביטולי אישורים אוטומטי">
 <!ENTITY validation.crl.autoupdate.url.label "רשימת ביטולי אישורים תיובא מתוך:">
-<!-- ### ENTITY validation.crl.caption "רשימת ביטולי אישורים" -->
-<!-- ### ENTITY validation.crl.description "השתמש במנהל רשימת ביטולי האישורים לניהול רשימות ביטולי אישורים (CRL) המאוחסנות בבסיס הנתונים של האישורים שלך." -->
+
 <!ENTITY validation.crlautoupdateenabled.label "עדכון אוטומטי">
 <!ENTITY validation.crlautoupdatestatus.label "מצב עדכון אוטומטי">
 <!ENTITY validation.crllastupdate.label "עדכון אחרון">
@@ -31,9 +26,6 @@
 <!ENTITY validation.crlnextupdate.label "עדכון הבא">
 <!ENTITY validation.deletecrl.accesskey "ח">
 <!ENTITY validation.deletecrl.label "מחק">
-<!-- ### ENTITY validation.managecrls.accesskey "M" -->
-<!-- ### ENTITY validation.managecrls.button "נהל רשימות ביטולי אישורים..." -->
-<!-- ### ENTITY validation.ocsp.caption "פרוטוקול מצב אישור מקוון" -->
 
 <!ENTITY validation.updatecrl.accesskey "ע">
 <!ENTITY validation.updatecrl.label "עדכן">
@@ -41,15 +33,3 @@
 
 <!ENTITY  validation.crlmanager.description  "רשימות ביטולי האישורים (CRL) הבאים שמורים במסד הנתונים של האישורים שלך">
 
-<!-- ### ENTITY enableOCSP.label    "השתמש ב־OCSP לאימות התוקף של אישורים" -->
-
-<!-- ### ENTITY enableOCSP.accesskey                     "ה" -->
-<!-- ### ENTITY certOCSP2.label                          "בדוק תוקפם של אישורים אם צויין שרת OCSP" -->
-
-<!-- ### ENTITY certOCSP2.accesskey                      "ב" -->
-<!-- ### ENTITY proxyOCSP2.label                         "בדוק תוקפם של כל האישורים באמצעות שרת ה־OCSP הבא:" -->
-
-<!-- ### ENTITY proxyOCSP2.accesskey                     "ש" -->
-
-<!-- ### ENTITY validation.requireOCSP.description       "כאשר ההתחברות לשרת OCSP נכשלת, התייחס לאישורים כלא תקפים" -->
-<!-- ### ENTITY validation.requireOCSP.accesskey         "כ" -->
