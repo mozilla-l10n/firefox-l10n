@@ -10,24 +10,6 @@
 <!ENTITY  locbar.bookmarks.label        "zo záložiek">
 <!ENTITY  locbar.nothing.label          "žiadne">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "Históriu uchovávať minimálne">
-<!ENTITY  rememberDaysBefore.accesskey  "H">
-<!ENTITY  rememberDaysAfter2.label      "dní">
-
-<!ENTITY  rememberForms.label           "Pamätať si údaje zadávané do formulárov a vyhľadávacieho panela">
-<!ENTITY  rememberForms.accesskey       "f">
-
-<!ENTITY  rememberDownloads.label       "Pamätať si informácie o prevzatých súboroch">
-<!ENTITY  rememberDownloads.accesskey   "m">
-
-
-<!ENTITY  cookies.label                 "Cookies">
 
 <!ENTITY  acceptCookies.label           "Povoliť serverom nastavovať cookies">
 <!ENTITY  acceptCookies.accesskey       "s">
@@ -36,7 +18,7 @@
 <!ENTITY  acceptThirdParty.accesskey    "t">
 
 <!ENTITY  keepUntil.label               "Uchovávať cookies do:">
-<!ENTITY  keepUntil.accesskey           "U">
+<!ENTITY  keepUntil.accesskey           "o">
 
 <!ENTITY  expire.label                  "vypršania platnosti">
 <!ENTITY  close.label                   "ukončenia &brandShortName;u">
@@ -49,16 +31,8 @@
 <!ENTITY  showCookies.accesskey         "c">
 
 
-<!ENTITY  privateData.label             "Súkromné údaje">
-
-<!ENTITY  alwaysClear.label             "Pri ukončení &brandShortName;u vždy odstrániť súkromné údaje">
-<!ENTITY  alwaysClear.accesskey         "r">
-
-<!ENTITY  clearDataSettings.label       "Nastavenia…">
-<!ENTITY  clearDataSettings.accesskey   "a">
-
 <!ENTITY  historyHeader.pre.label          "Uchovávanie histórie:">
-<!ENTITY  historyHeader.pre.accesskey      "o">
+<!ENTITY  historyHeader.pre.accesskey      "U">
 <!ENTITY  historyHeader.remember.label     "Pamätať si históriu prehliadania">
 <!ENTITY  historyHeader.dontremember.label "Nikdy neukladať históriu prehliadania">
 <!ENTITY  historyHeader.custom.label       "Použiť vlastné nastavenia">

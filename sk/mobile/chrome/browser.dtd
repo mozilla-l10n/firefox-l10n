@@ -49,6 +49,35 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "Doplnky">
+<!ENTITY addonsLocal.label         "Vaše doplnky">
+<!ENTITY addonsRepo.label          "Získať doplnky">
+<!ENTITY addonsRecommended.label   "Odporúčané">
+<!ENTITY addonsSearch.label        "Hľadať">
+<!ENTITY addonsSearch.emptytext    "Hľadať doplnky">
+
+<!ENTITY addonOptions.label        "Možnosti">
+<!ENTITY addonEnable.label         "Povoliť">
+<!ENTITY addonDisable.label        "Zakázať">
+<!ENTITY addonInstall.label        "Nainštalovať">
+<!ENTITY addonUninstall.label      "Odinštalovať">
+<!ENTITY addonCancel.label         "Zrušiť">
+
+<!ENTITY downloadsHeader.label     "Preberanie súborov">
+<!ENTITY downloadsSortDate.label   "Dátum">
+<!ENTITY downloadsSortSite.label   "Stránka">
+<!ENTITY downloadsSortName.label   "Názov">
+<!ENTITY downloadsSearch.label     "Hľadať">
+<!ENTITY downloadsSearch.emptytext "Hľadať prevzatý súbor">
+
+<!ENTITY downloadShowPage.label    "Prejsť na stránku">
+<!ENTITY downloadShow.label        "Nájsť súbor">
+<!ENTITY downloadOpen.label        "Otvoriť súbor">
+<!ENTITY downloadCancel.label      "Zrušiť">
+<!ENTITY downloadPause.label       "Pozastaviť">
+<!ENTITY downloadResume.label      "Pokračovať">
+<!ENTITY downloadRetry.label       "Znova">
+
 <!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o svojej identite.">
 <!ENTITY identity.connectedTo "Pripojené k stránke">
 <!-- Localization note (identity.runBy) : This string appears between a
