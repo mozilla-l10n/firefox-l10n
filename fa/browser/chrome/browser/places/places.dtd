@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "ز">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "نشانک‌گذاری این صفحه…">
+<!ENTITY cmd.bookmarkLink.accesskey     "ن">
 <!ENTITY cmd.delete.label               "حذف این صفحه">
 <!ENTITY cmd.delete.accesskey           "ح">
 <!ENTITY cmd.deleteDomainData.label     "فراموش کردن این وب‌گاه">
