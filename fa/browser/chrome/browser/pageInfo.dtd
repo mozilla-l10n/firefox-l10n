@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "مجوزها">
 <!ENTITY  permTab.accesskey     "م">
 <!ENTITY  permUseDefault        "استفاده از مقدار پیش‌فرض">
+<!ENTITY  permAskAlways         "هر بار پرسیده شود">
 <!ENTITY  permAllow             "اجازه دادن">
 <!ENTITY  permAllowSession      "اجازه دادن برای نشست">
 <!ENTITY  permBlock             "باز داشتن">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "باز کردن پنجره‌های واشو">
 <!ENTITY  permCookie            "ایجاد کوکی">
 <!ENTITY  permInstall           "نصب ضمیمه یا تم">
+<!ENTITY  permGeo               "به اشتراک گذاشتن موقعیت مکانی">
 
 <!ENTITY  securityTab           "امنیت">
 <!ENTITY  securityTab.accesskey "ا">
