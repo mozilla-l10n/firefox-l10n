@@ -53,6 +53,7 @@
 <!ENTITY addonInstall.label "Установить">
 <!ENTITY addonUninstall.label "Удалить">
 <!ENTITY addonCancel.label "Отмена">
+<!ENTITY addonShowPage.label "Перейти к странице">
 <!ENTITY downloadsHeader.label "Загрузки">
 <!ENTITY downloadsSortDate.label "Дата">
 <!ENTITY downloadsSortSite.label "Сайт">
@@ -60,8 +61,8 @@
 <!ENTITY downloadsSearch.label "Поиск">
 <!ENTITY downloadsSearch.emptytext "Поиск загруженного файла">
 <!ENTITY downloadShowPage.label "Перейти к странице">
-<!ENTITY downloadShow.label "Найти файл">
-<!ENTITY downloadOpen.label "Открыть файл">
+<!ENTITY downloadShow2.label "Найти">
+<!ENTITY downloadOpen2.label "Открыть">
 <!ENTITY downloadCancel.label "Отмена">
 <!ENTITY downloadPause.label "Приостановить">
 <!ENTITY downloadResume.label "Возобновить">
