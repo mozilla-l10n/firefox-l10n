@@ -197,7 +197,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "جست‌وجو در نشانک‌ها و تاریخچه">
 <!ENTITY urlbar.bookmarkhistory.emptyText "جست‌وجو در نشانک‌ها و تاریخچه">
 <!ENTITY urlbar.bookmark.emptyText    "جست‌وجو در نشانک‌ها">
 <!ENTITY urlbar.history.emptyText     "جست‌وجو در تاریخچه">
