@@ -47,7 +47,7 @@
 <!ENTITY closeWindow.accesskey "d">
 <!ENTITY bookmarksMenu.label "Segnalibri">
 <!ENTITY bookmarksMenu.accesskey "e">
-<!ENTITY bookmarkThisPageCmd.label "Aggiungi pagina nei segnalibri…">
+<!ENTITY bookmarkThisPageCmd.label "Aggiungi pagina ai segnalibri…">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abbonati a questa pagina…">
@@ -202,7 +202,7 @@
 <!ENTITY viewBGImageCmd.accesskey "V">
 <!ENTITY setDesktopBackgroundCmd.label "Imposta come sfondo del desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "k">
-<!ENTITY bookmarkPageCmd2.label "Aggiungi pagina nei segnalibri…">
+<!ENTITY bookmarkPageCmd2.label "Aggiungi pagina ai segnalibri…">
 <!ENTITY bookmarkPageCmd2.accesskey "b">
 <!ENTITY bookmarkThisLinkCmd.label "Aggiungi link nei segnalibri…">
 <!ENTITY bookmarkThisLinkCmd.accesskey "A">
