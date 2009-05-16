@@ -62,6 +62,7 @@
 <!ENTITY addonInstall.label        "Ynstallearje">
 <!ENTITY addonUninstall.label      "De-ynstallearje">
 <!ENTITY addonCancel.label         "Annulearje">
+<!ENTITY addonShowPage.label       "Gean nei side">
 
 <!ENTITY downloadsHeader.label     "Ynladen bestannen">
 <!ENTITY downloadsSortDate.label   "Per datum">
@@ -71,8 +72,8 @@
 <!ENTITY downloadsSearch.emptytext "Sykje nei ynladen bestân">
 
 <!ENTITY downloadShowPage.label    "Gean nei side">
-<!ENTITY downloadShow.label        "Fyn bestân">
-<!ENTITY downloadOpen.label        "Iepen bestân">
+<!ENTITY downloadShow2.label        "Fyn">
+<!ENTITY downloadOpen2.label        "Iepenje">
 <!ENTITY downloadCancel.label      "Annulearje">
 <!ENTITY downloadPause.label       "Pause">
 <!ENTITY downloadResume.label      "Fierder">
