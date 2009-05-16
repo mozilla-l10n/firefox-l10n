@@ -18,13 +18,7 @@
 <!ENTITY helpForIEUsers.label     "اینترنت اکسپلورر مایکروسافت">
 <!ENTITY helpForIEUsers.accesskey "ک">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "یادداشت‌های انتشار">
 <!ENTITY helpReleaseNotes.accesskey     "ی">
@@ -32,16 +26,13 @@
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "خدمات">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; را مخفی کن">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "دیگر برنامه‌ها را مخفی کن">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "نشان دادن همه">
