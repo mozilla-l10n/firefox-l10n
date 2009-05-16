@@ -24,7 +24,7 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detaljer">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
 <!ENTITY historySection.label         "Historikk">
 <!ENTITY dataSection.label            "Data">
