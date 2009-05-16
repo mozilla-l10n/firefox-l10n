@@ -62,6 +62,7 @@
 <!ENTITY addonInstall.label        "Nainštalovať">
 <!ENTITY addonUninstall.label      "Odinštalovať">
 <!ENTITY addonCancel.label         "Zrušiť">
+<!ENTITY addonShowPage.label       "Prejsť na stránku">
 
 <!ENTITY downloadsHeader.label     "Preberanie súborov">
 <!ENTITY downloadsSortDate.label   "Dátum">
@@ -71,8 +72,8 @@
 <!ENTITY downloadsSearch.emptytext "Hľadať prevzatý súbor">
 
 <!ENTITY downloadShowPage.label    "Prejsť na stránku">
-<!ENTITY downloadShow.label        "Nájsť súbor">
-<!ENTITY downloadOpen.label        "Otvoriť súbor">
+<!ENTITY downloadShow2.label       "Nájsť">
+<!ENTITY downloadOpen2.label       "Otvoriť">
 <!ENTITY downloadCancel.label      "Zrušiť">
 <!ENTITY downloadPause.label       "Pozastaviť">
 <!ENTITY downloadResume.label      "Pokračovať">
