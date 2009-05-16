@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Adicionar página aos marcadores…">
+<!ENTITY cmd.bookmarkLink.accesskey     "A">
 <!ENTITY cmd.delete.label               "Eliminar esta página">
 <!ENTITY cmd.delete.accesskey           "E">
 <!ENTITY cmd.deleteDomainData.label     "Esquecer este Sítio">
