@@ -236,7 +236,7 @@
 <!ENTITY openFrameCmd.accesskey       "پ">
 <!ENTITY openFrameCmdInTab.label      "باز کردن چارچوب در زبانهٔ جدید">
 <!ENTITY openFrameCmdInTab.accesskey  "ز">
-<!ENTITY showOnlyThisFrameCmd.label     "نمایش فقط همین چارچوب">
+<!ENTITY showOnlyThisFrameCmd.label     "فقط نمایش همین چارچوب">
 <!ENTITY showOnlyThisFrameCmd.accesskey "چ">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "بازآوردن چارچوب">
