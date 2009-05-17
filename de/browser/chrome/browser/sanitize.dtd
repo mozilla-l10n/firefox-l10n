@@ -2,7 +2,7 @@
 <!ENTITY sanitizeDialog2.title         "Neueste Chronik löschen">
 
 <!ENTITY sanitizeItems.label          "Folgende Daten jetzt löschen:">
-<!ENTITY clearDataSettings2.label     "Wenn &brandShortName; beendet wird, folgende Daten automatisch löschen:">
+<!ENTITY clearDataSettings2.label     "Wenn &brandShortName; beendet wird, folgende Daten automatisch löschen:"> 
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
