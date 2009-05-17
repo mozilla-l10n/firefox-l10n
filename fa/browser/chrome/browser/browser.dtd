@@ -100,7 +100,7 @@
 
 <!ENTITY bookmarksButton.label          "نشانک‌ها">
 <!ENTITY bookmarksButton.tooltip        "نمایش نشانک‌ها">
-<!ENTITY bookmarksButton.accesskey  "چ">
+<!ENTITY bookmarksButton.accesskey  "ن">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
