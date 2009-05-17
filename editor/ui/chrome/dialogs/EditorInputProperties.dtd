@@ -50,7 +50,7 @@
 <!ENTITY image.value "Bilde">
 <!ENTITY button.value "Knapp">
 
-<!ENTITY InputSettings.label "Feltinstillinger">
+<!ENTITY InputSettings.label "Feltinnstillinger">
 <!ENTITY InputName.label "Feltnavn:">
 <!ENTITY InputName.accesskey "F">
 <!ENTITY GroupName.label "Gruppenavn:">
