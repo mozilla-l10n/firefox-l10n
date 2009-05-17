@@ -108,9 +108,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Sivuston identiteetti">
-<!ENTITY  securityView.identity.owner    "Omistaja: ">
-<!ENTITY  securityView.identity.domain   "WWW-sivusto: ">
-<!ENTITY  securityView.identity.verifier "Varmentaja: ">
+<!ENTITY  securityView.identity.owner    "Omistaja:">
+<!ENTITY  securityView.identity.domain   "WWW-sivusto:">
+<!ENTITY  securityView.identity.verifier "Varmentaja:">
 
 <!ENTITY  securityView.privacy.header                   "Tietosuoja ja sivuhistoria">
 <!ENTITY  securityView.privacy.history                  "Onko sivustolla vierailtu ennen tätä päivää?">
