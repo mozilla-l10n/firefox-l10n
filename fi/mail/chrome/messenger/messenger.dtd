@@ -200,6 +200,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey  "S">
 <!ENTITY ignoredThreadsCmd.label  "Ohitetut viestiketjut">
 <!ENTITY ignoredThreadsCmd.accesskey  "O">
+
 <!ENTITY headersMenu.label  "Otsaketiedot">
 <!ENTITY headersMenu.accesskey  "O">
 <!ENTITY headersAllCmd.label  "Täydelliset">
@@ -214,6 +215,16 @@
 <!ENTITY bodySanitized.accesskey  "Y">
 <!ENTITY bodyAsPlaintext.label  "Pelkkä teksti">
 <!ENTITY bodyAsPlaintext.accesskey  "P">
+
+<!ENTITY bodyMenuFeed.label "Syötteen viesti muodossa">
+<!ENTITY bodyMenuFeed.accesskey "S">
+<!ENTITY viewFeedWebPage.label "Verkkosivu">
+<!ENTITY viewFeedWebPage.accesskey "V">
+<!ENTITY viewFeedSummary.label "Yhteenveto">
+<!ENTITY viewFeedSummary.accesskey "Y">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Oletusmuotoilu">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "O">
+
 <!ENTITY viewAttachmentsInlineCmd.label  "Näytä liitteet viestiin sisällytettynä">
 <!ENTITY viewAttachmentsInlineCmd.accesskey  "N">
 
@@ -300,6 +311,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey  "T">
 <!ENTITY startPageCmd.label  "Aloitussivu">
 <!ENTITY startPageCmd.accesskey  "A">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label  "Viesti">
 <!ENTITY msgMenu.accesskey  "V">
 <!ENTITY newMsgCmd.label  "Uusi viesti">
@@ -397,6 +410,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label  "Avaa viesti">
 <!ENTITY openMessageWindowCmd.accesskey  "i">
 <!ENTITY openMessageWindowCmd.key  "o">
+<!ENTITY openFeedMessage.label "Avaa syötteen viesti">
+<!ENTITY openFeedMessage.accesskey "A">
+<!ENTITY openFeedWebPageInWindow.label "Verkkosivu uuteen ikkunaan">
+<!ENTITY openFeedWebPageInWindow.accesskey "V">
+<!ENTITY openFeedSummaryInWindow.label "Yhteenveto uuteen ikkunaan">
+<!ENTITY openFeedSummaryInWindow.accesskey "Y">
+<!ENTITY openFeedWebPageInMP.label "Vaihda viestipaneelissa verkkosivun ja yhteenvedon kesken">
+<!ENTITY openFeedWebPageInMP.accesskey "V">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label  "Ikkuna">
@@ -656,8 +677,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label  "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label  "Viestiin linkitettyjä kuvia ei ladattu tietosuojan takia.">
-<!ENTITY loadRemoteContentButton2.label  "Lataa kuvat nyt">
+<!ENTITY remoteContentMessage2.label "Viestiin linkitettyä sisältöä ei ladattu tietosuojan takia.">
+<!ENTITY loadRemoteContentButton3.label "Lataa linkitetty sisältö">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Tämä viesti voi olla huijaus">

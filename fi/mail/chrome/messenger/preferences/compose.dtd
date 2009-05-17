@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label           "Muokkaa viestimuodon lähetysasetuksia:">
 <!ENTITY sendOptions.label                      "Lähetysasetukset…">
 <!ENTITY sendOptions.accesskey                  "L">
+
+<!ENTITY attachmentReminder.label              "Tarkista puuttuuko viestistä liitetiedosto">
+<!ENTITY attachmentReminder.accesskey          "p">
+<!ENTITY attachmentReminderOptions.label       "Avainsanat…">
+<!ENTITY attachmentReminderOptions.accesskey   "A">

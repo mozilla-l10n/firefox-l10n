@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "Liitteen muistuttamisen avainsanat">
+<!ENTITY attachKeywordText.label          "&brandShortName; muistuttaa sinua puuttuvista liitetiedostoista jos olet lähettämässä sähköpostia, jossa on mainittu jokin näistä avainsanoista, mutta ei liitetiedostoja.">
+<!ENTITY addKeywordButton.label           "Lisää">
+<!ENTITY addKeywordButton.accesskey       "L">
+<!ENTITY editKeywordButton.label          "Muokkaa">
+<!ENTITY editKeywordButton.accesskey      "M">
+<!ENTITY removeKeywordButton.label        "Poista">
+<!ENTITY removeKeywordButton.accesskey    "P">

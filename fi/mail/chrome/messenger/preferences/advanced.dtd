@@ -8,9 +8,11 @@
 
 <!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
 <!ENTITY enableGlodaSearch.accesskey   "O">
-<!ENTITY systemDefaults.label          "Järjestelmän oletus">
+<!ENTITY systemIntegration.label       "Järjestelmään liittäminen">
 <!ENTITY alwaysCheckDefault.label      "Tarkista aina onko &brandShortName; järjestelmän oletussähköpostiohjelma">
 <!ENTITY alwaysCheckDefault.accesskey  "T">
+<!ENTITY searchIntegration.label       "Salli &searchIntegration.engineName;:n etsiä viesteistä">
+<!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkNow.label                "Tarkista heti">
 <!ENTITY checkNow.accesskey            "h">
 <!ENTITY configEditDesc.label          "Kaikkien asetusten muokkaus">
