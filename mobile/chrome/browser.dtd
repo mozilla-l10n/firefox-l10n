@@ -46,13 +46,14 @@
 <!ENTITY addonsRepo.label "Conseguir complementos">
 <!ENTITY addonsRecommended.label "Recomendados">
 <!ENTITY addonsSearch.label "Buscar">
-<!ENTITY addonsSearch.emptytext "Buscar complementos">
+<!ENTITY addonsSearch.emptytext "Buscar en complementos">
 <!ENTITY addonOptions.label "Opciones">
 <!ENTITY addonEnable.label "Activar">
 <!ENTITY addonDisable.label "Desactivar">
 <!ENTITY addonInstall.label "Instalar">
 <!ENTITY addonUninstall.label "Desinstalar">
 <!ENTITY addonCancel.label "Cancelar">
+<!ENTITY addonShowPage.label "Ir a la página">
 <!ENTITY downloadsHeader.label "Descargas">
 <!ENTITY downloadsSortDate.label "Fecha">
 <!ENTITY downloadsSortSite.label "Sitio">
@@ -60,8 +61,8 @@
 <!ENTITY downloadsSearch.label "Buscar">
 <!ENTITY downloadsSearch.emptytext "Buscar un archivo descargado">
 <!ENTITY downloadShowPage.label "Ir a la página">
-<!ENTITY downloadShow.label "Buscar archivo">
-<!ENTITY downloadOpen.label "Abrir archivo">
+<!ENTITY downloadShow2.label "Buscar">
+<!ENTITY downloadOpen2.label "Abrir">
 <!ENTITY downloadCancel.label "Cancelar">
 <!ENTITY downloadPause.label "Pausa">
 <!ENTITY downloadResume.label "Continuar">

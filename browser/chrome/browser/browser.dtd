@@ -80,7 +80,7 @@
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
-<!ENTITY bookmarksButton.accesskey "m">
+<!ENTITY bookmarksButton.accesskey "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
