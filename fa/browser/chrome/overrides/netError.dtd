@@ -29,7 +29,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "حالت منفصل">
-<!ENTITY netOffline.longDesc "<ul> <li>از منوی «پرونده» گزینهٔ «کارکردن منفصل» را غیرفعال نمایید و دوباره سعی کنید.</li> </ul>">
+<!ENTITY netOffline.longDesc "<ul> <li>از منوی «پرونده» گزینهٔ «کار منفصل» را غیرفعال نمایید و دوباره سعی کنید.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
 <!ENTITY contentEncodingError.longDesc "<ul>
