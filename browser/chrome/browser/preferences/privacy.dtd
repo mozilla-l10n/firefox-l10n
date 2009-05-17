@@ -100,7 +100,7 @@
 <!ENTITY  rememberDownload.accesskey     "d">
 
 <!ENTITY  rememberSearchForm.label       "Säilytä lomakkeiden ja hakupalkin tiedot">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "o">
 
 <!ENTITY  clearOnClose.label             "Poista historiatiedot kun &brandShortName; suljetaan">
 <!ENTITY  clearOnClose.accesskey         "k">
