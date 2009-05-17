@@ -12,7 +12,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ausblenden">
 <!ENTITY editBookmarkOverlay.tags.label                      "Schlagwörter:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "S">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Schlagwörter mit Kommata voneinander trennen">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Schlagwörter mit Kommata trennen">
 <!ENTITY editBookmarkOverlay.description.label               "Beschreibung:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "B">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Schlüsselwort:">
