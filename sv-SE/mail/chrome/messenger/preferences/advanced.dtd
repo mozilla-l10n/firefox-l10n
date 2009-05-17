@@ -8,9 +8,11 @@
 
 <!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
-<!ENTITY systemDefaults.label          "Systeminställningar">
+<!ENTITY systemIntegration.label       "Systemintegration">
 <!ENTITY alwaysCheckDefault.label      "Kontrollera vid start om &brandShortName; är standardklient för e-post">
 <!ENTITY alwaysCheckDefault.accesskey  "o">
+<!ENTITY searchIntegration.label       "Låt &searchIntegration.engineName; söka igenom meddelanden">
+<!ENTITY searchIntegration.accesskey   "L">
 <!ENTITY checkNow.label                "Kontrollera nu">
 <!ENTITY checkNow.accesskey            "n">
 <!ENTITY configEditDesc.label          "Avancerade inställningar">
