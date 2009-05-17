@@ -54,7 +54,7 @@
 <!ENTITY permPopup "Abrir ventanas emergentes">
 <!ENTITY permCookie "Establecer cookies">
 <!ENTITY permInstall "Instalar extensiones o temas">
-<!ENTITY permGeo "Compartir localización">
+<!ENTITY permGeo "Compartir ubicación">
 <!ENTITY securityTab "Seguridad">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "Información de seguridad para esta página">

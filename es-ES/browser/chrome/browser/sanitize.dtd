@@ -37,5 +37,5 @@
 <!ENTITY itemSitePreferences.label "Preferencias del sitio">
 <!ENTITY itemSitePreferences.accesskey "S">
 <!ENTITY sanitizeEverythingUndoWarning "Esta acción no puede ser deshecha.">
-<!ENTITY dialog.width "32em">
+<!ENTITY dialog.width "28em">
 <!ENTITY column.width "14em">
