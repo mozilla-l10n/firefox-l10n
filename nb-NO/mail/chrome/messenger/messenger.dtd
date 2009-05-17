@@ -432,7 +432,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Utvidelser">
 <!ENTITY addons.accesskey "U">
-<!ENTITY activitymanager.label "Aktivitet">
+<!ENTITY activitymanager.label "Aktiviteter">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY filtersCmd.label "Meldingsfiltre …">
 <!ENTITY filtersCmd.accesskey "M">

@@ -36,7 +36,7 @@
 
 <!ENTITY windowTitle.label "Etikettegenskaper">
 
-<!ENTITY Settings.label "Instillinger">
+<!ENTITY Settings.label "Innstillinger">
 <!ENTITY Settings.accesskey "S">
 
 <!ENTITY EditLabelText.label "Rediger tekst:">
