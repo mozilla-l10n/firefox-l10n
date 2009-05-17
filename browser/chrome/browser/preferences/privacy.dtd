@@ -61,7 +61,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "anlegen">
 <!ENTITY  historyHeader.dontremember.label "niemals anlegen">
-<!ENTITY  historyHeader.custom.label       "nach benutzerdefinierte Einstellungen anlegen">
+<!ENTITY  historyHeader.custom.label       "nach benutzerdefinierten Einstellungen anlegen">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; wird besuchte Seiten, Formulardaten, eingegebene Suchbegriffe und Cookies speichern."> 
