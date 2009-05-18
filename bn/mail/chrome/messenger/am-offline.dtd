@@ -29,6 +29,6 @@
 <!ENTITY offlineSelectNntp.label "অফলাইনে ব্যবহারের জন্য নিউজগ্রুপ নির্বাচন করুন... (S)">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "উন্নত... (A)">
-<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY offlineImapAdvancedOffline.accesskey "a">
 <!ENTITY syncGroupTitle.label "বার্তা সিনক্রোনাইজ">
 <!ENTITY diskspaceGroupTitle.label "ডিস্কের জায়গা">

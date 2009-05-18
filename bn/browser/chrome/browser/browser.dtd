@@ -178,7 +178,7 @@
 <!ENTITY privateBrowsingCmd.stop.accesskey "P">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 
-<!ENTITY viewMenu.label "দৃশ্যপট (V)">
+<!ENTITY viewMenu.label "প্রদর্শন (V)">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "টুলবার (T)">
 <!ENTITY viewToolbarsMenu.accesskey "T">

@@ -35,33 +35,33 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY validation.crlmanager.label "CRL পরিচালনা করুন">
-<!ENTITY validation.crlmanager.description "সার্টিফিকেট প্রত্যাহার এর এই লিস্টগুলো (CRL) আপনার সার্টিফিকেট ডাটাবেস-এ স্টোর করা হয়েছেঃ">
+<!ENTITY validation.crlmanager.label "CRL ব্যবস্থাপনা">
+<!ENTITY validation.crlmanager.description "সার্টিফিকেট প্রত্যাহার এর এই লিস্টগুলো (CRL) আপনার সার্টিফিকেট ডেটাবেসে সংরক্ষণ করা হয়েছে:">
 <!ENTITY validation.crlname.label "নাম">
 <!ENTITY validation.crllastupdate.label "সর্বশেষ আপডেট">
 <!ENTITY validation.crlnextupdate.label "পরবর্তী আপডেট">
-<!ENTITY validation.crlautoupdateenabled.label "অটো আপডেট">
-<!ENTITY validation.crlautoupdatestatus.label "অটো আপডেট অবস্থা">
-<!ENTITY validation.deletecrl.label "মুছে ফেলুন (D)">
+<!ENTITY validation.crlautoupdateenabled.label "স্বয়ংক্রিয় আপডেট">
+<!ENTITY validation.crlautoupdatestatus.label "স্বয়ংক্রিয় আপডেটের অবস্থা">
+<!ENTITY validation.deletecrl.label "অপসারণ (D)">
 <!ENTITY validation.deletecrl.accesskey "D">
-<!ENTITY validation.updatecrl.label "আপডেট করুন (U)">
+<!ENTITY validation.updatecrl.label "আপডেট  (U)">
 <!ENTITY validation.updatecrl.accesskey "U">
-<!ENTITY validation.advanced.label "সেটিং (S)">
+<!ENTITY validation.advanced.label "সেটিংসমূহ (S)">
 <!ENTITY validation.advanced.accesskey "S">
 
-<!ENTITY validation.crl.autoupdate.title "স্বয়ংক্রিয় CRL আপডেট-র পছন্দসমূহ">
-<!ENTITY validation.crl.autoupdate.enable.label "এই CRL এর জন্য স্বয়ংক্রিয় আপডেট স্বক্রিয় করুন">
+<!ENTITY validation.crl.autoupdate.title "স্বয়ংক্রিয় CRL আপডেটের পছন্দসমূহ">
+<!ENTITY validation.crl.autoupdate.enable.label "এই CRL এর জন্য স্বয়ংক্রিয় আপডেট স্বক্রিয় করা হবে">
 <!ENTITY validation.crl.autoupdate.time.label1 "আপডেট">
-<!ENTITY validation.crl.autoupdate.time.label2 "পরবর্তী আপডেট-র এর আগে দিন বাকি আছে">
+<!ENTITY validation.crl.autoupdate.time.label2 "পরবর্তী আপডেটের আগে দিন বাকি আছে">
 <!ENTITY validation.crl.autoupdate.freq.label1 "আপডেট করা হবে প্রতি">
 <!ENTITY validation.crl.autoupdate.freq.label2 "দিন">
-<!ENTITY validation.crl.autoupdate.url.label "CRL ইম্পোর্ট করা হবেঃ">
+<!ENTITY validation.crl.autoupdate.url.label "যেখান থেকে CRL ইম্পোর্ট করা হবে:">
 <!ENTITY crl.import.status.title "CRL ইম্পোর্ট অবস্থা">
 <!ENTITY crl.import.success.message "সার্টিফিকেট প্রত্যাহার এর এই লিস্টটি (CRL) সফলভাবে ইম্পোর্ট করা হয়েছে।">
-<!ENTITY crl.issuer.label "CRL ইস্যু করেছেনঃ">
-<!ENTITY crl.issuer.org.label "অর্গানাইজেশনঃ">
-<!ENTITY crl.issuer.orgunit.label "ইউনিটঃ">
-<!ENTITY crl.import.nextupdate.label "পরবর্তী আপডেট এর তারিখঃ">
-<!ENTITY crl.autoupdate.fail.cnt.label "পুর্ববর্তী ধারাবাহিক আপডেট অসফলঃ">
-<!ENTITY crl.autoupdate.fail.reason.label "সর্বশেষ অসফল আপডেট-র বিবরনঃ">
-<!ENTITY edit.button "সেটিং">
+<!ENTITY crl.issuer.label "CRL ইস্যু করেছেন:">
+<!ENTITY crl.issuer.org.label "সংস্থা:">
+<!ENTITY crl.issuer.orgunit.label "ইউনিট:">
+<!ENTITY crl.import.nextupdate.label "পরবর্তী আপডেট এর তারিখ:">
+<!ENTITY crl.autoupdate.fail.cnt.label "পুর্ববর্তী ধারাবাহিক অসফল আপডেট:">
+<!ENTITY crl.autoupdate.fail.reason.label "সর্বশেষ অসফল আপডেটের বিবরণ:">
+<!ENTITY edit.button "সেটিংসমূহ">

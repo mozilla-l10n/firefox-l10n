@@ -1,25 +1,25 @@
-<!ENTITY engineManager.title "সার্চ ইঞ্জিনের তালিকা পরিচালনা">
+<!ENTITY engineManager.title "অনুসন্ধান ইঞ্জিনের তালিকা পরিচালনা">
 <!ENTITY engineManager.style "min-width: 35em;">
-<!ENTITY engineManager.intro "নিম্নলিখিত সার্চ ইঞ্জিনগুলি ইনস্টল করা হয়েছে:">
+<!ENTITY engineManager.intro "নিম্নলিখিত সার্চ ইঞ্জিনগুলি ইনস্টল করা আছে:">
 
 <!ENTITY columnLabel.name "নাম">
-<!ENTITY columnLabel.keyword "নির্দেশক শব্দ">
+<!ENTITY columnLabel.keyword "কীওয়ার্ড">
 <!-- Buttons -->
 
 <!ENTITY up.label "উপরে স্থানান্তর (U)">
 <!ENTITY up.accesskey "U">
 <!ENTITY dn.label "নীচে স্থানান্তর (D)">
 <!ENTITY dn.accesskey "D">
-<!ENTITY remove.label "মুছে ফেলুন (R)">
+<!ENTITY remove.label "সরিয়ে ফেলুন (R)">
 <!ENTITY remove.accesskey "R">
-<!ENTITY edit.label "নির্দেশক শব্দ সম্পাদনা করুন… (t)">
+<!ENTITY edit.label "কীওয়ার্ড সম্পাদনা… (T)">
 <!ENTITY edit.accesskey "t">
 
-<!ENTITY addEngine.label "অতিরিক্ত সার্চ ইঞ্জিন প্রাপ্ত করুন... (a)">
+<!ENTITY addEngine.label "আরও ইঞ্জিন অনুসন্ধান... (A)">
 <!ENTITY addEngine.accesskey "A">
 
-<!ENTITY enableSuggest.label "অনুসন্ধানের প্রস্তাবিত ফলাফল প্রদর্শন করা হবে (S)">
+<!ENTITY enableSuggest.label "অনুসন্ধানে পরামর্শ প্রদান করা হবে (S)">
 <!ENTITY enableSuggest.accesskey "S">
 
-<!ENTITY restoreDefaults.label "ডিফল্ট মান পুনরায় স্থাপন করা হবে (e)">
+<!ENTITY restoreDefaults.label "ডিফল্ট মান পুনরায় স্থাপন করা হবে (E)">
 <!ENTITY restoreDefaults.accesskey "e">

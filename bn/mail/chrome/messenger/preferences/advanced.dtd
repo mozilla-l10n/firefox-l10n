@@ -8,9 +8,11 @@
 
 <!ENTITY enableGlodaSearch.label "গ্লোবাল অনুসন্ধান এবং সূচীকারক সক্রিয় করুন (I)">
 <!ENTITY enableGlodaSearch.accesskey "I">
-<!ENTITY systemDefaults.label "সিস্টেম ডিফল্ট">
+<!ENTITY systemIntegration.label "System Integration">
 <!ENTITY alwaysCheckDefault.label "স্টার্টআপের সময় সর্বদা পরীক্ষা করা হবে যে &brandShortName; ডিফল্ট মেইল ক্লায়েন্ট কিনা">
 <!ENTITY alwaysCheckDefault.accesskey "A">
+<!ENTITY searchIntegration.label "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey "S">
 <!ENTITY checkNow.label "এখন পরীক্ষা করুন (N)">
 <!ENTITY checkNow.accesskey "N">
 <!ENTITY configEditDesc.label "উন্নত কনফিগারেশন">

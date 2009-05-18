@@ -200,6 +200,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "উপেক্ষাকৃত থ্রেড (I)">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "হেডার (H)">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "সকল (A)">
@@ -214,6 +215,16 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "সরল টেক্সট (P)">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+
+<!ENTITY bodyMenuFeed.label "Feed Message Body As">
+<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Summary">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+
 <!ENTITY viewAttachmentsInlineCmd.label "সংযুক্তি ইনলাইন প্রদর্শন (A)">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 <!-- LOCALIZATION NOTE :
@@ -301,6 +312,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY startPageCmd.label "মেইল শুরুর পাতা (S)">
 <!ENTITY startPageCmd.accesskey "S">
+<!-- Message Menu -->
+
 <!ENTITY msgMenu.label "বার্তা (M)">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "নতুন বার্তা (N)">
@@ -398,6 +411,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "বার্তা খুলুন (O)">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Open Feed Message">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "উইন্ডো">
@@ -657,8 +678,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
 
-<!ENTITY remoteContentMessage1.label "আপনার গোপনীয়তা রক্ষা করতে দূরবর্তী ছবি ব্লক করে দেয়া হয়েছে।">
-<!ENTITY loadRemoteContentButton2.label "ছবি এখন প্রদর্শন করা হবে">
+<!ENTITY remoteContentMessage2.label "To protect your privacy, &brandShortName; has blocked remote content in this message.">
+<!ENTITY loadRemoteContentButton3.label "Show Remote Content">
 <!-- Phishing Bar -->
 
 <!ENTITY phishingBarMessage2.label "এই বার্তাটি একটি স্ক্যাম হতে পারে।">

@@ -79,13 +79,13 @@
 <!ENTITY ScreenName.label "প্রদর্শন নাম (S):">
 <!ENTITY ScreenName.accesskey "S">
 
-<!ENTITY allowRemoteContent.label "দূরবর্তী ছবি অনুমোদিত হবে (r)।">
-<!ENTITY allowRemoteContent.accesskey "r">
-<!ENTITY allowRemoteContent.tooltip "HTML বার্তায় দূরবর্তী উৎস থেকে 
-ছবি যোগ করা সম্ভব। এরকম একটি বার্তা খোলা হলে 
-এই বাহ্যিক উৎসের একটি সংযোগ খুলবে। এতে যে বার্তাটি 
-পড়া হচ্ছে তাকে ট্র্যাক করা হতে পারে। এই বক্সে টিক দিলে এরকম 
-বাহ্যিক উৎস থেকে HTML বার্তায় ছবি প্রদর্শন করা হবে।">
+<!ENTITY allowRemoteContent1.label "Allow remote content.">
+<!ENTITY allowRemoteContent1.accesskey "r">
+<!ENTITY allowRemoteContent1.tooltip "In HTML messages it is possible to
+embed content from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+content in HTML messages from this contact.">
 
 <!ENTITY WorkPhone.label "অফিস (k):">
 <!ENTITY WorkPhone.accesskey "k">

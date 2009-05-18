@@ -1,13 +1,13 @@
 <!ENTITY securityWarnings.title "নিরাপত্তা সংক্রান্ত সতর্কবার্তা">
 
-<!ENTITY security.warn_when "সতর্কতাসূচক ডায়লগ প্রদর্শিত হবে:">
-<!ENTITY security.warn_entering_secure.label "আমি এই মূহুর্তে একটি এনক্রিপ্ট করা পৃষ্ঠা প্রদর্শন করতে যাচ্ছি। ( v)">
+<!ENTITY security.warn_when "সতর্কতাসূচক ডায়লগ প্রদর্শিত হবে যখন:">
+<!ENTITY security.warn_entering_secure.label "আমি একটি এনক্রিপ্ট করা পেজ প্রদর্শন করতে যাচ্ছি। (V)">
 <!ENTITY security.warn_entering_secure.accesskey "v">
-<!ENTITY security.warn_entering_weak.label "আমি এই মূহুর্তে একটি নিম্ন মানের এনক্রিপশন ব্যবহারকারী পৃষ্ঠা প্রদর্শন করতে যাচ্ছি। (g)">
+<!ENTITY security.warn_entering_weak.label "আমি একটি নিম্নমানের এনক্রিপশন ব্যবহারকারী পৃষ্ঠা প্রদর্শন করতে যাচ্ছি। (G)">
 <!ENTITY security.warn_entering_weak.accesskey "g">
-<!ENTITY security.warn_leaving_secure.label "এনক্রিপ্ট করা পৃষ্ঠা ছেড়ে এনক্রিপশন-বিহীন পৃষ্ঠায় যাওয়ার পূর্বে। (l)">
+<!ENTITY security.warn_leaving_secure.label "আমি এনক্রিপ্ট করা পৃষ্ঠা ছেড়ে এনক্রিপশনবিহীন পৃষ্ঠায় যাচ্ছি। (L)">
 <!ENTITY security.warn_leaving_secure.accesskey "l">
-<!ENTITY security.warn_submit_insecure.label "এনক্রিপশন-বিহীন অবস্থায় তথ্য জমা করা হলে। (s)">
+<!ENTITY security.warn_submit_insecure.label "আমি এনক্রিপশনবিহীন অবস্থায় তথ্য পাঠাচ্ছি। (S)">
 <!ENTITY security.warn_submit_insecure.accesskey "s">
-<!ENTITY security.warn_viewing_mixed.label "আমি এই মূহুর্তে একটি এনক্রিপশন-বিহীন তথ্য সহ একটি এনক্রিপ্ট করা পৃষ্ঠা প্রদর্শন করতে যাচ্ছি। (u)">
+<!ENTITY security.warn_viewing_mixed.label "আমি একটি এনক্রিপ্ট করা পৃষ্ঠা প্রদর্শন করতে যাচ্ছি যাতে কিছু এনক্রিপশনবিহীন তথ্য আছে। (U)">
 <!ENTITY security.warn_viewing_mixed.accesskey "u">

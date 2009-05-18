@@ -5,11 +5,11 @@
 <!ENTITY reportProduct "প্রোডাক্ট">
 <!ENTITY reportoscpu "অপারেটিং সিস্টেম">
 <!ENTITY reportGecko "Gecko">
-<!ENTITY reportBuildConfig "বিল্ড কনফিগ">
+<!ENTITY reportBuildConfig "বিল্ড কনফিগারেশন">
 <!ENTITY reportUseragent "Useragent">
 <!ENTITY reportLanguage "ভাষা">
-<!ENTITY reportCharset "ক্যার-সেট">
-<!ENTITY reportEmail "ই-মেইল">
+<!ENTITY reportCharset "Charset">
+<!ENTITY reportEmail "ইমেইল">
 <!ENTITY error "ত্রুটির বিবরণ">
 <!ENTITY faultCode "কোড">
 <!ENTITY faultMessage "বার্তা">
