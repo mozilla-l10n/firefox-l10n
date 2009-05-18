@@ -52,3 +52,8 @@
 <!ENTITY sendOptions.label                     "යැවීම් වරණ...">
 <!ENTITY sendOptions.accesskey                 "S">
 
+<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
+
