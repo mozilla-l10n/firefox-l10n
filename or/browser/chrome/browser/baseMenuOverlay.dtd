@@ -12,7 +12,7 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "&brandFullName;ବିଷୟରେ">
 <!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "Help Contents">
+<!ENTITY helpContents.label       "ସହାୟତା ବିଷୟବସ୍ତୁଗୁଡ଼ିକ">
 <!ENTITY helpContents.accesskey   "H">
 <!ENTITY helpContentsMac.label    "&brandShortName; ସହାୟତା">
 <!ENTITY helpForIEUsers.label     "ଇଣ୍ଟରନେଟ ଏକ୍ସପ୍ଲରର୍ ଚାଳକମାନଙ୍କ ପାଇଁ">
@@ -21,12 +21,18 @@
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey           "/">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
 
-<!ENTITY helpMac.commandkey       "?">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY helpReleaseNotes.label         "ପ୍ରକାଶନ ଟିପ୍ପଣୀ">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY updateCmd.label                "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ…">
-
+<!ENTITY updateCmd.accesskey            "o">
 <!ENTITY preferencesCmdMac.label        "ପସନ୍ଦ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

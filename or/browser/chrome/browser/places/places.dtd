@@ -135,18 +135,10 @@
 
 <!ENTITY search.label                              "ଖୋଜନ୍ତୁ:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "କେବଳ ବର୍ତ୍ତମାନର ସଂଗ୍ରହ">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡିକ">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "ବଚ୍ଛିତ ଫୋଲଡର">
 <!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡିକ">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "ତାଲିକା ଚିହ୍ନିତ କରନ୍ତୁ">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "ସାଧନପଟି ଚିହ୍ନିତ କରନ୍ତୁ">
-<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeBookmarks.label               "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "ଆହରଣ">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ଇତିହାସ">

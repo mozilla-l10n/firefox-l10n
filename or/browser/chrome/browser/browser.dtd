@@ -430,12 +430,16 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY downloadMonitor2.tooltip "ଆହରଣ ୱିଣ୍ଡୋକୁ ଖୋଲିବା ପାଇଁ ଦବାନ୍ତୁ">
 
 <!ENTITY ctrlTab.search.emptyText "ଟ୍ୟାବଗୁଡ଼ିକୁ ସନ୍ଧାନ କରନ୍ତୁ">
+<!ENTITY bookmarksSidebarCmd.accesskey  "B">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+<!ENTITY urlbar.emptyText             "ଚିହ୍ନିତ ସ୍ଥାନ ଏବଂ ପୁରୁଣା ତଥ୍ୟ ସନ୍ଧାନ କରନ୍ତୁ">
 
-<!ENTITY bookmarksButton.accesskey  "B">
-<!ENTITY bookmarksCmd.commandkey "b">
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-<!ENTITY feedButton.tooltip           "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ…">
 <!ENTITY historyUndoWindowMenu.label "ସାମ୍ପ୍ରତିକ ବନ୍ଦ ହୋଇଥିବା ୱିଣ୍ଡୋଗୁଡ଼ିକ">
 <!ENTITY newTabButton.tooltip           "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ">
 <!ENTITY urlbar.bookmark.emptyText    "ତିହ୍ନିତ ସ୍ଥାନକୁ ଖୋଜନ୍ତୁ">
