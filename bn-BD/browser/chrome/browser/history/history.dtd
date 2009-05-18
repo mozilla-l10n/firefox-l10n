@@ -1,28 +1,28 @@
-<!ENTITY find.label "অনুসন্ধান (S):">
+<!ENTITY find.label "অনুসন্ধান: (S)">
 <!ENTITY find.accesskey "S">
-<!ENTITY expand.label "প্রসারণ (E)">
+<!ENTITY expand.label "প্রসারিত (E)">
 <!ENTITY expand.accesskey "E">
-<!ENTITY collapse.label "ভেঙ্গে ফেলুন (C)">
+<!ENTITY collapse.label "সংকোচিত (C)">
 <!ENTITY collapse.accesskey "C">
-<!ENTITY byDate.label "তারিখ অনুযায়ী (D)">
+<!ENTITY byDate.label "তারিখ অনুসারে (D)">
 <!ENTITY byDate.accesskey "D">
-<!ENTITY bySite.label "সাইট অনুযায়ী (S)">
+<!ENTITY bySite.label "সাইট অনুসারে (S)">
 <!ENTITY bySite.accesskey "S">
-<!ENTITY view.label "প্রদর্শন (w)">
+<!ENTITY view.label "প্রদর্শন (W)">
 <!ENTITY view.accesskey "w">
-<!ENTITY byMostVisited.label "সর্বাধিক প্রদর্শন অনুযায়ী (V)">
+<!ENTITY byMostVisited.label "সর্বাধিক পরিদর্শিত অনুসারে (V)">
 <!ENTITY byMostVisited.accesskey "V">
-<!ENTITY byLastVisited.label "সর্বশেষ প্রদর্শন অনুযায়ী (L)">
+<!ENTITY byLastVisited.label "সর্বশেষ পরিদর্শিত অনুসারে (L)">
 <!ENTITY byLastVisited.accesskey "L">
-<!ENTITY byDayAndSite.label "তারিখ ও সাইট অনুযায়ী (t)">
+<!ENTITY byDayAndSite.label "তারিখ ও সাইট অনুসারে (T)">
 <!ENTITY byDayAndSite.accesskey "t">
-<!ENTITY openLinkInWindow.label "খুলুন (O)">
+<!ENTITY openLinkInWindow.label "খোলা হবে (O)">
 <!ENTITY openLinkInWindow.accesskey "O">
-<!ENTITY openInNewTab.label "নতুন ট্যাবে খুলুন (T)">
+<!ENTITY openInNewTab.label "নতুন ট্যাবে খোলা হবে (T)">
 <!ENTITY openInNewTab.accesskey "T">
-<!ENTITY openInNewWindow.label "নতুন উইন্ডোর মধ্যে খুলুন ( W)">
+<!ENTITY openInNewWindow.label "নতুন উইন্ডোতে খোলা হবে ( W)">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "চিহ্নিত লিঙ্ক বুকমার্ক করুন... (B)">
+<!ENTITY bookmarkLink.label "এই লিংক বুকমার্ক করা হবে... (B)">
 <!ENTITY bookmarkLink.accesskey "B">
-<!ENTITY copyLink.label "লিঙ্ক দ্বারা চিহ্নিত অবস্থান কপি করুন (C)">
+<!ENTITY copyLink.label "লিংকের ঠিকানা কপি করা হবে (C)">
 <!ENTITY copyLink.accesskey "C">

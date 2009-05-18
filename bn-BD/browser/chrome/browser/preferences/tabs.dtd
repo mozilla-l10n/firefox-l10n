@@ -1,14 +1,14 @@
-<!ENTITY newWindowsAsTabs.label "পরিবর্তে নতুন উইন্ডো নতুন ট্যাব-এ খুলুন (t)">
+<!ENTITY newWindowsAsTabs.label "নতুন উইন্ডো, নতুন ট্যাব-এ খোলা হবে (T)">
 <!ENTITY newWindowsAsTabs.accesskey "t">
 
-<!ENTITY warnCloseMultipleTabs.label "একাধিক ট্যাব বন্ধ করার প্রচেষ্টা করা হলে সতর্কবাণী প্রদর্শিত হবে (m)">
+<!ENTITY warnCloseMultipleTabs.label "একাধিক ট্যাব বন্ধ করার চেষ্টা করা হলে সতর্ক করা হবে (M)">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">
 
-<!ENTITY warnOpenManyTabs.label "একাধিক ট্যাব প্রদর্শনের ফলে &brandShortName;-র কর্ম সঞ্চালনের গতি হ্রাস হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে (o)">
+<!ENTITY warnOpenManyTabs.label "একাধিক ট্যাব খোলার ফলে &brandShortName; ধীর হয়ে যাবার সম্ভবনা থাকলে সতর্ক করা হবে (O)">
 <!ENTITY warnOpenManyTabs.accesskey "o">
 
-<!ENTITY showTabBar.label "ট্যাব-বার সর্বদা প্রদর্শন করা হবে (b)">
+<!ENTITY showTabBar.label "ট্যাব বার সব সময় প্রদর্শন করা হবে (B)">
 <!ENTITY showTabBar.accesskey "b">
 
-<!ENTITY switchToNewTabs.label "নতুন ট্যাবে একটি লিঙ্ক খোলা হলে সাথে সাথে সংশ্লিষ্ট ট্যাব প্রদর্শন করা হবে (s)">
+<!ENTITY switchToNewTabs.label "নতুন ট্যাবে লিংক খোলা হলে সাথে সাথে ট্যাবটি প্রদর্শন করা হবে (S)">
 <!ENTITY switchToNewTabs.accesskey "s">

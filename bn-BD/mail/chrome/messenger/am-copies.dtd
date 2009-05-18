@@ -23,7 +23,7 @@
 <!ENTITY draftInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "&quot;আর্কাইভ&quot; ফোল্ডার (d):">
-<!ENTITY archivesFolderOn.accesskey "D">
+<!ENTITY archivesFolderOn.accesskey "d">
 <!ENTITY archiveInOtherFolder.label "Other:অন্যান্য (t):">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->

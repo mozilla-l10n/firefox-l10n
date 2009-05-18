@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey "s">
 <!ENTITY belowText.label "উদ্ধৃতির নিচে (সুপারিশকৃত)">
 <!ENTITY aboveText.label "আমার জবাবের নিচে (উদ্ধৃতির ওপরে)">
+<!ENTITY includeSigOnReply.label "Include signature for replies">
+<!ENTITY includeSigOnReply.accesskey "s">
+<!ENTITY includeSigOnForward.label "Include signature for forwards">
+<!ENTITY includeSigOnForward.accesskey "w">

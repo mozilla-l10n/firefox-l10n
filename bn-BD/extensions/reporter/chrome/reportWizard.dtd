@@ -1,21 +1,21 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title "ক্ষতিগ্রস্ত ওয়েব-সাইট সম্পর্কে রিপোর্ট প্রদান করুন">
+<!ENTITY reportWizard.title "অকার্যকর ওয়েবসাইট সম্পর্কে রিপোর্ট">
 
-<!ENTITY privacyNotice.label "গোপনীয়তা সংক্রান্ত নিয়মনীতি">
-<!ENTITY reportWizardPrivacy.description "এই ব্যবস্থার মাধ্যমে আপনি Evangelism Team-কে এমন ওয়েব-সাইট সম্পর্কে অবগত করতে পারবেন যেগুলির ক্ষেত্রে &brandShortName; সঠিকরূপে চলতে সক্ষম নয় অথবা &brandShortName; বন্ধ হয়ে যায়। এর ফলে &brandShortName; ব্যবহারকারীদের জন্য সর্বোত্তম সুযোগসুবিধা দিতে আমরা আপনার সহায়তা পাবো। যোগদান করতে ইচ্ছুক থাকলে, আপনার থেকে প্রাপ্ত তথ্য কিভাবে ব্যবহার করা হবে জানতে অনুগ্রহ করে নিম্নলিখিত বিষয়বস্তু পড়ুন।">
-<!ENTITY reportWizardMustAgree.description "অগ্রসর হওয়ার জন্য উপরে উল্লিখিত গোপনীয়তার নিয়মনীতি সম্পর্কে আপনার সম্মতি জ্ঞাপন করা আবশ্যক।">
+<!ENTITY privacyNotice.label "গোপনতা সংক্রান্ত নীতি">
+<!ENTITY reportWizardPrivacy.description "এই টুলটির মাধ্যমে আপনি Evangelism Team-কে এমন ওয়েবসাইট সম্পর্কে অবগত করতে পারবেন যা &brandShortName;-এ সঠিকভাবে চলতে পারে না অথবা &brandShortName;-কে বন্ধ করে দেয়। এটি &brandShortName;-এর  ব্যবহারকারীদের জন্য সর্বোত্তম মান নিশ্চিত করতে আমাদের সহায়তা করে।  আপনি যোগদান করলে, আপনার থেকে প্রাপ্ত তথ্য কিভাবে আমরা ব্যবহার করব সেই সম্পর্কে আরও জানুন:">
+<!ENTITY reportWizardMustAgree.description "অগ্রসর হওয়ার জন্য উপরে উল্লিখিত গোপনতা সংক্রান্ত নীতিতে আপনার সম্মতি জ্ঞাপন করতে হবে।">
 
-<!ENTITY dontShowPrivacyStatement.label "গোপনীয়তার নিয়মনীতি আমি পড়েছি এবং সম্মতি জানাচ্ছি। (I)">
+<!ENTITY dontShowPrivacyStatement.label "গোপনতা সংক্রান্ত নীতি আমি পড়েছি এবং সম্মতি জানাচ্ছি। (I)">
 <!ENTITY dontShowPrivacyStatement.accesskey "I">
 
 <!ENTITY reportForm.label "রিপোর্ট পূরণ করুন">
 
 <!ENTITY reportForm.description "আপনি যে সমস্যার সম্মুখীন হয়েছেন সেটির সংক্ষিপ্ত বিবরণ লিখুন:">
-<!ENTITY reportForm.url.title "ওয়েব-সাইটের URL (U): ">
+<!ENTITY reportForm.url.title "ওয়েবসাইটের URL (U): ">
 <!ENTITY reportForm.url.accesskey "U">
 <!-- No ":" at the end -->
 
-<!ENTITY reportForm.behind_login.title "ওয়েব-সাইটটি পাসওয়ার্ড দ্বারা সুরক্ষিত (p)">
+<!ENTITY reportForm.behind_login.title "ওয়েবসাইটটি পাসওয়ার্ড দ্বারা সুরক্ষিত (p)">
 <!ENTITY reportForm.behind_login.accesskey "P">
 
 <!ENTITY reportForm.problem_type.title "সমস্যার ধরন (T):">
@@ -25,14 +25,14 @@
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
 
 <!ENTITY reportForm.problem_type.item1.title "ব্রাউজার সমর্থিত নয়">
-<!ENTITY reportForm.problem_type.item2.title "লগ-ইন করা যায়নি">
+<!ENTITY reportForm.problem_type.item2.title "লগইন করা যায়নি">
 <!ENTITY reportForm.problem_type.item3.title "প্লাগ-ইন প্রদর্শিত হয়নি">
-<!ENTITY reportForm.problem_type.item4.title "অন্যান্য বিষয়বস্তু উপস্থিত নেই">
+<!ENTITY reportForm.problem_type.item4.title "অন্যান্য বিষয়বস্তু প্রদর্শিত হয়নি">
 <!ENTITY reportForm.problem_type.item5.title "ভুল আচরণ">
-<!ENTITY reportForm.problem_type.item6.title "ভুল চেহারাছবি">
-<!ENTITY reportForm.problem_type.item7.title "অন্যান্য সমস্যা">
-<!ENTITY reportForm.problem_type.item8.title "বিশেষ ব্যবহার">
-<!ENTITY reportForm.problem_type.item9.title "প্রিন্ট করা ফলাফল সঠিক নয়">
+<!ENTITY reportForm.problem_type.item6.title "ভুলভাবে প্রদর্শিত">
+<!ENTITY reportForm.problem_type.item7.title "অন্য সমস্যা">
+<!ENTITY reportForm.problem_type.item8.title "প্রতিবন্ধী দ্বারা ব্যবহারের স্বাচ্ছন্দ্যতা">
+<!ENTITY reportForm.problem_type.item9.title "প্রিন্টকৃত আউটপুট সঠিক নয়">
 
 <!ENTITY reportForm.describe.title "সমস্যার বিবরণ দিন: (D)">
 <!ENTITY reportForm.describe.accesskey "D">
@@ -44,16 +44,16 @@
 <!ENTITY reportForm.language.title "ভাষা:">
 <!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
 
-<!ENTITY reportForm.email.title "ই-মেইল (ঐচ্ছিক) (E):">
+<!ENTITY reportForm.email.title "ইমেইল (ঐচ্ছিক): (E)">
 <!ENTITY reportForm.email.accesskey "E">
 
-<!ENTITY reportForm.privacyPolicy.title "গোপনীয়তার নিয়মনীতি">
-<!ENTITY reportForm.privacyPolicy.tooltip "গোপনীয়তার নিয়মনীতি দেখুন">
+<!ENTITY reportForm.privacyPolicy.title "গোপনতা সংক্রান্ত নীতি">
+<!ENTITY reportForm.privacyPolicy.tooltip "গোপনতা সংক্রান্ত নীতি দেখুন">
 
-<!ENTITY reportResults.showDetail.title "বিবরণ প্রদর্শন করুন (S)">
+<!ENTITY reportResults.showDetail.title "বিবরণ প্রদর্শন (S)">
 <!ENTITY reportResults.showDetail.accesskey "S">
 
-<!ENTITY sendReport.label "রিপোর্ট প্রেরিত হচ্ছে">
-<!ENTITY sendReport.description "সার্ভারে রিপোর্ট প্রেরণ করা হচ্ছে...">
+<!ENTITY sendReport.label "রিপোর্ট পাঠানো হচ্ছে">
+<!ENTITY sendReport.description "সার্ভারে রিপোর্ট পাঠানো হচ্ছে...">
 
-<!ENTITY finish.label "রিপোর্ট প্রেরন করা হয়েছে">
+<!ENTITY finish.label "রিপোর্ট পাঠানো হয়েছে">

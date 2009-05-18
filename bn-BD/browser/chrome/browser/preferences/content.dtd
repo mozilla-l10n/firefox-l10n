@@ -1,19 +1,19 @@
-<!ENTITY blockPopups.label "পপ-আপ উইন্ডো প্রদর্শন প্রতিরোধ করা হবে (B)">
+<!ENTITY blockPopups.label "পপ-আপ উইন্ডো রোধ করা হবে (B)">
 <!ENTITY blockPopups.accesskey "B">
 <!ENTITY popupExceptions.label "ব্যতিক্রম (E)...">
 <!ENTITY popupExceptions.accesskey "E">
 
-<!ENTITY loadImages.label "স্বয়ংক্রিয়রূপে ছবি লোড করা হবে (i)">
+<!ENTITY loadImages.label "স্বয়ংক্রিয়ভাবে ছবি লোড করা হবে (I)">
 <!ENTITY loadImages.accesskey "I">
-<!ENTITY exceptions.label "ব্যতিক্রম... (x)">
+<!ENTITY exceptions.label "ব্যতিক্রম... (X)">
 <!ENTITY exceptions.accesskey "x">
 
-<!ENTITY enableJavaScript.label "JavaScript সক্রিয় করুন (J)">
+<!ENTITY enableJavaScript.label "JavaScript সক্রিয় করা হবে (J)">
 <!ENTITY enableJavaScript.accesskey "J">
-<!ENTITY advancedJS.label "উন্নত বিকল্প... (v)">
+<!ENTITY advancedJS.label "উচ্চপর্যায়ের বৈশিষ্ট্যাবলী... (V)">
 <!ENTITY advancedJS.accesskey "v">
 
-<!ENTITY enableJava.label "Java সক্রিয় করুন (n)">
+<!ENTITY enableJava.label "Java সক্রিয় করা হবে (N)">
 <!ENTITY enableJava.accesskey "n">
 
 
@@ -24,7 +24,7 @@
 <!ENTITY defaultSize.label "আকার (S):">
 <!ENTITY defaultSize.accesskey "S">
 
-<!ENTITY advancedFonts.label "উন্নত... (A)">
+<!ENTITY advancedFonts.label "উচ্চপর্যায়ের বৈশিষ্ট্যাবলী...  (A)">
 <!ENTITY advancedFonts.accesskey "A">
 
 <!ENTITY colors.label "রং... (C)">
@@ -32,6 +32,6 @@
 
 
 <!ENTITY languages.label "ভাষা">
-<!ENTITY chooseLanguage.label "পৃষ্ঠা প্রদর্শনের জন্য পছন্দসই ভাষা নির্বাচন করুন">
-<!ENTITY chooseButton.label "নির্বাচন করুন… (o)">
+<!ENTITY chooseLanguage.label "পৃষ্ঠা প্রদর্শনের পছন্দসই ভাষা নির্বাচন করুন">
+<!ENTITY chooseButton.label "নির্বাচন… (O)">
 <!ENTITY chooseButton.accesskey "o">

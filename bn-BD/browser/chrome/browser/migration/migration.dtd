@@ -1,15 +1,15 @@
 
 <!ENTITY migrationWizard.title "ইম্পোর্ট উইজার্ড">
 
-<!ENTITY importFrom.label "উল্লিখিত স্থান থেকে বিকল্প, বুকমার্ক, পূর্ববর্তী তথ্য (ইতিহাস), পাসওয়ার্ড ও অন্যান্য তথ্য ইম্পোর্ট করুন:">
-<!ENTITY importFromUnix.label "উল্লিখিত স্থান থেকে পছন্দসমূহ, বুকমার্ক, পূর্ববর্তী তথ্য, পাসওয়ার্ড ও অন্যান্য তথ্য ইম্পোর্ট করুন:">
-<!ENTITY importFromBookmarks.label "উল্লিখিত স্থান থেকে বুকমার্ক ইম্পোর্ট করুন:">
+<!ENTITY importFrom.label "উল্লিখিত স্থান থেকে অপশনসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য ইম্পোর্ট করা হবে:">
+<!ENTITY importFromUnix.label "উল্লিখিত স্থান থেকে পছন্দসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য ইম্পোর্ট করা হবে:">
+<!ENTITY importFromBookmarks.label "উল্লিখিত স্থান থেকে বুকমার্ক ইম্পোর্ট করা হবে:">
 
 <!ENTITY importFromIE.label "মাইক্রোসফট ইন্টারনেট এক্সপ্লোরার (M)">
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromPhoenix.label "ফায়ারফক্স ০.৮, ফায়ারবার্ড বা ফিনিক্স (P)">
 <!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "কিছু ইম্পোর্ট করা হবে না (D)">
+<!ENTITY importFromNothing.label "কিছুই ইম্পোর্ট করা হবে না (D)">
 <!ENTITY importFromNothing.accesskey "D">
 <!ENTITY importFromSeamonkey.label "নেটস্কেপ ৬, ৭ বা মজিলা ১.x (N)">
 <!ENTITY importFromSeamonkey.accesskey "N">
@@ -17,7 +17,7 @@
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOpera.label "অপেরা (O)">
 <!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "কামিনো (C)">
+<!ENTITY importFromCamino.label "ক্যামিনো (C)">
 <!ENTITY importFromCamino.accesskey "C">
 <!ENTITY importFromSafari.label "সাফারি (S)">
 <!ENTITY importFromSafari.accesskey "S">
@@ -34,18 +34,18 @@
 <!ENTITY importFromHTMLFile.label "HTML ফাইল থেকে (F)">
 <!ENTITY importFromHTMLFile.accesskey "F">
 
-<!ENTITY noMigrationSources.label "বুকমার্ক, পূর্ববর্তী তথ্য অথবা পাসওয়ার্ড ধারণকারী কোনো প্রোগ্রাম সনাক্ত করা যায়নি।">
+<!ENTITY noMigrationSources.label "বুকমার্ক, ইতিহাস অথবা পাসওয়ার্ড ধারণকারী কোনো প্রোগ্রাম পাওয়া যায়নি।">
 
-<!ENTITY importSource.title "উল্লিখিত স্থান থেকে বৈশিষ্ট্যাবলী ও তথ্য ইম্পোর্ট করুন">
-<!ENTITY importItems.title "ইম্পোর্ট করার উদ্দেশ্যে চিহ্নিত বিষয়বস্তু">
-<!ENTITY importItems.label "ইম্পোর্ট করার যোগ্য বস্তু নির্বাচন করুন:">
+<!ENTITY importSource.title "উল্লিখিত স্থান থেকে সেটিংসমূহ ও তথ্য ইম্পোর্ট করা হবে">
+<!ENTITY importItems.title "ইম্পোর্ট করা হবে">
+<!ENTITY importItems.label "ইম্পোর্ট করার জন্য আইটেম নির্বাচন:">
 
 <!ENTITY migrating.title "ইম্পোর্ট করা হচ্ছে...">
-<!ENTITY migrating.label "নিম্নলিখিত বস্তুগুলি বর্তমানে ইম্পোর্ট করা হচ্ছে...">
+<!ENTITY migrating.label "বর্তমানে নিম্নলিখিত আইটেম ইম্পোর্ট করা হচ্ছে...">
 
-<!ENTITY selectProfile.title "প্রোফাইল নির্বাচন করুন">
+<!ENTITY selectProfile.title "প্রোফাইল নির্বাচন">
 <!ENTITY selectProfile.label "নিম্নলিখিত প্রোফাইলগুলি থেকে বর্তমানে ইম্পোর্ট করা সম্ভব:">
 
-<!ENTITY done.title "ইম্পোর্ট কর্ম সমাপ্ত">
-<!ENTITY done.label "নিম্নলিখিত বস্তুগুলি সাফল্যের সাথে ইম্পোর্ট করা হয়েছে:">
+<!ENTITY done.title "ইম্পোর্ট সমাপ্ত">
+<!ENTITY done.label "নিম্নলিখিত আইটেমের ইম্পোর্ট সফল হয়েছে:">
 

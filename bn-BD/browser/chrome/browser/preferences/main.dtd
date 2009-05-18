@@ -1,10 +1,10 @@
 <!ENTITY startup.label "প্রারম্ভ">
 
-<!ENTITY startupPage.label "&brandShortName; আরম্ভের সময়:">
+<!ENTITY startupPage.label "&brandShortName; আরম্ভের সময় (S):">
 <!ENTITY startupPage.accesskey "s">
-<!ENTITY startupHomePage.label "চিহ্নিত হোম পেজ প্রদর্শন করা হবে">
+<!ENTITY startupHomePage.label "হোম পেজ প্রদর্শন করা হবে">
 <!ENTITY startupBlankPage.label "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
-<!ENTITY startupLastSession.label "সর্বশেষ ব্যবহারের সময় উপস্থিত উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
+<!ENTITY startupLastSession.label "সর্বশেষ উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
 <!ENTITY location.label "হোম পেজ (H):">
 <!ENTITY location.accesskey "H">
 <!ENTITY useCurrentPage.label "বর্তমান পৃষ্ঠা প্রয়োগ করা হবে (C)">
@@ -12,26 +12,26 @@
 <!ENTITY useMultiple.label "বর্তমান পৃষ্ঠাগুলি প্রয়োগ করা হবে">
 <!ENTITY useBookmark.label "বুকমার্ক প্রয়োগ করা হবে (B)">
 <!ENTITY useBookmark.accesskey "B">
-<!ENTITY restoreDefault.label "ডিফল্ট মান পুনরায় স্থাপন করা হবে (R)">
+<!ENTITY restoreDefault.label "ডিফল্ট মান পুন: স্থাপন করা হবে (R)">
 <!ENTITY restoreDefault.accesskey "R">
 
 <!ENTITY downloads.label "ডাউনলোড">
 
-<!ENTITY showWhenDownloading.label "ফাইল ডাউনলোড করার সময় ডাউনলোড উইন্ডোটি প্রদর্শন করা হবে">
+<!ENTITY showWhenDownloading.label "ফাইল ডাউনলোডের সময় ডাউনলোড উইন্ডো প্রদর্শন করা হবে (D)">
 <!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "সব ডাউনলোড সমাপ্ত হলে উইন্ডোটি বন্ধ করা হবে (w)">
+<!ENTITY closeWhenDone.label "সব ডাউনলোড সম্পন্ন হলে উইন্ডোটি বন্ধ করা হবে (W)">
 <!ENTITY closeWhenDone.accesskey "w">
-<!ENTITY saveTo.label "চিহ্নিত স্থানে ফাইল সংরক্ষিত হবে (v)">
+<!ENTITY saveTo.label "ফাইল সংরক্ষনের স্থান (V)">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label "ব্রাউজ করুন... (o)">
+<!ENTITY chooseFolderWin.label "ব্রাউজ... (O)">
 <!ENTITY chooseFolderWin.accesskey "o">
-<!ENTITY chooseFolderMac.label "নির্বাচন করুন... (e)">
+<!ENTITY chooseFolderMac.label "নির্বাচন... (e)">
 <!ENTITY chooseFolderMac.accesskey "e">
-<!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান সর্বদা জিজ্ঞাসা করা হবে (A)">
+<!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান সবসময় জিজ্ঞাসা করা হবে (A)">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY addonsMgr.label "অতিরিক্ত সামগ্রী">
-<!ENTITY manageAddonsDescWin.label "ব্যবহৃত অতিরিক্ত সামগ্রীর জন্য বিকল্প পরিবর্তন করুন">
-<!ENTITY manageAddonsDescUnix2.label "ব্যবহৃত অতিরিক্ত সামগ্রী সংক্রান্ত পছন্দসই মান পরিবর্তন করুন">
-<!ENTITY manageAddons.label "অতিরিক্ত সামগ্রী পরিচালনা… (M)">
+<!ENTITY addonsMgr.label "এ্যাড-অন">
+<!ENTITY manageAddonsDescWin.label "আপনার এ্যাড-অনের অপশন পরিবর্তন করুন">
+<!ENTITY manageAddonsDescUnix2.label "আপনার এ্যাড-অনের পচ্ছন্দসমূহ পরিবর্তন করুন">
+<!ENTITY manageAddons.label "এ্যাড-অন পরিচালনা… (M)">
 <!ENTITY manageAddons.accesskey "M">

@@ -1,3 +1,1 @@
-For information about installing, running and configuring Thunderbird
-including a list of known issues and troubleshooting information, 
-refer to: http://getthunderbird.com/releases/
+থান্ডারবার্ড ইনস্টলেশন, ব্যবহার ও কনফিগারেশন সম্পর্কে এবং এর রিপোর্টকৃত ত্রুটি ও সমাধান সংক্রান্ত আরও তথ্য পাবেন এই লিংকে: http://getthunderbird.com/releases/

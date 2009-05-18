@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title "ডিফল্ট ক্লায়েন্ট">
-<!ENTITY defaultClient.intro "এর জন্য &brandShortName; কে ডিফল্ট ক্লায়েন্ট হিসেবে ব্যবহার করা হবে:">
-
-<!ENTITY email.label "ই-মেইল">
-<!ENTITY newsgroups.label "নিউজগ্রুপ">
-<!ENTITY feeds.label "Feeds">
-
-<!ENTITY checkOnStartup.label "&brandShortName; শুরু করার সময় সর্বদা এটি পরীক্ষা করা হবে (A)">
-<!ENTITY checkOnStartup.accesskey "A">

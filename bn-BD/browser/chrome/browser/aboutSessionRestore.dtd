@@ -1,19 +1,19 @@
-<!ENTITY restorepage.tabtitle "সেশন রিস্টোর করো">
+<!ENTITY restorepage.tabtitle "সেশন রিস্টোর">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle "Well, this is embarrassing.">
-<!ENTITY restorepage.problemDesc "&brandShortName; is having trouble recovering your windows and tabs. This is usually caused by a recently opened web page.">
-<!ENTITY restorepage.tryThis "You can try:">
-<!ENTITY restorepage.restoreSome "Removing one or more tabs that you think may be causing the problem">
-<!ENTITY restorepage.startNew "Starting an entirely new browsing session">
+<!ENTITY restorepage.errorTitle "ঘটনা একটু অস্বস্তিকর বটে! ">
+<!ENTITY restorepage.problemDesc "আপনার উইন্ডো এবং ট্যাবসমূহ খুজে পেতে &brandShortName; এর কিছুটা বেগ পেতে হচ্ছে। সাধারণত এটি সম্প্রতি খোলা কোন ওয়েবপেজের কারণে হয়ে থাকে।">
+<!ENTITY restorepage.tryThis "আপনি যা যা চেষ্টা করতে পারেন:">
+<!ENTITY restorepage.restoreSome "ঐ সমস্ত ট্যাব যেগুলো এই সমস্যার জন্য দায়ী হতে পারে সেগুলো বন্ধ করে দেয়া।">
+<!ENTITY restorepage.startNew "একটি নতুন ব্রাউজিং সেশন শুরু করা">
 
-<!ENTITY restorepage.tryagainButton "Restore">
+<!ENTITY restorepage.tryagainButton "রিস্টোর">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton "নতুন সেশন শুরু করুন">
+<!ENTITY restorepage.cancelButton "নতুন সেশন শুরু">
 <!ENTITY restorepage.cancel.access "S">
 
 <!ENTITY restorepage.restoreHeader "রিস্টোর">
-<!ENTITY restorepage.listHeader "উইন্ডো এবং ট্যাবসমূহ">
+<!ENTITY restorepage.listHeader "উইন্ডো এবং ট্যাব">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel "উইন্ডো &#37;S">

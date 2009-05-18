@@ -1,24 +1,24 @@
 <!ENTITY no-properties.label "কোনো বৈশিষ্ট্য নির্ধারণ করা হয়নি।">
 
-<!ENTITY caption.label "সত্ত্বার বৈশিষ্ট্য">
+<!ENTITY caption.label "এলিমেন্টের বৈশিষ্ট্য">
 <!ENTITY image-sec.label "ছবির বৈশিষ্ট্য">
 <!ENTITY image-url.label "অবস্থান:">
-<!ENTITY image-type.label "ধরন:">
+<!ENTITY image-type.label "শ্রেণী:">
 <!ENTITY image-desc.label "বিবরণ:">
-<!ENTITY image-alt.label "বিকল্পে ব্যবহৃত লেখা:">
+<!ENTITY image-alt.label "বিকল্প টেক্সট:">
 <!ENTITY image-size.label "ছবির আকার:">
 <!ENTITY image-filesize.label "ফাইলের আকার:">
-<!ENTITY insdel-sec.label "বৈশিষ্ট্য অন্তর্ভুক্ত করুন/মুছে ফেলুন">
+<!ENTITY insdel-sec.label "অন্তর্ভুক্তি/অপসারণের বৈশিষ্ট্য">
 <!ENTITY insdel-cite.label "তথ্য:">
 <!ENTITY insdel-date.label "তারিখ:">
-<!ENTITY link-sec.label "লিঙ্কের বৈশিষ্ট্য">
+<!ENTITY link-sec.label "লিংকের বৈশিষ্ট্য">
 <!ENTITY link-url.label "ঠিকানা:">
-<!ENTITY link-target.label "চিহ্নিত অ্যাপ্লিকেশনে প্রদর্শিত হবে:">
-<!ENTITY link-type.label "উদ্দিষ্ট বস্তুর ধরন:">
-<!ENTITY link-lang.label "উদ্দিষ্ট ভাষা:">
+<!ENTITY link-target.label "যে অ্যাপ্লিকেশনে খোলা হবে:">
+<!ENTITY link-type.label "ধরন:">
+<!ENTITY link-lang.label "ভাষা:">
 <!ENTITY link-rel.label "সম্পর্ক:">
 <!ENTITY link-rev.label "বিপরীত সম্পর্ক:">
-<!ENTITY link-ping.label "সূচনা প্রাপক:">
+<!ENTITY link-ping.label "প্রাপক:">
 <!ENTITY misc-sec.label "বিবিধ বৈশিষ্ট্য">
 <!ENTITY misc-lang.label "লেখনির ভাষা:">
 <!ENTITY misc-title.label "শিরোনাম:">

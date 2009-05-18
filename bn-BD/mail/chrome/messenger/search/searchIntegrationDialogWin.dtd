@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "উইন্ডো অনুসন্ধান">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; ইন্টিগ্রেশন">
-<!ENTITY searchIntegration.description "আপনি কি সূচী তে &searchIntegration.engineName; সক্রিয় করতে চান এবং &brandShortName; মেইল এবং নিউজ বার্তা অনুসন্ধান করতে চান?">
-
-<!ENTITY searchIntegration.accept "&searchIntegration.engineName; সক্রিয় করুন">
-<!ENTITY searchIntegration.cancel "&searchIntegration.engineName; সক্রিয় করা হবে না">

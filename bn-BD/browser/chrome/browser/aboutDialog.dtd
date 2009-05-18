@@ -7,7 +7,7 @@
 <!ENTITY aboutVersion "সংস্করণ">
 <!ENTITY closeCmdGNOME.label "বন্ধ (C)">
 <!ENTITY closeCmdGNOME.accesskey "C">
-<!ENTITY copyrightInfo1 "&#169;১৯৯৮-২০০৯ প্রদায়কবৃন্দ. All rights reserved. (">
+<!ENTITY copyrightInfo1 "&#169;১৯৯৮-২০০৯ প্রদায়কবৃন্দ. সর্বস্বত্ব সংরক্ষিত. (">
 <!ENTITY licenseLink "about:license">
 <!ENTITY licenseLinkText "লাইসেন্স সংক্রান্ত তথ্য">
 <!ENTITY copyrightInfo2 ").">
