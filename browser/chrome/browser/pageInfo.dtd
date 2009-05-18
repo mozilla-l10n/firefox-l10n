@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "权限">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "使用默认设置">
+<!ENTITY  permAskAlways         "总是询问">
 <!ENTITY  permAllow             "允许">
 <!ENTITY  permAllowSession      "在当前会话中允许">
 <!ENTITY  permBlock             "阻止">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "打开弹出窗口">
 <!ENTITY  permCookie            "设置 Cookie">
 <!ENTITY  permInstall           "安装扩展或主题">
+<!ENTITY  permGeo               "共享位置信息">
 
 <!ENTITY  securityTab           "安全">
 <!ENTITY  securityTab.accesskey "S">
