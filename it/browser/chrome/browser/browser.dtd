@@ -138,7 +138,7 @@
 <!ENTITY preferencesCmdUnix.label "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistoryCmd.label "Cancella la cronologia recente">
-<!ENTITY clearRecentHistoryCmd.accesskey "n">
+<!ENTITY clearRecentHistoryCmd.accesskey "e">
 <!ENTITY privateBrowsingCmd.start.label "Avvia Navigazione anonima">
 <!ENTITY privateBrowsingCmd.start.accesskey "N">
 <!ENTITY privateBrowsingCmd.stop.label "Interrompi Navigazione anonima">
