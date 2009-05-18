@@ -14,9 +14,9 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om å koble til
 <b>#1</b> med en sikker tilkobling, men vi kan ikke bekrefte at tilkoblingen er sikker.">
-<!ENTITY certerror.introPara2 "Vanligvis når du kobler til med en sikker tilkobling, vil 
-nettsider gi en sikker identitet tilbake, for å bevise at du besøker rett sted.
-Men dette nettstedets identitet er ikke bekreftet.">
+<!ENTITY certerror.introPara2 "Vanligvis når du kobler til med en sikker tilkobling vil 
+nettsteder oppgi en sikker identitet, for å bevise at du besøker rett nettsted.
+Men identiteten til dette nettstedet er ikke bekreftet.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Hva bør jeg gjøre?">
 <!ENTITY certerror.whatShouldIDo.content "Dersom du vanligvis kobler til
@@ -25,11 +25,11 @@ forsøker å etterligne nettstedet, og da bør du ikke fortsette.">
 <!ENTITY certerror.getMeOutOfHere.label "Få meg bort herfra!">
 
 <!ENTITY certerror.expert.heading "Jeg forstår risikoen">
-<!ENTITY certerror.expert.content "Dersom du forstår hva som foregår, kan du be 
+<!ENTITY certerror.expert.content "Dersom du forstår hva som foregår kan du be 
 &brandShortName; om å stole på dette nettstedets identitet.
 <b>Selv om du stoler på nettstedet kan dette likevel bety at noen
 forsøker å forfalske tilkoblingen.</b>">
-<!ENTITY certerror.expert.contentPara2 "Ikke legg til en unntaksregel med mindre du vet at
+<!ENTITY certerror.expert.contentPara2 "Ikke lag en unntaksregel med mindre du vet at
 det er en god grunn til at dette nettstedet ikke har sikker identifikasjon.">
 <!ENTITY certerror.addException.label "Lag en unntaksregel …">
 
