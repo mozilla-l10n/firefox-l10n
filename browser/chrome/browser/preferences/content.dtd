@@ -9,7 +9,7 @@
 <!ENTITY  exceptions.accesskey        "x">
 
 <!ENTITY  enableJavaScript.label      "Enable JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  enableJavaScript.accesskey  "S">
 <!ENTITY  advancedJS.label            "Advanced…">
 <!ENTITY  advancedJS.accesskey        "v">
 
@@ -22,7 +22,7 @@
 <!ENTITY  defaultFont.label           "Default font:">
 <!ENTITY  defaultFont.accesskey       "D">
 <!ENTITY  defaultSize.label           "Size:">
-<!ENTITY  defaultSize.accesskey       "S">
+<!ENTITY  defaultSize.accesskey       "z">
 
 <!ENTITY  advancedFonts.label         "Advanced…">
 <!ENTITY  advancedFonts.accesskey     "A">
