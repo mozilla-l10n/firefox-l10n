@@ -7,10 +7,12 @@
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label       "Indexer மற்றும் அகிலத் தேடலை இயலுமைப்படுத்துக">
-<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY systemIntegration.label       "System Integration">
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY systemDefaults.label          "அமைப்புப் பொதுஇருப்புக்கள்">
+<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY showCondensedAddresses.label "என் முகவரிப்புத்தகத்தில் பெயரை மட்டும் காண்பிக்கவும்">
 <!ENTITY showCondensedAddresses.accesskey "p">
 <!ENTITY autoMarkAsRead.label          "வாசித்தவையாக தானாக தகவல்களை அடையாளமிடுக">
