@@ -52,7 +52,7 @@
 
 <!ENTITY autoCheck.label                 "Buscar automáticamente actualizaciones para:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "&">
+<!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate.label        "Agregados instalados">
 <!ENTITY enableAddonsUpdate.accesskey    "n">
 <!ENTITY enableSearchUpdate.label        "Motores de Búsqueda">
@@ -86,7 +86,7 @@
 <!ENTITY useTLS1.label                   "Usar TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certificados">
-<!ENTITY certSelection.description       "Cuando un servidor PIDA mi certificado personal:">
+<!ENTITY certSelection.description       "Cuando un servidor pida mi certificado personal:">
 <!ENTITY certs.auto                      "Seleccionar uno automáticamente">
 <!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Preguntarme cada vez">

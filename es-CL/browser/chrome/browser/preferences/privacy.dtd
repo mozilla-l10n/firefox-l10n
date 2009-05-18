@@ -58,7 +58,7 @@
 <!ENTITY  clearDataSettings.accesskey    "C">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; será:">
-<!ENTITY  historyHeader.pre.accesskey      "&">
+<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Recordar historial">
 <!ENTITY  historyHeader.dontremember.label "Nunca recordar historial">
 <!ENTITY  historyHeader.custom.label       "Usar configuraciones personalizadas para el historial">
