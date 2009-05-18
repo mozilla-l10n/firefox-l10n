@@ -67,7 +67,7 @@
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                  "අසම්බන්ධිත">
+<!ENTITY folderSynchronizationTab.label          "Synchronization">
 <!ENTITY folderCheckForNewMessages.label         "නව ලිපි සඳහා මෙම ෆෝල්ඩරය පරීක්ෂා කරන්න">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 
