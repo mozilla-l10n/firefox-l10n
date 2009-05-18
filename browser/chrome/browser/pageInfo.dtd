@@ -71,6 +71,7 @@
 <!ENTITY  permTab               "அனுமதிகள்">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "பொது இருப்பை உபயோகிக்க">
+<!ENTITY  permAskAlways         "Always ask">
 <!ENTITY  permAllow             "அனுமதி">
 <!ENTITY  permAllowSession      "அமர்விற்காக அனுமதிக்க">
 <!ENTITY  permBlock             "தடு">
@@ -79,6 +80,7 @@
 <!ENTITY  permPopup             "Pop-up சாளரத்தை திறக்க">
 <!ENTITY  permCookie            "Cookies அமைக்க">
 <!ENTITY  permInstall           "நீட்சிகளை அல்லது Themes ஐ நிறுவுக">
+<!ENTITY  permGeo               "Share Location">
 
 <!ENTITY  feedTab               "ஊட்டுகள்">
 <!ENTITY  feedTab.accesskey     "F">
