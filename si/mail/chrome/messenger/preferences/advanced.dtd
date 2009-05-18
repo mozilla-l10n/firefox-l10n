@@ -7,8 +7,10 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-<!ENTITY systemDefaults.label              "පද්ධති පෙරනිමි (Defaults)">
-<!ENTITY alwaysCheckDefault.label          "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. යෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
+<!ENTITY systemIntegration.label       "System Integration">
+<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY alwaysCheckDefault.label       "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. යෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY checkNow.accesskey            "N">
 <!ENTITY showCondensedAddresses.label  "මගේ ලිපින පොතේ අඩංගු අයගේ පෙන්වන නම පමණක් ප්‍රදර්ශණය කරන්න">
