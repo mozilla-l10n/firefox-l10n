@@ -13,7 +13,7 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Begin privaat blaai">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
 
 <!ENTITY privatebrowsingpage.howToStop "Om op te hou privaat te blaai, kies &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, of maak &brandShortName; toe.">
 <!ENTITY privatebrowsingpage.howToStart "Om privaat te begin blaai, kan u ook &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; kies.">

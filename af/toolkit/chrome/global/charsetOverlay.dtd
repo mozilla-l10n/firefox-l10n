@@ -2,11 +2,11 @@
 <!ENTITY charsetMenu.label "Karakterenkodering">
 <!ENTITY charsetMenu.accesskey "K">
 <!ENTITY charsetMenuAutodet.label "Outospeur">
-<!ENTITY charsetMenuAutodet.accesskey "o">
+<!ENTITY charsetMenuAutodet.accesskey "O">
 <!ENTITY charsetMenuMore.label "Meer enkoderings">
-<!ENTITY charsetMenuMore.accesskey "m">
+<!ENTITY charsetMenuMore.accesskey "M">
 <!ENTITY charsetMenuMore1.label "Wes-Europees">
-<!ENTITY charsetMenuMore1.accesskey "w">
+<!ENTITY charsetMenuMore1.accesskey "W">
 <!ENTITY charsetMenuMore2.label "Oos-Europees">
 <!ENTITY charsetMenuMore2.accesskey "O">
 <!ENTITY charsetMenuMore3.label "Oos-Asiaties">
@@ -18,4 +18,4 @@
 <!ENTITY charsetMenuUnicode.label "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey "U">
 <!ENTITY charsetCustomize.label "Doelmaak lys…">
-<!ENTITY charsetCustomize.accesskey "d">
+<!ENTITY charsetCustomize.accesskey "D">

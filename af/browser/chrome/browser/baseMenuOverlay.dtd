@@ -27,7 +27,7 @@
 <!ENTITY openHelpMac.frontendModifiers "accel">
 
 <!ENTITY helpReleaseNotes.label "Vrystellingaantekeninge">
-<!ENTITY helpReleaseNotes.accesskey "A">
+<!ENTITY helpReleaseNotes.accesskey "a">
 <!ENTITY updateCmd.label "Kontroleer vir bywerkings…">
 <!ENTITY updateCmd.accesskey "v">
 
@@ -38,11 +38,11 @@
 <!ENTITY servicesMenuMac.label "Dienste">
 
 <!ENTITY hideThisAppCmdMac.label "Verskuil &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "V">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
 <!ENTITY hideThisAppCmdMac.modifiers "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label "Verskuil ander">
-<!ENTITY hideOtherAppsCmdMac.commandkey "V">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label "Wys alle">

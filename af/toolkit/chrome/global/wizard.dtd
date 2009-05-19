@@ -1,5 +1,5 @@
 <!ENTITY button-back-mac.label "Gaan terug">
-<!ENTITY button-back-mac.accesskey "T">
+<!ENTITY button-back-mac.accesskey "t">
 <!ENTITY button-next-mac.label "Gaan voort">
 <!ENTITY button-next-mac.accesskey "G">
 <!ENTITY button-finish-mac.label "Klaar">
@@ -8,7 +8,7 @@
 <!ENTITY button-back-unix.label "Terug">
 <!ENTITY button-back-unix.accesskey "T">
 <!ENTITY button-next-unix.label "Volgende">
-<!ENTITY button-next-unix.accesskey "N">
+<!ENTITY button-next-unix.accesskey "n">
 <!ENTITY button-finish-unix.label "Klaar">
 <!ENTITY button-cancel-unix.label "Kanselleer">
 

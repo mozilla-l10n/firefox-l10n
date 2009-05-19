@@ -26,11 +26,11 @@
 <!ENTITY view.sortDescending.label "Z>A-rangskikking">
 <!ENTITY view.sortDescending.accesskey "Z">
 <!ENTITY help.usingBookmarks.label "Gebruik boekmerke">
-<!ENTITY help.usingBookmarks.accesskey "B">
+<!ENTITY help.usingBookmarks.accesskey "b">
 <!ENTITY help.usingHistory.label "Met geskiedenis">
 <!ENTITY help.usingHistory.accesskey "g">
 <!ENTITY help.advancedTips.label "Gevorderde wenke">
-<!ENTITY help.advancedTips.accesskey "W">
+<!ENTITY help.advancedTips.accesskey "w">
 
 <!ENTITY cmd.findInBookmarks.label "Vind in boekmerke…">
 <!ENTITY cmd.findInBookmarks.accesskey "V">
@@ -38,9 +38,9 @@
 <!ENTITY cmd.findCurrent.accesskey "i">
 
 <!ENTITY cmd.exportHTML.label "Voer HTML uit…">
-<!ENTITY cmd.exportHTML.accesskey "U">
+<!ENTITY cmd.exportHTML.accesskey "u">
 <!ENTITY cmd.importHTML.label "Voer HTML in…">
-<!ENTITY cmd.importHTML.accesskey "I">
+<!ENTITY cmd.importHTML.accesskey "i">
 
 <!ENTITY cmd.backup.label "Rugsteun…">
 <!ENTITY cmd.backup.accesskey "R">
@@ -50,7 +50,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey "K">
 
 <!ENTITY cmd.select_all.label "Merk alles">
-<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.accesskey "a">
 <!ENTITY cmd.select_all.key "a">
 
 <!ENTITY cmd.edit_cut.label "Knip">
@@ -79,7 +79,7 @@
 <!ENTITY cmd.open.label "Open">
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.open_window.label "Open in nuwe venster">
-<!ENTITY cmd.open_window.accesskey "N">
+<!ENTITY cmd.open_window.accesskey "n">
 <!ENTITY cmd.open_tab.label "Open in nuwe oortjie">
 <!ENTITY cmd.open_tab.accesskey "n">
 <!ENTITY cmd.open_all_in_tabs.label "Open almal in oortjies">
@@ -91,21 +91,21 @@
 <!ENTITY cmd.show_info.key "i">
 
 <!ENTITY cmd.rename.label "Hernoem">
-<!ENTITY cmd.rename.accesskey "R">
+<!ENTITY cmd.rename.accesskey "r">
 
 <!ENTITY cmd.sortby_name.label "Rangskik volgens naam">
-<!ENTITY cmd.sortby_name.accesskey "S">
+<!ENTITY cmd.sortby_name.accesskey "s">
 <!ENTITY cmd.context_sortby_name.accesskey "r">
 
 <!ENTITY cmd.new_bookmark.label "Nuwe boekmerk…">
-<!ENTITY cmd.new_bookmark.accesskey "B">
+<!ENTITY cmd.new_bookmark.accesskey "b">
 <!ENTITY cmd.new_livemark.label "Nuwe lewende boekmerk…">
-<!ENTITY cmd.new_livemark.accesskey "L">
+<!ENTITY cmd.new_livemark.accesskey "l">
 <!ENTITY cmd.new_folder.label "Nuwe vouer…">
 <!ENTITY cmd.new_folder.accesskey "o">
 <!ENTITY cmd.context_new_folder.accesskey "o">
 <!ENTITY cmd.new_separator.label "Nuwe skeier">
-<!ENTITY cmd.new_separator.accesskey "S">
+<!ENTITY cmd.new_separator.accesskey "s">
 
 <!ENTITY cmd.reloadLivebookmark.label "Herlaai lewendige boekmerk">
 <!ENTITY cmd.reloadLivebookmark.accesskey "H">
@@ -113,13 +113,13 @@
 <!ENTITY cmd.reloadMicrosummary.accesskey "H">
 
 <!ENTITY cmd.groupby_site.label "Groepeer volgens werf">
-<!ENTITY cmd.groupby_site.accesskey "W">
+<!ENTITY cmd.groupby_site.accesskey "w">
 <!ENTITY cmd.groupby_page.label "Groepeer volgens bladsy">
-<!ENTITY cmd.groupby_page.accesskey "B">
+<!ENTITY cmd.groupby_page.accesskey "b">
 <!ENTITY cmd.groupby_feed.label "Groepeer volgens intekening">
-<!ENTITY cmd.groupby_feed.accesskey "I">
+<!ENTITY cmd.groupby_feed.accesskey "i">
 <!ENTITY cmd.groupby_post.label "Groepeer volgens boodskap">
-<!ENTITY cmd.groupby_post.accesskey "B">
+<!ENTITY cmd.groupby_post.accesskey "b">
 
 <!ENTITY cmd.moveBookmarks.label "Verskuif…">
 <!ENTITY cmd.moveBookmarks.accesskey "V">

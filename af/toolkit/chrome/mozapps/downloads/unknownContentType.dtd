@@ -42,11 +42,11 @@
 <!ENTITY actionQuestion.label "Wat moet &brandShortName; met hierdie lêer doen?">
 
 <!ENTITY openWith.label "Open met">
-<!ENTITY openWith.accesskey "o">
+<!ENTITY openWith.accesskey "O">
 <!ENTITY other.label "Ander…">
 
 <!ENTITY saveFile.label "Stoor lêer">
-<!ENTITY saveFile.accesskey "s">
+<!ENTITY saveFile.accesskey "S">
 
 <!ENTITY rememberChoice.label "Doen dit van nou af outomaties vir lêers soos dié.">
 <!ENTITY rememberChoice.accesskey "o">

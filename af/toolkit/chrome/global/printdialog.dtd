@@ -7,13 +7,13 @@
 <!ENTITY fpDialog.title "Stoor lêer">
 
 <!ENTITY fileCheck.label "Druk na lêer">
-<!ENTITY fileCheck.accesskey "L">
+<!ENTITY fileCheck.accesskey "l">
 <!ENTITY propertiesButton.label "Eienskappe…">
-<!ENTITY propertiesButton.accesskey "e">
+<!ENTITY propertiesButton.accesskey "E">
 <!ENTITY descText.label "Drukkerbeskrywing:">
 <!ENTITY printer.label "Drukker">
 <!ENTITY printerInput.label "Drukkernaam:">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.accesskey "n">
 
 <!ENTITY printrangeGroup.label "Drukreeks">
 <!ENTITY allpagesRadio.label "Alle bladsye">

@@ -12,7 +12,7 @@
 <!ENTITY block.label "Blokkeer">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "Toelaat vir sessie">
-<!ENTITY session.accesskey "S">
+<!ENTITY session.accesskey "s">
 <!ENTITY allow.label "Toelaat">
 <!ENTITY allow.accesskey "T">
 <!ENTITY windowClose.key "w">

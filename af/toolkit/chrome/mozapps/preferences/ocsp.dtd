@@ -4,7 +4,7 @@
 <!ENTITY certOCSP2.label "Valideer 'n sertifikaat as dit 'n OCSP-bediener vermeld">
 <!ENTITY certOCSP2.accesskey "V">
 <!ENTITY proxyOCSP2.label "Valideer alle sertifikaat met die volgende OCSP-bediener:">
-<!ENTITY proxyOCSP2.accesskey "v">
+<!ENTITY proxyOCSP2.accesskey "V">
 <!ENTITY serviceURL.label "Diens-URL:">
 <!ENTITY serviceURL.accesskey "D">
 <!ENTITY signingCA.label "Responsondertekenaar:">

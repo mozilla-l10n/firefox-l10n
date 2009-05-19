@@ -43,13 +43,13 @@ that require it.  -->
 <!ENTITY itemCookies.label "Koekies">
 <!ENTITY itemCookies.accesskey "K">
 <!ENTITY itemCache.label "Kas">
-<!ENTITY itemCache.accesskey "A">
+<!ENTITY itemCache.accesskey "a">
 <!ENTITY itemOfflineApps.label "Vanlyn webwerfdata">
 <!ENTITY itemOfflineApps.accesskey "V">
 <!ENTITY itemDownloadHistory.label "Laai geskiedenis af">
 <!ENTITY itemDownloadHistory.accesskey "L">
 <!ENTITY itemActiveLogins.label "Aktiewe aanmeldings">
-<!ENTITY itemActiveLogins.accesskey "A">
+<!ENTITY itemActiveLogins.accesskey "a">
 <!ENTITY itemSitePreferences.label "Werfvoorkeure">
 <!ENTITY itemSitePreferences.accesskey "W">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph

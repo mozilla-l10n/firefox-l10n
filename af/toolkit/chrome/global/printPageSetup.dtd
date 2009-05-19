@@ -17,12 +17,12 @@
 <!ENTITY scalePercent "&#037;">
 
 <!ENTITY shrinkToFit.label "Krimp om bladsywydte te pas">
-<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY shrinkToFit.accesskey "w">
 
 <!ENTITY optionsGroup.label "Opsies">
 
 <!ENTITY printBG.label "Druk agtergrond (kleure &amp; prente)">
-<!ENTITY printBG.accesskey "A">
+<!ENTITY printBG.accesskey "a">
 
 <!ENTITY advanced.tab "Kantlyne &amp; kopstuk/voetstuk">
 
@@ -30,7 +30,7 @@
 <!ENTITY marginUnits.inches "duim">
 <!ENTITY marginUnits.metric "millimeter">
 <!ENTITY marginTop.label "Bokant:">
-<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginTop.accesskey "t">
 <!ENTITY marginBottom.label "Onderkant:">
 <!ENTITY marginBottom.accesskey "O">
 <!ENTITY marginLeft.label "Linkerkant:">
