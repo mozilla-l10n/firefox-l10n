@@ -13,7 +13,7 @@
 <!ENTITY copyCmd.label "Kopieer">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Merk alles">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY goBackCmd.commandkey "[">
 <!ENTITY goForwardCmd.commandkey "]">
 <!ENTITY homeButton.label "Tuis">
@@ -45,9 +45,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey "k">
 
 <!ENTITY zLevel.label "Altyd bo-oor">
-<!ENTITY zLevel.accesskey "O">
+<!ENTITY zLevel.accesskey "o">
 
 <!ENTITY fullZoomReduceBtn.label "Zoem uit">
-<!ENTITY fullZoomReduceBtn.accesskey "U">
+<!ENTITY fullZoomReduceBtn.accesskey "u">
 <!ENTITY fullZoomEnlargeBtn.label "Zoem in">
-<!ENTITY fullZoomEnlargeBtn.accesskey "I">
+<!ENTITY fullZoomEnlargeBtn.accesskey "i">

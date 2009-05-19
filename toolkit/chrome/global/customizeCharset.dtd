@@ -45,6 +45,6 @@
 <!ENTITY add.label "Voeg by">
 <!ENTITY add.accessKey "V">
 <!ENTITY moveUp.label "Skuif op">
-<!ENTITY moveUp.accessKey "O">
+<!ENTITY moveUp.accessKey "o">
 <!ENTITY moveDown.label "Skuif af">
-<!ENTITY moveDown.accessKey "A">
+<!ENTITY moveDown.accessKey "a">

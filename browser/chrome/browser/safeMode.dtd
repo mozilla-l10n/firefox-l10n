@@ -55,7 +55,7 @@
 <!ENTITY resetUserPrefs.accesskey "v">
 
 <!ENTITY restoreSearch.label "Stel versteksoekenjins terug">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.accesskey "S">
 
 <!ENTITY changeAndRestartButton.label "Aktiveer wysigings en herbegin">
 <!ENTITY continueButton.label "Gaan voort in veilige modus">

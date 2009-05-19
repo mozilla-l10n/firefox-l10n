@@ -11,14 +11,14 @@
 <!ENTITY useCurrentPage.accesskey "G">
 <!ENTITY useMultiple.label "Gebruik huidige bladsye">
 <!ENTITY useBookmark.label "Gebruik boekmerk">
-<!ENTITY useBookmark.accesskey "B">
+<!ENTITY useBookmark.accesskey "b">
 <!ENTITY restoreDefault.label "Stel terug na verstek">
 <!ENTITY restoreDefault.accesskey "S">
 
 <!ENTITY downloads.label "Aflaaie">
 
 <!ENTITY showWhenDownloading.label "Wys die aflaaivenster wanneer 'n lêer afgelaai word">
-<!ENTITY showWhenDownloading.accesskey "A">
+<!ENTITY showWhenDownloading.accesskey "a">
 <!ENTITY closeWhenDone.label "Sluit dit af wanneer alle aflaaie afgehandel is">
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "Stoor lêers na">

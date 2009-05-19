@@ -48,9 +48,9 @@
 <!ENTITY devmgr.button.login.label "Meld aan">
 <!ENTITY devmgr.button.login.accesskey "a">
 <!ENTITY devmgr.button.logout.label "Afmeld">
-<!ENTITY devmgr.button.logout.accesskey "M">
+<!ENTITY devmgr.button.logout.accesskey "m">
 <!ENTITY devmgr.button.changepw.label "Verander wagwoord">
-<!ENTITY devmgr.button.changepw.accesskey "W">
+<!ENTITY devmgr.button.changepw.accesskey "w">
 <!ENTITY devmgr.button.load.label "Laai">
 <!ENTITY devmgr.button.load.accesskey "L">
 <!ENTITY devmgr.button.unload.label "Ontlaai">
@@ -62,7 +62,7 @@
 <!ENTITY loaddevice.modname.accesskey "M">
 <!ENTITY loaddevice.modname.default "Nuwe PKCS#11-module">
 <!ENTITY loaddevice.filename "Lêernaam van module:">
-<!ENTITY loaddevice.filename.accesskey "f">
+<!ENTITY loaddevice.filename.accesskey "L">
 <!ENTITY loaddevice.browse "Blaai…">
 <!ENTITY loaddevice.browse.accesskey "B">
 

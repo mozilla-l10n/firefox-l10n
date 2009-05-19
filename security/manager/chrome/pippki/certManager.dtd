@@ -124,7 +124,7 @@
 <!ENTITY certmgr.restore2.label "Invoer…">
 <!ENTITY certmgr.restore2.accesskey "n">
 <!ENTITY certmgr.details.label "Sertifikaatvelde">
-<!ENTITY certmgr.details.accesskey "V">
+<!ENTITY certmgr.details.accesskey "v">
 <!ENTITY certmgr.fields.label "Veldwaarde">
 <!ENTITY certmgr.fields.accesskey "V">
 <!ENTITY certmgr.hierarchy.label "Sertifikaathiërargie">

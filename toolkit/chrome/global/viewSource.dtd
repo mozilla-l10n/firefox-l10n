@@ -11,7 +11,7 @@
 <!ENTITY fileMenu.label "Lêer">
 <!ENTITY fileMenu.accesskey "L">
 <!ENTITY savePageCmd.label "Stoor bladsy as…">
-<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Bladsyopstelling…">
 <!ENTITY pageSetupCmd.accesskey "t">
@@ -50,13 +50,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.title "Vou lang reëls om">
 <!ENTITY menu_wrapLongLines.accesskey "V">
 <!ENTITY menu_highlightSyntax.label "Sinsverligting">
-<!ENTITY menu_highlightSyntax.accesskey "V">
+<!ENTITY menu_highlightSyntax.accesskey "v">
 <!ENTITY menu_textSize.label "Teksgrootte">
-<!ENTITY menu_textSize.accesskey "R">
+<!ENTITY menu_textSize.accesskey "r">
 <!ENTITY menu_textEnlarge.label "Vermeerder">
 <!ENTITY menu_textEnlarge.accesskey "V">
 <!ENTITY menu_textReduce.label "Verminder">
-<!ENTITY menu_textReduce.accesskey "M">
+<!ENTITY menu_textReduce.accesskey "m">
 <!ENTITY menu_textReset.label "Gewoon">
 <!ENTITY menu_textReset.accesskey "G">
 

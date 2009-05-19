@@ -4,7 +4,7 @@
 <!ENTITY popupExceptions.accesskey "U">
 
 <!ENTITY loadImages.label "Laai prente outomaties">
-<!ENTITY loadImages.accesskey "P">
+<!ENTITY loadImages.accesskey "p">
 <!ENTITY exceptions.label "Uitsonderings…">
 <!ENTITY exceptions.accesskey "i">
 
@@ -14,7 +14,7 @@
 <!ENTITY advancedJS.accesskey "v">
 
 <!ENTITY enableJava.label "Aktiveer Java">
-<!ENTITY enableJava.accesskey "a">
+<!ENTITY enableJava.accesskey "A">
 
 
 <!ENTITY fontsAndColors.label "Fonte &amp; kleure">
@@ -34,4 +34,4 @@
 <!ENTITY languages.label "Tale">
 <!ENTITY chooseLanguage.label "Kies u voorkeurtaal waarin bladsye vertoon moet word">
 <!ENTITY chooseButton.label "Kies…">
-<!ENTITY chooseButton.accesskey "k">
+<!ENTITY chooseButton.accesskey "K">

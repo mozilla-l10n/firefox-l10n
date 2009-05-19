@@ -28,11 +28,11 @@
 
 <!ENTITY fontsGroup.label "Fonte:">
 <!ENTITY downloadFonts.label "Laai fonte af na drukker">
-<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY downloadFonts.accesskey "d">
 
 <!ENTITY edgeMarginInput.label "Gaping van kant van papier tot kantlyn">
 <!ENTITY topInput.label "Bokant:">
-<!ENTITY topInput.accesskey "T">
+<!ENTITY topInput.accesskey "t">
 <!ENTITY bottomInput.label "Onderkant:">
 <!ENTITY bottomInput.accesskey "O">
 <!ENTITY leftInput.label "Linkerkant:">
