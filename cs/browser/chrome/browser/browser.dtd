@@ -319,13 +319,13 @@
 
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label "Přehrát">
-<!ENTITY mediaPlay.accesskey "P">
-<!ENTITY mediaPause.label "Zastavit">
-<!ENTITY mediaPause.accesskey "Z">
-<!ENTITY mediaMute.label "Ztlumit">
-<!ENTITY mediaMute.accesskey "t">
-<!ENTITY mediaUnmute.label "Vypnout ztlumení">
-<!ENTITY mediaUnmute.accesskey "V">
+<!ENTITY mediaPlay.accesskey "h">
+<!ENTITY mediaPause.label "Pozastavit">
+<!ENTITY mediaPause.accesskey "z">
+<!ENTITY mediaMute.label "Vypnout zvuk">
+<!ENTITY mediaMute.accesskey "p">
+<!ENTITY mediaUnmute.label "Zapnout zvuk">
+<!ENTITY mediaUnmute.accesskey "p">
 <!ENTITY mediaShowControls.label "Zobrazit ovládání">
 <!ENTITY mediaShowControls.accesskey "o">
 <!ENTITY mediaHideControls.label "Skrýt ovládání">

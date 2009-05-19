@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey "o">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.bookmarkLink.label "Přidat stránku do záložek…">
+<!ENTITY cmd.bookmarkLink.accesskey "P">
 <!ENTITY cmd.delete.label "Smazat tuto stránku">
 <!ENTITY cmd.delete.accesskey "S">
 <!ENTITY cmd.deleteDomainData.label "Zapomenout na tuto stránku">
