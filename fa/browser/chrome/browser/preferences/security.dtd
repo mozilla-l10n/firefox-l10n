@@ -8,10 +8,10 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  blockAttackSites.label     "باز داشتن وب‌گاه‌های تهاجمی گزارش شده">
+<!ENTITY  blockAttackSites.label     "باز داشتن وب‌گاه‌های تهاجمی شناخته شده">
 <!ENTITY  blockAttackSites.accesskey "ب">
 
-<!ENTITY  blockWebForgeries.label     "باز داشتن جعل‌های وبی گزارش شده">
+<!ENTITY  blockWebForgeries.label     "باز داشتن جعل‌های وبی شناخته شده">
 <!ENTITY  blockWebForgeries.accesskey "ج">
 
 <!ENTITY  addonExceptions.label         "استثناها…">
