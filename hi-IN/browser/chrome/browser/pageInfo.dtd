@@ -106,6 +106,8 @@
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "अज्ञात">
 
+<!ENTITY  permAskAlways         "हमेशा पूछें">
+<!ENTITY  permGeo               "स्थान साझा करें">
 
 <!ENTITY  securityView.identity.header   "वेब साइट सुरक्षा">
 <!ENTITY  securityView.identity.owner    "स्वामी: ">
