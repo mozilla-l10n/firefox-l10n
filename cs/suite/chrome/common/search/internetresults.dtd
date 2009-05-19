@@ -43,8 +43,8 @@
 <!ENTITY availability.column.label "Dostupnost">
 <!ENTITY date.column.label "Datum">
 <!ENTITY site.column.label "Místa v Internetu">
-<!ENTITY results.header.label "Search Results">
+<!ENTITY results.header.label "Výsledky hledání">
 <!ENTITY engine.column.label "Vyhledávací moduly">
 <!ENTITY viewbyprovider.label "Zobrazit podle vyhledávacího modulu:">
 <!ENTITY allresults.title.label "Všechny výsledky">
-<!ENTITY internetresults.title "Search Results">
+<!ENTITY internetresults.title "Výsledky hledání">

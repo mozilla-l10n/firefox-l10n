@@ -41,8 +41,8 @@
 <!ENTITY viewFrameInfoCmd.accesskey "F">
 <!ENTITY fitImageCmd.label "Přizpůsobit obrázek velikosti okna">
 <!ENTITY fitImageCmd.accesskey "B">
-<!ENTITY reloadImageCmd.label "Reload Image">
-<!ENTITY reloadImageCmd.accesskey "Z">
+<!ENTITY reloadImageCmd.label "Načíst obrázek">
+<!ENTITY reloadImageCmd.accesskey "N">
 <!ENTITY viewImageCmd.label "Zobrazit obrázek">
 <!ENTITY viewImageCmd.accesskey "I">
 <!ENTITY viewBGImageCmd.label "Zobrazit obrázek pozadí">
@@ -119,7 +119,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
 <!ENTITY spellAddToDictionary.label "Přidat do slovníku">
 <!ENTITY spellAddToDictionary.accesskey "p">
-<!ENTITY spellIgnoreWord.label "Ignore word">
+<!ENTITY spellIgnoreWord.label "Ignorovat slovo">
 <!ENTITY spellIgnoreWord.accesskey "w">
 <!ENTITY spellCheckEnable.label "Kontrolovat pravopis">
 <!ENTITY spellCheckEnable.accesskey "K">

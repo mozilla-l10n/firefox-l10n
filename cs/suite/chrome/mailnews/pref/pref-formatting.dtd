@@ -49,7 +49,7 @@
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Domény pro zasílání ve formátu HTML a v prostém textu">
-<!ENTITY domaindesc.label "Můžete zadat e-mailové domény (například netscape.net), o kterých víte, že mohou přijímat zprávy ve formátu HTML. Stejně tak můžete zadat i domény, které mohou příjímat pouze prostý text. Když pošlete zprávu na adresu v jedné z domén uvedených níže, bude formát zprávy automaticky upraven.">
+<!ENTITY domaindesc.label "Můžete zadat e-mailové domény (například netscape.net), o kterých víte, že mohou přijímat zprávy ve formátu HTML. Stejně tak můžete zadat i domény, které mohou přijímat pouze prostý text. Když pošlete zprávu na adresu v jedné z domén uvedených níže, bude formát zprávy automaticky upraven.">
 <!ENTITY HTMLdomaintitle.label "Domény pro HTML">
 <!ENTITY HTMLdomaintitle.accesskey "L">
 <!ENTITY PlainTexttitle.label "Domény pro prostý text">

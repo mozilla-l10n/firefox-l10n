@@ -501,7 +501,7 @@
 <!ENTITY contextEditAsNew.accesskey "N">
 <!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
 <!ENTITY contextReplySender.accesskey "L">
-<!ENTITY contextReplyNewsgroup.label "Odpovědět do diskusní slupiny">
+<!ENTITY contextReplyNewsgroup.label "Odpovědět do diskusní skupiny">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "Odpovědět všem">
 <!ENTITY contextReplyAll.accesskey "O">
