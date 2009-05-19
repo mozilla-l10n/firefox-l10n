@@ -56,7 +56,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "wyczyścić całą aktualną historię">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Uruchom program &brandShortName; automatycznie w trybie prywatnym">
+<!ENTITY  privateBrowsingAutoStart.label "Uruchamiaj program &brandShortName; automatycznie w trybie prywatnym">
 <!ENTITY  privateBrowsingAutoStart.accesskey "U">
 
 <!-- LOCALIZATION NOTE:
