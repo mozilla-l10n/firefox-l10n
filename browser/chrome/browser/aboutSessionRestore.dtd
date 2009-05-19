@@ -6,7 +6,7 @@
 <!ENTITY restorepage.problemDesc    "&brandShortName; klarer ikke å gjenopprette vinduer og faner. Dette skyldes vanligvis en nylig åpnet nettside.">
 <!ENTITY restorepage.tryThis        "Du kan forsøke å enten:">
 <!ENTITY restorepage.restoreSome    "Fjerne en eller flere faner som du tror kan ha forårsaket problemet">
-<!ENTITY restorepage.startNew       "Starte en helt ny nettleserøkt">
+<!ENTITY restorepage.startNew       "Starte en helt ny programøkt">
 
 <!ENTITY restorepage.tryagainButton "Gjenopprett">
 <!ENTITY restorepage.restore.access "G">
