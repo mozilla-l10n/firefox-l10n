@@ -57,11 +57,11 @@
 <!ENTITY  clearDataSettings.label        "Configuración...">
 <!ENTITY  clearDataSettings.accesskey    "C">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; será:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.remember.label     "Recordar historial">
-<!ENTITY  historyHeader.dontremember.label "Nunca recordar historial">
-<!ENTITY  historyHeader.custom.label       "Usar configuraciones personalizadas para el historial">
+<!ENTITY  historyHeader.remember.label     "Recordará el historial">
+<!ENTITY  historyHeader.dontremember.label "Nunca recordará el historial">
+<!ENTITY  historyHeader.custom.label       "Usará configuraciones personalizadas para el historial">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; recordará su historial de navegación, descargas, formularios y búsquedas, y mantendrá las cookies de los sitios Web que usted visite.">
