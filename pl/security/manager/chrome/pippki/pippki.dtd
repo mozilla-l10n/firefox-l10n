@@ -18,10 +18,10 @@
    - 
    - Contributor(s):
    -   Terry Hayes <thayes@netscape.com>
-   -   Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
-   -   Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation) 
-   -   Piotr Komoda <gorky@civ.pl> (Polish translation)
-   -   Marek Stepien <marcoos@aviary.pl> (Polish translation)
+   -   Marek Wawoczny <gmbh@mozillapl.org> (Polish localization)
+   -   Piotr Bartecki <pbartecki@mozillapl.org> (Polish localization) 
+   -   Piotr Komoda <gorky@civ.pl> (Polish localization)
+   -   Marek Stepien <marcoos@aviary.pl> (Polish localization)
   -->
   
 <!ENTITY setPassword.title "Zmień hasło główne" >
@@ -60,7 +60,7 @@
 <!ENTITY caCertExists.message "Certyfikat już istnieje." >
 <!ENTITY clientAuthAsk.title "Zażądano identyfikacji użytkownika" >
 <!ENTITY clientAuthAsk.message1 "Pobierana strona wysłała żądanie przedstawienia certyfikatu w celu dokonania identyfikacji:" >
-<!ENTITY clientAuthAsk.message2 "Wybierz certyfikat, który zostanie przedstawiony jako Twój identyfikator:" >
+<!ENTITY clientAuthAsk.message2 "Wybierz certyfikat, który zostanie przedstawiony jako identyfikator użytkownika:" >
 <!ENTITY clientAuthAsk.message3 "Szczegóły wybranego certyfikatu:" >
 <!ENTITY certPicker.title "Wybierz certyfikat" >
 <!ENTITY certPicker.info "Certyfikat:" >
@@ -75,9 +75,9 @@
 <!ENTITY chooseToken.title "Wybór tokenu" >
 <!ENTITY chooseToken.message1 "Należy wybrać token." >
 <!ENTITY escrowWarn.title "Kopia klucza szyfrującego" >
-<!ENTITY escrowWarn.message1 "Ważne: ten organ certyfikacji zaleca utworzenie kopii Twojego prywatnego klucza szyfrującego." >
+<!ENTITY escrowWarn.message1 "Ważne: ten organ certyfikacji zaleca utworzenie własnej kopii prywatnego klucza szyfrującego." >
 <!ENTITY escrowWarn.benefit1 "Zaletą tego rozwiązania jest to, że w przypadku utraty dostępu do prywatnego klucza szyfrującego możliwe będzie uzyskanie jego kopii z organu certyfikacji" >
-<!ENTITY escrowWarn.message2 "Jednakże należy mieć na uwadze, że Twój prywatny klucz szyfrujący, będąc przechowywanym przez organ certyfikacji, może zostać wykorzystany do czytania zaszyfrowanej przy użyciu tego klucza poczty lub dokumentów bez Twojej zgody." >
+<!ENTITY escrowWarn.message2 "Jednakże należy mieć na uwadze, że własny prywatny klucz szyfrujący, będąc przechowywanym przez organ certyfikacji, może zostać wykorzystany do czytania zaszyfrowanej przy użyciu tego klucza poczty lub dokumentów bez zgody użytkownika." >
 <!ENTITY serverCrlNextupdate.message "W celu uzyskania dalszych informacji należy skontaktować się z administratorem sieci." >
 <!ENTITY examineCert.label     "Wyświetl certyfikat">
 <!ENTITY examineCert.accesskey "W">

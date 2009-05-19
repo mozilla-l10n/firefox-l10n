@@ -28,7 +28,7 @@ W tej sytuacji nie należy kontynuować.">
 <!ENTITY certerror.expert.content "Jeśli rozumiesz zagrożenie, możesz nakazać
 programowi &brandShortName;, by ufał identyfikacji tej witryny.
 <b>Nawet jeśli witryna należy do zaufanych, błąd ten może oznaczać, że ktoś ingeruje
-w Twoje połączenie.</b>">
+w połączenie użytkownika.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nie należy dodawać wyjątku, o ile nie ma
 uzasadnionych przyczyn, dla których ta witryna nie używa zaufanej identyfikacji.">
 <!ENTITY certerror.addException.label "Dodaj wyjątek…">
