@@ -1,6 +1,6 @@
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "کوکی‌های زیر در کامپیوتر شما ذخیره شده‌اند:">
+<!ENTITY     cookiesonsystem.label          "کوکی‌های زیر در رایانهٔ شما ذخیره شده‌اند:">
 <!ENTITY     cookiename.label               "نام کوکی">
 <!ENTITY     cookiedomain.label             "وب‌گاه"> 
 <!ENTITY     button.removecookie.label      "حذف کوکی">
