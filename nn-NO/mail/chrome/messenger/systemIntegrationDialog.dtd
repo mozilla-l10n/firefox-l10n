@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Systemintegrasjon">
+<!ENTITY defaultClient.intro  "Bruk &brandShortName; som standardprogram for:">
+
+<!ENTITY email.label "E-post">
+<!ENTITY newsgroups.label "Nyhendegrupper">
+<!ENTITY feeds.label "Nyhendekjelder">
+
+<!ENTITY checkOnStartup.label "Alltid sjekk dette ved oppstart av &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "A">
+
+<!ENTITY searchIntegration.label "Tillat &searchIntegration.engineName; å søkje i meldingar">
+<!ENTITY searchIntegration.accesskey "S">
