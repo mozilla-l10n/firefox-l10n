@@ -9,7 +9,7 @@
 <!ENTITY hideOtherAppsCmd.key "H">
 <!ENTITY hideOtherAppsCmd.modifiers "accel,alt">
 <!ENTITY showAllAppsCmd.label "Показать все">
-<!ENTITY quitApplicationCmd.label "Выйти из &brandShortName;">
+<!ENTITY quitApplicationCmd.label "Завершить &brandShortName;">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.modifiers "accel">
 <!ENTITY closeCmd.label "Закрыть">
