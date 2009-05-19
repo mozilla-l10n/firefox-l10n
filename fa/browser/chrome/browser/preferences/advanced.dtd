@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "م">
 <!ENTITY searchStartTyping.label         "هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جست‌وجو شود">
 <!ENTITY searchStartTyping.accesskey     "ج">
-<!ENTITY blockAutoRefresh.label          "هنگامی که پایگاه‌های وبی تلاش می‌کنند صفحه را بازآوری کنند یا تغییر مسیر دهند، هشدار بده">
+<!ENTITY blockAutoRefresh.label          "هنگامی که پایگاه‌های وبی تلاش می‌کنند صفحه را بازآوری کنند یا تغییر مسیر دهند، هشدار داده شود">
 <!ENTITY blockAutoRefresh.accesskey      "ه">
 
 <!ENTITY browsing.label                  "مرور">
