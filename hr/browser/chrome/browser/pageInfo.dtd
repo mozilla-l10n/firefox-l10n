@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Dozvole">
 <!ENTITY  permTab.accesskey     "D">
 <!ENTITY  permUseDefault        "Koristi uobičajene">
+<!ENTITY  permAskAlways         "Uvijek upitaj">
 <!ENTITY  permAllow             "Dozvoli">
 <!ENTITY  permAllowSession      "Dozvoli za sesiju">
 <!ENTITY  permBlock             "Blokiraj">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Otvaranje skočnih prozora">
 <!ENTITY  permCookie            "Postavljanje kolačića">
 <!ENTITY  permInstall           "Instalaciju dodataka i tema">
+<!ENTITY  permGeo               "Podijeli lokaciju">
 
 <!ENTITY  securityTab           "Sigurnost">
 <!ENTITY  securityTab.accesskey "S">
