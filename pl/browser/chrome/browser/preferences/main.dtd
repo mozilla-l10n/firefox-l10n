@@ -18,9 +18,9 @@
 
 <!ENTITY downloads.label     		"Pobieranie">
 
-<!ENTITY showWhenDownloading.label     	"Wyświetl menedżera pobierania podczas pobierania plików">
+<!ENTITY showWhenDownloading.label     	"Wyświetlaj menedżer pobierania podczas pobierania plików">
 <!ENTITY showWhenDownloading.accesskey 	"W">
-<!ENTITY closeWhenDone.label 		"Zamknij po pobraniu wszystkich plików">
+<!ENTITY closeWhenDone.label 		"Zamykaj go po pobraniu wszystkich plików">
 <!ENTITY closeWhenDone.accesskey 	"k">
 <!ENTITY saveTo.label 			"Pobierane pliki zapisuj do:">
 <!ENTITY saveTo.accesskey 		"o">
