@@ -122,3 +122,6 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "தொழில்நுட்ப விவரங்கள்">
+
+<!ENTITY  permAskAlways         "எப்போதும் கேள்">
+<!ENTITY  permGeo               "இடத்தைப் பகிர்">
