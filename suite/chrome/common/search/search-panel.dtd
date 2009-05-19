@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label "Hledat">
-<!ENTITY allengines.label "Všechny vyhledavací služby">
+<!ENTITY allengines.label "Všechny vyhledávací služby">
 <!ENTITY within.label "ve skupině">
 <!ENTITY using.label "za použití">
 <!ENTITY choose.label "Vyberte službu a klepněte na Najít.">

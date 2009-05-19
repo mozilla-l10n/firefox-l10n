@@ -23,7 +23,7 @@
 <!ENTITY props.secure.label "Omezení na:">
 <!ENTITY props.expires.label "Platnost cookie vyprší:">
 
-<!ENTITY treehead.sitename.label "Site">
+<!ENTITY treehead.sitename.label "Server">
 <!ENTITY treehead.status.label "Stav">
 <!ENTITY windowtitle.label "Správce cookies">
 <!ENTITY buttonaccept.label "Zavřít">

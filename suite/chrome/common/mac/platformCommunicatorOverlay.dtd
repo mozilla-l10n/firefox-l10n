@@ -5,24 +5,24 @@
 <!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
   application menu. Never change the modifiers unless you are 100% sure that
   they are different on your locale (should be very rare). -->
-<!ENTITY preferencesCmd.label "Preferences…">
+<!ENTITY preferencesCmd.label "Předvolby…">
 <!ENTITY preferencesCmd.key ",">
 <!ENTITY preferencesCmd.modifiers "accel">
-<!ENTITY servicesMenu.label "Services">
-<!ENTITY hideThisAppCmd.label "Hide &brandShortName;">
-<!ENTITY hideThisAppCmd.key "H">
+<!ENTITY servicesMenu.label "Služby">
+<!ENTITY hideThisAppCmd.label "Skrýt aplikaci &brandShortName;">
+<!ENTITY hideThisAppCmd.key "S">
 <!ENTITY hideThisAppCmd.modifiers "accel">
-<!ENTITY hideOtherAppsCmd.label "Hide Others">
-<!ENTITY hideOtherAppsCmd.key "H">
+<!ENTITY hideOtherAppsCmd.label "Skrýt ostatní">
+<!ENTITY hideOtherAppsCmd.key "O">
 <!ENTITY hideOtherAppsCmd.modifiers "accel,alt">
-<!ENTITY showAllAppsCmd.label "Show All">
+<!ENTITY showAllAppsCmd.label "Zobrazit vše">
 <!ENTITY quitApplicationCmd.label "Ukončit">
-<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.key "k">
 <!ENTITY quitApplicationCmd.modifiers "accel">
 <!-- End of Application menu -->
 
 <!ENTITY closeCmd.label "Zavřít">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "Z">
 
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "v">
