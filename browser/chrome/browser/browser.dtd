@@ -294,7 +294,7 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Выход">
 <!ENTITY quitApplicationCmd.accesskey "ы">
-<!ENTITY quitApplicationCmdMac.label "Выход из &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label "Завершить &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key "Q">
 <!ENTITY closeCmd.label "Закрыть">
 <!ENTITY closeCmd.key "W">

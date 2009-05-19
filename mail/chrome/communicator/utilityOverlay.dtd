@@ -44,5 +44,5 @@
 <!ENTITY quitApplicationCmd.accesskey "ы">
 <!ENTITY quitApplicationCmdUnix.label "Выход">
 <!ENTITY quitApplicationCmdUnix.accesskey "ы">
-<!ENTITY quitApplicationCmdMac.label "Выход из &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "В">
+<!ENTITY quitApplicationCmdMac.label "Завершить &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "в">
