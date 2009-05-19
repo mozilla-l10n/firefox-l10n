@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "y">
 <!ENTITY openInNewWindow.label "Obre en una finestra nova">
 <!ENTITY openInNewWindow.accesskey "n">
-<!ENTITY bookmarkLink.label "Afegeix l'enllaç a les adreces d'interès">
-<!ENTITY bookmarkLink.accesskey "A">
 <!ENTITY copyLink.label "Copia l'enllaç">
 <!ENTITY copyLink.accesskey "C">
