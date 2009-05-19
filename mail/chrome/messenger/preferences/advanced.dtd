@@ -8,9 +8,11 @@
 
 <!ENTITY enableGlodaSearch.label "Povolit globální hledání a indexaci">
 <!ENTITY enableGlodaSearch.accesskey "P">
-<!ENTITY systemDefaults.label "Nastavení systému">
+<!ENTITY systemIntegration.label "Nastavení systému">
 <!ENTITY alwaysCheckDefault.label "Při startu aplikace &brandShortName; kontrolovat, zda je výchozím poštovním klientem">
 <!ENTITY alwaysCheckDefault.accesskey "t">
+<!ENTITY searchIntegration.label "Povolit službě &searchIntegration.engineName; prohledávat zprávy">
+<!ENTITY searchIntegration.accesskey "P">
 <!ENTITY checkNow.label "Zkontrolovat">
 <!ENTITY checkNow.accesskey "n">
 <!ENTITY configEditDesc.label "Rozšířená konfigurace">
@@ -41,6 +43,8 @@
 <!ENTITY reuseExpRadio0.accesskey "N">
 <!ENTITY reuseExpRadio1.label "Aktuálním okně se zprávou">
 <!ENTITY reuseExpRadio1.accesskey "A">
+<!ENTITY closeMsgWindowOnDelete.label "Při smazání zprávy zavřít okno">
+<!ENTITY closeMsgWindowOnDelete.accesskey "s">
 
 <!-- Update -->
 <!ENTITY autoCheck.label "Automaticky kontrolovat aktualizace pro:">

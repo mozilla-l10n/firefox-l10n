@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "p">
 <!ENTITY openInNewWindow.label "Otevřít v novém okně">
 <!ENTITY openInNewWindow.accesskey "O">
-<!ENTITY bookmarkLink.label "Přidat odkaz k záložkám…">
-<!ENTITY bookmarkLink.accesskey "P">
 <!ENTITY copyLink.label "Kopírovat adresu odkazu">
 <!ENTITY copyLink.accesskey "K">
