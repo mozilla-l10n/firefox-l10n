@@ -1,7 +1,7 @@
 
 <!ENTITY pref.policies.title "Zabezpečení">
 
-<!ENTITY zoneIntro.label "&brandShortName; dovoluje vytvořit bezpečnostní omezení, které vymezuje jaký přístup se má použít k určitým sítím, dostupnost některých funkcí, s ohledem zvlášte na skripty a Javu.">
+<!ENTITY zoneIntro.label "&brandShortName; dovoluje vytvořit bezpečnostní omezení, které vymezuje jaký přístup se má použít k určitým sítím, dostupnost některých funkcí, s ohledem zvláště na skripty a Javu.">
 
 <!ENTITY policies.label "Omezení:">
 <!ENTITY default.label "Výchozí zabezpečení">

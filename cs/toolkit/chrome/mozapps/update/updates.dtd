@@ -4,7 +4,7 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "Kontrola aktualizací">
-<!ENTITY updateCheck.label "Zjištuji dostupnost nové verze aplikace &brandShortName;…">
+<!ENTITY updateCheck.label "Zjišťuji dostupnost nové verze aplikace &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "Aktualizace nenalezeny">
 <!ENTITY noupdatesautoenabled.intro "Nebyly nalezeny žádné nové aktualizace. Aplikace &brandShortName; bude pravidelně zjišťovat jejich dostupnost.">
@@ -13,14 +13,14 @@
 
 
 <!ENTITY manualUpdate.title "Aktualizace není možná">
-<!ENTITY manualUpdate.desc "Doporučovaná bezpečnostní a výkonostní aktualizace je dostupná, ale nemáte systémová práva potřebná k její instalaci. Kontaktujte prosím svého systémového administrátora, nebo ji zkuste znovu z účtu, který má oprávnění k instalaci softwaru na tomto počítači.">
+<!ENTITY manualUpdate.desc "Doporučovaná bezpečnostní a výkonnostní aktualizace je dostupná, ale nemáte systémová práva potřebná k její instalaci. Kontaktujte prosím svého systémového administrátora, nebo ji zkuste znovu z účtu, který má oprávnění k instalaci softwaru na tomto počítači.">
 
 
 
 <!ENTITY manualUpdateGetMsg.label "Nejnovější verze aplikace &brandShortName; je vždy dostupná na:">
 
 <!ENTITY incompatibleCheck.title "Kontrola kompatibility doplňků">
-<!ENTITY incompatibleCheck.label "Zjištuji dostupnost nových verzí vašich doplňků…">
+<!ENTITY incompatibleCheck.label "Zjišťuji dostupnost nových verzí vašich doplňků…">
 
 <!ENTITY clickHere.label "Zobrazit více informací o této aktualizaci">
 
@@ -38,7 +38,7 @@
 <!ENTITY license.decline "Nesouhlasím s podmínkami tohoto licenčního ujednání">
 <!ENTITY license.decline.accesskey "N">
 
-<!ENTITY  incompatibleList.title "Nelezeny nekompatibilní doplňky">
+<!ENTITY  incompatibleList.title "Nalezeny nekompatibilní doplňky">
 
 <!ENTITY downloading.title "Stahování aktualizací">
 <!ENTITY downloading.intro "Stahování aktualizací…">
@@ -65,7 +65,7 @@
 <!ENTITY finishedPage.text "Aktualizace bude nainstalována při příštím startu aplikace &brandShortName;. Nyní můžete aplikaci &brandShortName; restartovat nebo pokračovat v práci a restartovat ji později.">
 
 
-<!ENTITY finishedBackgroundPage.text "Bezpečnostní a výkonostní aktualizace aplikace &brandShortName; byla stažena a je připraven instalaci.">
+<!ENTITY finishedBackgroundPage.text "Bezpečnostní a výkonnostní aktualizace aplikace &brandShortName; byla stažena a je připraven instalaci.">
 
 <!ENTITY finishedBackground.name "Aktualizace:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
