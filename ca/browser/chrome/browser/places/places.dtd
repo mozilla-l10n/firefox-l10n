@@ -67,6 +67,8 @@
 <!ENTITY cmd.edit_redo.accesskey "R">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Afegeix la pàgina a les adreces d'interès…">
+<!ENTITY cmd.bookmarkLink.accesskey     "d">
 <!ENTITY cmd.delete.label               "Suprimeix la pàgina">
 <!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Oblida el lloc">
