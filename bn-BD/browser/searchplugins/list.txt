@@ -1,5 +1,7 @@
 answers
+cellbazaar
 clickbd
 creativecommons
 google
 wikipedia-bn
+yahoo
