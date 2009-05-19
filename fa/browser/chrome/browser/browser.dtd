@@ -241,7 +241,7 @@
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "بازآوردن چارچوب">
 <!ENTITY reloadFrameCmd.accesskey     "ب">
-<!ENTITY viewPartialSourceForSelectionCmd.label "نمایش مبدأ متنِ انتخاب شده">
+<!ENTITY viewPartialSourceForSelectionCmd.label "نمایش مبداء بخش انتخاب شده">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "نمایش مبداء MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
