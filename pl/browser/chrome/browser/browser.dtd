@@ -331,10 +331,10 @@
 <!ENTITY mediaMute.accesskey         "c">
 <!ENTITY mediaUnmute.label           "Przywróć głośność">
 <!ENTITY mediaUnmute.accesskey       "P">
-<!ENTITY mediaShowControls.label     "Wyświetl narzędzia">
+<!ENTITY mediaShowControls.label     "Wyświetl elementy sterujące">
 <!ENTITY mediaShowControls.accesskey "e">
-<!ENTITY mediaHideControls.label     "Ukryj narzędzia">
-<!ENTITY mediaHideControls.accesskey "U">
+<!ENTITY mediaHideControls.label     "Ukryj elementy sterujące">
+<!ENTITY mediaHideControls.accesskey "e">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and 
