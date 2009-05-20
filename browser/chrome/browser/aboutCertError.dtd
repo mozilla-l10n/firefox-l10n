@@ -6,31 +6,19 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Untrusted Connection">
-<!ENTITY certerror.longpagetitle "This Connection is Untrusted">
-
+<!ENTITY certerror.pagetitle  "අවිශ්වාස සම්බන්ධයක්">
+<!ENTITY certerror.longpagetitle "මෙම සම්බන්ධතාව විශ්වාස කටයුතු නොවේ">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "You have asked &brandShortName; to connect
-securely to <b>#1</b>, but we can't confirm that your connection is secure.">
-<!ENTITY certerror.introPara2 "Normally, when you try to connect securely,
-sites will present trusted identification to prove that you are
-going to the right place. However, this site's identity can't be verified.">
+<!ENTITY certerror.introPara1 "ඔබ &brandShortName; ගෙන් <b>#1</b> සඳහා ආරක්ෂිතව සම්බන්ධ වීමට ඉල්ලා ඇත, නමුත් අපට ඔබේ සම්බන්ධතාවය ආරක්ෂිතදැයි තහවුරු කළ නොහැක.">
+<!ENTITY certerror.introPara2 "සාමාන්‍යයෙන්, ඔබ ආරක්ෂිතව සම්බන්ධ වීමට තැත් කරන විට, ඔබ නිවැරදි ස්ථානයට යන බව තහවුරු කිරීමට අඩවි මගින් විශ්වාසදායී අනන්‍යතාවයක් ලබාදෙනු ඇත. කෙසේවුවත් මෙම අඩවියේ අනන්‍යතාවය තහවුරු කළ නොහැක.">
+<!ENTITY certerror.whatShouldIDo.heading "මා කළ යුත්තේ කුමක්ද?">
+<!ENTITY certerror.whatShouldIDo.content "ඔබ සාමාන්‍යයෙන් මෙම අඩවියට ගැටළුවක් නොමැතිව සම්බන්ධ වන්නේ නම්, මේ දෝෂය මගින් යමෙක් මෙම අඩවිය වචංනික‍ ලෙස අනුකරණය කිරීමට තැත්කරන බව හැඟවේ. එනිසා ඔබ ඉදිරියට යාමෙන් වැළකිය යුතුය.">
+<!ENTITY certerror.getMeOutOfHere.label "මාව මෙතැනින් ගෙනියන්න!">
 
-<!ENTITY certerror.whatShouldIDo.heading "What Should I Do?">
-<!ENTITY certerror.whatShouldIDo.content "If you usually connect to
-this site without problems, this error could mean that someone is
-trying to impersonate the site, and you shouldn't continue.">
-<!ENTITY certerror.getMeOutOfHere.label "Get me out of here!">
-
-<!ENTITY certerror.expert.heading "I Understand the Risks">
-<!ENTITY certerror.expert.content "If you understand what's going on, you
-can tell &brandShortName; to start trusting this site's identification.
-<b>Even if you trust the site, this error could mean that someone is
-tampering with your connection.</b>">
-<!ENTITY certerror.expert.contentPara2 "Don't add an exception unless
-you know there's a good reason why this site doesn't use trusted identification.">
-<!ENTITY certerror.addException.label "Add Exception…">
-
-<!ENTITY certerror.technical.heading "Technical Details">
+<!ENTITY certerror.expert.heading "මම අනතුර දනිමි!">
+<!ENTITY certerror.expert.content "ඔබ සිදුවන්නේ කුමක්දැයි දන්නේ නම් ඔබට &brandShortName; වෙත අඩවියේ අනන්‍යතාවය විශ්වාස කරන ලෙස කිව හැක. <b>ඔබ මෙම අඩවිය විශ්වාස කළත් මෙම දෝෂය මගින් යමෙක් ඔබේ සම්බන්ධතාවයට හානි කරන බවද හැඟවිය හැක..</b>">
+<!ENTITY certerror.expert.contentPara2 "ඔබට මෙම අඩවිය විශ්වාස නොවන අනන්‍යතාවයක් භාවිතා නොකරන්නේ මන්දැයි පැහැදිලි අවබෝධයක් නැතිනම් නොසලකා හැරීමක් එක්කරන්නට එපා.">
+<!ENTITY certerror.addException.label "නොසලකා හැරීමක් එක්කරන්න…">
+<!ENTITY certerror.technical.heading "තාක්ෂණික දත්ත">
