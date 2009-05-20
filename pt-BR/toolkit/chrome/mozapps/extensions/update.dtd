@@ -14,7 +14,7 @@
 <!ENTITY  checking.status                 "Isto pode levar alguns minutos…">
 
 <!ENTITY  found.wizard.title               "Encontradas extensões e temas compatíveis">
-<!ENTITY  found.top.label                 "Selecione extensões e temas que deseja instalar:">
+<!ENTITY  found.top.label                 "Selecione as extensões e temas que deseja instalar:">
 <!ENTITY  found.disabledXPinstall.label   "As atualizações não puderam ser instaladas porque a instalação de extensões e temas está desativada. Abaixo, você pode alterar esta opção.">
 <!ENTITY  found.enableXPInstall.label     "Permitir que sites instalem extensões e temas">
 <!ENTITY  found.enableXPInstall.accesskey "P">
