@@ -94,6 +94,7 @@
 <!ENTITY addonInstall.label               "Įdiegti">
 <!ENTITY addonUninstall.label             "Pašalinti">
 <!ENTITY addonCancel.label                "Atsisakyti">
+<!ENTITY addonShowPage.label              "Eiti į tinklalapį">
 
 <!ENTITY downloadsHeader.label            "Atsiuntimai">
 <!ENTITY downloadsSortDate.label          "Pagal datą">
@@ -103,8 +104,8 @@
 <!ENTITY downloadsSearch.emptytext        "Ieškoti atsiųsto failo">
 
 <!ENTITY downloadShowPage.label           "Eiti į tinklalapį">
-<!ENTITY downloadShow.label               "Rasti failą">
-<!ENTITY downloadOpen.label               "Atverti">
+<!ENTITY downloadShow2.label              "Parodyti">
+<!ENTITY downloadOpen2.label              "Atverti">
 <!ENTITY downloadCancel.label             "Atsisakyti">
 <!ENTITY downloadPause.label              "Pauzė">
 <!ENTITY downloadResume.label             "Tęsti">
