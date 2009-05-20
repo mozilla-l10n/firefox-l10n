@@ -120,3 +120,7 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "т">
 
 <!ENTITY  securityView.technical.header                 "Техникалық ақпарат">
+
+<!ENTITY  permAskAlways         "Әрқашан сұрау">
+#If you're having trouble with the word Share, please use Allow and Block in your language.
+<!ENTITY  permGeo               "Орналасуығызды жариялау">
