@@ -1,6 +1,6 @@
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "নিম্নলিখইত কুকি আপপোনাৰ কম্পিউটাৰত আছে:">
+<!ENTITY     cookiesonsystem.label          "নিম্নলিখিত কুকি আপোনাৰ কম্পিউটাৰত আছে:">
 <!ENTITY     cookiename.label               "কুকিৰ নাম">
 <!ENTITY     cookiedomain.label             "ছাইট"> 
 <!ENTITY     button.removecookie.label      "কুকি আঁতৰাওক">
