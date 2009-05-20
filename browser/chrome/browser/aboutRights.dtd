@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "පිළිබඳ:අයිතීන්">
 <!ENTITY rights.intro-header    "ඔබගේ අයිතීන් පිළිබඳ">
-<!ENTITY rights.intro "&brandFullName; ලොව පුරා සිටින දහස් සංඛ්‍යාත ප්‍රජාවක් විසින් තනන ලද නිදහස් හා විවෘත මෘදුකාංගුකි. ඔබ දැනගත යුතු දේවල් කීපයක් ඇත:">
+<!ENTITY rights.intro "&brandFullName; ලොව පුරා සිටින දහස් සංඛ්‍යාත ප්‍රජාවක් විසින් තනන ලද නිදහස් හා විවෘත මෘදුකාංගයකි. ඔබ දැනගත යුතු දේවල් කීපයක් ඇත:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,17 +12,18 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "හි කොන්දේසි යටතේ &brandShortName; ඔබට ප්‍රයෝජන ගැනීමට නිපදවා ඇත ">
-<!ENTITY rights.intro-point1b "Mozilla පොදු බලපත්‍රය">
-<!ENTITY rights.intro-point1c ". ඔබට &brandShortName; භාවිතා කිරීමට, අන්‍යයන්ට පිටපත් කර දීමට සහ බෙදාහැරීමට ඔබට හැක යන්න මෙයින් අදහස් කෙරේ.  ඔබට ඔබගේ අවශ්‍යතාවය පරිදි &brandShortName; හි මූල කේතය විකරණය කිරීමටද සාදරයෙන් ආරාධනා කරමු. Mozilla පොදු බලපත්‍රය විසින් ඔබගේ විකරණය කරන ලද වෙළුම් බෙදාහැරීමටද ඔබට අයිතිය ලබා දෙයි.">
+<!ENTITY rights.intro-point1a "මෙහි කොන්දේසි යටතේ &brandShortName; ඔබට ප්‍රයෝජන ගැනීමට නිපදවා ඇත්තේ ">
+<!ENTITY rights.intro-point1b "Mozilla පොදු බලපත්‍රය යටතේයි">
+<!ENTITY rights.intro-point1c ". &brandShortName; භාවිතා කිරීමට, අන්‍යයන්ට පිටපත් කර දීමට සහ බෙදාහැරීමට ඔබට හැක යන්න මෙයින් අදහස් කෙරේ.  ඔබට ඔබගේ අවශ්‍යතාවය පරිදි Shiretoko හි මූල කේතය දියුණ කිරීමටද සාදරයෙන් ආරාධනා කරමු. Mozilla පොදු බලපත්‍රය විසින් ඔබගේ විකරණය කරන ලද වෙළුම් බෙදාහැරීමටද ඔබට අයිතිය ලබා දෙයි.">
 
-<!ENTITY rights.intro-point2a "Mozilla සහ Firefix වෙළඳ ලකුණු සහ සළකුණු සඳහා කිසිම අයිතීයක් Mozilla ඔබට ලබා දෙන්නේ නැත. වෙළඳ ලකුණු පිළිබඳ අමතර තොරතුරු මෙහිදී සොයා ගැනීමට හැකි වනු ඇත. ">
+
+<!ENTITY rights.intro-point2a "Mozilla සහ Firefox වෙළඳ ලකුණු සහ සළකුණු සඳහා කිසිම අයිතියක් Mozilla ඔබට ලබා දෙන්නේ නැත. වෙළඳ ලකුණු පිළිබඳ අමතර තොරතුරු මෙහිදී සොයා ගැනීමට හැක. ">
 <!ENTITY rights.intro-point2b "">
 <!ENTITY rights.intro-point2c "">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "&vendorShortName; සඳහා පෞද්ගලික ප්‍රතිපත්ති සොයාගැනීමට හැකි වනු ඇත ">
-<!ENTITY rights.intro-point3b "මෙහිදී">
+<!ENTITY rights.intro-point3a "මෙහිදී &vendorShortName; සඳහා පෞද්ගලික ප්‍රතිපත්ති සොයාගැනීමට හැක ">
+<!ENTITY rights.intro-point3b "">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
