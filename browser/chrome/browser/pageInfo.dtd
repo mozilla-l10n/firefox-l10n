@@ -89,6 +89,7 @@
 <!ENTITY  permTab               "Permissões">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Usar o padrão">
+<!ENTITY  permAskAlways         "Perguntar">
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "Excluir ao sair">
 <!ENTITY  permBlock             "Bloquear">
@@ -97,6 +98,7 @@
 <!ENTITY  permPopup             "Abrir janelas popup">
 <!ENTITY  permCookie            "Definir cookies">
 <!ENTITY  permInstall           "Instalar extensões ou temas">
+<!ENTITY  permGeo               "Compartilhar localização">
 
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">
@@ -107,9 +109,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Identidade do site">
-<!ENTITY  securityView.identity.owner    "Proprietário: ">
-<!ENTITY  securityView.identity.domain   "Site: ">
-<!ENTITY  securityView.identity.verifier "Homologado por: ">
+<!ENTITY  securityView.identity.owner    "Proprietário:">
+<!ENTITY  securityView.identity.domain   "Site:">
+<!ENTITY  securityView.identity.verifier "Homologado por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e histórico">
 <!ENTITY  securityView.privacy.history                  "Eu tinha visitado este site ontem ou antes?">

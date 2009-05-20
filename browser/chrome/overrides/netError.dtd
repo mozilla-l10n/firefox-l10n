@@ -1,7 +1,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problema no carregamento da página">
+<!ENTITY loadError.label "Falha no carregamento da página">
 <!ENTITY retry.label "Tentar de novo">
 
 <!-- Specific error messages -->
@@ -38,16 +38,13 @@
 ">
 
 <!ENTITY malformedURI.title "O endereço não é válido">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Endereços web são geralmente escritos na forma
-    <strong>http://www.exemplo.com.br/</strong></li>
-  <li>Certifique-se de que não está usando barras invertidas (ou seja, está usando
-    <strong>/</strong>).</li>
+<!ENTITY malformedURI.longDesc "<ul>
+  <li>Endereços web são geralmente escritos na forma <strong>http://www.exemplo.com.br/</strong></li>
+  <li>Certifique-se de que não esteja usando barras invertidas (ou seja, de que esteja usando <strong>/</strong>).</li>
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "A conexão foi interrompida">
+<!ENTITY netInterrupt.title "Conexão interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo offline">
@@ -71,10 +68,10 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "A conexão foi reiniciada">
+<!ENTITY netReset.title "Conexão reiniciada">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "A conexão atingiu o tempo limite">
+<!ENTITY netTimeout.title "Tempo limite atingido">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "O endereço não foi compreendido">
