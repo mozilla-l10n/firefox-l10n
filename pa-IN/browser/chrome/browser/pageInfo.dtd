@@ -89,6 +89,7 @@
 <!ENTITY  permTab               "ਅਧਿਕਾਰ">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "ਡਿਫਾਲਟ ਵਰਤੋਂ">
+<!ENTITY  permAskAlways         "ਹਮੇਸ਼ਾ ਪੁੱਛੋ">
 <!ENTITY  permAllow             "ਮਨਜ਼ੂਰ">
 <!ENTITY  permAllowSession      "ਸ਼ੈਸ਼ਨ ਲਈ ਮਨਜ਼ੂਰ ਕਰੋ">
 <!ENTITY  permBlock             "ਪਾਬੰਦੀ ਲਾਓ">
@@ -97,6 +98,7 @@
 <!ENTITY  permPopup             "ਪੋਪਅੱਪ ਵਿੰਡੋਜ਼ ਖੋਲ੍ਹੋ">
 <!ENTITY  permCookie            "ਕੂਕੀਜ਼ ਸੈੱਟ ਕਰੋ">
 <!ENTITY  permInstall           "ਇਕਸਟੈਨਸ਼ਨ ਜਾਂ ਥੀਮ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY  permGeo               "ਟਿਕਾਣਾ ਸਾਂਝਾ ਕਰੋ">
 
 <!ENTITY  securityTab           "ਸੁਰੱਖਿਆ">
 <!ENTITY  securityTab.accesskey "S">
