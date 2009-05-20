@@ -17,12 +17,10 @@
   <li>Sjå om det er skrivefeil i adressa, til dømes
     <strong>ww</strong>.døme.no i staden for
     <strong>www</strong>.døme.no</li>
- <li>Dersom du ikkje klarer å laste nokre sider, kontroller at nettverkssambandet til datamaskina er i orden.</li>  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å få tilgang til Internett.</li> </ul> 
-
-  <li>Dersom du ikkje klarer å laste noka side som helst, kontroller at nettverkssambandet til datamaskinen 
-    er i orden.</li>
-  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at
-    &brandShortName; har løyve til å få tilgjenge til Internett.</li>
+  <li>Dersom du ikkje klarer å laste nokre sider, kontroller at nettverkssambandet til datamaskina er 
+    i orden.</li>
+  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller 
+   at &brandShortName; har løyve til å få tilgang til Internett.</li>
 </ul>
 ">
 
