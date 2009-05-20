@@ -141,7 +141,7 @@
 <!ENTITY newNavigatorCmd.accesskey "N">
 
 <!ENTITY editMenu.label "Redigeer">
-<!ENTITY editMenu.accesskey "R">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Ontdoen">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "O">
@@ -179,7 +179,7 @@
 <!ENTITY privateBrowsingCmd.commandkey "b">
 
 <!ENTITY viewMenu.label "Bekyk">
-<!ENTITY viewMenu.accesskey "B">
+<!ENTITY viewMenu.accesskey "k">
 <!ENTITY viewToolbarsMenu.label "Nutsbalke">
 <!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY viewSidebarMenu.label "Kantbalk">
@@ -195,7 +195,7 @@
 
 <!ENTITY historyHomeCmd.label "Tuis">
 <!ENTITY showAllHistoryCmd2.label "Wys hele geskiedenis">
-<!ENTITY showAllHistoryCmd.commandkey "g">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Deursoek boekmerke en geskiedenis">

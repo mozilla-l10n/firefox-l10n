@@ -36,7 +36,7 @@ onder om hierdie bywerking te installeer.">
 <!ENTITY license.accept "Ek aanvaar die bepalings van die lisensieooreenkoms">
 <!ENTITY license.accept.accesskey "s">
 <!ENTITY license.decline "Ek aanvaar nié die bepalings van die lisensieooreenkoms nie">
-<!ENTITY license.decline.accesskey "T">
+<!ENTITY license.decline.accesskey "n">
 
 <!ENTITY incompatibleList.title "Onversoenbare byvoegings gevind">
 
