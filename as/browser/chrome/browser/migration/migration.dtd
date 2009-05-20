@@ -1,9 +1,9 @@
 
 <!ENTITY migrationWizard.title          "উইজাৰ্ড আমদানি কৰক">
 
-<!ENTITY importFrom.label               "-ৰ পৰা বিকল্প, পত্ৰচিহ্ন, ইতিহাস, গুপ্তশব্দ  আৰু অন্য তথ্যৰ আমদানি কৰক:">
-<!ENTITY importFromUnix.label           "-ৰ পৰা পছন্দ, পত্ৰচিহ্ন, ইতিহাস, গুপ্তশব্দ আৰু অন্য তথ্যৰ আমদানি কৰক:">
-<!ENTITY importFromBookmarks.label      "-ৰ পৰা পত্ৰচিহ্ন আমদানি কৰক:">
+<!ENTITY importFrom.label               "ইয়াৰ পৰা বিকল্প, পত্ৰচিহ্ন, ইতিহাস, গুপ্তশব্দ  আৰু অন্য তথ্যৰ আমদানি কৰক:">
+<!ENTITY importFromUnix.label           "ইয়াৰ পৰা পছন্দ, পত্ৰচিহ্ন, ইতিহাস, গুপ্তশব্দ আৰু অন্য তথ্যৰ আমদানি কৰক:">
+<!ENTITY importFromBookmarks.label      "ইয়াৰ পৰা পত্ৰচিহ্ন আমদানি কৰক:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

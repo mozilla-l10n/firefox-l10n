@@ -1,4 +1,4 @@
-<!ENTITY caption.label         "Opening #1">
+<!ENTITY caption.label         "#1 খোলা হৈছে">
 
 <!-- Localization note: The default intro text has 3 "inserts":
         #1 - replaced with the descriptive text that describes the mime type
