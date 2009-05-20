@@ -1,18 +1,18 @@
-<!ENTITY pref.images.title "Images">
-<!ENTITY imageBlocking.label "Image Acceptance Policy">
-<!ENTITY imageDetails "Specify how &brandShortName; handles images.">
-<!ENTITY accAllImagesRadio.label "Accept all images">
-<!ENTITY accAllImagesRadio.accesskey "A">
-<!ENTITY accOrgImagesRadio.label "Accept images that come from the originating server only">
-<!ENTITY accOrgImagesRadio.accesskey "r">
-<!ENTITY disableImages.label "Do not load any images">
-<!ENTITY disableImages.accesskey "n">
-<!ENTITY viewImages.label "Manage Image Permissions">
-<!ENTITY viewImages.accesskey "P">
-<!ENTITY animLoopingTitle.label "Animated images should loop">
-<!ENTITY animLoopAsSpecified.label "As many times as the image specifies">
-<!ENTITY animLoopAsSpecified.accesskey "m">
-<!ENTITY animLoopOnce.label "Once">
-<!ENTITY animLoopOnce.accesskey "O">
-<!ENTITY animLoopNever.label "Never">
-<!ENTITY animLoopNever.accesskey "v">
+<!ENTITY pref.images.title "Зображення">
+<!ENTITY imageBlocking.label "Умови дозволу зображень">
+<!ENTITY imageDetails "Описати як, &brandShortName; обробляє зображення.">
+<!ENTITY accAllImagesRadio.label "Дозволити всі зображення">
+<!ENTITY accAllImagesRadio.accesskey "Д">
+<!ENTITY accOrgImagesRadio.label "Дозволити зображення лише з сервера сайта">
+<!ENTITY accOrgImagesRadio.accesskey "Д">
+<!ENTITY disableImages.label "Не завантажувати жодного зображення">
+<!ENTITY disableImages.accesskey "Н">
+<!ENTITY viewImages.label "Керувати правами доступу зображень">
+<!ENTITY viewImages.accesskey "К">
+<!ENTITY animLoopingTitle.label "Анімаційне зображення слід повторювати">
+<!ENTITY animLoopAsSpecified.label "Стільки разів, скільки передбачено зображенням">
+<!ENTITY animLoopAsSpecified.accesskey "С">
+<!ENTITY animLoopOnce.label "Один раз">
+<!ENTITY animLoopOnce.accesskey "О">
+<!ENTITY animLoopNever.label "Ніколи">
+<!ENTITY animLoopNever.accesskey "Н">

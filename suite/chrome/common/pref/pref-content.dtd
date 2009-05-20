@@ -2,7 +2,7 @@
 
 <!ENTITY pref.content.title                     "Вміст">
 <!ENTITY pref.content.description               "Ці налаштування впливають на те, як сайт і вміст повідомлень виринає в &brandShortName;.">
-<!ENTITY siteIcons.label                        "Піпктограма сайтів">
+<!ENTITY siteIcons.label                        "Піктограма сайтів">
 <!ENTITY useSiteIcons.label                     "Показувати піктограми сайтів">
 <!ENTITY useSiteIcons.accesskey                 "П">
 <!ENTITY useFavIcons.label                      "Не показувати піктограми сайтів, коли сторінка не відкриває їх">
@@ -16,7 +16,7 @@
 <!ENTITY tbIconsAlways.accesskey                "З">
 <!ENTITY enableAutomaticImageResizing.label     "Змінити розмір великих зображень до придатного у вікні навігатора">
 <!ENTITY enableAutomaticImageResizing.accesskey "З">
-<!ENTITY useSmoothScroll.label                  "Викристати плавне прокручування">
+<!ENTITY useSmoothScroll.label                  "Використати плавне прокручування">
 <!ENTITY useSmoothScroll.accesskey              "В">
 <!ENTITY textZoomOnly.label                     "Масштабувати лише текст замість цілих сторінок">
 <!ENTITY textZoomOnly.accesskey                 "М">
