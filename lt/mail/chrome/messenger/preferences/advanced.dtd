@@ -46,24 +46,6 @@
 <!ENTITY searchIntegration.accesskey   "L">
 <!ENTITY checkNow.label                "Tikrinti dabar">
 <!ENTITY checkNow.accesskey            "d">
-<!ENTITY showCondensedAddresses.label  "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
-<!ENTITY showCondensedAddresses.accesskey "a">
-
-<!ENTITY autoMarkAsRead.label          "Atvertą laišką pažymėti kaip skaitytą">
-<!ENTITY autoMarkAsRead.accesskey      "ž">
-<!ENTITY markAsReadNoDelay.label       "iškart">
-<!ENTITY markAsReadNoDelay.accesskey   "i">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-	  using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "praėjus">
-<!ENTITY markAsReadDelay.accesskey     "p">
-<!ENTITY secondsLabel.label            "sek.">
-<!ENTITY openMsgIn.label               "Atveriamą laišką rodyti:">
-<!ENTITY reuseExpRadio0.label          "naujame lange">
-<!ENTITY reuseExpRadio0.accesskey      "n">
-<!ENTITY reuseExpRadio1.label          "tame pačiame (atvertame) lange">
-<!ENTITY reuseExpRadio1.accesskey      "t">
 <!ENTITY configEditDesc.label          "Papildoma sąranka (patyrusiems naudotojams).">
 <!ENTITY configEdit.label              "Visų parametrų sąrašas…">
 <!ENTITY configEdit.accesskey          "V">
@@ -72,8 +54,28 @@
 <!ENTITY showReturnReceipts.accesskey  "L">
 
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Skaitymas">
-<!ENTITY display.caption                "Rodymas">
+<!ENTITY reading.caption                     "Skaitymas">
+<!ENTITY display.caption                     "Rodymas">
+<!ENTITY showCondensedAddresses.label        "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
+<!ENTITY showCondensedAddresses.accesskey    "a">
+
+<!ENTITY autoMarkAsRead.label                "Atvertą laišką pažymėti kaip skaitytą">
+<!ENTITY autoMarkAsRead.accesskey            "ž">
+<!ENTITY markAsReadNoDelay.label             "iškart">
+<!ENTITY markAsReadNoDelay.accesskey         "i">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+	  using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label               "praėjus">
+<!ENTITY markAsReadDelay.accesskey           "p">
+<!ENTITY secondsLabel.label                  "sek.">
+<!ENTITY openMsgIn.label                     "Atveriamą laišką rodyti:">
+<!ENTITY reuseExpRadio0.label                "naujame lange">
+<!ENTITY reuseExpRadio0.accesskey            "n">
+<!ENTITY reuseExpRadio1.label                "tame pačiame (atvertame) lange">
+<!ENTITY reuseExpRadio1.accesskey            "t">
+<!ENTITY closeMsgWindowOnDelete.label        "Ištrynus laišką, užverti langą su juo">
+<!ENTITY closeMsgWindowOnDelete.accesskey    "v">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Periodiškai tikrinti, ar yra naujinimų:">
