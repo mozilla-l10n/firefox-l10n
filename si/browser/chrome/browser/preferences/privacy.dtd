@@ -42,33 +42,29 @@
 <!ENTITY  clearDataSettings.label        "සැකසුම්...">
 <!ENTITY  clearDataSettings.accesskey    "t">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "අතීතය මතක තබාගන්න">
 <!ENTITY  historyHeader.dontremember.label "කිසිවිටෙක අතීතය මතක තබා නොගන්න">
 <!ENTITY  historyHeader.custom.label       "අතීතය සඳහා රිසිකරණ සැකසුම් භාවිතා කරන්න">
 <!ENTITY  historyHeader.post.label         "">
-
-<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from Web sites you visit.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ඔබේ ගවේෂණ, බාගැනීම්, පෝරම සහ සෙවුම් ඉතිහාසය මතක තබාගනු ඇති අතර, ඔබ පිවිසෙන වෙබ් අඩවි මගින් කුකී ගබඩා කර තබාගනු ඇත.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "You may want to ">
-<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
-<!ENTITY  rememberActions.middle.label        ", or ">
-<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
+<!ENTITY  rememberActions.pre.label           "ඔබට අවශ්‍ය වනු ඇත්තේ ">
+<!ENTITY  rememberActions.clearHistory.label  "ඔබේ ඉතිහාසය මකා දැමීම">
+<!ENTITY  rememberActions.middle.label        ", හෝ ">
+<!ENTITY  rememberActions.removeCookies.label "එක් එක් කුකී මකා දැමීමයි">
 <!ENTITY  rememberActions.post.label          ".">
-
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
-
+<!ENTITY  dontrememberDescription.label  "&brandShortName; එම සැකසුම්ම පුද්ගලික ගවේෂණය සඳහා යොදාගනු ඇති අතර ඔබ ගවේෂණය කරන අතරතුර කිසිදු ඉතිහාසයක් මතකයේ තබානොගනු ඇත.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
-<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+<!ENTITY  dontrememberActions.pre.label          "තවද ඔබට වත්මන් ඉතිහාසය මකා දැමීමට ">
+<!ENTITY  dontrememberActions.clearHistory.label "අවශ්‍ය විය හැ">
 <!ENTITY  dontrememberActions.post.label         ".">
-
-<!ENTITY  privateBrowsingAutoStart.label "Automatically start &brandShortName; in a private browsing session">
+<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; ස්වයංක්‍රීයව පෞද්ගලික ගවේෂණාකාරයෙන් අරඹන්න">
 <!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
 
@@ -78,14 +74,15 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "Remember my browsing history for at least">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "days">
 
-<!ENTITY  rememberDownload.label         "බාගත අතීතයන් මතක තබාගන්න">
+<!ENTITY  rememberHistory.pre.label      "මගේ ගවේෂණ ඉතිහාසය අවම ලෙසවත් මතක තබාගත යුත්තේ">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "දින">
+
+<!ENTITY  rememberDownload.label         "බාගැනීම් අතීතයන් මතක තබාගන්න">
 <!ENTITY  rememberDownload.accesskey     "d">
 
-<!ENTITY  rememberSearchForm.label       "සෙවීම් සය පෝරම අතීතයන් මතක තබාගන්න Remember search and form history">
+<!ENTITY  rememberSearchForm.label       "සෙවීම් සහ පෝරම අතීතයන් මතක තබාගන්න">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; වසන විට අතීතයන් හිස් කරන්න">
