@@ -120,3 +120,6 @@
 <!ENTITY securityView.privacy.viewPasswords.accessKey "п">
 
 <!ENTITY securityView.technical.header "Технічні подробиці">
+
+<!ENTITY  permAskAlways         "Завжди питати">
+<!ENTITY  permGeo               "Дізнаватись місцезнаходження">
