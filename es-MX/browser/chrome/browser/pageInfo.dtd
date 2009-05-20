@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Usar predeterminado">
+<!ENTITY  permAskAlways         "Preguntar siempre">
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "Permitir en esta sesión">
 <!ENTITY  permBlock             "Bloquear">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Abrir ventanas emergentes">
 <!ENTITY  permCookie            "Establecer cookies">
 <!ENTITY  permInstall           "Instalar extensiones o temas">
+<!ENTITY  permGeo               "Compartir">
 
 <!ENTITY  securityTab           "Seguridad">
 <!ENTITY  securityTab.accesskey "S">
@@ -107,12 +109,12 @@
 
 <!ENTITY  securityView.identity.header   "Identidad del sitio web">
 <!ENTITY  securityView.identity.owner    "Propietario:">
-<!ENTITY  securityView.identity.domain   "Sitio web: ">
+<!ENTITY  securityView.identity.domain   "Sitio web:">
 <!ENTITY  securityView.identity.verifier "Verificado por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidad e historial">
 <!ENTITY  securityView.privacy.history                  "¿Se ha visitado este sitio web anteriormente?">
-<!ENTITY  securityView.privacy.cookies                  "¿Este sitio está almacenando información (cookies) en esta computadora?">
+<!ENTITY  securityView.privacy.cookies                  "¿Estará almacenando información (cookies) este sitio web en mi computadora?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "¿Ha guardado contraseñas de este sitio web?">

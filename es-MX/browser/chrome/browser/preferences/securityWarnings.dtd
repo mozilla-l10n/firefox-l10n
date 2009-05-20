@@ -9,5 +9,5 @@
 <!ENTITY security.warn_leaving_secure.accesskey   "l">
 <!ENTITY security.warn_submit_insecure.label      "Introduzca información sin cifrar.">
 <!ENTITY security.warn_submit_insecure.accesskey  "s">
-<!ENTITY security.warn_viewing_mixed.label        "Visite una página cifrada con algunos datos sin cifrar.">
-<!ENTITY security.warn_viewing_mixed.accesskey    "a">
+<!ENTITY security.warn_viewing_mixed.label        "Estoy a punto de ver una página cifrada que contiene información sin cifrar.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

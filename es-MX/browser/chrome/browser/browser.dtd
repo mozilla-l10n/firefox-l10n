@@ -24,7 +24,7 @@
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "f">
 <!ENTITY printPreviewCmd.label "Vista preliminar">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.accesskey "V">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "m">
 <!ENTITY printCmd.commandkey "p">
@@ -84,7 +84,7 @@
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Recargar esta página">
 <!ENTITY stopCmd.label                "Parar">
-<!ENTITY stopCmd.accesskey            "p">
+<!ENTITY stopCmd.accesskey            "P">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Detener la descarga de esta página">
 <!ENTITY goEndCap.tooltip             "Ir a la barra de direcciones">
@@ -162,7 +162,7 @@
 <!ENTITY deleteCmd.accesskey        "l"> 
 <!ENTITY selectAllCmd.label         "Seleccionar todo">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "s"> 
+<!ENTITY selectAllCmd.accesskey       "S"> 
 <!ENTITY preferencesCmd.label       "Opciones…">
 <!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
@@ -188,7 +188,7 @@
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 <!ENTITY historyMenu.label "Historial">
-<!ENTITY historyMenu.accesskey "h">
+<!ENTITY historyMenu.accesskey "H">
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
@@ -275,7 +275,7 @@
 <!ENTITY sendPageCmd.label            "Enviar dirección de esta página por correo…">
 <!ENTITY sendPageCmd.accesskey        "e">
 <!ENTITY savePageCmd.label            "Guardar como…">
-<!ENTITY savePageCmd.accesskey        "g">
+<!ENTITY savePageCmd.accesskey        "G">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "d">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -324,7 +324,7 @@
 <!ENTITY mediaPlay.accesskey         "p">
 <!ENTITY mediaPause.label            "Pausar">
 <!ENTITY mediaPause.accesskey        "P">
-<!ENTITY mediaMute.label             "Silencio">
+<!ENTITY mediaMute.label             "Silenciar">
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Escuchar">
 <!ENTITY mediaUnmute.accesskey       "E">
@@ -442,6 +442,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Más información…">
 
-<!ENTITY downloadMonitor2.tooltip "Clic para abrir la ventana de descargas">
+<!ENTITY downloadMonitor2.tooltip "Da clic para abrir la ventana de descargas">
 
 <!ENTITY ctrlTab.search.emptyText "Buscar pestañas">

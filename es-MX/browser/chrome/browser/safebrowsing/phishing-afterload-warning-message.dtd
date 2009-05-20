@@ -18,7 +18,7 @@
 <!ENTITY safeb.blocked.malware.title "¡Este sitio web es peligroso!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Este sitio web ha sido reportado en <span id='malware_sitename'/> como peligroso y ha sido bloqueado basándose en sus preferencias de seguridad.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Los sitios web peligrosos intentan instalar programas en su computadora para robar su información privada y/o usar su computadora para infectar a otras y/o dañar su sistema.</p>
+<!ENTITY safeb.blocked.malware.longDesc "<p>Los sitios web peligrosos intentan instalar programas en tu computadora para robar información privada y/o usar tu computadora para infectar a otras y/o dañar tu sistema.</p>
 <p>Algunos sitios web peligrosos distribuyen intencionalmente programas dañinos y, en la gran mayoría, sin el conocimiento y/o permiso de sus visitantes.</p>">
 
 <!ENTITY safeb.blocked.phishing.title "¡sitio web reportado como falso!">

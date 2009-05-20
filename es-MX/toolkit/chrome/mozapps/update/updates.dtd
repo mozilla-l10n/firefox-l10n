@@ -14,8 +14,8 @@
 
 <!ENTITY  manualUpdate.title              "No es posible realizar la actualización">
 <!ENTITY  manualUpdate.desc               "Esta disponible una actualización de seguridad y estabilidad, pero
-                                           no tiene los permisos necesarios para instalarla. Contacte a su
-                                           administrador de sistemas, o intente nuevamente desde una cuenta con los permisos suficientes para
+                                           no tienes los permisos necesarios para instalarla. Contacte con tu
+                                           administrador de sistemas o intenta nuevamente desde una cuenta con los permisos necesarios para
                                            instalar programas en esta computadora.">
 <!ENTITY  manualUpdateGetMsg.label        "Siempre puede obtener la última versión de &brandShortName; en:">
 
@@ -27,8 +27,8 @@
 <!ENTITY  evangelism.desc                 "Le recomendamos ampliamente instalar esta 
                                            actualización de &brandShortName; lo antes posible.">
 
-<!ENTITY  license.instructions            "Si usted está de acuerdo con los términos de este acuerdo, pulse 'Estoy de acuerdo'
-                                           más abajo para continuar con la instalación.">
+<!ENTITY  license.instructions            "Si estás de acuerdo con los términos de este acuerdo, da clic en Estoy de acuerdo
+                                           para continuar con la instalación.">
 
 <!ENTITY  license.titleText               "Acuerdo de licencia de software">
 <!ENTITY  license.introText               "Términos y condiciones de uso de este software.">

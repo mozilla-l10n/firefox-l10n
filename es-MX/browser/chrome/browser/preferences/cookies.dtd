@@ -1,6 +1,6 @@
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Las siguientes cookies están almacenadas en su computadora:">
+<!ENTITY     cookiesonsystem.label          "Las siguientes cookies están almacenadas en tu computadora:">
 <!ENTITY     cookiename.label               "Nombre">
 <!ENTITY     cookiedomain.label             "Sitio"> 
 <!ENTITY     button.removecookie.label      "Eliminar">

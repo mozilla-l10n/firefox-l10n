@@ -34,7 +34,7 @@
 <!ENTITY importFromHTMLFile.label       "Desde un archivo con extensión HTML">
 <!ENTITY importFromHTMLFile.accesskey   "v">
 
-<!ENTITY noMigrationSources.label       "No se encontraron programas que contuvieran marcadores, historial o datos de claves.">
+<!ENTITY noMigrationSources.label       "No se encontraron programas que contengan marcadores, historial o contraseñas.">
 
 <!ENTITY importSource.title             "Importar configuraciones y datos">
 <!ENTITY importItems.title              "Elementos a importar">

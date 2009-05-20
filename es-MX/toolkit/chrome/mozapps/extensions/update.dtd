@@ -57,8 +57,8 @@
                                            algunos de sus complementos.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Pulse Finalizar para continuar iniciando &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Pulse Terminado para continuar iniciando &brandShortName;.">
+<!ENTITY  clickFinish.label               "Da clic en Terminar para continuar iniciando &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Da clic en Terminado para continuar iniciando &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permitir a &brandShortName; buscar actualizaciones.">
 <!ENTITY  details.label                   "Detalles…">
 <!ENTITY  details.accesskey               "D">
