@@ -57,11 +57,11 @@
 <!ENTITY  clearDataSettings.label        "Innstillinger …">
 <!ENTITY  clearDataSettings.accesskey    "I">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; vil:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; skal:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Huske historikk">
 <!ENTITY  historyHeader.dontremember.label "Aldri huske historikk">
-<!ENTITY  historyHeader.custom.label       "Bruk egne innstillinger for historikk">
+<!ENTITY  historyHeader.custom.label       "Bruke egne innstillinger for historikk">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; vil huske historikk for nettlesing, nedlastinger, skjamaer og søk, og beholde infokapsler fra nettsider du besøker.">
