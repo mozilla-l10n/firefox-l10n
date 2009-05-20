@@ -1,17 +1,15 @@
 <!ENTITY content.title "Contenuto">
-<!ENTITY permissions.default.image.title "Carica le immagini automaticamente">
-<!ENTITY permissions.default.image.description "Per rendere più attraenti i siti web">
-<!ENTITY javascript.enabled.title "Attiva JavaScript">
-<!ENTITY javascript.enabled.description "Per rendere più vistosi i siti web">
+<!ENTITY showImages.title "Mostra le immagini">
+<!ENTITY enableJavaScript.title "Attiva JavaScript">
+<!ENTITY enableJavaScript.description "La maggior parte dei siti interattivi utilizza JavaScript">
 <!ENTITY javascript.options.jit.content.title "Attiva tracing JavaScript">
 <!ENTITY javascript.options.jit.content.description "Usa la compilazione nativa del codice JavaScript">
-<!ENTITY plugins.enabled.title "Attiva i plugin">
-<!ENTITY plugins.enabled.description "Per rendere più fastidiosi i siti web">
+<!ENTITY enablePlugins.title "Attiva i plugin">
+<!ENTITY enablePlugins.description "I plugin vengono utilizzati per contenuti specifici come i video">
 <!ENTITY privacy.title "Privacy e sicurezza">
-<!ENTITY network.cookie.cookieBehavior.title "Memorizza i cookie">
-<!ENTITY network.cookie.cookieBehavior.description "Deliziosi biscottini">
-<!ENTITY clear.private.data.title "Elimina i dati personali">
-<!ENTITY clear.private.data.button "Elimina…">
-<!ENTITY clear.private.data.description "Per nascondere le proprie tracce">
-<!ENTITY signon.rememberSignons.title "Salva le password">
-<!ENTITY signon.rememberSignons.description "Per scrivere di meno">
+<!ENTITY allowCookies.title "Permetti cookie">
+<!ENTITY allowCookies.description "I siti utilizzano i cookie per identificare il visitatore e memorizzare le sue impostazioni">
+<!ENTITY clearPrivateData.title "Cancella la cronologia recente">
+<!ENTITY clearPrivateData.button "Cancella">
+<!ENTITY clearPrivateData.description "La cronologia fornisce a &brandShortName; dei suggerimenti per la navigazione">
+<!ENTITY rememberPasswords.title "Ricorda le password">
