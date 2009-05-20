@@ -74,7 +74,7 @@
 <!ENTITY calendar.quit.label                               "Выход">
 <!ENTITY calendar.quit.accesskey                           "В">
 <!ENTITY calendar.quit.key                                 "Q">
-<!ENTITY calendar.quit.label.mac                           "Выйти из &brandShortName;">
+<!ENTITY calendar.quit.label.mac                           "Завершить &brandShortName;">
 
 <!ENTITY calendar.exit.label                               "Выход">
 <!ENTITY calendar.exit.accesskey                           "В">
