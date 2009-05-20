@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Destûr">
 <!ENTITY  permTab.accesskey     "D">
 <!ENTITY  permUseDefault        "Standard">
+<!ENTITY  permAskAlways         "Her tim bipirse">
 <!ENTITY  permAllow             "Destûrê Bide">
 <!ENTITY  permAllowSession      "Ji bo Malperan Destûrê Bide">
 <!ENTITY  permBlock             "Blok">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Paceya Hilpekîn Veke">
 <!ENTITY  permCookie            "Çerezan Serast Bike">
 <!ENTITY  permInstall           "Pêvek an jî Dirban Saz Bike">
+<!ENTITY  permGeo               "Cih parve bike">
 
 <!ENTITY  securityTab           "Ewlekarî">
 <!ENTITY  securityTab.accesskey "E">
@@ -106,9 +108,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Nasnameya Malperê">
-<!ENTITY  securityView.identity.owner    "Xwedî: ">
-<!ENTITY  securityView.identity.domain   "Malper: ">
-<!ENTITY  securityView.identity.verifier "Yê Rastandiye: ">
+<!ENTITY  securityView.identity.owner    "Xwedî:">
+<!ENTITY  securityView.identity.domain   "Sîteya webê:">
+<!ENTITY  securityView.identity.verifier "Piştrastkirin:">
 
 <!ENTITY  securityView.privacy.header                   "Dîroka takekesî a &amp; ">
 <!ENTITY  securityView.privacy.history                  "Gelo min îro serdana vê malperê kiribû?">

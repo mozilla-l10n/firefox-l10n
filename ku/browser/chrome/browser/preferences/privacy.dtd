@@ -3,7 +3,7 @@
 <!ENTITY  locationBar.label             "Qutîka Cî">
 
 <!ENTITY  locbar.pre.label              "Dema qutîka cî bê bikaranîn, pêşniyar bike:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Mêjû û Bijare">
 <!ENTITY  locbar.history.label          "Mêjû">
