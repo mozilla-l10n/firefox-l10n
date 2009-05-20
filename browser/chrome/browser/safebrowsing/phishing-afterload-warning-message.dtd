@@ -15,14 +15,14 @@
 <!ENTITY safeb.palm.decline.label "Ignorer cet avertissement">
 <!ENTITY safeb.palm.decline.statustext "Fermer l'avertissement" >
 <!ENTITY safeb.palm.notforgery.label2 "Ceci n'est pas une contrefaçon de site Web…">
-<!ENTITY safeb.palm.report.label "Pourquoi ce site a-t-il été bloqué ?">
+<!ENTITY safeb.palm.reportPage.label "Pourquoi cette page a-t-elle été bloquée ?">
 
-<!ENTITY safeb.blocked.malware.title "Site malveillant !">
+<!ENTITY safeb.blocked.malwarePage.title "Page malveillante !">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Le site Web sur <span id='malware_sitename'/> a été signalé comme étant un site malveillant et a été bloqué sur la base de vos préférences de sécurité.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Les sites malveillants essaient d'installer des programmes qui volent des informations personnelles, qui utilisent votre ordinateur pour en attaquer d'autres ou qui endommagent votre système.</p><p>Certains sites distribuent intentionnellement des logiciels malfaisants, mais beaucoup sont compromis sans la permission de leurs propriétaires ou sans qu'ils en aient connaissance.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "La page Web sur <span id='malware_sitename'/> a été signalée comme étant une page malveillante et a été bloquée sur la base de vos préférences de sécurité.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Les pages malveillantes essaient d'installer des programmes qui volent des informations personnelles, qui utilisent votre ordinateur pour en attaquer d'autres ou qui endommagent votre système.</p><p>Certaines pages distribuent intentionnellement des logiciels malfaisants, mais beaucoup sont compromises sans la permission de leurs propriétaires ou sans qu'ils en aient connaissance.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Site contrefait !">
+<!ENTITY safeb.blocked.phishingPage.title "Page contrefaite !">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Le site Web sur <span id='phishing_sitename'/> a été signalé comme étant une contrefaçon et a été bloqué sur la base de vos préférences de sécurité.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Les sites Web contrefaits sont conçus pour vous amener à révéler des informations personnelles ou financières en imitant des sites en qui vous pouvez avoir confiance.</p><p>Saisir des informations sur cette page Web peut résulter en une usurpation d'identité ou d'autres fraudes.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "La page Web sur <span id='phishing_sitename'/> a été signalée comme étant une contrefaçon et a été bloquée sur la base de vos préférences de sécurité.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Les pages Web contrefaites sont conçues pour vous amener à révéler des informations personnelles ou financières en imitant des pages en qui vous pouvez avoir confiance.</p><p>Saisir des informations sur cette page Web peut résulter en une usurpation d'identité ou d'autres fraudes.</p>">
