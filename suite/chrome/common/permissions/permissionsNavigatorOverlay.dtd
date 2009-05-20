@@ -11,7 +11,7 @@
 <!ENTITY cookieAllowSessionCookiesMsg.label "Dette nettstedet vil kunne sette infokapsler bare for denne programøkten.">
 <!ENTITY cookieCookiesDefaultCmd.label "Bruk forvalgte regler for infokapsler">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "u">
-<!ENTITY cookieCookiesDefaultMsg.label "Infokapsler fra dette nettstedet vil bli akseptert eller blokkert basert på forvalg.">
+<!ENTITY cookieCookiesDefaultMsg.label "Infokapsler fra dette nettstedet vil bli akseptert eller blokkert basert på standardinnstilling.">
 <!ENTITY cookieBlockCookiesCmd.label "Blokker infokapsler fra dette nettstedet">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
 <!ENTITY cookieBlockCookiesMsg.label "Infokapsler fra dette nettstedet vil alltid bli blokkert.">
