@@ -95,7 +95,7 @@
 
 <!ENTITY cmd.sortby_name.label "Rangskik volgens naam">
 <!ENTITY cmd.sortby_name.accesskey "s">
-<!ENTITY cmd.context_sortby_name.accesskey "r">
+<!ENTITY cmd.context_sortby_name.accesskey "R">
 
 <!ENTITY cmd.new_bookmark.label "Nuwe boekmerk…">
 <!ENTITY cmd.new_bookmark.accesskey "b">
@@ -103,7 +103,7 @@
 <!ENTITY cmd.new_livemark.accesskey "l">
 <!ENTITY cmd.new_folder.label "Nuwe vouer…">
 <!ENTITY cmd.new_folder.accesskey "o">
-<!ENTITY cmd.context_new_folder.accesskey "o">
+<!ENTITY cmd.context_new_folder.accesskey "u">
 <!ENTITY cmd.new_separator.label "Nuwe skeier">
 <!ENTITY cmd.new_separator.accesskey "s">
 

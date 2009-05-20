@@ -60,10 +60,10 @@
 <!ENTITY cmd.enable.accesskey "A">
 <!ENTITY cmd.enable.tooltip "Aktiveer hierdie byvoeging wanneer &brandShortName; herbegin word">
 <!ENTITY cmd.disable.label "Deaktiveer">
-<!ENTITY cmd.disable.accesskey "D">
+<!ENTITY cmd.disable.accesskey "a">
 <!ENTITY cmd.disable.tooltip "Deaktiveer hierdie byvoeging wanneer &brandShortName; herbegin word">
 <!ENTITY cmd.uninstall.label "Deïnstalleer">
-<!ENTITY cmd.uninstall2.accesskey "D">
+<!ENTITY cmd.uninstall2.accesskey "n">
 <!ENTITY cmd.uninstall2.tooltip "Deïnstalleer hierdie byvoeging wanneer &brandShortName; herbegin word">
 <!ENTITY cmd.cancelUninstall.label "Kanselleer deïnstallering">
 <!ENTITY cmd.cancelUninstall.accesskey "K">
