@@ -120,3 +120,5 @@
 <!ENTITY securityView.privacy.viewPasswords.accessKey "w">
 
 <!ENTITY securityView.technical.header "Manylion Technegol">
+<!ENTITY  permAskAlways         "Gofyn bob tro">
+<!ENTITY  permGeo               "Rhannu Lleoliad">
