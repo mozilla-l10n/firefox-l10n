@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Cette action est irréversible.">
 
-<!ENTITY dialog.width                 "37em">
-<!ENTITY column.width                 "16em">
+<!ENTITY dialog.width                 "30em">
+<!ENTITY column.width                 "10em">
