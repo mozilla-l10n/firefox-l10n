@@ -45,7 +45,7 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "පෙරනිමි ශබ්දය භාවිතා කරන්න">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
-<!ENTITY pref.calendar.alarms.sound.browse.label "ගවේශනය…">
+<!ENTITY pref.calendar.alarms.sound.browse.label "ගවේෂණය…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.preview.label "පෙර දැක්ම">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">

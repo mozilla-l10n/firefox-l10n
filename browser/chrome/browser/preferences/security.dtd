@@ -34,7 +34,7 @@
 <!ENTITY  changeMasterPassword.label     "ප්‍රධාන රහස්පදය වෙනස්කරන්න...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 <!ENTITY  warnings.label                "අවවාද පණිවිඩ">
-<!ENTITY  chooseWarnings.label          "අන්තර්ජාලය ගවේශනයේදි දර්ශනය වීම සඳහා ඔබට අවශ්‍ය අවවාද පණිවිඩය තෝරන්න">
+<!ENTITY  chooseWarnings.label          "අන්තර්ජාලය ගවේෂණයේදි දර්ශනය වීම සඳහා ඔබට අවශ්‍ය අවවාද පණිවිඩය තෝරන්න">
 <!ENTITY  warningSettings.label         "සැකසුම්...">
 <!ENTITY  warningSettings.accesskey     "S">
 <!ENTITY  savedPasswords.label            "සුරැකු රහස්පද…">

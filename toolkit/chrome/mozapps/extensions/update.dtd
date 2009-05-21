@@ -25,7 +25,7 @@
 
 <!ENTITY  noupdates.wizard.title          "ගැළපෙන ඇඩෝන හමු නොවිනි">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; හට ඔබගේ නොගැළපෙන ඇඩෝනයට යාවත්කාල කිරීම් සොයාගත නොහැක.">
-<!ENTITY  noupdates.error.desc            "යාවත්කාල කිරීම් සෙවීමට යතුරුකරණයේදී සමහර ගැටළු හමුවේ.">
+<!ENTITY  noupdates.error.desc            "යාවත්කාල කිරීම් සෙවීමට යතුරුකරණයේදී සමහර ගැටලු හමුවේ.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; කලින් කල පරීක්‍ෂා කර මෙම ඇඩෝන සඳහා ගැළපෙන යාවත්කාල කිරීම් තිබේනම් ඔබ දැනුවත් කරයි.">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; ආරම්භ කිරීමට කළා ක්ලික් කරන්න.">
 <!ENTITY  finished.wizard.title           "ගැළපෙන ඇඩෝන ස්ථාපනය කලේය">
