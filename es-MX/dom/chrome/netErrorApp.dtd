@@ -3,7 +3,6 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "O puede añadir una excepción…">
-<!ENTITY securityOverride.warningText "
-<p>Le recomendamos no añadir una excepción si confía completamente en su actual conexión a Internet o, si en anteriores visitas, no había visto una advertencia para este servidor.</p>
-<p>Si aún desea añadir una excepción para este Sitio web, puede hacerlo a través de su Configuración Avanzada de Cifrado.</p>
+<!ENTITY securityOverride.warningText "<p>Te recomendamos no agregar una excepción si no confías totalmente en esta conexión a Internet o, si en anteriores visitas, no habías recibido una advertencia de este tipo.</p>
+<p>Si aún quieres agregarla, puedes hacerlo a través de tu Configuración avanzada de cifrado.</p>
 ">

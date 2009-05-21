@@ -32,8 +32,8 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Historial de navegación y descargas">
-<!ENTITY itemHistoryAndDownloads.accesskey "H">
+<!ENTITY itemHistoryAndDownloads.label     "Navegando y descargando el historial">
+<!ENTITY itemHistoryAndDownloads.accesskey "N">
 <!ENTITY itemBrowsingHistory.label         "Historial de navegación">
 <!ENTITY itemBrowsingHistory.accesskey     "H">
 <!ENTITY itemFormSearchHistory.label       "Historial de búsquedas y formularios">
@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Esta acción no se podrá deshacer.">
 
-<!ENTITY dialog.width                 "32em">
+<!ENTITY dialog.width                 "29em">
 <!ENTITY column.width                 "14em">

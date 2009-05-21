@@ -18,7 +18,7 @@
 <!ENTITY  checking.status                 "Esto puede tardar unos minutos…">
 
 <!ENTITY  found.wizard.title               "Complementos compatibles encontrados">
-<!ENTITY  found.top.label                 "Seleccione los complementos que desea instalar:">
+<!ENTITY  found.top.label                 "Selecciona los complementos que quieras instalar:">
 <!ENTITY  found.disabledXPinstall.label   "Estas actualizaciones no pueden aplicarse porque la instalación de software
                                            está desactivada en este momento. Puede cambiar esta
                                            configuración debajo.">

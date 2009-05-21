@@ -14,7 +14,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; está disponible bajo los términos de la ">
 <!ENTITY rights.intro-point1b "Licencia Pública de Mozilla (Mozilla Public License)">
-<!ENTITY rights.intro-point1c ". Ésto significa que usted puede usar, copiar y distribuir &brandShortName;. También puede modificar su código fuente para adaptarlo a sus necesidades. La Licencia Pública de Mozilla (Mozilla Public License), incluso, le concede el derecho para distribuir estas versiones modificadas.">
+<!ENTITY rights.intro-point1c ". Ésto significa que puedes usar, copiar y distribuir &brandShortName;. También puedes modificar su código fuente para adaptarlo a tus necesidades. La Licencia Pública de Mozilla (Mozilla Public License), incluso, te permite distribuir tus versiones modificadas.">
 
 <!ENTITY rights.intro-point2a "Mozilla no le otorga ningún derecho sobre las marcas registradas y logos de Mozilla y Firefox. Puede encontrar
 más información sobre el uso de marcas registradas ">
@@ -46,7 +46,7 @@ más información sobre el uso de marcas registradas ">
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; usa servicios externos para obtener información sobre sitios web (&quot;Services&quot;), como nuestro servicio SafeBrowsing, el cual está disponible para su uso con esta versión de &brandShortName; tal como se describe a continuación. Si no desea hacer uso de estos servicios o no está de acuerdo con sus términos, debería desactivar SafeBrowsing en las preferencias de la aplicación, seleccionando el ">
+<!ENTITY rights.webservices-a "&brandFullName; usa servicios externos de sitios web (&quot;Servicios&quot;), como el servicio SafeBrowsing, el cual está disponible para su uso con esta versión de &brandShortName; tal como se describe a continuación. Si no deseas usar este Servicio o no estás de acuerdo con sus términos, deberías desactivar SafeBrowsing en las preferencias de la aplicación, seleccionando el ">
 <!ENTITY rights.webservices-b "Seguridad">
 <!ENTITY rights.webservices-c " y desactive las opciones para &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
 
@@ -59,7 +59,7 @@ más información sobre el uso de marcas registradas ">
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; y sus colaboradores, licenciatarios y socios trabajan para ofrecerle información actualizada y precisa sobre sitios web falsificados (phishing) y programas malintencionados (malware). Sin embargo, no es posible garantizar su total exactitud ni falta de errores; algunos sitios web seguros podrían identificarse, equivocadamente, como peligrosos y viceversa.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; podrá descontinuar o cambiar los servicios a su discreción.">
-<!ENTITY rights.webservices-term3 "Si lo desea, usted puede y tiene todo el derecho a usar los servicios incluidos en esta versión de &brandShortName;. &vendorShortName; y sus licenciatarios se reservan los demás derechos sobre estos servicios. Estos términos no pretenden, en ningún caso, limitar los derechos otorgados por las licencias de código abierto y las correspondientes al código fuente aplicables a &brandShortName;.">
+<!ENTITY rights.webservices-term3 "Si lo deseas, puedes y tienes todo el derecho de usar los servicios incluidos en esta versión de &brandShortName;. &vendorShortName; y sus licenciatarios se reservan los demás derechos sobre estos servicios. Estos términos no pretenden, en ningún caso, limitar los derechos otorgados por las licencias de código abierto y las correspondientes al código fuente aplicables a &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Estos servicios se ofrecen &quot;tal y como están.&quot; &vendorShortName; y sus colaboradores, licenciatarios y distribuidores rechazan toda garantía, ya sea expresa o implícita, incluyendo, sin limitar lo anterior, las garantías de que estos servicios son sujetos de comercio cumpliendo con sus necesidades particulares. Usted acepta el riesgo implicado al usar estos servicios para su propósito así como su calidad y desempeño. Algunas jurisdicciones no permiten la exclusión o limitación de las garantías implícitas, por lo tanto, esta exención de responsabilidad puede no ser aplicable en su caso.">
 <!ENTITY rights.webservices-term5 "Excepto cuando se solicite por la Ley, &vendorShortName;, sus colaboradores, licenciatarios y distribuidores no podrán ser responsables por ningún daño o perjuicio indirecto, especial, incidental, resultante, punitivo o ejemplar relacionado con el uso de &brandShortName; y estos servicios. La responsabilidad colectiva bajo estos términos no podrá exceder los $500 (quinientos dólares estadounidenses). Algunas jurisdicciones no permiten la exclusión o limitación de ciertos daños, por lo tanto, podrían no ser aplicables en su caso.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; puede actualizar estos términos según sea necesario de vez en cuando. Estos términos no pueden ser modificados o cancelados sin el consentimiento por escrito de &vendorShortName;.">

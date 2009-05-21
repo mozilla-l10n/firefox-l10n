@@ -12,7 +12,7 @@
 <!ENTITY safeb.palm.accept.statustext "Ir a mi página de inicio">
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
 <!ENTITY safeb.palm.decline.statustext "Cerrar advertencia" >
-<!ENTITY safeb.palm.notforgery.label2 "Este no es un sitio fraudulento…">
+<!ENTITY safeb.palm.notforgery.label2 "Este sitio no es fraudulento…">
 <!ENTITY safeb.palm.report.label "¿Por qué ha sido bloqueado este sitio?">
 
 <!ENTITY safeb.blocked.malware.title "¡Este sitio web es peligroso!">

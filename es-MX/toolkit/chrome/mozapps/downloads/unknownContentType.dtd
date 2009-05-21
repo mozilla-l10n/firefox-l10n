@@ -58,4 +58,4 @@
 <!ENTITY  chooseHandler.label         "Examinar…">
 <!ENTITY  chooseHandler.accesskey     "E">
 
-<!ENTITY  unknownPromptText.label     "¿Desea guardar este archivo?">
+<!ENTITY  unknownPromptText.label     "¿Quieres guardar este archivo?">

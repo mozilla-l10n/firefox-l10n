@@ -12,7 +12,7 @@
 <!ENTITY  openTabInNewWindow.label    "Abrir en una ventana nueva">
 <!ENTITY  openTabInNewWindow.accesskey "A">
 <!ENTITY  listAllTabs.label      "Listar todas las pestañas">
-<!ENTITY  bookmarkAllTabs.label       "Añadir a marcadores las pestañas abiertas…">
+<!ENTITY  bookmarkAllTabs.label       "Agregar a marcadores las pestañas abiertas…">
 <!ENTITY  bookmarkAllTabs.accesskey   "t">
 <!ENTITY  bookmarkThisTab.label       "Añadir esta pestaña a marcadores">
 <!ENTITY  bookmarkThisTab.accesskey   "m">

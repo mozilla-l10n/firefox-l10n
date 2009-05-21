@@ -2,7 +2,7 @@
 <!ENTITY reportWizard.title                         "Informar de un sitio web incompatible">
 
 <!ENTITY privacyNotice.label                        "Política de privacidad">
-<!ENTITY reportWizardPrivacy.description            "Esta herramienta le permite informar al equipo de evangelismo sobre los sitios web que no funcionan correctamente en &brandShortName;, o que expulsan a &brandShortName;. Así puede ayudarnos a asegurar la mejor experiencia posible a los usuarios de &brandShortName;. Por favor, tómese un momento para leer lo siguiente y aprender cómo usamos la información que recogeremos si elige participar.">
+<!ENTITY reportWizardPrivacy.description            "Esta herramienta te permite informar al equipo de evangelización sobre los sitios web que no funcionan correctamente en &brandShortName;, o que expulsan a &brandShortName;. Así puedes ayudarnos a asegurar la mejor experiencia posible a los usuarios de &brandShortName;. Invierte un momento para leer lo siguiente y aprender cómo usaremos la información que recogeremos si es que quieres participar.">
 <!ENTITY reportWizardMustAgree.description          "Para continuar debe aceptar la política de privacidad anterior.">
 
 <!ENTITY dontShowPrivacyStatement.label             "He leído y acepto la política de privacidad anterior.">

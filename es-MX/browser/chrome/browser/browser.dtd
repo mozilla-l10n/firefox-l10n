@@ -64,13 +64,13 @@
 
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Añadir esta página a marcadores">
+<!ENTITY bookmarkThisPageCmd.label "Agregar esta página a marcadores">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
-<!ENTITY addCurPagesCmd.label "Añadir a marcadores las pestañas abiertas…">
+<!ENTITY addCurPagesCmd.label "Agregar a marcadores las pestañas abiertas…">
 <!ENTITY organizeBookmarks.label "Organizar marcadores…">
-<!ENTITY bookmarkAllCmd.label "Añadir a marcadores todas las pestañas…">
+<!ENTITY bookmarkAllCmd.label "Agregar a marcadores las pestañas abiertas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
 <!ENTITY backCmd.label                "Anterior">
@@ -100,7 +100,7 @@
 <!ENTITY  homeButton.label            "Inicio">
 
 <!ENTITY bookmarksButton.label          "Marcadores">
-<!ENTITY bookmarksButton.tooltip        "Mostrar sus marcadores">
+<!ENTITY bookmarksButton.tooltip        "Mostrar tus marcadores">
 <!ENTITY bookmarksSidebarCmd.accesskey  "M">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -266,7 +266,7 @@
 <!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setDesktopBackgroundCmd.label      "Establecer como fondo de escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkPageCmd2.label       "Añadir esta página a marcadores">
+<!ENTITY bookmarkPageCmd2.label       "Agregar esta página a marcadores">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Añadir este enlace a marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">

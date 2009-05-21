@@ -5,7 +5,7 @@
 <!ENTITY  locbar.pre.label              "Cuando se utilice la barra de búsquedas, sugerir:">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Historial y Marcadores">
+<!ENTITY  locbar.both.label             "Historial y marcadores">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.nothing.label          "Nada">
@@ -39,7 +39,7 @@
 <!ENTITY  keepUntil.accesskey           "H">
 
 <!ENTITY  expire.label                  "caduquen">
-<!ENTITY  close.label                   "cierre &brandShortName;">
+<!ENTITY  close.label                   "cierro &brandShortName;">
 <!ENTITY  askEachTime.label             "preguntar siempre">
 
 <!ENTITY  cookieExceptions.label        "Excepciones…">
@@ -61,18 +61,18 @@
 <!ENTITY  historyHeader.pre.accesskey      "s">
 <!ENTITY  historyHeader.remember.label     "Recordar el historial">
 <!ENTITY  historyHeader.dontremember.label "No recordar nunca el historial">
-<!ENTITY  historyHeader.custom.label       "Use la configuración personalizada para el historial">
+<!ENTITY  historyHeader.custom.label       "Usa la configuración personalizada para el historial">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; recordará su historial de navegación, descargas, datos ingresados en formularios y el historial de búsquedas, también mantendrá las cookies de los sitios web visitados.">
+<!ENTITY  rememberDescription.label      "&brandShortName; recordará tu historial de navegación, descargas, datos ingresados en formularios y el historial de búsquedas, también mantendrá las cookies de los sitios web visitados.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Si lo desea, puede ">
-<!ENTITY  rememberActions.clearHistory.label  "borrar su historial reciente">
+<!ENTITY  rememberActions.pre.label           "Tal vez quieras ">
+<!ENTITY  rememberActions.clearHistory.label  "borrar tu historial reciente">
 <!ENTITY  rememberActions.middle.label        ", o ">
-<!ENTITY  rememberActions.removeCookies.label "borre cookies individuales">
+<!ENTITY  rememberActions.removeCookies.label "borrar cookies individuales">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; usará la misma configuración de la navegación privada, es decir, no guardará ningún historial de su navegación por la web.">
