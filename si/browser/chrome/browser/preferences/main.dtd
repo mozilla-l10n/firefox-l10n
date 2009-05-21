@@ -23,7 +23,7 @@
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "ගොනු සුරකින්නේ">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "ගවේශනය...">
+<!ENTITY chooseFolderWin.label        "ගවේෂණය...">
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "තෝරන්න...">
 <!ENTITY chooseFolderMac.accesskey    "e">

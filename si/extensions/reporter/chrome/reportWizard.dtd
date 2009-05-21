@@ -10,7 +10,7 @@
 
 <!ENTITY reportForm.label                           "වාර්තාව සකසන්න">
 
-<!ENTITY reportForm.description                     "ඔබ හදුනාගත් ගැටළුව පිළිබඳ අපට මදක් පවසන්න:">
+<!ENTITY reportForm.description                     "ඔබ හදුනාගත් ගැටලුව පිළිබඳ අපට මදක් පවසන්න:">
 <!ENTITY reportForm.url.title                       "වෙබ් අඩවියේ ලිපිනය:">
 
 <!ENTITY reportForm.behind_login.title              "වෙබ් අඩවිය රහස්පදයක් මඟින් ආරක්‍ෂිතයි"><!-- No ":" at the end -->

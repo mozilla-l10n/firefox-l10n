@@ -10,13 +10,13 @@
 <!ENTITY searchStartTyping.label         "මා යතුරුකරණය ආරම්භ කළ විට පෙළ සඳහා සොයන්න">
 <!ENTITY searchStartTyping.accesskey     "x">
 
-<!ENTITY browsing.label                  "ගවේශනය">
+<!ENTITY browsing.label                  "ගවේෂණය">
 
 <!ENTITY useAutoScroll.label             "ස්වයංක්‍රීයව ස්ක්‍රෝල් වීම භාවිතා කරන්න">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "සුමට ස්ක්‍රෝල් වීම භාවිතා කරන්න">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY checkSpelling.label             "මම ඇතුළත් කරන ආකාරයට අක්‍ෂරවින්‍යාසය පරික්‍ෂා කරන්න">
+<!ENTITY checkSpelling.label             "මා යතුරු ලියන අතර අක්ෂර වින්‍යාසය පිරික්සන්න">
 <!ENTITY checkSpelling.accesskey         "t">
 <!ENTITY offlineNotify.label             "වෙබ් අඩවියක් නොබැඳි භාවිතය සඳහා දත්ත ගබඩා කිරීමට විමසන විට මට දන්වන්න">
 <!ENTITY offlineNotify.accesskey         "T">

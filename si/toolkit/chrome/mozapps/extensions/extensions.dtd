@@ -108,7 +108,7 @@
 
 <!ENTITY addonTypeExtension.label         "දිගුව">
 <!ENTITY addonTypeTheme.label             "තේමාව">
-<!ENTITY browseAddons.label               "සියලු ඇඩෝන ගවේශනය කරන්න">
+<!ENTITY browseAddons.label               "සියලු ඇඩෝන ගවේෂණය කරන්න">
 <!ENTITY cancelSearch.button              "එපා"> 
 <!ENTITY cancelInstall.label              "එපා">
 <!ENTITY cancelInstall.accesskey          "C">
