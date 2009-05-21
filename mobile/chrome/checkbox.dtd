@@ -1,2 +1,2 @@
-<!ENTITY checkbox.on.label "Activé">
-<!ENTITY checkbox.off.label "Désactivé">
+<!ENTITY checkbox.yes.label "Oui">
+<!ENTITY checkbox.no.label "Non">
