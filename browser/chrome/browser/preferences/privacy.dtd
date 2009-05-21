@@ -46,8 +46,6 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Benlèu que volètz tanben ">
 <!ENTITY  dontrememberActions.clearHistory.label "voidar tot l'istoric recent">
-<!ENTITY  rememberActions.middle.label        ", o ">
-<!ENTITY  rememberActions.removeCookies.label "suprimir totes los cookies">
 <!ENTITY  dontrememberActions.post.label         ".">
 <!ENTITY  privateBrowsingAutoStart.label "Aviar automaticament &brandShortName; dins una sesilha de navigacion privada">
 <!ENTITY  privateBrowsingAutoStart.accesskey "A">

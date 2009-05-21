@@ -21,10 +21,6 @@
 <!ENTITY itemBrowsingHistory.accesskey     "n">
 
 <!ENTITY dataSection.label            "Donadas">
-<!ENTITY itemPasswords.label "Senhals enregistrats">
-<!ENTITY itemPasswords.accesskey "p">
-<!ENTITY itemCookies.label "Cookies">
-<!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemOfflineApps.label "Donadas de sits web sens connexion">
 <!ENTITY itemOfflineApps.accesskey "s">
 <!ENTITY itemFormSearchHistory.label  "Dintradas de formularis e de recèrca">
@@ -35,8 +31,6 @@
 <!ENTITY itemCookies.accesskey        "C">
 <!ENTITY itemCache.label           "Amagantal web">
 <!ENTITY itemCache.accesskey       "w">
-<!ENTITY itemOfflineApps.label        "Donadas sens connexion de sits">
-<!ENTITY itemOfflineApps.accesskey    "s">
 <!ENTITY itemDownloadHistory.label       "Tièra de telecargaments">
 <!ENTITY itemDownloadHistory.accesskey   "t">
 <!ENTITY itemActiveLogins.label       "Connexions activas">
