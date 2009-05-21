@@ -38,6 +38,8 @@
 <!ENTITY reuseExpRadio0.accesskey         "h">
 <!ENTITY reuseExpRadio1.label             "istniejącym oknie wiadomości">
 <!ENTITY reuseExpRadio1.accesskey         "m">
+<!ENTITY closeMsgWindowOnDelete.label     "Zamykaj okno wiadomości przy usuwaniu">
+<!ENTITY closeMsgWindowOnDelete.accesskey "Z">
 
 <!-- Update -->
 <!ENTITY autoCheck.label              "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
