@@ -28,5 +28,5 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY checkbox.on.label      "Įj.">
-<!ENTITY checkbox.off.label     "Išj.">
+<!ENTITY checkbox.yes.label      "Taip">
+<!ENTITY checkbox.no.label       "Ne">
