@@ -168,7 +168,6 @@
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Recercar dins los marcapaginas e l'istoric">
 <!ENTITY urlbar.accesskey "d">
-<!ENTITY urlbar.emptyText             "Recercar dins los marcapaginas e l'istoric">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Recercar dins los marcapaginas e l'istoric">
 <!ENTITY urlbar.bookmark.emptyText    "Recercar dins los marcapaginas">
 <!ENTITY urlbar.history.emptyText     "Recercar dins l'istoric">
@@ -232,8 +231,6 @@
 <!ENTITY sendLinkCmd.accesskey "n">
 <!ENTITY saveImageCmd.label "Enregistrar l'imatge jos...">
 <!ENTITY saveImageCmd.accesskey "s">
-<!ENTITY sendImageCmd.label "Mandar l'imatge...">
-<!ENTITY sendImageCmd.accesskey "n">
 <!ENTITY saveVideoCmd.label           "Enregistrar la vidèo coma…">
 <!ENTITY saveVideoCmd.accesskey       "g">
 <!ENTITY saveAudioCmd.label           "Enregistrar l'audio coma…">
