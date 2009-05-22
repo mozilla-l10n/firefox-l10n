@@ -1,17 +1,15 @@
 <!ENTITY content.title                             "Tartalom">
-<!ENTITY permissions.default.image.title           "Képek automatikus betöltése">
-<!ENTITY permissions.default.image.description     "Ettől lesz a web szép">
-<!ENTITY javascript.enabled.title                  "JavaScript engedélyezése">
-<!ENTITY javascript.enabled.description            "Ettől lesz a web csillogó">
+<!ENTITY showImages.title                          "Képek megjelenítése">
+<!ENTITY enableJavaScript.title                    "JavaScript engedélyezése">
+<!ENTITY enableJavaScript.description              "A legtöbb interaktív webhely használ JavaScriptet">
 <!ENTITY javascript.options.jit.content.title      "JavaScript-gyorsítás engedélyezése">
 <!ENTITY javascript.options.jit.content.description "JavaScript natív kódra fordításának bekapcsolása">
-<!ENTITY plugins.enabled.title                     "Bővítmények engedélyezése">
-<!ENTITY plugins.enabled.description               "Ettől lesz a web idegesítő">
+<!ENTITY enablePlugins.title                       "Bővítmények engedélyezése">
+<!ENTITY enablePlugins.description                 "A bővítmények speciális tartalmakhoz, például videókhoz kellenek">
 <!ENTITY privacy.title                             "Adatvédelem és biztonság">
-<!ENTITY network.cookie.cookieBehavior.title       "Sütik mentése">
-<!ENTITY network.cookie.cookieBehavior.description "Finomságok">
-<!ENTITY clear.private.data.title                  "Személyes adatok törlése">
-<!ENTITY clear.private.data.button                 "Törlés...">
-<!ENTITY clear.private.data.description            "Hagy elrejtőzni">
-<!ENTITY signon.rememberSignons.title              "Jelszavak mentése">
-<!ENTITY signon.rememberSignons.description        "Kevesebbet kell gépelni">
+<!ENTITY allowCookies.title                        "Sütik engedélyezése">
+<!ENTITY allowCookies.description                  "A webhelyek sütiket használnak azonosításra és a beállítások megjegyzésére">
+<!ENTITY clearPrivateData.title                    "Böngészési előzmények törlése">
+<!ENTITY clearPrivateData.button                   "Törlés">
+<!ENTITY clearPrivateData.description              "Az előzmények segítenek abban, hogy könnyebben visszataláljon a korábban meglátogatott webhelyekre.">
+<!ENTITY rememberPasswords.title                   "Jelszavak megjegyzése">
