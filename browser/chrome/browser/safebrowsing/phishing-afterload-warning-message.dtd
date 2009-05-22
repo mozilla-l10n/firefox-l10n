@@ -13,7 +13,7 @@
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
 <!ENTITY safeb.palm.decline.statustext "Cerrar advertencia">
 <!ENTITY safeb.palm.notforgery.label2 "Este sitio no es falso…">
-<!ENTITY safeb.palm.report.label "¿Por qué fue bloqueado este sitio?">
+<!ENTITY safeb.palm.reportPage.label "¿Por qué fue bloqueada esta página?">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Página informada como ataque!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
