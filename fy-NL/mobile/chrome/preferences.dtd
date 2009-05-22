@@ -1,17 +1,15 @@
-<!ENTITY content.title                             "Ynhâld">
-<!ENTITY permissions.default.image.title           "Laad ôfbyldings">
-<!ENTITY permissions.default.image.description     "Makket websteeën maklik">
-<!ENTITY javascript.enabled.title                  "Javaskript ynskeakelje">
-<!ENTITY javascript.enabled.description            "Makket websteeën flashy">
-<!ENTITY javascript.options.jit.content.title      "JavaScript tracing ynskeakelje">
-<!ENTITY javascript.options.jit.content.description "Brûk basiskoade kompilaasje yn JavaScript">
-<!ENTITY plugins.enabled.title                     "Ynstekkers ynskeakelje">
-<!ENTITY plugins.enabled.description               "Makket websteeën ferfelend">
-<!ENTITY privacy.title                             "Privacy &amp; Feilichheid">
-<!ENTITY network.cookie.cookieBehavior.title       "Bewarje cookies">
-<!ENTITY network.cookie.cookieBehavior.description "Lekker lekkers">
-<!ENTITY clear.private.data.title                  "Wis priveegegevens">
-<!ENTITY clear.private.data.button                 "Wisse…">
-<!ENTITY clear.private.data.description            "Bewarret jo ferstop">
-<!ENTITY signon.rememberSignons.title              "Wachtwurden bewarje">
-<!ENTITY signon.rememberSignons.description        "Lit jo minder type">
+<!ENTITY content.title								"Ynhâld">
+<!ENTITY showImages.title							"Toan ôfbyldings">
+<!ENTITY enableJavaScript.title						"Javaskript ynskeakelje">
+<!ENTITY enableJavaScript.description				"Meast ynteraktive websteeën brûke JavaScript">
+<!ENTITY javascript.options.jit.content.title		"JavaScript tracing ynskeakelje">
+<!ENTITY javascript.options.jit.content.description	"Brûk basiskoade kompilaasje yn JavaScript">
+<!ENTITY enablePlugins.title						"Ynstekkers ynskeakelje">
+<!ENTITY enablePlugins.description					"Ynstekkers wurde brûkt foar spesjale ynhâld lykas fideo">
+<!ENTITY privacy.title								"Privacy &amp; Feilichheid">
+<!ENTITY allowCookies.title							"Cookies tastean">
+<!ENTITY allowCookies.description					"Websteeën brûke cookies om jo te identifisearjen en jo ynstellings te ûnthâlden">
+<!ENTITY clearPrivateData.title						"Wis resinte sneupskiednis">
+<!ENTITY clearPrivateData.button					"Wiskje">
+<!ENTITY clearPrivateData.description				"Jo skiednis helpt &brandShortName; foarstellen te jaan wêr't jo hinne wolle">
+<!ENTITY rememberPasswords.title					"Wachtwurden bewarje">
