@@ -100,6 +100,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Mois suivant" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Mois précédent" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Jour suivant" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Jour précédent" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Semaine suivante" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Semaine précédente" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Mois suivant" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Mois précédent" >
+
 <!ENTITY calendar.newevent.button.label         "Nouvel événement" >
 <!ENTITY calendar.newtask.button.label          "Nouvelle tâche" >
 <!ENTITY calendar.print.button.label            "Imprimer" >
