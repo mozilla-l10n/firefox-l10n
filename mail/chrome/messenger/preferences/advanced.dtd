@@ -34,6 +34,8 @@
 <!ENTITY reuseExpRadio0.accesskey "о">
 <!ENTITY reuseExpRadio1.label "уже существующем окне">
 <!ENTITY reuseExpRadio1.accesskey "ж">
+<!ENTITY closeMsgWindowOnDelete.label "Закрывать окно сообщения при его удалении">
+<!ENTITY closeMsgWindowOnDelete.accesskey "к">
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">

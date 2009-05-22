@@ -1,2 +1,2 @@
-<!ENTITY checkbox.on.label "Вкл.">
-<!ENTITY checkbox.off.label "Выкл.">
+<!ENTITY checkbox.yes.label "Да">
+<!ENTITY checkbox.no.label "Нет">
