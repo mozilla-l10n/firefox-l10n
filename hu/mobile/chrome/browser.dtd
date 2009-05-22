@@ -18,7 +18,7 @@
 <!ENTITY star.label            "Csillag">
 <!ENTITY star.tooltip          "Oldal a könyvjelzők közé">
 <!ENTITY bookmarks.label       "Könyvjelzők">
-<!ENTITY bookmarks.tooltip     "Könyvjelzőek megtekintése">
+<!ENTITY bookmarks.tooltip     "Könyvjelzők megtekintése">
 
 <!ENTITY newtab.label          "Új lap">
 <!ENTITY closetab.label        "Lap bezárása">
@@ -48,6 +48,36 @@
 <!ENTITY findAgainCmd.accesskey "z">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY addonsHeader.label        "Kiegészítők">
+<!ENTITY addonsLocal.label         "Kiegészítők">
+<!ENTITY addonsRepo.label          "Kiegészítők letöltése">
+<!ENTITY addonsRecommended.label   "Ajánlott">
+<!ENTITY addonsSearch.label        "Keresés">
+<!ENTITY addonsSearch.emptytext    "Keresés a kiegészítők között">
+
+<!ENTITY addonOptions.label        "Beállítások">
+<!ENTITY addonEnable.label         "Engedélyezés">
+<!ENTITY addonDisable.label        "Letiltás">
+<!ENTITY addonInstall.label        "Telepítés">
+<!ENTITY addonUninstall.label      "Eltávolítás">
+<!ENTITY addonCancel.label         "Mégse">
+<!ENTITY addonShowPage.label       "Ugrás az oldalra">
+
+<!ENTITY downloadsHeader.label     "Letöltések">
+<!ENTITY downloadsSortDate.label   "Dátum">
+<!ENTITY downloadsSortSite.label   "Webhely">
+<!ENTITY downloadsSortName.label   "Név">
+<!ENTITY downloadsSearch.label     "Keresés">
+<!ENTITY downloadsSearch.emptytext "Letöltött fájl keresése">
+
+<!ENTITY downloadShowPage.label    "Ugrás az oldalra">
+<!ENTITY downloadShow2.label       "Keresés">
+<!ENTITY downloadOpen2.label       "Megnyitás">
+<!ENTITY downloadCancel.label      "Mégse">
+<!ENTITY downloadPause.label       "Szünet">
+<!ENTITY downloadResume.label      "Folytatás">
+<!ENTITY downloadRetry.label       "Újra">
 
 <!ENTITY identity.unverifiedsite2 "Ez a webhely nem szolgáltat magáról azonosító információkat.">
 <!ENTITY identity.connectedTo "A következőhöz csatlakozott:">
