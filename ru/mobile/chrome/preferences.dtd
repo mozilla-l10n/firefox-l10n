@@ -1,17 +1,15 @@
 <!ENTITY content.title "Содержимое">
-<!ENTITY permissions.default.image.title "Загружать изображения">
-<!ENTITY permissions.default.image.description "С ними сайты будут симпатичными">
-<!ENTITY javascript.enabled.title "Включить Javascript">
-<!ENTITY javascript.enabled.description "Придаёт сайтам броскость">
+<!ENTITY showImages.title "Показать изображения">
+<!ENTITY enableJavaScript.title "Использовать JavaScript">
+<!ENTITY enableJavaScript.description "Большинство интерактивных сайтов используют JavaScript">
 <!ENTITY javascript.options.jit.content.title "Включить трассировку JavaScript">
 <!ENTITY javascript.options.jit.content.description "Использовать компиляцию в нативный код в JavaScript">
-<!ENTITY plugins.enabled.title "Включить плагины">
-<!ENTITY plugins.enabled.description "Делает сайты слегка надоедливыми">
+<!ENTITY enablePlugins.title "Использовать плагины">
+<!ENTITY enablePlugins.description "Плагины используются для специального контента, например видео">
 <!ENTITY privacy.title "Приватность и защита">
-<!ENTITY network.cookie.cookieBehavior.title "Сохранять куки">
-<!ENTITY network.cookie.cookieBehavior.description "Вкусные печенюшки">
-<!ENTITY clear.private.data.title "Стирание личных данных">
-<!ENTITY clear.private.data.button "Стереть…">
-<!ENTITY clear.private.data.description "Скрывает ваши следы">
-<!ENTITY signon.rememberSignons.title "Сохранять пароли">
-<!ENTITY signon.rememberSignons.description "Избавляет от повторного набора">
+<!ENTITY allowCookies.title "Принимать куки">
+<!ENTITY allowCookies.description "Сайты используют куки для вашей идентификации и запоминания ваших настроек">
+<!ENTITY clearPrivateData.title "Очистка недавней истории">
+<!ENTITY clearPrivateData.button "Очистить">
+<!ENTITY clearPrivateData.description "Ваша история поможет &brandShortName; предположить, куда вы захотите пойти">
+<!ENTITY rememberPasswords.title "Запоминать пароли">
