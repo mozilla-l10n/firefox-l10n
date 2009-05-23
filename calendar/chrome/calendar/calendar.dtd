@@ -100,6 +100,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Nächster Monat">
 <!ENTITY calendar.prevmonth.button.tooltip      "Vorheriger Monat">
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Einen Tag vor">
+<!ENTITY calendar.navigation.prevday.tooltip    "Einen Tag zurück">
+<!ENTITY calendar.navigation.nextweek.tooltip   "Eine Woche vor">
+<!ENTITY calendar.navigation.prevweek.tooltip   "Eine Woche zurück">
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Einen Monat vor" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Einen Monat zurück">
+
 <!ENTITY calendar.newevent.button.label         "Neuer Termin">
 <!ENTITY calendar.newtask.button.label          "Neue Aufgabe">
 
