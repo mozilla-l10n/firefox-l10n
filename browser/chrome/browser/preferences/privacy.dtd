@@ -75,7 +75,7 @@
 <!ENTITY  rememberActions.removeCookies.label "individuele cookies verwijderen">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; zal dezelfde instellingen gebruiken als bij privé navigeren, en geen geschiedenis onthouden terwijl u over het web surft.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -83,7 +83,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "alle huidige geschiedenis wissen">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Automatisch &brandShortName; in een privénavigatiesessie starten">
+<!ENTITY  privateBrowsingAutoStart.label "Automatisch &brandShortName; in een Privénavigatiesessie starten">
 <!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
 <!-- LOCALIZATION NOTE:

@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privé navigeren)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privénavigatie)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
@@ -172,9 +172,9 @@
 <!ENTITY clearRecentHistoryCmd.accesskey        "R">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Privé navigeren starten">
+<!ENTITY privateBrowsingCmd.start.label         "Privénavigatie starten">
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
-<!ENTITY privateBrowsingCmd.stop.label          "Privé navigeren stoppen">
+<!ENTITY privateBrowsingCmd.stop.label          "Privénavigatie stoppen">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
