@@ -1,10 +1,10 @@
 <!-- Feed Properties Dialog -->
-<!ENTITY window.title           "Uudistevoo omadused">
+<!ENTITY window.title           "Uudisvoo omadused">
 
 <!ENTITY feedFolder.label       "Uudised salvestatakse kausta:">
 <!ENTITY feedFolder.accesskey   "U">
 
-<!ENTITY feedLocation.label     "Uudistevoo aadress:">
+<!ENTITY feedLocation.label     "Uudisvoo aadress:">
 <!ENTITY feedLocation.accesskey "d">
 
 <!ENTITY choosethisfolder.label "vali see kaust">
