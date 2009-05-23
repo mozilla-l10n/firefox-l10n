@@ -88,7 +88,7 @@
 <!ENTITY  permTab               "Toestemmingen">
 <!ENTITY  permTab.accesskey     "T">
 <!ENTITY  permUseDefault        "Standaard gebruiken">
-<!ENTITY  permAskAlways         "Atijd vragen">
+<!ENTITY  permAskAlways         "Altijd vragen">
 <!ENTITY  permAllow             "Toestaan">
 <!ENTITY  permAllowSession      "Toestaan voor sessie">
 <!ENTITY  permBlock             "Blokkeren">
@@ -108,9 +108,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Website-identiteit">
-<!ENTITY  securityView.identity.owner    "Eigenaar: ">
-<!ENTITY  securityView.identity.domain   "Website: ">
-<!ENTITY  securityView.identity.verifier "Geverifieerd door: ">
+<!ENTITY  securityView.identity.owner    "Eigenaar:">
+<!ENTITY  securityView.identity.domain   "Website:">
+<!ENTITY  securityView.identity.verifier "Geverifieerd door:">
 
 <!ENTITY  securityView.privacy.header                   "Privacy &amp; geschiedenis">
 <!ENTITY  securityView.privacy.history                  "Heb ik deze website eerder dan vandaag bezocht?">

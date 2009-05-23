@@ -3,7 +3,7 @@
 <!ENTITY  locationBar.label             "Locatiebalk">
 
 <!ENTITY  locbar.pre.label              "Bij gebruik van de locatiebalk, suggereren:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "e">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Geschiedenis en bladwijzers">
 <!ENTITY  locbar.history.label          "Geschiedenis">
@@ -58,7 +58,7 @@
 <!ENTITY  clearDataSettings.accesskey    "s">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; zal:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "z">
 <!ENTITY  historyHeader.remember.label     "Geschiedenis onthouden">
 <!ENTITY  historyHeader.dontremember.label "Nooit geschiedenis onthouden">
 <!ENTITY  historyHeader.custom.label       "Aangepaste instellingen gebruiken voor geschiedenis">
@@ -93,7 +93,7 @@
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
 <!ENTITY  rememberHistory.pre.label      "Mijn navigatiegeschiedenis voor minstens">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.pre.accesskey  "n">
 <!ENTITY  rememberHistory.post.label     "dagen onthouden">
 
 <!ENTITY  rememberDownload.label         "Downloadgeschiedenis onthouden">
