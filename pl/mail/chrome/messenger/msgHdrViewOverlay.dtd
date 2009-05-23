@@ -68,10 +68,10 @@
 <!ENTITY hdrJunkButton.label          "niechciana"><!-- FIXME -->
 <!ENTITY trashButton.tooltiptext      "Usuń">
 <!ENTITY otherActionsButton.label     "inne">
-<!ENTITY saveAsMenuItem.label         "zapisz jako…">
-<!ENTITY saveAsMenuItem.accesskey     "z">
-<!ENTITY viewSourceMenuItem.label     "wyświetl źródło…">
-<!ENTITY viewSourceMenuItem.accesskey "w">
+<!ENTITY saveAsMenuItem.label         "Zapisz jako…">
+<!ENTITY saveAsMenuItem.accesskey     "Z">
+<!ENTITY viewSourceMenuItem.label     "Wyświetl źródło…">
+<!ENTITY viewSourceMenuItem.accesskey "W">
 <!ENTITY hideDetailsButton.label      "ukryj szczegóły">
 <!ENTITY showDetailsButton.label      "Wyświetl szczegóły"><!-- FIXME: tooltip, not label -->
 
