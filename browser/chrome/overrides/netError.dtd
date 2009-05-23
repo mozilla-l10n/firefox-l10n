@@ -134,7 +134,7 @@
 <ul>
   <li>Tegemist võib olla serveri seadistuste probleemiga, või siis üritab keegi antud
 serverina välja paista.</li>
-  <li>Kui sa oled varem selle serveriga edukalt ühendund, siis võib olla tegemist ajutise veaga
+  <li>Kui sa oled varem selle serveriga edukalt ühendunud, siis võib olla tegemist ajutise veaga
 ja sa võid hiljem uuesti proovida.</li>
 </ul>
 ">
@@ -159,7 +159,7 @@ ja sa võid hiljem uuesti proovida.</li>
 <!ENTITY phishingBlocked.title                 "Veebivõltsingu kahtlus!">
 <!ENTITY phishingBlocked.longDesc              "
 <p>Sisestades infot sellistele lehtedele, võib see välja viia identiteedivarguse või muu pettuseni.</p>
-<p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldava lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
+<p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldavad lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
 ">
 
 <!ENTITY securityOverride.linkText             "Või võid ka lisada erandi...">
