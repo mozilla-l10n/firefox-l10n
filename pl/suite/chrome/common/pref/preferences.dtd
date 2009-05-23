@@ -14,7 +14,7 @@
 <!ENTITY security.label "Prywatność i zabezpieczenia">
 <!ENTITY cookies.label "Ciasteczka">
 <!ENTITY images.label "Obrazki">
-<!ENTITY popups.label "Okna wyskakujące">
+<!ENTITY popups.label "Wyskakujące okna">
 <!ENTITY passwords.label "Hasła">
 <!ENTITY masterpass.label "Hasła główne">
 <!ENTITY ssl.label "SSL">
