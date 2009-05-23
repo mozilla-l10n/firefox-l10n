@@ -379,7 +379,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
 <!ENTITY closeCmd.label                 "Cerrar">  
-<!ENTITY closeCmd.key                   "C">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY pageStyleMenu.label "Estilo de página">
