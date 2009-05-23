@@ -18,7 +18,7 @@
 <!ENTITY edit.label                 "Redigeeri...">
 <!ENTITY choose.label               "Vali...">
 <!ENTITY choose.accesskey           "V">
-<!ENTITY editVCard.label            "Redigeeri visiitkaarti.....">
+<!ENTITY editVCard.label            "Redigeeri visiitkaarti...">
 <!ENTITY editVCard.accesskey        "i">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label          "Kirjadele lisatakse visiitkaart (vCard)">

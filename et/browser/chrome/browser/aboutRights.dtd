@@ -45,7 +45,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a               "&brandFullName; kasutab veebipõhiseid infoteenuseid (&quot;teenused&quot;), nagu näiteks teenus SafeBrowsing, mis on sulle saadaval selles &brandShortName;i binaarses versioonis, nagu on kirjeldatud allpool. Kui sa ei taha kasutada neid teenuseid või allolevad tingimused on sulle vastuvõetamatud, siis võid sa teenuse SafeBrowsing välja lülitada, avades selleks rakenduse sätete muutmise akna ning valides sealt sekstsiooni ">
+<!ENTITY rights.webservices-a               "&brandFullName; kasutab veebipõhiseid infoteenuseid (&quot;teenused&quot;), nagu näiteks teenus SafeBrowsing, mis on sulle saadaval selles &brandShortName;i binaarses versioonis, nagu on kirjeldatud allpool. Kui sa ei taha kasutada neid teenuseid või allolevad tingimused on sulle vastuvõetamatud, siis võid sa teenuse SafeBrowsing välja lülitada, avades selleks rakenduse sätete muutmise akna ning valides sealt sektsiooni ">
 <!ENTITY rights.webservices-b               "Turvalisus">
 <!ENTITY rights.webservices-c               ". Edasi eemalda linnuke valikutelt &quot;&blockAttackSites.label;&quot; ja &quot;&blockWebForgeries.label;&quot;">
 
