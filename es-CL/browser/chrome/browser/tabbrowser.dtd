@@ -2,7 +2,7 @@
 <!ENTITY  newTab.label           "Nueva pestaña">
 <!ENTITY  newTab.accesskey       "N">
 <!ENTITY  closeTab.label         "Cerrar pestaña">
-<!ENTITY  closeTab.accesskey         "w">
+<!ENTITY  closeTab.accesskey         "e">
 <!ENTITY  closeOtherTabs.accesskey  "o">
 <!ENTITY  closeOtherTabs.label   "Cerrar otras pestañas">
 <!ENTITY  reloadAllTabs.label    "Recargar todas las pestañass">
