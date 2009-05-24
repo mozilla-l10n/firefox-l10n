@@ -61,11 +61,11 @@
 
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
 <!ENTITY editMessageButton.label      "edytuj…">
-<!ENTITY archiveButton.label          "archiwizuj"><!-- FIXME: wielokropki, bmo 451995 -->
+<!ENTITY archiveButton.label          "archiwizuj">
 <!ENTITY hdrReplyButton.label         "odpowiedz">
 <!ENTITY hdrReplyAllButton.label      "odpowiedz wszystkim">
 <!ENTITY hdrForwardButton.label       "przekaż">
-<!ENTITY hdrJunkButton.label          "niechciana"><!-- FIXME -->
+<!ENTITY hdrJunkButton.label          "niechciana">
 <!ENTITY trashButton.tooltiptext      "Usuń">
 <!ENTITY otherActionsButton.label     "inne">
 <!ENTITY saveAsMenuItem.label         "Zapisz jako…">
