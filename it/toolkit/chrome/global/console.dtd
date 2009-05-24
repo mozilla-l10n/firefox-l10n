@@ -56,10 +56,10 @@
 <!ENTITY copyCmd.label "Copia">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "Ordina primo > ultimo">
-<!ENTITY sortFirst.accesskey "n">
-<!ENTITY sortLast.label "Ordina ultimo > primo">
-<!ENTITY sortLast.accesskey "u">
+<!ENTITY sortFirst.label "Prima i più recenti">
+<!ENTITY sortFirst.accesskey "P">
+<!ENTITY sortLast.label "Prima i più vecchi">
+<!ENTITY sortLast.accesskey "v">
 <!ENTITY closeCmd.commandkey "w">
 <!ENTITY focus1.commandkey "l">
 <!ENTITY focus2.commandkey "d">
