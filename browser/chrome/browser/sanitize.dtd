@@ -12,7 +12,7 @@
 <!ENTITY clearTimeDuration.lastHour       "Die letzte Stunde">
 <!ENTITY clearTimeDuration.last2Hours     "Die letzten zwei Stunden">
 <!ENTITY clearTimeDuration.last4Hours     "Die letzten vier Stunden">
-<!ENTITY clearTimeDuration.today          "Heute">
+<!ENTITY clearTimeDuration.today          "Die heutige Chronik">
 <!ENTITY clearTimeDuration.everything     "Alles">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
