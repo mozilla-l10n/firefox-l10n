@@ -167,7 +167,7 @@
 <!ENTITY showFolderPaneCmd.label "Mappenvenster">
 <!ENTITY showFolderPaneCmd.accesskey "F">
 
-<!-- showSearchToolbarCmd is also used by addressbook -->
+<!-- sortMenu is also used by addressbook -->
 <!ENTITY sortMenu.label "Sorteren op">
 <!ENTITY sortMenu.accesskey "S">
 
@@ -229,6 +229,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "v">
 <!ENTITY ignoredThreadsCmd.label "Genegeerde conversaties">
 <!ENTITY ignoredThreadsCmd.accesskey "n">
+
 <!ENTITY headersMenu.label "Berichtkopregels">
 <!ENTITY headersMenu.accesskey "K">
 <!ENTITY headersAllCmd.label "Alle">
@@ -243,6 +244,16 @@
 <!ENTITY bodySanitized.accesskey "V">
 <!ENTITY bodyAsPlaintext.label "Platte tekst">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+
+<!ENTITY bodyMenuFeed.label "Feed-opmaak als">
+<!ENTITY bodyMenuFeed.accesskey "b">
+<!ENTITY viewFeedWebPage.label "Webpagina">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Samenvatting">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standaardopmaak">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Bijlagen in bericht weergeven">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 <!ENTITY reloadCmd.label "Vernieuwen">
@@ -300,6 +311,8 @@
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
 <!ENTITY startPageCmd.accesskey "s">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Bericht">
 <!ENTITY msgMenu.accesskey "e">
 <!ENTITY newMsgCmd.label "Nieuw bericht">
@@ -403,6 +416,14 @@
 <!ENTITY openMessageWindowCmd.label "Bericht openen">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Open feedbericht">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Webpagina in nieuw venster">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Samenvatting in nieuw venster">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Verwissel webpagina en samenvatting in berichtvenster">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Tools Menu -->
 <!ENTITY searchMailCmd.label "Berichten zoeken…">
