@@ -64,7 +64,7 @@
 <!ENTITY  historyHeader.custom.label       "nach benutzerdefinierten Einstellungen anlegen">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; wird besuchte Seiten, Formulardaten, eingegebene Suchbegriffe und Cookies speichern."> 
+<!ENTITY  rememberDescription.label      "&brandShortName; wird besuchte Seiten, Downloads, Formulardaten, eingegebene Suchbegriffe und Cookies speichern."> 
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -79,9 +79,9 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Sie können auch die  ">
+<!ENTITY  dontrememberActions.pre.label          "Sie können auch die ">
 <!ENTITY  dontrememberActions.clearHistory.label "gesamte bisherige Chronik">
-<!ENTITY  dontrememberActions.post.label         "löschen.">
+<!ENTITY  dontrememberActions.post.label         " löschen.">
 
 <!ENTITY  privateBrowsingAutoStart.label "&brandShortName; automatisch im privaten Modus starten"> 
 <!ENTITY  privateBrowsingAutoStart.accesskey "a">
