@@ -102,6 +102,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Tolesnis mėnuo" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Ankstesnis mėnuo" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Viena diena pirmyn" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Viena diena atgal" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Viena savaite pirmyn" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Viena savaite atgal" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Vienu mėnesiu pirmyn" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Vienu mėnesiu atgal" >
+
 <!ENTITY calendar.newtask.button.label          "Naujas darbas" >
 <!ENTITY calendar.newevent.button.label         "Naujas įvykis" >
 
