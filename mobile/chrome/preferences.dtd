@@ -3,7 +3,7 @@
 <!ENTITY enableJavaScript.title                    "Activer JavaScript">
 <!ENTITY enableJavaScript.description              "La plupart des sites interactifs utilisent JavaScript">
 <!ENTITY enablePlugins.title                       "Activer les plugins">
-<!ENTITY enablePlugins.description                 "Les plugins sont utilisés pour des contenus spéciaux telle que la vidéo">
+<!ENTITY enablePlugins.description                 "Les plugins sont utilisés pour des contenus spéciaux tels que la vidéo">
 <!ENTITY javascript.options.jit.content.title      "Activer l'accélération JavaScript">
 <!ENTITY javascript.options.jit.content.description "Utiliser la compilation juste à temps de JavaScript">
 <!ENTITY privacy.title                             "Vie privée et confidentialité">
