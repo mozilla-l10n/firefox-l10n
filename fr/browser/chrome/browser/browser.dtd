@@ -172,7 +172,7 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Commencer la navigation privée">
-<!ENTITY privateBrowsingCmd.start.accesskey     "C">
+<!ENTITY privateBrowsingCmd.start.accesskey     "n">
 <!ENTITY privateBrowsingCmd.stop.label          "Arrêter la navigation privée">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "A">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
@@ -249,7 +249,7 @@
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Code source de la page">
-<!ENTITY viewPageSourceCmd.accesskey  "C">
+<!ENTITY viewPageSourceCmd.accesskey  "s">
 <!ENTITY viewFrameSourceCmd.label     "Code source du cadre">
 <!ENTITY viewFrameSourceCmd.accesskey "d">
 <!ENTITY viewPageInfoCmd.label        "Informations sur la page">
