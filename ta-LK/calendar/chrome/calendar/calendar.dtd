@@ -100,6 +100,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "அடுத்த மாதம்" >
 <!ENTITY calendar.prevmonth.button.tooltip      "முந்திய மாதம்" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "One Day Forward" >
+<!ENTITY calendar.navigation.prevday.tooltip    "One Day Back" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "One Week Forward" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "One Week Back" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "One Month Forward" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "One Month Back" >
+
 <!ENTITY calendar.newevent.button.label         "புதிய நிகழ்ச்சி" >
 <!ENTITY calendar.newtask.button.label          "புதிய பணி" >
 <!ENTITY calendar.print.button.label            "அச்சிடுக" >
