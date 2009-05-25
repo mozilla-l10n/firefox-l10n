@@ -31,12 +31,15 @@
 <!ENTITY reuseExpRadio0.accesskey "i">
 <!ENTITY reuseExpRadio1.label "அதே அஞ்சல் சாளரத்தில்">
 <!ENTITY reuseExpRadio1.accesskey "x">
+<!ENTITY closeMsgWindowOnDelete.label  "Close message window on delete">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
 <!ENTITY configEditDesc.label "உயர்தர கட்டமைப்பு">
 <!ENTITY configEdit.label "கட்டமைப்பு செவ்வையாளன்....">
 <!ENTITY configEdit.accesskey "g">
 <!ENTITY returnReceiptsInfo.label "&brandShortName; Return Receiptsஐ  கையாளும் விதத்தை கணிக்கவும்">
 <!ENTITY showReturnReceipts.label "Return Receipts..">
 <!ENTITY showReturnReceipts.accesskey "R">
+
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "வாசிக்கப்படுகிறது">
