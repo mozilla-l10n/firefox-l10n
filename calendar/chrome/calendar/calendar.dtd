@@ -100,6 +100,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Neste måned" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Forrige måned" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "En dag frem" >
+<!ENTITY calendar.navigation.prevday.tooltip    "En dag tilbake" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "En uke frem" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "En uke tilbake" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "En måned frem" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "En måned tilbake" >
+
 <!ENTITY calendar.newevent.button.label         "Ny hendelse" >
 <!ENTITY calendar.newtask.button.label          "Ny oppgave" >
 <!ENTITY calendar.print.button.label            "Skriv ut" >
