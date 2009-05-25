@@ -26,7 +26,7 @@
 <!ENTITY  passwordExceptions.accesskey  "n">
 
 <!ENTITY  useMasterPassword.label        "Bruk et hovedpassord">
-<!ENTITY  useMasterPassword.accesskey    "B">
+<!ENTITY  useMasterPassword.accesskey    "r">
 <!ENTITY  changeMasterPassword.label     "Endre hovedpassord …">
 <!ENTITY  changeMasterPassword.accesskey "d">
 

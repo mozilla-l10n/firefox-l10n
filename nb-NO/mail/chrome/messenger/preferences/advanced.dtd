@@ -43,6 +43,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "d">
 <!ENTITY reuseExpRadio1.label          "Et eksisterende meldingsvindu">
 <!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgWindowOnDelete.label  "Lukk meldingsvindu ved sletting">
+<!ENTITY closeMsgWindowOnDelete.accesskey "L">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisk søk etter oppdateringer for:">
