@@ -79,6 +79,8 @@
 <!ENTITY downloadResume.label "Reprendre">
 <!ENTITY downloadRetry.label "Réessayer">
 
+<!ENTITY noResults.label "Pas de résultats">
+
 <!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit pas d'information sur son identité.">
 <!ENTITY identity.connectedTo "Vous vous trouvez sur">
 <!-- Localization note (identity.runBy) : This string appears between a
