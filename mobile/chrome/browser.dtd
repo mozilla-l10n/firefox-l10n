@@ -79,7 +79,7 @@
 <!ENTITY downloadResume.label "Reprendre">
 <!ENTITY downloadRetry.label "Réessayer">
 
-<!ENTITY noResults.label "Pas de résultats">
+<!ENTITY noResults.label "Pas de résultat">
 
 <!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit pas d'information sur son identité.">
 <!ENTITY identity.connectedTo "Vous vous trouvez sur">
