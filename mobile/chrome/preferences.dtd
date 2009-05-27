@@ -1,15 +1,15 @@
 <!ENTITY content.title                             "Isi">
-<!ENTITY permissions.default.image.title           "Muat gambar">
-<!ENTITY permissions.default.image.description     "Agar situs web lebih cerah ceria">
-<!ENTITY javascript.enabled.title                  "Aktifkan Javascript">
-<!ENTITY javascript.enabled.description            "Agar situs web tampak meriah">
-<!ENTITY plugins.enabled.title                     "Aktifkan Plugin">
-<!ENTITY plugins.enabled.description               "Situs web jadi lebih gaya">
+<!ENTITY showImages.title                          "Tampilkan gambar">
+<!ENTITY enableJavaScript.title                    "Aktifkan JavaScript">
+<!ENTITY enableJavaScript.description              "Umumnya situs web interaktif menggunakan JavaScript">
+<!ENTITY javascript.options.jit.content.title      "Aktifkan tracing JavaScript">
+<!ENTITY javascript.options.jit.content.description "Gunakan kompilasi native pada JavaScript">
+<!ENTITY enablePlugins.title                       "Aktifkan Plugin">
+<!ENTITY enablePlugins.description                 "Plugins digunakan untuk isi tertentu, contohnya video">
 <!ENTITY privacy.title                             "Privasi &amp; Keamanan">
-<!ENTITY network.cookie.cookieBehavior.title       "Simpan cookie">
-<!ENTITY network.cookie.cookieBehavior.description "Kue nan lezat">
-<!ENTITY clear.private.data.title                  "Bersihkan data pribadi">
-<!ENTITY clear.private.data.button                 "Bersihkan…">
-<!ENTITY clear.private.data.description            "Menangkan permainan petak-umpet">
-<!ENTITY signon.rememberSignons.title              "Simpan kata sandi">
-<!ENTITY signon.rememberSignons.description        "Tak perlu lagi ketik sandi">
+<!ENTITY allowCookies.title                        "Izinkan cookie">
+<!ENTITY allowCookies.description                  "Situs menggunakan cookie untuk mengidentifikasi Anda serta mengingat pengaturan Anda">
+<!ENTITY clearPrivateData.title                    "Berishkan riwayar penjelajahan terakhir">
+<!ENTITY clearPrivateData.button                   "Bersihkan">
+<!ENTITY clearPrivateData.description              "Riwayat Anda membantu &brandShortName; untuk memberi saran alamat yang Anda buka">
+<!ENTITY rememberPasswords.title                   "Ingat keta sandi">

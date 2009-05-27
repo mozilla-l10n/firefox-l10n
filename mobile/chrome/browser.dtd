@@ -49,6 +49,38 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "Pengaya">
+<!ENTITY addonsLocal.label         "Pengaya Anda">
+<!ENTITY addonsRepo.label          "Unduh Pengaya">
+<!ENTITY addonsRecommended.label   "Rekomendasi">
+<!ENTITY addonsSearch.label        "Cari">
+<!ENTITY addonsSearch.emptytext    "Cari semua pengaya">
+
+<!ENTITY addonOptions.label        "Pengaturan">
+<!ENTITY addonEnable.label         "Aktifkan">
+<!ENTITY addonDisable.label        "Matikan">
+<!ENTITY addonInstall.label        "Pasang">
+<!ENTITY addonUninstall.label      "Hapus">
+<!ENTITY addonCancel.label         "Batal">
+<!ENTITY addonShowPage.label       "Buka Beranda">
+
+<!ENTITY downloadsHeader.label     "Unduhan">
+<!ENTITY downloadsSortDate.label   "Tanggal">
+<!ENTITY downloadsSortSite.label   "Situs">
+<!ENTITY downloadsSortName.label   "Nama">
+<!ENTITY downloadsSearch.label     "Cari">
+<!ENTITY downloadsSearch.emptytext "Cari berkas yang telah diunduh">
+
+<!ENTITY downloadShowPage.label    "Buka Halaman">
+<!ENTITY downloadShow2.label       "Cari">
+<!ENTITY downloadOpen2.label       "Buka">
+<!ENTITY downloadCancel.label      "Batal">
+<!ENTITY downloadPause.label       "Tunda">
+<!ENTITY downloadResume.label      "Lanjutkan">
+<!ENTITY downloadRetry.label       "Coba Lagi">
+
+<!ENTITY noResults.label           "Tidak ada hasil">
+
 <!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
 <!ENTITY identity.connectedTo "Anda tersambung ke">
 <!ENTITY identity.runBy "yang dijalankan oleh">
