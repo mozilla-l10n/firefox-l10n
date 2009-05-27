@@ -75,7 +75,7 @@
   <li>Hubungi administrator jaringan Anda untuk memastikan server proxy sudah berjalan.</li>
 </ul>
 ">
-<!ENTITY proxyResolveFailure.title "Tidak dapat menemukan proxy server">
+<!ENTITY proxyResolveFailure.title "Tidak dapat menemukan server proxy">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Periksa pengaturan proxy, pastikan sudah benar.</li>
