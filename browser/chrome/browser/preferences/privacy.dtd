@@ -59,7 +59,7 @@
 <!ENTITY  acceptThirdParty.accesskey    "p">
 
 <!ENTITY  clearOnClose.label             "જ્યારે &brandShortName; બંધ થાય ત્યારે ઇતિહાસ સાફ કરો">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "સુયોજનો…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
@@ -73,7 +73,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; કરશે:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "ઈતિહાસ યાદ રાખો">
 <!ENTITY  historyHeader.dontremember.label "ક્યારેય ઈતિહાસ યાદ રાખશો નહિં">
 <!ENTITY  historyHeader.custom.label       "ઈતિહાસ માટે વૈવિધ્યપૂર્ણ સુયોજનો વાપરો">
@@ -102,7 +102,7 @@
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
 <!ENTITY  rememberHistory.pre.label      "મારો બ્રાઉઝીંગ ઈતિહાસ ઓછામાં ઓછા">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.pre.accesskey  "b">
 <!ENTITY  rememberHistory.post.label     "દિવસો માટે યાદ રાખો">
 
 <!ENTITY  rememberDownload.label         "ડાઉનલોડ ઇતિહાસ યાદ રાખો">

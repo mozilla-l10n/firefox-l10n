@@ -11,7 +11,7 @@
 <!ENTITY deleteCmd.label "રદ કરો">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY spellAddToDictionary.label "શબ્દકોષમાં એડ-ઓન">
-<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellCheckEnable.label "જોડણી ચકાસો">
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(કોઈ જોડણી સૂચનો નથી)">
