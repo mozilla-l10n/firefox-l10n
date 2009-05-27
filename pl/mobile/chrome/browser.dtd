@@ -62,6 +62,7 @@
 <!ENTITY addonInstall.label        "Instaluj">
 <!ENTITY addonUninstall.label      "Odinstaluj">
 <!ENTITY addonCancel.label         "Anuluj">
+<!ENTITY addonShowPage.label       "Idź do strony">
 
 <!ENTITY downloadsHeader.label     "Pobieranie plików">
 <!ENTITY downloadsSortDate.label   "Data">
@@ -71,12 +72,14 @@
 <!ENTITY downloadsSearch.emptytext "Szukaj pobranego pliku">
 
 <!ENTITY downloadShowPage.label    "Idź do strony">
-<!ENTITY downloadShow.label        "Znajdź plik">
-<!ENTITY downloadOpen.label        "Otwórz plik">
+<!ENTITY downloadShow2.label       "Znajdź">
+<!ENTITY downloadOpen2.label       "Otwórz">
 <!ENTITY downloadCancel.label      "Anuluj">
 <!ENTITY downloadPause.label       "Wstrzymaj">
 <!ENTITY downloadResume.label      "Kontynuuj">
 <!ENTITY downloadRetry.label       "Pobierz ponownie">
+
+<!ENTITY noResults.label           "Brak wyników">
 
 <!ENTITY identity.unverifiedsite2 "Ta witryna nie dostarcza informacji o swej tożsamości.">
 <!ENTITY identity.connectedTo "Połączono z witryną">
