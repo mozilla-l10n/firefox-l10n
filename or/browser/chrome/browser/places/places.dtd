@@ -136,13 +136,13 @@
 <!ENTITY search.label                              "ଖୋଜନ୍ତୁ:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.scopeFolder.label                  "ବଚ୍ଛିତ ଫୋଲଡର">
-<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeBookmarks.label               "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "ଆହରଣ">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ଇତିହାସ">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "ସନ୍ଧାନ ନିର୍ମାତାକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "ସନ୍ଧାନ ନିର୍ମାତାକୁ ଲୁଚାନ୍ତୁ">
 <!ENTITY saveSearch.label                          "ସଂରକ୍ଷଣ କରନ୍ତୁ">

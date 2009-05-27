@@ -165,9 +165,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗକୁ ଆରମ୍ଭ କରନ୍ତୁ">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗକୁ ଅଟକାନ୍ତୁ">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "ଦୃଶ୍ୟ"> 
