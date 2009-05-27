@@ -1,19 +1,12 @@
 <!ENTITY history.label "Riwayat">
-<!ENTITY locbar.pre.label "Saat menggunakan bar lokasi, sarankan:">
+<!ENTITY locationBar.label "Bar Lokasi">
+<!ENTITY locbar.pre.label "Saat menggunakan bar lokasi sarankan:">
 <!ENTITY locbar.pre.accessKey "l">
 <!ENTITY locbar.post.label "">
 <!ENTITY locbar.both.label "Riwayat dan Bookmark">
 <!ENTITY locbar.history.label "Riwayat">
 <!ENTITY locbar.bookmarks.label "Bookmark">
 <!ENTITY locbar.nothing.label "Tidak ada">
-<!ENTITY rememberDaysBefore.label "Simpan riwayat halaman selama">
-<!ENTITY rememberDaysBefore.accesskey "r">
-<!ENTITY rememberDaysAfter2.label "hari">
-<!ENTITY rememberForms.label "Simpan informasi yang dimasukkan pada form dan bar pencari">
-<!ENTITY rememberForms.accesskey "f">
-<!ENTITY rememberDownloads.label "Simpan riwayat pengunduhan">
-<!ENTITY rememberDownloads.accesskey "u">
-<!ENTITY cookies.label "Cookie">
 <!ENTITY acceptCookies.label "Terima cookie dari situs web">
 <!ENTITY acceptCookies.accesskey "w">
 <!ENTITY acceptThirdParty.label "Terima cookie dari pihak ketiga">
@@ -27,11 +20,6 @@
 <!ENTITY cookieExceptions.accesskey "e">
 <!ENTITY showCookies.label "Tampilkan Cookie…">
 <!ENTITY showCookies.accesskey "c">
-<!ENTITY privateData.label "Data Pribadi">
-<!ENTITY alwaysClear.label "Selalu bersihkan data pribadi ketika menutup &brandShortName;">
-<!ENTITY alwaysClear.accesskey "s">
-<!ENTITY clearDataSettings.label "Pengaturan…">
-<!ENTITY clearDataSettings.accesskey "p">
 <!ENTITY historyHeader.pre.label "&brandShortName;:">
 <!ENTITY historyHeader.pre.accesskey "F">
 <!ENTITY historyHeader.remember.label "akan mengingat data riwayat">

@@ -1,8 +1,8 @@
-<!ENTITY windowTitle.label "Wizard Akun">
+<!ENTITY windowTitle.label "Penuntun Pembuatan Akun">
 <!ENTITY accountWizard.size "width: 45em; height: 38em;">
 <!ENTITY accountSetupInfo.label "Untuk menerima pesan, Anda diwajibkan membuat sebuah akun Email atau Newsgroup.">
 <!ENTITY accountTypeTitle.label "Membuat Akun Baru">
-<!ENTITY accountTypeDesc.label "Wizard ini akan mengumpulkan informasi yang dibutuhkan untuk mengatur akun Email atau Newgroup. Jika Anda tidak mengetahui informasi yang diminta, silakan hubungi Administrator Sistem atau Internet Service Provider Anda.">
+<!ENTITY accountTypeDesc.label "Penuntun ini akan mengumpulkan informasi yang dibutuhkan untuk mengatur akun Email atau Newgroup. Jika Anda tidak mengetahui informasi yang diminta, silakan hubungi Administrator Sistem atau Internet Service Provider Anda.">
 <!ENTITY accountTypeDirections.label "Pilih jenis akun yang ingin Anda atur:">
 <!ENTITY accountTypeMail.label "Akun email">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -60,5 +60,5 @@
 <!ENTITY deferStorageDesc.label "Matikan pilihan ini untuk menyimpan email akun ini pada direktori secara terpisah. Jika ya, akun ini akan tampil sebagai akun tersendiri. Jika tidak, email akan disimpan sebagai bagian dari akun Kotak Masuk Global Folder Lokal.">
 <!ENTITY deferStorage.label "Gunakan Kotak Masuk Global (simpan email pada Folder Lokal)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Klik Selesai untuk menyimpan pengaturan dan keluar dari Wizard Akun.">
-<!ENTITY clickFinish.labelMac "Klik Selesai untuk menyimpan pengaturan dan keluar dari Wizard Akun.">
+<!ENTITY clickFinish.label "Klik Selesai untuk menyimpan pengaturan dan keluar dari Penuntun Pembuatan Akun.">
+<!ENTITY clickFinish.labelMac "Klik Selesai untuk menyimpan pengaturan dan keluar dari Penuntun Pembuatan Akun.">

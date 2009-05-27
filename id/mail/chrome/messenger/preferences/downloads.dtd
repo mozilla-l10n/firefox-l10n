@@ -1,5 +1,5 @@
 <!ENTITY askOnSave.label "Folder Lampiran">
-<!ENTITY alwaysAsk.label "Tanyakan dimana akan menyimpan tiap-tiap berkas">
+<!ENTITY alwaysAsk.label "Tanyakan lokasi tempat menyimpan tiap-tiap berkas">
 <!ENTITY alwaysAsk.accesskey "A">
 <!ENTITY neverAsk.label "Simpan semua lampiran pada folder berikut:">
 <!ENTITY neverAsk.accesskey "S">

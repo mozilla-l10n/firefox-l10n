@@ -1,6 +1,6 @@
 <!ENTITY reportWizard.title "Laporkan Situs Web Bermasalah">
 <!ENTITY privacyNotice.label "Kebijakan Privasi">
-<!ENTITY reportWizardPrivacy.description "Fitur ini berfungsi untuk melaporkan Tim Pendukung mengenai situs web yang bermasalah jika dibuka oleh &brandShortName;, atau mematikan program &brandShortName; dengan tiba-tiba. Melalui cara ini kami dapat memastikan kenyamanan pengguna &brandShortName;. Silakan membaca bacaan berikut untuk mempelajari cara kami untuk mengumpulkan informasi dari Anda jika Anda memutuskan untuk berpartisipasi.">
+<!ENTITY reportWizardPrivacy.description "Fitur ini berfungsi untuk melaporkan Tim Pendukung mengenai situs web yang bermasalah jika dibuka oleh &brandShortName;, atau mematikan program &brandShortName; dengan tiba-tiba. Melalui cara ini kami dapat memastikan kenyamanan pengguna &brandShortName;. Silakan baca bacaan berikut untuk mempelajari cara kami untuk mengumpulkan informasi dari Anda jika Anda memutuskan untuk berpartisipasi.">
 <!ENTITY reportWizardMustAgree.description "Untuk melanjutkan, Anda harus menyetujui kebijakan privasi di atas.">
 <!ENTITY dontShowPrivacyStatement.label "Saya telah membaca dan menyetujui kebijakan privasi di atas.">
 <!ENTITY dontShowPrivacyStatement.accesskey "I">
@@ -13,7 +13,7 @@
 <!ENTITY reportForm.problem_type.title "Jenis Masalah:">
 <!ENTITY reportForm.problem_type.accesskey "M">
 <!ENTITY reportForm.problem_type.chooseOne.title "Pilih Salah Satu…">
-<!ENTITY reportForm.problem_type.item1.title "Program Browser tidak didukung">
+<!ENTITY reportForm.problem_type.item1.title "Program Peramban tidak didukung">
 <!ENTITY reportForm.problem_type.item2.title "Tidak bisa log-masuk">
 <!ENTITY reportForm.problem_type.item3.title "Plugin tidak dapat ditampilkan">
 <!ENTITY reportForm.problem_type.item4.title "Isi/tampilan hilang">

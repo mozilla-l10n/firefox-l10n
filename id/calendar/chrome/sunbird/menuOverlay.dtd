@@ -1,6 +1,6 @@
 <!ENTITY calendar.open.file.label                          "Buka Berkas Kalender…">
 <!ENTITY calendar.open.file.key                            "O">
-<!ENTITY calendar.open.file.accesskey                      "O">
+<!ENTITY calendar.open.file.accesskey                      "B">
 
 <!ENTITY event.edit.event                                  "Sunting yand Dipilih…">
 <!ENTITY event.edit.event.key                              "E">
@@ -53,7 +53,7 @@
 
 <!ENTITY calendar.paste.label                              "Tempel">
 <!ENTITY calendar.paste.key                                "V">
-<!ENTITY calendar.paste.accesskey                          "S">
+<!ENTITY calendar.paste.accesskey                          "T">
 
 <!ENTITY calendar.selectall.label                          "Pilih Semua">
 <!ENTITY calendar.selectall.key                            "A">

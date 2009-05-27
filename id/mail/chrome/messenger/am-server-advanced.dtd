@@ -7,7 +7,7 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY useIdle.label "Gunakan perintah IDLE jika server mendukung fitur ini">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Jumlah sambungan maksimum ke server yang di-cache">
+<!ENTITY maximumConnectionsNumber.label "Jumlah sambungan maksimum ke server yang disimpan pada tembolok">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!ENTITY namespaceDesc.label "Pengaturan ini menentukan namespace pada server IMAP Anda">
 <!ENTITY personalNamespace.label "Namespace personal:">

@@ -50,5 +50,5 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
-<!ENTITY identity.connectedTo "Anda terhubung ke">
+<!ENTITY identity.connectedTo "Anda tersambung ke">
 <!ENTITY identity.runBy "yang dijalankan oleh">

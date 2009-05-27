@@ -63,6 +63,8 @@
 <!ENTITY cmd.edit_redo.label "Ulangi">
 <!ENTITY cmd.edit_redo.accesskey "U">
 <!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.bookmarkLink.label "Buat Bookmark Halaman ini…">
+<!ENTITY cmd.bookmarkLink.accesskey "B">
 <!ENTITY cmd.delete.label "Hapus Halaman Ini">
 <!ENTITY cmd.delete.accesskey "H">
 <!ENTITY cmd.deleteDomainData.label "Lupakan Situs Ini">
@@ -172,10 +174,8 @@
 <!ENTITY maintenance.label "Impor dan Cadangan">
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY backCmd.label "Mundur">
-<!ENTITY backCmd.accesskey "u">
 <!ENTITY backButton.tooltip "Mundur">
 <!ENTITY forwardCmd.label "Maju">
-<!ENTITY forwardCmd.accesskey "j">
 <!ENTITY forwardButton.tooltip "Maju">
 <!ENTITY detailsPane.more.label "Lanjut">
 <!ENTITY detailsPane.more.accesskey "L">

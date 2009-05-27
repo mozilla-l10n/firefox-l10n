@@ -47,4 +47,4 @@
 <!ENTITY copyLinkCmd.accesskey "S">
 <!ENTITY CopyMessageId.label "Salin ID-Pesan">
 <!ENTITY OpenMessageForMsgId.label "Buka Pesan dengan ID">
-<!ENTITY OpenBrowserWithMsgId.label "Buka Browser dengan ID-Pesan">
+<!ENTITY OpenBrowserWithMsgId.label "Buka Program Peramban dengan ID-Pesan">

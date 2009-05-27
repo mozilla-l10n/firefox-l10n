@@ -22,3 +22,7 @@
 <!ENTITY place.accesskey "t">
 <!ENTITY belowText.label "di bawah kutipan (disarankan)">
 <!ENTITY aboveText.label "di bawah balasan saya (di atas kutipan)">
+<!ENTITY includeSigOnReply.label "Sertakan tanda tangan saya dalam balasan">
+<!ENTITY includeSigOnReply.accesskey "b">
+<!ENTITY includeSigOnForward.label "Sertakan tanda tangan saya dalam penerusan">
+<!ENTITY includeSigOnForward.accesskey "u">

@@ -11,8 +11,12 @@
 <!ENTITY replyTo.accesskey "B">
 <!ENTITY organization.label "Organisasi:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Tambahkan tanda tangan ini:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signatureText.label "Teks untuk Tanda Tangan:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Gunakan HTML (misalnya., &lt;b&gt;tebal&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Sertakan tanda tangan dari berkas (berkas teks, HTML, atau gambar):">
+<!ENTITY signatureFile.accesskey "H">
 <!ENTITY edit.label "Ubah…">
 <!ENTITY choose.label "Pilih…">
 <!ENTITY choose.accesskey "P">

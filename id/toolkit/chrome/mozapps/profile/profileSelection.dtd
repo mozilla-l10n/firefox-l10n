@@ -11,7 +11,7 @@
 <!ENTITY deleteButton.label "Hapus Profil…">
 <!ENTITY deleteButton.accesskey "H">
 <!ENTITY pmDescription.label "&brandShortName; menyimpan informasi tentang pengaturan dan data lainnya di profil Anda.">
-<!ENTITY offlineState.label "Bekerja offline">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY offlineState.label "Bekerja luring">
+<!ENTITY offlineState.accesskey "l">
 <!ENTITY autoSelect.label "Jangan tanyakan saat memulai">
 <!ENTITY autoSelect.accesskey "s">

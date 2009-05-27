@@ -7,5 +7,5 @@
 <!ENTITY folderSelectionCaption.label "Pilih folder untuk dicari: ">
 <!ENTITY chooseFoldersButton.label "Pilih…">
 <!ENTITY chooseFoldersButton.accesskey "P">
-<!ENTITY searchOnline.label "Cari secara Online (untuk memberikan hasil terbaru pada folder IMAP dan news walaupun menjadikan waktu membuka folder lebih lama)">
-<!ENTITY searchOnline.accesskey "O">
+<!ENTITY searchOnline.label "Pencarian Daring (untuk memberikan hasil terbaru pada folder IMAP dan news walaupun menjadikan waktu membuka folder lebih lama)">
+<!ENTITY searchOnline.accesskey "D">

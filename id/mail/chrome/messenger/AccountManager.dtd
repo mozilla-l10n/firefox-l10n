@@ -6,5 +6,4 @@
 <!ENTITY removeButton.label "Hapus Akun">
 <!ENTITY removeButton.accesskey "H">
 <!ENTITY accountManager.size "width: 68em; height: 50em;">
-<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
 <!ENTITY accountTree.width "width: 20em;">

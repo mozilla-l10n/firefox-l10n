@@ -44,3 +44,7 @@
 <!ENTITY sendOptionsDescription.label "Atur pemformatan teks">
 <!ENTITY sendOptions.label "Pengaturan Pengiriman…">
 <!ENTITY sendOptions.accesskey "P">
+<!ENTITY attachmentReminder.label              "Periksa lampiran yang terlupa">
+<!ENTITY attachmentReminder.accesskey          "l">
+<!ENTITY attachmentReminderOptions.label       "Kata Kunci…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">

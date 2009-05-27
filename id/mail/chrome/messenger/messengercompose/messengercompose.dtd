@@ -115,11 +115,11 @@
 <!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Deteksi Otomatis">
 <!ENTITY autoFormatCmd.accesskey "O">
-<!ENTITY plainTextFormatCmd.label "Teks Biasa Saja">
+<!ENTITY plainTextFormatCmd.label "Teks Polos">
 <!ENTITY plainTextFormatCmd.accesskey "S">
 <!ENTITY htmlFormatCmd.label "Teks Format Kaya (HTML) Saja">
 <!ENTITY htmlFormatCmd.accesskey "K">
-<!ENTITY bothFormatCmd.label "Teks Biasa dan Format Kaya (HTML)">
+<!ENTITY bothFormatCmd.label "Teks Polos dan Format Kaya (HTML)">
 <!ENTITY bothFormatCmd.accesskey "T">
 <!ENTITY priorityMenu.label "Prioritas">
 <!ENTITY priorityMenu.accesskey "p">

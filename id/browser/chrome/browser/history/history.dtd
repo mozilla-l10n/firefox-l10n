@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "Buka di Jendela Baru">
 <!ENTITY openInNewWindow.accesskey "J">
-<!ENTITY bookmarkLink.label "Buat Bookmark Tautan Ini…">
-<!ENTITY bookmarkLink.accesskey "B">
 <!ENTITY copyLink.label "Salin Lokasi Tautan">
 <!ENTITY copyLink.accesskey "S">
