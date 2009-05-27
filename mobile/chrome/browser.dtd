@@ -67,6 +67,7 @@
 <!ENTITY downloadPause.label "Приостановить">
 <!ENTITY downloadResume.label "Возобновить">
 <!ENTITY downloadRetry.label "Повторить">
+<!ENTITY noResults.label "Нет результатов">
 <!ENTITY identity.unverifiedsite2 "Информация о подлинности этого веб-сайта отсутствует.">
 <!ENTITY identity.connectedTo "Вы соединены с">
 <!ENTITY identity.runBy "который управляется">
