@@ -45,6 +45,13 @@
 <!ENTITY calendar.prevweek.button.tooltip "Minggu Sebelumnya">
 <!ENTITY calendar.nextmonth.button.tooltip "Bulan Depan">
 <!ENTITY calendar.prevmonth.button.tooltip "Bulan Sebelumnya">
+<!ENTITY calendar.navigation.nextday.tooltip "Maju Satu Hari" >
+<!ENTITY calendar.navigation.prevday.tooltip "Mundur Satu Hari" >
+<!ENTITY calendar.navigation.nextweek.tooltip "Maju Satu Minggu" >
+<!ENTITY calendar.navigation.prevweek.tooltip "Mundur Satu Minggu" >
+<!ENTITY calendar.navigation.nextmonth.tooltip "Maju Satu Bulan" >
+<!ENTITY calendar.navigation.prevmonth.tooltip "Mundur Satu Bulan" >
+
 <!ENTITY calendar.newtask.button.label "Tugas Baru">
 <!ENTITY calendar.newevent.button.label "Acara Baru">
 <!ENTITY calendar.print.button.label "Cetak">
@@ -207,9 +214,9 @@
 <!ENTITY calendarproperties.name.label "Nama:">
 <!ENTITY calendarproperties.readonly.label "Baca Saja">
 <!ENTITY calendarproperties.firealarms.label "Tampilkan Alarm">
-<!ENTITY calendarproperties.cache.label "Cache (EKSPERIMENTAL, membutuhkan restart)">
+<!ENTITY calendarproperties.cache.label "Tembolok (EKSPERIMENTAL, membutuhkan restart)">
 <!ENTITY calendarproperties.enabled.label "Aktifkan kalender ini">
-<!ENTITY calendarproperties.forceDisabled.label "Provider kalender ini tidak ditemukan. Ini sering terjadi karena Anda telah menon-aktifkan atau menghapus pemasangan pengaya tertentu.">
+<!ENTITY calendarproperties.forceDisabled.label "Provider kalender ini tidak ditemukan. Ini sering terjadi karena Anda telah menonaktifkan atau menghapus pemasangan pengaya tertentu.">
 <!ENTITY calendarproperties.unsubscribe.label "Berhenti Langganan">
 <!ENTITY calendarproperties.unsubscribe.accesskey "B">
 <!ENTITY calendar.publish.dialog.title "Terbitkan Kalender">

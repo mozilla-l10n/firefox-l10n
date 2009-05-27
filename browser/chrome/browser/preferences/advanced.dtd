@@ -14,17 +14,17 @@
 <!ENTITY checkSpelling.label "Cek ejaan saat mengetik teks">
 <!ENTITY checkSpelling.accesskey "e">
 <!ENTITY systemDefaults.label "Nilai Default dari Sistem">
-<!ENTITY alwaysCheckDefault.label "Periksa apakah &brandShortName; adalah program browser default ketika memulai">
+<!ENTITY alwaysCheckDefault.label "Periksa apakah &brandShortName; adalah program peramban web default ketika memulai">
 <!ENTITY alwaysCheckDefault.accesskey "w">
 <!ENTITY checkNow.label "Periksa Sekarang">
 <!ENTITY checkNow.accesskey "N">
 <!ENTITY networkTab.label "Jaringan">
 <!ENTITY connection.label "Sambungan">
-<!ENTITY connectionDesc.label "Atur cara &brandShortName; terhubung ke Internet">
+<!ENTITY connectionDesc.label "Atur cara &brandShortName; tersambung ke Internet">
 <!ENTITY connectionSettings.label "Pengaturan…">
 <!ENTITY connectionSettings.accesskey "u">
-<!ENTITY offlineStorage.label "Penyimpanan Offline">
-<!ENTITY useCacheBefore.label "Gunakan harddisk untuk cache hingga">
+<!ENTITY offlineStorage.label "Penyimpanan Luring">
+<!ENTITY useCacheBefore.label "Gunakan harddisk untuk tembolok hingga">
 <!ENTITY useCacheBefore.accesskey "h">
 <!ENTITY useCacheAfter.label "MB">
 <!ENTITY clearCacheNow.label "Bersihkan Sekarang">
@@ -46,15 +46,15 @@
 <!ENTITY modeAutoAddonWarn.accesskey "t">
 <!ENTITY updateHistory.label "Tampilkan Riwayat Pemutakhiran">
 <!ENTITY updateHistory.accesskey "w">
-<!ENTITY offlineNotify.label "Beritahukan jika situs web meminta untuk menyimpan data untuk penggunaan offline">
+<!ENTITY offlineNotify.label "Beritahukan jika situs web meminta untuk menyimpan data untuk penggunaan luring">
 <!ENTITY offlineNotify.accesskey "T">
 <!ENTITY offlineNotifyExceptions.label "Pengecualian…">
 <!ENTITY offlineNotifyExceptions.accesskey "c">
-<!ENTITY offlineAppsList.label "Situs web berikut telah menyimpan data untuk penggunaan offline:">
+<!ENTITY offlineAppsList.label "Situs web berikut telah menyimpan data untuk penggunaan luring:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Hapus…">
 <!ENTITY offlineAppsListRemove.accesskey "H">
-<!ENTITY offlineAppRemove.confirm "Hapus data offline">
+<!ENTITY offlineAppRemove.confirm "Hapus data luring">
 <!ENTITY encryptionTab.label "Enkripsi">
 <!ENTITY protocols.label "Protokol">
 <!ENTITY useSSL3.label "Gunakan SSL 3.0">

@@ -39,10 +39,10 @@
 <!ENTITY pageColors.label "Warna Halaman">
 <!ENTITY defaultColorsRadio.label "Warna default pemirsa/pembaca (tidak mengatur warna untuk halaman)">
 <!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "Gunakan pengaturan warna hanya dari browser pemirsa (pembaca)">
+<!ENTITY defaultColorsRadio.tooltip "Gunakan pengaturan warna hanya dari program peramban pemirsa (pembaca)">
 <!ENTITY customColorsRadio.label "Gunakan warna suka-suka:">
 <!ENTITY customColorsRadio.accessKey "S">
-<!ENTITY customColorsRadio.tooltip "Pengaturan warna ini akan mengganti pengaturan browser pemirsa">
+<!ENTITY customColorsRadio.tooltip "Pengaturan warna ini akan mengganti pengaturan program peramban pemirsa">
 <!ENTITY normalText.label "Teks normal">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "Teks bertaut">

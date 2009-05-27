@@ -9,6 +9,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "c">
 <!ENTITY newAccountCmd.label "Akun…">
 <!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY newMailAccountCmd.label "Akun Email (Pengaturan Cepat)…">
+<!ENTITY newMailAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Buka Pesan Tersimpan…">
 <!ENTITY openMessageFileCmd.accesskey "P">
 <!ENTITY openAttachmentCmd.label "Lampiran">
@@ -44,13 +46,13 @@
 <!ENTITY emptyTrashCmd.accesskey "o">
 <!ENTITY importCmd.label "Impor…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY offlineMenu.label "Offline">
+<!ENTITY offlineMenu.label "Luring">
 <!ENTITY offlineMenu.accesskey "f">
-<!ENTITY offlineGoOfflineCmd.label "Bekerja Offline">
-<!ENTITY offlineGoOfflineCmd.accesskey "O">
+<!ENTITY offlineGoOfflineCmd.label "Bekerja Luring">
+<!ENTITY offlineGoOfflineCmd.accesskey "L">
 <!ENTITY synchronizeOfflineCmd.label "Unduh/Sinkron Sekarang…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Pengaturan Offline…">
+<!ENTITY settingsOfflineCmd.label "Pengaturan Luring…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Ambil Pesan Terpilih">
 <!ENTITY downloadSelectedCmd.accesskey "l">
@@ -205,8 +207,16 @@
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "HTML Sederhana">
 <!ENTITY bodySanitized.accesskey "S">
-<!ENTITY bodyAsPlaintext.label "Teks Biasa">
-<!ENTITY bodyAsPlaintext.accesskey "B">
+<!ENTITY bodyAsPlaintext.label "Teks Polos">
+<!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyMenuFeed.label "Isi Pesan Feed sebagai">
+<!ENTITY bodyMenuFeed.accesskey "I">
+<!ENTITY viewFeedWebPage.label "Halaman Web">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Ringkasan">
+<!ENTITY viewFeedSummary.accesskey "R">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Format Default">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 <!ENTITY viewAttachmentsInlineCmd.label "Tampilkan Lampiran Tanpa Dipisah dari Pesan">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 <!ENTITY fullZoomEnlargeCmd.label "Perbesar">
@@ -375,6 +385,14 @@
 <!ENTITY openMessageWindowCmd.label "Buka Pesan">
 <!ENTITY openMessageWindowCmd.accesskey "P">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Buka Pesan Feed">
+<!ENTITY openFeedMessage.accesskey "F">
+<!ENTITY openFeedWebPageInWindow.label "Halaman Web pada Jendela Baru">
+<!ENTITY openFeedWebPageInWindow.accesskey "J">
+<!ENTITY openFeedSummaryInWindow.label "Ringkasan pada Jendela Baru">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Ganti antara Halaman Web dan Ringkasan pada Panel Pesan">
+<!ENTITY openFeedWebPageInMP.accesskey "G">
 <!ENTITY windowMenu.label "Jendela">
 <!ENTITY tasksMenu.label "Alat">
 <!ENTITY tasksMenu.accesskey "A">
@@ -584,8 +602,8 @@
 <!ENTITY junkBarMessage1.label "Email Junk">
 <!ENTITY junkBarButton1.label "Bukan Junk">
 <!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage1.label "Untuk melindungi privasi Anda, tampilan gambar daring telah diblokir.">
-<!ENTITY loadRemoteContentButton2.label "Tampilkan Gambar Sekarang">
+<!ENTITY remoteContentMessage2.label "Untuk melindungi privasi Anda, kandungan daring pada pesan ini telah diblokir.">
+<!ENTITY loadRemoteContentButton3.label "Tampilkan Kandungan Daring">
 <!ENTITY phishingBarMessage2.label "Pesan ini mungkin berisi penipuan (scam).">
 <!ENTITY removePhishingBarButton1.label "Abaikan Peringatan">
 <!ENTITY reportPhishingError1.label "Nampaknya pesan ini bukan pesan berisi penipuan.">

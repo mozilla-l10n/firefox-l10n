@@ -64,14 +64,14 @@
 <!ENTITY retentionKeepUnread.accesskey "b">
 <!ENTITY retentionApplyToFlagged.label "Selalu simpan pesan berbintang">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY folderOfflineTab.label "Offline">
+<!ENTITY folderSynchronizationTab.label "Sinkronisasi">
 <!ENTITY folderCheckForNewMessages.label "Periksa pesan baru pada folder ini">
 <!ENTITY folderCheckForNewMessages.accesskey "P">
-<!ENTITY offlineFolder.check.label "Pilih folder ini untuk penggunaan offline">
+<!ENTITY offlineFolder.check.label "Pilih folder ini untuk penggunaan luring">
 <!ENTITY offlineFolder.check.accesskey "o">
 <!ENTITY offlineFolder.button.label "Unduh Sekarang">
 <!ENTITY offlineFolder.button.accesskey "U">
-<!ENTITY selectofflineNewsgroup.check.label "Pilih newsgroup ini untuk penggunaan offline">
+<!ENTITY selectofflineNewsgroup.check.label "Pilih newsgroup ini untuk penggunaan luring">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
 <!ENTITY offlineNewsgroup.button.label "Unduh Sekarang">
 <!ENTITY offlineNewsgroup.button.accesskey "U">

@@ -153,11 +153,11 @@
 <!ENTITY event.description.label                          "Deskripsi:" >
 <!ENTITY event.description.accesskey                      "p">
 <!ENTITY event.attachments.label                          "Lampiran:" >
-<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.accesskey                      "L" >
 <!ENTITY event.attachments.popup.remove.label             "Hapus" >
-<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.remove.accesskey         "H" >
 <!ENTITY event.attachments.popup.open.label               "Buka" >
-<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.open.accesskey           "B" >
 <!ENTITY event.attachments.popup.removeAll.label          "Hapus Semua" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
 <!ENTITY event.attachments.popup.attachPage.label         "Lampirkan Halaman Web…" >

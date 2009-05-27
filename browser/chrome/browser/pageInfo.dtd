@@ -15,7 +15,7 @@
 <!ENTITY generalMode "Mode Render:">
 <!ENTITY generalSize "Besar:">
 <!ENTITY generalReferrer "URL Perujuk:">
-<!ENTITY generalSource "Cache Sumber:">
+<!ENTITY generalSource "Tembolok Sumber:">
 <!ENTITY generalModified "Diubah:">
 <!ENTITY generalEncoding "Pengodean:">
 <!ENTITY generalMetaName "Nama">
@@ -45,6 +45,7 @@
 <!ENTITY permTab "Hak Akses">
 <!ENTITY permTab.accesskey "a">
 <!ENTITY permUseDefault "Gunakan Pengaturan Default">
+<!ENTITY permAskAlways "Selalu tanyakan">
 <!ENTITY permAllow "Izinkan">
 <!ENTITY permAllowSession "Izinkan selama Sesi">
 <!ENTITY permBlock "Blokir">
@@ -53,6 +54,7 @@
 <!ENTITY permPopup "Buka Jendela Pop-up">
 <!ENTITY permCookie "Simpan Cookie">
 <!ENTITY permInstall "Memasang Ekstensi atau Tema">
+<!ENTITY permGeo "Berbagi Data Lokasi">
 <!ENTITY securityTab "Keamanan">
 <!ENTITY securityTab.accesskey "K">
 <!ENTITY securityHeader "Informasi keamanan untuk halaman ini">

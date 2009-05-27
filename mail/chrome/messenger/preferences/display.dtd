@@ -13,9 +13,9 @@
 <!ENTITY smaller.label "Lebih kecil">
 <!ENTITY color.label "Warna:">
 <!ENTITY color.accesskey "W">
-<!ENTITY displayWidth.label "Pesan Teks Biasa">
+<!ENTITY displayWidth.label "Pesan Teks Polos">
 <!ENTITY plainText.label "Gunakan huruf berikut:">
-<!ENTITY displayText.label "Saat menampilkan kutipan dalam pesan dalam format teks biasa gunakan:">
+<!ENTITY displayText.label "Saat menampilkan kutipan dalam pesan dalam format teks polos gunakan:">
 <!ENTITY fixedWidth.label "Huruf dengan lebar tetap">
 <!ENTITY fixedWidth.accesskey "t">
 <!ENTITY variableWidth.label "Huruf dengan lebar bervariasi">

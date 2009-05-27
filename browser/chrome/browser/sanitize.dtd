@@ -4,9 +4,9 @@
 <!ENTITY clearDataSettings2.label "Saat keluar dari &brandShortName;, otomatis hapus semua:">
 <!ENTITY clearTimeDuration.label "Jangka waktu riwayat untuk dibersihkan: ">
 <!ENTITY clearTimeDuration.accesskey "J">
-<!ENTITY clearTimeDuration.lastHour "Sejam Sebelumnya">
-<!ENTITY clearTimeDuration.last2Hours "Dua Jam Sebelumnya">
-<!ENTITY clearTimeDuration.last4Hours "Empat Jam Sebelumnya">
+<!ENTITY clearTimeDuration.lastHour "1 Jam Sebelumnya">
+<!ENTITY clearTimeDuration.last2Hours "2 Jam Sebelumnya">
+<!ENTITY clearTimeDuration.last4Hours "4 Jam Sebelumnya">
 <!ENTITY clearTimeDuration.today "Hari Ini">
 <!ENTITY clearTimeDuration.everything "Semuanya">
 <!ENTITY clearTimeDuration.suffix "">
@@ -26,10 +26,10 @@
 <!ENTITY itemPasswords.accesskey "S">
 <!ENTITY itemCookies.label "Cookie">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "Cache">
-<!ENTITY itemCache.accesskey "A">
-<!ENTITY itemOfflineApps.label "Data Situs Web Offline">
-<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemCache.label "Tembolok">
+<!ENTITY itemCache.accesskey "T">
+<!ENTITY itemOfflineApps.label "Data Situs Web Luring">
+<!ENTITY itemOfflineApps.accesskey "L">
 <!ENTITY itemDownloadHistory.label "Riwayat Unduhan">
 <!ENTITY itemDownloadHistory.accesskey "U">
 <!ENTITY itemActiveLogins.label "Log-Masuk Aktif">

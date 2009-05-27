@@ -32,5 +32,5 @@
 <!ENTITY noproxy.label "Tidak Perlu Proxy untuk:">
 <!ENTITY noproxy.accesskey "x">
 <!ENTITY noproxyExplain.label "Contoh: .mozilla.org, .net.id, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Gunakan proxy server ini untuk semua protokol">
+<!ENTITY shareproxy.label "Gunakan server proxy ini untuk semua protokol">
 <!ENTITY shareproxy.accesskey "y">

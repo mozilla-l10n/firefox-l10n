@@ -11,6 +11,6 @@
 <!ENTITY searchMsgsLink.label "Cari pesan">
 <!ENTITY filtersLink.label "Kelola penyaring pesan">
 <!ENTITY junkSettings.label "Pengaturan email junk">
-<!ENTITY offlineLink.label "Pengaturan offline">
+<!ENTITY offlineLink.label "Pengaturan luring">
 <!ENTITY feedsSectionHdr.label "Feed">
 <!ENTITY subscribeFeeds.label "Kelola langganan">

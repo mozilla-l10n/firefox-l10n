@@ -22,14 +22,14 @@
 <!ENTITY SecondEmail.accesskey "L">
 <!ENTITY PreferMailFormat.label "Ingin menerima pesan dalam format:">
 <!ENTITY PreferMailFormat.accesskey "r">
-<!ENTITY PlainText.label "Teks Biasa">
+<!ENTITY PlainText.label "Teks Polos">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Tidak Ditentukan">
 <!ENTITY ScreenName.label "Nama Layar:">
 <!ENTITY ScreenName.accesskey "L">
-<!ENTITY allowRemoteContent.label "Izinkan gambar daring dalam email HTML.">
-<!ENTITY allowRemoteContent.accesskey "H">
-<!ENTITY allowRemoteContent.tooltip "Gambar dimungkinkan untuk dimasukkan dalam pesan dalam format HTML yang berasal dari sumber daring. Jika pesan ini dibuka, sebuah sambungan akan dibuat ke sumber eksternal. Dengan cara ini, pesan yang dibuka akan dapat diketahui apakah sudah dibuka atau tidak. Dengan mengaktifkan pengaturan ini, gambar dalam pesan berformat HTML seperti yang telah dijelaskan akan ditampilkan dari kontak ini.">
+<!ENTITY allowRemoteContent1.label "Izinkan kandungan daring:">
+<!ENTITY allowRemoteContent1.accesskey "I">
+<!ENTITY allowRemoteContent1.tooltip "Pesan dalam format HTML memungkinkan untuk menggabungkan kandungan isi dari sumber daring. Dengan membuka pesan sejenis akan membuka sambungan ke sumber eksternal. Hal ini dapat menyebabkan penjejakan pada saat pembacaan pesan. Menandai kotak ini akan mengizinkan kandungan isi eksternal dalam pesan berformat HTML dari kenalan ini.">
 <!ENTITY WorkPhone.label "Kantor:">
 <!ENTITY WorkPhone.accesskey "k">
 <!ENTITY HomePhone.label "Rumah:">

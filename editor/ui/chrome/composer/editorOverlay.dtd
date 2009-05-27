@@ -162,7 +162,6 @@
 <!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Lebar Tetap">
 <!ENTITY fontFixedWidth.accesskey "t">
-<!ENTITY fontVarWidth.accesskey "p">
 <!ENTITY fontFixedWidth.key "t">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
@@ -364,7 +363,7 @@
 <!ENTITY saveToolbarCmd.tooltip "Simpan berkas ke lokasi lokal">
 <!ENTITY publishToolbarCmd.tooltip "Unggah berkas ke lokasi daring">
 <!ENTITY previewToolbarCmd.label "Jelajahi">
-<!ENTITY previewToolbarCmd.tooltip "Muat Halaman di browser">
+<!ENTITY previewToolbarCmd.tooltip "Muat Halaman di program peramban">
 <!ENTITY printToolbarCmd.label "Cetak">
 <!ENTITY printToolbarCmd.tooltip "Cetak Halaman Ini">
 <!ENTITY findToolbarCmd.label "Cari">
@@ -413,7 +412,7 @@
 <!ENTITY HTMLSourceMode.tooltip "Sunting Kode Sumber HTML">
 <!ENTITY PreviewMode.label "Pratinjau">
 <!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "Tampilkan dalam mode WYSIWYG (seperti pada browser)">
+<!ENTITY PreviewMode.tooltip "Tampilkan dalam mode WYSIWYG (seperti pada program peramban)">
 <!ENTITY SourceTabDirection "ltr">
 <!ENTITY structSelect.label "Pilih">
 <!ENTITY structSelect.accesskey "p">

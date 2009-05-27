@@ -1,9 +1,9 @@
 <!ENTITY windowTitle.label "Pertanyaan Email Format HTML">
 <!ENTITY recipient.label "Beberapa penerima tidak didaftarkan dapat menerima email HTML.">
-<!ENTITY question.label "Apakah Anda ingin untuk mengubah email menjadi format teks biasa atau tetap mengirim dalam format HTML?">
-<!ENTITY plainTextAndHtml.label "Kirim dalam format Teks Biasa dan HTML">
+<!ENTITY question.label "Apakah Anda ingin untuk mengubah email dalam format teks polos atau tetap mengirim dalam format HTML?">
+<!ENTITY plainTextAndHtml.label "Kirim dalam format Teks Polos dan HTML sekaligus">
 <!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Kirim hanya dalam Format Teks">
+<!ENTITY plainTextOnly.label "Kirim hanya dalam Format Teks Polos">
 <!ENTITY plainTextOnly.accesskey "T">
 <!ENTITY htmlOnly.label "Kirim hanya dalam Format HTML">
 <!ENTITY htmlOnly.accesskey "H">

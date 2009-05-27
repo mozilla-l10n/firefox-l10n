@@ -61,7 +61,7 @@
 <!ENTITY searchAddressesCmd.key "f">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY swapFirstNameLastNameCmd.label "Tukar Urutan Nama Depan/Belakang">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "w">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "u">
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label "Properti…">
 <!ENTITY propertiesCmd.accesskey "i">

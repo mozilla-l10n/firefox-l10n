@@ -19,8 +19,8 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "Impor…">
 <!ENTITY import.accesskey "I">
-<!ENTITY goOfflineCmd.label "Bekerja Offline">
-<!ENTITY goOfflineCmd.accesskey "O">
+<!ENTITY goOfflineCmd.label "Bekerja Luring">
+<!ENTITY goOfflineCmd.accesskey "L">
 <!ENTITY navbarCmd.label "Toolbar Navigasi">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Toolbar Bookmark">
@@ -80,9 +80,10 @@
 <!ENTITY homeButton.label "Beranda">
 <!ENTITY bookmarksButton.label "Bookmark">
 <!ENTITY bookmarksButton.tooltip "Menampilkan bookmark Anda">
-<!ENTITY bookmarksSidebarCmd.accesskey "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "h">
 <!ENTITY historyButton.label "Riwayat">
 <!ENTITY historyButton.tooltip "Menampilkan riwayat halaman yang baru saja dilihat">
 <!ENTITY historySidebarCmd.accesskey "R">
@@ -159,7 +160,6 @@
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "Cari di Daftar Bookmark dan Riwayat">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Cari di Daftar Bookmark dan Riwayat">
 <!ENTITY urlbar.bookmark.emptyText "Cari di Daftar Bookmark">
 <!ENTITY urlbar.history.emptyText "Cari di Daftar Riwayat">
@@ -333,7 +333,7 @@
 <!ENTITY editBookmark.edit.label "Ubah…">
 <!ENTITY editBookmark.edit.accessKey "U">
 <!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
-<!ENTITY identity.connectedTo "Anda terhubung ke">
+<!ENTITY identity.connectedTo "Anda tersambung ke">
 <!ENTITY identity.runBy "yang dijalankan oleh">
 <!ENTITY identity.moreInfoLinkText "Informasi lebih lanjut…">
 <!ENTITY downloadMonitor2.tooltip "Klik untuk membuka jendela Unduhan">

@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Untuk menghemat ruang disk, jangan unduh:">
-<!ENTITY doNotDownload.label "Untuk menghemat ruang disk, jangan unduh pesan untuk penggunaan offline:">
+<!ENTITY doNotDownload.label "Untuk menghemat ruang disk, jangan unduh pesan untuk penggunaan luring:">
 <!ENTITY allFoldersOffline.label "Tinggalkan pesan untuk akun ini pada komputer ini">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Pesan lebih besar dari">
@@ -26,7 +26,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveBody.label "Jika isi pesan kurang dari">
 <!ENTITY nntpRemoveBody.accesskey "P">
-<!ENTITY offlineSelectNntp.label "Pilih newgroup untuk penggunaan offline…">
+<!ENTITY offlineSelectNntp.label "Pilih newsgroup untuk penggunaan luring…">
 <!ENTITY offlineSelectNntp.accesskey "P">
 <!ENTITY offlineImapAdvancedOffline.label "Canggih…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

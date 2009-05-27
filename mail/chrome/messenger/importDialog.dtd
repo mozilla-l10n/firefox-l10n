@@ -1,4 +1,3 @@
-<!--null-->
 <!ENTITY importDialog.windowTitle "Impor">
 <!ENTITY importAll.label "Import Semuanya">
 <!ENTITY importAll.accesskey "S">
@@ -12,9 +11,9 @@
 <!ENTITY importFilters.accesskey  "F">
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
-<!ENTITY importTitle.label "Wizard Impor &brandShortName;">
+<!ENTITY importTitle.label "Penuntun Impor &brandShortName;">
 <!ENTITY importShortDesc.label "Impor Email, Buku Alamat, Pengaturan, dan Filter dari program lainnya">
-<!ENTITY importDescription1.label "Wizard berikut akan mengimpor pesan email, item buku alamat, pengaturan, dan/atau filter dari program pembaca email lainnya dan buku alamat dalam format yang umum ke &brandShortName;.">
+<!ENTITY importDescription1.label "Penuntun berikut akan mengimpor pesan email, item buku alamat, pengaturan, dan/atau filter dari program pembaca email lainnya dan buku alamat dalam format yang umum ke &brandShortName;.">
 <!ENTITY importDescription2.label "Setelah selesai diimpor, Anda akan dapat mengakses informasi tersebut dari &brandShortName;.">
 <!ENTITY selectDescription.label "Pilih jenis berkas yang ingin diimpor:">
 <!ENTITY selectDescription.accesskey "P">

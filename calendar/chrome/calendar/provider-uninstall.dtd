@@ -39,6 +39,6 @@
 <!ENTITY providerUninstall.accept.accesskey                "B">
 <!ENTITY providerUninstall.cancel.label                    "Simpan Pengaya">
 <!ENTITY providerUninstall.cancel.accesskey                "S">
-<!ENTITY providerUninstall.preName.label                   "Anda bermaksud menghapus pemasangan atau menon-aktifkan:">
-<!ENTITY providerUninstall.postName.label                  "Hal ini dapat menyebabkan kalender berikut menjadi non-aktif.">
-<!ENTITY providerUninstall.reinstallNote.label             "Jika Anda memasang ulang provider ini, anda dapat cukup berhenti berlangganan dari provider kalender ini.">
+<!ENTITY providerUninstall.preName.label                   "Anda bermaksud menghapus pemasangan atau menonaktifkan:">
+<!ENTITY providerUninstall.postName.label                  "Hal ini dapat menyebabkan kalender berikut menjadi nonaktif.">
+<!ENTITY providerUninstall.reinstallNote.label             "Jika Anda memasang ulang provider ini, Anda dapat cukup berhenti berlangganan dari provider kalender ini.">
