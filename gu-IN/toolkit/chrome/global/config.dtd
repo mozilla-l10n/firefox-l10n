@@ -43,7 +43,7 @@
 <!ENTITY aboutWarningCheckbox.label "આ ચેતવણી મને આગળના સમયે બતાવશો">
 
 <!ENTITY filterPrefs.label "ગાળક:">
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY filterPrefs.accesskey "F">
 <!-- Columns -->
 <!ENTITY prefColumn.label "પસંદગી નામ">
 <!ENTITY lockColumn.label "સ્થિતિ">
