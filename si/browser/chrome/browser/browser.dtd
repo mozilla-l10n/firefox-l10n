@@ -239,7 +239,6 @@
 <!-- XXX places only -->
 <!ENTITY historyHomeCmd.label "ආරම්භක පිටුව">
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "අතීතය සහ පිටු සලකුණු සෙවීම">
 <!ENTITY urlbar.bookmarkhistory.emptyText "අතීතය සහ පිටු සලකුණු සෙවීම">
 <!ENTITY urlbar.bookmark.emptyText    "පිටු සලකුණු සෙවීම">
 <!ENTITY urlbar.history.emptyText     "අතීතය සෙවීම">
@@ -421,8 +420,6 @@
 <!ENTITY privateBrowsingCmd.stop.label          "පෞද්ගලික ගවේෂණය නවතන්න">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "B">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(පෞද්ගලික ගවේෂණය)">
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">

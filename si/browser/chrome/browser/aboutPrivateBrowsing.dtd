@@ -1,12 +1,7 @@
 <!--<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "You may want to start by also clearing your recent history.">
 <!ENTITY privatebrowsingpage.clearRecentHistory.label  "Clear Recent History…">
 <!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "C">-->
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; won't remember any history for this session.">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "You may want to start by also ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "clearing your recent history">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
 <!ENTITY privatebrowsingpage.title                 "Private Browsing">
 <!ENTITY privatebrowsingpage.title.normal          "Would you like to start Private Browsing?">
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; won't remember any history for this session.">

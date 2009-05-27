@@ -51,7 +51,6 @@
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "පැහැදිළි කරන්න">
 <!ENTITY clear.accesskey    "C">
-<!ENTITY evaluate.label     "අගයන්න">
 
 <!ENTITY copyCmd.label       "පිටපත් කරන්න">  
 <!ENTITY copyCmd.accesskey   "C"> 
