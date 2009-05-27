@@ -16,7 +16,7 @@
 <!ENTITY secondsLabel.label            "sekonda">
 <!ENTITY markAsReadNoDelay.label       "Menjëherë si paraqitje">
 <!ENTITY markAsReadNoDelay.accesskey   "m">
-<!ENTITY modeAutoAddonWarn.label        "Sinjalizomë nëse kjo do të çaktivizojë ndonjë prej shtesave të mia">
+<!ENTITY modeAutoAddonWarn.label        "Sinjalizomë nëse kështu do të çaktivizohej ndonjë prej shtesave të mia">
 <!ENTITY openMsgIn.label               "Hapi mesazhet në:">
 <!ENTITY proxiesConfigure.label        "Formësoni mënyrën se si &brandShortName;-i lidhet në Internetet">
 <!ENTITY reading.caption                "Po lexohet">

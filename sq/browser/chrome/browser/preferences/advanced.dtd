@@ -66,7 +66,7 @@
 <!ENTITY checkSpelling.accesskey         "o">
 <!ENTITY enableAddonsUpdate.label        "Shtojca të Instaluara">
 <!ENTITY enableAddonsUpdate.accesskey    "S">
-<!ENTITY modeAutoAddonWarn.label         "Sinjalizomë nëse kjo do të çaktivizojë ndonjë nga shtesat e mia">
+<!ENTITY modeAutoAddonWarn.label         "Sinjalizomë nëse kështu do të çaktivizohej ndonjë nga shtesat e mia">
 <!ENTITY modeAutoAddonWarn.accesskey     "Z">
 <!ENTITY certSelection.description       "Kur një shërbyes kërkon dëshminë time vetjake:">
 <!ENTITY offlineAppRemove.confirm        "Hiqi të dhënat &quot;offline&quot;">
