@@ -71,7 +71,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 <!ENTITY  clearOnClose.label             "&brandShortName; বন্ধ হ'লে চৰণ কৰাৰ ইতিহাস পৰিষ্কাৰ কৰিব">
 <!ENTITY  historyHeader.dontremember.label "ইতিহাস কেতিয়াও মনত নাৰাখিব">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "r">
 <!ENTITY  dontrememberActions.post.label         "।">
 <!ENTITY  locationBar.label             "স্থানৰ বাৰ">
 <!ENTITY  rememberDownload.accesskey     "d">
@@ -83,11 +83,11 @@ entities below were automatically added by l10nmerge
 <!ENTITY  locbar.history.label          "ইতিহাস">
 <!ENTITY  clearOnCloseSettings.label     "পছন্দ…">
 <!ENTITY  rememberSearchForm.accesskey   "f">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  dontrememberDescription.label  "&brandShortName; এ ব্যক্তিগত চৰণ কাৰ্য্যৰ সৈতে একেই পছন্দ ব্যৱহাৰ কৰিব, আৰু আপুনি ৱেব চৰণ কৰোঁতে একো ইতিহাস মনত নাৰাখে ।">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.pre.label              "স্থানৰ বাৰ ব্যৱহাৰ কৰোঁতে, পৰামৰ্শ দিব:">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.pre.accesskey  "b">
 <!ENTITY  rememberActions.post.label          "।">
 <!ENTITY  rememberActions.clearHistory.label  "শেহতীয়া ইতিহাস পৰিষ্কাৰ কৰক">
 <!ENTITY  rememberSearchForm.label       "বিচৰা আৰু ফৰ্মৰ ইতিহাস মনত ৰাখিব">

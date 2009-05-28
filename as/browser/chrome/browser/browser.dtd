@@ -223,7 +223,7 @@
 <!ENTITY openFrameCmdInTab.label      "ফ্ৰেমক নতুন টেবত খোলক">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "অকল এই ফ্ৰেম দেখুৱাওক">
-<!ENTITY showOnlyThisFrameCmd.accesskey "w">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ফ্ৰেম পুনঃ তোলক">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -237,7 +237,7 @@
 <!ENTITY viewPageInfoCmd.label        "পৃষ্ঠাৰ তথ্য চাওক">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ফ্ৰেমৰ তথ্য চাওক">
-<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY viewImageCmd.label           "প্ৰতিৰূপ চাওক">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "পৃষ্ঠভুমিৰ প্ৰতিৰূপ চাওক">
@@ -270,14 +270,14 @@
 <!ENTITY sendImageCmd.label           "প্ৰতিৰূপ পঠিয়াওক...">
 <!ENTITY sendImageCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "সংযোগৰ স্থান নকল কৰক">
-<!ENTITY copyLinkCmd.accesskey        "x">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyLinkTextCmd.label        "সংযোগৰ লিপি নকল কৰক">
 <!ENTITY copyLinkTextCmd.accesskey    "x">
 <!ENTITY copyImageCmd.label           "প্ৰতিৰূপৰ স্থান নকল কৰক">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "প্ৰতিৰূপ নকল কৰক">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY blockImageCmd.accesskey       "g">
+<!ENTITY blockImageCmd.accesskey       "B">
 <!ENTITY metadataCmd.label            "গুণ">
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "ঈ-মেইল ঠিকনা নকল কৰক">

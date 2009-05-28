@@ -12,7 +12,7 @@
 <!ENTITY itemCookies.label            "কুকিসমূহ">
 <!ENTITY itemCookies.accesskey        "C">
 <!ENTITY itemCache.label              "কেছে">
-<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemCache.accesskey          "A">
 <!ENTITY itemOfflineApps.label        "অফ-লাইন ৱেব ছাইটৰ তথ্য">
 <!ENTITY itemOfflineApps.accesskey    "O">
 

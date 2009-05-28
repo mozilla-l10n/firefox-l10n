@@ -18,7 +18,7 @@
 <!ENTITY helpForIEUsers.label     "Internet Explorer ব্যৱহাৰকৰোঁতাসকলৰ বাবে">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY openHelpMac.commandkey   "VK_HELP">
+<!ENTITY openHelpMac.commandkey   "/">
 <!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->

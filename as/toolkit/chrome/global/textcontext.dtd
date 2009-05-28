@@ -11,7 +11,7 @@
 <!ENTITY deleteCmd.label "গুচাওক">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY spellAddToDictionary.label "শব্দকোষলৈ যোগ দিয়ক">
-<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellNoSuggestions.label "(বানানৰ কোনো পৰামৰ্শ নাই)">
 <!ENTITY spellDictionaries.label "ভাষাসমূহ">
 <!ENTITY spellDictionaries.accesskey "l">

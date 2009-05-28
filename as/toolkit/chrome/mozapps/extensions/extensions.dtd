@@ -28,7 +28,7 @@
 <!ENTITY cmd.installUpdatesAll.accesskey  "I">
 <!ENTITY cmd.installUpdatesAll.tooltip    "নিৰ্বাচিত উন্নয়ন সংস্থাপন কৰে">
 <!ENTITY cmd.skip.label                   "এৰি যাওক">
-<!ENTITY cmd.skip.accesskey               "S">
+<!ENTITY cmd.skip.accesskey               "k">
 <!ENTITY cmd.skip.tooltip                 "এই উন্নয়নসমূহ এৰি যাওক">
 <!ENTITY cmd.continue.label               "আগবাঢ়ক">
 <!ENTITY cmd.continue.accesskey           "C">

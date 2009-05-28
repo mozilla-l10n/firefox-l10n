@@ -13,7 +13,7 @@
 <!ENTITY  manualTypeRadio.label         "নিযুক্তকৰ হাতেৰে কৰা বিন্যাস:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "স্বয়ং ক্ৰিয় নিযুক্তক বিন্যাসৰ URL:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "পুনঃ তুলি লওক">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP নিযুক্তক:">
@@ -21,9 +21,9 @@
 <!ENTITY  gopher.label                  "Gopher নিযুক্তক:">
 <!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP নিযুক্তক:">
-<!ENTITY  http.accesskey                "y">
+<!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL নিযুক্তক:">
-<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "SOCKS গৃহস্থ:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,4 +41,4 @@
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "যেনে: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "সকলো আচাৰবিধিৰ বাবে এই নিযুক্তক সেৱক ব্যৱহাৰ কৰক">
-<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  shareproxy.accesskey          "s">

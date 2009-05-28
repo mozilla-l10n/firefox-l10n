@@ -37,7 +37,7 @@
 <!ENTITY window.title "about:config">
 
 <!ENTITY filterPrefs.label "ফিল্টাৰ:">
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY filterPrefs.accesskey "F">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "পছন্দৰ নাম">
@@ -51,7 +51,7 @@
 
 <!-- Context Menu -->
 <!ENTITY copyName.label "নাম নকল কৰক">
-<!ENTITY copyName.accesskey "C">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "মান নকল কৰক">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "সলনি কৰক">
@@ -61,7 +61,7 @@
 <!ENTITY reset.label "পুনঃ স্থাপন কৰক">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "নতুন">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.accesskey "w">
 <!ENTITY string.label "আখৰ">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "অখণ্ড সংখ্যা">

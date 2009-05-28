@@ -132,11 +132,11 @@
 <!ENTITY search.label                              "বিচাৰক:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.scopeFolder.label                  "নিৰ্ব্বাচিত ফোল্ডাৰ">
-<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeDownloads.label               "ডাউন্‌লোড">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ইতিহাস">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "search builder দেখুৱাওক">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "search builder লুকাওক">
 <!ENTITY saveSearch.label                          "ৰক্ষা কৰক">

@@ -22,10 +22,10 @@
 <!ENTITY  defaultFont.label                       "অবিকল্পিত আখৰ:">
 <!ENTITY  defaultFont.accesskey                   "D">
 <!ENTITY  defaultSize.label                       "আকাৰ:">
-<!ENTITY  defaultSize.accesskey                   "i">
+<!ENTITY  defaultSize.accesskey                   "S">
 
 <!ENTITY  advancedFonts.label         "উন্নত...">
-<!ENTITY  advancedFonts.accesskey     "d">
+<!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "ৰং...">
 <!ENTITY  colors.accesskey            "C">

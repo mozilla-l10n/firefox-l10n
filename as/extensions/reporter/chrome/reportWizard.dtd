@@ -6,7 +6,7 @@
 <!ENTITY reportWizardMustAgree.description          "আগবাঢ়িবলৈ আপুনি ওপৰৰ গোপনীয়তাৰ চুক্তিৰ সৈতে সন্মত হ'ব লাগিব ।">
 
 <!ENTITY dontShowPrivacyStatement.label             "ওপৰৰ গোপনীয়তাৰ চুক্তি মই পঢ়িছোঁ আৰু সন্মত হৈছো ।">
-<!ENTITY dontShowPrivacyStatement.accesskey         "মই">
+<!ENTITY dontShowPrivacyStatement.accesskey         "I">
 
 <!ENTITY reportForm.label                           "প্ৰতিবেদন সম্পূৰ্ণ কৰক">
 
