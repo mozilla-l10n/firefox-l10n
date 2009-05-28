@@ -8,11 +8,11 @@
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "ق">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "عناوين حية">
 <!ENTITY editBookmarkOverlay.folder.label "مجلد:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "أظهر كلّ مجلّدات العلامات">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "أظهر كلّ مجلدات العلامات">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "اخفِ">
 <!ENTITY editBookmarkOverlay.tags.label "الوسوم:">
 <!ENTITY editBookmarkOverlay.tags.accesskey "و">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "إفصل الوسوم بفاصلة.">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "افصل الوسوم بفاصلة.">
 <!ENTITY editBookmarkOverlay.description.label "الوصف:">
 <!ENTITY editBookmarkOverlay.description.accesskey "و">
 <!ENTITY editBookmarkOverlay.keyword.label "كلمة مفتاحيّة:">
