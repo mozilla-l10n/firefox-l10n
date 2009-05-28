@@ -78,6 +78,8 @@
 <!ENTITY downloadResume.label      "Hervatten">
 <!ENTITY downloadRetry.label       "Opnieuw proberen">
 
+<!ENTITY noResults.label           "Geen resultaten">
+
 <!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
 <!ENTITY identity.connectedTo "U bent verbonden met">
 <!-- Localization note (identity.runBy) : This string appears between a
