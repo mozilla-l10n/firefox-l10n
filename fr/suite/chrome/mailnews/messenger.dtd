@@ -318,6 +318,9 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Message">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Archiver">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Répondre">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
@@ -499,6 +502,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "n">
 <!ENTITY contextEditAsNew.label "Modifier comme un nouveau message…">
 <!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextArchive.label "Archiver">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Répondre à l'expéditeur">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Répondre dans le groupe">
