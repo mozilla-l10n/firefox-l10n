@@ -1,2 +1,2 @@
-<!ENTITY checkbox.on.label "Zapnuto">
-<!ENTITY checkbox.off.label "Vypnuto">
+<!ENTITY checkbox.yes.label "Ano">
+<!ENTITY checkbox.no.label "Ne">
