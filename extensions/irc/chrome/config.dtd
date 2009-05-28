@@ -36,7 +36,7 @@
 
 <!ENTITY window.title "Předvolby ChatZilly">
 
-<!ENTITY loading.label "Načítám, čekejte prosím…">
+<!ENTITY loading.label "Načítání, čekejte prosím…">
 
 <!ENTITY homepage.url "http://chatzilla.hacksrus.com/">
 <!ENTITY homepage.label "Domovská stránka ChatZilly">
