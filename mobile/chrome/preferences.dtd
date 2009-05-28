@@ -1,17 +1,15 @@
 <!ENTITY content.title                             "Conținut">
-<!ENTITY permissions.default.image.title           "Încarcă imaginile">
-<!ENTITY permissions.default.image.description     "Face saiturile mai atractive">
-<!ENTITY javascript.enabled.title                  "Activează Javascript">
-<!ENTITY javascript.enabled.description            "Face saiturile interactive">
+<!ENTITY showImages.title                          "Arată imaginile">
+<!ENTITY enableJavaScript.title                    "Activează Javascript">
+<!ENTITY enableJavaScript.description              "Saiturile interactive folosesc JavaScript">
 <!ENTITY javascript.options.jit.content.title      "Activează urmărirea JavaScript">
 <!ENTITY javascript.options.jit.content.description "Folosește compilarea în cod nativ pentru JavaScript">
-<!ENTITY plugins.enabled.title                     "Activează modulele">
-<!ENTITY plugins.enabled.description               "Face saiturile supărătoare">
+<!ENTITY enablePlugins.title                       "Activează modulele">
+<!ENTITY enablePlugins.description                 "Modulele sunt folosite pentru conținut cum ar fi video">
 <!ENTITY privacy.title                             "Intimitate și securitate">
-<!ENTITY network.cookie.cookieBehavior.title       "Salvează cookie-urile">
-<!ENTITY network.cookie.cookieBehavior.description "Delicatese delicioase">
-<!ENTITY clear.private.data.title                  "Curăță datele private">
-<!ENTITY clear.private.data.button                 "Curăță…">
-<!ENTITY clear.private.data.description            "Vă acoperă spatele">
-<!ENTITY signon.rememberSignons.title              "Salvează parolele">
-<!ENTITY signon.rememberSignons.description        "Veți tasta mai puțin">
+<!ENTITY allowCookies.title                        "Permite cookie-uri">
+<!ENTITY allowCookies.description                  "Saiturile folosesc cookie-uri pentru a identificare și memorarea setărilor">
+<!ENTITY clearPrivateData.title                    "Curăță istoricul recent al navigării">
+<!ENTITY clearPrivateData.button                   "Curăță">
+<!ENTITY clearPrivateData.description              "Istoricul navigării ajută &brandShortName; să facă sugestii potrivite">
+<!ENTITY rememberPasswords.title                   "Memorează parolele">

@@ -49,6 +49,38 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "Suplimente">
+<!ENTITY addonsLocal.label         "Suplimentele tale">
+<!ENTITY addonsRepo.label          "Obțineți suplimente">
+<!ENTITY addonsRecommended.label   "Recomandate">
+<!ENTITY addonsSearch.label        "Caută">
+<!ENTITY addonsSearch.emptytext    "Caută în toate suplimentele">
+
+<!ENTITY addonOptions.label        "Opțiuni">
+<!ENTITY addonEnable.label         "Activează">
+<!ENTITY addonDisable.label        "Deactivează">
+<!ENTITY addonInstall.label        "Instalează">
+<!ENTITY addonUninstall.label      "Dezinstalează">
+<!ENTITY addonCancel.label         "Renunță">
+<!ENTITY addonShowPage.label       "Mergi la pagina">
+
+<!ENTITY downloadsHeader.label     "Descărcări">
+<!ENTITY downloadsSortDate.label   "Dată">
+<!ENTITY downloadsSortSite.label   "Sait">
+<!ENTITY downloadsSortName.label   "Nume">
+<!ENTITY downloadsSearch.label     "Caută">
+<!ENTITY downloadsSearch.emptytext "Caută un fișier descărcat">
+
+<!ENTITY downloadShowPage.label    "Mergi la pagina">
+<!ENTITY downloadShow2.label       "Găsește">
+<!ENTITY downloadOpen2.label       "Deschide">
+<!ENTITY downloadCancel.label      "Renunță">
+<!ENTITY downloadPause.label       "Pauză">
+<!ENTITY downloadResume.label      "Continuă">
+<!ENTITY downloadRetry.label       "Încearcă din nou">
+
+<!ENTITY noResults.label           "Niciun rezultat">
+
 <!ENTITY identity.unverifiedsite2 "Acest sait web nu oferă informații despre identitatea sa.">
 <!ENTITY identity.connectedTo "Sunteți conectat la">
 <!-- Localization note (identity.runBy) : This string appears between a
