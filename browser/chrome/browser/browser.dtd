@@ -71,7 +71,7 @@
 <!ENTITY addCurPagesCmd.label		"すべてのタブをブックマーク...">
 <!ENTITY organizeBookmarks.label	"ブックマークの管理...">
 <!ENTITY bookmarkAllCmd.label		"すべてのタブをブックマーク...">
-<!ENTITY bookmarksToolbarChevron.tooltip	"残りのブックマークを表示">
+<!ENTITY bookmarksToolbarChevron.tooltip	"残りのブックマークを表示します">
 
 <!ENTITY backCmd.label			"戻る">
 <!ENTITY backCmd.accesskey		"B">
@@ -103,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip	"ブックマークをサイドバーに表示します">
 <!ENTITY bookmarksSidebarCmd.accesskey	"B">
 <!ENTITY bookmarksSidebarCmd.commandkey	"b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey	"o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey	"i">
 
 <!ENTITY historyButton.label		"履歴">
@@ -118,9 +122,9 @@
 <!ENTITY search.label			"Web 検索">
 <!ENTITY search.accesskey		"S">
 <!ENTITY downloads.label		"ダウンロード">
-<!ENTITY downloads.tooltip		"ダウンロードの進捗状況を表示します">
+<!ENTITY downloads.tooltip		"ダウンロードの進行状況を表示します">
 <!ENTITY downloads.accesskey		"D">
-<!ENTITY downloads.commandkey		"J">
+<!ENTITY downloads.commandkey		"j">
 <!ENTITY downloadsUnix.commandkey	"y">
 <!ENTITY addons.label			"アドオン">
 <!ENTITY addons.tooltip			"インストールされている拡張機能やテーマを管理します">
@@ -169,9 +173,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label		"プライベートブラウジングを開始">
-<!ENTITY privateBrowsingCmd.start.accesskey	"B">
+<!ENTITY privateBrowsingCmd.start.accesskey	"P">
 <!ENTITY privateBrowsingCmd.stop.label		"プライベートブラウジングを終了">
-<!ENTITY privateBrowsingCmd.stop.accesskey	"B">
+<!ENTITY privateBrowsingCmd.stop.accesskey	"P">
 <!ENTITY privateBrowsingCmd.commandkey		"P">
 
 <!ENTITY viewMenu.label			"表示">
@@ -186,13 +190,19 @@
 <!ENTITY historyMenu.label		"履歴">
 <!ENTITY historyMenu.accesskey		"s">
 <!ENTITY historyUndoMenu.label		"最近閉じたタブ">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label	"最近閉じたウインドウ">
 
 <!ENTITY historyHomeCmd.label		"ホーム">
 <!ENTITY showAllHistoryCmd2.label	"すべての履歴を表示"><!-- (^^; -->
 <!ENTITY showAllHistoryCmd.commandkey	"H">
 
 <!ENTITY openCmd.commandkey		"l">
-<!ENTITY urlbar.emptyText		"ブックマークと履歴を検索">
+<!ENTITY urlbar.emptyText		"履歴とブックマークを検索">
+<!ENTITY urlbar.bookmarkhistory.emptyText "履歴とブックマークを検索">
+<!ENTITY urlbar.bookmark.emptyText	"ブックマークを検索">
+<!ENTITY urlbar.history.emptyText	"履歴を検索">
+<!ENTITY urlbar.none.emptyText		"ページの URL を入力">
 <!ENTITY urlbar.accesskey		"d">
 
 <!-- 
@@ -250,7 +260,7 @@
 <!ENTITY reloadImageCmd.accesskey	"R">
 <!ENTITY viewImageCmd.label		"画像だけを表示">
 <!ENTITY viewImageCmd.accesskey		"I">
-<!ENTITY viewVideoCmd.label		"ビデオだけを表示">
+<!ENTITY viewVideoCmd.label		"動画だけを表示">
 <!ENTITY viewVideoCmd.accesskey		"I">
 <!ENTITY viewBGImageCmd.label		"背景画像だけを表示">
 <!ENTITY viewBGImageCmd.accesskey	"w">
@@ -279,13 +289,13 @@
 <!ENTITY sendLinkCmd.accesskey		"d">
 <!ENTITY saveImageCmd.label		"別名で画像を保存...">
 <!ENTITY saveImageCmd.accesskey		"v">
-<!ENTITY saveVideoCmd.label		"別名でビデオを保存...">
+<!ENTITY saveVideoCmd.label		"別名で動画を保存...">
 <!ENTITY saveVideoCmd.accesskey		"v">
 <!ENTITY saveAudioCmd.label		"別名でオーディオを保存...">
 <!ENTITY saveAudioCmd.accesskey		"v">
 <!ENTITY sendImageCmd.label		"画像の URL をメールで送信...">
 <!ENTITY sendImageCmd.accesskey		"n">
-<!ENTITY sendVideoCmd.label		"ビデオの URL をメールで送信...">
+<!ENTITY sendVideoCmd.label		"動画の URL をメールで送信...">
 <!ENTITY sendVideoCmd.accesskey		"n">
 <!ENTITY sendAudioCmd.label		"オーディオの URL をメールで送信...">
 <!ENTITY sendAudioCmd.accesskey		"n">
@@ -297,7 +307,7 @@
 <!ENTITY copyImageCmd.accesskey		"o">
 <!ENTITY copyImageContentsCmd.label	"画像をコピー">
 <!ENTITY copyImageContentsCmd.accesskey	"y">
-<!ENTITY copyVideoURLCmd.label		"ビデオの URL をコピー">
+<!ENTITY copyVideoURLCmd.label		"動画の URL をコピー">
 <!ENTITY copyVideoURLCmd.accesskey	"o">
 <!ENTITY copyAudioURLCmd.label		"オーディオの URL をコピー">
 <!ENTITY copyAudioURLCmd.accesskey	"o">
@@ -351,6 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label			"ズーム">
 <!ENTITY fullZoom.accesskey		"Z">
 
+<!ENTITY newTabButton.tooltip		"新規タブを開きます">
 <!ENTITY newWindowButton.tooltip	"新規ウインドウを開きます">
 <!ENTITY sidebarCloseButton.tooltip	"サイドバーを閉じます">
 
