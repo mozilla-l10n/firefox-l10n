@@ -71,8 +71,8 @@
 <!ENTITY downloadsSearch.emptytext "Gedownloade bestanden doorzoeken">
 
 <!ENTITY downloadShowPage.label    "Naar pagina gaan">
-<!ENTITY downloadShow.label        "Bestand vinden">
-<!ENTITY downloadOpen.label        "Bestand openen">
+<!ENTITY downloadShow2.label       "Zoeken">
+<!ENTITY downloadOpen2.label       "Openen">
 <!ENTITY downloadCancel.label      "Annuleren">
 <!ENTITY downloadPause.label       "Pauzeren">
 <!ENTITY downloadResume.label      "Hervatten">
