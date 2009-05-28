@@ -136,22 +136,14 @@
 
 <!ENTITY search.label				"検索対象:">
 <!ENTITY search.accesskey			"S">
-<!ENTITY search.collection.label		"表示中の一覧から">
-<!ENTITY search.collection.accesskey		"C">
-<!ENTITY search.allBookmarks.label		"すべてのブックマークから">
-<!ENTITY search.allBookmarks.accesskey		"A">
 <!ENTITY search.scopeFolder.label		"選択されているフォルダ">
-<!ENTITY search.scopeFolder.accesskey		"F">
-<!ENTITY search.scopeAll.label			"すべてのブックマーク">
-<!ENTITY search.scopeAll.accesskey		"A">
-<!ENTITY search.scopeMenu.label			"ブックマークメニュー">
-<!ENTITY search.scopeMenu.accesskey		"M">
-<!ENTITY search.scopeToolbar.label		"ブックマークツールバー">
-<!ENTITY search.scopeToolbar.accesskey		"T">
+<!ENTITY search.scopeFolder.accesskey		"r">
+<!ENTITY search.scopeBookmarks.label		"ブックマーク">
+<!ENTITY search.scopeBookmarks.accesskey	"k">
 <!ENTITY search.scopeDownloads.label		"ダウンロード">
 <!ENTITY search.scopeDownloads.accesskey	"D">
 <!ENTITY search.scopeHistory.label		"履歴">
-<!ENTITY search.scopeHistory.accesskey		"A">
+<!ENTITY search.scopeHistory.accesskey		"H">
 <!ENTITY search.scopeBarExpanderDown.tooltip	"検索条件を表示します">
 <!ENTITY search.scopeBarExpanderUp.tooltip	"検索条件を非表示にします">
 <!ENTITY saveSearch.label			"検索条件を保存">
@@ -174,7 +166,7 @@
 <!ENTITY advancedSearch.time_inlast.label	"次の期間以内である">
 <!ENTITY advancedSearch.last_days.label		"日間">
 <!ENTITY advancedSearch.last_weeks.label	"週間">
-<!ENTITY advancedSearch.last_months.label	"か月">
+<!ENTITY advancedSearch.last_months.label	"カ月">
 <!ENTITY advancedSearch.plus.label		"＋">
 <!ENTITY advancedSearch.minus.label		"－">
 <!ENTITY advancedSearch.groupby.label		"グループ化: ">
@@ -193,11 +185,11 @@
 <!ENTITY cmd.find.key				"f">
 
 <!ENTITY feed.subscribe.label			"フィード">
-<!ENTITY feed.subscribe.tooltip			"購読">
+<!ENTITY feed.subscribe.tooltip			"購読します">
 
 <!ENTITY view.detailsMacOSX.label		"リスト">
 <!ENTITY view.details.label			"詳細">
-<!ENTITY view.details.accesskey			"">
+<!ENTITY view.details.accesskey			"D">
 
 <!ENTITY view.addons.label			"表示用アドオンを入手">
 
@@ -212,7 +204,7 @@
 <!ENTITY forwardCmd.accesskey			"F">
 <!ENTITY forwardButton.tooltip			"フォルダ表示履歴を次に進みます">
 
-<!ENTITY detailsPane.more.label			"詳細を表示"><!-- (^^; -->
+<!ENTITY detailsPane.more.label			"詳細を表示">
 <!ENTITY detailsPane.more.accesskey		"e">
 <!ENTITY detailsPane.less.label			"詳細を隠す">
 <!ENTITY detailsPane.less.accesskey		"e">
