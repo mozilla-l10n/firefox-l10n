@@ -100,6 +100,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip "Další měsíc">
 <!ENTITY calendar.prevmonth.button.tooltip "Předchozí měsíc">
 
+<!ENTITY calendar.navigation.nextday.tooltip "Jeden den vpřed">
+<!ENTITY calendar.navigation.prevday.tooltip "Jeden den vzad">
+<!ENTITY calendar.navigation.nextweek.tooltip "Jeden týden vpřed">
+<!ENTITY calendar.navigation.prevweek.tooltip "Jeden týden vzad">
+<!ENTITY calendar.navigation.nextmonth.tooltip "Jeden měsíc vpřed">
+<!ENTITY calendar.navigation.prevmonth.tooltip "Jeden měsíc vzad">
+
 <!ENTITY calendar.newevent.button.label "Nová událost">
 <!ENTITY calendar.newtask.button.label "Nový úkol">
 <!ENTITY calendar.print.button.label "Tisk">
