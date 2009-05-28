@@ -1,2 +1,2 @@
-<!ENTITY checkbox.on.label      "مضاء">
-<!ENTITY checkbox.off.label     "مُطفأ">
+<!ENTITY checkbox.yes.label    "نعم">
+<!ENTITY checkbox.no.label     "لا">
