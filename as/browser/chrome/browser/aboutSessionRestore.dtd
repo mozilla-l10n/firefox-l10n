@@ -16,4 +16,4 @@
 <!ENTITY restorepage.restoreHeader  "পুনঃ স্থাপন কৰক">
 <!ENTITY restorepage.listHeader     "সংযোগক্ষেত্ৰ আৰু টেববোৰ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "সংযোগক্ষেত্ৰ &#37;S">
