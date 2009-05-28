@@ -1,10 +1,10 @@
-# WNIï¿½sï¿½ï¿½ï¿½|ï¿½Cï¿½ï¿½ï¿½gï¿½Vï¿½C ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Oï¿½Cï¿½ï¿½
+# WNIƒsƒ“ƒ|ƒCƒ“ƒg“V‹C ŒŸõƒvƒ‰ƒOƒCƒ“
 # Maintainer: Makoto
 # Update: 2005/2/4
 
 <search 
-    name = "WNIï¿½sï¿½ï¿½ï¿½|ï¿½Cï¿½ï¿½ï¿½gï¿½Vï¿½C"
-    description = "ï¿½Eï¿½Fï¿½Uï¿½[ï¿½jï¿½ï¿½ï¿½[ï¿½X ï¿½sï¿½ï¿½ï¿½|ï¿½Cï¿½ï¿½ï¿½gï¿½Vï¿½C"
+    name = "WNIƒsƒ“ƒ|ƒCƒ“ƒg“V‹C"
+    description = "ƒEƒFƒU[ƒjƒ…[ƒX ƒsƒ“ƒ|ƒCƒ“ƒg“V‹C"
     sourceTextEncoding = "1"
     method = "GET"
     action = "http://mws.wni.co.jp/cww/cgi/search_point.cgi"
@@ -12,28 +12,28 @@
     queryCharset = "EUC-JP"
 >
 
-# ï¿½Zï¿½ï¿½ï¿½Eï¿½Xï¿½Ö”Ôï¿½
+# ZŠE—X•Ö”Ô†
 <input name="service" value="8">
 
-# ï¿½w
+# ‰w
 #<input name="service" value="0">
 
-# ï¿½oï¿½Xï¿½ï¿½
+# ƒoƒX’â
 #<input name="service" value="5">
 
-# ï¿½ï¿½ÆEï¿½rï¿½ï¿½
+# Šé‹ÆEƒrƒ‹
 #<input name="service" value="1">
 
-# ï¿½ÏŒï¿½nï¿½Eï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½[
+# ŠÏŒõ’nEƒŒƒWƒƒ[
 #<input name="service" value="2">
 
-# ï¿½ï¿½`ï¿½Eï¿½ï¿½ï¿½H
+# ‹ó`E“¹˜H
 #<input name="service" value="3">
 
-# ï¿½ï¿½{ï¿½ÝEï¿½wï¿½Z
+# Œö‹¤Ž{ÝEŠwZ
 #<input name="service" value="4">
 
-# ï¿½ï¿½ï¿½Ì‘ï¿½
+# ‚»‚Ì‘¼
 #<input name="service" value="9">
 
 <input name="post" user>

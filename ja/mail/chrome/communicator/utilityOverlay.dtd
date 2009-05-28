@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key			"W">
 <!ENTITY closeCmd.accesskey		"c">
 
-<!ENTITY closeWindow.label		"ウィンドウを閉じる">
-
 <!ENTITY quitApplicationCmd.label	"終了">
 <!ENTITY quitApplicationCmd.key		"Q">
 <!ENTITY quitApplicationCmd.accesskey	"x">

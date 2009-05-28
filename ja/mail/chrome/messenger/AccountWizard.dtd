@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label		"アカウントウィザード">
-<!ENTITY accountWizard.size		"width: 42em; height: 38em;"><!-- (^^; en-US: width: 40em; height: 38em; -->
+<!ENTITY accountWizard.size		"width: 42em; height: 39em;"><!-- (^^; en-US: width: 40em; height: 38em; -->
 
 <!-- Entities for Account Type page -->
 
@@ -47,7 +47,7 @@
 <!ENTITY smtpServerLabel.label		"メール送信サーバ:">
 <!ENTITY smtpServerLabel.accesskey	"O">
 <!ENTITY newsServerLabel.label		"ニュースサーバ:">
-<!ENTITY newsServerLabel.accesskey	"N">
+<!ENTITY newsServerLabel.accesskey	"w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label			"IMAP">
 <!ENTITY imapType.accesskey		"I">
@@ -58,7 +58,7 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix		"他のアカウントで設定済のメール送信 (SMTP) サーバ &quot;">
+<!ENTITY haveSmtp1.prefix		"他のアカウントで設定済みのメール送信 (SMTP) サーバ &quot;">
 <!ENTITY haveSmtp1.suffix		"&quot; を使用します。メール送信サーバの設定は [ツール] メニューの [アカウント設定] で変更できます。">
 
 <!-- Entities for Login page -->
@@ -102,7 +102,9 @@
 <!ENTITY smtpServerNamePrefix.label	"メール送信 (SMTP) サーバ名:">
 <!ENTITY newsServerNamePrefix.label	"ニュース (NNTP) サーバ名:">
 <!ENTITY downloadOnLogin.label		"今すぐメッセージをダウンロード">
+<!ENTITY downloadOnLogin.accesskey	"D">
 <!ENTITY deferStorageDesc.label		"共通受信トレイを使用するアカウントのメールはすべてまとめて保存されます。このアカウントで送受信するメールを個別のディレクトリに分けて保存する場合はチェックを外してください。"><!-- (^^; Uncheck this checkbox to store mail for this account in its own directory. That will make this account appear as a top-level account. Otherwise, it will be part of the Local Folders Global Inbox account. -->
 <!ENTITY deferStorage.label		"共通受信トレイを使用する (&quot;ローカルフォルダ&quot; にメールを保存)"><!-- (^^; Use Global Inbox (store mail in Local Folders) -->
+<!ENTITY deferStorage.accesskey		"G">
 <!ENTITY clickFinish.label		"[終了] をクリックすると設定を保存して アカウントを作成します。">
 <!ENTITY clickFinish.labelMac		"[完了] をクリックすると設定を保存して アカウントを作成します。">
