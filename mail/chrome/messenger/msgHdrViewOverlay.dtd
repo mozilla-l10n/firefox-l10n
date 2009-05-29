@@ -21,6 +21,7 @@
 <!ENTITY archiveButton.label "архивировать">
 <!ENTITY hdrReplyButton.label "ответить">
 <!ENTITY hdrReplyAllButton.label "ответить всем">
+<!ENTITY hdrReplyListButton.label "ответить в рассылку">
 <!ENTITY hdrForwardButton.label "переслать">
 <!ENTITY hdrJunkButton.label "спам">
 <!ENTITY trashButton.tooltiptext "удалить">
