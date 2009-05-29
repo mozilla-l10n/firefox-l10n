@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Stean scripts ta om:">
 
-<!ENTITY moveResizeWindows.label        "Ferpleats of skeal besteande finsters">
-<!ENTITY moveResizeWindows.accesskey    "F">
+<!ENTITY moveResizeWindows.label        "Besteande finsters te ferpleatsen of skalen">
+<!ENTITY moveResizeWindows.accesskey    "B">
 <!ENTITY raiseLowerWindows.label        "Finsters ferskine/ferdwine te litten">
 <!ENTITY raiseLowerWindows.accesskey    "l">
 <!ENTITY disableContextMenus.label      "Kontekstmenu's út te setten of te ferfangen">

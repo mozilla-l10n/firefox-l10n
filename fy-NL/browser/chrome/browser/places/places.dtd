@@ -15,7 +15,7 @@
 <!ENTITY views.accesskey  						"B">
 <!ENTITY view.toolbar.label  					"Arkbalke">
 <!ENTITY view.toolbar.accesskey  				"a">
-<!ENTITY view.columns.label  					"Toan Kolommen">
+<!ENTITY view.columns.label  					"Toan kolommen">
 <!ENTITY view.columns.accesskey  				"T">
 <!ENTITY view.sort.label  						"Sortearre">
 <!ENTITY view.sort.accesskey  					"s">
@@ -46,10 +46,10 @@
 <!ENTITY cmd.backup.accesskey  					"R">
 <!ENTITY cmd.restore2.label  					"Tebeksette">
 <!ENTITY cmd.restore2.accesskey  				"T">
-<!ENTITY cmd.restoreFromFile.label  			"Kies Bestân...">
+<!ENTITY cmd.restoreFromFile.label  			"Kies bestân...">
 <!ENTITY cmd.restoreFromFile.accesskey  		"K">
 
-<!ENTITY cmd.select_all.label  					"Selektearje Alles">
+<!ENTITY cmd.select_all.label  					"Selektearje alles">
 <!ENTITY cmd.select_all.accesskey  				"A">
 <!ENTITY cmd.select_all.key  					"a">
 
@@ -80,11 +80,11 @@
 
 <!ENTITY cmd.open.label   						"Iepenje">
 <!ENTITY cmd.open.accesskey  					"I">
-<!ENTITY cmd.open_window.label  				"Iepenje yn in Nij Finster">
+<!ENTITY cmd.open_window.label  				"Iepenje yn in nij finster">
 <!ENTITY cmd.open_window.accesskey  			"N">
-<!ENTITY cmd.open_tab.label  					"Iepenje yn in Nij Ljepblêd">
+<!ENTITY cmd.open_tab.label  					"Iepenje yn in nij ljepblêd">
 <!ENTITY cmd.open_tab.accesskey  				"L">
-<!ENTITY cmd.open_all_in_tabs.label  			"Iepenje Alles yn Ljepblêden">
+<!ENTITY cmd.open_all_in_tabs.label  			"Iepenje alles yn ljepblêden">
 <!ENTITY cmd.open_all_in_tabs.accesskey  		"j">
 
 <!ENTITY cmd.properties.label  					"Eigenskippen">
@@ -92,8 +92,8 @@
 
 <!ENTITY cmd.show_info.key  					"i">
 
-<!ENTITY cmd.rename.label  						"Werneame">
-<!ENTITY cmd.rename.accesskey  					"W">
+<!ENTITY cmd.rename.label  						"Omneame">
+<!ENTITY cmd.rename.accesskey  					"O">
 
 <!ENTITY cmd.sortby_name.label  				"Sortearje op namme">
 <!ENTITY cmd.sortby_name.accesskey  			"S">
@@ -101,26 +101,26 @@
 
 <!ENTITY cmd.new_bookmark.label  				"Nije Blêdwizer...">
 <!ENTITY cmd.new_bookmark.accesskey  			"B">
-<!ENTITY cmd.new_livemark.label  				"Nije Live Blêdwizer...">
+<!ENTITY cmd.new_livemark.label  				"Nije live Blêdwizer...">
 <!ENTITY cmd.new_livemark.accesskey  			"L">
-<!ENTITY cmd.new_folder.label  					"Nije Map...">
+<!ENTITY cmd.new_folder.label  					"Nije map...">
 <!ENTITY cmd.new_folder.accesskey  				"M">
 <!ENTITY cmd.context_new_folder.accesskey  		"M">
-<!ENTITY cmd.new_separator.label  				"Nij Skiedingsteken">
+<!ENTITY cmd.new_separator.label  				"Nij skiedingsteken">
 <!ENTITY cmd.new_separator.accesskey  			"S">
 
-<!ENTITY cmd.reloadLivebookmark.label  			"Live Blêdwizer op 'e nij Lade">
+<!ENTITY cmd.reloadLivebookmark.label  			"Live blêdwizer op 'e nij lade">
 <!ENTITY cmd.reloadLivebookmark.accesskey  		"L">
-<!ENTITY cmd.reloadMicrosummary.label  			"Live Titel op 'e nij Lade">
+<!ENTITY cmd.reloadMicrosummary.label  			"Live titel op 'e nij lade">
 <!ENTITY cmd.reloadMicrosummary.accesskey  		"T">
 
-<!ENTITY cmd.groupby_site.label  				"Groepearje op Webstee">
+<!ENTITY cmd.groupby_site.label  				"Groepearje op webstee">
 <!ENTITY cmd.groupby_site.accesskey  			"W">
-<!ENTITY cmd.groupby_page.label   				"Groepearje op Side">
+<!ENTITY cmd.groupby_page.label   				"Groepearje op side">
 <!ENTITY cmd.groupby_page.accesskey  			"S">
-<!ENTITY cmd.groupby_feed.label  				"Groepearje op Abonnemint">
+<!ENTITY cmd.groupby_feed.label  				"Groepearje op abonnemint">
 <!ENTITY cmd.groupby_feed.accesskey  			"A">
-<!ENTITY cmd.groupby_post.label  				"Groepearje op Post">
+<!ENTITY cmd.groupby_post.label  				"Groepearje op post">
 <!ENTITY cmd.groupby_post.accesskey 			"P">
 
 <!ENTITY cmd.moveBookmarks.label         		"Ferpleats...">
@@ -134,11 +134,11 @@
 <!ENTITY col.keyword.label  					"Kaaiwurd">
 <!ENTITY col.description.label  				"Omskriuwing">
 <!ENTITY col.dateadded.label  					"Tafoege">
-<!ENTITY col.lastmodified.label  				"Lêst Oanpast">
+<!ENTITY col.lastmodified.label  				"Lêst oanpast">
 
 <!ENTITY search.label  							"Sykje:">
 <!ENTITY search.accesskey  						"S">
-<!ENTITY search.scopeFolder.label               "Selektearre Map">
+<!ENTITY search.scopeFolder.label               "Selektearre map">
 <!ENTITY search.scopeFolder.accesskey           "a">
 <!ENTITY search.scopeBookmarks.label			"Blêdwizers">
 <!ENTITY search.scopeBookmarks.accesskey		"z">
@@ -193,7 +193,7 @@
 <!ENTITY view.details.label   					"Details">
 <!ENTITY view.details.accesskey  				"D">
 
-<!ENTITY view.addons.label  					"Krij Byld Tafoegings">
+<!ENTITY view.addons.label  					"Krij byld Tafoegings">
 
 <!ENTITY maintenance.label  					"Ymport en Reservekopy">
 <!ENTITY maintenance.accesskey  				"Y">

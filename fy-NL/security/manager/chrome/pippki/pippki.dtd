@@ -38,7 +38,7 @@
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Haadwachtwurd wizigje">
 <!ENTITY setPassword.tokenName.label "Befeiligingsapparaat">
-<!ENTITY setPassword.oldPassword.label "Hjoeddeisk wachtwurd">
+<!ENTITY setPassword.oldPassword.label "Aktueel wachtwurd">
 <!ENTITY setPassword.newPassword.label "Nij wachtwurd">
 <!ENTITY setPassword.reenterPassword.label "Nij wachtwurd (op 'e nij)">
 <!ENTITY setPassword.meter.label "Wachtwurdkwaliteitsmeter:">
@@ -47,7 +47,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Op 'e nij ynisjalisearje">
 <!ENTITY resetPassword.title  "Haadwachtwurd op 'e nij ynisjalisearje">
-<!ENTITY resetPassword.text  "As jo jo haadwachtwurd op 'e nij ynstelle sille al jo bewarre web- en e-mailwachtwurden, formuliergegevens, persoanlijke sertifikaten en privee-kaaien ferjitten wurde. Witte jo seker dat jo jo haadwachtwurd op 'e nij ynisjalisearje wolle?">
+<!ENTITY resetPassword.text  "As jo jo haadwachtwurd op 'e nij ynstelle sille, al jo bewarre web- en e-mailwachtwurden, formuliergegevens, persoanlijke sertifikaten en privee-kaaien ferjitten wurde. Witte jo seker dat jo jo haadwachtwurd op 'e nij ynisjalisearje wolle?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Fier haadwachtwurd yn">

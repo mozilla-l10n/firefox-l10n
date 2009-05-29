@@ -1,9 +1,9 @@
 <!ENTITY find.label                "Sykje:">
-<!ENTITY find.accesskey            "Z">
+<!ENTITY find.accesskey            "S">
 <!ENTITY expand.label              "Utklappe">
 <!ENTITY expand.accesskey          "U">
 <!ENTITY collapse.label            "Ynklappe">
-<!ENTITY collapse.accesskey        "I">
+<!ENTITY collapse.accesskey        "Y">
 <!ENTITY byDate.label "Op datum">
 <!ENTITY byDate.accesskey "d">
 <!ENTITY bySite.label "Op webstee">
@@ -17,7 +17,7 @@
 <!ENTITY byDayAndSite.label "Op datum en webstee">
 <!ENTITY byDayAndSite.accesskey "e">
 <!ENTITY openLinkInWindow.label "Iepenje">
-<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openLinkInWindow.accesskey "I">
 <!ENTITY openInNewTab.label "Yn in nij ljepblêd iepenje">
 <!ENTITY openInNewTab.accesskey "l">
 <!ENTITY openInNewWindow.label "Yn in nij finster iepenje">
