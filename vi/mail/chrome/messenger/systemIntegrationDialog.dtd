@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Tích hợp Hệ thống">
+<!ENTITY defaultClient.intro  "Dùng &brandShortName; làm chương trình mặc định cho:">
+
+<!ENTITY email.label "Thư điện tử (E-Mail)">
+<!ENTITY newsgroups.label "Nhóm tin">
+<!ENTITY feeds.label "Feed">
+
+<!ENTITY checkOnStartup.label "Luôn thực hiện việc kiểm tra này mỗi khi khởi động &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "L">
+
+<!ENTITY searchIntegration.label "Cho phép &searchIntegration.engineName; tìm kiếm thư">
+<!ENTITY searchIntegration.accesskey "t">

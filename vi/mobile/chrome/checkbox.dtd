@@ -1,2 +1,2 @@
-<!ENTITY checkbox.on.label      "Bật">
-<!ENTITY checkbox.off.label     "Tắt">
+<!ENTITY checkbox.yes.label    "Có">
+<!ENTITY checkbox.no.label     "Không">

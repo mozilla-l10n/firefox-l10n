@@ -19,7 +19,7 @@
 <!ENTITY  ftp.label                     "FTP Proxy:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  gopher.label                  "Gopher Proxy:">
-<!ENTITY  gopher.accesskey              "G">
+<!ENTITY  gopher.accesskey              "P">
 <!ENTITY  http.label                    "HTTP Proxy:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL Proxy:">

@@ -62,6 +62,7 @@
 <!ENTITY addonInstall.label        "Cài đặt">
 <!ENTITY addonUninstall.label      "Gỡ bỏ">
 <!ENTITY addonCancel.label         "Hủy bỏ">
+<!ENTITY addonShowPage.label       "Chuyển đến Trang">
 
 <!ENTITY downloadsHeader.label     "Tải xuống">
 <!ENTITY downloadsSortDate.label   "Ngày">
@@ -71,12 +72,14 @@
 <!ENTITY downloadsSearch.emptytext "Tìm kiếm tập tin đã tải xuống">
 
 <!ENTITY downloadShowPage.label    "Chuyển đến Trang">
-<!ENTITY downloadShow.label        "Tìm kiếm Tập tin">
-<!ENTITY downloadOpen.label        "Mở Tập Tin">
+<!ENTITY downloadShow2.label       "Tìm">
+<!ENTITY downloadOpen2.label       "Mở">
 <!ENTITY downloadCancel.label      "Hủy bỏ">
 <!ENTITY downloadPause.label       "Tạm dừng">
 <!ENTITY downloadResume.label      "Tiếp tục">
 <!ENTITY downloadRetry.label       "Thử lại">
+
+<!ENTITY noResults.label           "Không có kết quả">
 
 <!ENTITY identity.unverifiedsite2 "Trang web này không cung cấp thông tin định danh.">
 <!ENTITY identity.connectedTo "Bạn đang kết nối đến">

@@ -1,6 +1,6 @@
 <!ENTITY     props.name.label               "Tên:">
 <!ENTITY     props.value.label              "Nội dung:">
-<!ENTITY     props.domain.label             "Máy chủ">
+<!ENTITY     props.domain.label             "Máy chủ:">
 <!ENTITY     props.path.label               "Đường dẫn:">
 <!ENTITY     props.secure.label             "Gửi cho:">
 <!ENTITY     props.expires.label            "Hết hạn:">

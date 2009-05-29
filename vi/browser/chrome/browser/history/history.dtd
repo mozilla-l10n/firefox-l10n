@@ -6,15 +6,15 @@
 <!ENTITY collapse.accesskey        "h">
 <!ENTITY byDate.label "theo Ngày tháng">
 <!ENTITY byDate.accesskey "N">
-<!ENTITY bySite.label "theo Trang">
-<!ENTITY bySite.accesskey "a">
+<!ENTITY bySite.label "theo Tên miền">
+<!ENTITY bySite.accesskey "T">
 <!ENTITY view.label "Xem">
 <!ENTITY view.accesskey "e">
 <!ENTITY byMostVisited.label "theo Vào nhiều nhất">
 <!ENTITY byMostVisited.accesskey "V">
 <!ENTITY byLastVisited.label "theo Lần vào Cuối">
 <!ENTITY byLastVisited.accesskey "L">
-<!ENTITY byDayAndSite.label "theo Ngày tháng và Trang">
+<!ENTITY byDayAndSite.label "theo Ngày tháng và Tên miền">
 <!ENTITY byDayAndSite.accesskey "y">
 <!ENTITY openLinkInWindow.label "Mở">
 <!ENTITY openLinkInWindow.accesskey "M">

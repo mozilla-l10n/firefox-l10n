@@ -103,7 +103,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "b">
 
 <!ENTITY  clearOnClose.label             "Xóa lược sử khi &brandShortName; đóng">
-<!ENTITY  clearOnClose.accesskey         "k">
+<!ENTITY  clearOnClose.accesskey         "l">
 
 <!ENTITY  clearOnCloseSettings.label     "Thiết lập…">
 <!ENTITY  clearOnCloseSettings.accesskey "p">

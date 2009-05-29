@@ -37,7 +37,7 @@
 <!ENTITY subjectColumn.label "Tiêu đề">
 <!ENTITY dateColumn.label "Ngày">
 <!ENTITY priorityColumn.label "Mức ưu tiên">
-<!ENTITY tagsColumn.label "Thẻ tag">
+<!ENTITY tagsColumn.label "Nhãn">
 <!ENTITY accountColumn.label "Tài khỏan">
 <!ENTITY statusColumn.label "Trạng thái">
 <!ENTITY sizeColumn.label "Dung lượng">

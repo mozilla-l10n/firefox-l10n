@@ -32,7 +32,7 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Lược sử Duyệt web và Tải xuống">
+<!ENTITY itemHistoryAndDownloads.label     "Lược sử Duyệt web &amp; Tải xuống">
 <!ENTITY itemHistoryAndDownloads.accesskey "D">
 <!ENTITY itemBrowsingHistory.label         "Lược sử Duyệt web">
 <!ENTITY itemBrowsingHistory.accesskey     "D">
@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Thao tác này không thể hoàn tác được.">
 
-<!ENTITY dialog.width                 "32em">
+<!ENTITY dialog.width                 "29em">
 <!ENTITY column.width                 "14em">

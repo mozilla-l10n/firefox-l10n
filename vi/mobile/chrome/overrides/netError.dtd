@@ -9,7 +9,7 @@
 <!ENTITY connectionFailure.title "Không thể kết nối">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Địa chỉ này đã bị giới hạn">
+<!ENTITY deniedPortAccess.title "Địa chỉ này đã bị chặn">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Không tìm thấy máy chủ">
@@ -57,7 +57,7 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Lỗi trong Mã hóa Nội dung">
+<!ENTITY contentEncodingError.title "Lỗi Bảng Mã">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Vui lòng liên hệ với chủ trang web để báo họ vấn đề này.</li>

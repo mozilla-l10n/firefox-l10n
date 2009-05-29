@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "Từ khóa để Nhắc về Đính kèm">
+<!ENTITY attachKeywordText.label          "&brandShortName; sẽ báo cho bạn là đang thiếu phần đính kèm khi nào gửi e-mail chứa một trong những từ khóa này.">
+<!ENTITY addKeywordButton.label           "Thêm">
+<!ENTITY addKeywordButton.accesskey       "T">
+<!ENTITY editKeywordButton.label          "Chỉnh sửa">
+<!ENTITY editKeywordButton.accesskey      "C">
+<!ENTITY removeKeywordButton.label        "Xóa">
+<!ENTITY removeKeywordButton.accesskey    "X">
