@@ -302,6 +302,9 @@
 <!ENTITY replyToAllMsgCmd.label "Ответить всем">
 <!ENTITY replyToAllMsgCmd.accesskey "в">
 <!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Ответить в рассылку">
+<!ENTITY replyToListMsgCmd.accesskey "р">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Переслать">
 <!ENTITY forwardMsgCmd.accesskey "П">
 <!ENTITY forwardMsgCmd.key "l">
@@ -423,6 +426,7 @@
 <!ENTITY newMsgButton.label "Создать">
 <!ENTITY replyButton.label "Ответить">
 <!ENTITY replyAllButton.label "Ответить всем">
+<!ENTITY replyListButton.label "Ответить в рассылку">
 <!ENTITY forwardButton.label "Переслать">
 <!ENTITY fileButton.label "Поместить">
 <!ENTITY nextButton.label "Следующее">
@@ -452,6 +456,7 @@
 <!ENTITY newMsgButton.tooltip "Создать сообщение">
 <!ENTITY replyButton.tooltip "Ответить на сообщение">
 <!ENTITY replyAllButton.tooltip "Ответить отправителю и всем адресатам">
+<!ENTITY replyListButton.tooltip "Ответить в список рассылки">
 <!ENTITY forwardButton.tooltip "Переслать выбранное сообщение">
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
 <!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
@@ -582,6 +587,8 @@
 <!ENTITY contextReplyNewsgroup.accesskey "г">
 <!ENTITY contextReplyAll.label "Ответить всем">
 <!ENTITY contextReplyAll.accesskey "в">
+<!ENTITY contextReplyList.label "Ответить в рассылку">
+<!ENTITY contextReplyList.accesskey "р">
 <!ENTITY contextForward.label "Переслать">
 <!ENTITY contextForward.accesskey "П">
 <!ENTITY contextForwardAsAttachment.label "Переслать как вложения">
