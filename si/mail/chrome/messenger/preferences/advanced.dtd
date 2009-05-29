@@ -31,6 +31,9 @@
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "පවතින ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY closeMsgWindowOnDelete.label  "මැකීමේදී ලිපි කවුළුව වහන්න">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+
 <!ENTITY configEditDesc.label          "වැඩිමනත් වින්‍යාස කිරීම්">
 <!ENTITY configEdit.label              "Config Editor...">
 <!ENTITY configEdit.accesskey          "g">

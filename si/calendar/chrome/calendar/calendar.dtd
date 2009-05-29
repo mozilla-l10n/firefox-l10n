@@ -105,14 +105,21 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "ඊළඟ මාසය" >
 <!ENTITY calendar.prevmonth.button.tooltip      "පෙර මාසය" >
 
-<!ENTITY calendar.newtask.button.label          "නව කාර්යයන්" >
-<!ENTITY calendar.newevent.button.label         "නව සිදුවීමක්" >
+<!ENTITY calendar.navigation.nextday.tooltip    "දිනක් ඉදිරියට" >
+<!ENTITY calendar.navigation.prevday.tooltip    "දිනක් පසුපසට" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "සතියක් ඉදිරියට" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "සතියක් පසුපසට" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "මාසයක් ඉදිරියට" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "මාසයක් පසුපසට" >
+
+<!--<!ENTITY calendar.newtask.button.label          "නව කාර්යයන්" >-->
+<!--<!ENTITY calendar.newevent.button.label         "නව සිදුවීමක්" >-->
 
 <!--<!ENTITY calendar.paste.button.tooltip          "අලවන්න" >-->
 <!--<!ENTITY calendar.print.button.tooltip          "දිනදර්ශනය මුද්‍රණය" >-->
 
 <!--<!ENTITY calendar.paste.button.label            "අලවන්න" >-->
-<!ENTITY calendar.print.button.label            "මුද්‍රණය" >
+<!--<!ENTITY calendar.print.button.label            "මුද්‍රණය" >-->
 
 
 <!ENTITY calendar.newtask.button.label          "නව කාර්යයන්" >
