@@ -334,6 +334,9 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY replyToAllMsgCmd.label "Répondre à tous">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Répondre à la liste">
+<!ENTITY replyToListMsgCmd.accesskey "o">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Transférer">
 <!ENTITY forwardMsgCmd.accesskey "f">
 <!ENTITY forwardMsgCmd.key "l">
@@ -463,6 +466,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY newMsgButton.label "Écrire">
 <!ENTITY replyButton.label "Répondre">
 <!ENTITY replyAllButton.label "Rép. à tous">
+<!ENTITY replyListButton.label "Rép. à la liste">
 <!ENTITY forwardButton.label "Transférer">
 <!ENTITY fileButton.label "Classer">
 <!ENTITY nextButton.label "Suivant">
@@ -494,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY newMsgButton.tooltip "Créer un nouveau message">
 <!ENTITY replyButton.tooltip "Répondre au message">
 <!ENTITY replyAllButton.tooltip "Répondre à l'expéditeur et à tous les destinataires">
+<!ENTITY replyListButton.tooltip "Répondre à la liste de diffusion">
 <!ENTITY forwardButton.tooltip "Transférer le message sélectionné">
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">
 <!ENTITY nextButton.tooltip "Aller au prochain message non lu">
@@ -657,6 +662,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Répondre à tout le monde">
 <!ENTITY contextReplyAll.accesskey "t">
+<!ENTITY contextReplyList.label "Répondre à la liste">
+<!ENTITY contextReplyList.accesskey "o">
 <!ENTITY contextForward.label "Transférer">
 <!ENTITY contextForward.accesskey "f">
 <!ENTITY contextForwardAsAttachment.label "Transférer en tant que pièce jointe">
