@@ -17,7 +17,7 @@
 <!ENTITY install.label                    "সংস্থাপন">
 
 <!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "উন্নয়ন বিচাৰকFind Updates">
+<!ENTITY cmd.checkUpdatesAll.label        "উন্নয়ন বিচাৰক">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "আপোনাৰ এড-অ'নৰ কাৰণে উন্নয়ন বিচাৰক">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "আপোনাৰ থিমৰ কাৰণে উন্নয়ন বিচাৰক">
@@ -172,5 +172,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY searchFailed.button              "ঠিক আছে">
 <!ENTITY searchResultHomepage.value       "আৰু জানক">
 <!ENTITY addonTypeExtension.label         "সম্প্ৰসাৰণ">
-<!ENTITY recommendedThrobber.label        "উপদেশিত এড-অ'ন উদ্ধাৰ কৰৰা হৈছে">
+<!ENTITY recommendedThrobber.label        "উপদেশিত এড-অ'ন উদ্ধাৰ কৰা হৈছে">
 <!ENTITY noSearchResults.label            "সকলো ফলাফল ইতিমধ্যে সংস্থাপিত বা অসঙ্গত ।">
