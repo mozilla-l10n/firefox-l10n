@@ -87,7 +87,7 @@
 
 <!ENTITY certmgr.deletecert.title "Odstránenie certifikátu">
 <!ENTITY certmgr.deletecert.beforename "Požiadali ste o odstránenie tohto certifikátu:">
-<!ENTITY certmgr.deletecert.aftername "Naozaj chcete odstrániť tento certifikát ?">
+<!ENTITY certmgr.deletecert.aftername "Naozaj chcete odstrániť tento certifikát?">
 <!ENTITY certmgr.deleteusercert.title "Odstránenie vášho certifikátu">
 <!ENTITY certmgr.deleteusercert.beforename "Požiadali ste o odstránenie tohto certifikátu:">
 <!ENTITY certmgr.deleteusercert.aftername "Ak odstránite tento certifikát, nebudete môcť prečítať správy, ktoré ním boli zašifrované.">
