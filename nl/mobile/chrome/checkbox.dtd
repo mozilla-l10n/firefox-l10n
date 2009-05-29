@@ -1,2 +1,3 @@
-<!ENTITY checkbox.on.label      "Aan">
-<!ENTITY checkbox.off.label     "Uit">
+<!ENTITY checkbox.yes.label    "Ja">
+<!ENTITY checkbox.no.label     "Nee">
+
