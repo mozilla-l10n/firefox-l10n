@@ -1,17 +1,16 @@
 <!ENTITY content.title                             "Inhoud">
-<!ENTITY permissions.default.image.title           "Afbeeldingen automatisch laden">
-<!ENTITY permissions.default.image.description     "Maakt websites mooi">
-<!ENTITY javascript.enabled.title                  "JavaScript inschakelen">
-<!ENTITY javascript.enabled.description            "Maakt websites flitsend">
-<!ENTITY plugins.enabled.title                     "Plug-ins inschakelen">
-<!ENTITY plugins.enabled.description               "Maakt websites vervelend">
+<!ENTITY showImages.title                          "Afbeeldingen tonen">
+<!ENTITY enableJavaScript.title                    "JavaScript inschakelen">
+<!ENTITY enableJavaScript.description              "De meeste interactive websites maken gebruik van JavaScript">
+<!ENTITY enablePlugins.title                       "Plug-ins inschakelen">
+<!ENTITY enablePlugins.description                 "Plug-ins worden gebruikt voor speciale inhoud zoals video">
 <!ENTITY javascript.options.jit.content.title      "JavaScript opsporing inschakelen">
 <!ENTITY javascript.options.jit.content.description "Maak gebruik van native‐code compilatie in JavaScript">
 <!ENTITY privacy.title                             "Privacy &amp; Beveiliging">
-<!ENTITY network.cookie.cookieBehavior.title       "Opgeslagen cookies">
-<!ENTITY network.cookie.cookieBehavior.description "Delicious delicacies">
-<!ENTITY clear.private.data.title                  "Privégegevens opruimen">
-<!ENTITY clear.private.data.button                 "Opruimen…">
-<!ENTITY clear.private.data.description            "Helpt u verbergen">
-<!ENTITY signon.rememberSignons.title              "Opgeslagen wachtwoorden">
-<!ENTITY signon.rememberSignons.description        "zodat u minder typed">
+<!ENTITY allowCookies.title                        "Cookies toestaan">
+<!ENTITY allowCookies.description                  "Pagina's gebruiken cookies om u te identificeren en uw instellingen te onthouden">
+<!ENTITY clearPrivateData.title                    "Recente navigatiegeschiedenis wissen">
+<!ENTITY clearPrivateData.button                   "Wissen">
+<!ENTITY clearPrivateData.description              "Uw geschiedenis help &brandShortName; te suggereren waar u naar toe wilt">
+<!ENTITY rememberPasswords.title                   "Wachtwoorden onthouden">
+
