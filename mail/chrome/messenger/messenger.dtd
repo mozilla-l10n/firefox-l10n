@@ -332,6 +332,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Antworten an alle">
 <!ENTITY replyToAllMsgCmd.accesskey	"o">
 <!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToListMsgCmd.label "Antworten an Liste">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Weiterleiten">
 <!ENTITY forwardMsgCmd.accesskey "W">
 <!ENTITY forwardMsgCmd.key	"l">
@@ -461,6 +464,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Verfassen">
 <!ENTITY replyButton.label "Antworten">
 <!ENTITY replyAllButton.label "Allen antworten">
+<!ENTITY replyListButton.label "Liste antworten">
 <!ENTITY forwardButton.label "Weiterleiten">
 <!ENTITY fileButton.label "Ablegen">
 <!ENTITY nextButton.label "Nächste">
@@ -489,10 +493,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Eine neue Nachricht schreiben">
 <!ENTITY replyButton.tooltip "Auf gewählte Nachricht(en) antworten">
 <!ENTITY replyAllButton.tooltip "Auf gewählte Nachricht(en) an den Absender und alle Empfänger antworten">
+<!ENTITY replyListButton.tooltip "Auf gewählte Nachricht(en) an Liste antworten">
 <!ENTITY forwardButton.tooltip "Gewählte Nachricht(en) weiterleiten">
 <!ENTITY fileButton.tooltip "Gewählte Nachricht(en) ablegen">
-<!ENTITY nextButton.tooltip "Gehe zur nächsten ungelesenen Nachricht in der Liste">
-<!ENTITY previousButton.tooltip "Gehe zur vorherigen ungelesenen Nachricht in der Liste">
+<!ENTITY nextButton.tooltip "Gehe zur nächsten ungelesenen Nachricht">
+<!ENTITY previousButton.tooltip "Gehe zur vorherigen ungelesenen Nachricht">
 <!ENTITY goForwardButton.tooltip "Eine Nachricht vorwärts in der Chronik der angesehenen Nachrichten">
 <!ENTITY goBackButton.tooltip "Eine Nachricht zurück in der Chronik der angesehenen Nachrichten">
 <!ENTITY deleteButton.tooltip "Gewählte Nachricht(en) oder Ordner löschen">
@@ -651,6 +656,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Antworten an alle">
 <!ENTITY contextReplyAll.accesskey "o">
+<!ENTITY contextReplyList.label "Antworten an Liste">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Weiterleiten">
 <!ENTITY contextForward.accesskey "w">
 <!ENTITY contextForwardAsAttachment.label "Als Anhang weiterleiten">
