@@ -79,6 +79,8 @@
 <!ENTITY downloadResume.label      "Pokračovať">
 <!ENTITY downloadRetry.label       "Znova">
 
+<!ENTITY noResults.label           "Žiadne výsledky">
+
 <!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o svojej identite.">
 <!ENTITY identity.connectedTo "Pripojené k stránke">
 <!-- Localization note (identity.runBy) : This string appears between a

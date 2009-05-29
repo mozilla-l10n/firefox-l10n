@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Túto akciu nie je možné vrátiť späť.">
 
-<!ENTITY dialog.width                 "35em">
+<!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "16em">
