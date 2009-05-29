@@ -51,4 +51,4 @@
 <!ENTITY cmd.copyDownloadLink.label "Копировать ссылку на загрузку">
 <!ENTITY cmd.copyDownloadLink.accesskey "п">
 <!ENTITY closeWhenDone.label "Закрыть это окно после завершения загрузок.">
-<!ENTITY closeWhenDone.accesskey "к">
+<!ENTITY closeWhenDone.accesskey "а">
