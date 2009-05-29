@@ -125,7 +125,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "y">
 
 <!ENTITY col.name.label          "Tên">
-<!ENTITY col.tags.label          "Thẻ">
+<!ENTITY col.tags.label          "Nhãn">
 <!ENTITY col.url.label           "Địa chỉ">
 <!ENTITY col.lastvisit.label     "Ngày Xem">
 <!ENTITY col.visitcount.label    "Số lần Xem">

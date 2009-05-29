@@ -8,9 +8,11 @@
 
 <!ENTITY enableGlodaSearch.label       "Kích hoạt Chỉ mục và Tìm kiếm Bao quát">
 <!ENTITY enableGlodaSearch.accesskey   "q">
-<!ENTITY systemDefaults.label          "Mặc định cho Hệ thống">
+<!ENTITY systemIntegration.label       "Tích hợp Hệ thống">
 <!ENTITY alwaysCheckDefault.label      "Luôn kiểm tra xem &brandShortName; có phải là chương trình gửi thư mặc định mỗi khi khởi chạy">
 <!ENTITY alwaysCheckDefault.accesskey  "L">
+<!ENTITY searchIntegration.label       "Cho phép &searchIntegration.engineName; tìm kiếm thư">
+<!ENTITY searchIntegration.accesskey   "t">
 <!ENTITY checkNow.label                "Kiểm tra Ngay">
 <!ENTITY checkNow.accesskey            "N">
 <!ENTITY configEditDesc.label          "Cấu hình Nâng cao">
@@ -41,6 +43,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "s">
 <!ENTITY reuseExpRadio1.label          "Một cửa sổ đang mở sẵn">
 <!ENTITY reuseExpRadio1.accesskey      "a">
+<!ENTITY closeMsgWindowOnDelete.label  "Đóng cửa sổ khi xóa thư">
+<!ENTITY closeMsgWindowOnDelete.accesskey "g">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Tự động kiểm tra phiên bản mới của:">

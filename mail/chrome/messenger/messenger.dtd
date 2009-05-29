@@ -156,7 +156,7 @@
 <!ENTITY sortBySizeCmd.accesskey "D">
 <!ENTITY sortByStatusCmd.label "Trạng thái">
 <!ENTITY sortByStatusCmd.accesskey "r">
-<!ENTITY sortByTagsCmd.label "Thẻ Tag">
+<!ENTITY sortByTagsCmd.label "Tag">
 <!ENTITY sortByTagsCmd.accesskey "a">
 <!ENTITY sortByJunkStatusCmd.label "Trạng thái Thư rác">
 <!ENTITY sortByJunkStatusCmd.accesskey "i">

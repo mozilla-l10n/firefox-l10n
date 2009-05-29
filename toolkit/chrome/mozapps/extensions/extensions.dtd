@@ -136,7 +136,7 @@
 <!ENTITY emptySearch.button               "OK">
 <!ENTITY cancelSearch.button              "Hủy bỏ">
 <!ENTITY searchFailed.button              "OK">
-<!ENTITY searchResultHomepage.value       "Tìm hiểu thêm">
+<!ENTITY searchResultHomepage.value       "Tìm hiểu Thêm">
 <!ENTITY searchBox.label                  "Tìm Tất cả các Tiện ích">
 <!ENTITY recommendedResults.label         "Xem Tất cả các Tiện ích được khuyên dùng">
 <!ENTITY searchResultConnecting.label     "Đang kết nối…">

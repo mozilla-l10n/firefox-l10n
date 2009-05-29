@@ -27,7 +27,7 @@
 <!ENTITY netOffline.title "Chế độ Ngoại tuyến">
 <!ENTITY netOffline.longDesc "<p>Trình duyệt đang hoạt động trong chế độ ngoại tuyến và không thể kết nối tới mục yêu cầu.</p><ul><li>Máy tính có kết nối tới một hệ thống mạng đang hoạt động không?</li><li>Hãy đưa trình duyệt vào chế độ trực tuyến và thử lại.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Lỗi trong Mã hóa Nội dung">
+<!ENTITY contentEncodingError.title "Lỗi Bảng Mã">
 <!ENTITY contentEncodingError.longDesc "<p>Trang bạn đang cố xem không thể hiển thị vì nó dùng một kiểu nén không hỗ trợ hoặc bất hợp lệ.</p><ul><li>Vui lòng liên hệ với chủ trang web để báo họ vấn đề này.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Kiểu tập tin Không an toàn">

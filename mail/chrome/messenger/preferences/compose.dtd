@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "Cấu hình hành vi định dạng văn bản">
 <!ENTITY sendOptions.label                     "Tùy chọn Gửi…">
 <!ENTITY sendOptions.accesskey                 "G">
+
+<!ENTITY attachmentReminder.label              "Kiểm tra phần đính kèm bị thiếu">
+<!ENTITY attachmentReminder.accesskey          "K">
+<!ENTITY attachmentReminderOptions.label       "Từ khóa…">
+<!ENTITY attachmentReminderOptions.accesskey   "a">

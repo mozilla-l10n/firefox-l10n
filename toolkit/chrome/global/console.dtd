@@ -48,7 +48,7 @@
 <!ENTITY warnings.label     "Cảnh báo">
 <!ENTITY warnings.accesskey "C">
 <!ENTITY messages.label     "Thông điệp">
-<!ENTITY messages.accesskey "T">
+<!ENTITY messages.accesskey "h">
 <!ENTITY clear.label        "Xóa trắng">
 <!ENTITY clear.accesskey    "X">
 <!ENTITY codeEval.label     "Mã">

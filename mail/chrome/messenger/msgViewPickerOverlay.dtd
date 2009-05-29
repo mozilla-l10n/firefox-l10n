@@ -8,7 +8,7 @@
 <!ENTITY viewUnread.accesskey "C">
 <!ENTITY viewNotDeleted.label "Chưa Xóa">
 <!ENTITY viewNotDeleted.accesskey "X">
-<!ENTITY viewTags.label "Thẻ tag">
+<!ENTITY viewTags.label "Tag">
 <!ENTITY viewTags.accesskey "a">
 <!ENTITY viewCustomViews.label "Tùy biến Cách hiển thị">
 <!ENTITY viewCustomViews.accesskey "y">

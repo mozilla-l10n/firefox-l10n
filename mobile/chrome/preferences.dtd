@@ -1,17 +1,15 @@
 <!ENTITY content.title                             "Nội dung">
-<!ENTITY permissions.default.image.title           "Tự động tải ảnh">
-<!ENTITY permissions.default.image.description     "Làm trang web đẹp đẽ hơn">
-<!ENTITY javascript.enabled.title                  "Bật JavaScript">
-<!ENTITY javascript.enabled.description            "Làm trang web sống động hơn">
+<!ENTITY showImages.title                          "Hiện hình ảnh">
+<!ENTITY enableJavaScript.title                    "Bật JavaScript">
+<!ENTITY enableJavaScript.description              "Đa số các trang tương tác cần JavaScript">
 <!ENTITY javascript.options.jit.content.title      "Kích hoạt thăm dò JavaScript">
 <!ENTITY javascript.options.jit.content.description "Sử dụng bộ biên dịch mã riêng trong JavaScript">
-<!ENTITY plugins.enabled.title                     "Bật các Phần bổ trợ">
-<!ENTITY plugins.enabled.description               "Làm trang web rườm rà hơn">
+<!ENTITY enablePlugins.title                       "Bật các Phần bổ trợ">
+<!ENTITY enablePlugins.description                 "Phần bổ trợ được sử dụng cho nội dung đặc biệt như video">
 <!ENTITY privacy.title                             "Riêng tư &amp; Bảo mật">
-<!ENTITY network.cookie.cookieBehavior.title       "Lưu cookie">
-<!ENTITY network.cookie.cookieBehavior.description "Bánh ngọt ngon lành">
-<!ENTITY clear.private.data.title                  "Xóa dữ liệu cá nhân">
-<!ENTITY clear.private.data.button                 "Xóa…">
-<!ENTITY clear.private.data.description            "Bảo vệ nơi ẩn náu của bạn">
-<!ENTITY signon.rememberSignons.title              "Lưu mật khẩu">
-<!ENTITY signon.rememberSignons.description        "Để đỡ phải gõ nhiều">
+<!ENTITY allowCookies.title                        "Cho phép cookie">
+<!ENTITY allowCookies.description                  "Các trang web sử dụng cookie để định danh bạn và nhớ các thiết lập của bạn">
+<!ENTITY clearPrivateData.title                    "Xóa các lược sử duyệt web gần đây">
+<!ENTITY clearPrivateData.button                   "Xóa trắng">
+<!ENTITY clearPrivateData.description              "Lược sử giúp &brandShortName; gợi ý những nơi mà bạn muốn đến">
+<!ENTITY rememberPasswords.title                   "Ghi nhớ mật khẩu">
