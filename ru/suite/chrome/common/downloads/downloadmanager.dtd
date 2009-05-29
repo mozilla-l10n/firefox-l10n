@@ -7,7 +7,7 @@
 <!ENTITY search.key "f">
 <!ENTITY cmd.clearList.label "Очистить список">
 <!ENTITY cmd.clearList.tooltip "Удаляет из списка завершённые, отменённые и неудавшиеся загрузки">
-<!ENTITY cmd.clearList.accesskey "ч">
+<!ENTITY cmd.clearList.accesskey "и">
 <!ENTITY col.name.label "Имя">
 <!ENTITY col.name.accesskey "м">
 <!ENTITY col.name.tooltip "Имя файла">
@@ -18,7 +18,7 @@
 <!ENTITY col.actionPlay.accesskey "с">
 <!ENTITY col.actionPlay.tooltip "Приостановить/Возобновить/Повторить">
 <!ENTITY col.actionStop.label "Отменить/Удалить">
-<!ENTITY col.actionStop.accesskey "т">
+<!ENTITY col.actionStop.accesskey "и">
 <!ENTITY col.actionStop.tooltip "Отменить/Удалить">
 <!ENTITY col.progress.label "Ход">
 <!ENTITY col.progress.accesskey "о">
