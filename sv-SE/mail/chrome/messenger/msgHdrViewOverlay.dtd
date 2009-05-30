@@ -63,6 +63,7 @@
 <!ENTITY archiveButton.label "arkivera">
 <!ENTITY hdrReplyButton.label "svara">
 <!ENTITY hdrReplyAllButton.label "svara alla">
+<!ENTITY hdrReplyListButton.label "svara listan">
 <!ENTITY hdrForwardButton.label "vidarebefordra">
 <!ENTITY hdrJunkButton.label "skräp">
 <!ENTITY trashButton.tooltiptext "ta bort">
