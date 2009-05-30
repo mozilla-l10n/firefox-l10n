@@ -79,6 +79,8 @@
 <!ENTITY downloadResume.label      "Reprèn">
 <!ENTITY downloadRetry.label       "Reintenta">
 
+<!ENTITY noResults.label           "Cap resultat">
+
 <!ENTITY identity.unverifiedsite2 "El lloc web no proporciona informació d'identitat.">
 <!ENTITY identity.connectedTo "Esteu connectat a">
 <!-- Localization note (identity.runBy) : This string appears between a
