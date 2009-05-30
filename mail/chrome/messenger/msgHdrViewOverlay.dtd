@@ -60,6 +60,7 @@
 <!ENTITY archiveButton.label "archivovat">
 <!ENTITY hdrReplyButton.label "odpovědět">
 <!ENTITY hdrReplyAllButton.label "odpovědět všem">
+<!ENTITY hdrReplyListButton.label "odpovědět do konference">
 <!ENTITY hdrForwardButton.label "přeposlat">
 <!ENTITY hdrJunkButton.label "nevyžadaná pošta">
 <!ENTITY trashButton.tooltiptext "smazat">

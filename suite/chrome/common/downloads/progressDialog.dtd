@@ -11,13 +11,16 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Sun Microsystems code.
+   - The Original Code is the SeaMonkey internet suite code.
    -
-   - The Initial Developer of the Original Code is Sun Microsystems.
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   - The Initial Developer of the Original Code is
+   - the SeaMonkey project at mozilla.org.
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
+   - Contributor(s):
+   -   Justin Wood <Callek@gmail.com>
+   -  Robert Kaiser <kairo@kairo.at>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -31,19 +34,21 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - ***** END LICENSE BLOCK *****
--->
+   - ***** END LICENSE BLOCK ***** -->
 
-<!-- Calendar Invitations Dialog -->
-<!ENTITY calendar.invitations.dialog.invitations.text "Pozvání">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text "Aktualizace seznamu pozvání.">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text "Nepotvrzené pozvání nenalezeno.">
-
-<!-- Calendar Invitations List -->
-<!ENTITY calendar.invitations.list.accept.button.label "Přijmout">
-<!ENTITY calendar.invitations.list.decline.button.label "Odmítnout">
-<!ENTITY calendar.invitations.list.recurrentevent.text "Opakovaná událost">
-<!ENTITY calendar.invitations.list.alldayevent.text "Celodenní událost">
-<!ENTITY calendar.invitations.list.location.text "Místo: ">
-<!ENTITY calendar.invitations.list.organizer.text "Organizátor: ">
-<!ENTITY calendar.invitations.list.none.text "Není známo">
+<!ENTITY progress.title "Průběh stahování…">
+<!ENTITY closeWindow.key "w">
+<!ENTITY cmd.pause.tooltip "Pozastavit">
+<!ENTITY cmd.resume.tooltip "Pokračovat">
+<!ENTITY cmd.retry.tooltip "Opakovat">
+<!ENTITY cmd.cancel.tooltip "Zrušit">
+<!ENTITY cmd.open.label "Otevřít">
+<!ENTITY cmd.open.accesskey "O">
+<!ENTITY cmd.show.label "Otevřít složku">
+<!ENTITY cmd.show.accesskey "s">
+<!ENTITY cmd.goToDownloadPage.label "Přejít na stránku stahování">
+<!ENTITY cmd.goToDownloadPage.accesskey "e">
+<!ENTITY cmd.copyDownloadLink.label "Kopírovat stahovaný odkaz">
+<!ENTITY cmd.copyDownloadLink.accesskey "K">
+<!ENTITY closeWhenDone.label "Zavřít toto okno při dokončení stahování.">
+<!ENTITY closeWhenDone.accesskey "w">

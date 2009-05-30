@@ -319,6 +319,9 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Zpráva">
 <!ENTITY newNewMsgCmd.accesskey "Z">
+<!ENTITY archiveMsgCmd.label "Archiv">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Odpovědět">
 <!ENTITY replyMsgCmd.accesskey "O">
 <!ENTITY replyMsgCmd.key "r">
@@ -499,6 +502,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "V">
 <!ENTITY contextEditAsNew.label "Upravit jako novou…">
 <!ENTITY contextEditAsNew.accesskey "N">
+<!ENTITY contextArchive.label "Archiv">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
 <!ENTITY contextReplySender.accesskey "L">
 <!ENTITY contextReplyNewsgroup.label "Odpovědět do diskusní skupiny">

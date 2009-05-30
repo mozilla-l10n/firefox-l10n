@@ -332,6 +332,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Odpovědět všem">
 <!ENTITY replyToAllMsgCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Odpovědět do konference">
+<!ENTITY replyToListMsgCmd.accesskey  "k">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Přeposlat">
 <!ENTITY forwardMsgCmd.accesskey "P">
 <!ENTITY forwardMsgCmd.key "l">
@@ -461,6 +464,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Napsat">
 <!ENTITY replyButton.label "Odpovědět">
 <!ENTITY replyAllButton.label "Odp. všem">
+<!ENTITY replyListButton.label "Odpovědět do konference">
 <!ENTITY forwardButton.label "Přeposlat">
 <!ENTITY fileButton.label "Přesunout">
 <!ENTITY nextButton.label "Další">
@@ -492,6 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Vytvoří novou zprávu">
 <!ENTITY replyButton.tooltip "Odpoví na zprávu">
 <!ENTITY replyAllButton.tooltip "Odpoví na zprávu odesílateli a všem příjemcům">
+<!ENTITY replyListButton.tooltip "Odpoví na zprávu do e-mailové konference">
 <!ENTITY forwardButton.tooltip "Přepošle označenou zprávu">
 <!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
 <!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
@@ -654,6 +659,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "Odpovědět všem">
 <!ENTITY contextReplyAll.accesskey "O">
+<!ENTITY contextReplyList.label "Odpovědět do konference">
+<!ENTITY contextReplyList.accesskey "k">
 <!ENTITY contextForward.label "Přeposlat">
 <!ENTITY contextForward.accesskey "P">
 <!ENTITY contextForwardAsAttachment.label "Přeposlat jako přílohy">
