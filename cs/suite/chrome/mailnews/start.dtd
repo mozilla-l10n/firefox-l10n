@@ -45,7 +45,7 @@
 <!ENTITY features.title "Vlastnosti">
 <!ENTITY feat_multiacc.label "Podpora vícenásobných účtů">
 <!ENTITY feat_junk.label "Kontrola na nevyžádanou poštu">
-<!ENTITY feat_feeds.label "Čtečka kanálů">
+<!ENTITY feat_feeds.label "Čtečka">
 <!ENTITY feat_filters.label "Poštovní filtry">
 <!ENTITY feat_htmlmsg.label "Podpora HTML zpráv">
 <!ENTITY feat_abook.label "Kontakty">

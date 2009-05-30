@@ -4,7 +4,7 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "Kontrola aktualizací">
-<!ENTITY updateCheck.label "Zjišťuji dostupnost nové verze aplikace &brandShortName;…">
+<!ENTITY updateCheck.label "Zjišťování dostupnosti nové verze aplikace &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "Aktualizace nenalezeny">
 <!ENTITY noupdatesautoenabled.intro "Nebyly nalezeny žádné nové aktualizace. Aplikace &brandShortName; bude pravidelně zjišťovat jejich dostupnost.">
@@ -20,7 +20,7 @@
 <!ENTITY manualUpdateGetMsg.label "Nejnovější verze aplikace &brandShortName; je vždy dostupná na:">
 
 <!ENTITY incompatibleCheck.title "Kontrola kompatibility doplňků">
-<!ENTITY incompatibleCheck.label "Zjišťuji dostupnost nových verzí vašich doplňků…">
+<!ENTITY incompatibleCheck.label "Zjišťování dostupnosti nových verzí vašich doplňků…">
 
 <!ENTITY clickHere.label "Zobrazit více informací o této aktualizaci">
 

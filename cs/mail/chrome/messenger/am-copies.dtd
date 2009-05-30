@@ -22,7 +22,7 @@
 <!ENTITY draftInOtherFolder.label "Další:">
 <!ENTITY draftInOtherFolder.accesskey "a">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Složky Archív v:">
+<!ENTITY archivesFolderOn.label "Složka Archív v:">
 <!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Další:">
 <!ENTITY archiveInOtherFolder.accesskey "a">
