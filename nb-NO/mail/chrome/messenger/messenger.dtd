@@ -461,6 +461,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY replyButton.label "Svar">
 <!ENTITY replyAllButton.label "Svar alle">
+<!ENTITY replyListButton.label "Svar til liste">
 <!ENTITY forwardButton.label "Videresend">
 <!ENTITY fileButton.label "Fil">
 <!ENTITY nextButton.label "Neste">
@@ -492,6 +493,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Skriv ny melding">
 <!ENTITY replyButton.tooltip "Svar til avsender">
 <!ENTITY replyAllButton.tooltip "Svar til avsender og alle mottakere">
+<!ENTITY replyListButton.tooltip "Svar til e-postliste">
 <!ENTITY forwardButton.tooltip "Videresend valgt melding">
 <!ENTITY fileButton.tooltip "Arkiver valgt melding">
 <!ENTITY nextButton.tooltip "Flytt til neste uleste melding">
@@ -654,6 +656,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "n">
 <!ENTITY contextReplyAll.label "Svar til alle">
 <!ENTITY contextReplyAll.accesskey "a">
+<!ENTITY contextReplyList.label "Svar til liste">
+<!ENTITY contextReplyList.accesskey "r">
 <!ENTITY contextForward.label "Videresend">
 <!ENTITY contextForward.accesskey "V">
 <!ENTITY contextForwardAsAttachment.label "Videresend som vedlegg">
