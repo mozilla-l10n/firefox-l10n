@@ -1,17 +1,15 @@
 <!ENTITY content.title                             "Contingut">
-<!ENTITY permissions.default.image.title           "Carrega les imatges">
-<!ENTITY permissions.default.image.description     "Embelleix els llocs web">
-<!ENTITY javascript.enabled.title                  "Habilita els Javascript">
-<!ENTITY javascript.enabled.description            "Fes els llocs web vius">
+<!ENTITY showImages.title                          "Mostra les imatges">
+<!ENTITY enableJavaScript.title  	           "Habilita els JavaScript">
+<!ENTITY enableJavaScript.description              "La majoria dels llocs interactius empren JavaScript">
 <!ENTITY javascript.options.jit.content.title      "Habilita el seguiment del Javascript">
 <!ENTITY javascript.options.jit.content.description "Utilitza compilació de codi natiu en JavaScript">
-<!ENTITY plugins.enabled.title                     "Habilita els connectors">
-<!ENTITY plugins.enabled.description               "Fes els llocs web emprenyadors">
+<!ENTITY enablePlugins.title                       "Habilita els connectors">
+<!ENTITY enablePlugins.description                 "Els connectors s'utilitzen en contingut especial com ara els vídeo">
 <!ENTITY privacy.title                             "Privadesa i seguretat">
-<!ENTITY network.cookie.cookieBehavior.title       "Desa les galetes">
-<!ENTITY network.cookie.cookieBehavior.description "Exquisides delicadeses">
-<!ENTITY clear.private.data.title                  "Neteja les dades privades">
-<!ENTITY clear.private.data.button                 "Neteja…">
-<!ENTITY clear.private.data.description            "Desa les vostra interioritat">
-<!ENTITY signon.rememberSignons.title              "Desa les contrasenyes">
-<!ENTITY signon.rememberSignons.description        "Fa que escriviu menys">
+<!ENTITY allowCookies.title                        "Permet les galetes">
+<!ENTITY allowCookies.description                  "Els llocs utilitzen galetes per a indetificar-vos i recordar els vostres paràmetres">
+<!ENTITY clearPrivateData.title                    "Neteja l'historial de navegació recent">
+<!ENTITY clearPrivateData.button                   "Neteja">
+<!ENTITY clearPrivateData.description              "El vostre historial ajuda al &brandShortName; a suggerir-vos on voleu anar">
+<!ENTITY rememberPasswords.title                   "Recorda les contrasenyes">
