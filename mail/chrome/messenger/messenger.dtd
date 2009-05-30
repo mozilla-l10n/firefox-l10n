@@ -366,6 +366,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Svara alla">
 <!ENTITY replyToAllMsgCmd.accesskey  "a">
 <!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToListMsgCmd.label "Svara till listan">
+<!ENTITY replyToListMsgCmd.accesskey  "l">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Vidarebefordra">
 <!ENTITY forwardMsgCmd.accesskey "V">
 <!ENTITY forwardMsgCmd.key  "l">
@@ -495,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY replyButton.label "Svara">
 <!ENTITY replyAllButton.label "Svara alla">
+<!ENTITY replyListButton.label "Svara till listan">
 <!ENTITY forwardButton.label "Vidarebefordra">
 <!ENTITY fileButton.label "Arkivera">
 <!ENTITY nextButton.label "Nästa">
@@ -526,6 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Skapar ett nytt meddelande">
 <!ENTITY replyButton.tooltip "Svarar avsändaren">
 <!ENTITY replyAllButton.tooltip "Svarar avsändaren och även alla mottagare">
+<!ENTITY replyListButton.tooltip "Svara till mailinglistan">
 <!ENTITY forwardButton.tooltip "Vidarebefordrar meddelandet">
 <!ENTITY fileButton.tooltip "Arkiverar markerat meddelande">
 <!ENTITY nextButton.tooltip "Hoppar till nästa olästa meddelande">
@@ -688,6 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "d">
 <!ENTITY contextReplyAll.label "Svara alla">
 <!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyList.label "Svara till listan">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Vidarebefordra">
 <!ENTITY contextForward.accesskey "V">
 <!ENTITY contextForwardAsAttachment.label "Vidarebefordra som bilaga">
