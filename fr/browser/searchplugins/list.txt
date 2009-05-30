@@ -3,4 +3,4 @@ amazon-france
 wikipedia-fr
 eBay-france
 yahoo-france
-cnrtl-tlfi-fr.xml
+cnrtl-tlfi-fr
