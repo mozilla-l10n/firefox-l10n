@@ -100,6 +100,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Volgende maand" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Vorige maand" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Eén dag vooruit" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Eén dag terug" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Eén week vooruit" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Eén week terug" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Eén maand vooruit" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Eén maand terug" >
+
 <!ENTITY calendar.newevent.button.label         "Nieuwe gebeurtenis" >
 <!ENTITY calendar.newtask.button.label          "Nieuwe taak" >
 <!ENTITY calendar.print.button.label            "Afdrukken" >
