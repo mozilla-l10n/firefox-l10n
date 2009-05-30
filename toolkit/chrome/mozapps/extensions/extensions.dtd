@@ -128,7 +128,7 @@
 <!ENTITY searchFailed.label "Aplikaci &brandShortName; se nepodařilo stáhnout seznam doplňků">
 <!ENTITY recommendedHeader.label "Doporučované doplňky">
 <!ENTITY recommendedThrobber.label "Stahování seznamu doporučovaných doplňků">
-<!ENTITY searchThrobber.label "Hledám doplňky">
+<!ENTITY searchThrobber.label "Hledání doplňků">
 <!ENTITY resetSearch.label "Smazat výsledky">
 <!ENTITY noSearchResults.label "Všechny nalezené doplňky jsou již instalovány a nebo nekompatibilní.">
 <!ENTITY noRecommendedResults.label "Všechny doporučované doplňky jsou již instalovány a nebo nekompatibilní.">

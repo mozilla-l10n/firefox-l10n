@@ -14,6 +14,6 @@
 <!ENTITY groupNotSent.label "Data, která nejsou nikdy posílána:">
 <!ENTITY notsentNickname.label "Přezdívka">
 <!ENTITY notsentMessages.label "Obsah zpráv včetně akcí a oznámení">
-<!ENTITY notsentArguments.label "Parametry a data předávaná příkazům,, nabídkám a dialogům">
+<!ENTITY notsentArguments.label "Parametry a data předávaná příkazům, nabídkám a dialogům">
 <!ENTITY notsentURLs.label "Jména a adresy sítí, serverů, kanálů a uživatelů">
 <!ENTITY notsentFiles.label "Jména a obsah odeslaných a přijatých souborů">
