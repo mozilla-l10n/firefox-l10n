@@ -319,6 +319,9 @@
 <!ENTITY newMsgCmd.accesskey "m">
 <!ENTITY newNewMsgCmd.label "Melding">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Arkiver">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Svar">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key	"r">
@@ -499,6 +502,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "v">
 <!ENTITY contextEditAsNew.label "Rediger som ny …">
 <!ENTITY contextEditAsNew.accesskey "R">
+<!ENTITY contextArchive.label "Arkiver">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsender">
 <!ENTITY contextReplySender.accesskey "r">
 <!ENTITY contextReplyNewsgroup.label "Svar til nyhetsgruppe">
