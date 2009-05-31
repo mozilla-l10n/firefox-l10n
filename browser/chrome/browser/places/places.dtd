@@ -7,7 +7,7 @@
 
 <!ENTITY file.accesskey "S">
 <!ENTITY file.close.label "Zavřít">
-<!ENTITY file.close.accesskey "Z">
+<!ENTITY file.close.accesskey "v">
 <!ENTITY cmd.close.key "w">
 <!ENTITY edit.label "Úpravy">
 <!ENTITY edit.accesskey "a">
@@ -85,7 +85,7 @@
 <!ENTITY cmd.open_tab.label "Otevřít v novém panelu">
 <!ENTITY cmd.open_tab.accesskey "p">
 <!ENTITY cmd.open_all_in_tabs.label "Otevřít vše v panelech">
-<!ENTITY cmd.open_all_in_tabs.accesskey "n">
+<!ENTITY cmd.open_all_in_tabs.accesskey "p">
 
 <!ENTITY cmd.properties.label "Vlastnosti">
 <!ENTITY cmd.properties.accesskey "V">
@@ -104,7 +104,7 @@
 <!ENTITY cmd.new_livemark.label "Nová aktuální záložka…">
 <!ENTITY cmd.new_livemark.accesskey "a">
 <!ENTITY cmd.new_folder.label "Nová složka…">
-<!ENTITY cmd.new_folder.accesskey "s">
+<!ENTITY cmd.new_folder.accesskey "v">
 <!ENTITY cmd.context_new_folder.accesskey "s">
 <!ENTITY cmd.new_separator.label "Nový oddělovač">
 <!ENTITY cmd.new_separator.accesskey "d">
