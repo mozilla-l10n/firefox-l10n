@@ -67,6 +67,7 @@
 <!ENTITY downloadPause.label "Pausa">
 <!ENTITY downloadResume.label "Continuar">
 <!ENTITY downloadRetry.label "Reintentar">
+<!ENTITY noResults.label "Sin resultados">
 <!ENTITY identity.unverifiedsite2 "Este sitio web no proporciona información de identidad.">
 <!ENTITY identity.connectedTo "Está conectado a">
 <!ENTITY identity.runBy "que pertenece a">

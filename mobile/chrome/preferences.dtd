@@ -2,8 +2,6 @@
 <!ENTITY showImages.title "Mostrar imágenes">
 <!ENTITY enableJavaScript.title "Activar JavaScript">
 <!ENTITY enableJavaScript.description "La mayoría de los sitios interactivos usan JavaScript">
-<!ENTITY javascript.options.jit.content.title "Habilitar traceado de JavaScript">
-<!ENTITY javascript.options.jit.content.description "Usar la compilación nativa de código en JavaScript (TraceMonkey)">
 <!ENTITY enablePlugins.title "Activar plugins">
 <!ENTITY enablePlugins.description "Los plugins son usados para contenido especial, como el vídeo">
 <!ENTITY privacy.title "Privacidad y seguridad">
