@@ -2,8 +2,6 @@
 <!ENTITY showImages.title "Показать изображения">
 <!ENTITY enableJavaScript.title "Использовать JavaScript">
 <!ENTITY enableJavaScript.description "Большинство интерактивных сайтов используют JavaScript">
-<!ENTITY javascript.options.jit.content.title "Включить трассировку JavaScript">
-<!ENTITY javascript.options.jit.content.description "Использовать компиляцию в нативный код в JavaScript">
 <!ENTITY enablePlugins.title "Использовать плагины">
 <!ENTITY enablePlugins.description "Плагины используются для специального контента, например видео">
 <!ENTITY privacy.title "Приватность и защита">
