@@ -2,8 +2,6 @@
 <!ENTITY showImages.title                          "Pokazuj obrazki">
 <!ENTITY enableJavaScript.title                    "Włącz JavaScript">
 <!ENTITY enableJavaScript.description              "Większość interaktywnych stron używa JavaScriptu">
-<!ENTITY javascript.options.jit.content.title      "Włącz śledzenie kodu w JavaScript">
-<!ENTITY javascript.options.jit.content.description "Użyj natywnej kompilacji kodu w JavaScripcie">
 <!ENTITY enablePlugins.title                       "Włącz wtyczki">
 <!ENTITY enablePlugins.description                 "Wtyczki są używane do wyświetlania specjalnych elementów takich jak wideo">
 <!ENTITY privacy.title                             "Prywatność i bezpieczeństwo">
