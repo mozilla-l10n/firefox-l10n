@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  validation.crlmanager.label             "管理廢止清冊 (CRL)">
-<!ENTITY  validation.crlmanager.description       "下列憑證廢止清冊 (CRL) 已存於你的憑證資料庫:">
+<!ENTITY  validation.crlmanager.description       "下列憑證廢止清冊 (CRL) 已存於您的憑證資料庫:">
 <!ENTITY  validation.crlname.label                "名稱">
 <!ENTITY  validation.crllastupdate.label          "上次更新">
 <!ENTITY  validation.crlnextupdate.label          "下次更新">

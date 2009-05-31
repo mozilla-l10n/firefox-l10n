@@ -45,7 +45,7 @@
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "網站名稱:">
 <!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip             "選擇你要輸出到哪個網站">
+<!ENTITY siteList.tooltip             "選擇您要輸出到哪個網站">
 <!ENTITY newSiteButton.label          "新網站">
 <!ENTITY newSiteButton.accesskey      "N">
 <!ENTITY docDirList.label             "此頁面的網頁目錄:">
@@ -83,16 +83,16 @@
 <!ENTITY siteName.tooltip             "輸出網站的暱稱 (例:「MySite」)">
 <!ENTITY siteUrl.label                "發佈網址URL (例:ftp://ftp.myisp.com/myusername):">
 <!ENTITY siteUrl.accesskey            "a">
-<!ENTITY siteUrl.tooltip              "你的 ISP 或網站所指定的 FTP:// 或 HTTP:// 網址">
-<!ENTITY browseUrl.label              "你的首頁的 HTTP 網址(例:http://www.myisp.com/myusername/):">
+<!ENTITY siteUrl.tooltip              "您的 ISP 或網站所指定的 FTP:// 或 HTTP:// 網址">
+<!ENTITY browseUrl.label              "您的首頁的 HTTP 網址(例:http://www.myisp.com/myusername/):">
 <!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip            "你的首頁的 HTTP:// 網址 (請勿指定檔名) ">
+<!ENTITY browseUrl.tooltip            "您的首頁的 HTTP:// 網址 (請勿指定檔名) ">
 <!ENTITY username.label               "使用者名稱:">
 <!ENTITY username.accesskey           "U">
-<!ENTITY username.tooltip             "用來登入你的ISP或網站的使用者名稱">
+<!ENTITY username.tooltip             "用來登入您的ISP或網站的使用者名稱">
 <!ENTITY password.label               "密碼:">
 <!ENTITY password.accesskey           "w">
-<!ENTITY password.tooltip             "你所使用帳號的密碼">
+<!ENTITY password.tooltip             "您所使用帳號的密碼">
 <!ENTITY savePassword.label           "儲存密碼">
 <!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "選此以用密碼管理員來讓你儲存的密碼更安全">
+<!ENTITY savePassword.tooltip         "選此以用密碼管理員來讓您儲存的密碼更安全">

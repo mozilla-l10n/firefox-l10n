@@ -11,7 +11,7 @@
 <!ENTITY maximumConnectionsNumber.label "快取的最大伺服器連線數">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "下列設定指定你的 IMAP 伺服器上的命名空間 (namespace)">
+<!ENTITY namespaceDesc.label "下列設定指定您的 IMAP 伺服器上的命名空間 (namespace)">
 <!ENTITY personalNamespace.label "個人命名空間:">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "公開 (共享) 空間:">

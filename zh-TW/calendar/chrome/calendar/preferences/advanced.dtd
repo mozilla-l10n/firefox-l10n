@@ -53,7 +53,7 @@
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "g">
 
 <!-- Passwords -->
-<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; 可以記住你所有行事曆的密碼，所以你不需要重新輸入你的登入資訊。">
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; 可以記住您所有行事曆的密碼，所以您不需要重新輸入您的登入資訊。">
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "使用主控密碼加密所儲存的密碼">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "設定後，主控密碼會保護所有的密碼，但每個作業階段都需要輸入一次。">

@@ -6,7 +6,7 @@
 <!ENTITY pluginWizard.availablePluginsPage.title             "可用的外掛程式下載">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "找到下列外掛程式:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "請按下一步以安裝這些外掛程式。">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "有些外掛程式安裝時需要你提供額外的資訊。">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "有些外掛程式安裝時需要您提供額外的資訊。">
 
 <!ENTITY pluginWizard.licensePage.title                      "外掛程式授權條款">
 <!ENTITY pluginWizard.licensePage.accept.label               "我同意。">
@@ -22,4 +22,4 @@
   
 <!ENTITY missingPlugin.label                                 "按這裡下載外掛程式。">
 <!ENTITY disabledPlugin.label                                "用於此內容的外掛已停用。請按此處管理外掛。">
-<!ENTITY blockedPlugin.label                                 "此外掛已阻擋以保護你的電腦。">
+<!ENTITY blockedPlugin.label                                 "此外掛已阻擋以保護您的電腦。">

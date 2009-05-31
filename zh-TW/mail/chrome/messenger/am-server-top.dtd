@@ -43,7 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "自動下載所有新郵件或文章">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "你的帳號名稱">
+<!ENTITY username.label "您的帳號名稱">
 <!ENTITY deleteMessagePrefix.label "當我刪除郵件時:">
 <!ENTITY modelMoveToTrash.label "丟到垃圾桶中">
 <!ENTITY modelMoveToTrash.accesskey "o">

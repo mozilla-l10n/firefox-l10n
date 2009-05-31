@@ -28,10 +28,10 @@
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro         "&brandShortName; 可以幫你記住密碼等資訊，讓你不用每次登入時都要重複輸入密碼。">
+<!ENTITY savedPasswords.intro         "&brandShortName; 可以幫您記住密碼等資訊，讓您不用每次登入時都要重複輸入密碼。">
 <!ENTITY  encryptEnabled.label        "使用主控密碼對已存密碼加密">
 <!ENTITY  encryptEnabled.accesskey    "s">
-<!ENTITY  masterPassword.intro        "設定後，主控密碼可用來保護你其它所有的密碼 - 不過每次啟動程式時都要打一次主控密碼。">
+<!ENTITY  masterPassword.intro        "設定後，主控密碼可用來保護您其它所有的密碼 - 不過每次啟動程式時都要打一次主控密碼。">
 <!ENTITY  setMasterPassword.label     "主控密碼">
 <!ENTITY  setMasterPassword.accesskey "M">
 <!ENTITY  removeMasterPassword.label  "取消主控密碼...">

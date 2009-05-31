@@ -14,7 +14,7 @@
   <rdf:Description about="#use-help">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="use-help-finding-the-topic-you-want" nc:name="如何找到你想找的主題"
+        <rdf:li> <rdf:Description ID="use-help-finding-the-topic-you-want" nc:name="如何找到您想找的主題"
                   nc:link="chrome://help/locale/welcome.xhtml#finding_the_topic_you_want"/> </rdf:li>
         <rdf:li> <rdf:Description ID="use-help-search" nc:name="搜尋小技巧"
                   nc:link="chrome://help/locale/welcome.xhtml#search_tips"/> </rdf:li>

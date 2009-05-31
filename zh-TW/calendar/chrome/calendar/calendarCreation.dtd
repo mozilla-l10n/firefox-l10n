@@ -35,9 +35,9 @@
 
 <!ENTITY wizard.title             "建立新的行事曆" >
 <!ENTITY wizard.label             "建立新的行事曆" >
-<!ENTITY wizard.description       "設定你的行事曆" >
+<!ENTITY wizard.description       "設定您的行事曆" >
 
-<!ENTITY initialpage.description    "你的行事曆可以存放在電腦或存放在伺服器，以便於遠端存取或與朋友及同事分享。" >
+<!ENTITY initialpage.description    "您的行事曆可以存放在電腦或存放在伺服器，以便於遠端存取或與朋友及同事分享。" >
 <!ENTITY initialpage.computer.label  "存放於本機電腦">
 <!ENTITY initialpage.network.label  "存放於網際網路">
 
@@ -50,4 +50,4 @@
 <!ENTITY custompage.longdescription   "您可以為行事曆取一個暱稱，並將此行事曆的事件用色彩標記" >
 
 <!ENTITY finishpage.shortdescription  "已建立行事曆" >
-<!ENTITY finishpage.longdescription   "你的行事曆已經建立" >
+<!ENTITY finishpage.longdescription   "您的行事曆已經建立" >

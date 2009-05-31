@@ -48,9 +48,9 @@
 <!ENTITY calendar.calendar.accesskey "C">
 
 
-<!ENTITY calendar.confirm.deleteallevents "你確定要刪除所有選取的事件嗎？">
-<!ENTITY calendar.confirm.deleteevent "你確定要刪除下列事件嗎？">
-<!ENTITY calendar.confirm.deleteuntitledevent "你確定要刪除此無標題事件嗎？">
+<!ENTITY calendar.confirm.deleteallevents "您確定要刪除所有選取的事件嗎？">
+<!ENTITY calendar.confirm.deleteevent "您確定要刪除下列事件嗎？">
+<!ENTITY calendar.confirm.deleteuntitledevent "您確定要刪除此無標題事件嗎？">
 
 <!ENTITY calendar.flat.topbar.choosedate 	"選擇日期">
 <!ENTITY calendar.flat.topbar.dayview 		"日檢視">
@@ -315,7 +315,7 @@
 <!ENTITY calendar.context.showtasksof.label            "顯示工作:">
 <!ENTITY calendar.context.showtasksof.accesskey        "S">
 
-<!ENTITY calendar.tasks.view.minimonth.label           "迷你月">
+<!ENTITY calendar.tasks.view.minimonth.label           "迷您月">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "行事曆清單">

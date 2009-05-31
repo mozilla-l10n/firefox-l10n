@@ -100,7 +100,7 @@
 <!ENTITY  homeButton.label            "首頁">
 
 <!ENTITY bookmarksButton.label          "書籤">
-<!ENTITY bookmarksButton.tooltip        "顯示你的書籤">
+<!ENTITY bookmarksButton.tooltip        "顯示您的書籤">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -426,7 +426,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "此網站沒有提供身分識別資訊。">
-<!ENTITY identity.connectedTo "你已連線到">
+<!ENTITY identity.connectedTo "您已連線到">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 

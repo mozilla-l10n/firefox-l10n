@@ -1,7 +1,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "語言">
-<!ENTITY languages.customize.prefLangDescript           "有些網頁提供多國語言版本，可在此設定你的偏好順序。">
+<!ENTITY languages.customize.prefLangDescript           "有些網頁提供多國語言版本，可在此設定您的偏好順序。">
 <!ENTITY languages.customize.active.label               "依下面的順序搜尋可用的語言:">
 <!ENTITY languages.customize.moveUp.label               "上移">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
