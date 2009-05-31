@@ -1,4 +1,4 @@
-<!ENTITY  typeColumn.label        "檔案類型">
+<!ENTITY  typeColumn.label        "內容類型">
 <!ENTITY  typeColumn.accesskey    "t">
 
 <!ENTITY  actionColumn2.label     "動作">

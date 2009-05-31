@@ -5,9 +5,9 @@
 <!ENTITY security.warn_entering_secure.accesskey  "v">
 <!ENTITY security.warn_entering_weak.label        "準備瀏覽較低階的加密頁面時">
 <!ENTITY security.warn_entering_weak.accesskey    "g">
-<!ENTITY security.warn_leaving_secure.label       "離開加密頁面時">
+<!ENTITY security.warn_leaving_secure.label       "離開加密頁面前往未加密頁面時">
 <!ENTITY security.warn_leaving_secure.accesskey   "l">
-<!ENTITY security.warn_submit_insecure.label      "於未加密頁面傳送資訊時">
+<!ENTITY security.warn_submit_insecure.label      "傳送未加密的資訊時">
 <!ENTITY security.warn_submit_insecure.accesskey  "s">
-<!ENTITY security.warn_viewing_mixed.label        "當加密頁面包含未加密部份時">
+<!ENTITY security.warn_viewing_mixed.label        "準備瀏覽包含未加密資訊的加密頁面時">
 <!ENTITY security.warn_viewing_mixed.accesskey    "u">

@@ -24,7 +24,7 @@
 <!ENTITY printBG.label       "列印背景 (顏色與圖片) ">
 <!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "邊界與標頭／註腳">
+<!ENTITY advanced.tab        "邊界與頁首／頁尾">
 
 <!ENTITY marginGroup.label   "邊界 (#1) ">
 <!ENTITY marginUnits.inches  "英吋">
@@ -38,7 +38,7 @@
 <!ENTITY marginRight.label   "右邊:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "標頭與註腳">
+<!ENTITY headerFooter.label  "頁首與頁尾">
 
 <!ENTITY hfLeft.label        "左邊:">
 <!ENTITY hfCenter.label      "中間:">
@@ -59,4 +59,4 @@
 <!ENTITY hfCustom            "自訂…">
 
 <!ENTITY customPrompt.title  "自訂…">
-<!ENTITY customPrompt.prompt "輸入你自訂的標頭／註腳文字">
+<!ENTITY customPrompt.prompt "輸入你自訂的頁首／頁尾文字">

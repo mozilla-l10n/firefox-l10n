@@ -10,7 +10,7 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "要開始建立設定檔請按「下一步」。">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "若你建立多個設定檔則可用名稱來區分，請參考下面的建議名稱或用你自己喜歡的名子。">
+<!ENTITY profileCreationIntro.text      "若你建立多個設定檔則可用名稱來區分，請參考下面的建議名稱或用你自己喜歡的名字。">
 <!ENTITY profilePrompt.label            "輸入新設定檔名稱:">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "你的使用者設定、偏好設定和其他個人資料會存放於:">

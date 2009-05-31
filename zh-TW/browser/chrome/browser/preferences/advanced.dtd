@@ -20,7 +20,7 @@
 <!ENTITY checkSpelling.label             "打字時即時檢查拼字">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "系統預設程式">
+<!ENTITY systemDefaults.label            "預設網頁瀏覽器">
 <!ENTITY alwaysCheckDefault.label        "啟動時永遠檢查 &brandShortName; 是否為預設瀏覽器"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "立刻檢查">
@@ -93,7 +93,7 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "檢視憑證清單">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "廢止清冊">
+<!ENTITY viewCRLs.label                  "廢止清單">
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "驗證">
 <!ENTITY verify2.accesskey               "V">

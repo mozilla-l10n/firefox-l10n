@@ -121,7 +121,7 @@
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "網路搜尋">
 <!ENTITY search.accesskey             "S">
-<!ENTITY downloads.label              "下載管理員">
+<!ENTITY downloads.label              "下載">
 <!ENTITY downloads.tooltip            "顯示下載進度">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
@@ -389,7 +389,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "基本頁面樣式">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "改變此網站開啟彈出 (廣告) 視窗的設定">
+<!ENTITY pageReportIcon.tooltip            "變更此網站開啟彈出 (廣告) 視窗的設定">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
