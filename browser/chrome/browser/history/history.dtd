@@ -12,7 +12,7 @@
 <!ENTITY view.accesskey "w">
 <!ENTITY byMostVisited.label "依瀏覽次數">
 <!ENTITY byMostVisited.accesskey "V">
-<!ENTITY byLastVisited.label "依最後瀏覽">
+<!ENTITY byLastVisited.label "依瀏覽順序">
 <!ENTITY byLastVisited.accesskey "L">
 <!ENTITY byDayAndSite.label "依日期及網站">
 <!ENTITY byDayAndSite.accesskey "t">

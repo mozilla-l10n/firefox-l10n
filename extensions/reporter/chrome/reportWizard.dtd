@@ -25,7 +25,7 @@
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
 <!ENTITY reportForm.problem_type.item1.title        "不支援瀏覽器">
 <!ENTITY reportForm.problem_type.item2.title        "無法登入">
-<!ENTITY reportForm.problem_type.item3.title        "未顯示 Plugin">
+<!ENTITY reportForm.problem_type.item3.title        "外掛程式無法顯示">
 <!ENTITY reportForm.problem_type.item4.title        "其它內容消失問題">
 <!ENTITY reportForm.problem_type.item5.title        "各種操作行為 (Behavior) 錯誤">
 <!ENTITY reportForm.problem_type.item6.title        "顯示方式錯誤">

@@ -6,7 +6,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "原始碼:">
+<!ENTITY mainWindow.preface "原始碼: ">
 
 <!ENTITY fileMenu.label "檔案">
 <!ENTITY fileMenu.accesskey "F">

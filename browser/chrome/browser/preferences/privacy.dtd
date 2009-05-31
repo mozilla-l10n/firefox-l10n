@@ -99,7 +99,7 @@
 <!ENTITY  rememberDownload.label         "保留我的下載記錄">
 <!ENTITY  rememberDownload.accesskey     "d">
 
-<!ENTITY  rememberSearchForm.label       "保留我的表單與搜尋列輸入的內容">
+<!ENTITY  rememberSearchForm.label       "保留我的搜尋列與表單輸入的內容">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "結束 &brandShortName; 時清除歷史記錄">

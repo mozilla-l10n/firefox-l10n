@@ -60,10 +60,10 @@
 <!ENTITY loaddevice.info                        "輸入要新增的模組資訊。">
 <!ENTITY loaddevice.modname                     "模組名稱:">
 <!ENTITY loaddevice.modname.accesskey           "M">
-<!ENTITY loaddevice.modname.default             "新增 PKCS#11 模組">
+<!ENTITY loaddevice.modname.default             "新 PKCS#11 模組">
 <!ENTITY loaddevice.filename                    "模組檔名:">
 <!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "瀏覽…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "載入 PKCS#11 模組">
+<!ENTITY loaddevice.title                       "載入 PKCS#11 裝置">
