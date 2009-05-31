@@ -54,7 +54,7 @@
 <!ENTITY codeEval.label "Kód:">
 <!ENTITY codeEval.accesskey "K">
 <!ENTITY evaluate.label "Vyhodnotit">
-<!ENTITY evaluate.accesskey "v">
+<!ENTITY evaluate.accesskey "h">
 
 <!ENTITY copyCmd.label "Kopírovat">
 <!ENTITY copyCmd.accesskey "K">

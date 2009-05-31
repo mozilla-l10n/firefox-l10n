@@ -2,8 +2,6 @@
 <!ENTITY showImages.title "Zobrazit obrázky">
 <!ENTITY enableJavaScript.title "Povolit Javascript">
 <!ENTITY enableJavaScript.description "Most interactive sites use JavaScript">
-<!ENTITY javascript.options.jit.content.title "Povolit JavaScript tracing">
-<!ENTITY javascript.options.jit.content.description "Povolit překlad JavaScriptu do nativního kódu">
 <!ENTITY enablePlugins.title "Povolit moduly">
 <!ENTITY enablePlugins.description "Zásuvné moduly se používají pro speciální obsah jako např. video">
 <!ENTITY privacy.title "Soukromí a bezpečnost">
