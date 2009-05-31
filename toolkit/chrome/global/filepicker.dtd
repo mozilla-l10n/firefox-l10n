@@ -10,7 +10,7 @@
 <!ENTITY showHiddenFiles.label  "顯示隱藏檔案及目錄">
 <!ENTITY showHiddenFiles.accesskey  "S">
 
-<!ENTITY noPermissionError.label "你沒有檢視此目錄的權限。">
+<!ENTITY noPermissionError.label "您沒有檢視此目錄的權限。">
 
 <!ENTITY folderUp.tooltiptext   "上一層">
 <!ENTITY folderHome.tooltiptext "到個人家目錄">

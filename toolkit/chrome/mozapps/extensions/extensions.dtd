@@ -111,7 +111,7 @@
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "未提供經由加密連線的更新。">
 <!ENTITY needsDependencies.label          "需要額外的項目。">
-<!ENTITY blocklisted.label                "為了保護你的電腦，此項目已停用。">
+<!ENTITY blocklisted.label                "為了保護您的電腦，此項目已停用。">
 <!ENTITY softBlocklisted.label            "已知會造成程式不穩定或是安全性問題。">
 <!ENTITY toBeDisabled.label               "重新啟動 &brandShortName; 後此附加元件會被停用。">
 <!ENTITY toBeEnabled.label                "重新啟動 &brandShortName; 後此附加元件會被啟用。">

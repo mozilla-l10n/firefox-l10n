@@ -11,7 +11,7 @@
 <!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "註: 請用通訊錄指定個別收件者可接收的郵件格式。">
 
-<!ENTITY domaindesc.label             "當你寄信到下列網域時，&brandShortName; 會自動送出相對應的格式。">
+<!ENTITY domaindesc.label             "當您寄信到下列網域時，&brandShortName; 會自動送出相對應的格式。">
 <!ENTITY HTMLTab.label                "HTML 格式網域">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "純文字網域">

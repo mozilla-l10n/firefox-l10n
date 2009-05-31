@@ -14,7 +14,7 @@
 <!ENTITY  checking.status                 "這可能會花一段時間…">
 
 <!ENTITY  found.wizard.title               "找到相容的附加元件">
-<!ENTITY  found.top.label                 "選擇你想安裝的附加元件:">
+<!ENTITY  found.top.label                 "選擇您想安裝的附加元件:">
 <!ENTITY  found.disabledXPinstall.label   "這些更新無法安裝，因為軟體安裝目前被停用，請更改下面的設定。">
 <!ENTITY  found.enableXPInstall.label     "允許網站安裝軟體">
 <!ENTITY  found.enableXPInstall.accesskey "A">
@@ -25,12 +25,12 @@
 <!ENTITY  noupdates.wizard.title          "找不到相容的附加元件">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; 找不到不相容元件的更新檔。">
 <!ENTITY  noupdates.error.desc            "當試圖尋找更新時發生問題。">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; 會定期檢查並在相容的更新檔出現時通知你。">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; 會定期檢查並在相容的更新檔出現時通知您。">
 
 <!ENTITY  finished.wizard.title           "已安裝相容的附加元件">
 <!ENTITY  finished.top.label              "&brandShortName; 已安裝附加元件的更新。">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; 能定期檢查並在相容的更新檔出現時通知你。">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; 會定期檢查並在相容的更新檔出現時通知你。">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; 能定期檢查並在相容的更新檔出現時通知您。">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; 會定期檢查並在相容的更新檔出現時通知您。">
 
 <!ENTITY  adminDisabled.wizard.title      "無法檢查更新">
 <!ENTITY  adminDisabled.warning.label     "因為 &brandShortName; 軟體安裝功能被停用，所以不能檢查是否有不相容元件的更新檔。請聯絡系統管理員提供協助。">

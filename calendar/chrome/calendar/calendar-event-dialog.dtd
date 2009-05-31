@@ -145,6 +145,6 @@
 
 <!-- Information messages -->
 <!ENTITY newevent.endtime.warning           "「開始時間」比「結束時間」還晚。">
-<!ENTITY newevent.readonly.item.warning     "此項目位於唯讀行事曆內，你無法編輯。">
+<!ENTITY newevent.readonly.item.warning     "此項目位於唯讀行事曆內，您無法編輯。">
 <!ENTITY newevent.readonly.cal.warning      "此行事曆為唯讀。">
 <!ENTITY newtodo.repeatstart.warning        "「週期性」項目需要開始日期">

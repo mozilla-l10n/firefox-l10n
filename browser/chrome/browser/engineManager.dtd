@@ -1,6 +1,6 @@
 <!ENTITY  engineManager.title       "管理搜尋引擎列表">
 <!ENTITY  engineManager.style       "min-width: 35em;">
-<!ENTITY  engineManager.intro       "你已安裝了下列的搜尋引擎:">
+<!ENTITY  engineManager.intro       "您已安裝了下列的搜尋引擎:">
 
 <!ENTITY  columnLabel.name          "名稱">
 <!ENTITY  columnLabel.keyword       "關鍵字">

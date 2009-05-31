@@ -64,7 +64,7 @@
 <!ENTITY return.label                      "不要傳回超過">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "個結果">
-<!ENTITY offlineText.label                 "你可以下載此目錄以供離線閱讀。">
+<!ENTITY offlineText.label                 "您可以下載此目錄以供離線閱讀。">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

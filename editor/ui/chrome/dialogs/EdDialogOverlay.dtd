@@ -44,7 +44,7 @@
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "網址 URL 是相對於此網頁位址">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "相對與絕對路徑的轉換。你要先存檔才能改變此頁。">
+<!ENTITY makeUrlRelative.tooltip "相對與絕對路徑的轉換。您要先存檔才能改變此頁。">
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "輸入網址、檔案路徑，或由選單中選取:">

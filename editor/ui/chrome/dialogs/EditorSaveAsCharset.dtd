@@ -43,7 +43,7 @@
 <!ENTITY windowTitle.label "另存字元編碼方式">
 <!ENTITY documentTitleTitle.label "文件標題">
 <!ENTITY documentCharsetTitle.label "語言及字元編碼方式">
-<!ENTITY documentCharsetDesc.label "選擇你想要另存的語言及字元編碼:">
+<!ENTITY documentCharsetDesc.label "選擇您想要另存的語言及字元編碼:">
 <!ENTITY documentExportToText.label "輸出純文字">
 
 
