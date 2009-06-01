@@ -1,0 +1,108 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY downloadManager.title           "Atsiuntimų tvarkytuvė">
+
+<!ENTITY menuBar.tooltip                 "Meniu juosta">
+<!ENTITY searchBar.tooltip               "Paieškos laukas">
+
+<!ENTITY search.emptytext                "Ieškoti atsiuntimo">
+<!ENTITY search.label                    "Atsiuntimo paieška">
+<!ENTITY search.accesskey                "p">
+<!ENTITY search.key                      "f">
+
+<!ENTITY cmd.clearList.label             "Išvalyti sąrašą">
+<!ENTITY cmd.clearList.tooltip           "Iš sąrašo pašalinami užbaigtų, atsisakytų ir nepavykusių atsiuntimų aprašai">
+<!ENTITY cmd.clearList.accesskey         "v">
+
+<!ENTITY col.name.label                  "Vardas">
+<!ENTITY col.name.accesskey              "V">
+<!ENTITY col.name.tooltip                "Failo vardas">
+<!ENTITY col.status.label                "Būsena">
+<!ENTITY col.status.accesskey            "B">
+<!ENTITY col.status.tooltip              "Būsena">
+<!ENTITY col.actionPlay.label            "Pristabdyti/Tęsti/Iš naujo">
+<!ENTITY col.actionPlay.accesskey        "s">
+<!ENTITY col.actionPlay.tooltip          "Pristabdyti/Tęsti/Iš naujo">
+<!ENTITY col.actionStop.label            "Atsisakyti/Pašalinti">
+<!ENTITY col.actionStop.accesskey        "š">
+<!ENTITY col.actionStop.tooltip          "Atsisakyti/Pašalinti">
+<!ENTITY col.progress.label              "Eiga">
+<!ENTITY col.progress.accesskey          "E">
+<!ENTITY col.progress.tooltip            "Eiga">
+<!ENTITY col.timeremaining.label         "Likęs laikas">
+<!ENTITY col.timeremaining.accesskey     "L">
+<!ENTITY col.timeremaining.tooltip       "Likęs laikas">
+<!ENTITY col.transferred.label           "Atsiųsta">
+<!ENTITY col.transferred.accesskey       "A">
+<!ENTITY col.transferred.tooltip         "Atsiųsta">
+<!ENTITY col.transferrate.label          "Sparta">
+<!ENTITY col.transferrate.accesskey      "t">
+<!ENTITY col.transferrate.tooltip        "Sparta">
+<!ENTITY col.timeelapsed.label           "Praėjęs laikas">
+<!ENTITY col.timeelapsed.accesskey       "ė">
+<!ENTITY col.timeelapsed.tooltip         "Praėjęs laikas">
+<!ENTITY col.progresstext.label          "&#37;">
+<!ENTITY col.progresstext.accesskey      "&#37;">
+<!ENTITY col.progresstext.tooltip        "Eiga (&#37;)">
+<!ENTITY col.source.label                "Šaltinis">
+<!ENTITY col.source.accesskey            "n">
+<!ENTITY col.source.tooltip              "Šaltinis">
+
+<!ENTITY view.columns.label              "Rodomi stulpeliai">
+<!ENTITY view.columns.accesskey          "o">
+<!ENTITY view.sortBy.label               "Rikiuoti pagal">
+<!ENTITY view.sortBy.accesskey           "R">
+
+<!ENTITY view.unsorted.label             "Nerikiuoti">
+<!ENTITY view.unsorted.accesskey         "N">
+<!ENTITY view.sortAscending.label        "Pagal abėcėlę">
+<!ENTITY view.sortAscending.accesskey    "A">
+<!ENTITY view.sortDescending.label       "Prieš abėcėlę">
+<!ENTITY view.sortDescending.accesskey   "r">
+
+<!ENTITY cmd.pause.label                 "Pristabdyti">
+<!ENTITY cmd.pause.accesskey             "s">
+<!ENTITY cmd.resume.label                "Tęsti">
+<!ENTITY cmd.resume.accesskey            "T">
+<!ENTITY cmd.retry.label                 "Iš naujo">
+<!ENTITY cmd.retry.accesskey             "n">
+<!ENTITY cmd.cancel.label                "Atsisakyti">
+<!ENTITY cmd.cancel.accesskey            "A">
+<!ENTITY cmd.remove.label                "Pašalinti iš sąrašo">
+<!ENTITY cmd.remove.accesskey            "š">
+<!ENTITY cmd.open.label                  "Atverti">
+<!ENTITY cmd.open.accesskey              "A">
+<!ENTITY cmd.show.label                  "Atverti aplanką">
+<!ENTITY cmd.show.accesskey              "v">
+<!ENTITY cmd.goToDownloadPage.label      "Eiti į atsisiuntimo tinklalapį">
+<!ENTITY cmd.goToDownloadPage.accesskey  "E">
+<!ENTITY cmd.copyDownloadLink.label      "Kopijuoti šaltinio adresą">
+<!ENTITY cmd.copyDownloadLink.accesskey  "K">

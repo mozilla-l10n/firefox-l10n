@@ -353,10 +353,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.label "Laiškas…">
 <!ENTITY newNewMsgCmd.accesskey "L">
 <!ENTITY archiveMsgCmd.label "Archyvuoti">
-<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.accesskey "c">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Atsakyti">
-<!ENTITY replyMsgCmd.accesskey "t">
+<!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replySenderCmd.label "Atsakyti siuntėjui">
 <!ENTITY replySenderCmd.accesskey "s">
