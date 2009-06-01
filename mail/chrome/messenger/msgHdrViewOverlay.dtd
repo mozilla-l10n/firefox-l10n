@@ -47,7 +47,7 @@
 <!ENTITY bccField2.label "bcc ">
 <!ENTITY newsgroupsField2.label "nhóm tin ">
 <!ENTITY followupToField2.label "trả lời tin tại ">
-<!ENTITY tagsHdr2.label "thẻ tag ">
+<!ENTITY tagsHdr2.label "nhãn ">
 <!ENTITY dateField2.label "ngày ">
 <!ENTITY userAgentField2.label "chương trình ">
 <!ENTITY referencesField2.label "tham khảo ">
@@ -60,6 +60,7 @@
 <!ENTITY archiveButton.label "lưu trữ">
 <!ENTITY hdrReplyButton.label "trả lời">
 <!ENTITY hdrReplyAllButton.label "trả lời tất cả">
+<!ENTITY hdrReplyListButton.label "trả lời danh sách">
 <!ENTITY hdrForwardButton.label "chuyển tiếp">
 <!ENTITY hdrJunkButton.label "thư rác">
 <!ENTITY trashButton.tooltiptext "xóa">

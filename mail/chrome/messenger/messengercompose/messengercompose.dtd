@@ -152,7 +152,7 @@
 <!ENTITY highestPriorityCmd.accesskey "C">
 <!ENTITY fileCarbonCopyCmd.label "Gửi một Bản sao Tới">
 <!ENTITY fileCarbonCopyCmd.accesskey "m">
-<!ENTITY fileHereMenu.label "Tập tin Tại đây">
+<!ENTITY fileHereMenu.label "Xếp Vào Đây">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Công cụ">
