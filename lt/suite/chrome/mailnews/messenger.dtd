@@ -334,6 +334,9 @@
 <!ENTITY newMsgCmd.accesskey "l">
 <!ENTITY newNewMsgCmd.label "Laiškas…">
 <!ENTITY newNewMsgCmd.accesskey "L">
+<!ENTITY archiveMsgCmd.label "Archyvuoti">
+<!ENTITY archiveMsgCmd.accesskey "c">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Atsakyti">
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key	"r">
@@ -493,6 +496,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "n">
 <!ENTITY contextEditAsNew.label "Paruošti siuntimui…">
 <!ENTITY contextEditAsNew.accesskey "u">
+<!ENTITY contextArchive.label "Archyvuoti">
+<!ENTITY contextArchive.accesskey "c">
 <!ENTITY contextReplySender.label "Atsakyti">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup.label "Atsakyti naujienų grupei">
