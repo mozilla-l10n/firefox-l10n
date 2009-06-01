@@ -62,6 +62,7 @@
 <!ENTITY archiveButton.label "archyvuoti">
 <!ENTITY hdrReplyButton.label "atsakyti">
 <!ENTITY hdrReplyAllButton.label "atsakyti visiems">
+<!ENTITY hdrReplyListButton.label "atsakyti el. pašto grupei">
 <!ENTITY hdrForwardButton.label "persiųsti">
 <!ENTITY hdrJunkButton.label "šlamštas">
 <!ENTITY trashButton.tooltiptext "pašalinti">
