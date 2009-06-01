@@ -337,6 +337,9 @@
 <!ENTITY replyToAllMsgCmd.label         "Odpowiedz wszystkim">
 <!ENTITY replyToAllMsgCmd.accesskey     "w">
 <!ENTITY replyToAllMsgCmd.key           "r">
+<!ENTITY replyToListMsgCmd.label        "Odpowiedz liście dyskusyjnej">
+<!ENTITY replyToListMsgCmd.accesskey    "l">
+<!ENTITY replyToListMsgCmd.key          "l">
 <!ENTITY forwardMsgCmd.label            "Przekaż">
 <!ENTITY forwardMsgCmd.accesskey        "P">
 <!ENTITY forwardMsgCmd.key              "l">
@@ -459,6 +462,7 @@
 <!ENTITY newMsgButton.label     "Napisz">
 <!ENTITY replyButton.label      "Odpowiedz">
 <!ENTITY replyAllButton.label   "Odp. wszystkim">
+<!ENTITY replyListButton.label  "Odp. liście">
 <!ENTITY forwardButton.label    "Przekaż">
 <!ENTITY fileButton.label       "Przenieś">
 <!ENTITY nextButton.label       "Następna">
@@ -490,6 +494,7 @@
 <!ENTITY newMsgButton.tooltip      "Utwórz nową wiadomość">
 <!ENTITY replyButton.tooltip       "Odpowiedz na wiadomość">
 <!ENTITY replyAllButton.tooltip    "Odpowiedz nadawcy i wszystkim adresatom">
+<!ENTITY replyListButton.tooltip   "Odpowiedz liście dyskusyjnej">
 <!ENTITY forwardButton.tooltip     "Przekaż wybraną wiadomość">
 <!ENTITY fileButton.tooltip        "Przenieś zaznaczoną wiadomość">
 <!ENTITY nextButton.tooltip        "Przejdź do następnej nieprzeczytanej wiadomości">
@@ -639,6 +644,8 @@
 <!ENTITY contextReplyNewsgroup.accesskey "u">
 <!ENTITY contextReplyAll.label           "Odpowiedz wszystkim">
 <!ENTITY contextReplyAll.accesskey       "w">
+<!ENTITY contextReplyList.label          "Odpowiedz liście dyskusyjnej">
+<!ENTITY contextReplyList.accesskey      "l">
 <!ENTITY contextForward.label            "Przekaż">
 <!ENTITY contextForward.accesskey        "P">
 <!ENTITY contextForwardAsAttachment.label       "Przekaż jako załącznik">

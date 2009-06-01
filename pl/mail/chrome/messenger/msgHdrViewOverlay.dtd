@@ -64,6 +64,7 @@
 <!ENTITY archiveButton.label          "archiwizuj">
 <!ENTITY hdrReplyButton.label         "odpowiedz">
 <!ENTITY hdrReplyAllButton.label      "odpowiedz wszystkim">
+<!ENTITY hdrReplyListButton.label     "odpowiedz liście">
 <!ENTITY hdrForwardButton.label       "przekaż">
 <!ENTITY hdrJunkButton.label          "niechciana">
 <!ENTITY trashButton.tooltiptext      "Usuń">
