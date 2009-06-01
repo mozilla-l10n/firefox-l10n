@@ -28,16 +28,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY content.title                                 "Turinys">
-<!ENTITY showImages.title                              "Įkelti paveikslus">
-<!ENTITY enableJavaScript.title                        "Leisti naudoti „JavaScript“">
-<!ENTITY enableJavaScript.description                  "Dauguma interaktyvių svetainių naudoja „JavaScript“">
-<!ENTITY enablePlugins.title                           "Leisti papildinius">
-<!ENTITY enablePlugins.description                     "Papildiniai reikalingi atvaizduoti kai kurių tipų turiniui, pavyzdžiui, vaizdo įrašams">
-<!ENTITY privacy.title                                 "Privatumas ir saugumas">
-<!ENTITY allowCookies.title                            "Leisti įrašyti slapukus">
-<!ENTITY allowCookies.description                      "Svetainės pasitelkia slapukus Jūsų atpažinimui ir nuostatų įsiminimui">
-<!ENTITY clearPrivateData.title                        "Valyti šviežiausius žurnalo įrašus">
-<!ENTITY clearPrivateData.button                       "Valyti">
-<!ENTITY clearPrivateData.description                  "Žurnalas padeda „&brandShortName;“ Jums teikti adresų siūlymus">
-<!ENTITY rememberPasswords.title                       "Įsiminti slaptažodžius">
+<!-- 
+     LOCALIZATION NOTE (geolocation.learnMore): Use the
+     unicode ellipsis char, \u2026,
+     or use "..." unless \u2026 doesn't suit traditions in your
+     locale.
+-->
+<!ENTITY geolocation.learnMore         "Plačiau…">
