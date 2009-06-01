@@ -14,7 +14,7 @@
 <!ENTITY restoreDefault.label "Kembalikan ke Default">
 <!ENTITY restoreDefault.accesskey "d">
 <!ENTITY downloads.label "Unduhan">
-<!ENTITY showWhenDownloading.label "Tampilkan jendela Unduhan ketika sedang mengunduh">
+<!ENTITY showWhenDownloading.label "Tampilkan jendela Unduhan ketika sedang mengunduh berkas">
 <!ENTITY showWhenDownloading.accesskey "U">
 <!ENTITY closeWhenDone.label "Tutup setelah semua unduhan selesai">
 <!ENTITY closeWhenDone.accesskey "t">

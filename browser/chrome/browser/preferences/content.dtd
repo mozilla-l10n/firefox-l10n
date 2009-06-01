@@ -13,7 +13,7 @@
 <!ENTITY enableJava.label "Aktifkan Java">
 <!ENTITY enableJava.accesskey "j">
 <!ENTITY fontsAndColors.label "Huruf &amp; Warna">
-<!ENTITY defaultFont.label "Huruf Default:">
+<!ENTITY defaultFont.label "Huruf default:">
 <!ENTITY defaultFont.accesskey "h">
 <!ENTITY defaultSize.label "Ukuran:">
 <!ENTITY defaultSize.accesskey "u">

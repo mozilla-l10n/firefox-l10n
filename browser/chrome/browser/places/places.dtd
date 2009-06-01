@@ -117,7 +117,7 @@
 <!ENTITY col.description.label "Deskripsi">
 <!ENTITY col.dateadded.label "Ditambahkan pada">
 <!ENTITY col.lastmodified.label "Modifikasi Terakhir">
-<!ENTITY search.label "Cari di:">
+<!ENTITY search.label "Cari:">
 <!ENTITY search.accesskey "C">
 <!ENTITY search.scopeFolder.label "Folder Terpilih">
 <!ENTITY search.scopeFolder.accesskey "T">

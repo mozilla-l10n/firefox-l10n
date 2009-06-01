@@ -35,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Kamus Pengecek Ejaan Pribadi">
+<!ENTITY windowTitle.label "Kamus Pemeriksa Ejaan Pribadi">
 <!ENTITY wordEditField.label "Kata baru:">
 <!ENTITY wordEditField.accessKey "B">
 <!ENTITY AddButton.label "Tambah">

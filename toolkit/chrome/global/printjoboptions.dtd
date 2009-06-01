@@ -19,7 +19,7 @@
 <!ENTITY fontsGroup.label "Huruf:">
 <!ENTITY downloadFonts.label "Unduh huruf ke printer?">
 <!ENTITY downloadFonts.accesskey "h">
-<!ENTITY edgeMarginInput.label "Jarak antara ujung kertas ke Marjin">
+<!ENTITY edgeMarginInput.label "Jarak antara ujung kertas ke margin">
 <!ENTITY topInput.label "Atas:">
 <!ENTITY topInput.accesskey "A">
 <!ENTITY bottomInput.label "Bawah:">
