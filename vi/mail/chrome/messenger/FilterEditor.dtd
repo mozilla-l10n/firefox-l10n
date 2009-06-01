@@ -28,7 +28,7 @@
 <!ENTITY markMessageRead.label "Đánh Dấu Đã Đọc">
 <!ENTITY markMessageStarred.label "Thêm Sao">
 <!ENTITY setPriority.label "Thiết lập Mức ưu tiên thành">
-<!ENTITY addTag.label "Dán tag cho Thư">
+<!ENTITY addTag.label "Dán Nhãn cho Thư">
 <!ENTITY setJunkScore.label "Thiết lập Trạng thái Thư rác thành">
 <!ENTITY deleteMessage.label "Xóa Thư">
 <!ENTITY deleteFromPOP.label "Xóa trên Máy chủ POP">

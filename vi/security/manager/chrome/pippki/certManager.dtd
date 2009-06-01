@@ -95,7 +95,7 @@
 <!ENTITY certmgr.certname                     "Tên Chứng Thư">
 <!ENTITY certmgr.certserver                   "Máy chủ">
 <!ENTITY certmgr.typesofoverrides             "Ngoại trừ">
-<!ENTITY certmgr.override_lifetime            "Suốt đời">
+<!ENTITY certmgr.override_lifetime            "Chu kì">
 <!ENTITY certmgr.tokenname                    "Thiết bị Bảo mật">
 <!ENTITY certmgr.purpose                      "Mục đích">
 <!ENTITY certmgr.issued                       "Cấp vào">

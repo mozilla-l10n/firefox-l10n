@@ -2,8 +2,6 @@
 <!ENTITY showImages.title                          "Hiện hình ảnh">
 <!ENTITY enableJavaScript.title                    "Bật JavaScript">
 <!ENTITY enableJavaScript.description              "Đa số các trang tương tác cần JavaScript">
-<!ENTITY javascript.options.jit.content.title      "Kích hoạt thăm dò JavaScript">
-<!ENTITY javascript.options.jit.content.description "Sử dụng bộ biên dịch mã riêng trong JavaScript">
 <!ENTITY enablePlugins.title                       "Bật các Phần bổ trợ">
 <!ENTITY enablePlugins.description                 "Phần bổ trợ được sử dụng cho nội dung đặc biệt như video">
 <!ENTITY privacy.title                             "Riêng tư &amp; Bảo mật">

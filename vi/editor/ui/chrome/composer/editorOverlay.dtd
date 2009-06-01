@@ -482,8 +482,8 @@
 <!ENTITY structSelect.accesskey     "C">
 <!ENTITY structRemoveTag.label      "Xóa thẻ">
 <!ENTITY structRemoveTag.accesskey  "X">
-<!ENTITY structChangeTag.label      "Đổi thẻ">
-<!ENTITY structChangeTag.accesskey  "i">
+<!ENTITY structChangeTag.label      "Thay đổi thẻ">
+<!ENTITY structChangeTag.accesskey  "y">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Chèn">

@@ -156,8 +156,8 @@
 <!ENTITY sortBySizeCmd.accesskey "D">
 <!ENTITY sortByStatusCmd.label "Trạng thái">
 <!ENTITY sortByStatusCmd.accesskey "r">
-<!ENTITY sortByTagsCmd.label "Tag">
-<!ENTITY sortByTagsCmd.accesskey "a">
+<!ENTITY sortByTagsCmd.label "Nhãn">
+<!ENTITY sortByTagsCmd.accesskey "h">
 <!ENTITY sortByJunkStatusCmd.label "Trạng thái Thư rác">
 <!ENTITY sortByJunkStatusCmd.accesskey "i">
 <!ENTITY sortBySubjectCmd.label "Tiêu đề">
@@ -332,6 +332,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Trả lời Tất cả">
 <!ENTITY replyToAllMsgCmd.accesskey  "r">
 <!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToListMsgCmd.label "Trả lời Danh sách">
+<!ENTITY replyToListMsgCmd.accesskey  "D">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Chuyển tiếp">
 <!ENTITY forwardMsgCmd.accesskey "y">
 <!ENTITY forwardMsgCmd.key  "l">
@@ -366,12 +369,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY watchThreadMenu.label "Theo dõi Chủ đề">
 <!ENTITY watchThreadMenu.accesskey "e">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Tập tin Tại đây">
-<!ENTITY fileHereMenu.accesskey "T">
+<!ENTITY fileHereMenu.label "Xếp Vào Đây">
+<!ENTITY fileHereMenu.accesskey "X">
 <!ENTITY copyHereMenu.label "Chép tại đây">
 <!ENTITY copyHereMenu.accesskey "C">
-<!ENTITY tagMenu.label "Thẻ Tag">
-<!ENTITY tagMenu.accesskey "a">
+<!ENTITY tagMenu.label "Nhãn">
+<!ENTITY tagMenu.accesskey "h">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -461,8 +464,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Viết Thư">
 <!ENTITY replyButton.label "Trả lời">
 <!ENTITY replyAllButton.label "Trả lời Tất cả">
+<!ENTITY replyListButton.label "Trả lời Danh sách">
 <!ENTITY forwardButton.label "Chuyển tiếp">
-<!ENTITY fileButton.label "Tập tin">
+<!ENTITY fileButton.label "Xếp">
 <!ENTITY nextButton.label "Tiếp">
 <!ENTITY previousButton.label "Trước">
 <!ENTITY backButton1.label "Lùi">
@@ -480,7 +484,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchItem.title "Tìm Nhanh">
 <!ENTITY mailViewsToolbarItem.title "Cách hiển thị Thư">
 <!ENTITY folderLocationToolbarItem.title "Địa chỉ Thư mục">
-<!ENTITY tagButton.label "Thẻ">
+<!ENTITY tagButton.label "Nhãn">
 <!ENTITY compactButton.label "Làm gọn">
 
 <!-- Mail Toolbar Tooltips-->
@@ -492,6 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Viết một thư mới">
 <!ENTITY replyButton.tooltip "Trả lời thư">
 <!ENTITY replyAllButton.tooltip "Trả lời người gửi và tất cả người nhận">
+<!ENTITY replyListButton.tooltip "Trả lời danh sách thư">
 <!ENTITY forwardButton.tooltip "Chuyển tiếp thư đã chọn">
 <!ENTITY fileButton.tooltip "Xếp thông điệp được chọn vào thư mục">
 <!ENTITY nextButton.tooltip "Chuyển sang thư chưa đọc tiếp theo">
@@ -506,12 +511,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Đánh dấu thư đã chọn là thư rác">
 <!ENTITY notJunkButton.tooltip "Đánh dấu thư đã chọn không phải là thư rác">
 <!ENTITY addressBookButton.tooltip "Vào sổ địa chỉ">
-<!ENTITY tagButton.tooltip "Dán thẻ tag cho thư">
+<!ENTITY tagButton.tooltip "Dán nhãn cho thư">
 <!ENTITY compactButton.tooltip "Dọn các thư bị xóa ra khỏi thư mục đã chọn">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Thẻ tag mới…">
-<!ENTITY addNewTag.accesskey "T">
+<!ENTITY addNewTag.label "Nhãn Mới…">
+<!ENTITY addNewTag.accesskey "N">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Tên">
@@ -600,7 +605,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY subjectColumn.label "Tiêu đề">
 <!ENTITY dateColumn.label "Ngày">
 <!ENTITY priorityColumn.label "Ưu tiên">
-<!ENTITY tagsColumn.label "Thẻ">
+<!ENTITY tagsColumn.label "Nhãn">
 <!ENTITY accountColumn.label "Tài khoản">
 <!ENTITY statusColumn.label "Trạng thái">
 <!ENTITY sizeColumn.label "Dung lượng">
@@ -626,7 +631,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY subjectColumn.tooltip "Nhấn để sắp xếp theo tiêu đề">
 <!ENTITY dateColumn.tooltip "Nhấn để sắp xếp theo ngày">
 <!ENTITY priorityColumn.tooltip "Nhấn để sắp xếp theo ưu tiên">
-<!ENTITY tagsColumn.tooltip "Nhấn để sắp xếp theo thẻ tag">
+<!ENTITY tagsColumn.tooltip "Nhấn để sắp xếp theo nhãn">
 <!ENTITY accountColumn.tooltip "Nhấn để sắp xếp theo tài khoản">
 <!ENTITY statusColumn.tooltip "Nhấn để sắp xếp theo trạng thái">
 <!ENTITY sizeColumn.tooltip "Nhấn để sắp xếp theo dung lượng">
@@ -654,6 +659,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "h">
 <!ENTITY contextReplyAll.label "Trả lời Tất cả">
 <!ENTITY contextReplyAll.accesskey "r">
+<!ENTITY contextReplyList.label "Trả lời Danh sách">
+<!ENTITY contextReplyList.accesskey "D">
 <!ENTITY contextForward.label "Chuyển tiếp">
 <!ENTITY contextForward.accesskey "y">
 <!ENTITY contextForwardAsAttachment.label "Chuyển tiếp dưới dạng Phần đính kèm">
