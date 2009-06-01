@@ -60,7 +60,7 @@
 <!ENTITY cmd.enable.accesskey             "W">
 <!ENTITY cmd.enable.tooltip               "Włącz ten dodatek przy ponownym uruchomieniu programu &brandShortName;">
 <!ENTITY cmd.disable.label                "Wyłącz">
-<!ENTITY cmd.disable.accesskey            "y">
+<!ENTITY cmd.disable.accesskey            "W">
 <!ENTITY cmd.disable.tooltip              "Wyłącz ten dodatek przy ponownym uruchomieniu programu &brandShortName;">
 
 <!ENTITY cmd.uninstall.label              "Odinstaluj">
@@ -99,7 +99,7 @@
 <!ENTITY cmd.homepage.label               "Odwiedź stronę domową">
 <!ENTITY cmd.homepage.accesskey           "s">
 <!ENTITY cmd.about2.label                 "O tym dodatku">
-<!ENTITY cmd.about.accesskey              "O">
+<!ENTITY cmd.about.accesskey              "m">
 <!ENTITY cmd.checkUpdate.label            "Znajdź aktualizację">
 <!ENTITY cmd.checkUpdate.accesskey        "Z">
 <!ENTITY cmd.includeUpdate.label          "Dołącz aktualizację"><!-- fuzzy -->
