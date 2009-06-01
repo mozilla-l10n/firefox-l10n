@@ -1,0 +1,97 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "Atrás">
+<!ENTITY back.tooltip          "Atrás">
+<!ENTITY forward.label         "Adelante">
+<!ENTITY forward.tooltip       "Adelante">
+<!ENTITY reload.label          "Recargar">
+<!ENTITY reload.tooltip        "Recargar">
+<!ENTITY stop.label            "Detener">
+<!ENTITY stop.tooltip          "Detener">
+<!ENTITY search.label          "Buscar">
+<!ENTITY search.tooltip        "Buscar">
+<!ENTITY go.label              "Ir">
+<!ENTITY go.tooltip            "Ir">
+<!ENTITY openLocation.label    "Abrir dirección">
+<!ENTITY openLocation.tooltip  "Abrir dirección">
+<!ENTITY star.label            "Destacado">
+<!ENTITY star.tooltip          "Marcar esta p\u00E1gina">
+<!ENTITY bookmarks.label       "Marcadores">
+<!ENTITY bookmarks.tooltip     "Ver marcadores">
+
+<!ENTITY newtab.label          "Nueva pestaña">
+<!ENTITY closetab.label        "Cerrar pestaña">
+
+<!ENTITY cut.label             "Cortar">
+<!ENTITY copy.label            "Copiar">
+<!ENTITY copylink.label        "Copiar dirección del enlace">
+<!ENTITY paste.label           "Pegar">
+<!ENTITY delete.label          "Borrar">
+<!ENTITY selectAll.label       "Seleccionar todo">
+<!ENTITY noSuggestions.label   "(Sin sugerencias)">
+<!ENTITY addToDictionary.label "Agregar al diccionario">
+
+<!ENTITY bookmarksHeader.label     "Marcadores">
+<!ENTITY bookmarksManage.label     "Administrar">
+<!ENTITY foldersHeader.label       "Carpetas">
+
+<!ENTITY editBookmarkEdit.label    "Editar">
+<!ENTITY editBookmarkMove.label    "Mover">
+<!ENTITY editBookmarkDone.label    "Terminado">
+<!ENTITY editBookmarkTags.label    "Agregar etiquetas aquí">
+
+<!ENTITY findOnCmd.label     "Buscar en esta página…">
+<!ENTITY findOnCmd.accesskey "B">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Repetir la búsqueda">
+<!ENTITY findAgainCmd.accesskey "R">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY addonsHeader.label        "Agregados">
+<!ENTITY addonsLocal.label         "Tus agregados">
+<!ENTITY addonsRepo.label          "Obtener agregados">
+<!ENTITY addonsRecommended.label   "Recomendado">
+<!ENTITY addonsSearch.label        "Buscar">
+<!ENTITY addonsSearch.emptytext    "Buscar agregados">
+
+<!ENTITY addonOptions.label        "Opciones">
+<!ENTITY addonEnable.label         "Habilitar">
+<!ENTITY addonDisable.label        "Deshabilitar">
+<!ENTITY addonInstall.label        "Instalar">
+<!ENTITY addonUninstall.label      "Desinstalar">
+<!ENTITY addonCancel.label         "Cancelar">
+<!ENTITY addonShowPage.label       "Ir a la página">
+
+<!ENTITY downloadsHeader.label     "Descargas">
+<!ENTITY downloadsSortDate.label   "Fecha">
+<!ENTITY downloadsSortSite.label   "Sitio">
+<!ENTITY downloadsSortName.label   "Nombre">
+<!ENTITY downloadsSearch.label     "Buscar">
+<!ENTITY downloadsSearch.emptytext "Buscar archivo descargado">
+
+<!ENTITY downloadShowPage.label    "Ir a la página">
+<!ENTITY downloadShow2.label       "Buscar">
+<!ENTITY downloadOpen2.label       "Abrir">
+<!ENTITY downloadCancel.label      "Cancelar">
+<!ENTITY downloadPause.label       "Pausa">
+<!ENTITY downloadResume.label      "Continuar">
+<!ENTITY downloadRetry.label       "Reintentar">
+
+<!ENTITY noResults.label           "Sin resultados">
+
+<!ENTITY identity.unverifiedsite2 "Este sitio web no provee información de identidad.">
+<!ENTITY identity.connectedTo "Está conectado a">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "que es provisto por">

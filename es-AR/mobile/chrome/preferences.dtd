@@ -1,0 +1,15 @@
+<!ENTITY content.title                             "Contenido">
+<!ENTITY showImages.title                          "Mostrar imágenes">
+<!ENTITY enableJavaScript.title                    "Habilitar JavaScript">
+<!ENTITY enableJavaScript.description              "La mayoría de los sitios interactivos usan JavaScript">
+<!ENTITY javascript.options.jit.content.title      "Habilitar el rastreo de JavaScript">
+<!ENTITY javascript.options.jit.content.description "Usar compilación de código nativo en JavaScript">
+<!ENTITY enablePlugins.title                       "Habilitar plugins">
+<!ENTITY enablePlugins.description                 "Los plugins se usan para contenido especial como el video">
+<!ENTITY privacy.title                             "Privacidad y seguridad">
+<!ENTITY allowCookies.title                        "Permitir cookies">
+<!ENTITY allowCookies.description                  "Los sitios usan cookies para identificarte y recordar tus opciones">
+<!ENTITY clearPrivateData.title                    "Borrar el historial reciente de navegación">
+<!ENTITY clearPrivateData.button                   "Limpiar">
+<!ENTITY clearPrivateData.description              "El historial ayuda a &brandShortName; para sugerirte dónde querés ir">
+<!ENTITY rememberPasswords.title                   "Recordar contraseñas">
