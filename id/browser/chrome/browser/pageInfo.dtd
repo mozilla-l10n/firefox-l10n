@@ -65,8 +65,8 @@
 <!ENTITY securityView.identity.owner "Pemilik: ">
 <!ENTITY securityView.identity.domain "Situs web: ">
 <!ENTITY securityView.identity.verifier "Diverifikasi oleh: ">
-<!ENTITY securityView.privacy.header "Privasi &amp; Keamanan">
-<!ENTITY securityView.privacy.history "Pernahkah situs ini dikunjungi hari ini?">
+<!ENTITY securityView.privacy.header "Privasi &amp; Riwayat">
+<!ENTITY securityView.privacy.history "Pernahkah situs ini dikunjungi sebelum hari ini?">
 <!ENTITY securityView.privacy.cookies "Apakah situs web ini menyimpan informasi (cookie) dalam komputer saya?">
 <!ENTITY securityView.privacy.viewCookies "Tampilkan Cookie">
 <!ENTITY securityView.privacy.viewCookies.accessKey "c">

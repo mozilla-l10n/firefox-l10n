@@ -73,7 +73,7 @@
 <!ENTITY cmd.hideUpdateInfo.label "Sembunyikan Informasi">
 <!ENTITY cmd.hideUpdateInfo.accesskey "y">
 <!ENTITY cmd.hideUpdateInfo.tooltip "Sembunyikan informasi lanjut tentang versi baru berikut">
-<!ENTITY cmd.installSearchResult.label "Pasang untuk &brandShortName;…">
+<!ENTITY cmd.installSearchResult.label "Pasang ke &brandShortName;…">
 <!ENTITY cmd.installSearchResult.accesskey "A">
 <!ENTITY cmd.installSearchResult.tooltip "Unduh dan pasang pengaya ini">
 <!ENTITY cancel.label "Batal">

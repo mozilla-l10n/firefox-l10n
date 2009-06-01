@@ -18,5 +18,5 @@
 <!ENTITY chooseApp.label "Pilih…">
 <!ENTITY chooseApp.accesskey "P">
 <!ENTITY chooseAppFilePickerTitle "Pilih Aplikasi Pembantu">
-<!ENTITY badApp "Aplikasi yang Anda tuliskan (&quot;#1&quot;) tidak dapat ditemukan.  Cek nama berkas atau aplikasi lain.">
+<!ENTITY badApp "Aplikasi yang Anda tuliskan (&quot;#1&quot;) tidak dapat ditemukan. Periksa nama berkas atau aplikasi lain.">
 <!ENTITY badApp.title "Aplikasi tidak ditemukan">

@@ -11,7 +11,7 @@
 <!ENTITY useAutoScroll.accesskey "g">
 <!ENTITY useSmoothScrolling.label "Geser dengan mulus">
 <!ENTITY useSmoothScrolling.accesskey "m">
-<!ENTITY checkSpelling.label "Cek ejaan saat mengetik teks">
+<!ENTITY checkSpelling.label "Periksa ejaan saat mengetik teks">
 <!ENTITY checkSpelling.accesskey "e">
 <!ENTITY systemDefaults.label "Nilai Default dari Sistem">
 <!ENTITY alwaysCheckDefault.label "Periksa apakah &brandShortName; adalah program peramban web default ketika memulai">
@@ -30,7 +30,7 @@
 <!ENTITY clearCacheNow.label "Bersihkan Sekarang">
 <!ENTITY clearCacheNow.accesskey "g">
 <!ENTITY updateTab.label "Pemutakhiran">
-<!ENTITY autoCheck.label "Otomatis cek versi baru untuk:">
+<!ENTITY autoCheck.label "Otomatis periksa versi baru untuk:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "f">
 <!ENTITY enableAddonsUpdate.label "Pengaya Terpasang">

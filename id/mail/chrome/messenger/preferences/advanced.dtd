@@ -24,7 +24,7 @@
 <!ENTITY returnReceiptsInfo.label "Mengatur penanganan tanda konfirmasi diterima (return receipt) oleh &brandShortName;">
 <!ENTITY showReturnReceipts.label "Tanda Konfirmasi Diterima…">
 <!ENTITY showReturnReceipts.accesskey "R">
-<!ENTITY autoCheck.label "Otomatis cek versi baru untuk:">
+<!ENTITY autoCheck.label "Otomatis periksa versi baru untuk:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "T">
 <!ENTITY enableAddonsUpdate.label "Pengaya Terpasang">

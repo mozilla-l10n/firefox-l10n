@@ -10,9 +10,9 @@
 <!ENTITY highestPriorityCmd.label "Tertinggi">
 <!ENTITY contextDesc.label "Terapkan filter ketika:">
 <!ENTITY contextDesc.accesskey "p">
-<!ENTITY contextIncoming.label "Mengecek Email">
+<!ENTITY contextIncoming.label "Memeriksa Email">
 <!ENTITY contextManual.label "Dijalankan Manual">
-<!ENTITY contextBoth.label "Mengecek Email atau Dijalankan Manual">
+<!ENTITY contextBoth.label "Memeriksa Email atau Dijalankan Manual">
 <!ENTITY filterActionDesc.label "Lakukan aksi berikut:">
 <!ENTITY filterActionDesc.accesskey "L">
 <!ENTITY moveMessage.label "Pindahkan Pesan ke">

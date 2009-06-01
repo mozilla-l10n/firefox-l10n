@@ -14,8 +14,8 @@
 <!ENTITY optionsGroup.label "Pengaturan">
 <!ENTITY printBG.label "Cetak Latar Belakang (warna &amp; gambar)">
 <!ENTITY printBG.accesskey "L">
-<!ENTITY advanced.tab "Marjin &amp; Header/Footer">
-<!ENTITY marginGroup.label "Marjin (#1)">
+<!ENTITY advanced.tab "Margin &amp; Header/Footer">
+<!ENTITY marginGroup.label "Margin (#1)">
 <!ENTITY marginUnits.inches "inci">
 <!ENTITY marginUnits.metric "milimeter">
 <!ENTITY marginTop.label "Atas:">

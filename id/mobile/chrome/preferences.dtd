@@ -2,8 +2,6 @@
 <!ENTITY showImages.title                          "Tampilkan gambar">
 <!ENTITY enableJavaScript.title                    "Aktifkan JavaScript">
 <!ENTITY enableJavaScript.description              "Umumnya situs web interaktif menggunakan JavaScript">
-<!ENTITY javascript.options.jit.content.title      "Aktifkan tracing JavaScript">
-<!ENTITY javascript.options.jit.content.description "Gunakan kompilasi native pada JavaScript">
 <!ENTITY enablePlugins.title                       "Aktifkan Plugin">
 <!ENTITY enablePlugins.description                 "Plugins digunakan untuk isi tertentu, contohnya video">
 <!ENTITY privacy.title                             "Privasi &amp; Keamanan">

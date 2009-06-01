@@ -47,7 +47,7 @@
 <!ENTITY importCmd.label "Impor…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "Luring">
-<!ENTITY offlineMenu.accesskey "f">
+<!ENTITY offlineMenu.accesskey "u">
 <!ENTITY offlineGoOfflineCmd.label "Bekerja Luring">
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
 <!ENTITY synchronizeOfflineCmd.label "Unduh/Sinkron Sekarang…">
@@ -365,7 +365,7 @@
 <!ENTITY markThreadAsReadCmd.label "Alur Bahasan Dibaca">
 <!ENTITY markThreadAsReadCmd.accesskey "b">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Sudah Dibaca berdasar Tanggal…">
+<!ENTITY markReadByDateCmd.label "Sudah Dibaca berdasarkan Tanggal…">
 <!ENTITY markReadByDateCmd.accesskey "T">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Dibaca Semua">
@@ -552,25 +552,25 @@
 <!ENTITY glodaWhyColumn.label "Alasan">
 <!ENTITY columnChooser.tooltip "Klik untuk memilih kolom tampilan">
 <!ENTITY threadColumn.tooltip "Klik untuk menampilkan alur bahasan pesan">
-<!ENTITY fromColumn.tooltip "Klik untuk mengurut berdasar pengirim">
-<!ENTITY recipientColumn.tooltip "Klik untuk mengurut berdasar penerima">
-<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasar judul subjek">
-<!ENTITY dateColumn.tooltip "Klik untuk mengurut berdasar tanggal">
-<!ENTITY priorityColumn.tooltip "Klik untuk mengurut berdasar prioritas">
-<!ENTITY tagsColumn.tooltip "Klik untuk mengurut berdasar tag">
-<!ENTITY accountColumn.tooltip "Klik untuk mengurut berdasar nama akun">
-<!ENTITY statusColumn.tooltip "Klik untuk mengurut berdasar status">
-<!ENTITY sizeColumn.tooltip "Klik untuk mengurut berdasar ukuran">
-<!ENTITY junkStatusColumn.tooltip "Klik untuk mengurut berdasar status junk">
+<!ENTITY fromColumn.tooltip "Klik untuk mengurut berdasarkan pengirim">
+<!ENTITY recipientColumn.tooltip "Klik untuk mengurut berdasarkan penerima">
+<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasarkan judul subjek">
+<!ENTITY dateColumn.tooltip "Klik untuk mengurut berdasarkan tanggal">
+<!ENTITY priorityColumn.tooltip "Klik untuk mengurut berdasarkan prioritas">
+<!ENTITY tagsColumn.tooltip "Klik untuk mengurut berdasarkan tag">
+<!ENTITY accountColumn.tooltip "Klik untuk mengurut berdasarkan nama akun">
+<!ENTITY statusColumn.tooltip "Klik untuk mengurut berdasarkan status">
+<!ENTITY sizeColumn.tooltip "Klik untuk mengurut berdasarkan ukuran">
+<!ENTITY junkStatusColumn.tooltip "Klik untuk mengurut berdasarkan status junk">
 <!ENTITY unreadColumn.tooltip "Jumlah pesan yang belum dibaca dalam alur bahasan">
 <!ENTITY totalColumn.tooltip "Jumlah pesan dalam alur bahasan">
-<!ENTITY readColumn.tooltip "Klik untuk mengurut berdasar status dibaca">
-<!ENTITY receivedColumn.tooltip "Klik untuk mengurut berdasar tanggal diterima">
-<!ENTITY starredColumn.tooltip "Klik untuk mengurut berdasar bintang">
-<!ENTITY locationColumn.tooltip "Klik untuk mengurut berdasar lokasi">
-<!ENTITY idColumn.tooltip "Klik untuk mengurut berdasar urutan diterima">
-<!ENTITY attachmentColumn.tooltip "Klik untuk mengurut berdasar lampiran">
-<!ENTITY glodaWhyColumn.tooltip "Klik untuk mengurut pesan berdasar alasan pesan ini tampil pada hasil pencarian">
+<!ENTITY readColumn.tooltip "Klik untuk mengurut berdasarkan status dibaca">
+<!ENTITY receivedColumn.tooltip "Klik untuk mengurut berdasarkan tanggal diterima">
+<!ENTITY starredColumn.tooltip "Klik untuk mengurut berdasarkan bintang">
+<!ENTITY locationColumn.tooltip "Klik untuk mengurut berdasarkan lokasi">
+<!ENTITY idColumn.tooltip "Klik untuk mengurut berdasarkan urutan diterima">
+<!ENTITY attachmentColumn.tooltip "Klik untuk mengurut berdasarkan lampiran">
+<!ENTITY glodaWhyColumn.tooltip "Klik untuk mengurut pesan berdasarkan alasan pesan ini tampil pada hasil pencarian">
 <!ENTITY contextOpenNewWindow.label "Buka Pesan di Jendela Baru">
 <!ENTITY contextOpenNewWindow.accesskey "J">
 <!ENTITY contextOpenNewTab.label "Buka Pesan di Tab Baru">

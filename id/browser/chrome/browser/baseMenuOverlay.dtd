@@ -18,7 +18,7 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Catatan Rilis">
 <!ENTITY helpReleaseNotes.accesskey "C">
-<!ENTITY updateCmd.label "Cek Versi Baru…">
+<!ENTITY updateCmd.label "Periksa Versi Baru…">
 <!ENTITY preferencesCmdMac.label "Pengaturan…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY servicesMenuMac.label "Layanan">

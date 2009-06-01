@@ -4,9 +4,9 @@
 <!ENTITY clearDataSettings2.label "Saat keluar dari &brandShortName;, otomatis hapus semua:">
 <!ENTITY clearTimeDuration.label "Jangka waktu riwayat untuk dibersihkan: ">
 <!ENTITY clearTimeDuration.accesskey "J">
-<!ENTITY clearTimeDuration.lastHour "1 Jam Sebelumnya">
-<!ENTITY clearTimeDuration.last2Hours "2 Jam Sebelumnya">
-<!ENTITY clearTimeDuration.last4Hours "4 Jam Sebelumnya">
+<!ENTITY clearTimeDuration.lastHour "1 Jam Terakhir">
+<!ENTITY clearTimeDuration.last2Hours "2 Jam Terakhir">
+<!ENTITY clearTimeDuration.last4Hours "4 Jam Terakhir">
 <!ENTITY clearTimeDuration.today "Hari Ini">
 <!ENTITY clearTimeDuration.everything "Semuanya">
 <!ENTITY clearTimeDuration.suffix "">

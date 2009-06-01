@@ -1,6 +1,6 @@
 <!ENTITY itemGeneral.label "Utama">
 <!ENTITY itemAutoComplete.label "Alamat">
-<!ENTITY itemSpellCheck.label "Pengecek Ejaan">
+<!ENTITY itemSpellCheck.label "Pemeriksa Ejaan">
 <!ENTITY forwardMsg.label "Teruskan pesan:">
 <!ENTITY forwardMsg.accesskey "T">
 <!ENTITY inline.label "Tidak Terpisah">
@@ -20,7 +20,7 @@
 <!ENTITY restoreHTMLDefaults.accesskey "K">
 <!ENTITY spellCheck.label "Periksa ejaan sebelum mengirim">
 <!ENTITY spellCheck.accesskey "e">
-<!ENTITY spellCheckInline.label "Aktifkan pengecek ejaan saat mengetik">
+<!ENTITY spellCheckInline.label "Aktifkan pemeriksa ejaan saat mengetik">
 <!ENTITY spellCheckInline1.accesskey "k">
 <!ENTITY languagePopup.label "Bahasa:">
 <!ENTITY languagePopup.accessKey "B">

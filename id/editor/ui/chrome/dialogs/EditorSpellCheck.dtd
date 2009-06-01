@@ -53,7 +53,7 @@
 <!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "Berhenti">
 <!ENTITY stopButton.accessKey "B">
-<!ENTITY userDictionary.label "Kamus Pengecek Ejaan Pribadi:">
+<!ENTITY userDictionary.label "Kamus Pemeriksa Ejaan Pribadi:">
 <!ENTITY moreDictionaries.label "Unduh kamus lainnya…">
 <!ENTITY addToUserDictionaryButton.label "Tambah Kata">
 <!ENTITY addToUserDictionaryButton.accessKey "K">

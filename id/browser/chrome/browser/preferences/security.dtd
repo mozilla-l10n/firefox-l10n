@@ -11,7 +11,7 @@
 <!ENTITY rememberPasswords.accesskey "i">
 <!ENTITY passwordExceptions.label "Pengecualian…">
 <!ENTITY passwordExceptions.accesskey "c">
-<!ENTITY useMasterPassword.label "Gunakan Kata Sandi Utama">
+<!ENTITY useMasterPassword.label "Gunakan kata sandi utama">
 <!ENTITY useMasterPassword.accesskey "m">
 <!ENTITY changeMasterPassword.label "Ubah Kata Sandi Utama…">
 <!ENTITY changeMasterPassword.accesskey "u">

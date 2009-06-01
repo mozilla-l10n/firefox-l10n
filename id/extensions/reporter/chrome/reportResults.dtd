@@ -8,7 +8,7 @@
 <!ENTITY reportBuildConfig "Konfigurasi Build">
 <!ENTITY reportUseragent "Useragent">
 <!ENTITY reportLanguage "Bahasa">
-<!ENTITY reportCharset "Charset">
+<!ENTITY reportCharset "Set Karakter">
 <!ENTITY reportEmail "Email">
 <!ENTITY error "Detail Kesalahan">
 <!ENTITY faultCode "Kode Sumber">

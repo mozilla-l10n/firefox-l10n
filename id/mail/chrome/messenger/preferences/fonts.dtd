@@ -18,9 +18,9 @@
 <!ENTITY font.langGroup.latin1 "Barat">
 <!ENTITY font.langGroup.latin2 "Eropa Tengah">
 <!ENTITY font.langGroup.japanese "Jepang">
-<!ENTITY font.langGroup.trad-chinese "Cina Tradisionil (Taiwan)">
+<!ENTITY font.langGroup.trad-chinese "Cina Tradisional (Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese "Cina Sederhana">
-<!ENTITY font.langGroup.trad-chinese-hk "Cina Tradisionil (Hong Kong)">
+<!ENTITY font.langGroup.trad-chinese-hk "Cina Tradisional (Hong Kong)">
 <!ENTITY font.langGroup.korean "Korea">
 <!ENTITY font.langGroup.cyrillic "Cyrillic">
 <!ENTITY font.langGroup.baltic "Baltik">

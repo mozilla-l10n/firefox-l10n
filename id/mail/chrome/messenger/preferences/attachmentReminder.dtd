@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "Kata Kunci Pengingat Lampiran">
+<!ENTITY attachKeywordText.label          "&brandShortName; akan mengingatkan Anda tentang lampiran yang tertinggal ketika Anda akan mengirim email dengankata kunci sebagai berikut.">
+<!ENTITY addKeywordButton.label           "Tambah">
+<!ENTITY addKeywordButton.accesskey       "T">
+<!ENTITY editKeywordButton.label          "Ubah">
+<!ENTITY editKeywordButton.accesskey      "U">
+<!ENTITY removeKeywordButton.label        "Hapus">
+<!ENTITY removeKeywordButton.accesskey    "H">
