@@ -111,6 +111,8 @@
 <!ENTITY downloadResume.label             "Tęsti">
 <!ENTITY downloadRetry.label              "Iš naujo">
 
+<!ENTITY noResults.label                  "Rezultatų nėra">
+
 <!ENTITY identity.unverifiedsite2         "Ši svetainė nepateikia duomenų apie savo tapatumą.">
 <!ENTITY identity.connectedTo             "Jūs prisijungėte prie svetainės">
 <!-- Localization note (identity.runBy) : This string appears between a
