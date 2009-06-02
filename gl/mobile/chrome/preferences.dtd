@@ -1,13 +1,13 @@
-<!ENTITY content.title                             "Content">
-<!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
-<!ENTITY enableJavaScript.description              "Most interactive sites use JavaScript">
-<!ENTITY enablePlugins.title                       "Enable Plugins">
-<!ENTITY enablePlugins.description                 "Plugins are used for special content such as video">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
-<!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY allowCookies.description                  "Sites use cookies to identify you and remember your settings">
-<!ENTITY clearPrivateData.title                    "Clear recent browsing history">
-<!ENTITY clearPrivateData.button                   "Clear">
-<!ENTITY clearPrivateData.description              "Your history helps &brandShortName; suggest where you want to go">
-<!ENTITY rememberPasswords.title                   "Remember passwords">
+<!ENTITY content.title                             "Contido">
+<!ENTITY showImages.title                          "Mostra imaxes">
+<!ENTITY enableJavaScript.title                    "Activar JavaScript">
+<!ENTITY enableJavaScript.description              "A maioría dos sitios web interactivos usan JavaScript">
+<!ENTITY enablePlugins.title                       "Activar Plugins">
+<!ENTITY enablePlugins.description                 "Os plugins son utilizados para contido especial como vídeo">
+<!ENTITY privacy.title                             "Privacidade e seguranza">
+<!ENTITY allowCookies.title                        "Permitir cookies">
+<!ENTITY allowCookies.description                  "Os sitios web usan cookies para identificalo e lembrar as súas configuracións">
+<!ENTITY clearPrivateData.title                    "Limpar o historial recente de navegación">
+<!ENTITY clearPrivateData.button                   "Limpar">
+<!ENTITY clearPrivateData.description              "O seu historial axuda a &brandShortName; a suxerirlle onde podería ir">
+<!ENTITY rememberPasswords.title                   "Lembrar contrasinais">
