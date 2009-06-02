@@ -2,8 +2,6 @@
 <!ENTITY showImages.title                          "Mostrar imágenes">
 <!ENTITY enableJavaScript.title                    "Habilitar JavaScript">
 <!ENTITY enableJavaScript.description              "La mayoría de los sitios interactivos usan JavaScript">
-<!ENTITY javascript.options.jit.content.title      "Habilitar el rastreo de JavaScript">
-<!ENTITY javascript.options.jit.content.description "Usar compilación de código nativo en JavaScript">
 <!ENTITY enablePlugins.title                       "Habilitar plugins">
 <!ENTITY enablePlugins.description                 "Los plugins se usan para contenido especial como el video">
 <!ENTITY privacy.title                             "Privacidad y seguridad">
