@@ -60,6 +60,7 @@
 <!ENTITY archiveButton.label "archive">
 <!ENTITY hdrReplyButton.label "පිළිතුරු">
 <!ENTITY hdrReplyAllButton.label "සැමට පිළිතුරු">
+<!ENTITY hdrReplyListButton.label "ලැයිස්තුවට පිළිතුරු">
 <!ENTITY hdrForwardButton.label "යොමු කරන්න">
 <!ENTITY hdrJunkButton.label "නිසරු (junk)">
 <!ENTITY trashButton.tooltiptext "මකන්න">

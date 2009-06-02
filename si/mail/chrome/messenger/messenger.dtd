@@ -333,6 +333,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "සැමට පිළිතුරු">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToListMsgCmd.label "ලැයිස්තුවට පිළිතුරු">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "යොමුව">
 <!ENTITY forwardMsgCmd.accesskey "F">
 <!ENTITY forwardMsgCmd.key  "l">
@@ -455,6 +458,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "ලියන්න">
 <!ENTITY replyButton.label "පිළිතුරු යවන්න">
 <!ENTITY replyAllButton.label "සැමට පිළිතුරු">
+<!ENTITY replyListButton.label "ලැයිස්තුවට පිළිතුරු">
 <!ENTITY forwardButton.label "යොමු කරන්න">
 <!ENTITY fileButton.label "ගොනු">
 <!ENTITY nextButton.label "ඊළඟ">
@@ -486,6 +490,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "නව ලිපියක් ඇරඹීමට">
 <!ENTITY replyButton.tooltip "ලිපියට පිළිතුරු ලිවීමට">
 <!ENTITY replyAllButton.tooltip "එවන්නා ඇතුළු සැමට පිළිතුරු සැපයීමට">
+<!ENTITY replyListButton.tooltip "ලිපි සමූහයට (mailing list) පිළිතුරු සැපයීමට">
 <!ENTITY forwardButton.tooltip "තෝරාගත් ලිපිය යොමු කිරීමට">
 <!ENTITY fileButton.tooltip "තෝරාගත් ලිපිය ගොනුගත කරන්න">
 <!ENTITY nextButton.tooltip "මීලඟ නොකියවූ ලිපියට">
@@ -649,6 +654,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "සැමට පිළිතුරු">
 <!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyList.label "ලැයිස්තුවට පිළිතුරු">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "යොමු කරන්න">
 <!ENTITY contextForward.accesskey "F">
 <!ENTITY contextForwardAsAttachment.label "ඇමුණුමක් ලෙස යොමු කරන්න">
