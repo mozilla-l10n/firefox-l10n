@@ -185,7 +185,6 @@
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo o historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Buscar nos marcadores e no historial">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Buscar nos marcadores e no historial">
 <!ENTITY urlbar.bookmark.emptyText    "Buscar nos marcadores">
 <!ENTITY urlbar.history.emptyText     "Buscar no historial">
