@@ -1,88 +1,88 @@
 <!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titleseparator " - ">
 
-<!ENTITY back.label            "Back">
-<!ENTITY back.tooltip          "Back">
-<!ENTITY forward.label         "Forward">
-<!ENTITY forward.tooltip       "Forward">
-<!ENTITY reload.label          "Reload">
-<!ENTITY reload.tooltip        "Reload">
-<!ENTITY stop.label            "Stop">
-<!ENTITY stop.tooltip          "Stop">
-<!ENTITY search.label          "Search">
-<!ENTITY search.tooltip        "Search">
-<!ENTITY go.label              "Go">
-<!ENTITY go.tooltip            "Go">
-<!ENTITY openLocation.label    "Open location">
-<!ENTITY openLocation.tooltip  "Open location">
-<!ENTITY star.label            "Star">
-<!ENTITY star.tooltip          "Bookmark this page">
-<!ENTITY bookmarks.label       "Bookmarks">
-<!ENTITY bookmarks.tooltip     "View bookmarks">
+<!ENTITY back.label            "Atrás">
+<!ENTITY back.tooltip          "Atrás">
+<!ENTITY forward.label         "Adiante">
+<!ENTITY forward.tooltip       "Adiante">
+<!ENTITY reload.label          "Recargar">
+<!ENTITY reload.tooltip        "Recargar">
+<!ENTITY stop.label            "Parar">
+<!ENTITY stop.tooltip          "Parar">
+<!ENTITY search.label          "Busca">
+<!ENTITY search.tooltip        "Busca">
+<!ENTITY go.label              "Ir">
+<!ENTITY go.tooltip            "Ir">
+<!ENTITY openLocation.label    "Abrir localización">
+<!ENTITY openLocation.tooltip  "Abrir localización">
+<!ENTITY star.label            "Marcar">
+<!ENTITY star.tooltip          "Marcar esta páxina">
+<!ENTITY bookmarks.label       "Marcadores">
+<!ENTITY bookmarks.tooltip     "Ver marcadores">
 
-<!ENTITY newtab.label          "New Tab">
-<!ENTITY closetab.label        "Close Tab">
+<!ENTITY newtab.label          "Novo separador">
+<!ENTITY closetab.label        "Pechar separador">
 
-<!ENTITY cut.label             "Cut">
-<!ENTITY copy.label            "Copy">
-<!ENTITY copylink.label        "Copy Link Location">
-<!ENTITY paste.label           "Paste">
-<!ENTITY delete.label          "Delete">
-<!ENTITY selectAll.label       "Select All">
-<!ENTITY noSuggestions.label   "(No suggestions)">
-<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY cut.label             "Cortar">
+<!ENTITY copy.label            "Copiar">
+<!ENTITY copylink.label        "Copiar localización da ligazón">
+<!ENTITY paste.label           "Pegar">
+<!ENTITY delete.label          "Eliminar">
+<!ENTITY selectAll.label       "Seleccionar todo">
+<!ENTITY noSuggestions.label   "(Sen suxestións)">
+<!ENTITY addToDictionary.label "Engadir ao dicionario">
 
-<!ENTITY bookmarksHeader.label     "Bookmarks">
-<!ENTITY bookmarksManage.label     "Manage">
-<!ENTITY foldersHeader.label       "Folders">
+<!ENTITY bookmarksHeader.label     "Marcadores">
+<!ENTITY bookmarksManage.label     "Xestionar">
+<!ENTITY foldersHeader.label       "Cartafoles">
 
-<!ENTITY editBookmarkEdit.label    "Edit">
-<!ENTITY editBookmarkMove.label    "Move">
-<!ENTITY editBookmarkDone.label    "Done">
-<!ENTITY editBookmarkTags.label    "Add tags here">
+<!ENTITY editBookmarkEdit.label    "Editar">
+<!ENTITY editBookmarkMove.label    "Mover">
+<!ENTITY editBookmarkDone.label    "Feito">
+<!ENTITY editBookmarkTags.label    "Engadir etiquetas aquí">
 
-<!ENTITY findOnCmd.label     "Find in This Page…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.label     "Localizar nesta páxina…">
+<!ENTITY findOnCmd.accesskey "L">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Find Again">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.label  "Localizar de novo">
+<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY addonsHeader.label        "Add-ons">
-<!ENTITY addonsLocal.label         "Your Add-ons">
-<!ENTITY addonsRepo.label          "Get Add-ons">
-<!ENTITY addonsRecommended.label   "Recommended">
-<!ENTITY addonsSearch.label        "Search">
-<!ENTITY addonsSearch.emptytext    "Search all add-ons">
+<!ENTITY addonsHeader.label        "Complementos">
+<!ENTITY addonsLocal.label         "Os seus complementos">
+<!ENTITY addonsRepo.label          "Obter complementos">
+<!ENTITY addonsRecommended.label   "Recomendados">
+<!ENTITY addonsSearch.label        "Buscar">
+<!ENTITY addonsSearch.emptytext    "Buscar nos complementos">
 
-<!ENTITY addonOptions.label        "Options">
-<!ENTITY addonEnable.label         "Enable">
-<!ENTITY addonDisable.label        "Disable">
-<!ENTITY addonInstall.label        "Install">
-<!ENTITY addonUninstall.label      "Uninstall">
-<!ENTITY addonCancel.label         "Cancel">
-<!ENTITY addonShowPage.label       "Go to Page">
+<!ENTITY addonOptions.label        "Opcións">
+<!ENTITY addonEnable.label         "Activar">
+<!ENTITY addonDisable.label        "Desactivar">
+<!ENTITY addonInstall.label        "Instalar">
+<!ENTITY addonUninstall.label      "Desinstalar">
+<!ENTITY addonCancel.label         "Cancelar">
+<!ENTITY addonShowPage.label       "Ir á páxina">
 
-<!ENTITY downloadsHeader.label     "Downloads">
-<!ENTITY downloadsSortDate.label   "Date">
-<!ENTITY downloadsSortSite.label   "Site">
-<!ENTITY downloadsSortName.label   "Name">
-<!ENTITY downloadsSearch.label     "Search">
-<!ENTITY downloadsSearch.emptytext "Search for downloaded file">
+<!ENTITY downloadsHeader.label     "Descargas">
+<!ENTITY downloadsSortDate.label   "Data">
+<!ENTITY downloadsSortSite.label   "Sitio">
+<!ENTITY downloadsSortName.label   "Nome">
+<!ENTITY downloadsSearch.label     "Buscar">
+<!ENTITY downloadsSearch.emptytext "Buscar un ficheiro descargado">
 
-<!ENTITY downloadShowPage.label    "Go to Page">
-<!ENTITY downloadShow2.label       "Find">
-<!ENTITY downloadOpen2.label       "Open">
-<!ENTITY downloadCancel.label      "Cancel">
-<!ENTITY downloadPause.label       "Pause">
-<!ENTITY downloadResume.label      "Resume">
-<!ENTITY downloadRetry.label       "Retry">
+<!ENTITY downloadShowPage.label    "Ir á páxina">
+<!ENTITY downloadShow2.label       "Localizar">
+<!ENTITY downloadOpen2.label       "Abrir">
+<!ENTITY downloadCancel.label      "Cancelar">
+<!ENTITY downloadPause.label       "Pausar">
+<!ENTITY downloadResume.label      "Retomar">
+<!ENTITY downloadRetry.label       "Tentar de novo">
 
-<!ENTITY noResults.label           "No results">
+<!ENTITY noResults.label           "Sen resultados">
 
-<!ENTITY identity.unverifiedsite2 "This web site does not supply identity information.">
-<!ENTITY identity.connectedTo "You are connected to">
+<!ENTITY identity.unverifiedsite2 "Este sitio web non fornece información de identidade.">
+<!ENTITY identity.connectedTo "Está conectado a">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -94,4 +94,4 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "which is run by">
+<!ENTITY identity.runBy "pertencente a">
