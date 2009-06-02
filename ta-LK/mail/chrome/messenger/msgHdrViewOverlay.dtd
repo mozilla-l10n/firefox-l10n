@@ -60,6 +60,7 @@
 <!ENTITY archiveButton.label "ஆவணக்காப்பகம்">
 <!ENTITY hdrReplyButton.label "பதிலனுப்புக">
 <!ENTITY hdrReplyAllButton.label "யாவற்றிற்கும் பதிலனுப்புக">
+<!ENTITY hdrReplyListButton.label "reply list">
 <!ENTITY hdrForwardButton.label "மீளனுப்புக">
 <!ENTITY hdrJunkButton.label "கூளம்">
 <!ENTITY trashButton.tooltiptext "நீக்குக">
