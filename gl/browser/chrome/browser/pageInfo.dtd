@@ -96,6 +96,9 @@
 <!ENTITY  permPopup             "Abrir xanelas emerxentes">
 <!ENTITY  permCookie            "Estabelecer cookies">
 <!ENTITY  permInstall           "Instalar extensións ou temas">
+<!ENTITY  permAskAlways         "Preguntar sempre">
+<!ENTITY  permGeo               "Compartir localización">
+
 
 <!ENTITY  securityTab           "Seguranza">
 <!ENTITY  securityTab.accesskey "e">
