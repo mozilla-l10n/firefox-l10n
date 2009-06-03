@@ -6,7 +6,7 @@
 <Url type="text/html" method="GET" template="http://dict.sztaki.hu/dict_search.php">
   <Param name="W" value="{searchTerms}"/>
   <Param name="L" value="ENG:HUN:EngHunDict"/>
-  <Param name="O" value="ENG"/>
+  <Param name="O" value="HUN"/>
   <Param name="C" value="1"/>
   <Param name="A" value="1"/>
   <Param name="E" value="1"/>
