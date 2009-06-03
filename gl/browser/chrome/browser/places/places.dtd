@@ -32,6 +32,10 @@
 <!ENTITY help.advancedTips.label        "Suxestións e trucos avanzados">
 <!ENTITY help.advancedTips.accesskey    "t">
 
+<!ENTITY cmd.bookmarkLink.label         "Marcar esta páxina…">
+<!ENTITY cmd.bookmarkLink.accesskey     "M">
+
+
 <!ENTITY cmd.findInBookmarks.label      "Localizar nos marcadores…">
 <!ENTITY cmd.findInBookmarks.accesskey  "L">
 <!ENTITY cmd.findCurrent.label          "Localizar na colección actual…">
