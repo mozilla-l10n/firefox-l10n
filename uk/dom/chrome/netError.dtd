@@ -1,7 +1,7 @@
 <!ENTITY loadError.label "Проблема при завантаженні сторінки">
 <!ENTITY retry.label "Спробувати знову">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Спроба з’єднання не вдалася">
 <!ENTITY connectionFailure.longDesc "<p>Браузер не зміг встановити з’єднання з вказаним сайтом, хоча той, схоже, існує.</p> 
@@ -131,9 +131,9 @@
 <!ENTITY phishingBlocked.title "Сайт підозрюється у шахрайстві!">
 <!ENTITY phishingBlocked.longDesc "<p>Надання будь-якої особистої інформації цій сторінці може призвести до крадіжки ваших особистих даних чи інших афер.</p> 
 <p>Ошуканство за допомогою підробленого сайту чи емейлу також називають фішингом. Шахраї намагаються видурити у вас інформацію імітуючи джерела, яким ви, можливо, довіряєте.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
-
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
