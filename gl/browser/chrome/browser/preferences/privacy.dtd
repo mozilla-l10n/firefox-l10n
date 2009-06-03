@@ -39,15 +39,7 @@
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "Manter o historial como mínimo">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "días">
 
-<!ENTITY  rememberForms.label           "Lembrar a información inserida nos formularios e nas barras de busca">
-<!ENTITY  rememberForms.accesskey       "i">
-
-<!ENTITY  rememberDownloads.label       "Lembrar as descargas">
-<!ENTITY  rememberDownloads.accesskey   "d">
 
 <!ENTITY  rememberHistory.pre.label      "Lembrar o historial de navegación polo menos">
 <!ENTITY  rememberHistory.pre.accesskey  "h">
@@ -58,8 +50,6 @@
 
 <!ENTITY  rememberDownload.label         "Lembrar o historial de descargas">
 <!ENTITY  rememberDownload.accesskey     "d">
-
-<!ENTITY  cookies.label                 "Cookies">
 
 <!ENTITY  acceptCookies.label           "Aceptar as cookies das páxinas web">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -79,16 +69,6 @@
 
 <!ENTITY  showCookies.label             "Mostrar cookies…">
 <!ENTITY  showCookies.accesskey         "k">
-
-
-<!ENTITY  privateData.label             "Datos privados">
-
-<!ENTITY  alwaysClear.label              "Eliminar sempre os meus datos privados cando peche &brandShortName;">
-<!ENTITY  alwaysClear.accesskey          "m">
-
-
-<!ENTITY  clearDataSettings.label        "Configuración…">
-<!ENTITY  clearDataSettings.accesskey    "f">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; :">
 <!ENTITY  historyHeader.pre.accesskey      "F">
