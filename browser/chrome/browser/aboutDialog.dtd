@@ -1,14 +1,13 @@
-<!ENTITY aboutDialog.title "Про &brandFullName;">
-<!ENTITY copyright "Учасники проекту">
-<!ENTITY copyright.accesskey "У">
+<!ENTITY aboutDialog.title          "Про &brandFullName;">
+<!ENTITY copyright                  "Учасники проекту">
+<!ENTITY copyright.accesskey        "У">
 <!ENTITY copyrightGNOME.accesskey   "У">
-<!ENTITY aboutLink "&lt; Про &brandFullName;">
-<!ENTITY aboutLink.accesskey "П">
-<!ENTITY aboutVersion "версія">
+<!ENTITY aboutLink                  "&lt; Про &brandFullName;">
+<!ENTITY aboutLink.accesskey        "П">
+<!ENTITY aboutVersion               "версія">
+<!ENTITY closeCmdGNOME.label        "Закрити">  
 <!ENTITY closeCmdGNOME.accesskey    "З">
-<!ENTITY closeCmdGNOME.label        "Закрити">
-
 <!ENTITY copyrightInfo1             "© 1998-2009 Участники. Всі права захищені. (">
-<!ENTITY copyrightInfo2             ").">
 <!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Інформація про ліцензії">
+<!ENTITY copyrightInfo2             ").">

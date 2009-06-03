@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Введіть адресу (URL) або вкажіть файл на диску, який ви хочете відкрити:">
+<!ENTITY enter.label "Введіть адресу (URL) або вкажіть файл на диску, який ви хочете відкрити:">  
 <!ENTITY chooseFile.label "Вибрати файл…">
 <!ENTITY newWindow.label "У новому вікні">
 <!ENTITY newTab.label "У новій вкладці">

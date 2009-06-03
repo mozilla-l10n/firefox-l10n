@@ -1,9 +1,9 @@
-<!ENTITY position.label "Розташування:">
-<!ENTITY tile.label "Плиткою">
-<!ENTITY center.label "По центру">
-<!ENTITY stretch.label "Розтягнути">
-<!ENTITY preview.label "Попередній перегляд">
-<!ENTITY color.label "Колір:">
+<!ENTITY position.label             "Розташування:">
+<!ENTITY tile.label                 "Плиткою">
+<!ENTITY center.label               "По центру">
+<!ENTITY stretch.label              "Розтягнути">
+<!ENTITY preview.label              "Попередній перегляд">
+<!ENTITY color.label                "Колір:">
 <!ENTITY setDesktopBackground.title "Встановити тлом робочого столу">
-<!ENTITY openDesktopPrefs.label "Відкрити налаштування робочого столу">
-<!ENTITY closeWindow.key "w">
+<!ENTITY openDesktopPrefs.label     "Відкрити налаштування робочого столу">
+<!ENTITY closeWindow.key            "w">

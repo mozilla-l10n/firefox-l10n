@@ -35,18 +35,18 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Додаткові параметри JavaScript">
-<!ENTITY window.width "38em">
+<!ENTITY advancedJSDialog.title         "Додаткові параметри JavaScript">
+<!ENTITY window.width                   "38em">
 
-<!ENTITY allowScripts.label "Дозволити JavaScript скриптам:">
+<!ENTITY allowScripts.label             "Дозволити JavaScript скриптам:">
 
-<!ENTITY moveResizeWindows.label "Змінювати розмір чи рухати вікна">
-<!ENTITY moveResizeWindows.accesskey "р">
-<!ENTITY raiseLowerWindows.label "Піднімати або опускати вікна">
-<!ENTITY raiseLowerWindows.accesskey "і">
-<!ENTITY disableContextMenus.label "Вимикати або замінювати контекстні меню">
-<!ENTITY disableContextMenus.accesskey "В">
-<!ENTITY hideStatusBar.label "Приховувати рядок стану">
-<!ENTITY hideStatusBar.accesskey "П">
-<!ENTITY changeStatusBar.label "Змінювати текст в рядку стану">
-<!ENTITY changeStatusBar.accesskey "д">
+<!ENTITY moveResizeWindows.label        "Змінювати розмір чи рухати вікна">
+<!ENTITY moveResizeWindows.accesskey    "р">
+<!ENTITY raiseLowerWindows.label        "Піднімати або опускати вікна">
+<!ENTITY raiseLowerWindows.accesskey    "і">
+<!ENTITY disableContextMenus.label      "Вимикати або замінювати контекстні меню">
+<!ENTITY disableContextMenus.accesskey  "В">
+<!ENTITY hideStatusBar.label            "Приховувати рядок стану">
+<!ENTITY hideStatusBar.accesskey        "П">
+<!ENTITY changeStatusBar.label          "Змінювати текст в рядку стану">
+<!ENTITY changeStatusBar.accesskey      "д">
