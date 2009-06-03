@@ -1,5 +1,5 @@
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
-<ShortName>Hotline.ua Пошук товарів</ShortName>
+<ShortName>Hotline.ua</ShortName>
 <Description>Пошук товарів по журналу Хотлайн</Description>
 <InputEncoding>windows-1251</InputEncoding>
 <Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9kECAk5BbjuK9IAAABiSURBVDjLxZNRDsAgCEPbxbt6pp22+2UKTYwm8l1KnyAlYacebBYBTBEkcRKSqa4BgN4g7PW0iEvyDEJLuYa4GVJpEHEc/9IWMtMyQXxE12gTOObjh3TfoDxlt7qf7vpv/ABdfShJVscsgAAAAABJRU5ErkJggg==</Image>
