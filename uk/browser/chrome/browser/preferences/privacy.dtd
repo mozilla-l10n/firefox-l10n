@@ -1,107 +1,112 @@
-<!ENTITY history.label "Журнал відвідувань">
+<!ENTITY  history.label                 "Журнал відвідувань">
+
+<!ENTITY  locationBar.label             "Панель адрес">
+
+<!ENTITY  locbar.pre.label              "У панелі адрес наводити підказками:">
+<!ENTITY  locbar.pre.accessKey          "п">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Історію та закладки">
+<!ENTITY  locbar.history.label          "Історію">
+<!ENTITY  locbar.bookmarks.label        "Закладки">
+<!ENTITY  locbar.nothing.label          "Нічого">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
+<!ENTITY  rememberDaysBefore.label      "Зберігати мою історію щонайменше">
+<!ENTITY  rememberDaysBefore.accesskey  "м">
+<!ENTITY  rememberDaysAfter2.label      "днів">
 
-<!ENTITY rememberDaysBefore.label "Зберігати мою історію щонайменше">
-<!ENTITY rememberDaysBefore.accesskey "м">
-<!ENTITY rememberDaysAfter2.label "днів">
+<!ENTITY  rememberForms.label           "Запам’ятовувати дані, введені мною у форми і панель пошуку">
+<!ENTITY  rememberForms.accesskey       "а">
 
-<!ENTITY rememberForms.label "Запам’ятовувати дані, введені мною у форми і панель пошуку">
-<!ENTITY rememberForms.accesskey "а">
-
-<!ENTITY rememberDownloads.label "Запам’ятовувати, які файли були мною завантажені">
-<!ENTITY rememberDownloads.accesskey "а">
-
-
-<!ENTITY cookies.label "Куки">
-
-<!ENTITY acceptCookies.label "Приймати куки з наступних сайтів">
-<!ENTITY acceptCookies.accesskey "и">
-
-<!ENTITY acceptThirdParty.label "Приймати куки від сторонніх сайтів">
-<!ENTITY acceptThirdParty.accesskey "П">
-
-<!ENTITY keepUntil.label "Зберігати їх, доки:">
-<!ENTITY keepUntil.accesskey "е">
-
-<!ENTITY expire.label "не закінчиться термін їх дії">
-<!ENTITY close.label "я закрию &brandShortName;">
-<!ENTITY askEachTime.label "питати кожного разу">
-
-<!ENTITY cookieExceptions.label "Винятки…">
-<!ENTITY cookieExceptions.accesskey "и">
-
-<!ENTITY showCookies.label "Показати куки…">
-<!ENTITY showCookies.accesskey "о">
+<!ENTITY  rememberDownloads.label       "Запам’ятовувати, які файли були мною завантажені">
+<!ENTITY  rememberDownloads.accesskey   "а">
 
 
-<!ENTITY privateData.label "Особисті дані">
+<!ENTITY  cookies.label                 "Куки">
 
-<!ENTITY alwaysClear.label "При закритті &brandShortName; завжди стирати мої особисті дані">
-<!ENTITY alwaysClear.accesskey "и">
+<!ENTITY  acceptCookies.label           "Приймати куки з наступних сайтів">
+<!ENTITY  acceptCookies.accesskey       "и">
+
+<!ENTITY  acceptThirdParty.label        "Приймати куки від сторонніх сайтів">
+<!ENTITY  acceptThirdParty.accesskey    "П">
+
+<!ENTITY  keepUntil.label               "Зберігати їх, доки:">
+<!ENTITY  keepUntil.accesskey           "е">
+
+<!ENTITY  expire.label                  "не закінчиться термін їх дії">
+<!ENTITY  close.label                   "я закрию &brandShortName;">
+<!ENTITY  askEachTime.label             "питати кожного разу">
+
+<!ENTITY  cookieExceptions.label        "Винятки…">
+<!ENTITY  cookieExceptions.accesskey    "и">
+
+<!ENTITY  showCookies.label             "Показати куки…">
+<!ENTITY  showCookies.accesskey         "о">
 
 
-<!ENTITY clearDataSettings.label "Настроювати…">
-<!ENTITY clearDataSettings.accesskey "а">
+<!ENTITY  privateData.label             "Особисті дані">
 
-<!ENTITY clearDataNow.label "Очистити зараз…">
-<!ENTITY clearDataNow.accesskey "и">
+<!ENTITY  alwaysClear.label              "При закритті &brandShortName; завжди стирати мої особисті дані">
+<!ENTITY  alwaysClear.accesskey          "и">
 
-<!-- FIXME: localize -->
-<!ENTITY  locbar.bookmarks.label        "Закладки">
-<!ENTITY  locbar.both.label             "Історію та закладки">
-<!ENTITY  locbar.history.label          "Історію">
-<!ENTITY  locbar.nothing.label          "Нічого">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.pre.accessKey          "п">
-<!ENTITY  locbar.pre.label              "У панелі адрес наводити підказками:">
+<!ENTITY  clearDataSettings.label        "Настроювати…">
+<!ENTITY  clearDataSettings.accesskey    "а">
 
-<!ENTITY  clearOnClose.accesskey         "w">
-<!ENTITY  clearOnClose.label             "Очищати історію коли &brandShortName; закривається">
-<!ENTITY  clearOnCloseSettings.accesskey "з">
-<!ENTITY  clearOnCloseSettings.label     "Налаштування…">
-<!ENTITY  dontrememberActions.clearHistory.label "вичищати всю поточну історію">
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.post.label         ".">
-
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Ви також можливо хочете ">
-
-<!ENTITY  dontrememberDescription.label  "&brandShortName; буде використовувати ті ж налаштування що й у потайливому режимі і не буде пам’ятати історії коли ви переглядаєте мережу.">
-<!ENTITY  historyHeader.custom.label       "Використовувати власні налаштування історії">
-<!ENTITY  historyHeader.dontremember.label "Ніколи не пам’ятати історії">
-<!ENTITY  historyHeader.post.label         "">
-<!ENTITY  historyHeader.pre.accesskey      "б">
 <!ENTITY  historyHeader.pre.label          "&brandShortName; буде:">
+<!ENTITY  historyHeader.pre.accesskey      "б">
 <!ENTITY  historyHeader.remember.label     "Пам’ятати історію">
-<!ENTITY  locationBar.label             "Панель адрес">
-<!ENTITY  privateBrowsingAutoStart.accesskey "А">
-<!ENTITY  privateBrowsingAutoStart.label "Автоматично запускати &brandShortName; у потайливому режимі">
-<!ENTITY  rememberActions.clearHistory.label  "очистити вашу недавню історію">
-<!ENTITY  dontrememberActions.clearHistory.label "очистити всю поточну історію">
-<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!ENTITY  rememberActions.middle.label        ", чи ">
-<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.post.label          ".">
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.post.label         ".">
-<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!ENTITY  rememberActions.pre.label           "Ви може хочете ">
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Ви також можливо хочете ">
-<!ENTITY  rememberActions.removeCookies.label "прибрати персональні куки">
+<!ENTITY  historyHeader.dontremember.label "Ніколи не пам’ятати історії">
+<!ENTITY  historyHeader.custom.label       "Використовувати власні налаштування історії">
+<!ENTITY  historyHeader.post.label         "">
+
 <!ENTITY  rememberDescription.label      "&brandShortName; буде пам’ятати вашу історію переглядів, завантажень, форм, та пошуків, а також зберігати куки з тих сайтів що ви відвідуєте.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Ви може хочете ">
+<!ENTITY  rememberActions.clearHistory.label  "очистити вашу недавню історію">
+<!ENTITY  rememberActions.middle.label        ", чи ">
+<!ENTITY  rememberActions.removeCookies.label "прибрати персональні куки">
+<!ENTITY  rememberActions.post.label          ".">
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; буде використовувати ті ж налаштування що й у потайливому режимі і не буде пам’ятати історії коли ви переглядаєте мережу.">
-<!ENTITY  rememberDownload.accesskey     "з">
-<!ENTITY  rememberDownload.label         "Пам’ятати історію завантажень">
-<!-- FIXME:comment -->
-<!ENTITY  rememberHistory.post.label     "днів">
-<!ENTITY  rememberHistory.pre.accesskey  "п">
-<!-- FIXME:comment -->
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Ви також можливо хочете ">
+<!ENTITY  dontrememberActions.clearHistory.label "очистити всю поточну історію">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Автоматично запускати &brandShortName; у потайливому режимі">
+<!ENTITY  privateBrowsingAutoStart.accesskey "А">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
 <!ENTITY  rememberHistory.pre.label      "Пам’ятати мою історію переглядів щонайменше">
-<!ENTITY  rememberSearchForm.accesskey   "ф">
+<!ENTITY  rememberHistory.pre.accesskey  "п">
+<!ENTITY  rememberHistory.post.label     "днів">
+
+<!ENTITY  rememberDownload.label         "Пам’ятати історію завантажень">
+<!ENTITY  rememberDownload.accesskey     "з">
+
 <!ENTITY  rememberSearchForm.label       "Пам’ятати історію пошуків та форм">
+<!ENTITY  rememberSearchForm.accesskey   "ф">
+
+<!ENTITY  clearOnClose.label             "Очищати історію коли &brandShortName; закривається">
+<!ENTITY  clearOnClose.accesskey         "w">
+
+<!ENTITY  clearOnCloseSettings.label     "Налаштування…">
+<!ENTITY  clearOnCloseSettings.accesskey "з">
+
+<!ENTITY  clearDataNow.label             "Очистити зараз…">
+<!ENTITY  clearDataNow.accesskey         "и">

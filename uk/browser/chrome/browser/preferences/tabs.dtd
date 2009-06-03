@@ -1,15 +1,14 @@
-
-<!ENTITY warnCloseMultipleTabs.label "Видавати попередження, коли я намагаюся закрити вікно з декількома вкладками">
-<!ENTITY warnCloseMultipleTabs.accesskey "и">
-
-<!ENTITY warnOpenManyTabs.label "Видавати попередження, коли я намагаюся відкрити одночасно велику кількість вкладок, що призведе до сповільнення роботи  &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "и">
-
-<!ENTITY showTabBar.label "Завжди показувати панель вкладок">
-<!ENTITY showTabBar.accesskey "а">
-
-<!ENTITY switchToNewTabs.label "При відкритті посилання в новій вкладці зробити її активною">
-<!ENTITY switchToNewTabs.accesskey "и">
-
 <!ENTITY newWindowsAsTabs.label       "Відкривати замість нових вікон нові вкладки">
 <!ENTITY newWindowsAsTabs.accesskey   "в">
+
+<!ENTITY warnCloseMultipleTabs.label  "Видавати попередження, коли я намагаюся закрити вікно з декількома вкладками">
+<!ENTITY warnCloseMultipleTabs.accesskey  "и">
+
+<!ENTITY warnOpenManyTabs.label       "Видавати попередження, коли я намагаюся відкрити одночасно велику кількість вкладок, що призведе до сповільнення роботи  &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "и">
+
+<!ENTITY showTabBar.label             "Завжди показувати панель вкладок">
+<!ENTITY showTabBar.accesskey         "а">
+
+<!ENTITY switchToNewTabs.label        "При відкритті посилання в новій вкладці зробити її активною">
+<!ENTITY switchToNewTabs.accesskey    "и">

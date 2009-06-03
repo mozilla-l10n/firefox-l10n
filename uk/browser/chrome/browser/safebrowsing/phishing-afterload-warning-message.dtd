@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "Заберіть мене звідси!">
 <!ENTITY safeb.palm.accept.statustext "Перейти до моєї домашньої сторінки">
 <!ENTITY safeb.palm.decline.label "Ігнорувати це попередження">
-<!ENTITY safeb.palm.decline.statustext "Закрити попередження">
+<!ENTITY safeb.palm.decline.statustext "Закрити попередження" >
 <!ENTITY safeb.palm.notforgery.label2 "Це не шахрайство…">
 <!ENTITY safeb.palm.report.label "Чому цей сайт заблоковано?">
 
