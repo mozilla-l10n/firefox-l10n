@@ -21,6 +21,7 @@
       <rdf:li> <rdf:Description ID="profile-help" nc:name="Gérer les profils" nc:link="profiles_help.xhtml"/> </rdf:li>
       <rdf:li> <rdf:Description ID="shortcuts" nc:name="Raccourcis clavier de &brandShortName;" nc:link="shortcuts.xhtml"/> </rdf:li>
       <rdf:li> <rdf:Description ID="tools" nc:name="Outils et développement de &brandShortName;" nc:link="developer_tools.xhtml"/> </rdf:li>
+      <rdf:li> <rdf:Description ID="glossary" nc:name="Glossaire" nc:link="glossary.xhtml"/> </rdf:li>
     </rdf:Seq>
   </nc:subheadings>
 </rdf:Description>
@@ -151,7 +152,7 @@
                   </nc:subheadings>
                 </rdf:Description>
 
-                <rdf:Description about="#nav-doc-plugins">
+                <rdf:Description about="#nav-doc-pluginsdownloads">
                   <nc:subheadings>
                     <rdf:Seq>
                       <rdf:li> <rdf:Description ID="nav-doc-plugins" nc:name="Plugins" nc:link="nav_help.xhtml#plugins"/> </rdf:li>
@@ -167,8 +168,6 @@
 <!--                      <rdf:li> <rdf:Description ID="nav-doc-helperapps" nc:name="Gérer les différents types de fichiers" nc:link="nav_help.xhtml#nav_helperapps"/> </rdf:li> -->
 <!--                       <rdf:li> <rdf:Description ID="nav-doc-default" nc:name="Définir &brandShortName; comme navigateur par défaut" nc:link="nav_help.xhtml#making_mozilla_your_default_browser"/> </rdf:li> -->
                       <rdf:li> <rdf:Description ID="nav-doc-autoload" nc:name="Chargement automatique" nc:link="nav_help.xhtml#automatic_loading"/> </rdf:li>
-                      <rdf:li> <rdf:Description ID="nav-doc-keywords" nc:name="Utiliser des mots clés
-      personnalisés" nc:link="nav_help.xhtml#custom_keywords"/> </rdf:li>
                       <rdf:li> <rdf:Description ID="nav-doc-cache" nc:name="Modifier les paramètres de cache" nc:link="nav_help.xhtml#changing_cache_settings"/> </rdf:li>
                       <rdf:li> <rdf:Description ID="nav-doc-smartup" nc:name="Téléchargement automatique de mises à jour de programmes" nc:link="nav_help.xhtml#getting_the_latest_software_automatically"/> </rdf:li>
                       <rdf:li> <rdf:Description ID="nav-doc-mousewheel" nc:name="Utiliser une souris à molette" nc:link="nav_help.xhtml#using_a_mouse_wheel"/> </rdf:li>
@@ -941,7 +940,7 @@
               <rdf:li> <rdf:Description ID="privacy-doc" nc:name="Confidentialité sur Internet" nc:link="privacy_help.xhtml#privacy_on_the_internet"/> </rdf:li>
               <rdf:li> <rdf:Description ID="using-priv-help-cookies" nc:name="Utiliser le gestionnaire de cookies" nc:link="using_priv_help.xhtml#using_the_cookie_manager"/> </rdf:li>
               <rdf:li> <rdf:Description ID="using-priv-help-password" nc:name="Utiliser le gestionnaire de mots de passe" nc:link="using_priv_help.xhtml#using_the_password_manager"/> </rdf:li>
-              <rdf:li> <rdf:Description ID="using-priv-help-forms" nc:name="Utiliser le gestionnaire de formulaires" nc:link="using_priv_help.xhtml#using_the_form_manager"/> </rdf:li>
+<!--              <rdf:li> <rdf:Description ID="using-priv-help-forms" nc:name="Utiliser le gestionnaire de formulaires" nc:link="using_priv_help.xhtml#using_the_form_manager"/> </rdf:li> -->
               <rdf:li> <rdf:Description ID="using-priv-help-encrypt" nc:name="Chiffrer les informations sensibles enregistrées sur le disque dur" nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/> </rdf:li>
               <rdf:li> <rdf:Description ID="images-help-managing" nc:name="Gérer les images" nc:link="using_priv_help.xhtml#managing_images"/> </rdf:li>
               <rdf:li> <rdf:Description ID="pop_up_blocking" nc:name="Gérer les popups" nc:link="cs_priv_prefs_popup.xhtml"/> </rdf:li>
@@ -987,7 +986,7 @@
                       <rdf:li> <rdf:Description ID="using-priv-help-cookies-site" nc:name="Gérer les cookies site par site" nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/> </rdf:li>
                       <rdf:li> <rdf:Description ID="using-priv-help-cookies-view" nc:name="Voir les cookies" nc:link="using_priv_help.xhtml#viewing_cookies"/> </rdf:li>
                       <rdf:li> <rdf:Description ID="using-priv-help-cookies-remove" nc:name="Supprimer les cookies" nc:link="using_priv_help.xhtml#removing_cookies"/> </rdf:li>
-                      <rdf:li> <rdf:Description ID="using-priv-help-cookies-policies" nc:name="Configurer les niveaux de confidentialité" nc:link="using_priv_help.xhtml#setting_privacy_levels"/> </rdf:li>
+<!--                      <rdf:li> <rdf:Description ID="using-priv-help-cookies-policies" nc:name="Configurer les niveaux de confidentialité" nc:link="using_priv_help.xhtml#setting_privacy_levels"/> </rdf:li> -->
                       <rdf:li> <rdf:Description ID="using-priv-help-cookies-settings" nc:name="Préférences du gestionnaire de cookies" nc:link="using_priv_help.xhtml#cookie_manager_settings"/> </rdf:li>
                     </rdf:Seq>
                   </nc:subheadings>
@@ -999,7 +998,7 @@
                               <rdf:li> <rdf:Description ID="cookies_prefs" nc:name="Préférences de Confidentialité et Sécurité - Cookies" nc:link="using_priv_help.xhtml#cookies"/> </rdf:li>
                               <rdf:li> <rdf:Description ID="cookies_stored" nc:name="Cookies stockés" nc:link="using_priv_help.xhtml#stored_cookies"/> </rdf:li>
                               <rdf:li> <rdf:Description ID="cookie_sites" nc:name="Sites avec cookies" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
-                              <rdf:li> <rdf:Description ID="privacy_levels" nc:name="Préférences de Confidentialité" nc:link="using_priv_help.xhtml#privacy_settings"/> </rdf:li>
+<!--                              <rdf:li> <rdf:Description ID="privacy_levels" nc:name="Préférences de Confidentialité" nc:link="using_priv_help.xhtml#privacy_settings"/> </rdf:li> -->
                               <rdf:li> <rdf:Description ID="cookie_notify" nc:name="Notification de cookies" nc:link="using_priv_help.xhtml#cookie_notification"/> </rdf:li>
                             </rdf:Seq>
                           </nc:subheadings>
@@ -1057,7 +1056,7 @@
                                   </nc:subheadings>
                                 </rdf:Description>
 
-                <rdf:Description about="#using-priv-help-forms">
+<!--                <rdf:Description about="#using-priv-help-forms">
                   <nc:subheadings>
                     <rdf:Seq>
                       <rdf:li> <rdf:Description ID="using-priv-help-forms-saveinfo" nc:name="Sauvegarder des informations à partir de formulaires" nc:link="using_priv_help.xhtml#saving_form_data"/> </rdf:li>
@@ -1080,7 +1079,7 @@
                               <rdf:li> <rdf:Description ID="forms_prefill" nc:name="Pré-remplir les champs de formulaires" nc:link="using_priv_help.xhtml#prefill_form_data"/> </rdf:li>
                             </rdf:Seq>
                           </nc:subheadings>
-                        </rdf:Description>
+                        </rdf:Description>  -->
 
                 <rdf:Description about="#using-priv-help-encrypt">
                   <nc:subheadings>

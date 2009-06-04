@@ -7,8 +7,8 @@
   %utilityOverlayDTD;
   <!ENTITY % pref-advancedDTD SYSTEM "chrome://communicator/locale/pref/pref-advanced.dtd" >
   %pref-advancedDTD;
-  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
-  %preftreeDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
   <!ENTITY % pref-scriptsDTD SYSTEM "chrome://communicator/locale/pref/pref-scripts.dtd" >
   %pref-scriptsDTD;
   <!ENTITY % pref-keynavDTD SYSTEM "chrome://communicator/locale/pref/pref-keynav.dtd" >
@@ -58,7 +58,6 @@
       <li><a href="#http_networking">&pref.http.title;</a></li>
       <li><a href="#software_installation">&pref.smartUpdate.title;</a></li>
       <li><a href="#mouse_wheel">&pref.mouseWheel.title;</a></li>
-      <li class="win"><a href="#system">&systemPref.caption;</a></li>
       <li><a href="#dom_inspector">&Inspector.label;</a></li>
     </ul>
   </div>
@@ -201,6 +200,25 @@
         fenêtres du courrier et des groupes.</dd>
       </dl>
     </dd>
+	
+	<dt>Quan des plugins supplémentaires sont requis</dt>
+
+	<dd>Cochez cette case si vous désirez être informer lorsqu'une page Web requiert un
+plugin additionnel&nbsp;:
+    
+	  <dl>
+
+		<dt>Afficher une barre de notification en haut de la zone d'affichage</dt>
+		
+		<dd>Lorsqu'une page Web requiert un plugin additionnel qui n'est pas installé sur votre
+		ordinateur, une barre de notificiation s'affichera au dessus de la zone d'affichage de la
+		page Web. À partir de cette barre, vous pourrez télécharger et installer le plugin
+		manquant.</dd>
+
+	  </dl>
+
+	</dd>
+
   </dl>
 
   <p>Pour plus d'informations sur les plugins, voir la section <a href=
@@ -633,7 +651,7 @@
       </dl>
     </dd>
 
-    <dt>&verffyUpdates.label;</dt>
+    <dt>&autoUpdates.label;</dt>
     <dd>Ces options vous permettent d'être averti lorsque des mises à jours sont
     disponibles. Vos informations personnelles ne sont pas transmises à
     &brandShortName; quand celui-ci vérifie votre version.
@@ -717,7 +735,7 @@
     <dd>Choisissez cette option pour naviguer dans les pages visitées,
     stockées dans l'historique.</dd>
 
-    <dt>&textsize.label;&nbsp;:</dt>
+    <dt>&zoom.label;&nbsp;:</dt>
     <dd>Choisissez cette option pour utiliser la molette de la souris pour
     augmenter ou diminuer la taille du texte sur une page Web. Ce
     réglage peut vous aider à lire une page avec plus de confort,
@@ -727,56 +745,6 @@
   <p class="rediger"><strong>Remarque</strong>&nbsp;: Si votre souris ne poss&egrave;de pas de
   mode de défilement horizontal, les param&egrave;tres du panneau
   <q>&mousewheelHorizGroup.label;</q> seront ignorés.</p>
-
-<div class="win">
-  <h2 id="system">Préférences avancées -
-  Syst&egrave;me</h2>
-
-  <p><strong>Remarque</strong>&nbsp;: Cette section, et les informations
-  qu'elle contient, concerne uniquement la version Microsoft&reg; Windows&reg;
-  de &brandShortName;.</p>
-
-  <p>Cette section décrit l'utilisation du panneau <q>Syst&egrave;me</q>
-  des préférences avancées. Si vous ne l'utilisez pas en
-  ce moment, suivez ces étapes&nbsp;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
-    class="noMac">&editMenu.label;</span></q> et choisissez
-    <q>&preferencesCmd.label;</q>.</li>
-    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez sur
-    <q>Syst&egrave;me</q>. Si aucune sous-catégorie n'est visible,
-    double-cliquez sur la catégorie <q>&pref.advanced.title;</q> pour
-    développer la liste.</li>
-  </ol>
-
-  <p>Le panneau <q>Syst&egrave;me</q> vous permet de spécifier quels
-  types de fichiers et quels protocoles seront ouverts en utilisant
-  &brandShortName;&nbsp;:</p>
-
-  <dl>
-    <dt>&files.label;</dt>
-    <dd>Sélectionnez les fichiers à ouvrir par défaut avec
-    &brandShortName; (HTML, JPEG, GIF, PNG, MNG, XBM, BMP, ICO, XML, XHTML, XUL).</dd>
-
-    <dt>&protocols.label;</dt>
-    <dd>Sélectionnez les protocoles à ouvrir par défaut
-    avec &brandShortName; (http, https, ftp, chrome, gopher).</dd>
-
-    <dt>&showDialog.label;</dt>
-    <dd>Sélectionnez cette option pour que &brandShortName; vous prévienne
-    si d'autres applications ont modifié ces associations de fichiers et
-    de protocoles.</dd>
-  </dl>
-
-  <p><strong>Astuce</strong>&nbsp;: Pour définir facilement &brandShortName; comme
-  navigateur par défaut, voir la section
-  <a href="cs_nav_prefs_navigator.xhtml#navigator">Préférences du
-  navigateur - Navigateur</a>. Sélectionnez également l'option
-  <q>&showDialog.label;</q> pour
-  être averti lorsque d'autres logiciels deviennent les applications par
-  défaut à la place de &brandShortName;.</p>
-</div>
 
   <h2 id="dom_inspector">Préférences avancées -
   &Inspector.label;</h2>

@@ -67,18 +67,22 @@
     gauche d'une des fen&ecirc;tres de &brandShortName;.</li>
   </ul>
 
-  <table>
+<!--  <table>
     <caption>
       ic&ocirc;ne du composeur
     </caption>
 
     <tbody>
       <tr>
-        <td><img src="images/composer_icon.gif" alt=
+        <td><img src="images/composer_icon.png" alt=
         "ic&ocirc;ne du composeur" /></td>
       </tr>
     </tbody>
-  </table>
+  </table> -->
+  
+  <div><img src="images/composer_icon.png" width="128" height="23" alt="" /></div>
+  <div style="-moz-margin-start: 80px;"><strong>Composer icon</strong></div>
+
 
   <div class="contentsBox">
     <p>Dans cette section&nbsp;:</p>
@@ -200,7 +204,7 @@
   &eacute;tudier le fonctionnement du langage HTML, le composeur permet
   &eacute;galement de modifier la source HTML d'un document. Pour voir ou
   &eacute;diter le code source HTML, ouvrez le menu <q>&viewMenu.label;</q> et
-  choisissez <q>&viewPageSource.label;</q>, ou cliquez sur l'onglet
+  choisissez <q>&HTMLSourceMode.label;</q>, ou cliquez sur l'onglet
   <q>&SourceMode.label;</q> dans la barre des modes d'&eacute;dition en bas de la
   fen&ecirc;tre du composeur.</p>
 
@@ -579,7 +583,7 @@
           les syst&egrave;mes.</p>
         </dd>
 
-        <dt>&fontsizeMenu.label;&nbsp;:</dt>
+        <dt>&fontSizeMenu.label;&nbsp;:</dt>
 
         <dd>Permet de s&eacute;lectionner une taille de police
         <em>relative</em> ou de r&eacute;duire ou diminuer la taille du texte
@@ -860,7 +864,8 @@
     <li>Placez le curseur l&agrave; o&ugrave; vous souhaitez ins&eacute;rer le
     code HTML, ou s&eacute;lectionnez le texte que vous d&eacute;sirez
     &eacute;diter, ouvrez le menu <q>&insertMenu.label;</q> et choisissez
-    <q>&pasteHTMLCmd.label;</q>. Dans la bo&icirc;te de dialogue <q>Ins&eacute;rer du code HTML</q>,
+    <q>&insertHTMLCmd.label;</q>. Dans la bo&icirc;te de dialogue <q>Ins&eacute;rer du code
+HTML</q>,
     <!-- Ne pas changer le menu precedent en entite car cette entite existe aussi dans un autre fichier -->
      entrez des balises HTML et du texte, puis cliquez sur
     <q>&insertMenu.label;</q>.</li>
@@ -1157,8 +1162,9 @@
 
     <li>Lorsque la page du service de validation HTML W3C (MarkUp Validation
     Service) appara&icirc;t, cliquez sur <q>Parcourir</q> pour indiquer
-    l'emplacement du fichier &agrave; analyser puis cliquez sur <q>CHeck</q>
-     pour le valider.</li>
+    l'emplacement du fichier &agrave; analyser.</li>
+	
+	<li>cliquez sur <q>Check</q> pour le valider.</li>
   </ol>
 
   <p><strong>Astuces</strong>&nbsp;: voici deux sites &agrave; visiter pour
@@ -1541,10 +1547,8 @@
   d&eacute;faut, &agrave; partir de la fen&ecirc;tre du composeur&nbsp;:</p>
 
   <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-      class="noMac">Edition</span></q>,
-    choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q> puis
-    <q>Composeur</q>.</li>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span class="noMac">Edition</span></q>,
+    choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q> puis <q>Composeur</q>.</li>
 
     <li>Dans la section <q>&Eacute;dition</q>, d&eacute;finissez
     les pr&eacute;f&eacute;rences suivantes&nbsp;:
@@ -2350,15 +2354,19 @@
   de lien de la fen&ecirc;tre du navigateur vers une fen&ecirc;tre du composeur
   pour copier &agrave; la fois l'image et le lien.</p>
 
-  <p><strong>Remarque</strong>&nbsp;: pour supprimer la bordure bleue des
-  images utilis&eacute;es comme liens :</p>
+  <p>Pour supprimer la bordure bleue des images utilis&eacute;es comme liens&nbsp;:</p>
 
   <ol>
-    <li> s&eacute;lectionnez l'image  utilis&eacute;e comme lien,</li>
-    <li> ouvrez le menu <q>&formatMenu.label;</q> puis s&eacute;lectionnez <q>Propri&eacute;t&eacute;s de l'image et du lien,</q></li>
-    <li> dans la boite de dialogue, placez vous dans l'onglet <q>Liens</q>,</li>
-    <li> et d&eacute;cochez la case <q>Afficher la bordure du lien autour de l'image</q>,</li>
-    <li> enfin, cliquez sur Ok.</li>
+    <li>S&eacute;lectionnez l'image  utilis&eacute;e comme lien&nbsp;;</li>
+
+	<li>Ouvrez le menu <q>&formatMenu.label;</q> puis s&eacute;lectionnez
+	<q>Propri&eacute;t&eacute;s de l'image et du lien</q>&nbsp;;</li>
+
+	<li>Dans la boite de dialogue, placez vous dans l'onglet <q>Liens</q>&nbsp;;</li>
+
+	<li>Et d&eacute;cochez la case <q>Afficher la bordure du lien autour de l'image</q>&nbsp;;</li>
+
+	<li>Cliquez sur <q>Ok</q>.</li>
   </ol>
 
   <p>[&nbsp;<a href="#creating_links_in_composer">Retour au d&eacute;but de la

@@ -299,7 +299,7 @@
     pr&eacute;c&eacute;demment visit&eacute;es.</li>
   </ol>
 
-<p><strong>Astuce</strong> : Dans <q>&pageHis.label; [__] &days.label;</q>, vous
+<p><strong>Astuce</strong> : Dans <q>&expireDays1.label; [__] &expireDays2.label;</q>, vous
 pouvez param&eacute;trer le nombre de jours pendant lequel les pages
 visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
 
@@ -447,7 +447,8 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
 
   <table summary="table for images">
     <tr>
-      <td rowspan="2"><img src="images/sidebarclosed_small.gif" alt=
+      <td rowspan="2" style="vertical-align:middle; -moz-padding-end: 20px;"><img
+src="images/sidebarclosed_small.gif" alt=
       "Barre lat&eacute;rale ferm&eacute;e" /></td>
 
       <td><strong>Barre lat&eacute;rale</strong></td>
@@ -481,9 +482,6 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
       <li><a href="#sidebar_advanced_search_mode">Mode de recherche avanc&eacute;</a></li>
 
       <li><a href="#setting_search_preferences">Modifier les options de recherche</a></li>
-
-      <li><a href="#using_internet_keywords">Utiliser les mots cl&eacute;s
-      Internet</a></li>
 
       <li><a href="#searching_within_a_page">Rechercher dans une page Web</a></li>
 
@@ -527,13 +525,15 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
 
         <li>S&eacute;lectionnez ou cliquez sur <q>Rechercher avec <em>moteur de
         recherche par d&eacute;faut</em></q> dans le menu d&eacute;roulant qui
-        appara&icirc;t sous la barre d'adresse. Le moteur de recherche par
-        d&eacute;faut peut &ecirc;tre configur&eacute; dans <a
-        href="cs_nav_prefs_navigator.xhtml#smart_browsing">les
-        pr&eacute;f&eacute;rences de recherche sur Internet</a> (menu
-        <span class="mac">SeaMonkey</span><span class="noMac">&Eacute;dition</span>
-        &gt; Pr&eacute;f&eacute;rences &gt; Navigateur &gt;
-        Recherche sur Internet).
+        appara&icirc;t sous la barre d'adresse.
+
+		  <p>Le moteur de recherche par
+		  d&eacute;faut peut &ecirc;tre configur&eacute; dans les <a
+		  href="cs_nav_prefs_navigator.xhtml#internet_search">
+		  pr&eacute;f&eacute;rences de recherche sur Internet</a> (menu
+		  <span class="mac">SeaMonkey</span><span class="noMac">&Eacute;dition</span>
+		  &gt; Pr&eacute;f&eacute;rences &gt; Navigateur &gt;
+		  Recherche sur Internet).</p>
 
           <p>Les r&eacute;sultats de la recherche de <q>poup&eacute;e</q>
           apparaissent dans la fen&ecirc;tre du navigateur ainsi que dans le
@@ -551,9 +551,15 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
   pas n&eacute;cessaire d'utiliser le bouton <q>Pr&eacute;c&eacute;dent</q>
   pour retrouver les autres r&eacute;sultats de la recherche.</p>
 
-  <p><strong>Remarque</strong>&nbsp;: vous pouvez aussi <a href=
-  "#using_internet_keywords">utiliser les mots cl&eacute;s Internet</a> pour faire une
-  recherche &agrave; partir de la barre d'adresse.</p>
+  <p><strong>Remarque</strong>&nbsp;: Dans la section <q>Adresse inconnue</q>
+  des <a href="cs_nav_prefs_navigator.xhtml#location_bar">préférences de la
+  barre d'adress</a>, vous pouvez paramétrer la barre d'adresse pour effectuer
+  automatiquement une recherche si le texte saisi n'est pas une adresse Web.
+  Saisir un mot dans la barre d'adresse et appuyer sur <kbd
+  class="noMac">Entrée</kbd><kbd class="mac">Retour</kbd> lancera la recherche.
+  Pour une description plus complète de cette fonctionnalité, vois le document
+  en ligne <a href="http://www.mozilla.org/docs/end-user/internet-keywords.html"
+  hreflang="en">Internet Keywords</a>.</p>
 
   <h3 id="searching_from_sidebar">Rechercher depuis la barre lat&eacute;rale</h3>
 
@@ -791,7 +797,7 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
   <p>[&nbsp;<a href="#searching_the_web">Retour au d&eacute;but de la
   section</a>&nbsp;]</p>
 
-  <h2 id="using_internet_keywords">Utiliser les mots cl&eacute;s Internet</h2>
+<!--  <h2 id="using_internet_keywords">Utiliser les mots cl&eacute;s Internet</h2>
 
   <p>L'utilisation des mots cl&eacute;s Internet avec la barre d'adresse vous
   aide &agrave; trouver rapidement des types d'informations sp&eacute;cifiques.
@@ -818,7 +824,7 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
     <q>restaurants</q> pour des informations locales. Par exemple, entrez
     <q>paris restaurants</q>.</li>
   </ul>
-  <!-- <p><strong>Astuce</strong>&nbsp;: Les mots cl&eacute;s Internet les plus courants sont repris dans la liste d&eacute;roulante sur la gauche de la barre d'adresse. Cliquez sur le triangle et faites votre choix dans la liste. Pour voir une liste plus importante de mots cl&eacute;s, choisissez <q>Liste de mots cl&eacute;s</q>.</p>  -->
+  <p><strong>Astuce</strong>&nbsp;: Les mots cl&eacute;s Internet les plus courants sont repris dans la liste d&eacute;roulante sur la gauche de la barre d'adresse. Cliquez sur le triangle et faites votre choix dans la liste. Pour voir une liste plus importante de mots cl&eacute;s, choisissez <q>Liste de mots cl&eacute;s</q>.</p>
 
   <p><strong>Important</strong>&nbsp;: Pour utiliser les mots cl&eacute;s
   Internet, vous devez utiliser la touche <kbd class="mac">Retour</kbd><kbd
@@ -848,7 +854,7 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
   Internet sont activ&eacute;s.</p>
 
   <p>[&nbsp;<a href="#searching_the_web">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  section</a>&nbsp;]</p> -->
 
   <!--<h2 id="nav_smartbrowse">Pr&eacute;f&eacute;rences de navigation
   assist&eacute;e</h2>
@@ -1435,14 +1441,14 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
             <dt>Portrait&nbsp;:</dt>
 
             <dd>Choisissez <q>Portrait</q> <img src=
-            "chrome://global/skin/icons/pg-portrait-small.gif" alt=
+            "chrome://global/skin/icons/Portrait.png" alt=
             "portrait button" /> pour orienter normalement la page, avec le
             petit c&ocirc;t&eacute; vers le haut.</dd>
 
             <dt>Paysage&nbsp;:</dt>
 
             <dd>Choisissez <q>Paysage</q> <img src=
-            "chrome://global/skin/icons/pg-landscape-small.gif" alt=
+            "chrome://global/skin/icons/Landscape.png" alt=
             "landscape button" /> pour positionner la page sur le flanc, avec
             le grand c&ocirc;t&eacute; vers le haut.</dd>
           </dl>
@@ -1755,59 +1761,10 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
   fonction de la langue que vous utilisez. Les fonctionnalit&eacute;s des
   &eacute;l&eacute;ments restent toutefois les m&ecirc;mes.</p>
 
-  <p>Pour utiliser la langue de votre choix&nbsp;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
-    class="noMac">&Eacute;dition</span></q>
-    et choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
-
-    <li>Dans la cat&eacute;gorie <q>Apparence</q>, choisissez
-    <q>Langues</q>. Si aucune sous-cat&eacute;gorie n'est visible,
-    double-cliquez sur la cat&eacute;gorie <q>Apparence</q> pour
-    d&eacute;velopper la liste.</li>
-
-    <li>Dans le cadre <q>Langues install&eacute;es</q> s&eacute;lectionnez une
-    langue &agrave; utiliser pour l'affichage.</li>
-
-    <li>Cliquez sur <q>OK</q> pour terminer, sinon choisissez un contenu (voir
-    ci-dessous).</li>
-  </ol>
-
-  <p><strong>Remarque</strong>&nbsp;: Vous devez red&eacute;marrer &brandShortName;
-  apr&egrave;s avoir chang&eacute; la langue &agrave; utiliser. Pour
-  t&eacute;l&eacute;charger de nouveaux paquetages de langue pour &brandShortName;,
-  cliquez sur <q>T&eacute;l&eacute;charger plus</q></p>
-
-<!--  <p>Le paquetage de contenu modifie la page d'accueil, les marque-pages, le
-  contenu de la barre d'outils, la barre lat&eacute;rale et d'autres
-  &eacute;l&eacute;ments.</p>
-
-  <p>Pour utiliser un paquetage de contenu&nbsp;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&Eacute;dition</span></q>
-    et choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
-
-    <li>Dans la cat&eacute;gorie <q>Apparence</q>, choisissez
-    <q>Langues/Contenus</q>. Si aucune sous-cat&eacute;gorie n'est visible,
-    double-cliquez sur la cat&eacute;gorie <q>Apparence</q> pour
-    d&eacute;velopper la liste.</li>
-
-    <li>Dans le cadre <q>Contenus sp&eacute;cifiques install&eacute;s</q>
-    s&eacute;lectionnez un paquetage de contenu.</li>
-
-    <li>Cliquez sur <q>OK</q>.</li>
-  </ol>
-
-  <p><strong>Remarque</strong>&nbsp;: Vous devez red&eacute;marrer &brandShortName;
-  apr&egrave;s avoir chang&eacute; de paquetages de langue et de contenu..</p>-->
-
   <p>Les pages Web sont parfois disponibles en plusieurs langues. &brandShortName; peut
-  afficher ces pages dans votre langue pr&eacute;f&eacute;r&eacute;e, si
-  celle-ci est disponible. Vous pouvez sp&eacute;cifier les langues que vous
-  d&eacute;sirez utiliser, dans votre ordre de pr&eacute;f&eacute;rence.</p>
+  afficher ces pages dans <a href="cs_nav_prefs_navigator.xhtml#languages">votre langue
+  pr&eacute;f&eacute;r&eacute;e</a>, si celle-ci est disponible. Vous pouvez sp&eacute;cifier les
+  langues que vous d&eacute;sirez utiliser, dans votre ordre de pr&eacute;f&eacute;rence.</p>
 
   <p>Pour modifier les param&egrave;tres de la langue&nbsp;:</p>
 
@@ -2248,7 +2205,7 @@ visit&eacute;es seront conserv&eacute;es dans l'historique.</p>
     adresse et remplacez cette m&ecirc;me cha&icirc;ne (<tt>ILoveMozilla</tt>)
     par <kbd>%s</kbd>. Vous devriez avoir une adresse ressemblant
     &agrave; &ccedil;a&nbsp;:
-    <kbd>http://www.google.com/search?q=<strong>%s</strong>&amp;btnI=I'mFeelingLucky</kbd>.</li>
+    <kbd>http://www.google.com/search?q=<strong>%s</strong>&amp;btnI=I&apos;mFeelingLucky</kbd>.</li>
 
     <li>Saisissez un mot cl&eacute; dans le champ <q>Mot cl&eacute;</q>.</li>
 

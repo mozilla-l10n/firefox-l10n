@@ -21,6 +21,7 @@
         <rdf:li> <rdf:Description nc:name="Barre d'adresse" nc:link="glossary.xhtml#location_bar"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Barre des composants" nc:link="glossary.xhtml#component_bar"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Barre d'état" nc:link="glossary.xhtml#status_bar"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="Barre de notification" nc:link="glossary.xhtml#notification_bar"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Barre d'outils de navigation" nc:link="glossary.xhtml#navigation_toolbar"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Barre d'outils personnelle" nc:link="glossary.xhtml#personal_toolbar"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Cache" nc:link="glossary.xhtml#cache"/> </rdf:li>
@@ -61,7 +62,7 @@
         <rdf:li> <rdf:Description nc:name="FTP" nc:link="glossary.xhtml#ftp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Gestionnaire de certificats" nc:link="glossary.xhtml#certificate_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Gestionnaire de cookies" nc:link="glossary.xhtml#cookie_manager"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Gestionnaire de formulaires" nc:link="glossary.xhtml#form_manager"/> </rdf:li>
+        <!--<rdf:li> <rdf:Description nc:name="Gestionnaire de formulaires" nc:link="glossary.xhtml#form_manager"/> </rdf:li>-->
         <rdf:li> <rdf:Description nc:name="Gestionnaire de mots de passe" nc:link="glossary.xhtml#password_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Gopher" nc:link="glossary.xhtml#gopher"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Hameçonage" nc:link="glossary.xhtml#phishing"/> </rdf:li>
@@ -94,7 +95,7 @@
         <rdf:li> <rdf:Description nc:name="Objet" nc:link="glossary.xhtml#subject"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Objet signé" nc:link="glossary.xhtml#object_signing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="OCSP" nc:link="glossary.xhtml#ocsp"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="P3P" nc:link="glossary.xhtml#p3p"/> </rdf:li>
+<!--        <rdf:li> <rdf:Description nc:name="P3P" nc:link="glossary.xhtml#p3p"/> </rdf:li> -->
         <rdf:li> <rdf:Description nc:name="Page d'accueil" nc:link="glossary.xhtml#home_page"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Page Web" nc:link="glossary.xhtml#web_page"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Paire de clés croisées" nc:link="glossary.xhtml#dual_key_pairs"/> </rdf:li>
