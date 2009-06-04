@@ -44,6 +44,8 @@
 <!ENTITY confirmMove.accesskey            "l">
 <!ENTITY preserveThreading.label          "Paisyti gijų, rikiuojant laiškus">
 <!ENTITY preserveThreading.accesskey      "k">
+<!ENTITY mailBiffOnNewWindow.label        "Ar yra naujų laiškų, tikrinti tik atvėrus el. pašto ir naujienų grupių programą">
+<!ENTITY mailBiffOnNewWindow.accesskey    "t">
 
 <!ENTITY defaultMailSettings.description  "Skirti „&brandShortName;“ numatytąja programa:">
 <!ENTITY setDefaultMail.label             "elektroniniam paštui">
