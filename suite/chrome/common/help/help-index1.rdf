@@ -577,7 +577,7 @@
          nc:name="Adresses IP"
          nc:link="privacy_help.xhtml#internet_address"/>
      </rdf:li>
-     <rdf:li>
+<!--     <rdf:li>
        <rdf:Description ID="privacy:P3P_levels"
          nc:name="Configurer les niveaux de confidentialité"
          nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
@@ -586,7 +586,7 @@
        <rdf:Description ID="privacy:P3P_standard_and"
          nc:name="Normes P3P"
          nc:link="page_info_help.xhtml"/>
-     </rdf:li>
+     </rdf:li>  -->
      <rdf:li>
        <rdf:Description ID="privacy:preferences"
          nc:name="Préférences de confidentialité"
@@ -597,11 +597,11 @@
          nc:name="Utiliser les fonctionnalités de confidentialité"
          nc:link="privacy_help.xhtml#using_privacy_features"/>
      </rdf:li>
-     <rdf:li>
+<!--     <rdf:li>
        <rdf:Description ID="privacy:settings"
          nc:name="Préférences de Confidentialité"
          nc:link="using_priv_help.xhtml#privacy_settings"/>
-     </rdf:li>
+     </rdf:li> -->
      <rdf:li>
        <rdf:Description ID="privacy:viewing_site_policy"
          nc:name="Voir la politique de confidentialité d'un site"
@@ -644,11 +644,11 @@
             nc:name="Préférences de Confidentialité et Sécurité - Cookies"
             nc:link="using_priv_help.xhtml#cookies"/>
         </rdf:li>
-        <rdf:li>
+<!--        <rdf:li>
           <rdf:Description ID="cookies:privacy_levels_for"
             nc:name="Configurer les niveaux de confidentialité"
             nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-        </rdf:li>
+        </rdf:li>  -->
         <rdf:li>
           <rdf:Description ID="cookies:removing"
             nc:name="Supprimer les cookies"
@@ -1023,11 +1023,11 @@
           nc:name="Gestionnaire de cookies"
           nc:link="using_priv_help.xhtml#using_the_cookie_manager"/>
       </rdf:li>
-      <rdf:li>
+<!--      <rdf:li>
         <rdf:Description ID="Form_Manager"
           nc:name="Gestionnaire de formulaires"
           nc:link="using_priv_help.xhtml#using_the_form_manager"/>
-      </rdf:li>
+      </rdf:li>  -->
       <rdf:li>
         <rdf:Description ID="password_manager"
           nc:name="Gestionnaire de mots de passe"
@@ -1064,7 +1064,7 @@
     </nc:subheadings>
   </rdf:Description>
 
-  <rdf:Description about="#Form_Manager">
+<!--  <rdf:Description about="#Form_Manager">
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li>
@@ -1126,7 +1126,7 @@
           </rdf:li>
         </rdf:Seq>
       </nc:subheadings>
-    </rdf:Description>
+    </rdf:Description>  -->
 
     <rdf:Description about="#password_manager">
     <nc:subheadings>
@@ -1974,11 +1974,11 @@
          nc:name="Préférences d'apparence - Polices"
          nc:link="cs_nav_prefs_appearance.xhtml#fonts"/>
      </rdf:li>
-     <rdf:li>
+<!--     <rdf:li>
        <rdf:Description ID="preferences:forms"
          nc:name="Préférences de Confidentialité et Sécurité - Formulaires"
          nc:link="using_priv_help.xhtml#forms"/>
-     </rdf:li>
+     </rdf:li>  -->
      <rdf:li>
        <rdf:Description ID="preferences:helper_applications"
          nc:name="Préférences du navigateur - Applications"

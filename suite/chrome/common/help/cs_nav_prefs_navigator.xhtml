@@ -7,8 +7,8 @@
   %utilityOverlayDTD;
   <!ENTITY % local-panelsDTD SYSTEM "chrome://communicator/locale/sidebar/local-panels.dtd" >
   %local-panelsDTD;
-  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
-  %preftreeDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
   <!ENTITY % pref-navigatorDTD SYSTEM "chrome://communicator/locale/pref/pref-navigator.dtd" >
   %pref-navigatorDTD;
   <!ENTITY % pref-historyDTD SYSTEM "chrome://communicator/locale/pref/pref-history.dtd" >
@@ -21,6 +21,8 @@
   %pref-languagesDTD;
   <!ENTITY % pref-smart_browsingDTD SYSTEM "chrome://communicator/locale/pref/pref-smart_browsing.dtd" >
   %pref-smart_browsingDTD;
+  <!ENTITY % pref-locationbarDTD SYSTEM "chrome://communicator/locale/pref/pref-locationbar.dtd" >
+  %pref-locationbarDTD;
   <!ENTITY % pref-searchDTD SYSTEM "chrome://communicator/locale/pref/pref-search.dtd" >
   %pref-searchDTD;
   <!ENTITY % pref-downloadDTD SYSTEM "chrome://communicator/locale/pref/pref-download.dtd" >
@@ -68,7 +70,7 @@
 
       <li><a href="#helper_applications">&applications.label;</a></li>
 
-      <li><a href="#smart_browsing">&smartBrowse.label;</a></li>
+      <li><a href="#location_bar">&locationBar.label;</a></li>
 
       <li><a href="#internet_search">&search.label;</a></li>
 
@@ -98,7 +100,7 @@
   personnaliser certains aspects du navigateur.</p>
 
   <dl>
-    <dt>&navRadio;&nbsp;:</dt>
+    <dt>&navRadio.label;&nbsp;:</dt>
 
     <dd>
       Choisissez dans la liste d&eacute;roulante l'&eacute;l&eacute;ment dont
@@ -161,7 +163,7 @@
           bouton, vous verrez s'afficher le message <q>Le groupe de pages
           d'accueil est fix&eacute;</q>. Pour plus d'informations concernant
           l'ouverture d'onglets, voir la section <a href=
-          "customize_help.html#tabbed_browsing">Navigation par onglets</a>.
+          "customize_help.xhtml#tabbed_browsing">Navigation par onglets</a>.
 
           <p><strong>Attention</strong>&nbsp;: Si vous &eacute;ditez le champ
           texte apr&egrave;s avoir appuy&eacute; sur le bouton <q>&useCurrent.label;</q>,
@@ -188,13 +190,11 @@
       disponibles pour voir dans vos barres d'outils les boutons
       correspondants.
 
-      <p>Les boutons <q>&goButton.label;</q>, <q>&searchButton.label;</q> et <q>&printButton.label;</q>
+      <p>Les boutons <q>&goButton.label;</q> et <q>&searchButton.label;</q>
       apparaissent dans la barre d'outils du navigateur, pr&egrave;s du coin en
-      haut &agrave; droite de la fen&ecirc;tre du navigateur. Les boutons
-      <q>&homeButton.label;</q> et <q>&bookmarksButton.label;</q>  apparaissent dans la barre
-      d'outils personnelle. Pour plus d'informations concernant l'ajout de vos
-      marque-pages dans cette barre d'outils, voir la section <a href=
-      "customize_help.html#personal_toolbar">&persToolbarIntro.label;</a>.</p>
+      haut &agrave; droite de la fen&ecirc;tre du navigateur. Pour plus d'informations concernant
+	  l'ajout de vos marque-pages dans cette barre d'outils, voir la section <a href=
+      "customize_help.xhtml#personal_toolbar">&navToolbarIntro.label;</a>.</p>
     </dd>
   </dl>
 
@@ -227,7 +227,7 @@
 
     <dd>
       <dl>
-        <dt>&pageHis.label; __ &days.label;&nbsp;:</dt>
+        <dt>&expireDaysMin1.label; __ &expireDaysMin2.label;&nbsp;:</dt>
 
         <dd>Saisissez le nombre de jours pendant lequel vous voulez que &brandShortName;
         conserve une r&eacute;f&eacute;rence vers les pages Web que vous avez
@@ -253,7 +253,7 @@
       </dl>
 
       <p>Pour plus d'information concernant l'historique dans &brandShortName;, voir la
-      section <a href="nav_help.html#retracing_your_steps">Revenir aux pages
+      section <a href="nav_help.xhtml#retracing_your_steps">Revenir aux pages
       pr&eacute;c&eacute;dentes</a>.</p>
     </dd>
   </dl>
@@ -261,7 +261,7 @@
   <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
   section</a>&nbsp;]</p>
 
-  <h2 id="languages">Pr&eacute;f&eacute;rences du navigateur - &languages.customize.lHeader;</h2>
+  <h2 id="languages">Pr&eacute;f&eacute;rences du navigateur - &languages.label;</h2>
 
   <p>Cette section d&eacute;crit comment utiliser le panneau des
   pr&eacute;f&eacute;rences des langues. Si vous n'&ecirc;tes pas
@@ -274,7 +274,7 @@
     et s&eacute;lectionner <q>&preferencesCmd.label;</q>.</li>
 
     <li>Dans la cat&eacute;gorie <q>&navigator.label;</q>, cliquez sur
-    <q>&languages.customize.lHeader;</q>.
+    <q>&languages.label;</q>.
     Si aucune sous-cat&eacute;gorie n'est visible, double-cliquez sur la
     cat&eacute;gorie <q>&navigator.label;</q> pour d&eacute;velopper la
     liste.</li>
@@ -297,12 +297,19 @@
         d'&eacute;tablir l'ordre de pr&eacute;f&eacute;rences des langues dans
         la liste.</dd>
 
-        <dt>&languages.customize.add.label;&nbsp;:</dt>
+        <dt>&languages.customize.add.title.label;&nbsp;:</dt>
 
         <dd>Cliquez ici pour ajouter une langue suppl&eacute;mentaire pour
-        l'affichage des pages Web.</dd>
+        l'affichage des pages Web.  Dans la boîte de dialogue, sélectionnez une langue dans la
+		liste. Si vous désirez une langue qui n'est pas présente dans la liste, saisissez un code de
+		langue (les codes à 2 et 3 lettres sont utilisables) dans le champ en dessous de la liste.
+		Consultez le document <a
+		href="http://www.loc.gov/standards/iso639-2/php/code_list.php" hreflang="en">Codes
+        for the Representation of Names of Languages</a> pour la liste complète des codes de langue.
+		Cliquez sur <q>OK</q> pour fermer la boîte de dialogie et enregistrer vos
+		modifications.</dd>
 
-        <dt>&languages.customize.remove.label;&nbsp;:</dt>
+        <dt>&languages.customize.deleteButton.label;&nbsp;:</dt>
 
         <dd>Cliquez ici pour supprimer la langue s&eacute;lectionn&eacute;e.</dd>
       </dl>
@@ -359,85 +366,58 @@
   d&eacute;finir la fa&ccedil;on dont les diff&eacute;rents types de fichiers
   seront ouverts dans &brandShortName; par les autres applications&nbsp;:</p>
 
-  <dl>
-    <dt>&mimeDesc;</dt>
+  <p>The Helper Applications preferences panel lets you choose applications and
+  other handlers to handle different types of content (e.g. PDF documents).
+  It shows you a list of content types and lets you select a handler for each
+  type. To filter the list, use the search field. Text entered in there will
+  narrow the list to entries containing that text either in the type description
+  or the currently selected action.</p>
 
-    <dd>
-      <dl>
-        <dt>&fileTypes.label;</dt>
+  <p>You can choose a local application to handle any type. For some types, you
+  can also choose a web application to handle the type, choose
+  <!-- a feature (like <a href="glossary.xhtml#live_bookmark">Live Bookmarks</a> for
+  feeds) or --> a <a href="glossary.xhtml#plugin">plugin</a> in &brandShortName; to
+  handle the type, or save the type on your computer.</p>
 
-        <dd>
-          Affiche les types de fichiers que &brandShortName; utilise.
-          S&eacute;lectionnez un d'entre eux pour afficher les informations
-          suivantes&nbsp;:
+  <p>To choose a handler for a type, select the type from the list. The current
+  handler for the type will turn into a menu. Open the menu and select the
+  handler you want to handle the type. Depending on the actual type, you can:</p>
 
-          <dl>
-            <dt>&exten;</dt>
+  <ul>
+	<li>Choose an application by selecting it from the menu. If you want a local
+    application that is not in the menu to handle the type, select
+    <q>&browse.label;</q> from the menu and navigate to its location.</li>
 
-            <dd>Affiche l'extension du type de fichier
-            s&eacute;lectionn&eacute;.</dd>
+	<li>Choose a plugin or an application by selecting it from the menu.</li>
 
-            <!--<dt>&mimetype.label;</dt>
+	<li>Save files of this type on your computer by selecting
+    <q>&saveToDisk.label;</q> from the menu. If you have selected the
+    <q>&autoDownload.label;</q>
+    preference in the <q>&pref.download.title;</q> panel, &brandShortName; will
+    save content of this type on your computer automatically. Otherwise, when
+    you encounter this type, &brandShortName; will prompt you for a location on
+    your computer to save it to.</li>
 
-            <dd>Affiche le type MIME du type de fichier
-            s&eacute;lectionn&eacute;.</dd>-->
+	<li>Tell &brandShortName; to <q>&askBeforeOpen.label;</q> what to do when
+    encountering this type. When you choose this option, a dialog will always be
+    shown when files of this type are accessed, and you can choose how to handle
+    that specific file from there.</li>
 
-            <dt>&handle;</dt>
-
-            <dd>Affiche le comportement de &brandShortName; lorsqu'il rencontre ce
-            type de fichier. Suivant le type du fichier, &brandShortName; peut le
-            traiter en interne ou utiliser une application auxiliaire.</dd>
-          </dl>
-        </dd>
-
-        <dt>&newTypeButton.label;&nbsp;:</dt>
-
-        <dd>Cliquez sur ce bouton pour ajouter un nouveau type de fichier.
-        Saisir une description, une extension de fichier, un type MIME et
-        choisir le comportement de &brandShortName; lorsqu'il rencontre ce type de
-        fichier.</dd>
-
-        <dt>&editButton.label;&nbsp;:</dt>
-
-        <dd>Cliquez sur ce bouton pour modifier les informations de gestion du
-        type de fichier s&eacute;lectionn&eacute;.</dd>
-
-        <dt>&removeButton.label;&nbsp;:</dt>
-
-        <dd>Cliquez sur ce bouton pour supprimer le type de fichier
-        s&eacute;lectionn&eacute;.</dd>
-      </dl>
-    </dd>
-
-    <dt>&plugins.label;&nbsp;:</dt>
-
-    <dd>S&eacute;lectionnez cette option pour toujours utiliser le service de
-    recherche de plugins <acronym title="Plug-ins Finder Service">PFS</acronym>
-    lorsque &brandShortName; a besoin d'un nouveau plugin. Sans cette option, ce service
-    ne sera utilis&eacute; que lorsque la page Web n'indique pas d'adresse pour
-    r&eacute;cup&eacute;rer le plugin requis.</dd>
-    <!--  <dt>Ouverture des fichiers</strong>&nbsp;:</dt>
-  <dd>
-    <dl>
-       <dt>Remettre &agrave; z&eacute;ro&nbsp;:</dt>
-       <dd>Cliquez sur ce bouton pour effacer les pr&eacute;f&eacute;rences d'ouverture de fichiers modifi&eacute;es en d&eacute;s&eacute;lectionnant la case &agrave; cocher <q style="background-color: #ccf;">Toujours demander avant d'ouvrir ce type de fichier</q>, situ&eacute;es dans la bo&icirc;te de dialogue de t&eacute;l&eacute;chargement.</dd>
-    </dl>
-  </dd>  -->
-  </dl>
+  </ul>
 
   <p>Pour plus d'informations sur la gestion des diff&eacute;rents types de
   fichiers dans &brandShortName;, voir la section <a href=
-  "nav_help.html#plugins_and_downloads">Plugins et
+  "nav_help.xhtml#plugins_and_downloads">Plugins et
   t&eacute;l&eacute;chargements</a>.</p>
 
   <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
   section</a>&nbsp;]</p>
 
-  <h2 id="smart_browsing">Pr&eacute;f&eacute;rences du navigateur -
-  &pref.smartBrowsing.title;</h2>
+  <h2 id="location_bar">Pr&eacute;f&eacute;rences du navigateur -
+  &pref.locationBar.title;</h2>
 
   <p>Cette section d&eacute;crit comment utiliser le panneau des
-  pr&eacute;f&eacute;rences de la navigation assist&eacute;e. Si vous
+  pr&eacute;f&eacute;rences de la barre de navigation. Si vous
   n'&ecirc;tes pas d&eacute;j&agrave; en train de le visualiser, suivez ces
   &eacute;tapes&nbsp;:</p>
 
@@ -447,89 +427,101 @@
     et s&eacute;lectionnez <q>&preferencesCmd.label;</q>.</li>
 
     <li>Dans la cat&eacute;gorie <q>&navigator.label;</q>, cliquez sur
-    <q>&pref.smartBrowsing.title;</q>. Si aucune sous-cat&eacute;gorie n'est
+    <q>&pref.locationBar.title;</q>. Si aucune sous-cat&eacute;gorie n'est
     visible, double-cliquez sur la cat&eacute;gorie <q>&navigator.label;</q>
     pour d&eacute;velopper la liste.</li>
   </ol>
 
-  <p>Le panneau des pr&eacute;f&eacute;rences de navigation assist&eacute;e
-  vous permet une meilleure navigation dans les pages Web en utilisant les
-  mots cl&eacute;s Internet et l'auto-compl&eacute;tion de la barre
-  d'adresse.</p>
+  <p>Le panneau des pr&eacute;f&eacute;rences de la barre de navigation
+  vous permet une meilleure navigation dans les pages Web en utilisant
+  notamment l'auto-compl&eacute;tion de la barre d'adresse.</p>
 
   <dl>
-    <dt>&internetKeywordsHeader.label;&nbsp;:</dt>
+
+	<dt id="location_bar_autocomplete">&autoComplete.label;&nbsp;:</dt>
 
     <dd>
       <dl>
-        <dt>&keywordsEnabled.label;&nbsp;:</dt>
 
-        <dd>S&eacute;lectionnez cette option pour activer l'acc&egrave;s rapide
-        &agrave; des services tels que les cours de la bourse, la recherche et
-        d'autres informations, &agrave; partir de la barre d'adresse.</dd>
+		<dt>&enableAutoComplete.label;&nbsp;:</dt>
 
-        <dt>&moreInformation.label;&nbsp;:</dt>
-
-        <dd>Cliquez sur ce bouton pour en apprendre plus sur l'utilisation des
-        mots cl&eacute;s Internet. Attention, il renvoie au site Mozilla.org
-        qui est en anglais.</dd>
-      </dl>
-    </dd>
-
-    <dt id="location_bar_autocomplete">&autoCompleteHeader.label;&nbsp;:</dt>
-
-    <dd>
-      <dl>
-        <dt>&autoCompleteEnabled.label;&nbsp;:</dt>
-
-        <dd>S&eacute;lectionnez cette option pour compl&eacute;ter
-        automatiquement le texte que vous tapez dans la barre
-        d'adresse.</dd>
-
-        <dt>&autoCompleteAdvanced.label;&nbsp;:</dt>
-
-        <dd>
-          Cliquez ici et s&eacute;lectionnez une ou plusieurs des options
-          suivantes&nbsp;:
+        <dd>Sélectionnez cette option pour laisser &brandShortName; afficher automatiquement
+		les suggestions depuis votre historique de navigation lorsque vous écrivez
+		dans la barre d'adresse.
 
           <ul>
-            <li>L'auto-compl&eacute;tion essaie de compl&eacute;ter au mieux au
-            cours de la saisie&nbsp;: pendant que vous &eacute;crivez dans la
-            barre d'adresse, &brandShortName; compl&eacute;tera automatiquement
-            l'adresse avec celle d'un des sites Web visit&eacute;s ayant la
-            meilleure correspondance.</li>
 
-            <li>Montrer la liste des r&eacute;sultats possibles&nbsp;: pendant
-            que vous &eacute;crivez dans la barre d'adresse, &brandShortName; montrera
-            une liste d&eacute;roulante des adresses Web visit&eacute;es
-            correspondantes.</li>
+            <li>&autoCompleteMatchOnlyTyped.label;&nbsp;: affiche uniquement les sites que
+            vous avez saisis dans la barre d'adresse et non ceux qui auraient
+            &eacute;t&eacute; ouverts d'une autre fa&ccedil;on, tel qu'un clic
+            sur un lien d'une page Web.</li>
+
+            <li>&autoCompleteAutoFill.label;&nbsp;: Lors de la saisie d'un
+			texte dans la barre d'adresse, &brandShortName; complètera
+			automatiquement avec les adresses qui correspondent au mieux à
+			votre recherche.
+
+			  <p class="unix"><strong>Remarque</strong>&nbsp;: Activer cette
+			  option préremplira les adresses locales (comme les chemins vers
+			  des fichiers de vitre ordinateur, même si vous avez précédemment
+			  désactivé l'option<q>&enableAutoComplete.label;</q>.</p>
+			</li>
 
             <li>Montrer le moteur de recherche Internet&nbsp;: affiche un
             &eacute;l&eacute;ment dans la liste d&eacute;roulante vous
             permettant de faire des recherches pour les mots que vous entrez
             avec le moteur de recherche par d&eacute;faut.</li>
 
-            <li>Faire correspondre seulement les adresses saisies
-            pr&eacute;c&eacute;demment&nbsp;: affiche uniquement les sites que
-            vous avez saisis dans la barre d'adresse et non ceux qui auraient
-            &eacute;t&eacute; ouverts d'une autre fa&ccedil;on, tel qu'un clic
-            sur un lien d'une page Web.</li>
+            <li><strong>&autoCompleteShowPopup.label;</strong>: Lors de la saisie dans la
+			barred'adresse, &brandShortName; affichera une liste déroulante des adresses Web
+			visitées correspondantes.
+
+			  <p class="unix"><strong>Note</strong>: Si vous avez désactivé l'option
+			  <q>&enableAutoComplete.label;</q>, les résultats correspondants de votre ordinateur
+			  seront toujors afficher dans la liste déroulante.</p>
+
+			</li>
+
           </ul>
         </dd>
       </dl>
     </dd>
 
-    <dt>&domainGuessingHeader.label;&nbsp;:</dt>
+	<dt>&searchEngine.label;&nbsp;:</dt>
+
+    <dd>&showSearchEngine.label;&nbsp;: Shows a drop-down list item, allowing you to
+search with the default search engine for words you enter.</dd>
+
+	<dt>&unknownLocations.label;</dt>
 
     <dd>
       <dl>
-        <dt>&domainGuessingEnabled.label;&nbsp;:</dt>
+
+		<dt>&domainGuessing.label;&nbsp;:</dt>
 
         <dd>S&eacute;lectionnez cette option si vous d&eacute;sirez que &brandShortName;
         ajoute seul le pr&eacute;fixe <code>www.</code> et le suffixe
-        <code>.com</code> lorsque vous saisissez une adresse.</dd>
-      </dl>
-    </dd>
+        <code>.com</code> lorsque vous saisissez une adresse. Pour plus d'informations sur cette
+fonctionnalité, consultez <a
+href="http://www.mozilla.org/docs/end-user/domain-guessing.html" hreflang="en">
+        Domain Guessing</a>.</dd>
+
+		<dt>&keywords.label;</dt>
+
+		<dd>Sélectionnez cette option pour permettre à &brandShortName; de lancer une lancer
+		automatiquement une recherche internet pour tous texte saisi dans la barre d'adresse. Si
+		le texte sais n'est pas une adresse Web, &brandShortName; efectuera une recherche internet
+		lorsque vous appuyerez sur <kbd class="noMac">Entrée</kbd><kbd class="mac">Retour</kbd> dans
+		la barre d'adresse. Consultez le document <a
+		href="http://www.mozilla.org/docs/end-user/internet-keywords.html" hreflang="en">Mots clés
+		Internet</a> pour une description technique de cette fonctionnalité.
+		<strong>Remarque</strong>&nbsp;: Le moteur de recherche utilisé ne peut pas être modifié par
+		les <a href="#internet_search">Préférences de recherche sur Internet</a>.</dd>
+
+	  </dl>
+
+	</dd>
+
   </dl>
 
   <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la

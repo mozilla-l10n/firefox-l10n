@@ -3,14 +3,16 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
+  <!ENTITY % validationDTD SYSTEM "chrome://pippki/locale/validation.dtd" >
+  %validationDTD;
   <!ENTITY % pref-validationDTD SYSTEM "chrome://pippki/locale/pref-validation.dtd" >
   %pref-validationDTD;
   <!ENTITY % pippkiDTD SYSTEM "chrome://pippki/locale/pippki.dtd" >
   %pippkiDTD;
   <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
   %utilityOverlayDTD;
-  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
-  %preftreeDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
   <!ENTITY % certManagerDTD SYSTEM "chrome://pippki/locale/certManager.dtd" >
   %certManagerDTD;
 
@@ -105,7 +107,7 @@
   certificats de v&eacute;rifier en ligne la validit&eacute; d'un certificat
   &agrave; chaque fois que la s&eacute;curit&eacute; de la navigation en
   d&eacute;pend. Cette v&eacute;rification s'appuie sur une LCR fix&eacute;e
-  par un site sp&eacute;cifi&eacute;. Votre ordinateur doit &ecirc;tre
+  par un serveur sp&eacute;cifi&eacute;. Votre ordinateur doit &ecirc;tre
   connect&eacute; &agrave; Internet pour que le PLSC puisse fonctionner.</p>
 
   <p>Pour sp&eacute;cifier comment le gestionnaire de certificats doit utiliser
@@ -113,37 +115,28 @@
   pr&eacute;f&eacute;rences de validation&nbsp;:</p>
 
   <dl>
-<!--    <dt>disableOCSP.label&nbsp;:</dt>
+  
+	<dt>&enableOCSP.label;</dt>
+	
+	<dd>Sélectionnez cettre option pour que le gestionnaire de certificat effectue une vérification
+	en ligne chaque fois qu'il vérifie un certificat. Si cette option est désactivée, le
+	gestionnaire de certificats ne confirmera que la période de validité du certificat et qu'il est
+	correctement signé par une AC dont le propre certificat est listé dans le liste de l'onglet
+	<q>Cwhoseertificats d'AC</q> (dans le fen&ecirc;tre principale du gestionnaire de certificat) et
+	marqué comme étant de confiance pour l'émission d'un tel certificat.</dd>
 
-    <dd>S&eacute;lectionnez cette r&egrave;gle si vous ne voulez pas que le
-    gestionnaire de certificats effectue syst&eacute;matiquement la
-    v&eacute;rification en ligne d'un certificat. &Agrave; chaque fois que le
-    gestionnaire de certificats effectue une <a href=
-    "glossary.xhtml#certificate_verification" class=
-    "glossary">v&eacute;rification des certificats</a>, il s'appuie uniquement
-    sur la p&eacute;riode de validit&eacute; du certificat et sur le fait que
-    celui-ci soit correctement sign&eacute; par une autorit&eacute; de
-    certification (AC) dont le certificat d'AC est &agrave; la fois
-    list&eacute; dans l'onglet <q>&certmgr.tab.ca;</q> (dans la fen&ecirc;tre
-    principale du gestionnaire de certificats) et marqu&eacute; comme
-    &eacute;tant de confiance pour l'&eacute;mission de ce type de
-    certificats.</dd> -->
+    <dt>&certOCSP2.label;&nbsp;:</dt>Valider un certificat s'il spécifie un serveur OCSP
+	
+    <dd>S&eacute;lectionnez cette option pour effectuer &agrave; chaque fois une
+    v&eacute;rification en ligne d'un certificat précisant une URL de service de validation.Le
+	gestionnaire de certificats s'assure de la validit&eacute; du certificat et v&eacute;rifie sa
+    p&eacute;riode de validit&eacute; ainsi que les param&egrave;tres de confiance.</dd>
 
-    <dt>&certOCSP2.label;&nbsp;:</dt>
-
-    <dd>S&eacute;lectionnez cette r&egrave;gle si vous voulez que le
-    gestionnaire de certificats effectue &agrave; chaque fois une
-    v&eacute;rification en ligne d'un certificat en pr&eacute;cisant une URL
-    permettant cette v&eacute;rification. Si une URL est
-    sp&eacute;cifi&eacute;e par le certificat, le gestionnaire de certificats
-    s'assure de la validit&eacute; du certificat et il v&eacute;rifie sa
-    p&eacute;riode de validit&eacute; ainsi que les param&egrave;tres de
-    confiance.</dd>
-
-    <dt>&proxyOCSP2.label;&nbsp;:</dt>
+    <dt>&proxyOCSP2.label;&nbsp;:</dt>Valider tous les certificats utilisant le serveur OCSP suivant
+:
 
     <dd>
-      S&eacute;lectionnez cette r&egrave;gle si vous voulez que le gestionnaire
+      S&eacute;lectionnez cette option si vous voulez que le gestionnaire
       de certificats v&eacute;rifie syst&eacute;matiquement chaque certificat.
       Si vous choisissez cette r&egrave;gle, vous devriez aussi choisir le
       certificat de la liste d&eacute;roulante <q>&signingCA.label;</q> qui
@@ -162,6 +155,12 @@
       demandez &agrave; votre administrateur syst&egrave;me pour plus de
       d&eacute;tails.</p>
     </dd>
+	
+	<dt>&validation.requireOCSP.description;</dt>
+
+	<dd>Sélectionnez cette option si vous voulez l'échec de la connexion si une connexion à un
+	serveur OSCP ne peut pas être établie.</dd>
+
   </dl>
 
 

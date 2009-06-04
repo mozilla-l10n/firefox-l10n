@@ -7,8 +7,8 @@
   %utilityOverlayDTD;
   <!ENTITY % contentAreaCommandsDTD SYSTEM "chrome://communicator/locale/contentAreaCommands.dtd" >
   %contentAreaCommandsDTD;
-  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
-  %preftreeDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
   <!ENTITY % pref-tabsDTD SYSTEM "chrome://communicator/locale/pref/pref-tabs.dtd" >
   %pref-tabsDTD;
   <!ENTITY % pref-navigatorDTD SYSTEM "chrome://communicator/locale/pref/pref-navigator.dtd" >
@@ -498,7 +498,7 @@
 
     <li>&Agrave; partir de la <q>&tabbarCmd.label;</q>&nbsp;: Si la
     barre des onglets est visible, cliquez sur l'ic&ocirc;ne <q>Nouvel
-    onglet</q> <img src="chrome://global/skin/icons/tab-new.gif" alt=
+    onglet</q> <img src="chrome://navigator/skin/icons/tab-new.gif" alt=
     "ic&ocirc;ne nouvel onglet" /> sur la gauche de la barre des onglets.</li>
 
     <li>&Agrave; partir d'un <strong>menu contextuel</strong>&nbsp;: Si la
@@ -950,7 +950,7 @@
 
   <dl class="gallery">
 
-    <dt><img src="images/personalbar.gif" alt="Barre personnelle" /></dt>
+    <dt><img src="images/personalbar.png" alt="Barre personnelle" /></dt>
     <dd>Barre d'outils personnelle</dd>
 
   </dl>
@@ -988,7 +988,7 @@
     <li>Ouvrez une page du Web que vous voulez marquer.</li>
 
     <li>Glissez l'ic&ocirc;ne du marque-page <img src=
-    "chrome://communicator/skin/bookmarks/bookmark-item.gif" alt=
+    "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
     "ic&ocirc;ne de marque-pages" /> (plac&eacute; &agrave; gauche de l'URL
     dans la barre d'adresse) &agrave; l'endroit o&ugrave; vous voulez dans la
     barre d'outils personnelle. Vous pouvez directement glisser l'ic&ocirc;ne
@@ -1000,7 +1000,7 @@
   </ol>
 
   <p><strong>Remarque</strong>&nbsp;: L'ic&ocirc;ne du marque-page <img src=
-  "chrome://communicator/skin/bookmarks/bookmark-item.gif" alt=
+  "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
   "ic&ocirc;ne de marque-pages" /> peut appara&icirc;tre diff&eacute;rent de
   celui affich&eacute; dans la barre d'adresse si vous avez coch&eacute;
   <q>Afficher les ic&ocirc;nes Web</q> dans les pr&eacute;f&eacute;rences. Pour
@@ -1134,9 +1134,9 @@
     cookies</a>.</li>
 
     <li>L'ic&ocirc;ne connect&eacute; <img src=
-    "chrome://communicator/skin/icons/online.gif" alt=
+    "chrome://communicator/skin/icons/online.png" alt=
     "ic&ocirc;ne de connexion" /> ou d&eacute;connect&eacute; <img src=
-    "chrome://communicator/skin/icons/offline.gif" alt=
+    "chrome://communicator/skin/icons/offline.png" alt=
     "ic&ocirc;ne de d&eacute;connexion" />&nbsp;: Cliquez sur l'ic&ocirc;ne
     pour alterner le mode connexion et le mode d&eacute;connexion. En mode
     d&eacute;connexion, &brandShortName; est pr&eacute;venu des tentatives de connexion
@@ -1144,7 +1144,7 @@
     pour relever automatiquement le courrier &eacute;lectronique.</li>
 
     <li>L'ic&ocirc;ne de verrouillage (exemple&nbsp;: <img src=
-    "chrome://communicator/skin/icons/lock-insecure.gif" alt=
+    "chrome://communicator/skin/icons/lock-insecure.png" alt=
     "ic&ocirc;ne de s&eacute;curit&eacute;" />)&nbsp;: Elle indique
     l'&eacute;tat du chiffrement d'une page au moment o&ugrave; elle est
     re&ccedil;ue par votre ordinateur. Pour plus d'informations, voir la
@@ -1334,7 +1334,7 @@
 
     <li>Pour ajouter un marque-page &agrave; la barre d'outils personnelle,
     glissez l'ic&ocirc;ne du marque-page <img src=
-    "chrome://communicator/skin/bookmarks/bookmark-item.gif" alt=
+    "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
     "ic&ocirc;ne de marque-pages" /> de la barre d'adresse vers un endroit dans
     la barre d'outils personnelle. Vous pouvez glisser un marque-page vers les
     endroits suivants&nbsp;:
@@ -1359,7 +1359,7 @@
     <li>Pour ajouter un marque-page au panneau <q>Marque-pages</q> dans la
     barre lat&eacute;rale, ouvrez celle-ci, choisissez le panneau
     <q>Marque-pages</q> et glissez l'ic&ocirc;ne du marque-page <img src=
-    "chrome://communicator/skin/bookmarks/bookmark-item.gif" alt=
+    "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
     "ic&ocirc;ne de marque-pages" /> de la barre d'adresse vers un endroit dans
     la liste des marque-pages, dans le panneau <q>Marque-pages</q>.</li>
   </ul>
@@ -1375,7 +1375,7 @@
 
   <ul>
     <li>L'ic&ocirc;ne du marque-page <img src=
-    "chrome://communicator/skin/bookmarks/bookmark-item.gif" alt=
+    "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
     "ic&ocirc;ne de marque-pages" /> peut appara&icirc;tre diff&eacute;remment
     de celle affich&eacute;e dans la barre d'adresse si vous avez coch&eacute;
     <q>Afficher les ic&ocirc;nes Web</q> dans les pr&eacute;f&eacute;rences.
@@ -1437,9 +1437,18 @@
     <dt>Pour classer vos marque-pages dans le gestionnaire de
     marque-pages&nbsp;:</dt>
 
-    <dd>Ouvrez le menu <q>Affichage</q> et s&eacute;lectionnez comment vous
+    <dd>
+
+	  <ol>
+		<li>Sélectionnez le dossier à classer</li>
+
+		<li>Ouvrez le menu <q>Éditer</q> et s&eacute;lectionnez comment vous
     voulez classer la liste (tels que <q>Tri&eacute; par nom</q> ou
-    <q>Tri&eacute; par adresse</q>).</dd>
+    <q>Tri&eacute; par adresse</q>).</li>
+	  </ol>
+
+	</dd>
+
   </dl>
 
   <p><strong>Astuce</strong>&nbsp;: Pour ajouter plus de colonnes, ouvrez le
@@ -1624,8 +1633,8 @@
   <p>Vos marque-pages ne sont pas modifi&eacute;s par cette
   proc&eacute;dure.</p>
 
-  <p>Vous pouvez aussi importer des fichiers de marque-pages d'autres sources.
-  Par exemple, vous pouvez importer des fichiers de marque-pages provenant de
+  <p>Vous pouvez aussi importer des marque-pages depuis d'autres sources.
+  Par exemple, vous pouvez importer des marque-pages provenant de
   versions pr&eacute;c&eacute;dentes de &brandShortName;, d'autres navigateurs ou
   &agrave; partir de fichiers que vous ont envoy&eacute;s vos amis.</p>
 
@@ -1640,13 +1649,19 @@
     choisissez <q>Importer les marque-pages</q>.</li>
 
     <li>Dans la bo&icirc;te de dialogue <q>Importer des marque-pages</q>,
-    s&eacute;lectionnez le fichier que vous voulez importer.</li>
+    s&eacute;lectionnez si vous voulez importer les marque-pages d'anciennes version de
+	&brandShortName; ou importer un fichier.</li>
 
-    <li>Cliquez sur <q>Ouvrir</q>.</li>
+    <li>Cliquez sur <q>Suivant</q>.</li>
+
+	<li>Si vous avez chois d'importer les marque-pages d'anciennes versions de &brandShortName;,
+	sélectionnez le profil depuis lequel importer les marque-pages pour cliquez sur <q>Suivant</q>.
+	Si vous importez des marque-pages à partir d'un fichier, naviguer jusqu'à celui-ci puis cliquez
+	sur <q>Ouvrir</q>.</li>
   </ol>
 
-  <p>Le fichier de marque-page import&eacute; est trait&eacute; comme un
-  nouveau groupe de marque-pages et ajout&eacute; &agrave; la fin de votre
+  <p>Les marque-page import&eacute;s sont trait&eacute;s comme un
+  nouveau groupe de marque-pages et ajout&eacute;s &agrave; la fin de votre
   liste de marque-pages. Si vous avez d&eacute;sign&eacute; un dossier par
   d&eacute;faut, le fichier import&eacute; est ajout&eacute; &agrave; ce
   dossier.</p>
@@ -1779,7 +1794,7 @@
 
   <p><strong>Astuce</strong>&nbsp;: Pour s&eacute;lectionner votre page
   d'accueil personnelle rapidement, glissez l'ic&ocirc;ne du marque-page
-  <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif" alt=
+  <img src="chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
   "ic&ocirc;ne de marque-page" /> de la barre d'adresse vers le bouton
   <q>Accueil</q> de la barre d'outils personnelle.</p>
 

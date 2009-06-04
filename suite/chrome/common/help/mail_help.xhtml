@@ -7,8 +7,8 @@
   %utilityOverlayDTD;
   <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
   %tasksOverlayDTD;
-  <!ENTITY % prefDTD SYSTEM "chrome://communicator/locale/pref/pref.dtd" >
-  %prefDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
   <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
   %messengerDTD;
   <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
@@ -39,6 +39,8 @@
   %am-advancedDTD;
   <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
   %am-mdnDTD;
+  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
+  %folderPropsDTD;
   <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
   %pref-addressingDTD;
   <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
@@ -67,7 +69,12 @@
   %pref-character_encodingDTD;
   <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
   %smtpEditOverlayDTD;
-  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd" >
+  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
+  %msgHdrViewOverlayDTD;
+  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
+  %msgViewPickerOverlayDTD;
+  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
+>
   %msgCompSMIMEOverlayDTD;
   <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
   %abNewCardDialogDTD;
@@ -85,6 +92,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
   <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
 </head>
 
 <body>
@@ -378,9 +386,9 @@
         <dd>Sélectionnez un compte, puis cliquez sur ce bouton pour le
         supprimer totalement.</dd>
 
-        <dt>&smtpServerTitle.label;</dt>
+        <dt>&smtpServer.label;</dt>
 
-        <dd>Sélectionnez <q>&smtpServerTitle.label;</q> (au bas de la
+        <dd>Sélectionnez <q>&smtpServer.label;</q> (au bas de la
         liste des comptes) pour modifier des informations sur le serveur de
         courrier sortant. Pour plus d'informations, voir la section <a href=
         "#outgoing_server">Paramètres des comptes - Serveur sortant
@@ -845,10 +853,11 @@
     <li>Cliquez sur <q>OK</q> pour valider vos changements.</li>
   </ol>
 
-  <p><strong>Note</strong>&nbsp;: Voir <q>&allowRemoteContent.label;</q> <a href="#creating_a_new_address_book_card">Créer
+  <p><strong>Note</strong>&nbsp;: Voir <q>&allowRemoteContent1.label;</q> <a
+href="#creating_a_new_address_book_card">Créer
   une fiche de carnet d'adresses</a> pour plus de détails sur la manière
   de définir quels expéditeurs seront autorisés à
-  afficher du contnu distant.</p>
+  afficher du contenu distant.</p>
 
   <p>Par défaut, JavaScript et les plugins ne sont pas activés
   pour la messagerie. Pour modifier ces paramètres&nbsp;:</p>
@@ -1313,6 +1322,10 @@
         <li>Sélectionnez <q>&aboveText.label;</q> pour afficher votre signature
         entre votre message et le texte cité.</li>
       </ul>
+
+	  <p><strong>Remarque</strong> : Si vous avez une signature, vous avez la possibilité <a
+	  href="#addressing">d'omettre la signature</a> lors de l'envoi d'un message.</p>
+
     </li>
 
     <li>Cliquez sur <q>OK</q>.</li>
@@ -1323,8 +1336,8 @@
 
   <h2 id="forwarding_a_message">Faire suivre un message</h2>
 
-  <p>Quand vous faites suivre un message, vous pouvez choisir comment apparaîtra
-  le texte original par rapport à ce que vous avez ajouté&nbsp;:
+  <p>Quand vous faites suivre un message, vous pouvez choisir comment son
+  contenu apparaîtra dans le nouveau message&nbsp;:
   <em>intégré</em> (c'est-à-dire dans le corps du texte, ce qui est le choix par
   défaut), ou comme pièce jointe.</p>
 
@@ -1352,7 +1365,12 @@
     Groupes</q> pour développer la liste.</li>
 
     <li>Pour faire suivre des messages, choisissez <q>&forwardAsInline.label;</q>
-    (dans le corps du message) ou <q>&forwardAsAttachmentCmd.label;</q>.</li>
+    (dans le corps du message) ou <q>&forwardAsAttachmentCmd.label;</q>.
+
+	  <p><strong>Remarque</strong> : Si vous avez une signature, sa position dans le message
+transféré intégré dépend des paramètres de réponse respectifs. Vous avez la possibilité <a
+href="#addressing">d'omettre la signature</a> lors d'un trasfert de message.</p>
+	</li>
 
     <li>Cliquez sur <q>OK</q>.</li>
   </ol>
@@ -1445,7 +1463,7 @@
     <li>Sélectionnez le message que vous voulez éditer.</li>
 
     <li>Dans le coin en haut à droite du message, cliquez sur le bouton
-    <q>&editDraftCmd.label;</q>. Si ce bouton n'est pas visible, cliquez
+    <q>&editMessage.label;</q>. Si ce bouton n'est pas visible, cliquez
     sur la flèche à gauche de l'en-tête pour le
     développer.</li>
 
@@ -2344,18 +2362,14 @@
             vous demandera de choisir un format d'envoi lorsque vous enverrez
             le message.</dd>
 
-            <dt>&allowRemoteContent.label;</dt>
+            <dt>&allowRemoteContent1.label;</dt>
             <dd>Autorise cet expéditeur à vous envoyer du contenu
             distant qui s'affichera dans la fenêtre du message.</dd>
 
-            <dt>&Phones.box;</dt>
-
-            <dd>Entrez les numéros de téléphones de cette
-            personne.</dd>
           </dl>
         </dd>
 
-        <dt>&Address.tab;</dt>
+        <dt>Onglets &Home.tab; et &Work.tab;</dt>
 
         <dd>
           Entrez ici les coordonnées privées et professionnelles.
@@ -2512,7 +2526,7 @@
     d'adresses ou l'annuaire dans lequel vous pensez trouver le(s)
     correspondant(s).</li>
 
-    <li>À droite, dans le champ <q>&SearchNameOrEmail.label;</q>,
+    <li>À droite, dans le champ <q>&searchNameAndEmail.emptytext;</q>,
     entrez au moins une partie du nom ou de l'adresse que vous recherchez. Plus
     le terme saisi sera précis et plus la liste sera réduite.
 
@@ -2802,19 +2816,19 @@
     <li>Cliquez sur <q>Modifier</q>.</li>
   </ol>
 
-  <h4>Onglet <q>Général</q></h4>
+  <h4>Onglet <q>&General.tab;</q></h4>
 
   <dl>
-    <dt>Nom&nbsp;:</dt>
+    <dt>&directoryName.label;</dt>
 
     <dd>Entrez le nom du service d'annuaire (par exemple, Répertoire
     InfoSpace).</dd>
 
-    <dt>Nom d'hôte&nbsp;:</dt>
+    <dt>&directoryHostname.label;</dt>
 
     <dd>Entrez l'adresse du serveur (par exemple, ldap.infospace.com).</dd>
 
-    <dt>Nom distinct de base&nbsp;:</dt>
+    <dt>&directoryBaseDN.label;</dt>
 
     <dd>Ce paramètre définit le nom distinct de base à
     être utilisé. Pour limiter la recherche à un pays
@@ -2822,49 +2836,49 @@
     qui limite la recherche au Japon, et/ou o=Mozilla Communications
     Corporation pour vous limiter à cet organisme.</dd>
 
-    <dt>Numéro de port&nbsp;:</dt>
+    <dt>&portNumber.label;</dt>
 
     <dd>Entrez le numéro de port du serveur LDAP. Par défaut
     c'est le 389.</dd>
 
-    <dt>Connecter un nom distinct&nbsp;:</dt>
+    <dt>&directoryLogin.label;</dt>
 
     <dd>Le nom distinct utilisé pour s'authentifier (se connecter) au
     serveur LDAP. S'il est laissé en blanc, la connexion sera
     anonyme.</dd>
 
-    <dt>&isSecure.label;</dt>
+    <dt>&directorySecure.label;</dt>
 
     <dd>Cochez cette case si le serveur LDAP supporte les connexions
     sécurisées (chiffrées). Si vous n'êtes pas
     sûr, contactez l'administrateur système du serveur.</dd>
   </dl>
 
-  <h4>Onglet <q>Avancées</q></h4>
+  <h4>Onglet <q>&Advanced.tab;</q></h4>
 
   <dl>
-    <dt>Ne pas retourner plus de _ résultats&nbsp;:</dt>
+    <dt>&return.label; [__] &results.label;</dt>
 
     <dd>Ce choix limite le nombre d'occurrences de l'auto-complétion
     retournées par le serveur d'annuaires.</dd>
 
-    <dt>Étendue&nbsp;:</dt>
+    <dt>&scope.label;</dt>
 
     <dd>
       Définit les limites de la recherche. Choisissez&nbsp;:
 
       <ul>
-        <li><strong>Un niveau</strong> pour trouver les entrées
+        <li><strong>&scopeOneLevel.label;</strong> pour trouver les entrées
         correspondantes en recherchant dans le nom distinct de la base et le
         niveau juste au-dessous.</li>
 
-        <li><strong>Sous-arbre</strong> pour trouver les entrées
+        <li><strong>&scopeSubtree.label;</strong> pour trouver les entrées
         correspondantes en recherchant dans le nom distinct de la base et tous
         les niveaux au-dessous. C'est la recherche la moins restrictive.</li>
       </ul>
     </dd>
 
-    <dt>Filtre de recherche&nbsp;:</dt>
+    <dt>&searchFilter.label;</dt>
 
     <dd>Filtre à appliquer aux résultats valides qui sont dans
     l'étendue de la recherche.</dd>
@@ -3406,7 +3420,7 @@
     récents</q>, <q>Derniers 5 jours</q>, <q>Non indésirables</q>
     et <q>Avec pièces jointes</q>.</dd>
 
-    <dt>&customizeToolbar.label;</dt>
+    <dt>&viewCustomizeView.label;</dt>
 
     <dd>Choisissez cette option pour voir ou modifier les paramètres des
     affichages personnalisés.</dd>
@@ -3710,7 +3724,7 @@
   <ol>
     <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
 
-    <li>Dans le champ <q>&SearchSubjectOrFrom.label;</q>, entrez
+    <li>Dans le champ <q>&searchSubjectAndFrom.emptytext;</q>, entrez
     le texte du sujet ou le nom de l'expéditeur que vous désirez
     trouver. Vous pouvez entrer une partie du sujet ou de l'expéditeur
     ou entrer le nom exact que vous désirez trouver.
@@ -4637,7 +4651,7 @@
       disponible pour les comptes POP.</p>
     </li>
 
-    <li>Cochez la case <q>&makeInboxMsgsAvailable.label;</q>.</li>
+    <li>Cochez la case <q>&allFoldersOffline.label;</q>.</li>
 
     <li>Cliquez sur <q>OK</q>.</li>
 
@@ -4702,7 +4716,7 @@
     <li>Dans le menu <q>&editMenu.label;</q>, choisissez
     <q>&folderPropsFolderCmd.label;</q>.</li>
 
-    <li>Cliquez sur l'onglet <q>&offlineGroupTitle.label;</q> de la boîte de dialogue
+    <li>Cliquez sur l'onglet <q>&folderSynchronizationTab.label;</q> de la boîte de dialogue
     <q>Propriétés</q>.</li>
 
     <li>Cochez la case <q>Sélectionnez ce dossier pour une utilisation
@@ -4897,7 +4911,7 @@
     dialogue <q>Propriétés</q> du serveur d'annuaire
     apparaît.</li>
 
-    <li>Cliquez sur l'onglet <q>&offlineGroupTitle.label;</q>.</li>
+    <li>Cliquez sur l'onglet <q>&folderSynchronizationTab.label;</q>.</li>
 
     <li>Cliquez <q>Télécharger maintenant</q> pour commencer
     à copier les entrées sur votre ordinateur.</li>
@@ -5222,7 +5236,7 @@
   - &accountTitle.label;</h2>
 
   <p>Cette section décrit comment voir et changer les paramètres d'un compte,
-  comme le nom d'utilisateur, l'adresse de réponse et le fichier de signature.
+  comme le nom d'utilisateur, l'adresse de réponse et la signature.
   Si la boîte de dialogue <q>&accountManagerTitle.label;</q> n'est pas affichée,
   ouvrez une fenêtre <q>Courrier</q>&nbsp;:</p>
 
@@ -5248,11 +5262,28 @@
     réponse (uniquement si elle est différente de votre adresse
     électronique) et le nom de votre organisation (optionnel).</dd>
 
-    <dt>&signature.label;</dt>
+	<dt>Texte de signature</dt>
+
+	<dd>Si vous désirez apposer votre signature sur tous les messages sortants, saisissez votre
+	dans signature cette zone de texte. Cochez la case <q>Utiliser HTML</q> pour pourvoir
+	utiliser des balises HTML, par exemple, &lt;b&gt;bold&lt;/b&gt; (optionnel).</dd>
+
+	<dt>Apposer la signature à partir d'un fichier</dt>
+
+	<dd>Vous permet d'apposer votre signature à partir d'un fichier (texte, HTML, ou image) plutôt
+	que de saisir son contenu. L'utilisation de cette fonction désactive le texte saisi dans la zone
+	de texte de la signature. Cliquez sur <q>&choose.label;</q> pour localiser votre fichier de
+	signature (optionnel).
+
+	  <p>Vous trouverez plus d'options de signatures dans la section <a href="#addressing">Rédaction
+	  &amp; Adressage</a>.</p>
+
+	</dd>
+<!--    <dt>&signature.label;</dt>
 
     <dd>Permet de choisir un fichier texte ou HTML qui sera apposé en
     tant que signature en fin de message. Cliquez sur <q>&choose.label;</q>
-    pour localiser votre fichier de signature (optionnel).</dd>
+    pour localiser votre fichier de signature (optionnel).</dd> -->
     <!--  <dt>&useHtml.label;&nbsp;:</dt>
 <dd>Permet de formater vos messages en utilisant l'éditeur HTML. Laissez cette case décochée pour utiliser le mode texte. Les messages HTML peuvent inclure des textes formatés, des liens, des images et des tableaux, comme une page Web. Néanmoins, certaines personnes ne souhaitent ou ne peuvent pas recevoir de messages HTML.
     <p><strong>Astuce</strong>&nbsp;: si vous sélectionnez cette option mais que vous désirez plus tard rédiger ou répondre à un message en utilisant un éditeur texte, pressez la touche Majuscule et cliquez sur <q>Nouveau</q> ou sur <q>Répondre</q> dans la barre d'outils Messages pour temporairement choisir le mode texte. Cliquer en pressant la touche Majuscule sur <q>Nouveau</q> ou <q>Répondre</q> vous donne accès à l'édition alternative. Ainsi, si le mode par défaut est l'édition en texte brut, cette manipulation vous permet de basculer temporairement en mode HTML.</p>
@@ -5397,12 +5428,12 @@
 
     <dd>
       <dl>
-        <dt>&isSecure.label;&nbsp;:</dt>
+        <dt>&connectionSecurity.label;&nbsp;:</dt>
 
-        <dd>Sélectionnez cette option si votre serveur de messagerie est
-        configuré pour envoyer et recevoir des messages chiffrés.
-        Si vous n'êtes pas sûr, contactez votre fournisseur
-        d'accès ou votre administrateur système.</dd>
+        <dd>si votre serveur de messagerie est
+        configuré pour envoyer et recevoir des messages chiffrés, sélectionnez le type de connexion
+		que vous désirez dans la liste déroulante Si vous n'êtes pas sûr, contactez votre
+		fournisseur d'accès ou votre administrateur système.</dd>
 
         <dt>&useSecAuth.label;&nbsp;:</dt>
 
@@ -5562,14 +5593,14 @@
 
     <dd>
       <dl>
-        <dt>&isSecure.label;</dt>
+        <dt>&connectionSecurity.label;</dt>
 
         <dd>Sélectionnez cette option si votre serveur de messagerie est
         configuré pour envoyer et recevoir des messages chiffrés.
         Si vous n'en êtes pas sûr, contactez votre fournisseur
         d'accès ou votre administrateur système.</dd>
 
-        <dt>&socketType.label;</dt>
+        <dt>&useSecAuth.label;</dt>
 
         <dd>Choisissez cette option si vous voulez utiliser des
         mécanismes d'authentification sécurisés tels que
@@ -5697,7 +5728,7 @@
 
     <dd>
       <dl>
-        <dt>&isSecure.label;&nbsp;:</dt>
+        <dt>&connectionSecurity.label;&nbsp;:</dt>
 
         <dd>Sélectionnez cette option si votre serveur de messagerie est
         configuré pour envoyer et recevoir des messages chiffrés.
@@ -5804,7 +5835,7 @@
 
     <dd>
       <dl>
-        <dt>&draftMailFolder.label;</dt>
+        <dt>&draftsFolderOn.label;</dt>
 
         <dd>Permet de conserver les brouillons à l'endroit
         indiqué. Si vous ne voulez pas utiliser le dossier par
@@ -5812,7 +5843,7 @@
         <q>&draftInOtherFolder.label;</q> , choisissez le compte puis le dossier où stocker
         vos brouillons.</dd>
 
-        <dt>&templateMailFolder.label;</dt>
+        <dt>&templatesFolderOn.label;</dt>
 
         <dd>Permet de conserver vos modèles à l'endroit
         indiqué. Si vous ne voulez pas utiliser le dossier par
@@ -5839,8 +5870,19 @@
   &addressing.label;</h2>
 
   <p>Utilisez les paramètres de <q>&addressing.label;</q>
-  pour choisir le format des messages que vous envoyez et comment traiter les
-  réponses.</p>
+  pour choisir le format des messages que vous envoyez, comment traiter les
+  réponses et comment votre signature doit être incluse.</p>
+
+  <p>Si les paramètres d'<q>&addressing.label;</q> ne sont pas affichés,
+  ouvrez une fenêtre <q>Courrier</q>&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La
+	boîte de dialogue <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom du compte et cliquez sur la catégorie <q>&addressing.label;</q>. La
+	section <q>&addressing.label;</q> s'affiche.</li>
+  </ol>
 
   <dl>
     <dt>&useHtml.label;</dt>
@@ -5890,6 +5932,22 @@
         <q>avant</q> le texte cité.</dd>
       </dl>
     </dd>
+  </dl>
+
+  <dl>
+	<dt>Ajouter la signature pour les réponses</dt>
+
+	<dd>If you have created a
+    signature, select this option to include it in your reply to a message.
+    The signature is added according to your settings for quote and signature
+    placement.</dd>
+
+	<dt>Ajouter la signature pour les transferts</dt>
+
+	<dd>If you have created a
+    signature, select this option to include it when you forward a message.
+    The signature is placed according to your reply settings when
+    <a href="#composition">forwarding inline</a>.</dd>
   </dl>
 
   <p>Vous utiliserez les paramètres d'adressage pour passer outre les
@@ -5969,7 +6027,7 @@
   <p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au
   début de la section</a>&nbsp;]</p>
 
-  <h3 id="offline_and_disk_space_settings_imap">Paramètres Hors ligne et
+  <h3 id="offline_and_disk_space_settings_imap">Paramètres synchonisation et
   espace disque (IMAP)</h3>
 
   <p>Si les paramètres Hors ligne et espace disque d'un compte IMAP ne
@@ -5979,22 +6037,22 @@
     <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
     <q>&accountManagerTitle.label;</q> s'affiche.</li>
 
-    <li>Sélectionnez le nom d'un compte IMAP et cliquez sur <q>Hors
-    ligne et espace disque</q>.</li>
+    <li>Sélectionnez le nom d'un compte IMAP et cliquez sur <q>Synchronisation et espace
+	disque</q>.</li>
   </ol>
 
   <dl>
-    <dt>&offlineGroupTitle.label;</dt>
+    <dt>&syncGroupTitle.label;</dt>
 
     <dd>
       <dl>
-        <dt>&makeInboxMsgsAvailable.label;</dt>
+        <dt>&allFoldersOffline.label;</dt>
 
         <dd>Activez cette option pour que les messages de votre boîte de
         réception soient disponibles lorsque vous travaillez en mode
         hors ligne.</dd>
 
-        <dt>&offlineNewFolder.label;</dt>
+<!--        <dt>&offlineNewFolder.label;</dt>
 
         <dd>Activez cette option pour que les nouveaux dossiers que vous
         créez soient automatiquement sélectionnés pour une
@@ -6016,7 +6074,7 @@
         ligne. Voir <a href=
         "#selecting_items_for_offline_viewing">Sélection de comptes, de
         dossiers et de groupes pour un affichage hors ligne</a> pour plus
-        d'informations.</dd>
+        d'informations.</dd> -->
       </dl>
     </dd>
 
@@ -6153,7 +6211,7 @@
     <dd>Sélectionnez cette option pour empêcher &brandShortName; d'effacer
     les messages non lus.</dd>
 
-    <dt>&nntpRemoveBody.label; [__] &days.label;</dt>
+    <dt>&nntpDownloadMsg.label; [__] &daysOld.label;</dt>
 
     <dd>Sélectionnez cette option pour empêcher &brandShortName; d'effacer
     les messages qui sont plus récents que la période
@@ -6538,7 +6596,7 @@
     votre service le supporte, contacter votre fournisseur de courrier ou votre
     admnisitrateur système.</dd>
 
-    <dt>&isSecure.label;&nbsp;:</dt>
+    <dt>&useSecAuth.label;&nbsp;:</dt>
 
     <dd>Il existe deux méthodes pour établir un connexion sécurisée à un serveur
     sortant. Choisissez celle qui est supportée par votre serveur (si vous
@@ -6556,24 +6614,10 @@
         <dd>Si vous ne désirez pas utiliser de connexion
         sécurisée.</dd> -->
 
-        <dt>&sometimesSTARTTLS.label;&nbsp;:</dt>
+        <dt>&connectionSecurity.label;&nbsp;:</dt>
 
-        <dd>&brandShortName; essaiera d'utiliser la connexion
-        sécurisée à l'aide de la méthode STARTTLS. Si celle-ci
-        n'est pas disponible sur le serveur, la connexion non
-        sécurisée sera utilisée.</dd>
-
-        <dt>&alwaysSTARTTLS.label;&nbsp;:</dt>
-
-        <dd>Requiert une connexion TLS sécurisée. Ce type de
-        connexion utilise le plus souvent le port standard SMTP 25.</dd>
-
-        <dt>&alwaysSMTPOverSSL.label;&nbsp;:</dt>
-
-        <dd>Requiert une connexion <acronym title="Secure Sockets Layer">SSL
-        sécurisée</acronym>, utilise la méthode <q>SMTP surSSL</q>
-        (autrement appelée SMTPS). Le port par défaut de ce type de
-        connexion est le port 465.</dd>
+        <dd>Sélectionnez le type de connexion à utiliser (sécurisée ou non) dans la liste
+		déroulante.</dd>
       </dl>
     </dd>
 
@@ -6697,10 +6741,6 @@
     case. Cliquez sur <q>&useDefault.label;</q> pour afficher la page
     originale fournie par défaut.</dd>
 
-    <dt>&toolbarIntro.caption;</dt>
-
-    <dd>Cochez les cases correspondant aux boutons que vous souhaitez voir
-    s'afficher dans la barre d'outils de &brandShortName; Courrier &amp; Groupes.</dd>
   </dl>
 
   <p>[&nbsp;<a href="#mail_and_newsgroup_preferences">Retour au début de
@@ -6783,7 +6823,7 @@
     <!--<dt class="rediger">mais autoriser si l'expéditeur est dans ce carnet d'adresses</dt>
     <dd class="rediger">Cochez cette case si vous voulez autoriser l'affichage des contenu distants dans les messages des expéditeurs présents dans le carnet d'adresse choisi. Cette case à cocher est active par défaut.</dd>-->
 
-    <dt>&markMessagesRead.label; [__] &seconds.label;</dt>
+    <dt>&autoMarkAsRead.label;</dt>
     <dd>Choisissez cette option si vous ne voulez pas que le message soit
     marqué comme lu quand vous ne voulez y jeter qu'un coup d'œil
     rapide. Saisissez le nombre de secondes pendant lesquelles vous voulez
@@ -6819,7 +6859,7 @@
   <h3>&displayPlainText.caption;</h3>
 
   <dl>
-    <dt>&plainTextFont.label;</dt>
+    <dt>&fontPlainText.label;</dt>
 
     <dd>Choisissez la police de votre choix pour l'affichage des messages en
     texte simple, à largeur fixe ou variable.</dd>
@@ -6866,37 +6906,37 @@
       <tr>
         <td>:-)</td>
 
-        <td><img src="images/smile.png" alt="sourire" /></td>
+        <td><span class="smiley moz-smiley-s1"/></td>
       </tr>
 
       <tr>
         <td>:)</td>
 
-        <td><img src="images/smile.png" alt="sourire" /></td>
+        <td><span class="smiley moz-smiley-s1"/></td>
       </tr>
 
       <tr>
         <td>:-(</td>
 
-        <td><img src="images/frown.png" alt="triste" /></td>
+        <td><span class="smiley moz-smiley-s2"/></td>
       </tr>
 
       <tr>
         <td>:(</td>
 
-        <td><img src="images/frown.png" alt="triste" /></td>
+        <td><span class="smiley moz-smiley-s2"/></td>
       </tr>
 
       <tr>
         <td>;-)</td>
 
-        <td><img src="images/wink.png" alt="clin d'œil" /></td>
+        <td><span class="smiley moz-smiley-s3"/></td>
       </tr>
 
       <tr>
         <td>;-p</td>
 
-        <td><img src="images/sick.png" alt="langue" /></td>
+        <td><span class="smiley moz-smiley-s4"/></td>
       </tr>
     </tbody>
   </table>
@@ -7076,9 +7116,17 @@
     du message).</dd>
     <!--  <dt>Insérer le message original dans la réponse&nbsp;:</dt>
 <dd>Sélectionnez cette option pour inclure le message original dans la réponse. Définissez ensuite la position d'insertion de la réponse dans la zone de message grace à la liste déroulante.</dd> -->
+	<dt>Marquer comme citation dans les réponses les pièces jointes attachées dans le corps du
+	courriel</dt>
+
+	<dd>Si cette option est cochée, alors les pièce jointes (telles que les images, les fichiers
+	texte ou les messages) seront affichées dans les citations lorsque vous répondrez à un
+	message.</dd>
 
     <dt class="rediger">Enregistrer automatiquement le message toutes les [__] minutes</dt>
-    <dd class="rediger">Choisissez cette option si vous voulez que votre client de messagerie enregistre le
+
+    <dd class="rediger">Choisissez cette option si vous voulez que votre client de messagerie
+enregistre le
     message que vous êtes en train de rédiger automatiquement à intervalles donnés.
     Après un plantage de l'ordinateur ou du programme, vous pouvez alors retrouver la dernière version
     du message dans le dossier <q>Brouillons</q>.</dd>
