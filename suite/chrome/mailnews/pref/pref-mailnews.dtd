@@ -41,6 +41,8 @@
 <!ENTITY confirmMove.accesskey "c">
 <!ENTITY preserveThreading.label "Préserver les discussions lors du tri des messages">
 <!ENTITY preserveThreading.accesskey "r">
+<!ENTITY mailBiffOnNewWindow.label "Ne vérifier que les nouveaux courriels lors de l'ouverture de Courrier et Groupes de discussion">
+<!ENTITY mailBiffOnNewWindow.accesskey "N">
 
 <!ENTITY defaultMailSettings.description "Utiliser &BrandShortName; Courrier et Groupes comme application par défaut pour :">
 <!ENTITY setDefaultMail.label "le courrier">
