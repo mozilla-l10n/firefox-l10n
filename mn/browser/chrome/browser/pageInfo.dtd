@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Хандах эрх">
 <!ENTITY  permTab.accesskey     "э">
 <!ENTITY  permUseDefault        "Анхдагч эрхийг хэрэглэ">
+<!ENTITY  permAskAlways         "Үргэлж асуу">
 <!ENTITY  permAllow             "Зөвшөөр">
 <!ENTITY  permAllowSession      "Зорчсон хэсэгт зөвшөөр">
 <!ENTITY  permBlock             "Хорих">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Цовхчигч цонхнуудыг нээ">
 <!ENTITY  permCookie            "Күүки суулга">
 <!ENTITY  permInstall           "Өргөтгөл болон маяг суулга">
+<!ENTITY  permGeo               "Байршлаа мэдэгдэх">
 
 <!ENTITY  securityTab           "Нууцлал">
 <!ENTITY  securityTab.accesskey "ц">
