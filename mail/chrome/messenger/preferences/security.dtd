@@ -9,7 +9,7 @@
 <!ENTITY manualMarkModeMove.accesskey "м">
 <!ENTITY manualMarkModeDelete.label "Удалять их">
 <!ENTITY manualMarkModeDelete.accesskey "д">
-<!ENTITY markAsReadOnSpam.label "Отметить сообщения, определённые как спам, как прочитанные">
+<!ENTITY markAsReadOnSpam.label "Отмечать сообщения, определённые как спам, как прочитанные">
 <!ENTITY markAsReadOnSpam.accesskey "ч">
 <!ENTITY enableJunkLogging.label "Включить журнал анти-спам фильтра">
 <!ENTITY enableJunkLogging.accesskey "ж">
