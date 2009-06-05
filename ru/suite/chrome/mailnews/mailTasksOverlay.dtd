@@ -1,10 +1,10 @@
-<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.label "Почта и группы новостей">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "2">
 <!ENTITY addressBookCmd.label "Адресная книга">
 <!ENTITY addressBookCmd.accesskey "А">
 <!ENTITY addressBookCmd.commandkey "5">
-<!ENTITY taskMessenger.tooltip "Почта и конференции">
+<!ENTITY taskMessenger.tooltip "Почта и группы новостей">
 <!ENTITY taskAddressBook.tooltip "Адресная книга">
 <!ENTITY searchAddressesCmd.label "Поиск адресов…">
 <!ENTITY searchAddressesCmd.accesskey "а">

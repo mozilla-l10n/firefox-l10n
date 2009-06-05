@@ -90,7 +90,7 @@
 <!ENTITY sortMenu.accesskey "р">
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
-<!ENTITY messengerCmd.label "Почта и новости">
+<!ENTITY messengerCmd.label "Почта и группы новостей">
 <!ENTITY messengerCmd.accesskey "П">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "Поиск адресов…">
