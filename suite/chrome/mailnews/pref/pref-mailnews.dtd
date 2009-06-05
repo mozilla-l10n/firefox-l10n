@@ -1,10 +1,12 @@
 <!--null-->
-<!ENTITY pref.mailnews.title "Почта и конференции">
+<!ENTITY pref.mailnews.title "Почта и группы новостей">
 <!ENTITY generalSettings.caption "Основные параметры">
 <!ENTITY confirmMove.label "Запрашивать подтверждение при перемещении папок в «Удалённые»">
 <!ENTITY confirmMove.accesskey "а">
 <!ENTITY preserveThreading.label "Сохранять группировку по обсуждениям при сортировке сообщений">
 <!ENTITY preserveThreading.accesskey "г">
+<!ENTITY mailBiffOnNewWindow.label "Проверять наличие новой почты только после открытия окна «Почта и группы новостей»">
+<!ENTITY mailBiffOnNewWindow.accesskey "р">
 <!ENTITY defaultMailSettings.description "Установить &brandShortName; как приложение по умолчанию для:">
 <!ENTITY setDefaultMail.label "Почты">
 <!ENTITY setDefaultMail.accesskey "ч">

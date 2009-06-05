@@ -35,9 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY startpage.title "Добро пожаловать в клиент почты и новостей &brandShortName;">
-<!ENTITY headline.label 'Добро пожаловать в клиент почты и новостей <a id="vendorURL" href="">&brandShortName;</a>!'>
-<!ENTITY description.label "&brandShortName; Mail &amp; Newsgroups — мощный клиент почты и новостей с открытым исходным кодом, поддержкой эффективной фильтрации спама и множеством других полезных возможностей.">
+<!ENTITY startpage.title "Добро пожаловать в клиент почты и групп новостей &brandShortName;">
+<!ENTITY headline.label 'Добро пожаловать в клиент почты и групп новостей <a id="vendorURL" href="">&brandShortName;</a>!'>
+<!ENTITY description.label "Почта и группы новостей &brandShortName; — мощный клиент почты и новостей с открытым исходным кодом, поддержкой эффективной фильтрации спама и множеством других полезных возможностей.">
 <!ENTITY features.title "Возможности">
 <!ENTITY feat_multiacc.label "Поддержка нескольких учётных записей">
 <!ENTITY feat_junk.label "Определение и эффективная фильтрация спама">
