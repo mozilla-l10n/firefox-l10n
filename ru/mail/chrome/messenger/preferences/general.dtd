@@ -8,9 +8,9 @@
 <!ENTITY bounceSystemDockIcon.label "Анимация значка в доке">
 <!ENTITY bounceSystemDockIcon.accesskey "д">
 <!ENTITY newMessagesArrive.label "При появлении новых сообщений:">
-<!ENTITY playSound.label "Подать звуковой сигнал">
+<!ENTITY playSound.label "Подавать звуковой сигнал">
 <!ENTITY playSound1.accesskey "в">
-<!ENTITY showAnimatedAlert.label "Показать уведомление">
+<!ENTITY showAnimatedAlert.label "Показывать уведомление">
 <!ENTITY showAnimatedAlert.accesskey "у">
 <!ENTITY customizeMailAlert.label "Настроить…">
 <!ENTITY customizeMailAlert.accesskey "т">
