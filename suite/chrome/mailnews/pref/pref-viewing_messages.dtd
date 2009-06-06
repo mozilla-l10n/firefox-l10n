@@ -79,3 +79,5 @@
 <!ENTITY disableContent.accesskey "B">
 <!ENTITY showCondensedAddresses.label "Afficher seulement « Nom à afficher » pour les personnes dans mon carnet d'adresses">
 <!ENTITY showCondensedAddresses.accesskey "h">
+<!ENTITY closeMsgWindowOnDelete.label "Fermer la fenêtre de message lors de la suppression du message">
+<!ENTITY closeMsgWindowOnDelete.accesskey "F">
