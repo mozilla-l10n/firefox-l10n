@@ -27,13 +27,13 @@
 <!ENTITY itemCookies.label "Cookie">
 <!ENTITY itemCookies.accesskey "o">
 <!ENTITY itemCache.label "Cache">
-<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemCache.accesskey "h">
 <!ENTITY itemOfflineApps.label "Dati non in linea dei siti web ">
 <!ENTITY itemOfflineApps.accesskey "w">
 <!ENTITY itemDownloadHistory.label "Cronologia download">
 <!ENTITY itemDownloadHistory.accesskey "d">
 <!ENTITY itemActiveLogins.label "Accessi effettuati">
-<!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemActiveLogins.accesskey "A">
 <!ENTITY itemSitePreferences.label "Preferenze dei siti web">
 <!ENTITY itemSitePreferences.accesskey "P">
 <!ENTITY sanitizeEverythingUndoWarning "Questa azione non può essere annullata.">
