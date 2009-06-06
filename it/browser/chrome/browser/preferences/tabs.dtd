@@ -6,5 +6,5 @@
 <!ENTITY warnOpenManyTabs.accesskey "c">
 <!ENTITY showTabBar.label "Mostra sempre la barra delle schede">
 <!ENTITY showTabBar.accesskey "M">
-<!ENTITY switchToNewTabs.label "Porta in primo piano ogni nuova scheda aperta da un link">
+<!ENTITY switchToNewTabs.label "Porta in primo piano le nuove schede aperte da un link">
 <!ENTITY switchToNewTabs.accesskey "P">
