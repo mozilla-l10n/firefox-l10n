@@ -41,6 +41,8 @@
 <!ENTITY confirmMove.accesskey "V">
 <!ENTITY preserveThreading.label "Při seřazování zpráv uchovávat vlákna">
 <!ENTITY preserveThreading.accesskey "t">
+<!ENTITY mailBiffOnNewWindow.label "Kontrolovat na nové zprávy pouze při spuštění Pošty a Diskusních skupiny">
+<!ENTITY mailBiffOnNewWindow.accesskey "K">
 
 <!ENTITY defaultMailSettings.description "Použít aplikaci &brandShortName; jako výchozí program pro:">
 <!ENTITY setDefaultMail.label "Pošta">
