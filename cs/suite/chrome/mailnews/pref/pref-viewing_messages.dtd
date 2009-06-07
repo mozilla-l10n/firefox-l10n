@@ -79,3 +79,5 @@
 <!ENTITY disableContent.accesskey "P">
 <!ENTITY showCondensedAddresses.label "U lidí v mém adresáři zobrazovat pouze jméno">
 <!ENTITY showCondensedAddresses.accesskey "z">
+<!ENTITY closeMsgWindowOnDelete.label "Při smazání zprávy zavřít okno">
+<!ENTITY closeMsgWindowOnDelete.accesskey "s">
