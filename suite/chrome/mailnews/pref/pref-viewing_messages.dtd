@@ -37,3 +37,5 @@
 <!ENTITY disableContent.accesskey "з">
 <!ENTITY showCondensedAddresses.label "Показывать только имя для людей, находящихся в моей адресной книге">
 <!ENTITY showCondensedAddresses.accesskey "о">
+<!ENTITY closeMsgWindowOnDelete.label "Закрывать окно сообщения при удалении сообщения">
+<!ENTITY closeMsgWindowOnDelete.accesskey "к">
