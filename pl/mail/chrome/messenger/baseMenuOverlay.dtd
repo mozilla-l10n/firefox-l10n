@@ -1,8 +1,6 @@
 <!-- Help Menu -->
-<!ENTITY helpMenu.label     "Pomoc">
-<!ENTITY helpMenu.accesskey "c">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenu.label          "Pomoc">
+<!ENTITY helpMenu.accesskey      "c">
 <!ENTITY helpMenuWin.label       "Pomoc">
 <!ENTITY helpMenuWin.accesskey   "c">
 <!ENTITY releaseCmd.label        "Informacje o wersji programu">

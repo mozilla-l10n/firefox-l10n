@@ -17,7 +17,6 @@
 <!ENTITY newMessageCmd.label            "Wiadomość">
 <!ENTITY newMessageCmd.accesskey        "i">
 <!ENTITY newMessageCmd.key              "M">
-<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label           "Używaj systemowej książki adresowej">
 <!ENTITY osxAddressBook.accesskey       "s">
 <!ENTITY closeCmd.label                 "Zamknij">
@@ -67,8 +66,7 @@
 <!ENTITY searchAddressesCmd.key "f">
 <!ENTITY swapFirstNameLastNameCmd.label     "Zamień miejscami Imię/Nazwisko">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "w">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI): DONT_TRANSLATE -->
-<!-- Swap FN/LN UI Set to "false" to show swap fn/ln UI -->
+<!-- Don't translate hideSwapFnLnUI, swap FN/LN UI Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI          "true">
 <!ENTITY propertiesCmd.label     "Właściwości…">
 <!ENTITY propertiesCmd.accesskey "i">

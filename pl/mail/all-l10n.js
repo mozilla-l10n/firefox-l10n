@@ -37,4 +37,12 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
+
+// FIXME: PL → pl/@AB_CD@?
+//        http://mxr.mozilla.org/comm-central/source/mail/locales/en-US/all-l10n.js#40
 pref("spellchecker.dictionary", "PL");
+
+// FIXME: help
+//        pref("app.support.baseUR", "http://support.live.mozillamessaging.com/%LOCALE%/%APP%/%APPBUILDID%/");
+//        → pref("app.support.baseURL", "http://pomoc.thunderbird.pl");
+//          → bmo

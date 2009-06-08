@@ -578,7 +578,7 @@
 <!ENTITY glodaSearchFacet.folder.label          "W wybranym folderze…">
 
 <!-- Quick Search Menu Bar -->
-<!ENTITY searchSubjectMenu.label     "Temat">
+<!ENTITY searchSubjectMenu.label            "Temat">
 <!ENTITY searchFromMenu.label               "Nadawca">
 <!ENTITY searchSubjectOrFromMenu.label      "Temat lub nadawca">
 <!ENTITY searchRecipient.label              "Pola Do lub Kopia">

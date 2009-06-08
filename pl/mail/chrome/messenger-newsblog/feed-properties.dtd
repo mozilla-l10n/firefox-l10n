@@ -12,8 +12,7 @@
 <!ENTITY quickMode.label     "Pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
 <!ENTITY quickMode.accesskey "o">
 
-<!ENTITY copyLinkCmd.label     "Kopiuj adres odnośnika">
-<!ENTITY copyLinkCmd.accesskey "K">
-
+<!ENTITY copyLinkCmd.label      "Kopiuj adres odnośnika">
+<!ENTITY copyLinkCmd.accesskey  "K">
 <!ENTITY pasteLinkCmd.label     "Wklej">
 <!ENTITY pasteLinkCmd.accesskey "W">

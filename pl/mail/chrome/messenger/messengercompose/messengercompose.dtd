@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!-- main UI for message composition -->
 <!ENTITY msgComposeWindow.title  "Tworzenie: (bez tematu)">
 
 <!-- File Menu -->
@@ -18,7 +18,6 @@
 <!ENTITY attachFileCmd.accesskey "l">
 <!ENTITY attachPageCmd.label     "Stronę WWW…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label           "Wizytówkę">
 <!ENTITY attachVCardCmd.accesskey       "t">
 <!ENTITY closeCmd.label                 "Zamknij">
@@ -87,18 +86,18 @@
 <!ENTITY findPrevCmd.key2         "VK_F3">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label                  "Widok">
-<!ENTITY viewMenu.accesskey              "W">
-<!ENTITY viewToolbarsMenuNew.label       "Paski narzędzi">
-<!ENTITY viewToolbarsMenuNew.accesskey   "n">
+<!ENTITY viewMenu.label                      "Widok">
+<!ENTITY viewMenu.accesskey                  "W">
+<!ENTITY viewToolbarsMenuNew.label           "Paski narzędzi">
+<!ENTITY viewToolbarsMenuNew.accesskey       "n">
 <!ENTITY showCompositionToolbarCmd.label     "Pasek narzędzi poczty">
 <!ENTITY showCompositionToolbarCmd.accesskey "P">
-<!ENTITY showFormattingBarCmd.label      "Pasek narzędzi formatowania">
-<!ENTITY showFormattingBarCmd.accesskey  "f">
-<!ENTITY showTaskbarCmd.label            "Pasek stanu">
-<!ENTITY showTaskbarCmd.accesskey        "s">
-<!ENTITY customizeToolbar.label          "Dostosuj…">
-<!ENTITY customizeToolbar.accesskey      "t">
+<!ENTITY showFormattingBarCmd.label          "Pasek narzędzi formatowania">
+<!ENTITY showFormattingBarCmd.accesskey      "f">
+<!ENTITY showTaskbarCmd.label                "Pasek stanu">
+<!ENTITY showTaskbarCmd.accesskey            "s">
+<!ENTITY customizeToolbar.label              "Dostosuj…">
+<!ENTITY customizeToolbar.accesskey          "t">
 
 <!ENTITY addressSidebar.label     "Panel adresów ">
 <!ENTITY addressSidebar.accesskey "a">

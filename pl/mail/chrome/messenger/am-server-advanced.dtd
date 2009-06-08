@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label           "Zaawansowane ustawienia konta">
-<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label          "Katalog serwera IMAP">
 <!ENTITY serverDirectory.accesskey      "I">
 <!ENTITY usingSubscription.label        "Pokaż tylko subskrybowane foldery">
@@ -10,7 +9,6 @@
 <!ENTITY useIdle.accesskey              "I">
 <!ENTITY maximumConnectionsNumber.label "Maksymalna liczba połączeń z serwerem">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
-<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label            "Poniższe ustawienia określają dostępne przestrzenie nazw na bieżącym serwerze IMAP">
 <!ENTITY personalNamespace.label        "Osobista przestrzeń nazw:">
 <!ENTITY personalNamespace.accesskey    "p">
