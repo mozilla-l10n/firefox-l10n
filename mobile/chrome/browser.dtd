@@ -82,16 +82,10 @@
 <!ENTITY noResults.label "Žádné výsledky">
 
 <!ENTITY identity.unverifiedsite2 "Tato stránka neposkytuje informace o své identitě.">
-<!ENTITY identity.connectedTo "Jste připojeni k">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
-
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables. If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "který je provozován">
+<!ENTITY identity.connectedTo2 "Připojeno k">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "Server provozován">
