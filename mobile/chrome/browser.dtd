@@ -72,8 +72,8 @@
 <!ENTITY downloadsSearch.emptytext "Rechercher un fichier téléchargé">
 
 <!ENTITY downloadShowPage.label "Aller à la page">
-<!ENTITY downloadShow2.label       "Rechercher">
-<!ENTITY downloadOpen2.label       "Ouvrir">
+<!ENTITY downloadShow2.label "Rechercher">
+<!ENTITY downloadOpen2.label "Ouvrir">
 <!ENTITY downloadCancel.label "Annuler">
 <!ENTITY downloadPause.label "Pause">
 <!ENTITY downloadResume.label "Reprendre">
@@ -89,3 +89,15 @@
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy2 "détenu par">
+
+<!ENTITY consoleHeader.label "Console d'erreurs">
+<!ENTITY consoleAll.label "Tout">
+<!ENTITY consoleErrors.label "Erreurs">
+<!ENTITY consoleWarnings.label "Avertissements">
+<!ENTITY consoleMessages.label "Messages">
+<!ENTITY consoleCodeEval.label "Code :">
+<!ENTITY consoleClear.label "Effacer">
+<!ENTITY consoleEvaluate.label "Evaluer">
+<!ENTITY consoleErrFile.label "Fichier source :">
+<!ENTITY consoleErrLine.label "Ligne :">
+<!ENTITY consoleErrColumn.label "Colonne :">
