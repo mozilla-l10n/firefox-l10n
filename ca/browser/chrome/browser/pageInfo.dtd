@@ -94,7 +94,7 @@
 <!ENTITY  permPopup             "Obrir finestres emergents">
 <!ENTITY  permCookie            "Definir galetes">
 <!ENTITY  permInstall           "Instaŀlar extensions o temes">
-<!ENTITY  permGeo               "Comparteix la ubicació">
+<!ENTITY  permGeo               "Compartir la ubicació">
 
 <!ENTITY  securityTab           "Seguretat">
 <!ENTITY  securityTab.accesskey "S">
