@@ -19,6 +19,7 @@
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
+#    Stefan Plewako <splewako@aviary.pl> (Polish localization)
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,10 +38,7 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
-
-// FIXME: PL → pl/@AB_CD@?
-//        http://mxr.mozilla.org/comm-central/source/mail/locales/en-US/all-l10n.js#40
-pref("spellchecker.dictionary", "PL");
+pref("spellchecker.dictionary", "@AB_CD@");
 
 // FIXME: help
 //        pref("app.support.baseUR", "http://support.live.mozillamessaging.com/%LOCALE%/%APP%/%APPBUILDID%/");
