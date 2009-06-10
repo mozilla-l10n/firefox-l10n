@@ -59,10 +59,8 @@
 <!ENTITY retentionDeleteMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">
 <!ENTITY retentionKeepAll.accesskey "Н">
-<!ENTITY retentionKeepNew.label "Удалять все, кроме последних">
-<!ENTITY retentionKeepNew.accesskey "п">
-<!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
-<!ENTITY retentionKeepUnread.accesskey "ч">
+<!ENTITY retentionKeepRecent.label "Удалять все, кроме последних">
+<!ENTITY retentionKeepRecent.accesskey "с">
 <!ENTITY retentionApplyToFlagged.label "Всегда сохранять сообщения, отмеченные звёздочкой">
 <!ENTITY retentionApplyToFlagged.accesskey "р">
 <!ENTITY folderSynchronizationTab.label "Синхронизация">
