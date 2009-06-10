@@ -53,7 +53,7 @@
 <!ENTITY retentionUseDefault.label  "Utiliser les paramètres par défaut du serveur">
 <!ENTITY retentionUseDefault.accesskey "U">
 <!ENTITY daysOld.label "jours">
-<!ENTITY message.label "derniers messages">
+<!ENTITY message.label "les plus récents">
 <!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement.">
 <!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, les copies locales et les originaux sur le serveur distant.">
 <!ENTITY retentionCleanupPop.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, y compris sur le serveur distant.">
@@ -61,9 +61,7 @@
 <!ENTITY retentionDeleteMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Ne supprimer aucun message">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Supprimer tous les messages sauf les">
-<!ENTITY retentionKeepNew.accesskey "S">
-<!ENTITY retentionKeepRecent.label "Supprimer tous les messages sauf les plus récents">
+<!ENTITY retentionKeepRecent.label "Supprimer tous les messages sauf les">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
 <!ENTITY retentionApplyToFlagged.accesskey "o">
