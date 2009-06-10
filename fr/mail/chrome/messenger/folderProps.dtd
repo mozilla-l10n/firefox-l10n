@@ -63,10 +63,8 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepNew.label "Supprimer tous les messages sauf les">
 <!ENTITY retentionKeepNew.accesskey "S">
-<!ENTITY retentionKeepUnread.label "Toujours supprimer les messages lus">
-<!ENTITY retentionKeepUnread.accesskey "T">
-<!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
-<!ENTITY retentionApplyToFlagged.accesskey "o">
+<!ENTITY retentionKeepRecent.label "Supprimer tous les messages sauf les plus récents">
+<!ENTITY retentionKeepRecent.accesskey "l">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronisation">
 <!ENTITY folderCheckForNewMessages.label         "Surveiller les nouveaux messages dans ce dossier">
