@@ -24,9 +24,9 @@
 <!ENTITY retentionApplyToFlagged.accesskey    "s">
 <!ENTITY nntpRemoveMsgBody.label              "Usuwaj treść wiadomości starszych niż"><!-- FIXME: było Remove bodies from messages more than - starszych/większych/?? -->
 <!ENTITY nntpRemoveMsgBody.accesskey          "U">
-<!ENTITY offlineSelectNntp.label         "Wybierz grupy dostępne w trybie offline…">
-<!ENTITY offlineSelectNntp.accesskey     "g">
+<!ENTITY offlineSelectNntp.label              "Wybierz grupy dostępne w trybie offline…">
+<!ENTITY offlineSelectNntp.accesskey          "g">
 <!ENTITY offlineImapAdvancedOffline.label     "Zaawansowane…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "Z">
 <!ENTITY syncGroupTitle.label                 "Synchronizacja wiadomości">
-<!ENTITY diskspaceGroupTitle.label       "Miejsce na dysku">
+<!ENTITY diskspaceGroupTitle.label            "Miejsce na dysku">
