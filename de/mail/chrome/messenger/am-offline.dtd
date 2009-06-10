@@ -3,31 +3,29 @@
 <!ENTITY allFoldersOffline.label "Nachrichten dieses Kontos auf diesem Computer bereithalten">
 <!ENTITY allFoldersOffline.accesskey "d">
 <!ENTITY offlineNotDownload.label "Nachrichten, die größer sind als">
-<!ENTITY offlineNotDownload.accesskey "g">
+<!ENTITY offlineNotDownload.accesskey "N">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "Tage">
 <!ENTITY message.label "Nachrichten">
 <!ENTITY nntpNotDownloadRead.label "Gelesene Nachrichten">
-<!ENTITY nntpNotDownloadRead.accesskey "l">
+<!ENTITY nntpNotDownloadRead.accesskey "G">
 <!ENTITY nntpDownloadMsg.label "Nachrichten, die älter sind als">
-<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY nntpDownloadMsg.accesskey "a">
 <!ENTITY retentionCleanup.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben:">
 <!ENTITY retentionCleanupImap.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben - sowohl lokale Kopien als auch auf dem IMAP-Server:">
 <!ENTITY retentionCleanupPop.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben - einschließlich der Originale auf dem POP-Server:">
 <!ENTITY retentionKeepMsg.label "Nachrichten, die älter sind als">
-<!ENTITY retentionKeepMsg.accesskey "N">
+<!ENTITY retentionKeepMsg.accesskey "c">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten">
 <!ENTITY retentionKeepAll.accesskey "K">
-<!ENTITY retentionKeepNew.label "Alle außer den neuesten">
-<!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Gelesene Nachrichten immer löschen">
-<!ENTITY retentionKeepUnread.accesskey "g">
+<!ENTITY retentionKeepRecent.label "Alle außer den aktuellsten">
+<!ENTITY retentionKeepRecent.accesskey "u">
 <!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
 <!ENTITY retentionApplyToFlagged.accesskey "z">
-<!ENTITY nntpRemoveBody.label "Behalte nur Nachrichtentexte, die neuer sind als">
-<!ENTITY nntpRemoveBody.accesskey "N">
+<!ENTITY nntpRemoveMsgBody.label "Lösche Nachrichtentexte, die älter sind als">
+<!ENTITY nntpRemoveMsgBody.accesskey "L">
 <!ENTITY offlineSelectNntp.label "Newsgruppen zum Offline-Lesen wählen…">
-<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectNntp.accesskey "w">
 <!ENTITY offlineImapAdvancedOffline.label "Erweitert…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "w">
 <!ENTITY syncGroupTitle.label "Nachrichten-Synchronisation">
