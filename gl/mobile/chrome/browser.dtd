@@ -82,7 +82,6 @@
 <!ENTITY noResults.label           "Sen resultados">
 
 <!ENTITY identity.unverifiedsite2 "Este sitio web non fornece información de identidade.">
-<!ENTITY identity.connectedTo "Está conectado a">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -94,4 +93,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "pertencente a">
+
+<!ENTITY identity.connectedTo2 "Conectado a">
+
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+
+<!ENTITY identity.runBy2 "pertencente a">
+
+<!ENTITY consoleHeader.label       "Consola de erros">
+<!ENTITY consoleAll.label          "Todo">
+<!ENTITY consoleErrors.label       "Erros">
+<!ENTITY consoleWarnings.label     "Avisos">
+<!ENTITY consoleMessages.label     "Mensaxes">
+<!ENTITY consoleCodeEval.label     "Código:">
+<!ENTITY consoleClear.label        "Limpar">
+<!ENTITY consoleEvaluate.label     "Avaliar">
+<!ENTITY consoleErrFile.label      "Ficheiro de orixe:">
+<!ENTITY consoleErrLine.label      "Liña:">
+<!ENTITY consoleErrColumn.label    "Columna:">
