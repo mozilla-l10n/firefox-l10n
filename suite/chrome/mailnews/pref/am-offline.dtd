@@ -18,14 +18,12 @@
 <!ENTITY retentionKeepMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Ne pas supprimer les messages">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Supprimer tous les messages, sauf les">
-<!ENTITY retentionKeepNew.accesskey "S">
-<!ENTITY retentionKeepUnread.label "Toujours supprimer les messages lus">
-<!ENTITY retentionKeepUnread.accesskey "T">
+<!ENTITY retentionKeepRecent.label "Supprimer tous les messages, sauf les">
+<!ENTITY retentionKeepRecent.accesskey "S">
 <!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
 <!ENTITY retentionApplyToFlagged.accesskey "o">
-<!ENTITY nntpRemoveBody.label "Uniquement les messages ayant moins de">
-<!ENTITY nntpRemoveBody.accesskey "q">
+<!ENTITY nntpRemoveMsgBody.label "Supprimer les corps des messages de plus de">
+<!ENTITY nntpRemoveMsgBody.accesskey "r">
 <!ENTITY offlineSelectNntp.label "Sélectionner les groupes de discussion pour le travail hors ligne…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avancé…">

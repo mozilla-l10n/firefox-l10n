@@ -61,12 +61,13 @@
 <!ENTITY retentionDeleteMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Tous les messages">
 <!ENTITY retentionKeepAll.accesskey "T">
-<!ENTITY retentionKeepNew.label "Les">
-<!ENTITY retentionKeepNew.accesskey "L">
-<!ENTITY retentionKeepUnread.label "Uniquement les messages non-lus">
-<!ENTITY retentionKeepUnread.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Les">
+<!ENTITY retentionKeepRecent.accesskey "L">
+
 <!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
 <!ENTITY retentionApplyToFlagged.accesskey "o">
+<!ENTITY retentionKeepRecent.label "Les">
+<!ENTITY retentionKeepRecent.accesskey "L">
 
 <!ENTITY folderSynchronizationTab.label "Synchronisation">
 <!ENTITY folderCheckForNewMessages.label "Surveiller les nouveaux messages dans ce dossier">
