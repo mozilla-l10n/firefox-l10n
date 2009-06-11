@@ -18,31 +18,21 @@
 <!ENTITY helpForIEUsers.label "สำหรับผู้ใช้ Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey "/">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY helpMac.commandkey "?">
 
 <!ENTITY helpReleaseNotes.label "บันทึกประจำรุ่น">
 <!ENTITY helpReleaseNotes.accesskey "บ">
 <!ENTITY updateCmd.label "ตรวจหาการปรับปรุง…">
-<!ENTITY updateCmd.accesskey "ป">
 
 <!ENTITY preferencesCmdMac.label "ปรับแต่ง…">
 <!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
 
 <!ENTITY servicesMenuMac.label "บริการ">
 
 <!ENTITY hideThisAppCmdMac.label "ซ่อน &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label "ซ่อนโปรแกรมอื่น">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label "แสดงทั้งหมด">
