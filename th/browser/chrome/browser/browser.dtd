@@ -88,7 +88,6 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "หยุดการโหลดหน้านี้">
 <!ENTITY goEndCap.tooltip "ไปยังที่ตั้งที่ป้อน">
-<!ENTITY feedButton.tooltip "บอกรับหน้าเว็บนี้…">
 <!ENTITY printButton.label "พิมพ์">
 <!ENTITY printButton.tooltip "พิมพ์หน้านี้">
 
@@ -104,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip "แสดงที่คั่นหน้าเว็บ">
 <!ENTITY bookmarksSidebarCmd.accesskey "ค">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "ประวัติ">
@@ -187,6 +190,8 @@
 <!ENTITY historyMenu.label "ประวัติ">
 <!ENTITY historyMenu.accesskey "ป">
 <!ENTITY historyUndoMenu.label "แท็บที่ปิดล่าสุด">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "หน้าต่างที่ปิดล่าสุด">
 
 <!ENTITY historyHomeCmd.label "หน้าแรก">
 <!ENTITY showAllHistoryCmd2.label "แสดงประวัติทั้งหมด">
@@ -194,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "ค้นหาที่คั่นหน้าเว็บและประวัติ">
+<!ENTITY urlbar.bookmarkhistory.emptyText "ค้นหาที่คั่นหน้าเว็บและประวัติ">
+<!ENTITY urlbar.bookmark.emptyText    "ค้นหาที่คั่นหน้าเว็บ">
+<!ENTITY urlbar.history.emptyText     "ค้นหาประวัติ">
+<!ENTITY urlbar.none.emptyText        "พิมพ์ที่อยู่เว็บ">
 <!ENTITY urlbar.accesskey "d">
 
 <!--
@@ -352,7 +361,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "ย่อ-ขยาย">
 <!ENTITY fullZoom.accesskey "ข">
 
-<!ENTITY newTabButton.tooltip  "เปิดแท็บใหม่">
+<!ENTITY newTabButton.tooltip    "เปิดแท็บใหม่">
 <!ENTITY newWindowButton.tooltip "เปิดหน้าต่างใหม่">
 <!ENTITY sidebarCloseButton.tooltip "ปิดแถบข้าง">
 
