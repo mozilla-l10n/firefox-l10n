@@ -465,6 +465,7 @@
 <!ENTITY goBackButton.label "Zurück gehen">
 <!ENTITY goForwardButton.label "Vor gehen">
 <!ENTITY deleteButton.label "Löschen">
+<!ENTITY undeleteButton.label "Wiederherstellen">
 <!ENTITY markButton.label "Markieren">
 <!ENTITY printButton.label "Drucken">
 <!ENTITY stopButton.label "Stopp">
@@ -487,6 +488,7 @@
 <!ENTITY goBackButton.tooltip "Eine Nachricht zurück gehen">
 <!ENTITY goForwardButton.tooltip "Eine Nachricht nach vor gehen">
 <!ENTITY deleteButton.tooltip "Gewählte Nachricht oder Ordner löschen">
+<!ENTITY undeleteButton.tooltip "Ausgewählte Nachricht wiederherstellen">
 <!ENTITY markButton.tooltip "Markiere Nachrichten">
 <!ENTITY printButton.tooltip "Diese Nachricht drucken">
 <!ENTITY stopButton.tooltip "Aktuelle Übertragung stoppen">

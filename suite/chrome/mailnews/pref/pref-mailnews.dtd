@@ -41,6 +41,8 @@
 <!ENTITY confirmMove.accesskey            "B">
 <!ENTITY preserveThreading.label          "Threads beim Sortieren erhalten">
 <!ENTITY preserveThreading.accesskey      "T">
+<!ENTITY mailBiffOnNewWindow.label        "Erst nach Öffnen von Mail &amp; Newsgroups auf neue Nachrichten prüfen">
+<!ENTITY mailBiffOnNewWindow.accesskey    "E">
 
 <!ENTITY defaultMailSettings.description  "&brandShortName; als Standardanwendung verwenden für:">
 <!ENTITY setDefaultMail.label             "Mail">
