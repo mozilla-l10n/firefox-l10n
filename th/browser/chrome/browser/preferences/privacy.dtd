@@ -1,6 +1,8 @@
 <!ENTITY history.label "ประวัติ">
 
-<!ENTITY  locbar.pre.label              "เมื่อใช้แถบที่ตั้ง ให้เสนอแนะ :">
+<!ENTITY  locationBar.label             "แถบที่อยู่">
+
+<!ENTITY  locbar.pre.label              "เมื่อใช้แถบที่อยู่ ให้เสนอแนะ :">
 <!ENTITY  locbar.pre.accessKey          "ท">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "ประวัติและที่คั่นหน้าเว็บ">
@@ -54,6 +56,57 @@
 
 <!ENTITY  clearDataSettings.label        "ตั้งค่า…">
 <!ENTITY  clearDataSettings.accesskey    "ต">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; จะ:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "จำประวัติการท่องเว็บ">
+<!ENTITY  historyHeader.dontremember.label "ไม่จำประวัติการท่องเว็บ">
+<!ENTITY  historyHeader.custom.label       "ใช้ค่าตั้งเองกับประวัติการเข้าเว็บ">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; จะจำประวัติการท่องเว็บ การดาวน์โหลด การกรอกฟอร์มและการค้นหา รวมไปถึงคุ้กกี้จากเว็บไซต์ที่คุณไปเยี่ยมชมเอาไว้">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "คุณอาจจะต้องการ ">
+<!ENTITY  rememberActions.clearHistory.label  "ล้างประวัติการท่องของคุณเมื่อเร็ว ๆ นี้">
+<!ENTITY  rememberActions.middle.label        "หรือ ">
+<!ENTITY  rememberActions.removeCookies.label "เอาคุ้กกี้ออกเอง">
+<!ENTITY  rememberActions.post.label          " ">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; จะใช้ค่าตั้งเดียวกับการท่องเว็บแบบส่วนตัวและจะไม่จำประวัติการท่องเว็บใด ๆ ของคุณ">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "คุณอาจจะต้องการ ">
+<!ENTITY  dontrememberActions.clearHistory.label "ล้างประวัติการท่องเว็บปัจจุบันของคุณ">
+<!ENTITY  dontrememberActions.post.label         " ">
+
+<!ENTITY  privateBrowsingAutoStart.label "เริ่มวาระการท่องเว็บแบบส่วนตัวอัตโนมัติเมื่อเริ่มใช้งาน &brandShortName;">
+<!ENTITY  privateBrowsingAutoStart.accesskey "อ">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "จำประวัติการท่องเว็บของฉันไว้อย่างน้อย">
+<!ENTITY  rememberHistory.pre.accesskey  "ป">
+<!ENTITY  rememberHistory.post.label     "วัน">
+
+<!ENTITY  rememberDownload.label         "จำประวัติการดาวน์โหลด">
+<!ENTITY  rememberDownload.accesskey     "ด">
+
+<!ENTITY  rememberSearchForm.label       "จำประวัติการค้นหาและการกรอกฟอร์ม">
+<!ENTITY  rememberSearchForm.accesskey   "ฟ">
+
+<!ENTITY  clearOnClose.label             "ล้างประวัติเมื่อปิด &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "ล">
+
+<!ENTITY  clearOnCloseSettings.label     "การตั้งค่า…">
+<!ENTITY  clearOnCloseSettings.accesskey "ต">
 
 <!ENTITY  clearDataNow.label             "ล้างเดี๋ยวนี้…">
 <!ENTITY  clearDataNow.accesskey         "ล">
