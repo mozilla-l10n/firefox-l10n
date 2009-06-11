@@ -79,3 +79,5 @@
 <!ENTITY disableContent.accesskey         "k">
 <!ENTITY showCondensedAddresses.label     "Für Personen im persönlichen Adressbuch nur den Anzeigenamen anzeigen">
 <!ENTITY showCondensedAddresses.accesskey "P">
+<!ENTITY closeMsgWindowOnDelete.label     "Wenn die Nachricht gelöscht wird, das Nachrichtenfenster schließen">
+<!ENTITY closeMsgWindowOnDelete.accesskey "W">
