@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey "ซ">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.bookmarkLink.label         "คั่นหน้าเว็บนี้…">
+<!ENTITY cmd.bookmarkLink.accesskey     "ค">
 <!ENTITY cmd.delete.label               "ลบหน้าเว็บนี้">
 <!ENTITY cmd.delete.accesskey           "ล">
 <!ENTITY cmd.deleteDomainData.label     "ลืมเว็บไซต์นี้เสีย">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey "น">
 
 <!ENTITY backCmd.label "ย้อนกลับ">
-<!ENTITY backCmd.accesskey "ก">
 <!ENTITY backButton.tooltip "ย้อนกลับ">
 
 <!ENTITY forwardCmd.label "ถัดไป">
-<!ENTITY forwardCmd.accesskey "ถ">
 <!ENTITY forwardButton.tooltip "ถัดไป">
 
 <!ENTITY detailsPane.more.label "ขยาย">
