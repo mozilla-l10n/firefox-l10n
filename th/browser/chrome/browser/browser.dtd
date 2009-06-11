@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ดูเว็บแบบส่วนตัว)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "แท็บใหม่">
 <!ENTITY tabCmd.accesskey "ท">
@@ -88,6 +86,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "หยุดการโหลดหน้านี้">
 <!ENTITY goEndCap.tooltip "ไปยังที่ตั้งที่ป้อน">
+<!ENTITY feedButton.tooltip "บอกรับหน้านี้…">
 <!ENTITY printButton.label "พิมพ์">
 <!ENTITY printButton.tooltip "พิมพ์หน้านี้">
 
@@ -101,13 +100,13 @@
 
 <!ENTITY bookmarksButton.label "ที่คั่นหน้าเว็บ">
 <!ENTITY bookmarksButton.tooltip "แสดงที่คั่นหน้าเว็บ">
-<!ENTITY bookmarksSidebarCmd.accesskey "ค">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.accesskey  "ว">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "ประวัติ">
 <!ENTITY historyButton.tooltip "แสดงหน้าที่ดูล่าสุด">
@@ -198,7 +197,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "ค้นหาที่คั่นหน้าเว็บและประวัติ">
 <!ENTITY urlbar.bookmarkhistory.emptyText "ค้นหาที่คั่นหน้าเว็บและประวัติ">
 <!ENTITY urlbar.bookmark.emptyText    "ค้นหาที่คั่นหน้าเว็บ">
 <!ENTITY urlbar.history.emptyText     "ค้นหาประวัติ">
