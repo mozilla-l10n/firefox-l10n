@@ -277,7 +277,7 @@
 <!ENTITY savePageCmd.accesskey2       "u">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Frame speichern unter…">
-<!ENTITY saveFrameCmd.accesskey       "u">
+<!ENTITY saveFrameCmd.accesskey       "m">
 <!ENTITY printFrameCmd.label          "Frame drucken…">
 <!ENTITY printFrameCmd.accesskey      "d">
 <!ENTITY saveLinkCmd.label            "Ziel speichern unter…">
