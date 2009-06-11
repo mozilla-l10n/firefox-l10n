@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "ท">
 <!ENTITY openInNewWindow.label "เปิดในหน้าต่างใหม่">
 <!ENTITY openInNewWindow.accesskey "น">
-<!ENTITY bookmarkLink.label "เพิ่มลิงก์นี้เป็นที่คั่นหน้าเว็บ…">
-<!ENTITY bookmarkLink.accesskey "พ">
 <!ENTITY copyLink.label "คัดลอกที่ตั้งลิงก์">
 <!ENTITY copyLink.accesskey "ค">
