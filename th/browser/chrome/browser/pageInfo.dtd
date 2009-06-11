@@ -88,6 +88,7 @@
 <!ENTITY permTab "การกำหนดสิทธิ์">
 <!ENTITY permTab.accesskey "ส">
 <!ENTITY permUseDefault "ใช้ค่าปริยาย">
+<!ENTITY permAskAlways "ถามเสมอ">
 <!ENTITY permAllow "ยินยอม">
 <!ENTITY permAllowSession "ยินยอมสำหรับวาระนี้">
 <!ENTITY permBlock "ปิดกั้น">
@@ -96,6 +97,7 @@
 <!ENTITY permPopup "เปิดหน้าต่างป็อปอัพ">
 <!ENTITY permCookie "ตั้งค่าคุกกี้">
 <!ENTITY permInstall "ติดตั้งส่วนขยายหรือชุดตกแต่ง">
+<!ENTITY permGeo "แจ้งสถานที่">
 
 <!ENTITY securityTab "ความปลอดภัย">
 <!ENTITY securityTab.accesskey "ป">
