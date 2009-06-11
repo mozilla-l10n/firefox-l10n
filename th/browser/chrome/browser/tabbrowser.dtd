@@ -9,6 +9,8 @@
 <!ENTITY reloadAllTabs.accesskey "ท">
 <!ENTITY reloadTab.label "เรียกแท็บนี้ใหม่">
 <!ENTITY reloadTab.accesskey "ร">
+<!ENTITY  openTabInNewWindow.label    "เปิดในหน้าต่างใหม่">
+<!ENTITY  openTabInNewWindow.accesskey "น">
 <!ENTITY listAllTabs.label "ดูรายการแท็บ">
 <!ENTITY bookmarkAllTabs.label "คั่นหน้าเว็บทุกแท็บ…">
 <!ENTITY bookmarkAllTabs.accesskey "ท">
