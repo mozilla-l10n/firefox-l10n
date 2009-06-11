@@ -136,18 +136,10 @@
 
 <!ENTITY search.label "ค้น :">
 <!ENTITY search.accesskey "ค">
-<!ENTITY search.collection.label "ชุดปัจจุบันเท่านั้น">
-<!ENTITY search.collection.accesskey "ป">
-<!ENTITY search.allBookmarks.label "ที่คั่นหน้าเว็บทั้งหมด">
-<!ENTITY search.allBookmarks.accesskey "ท">
 <!ENTITY search.scopeFolder.label "โฟลเดอร์ที่ถูกเลือก">
 <!ENTITY search.scopeFolder.accesskey "ฟ">
-<!ENTITY search.scopeAll.label "ที่คั่นหน้าเว็บทั้งหมด">
-<!ENTITY search.scopeAll.accesskey "ท">
-<!ENTITY search.scopeMenu.label "เมนูที่คั่นหน้าเว็บ">
-<!ENTITY search.scopeMenu.accesskey "ม">
-<!ENTITY search.scopeToolbar.label "แถบเครื่องมือคั่นหน้าเว็บ">
-<!ENTITY search.scopeToolbar.accesskey "ถ">
+<!ENTITY search.scopeBookmarks.label "ที่คั่นหน้าเว็บ">
+<!ENTITY search.scopeBookmarks.accesskey "ท">
 <!ENTITY search.scopeDownloads.label "ดาวน์โหลด">
 <!ENTITY search.scopeDownloads.accesskey "ด">
 <!ENTITY search.scopeHistory.label "ประวัติ">
