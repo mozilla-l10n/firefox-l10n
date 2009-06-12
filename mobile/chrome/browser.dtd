@@ -114,16 +114,22 @@
 <!ENTITY noResults.label                  "Rezultatų nėra">
 
 <!ENTITY identity.unverifiedsite2         "Ši svetainė nepateikia duomenų apie savo tapatumą.">
-<!ENTITY identity.connectedTo             "Jūs prisijungėte prie svetainės">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2            "Prisijungta prie">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2                  "svetainę valdo">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy                   "kurią valdo">
+<!ENTITY consoleHeader.label              "Klaidų pultas">
+<!ENTITY consoleAll.label                 "Rodyti viską">
+<!ENTITY consoleErrors.label              "Klaidos">
+<!ENTITY consoleWarnings.label            "Įspėjimai">
+<!ENTITY consoleMessages.label            "Pranešimai">
+<!ENTITY consoleCodeEval.label            "Kodas:">
+<!ENTITY consoleClear.label               "Išvalyti">
+<!ENTITY consoleEvaluate.label            "Vykdyti">
+<!ENTITY consoleErrFile.label             "Failas:">
+<!ENTITY consoleErrLine.label             "Eilutė:">
+<!ENTITY consoleErrColumn.label           "Stulpelis:">
