@@ -2,7 +2,7 @@
 
 <!ENTITY historyWindowTitle.label "Historia">
 <!ENTITY menuBar.tooltip "Pasek menu">
-<!ENTITY searchBar.tooltip "Pasek wyszukiwanie">
+<!ENTITY searchBar.tooltip "Pasek wyszukiwania">
 
 <!ENTITY search.emptytext "Szukaj w historii">
 <!ENTITY search.key "f">
