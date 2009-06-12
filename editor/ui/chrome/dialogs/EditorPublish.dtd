@@ -71,7 +71,7 @@
 <!ENTITY filenameExample.label        "vd.: &quot;trangweb.html&quot;">
 <!ENTITY setDefaultButton.label       "Dùng làm Mặc định">
 <!ENTITY setDefaultButton.accesskey   "M">
-<!ENTITY removeButton.label           "Xóa Site">
+<!ENTITY removeButton.label           "Xóa Trang">
 <!ENTITY removeButton.accesskey       "X">
 
 <!-- Settings Tab Panel -->

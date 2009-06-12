@@ -400,9 +400,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "c">
 <!ENTITY dontShowMessage.accesskey "K">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Chuyển Chiều-đọc-chữ của Trang">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Hoán chuyển Chiều đọc chữ của Trang">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Chuyển Chiều-đọc-chữ của Văn bản">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Hoán chuyển Chiều đọc chữ của Văn bản">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "C">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 

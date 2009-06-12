@@ -57,7 +57,7 @@
 <!ENTITY addonsSearch.emptytext    "Tìm tất cả các tiện ích">
 
 <!ENTITY addonOptions.label        "Tùy chọn">
-<!ENTITY addonEnable.label         "Kích hoạt">
+<!ENTITY addonEnable.label         "Bật">
 <!ENTITY addonDisable.label        "Vô hiệu hóa">
 <!ENTITY addonInstall.label        "Cài đặt">
 <!ENTITY addonUninstall.label      "Gỡ bỏ">
@@ -82,16 +82,22 @@
 <!ENTITY noResults.label           "Không có kết quả">
 
 <!ENTITY identity.unverifiedsite2 "Trang web này không cung cấp thông tin định danh.">
-<!ENTITY identity.connectedTo "Bạn đang kết nối đến">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2 "Kết nối tới">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "kiểm soát bởi">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "thuộc quyền kiểm soát của">
+<!ENTITY consoleHeader.label       "Bảng kiểm soát Lỗi">
+<!ENTITY consoleAll.label          "Tất cả">
+<!ENTITY consoleErrors.label       "Lỗi">
+<!ENTITY consoleWarnings.label     "Cảnh báo">
+<!ENTITY consoleMessages.label     "Thông điệp">
+<!ENTITY consoleCodeEval.label     "Mã">
+<!ENTITY consoleClear.label        "Xóa trắng">
+<!ENTITY consoleEvaluate.label     "Đánh giá">
+<!ENTITY consoleErrFile.label      "Tập tin Nguồn:">
+<!ENTITY consoleErrLine.label      "Dòng:">
+<!ENTITY consoleErrColumn.label    "Cột:">

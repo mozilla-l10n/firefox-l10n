@@ -56,8 +56,8 @@
 <!ENTITY cmd.optionsUnix.label            "Tùy chỉnh">
 <!ENTITY cmd.optionsUnix.accesskey        "y">
 <!ENTITY cmd.optionsUnix.tooltip          "Thay đổi các Tùy chỉnh của Phần mở rộng được chọn">
-<!ENTITY cmd.enable.label                 "Kích hoạt">
-<!ENTITY cmd.enable.accesskey             "K">
+<!ENTITY cmd.enable.label                 "Bật">
+<!ENTITY cmd.enable.accesskey             "B">
 <!ENTITY cmd.enable.tooltip               "Kích hoạt Tiện ích này khi &brandShortName; được khởi động lại">
 <!ENTITY cmd.disable.label                "Vô hiệu hóa">
 <!ENTITY cmd.disable.accesskey            "V">
