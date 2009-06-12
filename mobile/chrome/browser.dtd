@@ -89,3 +89,15 @@
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy2 "Server provozován">
+
+<!ENTITY consoleHeader.label "Chybová konzola">
+<!ENTITY consoleAll.label "Vše">
+<!ENTITY consoleErrors.label "Chyby">
+<!ENTITY consoleWarnings.label "Varování">
+<!ENTITY consoleMessages.label "Zprávy">
+<!ENTITY consoleCodeEval.label "Kód:">
+<!ENTITY consoleClear.label "Vymazat">
+<!ENTITY consoleEvaluate.label "Vyhodnotit">
+<!ENTITY consoleErrFile.label "Zdrojový soubor:">
+<!ENTITY consoleErrLine.label "Řádek:">
+<!ENTITY consoleErrColumn.label "Sloupec:">
