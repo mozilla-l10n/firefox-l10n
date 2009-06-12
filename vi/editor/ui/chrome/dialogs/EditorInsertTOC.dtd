@@ -37,7 +37,7 @@
 
 <!ENTITY Window.title        "Mục Lục">
 <!ENTITY buildToc.label      "Tạo mục lục từ:">
-<!ENTITY tag.label           "Nhãn:">
+<!ENTITY tag.label           "Thẻ:">
 <!ENTITY class.label         "Lớp:">
 <!ENTITY header1.label       "Cấp 1">
 <!ENTITY header2.label       "Cấp 2">

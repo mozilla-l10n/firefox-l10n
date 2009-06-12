@@ -5,7 +5,7 @@
 <!ENTITY treehead.status.label        "Trạng thái">
 <!ENTITY removepermission.label       "Xóa Trang">
 <!ENTITY removepermission.accesskey   "X">
-<!ENTITY removeallpermissions.label   "Xóa Toàn Bộ">
+<!ENTITY removeallpermissions.label   "Xóa Toàn Bộ Các Trang">
 <!ENTITY removeallpermissions.accesskey "B">
 <!ENTITY address.label                "Địa chỉ của trang web:">
 <!ENTITY address.accesskey            "a">
