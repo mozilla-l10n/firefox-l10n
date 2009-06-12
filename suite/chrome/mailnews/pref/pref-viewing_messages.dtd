@@ -82,3 +82,5 @@
 <!ENTITY disableContent.accesskey         "N">
 <!ENTITY showCondensedAddresses.label     "Jei asmuo yra adresų knygoje, rodyti tik jo asmenvardį">
 <!ENTITY showCondensedAddresses.accesskey "s">
+<!ENTITY closeMsgWindowOnDelete.label     "Ištrynus laišką, užverti langą su juo">
+<!ENTITY closeMsgWindowOnDelete.accesskey "v">
