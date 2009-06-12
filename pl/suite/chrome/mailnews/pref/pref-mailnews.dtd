@@ -38,9 +38,11 @@
 <!ENTITY pref.mailnews.title "Kurier Poczty">
 <!ENTITY generalSettings.caption "Ustawienia ogólne">
 <!ENTITY confirmMove.label "Wymagaj potwierdzenia przy usuwaniu folderów do kosza">
-<!ENTITY confirmMove.accesskey "P">
+<!ENTITY confirmMove.accesskey "p">
 <!ENTITY preserveThreading.label "Zachowuj wątki podczas sortowania wiadomości">
 <!ENTITY preserveThreading.accesskey "t">
+<!ENTITY mailBiffOnNewWindow.label "Sprawdzaj pocztę dopiero po uruchomieniu Kuriera Poczty">
+<!ENTITY mailBiffOnNewWindow.accesskey "w">
 
 <!ENTITY defaultMailSettings.description "Używaj &brandShortName; jako domyślnego programu dla:">
 <!ENTITY setDefaultMail.label "Poczty">
@@ -52,7 +54,7 @@
 
 <!ENTITY messengerStartPage.caption "Strona startowa Kuriera Poczty">
 <!ENTITY enableStartPage.label "Po uruchomieniu Kuriera Poczty wyświetl poniższą stronę startową w oknie wiadomości:">
-<!ENTITY enableStartPage.accesskey "S">
+<!ENTITY enableStartPage.accesskey "s">
 <!ENTITY location.label "Adres:">
 <!ENTITY location.accesskey "A">
 <!ENTITY useDefault.label "Przywróć domyślną">
