@@ -57,7 +57,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "細節">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "目前驗證中的憑證…">
+<!ENTITY certmgr.pending.label                "正在驗證憑證…">
 <!ENTITY certmgr.subjectinfo.label            "簽發給">
 <!ENTITY certmgr.issuerinfo.label             "簽發者">
 <!ENTITY certmgr.validity.label               "有效" >
