@@ -327,8 +327,8 @@
 <!ENTITY calendar.print.currentview.label   "Termine in der aktuellen Ansicht">
 <!ENTITY calendar.print.selected.label      "Markierte Termine">
 <!ENTITY calendar.print.custom.label        "Benutzerdefinierter Zeitraum:">
-<!ENTITY calendar.print.from.label          "Von:">
-<!ENTITY calendar.print.to.label            "Bis:">
+<!ENTITY calendar.print.from.label          "Beginn:">
+<!ENTITY calendar.print.to.label            "Ende:">
 <!ENTITY calendar.print.settingsGroup.label "Druckeinstellungen">
 
 <!-- Error reporting -->

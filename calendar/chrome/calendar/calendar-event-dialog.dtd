@@ -44,8 +44,8 @@
 
 <!ENTITY event.title.label                  "Eintrag bearbeiten">
 
-<!ENTITY newevent.from.label                "Von">
-<!ENTITY newevent.to.label                  "Bis">
+<!ENTITY newevent.from.label                "Beginn">
+<!ENTITY newevent.to.label                  "Ende">
 <!ENTITY newevent.attendees.notify.label    "Teilnehmer benachrichtigen">
 
 <!ENTITY newevent.status.label              "Status">
@@ -175,20 +175,20 @@
 <!ENTITY event.location.label                             "Ort:">
 <!ENTITY event.location.accesskey                         "O">
 <!ENTITY event.categories.label                           "Kategorie:">
-<!ENTITY event.categories.accesskey                       "K">
+<!ENTITY event.categories.accesskey                       "i">
 <!ENTITY event.calendar.label                             "Kalender:">
-<!ENTITY event.calendar.accesskey                         "n">
+<!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Teilnehmer:">
 <!ENTITY event.attendees.accesskey                        "l">
 <!ENTITY event.alldayevent.label                          "Ganztägig">
-<!ENTITY event.alldayevent.accesskey                      "G">
-<!ENTITY event.from.label                                 "Von:">
-<!ENTITY event.from.accesskey                             "V">
-<!ENTITY task.from.label                                  "Start:">
-<!ENTITY task.from.accesskey                              "S">
-<!ENTITY event.to.label                                   "Bis:">
-<!ENTITY event.to.accesskey                               "i">
-<!ENTITY task.to.label                                    "Fälligkeitsdatum:">
+<!ENTITY event.alldayevent.accesskey                      "z">
+<!ENTITY event.from.label                                 "Beginn:">
+<!ENTITY event.from.accesskey                             "g">
+<!ENTITY task.from.label                                  "Beginn:">
+<!ENTITY task.from.accesskey                              "g">
+<!ENTITY event.to.label                                   "Ende:">
+<!ENTITY event.to.accesskey                               "n">
+<!ENTITY task.to.label                                    "Fällig:">
 <!ENTITY task.to.accesskey                                "F">
 <!ENTITY task.status.label                                "Status:">
 <!ENTITY task.status.accesskey                            "u">
