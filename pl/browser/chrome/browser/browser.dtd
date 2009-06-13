@@ -33,6 +33,8 @@
 <!ENTITY goOfflineCmd.label "Pracuj w trybie offline" >
 <!ENTITY goOfflineCmd.accesskey "c" >
 
+<!ENTITY menubarCmd.label "Pasek menu">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Pasek narzędzi nawigacyjnych" >
 <!ENTITY navbarCmd.accesskey "n" >
 <!ENTITY personalbarCmd.label "Pasek zakładek" >
