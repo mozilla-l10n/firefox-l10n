@@ -63,6 +63,8 @@
 <!ENTITY goOfflineCmd.label "Arbeta nedkopplad">
 <!ENTITY goOfflineCmd.accesskey "b">
 
+<!ENTITY menubarCmd.label "Menyfältet">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigeringsfältet">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Bokmärkesfältet">
