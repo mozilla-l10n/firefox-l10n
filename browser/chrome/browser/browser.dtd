@@ -21,6 +21,8 @@
 <!ENTITY import.accesskey "И">
 <!ENTITY goOfflineCmd.label "Работать автономно">
 <!ENTITY goOfflineCmd.accesskey "а">
+<!ENTITY menubarCmd.label "Панель меню">
+<!ENTITY menubarCmd.accesskey "н">
 <!ENTITY navbarCmd.label "Панель навигации">
 <!ENTITY navbarCmd.accesskey "П">
 <!ENTITY personalbarCmd.label "Панель закладок">
