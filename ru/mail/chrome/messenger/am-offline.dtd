@@ -18,12 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey "л">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">
 <!ENTITY retentionKeepAll.accesskey "е">
-<!ENTITY retentionKeepRecent.label "Удалять все, кроме последних">
-<!ENTITY retentionKeepRecent.accesskey "я">
+<!ENTITY retentionKeepNew.label "Удалять все, кроме последних">
+<!ENTITY retentionKeepNew.accesskey "я">
+<!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
+<!ENTITY retentionKeepUnread.accesskey "ч">
 <!ENTITY retentionApplyToFlagged.label "Всегда сохранять сообщения, отмеченные звёздочкой">
 <!ENTITY retentionApplyToFlagged.accesskey "с">
-<!ENTITY nntpRemoveMsgBody.label "Удалять содержимое сообщений, хранящихся дольше">
-<!ENTITY nntpRemoveMsgBody.accesskey "д">
+<!ENTITY nntpRemoveBody.label "Удалять только те сообщения, которые хранятся дольше чем">
+<!ENTITY nntpRemoveBody.accesskey "д">
 <!ENTITY offlineSelectNntp.label "Выбрать группы новостей, доступные в автономном режиме…">
 <!ENTITY offlineSelectNntp.accesskey "ы">
 <!ENTITY offlineImapAdvancedOffline.label "Дополнительно…">
