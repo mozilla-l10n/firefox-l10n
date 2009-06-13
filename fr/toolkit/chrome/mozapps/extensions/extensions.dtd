@@ -20,15 +20,15 @@
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label        "Rechercher des mises à jour">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "c">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Recherche des mises à jour pour pour vos modules complémentaires">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Recherche des mises à jour pour vos thèmes">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Rechercher des mises à jour pour pour vos modules complémentaires">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Rechercher des mises à jour pour vos thèmes">
 <!ENTITY cmd.installLocalFile.label       "Installer…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "Installer un module complémentaire">
 <!ENTITY cmd.installFileTheme.tooltip     "Installer un thème">
-<!ENTITY cmd.installUpdatesAll.label      "Installer des mises à jour">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Installer les mises à jour sélectionnées">
+<!ENTITY cmd.installUpdatesAll2.label     "Installer les mises à jour">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Installer les mises à jour sélectionnées">
 <!ENTITY cmd.restartApp2.label            "Redémarrer &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "Redémarrer &brandShortName; pour appliquer les changements">
@@ -49,42 +49,42 @@
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "Utiliser le thème">
 <!ENTITY cmd.useTheme.accesskey           "U">
-<!ENTITY cmd.useTheme.tooltip             "Change le thème de &brandShortName;">
+<!ENTITY cmd.useTheme.tooltip             "Changer le thème de &brandShortName;">
 
 <!-- Context Menu Options: Extension -->
 <!ENTITY cmd.options.label                "Options">
 <!ENTITY cmd.options.accesskey            "O">
-<!ENTITY cmd.options.tooltip              "Gère les options de l'extension sélectionnée">
+<!ENTITY cmd.options.tooltip              "Gérer les options de l'extension sélectionnée">
 <!ENTITY cmd.optionsUnix.label            "Préférences">
 <!ENTITY cmd.optionsUnix.accesskey        "r">
-<!ENTITY cmd.optionsUnix.tooltip          "Gère les préférences de l'extension sélectionnée">
+<!ENTITY cmd.optionsUnix.tooltip          "Gérer les préférences de l'extension sélectionnée">
 <!ENTITY cmd.enable.label                 "Activer">
 <!ENTITY cmd.enable.accesskey             "A">
-<!ENTITY cmd.enable.tooltip               "Active ce module au prochain redémarrage de &brandShortName;">
+<!ENTITY cmd.enable.tooltip               "Activer ce module au prochain redémarrage de &brandShortName;">
 <!ENTITY cmd.disable.label                "Désactiver">
 <!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "Désactive ce module au prochain redémarrage de &brandShortName;">
+<!ENTITY cmd.disable.tooltip              "Désactiver ce module au prochain redémarrage de &brandShortName;">
 <!ENTITY cmd.uninstall.label              "Désinstaller">
 <!ENTITY cmd.uninstall2.accesskey         "s">
-<!ENTITY cmd.uninstall2.tooltip           "Désinstalle ce module au prochain redémarrage de &brandShortName;">
+<!ENTITY cmd.uninstall2.tooltip           "Désinstaller ce module au prochain redémarrage de &brandShortName;">
 <!ENTITY cmd.cancelUninstall.label        "Annuler la désinstallation">
 <!ENTITY cmd.cancelUninstall.accesskey    "n">
-<!ENTITY cmd.cancelUninstall.tooltip      "Annule la désinstallation de ce module">
+<!ENTITY cmd.cancelUninstall.tooltip      "Annuler la désinstallation de ce module">
 <!ENTITY cmd.cancelInstall.label          "Annuler l'installation">
 <!ENTITY cmd.cancelInstall.accesskey      "n">
-<!ENTITY cmd.cancelInstall.tooltip        "Annule l'installation de ce module">  
+<!ENTITY cmd.cancelInstall.tooltip        "Annuler l'installation de ce module">  
 <!ENTITY cmd.cancelUpgrade.label          "Annuler la mise à jour">
 <!ENTITY cmd.cancelUpgrade.accesskey      "n">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Annule la mise à jour de ce module">
+<!ENTITY cmd.cancelUpgrade.tooltip        "Annuler la mise à jour de ce module">
 <!ENTITY cmd.installUpdate.label          "Installer une mise à jour">
 <!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "Installe une mise à jour pour ce module">
+<!ENTITY cmd.installUpdate.tooltip        "Installer une mise à jour pour ce module">
 <!ENTITY cmd.showUpdateInfo.label         "Afficher les informations">
 <!ENTITY cmd.showUpdateInfo.accesskey     "f">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Affiche plus d'informations concernant ces mises à jour">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Afficher plus d'informations concernant ces mises à jour">
 <!ENTITY cmd.hideUpdateInfo.label         "Masquer les informations">
 <!ENTITY cmd.hideUpdateInfo.accesskey     "M">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Masque les informations concernant ces mises à jour">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Masquer les informations concernant ces mises à jour">
 <!ENTITY cmd.installSearchResult.label     "Ajouter à &brandShortName;…">
 <!ENTITY cmd.installSearchResult.accesskey "A">
 <!ENTITY cmd.installSearchResult.tooltip   "Télécharger et installer ce module complémentaire">
