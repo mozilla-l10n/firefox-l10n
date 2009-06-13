@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Travailler hors connexion">
 <!ENTITY goOfflineCmd.accesskey "x">
 
+<!ENTITY menubarCmd.label "Barre de menus">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barre de navigation">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barre personnelle">
