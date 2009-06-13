@@ -26,12 +26,12 @@
 <!ENTITY cmd.installLocalFile.accesskey   "a">
 <!ENTITY cmd.installFileAddon.tooltip     "Zainstaluj dodatek">
 <!ENTITY cmd.installFileTheme.tooltip     "Zainstaluj motyw">
-<!ENTITY cmd.installUpdatesAll.label      "Zainstaluj aktualizacje">
-<!ENTITY cmd.installUpdatesAll.accesskey  "Z">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Instaluje wybrane aktualizacje">
+<!ENTITY cmd.installUpdatesAll2.label     "Zainstaluj aktualizacje">
+<!ENTITY cmd.installUpdatesAll2.accesskey "Z">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Zainstaluj wybrane aktualizacje">
 <!ENTITY cmd.restartApp2.label            "Uruchom ponownie program &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "U">
-<!ENTITY cmd.restartApp2.tooltip          "Uruchamia program &brandShortName;, by wprowadzić zmiany">
+<!ENTITY cmd.restartApp2.tooltip          "Uruchom ponownie program &brandShortName;, by wprowadzić zmiany">
 <!ENTITY cmd.skip.label                   "Pomiń">
 <!ENTITY cmd.skip.accesskey               "P">
 <!ENTITY cmd.skip.tooltip                 "Pomiń te aktualizacje">
@@ -49,7 +49,7 @@
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "Zastosuj">
 <!ENTITY cmd.useTheme.accesskey           "a">
-<!ENTITY cmd.useTheme.tooltip             "Zmienia motyw programu &brandShortName;.">
+<!ENTITY cmd.useTheme.tooltip             "Zmień motyw programu &brandShortName;.">
 <!ENTITY cmd.options.label                "Opcje">
 <!ENTITY cmd.options.accesskey            "p">
 <!ENTITY cmd.options.tooltip              "Ustaw opcje wybranego rozszerzenia">
