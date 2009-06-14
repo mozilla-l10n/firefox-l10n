@@ -80,7 +80,7 @@
 
 <!ENTITY malformedURI.title "Ogiltig adress">
 <!ENTITY malformedURI.longDesc "<p>Den angivna adressen har inte ett
-  igenkännbart format. Kontrollera om det gjorts några misstag i Adressfältet
+  igenkännbart format. Kontrollera om det gjorts några misstag i adressfältet
   och försök igen.</p>">
 
 <!ENTITY netInterrupt.title "Dataöverföringen avbröts">
