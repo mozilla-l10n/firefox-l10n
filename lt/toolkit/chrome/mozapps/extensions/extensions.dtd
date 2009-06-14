@@ -58,9 +58,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "d">
 <!ENTITY cmd.installFileAddon.tooltip     "Įdiegti priedą">
 <!ENTITY cmd.installFileTheme.tooltip     "Įdiegti apvalkalą">
-<!ENTITY cmd.installUpdatesAll.label      "Įdiegti naujinimus">
-<!ENTITY cmd.installUpdatesAll.accesskey  "n">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Įdiegti pažymėtus naujinimus">
+<!ENTITY cmd.installUpdatesAll2.label     "Įdiegti naujinimus">
+<!ENTITY cmd.installUpdatesAll2.accesskey "n">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Įdiegti pažymėtus naujinimus">
 <!ENTITY cmd.restartApp2.label            "Paleisti programą „&brandShortName;“ iš naujo">
 <!ENTITY cmd.restartApp2.accesskey        "š">
 <!ENTITY cmd.restartApp2.tooltip          "Pakeitimai įsigalios paleidus programą „&brandShortName;“ iš naujo">
