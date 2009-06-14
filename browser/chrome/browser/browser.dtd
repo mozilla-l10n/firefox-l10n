@@ -64,6 +64,8 @@
 <!ENTITY goOfflineCmd.label "Atsijungti nuo tinklo">
 <!ENTITY goOfflineCmd.accesskey "t">
 
+<!ENTITY menubarCmd.label "Meniu juosta">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Naršymo juosta">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Adresyno juosta">
