@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Trabalhar em modo desligado">
 <!ENTITY goOfflineCmd.accesskey "d">
 
+<!ENTITY menubarCmd.label "Barra de menu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra de navegação">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Barra de marcadores">
