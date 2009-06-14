@@ -31,7 +31,7 @@
 
 <!ENTITY dialog.title             "Anpassa verktygsfält">
 <!ENTITY dialog.style             "width: 635px; height: 400px;">
-<!ENTITY instructions.description "Du kan lägga till eller ta bort poster genom att dra dem till eller från verktygsfälten">
+<!ENTITY instructions.description "Du kan lägga till eller ta bort poster genom att dra dem till eller från verktygsfälten.">
 <!ENTITY show.label               "Visa:">
 <!ENTITY iconsAndText.label       "Ikoner och text">
 <!ENTITY icons.label              "Ikoner">
