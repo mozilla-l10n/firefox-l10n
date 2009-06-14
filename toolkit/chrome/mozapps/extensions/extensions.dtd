@@ -57,9 +57,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "Installera ett tillägg">
 <!ENTITY cmd.installFileTheme.tooltip     "Installera ett tema">
-<!ENTITY cmd.installUpdatesAll.label      "Installera uppdateringar">
-<!ENTITY cmd.installUpdatesAll.accesskey  "u">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Installerar de valda uppdateringarna">
+<!ENTITY cmd.installUpdatesAll2.label     "Installera uppdateringar">
+<!ENTITY cmd.installUpdatesAll2.accesskey "u">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Installera de valda uppdateringarna">
 <!ENTITY cmd.restartApp2.label            "Starta om &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "o">
 <!ENTITY cmd.restartApp2.tooltip          "Starta om &brandShortName; för att verkställa ändringarna">
