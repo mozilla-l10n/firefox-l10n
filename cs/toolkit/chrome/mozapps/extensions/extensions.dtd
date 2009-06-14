@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip "Instaluje doplněk">
 <!ENTITY cmd.installFileTheme.tooltip "Instaluje motiv vzhledu">
-<!ENTITY cmd.installUpdatesAll.label "Instalovat aktualizace">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Instaluje zvolené aktualizace">
+<!ENTITY cmd.installUpdatesAll2.label "Instalovat aktualizace">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Instaluje zvolené aktualizace">
 <!ENTITY cmd.restartApp2.label "Restartovat aplikaci &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "R">
 <!ENTITY cmd.restartApp2.tooltip "Z důvodu provedení změn restartuje aplikaci &brandShortName;">
