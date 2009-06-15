@@ -41,8 +41,10 @@
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "Berichtenconversaties bij elkaar houden bij het sorteren van berichten">
 <!ENTITY preserveThreading.accesskey      "v">
+<!ENTITY mailBiffOnNewWindow.label        "Alleen op nieuwe berichten controleren na het openen van E-mail &amp; Nieuwsgroepen">
+<!ENTITY mailBiffOnNewWindow.accesskey    "A">
 
-<!ENTITY defaultMailSettings.description  "&brandShortName; gebruiken als de standaart toepassing voor:">
+<!ENTITY defaultMailSettings.description  "&brandShortName; gebruiken als de standaardtoepassing voor:">
 <!ENTITY setDefaultMail.label             "E-mail">
 <!ENTITY setDefaultMail.accesskey         "M">
 <!ENTITY setDefaultNews.label             "Nieuws">

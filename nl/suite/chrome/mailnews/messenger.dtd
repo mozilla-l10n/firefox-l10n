@@ -319,6 +319,9 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Bericht">
 <!ENTITY newNewMsgCmd.accesskey "B">
+<!ENTITY archiveMsgCmd.label "Archiveren">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Beantwoorden">
 <!ENTITY replyMsgCmd.accesskey "a">
 <!ENTITY replyMsgCmd.key "r">
@@ -462,6 +465,7 @@
 <!ENTITY goBackButton.label "Terug">
 <!ENTITY goForwardButton.label "Vooruit">
 <!ENTITY deleteButton.label "Verwijderen">
+<!ENTITY undeleteButton.label "Terugplaatsen">
 <!ENTITY markButton.label "Markeren">
 <!ENTITY printButton.label "Afdrukken">
 <!ENTITY stopButton.label "Stoppen">
@@ -484,6 +488,7 @@
 <!ENTITY goBackButton.tooltip "Een bericht terug gaan">
 <!ENTITY goForwardButton.tooltip "Een bericht vooruit gaan">
 <!ENTITY deleteButton.tooltip "Geselecteerde bericht of map verwijderen">
+<!ENTITY undeleteButton.tooltip "Geselecteerde bericht terugplaatsen">
 <!ENTITY markButton.tooltip "Berichten markeren">
 <!ENTITY printButton.tooltip "Dit bericht afdrukken">
 <!ENTITY stopButton.tooltip "Huidige verbinding verbreken">
@@ -496,17 +501,19 @@
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Bericht openen in nieuw venster">
-<!ENTITY contextOpenNewWindow.accesskey "u">
+<!ENTITY contextOpenNewWindow.accesskey "B">
 <!ENTITY contextEditAsNew.label "Als nieuw bewerken…">
-<!ENTITY contextEditAsNew.accesskey "b">
+<!ENTITY contextEditAsNew.accesskey "n">
+<!ENTITY contextArchive.label "Archiveren">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
-<!ENTITY contextReplySender.accesskey "a">
+<!ENTITY contextReplySender.accesskey "b">
 <!ENTITY contextReplyNewsgroup.label "Nieuwsgroep beantwoorden">
-<!ENTITY contextReplyNewsgroup.accesskey "r">
+<!ENTITY contextReplyNewsgroup.accesskey "N">
 <!ENTITY contextReplyAll.label "Allen beantwoorden">
 <!ENTITY contextReplyAll.accesskey "e">
 <!ENTITY contextReplySenderAndNewsgroup.label "Afzender en nieuwsgroep beantwoorden">
-<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "f">
 <!ENTITY contextForward.label "Doorsturen">
 <!ENTITY contextForward.accesskey "s">
 <!ENTITY contextForwardAsAttachment.label "Doorsturen als bijlagen">
@@ -522,7 +529,7 @@
 <!ENTITY contextPrint.label "Afdrukken…">
 <!ENTITY contextPrint.accesskey "d">
 <!ENTITY contextPrintPreview.label "Afdrukvoorbeeld">
-<!ENTITY contextPrintPreview.accesskey "f">
+<!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Berichten ophalen">

@@ -64,13 +64,13 @@
 <!ENTITY openAttachmentCmd.label           "Openen">
 <!ENTITY openAttachmentCmd.accesskey       "O">
 <!ENTITY viewAttachmentCmd.label           "Bron bekijken">
-<!ENTITY viewAttachmentCmd.accesskey       "V">
+<!ENTITY viewAttachmentCmd.accesskey       "B">
 <!ENTITY saveAsAttachmentCmd.label         "Opslaan als…">
 <!ENTITY saveAsAttachmentCmd.accesskey     "l">
 <!ENTITY detachAttachmentCmd.label         "Ontkoppelen…">
-<!ENTITY detachAttachmentCmd.accesskey     "h">
+<!ENTITY detachAttachmentCmd.accesskey     "n">
 <!ENTITY deleteAttachmentCmd.label         "Verwijderen">
-<!ENTITY deleteAttachmentCmd.accesskey     "t">
+<!ENTITY deleteAttachmentCmd.accesskey     "V">
 <!ENTITY saveAllAttachmentsCmd.label       "Alles opslaan…">
 <!ENTITY saveAllAttachmentsCmd.accesskey   "s">
 <!ENTITY detachAllAttachmentsCmd.label     "Alles ontkoppelen…">
