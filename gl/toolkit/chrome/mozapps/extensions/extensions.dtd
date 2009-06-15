@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Instalar complementos">
 <!ENTITY cmd.installFileTheme.tooltip     "Instalar temas">
-<!ENTITY cmd.installUpdatesAll.label      "Instalar actualizacións">
-<!ENTITY cmd.installUpdatesAll.accesskey  "a">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Instala as actualizacións seleccionadas">
+<!ENTITY cmd.installUpdatesAll2.label     "Instalar actualizacións">
+<!ENTITY cmd.installUpdatesAll2.accesskey "a">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Instala as actualizacións seleccionadas">
 <!ENTITY cmd.restartApp2.label            "Reiniciar &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "Reiniciar &brandShortName; para aplicar as modificacións">

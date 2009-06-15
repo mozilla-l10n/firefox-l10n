@@ -38,6 +38,11 @@
 <!ENTITY import.accesskey "m">
 <!ENTITY goOfflineCmd.label "Traballar sen conexión">
 <!ENTITY goOfflineCmd.accesskey "T">
+
+
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "B">
+
 <!ENTITY navbarCmd.label "Barra de navegación">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de marcadores">
