@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Sûnder ferbining wurkje">
 <!ENTITY goOfflineCmd.accesskey "f">
 
+<!ENTITY menubarCmd.label "Menubalke">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigaasje-arkbalke">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Blêdwizerarkbalke">
