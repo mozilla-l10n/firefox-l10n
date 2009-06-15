@@ -28,7 +28,7 @@
 <!ENTITY stopCmd.accesskey              "S">
 <!ENTITY reloadFrameCmd.label           "Deelvenster vernieuwen">
 <!ENTITY reloadFrameCmd.accesskey       "n">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Selectie van bron bekijken">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Bron van selectie bekijken">
 <!ENTITY viewPartialSourceForMathMLCmd.label "MathML-bron bekijken">
 <!ENTITY viewPartialSourceCmd.accesskey "b">
 <!ENTITY viewPageSourceCmd.label        "Paginabron bekijken">
