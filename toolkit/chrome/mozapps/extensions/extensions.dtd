@@ -19,9 +19,9 @@
 <!ENTITY cmd.installLocalFile.accesskey "с">
 <!ENTITY cmd.installFileAddon.tooltip "Установить дополнение">
 <!ENTITY cmd.installFileTheme.tooltip "Установить тему">
-<!ENTITY cmd.installUpdatesAll.label "Установить обновления">
-<!ENTITY cmd.installUpdatesAll.accesskey "т">
-<!ENTITY cmd.installUpdatesAll.tooltip "Установить выбранные обновления">
+<!ENTITY cmd.installUpdatesAll2.label "Установить обновления">
+<!ENTITY cmd.installUpdatesAll2.accesskey "т">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Установить выбранные обновления">
 <!ENTITY cmd.restartApp2.label "Перезапустить &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "е">
 <!ENTITY cmd.restartApp2.tooltip "Перезапустить &brandShortName; для применения изменений">
