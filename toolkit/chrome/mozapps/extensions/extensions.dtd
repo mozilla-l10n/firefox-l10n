@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "Y">
 <!ENTITY cmd.installFileAddon.tooltip     "In útwreiding ynstallearje">
 <!ENTITY cmd.installFileTheme.tooltip     "In tema ynstallearje">
-<!ENTITY cmd.installUpdatesAll.label      "Fernijings ynstallearje">
-<!ENTITY cmd.installUpdatesAll.accesskey  "y">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Ynstallearret de selektearre fernijings">
+<!ENTITY cmd.installUpdatesAll2.label      "Fernijings ynstallearje">
+<!ENTITY cmd.installUpdatesAll2.accesskey  "y">
+<!ENTITY cmd.installUpdatesAll2.tooltip    "Ynstallearje de selektearre fernijings">
 <!ENTITY cmd.restartApp2.label            "&brandShortName; op 'e nij starte">
 <!ENTITY cmd.restartApp2.accesskey        "n">
 <!ENTITY cmd.restartApp2.tooltip          "Start &brandShortName; op 'e nij om de ynstallaasje te foltôgjen">
