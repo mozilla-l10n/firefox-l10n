@@ -21,6 +21,8 @@
 <!ENTITY import.accesskey "I">
 <!ENTITY goOfflineCmd.label "Lavora non in linea">
 <!ENTITY goOfflineCmd.accesskey "L">
+<!ENTITY menubarCmd.label "Barra dei menu">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra di navigazione">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra dei segnalibri">
