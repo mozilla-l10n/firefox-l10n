@@ -69,5 +69,16 @@
 <!ENTITY downloadRetry.label "Riprova">
 <!ENTITY noResults.label "Nessun risultato">
 <!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all'identità.">
-<!ENTITY identity.connectedTo "Si è connessi con">
-<!ENTITY identity.runBy "Questo sito è gestito da">
+<!ENTITY identity.connectedTo2 "Connesso con">
+<!ENTITY identity.runBy2 "gestito da">
+<!ENTITY consoleHeader.label "Console degli errori">
+<!ENTITY consoleAll.label "Tutti">
+<!ENTITY consoleErrors.label "Errori">
+<!ENTITY consoleWarnings.label "Avvisi">
+<!ENTITY consoleMessages.label "Messaggi">
+<!ENTITY consoleCodeEval.label "Codice:">
+<!ENTITY consoleClear.label "Cancella tutto">
+<!ENTITY consoleEvaluate.label "Valuta">
+<!ENTITY consoleErrFile.label "File sorgente:">
+<!ENTITY consoleErrLine.label "Riga:">
+<!ENTITY consoleErrColumn.label "Colonna:">
