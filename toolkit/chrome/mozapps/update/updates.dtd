@@ -32,10 +32,10 @@
 <!ENTITY update.status.label "Статус:">
 <!ENTITY  evangelism.desc "Се препорачува да ја примените оваа надградба на &brandShortName; во најкус рок.">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more "Надградбата ќе се инсталира при следното стартување на &BrandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
+<!ENTITY  finishedBackground.more "Надградбата ќе се инсталира при следното стартување на &brandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
 
 <!ENTITY  finishedBackgroundPage.text "Преземена е надградба за безбедност и стабилност на &brandShortName;. Надградбата може да се инсталира.">
-<!ENTITY  finishedPage.text "Надградбата ќе се инсталира при следното стартување на &BrandShortName;. Можете да го рестартирате &brandShortName; сега, или дапродолжите со работа и да го рестартирате подоцна.">
+<!ENTITY  finishedPage.text "Надградбата ќе се инсталира при следното стартување на &brandShortName;. Можете да го рестартирате &brandShortName; сега, или дапродолжите со работа и да го рестартирате подоцна.">
 
 <!ENTITY  finishedPage.title "Надградбата е спремна за инсталирање">
 
