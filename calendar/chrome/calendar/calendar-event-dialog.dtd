@@ -43,24 +43,28 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "Taisomas įrašas" >
+<!ENTITY event.title.label                                "Taisomas įrašas" >
 
-<!ENTITY newevent.from.label                "Nuo" >
-<!ENTITY newevent.to.label                  "Iki" >
-<!ENTITY newevent.attendees.notify.label    "Pranešti dalyviams">
+<!ENTITY newevent.from.label                              "Nuo" >
+<!ENTITY newevent.to.label                                "Iki" >
+<!ENTITY newevent.attendees.notify.label                  "Pranešti dalyviams">
 
-<!ENTITY newevent.status.label              "Būsena" >
-<!ENTITY newevent.status.accesskey          "B" >
-<!ENTITY newevent.status.none.label         "Neapibrėžta" >
-<!ENTITY newevent.status.cancelled.label    "Atšauktas" >
-<!ENTITY newevent.status.tentative.label    "Preliminarus" >
-<!ENTITY newevent.status.confirmed.label    "Patvirtintas" >
-<!ENTITY newevent.status.needsaction.label  "Reikalingas veiksmas" >
-<!ENTITY newevent.status.inprogress.label   "Vyksta" >
-<!ENTITY newevent.status.completed.label    "Užbaigtas" >
+<!ENTITY newevent.status.label                            "Būsena" >
+<!ENTITY newevent.status.accesskey                        "B" >
+<!ENTITY newevent.status.none.label                       "Neapibrėžta" >
+<!ENTITY newevent.status.none.accesskey                   "N" >
+<!ENTITY newevent.status.cancelled.label                  "Atšauktas" >
+<!ENTITY newevent.status.cancelled.accesskey              "A" >
+<!ENTITY newevent.status.tentative.label                  "Preliminarus" >
+<!ENTITY newevent.status.tentative.accesskey              "P" >
+<!ENTITY newevent.status.confirmed.label                  "Patvirtintas" >
+<!ENTITY newevent.status.confirmed.accesskey              "t" >
+<!ENTITY newevent.status.needsaction.label                "Reikalingas veiksmas" >
+<!ENTITY newevent.status.inprogress.label                 "Vyksta" >
+<!ENTITY newevent.status.completed.label                  "Užbaigtas" >
 
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; užbaigta">
+<!ENTITY newtodo.percentcomplete.label                    "&#37; užbaigta">
 
 <!-- Menubar -->
 <!ENTITY  event.menu.file.label                           "Failas">
@@ -349,6 +353,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative     "Galbūt užimtas" >
 <!ENTITY event.freebusy.legend.busy_unavailable   "Nepasiekiamas" >
 <!ENTITY event.freebusy.legend.unknown            "Nežinoma" >
+<!ENTITY event.attendee.role.required             "Būtinas dalyvis">
+<!ENTITY event.attendee.role.optional             "Nebūtinas dalyvis">
+<!ENTITY event.attendee.role.chair                "Pirmininkas">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Prašom parinkti laiko juostą">
