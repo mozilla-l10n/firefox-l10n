@@ -91,7 +91,7 @@
 <!ENTITY cmd.includeUpdate.label "Includi aggiornamento">
 <!ENTITY cmd.includeUpdate.accesskey "n">
 <!ENTITY includeUpdate.label "Includi questo aggiornamento">
-<!ENTITY includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.accesskey "c">
 <!ENTITY includeUpdate.tooltip "Includi questo componente durante l'installazione degli aggiornamenti">
 <!ENTITY insecureUpdate.label "Non fornisce aggiornamenti sicuri.">
 <!ENTITY needsDependencies.label "Richiede elementi aggiuntivi.">
