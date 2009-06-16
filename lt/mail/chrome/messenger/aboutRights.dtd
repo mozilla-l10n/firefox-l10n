@@ -30,7 +30,7 @@
 
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.title           "Apie Jūsų teises">
 <!ENTITY rights.intro-header    "Apie Jūsų teises">
 <!ENTITY rights.intro "„&brandFullName;“ yra laisvoji atviroji programa, kuriama bendruomenės, apimančios tūkstančius žmonių iš viso pasaulio. Keletas dalykų, kuriuos turėtumėte žinoti:">
 
