@@ -49,17 +49,55 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY addonsHeader.label        "附加组件">
+<!ENTITY addonsLocal.label         "您的附加组件">
+<!ENTITY addonsRepo.label          "获取附加组件">
+<!ENTITY addonsRecommended.label   "推荐">
+<!ENTITY addonsSearch.label        "搜索">
+<!ENTITY addonsSearch.emptytext    "搜索全部附件组件">
+
+<!ENTITY addonOptions.label        "选项">
+<!ENTITY addonEnable.label         "启用">
+<!ENTITY addonDisable.label        "禁用">
+<!ENTITY addonInstall.label        "安装">
+<!ENTITY addonUninstall.label      "卸载">
+<!ENTITY addonCancel.label         "取消">
+<!ENTITY addonShowPage.label       "转至页面">
+
+<!ENTITY downloadsHeader.label     "下载">
+<!ENTITY downloadsSortDate.label   "按日期">
+<!ENTITY downloadsSortSite.label   "站点">
+<!ENTITY downloadsSortName.label   "名称">
+<!ENTITY downloadsSearch.label     "搜索">
+<!ENTITY downloadsSearch.emptytext "搜索已下载文件">
+
+<!ENTITY downloadShowPage.label    "转至页面">
+<!ENTITY downloadShow2.label       "查找">
+<!ENTITY downloadOpen2.label       "打开">
+<!ENTITY downloadCancel.label      "取消">
+<!ENTITY downloadPause.label       "暂停">
+<!ENTITY downloadResume.label      "恢复">
+<!ENTITY downloadRetry.label       "重试">
+
+<!ENTITY noResults.label           "没有结果">
+
 <!ENTITY identity.unverifiedsite2 "此网站未提供标识信息.">
-<!ENTITY identity.connectedTo "您已连接至">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2 "已连接至">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "经营者为">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "它的经营者为">
+<!ENTITY consoleHeader.label       "错误控制台">
+<!ENTITY consoleAll.label          "所有消息">
+<!ENTITY consoleErrors.label       "错误">
+<!ENTITY consoleWarnings.label     "警告">
+<!ENTITY consoleMessages.label     "消息">
+<!ENTITY consoleCodeEval.label     "代码:">
+<!ENTITY consoleClear.label        "清除">
+<!ENTITY consoleEvaluate.label     "查看">
+<!ENTITY consoleErrFile.label      "源文件：">
+<!ENTITY consoleErrLine.label      "行：">
+<!ENTITY consoleErrColumn.label    "列：">

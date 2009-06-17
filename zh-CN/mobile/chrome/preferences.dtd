@@ -1,17 +1,13 @@
 <!ENTITY content.title                             "内容">
-<!ENTITY permissions.default.image.title           "载入图片">
-<!ENTITY permissions.default.image.description     "让网页显示的更漂亮">
-<!ENTITY javascript.enabled.title                  "启用 Javascript">
-<!ENTITY javascript.enabled.description            "使网站活动起来">
-<!ENTITY javascript.options.jit.content.title      "启用 JavaScript 跟踪">
-<!ENTITY javascript.options.jit.content.description "对 JavaScript 启用原生代码编译">
-<!ENTITY plugins.enabled.title                     "启用插件">
-<!ENTITY plugins.enabled.description               "使网站恼人">
+<!ENTITY showImages.title                          "显示图片">
+<!ENTITY enableJavaScript.title                    "启用 JavaScript">
+<!ENTITY enableJavaScript.description              "大部分交互性网站使用 JavaScript 语言">
+<!ENTITY enablePlugins.title                       "启用插件">
+<!ENTITY enablePlugins.description                 "插件用于特殊的内容，比如视频">
 <!ENTITY privacy.title                             "隐私 &amp; 安全">
-<!ENTITY network.cookie.cookieBehavior.title       "保存 cookie">
-<!ENTITY network.cookie.cookieBehavior.description "可口佳肴">
-<!ENTITY clear.private.data.title                  "清除隐私数据">
-<!ENTITY clear.private.data.button                 "清空…">
-<!ENTITY clear.private.data.description            "保障您的隐私">
-<!ENTITY signon.rememberSignons.title              "保存密码">
-<!ENTITY signon.rememberSignons.description        "减少输入次数">
+<!ENTITY allowCookies.title                        "允许 cookies">
+<!ENTITY allowCookies.description                  "网站使用 cookies 来识别你的身份和记住你的设置">
+<!ENTITY clearPrivateData.title                    "清空最近的浏览历史">
+<!ENTITY clearPrivateData.button                   "清空">
+<!ENTITY clearPrivateData.description              "历史信息可以帮助 &brandShortName; 为您更好地提供目的地址的建议">
+<!ENTITY rememberPasswords.title                   "记住密码">
