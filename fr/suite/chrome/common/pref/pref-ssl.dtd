@@ -46,7 +46,7 @@
 <!ENTITY enable.tls "Autoriser TLS">
 <!ENTITY enable.tls.accesskey "T">
 
-<!ENTITY warn.description "&brandShortName; peut vous avertir du statut de sécurité de la page Web courante. Régler &brandShortName; pour afficher une avertissement et me demander la permission avant :">
+<!ENTITY warn.description "&brandShortName; peut vous avertir du statut de sécurité de la page Web courante. Régler &brandShortName; pour afficher un avertissement et me demander la permission avant :">
 <!ENTITY warn.enteringsecure "d'entrer sur un site qui prend en charge le chiffrement">
 <!ENTITY warn.enteringsecure.accesskey "e">
 <!ENTITY warn.enteringweak "d'entrer sur un site qui utilise un chiffrement de bas niveau">
