@@ -51,11 +51,13 @@
 <!ENTITY newevent.status.label "Statut" >
 <!ENTITY newevent.status.accesskey "S" >
 <!ENTITY newevent.status.none.label "Aucun" >
+<!ENTITY newevent.status.none.accesskey "A" >
 <!ENTITY newevent.status.cancelled.label "Annulé" >
-
+<!ENTITY newevent.status.cancelled.accesskey "n" >
 <!ENTITY newevent.status.tentative.label "Provisoire" >
+<!ENTITY newevent.status.tentative.accesskey  "P" >
 <!ENTITY newevent.status.confirmed.label "Confirmé" >
-
+<!ENTITY newevent.status.confirmed.accesskey "C" >
 <!ENTITY newevent.status.needsaction.label "Une action est requise" >
 <!ENTITY newevent.status.inprogress.label "En cours" >
 <!ENTITY newevent.status.completed.label "Achevé le" >
@@ -350,6 +352,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative "Tentative" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Absent" >
 <!ENTITY event.freebusy.legend.unknown "Pas d'information" >
+<!ENTITY event.attendee.role.required "Participation obligatoire">
+<!ENTITY event.attendee.role.optional "Participation facultative">
+<!ENTITY event.attendee.role.chair "Organisateur">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Veuillez indiquer le fuseau horaire">
@@ -364,7 +369,7 @@
 <!ENTITY read.only.reply.label "Réponse :">
 <!ENTITY read.only.accept.label "Je participerai">
 <!ENTITY read.only.decline.label "Je ne participerai pas">
-<!ENTITY read.only.tentative.label       "Je participerai peut-être">
+<!ENTITY read.only.tentative.label "Je participerai peut-être">
 <!ENTITY read.only.needs.action.label "Je confirmerai plus tard">
 <!ENTITY read.only.reminder.label "Rappel :">
 <!ENTITY read.only.attendees.label "Participants">
