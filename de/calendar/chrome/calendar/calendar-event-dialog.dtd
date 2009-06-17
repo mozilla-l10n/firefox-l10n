@@ -352,6 +352,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Vorläufig" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Außer Haus" >
 <!ENTITY event.freebusy.legend.unknown          "Keine Information">
+<!ENTITY event.attendee.role.required           "Benötigter Teilnehmer">
+<!ENTITY event.attendee.role.optional           "Optionaler Teilnehmer">
+<!ENTITY event.attendee.role.chair              "Leitung">
 
 <!-- Timezone dialog -->
 
