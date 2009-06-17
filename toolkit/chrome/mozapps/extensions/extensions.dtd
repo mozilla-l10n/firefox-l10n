@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip "Instalar un agregado">
 <!ENTITY cmd.installFileTheme.tooltip "Instalar un tema">
-<!ENTITY cmd.installUpdatesAll.label "Instalar actualizaciones">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Instalar las actualizaciones seleccionadas">
+<!ENTITY cmd.installUpdatesAll2.label     "Instalar actualizaciones">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Instalar las actualizaciones seleccionadas">
 <!ENTITY cmd.restartApp2.label "Reiniciar &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "R">
 <!ENTITY cmd.restartApp2.tooltip "Reiniciar &brandShortName; para aplicar los cambios">
@@ -164,7 +164,8 @@
 <!ENTITY installFailure.label "Insalación fallida.">
 
 <!ENTITY progressStatus.label             "Buscando actualizaciones">
-<!ENTITY eula.title                       "Contrato de licencia">
+
+<!ENTITY eula.title                       "Contrato de licencia">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Acceptar e instalar…">
