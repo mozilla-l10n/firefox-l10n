@@ -64,6 +64,6 @@
 <!ENTITY loaddevice.filename "Mooduli failinimi:">
 <!ENTITY loaddevice.filename.accesskey "f">
 <!ENTITY loaddevice.browse "Lehitse...">
-<!ENTITY loaddevice.browse.accesskey "B">
+<!ENTITY loaddevice.browse.accesskey "L">
 
 <!ENTITY loaddevice.title "Laadi PKCS#11 seade">
