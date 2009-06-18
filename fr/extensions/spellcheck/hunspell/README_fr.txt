@@ -1,10 +1,10 @@
 _______________________________________________________________________________
 
-   Dictionnaire orthographique français "Classique & Réforme 1990"
-   version 3.2
+   Dictionnaire orthographique français «Classique & Réforme 1990»
+   version 3.3
    
    Olivier R. - dicollecte at free dot fr
-   Dicollecte: http://dicollecte.free.fr/
+   Dicollecte: http://dicollecte.net/
    
    Licences:
    * MPL: Mozilla Public License
@@ -17,28 +17,28 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
    Ce dictionnaire contient les nouvelles et les anciennes graphies des mots
-   concernés par les rectifications de l'orthographe proposées en 1990 par
-   le Conseil supérieur à la langue française et par l'Académie française.
+   concernés par les rectifications de l’orthographe proposées en 1990 par
+   le Conseil supérieur à la langue française et par l’Académie française.
    
    À propos de la réforme orthographique de 1990:
    http://www.renouvo.org/
    
-   Ce dictionnaire ne peut fonctionner qu'avec un logiciel utilisant le
+   Ce dictionnaire ne peut fonctionner qu’avec un logiciel utilisant le
    correcteur Hunspell: OpenOffice.org 2.1+, Firefox 3+, Thunderbird 3+
 
    Remerciements à:
-   - Romain Muller et Serge Bibaw, de l'association RENOUVO, grâce à qui
+   - Romain Muller et Serge Bibauw, de l’association RENOUVO, grâce à qui
      la nouvelle orthographe et ses anciennes variantes ont pu être établies;
    - Laurent Dubois, Pierre Poisson, Jean-Philippe Fleury pour leur 
      active participation;
-   - et à tous ceux qui ont apporté leur pierre à l'édifice.
+   - et à tous ceux qui ont apporté leur pierre à l’édifice.
 
 _______________________________________________________________________________
 
    NOTE
 _______________________________________________________________________________
 
-   Ce dictionnaire (v3) est basé sur un système d'affixation totalement nouveau
+   Ce dictionnaire (v3) est basé sur un système d’affixation totalement nouveau
    et distinct des versions antérieures (v1 et v2).
    
    La liste des mots est reprise du dictionnaire de Christophe Pythoud,
