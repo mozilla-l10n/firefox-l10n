@@ -353,6 +353,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Wstępna akceptacja" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Nieobecny" >
 <!ENTITY event.freebusy.legend.unknown          "Brak informacji" >
+<!ENTITY event.attendee.role.required           "Uczestnik wymagany">
+<!ENTITY event.attendee.role.optional           "Uczestnik opcjonalny">
+<!ENTITY event.attendee.role.chair              "Przewodniczący">
 
 <!-- Timezone dialog -->
 
