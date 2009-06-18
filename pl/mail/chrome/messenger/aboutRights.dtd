@@ -1,5 +1,5 @@
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle        "about:rights">
+<!ENTITY rights.title            "O prawach użytkownika">
 <!ENTITY rights.intro-header     "O prawach użytkownika">
 <!ENTITY rights.intro            "&brandFullName; to wolne oprogramowanie open source, stworzone przez społeczność tysięcy ludzi z całego świata. Jest kilka rzeczy, o których użytkownik powinien wiedzieć:">
 
