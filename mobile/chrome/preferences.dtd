@@ -2,8 +2,6 @@
 <!ENTITY showImages.title                          "Mostra les imatges">
 <!ENTITY enableJavaScript.title  	           "Habilita els JavaScript">
 <!ENTITY enableJavaScript.description              "La majoria dels llocs interactius empren JavaScript">
-<!ENTITY javascript.options.jit.content.title      "Habilita el seguiment del Javascript">
-<!ENTITY javascript.options.jit.content.description "Utilitza compilació de codi natiu en JavaScript">
 <!ENTITY enablePlugins.title                       "Habilita els connectors">
 <!ENTITY enablePlugins.description                 "Els connectors s'utilitzen en contingut especial com ara els vídeo">
 <!ENTITY privacy.title                             "Privadesa i seguretat">
