@@ -82,16 +82,24 @@
 <!ENTITY noResults.label           "Cap resultat">
 
 <!ENTITY identity.unverifiedsite2 "El lloc web no proporciona informació d'identitat.">
-<!ENTITY identity.connectedTo "Esteu connectat a">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2 "Connectat a">
 
-example.com
-which is run by
-Example Enterprises, Inc.
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "que funciona amb">
+<!ENTITY identity.runBy2 "funciona amb">
+
+<!ENTITY consoleHeader.label       "Consola d'errors">
+<!ENTITY consoleAll.label          "Tot">
+<!ENTITY consoleErrors.label       "Errors">
+<!ENTITY consoleWarnings.label     "Avisos">
+<!ENTITY consoleMessages.label     "Missatges">
+<!ENTITY consoleCodeEval.label     "Codi:">
+<!ENTITY consoleClear.label        "Esborra">
+<!ENTITY consoleEvaluate.label     "Avalua">
+<!ENTITY consoleErrFile.label      "Fitxer font:">
+<!ENTITY consoleErrLine.label      "Línia:">
+<!ENTITY consoleErrColumn.label    "Columna:">
