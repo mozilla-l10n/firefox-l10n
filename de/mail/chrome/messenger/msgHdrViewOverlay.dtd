@@ -71,9 +71,6 @@
 <!ENTITY viewSourceMenuItem.label "Quelltext anzeigen…">
 <!ENTITY viewSourceMenuItem.accesskey "Q">
 
-<!ENTITY hideDetailsButton.label "Details ausblenden">
-<!ENTITY showDetailsButton.label "Details anzeigen">
-
 <!ENTITY openAttachmentCmd.label "Öffnen">
 <!ENTITY openAttachmentCmd.accesskey "f">
 <!ENTITY saveAsAttachmentCmd.label "Speichern…">
