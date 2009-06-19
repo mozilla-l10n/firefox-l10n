@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Treballa fora de línia">
 <!ENTITY goOfflineCmd.accesskey "b">
 
+<!ENTITY menubarCmd.label "Barra del menú">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra de navegació">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de les adreces d'interès">
