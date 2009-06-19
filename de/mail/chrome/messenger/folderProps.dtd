@@ -63,6 +63,8 @@
 <!ENTITY retentionKeepAll.accesskey "K">
 <!ENTITY retentionKeepRecent.label "Alle außer den aktuellsten">
 <!ENTITY retentionKeepRecent.accesskey "u">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Gelesene Nachrichten immer löschen (trotz der vorherigen Einstellungen!)">
 <!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
 <!ENTITY retentionApplyToFlagged.accesskey "z">
 
