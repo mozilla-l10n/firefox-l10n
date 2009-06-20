@@ -74,9 +74,6 @@
 <!ENTITY viewSourceMenuItem.label "visa källkod…">
 <!ENTITY viewSourceMenuItem.accesskey "v">
 
-<!ENTITY hideDetailsButton.label "dölj detaljer">
-<!ENTITY showDetailsButton.label "visa detaljer">
-
 <!ENTITY openAttachmentCmd.label    "Öppna">
 <!ENTITY openAttachmentCmd.accesskey    "p">
 <!ENTITY saveAsAttachmentCmd.label    "Spara som…">
