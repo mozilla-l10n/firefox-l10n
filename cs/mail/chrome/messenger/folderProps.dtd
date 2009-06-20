@@ -61,10 +61,10 @@
 <!ENTITY retentionDeleteMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">
-<!ENTITY retentionKeepNew.accesskey "m">
-<!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
-<!ENTITY retentionKeepUnread.accesskey "V">
+<!ENTITY retentionKeepRecent.label "Smazat vše mimo posledních">
+<!ENTITY retentionKeepRecent.accesskey "m">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Vždy smazat přečtené zprávy (nezávisle na jejich stáří)">
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
 

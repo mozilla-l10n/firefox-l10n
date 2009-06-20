@@ -62,13 +62,16 @@
 <!ENTITY calendar.import.key "I">
 <!ENTITY calendar.import.accesskey "I">
 
-<!ENTITY calendar.export.calendar.label "Exportovat kalendář…">
-<!ENTITY calendar.export.calendar.accesskey "E">
+<!ENTITY calendar.export.label "Exportovat…">
+<!ENTITY calendar.export.accesskey "E">
 <!ENTITY calendar.export.selection.label "Exportovat výběr…">
 <!ENTITY calendar.export.selection.accesskey "v">
 
 <!ENTITY calendar.publish.label "Publikovat…">
 <!ENTITY calendar.publish.accesskey "u">
+
+<!ENTITY calendar.deletecalendar.label "Smazat zvolený kalendář…">
+<!ENTITY calendar.deletecalendar.accesskey "m">
 
 <!ENTITY calendar.menu.customize.label "Vlastní…">
 <!ENTITY calendar.menu.customize.accesskey "V">
@@ -98,11 +101,6 @@
 <!ENTITY goNextCmd.week.label "Následující týden">
 <!ENTITY goNextCmd.month.label "Následující měsíc">
 <!ENTITY goNextCmd.all.accesskey "N">
-
-<!ENTITY addressBookCmd.label "Adresář">
-<!ENTITY addressBookCmd.accesskey "A">
-
-<!ENTITY calendar.importcalendar.label "Importovat kalendář…">
 
 <!ENTITY showCurrentView.label "Současný pohled">
 <!ENTITY showCurrentView.accesskey "h">

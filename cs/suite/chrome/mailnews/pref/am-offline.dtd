@@ -1,31 +1,33 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pro ušetření místa na disku nestahovat:">
 <!ENTITY doNotDownload.label "Pro ušetření místa na disku nestahovat pro offline použití:">
-<!ENTITY allFoldersOffline.label "Zprávy pro tento účet uchovat na tomto počítači">
+<!ENTITY allFoldersOffline.label "Zprávy pro tento účet uchovávat na tomto počítači">
 <!ENTITY allFoldersOffline.accesskey "Z">
 <!ENTITY offlineNotDownload.label "Zprávy větší než">
-<!ENTITY offlineNotDownload.accesskey "N">
+<!ENTITY offlineNotDownload.accesskey "n">
 <!ENTITY kb.label "kB">
 <!ENTITY daysOld.label "dny(ů)">
-<!ENTITY message.label "zpráv(y)">
+<!ENTITY message.label "zpráv">
 <!ENTITY nntpNotDownloadRead.label "Přečtené zprávy">
 <!ENTITY nntpNotDownloadRead.accesskey "P">
-<!ENTITY nntpDownloadMsg.label "Stahovat těla zpráv starších než">
+<!ENTITY nntpDownloadMsg.label "Zprávy starších než">
 <!ENTITY nntpDownloadMsg.accesskey "t">
-<!ENTITY retentionCleanup.label "Pro získání více místa na disku lze staré zprávy automaticky mazat">
+<!ENTITY retentionCleanup.label "Pro ušetření místa na disku lze staré zprávy automaticky mazat">
+<!ENTITY retentionCleanupImap.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy, jak místní kopie, tak originály na vzdáleném serveru.">
+<!ENTITY retentionCleanupPop.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy, včetně originálů na vzdáleném serveru.">
 <!ENTITY retentionKeepMsg.label "Smazat zprávy starší než">
-<!ENTITY retentionKeepMsg.accesskey "s">
+<!ENTITY retentionKeepMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">
-<!ENTITY retentionKeepNew.accesskey "m">
-<!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
-<!ENTITY retentionKeepUnread.accesskey "v">
+<!ENTITY retentionKeepRecent.label "Smazat vše mimo posledních">
+<!ENTITY retentionKeepRecent.accesskey "m">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Vždy smazat přečtené zprávy (nezávisle na jejich stáří)">
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
-<!ENTITY nntpRemoveBody.label "Odstranit těla zpráv starších než">
-<!ENTITY nntpRemoveBody.accesskey "R">
+<!ENTITY nntpRemoveMsgBody.label "Odstranit těla zpráv starších než">
+<!ENTITY nntpRemoveMsgBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Vybrat diskusní skupiny pro offline použití…">
-<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Rozšířené…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "R">
 <!ENTITY syncGroupTitle.label "Synchronizace zpráv">
