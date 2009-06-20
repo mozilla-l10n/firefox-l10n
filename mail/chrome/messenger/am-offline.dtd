@@ -51,14 +51,14 @@
 <!ENTITY retentionKeepMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Ta inte bort några meddelanden">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "Ta bort alla utom de senaste">
-<!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Ta alltid bort lästa meddelanden">
-<!ENTITY retentionKeepUnread.accesskey "d">
+<!ENTITY retentionKeepRecent.label "Ta bort alla utom de senaste">
+<!ENTITY retentionKeepRecent.accesskey "a">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Ta alltid bort lästa meddelanden (åsidosätter åldersinställningar)">
 <!ENTITY retentionApplyToFlagged.label "Behåll alltid märkta meddelanden">
 <!ENTITY retentionApplyToFlagged.accesskey "h">
-<!ENTITY nntpRemoveBody.label "Endast innehållet i meddelanden yngre än">
-<!ENTITY nntpRemoveBody.accesskey "å">
+<!ENTITY nntpRemoveMsgBody.label "Ta bort innehållet i meddelanden äldre än">
+<!ENTITY nntpRemoveMsgBody.accesskey "å">
 <!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för nedkopplad användning…">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Avancerat…">
