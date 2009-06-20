@@ -71,9 +71,6 @@
 <!ENTITY viewSourceMenuItem.label "vis kjeldekode …">
 <!ENTITY viewSourceMenuItem.accesskey "k">
 
-<!ENTITY hideDetailsButton.label "skjul detaljar">
-<!ENTITY showDetailsButton.label "vis detaljar">
-
 <!ENTITY openAttachmentCmd.label    "Opne">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Lagre som …">

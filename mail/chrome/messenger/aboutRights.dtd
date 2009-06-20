@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Om dine rettar">
+<!ENTITY rights.title            "Om rettane dine">
+<!ENTITY rights.intro-header     "Om rettane dine">
 <!ENTITY rights.intro "&brandFullName; er programvare basert på fri og open kjeldekode, som er bygd av eit fellesskap av tusenvis rundt om i heile verda. Det er nokre ting du bør vere merksam på:">
 
 <!-- Note on pointa / pointb / pointc form:

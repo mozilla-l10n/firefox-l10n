@@ -49,15 +49,19 @@
 <!ENTITY newevent.to.label                  "Til" >
 <!ENTITY newevent.attendees.notify.label    "Varsle deltakarar">
 
-<!ENTITY newevent.status.label              "Status" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "Ikkje oppgjeve" >
-<!ENTITY newevent.status.cancelled.label    "Avlyst" >
-<!ENTITY newevent.status.tentative.label    "Avventar" >
-<!ENTITY newevent.status.confirmed.label    "Stadfesta" >
-<!ENTITY newevent.status.needsaction.label  "Treng handling" >
-<!ENTITY newevent.status.inprogress.label   "Under arbeid" >
-<!ENTITY newevent.status.completed.label    "Fullført" >
+<!ENTITY newevent.status.label                "Status" >
+<!ENTITY newevent.status.accesskey            "S" >
+<!ENTITY newevent.status.none.label           "Ikkje oppgjeve" >
+<!ENTITY newevent.status.none.accesskey       "o" >
+<!ENTITY newevent.status.cancelled.label      "Avlyst" >
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
+<!ENTITY newevent.status.tentative.label      "Avventar" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
+<!ENTITY newevent.status.confirmed.label      "Stadfesta" >
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
+<!ENTITY newevent.status.needsaction.label    "Treng handling" >
+<!ENTITY newevent.status.inprogress.label     "Under arbeid" >
+<!ENTITY newevent.status.completed.label      "Fullført" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; fullført">
@@ -349,6 +353,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativ" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Ikkje på kontoret" >
 <!ENTITY event.freebusy.legend.unknown          "Ingen informasjon" >
+<!ENTITY event.attendee.role.required           "Påkravd deltakar">
+<!ENTITY event.attendee.role.optional           "Valfri deltakar">
+<!ENTITY event.attendee.role.chair              "Ordstyrarombod">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Gje opp tidssone">
