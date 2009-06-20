@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Aktualizacja aplikacji">
 
-<!ENTITY  window.width                    "38em"><!-- en-US: 36 -->
-<!ENTITY  window.macWidth                 "41em"><!-- en-US: 39 -->
+<!ENTITY  window.width                    "43em"><!-- en-US: 36 -->
+<!ENTITY  window.macWidth                 "45em"><!-- en-US: 39 -->
 
 <!ENTITY  checking.title                  "Sprawdzanie aktualizacji">
 <!ENTITY  updateCheck.label               "Sprawdzanie dostępności aktualizacji dla programu &brandShortName;…">
