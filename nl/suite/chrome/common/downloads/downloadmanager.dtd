@@ -1,0 +1,78 @@
+<!ENTITY downloadManager.title           "Downloadbeheerder">
+
+<!ENTITY menuBar.tooltip                 "Menubalk">
+<!ENTITY searchBar.tooltip               "Zoekbalk">
+
+<!ENTITY search.emptytext                "Zoeken in downloads">
+<!ENTITY search.label                    "Zoeken in downloads">
+<!ENTITY search.accesskey                "Z">
+<!ENTITY search.key                      "z">
+
+<!ENTITY cmd.clearList.label             "Lijst wissen">
+<!ENTITY cmd.clearList.tooltip           "Verwijdert voltooide, geannuleerde en mislukte downloads uit de lijst">
+<!ENTITY cmd.clearList.accesskey         "w">
+
+<!ENTITY col.name.label                  "Naam">
+<!ENTITY col.name.accesskey              "N">
+<!ENTITY col.name.tooltip                "Bestandsnaam">
+<!ENTITY col.status.label                "Status">
+<!ENTITY col.status.accesskey            "S">
+<!ENTITY col.status.tooltip              "Status">
+<!ENTITY col.actionPlay.label            "Pauzeren/hervatten/opnieuw proberen">
+<!ENTITY col.actionPlay.accesskey        "P">
+<!ENTITY col.actionPlay.tooltip          "Pauzeren/hervatten/opnieuw proberen">
+<!ENTITY col.actionStop.label            "Annuleren/verwijderen">
+<!ENTITY col.actionStop.accesskey        "A">
+<!ENTITY col.actionStop.tooltip          "Annuleren/verwijderen">
+<!ENTITY col.progress.label              "Voortgang">
+<!ENTITY col.progress.accesskey          "V">
+<!ENTITY col.progress.tooltip            "Voortgang">
+<!ENTITY col.timeremaining.label         "Resterende tijd">
+<!ENTITY col.timeremaining.accesskey     "R">
+<!ENTITY col.timeremaining.tooltip       "Resterende tijd">
+<!ENTITY col.transferred.label           "Overdracht">
+<!ENTITY col.transferred.accesskey       "O">
+<!ENTITY col.transferred.tooltip         "Overdracht">
+<!ENTITY col.transferrate.label          "Snelheid">
+<!ENTITY col.transferrate.accesskey      "d">
+<!ENTITY col.transferrate.tooltip        "Snelheid">
+<!ENTITY col.timeelapsed.label           "Verstreken tijd">
+<!ENTITY col.timeelapsed.accesskey       "e">
+<!ENTITY col.timeelapsed.tooltip         "Verstreken tijd">
+<!ENTITY col.progresstext.label          "&#37;">
+<!ENTITY col.progresstext.accesskey      "&#37;">
+<!ENTITY col.progresstext.tooltip        "Voortgang (&#37;)">
+<!ENTITY col.source.label                "Bron">
+<!ENTITY col.source.accesskey            "o">
+<!ENTITY col.source.tooltip              "Bron">
+
+<!ENTITY view.columns.label              "Toon kolommen">
+<!ENTITY view.columns.accesskey          "k">
+<!ENTITY view.sortBy.label               "Volgorde">
+<!ENTITY view.sortBy.accesskey           "V">
+
+<!ENTITY view.unsorted.label             "Niet gerangschikt">
+<!ENTITY view.unsorted.accesskey         "U">
+<!ENTITY view.sortAscending.label        "A > Z volgorde">
+<!ENTITY view.sortAscending.accesskey    "A">
+<!ENTITY view.sortDescending.label       "Z > A volgorde">
+<!ENTITY view.sortDescending.accesskey   "Z">
+
+<!ENTITY cmd.pause.label                 "Pauzeren">
+<!ENTITY cmd.pause.accesskey             "P">
+<!ENTITY cmd.resume.label                "Hervatten">
+<!ENTITY cmd.resume.accesskey            "H">
+<!ENTITY cmd.retry.label                 "Opnieuw proberen">
+<!ENTITY cmd.retry.accesskey             "O">
+<!ENTITY cmd.cancel.label                "Annuleren">
+<!ENTITY cmd.cancel.accesskey            "A">
+<!ENTITY cmd.remove.label                "Verwijderen uit lijst">
+<!ENTITY cmd.remove.accesskey            "V">
+<!ENTITY cmd.open.label                  "Openen">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.show.label                  "Bijbehorende map openen">
+<!ENTITY cmd.show.accesskey              "m">
+<!ENTITY cmd.goToDownloadPage.label      "Naar downloadpagina gaan">
+<!ENTITY cmd.goToDownloadPage.accesskey  "d">
+<!ENTITY cmd.copyDownloadLink.label      "Downloadkoppeling kopiëren">
+<!ENTITY cmd.copyDownloadLink.accesskey  "k">
