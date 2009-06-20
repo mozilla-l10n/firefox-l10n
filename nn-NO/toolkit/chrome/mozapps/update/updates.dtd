@@ -4,7 +4,7 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Ser etter oppdateringar">
-<!ENTITY  updateCheck.label               "Ser etter nyare versjonar av &brandShortName;…">
+<!ENTITY  updateCheck.label               "Ser etter nyare versjonar av &brandShortName; …">
 
 <!ENTITY  noupdatesfound.title            "Fann ingen oppdateringar">
 <!ENTITY  noupdatesautoenabled.intro      "Ingen oppdateringar er tilgjengelege. &brandShortName; vil sjå

@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Komprimer mapper">
 <!ENTITY compactFolders.accesskey    "K">
-<!ENTITY emptyTrashCmd.label "Tøm søppelkasse">
+<!ENTITY emptyTrashCmd.label "Tøm bosskorg">
 <!ENTITY emptyTrashCmd.accesskey    "T">
 <!ENTITY offlineMenu.label "Fråkopla">
 <!ENTITY offlineMenu.accesskey "F">
@@ -332,6 +332,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Svar til alle">
 <!ENTITY replyToAllMsgCmd.accesskey  "t">
 <!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToListMsgCmd.label "Svar til liste">
+<!ENTITY replyToListMsgCmd.accesskey  "l">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Send vidare">
 <!ENTITY forwardMsgCmd.accesskey "V">
 <!ENTITY forwardMsgCmd.key  "l">
@@ -461,6 +464,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY replyButton.label "Svar">
 <!ENTITY replyAllButton.label "Svar alle">
+<!ENTITY replyListButton.label "Reply to List">
 <!ENTITY forwardButton.label "Send vidare">
 <!ENTITY fileButton.label "Fil">
 <!ENTITY nextButton.label "Neste">
@@ -492,6 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Skriv ny melding">
 <!ENTITY replyButton.tooltip "Svar til avsendar">
 <!ENTITY replyAllButton.tooltip "Svar til avsendar og alle mottakarar">
+<!ENTITY replyListButton.tooltip "Reply to mailing list">
 <!ENTITY forwardButton.tooltip "Send meldinga vidare">
 <!ENTITY fileButton.tooltip "Arkiver meldinga">
 <!ENTITY nextButton.tooltip "Flytt til neste ulesne melding">
@@ -532,9 +537,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextRemove.accesskey "S">
 <!ENTITY folderContextCompact.label "Komprimer denne mappa">
 <!ENTITY folderContextCompact.accesskey "o">
-<!ENTITY folderContextEmptyTrash.label "Tøm søppelkasse">
+<!ENTITY folderContextEmptyTrash.label "Tøm bosskorg">
 <!ENTITY folderContextEmptyTrash.accesskey "T">
-<!ENTITY folderContextEmptyJunk.label "Tøm søppelkasse">
+<!ENTITY folderContextEmptyJunk.label "Tøm bosskorg">
 <!ENTITY folderContextEmptyJunk.accesskey "T">
 <!ENTITY folderContextSendUnsentMessages.label "Send usende meldingar">
 <!ENTITY folderContextSendUnsentMessages.accesskey "u">
@@ -654,6 +659,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "n">
 <!ENTITY contextReplyAll.label "Svar til alle">
 <!ENTITY contextReplyAll.accesskey "a">
+<!ENTITY contextReplyList.label "Svar til liste">
+<!ENTITY contextReplyList.accesskey "r">
 <!ENTITY contextForward.label "Send vidare">
 <!ENTITY contextForward.accesskey "v">
 <!ENTITY contextForwardAsAttachment.label "Send vidare som vedlegg">
