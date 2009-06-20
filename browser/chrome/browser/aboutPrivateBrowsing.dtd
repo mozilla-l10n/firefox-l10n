@@ -17,5 +17,5 @@
 <!ENTITY privatebrowsingpage.howToStop                 "لإيقاف التصفح الخاص، اختر &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;، أو أغلق &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "لبدء التصفح الخاص، يمكنك أيضًا اختيار &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "رغم أن هذا الحاسوب لن يملك سجلاً لتصفحك الماضي، لا زال مزود خدمة الإنترنت يستطيع تتبع الصفحات التي زرتَها.">
+<!ENTITY privatebrowsingpage.moreInfo                  "رغم أن هذا الحاسوب لن يملك سجلًا لتصفحك الماضي، لا زال مزود خدمة الإنترنت يستطيع تتبع الصفحات التي زرتَها.">
 <!ENTITY privatebrowsingpage.learnMore                 "اعرف المزيد">
