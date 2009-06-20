@@ -52,10 +52,14 @@
 <!ENTITY newevent.status.label "Stav">
 <!ENTITY newevent.status.accesskey "S">
 <!ENTITY newevent.status.none.label "Neurčeno">
+<!ENTITY newevent.status.none.accesskey "N" >
 <!ENTITY newevent.status.cancelled.label "Zrušeno">
+<!ENTITY newevent.status.cancelled.accesskey "Z" >
 <!ENTITY newevent.status.tentative.label "Nezávazně">
+<!ENTITY newevent.status.tentative.accesskey "e" >
 <!ENTITY newevent.status.confirmed.label "Potvrzeno">
-<!ENTITY newevent.status.needsaction.label "Vyžaduje zásah">
+<!ENTITY newevent.status.confirmed.accesskey "P" >
+<!ENTITY newevent.status.needsaction.label "Vyžaduje akci">
 <!ENTITY newevent.status.inprogress.label "Probíhá">
 <!ENTITY newevent.status.completed.label "Ukončeno">
 
@@ -349,6 +353,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative "Nezávazně" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Mimo kancelář">
 <!ENTITY event.freebusy.legend.unknown "Bez informací">
+<!ENTITY event.attendee.role.required "Vyžadovaný účastník">
+<!ENTITY event.attendee.role.optional "Nepovinný účastník">
+<!ENTITY event.attendee.role.chair "Předsedající">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Vyberte prosím časovou zónu">

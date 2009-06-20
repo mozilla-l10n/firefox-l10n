@@ -18,14 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">
-<!ENTITY retentionKeepNew.accesskey "m">
-<!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
-<!ENTITY retentionKeepUnread.accesskey "d">
+<!ENTITY retentionKeepRecent.label "Smazat vše mimo posledních">
+<!ENTITY retentionKeepRecent.accesskey "m">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Vždy smazat přečtené zprávy (nezávisle na jejich stáří)">
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
-<!ENTITY nntpRemoveBody.label "Odstranit těla zpráv starších než">
-<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY nntpRemoveMsgBody.label "Odstranit těla zpráv starších než">
+<!ENTITY nntpRemoveMsgBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Vybrat diskusní skupiny pro offline použití…">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Rozšířené…">

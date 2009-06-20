@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
 <!ENTITY updateCmd.accesskey "Z">
 
+<!ENTITY sunbird.export.calendar.label "Exportovat kalendář…">
+<!ENTITY sunbird.export.calendar.accesskey "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label "Okno">
 <!ENTITY minimizeWindow.label "Minimalizovat">

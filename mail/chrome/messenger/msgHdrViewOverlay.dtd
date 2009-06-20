@@ -71,9 +71,6 @@
 <!ENTITY viewSourceMenuItem.label "zobrazit zdrojový kód…">
 <!ENTITY viewSourceMenuItem.accesskey "z">
 
-<!ENTITY hideDetailsButton.label "skrýt podrobnosti">
-<!ENTITY showDetailsButton.label "zobrazit podrobnosti">
-
 <!ENTITY openAttachmentCmd.label "Otevřít">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Uložit jako…">
