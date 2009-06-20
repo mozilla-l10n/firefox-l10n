@@ -49,7 +49,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Nettlesaren er innstilt på å bruke ein mellomtenar, men nettlesaren klarte ikkje å finne mellomtenaren.</p><ul><li>Er mellomtenar-innstillingane i nettlesaren korrekte? Kontroller innstillingane og prøv igjen.</li><li>Er datamaskina tilkopla eit aktivt nettverk?</li><li>Har du framleis problem? Kontakt nettverksansvarleg eller Internettleverandøren din for meir hjelp.</li></ul>">
 
 <!ENTITY redirectLoop.title "Vidarekoplingsløkke">
-<!ENTITY redirectLoop.longDesc "<p>Nettlesaren har stoppa freistnaden på å hente det førspurde elementet. Nettsida vidaresender førespurnader på ein måte som gjer at han aldri vil fullføre.</p><ul><li>Har du slått av eller blokkert infokapslar eller blokkert infokapslar som er påkravde for denne nettstaden?</li><li><em>MERK</em>: Om godtaking av infokapslar frå sida ikkje løyser problemet, er det sannsynlegvis eit tenarinnstillings problem og ikkje datamaskina di.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Nettlesaren har stoppa freistnaden på å hente det førspurde elementet. Nettsida vidaresender førespurnader på ein måte som gjer at han aldri vil fullføre.</p><ul><li>Har du slått av eller blokkert infokapslar eller blokkert infokapslar som er påkravde for denne nettstaden?</li><li><em>MERK</em>: Om godtaking av infokapslar frå sida ikkje løyser problemet, er det sannsynlegvis eit tenarinnstillingsproblem og ikkje datamaskina di.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Ugyldig svar">
 <!ENTITY unknownSocketType.longDesc "<p>Denne nettstaden svarte på ein førespurnad på ein uventa måte og nettlesaren kan ikkje halde fram.</p>">
