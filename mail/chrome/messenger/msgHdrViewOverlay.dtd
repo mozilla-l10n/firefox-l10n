@@ -71,9 +71,6 @@
 <!ENTITY viewSourceMenuItem.label "bron bekijken…">
 <!ENTITY viewSourceMenuItem.accesskey "b">
 
-<!ENTITY hideDetailsButton.label "details verbergen">
-<!ENTITY showDetailsButton.label "details tonen">
-
 <!ENTITY openAttachmentCmd.label "Openen">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Opslaan als…">
