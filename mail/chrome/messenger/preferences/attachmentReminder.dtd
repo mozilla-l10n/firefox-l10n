@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "Bijlage herinnering sleutelwoorden">
+<!ENTITY attachKeywordText.label          "&brandShortName; zal u waarschuwen als u een bericht wilt versturen die een van de volgende sleutelwoorden bevat maar er geen bijlage aan toegevoegd is.">
+<!ENTITY addKeywordButton.label           "Toevoegen">
+<!ENTITY addKeywordButton.accesskey       "T">
+<!ENTITY editKeywordButton.label          "Bewerken">
+<!ENTITY editKeywordButton.accesskey      "B">
+<!ENTITY removeKeywordButton.label        "Verwijderen">
+<!ENTITY removeKeywordButton.accesskey    "V">
