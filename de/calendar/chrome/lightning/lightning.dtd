@@ -77,7 +77,7 @@
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Aufgaben">
-<!ENTITY lightning.toolbar.task.accesskey     "u">
+<!ENTITY lightning.toolbar.task.accesskey     "A">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Termin">

@@ -69,7 +69,7 @@
 <!ENTITY calendar.publish.calendar.label                   "Kalender publizieren…">
 <!ENTITY calendar.publish.calendar.accesskey               "p">
 <!ENTITY calendar.publish.selection.label                  "Markierte Ereignisse publizieren…">
-<!ENTITY calendar.publish.selection.accesskey              "u">
+<!ENTITY calendar.publish.selection.accesskey              "b">
 
 <!ENTITY calendar.quit.label                               "Beenden">
 <!ENTITY calendar.quit.accesskey                           "B">
