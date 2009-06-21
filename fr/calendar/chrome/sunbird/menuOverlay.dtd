@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                        "Rechercher des mises à jour…">
 <!ENTITY updateCmd.accesskey                    "h">
 
+<!ENTITY sunbird.export.calendar.label          "Exporter l'agenda…">
+<!ENTITY sunbird.export.calendar.accesskey      "x">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                       "Fenêtre">
 <!ENTITY minimizeWindow.label                   "Réduire">
