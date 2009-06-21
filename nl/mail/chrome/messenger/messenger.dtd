@@ -332,6 +332,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
 <!ENTITY replyToAllMsgCmd.accesskey "e">
 <!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Lijst beantwoorden">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Doorsturen">
 <!ENTITY forwardMsgCmd.accesskey "s">
 <!ENTITY forwardMsgCmd.key "l">
@@ -461,6 +464,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Opstellen">
 <!ENTITY replyButton.label "Beantwoorden">
 <!ENTITY replyAllButton.label "Allen beantwoorden">
+<!ENTITY replyListButton.label "Lijst beantwoorden">
 <!ENTITY forwardButton.label "Doorsturen">
 <!ENTITY fileButton.label "Archiveren">
 <!ENTITY nextButton.label "Volgende">
@@ -492,6 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Een nieuw bericht aanmaken">
 <!ENTITY replyButton.tooltip "Het geselecteerde bericht beantwoorden">
 <!ENTITY replyAllButton.tooltip "Afzender en alle geadresseerden beantwoorden">
+<!ENTITY replyListButton.tooltip "E-maillijst beantwoorden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
 <!ENTITY fileButton.tooltip "Geselecteerde bericht archiveren">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
@@ -654,6 +659,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "r">
 <!ENTITY contextReplyAll.label "Allen beantwoorden">
 <!ENTITY contextReplyAll.accesskey "e">
+<!ENTITY contextReplyList.label "Lijst beantwoorden">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Doorsturen">
 <!ENTITY contextForward.accesskey "s">
 <!ENTITY contextForwardAsAttachment.label "Doorsturen als bijlagen">
