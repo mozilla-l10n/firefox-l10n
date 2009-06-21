@@ -8,9 +8,11 @@
 
 <!ENTITY enableGlodaSearch.label       "Globale zoek en indexer activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
-<!ENTITY systemDefaults.label          "Standaardwaarden systeem">
+<!ENTITY systemIntegration.label       "Systeem integratie">
 <!ENTITY alwaysCheckDefault.label      "Altijd tijdens het opstarten controleren of &brandShortName; de standaard e-mailclient is">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "&searchIntegration.engineName; toestaan om berichten te doorzoeken">
+<!ENTITY searchIntegration.accesskey   "t">
 <!ENTITY checkNow.label                "Nu controleren">
 <!ENTITY checkNow.accesskey            "N">
 <!ENTITY configEditDesc.label          "Uitgebreide configuratie">
