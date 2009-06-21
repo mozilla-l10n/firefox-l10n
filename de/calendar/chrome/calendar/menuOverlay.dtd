@@ -62,13 +62,16 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.calendar.label         "Kalender exportieren…">
-<!ENTITY calendar.export.calendar.accesskey     "X">
+<!ENTITY calendar.export.label                  "Exportieren…">
+<!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "Markierte Ereignisse exportieren…">
 <!ENTITY calendar.export.selection.accesskey    "M">
 
 <!ENTITY calendar.publish.label                 "Publizieren…">
 <!ENTITY calendar.publish.accesskey             "P">
+
+<!ENTITY calendar.deletecalendar.label          "Ausgewählten Kalender löschen…">
+<!ENTITY calendar.deletecalendar.accesskey      "w">
 
 <!ENTITY calendar.menu.customize.label          "Anpassen…">
 <!ENTITY calendar.menu.customize.accesskey      "A">
@@ -98,11 +101,6 @@
 <!ENTITY goNextCmd.week.label                   "Nächste Woche">
 <!ENTITY goNextCmd.month.label                  "Nächster Monat">
 <!ENTITY goNextCmd.all.accesskey                "ä">
-
-<!ENTITY addressBookCmd.label                   "Adressbuch">
-<!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY calendar.importcalendar.label          "Kalender importieren…">
 
 <!ENTITY showCurrentView.label                  "Aktuelle Ansicht">
 <!ENTITY showCurrentView.accesskey              "k">
