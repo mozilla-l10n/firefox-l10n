@@ -68,7 +68,7 @@
 <!ENTITY calendar.export.selection.accesskey    "M">
 
 <!ENTITY calendar.publish.label                 "Publizieren…">
-<!ENTITY calendar.publish.accesskey             "P">
+<!ENTITY calendar.publish.accesskey             "b">
 
 <!ENTITY calendar.deletecalendar.label          "Ausgewählten Kalender löschen…">
 <!ENTITY calendar.deletecalendar.accesskey      "w">
