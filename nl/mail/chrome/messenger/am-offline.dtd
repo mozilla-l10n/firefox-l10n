@@ -18,14 +18,15 @@
 <!ENTITY retentionKeepMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "Alle berichten verwijderen, behalve de laatste">
-<!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Gelezen berichten altijd verwijderen">
-<!ENTITY retentionKeepUnread.accesskey "z">
+<!ENTITY retentionKeepRecent.label "Alle berichten verwijderen, behalve de meest recente">
+<!ENTITY retentionKeepRecent.accesskey "a">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Gelezen berichten altijd verwijderen (leeftijdinstellingen negeren)">
 <!ENTITY retentionApplyToFlagged.label "Berichten met ster altijd bewaren">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveBody.label "Alleen berichtkernen verwijderen die ouder zijn dan">
-<!ENTITY nntpRemoveBody.accesskey "k">
+<!ENTITY nntpRemoveMsgBody.label "Alleen berichtkernen verwijderen die ouder zijn dan">
+<!ENTITY nntpRemoveMsgBody.accesskey "k">
+
 <!ENTITY offlineSelectNntp.label "Nieuwsgroepen voor offlinegebruik selecteren…">
 <!ENTITY offlineSelectNntp.accesskey "s">
 <!ENTITY offlineImapAdvancedOffline.label "Geavanceerd…">
