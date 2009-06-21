@@ -79,13 +79,13 @@
 <!ENTITY ScreenName.label               "Schermnaam:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "Afbeeldingen op afstand toestaan.">
-<!ENTITY allowRemoteContent.accesskey   "d">
-<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
-embed images from remote sources. Opening such a message will open a
-connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
-images in HTML messages from this contact.">
+<!ENTITY allowRemoteContent1.label      "Niet-ingebedde inhoud toestaan.">
+<!ENTITY allowRemoteContent1.accesskey  "d">
+<!ENTITY allowRemoteContent1.tooltip    "Berichten in HTML-opmaak kunnen links naar 
+inhoud (zoals afbeeldingen) van externe computerbronnen bevatten. Bij het openen van zo'n
+bericht wordt verbinding met de externe computer gemaakt. Hiermee kan door derden geconstateerd 
+worden dat u het bericht hebt geopend. Door het aanvinken van deze checkbox staat u toe
+dat er verbinding met de externe bron wordt gemaakt om de inhoud op te halen.">
 
 <!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "r">
