@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                                   "Kontrolearje op fernijings…">
 <!ENTITY updateCmd.accesskey                               "o">
 
+<!ENTITY sunbird.export.calendar.label                     "Eksportearje aginda…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "Skerm">
 <!ENTITY minimizeWindow.label                              "Minimalisearje">

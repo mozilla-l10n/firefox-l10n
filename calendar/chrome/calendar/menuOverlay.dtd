@@ -62,13 +62,16 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "Y">
 
-<!ENTITY calendar.export.calendar.label         "Aginda eksportearje…">
-<!ENTITY calendar.export.calendar.accesskey     "k">
+<!ENTITY calendar.export.label        			"Eksportearje…">
+<!ENTITY calendar.export.accesskey     			"E">
 <!ENTITY calendar.export.selection.label        "Seleksje eksportearje…">
 <!ENTITY calendar.export.selection.accesskey    "e">
 
 <!ENTITY calendar.publish.label                 "Publisearje…">
 <!ENTITY calendar.publish.accesskey             "P">
+
+<!ENTITY calendar.deletecalendar.label          "Selektearre aginda fuortsmite…">
+<!ENTITY calendar.deletecalendar.accesskey      "f">
 
 <!ENTITY calendar.menu.customize.label          "Oanpasse…">
 <!ENTITY calendar.menu.customize.accesskey      "O">
@@ -98,11 +101,6 @@
 <!ENTITY goNextCmd.week.label                   "Folgjende wike">
 <!ENTITY goNextCmd.month.label                  "Folgjende moanne">
 <!ENTITY goNextCmd.all.accesskey                "o">
-
-<!ENTITY addressBookCmd.label                   "Adresboek">
-<!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY calendar.importcalendar.label          "Aginda ymportearje…">
 
 <!ENTITY showCurrentView.label                  "Aktueel finster">
 <!ENTITY showCurrentView.accesskey              "A">
