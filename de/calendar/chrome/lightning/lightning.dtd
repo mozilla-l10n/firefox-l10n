@@ -49,9 +49,12 @@
 <!ENTITY lightning.taskLabel "Lightning">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Termin…">
-<!ENTITY lightning.menupopup.new.task.label     "Aufgabe…">
-<!ENTITY lightning.menupopup.new.calendar.label "Kalender…">
+<!ENTITY lightning.menupopup.new.event.label        "Termin…">
+<!ENTITY lightning.menupopup.new.event.accesskey    "T">
+<!ENTITY lightning.menupopup.new.task.label         "Aufgabe…">
+<!ENTITY lightning.menupopup.new.task.accesskey     "u">
+<!ENTITY lightning.menupopup.new.calendar.label     "Kalender…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "l">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Öffnen">
