@@ -63,7 +63,7 @@
 <!ENTITY closeWindow.accesskey "s">
 
 <!ENTITY bookmarksMenu.label          "Blêdwizers">
-<!ENTITY bookmarksMenu.accesskey      "W">
+<!ENTITY bookmarksMenu.accesskey      "D">
 <!ENTITY bookmarkThisPageCmd.label        "Blêdwizer fan dizze side meitsje">
 <!ENTITY bookmarkThisPageCmd.commandkey   "d">
 <!ENTITY subscribeToPageMenupopup.label "Abonnearje op dizze side">
