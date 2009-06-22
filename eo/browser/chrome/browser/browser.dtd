@@ -135,7 +135,7 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY fileMenu.label "Dosiero">
-<!ENTITY fileMenu.accesskey "D">
+<!ENTITY fileMenu.accesskey "o">
 <!ENTITY newNavigatorCmd.label "Nova fenestro">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
