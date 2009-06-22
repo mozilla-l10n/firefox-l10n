@@ -61,7 +61,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "O">
 <!ENTITY  historyHeader.remember.label     "Memorizar o histórico">
 <!ENTITY  historyHeader.dontremember.label "Nunca memorizar o histórico">
-<!ENTITY  historyHeader.custom.label       "Usar configurações personalizadas para o histórico">
+<!ENTITY  historyHeader.custom.label       "Usar configurações personalizadas">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "O &brandShortName; memorizará as páginas visitadas, os downloads, os dados fornecidos a formulários e ao campo de pesquisa e preservará os cookies dos sites visitados.">
@@ -83,7 +83,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "limpar todo o histórico atual">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Iniciar automaticamente o &brandShortName; na navegação privativa">
+<!ENTITY  privateBrowsingAutoStart.label "Iniciar o &brandShortName; automaticamente na navegação privativa">
 <!ENTITY  privateBrowsingAutoStart.accesskey "I">
 
 <!-- LOCALIZATION NOTE:
