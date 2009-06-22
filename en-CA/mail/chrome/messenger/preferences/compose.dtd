@@ -7,7 +7,7 @@
 <!ENTITY inline.label                         "Inline">
 <!ENTITY asAttachment.label                   "As Attachment">
 <!ENTITY addExtension.label                   "add extension to file name">
-<!ENTITY addExtension.accesskey               "f">
+<!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "Configure text format behaviour">
 <!ENTITY sendOptions.label                     "Send Options…">
 <!ENTITY sendOptions.accesskey                 "S">
+
+<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
