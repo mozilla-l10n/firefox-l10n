@@ -61,19 +61,23 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Agendabestand…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "A">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Agenda">
-<!ENTITY lightning.calendar.accesskey        "A">
-<!ENTITY lightning.tasks.label               "Taken">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Agenda">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "Taken">
+<!ENTITY lightning.menu.view.tasks.accesskey           "T">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Gebeurtenissen en taken">
+<!ENTITY lightning.menu.eventtask.accesskey            "u">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "E-mail">
 <!ENTITY lightning.toolbar.mail.accesskey     "m">
 <!ENTITY lightning.toolbar.calendar.label     "Agenda">
-<!ENTITY lightning.toolbar.calendar.accesskey "n">
+<!ENTITY lightning.toolbar.calendar.accesskey "A">
 <!ENTITY lightning.toolbar.task.label         "Taken">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
+<!ENTITY lightning.toolbar.task.accesskey     "k">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Gebeurtenis">

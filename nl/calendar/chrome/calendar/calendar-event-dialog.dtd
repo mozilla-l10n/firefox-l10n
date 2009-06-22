@@ -49,15 +49,19 @@
 <!ENTITY newevent.to.label                  "Tot" >
 <!ENTITY newevent.attendees.notify.label    "Genodigden uitnodigen">
 
-<!ENTITY newevent.status.label              "Status" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "Niet gespecificeerd" >
-<!ENTITY newevent.status.cancelled.label    "Geannuleerd" >
-<!ENTITY newevent.status.tentative.label    "Voorlopig" >
-<!ENTITY newevent.status.confirmed.label    "Bevestigd" >
-<!ENTITY newevent.status.needsaction.label  "Handeling vereist" >
-<!ENTITY newevent.status.inprogress.label   "Bezig" >
-<!ENTITY newevent.status.completed.label    "Voltooid op" >
+<!ENTITY newevent.status.label                "Status" >
+<!ENTITY newevent.status.accesskey            "S" >
+<!ENTITY newevent.status.none.label           "Niet gespecificeerd" >
+<!ENTITY newevent.status.none.accesskey       "e" >
+<!ENTITY newevent.status.cancelled.label      "Geannuleerd" >
+<!ENTITY newevent.status.cancelled.accesskey  "G" >
+<!ENTITY newevent.status.tentative.label      "Voorlopig" >
+<!ENTITY newevent.status.tentative.accesskey  "V" >
+<!ENTITY newevent.status.confirmed.label      "Bevestigd" >
+<!ENTITY newevent.status.confirmed.accesskey  "B" >
+<!ENTITY newevent.status.needsaction.label    "Handeling vereist" >
+<!ENTITY newevent.status.inprogress.label     "Bezig" >
+<!ENTITY newevent.status.completed.label      "Voltooid op" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; voltooid">
@@ -139,7 +143,7 @@
 <!ENTITY  event.menu.options.privacy.confidential.label       "Alleen tijd en datum tonen">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "A">
 <!ENTITY  event.menu.options.privacy.private.label            "Privégebeurtenis">
-<!ENTITY  event.menu.options.privacy.private.accesskey        "v">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "P">
 <!ENTITY  event.menu.options.show.time.label                  "Tijd tonen als">
 <!ENTITY  event.menu.options.show.time.accesskey              "T">
 <!ENTITY  event.menu.options.show.time.busy.label             "Bezet">
@@ -349,6 +353,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Voorlopig bezet" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Niet aanwezig" >
 <!ENTITY event.freebusy.legend.unknown          "Geen informatie" >
+<!ENTITY event.attendee.role.required           "Vereiste genodigde">
+<!ENTITY event.attendee.role.optional           "Optionele genodigde">
+<!ENTITY event.attendee.role.chair              "Voorzitter">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Specificeer de tijdzone">
