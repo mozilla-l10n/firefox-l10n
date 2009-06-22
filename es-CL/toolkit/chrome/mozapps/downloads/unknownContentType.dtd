@@ -48,10 +48,10 @@
 <!ENTITY  saveFile.label              "Guardar Archivo">
 <!ENTITY  saveFile.accesskey          "G">
 
-<!ENTITY  rememberChoice.label        "Hacer esto automáticamente para los archivos de este tipo de ahora en adelante.">
+<!ENTITY  rememberChoice.label        "Hacer esto para los archivos de este tipo de ahora en adelante.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "el cuál es:">
+<!ENTITY  whichIsA.label              "el cual es:">
 
 <!ENTITY  chooseHandlerMac.label      "Seleccionar…">
 <!ENTITY  chooseHandlerMac.accesskey  "c">
