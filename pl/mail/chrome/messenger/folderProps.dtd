@@ -65,10 +65,14 @@
 <!ENTITY retentionDeleteMsg.accesskey       "m">
 <!ENTITY retentionKeepAll.label             "Nie usuwaj żadnych wiadomości">
 <!ENTITY retentionKeepAll.accesskey         "a">
-<!ENTITY retentionKeepNew.label             "Usuwaj wszystko, oprócz">
+<!-- FIXME: bleh, needs verification -->
+<!--     retentionKeepNew.label             "Usuwaj wszystko, oprócz">
 <!ENTITY retentionKeepNew.accesskey         "w">
 <!ENTITY retentionKeepUnread.label          "Zawsze usuwaj przeczytane wiadomości">
-<!ENTITY retentionKeepUnread.accesskey      "r">
+<!ENTITY retentionKeepUnread.accesskey      "r" -->
+<!ENTITY retentionKeepRecent.label          "Usuwaj wszystko, pomijając ostatnie"><!-- Delete all but the most recent -->
+<!ENTITY retentionKeepRecent.accesskey      "w">
+<!ENTITY retentionKeepUnreadHidden.label    "Zawsze usuwaj przeczytane wiadomości (nadpisuje ustawienia wieku)"><!-- Always delete read messages (overrides age settings) -->
 <!ENTITY retentionApplyToFlagged.label      "Zawsze przechowuj wiadomości oznaczone gwiazdką">
 <!ENTITY retentionApplyToFlagged.accesskey  "Z">
 
