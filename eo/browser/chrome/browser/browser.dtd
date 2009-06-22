@@ -305,7 +305,7 @@
 <!ENTITY copyLinkTextCmd.accesskey "s">
 <!ENTITY copyImageCmd.label "Kopii retadreson de bildo">
 <!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyImageContentsCmd.label "Kopii bildo">
+<!ENTITY copyImageContentsCmd.label "Kopii bildon">
 <!ENTITY copyImageContentsCmd.accesskey "b">
 <!ENTITY copyVideoURLCmd.label "Copy Video Location">
 <!ENTITY copyVideoURLCmd.accesskey "o">
