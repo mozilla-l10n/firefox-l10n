@@ -6,7 +6,6 @@
 <!ENTITY offlineNotDownload.accesskey    "p">
 <!ENTITY kb.label                        "KB">
 <!ENTITY daysOld.label                   "dni">
-<!ENTITY message.label                   "najnowszych wiadomości">
 <!ENTITY nntpNotDownloadRead.label       "Nie pobieraj treści przeczytanych wiadomości">
 <!ENTITY nntpNotDownloadRead.accesskey   "r">
 <!ENTITY nntpDownloadMsg.label           "Nie pobieraj treści wiadomości starszych niż">
@@ -18,20 +17,14 @@
 <!ENTITY retentionKeepMsg.accesskey      "m">
 <!ENTITY retentionKeepAll.label          "Nie usuwaj żadnych wiadomości">
 <!ENTITY retentionKeepAll.accesskey      "a">
-<!--     retentionKeepNew.label          "Usuwaj wszystko, oprócz">
-<!ENTITY retentionKeepNew.accesskey      "w">
-<!ENTITY retentionKeepUnread.label       "Zawsze usuwaj przeczytane wiadomości">
-<!ENTITY retentionKeepUnread.accesskey   "t"-->
-<!-- FIXME: bleh, needs verification -->
-<!ENTITY retentionKeepRecent.label            "Usuwaj wszystko, pomijając ostatnie"><!-- Delete all but the most recent -->
+<!ENTITY retentionKeepRecent.label            "Usuwaj wszystko, pomijając ostatnie">
 <!ENTITY retentionKeepRecent.accesskey        "w">
-<!ENTITY retentionKeepUnreadHidden.label      "Zawsze usuwaj przeczytane wiadomości (nadpisuje ustawienia wieku)"><!-- Always delete read messages (overrides age settings) -->
-<!ENTITY retentionApplyToFlagged.label        "Zawsze przechowuj wiadomości oznaczone gwiazdką"><!--  -->
+<!ENTITY message.label                        "wiadomości">
+<!ENTITY retentionKeepUnreadHidden.label      "Zawsze usuwaj przeczytane wiadomości (nadpisuje ustawienia wieku)">
+<!ENTITY retentionApplyToFlagged.label        "Zawsze przechowuj wiadomości oznaczone gwiazdką">
 <!ENTITY retentionApplyToFlagged.accesskey    "s">
-<!ENTITY nntpRemoveMsgBody.label              "Usuwaj treść wiadomości starszych niż"><!-- Remove bodies from messages more than -->
+<!ENTITY nntpRemoveMsgBody.label              "Usuwaj treść wiadomości starszych niż">
 <!ENTITY nntpRemoveMsgBody.accesskey          "U">
-<!--     nntpRemoveBody.label            "Usuń treść wiadomości starszych niż">
-<!ENTITY nntpRemoveBody.accesskey        "U" -->
 <!ENTITY offlineSelectNntp.label              "Wybierz grupy dostępne w trybie offline…">
 <!ENTITY offlineSelectNntp.accesskey          "g">
 <!ENTITY offlineImapAdvancedOffline.label     "Zaawansowane…">

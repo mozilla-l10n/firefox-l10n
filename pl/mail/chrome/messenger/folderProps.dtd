@@ -57,7 +57,6 @@
 <!ENTITY retentionUseDefault.label          "Używaj domyślnych ustawień serwera">
 <!ENTITY retentionUseDefault.accesskey      "d">
 <!ENTITY daysOld.label                      "dni">
-<!ENTITY message.label                      "najnowszych wiadomości">
 <!ENTITY retentionCleanup.label             "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane.">
 <!ENTITY retentionCleanupImap.label         "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane - zarówno lokalne kopie jak i oryginalne z serwera.">
 <!ENTITY retentionCleanupPop.label          "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane wliczając w to oryginalne ze zdalnego serwera.">
@@ -65,14 +64,10 @@
 <!ENTITY retentionDeleteMsg.accesskey       "m">
 <!ENTITY retentionKeepAll.label             "Nie usuwaj żadnych wiadomości">
 <!ENTITY retentionKeepAll.accesskey         "a">
-<!-- FIXME: bleh, needs verification -->
-<!--     retentionKeepNew.label             "Usuwaj wszystko, oprócz">
-<!ENTITY retentionKeepNew.accesskey         "w">
-<!ENTITY retentionKeepUnread.label          "Zawsze usuwaj przeczytane wiadomości">
-<!ENTITY retentionKeepUnread.accesskey      "r" -->
-<!ENTITY retentionKeepRecent.label          "Usuwaj wszystko, pomijając ostatnie"><!-- Delete all but the most recent -->
+<!ENTITY retentionKeepRecent.label          "Usuwaj wszystko, pomijając ostatnie">
 <!ENTITY retentionKeepRecent.accesskey      "w">
-<!ENTITY retentionKeepUnreadHidden.label    "Zawsze usuwaj przeczytane wiadomości (nadpisuje ustawienia wieku)"><!-- Always delete read messages (overrides age settings) -->
+<!ENTITY message.label                      "wiadomości">
+<!ENTITY retentionKeepUnreadHidden.label    "Zawsze usuwaj przeczytane wiadomości (nadpisuje ustawienia wieku)">
 <!ENTITY retentionApplyToFlagged.label      "Zawsze przechowuj wiadomości oznaczone gwiazdką">
 <!ENTITY retentionApplyToFlagged.accesskey  "Z">
 

@@ -681,7 +681,7 @@
 <!ENTITY quickSearchCmd.key "k">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "szczegóły">
+<!ENTITY more.label "szczegóły"><!-- FIXME -->
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label      "Dodaj adres do książki adresowej">
