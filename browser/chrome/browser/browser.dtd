@@ -57,7 +57,7 @@
 <!ENTITY fullScreenExit.label "צא ממצב מסך מלא">
 <!ENTITY fullScreenExit.accesskey "צ">
 <!ENTITY closeWindow.label "סגור חלון">
-<!ENTITY closeWindow.accesskey "ח">
+<!ENTITY closeWindow.accesskey "ס">
 
 <!ENTITY bookmarksMenu.label "סימניות">
 <!ENTITY bookmarksMenu.accesskey "ס">
@@ -185,7 +185,7 @@
 <!ENTITY historyUndoWindowMenu.label "חלונות שנסגרו לאחרונה">
 
 <!ENTITY historyHomeCmd.label "בית">
-<!ENTITY showAllHistoryCmd2.label "הצג את כל ההסטוריה">
+<!ENTITY showAllHistoryCmd2.label "הצג את כל ההיסטוריה">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
