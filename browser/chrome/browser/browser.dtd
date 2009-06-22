@@ -277,13 +277,13 @@
 <!ENTITY pageStyleNoStyle.accesskey "P">
 <!ENTITY pageStylePersistentOnly.label "Stil Fillestar Faqeje">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
-<!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluckash për këtë &quot;website&quot;">
+<!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë &quot;website&quot;">
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Përpunoni Parapëlqime Bllokuesi Flluckash…">
-<!ENTITY editPopupSettings.label "Përpunoni Mundësi Bllokuesi Flluckash…">
+<!ENTITY editPopupSettingsUnix.label "Përpunoni Parapëlqime Bllokuesi Flluskash…">
+<!ENTITY editPopupSettings.label "Përpunoni Mundësi Bllokuesi Flluskash…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Këmbe Drejtim Faqeje">
