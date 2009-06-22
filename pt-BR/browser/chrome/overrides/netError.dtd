@@ -9,7 +9,7 @@
 <!ENTITY connectionFailure.title "Não é possível conectar-se">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Este endereço é restrito">
+<!ENTITY deniedPortAccess.title "Endereço restrito">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
@@ -32,12 +32,12 @@
 ">
 
 
-<!ENTITY generic.title "Epa.">
+<!ENTITY generic.title "Epa">
 <!ENTITY generic.longDesc "
 <p>Por algum motivo o &brandShortName; não conseguiu carregar esta página.</p>
 ">
 
-<!ENTITY malformedURI.title "O endereço não é válido">
+<!ENTITY malformedURI.title "Endereço inválido">
 <!ENTITY malformedURI.longDesc "<ul>
   <li>Endereços web são geralmente escritos na forma <strong>http://www.exemplo.com.br/</strong></li>
   <li>Certifique-se de que não esteja usando barras invertidas (ou seja, de que esteja usando <strong>/</strong>).</li>
@@ -74,14 +74,14 @@
 <!ENTITY netTimeout.title "Tempo limite atingido">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "O endereço não foi compreendido">
+<!ENTITY protocolNotFound.title "Endereço não compreendido">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
   <li>Pode ser necessário instalar algum aplicativo para abrir este endereço.</li>
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "O servidor proxy está recusando conexões">
+<!ENTITY proxyConnectFailure.title "Conexão recusada pelo servidor proxy">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li>
@@ -89,7 +89,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Não foi possível localizar o servidor proxy">
+<!ENTITY proxyResolveFailure.title "Servidor proxy não encontrado">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li>
@@ -98,7 +98,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "A página não está redirecionando corretamente">
+<!ENTITY redirectLoop.title "Redirecionamento incorreto">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Este problema algumas vezes pode ser causado pela desativação ou bloqueio de cookies.</li>

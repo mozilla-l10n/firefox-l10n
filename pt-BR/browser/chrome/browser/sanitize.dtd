@@ -49,7 +49,7 @@ that require it.  -->
 <!ENTITY itemDownloadHistory.label         "Downloads efetuados">
 <!ENTITY itemDownloadHistory.accesskey     "D">
 <!ENTITY itemActiveLogins.label            "Logins ativos">
-<!ENTITY itemActiveLogins.accesskey        "t">
+<!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Preferências de sites">
 <!ENTITY itemSitePreferences.accesskey     "e">
 
