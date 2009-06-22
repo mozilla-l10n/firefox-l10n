@@ -30,6 +30,8 @@
 <!ENTITY goOfflineCmd.label "Puno i Palidhur">
 <!ENTITY goOfflineCmd.accesskey "o">
 
+<!ENTITY menubarCmd.label "Panel Menush">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Panel Lundrimi">
 <!ENTITY navbarCmd.accesskey "L">
 <!ENTITY personalbarCmd.label "Panel Faqerojtësish">
