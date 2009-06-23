@@ -64,10 +64,10 @@
 <!ENTITY retentionDeleteMsg.accesskey            "s">
 <!ENTITY retentionKeepAll.label                  "visus laiškus">
 <!ENTITY retentionKeepAll.accesskey              "v">
-<!ENTITY retentionKeepNew.label                  "paskiausius">
-<!ENTITY retentionKeepNew.accesskey              "p">
-<!ENTITY retentionKeepUnread.label               "tik neskaitytus">
-<!ENTITY retentionKeepUnread.accesskey           "u">
+<!ENTITY retentionKeepRecent.label               "paskiausius">
+<!ENTITY retentionKeepRecent.accesskey           "p">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label         "visuomet šalinti skaitytus laiškus (nepaisant jų amžiaus)">
 <!ENTITY retentionApplyToFlagged.label           "visuomet palikti žvaigždute pažymėtus laiškus">
 <!ENTITY retentionApplyToFlagged.accesskey       "ž">
 
