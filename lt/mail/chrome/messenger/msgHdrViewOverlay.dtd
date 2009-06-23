@@ -73,9 +73,6 @@
 <!ENTITY viewSourceMenuItem.label "pirminis tekstas…">
 <!ENTITY viewSourceMenuItem.accesskey "p">
 
-<!ENTITY hideDetailsButton.label "rodyti glausčiau">
-<!ENTITY showDetailsButton.label "rodyti išsamiau">
-
 <!ENTITY openAttachmentCmd.label    "Atverti">
 <!ENTITY openAttachmentCmd.accesskey		"A">
 <!ENTITY saveAsAttachmentCmd.label    "Įrašyti kaip…">
