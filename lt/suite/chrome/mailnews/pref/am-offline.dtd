@@ -42,7 +42,7 @@
 <!ENTITY nntpNotDownloadRead.label "skaitytų laiškų">
 <!ENTITY nntpNotDownloadRead.accesskey "k">
 <!ENTITY nntpDownloadMsg.label "laiškų, senesnių nei">
-<!ENTITY nntpDownloadMsg.accesskey "p">
+<!ENTITY nntpDownloadMsg.accesskey "s">
 <!ENTITY retentionCleanup.label "Taupant vietą diske, senus laiškus galima negrąžinamai šalinti.">
 <!ENTITY retentionCleanupImap.label "Taupant vietą diske, senus laiškus (tiek vietines kopijas, tiek jų originalus serveryje) galima negrąžinamai šalinti.">
 <!ENTITY retentionCleanupPop.label "Taupant vietą diske, senus laiškus (taip pat ir jų originalus serveryje) galima negrąžinamai šalinti.">
@@ -50,14 +50,14 @@
 <!ENTITY retentionKeepMsg.accesskey "š">
 <!ENTITY retentionKeepAll.label "nešalinti laiškų">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "šalinti visus išskyrus paskiausius">
-<!ENTITY retentionKeepNew.accesskey "p">
-<!ENTITY retentionKeepUnread.label "visuomet šalinti skaitytus laiškus">
-<!ENTITY retentionKeepUnread.accesskey "v">
+<!ENTITY retentionKeepRecent.label "šalinti visus išskyrus paskiausius">
+<!ENTITY retentionKeepRecent.accesskey "p">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "visuomet šalinti skaitytus laiškus (nepaisant jų amžiaus)">
 <!ENTITY retentionApplyToFlagged.label "visuomet palikti žvaigždute pažymėtus laiškus">
 <!ENTITY retentionApplyToFlagged.accesskey "ž">
-<!ENTITY nntpRemoveBody.label "šalinti tik laiškus, senesnius nei">
-<!ENTITY nntpRemoveBody.accesskey "s">
+<!ENTITY nntpRemoveMsgBody.label "šalinti laiškus, senesnius nei">
+<!ENTITY nntpRemoveMsgBody.accesskey "š">
 <!ENTITY offlineSelectNntp.label "Parinkti naujienų grupes darbui atsijungus…">
 <!ENTITY offlineSelectNntp.accesskey "P">
 <!ENTITY offlineImapAdvancedOffline.label "Papildomai…">
