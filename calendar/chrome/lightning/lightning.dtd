@@ -45,9 +45,12 @@
 <!ENTITY lightning.taskLabel "„Lightning“">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Įvykis…">
-<!ENTITY lightning.menupopup.new.task.label     "Darbas…">
-<!ENTITY lightning.menupopup.new.calendar.label "Kalendorius…">
+<!ENTITY lightning.menupopup.new.event.label          "Įvykis…">
+<!ENTITY lightning.menupopup.new.event.accesskey      "v">
+<!ENTITY lightning.menupopup.new.task.label           "Darbas…">
+<!ENTITY lightning.menupopup.new.task.accesskey       "D">
+<!ENTITY lightning.menupopup.new.calendar.label       "Kalendorius…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey   "K">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Atverti">
@@ -57,11 +60,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalendoriaus failą…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Kalendorius">
-<!ENTITY lightning.calendar.accesskey        "K">
-<!ENTITY lightning.tasks.label               "Darbai">
-<!ENTITY lightning.tasks.accesskey           "D">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Kalendorius">
+<!ENTITY lightning.menu.view.calendar.accesskey        "K">
+<!ENTITY lightning.menu.view.tasks.label               "Darbai">
+<!ENTITY lightning.menu.view.tasks.accesskey           "D">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Įvykiai ir darbai">
+<!ENTITY lightning.menu.eventtask.accesskey            "v">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "Paštas">

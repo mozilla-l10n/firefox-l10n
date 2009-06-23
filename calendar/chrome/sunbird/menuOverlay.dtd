@@ -163,6 +163,9 @@
 <!ENTITY updateCmd.label                        "Tikrinti ar yra naujinimų…">
 <!ENTITY updateCmd.accesskey                    "T">
 
+<!ENTITY sunbird.export.calendar.label          "Eksportuoti kalendorių…">
+<!ENTITY sunbird.export.calendar.accesskey      "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                       "Langas">
 <!ENTITY minimizeWindow.label                   "Suskleisti">
