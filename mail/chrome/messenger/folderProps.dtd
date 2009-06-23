@@ -60,15 +60,15 @@
 <!ENTITY retentionCleanup.label                  "Taupant vietą diske, senus laiškus galima negrąžinamai šalinti.">
 <!ENTITY retentionCleanupImap.label              "Taupant vietą diske, senus laiškus (tiek vietines kopijas, tiek jų originalus serveryje) galima negrąžinamai šalinti.">
 <!ENTITY retentionCleanupPop.label               "Taupant vietą diske, senus laiškus (taip pat ir jų originalus serveryje) galima negrąžinamai šalinti.">
-<!ENTITY retentionDeleteMsg.label                "šalinti, senesnius nei">
+<!ENTITY retentionDeleteMsg.label                "Šalinti, senesnius nei">
 <!ENTITY retentionDeleteMsg.accesskey            "s">
-<!ENTITY retentionKeepAll.label                  "nešalinti laiškų">
-<!ENTITY retentionKeepAll.accesskey              "n">
-<!ENTITY retentionKeepNew.label                  "šalinti visus išskyrus paskiausius">
-<!ENTITY retentionKeepNew.accesskey              "p">
-<!ENTITY retentionKeepUnread.label               "visuomet šalinti skaitytus laiškus">
-<!ENTITY retentionKeepUnread.accesskey           "v">
-<!ENTITY retentionApplyToFlagged.label           "visuomet palikti žvaigždute pažymėtus laiškus">
+<!ENTITY retentionKeepAll.label                  "Nešalinti laiškų">
+<!ENTITY retentionKeepAll.accesskey              "N">
+<!ENTITY retentionKeepRecent.label               "Šalinti visus išskyrus paskiausius">
+<!ENTITY retentionKeepRecent.accesskey           "p">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label         "Visuomet šalinti skaitytus laiškus (neatsižvelgiant į jų amžių)">
+<!ENTITY retentionApplyToFlagged.label           "Visuomet palikti žvaigždute pažymėtus laiškus">
 <!ENTITY retentionApplyToFlagged.accesskey       "ž">
 
 <!ENTITY folderSynchronizationTab.label          "Sinchronizavimas">
