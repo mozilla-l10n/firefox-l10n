@@ -193,7 +193,7 @@
 
 <!ENTITY view.addons.label   "Отримати додатків перегляду">
 
-<!ENTITY maintenance.label      "Імпортування та резервні копії">
+<!ENTITY maintenance.label      "Імпорт та резервні копії">
 <!ENTITY maintenance.accesskey  "І">
 
 <!ENTITY backCmd.label       "Назад">
