@@ -64,13 +64,13 @@
 
 <!ENTITY bookmarksMenu.label "Закладки">
 <!ENTITY bookmarksMenu.accesskey "З">
-<!ENTITY bookmarkThisPageCmd.label "Додати сторінку в закладки">
+<!ENTITY bookmarkThisPageCmd.label "Закласти цю сторінку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Підписатися на цю сторінку">
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
-<!ENTITY addCurPagesCmd.label "Додати всі вкладки в закладки…">
+<!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
 <!ENTITY organizeBookmarks.label "Впорядкувати закладки…">
-<!ENTITY bookmarkAllCmd.label "Додати всі вкладки в закладки…">
+<!ENTITY bookmarkAllCmd.label "Закласти всі вкладки…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати решту закладок">
 
 <!ENTITY backCmd.label                "Назад">
@@ -266,11 +266,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "т">
 <!ENTITY setDesktopBackgroundCmd.label      "Встановити як тло робочого столу…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "с">
-<!ENTITY bookmarkPageCmd2.label       "Додати цю сторінку в закладки">
+<!ENTITY bookmarkPageCmd2.label       "Закласти цю сторінку">
 <!ENTITY bookmarkPageCmd2.accesskey   "з">
-<!ENTITY bookmarkThisLinkCmd.label      "Додати в закладки це посилання">
+<!ENTITY bookmarkThisLinkCmd.label      "Закласти це посилання">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "Д">
-<!ENTITY bookmarkThisFrameCmd.label      "Додати цей фрейм до закладок">
+<!ENTITY bookmarkThisFrameCmd.label      "Закласти цей фрейм">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ф">
 <!ENTITY sendPageCmd.label            "Відіслати посилання…">
 <!ENTITY sendPageCmd.accesskey        "с">
