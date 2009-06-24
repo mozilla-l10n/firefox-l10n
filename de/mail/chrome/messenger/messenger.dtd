@@ -132,7 +132,7 @@
 <!ENTITY showMessageCmd.accesskey "c">
 
 <!ENTITY folderView.label "Ordner">
-<!ENTITY folderView.accesskey "O">
+<!ENTITY folderView.accesskey "d">
 <!ENTITY allFolders.label "Alle">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Ungelesene">
@@ -144,7 +144,7 @@
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortieren nach">
-<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortMenu.accesskey "r">
 <!ENTITY sortByDateCmd.label "Datum">
 <!ENTITY sortByDateCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label "Empfangen">
@@ -209,8 +209,8 @@
 <!ENTITY headersAllCmd.accesskey "a">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Nachrichtentext">
-<!ENTITY bodyMenu.accesskey "x">
+<!ENTITY bodyMenu.label "Nachrichteninhalt">
+<!ENTITY bodyMenu.accesskey "e">
 <!ENTITY bodyAllowHTML.label "Original HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Vereinfachtes HTML">
@@ -579,7 +579,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY glodaSearchFacet.involves.label "Beteiligte (Von, An, CC, BCC)">
 <!ENTITY glodaSearchFacet.to.label "An, CC">
 <!ENTITY glodaSearchFacet.from.label "Von">
-<!ENTITY glodaSearchFacet.body.label "Nachrichtentext">
+<!ENTITY glodaSearchFacet.body.label "Inhalt">
 <!ENTITY glodaSearchFacet.attachmentNames.label "Namen der Anhänge">
 
 <!ENTITY glodaSearchBar.location.label "Ablageort:">
@@ -592,7 +592,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchSubjectOrFromMenu.label "Betreff oder Von">
 <!ENTITY searchRecipient.label "An oder CC">
 <!ENTITY searchSubjectOrRecipientMenu.label "Betreff, An oder CC">
-<!ENTITY searchMessageBody.label "Nachrichtentext">
+<!ENTITY searchMessageBody.label "Inhalt">
 <!ENTITY saveAsVirtualFolderMenu.label "Als virtuellen Ordner speichern…">
 
 <!-- Thread Pane -->
