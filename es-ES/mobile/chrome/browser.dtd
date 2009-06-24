@@ -82,3 +82,5 @@
 <!ENTITY consoleErrFile.label "Archivo de origen:">
 <!ENTITY consoleErrLine.label "Línea:">
 <!ENTITY consoleErrColumn.label "Columna:">
+<!ENTITY selectListDone.label "Terminado">
+<!ENTITY selectListDisplay.format "#1 ítem">
