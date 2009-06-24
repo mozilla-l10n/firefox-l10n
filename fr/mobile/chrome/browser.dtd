@@ -101,3 +101,6 @@
 <!ENTITY consoleErrFile.label "Fichier source :">
 <!ENTITY consoleErrLine.label "Ligne :">
 <!ENTITY consoleErrColumn.label "Colonne :">
+
+<!ENTITY selectListDone.label "Terminé">
+<!ENTITY selectListDisplay.format  "#1 éléments">
