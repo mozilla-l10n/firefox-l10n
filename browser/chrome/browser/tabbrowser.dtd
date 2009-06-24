@@ -12,9 +12,9 @@
 <!ENTITY  openTabInNewWindow.label    "Відкрити у новому вікні">
 <!ENTITY  openTabInNewWindow.accesskey "в">
 <!ENTITY  listAllTabs.label      "Список усіх вкладок">
-<!ENTITY  bookmarkAllTabs.label       "Додати всі вкладки в закладки…">
+<!ENTITY  bookmarkAllTabs.label       "Закласти всі вкладки…">
 <!ENTITY  bookmarkAllTabs.accesskey   "Д">
-<!ENTITY  bookmarkThisTab.label       "Поставити закладку на цю вкладку">
+<!ENTITY  bookmarkThisTab.label       "Закласти цю вкладку">
 <!ENTITY  bookmarkThisTab.accesskey   "в">
 <!ENTITY  undoCloseTab.label          "Повернути закриту вкладку">
 <!ENTITY  undoCloseTab.accesskey      "з">
