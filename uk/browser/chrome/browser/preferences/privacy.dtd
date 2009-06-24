@@ -103,10 +103,10 @@
 <!ENTITY  rememberSearchForm.accesskey   "ф">
 
 <!ENTITY  clearOnClose.label             "Очищати історію коли &brandShortName; закривається">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "к">
 
-<!ENTITY  clearOnCloseSettings.label     "Налаштування…">
-<!ENTITY  clearOnCloseSettings.accesskey "з">
+<!ENTITY  clearOnCloseSettings.label     "Вподобання…">
+<!ENTITY  clearOnCloseSettings.accesskey "В">
 
 <!ENTITY  clearDataNow.label             "Очистити зараз…">
 <!ENTITY  clearDataNow.accesskey         "и">
