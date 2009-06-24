@@ -49,15 +49,19 @@
 <!ENTITY newevent.to.label                  "到" >
 <!ENTITY newevent.attendees.notify.label    "通知参加者">
 
-<!ENTITY newevent.status.label              "状态" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "未指定" >
-<!ENTITY newevent.status.cancelled.label    "已取消" >
-<!ENTITY newevent.status.tentative.label    "暂定" >
-<!ENTITY newevent.status.confirmed.label    "已确认" >
-<!ENTITY newevent.status.needsaction.label  "将处理" >
-<!ENTITY newevent.status.inprogress.label   "处理中" >
-<!ENTITY newevent.status.completed.label    "已完成" >
+<!ENTITY newevent.status.label                "状态" >
+<!ENTITY newevent.status.accesskey            "S" >
+<!ENTITY newevent.status.none.label           "未指定" >
+<!ENTITY newevent.status.none.accesskey       "o" >
+<!ENTITY newevent.status.cancelled.label      "已取消" >
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
+<!ENTITY newevent.status.tentative.label      "暂定" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
+<!ENTITY newevent.status.confirmed.label      "已确认" >
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
+<!ENTITY newevent.status.needsaction.label    "将处理" >
+<!ENTITY newevent.status.inprogress.label     "处理中" >
+<!ENTITY newevent.status.completed.label      "已完成" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; 完成">
@@ -180,13 +184,13 @@
 <!ENTITY event.calendar.label                             "日历：" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "参与者：" >
-<!ENTITY event.attendees.accesskey                        "A" >
+<!ENTITY event.attendees.accesskey                        "I" >
 <!ENTITY event.alldayevent.label                          "全天事件" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "开始：" >
 <!ENTITY event.from.accesskey                             "S">
 <!ENTITY task.from.label                                  "开始：" >
-<!ENTITY task.from.accesskey                              "S">
+<!ENTITY task.from.accesskey                              "B">
 <!ENTITY event.to.label                                   "结束：" >
 <!ENTITY event.to.accesskey                               "n">
 <!ENTITY task.to.label                                    "截止时间：" >
@@ -349,6 +353,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "暂定" >
 <!ENTITY event.freebusy.legend.busy_unavailable "不在办公室" >
 <!ENTITY event.freebusy.legend.unknown          "无信息" >
+<!ENTITY event.attendee.role.required           "必须参与者">
+<!ENTITY event.attendee.role.optional           "可选参与者">
+<!ENTITY event.attendee.role.chair              "主席">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "请指定时区">

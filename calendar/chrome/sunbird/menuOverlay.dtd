@@ -81,11 +81,11 @@
 
 <!ENTITY calendar.undo.label                               "撤消">
 <!ENTITY calendar.undo.key                                 "Z">
-<!ENTITY calendar.undo.accesskey                           "U">
+<!ENTITY calendar.undo.accesskey                           "u">
 
 <!ENTITY calendar.redo.label                               "重做">
 <!ENTITY calendar.redo.key                                 "Y">
-<!ENTITY calendar.redo.accesskey                           "R">
+<!ENTITY calendar.redo.accesskey                           "r">
 
 <!ENTITY calendar.cut.label                                "剪切">
 <!ENTITY calendar.cut.key                                  "X">
@@ -163,6 +163,9 @@
 
 <!ENTITY updateCmd.label                                   "检查更新…">
 <!ENTITY updateCmd.accesskey                               "o">
+
+<!ENTITY sunbird.export.calendar.label                     "导出日历…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
 
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "窗口">

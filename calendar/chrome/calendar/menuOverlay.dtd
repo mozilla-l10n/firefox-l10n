@@ -62,13 +62,16 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.calendar.label         "导出日历…">
-<!ENTITY calendar.export.calendar.accesskey     "E">
+<!ENTITY calendar.export.label                  "导出…">
+<!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "导出已选…">
 <!ENTITY calendar.export.selection.accesskey    "S">
 
 <!ENTITY calendar.publish.label                 "发布…">
 <!ENTITY calendar.publish.accesskey             "b">
+
+<!ENTITY calendar.deletecalendar.label          "删除选中日历…">
+<!ENTITY calendar.deletecalendar.accesskey      "D">
 
 <!ENTITY calendar.menu.customize.label          "自定义…">
 <!ENTITY calendar.menu.customize.accesskey      "C">
@@ -98,11 +101,6 @@
 <!ENTITY goNextCmd.week.label                   "后一周">
 <!ENTITY goNextCmd.month.label                  "后一月">
 <!ENTITY goNextCmd.all.accesskey                "e">
-
-<!ENTITY addressBookCmd.label                   "通讯录">
-<!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY calendar.importcalendar.label          "导入日历…">
 
 <!ENTITY showCurrentView.label                  "当前视图">
 <!ENTITY showCurrentView.accesskey              "V">
