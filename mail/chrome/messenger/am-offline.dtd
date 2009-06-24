@@ -24,7 +24,7 @@
 <!ENTITY retentionKeepUnreadHidden.label "Gelesene Nachrichten immer löschen (trotz der vorherigen Einstellungen!)">
 <!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
 <!ENTITY retentionApplyToFlagged.accesskey "z">
-<!ENTITY nntpRemoveMsgBody.label "Lösche Nachrichtentexte, die älter sind als">
+<!ENTITY nntpRemoveMsgBody.label "Lösche Nachrichteninhalte, die älter sind als">
 <!ENTITY nntpRemoveMsgBody.accesskey "L">
 <!ENTITY offlineSelectNntp.label "Newsgruppen zum Offline-Lesen wählen…">
 <!ENTITY offlineSelectNntp.accesskey "w">
