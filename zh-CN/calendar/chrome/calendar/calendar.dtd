@@ -100,6 +100,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "后一月" >
 <!ENTITY calendar.prevmonth.button.tooltip      "前一月" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "下一日" >
+<!ENTITY calendar.navigation.prevday.tooltip    "上一日" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "下一周" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "上一周" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "下一月" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "上一月" >
+
 <!ENTITY calendar.newevent.button.label         "新建事件" >
 <!ENTITY calendar.newtask.button.label          "新建任务" >
 <!ENTITY calendar.print.button.label            "打印" >
