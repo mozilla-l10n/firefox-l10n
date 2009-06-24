@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey "ب">
 <!ENTITY cmd.installFileAddon.tooltip "ثبّت إضافة">
 <!ENTITY cmd.installFileTheme.tooltip "ثبّت سِمة">
-<!ENTITY cmd.installUpdatesAll.label "ثبّت التحديثات">
-<!ENTITY cmd.installUpdatesAll.accesskey "ث">
-<!ENTITY cmd.installUpdatesAll.tooltip "ثبّت التحديثات المختارة">
+<!ENTITY cmd.installUpdatesAll2.label     "ثبّت التحديثات">
+<!ENTITY cmd.installUpdatesAll2.accesskey "ح">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "ثبّت التحديثات المختارة">
 <!ENTITY cmd.restartApp2.label "أعِد تشغيل &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "ش">
 <!ENTITY cmd.restartApp2.tooltip "أعِد تشغيل &brandShortName; لتطبيق التغييرات">

@@ -82,16 +82,22 @@
 <!ENTITY noResults.label           "لا نتائج">
 
 <!ENTITY identity.unverifiedsite2 "لا يزوّد موقع الوب هذا معلومات تعريفية.">
-<!ENTITY identity.connectedTo "تتصل ب‍">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2 "متصل ب‍">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "يعمل باستخدام">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "يديره">
+<!ENTITY consoleHeader.label       "معراض الأخطاء">
+<!ENTITY consoleAll.label          "الكل">
+<!ENTITY consoleErrors.label       "الأخطاء">
+<!ENTITY consoleWarnings.label     "التحذيرات">
+<!ENTITY consoleMessages.label     "الرسائل">
+<!ENTITY consoleCodeEval.label     "الكود:">
+<!ENTITY consoleClear.label        "امسح">
+<!ENTITY consoleEvaluate.label     "قيّم">
+<!ENTITY consoleErrFile.label      "ملف المصدر:">
+<!ENTITY consoleErrLine.label      "السطر:">
+<!ENTITY consoleErrColumn.label    "العمود:">

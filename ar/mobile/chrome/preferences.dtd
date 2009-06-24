@@ -2,8 +2,6 @@
 <!ENTITY showImages.title                          "أظهِر الصور">
 <!ENTITY enableJavaScript.title                    "فعّل جافاسكربت">
 <!ENTITY enableJavaScript.description              "معظم المواقع التفاعلية تستخدم جافاسكربت">
-<!ENTITY javascript.options.jit.content.title      "فعّل تتبع جافاسكربت">
-<!ENTITY javascript.options.jit.content.description "يستخدم تصريف الشيفرة الأصلية في جافاسكربت">
 <!ENTITY enablePlugins.title                       "فعّل الملحقات">
 <!ENTITY enablePlugins.description                 "تُستخدم الملحقات من أجل المحتويات الخاصة كالفيديو">
 <!ENTITY privacy.title                             "الخصوصية والسرية">
@@ -13,4 +11,3 @@
 <!ENTITY clearPrivateData.button                   "امسح">
 <!ENTITY clearPrivateData.description              "يساعد التأريخ &brandShortName; على تقديم اقتراحات لأسماء مواقع الوب التي تقصدها">
 <!ENTITY rememberPasswords.title                   "تذكّر كلمات السر">
-
