@@ -269,7 +269,7 @@
 <!ENTITY bookmarkPageCmd2.label       "Закласти цю сторінку">
 <!ENTITY bookmarkPageCmd2.accesskey   "з">
 <!ENTITY bookmarkThisLinkCmd.label      "Закласти це посилання">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "п">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Закласти цей фрейм">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ф">
 <!ENTITY sendPageCmd.label            "Відіслати посилання…">
