@@ -29,9 +29,11 @@
 <!ENTITY import.label "استورِد…">
 <!ENTITY import.accesskey "س">
 
-<!ENTITY goOfflineCmd.label "اعمل دون اتّصال">
+<!ENTITY goOfflineCmd.label "اعمل دون اتصال">
 <!ENTITY goOfflineCmd.accesskey "ع">
 
+<!ENTITY menubarCmd.label "شريط القوائم">
+<!ENTITY menubarCmd.accesskey "ق">
 <!ENTITY navbarCmd.label "شريط التصفح">
 <!ENTITY navbarCmd.accesskey "ف">
 <!ENTITY personalbarCmd.label "شريط العلامات">
