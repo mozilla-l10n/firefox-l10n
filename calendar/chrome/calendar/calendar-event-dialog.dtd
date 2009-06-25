@@ -80,6 +80,8 @@
 <!ENTITY event.menu.file.close.accesskey "F">
 <!ENTITY event.menu.file.save.label "Enregistrer">
 <!ENTITY event.menu.file.save.accesskey "E">
+<!ENTITY event.menu.item.delete.label "Supprimer…">
+<!ENTITY event.menu.item.delete.accesskey "u">
 <!ENTITY event.menu.file.page.setup.label "Mise en page">
 <!ENTITY event.menu.file.page.setup.accesskey "s">
 <!ENTITY event.menu.file.print.label "Imprimer">
@@ -168,6 +170,7 @@
 
 <!-- Toolbar -->
 <!ENTITY event.toolbar.save.label "Enregistrer et fermer">
+<!ENTITY event.toolbar.delete.label "Supprimer">
 <!ENTITY event.toolbar.attendees.label "Participants">
 <!ENTITY event.toolbar.spellcheck.label "Orthographe">
 <!ENTITY event.toolbar.privacy.label "Confidentialité">
