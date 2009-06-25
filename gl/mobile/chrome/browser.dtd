@@ -115,3 +115,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY consoleErrFile.label      "Ficheiro de orixe:">
 <!ENTITY consoleErrLine.label      "Liña:">
 <!ENTITY consoleErrColumn.label    "Columna:">
+
+<!ENTITY selectListDone.label      "Feito">
+<!ENTITY selectListDisplay.format  "#1 elementos">
