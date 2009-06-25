@@ -36,9 +36,6 @@
 <!ENTITY errorpatching.title "Помилка оновлення">
 <!ENTITY errorpatching.intro "Часткове оновлення не може бути встановлене. &brandShortName; спробує встановити оновлення, завантаживши повне оновлення.">
 
-
-<!ENTITY finishedBackground.name "Оновлення:">
-
 <!ENTITY installed.title "Оновлення встановлено">
 <!ENTITY installed.intro "Оновлення було успішно встановлено.">
 <!ENTITY whatsnew.label "Зміни в новій версії…">
