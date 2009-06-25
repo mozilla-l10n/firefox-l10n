@@ -80,6 +80,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "S">
 <!ENTITY  event.menu.file.save.label                      "Speichern">
 <!ENTITY  event.menu.file.save.accesskey                  "p">
+<!ENTITY  event.menu.item.delete.label                    "Löschen…">
+<!ENTITY  event.menu.item.delete.accesskey                "L">
 <!ENTITY  event.menu.file.page.setup.label                "Seite einrichten">
 <!ENTITY  event.menu.file.page.setup.accesskey            "e">
 <!ENTITY  event.menu.file.print.label                     "Drucken">
@@ -168,6 +170,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Speichern und Schließen">
+<!ENTITY  event.toolbar.delete.label                      "Löschen">
 <!ENTITY  event.toolbar.attendees.label                   "Teilnehmer einladen">
 <!ENTITY  event.toolbar.spellcheck.label                  "Rechtschreibprüfung">
 <!ENTITY  event.toolbar.privacy.label                     "Privatsphäre">
