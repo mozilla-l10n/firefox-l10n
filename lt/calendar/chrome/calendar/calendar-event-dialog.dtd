@@ -81,6 +81,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "U">
 <!ENTITY  event.menu.file.save.label                      "Įrašyti">
 <!ENTITY  event.menu.file.save.accesskey                  "r">
+<!ENTITY  event.menu.item.delete.label                    "Pašalinti…">
+<!ENTITY  event.menu.item.delete.accesskey                "š">
 <!ENTITY  event.menu.file.page.setup.label                "Puslapio nuostatos">
 <!ENTITY  event.menu.file.page.setup.accesskey            "P">
 <!ENTITY  event.menu.file.print.label                     "Spausdinti">
@@ -169,6 +171,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Įrašyti ir užverti">
+<!ENTITY  event.toolbar.delete.label                      "Pašalinti">
 <!ENTITY  event.toolbar.attendees.label                   "Pakviesti dalyvius">
 <!ENTITY  event.toolbar.spellcheck.label                  "Tikrinti rašybą">
 <!ENTITY  event.toolbar.privacy.label                     "Viešumas">
