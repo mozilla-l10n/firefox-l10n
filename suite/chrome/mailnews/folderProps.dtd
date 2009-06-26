@@ -61,10 +61,10 @@
 <!ENTITY retentionDeleteMsg.accesskey "c">
 <!ENTITY retentionKeepAll.label "Alle Nachrichten">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Die neuesten">
-<!ENTITY retentionKeepNew.accesskey "D">
-<!ENTITY retentionKeepUnread.label "Nur ungelesene Nachrichten">
-<!ENTITY retentionKeepUnread.accesskey "N">
+<!ENTITY retentionKeepRecent.label "Die neuesten">
+<!ENTITY retentionKeepRecent.accesskey "e">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Gelesene Nachrichten immer löschen (übergeht Alterseinstellungen)">
 <!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
 <!ENTITY retentionApplyToFlagged.accesskey "G">
 
