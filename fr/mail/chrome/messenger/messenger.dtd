@@ -625,6 +625,11 @@ you can use these alternative items. Otherwise, their values should be empty.
      present in the gloda search results.  The values can be found in
      messenger.properties with a prefix of "glodaSearch_results_why_". -->
 <!ENTITY glodaWhyColumn.label "Raison">
+<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
+     score assigned to the message as a result of the search.  The column
+     primarily exists to be sorted by, and its contents will probably have
+     little meaning for most users. -->
+<!ENTITY glodaScoreColumn.label "Pertinence">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Cliquez pour choisir les colonnes à afficher">
@@ -648,6 +653,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY idColumn.tooltip "Cliquez pour trier par ordre de réception">
 <!ENTITY attachmentColumn.tooltip "Cliquez pour trier par pièces jointes">
 <!ENTITY glodaWhyColumn.tooltip "Cliquez pour trier par raison de présence dans les résultats de recherche">
+<!ENTITY glodaScoreColumn.tooltip "Cliquez pour trier par degré de pertinence">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Ouvrir dans une nouvelle fenêtre">
