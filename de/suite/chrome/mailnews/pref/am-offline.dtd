@@ -18,14 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey "N">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten löschen">
 <!ENTITY retentionKeepAll.accesskey "K">
-<!ENTITY retentionKeepNew.label "Alle löschen außer den letzten">
-<!ENTITY retentionKeepNew.accesskey "A">
-<!ENTITY retentionKeepUnread.label "Gelesene Nachrichten immer löschen">
-<!ENTITY retentionKeepUnread.accesskey "G">
+<!ENTITY retentionKeepRecent.label "Alle Nachrichten löschen mit Ausnahme der neuesten">
+<!ENTITY retentionKeepRecent.accesskey "A">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Gelesene Nachrichten immer löschen (übergeht Alterseinstellungen)">
 <!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveBody.label "Nur Nachrichtentexte, die jünger sind als">
-<!ENTITY nntpRemoveBody.accesskey "x">
+<!ENTITY nntpRemoveMsgBody.label "Nachrichtentext für Nachrichten entfernen, die älter sind als">
+<!ENTITY nntpRemoveMsgBody.accesskey "x">
 <!ENTITY offlineSelectNntp.label "Newsgroups für Offline-Gebrauch wählen…">
 <!ENTITY offlineSelectNntp.accesskey "O">
 <!ENTITY offlineImapAdvancedOffline.label "Erweitert…">
