@@ -82,3 +82,5 @@
 <!ENTITY consoleErrFile.label "Источник:">
 <!ENTITY consoleErrLine.label "Строка:">
 <!ENTITY consoleErrColumn.label "Символ:">
+<!ENTITY selectListDone.label "Готово">
+<!ENTITY selectListDisplay.format "#1 элементов">
