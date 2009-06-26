@@ -554,6 +554,7 @@
 <!ENTITY idColumn.label "Порядок получения">
 <!ENTITY attachmentColumn.label "Вложения">
 <!ENTITY glodaWhyColumn.label "Причина">
+<!ENTITY glodaScoreColumn.label "Оценка">
 <!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать колонки для отображения">
 <!ENTITY threadColumn.tooltip "Нажмите здесь, чтобы просмотреть обсуждения">
 <!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
@@ -575,6 +576,7 @@
 <!ENTITY idColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по порядку получения">
 <!ENTITY attachmentColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию вложений">
 <!ENTITY glodaWhyColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по причине их появления в результатах поиска">
+<!ENTITY glodaScoreColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по оценке поиска">
 <!ENTITY contextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY contextOpenNewWindow.accesskey "н">
 <!ENTITY contextOpenNewTab.label "Открыть в новой вкладке">

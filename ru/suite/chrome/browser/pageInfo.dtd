@@ -19,8 +19,8 @@
 <!ENTITY generalEncoding "Кодировка:">
 <!ENTITY generalMetaName "Имя">
 <!ENTITY generalMetaContent "Содержимое">
-<!ENTITY generalSecurityMore "Подробнее">
-<!ENTITY generalSecurityMore.accesskey "д">
+<!ENTITY generalSecurityDetails "Подробнее">
+<!ENTITY generalSecurityDetails.accesskey "о">
 <!ENTITY formsTab "Формы">
 <!ENTITY formsTab.accesskey "о">
 <!ENTITY formAction "Обработчик">
