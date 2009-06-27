@@ -90,3 +90,15 @@
  just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy2 "beheerd door">
 
+<!ENTITY consoleHeader.label       "Foutconsole">
+<!ENTITY consoleAll.label          "Allea">
+<!ENTITY consoleErrors.label       "Fouten">
+<!ENTITY consoleWarnings.label     "Waarschuwingen">
+<!ENTITY consoleMessages.label     "Berichten">
+<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleClear.label        "Wissen">
+<!ENTITY consoleEvaluate.label     "Evalueren">
+<!ENTITY consoleErrFile.label      "Bronbestand:">
+<!ENTITY consoleErrLine.label      "Regel:">
+<!ENTITY consoleErrColumn.label    "Kolom:">
+
