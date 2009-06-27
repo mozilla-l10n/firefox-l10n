@@ -67,7 +67,7 @@
 <!ENTITY calendar.reloadserver.accesskey                   "r">
 
 <!ENTITY calendar.publish.calendar.label                   "Agenda publiceren…">
-<!ENTITY calendar.publish.calendar.accesskey               "p">
+<!ENTITY calendar.publish.calendar.accesskey               "u">
 <!ENTITY calendar.publish.selection.label                  "Selectie publiceren…">
 <!ENTITY calendar.publish.selection.accesskey              "c">
 

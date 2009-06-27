@@ -44,7 +44,7 @@
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Nieuwe gebeurtenis…">
 <!ENTITY event.new.event.key                    "N">
-<!ENTITY event.new.event.accesskey              "u">
+<!ENTITY event.new.event.accesskey              "b">
 
 <!ENTITY event.new.todo                         "Nieuwe taak…">
 <!ENTITY event.new.todo.key                     "T">
@@ -68,7 +68,7 @@
 <!ENTITY calendar.export.selection.accesskey    "e">
 
 <!ENTITY calendar.publish.label                 "Publiceren…">
-<!ENTITY calendar.publish.accesskey             "P">
+<!ENTITY calendar.publish.accesskey             "u">
 
 <!ENTITY calendar.deletecalendar.label          "Geselecteerde agenda verwijderen…">
 <!ENTITY calendar.deletecalendar.accesskey      "G">
