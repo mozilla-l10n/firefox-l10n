@@ -82,8 +82,10 @@
 <!ENTITY  event.menu.file.close.accesskey                 "Z">
 <!ENTITY  event.menu.file.save.label                      "Zapisz">
 <!ENTITY  event.menu.file.save.accesskey                  "s">
+<!ENTITY  event.menu.item.delete.label                    "Usuń…">
+<!ENTITY  event.menu.item.delete.accesskey                "U">
 <!ENTITY  event.menu.file.page.setup.label                "Ustawienia strony">
-<!ENTITY  event.menu.file.page.setup.accesskey            "U">
+<!ENTITY  event.menu.file.page.setup.accesskey            "a">
 <!ENTITY  event.menu.file.print.label                     "Drukuj">
 <!ENTITY  event.menu.file.print.accesskey                 "D">
 
