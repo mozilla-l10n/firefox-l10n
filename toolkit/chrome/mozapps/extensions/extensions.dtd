@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "s">
 <!ENTITY cmd.installFileAddon.tooltip     "Een add-on installeren">
 <!ENTITY cmd.installFileTheme.tooltip     "Een thema installeren">
-<!ENTITY cmd.installUpdatesAll.label      "Updates installeren">
-<!ENTITY cmd.installUpdatesAll.accesskey  "i">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Installeert de geselecteerde updates">
+<!ENTITY cmd.installUpdatesAll2.label     "Updates installeren">
+<!ENTITY cmd.installUpdatesAll2.accesskey "i">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Installeer de geselecteerde updates">
 <!ENTITY cmd.restartApp2.label            "&brandShortName; herstarten">
 <!ENTITY cmd.restartApp2.accesskey        "h">
 <!ENTITY cmd.restartApp2.tooltip          "Herstart &brandShortName; om wijzigingen toe te passen">
