@@ -102,3 +102,7 @@
 <!ENTITY consoleErrLine.label      "Regel:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
+<!ENTITY selectListDone.label      "Klaar">
+<!ENTITY selectListDisplay.format  "#1 items">
+
+
