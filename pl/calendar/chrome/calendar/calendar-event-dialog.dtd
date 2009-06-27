@@ -173,6 +173,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Zapisz i zamknij">
+<!ENTITY  event.toolbar.delete.label                      "Usuń">
 <!ENTITY  event.toolbar.attendees.label                   "Zaproś uczestników">
 <!ENTITY  event.toolbar.spellcheck.label                  "Sprawdzanie pisowni">
 <!ENTITY  event.toolbar.privacy.label                     "Prywatność">
