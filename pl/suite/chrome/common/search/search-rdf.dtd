@@ -1,3 +1,1 @@
-<!-- not sure if this file is even needed (Bug 492859) -->
-<!-- not sure if that string should be localized... -->
-<!ENTITY search.category.web "Web">
+<!ENTITY search.category.web "Sieć">
