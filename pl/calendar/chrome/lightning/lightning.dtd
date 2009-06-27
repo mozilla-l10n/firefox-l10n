@@ -46,9 +46,12 @@
 <!ENTITY lightning.taskLabel "Lightning">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Wydarzenie…">
-<!ENTITY lightning.menupopup.new.task.label     "Zadanie…">
-<!ENTITY lightning.menupopup.new.calendar.label "Kalendarz…">
+<!ENTITY lightning.menupopup.new.event.label        "Wydarzenie…">
+<!ENTITY lightning.menupopup.new.event.accesskey    "W">
+<!ENTITY lightning.menupopup.new.task.label         "Zadanie…">
+<!ENTITY lightning.menupopup.new.task.accesskey     "Z">
+<!ENTITY lightning.menupopup.new.calendar.label     "Kalendarz…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "a">
 
 <!-- Open menu popup in File menu -->  
 <!ENTITY lightning.menupopup.open.label               "Otwórz">
