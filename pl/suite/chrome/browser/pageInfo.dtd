@@ -45,7 +45,7 @@
 <!ENTITY copy.accesskey "K">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Zaznacz wszystko">
-<!ENTITY selectall.accesskey "A">
+<!ENTITY selectall.accesskey "a">
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "Ogólne">
@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Kodowanie:">
 <!ENTITY generalMetaName "Nazwa">
 <!ENTITY generalMetaContent "Treści">
-<!ENTITY generalSecurityMore "Więcej">
-<!ENTITY generalSecurityMore.accesskey "c">
+<!ENTITY generalSecurityDetails "Szczegóły">
+<!ENTITY generalSecurityDetails.accesskey "S">
 
 <!ENTITY formsTab "Formularze">
 <!ENTITY formsTab.accesskey "F">
@@ -101,7 +101,7 @@
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs "Zapisz jako…">
 <!ENTITY mediaSaveAs.accesskey "Z">
-<!ENTITY mediaSaveAs2.accesskey "e">
+<!ENTITY mediaSaveAs2.accesskey "a">
 <!ENTITY mediaPreview "Podgląd:">
 
 <!ENTITY feedTab "Kanały">
@@ -110,7 +110,7 @@
 <!ENTITY feedSubscribe.accesskey "u">
 
 <!ENTITY permTab "Uprawnienia">
-<!ENTITY permTab.accesskey "P">
+<!ENTITY permTab.accesskey "U">
 <!ENTITY permUseDefault "Użyj domyślnych">
 <!ENTITY permAllow "Zezwól">
 <!ENTITY permAllowSession "Zezwól na czas sesji">
@@ -122,10 +122,10 @@
 <!ENTITY permInstall "Instalacja rozszerzeń i motywów">
 
 <!ENTITY securityTab "Bezpieczeństwo">
-<!ENTITY securityTab.accesskey "S">
+<!ENTITY securityTab.accesskey "B">
 <!ENTITY securityHeader "Informacje dotyczące bezpieczeństwa tej strony">
 <!ENTITY securityView.certView "Wyświetl certyfikat">
-<!ENTITY securityView.accesskey "V">
+<!ENTITY securityView.accesskey "c">
 <!ENTITY securityView.unknown "Nieznany">
 
 
@@ -141,6 +141,6 @@
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
 <!ENTITY securityView.privacy.passwords "Czy hasła użyte na tej witrynie zostały zapisane?">
 <!ENTITY securityView.privacy.viewPasswords "Wyświetl zapisane hasła">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "w">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "W">
 
 <!ENTITY securityView.technical.header "Szczegóły techniczne">
