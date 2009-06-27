@@ -225,7 +225,7 @@
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "Niet gespecificeerd">
-<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.none.accesskey      "e">
 <!ENTITY priority.level.low                 "Laag">
 <!ENTITY priority.level.low.accesskey       "L">
 <!ENTITY priority.level.normal              "Normaal">
@@ -243,7 +243,7 @@
 <!ENTITY calendar.context.reloadserver.label           "Agenda’s op andere computer(s) verversen">
 <!ENTITY calendar.context.reloadserver.accesskey       "c">
 <!ENTITY calendar.context.publish.label                "Agenda publiceren">
-<!ENTITY calendar.context.publish.accesskey            "p">
+<!ENTITY calendar.context.publish.accesskey            "u">
 <!ENTITY calendar.context.export.label                 "Agenda exporteren…">
 <!ENTITY calendar.context.export.accesskey             "x">
 <!ENTITY calendar.context.properties.label             "Eigenschappen">

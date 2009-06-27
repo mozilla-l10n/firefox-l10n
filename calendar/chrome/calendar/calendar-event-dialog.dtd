@@ -81,6 +81,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "S">
 <!ENTITY  event.menu.file.save.label                      "Opslaan">
 <!ENTITY  event.menu.file.save.accesskey                  "O">
+<!ENTITY  event.menu.item.delete.label                    "Verwijderen…">
+<!ENTITY  event.menu.item.delete.accesskey                "V">
 <!ENTITY  event.menu.file.page.setup.label                "Pagina-instellingen">
 <!ENTITY  event.menu.file.page.setup.accesskey            "i">
 <!ENTITY  event.menu.file.print.label                     "Afdrukken">
@@ -169,6 +171,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Opslaan en sluiten">
+<!ENTITY  event.toolbar.delete.label                      "Verwijderen">
 <!ENTITY  event.toolbar.attendees.label                   "Genodigden uitnodigen">
 <!ENTITY  event.toolbar.spellcheck.label                  "Spellingcontrole">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
