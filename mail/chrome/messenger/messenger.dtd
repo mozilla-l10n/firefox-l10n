@@ -622,6 +622,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      present in the gloda search results.  The values can be found in
      messenger.properties with a prefix of "glodaSearch_results_why_". -->
 <!ENTITY glodaWhyColumn.label "Hvorfor">
+<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
+     score assigned to the message as a result of the search.  The column
+     primarily exists to be sorted by, and its contents will probably have
+     little meaning for most users. -->
+<!ENTITY glodaScoreColumn.label "Poengsum">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Trykk her for å velge kolonner du vil vise">
@@ -645,6 +650,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottaksrekkefølge">
 <!ENTITY attachmentColumn.tooltip "Trykk her for å sortere etter vedlegg">
 <!ENTITY glodaWhyColumn.tooltip "Trykk her for å sortere etter hvorfor meldingen er i søkeresultatet">
+<!ENTITY glodaScoreColumn.tooltip "Trykk her for å sortere etter søkerelevans">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Åpne melding i nytt vindu">

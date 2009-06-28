@@ -61,10 +61,10 @@
 <!ENTITY retentionDeleteMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
 <!ENTITY retentionKeepAll.accesskey "I">
-<!ENTITY retentionKeepNew.label "Slett alle med unntak av de siste">
-<!ENTITY retentionKeepNew.accesskey "S">
-<!ENTITY retentionKeepUnread.label "Alltid slett leste meldinger">
-<!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY retentionKeepRecent.label "Slett alle med unntak av de nyeste">
+<!ENTITY retentionKeepRecent.accesskey "S">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Alltid slett leste meldinger (overstyr levetid-innstillinger)">
 <!ENTITY retentionApplyToFlagged.label "Alltid behold meldinger merket med stjerne">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 
