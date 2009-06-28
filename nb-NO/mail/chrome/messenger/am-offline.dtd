@@ -18,14 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
 <!ENTITY retentionKeepAll.accesskey "I">
-<!ENTITY retentionKeepNew.label "Slett alle med unntak av de siste">
-<!ENTITY retentionKeepNew.accesskey "u">
-<!ENTITY retentionKeepUnread.label "Alltid slett leste meldinger">
-<!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY retentionKeepRecent.label "Slett alle med unntak av de nyeste">
+<!ENTITY retentionKeepRecent.accesskey "u">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Alltid slett leste meldinger (overstyr levetid-innstillinger)">
 <!ENTITY retentionApplyToFlagged.label "Alltid behold meldinger merket med stjerne">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
-<!ENTITY nntpRemoveBody.label "Fjern meldingstekster eldre enn">
-<!ENTITY nntpRemoveBody.accesskey "m">
+<!ENTITY nntpRemoveMsgBody.label "Fjern meldingstekster fra meldinger når eldre enn">
+<!ENTITY nntpRemoveMsgBody.accesskey "m">
 <!ENTITY offlineSelectNntp.label "Velg nyhetsgrupper som skal leses frakoblet">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Avansert …">
