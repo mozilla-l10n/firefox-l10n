@@ -607,6 +607,7 @@
 <!ENTITY idColumn.label         "Kolejność otrzymania">
 <!ENTITY attachmentColumn.label "Załączniki">
 <!ENTITY glodaWhyColumn.label   "Powód"><!-- FIXME ENTITY glodaWhyColumn.label "Why" -->
+<!ENTITY glodaScoreColumn.label "Trafność"><!-- FIXME było Score -->
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip    "Zaznacz, które kolumny zostaną wyświetlone">
@@ -630,6 +631,7 @@
 <!ENTITY idColumn.tooltip         "Kliknij, aby posortować według kolejności otrzymania">
 <!ENTITY attachmentColumn.tooltip "Kliknij, aby posortować według załącznika">
 <!ENTITY glodaWhyColumn.tooltip   "Kliknij, aby posortować według powodu wyszukania"><!-- FIXME glodaWhyColumn.label -->
+<!ENTITY glodaScoreColumn.tooltip "Kliknij, aby posortować według trafności wyszukiwania">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label      "Otwórz wiadomość w nowym oknie">
