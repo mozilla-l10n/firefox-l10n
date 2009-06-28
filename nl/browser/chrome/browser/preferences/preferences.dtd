@@ -7,7 +7,7 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 53em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 56em; min-height: 40.5em;">
 
-<!ENTITY  paneMain.title          "Algemeen">
+<!ENTITY  paneGeneral.title       "Algemeen">
 <!ENTITY  paneTabs.title          "Tabbladen">
 <!ENTITY  paneContent.title       "Inhoud">
 <!ENTITY  paneApplications.title  "Toepassingen">
