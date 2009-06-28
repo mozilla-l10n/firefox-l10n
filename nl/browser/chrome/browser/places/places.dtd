@@ -199,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Terug">
-<!ENTITY backCmd.accesskey   "T">
 <!ENTITY backButton.tooltip  "Terug gaan">
 
 <!ENTITY forwardCmd.label       "Vooruit">
-<!ENTITY forwardCmd.accesskey   "V">
 <!ENTITY forwardButton.tooltip  "Vooruit gaan">
 
 <!ENTITY detailsPane.more.label "Meer">
