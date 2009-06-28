@@ -1,4 +1,4 @@
- <!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -52,9 +52,13 @@
 <!ENTITY newevent.status.label              "Status" >
 <!ENTITY newevent.status.accesskey          "S" >
 <!ENTITY newevent.status.none.label         "Ikke oppgitt" >
+<!ENTITY newevent.status.none.accesskey       "k" >
 <!ENTITY newevent.status.cancelled.label    "Avlyst" >
+<!ENTITY newevent.status.cancelled.accesskey  "A" >
 <!ENTITY newevent.status.tentative.label    "Tentativ" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
 <!ENTITY newevent.status.confirmed.label    "Bekreftet" >
+<!ENTITY newevent.status.confirmed.accesskey  "B" >
 <!ENTITY newevent.status.needsaction.label  "Trenger handling" >
 <!ENTITY newevent.status.inprogress.label   "Under arbeid" >
 <!ENTITY newevent.status.completed.label    "Fullført" >
@@ -77,6 +81,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "L">
 <!ENTITY  event.menu.file.save.label                      "Lagre">
 <!ENTITY  event.menu.file.save.accesskey                  "a">
+<!ENTITY  event.menu.item.delete.label                    "Slett …">
+<!ENTITY  event.menu.item.delete.accesskey                "S">
 <!ENTITY  event.menu.file.page.setup.label                "Utskriftsformat">
 <!ENTITY  event.menu.file.page.setup.accesskey            "k">
 <!ENTITY  event.menu.file.print.label                     "Skriv ut">
@@ -165,6 +171,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Lagre og lukk">
+<!ENTITY  event.toolbar.delete.label                      "Slett">
 <!ENTITY  event.toolbar.attendees.label                   "Inviter deltakere">
 <!ENTITY  event.toolbar.spellcheck.label                  "Stavekontroller">
 <!ENTITY  event.toolbar.privacy.label                     "Personvern">
@@ -349,6 +356,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativ" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Utenfor kontoret" >
 <!ENTITY event.freebusy.legend.unknown          "Ingen informasjon" >
+<!ENTITY event.attendee.role.required           "Deltakelse obligatorisk">
+<!ENTITY event.attendee.role.optional           "Deltakelse valgfritt">
+<!ENTITY event.attendee.role.chair              "Leder">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Oppgi tidssone">
