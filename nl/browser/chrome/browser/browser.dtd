@@ -200,7 +200,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Bladwijzers en geschiedenis doorzoeken">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Bladwijzers en geschiedenis doorzoeken">
 <!ENTITY urlbar.bookmark.emptyText    "Bladwijzers doorzoeken">
 <!ENTITY urlbar.history.emptyText     "Geschiedenis doorzoeken">
