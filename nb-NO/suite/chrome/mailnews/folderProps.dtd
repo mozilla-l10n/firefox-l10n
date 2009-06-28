@@ -59,12 +59,12 @@
 <!ENTITY retentionCleanupPop.label "Behold meldinger, også originalene på tjeneren:">
 <!ENTITY retentionDeleteMsg.label "Slett meldinger eldre enn">
 <!ENTITY retentionDeleteMsg.accesskey "e">
-<!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
+<!ENTITY retentionKeepAll.label "Alle meldinger">
 <!ENTITY retentionKeepAll.accesskey "I">
-<!ENTITY retentionKeepNew.label "Slett alle med unntak av de siste">
-<!ENTITY retentionKeepNew.accesskey "S">
-<!ENTITY retentionKeepUnread.label "Alltid slett leste meldinger">
-<!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY retentionKeepRecent.label "De nyeste">
+<!ENTITY retentionKeepRecent.accesskey "S">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Alltid slett leste meldinger (overstyr levetid-innstillingene)">
 <!ENTITY retentionApplyToFlagged.label "Alltid behold meldinger merket med flagg">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 

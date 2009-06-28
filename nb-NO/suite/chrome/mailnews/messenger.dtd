@@ -465,6 +465,7 @@
 <!ENTITY goBackButton.label "Gå tilbake">
 <!ENTITY goForwardButton.label "Gå frem">
 <!ENTITY deleteButton.label "Slett">
+<!ENTITY undeleteButton.label "Angre sletting">
 <!ENTITY markButton.label "Merk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
@@ -487,6 +488,7 @@
 <!ENTITY goBackButton.tooltip "Gå tilbake en melding">
 <!ENTITY goForwardButton.tooltip "Gå frem en melding">
 <!ENTITY deleteButton.tooltip "Slett valgt melding eller mappe">
+<!ENTITY undeleteButton.tooltip "Angre sletting av valgt melding">
 <!ENTITY markButton.tooltip "Merk meldinger">
 <!ENTITY printButton.tooltip "Skriv ut denne meldingen">
 <!ENTITY stopButton.tooltip "Stopp denne overføringen">
