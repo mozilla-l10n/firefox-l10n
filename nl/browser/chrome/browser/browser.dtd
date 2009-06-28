@@ -90,6 +90,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Het laden van deze pagina stoppen">
 <!ENTITY goEndCap.tooltip             "Naar het adres in de locatiebalk gaan">
+<!ENTITY feedButton.tooltip           "Abonneren op deze pagina…">
 <!ENTITY printButton.label            "Afdrukken">
 <!ENTITY printButton.tooltip          "Deze pagina afdrukken">
 
