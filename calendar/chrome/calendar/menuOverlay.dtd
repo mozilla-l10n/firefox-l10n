@@ -62,13 +62,16 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.calendar.label         "Eksporter kalender …">
-<!ENTITY calendar.export.calendar.accesskey     "E">
+<!ENTITY calendar.export.label                  "Eksporter …">
+<!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "Eksporter utvalg …">
 <!ENTITY calendar.export.selection.accesskey    "S">
 
 <!ENTITY calendar.publish.label                 "Publiser …">
 <!ENTITY calendar.publish.accesskey             "b">
+
+<!ENTITY calendar.deletecalendar.label          "Slett valgt kalender …">
+<!ENTITY calendar.deletecalendar.accesskey      "e">
 
 <!ENTITY calendar.menu.customize.label          "Tilpass …">
 <!ENTITY calendar.menu.customize.accesskey      "T">
@@ -98,11 +101,6 @@
 <!ENTITY goNextCmd.week.label                   "Neste uke">
 <!ENTITY goNextCmd.month.label                  "Neste måned">
 <!ENTITY goNextCmd.all.accesskey                "N">
-
-<!ENTITY addressBookCmd.label                   "Adressebok">
-<!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY calendar.importcalendar.label          "Importer kalender …">
 
 <!ENTITY showCurrentView.label                  "Aktiv visning">
 <!ENTITY showCurrentView.accesskey              "v">
