@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "t">
 <!ENTITY openInNewWindow.label "Openen in nieuw venster">
 <!ENTITY openInNewWindow.accesskey "v">
-<!ENTITY bookmarkLink.label "Bladwijzer voor deze koppeling maken…">
-<!ENTITY bookmarkLink.accesskey "m">
 <!ENTITY copyLink.label "Koppelingslocatie kopiëren">
 <!ENTITY copyLink.accesskey "k">

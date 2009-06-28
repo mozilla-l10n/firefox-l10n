@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey        "u">
 <!ENTITY cmd.edit_redo.key              "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Bladwijzer voor deze pagina maken…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Deze pagina verwijderen">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "Deze website vergeten">
