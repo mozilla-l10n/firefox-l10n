@@ -103,13 +103,13 @@
 
 <!ENTITY bookmarksButton.label          "Bladwijzers">
 <!ENTITY bookmarksButton.tooltip        "Uw bladwijzers weergeven">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+ -  key should not contain the letters A-F, since these are reserved
+ -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Geschiedenis">
 <!ENTITY historyButton.tooltip          "Pagina’s die u recentelijk hebt bekeken weergeven">
