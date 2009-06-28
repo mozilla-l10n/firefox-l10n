@@ -1,4 +1,3 @@
-<!-- Help Menu -->
 <!ENTITY helpMenu.label          "Pomoc">
 <!ENTITY helpMenu.accesskey      "c">
 <!ENTITY helpMenuWin.label       "Pomoc">
@@ -13,6 +12,5 @@
 <!ENTITY openHelpMac2.modifiers  "accel">
 
 <!ENTITY updateCmd.label     "Sprawdź dostępność aktualizacji…">
-<!ENTITY updateCmd.accesskey "S">
 <!ENTITY aboutCmd.label      "O programie &brandFullName;">
 <!ENTITY aboutCmd.accesskey  "O">
