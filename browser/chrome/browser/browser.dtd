@@ -35,7 +35,7 @@
 <!ENTITY goOfflineCmd.accesskey "f">
 
 <!ENTITY menubarCmd.label "Menubalk">
-+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigatiewerkbalk">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Bladwijzerwerkbalk">
