@@ -79,3 +79,5 @@
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "Vis bare navnet for personer i adresseboken">
 <!ENTITY showCondensedAddresses.accesskey "V">
+<!ENTITY closeMsgWindowOnDelete.label     "Lukk meldingsvinduet når meldingen slettes">
+<!ENTITY closeMsgWindowOnDelete.accesskey "L">
