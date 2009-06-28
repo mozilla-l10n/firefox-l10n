@@ -23,7 +23,6 @@
 <!ENTITY helpReleaseNotes.label         "Uitgaveopmerkingen">
 <!ENTITY helpReleaseNotes.accesskey     "U">
 <!ENTITY updateCmd.label                "Controleren op updates…">
-<!ENTITY updateCmd.accesskey            "o">
 
 <!ENTITY preferencesCmdMac.label        "Voorkeuren…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
