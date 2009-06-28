@@ -103,3 +103,6 @@
 <!ENTITY consoleErrFile.label      "Fitxer font:">
 <!ENTITY consoleErrLine.label      "Línia:">
 <!ENTITY consoleErrColumn.label    "Columna:">
+
+<!ENTITY selectListDone.label      "Fet">
+<!ENTITY selectListDisplay.format  "#1 elements">
