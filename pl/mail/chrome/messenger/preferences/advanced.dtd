@@ -34,6 +34,8 @@
 <!ENTITY markAsReadDelay.accesskey        "w">
 <!ENTITY secondsLabel.label               "sekund">
 <!ENTITY openMsgIn.label                  "Otwieraj wiadomości w:">
+<!ENTITY openMsgInNewTab.label            "w nowych kartach">
+<!ENTITY openMsgInNewTab.accesskey        "k">
 <!ENTITY reuseExpRadio0.label             "nowych oknach wiadomości">
 <!ENTITY reuseExpRadio0.accesskey         "h">
 <!ENTITY reuseExpRadio1.label             "istniejącym oknie wiadomości">
