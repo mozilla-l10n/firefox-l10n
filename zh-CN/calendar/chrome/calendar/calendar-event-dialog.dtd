@@ -81,6 +81,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "C">
 <!ENTITY  event.menu.file.save.label                      "保存">
 <!ENTITY  event.menu.file.save.accesskey                  "S">
+<!ENTITY  event.menu.item.delete.label                    "删除…">
+<!ENTITY  event.menu.item.delete.accesskey                "D">
 <!ENTITY  event.menu.file.page.setup.label                "页面设置">
 <!ENTITY  event.menu.file.page.setup.accesskey            "u">
 <!ENTITY  event.menu.file.print.label                     "打印">
@@ -169,6 +171,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "保存并关闭">
+<!ENTITY  event.toolbar.delete.label                      "删除">
 <!ENTITY  event.toolbar.attendees.label                   "邀请参与者">
 <!ENTITY  event.toolbar.spellcheck.label                  "拼写检查">
 <!ENTITY  event.toolbar.privacy.label                     "隐私">
