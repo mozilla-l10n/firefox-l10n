@@ -40,6 +40,8 @@
 <!ENTITY markAsReadDelay.accesskey     "c">
 <!ENTITY secondsLabel.label            "Sekunden">
 <!ENTITY openMsgIn.label               "Nachricht durch Doppelklick öffnen in:">
+<!ENTITY openMsgInNewTab.label         "neuem Tab">
+<!ENTITY openMsgInNewTab.accesskey     "T">
 <!ENTITY reuseExpRadio0.label          "neuem Fenster">
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "vorhandenem Fenster">
