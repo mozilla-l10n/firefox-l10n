@@ -27,6 +27,8 @@
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "செக்கன்கள்">
 <!ENTITY openMsgIn.label               "இல் தகவல்களைத் திறக்க:">
+<!ENTITY openMsgInNewTab.label         "A new tab">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label "ஒரு புதிய அஞ்சல் சாளரத்தில்">
 <!ENTITY reuseExpRadio0.accesskey "i">
 <!ENTITY reuseExpRadio1.label "அதே அஞ்சல் சாளரத்தில்">
