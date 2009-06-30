@@ -62,10 +62,10 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "எந்த அஞ்சல்களையும் நீக்கவேண்டாம்.">
 <!ENTITY retentionKeepAll.accesskey "">
-<!ENTITY retentionKeepNew.label "இறுதி ">
-<!ENTITY retentionKeepNew.accesskey "">
-<!ENTITY retentionKeepUnread.label "படிக்கப்பட்ட அஞ்சல்களை நீக்குக.">
-<!ENTITY retentionKeepUnread.accesskey "">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

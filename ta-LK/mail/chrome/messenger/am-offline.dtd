@@ -18,14 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "எந்த செய்திகளையும் நீக்கவேண்டாம்">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "கடைசிச் செய்தியைத் தவிர அனைத்தையும் நீக்கவும்">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "படிக்கப்பட்ட செய்திகளை நீக்கிவிடுக">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "b">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveBody.label "செய்திகளின் அளவு இதை விட குறைவாக இருந்தால் மட்டுமே">
-<!ENTITY nntpRemoveBody.accesskey "">
+<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "இணைப்பில்லா நிலை உபயோகத்திற்கு செய்தித் தொகுப்புக்களை தேர்வு செய்க...">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "உயர்தரம்…">

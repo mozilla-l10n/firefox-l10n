@@ -71,9 +71,6 @@
 <!ENTITY viewSourceMenuItem.label "மூலத்தினை நோக்குக…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 
-<!ENTITY hideDetailsButton.label "விபரங்களை மறைக்க">
-<!ENTITY showDetailsButton.label "விபரங்களைக் காட்டுக">
-
 <!ENTITY openAttachmentCmd.label    "திறக்க">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "என சேமிக்க…">
