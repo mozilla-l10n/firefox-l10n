@@ -51,9 +51,13 @@
 <!ENTITY newevent.status.label              "நிலைs" >
 <!ENTITY newevent.status.accesskey          "S" >
 <!ENTITY newevent.status.none.label         "குறிப்பிடப்படவில்லை" >
+<!ENTITY newevent.status.none.accesskey       "o" >
 <!ENTITY newevent.status.cancelled.label    "இரத்து செய்யப்பட்டது" >
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
 <!ENTITY newevent.status.tentative.label    "சமர்ப்பிக்கப்பட்ட" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
 <!ENTITY newevent.status.confirmed.label    "உறுதி செய்யப்பட்டது" >
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
 <!ENTITY newevent.status.needsaction.label  "செயற்பாடு தேவையானது" >
 <!ENTITY newevent.status.inprogress.label   "செய்முறைப்படுத்தலில் உள்ளது" >
 <!ENTITY newevent.status.completed.label    "இலே நிறைவுபெற்றது" >
@@ -76,6 +80,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "C">
 <!ENTITY  event.menu.file.save.label                      "சேமிக்க">
 <!ENTITY  event.menu.file.save.accesskey                  "S">
+<!ENTITY  event.menu.item.delete.label                    "Delete…">
+<!ENTITY  event.menu.item.delete.accesskey                "D">
 <!ENTITY  event.menu.file.page.setup.label                "பக்க அமைப்பு">
 <!ENTITY  event.menu.file.page.setup.accesskey            "u">
 <!ENTITY  event.menu.file.print.label                     "அச்சிடுக">
@@ -164,6 +170,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "சேமித்து மூடுக">
+<!ENTITY  event.toolbar.delete.label                      "Delete">
 <!ENTITY  event.toolbar.attendees.label                   "வருகைதரவேண்டியவர்களை அழைக்க">
 <!ENTITY  event.toolbar.spellcheck.label                  "எழுத்துக்கூட்டு ஆய்வு">
 <!ENTITY  event.toolbar.privacy.label                     "தனிப்பட்ட">
@@ -348,6 +355,10 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "சமர்பிக்கப்பட்ட" >
 <!ENTITY event.freebusy.legend.busy_unavailable "அலுவலகத்துக்கு வெளியே" >
 <!ENTITY event.freebusy.legend.unknown          "தகவல் இல்லை" >
+<!ENTITY event.attendee.role.required           "Required Attendee">
+<!ENTITY event.attendee.role.optional           "Optional Attendee">
+<!ENTITY event.attendee.role.chair              "Chair">
+
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "தயவுசெய்து நேர வலயத்தை குறிப்பிடுக">
