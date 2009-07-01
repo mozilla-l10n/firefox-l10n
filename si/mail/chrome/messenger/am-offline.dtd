@@ -18,14 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "කිසිඳු ලිපියක් නොමකන්න">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "මෙම අවසාන ලිපි ගණන හැර සියල්ල මකන්න ">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "කියවූ ලිපි සෑමවිටම මකන්න">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "මෙම ආසන්නතම ලිපිය හැර සියල්ල මකන්න">
+<!ENTITY retentionKeepRecent.accesskey "b">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "කියවූ ලිපි සෑමවිටම මකන්න (කාළ සැකසුම් නොසලකන්න)">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveBody.label "ලිපියේ බඳ (ට වඩා) කුඩා">
-<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "අසම්බන්ධිතව භාවිතා කිරීම සඳහා පුවත්සමූහ තෝරන්න...">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "වැඩිමනත්…">

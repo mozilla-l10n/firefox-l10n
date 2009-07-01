@@ -71,9 +71,6 @@
 <!ENTITY viewSourceMenuItem.label "මූලය පෙන්වන්න…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 
-<!ENTITY hideDetailsButton.label "විස්තර සඟවන්න">
-<!ENTITY showDetailsButton.label "විස්තර පෙන්වන්න">
-
 <!ENTITY openAttachmentCmd.label    "විවෘත කරන්න">
 <!ENTITY openAttachmentCmd.accesskey		"O">
 <!ENTITY saveAsAttachmentCmd.label    "සුරකින්නේ මෙලෙස...">
