@@ -41,6 +41,11 @@
 <!ENTITY editBookmarkDone.label    "Klear">
 <!ENTITY editBookmarkTags.label    "Foech hjir labels ta">
 
+<!ENTITY helperApp.prompt          "Wat wolle jo graach dwaan mei">
+<!ENTITY helperApp.open            "Iepenje">
+<!ENTITY helperApp.save            "Bewarje">
+<!ENTITY helperApp.nothing         "Neat">
+
 <!ENTITY findOnCmd.label     "Fyn yn dizze side…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
