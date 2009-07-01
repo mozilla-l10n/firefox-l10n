@@ -34,6 +34,10 @@
 <!ENTITY editBookmarkMove.label "Переместить">
 <!ENTITY editBookmarkDone.label "Готово">
 <!ENTITY editBookmarkTags.label "Добавьте сюда метки">
+<!ENTITY helperApp.prompt "Что вы ходите сделать с">
+<!ENTITY helperApp.open "Открыть">
+<!ENTITY helperApp.save "Сохранить">
+<!ENTITY helperApp.nothing "Ничего">
 <!ENTITY findOnCmd.label "Найти на этой странице…">
 <!ENTITY findOnCmd.accesskey "Н">
 <!ENTITY findOnCmd.commandkey "f">

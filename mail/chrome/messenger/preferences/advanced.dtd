@@ -29,7 +29,9 @@
 <!ENTITY markAsReadDelay.label "После просмотра в течение">
 <!ENTITY markAsReadDelay.accesskey "т">
 <!ENTITY secondsLabel.label "сек.">
-<!ENTITY openMsgIn.label "Открывать новые сообщения в:">
+<!ENTITY openMsgIn.label "Открывать сообщения в:">
+<!ENTITY openMsgInNewTab.label "новой вкладке">
+<!ENTITY openMsgInNewTab.accesskey "к">
 <!ENTITY reuseExpRadio0.label "новом окне">
 <!ENTITY reuseExpRadio0.accesskey "о">
 <!ENTITY reuseExpRadio1.label "уже существующем окне">
