@@ -39,6 +39,8 @@
 <!ENTITY markAsReadDelay.accesskey        "N">
 <!ENTITY secondsLabel.label               "seconden weergeven">
 <!ENTITY openMsgIn.label               "Nieuwe berichten openen in:">
+<!ENTITY openMsgInNewTab.label         "Een nieuw tabblad">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label          "Een nieuw berichtvenster">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "Een bestaand berichtvenster">
