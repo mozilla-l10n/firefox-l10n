@@ -21,6 +21,8 @@
 <!ENTITY import.accesskey "I">
 <!ENTITY goOfflineCmd.label "Bekerja Luring">
 <!ENTITY goOfflineCmd.accesskey "L">
+<!ENTITY menubarCmd.label "Bar Menu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Toolbar Navigasi">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Toolbar Bookmark">
