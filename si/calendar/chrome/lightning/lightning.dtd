@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "වැඩසටහන">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "කාර්යය…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "දිනදර්ශන…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "විවෘත කරන්න">
@@ -61,11 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "දිනදර්ශන ගොනුව…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "දිනදර්ශනය">
-<!ENTITY lightning.calendar.accesskey        "C">
-<!ENTITY lightning.tasks.label               "කාර්යය">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "දිනදර්ශනය">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "කාර්යයන්">
+<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "සිදුවීම් සහ කාර්යයන්">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "තැපෑල">

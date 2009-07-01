@@ -62,13 +62,16 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.calendar.label         "දිනදර්ශනය නිර්යාත කරන්න…">
-<!ENTITY calendar.export.calendar.accesskey     "E">
+<!ENTITY calendar.export.label                  "නිර්යාත කරන්න…">
+<!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "තේරීම නිර්යාත කරන්න…">
 <!ENTITY calendar.export.selection.accesskey    "S">
 
 <!ENTITY calendar.publish.label                 "පළ කරන්න…">
 <!ENTITY calendar.publish.accesskey             "b">
+
+<!ENTITY calendar.deletecalendar.label          "තෝරාගත් දිනදර්ශනය මකන්න…">
+<!ENTITY calendar.deletecalendar.accesskey      "D">
 
 <!ENTITY calendar.menu.customize.label          "රිසිකරණය…">
 <!ENTITY calendar.menu.customize.accesskey      "C">
@@ -98,11 +101,6 @@
 <!ENTITY goNextCmd.week.label                   "ඊළඟ සතිය">
 <!ENTITY goNextCmd.month.label                  "ඊළඟ මාසය">
 <!ENTITY goNextCmd.all.accesskey                "e">
-
-<!ENTITY addressBookCmd.label                   "ලිපින පොත">
-<!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY calendar.importcalendar.label          "දිනදර්ශනය ආයාත කරන්න…">
 
 <!ENTITY showCurrentView.label                  "පවතින පෙනුම">
 <!ENTITY showCurrentView.accesskey              "V">
