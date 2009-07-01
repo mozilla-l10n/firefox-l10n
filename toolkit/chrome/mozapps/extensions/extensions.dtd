@@ -19,9 +19,9 @@
 <!ENTITY cmd.installLocalFile.accesskey "n">
 <!ENTITY cmd.installFileAddon.tooltip "Pasang Pengaya">
 <!ENTITY cmd.installFileTheme.tooltip "Pasang Tema">
-<!ENTITY cmd.installUpdatesAll.label "Pasang Versi Baru">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Pasang pemutakhiran yang dipilih">
+<!ENTITY cmd.installUpdatesAll2.label "Pasang Versi Baru">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Pasang pemutakhiran yang dipilih">
 <!ENTITY cmd.restartApp2.label "Restart &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "R">
 <!ENTITY cmd.restartApp2.tooltip "Restart &brandShortName; untuk menerapkan perubahan">
