@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "අන්තර්ගත ආකාරය">
+<!ENTITY  typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "ක්‍රියාව">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "සෙවීම">
+
+<!ENTITY saveTo.label                 "ගොනු සුරකින්නේ (මෙතුළට)">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "ගොනු සුරකින්නේ කොතනටදැයි සෑම විටම විමසන්න">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "පිරික්සන්න…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "තෝරන්න…">
+<!ENTITY chooseFolderMac.accesskey    "C">
