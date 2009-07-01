@@ -60,10 +60,10 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
  <!ENTITY retentionKeepAll.label "කිසිඳු ලිපියක් මකන්න එපා">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "අවසාන ලිපිය හැර සියල්ල මකන්න">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "සෑමවිටම කියවූ ලිපි මකන්න">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "මෙම ආසන්නතම ලිපිය හැර සියල්ල මකන්න">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "යවූ ලිපි සෑමවිටම මකන්න (කාළ සැකසුම් නොසලකන්න)">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

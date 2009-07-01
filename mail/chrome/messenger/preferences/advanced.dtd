@@ -27,6 +27,8 @@
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "ට පසු">
 <!ENTITY openMsgIn.label               "ලිපි විවෘත කරන්නේ:">
+<!ENTITY openMsgInNewTab.label         "නව ටැබයක් තුළ">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label          "නව ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "පවතින ලිපි කවුළුවක් තුළ">
