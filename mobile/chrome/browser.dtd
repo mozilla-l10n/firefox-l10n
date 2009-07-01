@@ -34,6 +34,10 @@
 <!ENTITY editBookmarkMove.label "Mover">
 <!ENTITY editBookmarkDone.label "Terminar">
 <!ENTITY editBookmarkTags.label "Añada etiquetas aquí">
+<!ENTITY helperApp.prompt "Qué le gustaría hacer con">
+<!ENTITY helperApp.open "Abrir">
+<!ENTITY helperApp.save "Guardar">
+<!ENTITY helperApp.nothing "Nada">
 <!ENTITY findOnCmd.label "Buscar en esta página…">
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
