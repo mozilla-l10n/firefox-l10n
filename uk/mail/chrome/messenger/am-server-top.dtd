@@ -27,8 +27,8 @@
 <!ENTITY deleteByAgeFromServer.label "Не більш">
 <!ENTITY deleteByAgeFromServer.accesskey "е">
 <!ENTITY daysEnd.label "днів">
-<!ENTITY deleteOnServer2.label "Until I delete them">
-<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY deleteOnServer2.label "Доки я їх не зітру">
+<!ENTITY deleteOnServer2.accesskey "к">
 <!ENTITY downloadOnBiff.label "Автоматично завантажувати нові повідомлення">
 <!ENTITY downloadOnBiff.accesskey "о">
 <!ENTITY username.label "Ваше реєстраційне ім’я">
