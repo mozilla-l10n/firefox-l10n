@@ -59,7 +59,7 @@
 <!ENTITY calendar.pagesetup.label                          "පිටු සැකසීම…">
 <!ENTITY calendar.pagesetup.accesskey                      "u">
 
-<!ENTITY calendar.subscribe.label                          "දුරස්ථ දිනදර්ශණ සඳහා දායකත්වය ලබා ගැනීම…">
+<!ENTITY calendar.subscribe.label                          "දුරස්ථ දිනදර්ශය සඳහා දායකත්වය ලබා ගැනීම…">
 <!ENTITY calendar.subscribe.accesskey                      "R">
 
 <!ENTITY calendar.reloadserver.label                       "දුරස්ථ දිනදර්ශණ ප්‍රතිපූරණය කිරීම">
@@ -163,6 +163,10 @@
 
 <!ENTITY updateCmd.label                                   "යාවත්කාලීන සඳහා සෙවීම…">
 <!ENTITY updateCmd.accesskey                               "o">
+
+<!ENTITY sunbird.export.calendar.label                     "දිනදර්ශය නිර්යාත කිරීම…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
 
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "කවුළු">
