@@ -61,10 +61,10 @@
 <!ENTITY retentionDeleteMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "Alle berichten verwijderen, behalve de laatste">
-<!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Gelezen berichten altijd verwijderen">
-<!ENTITY retentionKeepUnread.accesskey "z">
+<!ENTITY retentionKeepRecent.label "Nieuwste behouden">
+<!ENTITY retentionKeepRecent.accesskey "N">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Gelezen berichten altijd verwijderen (negeert dateringsinstellingen)">
 <!ENTITY retentionApplyToFlagged.label "Gemarkeerde berichten altijd bewaren">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

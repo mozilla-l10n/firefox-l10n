@@ -413,9 +413,9 @@
 <!ENTITY markAsShowRemoteCmd.label "Show Remote Content">
 <!ENTITY markAsShowRemoteCmd.accesskey "e">
 <!ENTITY markAsShowRemoteCmd.key "r">
-<!ENTITY markAsNotPhishCmd.label "As Not Scam">
-<!ENTITY markAsNotPhishCmd.accesskey "S">
-<!ENTITY markAsNotPhishCmd.key "p">
+<!ENTITY markAsNotPhishCmd.label "Als geen e-mailscam">
+<!ENTITY markAsNotPhishCmd.accesskey "g">
+<!ENTITY markAsNotPhishCmd.key "S">
 <!ENTITY openMessageWindowCmd.label "Bericht openen">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
