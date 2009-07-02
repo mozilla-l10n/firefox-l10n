@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Atrás">
 <!ENTITY back.tooltip          "Atrás">
 <!ENTITY forward.label         "Adelante">
@@ -16,7 +13,7 @@
 <!ENTITY openLocation.label    "Abrir dirección">
 <!ENTITY openLocation.tooltip  "Abrir dirección">
 <!ENTITY star.label            "Destacado">
-<!ENTITY star.tooltip          "Marcar esta p\u00E1gina">
+<!ENTITY star.tooltip          "Marcar esta página">
 <!ENTITY bookmarks.label       "Marcadores">
 <!ENTITY bookmarks.tooltip     "Ver marcadores">
 
