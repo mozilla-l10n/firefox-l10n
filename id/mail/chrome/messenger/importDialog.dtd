@@ -8,7 +8,7 @@
 <!ENTITY importSettings.label "Pengaturan">
 <!ENTITY importSettings.accesskey "P">
 <!ENTITY importFilters.label "Filter">
-<!ENTITY importFilters.accesskey  "F">
+<!ENTITY importFilters.accesskey "F">
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 <!ENTITY importTitle.label "Penuntun Impor &brandShortName;">

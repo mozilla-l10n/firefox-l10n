@@ -13,8 +13,6 @@
 <!ENTITY calendar.import.label "Impor…">
 <!ENTITY calendar.import.key "I">
 <!ENTITY calendar.import.accesskey "I">
-<!ENTITY calendar.export.calendar.label "Ekspor Kalender…">
-<!ENTITY calendar.export.calendar.accesskey "E">
 <!ENTITY calendar.export.selection.label "Ekspor yang Dipilih…">
 <!ENTITY calendar.export.selection.accesskey "S">
 <!ENTITY calendar.menu.customize.label "Suka-suka…">
@@ -39,13 +37,13 @@
 <!ENTITY goNextCmd.week.label "Minggu Selanjutnya">
 <!ENTITY goNextCmd.month.label "Bulan Selanjutnya">
 <!ENTITY goNextCmd.all.accesskey "e">
-<!ENTITY addressBookCmd.label "Buku Alamat">
-<!ENTITY addressBookCmd.accesskey "B">
-<!ENTITY calendar.importcalendar.label "Impor Kalender…">
 <!ENTITY showCurrentView.label "Tampilan Sekarang">
 <!ENTITY showCurrentView.accesskey "T">
 <!ENTITY calendar.properties.label "Properti Kalender…">
 <!ENTITY calendar.properties.accesskey "K">
 <!ENTITY calendar.publish.label "Umumkan…">
 <!ENTITY calendar.publish.accesskey "u">
-
+<!ENTITY calendar.deletecalendar.label          "Hapus Kalender Terpilih…">
+<!ENTITY calendar.deletecalendar.accesskey      "H">
+<!ENTITY calendar.export.label "Ekspor…">
+<!ENTITY calendar.export.accesskey "E">

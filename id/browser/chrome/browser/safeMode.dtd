@@ -44,9 +44,9 @@
 <!ENTITY disableAddons.accesskey "M">
 <!ENTITY resetToolbars.label "Reset toolbar dan kontrol">
 <!ENTITY resetToolbars.accesskey "R">
-<!ENTITY resetBookmarks.label "Reset Daftar Bookmark menjadi default  &brandShortName;">
+<!ENTITY resetBookmarks.label "Reset Daftar Bookmark menjadi default &brandShortName;">
 <!ENTITY resetBookmarks.accesskey "b">
-<!ENTITY resetUserPrefs.label "Reset semua pengaturan pengguna menjadi default  &brandShortName;">
+<!ENTITY resetUserPrefs.label "Reset semua pengaturan pengguna menjadi default &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey "p">
 <!ENTITY restoreSearch.label "Kembalikan daftar mesin pencari default">
 <!ENTITY restoreSearch.accesskey "c">

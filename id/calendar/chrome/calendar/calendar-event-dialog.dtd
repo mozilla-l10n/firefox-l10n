@@ -7,9 +7,13 @@
 <!ENTITY newevent.status.label              "Status" >
 <!ENTITY newevent.status.accesskey          "S" >
 <!ENTITY newevent.status.none.label         "Tidak Ditentukan" >
+<!ENTITY newevent.status.none.accesskey     "T" >
 <!ENTITY newevent.status.cancelled.label    "Dibatalkan" >
+<!ENTITY newevent.status.cancelled.accesskey "B" >
 <!ENTITY newevent.status.tentative.label    "Tentatif" >
+<!ENTITY newevent.status.tentative.accesskey "f" >
 <!ENTITY newevent.status.confirmed.label    "Telah Dikonfirmasi" >
+<!ENTITY newevent.status.confirmed.accesskey "k" >
 <!ENTITY newevent.status.needsaction.label  "Butuh Tindakan" >
 <!ENTITY newevent.status.inprogress.label   "Dalam Proses" >
 <!ENTITY newevent.status.completed.label    "Selesai pada" >
@@ -30,6 +34,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "T">
 <!ENTITY  event.menu.file.save.label                      "Simpan">
 <!ENTITY  event.menu.file.save.accesskey                  "S">
+<!ENTITY  event.menu.item.delete.label                    "Hapus…">
+<!ENTITY  event.menu.item.delete.accesskey                "H">
 <!ENTITY  event.menu.file.page.setup.label                "Tata Halaman">
 <!ENTITY  event.menu.file.page.setup.accesskey            "h">
 <!ENTITY  event.menu.file.print.label                     "Cetak">
@@ -118,6 +124,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Simpan dan Tutup">
+<!ENTITY  event.toolbar.delete.label                      "Hapus">
 <!ENTITY  event.toolbar.attendees.label                   "Undang Peserta">
 <!ENTITY  event.toolbar.spellcheck.label                  "Periksa Ejaan">
 <!ENTITY  event.toolbar.privacy.label                     "Privasi">
@@ -295,6 +302,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentatif" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Tidak di Kantor" >
 <!ENTITY event.freebusy.legend.unknown   "Tidak ada keterangan" >
+<!ENTITY event.attendee.role.required           "Undangan yang Wajib">
+<!ENTITY event.attendee.role.optional           "Undangan yang Opsional">
+<!ENTITY event.attendee.role.chair              "Pimpinan">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Tentukan Zona Waktu">

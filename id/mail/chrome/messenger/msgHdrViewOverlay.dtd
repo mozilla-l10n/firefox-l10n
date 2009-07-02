@@ -21,6 +21,7 @@
 <!ENTITY archiveButton.label "arsipkan">
 <!ENTITY hdrReplyButton.label "balas">
 <!ENTITY hdrReplyAllButton.label "balas ke semua">
+<!ENTITY hdrReplyListButton.label "balas ke milis">
 <!ENTITY hdrForwardButton.label "teruskan">
 <!ENTITY hdrJunkButton.label "tandai sebagai junk">
 <!ENTITY trashButton.tooltiptext "hapus">
@@ -29,8 +30,6 @@
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "tampilkan kode sumber…">
 <!ENTITY viewSourceMenuItem.accesskey "s">
-<!ENTITY hideDetailsButton.label "sembunyikan detail">
-<!ENTITY showDetailsButton.label "show details">
 <!ENTITY openAttachmentCmd.label "Buka">
 <!ENTITY openAttachmentCmd.accesskey "B">
 <!ENTITY saveAsAttachmentCmd.label "Simpan dengan Nama…">

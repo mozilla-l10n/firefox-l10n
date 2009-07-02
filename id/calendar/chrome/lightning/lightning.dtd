@@ -1,17 +1,25 @@
 <!ENTITY lightning.taskLabel "Lightning">
 <!ENTITY lightning.menupopup.new.event.label "Acara…">
+<!ENTITY lightning.menupopup.new.event.accesskey "a">
 <!ENTITY lightning.menupopup.new.task.label "Tugas…">
+<!ENTITY lightning.menupopup.new.task.accesskey "t">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalender…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 <!ENTITY lightning.menupopup.open.label "Buka">
 <!ENTITY lightning.menupopup.open.accesskey "B">
 <!ENTITY lightning.menupopup.open.message.label "Simpanan Pesan…">
 <!ENTITY lightning.menupopup.open.message.accesskey "S">
 <!ENTITY lightning.menupopup.open.calendar.label "Berkas Kalender…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "K">
-<!ENTITY lightning.calendar.label "Kalender">
-<!ENTITY lightning.calendar.accesskey "K">
-<!ENTITY lightning.tasks.label "Tugas">
-<!ENTITY lightning.tasks.accesskey "T">
+<!ENTITY lightning.menu.view.calendar.label            "Kalender">
+<!ENTITY lightning.menu.view.calendar.accesskey        "K">
+<!ENTITY lightning.menu.view.tasks.label               "Tugas">
+<!ENTITY lightning.menu.view.tasks.accesskey           "T">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Acara dan Tugas">
+<!ENTITY lightning.menu.eventtask.accesskey            "A">
+
 <!ENTITY lightning.toolbar.mail.label "Email">
 <!ENTITY lightning.toolbar.mail.accesskey "E">
 <!ENTITY lightning.toolbar.calendar.label "Kalender">

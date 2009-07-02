@@ -120,6 +120,9 @@
 <!ENTITY updateCmd.label                                   "Periksa Versi Baru…">
 <!ENTITY updateCmd.accesskey                               "v">
 
+<!ENTITY sunbird.export.calendar.label                     "Ekspor Kalender…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "Jendela">
 <!ENTITY minimizeWindow.label                              "Perkecil">

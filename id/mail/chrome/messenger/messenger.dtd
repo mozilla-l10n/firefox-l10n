@@ -307,6 +307,9 @@
 <!ENTITY replyToAllMsgCmd.label "Balas ke Semua">
 <!ENTITY replyToAllMsgCmd.accesskey "S">
 <!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Balas ke Milis">
+<!ENTITY replyToListMsgCmd.accesskey  "M">
+<!ENTITY replyToListMsgCmd.key  "m">
 <!ENTITY forwardMsgCmd.label "Teruskan">
 <!ENTITY forwardMsgCmd.accesskey "T">
 <!ENTITY forwardMsgCmd.key "l">
@@ -423,6 +426,7 @@
 <!ENTITY newMsgButton.label "Tulis">
 <!ENTITY replyButton.label "Balas">
 <!ENTITY replyAllButton.label "Balas ke Semua">
+<!ENTITY replyListButton.label "Balas ke Milis">
 <!ENTITY forwardButton.label "Teruskan">
 <!ENTITY fileButton.label "Berkas">
 <!ENTITY nextButton.label "Lanjut">
@@ -452,6 +456,7 @@
 <!ENTITY newMsgButton.tooltip "Buat pesan baru">
 <!ENTITY replyButton.tooltip "Balas pesan ini">
 <!ENTITY replyAllButton.tooltip "Balas kepada pengirim dan semua penerima">
+<!ENTITY replyListButton.tooltip "Balas kepada milis">
 <!ENTITY forwardButton.tooltip "Teruskan pesan terpilih">
 <!ENTITY fileButton.tooltip "Simpan pesan terpilih sebagai berkas ">
 <!ENTITY nextButton.tooltip "Pindah ke pesan yang belum dibaca selanjutnya">
@@ -550,6 +555,7 @@
 <!ENTITY idColumn.label "Urutan Diterima">
 <!ENTITY attachmentColumn.label "Lampiran">
 <!ENTITY glodaWhyColumn.label "Alasan">
+<!ENTITY glodaScoreColumn.label "Nilai">
 <!ENTITY columnChooser.tooltip "Klik untuk memilih kolom tampilan">
 <!ENTITY threadColumn.tooltip "Klik untuk menampilkan alur bahasan pesan">
 <!ENTITY fromColumn.tooltip "Klik untuk mengurut berdasarkan pengirim">
@@ -571,6 +577,7 @@
 <!ENTITY idColumn.tooltip "Klik untuk mengurut berdasarkan urutan diterima">
 <!ENTITY attachmentColumn.tooltip "Klik untuk mengurut berdasarkan lampiran">
 <!ENTITY glodaWhyColumn.tooltip "Klik untuk mengurut pesan berdasarkan alasan pesan ini tampil pada hasil pencarian">
+<!ENTITY glodaScoreColumn.tooltip "Klik untuk mengurut pesan berdasarkan nilai pencarian">
 <!ENTITY contextOpenNewWindow.label "Buka Pesan di Jendela Baru">
 <!ENTITY contextOpenNewWindow.accesskey "J">
 <!ENTITY contextOpenNewTab.label "Buka Pesan di Tab Baru">
@@ -583,6 +590,8 @@
 <!ENTITY contextReplyNewsgroup.accesskey "B">
 <!ENTITY contextReplyAll.label "Balas ke Semua">
 <!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyList.label "Balas ke Daftar">
+<!ENTITY contextReplyList.accesskey "D">
 <!ENTITY contextForward.label "Teruskan">
 <!ENTITY contextForward.accesskey "T">
 <!ENTITY contextForwardAsAttachment.label "Teruskan sebagai Lampiran">
