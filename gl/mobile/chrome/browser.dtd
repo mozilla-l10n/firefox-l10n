@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Atrás">
 <!ENTITY back.tooltip          "Atrás">
 <!ENTITY forward.label         "Adiante">
@@ -40,6 +37,11 @@
 <!ENTITY editBookmarkMove.label    "Mover">
 <!ENTITY editBookmarkDone.label    "Feito">
 <!ENTITY editBookmarkTags.label    "Engadir etiquetas aquí">
+
+<!ENTITY helperApp.prompt          "Que quere facer con">
+<!ENTITY helperApp.open            "Abrir">
+<!ENTITY helperApp.save            "Gardar">
+<!ENTITY helperApp.nothing         "Nada">
 
 <!ENTITY findOnCmd.label     "Localizar nesta páxina…">
 <!ENTITY findOnCmd.accesskey "L">

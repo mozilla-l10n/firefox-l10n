@@ -2,7 +2,7 @@
 <!ENTITY cutCmd.accesskey "o">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Colar">
+<!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.accesskey "a">
 <!ENTITY undoCmd.label "Desfacer">
 <!ENTITY undoCmd.accesskey "D">

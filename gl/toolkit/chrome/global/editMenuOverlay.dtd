@@ -12,7 +12,7 @@
 <!ENTITY copyCmd.label             "Copiar">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "Colar">
+<!ENTITY pasteCmd.label            "Pegar">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "a">
 <!ENTITY deleteCmd.label           "Eliminar">
