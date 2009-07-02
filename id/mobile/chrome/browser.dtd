@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Kembali">
 <!ENTITY back.tooltip          "Kembali">
 <!ENTITY forward.label         "Maju">
@@ -40,6 +37,11 @@
 <!ENTITY editBookmarkMove.label    "Pindah">
 <!ENTITY editBookmarkDone.label    "Selesai">
 <!ENTITY editBookmarkTags.label    "Tambah tag di sini">
+
+<!ENTITY helperApp.prompt          "Apa yang ingin Anda lakukan?">
+<!ENTITY helperApp.open            "Buka">
+<!ENTITY helperApp.save            "Simpan">
+<!ENTITY helperApp.nothing         "Tidak ada">
 
 <!ENTITY findOnCmd.label     "Cari di Halaman Ini…">
 <!ENTITY findOnCmd.accesskey "C">
@@ -82,5 +84,20 @@
 <!ENTITY noResults.label           "Tidak ada hasil">
 
 <!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
-<!ENTITY identity.connectedTo "Anda tersambung ke">
-<!ENTITY identity.runBy "yang dijalankan oleh">
+<!ENTITY identity.connectedTo2 "Tersambung ke">
+<!ENTITY identity.runBy2 "yang dijalankan oleh">
+
+<!ENTITY consoleHeader.label       "Konsol Kesalahan">
+<!ENTITY consoleAll.label          "Semua">
+<!ENTITY consoleErrors.label       "Kesalahan">
+<!ENTITY consoleWarnings.label     "Peringatan">
+<!ENTITY consoleMessages.label     "Pesan">
+<!ENTITY consoleCodeEval.label     "Kode:">
+<!ENTITY consoleClear.label        "Bersihkan">
+<!ENTITY consoleEvaluate.label     "Evaluaasi">
+<!ENTITY consoleErrFile.label      "Berkas Sumber:">
+<!ENTITY consoleErrLine.label      "Baris:">
+<!ENTITY consoleErrColumn.label    "Kolom:">
+
+<!ENTITY selectListDone.label      "Selesai">
+<!ENTITY selectListDisplay.format  "#1 Item">
