@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Précédente">
 <!ENTITY back.tooltip          "Précédente">
 <!ENTITY forward.label         "Suivante">
