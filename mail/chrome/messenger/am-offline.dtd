@@ -18,14 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey "l">
 <!ENTITY retentionKeepAll.label "Jangan hapus pesan sama sekali">
 <!ENTITY retentionKeepAll.accesskey "J">
-<!ENTITY retentionKeepNew.label "Hapus dan sisakan">
-<!ENTITY retentionKeepNew.accesskey "s">
-<!ENTITY retentionKeepUnread.label "Selalu hapus pesan yang sudah dibaca">
-<!ENTITY retentionKeepUnread.accesskey "b">
+<!ENTITY retentionKeepRecent.label "Hapus selain yang paling akhir">
+<!ENTITY retentionKeepRecent.accesskey "a">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Selalu hapus pesan yang telah dibaca (menggantikan pengaturan umur pesan)">
 <!ENTITY retentionApplyToFlagged.label "Selalu simpan pesan berbintang">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveBody.label "Jika isi pesan kurang dari">
-<!ENTITY nntpRemoveBody.accesskey "P">
+<!ENTITY nntpRemoveMsgBody.label "Hapus isi dari pesan jika lebih dari">
+<!ENTITY nntpRemoveMsgBody.accesskey "H">
 <!ENTITY offlineSelectNntp.label "Pilih newsgroup untuk penggunaan luring…">
 <!ENTITY offlineSelectNntp.accesskey "P">
 <!ENTITY offlineImapAdvancedOffline.label "Canggih…">

@@ -82,11 +82,11 @@
 <!ENTITY Other.accesskey "L">
 <!ENTITY Birthday.label "Ulang Tahun:">
 <!ENTITY Birthday.accesskey "U">
-<!ENTITY In.label  "">
+<!ENTITY In.label "">
 <!ENTITY Year.emptytext "Tahun">
 <!ENTITY Or.value "atau">
 <!ENTITY Age.emptytext "Umur">
-<!ENTITY YearsOld.label  "tahun">
+<!ENTITY YearsOld.label "tahun">
 <!ENTITY Custom1.label "Lain-lain 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Lain-lain 2:">

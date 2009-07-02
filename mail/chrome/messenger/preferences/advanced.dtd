@@ -12,6 +12,8 @@
 <!ENTITY markAsReadDelay.accesskey "e">
 <!ENTITY secondsLabel.label "detik">
 <!ENTITY openMsgIn.label "Buka pesan di:">
+<!ENTITY openMsgInNewTab.label "Tab baru">
+<!ENTITY openMsgInNewTab.accesskey "t">
 <!ENTITY reuseExpRadio0.label "Jendela pesan baru">
 <!ENTITY reuseExpRadio0.accesskey "J">
 <!ENTITY reuseExpRadio1.label "Jendela pesan yang sudah tampil">
