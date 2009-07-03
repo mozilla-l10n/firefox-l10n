@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "Dateityp">
+<!ENTITY  typeColumn.accesskey        "D">
+
+<!ENTITY  actionColumn2.label         "Aktion">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "Suchen">
+
+<!ENTITY saveTo.label                 "Dateien speichern unter">
+<!ENTITY saveTo.accesskey             "s">
+<!ENTITY alwaysAsk.label              "Jedes Mal nachfragen, wo gespeichert werden soll">
+<!ENTITY alwaysAsk.accesskey          "J">
+<!ENTITY chooseFolderWin.label        "Durchsuchen…">
+<!ENTITY chooseFolderWin.accesskey    "u">
+<!ENTITY chooseFolderMac.label        "Auswählen…">
+<!ENTITY chooseFolderMac.accesskey    "w">
