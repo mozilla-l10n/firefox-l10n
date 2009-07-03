@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Tebek">
 <!ENTITY back.tooltip          "Tebek">
 <!ENTITY forward.label         "Foarút">
