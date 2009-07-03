@@ -32,6 +32,8 @@
 <!ENTITY help.advancedTips.label "Padomi un gudrības profesionāļiem">
 <!ENTITY help.advancedTips.accesskey "G">
 
+<!ENTITY cmd.bookmarkLink.label         "Saglabāt šo lapu grāmatzīmēs…">
+<!ENTITY cmd.bookmarkLink.accesskey     "S">
 <!ENTITY cmd.findInBookmarks.label "Meklēt grāmatzīmēs...">
 <!ENTITY cmd.findInBookmarks.accesskey "M">
 <!ENTITY cmd.findCurrent.label "Meklēt izvēlētajā kolekcijā...">

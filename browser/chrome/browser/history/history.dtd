@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "Atvērt jaunā logā">
 <!ENTITY openInNewWindow.accesskey "L">
-<!ENTITY bookmarkLink.label "Saglabāt šo saiti grāmatzīmēs...">
-<!ENTITY bookmarkLink.accesskey "S">
 <!ENTITY copyLink.label "Kopēt saites atrašanās vietu">
 <!ENTITY copyLink.accesskey "K">

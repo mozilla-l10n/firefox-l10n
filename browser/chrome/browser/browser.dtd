@@ -29,6 +29,9 @@
 <!ENTITY goOfflineCmd.label "Strādāt nesaistē">
 <!ENTITY goOfflineCmd.accesskey "R">
 
+<!ENTITY menubarCmd.label "Izvēlne">
+<!ENTITY menubarCmd.accesskey "I">
+
 <!ENTITY navbarCmd.label "Navigācijas rīkjosla">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Grāmatzīmju rīkjosla">
@@ -179,7 +182,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "Meklēt grāmatzīmēs un vēsturē">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Meklēt grāmatzīmēs un vēsturē">
 <!ENTITY urlbar.bookmark.emptyText    "Meklēt grāmatzīmēs">

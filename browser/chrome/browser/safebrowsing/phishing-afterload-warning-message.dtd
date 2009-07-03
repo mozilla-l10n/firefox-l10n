@@ -13,15 +13,15 @@
 <!ENTITY safeb.palm.decline.label "Ignorēt šo brīdinājumu">
 <!ENTITY safeb.palm.decline.statustext "Aizvērt brīdinājumu">
 <!ENTITY safeb.palm.notforgery.label2 "Šī lapa nav krāpnieciska...">
-<!ENTITY safeb.palm.report.label "Kāpēc šī lapa tika bloķēta?">
+<!ENTITY safeb.palm.reportPage.label "Kāpēc šī lapa tika bloķēta?">
 
-<!ENTITY safeb.blocked.malware.title "Iespējama kaitnieku lapa!">
+<!ENTITY safeb.blocked.malwarePage.title "Iespējama kaitnieku lapa!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Lietotāji ir sūdzējušies par lapu <span id='malware_sitename'/>. Tā tiek uzskatīta par bīstamu kaitnieku lapu, un, balstoties uz jūsu drosības iestatījumiem, tā ir bloķēta.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Kaitnieku lapas mēģina instalēt jūsu datorā programmas, kas var zagt jūsu privātos datus, veikt uzbrukumus citiem lietotājiem vai kaitēt jūsu datoram.</p>
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Lietotāji ir sūdzējušies par lapu <span id='malware_sitename'/>. Tā tiek uzskatīta par bīstamu kaitnieku lapu, un, balstoties uz jūsu drosības iestatījumiem, tā ir bloķēta.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Kaitnieku lapas mēģina instalēt jūsu datorā programmas, kas var zagt jūsu privātos datus, veikt uzbrukumus citiem lietotājiem vai kaitēt jūsu datoram.</p>
 <p>Dažas lapas ir veidotas, lai izplatītu kaitniecisku programmatūru, bet daudzas tiek ļaunprātīgi izmantotas, to īpašniekiem nezinot.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Iespējama krāpnieku lapa!">
+<!ENTITY safeb.blocked.phishingPage.title "Iespējama krāpnieku lapa!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Lietotāji ir sūdzējušies par lapu <span id='phishing_sitename'/>. Tā tiek uzskatīta par bīstamu krāpnieku lapu, un, balstoties uz jūsu drošības iestatījumiem, tā ir bloķēta.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Krāpnieku lapas ir veidotas ar mērķi izkrāpt no lietotājiem svarīgu privāto vai finanšu informāciju. Šīs lapas parasti atdarina kādu pazīstamu lapu, kurai jūs varētu uzticēties.</p><p>Jebkādas informācijas ievadīšana šajā lapā var novest pie jūsu datu zādzības vai krāpšanas.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Lietotāji ir sūdzējušies par lapu <span id='phishing_sitename'/>. Tā tiek uzskatīta par bīstamu krāpnieku lapu, un, balstoties uz jūsu drošības iestatījumiem, tā ir bloķēta.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Krāpnieku lapas ir veidotas ar mērķi izkrāpt no lietotājiem svarīgu privāto vai finanšu informāciju. Šīs lapas parasti atdarina kādu pazīstamu lapu, kurai jūs varētu uzticēties.</p><p>Jebkādas informācijas ievadīšana šajā lapā var novest pie jūsu datu zādzības vai krāpšanas.</p>">

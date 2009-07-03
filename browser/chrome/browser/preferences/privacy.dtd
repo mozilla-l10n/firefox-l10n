@@ -1,23 +1,5 @@
 <!ENTITY history.label "Vēsture">
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-
 <!ENTITY  locationBar.label             "Atrašanās vietas josla">
-
-<!ENTITY rememberDaysBefore.label "Glabāt manu vēsturi vismaz">
-<!ENTITY rememberDaysBefore.accesskey "v">
-<!ENTITY rememberDaysAfter2.label "dienas">
-
-<!ENTITY rememberForms.label "Atcerēties, ko es ievadu lapu formās un meklēšanas joslā">
-<!ENTITY rememberForms.accesskey "f">
-
-<!ENTITY rememberDownloads.label "Atcerēties manas lejupielādes">
-<!ENTITY rememberDownloads.accesskey "d">
-
 
 <!ENTITY  rememberDescription.label      "&brandShortName; atcerēsies jūsu pārlūkošanas, lejupielāžu, aizpildīto formu un meklēšanu vēsturi, kā arī saglabās apmeklēto lapu sīkdatnes.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
@@ -40,8 +22,6 @@
 <!ENTITY  rememberSearchForm.label       "Atcerēties meklēšanas un formu vēsturi">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-
-<!ENTITY cookies.label "Sīkdatnes">
 
 <!ENTITY acceptCookies.label "Pieņemt sīkdatnes no lapām">
 <!ENTITY acceptCookies.accesskey "i">
@@ -80,13 +60,6 @@
 <!ENTITY  privateBrowsingAutoStart.label "Automātiski sākt &brandShortName; privātās pārlūkošanas rešīmā">
 <!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
-<!ENTITY privateData.label "Privātie dati">
-
-<!ENTITY alwaysClear.label "Vienmēr notīrīt manus privātos datus, aizverot &brandShortName;">
-<!ENTITY alwaysClear.accesskey "v">
-
-<!ENTITY clearDataSettings.label "Iestatījumi...">
-<!ENTITY clearDataSettings.accesskey "t">
 
 <!ENTITY  locbar.pre.label              "Adrešu joslā ieteikt:">
 <!ENTITY  locbar.pre.accessKey          "A">
