@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "عودة">
 <!ENTITY back.tooltip          "عودة">
 <!ENTITY forward.label         "إلى الأمام">
@@ -40,6 +37,11 @@
 <!ENTITY editBookmarkMove.label    "انقل">
 <!ENTITY editBookmarkTags.label    "الوسوم:">
 <!ENTITY editBookmarkDone.label    "تمّ">
+
+<!ENTITY helperApp.prompt          "ماذا تريد أن تفعل ب‍">
+<!ENTITY helperApp.open            "افتحه">
+<!ENTITY helperApp.save            "احفظه">
+<!ENTITY helperApp.nothing         "لا تفعل شيئًا">
 
 <!ENTITY findOnCmd.label     "ابحث في هذه الصفحة…">
 <!ENTITY findOnCmd.accesskey "ث">
@@ -101,3 +103,6 @@
 <!ENTITY consoleErrFile.label      "ملف المصدر:">
 <!ENTITY consoleErrLine.label      "السطر:">
 <!ENTITY consoleErrColumn.label    "العمود:">
+
+<!ENTITY selectListDone.label      "تمّ">
+<!ENTITY selectListDisplay.format  "#1 عنصر/عناصر">
