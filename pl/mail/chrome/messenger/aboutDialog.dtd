@@ -1,9 +1,15 @@
 <!ENTITY aboutDialog.title   "O programie &brandFullName;">
 <!ENTITY credits.label       "Twórcy">
 <!ENTITY credits.accesskey   "T">
-<!ENTITY aboutLink.label     "&lt; O programie &brandShortName;">
-<!ENTITY aboutLink.accesskey "O">
+<!ENTITY aboutButton.label           "&lt; Wstecz">
+<!ENTITY aboutButton.accesskey       "W">
 <!ENTITY aboutVersion        "wersja">
 <!ENTITY copyrightText       "&#169;1998-2009 Współtwórcy. Wszelkie prawa zastrzeżone. Mozilla Thunderbird oraz logo Thunderbird są znakami towarowymi Mozilla Foundation. Wszelkie prawa zastrzeżone.">
+<!ENTITY aboutMenu.label             "O programie">
+<!ENTITY aboutMenu.accesskey         "O">
+<!ENTITY aboutRights.label           "Prawa użytkownika">
+<!ENTITY aboutRights.accesskey       "P">
+<!ENTITY aboutContributors.label     "Współtwórcy">
+<!ENTITY aboutContributors.accesskey "W">
 
 <!ENTITY cmdCloseMac.commandKey "w">
