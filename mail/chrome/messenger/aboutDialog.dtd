@@ -1,10 +1,17 @@
 <!ENTITY aboutDialog.title      "Über &brandFullName;">
 <!ENTITY credits.label          "Danksagungen">
 <!ENTITY credits.accesskey      "D">
-<!ENTITY aboutLink.label        "&lt; Über &brandFullName;">
-<!ENTITY aboutLink.accesskey    "Ü">
+<!ENTITY aboutButton.label      "&lt; Zurück">
+<!ENTITY aboutButton.accesskey  "Z">
 <!ENTITY aboutVersion           "Version">
 <!ENTITY copyrightText          "©1998-2009 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
                                  Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 
                                  reserved.">
+<!ENTITY aboutMenu.label        "Über">
+<!ENTITY aboutMenu.accesskey    "Ü">
+<!ENTITY aboutRights.label      "Ihre Rechte">
+<!ENTITY aboutRights.accesskey  "R">
+<!ENTITY aboutContributors.label "Mitwirkende">
+<!ENTITY aboutContributors.accesskey "M">
+
 <!ENTITY cmdCloseMac.commandKey "w">
