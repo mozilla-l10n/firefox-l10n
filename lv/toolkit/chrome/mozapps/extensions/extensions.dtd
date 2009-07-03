@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey "n">
 <!ENTITY cmd.installFileAddon.tooltip "Instalēt papildinājumu">
 <!ENTITY cmd.installFileTheme.tooltip "Instalēt tēmu">
-<!ENTITY cmd.installUpdatesAll.label "Instalēt atjauninājumu">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Instalē izvēlētos atjauninājumus">
+<!ENTITY cmd.installUpdatesAll2.label "Instalēt atjauninājumus">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Instalē izvēlētos atjauninājumus">
 <!ENTITY cmd.restartApp2.label "Pārstartēt &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "R">
 <!ENTITY cmd.restartApp2.tooltip "Lai pielietotu izmaiņas, pārstartējiet &brandShortName;">

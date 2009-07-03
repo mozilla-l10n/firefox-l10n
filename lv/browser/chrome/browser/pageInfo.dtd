@@ -63,6 +63,9 @@
 <!ENTITY generalSecurityDetails "Papildus informācija">
 <!ENTITY generalSecurityDetails.accesskey "P">
 
+<!ENTITY  permAskAlways         "Jautāt katru reizi">
+<!ENTITY  permGeo               "Atklāt atrašanās vietu">
+
 <!ENTITY mediaTab "Multivide">
 <!ENTITY mediaTab.accesskey "M">
 <!ENTITY mediaLocation "Adrese:">
