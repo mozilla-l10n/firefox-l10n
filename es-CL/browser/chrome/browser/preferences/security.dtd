@@ -20,7 +20,7 @@
 
 <!ENTITY  passwords.label               "Contraseñas">
 
-<!ENTITY  rememberPasswords.label       "Eliminar las contraseñas de los sitios">
+<!ENTITY  rememberPasswords.label       "Guardar las contraseñas de los sitios">
 <!ENTITY  rememberPasswords.accesskey   "r">
 <!ENTITY  passwordExceptions.label      "Excepciones…">
 <!ENTITY  passwordExceptions.accesskey  "x">
