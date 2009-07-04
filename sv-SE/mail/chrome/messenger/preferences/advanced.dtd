@@ -29,16 +29,18 @@
 <!ENTITY showCondensedAddresses.accesskey "V">
 
 <!ENTITY autoMarkAsRead.label          "Märk automatiskt meddelanden som lästa">
-<!ENTITY autoMarkAsRead.accesskey      "ä">
+<!ENTITY autoMarkAsRead.accesskey      "M">
 <!ENTITY markAsReadNoDelay.label       "Omedelbart vid visning">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.accesskey   "O">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "Efter att ha visats i">
-<!ENTITY markAsReadDelay.accesskey     "r">
+<!ENTITY markAsReadDelay.accesskey     "E">
 <!ENTITY secondsLabel.label            "sekunder">
 <!ENTITY openMsgIn.label               "Öppna meddelanden i:">
+<!ENTITY openMsgInNewTab.label         "en ny flik">
+<!ENTITY openMsgInNewTab.accesskey     "n">
 <!ENTITY reuseExpRadio0.label          "ett nytt fönster">
 <!ENTITY reuseExpRadio0.accesskey      "e">
 <!ENTITY reuseExpRadio1.label          "befintligt fönster">
