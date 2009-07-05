@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Hending …">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Oppgåve …">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalender …">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Opne">
@@ -61,11 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenderfil…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Kalender">
-<!ENTITY lightning.calendar.accesskey        "K">
-<!ENTITY lightning.tasks.label               "Oppgåver">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Kalender">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "Oppgåver">
+<!ENTITY lightning.menu.view.tasks.accesskey           "p">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Oppgåver og hendingar">
+<!ENTITY lightning.menu.eventtask.accesskey            "g">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "E-post">

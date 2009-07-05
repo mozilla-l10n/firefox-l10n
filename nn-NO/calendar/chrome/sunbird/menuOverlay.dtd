@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                                   "Sjå etter oppdateringar …">
 <!ENTITY updateCmd.accesskey                               "S">
 
+<!ENTITY sunbird.export.calendar.label                     "Eksporter kalender …">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "Vindauge">
 <!ENTITY minimizeWindow.label                              "Minimer">
