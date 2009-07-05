@@ -1,4 +1,3 @@
-<!ENTITY mainWindow.titleseparator " - ">
 <!ENTITY back.label "Indietro">
 <!ENTITY back.tooltip "Indietro">
 <!ENTITY forward.label "Avanti">
@@ -34,6 +33,10 @@
 <!ENTITY editBookmarkMove.label "Sposta">
 <!ENTITY editBookmarkDone.label "Fatto">
 <!ENTITY editBookmarkTags.label "Etichette:">
+<!ENTITY helperApp.prompt "Che operazione eseguire con">
+<!ENTITY helperApp.open "Apri">
+<!ENTITY helperApp.save "Salva">
+<!ENTITY helperApp.nothing "Nessuna">
 <!ENTITY findOnCmd.label "Trova in questa pagina…">
 <!ENTITY findOnCmd.accesskey "T">
 <!ENTITY findOnCmd.commandkey "f">
@@ -82,3 +85,5 @@
 <!ENTITY consoleErrFile.label "File sorgente:">
 <!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colonna:">
+<!ENTITY selectListDone.label "Fatto">
+<!ENTITY selectListDisplay.format "#1 elementi">
