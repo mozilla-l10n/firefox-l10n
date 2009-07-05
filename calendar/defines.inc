@@ -4,6 +4,6 @@
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Eirik U. Birkeland</em:contributor><em:contributor>Bjørn Svindseth</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Eirik Ulltang Birkeland</em:contributor><em:contributor>Bjørn Svindseth</em:contributor>
 
 #unfilter emptyLines

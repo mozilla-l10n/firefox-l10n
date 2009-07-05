@@ -85,7 +85,7 @@
 <!ENTITY folderProps.name.label                  "Namn:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Adresse:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.location.accesskey          "A">
 
 <!ENTITY folderSharingTab.label                  "Deling">
 <!ENTITY privileges.button.label                 "Løyve …">
