@@ -47,6 +47,5 @@
 <!ENTITY openHelpMac2.modifiers  "accel">
 
 <!ENTITY updateCmd.label         "Ieškoti naujinimų…">
-<!ENTITY updateCmd.accesskey     "n">
 <!ENTITY aboutCmd.label          "Apie „&brandFullName;“">
 <!ENTITY aboutCmd.accesskey      "A">

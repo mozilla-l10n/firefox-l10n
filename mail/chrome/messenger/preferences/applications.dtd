@@ -30,34 +30,22 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  downloadactionsWindow.title         "Atsiuntimo veiksmai">
-<!ENTITY  window.width                         "480">
-<!ENTITY  window.height                        "310">
+<!ENTITY  typeColumn.label        "Turinio tipas">
+<!ENTITY  typeColumn.accesskey    "t">
 
-<!ENTITY  fileTypesDescription.label          "Automatiškai atlikti susietus veiksmus su kiekvienu iš šių failų tipų:">
+<!ENTITY  actionColumn2.label     "Veiksmas">
+<!ENTITY  actionColumn2.accesskey "V">
 
-<!ENTITY  fileHandlerColumn.label             "Veiksmas">
-<!ENTITY  fileHandlerColumn.accesskey         "V">
-<!ENTITY  fileTypeColumn.label                "Failo tipas">
-<!ENTITY  fileTypeColumn.accesskey            "T">
-<!ENTITY  fileMIMETypeColumn.label            "MIME tipas">
-<!ENTITY  fileMIMETypeColumn.accesskey        "M">
-<!ENTITY  fileExtensionColumn.label           "Prievardis">
-<!ENTITY  fileExtensionColumn.accesskey       "P">
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  remove.label                        "Pašalinti veiksmą">
-<!ENTITY  remove.accesskey                    "š">
-<!ENTITY  edit.label                          "Keisti veiksmą…">
-<!ENTITY  edit.accesskey                      "K">
+<!ENTITY  filter.emptytext        "Ieškoti">
 
-<!ENTITY  windowClose.key                     "w">
-<!ENTITY  focusSearch1.key                    "f">
-<!ENTITY  focusSearch2.key                    "k">
-
-<!ENTITY  filter.label                        "Ieškoti:">
-<!ENTITY  filter.accesskey                    "I">
-<!ENTITY  clear.label                         "Išvalyti">
-<!ENTITY  clear.accesskey                     "v">
-
-<!ENTITY  button.close.label                  "Užverti">
-<!ENTITY  button.close.accesskey              "U">
+<!ENTITY saveTo.label                 "Įrašyti failus į aplanką">
+<!ENTITY saveTo.accesskey             "f">
+<!ENTITY alwaysAsk.label              "Visuomet klausti, kur įrašyti failus">
+<!ENTITY alwaysAsk.accesskey          "V">
+<!ENTITY chooseFolderWin.label        "Parinkti…">
+<!ENTITY chooseFolderWin.accesskey    "r">
+<!ENTITY chooseFolderMac.label        "Parinkti…">
+<!ENTITY chooseFolderMac.accesskey    "r">
