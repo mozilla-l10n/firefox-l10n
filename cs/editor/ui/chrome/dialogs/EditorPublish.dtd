@@ -43,7 +43,7 @@
 <!ENTITY publishTab.label "Zveřejnit">
 <!ENTITY settingsTab.label "Nastavení">
 
-<!ENTITY publishButton.label "Publikovath">
+<!ENTITY publishButton.label "Publikovat">
 
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label "Název webu:">
@@ -62,8 +62,8 @@
 <!ENTITY sameLocationRadio.tooltip "Použije stejné umístění souborů jako stránka">
 <!ENTITY useSubdirRadio.label "Použít tento podadresář:">
 <!ENTITY useSubdirRadio.accesskey "t">
-<!ENTITY useSubdirRadio.tooltip "Publish files to the selected remote subdirectory">
-<!ENTITY otherDirList.tooltip "Zadejte nebo vyverte vzdáleného podadresáře, kam se budou soubory publikovány">
+<!ENTITY useSubdirRadio.tooltip "Publikuje soubory do zvoleného vzdáleného podadresáře">
+<!ENTITY otherDirList.tooltip "Zvolte vzdálené podadresáře pro publikování souborů">
 <!ENTITY pageTitle.label "Nadpis stránky:">
 <!ENTITY pageTitle.accesskey "p">
 <!ENTITY pageTitle.tooltip "Vkládá nadpis stránky pro identifikaci okna v záložkách">

@@ -51,7 +51,7 @@
 <!ENTITY openFileCmd.label "Otevřít soubor…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Open adresu…">
+<!ENTITY openRemoteCmd.label "Otevřít adresu…">
 <!ENTITY openRemoteCmd.accesskey "a">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Poslední dokumenty">
@@ -331,8 +331,8 @@
 <!ENTITY decreaseIndent.accesskey "m">
 <!ENTITY decreaseIndent.key "-">
 
-<!ENTITY grid.label "Rastr pro poziciování">
-<!ENTITY grid.accesskey "t">
+<!ENTITY grid.label "Rastr pro pozicování">
+<!ENTITY grid.accesskey "R">
 
 <!ENTITY pageProperties.label "Vlastnosti stránky…">
 <!ENTITY pageProperties.accesskey "r">
@@ -429,8 +429,8 @@
 <!ENTITY linkToolbarCmd.tooltip "Vytvoří nový odkaz, nebo upraví označený">
 <!ENTITY anchorToolbarCmd.label "Kotva">
 <!ENTITY anchorToolbarCmd.tooltip "Vloží novou kotvu, nebo upraví označenou">
-<!ENTITY TextColorButton.tooltip "Výběr barvy textu">
-<!ENTITY BackgroundColorButton.tooltip "Výběr barvy pozadí">
+<!ENTITY TextColorButton.tooltip "Vybere barvu textu">
+<!ENTITY BackgroundColorButton.tooltip "Vybere barvu pozadí">
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Vybere barvu pro barevné zvýrazňování">
 
@@ -440,11 +440,11 @@
 <!ENTITY boldToolbarCmd.tooltip "Tučné">
 <!ENTITY italicToolbarCmd.tooltip "Kurzíva">
 <!ENTITY underlineToolbarCmd.tooltip "Podtržené">
-<!ENTITY bulletListToolbarCmd.tooltip "Přidání či odstranění odrážkového seznamu">
-<!ENTITY numberListToolbarCmd.tooltip "Přidání či odstranění číslovaného seznamu">
+<!ENTITY bulletListToolbarCmd.tooltip "Přidá či odstraní odrážky">
+<!ENTITY numberListToolbarCmd.tooltip "Přidá či odstraní číslování">
 <!ENTITY outdentToolbarCmd.tooltip "Odsadí text (posune vlevo)">
 <!ENTITY indentToolbarCmd.tooltip "Odsadí text (vpravo)">
-<!ENTITY AlignPopupButton.tooltip "Volba zarovnání textu">
+<!ENTITY AlignPopupButton.tooltip "Zarovná text">
 <!ENTITY InsertPopupButton.tooltip "Vloží odkaz, kotvu, obrázek, vodorovnou linku nebo tabulku">
 <!ENTITY alignLeftButton.tooltip "Zarovná text k levému okraji">
 <!ENTITY alignCenterButton.tooltip "Zarovná text na střed">
@@ -480,9 +480,9 @@
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label "Vybrat">
 <!ENTITY structSelect.accesskey "V">
-<!ENTITY structRemoveTag.label "Odebrat tag">
+<!ENTITY structRemoveTag.label "Odebrat značku">
 <!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "Změnit tag">
+<!ENTITY structChangeTag.label "Změnit značku">
 <!ENTITY structChangeTag.accesskey "m">
 
 <!-- TOC manipulation -->

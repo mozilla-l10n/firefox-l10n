@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label "Zpět">
 <!ENTITY back.tooltip "Zpět">
 <!ENTITY forward.label "Vpřed">
@@ -41,6 +38,11 @@
 <!ENTITY editBookmarkDone.label "Hotovo">
 <!ENTITY editBookmarkTags.label "Přidat štítky">
 
+<!ENTITY helperApp.prompt "Jakou akci si přejete provést?">
+<!ENTITY helperApp.open "Otevřít">
+<!ENTITY helperApp.save "Uložit">
+<!ENTITY helperApp.nothing "Nic">
+
 <!ENTITY findOnCmd.label "Hledat ve stránce…">
 <!ENTITY findOnCmd.accesskey "H">
 <!ENTITY findOnCmd.commandkey "f">
@@ -50,7 +52,7 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY addonsHeader.label "Doplňky">
-<!ENTITY addonsLocal.label "Your Add-ons">
+<!ENTITY addonsLocal.label "Vaše doplňky">
 <!ENTITY addonsRepo.label "Získat doplňky">
 <!ENTITY addonsRecommended.label "Zobrazit doporučené">
 <!ENTITY addonsSearch.label "Hledat v katalogu">
@@ -101,3 +103,5 @@
 <!ENTITY consoleErrFile.label "Zdrojový soubor:">
 <!ENTITY consoleErrLine.label "Řádek:">
 <!ENTITY consoleErrColumn.label "Sloupec:">
+
+<!ENTITY selectListDone.label "Hotovo">

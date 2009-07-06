@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label "Událost…">
+<!ENTITY lightning.menupopup.new.event.accesskey "U">
 <!ENTITY lightning.menupopup.new.task.label "Úkol…">
+<!ENTITY lightning.menupopup.new.task.accesskey "o">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalendář…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label "Otevřít">

@@ -1,179 +1,178 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problem loading page">
-<!ENTITY retry.label "Try Again">
+<!ENTITY loadError.label "Chyba při načítání stránky">
+<!ENTITY retry.label "Zkusit znovu">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Unable to connect">
+<!ENTITY connectionFailure.title "Chyba spojení">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "This address is restricted">
+<!ENTITY deniedPortAccess.title "Omezení přístupu na port">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Server not found">
+<!ENTITY dnsNotFound.title "Server nenalezen">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
+  <li>Zkontrolujte, zda je adresa napsána správně a neobsahuje chyby jako
+    <strong>ww</strong>.server.cz místo
+    <strong>www</strong>.server.cz</li>
+  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého 
+    počítače.</li>
+  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má 
+    &brandShortName; přístup na Internet.</li>
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "File not found">
+<!ENTITY fileNotFound.title "Soubor nenalezen">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
-  <li>Check to see if the file was moved, renamed or deleted.</li>
+  <li>Zkontrolujte, zda je jméno souboru napsáno správně a to včetně velikosti písmen.  </li>
+  <li>Zkontrolujte, zda soubor nebyl přesunut, přejmenován a nebo smazán.</li>
 </ul>
 ">
 
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "Nepodařilo se dokončit požadavek">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; can't load this page for some reason.</p>
+<p>&brandShortName; nemůže tuto stránku načíst.</p>
 ">
 
-<!ENTITY malformedURI.title "The address isn't valid">
+<!ENTITY malformedURI.title "Neplatná adresa">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Web addresses are usually written like
-    <strong>http://www.example.com/</strong></li>
-  <li>Make sure that you're using forward slashes (i.e.
+  <li>Adresa webové stránky má zpravidla tvar
+    <strong>http://www.server.cz/</strong></li>
+  <li>Zkontrolujte, zda používáte správná lomítka (tj.
     <strong>/</strong>).</li>
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "The connection was interrupted">
+<!ENTITY netInterrupt.title "Spojení bylo přerušeno">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.title "Režim offline">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Uncheck &quot;Work Offline&quot; in the File menu, then try again.</li>
+  <li>Zrušte zaškrtnutí &quot;Pracovat offline&quot; v nabídce Soubor a zkuste to znovu.</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "Chyba kódování obsahu">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>Kontaktujte prosím vlastníka webového serveru a informujte ho o tomto problému.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.title "Nebezpečný typ souboru">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "The connection was reset">
+<!ENTITY netReset.title "Spojení přerušeno">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "The connection has timed out">
+<!ENTITY netTimeout.title "Vypršel čas spojení">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "The address wasn't understood">
+<!ENTITY protocolNotFound.title "Neznámý protokol">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>You might need to install other software to open this address.</li>
+  <li>Pro otevření této adresy je možná potřeba nainstalovat dodatečný software.</li>
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.title "Proxy server odmítl spojení">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
+  <li>Zkontrolujte nastavení proxy serveru, zda je správné.</li>
+  <li>Kontaktujte svého síťového administrátora, zda je proxy server v provozu.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+
+<!ENTITY proxyResolveFailure.title "Proxy server nenalezen">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your computer has a working network connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
+  <li>Zkontrolujte, zda je nastavení proxy serveru správné.</li>
+  <li>Zkontrolujte, síťové připojení svého počítače.</li>
+  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má 
+    &brandShortName; přístup na Internet.</li>
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.title "Smyčka při přesměrování">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
+  <li>Tento problém může být způsoben zakázáním nebo odmítnutím
     cookies.</li>
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.title "Neplatná odpověď serveru">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
+  <li>Zkontrolujte, zda má váš systém nainstalován 
+Personal Security Manager.</li>
+  <li>Tato chyba může být rovněž způsobena nestandardní konfigurací serveru.</li>
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "Chyba zabezpečeného spojení">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+  <li>Požadovanou stránku nelze zobrazit, protože nelze ověřit autenticitu přijatých dat.</li>
+  <li>Kontaktujte prosím vlastníka webového serveru a informujte ho o tomto problému. Případně použijte dialog upozornění na chybou stránku z nabídky Nápověda a na tuto stránku upozorněte.</li>
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "Chyba zabezpečeného spojení">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
+<li>Tato chyba může být způsobena chybnou konfigurací serveru nebo někým, 
+kdo se snaží vydávat za server.</li>
+<li>Pokud jste se k tomuto serveru  připojili úspěšně již v minulosti, je možná
+ chyba jenom dočasná, a můžete to zkusit znovu později.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few
-    moments.</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
+  <li>Server je dočasně nedostupný. Zkuste to prosím znovu 
+za chvíli.</li>
+  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého 
+    počítače.</li>
+  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má 
+    &brandShortName; přístup na Internet.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.title "Podezřelá útočná stránka!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+<p>Útočné stránky se pokouší nainstalovat programy, které kradou vaše důvěrná data, používají váš počítač k dalším útokům, nebo jakkoliv poničí váš systém.</p>
+<p>Vlastníci webových stránek, kteří jsou přesvědčení, že jejich stránky byly nahlášeny omylem jako útočné, mohou <a href='http://www.stopbadware.org/home/reviewinfo' >požádat o kontrolu</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.title "Podezřelá podvodná stránka!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+<p>Vložení osobních informací na takovéto stránce může skočit krádeží identity a nebo jiným podvodem.</p>
+<p>Tyto podvodné stránky nazývané též útoky typu phishing se snaží zpravidla napodobit webové stránky a nebo e-maily ze zdrojů, kterým věříte.</p>
 ">
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
+<!ENTITY securityOverride.linkText "A nebo můžete přidat výjimku…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
+<!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 <!ENTITY securityOverride.warningText "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>Není doporučováno přidávat výjimku, pokud nemůžete svému internetovému spojení plně důvěřovat a nebo pokud nejste u tohoto serveru zvyklí vídat podobná varování.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
