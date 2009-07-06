@@ -26,12 +26,12 @@
 <!ENTITY cmd.installLocalFile.accesskey   "N">
 <!ENTITY cmd.installFileAddon.tooltip     "Nainštaluje doplnky">
 <!ENTITY cmd.installFileTheme.tooltip     "Nainštaluje témy">
-<!ENTITY cmd.installUpdatesAll.label      "Nainštalovať aktualizácie">
-<!ENTITY cmd.installUpdatesAll.accesskey  "N">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Nainštaluje vybrané aktualizácie">
-<!ENTITY cmd.restartApp2.label             "Reštartovať &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey         "R">
-<!ENTITY cmd.restartApp2.tooltip           "Zmeny sa prejavia až po reštarte aplikácie &brandShortName;">
+<!ENTITY cmd.installUpdatesAll2.label     "Nainštalovať aktualizácie">
+<!ENTITY cmd.installUpdatesAll2.accesskey "N">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Nainštalovať vybrané aktualizácie">
+<!ENTITY cmd.restartApp2.label            "Reštartovať &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "Zmeny sa prejavia až po reštarte aplikácie &brandShortName;">
 <!ENTITY cmd.skip.label                   "Preskočiť">
 <!ENTITY cmd.skip.accesskey               "P">
 <!ENTITY cmd.skip.tooltip                 "Preskočiť tieto aktualizácie">

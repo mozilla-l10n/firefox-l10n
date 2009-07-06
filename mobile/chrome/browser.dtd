@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Naspäť">
 <!ENTITY back.tooltip          "Naspäť">
 <!ENTITY forward.label         "Dopredu">
@@ -40,6 +37,11 @@
 <!ENTITY editBookmarkMove.label    "Presunúť">
 <!ENTITY editBookmarkDone.label    "Hotovo">
 <!ENTITY editBookmarkTags.label    "Pridajte značky">
+
+<!ENTITY helperApp.prompt          "Čo si prajete vykonať s">
+<!ENTITY helperApp.open            "Otvoriť">
+<!ENTITY helperApp.save            "Uložiť">
+<!ENTITY helperApp.nothing         "Nič">
 
 <!ENTITY findOnCmd.label     "Hľadať na tejto stránke…">
 <!ENTITY findOnCmd.accesskey "H">
@@ -82,16 +84,24 @@
 <!ENTITY noResults.label           "Žiadne výsledky">
 
 <!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o svojej identite.">
-<!ENTITY identity.connectedTo "Pripojené k stránke">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2 "Pripojené k">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "Spravuje ju">
 
-example.com
-which is run by
-Example Enterprises, Inc.
+<!ENTITY consoleHeader.label       "Chybová konzola">
+<!ENTITY consoleAll.label          "Všetko">
+<!ENTITY consoleErrors.label       "Chyby">
+<!ENTITY consoleWarnings.label     "Upozornenia">
+<!ENTITY consoleMessages.label     "Správy">
+<!ENTITY consoleCodeEval.label     "Kód:">
+<!ENTITY consoleClear.label        "Vymazať">
+<!ENTITY consoleEvaluate.label     "Vyhodnotiť">
+<!ENTITY consoleErrFile.label      "Zdroj:">
+<!ENTITY consoleErrLine.label      "Riadok:">
+<!ENTITY consoleErrColumn.label    "Stĺpec:">
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "Spravuje ju">
+<!ENTITY selectListDone.label      "Hotovo">
