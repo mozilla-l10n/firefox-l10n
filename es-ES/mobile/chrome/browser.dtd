@@ -1,4 +1,3 @@
-<!ENTITY mainWindow.titleseparator " - ">
 <!ENTITY back.label "Anterior">
 <!ENTITY back.tooltip "Anterior">
 <!ENTITY forward.label "Siguiente">
@@ -87,4 +86,3 @@
 <!ENTITY consoleErrLine.label "Línea:">
 <!ENTITY consoleErrColumn.label "Columna:">
 <!ENTITY selectListDone.label "Terminado">
-<!ENTITY selectListDisplay.format "#1 ítem">
