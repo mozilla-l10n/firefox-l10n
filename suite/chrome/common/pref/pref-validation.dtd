@@ -49,7 +49,7 @@
 <!ENTITY certOCSP2.accesskey "V">
 <!ENTITY proxyOCSP2.label "Valider tous les certificats utilisant le serveur OCSP suivant :">
 <!ENTITY proxyOCSP2.accesskey "a">
-<!ENTITY serviceURL.label "URL de service :">
+<!ENTITY serviceURL.label "URL du service :">
 <!ENTITY serviceURL.accesskey "s">
 <!ENTITY signingCA.label "Signataire de réponse :">
 <!ENTITY signingCA.accesskey "r">

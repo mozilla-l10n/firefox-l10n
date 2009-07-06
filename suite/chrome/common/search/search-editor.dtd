@@ -39,7 +39,7 @@
 <!ENTITY engine.column.label "Moteurs pour cette catégorie">
 <!ENTITY category.label "Catégorie">
 <!ENTITY category.accesskey "C">
-<!ENTITY done.label "Fait">
+<!ENTITY done.label "Terminé">
 
 <!ENTITY add.label "Ajouter">
 <!ENTITY add.accesskey "A">

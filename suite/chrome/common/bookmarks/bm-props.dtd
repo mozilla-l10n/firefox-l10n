@@ -52,7 +52,7 @@
 <!ENTITY checkforupdates.legend.label "Vérifier les mises à jour de cette page Web">
 <!ENTITY when.label                   "Quand :">
 <!ENTITY when.accesskey               "Q">
-<!ENTITY from.label                   "De :">
+<!ENTITY from.label                   "Depuis :">
 <!ENTITY from.accesskey               "D">
 <!ENTITY to.label                     " jusqu'à ">
 <!ENTITY to.accesskey                 "j">

@@ -99,7 +99,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
 <!ENTITY printPreviewCmd.accesskey "u">
-<!ENTITY printSetupCmd.label "Mise en page…">
+<!ENTITY printSetupCmd.label "Configuration de l'impression…">
 <!ENTITY printSetupCmd.accesskey "g">
 
 <!-- Edit Menu -->
@@ -492,7 +492,7 @@
 <!ENTITY markButton.tooltip "Marquer les messages">
 <!ENTITY printButton.tooltip "Imprimer ce message">
 <!ENTITY stopButton.tooltip "Arrêter le transfert en cours">
-<!ENTITY throbber.tooltip "Aller à la page de &vendorShortName;">
+<!ENTITY throbber.tooltip "Visiter la page de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marquer les messages sélectionnés comme indésirables">
 <!ENTITY notJunkButton.tooltip "Marquer les messages sélectionnés comme acceptables">
 

@@ -24,10 +24,10 @@
 <!ENTITY closeCmd.label                 "Fermer">
 <!ENTITY closeCmd.key                   "W">
 
-<!ENTITY printSetupCmd.label            "Mise en page…">
+<!ENTITY printSetupCmd.label            "Configuration de l'impression…">
 <!ENTITY printSetupCmd.accesskey        "g">
 
-<!ENTITY redoCmd.label                  "Refaire">
+<!ENTITY redoCmd.label                  "Rétablir">
 <!ENTITY redoCmd.key                    "Z">
 
 <!ENTITY historyCmd.key                 "H">

@@ -10,7 +10,7 @@
 <!ENTITY languages.customize.deleteButton.accesskey "S">
 <!ENTITY languages.customize.add.title.label "Ajouter des langues">
 <!ENTITY languages.customize.available.label "Langues :">
-<!ENTITY languages.customize.active.label "Langues préférées :">
+<!ENTITY languages.customize.active.label "Langues par ordre de préférence :">
 <!ENTITY languages.customize.active.accesskey "L">
 <!ENTITY languages.customize.others.label "Autres :">
 <!ENTITY languages.customize.others.accesskey "u">

@@ -116,7 +116,7 @@
 <!ENTITY  permAllowSession      "Autoriser pour la session">
 <!ENTITY  permBlock             "Bloquer">
 <!ENTITY  permissionsFor        "Permissions pour :">
-<!ENTITY  permImage             "Télécharger des images">
+<!ENTITY  permImage             "Charger des images">
 <!ENTITY  permPopup             "Ouvrir des fenêtres popup">
 <!ENTITY  permCookie            "Définir des cookies">
 <!ENTITY  permInstall           "Installer des extensions ou des thèmes">
@@ -132,9 +132,9 @@
 <!ENTITY  securityView.identity.header   "Identité du site Web">
 <!ENTITY  securityView.identity.owner    "Propriétaire : ">
 <!ENTITY  securityView.identity.domain   "Site Web : ">
-<!ENTITY  securityView.identity.verifier "Vérifié par : ">
+<!ENTITY  securityView.identity.verifier "Vérifiée par : ">
 
-<!ENTITY  securityView.privacy.header                   "Vie privée &amp; historique">
+<!ENTITY  securityView.privacy.header                   "Vie privée et historique">
 <!ENTITY  securityView.privacy.history                  "Ai-je déjà visité ce site auparavant ?">
 <!ENTITY  securityView.privacy.cookies                  "Ce site Web collecte-t-il des informations (cookies) sur mon ordinateur ?">
 <!ENTITY  securityView.privacy.viewCookies              "Gestion des cookies">

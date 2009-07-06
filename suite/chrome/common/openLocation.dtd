@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Saisissez l'adresse Web (URL), ou indiquez le fichier local à ouvrir :">
+<!ENTITY enter.label "Saisissez l'adresse Web (URL) ou spécifiez un fichier local que vous voulez ouvrir :">
 <!ENTITY enter.accesskey "a">
 <!ENTITY chooseFile.label "Choisir un fichier…">
 <!ENTITY chooseFile.accesskey "C">

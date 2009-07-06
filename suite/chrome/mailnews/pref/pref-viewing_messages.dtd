@@ -45,8 +45,8 @@
 <!ENTITY boldItalic.label "Gras italique">
 <!ENTITY size.label "Taille :">
 <!ENTITY size.accesskey "T">
-<!ENTITY bigger.label "Plus grand">
-<!ENTITY smaller.label "Plus petit">
+<!ENTITY bigger.label "Plus grande">
+<!ENTITY smaller.label "Plus petite">
 <!ENTITY color.label "Couleur :">
 <!ENTITY color.accesskey "C">
 <!ENTITY displayPlainText.caption "Messages en texte simple">

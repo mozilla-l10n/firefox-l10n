@@ -12,12 +12,12 @@
 <!ENTITY importFromNothing.label         "Ne rien importer">
 <!ENTITY importFromNothing.accesskey     "N">
 
-<!ENTITY importSource.title              "Importer les paramètres et les données">
+<!ENTITY importSource.title              "Importer des paramètres et des données">
 <!ENTITY importItems.title               "Éléments à importer">
 <!ENTITY importItems.label               "Sélectionnez les éléments à importer :">
 
-<!ENTITY selectProfile.title             "Sélection de profil">
-<!ENTITY selectProfile.label             "Les profils suivants sont disponibles à l'importation dans :">
+<!ENTITY selectProfile.title             "Choisir un profil">
+<!ENTITY selectProfile.label             "Les profils suivants sont disponibles à l'importation :">
 
 <!ENTITY migrating.title                 "Importation…">
 <!ENTITY migrating.label                 "Les éléments suivants sont en cours d'importation…">

@@ -37,11 +37,11 @@
 
 <!ENTITY print.label "Imprimer…">
 <!ENTITY print.accesskey "I">
-<!ENTITY pageSetup.label "Mise ne page…">
+<!ENTITY pageSetup.label "Configuration de l'impression…">
 <!ENTITY pageSetup.accesskey "M">
 <!ENTITY page.label "Page :">
 <!ENTITY page.accesskey "a">
-<!ENTITY of.label "de">
+<!ENTITY of.label "sur">
 <!ENTITY scale.label "Échelle :">
 <!ENTITY scale.accesskey "l">
 <!ENTITY portrait.label "Portrait">
@@ -63,7 +63,7 @@
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
 <!ENTITY Custom.label "Personnaliser…">
-<!ENTITY ShrinkToFit.label "Réduire à la taille">
+<!ENTITY ShrinkToFit.label "Adapter à la page">
 <!ENTITY customPrompt.title "Échelle personnalisée…">
 
 <!ENTITY homearrow.tooltip "Première page">

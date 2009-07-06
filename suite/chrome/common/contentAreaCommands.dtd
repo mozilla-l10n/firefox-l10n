@@ -13,7 +13,7 @@
 <!ENTITY openFrameCmd.accesskey "O">
 <!ENTITY openFrameCmdInTab.label "Ouvrir le cadre dans un nouvel onglet">
 <!ENTITY openFrameCmdInTab.accesskey "t">
-<!ENTITY showOnlyThisFrameCmd.label "N'afficher que ce cadre">
+<!ENTITY showOnlyThisFrameCmd.label "Afficher ce cadre uniquement">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
 <!ENTITY goBackCmd.label "Précédent">
 <!ENTITY goBackCmd.accesskey "r">
@@ -29,7 +29,7 @@
 <!ENTITY reloadFrameCmd.label "Actualiser le cadre">
 <!ENTITY reloadFrameCmd.accesskey "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Code source de la sélection">
-<!ENTITY viewPartialSourceForMathMLCmd.label "Code source MathML">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Code MathML de la sélection">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label "Code source de la page">
 <!ENTITY viewPageSourceCmd.accesskey "C">
@@ -41,7 +41,7 @@
 <!ENTITY viewFrameInfoCmd.accesskey "I">
 <!ENTITY fitImageCmd.label "Ajuster l'image à la fenêtre">
 <!ENTITY fitImageCmd.accesskey "f">
-<!ENTITY reloadImageCmd.label "Recharger l'image">
+<!ENTITY reloadImageCmd.label "Actualiser l'image">
 <!ENTITY reloadImageCmd.accesskey "e">
 <!ENTITY viewImageCmd.label "Afficher l'image">
 <!ENTITY viewImageCmd.accesskey "h">
@@ -86,7 +86,7 @@
 <!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY metadataCmd.label "Propriétés">
 <!ENTITY metadataCmd.accesskey "r">
-<!ENTITY copyEmailCmd.label "Copier l'adresse">
+<!ENTITY copyEmailCmd.label "Copier l'adresse électronique">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY pasteCmd.label "Coller">
 <!ENTITY pasteCmd.accesskey "l">
@@ -96,7 +96,7 @@
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY undoCmd.label "Annuler">
 <!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "Refaire">
+<!ENTITY redoCmd.label "Rétablir">
 <!ENTITY redoCmd.accesskey "a">
 <!ENTITY thisFrameMenu.label "Ce cadre">
 <!ENTITY thisFrameMenu.accesskey "C">

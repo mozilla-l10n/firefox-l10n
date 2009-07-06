@@ -15,8 +15,8 @@
 
 <!ENTITY sortOrder.label "Ordre de tri :">
 <!ENTITY sortOrder.accesskey "O">
-<!ENTITY sortAscending.label "Ascendant">
-<!ENTITY sortDescending.label "Descendant">
+<!ENTITY sortAscending.label "Ordre croissant">
+<!ENTITY sortDescending.label "Ordre décroissant">
 
 <!ENTITY sortFoldersFirst.label "Trier les dossiers en premier">
 <!ENTITY sortFoldersFirst.accesskey "d">

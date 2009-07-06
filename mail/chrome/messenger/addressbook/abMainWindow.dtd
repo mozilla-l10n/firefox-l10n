@@ -25,7 +25,7 @@
 <!ENTITY closeCmd.label                                 "Fermer">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "F">
-<!ENTITY printSetupCmd.label                            "Mise en page…">
+<!ENTITY printSetupCmd.label                            "Configuration de l'impression…">
 <!ENTITY printSetupCmd.accesskey                        "M">
 <!ENTITY printPreviewContactCmd.label                   "Aperçu de la fiche avant impression">
 <!ENTITY printPreviewContactCmd.accesskey               "d">

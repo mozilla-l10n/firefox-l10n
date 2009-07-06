@@ -10,7 +10,7 @@
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "Q">
 
-<!ENTITY redoCmd.label "Refaire">
+<!ENTITY redoCmd.label "Rétablir">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
 

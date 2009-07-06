@@ -29,7 +29,7 @@
 <!ENTITY uploadFile.label "Télécharger le fichier vers…">
 <!ENTITY uploadFile.accesskey "g">
 
-<!ENTITY printSetupCmd.label "Configurer l'impression…">
+<!ENTITY printSetupCmd.label "Configuration de l'impression…">
 <!ENTITY printSetupCmd.accesskey "r">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -132,7 +132,7 @@
 <!ENTITY forwardButton.label "Suivant">
 <!ENTITY forwardButton.tooltip "Avancer d'une page">
 <!ENTITY reloadButton.label "Actualiser">
-<!ENTITY reloadButton.tooltip "Recharger la page actuelle">
+<!ENTITY reloadButton.tooltip "Actualiser la page courante">
 <!ENTITY stopButton.label "Arrêter">
 <!ENTITY stopButton.tooltip "Arrêter le chargement de la page">
 <!ENTITY searchButton.label "Rechercher">
@@ -142,7 +142,7 @@
 <!ENTITY printButton.label "Imprimer">
 <!ENTITY printButton.tooltip "Imprimer cette page">
 
-<!ENTITY throbber.tooltip "Aller sur la page de &vendorShortName;">
+<!ENTITY throbber.tooltip "Visiter la page de &vendorShortName;">
 
 <!ENTITY locationBar.tooltip "Saisir un terme à rechercher, un mot-clé ou une adresse Web">
 <!ENTITY locationBar.accesskey "d">

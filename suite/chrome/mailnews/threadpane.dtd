@@ -56,7 +56,7 @@
 <!ENTITY idColumn.label "Ordre de réception">
 
 <!--Tooltips-->
-<!ENTITY columnChooser.tooltip "Cliquez pour choisir les colonnes à afficher">
+<!ENTITY columnChooser.tooltip "Cliquez pour sélectionner les colonnes à afficher">
 <!ENTITY threadColumn.tooltip "Cliquez pour afficher les fils de discussion">
 <!ENTITY fromColumn.tooltip "Cliquez pour trier par expéditeur">
 <!ENTITY recipientColumn.tooltip "Cliquez pour trier par destinataire">
