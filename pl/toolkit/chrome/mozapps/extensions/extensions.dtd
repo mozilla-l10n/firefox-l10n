@@ -4,7 +4,7 @@
 <!ENTITY em.width                         "540">
 <!ENTITY em.height                        "380">
 
-<!-- View labels -->                                                            
+<!-- View labels -->
 <!ENTITY search.label                     "Pobierz dodatki">
 <!ENTITY extensions.label                 "Rozszerzenia">
 <!ENTITY themes.label                     "Motywy">
@@ -95,7 +95,7 @@
 <!ENTITY cancelUpgrade.label              "Anuluj">
 <!ENTITY cancelUpgrade.accesskey          "A">
 
-<!-- Only displayed in the selected Add-on's context menu -->                   
+<!-- Only displayed in the selected Add-on's context menu -->
 <!ENTITY cmd.homepage.label               "Odwiedź stronę domową">
 <!ENTITY cmd.homepage.accesskey           "s">
 <!ENTITY cmd.about2.label                 "O tym dodatku">
@@ -160,7 +160,7 @@
 <!ENTITY updateSuccessRestart.label       "Uruchom program ponownie, by dokończyć aktualizację.">
 <!ENTITY installWaiting.label             "Oczekiwanie…">
 <!ENTITY installIncompatibleUpdate.label  "Sprawdzanie kompatybilności…">
-<!ENTITY installFinishing.label           "Instalowanie…">                      
+<!ENTITY installFinishing.label           "Instalowanie…">
 <!ENTITY installFailure.label             "Instalacja nie powiodła się.">
 
 <!ENTITY progressStatus.label             "Sprawdzanie dostępności aktualizacji">

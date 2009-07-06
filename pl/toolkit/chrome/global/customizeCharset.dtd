@@ -47,8 +47,8 @@
 <!ENTITY remove.accessKey "U">
 <!ENTITY additional.label "Dostępne zestawy znaków" >
 <!ENTITY add.label "Dodaj" >
-<!ENTITY add.accessKey    "o">  
-<!ENTITY moveUp.label     "W górę">                                            
-<!ENTITY moveUp.accessKey "g">                                                  
-<!ENTITY moveDown.label   "W dół">                                          
-<!ENTITY moveDown.accessKey "d">                                                
+<!ENTITY add.accessKey    "o">
+<!ENTITY moveUp.label     "W górę">
+<!ENTITY moveUp.accessKey "g">
+<!ENTITY moveDown.label   "W dół">
+<!ENTITY moveDown.accessKey "d">

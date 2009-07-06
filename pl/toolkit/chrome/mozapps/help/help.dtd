@@ -3,7 +3,7 @@
 <!ENTITY findOnCmd.commandkey           "F">
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
-  
+
 <!ENTITY backButton.label               "Wstecz">
 <!ENTITY backButton.accesskey           "t">
 <!ENTITY backButton.tooltip             "Przejdź do poprzedniej strony">
@@ -26,7 +26,7 @@
 <!ENTITY searchHeader.label             "Wyniki wyszukiwania">
 <!ENTITY toctab.label                   "Spis treści">
 <!ENTITY toctab.accesskey               "S">
-  
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
