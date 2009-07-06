@@ -48,7 +48,7 @@
 <!ENTITY print.label "Tisk">
 <!ENTITY find.label "Najít">
 <!ENTITY image.label "Obrázek">
-<!ENTITY hline.label "Horiz. linka">
+<!ENTITY hline.label "Linka">
 <!ENTITY table.label "Tabulka">
 <!ENTITY link.label "Odkaz">
 <!ENTITY anchor.label "Kotva">

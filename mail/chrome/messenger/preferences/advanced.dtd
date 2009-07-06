@@ -39,6 +39,8 @@
 <!ENTITY markAsReadDelay.accesskey "z">
 <!ENTITY secondsLabel.label "sekundách">
 <!ENTITY openMsgIn.label "Otevírat zprávy v:">
+<!ENTITY openMsgInNewTab.label "Novém panelu">
+<!ENTITY openMsgInNewTab.accesskey "p">
 <!ENTITY reuseExpRadio0.label "Novém okně">
 <!ENTITY reuseExpRadio0.accesskey "N">
 <!ENTITY reuseExpRadio1.label "Aktuálním okně se zprávou">

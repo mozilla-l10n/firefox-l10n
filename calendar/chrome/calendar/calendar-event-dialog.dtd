@@ -81,6 +81,8 @@
 <!ENTITY event.menu.file.close.accesskey "Z">
 <!ENTITY event.menu.file.save.label "Uložit">
 <!ENTITY event.menu.file.save.accesskey "l">
+<!ENTITY  event.menu.item.delete.label "Smazat…">
+<!ENTITY  event.menu.item.delete.accesskey "S">
 <!ENTITY event.menu.file.page.setup.label "Vzhled stránky…">
 <!ENTITY event.menu.file.page.setup.accesskey "V">
 <!ENTITY event.menu.file.print.label "Tisk…">
@@ -169,6 +171,7 @@
 
 <!-- Toolbar -->
 <!ENTITY event.toolbar.save.label "Uložit a zavřít">
+<!ENTITY  event.toolbar.delete.label "Smazat">
 <!ENTITY event.toolbar.attendees.label "Pozvat účastníky">
 <!ENTITY event.toolbar.spellcheck.label "Kontrola pravopisu">
 <!ENTITY event.toolbar.privacy.label "Soukromí">

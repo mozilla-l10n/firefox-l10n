@@ -39,10 +39,10 @@
 <!ENTITY insertSmiley.accesskey "S">
 <!ENTITY smiley1Cmd.label "Úsměv">
 <!ENTITY smiley1Cmd.accesskey "m">
-<!ENTITY smiley1Cmd.tooltip "Vloží usmívajícíse obličej">
+<!ENTITY smiley1Cmd.tooltip "Vloží usmívající se obličej">
 <!ENTITY smiley2Cmd.label "Zamračený">
 <!ENTITY smiley2Cmd.accesskey "Z">
-<!ENTITY smiley2Cmd.tooltip "Vloží zamračený face">
+<!ENTITY smiley2Cmd.tooltip "Vloží zamračený obličej">
 <!ENTITY smiley3Cmd.label "Mrknutí">
 <!ENTITY smiley3Cmd.accesskey "k">
 <!ENTITY smiley3Cmd.tooltip "Vloží mrkající obličej">
@@ -51,7 +51,7 @@
 <!ENTITY smiley4Cmd.tooltip "Vloží obličej s vyplazeným jazykem">
 <!ENTITY smiley5Cmd.label "Smích">
 <!ENTITY smiley5Cmd.accesskey "S">
-<!ENTITY smiley5Cmd.tooltip "Vloží smějícíse obličej">
+<!ENTITY smiley5Cmd.tooltip "Vloží smějící se obličej">
 <!ENTITY smiley6Cmd.label "Rozpačitý">
 <!ENTITY smiley6Cmd.accesskey "R">
 <!ENTITY smiley6Cmd.tooltip "Vloží rozpačitý obličej">

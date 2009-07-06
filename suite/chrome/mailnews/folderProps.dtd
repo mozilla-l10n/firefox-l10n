@@ -50,21 +50,21 @@
 <!ENTITY folderRebuildSummaryFileTip.label "Obnoví indexový soubor">
 
 <!ENTITY retention.label "Pravidla uchovávání zpráv">
-<!ENTITY retentionUseDefault.label "Použít výchozí nastavení serveru">
+<!ENTITY retentionUseDefault.label  "Použít výchozí nastavení serveru">
 <!ENTITY retentionUseDefault.accesskey "v">
 <!ENTITY daysOld.label "dny(ů)">
-<!ENTITY message.label "zpráv(y)">
-<!ENTITY retentionCleanup.label "Uchovávat zprávy:">
-<!ENTITY retentionCleanupImap.label "Uchovávat zprávy, both the local copies and their originals on the server:">
-<!ENTITY retentionCleanupPop.label "chovávat zprávy, including their originals on the server:">
+<!ENTITY message.label "zprávy">
+<!ENTITY retentionCleanup.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy.">
+<!ENTITY retentionCleanupImap.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy, jak místní kopie, tak originály na vzdáleném serveru.">
+<!ENTITY retentionCleanupPop.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy, včetně originálů na vzdáleném serveru.">
 <!ENTITY retentionDeleteMsg.label "Smazat zprávy starší než">
-<!ENTITY retentionDeleteMsg.accesskey "s">
+<!ENTITY retentionDeleteMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">
-<!ENTITY retentionKeepNew.accesskey "m">
-<!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
-<!ENTITY retentionKeepUnread.accesskey "V">
+<!ENTITY retentionKeepRecent.label "Smazat vše mimo posledních">
+<!ENTITY retentionKeepRecent.accesskey "m">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Vždy smazat přečtené zprávy (nezávisle na jejich stáří)">
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
 
