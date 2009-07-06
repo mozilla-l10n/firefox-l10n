@@ -39,11 +39,11 @@
 <!ENTITY directoryName.label               "Nom :">
 <!ENTITY directoryName.accesskey           "n">
 <!ENTITY directoryHostname.label           "Nom d'hôte :">
-<!ENTITY directoryHostname.accesskey       "h">
+<!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "Nom distinct de base :">
 <!ENTITY directoryBaseDN.accesskey         "b">
-<!ENTITY findButton.label                  "Trouver">
-<!ENTITY findButton.accesskey              "v">
+<!ENTITY findButton.label                  "Rechercher">
+<!ENTITY findButton.accesskey              "h">
 <!ENTITY directorySecure.label             "Utiliser une connexion chiffrée (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Connecter avec l'utilisateur :">

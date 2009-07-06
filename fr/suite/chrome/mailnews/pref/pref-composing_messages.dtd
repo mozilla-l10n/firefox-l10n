@@ -65,7 +65,7 @@
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "Langue :">
 <!ENTITY languagePopup.accessKey              "g">
-<!ENTITY moreDictionaries.label               "Télécharger plus de dictionnaires…">
+<!ENTITY moreDictionaries.label               "Télécharger d'autres dictionnaires…">
 
 <!ENTITY defaultMessagesHeader.label          "Paramètres par défaut pour les messages en HTML">
 <!ENTITY font.label                           "Police :">

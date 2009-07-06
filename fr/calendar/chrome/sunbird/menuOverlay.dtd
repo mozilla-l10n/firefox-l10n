@@ -146,7 +146,7 @@
 <!ENTITY optionsCmd.label                       "Options…">
 <!ENTITY optionsCmd.accesskey                   "O">
 
-<!ENTITY preferencesCmd.label                   "Préférences">
+<!ENTITY preferencesCmd.label                   "Préférences…">
 <!ENTITY preferencesCmd.accesskey               "f">
 <!ENTITY preferencesCmdMac.label                "Préférences…">
 <!ENTITY preferencesCmdMac.commandkey           ",">

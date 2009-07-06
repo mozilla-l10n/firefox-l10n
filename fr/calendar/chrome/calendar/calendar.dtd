@@ -70,7 +70,7 @@
 <!ENTITY calendar.events.filter.next31Days.label "Événements des 31 prochains jours">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Événements du mois en cours">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Fait">
+<!ENTITY calendar.unifinder.tree.done.label          "Terminé">
 <!ENTITY calendar.unifinder.tree.priority.label      "Priorité">
 <!ENTITY calendar.unifinder.tree.title.label         "Titre">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "Progression">

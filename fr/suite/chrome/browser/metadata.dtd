@@ -8,19 +8,19 @@
 <!ENTITY image-width.label     "Largeur :">
 <!ENTITY image-height.label    "Hauteur :">
 <!ENTITY image-filesize.label  "Taille du fichier :">
-<!ENTITY insdel-sec.label      "Propriétés de l'élément inséré/supprimé">
+<!ENTITY insdel-sec.label      "Propriétés des éléments insérés/supprimés">
 <!ENTITY insdel-cite.label     "Info :">
 <!ENTITY insdel-date.label     "Date :">
 <!ENTITY link-sec.label        "Propriétés du lien">
 <!ENTITY link-url.label        "Adresse :">
 <!ENTITY link-target.label     "S'ouvrira dans :">
-<!ENTITY link-type.label       "Type de la cible :">
+<!ENTITY link-type.label       "Cible :">
 <!ENTITY link-lang.label       "Langue de la cible :">
 <!ENTITY link-rel.label        "Relation :">
 <!ENTITY link-rev.label        "Relation inversée :">
 <!ENTITY misc-sec.label        "Propriétés supplémentaires">
-<!ENTITY misc-lang.label       "Langue du texte :">
-<!ENTITY misc-title.label      "Titre du texte :">
-<!ENTITY misc-tblsummary.label "Sommaire du tableau :">
+<!ENTITY misc-lang.label       "Langue :">
+<!ENTITY misc-title.label      "Titre :">
+<!ENTITY misc-tblsummary.label "Résumé du tableau :">
 <!ENTITY quote-sec.label       "Propriétés de la citation">
 <!ENTITY quote-cite.label      "Info :">

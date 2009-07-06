@@ -6,7 +6,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Code source de : ">
+<!ENTITY mainWindow.preface "Source de : ">
 
 <!ENTITY viewPartialSourceWindow.title "Source DOM">
 
@@ -23,5 +23,5 @@
 <!ENTITY goToLineCmd.accesskey "A">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY printSetupCmd.label "Mise en page…">
+<!ENTITY printSetupCmd.label "Configuration de l'impression…">
 <!ENTITY printSetupCmd.accesskey "M">

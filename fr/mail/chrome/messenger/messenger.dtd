@@ -46,24 +46,24 @@
 <!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
 <!ENTITY emptyTrashCmd.accesskey "V">
-<!ENTITY offlineMenu.label "Hors-ligne">
+<!ENTITY offlineMenu.label "Hors ligne">
 <!ENTITY offlineMenu.accesskey "H">
-<!ENTITY offlineGoOfflineCmd.label "Travailler hors-connexion">
+<!ENTITY offlineGoOfflineCmd.label "Travailler hors connexion">
 <!ENTITY offlineGoOfflineCmd.accesskey "h">
 <!ENTITY synchronizeOfflineCmd.label "Télécharger/Synchroniser maintenant…">
 <!ENTITY synchronizeOfflineCmd.accesskey "T">
-<!ENTITY settingsOfflineCmd.label "Paramètres hors-ligne…">
+<!ENTITY settingsOfflineCmd.label "Paramètres hors ligne…">
 <!ENTITY settingsOfflineCmd.accesskey "P">
 <!ENTITY downloadSelectedCmd.label "Récupérer les messages sélectionnés">
 <!ENTITY downloadSelectedCmd.accesskey "R">
 <!ENTITY downloadStarredCmd.label "Récupérer les messages suivis">
 <!ENTITY downloadStarredCmd.accesskey "c">
-<!ENTITY printCmd.label "Imprimer">
+<!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
 <!ENTITY printPreviewCmd.accesskey "u">
-<!ENTITY printSetupCmd.label "Mise en page…">
+<!ENTITY printSetupCmd.label "Configuration de l'impression…">
 <!ENTITY printSetupCmd.accesskey "g">
 
 <!-- Edit Menu -->

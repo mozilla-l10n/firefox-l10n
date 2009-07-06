@@ -38,7 +38,7 @@
 <!ENTITY replaceButton.accessKey "R">
 <!ENTITY replaceAllButton.label "Tout remplacer">
 <!ENTITY replaceAllButton.accessKey "T">
-<!ENTITY stopButton.label "Stop">
+<!ENTITY stopButton.label "Arrêter">
 <!ENTITY stopButton.accessKey "S">
 <!ENTITY userDictionary.label "Dictionnaire personnel :">
 <!ENTITY moreDictionaries.label "Télécharger d'autres dictionnaires…">
