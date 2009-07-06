@@ -39,6 +39,8 @@
 <!ENTITY markAsReadDelay.accesskey     "E">
 <!ENTITY secondsLabel.label            "sekunder">
 <!ENTITY openMsgIn.label               "Åpne meldinger i:">
+<!ENTITY openMsgInNewTab.label         "En ny fane">
+<!ENTITY openMsgInNewTab.accesskey     "n">
 <!ENTITY reuseExpRadio0.label          "Et nytt vindu">
 <!ENTITY reuseExpRadio0.accesskey      "d">
 <!ENTITY reuseExpRadio1.label          "Et eksisterende meldingsvindu">
