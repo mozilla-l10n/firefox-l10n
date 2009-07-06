@@ -32,10 +32,17 @@
 <!ENTITY aboutDialog.title      "Apie „&brandFullName;“">
 <!ENTITY credits.label          "Autoriai">
 <!ENTITY credits.accesskey      "A">
-<!ENTITY aboutLink.label        "&lt; Apie „&brandFullName;“">
-<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutButton.label      "&lt; Atgal">
+<!ENTITY aboutButton.accesskey  "A">
 <!ENTITY aboutVersion           "laida">
-<!ENTITY copyrightText          "&#169;1998-2008 bendradarbiai. Visos teisės priklauso autoriams.
+<!ENTITY copyrightText          "&#169;1998-2009 bendradarbiai. Visos teisės priklauso autoriams.
                                  Vardas „Mozilla Thunderbird“ ir „Thunderbird“ logotipai yra bendrijos 
                                  „Mozilla Foundation“ prekės ženklai. Visos teisės priklauso autoriams.">
+<!ENTITY aboutMenu.label        "Apie">
+<!ENTITY aboutMenu.accesskey    "p">
+<!ENTITY aboutRights.label      "Jūsų teises">
+<!ENTITY aboutRights.accesskey  "t">
+<!ENTITY aboutContributors.label "Bendradarbius">
+<!ENTITY aboutContributors.accesskey "B">
+
 <!ENTITY cmdCloseMac.commandKey "w">

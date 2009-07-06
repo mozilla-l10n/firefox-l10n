@@ -12,8 +12,6 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
-   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -30,24 +28,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  changeAction.title                  "Veiksmo keitimas">
-<!ENTITY  window.width                        "36em">
-
-<!ENTITY  whenDownloading.label               "Atsiunčiant šio tipo failus:">
-
-<!ENTITY  openDefault.label                   "atverti numatytąja programa:">
-<!ENTITY  openDefault.accesskey               "a">
-<!ENTITY  openApplication.label               "atverti šia programa:">
-<!ENTITY  openApplication.accesskey           "p">
-<!ENTITY  changeApp.label                     "Parinkti…">
-<!ENTITY  changeApp.accesskey                 "P">
-<!ENTITY  saveToDisk.label                    "Įrašyti į diską">
-<!ENTITY  saveToDisk.accesskey                "r">
-<!ENTITY  saveToDefaultFolder.label           "numatytame siuntų aplanke">
-<!ENTITY  saveToDefaultFolder.accesskey       "s">
-<!ENTITY  saveToThisFolder.label              "šiame aplanke:">
-<!ENTITY  saveToThisFolder.accesskey          "m">
-<!ENTITY  chooseFolder.label                  "Parinkti…">
-<!ENTITY  chooseFolder.accesskey              "P">
-<!ENTITY  saveToAskMe.label                   "klausti, kur įrašyti">
-<!ENTITY  saveToAskMe.accesskey               "k">
+<!ENTITY appManager.title     "Programos savybės">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
+<!ENTITY remove.label         "Pašalinti">
+<!ENTITY remove.accesskey     "š">

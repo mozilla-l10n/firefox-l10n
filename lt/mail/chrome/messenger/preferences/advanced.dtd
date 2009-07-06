@@ -70,6 +70,8 @@
 <!ENTITY markAsReadDelay.accesskey           "p">
 <!ENTITY secondsLabel.label                  "sek.">
 <!ENTITY openMsgIn.label                     "Atveriamą laišką rodyti:">
+<!ENTITY openMsgInNewTab.label               "naujoje kortelėje">
+<!ENTITY openMsgInNewTab.accesskey           "k">
 <!ENTITY reuseExpRadio0.label                "naujame lange">
 <!ENTITY reuseExpRadio0.accesskey            "n">
 <!ENTITY reuseExpRadio1.label                "tame pačiame (atvertame) lange">

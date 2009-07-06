@@ -649,7 +649,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      present in the gloda search results.  The values can be found in
      messenger.properties with a prefix of "glodaSearch_results_why_". -->
 <!ENTITY glodaWhyColumn.label "Paiešką atitiko">
-
+<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
+     score assigned to the message as a result of the search.  The column
+     primarily exists to be sorted by, and its contents will probably have
+     little meaning for most users. -->
+<!ENTITY glodaScoreColumn.label "Taškai">
+		
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Spustelėkite ir pasirinkite, kuriuos stulpelius rodyti">
 <!ENTITY threadColumn.tooltip "Spustelėjus čia, bus rodomos laiškų gijos"> 
@@ -672,6 +677,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo eilę">
 <!ENTITY attachmentColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal priedus">
 <!ENTITY glodaWhyColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal priežastį, dėl kurios laiškas yra paieškos rezultatuose">
+<!ENTITY glodaScoreColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal atitikimo paieškos kriterijams kokybę">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Atverti laišką naujame lange">
