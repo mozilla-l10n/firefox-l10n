@@ -43,7 +43,7 @@
 <!ENTITY rememberHistory.post.label "días">
 <!ENTITY rememberDownload.label "Recordar el historial de descargas">
 <!ENTITY rememberDownload.accesskey "R">
-<!ENTITY rememberSearchForm.label "Recorgar el historial de formularios y búsquedas">
+<!ENTITY rememberSearchForm.label "Recordar el historial de formularios y búsquedas">
 <!ENTITY rememberSearchForm.accesskey "R">
 <!ENTITY clearOnClose.label "Limpiar el historial cuando &brandShortName; se cierre">
 <!ENTITY clearOnClose.accesskey "h">
