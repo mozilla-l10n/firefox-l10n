@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Pracovať offline">
 <!ENTITY goOfflineCmd.accesskey "f">
 
+<!ENTITY menubarCmd.label "Hlavná ponuka">
+<!ENTITY menubarCmd.accesskey "H">
 <!ENTITY navbarCmd.label "Navigačný panel">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Panel záložiek">
