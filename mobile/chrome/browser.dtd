@@ -30,9 +30,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator        " – ">
-
 <!ENTITY back.label                       "Atgal">
 <!ENTITY back.tooltip                     "Atgal">
 <!ENTITY forward.label                    "Pirmyn">
@@ -72,6 +69,11 @@
 <!ENTITY editBookmarkMove.label           "Perkelti">
 <!ENTITY editBookmarkTags.label           "Gairės:">
 <!ENTITY editBookmarkDone.label           "Įrašyti">
+
+<!ENTITY helperApp.prompt                 "Ką norėtumėte atlikti su ">
+<!ENTITY helperApp.open                   "Atverti">
+<!ENTITY helperApp.save                   "Įrašyti">
+<!ENTITY helperApp.nothing                "Nieko">
 
 <!ENTITY findOnCmd.label                  "Ieškoti šiame tinklalapyje…">
 <!ENTITY findOnCmd.accesskey              "I">
