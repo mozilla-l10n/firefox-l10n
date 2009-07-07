@@ -29,7 +29,7 @@
 <!ENTITY uploadFile.label "Télécharger le fichier vers…">
 <!ENTITY uploadFile.accesskey "g">
 
-<!ENTITY printSetupCmd.label "Configuration de l'impression…">
+<!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "r">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -142,7 +142,7 @@
 <!ENTITY printButton.label "Imprimer">
 <!ENTITY printButton.tooltip "Imprimer cette page">
 
-<!ENTITY throbber.tooltip "Visiter la page de &vendorShortName;">
+<!ENTITY throbber.tooltip "Visiter le site Web de &vendorShortName;">
 
 <!ENTITY locationBar.tooltip "Saisir un terme à rechercher, un mot-clé ou une adresse Web">
 <!ENTITY locationBar.accesskey "d">

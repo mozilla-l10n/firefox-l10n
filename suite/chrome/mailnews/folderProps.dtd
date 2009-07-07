@@ -53,7 +53,7 @@
 <!ENTITY retentionUseDefault.label "Utiliser les paramètres par défaut du serveur">
 <!ENTITY retentionUseDefault.accesskey "U">
 <!ENTITY daysOld.label "jours">
-<!ENTITY message.label "les plus récents">
+<!ENTITY message.label "messages les plus récents">
 <!ENTITY retentionCleanup.label "Conserver les messages :">
 <!ENTITY retentionCleanupImap.label "Conserver les messages, les copies locales et les originaux sur le serveur :">
 <!ENTITY retentionCleanupPop.label "Conserver les messages, y compris les originaux sur le serveur :">

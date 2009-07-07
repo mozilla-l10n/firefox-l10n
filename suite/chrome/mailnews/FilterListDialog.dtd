@@ -3,7 +3,7 @@
 <!ENTITY activeColumn.label "Actif">
 <!ENTITY newButton.label "Nouveau…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Éditer…">
+<!ENTITY editButton.label "Modifer…">
 <!ENTITY editButton.accesskey "d">
 <!ENTITY deleteButton.label "Supprimer">
 <!ENTITY deleteButton.accesskey "S">

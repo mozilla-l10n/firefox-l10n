@@ -11,7 +11,7 @@
 <!ENTITY helpButton.accesskey "e">
 <!ENTITY openButton.label "Ouvrir">
 <!ENTITY openButton.accesskey "O">
-<!ENTITY deleteButton.label "Effacer">
+<!ENTITY deleteButton.label "Supprimer">
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Rechercher les messages">
 <!ENTITY results.label "Résultats">

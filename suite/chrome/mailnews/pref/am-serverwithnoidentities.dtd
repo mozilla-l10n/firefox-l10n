@@ -1,4 +1,4 @@
-<!ENTITY accountTitle.label         "Paramètres des comptes">
+<!ENTITY accountTitle.label         "Paramètres du compte">
 <!ENTITY accountSettingsDesc.label  "Le compte suivant est spécial, car il n'y a pas d'identité qui lui est associée.">
 <!ENTITY accountName.label          "Nom du compte :">
 <!ENTITY accountName.accesskey      "N">

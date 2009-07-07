@@ -53,7 +53,7 @@
 <!ENTITY retentionUseDefault.label  "Utiliser les paramètres par défaut du serveur">
 <!ENTITY retentionUseDefault.accesskey "U">
 <!ENTITY daysOld.label "jours">
-<!ENTITY message.label "les plus récents">
+<!ENTITY message.label "messages les plus récents">
 <!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement.">
 <!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, les copies locales et les originaux sur le serveur distant.">
 <!ENTITY retentionCleanupPop.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, y compris sur le serveur distant.">

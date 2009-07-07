@@ -7,7 +7,7 @@
 <!ENTITY resetButton.accesskey       "f">
 <!ENTITY openButton.label            "Ouvrir">
 <!ENTITY openButton.accesskey        "o">
-<!ENTITY deleteButton.label          "Effacer">
+<!ENTITY deleteButton.label          "Supprimer">
 <!ENTITY deleteButton.accesskey      "e">
 <!ENTITY searchDialogTitle.label "Rechercher les messages">
 <!ENTITY results.label               "Résultats">
