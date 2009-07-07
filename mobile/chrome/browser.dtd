@@ -100,4 +100,3 @@
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
 <!ENTITY selectListDone.label      "Selesai">
-<!ENTITY selectListDisplay.format  "#1 Item">
