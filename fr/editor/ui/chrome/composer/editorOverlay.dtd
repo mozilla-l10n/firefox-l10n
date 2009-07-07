@@ -77,7 +77,7 @@
 <!ENTITY previewCmd.accesskey "V">
 <!ENTITY sendPageCmd.label "Envoyer la page…">
 <!ENTITY sendPageCmd.accesskey "g">
-<!ENTITY printSetupCmd.label "Configuration de l'impression…">
+<!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "I">

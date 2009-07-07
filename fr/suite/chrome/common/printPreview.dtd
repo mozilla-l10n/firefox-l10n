@@ -37,7 +37,7 @@
 
 <!ENTITY print.label "Imprimer…">
 <!ENTITY print.accesskey "I">
-<!ENTITY pageSetup.label "Configuration de l'impression…">
+<!ENTITY pageSetup.label "Mise en page…">
 <!ENTITY pageSetup.accesskey "M">
 <!ENTITY page.label "Page :">
 <!ENTITY page.accesskey "a">

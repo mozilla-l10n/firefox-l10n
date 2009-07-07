@@ -23,5 +23,5 @@
 <!ENTITY goToLineCmd.accesskey "A">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY printSetupCmd.label "Configuration de l'impression…">
+<!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "M">

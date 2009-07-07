@@ -1,4 +1,4 @@
-<!ENTITY accountTitle.label "Paramètres de compte">
+<!ENTITY accountTitle.label "Paramètres du compte">
 
 <!ENTITY biffStart.label "Vérifier les nouveaux articles toutes les ">
 <!ENTITY biffStart.accesskey "V">
@@ -14,7 +14,7 @@
 <!ENTITY manageSubscriptions.accesskey "G">
 
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Nouvelles et Blogs">
+<!ENTITY feeds.accountName "Blogs et nouvelles">
 <!ENTITY feeds.wizardShortName "Flux">  
-<!ENTITY feeds.wizardLongName "Nouvelles et Blogs">
+<!ENTITY feeds.wizardLongName "Blogs et nouvelles">
 <!ENTITY feeds.wizardLongName.accesskey "R">

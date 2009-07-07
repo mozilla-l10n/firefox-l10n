@@ -25,7 +25,7 @@
 <!ENTITY closeCmd.label                                 "Fermer">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "F">
-<!ENTITY printSetupCmd.label                            "Configuration de l'impression…">
+<!ENTITY printSetupCmd.label                            "Mise en page…">
 <!ENTITY printSetupCmd.accesskey                        "M">
 <!ENTITY printPreviewContactCmd.label                   "Aperçu de la fiche avant impression">
 <!ENTITY printPreviewContactCmd.accesskey               "d">
@@ -107,7 +107,7 @@
 <!ENTITY messengerCmd.label                             "Courrier et groupes de discussion">
 <!ENTITY messengerCmd.accesskey                         "C">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Chercher des adresses…">
+<!ENTITY searchAddressesCmd.label                       "Rechercher des adresses…">
 <!ENTITY searchAddressesCmd.accesskey                   "h">
 <!ENTITY importCmd.label				"Importer…">
 <!ENTITY importCmd.accesskey                            "i">
@@ -177,9 +177,9 @@
 <!ENTITY HomePhone.accesskey                            "i">
 <!ENTITY WorkPhone.label                                "Travail">
 <!ENTITY WorkPhone.accesskey                            "l">
-<!ENTITY sortAscending.label                            "Montant">
-<!ENTITY sortAscending.accesskey                        "M">
-<!ENTITY sortDescending.label                           "Descendant">
+<!ENTITY sortAscending.label                            "Ordre croissant">
+<!ENTITY sortAscending.accesskey                        "o">
+<!ENTITY sortDescending.label                           "Ordre décroissant">
 <!ENTITY sortDescending.accesskey                       "c">
 <!ENTITY _PhoneticName.label                            "Nom phonétique">
 <!ENTITY _PhoneticName.accesskey                        "h">

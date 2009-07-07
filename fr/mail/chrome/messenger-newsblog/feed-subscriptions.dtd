@@ -1,8 +1,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Abonnements aux flux">
-<!ENTITY subscriptionDesc.label "Note : supprimer ou modifier le dossier pour un fil n'affectera pas les articles déjà téléchargés.">
+<!ENTITY subscriptionDesc.label "Note : supprimer ou modifier le dossier d'un flux n'affectera pas les articles déjà téléchargés.">
 <!ENTITY feedTitle.label "Titre :">
-<!ENTITY location.label "Emplacement :">
+<!ENTITY location.label "Adresse :">
 
 <!ENTITY button.addFeed.label "Ajouter">
 <!ENTITY button.addFeed.accesskey "A">

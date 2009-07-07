@@ -99,7 +99,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
 <!ENTITY printPreviewCmd.accesskey "u">
-<!ENTITY printSetupCmd.label "Configuration de l'impression…">
+<!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "g">
 
 <!-- Edit Menu -->
@@ -429,10 +429,10 @@
 
 
 <!--  Tools Menu -->
-<!ENTITY searchMailCmd.label "Recherche dans le courrier…">
+<!ENTITY searchMailCmd.label "Rechercher dans le courrier…">
 <!ENTITY searchMailCmd.accesskey "c">
 <!ENTITY searchMailCmd.key "s">
-<!ENTITY searchAddressesCmd.label "Recherche dans les adresses…">
+<!ENTITY searchAddressesCmd.label "Rechercher des adresses…">
 <!ENTITY searchAddressesCmd.accesskey "a">
 <!ENTITY filtersCmd.label "Filtres de messages…">
 <!ENTITY filtersCmd.accesskey "i">
@@ -492,7 +492,7 @@
 <!ENTITY markButton.tooltip "Marquer les messages">
 <!ENTITY printButton.tooltip "Imprimer ce message">
 <!ENTITY stopButton.tooltip "Arrêter le transfert en cours">
-<!ENTITY throbber.tooltip "Visiter la page de &vendorShortName;">
+<!ENTITY throbber.tooltip "Visiter le site Web de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marquer les messages sélectionnés comme indésirables">
 <!ENTITY notJunkButton.tooltip "Marquer les messages sélectionnés comme acceptables">
 

@@ -41,18 +41,18 @@
 <!ENTITY requestReceipt.label "Lors de l'envoi d'un message, toujours demander un accusé de réception">
 <!ENTITY requestReceipt.accesskey "v">
 <!ENTITY receiptArrive.label "Lorsqu'un accusé de réception arrive :">
-<!ENTITY leaveIt.label "le laisser dans mon courrier entrant">
+<!ENTITY leaveIt.label "Le laisser dans mon courrier entrant">
 <!ENTITY leaveIt.accesskey "i">
-<!ENTITY moveToSent.label "le placer dans mon dossier « Envoyés »">
+<!ENTITY moveToSent.label "Le déplacer dans mon dossier « Envoyés »">
 <!ENTITY moveToSent.accesskey "e">
 <!ENTITY requestMDN.label "Lorsque je reçois une demande d'accusé de réception :">
 <!ENTITY returnSome.label "Envoyer un accusé de réception pour certains messages ">
 <!ENTITY returnSome.accesskey "r">
 <!ENTITY never.label "Ne jamais envoyer d'accusé de réception">
 <!ENTITY never.accesskey "N">
-<!ENTITY notInToCc.label "Si je ne suis pas dans le Pour ou le CC du message :">
+<!ENTITY notInToCc.label "Si je ne suis pas dans le Pour ou le Cc du message :">
 <!ENTITY notInToCc.accesskey "m">
-<!ENTITY outsideDomain.label "Si l'expéditeur est hors de mon domaine :">
+<!ENTITY outsideDomain.label "Si l'expéditeur est en dehors de mon domaine :">
 <!ENTITY outsideDomain.accesskey "h">
 <!ENTITY otherCases.label "Dans tous les autres cas :">
 <!ENTITY otherCases.accesskey "D">

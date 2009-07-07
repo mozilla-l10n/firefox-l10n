@@ -1,4 +1,4 @@
-<!ENTITY pane.title "Accusé de réception">
+<!ENTITY pane.title "Accusés de réception">
 <!ENTITY useGlobalPrefs.label "Utiliser mes préférences globales d'accusés de réception pour ce compte">
 <!ENTITY useGlobalPrefs.accesskey "U">
 <!ENTITY useCustomPrefs.label "Personnaliser les accusés de réception pour ce compte">
@@ -6,7 +6,7 @@
 <!ENTITY requestReceipt.label "Lors de l'envoi d'un message, toujours demander un accusé de réception">
 <!ENTITY requestReceipt.accesskey "v">
 <!ENTITY receiptArrive.label "Lorsqu'un accusé de réception arrive :">
-<!ENTITY leaveIt.label "Le laisser dans mon Courrier entrant">
+<!ENTITY leaveIt.label "Le laisser dans mon courrier entrant">
 <!ENTITY leaveIt.accesskey "i">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label "Le déplacer dans mon dossier « Envoyés »">

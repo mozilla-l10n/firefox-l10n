@@ -6,7 +6,7 @@
 <!ENTITY offlineNotDownload.accesskey "g">
 <!ENTITY kb.label "Ko">
 <!ENTITY daysOld.label "jours">
-<!ENTITY message.label "messages les plus récents">
+<!ENTITY message.label "plus récents">
 <!ENTITY nntpNotDownloadRead.label "Les messages lus">
 <!ENTITY nntpNotDownloadRead.accesskey "m">
 <!ENTITY nntpDownloadMsg.label "Les messages ayant plus de">

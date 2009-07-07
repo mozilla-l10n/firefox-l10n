@@ -41,7 +41,7 @@
 <!ENTITY sendLaterCmd.label "Envoyer plus tard">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Configuration de l'impression…">
+<!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "M">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.key "P">
