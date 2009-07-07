@@ -53,7 +53,7 @@
 <!ENTITY credit.thanks    "Podziękowania dla">
 
 <!ENTITY credit.translation
-  "<h3>Polska lokalizacja</h3><ul><li>Maciej Chojnacki</li><li>Hubert Gajewski</li><li>Stanisław Małolepszy</li><li>Marek Stępień</li></ul><h3>Podziękowania od lokalizatorów dla:</h3><ul><li>Kacper Korwin-Mikke</li><li>Bartosz Piec</li></ul>">
+  "<h3>Polska lokalizacja</h3><ul><li>Maciej Chojnacki</li><li>Hubert Gajewski</li><li>Stanisław Małolepszy</li><li>Katarzyna Stawarz</li><li>Marek Stępień</li></ul><h3>Podziękowania od lokalizatorów dla:</h3><ul><li>Kacper Korwin-Mikke</li><li>Bartosz Piec</li></ul>">
 
 <!ENTITY credit.powered     "Oparte na">
 <!ENTITY license.and        "i">
