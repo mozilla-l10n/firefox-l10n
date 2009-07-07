@@ -58,7 +58,7 @@
 <!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 将会：">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "记录历史">
 <!ENTITY  historyHeader.dontremember.label "从不记录历史">
 <!ENTITY  historyHeader.custom.label       "使用自定义历史记录设置">
@@ -83,7 +83,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "清空当前所有历史记录">
 <!ENTITY  dontrememberActions.post.label         "。">
 
-<!ENTITY  privateBrowsingAutoStart.label "自动在隐私浏览会话中启动 &brandShortName; 。">
+<!ENTITY  privateBrowsingAutoStart.label "以隐私浏览模式启动 &brandShortName; 。">
 <!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
 <!-- LOCALIZATION NOTE:
@@ -93,7 +93,7 @@
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
 <!ENTITY  rememberHistory.pre.label      "保存我的访问历史，至少">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.pre.accesskey  "b">
 <!ENTITY  rememberHistory.post.label     "天">
 
 <!ENTITY  rememberDownload.label         "记录下载历史">
@@ -103,7 +103,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "当&brandShortName;关闭时清除历史 ">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "设置…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
