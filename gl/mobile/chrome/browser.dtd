@@ -23,7 +23,7 @@
 <!ENTITY cut.label             "Cortar">
 <!ENTITY copy.label            "Copiar">
 <!ENTITY copylink.label        "Copiar localización da ligazón">
-<!ENTITY paste.label           "Pegar">
+<!ENTITY paste.label           "Colar">
 <!ENTITY delete.label          "Eliminar">
 <!ENTITY selectAll.label       "Seleccionar todo">
 <!ENTITY noSuggestions.label   "(Sen suxestións)">

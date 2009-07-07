@@ -150,7 +150,7 @@
 <!ENTITY copyCmd.label            "Copiar">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "o">
-<!ENTITY pasteCmd.label           "Pegar">
+<!ENTITY pasteCmd.label           "Colar">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "a">
 <!ENTITY deleteCmd.label          "Eliminar">
@@ -350,7 +350,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "Pechar a barra lateral">
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
-<!ENTITY pasteButton.tooltip            "Pegar">
+<!ENTITY pasteButton.tooltip            "Colar">
 <!ENTITY quitApplicationCmdWin.label       "Saír">
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
 <!ENTITY goBackCmd.commandKey "[">
