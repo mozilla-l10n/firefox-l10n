@@ -1,24 +1,24 @@
 <!ENTITY pref.download.title            "Downloads">
+
 <!ENTITY downloadBehavior.label         "Beim Starten eines Downloads">
-<!ENTITY downloadLocation.label         "Beim Speichern einer Datei">
-<!ENTITY finishedBehavior.label         "Wenn ein Download abgeschlossen wird">
+<!ENTITY focusWhenStarting.label        "Den Download Manager in den Vordergrund bringen, wenn er bereits offen ist, ansonsten:">
+<!ENTITY focusWhenStarting.accesskey    "a">
 <!ENTITY openDM.label                   "Download-Manager öffnen">
 <!ENTITY openDM.accesskey               "M">
 <!ENTITY openProgressDialog.label       "Fortschritts-Dialog öffnen">
 <!ENTITY openProgressDialog.accesskey   "F">
 <!ENTITY doNothing.label                "Nichts öffnen">
 <!ENTITY doNothing.accesskey            "N">
-<!ENTITY promptDownload.label           "Nach Download-Ort fragen und Standard vorgeben:">
-<!ENTITY promptDownload.accesskey       "c">
-<!ENTITY lastLocation.label             "Letzter Download-Ordner">
-<!ENTITY lastLocation.accesskey         "L">
-<!ENTITY specifiedLocation.label        "Angegebener Download-Ordner">
-<!ENTITY specifiedLocation.accesskey    "g">
-<!ENTITY autoDownload.label             "Dateien automatisch in angegebenen Download-Ordner herunterladen">
-<!ENTITY autoDownload.accesskey         "a">
-<!ENTITY downloadFolder.label           "Aktueller Download-Ordner:">
+
+<!ENTITY downloadLocation.label         "Speicherort von Dateien">
+<!ENTITY saveTo.label                   "Dateien speichern in">
+<!ENTITY saveTo.accesskey               "s">
 <!ENTITY chooseDownloadFolder.label     "Ordner wählen…">
 <!ENTITY chooseDownloadFolder.accesskey "O">
+<!ENTITY alwaysAsk.label                "Immer nachfragen, wo Dateien gespeichert werden sollen">
+<!ENTITY alwaysAsk.accesskey            "m">
+
+<!ENTITY finishedBehavior.label         "Wenn ein Download abgeschlossen wird">
 <!ENTITY playSound.label                "Einen Klang abspielen">
 <!ENTITY playSound.accesskey            "K">
 <!ENTITY showAlert.label                "Warnung anzeigen">
