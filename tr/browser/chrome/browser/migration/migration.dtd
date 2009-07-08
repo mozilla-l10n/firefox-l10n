@@ -1,51 +1,51 @@
 
-<!ENTITY migrationWizard.title          "İçe aktarma sihirbazı">
+<!ENTITY migrationWizard.title "İçe aktarma sihirbazı">
 
-<!ENTITY importFrom.label               "Seçimleri, yer imlerini, geçmiş bilgisini, parolaları ve diğer verileri buradan içe aktar:">
-<!ENTITY importFromUnix.label           "Seçimleri, yer imlerini, geçmiş bilgisini, parolaları ve diğer verileri buradan içe aktar:">
-<!ENTITY importFromBookmarks.label      "Yer imlerini buradan içe aktar:">
+<!ENTITY importFrom.label "Seçimleri, yer imlerini, geçmiş bilgisini, parolaları ve diğer verileri buradan içe aktar:">
+<!ENTITY importFromUnix.label "Seçimleri, yer imlerini, geçmiş bilgisini, parolaları ve diğer verileri buradan içe aktar:">
+<!ENTITY importFromBookmarks.label "Yer imlerini buradan içe aktar:">
 
-<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird veya Phoenix">
-<!ENTITY importFromPhoenix.accesskey    "P">
-<!ENTITY importFromNothing.label        "İçe bir şey aktarma">
-<!ENTITY importFromNothing.accesskey    "b">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 veya Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromNetscape4.label      "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey  "4">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
-<!ENTITY importFromCamino.label         "Camino">
-<!ENTITY importFromCamino.accesskey     "C">
-<!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromOmniWeb.label        "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey    "W">
-<!ENTITY importFromICab.label           "iCab">
-<!ENTITY importFromICab.accesskey       "i">
-<!ENTITY importFromKonqueror.label      "Konqueror">
-<!ENTITY importFromKonqueror.accesskey  "K">
-<!ENTITY importFromEpiphany.label       "Epiphany">
-<!ENTITY importFromEpiphany.accesskey   "E">
-<!ENTITY importFromGaleon.label         "Galeon">
-<!ENTITY importFromGaleon.accesskey     "G">
-<!ENTITY importFromHTMLFile.label       "HTML dosyasından">
-<!ENTITY importFromHTMLFile.accesskey   "d">
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird veya Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "İçe bir şey aktarma">
+<!ENTITY importFromNothing.accesskey "B">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 veya Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "HTML dosyasından">
+<!ENTITY importFromHTMLFile.accesskey "D">
 
-<!ENTITY noMigrationSources.label       "Yer imlerinin, geçmişin veya parola verisinin kayıtlı olduğu hiçbir program bulunamadı.">
+<!ENTITY noMigrationSources.label "Yer imlerinin, geçmişin veya parola verisinin kayıtlı olduğu hiçbir program bulunamadı.">
 
-<!ENTITY importSource.title             "Ayarları ve verileri içe aktarma">
-<!ENTITY importItems.title              "İçe aktarılacak öğeler">
-<!ENTITY importItems.label              "İçe aktarılacak öğeyi seçin:">
+<!ENTITY importSource.title "Ayarları ve verileri içe aktarma">
+<!ENTITY importItems.title "İçe aktarılacak öğeler">
+<!ENTITY importItems.label "İçe aktarılacak öğeyi seçin:">
 
-<!ENTITY migrating.title                "İçe aktarılıyor...">
-<!ENTITY migrating.label                "Aşağıdaki öğeler başarılı bir şekilde içe aktarıldı.">
+<!ENTITY migrating.title "İçe aktarılıyor...">
+<!ENTITY migrating.label "Aşağıdaki öğeler başarılı bir şekilde içe aktarıldı.">
 
-<!ENTITY selectProfile.title            "Kimlik seç">
-<!ENTITY selectProfile.label            "Aşağıdaki kimlikler buradan içe aktarılabilir:">
+<!ENTITY selectProfile.title "Kimlik seç">
+<!ENTITY selectProfile.label "Aşağıdaki kimlikler buradan içe aktarılabilir:">
 
-<!ENTITY done.title                     "İçe aktarma tamamlandı">
-<!ENTITY done.label                     "Aşağıdaki öğeler başarılı şekilde içe aktarıldı:">
+<!ENTITY done.title "İçe aktarma tamamlandı">
+<!ENTITY done.label "Aşağıdaki öğeler başarılı şekilde içe aktarıldı:">
 

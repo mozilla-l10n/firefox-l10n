@@ -1,15 +1,15 @@
-<!ENTITY brandMotto       "The Browser, Reloaded">
-<!ENTITY credit.thanks    "Özel Olarak Teşekkür Ettiklerimiz">
+<!ENTITY brandMotto "Rediscover the Web">
+<!ENTITY credit.thanks "Özel Olarak Teşekkür Ettiklerimiz">
 
-<!ENTITY credit.thanks2       "Teşekkürlerimizi sunuyoruz:">
+<!ENTITY credit.thanks2 "Teşekkürlerimizi Sunuyoruz:">
 <!ENTITY credit.contributors2 "Katkıda Bulunanlar">
-
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "">
 
-<!ENTITY credit.memory      "Adına Adadıklarımız.">
-<!ENTITY credit.poweredByGeckoReg "Gücünün kaynağı Gecko&reg;.">
+<!ENTITY credit.translation "<h3>Çevirmenler</h3><ul><li>Erkan Kaplan</li><li>Ahmet Serkan Tıratacı</li></ul>">
+
+<!ENTITY credit.memory "Adına Adadıklarımız">
+<!ENTITY credit.poweredByGeckoReg "Gücünün kaynağı Gecko&reg;">

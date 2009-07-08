@@ -1,7 +1,7 @@
 <!ENTITY loadError.label "Sayfa yükleme hatası">
 <!ENTITY retry.label "Yeniden Dene">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Bağlanma girişimi başarısız">
 <!ENTITY connectionFailure.longDesc "<p>Açmak istediğiniz site çalışıyor görünmesine rağmen tarayıcı bu siteyle bağlantı kurmayı başaramadı.</p><ul><li>Site geçici olarak açılamıyor olabilir. Daha sonra yeniden deneyin.</li><li>Diğer sayfaları da açamıyor olabilirsiniz. Öyleyse bilgisayarınızın ağ bağlantısının durumuna gözatın.</li><li>Bilgisayarınız ya da ağınız güvenlik duvarıyla çevrili olabilir. Düzgün yapılmayan ayarlar internete erişmenizi engeller.</li></ul>">
@@ -16,7 +16,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Dosya taşınmış, silinmiş ya da adı değiştirilmiş olabilir.</li><li>Adreste yazım hatası yapılmış olabilir.</li><li>İstenen öğeye erişmek için gerekli izniniz olmayabilir.</li></ul>">
 
 <!ENTITY generic.title "İstek yerine getirilemiyor">
-<!ENTITY generic.longDesc "Sayfa yüklenemedi. Bu sayfa büyük olasılıkla yok veya adres yanlış. &lt;br/&gt; Adresin doğruluğunu, geçerliliğini ve doğru biçimde yazıldığını kontrol edin.">
+<!ENTITY generic.longDesc "<p>Additional information about this problem or error is currently unavailable.</p>">
 
 <!ENTITY malformedURI.title "Geçersiz adres">
 <!ENTITY malformedURI.longDesc "<p>Girilen adres tanınır biçimde değil. Konum çubuğuna bakıp olası hataları giderdikten sonra yeniden deneyin.</p>">
@@ -31,11 +31,9 @@
 <!ENTITY contentEncodingError.longDesc "<p>Bakmak istediğiniz sayfa gösterilemiyor, çünkü geçersiz ya da desteklenmeyen sıkıştırma biçimi kullanıyor.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Güvensiz dosya türü">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Bağlantı kesildi">
 <!ENTITY netReset.longDesc "<p>Bağlantı sırasında ağ iletişimi kesintiye uğradı. Lütfen yeniden deneyin.</p>">
@@ -62,27 +60,23 @@
 <!ENTITY nssFailure2.longDesc "<p>Bağlanmaya çalıştığınız sayfa geçersiz veya desteklenmeyen bir güvenlik iletişim kuralı kullandığı için gösterilemiyor.</p><ul><li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin ya da yardım menüsünde konu ile ilgili ayrıntılı bilgileri okuyun.</li></ul>">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatalı">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan ya da birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li>
-<li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li>
-<li>Gelişmiş şifreleme ayarlarına bakarak güvenlik sorunu yaşadığı bilinen sunucuların listesini görebilir ve üzerinde değişiklik yapabilirsiniz.</li>
-</ul>
-">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan ya da birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> 
+<li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li> 
+<li>Gelişmiş şifreleme ayarlarına bakarak güvenlik sorunu yaşadığı bilinen sunucuların listesini görebilir ve üzerinde değişiklik yapabilirsiniz.</li> 
+</ul>">
 
 <!ENTITY malwareBlocked.title "Şüpheli saldırı sitesi!">
-<!ENTITY malwareBlocked.longDesc "<p>
-Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p>
-<p>Bu siteyi ziyaret etmemelisiniz.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p> 
+Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p> 
+<p>Bu siteyi ziyaret etmemelisiniz.</p>">
 
 <!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p>
-<p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>
-">
-
+<!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 
+<p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
+
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

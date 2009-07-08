@@ -1,28 +1,26 @@
-<!ENTITY find.label                "Ara:">
-<!ENTITY find.accesskey            "A">
-<!ENTITY expand.label              "Genişlet">
-<!ENTITY expand.accesskey          "G">
-<!ENTITY collapse.label            "Daralt">
-<!ENTITY collapse.accesskey        "D">
+<!ENTITY find.label "Ara:">
+<!ENTITY find.accesskey "A">
+<!ENTITY expand.label "Genişlet">
+<!ENTITY expand.accesskey "G">
+<!ENTITY collapse.label "Daralt">
+<!ENTITY collapse.accesskey "D">
 <!ENTITY byDate.label "Tarih">
 <!ENTITY byDate.accesskey "T">
 <!ENTITY bySite.label "Site">
 <!ENTITY bySite.accesskey "S">
 <!ENTITY view.label "Görünüm">
-<!ENTITY view.accesskey "G">
+<!ENTITY view.accesskey "g">
 <!ENTITY byMostVisited.label "En çok ziyaret edilenler">
 <!ENTITY byMostVisited.accesskey "E">
 <!ENTITY byLastVisited.label "Son ziyaret edilenler">
 <!ENTITY byLastVisited.accesskey "S">
 <!ENTITY byDayAndSite.label "Tarih ve site">
-<!ENTITY byDayAndSite.accesskey "T">
+<!ENTITY byDayAndSite.accesskey "t">
 <!ENTITY openLinkInWindow.label "Aç">
 <!ENTITY openLinkInWindow.accesskey "A">
 <!ENTITY openInNewTab.label "Yeni sekmede aç">
 <!ENTITY openInNewTab.accesskey "Y">
 <!ENTITY openInNewWindow.label "Yeni pencerede aç">
 <!ENTITY openInNewWindow.accesskey "Y">
-<!ENTITY bookmarkLink.label "Yer imlerine ekle">
-<!ENTITY bookmarkLink.accesskey "Y">
 <!ENTITY copyLink.label "Bağlantı konumunu kopyala">
-<!ENTITY copyLink.accesskey "k">
+<!ENTITY copyLink.accesskey "K">

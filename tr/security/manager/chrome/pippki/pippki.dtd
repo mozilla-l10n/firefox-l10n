@@ -34,30 +34,31 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title  "Ana Parolayı Değiştir">
+
+<!ENTITY setPassword.title "Ana Parolayı Değiştir">
 <!ENTITY setPassword.tokenName.label "Güvenlik Aygıtları">
 <!ENTITY setPassword.oldPassword.label "Güncel parola:">
 <!ENTITY setPassword.newPassword.label "Yeni parola:">
 <!ENTITY setPassword.reenterPassword.label "Yeni parola (tekrar):">
 <!ENTITY setPassword.meter.label "Parola kalite ölçümü">
 <!ENTITY setPassword.meter.loading "Yükleniyor">
-
 <!-- Values for resetpassword.xul -->
+
 <!ENTITY resetPasswordButtonLabel "Sıfırla">
-<!ENTITY resetPassword.title  "Ana Parolayı Sıfırla">
-<!ENTITY resetPassword.text  "Eğer ana parolanızı sıfırlarsanız, Web ve E-Posta parolanız, Form verileriniz, kişisel sertifiklarını ve özel Anahtarlarınız kaybolur.  Ana parolanızı sıfırlamak istediğinizden emin misiniz?">
-
+<!ENTITY resetPassword.title "Ana Parolayı Sıfırla">
+<!ENTITY resetPassword.text "Eğer ana parolanızı sıfırlarsanız, Web ve E-Posta parolanız, Form verileriniz, kişisel sertifiklarını ve özel Anahtarlarınız kaybolur.  Ana parolanızı sıfırlamak istediğinizden emin misiniz?">
 <!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Ana parolanızı girin">
-<!ENTITY getPassword.password.label "Parola:">
 
+<!ENTITY getPassword.title "Ana parolanızı girin">
+<!ENTITY getPassword.tokenName2.label "Güvenlik aygıtı:">
+<!ENTITY getPassword.password.label "Parola:">
 <!-- These should be common -->
+
 <!ENTITY piperror.title "Hata">
 <!ENTITY pipalert.title "Hata - düzeltilemedi">
-
 <!-- Prefs panel strings -->
+
 <!ENTITY pref.security.general.lHeader "Güvenlik">
 <!ENTITY pref.security.general.rHeader "Genel güvenlik ayarları">
 <!ENTITY pref.security.general.header "Genel güvenlik ayarları">
@@ -65,8 +66,8 @@
 <!ENTITY pref.security.general.paranoid.label "Paranoid güvenlik ayarlarını kullan">
 <!ENTITY pref.security.general.certificates.title "Sertifikalar">
 <!ENTITY pref.security.general.manageCert.label "Sertifikaları yönet">
-
 <!-- Downloading a cert -->
+
 <!ENTITY downloadCert.title "Sertifika indiriliyor">
 <!ENTITY downloadCert.message1 "Yeni bir Sertifika Yöneticisinin (CA) güvenliğini sordunuz.">
 <!ENTITY downloadCert.trustSSL "Bu CA web sayfalarını belirlemede güvenli.">
@@ -77,32 +78,32 @@
 <!ENTITY downloadCert.viewPolicy.label "Güvenlik">
 <!ENTITY downloadCert.viewCert.text "CA sertifikasını kontrol et">
 <!ENTITY downloadCert.viewPolicy.text "CA Poliçesini ve Prosedurunu kontrol et">
-
 <!-- Certificate Exists in database -->
+
 <!ENTITY caCertExists.title "Sertifika mevcut">
 <!ENTITY caCertExists.message "Bu sertifika daha önceden kayıtlı.">
-
 <!-- Strings for the SSL client auth ask dialog -->
+
 <!ENTITY clientAuthAsk.title "Kullanıcı Belirleme Sorgulaması">
 <!ENTITY clientAuthAsk.message1 "Bu bölge sizin kendi sertifikanızın tanımlamasını istiyor:">
 <!ENTITY clientAuthAsk.message2 "Tanımlamada kullanılacak sertifikayı seçin:">
 <!ENTITY clientAuthAsk.message3 "Seçilen sertifika detayları:">
-
 <!-- Strings for the cert picker dialog -->
+
 <!ENTITY certPicker.title "Sertifika seçin">
-<!ENTITY certPicker.info  "Sertifika:">
+<!ENTITY certPicker.info "Sertifika:">
 <!ENTITY certPicker.detailsLabel "Seçilen sertifika detayları:">
 
-<!ENTITY pkcs12.setpassword.title  "Sertifika yedekleme parolanızı secin">
-<!ENTITY pkcs12.setpassword.message  "Koyduğunuz Sertifika yedekleme parolası , oluşturmak istediğiniz yedekleme dosyalarını korur. Yedeklemeye devam etmek için bu parolayı koymak zorundasınız. ">
+<!ENTITY pkcs12.setpassword.title "Sertifika yedekleme parolanızı secin">
+<!ENTITY pkcs12.setpassword.message "Koyduğunuz Sertifika yedekleme parolası , oluşturmak istediğiniz yedekleme dosyalarını korur. Yedeklemeye devam etmek için bu parolayı koymak zorundasınız. ">
 <!ENTITY pkcs12.setpassword.label1 "Sertifika yedekleme parolası:">
 <!ENTITY pkcs12.setpassword.label2 "Sertifika yedekleme parolası (tekrar):">
 <!ENTITY pkcs12.setpassword.reminder "Önemli: Eğer sertifika yedekleme parolanızı unutursanız, bu yedeklemeyi daha sonra yeniden oluşturamazsınız. Lütfen bunu güvenli bir ortamda saklayın.">
 
-<!ENTITY pkcs12.getpassword.title  "Parola Giriş Penceresi">
+<!ENTITY pkcs12.getpassword.title "Parola Giriş Penceresi">
 <!ENTITY pkcs12.getpassword.message "Lütfen Güvenlik sertifikasını ve onun özel Anahtarını yedekleyen parolanızı girin.">
 
-<!ENTITY chooseToken.title  "Simge Seçim Kutusu">
+<!ENTITY chooseToken.title "Simge Seçim Kutusu">
 <!ENTITY chooseToken.message1 "Lütfen bir simge secin.">
 
 <!ENTITY escrowWarn.title "Anahtar şifreleme kopyası">
@@ -113,18 +114,18 @@
 <!ENTITY examineCert.accesskey "S">
 
 <!ENTITY serverCrlNextupdate.message "Lütfen yardım için Sistem yöneticinize danışın.">
-
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "Özel anahtar oluştur">
-<!ENTITY createCertInfo.msg1 "Anahtar oluşturuluyor...Bu işlem biraz uzun sürebilir...">
-<!ENTITY createCertInfo.msg2 "Lütfen bekleyin...">
 
+<!ENTITY createCertInfo.title "Özel anahtar oluştur">
+<!ENTITY createCertInfo.msg1 "Anahtar oluşturuluyor… Bu işlem biraz uzun sürebilir…">
+<!ENTITY createCertInfo.msg2 "Lütfen bekleyin…">
 <!-- Form Signing confirmation prompt -->
+
 <!ENTITY formSigning.title "Metin yazı sorgulaması">
 <!ENTITY formSigning.cert "İmzalanan Seritifikalar">
 <!ENTITY formSigning.confirmPassword "Bu metni seçtiğiniz sertifika ile imzalamak için lütfen Ana parolanızı onaylayınız:">
-
 <!-- Strings for protectedAuth dialog -->
+
 <!ENTITY protectedAuth.title "Korunmuş İşaretin Kimlik Doğrulaması">
 <!ENTITY protectedAuth.msg "Lütfen işarete kimliğinizi doğrulayın. Kimlik doğrulama yöntemi işaretinizin türüne göre değişir.">
 <!ENTITY protectedAuth.tokenName.label "İşaret:">
@@ -132,5 +133,3 @@
 <!ENTITY certErrorDlg.title "Secure Connection Failed">
 <!ENTITY certErrorDlg.info1 "Bu, sunucunun yapılandırılmasından ya da sunucuyu taklit etmeye çalışan biri yüzünden kaynaklanan bir sorun olabilir.">
 <!ENTITY certErrorDlg.info2 "Sunucuya daha önce başarıyla bağlandıysanız, bu sorun geçici olabilir ve daha sonra yeniden deneyebilirsiniz.">
-<!ENTITY getPassword.tokenName2.label "Güvenlik aygıtı:">
-

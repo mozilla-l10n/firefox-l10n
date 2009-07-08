@@ -38,8 +38,8 @@
 # WARNING!!! This file is obsoleted by the dialog.xml widget
 #
 -->
-
 <!-- OK Cancel Buttons -->
-<!ENTITY okButton.label      "TAMAM">
-<!ENTITY cancelButton.label  "Vazgeç">
-<!ENTITY helpButton.label    "Yardım">
+
+<!ENTITY okButton.label "TAMAM">
+<!ENTITY cancelButton.label "Vazgeç">
+<!ENTITY helpButton.label "Yardım">

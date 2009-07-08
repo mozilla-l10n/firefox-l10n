@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Gizli Tarama">
+<!ENTITY privatebrowsingpage.title "Gizli tarama">
+<!ENTITY privatebrowsingpage.title.normal "Gizli taramayı başlatmak ister misiniz?">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Gizli Tarama">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; bu oturumda geçen hiçbir şeyi hatırlamayacak.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; hâlihazırda gizli taramada değil.">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; bu oturumda geçen hiçbir şeyi hatırlamayacak.">
-<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; bu oturum boyunca kayıt tutmayacak. Ziyaret geçmişi, arama geçmişi, indirme geçmişi, form geçmişi, çerezler ve geçici internet dosyaları buna dahildir. İndirdiğiniz dosyalar ya da koyduğunuz yer imleri ne olursa olsun korunacaktır.">
+<!ENTITY privatebrowsingpage.description "&brandShortName; gizli tarama boyunca kayıt tutmayacak. Ziyaret geçmişi, arama geçmişi, indirme geçmişi, form geçmişi, çerezler ve geçici internet dosyaları kaydı tutulmayacaklara dahildir. İndirdiğiniz dosyalar ya da koyduğunuz yer imleri ise korunacaktır.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "İşe yakın zamandaki tarama geçmişini silerek de başlamak isteyebilirsiniz.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Yakın geçmişi sil">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "s">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "İşe ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "yakın zamandaki tarama kayıtlarını silerek">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter " başlayabilirsiniz.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Gizli taramadan çıkmak için Araçlar &gt; Gizli tarama seçeneğinin işaretini kaldırın.">
-<!ENTITY privatebrowsingpage.footerDesc                "Keyifli gezintiler!">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Gizli taramayı başlat">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "G">
+
+<!ENTITY privatebrowsingpage.howToStop "Gizli taramadan çıkmak için &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; yolunu izleyin ya da &brandShortName; uygulamasını kapatın.">
+<!ENTITY privatebrowsingpage.howToStart "Gizli taramayı başlatmak için &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; yolunu da izleyebilirsiniz.">
+
+<!ENTITY privatebrowsingpage.moreInfo "Tarama geçmişinizle ilgili kayıtlar bu bilgisayar tarafından tutulmayacak olsa bile, internet servis sağlayıcınız ya da işvereniniz yine de ziyaret ettiğiniz sayfaları takip edebilir.">
+<!ENTITY privatebrowsingpage.learnMore "Daha fazla bilgi">

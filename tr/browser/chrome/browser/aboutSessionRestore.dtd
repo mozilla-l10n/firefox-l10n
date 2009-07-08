@@ -1,20 +1,19 @@
-<!ENTITY restorepage.remedies       "&brandShortName; tekrar tekrar kapanıyorsa:">
-<!ENTITY restorepage.dueToChrome    "Eklenti yöneticisine gidip yeni kurduğunuz bir eklentiyi devre dışı bırakmayı deneyin.">
-<!ENTITY restorepage.dueToContent   "Çökmeye neden olduğundan şüphelendiğiniz sayfalar olmadan önceki oturumu geri getirmeyi deneyin:">
+<!ENTITY restorepage.tabtitle "Oturumu kurtar">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.restoreButton  "Önceki oturumu kurtar">
+<!ENTITY restorepage.errorTitle "Üzgünüz ama...">
+<!ENTITY restorepage.problemDesc "&brandShortName; pencerelerinizi ve sekmelerinizi kurtarma konusunda sorun yaşıyor. Bu da genelde daha yeni açılan bir sayfadan kaynaklanır.">
+<!ENTITY restorepage.tryThis "Bunları yapmayı deneyebilirsiniz:">
+<!ENTITY restorepage.restoreSome "Soruna neden olduğunu düşündüğünüz bir veya daha fazla sekmeyi kaldırmak">
+<!ENTITY restorepage.startNew "Tamamen yeni bir tarama oturumu başlatmak">
+
+<!ENTITY restorepage.tryagainButton "Kurtar">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Yeni oturum aç">
-<!ENTITY restorepage.cancel.access  "Y">
+<!ENTITY restorepage.cancelButton "Yeni oturum başlat">
+<!ENTITY restorepage.cancel.access "Y">
 
-<!ENTITY restorepage.restoreHeader  "Kurtarma">
-<!ENTITY restorepage.listHeader     "Pencereler ve sekmeler">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "%S pencere">
-
-<!ENTITY restorepage.tabtitle       "Oturumu kurtar">
-<!ENTITY restorepage.pagetitle      "Oturumunuzu kurtarmak ister misiniz?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Önceki &brandShortName; oturumunuz beklenmeyen şekilde sona erdi. Yaşadığınız rahatsızlıktan dolayı gerçekten özür dileriz. Önceki oturumdaki sekmeleri ve pencereleri geri getirebilir, onlara ihtiyacınız yoksa baştan yeni oturum başlatabilirsiniz.">
-
+<!ENTITY restorepage.restoreHeader "Kurtarma">
+<!ENTITY restorepage.listHeader "Pencereler ve sekmeler">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel "&#37;S. pencere">

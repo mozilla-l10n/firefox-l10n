@@ -1,55 +1,83 @@
-<!ENTITY  history.label "Geçmiş">
+<!ENTITY history.label "Geçmiş">
 
+<!ENTITY locationBar.label "Konum çubuğu">
+
+<!ENTITY locbar.pre.label "Konum çubuğunu kullanırken anımsatılacaklar:">
+<!ENTITY locbar.pre.accessKey "l">
+<!ENTITY locbar.post.label "">
+<!ENTITY locbar.both.label "Geçmiş ve yer imleri">
+<!ENTITY locbar.history.label "Geçmiş">
+<!ENTITY locbar.bookmarks.label "Yer imleri">
+<!ENTITY locbar.nothing.label "Hiçbir şey">
+
+
+<!ENTITY acceptCookies.label "Sitelerin çerez bırakmasına izin ver">
+<!ENTITY acceptCookies.accesskey "z">
+
+<!ENTITY acceptThirdParty.label "Üçüncü kişilerin çerezlerini kabul et">
+<!ENTITY acceptThirdParty.accesskey "c">
+
+<!ENTITY keepUntil.label "Tutma sınırı:">
+<!ENTITY keepUntil.accesskey "T">
+
+<!ENTITY expire.label "süresi dolana dek">
+<!ENTITY close.label "&brandShortName; kapatılana dek">
+<!ENTITY askEachTime.label "her seferinde bana sor">
+
+<!ENTITY cookieExceptions.label "Ayrıcalıklar...">
+<!ENTITY cookieExceptions.accesskey "A">
+
+<!ENTITY showCookies.label "Çerezleri göster...">
+<!ENTITY showCookies.accesskey "Z">
+
+
+<!ENTITY historyHeader.pre.label "&brandShortName;:">
+<!ENTITY historyHeader.pre.accesskey "w">
+<!ENTITY historyHeader.remember.label "Geçmişi hatırlayacak">
+<!ENTITY historyHeader.dontremember.label "Geçmişi asla hatırlamayacak">
+<!ENTITY historyHeader.custom.label "Özel ayarları kullanacak">
+<!ENTITY historyHeader.post.label "">
+
+<!ENTITY rememberDescription.label "&brandShortName; tarama, indirme ve arama geçmişinizi hatırlayacak; ziyaret ettiğiniz sitelerin çerezlerini saklayacak.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY rememberActions.pre.label "İster ">
+<!ENTITY rememberActions.clearHistory.label "yakın geçmişinizi silin">
+<!ENTITY rememberActions.middle.label " ister ">
+<!ENTITY rememberActions.removeCookies.label "çerezleri tek tek silin">
+<!ENTITY rememberActions.post.label ".">
+
+<!ENTITY dontrememberDescription.label "&brandShortName; gizli taramadaki ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY dontrememberActions.pre.label "Ayrıca ">
+<!ENTITY dontrememberActions.clearHistory.label "şu ana kadar kaydedilmiş tarama geçmişinizi">
+<!ENTITY dontrememberActions.post.label " de silebilirsiniz.">
+
+<!ENTITY privateBrowsingAutoStart.label "&brandShortName; hep gizli tarama kipinde açılsın">
+<!ENTITY privateBrowsingAutoStart.accesskey "K">
 <!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
   line in preferences as follows:
 
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "En az">
-<!ENTITY  rememberDaysBefore.accesskey  "z">
-<!ENTITY  rememberDaysAfter2.label      "günlük ziyaret geçmişimi hatırla">
 
-<!ENTITY  rememberForms.label           "Formlarda ve arama çubuğunda girdiklerimi anımsa">
-<!ENTITY  rememberForms.accesskey       "o">
+<!ENTITY rememberHistory.pre.label "En az">
+<!ENTITY rememberHistory.pre.accesskey "e">
+<!ENTITY rememberHistory.post.label "günlük geçmişimi hatırla">
 
-<!ENTITY  rememberDownloads.label       "İndirdiklerimi anımsa">
-<!ENTITY  rememberDownloads.accesskey   "d">
+<!ENTITY rememberDownload.label "İndirme geçmişini hatırla">
+<!ENTITY rememberDownload.accesskey "d">
 
+<!ENTITY rememberSearchForm.label "Arama ve form geçmişini hatırla">
+<!ENTITY rememberSearchForm.accesskey "f">
 
-<!ENTITY  cookies.label                 "Çerezler">
+<!ENTITY clearOnClose.label "&brandShortName; kapatılınca geçmişi sil">
+<!ENTITY clearOnClose.accesskey "s">
 
-<!ENTITY  acceptCookies.label           "Sitelerin çerez bırakmasına izin ver">
-<!ENTITY  acceptCookies.accesskey       "z">
-
-<!ENTITY  acceptThirdParty.label        "Üçüncü kişilerin çerezlerini kabul et">
-<!ENTITY  acceptThirdParty.accesskey    "c">
-
-<!ENTITY  keepUntil.label               "Tutma sınırı:">
-<!ENTITY  keepUntil.accesskey           "T">
-
-<!ENTITY  expire.label                  "süresi dolana dek">
-<!ENTITY  close.label                   "&brandShortName; kapatılana dek">
-<!ENTITY  askEachTime.label             "her seferinde bana sor">
-
-<!ENTITY  cookieExceptions.label        "Ayrıcalıklar...">
-<!ENTITY  cookieExceptions.accesskey    "A">
-
-<!ENTITY  showCookies.label             "Çerezleri göster...">
-<!ENTITY  showCookies.accesskey         "z">
-
-
-<!ENTITY  privateData.label             "Özel Veri">
-
-<!ENTITY  alwaysClear.label              "&brandShortName; tarayıcısını her kapatışımda özel verilerimi temizle">
-<!ENTITY  alwaysClear.accesskey          "d">
-
-<!ENTITY  askBeforeClear.label           "Özel verileri silmeden önce bana sor">
-<!ENTITY  askBeforeClear.accesskey       "a">
-
-<!ENTITY  clearDataSettings.label        "Ayarlar...">
-<!ENTITY  clearDataSettings.accesskey    "l">
-
-<!ENTITY  clearDataNow.label             "Şimdi temizle...">
-<!ENTITY  clearDataNow.label2            "Şimdi temizle">
-<!ENTITY  clearDataNow.accesskey         "m">
+<!ENTITY clearOnCloseSettings.label "Ayarlar...">
+<!ENTITY clearOnCloseSettings.accesskey "a">

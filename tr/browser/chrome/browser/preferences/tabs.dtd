@@ -1,14 +1,14 @@
-<!ENTITY warnCloseMultipleTabs.label  "Çok sayıda sekme kapatılırken beni uyar">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+<!ENTITY newWindowsAsTabs.label "Yeni pencereleri yeni sekmede aç">
+<!ENTITY newWindowsAsTabs.accesskey "c">
 
-<!ENTITY warnOpenManyTabs.label       "Çok sayıda sekme açmanın &brandShortName; uygulamasını yavaşlatabileceği anlarda beni uyar">
-<!ENTITY warnOpenManyTabs.accesskey   "o">
+<!ENTITY warnCloseMultipleTabs.label "Çok sayıda sekme kapatılırken beni uyar">
+<!ENTITY warnCloseMultipleTabs.accesskey "m">
 
-<!ENTITY showTabBar.label             "Sekme çubuğunu her zaman göster">
-<!ENTITY showTabBar.accesskey         "k">
+<!ENTITY warnOpenManyTabs.label "Çok sayıda sekme açmanın &brandShortName; uygulamasını yavaşlatabileceği anlarda beni uyar">
+<!ENTITY warnOpenManyTabs.accesskey "o">
 
-<!ENTITY switchToNewTabs.label        "Bir bağlantıyı yeni bir sekmede açtığımda hemen o sekmeye geç">
-<!ENTITY switchToNewTabs.accesskey    "s">
-<!ENTITY newWindowsAsTabs.label       "Yeni pencereleri yeni sekmede aç">
-<!ENTITY newWindowsAsTabs.accesskey   "c">
+<!ENTITY showTabBar.label "Sekme çubuğunu her zaman göster">
+<!ENTITY showTabBar.accesskey "k">
 
+<!ENTITY switchToNewTabs.label "Bir bağlantıyı yeni bir sekmede açtığımda hemen o sekmeye geç">
+<!ENTITY switchToNewTabs.accesskey "s">

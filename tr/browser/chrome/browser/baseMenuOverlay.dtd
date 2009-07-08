@@ -1,48 +1,38 @@
-<!ENTITY minimizeWindow.key       "M">
-<!ENTITY minimizeWindow.label     "Küçült">
-<!ENTITY bringAllToFront.label    "Hepsini önplana getir">
-<!ENTITY zoomWindow.label         "Odakla">
-<!ENTITY windowMenu.label         "Pencere">
+<!ENTITY minimizeWindow.key "M">
+<!ENTITY minimizeWindow.label "Küçült">
+<!ENTITY bringAllToFront.label "Hepsini önplana getir">
+<!ENTITY zoomWindow.label "Odakla">
+<!ENTITY windowMenu.label "Pencere">
 
-<!ENTITY helpMenu.label           "Yardım"> 
-<!ENTITY helpMenu.accesskey       "Y"> 
+<!ENTITY helpMenu.label "Yardım">
+<!ENTITY helpMenu.accesskey "Y">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Yardım"> 
-<!ENTITY helpMenuWin.accesskey    "Y">
-<!ENTITY aboutCmd.label           "&brandFullName; hakkında">
-<!ENTITY aboutCmd.accesskey       "h">
-<!ENTITY helpContents.label       "Yardım içeriği">
-<!ENTITY helpContents.accesskey   "m">
-<!ENTITY helpContentsMac.label    "&brandShortName; yardımı">
-<!ENTITY helpForIEUsers.label     "Internet Explorer kullanıcılarına...">
+<!ENTITY helpMenuWin.label "Yardım">
+<!ENTITY helpMenuWin.accesskey "Y">
+<!ENTITY aboutCmd.label "&brandFullName; hakkında">
+<!ENTITY aboutCmd.accesskey "H">
+<!ENTITY helpContents.label "Yardım içeriği">
+<!ENTITY helpContents.accesskey "M">
+<!ENTITY helpContentsMac.label "&brandShortName; yardımı">
+<!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına...">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "VK_HELP">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY helpMac.commandkey "?">
 
-<!ENTITY helpReleaseNotes.label         "Sürüm notları">
-<!ENTITY helpReleaseNotes.accesskey     "r">
-<!ENTITY updateCmd.label                "Güncellemeleri denetle...">
-<!ENTITY updateCmd.accesskey            "t">
+<!ENTITY helpReleaseNotes.label "Sürüm notları">
+<!ENTITY helpReleaseNotes.accesskey "R">
+<!ENTITY updateCmd.label "Güncellemeleri bak...">
 
-<!ENTITY preferencesCmdMac.label        "Tercihler...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY preferencesCmdMac.label "Tercihler...">
+<!ENTITY preferencesCmdMac.commandkey ",">
 
-<!ENTITY servicesMenuMac.label          "Servisler">
+<!ENTITY servicesMenuMac.label "Servisler">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; uygulamasını gizle">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideThisAppCmdMac.label "&brandShortName; uygulamasını gizle">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Diğerlerini gizle">
+<!ENTITY hideOtherAppsCmdMac.label "Diğerlerini gizle">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label        "Tümünü göster">
+<!ENTITY showAllAppsCmdMac.label "Tümünü göster">
