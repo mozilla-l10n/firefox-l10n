@@ -22,7 +22,7 @@
 <!ENTITY selectAllCmd.accesskey    "T">
 <!ENTITY findCmd.label             "Rechercher">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "c">
+<!ENTITY findCmd.accesskey         "h">
 <!ENTITY findAgainCmd.label        "Rechercher le suivant">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
