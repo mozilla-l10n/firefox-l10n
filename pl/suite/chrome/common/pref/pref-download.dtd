@@ -1,29 +1,29 @@
 <!ENTITY pref.download.title "Menedżer pobierania plików">
+
 <!ENTITY downloadBehavior.label "Rozpoczynając pobieranie plików:">
-<!ENTITY downloadLocation.label "Podczas zapisywania pliku">
-<!ENTITY finishedBehavior.label "Gdy pobieranie zostanie zakończone">
+<!ENTITY focusWhenStarting.label "Wyróżniaj menedżer pobierania plików, jeżeli jest otwarty. W przeciwnym wypadku:">
+<!ENTITY focusWhenStarting.accesskey "W">
 <!ENTITY openDM.label "Otwórz Menedżera pobierania plików">
-<!ENTITY openDM.accesskey "m">
+<!ENTITY openDM.accesskey "O">
 <!ENTITY openProgressDialog.label "Wyświetl okno postępu">
 <!ENTITY openProgressDialog.accesskey "p">
 <!ENTITY doNothing.label "Nie otwieraj okna">
 <!ENTITY doNothing.accesskey "N">
-<!ENTITY promptDownload.label "Zapytaj i ustaw wybrany folder jako domyślny">
-<!ENTITY promptDownload.accesskey "r">
-<!ENTITY lastLocation.label "Ostatnio wybrany folder ">
-<!ENTITY lastLocation.accesskey "o">
-<!ENTITY specifiedLocation.label "Wybrany folder">
-<!ENTITY specifiedLocation.accesskey "e">
-<!ENTITY autoDownload.label "Pobieraj pliki automatycznie do wybranego folderu pobierania">
-<!ENTITY autoDownload.accesskey "A">
-<!ENTITY downloadFolder.label "Bieżący folder pobierania:">
+
+<!ENTITY downloadLocation.label "Podczas zapisywania pliku">
+<!ENTITY saveTo.label "Zapisuj pliki do">
+<!ENTITY saveTo.accesskey "Z">
 <!ENTITY chooseDownloadFolder.label "Wybierz folder…">
-<!ENTITY chooseDownloadFolder.accesskey "W">
+<!ENTITY chooseDownloadFolder.accesskey "f">
+<!ENTITY alwaysAsk.label "Pytaj, gdzie zapisać każdy plik">
+<!ENTITY alwaysAsk.accesskey "P">
+
+<!ENTITY finishedBehavior.label "Gdy pobieranie zostanie zakończone">
 <!ENTITY playSound.label "Odtwórz dźwięk">
 <!ENTITY playSound.accesskey "d">
 <!ENTITY showAlert.label "Pokaż okno">
-<!ENTITY showAlert.accesskey "n">
+<!ENTITY showAlert.accesskey "k">
 <!ENTITY browse.label "Przeglądaj…">
-<!ENTITY browse.accesskey "P">
+<!ENTITY browse.accesskey "r">
 <!ENTITY preview.label "Podgląd">
-<!ENTITY preview.accesskey "P">
+<!ENTITY preview.accesskey "g">
