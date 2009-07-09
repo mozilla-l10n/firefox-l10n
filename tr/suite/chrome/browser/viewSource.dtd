@@ -1,0 +1,27 @@
+<!-- extracted from content/viewSource.xul -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Kaynak: ">
+
+<!ENTITY viewPartialSourceWindow.title "DOM Source">
+
+<!ENTITY menu_wrapLongLines.title "Uzun satırları kes">
+<!ENTITY menu_wrapLongLines.accesskey "U">
+
+<!ENTITY menu_highlightSyntax.label "Sözdizimi vurgusu">
+<!ENTITY menu_highlightSyntax.accesskey "S">
+
+<!ENTITY findNextCmd.label "Find Next">
+<!ENTITY findNextCmd.accesskey "n">
+
+<!ENTITY goToLineCmd.label "Satıra git…">
+<!ENTITY goToLineCmd.accesskey "S">
+<!ENTITY goToLineCmd.commandkey "L">
+
+<!ENTITY printSetupCmd.label "Sayfa düzeni…">
+<!ENTITY printSetupCmd.accesskey "f">

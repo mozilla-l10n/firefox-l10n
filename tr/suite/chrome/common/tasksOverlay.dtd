@@ -1,0 +1,45 @@
+<!-- extracted from tasksOverlay.xul -->
+<!ENTITY navigatorCmd.label "Browser">
+<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.commandkey "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label "Composer">
+<!ENTITY editorCmd.accesskey "c">
+<!ENTITY editorCmd.commandkey "4">
+
+<!ENTITY javaConsoleCmd.label "Java Console">
+<!ENTITY javaConsoleCmd.accesskey "j">
+
+<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY taskNavigator.tooltip "Browser">
+<!ENTITY taskComposer.tooltip "Düzenleyici">
+
+<!ENTITY webDevelopment.label "Web Development">
+<!ENTITY webDevelopment.accesskey "W">
+
+<!ENTITY windowMenu.label "Window">
+<!ENTITY windowMenu.accesskey "W">
+
+<!ENTITY tasksMenu.label "Tools">
+<!ENTITY tasksMenu.accesskey "T">
+
+<!ENTITY passwordManagerCmd.label "Password Manager">
+<!ENTITY passwordManagerCmd.accesskey "P">
+
+<!ENTITY passwordDisplayCmd.label "Manage Stored Passwords">
+<!ENTITY passwordDisplayCmd.accesskey "M">
+
+<!ENTITY passwordExpireCmd.label "Log Out">
+<!ENTITY passwordExpireCmd.accesskey "l">
+
+<!ENTITY downloadManagerCmd.label "Download Manager">
+<!ENTITY downloadManagerCmd.accesskey "D">
+
+<!ENTITY addonsManagerCmd.label "Add-on Manager">
+<!ENTITY addonsManagerCmd.accesskey "A">
+
+<!ENTITY switchProfileCmd.label "Switch Profile…">
+<!ENTITY switchProfileCmd.accesskey "h">

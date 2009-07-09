@@ -1,0 +1,18 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "Göster:">
+<!ENTITY viewPicker.accesskey "r">
+<!ENTITY viewAll.label "Hepsini">
+<!ENTITY viewAll.accesskey "E">
+<!ENTITY viewUnread.label "Okunmayanları">
+<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewTags.label "Etiketler">
+<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewCustomViews.label "Özel gösterim">
+<!ENTITY viewCustomViews.accesskey "Z">
+<!ENTITY viewVirtualFolder.label "Gösterimi dizin olarak kaydet…">
+<!ENTITY viewVirtualFolder.accesskey "G">
+<!ENTITY viewCustomizeView.label "Özelleştir…">
+<!ENTITY viewCustomizeView.accesskey "L">

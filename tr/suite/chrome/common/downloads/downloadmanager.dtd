@@ -1,0 +1,78 @@
+<!ENTITY downloadManager.title "Download Manager">
+
+<!ENTITY menuBar.tooltip "Menü Çubuğu">
+<!ENTITY searchBar.tooltip "Search Bar">
+
+<!ENTITY search.emptytext "Search Downloads">
+<!ENTITY search.label "Search Downloads">
+<!ENTITY search.accesskey "S">
+<!ENTITY search.key "f">
+
+<!ENTITY cmd.clearList.label "Listeyi temizle">
+<!ENTITY cmd.clearList.tooltip "Tamamlanan, vazgeçilen ve başarısız olan indirme işlemleri listeden kaldırılır">
+<!ENTITY cmd.clearList.accesskey "E">
+
+<!ENTITY col.name.label "Name">
+<!ENTITY col.name.accesskey "N">
+<!ENTITY col.name.tooltip "File Name">
+<!ENTITY col.status.label "Durum">
+<!ENTITY col.status.accesskey "U">
+<!ENTITY col.status.tooltip "Status">
+<!ENTITY col.actionPlay.label "Pause/Resume/Retry">
+<!ENTITY col.actionPlay.accesskey "u">
+<!ENTITY col.actionPlay.tooltip "Pause/Resume/Retry">
+<!ENTITY col.actionStop.label "Cancel/Remove">
+<!ENTITY col.actionStop.accesskey "C">
+<!ENTITY col.actionStop.tooltip "Cancel/Remove">
+<!ENTITY col.progress.label "İlerleme">
+<!ENTITY col.progress.accesskey "L">
+<!ENTITY col.progress.tooltip "Progress">
+<!ENTITY col.timeremaining.label "Time Left">
+<!ENTITY col.timeremaining.accesskey "L">
+<!ENTITY col.timeremaining.tooltip "Time Left">
+<!ENTITY col.transferred.label "Transferred">
+<!ENTITY col.transferred.accesskey "T">
+<!ENTITY col.transferred.tooltip "Transferred">
+<!ENTITY col.transferrate.label "Speed">
+<!ENTITY col.transferrate.accesskey "d">
+<!ENTITY col.transferrate.tooltip "Speed">
+<!ENTITY col.timeelapsed.label "Time Elapsed">
+<!ENTITY col.timeelapsed.accesskey "E">
+<!ENTITY col.timeelapsed.tooltip "Time Elapsed">
+<!ENTITY col.progresstext.label "&#37;">
+<!ENTITY col.progresstext.accesskey "&#37;">
+<!ENTITY col.progresstext.tooltip "Progress (&#37;)">
+<!ENTITY col.source.label "Source">
+<!ENTITY col.source.accesskey "o">
+<!ENTITY col.source.tooltip "Kaynak">
+
+<!ENTITY view.columns.label "Sütunları göster">
+<!ENTITY view.columns.accesskey "S">
+<!ENTITY view.sortBy.label "Sort by">
+<!ENTITY view.sortBy.accesskey "S">
+
+<!ENTITY view.unsorted.label "Sınıflanmamış">
+<!ENTITY view.unsorted.accesskey "F">
+<!ENTITY view.sortAscending.label "A'dan Z'ye sırala">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Z'den A'ya sırala">
+<!ENTITY view.sortDescending.accesskey "Z">
+
+<!ENTITY cmd.pause.label "Pause">
+<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.resume.label "Devam et">
+<!ENTITY cmd.resume.accesskey "T">
+<!ENTITY cmd.retry.label "Yeniden dene">
+<!ENTITY cmd.retry.accesskey "D">
+<!ENTITY cmd.cancel.label "Vazgeç">
+<!ENTITY cmd.cancel.accesskey "V">
+<!ENTITY cmd.remove.label "Listeden kaldır">
+<!ENTITY cmd.remove.accesskey "e">
+<!ENTITY cmd.open.label "Open">
+<!ENTITY cmd.open.accesskey "O">
+<!ENTITY cmd.show.label "Bulunduğu dizini aç">
+<!ENTITY cmd.show.accesskey "D">
+<!ENTITY cmd.goToDownloadPage.label "İndirme sayfasına git">
+<!ENTITY cmd.goToDownloadPage.accesskey "G">
+<!ENTITY cmd.copyDownloadLink.label "İndirme bağlantısını kopyala">
+<!ENTITY cmd.copyDownloadLink.accesskey "L">

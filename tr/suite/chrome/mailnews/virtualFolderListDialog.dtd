@@ -1,0 +1,5 @@
+<!ENTITY server.label "Account: ">
+<!ENTITY server.accesskey "A">
+<!ENTITY virtualFolderListTitle.title "Dizin Seçin">
+<!ENTITY virtualFolderDesc.label "Aranacak dizini girin:">
+

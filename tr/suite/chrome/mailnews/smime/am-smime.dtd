@@ -1,0 +1,28 @@
+<!ENTITY securityTitle.label "Güvenlik">
+<!ENTITY securityTab.label "Güvenlik">
+<!ENTITY securityHeading.label "Şifreli mesajları almak ve göndermek için hem şifreleme sertifikası hem de  sayısal imza belirtmek zorundasınız.">
+<!ENTITY encryptionGroupTitle.label "Şifreleme">
+<!ENTITY encryptionChoiceLabel.label "Postaları gönderirken kullanılan öntanımlı şifreleme ayarları:">
+<!ENTITY neverEncrypt.label "Asla (şifreleme kullanma)">
+<!ENTITY neverEncrypt.accesskey "A">
+<!ENTITY alwaysEncryptMessage.label "Gerekli (alıcının sertifikası yoksa posta gönderilemez)">
+<!ENTITY alwaysEncryptMessage.accesskey "g">
+<!ENTITY encryptionCert.message "Aşağıdaki Kişisel Sertifikayı kullan:">
+<!ENTITY digitalSign.certificate.button "Seç…">
+<!ENTITY digitalSign.certificate.accesskey "s">
+<!ENTITY digitalSign.certificate_clear.button "Temizle">
+<!ENTITY digitalSign.certificate_clear.accesskey "c">
+<!ENTITY encryption.certificate.button "Seç…">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate_clear.button "Temizle">
+<!ENTITY encryption.certificate_clear.accesskey "E">
+<!ENTITY signingGroupTitle.label "Sayısal İmza">
+<!ENTITY signMessage.label "Postaları Sayısal İmzala (Öntanımlı)">
+<!ENTITY signMessage.accesskey "S">
+<!ENTITY signingCert.message "Aşağıdaki Kişisel Sertifikayı kullan:">
+
+<!ENTITY certificates.label "Sertifikalar">
+<!ENTITY manageCerts.label "Manage Certificates…">
+<!ENTITY manageCerts.accesskey "M">
+<!ENTITY manageDevices.label "Manage Security Devices…">
+<!ENTITY manageDevices.accesskey "g">

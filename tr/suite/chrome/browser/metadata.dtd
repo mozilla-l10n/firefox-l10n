@@ -1,0 +1,26 @@
+<!ENTITY no-properties.label "Özellikler belirtilmedi">
+
+<!ENTITY caption.label "Element Özellikleri">
+<!ENTITY image-sec.label "Resim Dosyası Özellikleri">
+<!ENTITY image-url.label "Konum:">
+<!ENTITY image-desc.label "Açıklama:">
+<!ENTITY image-alt.label "Alternatif metin:">
+<!ENTITY image-width.label "Width:">
+<!ENTITY image-height.label "Height:">
+<!ENTITY image-filesize.label "Dosya boyutu:">
+<!ENTITY insdel-sec.label "Ekleme/Silme özellikleri">
+<!ENTITY insdel-cite.label "Bilgi:">
+<!ENTITY insdel-date.label "Tarih:">
+<!ENTITY link-sec.label "Bağlantı Özellikleri">
+<!ENTITY link-url.label "Address:">
+<!ENTITY link-target.label "Açılacağı yer:">
+<!ENTITY link-type.label "Hedef tipi:">
+<!ENTITY link-lang.label "Hedef dil:">
+<!ENTITY link-rel.label "İlişki:">
+<!ENTITY link-rev.label "Geri dönen bağlantı:">
+<!ENTITY misc-sec.label "Çeşitli Özellikler:">
+<!ENTITY misc-lang.label "Metin dili">
+<!ENTITY misc-title.label "Title:">
+<!ENTITY misc-tblsummary.label "Tablo özeti">
+<!ENTITY quote-sec.label "Alıntı Özellikleri">
+<!ENTITY quote-cite.label "Bilgi:">

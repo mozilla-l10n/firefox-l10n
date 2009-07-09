@@ -1,0 +1,26 @@
+<!ENTITY migrationWizard.title "İçe aktarma sihirbazı">
+
+<!ENTITY importAllFrom.label "Import All Items from:">
+<!ENTITY importBookmarksFrom.label "Yer imlerini buradan içe aktar:">
+
+<!ENTITY importFromSeamonkey.label "SeaMonkey 1.x, Netscape 6/7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "S">
+<!ENTITY importFromThunderbird.label "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label "File">
+<!ENTITY importFromFile.accesskey "F">
+<!ENTITY importFromNothing.label "Don't import anything">
+<!ENTITY importFromNothing.accesskey "D">
+
+<!ENTITY importSource.title "Ayarları ve verileri içe aktarma">
+<!ENTITY importItems.title "İçe aktarılacak öğeler">
+<!ENTITY importItems.label "İçe aktarılacak öğeyi seçin:">
+
+<!ENTITY selectProfile.title "Kimlik seç">
+<!ENTITY selectProfile.label "Aşağıdaki kimlikler buradan içe aktarılabilir:">
+
+<!ENTITY migrating.title "Importing…">
+<!ENTITY migrating.label "The following items are currently being imported…">
+
+<!ENTITY done.title "İçe aktarma tamamlandı">
+<!ENTITY done.label "Aşağıdaki öğeler başarılı şekilde içe aktarıldı:">

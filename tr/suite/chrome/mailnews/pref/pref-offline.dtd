@@ -1,0 +1,30 @@
+<!-- extracted from content/pref-offline.xul -->
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+
+<!ENTITY pref.offline.title "Offline &amp; Disk Space">
+<!ENTITY pref.offline.caption "Offline">
+<!ENTITY textStartUp "Başlangıçta bunları yap:">
+<!ENTITY textStartUp.accesskey "W">
+<!ENTITY menuitemRememberPrevState "Remember previous online state">
+<!ENTITY menuitemAskMe "Ask me for online state at startup">
+<!ENTITY menuitemAlwaysOnline "Always start up online">
+<!ENTITY menuitemAlwaysOffline "Always start up offline">
+<!ENTITY menuitemAutomatic "Detect automatically (if available)">
+<!ENTITY textGoingOnline "Çevrim içi olunca gönderilmeyen iletiler gönderilsin mi?">
+<!ENTITY radioAutoSend "Evet">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend "Hayır">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Bana sor">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Çevrim dışı olurken indirilmeyen iletiler indirilsin mi?">
+<!ENTITY radioAutoDownload "Evet">
+<!ENTITY radioAutoDownload.accesskey "E">
+<!ENTITY radioNotDownload "Hayır">
+<!ENTITY radioNotDownload.accesskey "s">
+<!ENTITY radioAskDownload "Bana sor">
+<!ENTITY radioAskDownload.accesskey "k">
+<!ENTITY Diskspace "Disk Space">
+<!ENTITY offlineCompact.label "Compact folders when it will save over">
+<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY kb.label "KB">

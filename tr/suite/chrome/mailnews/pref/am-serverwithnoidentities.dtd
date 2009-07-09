@@ -1,0 +1,11 @@
+<!ENTITY accountTitle.label "Hesap Ayarları">
+<!ENTITY accountSettingsDesc.label "Bu bir özel hesaptır. Bu hesaba ilişkin kimlik bulunamadı.">
+<!ENTITY accountName.label "Hesap İsmi:">
+<!ENTITY accountName.accesskey "M">
+<!ENTITY messageStorage.label "Posta Kayıt">
+<!ENTITY emptyTrashOnExit.label "Çıkışta çöpü boşalt">
+<!ENTITY emptyTrashOnExit.accesskey "k">
+<!ENTITY localPath.label "Dizinler:">
+<!ENTITY localFolderPicker.label "Yerel Dizin Seç">
+<!ENTITY browseFolder.label "Gözat…">
+<!ENTITY browseFolder.accesskey "A">

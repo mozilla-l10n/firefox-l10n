@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title "Canlı yer imi özellikleri">
+
+<!ENTITY feedFolder.label "Kayıtlı canlı yer imleri:">
+<!ENTITY feedFolder.accesskey "K">
+
+<!ENTITY feedLocation.label "Canlı yer imi adresi:">
+<!ENTITY feedLocation.accesskey "C">
+
+<!ENTITY choosethisfolder.label "bu dosyayı seçin">
+
+<!ENTITY quickMode.label "Web sayfasını yüklemek yerine sayfaların bir özetini göster">
+<!ENTITY quickMode.accesskey "s">
+
+<!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
+<!ENTITY copyLinkCmd.accesskey "K">
+
+<!ENTITY pasteLinkCmd.label "Yapıştır">
+<!ENTITY pasteLinkCmd.accesskey "P">

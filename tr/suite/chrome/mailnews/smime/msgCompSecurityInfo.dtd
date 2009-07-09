@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Mesaj güvenliği">
+<!ENTITY subject.plaintextWarning "Lütfen unutmayın: E-postaların konu başlıkları asla şifrelenmezler.">
+<!ENTITY status.heading "Mesajınızın içeriği bunlara gönderilecektir:">
+<!ENTITY status.signed "Sayısal imzalı:">
+<!ENTITY status.encrypted "Şifreleme:">
+<!ENTITY status.certificates "Sertifikalar:">
+<!ENTITY view.label "Göster">
+<!ENTITY view.accesskey "G">
+<!ENTITY tree.recipient "Alıcı:">
+<!ENTITY tree.status "Durum:">
+<!ENTITY tree.issuedDate "Yayınlayıcı:">
+<!ENTITY tree.expiresDate "Geçerlilik tarihi:">

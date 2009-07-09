@@ -1,0 +1,37 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Kopyalar ve Dizinler">
+<!ENTITY sendingPrefix.label "Postaları Otomatik Gönderirken">
+<!ENTITY fccMailFolder.label "Bir kopyasını buraya koy:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "Yanıtları yanıtlanan iletinin dizinine koy">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc başka Adres:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY saveMessageDlg.label "Mesajlar kaydoldulurken onaylama penceresini göster">
+<!ENTITY saveMessageDlg.accesskey "s">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Gönderilen Mesajlar&quot; Dizini:">
+<!ENTITY sentFolderOn.accesskey "E">
+<!ENTITY sentInOtherFolder.label "Other Folder:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; Folder on:">
+<!ENTITY draftsFolderOn.accesskey "n">
+<!ENTITY draftInOtherFolder.label "Other Folder:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
+<!ENTITY archivesFolderOn.accesskey "v">
+<!ENTITY archiveInOtherFolder.label "Other Folder:">
+<!ENTITY archiveInOtherFolder.accesskey "d">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Geçici&quot; Dizini:">
+<!ENTITY templatesFolderOn.accesskey "g">
+<!ENTITY templateInOtherFolder.label "Other Folder:">
+<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY specialFoldersTitle.label "Taslaklar ve Geçici Dizinler">
+<!ENTITY keepDrafts.label "E-postaları Taslak içinde bırak:">
+<!ENTITY keepArchives.label "Keep message archives in:">
+<!ENTITY keepTempltes.label "E-postaların şablonlarını burda sakla:">

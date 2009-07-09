@@ -1,0 +1,36 @@
+<!-- for SearchDialog.xul -->
+
+<!ENTITY searchHeading.label "Postaları burada ara:">
+<!ENTITY searchHeading.accesskey "a">
+<!ENTITY searchSubfolders.label "Alt dizinleri ara">
+<!ENTITY searchSubfolders.accesskey "a">
+<!ENTITY searchLocalSystem.label "Search local system">
+<!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY resetButton.label "Boşalt">
+<!ENTITY resetButton.accesskey "B">
+<!ENTITY helpButton.label "Help">
+<!ENTITY helpButton.accesskey "l">
+<!ENTITY openButton.label "Aç ">
+<!ENTITY openButton.accesskey "a">
+<!ENTITY deleteButton.label "Sil">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY searchDialogTitle.label "Postaları ara">
+<!ENTITY results.label "Sonuçlar">
+<!ENTITY fileHereMenu.label "Buraya dosyala">
+<!ENTITY fileHereMenu.accesskey "B">
+<!ENTITY fileButton.label "Dosyala">
+<!ENTITY fileButton.accesskey "o">
+<!ENTITY goToFolderButton.label "Posta dizinini aç">
+<!ENTITY goToFolderButton.accesskey "a">
+<!ENTITY saveAsVFButton.label "Save as Search Folder">
+<!ENTITY saveAsVFButton.accesskey "a">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "İçinde ara:">
+<!ENTITY abSearchHeading.accesskey "a">
+<!ENTITY propertiesButton.label "Özellikler">
+<!ENTITY propertiesButton.accesskey "Z">
+<!ENTITY composeButton.label "Compose">
+<!ENTITY composeButton.accesskey "e">
+<!ENTITY abSearchDialogTitle.label "Gelişmiş Adres Defteri Araması">
+

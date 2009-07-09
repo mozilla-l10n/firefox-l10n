@@ -1,0 +1,7 @@
+<!ENTITY identitiesListDesc.label "Çoklu Kimlik Desteği">
+<!ENTITY identitiesListAdd.label "Ekle">
+<!ENTITY identitiesListAdd.accesskey "E">
+<!ENTITY identitiesListEdit.label "Düzenle…">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "Sil">
+<!ENTITY identitiesListDelete.accesskey "S">
