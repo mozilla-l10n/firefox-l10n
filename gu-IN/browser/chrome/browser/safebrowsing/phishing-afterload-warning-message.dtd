@@ -4,11 +4,11 @@
 <!ENTITY safeb.palm.message.p1.linkText "વધુ વાંચો &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "વધુ વાંચો &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "આ પ્રકારના વેબ ગુનાઓ શડયંત્રોમાં વપરાય છે કે જે ફીશીંગ હુમલાઓ તરીકે પણ ઓળખાય છે, કે જેમાં ગુનાવાળા વેબ પાનાંઓ અને ઈમેઈલો સ્રોતો પેદા કરવા માટે વપરાય છે કે જેનો તમે વિશ્વાસ કરી જ નાંખશો. તમે આના વિશે વધુ અંહિ શોધી શકો ">
+<!ENTITY safeb.palm.message.p2.start "આ પ્રકારના વેબ ગુનાઓ શડયંત્રોમાં વપરાય છે કે જે ફીશીંગ હુમલાઓ તરીકે પણ ઓળખાય છે, કે જેમાં ગુનાવાળા વેબ પાનાંઓ અને ઈમેઈલો સ્રોતો પેદા કરવા માટે વપરાય છે કે જેનો તમે વિશ્વાસ કરી જ નાંખશો. તમે આના વિશે વધુ અહીં શોધી શકો ">
 <!ENTITY safeb.palm.message.p2.linkText "કેવી રીતે Firefox તમને બચાવે છે">
 <!ENTITY safeb.palm.message.p2.end " ફીશીંગ હુમલાઓથી.">
 
-<!ENTITY safeb.palm.accept.label "મને અંહિથી બહાર લઈ જાવ!">
+<!ENTITY safeb.palm.accept.label "મને અહીંથી બહાર લઈ જાવ!">
 <!ENTITY safeb.palm.accept.statustext "મારા ઘર પાનાંમાં ખોળો">
 <!ENTITY safeb.palm.decline.label "આ ચેતવણી અવગણો">
 <!ENTITY safeb.palm.decline.statustext "ચેતવણી બંધ કરો" >
