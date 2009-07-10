@@ -15,7 +15,7 @@
 <!ENTITY conditionDesc.label         "સંદેશાઓ માટે શોધો કે જેઓમાં આ બંધબેસે:">
 <!ENTITY conditions.label            "વિચારદ્રષ્ટિ">
 <!ENTITY results.label               "પરિણામો">
-<!ENTITY fileHereMenu.label          "અંહિ ફાઈલ કરો">
+<!ENTITY fileHereMenu.label          "અહીં ફાઈલ કરો">
 <!ENTITY fileHereMenu.accesskey      "F">
 <!ENTITY fileButton.label            "ફાઈલ">
 <!ENTITY fileButton.accesskey        "i">

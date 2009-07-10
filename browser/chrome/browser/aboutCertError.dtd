@@ -17,7 +17,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "મારે શું કરવું જોઈએ?">
 <!ENTITY certerror.whatShouldIDo.content "જો તમે સામાન્ય રીતે આ સાઈટ સાથે કોઈપણ જાતની સમસ્યાઓ વિના જોડાવ, તો આ ભૂલનો અર્થ એ થાય કે કોઈક તમારી સાઈટને બગાડવાનો પ્રયાસ કરી રહ્યું છે, અને તમારે ચાલુ રાખવું જોઈએ નહિં.">
-<!ENTITY certerror.getMeOutOfHere.label "મને અંહિથી બહાર લઈ જાવ!">
+<!ENTITY certerror.getMeOutOfHere.label "મને અહીંથી બહાર લઈ જાવ!">
 
 <!ENTITY certerror.expert.heading "હું જોખમો સમજું છું">
 <!ENTITY certerror.expert.content "જો તમને સમજમાં આવે કે શું થઈ રહ્યું છે, તો તમે &brandShortName; ને આ સાઈટની ઓળખ પર વિશ્વાસ મૂકવાનું શરૂ કરવા કહી શકો છો. <b>તમે સાઈટ પર વિશ્વાસ મૂકતા હોય, તો પણ આ ભૂલનો અર્થ એ હોઈ શકે કે કોઈક તમારા જોડાણ સાથે છેડછાડ કરે છે.</b>">

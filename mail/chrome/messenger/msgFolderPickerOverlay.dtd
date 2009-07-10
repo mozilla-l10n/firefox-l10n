@@ -20,13 +20,13 @@ Rights Reserved.
 
 <!-- Labels -->
 <!ENTITY subscribechoosethis.label			"આ સમાચાર સર્વર પસંદ કરો">
-<!ENTITY subscribeclickhere.label			"સમાચાર સર્વર પસંદ કરવા માટે અંહિ ક્લિક કરો">
+<!ENTITY subscribeclickhere.label			"સમાચાર સર્વર પસંદ કરવા માટે અહીં ક્લિક કરો">
 <!ENTITY newfolderchoosethis.label			"આને પિતૃ માટે પસંદ કરો">
-<!ENTITY newfolderclickhere.label			"પસંદ કરવા માટે અંહિ ક્લિક કરો">
+<!ENTITY newfolderclickhere.label			"પસંદ કરવા માટે અહીં ક્લિક કરો">
 <!ENTITY renamefolderchoosethis.label			"આ ફોલ્ડર પસંદ કરો">
-<!ENTITY renamefolderclickhere.label			"ફોલ્ડર પસંદ કરવા માટે અંહિ ક્લિક કરો">
+<!ENTITY renamefolderclickhere.label			"ફોલ્ડર પસંદ કરવા માટે અહીં ક્લિક કરો">
 <!ENTITY filemessageschoosethis.label			"આ ફોલ્ડર પસંદ કરો">
-<!ENTITY filemessagesclickhere.label			"ફોલ્ડર પસંદ કરવા માટે અંહિ ક્લિક કરો">
-<!ENTITY chooseaccountclickhere.label			"ખાતુ પસંદ કરવા માટે અંહિ ક્લિક કરો">
-<!ENTITY choosefolderclickhere.label			"ફોલ્ડર પસંદ કરવા માટે અંહિ ક્લિક કરો">
-<!ENTITY chooseserverToDeferTo.label      "સંદેશાઓ સંગ્રહવા માટે ખાતુ પસંદ કરવા માટે અંહિ ક્લિક કરો">
+<!ENTITY filemessagesclickhere.label			"ફોલ્ડર પસંદ કરવા માટે અહીં ક્લિક કરો">
+<!ENTITY chooseaccountclickhere.label			"ખાતુ પસંદ કરવા માટે અહીં ક્લિક કરો">
+<!ENTITY choosefolderclickhere.label			"ફોલ્ડર પસંદ કરવા માટે અહીં ક્લિક કરો">
+<!ENTITY chooseserverToDeferTo.label      "સંદેશાઓ સંગ્રહવા માટે ખાતુ પસંદ કરવા માટે અહીં ક્લિક કરો">

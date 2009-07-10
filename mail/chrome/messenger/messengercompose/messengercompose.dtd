@@ -154,7 +154,7 @@
 <!ENTITY highestPriorityCmd.accesskey "H">
 <!ENTITY fileCarbonCopyCmd.label "ને નકલ મોકલો">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
-<!ENTITY fileHereMenu.label "અંહિ ફાઈલ કરો">
+<!ENTITY fileHereMenu.label "અહીં ફાઈલ કરો">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "સાધનો">
