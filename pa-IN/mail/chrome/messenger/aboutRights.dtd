@@ -1,6 +1,6 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.title            "ਤੁਹਾਡੇ ਹੱਕਾਂ ਬਾਰੇ">
 <!ENTITY rights.intro-header    "ਤੁਹਾਡੇ ਹੱਕਾਂ ਬਾਰੇ">
 <!ENTITY rights.intro "&brandFullName; ਮੁਫ਼ਤ ਅਤੇ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਹੈ, ਜਿਸ ਨੂੰ ਸੰਸਾਰ ਭਰ ਵਿੱਚੋਂ ਹਜ਼ਾਰਾਂ ਲੋਕਾਂ ਨੇ ਬਣਾਇਆ ਹੈ। ਕੁਝ ਚੀਜ਼ਾਂ ਹਨ, ਜਿੰਨ੍ਹਾਂ ਬਾਰੇ ਤੁਹਾਨੂੰ ਜਾਣ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ:">
 

@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "ਵਿੰਡੋਜ਼ ਖੋਜ">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; ਐਂਟੀਗਰੇਸ਼ਨ">
-<!ENTITY searchIntegration.description "ਕੀ ਤੁਸੀਂ &brandShortName; ਮੇਲ ਅਤੇ ਨਿਊਜ਼ ਸੁਨੇਹਿਆਂ ਰਾਹੀਂ  &searchIntegration.engineName; ਇੰਡੈਕਸ ਅਤੇ ਖੋਜ ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
-
-<!ENTITY searchIntegration.accept "&searchIntegration.engineName; ਚਾਲੂ ਕਰੋ">
-<!ENTITY searchIntegration.cancel "&searchIntegration.engineName; ਚਾਲੂ ਨਾ ਕਰੋ">
