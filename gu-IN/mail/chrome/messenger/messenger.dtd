@@ -346,9 +346,9 @@
 <!ENTITY watchThreadMenu.label "થ્રેડ જુઓ">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "અંહિ ફાઈલ કરો">
+<!ENTITY fileHereMenu.label "અહીં ફાઈલ કરો">
 <!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "અંહિ નકલ કરો">
+<!ENTITY copyHereMenu.label "અહીં નકલ કરો">
 <!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "ટેગ">
 <!ENTITY tagMenu.accesskey "g">
