@@ -1,8 +1,17 @@
 <!ENTITY aboutDialog.title      "&brandFullName; ਬਾਰੇ">
 <!ENTITY credits.label          "ਮਾਣ">
 <!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label        "&lt; &brandFullName; ਮਾਣ">
-<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutButton.label      "&lt; ਪਿੱਛੇ">
+<!ENTITY aboutButton.accesskey  "B">
 <!ENTITY aboutVersion           "ਵਰਜਨ">
-<!ENTITY copyrightText          "&#169;1998-2009 ਯੋਗਦਾਨੀ। ਸਭ ਹੱਕ ਰਾਖਵੇਂ ਹਨ। ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ ਅਤੇ ਥੰਡਰਬਰਡ ਲੋਗੋ ਮੋਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ ਹਨ। ਸਭ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।">
+<!ENTITY copyrightText          "&#169;੧੯੯੮-੨੦੦੯ ਯੋਗਦਾਨੀ। ਸਭ ਹੱਕ ਰਾਖਵੇਂ ਹਨ। ਮੋਜ਼ੀਲਾ (Mozilla) ਥੰਡਰਬਰਡ ਅਤੇ  
+                                 ਥੰਡਰਬਰਡ ਲੋਗੋ ਮੋਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ ਹਨ। ਸਭ ਹੱਕ  
+                                 ਰਾਖਵੇਂ ਹਨ।">
+<!ENTITY aboutMenu.label        "ਇਸ ਬਾਰੇ">
+<!ENTITY aboutMenu.accesskey    "A">
+<!ENTITY aboutRights.label      "ਤੁਹਾਡੇ ਹੱਕ">
+<!ENTITY aboutRights.accesskey  "R">
+<!ENTITY aboutContributors.label "ਯੋਗਦਾਨੀ">
+<!ENTITY aboutContributors.accesskey "o">
+
 <!ENTITY cmdCloseMac.commandKey "w">

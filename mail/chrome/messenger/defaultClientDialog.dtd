@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title  "ਡਿਫਾਲਟ ਕਲਾਇਟ">
-<!ENTITY defaultClient.intro  "&brandShortName; ਨੂੰ ਇਸ ਲਈ ਡਿਫਾਲਟ ਕਲਾਇਟ ਵਾਂਗ ਵਰਤੋਂ:">
-
-<!ENTITY email.label "ਈ-ਮੇਲ">
-<!ENTITY newsgroups.label "ਨਿਊਜ਼ਗਰੁੱਪ">
-<!ENTITY feeds.label "ਫੀਡ">
-
-<!ENTITY checkOnStartup.label " &brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾ ਇਹ ਜਾਂਚ ਕਰੋ">
-<!ENTITY checkOnStartup.accesskey "A">
