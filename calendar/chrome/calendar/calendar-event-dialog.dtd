@@ -52,13 +52,13 @@
 <!ENTITY newevent.status.label                "Status" >
 <!ENTITY newevent.status.accesskey            "S" >
 <!ENTITY newevent.status.none.label           "Ikkje oppgjeve" >
-<!ENTITY newevent.status.none.accesskey       "o" >
+<!ENTITY newevent.status.none.accesskey       "k" >
 <!ENTITY newevent.status.cancelled.label      "Avlyst" >
-<!ENTITY newevent.status.cancelled.accesskey  "n" >
+<!ENTITY newevent.status.cancelled.accesskey  "A" >
 <!ENTITY newevent.status.tentative.label      "Avventar" >
-<!ENTITY newevent.status.tentative.accesskey  "T" >
+<!ENTITY newevent.status.tentative.accesskey  "A" >
 <!ENTITY newevent.status.confirmed.label      "Stadfesta" >
-<!ENTITY newevent.status.confirmed.accesskey  "C" >
+<!ENTITY newevent.status.confirmed.accesskey  "S" >
 <!ENTITY newevent.status.needsaction.label    "Treng handling" >
 <!ENTITY newevent.status.inprogress.label     "Under arbeid" >
 <!ENTITY newevent.status.completed.label      "Fullført" >
@@ -100,7 +100,7 @@
 <!ENTITY  event.menu.edit.copy.accesskey                  "K">
 <!ENTITY  event.menu.edit.paste.label                     "Lim inn">
 <!ENTITY  event.menu.edit.paste.accesskey                 "L">
-<!ENTITY  event.menu.edit.select.all.label                "Merk alt">
+<!ENTITY  event.menu.edit.select.all.label                "Vel alle">
 <!ENTITY  event.menu.edit.select.all.accesskey            "a">
 
 <!ENTITY  event.menu.view.label                           "Vis">
@@ -155,8 +155,8 @@
 
 <!ENTITY event.help.label                                 "Hjelp">
 <!ENTITY event.help.accesskey                             "H">
-<!ENTITY event.help.release.notes.label                   "Merknader til utgjevinga">
-<!ENTITY event.help.release.notes.accesskey               "M">
+<!ENTITY event.help.release.notes.label                   "Utgjevingsmerknader">
+<!ENTITY event.help.release.notes.accesskey               "U">
 <!ENTITY event.help.help.label                            "&brandShortName; hjelp">
 <!ENTITY event.help.help.accesskey                        "h">
 <!ENTITY event.help.about.label                           "Om &brandShortName;">
