@@ -41,7 +41,7 @@
 
 <!ENTITY ListType.label "યાદી પ્રકાર">
 <!ENTITY bulletStyle.label "બુલેટ શૈલી:">
-<!ENTITY startingNumber.label "અંહિ શરૂ થાય:">
+<!ENTITY startingNumber.label "અહીં શરૂ થાય:">
 <!ENTITY startingNumber.accessKey "S">
 <!ENTITY none.value "કંઈ નહિં">
 <!ENTITY bulletList.value "બુલેટ (નંબર વિનાની) યાદી">

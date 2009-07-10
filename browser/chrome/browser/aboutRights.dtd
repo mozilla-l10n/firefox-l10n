@@ -17,16 +17,16 @@
 <!ENTITY rights.intro-point1c "ની શરતો હેઠળ. આનો અર્થ એ થાય કે &brandShortName; વાપરી શકો, નકલ કરી શકો અને બીજાને વિતરિત કરી શકો. તમારી જરૂરીયાતો સંતોષવા માટે &brandShortName; માં તમારો સુધારો પણ આવકાર્ય છે. Mozilla Public License તમને તમારી સુધારેલ આવૃત્તિઓ વિતરિત કરવાનો હક પણ આપે છે.">
 
 <!ENTITY rights.intro-point2a "Mozilla તમને Mozilla અને Firefox ટ્રેડમાર્ક કે લોગો પર કોઈ હક આપતું નથી. ટ્રેડમાર્ક પરની વધારાની જાણકારી ">
-<!ENTITY rights.intro-point2b "અંહિ">
+<!ENTITY rights.intro-point2b "અહીં">
 <!ENTITY rights.intro-point2c " શોધી શકાશે.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "&vendorShortName; ના ઉત્પાદનો માટે ખાનગીપણાની પોલિસીઓ ">
-<!ENTITY rights.intro-point3b "અંહિ">
+<!ENTITY rights.intro-point3b "અહીં">
 <!ENTITY rights.intro-point3c "શોધી શકાશે.">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "આ ઉત્પાદન માટે લાગુ પાડી શકાય તેવી ખાનગીપણાની કોઈપણ પોલિસીઓ અંહિ યાદી થયેલ હોવી જોઈએ.">
+<!ENTITY rights.intro-point3-unbranded "આ ઉત્પાદન માટે લાગુ પાડી શકાય તેવી ખાનગીપણાની કોઈપણ પોલિસીઓ અહીં યાદી થયેલ હોવી જોઈએ.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; વૈકલ્પિક વેબ સાઈટ જાણકારી સેવાઓની પણ તક આપે છે, જેમ કે સુરક્ષિતબ્રાઉઝીંગ સેવા; છતાંય, અમે ગેરેંટી આપી શકીએ નહિં કે તેઓ 100&#37; ચોક્કસ કે ભૂલ-મુક્ત જ હોય. વધુ વિગતો, સેવાઓ કેવી રીતે નિષ્ક્રિય કરવી તેના પરની જાણકારી, ">
@@ -50,10 +50,10 @@
 <!ENTITY rights.webservices-c " વિભાગ પસંદ કરીને, અને &quot;&blockAttackSites.label;&quot; અને &quot;&blockWebForgeries.label;&quot; માટેના વિકલ્પોની ચકાસણી દૂર કરીને">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "ઉત્પાદન જે વેબ સાઈટ સેવાઓનો સમાવેશ કરે છે તેની ઝાંખી, તેમને કેવી રીતે નિષ્ક્રિય કરવા તે સૂચનો સાથે, જો લાગુ પાડી શકાય તેવું હોય, તો અંહિ સમાવવામાં આવવું જોઈએ.">
+<!ENTITY rights.webservices-unbranded "ઉત્પાદન જે વેબ સાઈટ સેવાઓનો સમાવેશ કરે છે તેની ઝાંખી, તેમને કેવી રીતે નિષ્ક્રિય કરવા તે સૂચનો સાથે, જો લાગુ પાડી શકાય તેવું હોય, તો અહીં સમાવવામાં આવવું જોઈએ.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "આ ઉત્પાદન માટે લાગુ પાડી શકાય તેવી કોઈપણ સેવા શરતો અંહિ યાદી થવી જોઈએ.">
+<!ENTITY rights.webservices-term1-unbranded "આ ઉત્પાદન માટે લાગુ પાડી શકાય તેવી કોઈપણ સેવા શરતો અહીં યાદી થવી જોઈએ.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date phishing and malware information. However, they cannot guarantee that this information is comprehensive and error-free: some risky sites may not be identified and some safe sites may be identified in error.">
