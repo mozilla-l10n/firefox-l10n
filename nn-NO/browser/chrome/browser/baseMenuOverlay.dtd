@@ -26,8 +26,8 @@
 <!ENTITY openHelpMac.frontendCommandkey   "?">
 <!ENTITY openHelpMac.frontendModifiers    "accel">
 
-<!ENTITY helpReleaseNotes.label         "Merknader til utgjevinga">
-<!ENTITY helpReleaseNotes.accesskey     "M">
+<!ENTITY helpReleaseNotes.label         "Utgjevingsmerknader">
+<!ENTITY helpReleaseNotes.accesskey     "U">
 <!ENTITY updateCmd.label                "Sjå etter oppdateringar …">
 <!ENTITY updateCmd.accesskey            "S">
 

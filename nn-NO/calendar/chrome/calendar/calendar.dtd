@@ -51,8 +51,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newevent.button.tooltip         "Opprett ei ny hending" >
-<!ENTITY calendar.newtask.button.tooltip          "Opprett ei ny oppgåve" >
+<!ENTITY calendar.newevent.button.tooltip         "Lag ny hending" >
+<!ENTITY calendar.newtask.button.tooltip          "Lag ny oppgåve" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Oppgåver" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Vis fullførte oppgåver">
