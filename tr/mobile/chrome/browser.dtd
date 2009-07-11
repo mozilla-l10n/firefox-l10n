@@ -11,7 +11,7 @@
 <!ENTITY go.label "Git">
 <!ENTITY go.tooltip "Git">
 <!ENTITY openLocation.label "Konumu aç">
-<!ENTITY openLocation.tooltip "Konumu">
+<!ENTITY openLocation.tooltip "Konumu aç">
 <!ENTITY star.label "Yıldız">
 <!ENTITY star.tooltip "Bu sayfayı yer imlerine ekle">
 <!ENTITY bookmarks.label "Yer imleri">
@@ -35,7 +35,7 @@
 
 <!ENTITY editBookmarkEdit.label "Düzenle">
 <!ENTITY editBookmarkMove.label "Taşı">
-<!ENTITY editBookmarkDone.label "Tamam">
+<!ENTITY editBookmarkDone.label "Tamamlandı">
 <!ENTITY editBookmarkTags.label "Buraya etiket ekle">
 
 <!ENTITY helperApp.prompt "Yapmak istediğiniz">
@@ -54,7 +54,7 @@
 <!ENTITY addonsHeader.label "Eklentiler">
 <!ENTITY addonsLocal.label "Eklentilerim">
 <!ENTITY addonsRepo.label "Eklenti edin">
-<!ENTITY addonsRecommended.label "Tavsiye ediliyor">
+<!ENTITY addonsRecommended.label "Tavsiye edilen">
 <!ENTITY addonsSearch.label "Ara">
 <!ENTITY addonsSearch.emptytext "Tüm eklentileri ara">
 
@@ -66,7 +66,7 @@
 <!ENTITY addonCancel.label "Vazgeç">
 <!ENTITY addonShowPage.label "Sayfaya git">
 
-<!ENTITY downloadsHeader.label "İndirme yöneticisi">
+<!ENTITY downloadsHeader.label "İndirilenler">
 <!ENTITY downloadsSortDate.label "Tarih">
 <!ENTITY downloadsSortSite.label "Site">
 <!ENTITY downloadsSortName.label "İsim">

@@ -9,5 +9,5 @@
 <!ENTITY allowCookies.description "Ayarlarınızı hatırlamak için siteler çerez kullanıyorlar">
 <!ENTITY clearPrivateData.title "Ziyaret edilen sitelerin listesini temizle">
 <!ENTITY clearPrivateData.button "Temizle">
-<!ENTITY clearPrivateData.description "Your history helps &brandShortName; suggest where you want to go">
+<!ENTITY clearPrivateData.description "&brandShortName; uygulaması geçmişi kullanarak nereyi ziyaret etmek istediğinizi önerir">
 <!ENTITY rememberPasswords.title "Parolaları hatırla">
