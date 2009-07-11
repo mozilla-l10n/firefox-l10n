@@ -440,7 +440,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersCmd.label "Meldingsfiltre …">
 <!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Utfør filtre på mappe">
-<!ENTITY filtersApply.accesskey "U">
+<!ENTITY filtersApply.accesskey "t">
 <!ENTITY filtersApplyToSelection.label "Utfør filtre på merkede meldinger">
 <!ENTITY filtersApplyToSelection.accesskey "f">
 <!ENTITY filtersApplyToMessage.label "Utfør filtre på melding">
