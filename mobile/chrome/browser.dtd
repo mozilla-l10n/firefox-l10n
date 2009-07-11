@@ -86,4 +86,3 @@
 <!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colonna:">
 <!ENTITY selectListDone.label "Fatto">
-<!ENTITY selectListDisplay.format "#1 elementi">
