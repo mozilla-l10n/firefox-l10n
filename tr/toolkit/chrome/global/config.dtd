@@ -62,13 +62,13 @@
 <!ENTITY copyPref.label "Kopyala">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Ayar ismini kopyala">
-<!ENTITY copyName.accesskey "K">
+<!ENTITY copyName.accesskey "k">
 <!ENTITY copyValue.label "Değeri kopyala">
-<!ENTITY copyValue.accesskey "O">
+<!ENTITY copyValue.accesskey "o">
 <!ENTITY modify.label "Değerini değiştir">
 <!ENTITY modify.accesskey "D">
 <!ENTITY toggle.label "Değerini değiştir">
-<!ENTITY toggle.accesskey "T">
+<!ENTITY toggle.accesskey "t">
 <!ENTITY reset.label "Sıfırla">
 <!ENTITY reset.accesskey "S">
 <!ENTITY new.label "Yeni">

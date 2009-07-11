@@ -19,21 +19,21 @@
 <!-- Command Bar items -->
 
 <!ENTITY cmd.checkUpdatesAll.label "Güncellemelere bak">
-<!ENTITY cmd.checkUpdatesAll.accesskey "B">
+<!ENTITY cmd.checkUpdatesAll.accesskey "b">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Eklenti güncellemelerine bak">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Tema güncellemelerine bak">
 <!ENTITY cmd.installLocalFile.label "Kur…">
-<!ENTITY cmd.installLocalFile.accesskey "k">
+<!ENTITY cmd.installLocalFile.accesskey "K">
 <!ENTITY cmd.installFileAddon.tooltip "Eklenti kur">
 <!ENTITY cmd.installFileTheme.tooltip "Tema kur">
 <!ENTITY cmd.installUpdatesAll2.label "Install Updates">
 <!ENTITY cmd.installUpdatesAll2.accesskey "I">
 <!ENTITY cmd.installUpdatesAll2.tooltip "Install the selected updates">
 <!ENTITY cmd.restartApp2.label "&brandShortName; uygulamasını tekrar başlat">
-<!ENTITY cmd.restartApp2.accesskey "R">
+<!ENTITY cmd.restartApp2.accesskey "r">
 <!ENTITY cmd.restartApp2.tooltip "Değişiklikleri uygulamak için &brandShortName; uygulamasını tekrar başlatır">
 <!ENTITY cmd.skip.label "Atla">
-<!ENTITY cmd.skip.accesskey "a">
+<!ENTITY cmd.skip.accesskey "A">
 <!ENTITY cmd.skip.tooltip "Bu güncellemeleri atla">
 <!ENTITY cmd.continue.label "Devam et">
 <!ENTITY cmd.continue.accesskey "D">
@@ -60,13 +60,13 @@
 <!ENTITY cmd.enable.accesskey "E">
 <!ENTITY cmd.enable.tooltip "Bu eklentiyi &brandShortName; baştan başlatıldığında etkin hale getirir">
 <!ENTITY cmd.disable.label "Etkisizleştir">
-<!ENTITY cmd.disable.accesskey "T">
+<!ENTITY cmd.disable.accesskey "t">
 <!ENTITY cmd.disable.tooltip "Bu eklentiyi &brandShortName; baştan başlatıldığında etkisiz hale getirir">
 <!ENTITY cmd.uninstall.label "Kaldır">
 <!ENTITY cmd.uninstall2.accesskey "K">
 <!ENTITY cmd.uninstall2.tooltip "Bu eklentiyi &brandShortName; baştan başlatıldığında kaldırır">
 <!ENTITY cmd.cancelUninstall.label "Kaldırma işleminden vazgeç">
-<!ENTITY cmd.cancelUninstall.accesskey "V">
+<!ENTITY cmd.cancelUninstall.accesskey "v">
 <!ENTITY cmd.cancelUninstall.tooltip "Eklenti kaldırımından vazgeç">
 <!ENTITY cmd.cancelInstall.label "Kurulumdan vazgeç">
 <!ENTITY cmd.cancelInstall.accesskey "K">
@@ -75,20 +75,20 @@
 <!ENTITY cmd.cancelUpgrade.accesskey "G">
 <!ENTITY cmd.cancelUpgrade.tooltip "Bu eklentinin sürüm güncellemesinden vazgeç">
 <!ENTITY cmd.installUpdate.label "Güncellemeleri kur">
-<!ENTITY cmd.installUpdate.accesskey "K">
+<!ENTITY cmd.installUpdate.accesskey "k">
 <!ENTITY cmd.installUpdate.tooltip "Eklenti güncellemesini uygular">
 <!ENTITY cmd.showUpdateInfo.label "Bilgileri göster">
 <!ENTITY cmd.showUpdateInfo.accesskey "B">
 <!ENTITY cmd.showUpdateInfo.tooltip "Bu güncelleme hakkında ayrıntılı bilgileri gösterir">
 <!ENTITY cmd.hideUpdateInfo.label "Bilgileri gizle">
-<!ENTITY cmd.hideUpdateInfo.accesskey "G">
+<!ENTITY cmd.hideUpdateInfo.accesskey "g">
 <!ENTITY cmd.hideUpdateInfo.tooltip "Bu güncelleme hakkında bilgileri gizler">
 <!ENTITY cmd.installSearchResult.label "&brandShortName; uygulamasına ekle…">
-<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.accesskey "a">
 <!ENTITY cmd.installSearchResult.tooltip "Bu eklentiyi indir ve kur">
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label "Vazgeç">
-<!ENTITY cancel.accesskey "Z">
+<!ENTITY cancel.accesskey "z">
 <!ENTITY cancelInstall.label "Vazgeç">
 <!ENTITY cancelInstall.accesskey "V">
 <!ENTITY cancelUpgrade.label "Vazgeç">
@@ -96,11 +96,11 @@
 <!-- Only displayed in the selected Add-on's context menu -->
 
 <!ENTITY cmd.homepage.label "İnternet sayfasını ziyaret et">
-<!ENTITY cmd.homepage.accesskey "S">
+<!ENTITY cmd.homepage.accesskey "s">
 <!ENTITY cmd.about2.label "Eklenti hakkında">
 <!ENTITY cmd.about.accesskey "E">
 <!ENTITY cmd.checkUpdate.label "Güncellemelere bak">
-<!ENTITY cmd.checkUpdate.accesskey "B">
+<!ENTITY cmd.checkUpdate.accesskey "b">
 
 <!ENTITY cmd.includeUpdate.label "Güncellemeleri içersin">
 <!ENTITY cmd.includeUpdate.accesskey "n">

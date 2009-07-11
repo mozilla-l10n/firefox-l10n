@@ -2,13 +2,13 @@
 <!ENTITY charsetMenu.label "Karakter kodlaması">
 <!ENTITY charsetMenu.accesskey "K">
 <!ENTITY charsetMenuAutodet.label "Otomatik tanıma">
-<!ENTITY charsetMenuAutodet.accesskey "o">
+<!ENTITY charsetMenuAutodet.accesskey "O">
 <!ENTITY charsetMenuMore.label "Daha fazla">
-<!ENTITY charsetMenuMore.accesskey "d">
+<!ENTITY charsetMenuMore.accesskey "D">
 <!ENTITY charsetMenuMore1.label "Batı Avrupa">
-<!ENTITY charsetMenuMore1.accesskey "b">
+<!ENTITY charsetMenuMore1.accesskey "B">
 <!ENTITY charsetMenuMore2.label "Doğu Avrupa">
-<!ENTITY charsetMenuMore2.accesskey "V">
+<!ENTITY charsetMenuMore2.accesskey "v">
 <!ENTITY charsetMenuMore3.label "Doğu Asya">
 <!ENTITY charsetMenuMore3.accesskey "A">
 <!ENTITY charsetMenuMore4.label "G. Doğu ve G. Batı Asya">

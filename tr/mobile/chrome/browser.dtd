@@ -1,0 +1,107 @@
+<!ENTITY back.label "Back">
+<!ENTITY back.tooltip "Back">
+<!ENTITY forward.label "Forward">
+<!ENTITY forward.tooltip "Forward">
+<!ENTITY reload.label "Reload">
+<!ENTITY reload.tooltip "Reload">
+<!ENTITY stop.label "Stop">
+<!ENTITY stop.tooltip "Stop">
+<!ENTITY search.label "Ara">
+<!ENTITY search.tooltip "Ara">
+<!ENTITY go.label "Go">
+<!ENTITY go.tooltip "Go">
+<!ENTITY openLocation.label "Open location">
+<!ENTITY openLocation.tooltip "Open location">
+<!ENTITY star.label "Star">
+<!ENTITY star.tooltip "Bookmark this page">
+<!ENTITY bookmarks.label "Yer imleri">
+<!ENTITY bookmarks.tooltip "View bookmarks">
+
+<!ENTITY newtab.label "New Tab">
+<!ENTITY closetab.label "Sekmeyi kapat">
+
+<!ENTITY cut.label "Kes">
+<!ENTITY copy.label "Kopyala">
+<!ENTITY copylink.label "Copy Link Location">
+<!ENTITY paste.label "Yapıştır">
+<!ENTITY delete.label "Delete">
+<!ENTITY selectAll.label "Select All">
+<!ENTITY noSuggestions.label "(No suggestions)">
+<!ENTITY addToDictionary.label "Add to Dictionary">
+
+<!ENTITY bookmarksHeader.label "Yer imleri">
+<!ENTITY bookmarksManage.label "Manage">
+<!ENTITY foldersHeader.label "Folders">
+
+<!ENTITY editBookmarkEdit.label "Edit">
+<!ENTITY editBookmarkMove.label "Move">
+<!ENTITY editBookmarkDone.label "Tamam">
+<!ENTITY editBookmarkTags.label "Add tags here">
+
+<!ENTITY helperApp.prompt "What would you like to do with">
+<!ENTITY helperApp.open "Aç">
+<!ENTITY helperApp.save "Kaydet">
+<!ENTITY helperApp.nothing "Hiçbir şey">
+
+<!ENTITY findOnCmd.label "Bu sayfada bul...">
+<!ENTITY findOnCmd.accesskey "s">
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.label "Sonrakini bul">
+<!ENTITY findAgainCmd.accesskey "a">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY addonsHeader.label "Add-ons">
+<!ENTITY addonsLocal.label "Your Add-ons">
+<!ENTITY addonsRepo.label "Eklenti edin">
+<!ENTITY addonsRecommended.label "Tavsiye ediliyor">
+<!ENTITY addonsSearch.label "Ara">
+<!ENTITY addonsSearch.emptytext "Search all add-ons">
+
+<!ENTITY addonOptions.label "Options">
+<!ENTITY addonEnable.label "Etkinleştir">
+<!ENTITY addonDisable.label "Disable">
+<!ENTITY addonInstall.label "Kur">
+<!ENTITY addonUninstall.label "Kaldır">
+<!ENTITY addonCancel.label "Vazgeç">
+<!ENTITY addonShowPage.label "Go to Page">
+
+<!ENTITY downloadsHeader.label "Downloads">
+<!ENTITY downloadsSortDate.label "Date">
+<!ENTITY downloadsSortSite.label "Site">
+<!ENTITY downloadsSortName.label "Name">
+<!ENTITY downloadsSearch.label "Ara">
+<!ENTITY downloadsSearch.emptytext "Search for downloaded file">
+
+<!ENTITY downloadShowPage.label "Go to Page">
+<!ENTITY downloadShow2.label "Bul">
+<!ENTITY downloadOpen2.label "Aç">
+<!ENTITY downloadCancel.label "Vazgeç">
+<!ENTITY downloadPause.label "Pause">
+<!ENTITY downloadResume.label "Devam et">
+<!ENTITY downloadRetry.label "Retry">
+
+<!ENTITY noResults.label "No results">
+
+<!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
+<!ENTITY identity.connectedTo2 "Connected to">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "run by">
+
+<!ENTITY consoleHeader.label "Error Console">
+<!ENTITY consoleAll.label "All">
+<!ENTITY consoleErrors.label "Hatalar">
+<!ENTITY consoleWarnings.label "Warnings">
+<!ENTITY consoleMessages.label "Messages">
+<!ENTITY consoleCodeEval.label "Code:">
+<!ENTITY consoleClear.label "Clear">
+<!ENTITY consoleEvaluate.label "Evaluate">
+<!ENTITY consoleErrFile.label "Kaynak dosya:">
+<!ENTITY consoleErrLine.label "Satır:">
+<!ENTITY consoleErrColumn.label "Sütun:">
+
+<!ENTITY selectListDone.label "Tamam">

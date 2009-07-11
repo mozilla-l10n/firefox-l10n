@@ -11,7 +11,7 @@
 <!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY savePageCmd.label "Faklı kaydet…">
-<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Sayfa düzeni…">
 <!ENTITY pageSetupCmd.accesskey "f">
@@ -45,18 +45,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY viewMenu.label "Görünüm">
 <!ENTITY viewMenu.accesskey "G">
 <!ENTITY reloadCmd.label "Tazele">
-<!ENTITY reloadCmd.accesskey "Z">
+<!ENTITY reloadCmd.accesskey "z">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Uzun satırları kes">
 <!ENTITY menu_wrapLongLines.accesskey "U">
 <!ENTITY menu_highlightSyntax.label "Sözdizimi vurgusu">
 <!ENTITY menu_highlightSyntax.accesskey "S">
 <!ENTITY menu_textSize.label "Metin boyutu">
-<!ENTITY menu_textSize.accesskey "T">
+<!ENTITY menu_textSize.accesskey "t">
 <!ENTITY menu_textEnlarge.label "Metin boyutunu büyüt">
-<!ENTITY menu_textEnlarge.accesskey "B">
+<!ENTITY menu_textEnlarge.accesskey "b">
 <!ENTITY menu_textReduce.label "Metin boyutunu küçült">
-<!ENTITY menu_textReduce.accesskey "K">
+<!ENTITY menu_textReduce.accesskey "k">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
@@ -64,13 +64,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Sonrakini bul">
-<!ENTITY findAgainCmd.accesskey "s">
+<!ENTITY findAgainCmd.accesskey "S">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Geri">
 <!ENTITY backCmd.accesskey "G">
 <!ENTITY forwardCmd.label "İleri">
-<!ENTITY forwardCmd.accesskey "L">
+<!ENTITY forwardCmd.accesskey "l">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

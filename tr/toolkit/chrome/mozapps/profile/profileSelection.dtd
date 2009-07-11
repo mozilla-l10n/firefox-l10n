@@ -48,11 +48,11 @@
 <!ENTITY availprofiles.label "Kullanılabilen kimlikler">
 
 <!ENTITY newButton.label "Kimlik oluştur…">
-<!ENTITY newButton.accesskey "O">
+<!ENTITY newButton.accesskey "o">
 <!ENTITY renameButton.label "Kimliğin adını değiştir…">
-<!ENTITY renameButton.accesskey "D">
+<!ENTITY renameButton.accesskey "d">
 <!ENTITY deleteButton.label "Kimliği sil…">
-<!ENTITY deleteButton.accesskey "S">
+<!ENTITY deleteButton.accesskey "s">
 <!-- manager entities -->
 
 <!ENTITY pmDescription.label "&brandShortName; ayarlarınız, tercihleriniz ve kullanıcı kimliğinizdeki diğer öğelerle ilgili bilgileri depolar.">
@@ -61,4 +61,4 @@
 <!ENTITY offlineState.accesskey "e">
 
 <!ENTITY autoSelect.label "Başlangıçta sorma">
-<!ENTITY autoSelect.accesskey "b">
+<!ENTITY autoSelect.accesskey "B">

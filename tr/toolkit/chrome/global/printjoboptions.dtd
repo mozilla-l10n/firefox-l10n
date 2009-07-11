@@ -3,7 +3,7 @@
 <!ENTITY printJobOptions.title "Yazıcı Özellikleri">
 
 <!ENTITY paperInput.label "Sayfa boyutu:">
-<!ENTITY paperInput.accesskey "F">
+<!ENTITY paperInput.accesskey "f">
 
 <!ENTITY plexInput.label "Plex modu:">
 <!ENTITY plexInput.accesskey "m">
@@ -28,14 +28,14 @@
 
 <!ENTITY fontsGroup.label "Yazıtipleri:">
 <!ENTITY downloadFonts.label "Yazıcı için yazıtipi indirilsin mi?">
-<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY downloadFonts.accesskey "d">
 
 <!ENTITY edgeMarginInput.label "Kenar boşluk uzunluğunun sınırı (inc)">
 <!ENTITY topInput.label "Üst:">
-<!ENTITY topInput.accesskey "T">
+<!ENTITY topInput.accesskey "t">
 <!ENTITY bottomInput.label "Alt:">
 <!ENTITY bottomInput.accesskey "A">
 <!ENTITY leftInput.label "Sol:">
-<!ENTITY leftInput.accesskey "L">
+<!ENTITY leftInput.accesskey "l">
 <!ENTITY rightInput.label "Sağ:">
 <!ENTITY rightInput.accesskey "S">

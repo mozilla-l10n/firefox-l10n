@@ -44,13 +44,13 @@
 <!ENTITY all.label "Hepsi">
 <!ENTITY all.accesskey "H">
 <!ENTITY errors.label "Hatalar">
-<!ENTITY errors.accesskey "R">
+<!ENTITY errors.accesskey "r">
 <!ENTITY warnings.label "Uyarılar">
 <!ENTITY warnings.accesskey "U">
 <!ENTITY messages.label "Mesajlar">
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label "Temizle">
-<!ENTITY clear.accesskey "L">
+<!ENTITY clear.accesskey "l">
 <!ENTITY codeEval.label "Kod:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label "Değerlendirme">
@@ -60,7 +60,7 @@
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY copyCmd.commandkey "C">
 <!ENTITY sortFirst.label "İlk > Son  sıralama düzeni">
-<!ENTITY sortFirst.accesskey "s">
+<!ENTITY sortFirst.accesskey "S">
 <!ENTITY sortLast.label "Son > İlk sıralama düzeni">
 <!ENTITY sortLast.accesskey "k">
 <!ENTITY closeCmd.commandkey "w">

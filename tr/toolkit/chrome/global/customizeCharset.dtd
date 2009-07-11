@@ -40,11 +40,11 @@
 <!ENTITY title.label "Karakter kodlama özelleştir">
 <!ENTITY current.label "Etkin karakter kodları:">
 <!ENTITY remove.label "Kaldır">
-<!ENTITY remove.accessKey "R">
+<!ENTITY remove.accessKey "r">
 <!ENTITY additional.label "Mevcut karakter kodlamaları:">
 <!ENTITY add.label "Ekle">
 <!ENTITY add.accessKey "E">
 <!ENTITY moveUp.label "Yukarıya taşı">
-<!ENTITY moveUp.accessKey "U">
+<!ENTITY moveUp.accessKey "u">
 <!ENTITY moveDown.label "Aşağıya taşı">
-<!ENTITY moveDown.accessKey "T">
+<!ENTITY moveDown.accessKey "t">

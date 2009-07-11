@@ -43,7 +43,7 @@
 <!ENTITY page.accesskey "a">
 <!ENTITY of.label " -> ">
 <!ENTITY scale.label "Ölçek:">
-<!ENTITY scale.accesskey "K">
+<!ENTITY scale.accesskey "k">
 <!ENTITY portrait.label "Dikey">
 <!ENTITY portrait.accesskey "k">
 <!ENTITY landscape.label "Yatay">

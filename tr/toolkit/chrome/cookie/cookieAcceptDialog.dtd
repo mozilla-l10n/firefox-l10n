@@ -7,12 +7,12 @@
 <!ENTITY props.policy.label "İlke:">
 
 <!ENTITY button.allow.label "İzin ver">
-<!ENTITY button.allow.accesskey "Z">
+<!ENTITY button.allow.accesskey "z">
 <!ENTITY button.session.label "Oturum için kabul et">
 <!ENTITY button.session.accesskey "O">
 <!ENTITY button.deny.label "Reddet">
-<!ENTITY button.deny.accesskey "D">
+<!ENTITY button.deny.accesskey "d">
 
 <!ENTITY dialog.title "Onayla">
 <!ENTITY dialog.remember.label "Bu sayfanın bütün çerezlerinde bu seçimi kullan">
-<!ENTITY dialog.remember.accesskey "D">
+<!ENTITY dialog.remember.accesskey "d">

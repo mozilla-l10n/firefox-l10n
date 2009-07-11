@@ -24,11 +24,11 @@
 <!ENTITY alwaysHandle.accesskey "H">
 
 <!ENTITY saveToDisk.label "Bu dosyayı diske kaydet">
-<!ENTITY saveToDisk.accesskey "D">
+<!ENTITY saveToDisk.accesskey "d">
 
 <!ENTITY useSystemDefault.label "Öntanımlı uygulama ile aç (#1)">
 <!ENTITY useSystemDefault.noDesc.label "Öntanımlı uygulama ile aç">
-<!ENTITY useSystemDefault.accesskey "U">
+<!ENTITY useSystemDefault.accesskey "u">
 
 <!ENTITY openUsing.label "Birlikte aç">
 <!ENTITY openUsing.accesskey "k">

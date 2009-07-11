@@ -52,7 +52,7 @@
 <!ENTITY devmgr.button.changepw.label "Parola değiştir">
 <!ENTITY devmgr.button.changepw.accesskey "P">
 <!ENTITY devmgr.button.load.label "Yükle">
-<!ENTITY devmgr.button.load.accesskey "L">
+<!ENTITY devmgr.button.load.accesskey "l">
 <!ENTITY devmgr.button.unload.label "Boşalt">
 <!ENTITY devmgr.button.unload.accesskey "B">
 <!ENTITY devmgr.button.fips.accesskey "F">

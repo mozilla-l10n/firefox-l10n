@@ -8,21 +8,21 @@
 
 <!ENTITY orientation.label "Konum:">
 <!ENTITY portrait.label "Dikey">
-<!ENTITY portrait.accesskey "E">
+<!ENTITY portrait.accesskey "e">
 <!ENTITY landscape.label "Yatay">
 <!ENTITY landscape.accesskey "Y">
 
 <!ENTITY scale.label "Ölçek:">
-<!ENTITY scale.accesskey "K">
+<!ENTITY scale.accesskey "k">
 <!ENTITY scalePercent "&#037;">
 
 <!ENTITY shrinkToFit.label "Sayfa boyutuna sığdır">
-<!ENTITY shrinkToFit.accesskey "D">
+<!ENTITY shrinkToFit.accesskey "d">
 
 <!ENTITY optionsGroup.label "Seçenekler">
 
 <!ENTITY printBG.label "Arkaplanı yazdır (renkler ve resimler)">
-<!ENTITY printBG.accesskey "R">
+<!ENTITY printBG.accesskey "r">
 
 <!ENTITY advanced.tab "Kenarlar, başlıklar ve dipnotlar">
 
@@ -30,11 +30,11 @@
 <!ENTITY marginUnits.inches "inç">
 <!ENTITY marginUnits.metric "milimetre">
 <!ENTITY marginTop.label "Üst:">
-<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginTop.accesskey "t">
 <!ENTITY marginBottom.label "Alt:">
 <!ENTITY marginBottom.accesskey "A">
 <!ENTITY marginLeft.label "Sol:">
-<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginLeft.accesskey "l">
 <!ENTITY marginRight.label "Sağ:">
 <!ENTITY marginRight.accesskey "S">
 

@@ -12,10 +12,10 @@
 
 <!ENTITY profileCreationIntro.text "Bir sürü kimlik oluşturursanız bunları kimlik isimleriyle ayırabilirsiniz. Burada sunulan ya da kendi seçtiğiniz bir ismi kullanabilirsiniz.">
 <!ENTITY profilePrompt.label "Yeni bir kimlik ismi girin:">
-<!ENTITY profilePrompt.accesskey "E">
+<!ENTITY profilePrompt.accesskey "e">
 <!ENTITY profileDirectoryExplanation.text "Kullanıcı ayarlarınız, yer imleriniz ve parolalarınız burada kayıtlı olacak:">
 <!ENTITY profileDefaultName "Varsayılan kullanıcı">
 <!ENTITY button.choosefolder.label "Dizin seç…">
-<!ENTITY button.choosefolder.accesskey "S">
+<!ENTITY button.choosefolder.accesskey "s">
 <!ENTITY button.usedefault.label "Öntanımlı dizinleri kullan">
-<!ENTITY button.usedefault.accesskey "D">
+<!ENTITY button.usedefault.accesskey "d">

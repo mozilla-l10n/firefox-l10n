@@ -13,11 +13,11 @@
 <!ENTITY descText.label "Yacızı açıklaması:">
 <!ENTITY printer.label "Yazıcı">
 <!ENTITY printerInput.label "Yazıcı:">
-<!ENTITY printerInput.accesskey "C">
+<!ENTITY printerInput.accesskey "c">
 
 <!ENTITY printrangeGroup.label "Kenarları yazdır">
 <!ENTITY allpagesRadio.label "Bütün sayfalar">
-<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY allpagesRadio.accesskey "a">
 <!ENTITY rangeRadio.label "Sayfalar">
 <!ENTITY rangeRadio.accesskey "S">
 <!ENTITY frompageInput.label "nereden">
@@ -29,12 +29,12 @@
 
 <!ENTITY copies.label "Kopyalar">
 <!ENTITY numCopies.label "Kopya sayısı:">
-<!ENTITY numCopies.accesskey "k">
+<!ENTITY numCopies.accesskey "K">
 
 <!ENTITY printframeGroup.label "Çerçeveyi yazdır">
 <!ENTITY aslaidoutRadio.label "Pencerede görüldüğü gibi">
-<!ENTITY aslaidoutRadio.accesskey "p">
+<!ENTITY aslaidoutRadio.accesskey "P">
 <!ENTITY selectedframeRadio.label "Seçilen çerçeve">
 <!ENTITY selectedframeRadio.accesskey "l">
 <!ENTITY eachframesepRadio.label "Bütün çerçeveyi ayrı ayrı">
-<!ENTITY eachframesepRadio.accesskey "E">
+<!ENTITY eachframesepRadio.accesskey "e">

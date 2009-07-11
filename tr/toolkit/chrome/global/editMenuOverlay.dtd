@@ -5,21 +5,21 @@
 <!ENTITY undoCmd.accesskey "r">
 <!ENTITY redoCmd.label "Yinele">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "y">
+<!ENTITY redoCmd.accesskey "Y">
 <!ENTITY cutCmd.label "Kes">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "k">
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Yapıştır">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "y">
+<!ENTITY pasteCmd.accesskey "Y">
 <!ENTITY deleteCmd.label "Sil">
-<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.accesskey "T">
 <!ENTITY findCmd.label "Bul">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "B">

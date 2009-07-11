@@ -7,4 +7,4 @@
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Tümünü seç">
-<!ENTITY selectAllCmd.accesskey "E">
+<!ENTITY selectAllCmd.accesskey "e">
