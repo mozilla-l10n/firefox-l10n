@@ -46,11 +46,11 @@
 <!ENTITY findButton.accesskey              "h">
 <!ENTITY directorySecure.label             "Utiliser une connexion chiffrée (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "Connecter un nom distinct :">
+<!ENTITY directoryLogin.label              "Connecter avec l'utilisateur :">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Général">
 <!ENTITY Offline.tab                       "Hors ligne">
-<!ENTITY Advanced.tab                      "Avancées">
+<!ENTITY Advanced.tab                      "Avancé">
 <!ENTITY portNumber.label                  "Numéro de port :">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Filtre de recherche :">
@@ -76,4 +76,4 @@
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-<!ENTITY newDirectoryWidth                 "36em">
+<!ENTITY newDirectoryWidth                 "42em">

@@ -46,5 +46,5 @@
 <!ENTITY addresses.heading "Adresses">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label "Plan d'accès">
-<!ENTITY mapIt.tooltip "Afficher un plan de cette adresse depuis le Web">
+<!ENTITY mapIt.tooltip "Affiche un plan de cette adresse depuis le Web">
 

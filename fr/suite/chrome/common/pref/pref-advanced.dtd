@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title "Avancées">
+<!ENTITY pref.advanced.title "Avancé">
 
 <!ENTITY prefEnableJava.caption "Fonctions d'interprétation des pages Web">
 

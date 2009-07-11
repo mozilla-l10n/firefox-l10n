@@ -52,6 +52,6 @@
 <!ENTITY systemsound.accesskey            "m">
 <!ENTITY customsound.label                "Fichier .wav personnalisé">
 <!ENTITY customsound.accesskey            "p">
-<!ENTITY browse.label                     "Choisir…">
+<!ENTITY browse.label                     "Parcourir…">
 <!ENTITY browse.accesskey                 "C">
 <!ENTITY browse.title                     "Choisir un fichier">

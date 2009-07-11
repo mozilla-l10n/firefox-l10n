@@ -62,9 +62,9 @@
 <!ENTITY WorkPhone.accesskey "l">
 <!ENTITY ScreenName.label "Pseudo AIM">
 <!ENTITY ScreenName.accesskey "u">
-<!ENTITY sortAscending.label "Par ordre croissant">
+<!ENTITY sortAscending.label "Ordre croissant">
 <!ENTITY sortAscending.accesskey "a">
-<!ENTITY sortDescending.label "Par ordre décroissant">
+<!ENTITY sortDescending.label "Ordre décroissant">
 <!ENTITY sortDescending.accesskey "d">
 
 <!-- context menu -->

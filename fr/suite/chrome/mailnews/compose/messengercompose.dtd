@@ -31,7 +31,7 @@
 <!ENTITY attachPageCmd.label "Page Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Fiche personnelle (vCard)">
+<!ENTITY attachVCardCmd.label "Joindre carte de visite (vCard)">
 <!ENTITY attachVCardCmd.accesskey "p">
 <!ENTITY sendNowCmd.label "Envoyer">
 <!ENTITY sendCmd.keycode "VK_RETURN">

@@ -10,25 +10,25 @@
 
 <!ENTITY view.columns.label "Afficher les colonnes">
 <!ENTITY view.columns.accesskey "c">
-<!ENTITY view.sortBy.label "Trier">
+<!ENTITY view.sortBy.label "Trier par">
 <!ENTITY view.sortBy.accesskey "T">
-<!ENTITY view.groupBy.label "Grouper">
+<!ENTITY view.groupBy.label "Grouper par">
 <!ENTITY view.groupBy.accesskey "G">
 
 <!ENTITY view.unsorted.label "Sans tri">
-<!ENTITY view.unsorted.accesskey "u">
+<!ENTITY view.unsorted.accesskey "t">
 <!ENTITY view.sortAscending.label "Ordre croissant (A > Z)">
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ordre décroissant (Z > A)">
 <!ENTITY view.sortDescending.accesskey "Z">
 
 <!ENTITY view.groupNone.label "Sans tri">
-<!ENTITY view.groupNone.accesskey "u">
-<!ENTITY view.groupDay.label "par date">
+<!ENTITY view.groupNone.accesskey "t">
+<!ENTITY view.groupDay.label "Date">
 <!ENTITY view.groupDay.accesskey "d">
-<!ENTITY view.groupSite.label "par site">
+<!ENTITY view.groupSite.label "Site">
 <!ENTITY view.groupSite.accesskey "s">
-<!ENTITY view.groupDayAndSite.label "par date et par site">
+<!ENTITY view.groupDayAndSite.label "Date et site">
 <!ENTITY view.groupDayAndSite.accesskey "a">
 
 <!ENTITY cmd.open.label "Ouvrir">

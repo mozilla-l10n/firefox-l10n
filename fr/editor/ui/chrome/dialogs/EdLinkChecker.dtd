@@ -38,6 +38,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Vérification des adresses des images et des liens">
-<!ENTITY succeeded.label       "Réussi">
-<!ENTITY failed.label          "Echec">
+<!ENTITY succeeded.label       "Terminé">
+<!ENTITY failed.label          "Échoué">
 <!ENTITY closeButton.label     "Fermer">

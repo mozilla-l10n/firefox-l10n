@@ -1,6 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Paramètres Copies et Dossiers">
+<!ENTITY copyAndFolderTitle.label "Copies et dossiers">
 <!ENTITY sendingPrefix.label "Lors de l'envoi de messages, automatiquement :">
 <!ENTITY fccMailFolder.label "Placer une copie dans :">
 <!ENTITY fccMailFolder.accesskey "P">
@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Dossier « Envoyés » de :">
 <!ENTITY sentFolderOn.accesskey "v">
-<!ENTITY sentInOtherFolder.label "Autre :">
+<!ENTITY sentInOtherFolder.label "Autre dossier :">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Dossier « Brouillons » de :">

@@ -50,12 +50,12 @@
 <!ENTITY directoryLogin.accesskey          "C">
 <!ENTITY General.tab                       "Général">
 <!ENTITY Offline.tab                       "Hors ligne">
-<!ENTITY Advanced.tab                      "Avancées">
+<!ENTITY Advanced.tab                      "Avancé">
 <!ENTITY portNumber.label                  "Numéro de port :">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Filtre de recherche :">
 <!ENTITY searchFilter.accesskey            "f">
-<!ENTITY scope.label                       "Portée :">
+<!ENTITY scope.label                       "Étendue">
 <!ENTITY scope.accesskey                   "e">
 <!ENTITY scopeOneLevel.label               "Un niveau">
 <!ENTITY scopeOneLevel.accesskey           "i">
