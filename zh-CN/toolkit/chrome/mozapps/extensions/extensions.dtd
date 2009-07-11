@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "安装附加组件">
 <!ENTITY cmd.installFileTheme.tooltip     "安装主题">
-<!ENTITY cmd.installUpdatesAll.label      "安装更新">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "安装选中的更新">
+<!ENTITY cmd.installUpdatesAll2.label     "安装更新">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "安装选定的更新">
 <!ENTITY cmd.restartApp2.label            "重启 &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "重启 &brandShortName; 以使更改生效">

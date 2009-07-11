@@ -10,24 +10,6 @@
 <!ENTITY  locbar.bookmarks.label        "书签">
 <!ENTITY  locbar.nothing.label          "无">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "保存我的访问历史，至少">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "天">
-
-<!ENTITY  rememberForms.label           "记住我在表单和搜索栏中输入的内容">
-<!ENTITY  rememberForms.accesskey       "f">
-
-<!ENTITY  rememberDownloads.label       "记住已下载内容">
-<!ENTITY  rememberDownloads.accesskey   "d">
-
-
-<!ENTITY  cookies.label                 "Cookies">
 
 <!ENTITY  acceptCookies.label           "接受站点的 cookie">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -48,14 +30,6 @@
 <!ENTITY  showCookies.label             "显示 Cookie…">
 <!ENTITY  showCookies.accesskey         "S">
 
-
-<!ENTITY  privateData.label             "隐私数据">
-
-<!ENTITY  alwaysClear.label              "退出 &brandShortName; 时自动清除我的隐私数据">
-<!ENTITY  alwaysClear.accesskey          "w">
-
-<!ENTITY  clearDataSettings.label        "设置…">
-<!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 将会：">
 <!ENTITY  historyHeader.pre.accesskey      "w">
@@ -107,6 +81,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "设置…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY  clearDataNow.label             "立即清除…">
-<!ENTITY  clearDataNow.accesskey         "N">

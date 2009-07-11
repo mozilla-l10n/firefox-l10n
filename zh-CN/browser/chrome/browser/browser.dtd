@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "（隐私浏览）">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "新建标签页">
 <!ENTITY tabCmd.accesskey "T">
@@ -34,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "脱机工作">
 <!ENTITY goOfflineCmd.accesskey "w">
 
+<!ENTITY menubarCmd.label "菜单栏">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "导航工具栏">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "书签工具栏">
@@ -88,6 +88,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "停止载入当前页">
 <!ENTITY goEndCap.tooltip             "转到地址栏中指向的地址">
+<!ENTITY feedButton.tooltip           "订阅此页…">
 <!ENTITY printButton.label            "打印">
 <!ENTITY printButton.tooltip          "打印当前页">
 
@@ -101,13 +102,13 @@
 
 <!ENTITY bookmarksButton.label          "书签">
 <!ENTITY bookmarksButton.tooltip        "显示您的书签">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "历史">
 <!ENTITY historyButton.tooltip          "显示您最近查看过的页面">
@@ -198,7 +199,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "搜索书签和历史">
 <!ENTITY urlbar.bookmarkhistory.emptyText "搜索书签和历史">
 <!ENTITY urlbar.bookmark.emptyText    "搜索书签">
 <!ENTITY urlbar.history.emptyText     "搜索历史记录">
