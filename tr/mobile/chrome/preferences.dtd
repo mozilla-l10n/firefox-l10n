@@ -1,13 +1,13 @@
 <!ENTITY content.title "İçerik">
-<!ENTITY showImages.title "Show images">
-<!ENTITY enableJavaScript.title "Enable JavaScript">
-<!ENTITY enableJavaScript.description "Most interactive sites use JavaScript">
-<!ENTITY enablePlugins.title "Enable Plugins">
-<!ENTITY enablePlugins.description "Plugins are used for special content such as video">
-<!ENTITY privacy.title "Privacy &amp; Security">
-<!ENTITY allowCookies.title "Allow cookies">
-<!ENTITY allowCookies.description "Sites use cookies to identify you and remember your settings">
-<!ENTITY clearPrivateData.title "Clear recent browsing history">
-<!ENTITY clearPrivateData.button "Clear">
+<!ENTITY showImages.title "Resimleri göster">
+<!ENTITY enableJavaScript.title "JavaScript'i etkinleştir">
+<!ENTITY enableJavaScript.description "En interaktif siteler JavaScript kullanıyor">
+<!ENTITY enablePlugins.title "Yan uygulamaları etkinleştir">
+<!ENTITY enablePlugins.description "Yan uygulamalar video gibi özel içerik içşn kullanılıyor">
+<!ENTITY privacy.title "Kişisel gizlilik ve güvenlik">
+<!ENTITY allowCookies.title "Çerezlere izin ver">
+<!ENTITY allowCookies.description "Ayarlarınızı hatırlamak için siteler çerez kullanıyorlar">
+<!ENTITY clearPrivateData.title "Ziyaret edilen sitelerin listesini temizle">
+<!ENTITY clearPrivateData.button "Temizle">
 <!ENTITY clearPrivateData.description "Your history helps &brandShortName; suggest where you want to go">
-<!ENTITY rememberPasswords.title "Remember passwords">
+<!ENTITY rememberPasswords.title "Parolaları hatırla">

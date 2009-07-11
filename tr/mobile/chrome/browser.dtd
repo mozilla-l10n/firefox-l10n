@@ -1,44 +1,44 @@
-<!ENTITY back.label "Back">
-<!ENTITY back.tooltip "Back">
-<!ENTITY forward.label "Forward">
-<!ENTITY forward.tooltip "Forward">
-<!ENTITY reload.label "Reload">
-<!ENTITY reload.tooltip "Reload">
-<!ENTITY stop.label "Stop">
-<!ENTITY stop.tooltip "Stop">
+<!ENTITY back.label "Geri">
+<!ENTITY back.tooltip "Geri">
+<!ENTITY forward.label "İleri">
+<!ENTITY forward.tooltip "İleri">
+<!ENTITY reload.label "Tazele">
+<!ENTITY reload.tooltip "Tazele">
+<!ENTITY stop.label "Dur">
+<!ENTITY stop.tooltip "Dur">
 <!ENTITY search.label "Ara">
 <!ENTITY search.tooltip "Ara">
-<!ENTITY go.label "Go">
-<!ENTITY go.tooltip "Go">
-<!ENTITY openLocation.label "Open location">
-<!ENTITY openLocation.tooltip "Open location">
-<!ENTITY star.label "Star">
-<!ENTITY star.tooltip "Bookmark this page">
+<!ENTITY go.label "Git">
+<!ENTITY go.tooltip "Git">
+<!ENTITY openLocation.label "Konumu aç">
+<!ENTITY openLocation.tooltip "Konumu">
+<!ENTITY star.label "Yıldız">
+<!ENTITY star.tooltip "Bu sayfayı yer imlerine ekle">
 <!ENTITY bookmarks.label "Yer imleri">
-<!ENTITY bookmarks.tooltip "View bookmarks">
+<!ENTITY bookmarks.tooltip "Yer imlerini göster">
 
-<!ENTITY newtab.label "New Tab">
+<!ENTITY newtab.label "Yeni sekme">
 <!ENTITY closetab.label "Sekmeyi kapat">
 
 <!ENTITY cut.label "Kes">
 <!ENTITY copy.label "Kopyala">
-<!ENTITY copylink.label "Copy Link Location">
+<!ENTITY copylink.label "Bağlantı konumunu kopyala">
 <!ENTITY paste.label "Yapıştır">
-<!ENTITY delete.label "Delete">
-<!ENTITY selectAll.label "Select All">
-<!ENTITY noSuggestions.label "(No suggestions)">
-<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY delete.label "Sil">
+<!ENTITY selectAll.label "Tümünü seç">
+<!ENTITY noSuggestions.label "(Öneri yok)">
+<!ENTITY addToDictionary.label "Sözlüğe ekle">
 
 <!ENTITY bookmarksHeader.label "Yer imleri">
-<!ENTITY bookmarksManage.label "Manage">
-<!ENTITY foldersHeader.label "Folders">
+<!ENTITY bookmarksManage.label "Yönet">
+<!ENTITY foldersHeader.label "Dizinler">
 
-<!ENTITY editBookmarkEdit.label "Edit">
-<!ENTITY editBookmarkMove.label "Move">
+<!ENTITY editBookmarkEdit.label "Düzenle">
+<!ENTITY editBookmarkMove.label "Taşı">
 <!ENTITY editBookmarkDone.label "Tamam">
-<!ENTITY editBookmarkTags.label "Add tags here">
+<!ENTITY editBookmarkTags.label "Buraya etiket ekle">
 
-<!ENTITY helperApp.prompt "What would you like to do with">
+<!ENTITY helperApp.prompt "Yapmak istediğiniz">
 <!ENTITY helperApp.open "Aç">
 <!ENTITY helperApp.save "Kaydet">
 <!ENTITY helperApp.nothing "Hiçbir şey">
@@ -51,55 +51,55 @@
 <!ENTITY findAgainCmd.commandkey "G">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY addonsHeader.label "Add-ons">
-<!ENTITY addonsLocal.label "Your Add-ons">
+<!ENTITY addonsHeader.label "Eklentiler">
+<!ENTITY addonsLocal.label "Eklentilerim">
 <!ENTITY addonsRepo.label "Eklenti edin">
 <!ENTITY addonsRecommended.label "Tavsiye ediliyor">
 <!ENTITY addonsSearch.label "Ara">
-<!ENTITY addonsSearch.emptytext "Search all add-ons">
+<!ENTITY addonsSearch.emptytext "Tüm eklentileri ara">
 
-<!ENTITY addonOptions.label "Options">
+<!ENTITY addonOptions.label "Seçenekler">
 <!ENTITY addonEnable.label "Etkinleştir">
-<!ENTITY addonDisable.label "Disable">
+<!ENTITY addonDisable.label "Etkisizleştir">
 <!ENTITY addonInstall.label "Kur">
 <!ENTITY addonUninstall.label "Kaldır">
 <!ENTITY addonCancel.label "Vazgeç">
-<!ENTITY addonShowPage.label "Go to Page">
+<!ENTITY addonShowPage.label "Sayfaya git">
 
-<!ENTITY downloadsHeader.label "Downloads">
-<!ENTITY downloadsSortDate.label "Date">
+<!ENTITY downloadsHeader.label "İndirme yöneticisi">
+<!ENTITY downloadsSortDate.label "Tarih">
 <!ENTITY downloadsSortSite.label "Site">
-<!ENTITY downloadsSortName.label "Name">
+<!ENTITY downloadsSortName.label "İsim">
 <!ENTITY downloadsSearch.label "Ara">
-<!ENTITY downloadsSearch.emptytext "Search for downloaded file">
+<!ENTITY downloadsSearch.emptytext "İndirilenlerde ara">
 
-<!ENTITY downloadShowPage.label "Go to Page">
+<!ENTITY downloadShowPage.label "Sayfaya git">
 <!ENTITY downloadShow2.label "Bul">
 <!ENTITY downloadOpen2.label "Aç">
 <!ENTITY downloadCancel.label "Vazgeç">
-<!ENTITY downloadPause.label "Pause">
+<!ENTITY downloadPause.label "Duraklat">
 <!ENTITY downloadResume.label "Devam et">
-<!ENTITY downloadRetry.label "Retry">
+<!ENTITY downloadRetry.label "Yeniden dene">
 
-<!ENTITY noResults.label "No results">
+<!ENTITY noResults.label "Sonuç yok">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
-<!ENTITY identity.connectedTo2 "Connected to">
+<!ENTITY identity.connectedTo2 "Bağlanılan">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "run by">
+<!ENTITY identity.runBy2 "çalışan">
 
-<!ENTITY consoleHeader.label "Error Console">
-<!ENTITY consoleAll.label "All">
+<!ENTITY consoleHeader.label "Hata konsolu">
+<!ENTITY consoleAll.label "Hepsi">
 <!ENTITY consoleErrors.label "Hatalar">
-<!ENTITY consoleWarnings.label "Warnings">
-<!ENTITY consoleMessages.label "Messages">
-<!ENTITY consoleCodeEval.label "Code:">
-<!ENTITY consoleClear.label "Clear">
-<!ENTITY consoleEvaluate.label "Evaluate">
+<!ENTITY consoleWarnings.label "Uyarılar">
+<!ENTITY consoleMessages.label "İletiler">
+<!ENTITY consoleCodeEval.label "Kod:">
+<!ENTITY consoleClear.label "Temizle">
+<!ENTITY consoleEvaluate.label "Değerlendirme">
 <!ENTITY consoleErrFile.label "Kaynak dosya:">
 <!ENTITY consoleErrLine.label "Satır:">
 <!ENTITY consoleErrColumn.label "Sütun:">
