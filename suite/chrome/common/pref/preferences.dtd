@@ -22,7 +22,7 @@
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificats">
 <!ENTITY validation.label "Validation">
-<!ENTITY advance.label "Avancées">
+<!ENTITY advance.label "Avancé">
 <!ENTITY down.label "Téléchargements">
 <!ENTITY cache.label "Cache">
 <!ENTITY proxies.label "Proxies">

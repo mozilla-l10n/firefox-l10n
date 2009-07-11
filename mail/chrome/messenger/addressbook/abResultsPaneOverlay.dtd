@@ -40,7 +40,7 @@
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY Company.label "Société">
 <!ENTITY Company.accesskey "c">
-<!ENTITY _PhoneticName.label "Phonetic Name">
+<!ENTITY _PhoneticName.label "Nom phonétique">
 <!ENTITY _PhoneticName.accesskey "o">
 <!ENTITY NickName.label "Surnom">
 <!ENTITY NickName.accesskey "s">
@@ -62,7 +62,7 @@
 <!ENTITY WorkPhone.accesskey "l">
 <!ENTITY ScreenName.label "Pseudo AIM">
 <!ENTITY ScreenName.accesskey "u">
-<!ENTITY sortAscending.label  "Par ordre croissant">
+<!ENTITY sortAscending.label  "Ordre croissant">
 <!ENTITY sortAscending.accesskey  "A">
-<!ENTITY sortDescending.label "Par ordre décroissant">
+<!ENTITY sortDescending.label "Ordre décroissant">
 <!ENTITY sortDescending.accesskey "D">

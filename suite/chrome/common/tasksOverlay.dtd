@@ -27,7 +27,7 @@
 <!ENTITY tasksMenu.label "Outils">
 <!ENTITY tasksMenu.accesskey "O">
 
-<!ENTITY passwordManagerCmd.label "Gestionnaire de mot de passe">
+<!ENTITY passwordManagerCmd.label "Mots de passe">
 <!ENTITY passwordManagerCmd.accesskey "G">
 
 <!ENTITY passwordDisplayCmd.label "Gérer les mots de passe enregistrés">

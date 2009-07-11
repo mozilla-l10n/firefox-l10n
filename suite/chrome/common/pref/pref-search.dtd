@@ -18,5 +18,5 @@
 <!ENTITY sidebarSearchTabPref.label "Préférence du panneau de recherche de la barre latérale">
 <!ENTITY searchModeBasic.label "Basique">
 <!ENTITY searchModeBasic.accesskey "B">
-<!ENTITY searchModeAdvanced.label "Avancée">
+<!ENTITY searchModeAdvanced.label "Avancé">
 <!ENTITY searchModeAdvanced.accesskey "v">

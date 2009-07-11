@@ -24,13 +24,13 @@
 <!ENTITY windowTitle.label "Insérer un tableau">
 
 <!ENTITY size.label "Taille">
-<!ENTITY numRowsEditField.label "Nombre de lignes :">
+<!ENTITY numRowsEditField.label "Lignes :">
 <!ENTITY numRowsEditField.accessKey "N">
-<!ENTITY numColumnsEditField.label "Nombre de colonnes :">
+<!ENTITY numColumnsEditField.label "Colonnes :">
 <!ENTITY numColumnsEditField.accessKey "c">
-<!ENTITY widthEditField.label "Largeur du tableau :">
+<!ENTITY widthEditField.label "Largeur :">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY borderEditField.label "Bordure :">
 <!ENTITY borderEditField.accessKey "B">
-<!ENTITY borderEditField.tooltip "Taper un nombre pour la bordure du tableau, ou zéro (0) si pas de bordure.">
+<!ENTITY borderEditField.tooltip "Saisissez un nombre pour la bordure du tableau, ou zéro (0) si pas de bordure.">
 <!ENTITY pixels.label "pixels">

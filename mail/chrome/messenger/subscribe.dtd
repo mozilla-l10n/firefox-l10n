@@ -44,12 +44,12 @@
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Actualiser">
 <!ENTITY refreshButton.accesskey      "r">
-<!ENTITY stopButton.label             "Stop">
+<!ENTITY stopButton.label             "Arrêter">
 <!ENTITY stopButton.accesskey         "t">
-<!ENTITY server.label                 "Serveur :">
+<!ENTITY server.label                 "Compte :">
 <!ENTITY server.accesskey             "S">
 <!ENTITY subscribedHeader.label	      "Abonné">
 <!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "messages"> -->
-<!ENTITY namefield.label              "Montrer les groupes qui contiennent :">
-<!ENTITY namefield.accesskey          "M">
+<!ENTITY namefield.label              "Afficher les groupes qui contiennent :">
+<!ENTITY namefield.accesskey          "f">

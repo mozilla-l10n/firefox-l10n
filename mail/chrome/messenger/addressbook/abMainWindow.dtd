@@ -8,12 +8,12 @@
 <!ENTITY newContact.label                               "Contact…">
 <!ENTITY newContact.accesskey                           "n">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label				"Liste de diffusion">
+<!ENTITY newListCmd.label				"Liste de diffusion…">
 
 <!ENTITY newListCmd.accesskey				"l">
-<!ENTITY newAddressBookCmd.label			"Carnet d'adresses">
+<!ENTITY newAddressBookCmd.label			"Carnet d'adresses…">
 <!ENTITY newAddressBookCmd.accesskey			"c">
-<!ENTITY newLDAPDirectoryCmd.label			"Annuaire LDAP">
+<!ENTITY newLDAPDirectoryCmd.label			"Annuaire LDAP…">
 
 <!ENTITY newLDAPDirectoryCmd.accesskey			"A">
 <!ENTITY newMessageCmd.label                            "Message">
@@ -88,9 +88,9 @@
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Personnaliser…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Résumé de la fiche du contact">
+<!ENTITY showContactPane.label                          "Résumé de la fiche">
 <!ENTITY showContactPane.accesskey                      "c">
-<!ENTITY menu_ShowNameAs.label				"Voir le nom comme">
+<!ENTITY menu_ShowNameAs.label                          "Afficher le nom comme">
 <!ENTITY menu_ShowNameAs.accesskey			"n">
 <!ENTITY firstLastCmd.label				"Prénom, Nom">
 <!ENTITY firstLastCmd.accesskey				"p">
@@ -104,10 +104,10 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Outils">
 <!ENTITY tasksMenu.accesskey                            "O">
-<!ENTITY messengerCmd.label                             "Courrier et groupes de discussion">
+<!ENTITY messengerCmd.label                             "Courrier et groupes">
 <!ENTITY messengerCmd.accesskey                         "C">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Rechercher des adresses…">
+<!ENTITY searchAddressesCmd.label                       "Rechercher dans les adresses…">
 <!ENTITY searchAddressesCmd.accesskey                   "h">
 <!ENTITY importCmd.label				"Importer…">
 <!ENTITY importCmd.accesskey                            "i">
@@ -125,8 +125,8 @@
 <!ENTITY newlistButton.accesskey                        "l">
 <!ENTITY editButton2.label                              "Propriétés">
 <!ENTITY editButton2.accesskey                          "P">
-<!ENTITY newmsgButton.label                             "Écrire">
-<!ENTITY newmsgButton.accesskey                         "c">
+<!ENTITY newmsgButton.label                             "Rédiger">
+<!ENTITY newmsgButton.accesskey                         "g">
 <!ENTITY newIM.label                                    "Message instantané">
 <!ENTITY newIM.accesskey                                "i">
 <!ENTITY deleteButton2.label                            "Supprimer">
@@ -195,7 +195,7 @@
 <!ENTITY description.heading                            "Description">
 <!ENTITY addresses.heading                              "Adresses">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Voir le plan">
+<!ENTITY mapItButton.label                              "Plan d'accès">
 <!ENTITY mapIt.tooltip                                  "Affiche un plan de cette adresse depuis le Web">
 
 <!-- Status Bar -->

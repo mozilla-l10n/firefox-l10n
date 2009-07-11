@@ -1,4 +1,4 @@
-<!ENTITY messengerWindow.title "Courrier">
+<!ENTITY messengerWindow.title "Courrier et groupes">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -13,7 +13,7 @@
 <!ENTITY newAccountCmd.accesskey "m">
 <!ENTITY newMailAccountCmd.label "Compte (configuration rapide)…">
 <!ENTITY newMailAccountCmd.accesskey "o">
-<!ENTITY openMessageFileCmd.label "Ouvrir un fichier de message…">
+<!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Pièces jointes">
 <!ENTITY openAttachmentCmd.accesskey "j">
@@ -50,13 +50,13 @@
 <!ENTITY offlineMenu.accesskey "H">
 <!ENTITY offlineGoOfflineCmd.label "Travailler hors connexion">
 <!ENTITY offlineGoOfflineCmd.accesskey "h">
-<!ENTITY synchronizeOfflineCmd.label "Télécharger/Synchroniser maintenant…">
+<!ENTITY synchronizeOfflineCmd.label "Synchroniser…">
 <!ENTITY synchronizeOfflineCmd.accesskey "T">
 <!ENTITY settingsOfflineCmd.label "Paramètres hors ligne…">
 <!ENTITY settingsOfflineCmd.accesskey "P">
-<!ENTITY downloadSelectedCmd.label "Récupérer les messages sélectionnés">
+<!ENTITY downloadSelectedCmd.label "Relever les messages sélectionnés">
 <!ENTITY downloadSelectedCmd.accesskey "R">
-<!ENTITY downloadStarredCmd.label "Récupérer les messages suivis">
+<!ENTITY downloadStarredCmd.label "Relever les messages suivis">
 <!ENTITY downloadStarredCmd.accesskey "c">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "p">
@@ -69,13 +69,13 @@
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Supprimer le message">
 <!ENTITY deleteMsgCmd.accesskey "S">
-<!ENTITY undeleteMsgCmd.label "Récupérer le message">
+<!ENTITY undeleteMsgCmd.label "Restaurer le message">
 <!ENTITY undeleteMsgCmd.accesskey "R">
 <!ENTITY cancelNewsMsgCmd.label "Annuler le message">
 <!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY deleteMsgsCmd.label "Supprimer les messages sélectionnés">
 <!ENTITY deleteMsgsCmd.accesskey "S">
-<!ENTITY undeleteMsgsCmd.label "Récupérer les messages sélectionnés">
+<!ENTITY undeleteMsgsCmd.label "Restaurer les messages sélectionnés">
 <!ENTITY undeleteMsgsCmd.accesskey "R">
 <!ENTITY cancelNewsMsgsCmd.label "Annuler les messages sélectionnés">
 <!ENTITY cancelNewsMsgsCmd.accesskey "A">
@@ -104,8 +104,8 @@
 <!ENTITY redoMoveMsgCmd.label "Rétablir le déplacement de message">
 <!ENTITY undoCopyMsgCmd.label "Annuler la copie de message">
 <!ENTITY redoCopyMsgCmd.label "Rétablir la copie de message">
-<!ENTITY undoMarkAllCmd.label "Annuler le marquage de tous les messages en lus">
-<!ENTITY redoMarkAllCmd.label "Rétablir le marquage de tous les messages en lus">
+<!ENTITY undoMarkAllCmd.label "Annuler le marquage de tous les messages comme lus">
+<!ENTITY redoMarkAllCmd.label "Rétablir le marquage de tous les messages comme lus">
 <!ENTITY undoDefaultCmd.label "Annuler">
 <!ENTITY undoDefaultCmd.accesskey "A">
 <!ENTITY redoDefaultCmd.label "Rétablir">
@@ -276,7 +276,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY searchMailCmd.label "Rechercher dans le courrier">
 <!ENTITY searchMailCmd.accesskey "c">
 <!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "Chercher dans les adresses…">
+<!ENTITY searchAddressesCmd.label "Rechercher dans les adresses…">
 <!ENTITY searchAddressesCmd.accesskey "a">
 
 <!-- Go Menu -->
@@ -477,7 +477,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY undeleteButton.label "Restaurer">
 <!ENTITY markButton.label "Marquer">
 <!ENTITY printButton.label "Imprimer">
-<!ENTITY stopButton.label "Stop">
+<!ENTITY stopButton.label "Arrêter">
 <!ENTITY throbberItem.title "Indicateur d'activité">
 <!ENTITY junkButton.label "Indésirable">
 <!ENTITY notJunkButton.label "Acceptable">
@@ -646,7 +646,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY junkStatusColumn.tooltip "Cliquez pour trier par statut indésirable">
 <!ENTITY unreadColumn.tooltip "Nombre de messages non lus dans le fil">
 <!ENTITY totalColumn.tooltip "Nombre total de messages dans le fil">
-<!ENTITY readColumn.tooltip "Cliquez pour trier par état de lecture">
+<!ENTITY readColumn.tooltip "Cliquez pour trier par statut de lecture">
 <!ENTITY receivedColumn.tooltip "Cliquez pour trier par date de réception">
 <!ENTITY starredColumn.tooltip "Cliquez pour trier par suivi">
 <!ENTITY locationColumn.tooltip "Cliquez pour trier par adresse">

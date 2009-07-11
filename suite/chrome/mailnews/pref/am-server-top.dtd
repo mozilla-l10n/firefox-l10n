@@ -4,9 +4,9 @@
 <!ENTITY serverSettings.label "Paramètres du serveur">
 <!ENTITY serverType.label "Type de serveur :">
 <!ENTITY serverName.label "Nom du serveur :">
-<!ENTITY serverName.accesskey "s">
+<!ENTITY serverName.accesskey "N">
 <!ENTITY userName.label "Nom d'utilisateur :">
-<!ENTITY userName.accesskey "u">
+<!ENTITY userName.accesskey "o">
 <!ENTITY port.label "Port :">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Défaut :">
@@ -16,7 +16,7 @@
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Vérifier les nouveaux messages toutes les ">
-<!ENTITY biffStart.accesskey "o">
+<!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutes">
 <!ENTITY connectionSecurity.label "Sécurité de la connexion :">
 <!ENTITY connectionSecurity.accesskey "S">
@@ -25,18 +25,18 @@
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Utiliser une authentification sécurisée">
-<!ENTITY useSecAuth.accesskey "h">
+<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "Laisser les messages sur le serveur">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Télécharger uniquement les en-têtes">
 <!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "Pendant au maximum">
-<!ENTITY deleteByAgeFromServer.accesskey "m">
+<!ENTITY deleteByAgeFromServer.accesskey "x">
 <!ENTITY daysEnd.label "jours">
 <!ENTITY deleteOnServer2.label "Jusqu'à ce que je les supprime">
-<!ENTITY deleteOnServer2.accesskey "J">
+<!ENTITY deleteOnServer2.accesskey "u">
 <!ENTITY downloadOnBiff.label "Télécharger automatiquement les nouveaux messages.">
-<!ENTITY downloadOnBiff.accesskey "T">
+<!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Votre nom de connexion">
 <!ENTITY deleteMessagePrefix.label "Lorsque je supprime un message :">
 <!ENTITY modelMoveToTrash.label "le mettre dans ce dossier :">
@@ -51,26 +51,26 @@
 <!ENTITY emptyTrashOnExit.label "Vider la corbeille en quittant">
 <!ENTITY emptyTrashOnExit.accesskey "b">
 <!ENTITY loginAtStartup.label "Vérifier le courrier au lancement">
-<!ENTITY loginAtStartup.accesskey "f">
+<!ENTITY loginAtStartup.accesskey "r">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Me demander avant de télécharger plus de ">
-<!ENTITY maxMessagesStart.accesskey "d">
+<!ENTITY maxMessagesStart.accesskey "t">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "messages.">
 <!ENTITY alwaysAuthenticate.label "Toujours demander une authentification lors de la connexion à ce serveur">
-<!ENTITY alwaysAuthenticate.accesskey "c">
+<!ENTITY alwaysAuthenticate.accesskey "j">
 <!ENTITY newsrcFilePath.label "Fichier newsrc :">
 <!ENTITY localPath.label "Répertoire local :">
 <!ENTITY abbreviate.label "Afficher les noms des groupes de discussion dans le panneau des dossiers de courrier comme :">
-<!ENTITY abbreviateOn.label "des noms complets (par exemple « mozilla.dev.apps.seamonkey-news »)">
-<!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.s-news »)">
-<!ENTITY advancedButton.label "Avancés…">
+<!ENTITY abbreviateOn.label "des noms complets (par exemple « mozilla.dev.apps.seamonkey »)">
+<!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.seamonkey »)">
+<!ENTITY advancedButton.label "Avancé…">
 <!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
-<!ENTITY advancedButton.accesskey "v">
-<!ENTITY localFolderPicker.label "Sélectionner un répertoire local">
+<!ENTITY advancedButton.accesskey "s">
+<!ENTITY localFolderPicker.label "Sélection du répertoire local">
 <!ENTITY browseFolder.label "Parcourir…">
 <!ENTITY browseFolder.accesskey "P">
 <!ENTITY newsrcPicker.label "Sélectionner un fichier newsrc">

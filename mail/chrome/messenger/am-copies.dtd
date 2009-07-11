@@ -1,36 +1,36 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Paramètres copies et dossiers">
+<!ENTITY copyAndFolderTitle.label "Copies et dossiers">
 <!ENTITY sendingPrefix.label "Lors de l'envoi de messages, automatiquement :">
 <!ENTITY fccMailFolder.label "Placer une copie dans :">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Placer les réponses dans le dossier du message auquel il a été répondu">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc à ces adresses :">
-<!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddress.label "Cci à ces adresses :">
+<!ENTITY bccAddress.accesskey "C">
 <!ENTITY saveMessageDlg.label "Demander une confirmation quand les messages sont enregistrés">
-<!ENTITY saveMessageDlg.accesskey "g">
+<!ENTITY saveMessageDlg.accesskey "m">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Dossier « Envoyés » de :">
-<!ENTITY sentFolderOn.accesskey "e">
-<!ENTITY sentInOtherFolder.label "Autre :">
+<!ENTITY sentFolderOn.accesskey "v">
+<!ENTITY sentInOtherFolder.label "Autre dossier :">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Dossier « Brouillons » de :">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Autre :">
+<!ENTITY draftsFolderOn.accesskey "r">
+<!ENTITY draftInOtherFolder.label "Autre dossier :">
 <!ENTITY draftInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "Dossiers « Archives » de :">
 <!ENTITY archivesFolderOn.accesskey "o">
-<!ENTITY archiveInOtherFolder.label "Autre :">
+<!ENTITY archiveInOtherFolder.label "Autre dossier :">
 <!ENTITY archiveInOtherFolder.accesskey "u">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Dossier « Modèles » de :">
-<!ENTITY templatesFolderOn.accesskey "m">
-<!ENTITY templateInOtherFolder.label "Autre :">
-<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY templatesFolderOn.accesskey "l">
+<!ENTITY templateInOtherFolder.label "Autre dossier :">
+<!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY specialFoldersTitle.label "Brouillons, archives et modèles">
 <!ENTITY keepDrafts.label "Conserver les brouillons dans :">
 <!ENTITY keepArchives.label "Conserver les archives dans :">

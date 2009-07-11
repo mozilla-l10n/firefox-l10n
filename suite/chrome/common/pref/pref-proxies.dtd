@@ -20,7 +20,7 @@
 <!ENTITY  http.accesskey "P">
 <!ENTITY  port.label "Port :">
 <!ENTITY  HTTPPort.accesskey "o">
-<!ENTITY  advanced.label "Avancées…">
+<!ENTITY  advanced.label "Avancé…">
 <!ENTITY  advanced.accesskey "v">
 <!ENTITY  noproxy.label "Pas de proxy pour :">
 <!ENTITY  noproxy.accesskey "y">
