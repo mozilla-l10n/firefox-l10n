@@ -137,4 +137,3 @@
 <!ENTITY consoleErrColumn.label           "Stulpelis:">
 
 <!ENTITY selectListDone.label             "Baigta">
-<!ENTITY selectListDisplay.format         "#1 elem.">
