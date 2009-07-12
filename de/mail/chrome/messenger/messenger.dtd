@@ -11,7 +11,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newAccountCmd.label "Konto…">
 <!ENTITY newAccountCmd.accesskey "o">
-<!ENTITY newMailAccountCmd.label "Konto (Quick Setup)…">
+<!ENTITY newMailAccountCmd.label "Konto (Quick-Setup)…">
 <!ENTITY newMailAccountCmd.accesskey "Q">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
@@ -311,7 +311,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Gekennzeichnete Nachricht">
 <!ENTITY prevStarredMsgCmd.accesskey "G">
-<!ENTITY startPageCmd.label "Thunderbird-Startseite">
+<!ENTITY startPageCmd.label "Startseite">
 <!ENTITY startPageCmd.accesskey "S">
 <!ENTITY msgMenu.label "Nachricht">
 <!ENTITY msgMenu.accesskey "n">

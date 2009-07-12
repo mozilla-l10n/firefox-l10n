@@ -2,7 +2,7 @@
 
 <!ENTITY securitySettings.label "Sicherheit und Authentifizierung">
 <!ENTITY serverSettings.label "Server-Einstellungen">
-<!ENTITY serverType.label "Server-Typ:">
+<!ENTITY serverType.label "Servertyp:">
 <!ENTITY serverName.label "Server:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Benutzername:">
