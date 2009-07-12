@@ -18,17 +18,17 @@
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "不要删除任何消息">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "删除所有邮件，但保留最近的">
-<!ENTITY retentionKeepNew.accesskey "b">
-<!ENTITY retentionKeepUnread.label "总删除已读消息">
-<!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY retentionKeepRecent.label "除最近使用的全部删除">
+<!ENTITY retentionKeepRecent.accesskey "b">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "总是删除已读消息（忽略消息年龄设置）">
 <!ENTITY retentionApplyToFlagged.label "总是保留已加星标之消息">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveBody.label "仅消息小于">
-<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY nntpRemoveMsgBody.label "移除消息体，当消息超过">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "选择用于脱机工作的新闻组…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "高级…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "消息同步">
 <!ENTITY diskspaceGroupTitle.label "磁盘空间">

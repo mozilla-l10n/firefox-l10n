@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "配置文本格式行为：">
 <!ENTITY sendOptions.label                     "发送选项…">
 <!ENTITY sendOptions.accesskey                 "S">
+
+<!ENTITY attachmentReminder.label              "检查缺失的附件">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "关键字…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">

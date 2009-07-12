@@ -42,7 +42,7 @@
 
 <!ENTITY generalInfo.label                       "基本信息">
 <!ENTITY folderCharsetTab.label                  "默认字符编码：">
-<!ENTITY folderCharsetTab.accesskey              "e">
+<!ENTITY folderCharsetTab.accesskey              "E">
 <!ENTITY folderCharsetOverride.label             "对所有消息使用默认设置（单条消息的字符编码设置以及自动检测设置将被忽略）">
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFile.label          "重建索引">
@@ -60,11 +60,11 @@
 <!ENTITY retentionDeleteMsg.label "删除超过">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "不要删除任何消息">
-<!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "删除所有邮件，但保留最近的">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "总删除已读消息">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.label "除最近使用的全部删除">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "总是删除已读消息（忽略消息年龄设置）">
 <!ENTITY retentionApplyToFlagged.label "总是保留已加星标之消息">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "帐户…">
 <!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY newMailAccountCmd.label "邮件帐号（快速设置） ...">
+<!ENTITY newMailAccountCmd.accesskey "Q">
 <!ENTITY openMessageFileCmd.label "打开已保存消息…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "附件">
@@ -47,7 +49,7 @@
 <!ENTITY offlineMenu.label "脱机">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "脱机工作">
-<!ENTITY offlineGoOfflineCmd.accesskey "W">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "立即下载/同步…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "脱机设置…">
@@ -85,7 +87,7 @@
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "全部">
 <!ENTITY all.accesskey "A">
-<!ENTITY selectThreadCmd.label "论题">
+<!ENTITY selectThreadCmd.label "话题">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "已加星标消息">
@@ -172,32 +174,33 @@
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "降序">
 <!ENTITY sortDescending.accesskey "D">
-<!ENTITY sortThreaded.label "有话题">
+<!ENTITY sortThreaded.label "按话题">
 <!ENTITY sortThreaded.accesskey "T">
-<!ENTITY sortUnthreaded.label "无话题">
+<!ENTITY sortUnthreaded.label "不按话题">
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "按排序分组">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "消息">
 <!ENTITY msgsMenu.accesskey "M">
-<!ENTITY threads.label "论题">
+<!ENTITY threads.label "话题">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "全部">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "展开所有论题">
+<!ENTITY expandAllThreadsCmd.label "展开所有话题">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "折叠所有论题">
+<!ENTITY collapseAllThreadsCmd.label "折叠所有话题">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "未读">
 <!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "有未读消息的论题">
+<!ENTITY threadsWithUnreadCmd.label "有未读消息的话题">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "观察的且有未读消息的论题">
+<!ENTITY watchedThreadsWithUnreadCmd.label "关注的且有未读消息的话题">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "已忽略的论题">
-<!ENTITY ignoredThreadsCmd.accesskey "I">
+<!ENTITY ignoredThreadsCmd.label "已忽略的话题">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "标题头">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "全部">
@@ -212,8 +215,18 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "纯文本">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+
+<!ENTITY bodyMenuFeed.label "用邮件正文作为">
+<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY viewFeedWebPage.label "网页">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "概述">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "默认格式">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+
 <!ENTITY viewAttachmentsInlineCmd.label "查看直接插入的附件">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -228,7 +241,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "缩小">
-<!ENTITY fullZoomReduceCmd.accesskey    "o">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -277,7 +290,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "已加星标之消息">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
-<!ENTITY nextUnreadThread.label "未读论题">
+<!ENTITY nextUnreadThread.label "未读话题">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "上一个">
@@ -298,6 +311,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY startPageCmd.label "邮件起始页">
 <!ENTITY startPageCmd.accesskey "S">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "消息">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "新建消息">
@@ -317,6 +332,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "全部回复">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToListMsgCmd.label "回复至列表">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "转发">
 <!ENTITY forwardMsgCmd.accesskey "F">
 <!ENTITY forwardMsgCmd.key  "l">
@@ -342,13 +360,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY moveToFolderAgain.label "重复移动">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "忽略论题">
+<!ENTITY killThreadMenu.label "忽略话题">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "忽略子论题">
+<!ENTITY killSubthreadMenu.label "忽略子话题">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "观察论题">
+<!ENTITY watchThreadMenu.label "关注话题">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "移动至此处">
@@ -372,11 +390,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "已读">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markThreadAsReadCmd.label "论题为已读">
+<!ENTITY markThreadAsReadCmd.label "话题为已读">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "已读日期…">
-<!ENTITY markReadByDateCmd.accesskey "d">
+<!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "全部已读">
 <!ENTITY markAllReadCmd.accesskey "A">
@@ -395,6 +413,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "打开消息">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "打开收取点消息">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "在新窗口中打开网页">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "在新窗口打开摘要">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "切换是否显示消息面板中的网页和摘要">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "窗口">
@@ -438,6 +464,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "新建消息">
 <!ENTITY replyButton.label "回复">
 <!ENTITY replyAllButton.label "全部回复">
+<!ENTITY replyListButton.label "回复至列表">
 <!ENTITY forwardButton.label "转发">
 <!ENTITY fileButton.label "移动">
 <!ENTITY nextButton.label "下一个">
@@ -469,6 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "创建新消息">
 <!ENTITY replyButton.tooltip "回复消息">
 <!ENTITY replyAllButton.tooltip "回复发件人和所有收件人">
+<!ENTITY replyListButton.tooltip "回复至邮件列表">
 <!ENTITY forwardButton.tooltip "转发选择的消息">
 <!ENTITY fileButton.tooltip "移动选择的消息">
 <!ENTITY nextButton.tooltip "转至下一条未读消息">
@@ -571,7 +599,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveAsVirtualFolderMenu.label "将搜索结果保存作为文件夹…">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "论题">
+<!ENTITY threadColumn.label "话题">
 <!ENTITY fromColumn.label "发件人">
 <!ENTITY recipientColumn.label "收件人">
 <!ENTITY subjectColumn.label "主题">
@@ -594,6 +622,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      present in the gloda search results.  The values can be found in
      messenger.properties with a prefix of "glodaSearch_results_why_". -->
 <!ENTITY glodaWhyColumn.label "原因">
+<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
+     score assigned to the message as a result of the search.  The column
+     primarily exists to be sorted by, and its contents will probably have
+     little meaning for most users. -->
+<!ENTITY glodaScoreColumn.label "分数">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "点击选择要显示的列">
@@ -617,10 +650,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.tooltip "点击按接收顺序排序">
 <!ENTITY attachmentColumn.tooltip "点击对附件排序">
 <!ENTITY glodaWhyColumn.tooltip "点击将搜索结果按消息被列入的原因排序">
+<!ENTITY glodaScoreColumn.tooltip "点击按搜索得分排序">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "在新窗口中打开消息">
-<!ENTITY contextOpenNewWindow.accesskey "w">
+<!ENTITY contextOpenNewWindow.accesskey "W">
 <!ENTITY contextOpenNewTab.label "在新标签页中打开消息">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "作为新消息编辑…">
@@ -631,6 +665,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "全部回复">
 <!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyList.label "回复至列表">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "转发">
 <!ENTITY contextForward.accesskey "F">
 <!ENTITY contextForwardAsAttachment.label "作为附件转发">
@@ -654,8 +690,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "为保护您的隐私，远程图片已被阻止。">
-<!ENTITY loadRemoteContentButton2.label "显示图片">
+<!ENTITY remoteContentMessage2.label "为了保护您的隐私, &brandShortName;已经禁止了这个消息中的远程内容.">
+<!ENTITY loadRemoteContentButton3.label "显示远程内容">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "此消息可能是欺诈。">

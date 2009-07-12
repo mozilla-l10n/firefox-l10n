@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "在引用内容之后（建议）">
 <!ENTITY aboveText.label                      "在我的回复之后（在引用内容之前）">
+<!ENTITY includeSigOnReply.label              "回复包含签名">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "转发时包含签名">
+<!ENTITY includeSigOnForward.accesskey        "w">
