@@ -45,31 +45,31 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "文件">
-<!ENTITY mapfileMenu.accesskey "F">
+<!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "清空">
 <!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "关闭">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "c">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "编辑">
-<!ENTITY mapeditMenu.accesskey "E">
+<!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "剪切">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "复制">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "粘贴">
-<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY selectallCmd.label "选择全部">
-<!ENTITY selectallCmd.accesskey "S">
+<!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "热点属性">
-<!ENTITY propsCmd.accesskey "H">
+<!ENTITY propsCmd.accesskey "h">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "查看">
-<!ENTITY mapviewMenu.accesskey "V">
+<!ENTITY mapviewMenu.accesskey "v">
 <!ENTITY showhideTbarCmd.label "隐藏工具栏">
-<!ENTITY showhideTbarCmd.accesskey "T">
+<!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "缩放">
 <!ENTITY mapviewScale.accesskey "S">

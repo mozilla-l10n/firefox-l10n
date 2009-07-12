@@ -39,9 +39,9 @@
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "新建文件夹">
 <!ENTITY name.label                 "名称：">
-<!ENTITY name.accesskey             "N">
+<!ENTITY name.accesskey             "n">
 <!ENTITY description.label          "创建子文件夹：">
-<!ENTITY description.accesskey      "C">
+<!ENTITY description.accesskey      "c">
 <!ENTITY folderRestriction1.label   "此服务器只允许两种特殊的文件夹。">
 <!ENTITY folderRestriction2.label   "允许新文件夹包含：">
 <!ENTITY foldersOnly.label          "只文件夹">

@@ -1,4 +1,4 @@
-<!ENTITY defaultClient.title  "默认客户端">
+<!ENTITY systemIntegration.title  "系统集成">
 <!ENTITY defaultClient.intro  "使用 &brandShortName; 作为下列应用的默认客户端：">
 
 <!ENTITY email.label "电子邮件">
@@ -7,3 +7,6 @@
 
 <!ENTITY checkOnStartup.label "启动 &brandShortName; 时总是进行此项检查">
 <!ENTITY checkOnStartup.accesskey "A">
+
+<!ENTITY searchIntegration.label "允许 &searchIntegration.engineName; 搜索邮件">
+<!ENTITY searchIntegration.accesskey "S">

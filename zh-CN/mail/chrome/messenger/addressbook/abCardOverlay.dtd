@@ -79,9 +79,9 @@
 <!ENTITY ScreenName.label               "屏幕名：">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "允许远程图片。">
-<!ENTITY allowRemoteContent.accesskey   "r">
-<!ENTITY allowRemoteContent.tooltip     "HTML 消息中可能嵌入远程图片。打开此类消息的时候，需要连接至外部资源地址。这可能会间接允许他人可以跟踪邮件是否被阅读。选中此检查框将允许查看来自此联系人 HTML 邮件中的外部嵌入图片。">
+<!ENTITY allowRemoteContent1.label      "允许远程内容。">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "在 HTML 邮件中，可以嵌入远端资源。打开这种邮件的同时也会打开这个外部资源。这种方式可用于追踪被读取的消息。勾选此检查框将会允许来自该联系人的 HTML 邮件嵌入此类外部内容。">
 
 <!ENTITY WorkPhone.label                "工作：">
 <!ENTITY WorkPhone.accesskey            "k">

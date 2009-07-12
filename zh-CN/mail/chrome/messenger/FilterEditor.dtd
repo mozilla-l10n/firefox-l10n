@@ -33,7 +33,7 @@
 <!ENTITY deleteMessage.label "删除消息">
 <!ENTITY deleteFromPOP.label "从 POP 服务器删除">
 <!ENTITY fetchFromPOP.label "从 POP 服务器下载">
-<!ENTITY ignoreThread.label "忽略论题">
-<!ENTITY ignoreSubthread.label "忽略子论题">
-<!ENTITY watchThread.label "观察论题">
+<!ENTITY ignoreThread.label "忽略话题">
+<!ENTITY ignoreSubthread.label "忽略子话题">
+<!ENTITY watchThread.label "关注话题">
 <!ENTITY stopExecution.label "停止执行过滤器">

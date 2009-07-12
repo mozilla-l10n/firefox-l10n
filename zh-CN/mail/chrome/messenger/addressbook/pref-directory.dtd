@@ -43,8 +43,8 @@
 <!ENTITY directoriesText.label     "选择 LDAP 目录服务器：">
 <!ENTITY directoriesText.accesskey "S">
 <!ENTITY addDirectory.label        "添加">
-<!ENTITY addDirectory.accesskey    "A">
+<!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "编辑">
-<!ENTITY editDirectory.accesskey   "E">
+<!ENTITY editDirectory.accesskey   "e">
 <!ENTITY deleteDirectory.label     "删除">
-<!ENTITY deleteDirectory.accesskey "D">
+<!ENTITY deleteDirectory.accesskey "d">

@@ -8,9 +8,11 @@
 
 <!ENTITY enableGlodaSearch.label       "启用全局搜索以及索引">
 <!ENTITY enableGlodaSearch.accesskey   "E">
-<!ENTITY systemDefaults.label          "系统默认值">
+<!ENTITY systemIntegration.label       "系统集成">
 <!ENTITY alwaysCheckDefault.label      "启动时检查 &brandShortName; 是否为默认邮件客户端">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "允许 &searchIntegration.engineName; 搜索邮件">
+<!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkNow.label                "立即检查…">
 <!ENTITY checkNow.accesskey            "N">
 <!ENTITY configEditDesc.label          "高级配置">
@@ -37,17 +39,21 @@
 <!ENTITY markAsReadDelay.accesskey     "d">
 <!ENTITY secondsLabel.label            "秒">
 <!ENTITY openMsgIn.label               "打开消息，使用：">
+<!ENTITY openMsgInNewTab.label         "新标签页">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label          "新的消息窗口">
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "已打开的消息窗口">
 <!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgWindowOnDelete.label  "删除时自动关闭消息窗口">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "自动检查下列组件的更新：">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "已安装的附加组件">
-<!ENTITY enableAddonsUpdate.accesskey   "a">
+<!ENTITY enableAddonsUpdate.accesskey   "A">
 <!ENTITY whenUpdatesFound.label         "当找到 &brandShortName; 的更新时，">
 <!ENTITY modeAskMe.label                "询问我要如何做">
 <!ENTITY modeAskMe.accesskey            "m">

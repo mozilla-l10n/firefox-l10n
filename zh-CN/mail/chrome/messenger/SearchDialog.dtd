@@ -31,7 +31,7 @@
 <!ENTITY abSearchDialogTitle.label   "通讯录高级搜索">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "论题">
+<!ENTITY threadColumn.label "话题">
 <!ENTITY fromColumn.label "发件人">
 <!ENTITY recipientColumn.label "收件人">
 <!ENTITY subjectColumn.label "主题">

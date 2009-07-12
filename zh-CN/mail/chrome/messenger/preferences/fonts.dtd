@@ -14,11 +14,11 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "衬线字体：">
-<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  serif.accesskey                         "s">
 <!ENTITY  sans-serif.label                        "无衬线字体：">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "等宽字体：">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  monospace.accesskey                     "m">
 
 <!ENTITY  font.langGroup.latin1                   "西方">
 <!ENTITY  font.langGroup.latin2                   "中欧">

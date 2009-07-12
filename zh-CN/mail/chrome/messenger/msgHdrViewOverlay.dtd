@@ -60,23 +60,21 @@
 <!ENTITY archiveButton.label "归档">
 <!ENTITY hdrReplyButton.label "回复">
 <!ENTITY hdrReplyAllButton.label "全部回复">
+<!ENTITY hdrReplyListButton.label "回复列表">
 <!ENTITY hdrForwardButton.label "转发">
 <!ENTITY hdrJunkButton.label "垃圾">
 <!ENTITY trashButton.tooltiptext "删除">
 
 <!ENTITY otherActionsButton.label "其他操作">
 <!ENTITY saveAsMenuItem.label "另存为…">
-<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "查看源代码…">
-<!ENTITY viewSourceMenuItem.accesskey "v">
-
-<!ENTITY hideDetailsButton.label "隐藏详细信息">
-<!ENTITY showDetailsButton.label "显示详细信息">
+<!ENTITY viewSourceMenuItem.accesskey "V">
 
 <!ENTITY openAttachmentCmd.label    "打开">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "另存为…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "a">
+<!ENTITY saveAsAttachmentCmd.accesskey    "A">
 <!ENTITY detachAttachmentCmd.label    "移除…">
 <!ENTITY deleteAttachmentCmd.label    "删除">
 <!ENTITY saveAllAttachmentsCmd.label    "全部保存…">
@@ -84,7 +82,7 @@
 <!ENTITY detachAllAttachmentsCmd.label    "全部移除…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
 <!ENTITY deleteAllAttachmentsCmd.label    "全部删除…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
 
 <!ENTITY copyLinkCmd.label        "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey    "C">

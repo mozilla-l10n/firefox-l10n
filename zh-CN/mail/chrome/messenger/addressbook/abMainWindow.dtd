@@ -2,27 +2,27 @@
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "文件">
-<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY fileMenu.accesskey                             "f">
 <!ENTITY newMenu.label                                  "新建">
 <!ENTITY newMenu.accesskey                              "N">
 <!ENTITY newContact.label                               "通讯录联系人…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "邮递列表…">
-<!ENTITY newListCmd.accesskey                           "l">
+<!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "通讯录…">
 <!ENTITY newAddressBookCmd.accesskey                    "B">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP目录…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "新建消息">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "M">
+<!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "使用 Mac OS X 通讯录">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "关闭">
 <!ENTITY closeCmd.key                                   "W">
-<!ENTITY closeCmd.accesskey                             "C">
+<!ENTITY closeCmd.accesskey                             "c">
 <!ENTITY printSetupCmd.label                            "页面设置…">
 <!ENTITY printSetupCmd.accesskey                        "u">
 <!ENTITY printPreviewContactCmd.label                   "联系人打印预览">
@@ -37,24 +37,24 @@
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "编辑">
-<!ENTITY editMenu.accesskey                             "E">
+<!ENTITY editMenu.accesskey                             "e">
 <!ENTITY undoCmd.label                                  "撤销">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "U">
+<!ENTITY undoCmd.accesskey                              "u">
 <!ENTITY redoCmd.label                                  "重做">
 <!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "R">
+<!ENTITY redoCmd.accesskey                              "r">
 <!ENTITY cutCmd.label                                   "剪切">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "t">
 <!ENTITY copyCmd.label                                  "复制">
 <!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "C">
+<!ENTITY copyCmd.accesskey                              "c">
 <!ENTITY pasteCmd.label                                 "粘贴">
 <!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "P">
+<!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "删除">
-<!ENTITY deleteCmd.accesskey                            "D">
+<!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "删除通讯录">
 <!ENTITY deleteContactCmd.label                         "删除联系人">
 <!ENTITY deleteContactsCmd.label                        "删除联系人">
@@ -64,7 +64,7 @@
 <!ENTITY selectAllCmd.label                             "选择全部">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "A">
+<!ENTITY selectAllCmd.accesskey                         "a">
 <!ENTITY swapFirstNameLastNameCmd.label                 "切换 姓/名">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
@@ -76,7 +76,7 @@
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "查看">
-<!ENTITY viewMenu.accesskey                             "V">
+<!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "工具栏">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
 <!ENTITY showAbToolbarCmd.label                         "通讯录工具栏">
@@ -88,13 +88,13 @@
 <!ENTITY showContactPane.label                          "联系人信息面板">
 <!ENTITY showContactPane.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label                          "名称显示方式">
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "名字，姓氏">
-<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!ENTITY firstLastCmd.accesskey                         "f"> 
 <!ENTITY lastFirstCmd.label                             "姓氏，名字">
-<!ENTITY lastFirstCmd.accesskey                         "L">
+<!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "显示姓名">
-<!ENTITY displayNameCmd.accesskey                       "D">
+<!ENTITY displayNameCmd.accesskey                       "d">
 <!ENTITY sortMenu.label                                 "排序">
 <!ENTITY sortMenu.accesskey                             "S">
 
@@ -102,7 +102,7 @@
 <!ENTITY tasksMenu.label                                "工具">
 <!ENTITY tasksMenu.accesskey                            "T">
 <!ENTITY messengerCmd.label                             "邮件和新闻组">
-<!ENTITY messengerCmd.accesskey                         "M">
+<!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "搜索地址…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">

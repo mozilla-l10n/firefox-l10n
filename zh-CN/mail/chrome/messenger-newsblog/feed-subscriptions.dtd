@@ -13,6 +13,6 @@
 <!ENTITY button.importOPML.label "导入">
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "导出">
-<!ENTITY button.exportOPML.accesskey   "x">
+<!ENTITY button.exportOPML.accesskey   "X">
 
 <!ENTITY cmd.close.commandKey             "w">

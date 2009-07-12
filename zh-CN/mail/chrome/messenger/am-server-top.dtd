@@ -29,7 +29,7 @@
 <!ENTITY leaveOnServer.label "把消息留在服务器上">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "仅下载消息头">
-<!ENTITY headersOnly.accesskey "F">
+<!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "至多不超过">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "天">
@@ -47,7 +47,7 @@
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "退出时清除 (&quot;Expunge&quot;) 收件箱">
-<!ENTITY expungeOnExit.accesskey "e">
+<!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "退出时清空“废件箱”">
 <!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY loginAtStartup.label "启动时检查新消息">

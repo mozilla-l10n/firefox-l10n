@@ -3,7 +3,7 @@
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "文件"> 
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "新建">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "新建消息">
@@ -23,12 +23,12 @@
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "关闭">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "c">
 <!ENTITY saveCmd.label "保存">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "另存为">
-<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.label "文件…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "草稿">
@@ -49,31 +49,31 @@
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "编辑"> 
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "撤销">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "U"> 
+<!ENTITY undoCmd.accesskey "u"> 
 <!ENTITY redoCmd.label "重做">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY redoCmd.accesskey "r"> 
 <!ENTITY cutCmd.label "剪切">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t"> 
 <!ENTITY copyCmd.label "复制">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C"> 
+<!ENTITY copyCmd.accesskey "c"> 
 <!ENTITY pasteCmd.label "粘贴">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "重新排版">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "删除">
-<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY deleteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "选择全部">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "A"> 
+<!ENTITY selectAllCmd.accesskey "a"> 
 <!ENTITY findCmd.label "查找并替换…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
@@ -88,7 +88,7 @@
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "查看"> 
-<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "工具栏"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
 <!ENTITY showCompositionToolbarCmd.label "编写工具栏">
@@ -128,24 +128,24 @@
 <!ENTITY dsnMenu.label "递送状态通知">
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY outputFormatMenu.label "格式">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "自动检测">
-<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "仅纯文本">
-<!ENTITY plainTextFormatCmd.accesskey "P">
+<!ENTITY plainTextFormatCmd.accesskey "p">
 <!ENTITY htmlFormatCmd.label "仅复杂文本 (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "R">
+<!ENTITY htmlFormatCmd.accesskey "r">
 <!ENTITY bothFormatCmd.label "简单或复杂 (HTML) 文本">
 <!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "优先级">
-<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.label "优先级：">
 <!ENTITY lowestPriorityCmd.label "最低">
-<!ENTITY lowestPriorityCmd.accesskey "L">
+<!ENTITY lowestPriorityCmd.accesskey "l">
 <!ENTITY lowPriorityCmd.label "低">
 <!ENTITY lowPriorityCmd.accesskey "o">
 <!ENTITY normalPriorityCmd.label "正常">
-<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY normalPriorityCmd.accesskey "n">
 <!ENTITY highPriorityCmd.label "高">
 <!ENTITY highPriorityCmd.accesskey "i">
 <!ENTITY highestPriorityCmd.label "最高">
@@ -158,10 +158,10 @@
 <!ENTITY tasksMenu.label "工具">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "邮件和新闻组">
-<!ENTITY messengerCmd.accesskey "M">
+<!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "通讯录">
-<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "帐户设置…">
 <!ENTITY accountManagerCmd.accesskey "c">
