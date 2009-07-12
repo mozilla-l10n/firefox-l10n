@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "后退">
 <!ENTITY back.tooltip          "后退">
 <!ENTITY forward.label         "前进">
@@ -40,6 +37,11 @@
 <!ENTITY editBookmarkMove.label    "移动">
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "标签:">
+
+<!ENTITY helperApp.prompt          "您将如何使用">
+<!ENTITY helperApp.open            "打开">
+<!ENTITY helperApp.save            "保存">
+<!ENTITY helperApp.nothing         "无">
 
 <!ENTITY findOnCmd.label     "在当前页查找…">
 <!ENTITY findOnCmd.accesskey "F">
@@ -101,3 +103,5 @@
 <!ENTITY consoleErrFile.label      "源文件：">
 <!ENTITY consoleErrLine.label      "行：">
 <!ENTITY consoleErrColumn.label    "列：">
+
+<!ENTITY selectListDone.label      "完成">
