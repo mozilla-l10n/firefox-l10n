@@ -38,7 +38,7 @@
 <!ENTITY newDirectoryTitle.label           "LDAP-Verzeichnisserver bearbeiten">
 <!ENTITY directoryName.label               "Name:">
 <!ENTITY directoryName.accesskey           "N">
-<!ENTITY directoryHostname.label           "Server-Adresse:">
+<!ENTITY directoryHostname.label           "Serveradresse:">
 <!ENTITY directoryHostname.accesskey       "A">
 <!ENTITY directoryBaseDN.label             "Basis-DN:">
 <!ENTITY directoryBaseDN.accesskey         "b">
