@@ -31,26 +31,26 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.download.title            "Atsiuntimai">
+
 <!ENTITY downloadBehavior.label         "Prasidėjus siuntimui">
-<!ENTITY downloadLocation.label         "Įrašant failą">
-<!ENTITY finishedBehavior.label         "Pasibaigus siuntimui">
+<!ENTITY focusWhenStarting.label        "Atkreipti dėmesį į atsiuntimų tvarkytuvės langą, jei jis jau atvertas. Priešingu atveju:">
+<!ENTITY focusWhenStarting.accesskey    "d">
 <!ENTITY openDM.label                   "Atverti atsiuntimo tvarkytuvę">
 <!ENTITY openDM.accesskey               "t">
 <!ENTITY openProgressDialog.label       "Atverti eigos langą">
 <!ENTITY openProgressDialog.accesskey   "e">
 <!ENTITY doNothing.label                "Nieko neatverti">
 <!ENTITY doNothing.accesskey            "N">
-<!ENTITY promptDownload.label           "Klausti, kur parsiųsti failą ir siūlyti">
-<!ENTITY promptDownload.accesskey       "K">
-<!ENTITY lastLocation.label             "aplanką, į kurį buvo paskiausiai siunčiamasi">
-<!ENTITY lastLocation.accesskey         "p">
-<!ENTITY specifiedLocation.label        "numatytąjį atsiuntimų aplanką">
-<!ENTITY specifiedLocation.accesskey    "u">
-<!ENTITY autoDownload.label             "Iškart siųsti failus į nurodytą atsiuntimų aplanką">
-<!ENTITY autoDownload.accesskey         "s">
-<!ENTITY downloadFolder.label           "Esamas atsiuntimų aplankas:">
+
+<!ENTITY downloadLocation.label         "Įrašant failą">
+<!ENTITY saveTo.label                   "Atsiunčiamus failus įrašyti į">
+<!ENTITY saveTo.accesskey               "f">
 <!ENTITY chooseDownloadFolder.label     "Parinkti aplanką…">
 <!ENTITY chooseDownloadFolder.accesskey "r">
+<!ENTITY alwaysAsk.label                "Klausti, kur įrašyti kiekvieną atsiunčiamą failą">
+<!ENTITY alwaysAsk.accesskey            "K">
+
+<!ENTITY finishedBehavior.label         "Pasibaigus siuntimui">
 <!ENTITY playSound.label                "Groti garsą">
 <!ENTITY playSound.accesskey            "G">
 <!ENTITY showAlert.label                "Rodyti pranešimą">
