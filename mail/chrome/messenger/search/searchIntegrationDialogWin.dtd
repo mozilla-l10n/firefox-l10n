@@ -1,8 +1,0 @@
-
-<!-- FIXME: localize -->
-<!ENTITY searchIntegration.engineName "Пошук Windows">
-<!ENTITY searchIntegration.title "Інтеграція з &searchIntegration.engineName;">
-<!ENTITY searchIntegration.description "Чи бажаєте ви ввімкнути &searchIntegration.engineName; для пошуку та індексування листів та новин у &brandShortName;?">
-
-<!ENTITY searchIntegration.accept "Ввімкнути &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Не вмикати &searchIntegration.engineName;">
