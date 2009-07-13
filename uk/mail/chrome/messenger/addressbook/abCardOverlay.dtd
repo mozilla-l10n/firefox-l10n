@@ -35,12 +35,11 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-
-<!ENTITY Contact.tab                     "Контакт"> 
+<!ENTITY Contact.tab                     "Контакт">
 <!ENTITY Contact.accesskey               "К">
-<!ENTITY Name.box                        "Ім’я"> 
+<!ENTITY Name.box                        "Ім’я">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -49,13 +48,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Ім’я:">
 <!ENTITY NameField1.accesskey           "І">
@@ -80,8 +79,9 @@
 <!ENTITY ScreenName.label               "Інтернет-пейджер:">
 <!ENTITY ScreenName.accesskey           "п">
 
-<!ENTITY allowRemoteContent.label       "Дозволити віддалені зображення в HTML-листах.">
-<!ENTITY allowRemoteContent.accesskey   "з">
+<!ENTITY allowRemoteContent1.label      "Дозволити віддалений зміст.">
+<!ENTITY allowRemoteContent1.accesskey  "в">
+<!ENTITY allowRemoteContent1.tooltip    "В HTML-лист можливо вбудувати зміст з віддаленого джерела. При відкриванні такого листа, буде встановлено зв’язок з цим віддаленим джерелом. Це дає можливість відстежити факт читання листа. Встановиши цю пташку ви дозволите такий зовнішній вбудований зміст в HTML листах від цього контакта.">
 
 <!ENTITY WorkPhone.label                "Робочий:">
 <!ENTITY WorkPhone.accesskey            "б">
@@ -94,43 +94,52 @@
 <!ENTITY CellularNumber.label           "Мобільний:">
 <!ENTITY CellularNumber.accesskey       "М">
 
+<!ENTITY Home.tab                       "Особисте">
+<!ENTITY Home.accesskey                 "с">
 <!ENTITY HomeAddress.label              "Адреса:">
 <!ENTITY HomeAddress.accesskey          "А">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "Місто:"> 
+<!ENTITY HomeCity.label                 "Місто:">
 <!ENTITY HomeCity.accesskey             "М">
-<!ENTITY HomeState.label                "Область, край:"> 
+<!ENTITY HomeState.label                "Область, край:">
 <!ENTITY HomeState.accesskey            "к">
-<!ENTITY HomeZipCode.label              "Поштовий індекс:"> 
+<!ENTITY HomeZipCode.label              "Поштовий індекс:">
 <!ENTITY HomeZipCode.accesskey          "ш">
 <!ENTITY HomeCountry.label              "Країна:">
 <!ENTITY HomeCountry.accesskey          "ї">
-<!ENTITY HomeWebPage.label              "Веб-сторінка:"> 
+<!ENTITY HomeWebPage.label              "Веб-сторінка:">
 <!ENTITY HomeWebPage.accesskey          "т">
+<!ENTITY Birthday.label                 "День народження:">
+<!ENTITY Birthday.accesskey             "н">
+<!ENTITY In.label                       "">
+<!ENTITY Year.emptytext                 "Рік">
+<!ENTITY Or.value                       "чи">
+<!ENTITY Age.emptytext                  "Вік">
+<!ENTITY YearsOld.label                 "">
 
-<!ENTITY JobTitle.label                 "Посада:"> 
+<!ENTITY Work.tab                       "Робота">
+<!ENTITY Work.accesskey                 "Р">
+<!ENTITY JobTitle.label                 "Посада:">
 <!ENTITY JobTitle.accesskey             "П">
-<!ENTITY Department.label               "Відділ:"> 
+<!ENTITY Department.label               "Відділ:">
 <!ENTITY Department.accesskey           "В">
-
 <!ENTITY Company.label                  "Організація:">
 <!ENTITY Company.accesskey              "р">
- 
 <!ENTITY WorkAddress.label              "Адреса:">
-<!ENTITY WorkAddress.accesskey          "А"> 
+<!ENTITY WorkAddress.accesskey          "А">
 <!ENTITY WorkAddress2.label             "">
-<!ENTITY WorkAddress2.accesskey         ""> 
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Місто:">
-<!ENTITY WorkCity.accesskey             "М"> 
+<!ENTITY WorkCity.accesskey             "М">
 <!ENTITY WorkState.label                "Область, край:">
-<!ENTITY WorkState.accesskey            "к"> 
+<!ENTITY WorkState.accesskey            "к">
 <!ENTITY WorkZipCode.label              "Поштовий індекс:">
-<!ENTITY WorkZipCode.accesskey          "ш"> 
+<!ENTITY WorkZipCode.accesskey          "ш">
 <!ENTITY WorkCountry.label              "Країна:">
 <!ENTITY WorkCountry.accesskey          "ї">
 <!ENTITY WorkWebPage.label              "Веб-сторінка:">
-<!ENTITY WorkWebPage.accesskey          "т"> 
+<!ENTITY WorkWebPage.accesskey          "т">
 
 <!ENTITY Other.tab                      "Інше">
 <!ENTITY Other.accesskey                "І">
@@ -142,32 +151,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Інше 4:">
 <!ENTITY Custom4.accesskey              "4">
-
-<!ENTITY Work.tab                       "Робота">
-<!ENTITY Work.accesskey                 "Р">
-<!ENTITY Age.emptytext                  "Вік">
-
-<!ENTITY Birthday.label                 "День народження:">
-<!ENTITY Birthday.accesskey             "н">
-
-<!ENTITY Or.value                       "чи">
-
 <!ENTITY Notes.label                    "Примітки:">
 <!ENTITY Notes.accesskey                "П">
-
-<!ENTITY Home.tab                       "Особисте">
-<!ENTITY Home.accesskey                 "с">
-
-<!ENTITY Year.emptytext                 "Рік">
-
-<!-- FIXME: localize -->
-<!ENTITY allowRemoteContent.tooltip     "В HTML-листи можна включати
-зображення з віддалених джерел. Під час відкриття такого листа буде здійснено
-підключення до цих джерел. Це може дозволити відслідкувати факт прочитання
-листа. Відмітивши цей флажок, ви дозволите відкривати зовнішні зображення
-в HTML-листах від цього контакту.">
-
-
-<!-- FIXME: localize -->
-<!ENTITY In.label                       "">
-<!ENTITY YearsOld.label                 "">

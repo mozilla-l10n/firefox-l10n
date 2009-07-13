@@ -1,3 +1,4 @@
+<!ENTITY accountTitle.label "Параметри облікового запису">
 
 <!ENTITY biffStart.label "Перевіряти наявність нових статей кожні">
 <!ENTITY biffStart.accesskey "П">
@@ -12,8 +13,8 @@
 <!ENTITY manageSubscriptions.label "Упорядкувати підписки…"> 
 <!ENTITY manageSubscriptions.accesskey "У">
 
-<!ENTITY accountTitle.label "Параметри облікового запису">
+<!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Блоги та стрічки новин">
+<!ENTITY feeds.wizardShortName "Стрічки">
 <!ENTITY feeds.wizardLongName "Блоги та стрічки новин">
 <!ENTITY feeds.wizardLongName.accesskey "с">
-<!ENTITY feeds.wizardShortName "Стрічки">
