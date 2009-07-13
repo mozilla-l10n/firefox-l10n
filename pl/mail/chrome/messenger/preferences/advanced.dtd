@@ -28,13 +28,12 @@
 <!ENTITY autoMarkAsRead.accesskey         "A">
 <!ENTITY markAsReadNoDelay.label          "natychmiast po wyświetleniu">
 <!ENTITY markAsReadNoDelay.accesskey      "n">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds" -->
+<!-- markAsReadDelay.label will concatenate to "After displaying for [___] seconds" -->
 <!ENTITY markAsReadDelay.label            "po wyświetlaniu przez">
 <!ENTITY markAsReadDelay.accesskey        "w">
 <!ENTITY secondsLabel.label               "sekund">
 <!ENTITY openMsgIn.label                  "Otwieraj wiadomości w:">
-<!ENTITY openMsgInNewTab.label            "w nowych kartach">
+<!ENTITY openMsgInNewTab.label            "nowych kartach">
 <!ENTITY openMsgInNewTab.accesskey        "k">
 <!ENTITY reuseExpRadio0.label             "nowych oknach wiadomości">
 <!ENTITY reuseExpRadio0.accesskey         "h">
