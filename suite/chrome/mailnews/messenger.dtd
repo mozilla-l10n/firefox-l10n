@@ -456,7 +456,7 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Relever">
-<!ENTITY newMsgButton.label "Rédiger">
+<!ENTITY newMsgButton.label "Écrire">
 <!ENTITY replyButton.label "Répondre">
 <!ENTITY replyAllButton.label " Rép. à tous">
 <!ENTITY forwardButton.label " Faire suivre">

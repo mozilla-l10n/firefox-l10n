@@ -316,7 +316,7 @@
 <!ENTITY blockImageCmd.accesskey      "g">
 <!ENTITY metadataCmd.label            "Propriétés">
 <!ENTITY metadataCmd.accesskey        "P">
-<!ENTITY copyEmailCmd.label           "Copier l'adresse e-mail">
+<!ENTITY copyEmailCmd.label           "Copier l'adresse électronique">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label          "Ce cadre">
 <!ENTITY thisFrameMenu.accesskey      "d">
@@ -427,7 +427,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY editBookmark.edit.label                     "Modifier…">
 <!ENTITY editBookmark.edit.accessKey                 "e">
 
-<!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit pas d'informations sur son identité.">
+<!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit aucune information sur son identité.">
 <!ENTITY identity.connectedTo "Vous vous trouvez sur">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.

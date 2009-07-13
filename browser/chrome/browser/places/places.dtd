@@ -21,9 +21,9 @@
 <!ENTITY view.sort.accesskey "T">
 <!ENTITY view.unsorted.label "Sans tri">
 <!ENTITY view.unsorted.accesskey "S">
-<!ENTITY view.sortAscending.label "Ordre de tri A > Z">
+<!ENTITY view.sortAscending.label "Ordre croissant (A > Z)">
 <!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Ordre de tri Z > A">
+<!ENTITY view.sortDescending.label "Ordre décroissant (Z > A)">
 <!ENTITY view.sortDescending.accesskey "Z">
 <!ENTITY help.usingBookmarks.label "Utiliser les marque-pages">
 <!ENTITY help.usingBookmarks.accesskey "U">
@@ -117,7 +117,7 @@
 
 <!ENTITY col.name.label "Nom">
 <!ENTITY col.tags.label "Étiquettes">
-<!ENTITY col.url.label "Emplacement">
+<!ENTITY col.url.label "Adresse">
 <!ENTITY col.lastvisit.label "Date de visite">
 <!ENTITY col.visitcount.label "Nombre de visites">
 <!ENTITY col.keyword.label "Mot-clé">

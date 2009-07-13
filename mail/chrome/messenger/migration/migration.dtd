@@ -25,7 +25,7 @@
 <!ENTITY migrating.label                "Les éléments suivants sont en cours d'importation…">
 
 <!ENTITY selectProfile.title            "Sélectionnez le profil">
-<!ENTITY selectProfile.label            "Les profils suivants sont disponibles comme source de l'importation :">
+<!ENTITY selectProfile.label            "Les profils suivants sont disponibles à l'importation :">
 
 <!ENTITY done.title                     "Importation terminée">
-<!ENTITY done.label                     "Les éléments suivants ont été correctement importés :">
+<!ENTITY done.label                     "Les éléments suivants ont été importés avec succès :">

@@ -38,9 +38,9 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label "Ajouter l'adresse au carnet d'adresses">
 <!ENTITY AddToAddressBook.accesskey "j">
-<!ENTITY SendMailTo.label "Rédiger un courrier à">
+  <!ENTITY SendMailTo.label "Écrire un courrier à">
 <!ENTITY SendMailTo.accesskey "R">
-<!ENTITY CopyEmailAddress.label "Copier l'adresse">
+<!ENTITY CopyEmailAddress.label "Copier l'adresse électronique">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Créer un filtre…">
 <!ENTITY CreateFilterFrom.accesskey "f">

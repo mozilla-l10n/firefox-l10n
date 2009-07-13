@@ -9,40 +9,42 @@
 <!ENTITY connectionFailure.title "La connexion a échoué">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Cette adresse est restreinte">
+<!ENTITY deniedPortAccess.title "Cette adresse est interdite">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serveur introuvable">
+<!ENTITY dnsNotFound.title "Adresse introuvable">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Vérifiez l'adresse pour des erreurs telles que
-    <strong>ww</strong>.exemple.com au lieu de
-    <strong>www</strong>.exemple.com</li>
-  <li>Si vous n'arrivez à charger aucune page, vérifiez la connexion au réseau de votre ordinateur.</li>
-  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que &brandShortName; est autorisé à accéder au Web.</li>
+  <li>Veuillez vérifier la syntaxe de l'adresse
+    (saisie de <strong>ww</strong>.exemple.com au lieu de
+    <strong>www</strong>.exemple.com par exemple)&nbsp;;</li>
+  <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
+    au réseau de votre ordinateur&nbsp;;</li>
+  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy,
+    assurez-vous que &brandShortName; a l'autorisation d'accéder au Web.</li>
 </ul>
 ">
 
 <!ENTITY fileNotFound.title "Fichier introuvable">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Vérifiez qu'il n'y a pas d'erreur de capitalisation ou d'autres erreurs typographiques.</li>
-  <li>Vérifiez si le fichier a été renommé, supprimé ou déplacé.</li>
+  <li>Vérifiez la syntaxe du nom de fichier (dont le respect des minuscules/majuscules)&nbsp;;</li>
+  <li>Vérifiez si le fichier n'a pas été déplacé, renommé ou supprimé.</li>
 </ul>
 ">
 
-<!ENTITY generic.title "Oups.">
+<!ENTITY generic.title "La requête ne peut aboutir">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; ne peut charger cette page pour une raison inconnue.</p>
+<p>Pour une raison inconnue, &brandShortName; ne peut pas charger cette page.</p>
 ">
 
 <!ENTITY malformedURI.title "L'adresse n'est pas valide">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Les adresses Web sont généralement de la forme
-    <strong>http://www.exemple.com/</strong></li>
-  <li>Assurez-vous d'utiliser des barres obliques (
-    « <strong>/</strong> »).</li>
+  <li>La syntaxe des adresses Web est généralement
+    <strong>http://www.exemple.com/</strong>&nbsp;;</li>
+  <li>Assurez-vous de bien utiliser des barres obliques (c.à.d.
+    <strong>/</strong>).</li>
 </ul>
 ">
 
@@ -52,7 +54,7 @@
 <!ENTITY netOffline.title "Mode hors connexion">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Mettez &brandShortName; en mode connecté et essayez à nouveau.</li>
+  <li>Décochez &quot;Travailler hors connexion&quot; dans le menu « Fichier » et essayez à nouveau.</li>
 </ul>
 ">
 
@@ -70,24 +72,25 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "LA connexion a été réinitialidée">
+<!ENTITY netReset.title "La connexion a été réinitialisée">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Le délai d'attente a été dépassé">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "L'adresse n'a pas été comprise">
+<!ENTITY protocolNotFound.title "L'adresse n'a pas été reconnue">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>Vous avez peut-être besoin d'installer un autre logiciel pour ouvrir cette adresse.</li>
+  <li>Il est peut-être nécessaire d'installer une autre appplication pour ouvrir ce type d'adresse.</li>
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Le serveur proxy refusent les connexions">
+<!ENTITY proxyConnectFailure.title "La connexion a été refusée par le serveur proxy">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Assurez-vous que les paramètres pour le proxy sont corrects.</li>
-  <li>Contactez votre administrateur réseau pour vous assurez que le serveur proxy fonctionne.</li>
+  <li>Vérifiez que les paramètres du proxy sont corrects&nbsp;;</li>
+  <li>Contactez votre administrateur réseau pour vous assurez que le serveur proxy
+    fonctionne.</li>
 </ul>
 ">
 
@@ -103,15 +106,17 @@
 <!ENTITY redirectLoop.title "La page n'est pas redirigée correctement">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Ce problème peut parfois être causé par la désactivation ou le refus des cookies.</li>
+  <li>La cause de ce problème peut être la désactivation ou le refus
+    des cookies.</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.title "Réponse inattendue du serveur">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Assurez-vous que le Gestionnaire de sécurité personnelle est installé sur votre système.</li>
-  <li>Ceci peut être dû à une configuration non-standard sur le serveur.</li>
+  <li>Vérifiez que le gestionnaire de sécurité personnelle (PSM) est installé sur
+    votre système.</li>
+  <li>Ceci peut être dû à une configuration inhabituelle du serveur.</li>
 </ul>
 ">
 
@@ -119,7 +124,8 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>La page que vous essayez de consulter ne peut pas être affichée car l'authenticité des données reçues ne peut être vérifiée.</li>
-  <li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li>
+  <li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.
+Vous pouvez également utiliser la commande dans le menu d'aide pour signaler un site non fonctionnel.</li>
 </ul>
 ">
 
@@ -127,15 +133,18 @@
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Ceci peut être dû à un problème de configuration du serveur ou à une personne essayant d'usurper l'identité du serveur.</li>
-  <li>Si vous vous êtes déjà connecté avec succès à ce serveur, l'erreur est peut-être temporaire et vous pouvez essayer à nouveau plus tard.</li>
+  <li>Si vous avez déjà pu vous connecter à ce serveur, l'erreur est peut-être temporaire et vous pouvez essayer à nouveau plus tard.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Le site est peut-être temporairement indisponible. Réessayez plus tard.</li>
-  <li>Si vous ne parvenez à charger aucune page, vérifiez la connexion au réseau de votre ordinateur.</li>
-  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que &brandShortName; est autorisé à accéder au Web.</li>
+  <li>Le site est peut-être temporairement indisponible ou surchargé. Réessayez plus
+    tard&nbsp;;</li>
+  <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
+    au réseau de votre ordinateur&nbsp;;</li>
+  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy,
+    assurez-vous que &brandShortName; est autorisé à accéder au Web.</li>
 </ul>
 ">
 

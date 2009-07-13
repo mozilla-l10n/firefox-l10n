@@ -37,7 +37,7 @@
 <!ENTITY  font.langGroup.hebrew                   "Hébreu">
 <!ENTITY  font.langGroup.arabic                   "Arabe">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.tamil                    "Tamoul">
 <!ENTITY  font.langGroup.armenian                 "Arménien">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
 <!ENTITY  font.langGroup.canadian                 "Syllabaire canadien unifié">
@@ -55,7 +55,7 @@
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
 <!ENTITY  useDocumentFonts.label                  "Autoriser les messages à utiliser d'autres polices">
 <!ENTITY  useDocumentFonts.accesskey              "A">
@@ -63,7 +63,7 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label                 "Courrier sortant :">
 <!ENTITY sendDefaultCharset.accesskey             "u">
-<!ENTITY languagesTitle1.label                    "Encodages des caractères">
+<!ENTITY languagesTitle1.label                    "Encodage des caractères">
 <!ENTITY composingDescription.label               "Réglage de l'encodage de caractères par défaut pour l'envoi et la réception de courrier">
 
 <!ENTITY viewDefaultCharsetList.label             "Courrier entrant :">

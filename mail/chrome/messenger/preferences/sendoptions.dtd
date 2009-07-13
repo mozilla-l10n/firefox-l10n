@@ -5,11 +5,11 @@
 <!ENTITY askMe.accesskey              "a">
 <!ENTITY convertPlain.label           "Convertir au format texte simple">
 <!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Envoyer au format HTML quand même">
+<!ENTITY sendHTML.label               "Envoyer au format HTML tout de même">
 <!ENTITY sendHTML.accesskey           "a">
 <!ENTITY sendBoth.label               "Envoyer aux formats texte et HTML">
 <!ENTITY sendBoth.accesskey           "E">
-<!ENTITY override.label               "Vous pourvez utiliser le carnet d'adresses pour préciser le format de texte préféré pour chaque destinataire.">
+<!ENTITY override.label               "Vous pouvez utiliser le carnet d'adresses pour préciser le format de texte préféré pour chaque destinataire.">
 
 <!ENTITY domaindesc.label             "Lors de l'envoi d'un message vers une adresse appartenant à un domaine listé ci-dessous, &brandShortName; envoie automatiquement le message dans le bon format.">
 <!ENTITY HTMLTab.label                "Domaines HTML">

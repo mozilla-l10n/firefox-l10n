@@ -21,17 +21,17 @@
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Déplacer le message vers">
-<!ENTITY copyMessage.label "Copier le message dans">
+<!ENTITY copyMessage.label "Copier le message vers">
 <!ENTITY forwardTo.label "Transférer le message à">
 <!ENTITY replyWithTemplate.label "Répondre avec le modèle">
 <!ENTITY markMessageRead.label "Marquer comme lu">
-<!ENTITY markMessageStarred.label "Ajouter un suivi">
+<!ENTITY markMessageStarred.label "Suivre ce message">
 <!ENTITY setPriority.label "Définir la priorité à">
 <!ENTITY addTag.label "Étiqueter le message">
 <!ENTITY setJunkScore.label "Définir le statut indésirable à">
 <!ENTITY deleteMessage.label "Supprimer le message">
 <!ENTITY deleteFromPOP.label "Supprimer du serveur POP">
-<!ENTITY fetchFromPOP.label "Rapatrier du serveur POP">
+<!ENTITY fetchFromPOP.label "Télécharger depuis le serveur POP">
 <!ENTITY ignoreThread.label "Ignorer la discussion">
 <!ENTITY ignoreSubthread.label "Ignorer la discussion fille">
 <!ENTITY watchThread.label "Surveiller la discussion">

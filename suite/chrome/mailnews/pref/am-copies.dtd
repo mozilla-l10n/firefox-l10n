@@ -7,7 +7,7 @@
 <!ENTITY fccReplyFollowsParent.label "Placer les réponses dans le dossier du message auquel il a été répondu">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Cci à ces adresses :">
+<!ENTITY bccAddress.label "Copie cachée à ces adresses :">
 <!ENTITY bccAddress.accesskey "C">
 <!ENTITY saveMessageDlg.label "Demander une confirmation quand les messages sont enregistrés">
 <!ENTITY saveMessageDlg.accesskey "m">

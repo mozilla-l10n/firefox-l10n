@@ -83,7 +83,7 @@
 
 <!ENTITY noResults.label "Pas de résultat">
 
-<!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit pas d'information sur son identité.">
+<!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit aucune information sur son identité.">
 <!ENTITY identity.connectedTo2 "Connexion à">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with

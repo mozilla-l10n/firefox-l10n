@@ -110,7 +110,7 @@
 <!ENTITY newlistButton.accesskey "l">
 <!ENTITY editItemButton.label "Propriétés">
 <!ENTITY editItemButton.accesskey "P">
-<!ENTITY newmsgButton.label "Rédiger">
+<!ENTITY newmsgButton.label "Écrire">
 <!ENTITY newmsgButton.accesskey "d">
 <!ENTITY deleteItemButton.label "Supprimer">
 <!ENTITY deleteItemButton.accesskey "r">
@@ -123,7 +123,7 @@
 <!ENTITY newContactButton.tooltip "Créer un nouveau contact">
 <!ENTITY newlistButton.tooltip "Créer une nouvelle liste de diffusion">
 <!ENTITY editItemButton.tooltip "Modifier l'élément sélectionné">
-<!ENTITY newmsgButton.tooltip "Rédiger un courrier à la sélection">
+<!ENTITY newmsgButton.tooltip          "Écrire un courrier à la sélection">
 <!ENTITY newIM.tooltip "Envoyer un message instantané ou initier un chat">
 <!ENTITY deleteItemButton.tooltip "Supprimer l'élément sélectionné">
 <!ENTITY throbber.tooltip "Visiter le site Web de &vendorShortName;">

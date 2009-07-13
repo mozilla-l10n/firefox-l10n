@@ -85,7 +85,7 @@
 <!ENTITY  linkTarget            "Cible">
 <!ENTITY  linkAccessKey         "Mnémonique">
 
-<!ENTITY  mediaTab              "Média">
+<!ENTITY  mediaTab              "Médias">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "Adresse (URL) :">
 <!ENTITY  mediaAlt              "Texte alternatif :">
