@@ -1,13 +1,13 @@
 <!ENTITY aboutDialog.title "О &brandFullName;">
-<!ENTITY copyright "Участники проекта">
-<!ENTITY copyright.accesskey "ч">
-<!ENTITY copyrightGNOME.accesskey "а">
+<!ENTITY copyright "Авторы">
+<!ENTITY copyright.accesskey "в">
+<!ENTITY copyrightGNOME.accesskey "р">
 <!ENTITY aboutLink "&lt; О &brandFullName;">
 <!ENTITY aboutLink.accesskey "О">
 <!ENTITY aboutVersion "версия">
 <!ENTITY closeCmdGNOME.label "Закрыть">
 <!ENTITY closeCmdGNOME.accesskey "к">
-<!ENTITY copyrightInfo1 "©1998–2009 Участники проекта. Все права защищены. (">
+<!ENTITY copyrightInfo1 "©1998–2009 Участники. Все права защищены. (">
 <!ENTITY licenseLink "about:license">
 <!ENTITY licenseLinkText "Информация о лицензии">
 <!ENTITY copyrightInfo2 ").">
