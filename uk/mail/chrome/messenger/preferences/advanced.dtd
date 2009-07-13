@@ -39,6 +39,8 @@
 <!ENTITY markAsReadDelay.accesskey     "Я">
 <!ENTITY secondsLabel.label            "секунд">
 <!ENTITY openMsgIn.label               "Відкривати листи у:">
+<!ENTITY openMsgInNewTab.label         "Новій вкладці">
+<!ENTITY openMsgInNewTab.accesskey     "в">
 <!ENTITY reuseExpRadio0.label          "новому вікні">
 <!ENTITY reuseExpRadio0.accesskey      "н">
 <!ENTITY reuseExpRadio1.label          "вже існуючому вікні">

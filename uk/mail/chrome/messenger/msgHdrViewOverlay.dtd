@@ -71,9 +71,6 @@
 <!ENTITY viewSourceMenuItem.label "глянути джерело…">
 <!ENTITY viewSourceMenuItem.accesskey "д">
 
-<!ENTITY hideDetailsButton.label "приховати подробиці">
-<!ENTITY showDetailsButton.label "показати подробиці">
-
 <!ENTITY openAttachmentCmd.label    "Відкрити">
 <!ENTITY openAttachmentCmd.accesskey    "В">
 <!ENTITY saveAsAttachmentCmd.label    "Зберегти як…">

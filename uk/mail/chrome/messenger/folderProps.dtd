@@ -62,10 +62,10 @@
 <!ENTITY retentionDeleteMsg.accesskey "л">
 <!ENTITY retentionKeepAll.label "Не вилучати повідомлення">
 <!ENTITY retentionKeepAll.accesskey "Н">
-<!ENTITY retentionKeepNew.label "Вилучати всі, окрім останніх">
-<!ENTITY retentionKeepNew.accesskey "и">
-<!ENTITY retentionKeepUnread.label "Завжди вилучати прочитані повідомлення">
-<!ENTITY retentionKeepUnread.accesskey "а">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
 <!ENTITY retentionApplyToFlagged.accesskey "з">
 

@@ -19,14 +19,14 @@
 <!ENTITY retentionKeepMsg.accesskey "д">
 <!ENTITY retentionKeepAll.label "Не вилучати повідомлень">
 <!ENTITY retentionKeepAll.accesskey "Н">
-<!ENTITY retentionKeepNew.label "Вилучати всі, крім останніх">
-<!ENTITY retentionKeepNew.accesskey "л">
-<!ENTITY retentionKeepUnread.label "Вилучати прочитані листи">
-<!ENTITY retentionKeepUnread.accesskey "р">
+<!ENTITY retentionKeepRecent.label "Вилучати всі, крім останніх">
+<!ENTITY retentionKeepRecent.accesskey "k">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Завжди вилучати прочитані повідомлення (перекриває настройку давньості)">
 <!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
 <!ENTITY retentionApplyToFlagged.accesskey "з">
-<!ENTITY nntpRemoveBody.label "Лише повідомлення менше">
-<!ENTITY nntpRemoveBody.accesskey "Л">
+<!ENTITY nntpRemoveMsgBody.label "Вилучати тіла повідомлень більші за">
+<!ENTITY nntpRemoveMsgBody.accesskey "б">
 <!ENTITY offlineSelectNntp.label "Виберіть групи новин для роботи в автономному режимі…">
 <!ENTITY offlineSelectNntp.accesskey "В">
 <!ENTITY offlineImapAdvancedOffline.label "Додатково…">
