@@ -3,18 +3,14 @@
 
 <!ENTITY recipient.label "Деякі з адресатів не можуть одержувати листа у форматі HTML.">
 
-
 <!ENTITY question.label "Перетворити повідомлення в текстове або відіслати в HTML?">
 
 <!ENTITY plainTextAndHtml.label "Відіслати в текстовому форматі і в HTML">
+<!ENTITY plainTextAndHtml.accesskey "і">
 <!ENTITY plainTextOnly.label "Відіслати тільки в текстовому форматі">
+<!ENTITY plainTextOnly.accesskey "т">
 <!ENTITY htmlOnly.label "Відіслати тільки в HTML">
-
+<!ENTITY htmlOnly.accesskey "л">
 
 <!ENTITY send.label "Відіслати">
-
-<!-- FIXME: localize -->
-<!ENTITY htmlOnly.accesskey "л">
-<!ENTITY plainTextAndHtml.accesskey "і">
-<!ENTITY plainTextOnly.accesskey "т">
 <!ENTITY send.accesskey "В">
