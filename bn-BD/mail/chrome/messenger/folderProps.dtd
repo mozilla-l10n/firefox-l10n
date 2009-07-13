@@ -40,44 +40,44 @@
 
 <!ENTITY folderProps.windowtitle.label "বৈশিষ্ট্য">
 
-<!ENTITY generalInfo.label "সাধারন তথ্য">
-<!ENTITY folderCharsetTab.label "ডিফল্ট ক্যারেক্টার এনকোডিং (E):">
+<!ENTITY generalInfo.label "সাধারণ তথ্য">
+<!ENTITY folderCharsetTab.label "ডিফল্ট অক্ষর এনকোডিং (E):">
 <!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "ফোল্ডারের সকল বার্তায় ডিফল্ট কার্যকর করুন (পৃথক বার্তা ক্যারেক্টার এনকোডিং সেটিং এবং স্বয়ংক্রিয়-সনাক্তকরন উপেক্ষা করা হবে) (A)">
+<!ENTITY folderCharsetOverride.label "ফোল্ডারের সকল বার্তায় ডিফল্ট প্রয়োগ করুন (পৃথক বার্তার অক্ষর এনকোডিং সেটিং এবং স্বয়ংক্রিয়-সনাক্তকরণ উপেক্ষা করা হবে) (A)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "সূচী নতুন করে তৈরি করুন (R)">
+<!ENTITY folderRebuildSummaryFile.label "সূচী পুনরায় তৈরি করা হবে (R)">
 <!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "সারসংক্ষেপ ফাইল নতুন করে তৈরি করুন">
+<!ENTITY folderRebuildSummaryFileTip.label "সারসংক্ষেপ ফাইল পুনরায় তৈরি করা হবে">
      
-<!ENTITY retention.label "ধানর নীতিমালা">
-<!ENTITY retentionUseDefault.label "সার্ভার ডিফল্ট ব্যবহার করুন (d)">
+<!ENTITY retention.label "ধারণ নীতিমালা">
+<!ENTITY retentionUseDefault.label "সার্ভারের ডিফল্ট ব্যবহার করা হবে (d)">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY daysOld.label "দিন পুরনো">
+<!ENTITY daysOld.label "যত দিনের পুরনো">
 <!ENTITY message.label "বার্তা">
-<!ENTITY retentionCleanup.label "ডিস্কের জায়গা ফিরে পেতে, পুরনো বার্তা স্থায়ীভাবে মুছে দেয়া যেতে পারে।">
-<!ENTITY retentionCleanupImap.label "ডিস্কের জায়গা ফিরে পেতে, পুরনো বার্তা স্থায়ীভাবে মুছে দেয়া যেতে পারে, স্থানীয় কপি এবং দূরবর্তী সার্ভারে রাখা আসল কপি-দুটোই।">
-<!ENTITY retentionCleanupPop.label "ডিস্কের জায়গা ফিরে পেতে, পুরনো বার্তা স্থায়ীভাবে মুছে দেয়া যেতে পারে, দূরবর্তী সার্ভারে রাখা আসল কপিসহ।">
-<!ENTITY retentionDeleteMsg.label "এর অধিক বার্তা মুছে ফেলা হবে (m)">
+<!ENTITY retentionCleanup.label "ডিস্কের জায়গা পুনরুদ্ধার করতে, পুরনো বার্তা স্থায়ীভাবে মুছে ফেলা যেতে পারে।">
+<!ENTITY retentionCleanupImap.label "ডিস্কের জায়গা পুনরুদ্ধার করতে, পুরনো বার্তা স্থায়ীভাবে মুছে ফেলা হতে পারে, দূরবর্তী সার্ভারের স্থানীয় অনুলিপি এবং মূল বার্তা উভয়ই।">
+<!ENTITY retentionCleanupPop.label "ডিস্কের জায়গা পুনরুদ্ধার করতে, দূরবর্তী সার্ভারের মূল বার্তা সহ পুরনো বার্তা স্থায়ীভাবে মুছে ফেলা হতে পারে।">
+<!ENTITY retentionDeleteMsg.label "অপেক্ষাকৃত বেশী বার্তাসমূহ মুছে ফেলা হবে, (m)">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "কোনো বার্তা মোছা হবে না (a)">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "সর্বশেষ ব্যতীত সব মুছে ফেলা হবে (l)">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "পড়া বার্তা সর্বদা মুছে ফেলা হবে (r)">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY retentionApplyToFlagged.label "তারকাকৃত বার্তা সর্বদা রাখা হবে (e)">
+<!ENTITY retentionKeepRecent.label "সব মুছে ফেলা হবে, তবে শুধুমাত্র খুবই সাম্প্রতিক বার্তাসমূহ (l)">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "সর্বদা পঠিত বার্তা মুছে ফেলুন (বয়স সেটিং উপরিপাতন করে)">
+<!ENTITY retentionApplyToFlagged.label "সর্বদা তারা চিহ্নিত বার্তা বজায় রাখা হবে (e)">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label "Synchronization">
-<!ENTITY folderCheckForNewMessages.label "পরীক্ষা করা হবে যে এই ফোল্ডারে নতুন বার্তা আছে কিনা (C)">
+<!ENTITY folderSynchronizationTab.label "সমকালীন">
+<!ENTITY folderCheckForNewMessages.label "নতুন বার্তার জন্য এই ফোল্ডারটি পরীক্ষা করা হবে (C)">
 <!ENTITY folderCheckForNewMessages.accesskey "C">
 
-<!ENTITY offlineFolder.check.label "অফলাইনে ব্যবহারের জন্য এই ফোল্ডার নির্বাচন করুন (S)">
+<!ENTITY offlineFolder.check.label "অফলাইনে ব্যবহারের জন্য এই ফোল্ডারটি নির্বাচন করা হবে (S)">
 <!ENTITY offlineFolder.check.accesskey "S">
 <!ENTITY offlineFolder.button.label "এখন ডাউনলোড করা হবে (D)">
 <!ENTITY offlineFolder.button.accesskey "D">
 
-<!ENTITY selectofflineNewsgroup.check.label "অফলাইনে ব্যবহারের জন্য এই নিউজগ্রুপ নির্বাচন করুন (o)">
+<!ENTITY selectofflineNewsgroup.check.label "অফলাইনে ব্যবহারের জন্য এই নিউজগ্রুপ নির্বাচন করা হবে (o)">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
 <!ENTITY offlineNewsgroup.button.label "এখন ডাউনলোড করা হবে (D)">
 <!ENTITY offlineNewsgroup.button.accesskey "D">
@@ -87,13 +87,13 @@
 <!ENTITY folderProps.location.label "অবস্থান (L):">
 <!ENTITY folderProps.location.accesskey "L">
 
-<!ENTITY folderSharingTab.label "অংশীদারী">
-<!ENTITY privileges.button.label "সুবিধা... (P)">
+<!ENTITY folderSharingTab.label "শেয়ারকরণ">
+<!ENTITY privileges.button.label "বিশেষাধিকার... (P)">
 <!ENTITY privileges.button.accesskey "P">
-<!ENTITY permissionsDesc.label "আপনার নিম্নবর্তী অনুমতি আছে:">
+<!ENTITY permissionsDesc.label "আপনার নিম্নোক্ত অনুমতি রয়েছে:">
 <!ENTITY folderType.label "ফোল্ডারের ধরন:">
 
-<!ENTITY folderQuotaTab.label "কোটা">
-<!ENTITY folderQuotaRoot.label "কোটা রুট:">
+<!ENTITY folderQuotaTab.label "নির্দিষ্ট">
+<!ENTITY folderQuotaRoot.label "নির্দিষ্ট রূট:">
 <!ENTITY folderQuotaUsage.label "ব্যবহার:">
-<!ENTITY folderQuotaStatus.label "স্ট্যাটাস:">
+<!ENTITY folderQuotaStatus.label "অবস্থা:">

@@ -1,7 +1,7 @@
 <!ENTITY editContactName.label "নাম (N):">
 <!ENTITY editContactName.accesskey "N">
 
-<!ENTITY editContactEmail.label "ইমেইল (E):">
+<!ENTITY editContactEmail.label "ই-মেইল (E):">
 <!ENTITY editContactEmail.accesskey "E">
 
 <!ENTITY editContactPanelCancel.label "বাতিল (C)">

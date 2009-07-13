@@ -35,6 +35,6 @@
 
  ***** END LICENSE BLOCK ***** -->
 <!ENTITY nameColumn.label "নাম">
-<!ENTITY unreadColumn.label "পড়া হয়নি">
+<!ENTITY unreadColumn.label "অপঠিত">
 <!ENTITY totalColumn.label "মোট">
 <!ENTITY folderSizeColumn.label "আকার">

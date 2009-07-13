@@ -7,34 +7,34 @@
 <!ENTITY newMenu.label "নতুন (N)">
 <!ENTITY newMenu.accesskey "N">
 
-<!ENTITY editMenu.label "সম্পাদনা করুন (E)">
+<!ENTITY editMenu.label "সম্পাদনা (E)">
 <!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "পূর্বাবস্থায় ফিরিয়ে আনুন (U)">
+<!ENTITY undoCmd.label "পূর্বাবস্থায় ফিরিয়ে আনা (U)">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "পুনরায় করুন (R)">
+<!ENTITY redoCmd.label "পুনরায় করা (R)">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "কাট (t)">
+<!ENTITY cutCmd.label "কাটা (t)">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "কপি (C)">
+<!ENTITY copyCmd.label "অনুলিপি (C)">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "পেস্ট (P)">
+<!ENTITY pasteCmd.label "প্রতিলেপন (P)">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "ডিলিট (D)">
+<!ENTITY deleteCmd.label "মুছে ফেলা (D)">
 <!ENTITY deleteCmd.accesskey "d">
-<!ENTITY selectAllCmd.label "সকল নির্বাচন করুন (A)">
+<!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "পছন্দসমূহ… (O)">
+<!ENTITY preferencesCmd.label "অপশন… (O)">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY viewMenu.label "প্রদর্শন (V)">
+<!ENTITY viewMenu.label "ভিউ (V)">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "টুলবার (T)">
 <!ENTITY viewToolbarsMenu.accesskey "T">
@@ -44,7 +44,7 @@
 <!ENTITY proxy.label "প্রক্সি কনফিগারেশন… (C)">
 <!ENTITY proxy.accesskey "C">
 
-<!ENTITY closeCmd.label "বন্ধ করুন (C)">
+<!ENTITY closeCmd.label "বন্ধ (C)">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
 
@@ -52,8 +52,8 @@
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "x">
 
-<!ENTITY quitApplicationCmdUnix.label "বন্ধ করুন (Q)">
+<!ENTITY quitApplicationCmdUnix.label "ত্যাগ (Q)">
 <!ENTITY quitApplicationCmdUnix.accesskey "q">
 
-<!ENTITY quitApplicationCmdMac.label "&brandShortName; বন্ধ করুন (Q)">
-<!ENTITY quitApplicationCmdMac.accesskey "q">
+<!ENTITY quitApplicationCmdMac.label "brandShortName ত্যাগ (Q);">
+<!ENTITY quitApplicationCmdMac.accesskey "b">

@@ -1,19 +1,19 @@
 <!-- Feed Properties Dialog -->
 <!ENTITY window.title "ফিড বৈশিষ্ট্য">
 
-<!ENTITY feedFolder.label "নিবন্ধ এখানে স্টোর করুন (S): ">
+<!ENTITY feedFolder.label "নিবন্ধ এখানে জমা করা হবে (S):">
 <!ENTITY feedFolder.accesskey "S">
 
-<!ENTITY feedLocation.label "ফিড URL (F): ">
+<!ENTITY feedLocation.label "ফিড URL (F):">
 <!ENTITY feedLocation.accesskey "F">
 
-<!ENTITY choosethisfolder.label "এই ফোল্ডার নির্বাচন করুন">
+<!ENTITY choosethisfolder.label "এই ফোল্ডারটি বেছে নেয়া হবে">
 
 <!ENTITY quickMode.label "ওয়েবপেজ লোড করার পরিবর্তে নিবন্ধের সারসংক্ষেপ দেখানো হবে (h)">
 <!ENTITY quickMode.accesskey "h">
 
-<!ENTITY copyLinkCmd.label "লিঙ্কের অবস্থান কপি করা হবে (C)">
+<!ENTITY copyLinkCmd.label "সংযোগের অবস্থান অনুলিপি করা হবে (C)">
 <!ENTITY copyLinkCmd.accesskey "C">
 
-<!ENTITY pasteLinkCmd.label "পেস্ট (P)">
+<!ENTITY pasteLinkCmd.label "প্রতিলেপন (P)">
 <!ENTITY pasteLinkCmd.accesskey "P">

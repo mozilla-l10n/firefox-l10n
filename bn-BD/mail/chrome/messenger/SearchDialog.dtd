@@ -1,34 +1,34 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "এখানে বার্তা জন্য অনুসন্ধান করা হবে (h):">
+<!ENTITY searchHeading.label "যেখানে বার্তা খোঁজা হবে (h):">
 <!ENTITY searchHeading.accesskey "h">
-<!ENTITY searchSubfolders.label "উপফোল্ডার অনুসন্ধান করা হবে (e)">
+<!ENTITY searchSubfolders.label "সাবফোল্ডার খোঁজা হবে (e)">
 <!ENTITY searchSubfolders.accesskey "e">
-<!ENTITY resetButton.label "পরিষ্কার করুন (C)">
+<!ENTITY resetButton.label "পরিষ্কার করা হবে (C)">
 <!ENTITY resetButton.accesskey "C">
-<!ENTITY openButton.label "খুলুন (n)">
+<!ENTITY openButton.label "খোলা হবে (n)">
 <!ENTITY openButton.accesskey "n">
-<!ENTITY deleteButton.label "মুছে ফেলুন (D)">
+<!ENTITY deleteButton.label "মুছে ফেলা হবে (D)">
 <!ENTITY deleteButton.accesskey "D">
-<!ENTITY searchDialogTitle.label "বার্তা অনুসন্ধান করুন">
+<!ENTITY searchDialogTitle.label "বার্তা অনুসন্ধান করা হবে">
 <!ENTITY results.label "ফলাফল">
 <!ENTITY fileHereMenu.label "এখানে ফাইল (F)">
 <!ENTITY fileHereMenu.accesskey "F">
 <!ENTITY fileButton.label "ফাইল (i)">
 <!ENTITY fileButton.accesskey "i">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "বার্তার ফোল্ডার খুলুন (r)">
+<!ENTITY goToFolderButton.label "বার্তার ফোল্ডার খোলা হবে (r)">
 <!ENTITY goToFolderButton.accesskey "r">
-<!ENTITY saveAsVFButton.label "অনুসন্ধান ফোল্ডার হিসেবে সংরক্ষন করুন (v)">
+<!ENTITY saveAsVFButton.label "অনুসন্ধান ফোল্ডার হিসেবে সংরক্ষণ করা হবে (v)">
 <!ENTITY saveAsVFButton.accesskey "v">
 <!-- for ABSearchDialog.xul -->
 
-<!ENTITY abSearchHeading.label "এখানে অনুসন্ধান করুন (h):">
+<!ENTITY abSearchHeading.label "খোঁজা হবে (h):">
 <!ENTITY abSearchHeading.accesskey "h">
 <!ENTITY propertiesButton.label "বৈশিষ্ট্য (P)">
 <!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "লিখুন (W)">
+<!ENTITY composeButton.label "লেখা হবে (W)">
 <!ENTITY composeButton.accesskey "W">
-<!ENTITY abSearchDialogTitle.label "উন্নত ঠিকানার বই অনুসন্ধান">
+<!ENTITY abSearchDialogTitle.label "উন্নত ঠিকানার বই অনুসন্ধান করা হবে">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "থ্রেড">
@@ -38,35 +38,35 @@
 <!ENTITY dateColumn.label "তারিখ">
 <!ENTITY priorityColumn.label "অগ্রাধিকার">
 <!ENTITY tagsColumn.label "ট্যাগ">
-<!ENTITY accountColumn.label "অ্যাকাউন্ট">
-<!ENTITY statusColumn.label "স্ট্যাটাস">
+<!ENTITY accountColumn.label "একাউন্ট">
+<!ENTITY statusColumn.label "অবস্থা">
 <!ENTITY sizeColumn.label "আকার">
-<!ENTITY junkStatusColumn.label "জাঙ্ক স্ট্যাটাস">
-<!ENTITY unreadColumn.label "পড়া হয়নি">
+<!ENTITY junkStatusColumn.label "জাঙ্ক অবস্থা">
+<!ENTITY unreadColumn.label "অপঠিত">
 <!ENTITY totalColumn.label "মোট">
-<!ENTITY readColumn.label "পড়া হয়েছে">
+<!ENTITY readColumn.label "পড়ুন">
 <!ENTITY receivedColumn.label "গৃহীত">
-<!ENTITY starredColumn.label "তারকাকৃত">
+<!ENTITY starredColumn.label "তারা চিহ্নিত">
 <!ENTITY locationColumn.label "অবস্থান">
-<!ENTITY idColumn.label "যে ক্রম অনুযায়ী গ্রহন করা হয়েছে">
+<!ENTITY idColumn.label "গ্রহণ করার ক্রম">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "প্রদর্শনের জন্য কলাম নির্বাচন করতে ক্লিক করুন">
-<!ENTITY threadColumn.tooltip "বার্তার থ্রড প্রদর্শনের জন্য ক্লিক করুন">
-<!ENTITY fromColumn.tooltip "প্রেরক অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY recipientColumn.tooltip "প্রাপক অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY subjectColumn.tooltip "বিষয় অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY dateColumn.tooltip "তারিখ অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY priorityColumn.tooltip "অগ্রাধিকার অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY tagsColumn.tooltip "ট্যাগ অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY accountColumn.tooltip "অ্যাকাউন্ট অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY statusColumn.tooltip "স্ট্যাটাস অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY sizeColumn.tooltip "আকার অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY junkStatusColumn.tooltip "জাঙ্ক স্ট্যাটাস অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY unreadColumn.tooltip "থ্রেডের না পড়া বার্তার সংখ্যা">
-<!ENTITY totalColumn.tooltip "থ্রেডে মোট বার্তার সংখ্যা">
-<!ENTITY readColumn.tooltip "পড়া হয়েছে অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY receivedColumn.tooltip "গ্রহনের তারিখ অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY starredColumn.tooltip "তারকা অনুসারে সাজানোর জন্য ক্লিক করুন">
+<!ENTITY threadColumn.tooltip "বার্তার থ্রেড প্রদর্শন করতে ক্লিক করুন">
+<!ENTITY fromColumn.tooltip "প্রেরক অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY recipientColumn.tooltip "প্রাপক অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY subjectColumn.tooltip "বিষয় অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY dateColumn.tooltip "তারিখ অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY priorityColumn.tooltip "অগ্রাধিকার অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY tagsColumn.tooltip "ট্যাগ অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY accountColumn.tooltip "একাউন্ট অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY statusColumn.tooltip "অবস্থা অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY sizeColumn.tooltip "আকার অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY junkStatusColumn.tooltip "জাঙ্ক অবস্থা অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY unreadColumn.tooltip "থ্রেডের অপঠিত বার্তা সংখ্যা">
+<!ENTITY totalColumn.tooltip "থ্রেডের মোট বার্তা সংখ্যা">
+<!ENTITY readColumn.tooltip "পঠন অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY receivedColumn.tooltip "গৃহীত তারিখ অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY starredColumn.tooltip "তারা অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY locationColumn.tooltip "অবস্থান অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY idColumn.tooltip "গ্রহনের ক্রম অনুসারে সাজানোর জন্য ক্লিক করুন">
+<!ENTITY idColumn.tooltip "গ্রহণের ক্রম অনুসারে সাজানোর জন্য ক্লিক করুন">

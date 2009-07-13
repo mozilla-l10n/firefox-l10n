@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY newfolderchoosethis.label "অভিভাবকের জন্য এই ফোল্ডার নির্বাচন করুন">
-<!ENTITY filemessageschoosethis.label "এই ফোল্ডার নির্বাচন করুন">
+<!ENTITY newfolderchoosethis.label "প্যারেন্টের জন্য এই ফোল্ডার নির্বাচন করা হবে">
+<!ENTITY filemessageschoosethis.label "এই ফোল্ডার নির্বাচন করা হবে">

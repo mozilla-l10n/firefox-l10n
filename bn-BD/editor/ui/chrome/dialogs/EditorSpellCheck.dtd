@@ -38,20 +38,20 @@
 
 <!ENTITY windowTitle.label "বানান পরীক্ষা করুন">
 
-<!ENTITY misspelledWord.label "বানান ভুলের শব্দ:">
+<!ENTITY misspelledWord.label "ভুল বানানের শব্দ:">
 <!ENTITY wordEditField.label "এটি দ্বারা প্রতিস্থাপন করা হবে (w):">
 <!ENTITY wordEditField.accessKey "w">
 <!ENTITY checkwordButton.label "শব্দ পরীক্ষা করুন (k)">
 <!ENTITY checkwordButton.accessKey "k">
-<!ENTITY suggestions.label "উপদেশ (u):">
+<!ENTITY suggestions.label "পরামর্শ (u):">
 <!ENTITY suggestions.accessKey "u">
 <!ENTITY ignoreButton.label "উপেক্ষা করা হবে (I)">
 <!ENTITY ignoreButton.accessKey "I">
-<!ENTITY ignoreAllButton.label "সকল উপেক্ষা করা হবে (n)">
+<!ENTITY ignoreAllButton.label "সব উপেক্ষা করা হবে (n)">
 <!ENTITY ignoreAllButton.accessKey "n">
 <!ENTITY replaceButton.label "প্রতিস্থাপন করুন (R)">
 <!ENTITY replaceButton.accessKey "R">
-<!ENTITY replaceAllButton.label "সকল প্রতিস্থাপন করুন (A)">
+<!ENTITY replaceAllButton.label "সব প্রতিস্থাপন করুন (A)">
 <!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "থামুন (t)">
 <!ENTITY stopButton.accessKey "t">

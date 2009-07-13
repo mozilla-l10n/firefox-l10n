@@ -3,5 +3,5 @@
 <!ENTITY newMessageCmd.label "বার্তা (M)">
 <!ENTITY newMessageCmd.accesskey "m">
  
-<!ENTITY newContactCmd.label "ঠিকানার বই এবং পরিচিত... (C)">
+<!ENTITY newContactCmd.label "ঠিকানার বইয়ের এবং পরিচিতি... (C)">
 <!ENTITY newContactCmd.accesskey "C">

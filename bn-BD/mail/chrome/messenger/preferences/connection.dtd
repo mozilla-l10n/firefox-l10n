@@ -1,18 +1,18 @@
-<!ENTITY connectionsDialog.title "সংযোগ সংক্রান্ত বৈশিষ্ট্যাবলী">
-<!ENTITY window.width "37em">
+<!ENTITY connectionsDialog.title "সংযোগ সেটিং">
+<!ENTITY window.width "৩৭এম">
 
-<!ENTITY proxyTitle.label "ইন্টারনেট ব্যবহারের জন্য প্রক্সির বৈশিষ্ট্য নির্ধারণ করুন">
+<!ENTITY proxyTitle.label "ইন্টারনেট ব্যবহারের জন্য প্রক্সি কনফিগার করা হবে">
 <!ENTITY noProxyTypeRadio.label "প্রক্সি অনুপস্থিত (y)">
 <!ENTITY noProxyTypeRadio.accesskey "y">
-<!ENTITY systemTypeRadio.label "সিস্টেম প্রক্সির বৈশিষ্ট্য ব্যবহার করুন (U)">
+<!ENTITY systemTypeRadio.label "সিস্টেমের প্রক্সি সেটিং ব্যবহার করা হবে (U)">
 <!ENTITY systemTypeRadio.accesskey "u">
-<!ENTITY WPADTypeRadio.label "চিহ্নিত নেটওয়ার্কের প্রক্সির বৈশিষ্ট্য স্বয়ংক্রিয়ভাবে সনাক্ত করা হবে (w)">
+<!ENTITY WPADTypeRadio.label "এই নেটওয়ার্কের জন্য প্রক্সি সেটিং স্বয়ংক্রিয়ভাবে-সনাক্ত করা হবে (w)">
 <!ENTITY WPADTypeRadio.accesskey "w">
-<!ENTITY manualTypeRadio.label "ব্যবহারকারী দ্বারা প্রক্সি কনফিগারেশন (M)">
+<!ENTITY manualTypeRadio.label "স্বনির্ধারিত প্রক্সি কনফিগারেশন (M)">
 <!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "স্বয়ংক্রিয়ভাবে প্রক্সি কনফিগার করার URL (A):">
+<!ENTITY autoTypeRadio.label "স্বয়ংক্রিয় প্রক্সি কনফিগারেশন URL (A):">
 <!ENTITY autoTypeRadio.accesskey "A">
-<!ENTITY reload.label "পুনরায় লোড (l)">
+<!ENTITY reload.label "পুনরায় লোড করা হবে (l)">
 <!ENTITY reload.accesskey "l">
 <!ENTITY http.label "HTTP প্রক্সি (H):">
 <!ENTITY http.accesskey "h">
@@ -22,7 +22,7 @@
 <!ENTITY socks.accesskey "c">
 <!ENTITY socks4.label "SOCKS v4 (K)">
 <!ENTITY socks4.accesskey "k">
-<!ENTITY socks5.label "SOCKS v5 ( v)">
+<!ENTITY socks5.label "SOCKS v5 (v)">
 <!ENTITY socks5.accesskey "v">
 <!ENTITY HTTPport.label "পোর্ট (P):">
 <!ENTITY HTTPport.accesskey "p">
@@ -30,8 +30,8 @@
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY SOCKSport.label "পোর্ট (t):">
 <!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "কোনো প্রক্সি উপস্থিত নেই (N):">
+<!ENTITY noproxy.label "কোনো প্রক্সি নেই (N):">
 <!ENTITY noproxy.accesskey "n">
-<!ENTITY noproxyExplain.label "উদাহরণ: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "সর্বধরনের প্রোটোকলের জন্য একই প্রক্সি ব্যবহার করা হবে (x)">
+<!ENTITY noproxyExplain.label "উদাহরণস্বরূপ: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "সকল প্রটোকলের জন্য এই প্রক্সি ব্যবহার করা হবে (x)">
 <!ENTITY shareproxy.accesskey "x">

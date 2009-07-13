@@ -38,7 +38,7 @@
 
 <!ENTITY windowTitle.label "পৃষ্ঠার বৈশিষ্ট্য">
 <!ENTITY location.label "অবস্থান:">
-<!ENTITY lastModified.label "শেষ পরিবর্তিত:">
+<!ENTITY lastModified.label "সর্বশেষ পরিবর্তিত:">
 <!ENTITY titleInput.label "শিরোনাম (T):">
 <!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "লেখক (A):">
@@ -46,5 +46,5 @@
 <!ENTITY descriptionInput.label "বিবরন (D):">
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[নতুন পাতা, এখনও সংরক্ষন করা হয়নি]">
-<!ENTITY EditHEADSource1.label "উন্নত ব্যবহারকারী:">
-<!ENTITY EditHEADSource2.label "&lt;হেড&gt; অঞ্চলের অন্যান্য বিষয়বস্তু সম্পাদনা করতে, প্রদর্শন মেনু বা সম্পাদনা মোড টুলবারে &quot;HTML উৎস&quot; ব্যবহার করুন।">
+<!ENTITY EditHEADSource1.label "উচ্চ পর্যায়ের ব্যবহারকারী:">
+<!ENTITY EditHEADSource2.label "&lt;head&gt; এলাকার অন্যান্য বিষয়বস্তু সম্পাদনা করতে, ভিউ মেনু বা সম্পাদনা মোড টুলবারে &quot;HTML সোর্স&quot; ব্যবহার করুন।">

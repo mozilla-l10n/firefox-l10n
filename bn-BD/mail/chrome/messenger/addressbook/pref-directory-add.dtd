@@ -35,45 +35,45 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label "ডিরেক্টরি সার্ভার বৈশিষ্ট্য">
-<!ENTITY directoryName.label "নাম (N): ">
+<!ENTITY newDirectoryTitle.label "ডিরেক্টরি সার্ভারের বৈশিষ্ট্য">
+<!ENTITY directoryName.label "নাম (N):">
 <!ENTITY directoryName.accesskey "n">
-<!ENTITY directoryHostname.label "হোস্টনাম (o): ">
+<!ENTITY directoryHostname.label "হোস্টনাম (o):">
 <!ENTITY directoryHostname.accesskey "o">
-<!ENTITY directoryBaseDN.label "বেত DN (B): ">
+<!ENTITY directoryBaseDN.label "বেস DN (B):">
 <!ENTITY directoryBaseDN.accesskey "b">
-<!ENTITY findButton.label "খুজুন (F)">
+<!ENTITY findButton.label "খুঁজুন (F)">
 <!ENTITY findButton.accesskey "f">
-<!ENTITY directorySecure.label "নিরাপদ সংযোগ (SSL) ব্যবহার করুন (U)">
+<!ENTITY directorySecure.label "নিরাপদ সংযোগ (SSL) ব্যবহার করা হবে (U)">
 <!ENTITY directorySecure.accesskey "U">
-<!ENTITY directoryLogin.label "বাইন্ড DN (i): ">
+<!ENTITY directoryLogin.label "বাইন্ড DN (i):">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY General.tab "সাধারন">
+<!ENTITY General.tab "সাধারণ">
 <!ENTITY Offline.tab "অফলাইন">
-<!ENTITY Advanced.tab "উন্নত">
-<!ENTITY portNumber.label "পোর্ট নম্বর (P): ">
+<!ENTITY Advanced.tab "উচ্চ পর্যায়ের">
+<!ENTITY portNumber.label "পোর্ট নম্বর (P):">
 <!ENTITY portNumber.accesskey "p">
-<!ENTITY searchFilter.label "অনুসন্ধান ফিল্টার (f): ">
+<!ENTITY searchFilter.label "অনুসন্ধান পরিশোধক (f):">
 <!ENTITY searchFilter.accesskey "f">
-<!ENTITY scope.label "স্কোপ (c): ">
+<!ENTITY scope.label "ব্যাপ্তি (c):">
 <!ENTITY scope.accesskey "c">
 <!ENTITY scopeOneLevel.label "এক স্তর (L)">
 <!ENTITY scopeOneLevel.accesskey "L">
-<!ENTITY scopeSubtree.label "সাবট্রি (S)">
+<!ENTITY scopeSubtree.label "সাব-ট্রি (S)">
 <!ENTITY scopeSubtree.accesskey "S">
-<!ENTITY return.label "এর চেয়ে অধিক ফেরত পাঠানো হবে না">
+<!ENTITY return.label "ফেরত পাঠাবেন না, অপেক্ষাকৃত বেশী (r)">
 <!ENTITY return.accesskey "r">
 <!ENTITY results.label "ফলাফল">
-<!ENTITY offlineText.label "আপনি এই ডিরেক্টরির একটি স্থানীয় কপি ডাউনলোড করতে পারেন যেন আপনি অফলাইন থাকা অবস্থায় এটি পাওয়া যায়।">
-<!ENTITY saslMechanism.label "Login method: ">
+<!ENTITY offlineText.label "আপনি এই ডিরেক্টরির একটি স্থানীয় অনুলিপি ডাউনলোড করতে পারেন, ফলে অফলাইন থাকা অবস্থায় এটা উপস্থিত থাকবে।">
+<!ENTITY saslMechanism.label "লগইন মেথড (m):">
 <!ENTITY saslMechanism.accesskey "m">
-<!ENTITY saslOff.label "Simple">
+<!ENTITY saslOff.label "সহজ (l)">
 <!ENTITY saslOff.accesskey "l">
-<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.label "কেরবেরস (GSSAPI) (K)">
 <!ENTITY saslGSSAPI.accesskey "K">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
 
-<!ENTITY newDirectoryWidth "36em">
+<!ENTITY newDirectoryWidth "৩৬এম">

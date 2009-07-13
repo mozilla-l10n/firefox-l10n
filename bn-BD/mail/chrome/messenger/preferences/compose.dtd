@@ -1,11 +1,11 @@
-<!ENTITY itemGeneral.label "সাধারন">
+<!ENTITY itemGeneral.label "সাধারণ">
 <!ENTITY itemAutoComplete.label "সম্বোধন">
 <!ENTITY itemSpellCheck.label "বানান">
 
-<!ENTITY forwardMsg.label "বার্তা অন্যদেরকে পাঠান (w):">
-<!ENTITY forwardMsg.accesskey "W">
-<!ENTITY inline.label "ইনলাইন (I)">
-<!ENTITY asAttachment.label "সংযুক্তি হিসেবে (A)">
+<!ENTITY forwardMsg.label "পুনঃপ্রেরণ বার্তা (F):">
+<!ENTITY forwardMsg.accesskey "F">
+<!ENTITY inline.label "ইনলাইন">
+<!ENTITY asAttachment.label "সংযুক্তি হিসেবে">
 <!ENTITY addExtension.label "ফাইলের নামের সাথে এক্সটেনশন যোগ করা হবে (f)">
 <!ENTITY addExtension.accesskey "f">
 
@@ -14,44 +14,44 @@
 <!ENTITY font.accesskey "n">
 <!ENTITY size.label "আকার (z):">
 <!ENTITY size.accesskey "z">
-<!ENTITY fontColor.label "টেক্সটের রং (x):">
-<!ENTITY fontColor.accesskey "X">
-<!ENTITY bgColor.label "পিছনের রং (B):">
+<!ENTITY fontColor.label "লেখার রং (T):">
+<!ENTITY fontColor.accesskey "T">
+<!ENTITY bgColor.label "পটভূমির রং (B):">
 <!ENTITY bgColor.accesskey "B">
-<!ENTITY restoreHTMLDefaults.label "ডিফল্ট পুনরায় স্থাপন করা হবে (R)">
+<!ENTITY restoreHTMLDefaults.label "ডিফল্ট পুনরূদ্ধার করা হবে (R)">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
 
-<!ENTITY spellCheck.label "প্রেরনের পূর্বে বানান পরীক্ষা করা হবে (C)">
+<!ENTITY spellCheck.label "প্রেরণের পূর্বে বানান পরীক্ষা করা হবে (C)">
 <!ENTITY spellCheck.accesskey "C">
-<!ENTITY spellCheckInline.label "আপনি টাইপ করার সময় বানান পরীক্ষা সক্রিয় করা হবে">
-<!ENTITY spellCheckInline1.accesskey "k">
-<!ENTITY languagePopup.label "ভাষা (g):">
-<!ENTITY languagePopup.accessKey "G">
-<!ENTITY downloadDictionaries.label "আরো অভিধান ডাউনলোড করা হবে">
+<!ENTITY spellCheckInline.label "টাইপ করার সময় বানান পরীক্ষণ সক্রিয় করা হবে">
+<!ENTITY spellCheckInline1.accesskey "E">
+<!ENTITY languagePopup.label "ভাষা (L):">
+<!ENTITY languagePopup.accessKey "L">
+<!ENTITY downloadDictionaries.label "আরও অভিধান ডাউনলোড করা হবে">
 
-<!ENTITY warnOnSendAccelKey.label "প্রেরনের ক্ষেত্রে কিবোর্ড শর্টকাট ব্যবহার করা হলে নিশ্চিতকরন বার্তা দেখানো হবে (i)">
-<!ENTITY warnOnSendAccelKey.accesskey "I">
-<!ENTITY autoSave.label "স্বয়ংক্রিয়ভাবে সংরক্ষন করা হবে (u)">
-<!ENTITY autoSave.accesskey "U">
-<!ENTITY autoSaveEnd.label "মিনিট অন্তর">
+<!ENTITY warnOnSendAccelKey.label "বার্তা প্রেরণের ক্ষেত্রে কীবোর্ড শর্টকাট ব্যবহার করার সময় নিশ্চিত করা হবে (C)">
+<!ENTITY warnOnSendAccelKey.accesskey "C">
+<!ENTITY autoSave.label "স্বয়ংক্রিয়ভাবে যতক্ষণ পর সংরক্ষণ করা হবে (A)">
+<!ENTITY autoSave.accesskey "A">
+<!ENTITY autoSaveEnd.label "মিনিট">
 
-<!ENTITY emailCollectionPicker.label "স্বয়ংক্রিয়ভাবে বহি:গামী ই-মেইল ঠিকানা সংরক্ষন করা হবে এখানে:">
+<!ENTITY emailCollectionPicker.label "আমার যেখানে স্বয়ংক্রিয়ভাবে বহিঃর্গামী ই-মেইল ঠিকানা যোগ করা হবে:">
 <!ENTITY emailCollectionPicker.accesskey "A">
-<!ENTITY addressingTitle.label "ঠিকানা স্বয়ংক্রিয়ভাবে সম্পন্ন করা হবে">
-<!ENTITY autocompleteText.label "যখন বার্তাকে সম্বোধন করা হবে, এখানে মিল খোজা হবে:">
-<!ENTITY addressingEnable.label "স্থানীয় ঠিকানার বই (A)">
-<!ENTITY addressingEnable.accesskey "A">
+<!ENTITY addressingTitle.label "ঠিকানা স্বয়ংক্রিয়-সম্পূর্নকরণ">
+<!ENTITY autocompleteText.label "বার্তায় সম্বোধন দেয়ার সময়, যেখানে অনুরূপ ভুক্তি খোঁজা হবে:">
+<!ENTITY addressingEnable.label "স্থানীয় ঠিকানার বই (L)">
+<!ENTITY addressingEnable.accesskey "L">
 <!ENTITY directories.label "ডিরেক্টরি সার্ভার (D):">
 <!ENTITY directories.accesskey "D">
-<!ENTITY directoriesNone.label "কিছু নয়">
-<!ENTITY editDirectories.label "ডিরেক্টরি সম্পাদনা করুন... (E)">
+<!ENTITY directoriesNone.label "একটিও না">
+<!ENTITY editDirectories.label "ডিরেক্টরি সম্পাদনা করা হবে... (E)">
 <!ENTITY editDirectories.accesskey "E">
 
-<!ENTITY sendOptionsDescription.label "টেক্সট ফরম্যাটের আচরন কনফিগার করুন">
-<!ENTITY sendOptions.label "প্রেরনের পছন্দসমূহ... (S)">
+<!ENTITY sendOptionsDescription.label "টেক্সট ফরম্যাটের বৈশিষ্ট্য কনফিগার করা হবে">
+<!ENTITY sendOptions.label "প্রেরণ অপশন... (S)">
 <!ENTITY sendOptions.accesskey "S">
 
-<!ENTITY attachmentReminder.label "Check for missing attachments">
+<!ENTITY attachmentReminder.label "অনুপস্থিত সংযুক্তির জন্য পরীক্ষণ করা হবে (m)">
 <!ENTITY attachmentReminder.accesskey "m">
-<!ENTITY attachmentReminderOptions.label "Keywords…">
+<!ENTITY attachmentReminderOptions.label "কীওয়ার্ড… (K)">
 <!ENTITY attachmentReminderOptions.accesskey "K">

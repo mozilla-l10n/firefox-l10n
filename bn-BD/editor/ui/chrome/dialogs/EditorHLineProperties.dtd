@@ -37,23 +37,23 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "অনুভূমিক রেখা বৈশিষ্ট্য">
+<!ENTITY windowTitle.label "অনুভূমিক রেখার বৈশিষ্ট্য">
 
 <!ENTITY dimensionsBox.label "মাত্রা">
 <!ENTITY heightEditField.label "উচ্চতা (g):">
 <!ENTITY heightEditField.accessKey "G">
 <!ENTITY widthEditField.label "প্রস্থ (W):">
 <!ENTITY widthEditField.accessKey "W">
-<!ENTITY pixelsPopup.value "পিক্সেস">
-<!ENTITY alignmentBox.label "সাজানো">
+<!ENTITY pixelsPopup.value "পিক্সেল">
+<!ENTITY alignmentBox.label "প্রান্তিককরণ">
 <!ENTITY leftRadio.label "বাম (L)">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "মাঝ বরাবর (C)">
+<!ENTITY centerRadio.label "কেন্দ্র (C)">
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "ডান (R)">
 <!ENTITY rightRadio.accessKey "R">
 
-<!ENTITY threeDShading.label "ত্রিমাত্রিক শেডিং (S)">
+<!ENTITY threeDShading.label "ত্রিমাত্রিক ছায়াকরণ (S)">
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "ডিফল্ট হিসেবে ব্যবহার করা হবে (D)">
 <!ENTITY saveSettings.accessKey "D">

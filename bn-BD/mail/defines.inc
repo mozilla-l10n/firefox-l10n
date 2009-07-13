@@ -6,6 +6,6 @@
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>জো সোলোন</em:contributor> <em:contributor>সুজি সোলোন</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>জো সলোন</em:contributor> <em:contributor>সুজি সলোন</em:contributor>
 
 #unfilter emptyLines
