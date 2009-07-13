@@ -6,6 +6,8 @@
 <!ENTITY forwardMsg.accesskey                 "П">
 <!ENTITY inline.label                         "Усередині повідомлення">
 <!ENTITY asAttachment.label                   "Як вкладення">
+<!ENTITY addExtension.label                   "додати розширення до імені файлу">
+<!ENTITY addExtension.accesskey               "ф">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Шрифт:">
@@ -22,7 +24,7 @@
 <!ENTITY spellCheck.label                     "Перевіряти орфографію перед відсиланням повідомлення">
 <!ENTITY spellCheck.accesskey                 "і">
 <!ENTITY spellCheckInline.label               "Перевіряти орфографію при наборі тексту">
-<!ENTITY spellCheckInline1.accesskey           "е">
+<!ENTITY spellCheckInline1.accesskey          "е">
 <!ENTITY languagePopup.label                  "Мова:">
 <!ENTITY languagePopup.accessKey              "М">
 <!ENTITY downloadDictionaries.label           "Завантажити додаткові словники">
@@ -41,6 +43,7 @@
 <!ENTITY addressingEnable.accesskey            "Л">
 <!ENTITY directories.label                     "Сервері каталогів:">
 <!ENTITY directories.accesskey                 "С">
+<!ENTITY directoriesNone.label                 "Ніякому">
 <!ENTITY editDirectories.label                 "Змінити каталоги…">
 <!ENTITY editDirectories.accesskey             "З">
 
@@ -48,8 +51,7 @@
 <!ENTITY sendOptions.label                     "Параметри надсилання…">
 <!ENTITY sendOptions.accesskey                 "П">
 
-
-<!-- FIXME: localize -->
-<!ENTITY addExtension.accesskey               "ф">
-<!ENTITY addExtension.label                   "додати розширення до імені файлу">
-<!ENTITY directoriesNone.label                 "Ніякому">
+<!ENTITY attachmentReminder.label              "Перевіряти відсутні вкладення">
+<!ENTITY attachmentReminder.accesskey          "в">
+<!ENTITY attachmentReminderOptions.label       "Ключові слова…">
+<!ENTITY attachmentReminderOptions.accesskey   "К">

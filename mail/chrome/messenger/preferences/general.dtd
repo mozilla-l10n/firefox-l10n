@@ -29,7 +29,7 @@
 <!ENTITY browse.accesskey                 "О">
 
 <!ENTITY addonsMgr.label                  "Додатки">
+<!ENTITY manageAddonsDescWin.label        "Змінити налаштування ваших додатків">
+<!ENTITY manageAddonsDescUnix2.label      "Змінити налаштування ваших додатків">
 <!ENTITY manageAddons.label               "Керувати додатками…">
 <!ENTITY manageAddons.accesskey           "д">
-<!ENTITY manageAddonsDescUnix2.label      "Змінити налаштування ваших додатків">
-<!ENTITY manageAddonsDescWin.label        "Змінити налаштування ваших додатків">

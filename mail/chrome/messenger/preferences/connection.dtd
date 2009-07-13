@@ -2,6 +2,10 @@
 <!ENTITY  window.width                   "54em">
 
 <!ENTITY  proxyTitle.label              "Налаштування проксі для доступу в Інтернет">
+<!ENTITY  noProxyTypeRadio.label        "Без проксі">
+<!ENTITY  noProxyTypeRadio.accesskey    "Б">
+<!ENTITY  systemTypeRadio.label         "Використовувати системні параметри проксі">
+<!ENTITY  systemTypeRadio.accesskey     "с">
 <!ENTITY  WPADTypeRadio.label           "Автоматичне визначення налаштувань проксі для даної мережі">
 <!ENTITY  WPADTypeRadio.accesskey       "в">
 <!ENTITY  manualTypeRadio.label         "Налаштування проксі вручну:">
@@ -20,21 +24,14 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS 5">
 <!ENTITY  socks5.accesskey              "5">
+<!ENTITY  HTTPport.label                "Порт:">
 <!ENTITY  HTTPport.accesskey            "о">
+<!ENTITY  SSLport.label                 "Порт:">
 <!ENTITY  SSLport.accesskey             "р">
-<!-- No accesskey for gopher (':' doesn't go well) — mpt's going to redesign the window -->
+<!ENTITY  SOCKSport.label               "Порт:">
 <!ENTITY  SOCKSport.accesskey           "т">
 <!ENTITY  noproxy.label                 "Не використовувати проксі для:">
 <!ENTITY  noproxy.accesskey             "д">
 <!ENTITY  noproxyExplain.label          "Приклад: .example.ua, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Використовувати цей проксі-сервер для всіх протоколів">
-<!ENTITY  shareproxy.accesskey          "се">
-
-<!-- FIXME: localize -->
-<!ENTITY  HTTPport.label                "Порт:">
-<!ENTITY  SOCKSport.label               "Порт:">
-<!ENTITY  SSLport.label                 "Порт:">
-<!ENTITY  noProxyTypeRadio.accesskey    "Б">
-<!ENTITY  noProxyTypeRadio.label        "Без проксі">
-<!ENTITY  systemTypeRadio.accesskey     "с">
-<!ENTITY  systemTypeRadio.label         "Використовувати системні параметри проксі">
+<!ENTITY  shareproxy.accesskey          "с">

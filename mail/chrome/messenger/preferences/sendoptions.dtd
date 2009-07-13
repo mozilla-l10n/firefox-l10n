@@ -16,22 +16,16 @@
 <!ENTITY HTMLTab.accesskey            "т">
 <!ENTITY PlainTextTab.label           "Домени, що підтримують тільки текст">
 <!ENTITY PlainTextTab.accesskey       "п">
+<!ENTITY AddHtmlDomain.label          "Додати…">
 <!ENTITY AddHtmlDomain.accesskey      "Д">
+<!ENTITY AddPlainText.label           "Додати…">
 <!ENTITY AddPlainText.accesskey       "о">
+<!ENTITY DeleteHtmlDomain.label       "Вилучити">
 <!ENTITY DeleteHtmlDomain.accesskey   "и">
+<!ENTITY DeletePlainText.label        "Вилучити">
 <!ENTITY DeletePlainText.accesskey    "В">
 
 <!ENTITY add.htmltitle                "Додати доменне ім’я HTML">
 <!ENTITY add.htmldomain               "Ім’я домена:">
 <!ENTITY add.plaintexttitle           "Додати доменне ім’я простого тексту">
 <!ENTITY add.plaintextdomain          "Ім’я домену:">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-
-<!-- FIXME: localize -->
-<!ENTITY AddHtmlDomain.label          "Додати…">
-<!ENTITY AddPlainText.label           "Додати…">
-<!ENTITY DeleteHtmlDomain.label       "Вилучити">
-<!ENTITY DeletePlainText.label        "Вилучити">

@@ -10,6 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "П">
+<!ENTITY newContact.label "Контакт адресної книги…">
+<!ENTITY newContact.accesskey "К">
 <!ENTITY attachMenu.label "Вкласти">
 <!ENTITY attachMenu.accesskey "к">
 <!ENTITY attachFileCmd.label "Файл(и)…">
@@ -34,7 +36,6 @@
 <!ENTITY saveAsTemplateCmd.label "Шаблон">
 <!ENTITY saveAsTemplateCmd.accesskey "Ш">
 <!ENTITY sendNowCmd.label "Відіслати">
-<!ENTITY sendNowCmd.accesskey "В">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "д">
 <!ENTITY sendLaterCmd.label "Відіслати пізніше">
@@ -64,7 +65,9 @@
 <!ENTITY pasteCmd.label "Вставити">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "т">
+<!ENTITY pasteNoFormattingCmd.key "И">
 <!ENTITY editRewrapCmd.label "Переформатувати">
+<!ENTITY editRewrapCmd.key "О">
 <!ENTITY editRewrapCmd.accesskey "ф">
 <!ENTITY deleteCmd.label "Стерти">
 <!ENTITY deleteCmd.accesskey "С">
@@ -88,6 +91,10 @@
 <!ENTITY viewMenu.accesskey "В">
 <!ENTITY viewToolbarsMenuNew.label "Панелі інструментів"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "н"> 
+<!ENTITY showCompositionToolbarCmd.label "Панель інструментів складання листа">
+<!ENTITY showCompositionToolbarCmd.accesskey "о">
+<!ENTITY showFormattingBarCmd.label "Панель форматування">
+<!ENTITY showFormattingBarCmd.accesskey "ф">
 <!ENTITY showTaskbarCmd.label "Рядок стану">
 <!ENTITY showTaskbarCmd.accesskey "с">
 <!ENTITY customizeToolbar.label "Налаштувати…">
@@ -103,6 +110,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Налаштування">
 <!ENTITY optionsMenu.accesskey "Н">
+<!ENTITY checkSpellingCmd2.label "Перевірити орфографію…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "г">
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії при наборі тексту">
 <!ENTITY enableInlineSpellChecker.accesskey "б">
 <!ENTITY quoteCmd.label "Цитувати повідомлення">
@@ -114,6 +125,8 @@
 
 <!ENTITY returnReceiptMenu.label "Сповіщення про доставку">
 <!ENTITY returnReceiptMenu.accesskey "С">
+<!ENTITY dsnMenu.label "Стан сповіщення про доставку">
+<!ENTITY dsnMenu.accesskey "д">
 <!ENTITY outputFormatMenu.label "Формат">
 <!ENTITY outputFormatMenu.accesskey "Ф">
 <!ENTITY autoFormatCmd.label "Автовизначення">
@@ -148,8 +161,8 @@
 <!ENTITY messengerCmd.accesskey "П">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адресна книга">
-<!ENTITY addressBookCmd.key "B">
 <!ENTITY addressBookCmd.accesskey "А">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Параметри облікового запису…">
 <!ENTITY accountManagerCmd.accesskey "м">
 <!ENTITY accountManagerCmdUnix.accesskey "м">
@@ -163,9 +176,7 @@
 <!ENTITY minimizeWindow.label "Згорнути вікно">
 <!ENTITY bringAllToFront.label "Помістити всі на передній план">
 <!ENTITY zoomWindow.label "Розвернути вікно"> 
-<!ENTITY windowMenu.label "Вікно"> 
-
-<!-- Help Menu -->
+<!ENTITY windowMenu.label "Вікно">
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Відіслати">
@@ -201,7 +212,6 @@
 <!ENTITY attachments.accesskey "В">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 <!ENTITY SmileButton.tooltip "Вставити смайлік">
 <!ENTITY smiley1Cmd.label "Усмішка">
 <!ENTITY smiley2Cmd.label "Насупленість">
@@ -241,6 +251,8 @@
 <!ENTITY openAttachment.accesskey "В">
 <!ENTITY delete.label "Вилучити">
 <!ENTITY delete.accesskey "ч">
+<!ENTITY renameAttachment.label "Перейменувати…">
+<!ENTITY renameAttachment.accesskey "й">
 <!ENTITY selectAll.label "Виділити все">
 <!ENTITY selectAll.accesskey "с">
 <!ENTITY attachFile.label "Вкласти файл(и)…">
@@ -251,23 +263,3 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Контакти">
 
-
-<!-- FIXME: localize -->
-<!ENTITY dsnMenu.accesskey "д">
-<!ENTITY dsnMenu.label "Стан сповіщення про доставку">
-<!ENTITY editRewrapCmd.key "О">
-<!ENTITY pasteNoFormattingCmd.key "И">
-<!ENTITY renameAttachment.accesskey "й">
-<!ENTITY renameAttachment.label "Перейменувати…">
-<!ENTITY showCompositionToolbarCmd.label "Панель інструментів складання листа">
-<!ENTITY showFormattingBarCmd.accesskey "ф">
-<!ENTITY showFormattingBarCmd.label "Панель форматування">
-
-<!ENTITY checkSpellingCmd2.accesskey "г">
-<!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY checkSpellingCmd2.key2 "VK_F7">
-<!ENTITY checkSpellingCmd2.key2 "VK_F7">
-<!ENTITY checkSpellingCmd2.label "Перевірити орфографію…">
-<!ENTITY newContact.accesskey "К">
-<!ENTITY newContact.label "Контакт адресної книги…">
-<!ENTITY showCompositionToolbarCmd.accesskey "о">
