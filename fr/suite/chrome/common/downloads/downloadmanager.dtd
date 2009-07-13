@@ -8,8 +8,8 @@
 <!ENTITY search.accesskey                "R">
 <!ENTITY search.key                      "f">
 
-<!ENTITY cmd.clearList.label             "Effacer la liste">
-<!ENTITY cmd.clearList.tooltip           "Effacer les téléchargements terminés, annulés et ayant échoué de la liste">
+<!ENTITY cmd.clearList.label             "Vider la liste">
+<!ENTITY cmd.clearList.tooltip           "Retirer les téléchargements terminés, annulés et ayant échoué de la liste">
 <!ENTITY cmd.clearList.accesskey         "E">
 
 <!ENTITY col.name.label                  "Nom">

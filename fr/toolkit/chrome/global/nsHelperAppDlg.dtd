@@ -36,7 +36,7 @@
 <!ENTITY chooseApp.label       "Choisir…">
 <!ENTITY chooseApp.accesskey   "C">
 
-<!ENTITY chooseAppFilePickerTitle "Choisir une application auxiliaire">
+<!ENTITY chooseAppFilePickerTitle "Choisir une application externe">
 
 <!ENTITY badApp                 "L'application que vous avez choisie ne peut être trouvée (« #1 »). Vérifiez le nom du fichier ou sélectionnez une autre application.">
 <!ENTITY badApp.title           "Application non trouvée">

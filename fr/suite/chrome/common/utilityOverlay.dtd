@@ -83,7 +83,7 @@
 <!ENTITY proxy.label "Configuration du proxy…">
 <!ENTITY proxy.accesskey "C">
 
-<!ENTITY bidiSwitchTextDirectionItem.label "Changer la direction du texte">
+<!ENTITY bidiSwitchTextDirectionItem.label "Changer le sens du texte">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 

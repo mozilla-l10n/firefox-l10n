@@ -39,7 +39,7 @@
 
 <!ENTITY emailSectionHdr.label "Courrier électronique">
 <!ENTITY readMsgsLink.label "Lire les messages">
-<!ENTITY composeMsgLink.label "Rédiger un nouveau message">
+<!ENTITY composeMsgLink.label "Écrire un nouveau message">
 
 <!ENTITY newsSectionHdr.label        "Groupes de discussion">
 <!ENTITY subscribeNewsLink.label "Gérer les abonnements aux groupes de discussion">

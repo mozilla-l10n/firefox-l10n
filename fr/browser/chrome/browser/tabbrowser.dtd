@@ -11,7 +11,7 @@
 <!ENTITY  reloadTab.accesskey    "A">
 <!ENTITY  openTabInNewWindow.label "Ouvrir dans une nouvelle fenêtre">
 <!ENTITY  openTabInNewWindow.accesskey "O">
-<!ENTITY  listAllTabs.label "Liste tous les onglets">
+<!ENTITY  listAllTabs.label "Lister tous les onglets">
 <!ENTITY  bookmarkAllTabs.label "Marquer tous les onglets…">
 <!ENTITY  bookmarkAllTabs.accesskey "u">
 <!ENTITY  bookmarkThisTab.label "Marquer cet onglet">

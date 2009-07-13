@@ -10,7 +10,7 @@
 
 <!ENTITY fileMenu.label           "Fichier">
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY savePageCmd.label "Enregistrer la page sous…">
+<!ENTITY savePageCmd.label "Enregistrer sous…">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Mise en page…">

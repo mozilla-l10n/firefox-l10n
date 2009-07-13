@@ -1,7 +1,7 @@
 <!ENTITY window.title "Configurer les en-têtes">
 <!ENTITY addButton.label "Ajouter">
 <!ENTITY addButton.accesskey "A">
-<!ENTITY removeButton.label "Enlever">
-<!ENTITY removeButton.accesskey "E">
+<!ENTITY removeButton.label "Supprimer">
+<!ENTITY removeButton.accesskey "S">
 <!ENTITY newMsgHeader.label "Nouvel en-tête de message :">
 <!ENTITY newMsgHeader.accesskey "N">

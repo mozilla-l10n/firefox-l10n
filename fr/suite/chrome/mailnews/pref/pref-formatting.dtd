@@ -41,7 +41,7 @@
 <!ENTITY askMe.accesskey "M">
 <!ENTITY convertPlain.label "Convertir au format texte simple">
 <!ENTITY convertPlain.accesskey "C">
-<!ENTITY sendHTML.label "Envoyer au format HTML quand même">
+<!ENTITY sendHTML.label "Envoyer au format HTML tout de même">
 <!ENTITY sendHTML.accesskey "E">
 <!ENTITY sendBoth.label "Envoyer aux formats texte et HTML">
 <!ENTITY sendBoth.accesskey "n">

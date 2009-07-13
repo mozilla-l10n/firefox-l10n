@@ -19,8 +19,8 @@
 <!ENTITY attachPageCmd.label "Page Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Carte de visite personnelle (vCard)">
-<!ENTITY attachVCardCmd.accesskey "C">
+<!ENTITY attachVCardCmd.label "Joindre carte de visite (vCard)">
+<!ENTITY attachVCardCmd.accesskey "p">
 <!ENTITY closeCmd.label "Fermer">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "F">
@@ -172,9 +172,9 @@
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimiser">
-<!ENTITY bringAllToFront.label "Toutes au premier plan">
+<!ENTITY minimizeWindow.key "R">
+<!ENTITY minimizeWindow.label "Réduire">
+<!ENTITY bringAllToFront.label "Tout amener à l'avant-plan">
 <!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Fenêtre">
 

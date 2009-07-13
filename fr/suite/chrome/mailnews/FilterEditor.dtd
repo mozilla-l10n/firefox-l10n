@@ -76,14 +76,14 @@
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Déplacer le message vers">
 <!ENTITY copyMessage.label "Copier le message vers">
-<!ENTITY forwardTo.label "Faire suivre le message vers">
-<!ENTITY replyWithTemplate.label "Répondre en utilisant un modèle">
-<!ENTITY markMessageRead.label "Marquer le message comme lu">
-<!ENTITY markMessageStarred.label "Marquer le message">
+<!ENTITY forwardTo.label "Transférer le message à">
+<!ENTITY replyWithTemplate.label "Répondre avec le modèle">
+<!ENTITY markMessageRead.label "Marquer comme lu">
+<!ENTITY markMessageStarred.label "Suivre ce message">
 <!ENTITY labelMessage.label "Étiqueter l'en-tête du message comme">
-<!ENTITY setPriority.label "Changer la priorité en">
+<!ENTITY setPriority.label "Définir la priorité à">
 <!ENTITY addTag.label "Étiqueter le message">
-<!ENTITY setJunkScore.label "Changer le statut d'indésirable en">
+<!ENTITY setJunkScore.label "Définir le statut indésirable à">
 <!ENTITY deleteMessage.label "Supprimer le message">
 <!ENTITY deleteFromPOP.label "Supprimer du serveur POP">
 <!ENTITY fetchFromPOP.label "Télécharger depuis le serveur POP">

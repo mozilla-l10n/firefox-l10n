@@ -2,7 +2,7 @@
 
 <!ENTITY caption.label         "Propriétés de l'élément">
 <!ENTITY image-sec.label       "Propriétés de l'image">
-<!ENTITY image-url.label       "Emplacement :">
+<!ENTITY image-url.label       "Adresse :">
 <!ENTITY image-type.label      "Type :">
 <!ENTITY image-desc.label      "Description :">
 <!ENTITY image-alt.label       "Texte alternatif :">

@@ -163,9 +163,9 @@
 
 <!ENTITY event.invite.attendees.label "Inviter des participants…">
 <!ENTITY event.invite.attendees.accesskey "I">
-<!ENTITY event.email.attendees.label "Rédiger un courriel pour tous les participants…">
+<!ENTITY event.email.attendees.label "Écrire un courriel à tous les participants…">
 <!ENTITY event.email.attendees.accesskey "R">
-<!ENTITY event.email.tentative.attendees.label "Rédiger un courriel pour les participants indécis…">
+<!ENTITY event.email.tentative.attendees.label "Écrire un courriel à les participants indécis…">
 <!ENTITY event.email.tentative.attendees.accesskey "d">
 
 <!-- Toolbar -->

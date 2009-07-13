@@ -113,9 +113,9 @@
 <!ENTITY mediaHideControls.label "Masquer les contrôles">
 <!ENTITY mediaHideControls.accesskey "M">
 <!ENTITY search.accesskey "r">
-<!ENTITY bidiSwitchPageDirectionItem.label "Changer la direction de la page">
+<!ENTITY bidiSwitchPageDirectionItem.label "Changer le sens de la page">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
-<!ENTITY bidiSwitchTextDirectionItem.label "Changer la direction du texte">
+<!ENTITY bidiSwitchTextDirectionItem.label "Changer le sens du texte">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "d">
 <!ENTITY spellAddToDictionary.label "Ajouter au dictionnaire">
 <!ENTITY spellAddToDictionary.accesskey "A">

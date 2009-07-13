@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY ViewContact.accesskey "A">
 <!ENTITY SendMailTo.label "Envoyer un courrier à">
 <!ENTITY SendMailTo.accesskey "y">
-<!ENTITY CopyEmailAddress.label "Copier l'adresse">
+<!ENTITY CopyEmailAddress.label "Copier l'adresse électronique">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Créer un filtre…">
 <!ENTITY CreateFilterFrom.accesskey "f">
@@ -738,16 +738,16 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageCmd.label "Copier l'adresse de l'image">
 <!ENTITY copyImageCmd.accesskey "m">
-<!ENTITY copyEmailCmd.label "Copier l'adresse">
+<!ENTITY copyEmailCmd.label "Copier l'adresse électronique">
 <!ENTITY copyEmailCmd.accesskey "e">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Chargé">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "Minimiser">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Toutes au premier plan">
+<!ENTITY minimizeWindow.label "Réduire">
+<!ENTITY minimizeWindow.key "R">
+<!ENTITY bringAllToFront.label "Tout amener à l'avant-plan">
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->

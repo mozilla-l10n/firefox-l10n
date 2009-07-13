@@ -1,6 +1,6 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Paramètres des comptes">
+<!ENTITY accountManagerTitle.label "Paramètres des comptes Courrier et Groupes">
 
 <!ENTITY addAccountButton.label "Ajouter un compte…">
 <!ENTITY addAccountButton.accesskey "A">

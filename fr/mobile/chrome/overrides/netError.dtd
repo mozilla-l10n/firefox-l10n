@@ -12,7 +12,7 @@
 <!ENTITY deniedPortAccess.title "Cette adresse est interdite">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serveur introuvable">
+<!ENTITY dnsNotFound.title "Adresse introuvable">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Veuillez vérifier la syntaxe de l'adresse
@@ -34,12 +34,12 @@
 ">
 
 
-<!ENTITY generic.title "Oups.">
+<!ENTITY generic.title "La requête ne peut aboutir">
 <!ENTITY generic.longDesc "
 <p>Pour une raison inconnue, &brandShortName; ne peut pas charger cette page.</p>
 ">
 
-<!ENTITY malformedURI.title "Adresse invalide">
+<!ENTITY malformedURI.title "L'adresse n'est pas valide">
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>La syntaxe des adresses Web est généralement
@@ -49,10 +49,10 @@
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "Connexion interrompue">
+<!ENTITY netInterrupt.title "La connexion a été interrompue">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Mode hors ligne">
+<!ENTITY netOffline.title "Mode hors connexion">
 <!ENTITY netOffline.longDesc "
 <ul>
   <li>Décochez &quot;Travailler hors connexion&quot; dans le menu Fichier et essayez à nouveau.</li>
@@ -73,20 +73,20 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Connexion réinitialisée">
+<!ENTITY netReset.title "La connexion a été réinitialisée">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Délai d'attente dépassé">
+<!ENTITY netTimeout.title "Le délai d'attente est dépassé">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Adresse non reconnue">
+<!ENTITY protocolNotFound.title "L'adresse n'a pas été reconnue">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
   <li>Il est peut-être nécessaire d'installer une autre appplication pour ouvrir ce type d'adresse.</li>
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Connexion refusée par le serveur proxy">
+<!ENTITY proxyConnectFailure.title "La connexion a été refusée par le serveur proxy">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Vérifiez que les paramètres du proxy sont corrects&nbsp;;</li>
@@ -95,7 +95,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Serveur proxy introuvable">
+<!ENTITY proxyResolveFailure.title "Le serveur proxy est introuvable">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Vérifiez que les paramètres du proxy sont corrects&nbsp;;</li>
@@ -105,7 +105,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Redirection de page incorrecte">
+<!ENTITY redirectLoop.title "La page n'est pas redirigée correctement">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>La cause de ce problème peut être la désactivation ou le refus

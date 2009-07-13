@@ -26,7 +26,7 @@
 <!ENTITY abSearchHeading.accesskey   "d">
 <!ENTITY propertiesButton.label      "Propriétés">
 <!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "Rédiger">
+<!ENTITY composeButton.label         "Écrire">
 <!ENTITY composeButton.accesskey     "g">
 <!ENTITY abSearchDialogTitle.label   "Recherche avancée dans le carnet d'adresses">
 
