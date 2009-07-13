@@ -34,17 +34,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "লেবেল বৈশিষ্ট্য">
+<!ENTITY windowTitle.label "লেবেলের বৈশিষ্ট্য">
 
 <!ENTITY Settings.label "সেটিং (S)">
 <!ENTITY Settings.accesskey "S">
 
-<!ENTITY EditLabelText.label "টেক্সট সম্পাদনা (T):">
+<!ENTITY EditLabelText.label "পাঠ্য সম্পাদনা (T):">
 <!ENTITY EditLabelText.accesskey "T">
 <!ENTITY LabelFor.label "নিয়ন্ত্রনের জন্য (F):">
 <!ENTITY LabelFor.accesskey "F">
-<!ENTITY AccessKey.label "এক্সেস কী (K):">
+<!ENTITY AccessKey.label "প্রবেশ কী (K):">
 <!ENTITY AccessKey.accesskey "K">
 
-<!ENTITY RemoveLabel.label "লেবেল মুছে দিন (R)">
+<!ENTITY RemoveLabel.label "লেবেল মুছে দেয়া (R)">
 <!ENTITY RemoveLabel.accesskey "R">

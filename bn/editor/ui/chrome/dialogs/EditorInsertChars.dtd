@@ -37,16 +37,16 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "ক্যারেক্টার প্রবেশ করান">
-<!ENTITY category.label "ক্যাটেগরি">
+<!ENTITY windowTitle.label "অক্ষর প্রবেশ">
+<!ENTITY category.label "শ্রেণীবিভাগ">
 <!ENTITY letter.label "বর্ণ (L):">
 <!ENTITY letter.accessKey "L">
-<!ENTITY character.label "ক্যারেক্টার (C):">
+<!ENTITY character.label "অক্ষর (C):">
 <!ENTITY character.accessKey "C">
-<!ENTITY accentUpper.label "উচ্চরন বড় হাতের অক্ষর">
-<!ENTITY accentLower.label "উচ্চরন ছোট হাতের অক্ষর">
+<!ENTITY accentUpper.label "ঝোঁক চিহ্ন - বড় হাতের অক্ষরে">
+<!ENTITY accentLower.label "ঝোঁক চিহ্ন - ছোট হাতের অক্ষরে">
 <!ENTITY otherUpper.label "অন্যান্য বড় হাতের অক্ষর">
 <!ENTITY otherLower.label "অন্যান্য ছোট হাতের অক্ষর">
-<!ENTITY commonSymbols.label "সাধারন প্রতিক">
-<!ENTITY insertButton.label "প্রবেশ করান">
-<!ENTITY closeButton.label "বন্ধ করুন">
+<!ENTITY commonSymbols.label "সাধারন প্রতীক">
+<!ENTITY insertButton.label "প্রবেশ">
+<!ENTITY closeButton.label "বন্ধ">

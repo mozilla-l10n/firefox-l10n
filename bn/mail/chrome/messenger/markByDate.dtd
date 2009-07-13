@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "বার্তাকে তারিখ অনুসারে পড়া হয়েছে হিসেবে চিহ্নিত করা হবে">
-<!ENTITY markByDateLower.label "বার্তাকে এখান থেকে পড়া হয়েছে হিসেবে চিহ্নিত করা হবে (f):">
+<!ENTITY messageMarkByDate.label "তারিখ অনুসারে পড়া বার্তাগুলোকে চিহ্নিত করা হবে">
+<!ENTITY markByDateLower.label "বার্তাকে এখান থেকে পড়া হয়েছে হিসেবে চিহ্নিত করা (f):">
 <!ENTITY markByDateLower.accesskey "F">
 <!ENTITY markByDateUpper.label "প্রাপক (T):">
 <!ENTITY markByDateUpper.accesskey "T">

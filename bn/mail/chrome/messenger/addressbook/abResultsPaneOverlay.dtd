@@ -36,15 +36,15 @@
 
 <!ENTITY GeneratedName.label "নাম (N)">
 <!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "ইমেইল (E)">
+<!ENTITY PrimaryEmail.label "ই-মেইল (E)">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "অর্গানাইজেশন (z)">
+<!ENTITY Company.label "প্রতিষ্ঠান (z)">
 <!ENTITY Company.accesskey "z">
-<!ENTITY _PhoneticName.label "প্রতিক নাম (o)">
+<!ENTITY _PhoneticName.label "ফনেটিক নাম (o)">
 <!ENTITY _PhoneticName.accesskey "o">
 <!ENTITY NickName.label "ডাকনাম (i)">
 <!ENTITY NickName.accesskey "i">
-<!ENTITY SecondEmail.label "অতিরিক্ত ইমেইল (l)">
+<!ENTITY SecondEmail.label "অতিরিক্ত ই-মেইল (l)">
 <!ENTITY SecondEmail.accesskey "l">
 <!ENTITY Department.label "বিভাগ (r)">
 <!ENTITY Department.accesskey "r">
@@ -60,9 +60,9 @@
 <!ENTITY HomePhone.accesskey "H">
 <!ENTITY WorkPhone.label "অফিসের ফোন (W)">
 <!ENTITY WorkPhone.accesskey "W">
-<!ENTITY ScreenName.label "প্রদর্শন নাম (S)">
+<!ENTITY ScreenName.label "পর্দার নাম (S)">
 <!ENTITY ScreenName.accesskey "S">
-<!ENTITY sortAscending.label "ছোট থেকে বড় (A)">
+<!ENTITY sortAscending.label "আরোহী (A)">
 <!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "বড় থেকে ছোট (D)">
+<!ENTITY sortDescending.label "অবরোহী (D)">
 <!ENTITY sortDescending.accesskey "D">

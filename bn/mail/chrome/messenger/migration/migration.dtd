@@ -1,31 +1,31 @@
 
-<!ENTITY migrationWizard.title "ইম্পোর্ট উইজার্ড">
+<!ENTITY migrationWizard.title "উইজার্ড ইমপোর্ট">
 
-<!ENTITY importFromWin.label "উল্লিখিত স্থান থেকে বিকল্প, অ্যাকাউন্ট সেটিং, ঠিকানার বই, ফিল্টার এবং অন্যান্য তথ্য ইম্পোর্ট করুন:">
-<!ENTITY importFromNonWin.label "উল্লিখিত স্থান থেকে পছন্দসমূহ, অ্যাকাউন্ট সেটিং, ঠিকানার বই, ফিল্টার, এবং অন্যান্য তথ্য ইম্পোর্ট করুন:">
+<!ENTITY importFromWin.label "যে স্থান থেকে অপশন, একাউন্ট সেটিং, ঠিকানার বই, পরিশোধক এবং অন্যান্য ডেটা ইমপোর্ট করা হবে:">
+<!ENTITY importFromNonWin.label "যে স্থান হতে পছন্দসমূহ, একাউন্ট সেটিং, ঠিকানার বই, পরিশোধক, এবং অন্যান্য ডেটা ইমপোর্ট করা হবে:">
 
-<!ENTITY importFromNothing.label "কিছু ইম্পোর্ট করা হবে না (D)">
+<!ENTITY importFromNothing.label "কোনো কিছু ইমপোর্ট করা হবে না (D)">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey2.label "নেটস্কেপ ৬, ৭, মজিলা ১.x বা সিমাঙ্কি (S)">
+<!ENTITY importFromSeamonkey2.label "নেটস্কেপ ৬, ৭, মজিলা ১.এক্স বা SeaMonkey (S)">
 <!ENTITY importFromSeamonkey2.accesskey "s">
-<!ENTITY importFromNetscape4.label "নেটস্কেপ ৪.x (4)">
+<!ENTITY importFromNetscape4.label "নেটস্কেপ ৪.এক্স (4)">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "আউটলুক এক্সপ্রেস (u)">
 <!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "আউটলুক (O)">
 <!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "উইডোরা (E)">
+<!ENTITY importFromEudora.label "ইউডোরা (E)">
 <!ENTITY importFromEudora.accesskey "E">
 
-<!ENTITY importSource.title "উল্লিখিত স্থান থেকে বৈশিষ্ট্যাবলী ও মেইল ফোল্ডার ইম্পোর্ট করুন">
-<!ENTITY importItems.title "ইম্পোর্ট করার উদ্দেশ্যে চিহ্নিত বিষয়বস্তু">
-<!ENTITY importItems.label "ইম্পোর্ট করার যোগ্য বস্তু নির্বাচন করুন:">
+<!ENTITY importSource.title "সেটিং এবং মেইল ফোল্ডার ইমপোর্ট করা হবে">
+<!ENTITY importItems.title "ইমপোর্টের আইটেম">
+<!ENTITY importItems.label "কোন আইটেম ইমপোর্ট করতে হবে নির্বাচন করা হবে:">
 
-<!ENTITY migrating.title "ইম্পোর্ট করা হচ্ছে...">
-<!ENTITY migrating.label "নিম্নলিখিত বস্তুগুলি বর্তমানে ইম্পোর্ট করা হচ্ছে...">
+<!ENTITY migrating.title "ইমপোর্ট করা হচ্ছে...">
+<!ENTITY migrating.label "নিম্নলিখিত আইটেম বর্তমানে ইমপোর্ট করা হয়েছে...">
 
 <!ENTITY selectProfile.title "প্রোফাইল নির্বাচন করুন">
-<!ENTITY selectProfile.label "নিম্নলিখিত প্রোফাইলগুলি থেকে বর্তমানে ইম্পোর্ট করা সম্ভব:">
+<!ENTITY selectProfile.label "নিম্নলিখিত প্রোফাইল যে স্থান থেকে ইমপোর্ট করা যাবে:">
 
-<!ENTITY done.title "ইম্পোর্ট কর্ম সমাপ্ত">
-<!ENTITY done.label "নিম্নলিখিত বস্তুগুলি সাফল্যের সাথে ইম্পোর্ট করা হয়েছে:">
+<!ENTITY done.title "ইমপোর্ট শেষ হয়েছে">
+<!ENTITY done.label "নিম্নলিখিত আইটেম সফলভাবে ইমপোর্ট করা হয়েছিল:">

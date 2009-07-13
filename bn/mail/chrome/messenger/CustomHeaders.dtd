@@ -1,7 +1,7 @@
-<!ENTITY window.title "হেডার স্বনির্বাচন করুন">
+<!ENTITY window.title "স্বনির্বাচন শীর্ষচরণ">
 <!ENTITY addButton.label "যোগ করুন (A)">
 <!ENTITY addButton.accesskey "A">
-<!ENTITY removeButton.label "মুছে ফেলুন (R)">
+<!ENTITY removeButton.label "অপসারণ করুন (R)">
 <!ENTITY removeButton.accesskey "R">
-<!ENTITY newMsgHeader.label "নতুন বার্তা হেডার (N):">
+<!ENTITY newMsgHeader.label "নতুন বার্তার শীর্ষচরণ (N):">
 <!ENTITY newMsgHeader.accesskey "N">

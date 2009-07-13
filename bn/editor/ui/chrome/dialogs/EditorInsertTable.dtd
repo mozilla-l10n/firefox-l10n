@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "সারনী প্রবেশ করান">
+<!ENTITY windowTitle.label "সারণি">
 
 <!ENTITY size.label "আকার">
 <!ENTITY numRowsEditField.label "সারি (R):">
@@ -47,5 +47,5 @@
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY borderEditField.label "সীমানা (B):">
 <!ENTITY borderEditField.accessKey "B">
-<!ENTITY borderEditField.tooltip "সারনীর সীমানার জন্য একটি সংখ্যা টাইপ করুন, বা কোনো সীমান না দেয়ার জন্য শূন্য (০) টাইপ করুন">
+<!ENTITY borderEditField.tooltip "সারণির সীমানা দিতে একটি সংখ্যা টাইপ করুন, বা কোনো সীমানা না দিতে শূন্য (0) টাইপ করুন">
 <!ENTITY pixels.label "পিক্সেল">

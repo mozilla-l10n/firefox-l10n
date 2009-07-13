@@ -40,38 +40,38 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "ছবি ম্যাপ সম্পাদক">
+<!ENTITY windowTitle.label "ছবির ম্যাপ সম্পাদক">
 <!-- Menu Items -->
 <!-- File menu -->
 
 <!ENTITY mapfileMenu.label "ফাইল (F)">
 <!ENTITY mapfileMenu.accesskey "f">
-<!ENTITY clearCmd.label "পরিষ্কার করুন (a)">
+<!ENTITY clearCmd.label "পরিষ্কার (a)">
 <!ENTITY clearCmd.accesskey "a">
-<!ENTITY closeCmd.label "বন্ধ করুন (C)">
+<!ENTITY closeCmd.label "বন্ধ (C)">
 <!ENTITY closeCmd.accesskey "c">
 <!-- Edit menu -->
 
-<!ENTITY mapeditMenu.label "সম্পাদনা করুন (E)">
+<!ENTITY mapeditMenu.label "সম্পাদনা (E)">
 <!ENTITY mapeditMenu.accesskey "e">
-<!ENTITY cutCmd.label "কাট (t)">
+<!ENTITY cutCmd.label "কাটা (t)">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "কপি (C)">
+<!ENTITY copyCmd.label "অনুলিপি (C)">
 <!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "পেস্ট (P)">
+<!ENTITY pasteCmd.label "প্রতিলেপন (P)">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY selectallCmd.label "সকল নির্বাচন করুন (S)">
+<!ENTITY selectallCmd.label "সব নির্বাচন (S)">
 <!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "হটস্পট বৈশিষ্ট্য (H)">
 <!ENTITY propsCmd.accesskey "h">
 <!-- View menu -->
 
-<!ENTITY mapviewMenu.label "প্রদর্শন (V)">
+<!ENTITY mapviewMenu.label "ভিউ (V)">
 <!ENTITY mapviewMenu.accesskey "v">
-<!ENTITY showhideTbarCmd.label "টুলবার লুকানো হবে (T)">
+<!ENTITY showhideTbarCmd.label "টুলবার লুকানো (T)">
 <!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label "মাপ (S)">
+<!ENTITY mapviewScale.label "আকার পরিবর্তন (S)">
 <!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "‍‍১০০ (1)">
 <!ENTITY apercentCmd.accesskey "1">
@@ -80,8 +80,8 @@
 <!ENTITY cpercentCmd.label "৪০০ (4)">
 <!ENTITY cpercentCmd.accesskey "4">
 
-<!ENTITY zoominCmd.label "বড় করে প্রদর্শন">
-<!ENTITY zoomoutCmd.label "ছোট করে প্রদর্শন">
+<!ENTITY zoominCmd.label "বড় আকারে প্রদর্শন">
+<!ENTITY zoomoutCmd.label "ছোট আকারে প্রদর্শন">
 <!-- Keys -->
 
 <!ENTITY clear.key "d">

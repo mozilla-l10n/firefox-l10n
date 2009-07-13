@@ -14,7 +14,6 @@
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "এক্সেল">
 
-<!ENTITY updateCmd.label "আপডেট পরীক্ষা করুন... (o)">
-<!ENTITY updateCmd.accesskey "o">
+<!ENTITY updateCmd.label "হালনাগাদের জন্য পরীক্ষা... (o)">
 <!ENTITY aboutCmd.label "&brandFullName; সম্পর্কিত (A)">
 <!ENTITY aboutCmd.accesskey "A">

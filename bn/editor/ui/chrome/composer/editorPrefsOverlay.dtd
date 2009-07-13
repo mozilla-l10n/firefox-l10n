@@ -3,7 +3,7 @@
 <!ENTITY editorCheck.label "Composer">
 <!ENTITY editorCheck.accesskey "c">
 
-<!ENTITY compose.label "কম্পোজার">
-<!ENTITY editing.label "নতুন পৃষ্ঠা সেটিং">
+<!ENTITY compose.label "রচনাকারক">
+<!ENTITY editing.label "নতুন পৃষ্ঠার সেটিং">
 <!ENTITY toolbars.label "টুলবার">
 <!ENTITY publish.label "প্রকাশ করা হচ্ছে">

@@ -34,15 +34,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "বাটন বৈশিষ্ট্য">
+<!ENTITY windowTitle.label "বোতামের বৈশিষ্ট্য">
 
 <!ENTITY Settings.label "সেটিং">
 
-<!ENTITY ButtonType.label "ধরন (T)">
+<!ENTITY ButtonType.label "ধরণ (T)">
 <!ENTITY ButtonType.accesskey "T">
-<!ENTITY submit.value "সাবমিট">
+<!ENTITY submit.value "জমা">
 <!ENTITY reset.value "রিসেট">
-<!ENTITY button.value "বাটন">
+<!ENTITY button.value "বোতাম">
 
 <!ENTITY ButtonName.label "নাম (N):">
 <!ENTITY ButtonName.accesskey "N">
@@ -52,8 +52,8 @@
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "নিষ্ক্রিয় (D)">
 <!ENTITY ButtonDisabled.accesskey "D">
-<!ENTITY AccessKey.label "এক্সেস কী (K):">
+<!ENTITY AccessKey.label "প্রবেশ কী (K):">
 <!ENTITY AccessKey.accesskey "K">
 
-<!ENTITY RemoveButton.label "বাটন মুছে দিন (R)">
+<!ENTITY RemoveButton.label "বোতাম সরিয়ে ফেলুন (R)">
 <!ENTITY RemoveButton.accesskey "R">

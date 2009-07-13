@@ -38,23 +38,23 @@
 <!-- extracted from EdReplace.xul -->
 
 
-<!ENTITY replaceDialog.title "খুজুন এবং প্রতিস্থাপন করুন">
-<!ENTITY findField.label "টেক্সট খুজুন (n):">
+<!ENTITY replaceDialog.title "খুঁজুন এবং প্রতিস্থাপন করুন">
+<!ENTITY findField.label "পাঠ্য অনুসন্ধান (n):">
 <!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "এটি দ্বারা প্রতিস্থাপন করুন (e):">
+<!ENTITY replaceField.label "এটি দ্বারা প্রতিস্থাপন (e):">
 <!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "সঠিক আকার মিলানো হবে (c)">
+<!ENTITY caseSensitiveCheckbox.label "সঠিক আকার মেলানো (c)">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "চারদিকে মোড়ানো হবে (W)">
+<!ENTITY wrapCheckbox.label "চারদিকে মোড়ানো (W)">
 <!ENTITY wrapCheckbox.accesskey "W">
-<!ENTITY backwardsCheckbox.label "পূর্ববর্তী অনুসন্ধান করুন (b)">
+<!ENTITY backwardsCheckbox.label "পূর্ববর্তী অনুসন্ধান (b)">
 <!ENTITY backwardsCheckbox.accesskey "b">
-<!ENTITY findNextButton.label "পরবর্তী খুজুন (F)">
+<!ENTITY findNextButton.label "পরবর্তী অনুসন্ধান (F)">
 <!ENTITY findNextButton.accesskey "F">
-<!ENTITY replaceButton.label "প্রতিস্থাপন করুন (R)">
+<!ENTITY replaceButton.label "প্রতিস্থাপন (R)">
 <!ENTITY replaceButton.accesskey "R">
-<!ENTITY replaceAndFindButton.label "প্রতিস্থাপন করুন এবং খুজুন (d)">
+<!ENTITY replaceAndFindButton.label "প্রতিস্থাপন এবং অনুসন্ধান (d)">
 <!ENTITY replaceAndFindButton.accesskey "d">
-<!ENTITY replaceAllButton.label "সকল প্রতিস্থাপন করুন (A)">
+<!ENTITY replaceAllButton.label "সব প্রতিস্থাপন (A)">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "বন্ধ করুন">

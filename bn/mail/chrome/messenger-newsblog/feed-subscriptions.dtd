@@ -1,18 +1,18 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Feed Subscriptions">
-<!ENTITY subscriptionDesc.label "নোট: একটি ফিডের জন্য ফোল্ডার সরানো বা পরিবর্তন করা হলে পূর্ববর্তী ডাউনলোড করা নিবন্ধগুলো প্রভাবিত হবে না।">
+<!ENTITY feedSubscriptions.label "ফিড সাবস্ক্রিপশন">
+<!ENTITY subscriptionDesc.label "নোট: একটি ফিডের জন্য ফোল্ডার সরানো বা পরিবর্তন করা হলে পূর্ববর্তীতে ডাউনলোড করা নিবন্ধগুলো প্রভাবিত হবে না।">
 <!ENTITY feedTitle.label "শিরোনাম:">
 <!ENTITY location.label "অবস্থান:">
 
-<!ENTITY button.addFeed.label "যোগ করুন (A)">
+<!ENTITY button.addFeed.label "যোগ (A)">
 <!ENTITY button.addFeed.accesskey "A">
-<!ENTITY button.editFeed.label "সম্পাদনা করুন (E)">
+<!ENTITY button.editFeed.label "সম্পাদনা (E)">
 <!ENTITY button.editFeed.accesskey "E">
-<!ENTITY button.removeFeed.label "সরান (R)">
+<!ENTITY button.removeFeed.label "সরানো (R)">
 <!ENTITY button.removeFeed.accesskey "R">
-<!ENTITY button.importOPML.label "ইম্পোর্ট করুন (I)">
+<!ENTITY button.importOPML.label "ইম্পোর্ট (I)">
 <!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label "এক্সপোর্ট করুন (x)">
+<!ENTITY button.exportOPML.label "এক্সপোর্ট (x)">
 <!ENTITY button.exportOPML.accesskey "X">
 
 <!ENTITY cmd.close.commandKey "w">

@@ -1,43 +1,43 @@
-<!ENTITY itemJunk.label "Junk">
-<!ENTITY itemPhishing.label "E-mail Scams">
-<!ENTITY itemPasswords.label "Passwords">
-<!ENTITY itemAntiVirus.label "Anti-Virus">
+<!ENTITY itemJunk.label "অপ্রয়োজনীয়">
+<!ENTITY itemPhishing.label "ই-মেইল স্ক্যাম">
+<!ENTITY itemPasswords.label "পাসওয়ার্ড">
+<!ENTITY itemAntiVirus.label "এন্টি-ভাইরাস">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings.">
-<!ENTITY manualMark.label "When I mark messages as junk:">
+<!ENTITY junkMail.intro "আপনার ডিফল্ট জাঙ্ক মেইল সেটিং নির্ধারণ করুন। একাউন্ট সেটিংয়ে একাউন্ট-উল্লেখিত জাঙ্ক মেইল সেটিং কনফিগার করা যেতে পারে।">
+<!ENTITY manualMark.label "আমি যখন বার্তাসমূহকে জাঙ্ক হিসেবে চিহ্নিত করি (W):">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMarkModeMove.label "তাদেরকে একাউন্টের &quot;অপ্রয়োজনীয় মেইল&quot; ফোল্ডারে সরিয়ে নেয়া হবে (o)">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Delete them">
+<!ENTITY manualMarkModeDelete.label "তাদেরকে মুছে ফেলা হবে (D)">
 <!ENTITY manualMarkModeDelete.accesskey "D">
-<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.label "অপ্রয়োজনীয় মেইল হিসেবে নির্ধারিত বার্তা পঠন হিসেবে চিহ্নিত করা হবে (M)">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.label "জাঙ্ক পরিশোধক লগিং সক্রিয় করা হবে (E)">
 <!ENTITY enableJunkLogging.accesskey "E">
-<!ENTITY openJunkLog.label "Show log">
+<!ENTITY openJunkLog.label "লগ প্রদর্শন করা হবে (S)">
 <!ENTITY openJunkLog.accesskey "S">
-<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.label "প্রশিক্ষণ ডেটা রিসেট করা হবে (R)">
 <!ENTITY resetTrainingData.accesskey "R">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro "&brandShortName; can analyze messages for suspected email scams by looking for common techniques used to deceive you.">
-<!ENTITY enablePhishingDetector1.label "Tell me if the message I'm reading is a suspected email scam">
+<!ENTITY phishingDetector1.intro "অনুরূপ কৌশল অনুসন্ধান করার মাধ্যমে, সন্দেহজনক ই-মেইল স্ক্যামের জন্য &brandShortName; বার্তাসমূহকে বিশ্লেষণ করতে পারে, যা আপনাকে ঠকাতে ব্যবহৃত হয়।">
+<!ENTITY enablePhishingDetector1.label "আমি যে বার্তাটি পড়ছি, তা যদি সন্দেহজনক ই-মেইল স্ক্যাম হয়, আমাকে বলা হবে (T)">
 <!ENTITY enablePhishingDetector1.accesskey "T">
-<!ENTITY useDownloadedList.label "Use a downloaded list of suspected email scams">
+<!ENTITY useDownloadedList.label "সন্দেহজনক ই-মেইল স্ক্যামের ডাউনলোডকৃত তালিকা ব্যবহার করা হবে (U)">
 <!ENTITY useDownloadedList.accesskey "U">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro "&brandShortName; can remember passwords for all of your accounts.">
-<!ENTITY useMasterPassword.label "Use a master password">
+<!ENTITY savedPasswords.intro "আপনার সকল একাউন্টের পাসওয়ার্ড &brandShortName; মনে রাখতে পারে।">
+<!ENTITY useMasterPassword.label "মাস্টার পাসওয়ার্ড ব্যবহার করা হবে (U)">
 <!ENTITY useMasterPassword.accesskey "U">
-<!ENTITY masterPassword.intro "A Master Password protects all your passwords, but you must enter it once per session.">
-<!ENTITY changeMasterPassword.label "Change Master Password…">
+<!ENTITY masterPassword.intro "মাস্টার পাসওয়ার্ড আপনার সকল পাসওয়ার্ড সুরক্ষিত রাখে, কিন্তু প্রতিটি অধিবেশনে কমপক্ষে একবার প্রবেশ করাতে হবে।">
+<!ENTITY changeMasterPassword.label "মাস্টার পাসওয়ার্ড পরিবর্তন করা হবে (C)">
 <!ENTITY changeMasterPassword.accesskey "C">
-<!ENTITY savedPasswords.label "Saved Passwords…">
+<!ENTITY savedPasswords.label "সংরক্ষিত পাসওয়ার্ড… (S)">
 <!ENTITY savedPasswords.accesskey "S">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro "&brandShortName; can make it easy for anti-virus software to analyze incoming mail messages for viruses before they are stored locally.">
-<!ENTITY antiVirus.label "Allow anti-virus clients to quarantine individual incoming messages">
+<!ENTITY antiVirus.intro "আসন্ন মেইল বার্তাসমূহ স্থানীয়ভাবে সংরক্ষণ করার পূর্বে, তারা ভাইরাস যুক্ত কিনা পরীক্ষা করতে, &brandShortName; এন্টি-ভাইরাস সফটওয়্যারের জন্য এটাকে সহজ করে।">
+<!ENTITY antiVirus.label "প্রতিটি আসন্ন বার্তা উপরোক্ত ব্যবস্থায় রাখতে, এন্টি-ভাইরাস ক্লায়েন্টকে অনুমোদন করা হবে (A)">
 <!ENTITY antiVirus.accesskey "A">

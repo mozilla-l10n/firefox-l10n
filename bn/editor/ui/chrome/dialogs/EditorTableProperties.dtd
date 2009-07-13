@@ -35,11 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY tableWindow.title "সারনীর বৈশিষ্ট্য">
-<!ENTITY applyButton.label "কার্যকর করুন (A)">
+<!ENTITY tableWindow.title "সারণির বৈশিষ্ট্য">
+<!ENTITY applyButton.label "প্রয়োগ (A)">
 <!ENTITY applyButton.accesskey "A">
-<!ENTITY closeButton.label "বন্ধ করুন4">
-<!ENTITY tableTab.label "সারনী">
+<!ENTITY closeButton.label "বন্ধ করুন">
+<!ENTITY tableTab.label "সারণি">
 <!ENTITY cellTab.label "ঘর">
 <!ENTITY tableRows.label "সারি (R):">
 <!ENTITY tableRows.accessKey "R">
@@ -49,25 +49,25 @@
 <!ENTITY tableHeight.accessKey "G">
 <!ENTITY tableWidth.label "প্রস্থ (W):">
 <!ENTITY tableWidth.accessKey "W">
-<!ENTITY tableBorderSpacing.label "সীমানা এবং স্পেসিং">
+<!ENTITY tableBorderSpacing.label "সীমানা এবং ফাঁকা জায়গা">
 <!ENTITY tableBorderWidth.label "সীমানা (B):">
 <!ENTITY tableBorderWidth.accessKey "B">
-<!ENTITY tableSpacing.label "স্পেসিং (S):">
+<!ENTITY tableSpacing.label "ফাঁকা জায়গা (S):">
 <!ENTITY tableSpacing.accessKey "S">
 <!ENTITY tablePadding.label "প্যাডিং (P):">
 <!ENTITY tablePadding.accessKey "P">
 <!ENTITY tablePxBetwCells.label "ঘরের মধ্যবর্তী পিক্সেল">
 <!ENTITY tablePxBetwBrdrCellContent.label "ঘরের সীমানা এবং বিষয়বস্তুর মধ্যবর্তী পিক্সেল">
-<!ENTITY tableAlignment.label "সারনী সাজানো (T):">
+<!ENTITY tableAlignment.label "সারণি সাজানো (T):">
 <!ENTITY tableAlignment.accessKey "T">
 <!ENTITY tableCaption.label "ক্যাপশন (n):">
 <!ENTITY tableCaption.accessKey "N">
-<!ENTITY tableCaptionAbove.label "সারনীর ওপরে">
-<!ENTITY tableCaptionBelow.label "সারনীর নিচে">
-<!ENTITY tableCaptionLeft.label "সারনীর বামে">
-<!ENTITY tableCaptionRight.label "সারনীর ডানে">
-<!ENTITY tableCaptionNone.label "কিছু নয়">
-<!ENTITY tableInheritColor.label "(পৃষ্ঠার রং দেখা যেতে দেয়া হোক)">
+<!ENTITY tableCaptionAbove.label "সারণির ‌উপরে">
+<!ENTITY tableCaptionBelow.label "সারণির নিচে">
+<!ENTITY tableCaptionLeft.label "সারণির বামে">
+<!ENTITY tableCaptionRight.label "সারণির ডানে">
+<!ENTITY tableCaptionNone.label "কোনোটি নয়">
+<!ENTITY tableInheritColor.label "(বিষয়বস্তু ভেদ করে পৃষ্ঠার রং দেখানো হবে)">
 
 <!ENTITY cellSelection.label "নির্বাচন">
 <!ENTITY cellSelectCell.label "ঘর">
@@ -77,26 +77,26 @@
 <!ENTITY cellSelectNext.accessKey "N">
 <!ENTITY cellSelectPrevious.label "পূর্ববর্তী (P)">
 <!ENTITY cellSelectPrevious.accessKey "P">
-<!ENTITY applyBeforeChange.label "নির্বাচন পরিবর্তন করার পূর্বে বর্তমান পরিবর্তন কার্যকর করা হবে।">
+<!ENTITY applyBeforeChange.label "নির্বাচিত অংশ পরিবর্তন করার পূর্বে বর্তমান পরিবর্তন কার্যকর করা হবে।">
 <!ENTITY cellContentAlignment.label "বিষয়বস্তু সাজানো">
 <!ENTITY cellHorizontal.label "অনুভূমিক (z):">
 <!ENTITY cellHorizontal.accessKey "Z">
-<!ENTITY cellVertical.label "উলম্ব (V):">
+<!ENTITY cellVertical.label "উল্লম্ব (V):">
 <!ENTITY cellVertical.accessKey "V">
-<!ENTITY cellStyle.label "ঘরের স্টাইল (C):">
+<!ENTITY cellStyle.label "ঘরের শৈলী (C):">
 <!ENTITY cellStyle.accessKey "C">
 <!ENTITY cellNormal.label "সাধারন">
-<!ENTITY cellHeader.label "হেডার">
-<!ENTITY cellTextWrap.label "টেক্সট মোড়ানো (T):">
+<!ENTITY cellHeader.label "শীর্ষচরণ">
+<!ENTITY cellTextWrap.label "পাঠ্য মোড়ানো (T):">
 <!ENTITY cellTextWrap.accessKey "T">
-<!ENTITY cellWrap.label "মোড়ানো হবে">
+<!ENTITY cellWrap.label "মোড়ানো">
 <!ENTITY cellNoWrap.label "মোড়ানো হবে না">
-<!ENTITY cellAlignTop.label "ওপরে">
-<!ENTITY cellAlignMiddle.label "মাঝামাঝি">
+<!ENTITY cellAlignTop.label "শীর্ষে">
+<!ENTITY cellAlignMiddle.label "মধ্যে">
 <!ENTITY cellAlignBottom.label "নিচে">
-<!ENTITY cellAlignJustify.label "সুবিধাজনক">
-<!ENTITY cellInheritColor.label "(সারনীর রং দেখা যেতে দেয়া হোক)">
-<!ENTITY cellUseCheckboxHelp.label "নির্বাচিত ঘরে কোন বৈশিষ্ট্য কার্যকর করা হয়েছে তা নির্ধারন করার জন্য চেকবক্স ব্যবহার করুন">
+<!ENTITY cellAlignJustify.label "উভয়প্রান্তিক">
+<!ENTITY cellInheritColor.label "(বিষয়বস্তু ভেদ করে সারণির রং দেখানো হবে)">
+<!ENTITY cellUseCheckboxHelp.label "সব নির্বাচিত ঘরে, কোন বৈশিষ্ট্য প্রয়োগ করা হবে তা নির্ধারন করার জন্য চেক বাক্স ব্যবহার করুন">
 <!-- Used in both Table and Cell panels  -->
 
 <!ENTITY size.label "আকার">
@@ -104,5 +104,5 @@
 <!ENTITY backgroundColor.label "পটভূমির রং (B):">
 <!ENTITY backgroundColor.accessKey "B">
 <!ENTITY AlignLeft.label "বাম">
-<!ENTITY AlignCenter.label "মাঝামাঝি">
+<!ENTITY AlignCenter.label "কেন্দ্র">
 <!ENTITY AlignRight.label "ডান">

@@ -44,8 +44,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 
-<!ENTITY importDialog.windowTitle "ইম্পোর্ট করুন">
-<!ENTITY importAll.label "সবকিছু ইম্পোর্ট করুন (E)">
+<!ENTITY importDialog.windowTitle "ইমপোর্ট">
+<!ENTITY importAll.label "সবকিছু ইমপোর্ট করুন (E)">
 <!ENTITY importAll.accesskey "E">
 <!ENTITY importMail.label "মেইল (M)">
 <!ENTITY importMail.accesskey "M">
@@ -53,34 +53,34 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label "সেটিং (S)">
 <!ENTITY importSettings.accesskey "S">
-<!ENTITY importFilters.label "ফিল্টার (F)">
+<!ENTITY importFilters.label "পরিশোধক (F)">
 <!ENTITY importFilters.accesskey "F">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
+<!ENTITY window.width "৪০এম">
+<!ENTITY window.macWidth "৪৫এম">
 
-<!ENTITY importTitle.label "&brandShortName; ইম্পোর্ট উইজার্ড">
-<!ENTITY importShortDesc.label "অন্য প্রোগ্রাম থেকে মেইল, ঠিকানার বই, সেটিং, এবং ফিল্টার ইম্পোর্ট করুন">
+<!ENTITY importTitle.label "&brandShortName; ইমপোর্ট উইজার্ড">
+<!ENTITY importShortDesc.label "অন্য প্রোগ্রাম থেকে মেইল, ঠিকানার বই, সেটিং, এবং পরিশোধক ইমপোর্ট করুন">
 
-<!ENTITY importDescription1.label "এই উইজার্ড অন্য মেইল প্রোগ্রাম থেকে মেইল বার্তা, ঠিকানার বইয়ের এন্ট্রি, পছন্দসমূহ, ফিল্টার এবং সাধারন ঠিকানার বইয়ের ফরম্যাট &brandShortName; এ ইম্পোর্ট করে।">
-<!ENTITY importDescription2.label "একবার এগুলো ইম্পোর্ট করা হলে আপনি &brandShortName; থেকেই এগুলো এক্সেস করতে পারবেন।">
+<!ENTITY importDescription1.label "এই উইজার্ডটি অন্য মেইল প্রোগ্রাম এবং অনুরূপ ঠিকানার বইয়ের বিন্যাস থেকে মেইল বার্তা, ঠিকানার বইয়ের ভুক্তি, পছন্দসমূহ, এবং/বা পরিশোধক &brandShortName;-তে ইমপোর্ট করবে।">
+<!ENTITY importDescription2.label "একবার তাদের ইমপোর্ট করা হয়ে গেলে, আপনি &brandShortName; এর অভ্যন্তর থেকে তাদেরকে ব্যবহার করতে পারবেন।">
 
-<!ENTITY selectDescription.label "অনুগ্রহ করে নির্বাচন করুন আপনি কি ধরনের ফাইল ইম্পোর্ট করতে চান (P):">
+<!ENTITY selectDescription.label "আপনি কি ধরনের ফাইল ইমপোর্ট করতে চান, অনুগ্রহ করে নির্বাচন করুন (P):">
 <!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label "&lt; পূর্ববর্তী">
 <!ENTITY forward.label "পরবর্তী &gt;">
-<!ENTITY finish.label "সম্পন্ন">
+<!ENTITY finish.label "শেষ">
 <!ENTITY cancel.label "বাতিল">
 
-<!ENTITY select.label "বা কি ধরনের ম্যাটেরিয়াল ইম্পোর্ট করতে চান তা নির্বাচন করুন:">
+<!ENTITY select.label "বা ইমপোর্ট করার জন্য বস্তুর ধরন নির্বাচন করুন:">
 
 <!ENTITY title.label "শিরোনাম">
-<!ENTITY processing.label "ইম্পোর্ট করা হচ্ছে...">
+<!ENTITY processing.label "ইমপোর্ট করছে...">
 
-<!ENTITY FieldDiscInputText1.label "নেটস্কেপ কমিউনিকেটর ৪.x এর প্রতিটি কার্ডের জন্য একটি মেইলিং ঠিকানা আছে, যেখানে &brandShortName; এর দুটি আছে (বাসা এবং অফিস)।">
-<!ENTITY FieldDiscInputText2.label "যে ক্যাটেগরিতে আপনি ইম্পোর্ট করা মেইল ঠিকানা সংরক্ষন করতে চান তা নির্বাচন করুন:">
-<!ENTITY FieldDiscWarning.label "নির্বাচিত ঠিকানার বইয়ের সকল এন্ট্রির জন্য এই ক্যাটেগরি ব্যবহৃত হবে:">
+<!ENTITY FieldDiscInputText1.label "প্রতিটি কার্ডের জন্য নেটস্কেপ কমিউনিকেটর 4.x এর একটি মেইলকরণ ঠিকানা আছে, যেখানে &brandShortName; এর দুটি আছে (বাসা এবং অফিস)।">
+<!ENTITY FieldDiscInputText2.label "ইমপোর্টকৃত মেইলকরণ ঠিকানা যে শ্রেণীতে সংরক্ষণ করতে চান তা নির্বাচন করুন:">
+<!ENTITY FieldDiscWarning.label "এই শ্রেণীটি নির্বাচিত ঠিকানার বইয়ের সকল ভুক্তির জন্য ব্যবহৃত হবে:">
 <!ENTITY importHome.label "বাসা (H)">
 <!ENTITY importHome.accesskey "H">
 <!ENTITY importWork.label "অফিস (W)">

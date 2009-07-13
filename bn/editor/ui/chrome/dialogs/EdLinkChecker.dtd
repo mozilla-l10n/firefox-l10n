@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "ছবি এবং লিঙ্কের অবস্থান পরীক্ষা করুন">
+<!ENTITY windowTitle.label "ছবি এবং লিংকের অবস্থান পরীক্ষা করুন">
 <!ENTITY succeeded.label "সফল">
 <!ENTITY failed.label "ব্যর্থ">
 <!ENTITY closeButton.label "বন্ধ করুন">

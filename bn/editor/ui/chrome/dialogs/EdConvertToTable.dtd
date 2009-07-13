@@ -37,12 +37,12 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "টেবিলে রুপান্তর করুন">
-<!ENTITY instructions1.label "নির্বাচনের প্রতিটি অনুচ্ছেদের জন্য কম্পোজার সারনীতে একটি নতুন সারি তৈরি করে।">
-<!ENTITY instructions2.label "নির্বাচন কলামে পৃথক করার জন্য ব্যবহৃত ক্যারেক্টার নির্বাচন করুন:">
+<!ENTITY windowTitle.label "সারণিতে রূপান্তর">
+<!ENTITY instructions1.label "নির্বাচিত প্রতিটি অনুচ্ছেদের জন্য রচনাকারক একটি নতুন সারণি সারি তৈরী করে।">
+<!ENTITY instructions2.label "কলামগুলোতে নির্বাচন আলাদা করতে ব্যবহৃত অক্ষর বেছে নিন:">
 <!ENTITY commaRadio.label "কমা">
-<!ENTITY spaceRadio.label "ফাকা স্থান">
-<!ENTITY otherRadio.label "অন্যান্য ক্যারেক্টার:">
-<!ENTITY deleteCharCheck.label "পৃথক করার ক্যারেক্টার মুছে দিন">
-<!ENTITY collapseSpaces.label "অতিরিক্ত ফাকা স্থান উপেক্ষা করা হবে">
-<!ENTITY collapseSpaces.tooltip "পরপর একাধিক ফাকা স্থানকে একটি পৃথককারীতে পরিনত করা হবে">
+<!ENTITY spaceRadio.label "ফাঁকা স্থান">
+<!ENTITY otherRadio.label "অন্যান্য অক্ষর:">
+<!ENTITY deleteCharCheck.label "বিভাজক অক্ষর মুছে দেয়া হবে">
+<!ENTITY collapseSpaces.label "অতিরিক্ত ফাঁকা স্থান উপেক্ষা করা হবে">
+<!ENTITY collapseSpaces.tooltip "নিকটবর্তী একাধিক ফাঁকা স্থানকে একটি বিভাজকে পরিণত করা হবে">

@@ -38,57 +38,55 @@
 <!ENTITY toField2.label "প্রাপক">
 <!ENTITY fromField2.label "প্রেরক">
 <!ENTITY senderField2.label "প্রেরক">
-<!ENTITY organizationField2.label "অর্গানাইজেশন">
-<!ENTITY replyToField2.label "জবাব দেয়া হবে">
+<!ENTITY organizationField2.label "প্রতিষ্ঠান">
+<!ENTITY replyToField2.label "উত্তর দেয়ার ঠিকানা">
 
 <!ENTITY subjectField2.label "বিষয়">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "অন্ধ অবিকল অনুলিপি">
+<!ENTITY bccField2.label "bcc">
 <!ENTITY newsgroupsField2.label "নিউজগ্রুপ">
-<!ENTITY followupToField2.label "অনুসরন করা হবে">
+<!ENTITY followupToField2.label "অনুসরণ করা হবে">
 <!ENTITY tagsHdr2.label "ট্যাগ">
 <!ENTITY dateField2.label "তারিখ">
 <!ENTITY userAgentField2.label "ব্যবহারকারী-এজেন্ট">
 <!ENTITY referencesField2.label "রেফারেন্স">
-<!ENTITY messageIdField2.label "বার্তা-আইডি">
-<!ENTITY inReplyToField2.label "এর জবাবে">
+<!ENTITY messageIdField2.label "বার্তা-id">
+<!ENTITY inReplyToField2.label "এর উত্তরে">
 <!ENTITY originalWebsite2.label "ওয়েবসাইট">
 
 <!ENTITY editMessageDescription.label "এটি একটি খসড়া বার্তা">
 <!ENTITY editMessageButton.label "সম্পাদনা...">
 <!ENTITY archiveButton.label "আর্কাইভ">
-<!ENTITY hdrReplyButton.label "জবাব দিন">
-<!ENTITY hdrReplyAllButton.label "সকলকে জবাব দিন">
+<!ENTITY hdrReplyButton.label "উত্তর">
+<!ENTITY hdrReplyAllButton.label "সবাই কে উত্তর দেয়া হবে">
+<!ENTITY hdrReplyListButton.label "উত্তর প্রেরণের ঠিকানা">
 <!ENTITY hdrForwardButton.label "ফরওয়ার্ড">
-<!ENTITY hdrJunkButton.label "জাঙ্ক">
-<!ENTITY trashButton.tooltiptext "মুছে ফেলুন">
+<!ENTITY hdrJunkButton.label "অপ্রয়োজনীয়">
+<!ENTITY trashButton.tooltiptext "মুছে ফেলা">
 
 <!ENTITY otherActionsButton.label "অন্যান্য ক্রিয়া">
-<!ENTITY saveAsMenuItem.label "নতুনভাবে সংরক্ষন করুন... (s)">
+<!ENTITY saveAsMenuItem.label "নতুনভাবে সংরক্ষন... (s)">
 <!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "উৎস দেখুন... (v)">
+<!ENTITY viewSourceMenuItem.label "সোর্স দেখা... (v)">
 <!ENTITY viewSourceMenuItem.accesskey "V">
-
-<!ENTITY hideDetailsButton.label "বিস্তারিত লুকানো হবে">
-<!ENTITY showDetailsButton.label "বিস্তারিত দেখানো হবে">
 
 <!ENTITY openAttachmentCmd.label "খুলুন (O)">
 <!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "নতুনভাবে সংরক্ষন করুন... (A)">
+<!ENTITY saveAsAttachmentCmd.label "নতুনভাবে সংরক্ষন... (A)">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label "খুলে ফেলুন…">
-<!ENTITY deleteAttachmentCmd.label "মুছে ফেলুন">
-<!ENTITY saveAllAttachmentsCmd.label "সকল সংরক্ষন করুন... (S)">
+<!ENTITY detachAttachmentCmd.label "আলাদা করা…">
+<!ENTITY deleteAttachmentCmd.label "মুছে ফেলা">
+<!ENTITY saveAllAttachmentsCmd.label "সব সংরক্ষন... (S)">
 <!ENTITY saveAllAttachmentsCmd.accesskey "S">
-<!ENTITY detachAllAttachmentsCmd.label "সকল খুলে ফেলুন... (D)">
+<!ENTITY detachAllAttachmentsCmd.label "সব আলাদা করা... (D)">
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label "সকল মুছে ফেলুন... (e)">
+<!ENTITY deleteAllAttachmentsCmd.label "সব মুছে ফেলা... (e)">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
 
-<!ENTITY copyLinkCmd.label "লিঙ্কের অবস্থান কপি করুন (C)">
+<!ENTITY copyLinkCmd.label "লিংকের অবস্থান অনুলিপি করা (C)">
 <!ENTITY copyLinkCmd.accesskey "C">
 
-<!ENTITY CopyMessageId.label "বার্তা আইডি কপি করুন">
-<!ENTITY OpenMessageForMsgId.label "আইডি এর জন্য বার্তা খুলুন">
-<!ENTITY OpenBrowserWithMsgId.label "বার্তা-আইডি সহ ব্রাউজার খুলুন">
+<!ENTITY CopyMessageId.label "বার্তার ID অনুলিপি করা হবে">
+<!ENTITY OpenMessageForMsgId.label "ID এর জন্য বার্তা খোলা হবে">
+<!ENTITY OpenBrowserWithMsgId.label "বার্তা-ID সহ ব্রাউজার খোলা হবে">

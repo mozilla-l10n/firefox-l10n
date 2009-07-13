@@ -1,24 +1,24 @@
 <!ENTITY offlineDialog.title "অফলাইন সেটিং">
 
-<!ENTITY textStartUp "শুরু করার সময়:">
-<!ENTITY radioRememberPrevState.label "পূর্ববর্তী অনলাইন স্টেট মনে রাখা হবে (R)">
+<!ENTITY textStartUp "আরম্ভ করার সময়:">
+<!ENTITY radioRememberPrevState.label "পূর্ববর্তী অনলাইন অবস্থা স্মরণ রাখা হবে (R)">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "শুরু করার সময় আমাকে অনলাইন স্টেটের কথা জিজ্ঞেস করা হবে (u)">
+<!ENTITY radioAskMe.label "আরম্ভ করার সময়, আমাকে অনলাইন অবস্থা সম্পর্কে জিজ্ঞাস করা হবে (u)">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "সর্বদা অনলাইন শুরু করা হবে (l)">
+<!ENTITY radioAlwaysOnline.label "সর্বদা অনলাইন আরম্ভ করা হবে (l)">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline "অনলাইনে যাওয়ার পূর্বে প্রেরন না করা বার্তা পাঠানো হবে?">
+<!ENTITY textGoingOnline "অনলাইনে যাওয়ার সময় অপ্রেরিত বার্তা পাঠাবেন কি?">
 <!ENTITY radioAutoSend.label "হ্যাঁ (Y)">
 <!ENTITY radioAutoSend.accesskey "Y">
 <!ENTITY radioNotSend.label "না (N)">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "আমাকে জিজ্ঞেস করা হবে (s)">
+<!ENTITY radioAskUnsent.label "আমাকে জিজ্ঞাস করা হবে (s)">
 <!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "অফলাইনে যাওয়ার সময় অফলাইনের জন্য বার্তা ডাউনলোড করা হবে?">
+<!ENTITY textGoingOffline "অফলাইনে যাওয়ার সময়, অফলাইনে ব্যবহারের জন্য বার্তাসমূহ ডাউনলোড করবেন কি?">
 <!ENTITY radioAutoDownload.label "হ্যাঁ (e)">
 <!ENTITY radioAutoDownload.accesskey "e">
 <!ENTITY radioNotDownload.label "না (o)">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "আমাকে জিজ্ঞেস করা হবে (A)">
+<!ENTITY radioAskDownload.label "আমাকে জিজ্ঞাস করা হবে (A)">
 <!ENTITY radioAskDownload.accesskey "a">

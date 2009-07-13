@@ -1,179 +1,144 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problem loading page">
-<!ENTITY retry.label "Try Again">
-
+<!ENTITY loadError.label "পৃষ্ঠা লোড করতে ত্রুটি">
+<!ENTITY retry.label "আবার চেষ্টা করুন">
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Unable to connect">
+
+<!ENTITY connectionFailure.title "সংযুক্ত হতে ব্যর্থ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "This address is restricted">
-<!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY dnsNotFound.title "Server not found">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
-</ul>
+<!ENTITY deniedPortAccess.title "এই ঠিকানাটি সীমাবদ্ধ">
+<!ENTITY deniedPortAccess.longDesc "_: deniedPortAccess.longDesc
 ">
 
-<!ENTITY fileNotFound.title "File not found">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
-  <li>Check to see if the file was moved, renamed or deleted.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>আপনার দেয়া ঠিকানাটি ভুল হয়েছে কিনা পরীক্ষা করে দেখুন।
+<strong>www</strong>.example.com এর পরিবর্তে 
+<strong>ww</strong>.example.com লিখেছেন কিনা</li> 
+<li>আপনি যদি কোন পৃষ্ঠাই লোড করতে না পারেন, তবে আপনার কম্পিউটারের 
+নেটওয়ার্ক সংযোগ পরীক্ষা করুন।</li> 
+<li>আপনার নেটওয়ার্ক যদি ফায়ারওয়াল বা প্রক্সি দিয়ে সুরক্ষিত থাকে, নিশ্চিত করুন 
+&brandShortName; এর নেটওয়ার্কে প্রবেশ অনুমোদিত কিনা।</li> 
+</ul>">
 
-<!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName; can't load this page for some reason.</p>
-">
+<!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>ফাইলের নামে অক্ষরের ছাঁদ বা টাইপিং এ কোন ভুল আছে কিনা পরীক্ষা করুন।</li> 
+<li>এও পরীক্ষা করুন ফাইলটি নামান্তর, স্থানান্তর, বা অপসারণ করা হয়েছে কিনা।</li> 
+</ul>">
 
-<!ENTITY malformedURI.title "The address isn't valid">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Web addresses are usually written like
-    <strong>http://www.example.com/</strong></li>
-  <li>Make sure that you're using forward slashes (i.e.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY generic.title "ওহো!">
+<!ENTITY generic.longDesc "<p>&brandShortName; কোন কারনে পৃষ্ঠাটি লোড করতে পারেনি।</p>">
 
-<!ENTITY netInterrupt.title "The connection was interrupted">
+<!ENTITY malformedURI.title "ঠিকানাটি কার্যকর নয়">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>ওয়েব অ্যাড্রেস সাধারণত লেখা হয় এভাবে 
+<strong>http://www.example.com/</strong></li> 
+<li>আপনি কি ফরোয়ার্ড স্ল্যাশ (তথা, <strong>/</strong>) 
+সঠিকভাবে ব্যবহার করছেন?</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "সংযোগটি বিঘ্নিত হয়েছিল">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>Place &brandShortName; in online mode, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.title "অফলাইন মোড">
+<!ENTITY netOffline.longDesc "<ul> 
+<li>&brandShortName; কে অনলাইন মোডে চালু করে আবার চেষ্টা করুন।</li> 
+</ul>">
 
-<!ENTITY contentEncodingError.title "Content encoding error">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.title "বিষয়বস্তু এনকোড করতে ত্রুটি">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>ওয়েবসাইটের কতৃপক্ষকে এই সমস্যা সম্পর্কে অবহিত করুন।</li> 
+</ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe file type">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.title "ঝুঁকিপুর্ণ ধরণের ফাইল">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>ওয়েবসাইটের কতৃপক্ষকে এই সমস্যা সম্পর্কে অবহিত করুন।</li> 
+</ul>">
 
-<!ENTITY netReset.title "The connection was reset">
+<!ENTITY netReset.title "সংযোগটি রিসেট হয়েছিল">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "The connection has timed out">
+<!ENTITY netTimeout.title "সংযোগটির সময়উত্তীর্ন হয়ে গেছে">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "The address wasn't understood">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
+<!ENTITY protocolNotFound.title "ঠিকানাটি সঠিকভাবে নিরূপণ করা যায়নি">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>এই ঠিকানা খুলতে আপনাকে অন্যান্য সফটওয়্যার ইনস্টল করতে হতে পারে।</li> 
+</ul>">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.title "প্রক্সি সার্ভারটি সংযোগ প্রত্যাখ্যান করছে">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>প্রক্সি সেটিং ঠিক আছে কিনা পরীক্ষা করুন।</li> 
+<li>আপনার নেটওয়ার্ক ব্যবস্থাপকের সাথে যোগাযোগ করে জেনে নিন প্রক্সি সার্ভার ঠিক মতো  
+কাজ করছে কিনা।</li> 
+</ul>">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
-<!ENTITY proxyResolveFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your computer has a working network connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.title "প্রক্সি সার্ভার খুঁজে পাওয়া যায়নি">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>প্রক্সি সেটিং ঠিক আছে কিনা পরীক্ষা করুন।</li> 
+<li>নেটওয়ার্ক সংযোগ সক্রিয় আছে কিনা পরীক্ষা করুন।</li> 
+<li>আপনার নেটওয়ার্ক যদি ফায়ারওয়াল বা প্রক্সি দিয়ে সুরক্ষিত থাকে, নিশ্চিত করুন 
+&brandShortName; এর নেটওয়ার্কে প্রবেশ অনুমোদিত কিনা।</li> 
+</ul>">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
-</ul>
-">
+<!ENTITY redirectLoop.title "পৃষ্ঠাটি সঠিকভাবে রিডিরেক্ট করছে না">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>কুকি নিষ্ক্রিয় বা গ্রহন না করার ফলেও এই ত্রুটি দেখা দেয়া সম্ভব।
+</li> 
+</ul>">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
-</ul>
-">
+<!ENTITY unknownSocketType.title "সার্ভার থেকে অপ্রত্যাশিত উত্তর">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>নিশ্চিত করুন যে আপনার সিস্টেমে ব্যক্তিগত নিরাপত্তা ব্যবস্থাপক ইনস্টল 
+করা আছে।</li> 
+<li>সার্ভারে আদর্শ কনফিগারেশন না থাকার ফলে এটি হবার সম্ভবনা আছে।</li> 
+</ul>">
 
-<!ENTITY nssFailure2.title "Secure connection failed">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY nssFailure2.title "সুরক্ষিত সংযোগ ব্যর্থ">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>আপনি যে পৃষ্ঠাটি দেখতে চাচ্ছেন তা প্রদর্শন করা সম্ভব হচ্ছে না কারন প্রাপ্ত তথ্যের সত্যতা যাচাই করা যায়নি।</li> 
+<li>ওয়েবসাইটের কতৃপক্ষকে এই সমস্যা সম্পর্কে অবহিত করুন।</li> 
+</ul>">
 
-<!ENTITY nssBadCert.title "Secure connection failed">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
-</ul>
-">
+<!ENTITY nssBadCert.title "সুরক্ষিত সংযোগ ব্যর্থ">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>এটি সার্ভারের কনফিগারেশন সমস্যার কারনে হতে পারে, অথবা এমন হতে পারে 
+কেউ সার্ভারটির রূপ ধারণ করার চেষ্টা করছে।</li> 
+<li>আপনি যদি পূর্বে এই সার্ভারের সাথে সফলভাবে সংযুক্ত হয়ে থাকেন, এটি একটি অস্থায়ী 
+ত্রুটি হতে পারে, অতএব কিছুক্ষণ পর আবার চেষ্টা করুন।</li> 
+</ul>">
 
-<!ENTITY sharedLongDesc "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few
-    moments.</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc "<ul> 
+<li>সাইটটি অস্থায়ীভাবে অনুপস্থিত বা ব্যস্ত হতে পারে। কিছুক্ষণ পর আবার 
+চেষ্টা করুন।</li> 
+<li>আপনি যদি কোন পৃষ্ঠাই লোড করতে না পারেন, তবে আপনার কম্পিউটারের 
+নেটওয়ার্ক সংযোগ পরীক্ষা করুন।</li> 
+<li>আপনার নেটওয়ার্ক যদি ফায়ারওয়াল বা প্রক্সি দিয়ে সুরক্ষিত থাকে, নিশ্চিত করুন 
+&brandShortName; এর নেটওয়ার্কে প্রবেশ অনুমোদিত কিনা।</li> 
+</ul>">
 
-<!ENTITY malwareBlocked.title "Suspected attack site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo'>request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.title "সন্দেহজনক আক্রমনকারী সাইট!">
+<!ENTITY malwareBlocked.longDesc "<p> আক্রমনকারী সাইট এমন প্রোগ্রাম ইনস্টল করার চেষ্টা করে যা কিনা আপনার ব্যক্তিগত তথ্য চুরি করে, আপনার সিস্টেম ব্যবহার করে অন্যদের আক্রমন করে বা আপনার সিস্টেমের ক্ষতি সাধন করে।</p> 
+<p>যেসকল ওয়েবসাইট কতৃপক্ষ মনে করেন তাদের সাইট অযাচিতভাবে আক্রমনকারী সাইট হিসেবে গন্য হয়েছে, তারা এই ঠিকানায় <a href='http://www.stopbadware.org/home/reviewinfo'>পুনঃবিবেচনার আবেদন</a> করতে পারেন।</p>">
 
-<!ENTITY phishingBlocked.title "Suspected web forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.title "সন্দেহজনক ওয়েব জালিয়াতি!">
+<!ENTITY phishingBlocked.longDesc "<p>এই পৃষ্ঠায় ব্যক্তিগত তথ্য প্রবেশ করলে পরিচয় প্রতারণার শিকার হওয়ার সম্ভবনা আছে।</p> 
+<p>এই ধরণের ওয়েব জালিয়াতি ফিসিং নামে পরিচিত, যাতে আপনার বিশ্বস্ত ওয়েব পেজ বা ইমেইল নকল করার  মাধ্যমে আপনাকে প্রতারনা করা হয়।</p>">
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
-
+<!ENTITY securityOverride.linkText "অথবা একটি এক্সেপশন যোগ করতে পারেন...">
+<!ENTITY securityOverride.getMeOutOfHereButton "আমাকে এখান থেকে উদ্ধার করো!">
+<!ENTITY securityOverride.exceptionButtonLabel "এক্সেপশন যোগ...">
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningText "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
+<!ENTITY securityOverride.warningText "<p>আপনার ইন্টারনেট সংযোগটি সম্পূর্ণ বিশ্বস্ত না হলে, বা আপনি আগে কখনো এই সার্ভার থেকে সতর্কবার্তা না পেয়ে থাকলে, এক্সেপশন যোগ করা উচিত নয়।</p> 
+ 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">

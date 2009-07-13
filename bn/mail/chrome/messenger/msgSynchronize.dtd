@@ -1,19 +1,19 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "বার্তা ডাউনলোড এবং সিনক্রোনাইজ করুন">
+<!ENTITY MsgSynchronize.label "বার্তা ডাউনলোড এবং যুগপৎ করা হবে">
 <!ENTITY MsgSelect.label "অফলাইনে ব্যবহারের জন্য আইটেম">
-<!ENTITY MsgSyncDesc.label "আপনি যদি অফলাইনে ব্যবহারের জন্য ইতিমধ্যেই মেইল ফোল্ডার বা নিউজগ্রুপ নির্বাচন করে থাকেন, আপনি এখন সেগুলো ডাউনলোড এবং/বা সিনক্রোনাইজ করতে পারেন। অন্যথায়, অফলাইনে ব্যবহারের জন্য মেইল ফোল্ডার এবং নিউজগ্রুপ পছন্দ করতে &quot;নির্বাচন&quot; বাটন ব্যবহার করুন।">
-<!ENTITY MsgSyncDirections.label "নিম্নবর্তীগুলো ডাউনলোড এবং/বা সিনক্রোনাইজ করুন:">
+<!ENTITY MsgSyncDesc.label "আপনি যদি অফলাইনে ব্যবহারের জন্য ইতোমধ্যেই মেইল ফোল্ডার বা নিউজগ্রুপ নির্বাচন করে থাকেন, তবে আপনি এখন সেগুলো ডাউনলোড এবং/বা যুগপৎ করতে পারেন। অন্যথায়, অফলাইনে ব্যবহারের জন্য মেইল ফোল্ডার এবং নিউজগ্রুপ পছন্দ করতে &quot;নির্বাচন&quot; বোতাম ব্যবহার করুন।">
+<!ENTITY MsgSyncDirections.label "নিম্নের গুলোকে ডাউনলোড এবং/বা যুগপৎ করা হবে:">
 <!ENTITY syncTypeMail.label "মেইল বার্তা (M)">
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "নিউজগ্রুপ বার্তা (N)">
 <!ENTITY syncTypeNews.accesskey "N">
-<!ENTITY sendMessage.label "অপ্রেরিত বার্তা প্রেরন করুন (S)">
+<!ENTITY sendMessage.label "অপ্রেরিত বার্তা প্রেরণ (S)">
 <!ENTITY sendMessage.accesskey "S">
-<!ENTITY workOffline.label "একবার ডাউনলোড এবং/বা সিনক্রোনাইজ সম্পন্ন হলে অফলাইনে কাজ করা হবে (W)">
+<!ENTITY workOffline.label "একবার ডাউনলোড এবং/বা যুগপৎ করণ সম্পন্ন হলে অফলাইনে কাজ করা (W)">
 <!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "নির্বাচন করুন... (e)">
+<!ENTITY selectButton.label "নির্বাচন... (e)">
 <!ENTITY selectButton.accesskey "E">
-<!ENTITY MsgSelectDesc.label "অফলাইনে ব্যবহারের জন্য মেইল ফোল্ডার এবং নিউজগ্রুপ পছন্দ করুন।">
-<!ENTITY MsgSelectInd.label "ডাউনলোড করুন">
+<!ENTITY MsgSelectDesc.label "অফলাইনে ব্যবহারের জন্য মেইল ফোল্ডার এবং নিউজগ্রুপ পছন্দ করা হবে।">
+<!ENTITY MsgSelectInd.label "ডাউনলোড">
 <!ENTITY MsgSelectItems.label "ফোল্ডার এবং নিউজগ্রুপ">

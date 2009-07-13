@@ -1,8 +1,8 @@
-<!ENTITY notificationsDialog2.title "নতুন মেইল সতর্কবার্তা পরিবর্তন করুন">
-<!ENTITY window.width "30em">
+<!ENTITY notificationsDialog2.title "নতুন মেইলের সতর্কবাণী স্বনির্বাচন করা হবে">
+<!ENTITY window.width "৩০এম">
 
-<!ENTITY alertCustomization.intro "সতর্কবার্তা বিজ্ঞপ্তিতে কোন ফিল্ডগুলো দেখানো হবে তা নির্বাচন করুন:">
-<!ENTITY previewText.label "বার্তা পূর্বদর্শন টেক্সট (M)">
+<!ENTITY alertCustomization.intro "সতর্কবাণী ঘোষনায় কোন ক্ষেত্রসমূহ দেখান হবে তা নির্বাচন করা হবে:">
+<!ENTITY previewText.label "বার্তার প্রাকদর্শন টেক্সট (M)">
 <!ENTITY previewText.accesskey "M">
 <!ENTITY subject.label "বিষয় (S)">
 <!ENTITY subject.accesskey "S">

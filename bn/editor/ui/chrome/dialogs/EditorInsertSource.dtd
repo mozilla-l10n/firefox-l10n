@@ -36,13 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "HTML প্রবেশ করান">
-<!ENTITY sourceEditField.label "HTML ট্যাগ এবং টেক্সট দিন:">
-<!ENTITY example.label "উদাহরন:">
+<!ENTITY windowTitle.label "HTML প্রবেশ">
+<!ENTITY sourceEditField.label "HTML ট্যাগ এবং পাঠ্য দিন:">
+<!ENTITY example.label "উদাহরণ:">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
 <!ENTITY exampleText.label "হ্যালো পৃথিবী!">
-<!ENTITY insertButton.label "প্রবেশ করান (I)">
+<!ENTITY insertButton.label "প্রবেশ (I)">
 <!ENTITY insertButton.accesskey "I">

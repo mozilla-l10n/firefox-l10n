@@ -43,7 +43,7 @@
 <!-- View menu items -->
 
 
-<!ENTITY viewMenu.label "প্রদর্শন (V)">
+<!ENTITY viewMenu.label "ভিউ (V)">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "কম্পোজিশন টুলবার (C)">
 <!ENTITY compositionToolbarCmd.accesskey "C">

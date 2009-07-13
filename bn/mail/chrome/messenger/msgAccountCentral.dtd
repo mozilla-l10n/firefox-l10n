@@ -1,20 +1,20 @@
 <!ENTITY emailSectionHdr.label "ইমেইল">
-<!ENTITY readMsgsLink.label "বার্তা পড়ুন">
-<!ENTITY composeMsgLink.label "একটি নতুন বার্তা লিখুন">
+<!ENTITY readMsgsLink.label "পঠিত বার্তা">
+<!ENTITY composeMsgLink.label "একটি নতুন বার্তা লেখা হবে">
 
 <!ENTITY newsSectionHdr.label "নিউজগ্রুপ">
-<!ENTITY subscribeNewsLink.label "একটি নিউজগ্রুপ সাবস্ক্রিপশন ম্যানেজ করুন">
+<!ENTITY subscribeNewsLink.label "একটি নিউজগ্রুপ সাবস্ক্রিপশন ব্যবস্থাপনা করা হবে">
 
-<!ENTITY accountsSectionHdr.label "অ্যাকাউন্ট">
-<!ENTITY subscribeImapFolders.label "ফোল্ডার সাবস্ক্রিপশন ম্যানেজ করুন">
-<!ENTITY settingsLink.label "এই অ্যাকাউন্টের সেটিং দেখুন">
-<!ENTITY newAcctLink.label "একটি নতুন অ্যাকাউন্ট তৈরি করুন">
+<!ENTITY accountsSectionHdr.label "একাউন্ট">
+<!ENTITY subscribeImapFolders.label "ফোল্ডার সাবস্ক্রিপশন ব্যবস্থাপনা করা হবে">
+<!ENTITY settingsLink.label "এই একাউন্টের সেটিং দেখুন">
+<!ENTITY newAcctLink.label "একটি নতুন অ্যাকাউন্ট তৈরি করা হবে">
 
-<!ENTITY advFeaturesSectionHdr.label "উন্নত বৈশিষ্ট্য">
-<!ENTITY searchMsgsLink.label "বার্তা অনুসন্ধান করুন">
-<!ENTITY filtersLink.label "বার্তা ফিল্টার ম্যানেজ করুন">
-<!ENTITY junkSettings.label "জাঙ্ক মেইল সেটিং">
+<!ENTITY advFeaturesSectionHdr.label "উচ্চ পর্যায়ের বৈশিষ্ট্য">
+<!ENTITY searchMsgsLink.label "বার্তা অনুসন্ধান">
+<!ENTITY filtersLink.label "বার্তার পরিশোধক ব্যবস্থাপনা">
+<!ENTITY junkSettings.label "অপ্রয়োজনীয় মেইল সেটিং">
 <!ENTITY offlineLink.label "অফলাইন সেটিং">
 
-<!ENTITY feedsSectionHdr.label "Feeds">
-<!ENTITY subscribeFeeds.label "Manage subscriptions">
+<!ENTITY feedsSectionHdr.label "ফিড">
+<!ENTITY subscribeFeeds.label "সাবস্ক্রিপশন ব্যবস্থাপনা">

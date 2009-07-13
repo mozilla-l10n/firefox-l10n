@@ -38,5 +38,5 @@
 <!ENTITY windowTitle.label "নামসহ অ্যাংকর বৈশিষ্ট্য">
 <!ENTITY anchorNameEditField.label "অ্যাংকরের নাম (N):">
 <!ENTITY anchorNameEditField.accessKey "N">
-<!ENTITY nameInput.tooltip "এই নামসহ অ্যাংকরের জন্য একটি স্বতন্ত্র নাম দিন (টার্গেট)">
+<!ENTITY nameInput.tooltip "এই নামসহ অ্যাংকরের জন্য একটি স্বতন্ত্র নাম দিন (লক্ষ্য)">
 
