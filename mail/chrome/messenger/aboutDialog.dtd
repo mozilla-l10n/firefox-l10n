@@ -1,13 +1,10 @@
 <!ENTITY aboutDialog.title      "Про &brandFullName;">
+<!ENTITY credits.label          "Подяки">
+<!ENTITY credits.accesskey      "д">
+<!ENTITY aboutLink.label        "&lt; Про &brandFullName;">
+<!ENTITY aboutLink.accesskey    "П">
 <!ENTITY aboutVersion           "Версія">
 <!ENTITY copyrightText          "&#169;1998-2007 Автори коду Mozilla. Всі права захищено. Mozilla Thunderbird та
                                  логотипи Thunderbird є торговими марками Mozilla Foundation.  Всі права
                                  захищені.">
-
-<!ENTITY aboutLink.accesskey    "П">
-<!ENTITY aboutLink.label        "&lt; Про &brandFullName;">
-<!ENTITY credits.accesskey      "д">
-<!ENTITY credits.label          "Подяки">
-
-<!-- FIXME: localize -->
 <!ENTITY cmdCloseMac.commandKey "w">

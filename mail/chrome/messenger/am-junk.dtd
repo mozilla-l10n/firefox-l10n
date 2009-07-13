@@ -1,3 +1,4 @@
+<!ENTITY junkSettings.label "Налаштування спаму">
 <!ENTITY trainingWarning.label "Спочатку Вам слід навчити &brandShortName; визначати небажану пошту, використовуючи кнопку 'Спам', щоб позначити листа спамом. Вам потрібно визначати як небажану, так і звичайну пошту.">
 <!ENTITY level.label "Ввімкнути контроль спаму для цього облікового запису">
 <!ENTITY level.accesskey "В">
@@ -17,5 +18,3 @@
 
 <!ENTITY ispHeaders.label "Вірити полям заголовків повідомлень, встановлених: ">
 <!ENTITY ispHeaders.accesskey "р">
-
-<!ENTITY junkSettings.label "Налаштування спаму">

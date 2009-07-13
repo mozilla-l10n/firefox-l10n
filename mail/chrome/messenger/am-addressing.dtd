@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Використовувати інший сервер LDAP:">
 <!ENTITY directories.accesskey     "і">
+<!ENTITY directoriesNone.label     "Жодного">
 
 <!-- am-addressing.xul -->
 
@@ -30,4 +31,7 @@
 <!ENTITY place.accesskey                      "і">
 <!ENTITY belowText.label                      "під цитатою (рекомендовано)">
 <!ENTITY aboveText.label                      "під відповіддю (над цитатою)">
-<!ENTITY directoriesNone.label     "Жодного">
+<!ENTITY includeSigOnReply.label              "Включати підпис у відповідях">
+<!ENTITY includeSigOnReply.accesskey          "в">
+<!ENTITY includeSigOnForward.label            "Включати підпис у пересланих">
+<!ENTITY includeSigOnForward.accesskey        "п">

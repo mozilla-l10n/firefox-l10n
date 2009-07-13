@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "д">
 <!ENTITY organization.label "Організація:">
 <!ENTITY organization.accesskey "О">
-<!ENTITY signature.label "Долучати цей підпис:">
-<!ENTITY signature.accesskey "л">
+<!ENTITY signatureText.label "Текст підпису:">
+<!ENTITY signatureText.accesskey "Т">
+<!ENTITY signatureHtml.label "Використовувати HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Долучати підпис з файлу (текст, малюнок чи HTML):">
+<!ENTITY signatureFile.accesskey "ф">
 <!ENTITY edit.label "Змінити…">
 <!ENTITY choose.label "Обрати…">
 <!ENTITY choose.accesskey "б">

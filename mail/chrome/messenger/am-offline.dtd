@@ -1,5 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Щоб зекономити місце на диску, не завантажувати:">
 <!ENTITY doNotDownload.label "Щоб зекономити місце на диску, не завантажувати для роботи в автономному режимі:">
+<!ENTITY allFoldersOffline.label "Залишати листи облікового запису на цьому комп'ютері">
+<!ENTITY allFoldersOffline.accesskey "а">
 <!ENTITY offlineNotDownload.label "Повідомлення, більші за">
 <!ENTITY offlineNotDownload.accesskey "Б">
 <!ENTITY kb.label "Кбайт">
@@ -10,6 +12,9 @@
 <!ENTITY nntpDownloadMsg.label "Повідомлення тільки за останні">
 <!ENTITY nntpDownloadMsg.accesskey "п">
 <!ENTITY retentionCleanup.label "Для звільнення місця на диску старі повідомлення можуть бути вилучені">
+<!-- FIXME: localize -->
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionKeepMsg.label "Вилучати повідомлення давніші за">
 <!ENTITY retentionKeepMsg.accesskey "д">
 <!ENTITY retentionKeepAll.label "Не вилучати повідомлень">
@@ -18,24 +23,13 @@
 <!ENTITY retentionKeepNew.accesskey "л">
 <!ENTITY retentionKeepUnread.label "Вилучати прочитані листи">
 <!ENTITY retentionKeepUnread.accesskey "р">
+<!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
+<!ENTITY retentionApplyToFlagged.accesskey "з">
 <!ENTITY nntpRemoveBody.label "Лише повідомлення менше">
 <!ENTITY nntpRemoveBody.accesskey "Л">
 <!ENTITY offlineSelectNntp.label "Виберіть групи новин для роботи в автономному режимі…">
 <!ENTITY offlineSelectNntp.accesskey "В">
-<!ENTITY diskspaceGroupTitle.label "Дисковий простір">
-
-<!-- FIXME: localize -->
-<!ENTITY allFoldersOffline.accesskey "а">
-<!ENTITY allFoldersOffline.label "Залишати листи облікового запису на цьому комп'ютері">
-<!ENTITY offlineImapAdvancedOffline.accesskey "о">
 <!ENTITY offlineImapAdvancedOffline.label "Додатково…">
-
+<!ENTITY offlineImapAdvancedOffline.accesskey "о">
 <!ENTITY syncGroupTitle.label "Синхронізація листів">
-
-<!-- FIXME: localize -->
-<!ENTITY retentionApplyToFlagged.accesskey "з">
-<!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
-
-<!-- FIXME: localize -->
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
+<!ENTITY diskspaceGroupTitle.label "Дисковий простір">
