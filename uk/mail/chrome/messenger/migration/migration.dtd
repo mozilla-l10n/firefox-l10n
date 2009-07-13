@@ -1,9 +1,13 @@
 
 <!ENTITY migrationWizard.title          "Майстер імпорту">
 
+<!ENTITY importFromWin.label            "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
+<!ENTITY importFromNonWin.label         "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
 
 <!ENTITY importFromNothing.label        "Не імпортувати нічого">
 <!ENTITY importFromNothing.accesskey    "н">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x чи SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "М">
 <!ENTITY importFromNetscape4.label      "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey  "4">
 <!ENTITY importFromOExpress.label       "Outlook Express">
@@ -25,9 +29,3 @@
 
 <!ENTITY done.title                     "Імпорт завершений">
 <!ENTITY done.label                     "Наступні об’єкти були успішно імпортовані:">
-
-<!ENTITY importFromNonWin.label         "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
-<!ENTITY importFromWin.label            "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
-
-<!ENTITY importFromSeamonkey2.accesskey "М">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x чи SeaMonkey">

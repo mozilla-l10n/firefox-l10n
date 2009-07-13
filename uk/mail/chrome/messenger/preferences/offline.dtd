@@ -1,28 +1,24 @@
-<!ENTITY offlineDialog.title       "Налаштування автономного режиму">
+<!ENTITY offlineDialog.title "Налаштування автономного режиму">
 
-<!ENTITY textStartUp   "При запуску:">
+<!ENTITY textStartUp "При запуску:">
+<!ENTITY radioRememberPrevState.label "Пам'ятати про автономний режим">
+<!ENTITY radioRememberPrevState.accesskey "р">
+<!ENTITY radioAskMe.label "Питати мене про онлайн-режим при запуску">
+<!ENTITY radioAskMe.accesskey "и">
+<!ENTITY radioAlwaysOnline.label "Завжди запускатися в онлайн-режимі">
+<!ENTITY radioAlwaysOnline.accesskey "З">
 
 <!ENTITY textGoingOnline "Відсилати невідіслані повідомлення перед виходом в автономний режим?">
-<!ENTITY textGoingOffline "Завантажувати повідомлення перед виходом в автономний режим?">
-
-<!-- FIXME: localize -->
-<!ENTITY radioAlwaysOnline.label "Завжди запускатися в онлайн-режимі">
-<!ENTITY radioAskDownload.label "Питати мене">
-<!ENTITY radioAskMe.label "Питати мене про онлайн-режим при запуску">
-<!ENTITY radioAskUnsent.label "Питати мене">
-<!ENTITY radioAutoDownload.label "Так">
 <!ENTITY radioAutoSend.label "Так">
-<!ENTITY radioNotDownload.label "Ні">
-<!ENTITY radioNotSend.label "Ні">
-<!ENTITY radioRememberPrevState.label "Пам'ятати про автономний режим">
-
-<!-- FIXME: localize -->
-<!ENTITY radioAlwaysOnline.accesskey "З">
-<!ENTITY radioAskDownload.accesskey "П">
-<!ENTITY radioAskMe.accesskey "и">
-<!ENTITY radioAskUnsent.accesskey "т">
-<!ENTITY radioAutoDownload.accesskey "Т">
 <!ENTITY radioAutoSend.accesskey "а">
-<!ENTITY radioNotDownload.accesskey "Н">
+<!ENTITY radioNotSend.label "Ні">
 <!ENTITY radioNotSend.accesskey "і">
-<!ENTITY radioRememberPrevState.accesskey "р">
+<!ENTITY radioAskUnsent.label "Питати мене">
+<!ENTITY radioAskUnsent.accesskey "т">
+<!ENTITY textGoingOffline "Завантажувати повідомлення перед виходом в автономний режим?">
+<!ENTITY radioAutoDownload.label "Так">
+<!ENTITY radioAutoDownload.accesskey "Т">
+<!ENTITY radioNotDownload.label "Ні">
+<!ENTITY radioNotDownload.accesskey "Н">
+<!ENTITY radioAskDownload.label "Питати мене">
+<!ENTITY radioAskDownload.accesskey "П">

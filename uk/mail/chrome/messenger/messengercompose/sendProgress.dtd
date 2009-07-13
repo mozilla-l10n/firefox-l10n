@@ -1,7 +1,4 @@
-<!ENTITY sendWindow.title "Надсилання повідомлень"> 
-
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-
-<!-- FIXME: localize -->
-<!ENTITY progress.label "Поступ:">
+<!ENTITY sendWindow.title "Надсилання повідомлень"> 
 <!ENTITY status.label "Стан:">
+<!ENTITY progress.label "Поступ:">
