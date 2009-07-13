@@ -40,6 +40,8 @@
 <!ENTITY subscribeButton.accesskey    "П">
 <!ENTITY unsubscribeButton.label      "Відписатися">
 <!ENTITY unsubscribeButton.accesskey  "т">
+<!ENTITY newGroupsTab.label           "Нові групи">
+<!ENTITY newGroupsTab.accesskey       "Н">
 <!ENTITY refreshButton.label          "Оновити">
 <!ENTITY refreshButton.accesskey      "в">
 <!ENTITY stopButton.label             "Стоп">
@@ -51,7 +53,3 @@
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Показати елементи, що містять:">
 <!ENTITY namefield.accesskey          "е">
-
-<!-- FIXME: localize -->
-<!ENTITY newGroupsTab.accesskey       "Н">
-<!ENTITY newGroupsTab.label           "Нові групи">
