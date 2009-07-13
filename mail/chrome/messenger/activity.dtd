@@ -25,7 +25,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Vider la liste">
-<!ENTITY cmd.clearList.tooltip            "Retirer les téléchargements terminés, annulés et ayant échoué de la list">
+<!ENTITY cmd.clearList.tooltip            "Retirer les téléchargements terminés, annulés et ayant échoué de la liste">
 <!ENTITY cmd.clearList.accesskey          "N">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
