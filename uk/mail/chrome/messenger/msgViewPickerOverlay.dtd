@@ -6,6 +6,8 @@
 <!ENTITY viewAll.accesskey "і">
 <!ENTITY viewUnread.label "Непрочитані">
 <!ENTITY viewUnread.accesskey "Н">
+<!ENTITY viewNotDeleted.label "Не вилучені">
+<!ENTITY viewNotDeleted.accesskey "в">
 <!ENTITY viewTags.label "Позначки">
 <!ENTITY viewTags.accesskey "з">
 <!ENTITY viewCustomViews.label "Користувацькі представлення">
@@ -14,7 +16,3 @@
 <!ENTITY viewVirtualFolder.accesskey "З">
 <!ENTITY viewCustomizeView.label "Налагодити…">
 <!ENTITY viewCustomizeView.accesskey "Н">
-
-<!-- FIXME: localize -->
-<!ENTITY viewNotDeleted.accesskey "в">
-<!ENTITY viewNotDeleted.label "Не вилучені">
