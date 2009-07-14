@@ -7,10 +7,13 @@
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label       "ਗਲੋਬਲ ਖੋਜ ਅਤੇ ਇੰਡੈਕਸਰ ਚਾਲੂ">
-<!ENTITY enableGlodaSearch.accesskey   "i">
-<!ENTITY systemDefaults.label          "ਸਿਸਟਮ ਡਿਫਾਲਟ">
+<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY systemIntegration.label       "System Integration">
+
 <!ENTITY alwaysCheckDefault.label      "ਹਮੇਸ਼ਾਂ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ &brandShortName; ਡਿਫਾਲਟ ਮੇਲ ਕਲਾਇਟ ਹੈ">
-<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkNow.label                "ਹੁਣੇ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkNow.accesskey            "N">
 
@@ -28,13 +31,20 @@
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "ਸਕਿੰਟ">
 <!ENTITY openMsgIn.label               "ਸੁਨੇਹੇ ਖੋਲ੍ਹੋ:">
+<!ENTITY openMsgInNewTab.label         "A new tab">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label          "ਇੱਕ ਨਵੀਂ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
-<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "ਇੱਕ ਮੌਜੂਦਾ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
-<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgWindowOnDelete.label  "Close message window on delete">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+
+
+
 <!ENTITY configEditDesc.label          "ਤਕਨੀਕੀ ਸੰਰਚਨਾ">
 <!ENTITY configEdit.label              "ਸੰਰਚਨਾ ਐਡੀਟਰ…">
-<!ENTITY configEdit.accesskey          "g">
+<!ENTITY configEdit.accesskey          "C">
 <!ENTITY returnReceiptsInfo.label      "ਦੱਸੋ ਕਿ&brandShortName; ਵਾਪਸੀ ਰਸੀਦਾਂ ਨੂੰ ਕਿਵੇਂ ਹੈਂਡਲ ਕਰੇ">
 <!ENTITY showReturnReceipts.label      "ਵਾਪਸੀ ਰਸੀਦ…">
 <!ENTITY showReturnReceipts.accesskey  "R">
@@ -48,20 +58,20 @@
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "ਇੰਸਟਾਲ ਹੋਈਆਂ ਐਡ-ਆਨ">
-<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY enableAddonsUpdate.accesskey   "A">
 <!ENTITY whenUpdatesFound.label         "ਜਦੋਂ &brandShortName; ਲਈ ਅੱਪਡੇਟ ਮਿਲਣ,">
 <!ENTITY modeAskMe.label                "ਮੈਨੂੰ ਪੁੱਛੋ ਕਿ ਕੀ ਕਰਨਾ ਹੈ">
-<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ">
-<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label        "ਮੈਨੂੰ ਚੇਤਾਵਨੀ ਦਿਓ, ਜਦੋਂ ਇਹ ਮੇਰੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਬੰਦ ਕਰੇ">
-<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ">
 <!ENTITY showUpdates.accesskey          "y">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "ਸੈਟਿੰਗ…">
-<!ENTITY showSettings.accesskey        "n">
+<!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "&brandShortName; ਦੀ ਇੰਟਰਨੈੱਟ ਨਾਲ ਜੁੜਨ ਦੀ ਸੰਰਚਨਾ ਕਰੋ">
 <!ENTITY connectionsInfo.caption       "ਕੁਨੈਕਸ਼ਨ">
 <!ENTITY offlineInfo.caption           "ਆਫਲਾਈਨ">
@@ -88,10 +98,10 @@
 
 <!-- Certificates -->
 <!ENTITY viewCertificates.label         "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
-<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "ਮਨਸੂਖ ਲਿਸਟ">
-<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "ਵੈਧਤਾ">
-<!ENTITY validation.accesskey           "d">
+<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "ਸੁਰੱਖਿਆ ਜੰਤਰ">
-<!ENTITY viewSecurityDevices.accesskey  "u">
+<!ENTITY viewSecurityDevices.accesskey  "S">

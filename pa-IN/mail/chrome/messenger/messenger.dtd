@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "ਅਕਾਊਂਟ…">
 <!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY newMailAccountCmd.label "Mail Account (Quick Setup)…">
+<!ENTITY newMailAccountCmd.accesskey "Q">
 <!ENTITY openMessageFileCmd.label "ਸੰਭਾਲਿਆ ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ਅਟੈਚਮੈਂਟ">
@@ -217,6 +219,16 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "ਪਲੇਨ ਟੈਕਸਟ">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+
+<!ENTITY bodyMenuFeed.label "Feed Message Body As">
+<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Summary">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+
 <!ENTITY viewAttachmentsInlineCmd.label "ਅਟੈਚਮੈਂਟ ਲਾਈਨ ਵਿੱਚ ਵੇਖੋ">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
@@ -322,6 +334,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "ਸਭ ਨੂੰ ਜਵਾਬ">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToListMsgCmd.label "Reply to List">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "ਅੱਗੇ">
 <!ENTITY forwardMsgCmd.accesskey "F">
 <!ENTITY forwardMsgCmd.key  "l">
@@ -400,6 +415,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Open Feed Message">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "ਵਿੰਡੋ">
@@ -436,6 +459,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "ਲਿਖੋ">
 <!ENTITY replyButton.label "ਜਵਾਬ ਦਿਓ">
 <!ENTITY replyAllButton.label "ਸਭ ਨੂੰ ਜਵਾਬ">
+<!ENTITY replyListButton.label "Reply to List">
 <!ENTITY forwardButton.label "ਅੱਗੇ ਭੇਜੋ">
 <!ENTITY fileButton.label "ਫਾਇਲ">
 <!ENTITY nextButton.label "ਅਗਲਾ">
@@ -629,6 +653,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "ਸਭ ਨੂੰ ਜਵਾਬ">
 <!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyList.label "Reply to List">
+<!ENTITY contextReplyList.accesskey "L">	
 <!ENTITY contextForward.label "ਅੱਗੇ ਭੇਜੋ">
 <!ENTITY contextForward.accesskey "F">
 <!ENTITY contextForwardAsAttachment.label "ਅਟੈਚਮੈਂਟ ਵਾਂਗ ਅੱਗੇ ਭੇਜੋ">
@@ -652,8 +678,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਵਾਸਤੇ, ਰਿਮੋਟ ਚਿੱਤਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
-<!ENTITY loadRemoteContentButton2.label "ਹੁਣ ਚਿੱਤਰ ਵੇਖੋ">
+<!ENTITY remoteContentMessage2.label "To protect your privacy, &brandShortName; has blocked remote content in this message.">
+<!ENTITY loadRemoteContentButton3.label "Show Remote Content">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "ਇਹ ਸੁਨੇਹਾ ਘਪਲਾ (scam) ਹੋ ਸਕਦਾ ਹੈ">
