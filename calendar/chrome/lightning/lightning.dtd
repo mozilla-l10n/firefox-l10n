@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Событие…">
+<!ENTITY lightning.menupopup.new.event.accesskey "С">
 <!ENTITY lightning.menupopup.new.task.label     "Задача…">
+<!ENTITY lightning.menupopup.new.task.accesskey "З">
 <!ENTITY lightning.menupopup.new.calendar.label "Календарь…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "К">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Открыть">
@@ -61,11 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Файлы календаря…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "Ф">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Календарь">
-<!ENTITY lightning.calendar.accesskey        "К">
-<!ENTITY lightning.tasks.label               "Задачи">
-<!ENTITY lightning.tasks.accesskey           "З">
+<!-- View menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Календарь">
+<!ENTITY lightning.menu.view.calendar.accesskey        "К">
+<!ENTITY lightning.menu.view.tasks.label               "Задачи">
+<!ENTITY lightning.menu.view.tasks.accesskey           "З">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "События и задачи">
+<!ENTITY lightning.menu.eventtask.accesskey            "и">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "Почта">
