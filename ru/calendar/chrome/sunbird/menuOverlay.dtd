@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                                   "Проверить наличие обновлений…">
 <!ENTITY updateCmd.accesskey                               "а">
 
+<!ENTITY sunbird.export.calendar.label                     "Экспортировать календарь…">
+<!ENTITY sunbird.export.calendar.accesskey                 "Э">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "Окно">
 <!ENTITY minimizeWindow.label                              "Убрать в Dock">
