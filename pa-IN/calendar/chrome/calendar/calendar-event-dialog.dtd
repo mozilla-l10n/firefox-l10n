@@ -42,75 +42,79 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "ਆਈਟਮ ਸੋਧ" >
+<!ENTITY event.title.label                  "Edit Item" >
 
-<!ENTITY newevent.before.label              "ਪਹਿਲਾਂ" >
-<!ENTITY newevent.after.label               "ਬਾਅਦ" >
 
-<!ENTITY newevent.from.label                "ਤੋਂ" >
-<!ENTITY newevent.to.label                  "ਤੱਕ" >
+<!ENTITY newevent.from.label                "From" >
+<!ENTITY newevent.to.label                  "To" >
 <!ENTITY newevent.attendees.notify.label    "Notify attendees">
 
-<!ENTITY newevent.status.label              "ਹਾਲਤ" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "Not specified" >
-<!ENTITY newevent.status.cancelled.label    "ਰੱਦ ਕੀਤਾ" >
-<!ENTITY newevent.status.tentative.label    "Tentative" >
-<!ENTITY newevent.status.confirmed.label    "ਪੱਕਾ" >
-<!ENTITY newevent.status.needsaction.label  "ਕਾਰਵਾਈ ਦੀ ਲੋੜ" >
-<!ENTITY newevent.status.inprogress.label   "ਕਾਰਵਾਈ ਅਧੀਨ" >
-<!ENTITY newevent.status.completed.label    "Completed on" >
+<!ENTITY newevent.status.label                "Status" >
+<!ENTITY newevent.status.accesskey            "S" >
+<!ENTITY newevent.status.none.label           "Not specified" >
+<!ENTITY newevent.status.none.accesskey       "o" >
+<!ENTITY newevent.status.cancelled.label      "Cancelled" >
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
+<!ENTITY newevent.status.tentative.label      "Tentative" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
+<!ENTITY newevent.status.confirmed.label      "Confirmed" >
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
+<!ENTITY newevent.status.needsaction.label    "Needs Action" >
+<!ENTITY newevent.status.inprogress.label     "In Process" >
+<!ENTITY newevent.status.completed.label      "Completed on" >
 
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; ਮੁਕੰਮਲ">
+<!ENTITY newtodo.percentcomplete.label      "&#37; complete">
 
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "ਫਾਇਲ">
+<!ENTITY  event.menu.file.label                           "File">
 <!ENTITY  event.menu.file.accesskey                       "F">
-<!ENTITY  event.menu.file.new.label                       "ਨਵਾਂ">
+<!ENTITY  event.menu.file.new.label                       "New">
 <!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "ਈਵੈਂਟ">
+<!ENTITY  event.menu.file.new.event.label                 "Event">
 <!ENTITY  event.menu.file.new.event.accesskey             "E">
-<!ENTITY  event.menu.file.new.message.label               "ਸੁਨੇਹਾ">
+<!ENTITY  event.menu.file.new.message.label               "Message">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "ਐਡਰੈੱਸ ਬੁੱਕ ਕਾਰਡ">
-<!ENTITY  event.menu.file.new.address.accesskey           "C">
-<!ENTITY  event.menu.file.close.label                     "ਬੰਦ ਕਰੋ">
+<!ENTITY  event.menu.file.new.contact.label               "Address Book Contact">
+<!ENTITY  event.menu.file.new.contact.accesskey           "C">
+<!ENTITY  event.menu.file.close.label                     "Close">
 <!ENTITY  event.menu.file.close.accesskey                 "C">
-<!ENTITY  event.menu.file.save.label                      "ਸੰਭਾਲੋ">
+<!ENTITY  event.menu.file.save.label                      "Save">
 <!ENTITY  event.menu.file.save.accesskey                  "S">
-<!ENTITY  event.menu.file.page.setup.label                "ਪੇਜ਼ ਸੈੱਟਅੱਪ">
+<!ENTITY  event.menu.item.delete.label                    "Delete…">
+<!ENTITY  event.menu.item.delete.accesskey                "D">
+<!ENTITY  event.menu.file.page.setup.label                "Page Setup">
 <!ENTITY  event.menu.file.page.setup.accesskey            "u">
-<!ENTITY  event.menu.file.print.label                     "ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY  event.menu.file.print.label                     "Print">
 <!ENTITY  event.menu.file.print.accesskey                 "P">
 
-<!ENTITY  event.menu.edit.label                           "ਸੋਧ">
+<!ENTITY  event.menu.edit.label                           "Edit">
 <!ENTITY  event.menu.edit.accesskey                       "E">
-<!ENTITY  event.menu.edit.undo.label                      "ਵਾਪਸ">
+<!ENTITY  event.menu.edit.undo.label                      "Undo">
 <!ENTITY  event.menu.edit.undo.accesskey                  "U">
-<!ENTITY  event.menu.edit.redo.label                      "ਫਿਰ ਪਰਤਾਓ">
+<!ENTITY  event.menu.edit.redo.label                      "Redo">
 <!ENTITY  event.menu.edit.redo.accesskey                  "R">
-<!ENTITY  event.menu.edit.cut.label                       "ਕੱਟੋ">
+<!ENTITY  event.menu.edit.cut.label                       "Cut">
 <!ENTITY  event.menu.edit.cut.accesskey                   "t">
-<!ENTITY  event.menu.edit.copy.label                      "ਕਾਪੀ ਕਰੋ">
+<!ENTITY  event.menu.edit.copy.label                      "Copy">
 <!ENTITY  event.menu.edit.copy.accesskey                  "C">
-<!ENTITY  event.menu.edit.paste.label                     "ਚੇਪੋ">
+<!ENTITY  event.menu.edit.paste.label                     "Paste">
 <!ENTITY  event.menu.edit.paste.accesskey                 "P">
-<!ENTITY  event.menu.edit.select.all.label                "ਸਭ ਚੁਣੋ">
+<!ENTITY  event.menu.edit.select.all.label                "Select All">
 <!ENTITY  event.menu.edit.select.all.accesskey            "A">
 
-<!ENTITY  event.menu.view.label                           "ਵੇਖੋ">
+<!ENTITY  event.menu.view.label                           "View">
 <!ENTITY  event.menu.view.accesskey                       "V">
-<!ENTITY  event.menu.view.toolbars.label                  "ਟੂਲਬਾਰ">
+<!ENTITY  event.menu.view.toolbars.label                  "Toolbars">
 <!ENTITY  event.menu.view.toolbars.accesskey              "T">
-<!ENTITY  event.menu.view.toolbars.event.label            "ਈਵੈਂਟ ਟੂਲਬਾਰ">
+<!ENTITY  event.menu.view.toolbars.event.label            "Event Toolbar">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
-<!ENTITY  event.menu.view.toolbars.customize.label        "ਕਸਟਮਾਈਜ਼…">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Customize…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "C">
 <!ENTITY  event.menu.view.showlink.label                  "Show Related Link">
 <!ENTITY  event.menu.view.showlink.accesskey              "R">
 
-<!ENTITY  event.menu.options.label                            "ਚੋਣਾਂ">
+<!ENTITY  event.menu.options.label                            "Options">
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attachments.label                "Attach Webpage…">
 <!ENTITY  event.menu.options.attachments.accesskey            "W">
@@ -120,42 +124,42 @@
 <!ENTITY  event.menu.options.spellcheck.accesskey             "h">
 <!ENTITY  event.menu.options.inline.spellcheck.label          "Spell Check As You Type">
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "…ਲਿੰਕ ਸ਼ਾਮਲ">
+<!ENTITY  event.menu.options.link.label                       "Add Link…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "ਟਾਈਮ-ਜ਼ੋਨ">
+<!ENTITY  event.menu.options.timezone.label                   "Timezone">
 <!ENTITY  event.menu.options.timezone.accesskey               "z">
-<!ENTITY  event.menu.options.priority2.label                  "ਤਰਜੀਹ">
+<!ENTITY  event.menu.options.priority2.label                  "Priority">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Not specified">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
-<!ENTITY  event.menu.options.priority.low.label               "ਘੱਟ">
+<!ENTITY  event.menu.options.priority.low.label               "Low">
 <!ENTITY  event.menu.options.priority.low.accesskey           "L">
 <!ENTITY  event.menu.options.priority.normal.label            "Normal">
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
-<!ENTITY  event.menu.options.priority.high.label              "ਉੱਚ">
+<!ENTITY  event.menu.options.priority.high.label              "High">
 <!ENTITY  event.menu.options.priority.high.accesskey          "H">
-<!ENTITY  event.menu.options.privacy.label                    "ਪਰਾਈਵੇਸੀ">
+<!ENTITY  event.menu.options.privacy.label                    "Privacy">
 <!ENTITY  event.menu.options.privacy.accesskey                "P">
 <!ENTITY  event.menu.options.privacy.public.label             "Public Event">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "u">
-<!ENTITY  event.menu.options.privacy.confidential.label       "ਕੇਵਲ ਟਾਈਮ ਅਤੇ ਮਿਤੀ ਹੀ ਵੇਖੋ">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Show Time and Date Only">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
-<!ENTITY  event.menu.options.privacy.private.label            "ਪ੍ਰਾਈਵੇਟ ਈਵੈਂਟ">
+<!ENTITY  event.menu.options.privacy.private.label            "Private Event">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
-<!ENTITY  event.menu.options.show.time.label                  "ਟਾਈਮ ਇੰਝ ਵੇਖੋ">
+<!ENTITY  event.menu.options.show.time.label                  "Show Time as">
 <!ENTITY  event.menu.options.show.time.accesskey              "T">
-<!ENTITY  event.menu.options.show.time.busy.label             "ਰੁੱਝਿਆ">
+<!ENTITY  event.menu.options.show.time.busy.label             "Busy">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
-<!ENTITY  event.menu.options.show.time.free.label             "ਵੇਹਲਾ">
+<!ENTITY  event.menu.options.show.time.free.label             "Free">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "F">
 
-<!ENTITY event.help.label                                 "ਮੱਦਦ">
+<!ENTITY event.help.label                                 "Help">
 <!ENTITY event.help.accesskey                             "H">
-<!ENTITY event.help.release.notes.label                   "ਰੀਲਿਜ਼ ਨੋਟਿਸ">
+<!ENTITY event.help.release.notes.label                   "Release Notes">
 <!ENTITY event.help.release.notes.accesskey               "R">
-<!ENTITY event.help.help.label                            "&brandShortName; ਮੱਦਦ">
+<!ENTITY event.help.help.label                            "&brandShortName; Help">
 <!ENTITY event.help.help.accesskey                        "H">
-<!ENTITY event.help.about.label                           "&brandShortName; ਬਾਰੇ">
+<!ENTITY event.help.about.label                           "About &brandShortName;">
 <!ENTITY event.help.about.accesskey                       "A">
 
 <!ENTITY event.invite.attendees.label                     "Invite Attendees…">
@@ -166,48 +170,49 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "ਸੰਭਾਲੋ ਅਤੇ ਬੰਦ ਕਰੋ">
+<!ENTITY  event.toolbar.save.label                        "Save and Close">
+<!ENTITY  event.toolbar.delete.label                      "Delete">
 <!ENTITY  event.toolbar.attendees.label                   "Invite Attendees">
 <!ENTITY  event.toolbar.spellcheck.label                  "Spellcheck">
-<!ENTITY  event.toolbar.privacy.label                     "ਪਰਾਈਵੇਸੀ">
+<!ENTITY  event.toolbar.privacy.label                     "Privacy">
 <!ENTITY  event.toolbar.attachments.label                 "Attach">
 
 <!-- Main page -->
-<!ENTITY event.title.textbox.label                        "ਟਾਈਟਲ:" >
+<!ENTITY event.title.textbox.label                        "Title:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "ਟਿਕਾਣਾ:" >
+<!ENTITY event.location.label                             "Location:" >
 <!ENTITY event.location.accesskey                         "L">
-<!ENTITY event.categories.label                           "ਕੈਟਾਗਰੀ:">
+<!ENTITY event.categories.label                           "Category:">
 <!ENTITY event.categories.accesskey                       "y">
-<!ENTITY event.calendar.label                             "ਕੈਲੰਡਰ:" >
+<!ENTITY event.calendar.label                             "Calendar:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Attendees:" >
 <!ENTITY event.attendees.accesskey                        "I" >
-<!ENTITY event.alldayevent.label                          "ਸਾਰਾ ਦਿਨ ਈਵੈਂਟ" >
+<!ENTITY event.alldayevent.label                          "All day Event" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-<!ENTITY event.from.label                                 "ਸ਼ੁਰੂ:" >
+<!ENTITY event.from.label                                 "Start:" >
 <!ENTITY event.from.accesskey                             "S">
-<!ENTITY task.from.label                                  "ਸ਼ੁਰੂ:" >
+<!ENTITY task.from.label                                  "Start:" >
 <!ENTITY task.from.accesskey                              "B">
-<!ENTITY event.to.label                                   "ਅੰਤ:" >
+<!ENTITY event.to.label                                   "End:" >
 <!ENTITY event.to.accesskey                               "n">
 <!ENTITY task.to.label                                    "Due Date:" >
 <!ENTITY task.to.accesskey                                "u">
-<!ENTITY task.status.label                                "ਹਾਲਤ:" >
+<!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Repeat:" >
 <!ENTITY event.repeat.accesskey                           "R">
-<!ENTITY event.reminder.label                             "ਰੀਮਾਈਡਰ:" >
+<!ENTITY event.reminder.label                             "Reminder:" >
 <!ENTITY event.reminder.accesskey                         "m">
-<!ENTITY event.description.label                          "ਵੇਰਵਾ:" >
+<!ENTITY event.description.label                          "Description:" >
 <!ENTITY event.description.accesskey                      "p">
 <!ENTITY event.attachments.label                          "Attachments:" >
 <!ENTITY event.attachments.accesskey                      "h" >
-<!ENTITY event.attachments.popup.remove.label             "ਹਟਾਓ" >
+<!ENTITY event.attachments.popup.remove.label             "Remove" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
-<!ENTITY event.attachments.popup.open.label               "ਖੋਲ੍ਹੋ" >
+<!ENTITY event.attachments.popup.open.label               "Open" >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
-<!ENTITY event.attachments.popup.removeAll.label          "ਸਭ ਹਟਾਓ" >
+<!ENTITY event.attachments.popup.removeAll.label          "Remove All" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
 <!ENTITY event.attachments.popup.attachPage.label         "Attach Webpage…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
@@ -215,19 +220,19 @@
 <!ENTITY event.priority2.label                            "Priority:">
 
 <!ENTITY event.reminder.none.label                        "No reminder " >
-<!ENTITY event.reminder.5minutes.before.label             "5 ਮਿੰਟ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.10minutes.before.label            "10 ਮਿੰਟ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.15minutes.before.label            "15 ਮਿੰਟ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.30minutes.before.label            "30 ਮਿੰਟ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.45minutes.before.label            "45 ਮਿੰਟ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.1hour.before.label                "1 ਘੰਟਾ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.2hours.before.label               "2 ਘੰਟੇ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.5hours.before.label               "5 ਘੰਟੇ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.15hours.before.label              "15 ਘੰਟੇ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.1day.before.label                 "1 ਦਿਨ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.2days.before.label                "2 ਦਿਨ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.1week.before.label                "1 ਹਫ਼ਤਾ ਪਹਿਲਾਂ" >
-<!ENTITY event.reminder.custom.label                      "ਕਸਟਮ…" >
+<!ENTITY event.reminder.5minutes.before.label             "5 minutes before" >
+<!ENTITY event.reminder.10minutes.before.label            "10 minutes before" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minutes before" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minutes before" >
+<!ENTITY event.reminder.45minutes.before.label            "45 minutes before" >
+<!ENTITY event.reminder.1hour.before.label                "1 hour before" >
+<!ENTITY event.reminder.2hours.before.label               "2 hours before" >
+<!ENTITY event.reminder.5hours.before.label               "5 hours before" >
+<!ENTITY event.reminder.15hours.before.label              "15 hours before" >
+<!ENTITY event.reminder.1day.before.label                 "1 day before" >
+<!ENTITY event.reminder.2days.before.label                "2 days before" >
+<!ENTITY event.reminder.1week.before.label                "1 week before" >
+<!ENTITY event.reminder.custom.label                      "Custom…" >
 
 <!ENTITY event.reminder.multiple.label                    "Multiple Reminders…" >
 
@@ -260,13 +265,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Every" >
 <!ENTITY repeat.units.months.both                       "Month(s)" >
-<!ENTITY event.recurrence.the.label                     "The" >
-<!ENTITY event.recurrence.repeat.first.label            "First">
-<!ENTITY event.recurrence.repeat.second.label           "Second">
-<!ENTITY event.recurrence.repeat.third.label            "Third">
-<!ENTITY event.recurrence.repeat.fourth.label           "Fourth">
-<!ENTITY event.recurrence.repeat.fifth.label            "Fifth">
-<!ENTITY event.recurrence.repeat.last.label             "Last">
+<!ENTITY event.recurrence.monthly.every.label           "Every" >
+<!ENTITY event.recurrence.monthly.first.label           "The First">
+<!ENTITY event.recurrence.monthly.second.label          "The Second">
+<!ENTITY event.recurrence.monthly.third.label           "The Third">
+<!ENTITY event.recurrence.monthly.fourth.label          "The Fourth">
+<!ENTITY event.recurrence.monthly.fifth.label           "The Fifth">
+<!ENTITY event.recurrence.monthly.last.label            "The Last">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Sunday" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Monday" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Tuesday" >
@@ -280,7 +285,6 @@
 <!ENTITY event.recurrence.every.label                        "Every:" >
 <!ENTITY repeat.units.years.both                             "Year(s)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Every" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Every" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -303,12 +307,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "October" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "November" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "December" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "First">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "Second">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "Third">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "Fourth">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "Fifth">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "Last">
+<!ENTITY event.recurrence.yearly.every.label                 "Every">
+<!ENTITY event.recurrence.yearly.first.label                 "The First">
+<!ENTITY event.recurrence.yearly.second.label                "The Second">
+<!ENTITY event.recurrence.yearly.third.label                 "The Third">
+<!ENTITY event.recurrence.yearly.fourth.label                "The Fourth">
+<!ENTITY event.recurrence.yearly.fifth.label                 "The Fifth">
+<!ENTITY event.recurrence.yearly.last.label                  "The Last">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Sunday" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Monday" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Tuesday" >
@@ -337,27 +342,6 @@
 <!ENTITY event.repeat.until.label                       "Repeat until" >
 <!ENTITY event.recurrence.preview.label                 "Preview">
 
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "minutes" >
-<!ENTITY alarm.units.hours                  "hours" >
-<!ENTITY alarm.units.days                   "days" >
-
-<!ENTITY reminder.title.label                           "Custom Reminder">
-<!ENTITY reminder.dialogtitle.label                     "Set up reminders">
-<!ENTITY reminder.reminderDetails.label                 "Reminder Details">
-<!ENTITY reminder.action.label                          "Choose a Reminder Action">
-<!ENTITY reminder.action.alert.label                    "Show an Alert">
-<!ENTITY reminder.action.email.label                    "Send an E-mail">
-<!ENTITY reminder.new.label                             "New">
-<!ENTITY reminder.delete.label                          "Delete">
-<!ENTITY reminder.relation.start.label                  "the event starts">
-<!ENTITY reminder.relation.end.label                    "the event ends">
-<!ENTITY reminder.add.label                             "Add">
-<!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "Remove">
-<!ENTITY reminder.remove.accesskey                      "R">
-
-
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Invite Attendees">
 <!ENTITY event.organizer.label                  "Organizer">
@@ -372,6 +356,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentative" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Out of Office" >
 <!ENTITY event.freebusy.legend.unknown          "No Information" >
+<!ENTITY event.attendee.role.required           "Required Attendee">
+<!ENTITY event.attendee.role.optional           "Optional Attendee">
+<!ENTITY event.attendee.role.chair              "Chair">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Please Specify the Timezone">

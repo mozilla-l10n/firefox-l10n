@@ -62,13 +62,16 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.calendar.label         "ਕੈਲੰਡਰ ਐਕਸਪੋਰਟ…">
-<!ENTITY calendar.export.calendar.accesskey     "E">
 <!ENTITY calendar.export.selection.label        "ਚੋਣ ਐਕਸਪੋਰਟ…">
 <!ENTITY calendar.export.selection.accesskey    "S">
+<!ENTITY calendar.export.label                  "Export…">
+<!ENTITY calendar.export.accesskey              "E">
 
 <!ENTITY calendar.publish.label                 "ਪਬਲਿਸ਼…">
 <!ENTITY calendar.publish.accesskey             "b">
+
+<!ENTITY calendar.deletecalendar.label          "Delete Selected Calendar…">
+<!ENTITY calendar.deletecalendar.accesskey      "D">
 
 <!ENTITY calendar.menu.customize.label          "ਕਸਟਮਾਈਜ਼…">
 <!ENTITY calendar.menu.customize.accesskey      "C">
@@ -98,11 +101,6 @@
 <!ENTITY goNextCmd.week.label                   "ਅਗਲੇ ਹਫ਼ਤੇ">
 <!ENTITY goNextCmd.month.label                  "ਅਗਲੇ ਮਹੀਨੇ">
 <!ENTITY goNextCmd.all.accesskey                "e">
-
-<!ENTITY addressBookCmd.label                   "ਐਡਰੈੱਸ ਬੁੱਕ">
-<!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY calendar.importcalendar.label          "…ਕੈਲੰਡਰ ਇੰਪੋਰਟ ਕਰੋ">
 
 <!ENTITY showCurrentView.label                  "ਮੌਜੂਦਾ ਝਲਕ">
 <!ENTITY showCurrentView.accesskey              "V">
