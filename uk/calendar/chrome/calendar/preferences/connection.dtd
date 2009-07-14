@@ -56,8 +56,6 @@
 <!ENTITY  reload.accesskey              "е">
 <!ENTITY  ftp.label                     "FTP-проксі:">
 <!ENTITY  ftp.accesskey                 "к">
-<!ENTITY  gopher.label                  "Gopher-проксі:">
-<!ENTITY  gopher.accesskey              "р">
 <!ENTITY  http.label                    "HTTP-проксі:">
 <!ENTITY  http.accesskey                "і">
 <!ENTITY  ssl.label                     "SSL проксі:">
@@ -72,8 +70,6 @@
 <!ENTITY  HTTPport.accesskey            "">
 <!ENTITY  SSLport.accesskey             "">
 <!ENTITY  FTPport.accesskey             "">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "">
 <!ENTITY  noproxy.label                 "Не використовувати проксі:">
 <!ENTITY  noproxy.accesskey             "е">
