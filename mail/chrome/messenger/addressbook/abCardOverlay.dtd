@@ -79,9 +79,9 @@
 <!ENTITY ScreenName.label               "ਸਕਰੀਨ ਨਾਂ:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "ਰਿਮੋਟ ਚਿੱਤਰ ਮਨਜ਼ੂਰ ਹਨ।">
-<!ENTITY allowRemoteContent.accesskey   "r">
-<!ENTITY allowRemoteContent.tooltip     "HTML ਸੁਨੇਹਿਆਂ ਵਿੱਚ, ਰਿਮੋਟ ਸਰੋਤ ਤੋਂ ਚਿੱਤਰ ਇੰਬੈੱਡ ਕਰਨਾ ਸੰਭਵ ਹੈ। ਇੰਝ ਦੇ ਸੁਨੇਹੇ ਨੂੰ ਖੋਲ੍ਹਣ ਨਾਲ ਇੱਕ ਬਾਹਰੀ ਸਰੋਤ ਨਾਲ ਕੁਨੈਕਸ਼ਨ ਬਣਾਇਆ ਜਾਵੇਗਾ। ਇਸ ਨਾਲ ਇਹ ਪਤਾ ਲੱਗ ਸਕਦਾ ਹੈ ਕਿ ਸੁਨੇਹਿਆਂ ਪੜ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਇਸ ਦੀ ਚੋਣ ਕਰਨ ਨਾਲ ਇਸ ਸੰਪਰਕ ਤੋਂ HTML ਸੁਨੇਹਿਆਂ ਵਿੱਚ ਬਾਹਰੀ ਇੰਬੈੱਡ ਕੀਤੇ ਚਿੱਤਰ ਮਨਜ਼ੂਰ ਹੋਣਗੇ">
+<!ENTITY allowRemoteContent1.label      "Allow remote content.">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "HTML ਸੁਨੇਹਿਆਂ ਵਿੱਚ, ਰਿਮੋਟ ਸਰੋਤ ਤੋਂ ਚਿੱਤਰ ਇੰਬੈੱਡ ਕਰਨਾ ਸੰਭਵ ਹੈ। ਇੰਝ ਦੇ ਸੁਨੇਹੇ ਨੂੰ ਖੋਲ੍ਹਣ ਨਾਲ ਇੱਕ ਬਾਹਰੀ ਸਰੋਤ ਨਾਲ ਕੁਨੈਕਸ਼ਨ ਬਣਾਇਆ ਜਾਵੇਗਾ। ਇਸ ਨਾਲ ਇਹ ਪਤਾ ਲੱਗ ਸਕਦਾ ਹੈ ਕਿ ਸੁਨੇਹਿਆਂ ਪੜ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਇਸ ਦੀ ਚੋਣ ਕਰਨ ਨਾਲ ਇਸ ਸੰਪਰਕ ਤੋਂ HTML ਸੁਨੇਹਿਆਂ ਵਿੱਚ ਬਾਹਰੀ ਇੰਬੈੱਡ ਕੀਤੇ ਚਿੱਤਰ ਮਨਜ਼ੂਰ ਹੋਣਗੇ">
 
 <!ENTITY WorkPhone.label                "ਕੰਮ:">
 <!ENTITY WorkPhone.accesskey            "k">

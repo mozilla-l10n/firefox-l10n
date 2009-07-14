@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "ਹਵਾਲੇ ਦੇ ਹੇਠਾਂ (ਸਿਫਾਰਸ਼ੀ)">
 <!ENTITY aboveText.label                      "ਮੇਰੇ ਜਵਾਬ ਦੇ ਹੇਠਾਂ (ਹਵਾਲੇ ਦੇ ਉੱਤੇ)">
+<!ENTITY includeSigOnReply.label              "Include signature for replies">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Include signature for forwards">
+<!ENTITY includeSigOnForward.accesskey        "w">

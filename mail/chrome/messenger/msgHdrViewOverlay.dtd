@@ -60,6 +60,7 @@
 <!ENTITY archiveButton.label "ਅਕਾਇਵ">
 <!ENTITY hdrReplyButton.label "ਜਵਾਬ ਦਿਓ">
 <!ENTITY hdrReplyAllButton.label "ਸਭ ਨੂੰ ਜਵਾਬ">
+<!ENTITY hdrReplyListButton.label "reply list">
 <!ENTITY hdrForwardButton.label "ਅੱਗੇ ਭੇਜੋ">
 <!ENTITY hdrJunkButton.label "ਜੰਕ">
 <!ENTITY trashButton.tooltiptext "ਹਟਾਓ">
@@ -69,9 +70,6 @@
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "…ਸਰੋਤ ਵੇਖੋ">
 <!ENTITY viewSourceMenuItem.accesskey "V">
-
-<!ENTITY hideDetailsButton.label "ਵੇਰਵਾ ਓਹਲੇ">
-<!ENTITY showDetailsButton.label "ਵੇਰਵਾ ਵੇਖੋ">
 
 <!ENTITY openAttachmentCmd.label    "ਖੋਲ੍ਹੋ">
 <!ENTITY openAttachmentCmd.accesskey    "O">

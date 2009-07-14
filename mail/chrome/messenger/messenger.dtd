@@ -491,6 +491,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "ਨਵਾਂ ਸੁਨੇਹਾ ਲਿਖੋ">
 <!ENTITY replyButton.tooltip "ਸੁਨੇਹੇ ਦਾ ਜਵਾਬ ਦਿਓ">
 <!ENTITY replyAllButton.tooltip "ਭੇਜਣ ਵਾਲੇ ਅਤੇ ਸਭ ਪ੍ਰਾਪਤਕਰਤਾਵਾਂ ਨੂੰ ਜਵਾਬ ਦਿਓ">
+<!ENTITY replyListButton.tooltip "Reply to mailing list">
 <!ENTITY forwardButton.tooltip "ਚੁਣਿਆ ਸੁਨੇਹਾ ਅੱਗੇ ਭੇਜੋ">
 <!ENTITY fileButton.tooltip "ਚੁਣਿਆ ਸੁਨੇਹਾ ਫਾਇਲ ਬਣਾਓ">
 <!ENTITY nextButton.tooltip "ਅਗਲੇ ਨਾ-ਪੜ੍ਹੇ ਸੁਨੇਹੇ ਉੱਤੇ ਜਾਓ">
@@ -616,6 +617,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      present in the gloda search results.  The values can be found in
      messenger.properties with a prefix of "glodaSearch_results_why_". -->
 <!ENTITY glodaWhyColumn.label "ਕਿਓ?">
+<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
+     score assigned to the message as a result of the search.  The column
+     primarily exists to be sorted by, and its contents will probably have
+     little meaning for most users. -->
+<!ENTITY glodaScoreColumn.label "Score">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "ਵੇਖਾਉਣ ਲਈ ਕਾਲਮ ਚੁਣਨ ਵਾਸਤੇ ਕਲਿੱਕ ਕਰੋ">
@@ -639,6 +645,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.tooltip "ਮਿਲਣ ਕ੍ਰਮ ਨਾਲ ਲੜੀਬੱਧ ਕਰਨ ਵਾਸਤੇ ਕਲਿੱਕ ਕਰੋ">
 <!ENTITY attachmentColumn.tooltip "ਅਟੈਚਮੈਂਟ ਨਾਲ ਲੜੀਬੱਧ ਕਰਨ ਵਾਸਤੇ ਕਲਿੱਕ ਕਰੋ">
 <!ENTITY glodaWhyColumn.tooltip "ਤੁਹਾਡੇ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਸੁਨੇਹਾ ਕਿਓ ਹੈ, ਇਸ ਨਾਲ ਲੜੀਬੱਧ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ">
+<!ENTITY glodaScoreColumn.tooltip "Click to sort by the search score">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "ਸੁਨੇਹਾ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">

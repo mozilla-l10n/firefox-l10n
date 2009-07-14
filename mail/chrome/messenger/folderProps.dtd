@@ -61,10 +61,10 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "ਕੋਈ ਸੁਨੇਹਾ ਨਾ ਹਟਾਓ">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "ਸਭ ਹਟਾਓ, ਪਰ ਆਖਰੀ">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "ਹਮੇਸ਼ਾ ਪੜ੍ਹੇ ਸੁਨੇਹੇ ਹਟਾਓ">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "ਹਮੇਸ਼ਾ ਤਾਰਾਬੱਧ ਸੁਨੇਹੇ ਰੱਖੋ">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
