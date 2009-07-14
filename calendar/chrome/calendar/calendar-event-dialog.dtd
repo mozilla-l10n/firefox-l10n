@@ -26,7 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
-   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -49,15 +49,19 @@
 <!ENTITY newevent.to.label                  "По" >
 <!ENTITY newevent.attendees.notify.label    "Уведомить участников">
 
-<!ENTITY newevent.status.label              "Состояние" >
-<!ENTITY newevent.status.accesskey          "я" >
-<!ENTITY newevent.status.none.label         "Не указано" >
-<!ENTITY newevent.status.cancelled.label    "Отменено" >
-<!ENTITY newevent.status.tentative.label    "Уточняется" >
-<!ENTITY newevent.status.confirmed.label    "Подтверждено" >
-<!ENTITY newevent.status.needsaction.label  "В ожидании" >
-<!ENTITY newevent.status.inprogress.label   "Выполняется" >
-<!ENTITY newevent.status.completed.label    "Выполнено" >
+<!ENTITY newevent.status.label                "Состояние" >
+<!ENTITY newevent.status.accesskey            "я" >
+<!ENTITY newevent.status.none.label           "Не указано" >
+<!ENTITY newevent.status.none.accesskey       "Н" >
+<!ENTITY newevent.status.cancelled.label      "Отменено" >
+<!ENTITY newevent.status.cancelled.accesskey  "О" >
+<!ENTITY newevent.status.tentative.label      "Уточняется" >
+<!ENTITY newevent.status.tentative.accesskey  "У" >
+<!ENTITY newevent.status.confirmed.label      "Подтверждено" >
+<!ENTITY newevent.status.confirmed.accesskey  "П" >
+<!ENTITY newevent.status.needsaction.label    "В ожидании" >
+<!ENTITY newevent.status.inprogress.label     "Выполняется" >
+<!ENTITY newevent.status.completed.label      "Выполнено" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; завершено">
@@ -77,6 +81,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "З">
 <!ENTITY  event.menu.file.save.label                      "Сохранить">
 <!ENTITY  event.menu.file.save.accesskey                  "х">
+<!ENTITY  event.menu.item.delete.label                    "Удалить…">
+<!ENTITY  event.menu.item.delete.accesskey                "У">
 <!ENTITY  event.menu.file.page.setup.label                "Параметры страницы">
 <!ENTITY  event.menu.file.page.setup.accesskey            "а">
 <!ENTITY  event.menu.file.print.label                     "Печать">
@@ -165,6 +171,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Сохранить и закрыть">
+<!ENTITY  event.toolbar.delete.label                      "Удалить">
 <!ENTITY  event.toolbar.attendees.label                   "Пригласить участников">
 <!ENTITY  event.toolbar.spellcheck.label                  "Проверка орфографии">
 <!ENTITY  event.toolbar.privacy.label                     "Приватность">
@@ -349,6 +356,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Неопределено" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Нет на месте" >
 <!ENTITY event.freebusy.legend.unknown          "Нет информации" >
+<!ENTITY event.attendee.role.required           "Необходимый участник">
+<!ENTITY event.attendee.role.optional           "Рядовой участник">
+<!ENTITY event.attendee.role.chair              "Организатор">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Укажите часовой пояс">
