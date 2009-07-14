@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "ਟੈਕਸਟ ਫਾਰਮੈਟ ਰਵੱਈਆ ਸੰਰਚਨਾ">
 <!ENTITY sendOptions.label                     "ਭੇਜਣ ਚੋਣਾਂ…">
 <!ENTITY sendOptions.accesskey                 "S">
+
+<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
