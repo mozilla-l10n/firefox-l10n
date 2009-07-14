@@ -5,13 +5,13 @@
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings.">
-<!ENTITY manualMark.label "ਜਦੋਂ ਮੈਂ ਸੁਨੇਹੇ ਨੂੰ ਜੰਕ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ ਤਾਂ:">
+<!ENTITY manualMark.label "ਜਦੋਂ ਮੈਂ ਸੁਨੇਹੇ ਨੂੰ ਜੰਕ ਨਿਸ਼ਾਨਬੱਧ ਕਰਾਂ ਤਾਂ:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMarkModeMove.label "ਉਹਨਾਂ ਨੂੰ ਅਕਾਊਂਟ ਦੇ &quot;ਜੰਕ (Junk)&quot; ਫੋਲਡਰ ਵਿੱਚ ਭੇਜੋ">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "ਉਹ ਹਟਾਓ">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.label "ਜੰਕ ਬਣਾਏ ਗਏ ਸੁਨੇਹਿਆਂ ਨੂੰ ਪੜ੍ਹੇ ਹੋਏ ਬਣਾਓ">
 <!ENTITY markAsReadOnSpam.accesskey "k">
 <!ENTITY enableJunkLogging.label "ਜੰਕ ਫਿਲਟਰ ਲਾਗ ਚਾਲੂ">
 <!ENTITY enableJunkLogging.accesskey "g">
@@ -22,16 +22,16 @@
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; can analyze messages for suspected email scams by looking for common techniques used to deceive you.">
-<!ENTITY enablePhishingDetector1.label    "Tell me if the message I'm reading is a suspected email scam">
+<!ENTITY enablePhishingDetector1.label    "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜੇ ਸੁਨੇਹਾ, ਜੋ ਮੈਂ ਪੜ੍ਹ ਰਿਹਾ ਹੋਵਾਂ, ਸ਼ੱਕੀ ਈਮੇਲ ਘਪਲਾ ਹੋਵੇ।">
 <!ENTITY enablePhishingDetector1.accesskey  "e">
-<!ENTITY useDownloadedList.label "Use a downloaded list of suspected email scams">
+<!ENTITY useDownloadedList.label "ਸ਼ੱਕੀ ਈਮੇਲ ਘਪਲੇ ਦੀ ਡਾਊਨਲੋਡ ਕੀਤੀ ਲਿਸਟ ਵਰਤੋਂ">
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; can remember passwords for all of your accounts.">
+<!ENTITY savedPasswords.intro           "&brandShortName; ਤੁਹਾਡੇ ਸਭ ਅਕਾਊਂਟਾਂ ਲਈ ਪਾਸਵਰਡ ਯਾਦ ਰੱਖ ਸਕਦਾ ਹੈ।">
 <!ENTITY useMasterPassword.label        "ਇੱਕ ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY useMasterPassword.accesskey    "m">
-<!ENTITY masterPassword.intro           "A Master Password protects all your passwords, but you must enter it once per session.">
+<!ENTITY masterPassword.intro           "ਇੱਕ ਮਾਸਟਰ ਪਾਸਵਰਡ ਤੁਹਾਡੇ ਸਭ ਪਾਸਵਰਡ ਲਈ ਸੁਰੱਖਿਆ ਦਿੰਦਾ ਹੈ, ਪਰ ਤੁਹਾਨੂੰ ਹਰੇਕ ਸ਼ੈਸ਼ਨ ਲਈ ਇੱਕ ਵਾਰ ਦੇਣਾ ਪੈਂਦਾ ਹੈ।">
 <!ENTITY changeMasterPassword.label     "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਦਲੋ…">
 <!ENTITY changeMasterPassword.accesskey "C">
 <!ENTITY savedPasswords.label           "ਸੰਭਾਲੇ ਪਾਸਵਰਡ…">

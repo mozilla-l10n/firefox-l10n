@@ -8,11 +8,11 @@
 
 <!ENTITY enableGlodaSearch.label       "ਗਲੋਬਲ ਖੋਜ ਅਤੇ ਇੰਡੈਕਸਰ ਚਾਲੂ">
 <!ENTITY enableGlodaSearch.accesskey   "E">
-<!ENTITY systemIntegration.label       "System Integration">
+<!ENTITY systemIntegration.label       "ਸਿਸਟਮ ਸਬੰਧ">
 
 <!ENTITY alwaysCheckDefault.label      "ਹਮੇਸ਼ਾਂ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ &brandShortName; ਡਿਫਾਲਟ ਮੇਲ ਕਲਾਇਟ ਹੈ">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
-<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.label       "ਖੋਜ ਸੁਨੇਹਿਆਂ ਲਈ &searchIntegration.engineName; ਸ਼ਾਮਲ ਕਰੋ">
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkNow.label                "ਹੁਣੇ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkNow.accesskey            "N">
@@ -31,15 +31,14 @@
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "ਸਕਿੰਟ">
 <!ENTITY openMsgIn.label               "ਸੁਨੇਹੇ ਖੋਲ੍ਹੋ:">
-<!ENTITY openMsgInNewTab.label         "A new tab">
+<!ENTITY openMsgInNewTab.label         "ਨਵੀਂ ਟੈਬ">
 <!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "ਇੱਕ ਨਵੀਂ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
+<!ENTITY reuseExpRadio0.label          "ਨਵੀਂ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
 <!ENTITY reuseExpRadio0.accesskey      "n">
-<!ENTITY reuseExpRadio1.label          "ਇੱਕ ਮੌਜੂਦਾ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
+<!ENTITY reuseExpRadio1.label          "ਮੌਜੂਦਾ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnDelete.label  "Close message window on delete">
+<!ENTITY closeMsgWindowOnDelete.label  "ਹਟਾਉਣ ਉੱਤੇ ਸੁਨੇਹੇ ਵਿੰਡੋ ਬੰਦ ਕਰੋ">
 <!ENTITY closeMsgWindowOnDelete.accesskey "C">
-
 
 
 <!ENTITY configEditDesc.label          "ਤਕਨੀਕੀ ਸੰਰਚਨਾ">
@@ -90,7 +89,7 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "ਕੈਸ਼ ਲਈ">
+<!ENTITY useCacheBefore.label            "ਕੈਸ ਲਈ">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB ਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ">
 <!ENTITY clearCacheNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">

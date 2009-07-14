@@ -1,19 +1,19 @@
-<!ENTITY  typeColumn.label            "Content Type">
+<!ENTITY  typeColumn.label            "ਸਮੱਗਰੀ ਟਾਈਪ">
 <!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label         "Action">
+<!ENTITY  actionColumn2.label         "ਐਕਸ਼ਨ">
 <!ENTITY  actionColumn2.accesskey     "A">
 
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Search">
+<!ENTITY  filter.emptytext            "ਖੋਜ">
 
-<!ENTITY saveTo.label                 "Save files to">
+<!ENTITY saveTo.label                 "ਫਾਇਲਾਂ ਇੱਥੇ ਸੰਭਾਲੋ">
 <!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "Always ask me where to save files">
+<!ENTITY alwaysAsk.label              "ਮੈਨੂੰ ਹਮੇਸ਼ਾ ਪੁੱਛੋ ਕਿ ਕਿੱਥੇ ਸੰਭਾਲਣਾ ਹੈ">
 <!ENTITY alwaysAsk.accesskey          "A">
-<!ENTITY chooseFolderWin.label        "Browse…">
+<!ENTITY chooseFolderWin.label        "…ਝਲਕ">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Choose…">
+<!ENTITY chooseFolderMac.label        "ਚੁਣੋ…">
 <!ENTITY chooseFolderMac.accesskey    "C">
