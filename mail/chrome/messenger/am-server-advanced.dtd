@@ -9,7 +9,7 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY useIdle.label "ਜੇਕਰ ਸਰਵਰ ਸਹਾਇਕ ਹੋਵੇ ਤਾਂ IDLE ਕਮਾਂਡ ਇਸਤੇਮਾਲ ਕਰੋ">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "ਕੈਸ਼ ਲਈ ਵੱਧੋ-ਵੱਧ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨਾਂ ਦੀ ਗਿਣਤੀ">
+<!ENTITY maximumConnectionsNumber.label "ਕੈਸ ਲਈ ਵੱਧੋ-ਵੱਧ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨਾਂ ਦੀ ਗਿਣਤੀ">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "ਇਹ ਪਸੰਦ ਤੁਹਾਡੇ IMAP ਸਰਵਰ ਅਤੇ ਨਾਂ-ਥਾਂ ਨਿਰਧਾਰਿਤ ਕਰਦੀ ਹੈ">

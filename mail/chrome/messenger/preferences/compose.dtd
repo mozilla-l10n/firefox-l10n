@@ -51,7 +51,7 @@
 <!ENTITY sendOptions.label                     "ਭੇਜਣ ਚੋਣਾਂ…">
 <!ENTITY sendOptions.accesskey                 "S">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.label              "ਗੁੰਮ ਅਟੈਚਮੈਂਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 <!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.label       "ਸ਼ਬਦ…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">

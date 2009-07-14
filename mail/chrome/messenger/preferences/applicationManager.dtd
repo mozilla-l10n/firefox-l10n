@@ -1,4 +1,4 @@
-<!ENTITY appManager.title     "Application Details">
+<!ENTITY appManager.title     "ਐਪਲੀਕੇਸ਼ਨ ਵੇਰਵਾ">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
-<!ENTITY remove.label         "Remove">
+<!ENTITY remove.label         "ਹਟਾਓ">
 <!ENTITY remove.accesskey     "R">

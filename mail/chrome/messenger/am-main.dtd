@@ -14,9 +14,9 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "ਸੰਸਥਾ:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signatureText.label "Signature text:">
+<!ENTITY signatureText.label "ਦਸਤਖਤ ਟੈਕਸਟ:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "Use HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "HTML ਵਰਤੋਂ (ਜਿਵੇਂ, &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
 <!ENTITY signatureFile.accesskey "t">
@@ -36,4 +36,3 @@
 <!ENTITY smtpName.label "ਬਾਹਰੀ ਸਰਵਰ (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "ਡਿਫਾਲਟ ਸਰਵਰ ਵਰਤੋਂ">
-

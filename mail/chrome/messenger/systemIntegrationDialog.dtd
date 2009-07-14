@@ -1,9 +1,9 @@
-<!ENTITY systemIntegration.title  "System Integration">
-<!ENTITY defaultClient.intro  "Use &brandShortName; as the default client for:">
+<!ENTITY systemIntegration.title  "ਸਿਸਟਮ ਐਂਟੀਗਰੇਸ਼ਨ">
+<!ENTITY defaultClient.intro  "&brandShortName; ਨੂੰ ਡਿਫਾਲਟ ਕਲਾਇਟ ਵਜੋਂ ਵਰਤੋਂ:">
 
-<!ENTITY email.label "E-Mail">
-<!ENTITY newsgroups.label "Newsgroups">
-<!ENTITY feeds.label "Feeds">
+<!ENTITY email.label "ਈਮੇਲ">
+<!ENTITY newsgroups.label "ਨਿਊਜ਼ਗਰੁੱਪ">
+<!ENTITY feeds.label "ਫੀਡ">
 
 <!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">

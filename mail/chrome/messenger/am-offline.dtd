@@ -18,13 +18,13 @@
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "ਕੋਈ ਵੀ ਸੁਨੇਹਾ ਨਾ ਹਟਾਓ">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.label "ਸਭ ਹਟਾਓ, ਪਰ ਸਭ ਤੋਂ ਤਾਜ਼ਾ ਨਹੀਂ">
 <!ENTITY retentionKeepRecent.accesskey "b">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionKeepUnreadHidden.label "ਪੜ੍ਹੇ ਸੁਨੇਹੇ ਹਮੇਸ਼ਾ ਹਟਾਓ (ਉਮਰ ਸੈਟਿੰਗ ਅਣਡਿੱਠੀ)">
 <!ENTITY retentionApplyToFlagged.label "ਹਮੇਸ਼ਾ ਤਾਰਾਬੱਧ ਸੁਨੇਹੇ ਰੱਖੋ">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
+<!ENTITY nntpRemoveMsgBody.label "ਇਸ ਤੋਂ ਵੱਧ ਲਈ ਸੁਨੇਹਿਆਂ ਤੋਂ ਮੁੱਖ ਭਾਗ ਹਟਾਓ">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਨਿਊਜ਼ਗਰੁੱਪ ਚੁਣੋ…">
 <!ENTITY offlineSelectNntp.accesskey "S">
