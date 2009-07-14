@@ -100,6 +100,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Следующий месяц" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Предыдущий месяц" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "На один день вперёд" >
+<!ENTITY calendar.navigation.prevday.tooltip    "На один день назад" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "На одну неделю вперёд" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "На одну неделю назад" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "На один месяц вперёд" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "На один месяц назад" >
+
 <!ENTITY calendar.newevent.button.label         "Новое событие" >
 <!ENTITY calendar.newtask.button.label          "Новая задача" >
 <!ENTITY calendar.print.button.label            "Печать" >
