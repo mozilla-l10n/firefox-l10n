@@ -119,4 +119,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY consoleErrColumn.label    "Columna:">
 
 <!ENTITY selectListDone.label      "Feito">
-<!ENTITY selectListDisplay.format  "#1 elementos">
