@@ -1,19 +1,19 @@
-<!ENTITY typeColumn.label "Content Type">
+<!ENTITY typeColumn.label "Eduki mota">
 <!ENTITY typeColumn.accesskey "T">
 
-<!ENTITY actionColumn2.label "Action">
+<!ENTITY actionColumn2.label "Ekintza">
 <!ENTITY actionColumn2.accesskey "A">
 
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 
-<!ENTITY filter.emptytext "Search">
+<!ENTITY filter.emptytext "Bilatu">
 
-<!ENTITY saveTo.label "Save files to">
-<!ENTITY saveTo.accesskey "S">
-<!ENTITY alwaysAsk.label "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey "A">
-<!ENTITY chooseFolderWin.label "Browse…">
-<!ENTITY chooseFolderWin.accesskey "B">
-<!ENTITY chooseFolderMac.label "Choose…">
-<!ENTITY chooseFolderMac.accesskey "C">
+<!ENTITY saveTo.label "Gorde fitxategiak hemen: ">
+<!ENTITY saveTo.accesskey "G">
+<!ENTITY alwaysAsk.label "Beti galdetu niri fitxategiak non  gorde">
+<!ENTITY alwaysAsk.accesskey "B">
+<!ENTITY chooseFolderWin.label "Arakatu…">
+<!ENTITY chooseFolderWin.accesskey "A">
+<!ENTITY chooseFolderMac.label "Hautatu…">
+<!ENTITY chooseFolderMac.accesskey "H">

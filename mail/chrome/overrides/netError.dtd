@@ -20,17 +20,17 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
-<!ENTITY fileNotFound.longDesc "<ul> \n 
-<li>Fitxategiaren izena birbegiratu ia errorerik daukan.</li> \n 
-<li>Begiratu ia fitxategia lekuz mugitu, izena aldatu edo ezabatu duten.</li> \n 
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Fitxategiaren izena birbegiratu ia errorerik daukan.</li> 
+<li>Begiratu ia fitxategia lekuz mugitu, izena aldatu edo ezabatu duten.</li> 
 </ul>">
 
 <!ENTITY generic.title "Iepa.">
 <!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
 
 <!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
-<!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidez.net/</strong> formatukoak dira</li> \n 
-<li>Ziurtatu aurrerako barrak erabiltzen dituzula (adib.<strong>/</strong>).</li> \n 
+<!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidez.net/</strong> formatukoak dira</li> 
+<li>Ziurtatu aurrerako barrak erabiltzen dituzula (adib.<strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
@@ -121,5 +121,5 @@ netError.xhtml) because it exposes functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningText "<p>Ez zenuke salbuespen bat gehitu beharko erabiltzen ari zaren konexioaz ez bazara guztiz fidatzen edo ez baduzu zerbitzari honen errorerik ikusteko erabiltzen.</p> 
  
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> \n 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">

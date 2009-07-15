@@ -1,6 +1,6 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title "About Your Rights">
+<!ENTITY rights.title "Zure eskubideei buruz">
 <!ENTITY rights.intro-header "Zure eskubideei buruz">
 <!ENTITY rights.intro "&brandFullName; software libre eta kode askekoa da, milaka pertsonek osatutako mundu guztiko komunitateak egina. Badira jakin behar zenituzkeen zenbait gauza:">
 <!-- Note on pointa / pointb / pointc form:
@@ -13,7 +13,7 @@
      deliberate for formatting around the embedded links. -->
 
 <!ENTITY rights.intro-point1a "&brandShortName; zure eskura dago ">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1b "Mozilla lizentzia publikoa">
 <!ENTITY rights.intro-point1c " lizentziaren baldintzapean. Honek esan nahi du, &brandShortName; erabili, kopiatu eta besteei bana diezaiokezula. Era berean, &brandShortName;(r)en iturburu-kodea alda dezakezu zure beharrizanetara moldatzeko. Egindako aldaketak banatzeko eskubidea ematen dizu Mozilla Public License-k.">
 
 <!ENTITY rights.intro-point2a "Mozillak ez dizu eskubiderik aitortzen Mozilla eta Firefox marka erregistratuetan edo logoetan. Marka erregistratuei buruzko argibide gehiago duzu ">

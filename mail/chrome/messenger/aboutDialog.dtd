@@ -4,12 +4,14 @@
 <!ENTITY aboutButton.label "&lt; Back">
 <!ENTITY aboutButton.accesskey "B">
 <!ENTITY aboutVersion "bertsioa">
-<!ENTITY copyrightText "&#169;1998-2005 Contributors. All Rights Reserved. Mozilla Thunderbird and the Thunderbird logos are trademarks of the Mozilla Foundation.  All rights reserved.">
-<!ENTITY aboutMenu.label "About">
-<!ENTITY aboutMenu.accesskey "A">
-<!ENTITY aboutRights.label "Your Rights">
+<!ENTITY copyrightText "&#169;1998-2009 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
+Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 
+reserved.">
+<!ENTITY aboutMenu.label "Honi buruz">
+<!ENTITY aboutMenu.accesskey "O">
+<!ENTITY aboutRights.label "Zure eskubideak">
 <!ENTITY aboutRights.accesskey "R">
-<!ENTITY aboutContributors.label "Contributors">
-<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutContributors.label "Laguntzaileak">
+<!ENTITY aboutContributors.accesskey "u">
 
 <!ENTITY cmdCloseMac.commandKey "w">
