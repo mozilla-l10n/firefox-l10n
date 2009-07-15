@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "">
+<!ENTITY  typeColumn.accesskey        "">
+
+<!ENTITY  actionColumn2.label         "">
+<!ENTITY  actionColumn2.accesskey     "">
+
+<!ENTITY  focusSearch1.key            "">
+<!ENTITY  focusSearch2.key            "">
+
+<!ENTITY  filter.emptytext            "">
+
+<!ENTITY saveTo.label                 "">
+<!ENTITY saveTo.accesskey             "">
+<!ENTITY alwaysAsk.label              "">
+<!ENTITY alwaysAsk.accesskey          "">
+<!ENTITY chooseFolderWin.label        "">
+<!ENTITY chooseFolderWin.accesskey    "">
+<!ENTITY chooseFolderMac.label        "">
+<!ENTITY chooseFolderMac.accesskey    "">

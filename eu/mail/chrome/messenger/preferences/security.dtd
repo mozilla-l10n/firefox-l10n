@@ -1,0 +1,43 @@
+<!ENTITY itemJunk.label          "">
+<!ENTITY itemPhishing.label      "">
+<!ENTITY itemPasswords.label     "">
+<!ENTITY itemAntiVirus.label     "">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "">
+<!ENTITY manualMark.label "">
+<!ENTITY manualMark.accesskey "">
+<!ENTITY manualMarkModeMove.label "">
+<!ENTITY manualMarkModeMove.accesskey "">
+<!ENTITY manualMarkModeDelete.label "">
+<!ENTITY manualMarkModeDelete.accesskey "">
+<!ENTITY markAsReadOnSpam.label "">
+<!ENTITY markAsReadOnSpam.accesskey "">
+<!ENTITY enableJunkLogging.label "">
+<!ENTITY enableJunkLogging.accesskey "">
+<!ENTITY openJunkLog.label "">
+<!ENTITY openJunkLog.accesskey "">
+<!ENTITY resetTrainingData.label "">
+<!ENTITY resetTrainingData.accesskey "">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "">
+<!ENTITY enablePhishingDetector1.label    "">
+<!ENTITY enablePhishingDetector1.accesskey  "">
+<!ENTITY useDownloadedList.label "">
+<!ENTITY useDownloadedList.accesskey "">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "">
+<!ENTITY useMasterPassword.label        "">
+<!ENTITY useMasterPassword.accesskey    "">
+<!ENTITY masterPassword.intro           "">
+<!ENTITY changeMasterPassword.label     "">
+<!ENTITY changeMasterPassword.accesskey "">
+<!ENTITY savedPasswords.label           "">
+<!ENTITY savedPasswords.accesskey       "">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "">
+<!ENTITY antiVirus.label      "">
+<!ENTITY antiVirus.accesskey  "">

@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "">
+<!ENTITY defaultClient.intro  "">
+
+<!ENTITY email.label "">
+<!ENTITY newsgroups.label "">
+<!ENTITY feeds.label "">
+
+<!ENTITY checkOnStartup.label "">
+<!ENTITY checkOnStartup.accesskey "">
+
+<!ENTITY searchIntegration.label "">
+<!ENTITY searchIntegration.accesskey "">
