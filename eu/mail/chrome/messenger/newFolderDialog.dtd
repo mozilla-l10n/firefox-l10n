@@ -43,6 +43,6 @@
 <!ENTITY description.label "Sortu honen azpikarpeta gisa:">
 <!ENTITY description.accesskey "s">
 <!ENTITY folderRestriction1.label "Zerbitzari honek bi mota berezitara mugatzen ditu karpetak.">
-<!ENTITY folderRestriction2.label "Onartu karpeta berriaren edukinean:">
+<!ENTITY folderRestriction2.label "Onartu karpeta berriak ondorengoa edukitzea:">
 <!ENTITY foldersOnly.label "Karpetak soilik">
 <!ENTITY messagesOnly.label "Mezuak soilik">

@@ -23,13 +23,13 @@
 <!ENTITY copyCmd.accesskey "k">
 <!ENTITY pasteCmd.label "Itsatsi">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "i">
+<!ENTITY pasteCmd.accesskey "s">
 <!ENTITY deleteCmd.label "Ezabatu">
 <!ENTITY deleteCmd.accesskey "e">
-<!ENTITY selectAllCmd.label "Hautatu Dena">
+<!ENTITY selectAllCmd.label "Hautatu dena">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Aukerak...">
+<!ENTITY preferencesCmd.label "Aukerak…">
 <!ENTITY preferencesCmd.accesskey "K">
 <!ENTITY preferencesCmdUnix.label "Hobespenak">
 <!ENTITY preferencesCmdUnix.accesskey "n">
@@ -39,16 +39,14 @@
 <!ENTITY viewToolbarsMenu.label "Tresna-barrak">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY showTaskbarCmd.label "Egoera-barra">
-<!ENTITY showTaskbarCmd.accesskey "B">
+<!ENTITY showTaskbarCmd.accesskey "E">
 
-<!ENTITY proxy.label "Proxy Konfigurazioa...">
+<!ENTITY proxy.label "Proxy-konfigurazioa…">
 <!ENTITY proxy.accesskey "K">
 
 <!ENTITY closeCmd.label "Itxi">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "x">
-
-<!ENTITY closeWindow.label "Itxi leihoa">
 
 <!ENTITY quitApplicationCmd.label "Irten">
 <!ENTITY quitApplicationCmd.key "Q">
@@ -57,5 +55,5 @@
 <!ENTITY quitApplicationCmdUnix.label "Irten">
 <!ENTITY quitApplicationCmdUnix.accesskey "i">
 
-<!ENTITY quitApplicationCmdMac.label "&brandShortName; Itxi">
+<!ENTITY quitApplicationCmdMac.label "Itxi &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey "t">

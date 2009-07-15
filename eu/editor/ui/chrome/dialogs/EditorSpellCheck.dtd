@@ -36,12 +36,12 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Ortografia egiaztatu">
+<!ENTITY windowTitle.label "Egiaztatu ortografia">
 
 <!ENTITY misspelledWord.label "Gaizki idatzitako hitza:">
-<!ENTITY wordEditField.label "Ordezkatu honekin:">
+<!ENTITY wordEditField.label "Ordeztu honekin:">
 <!ENTITY wordEditField.accessKey "h">
-<!ENTITY checkwordButton.label "Hitza egiaztatu">
+<!ENTITY checkwordButton.label "Egiaztatu hitza">
 <!ENTITY checkwordButton.accessKey "e">
 <!ENTITY suggestions.label "Aholkuak:">
 <!ENTITY suggestions.accessKey "h">
@@ -49,10 +49,10 @@
 <!ENTITY ignoreButton.accessKey "B">
 <!ENTITY ignoreAllButton.label "Baztertu denak">
 <!ENTITY ignoreAllButton.accessKey "d">
-<!ENTITY replaceButton.label "Ordezkatu">
+<!ENTITY replaceButton.label "Ordeztu">
 <!ENTITY replaceButton.accessKey "R">
-<!ENTITY replaceAllButton.label "Ordezkatu denak">
-<!ENTITY replaceAllButton.accessKey "K">
+<!ENTITY replaceAllButton.label "Ordeztu denak">
+<!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "Gelditu">
 <!ENTITY stopButton.accessKey "g">
 <!ENTITY userDictionary.label "Hiztegi pertsonala:">

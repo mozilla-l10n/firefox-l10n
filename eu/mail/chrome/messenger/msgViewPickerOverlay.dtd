@@ -4,15 +4,15 @@
 <!ENTITY viewPicker.accesskey "i">
 <!ENTITY viewAll.label "Dena">
 <!ENTITY viewAll.accesskey "A">
-<!ENTITY viewUnread.label "Irakurri-gabea">
-<!ENTITY viewUnread.accesskey "G">
+<!ENTITY viewUnread.label "Irakurri gabea">
+<!ENTITY viewUnread.accesskey "U">
 <!ENTITY viewNotDeleted.label "Ez ezabatua">
 <!ENTITY viewNotDeleted.accesskey "E">
 <!ENTITY viewTags.label "Etiketak">
 <!ENTITY viewTags.accesskey "T">
-<!ENTITY viewCustomViews.label "Pertsonalizatutako Ikuspegiak">
+<!ENTITY viewCustomViews.label "Pertsonalizatutako ikuspegiak">
 <!ENTITY viewCustomViews.accesskey "K">
-<!ENTITY viewVirtualFolder.label "Gorde ikuspegia karpeta bat bezala...">
+<!ENTITY viewVirtualFolder.label "Gorde ikuspegia karpeta bat bezala…">
 <!ENTITY viewVirtualFolder.accesskey "G">
-<!ENTITY viewCustomizeView.label "Pertsonlizatu...">
+<!ENTITY viewCustomizeView.label "Pertsonalizatu…">
 <!ENTITY viewCustomizeView.accesskey "P">

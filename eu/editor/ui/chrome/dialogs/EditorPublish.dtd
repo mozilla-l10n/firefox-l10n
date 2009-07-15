@@ -43,7 +43,7 @@
 <!ENTITY publishButton.label "Argitaratu">
 <!-- Publish Tab Panel -->
 
-<!ENTITY siteList.label "Gune izena:">
+<!ENTITY siteList.label "Gunearen izena:">
 <!ENTITY siteList.accesskey "e">
 <!ENTITY siteList.tooltip "Argitaratu nahi duzun gunea aukeratu">
 <!ENTITY newSiteButton.label "Gune berria">
@@ -69,30 +69,30 @@
 <!ENTITY filename.accesskey "F">
 <!ENTITY filename.tooltip "Idatzi fitxategiaren izena, web orrientzat '.html' ere">
 <!ENTITY filenameExample.label "adib,: &quot;nireorria.html&quot;">
-<!ENTITY setDefaultButton.label "Ezarri lehenetsi bezala">
+<!ENTITY setDefaultButton.label "Ezarri lehenetsi gisa">
 <!ENTITY setDefaultButton.accesskey "L">
 <!ENTITY removeButton.label "Ezabatu gunea">
 <!ENTITY removeButton.accesskey "E">
 <!-- Settings Tab Panel -->
 
 <!ENTITY publishSites.label "Guneak argitaratzen">
-<!ENTITY serverInfo.label "Zerbitzari argibideak">
+<!ENTITY serverInfo.label "Zerbitzariaren informazioa">
 <!ENTITY loginInfo.label "Saio argibideak">
-<!ENTITY siteName.label "Gune izena:">
+<!ENTITY siteName.label "Gunearen izena:">
 <!ENTITY siteName.accesskey "e">
 <!ENTITY siteName.tooltip "Argitaratze gunea identifikatzeko ezizena (adib.: 'NireGunea')">
 <!ENTITY siteUrl.label "Argitaratze gunea (adib.: 'ftp://ftp.nireisp.com/erabiltzailea'):">
 <!ENTITY siteUrl.accesskey "a">
 <!ENTITY siteUrl.tooltip "Zure hornitzaile edo hosting-ak emandako FTP:// edo HTTP:// helbidea">
-<!ENTITY browseUrl.label "Zure hasiera orriaren HTTP helbidea (adib.: 'http://www.nireisp.com/erabiltzailea'):">
+<!ENTITY browseUrl.label "Zure hasiera-orriaren HTTP helbidea (adib.: 'http://www.nireisp.com/erabiltzailea'):">
 <!ENTITY browseUrl.accesskey "T">
-<!ENTITY browseUrl.tooltip "Zure etxe direktorioaren HTTP:// helbiea (ez ipini fitxategiaren-izena)">
-<!ENTITY username.label "Erabiltzaile izena:">
+<!ENTITY browseUrl.tooltip "Zure etxe direktorioaren HTTP:// helbidea (ez jarri fitxategi-izena)">
+<!ENTITY username.label "Erabiltzaile-izena:">
 <!ENTITY username.accesskey "E">
-<!ENTITY username.tooltip "Zure hornitzaile edo hosting-an saioa hasteko erabili behar den erabiltzaile izena">
+<!ENTITY username.tooltip "Zure hornitzaile edo hosting-ean saioa hasteko erabili behar den erabiltzaile-izena">
 <!ENTITY password.label "Pasahitza:">
 <!ENTITY password.accesskey "h">
-<!ENTITY password.tooltip "Erabiltzaile izenarekin erabili behar den pasahitza">
+<!ENTITY password.tooltip "Erabiltzaile-izenarekin erabili behar den pasahitza">
 <!ENTITY savePassword.label "Gorde pasahitza">
 <!ENTITY savePassword.accesskey "S">
-<!ENTITY savePassword.tooltip "Hau aukeratu zure pasahitza pasahitz kudeatzailean gordetzeko">
+<!ENTITY savePassword.tooltip "Hautatu hau zure pasahitza Pasahitz Kudeatzailean gordetzeko">

@@ -35,17 +35,17 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY fieldMapImport.title "Inportatu Helbide-liburua">
+<!ENTITY fieldMapImport.title "Inportatu helbide-liburua">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.recordNumber "Inportatutako datuak Erregistro honentzako: ">
+<!ENTITY fieldMapImport.recordNumber "Inportatutako datuak erregistro honentzako: ">
 <!ENTITY fieldMapImport.next.label "Hurrengoa">
 <!ENTITY fieldMapImport.next.accesskey "H">
 <!ENTITY fieldMapImport.previous.label "Aurrekoa">
 <!ENTITY fieldMapImport.previous.accesskey "A">
-<!ENTITY fieldMapImport.text "Eraman gorantz eta eraman beherantz erabili ezkerrean dauden helbide-liburuko eremuek inportatzen ari zaren eskuineko informazioarekin egokiro bat egin dezaten. Inportatu nahi ez dituzun elementuak desmarkatu.">
-<!ENTITY fieldMapImport.up.label "Eraman Gorantz">
+<!ENTITY fieldMapImport.text "Erabili Eraman gorantz eta Eraman beherantz teklak ezkerrean dauden helbide-liburuko eremuek bat egin dezaten inportatzen ari zaren eskuineko informazioarekin. Desmarkatu inportatu nahi ez dituzun elementuak.">
+<!ENTITY fieldMapImport.up.label "Eraman gorantz">
 <!ENTITY fieldMapImport.up.accesskey "G">
-<!ENTITY fieldMapImport.down.label "Eraman Beherantz">
+<!ENTITY fieldMapImport.down.label "Eraman beherantz">
 <!ENTITY fieldMapImport.down.accesskey "B">
 <!ENTITY fieldMapImport.fieldListTitle "Helbide-liburuko eremuak">
 <!ENTITY fieldMapImport.dataTitle "Grabatu inportatzeko datuak">

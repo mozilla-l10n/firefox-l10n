@@ -1,7 +1,7 @@
-<!ENTITY credit.title "&brandFullName; Kredituak">
+<!ENTITY credit.title "&brandFullName; kredituak">
 <!ENTITY brandMotto "Trumoitxoriak martxan dira!">
-<!ENTITY credit.leads "Ingeniari Buruak">
-<!ENTITY credit.thanks "Esker Onak">
+<!ENTITY credit.leads "Ingeniari buruak">
+<!ENTITY credit.thanks "Esker onak">
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
@@ -10,8 +10,8 @@
 
 <!ENTITY credit.translation "Librezale.org">
 
-<!ENTITY credit.theme "Gaien Diseinua">
+<!ENTITY credit.theme "Gaiaren diseinua">
 <!ENTITY credit.qa "Kalitate-bermatzea">
-<!ENTITY credit.build "Eraikuntza eta Askapena">
+<!ENTITY credit.build "Eraikuntza eta kaleratzea">
 <!ENTITY credit.memory "Noren oroimenean">
 <!ENTITY credit.poweredByGecko "Gecko&trade;-z hornitua">

@@ -48,5 +48,5 @@
 <!ENTITY tabCSS.label "Lerro estiloa">
 <!ENTITY tabJSE.label "JavaScript gertaerak">
 
-<!ENTITY editAttribute.label "Beheko osagai batean klik egin bere balioa editatzeko">
+<!ENTITY editAttribute.label "Klik egin beheko osagai batean bere balioa editatzeko">
 <!ENTITY removeAttribute.label "Ezabatu">

@@ -38,11 +38,11 @@
 
 <!ENTITY windowTitle.label "Orri koloreak eta atzeko planoa">
 <!ENTITY pageColors.label "Orri koloreak">
-<!ENTITY defaultColorsRadio.label "Irakurlearen kolore lehenetsiak (Ez ezarri koloreak orrian)">
-<!ENTITY defaultColorsRadio.accessKey "E">
+<!ENTITY defaultColorsRadio.label "Irakurlearen kolore lehenetsiak (ez ezarri koloreak orrian)">
+<!ENTITY defaultColorsRadio.accessKey "Z">
 <!ENTITY defaultColorsRadio.tooltip "Erabili soilik ikustailearen (irakurlearen) arakatzailearen kolore-ezarpenak">
 <!ENTITY customColorsRadio.label "Erabili kolore pertsonalizatuak:">
-<!ENTITY customColorsRadio.accessKey "S">
+<!ENTITY customColorsRadio.accessKey "P">
 <!ENTITY customColorsRadio.tooltip "Kolore-ezarpen hauek ikustailearen arakatzailearen ezarpenen gainetik jartzen dira">
 
 <!ENTITY normalText.label "Testu normala">
@@ -56,6 +56,6 @@
 <!ENTITY background.label "Atzeko planoa:">
 <!ENTITY background.accessKey "A">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Atzeko planoko i¡rudia:">
+<!ENTITY backgroundImage.label "Atzeko planoko irudia:">
 <!ENTITY backgroundImage.accessKey "r">
 <!ENTITY backgroundImage.tooltip "Erabili irudi-fitxategi bat zure orriaren atzeko plano gisa">

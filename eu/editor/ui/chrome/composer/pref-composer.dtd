@@ -7,13 +7,13 @@
 <!ENTITY recentFiles.title "Azken orrien menua">
 <!ENTITY documentsInMenu.label "Zerrendatutako gehienezko orri kopurua">
 <!ENTITY documentsInMenu.accesskey "n">
-<!ENTITY savingFiles.title "Orriak gordetzean edo argitaratzean">
+<!ENTITY savingFiles.title "Orriak gorde edo argitaratzean">
 <!ENTITY preserveExisting.label "Jatorrizko iturburu formatua mantendu">
 <!ENTITY preserveExisting.accesskey "M">
 <!ENTITY preserveExisting.tooltip "Jatorrizko iturburu formatua eta lerro amaierak mantendu">
 <!ENTITY saveAssociatedFiles.label "Orriak gordetzerakoan lotutako irudi eta beste fitxategiak gorde">
 <!ENTITY saveAssociatedFiles.accesskey "S">
-<!ENTITY showPublishDialog.label "Orriak argitaratzean Argitaratze elkarrizketa Beti erakutsi">
+<!ENTITY showPublishDialog.label "Erakutsi beti argitaratze elkarrizketa orriak argitaratzean">
 <!ENTITY showPublishDialog.accesskey "A">
 <!ENTITY composerEditing.label "Editatzen">
 <!ENTITY maintainStructure.label "Mantendu taula diseinua gelaxkak gehitu edo ezabatzerakoan">

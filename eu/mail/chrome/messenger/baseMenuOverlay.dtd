@@ -5,16 +5,15 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Laguntza">
 <!ENTITY helpMenuWin.accesskey "L">
-<!ENTITY releaseCmd.label "Argitaratze oharrak">
+<!ENTITY releaseCmd.label "Bertsio-oharrak">
 <!ENTITY releaseCmd.accesskey "R">
-<!ENTITY openHelp.label "Laguntza edukiak">
+<!ENTITY openHelp.label "Laguntzaren edukiak">
 <!ENTITY openHelp.accesskey "L">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; laguntza">
+<!ENTITY openHelpMac.label "&brandShortName;(r)en laguntza">
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "accel">
 
-<!ENTITY updateCmd.label "Arakatu eguneraketen bila…">
-<!ENTITY updateCmd.accesskey "u">
+<!ENTITY updateCmd.label "Bilatu eguneraketak…">
 <!ENTITY aboutCmd.label "&brandFullName;(r)i buruz">
 <!ENTITY aboutCmd.accesskey "B">

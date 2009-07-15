@@ -43,40 +43,44 @@
 <!ENTITY generalInfo.label "Argibide orokorrak">
 <!ENTITY folderCharsetTab.label "Karaktere-kodeketa lehenetsia:">
 <!ENTITY folderCharsetTab.accesskey "K">
-<!ENTITY folderCharsetOverride.label "Aplikatu lehenetsitakoa karpetako mezu guztiei (banakako mezuen karaktere kodeketako ezarpenei eta detekzio automatikoari ezikusi egingo zaie)">
+<!ENTITY folderCharsetOverride.label "Aplikatu lehenetsitakoa karpetako mezu guztiei (banakako mezuen karaktere-kodeketako ezarpenei eta detekzio automatikoari ezikusi egingo zaie)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Berreraiki">
+<!ENTITY folderRebuildSummaryFile.label "Berreraiki indizea">
 <!ENTITY folderRebuildSummaryFile.accesskey "B">
 <!ENTITY folderRebuildSummaryFileTip.label "Berreraiki laburpen-fitxategia">
      
 <!ENTITY retention.label "Gordetze-politika">
 <!ENTITY retentionUseDefault.label "Erabili zerbitzariak lehenetsitakoa">
 <!ENTITY retentionUseDefault.accesskey "l">
-<!ENTITY daysOld.label "egun">
+<!ENTITY daysOld.label "egun zahar">
 <!ENTITY message.label "mezu">
-<!ENTITY retentionCleanup.label "Disko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke">
-<!ENTITY retentionDeleteMsg.label "Ezabatu hau baino zaharragoak diren mezuak">
+<!ENTITY retentionCleanup.label "Diskoko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke.">
+<!ENTITY retentionCleanupImap.label "Diskoko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke, bai kopia lokalak eta baita urruneko zerbitzarian dauden jatorrizkoak ere.">
+<!ENTITY retentionCleanupPop.label "Diskoko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke, urruneko zerbitzarian dauden jatorrizkoak barne.">
+<!ENTITY retentionDeleteMsg.label "Ezabatu hau baino mezu zaharragoak">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ez ezabatu mezurik">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Denak ezabatu azken hauek izan ezik:">
-<!ENTITY retentionKeepNew.accesskey "z">
-<!ENTITY retentionKeepUnread.label "Ezabatu beti irakurritako mezuak">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionApplyToFlagged.label "Mantendu beti mezu izardunak">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label "Lineaz kanpo">
-<!ENTITY folderCheckForNewMessages.label "Egiaztatu Karpeta honek mezu berriak dituen">
+<!ENTITY folderSynchronizationTab.label "Sinkronizazioa">
+<!ENTITY folderCheckForNewMessages.label "Egiaztatu karpeta honek mezu berriak dituen">
 <!ENTITY folderCheckForNewMessages.accesskey "E">
 
 <!ENTITY offlineFolder.check.label "Hautatu karpeta hau lineaz kanpo erabiltzeko">
 <!ENTITY offlineFolder.check.accesskey "H">
-<!ENTITY offlineFolder.button.label "Jaitsi orain">
-<!ENTITY offlineFolder.button.accesskey "J">
+<!ENTITY offlineFolder.button.label "Deskargatu orain">
+<!ENTITY offlineFolder.button.accesskey "D">
 
 <!ENTITY selectofflineNewsgroup.check.label "Hautatu berri-talde hau lineaz kanpo erabiltzeko">
 <!ENTITY selectofflineNewsgroup.check.accesskey "l">
-<!ENTITY offlineNewsgroup.button.label "Jaitsi orain">
-<!ENTITY offlineNewsgroup.button.accesskey "J">
+<!ENTITY offlineNewsgroup.button.label "Deskargatu orain">
+<!ENTITY offlineNewsgroup.button.accesskey "D">
 
 <!ENTITY folderProps.name.label "Izena:">
 <!ENTITY folderProps.name.accesskey "I">
@@ -84,10 +88,10 @@
 <!ENTITY folderProps.location.accesskey "L">
 
 <!ENTITY folderSharingTab.label "Partekatzea">
-<!ENTITY privileges.button.label "Pribilegioak...">
+<!ENTITY privileges.button.label "Pribilegioak…">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Hurrengo baimenak dituzu:">
-<!ENTITY folderType.label "Karpeta-mota:">
+<!ENTITY folderType.label "Karpeta mota:">
 
 <!ENTITY folderQuotaTab.label "Kuota">
 <!ENTITY folderQuotaRoot.label "Kuota-erroa:">

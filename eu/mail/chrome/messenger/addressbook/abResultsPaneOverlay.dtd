@@ -35,18 +35,18 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY GeneratedName.label "Izena">
-<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY GeneratedName.accesskey "I">
 <!ENTITY PrimaryEmail.label "ePosta">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY Company.label "Erakundea:">
 <!ENTITY Company.accesskey "k">
-<!ENTITY _PhoneticName.label "Izen Fonetikoa">
-<!ENTITY _PhoneticName.accesskey "o">
-<!ENTITY NickName.label "Ezizena">
-<!ENTITY NickName.accesskey "z">
-<!ENTITY SecondEmail.label "ePosta Gehigarria">
+<!ENTITY _PhoneticName.label "Izen fonetikoa">
+<!ENTITY _PhoneticName.accesskey "f">
+<!ENTITY NickName.label "Goitizena">
+<!ENTITY NickName.accesskey "g">
+<!ENTITY SecondEmail.label "ePosta gehigarria">
 <!ENTITY SecondEmail.accesskey "h">
-<!ENTITY Department.label "Saila:">
+<!ENTITY Department.label "Saila">
 <!ENTITY Department.accesskey "s">
 <!ENTITY JobTitle.label "Titulua">
 <!ENTITY JobTitle.accesskey "T">
@@ -58,11 +58,11 @@
 <!ENTITY FaxNumber.accesskey "F">
 <!ENTITY HomePhone.label "Etxeko telefonoa">
 <!ENTITY HomePhone.accesskey "T">
-<!ENTITY WorkPhone.label "Laneko Telefonoa">
+<!ENTITY WorkPhone.label "Laneko telefonoa">
 <!ENTITY WorkPhone.accesskey "L">
-<!ENTITY ScreenName.label "Bistarazte Izena">
-<!ENTITY ScreenName.accesskey "B">
+<!ENTITY ScreenName.label "Pantailako izena">
+<!ENTITY ScreenName.accesskey "P">
 <!ENTITY sortAscending.label "Gorantz">
-<!ENTITY sortAscending.accesskey "G">
+<!ENTITY sortAscending.accesskey "O">
 <!ENTITY sortDescending.label "Beherantz">
 <!ENTITY sortDescending.accesskey "B">

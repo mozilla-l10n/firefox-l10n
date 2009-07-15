@@ -1,12 +1,12 @@
-<!ENTITY pref.editing.title "Orri berri hobespenak">
+<!ENTITY pref.editing.title "Orri berriaren ezarpenak">
 
 <!ENTITY authorName.label "Egilea:">
 <!ENTITY authorName.accesskey "g">
 <!ENTITY pageColorHeader "Lehenetsitako orriaren itxura">
 
-<!ENTITY defaultColors.label "Irakurlearen lehenetsiko koloreak (Ez ezarri koloreak orrian)">
-<!ENTITY defaultColors.accesskey "l">
-<!ENTITY customColors.label "Erabili pertsonalizatutako koloreak:">
+<!ENTITY defaultColors.label "Irakurlearen kolore lehenetsiak (ez ezarri koloreak orrian)">
+<!ENTITY defaultColors.accesskey "z">
+<!ENTITY customColors.label "Erabili kolore pertsonalizatuak:">
 <!ENTITY customColors.accesskey "p">
 
 <!ENTITY normalText.label "Testu arrunta">

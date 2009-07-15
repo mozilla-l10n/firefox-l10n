@@ -42,9 +42,9 @@
 <!ENTITY phone.heading "Telefonoa">
 <!ENTITY work.heading "Lana">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading "Azalpena">
+<!ENTITY description.heading "Deskribapena">
 <!ENTITY addresses.heading "Helbideak">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label "Lortu mapa">
-<!ENTITY mapIt.tooltip "Helbide honen mapa bat bistaratu Web-etik">
+<!ENTITY mapIt.tooltip "Bistaratu helbide honen mapa webetik">
 

@@ -9,14 +9,14 @@
 <!ENTITY menu_securityNoEncryption.label "Ez zifratu mezu hau">
 <!ENTITY menu_securityNoEncryption.accesskey "Z">
 
-<!ENTITY menu_securitySign.label "Mezu hau Digitalki Sinatu">
+<!ENTITY menu_securitySign.label "Sinatu digitalki mezu hau">
 <!ENTITY menu_securitySign.accesskey "S">
 
-<!ENTITY menu_securityStatus.label "Ikusi Segurtasun Informazioa">
+<!ENTITY menu_securityStatus.label "Ikusi segurtasun-informazioa">
 <!ENTITY menu_securityStatus.accesskey "I">
 
 <!ENTITY securityButton.label "Segurtasuna">
-<!ENTITY securityButton.tooltip "Ikusi edo aldatu segurtasun ezarpenak">
+<!ENTITY securityButton.tooltip "Ikusi edo aldatu segurtasun-ezarpenak">
 
-<!ENTITY menu_viewSecurityStatus.label "Mezuaren Segurtasun Informazioa">
+<!ENTITY menu_viewSecurityStatus.label "Mezuaren segurtasun-informazioa">
 <!ENTITY menu_viewSecurityStatus.accesskey "I">
