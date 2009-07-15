@@ -11,20 +11,24 @@
 <!ENTITY nntpNotDownloadRead.accesskey "r">
 <!ENTITY nntpDownloadMsg.label "Hau baino mezu gehiago">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Diskoko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke">
-<!ENTITY retentionKeepMsg.label "Hau baino mezu zaharragoak ezabatu:">
+<!ENTITY retentionCleanup.label "Diskoko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke.">
+<!ENTITY retentionCleanupImap.label "Diskoko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke, bai kopia lokalak eta baita urruneko zerbitzarian dauden jatorrizkoak ere.">
+<!ENTITY retentionCleanupPop.label "Diskoko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke, urruneko zerbitzarian dauden jatorrizkoak barne.">
+<!ENTITY retentionKeepMsg.label "Ezabatu hau baino mezu zaharragoak:">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ez ezabatu mezurik">
 <!ENTITY retentionKeepAll.accesskey "e">
-<!ENTITY retentionKeepNew.label "Denak ezabatu, kenduta azken">
-<!ENTITY retentionKeepNew.accesskey "z">
-<!ENTITY retentionKeepUnread.label "Irakurritako mezuak beti ezabatu">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Mezuaren edukia hau baino gutxiago dutenak bakarrik">
-<!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Aukeratu berri-taldeak lineaz kanpoko erabilerako...">
-<!ENTITY offlineSelectNntp.accesskey "A">
-<!ENTITY offlineImapAdvancedOffline.label "Aurreratua...">
-<!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY syncGroupTitle.label "Mezu sinkronizatzea">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "b">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionApplyToFlagged.label "Mantendu beti mezu izardunak">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Hautatu berri-taldeak lineaz kanpoko erabilerako…">
+<!ENTITY offlineSelectNntp.accesskey "H">
+<!ENTITY offlineImapAdvancedOffline.label "Aurreratua…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "a">
+<!ENTITY syncGroupTitle.label "Mezuak sinkronizatzea">
 <!ENTITY diskspaceGroupTitle.label "Diskoko lekua">

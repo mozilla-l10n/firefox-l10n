@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Zabor Postaren Ezarpenak">
-<!ENTITY trainingWarning.label "Gaituta badago, aurrena &brandShortName; trebatu behar duzu zabor posta atzemateko Zabor Posta botoia erabiliz mezuak zabor gisa edo bestela markatzeko. Biak zehaztu behar dituzu, zabor mezuak eta hala ez direnak.">
-<!ENTITY level.label "Gaitu zabor posta kontrol moldakorrak kontu honentzat">
+<!ENTITY junkSettings.label "Zabor-postaren ezarpenak">
+<!ENTITY trainingWarning.label "Gaituta badago, lehenik eta behin &brandShortName; trebatu behar duzu zabor-posta atzemateko tresna-barrako zabor-posta botoia erabiliz mezuak zabor gisa edo ez markatzeko. Biak zehaztu behar dituzu, zabor mezuak eta hala ez direnak.">
+<!ENTITY level.label "Gaitu zabor-posta kontrol moldakorrak kontu honentzat">
 <!ENTITY level.accesskey "G">
 
 <!ENTITY move.label "Eraman zabor mezu berriak hona:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;Zabor Posta&quot; karpeta hemen:">
+<!ENTITY junkFolderOn.label "&quot;Zabor-posta&quot; karpeta hemen:">
 <!ENTITY junkFolderOn.accesskey "O">
 <!ENTITY otherFolder.label "Beste bat:">
 <!ENTITY otherFolder.accesskey "S">
-<!ENTITY purge1.label "Automatikoki ezabatu hau baino zabor posta zaharragoa:">
+<!ENTITY purge1.label "Ezabatu automatikoki hau baino zabor-posta zaharragoa:">
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "egun">
 
 <!ENTITY whitelist.label "Ez markatu mezua zabor gisa bidaltzailea hemen badago: ">
 <!ENTITY whitelist.accesskey "E">
 
-<!ENTITY ispHeaders.label "Hauek ezarritako zabor posta goiburuetaz fidatu: ">
-<!ENTITY ispHeaders.accesskey "H">
+<!ENTITY ispHeaders.label "Fidatu hauek ezarritako zabor-posta goiburuez: ">
+<!ENTITY ispHeaders.accesskey "T">

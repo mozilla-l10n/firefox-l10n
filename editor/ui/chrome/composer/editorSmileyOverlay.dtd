@@ -51,7 +51,7 @@
 <!ENTITY smiley4Cmd.label "Mingaina kanpoan">
 <!ENTITY smiley4Cmd.accesskey "M">
 <!ENTITY smiley4Cmd.tooltip "Txertatu mingaina ateratzen duen aurpegia">
-<!ENTITY smiley5Cmd.label "Barrezka">
+<!ENTITY smiley5Cmd.label "Barrez">
 <!ENTITY smiley5Cmd.accesskey "R">
 <!ENTITY smiley5Cmd.tooltip "Txertatu barrezka dagoen aurpegia">
 <!ENTITY smiley6Cmd.label "Lotsatuta">
@@ -66,8 +66,8 @@
 <!ENTITY smiley9Cmd.label "Muxua">
 <!ENTITY smiley9Cmd.accesskey "M">
 <!ENTITY smiley9Cmd.tooltip "Txertatu muxu ematen duen aurpegia">
-<!ENTITY smiley10Cmd.label "Oihua">
-<!ENTITY smiley10Cmd.accesskey "O">
+<!ENTITY smiley10Cmd.label "Garrasia">
+<!ENTITY smiley10Cmd.accesskey "G">
 <!ENTITY smiley10Cmd.tooltip "Txertatu oihu egiten duen aurpegia">
 <!ENTITY smiley11Cmd.label "Primeran">
 <!ENTITY smiley11Cmd.accesskey "P">
@@ -78,14 +78,14 @@
 <!ENTITY smiley13Cmd.label "Oina ahoan">
 <!ENTITY smiley13Cmd.accesskey "i">
 <!ENTITY smiley13Cmd.tooltip "Txertatu oina ahoan duen aurpegia">
-<!ENTITY smiley14Cmd.label "Errugabe">
+<!ENTITY smiley14Cmd.label "Errugabea">
 <!ENTITY smiley14Cmd.accesskey "G">
 <!ENTITY smiley14Cmd.tooltip "Txertatu errugabe aurpegia">
-<!ENTITY smiley15Cmd.label "Negarra">
-<!ENTITY smiley15Cmd.accesskey "e">
+<!ENTITY smiley15Cmd.label "Negarrez">
+<!ENTITY smiley15Cmd.accesskey "r">
 <!ENTITY smiley15Cmd.tooltip "Txertatu negar egiten duen aurpegia">
-<!ENTITY smiley16Cmd.label "Ezpaina itxita daude">
-<!ENTITY smiley16Cmd.accesskey "x">
-<!ENTITY smiley16Cmd.tooltip "Txertatu ezpainak itxirik dituen aurpegia">
-<!ENTITY SmileButton.tooltip "Txertatu irribarre aurpegia">
+<!ENTITY smiley16Cmd.label "Ezpainak-itsatsita">
+<!ENTITY smiley16Cmd.accesskey "a">
+<!ENTITY smiley16Cmd.tooltip "Txertatu ezpainak itsatsita dituen aurpegia">
+<!ENTITY SmileButton.tooltip "Txertatu aurpegiera">
 

@@ -36,6 +36,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
    
-<!ENTITY renameFolderDialog.title "Izena aldatu karpetari">
+<!ENTITY renameFolderDialog.title "Aldatu izena karpetari">
 <!ENTITY rename.label "Idatzi karpetaren izen berria:">
 <!ENTITY rename.accesskey "I">

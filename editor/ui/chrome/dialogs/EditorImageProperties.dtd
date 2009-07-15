@@ -43,8 +43,8 @@
 <!ENTITY pixelsPopup.value "pixel">
 <!-- These are in the Location tab panel -->
 
-<!ENTITY locationEditField.label "Irudiaren helbidea:">
-<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.label "Irudiaren kokalekua:">
+<!ENTITY locationEditField.accessKey "K">
 <!ENTITY locationEditField.tooltip "Idatzi irudiaren fitxategi-izena edo kokalekua">
 <!ENTITY title.label "Argibidea:">
 <!ENTITY title.accessKey "A">
@@ -59,10 +59,10 @@
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
-<!ENTITY actualSize.label "Benetako tamaina:">
-<!ENTITY actualSizeRadio.label "Benetako tamaina">
-<!ENTITY actualSizeRadio.accessKey "B">
-<!ENTITY actualSizeRadio.tooltip "Itzuli irudiaren benetako tamainara">
+<!ENTITY actualSize.label "Uneko tamaina:">
+<!ENTITY actualSizeRadio.label "Uneko tamaina">
+<!ENTITY actualSizeRadio.accessKey "U">
+<!ENTITY actualSizeRadio.tooltip "Itzuli irudiaren uneko tamainara">
 <!ENTITY customSizeRadio.label "Tamaina pertsonalizatua">
 <!ENTITY customSizeRadio.accessKey "S">
 <!ENTITY customSizeRadio.tooltip "Aldatu irudiaren tamaina orrian bistaratu bezala">
@@ -78,7 +78,7 @@
 <!ENTITY imagemapBox.label "Irudi-mapa">
 <!ENTITY removeImageMapButton.label "Ezabatu">
 <!ENTITY removeImageMapButton.accessKey "E">
-<!ENTITY editImageMapButton.label "Editatu...">
+<!ENTITY editImageMapButton.label "Editatu…">
 <!ENTITY editImageMapButton.tooltip "Sortu elkargune klikagarriak irudi honentzat">
 <!-- These are the options for image alignment -->
 
@@ -104,7 +104,7 @@
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Inprimakia">
-<!ENTITY imageLocationTab.label "Helbidea">
+<!ENTITY imageLocationTab.label "Kokalekua">
 <!ENTITY imageDimensionsTab.label "Neurriak">
 <!ENTITY imageAppearanceTab.label "Itxura">
 <!ENTITY imageLinkTab.label "Lotura">

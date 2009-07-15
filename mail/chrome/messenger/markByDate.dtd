@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "Dataz irakurrita bezala markatu">
-<!ENTITY markByDateLower.label "Nork eremuaz irakurrita markatu:">
-<!ENTITY markByDateLower.accesskey "K">
-<!ENTITY markByDateUpper.label "Nori:">
-<!ENTITY markByDateUpper.accesskey "I">
+<!ENTITY messageMarkByDate.label "Markatu mezuak irakurrita dataren arabera">
+<!ENTITY markByDateLower.label "Markatu mezuak irakurrita hemendik:">
+<!ENTITY markByDateLower.accesskey "H">
+<!ENTITY markByDateUpper.label "Hona:">
+<!ENTITY markByDateUpper.accesskey "N">

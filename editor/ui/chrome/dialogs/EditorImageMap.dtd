@@ -55,10 +55,10 @@
 <!ENTITY mapeditMenu.label "Editatu">
 <!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "Ebaki">
-<!ENTITY cutCmd.accesskey "k">
+<!ENTITY cutCmd.accesskey "e">
 <!ENTITY copyCmd.label "Kopiatu">
 <!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Itsasi">
+<!ENTITY pasteCmd.label "Itsatsi">
 <!ENTITY pasteCmd.accesskey "s">
 <!ENTITY selectallCmd.label "Hautatu dena">
 <!ENTITY selectallCmd.accesskey "d">
@@ -80,8 +80,8 @@
 <!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
 
-<!ENTITY zoominCmd.label "Zoom gehiago">
-<!ENTITY zoomoutCmd.label "Zoom gutxiago">
+<!ENTITY zoominCmd.label "Gerturatu">
+<!ENTITY zoomoutCmd.label "Urrundu">
 <!-- Keys -->
 
 <!ENTITY clear.key "z">

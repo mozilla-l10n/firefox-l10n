@@ -40,8 +40,8 @@
 <!ENTITY windowTitle.label "Lerro horizontalaren propietateak">
 
 <!ENTITY dimensionsBox.label "Neurriak">
-<!ENTITY heightEditField.label "Garaiera:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.label "Altuera:">
+<!ENTITY heightEditField.accessKey "T">
 <!ENTITY widthEditField.label "Zabalera:">
 <!ENTITY widthEditField.accessKey "Z">
 <!ENTITY pixelsPopup.value "pixel">

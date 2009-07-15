@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS Harpidetzak">
+<!ENTITY feedSubscriptions.label "Feed Subscriptions">
 <!ENTITY subscriptionDesc.label "Oharra: Jario batentzat karpeta ezabatu edo aldatzeak ez du aurretik deskargatutako artikuluengan eraginik izango.">
 <!ENTITY feedTitle.label "Izenburua:">
 <!ENTITY location.label "Kokalekua:">

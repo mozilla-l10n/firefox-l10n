@@ -1,43 +1,43 @@
-<!ENTITY itemJunk.label          "">
-<!ENTITY itemPhishing.label      "">
-<!ENTITY itemPasswords.label     "">
-<!ENTITY itemAntiVirus.label     "">
-
+<!ENTITY itemJunk.label "Zabor-posta">
+<!ENTITY itemPhishing.label "Posta-iruzurrak">
+<!ENTITY itemPasswords.label "Pasahitzak">
+<!ENTITY itemAntiVirus.label "Antibirusa">
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "">
-<!ENTITY manualMark.label "">
-<!ENTITY manualMark.accesskey "">
-<!ENTITY manualMarkModeMove.label "">
-<!ENTITY manualMarkModeMove.accesskey "">
-<!ENTITY manualMarkModeDelete.label "">
-<!ENTITY manualMarkModeDelete.accesskey "">
-<!ENTITY markAsReadOnSpam.label "">
-<!ENTITY markAsReadOnSpam.accesskey "">
-<!ENTITY enableJunkLogging.label "">
-<!ENTITY enableJunkLogging.accesskey "">
-<!ENTITY openJunkLog.label "">
-<!ENTITY openJunkLog.accesskey "">
-<!ENTITY resetTrainingData.label "">
-<!ENTITY resetTrainingData.accesskey "">
 
+<!ENTITY junkMail.intro "Ezarri zabor-postaren lehenetsitako ezarpenak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfigura daitezke.">
+<!ENTITY manualMark.label "Mezuak zabor gisa markatzean:">
+<!ENTITY manualMark.accesskey "Z">
+<!ENTITY manualMarkModeMove.label "Aldatu lekuz kontuaren &quot;Zabor-posta&quot; karpetara">
+<!ENTITY manualMarkModeMove.accesskey "d">
+<!ENTITY manualMarkModeDelete.label "Ezabatu">
+<!ENTITY manualMarkModeDelete.accesskey "E">
+<!ENTITY markAsReadOnSpam.label "Markatu zabor-mezuak irakurrita gisa">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "Gaitu zabor-posta iragazkiaren loga">
+<!ENTITY enableJunkLogging.accesskey "G">
+<!ENTITY openJunkLog.label "Erakutsi loga">
+<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "Berrezarri trebatze-datuak">
+<!ENTITY resetTrainingData.accesskey "R">
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "">
-<!ENTITY enablePhishingDetector1.label    "">
-<!ENTITY enablePhishingDetector1.accesskey  "">
-<!ENTITY useDownloadedList.label "">
-<!ENTITY useDownloadedList.accesskey "">
 
+<!ENTITY phishingDetector1.intro "&brandShortName;(e)k mezuak azter ditzake posta-iruzurrak bilatzeko, iruzur egiteko erabil daitezkeen oinarrizko teknikak begiratuz.">
+<!ENTITY enablePhishingDetector1.label "Esaidazu irakurtzen ari naizen mezua posta-iruzurra izan daitekeen">
+<!ENTITY enablePhishingDetector1.accesskey "E">
+<!ENTITY useDownloadedList.label "Erabili susmopeko posta-iruzurren deskargatutako zerrenda">
+<!ENTITY useDownloadedList.accesskey "R">
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "">
-<!ENTITY useMasterPassword.label        "">
-<!ENTITY useMasterPassword.accesskey    "">
-<!ENTITY masterPassword.intro           "">
-<!ENTITY changeMasterPassword.label     "">
-<!ENTITY changeMasterPassword.accesskey "">
-<!ENTITY savedPasswords.label           "">
-<!ENTITY savedPasswords.accesskey       "">
 
+<!ENTITY savedPasswords.intro "&brandShortName;(e)k pasahitzen informazioa gogora dezake zure kontu guztientzat.">
+<!ENTITY useMasterPassword.label "Erabili pasahitz nagusia">
+<!ENTITY useMasterPassword.accesskey "N">
+<!ENTITY masterPassword.intro "Pasahitz nagusiak zure pasahitz guztiak babesten ditu, baina saioko behin idatzi behar duzu.">
+<!ENTITY changeMasterPassword.label "Aldatu pasahitz nagusia…">
+<!ENTITY changeMasterPassword.accesskey "A">
+<!ENTITY savedPasswords.label "Gordetako pasahitzak…">
+<!ENTITY savedPasswords.accesskey "G">
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "">
-<!ENTITY antiVirus.label      "">
-<!ENTITY antiVirus.accesskey  "">
+
+<!ENTITY antiVirus.intro "&brandShortName;(e)k lana erraz diezaioke antibirus softwareari datozen posta-mezuak birusik duten ala ez aztertzerako garaian lokalki gorde aurretik.">
+<!ENTITY antiVirus.label "Baimendu antibirus-bezeroek datozen mezu indibidualak kuarentenan jartzea">
+<!ENTITY antiVirus.accesskey "B">

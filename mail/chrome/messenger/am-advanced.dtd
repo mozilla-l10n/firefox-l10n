@@ -1,14 +1,14 @@
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpServer.label "ePosta Bidaltzeko Zerbitzariaren (SMTP) Ezarpenak">
+<!ENTITY smtpServer.label "Posta bidaltzeko zerbitzariaren (SMTP) ezarpenak">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDesc.label "Nahiz eta ePosta bidaltzeko zerbitzari (SMTP) bat baino gehiago konfiguratzeko aukera egon, erabiltzaile aurreratuentzako bakarrik gomendatzen dugu. Bestela erroreak gerta daitezke mezuak bidaltzerakoan.">
+<!ENTITY smtpDesc.label "Nahiz eta posta bidaltzeko zerbitzari (SMTP) bat baino gehiago konfiguratzeko aukera egon, erabiltzaile aurreratuentzako bakarrik gomendatzen da. Hainbat SMTP zerbitzari ezartzeak erroreak ekar ditzake mezuak bidaltzerakoan.">
 
-<!ENTITY smtpListAdd.label "Gehitu...">
+<!ENTITY smtpListAdd.label "Gehitu…">
 <!ENTITY smtpListAdd.accesskey "g">
-<!ENTITY smtpListEdit.label "Editatu...">
+<!ENTITY smtpListEdit.label "Editatu…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Ezabatu">
 <!ENTITY smtpListDelete.accesskey "z">
@@ -16,8 +16,8 @@
 <!ENTITY smtpListSetDefault.accesskey "l">
 
 <!ENTITY serverDescription.label "Azalpena: ">
-<!ENTITY serverName.label "Zerbitzariaren Izena: ">
+<!ENTITY serverName.label "Zerbitzari-izena: ">
 <!ENTITY serverPort.label "Ataka: ">
 <!ENTITY userName.label "Erabiltzaile-izena: ">
-<!ENTITY useSecureConnection.label "Konexio Segurua: ">
+<!ENTITY connectionSecurity.label "Konexioaren segurtasuna: ">
 <!ENTITY useSecureAuthentication.label "Autentifikazio segurua: ">

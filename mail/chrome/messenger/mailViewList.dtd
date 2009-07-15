@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "Mezuen Bistak Pertsonalizatu">
-<!ENTITY viewName.label "Bistaren Izena">
+<!ENTITY mailViewListTitle.label "Pertsonalizatu mezuen ikuspegiak">
+<!ENTITY viewName.label "Ikuspegiaren izena">
 

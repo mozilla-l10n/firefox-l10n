@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
-<!ENTITY pref.ldap.window.title "LDAP Direktorio Zerbitzariak">
+<!ENTITY pref.ldap.window.title "LDAP direktorio-zerbitzariak">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "LDAP direktorio-zerbitzaria:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
@@ -47,4 +47,4 @@
 <!ENTITY editDirectory.label "Editatu">
 <!ENTITY editDirectory.accesskey "e">
 <!ENTITY deleteDirectory.label "Ezabatu">
-<!ENTITY deleteDirectory.accesskey "e">
+<!ENTITY deleteDirectory.accesskey "z">

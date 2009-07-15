@@ -67,32 +67,31 @@
 <!ENTITY NickName.label "Ezizena:">
 <!ENTITY NickName.accesskey "E">
 
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "ePosta:">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY SecondEmail.label "ePosta Gehigarria:">
+<!ENTITY PrimaryEmail.accesskey "P">
+<!ENTITY SecondEmail.label "ePosta gehigarria:">
 <!ENTITY SecondEmail.accesskey "o">
 <!ENTITY PreferMailFormat.label "Nahiago ditu formatu honetako mezuak:">
-<!ENTITY PreferMailFormat.accesskey "r">
-<!ENTITY PlainText.label "Testu Arrunta">
+<!ENTITY PreferMailFormat.accesskey "f">
+<!ENTITY PlainText.label "Testu hutsa">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Ezezaguna">
-<!ENTITY ScreenName.label "Berehalako mezularitzan Izena:">
-<!ENTITY ScreenName.accesskey "B">
+<!ENTITY ScreenName.label "Pantailako izena:">
+<!ENTITY ScreenName.accesskey "P">
 
-<!ENTITY allowRemoteContent.label "Onartu urruneko irudiak HTML mezuetan.">
-<!ENTITY allowRemoteContent.accesskey "d">
-<!ENTITY allowRemoteContent.tooltip "HTML mezuetan irudiak txerta daitezke 
-kanpoko iturrietatik. Halako mezu bat zabalduz gero, konexio bat irekiko da 
-kanpoko baliabide honetara. Irakurtzen ari zaren mezua arakatua 
-izatea ekar lezake honek. Kutxa hau markatuz gero, kontaktu honen 
-HTML mezuetan kanpoko iturrietatik txertatutako irudiak onartuko dira.">
+<!ENTITY allowRemoteContent1.label "Allow remote content.">
+<!ENTITY allowRemoteContent1.accesskey "r">
+<!ENTITY allowRemoteContent1.tooltip "In HTML messages it is possible to 
+embed content from remote sources. Opening such a message will open a 
+connection to this external source. This may allow tracking of the 
+message being read. Checking this box will allow such external embedded 
+content in HTML messages from this contact.">
 
-<!ENTITY WorkPhone.label "Lanekoa:">
+<!ENTITY WorkPhone.label "Lana:">
 <!ENTITY WorkPhone.accesskey "l">
-<!ENTITY HomePhone.label "Etxekoa:">
+<!ENTITY HomePhone.label "Etxea:">
 <!ENTITY HomePhone.accesskey "e">
-<!ENTITY FaxNumber.label "Fax-a:">
+<!ENTITY FaxNumber.label "Faxa:">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "Bilagailua:">
 <!ENTITY PagerNumber.accesskey "b">
@@ -106,53 +105,55 @@ HTML mezuetan kanpoko iturrietatik txertatutako irudiak onartuko dira.">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Hiria:">
-<!ENTITY HomeCity.accesskey "i">
+<!ENTITY HomeCity.accesskey "h">
 <!ENTITY HomeState.label "Estatua/Probintzia:">
 <!ENTITY HomeState.accesskey "S">
 <!ENTITY HomeZipCode.label "ZIP/Posta Kodea:">
 <!ENTITY HomeZipCode.accesskey "Z">
 <!ENTITY HomeCountry.label "Herrialdea:">
 <!ENTITY HomeCountry.accesskey "i">
-<!ENTITY HomeWebPage.label "Web Orria:">
+<!ENTITY HomeWebPage.label "Webgunea:">
 <!ENTITY HomeWebPage.accesskey "w">
-<!ENTITY Birthday.label "Jaiotze-data">
+<!ENTITY Birthday.label "Jaiotze-data:">
 <!ENTITY Birthday.accesskey "J">
+<!ENTITY In.label "">
 <!ENTITY Year.emptytext "Urtea">
-<!ENTITY Or.value "edp">
-<!ENTITY Age.emptytext "Edadea">
+<!ENTITY Or.value "edo">
+<!ENTITY Age.emptytext "Adina">
+<!ENTITY YearsOld.label "">
 
-<!ENTITY Work.tab "Lanbidea">
-<!ENTITY Work.accesskey "L">
+<!ENTITY Work.tab "Lana">
+<!ENTITY Work.accesskey "W">
 <!ENTITY JobTitle.label "Titulua:">
 <!ENTITY JobTitle.accesskey "u">
-<!ENTITY Department.label "Atala:">
-<!ENTITY Department.accesskey "a">
+<!ENTITY Department.label "Saila:">
+<!ENTITY Department.accesskey "s">
 <!ENTITY Company.label "Erakundea:">
 <!ENTITY Company.accesskey "E">
 <!ENTITY WorkAddress.label "Helbidea:">
 <!ENTITY WorkAddress.accesskey "D">
-<!ENTITY WorkAddress2.label "_: intl.menuitems.alwaysappendaccesskeys">
-<!ENTITY WorkAddress2.accesskey "_: intl.menuitems.alwaysappendaccesskeys">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
 <!ENTITY WorkCity.label "Hiria:">
-<!ENTITY WorkCity.accesskey "i">
+<!ENTITY WorkCity.accesskey "h">
 <!ENTITY WorkState.label "Estatua/Probintzia:">
-<!ENTITY WorkState.accesskey "B">
+<!ENTITY WorkState.accesskey "S">
 <!ENTITY WorkZipCode.label "ZIP/Posta Kodea:">
-<!ENTITY WorkZipCode.accesskey "P">
+<!ENTITY WorkZipCode.accesskey "Z">
 <!ENTITY WorkCountry.label "Herrialdea:">
-<!ENTITY WorkCountry.accesskey "r">
-<!ENTITY WorkWebPage.label "Web Orria:">
-<!ENTITY WorkWebPage.accesskey "b">
+<!ENTITY WorkCountry.accesskey "i">
+<!ENTITY WorkWebPage.label "Webgunea:">
+<!ENTITY WorkWebPage.accesskey "w">
 
 <!ENTITY Other.tab "Besteak">
 <!ENTITY Other.accesskey "h">
-<!ENTITY Custom1.label "1 Pertsonalizatua:">
+<!ENTITY Custom1.label "1 pertsonalizatua:">
 <!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "2 Pertsonalizatua:">
+<!ENTITY Custom2.label "2 pertsonalizatua:">
 <!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "3 Pertsonalizatua:">
+<!ENTITY Custom3.label "3 pertsonalizatua:">
 <!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "4 Pertsonalizatua:">
+<!ENTITY Custom4.label "4 pertsonalizatua:">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Oharrak:">
 <!ENTITY Notes.accesskey "O">

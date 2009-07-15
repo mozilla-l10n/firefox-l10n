@@ -62,12 +62,12 @@
 <!ENTITY InputChecked.label "Hasieran markatua">
 <!ENTITY InputChecked.accesskey "K">
 <!ENTITY InputSelected.label "Hasieran hautatua">
-<!ENTITY InputSelected.accesskey "H">
-<!ENTITY InputReadOnly.label "Irakurketa soilekoa">
-<!ENTITY InputReadOnly.accesskey "I">
+<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputReadOnly.label "Irakurtzeko soilik">
+<!ENTITY InputReadOnly.accesskey "R">
 <!ENTITY InputDisabled.label "Ezgaituta">
 <!ENTITY InputDisabled.accesskey "E">
-<!ENTITY tabIndex.label "Tabulazioa indizea:">
+<!ENTITY tabIndex.label "Tabulazio-indizea:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY TextSize.label "Eremu tamaina:">
 <!ENTITY TextSize.accesskey "E">
@@ -78,5 +78,5 @@
 <!ENTITY Accept.label "Onartutako motak:">
 <!ENTITY Accept.accesskey "A">
 
-<!ENTITY ImageProperties.label "Irudi propietateak...">
+<!ENTITY ImageProperties.label "Irudiaren propietateak…">
 <!ENTITY ImageProperties.accesskey "E">

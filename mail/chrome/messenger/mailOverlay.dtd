@@ -3,6 +3,5 @@
 <!ENTITY newMessageCmd.label "Mezua">
 <!ENTITY newMessageCmd.accesskey "m">
  
-<!ENTITY newCardCmd.label "Helbide-liburuko txartela...">
-<!ENTITY newCardCmd.accesskey "t">
-
+<!ENTITY newContactCmd.label "Helbide-liburu kontaktua…">
+<!ENTITY newContactCmd.accesskey "K">

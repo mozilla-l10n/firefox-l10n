@@ -34,21 +34,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Testu eremu propietateak">
+<!ENTITY windowTitle.label "Testu-eremuaren propietateak">
 
 <!ENTITY Settings.label "Ezarpenak">
 
-<!ENTITY TextAreaName.label "Eremu izena:">
+<!ENTITY TextAreaName.label "Eremuaren izena:">
 <!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "Lerroak:">
+<!ENTITY TextAreaRows.label "Errenkadak:">
 <!ENTITY TextAreaRows.accessKey "R">
 <!ENTITY TextAreaCols.label "Zutabeak:">
 <!ENTITY TextAreaCols.accessKey "Z">
-<!ENTITY TextAreaReadOnly.label "Irakurketa bakarrik">
-<!ENTITY TextAreaReadOnly.accessKey "B">
+<!ENTITY TextAreaReadOnly.label "Irakurtzeko soilik">
+<!ENTITY TextAreaReadOnly.accessKey "O">
 <!ENTITY TextAreaDisabled.label "Ezgaituta">
 <!ENTITY TextAreaDisabled.accessKey "E">
-<!ENTITY TextAreaTabIndex.label "Tabulazio indizea:">
+<!ENTITY TextAreaTabIndex.label "Tabulazio-indizea:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "Laster-tekla:">
 <!ENTITY TextAreaAccessKey.accessKey "K">

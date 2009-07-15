@@ -1,7 +1,7 @@
 <!ENTITY connectionsDialog.title "Konexio-ezarpenak">
 <!ENTITY window.width "46em">
 
-<!ENTITY proxyTitle.label "Konfiguratu internetera sartzeko proxy-ak">
+<!ENTITY proxyTitle.label "Konfiguratu Internet atzitzeko proxy-ak">
 <!ENTITY noProxyTypeRadio.label "Proxy-rik ez">
 <!ENTITY noProxyTypeRadio.accesskey "y">
 <!ENTITY systemTypeRadio.label "Erabili sistemaren proxy-ezarpenak">

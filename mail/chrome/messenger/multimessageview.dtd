@@ -1,3 +1,3 @@
-<!ENTITY window.title             "">
-<!ENTITY selectedmessages.label   "">
-<!ENTITY archive.label            "">
+<!ENTITY window.title "Mezuaren laburpena">
+<!ENTITY selectedmessages.label "Hautatutako mezuak">
+<!ENTITY archive.label "artxiboa">

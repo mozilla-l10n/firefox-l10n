@@ -1,47 +1,35 @@
-<!ENTITY systemDefaults.label "Sistemaren lehenespenak">
-<!ENTITY alwaysCheckDefault.label "Egiaztatu abiaraztean &brandShortName; lehenetsitako posta-bezeroa dela.">
-<!ENTITY alwaysCheckDefault.accesskey "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "Orain egiaztatu">
-<!ENTITY checkNow.accesskey "N">
-
-<!ENTITY messengerStartPage.label "&brandShortName; Abiarazte Orria">
-<!ENTITY enableStartPage.label "&brandShortName; abiaraztean, Abiarazte Orria mezu eremuan erakutsi">
+<!ENTITY messengerStartPage.label "&brandShortName; hasiera-orria">
+<!ENTITY enableStartPage.label "&brandShortName; abiaraztean, erakutsi hasiera-orria mezuaren eremuan">
 <!ENTITY enableStartPage.accesskey "B">
 <!ENTITY location.label "Kokalekua:">
 <!ENTITY location1.accesskey "o">
-<!ENTITY useDefault.label "Lehenetsitakoa Berezarri">
-<!ENTITY useDefault.accesskey "T">
+<!ENTITY useDefault.label "Berrezarri lehenetsia">
+<!ENTITY useDefault.accesskey "R">
 
-<!ENTITY bounceSystemDockIcon.label "Jakinarazpen ikonoa animatu">
+<!ENTITY bounceSystemDockIcon.label "Animatu jakinarazpen-ikonoa">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
 
 <!ENTITY newMessagesArrive.label "Mezu berri bat iristerakoan:">
-<!ENTITY playSound.label "Soinu bat erreproduzitu">
+<!ENTITY playSound.label "Erreproduzitu soinua">
 <!ENTITY playSound1.accesskey "d">
 <!ENTITY showAnimatedAlert.label "Erakutsi abisua">
 <!ENTITY showAnimatedAlert.accesskey "S">
-<!ENTITY customizeMailAlert.label "Pertsonalizatu...">
+<!ENTITY customizeMailAlert.label "Pertsonalizatu…">
 <!ENTITY customizeMailAlert.accesskey "P">
 
 <!ENTITY play.label "Erreproduzitu">
 <!ENTITY play.accesskey "P">
-<!ENTITY systemsound.label "SLehentsitako sistema soinua posta berriarentzat">
-<!ENTITY systemsoundMac.label "Sistema alerta soinua">
+<!ENTITY systemsound.label "Lehenetsitako sistema-soinua posta berriarentzat">
+<!ENTITY systemsoundMac.label "Sistemaren alerta-soinua">
 <!ENTITY systemsoundMac.accesskey "i">
 <!ENTITY systemsound.accesskey "i">
-<!ENTITY customsound.label "Hurrengo soinu fitxategia erabili">
+<!ENTITY customsound.label "Erabili hurrengo soinu-fitxategia">
 <!ENTITY customsound.accesskey "U">
-<!ENTITY browse.label "Browse...">
-<!ENTITY browse.accesskey "B">
+<!ENTITY browse.label "Arakatu…">
+<!ENTITY browse.accesskey "A">
 
 <!ENTITY addonsMgr.label "Gehigarriak">
 <!ENTITY manageAddonsDescWin.label "Aldatu zure gehigarrien aukerak">
-<!ENTITY manageAddonsDescUnix2.label "Aldatu zure gehigarrien lehentasuna">
+<!ENTITY manageAddonsDescUnix2.label "Aldatu zure gehigarrien ezarpenak">
 <!ENTITY manageAddons.label "Kudeatu gehigarriak…">
 <!ENTITY manageAddons.accesskey "K">

@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY all.label "Goiburu denak deskargatu">
+<!ENTITY all.label "Deskargatu goiburu guztiak">
 <!ENTITY all.accesskey "D">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
@@ -49,5 +49,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label "goiburu">
 <!ENTITY headers.accesskey "g">
-<!ENTITY mark.label "Gelditzen diren goiburuak irakurrita bezala markatu">
+<!ENTITY mark.label "Markatu irakurrita bezala falta diren goiburuak">
 <!ENTITY mark.accesskey "M">

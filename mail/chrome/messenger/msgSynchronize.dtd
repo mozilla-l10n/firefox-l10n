@@ -9,10 +9,10 @@
 <!ENTITY syncTypeNews.label "Berri-taldeetako mezuak">
 <!ENTITY syncTypeNews.accesskey "B">
 <!ENTITY sendMessage.label "Bidali bidali gabeko mezuak">
-<!ENTITY sendMessage.accesskey "D">
+<!ENTITY sendMessage.accesskey "B">
 <!ENTITY workOffline.label "Lineaz kanpo lan egin deskargatzen eta/edo sinkronizatzen amaitutakoan">
 <!ENTITY workOffline.accesskey "L">
-<!ENTITY selectButton.label "Hautatu...">
+<!ENTITY selectButton.label "Hautatu…">
 <!ENTITY selectButton.accesskey "A">
 <!ENTITY MsgSelectDesc.label "Hautatu lineaz kanpo erabiltzeko deskargatu nahi dituzun posta-karpetak eta berri-taldeak.">
 <!ENTITY MsgSelectInd.label "Deskargatu">

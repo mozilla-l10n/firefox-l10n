@@ -35,58 +35,58 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label " - ">
-<!ENTITY fromField2.label "nondik ">
+<!ENTITY toField2.label "nori ">
+<!ENTITY fromField2.label "nork ">
 <!ENTITY senderField2.label "bidaltzailea ">
 <!ENTITY organizationField2.label "erakundea ">
-<!ENTITY replyToField2.label "erantzun ">
+<!ENTITY replyToField2.label "erantzun-honi">
 
 <!ENTITY subjectField2.label "gaia ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
 <!ENTITY newsgroupsField2.label "Berri-taldeak ">
-<!ENTITY followupToField2.label "jarraitu">
-<!ENTITY tagsHdr2.label "etiketak">
+<!ENTITY followupToField2.label "jarraitu-hona ">
+<!ENTITY tagsHdr2.label "etiketak ">
 <!ENTITY dateField2.label "data ">
 <!ENTITY userAgentField2.label "erabiltzaile-agentea ">
 <!ENTITY referencesField2.label "erreferentziak ">
 <!ENTITY messageIdField2.label "mezu-id-a ">
-<!ENTITY inReplyToField2.label "honen-erantzun ">
+<!ENTITY inReplyToField2.label "honen-erantzuna ">
 <!ENTITY originalWebsite2.label "webgunea ">
 
 <!ENTITY editMessageDescription.label "Mezua zirriborroa da">
-<!ENTITY editMessageButton.label "Editatu...">
-<!ENTITY replyButton.label "erantzun...">
-<!ENTITY forwardButton.label "birbidali...">
-<!ENTITY junkButton.label "markatu zabor-posta gisa">
+<!ENTITY editMessageButton.label "Editatu…">
+<!ENTITY archiveButton.label "artxibatu">
+<!ENTITY hdrReplyButton.label "erantzun">
+<!ENTITY hdrReplyAllButton.label "erantzun denei">
+<!ENTITY hdrReplyListButton.label "reply list">
+<!ENTITY hdrForwardButton.label "birbidali">
+<!ENTITY hdrJunkButton.label "zaborra">
 <!ENTITY trashButton.tooltiptext "ezabatu">
 
 <!ENTITY otherActionsButton.label "bestelako ekintzak">
-<!ENTITY saveAsMenuItem.label "gorde honela...">
+<!ENTITY saveAsMenuItem.label "gorde honela…">
 <!ENTITY saveAsMenuItem.accesskey "H">
-<!ENTITY viewSourceMenuItem.label "ikusi iturburua...">
+<!ENTITY viewSourceMenuItem.label "ikusi iturburua…">
 <!ENTITY viewSourceMenuItem.accesskey "U">
-
-<!ENTITY hideDetailsButton.label "ezkutatu xehetasunak">
-<!ENTITY showDetailsButton.label "erakutsi xehetasunak">
 
 <!ENTITY openAttachmentCmd.label "Ireki">
 <!ENTITY openAttachmentCmd.accesskey "I">
-<!ENTITY saveAsAttachmentCmd.label "Gorde honela...">
+<!ENTITY saveAsAttachmentCmd.label "Gorde honela…">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label "Askatu ...">
+<!ENTITY detachAttachmentCmd.label "Askatu…">
 <!ENTITY deleteAttachmentCmd.label "Ezabatu">
-<!ENTITY saveAllAttachmentsCmd.label "Gorde dena...">
+<!ENTITY saveAllAttachmentsCmd.label "Gorde dena…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "G">
-<!ENTITY detachAllAttachmentsCmd.label "Askatu dena...">
+<!ENTITY detachAllAttachmentsCmd.label "Askatu dena…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label "Ezabatu dena...">
+<!ENTITY deleteAllAttachmentsCmd.label "Ezabatu dena…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
 
 <!ENTITY copyLinkCmd.label "Kopiatu loturaren helbidea">
 <!ENTITY copyLinkCmd.accesskey "K">
 
-<!ENTITY CopyMessageId.label "Kopiatu mezu-ida">
+<!ENTITY CopyMessageId.label "Kopiatu mezu-IDa">
 <!ENTITY OpenMessageForMsgId.label "Ireki mezua ID bidez">
-<!ENTITY OpenBrowserWithMsgId.label "Ireki nabigatzailea mezu-id honekin">
+<!ENTITY OpenBrowserWithMsgId.label "Ireki nabigatzailea mezu-ID honekin">

@@ -5,8 +5,8 @@
 <!ENTITY style.accesskey "i">
 <!ENTITY regularStyle.label "Arrunta">
 <!ENTITY bold.label "Lodia">
-<!ENTITY italic.label "Italikoa">
-<!ENTITY boldItalic.label "Italiko lodia">
+<!ENTITY italic.label "Etzana">
+<!ENTITY boldItalic.label "Lodi etzana">
 <!ENTITY size.label "Tamaina:">
 <!ENTITY size.accesskey "i">
 <!ENTITY regularSize.label "Arrunta">
@@ -19,7 +19,7 @@
 <!ENTITY displayText.label "Zitatutako testu-arrunteko mezuak bistaratzean:">
 <!ENTITY fixedWidth.label "Zabalera finkodun letra-tipoa">
 <!ENTITY fixedWidth.accesskey "f">
-<!ENTITY variableWidth.label "Zabalera aldagarriko letra-tipoa">
+<!ENTITY variableWidth.label "Zabalera aldakorreko letra-tipoa">
 <!ENTITY variableWidth.accesskey "L">
 <!ENTITY colors.label "Koloreak">
 <!ENTITY overrideColors.label "Erabili ondorengo koloreak mezuak bistaratzean:">
@@ -39,10 +39,10 @@
 <!ENTITY editTagButton.label "Editatu">
 <!ENTITY editTagButton.accesskey "E">
 <!ENTITY removeTagButton.label "Ezabatu">
-<!ENTITY removeTagButton.accesskey "z">
+<!ENTITY removeTagButton.accesskey "Z">
 <!-- Fonts -->
 
 <!ENTITY fontAndEncodingsDescription.label "Konfiguratu &brandShortName;(e)k erabiltzen dituen letra-tipo eta kodeketak">
 <!ENTITY fontsAndEncodingsCaption.label "Letra-tipoak eta kodeketak">
 <!ENTITY fontOptions.accesskey "L">
-<!ENTITY fontOptions.label "Letra-tipoak...">
+<!ENTITY fontOptions.label "Letra-tipoak…">

@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY windowTitle.label "Kolorea">
-<!ENTITY lastPickedColor.label "Azkena hautatutako kolorea">
+<!ENTITY lastPickedColor.label "Azkenez hautatutako kolorea">
 <!ENTITY lastPickedColor.accessKey "A">
 <!ENTITY setColor1.label "Egin klik kolore batean edo">
 <!ENTITY setColor2.label "idatzi HTML kolore-kate bat">

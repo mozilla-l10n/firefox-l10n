@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "HTML txertatu">
+<!ENTITY windowTitle.label "Txertatu HTML">
 <!ENTITY sourceEditField.label "Idatzi HTML etiketa eta testua:">
 <!ENTITY example.label "Adibidea: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->

@@ -40,9 +40,9 @@
 
 
 
-<!ENTITY windowTitle.label "Gorde Eta aldatu karaktere kodeketa">
+<!ENTITY windowTitle.label "Gorde eta aldatu karaktere-kodeketa">
 <!ENTITY documentTitleTitle.label "Orriaren izenburua">
-<!ENTITY documentCharsetTitle.label "Karaktere kodeketa">
-<!ENTITY documentCharsetDesc.label "Dokumentua erabili nahi duzun karaktere kodeketa aukeratu:">
+<!ENTITY documentCharsetTitle.label "Karaktere-kodeketa">
+<!ENTITY documentCharsetDesc.label "Aukeratu dokumentuan erabili nahi duzun karaktere-kodeketa:">
 <!ENTITY documentExportToText.label "Esportatu testura">
 

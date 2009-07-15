@@ -1,6 +1,6 @@
-<!ENTITY identityTitle.label "Nortasun Ezarpenak">
-<!ENTITY identityListDesc.label "Nortasun honen hobespenak ezarri:">
+<!ENTITY identityTitle.label "Identitate-ezarpenak">
+<!ENTITY identityListDesc.label "Konfiguratu identitate honen ezarpenak:">
 
 <!ENTITY settingsTab.label "Ezarpenak">
-<!ENTITY copiesFoldersTab.label "Kopiak eta Karpetak">
-<!ENTITY addressingTab.label "Mezu-prestatze eta helbideratzea">
+<!ENTITY copiesFoldersTab.label "Kopiak eta karpetak">
+<!ENTITY addressingTab.label "Mezuak prestatzea eta helbideratzea">

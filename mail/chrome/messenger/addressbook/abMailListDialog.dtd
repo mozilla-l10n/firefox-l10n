@@ -37,21 +37,21 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Title -->
 
-<!ENTITY mailListWindow.title "Posta Zerrenda">
+<!ENTITY mailListWindow.title "Posta-zerrenda">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "Gehitu hemen: ">
+<!ENTITY addToAddressBook.label "Gehitu hona:  ">
 
-<!ENTITY ListName.label "Zerrendaren Izena: ">
-<!ENTITY ListNickName.label "Zerrendaren Ezizena: ">
-<!ENTITY ListDescription.label "Azalpena: ">
+<!ENTITY ListName.label "Zerrendaren izena:  ">
+<!ENTITY ListNickName.label "Zerrendaren ezizena:  ">
+<!ENTITY ListDescription.label "Deskribapena:  ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Idatzi eposta helbideak posta zerrendara gehitzeko:">
-<!ENTITY UpButton.label "Gora">
-<!ENTITY DownButton.label "Behera">
+<!ENTITY UpButton.label "Eraman gorantz">
+<!ENTITY DownButton.label "Eraman beherantz">
 <!-- Access Keys -->
 
 <!ENTITY addToAddressBook.accesskey "G">
 <!ENTITY ListName.accesskey "Z">
 <!ENTITY ListNickName.accesskey "E">
-<!ENTITY ListDescription.accesskey "e">
+<!ENTITY ListDescription.accesskey "d">
 

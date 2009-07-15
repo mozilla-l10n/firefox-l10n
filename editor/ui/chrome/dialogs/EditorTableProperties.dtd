@@ -45,8 +45,8 @@
 <!ENTITY tableRows.accessKey "R">
 <!ENTITY tableColumns.label "Zutabeak:">
 <!ENTITY tableColumns.accessKey "Z">
-<!ENTITY tableHeight.label "Garaiera:">
-<!ENTITY tableHeight.accessKey "G">
+<!ENTITY tableHeight.label "Altuera:">
+<!ENTITY tableHeight.accessKey "T">
 <!ENTITY tableWidth.label "Zabalera:">
 <!ENTITY tableWidth.accessKey "Z">
 <!ENTITY tableBorderSpacing.label "Ertzak eta tartekatzea">
@@ -99,9 +99,9 @@
 <!ENTITY cellUseCheckboxHelp.label "Hautatutako gelaxken propietateak zehazteko kontrol-laukiak erabili">
 <!-- Used in both Table and Cell panels  -->
 
-<!ENTITY size.label "Neurria">
+<!ENTITY size.label "Tamaina">
 <!ENTITY pixels.label "pixel">
-<!ENTITY backgroundColor.label "Atzeko planoaren kolorea:">
+<!ENTITY backgroundColor.label "Atzeko planoko kolorea:">
 <!ENTITY backgroundColor.accessKey "A">
 <!ENTITY AlignLeft.label "Ezkerra">
 <!ENTITY AlignCenter.label "Erdia">
