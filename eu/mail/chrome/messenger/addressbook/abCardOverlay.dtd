@@ -79,12 +79,12 @@
 <!ENTITY ScreenName.label "Pantailako izena:">
 <!ENTITY ScreenName.accesskey "P">
 
-<!ENTITY allowRemoteContent1.label "Allow remote content.">
-<!ENTITY allowRemoteContent1.accesskey "r">
-<!ENTITY allowRemoteContent1.tooltip "In HTML messages it is possible to 
-embed content from remote sources. Opening such a message will open a 
-connection to this external source. This may allow tracking of the 
-message being read. Checking this box will allow such external embedded 
+<!ENTITY allowRemoteContent1.label "Onartu urruneko edukia.">
+<!ENTITY allowRemoteContent1.accesskey "u">
+<!ENTITY allowRemoteContent1.tooltip "In HTML messages it is possible to
+embed content from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
 content in HTML messages from this contact.">
 
 <!ENTITY WorkPhone.label "Lana:">
