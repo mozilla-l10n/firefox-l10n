@@ -7,5 +7,4 @@
 <!ENTITY actionColumn2.label     "Akcia">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY filter.label            "Hľadať:">
-<!ENTITY filter.accesskey        "H">
+<!ENTITY search.emptytext        "Hľadať v typoch a akciách">

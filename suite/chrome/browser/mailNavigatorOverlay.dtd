@@ -2,8 +2,8 @@
 <!ENTITY newMessageCmd.accesskey         "S">
 <!ENTITY newMessageCmd.key               "M">
 
-<!ENTITY newCardCmd.label                "Karta adresára…">
-<!ENTITY newCardCmd.accesskey            "K">
+<!ENTITY newContactCmd.label             "Kontakt…">
+<!ENTITY newContactCmd.accesskey         "K">
 
 <!ENTITY sendPage.label                  "Odoslať stránku…">
 <!ENTITY sendPage.accesskey              "u">

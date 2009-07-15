@@ -58,13 +58,20 @@
 <!ENTITY scope.label                       "Rozsah:">
 <!ENTITY scope.accesskey                   "R">
 <!ENTITY scopeOneLevel.label               "Jedna úroveň">
-<!ENTITY scopeOneLevel.accesskey           "J">
+<!ENTITY scopeOneLevel.accesskey           "e">
 <!ENTITY scopeSubtree.label                "Podstrom">
-<!ENTITY scopeSubtree.accesskey            "s">
+<!ENTITY scopeSubtree.accesskey            "d">
 <!ENTITY return.label                      "Nevracať viac ako">
 <!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "výsledkov">
 <!ENTITY offlineText.label                 "Môžete si vytvoriť lokálnu kópiu tohto adresára, takže bude k dispozícii aj pri práci v režime offline.">
+<!ENTITY saslMechanism.label               "Spôsob prihlásenia: ">
+<!ENTITY saslMechanism.accesskey           "S">
+<!ENTITY saslOff.label                     "Jednoduché">
+<!ENTITY saslOff.accesskey                 "o">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

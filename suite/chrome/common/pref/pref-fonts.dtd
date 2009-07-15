@@ -7,7 +7,7 @@
 <!ENTITY  language.accesskey                      "m">
 
 <!ENTITY  typefaces.label                         "Druh písma">
-<!ENTITY  sizes.label                             "Veľkosť (pixelov)">
+<!ENTITY  sizes.label                             "Veľkosť (bodov)">
 
 <!ENTITY  proportional.label                      "S premenlivou šírkou:">
 <!ENTITY  proportional.accesskey                  "S">
@@ -54,7 +54,7 @@
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimálna veľkosť písma:">
 <!ENTITY minSize.accesskey                        "o">
-<!ENTITY minSize.none                             "Žiadne">
+<!ENTITY minSize.none                             "Neurčená">
 
 <!-- default font type -->
 <!ENTITY useDefaultFontSerif.label                "Pätkové (serif)">

@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Kódovanie:">
 <!ENTITY  generalMetaName       "Názov">
 <!ENTITY  generalMetaContent    "Obsah">
-<!ENTITY  generalSecurityMore   "Viac">
-<!ENTITY  generalSecurityMore.accesskey "i">
+<!ENTITY  generalSecurityDetails           "Podrobnosti">
+<!ENTITY  generalSecurityDetails.accesskey "d">
 
 <!ENTITY  formsTab              "Formuláre">
 <!ENTITY  formsTab.accesskey    "F">
@@ -130,9 +130,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Identita webovej stránky">
-<!ENTITY  securityView.identity.owner    "Vlastník: ">
-<!ENTITY  securityView.identity.domain   "Webová stránka: ">
-<!ENTITY  securityView.identity.verifier "Overená: ">
+<!ENTITY  securityView.identity.owner    "Vlastník:">
+<!ENTITY  securityView.identity.domain   "Webová stránka:">
+<!ENTITY  securityView.identity.verifier "Overená:">
 
 <!ENTITY  securityView.privacy.header                   "Súkromie a história">
 <!ENTITY  securityView.privacy.history                  "Navštívil som túto stránku v minulosti?">

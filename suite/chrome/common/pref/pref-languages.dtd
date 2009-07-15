@@ -11,6 +11,7 @@
 <!ENTITY languages.customize.add.title.label		        "Pridať jazyky">
 <!ENTITY languages.customize.available.label            "Jazyky:">
 <!ENTITY languages.customize.active.label               "Jazyky v poradí podľa priority:">
+<!ENTITY languages.customize.active.accesskey           "J">
 <!ENTITY languages.customize.others.label               "Ďalšie:">
 <!ENTITY languages.customize.others.accesskey           "a">
 <!ENTITY languages.customize.Charset.grouplabel         "Predvolené kódovanie">
@@ -26,6 +27,6 @@
 <!ENTITY spelling.label                                 "Kontrola pravopisu">
 <!ENTITY checkSpelling.label                            "Pri písaní kontrolovať pravopis:">
 <!ENTITY checkSpelling.accesskey                        "s">
-<!ENTITY dontCheckSpelling.label                        "Nikdy">
-<!ENTITY multilineCheckSpelling.label                   "Vo viacriadkových poliach">
-<!ENTITY alwaysCheckSpelling.label                      "Vo všetkých poliach">
+<!ENTITY dontCheckSpelling.label                        "nikdy">
+<!ENTITY multilineCheckSpelling.label                   "vo viacriadkových poliach">
+<!ENTITY alwaysCheckSpelling.label                      "vo všetkých poliach">

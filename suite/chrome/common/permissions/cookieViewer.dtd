@@ -11,6 +11,11 @@
 <!ENTITY     button.removeallcookies.label  "Odstrániť všetky cookies">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
+<!ENTITY     search.emptytext               "Hľadať cookies">
+<!ENTITY     focusSearch.key                "f">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     selectAll.key                  "a">
+
 <!ENTITY     props.name.label               "Názov:">
 <!ENTITY     props.value.label              "Obsah:">
 <!ENTITY     props.domain.label             "Server:">

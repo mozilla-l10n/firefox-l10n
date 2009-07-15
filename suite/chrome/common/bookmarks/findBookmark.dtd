@@ -9,7 +9,9 @@
 <!ENTITY search.isnot.label             "nie je">
 <!ENTITY search.contains.label          "obsahuje">
 <!ENTITY search.doesntcontain.label     "neobsahuje">
-<!ENTITY save.query.label               "Uložiť požiadavku medzi záložky">
+<!ENTITY save.query.label               "Uložiť hľadanie medzi záložky">
+<!ENTITY save.query.accesskey           "U">
 <!ENTITY search.for.label               "Hľadať záložky, ktorých">
 <!ENTITY findBookmark.title             "Hľadať záložky">
 <!ENTITY findButton.label               "Hľadať">
+<!ENTITY findButton.accesskey           "H">

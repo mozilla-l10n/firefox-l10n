@@ -152,6 +152,9 @@
 <dt id="javascript">JavaScript</dt>
   <dd>Skriptovací jazyk, ktorý je používaný pri vytváraní <a href="#web_page">webových stránok</a>. Programátori používajú JavaScript na vytváranie webových stránok, ktoré sú tak viac interaktívne. JavaScript môže byť použitý napríklad na zobrazenie tlačidiel a formulárov <a href="#java">Javy</a>, ale jedná sa o technicky samostatný jazyk. Java nie je na správnu funkčnosť JavaScriptu nutná.</dd>
 
+<dt id="feed">Kanál</dt>
+  <dd>Pravidelne aktualizovaný zdroj odkazov na webové stránky, zvyčajne príspevky blogu alebo správy. Technicky je to dokument typu XML dostupný cez verejne známu adresu URL obsahujúci niekoľko položiek, pričom každá z nich obsahuje rôzne meta-údaje (prípadne krátky súhrn správy) a adresu k plnej verzii článku alebo správy. Dokument XML je generovaný v určených intervaloch alebo pri pridaní nového článku na danej webovej stránke. Webové aplikácie sa môžu prihlásiť k odberu kanála a prezentovať nové články po ich sprístupnení v dokumente XML. Existuje niekoľko formátov XML pre kanály, najčastejšie používané sú <a href="#rss">RSS</a> a Atom.</dd>
+
 <dt id="client">Klient</dt>
   <dd>Softvér (napríklad webový prehliadač) zasielajúci požiadavky na získanie informácií zo <a href="#server">servera</a>, ktorý je spustený na inom počítači. Počítač, na ktorom je klientsky softvér spustený, je často popisovaný ako klient.</dd>
 
@@ -176,6 +179,9 @@
 <dt id="nonrepudiation">Nepopierateľnosť</dt>
   <dd>Nemožnosť odosielateľa správy poprieť jej odosielanie. Regulárny rukou urobený podpis je jeden zo spôsobov, ako dosiahnuť nepopierateľnosť. <a href="#digital_signature">Digitálny podpis</a> symbolizuje druhý.</dd>
 
+<dt id="notification_bar">Notifikačný panel</dt>
+  <dd>Panel, ktorý sa objavuje v hornej časti prehliadača nad obsahom stránky. Jeho úlohou je informovať vás o veciach, ktoré by ste nemali prehliadnuť. Zobrazuje napr. informácie o zablokovaní vyskakovacieho okna, možnosti uloženia hesla alebo požiadavke na inštaláciu dodatočného zásuvného modulu.</dd>
+
 <dt id="certificate_renewal">Obnovenie certifikátu</dt>
   <dd>Proces obnovenia <a href="#certificate">certifikátu</a>, ktorému končí platnosť.</dd>
 
@@ -190,6 +196,9 @@
 
 <dt id="certificate_fingerprint">Odtlačok certifikátu</dt>
   <dd>Unikátne číslo, ktoré je spájané s certifikátom. Nie je jeho časťou, ale je vytvorené aplikovaním matematickej funkcie na obsah certifikátu. Ak sa tento obsah zmení, čo i len o jediný znak, bude vytvorené nové číslo. Odtlačok certifikátu sa preto používa na overenie, či certifikát nebol sfalšovaný.</dd>
+
+<dt id="opml">OPML (Outline Processor Markup Language)</dt>
+  <dd>Formát XML používaný na zobrazenie kolekcie <a href="#feed">kanálov</a>. Aj keď je podľa špecifikácie určený širšie použitie, v súčasnosti sa používa hlavne na importovanie a exportovanie kolekcií medzi rôznymi čítačkami kanálov, ako napr. &brandShortName;.</dd>
 
 <dt id="certificate_verification">Overenie certifikátu</dt>
   <dd>Keď <a href="#certificate_manager">Správca certifikátov</a> overí certifikát, potvrdí tým, že digitálny podpis bol vytvorený certifikačnou autoritou, ktorej vlastný certifikát je v zozname Správcu certifikátov a zároveň je označený ako dôveryhodný. Taktiež to potvrdzuje, že certifikát, ktorý bol overený, nemôže byť označený ako nedôveryhodný. Nakoniec, ak <a href="#ocsp">OCSP (Online Certificate Status Protocol)</a> bol aktivovaný, Správca certifikátov urobí online kontrolu a to tak, že ho vyhľadá v zozname platných certifikátov, ktoré sú uchované na <a href="#url">adrese URL</a>, ktorá je špecifikovaná buď v certifikáte  samotnom alebo v prehliadači v Možnostiach - Overenie platnosti. Ak akákoľvek z týchto kontrol zlyhá, Správca certifikátov označí daný certifikát ako neoverený a nepotvrdí identitu daného predmetu.</dd>
@@ -238,6 +247,9 @@
 
 <dt id="certificate_chain">Reťazový certifikát</dt>
   <dd>Hierarchické série certifikátov podpísané za sebou idúcimi certifikačnými autoritami. CA certifikátu idetifikuje <a href="#certificate_authority">certifikačnú autoritu (CA)</a> a používa sa na podpísanie certifikátov vydaných danou autoritou. CA certifikátu môže naopak byť podpísaná certifikátom CA z nadriadenej CA a tak ďalej až po <a href="#root_ca">Koreňovú CA</a>.</dd>
+
+<dt id="rss">RSS (Really Simple Syndication)</dt>
+  <dd>Údajový formát <a href="#xml">XML</a> pre webové <a href="#feed">kanály</a>.</dd>
 
 <dt id="server">Server</dt>
   <dd>Softvér (ako napr. softvér, ktorý poskytuje webové stránky), ktorý prijíma požiadavky a posiela informácie <a href="#client">klientovi</a>, ktorý je obyčajne spustený na inom počítači. Počítač, na ktorom softvér serveru funguje, býva označovaný ako server.</dd>

@@ -20,7 +20,7 @@
 <!ENTITY goForwardCmd.label           "Dopredu">
 <!ENTITY goForwardCmd.accesskey       "D">
 <!ENTITY goUpCmd.label                "Hore">
-<!ENTITY goUpCmd.accesskey            "H">
+<!ENTITY goUpCmd.accesskey            "o">
 <!ENTITY reloadCmd.label              "Obnoviť">
 <!ENTITY reloadCmd.accesskey          "b">
 <!ENTITY reloadCmd.commandkey         "r">

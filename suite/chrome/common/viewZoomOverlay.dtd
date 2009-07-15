@@ -1,5 +1,5 @@
 <!ENTITY zoomEnlargeCmd.label       "Priblížiť">
-<!ENTITY zoomEnlargeCmd.accesskey   "i">
+<!ENTITY zoomEnlargeCmd.accesskey   "P">
 <!ENTITY zoomEnlargeCmd.commandkey  "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 

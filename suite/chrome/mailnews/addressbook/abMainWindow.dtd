@@ -41,9 +41,9 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newCard.label                                  "Karta Adresára…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey                              "K">
+<!ENTITY newContact.label                               "Kontakt…">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "K">
 <!ENTITY newListCmd.label                               "Rozosielací zoznam">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "R">
@@ -53,12 +53,11 @@
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newIM.label                                    "IM">
-<!ENTITY printCardViewCmd.label                         "Tlačiť kartu…">
-<!ENTITY printCardViewCmd.accesskey                     "T">
-<!ENTITY printPreviewCardViewCmd.label                  "Ukážka pred tlačou karty">
-<!ENTITY printPreviewCardViewCmd.accesskey              "U">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactViewCmd.label                      "Tlačiť kontakt…">
+<!ENTITY printContactViewCmd.accesskey                  "T">
+<!ENTITY printPreviewContactViewCmd.label               "Ukážka pred tlačou kontaktu">
+<!ENTITY printPreviewContactViewCmd.accesskey           "U">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Tlačiť adresár…">
 <!ENTITY printAddressBook.accesskey                     "d">
 <!ENTITY printPreviewAddressBook.label                  "Ukážka pred tlačou adresára">
@@ -68,8 +67,8 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Odstrániť adresár">
-<!ENTITY deleteCardCmd.label                            "Odstrániť kartu">
-<!ENTITY deleteCardsCmd.label                           "Odstrániť označené karty">
+<!ENTITY deleteContactCmd.label                         "Odstrániť kontakt">
+<!ENTITY deleteContactsCmd.label                        "Odstrániť označené kontakty">
 <!ENTITY deleteListCmd.label                            "Odstrániť zoznam">
 <!ENTITY deleteListsCmd.label                           "Odstrániť označené zoznamy">
 <!ENTITY deleteItemsCmd.label                           "Odstrániť označené položky">
@@ -100,32 +99,33 @@
 <!ENTITY importCmd.label                                "Import…">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Export…">
-<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY exportCmd.accesskey                            "x">
 <!ENTITY allowOnlineCheck.label                         "Kontrolovať prítomnosť online (AOL)">
 <!ENTITY allowOnlineCheck.accesskey                     "K">
 
 <!-- Toolbar and Popup items -->
-<!ENTITY newcardButton.label                            "Nová karta">
-<!ENTITY newcardButton.accesskey                        "k">
+<!ENTITY newContactButton.label                         "Nový kontakt">
+<!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Nový zoznam">
 <!ENTITY newlistButton.accesskey                        "z">
-<!ENTITY editButton.label                               "Vlastnosti">
-<!ENTITY editButton.accesskey                           "l">
+<!ENTITY editItemButton.label                           "Vlastnosti">
+<!ENTITY editItemButton.accesskey                       "l">
 <!ENTITY newmsgButton.label                             "Nová správa">
 <!ENTITY newmsgButton.accesskey                         "N">
-<!ENTITY deleteButton.label                             "Odstrániť">
-<!ENTITY deleteButton.accesskey                         "d">
+<!ENTITY deleteItemButton.label                         "Odstrániť">
+<!ENTITY deleteItemButton.accesskey                     "d">
 <!ENTITY newimButton.label                              "Rýchla správa">
 <!ENTITY newimButton.accesskey                          "R">
+<!ENTITY searchNameAndEmail.emptytext                   "Hľadať meno alebo e-mail">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Panel Adresár">
-<!ENTITY newcardButton.tooltip                          "Vytvoriť novú kartu">
+<!ENTITY newContactButton.tooltip                       "Vytvoriť nový kontakt adresára">
 <!ENTITY newlistButton.tooltip                          "Vytvoriť nový zoznam">
-<!ENTITY editButton.tooltip                             "Upraviť označenú kartu">
+<!ENTITY editItemButton.tooltip                         "Upraviť označenú položku">
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať chatovať (Instant message - IM)">
-<!ENTITY deleteButton.tooltip                           "Odstrániť označenú kartu alebo adresár">
+<!ENTITY deleteItemButton.tooltip                       "Odstrániť označenú položku">
 <!ENTITY throbber.tooltip                               "Prejsť na domovskú stránku &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Pokročilé hľadanie adresy">
 

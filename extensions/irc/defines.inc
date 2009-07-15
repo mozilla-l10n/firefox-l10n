@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR Mozilla.sk Team
+#define MOZ_LANGPACK_CREATOR Mozilla.sk
 
 #define MOZ_LANGPACK_HOMEPAGE http://www.mozilla.sk/
 

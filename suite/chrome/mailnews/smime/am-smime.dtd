@@ -20,3 +20,9 @@
 <!ENTITY signMessage.label             "Digitálne podpisovať správy (predvolene)">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message           "Na digitálne podpisovanie správ používať tento osobný certifikát:">
+
+<!ENTITY certificates.label "Certifikáty">
+<!ENTITY manageCerts.label "Spravovať certifikáty…">
+<!ENTITY manageCerts.accesskey "S">
+<!ENTITY manageDevices.label "Spravovať bezpečnostné zariadenia…">
+<!ENTITY manageDevices.accesskey "e">

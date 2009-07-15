@@ -10,7 +10,7 @@
 <!ENTITY otherFolder.label "inde:">
 <!ENTITY otherFolder.accesskey "i">
 <!ENTITY purge1.label "Automaticky odstraňovať správy označené ako nevyžiadané po">
-<!ENTITY purge1.accesskey "A">
+<!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "dňoch">
 
 <!ENTITY whitelist.label "Neoznačovať správy ako nevyžiadané, ak sa odosielateľ nachádza v:">

@@ -55,9 +55,11 @@
 <!ENTITY inReplyToField.label "In-Reply-To: ">
 <!ENTITY originalWebsite.label "Webový server:">
 
-<!ENTITY editMessage.label "Upraviť návrh…">
+<!ENTITY editMessage.label                 "Upraviť návrh…">
+<!ENTITY editMessage.accesskey             "v">
 
 <!ENTITY attachmentsTree.label             "Prílohy:">
+<!ENTITY attachmentsTree.accesskey         "o">
 <!ENTITY openAttachmentCmd.label           "Otvoriť">
 <!ENTITY openAttachmentCmd.accesskey       "O">
 <!ENTITY viewAttachmentCmd.label           "Zobraziť zdrojový kód prílohy">

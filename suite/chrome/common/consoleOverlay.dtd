@@ -46,8 +46,8 @@
 <!ENTITY toolbarEval.accesskey "J">
 
 <!ENTITY all.accesskey         "V">
-<!ENTITY errors.accesskey      "h">
-<!ENTITY warnings.accesskey    "a">
+<!ENTITY errors.accesskey      "C">
+<!ENTITY warnings.accesskey    "o">
 <!ENTITY messages.accesskey    "r">
 <!ENTITY clear.accesskey       "m">
-<!ENTITY evaluate.accesskey    "d">
+<!ENTITY evaluate.accesskey    "h">
