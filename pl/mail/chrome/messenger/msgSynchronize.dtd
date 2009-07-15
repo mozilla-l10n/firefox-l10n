@@ -4,8 +4,8 @@
 <!ENTITY MsgSyncDirections.label "Pobierz i synchronizuj:">
 <!ENTITY syncTypeMail.label      "Wiadomości pocztowe">
 <!ENTITY syncTypeMail.accesskey  "p">
-<!ENTITY syncTypeNews.label      "Artykuły grup dyskusyjnych">
-<!ENTITY syncTypeNews.accesskey  "A">
+<!ENTITY syncTypeNews.label      "Wiadomości grup dyskusyjnych">
+<!ENTITY syncTypeNews.accesskey  "d">
 <!ENTITY sendMessage.label       "Wyślij niewysłane wiadomości">
 <!ENTITY sendMessage.accesskey   "W">
 <!ENTITY workOffline.label       "Po zakończeniu pobierania i synchronizacji pracuj w trybie offline">
