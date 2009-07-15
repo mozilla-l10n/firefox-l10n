@@ -79,3 +79,5 @@
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "Pri ľuďoch, ktorých mám v adresári, zobrazovať len meno">
 <!ENTITY showCondensedAddresses.accesskey "r">
+<!ENTITY closeMsgWindowOnDelete.label     "Pri odstraňovaní správy zatvoriť jej okno">
+<!ENTITY closeMsgWindowOnDelete.accesskey "d">

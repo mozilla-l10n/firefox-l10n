@@ -47,7 +47,7 @@
 <!ENTITY personalbarCmd.label "Osobný panel">
 <!ENTITY personalbarCmd.accesskey "O">
 <!ENTITY tabbarCmd.label "Panel kariet">
-<!ENTITY tabbarCmd.accesskey "t">
+<!ENTITY tabbarCmd.accesskey "e">
 <!ENTITY taskbarCmd.label "Stavový riadok">
 <!ENTITY taskbarCmd.accesskey "S">
 <!ENTITY componentbarCmd.label "Panel komponentov">
@@ -154,13 +154,14 @@
 <!ENTITY  bookmarksButton.label       "Záložky">
 <!ENTITY  bookmarksButton.tooltip     "Zoznam záložiek">
 <!ENTITY  homeButton.label            "Domov">
+<!ENTITY  bookmarksToolbarItem.label  "Položky panela Záložky">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Hotovo">
 
 <!ENTITY historyCmd.label           "História">
-<!ENTITY historyCmd.accesskey       "i">
-<!ENTITY history.commandKey         "h">
+<!ENTITY historyCmd.accesskey       "H">
+<!ENTITY history.commandKey         "H">
 
 <!ENTITY popupIcon.tooltiptext      "Zrušiť blokovanie vyskakovacíck okien tejto stránky">
 

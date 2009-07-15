@@ -3,18 +3,19 @@
 <!ENTITY navigatorCmd.accesskey "P">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label					"Composer">
-<!ENTITY editorCmd.accesskey				"C">
-<!ENTITY editorCmd.commandkey				"4">
+<!ENTITY editorCmd.label "Composer">
+<!ENTITY editorCmd.accesskey "C">
+<!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY javaConsoleCmd.label					"Konzola Javy">
-<!ENTITY javaConsoleCmd.accesskey				"J">
+<!ENTITY javaConsoleCmd.label	"Konzola Javy">
+<!ENTITY javaConsoleCmd.accesskey "J">
 
-<!ENTITY errorConsoleCmd.label                                  "Chybová konzola">
-<!ENTITY errorConsoleCmd.accesskey				"C">
+<!ENTITY errorConsoleCmd.label "Chybová konzola">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "J">
 
-<!ENTITY taskNavigator.tooltip  "Prehliadač">
-<!ENTITY taskComposer.tooltip  "Composer">
+<!ENTITY taskNavigator.tooltip "Prehliadač">
+<!ENTITY taskComposer.tooltip "Composer">
 
 <!ENTITY webDevelopment.label "Vývoj webu">
 <!ENTITY webDevelopment.accesskey "w">
@@ -24,6 +25,15 @@
 
 <!ENTITY tasksMenu.label "Nástroje">
 <!ENTITY tasksMenu.accesskey "N">
+
+<!ENTITY passwordManagerCmd.label "Správca hesiel">
+<!ENTITY passwordManagerCmd.accesskey "h">
+
+<!ENTITY passwordDisplayCmd.label "Spravovať uložené heslá">
+<!ENTITY passwordDisplayCmd.accesskey "S">
+
+<!ENTITY passwordExpireCmd.label "Odhlásiť sa">
+<!ENTITY passwordExpireCmd.accesskey "O">
 
 <!ENTITY downloadManagerCmd.label "Správca preberania súborov">
 <!ENTITY downloadManagerCmd.accesskey "S">

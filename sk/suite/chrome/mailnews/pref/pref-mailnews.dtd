@@ -38,35 +38,26 @@
 <!ENTITY pref.mailnews.title              "Pošta a diskusné skupiny">
 <!ENTITY generalSettings.caption          "Všeobecné nastavenia">
 <!ENTITY confirmMove.label                "Zobraziť potvrdenie pri presune správ do Koša">
-<!ENTITY confirmMove.accesskey            "b">
+<!ENTITY confirmMove.accesskey            "Z">
 <!ENTITY preserveThreading.label          "Pri usporiadaní správ zachovať vlákna">
-<!ENTITY preserveThreading.accesskey      "c">
+<!ENTITY preserveThreading.accesskey      "u">
+<!ENTITY mailBiffOnNewWindow.label        "Novú poštu kontrolovať až po otvorení okna Pošta a diskusné skupiny">
+<!ENTITY mailBiffOnNewWindow.accesskey    "N">
 
 <!ENTITY defaultMailSettings.description  "Nastaviť &brandShortName; ako predvolenú aplikáciu pre:">
 <!ENTITY setDefaultMail.label             "Pošta">
 <!ENTITY setDefaultMail.accesskey         "o">
 <!ENTITY setDefaultNews.label             "Diskusné skupiny">
-<!ENTITY setDefaultNews.accesskey         "k">
+<!ENTITY setDefaultNews.accesskey         "D">
 <!ENTITY setDefaultFeed.label             "Kanály">
-<!ENTITY setDefaultFeed.accesskey         "n">
+<!ENTITY setDefaultFeed.accesskey         "K">
 
 <!ENTITY messengerStartPage.caption       "Úvodná stránka pošty">
 <!ENTITY enableStartPage.label            "Pri spustení pošty zobraziť stránku v oblasti správy">
-<!ENTITY enableStartPage.accesskey        "r">
+<!ENTITY enableStartPage.accesskey        "e">
 <!ENTITY location.label                   "Adresa:">
-<!ENTITY location.accesskey               "d">
+<!ENTITY location.accesskey               "A">
 <!ENTITY useDefault.label                 "Obnoviť predvolenú">
-<!ENTITY useDefault.accesskey             "v">
+<!ENTITY useDefault.accesskey             "b">
 <!ENTITY rememberLastMsg.label            "Pamätať si naposledy označenú správu">
-<!ENTITY rememberLastMsg.accesskey        "e">
-<!ENTITY toolbarIntro.caption             "Vyberte tlačidlá, ktoré chcete vidieť na paneli s nástrojmi">
-<!ENTITY fileButton.label                 "Uložiť">
-<!ENTITY fileButton.accesskey             "U">
-<!ENTITY nextButton.label                 "Ďalšia">
-<!ENTITY nextButton.accesskey             "a">
-<!ENTITY junkMailButton.label             "Spam">
-<!ENTITY junkMailButton.accesskey         "S">
-<!ENTITY printButton.label                "Tlačiť">
-<!ENTITY printButton.accesskey            "T">
-<!ENTITY stopButton.label                 "Zastaviť">
-<!ENTITY stopButton.accesskey             "Z">
+<!ENTITY rememberLastMsg.accesskey        "m">

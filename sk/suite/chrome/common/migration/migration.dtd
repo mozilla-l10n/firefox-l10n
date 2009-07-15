@@ -11,7 +11,7 @@
 <!ENTITY importFromFile.label            "Zo súboru">
 <!ENTITY importFromFile.accesskey        "s">
 <!ENTITY importFromNothing.label         "Nič neimportovať">
-<!ENTITY importFromNothing.accesskey     "N">
+<!ENTITY importFromNothing.accesskey     "r">
 
 <!ENTITY importSource.title              "Import nastavení a údajov">
 <!ENTITY importItems.title               "Položky na importovanie">

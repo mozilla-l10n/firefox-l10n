@@ -1,29 +1,29 @@
 <!ENTITY pref.download.title            "Preberanie súborov">
+
 <!ENTITY downloadBehavior.label         "Pri spustení preberania">
-<!ENTITY downloadLocation.label         "Pri ukladaní súboru">
-<!ENTITY finishedBehavior.label         "Pri ukončení preberania">
+<!ENTITY focusWhenStarting.label        "Zvýrazniť okno správcu preberania súborov, ak je otvorené. V opačnom prípade:">
+<!ENTITY focusWhenStarting.accesskey    "Z">
 <!ENTITY openDM.label                   "Otvoriť správcu preberania súborov">
-<!ENTITY openDM.accesskey               "s">
+<!ENTITY openDM.accesskey               "c">
 <!ENTITY openProgressDialog.label       "Otvoriť okno s priebehom preberania">
 <!ENTITY openProgressDialog.accesskey   "O">
 <!ENTITY doNothing.label                "Nič neotvárať">
 <!ENTITY doNothing.accesskey            "N">
-<!ENTITY promptDownload.label           "Opýtať sa, kam súbory uložiť a ako predvolený nastaviť">
-<!ENTITY promptDownload.accesskey       "k">
-<!ENTITY lastLocation.label             "Naposledy použitý priečinok">
-<!ENTITY lastLocation.accesskey         "e">
-<!ENTITY specifiedLocation.label        "Zvolený priečinok">
-<!ENTITY specifiedLocation.accesskey    "Z">
-<!ENTITY autoDownload.label             "Automaticky súbory ukladať do určeného priečinka">
-<!ENTITY autoDownload.accesskey         "A">
-<!ENTITY downloadFolder.label           "Aktuálny priečinok pre preberané súbory:">
+
+<!ENTITY downloadLocation.label         "Pri ukladaní súboru">
+<!ENTITY saveTo.label                   "Uložiť súbory do">
+<!ENTITY saveTo.accesskey               "s">
 <!ENTITY chooseDownloadFolder.label     "Vybrať priečinok…">
 <!ENTITY chooseDownloadFolder.accesskey "V">
+<!ENTITY alwaysAsk.label                "Vždy sa opýtať, kam uložiť súbory">
+<!ENTITY alwaysAsk.accesskey            "k">
+
+<!ENTITY finishedBehavior.label         "Pri ukončení preberania">
 <!ENTITY playSound.label                "Prehrať zvuk">
 <!ENTITY playSound.accesskey            "h">
 <!ENTITY showAlert.label                "Zobraziť upozornenie">
 <!ENTITY showAlert.accesskey            "b">
 <!ENTITY browse.label                   "Prehľadávať…">
-<!ENTITY browse.accesskey               "r">
+<!ENTITY browse.accesskey               "e">
 <!ENTITY preview.label                  "Ukážka">
 <!ENTITY preview.accesskey              "U">

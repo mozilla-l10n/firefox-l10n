@@ -46,5 +46,5 @@
 <!ENTITY destination.label          "Cieľové umiestnenie:">
 <!ENTITY newFolder.label            "Nový priečinok…">
 <!ENTITY newFolder.accesskey        "o">
-<!ENTITY addGroup.label             "Pridať skupinu záložiek medzi záložky">
+<!ENTITY addGroup.label             "Pridať skupinu kariet medzi záložky">
 <!ENTITY addGroup.accesskey         "P">

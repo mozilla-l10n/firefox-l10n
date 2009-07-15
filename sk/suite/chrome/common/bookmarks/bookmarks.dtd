@@ -45,11 +45,11 @@
 <!ENTITY menuitem.newFolder.label      "Priečinok">
 <!ENTITY menuitem.newFolder.accesskey  "P">
 <!ENTITY button.newFolder.label        "Nový priečinok">
-<!ENTITY button.newFolder.accesskey    "i">
+<!ENTITY button.newFolder.accesskey    "o">
 <!ENTITY menuitem.newSeparator.label   "Oddeľovač">
 <!ENTITY menuitem.newSeparator.accesskey "d">
 <!ENTITY button.newSeparator.label     "Nový oddeľovač">
-<!ENTITY button.newSeparator.accesskey "d">
+<!ENTITY button.newSeparator.accesskey "e">
 <!ENTITY menuitem.open.label           "Otvoriť súbor záložiek…">
 <!ENTITY menuitem.open.accesskey       "O">
 <!ENTITY menuitem.import.label         "Importovať…">
@@ -57,7 +57,7 @@
 <!ENTITY menuitem.export.label         "Exportovať…">
 <!ENTITY menuitem.export.accesskey     "E">
 <!ENTITY menuitem.find.label           "Hľadať záložky…">
-<!ENTITY menuitem.find.accesskey       "H">
+<!ENTITY menuitem.find.accesskey       "a">
 <!ENTITY menuitem.find.find.key        "F">
 <!ENTITY command.findBookmarks.label   "Hľadať…">
 <!ENTITY menuitem.properties.label     "Vlastnosti…">
@@ -66,7 +66,7 @@
 <!ENTITY button.properties.accesskey   "V">
 <!ENTITY menuitem.properties.key       "I">
 <!ENTITY button.rename.label           "Premenovať…">
-<!ENTITY button.rename.accesskey       "r">
+<!ENTITY button.rename.accesskey       "m">
 <!ENTITY button.delete.label           "Odstrániť">
 <!ENTITY button.delete.accesskey       "D">
 <!ENTITY menuitem.moveBookmark.label   "Presunúť záložky…">
@@ -83,33 +83,38 @@
 
 <!ENTITY menuitem.view.command.toolbar.label        "Panel nástrojov">
 <!ENTITY menuitem.view.command.toolbar.accesskey    "P">
-<!ENTITY menuitem.view.command.searchbar.label      "Panel Vyhľadávanie">
-<!ENTITY menuitem.view.command.searchbar.accesskey  "V">
 <!ENTITY menuitem.view.show_columns.label           "Zobraziť stĺpce">
 <!ENTITY menuitem.view.show_columns.accesskey       "Z">
 <!ENTITY menuitem.newbookmarkfolder.label           "Nastaviť ako priečinok Záložky">
 <!ENTITY menuitem.newbookmarkfolder.accesskey       "N">
 <!ENTITY menuitem.newinternetsearchfolder.label     "Nastaviť ako priečinok vyhľadávania">
-<!ENTITY menuitem.newinternetsearchfolder.accesskey "i">
+<!ENTITY menuitem.newinternetsearchfolder.accesskey "a">
 <!ENTITY menuitem.personaltoolbarfolder.label       "Nastaviť ako priečinok Osobného panela">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "O">
 
 <!ENTITY treecol.name.label             "Názov">
+<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip           "Kliknutím usporiadate podľa názvu">
 <!ENTITY treecol.url.label              "Umiestnenie">
+<!ENTITY treecol.url.accesskey          "U">
 <!ENTITY treecol.url.tooltip            "Kliknutím usporiadate podľa umiestnenia">
 <!ENTITY treecol.shortcut.label         "Kľúčové slovo">
+<!ENTITY treecol.shortcut.accesskey     "K">
 <!ENTITY treecol.shortcut.tooltip       "Kliknutím usporiadate podľa kľúčového slova">
 <!ENTITY treecol.description.label      "Popis">
+<!ENTITY treecol.description.accesskey  "P">
 <!ENTITY treecol.description.tooltip    "Kliknutím usporiadate podľa popisu">
 <!ENTITY treecol.addedon.label          "Dátum pridania">
+<!ENTITY treecol.addedon.accesskey      "D">
 <!ENTITY treecol.addedon.tooltip        "Kliknutím usporiadate podľa dátumu pridania">
 <!ENTITY treecol.lastmod.label          "Naposledy upravené">
+<!ENTITY treecol.lastmod.accesskey      "a">
 <!ENTITY treecol.lastmod.tooltip        "Kliknutím usporiadate podľa poslednej úpravy">
 <!ENTITY treecol.lastvisit.label        "Naposledy navštívené">
+<!ENTITY treecol.lastvisit.accesskey    "e">
 <!ENTITY treecol.lastvisit.tooltip      "Kliknutím usporiadate podľa poslednej návštevy">
 
 <!ENTITY bookmarksWindowTitle.label     "Správca záložiek">
 
-<!ENTITY search.label                     "Hľadať">
-<!ENTITY search.accesskey                 "H">
+<!ENTITY search.emptytext               "Hľadať v záložkách">
+<!ENTITY search.key                     "f">

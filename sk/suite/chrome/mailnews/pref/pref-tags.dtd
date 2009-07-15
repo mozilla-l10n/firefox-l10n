@@ -43,12 +43,12 @@
 <!ENTITY colorColumn.label          "Farba">
 <!ENTITY defaultTagName.label       "Značka bez názvu">
 <!ENTITY addTagButton.label         "Pridať">
-<!ENTITY addTagButton.accesskey     "r">
+<!ENTITY addTagButton.accesskey     "d">
 <!ENTITY deleteTagButton.label      "Odstrániť">
-<!ENTITY deleteTagButton.accesskey  "d">
+<!ENTITY deleteTagButton.accesskey  "O">
 <!ENTITY raiseTagButton.label       "Zvýšiť dôležitosť">
 <!ENTITY raiseTagButton.accesskey   "Z">
 <!ENTITY lowerTagButton.label       "Znížiť dôležitosť">
 <!ENTITY lowerTagButton.accesskey   "n">
 <!ENTITY restoreButton.label        "Obnoviť predvolené">
-<!ENTITY restoreButton.accesskey    "O">
+<!ENTITY restoreButton.accesskey    "b">

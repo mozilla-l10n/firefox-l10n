@@ -34,6 +34,11 @@
          nc:link="composer_help.xhtml#inserting_an_image_into_your_page"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="adding:blog_account"
+         nc:name="vytvorenie nového účtu blogu"
+         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="adding:mail_account"
          nc:name="vytvorenie nového poštového účtu"
          nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
@@ -637,6 +642,11 @@
 <rdf:Description about="help-indexAZ.rdf#f">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="feeds"
+         nc:name="Feeds"
+         nc:link="glossary.xhtml#feed"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="file_types"
          nc:name="typy súborov"
          nc:link="nav_help.xhtml#plugins_and_downloads"/>
@@ -665,6 +675,26 @@
        <rdf:Description ID="font_changing_in_composer"
          nc:name="Zmena písma v Composeri"
          nc:link="composer_help.xhtml#changing_text_color_style_and_font"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#feeds">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="feeds:subscribing"
+         nc:name="prihlásenie k odberu kanála"
+         nc:link="mail_help.xhtml#subscribing_to_blogs_and_news_feeds"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="feeds:reading"
+         nc:name="čítanie kanála"
+         nc:link="mail_help.xhtml#reading_blogs_and_news_feed_messages"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="feeds:exporting_importing"
+         nc:name="export a import kanálov"
+         nc:link="mail_help.xhtml#exporting_and_importing_feeds"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -812,6 +842,11 @@
        <rdf:Description ID="import:crls"
          nc:name="import zrušených ceritifikátov (CRL)"
          nc:link="using_certs_help.xhtml#importing_crls"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="import:feeds"
+         nc:name="import kanálov"
+         nc:link="mail_help.xhtml#exporting_and_importing_feeds"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import:mail"
@@ -1063,9 +1098,9 @@
          nc:link="mail_help.xhtml#creating_html_mail_messages"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="Mail_and_Newsgroups:Disk_Space_settings"
-         nc:name="nastavenia miesta na disku"
-         nc:link="mail_help.xhtml#offline_and_disk_space"/>
+       <rdf:Description ID="Mail_and_Newsgroups:disk_space_and_storage_settings"
+         nc:name="nastavenie miesta na disku a úložiska"
+         nc:link="mail_help.xhtml#synchronization_and_storage"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:filing_messages"
@@ -1117,6 +1152,11 @@
          nc:name="vyhľadávanie správ"
          nc:link="mail_help.xhtml#searching_through_messages"/>
      </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
+         nc:name="nastavenie synchronizácie pre režim offline"
+         nc:link="mail_help.xhtml#synchronization_and_storage"/>
+      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:POP_settings"
          nc:name="nastavenia POP"
@@ -1260,6 +1300,11 @@
      <rdf:li>
        <rdf:Description ID="Offline"
          nc:name="Režim Offline"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="OPML"
+         nc:name="OPML"
+         nc:link="glossary.xhtml#opml"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1769,7 +1814,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="search:Advanced_mode"
-         nc:name="Rozšírený režim vyhľadávania v bočnom paneli"
+         nc:name="Rozšírený režim vyhľadávania v Bočnom paneli"
          nc:link="nav_help.xhtml#sidebar_advanced_search_mode"/>
      </rdf:li>
      <rdf:li>
@@ -1859,32 +1904,32 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Sidebar:adding_tabs"
-         nc:name="pridanie kariet bočného panela"
+         nc:name="pridanie kariet Bočného panela"
          nc:link="customize_help.xhtml#adding_sidebar_tabs"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Sidebar:customizing_tabs"
-         nc:name="prispôsobenie kariet bočného panela"
+         nc:name="prispôsobenie kariet Bočného panela"
          nc:link="customize_help.xhtml#customizing_individual_sidebar_tabs"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Sidebar:description"
-         nc:name="čo je bočný panel?"
+         nc:name="čo je Bočný panel?"
          nc:link="customize_help.xhtml#what_is_sidebar"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Sidebar:opening_closing_resizing"
-         nc:name="otvorenie, zatvorenie a zmena veľkosti bočného panela"
+         nc:name="otvorenie, zatvorenie a zmena veľkosti Bočného panela"
          nc:link="customize_help.xhtml#opening_closing_and_resizing_sidebar"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Sidebar:removing_tabs"
-         nc:name="odstránenie karty bočného panela"
+         nc:name="odstránenie karty Bočného panela"
          nc:link="customize_help.xhtml#removing_sidebar_tabs"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Sidebar:reorganizing_tabs"
-         nc:name="zmena usporiadania kariet bočného panela"
+         nc:name="zmena usporiadania kariet Bočného panela"
          nc:link="customize_help.xhtml#reorganizing_sidebar_tabs"/>
      </rdf:li>
      <rdf:li>
@@ -1899,7 +1944,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Sidebar:viewing_tabs"
-         nc:name="zobrazenie kariet bočného panela"
+         nc:name="zobrazenie kariet Bočného panela"
          nc:link="customize_help.xhtml#viewing_sidebar_tabs"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>

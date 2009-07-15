@@ -86,12 +86,15 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY customizeToolbarContext.label            "Prispôsobiť…">
+<!ENTITY customizeToolbarContext.accesskey        "P">
+
 <!ENTITY customizeToolbar.toolbarmode.label       "Nastavenia pre tento panel nástrojov">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "e">
 <!ENTITY customizeToolbar.iconsAndText.label      "Ikony a text">
-<!ENTITY customizeToolbar.iconsAndText.accesskey  "k">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "x">
 <!ENTITY customizeToolbar.icons.label             "Ikony">
-<!ENTITY customizeToolbar.icons.accesskey         "I">
+<!ENTITY customizeToolbar.icons.accesskey         "k">
 <!ENTITY customizeToolbar.text.label              "Text">
 <!ENTITY customizeToolbar.text.accesskey          "T">
 <!ENTITY customizeToolbar.useSmallIcons.label     "Použiť malé ikony">

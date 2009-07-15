@@ -10,7 +10,7 @@
 <!ENTITY showToolsLegend.label                  "Zobraziť panely s nástrojmi ako">
 <!ENTITY picsNtextRadio.label                   "Ikony a text">
 <!ENTITY picsNtextRadio.accesskey               "I">
-<!ENTITY picsOnlyRadio.label                    "Iba obrázky">
+<!ENTITY picsOnlyRadio.label                    "Iba ikony">
 <!ENTITY picsOnlyRadio.accesskey                "b">
 <!ENTITY textonlyRadio.label                    "Iba text">
 <!ENTITY textonlyRadio.accesskey                "x">

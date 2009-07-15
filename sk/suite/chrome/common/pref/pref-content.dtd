@@ -8,7 +8,7 @@
 <!ENTITY useFavIcons.label                      "Agresívne hľadať ikony webových stránok, ak nie sú definované">
 <!ENTITY useFavIcons.accesskey                  "A">
 <!ENTITY tbIconsDescription.label               "Zobrazovanie ikon webových stránok v ponuke záložiek a v paneli nástrojov:">
-<!ENTITY tbIconsNever.label                     "Nikdy nezobrazovať ikony v záložkach">
+<!ENTITY tbIconsNever.label                     "Nikdy nezobrazovať ikony v záložkách">
 <!ENTITY tbIconsNever.accesskey                 "N">
 <!ENTITY tbIconsCache.label                     "Len ak bola stránka nedávno načítaná">
 <!ENTITY tbIconsCache.accesskey                 "L">

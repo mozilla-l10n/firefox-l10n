@@ -113,15 +113,15 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Kontrolovať pravopis počas písania">
 <!ENTITY enableInlineSpellChecker.accesskey "K">
-<!ENTITY checkSpellingCmd.label "Kontrola pravopisu">
-<!ENTITY checkSpellingCmd.accesskey "p">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Kontrola pravopisu">
+<!ENTITY checkSpellingCmd2.accesskey "p">
+<!ENTITY checkSpellingCmd2.key "P">
 <!ENTITY validateCmd.label "Overiť správnosť kódu HTML">
 <!ENTITY validateCmd.accesskey "v">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vložiť">
-<!ENTITY insertMenu.accesskey "i">
+<!ENTITY insertMenu.accesskey "V">
 <!ENTITY insertLinkCmd.label "Odkaz…">
 <!ENTITY insertLinkCmd.accesskey "O">
 <!ENTITY insertLinkCmd.key "L">
@@ -187,33 +187,33 @@
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Vyberte veľkosť písma">
 <!ENTITY decreaseFontSize.label "Zmenšiť">
-<!ENTITY decreaseFontSize.accesskey "m">
+<!ENTITY decreaseFontSize.accesskey "e">
 <!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Zväčšiť">
-<!ENTITY increaseFontSize.accesskey "v">
+<!ENTITY increaseFontSize.accesskey "Z">
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Veľkosť">
 <!ENTITY fontSizeMenu.accesskey "k">
-<!ENTITY size-xx-smallCmd.label "najmenšie">
-<!ENTITY size-xx-smallCmd.accesskey "n">
-<!ENTITY size-x-smallCmd.label "menšie">
-<!ENTITY size-x-smallCmd.accesskey "m">
-<!ENTITY size-smallCmd.label "malé">
+<!ENTITY size-xx-smallCmd.label "Najmenšie">
+<!ENTITY size-xx-smallCmd.accesskey "N">
+<!ENTITY size-x-smallCmd.label "Menšie">
+<!ENTITY size-x-smallCmd.accesskey "M">
+<!ENTITY size-smallCmd.label "Malé">
 <!ENTITY size-smallCmd.accesskey "l">
-<!ENTITY size-mediumCmd.label "stredné">
+<!ENTITY size-mediumCmd.label "Stredné">
 <!ENTITY size-mediumCmd.accesskey "d">
-<!ENTITY size-largeCmd.label "veľké">
-<!ENTITY size-largeCmd.accesskey "e">
-<!ENTITY size-x-largeCmd.label "väčšie">
-<!ENTITY size-x-largeCmd.accesskey "v">
-<!ENTITY size-xx-largeCmd.label "najväčšie">
+<!ENTITY size-largeCmd.label "Veľké">
+<!ENTITY size-largeCmd.accesskey "k">
+<!ENTITY size-x-largeCmd.label "Väčšie">
+<!ENTITY size-x-largeCmd.accesskey "V">
+<!ENTITY size-xx-largeCmd.label "Najväčšie">
 <!ENTITY size-xx-largeCmd.accesskey "a">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Štýl textu">
-<!ENTITY fontStyleMenu.accesskey "x">
+<!ENTITY fontStyleMenu.accesskey "e">
 <!ENTITY styleBoldCmd.label "Tučné">
 <!ENTITY styleBoldCmd.accesskey "T">
 <!ENTITY styleBoldCmd.key "B">
@@ -251,12 +251,12 @@
 <!ENTITY formatFontColor.label "Farba textu…">
 <!ENTITY formatFontColor.accesskey "F">
 <!ENTITY tableOrCellColor.label "Farba pozadia tabuľky alebo bunky">
-<!ENTITY tableOrCellColor.accesskey "b">
+<!ENTITY tableOrCellColor.accesskey "F">
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Odstrániť pomenované kotvy">
-<!ENTITY formatRemoveNamedAnchors.accesskey "m">
+<!ENTITY formatRemoveNamedAnchors.accesskey "d">
 <!ENTITY formatRemoveNamedAnchors.key "A">
 
 <!ENTITY paragraphMenu.label "Odstavec">
@@ -326,7 +326,7 @@
 <!ENTITY layerBringToFront.tooltip "Preniesť dopredu">
 
 <!ENTITY increaseIndent.label "Zväčšiť zarážku">
-<!ENTITY increaseIndent.accesskey "i">
+<!ENTITY increaseIndent.accesskey "v">
 <!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Zmenšiť zarážku">
 <!ENTITY decreaseIndent.accesskey "m">
@@ -342,7 +342,7 @@
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabuľka">
-<!ENTITY tableMenu.accesskey "a">
+<!ENTITY tableMenu.accesskey "T">
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Označiť">
 <!ENTITY tableSelectMenu.accesskey "i">

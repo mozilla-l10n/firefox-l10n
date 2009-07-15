@@ -37,7 +37,6 @@
 
 <!-- extracted from ./local-panels.rdf -->
 
-<!ENTITY sidebar.whats-related.label  "Súvisiace stránky">
 <!ENTITY sidebar.search.label         "Vyhľadávanie">
 <!ENTITY sidebar.client-bookmarks.label     "Záložky">
 <!ENTITY sidebar.client-history.label       "História">
