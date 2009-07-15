@@ -1,0 +1,66 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "">
+<!ENTITY rights.title            "">
+<!ENTITY rights.intro-header     "">
+<!ENTITY rights.intro "">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "">
+<!ENTITY rights.intro-point1b "">
+<!ENTITY rights.intro-point1c "">
+
+<!ENTITY rights.intro-point2a "">
+<!ENTITY rights.intro-point2b "">
+<!ENTITY rights.intro-point2c "">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "">
+<!ENTITY rights.intro-point3b "">
+<!ENTITY rights.intro-point3c "">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "">
+<!ENTITY rights.intro-point4b "">
+<!ENTITY rights.intro-point4c "">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "">
+<!ENTITY rights.intro-point4b-unbranded "">
+<!ENTITY rights.intro-point4c-unbranded "">
+
+<!ENTITY rights.webservices-header "">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "">
+<!ENTITY rights.webservices-b "">
+<!ENTITY rights.webservices-c "">
+<!ENTITY rights.webservices-d "">
+<!ENTITY rights.webservices-e "">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "">
+<!ENTITY rights.webservices-term2 "">
+<!ENTITY rights.webservices-term3 "">
+<!ENTITY rights.webservices-term4 "">
+<!ENTITY rights.webservices-term5 "">
+<!ENTITY rights.webservices-term6 "">

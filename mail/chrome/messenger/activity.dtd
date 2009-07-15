@@ -1,0 +1,33 @@
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more activities in the list -->
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "300">
+
+<!ENTITY activity.title                  "">
+
+<!ENTITY cmd.pause.label                  "">
+<!ENTITY cmd.pause.accesskey              "">
+<!ENTITY cmd.resume.label                 "">
+<!ENTITY cmd.resume.accesskey             "">
+<!ENTITY cmd.cancel.label                 "">
+<!ENTITY cmd.cancel.accesskey             "">
+<!ENTITY cmd.undo.label                   "">
+<!ENTITY cmd.undo.accesskey               "">
+<!ENTITY cmd.recover.label                "">
+<!ENTITY cmd.recover.accesskey            "">
+<!ENTITY cmd.retry.label                  "">
+<!ENTITY cmd.retry.accesskey              "">
+<!ENTITY cmd.removeFromList.label         "">
+<!ENTITY cmd.removeFromList.accesskey     "">
+
+<!ENTITY cmd.close.commandkey             "">
+<!ENTITY cmd.close2.commandkey            "">
+<!ENTITY cmd.close2Unix.commandkey        "">
+<!ENTITY cmd.clearList.label              "">
+<!ENTITY cmd.clearList.tooltip            "">
+<!ENTITY cmd.clearList.accesskey          "">
+<!ENTITY cmd.find.commandkey              "">
+<!ENTITY cmd.search.commandkey            "">
+
+<!ENTITY searchBox.label                  "">

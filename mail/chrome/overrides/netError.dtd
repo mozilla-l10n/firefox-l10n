@@ -1,0 +1,88 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "">
+<!ENTITY retry.label "">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "">
+<!ENTITY connectionFailure.longDesc "">
+
+<!ENTITY deniedPortAccess.title "">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "">
+<!ENTITY dnsNotFound.longDesc "">
+
+<!ENTITY fileNotFound.title "">
+<!ENTITY fileNotFound.longDesc "">
+
+<!ENTITY generic.title "">
+<!ENTITY generic.longDesc "">
+
+<!ENTITY malformedURI.title "">
+<!ENTITY malformedURI.longDesc "">
+
+<!ENTITY netInterrupt.title "">
+<!ENTITY netInterrupt.longDesc "">
+
+<!ENTITY netOffline.title "">
+<!ENTITY netOffline.longDesc "">
+
+<!ENTITY contentEncodingError.title "">
+<!ENTITY contentEncodingError.longDesc "">
+
+<!ENTITY unsafeContentType.title "">
+<!ENTITY unsafeContentType.longDesc "">
+
+<!ENTITY netReset.title "">
+<!ENTITY netReset.longDesc "">
+
+<!ENTITY netTimeout.title "">
+<!ENTITY netTimeout.longDesc "">
+
+<!ENTITY protocolNotFound.title "">
+<!ENTITY protocolNotFound.longDesc "">
+
+<!ENTITY proxyConnectFailure.title "">
+<!ENTITY proxyConnectFailure.longDesc "">
+
+<!ENTITY proxyResolveFailure.title "">
+<!ENTITY proxyResolveFailure.longDesc "">
+
+<!ENTITY redirectLoop.title "">
+<!ENTITY redirectLoop.longDesc "">
+
+<!ENTITY unknownSocketType.title "">
+<!ENTITY unknownSocketType.longDesc "">
+
+<!ENTITY nssFailure2.title "">
+<!ENTITY nssFailure2.longDesc "">
+
+<!ENTITY nssBadCert.title "">
+<!ENTITY nssBadCert.longDesc2 "">
+
+<!ENTITY sharedLongDesc "">
+
+<!ENTITY malwareBlocked.title "">
+<!ENTITY malwareBlocked.longDesc "">
+
+<!ENTITY phishingBlocked.title "">
+<!ENTITY phishingBlocked.longDesc "">
+
+<!ENTITY securityOverride.linkText "">
+<!ENTITY securityOverride.getMeOutOfHereButton "">
+<!ENTITY securityOverride.exceptionButtonLabel "">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to thunderbird. -->
+
+<!ENTITY securityOverride.warningText "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">
