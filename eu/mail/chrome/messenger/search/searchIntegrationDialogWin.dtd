@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Windows bilaketa">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; integrazioa">
-<!ENTITY searchIntegration.description "&searchIntegration.engineName;(e)k indizeak sortzea nahi duzu &brandShortName;(e)ko posta- eta berri-mezuetan bilatzeko?">
-
-<!ENTITY searchIntegration.accept "Gaitu &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Ezgaitu &searchIntegration.engineName;">
