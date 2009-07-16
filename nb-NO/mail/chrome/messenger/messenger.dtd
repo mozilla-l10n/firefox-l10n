@@ -294,7 +294,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadThread.accesskey "t">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Forrige">
-<!ENTITY prevMenu.accesskey "F">
+<!ENTITY prevMenu.accesskey "o">
 <!ENTITY prevMsgCmd.label "Melding">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
