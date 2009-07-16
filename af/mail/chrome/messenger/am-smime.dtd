@@ -1,5 +1,5 @@
-<!ENTITY securityTitle.label "Sekuriteit">
-<!ENTITY securityTab.label "Sekuriteit">
+<!ENTITY securityTitle.label "Security">
+<!ENTITY securityTab.label "Security">
 <!ENTITY securityHeading.label "Om ondertekende of geënkripteerde boodskappe te stuur en te ontvang, moet u beide 'n ondertekening- en enkripsiesertifikaat toon.">
 <!ENTITY encryptionGroupTitle.label "Enkripsie">
 <!ENTITY encryptionChoiceLabel.label "Verstek-enkripsieopstelling vir wanneer boodskappe versend word:">
@@ -10,11 +10,11 @@
 <!ENTITY encryptionCert.message "Gebruik hierdie sertifikaat om boodskappe wat aan u gestuur word, te enkripteer en te dekripteer:">
 <!ENTITY digitalSign.certificate.button "Select…">
 <!ENTITY digitalSign.certificate.accesskey "S">
-<!ENTITY digitalSign.certificate_clear.button "Maak skoon">
-<!ENTITY digitalSign.certificate_clear.accesskey "K">
+<!ENTITY digitalSign.certificate_clear.button "Clear">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
 <!ENTITY encryption.certificate.button "Select…">
 <!ENTITY encryption.certificate.accesskey "t">
-<!ENTITY encryption.certificate_clear.button "Maak skoon">
+<!ENTITY encryption.certificate_clear.button "Clear">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digitale ondertekening">
 <!ENTITY signMessage.label "Digitally sign messages (by default)">

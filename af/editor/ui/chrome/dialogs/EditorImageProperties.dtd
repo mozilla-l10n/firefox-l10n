@@ -44,7 +44,7 @@
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Prentligging:">
-<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.accessKey "l">
 <!ENTITY locationEditField.tooltip "Tik die prent se lêernaam of ligging in">
 <!ENTITY title.label "Nutswenk:">
 <!ENTITY title.accessKey "N">
@@ -64,10 +64,10 @@
 <!ENTITY actualSizeRadio.accessKey "W">
 <!ENTITY actualSizeRadio.tooltip "Keer terug na prent se werklike grootte">
 <!ENTITY customSizeRadio.label "Gepasmaakte grootte">
-<!ENTITY customSizeRadio.accessKey "G">
+<!ENTITY customSizeRadio.accessKey "g">
 <!ENTITY customSizeRadio.tooltip "Wysig die prent se grootte soos vertoon op die bladsy">
 <!ENTITY heightEditField.label "Hoogte:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "g">
 <!ENTITY widthEditField.label "Wydte:">
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY constrainCheckbox.label "Beperk">
@@ -96,11 +96,11 @@
 <!ENTITY topBottomEditField.label "Bo- en onderkant:">
 <!ENTITY topBottomEditField.accessKey "B">
 <!ENTITY borderEditField.label "Soliede rand:">
-<!ENTITY borderEditField.accessKey "R">
+<!ENTITY borderEditField.accessKey "r">
 <!-- These controls are in the Link Box -->
 
 <!ENTITY showImageLinkBorder.label "Wys rand rondom geskakelde prent">
-<!ENTITY showImageLinkBorder.accessKey "R">
+<!ENTITY showImageLinkBorder.accessKey "r">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Vorm">

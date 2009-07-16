@@ -11,7 +11,7 @@
 <!ENTITY viewTags.label "Merkers">
 <!ENTITY viewTags.accesskey "M">
 <!ENTITY viewCustomViews.label "Doelmaak aansigte">
-<!ENTITY viewCustomViews.accesskey "A">
+<!ENTITY viewCustomViews.accesskey "a">
 <!ENTITY viewVirtualFolder.label "Save View as a Folder…">
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Customize…">

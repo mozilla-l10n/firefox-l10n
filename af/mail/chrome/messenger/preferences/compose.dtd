@@ -2,47 +2,45 @@
 <!ENTITY itemAutoComplete.label "Adresbediener">
 <!ENTITY itemSpellCheck.label "Spelling">
 
-<!ENTITY forwardMsg.label "Forward messages:">
-<!ENTITY forwardMsg.accesskey "w">
-<!ENTITY inline.label "Inlyn">
-<!ENTITY inline.accesskey "I">
-<!ENTITY asAttachment.label "As aanhangsel">
-<!ENTITY asAttachment.accesskey "A">
+<!ENTITY forwardMsg.label "Stuur boodskappe aan:">
+<!ENTITY forwardMsg.accesskey "S">
+<!ENTITY inline.label "Inline">
+<!ENTITY asAttachment.label "As Attachment">
 <!ENTITY addExtension.label "add extension to file name">
-<!ENTITY addExtension.accesskey "f">
+<!ENTITY addExtension.accesskey "e">
 
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Font:">
 <!ENTITY font.accesskey "n">
 <!ENTITY size.label "Grootte:">
-<!ENTITY size.accesskey "g">
-<!ENTITY fontColor.label "Tekskleur:">
-<!ENTITY fontColor.accesskey "t">
+<!ENTITY size.accesskey "G">
+<!ENTITY fontColor.label "Text Color:">
+<!ENTITY fontColor.accesskey "T">
 <!ENTITY bgColor.label "Agtergrondkleur:">
 <!ENTITY bgColor.accesskey "A">
 <!ENTITY restoreHTMLDefaults.label "Laai verstek terug">
 <!ENTITY restoreHTMLDefaults.accesskey "L">
 
 <!ENTITY spellCheck.label "Toets spelling voor versending">
-<!ENTITY spellCheck.accesskey "S">
+<!ENTITY spellCheck.accesskey "s">
 <!ENTITY spellCheckInline.label "Gaan spelling na terwyl u tik">
-<!ENTITY spellCheckInline1.accesskey "k">
-<!ENTITY languagePopup.label "Taal:">
-<!ENTITY languagePopup.accessKey "l">
+<!ENTITY spellCheckInline1.accesskey "E">
+<!ENTITY languagePopup.label "Language:">
+<!ENTITY languagePopup.accessKey "L">
 <!ENTITY downloadDictionaries.label "Laai nog woordeboeke af">
 
-<!ENTITY warnOnSendAccelKey.label "Bevestig wanneer snelsleutel gebruik word om boodskap te versend">
-<!ENTITY warnOnSendAccelKey.accesskey "b">
-<!ENTITY autoSave.label "Outostoor elke">
-<!ENTITY autoSave.accesskey "t">
+<!ENTITY warnOnSendAccelKey.label "Confirm when using keyboard shortcut to send message">
+<!ENTITY warnOnSendAccelKey.accesskey "C">
+<!ENTITY autoSave.label "Auto Save every">
+<!ENTITY autoSave.accesskey "A">
 <!ENTITY autoSaveEnd.label "minutes">
 
-<!ENTITY emailCollectionPicker.label "Voeg uitgaande e-posadresse outomaties by:">
-<!ENTITY emailCollectionPicker.accesskey "t">
+<!ENTITY emailCollectionPicker.label "Automatically add outgoing e-mail addresses to my:">
+<!ENTITY emailCollectionPicker.accesskey "A">
 <!ENTITY addressingTitle.label "Adresoutovoltooiing">
 <!ENTITY autocompleteText.label "Wanneer boodskappe geskryf word, soek resultate in:">
-<!ENTITY addressingEnable.label "Plaaslike adresboeke">
-<!ENTITY addressingEnable.accesskey "A">
+<!ENTITY addressingEnable.label "Local Address Books">
+<!ENTITY addressingEnable.accesskey "L">
 <!ENTITY directories.label "Gidsbediener:">
 <!ENTITY directories.accesskey "G">
 <!ENTITY directoriesNone.label "Geen">
@@ -52,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label "Stel teksformaatgedrag op">
 <!ENTITY sendOptions.label "Send Options…">
 <!ENTITY sendOptions.accesskey "S">
+
+<!ENTITY attachmentReminder.label "Check for missing attachments">
+<!ENTITY attachmentReminder.accesskey "m">
+<!ENTITY attachmentReminderOptions.label "Keywords…">
+<!ENTITY attachmentReminderOptions.accesskey "K">

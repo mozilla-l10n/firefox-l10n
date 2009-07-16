@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "RSS-rekeningopstelling">
+<!ENTITY accountTitle.label "Account Settings">
 
 <!ENTITY biffStart.label "Kontroleer vir nuwe artikels elke ">
 <!ENTITY biffStart.accesskey "r">
@@ -8,13 +8,13 @@
 <!ENTITY loginAtStartup.accesskey "K">
 
 <!ENTITY useQuickMode.label "Wys by verstek die artikelopsomming in plaas daarvan om die webbladsy te laai">
-<!ENTITY useQuickMode.accesskey "B">
+<!ENTITY useQuickMode.accesskey "b">
 
 <!ENTITY manageSubscriptions.label "Manage Subscriptions…">
 <!ENTITY manageSubscriptions.accesskey "M">
-<!-- entities from defaults/isp/rss.rdf -->
+<!-- entities from rss.rdf -->
 
-<!ENTITY rss.accountName "Nuus en webjoernale">
-<!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName "RSS-nuus en webjoernale">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY feeds.accountName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardShortName "Voere">
+<!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardLongName.accesskey "F">

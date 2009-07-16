@@ -3,29 +3,29 @@
 
 
 <!ENTITY fileMenu.label "Lêer">
-<!ENTITY fileMenu.accesskey "l">
+<!ENTITY fileMenu.accesskey "L">
 <!ENTITY newMenu.label "Nuwe">
 <!ENTITY newMenu.accesskey "N">
 
 <!ENTITY editMenu.label "Redigeer">
-<!ENTITY editMenu.accesskey "r">
+<!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Ontdoen">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "o">
+<!ENTITY undoCmd.accesskey "O">
 <!ENTITY redoCmd.label "Herdoen">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "h">
+<!ENTITY redoCmd.accesskey "H">
 <!ENTITY cutCmd.label "Knip">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "p">
 <!ENTITY copyCmd.label "Kopieer">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Plak">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Skrap">
-<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Merk alles">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -35,7 +35,7 @@
 <!ENTITY preferencesCmdUnix.accesskey "k">
 
 <!ENTITY viewMenu.label "Bekyk">
-<!ENTITY viewMenu.accesskey "b">
+<!ENTITY viewMenu.accesskey "B">
 <!ENTITY viewToolbarsMenu.label "Nutsbalke">
 <!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY showTaskbarCmd.label "Statusbalk">
@@ -46,14 +46,14 @@
 
 <!ENTITY closeCmd.label "Sluit">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "s">
+<!ENTITY closeCmd.accesskey "S">
 
 <!ENTITY quitApplicationCmd.label "Afsluit">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "s">
 
 <!ENTITY quitApplicationCmdUnix.label "Afsluit">
-<!ENTITY quitApplicationCmdUnix.accesskey "a">
+<!ENTITY quitApplicationCmdUnix.accesskey "A">
 
 <!ENTITY quitApplicationCmdMac.label "Quit &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey "q">

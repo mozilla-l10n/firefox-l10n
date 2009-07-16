@@ -43,8 +43,8 @@
 <!ENTITY directoriesText.label "Kies 'n LDAP-gidsbediener:">
 <!ENTITY directoriesText.accesskey "K">
 <!ENTITY addDirectory.label "Voeg by">
-<!ENTITY addDirectory.accesskey "v">
+<!ENTITY addDirectory.accesskey "V">
 <!ENTITY editDirectory.label "Redigeer">
-<!ENTITY editDirectory.accesskey "r">
+<!ENTITY editDirectory.accesskey "R">
 <!ENTITY deleteDirectory.label "Skrap">
-<!ENTITY deleteDirectory.accesskey "s">
+<!ENTITY deleteDirectory.accesskey "S">

@@ -37,6 +37,6 @@
 
 <!ENTITY messageMarkByDate.label "Merk boodskappe as gelees volgend datum">
 <!ENTITY markByDateLower.label "Merk boodskappe as gelees van:">
-<!ENTITY markByDateLower.accesskey "V">
+<!ENTITY markByDateLower.accesskey "v">
 <!ENTITY markByDateUpper.label "Aan:">
 <!ENTITY markByDateUpper.accesskey "A">

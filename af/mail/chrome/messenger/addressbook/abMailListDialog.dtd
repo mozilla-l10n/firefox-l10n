@@ -52,6 +52,6 @@
 
 <!ENTITY addToAddressBook.accesskey "V">
 <!ENTITY ListName.accesskey "L">
-<!ENTITY ListNickName.accesskey "K">
+<!ENTITY ListNickName.accesskey "k">
 <!ENTITY ListDescription.accesskey "e">
 

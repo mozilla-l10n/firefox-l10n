@@ -14,9 +14,9 @@
 <!ENTITY linkText.label "Skakelteks">
 <!ENTITY linkText.accesskey "S">
 <!ENTITY activeLinkText.label "Teks van aktiewe skakels">
-<!ENTITY activeLinkText.accesskey "A">
+<!ENTITY activeLinkText.accesskey "a">
 <!ENTITY visitedLinkText.label "Teks van besoekte skakels">
-<!ENTITY visitedLinkText.accesskey "B">
+<!ENTITY visitedLinkText.accesskey "b">
 <!ENTITY background.label "Agtergrond:">
 <!ENTITY background.accesskey "A">
 <!ENTITY colon.character ":">

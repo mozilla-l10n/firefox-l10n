@@ -14,7 +14,6 @@
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "accel">
 
-<!ENTITY updateCmd.label "Kontroleer vir bywerkings…">
-<!ENTITY updateCmd.accesskey "v">
+<!ENTITY updateCmd.label "Check for Updates…">
 <!ENTITY aboutCmd.label "Aangaande &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">

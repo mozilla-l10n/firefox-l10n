@@ -40,7 +40,7 @@
 <!ENTITY Legend.accesskey "L">
 
 <!ENTITY EditLegendText.label "Redigeer legende:">
-<!ENTITY EditLegendText.accesskey "E">
+<!ENTITY EditLegendText.accesskey "e">
 <!ENTITY LegendAlign.label "Rig legende:">
 <!ENTITY LegendAlign.accesskey "R">
 <!ENTITY AlignDefault.label "Verstek">

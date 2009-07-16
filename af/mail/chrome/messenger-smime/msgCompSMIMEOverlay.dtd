@@ -7,16 +7,16 @@
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
 <!ENTITY menu_securityNoEncryption.label "Moenie dié boodskap enkripteer nie">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
+<!ENTITY menu_securityNoEncryption.accesskey "n">
 
 <!ENTITY menu_securitySign.label "Onderteken hierdie boodskap digitaal">
-<!ENTITY menu_securitySign.accesskey "D">
+<!ENTITY menu_securitySign.accesskey "d">
 
 <!ENTITY menu_securityStatus.label "Bekyk sekuriteitsinligting">
-<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY menu_securityStatus.accesskey "i">
 
 <!ENTITY securityButton.label "Sekuriteit">
 <!ENTITY securityButton.tooltip "Bekyk of wysig sekuriteitsopstelling">
 
 <!ENTITY menu_viewSecurityStatus.label "Boodskapsekuriteitsinligting">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">
+<!ENTITY menu_viewSecurityStatus.accesskey "i">

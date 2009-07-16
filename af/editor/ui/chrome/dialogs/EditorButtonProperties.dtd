@@ -49,11 +49,11 @@
 <!ENTITY ButtonValue.label "Waarde:">
 <!ENTITY ButtonValue.accesskey "W">
 <!ENTITY tabIndex.label "Oortjie-indeks:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "i">
 <!ENTITY ButtonDisabled.label "Gedeaktiveer">
 <!ENTITY ButtonDisabled.accesskey "G">
 <!ENTITY AccessKey.label "Toegangsleutel:">
-<!ENTITY AccessKey.accesskey "S">
+<!ENTITY AccessKey.accesskey "s">
 
 <!ENTITY RemoveButton.label "Verwyder knoppie">
 <!ENTITY RemoveButton.accesskey "V">

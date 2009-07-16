@@ -2,7 +2,7 @@
 
 <!ENTITY accountTitle.label "Rekeningopstelling">
 <!ENTITY accountName.label "Gebruikernaam:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "n">
 <!ENTITY identityTitle.label "Verstekidentiteit">
 <!ENTITY identityDesc.label "Elke rekening het 'n identiteit. Die identiteit is die inligting wat ander mense sien wanneer hulle u boodskappe lees.">
 <!ENTITY name.label "U naam:">
@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Organisasie:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Las hierdie handtekening by:">
-<!ENTITY signature.accesskey "l">
+<!ENTITY signatureText.label "Signature text:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Use HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Edit…">
 <!ENTITY choose.label "Kies…">
 <!ENTITY choose.accesskey "K">
@@ -29,5 +33,5 @@
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
 <!ENTITY smtpName.label "Uitgaande bediener (SMTP):">
-<!ENTITY smtpName.accesskey "u">
+<!ENTITY smtpName.accesskey "U">
 <!ENTITY smtpDefaultServer.label "Gebruik verstekbediener">

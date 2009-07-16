@@ -42,7 +42,7 @@
 
 <!ENTITY generalInfo.label "Algemene inligting">
 <!ENTITY folderCharsetTab.label "Verstek-karakterenkodering:">
-<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetTab.accesskey "e">
 <!ENTITY folderCharsetOverride.label "Pas verstek op alle boodskappe in die vouer toe (individuele boodskappe se karakterenkoderingopstelling en outospeur sal geïgnoreer word)">
 <!ENTITY folderCharsetOverride.accesskey "P">
 <!ENTITY folderRebuildSummaryFile.label "Herbou indeks">
@@ -60,15 +60,15 @@
 <!ENTITY retentionDeleteMsg.label "Skrap boodskappe van meer as">
 <!ENTITY retentionDeleteMsg.accesskey "b">
 <!ENTITY retentionKeepAll.label "Moenie enige boodskappe skrap nie">
-<!ENTITY retentionKeepAll.accesskey "E">
-<!ENTITY retentionKeepNew.label "Skrap alle behalwe die mees onlangse">
-<!ENTITY retentionKeepNew.accesskey "r">
-<!ENTITY retentionKeepUnread.label "Skrap atyd geleesde boodskappe">
-<!ENTITY retentionKeepUnread.accesskey "g">
+<!ENTITY retentionKeepAll.accesskey "e">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label "Aflyn">
+<!ENTITY folderSynchronizationTab.label "Synchronization">
 <!ENTITY folderCheckForNewMessages.label "Kontroleer hierdie vouer vir nuwe boodskappe">
 <!ENTITY folderCheckForNewMessages.accesskey "K">
 

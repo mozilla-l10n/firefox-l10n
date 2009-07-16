@@ -1,4 +1,3 @@
-
 <!ENTITY prefWindow.titleWin "Opsies">
 <!ENTITY prefWindow.titleGNOME "&brandShortName;-voorkeure">
 <!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
@@ -9,5 +8,5 @@
 <!ENTITY paneDisplay.title "Vertoon">
 <!ENTITY paneComposition.title "Opstelling">
 <!ENTITY paneAttachments.title "Aanhegsels">
-<!ENTITY panePrivacy.title "Privaatheid">
+<!ENTITY paneSecurity.title "Sekuriteit">
 <!ENTITY paneAdvanced.title "Gevorderd">
