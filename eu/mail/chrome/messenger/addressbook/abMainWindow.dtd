@@ -23,16 +23,16 @@
 <!ENTITY closeCmd.label "Itxi">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "i">
-<!ENTITY printSetupCmd.label "Prestatu orria...">
+<!ENTITY printSetupCmd.label "Prestatu orria…">
 <!ENTITY printSetupCmd.accesskey "s">
 <!ENTITY printPreviewContactCmd.label "Kontaktuaren inprimatze-aurrebista">
 <!ENTITY printPreviewContactCmd.accesskey "r">
 <!ENTITY printPreviewAddressBook.label "Helbide-liburuaren inprimatze-aurrebista">
 <!ENTITY printPreviewAddressBook.accesskey "B">
-<!ENTITY printContactCmd.label "Inprimatu kontaktua...">
+<!ENTITY printContactCmd.label "Inprimatu kontaktua…">
 <!ENTITY printContactCmd.accesskey "P">
 <!ENTITY printContactCmd.key "P">
-<!ENTITY printAddressBook.label "Inprimatu helbide-liburua...">
+<!ENTITY printAddressBook.label "Inprimatu helbide-liburua…">
 <!ENTITY printAddressBook.accesskey "A">
 <!-- Edit Menu -->
 
@@ -70,7 +70,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Propietateak...">
+<!ENTITY propertiesCmd.label "Propietateak…">
 <!ENTITY propertiesCmd.accesskey "p">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
@@ -106,11 +106,11 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "Bilatu helbideak…">
 <!ENTITY searchAddressesCmd.accesskey "B">
-<!ENTITY importCmd.label "Inportatu...">
+<!ENTITY importCmd.label "Inportatu…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY exportCmd.label "Esportatu...">
+<!ENTITY exportCmd.label "Esportatu…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "[z] Aukerak...">
+<!ENTITY preferencesCmd.label "Aukerak…">
 <!ENTITY preferencesCmd.accesskey "A">
 <!ENTITY preferencesCmdUnix.label "Hobespenak">
 <!ENTITY preferencesCmdUnix.accesskey "n">

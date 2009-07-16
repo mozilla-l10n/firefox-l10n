@@ -11,8 +11,8 @@
 <!ENTITY systemIntegration.label "System Integration">
 <!ENTITY alwaysCheckDefault.label "Egiaztatu beti &brandShortName; lehenetsitako posta-bezeroa dela abiaraztean">
 <!ENTITY alwaysCheckDefault.accesskey "G">
-<!ENTITY searchIntegration.label "Baimendu searchIntegration.engineName;(r)i mezuak bilatzea">
-<!ENTITY searchIntegration.accesskey "S">
+<!ENTITY searchIntegration.label "Baimendu &searchIntegration.engineName;(r)i mezuak bilatzea">
+<!ENTITY searchIntegration.accesskey "B">
 <!ENTITY checkNow.label "Egiaztatu orain">
 <!ENTITY checkNow.accesskey "N">
 <!ENTITY configEditDesc.label "Konfigurazio aurreratua">
