@@ -22,7 +22,7 @@
 <!ENTITY  evangelism.desc                 "Il vous est vivement recommandé d'appliquer cette mise à jour
                                            de &brandShortName; le plus rapidement possible.">
 
-<!ENTITY  license.instructions            "Si vous êtes d'accord avec les termes de cet accord, cliquez sur Je suis d'accord ci-dessous pour poursuivre l'installation de la mise à jour.">
+<!ENTITY  license.instructions            "Si vous acceptez les termes de cet accord, cliquez sur Je suis d'accord ci-dessous pour poursuivre l'installation de la mise à jour.">
 
 <!ENTITY  license.titleText               "Accord de licence logicielle">
 <!ENTITY  license.introText               "Termes et conditions d'utilisation de ce logiciel.">
