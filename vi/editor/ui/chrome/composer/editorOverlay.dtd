@@ -134,7 +134,7 @@
 <!ENTITY insertTableCmd.accesskey "B">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "T">
-<!ENTITY insertCharsCmd.label "Ký tự và Ký hiệu…">
+<!ENTITY insertCharsCmd.label "Kí tự và Kí hiệu…">
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Ngắt Đoạn Sau Hình">
 <!ENTITY insertBreakAllCmd.accesskey "S">

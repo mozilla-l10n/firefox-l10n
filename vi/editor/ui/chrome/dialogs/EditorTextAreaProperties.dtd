@@ -61,5 +61,5 @@
 <!ENTITY WrapOff.value "Tắt">
 <!ENTITY WrapHard.value "Cứng">
 <!ENTITY WrapSoft.value "Mềm">
-<!ENTITY WrapPhysical.value "Vật lý">
+<!ENTITY WrapPhysical.value "Vật lí">
 <!ENTITY WrapVirtual.value "Ảo">

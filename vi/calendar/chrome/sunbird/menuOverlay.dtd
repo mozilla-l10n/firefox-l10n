@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                                   "Tìm bản Cập nhật…">
 <!ENTITY updateCmd.accesskey                               "n">
 
+<!ENTITY sunbird.export.calendar.label                     "Xuất Lịch…">
+<!ENTITY sunbird.export.calendar.accesskey                 "X">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "Cửa sổ">
 <!ENTITY minimizeWindow.label                              "Thu nhỏ">

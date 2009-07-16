@@ -49,15 +49,19 @@
 <!ENTITY newevent.to.label                  "Tới" >
 <!ENTITY newevent.attendees.notify.label    "Thông báo khách tham dự">
 
-<!ENTITY newevent.status.label              "Trạng thái" >
-<!ENTITY newevent.status.accesskey          "r" >
-<!ENTITY newevent.status.none.label         "Không xác định" >
-<!ENTITY newevent.status.cancelled.label    "Đã hủy" >
-<!ENTITY newevent.status.tentative.label    "Phân vân" >
-<!ENTITY newevent.status.confirmed.label    "Đã xác nhận" >
-<!ENTITY newevent.status.needsaction.label  "Cần thao tác" >
-<!ENTITY newevent.status.inprogress.label   "Đang xử lí" >
-<!ENTITY newevent.status.completed.label    "Xong vào" >
+<!ENTITY newevent.status.label                "Trạng thái" >
+<!ENTITY newevent.status.accesskey            "r" >
+<!ENTITY newevent.status.none.label           "Không xác định" >
+<!ENTITY newevent.status.none.accesskey       "K" >
+<!ENTITY newevent.status.cancelled.label      "Đã hủy" >
+<!ENTITY newevent.status.cancelled.accesskey  "h" >
+<!ENTITY newevent.status.tentative.label      "Phân vân" >
+<!ENTITY newevent.status.tentative.accesskey  "P" >
+<!ENTITY newevent.status.confirmed.label      "Đã xác nhận" >
+<!ENTITY newevent.status.confirmed.accesskey  "c" >
+<!ENTITY newevent.status.needsaction.label    "Cần thao tác" >
+<!ENTITY newevent.status.inprogress.label     "Đang xử lí" >
+<!ENTITY newevent.status.completed.label      "Xong vào" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; hoàn tất">
@@ -77,6 +81,8 @@
 <!ENTITY  event.menu.file.close.accesskey                 "g">
 <!ENTITY  event.menu.file.save.label                      "Lưu">
 <!ENTITY  event.menu.file.save.accesskey                  "L">
+<!ENTITY  event.menu.item.delete.label                    "Xóa…">
+<!ENTITY  event.menu.item.delete.accesskey                "X">
 <!ENTITY  event.menu.file.page.setup.label                "Thiết lập Trang">
 <!ENTITY  event.menu.file.page.setup.accesskey            "p">
 <!ENTITY  event.menu.file.print.label                     "In">
@@ -165,6 +171,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Lưu và Đóng">
+<!ENTITY  event.toolbar.delete.label                      "Xóa">
 <!ENTITY  event.toolbar.attendees.label                   "Mời khách Tham dự">
 <!ENTITY  event.toolbar.spellcheck.label                  "Kiểm tra Chính tả">
 <!ENTITY  event.toolbar.privacy.label                     "Riêng tư">
@@ -349,6 +356,9 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Phân vân" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Ra ngoài Văn phòng" >
 <!ENTITY event.freebusy.legend.unknown          "Không có Thông tin" >
+<!ENTITY event.attendee.role.required           "Người tham dự Quan trọng">
+<!ENTITY event.attendee.role.optional           "Người tham dự Phụ">
+<!ENTITY event.attendee.role.chair              "Chủ tọa">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Vui lòng Xác định Múi giờ">

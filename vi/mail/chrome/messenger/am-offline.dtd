@@ -18,14 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey "a">
 <!ENTITY retentionKeepAll.label "Không xóa bất kì thư nào">
 <!ENTITY retentionKeepAll.accesskey "K">
-<!ENTITY retentionKeepNew.label "Xóa tất cả ngoại trừ">
-<!ENTITY retentionKeepNew.accesskey "r">
-<!ENTITY retentionKeepUnread.label "Luôn luôn xóa thư đã đọc">
-<!ENTITY retentionKeepUnread.accesskey "u">
+<!ENTITY retentionKeepRecent.label "Xóa tất cả trừ gần đây">
+<!ENTITY retentionKeepRecent.accesskey "g">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Luôn luôn xóa thư đã đọc (ghi đè thiết lập tuổi)">
 <!ENTITY retentionApplyToFlagged.label "Luôn luôn giữ lại thư gắn sao">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
-<!ENTITY nntpRemoveBody.label "Chỉ đối với các nội dung thư ít hơn">
-<!ENTITY nntpRemoveBody.accesskey "v">
+<!ENTITY nntpRemoveMsgBody.label "Xóa nội dung khỏi thư lớn hơn">
+<!ENTITY nntpRemoveMsgBody.accesskey "n">
 <!ENTITY offlineSelectNntp.label "Chọn nhóm tin để dùng ngoại tuyến…">
 <!ENTITY offlineSelectNntp.accesskey "m">
 <!ENTITY offlineImapAdvancedOffline.label "Nâng cao…">

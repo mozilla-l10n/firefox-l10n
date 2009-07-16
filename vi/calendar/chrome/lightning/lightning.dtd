@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Sự kiện…">
+<!ENTITY lightning.menupopup.new.event.accesskey "S">
 <!ENTITY lightning.menupopup.new.task.label     "Tác vụ…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Lịch…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "L">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Mở">
@@ -61,11 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Tập tin Lịch…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "L">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Lịch">
-<!ENTITY lightning.calendar.accesskey        "L">
-<!ENTITY lightning.tasks.label               "Tác vụ">
-<!ENTITY lightning.tasks.accesskey           "v">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Lịch">
+<!ENTITY lightning.menu.view.calendar.accesskey        "L">
+<!ENTITY lightning.menu.view.tasks.label               "Tác vụ">
+<!ENTITY lightning.menu.view.tasks.accesskey           "T">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Sự kiện và Tác vụ">
+<!ENTITY lightning.menu.eventtask.accesskey            "S">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "Thư">
