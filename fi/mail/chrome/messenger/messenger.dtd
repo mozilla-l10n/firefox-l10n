@@ -665,6 +665,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey  "r">
 <!ENTITY contextReplyAll.label  "Vastaa kaikille">
 <!ENTITY contextReplyAll.accesskey  "a">
+<!ENTITY contextReplyList.label "Vastaa listalle">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label  "Välitä">
 <!ENTITY contextForward.accesskey  "ä">
 <!ENTITY contextForwardAsAttachment.label  "Välitä eteenpäin liitteenä">
