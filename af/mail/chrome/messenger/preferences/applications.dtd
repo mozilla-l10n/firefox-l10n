@@ -1,0 +1,19 @@
+<!ENTITY typeColumn.label "Inhoudsoort">
+<!ENTITY typeColumn.accesskey "s">
+
+<!ENTITY actionColumn2.label "Aksie">
+<!ENTITY actionColumn2.accesskey "A">
+
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.emptytext "Soek">
+
+<!ENTITY saveTo.label "Save files to">
+<!ENTITY saveTo.accesskey "S">
+<!ENTITY alwaysAsk.label "Vra my altyd waar om lêers te stoor">
+<!ENTITY alwaysAsk.accesskey "V">
+<!ENTITY chooseFolderWin.label "Blaai…">
+<!ENTITY chooseFolderWin.accesskey "B">
+<!ENTITY chooseFolderMac.label "Kies…">
+<!ENTITY chooseFolderMac.accesskey "K">
