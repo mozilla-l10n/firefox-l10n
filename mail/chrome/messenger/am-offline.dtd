@@ -5,16 +5,16 @@
 <!ENTITY offlineNotDownload.label "Meldinger større enn">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "dager gammle">
+<!ENTITY daysOld.label "dager">
 <!ENTITY message.label "meldingene">
 <!ENTITY nntpNotDownloadRead.label "Leste meldinger">
 <!ENTITY nntpNotDownloadRead.accesskey "L">
-<!ENTITY nntpDownloadMsg.label "Meldinger mer enn">
+<!ENTITY nntpDownloadMsg.label "Meldinger eldre enn">
 <!ENTITY nntpDownloadMsg.accesskey "M">
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldinger bli permanent slettet">
 <!ENTITY retentionCleanupImap.label "For å spare diskplass kan gamle meldinger slettes permanent, både lokale kopier og originalene på e-posttjeneren.">
 <!ENTITY retentionCleanupPop.label "For å spare diskplass kan gamle meldinger slettes permanent, også originaler som ligger lagret på e-posttjeneren.">
-<!ENTITY retentionKeepMsg.label "Slett meldinger mer enn">
+<!ENTITY retentionKeepMsg.label "Slett meldinger eldre enn">
 <!ENTITY retentionKeepMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
 <!ENTITY retentionKeepAll.accesskey "I">
@@ -24,7 +24,7 @@
 <!ENTITY retentionKeepUnreadHidden.label "Alltid slett leste meldinger (overstyr levetid-innstillinger)">
 <!ENTITY retentionApplyToFlagged.label "Alltid behold meldinger merket med stjerne">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
-<!ENTITY nntpRemoveMsgBody.label "Fjern meldingstekster fra meldinger når eldre enn">
+<!ENTITY nntpRemoveMsgBody.label "Fjern innhold fra meldinger eldre enn">
 <!ENTITY nntpRemoveMsgBody.accesskey "m">
 <!ENTITY offlineSelectNntp.label "Velg nyhetsgrupper som skal leses frakoblet">
 <!ENTITY offlineSelectNntp.accesskey "V">
