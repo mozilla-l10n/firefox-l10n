@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title "System Integration">
+<!ENTITY defaultClient.intro "Gebruik &brandShortName; as die verstekkliënt vir:">
+
+<!ENTITY email.label "E-pos">
+<!ENTITY newsgroups.label "Nuusgroepe">
+<!ENTITY feeds.label "Voere">
+
+<!ENTITY checkOnStartup.label "Kontroleer altyd wanneer &brandShortName; begin word">
+<!ENTITY checkOnStartup.accesskey "K">
+
+<!ENTITY searchIntegration.label "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey "S">
