@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label        "Sisältötyyppi">
+<!ENTITY  typeColumn.accesskey    "S">
+
+<!ENTITY  actionColumn2.label     "Toiminto">
+<!ENTITY  actionColumn2.accesskey "o">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.emptytext        "Etsi">
+
+<!ENTITY saveTo.label                 "Tallenna kansioon">
+<!ENTITY saveTo.accesskey             "T">
+<!ENTITY alwaysAsk.label              "Kysy aina tiedoston tallennuskansio">
+<!ENTITY alwaysAsk.accesskey          "K">
+<!ENTITY chooseFolderWin.label        "Selaa…">
+<!ENTITY chooseFolderWin.accesskey    "S">
+<!ENTITY chooseFolderMac.label        "Valitse…">
+<!ENTITY chooseFolderMac.accesskey    "V">
