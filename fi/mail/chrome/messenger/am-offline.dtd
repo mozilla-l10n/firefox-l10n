@@ -18,14 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey  "o">
 <!ENTITY retentionKeepAll.label  "Älä poista mitään viestejä">
 <!ENTITY retentionKeepAll.accesskey  "Ä">
-<!ENTITY retentionKeepNew.label  "Poista kaikki paitsi viimeiset">
-<!ENTITY retentionKeepNew.accesskey  "P">
-<!ENTITY retentionKeepUnread.label  "Poista aina luetut viestit">
-<!ENTITY retentionKeepUnread.accesskey  "t">
-<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista lipulla merkittyjä viestejä">
+<!ENTITY retentionKeepRecent.label "Poista kaikki paitsi uusimmat">
+<!ENTITY retentionKeepRecent.accesskey "P">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Poista aina luetut viestit (ohittaen viestin ikä -asetukset)">
+<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista tähdellä merkittyjä viestejä">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveBody.label  "Vain ne viestit, jotka ovat yli">
-<!ENTITY nntpRemoveBody.accesskey  "n">
+<!ENTITY nntpRemoveMsgBody.label "Poista viestirungot viesteistä, jotka ovat yli">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label  "Valitse yhteydettömässä tilassa käytettävät ryhmät…">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Lisäasetukset…">

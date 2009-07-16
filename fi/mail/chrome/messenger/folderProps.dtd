@@ -61,11 +61,11 @@
 <!ENTITY retentionDeleteMsg.accesskey "y">
 <!ENTITY retentionKeepAll.label  "Älä poista mitään viestejä">
 <!ENTITY retentionKeepAll.accesskey  "Ä">
-<!ENTITY retentionKeepNew.label  "Poista kaikki paitsi viimeiset">
-<!ENTITY retentionKeepNew.accesskey  "v">
-<!ENTITY retentionKeepUnread.label  "Poista aina luetut viestit">
-<!ENTITY retentionKeepUnread.accesskey  "l">
-<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista lipulla merkittyjä viestejä">
+<!ENTITY retentionKeepRecent.label "Poista kaikki paitsi uusimmat">
+<!ENTITY retentionKeepRecent.accesskey "P">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Poista aina luetut viestit (ohittaen viestin ikä -asetukset)">
+<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista tähdellä merkittyjä viestejä">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronointi">

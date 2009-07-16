@@ -332,6 +332,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label  "Vastaa kaikille">
 <!ENTITY replyToAllMsgCmd.accesskey	 "a">
 <!ENTITY replyToAllMsgCmd.key	 "r">
+<!ENTITY replyToListMsgCmd.label "Vastaa postituslistalle">
+<!ENTITY replyToListMsgCmd.accesskey  "p">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label  "Välitä">
 <!ENTITY forwardMsgCmd.accesskey  "ä">
 <!ENTITY forwardMsgCmd.key	 "l">
@@ -461,6 +464,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label  "Kirjoita">
 <!ENTITY replyButton.label  "Vastaa">
 <!ENTITY replyAllButton.label  "Vastaa kaikille ">
+<!ENTITY replyListButton.label "Vastaa listalle">
 <!ENTITY forwardButton.label  "Välitä">
 <!ENTITY fileButton.label  "Tiedosto">
 <!ENTITY nextButton.label  "Seuraava">
@@ -492,6 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip  "Luo uusi viesti">
 <!ENTITY replyButton.tooltip  "Vastaa viestiin">
 <!ENTITY replyAllButton.tooltip  "Vastaa lähettäjälle ja kaikille vastaanottajille">
+<!ENTITY replyListButton.tooltip "Vastaa postituslistalle">
 <!ENTITY forwardButton.tooltip  "Välitä viesti eteenpäin">
 <!ENTITY fileButton.tooltip  "Tallenna valittu viesti">
 <!ENTITY nextButton.tooltip  "Siirry seuraavaan lukematta olevaan viestiin">
@@ -617,6 +622,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      present in the gloda search results.  The values can be found in
      messenger.properties with a prefix of "glodaSearch_results_why_". -->
 <!ENTITY glodaWhyColumn.label "Syy">
+<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
+     score assigned to the message as a result of the search.  The column
+     primarily exists to be sorted by, and its contents will probably have
+     little meaning for most users. -->
+<!ENTITY glodaScoreColumn.label "Pisteluku">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip  "Valitse näkyvät sarakkeet">
@@ -640,6 +650,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.tooltip  "Napsauta järjestääksesi saapumisjärjestyksen mukaan">
 <!ENTITY attachmentColumn.tooltip  "Napsauta järjestääksesi liitteiden mukaan">
 <!ENTITY glodaWhyColumn.tooltip "Napsauta järjestääksesi listaussyyn mukaan">
+<!ENTITY glodaScoreColumn.tooltip "Napsauta järjestääksi haun pisteluvun mukaan">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label  "Avaa viesti uudessa ikkunassa">
