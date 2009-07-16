@@ -81,12 +81,12 @@
 
 <!ENTITY allowRemoteContent1.label "Onartu urruneko edukia.">
 <!ENTITY allowRemoteContent1.accesskey "u">
-<!ENTITY allowRemoteContent1.tooltip "HTML erabiliaz posible da urruneko jatorridun
-edukia txertatzea. Mezu hori irekitzean
-kanpoko jatorriari konexio bat sortuko da. Honek
-mezua irakurtzeko aukera ematen du. Kutxa hau
-hautatzean kontaktu honen mezuetan urruneko
- jatorri horien txertatzea onartuko da.">
+<!ENTITY allowRemoteContent1.tooltip "HTML erabiliaz posible da urruneko jatorridun 
+edukia txertatzea. Mezu hori irekitzean 
+kanpoko jatorriari konexio bat sortuko da. Honek 
+mezua irakurtzeko aukera ematen du. Kutxa hau 
+hautatzean kontaktu honen mezuetan urruneko 
+jatorri horien txertatzea onartuko da.">
 
 <!ENTITY WorkPhone.label "Lana:">
 <!ENTITY WorkPhone.accesskey "l">

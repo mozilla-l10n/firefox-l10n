@@ -137,7 +137,7 @@
 <!ENTITY favoriteFolders.label "Gogokoena">
 <!ENTITY favoriteFolders.accesskey "G">
 <!ENTITY recentFolders.label "Oraintsukoa">
-<!ENTITY recentFolders.accesskey "O">
+<!ENTITY recentFolders.accesskey "R">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sailkapen irizpidea">
@@ -333,8 +333,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Erantzun denei">
 <!ENTITY replyToAllMsgCmd.accesskey "e">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToListMsgCmd.label "Reply to List">
-<!ENTITY replyToListMsgCmd.accesskey "L">
+<!ENTITY replyToListMsgCmd.label "Erantzun zerrendara">
+<!ENTITY replyToListMsgCmd.accesskey "Z">
 <!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Aurrera">
 <!ENTITY forwardMsgCmd.accesskey "A">
