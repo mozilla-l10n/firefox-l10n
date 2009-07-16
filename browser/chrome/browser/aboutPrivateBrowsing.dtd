@@ -12,7 +12,7 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner "nettoyer votre historique récent">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Démarrer une session en navigation privée">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Démarrer une session de navigation privée">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "D">
 <!ENTITY privatebrowsingpage.howToStop "Pour arrêter la navigation privée, sélectionner &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; ou fermer &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart "Pour démarrer la navigation privée, vous pouvez aussi sélectionner &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
