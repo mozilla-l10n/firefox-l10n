@@ -27,9 +27,9 @@
 <!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "නව ලිපි ලබාගන්න">
 <!ENTITY getNewMsgForCmd.accesskey "w">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "සියළු ගිණුම් සඳහා වූ">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "සියළු ගිණුම් සඳහා">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "මෙම ගිණුම සඳහා වූ">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "මෙම ගිණුම සඳහා">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd.label "ඊළඟ නව ලිපි 500 ලබාගන්න">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -58,7 +58,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "තෝරාගත් ලිපි ලබාගන්න">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Get Starred Messages">
+<!ENTITY downloadStarredCmd.label "තරුයෙදු ලිපි ලබාගන්න">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.accesskey "P">
@@ -92,7 +92,7 @@
 <!ENTITY selectThreadCmd.label "සබැඳි ලිපි (Thread)">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Starred Messages">
+<!ENTITY selectFlaggedCmd.label "තරුයෙදු ලිපි">
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "ප්‍රියතම ෆෝල්ඩරය">
 <!ENTITY menuFavoriteFolder.accesskey "a">
@@ -100,16 +100,16 @@
 <!ENTITY folderPropsFolderCmd.label "ෆෝල්ඩරයේ ලක්ෂණ...">
 <!ENTITY folderPropsNewsgroupCmd.label "පුවත්සමූහ ලක්ෂණ...">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "ගිණුමේ සැකසුම්...">
+<!ENTITY accountManagerCmd.label "ගිණුම් සැකසුම්...">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "A">
-<!ENTITY undoDeleteMsgCmd.label "ලිපි මැකීම අහෝසි.">
+<!ENTITY undoDeleteMsgCmd.label "ලිපි මැකීම අහෝසි කරන්න">
 <!ENTITY redoDeleteMsgCmd.label "ලිපි මැකීම යළි කරන්න">
-<!ENTITY undoMoveMsgCmd.label "ලිපි ගෙනයාම අහෝසි ක.">
+<!ENTITY undoMoveMsgCmd.label "ලිපි ගෙනයාම අහෝසි කරන්">
 <!ENTITY redoMoveMsgCmd.label "ලිපි ගෙනයාම යළි කරන්න">
-<!ENTITY undoCopyMsgCmd.label "ලිපි කොපි කිරීම අහෝසි.">
+<!ENTITY undoCopyMsgCmd.label "ලිපි කොපි කිරීම අහෝසි කරන්න">
 <!ENTITY redoCopyMsgCmd.label "ලිපි කොපි කිරීම යළි කරන්න">
-<!ENTITY undoMarkAllCmd.label "කියවූ සේ ලකුණු කිරීම අහෝසි.">
+<!ENTITY undoMarkAllCmd.label "කියවූ සේ ලකුණු කිරීම අහෝසි කරන්න">
 <!ENTITY redoMarkAllCmd.label "කියවූ සේ ලකුණු කිරීම යළි කරන්න">
 <!ENTITY undoDefaultCmd.label "අහෝසි.">
 <!ENTITY undoDefaultCmd.accesskey "U">
@@ -148,9 +148,9 @@
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "දිනය">
 <!ENTITY sortByDateCmd.accesskey "e">
-<!ENTITY sortByReceivedCmd.label "ලැබීම">
+<!ENTITY sortByReceivedCmd.label "ලැබුණු දිනය">
 <!ENTITY sortByReceivedCmd.accesskey "v">
-<!ENTITY sortByStarCmd.label "Star">
+<!ENTITY sortByStarCmd.label "තරුලකුණ">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "ඇමුණුම්">
 <!ENTITY sortByAttachmentsCmd.accesskey "A">
@@ -164,7 +164,7 @@
 <!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "නිසරු">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
-<!ENTITY sortBySubjectCmd.label "ලිපියේ විෂයය">
+<!ENTITY sortBySubjectCmd.label "විෂයය">
 <!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "එවන්නා">
 <!ENTITY sortByFromCmd.accesskey "F">
@@ -182,7 +182,7 @@
 <!ENTITY sortThreaded.accesskey "T">
 <!ENTITY sortUnthreaded.label "අසබැඳිබව">
 <!ENTITY sortUnthreaded.accesskey "h">
-<!ENTITY groupBySort.label "Grouped By Sort">
+<!ENTITY groupBySort.label "කාණ්ඩ ලෙස">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "ලිපි">
 <!ENTITY msgsMenu.accesskey "M">
@@ -248,7 +248,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Reset">
+<!ENTITY fullZoomResetCmd.label         "සාමාන්‍ය ආකාරයට">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
@@ -294,7 +294,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.label "නොකියවූ ලිපියට">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Starred Message">
+<!ENTITY nextStarredMsgCmd.label "තරුයෙදූ ලිපියට">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "නොකියවූ සබැඳි ලිපියට">
 <!ENTITY nextUnreadThread.accesskey "T">
@@ -313,7 +313,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "පසුපසට">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Starred Message">
+<!ENTITY prevStarredMsgCmd.label "තරුයෙදූ ලිපියට">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY startPageCmd.label "ආරම්භක පිටුවට">
 <!ENTITY startPageCmd.accesskey "S">
@@ -336,10 +336,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToListMsgCmd.label "ලැයිස්තුවට පිළිතුරු">
 <!ENTITY replyToListMsgCmd.accesskey  "L">
 <!ENTITY replyToListMsgCmd.key  "l">
-<!ENTITY forwardMsgCmd.label "යොමුව">
+<!ENTITY forwardMsgCmd.label "යොමු කරන්න">
 <!ENTITY forwardMsgCmd.accesskey "F">
 <!ENTITY forwardMsgCmd.key  "l">
-<!ENTITY forwardAsMenu.label "යොමුව මෙලෙස">
+<!ENTITY forwardAsMenu.label "මෙලෙස යොමු කරන්න">
 <!ENTITY forwardAsMenu.accesskey "w">
 <!ENTITY forwardAsInline.label "ලිපිය තුළම">
 <!ENTITY forwardAsInline.accesskey "I">
@@ -348,11 +348,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.label "නව ලිපියක් සේ සකසන්න">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "පෙරහනක් සාදන්න...">
+<!ENTITY createFilter.label "ලිපියෙන් පෙරහනක් සාදන්න...">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "ගෙන යන්න">
 <!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveCopyMsgRecentMenu.label "මෑතකිලීන">
+<!ENTITY moveCopyMsgRecentMenu.label "මෑතකාලීන">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "ලිපි ස්ථානය පිටපත් කරන්න">
 <!ENTITY copyMessageLocation.accesskey "M">
@@ -374,7 +374,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileHereMenu.accesskey "F">
 <!ENTITY copyHereMenu.label "මෙතනට පිටපත් කරන්න">
 <!ENTITY copyHereMenu.accesskey "C">
-<!ENTITY tagMenu.label "ටැග්">
+<!ENTITY tagMenu.label "ටැග් කරන්න">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -391,22 +391,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "කියවූ ලෙස">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markThreadAsReadCmd.label "Thread As Read">
+<!ENTITY markThreadAsReadCmd.label "සබැඳියම කියවූ ලෙස">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "කියවූ දිනය අනුව...">
+<!ENTITY markReadByDateCmd.label "දිනය අනුව කියවූ ලෙස...">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "සියල්ල කියවූ ලෙස">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Add Star">
+<!ENTITY markStarredCmd.label "තරුවක් යොදන්න">
 <!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "නිසරු සේ">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "නිසරු ‍නොවන">
+<!ENTITY markAsNotJunkCmd.label "නිසරු ‍නොවන සේ">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "නිසරු ලිපි පාලක ක්‍රියා ක.">
@@ -444,9 +444,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteJunk.accesskey "l">
 <!ENTITY errorConsoleCmd.label "දෝෂ කොන්සෝලය">
 <!ENTITY errorConsoleCmd.accesskey "n">
-<!ENTITY filtersCmd.label "ලිපි පෙරණ...">
+<!ENTITY filtersCmd.label "ලිපි පෙරහන්...">
 <!ENTITY filtersCmd.accesskey "F">
-<!ENTITY filtersApply.label "ෆෝල්ඩරය මත පෙරහන ක්‍රියා ක.">
+<!ENTITY filtersApply.label "ෆෝල්ඩරය මත පෙරහන් ක්‍රියා ක.">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "තේරූ ලිපි මත පෙරහන් ක්‍රියා ක.">
 <!ENTITY filtersApplyToSelection.accesskey "S">
@@ -503,7 +503,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.tooltip "ලිපිය මුද්‍රණය කිරීමට">
 <!ENTITY stopButton.tooltip "ලිපි යැවීම/ලබාගැනීම නතර කිරීමට">
 <!ENTITY junkButton.tooltip "තෝරාගත් ලිපි නිසරු සේ සළකුණු කිරීමට">
-<!ENTITY notJunkButton.tooltip "තෝරාගත් ලිපි නසරු ‍නොවන සේ සළකුණු කිරීමට">
+<!ENTITY notJunkButton.tooltip "තෝරාගත් ලිපි නිසරු ‍නොවන සේ සළකුණු කිරීමට">
 <!ENTITY addressBookButton.tooltip "ලිපින පොතට යොමුවීමට">
 <!ENTITY tagButton.tooltip "ටැග් ලිපි">
 <!ENTITY compactButton.tooltip "තෝරාගත් ෆෝල්ඩරයෙන් මැකූ ලිපි ඉවත් කිරීමට">
@@ -609,7 +609,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY totalColumn.label "එකතුව">
 <!ENTITY readColumn.label "කියවූ">
 <!ENTITY receivedColumn.label "ලැබුණු">
-<!ENTITY starredColumn.label "Starred">
+<!ENTITY starredColumn.label "තරුයෙදූ">
 <!ENTITY locationColumn.label "ස්ථානය">
 <!ENTITY idColumn.label "ලැබුණු අනුපිළිවෙළ">
 <!ENTITY attachmentColumn.label "ඇමුණුම්">
@@ -640,7 +640,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY totalColumn.tooltip "සබැඳිලිපි තුළ ඇති මුළු ලිපි ගණන">
 <!ENTITY readColumn.tooltip "කියවීම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY receivedColumn.tooltip "ලැබුණු දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY starredColumn.tooltip "තරුලකුණ අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY locationColumn.tooltip "ස්ථානය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY attachmentColumn.tooltip "Cඇමුණුම් පිළිවෙළ කිරීමට ක්ලික් කරන්න">
