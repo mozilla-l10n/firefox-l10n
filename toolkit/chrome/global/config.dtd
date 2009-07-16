@@ -77,5 +77,5 @@
 <!ENTITY string.accesskey "C">
 <!ENTITY integer.label "Số nguyên">
 <!ENTITY integer.accesskey "S">
-<!ENTITY boolean.label "Luận lý">
+<!ENTITY boolean.label "Luận lí">
 <!ENTITY boolean.accesskey "L">

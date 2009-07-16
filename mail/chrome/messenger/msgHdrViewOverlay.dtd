@@ -71,9 +71,6 @@
 <!ENTITY viewSourceMenuItem.label "xem mã nguồn…">
 <!ENTITY viewSourceMenuItem.accesskey "x">
 
-<!ENTITY hideDetailsButton.label "ẩn chi tiết">
-<!ENTITY showDetailsButton.label "hiện chi tiết">
-
 <!ENTITY openAttachmentCmd.label    "Mở">
 <!ENTITY openAttachmentCmd.accesskey    "M">
 <!ENTITY saveAsAttachmentCmd.label    "Lưu Thành…">

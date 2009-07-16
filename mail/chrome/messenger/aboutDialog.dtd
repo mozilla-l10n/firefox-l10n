@@ -1,10 +1,17 @@
 <!ENTITY aboutDialog.title      "Thông tin về &brandFullName;">
 <!ENTITY credits.label          "Công trạng">
 <!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label        "&lt; Thông tin về &brandFullName;">
-<!ENTITY aboutLink.accesskey    "v">
+<!ENTITY aboutButton.label      "&lt; Lùi">
+<!ENTITY aboutButton.accesskey  "L">
 <!ENTITY aboutVersion           "phiên bản">
 <!ENTITY copyrightText          "&#169;1998-2009 Những người đóng góp. Mọi Quyền Được Bảo Lưu. Mozilla Thunderbird và 
                                  biểu trưng Thunderbird là thương hiệu của Quỹ Mozilla.  Mọi quyền 
                                  được bảo lưu.">
+<!ENTITY aboutMenu.label        "Giới thiệu">
+<!ENTITY aboutMenu.accesskey    "G">
+<!ENTITY aboutRights.label      "Quyền của Bạn">
+<!ENTITY aboutRights.accesskey  "Q">
+<!ENTITY aboutContributors.label "Người Đóng Góp">
+<!ENTITY aboutContributors.accesskey "N">
+
 <!ENTITY cmdCloseMac.commandKey "w">

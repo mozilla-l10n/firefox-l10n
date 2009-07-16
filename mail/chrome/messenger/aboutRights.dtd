@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Về Quyền Của Bạn">
+<!ENTITY rights.title            "Về Quyền Của Bạn">
+<!ENTITY rights.intro-header     "Về Quyền Của Bạn">
 <!ENTITY rights.intro "&brandFullName; là phần mềm tự do mã nguồn mở, được xây dựng bởi một cộng đồng gồm hàng nghìn người trên khắp thế giới. Có vài điều mà bạn nên biết:">
 
 <!-- Note on pointa / pointb / pointc form:
