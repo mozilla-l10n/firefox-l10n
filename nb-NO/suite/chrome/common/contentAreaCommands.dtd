@@ -49,11 +49,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setWallpaperCmd.label        "Sett som skrivebordsbakgrunn">
 <!ENTITY setWallpaperCmd.accesskey    "S">
-<!ENTITY bookmarkPageCmd.label        "Legg til bokmerke">
-<!ENTITY bookmarkPageCmd.accesskey    "b">
-<!ENTITY bookmarkLinkCmd.label        "Legg lenke i bokmerker">
-<!ENTITY bookmarkLinkCmd.accesskey    "L">
-<!ENTITY bookmarkFrameCmd.label       "Legg rammen i bokmerker">
+<!ENTITY bookmarkPageCmd.label        "Bokmerk">
+<!ENTITY bookmarkPageCmd.accesskey    "B">
+<!ENTITY bookmarkLinkCmd.label        "Bokmerk lenke">
+<!ENTITY bookmarkLinkCmd.accesskey    "B">
+<!ENTITY bookmarkFrameCmd.label       "Bokmerk ramme">
 <!ENTITY bookmarkFrameCmd.accesskey   "R">
 <!ENTITY savePageAsCmd.label          "Lagre siden som …">
 <!ENTITY savePageCmd.label            "Lagre siden">
