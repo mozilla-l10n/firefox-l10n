@@ -41,7 +41,7 @@
 <!ENTITY organizationField2.label "සංවිධානය: ">
 <!ENTITY replyToField2.label "පිළිතුරු මෙයට: ">
 
-<!ENTITY subjectField2.label "විෂ්‍ය්‍ය: ">
+<!ENTITY subjectField2.label "විෂයය: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "පිටපත්: ">
 <!ENTITY bccField2.label "රහස්‍ය පිටපත්: ">

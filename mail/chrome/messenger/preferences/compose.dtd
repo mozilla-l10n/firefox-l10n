@@ -49,7 +49,7 @@
 <!ENTITY editDirectories.accesskey             "E">
 
 <!ENTITY sendOptionsDescription.label          "පාඨ හැඩතල හැසිරීම් වින්‍යාස කිරීම">
-<!ENTITY sendOptions.label                     "යැවීම් වරණ...">
+<!ENTITY sendOptions.label                     "යැවීම් විකල්ප...">
 <!ENTITY sendOptions.accesskey                 "S">
 
 <!ENTITY attachmentReminder.label              "Check for missing attachments">
