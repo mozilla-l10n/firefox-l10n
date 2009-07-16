@@ -510,7 +510,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.tooltip "Stopp denne overføringen">
 <!ENTITY junkButton.tooltip "Merk de valgte meldingene som uønskede">
 <!ENTITY notJunkButton.tooltip "Merk valgt melding som ønskede">
-<!ENTITY addressBookButton.tooltip "Gå til adresseboken">
+<!ENTITY addressBookButton.tooltip "Åpne adresseboken">
 <!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern slettede meldinger fra valgt mappe">
 
