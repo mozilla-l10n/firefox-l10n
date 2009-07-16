@@ -39,11 +39,11 @@
 
 <!ENTITY mailListWindow.title "Posta-zerrenda">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "Gehitu hona:  ">
+<!ENTITY addToAddressBook.label "Gehitu hona: ">
 
-<!ENTITY ListName.label "Zerrendaren izena:  ">
-<!ENTITY ListNickName.label "Zerrendaren ezizena:  ">
-<!ENTITY ListDescription.label "Deskribapena:  ">
+<!ENTITY ListName.label "Zerrendaren izena: ">
+<!ENTITY ListNickName.label "Zerrendaren ezizena: ">
+<!ENTITY ListDescription.label "Deskribapena: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Idatzi eposta helbideak posta zerrendara gehitzeko:">
 <!ENTITY UpButton.label "Eraman gorantz">

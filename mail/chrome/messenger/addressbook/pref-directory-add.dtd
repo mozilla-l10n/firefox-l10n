@@ -51,11 +51,11 @@
 <!ENTITY General.tab "Orokorra">
 <!ENTITY Offline.tab "Lineaz kanpo">
 <!ENTITY Advanced.tab "Aurreratua">
-<!ENTITY portNumber.label "Ataka-zenbakia:  ">
+<!ENTITY portNumber.label "Ataka-zenbakia: ">
 <!ENTITY portNumber.accesskey "a">
-<!ENTITY searchFilter.label "Bilaketa-iragazkia:  ">
+<!ENTITY searchFilter.label "Bilaketa-iragazkia: ">
 <!ENTITY searchFilter.accesskey "g">
-<!ENTITY scope.label "Esparrua:  ">
+<!ENTITY scope.label "Esparrua: ">
 <!ENTITY scope.accesskey "s">
 <!ENTITY scopeOneLevel.label "Maila bat">
 <!ENTITY scopeOneLevel.accesskey "M">

@@ -39,7 +39,7 @@
 <!ENTITY fromField2.label "nork ">
 <!ENTITY senderField2.label "bidaltzailea ">
 <!ENTITY organizationField2.label "erakundea ">
-<!ENTITY replyToField2.label "erantzun-honi">
+<!ENTITY replyToField2.label "erantzun-honi ">
 
 <!ENTITY subjectField2.label "gaia ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
