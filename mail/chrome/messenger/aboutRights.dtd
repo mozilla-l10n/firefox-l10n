@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle "about:rights">
-<!ENTITY rights.intro-header "Aangaande u regte">
+<!ENTITY rights.title "About Your Rights">
+<!ENTITY rights.intro-header "About Your Rights">
 <!ENTITY rights.intro "&brandFullName; is vrye, oop sagteware wat deur 'n gemeenskap van derduisende mense van reg oor die wêreld gebou is. Hier is 'n paar dinge wat u moet weet:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -62,5 +62,5 @@
 <!ENTITY rights.webservices-term2 "U kan hierdie dienste met die meegaande weergawe van &brandShortName; gebruik -- u het alle reg om dit te doen.  &vendorShortName; en sy lisensiegewers behou hulle alle ander regte in die dienste voor.  Hierdie bepalings is nie ten doel om enige regte in te perk wat ingevolge die oopbronlisensies wat op &brandShortName; en die ooreenstemmende bronkode-weergawes van &brandShortName; van toepassing is nie.">
 <!ENTITY rights.webservices-term3 "Die Dienste word voetstoots verskaf. &vendorShortName;, sy bydraers, lisensieerders en verspreiders ontken alle waarborge, hetsy uitdruklik of geïmpliseer, met inbegrip van, sonder beperking, waarborge dat die Dienste verhandelbaar is en geskik is vir u besondere doeleindes. U dra die volle risiko wat betref die keuse van die Dienste vir u doeleindes en die gehalte en prestasie van die Dienste. Sommige owerhede verbied die uitsluiting of beperking van geïmpliseerde waarborge.  Hierdie ontkenning is dus moontlik nie op u van toepassing nie.">
 <!ENTITY rights.webservices-term4 "Tensy die reg dit vereis is &vendorShortName; sy bydraers, lisensieerders en verspreiders nie aanspreeklik vir enige indirekte, spesiale, toevallige,  gevolg- of bestraffende skadevergoeding wat spruit uit, of op enige manier te doen het met, die gebruik van &brandShortName; en die Dienste nie. Die gesamentlike aanspreeklikheid van hierdie bepalings sal nie $500 (vyfhonderd dollars) oorskry nie. Sommige owerhede verbied die uitsluiting of beperking van sekere skadevergoeding. Hierdie uitsluiting is dus moontlik nie op u van toepassing nie.">
-<!ENTITY rights.webservices-term5 "&vendorShortName; kan hierdie bepalings van tyd tot tyd bywerk indien nodig. Hierdie bepalings mag nie gewysig of gekanselleer word sonder &vendorShortName; se skriftelike toestemming nie.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or canceled without &vendorShortName;'s written agreement.">
 <!ENTITY rights.webservices-term6 "Hierdie bepalings word beheer deur die reg van die Staat van Kalifornië, V.S.A., met die uitsluiting van die bepalings in verband met internasionale privaatreg. As beslis word dat enige deel van hierdie bepalings ongeldig of onafdwingbaar is, bly die oorblywende dele ten volle van krag. In die geval waar die vertaalde weergawe in stryd is met die Engelse weergawe van hierdie bepalings, sal die Engelse bepalings geld.">

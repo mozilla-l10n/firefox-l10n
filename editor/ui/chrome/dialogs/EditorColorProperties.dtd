@@ -39,10 +39,10 @@
 <!ENTITY windowTitle.label "Bladsykleure en -agtergrond">
 <!ENTITY pageColors.label "Bladsykleure">
 <!ENTITY defaultColorsRadio.label "Leser se verstek-kleure (moenie kleure in die bladsy opstel nie)">
-<!ENTITY defaultColorsRadio.accessKey "M">
+<!ENTITY defaultColorsRadio.accessKey "m">
 <!ENTITY defaultColorsRadio.tooltip "Gebruik slegs die kleuropstelling uit die leser se blaaier">
 <!ENTITY customColorsRadio.label "Gebruik pasgemaakte kleure:">
-<!ENTITY customColorsRadio.accessKey "P">
+<!ENTITY customColorsRadio.accessKey "p">
 <!ENTITY customColorsRadio.tooltip "Hierdie kleuropstelling oorheers die leser se blaaieropstelling">
 
 <!ENTITY normalText.label "Gewone teks">
@@ -50,9 +50,9 @@
 <!ENTITY linkText.label "Skakelteks">
 <!ENTITY linkText.accessKey "S">
 <!ENTITY activeLinkText.label "Teks van aktiewe skakels">
-<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY activeLinkText.accessKey "a">
 <!ENTITY visitedLinkText.label "Teks van besoekte skakels">
-<!ENTITY visitedLinkText.accessKey "B">
+<!ENTITY visitedLinkText.accessKey "b">
 <!ENTITY background.label "Agtergrond:">
 <!ENTITY background.accessKey "A">
 <!ENTITY colon.character ":">

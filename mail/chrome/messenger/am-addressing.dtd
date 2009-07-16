@@ -10,7 +10,7 @@
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Gebruik 'n ander LDAP-bediener:">
-<!ENTITY directories.accesskey "d">
+<!ENTITY directories.accesskey "D">
 <!ENTITY directoriesNone.label "Geen">
 <!-- am-addressing.xul -->
 
@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey "s">
 <!ENTITY belowText.label "onder die aanhaling (aanbeveel)">
 <!ENTITY aboveText.label "begin my antwoord (bokant aanhaalde)">
+<!ENTITY includeSigOnReply.label "Include signature for replies">
+<!ENTITY includeSigOnReply.accesskey "s">
+<!ENTITY includeSigOnForward.label "Include signature for forwards">
+<!ENTITY includeSigOnForward.accesskey "w">

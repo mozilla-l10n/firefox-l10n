@@ -3,7 +3,7 @@
 <!ENTITY serverDirectory.label "IMAP-bedienergids:">
 <!ENTITY serverDirectory.accesskey "g">
 <!ENTITY usingSubscription.label "Wys net vouers waarop ingeteken">
-<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY usingSubscription.accesskey "W">
 <!ENTITY dualUseFolders.label "Bediener werk met vouers wat subgidse en -boodskappe bevat">
 <!ENTITY dualUseFolders.accesskey "v">
 <!ENTITY useIdle.label "Gebruik IDLE-bevel indien die bedier daarmee wer">
@@ -24,8 +24,8 @@
 <!ENTITY globalInbox.label "Globale inkassie (rekening vir plaaslike vouers)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Inkassie vir hierdie bediener se rekening">
-<!ENTITY accountDirectory.accesskey "I">
+<!ENTITY accountDirectory.accesskey "i">
 <!ENTITY deferToServer.label "Inkassie vir 'n ander rekening">
-<!ENTITY deferToServer.accesskey "A">
+<!ENTITY deferToServer.accesskey "a">
 <!ENTITY deferGetNewMail.label "Sluit hierdie bediener in wanneer u nuwe pos kry">
 <!ENTITY deferGetNewMail.accesskey "S">

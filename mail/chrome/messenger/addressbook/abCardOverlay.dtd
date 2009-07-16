@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY Contact.tab "Kontak">
-<!ENTITY Contact.accesskey "K">
+<!ENTITY Contact.accesskey "C">
 <!ENTITY Name.box "Naam">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -79,13 +79,13 @@
 <!ENTITY ScreenName.label "Skermnaam:">
 <!ENTITY ScreenName.accesskey "S">
 
-<!ENTITY allowRemoteContent.label "Allow remote images.">
-<!ENTITY allowRemoteContent.accesskey "r">
-<!ENTITY allowRemoteContent.tooltip "In HTML messages it is possible to
-embed images from remote sources. Opening such a message will open a
+<!ENTITY allowRemoteContent1.label "Allow remote content.">
+<!ENTITY allowRemoteContent1.accesskey "r">
+<!ENTITY allowRemoteContent1.tooltip "In HTML messages it is possible to
+embed content from remote sources. Opening such a message will open a
 connection to this external source. This may allow tracking of the
 message being read. Checking this box will allow such external embedded
-images in HTML messages from this contact.">
+content in HTML messages from this contact.">
 
 <!ENTITY WorkPhone.label "Work:">
 <!ENTITY WorkPhone.accesskey "k">
@@ -99,7 +99,7 @@ images in HTML messages from this contact.">
 <!ENTITY CellularNumber.accesskey "S">
 
 <!ENTITY Home.tab "Private">
-<!ENTITY Home.accesskey "w">
+<!ENTITY Home.accesskey "P">
 <!ENTITY HomeAddress.label "Address:">
 <!ENTITY HomeAddress.accesskey "A">
 <!ENTITY HomeAddress2.label "">
@@ -146,7 +146,7 @@ images in HTML messages from this contact.">
 <!ENTITY WorkWebPage.accesskey "e">
 
 <!ENTITY Other.tab "Ander">
-<!ENTITY Other.accesskey "l">
+<!ENTITY Other.accesskey "h">
 <!ENTITY Custom1.label "Doelmaak 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Doelmaak 2:">

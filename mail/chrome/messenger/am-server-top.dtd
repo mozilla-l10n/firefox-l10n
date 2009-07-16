@@ -6,7 +6,7 @@
 <!ENTITY serverName.label "Bedienernaam:">
 <!ENTITY serverName.accesskey "B">
 <!ENTITY userName.label "Gebruikername:">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "n">
 <!ENTITY port.label "Poort:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Verstek:">
@@ -28,8 +28,8 @@
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "Laat boodskappe op bediener agter">
 <!ENTITY leaveOnServer.accesskey "a">
-<!ENTITY headersOnly.label "Haal net kopskrifte">
-<!ENTITY headersOnly.accesskey "h">
+<!ENTITY headersOnly.label "Fetch headers only">
+<!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "Vir die meeste">
 <!ENTITY deleteByAgeFromServer.accesskey "i">
 <!ENTITY daysEnd.label "dae">

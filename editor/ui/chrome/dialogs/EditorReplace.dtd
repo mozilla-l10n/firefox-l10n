@@ -56,5 +56,5 @@
 <!ENTITY replaceAndFindButton.label "Vervang en vind">
 <!ENTITY replaceAndFindButton.accesskey "n">
 <!ENTITY replaceAllButton.label "Vervang alles">
-<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "Sluit">

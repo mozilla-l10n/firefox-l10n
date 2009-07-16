@@ -37,6 +37,6 @@
 
 <!ENTITY windowTitle.label "Genoemdeanker-eienskappe">
 <!ENTITY anchorNameEditField.label "Ankernaam:">
-<!ENTITY anchorNameEditField.accessKey "N">
+<!ENTITY anchorNameEditField.accessKey "n">
 <!ENTITY nameInput.tooltip "Tik 'n unieke naam vir hierdie genoemde anker in (teiken)">
 

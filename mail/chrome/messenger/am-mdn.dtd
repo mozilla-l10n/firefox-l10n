@@ -7,7 +7,7 @@
 <!ENTITY requestReceipt.accesskey "W">
 <!ENTITY receiptArrive.label "Wanneer 'n strokie aankom:">
 <!ENTITY leaveIt.label "Los dit in my inmandjie">
-<!ENTITY leaveIt.accesskey "I">
+<!ENTITY leaveIt.accesskey "i">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label "Verskuif dit na my &quot;Gestuur&quot;-vouer">
 <!ENTITY moveToSent.accesskey "V">

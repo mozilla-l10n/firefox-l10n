@@ -1,7 +1,7 @@
 <!ENTITY accountTitle.label "Rekeningopstelling">
 <!ENTITY accountSettingsDesc.label "Die volgende is 'n spesiale rekening.  Daar word geen identiteit mee geassosieer nie.">
 <!ENTITY accountName.label "Gebruikernaam:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "n">
 <!ENTITY messageStorage.label "Boodskapbewaring">
 <!ENTITY emptyTrashOnExit.label "Maak snippermandjie leeg tydens afsluiting">
 <!ENTITY emptyTrashOnExit.accesskey "a">
