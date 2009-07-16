@@ -3,13 +3,13 @@
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Bare en utgående SMTP-tjener trengs å være angitt, selv om du har flere e-postkontoer. Skriv inn navnet på tjeneren du vil bruke for utgående meldinger.">
 
-<!ENTITY smtpListAdd.label  "Legg til ...">
+<!ENTITY smtpListAdd.label  "Legg til …">
 <!ENTITY smtpListAdd.accesskey  "L">
-<!ENTITY smtpListEdit.label "Rediger ...">
+<!ENTITY smtpListEdit.label "Rediger …">
 <!ENTITY smtpListEdit.accesskey "R">
 <!ENTITY smtpListDelete.label "Slett">
 <!ENTITY smtpListDelete.accesskey "e">
-<!ENTITY smtpListSetDefault.label "Sett som forvalg">
+<!ENTITY smtpListSetDefault.label "Sett som standard">
 <!ENTITY smtpListSetDefault.accesskey "S">
 
 <!ENTITY serverDescription.label "Beskrivelse: ">

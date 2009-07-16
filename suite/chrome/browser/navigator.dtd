@@ -33,7 +33,7 @@
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Forhåndsvis side">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Skriv ut ...">
+<!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
 
@@ -82,7 +82,7 @@
 <!ENTITY applyTheme.accesskey	"r"> 
 <!ENTITY getNewThemesCmd.label "Hent flere temaer">
 <!ENTITY getNewThemesCmd.accesskey "H">
-<!ENTITY findOnCmd.label "Søk etter tekst ...">
+<!ENTITY findOnCmd.label "Søk etter tekst …">
 <!ENTITY findOnCmd.accesskey "S">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Søk etter neste">
@@ -110,12 +110,12 @@
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY addCurPageCmd.label "Legg inn siden">
 <!ENTITY addCurPageCmd.accesskey "L">
-<!ENTITY addCurPageAsCmd.label "Arkiver ...">
+<!ENTITY addCurPageAsCmd.label "Arkiver …">
 <!ENTITY addCurPageAsCmd.accesskey "A">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Arkiver fanegruppe ...">
+<!ENTITY addCurTabsAsCmd.label "Arkiver fanegruppe …">
 <!ENTITY addCurTabsAsCmd.accesskey "f">
-<!ENTITY manBookmarksCmd.label "Behandle ...">
+<!ENTITY manBookmarksCmd.label "Behandle …">
 <!ENTITY manBookmarksCmd.accesskey "B">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Abonner på denne siden">
@@ -129,8 +129,8 @@
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Tilbake">
 <!ENTITY backButton.tooltip           "Gå tilbake en side">
-<!ENTITY forwardButton.label          "Fremover">
-<!ENTITY forwardButton.tooltip        "Gå fremover en side">
+<!ENTITY forwardButton.label          "Frem">
+<!ENTITY forwardButton.tooltip        "Gå frem en side">
 <!ENTITY reloadButton.label           "Oppdater">
 <!ENTITY reloadButton.tooltip         "Oppdater denne siden">
 <!ENTITY stopButton.label             "Stopp">
