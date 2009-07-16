@@ -36,5 +36,5 @@
 <!ENTITY caption.label "Legg ved nettside">
 <!ENTITY enter.label "Skriv inn nettadresse (URL), eller angi lokal fil som du vil legge ved:">
 <!ENTITY enter.accesskey "S">
-<!ENTITY chooseFile.label "Velg fil ...">
+<!ENTITY chooseFile.label "Velg fil …">
 <!ENTITY chooseFile.accesskey "V">

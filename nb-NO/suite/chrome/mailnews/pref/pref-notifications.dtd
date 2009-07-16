@@ -52,6 +52,6 @@
 <!ENTITY systemsound.accesskey            "M">
 <!ENTITY customsound.label                "Egen WAV-fil">
 <!ENTITY customsound.accesskey            "W">
-<!ENTITY browse.label                     "Bla gjennom ...">
+<!ENTITY browse.label                     "Bla gjennom …">
 <!ENTITY browse.accesskey                 "B">
 <!ENTITY browse.title                     "Velg fil">

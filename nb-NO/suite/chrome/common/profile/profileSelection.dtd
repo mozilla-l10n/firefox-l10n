@@ -41,7 +41,7 @@
 <!ENTITY            windowTitle.label    "Velg brukerprofil">
 <!ENTITY            profileManager.title "&brandShortName; profilbehandling">
 
-<!ENTITY            manage.label     "Behandle profiler ...">
+<!ENTITY            manage.label     "Behandle profiler …">
 <!ENTITY            manage.accesskey "B">
 <!ENTITY            select.label     "Bruk profil">
 

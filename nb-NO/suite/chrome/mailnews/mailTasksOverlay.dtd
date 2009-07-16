@@ -11,9 +11,9 @@
 <!ENTITY taskAddressBook.tooltip  "Adressebok">
 
 <!-- searchAddressesCmd is also used by addressbook -->
-<!ENTITY searchAddressesCmd.label                       "Søk i adresser ...">
+<!ENTITY searchAddressesCmd.label                       "Søk i adresser …">
 <!ENTITY searchAddressesCmd.accesskey                   "a">
 
-<!ENTITY searchMailCmd.label "Søk i meldinger ...">
+<!ENTITY searchMailCmd.label "Søk i meldinger …">
 <!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "f">

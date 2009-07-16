@@ -17,7 +17,7 @@
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY goBackCmd.label              "Tilbake">
 <!ENTITY goBackCmd.accesskey          "T">
-<!ENTITY goForwardCmd.label           "Fremover">
+<!ENTITY goForwardCmd.label           "Frem">
 <!ENTITY goForwardCmd.accesskey       "F">
 <!ENTITY goUpCmd.label                "Opp">
 <!ENTITY goUpCmd.accesskey            "O">

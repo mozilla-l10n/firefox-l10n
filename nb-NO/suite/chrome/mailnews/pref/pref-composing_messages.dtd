@@ -65,7 +65,7 @@
 <!ENTITY spellCheckInline.accesskey           "a">
 <!ENTITY languagePopup.label                  "Språk:">
 <!ENTITY languagePopup.accessKey              "S">
-<!ENTITY moreDictionaries.label               "Last ned flere stavekontrollordbøker ...">
+<!ENTITY moreDictionaries.label               "Last ned flere stavekontrollordbøker …">
 
 <!ENTITY defaultMessagesHeader.label          "Forvalg for HTML-meldinger">
 <!ENTITY font.label                           "Skrifttype:">
