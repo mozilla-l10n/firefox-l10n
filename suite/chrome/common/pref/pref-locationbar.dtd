@@ -8,9 +8,9 @@
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Vis en liste med resultater">
 <!ENTITY autoCompleteShowPopup.accesskey       "V">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Bare sammenlign med nettsider du har manuelt skrevet inn før">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Bare fullfør med nettsider du har manuelt skrevet inn før">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "B">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Bare sammenlign med adresser, ikke nettsidetitler">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Bare fullfør med adresser, ikke nettsidetitler">
 <!ENTITY autoCompleteMatchOnlyURLs.accesskey   "a">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
@@ -18,8 +18,8 @@
 -->
 <!ENTITY autoCompleteMatch.label               "Sammenlign med">
 <!ENTITY autoCompleteMatch.accesskey           "S">
-<!ENTITY autoCompleteMatchAnywhere             "Hvor som helst i adressen eller tittelen">
-<!ENTITY autoCompleteMatchWordsFirst           "Hvor som helst, men foretrekk starten/slutten av ord">
+<!ENTITY autoCompleteMatchAnywhere             "Alt i adressen eller tittelen">
+<!ENTITY autoCompleteMatchWordsFirst           "Alt, men foretrekk starten/slutten av ord">
 <!ENTITY autoCompleteMatchWords                "Bare på starten/slutten av ord">
 <!ENTITY autoCompleteMatchStart                "Bare på starten av adressene eller titlene">
 
@@ -28,7 +28,7 @@
 <!ENTITY showSearchEngine.accesskey            "a">
 
 <!ENTITY unknownLocations.label                "Ukjente adresser">
-<!ENTITY domainGuessing.label                  "Legg til «www.» og «.com» til i adressen dersom en nettside ikke er funnet">
+<!ENTITY domainGuessing.label                  "Legg til «www.» og «.com» i adressen dersom en nettside ikke er funnet">
 <!ENTITY domainGuessing.accesskey              "L">
 <!ENTITY keywords.label                        "Utfør et nettsidesøk dersom innskrevet tekst ikke er en nettsideadresse">
 <!ENTITY keywords.accesskey                    "U">
