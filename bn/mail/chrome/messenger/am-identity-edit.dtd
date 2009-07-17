@@ -2,5 +2,5 @@
 <!ENTITY identityListDesc.label "এই পরিচয়ের জন্য সেটিং কনফিগার করা হবে:">
 
 <!ENTITY settingsTab.label "সেটিং">
-<!ENTITY copiesFoldersTab.label "অনুলিপি &amp; ফোল্ডার">
-<!ENTITY addressingTab.label "কম্পোজিশন &amp; সম্বোধন">
+<!ENTITY copiesFoldersTab.label "অনুলিপি ও ফোল্ডার">
+<!ENTITY addressingTab.label "মেইল রচনা ও ঠিকানা নির্ধারণ">

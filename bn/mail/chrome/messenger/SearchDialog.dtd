@@ -1,24 +1,24 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "যেখানে বার্তা খোঁজা হবে (h):">
+<!ENTITY searchHeading.label "বার্তা খোঁজা হবে এখানে (h):">
 <!ENTITY searchHeading.accesskey "h">
-<!ENTITY searchSubfolders.label "সাবফোল্ডার খোঁজা হবে (e)">
+<!ENTITY searchSubfolders.label "সাবফোল্ডারে খোঁজা হবে (e)">
 <!ENTITY searchSubfolders.accesskey "e">
-<!ENTITY resetButton.label "পরিষ্কার করা হবে (C)">
+<!ENTITY resetButton.label "পরিষ্কার (C)">
 <!ENTITY resetButton.accesskey "C">
-<!ENTITY openButton.label "খোলা হবে (n)">
+<!ENTITY openButton.label "খুলুন (n)">
 <!ENTITY openButton.accesskey "n">
-<!ENTITY deleteButton.label "মুছে ফেলা হবে (D)">
+<!ENTITY deleteButton.label "মুছে ফেলুন (D)">
 <!ENTITY deleteButton.accesskey "D">
-<!ENTITY searchDialogTitle.label "বার্তা অনুসন্ধান করা হবে">
+<!ENTITY searchDialogTitle.label "বার্তা অনুসন্ধান">
 <!ENTITY results.label "ফলাফল">
-<!ENTITY fileHereMenu.label "এখানে ফাইল (F)">
+<!ENTITY fileHereMenu.label "এখানে ফাইল করুন(F)">
 <!ENTITY fileHereMenu.accesskey "F">
 <!ENTITY fileButton.label "ফাইল (i)">
 <!ENTITY fileButton.accesskey "i">
 <!ENTITY closeCmd.key "W">
 <!ENTITY goToFolderButton.label "বার্তার ফোল্ডার খোলা হবে (r)">
 <!ENTITY goToFolderButton.accesskey "r">
-<!ENTITY saveAsVFButton.label "অনুসন্ধান ফোল্ডার হিসেবে সংরক্ষণ করা হবে (v)">
+<!ENTITY saveAsVFButton.label "অনুসন্ধান ফোল্ডার হিসেবে সংরক্ষণ (v)">
 <!ENTITY saveAsVFButton.accesskey "v">
 <!-- for ABSearchDialog.xul -->
 
@@ -26,9 +26,9 @@
 <!ENTITY abSearchHeading.accesskey "h">
 <!ENTITY propertiesButton.label "বৈশিষ্ট্য (P)">
 <!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "লেখা হবে (W)">
+<!ENTITY composeButton.label "লিখুন (W)">
 <!ENTITY composeButton.accesskey "W">
-<!ENTITY abSearchDialogTitle.label "উন্নত ঠিকানার বই অনুসন্ধান করা হবে">
+<!ENTITY abSearchDialogTitle.label "উন্নত ঠিকানা বই অনুসন্ধান">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "থ্রেড">
@@ -41,10 +41,10 @@
 <!ENTITY accountColumn.label "একাউন্ট">
 <!ENTITY statusColumn.label "অবস্থা">
 <!ENTITY sizeColumn.label "আকার">
-<!ENTITY junkStatusColumn.label "জাঙ্ক অবস্থা">
+<!ENTITY junkStatusColumn.label "অপ্রয়োজনীয়তার অবস্থা">
 <!ENTITY unreadColumn.label "অপঠিত">
 <!ENTITY totalColumn.label "মোট">
-<!ENTITY readColumn.label "পড়ুন">
+<!ENTITY readColumn.label "পঠিত">
 <!ENTITY receivedColumn.label "গৃহীত">
 <!ENTITY starredColumn.label "তারা চিহ্নিত">
 <!ENTITY locationColumn.label "অবস্থান">
@@ -62,11 +62,11 @@
 <!ENTITY accountColumn.tooltip "একাউন্ট অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY statusColumn.tooltip "অবস্থা অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY sizeColumn.tooltip "আকার অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY junkStatusColumn.tooltip "জাঙ্ক অবস্থা অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY junkStatusColumn.tooltip "অপ্রয়োজনীয়তার অবস্থা অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY unreadColumn.tooltip "থ্রেডের অপঠিত বার্তা সংখ্যা">
 <!ENTITY totalColumn.tooltip "থ্রেডের মোট বার্তা সংখ্যা">
 <!ENTITY readColumn.tooltip "পঠন অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY receivedColumn.tooltip "গৃহীত তারিখ অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY starredColumn.tooltip "তারা অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY locationColumn.tooltip "অবস্থান অনুসারে সাজানোর জন্য ক্লিক করুন">
-<!ENTITY idColumn.tooltip "গ্রহণের ক্রম অনুসারে সাজানোর জন্য ক্লিক করুন">
+<!ENTITY locationColumn.tooltip "অবস্থান অনুসারে সাজাতে জন্য ক্লিক করুন">
+<!ENTITY idColumn.tooltip "গ্রহণের ক্রম অনুসারে সাজাতে জন্য ক্লিক করুন">

@@ -8,7 +8,7 @@
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 
-<!ENTITY credit.translation "<h3>অনুবাদকবৃন্দ</h3><ul><li>সামিয়া নিয়ামতউল্লাহ</li><li>ইসরাত জাহান</li><li>মু: রেজওয়ান শহীদ</li><li>মো: নাছিমুল আমিন</li></ul>">
+<!ENTITY credit.translation "">
 
 <!ENTITY credit.theme "থীম ডিজাইন">
 <!ENTITY credit.qa "গুনগত মান নিশ্চিতকরণ">

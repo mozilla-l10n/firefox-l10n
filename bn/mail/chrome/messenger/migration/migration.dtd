@@ -1,14 +1,14 @@
 
-<!ENTITY migrationWizard.title "উইজার্ড ইমপোর্ট">
+<!ENTITY migrationWizard.title "ইমপোর্ট উইজার্ড">
 
-<!ENTITY importFromWin.label "যে স্থান থেকে অপশন, একাউন্ট সেটিং, ঠিকানার বই, পরিশোধক এবং অন্যান্য ডেটা ইমপোর্ট করা হবে:">
-<!ENTITY importFromNonWin.label "যে স্থান হতে পছন্দসমূহ, একাউন্ট সেটিং, ঠিকানার বই, পরিশোধক, এবং অন্যান্য ডেটা ইমপোর্ট করা হবে:">
+<!ENTITY importFromWin.label "যে স্থান থেকে অপশন, একাউন্ট সেটিং, ঠিকানা বই, পরিশোধক এবং অন্যান্য তথ্য ইমপোর্ট করা হবে:">
+<!ENTITY importFromNonWin.label "যে স্থান থেকে পছন্দসমূহ, একাউন্ট সেটিং, ঠিকানা বই, পরিশোধক, এবং অন্যান্য তথ্য ইমপোর্ট করা হবে:">
 
 <!ENTITY importFromNothing.label "কোনো কিছু ইমপোর্ট করা হবে না (D)">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey2.label "নেটস্কেপ ৬, ৭, মজিলা ১.এক্স বা SeaMonkey (S)">
+<!ENTITY importFromSeamonkey2.label "নেটস্কেপ 6, 7, মজিলা 1.x বা SeaMonkey (S)">
 <!ENTITY importFromSeamonkey2.accesskey "s">
-<!ENTITY importFromNetscape4.label "নেটস্কেপ ৪.এক্স (4)">
+<!ENTITY importFromNetscape4.label "নেটস্কেপ 4.x (4)">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "আউটলুক এক্সপ্রেস (u)">
 <!ENTITY importFromOExpress.accesskey "u">
@@ -18,14 +18,14 @@
 <!ENTITY importFromEudora.accesskey "E">
 
 <!ENTITY importSource.title "সেটিং এবং মেইল ফোল্ডার ইমপোর্ট করা হবে">
-<!ENTITY importItems.title "ইমপোর্টের আইটেম">
-<!ENTITY importItems.label "কোন আইটেম ইমপোর্ট করতে হবে নির্বাচন করা হবে:">
+<!ENTITY importItems.title "ইমপোর্ট আইটেম">
+<!ENTITY importItems.label "কোন আইটেম ইমপোর্ট করতে হবে নির্বাচন করুন:">
 
 <!ENTITY migrating.title "ইমপোর্ট করা হচ্ছে...">
-<!ENTITY migrating.label "নিম্নলিখিত আইটেম বর্তমানে ইমপোর্ট করা হয়েছে...">
+<!ENTITY migrating.label "নিম্নলিখিত আইটেম বর্তমানে ইমপোর্ট করা হচ্ছে...">
 
 <!ENTITY selectProfile.title "প্রোফাইল নির্বাচন করুন">
 <!ENTITY selectProfile.label "নিম্নলিখিত প্রোফাইল যে স্থান থেকে ইমপোর্ট করা যাবে:">
 
 <!ENTITY done.title "ইমপোর্ট শেষ হয়েছে">
-<!ENTITY done.label "নিম্নলিখিত আইটেম সফলভাবে ইমপোর্ট করা হয়েছিল:">
+<!ENTITY done.label "নিম্নলিখিত আইটেম সফলভাবে ইমপোর্ট করা হয়েছে:">

@@ -45,7 +45,7 @@
 
 <!ENTITY viewMenu.label "ভিউ (V)">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY compositionToolbarCmd.label "কম্পোজিশন টুলবার (C)">
+<!ENTITY compositionToolbarCmd.label "মেইল রচনা টুলবার (C)">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "বিন্যাস টুলবার (F)">
 <!ENTITY formattingToolbarCmd.accesskey "F">

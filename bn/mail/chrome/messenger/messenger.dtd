@@ -1,4 +1,4 @@
-<!ENTITY messengerWindow.title "মেইল এবং নিউজগ্রুপ">
+<!ENTITY messengerWindow.title "মেইল ও নিউজগ্রুপ">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
@@ -11,7 +11,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "একাউন্ট… (A)">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY newMailAccountCmd.label "মেইল একাউন্ট (দ্রুত সেটাপ (Q))…">
+<!ENTITY newMailAccountCmd.label "মেইল একাউন্ট (দ্রুত সেটআপ (Q))…">
 <!ENTITY newMailAccountCmd.accesskey "Q">
 <!ENTITY openMessageFileCmd.label "সংরক্ষিত বার্তা খুলুন… (O)">
 <!ENTITY openMessageFileCmd.accesskey "O">
@@ -25,7 +25,7 @@
 <!ENTITY saveAsTemplateCmd.label "ফর্মা (T)">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgCmd.key "t">
-<!ENTITY getNewMsgForCmd.label "এর জন্য নতুন বার্তা সংগ্রহ করা হবে (w)">
+<!ENTITY getNewMsgForCmd.label "নতুন বার্তা সংগ্রহ (w)">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "সব একাউন্ট (A)">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
@@ -37,7 +37,7 @@
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "সাবস্ক্রাইব… (b)">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY deleteFolder.label "ফোল্ডার মুছে দেয়া (e)">
+<!ENTITY deleteFolder.label "ফোল্ডার অপসারণ (e)">
 <!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "ফোল্ডারের নতুন নামকরন… (R)">
 <!ENTITY renameFolder.accesskey "R">
@@ -50,7 +50,7 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "অফলাইনে কাজ করা হবে (W)">
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
-<!ENTITY synchronizeOfflineCmd.label "এখন ডাউনলোড/যুগপৎ করা হবে… (S)">
+<!ENTITY synchronizeOfflineCmd.label "এখন ডাউনলোড/অভিন্নকরণ করা হবে… (S)">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "অফলাইন সেটিং… (e)">
 <!ENTITY settingsOfflineCmd.accesskey "e">
@@ -96,17 +96,17 @@
 <!ENTITY menuFavoriteFolder.accesskey "a">
 <!ENTITY folderPropsCmd.label "বৈশিষ্ট্য… (o)">
 <!ENTITY folderPropsFolderCmd.label "ফোল্ডারের বৈশিষ্ট্য…">
-<!ENTITY folderPropsNewsgroupCmd.label "নিউজগ্রুপ বৈশিষ্ট্য…">
+<!ENTITY folderPropsNewsgroupCmd.label "নিউজগ্রুপের বৈশিষ্ট্য…">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "মুছে ফেলা বার্তা ফিরিয়ে আনা">
 <!ENTITY redoDeleteMsgCmd.label "মুছে ফেলা বার্তা পুনরায় মুছে ফেলা">
 <!ENTITY undoMoveMsgCmd.label "সরিয়ে ফেলা বার্তা ফিরিয়ে আনা">
 <!ENTITY redoMoveMsgCmd.label "সরিয়ে ফেলা বার্তা পুনরায় সরানো">
 <!ENTITY undoCopyMsgCmd.label "অনুলিপি করা বার্তা ফিরিয়ে আনা">
-<!ENTITY redoCopyMsgCmd.label "অনুলিপি করা বার্তা পুনরায় অনুলিপি করুন">
+<!ENTITY redoCopyMsgCmd.label "অনুলিপি করা বার্তা পুনরায় অনুলিপি">
 <!ENTITY undoMarkAllCmd.label "সব পড়া হয়েছে চিহ্ন মুছে ফেলুন">
 <!ENTITY redoMarkAllCmd.label "সব পড়া হয়েছে পুনরায় চিহ্নিত করুন">
-<!ENTITY undoDefaultCmd.label "পূর্বাবস্থায় ফিরিয়ে আনা (U)">
+<!ENTITY undoDefaultCmd.label "পূর্বাবস্থায় ফিরানো (U)">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "পুনরায় করা (R)">
 <!ENTITY redoDefaultCmd.accesskey "R">
@@ -125,14 +125,14 @@
 <!ENTITY messagePaneWide.accesskey "W">
 <!ENTITY messagePaneVertical.label "উল্লম্ব ভিউ (V)">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showMessageCmd.label "বার্তা প্যান (M)">
+<!ENTITY showMessageCmd.label "বার্তা পেন (M)">
 <!ENTITY showMessageCmd.accesskey "M">
 
 <!ENTITY folderView.label "ফোল্ডার (F)">
 <!ENTITY folderView.accesskey "F">
 <!ENTITY allFolders.label "সব (A)">
 <!ENTITY allFolders.accesskey "A">
-<!ENTITY unreadFolders.label "পড়া হয়নি (U)">
+<!ENTITY unreadFolders.label "অপঠিত (U)">
 <!ENTITY unreadFolders.accesskey "U">
 <!ENTITY favoriteFolders.label "প্রিয় (F)">
 <!ENTITY favoriteFolders.accesskey "F">
@@ -158,7 +158,7 @@
 <!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "ট্যাগ (g)">
 <!ENTITY sortByTagsCmd.accesskey "g">
-<!ENTITY sortByJunkStatusCmd.label "অপ্রয়োজনীয় অবস্থা (J)">
+<!ENTITY sortByJunkStatusCmd.label "অপ্রয়োজনীয়তা (J)">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
 <!ENTITY sortBySubjectCmd.label "বিষয় (b)">
 <!ENTITY sortBySubjectCmd.accesskey "b">
@@ -166,7 +166,7 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "প্রাপক (c)">
 <!ENTITY sortByRecipientCmd.accesskey "c">
-<!ENTITY sortByUnreadCmd.label "পড়া হয়েছে (R)">
+<!ENTITY sortByUnreadCmd.label "পঠিত (R)">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "যে ক্রম অনুযায়ী গ্রহন করা হয়েছে (O)">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
@@ -186,17 +186,17 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "সব (A)">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "সকল থ্রেড বর্ধিত করা (E)">
+<!ENTITY expandAllThreadsCmd.label "সব থ্রেড বর্ধিত  (E)">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "সকল থ্রেড ভাঁজ করে গুটানো (C)">
+<!ENTITY collapseAllThreadsCmd.label "সব থ্রেড গুটানো (C)">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "অপঠিত (U)">
 <!ENTITY unreadMsgsCmd.accesskey "U">
 <!ENTITY threadsWithUnreadCmd.label "অপঠিত থ্রেড (T)">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "পড়া হয়নি কিন্তু দেখা হয়েছে এমন থ্রেড (W)">
+<!ENTITY watchedThreadsWithUnreadCmd.label "অপঠিত কিন্তু দেখা হয়েছে এমন থ্রেড (W)">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "উপেক্ষাকৃত থ্রেড (I)">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
@@ -302,15 +302,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.label "অপঠিত বার্তা (U)">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "পুনঃপ্রেরণ (F)">
+<!ENTITY goForwardCmd.label "ফরওয়ার্ড (F)">
 <!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "ফিরে যাওয়া (B)">
+<!ENTITY goBackCmd.label "পিছনে (B)">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "তারকা চিহ্নিত বার্তা (S)">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
-<!ENTITY startPageCmd.label "মেইল শুরুর পৃষ্ঠা (S)">
+<!ENTITY startPageCmd.label "প্রথম পৃষ্ঠা (S)">
 <!ENTITY startPageCmd.accesskey "S">
 <!-- Message Menu -->
 
@@ -345,12 +345,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "সংযুক্তি (A)">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "নতুন হিসেবে বার্তা সম্পাদনা (E)">
+<!ENTITY editMsgAsNewCmd.label "নতুন বার্তা হিসেবে বার্তা সম্পাদনা (E)">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "বার্তা থেকে ফিল্টার তৈরি করা হবে... (a)">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgToMenu.label "এখানে সরান (M)">
+<!ENTITY moveMsgToMenu.label "এখানে সরানো হবে (M)">
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "সাম্প্রতিক (R)">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
@@ -358,21 +358,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "যেখানে অনুলিপি করা হবে (C)">
 <!ENTITY copyMsgToMenu.accesskey "C">
-<!ENTITY moveToFolderAgain.label "পুনরায় সরানো (i)">
+<!ENTITY moveToFolderAgain.label "পুনরায় সরানো হবে (i)">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "থ্রেড উপেক্ষা (I)">
+<!ENTITY killThreadMenu.label "থ্রেড উপেক্ষা করা (I)">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "সাবথ্রেড উপেক্ষা (S)">
+<!ENTITY killSubthreadMenu.label "সাবথ্রেড উপেক্ষা করা (S)">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "থ্রেড দেখা (W)">
+<!ENTITY watchThreadMenu.label "থ্রেড পর্যবেক্ষণ (W)">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "এখানে ফাইল করা হবে (F)">
 <!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "এখানে কপি করুন (C)">
+<!ENTITY copyHereMenu.label "এখানে অনুলিপি করা হবে (C)">
 <!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "ট্যাগ (g)">
 <!ENTITY tagMenu.accesskey "g">
@@ -420,7 +420,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
 <!ENTITY openFeedSummaryInWindow.label "নতুন উইন্ডোতে সারসংক্ষেপ (S)">
 <!ENTITY openFeedSummaryInWindow.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "বার্তা প্যানে টোগল ওয়েব পেজ এবং সারসংক্ষেপ (T)">
+<!ENTITY openFeedWebPageInMP.label "বার্তা পেনে ওয়েব পেজ এবং সারসংক্ষেপ ক্রমান্বয়ে দেখানো হবে (T)">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 <!-- Windows Menu -->
 
@@ -429,12 +429,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tasksMenu.label "টুল (T)">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "মেইল এবং নিউজগ্রুপ (M)">
-<!ENTITY messengerCmd.accesskey "M">
-<!ENTITY addressBookCmd.label "ঠিকানার বই (A)">
-<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY messengerCmd.label "মেইল এবং নিউজগ্রুপ (N)">
+<!ENTITY messengerCmd.accesskey "N">
+<!ENTITY addressBookCmd.label "ঠিকানা বই (B)">
+<!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "এ্যাডঅন (A)">
+<!ENTITY addons.label "অ্যাড-অন (A)">
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "কার্যক্রম ব্যবস্থাপক (A)">
 <!ENTITY activitymanager.accesskey "a">
@@ -452,7 +452,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteJunk.accesskey "L">
 <!ENTITY importCmd.label "ইম্পোর্ট… (I)">
 <!ENTITY importCmd.accesskey "i">
-<!ENTITY errorConsoleCmd.label "ত্রুটির কনসোল (n)">
+<!ENTITY errorConsoleCmd.label "ত্রুটি কনসোল (n)">
 <!ENTITY errorConsoleCmd.accesskey "N">
 <!ENTITY accountManagerCmd.label "একাউন্ট সেটিং… (c)">
 <!ENTITY accountManagerCmd.accesskey "C">
@@ -480,8 +480,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY throbberItem.title "কার্যক্রম নির্দেশকারক">
 <!ENTITY junkButton.label "অপ্রয়োজনীয়">
 <!ENTITY notJunkButton.label "অপ্রয়োজনীয় নয়">
-<!ENTITY addressBookButton.label "ঠিকানার বই">
-<!ENTITY glodaSearch.title "গ্লোবাল অনুসন্ধান">
+<!ENTITY addressBookButton.label "ঠিকানা বই">
+<!ENTITY glodaSearch.title "সার্বজনীন অনুসন্ধান">
 <!ENTITY searchItem.title "দ্রুত অনুসন্ধান">
 <!ENTITY mailViewsToolbarItem.title "মেইল ভিউ">
 <!ENTITY folderLocationToolbarItem.title "ফোল্ডারের অবস্থান">
@@ -500,10 +500,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "মেইল পাঠানোর তালিকায় উত্তর দেয়া হবে">
 <!ENTITY forwardButton.tooltip "নির্বাচিত বার্তা ফরওয়ার্ড করা হবে">
 <!ENTITY fileButton.tooltip "নির্বাচিত বার্তা ফাইলে সংরক্ষন করা হবে">
-<!ENTITY nextButton.tooltip "অপঠিত পরবর্তী বার্তায় যাওয়া হবে">
-<!ENTITY previousButton.tooltip "অপঠিত পূর্ববর্তী বার্তায় যাওয়া হবে">
-<!ENTITY goForwardButton.tooltip "আগের বার্তাটি পড়ুন">
-<!ENTITY goBackButton.tooltip "পরের বার্তাটি পড়ুন">
+<!ENTITY nextButton.tooltip "পরবর্তী অপঠিত বার্তায় যাওয়া হবে">
+<!ENTITY previousButton.tooltip "পূর্ববর্তী অপঠিত বার্তায় যাওয়া হবে">
+<!ENTITY goForwardButton.tooltip "পরের বার্তাটি পড়ুন">
+<!ENTITY goBackButton.tooltip "আগের বার্তাটি পড়ুন">
 <!ENTITY deleteButton.tooltip "নির্বাচিত বার্তা বা ফোল্ডার মুছে ফেলুন">
 <!ENTITY undeleteButton.tooltip "নির্বাচিত বার্তা ফিরিয়ে আনুন">
 <!ENTITY markButton.tooltip "বার্তা চিহ্নিত করুন">
@@ -511,7 +511,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.tooltip "বর্তমান স্থানান্তর বন্ধ করা হবে">
 <!ENTITY junkButton.tooltip "নির্বাচিত বার্তা অপ্রয়োজনীয় হিসেবে চিহ্নিত করুন">
 <!ENTITY notJunkButton.tooltip "নির্বাচিত বার্তা অপ্রয়োজনীয় নয় হিসেবে চিহ্নিত করুন">
-<!ENTITY addressBookButton.tooltip "ঠিকানার বই এ যান">
+<!ENTITY addressBookButton.tooltip "ঠিকানা বইয়ে যান">
 <!ENTITY tagButton.tooltip "বার্তা ট্যাগ করুন">
 <!ENTITY compactButton.tooltip "নির্বাচিত ফোল্ডার থেকে মুছে ফেলা বার্তা সরিয়ে ফেলুন">
 <!-- Tags Menu Popup -->
@@ -540,15 +540,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "আবর্জনার বাক্স খালি করা (y)">
 <!ENTITY folderContextEmptyTrash.accesskey "y">
-<!ENTITY folderContextEmptyJunk.label "অপ্রয়োজনীয় মেইল খালি করা (J)">
+<!ENTITY folderContextEmptyJunk.label "অপ্রয়োজনীয় মেইল অপসারণ (J)">
 <!ENTITY folderContextEmptyJunk.accesskey "J">
 <!ENTITY folderContextSendUnsentMessages.label "অপ্রেরিত বার্তা প্রেরণ করা (d)">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "আনসাবস্ক্রাইব (U)">
 <!ENTITY folderContextUnsubscribe.accesskey "U">
-<!ENTITY folderContextMarkNewsgroupRead.label "নিউজগ্রুপ পঠিত হিসেবে চিহ্নিত (k)">
+<!ENTITY folderContextMarkNewsgroupRead.label "নিউজগ্রুপ পঠিত হিসেবে চিহ্নিত করা হবে(k)">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
-<!ENTITY folderContextMarkMailFolderRead.label "ফোল্ডার পঠিত হিসেবে চিহ্নিত করা (k)">
+<!ENTITY folderContextMarkMailFolderRead.label "ফোল্ডার পঠিত হিসেবে চিহ্নিত করা হবে (k)">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "সাবস্ক্রাইব... (b)">
 <!ENTITY folderContextSubscribe.accesskey "b">
@@ -580,7 +580,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
     -->
 <!ENTITY glodaSearchFacet.everything.label "সবকিছু">
 <!ENTITY glodaSearchFacet.subject.label "বিষয়">
-<!ENTITY glodaSearchFacet.involves.label "সম্পৃক্ত করে (প্রেরক, প্রাপক, cc, bcc)">
+<!ENTITY glodaSearchFacet.involves.label "(প্রেরক, প্রাপক, cc, bcc)">
 <!ENTITY glodaSearchFacet.to.label "প্রতি, CC">
 <!ENTITY glodaSearchFacet.from.label "প্রেরক">
 <!ENTITY glodaSearchFacet.body.label "বার্তার পাঠ্য">
@@ -613,7 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkStatusColumn.label "অপ্রয়োজনীয় অবস্থা">
 <!ENTITY unreadColumn.label "অপঠিত">
 <!ENTITY totalColumn.label "মোট">
-<!ENTITY readColumn.label "পড়া হয়েছে">
+<!ENTITY readColumn.label "পঠিত">
 <!ENTITY receivedColumn.label "গৃহীত">
 <!ENTITY starredColumn.label "তারকাকৃত">
 <!ENTITY locationColumn.label "অবস্থান">
@@ -695,20 +695,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY loadRemoteContentButton3.label "দূরবর্তী বিষয়বস্তু দেখানো">
 <!-- Phishing Bar -->
 
-<!ENTITY phishingBarMessage2.label "এই বার্তাটি একটি স্ক্যাম হতে পারে।">
+<!ENTITY phishingBarMessage2.label "এই বার্তাটি একটি জালিয়াতি হতে পারে।">
 <!ENTITY removePhishingBarButton1.label "বার্তা উপেক্ষা করা হবে">
-<!ENTITY reportPhishingError1.label "এই বার্তাটি স্ক্যাম হিসেবে দেখা যাচ্ছে না।">
+<!ENTITY reportPhishingError1.label "এই বার্তাটি জালিয়াতি বলে মনে হচ্ছে না।">
 <!-- Message Header Button Box (to show hidden email addresses) -->
 
-<!ENTITY more.label "আরো">
+<!ENTITY more.label "আরও">
 <!-- Quick Search Bar -->
 
 <!ENTITY quickSearchCmd.key "k">
 <!-- Message Header Context Menu -->
 
-<!ENTITY AddToAddressBook.label "ঠিকানার বইয়ে যোগ... (B)">
+<!ENTITY AddToAddressBook.label "ঠিকানা বইয়ে যোগ... (B)">
 <!ENTITY AddToAddressBook.accesskey "B">
-<!ENTITY AddDirectlyToAddressBook.label "ঠিকানার বইয়ে যোগ (B)">
+<!ENTITY AddDirectlyToAddressBook.label "ঠিকানা বইয়ে যোগ (B)">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
 <!ENTITY EditContact.label "পরিচিতি সম্পাদনা... (E)">
 <!ENTITY EditContact.accesskey "E">
@@ -720,7 +720,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "এখান থেকে তৈরি এবং পরিশোধন... (F)">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY reportPhishingURL.label "ইমেইল স্ক্যাম প্রতিবেদন করা হবে (o)">
+<!ENTITY reportPhishingURL.label "ইমেইল জালিয়াতি রিপোর্ট করা হবে (o)">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!-- Content Pane Context Menu -->
 

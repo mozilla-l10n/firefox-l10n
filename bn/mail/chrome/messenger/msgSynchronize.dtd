@@ -1,6 +1,6 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "বার্তা ডাউনলোড এবং যুগপৎ করা হবে">
+<!ENTITY MsgSynchronize.label "বার্তা ডাউনলোড এবং অভিন্নকরণ করা হবে">
 <!ENTITY MsgSelect.label "অফলাইনে ব্যবহারের জন্য আইটেম">
 <!ENTITY MsgSyncDesc.label "আপনি যদি অফলাইনে ব্যবহারের জন্য ইতোমধ্যেই মেইল ফোল্ডার বা নিউজগ্রুপ নির্বাচন করে থাকেন, তবে আপনি এখন সেগুলো ডাউনলোড এবং/বা যুগপৎ করতে পারেন। অন্যথায়, অফলাইনে ব্যবহারের জন্য মেইল ফোল্ডার এবং নিউজগ্রুপ পছন্দ করতে &quot;নির্বাচন&quot; বোতাম ব্যবহার করুন।">
 <!ENTITY MsgSyncDirections.label "নিম্নের গুলোকে ডাউনলোড এবং/বা যুগপৎ করা হবে:">

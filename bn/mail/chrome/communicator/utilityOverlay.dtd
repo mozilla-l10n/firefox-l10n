@@ -52,8 +52,8 @@
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "x">
 
-<!ENTITY quitApplicationCmdUnix.label "ত্যাগ (Q)">
+<!ENTITY quitApplicationCmdUnix.label "প্রস্থান (Q)">
 <!ENTITY quitApplicationCmdUnix.accesskey "q">
 
-<!ENTITY quitApplicationCmdMac.label "brandShortName ত্যাগ (Q);">
+<!ENTITY quitApplicationCmdMac.label "brandShortName থেকে প্রস্থান (Q);">
 <!ENTITY quitApplicationCmdMac.accesskey "b">
