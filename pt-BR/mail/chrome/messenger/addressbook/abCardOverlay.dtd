@@ -79,9 +79,9 @@
 <!ENTITY ScreenName.label               "Nome de tela:">
 <!ENTITY ScreenName.accesskey           "N">
 
-<!ENTITY allowRemoteContent.label       "Carregar imagens externas">
-<!ENTITY allowRemoteContent.accesskey   "x">
-<!ENTITY allowRemoteContent.tooltip     "Em mensagens com formatação HTML podem existir imagens que carregam de locais externos. A visualização da mensagem abrirá uma conexão com este endereço. Isto permite que a leitura da mensagem seja registrada. Marque esta opção para permitir que estas imagens externas sejam carregadas para este contato.">
+<!ENTITY allowRemoteContent1.label      "Permitir conteúdo remoto">
+<!ENTITY allowRemoteContent1.accesskey  "P">
+<!ENTITY allowRemoteContent1.tooltip    "Em mensagens HTML é possível embutir conteúdo de fontes remotas. Ao ser aberta, uma mensagem dessas irá realizar uma conexão para estas fontes. Isto pode permitir o rastreamento da leitura da mensagem. Marque esta opção para permitir conteúdos externos em mensagens HTML deste contato.">
 
 <!ENTITY WorkPhone.label                "Comercial:">
 <!ENTITY WorkPhone.accesskey            "C">

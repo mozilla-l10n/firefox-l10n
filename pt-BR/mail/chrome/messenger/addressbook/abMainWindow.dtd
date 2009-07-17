@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.accesskey                             "A">
 <!ENTITY newMenu.label                                  "Novo">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Address Book Contact…">
+<!ENTITY newContact.label                               "Contato de catálogo de endereços…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Lista de emails…">
@@ -25,12 +25,12 @@
 <!ENTITY closeCmd.accesskey                             "F">
 <!ENTITY printSetupCmd.label                            "Configurar página…">
 <!ENTITY printSetupCmd.accesskey                        "C">
-<!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
+<!ENTITY printPreviewContactCmd.label                   "Visualizar impressão do contato">
+<!ENTITY printPreviewContactCmd.accesskey               "z">
 <!ENTITY printPreviewAddressBook.label                  "Visualizar impressão do catálogo">
 <!ENTITY printPreviewAddressBook.accesskey              "V">
-<!ENTITY printContactCmd.label                          "Print Contact…">
-<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.label                          "Imprimir contato…">
+<!ENTITY printContactCmd.accesskey                      "I">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Imprimir catálogo…">
 <!ENTITY printAddressBook.accesskey                     "a">
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label                                "Excluir">
 <!ENTITY deleteCmd.accesskey                            "x">
 <!ENTITY deleteAbCmd.label                              "Excluir catálogo">
-<!ENTITY deleteContactCmd.label                         "Delete Contact">
-<!ENTITY deleteContactsCmd.label                        "Delete Contacts">
+<!ENTITY deleteContactCmd.label                         "Excluir contato">
+<!ENTITY deleteContactsCmd.label                        "Excluir contatos">
 <!ENTITY deleteListCmd.label                            "Excluir lista de emails">
 <!ENTITY deleteListsCmd.label                           "Excluir listas de emails">
 <!ENTITY deleteItemsCmd.label                           "Excluir itens">
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Contact Summary Pane">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY showContactPane.label                          "Painel de resumo do contato">
+<!ENTITY showContactPane.accesskey                      "P">
 <!ENTITY menu_ShowNameAs.label                          "Exibir nome como">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!ENTITY firstLastCmd.label                             "Primeiro, Último">
@@ -116,11 +116,11 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "P">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newContactButton.label                         "New Contact">
-<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newContactButton.label                         "Novo contato">
+<!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Properties">
+<!ENTITY editButton2.label                              "Propriedades">
 <!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Nova msg">
 <!ENTITY newmsgButton.accesskey                         "N">
@@ -130,12 +130,12 @@
 <!ENTITY deleteButton2.accesskey                        "x">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Create a new address book contact">
+<!ENTITY newContactButton.tooltip                       "Criar um novo contato de catálogo de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista">
-<!ENTITY editButton2.tooltip                            "Edit the selected item">
+<!ENTITY editButton2.tooltip                            "Editar o item selecionado">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou chat">
-<!ENTITY deleteButton2.tooltip                           "Delete selected item">
+<!ENTITY deleteButton2.tooltip                           "Excluir item selecionado">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
