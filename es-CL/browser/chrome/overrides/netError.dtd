@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Fallo al conectar">
-<!ENTITY connectionFailure.longDesc "<p>Aunque el sitio parece válido, el navegador no pudo establecer una conexión</p><ul><li>¿Puede ser que el sitio no esté disponible temporalmente?</li><li>¿No puede navegar por otros sitios? Compruebe la conexión de red del computador</li><li>¿Su computador está protegido por un proxy o un firewall? Una configuración incorrecta puede interferir la navegación.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Aunque el sitio parece válido, el navegador no pudo establecer una conexión</p><ul><li>¿Puede ser que el sitio no esté disponible temporalmente?</li><li>¿No puede navegar por otros sitios? Compruebe la conexión de red del computador</li><li>¿Su computador está protegido por un proxy o un cortafuegos? Una configuración incorrecta puede interferir la navegación.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Puerto restringido por razones de seguridad">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -18,7 +18,7 @@
   <li>Revise la dirección si hay errores de escritura como
     <strong>ww</strong>.ejemplo.com en vez de    <strong>www</strong>.ejemplo.com</li>
   <li>Si no puede cargar ninguna página, revise su conexión a la red.</li>
-  <li>Si su computador o red está protegida por un muro de fuego o proxy, asegúrese que &brandShortName; está autorizado para acceder a la Web.</li>
+  <li>Si su computador o red está protegida por un cortafuegos o proxy, asegúrese que &brandShortName; está autorizado para acceder a la Web.</li>
 </ul>
 ">
 
@@ -36,7 +36,7 @@
 <!ENTITY netInterrupt.longDesc "<p>El navegador se conectó correctamente, pero se interrumpió la conexión mientras se estaba transfiriendo información. Por favor, vuelva a intentarlo.</p><ul><li>¿No puede navegar por otros sitios? Compruebe la conexión de red del computador.</li><li>¿Todavía con problemas? Consulte con su administrador de red o proveedor de Internet para obtener asistencia técnica.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc "<p>El navegador está ahora en modo desconectado y no puede conectarse al elemento solicitado</p><ul><li>¿Está el ordenador conectado a una red activa? </li><li>Ponga el navegador en modo con conexión y vuelva a intentarlo.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>El navegador está ahora en modo desconectado y no puede conectarse al elemento solicitado</p><ul><li>¿Está el computador conectado a una red activa? </li><li>Ponga el navegador en modo con conexión y vuelva a intentarlo.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul>
@@ -55,7 +55,7 @@
 <!ENTITY netReset.longDesc "<p>El enlace de red fue interrumpido mientras negociaba una conexión. Por favor intente nuevamente.</p>">
 
 <!ENTITY netTimeout.title "Se agotó el tiempo de espera">
-<!ENTITY netTimeout.longDesc "<p>El sitio solicitado no respondió a una petición de conexión y el navegador ha dejado de esperar una respuesta.</p><ul><li>¿Podría estar experimentando el servidor alta demanda o un corte temporal? Vuelva a intentarlo más tarde.</li><li>¿No puede navegar por otros sitios? Compruebe la conexión de red del computador.</li><li>¿Su computador está protegido por un proxy o un firewall? Una configuración incorrecta puede interferir con la navegación.</li><li>¿Todavía con problemas? Consulte con su administrador de red o proveedor de Internet para asistencia técnica.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>El sitio solicitado no respondió a una petición de conexión y el navegador ha dejado de esperar una respuesta.</p><ul><li>¿Podría estar experimentando el servidor alta demanda o un corte temporal? Vuelva a intentarlo más tarde.</li><li>¿No puede navegar por otros sitios? Compruebe la conexión de red del computador.</li><li>¿Su computador está protegido por un proxy o un cortafuegos? Una configuración incorrecta puede interferir con la navegación.</li><li>¿Todavía con problemas? Consulte con su administrador de red o proveedor de Internet para asistencia técnica.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protocolo Desconocido">
 <!ENTITY protocolNotFound.longDesc "<p>La dirección especifica un protocolo (p.ej. <q>wxyz://</q>) que el navegador no reconoce, por lo que el navegador no se puede conectar al sitio correctamente.</p><ul><li>¿Está intentando acceder a un servicio multimedia u otro servicio que no es de texto? Compruebe los requisitos extra del sitio.</li><li>Algunos protocolos pueden necesitar software de terceros o plugins antes de que el navegador pueda reconocerlos.</li></ul>">
