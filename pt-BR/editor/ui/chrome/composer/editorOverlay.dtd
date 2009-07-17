@@ -144,8 +144,8 @@
 <!ENTITY spellCheckNoSuggestions.label "(Nenhuma sugestão)">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar palavra">
 <!ENTITY spellCheckIgnoreWord.accesskey "r">
-<!ENTITY spellCheckAddToDictionary.label "Adicionar ao dicionário">
-<!ENTITY spellCheckAddToDictionary.accesskey "A">
+<!ENTITY spellCheckAddToDictionary.label "Memorizar como correta">
+<!ENTITY spellCheckAddToDictionary.accesskey "M">
 <!ENTITY createLinkCmd.label "Inserir link…">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Editar link em nova janela">
