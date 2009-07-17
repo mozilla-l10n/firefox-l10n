@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Atualização do aplicativo">
 
-<!ENTITY  window.width                    "36.0em">
-<!ENTITY  window.macWidth                 "39.0em">
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Verificando atualizações">
 <!ENTITY  updateCheck.label               "Localizando novas versões do &brandShortName;…">
