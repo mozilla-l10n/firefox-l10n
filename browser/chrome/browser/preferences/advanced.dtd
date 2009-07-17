@@ -73,7 +73,7 @@
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
 <!ENTITY offlineAppsList.label           "Estes sites possuem dados armazenados para uso offline:">
-<!ENTITY offlineAppsList.height          "7.0em">
+<!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Excluir…">
 <!ENTITY offlineAppsListRemove.accesskey "x">
 <!ENTITY offlineAppRemove.confirm        "Excluir dados offline">
