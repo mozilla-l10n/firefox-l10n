@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "R">
 <!ENTITY organization.label "Empresa:">
 <!ENTITY organization.accesskey "m">
-<!ENTITY signature.label "Inserir arquivo com assinatura:">
-<!ENTITY signature.accesskey "I">
+<!ENTITY signatureText.label "Texto da assinatura:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Usar HTML (exemplo: &lt;b&gt;negrito&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "U">
+<!ENTITY signatureFile.label "Anexar a assinatura de um arquivo (texto, HTML ou imagem):">
+<!ENTITY signatureFile.accesskey "x">
 <!ENTITY edit.label "Editar…">
 <!ENTITY choose.label "Arquivo…">
 <!ENTITY choose.accesskey "A">

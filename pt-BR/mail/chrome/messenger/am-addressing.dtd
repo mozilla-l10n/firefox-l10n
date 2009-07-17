@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey                      "I">
 <!ENTITY belowText.label                      "Fim da mensagem (recomendado)">
 <!ENTITY aboveText.label                      "Início da mensagem">
+<!ENTITY includeSigOnReply.label              "Ao responder, incluir assinatura">
+<!ENTITY includeSigOnReply.accesskey          "o">
+<!ENTITY includeSigOnForward.label            "Ao encaminhar, incluir assinatura">
+<!ENTITY includeSigOnForward.accesskey        "n">

@@ -18,17 +18,17 @@
 <!ENTITY retentionKeepMsg.accesskey "x">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Excluir todas menos as últimas">
-<!ENTITY retentionKeepNew.accesskey "E">
-<!ENTITY retentionKeepUnread.label "Sempre excluir as mensagens lidas">
-<!ENTITY retentionKeepUnread.accesskey "S">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "b">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveBody.label "Somente o conteúdo de mensagens com menos de">
-<!ENTITY nntpRemoveBody.accesskey "S">
+<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura offline…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Sincronizar mensagens">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
