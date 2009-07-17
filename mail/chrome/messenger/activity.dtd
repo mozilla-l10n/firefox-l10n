@@ -4,7 +4,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300">
 
-<!ENTITY activity.title                  "Gerenciador de atividade">
+<!ENTITY activity.title                  "Gerenciador de atividades">
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
@@ -14,10 +14,10 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.undo.label                   "Desfazer">
 <!ENTITY cmd.undo.accesskey               "D">
-<!ENTITY cmd.recover.label                "Recover">
-<!ENTITY cmd.recover.accesskey            "v">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.retry.accesskey              "R">
+<!ENTITY cmd.recover.label                "Restaurar">
+<!ENTITY cmd.recover.accesskey            "R">
+<!ENTITY cmd.retry.label                  "Tentar de novo">
+<!ENTITY cmd.retry.accesskey              "T">
 <!ENTITY cmd.removeFromList.label         "Excluir da lista">
 <!ENTITY cmd.removeFromList.accesskey     "x">
 
@@ -25,9 +25,9 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Limpar lista">
-<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed items from the list">
+<!ENTITY cmd.clearList.tooltip            "Retirar da lista os items concluídos, cancelados ou sem êxito">
 <!ENTITY cmd.clearList.accesskey          "L">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Search…">
+<!ENTITY searchBox.label                  "Localizar">
