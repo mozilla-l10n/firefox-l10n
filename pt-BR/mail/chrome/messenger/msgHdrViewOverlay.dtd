@@ -35,33 +35,34 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "para">
-<!ENTITY fromField2.label "de">
-<!ENTITY senderField2.label "emissor">
-<!ENTITY organizationField2.label "empresa">
-<!ENTITY replyToField2.label "responder a">
+<!ENTITY toField2.label "para ">
+<!ENTITY fromField2.label "de ">
+<!ENTITY senderField2.label "emissor ">
+<!ENTITY organizationField2.label "empresa ">
+<!ENTITY replyToField2.label "responder a ">
 
-<!ENTITY subjectField2.label "assunto">
+<!ENTITY subjectField2.label "assunto ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "cco">
+<!ENTITY bccField2.label "cco ">
 <!ENTITY newsgroupsField2.label "newsgroups ">
 <!ENTITY followupToField2.label "followup-to ">
 <!ENTITY tagsHdr2.label "tags ">
-<!ENTITY dateField2.label "data">
+<!ENTITY dateField2.label "data ">
 <!ENTITY userAgentField2.label "user-agent ">
 <!ENTITY referencesField2.label "references ">
 <!ENTITY messageIdField2.label "message-id ">
 <!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY originalWebsite2.label "site ">
 
 <!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
 <!ENTITY editMessageButton.label "Editar">
-<!ENTITY archiveButton.label "archive">
-<!ENTITY hdrReplyButton.label "reply">
-<!ENTITY hdrReplyAllButton.label "reply all">
-<!ENTITY hdrForwardButton.label "forward">
-<!ENTITY hdrJunkButton.label "junk">
+<!ENTITY archiveButton.label "arquivar">
+<!ENTITY hdrReplyButton.label "responder">
+<!ENTITY hdrReplyAllButton.label "responder a todos">
+<!ENTITY hdrReplyListButton.label "responder à lista">
+<!ENTITY hdrForwardButton.label "encaminhar">
+<!ENTITY hdrJunkButton.label "spam">
 <!ENTITY trashButton.tooltiptext "excluir">
 
 <!ENTITY otherActionsButton.label "outras ações">
@@ -69,9 +70,6 @@
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "código-fonte…">
 <!ENTITY viewSourceMenuItem.accesskey "f">
-
-<!ENTITY hideDetailsButton.label "ocultar detalhes">
-<!ENTITY showDetailsButton.label "exibir detalhes">
 
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY openAttachmentCmd.accesskey    "A">

@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Sobre os seus direitos">
+<!ENTITY rights.title            "Sobre os seus direitos">
+<!ENTITY rights.intro-header     "Sobre os seus direitos">
 <!ENTITY rights.intro "O &brandFullName; é um software livre e de código aberto, criado por uma comunidade de milhares ao redor do mundo. Há algumas coisas que você deve saber:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -16,7 +16,7 @@
 <!ENTITY rights.intro-point1b "Licença Pública Mozilla">
 <!ENTITY rights.intro-point1c ". Isso significa que você pode usar, copiar e distribuir o &brandShortName; para outras pessoas. Você também é bem-vindo para modificar como quiser o código-fonte do &brandShortName; para atender às suas necessidades. A Licença Pública Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
 
-<!ENTITY rights.intro-point2a "Mozilla does not grant you any rights to the Mozilla and Thunderbird trademarks or logos. Additional information on Trademarks may be found ">
+<!ENTITY rights.intro-point2a "A Mozilla não lhe concede quaisquer direitos sobre as marcas comerciais ou logotipos Mozilla e Thunderbird. Informações adicionais sobre as marcas comerciais podem ser encontradas ">
 <!ENTITY rights.intro-point2b "aqui">
 <!ENTITY rights.intro-point2c ".">
 

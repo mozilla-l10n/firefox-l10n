@@ -45,19 +45,19 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Assistente de importação">
-<!ENTITY importAll.label          "Import Everything">
-<!ENTITY importAll.accesskey      "E">
-<!ENTITY importMail.label         "Mail">
+<!ENTITY importAll.label          "Importar tudo">
+<!ENTITY importAll.accesskey      "I">
+<!ENTITY importMail.label         "Mensagens">
 <!ENTITY importMail.accesskey     "M">
 <!ENTITY importAddressbook.label  "Catálogos de endereços">
 <!ENTITY importAddressbook.accesskey "a">
-<!ENTITY importSettings.label     "Settings">
-<!ENTITY importSettings.accesskey "S">
-<!ENTITY importFilters.label      "Filters">
+<!ENTITY importSettings.label     "Configurações">
+<!ENTITY importSettings.accesskey "C">
+<!ENTITY importFilters.label      "Filtros">
 <!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY  window.width            "40.0em">
-<!ENTITY  window.macWidth         "45.0em">
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "Assistente de importação do &brandShortName;">
 <!ENTITY importShortDesc.label    "Importar mensagens, catálogos de endereços, configurações e filtros de outros aplicativos">
@@ -75,7 +75,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY select.label             "Ou selecione o que deseja importar:">
 
-<!ENTITY title.label              "Título">
+<!ENTITY title.label              "Title">
 <!ENTITY processing.label         "Importando…">
 
 <!ENTITY FieldDiscInputText1.label  "O Netscape Communicator 4.x possui um endereço para cada contato, enquanto o &brandShortName; possui dois (residencial e comercial).">
