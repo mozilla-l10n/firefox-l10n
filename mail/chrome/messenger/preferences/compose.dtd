@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Encaminhar como:">
 <!ENTITY forwardMsg.accesskey                 "h">
 <!ENTITY inline.label                         "Texto na mensagem">
-<!ENTITY inline.accesskey                     "T">
 <!ENTITY asAttachment.label                   "Anexo">
-<!ENTITY asAttachment.accesskey               "x">
 <!ENTITY addExtension.label                   "Adic. extensão ao nome do arq.">
 <!ENTITY addExtension.accesskey               "A">
 
@@ -26,7 +24,7 @@
 <!ENTITY spellCheck.label                     "Verificar ortografia antes de enviar">
 <!ENTITY spellCheck.accesskey                 "e">
 <!ENTITY spellCheckInline.label               "Verificar ortografia ao digitar">
-<!ENTITY spellCheckInline1.accesskey           "V">
+<!ENTITY spellCheckInline1.accesskey          "V">
 <!ENTITY languagePopup.label                  "Idioma:">
 <!ENTITY languagePopup.accessKey              "I">
 <!ENTITY downloadDictionaries.label           "Mais dicionários">
@@ -52,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "Configure o comportamento do formato de texto.">
 <!ENTITY sendOptions.label                     "Formato de envio…">
 <!ENTITY sendOptions.accesskey                 "m">
+
+<!ENTITY attachmentReminder.label              "Verificar ausência de anexos">
+<!ENTITY attachmentReminder.accesskey          "V">
+<!ENTITY attachmentReminderOptions.label       "Palavras-chave…">
+<!ENTITY attachmentReminderOptions.accesskey   "P">

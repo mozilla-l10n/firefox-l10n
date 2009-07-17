@@ -33,12 +33,12 @@
 <!ENTITY convertEmoticons.accesskey    "R">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "As tags podem ser usadas para organizar suas mensagens.">
-<!ENTITY addTagButton.label       "Nova…">
-<!ENTITY addTagButton.accesskey   "N">
-<!ENTITY editTagButton.label      "Editar…">
+<!ENTITY displayTagsText.label     "As tags podem ser usadas para organizar suas mensagens.">
+<!ENTITY addTagButton.label        "Nova…">
+<!ENTITY addTagButton.accesskey    "N">
+<!ENTITY editTagButton.label       "Editar…">
 <!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label    "Excluir">
+<!ENTITY removeTagButton.label     "Excluir">
 <!ENTITY removeTagButton.accesskey "x">
 
 <!-- Fonts -->

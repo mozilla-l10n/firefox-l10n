@@ -6,14 +6,16 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
-<!ENTITY enableGlodaSearch.accesskey   "i">
-<!ENTITY systemDefaults.label          "System Defaults">
+<!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
+<!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY systemIntegration.label       "Integração com o sistema">
 <!ENTITY alwaysCheckDefault.label      "Ao iniciar, verificar se o &brandShortName; é o aplicativo de email padrão">
 <!ENTITY alwaysCheckDefault.accesskey  "o">
+<!ENTITY searchIntegration.label       "Permitir que o &searchIntegration.engineName; pesquise as mensagens">
+<!ENTITY searchIntegration.accesskey   "P">
 <!ENTITY checkNow.label                "Verificar agora">
 <!ENTITY checkNow.accesskey            "V">
-<!ENTITY configEditDesc.label          "Configuração avançada:">
+<!ENTITY configEditDesc.label          "Configuração avançada">
 <!ENTITY configEdit.label              "Editor de config…">
 <!ENTITY configEdit.accesskey          "E">
 <!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de leitura.">
@@ -37,10 +39,14 @@
 <!ENTITY markAsReadDelay.accesskey     "o">
 <!ENTITY secondsLabel.label            "segundos">
 <!ENTITY openMsgIn.label               "Abrir mensagens em:">
+<!ENTITY openMsgInNewTab.label         "Nova aba">
+<!ENTITY openMsgInNewTab.accesskey     "o">
 <!ENTITY reuseExpRadio0.label          "Nova janela">
 <!ENTITY reuseExpRadio0.accesskey      "N">
 <!ENTITY reuseExpRadio1.label          "Janela existente">
 <!ENTITY reuseExpRadio1.accesskey      "J">
+<!ENTITY closeMsgWindowOnDelete.label  "Ao excluir, fechar a janela da mensagem">
+<!ENTITY closeMsgWindowOnDelete.accesskey "e">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Verificar automaticamente se há atualizações para:">
@@ -92,5 +98,5 @@
 <!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "Validação">
 <!ENTITY validation.accesskey           "V">
-<!ENTITY viewSecurityDevices.label      "Disp. de segurança">
+<!ENTITY viewSecurityDevices.label      "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey  "D">
