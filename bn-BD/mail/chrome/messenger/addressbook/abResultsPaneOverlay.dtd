@@ -36,7 +36,7 @@
 
 <!ENTITY GeneratedName.label "নাম (N)">
 <!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "ই-মেইল (E)">
+<!ENTITY PrimaryEmail.label "ইমেইল (E)">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY Company.label "প্রতিষ্ঠান (z)">
 <!ENTITY Company.accesskey "z">
@@ -44,7 +44,7 @@
 <!ENTITY _PhoneticName.accesskey "o">
 <!ENTITY NickName.label "ডাকনাম (i)">
 <!ENTITY NickName.accesskey "i">
-<!ENTITY SecondEmail.label "অতিরিক্ত ই-মেইল (l)">
+<!ENTITY SecondEmail.label "অতিরিক্ত ইমেইল (l)">
 <!ENTITY SecondEmail.accesskey "l">
 <!ENTITY Department.label "বিভাগ (r)">
 <!ENTITY Department.accesskey "r">

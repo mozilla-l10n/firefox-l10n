@@ -16,7 +16,7 @@
 <!ENTITY color.accesskey "c">
 <!ENTITY displayWidth.label "সরল টেক্সট বার্তা">
 <!ENTITY plainText.label "নিম্নের ফন্ট ব্যবহার করা হবে:">
-<!ENTITY displayText.label "যখন উদ্ধৃতি চিহ্ন যুক্ত সরল টেক্সট বার্তা প্রদর্শন করা হবে:">
+<!ENTITY displayText.label "উদ্ধৃতি চিহ্ন যুক্ত সরল টেক্সট বার্তা প্রদর্শনে:">
 <!ENTITY fixedWidth.label "নির্দিষ্ট প্রস্থের ফন্ট (x)">
 <!ENTITY fixedWidth.accesskey "x">
 <!ENTITY variableWidth.label "পরিবর্তনশীল প্রস্থের ফন্ট (V)">
@@ -29,20 +29,20 @@
 <!ENTITY backgroundColor.accesskey "b">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
-<!ENTITY convertEmoticons.label "গ্রাফিক্স হিসেবে ইমোটিকন প্রদর্শন করা হবে (D)">
+<!ENTITY convertEmoticons.label "ইমোটিকন গ্রাফিক্স হিসেবে প্রদর্শন করা হবে (D)">
 <!ENTITY convertEmoticons.accesskey "D">
 <!-- labels -->
 
-<!ENTITY displayTagsText.label "আপনার বার্তা শ্রেনীবিভক্ত এবং অগ্রাধিকারভুক্ত করতে ট্যাগ ব্যবহার করা যেতে পারে।">
-<!ENTITY addTagButton.label "যোগ করুন (A)">
+<!ENTITY displayTagsText.label "আপনার বার্তা শ্রেনীবিভক্ত এবং অগ্রাধিকারভুক্ত করতে ট্যাগ ব্যবহার করা যায়।">
+<!ENTITY addTagButton.label "যোগ (A)">
 <!ENTITY addTagButton.accesskey "A">
 <!ENTITY editTagButton.label "সম্পাদনা (E)">
 <!ENTITY editTagButton.accesskey "E">
-<!ENTITY removeTagButton.label "মুছে ফেলুন (D)">
+<!ENTITY removeTagButton.label "অপসারণ (D)">
 <!ENTITY removeTagButton.accesskey "D">
 <!-- Fonts -->
 
 <!ENTITY fontAndEncodingsDescription.label "&brandShortName; দ্বারা ব্যবহৃত ফন্ট এবং এনকোডিং কনফিগার করা হবে">
-<!ENTITY fontsAndEncodingsCaption.label "ফন্ট &amp; এনকোডিং">
+<!ENTITY fontsAndEncodingsCaption.label "ফন্ট ও এনকোডিং">
 <!ENTITY fontOptions.accesskey "F">
 <!ENTITY fontOptions.label "ফন্ট... (F)">

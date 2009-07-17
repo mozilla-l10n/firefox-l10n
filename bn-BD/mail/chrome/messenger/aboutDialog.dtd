@@ -1,11 +1,12 @@
-<!ENTITY aboutDialog.title "brandFullName সম্পর্কে;">
+<!ENTITY aboutDialog.title "&brandFullName; পরিচিতি">
 <!ENTITY credits.label "কৃতিত্ব (C)">
 <!ENTITY credits.accesskey "C">
 <!ENTITY aboutButton.label "&lt; Back">
 <!ENTITY aboutButton.accesskey "B">
 <!ENTITY aboutVersion "সংস্করণ">
-<!ENTITY copyrightText "#169;১৯৯৮-২০০৮ অংশগ্রহণকারী। সর্বস্বত্ত্ব সংরক্ষিত। মজিলা থান্ডারবার্ড এবং 
-থান্ডারবার্ড লোগো মজিলা ফাউন্ডেশনের ট্রেডমার্ক। সর্বস্বত্ব সংরক্ষিত। (#)">
+<!ENTITY copyrightText "&#169;১৯৯৮-২০০৮ অংশগ্রহণকারী। সর্বস্বত্ত্ব সংরক্ষিত। মজিলা থান্ডারবার্ড এবং 
+থান্ডারবার্ড লোগো মজিলা ফাউন্ডেশনের ট্রেডমার্ক।
+সর্বস্বত্ব সংরক্ষিত।">
 <!ENTITY aboutMenu.label "About">
 <!ENTITY aboutMenu.accesskey "A">
 <!ENTITY aboutRights.label "Your Rights">

@@ -1,12 +1,12 @@
 <!ENTITY prefWindow.titleWin "অপশন">
 <!ENTITY prefWindow.titleGNOME "&brandShortName; পছন্দসমূহ">
-<!ENTITY prefWindow.styleWindows "প্রস্থ: ৪৪এম; সর্বনিম্ন-উচ্চতা: ৩৮.৫এম;">
-<!ENTITY prefWindow.styleMac "প্রস্থ: ৪৭এম;">
-<!ENTITY prefWindow.styleGNOME "প্রস্থ: ৪২এম; সর্বনিম্ন-উচ্চতা: ৩৮এম;">
+<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title "সাধারণ">
 <!ENTITY paneDisplay.title "প্রদর্শন">
-<!ENTITY paneComposition.title "কম্পোজিশন">
+<!ENTITY paneComposition.title "মেইল রচনা">
 <!ENTITY paneAttachments.title "সংযুক্তি">
 <!ENTITY paneSecurity.title "নিরাপত্তা">
-<!ENTITY paneAdvanced.title "উচ্চ পর্যায়ের">
+<!ENTITY paneAdvanced.title "উচ্চ পর্যায়">

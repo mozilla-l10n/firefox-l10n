@@ -1,7 +1,7 @@
-<!ENTITY notificationsDialog2.title "নতুন মেইলের সতর্কবাণী স্বনির্বাচন করা হবে">
-<!ENTITY window.width "৩০এম">
+<!ENTITY notificationsDialog2.title "নতুন মেইলের সতর্কবাণী স্বনির্বাচন">
+<!ENTITY window.width "30em">
 
-<!ENTITY alertCustomization.intro "সতর্কবাণী ঘোষনায় কোন ক্ষেত্রসমূহ দেখান হবে তা নির্বাচন করা হবে:">
+<!ENTITY alertCustomization.intro "সতর্কবাণী ঘোষনায় কোন ক্ষেত্রসমূহ দেখান হবে তা নির্বাচন করুন:">
 <!ENTITY previewText.label "বার্তার প্রাকদর্শন টেক্সট (M)">
 <!ENTITY previewText.accesskey "M">
 <!ENTITY subject.label "বিষয় (S)">

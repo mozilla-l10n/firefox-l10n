@@ -3,33 +3,33 @@
 <!ENTITY enableStartPage.accesskey "W">
 <!ENTITY location.label "অবস্থান:">
 <!ENTITY location1.accesskey "o">
-<!ENTITY useDefault.label "ডিফল্ট পুর্বাবস্থায় ফিরিয়ে আনা হবে (R)">
+<!ENTITY useDefault.label "ডিফল্ট অবস্থান (R)">
 <!ENTITY useDefault.accesskey "R">
 
 <!ENTITY bounceSystemDockIcon.label "ডক আইকন অ্যানিমেশন করা হবে (i)">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
 
 <!ENTITY newMessagesArrive.label "যখন নতুন বার্তা আসে:">
-<!ENTITY playSound.label "শব্দ বাজান">
+<!ENTITY playSound.label "শব্দ বাজানো হবে">
 <!ENTITY playSound1.accesskey "d">
-<!ENTITY showAnimatedAlert.label "একটি সতর্কবাণী দেখানো হবে (S)">
+<!ENTITY showAnimatedAlert.label "সতর্কবার্তা দেখানো হবে (S)">
 <!ENTITY showAnimatedAlert.accesskey "S">
 <!ENTITY customizeMailAlert.label "স্বনির্বাচন... (C)">
 <!ENTITY customizeMailAlert.accesskey "C">
 
-<!ENTITY play.label "চালান (P)">
+<!ENTITY play.label "চালানো হবে (P)">
 <!ENTITY play.accesskey "P">
 <!ENTITY systemsound.label "নতুন মেইলের ডিফল্ট সিস্টেম শব্দ (y)">
-<!ENTITY systemsoundMac.label "সিস্টেমের সতর্কবাণী শব্দ (y)">
+<!ENTITY systemsoundMac.label "সিস্টেমের সতর্কবার্তার শব্দ (y)">
 <!ENTITY systemsoundMac.accesskey "y">
 <!ENTITY systemsound.accesskey "y">
-<!ENTITY customsound.label "নিম্নের শব্দ ফাইল ব্যবহার করা হবে (U)">
+<!ENTITY customsound.label "নিম্নে নির্ধারিত শব্দ ফাইল (U)">
 <!ENTITY customsound.accesskey "U">
 <!ENTITY browse.label "ব্রাউজ... (B)">
 <!ENTITY browse.accesskey "B">
 
 <!ENTITY addonsMgr.label "অ্যাড-অন">
-<!ENTITY manageAddonsDescWin.label "আপনার অ্যাড-অনের জন্য অপশন পরিবর্তন করা হবে">
-<!ENTITY manageAddonsDescUnix2.label "আপনার অ্যাড-অনের জন্য পছন্দসমূহ পরিবর্তন করা হবে">
-<!ENTITY manageAddons.label "অ্যাড-অন ব্যবস্থাপনা করা হবে... (M)">
+<!ENTITY manageAddonsDescWin.label "আপনার অ্যাড-অনের জন্য অপশন পরিবর্তন করুন">
+<!ENTITY manageAddonsDescUnix2.label "আপনার অ্যাড-অনের জন্য পছন্দসমূহ পরিবর্তন করুন">
+<!ENTITY manageAddons.label "অ্যাড-অন ব্যবস্থাপনা... (M)">
 <!ENTITY manageAddons.accesskey "M">

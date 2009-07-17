@@ -12,16 +12,16 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "&brandShortName; আপনার জন্য উপস্থিত করা হয়েছে মজিলা পাবলিক লাইসেন্স">
+<!ENTITY rights.intro-point1a "&brandShortName; আপনার জন্য উপস্থিত করা হয়েছে মজিলা পাবলিক লাইসেন্স ">
 <!ENTITY rights.intro-point1b "এর অধীনে">
 <!ENTITY rights.intro-point1c "। এর মানে আপনি &brandShortName; ব্যবহার, কপি এবং অন্যদের কাছে বিতরণ করতে পারবেন। আপনি আপনার প্রয়োজনে &brandShortName; এর সোর্স কোড পরিবর্তন করতে পারেন। মজিলা পাবলিক লাইসেন্স আপনাকে আপনার পরিবর্তিত সংস্করনটি বিতরণ করার অধিকারও প্রদান করে।">
 
-<!ENTITY rights.intro-point2a "মজিলা আপনাকে মজিলা এবং থান্ডারবার্ডের ট্রেডমার্ক বা লোগো পরিবর্তনের ‌অধিকার দেয় না। এই সংক্রান্ত আরো তথ্য পাওয়া যেতে পারে">
+<!ENTITY rights.intro-point2a "মজিলা আপনাকে মজিলা এবং থান্ডারবার্ডের ট্রেডমার্ক বা লোগো পরিবর্তনের ‌অধিকার দেয় না। এই সংক্রান্ত আরো তথ্য পাওয়া যেতে পারে ">
 <!ENTITY rights.intro-point2b "এখানে">
 <!ENTITY rights.intro-point2c "।">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights.intro-point3a "&vendorShortName; এর বিভিন্ন পণ্যের ব্যক্তিগত নীতিমালা পাওয়া যাবে">
+<!ENTITY rights.intro-point3a "&vendorShortName; এর বিভিন্ন পণ্যের ব্যক্তিগত নীতিমালা পাওয়া যাবে ">
 <!ENTITY rights.intro-point3b "এখানে">
 <!ENTITY rights.intro-point3c "।">
 <!-- point 3 text for unbranded builds -->
@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "এই পণ্যের যেকোনো প্রযোজ্য ব্যক্তিগত নীতিমালা এখানে তালিকাভুক্ত থাকা উচিত।">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "&brandShortName; ঐচ্ছিক সেবাও প্রদান করে থাকে, যেমন অ্যাড-অন হালনাগাদকরণ; যদিও আমরা নিশ্চয়তা প্রদান করি না যে এগুলো ১০০&#37; সঠিক বা ত্রুটিমুক্ত। কিভাবে সেবাগুলো নিষ্ক্রিয় করা যাবে সেটি সহ আরো বিস্তারিত পাওয়া যাবে">
+<!ENTITY rights.intro-point4a "&brandShortName; ঐচ্ছিক সেবাও প্রদান করে থাকে, যেমন অ্যাড-অন হালনাগাদকরণ; যদিও আমরা নিশ্চয়তা প্রদান করি না যে এগুলো ১০০&#37; সঠিক বা ত্রুটিমুক্ত। কিভাবে সেবাগুলো নিষ্ক্রিয় করা যাবে সেটি সহ আরো বিস্তারিত পাওয়া যাবে ">
 <!ENTITY rights.intro-point4b "সেবার শর্তসমূহে">
 <!ENTITY rights.intro-point4c "।">
 <!-- point 4 text for unbranded builds -->
@@ -45,7 +45,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights.webservices-a "&brandFullName; ঐচ্ছিক সেবা প্রদান করে (&quot;সেবা&quot;), যেমন অ্যাড-অন হালনাগাদ সেবা, যেটি নিম্নের বর্ননা অনুযায়ী আপনার জন্য &brandShortName; এর বাইনারি সংস্করনের সাথে ব্যবহারযোগ্য। যদি আপনি এই সেবাটি ব্যবহার করতে না চান বা শর্তগুলো যদি অগ্রহনযোগ্য হয়, তাহলে আপনি অ্যাড-অন হালনাগাদ সেবা নিষ্ক্রিয় করতে পারেন এভাবে, অ্যাপ্লিকেশনের পছন্দসমূহ খুলে">
+<!ENTITY rights.webservices-a "&brandFullName; ঐচ্ছিক সেবা প্রদান করে (&quot;সেবা&quot;), যেমন অ্যাড-অন হালনাগাদ সেবা, যেটি নিম্নের বর্ননা অনুযায়ী আপনার জন্য &brandShortName; এর বাইনারি সংস্করনের সাথে ব্যবহারযোগ্য। যদি আপনি এই সেবাটি ব্যবহার করতে না চান বা শর্তগুলো যদি অগ্রহনযোগ্য হয়, তাহলে আপনি অ্যাড-অন হালনাগাদ সেবা নিষ্ক্রিয় করতে পারেন এভাবে, অ্যাপ্লিকেশনের পছন্দসমূহ খুলে ">
 <!ENTITY rights.webservices-b "উচ্চপর্যায়">
 <!ENTITY rights.webservices-c " নির্বাচন করুন, তারপর ">
 <!ENTITY rights.webservices-d "হালনাগাদ">

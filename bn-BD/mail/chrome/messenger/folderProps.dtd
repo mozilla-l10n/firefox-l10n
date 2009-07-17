@@ -68,7 +68,7 @@
 <!ENTITY retentionApplyToFlagged.label "সর্বদা তারা চিহ্নিত বার্তা বজায় রাখা হবে (e)">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label "সমকালীন">
+<!ENTITY folderSynchronizationTab.label "অভিন্নকরণ">
 <!ENTITY folderCheckForNewMessages.label "নতুন বার্তার জন্য এই ফোল্ডারটি পরীক্ষা করা হবে (C)">
 <!ENTITY folderCheckForNewMessages.accesskey "C">
 

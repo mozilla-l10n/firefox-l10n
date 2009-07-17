@@ -40,7 +40,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "LDAP ডিরেক্টরি সার্ভার:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label "একটি LDAP ডিরেক্টরি সার্ভার নির্বাচন করা হবে (S):">
+<!ENTITY directoriesText.label "একটি LDAP ডিরেক্টরি সার্ভার নির্বাচন করুন (S):">
 <!ENTITY directoriesText.accesskey "S">
 <!ENTITY addDirectory.label "যোগ (A)">
 <!ENTITY addDirectory.accesskey "a">
