@@ -10,7 +10,7 @@
 <!ENTITY newMessage.key "m">
 <!ENTITY newMessageCmd2.key "n">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Address Book Contact…">
+<!ENTITY newContact.label "Contato de catálogo de endereços…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Anexar">
 <!ENTITY attachMenu.accesskey "x">
@@ -162,7 +162,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Configurar contas…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "n">
@@ -234,8 +234,8 @@
 <!ENTITY spellCheckNoSuggestions.label "Nenhuma sugestão">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar palavra">
 <!ENTITY spellCheckIgnoreWord.accesskey "r">
-<!ENTITY spellCheckAddToDictionary.label "Adicionar ao dicionário">
-<!ENTITY spellCheckAddToDictionary.accesskey "A">
+<!ENTITY spellCheckAddToDictionary.label "Memorizar como correta">
+<!ENTITY spellCheckAddToDictionary.accesskey "M">
 <!ENTITY undo.label "Desfazer">
 <!ENTITY undo.accesskey "D">
 <!ENTITY cut.label "Recortar">
