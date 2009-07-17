@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Esta ação não pode ser desfeita.">
 
-<!ENTITY dialog.width                 "32.0em">
-<!ENTITY column.width                 "14.0em">
+<!ENTITY dialog.width                 "32em">
+<!ENTITY column.width                 "14em">
