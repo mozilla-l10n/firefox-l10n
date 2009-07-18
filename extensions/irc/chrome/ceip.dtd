@@ -1,4 +1,4 @@
-<!ENTITY window.title  "Programa de melhoramento da experiência de utilizador do ChatZilla">
+﻿<!ENTITY window.title  "Programa de melhoramento da experiência de utilizador do ChatZilla">
 <!ENTITY window.size   "width: 45em;">
 
 <!ENTITY intro.label "O programa de melhoramento da experiência de utilizador do ChatZilla obtém informação sobre como utiliza o ChatZilla, sem o interromper. Isto ajuda os desenvolvedores do ChatZilla a identificar funcionalidades que necessitam melhoramentos. Nenhuma informação é usada para o contactar ou identificar.">
