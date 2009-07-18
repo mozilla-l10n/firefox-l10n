@@ -35,7 +35,7 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Besuchte Seiten und Download-Chronik">
+<!ENTITY itemHistoryAndDownloads.label     "Besuchte Seiten &amp; Download-Chronik">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemBrowsingHistory.label         "Besuchte Seiten">
 <!ENTITY itemBrowsingHistory.accesskey     "B">
