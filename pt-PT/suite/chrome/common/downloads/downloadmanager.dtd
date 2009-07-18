@@ -1,0 +1,78 @@
+<!ENTITY downloadManager.title           "Gestor de transferências">
+
+<!ENTITY menuBar.tooltip                 "Barra de Menu">
+<!ENTITY searchBar.tooltip               "Barra de pesquisa">
+
+<!ENTITY search.emptytext                "Pesquisar transferências">
+<!ENTITY search.label                    "Pesquisar transferências">
+<!ENTITY search.accesskey                "P">
+<!ENTITY search.key                      "f">
+
+<!ENTITY cmd.clearList.label             "Limpar lista">
+<!ENTITY cmd.clearList.tooltip           "Remove da lista transferências terminadas, canceladas e falhadas">
+<!ENTITY cmd.clearList.accesskey         "C">
+
+<!ENTITY col.name.label                  "Nome">
+<!ENTITY col.name.accesskey              "N">
+<!ENTITY col.name.tooltip                "Nome do ficheiro">
+<!ENTITY col.status.label                "Estado">
+<!ENTITY col.status.accesskey            "s">
+<!ENTITY col.status.tooltip              "Estado">
+<!ENTITY col.actionPlay.label            "Pausa/Resumir/Tentar de novo">
+<!ENTITY col.actionPlay.accesskey        "u">
+<!ENTITY col.actionPlay.tooltip          "Pausa/Resumir/Tentar de novo">
+<!ENTITY col.actionStop.label            "Cancelar/Remover">
+<!ENTITY col.actionStop.accesskey        "C">
+<!ENTITY col.actionStop.tooltip          "Cancelar/Remover">
+<!ENTITY col.progress.label              "Progresso">
+<!ENTITY col.progress.accesskey          "P">
+<!ENTITY col.progress.tooltip            "Progresso">
+<!ENTITY col.timeremaining.label         "Tempo restante">
+<!ENTITY col.timeremaining.accesskey     "p">
+<!ENTITY col.timeremaining.tooltip       "Tempo restante">
+<!ENTITY col.transferred.label           "Transferido">
+<!ENTITY col.transferred.accesskey       "T">
+<!ENTITY col.transferred.tooltip         "Transferido">
+<!ENTITY col.transferrate.label          "Velocidade">
+<!ENTITY col.transferrate.accesskey      "d">
+<!ENTITY col.transferrate.tooltip        "Velocidade">
+<!ENTITY col.timeelapsed.label           "Tempo decorrido">
+<!ENTITY col.timeelapsed.accesskey       "e">
+<!ENTITY col.timeelapsed.tooltip         "Tempo decorrido">
+<!ENTITY col.progresstext.label          "&#37;">
+<!ENTITY col.progresstext.accesskey      "&#37;">
+<!ENTITY col.progresstext.tooltip        "Progresso (&#37;)">
+<!ENTITY col.source.label                "Fonte">
+<!ENTITY col.source.accesskey            "o">
+<!ENTITY col.source.tooltip              "Fonte">
+
+<!ENTITY view.columns.label              "Mostrar colunas">
+<!ENTITY view.columns.accesskey          "c">
+<!ENTITY view.sortBy.label               "Ordenar por">
+<!ENTITY view.sortBy.accesskey           "r">
+
+<!ENTITY view.unsorted.label             "Não ordenado">
+<!ENTITY view.unsorted.accesskey         "d">
+<!ENTITY view.sortAscending.label        "Ordenar A > Z">
+<!ENTITY view.sortAscending.accesskey    "A">
+<!ENTITY view.sortDescending.label       "Ordenar Z > A">
+<!ENTITY view.sortDescending.accesskey   "Z">
+
+<!ENTITY cmd.pause.label                 "Pausa">
+<!ENTITY cmd.pause.accesskey             "P">
+<!ENTITY cmd.resume.label                "Resumir">
+<!ENTITY cmd.resume.accesskey            "R">
+<!ENTITY cmd.retry.label                 "Tentar novamente">
+<!ENTITY cmd.retry.accesskey             "t">
+<!ENTITY cmd.cancel.label                "Cancelar">
+<!ENTITY cmd.cancel.accesskey            "C">
+<!ENTITY cmd.remove.label                "Remover de lista">
+<!ENTITY cmd.remove.accesskey            "e">
+<!ENTITY cmd.open.label                  "Abrir">
+<!ENTITY cmd.open.accesskey              "b">
+<!ENTITY cmd.show.label                  "Abrir pasta respectiva">
+<!ENTITY cmd.show.accesskey              "F">
+<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de transferência">
+<!ENTITY cmd.goToDownloadPage.accesskey  "I">
+<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da transferência">
+<!ENTITY cmd.copyDownloadLink.accesskey  "l">
