@@ -10,7 +10,6 @@
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Pré-definido:">
-<!ENTITY savePassword.label "Guardar senha">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -19,17 +18,12 @@
 <!ENTITY biffStart.label "Verificar por novas mensagens a cada ">
 <!ENTITY biffStart.accesskey "f">
 <!ENTITY biffEnd.label "minutos">
-<!ENTITY isSecure.label "Usar ligação segura (SSL)">
-<!ENTITY isSecure.accesskey "U">
-<!ENTITY socketType.label "Usar ligação segura:">
-<!ENTITY neverSecure.label "Nunca">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, se disponível">
-<!ENTITY sometimesSecure.accesskey "o">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Segurança da ligação:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "Nenhuma">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, se disponível">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Usar autenticação segura">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "Deixar mensagens no servidor">

@@ -55,6 +55,6 @@
 <!ENTITY junkSettings.label           "Configurações de lixo electrónico">
 <!ENTITY offlineLink.label            "Configurações quando Desligado">
 
-<!ENTITY rssSectionHdr.label          "Notícias RSS e Blogs"> 
-<!ENTITY subscibeRSS.label            "Gerir subscrições">  
+<!ENTITY feedsSectionHdr.label        "Fontes"> 
+<!ENTITY subscribeFeeds.label         "Gerir subscrições">  
 

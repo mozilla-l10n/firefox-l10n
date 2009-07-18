@@ -154,6 +154,7 @@
 <!ENTITY  bookmarksButton.label       "Marcadores">
 <!ENTITY  bookmarksButton.tooltip     "Lista de marcadores">
 <!ENTITY  homeButton.label            "Página inicial">
+<!ENTITY  bookmarksToolbarItem.label  "Itens da barra de ferramentas dos marcadores">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Feito">

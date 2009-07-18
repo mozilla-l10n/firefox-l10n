@@ -1,4 +1,4 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
+﻿<!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
 <!ENTITY doNotDownload.label "Para ter espaço em disco, não transferir para usar no modo desligado:">
 <!ENTITY allFoldersOffline.label "Manter as mensagens desta conta neste computador">
 <!ENTITY allFoldersOffline.accesskey "n">
@@ -12,16 +12,20 @@
 <!ENTITY nntpDownloadMsg.label "Mais mensagens que">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Para obter espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
+<!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, tanto as cópias locais como os originais no servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
 <!ENTITY retentionKeepMsg.label "Apagar mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não apagar qualquer mensagem">
 <!ENTITY retentionKeepAll.accesskey "g">
-<!ENTITY retentionKeepNew.label "Apagar todas menos as últimas">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Apagar sempre todas as mensagens lidas">
-<!ENTITY retentionKeepUnread.accesskey "A">
-<!ENTITY nntpRemoveBody.label "Apenas se corpo da mensagem menor que">
-<!ENTITY nntpRemoveBody.accesskey "p">
+<!ENTITY retentionKeepRecent.label "Apagar todas menos as últimas">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas (sobrepõe-se às definições de idade)">
+<!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens marcadas">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY nntpRemoveMsgBody.label "Remover corpo das mensagens maiores que">
+<!ENTITY nntpRemoveMsgBody.accesskey "p">
 <!ENTITY offlineSelectNntp.label "Seleccione grupos de discussão para usar no modo desligado...">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">

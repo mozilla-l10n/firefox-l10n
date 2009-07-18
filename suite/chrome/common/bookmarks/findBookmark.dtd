@@ -10,6 +10,8 @@
 <!ENTITY search.contains.label          "contém">
 <!ENTITY search.doesntcontain.label     "não contém">
 <!ENTITY save.query.label               "Guardar pedido nos marcadores">
+<!ENTITY save.query.accesskey           "G">
 <!ENTITY search.for.label               "Procurar marcadores que">
 <!ENTITY findBookmark.title             "Procurar marcadores">
 <!ENTITY findButton.label               "Procurar">
+<!ENTITY findButton.accesskey           "P">

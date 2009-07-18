@@ -138,6 +138,8 @@
 <!ENTITY redoMoveMsgCmd.label "Refazer (Mover mensagem)">
 <!ENTITY undoCopyMsgCmd.label "Anular (Copiar mensagem)">
 <!ENTITY redoCopyMsgCmd.label "Refazer (Copiar mensagem)">
+<!ENTITY undoMarkAllCmd.label "Anular (Marcar todas como lidas)">
+<!ENTITY redoMarkAllCmd.label "Refazer (Marcar todas como lidas)">
 <!ENTITY undoDefaultCmd.label "Anular">
 <!ENTITY redoDefaultCmd.label "Refazer">
 
@@ -226,7 +228,8 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Tópicos como não lidos">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "m">
 <!ENTITY ignoredThreadsCmd.label "Ignorados">
-<!ENTITY ignoredThreadsCmd.accesskey "I">  
+<!ENTITY ignoredThreadsCmd.accesskey "I">
+
 <!ENTITY headersMenu.label "Cabeçalhos">
 <!ENTITY headersMenu.accesskey "h">
 <!ENTITY headersAllCmd.label "Todos">
@@ -241,6 +244,16 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Sem formatação">
 <!ENTITY bodyAsPlaintext.accesskey "f">
+
+<!ENTITY bodyMenuFeed.label "Corpo da mensagem de fonte como">
+<!ENTITY bodyMenuFeed.accesskey "n">
+<!ENTITY viewFeedWebPage.label "Página web">
+<!ENTITY viewFeedWebPage.accesskey "w">
+<!ENTITY viewFeedSummary.label "Sumário">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Formato pré-definido">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Mostrar anexos na mensagem">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 <!ENTITY reloadCmd.label "Actualizar">
@@ -289,19 +302,26 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "l">
 <!ENTITY prevUnreadMsgCmd.key "P">
 <!ENTITY goBackCmd.label "Retroceder">
+<!ENTITY goBackCmd.accesskey "R">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Avançar">
+<!ENTITY goForwardCmd.accesskey "A">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Mensagem Marcada">
 <!ENTITY prevFlaggedMsgCmd.accesskey "r">
 <!ENTITY startPageCmd.label "Página inicial">
 <!ENTITY startPageCmd.accesskey "c">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Mensagem">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Nova Mensagem">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Mensagem">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Arquivo">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
@@ -399,6 +419,14 @@
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "O">
+<!ENTITY openFeedMessage.label "Abrir mensagem da Fonte">
+<!ENTITY openFeedMessage.accesskey "o">
+<!ENTITY openFeedWebPageInWindow.label "Página web em nova janela">
+<!ENTITY openFeedWebPageInWindow.accesskey "w">
+<!ENTITY openFeedSummaryInWindow.label "Sumário numa nova janela">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Trocar página web e sumário no painél de mensagens">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Tools Menu -->
 <!ENTITY searchMailCmd.label "Procurar mensagens…">
@@ -437,6 +465,7 @@
 <!ENTITY goBackButton.label "Retroceder">
 <!ENTITY goForwardButton.label "Avançar">
 <!ENTITY deleteButton.label "Apagar">
+<!ENTITY undeleteButton.label "Não apagar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar">
@@ -459,6 +488,7 @@
 <!ENTITY goBackButton.tooltip "Retrocer uma mensagem">
 <!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
 <!ENTITY deleteButton.tooltip "Apagar mensagem ou pasta seleccionada">
+<!ENTITY undeleteButton.tooltip "Não apagar a mensagem seleccionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY printButton.tooltip "Imprimir esta mensagem">
 <!ENTITY stopButton.tooltip "Parar a transferência actual">
@@ -474,6 +504,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "A">
 <!ENTITY contextEditAsNew.label "Editar como novo...">
 <!ENTITY contextEditAsNew.accesskey "d">
+<!ENTITY contextArchive.label "Arquivo">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Responder apenas ao remetente">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Responder ao grupo de discussão">
@@ -533,12 +565,9 @@
 <!ENTITY folderContextSettings.label "Definições…">
 <!ENTITY folderContextSettings.accesskey "e">
 
-<!-- Search Bar -->
-<!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Assunto ou De contém:">
-<!ENTITY SearchSubjectOrFrom.accesskey "s">
-<!ENTITY SearchNameOrEmail.label "Nome ou Correio electrónico contém:">
-<!ENTITY SearchNameOrEmail.accesskey "N">
+<!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchSubjectAndFrom.emptytext "Procurar Assunto e De">
 <!ENTITY advancedButton.label "Avançado...">
 <!ENTITY advancedButton.accesskey "A">
 

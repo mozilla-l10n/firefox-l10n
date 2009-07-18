@@ -2,9 +2,15 @@
 
 <!ENTITY  pref.history.caption              "Navegar no histórico">
 <!ENTITY  historyPages.label                "O histórico é uma lista de páginas visitadas anteriormente.">
-<!ENTITY  pageHis.label                     "Lembrar páginas visitadas nos últimos">
-<!ENTITY  pageHis.accesskey                 "a">
-<!ENTITY  days.label                        "dias">
+<!ENTITY  expireDaysMin1.label              "Lembrar sempre as páginas visitadas por pelo menos">
+<!ENTITY  expireDaysMin1.accesskey          "R">
+<!ENTITY  expireDaysMin2.label              "dias">
+<!ENTITY  expireDays1.label                 "Lembrar as páginas visitadas durante">
+<!ENTITY  expireDays1.accesskey             "e">
+<!ENTITY  expireDays2.label                 "dias">
+<!ENTITY  expireSites1.label                "Lembrar até">
+<!ENTITY  expireSites1.accesskey            "m">
+<!ENTITY  expireSites2.label                "páginas visitadas">
 <!ENTITY  clearHistory.label                "Limpar histórico">
 <!ENTITY  clearHistory.accesskey            "r">
 
@@ -12,4 +18,3 @@
 <!ENTITY  clearLocationBar.label            "Limpar a lista de sítios guardados no menu da barra de localização.">
 <!ENTITY  clearLocationBarButton.label      "Limpar barra de localização">
 <!ENTITY  clearLocationBarButton.accesskey  "b">
-  

@@ -41,9 +41,9 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newCard.label                                  "Cartão do Livro de Endereços...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newCard.accesskey                              "C">  
+<!ENTITY newContact.label                               "Contacto...">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newContact.accesskey                           "C">  
 <!ENTITY newListCmd.label                               "Mailing List...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "L">  
@@ -53,12 +53,12 @@
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "IM">
-<!ENTITY printCardViewCmd.label                         "Imprimir cartão...">
-<!ENTITY printCardViewCmd.accesskey                     "I">
-<!ENTITY printPreviewCardViewCmd.label                  "Pré-Visualizar Cartão">
-<!ENTITY printPreviewCardViewCmd.accesskey              "z">
+<!ENTITY printContactViewCmd.label                      "Imprimir contacto...">
+<!ENTITY printContactViewCmd.accesskey                  "I">
+<!ENTITY printPreviewContactViewCmd.label               "Pré-Visualizar Contacto">
+<!ENTITY printPreviewContactViewCmd.accesskey           "z">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Imprimir livro de endereços..."> 
 <!ENTITY printAddressBook.accesskey                     "l"> 
 <!ENTITY printPreviewAddressBook.label                  "Pré-Visualizar Livro de Endereços"> 
@@ -68,8 +68,8 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Apagar Livro de Endereços">  
-<!ENTITY deleteCardCmd.label                            "Apagar Cartão">  
-<!ENTITY deleteCardsCmd.label                           "Apagar Cartões Seleccionados">  
+<!ENTITY deleteContactCmd.label                         "Apagar Contacto">  
+<!ENTITY deleteContactsCmd.label                        "Apagar Contactos Seleccionados">  
 <!ENTITY deleteListCmd.label                            "Apagar Lista">
 <!ENTITY deleteListsCmd.label                           "Apagar Listas Seleccionadas">
 <!ENTITY deleteItemsCmd.label                           "Apagar Itens Seleccionadas">
@@ -105,27 +105,28 @@
 <!ENTITY allowOnlineCheck.accesskey                     "ç">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newcardButton.label                            "Novo cartão">  
-<!ENTITY newcardButton.accesskey                        "C">  
+<!ENTITY newContactButton.label                            "Novo contacto">  
+<!ENTITY newContactButton.accesskey                        "C">  
 <!ENTITY newlistButton.label                            "Nova Lista">  
 <!ENTITY newlistButton.accesskey                        "L">  
-<!ENTITY editButton.label                               "Propriedades">  
-<!ENTITY editButton.accesskey                           "P">  
+<!ENTITY editItemButton.label                           "Propriedades">  
+<!ENTITY editItemButton.accesskey                       "P">  
 <!ENTITY newmsgButton.label                             "Criar">  
 <!ENTITY newmsgButton.accesskey                         "C">  
-<!ENTITY deleteButton.label                             "Eliminar">  
-<!ENTITY deleteButton.accesskey                         "a">  
+<!ENTITY deleteItemButton.label                         "Eliminar">  
+<!ENTITY deleteItemButton.accesskey                     "a">  
 <!ENTITY newimButton.label                              "Mensagem Instantânea">  
 <!ENTITY newimButton.accesskey                          "I">  
+<!ENTITY searchNameAndEmail.emptytext                   "Procurar nome e correio">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Barra de ferramentas do Livro de Endereços">
-<!ENTITY newcardButton.tooltip                          "Criar um novo 3 no livro de endereços"> 
+<!ENTITY newContactButton.tooltip                          "Criar um novo contacto no livro de endereços"> 
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista"> 
-<!ENTITY editButton.tooltip                             "Editar o cartão seleccionado"> 
+<!ENTITY editItemButton.tooltip                             "Editar o cartão seleccionado"> 
 <!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem de correio"> 
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de chat"> 
-<!ENTITY deleteButton.tooltip                           "Apagar o cartão seleccionado ou o livro de endereços"> 
+<!ENTITY deleteItemButton.tooltip                           "Apagar o o item seleccionado"> 
 <!ENTITY throbber.tooltip                               "Ir para a página inicial do &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Pesquisa avançada de endereços">
 

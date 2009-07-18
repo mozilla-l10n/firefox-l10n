@@ -65,6 +65,13 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultados">
 <!ENTITY offlineText.label                 "Pode transferir uma cópia desta directoria para que esteja disponível quando está desligado.">
+<!ENTITY saslMechanism.label               "Método de início de sessão: ">
+<!ENTITY saslMechanism.accesskey           "M">
+<!ENTITY saslOff.label                     "s">
+<!ENTITY saslOff.accesskey		   "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey		   "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

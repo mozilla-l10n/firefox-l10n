@@ -83,8 +83,6 @@
 
 <!ENTITY menuitem.view.command.toolbar.label        "Barra de ferramentas">
 <!ENTITY menuitem.view.command.toolbar.accesskey    "t">
-<!ENTITY menuitem.view.command.searchbar.label      "Barra de pesquisa">
-<!ENTITY menuitem.view.command.searchbar.accesskey  "s">
 <!ENTITY menuitem.view.show_columns.label           "Mostrar colunas">
 <!ENTITY menuitem.view.show_columns.accesskey       "c">
 <!ENTITY menuitem.newbookmarkfolder.label           "Aplicar como nova pasta de marcadores">
@@ -95,21 +93,28 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "p">
 
 <!ENTITY treecol.name.label             "Nome">
+<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip           "Clique para ordenar por nome">
 <!ENTITY treecol.url.label              "Localização">
+<!ENTITY treecol.url.accesskey          "L">
 <!ENTITY treecol.url.tooltip            "Clique para ordenar por localização">
 <!ENTITY treecol.shortcut.label         "Palavra-chave">
+<!ENTITY treecol.shortcut.accesskey     "h">
 <!ENTITY treecol.shortcut.tooltip       "Clique para ordenar por palavra-chave">
 <!ENTITY treecol.description.label      "Descrição">
+<!ENTITY treecol.description.accesskey  "D">
 <!ENTITY treecol.description.tooltip    "Clique para ordenar por descrição">
 <!ENTITY treecol.addedon.label          "Adicionado">
+<!ENTITY treecol.addedon.accesskey      "A">
 <!ENTITY treecol.addedon.tooltip        "Clique para ordenar por adicionado">
 <!ENTITY treecol.lastmod.label          "Última modificação">
+<!ENTITY treecol.lastmod.accesskey      "m">
 <!ENTITY treecol.lastmod.tooltip        "Clique para ordenar por última modificação">
 <!ENTITY treecol.lastvisit.label        "Última visita">
+<!ENTITY treecol.lastvisit.accesskey    "v">
 <!ENTITY treecol.lastvisit.tooltip      "Clique para ordenar por última visita">
 
 <!ENTITY bookmarksWindowTitle.label     "Gestor de marcadores">
 
-<!ENTITY search.label                     "Pesquisar">
-<!ENTITY search.accesskey                 "s">
+<!ENTITY search.emptytext               "Pesquisar Marcadores">
+<!ENTITY search.key                     "s">

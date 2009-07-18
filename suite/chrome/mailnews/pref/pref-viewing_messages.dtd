@@ -79,3 +79,5 @@
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "Apresentar apenas os nomes para pessoas da minha lista de contactos">
 <!ENTITY showCondensedAddresses.accesskey "o">
+<!ENTITY closeMsgWindowOnDelete.label     "Fechar a janela de mensagem ao apagar a mensagem">
+<!ENTITY closeMsgWindowOnDelete.accesskey "h">

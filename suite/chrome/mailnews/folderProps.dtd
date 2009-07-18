@@ -55,16 +55,20 @@
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Manter:">
+<!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, tanto as cópias locais como os originais no servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
 <!ENTITY retentionDeleteMsg.label "Eliminar mensagens com mais de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Todas as mensagens">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "Mais recentes">
-<!ENTITY retentionKeepNew.accesskey "n">
-<!ENTITY retentionKeepUnread.label "Apenas mensagens não lidas">
-<!ENTITY retentionKeepUnread.accesskey "l">
+<!ENTITY retentionKeepRecent.label "Mais recentes">
+<!ENTITY retentionKeepRecent.accesskey "n">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas (sobrepõe-se às definições de idade)">
+<!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens marcadas">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                  "Desligado">
+<!ENTITY folderSynchronizationTab.label          "Sincronização">
 <!ENTITY folderCheckForNewMessages.label         "Procurar novas mensagens nesta pasta">
 <!ENTITY folderCheckForNewMessages.accesskey     "n">
 
