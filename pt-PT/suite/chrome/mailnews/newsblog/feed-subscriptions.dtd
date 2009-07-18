@@ -1,5 +1,5 @@
 ﻿<!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Inscrições RSS">
+<!ENTITY feedSubscriptions.label "Inscrições em Fontes">
 <!ENTITY subscriptionDesc.label "Nota: Eliminar ou alterar a pasta de uma fonte não irá afectar os artigos já transferidos.">
 <!ENTITY feedTitle.label "Título:">
 <!ENTITY location.label "Localização:">

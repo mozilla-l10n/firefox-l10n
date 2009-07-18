@@ -56,22 +56,24 @@
 <!ENTITY inReplyToField.label "Em-Resposta-Para: ">
 <!ENTITY originalWebsite.label "Página web: ">
 
-<!ENTITY editMessage.label "Editar Rascunho...">
+<!ENTITY editMessage.label                 "Editar Rascunho...">
+<!ENTITY editMessage.accesskey             "R">
 
 <!ENTITY attachmentsTree.label             "Anexos:">
-<!ENTITY openAttachmentCmd.label    "Abrir">  
-<!ENTITY openAttachmentCmd.accesskey		"A">  
+<!ENTITY attachmentsTree.accesskey         "x">
+<!ENTITY openAttachmentCmd.label           "Abrir">  
+<!ENTITY openAttachmentCmd.accesskey	   "A">  
 <!ENTITY viewAttachmentCmd.label           "Ver Origem">
 <!ENTITY viewAttachmentCmd.accesskey       "V">
-<!ENTITY saveAsAttachmentCmd.label    "Guardar como...">  
-<!ENTITY saveAsAttachmentCmd.accesskey		"G"> 
-<!ENTITY detachAttachmentCmd.label    "Separar ...">  
+<!ENTITY saveAsAttachmentCmd.label         "Guardar como...">  
+<!ENTITY saveAsAttachmentCmd.accesskey	   "G"> 
+<!ENTITY detachAttachmentCmd.label         "Separar ...">  
 <!ENTITY detachAttachmentCmd.accesskey     "p">
-<!ENTITY deleteAttachmentCmd.label    "Apagar">  
+<!ENTITY deleteAttachmentCmd.label         "Apagar">  
 <!ENTITY deleteAttachmentCmd.accesskey     "g">
-<!ENTITY saveAllAttachmentsCmd.label    "Guardar Tudo...">  
-<!ENTITY saveAllAttachmentsCmd.accesskey		"u">  
-<!ENTITY detachAllAttachmentsCmd.label    "Separar todos...">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "e">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Apagar Tudo...">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "p">  
+<!ENTITY saveAllAttachmentsCmd.label       "Guardar Tudo...">  
+<!ENTITY saveAllAttachmentsCmd.accesskey   "u">  
+<!ENTITY detachAllAttachmentsCmd.label     "Separar todos...">  
+<!ENTITY detachAllAttachmentsCmd.accesskey "e">  
+<!ENTITY deleteAllAttachmentsCmd.label     "Apagar Tudo...">  
+<!ENTITY deleteAllAttachmentsCmd.accesskey "p">  

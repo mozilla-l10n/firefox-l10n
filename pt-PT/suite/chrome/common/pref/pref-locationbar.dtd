@@ -10,6 +10,18 @@
 <!ENTITY autoCompleteShowPopup.accesskey       "s">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Mostrar apenas os sítios web escritos anteriormente">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "M">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Apenas corresponder localizações e não títulos de sítios web">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "Corresponde">
+<!ENTITY autoCompleteMatch.accesskey           "C">
+<!ENTITY autoCompleteMatchAnywhere             "Em qualquer lado da localização ou título">
+<!ENTITY autoCompleteMatchWordsFirst           "Em qualquer lado mas preferencialmente na fronteira da palavra">
+<!ENTITY autoCompleteMatchWords                "Apenas na fronteira da palavra">
+<!ENTITY autoCompleteMatchStart                "Apenas no início da localização ou título">
 
 <!ENTITY searchEngine.label                    "Motor de pesquisa da internet">
 <!ENTITY showSearchEngine.label                "Mostrar o motor de pesquisa pré-definido">

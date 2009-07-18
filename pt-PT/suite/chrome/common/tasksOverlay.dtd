@@ -12,6 +12,7 @@
 
 <!ENTITY errorConsoleCmd.label                                  "Consola de erro">
 <!ENTITY errorConsoleCmd.accesskey				"C">
+<!ENTITY errorConsoleCmd.commandkey				"j">
 
 <!ENTITY taskNavigator.tooltip  "Navegador">
 <!ENTITY taskComposer.tooltip  "Compositor">
@@ -24,6 +25,15 @@
 
 <!ENTITY tasksMenu.label "Ferramentas">
 <!ENTITY tasksMenu.accesskey "r"> 
+
+<!ENTITY passwordManagerCmd.label "Gestor de senhas">
+<!ENTITY passwordManagerCmd.accesskey "G">
+
+<!ENTITY passwordDisplayCmd.label "Gerir senhas guardadas">
+<!ENTITY passwordDisplayCmd.accesskey "s">
+
+<!ENTITY passwordExpireCmd.label "Sair">
+<!ENTITY passwordExpireCmd.accesskey "S">
 
 <!ENTITY downloadManagerCmd.label "Gestor de transferências">
 <!ENTITY downloadManagerCmd.accesskey "t">

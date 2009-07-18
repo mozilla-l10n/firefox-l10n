@@ -4,6 +4,7 @@
 <!ENTITY description.label "O &brandShortName; pode ordenar pastas individuais. Use estas opções para personalizar a ordem para esta pastas.">
 
 <!ENTITY sortBy.label "Ordenar por:">
+<!ENTITY sortBy.accesskey "O">
 <!ENTITY sortBy.name.label "Nome">
 <!ENTITY sortBy.url.label "Localização">
 <!ENTITY sortBy.shortcutUrl.label "Palavra-chave">
@@ -13,8 +14,11 @@
 <!ENTITY sortBy.lastVisitDate.label "Última visita">
 
 <!ENTITY sortOrder.label "Ordenar:">
+<!ENTITY sortOrder.accesskey "r">
 <!ENTITY sortAscending.label "Ascendente">
 <!ENTITY sortDescending.label "Descendente">
 
 <!ENTITY sortFoldersFirst.label "Ordenar pastas primeiro">
+<!ENTITY sortFoldersFirst.accesskey "d">
 <!ENTITY sortRecursively.label "Ordenar recursivamente">
+<!ENTITY sortRecursively.accesskey "c">

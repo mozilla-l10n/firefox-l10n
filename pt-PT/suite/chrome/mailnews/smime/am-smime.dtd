@@ -20,3 +20,9 @@
 <!ENTITY signMessage.label "Assinar mensagens Digitalmente (pré-definição)">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Usar este certificado para assinar digitalmente as mensagens que envia::">
+
+<!ENTITY certificates.label "Certificados">
+<!ENTITY manageCerts.label "Gerir certificados…">
+<!ENTITY manageCerts.accesskey "G">
+<!ENTITY manageDevices.label "Gerir dispositivos de segurança…">
+<!ENTITY manageDevices.accesskey "e">

@@ -37,7 +37,6 @@
 
 <!-- extracted from ./local-panels.rdf -->
 
-<!ENTITY sidebar.whats-related.label  "O que é relacionado">
 <!ENTITY sidebar.search.label         "Procurar">
 <!ENTITY sidebar.client-bookmarks.label     "Marcadores">
 <!ENTITY sidebar.client-history.label       "Histórico">

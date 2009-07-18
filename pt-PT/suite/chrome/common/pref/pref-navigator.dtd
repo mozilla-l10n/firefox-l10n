@@ -1,6 +1,7 @@
 <!ENTITY pref.navigator.title           "Navegador">
 
-<!ENTITY navRadio                       "Mostrar ao">
+<!ENTITY navRadio.label                 "Mostrar ao">
+<!ENTITY navRadio.accesskey             "o">
 <!ENTITY navStartPageMenu.label         "Iníciar o navegador">
 <!ENTITY newWinPageMenu.label           "Nova janela">
 <!ENTITY newTabPageMenu.label           "Novo separador">
@@ -11,6 +12,8 @@
 <!ENTITY homePageRadio.accesskey        "i">
 <!ENTITY lastPageRadio.label            "Última página visitada">
 <!ENTITY lastPageRadio.accesskey        "l">
+<!ENTITY restoreSessionRadio.label      "Restaurar sessão anterior">
+<!ENTITY restoreSessionRadio.accesskey  "R">
 
 <!ENTITY header2.label                  "Página inicial">
 <!ENTITY homePageIntro.label            "Clicar no botão da página inicial leva-o para este grupo de páginas:">
@@ -30,14 +33,6 @@
 <!ENTITY goButton.accesskey             "r">
 <!ENTITY searchButton.label             "Procurar">
 <!ENTITY searchButton.accesskey         "P">
-<!ENTITY printButton.label              "Imprimir">
-<!ENTITY printButton.accesskey          "I">
-
-<!ENTITY persToolbarIntro.label         "Barra de ferramentas pessoal">
-<!ENTITY homeButton.label               "Página inicial">
-<!ENTITY homeButton.accesskey           "g">
-<!ENTITY bookmarksButton.label          "Marcadores">
-<!ENTITY bookmarksButton.accesskey      "M">
 
 <!ENTITY defaultBrowserGroup.label      "Navegador pré-definido">
 <!ENTITY defaultBrowserButton.label     "Aplicar navegador pré-definido">

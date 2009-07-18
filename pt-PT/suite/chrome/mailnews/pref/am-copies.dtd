@@ -21,6 +21,11 @@
 <!ENTITY draftsFolderOn.accesskey "R">
 <!ENTITY draftInOtherFolder.label "Outro:">
 <!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "Pasta de &quot;Arquivos&quot; em:">
+<!ENTITY archivesFolderOn.accesskey "D">
+<!ENTITY archiveInOtherFolder.label "Outro:">
+<!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Pasta &quot;Modelos&quot; em:">
 <!ENTITY templatesFolderOn.accesskey "M">
@@ -28,4 +33,5 @@
 <!ENTITY templateInOtherFolder.accesskey "t">
 <!ENTITY specialFoldersTitle.label "Rascunhos e papéis de carta">
 <!ENTITY keepDrafts.label "Guardar os rascunhos em:">
+<!ENTITY keepArchives.label "Manter arquivo de mensagens em:">
 <!ENTITY keepTempltes.label "Guardar os papéis de carta em:">

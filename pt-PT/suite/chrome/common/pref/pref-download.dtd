@@ -1,24 +1,24 @@
 <!ENTITY pref.download.title            "Transferências">
+
 <!ENTITY downloadBehavior.label         "Ao iniciar uma transferência">
-<!ENTITY downloadLocation.label         "Ao guardar um ficheiro">
-<!ENTITY finishedBehavior.label         "Quando uma transferência termina">
+<!ENTITY focusWhenStarting.label        "Flash ao gestor de transferências se já estiver aberto, caso contrário:">
+<!ENTITY focusWhenStarting.accesskey    "F">
 <!ENTITY openDM.label                   "Abrir o gestor de transferências">
 <!ENTITY openDM.accesskey               "g">
 <!ENTITY openProgressDialog.label       "Abrir um diálogo de progresso">
 <!ENTITY openProgressDialog.accesskey   "o">
 <!ENTITY doNothing.label                "Não abrir nada">
 <!ENTITY doNothing.accesskey            "d">
-<!ENTITY promptDownload.label           "Preparar para a localização de transferência e pré-definição para">
-<!ENTITY promptDownload.accesskey       "P">
-<!ENTITY lastLocation.label             "Última pasta transferida">
-<!ENTITY lastLocation.accesskey         "l">
-<!ENTITY specifiedLocation.label        "Pasta de transferência especificada">
-<!ENTITY specifiedLocation.accesskey    "e">
-<!ENTITY autoDownload.label             "Transferir automaticamente ficheiros para a pasta especificada">
-<!ENTITY autoDownload.accesskey         "a">
-<!ENTITY downloadFolder.label           "Pasta de transferências actual:">
+
+<!ENTITY downloadLocation.label         "Ao guardar um ficheiro">
+<!ENTITY saveTo.label                   "Guardar ficheiros para">
+<!ENTITY saveTo.accesskey               "v">
 <!ENTITY chooseDownloadFolder.label     "Escolher pasta…">
 <!ENTITY chooseDownloadFolder.accesskey "c">
+<!ENTITY alwaysAsk.label                "Perguntar-me sempre onde guardar os ficheiros">
+<!ENTITY alwaysAsk.accesskey            "P">
+
+<!ENTITY finishedBehavior.label         "When a download completes">
 <!ENTITY playSound.label                "Tocar um som">
 <!ENTITY playSound.accesskey            "s">
 <!ENTITY showAlert.label                "Mostrar um alerta">

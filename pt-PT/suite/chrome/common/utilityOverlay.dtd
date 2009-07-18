@@ -86,6 +86,9 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY customizeToolbarContext.label            "Personalizar…">
+<!ENTITY customizeToolbarContext.accesskey        "z">
+
 <!ENTITY customizeToolbar.toolbarmode.label       "Definições para esta barra de ferramentas">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
 <!ENTITY customizeToolbar.iconsAndText.label      "Ícones e texto">

@@ -41,6 +41,8 @@
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "Preservar tópicos ao ordenar as mensagens">
 <!ENTITY preserveThreading.accesskey      "v">
+<!ENTITY mailBiffOnNewWindow.label        "Verificar por novo correio apenas depois de abrir o Correio &amp; Grupos de discussão">
+<!ENTITY mailBiffOnNewWindow.accesskey    "V">
 
 <!ENTITY defaultMailSettings.description  "Tornar o &brandShortName; a aplicação pré-definida de:">
 <!ENTITY setDefaultMail.label             "Correio">
@@ -59,14 +61,3 @@
 <!ENTITY useDefault.accesskey             "D">
 <!ENTITY rememberLastMsg.label            "Lembrar a última mensagem seleccionada">
 <!ENTITY rememberLastMsg.accesskey        "e">
-<!ENTITY toolbarIntro.caption             "Seleccioneos botões que dseja ver na barra de ferramentas">
-<!ENTITY fileButton.label                 "Ficheiro">
-<!ENTITY fileButton.accesskey             "F">
-<!ENTITY nextButton.label                 "Seguinte">
-<!ENTITY nextButton.accesskey             "S">
-<!ENTITY junkMailButton.label             "Lixo Electrónico">
-<!ENTITY junkMailButton.accesskey         "x">
-<!ENTITY printButton.label                "Imprimir">
-<!ENTITY printButton.accesskey            "I">
-<!ENTITY stopButton.label                 "Parar">
-<!ENTITY stopButton.accesskey             "P">
