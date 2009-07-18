@@ -137,7 +137,7 @@
 <!ENTITY search.label                              "Suchen:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.scopeFolder.label                  "Ausgewählter Ordner">
-<!ENTITY search.scopeFolder.accesskey              "O">
+<!ENTITY search.scopeFolder.accesskey              "e">
 <!ENTITY search.scopeBookmarks.label               "Lesezeichen">
 <!ENTITY search.scopeBookmarks.accesskey           "L">
 <!ENTITY search.scopeDownloads.label               "Downloads">
