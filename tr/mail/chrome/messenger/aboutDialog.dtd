@@ -1,7 +1,15 @@
-<!ENTITY aboutDialog.title      "&brandShortName; Hakkında">
-<!ENTITY credits.label               "Destekleyenler">
-<!ENTITY credits.accesskey      "D">
-<!ENTITY aboutLink.label        "&lt;  &brandFullName; Hakkında">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "sürüm">
-<!ENTITY copyrightText          "&#169;1998-2008 Çalışanlar ve katkıda bulunanlar. Mozilla Thunderbird logosu Mozilla Vakfı'nın resmi logosudur ve bütün hakları saklıdır.">
+<!ENTITY aboutDialog.title "&brandFullName; hakkında">
+<!ENTITY credits.label "Destekleyenler">
+<!ENTITY credits.accesskey "D">
+<!ENTITY aboutButton.label "&lt; Geri">
+<!ENTITY aboutButton.accesskey "G">
+<!ENTITY aboutVersion "sürüm">
+<!ENTITY copyrightText "&#169;1998-2008 Çalışanlar ve katkıda bulunanlar. Mozilla Thunderbird logosu Mozilla Vakfı'nın resmi logosudur ve bütün hakları saklıdır.">
+<!ENTITY aboutMenu.label "Hakkında">
+<!ENTITY aboutMenu.accesskey "H">
+<!ENTITY aboutRights.label "Haklarınız">
+<!ENTITY aboutRights.accesskey "a">
+<!ENTITY aboutContributors.label "Katkıda bulunanlar">
+<!ENTITY aboutContributors.accesskey "K">
+
+<!ENTITY cmdCloseMac.commandKey "w">

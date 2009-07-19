@@ -37,15 +37,15 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.character.encoding.title "Character Encoding">
-<!ENTITY messageDisplay.caption "Message Display">
-<!ENTITY viewDefaultCharset.label "Default Character Encoding:">
-<!ENTITY viewDefaultCharset.accesskey "D">
+<!ENTITY pref.character.encoding.title "Karakter Kodlaması">
+<!ENTITY messageDisplay.caption "İleti görüntüleme">
+<!ENTITY viewDefaultCharset.label "Öntanımlı karakter kodlaması:">
+<!ENTITY viewDefaultCharset.accesskey "Ö">
 
-<!ENTITY composingMessages.caption "Composing Messages">
+<!ENTITY composingMessages.caption "İleti düzenlemesi">
 <!ENTITY useMIME.label "For messages that contain 8-bit characters, use 'quoted printable' MIME encoding. Leave unchecked to send the messages as is.">
 <!ENTITY useMIME.accesskey "F">
 <!ENTITY sendDefaultCharset.label "Öntanımlı karakter kodlaması:">
-<!ENTITY sendDefaultCharset.accesskey "K">
+<!ENTITY sendDefaultCharset.accesskey "k">
 <!ENTITY replyInDefaultCharset2.label "When possible, use this default character encoding in replies. (When unchecked, only new messages use this default.)">
 <!ENTITY replyInDefaultCharset2.accesskey "W">

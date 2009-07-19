@@ -1,29 +1,29 @@
-<!ENTITY pref.download.title            "Downloads">
+<!ENTITY pref.download.title "Downloads">
 
-<!ENTITY downloadBehavior.label         "When starting a download">
-<!ENTITY focusWhenStarting.label        "Flash the download manager if it is already open, otherwise:">
-<!ENTITY focusWhenStarting.accesskey    "F">
-<!ENTITY openDM.label                   "Open the download manager">
-<!ENTITY openDM.accesskey               "m">
-<!ENTITY openProgressDialog.label       "Open a progress dialog">
-<!ENTITY openProgressDialog.accesskey   "O">
-<!ENTITY doNothing.label                "Don't open anything">
-<!ENTITY doNothing.accesskey            "D">
+<!ENTITY downloadBehavior.label "When starting a download">
+<!ENTITY focusWhenStarting.label "Flash the download manager if it is already open, otherwise:">
+<!ENTITY focusWhenStarting.accesskey "F">
+<!ENTITY openDM.label "Open the download manager">
+<!ENTITY openDM.accesskey "m">
+<!ENTITY openProgressDialog.label "Open a progress dialog">
+<!ENTITY openProgressDialog.accesskey "O">
+<!ENTITY doNothing.label "Don't open anything">
+<!ENTITY doNothing.accesskey "D">
 
-<!ENTITY downloadLocation.label         "When saving a file">
-<!ENTITY saveTo.label                   "Save files to">
-<!ENTITY saveTo.accesskey               "v">
-<!ENTITY chooseDownloadFolder.label     "Choose Folder…">
-<!ENTITY chooseDownloadFolder.accesskey "C">
-<!ENTITY alwaysAsk.label                "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey            "A">
+<!ENTITY downloadLocation.label "When saving a file">
+<!ENTITY saveTo.label "Dosya kayıt yeri">
+<!ENTITY saveTo.accesskey "a">
+<!ENTITY chooseDownloadFolder.label "Dizin seç…">
+<!ENTITY chooseDownloadFolder.accesskey "s">
+<!ENTITY alwaysAsk.label "Always ask me where to save files">
+<!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY finishedBehavior.label         "When a download completes">
-<!ENTITY playSound.label                "Play a sound">
-<!ENTITY playSound.accesskey            "s">
-<!ENTITY showAlert.label                "Show an alert">
-<!ENTITY showAlert.accesskey            "a">
-<!ENTITY browse.label                   "Browse…">
-<!ENTITY browse.accesskey               "B">
-<!ENTITY preview.label                  "Preview">
-<!ENTITY preview.accesskey              "e">
+<!ENTITY finishedBehavior.label "When a download completes">
+<!ENTITY playSound.label "Play a sound">
+<!ENTITY playSound.accesskey "s">
+<!ENTITY showAlert.label "Show an alert">
+<!ENTITY showAlert.accesskey "a">
+<!ENTITY browse.label "Browse…">
+<!ENTITY browse.accesskey "B">
+<!ENTITY preview.label "Preview">
+<!ENTITY preview.accesskey "e">

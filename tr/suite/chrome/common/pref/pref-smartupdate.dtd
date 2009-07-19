@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
-<!ENTITY pref.smartUpdate.title "Yazılım Kurulumu">
+<!ENTITY pref.smartUpdate.title "Yazılım kurulumu">
 <!ENTITY smartTitle.label "Manage Software Installations and Updates">
 <!ENTITY enableSU.label "Allow web sites to install extensions and updates">
 <!ENTITY enableSU.accesskey "e">
@@ -9,7 +9,7 @@
 <!ENTITY verifyUpdates.caption "Güncellemeler">
 <!ENTITY autoUpdates.label "Automatically check for updates to:">
 <!ENTITY appUpdates.label "&brandShortName;">
-<!ENTITY appUpdates.accesskey "s">
+<!ENTITY appUpdates.accesskey "D">
 <!ENTITY daily.label "daily">
 <!ENTITY appDaily.accesskey "d">
 <!ENTITY weekly.label "weekly">

@@ -1,10 +1,10 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Mail &amp; Newsgroups Account Settings">
+<!ENTITY accountManagerTitle.label "Posta ve haber grupları ayarları">
 
-<!ENTITY addAccountButton.label "Hesap Ekle…">
+<!ENTITY addAccountButton.label "Hesap ekle…">
 <!ENTITY addAccountButton.accesskey "H">
-<!ENTITY setDefaultButton.label "Varsayılan Olarak Ayarla">
+<!ENTITY setDefaultButton.label "Öntanımlı olarak ayarla">
 <!ENTITY setDefaultButton.accesskey "o">
 <!ENTITY removeButton.label "Hesabı Sil">
 <!ENTITY removeButton.accesskey "H">
@@ -19,4 +19,4 @@
      this window for en-US. -->
 
 <!ENTITY accountManager.size "width: 70em; height: 54em;">
-<!ENTITY accountTree.width "width:  20em;">
+<!ENTITY accountTree.width "width: 20em;">

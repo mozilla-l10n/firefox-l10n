@@ -21,8 +21,8 @@
 
 <!ENTITY optionsGroup.label "Seçenekler">
 
-<!ENTITY printBG.label "Arkaplanı yazdır (renkler ve resimler)">
-<!ENTITY printBG.accesskey "r">
+<!ENTITY printBG.label "Arka planı yazdır (renkler ve resimler)">
+<!ENTITY printBG.accesskey "ı">
 
 <!ENTITY advanced.tab "Kenarlar, başlıklar ve dipnotlar">
 

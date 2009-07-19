@@ -2,6 +2,6 @@
 <!ENTITY identitiesListAdd.label "Ekle">
 <!ENTITY identitiesListAdd.accesskey "E">
 <!ENTITY identitiesListEdit.label "Düzenle…">
-<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListEdit.accesskey "e">
 <!ENTITY identitiesListDelete.label "Sil">
 <!ENTITY identitiesListDelete.accesskey "S">

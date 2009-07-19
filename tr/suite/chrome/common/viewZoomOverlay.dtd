@@ -12,4 +12,4 @@
 <!-- see zoomOtherLabel in viewZoomOverlay.properties -->
 
 <!ENTITY zoomMenu.accesskey "z">
-<!ENTITY zoomOtherCmd.accesskey "s">
+<!ENTITY zoomOtherCmd.accesskey "o">

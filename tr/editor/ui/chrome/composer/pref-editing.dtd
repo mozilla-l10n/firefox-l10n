@@ -1,23 +1,28 @@
-<!ENTITY activeLinkText.accesskey "A">
-<!ENTITY activeLinkText.label "Etkin bağlantı rengi">
-<!ENTITY authorName.accesskey "a">
-<!ENTITY authorName.label "Yazar:">
-<!ENTITY background.accesskey "A">
-<!ENTITY background.label "Arkaplan:">
-<!ENTITY backgroundImage.accesskey "A">
-<!ENTITY backgroundImage.label "Arkaplan resmi:">
-<!ENTITY chooseFile.accesskey "ç">
-<!ENTITY chooseFile.label "Dosya seç...">
-<!ENTITY colon.character ":">
-<!ENTITY customColors.accesskey "c">
-<!ENTITY customColors.label "Özel renkleri kullan:">
-<!ENTITY defaultColors.accesskey "t">
-<!ENTITY defaultColors.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
 <!ENTITY pref.editing.title "Yeni sayfa ayarları">
-<!ENTITY linkText.accesskey "B">
-<!ENTITY linkText.label "Bağlantı metni">
-<!ENTITY normalText.accesskey "R">
-<!ENTITY normalText.label "Normal metin">
+
+<!ENTITY authorName.label "Yazar:">
+<!ENTITY authorName.accesskey "a">
 <!ENTITY pageColorHeader "Öntanımlı sayfa görünüşü">
-<!ENTITY visitedLinkText.accesskey "Z">
+
+<!ENTITY defaultColors.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
+<!ENTITY defaultColors.accesskey "t">
+<!ENTITY customColors.label "Özel renkleri kullan:">
+<!ENTITY customColors.accesskey "r">
+
+<!ENTITY normalText.label "Normal metin">
+<!ENTITY normalText.accesskey "r">
+<!ENTITY linkText.label "Bağlantı metni">
+<!ENTITY linkText.accesskey "B">
+<!ENTITY activeLinkText.label "Etkin bağlantı rengi">
+<!ENTITY activeLinkText.accesskey "a">
 <!ENTITY visitedLinkText.label "Ziyaret edilmiş bağlantı metni">
+<!ENTITY visitedLinkText.accesskey "Z">
+<!ENTITY background.label "Arkaplan:">
+<!ENTITY background.accesskey "A">
+<!ENTITY colon.character ":">
+
+<!ENTITY backgroundImage.label "Arkaplan resmi:">
+<!ENTITY backgroundImage.accesskey "A">
+<!ENTITY chooseFile.label "Dosya seç…">
+<!ENTITY chooseFile.accesskey "ç">
+

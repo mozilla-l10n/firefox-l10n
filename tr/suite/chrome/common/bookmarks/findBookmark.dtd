@@ -1,17 +1,17 @@
 
-<!ENTITY search.name.label "name">
-<!ENTITY search.url.label "location">
-<!ENTITY search.shortcut.label "keyword">
-<!ENTITY search.description.label "description">
-<!ENTITY search.startswith.label "bunla başlar:">
+<!ENTITY search.name.label "isim">
+<!ENTITY search.url.label "konum">
+<!ENTITY search.shortcut.label "anahtar kelime">
+<!ENTITY search.description.label "açıklama">
+<!ENTITY search.startswith.label "bunla başlar">
 <!ENTITY search.endswith.label "sağdaki gibi bitiyorsa">
-<!ENTITY search.is.label "is">
-<!ENTITY search.isnot.label "is not">
+<!ENTITY search.is.label "sağdaki ile aynı ise">
+<!ENTITY search.isnot.label "sağdaki ile aynı değilse">
 <!ENTITY search.contains.label "sağdakini içeriyor ise">
 <!ENTITY search.doesntcontain.label "sağdakini içermiyor ise">
 <!ENTITY save.query.label "Save query in bookmarks">
 <!ENTITY save.query.accesskey "S">
 <!ENTITY search.for.label "Find Bookmarks whose">
-<!ENTITY findBookmark.title "Find Bookmarks">
-<!ENTITY findButton.label "Find">
-<!ENTITY findButton.accesskey "F">
+<!ENTITY findBookmark.title "Yer imlerinde bul">
+<!ENTITY findButton.label "Bul">
+<!ENTITY findButton.accesskey "B">

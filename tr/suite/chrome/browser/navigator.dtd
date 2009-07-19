@@ -10,160 +10,160 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Browser Tab">
+<!ENTITY tabCmd.label "Tarayıcı sekmesi">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Open Web Location…">
-<!ENTITY openCmd.accesskey "l">
+<!ENTITY openCmd.label "Web konumunu aç…">
+<!ENTITY openCmd.accesskey "k">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Open File…">
-<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.label "Dosya aç…">
+<!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.commandkey "s">
-<!ENTITY recentTabs.label "Recently Closed Tabs">
-<!ENTITY recentTabs.accesskey "R">
+<!ENTITY recentTabs.label "Az önce kapatılan sekmeler">
+<!ENTITY recentTabs.accesskey "A">
 <!ENTITY recentTabs.commandkey "t">
-<!ENTITY editPageCmd.label "Edit Page">
-<!ENTITY editPageCmd.accesskey "E">
+<!ENTITY editPageCmd.label "Sayfayı düzenle">
+<!ENTITY editPageCmd.accesskey "S">
 <!ENTITY editPageCmd.commandkey "E">
 
-<!ENTITY uploadFile.label "Upload File…">
-<!ENTITY uploadFile.accesskey "F">
+<!ENTITY uploadFile.label "Dosya yükle…">
+<!ENTITY uploadFile.accesskey "ü">
 
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Print Preview">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Print…">
-<!ENTITY printCmd.accesskey "p">
+<!ENTITY printSetupCmd.label "Sayfa düzeni...">
+<!ENTITY printSetupCmd.accesskey "y">
+<!ENTITY printPreviewCmd.label "Yazdırma önizleme">
+<!ENTITY printPreviewCmd.accesskey "z">
+<!ENTITY printCmd.label "Yazdır...">
+<!ENTITY printCmd.accesskey "r">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "View">
-<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewMenu.label "Göster">
+<!ENTITY viewMenu.accesskey "G">
 
-<!ENTITY toolbarsCmd.label "Show/Hide">
-<!ENTITY toolbarsCmd.accesskey "w">
+<!ENTITY toolbarsCmd.label "Göster/gizle">
+<!ENTITY toolbarsCmd.accesskey "ö">
 <!ENTITY navbarCmd.label "Gezinti araç çubuğu">
-<!ENTITY navbarCmd.accesskey "T">
-<!ENTITY personalbarCmd.label "Personal Toolbar">
-<!ENTITY personalbarCmd.accesskey "p">
-<!ENTITY tabbarCmd.label "Tab Bar">
-<!ENTITY tabbarCmd.accesskey "T">
-<!ENTITY taskbarCmd.label "Status Bar">
-<!ENTITY taskbarCmd.accesskey "S">
-<!ENTITY componentbarCmd.label "Component Bar">
-<!ENTITY componentbarCmd.accesskey "C">
+<!ENTITY navbarCmd.accesskey "t">
+<!ENTITY personalbarCmd.label "Kişisel araç çubuğu">
+<!ENTITY personalbarCmd.accesskey "K">
+<!ENTITY tabbarCmd.label "Sekme çubuğu">
+<!ENTITY tabbarCmd.accesskey "S">
+<!ENTITY taskbarCmd.label "Durum çubuğu">
+<!ENTITY taskbarCmd.accesskey "D">
+<!ENTITY componentbarCmd.label "Bileşenler çubuğu">
+<!ENTITY componentbarCmd.accesskey "ş">
 
-<!ENTITY useStyleSheetMenu.label "Use Style">
+<!ENTITY useStyleSheetMenu.label "Kullanılacak stil">
 <!ENTITY useStyleSheetMenu.accesskey "u">
 <!ENTITY useStyleSheetNone.label "Hiçbiri">
 <!ENTITY useStyleSheetNone.accesskey "H">
-<!ENTITY useStyleSheetPersistentOnly.label "Default Style">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "d">
+<!ENTITY useStyleSheetPersistentOnly.label "Öntanımlı stil">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "Ö">
 <!ENTITY pageSourceCmd.label "Sayfa kaynağını göster">
 <!ENTITY pageSourceCmd.accesskey "a">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Sayfa bilgileri">
-<!ENTITY pageInfoCmd.accesskey "s">
+<!ENTITY pageInfoCmd.accesskey "S">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Full Screen">
-<!ENTITY fullScreenCmd.accesskey "f">
-<!ENTITY translateMenu.label "Translate Page">
-<!ENTITY translateMenu.accesskey "T">
+<!ENTITY fullScreenCmd.label "Tam ekran">
+<!ENTITY fullScreenCmd.accesskey "T">
+<!ENTITY translateMenu.label "Sayfayı çevir">
+<!ENTITY translateMenu.accesskey "S">
 
-<!ENTITY closeOtherTabs.label "Close Other Tabs">
-<!ENTITY closeOtherTabs.accesskey "T">
-<!ENTITY closeWindow.label "Close Window">
-<!ENTITY closeWindow.accesskey "W">
+<!ENTITY closeOtherTabs.label "Diğer sekmeleri kapat">
+<!ENTITY closeOtherTabs.accesskey "t">
+<!ENTITY closeWindow.label "Pencereyi kapat">
+<!ENTITY closeWindow.accesskey "c">
 
-<!ENTITY minimizeButton.tooltip "Minimize">
+<!ENTITY minimizeButton.tooltip "Küçült">
 <!ENTITY restoreButton.tooltip "Kurtar">
 
 <!ENTITY applyTheme.label "Apply Theme">
 <!ENTITY applyTheme.accesskey "A">
 <!ENTITY getNewThemesCmd.label "Get New Themes">
 <!ENTITY getNewThemesCmd.accesskey "G">
-<!ENTITY findOnCmd.label "Find in This Page…">
-<!ENTITY findOnCmd.accesskey "f">
+<!ENTITY findOnCmd.label "Bu sayfada bul…">
+<!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Find Again">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.label "Sonrakini bul">
+<!ENTITY findAgainCmd.accesskey "b">
 <!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Find Previous">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.label "Öncekini bul">
+<!ENTITY findPrevCmd.accesskey "n">
 <!ENTITY findPrevCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findPrevCmd.commandkey2 "VK_F3">
 
-<!ENTITY searchInternetCmd.label "Search the Web">
-<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternetCmd.label "İnternet'te ara">
+<!ENTITY searchInternetCmd.accesskey "İ">
 <!ENTITY searchInternet.commandKey "s">
 
-<!ENTITY clearPrivateDataCmd.label "Clear Private Data…">
-<!ENTITY clearPrivateDataCmd.accesskey "e">
+<!ENTITY clearPrivateDataCmd.label "Özel bilgileri sil…">
+<!ENTITY clearPrivateDataCmd.accesskey "z">
 
-<!ENTITY goMenu.label "Go">
-<!ENTITY goMenu.accesskey "g">
+<!ENTITY goMenu.label "Git">
+<!ENTITY goMenu.accesskey "G">
 <!ENTITY goHomeCmd.label "Başlangıç">
-<!ENTITY goHomeCmd.accesskey "b">
+<!ENTITY goHomeCmd.accesskey "B">
 
-<!ENTITY bookmarksMenu.label "Yer İmleri">
-<!ENTITY bookmarksMenu.accesskey "E">
-<!ENTITY addCurPageCmd.label "Bookmark This Page">
+<!ENTITY bookmarksMenu.label "Yer imleri">
+<!ENTITY bookmarksMenu.accesskey "e">
+<!ENTITY addCurPageCmd.label "Bu sayfayı yer imlerine ekle…">
 <!ENTITY addCurPageCmd.accesskey "B">
-<!ENTITY addCurPageAsCmd.label "File Bookmark…">
-<!ENTITY addCurPageAsCmd.accesskey "F">
+<!ENTITY addCurPageAsCmd.label "Kısayol yer imi…">
+<!ENTITY addCurPageAsCmd.accesskey "K">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Bookmark This Group of Tabs…">
-<!ENTITY addCurTabsAsCmd.accesskey "G">
-<!ENTITY manBookmarksCmd.label "Manage Bookmarks…">
-<!ENTITY manBookmarksCmd.accesskey "M">
+<!ENTITY addCurTabsAsCmd.label "Sekme grubunu yer imlerine ekle…">
+<!ENTITY addCurTabsAsCmd.accesskey "g">
+<!ENTITY manBookmarksCmd.label "Yer imleri yönetimi…">
+<!ENTITY manBookmarksCmd.accesskey "Y">
 <!ENTITY manBookmarksCmd.commandkey "b">
-<!ENTITY feedsMenu.label "Subscribe to This Page">
-<!ENTITY feedsMenu.accesskey "S">
+<!ENTITY feedsMenu.label "Bu sayfaya üye ol">
+<!ENTITY feedsMenu.accesskey "B">
 <!ENTITY emptyItem.label "(Boş)">
 
-<!ENTITY menuBar.tooltip "Menü Çubuğu">
-<!ENTITY personalToolbar.tooltip "Personal Toolbar">
-<!ENTITY navigationToolbar.tooltip "Navigation Toolbar">
+<!ENTITY menuBar.tooltip "Menü çubuğu">
+<!ENTITY personalToolbar.tooltip "Kişisel araç çubuğu">
+<!ENTITY navigationToolbar.tooltip "Gezinti araç çubuğu">
 <!-- Toolbar items --> 
 
-<!ENTITY backButton.label "Back">
-<!ENTITY backButton.tooltip "Go back one page">
-<!ENTITY forwardButton.label "Forward">
-<!ENTITY forwardButton.tooltip "Go forward one page">
-<!ENTITY reloadButton.label "Reload">
+<!ENTITY backButton.label "Geri">
+<!ENTITY backButton.tooltip "Bir sayfa geri git">
+<!ENTITY forwardButton.label "İleri">
+<!ENTITY forwardButton.tooltip "Bir sayfa ileri git">
+<!ENTITY reloadButton.label "Tazele">
 <!ENTITY reloadButton.tooltip "Geçerli sayfayı tazele">
-<!ENTITY stopButton.label "Stop">
+<!ENTITY stopButton.label "Dur">
 <!ENTITY stopButton.tooltip "Sayfayı yüklemeyi durdur">
-<!ENTITY searchButton.label "Search">
-<!ENTITY searchButton.tooltip "Type a word in the field to the left, then click Search">
+<!ENTITY searchButton.label "Ara">
+<!ENTITY searchButton.tooltip "Aranacak kelimeyi yazıp Ara tuşuna basın">
 <!ENTITY goButton.label "Git">
-<!ENTITY goButton.tooltip "Type a location in the field to the left, then click Go">
+<!ENTITY goButton.tooltip "Gidilecek konumu girip Git tuşuna basın">
 <!ENTITY printButton.label "Yazdır">
-<!ENTITY printButton.tooltip "Print this page">
+<!ENTITY printButton.tooltip "Bu sayfayı yazdır">
 
 <!ENTITY throbber.tooltip "&vendorShortName; anasayfasına git">
 
-<!ENTITY locationBar.tooltip "Enter search term, keyword, or web address">
+<!ENTITY locationBar.tooltip "Aranacak kelime, anahtar kelime veya web adresi girin">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Konum">
 
 <!ENTITY proxyIcon.tooltip "Drag and drop this icon to create a link to this page">
 <!-- Toolbar items --> 
 
-<!ENTITY bookmarksButton.label "Yer İmleri">
-<!ENTITY bookmarksButton.tooltip "Bookmarks list">
+<!ENTITY bookmarksButton.label "Yer imleri">
+<!ENTITY bookmarksButton.tooltip "Yer imleri listesi">
 <!ENTITY homeButton.label "Başlangıç">
 <!ENTITY bookmarksToolbarItem.label "Yer imi simgeleri">
 <!-- Statusbar -->
 
-<!ENTITY statusText.label "Done">
+<!ENTITY statusText.label "Tamamlandı">
 
-<!ENTITY historyCmd.label "History">
+<!ENTITY historyCmd.label "Geçmiş">
 <!ENTITY historyCmd.accesskey "i">
 <!ENTITY history.commandKey "h">
 
 <!ENTITY popupIcon.tooltiptext "Unblock this site's popups">
 
-<!ENTITY bidiSwitchPageDirectionItem.label "Sayfa Yönetimine Geç">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "s">
+<!ENTITY bidiSwitchPageDirectionItem.label "Yazı yönünü değiştir">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "Y">

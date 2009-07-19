@@ -1,53 +1,99 @@
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Hesap ayarlarındaki öntanımlamayı uyarla">
-<!ENTITY folderCharsetOverride.label "Öntanımlamayı bu dizindeki postalara uyumla.">
-<!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderCharsetTab.label "Öntanımlı karakter kodlaması:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCheckForNewMessages.label "Bu klasörde yeni mesajları kontrol et">
-<!ENTITY folderCheckForNewMessages.accesskey     "j">
-<!ENTITY folderOfflineTab.label "Çevrimdışı">
-<!ENTITY folderProps.information.label "Bilgiler:">
-<!ENTITY folderProps.name.label "İsmi:">
-<!ENTITY folderProps.name.accesskey              "s">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY folderProps.windowtitle.label "Özellikler">
-<!ENTITY folderQuotaRoot.label "Kota kökü:">
-<!ENTITY folderQuotaStatus.label "Durum:">
-<!ENTITY folderQuotaTab.label "Kota">
-<!ENTITY folderQuotaUsage.label "Kullanım:">
-<!ENTITY folderRebuildSummaryFile.label          "Tamir">
-<!ENTITY folderRebuildSummaryFile.accesskey      "T">
-<!ENTITY folderRebuildSummaryFileTip.label       "Özet dosyasını tamir et"> 
-<!ENTITY folderSharingTab.label                  "Ortak Kullanma">
-<!ENTITY folderType.label "Dizin Türü:">
+
 <!ENTITY generalInfo.label "Genel Bilgiler">
-<!ENTITY offlineFolder.button.label "Hemen İndir">
-<!ENTITY offlineFolder.button.accesskey          "D">
-<!ENTITY offlineFolder.check.label "Bu dizini çevrimdışı kullanım için seç">
-<!ENTITY offlineFolder.check.accesskey           "V">
-<!ENTITY offlineNewsgroup.button.label "Hemen İndir">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
-<!ENTITY permissionsDesc.label "Şu izinleriniz var:">
-<!ENTITY privileges.button.label "Öncelikli haklar">
-<!ENTITY privileges.button.accesskey             "H">
-<!ENTITY privilegesDesc.label "Bu ve diğer dizinleri ağdaki kullanıcılarla paylaş">
-<!ENTITY selectofflineNewsgroup.check.label "Bu haber grubunu çevrimdışı kullanımı için seç">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "u">
-
+<!ENTITY folderCharsetTab.label "Öntanımlı karakter kodlaması:">
+<!ENTITY folderCharsetTab.accesskey "e">
+<!ENTITY folderCharsetOverride.label "Öntanımlamayı bu dizindeki postalara uyumla.">
+<!ENTITY folderCharsetOverride.accesskey "a">
+<!ENTITY folderRebuildSummaryFile.label "Tamir">
+<!ENTITY folderRebuildSummaryFile.accesskey "T">
+<!ENTITY folderRebuildSummaryFileTip.label "Özet dosyasını tamir et">
+     
 <!ENTITY retention.label "Kayıt Güvenliği">
-<!ENTITY retentionUseDefault.label  "Sunucu varsayılanlarını kullan">
+<!ENTITY retentionUseDefault.label "Sunucu varsayılanlarını kullan">
 <!ENTITY retentionUseDefault.accesskey "S">
-<!ENTITY days.label " günden eski mesajları sil">
-<!ENTITY daysOld.label " gün eski">
-<!ENTITY message.label " mesajı bırak.">
-<!ENTITY retentionCleanup.label "Boş yer kazanmak için eski mesajlarınızı düzenli aralıklar ile silebilirsiniz.">
-<!ENTITY retentionKeepMsg.label "Son ">
-<!ENTITY retentionKeepMsg.accesskey "N">
+<!ENTITY daysOld.label "gün eski">
+<!ENTITY message.label "ileti">
+<!ENTITY retentionCleanup.label "Boş yer kazanmak için eski iletileri düzenli aralıklar ile silebilirsiniz.">
+<!ENTITY retentionCleanupImap.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler ve yerel kopyaları tamamen silinebilir.">
+<!ENTITY retentionCleanupPop.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler tamamen silinebilir.">
+<!ENTITY retentionDeleteMsg.label "Silinecek iletilerin büyuklük alt sınırı">
+<!ENTITY retentionDeleteMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Hiçbir mesajı silme.">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Hepsini sil fakat son ">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Okunan mesajları devamlı sil">
-<!ENTITY retentionKeepUnread.accesskey "S">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepRecent.label "Güncel iletiler dışındakileri sil">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
+<!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri silme">
+<!ENTITY retentionApplyToFlagged.accesskey "Y">
 
-<!ENTITY folderProps.location.label              "Konum:">
-<!ENTITY folderProps.location.accesskey          "M">
+<!ENTITY folderSynchronizationTab.label "Eşzamanlama">
+<!ENTITY folderCheckForNewMessages.label "Bu klasörde yeni mesajları kontrol et">
+<!ENTITY folderCheckForNewMessages.accesskey "j">
+
+<!ENTITY offlineFolder.check.label "Bu dizini çevrimdışı kullanım için seç">
+<!ENTITY offlineFolder.check.accesskey "v">
+<!ENTITY offlineFolder.button.label "Hemen İndir">
+<!ENTITY offlineFolder.button.accesskey "d">
+
+<!ENTITY selectofflineNewsgroup.check.label "Bu haber grubunu çevrimdışı kullanımı için seç">
+<!ENTITY selectofflineNewsgroup.check.accesskey "u">
+<!ENTITY offlineNewsgroup.button.label "Hemen İndir">
+<!ENTITY offlineNewsgroup.button.accesskey "d">
+
+<!ENTITY folderProps.name.label "İsmi:">
+<!ENTITY folderProps.name.accesskey "s">
+<!ENTITY folderProps.location.label "Konum:">
+<!ENTITY folderProps.location.accesskey "m">
+
+<!ENTITY folderSharingTab.label "Ortak Kullanma">
+<!ENTITY privileges.button.label "Öncelikli haklar">
+<!ENTITY privileges.button.accesskey "h">
+<!ENTITY permissionsDesc.label "Şu izinleriniz var:">
+<!ENTITY folderType.label "Dizin Türü:">
+
+<!ENTITY folderQuotaTab.label "Kota">
+<!ENTITY folderQuotaRoot.label "Kota kökü:">
+<!ENTITY folderQuotaUsage.label "Kullanım:">
+<!ENTITY folderQuotaStatus.label "Durum:">

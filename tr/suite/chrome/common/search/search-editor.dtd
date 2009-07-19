@@ -43,12 +43,12 @@
 
 <!ENTITY add.label "Add">
 <!ENTITY add.accesskey "a">
-<!ENTITY remove.label "Remove">
+<!ENTITY remove.label "Kaldır">
 <!ENTITY remove.accesskey "r">
 
 <!ENTITY new.category.label "Yeni…">
-<!ENTITY new.category.accesskey "y">
+<!ENTITY new.category.accesskey "Y">
 <!ENTITY rename.category.label "Rename…">
 <!ENTITY rename.category.accesskey "e">
 <!ENTITY remove.category.label "Sil">
-<!ENTITY remove.category.accesskey "s">
+<!ENTITY remove.category.accesskey "S">

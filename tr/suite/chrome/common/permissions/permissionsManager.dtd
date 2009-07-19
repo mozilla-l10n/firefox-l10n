@@ -1,15 +1,15 @@
 <!ENTITY windowtitle.label "Ayrıcalıklar">
 <!ENTITY treehead.sitename.label "Site">
-<!ENTITY treehead.status.label "Status">
-<!ENTITY remove.label "Remove Site">
-<!ENTITY remove.accesskey "R">
+<!ENTITY treehead.status.label "Durum">
+<!ENTITY remove.label "Siteyi sil">
+<!ENTITY remove.accesskey "S">
 <!ENTITY removeall.label "Tüm siteleri sil">
 <!ENTITY removeall.accesskey "e">
 <!ENTITY address.label "Site adresi:">
 <!ENTITY address.accesskey "d">
 <!ENTITY block.label "Engelle">
-<!ENTITY block.accesskey "G">
-<!ENTITY session.label "Allow for Session">
-<!ENTITY session.accesskey "S">
-<!ENTITY allow.label "Allow">
-<!ENTITY allow.accesskey "A">
+<!ENTITY block.accesskey "g">
+<!ENTITY session.label "Oturum boyunca izin ver">
+<!ENTITY session.accesskey "r">
+<!ENTITY allow.label "İzin ver">
+<!ENTITY allow.accesskey "e">

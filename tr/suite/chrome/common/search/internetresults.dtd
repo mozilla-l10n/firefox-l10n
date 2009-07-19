@@ -36,12 +36,12 @@
 
 <!ENTITY results.title.label "Results:">
 
-<!ENTITY name.column.label "Name">
+<!ENTITY name.column.label "Adı:">
 <!ENTITY relevance.column.label "Relevance">
 <!ENTITY pagerank.column.label "Page Ranking">
 <!ENTITY price.column.label "Price">
 <!ENTITY availability.column.label "Availability">
-<!ENTITY date.column.label "Date">
+<!ENTITY date.column.label "Tarih">
 <!ENTITY site.column.label "Internet Site">
 <!ENTITY results.header.label "Search Results">
 <!ENTITY engine.column.label "Search Engine">

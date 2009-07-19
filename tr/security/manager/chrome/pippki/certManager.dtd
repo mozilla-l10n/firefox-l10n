@@ -78,7 +78,7 @@
 <!ENTITY certmgr.editcert.trustemail "Bu sertifika posta kullanıcılarını tanımlar.">
 <!ENTITY certmgr.editcert.trustobjsign "Bu sertifika yazılımcıları belirler.">
 <!ENTITY certmgr.editsslcert.edittrust "Sertifika güven ayarlarını düzeni:">
-<!ENTITY certmgr.editsslcert.dotrust "Bu sertifikanın dogrulugu güvensiz.">
+<!ENTITY certmgr.editsslcert.dotrust "Bu sertifikanın doğruluğu güvensiz.">
 <!ENTITY certmgr.editsslcert.donttrust "Bu sertifikanın doğruluğuna güvenme.">
 <!ENTITY certmgr.editemailcert.title "E-posta sertifika güvenlik ayarlarını düzenle">
 <!ENTITY certmgr.editemailcert.edittrust "Sertifika güvenlik ayarlarını düzenle:">

@@ -38,22 +38,22 @@
 <!ENTITY newDirectoryTitle.label "Dizin Sunucusu Özellikleri">
 <!ENTITY directoryName.label "İsim:">
 <!ENTITY directoryName.accesskey "s">
-<!ENTITY directoryHostname.label "Makina adı:">
-<!ENTITY directoryHostname.accesskey "m">
+<!ENTITY directoryHostname.label "Makine adı:">
+<!ENTITY directoryHostname.accesskey "M">
 <!ENTITY directoryBaseDN.label "Temel DN:">
-<!ENTITY directoryBaseDN.accesskey "t">
+<!ENTITY directoryBaseDN.accesskey "T">
 <!ENTITY findButton.label "Bul">
-<!ENTITY findButton.accesskey "b">
+<!ENTITY findButton.accesskey "B">
 <!ENTITY directorySecure.label "Güvenli bağlantı kullan (SSL)">
-<!ENTITY directorySecure.accesskey "Ü">
+<!ENTITY directorySecure.accesskey "ü">
 <!ENTITY directoryLogin.label "Kullanıcı adı ve parola ile oturum aç">
-<!ENTITY directoryLogin.accesskey "k">
+<!ENTITY directoryLogin.accesskey "K">
 <!ENTITY General.tab "Genel">
 <!ENTITY Offline.tab "Çevrimdışı">
 <!ENTITY Advanced.tab "Gelişmiş">
 <!ENTITY portNumber.label "Port numarası:">
-<!ENTITY portNumber.accesskey "p">
-<!ENTITY searchFilter.label "Arama filtresi:">
+<!ENTITY portNumber.accesskey "P">
+<!ENTITY searchFilter.label "Arama süzgeci:">
 <!ENTITY searchFilter.accesskey "r">
 <!ENTITY scope.label "Kapsam:">
 <!ENTITY scope.accesskey "p">
@@ -63,12 +63,12 @@
 <!ENTITY scopeSubtree.accesskey "A">
 <!ENTITY return.label "Daha fazla döndürme">
 <!ENTITY return.accesskey "h">
-<!ENTITY results.label "Sonuçları geri ver">
+<!ENTITY results.label "sonuç">
 <!ENTITY offlineText.label "Çevrimdışı çalıştığınızda kullanabilmek için bu dizinin yerel bir kopyasını bilgisayarınıza alabilirsiniz.">
 <!ENTITY saslMechanism.label "Giriş yöntemı: ">
 <!ENTITY saslMechanism.accesskey "y">
 <!ENTITY saslOff.label "Basit (Simple)">
-<!ENTITY saslOff.accesskey "l">
+<!ENTITY saslOff.accesskey "B">
 <!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey "K">
 <!-- Localization note: this is here because the width of the dialog 

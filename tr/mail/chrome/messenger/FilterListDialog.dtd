@@ -1,29 +1,29 @@
+<!ENTITY window.title "Posta Süzgeçleri">
+<!ENTITY nameColumn.label "Süzgeç İsmi">
 <!ENTITY activeColumn.label "Etkin">
+<!ENTITY newButton.label "Yeni…">
+<!ENTITY newButton.accesskey "Y">
+<!ENTITY editButton.label "Düzenle…">
+<!ENTITY editButton.accesskey "e">
+<!ENTITY deleteButton.label "Sil">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY reorderUpButton.label "Yukarıya">
+<!ENTITY reorderUpButton.accesskey "Y">
+<!ENTITY reorderDownButton.label "Aşağıya">
+<!ENTITY reorderDownButton.accesskey "A">
+<!ENTITY filterHeader.label "Süzgeçler aşağıdaki sıralamaya göre otomatik olarak çalıştırılır.">
+<!ENTITY filtersForPrefix.label "Süzgeçlenecek Hesap:">
+<!ENTITY filtersForPrefix.accesskey "S">
+<!ENTITY viewLogButton.label "Süzgeç Günlüğü">
+<!ENTITY viewLogButton.accesskey "l">
+<!ENTITY runFilters.label "Şimdi Çalıştır">
+<!ENTITY runFilters.accesskey "a">
+<!ENTITY stopFilters.label "Dur">
+<!ENTITY stopFilters.accesskey "D">
+<!ENTITY folderPickerPrefix.label "Seçili süzgeçler bu klasör içinde uygulansın:">
+<!ENTITY folderPickerPrefix.accesskey "i">
 <!ENTITY choosethis.label "bu dizinleri seç">
 <!ENTITY choosethisnewsserver.label "bu haber sunucusunu seç">
-<!ENTITY closeCmd.key "W">
-<!ENTITY deleteButton.accesskey "S">
-<!ENTITY deleteButton.label "Sil">
-<!ENTITY editButton.accesskey "e">
-<!ENTITY editButton.label "Düzenle...">
-<!ENTITY filterHeader.label "Süzgeçler aşağıdaki sıralamaya göre otomatik olarak çalıştırılır.">
-<!ENTITY filtersForPrefix.accesskey "S">
-<!ENTITY filtersForPrefix.label "Süzgeçlenecek Hesap:">
-<!ENTITY folderPickerPrefix.accesskey "i">
-<!ENTITY folderPickerPrefix.label "Seçili süzgeçler bu klasör içinde uygulansın:">
-<!ENTITY helpButton.accesskey "Y">
 <!ENTITY helpButton.label "Yardım">
-<!ENTITY nameColumn.label "Süzgeç İsmi">
-<!ENTITY newButton.accesskey "Y">
-<!ENTITY newButton.label "Yeni...">
-<!ENTITY reorderDownButton.accesskey "ğ">
-<!ENTITY reorderDownButton.label "Aşağıya">
-<!ENTITY reorderUpButton.accesskey "Y">
-<!ENTITY reorderUpButton.label "Yukarıya">
-<!ENTITY runFilters.accesskey "A">
-<!ENTITY runFilters.label "Şimdi Çalıştır">
-<!ENTITY stopFilters.accesskey "D">
-<!ENTITY stopFilters.label "Dur">
-<!ENTITY viewLogButton.accesskey "L">
-<!ENTITY viewLogButton.label "Süzgeç Günlüğü">
-<!ENTITY window.title "Posta Süzgeçleri">
+<!ENTITY helpButton.accesskey "Y">
+<!ENTITY closeCmd.key "W">

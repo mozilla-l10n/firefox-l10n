@@ -1,34 +1,34 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Yer sıkıntısı çekmemek için indirilmeyenler:">
 <!ENTITY doNotDownload.label "Sabit diske kaydet ( Çevrimdışı kullanım için indirme):">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
-<!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "Mesajlar ">
-<!ENTITY offlineNotDownload.accesskey "R">
-<!ENTITY kb.label " KB den büyük ise indirme.">
-<!ENTITY daysOld.label "günden eski mesajları indir.">
-<!ENTITY message.label "mesajı bırak.">
+<!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
+<!ENTITY allFoldersOffline.accesskey "H">
+<!ENTITY offlineNotDownload.label "İletiler">
+<!ENTITY offlineNotDownload.accesskey "r">
+<!ENTITY kb.label "KB den büyük ise indirme">
+<!ENTITY daysOld.label "günden eski iletileri indir">
+<!ENTITY message.label "iletiyi bırak">
 <!ENTITY nntpNotDownloadRead.label "Mesajları oku">
 <!ENTITY nntpNotDownloadRead.accesskey "s">
-<!ENTITY nntpDownloadMsg.label "Son ">
-<!ENTITY nntpDownloadMsg.accesskey "n">
-<!ENTITY retentionCleanup.label "Boşyer kazanmak için eski mesajlarınızı düzenli aralıklar ile silebilirsiniz.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both the local copies and their originals on the server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including their originals on the server.">
-<!ENTITY retentionKeepMsg.label "Son ">
-<!ENTITY retentionKeepMsg.accesskey "n">
-<!ENTITY retentionKeepAll.label "Hiçbir mesajı silme.">
-<!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "b">
+<!ENTITY nntpDownloadMsg.label "İleti boyutunun alt sınırı">
+<!ENTITY nntpDownloadMsg.accesskey "ı">
+<!ENTITY retentionCleanup.label "boş yer kazanmak için eski iletireri düzenli aralıklar ile silebilirsiniz.">
+<!ENTITY retentionCleanupImap.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler ve yerel kopyaları tamamen silinebilir.">
+<!ENTITY retentionCleanupPop.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler tamamen silinebilir.">
+<!ENTITY retentionKeepMsg.label "Silinecek iletilerin büyüklük alt sınırı">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Hiçbir iletiyi silme">
+<!ENTITY retentionKeepAll.accesskey "H">
+<!ENTITY retentionKeepRecent.label "Son gelenler hariç bütün iletileri sil">
+<!ENTITY retentionKeepRecent.accesskey "S">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
-<!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
-<!ENTITY nntpRemoveMsgBody.accesskey "o">
-<!ENTITY offlineSelectNntp.label "Çevrim dışı kullanım için Haber grubu seçin…">
-<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
+<!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri hiçbir zaman silme">
+<!ENTITY retentionApplyToFlagged.accesskey "Y">
+<!ENTITY nntpRemoveMsgBody.label "Gövdesi silinecek ileti boyutunun alt sınırı">
+<!ENTITY nntpRemoveMsgBody.accesskey "ö">
+<!ENTITY offlineSelectNntp.label "Çevrim dışı kullanım için haber grubu seçin…">
+<!ENTITY offlineSelectNntp.accesskey "s">
 <!ENTITY offlineImapAdvancedOffline.label "Gelişmiş…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "g">
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
-<!ENTITY diskspaceGroupTitle.label "Disk Alanı">
+<!ENTITY offlineImapAdvancedOffline.accesskey "G">
+<!ENTITY syncGroupTitle.label "İleti eşzamanlaması">
+<!ENTITY diskspaceGroupTitle.label "Disk alanı">

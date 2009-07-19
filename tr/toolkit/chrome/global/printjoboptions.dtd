@@ -5,8 +5,8 @@
 <!ENTITY paperInput.label "Sayfa boyutu:">
 <!ENTITY paperInput.accesskey "f">
 
-<!ENTITY plexInput.label "Plex modu:">
-<!ENTITY plexInput.accesskey "m">
+<!ENTITY plexInput.label "Plex kipi:">
+<!ENTITY plexInput.accesskey "k">
 
 <!ENTITY resolutionInput.label "Çözülüm/Kalite:">
 <!ENTITY resolutionInput.accesskey "e">

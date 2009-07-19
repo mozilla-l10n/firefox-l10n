@@ -35,8 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.mailnews.title "Mail &amp; Newsgroups">
-<!ENTITY generalSettings.caption "Genel Ayarlar">
+<!ENTITY pref.mailnews.title "Posta ve haber grupları">
+<!ENTITY generalSettings.caption "Genel ayarlar">
 <!ENTITY confirmMove.label "Confirm when moving folders to the Trash">
 <!ENTITY confirmMove.accesskey "C">
 <!ENTITY preserveThreading.label "Preserve threading when sorting messages">
@@ -45,19 +45,19 @@
 <!ENTITY mailBiffOnNewWindow.accesskey "O">
 
 <!ENTITY defaultMailSettings.description "Make &brandShortName; the default application for:">
-<!ENTITY setDefaultMail.label "Mail">
-<!ENTITY setDefaultMail.accesskey "M">
-<!ENTITY setDefaultNews.label "News">
-<!ENTITY setDefaultNews.accesskey "N">
-<!ENTITY setDefaultFeed.label "Feeds">
-<!ENTITY setDefaultFeed.accesskey "e">
+<!ENTITY setDefaultMail.label "E-posta">
+<!ENTITY setDefaultMail.accesskey "E">
+<!ENTITY setDefaultNews.label "Haberler">
+<!ENTITY setDefaultNews.accesskey "H">
+<!ENTITY setDefaultFeed.label "Canlı yer imleri">
+<!ENTITY setDefaultFeed.accesskey "C">
 
-<!ENTITY messengerStartPage.caption "Mail Start Page">
-<!ENTITY enableStartPage.label "When Mail launches, show the Start Page in the message area">
-<!ENTITY enableStartPage.accesskey "W">
-<!ENTITY location.label "Location:">
-<!ENTITY location.accesskey "L">
-<!ENTITY useDefault.label "Restore Default">
-<!ENTITY useDefault.accesskey "D">
+<!ENTITY messengerStartPage.caption "Posta başlangıç sayfası">
+<!ENTITY enableStartPage.label "Posta açıldığında ileti alanında başlangıç sayfasını göster">
+<!ENTITY enableStartPage.accesskey "g">
+<!ENTITY location.label "Konum:">
+<!ENTITY location.accesskey "K">
+<!ENTITY useDefault.label "Öntanımlı Ayarlara Dön">
+<!ENTITY useDefault.accesskey "r">
 <!ENTITY rememberLastMsg.label "Remember the last selected message">
 <!ENTITY rememberLastMsg.accesskey "R">

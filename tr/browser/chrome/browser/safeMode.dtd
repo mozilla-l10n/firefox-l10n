@@ -46,13 +46,13 @@
 <!ENTITY disableAddons.accesskey "B">
 
 <!ENTITY resetToolbars.label "Araç çubuğunu ve kontrol ayarlarını sıfırla">
-<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY resetToolbars.accesskey "r">
 
 <!ENTITY resetBookmarks.label "&brandShortName; öntanımlı yer imlerini etkinleştir">
 <!ENTITY resetBookmarks.accesskey "y">
 
 <!ENTITY resetUserPrefs.label "Bütün kullanıcı ayarlarını &brandShortName; öntanımlı ayarlara getir">
-<!ENTITY resetUserPrefs.accesskey "b">
+<!ENTITY resetUserPrefs.accesskey "B">
 
 <!ENTITY restoreSearch.label "Öntanımlı arama motorlarını geri getir">
 <!ENTITY restoreSearch.accesskey "t">

@@ -1,6 +1,6 @@
 <!-- address labels -->
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
-<!ENTITY toAddr.label "Nereye:">
+<!ENTITY toAddr.label "Kime:">
 <!ENTITY ccAddr.label "İlgili kopyası:">
 <!ENTITY bccAddr.label "Gizli kopya:">
 <!ENTITY replyAddr.label "Yanıt adresi:">

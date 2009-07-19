@@ -1,76 +1,108 @@
-<!ENTITY AlignCenter.label "Merkez">
-<!ENTITY AlignLeft.label "Sol">
-<!ENTITY AlignRight.label "Sağ">
-<!ENTITY applyBeforeChange1.label "Geçerli değişiklikler uygulanacak">
-<!ENTITY applyBeforeChange2.label "seçimi değiştirmeden önce.">
-<!ENTITY backgroundColor.accessKey "Z">
-<!ENTITY backgroundColor.label "Zemin Rengi:">
-<!ENTITY cellAlignAtChar.label "Bu karakterden:">
-<!ENTITY cellAlignBottom.label "Alt">
-<!ENTITY cellAlignJustify.label "Ayarla">
-<!ENTITY cellAlignMiddle.label "Orta">
-<!ENTITY cellAlignTop.label "Üst">
-<!ENTITY cellApplyBeforeMove.label "Seçimi değiştirmeden önce değişiklikleri uygula">
-<!ENTITY cellColSpan.label "Kolon Genişliği:">
-<!ENTITY cellContentAlignment.label "İçerik Yerleşimi">
-<!ENTITY cellHeader.label "Başlık">
-<!ENTITY cellHorizontal.accessKey "T">
-<!ENTITY cellHorizontal.label "Yatay:">
-<!ENTITY cellInheritColor.label "(Tablonun baştan başa rengini göster)">
-<!ENTITY cellKeepCurrentData.label "Geçerli ayarları koru">
-<!ENTITY cellNoWrap.label "Kaydırma">
-<!ENTITY cellNormal.label "Normal">
-<!ENTITY cellPercent.label "tablonun yüzdesi">
-<!ENTITY cellRowSpan.label "Satır Genişliği:">
-<!ENTITY cellSelectCell.label "Hücre">
-<!ENTITY cellSelectColumn.label "Kolon">
-<!ENTITY cellSelectNext.accessKey "N">
-<!ENTITY cellSelectNext.label "Sonraki">
-<!ENTITY cellSelectPrevious.accessKey "N">
-<!ENTITY cellSelectPrevious.label "Önceki">
-<!ENTITY cellSelectRow.label "Satır">
-<!ENTITY cellSelection.label "Seçim">
-<!ENTITY cellStyle.accessKey "H">
-<!ENTITY cellStyle.label "Hücre biçimi:">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title "Tablo Özellikleri">
+<!ENTITY applyButton.label "Uygula">
+<!ENTITY applyButton.accesskey "a">
+<!ENTITY closeButton.label "Kapat">
+<!ENTITY tableTab.label "Tablo">
 <!ENTITY cellTab.label "Hücreler">
-<!ENTITY cellTextWrap.accessKey "M">
-<!ENTITY cellTextWrap.label "Metin Kaydırma:">
-<!ENTITY cellUseCheckboxHelp.label "Tüm seçilen hücrelere hangi özelliklerin uygulandığını belirlemek için işaret kutucuğunu kullan">
-<!ENTITY cellVertical.accessKey "D">
-<!ENTITY cellVertical.label "Düşey:">
-<!ENTITY cellWrap.label "Kaydır">
-<!ENTITY pixels.label "piksel">
-<!ENTITY size.label "Boyut">
-<!ENTITY tableAlignment.accessKey "T">
-<!ENTITY tableAlignment.label "Tablo Yerleşimi:">
+<!ENTITY tableRows.label "Sıralar:">
+<!ENTITY tableRows.accessKey "S">
+<!ENTITY tableColumns.label "Kolonlar:">
+<!ENTITY tableColumns.accessKey "n">
+<!ENTITY tableHeight.label "Yükseklik:">
+<!ENTITY tableHeight.accessKey "k">
+<!ENTITY tableWidth.label "Genişlik:">
+<!ENTITY tableWidth.accessKey "n">
 <!ENTITY tableBorderSpacing.label "Çerçeveler ve Aralıklar">
-<!ENTITY tableBorderWidth.accessKey "R">
 <!ENTITY tableBorderWidth.label "Kenar:">
-<!ENTITY tableCaption.accessKey "B">
+<!ENTITY tableBorderWidth.accessKey "r">
+<!ENTITY tableSpacing.label "Aralık:">
+<!ENTITY tableSpacing.accessKey "A">
+<!ENTITY tablePadding.label "Dolgu:">
+<!ENTITY tablePadding.accessKey "o">
+<!ENTITY tablePxBetwCells.label "piksel hücreler arasında">
+<!ENTITY tablePxBetwBrdrCellContent.label "piksel, hücre çerçevesi ile içerik arasında">
+<!ENTITY tableAlignment.label "Tablo Yerleşimi:">
+<!ENTITY tableAlignment.accessKey "T">
 <!ENTITY tableCaption.label "Başlık:">
+<!ENTITY tableCaption.accessKey "B">
 <!ENTITY tableCaptionAbove.label "Tablonun Üstünde">
 <!ENTITY tableCaptionBelow.label "Tablonun Altında">
 <!ENTITY tableCaptionLeft.label "Tablonun solu">
-<!ENTITY tableCaptionNone.label "Hiçbiri">
 <!ENTITY tableCaptionRight.label "Tablonun sağı">
-<!ENTITY tableColumns.accessKey "n">
-<!ENTITY tableColumns.label "Kolonlar:">
-<!ENTITY tableHeight.accessKey "K">
-<!ENTITY tableHeight.label "Yükseklik:">
+<!ENTITY tableCaptionNone.label "Hiçbiri">
 <!ENTITY tableInheritColor.label "(Baştan başa sayfa rengini göster)">
-<!ENTITY tablePadding.accessKey "o">
-<!ENTITY tablePadding.label "Dolgu:">
-<!ENTITY tablePxBetwBrdrCellContent.label "piksel, hücre çerçevesi ile içerik arasında">
-<!ENTITY tablePxBetwCells.label "piksel hücreler arasında">
-<!ENTITY tableRows.accessKey "S">
-<!ENTITY tableRows.label "Sıralar:">
-<!ENTITY tableSpacing.accessKey "A">
-<!ENTITY tableSpacing.label "Aralık:">
-<!ENTITY tableTab.label "Tablo">
-<!ENTITY tableWidth.accessKey "N">
-<!ENTITY tableWidth.label "Genişlik:">
-<!ENTITY tableWindow.title "Tablo Özellikleri">
-<!ENTITY applyButton.label                "Uygula">
-<!ENTITY applyButton.accesskey            "A">
 
-<!ENTITY closeButton.label     "Kapat">
+<!ENTITY cellSelection.label "Seçim">
+<!ENTITY cellSelectCell.label "Hücre">
+<!ENTITY cellSelectRow.label "Satır">
+<!ENTITY cellSelectColumn.label "Kolon">
+<!ENTITY cellSelectNext.label "Sonraki">
+<!ENTITY cellSelectNext.accessKey "n">
+<!ENTITY cellSelectPrevious.label "Önceki">
+<!ENTITY cellSelectPrevious.accessKey "n">
+<!ENTITY applyBeforeChange.label "Şu anki değişiklikler, seçim değişikliğinden önce uygulanacaktır.">
+<!ENTITY cellContentAlignment.label "İçerik Yerleşimi">
+<!ENTITY cellHorizontal.label "Yatay:">
+<!ENTITY cellHorizontal.accessKey "t">
+<!ENTITY cellVertical.label "Düşey:">
+<!ENTITY cellVertical.accessKey "D">
+<!ENTITY cellStyle.label "Hücre biçimi:">
+<!ENTITY cellStyle.accessKey "H">
+<!ENTITY cellNormal.label "Normal">
+<!ENTITY cellHeader.label "Başlık">
+<!ENTITY cellTextWrap.label "Metin Kaydırma:">
+<!ENTITY cellTextWrap.accessKey "M">
+<!ENTITY cellWrap.label "Kaydır">
+<!ENTITY cellNoWrap.label "Kaydırma">
+<!ENTITY cellAlignTop.label "Üst">
+<!ENTITY cellAlignMiddle.label "Orta">
+<!ENTITY cellAlignBottom.label "Alt">
+<!ENTITY cellAlignJustify.label "Ayarla">
+<!ENTITY cellInheritColor.label "(Tablonun baştan başa rengini göster)">
+<!ENTITY cellUseCheckboxHelp.label "Tüm seçilen hücrelere hangi özelliklerin uygulandığını belirlemek için işaret kutucuğunu kullan">
+<!-- Used in both Table and Cell panels  -->
+
+<!ENTITY size.label "Boyut">
+<!ENTITY pixels.label "piksel">
+<!ENTITY backgroundColor.label "Zemin Rengi:">
+<!ENTITY backgroundColor.accessKey "Z">
+<!ENTITY AlignLeft.label "Sol">
+<!ENTITY AlignCenter.label "Merkez">
+<!ENTITY AlignRight.label "Sağ">

@@ -1,12 +1,12 @@
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
 <!ENTITY historyWindowTitle.label "Geçmiş">
-<!ENTITY menuBar.tooltip "Menü Çubuğu">
-<!ENTITY searchBar.tooltip "Search Bar">
+<!ENTITY menuBar.tooltip "Menü çubuğu">
+<!ENTITY searchBar.tooltip "Arama çubuğu">
 
 <!ENTITY search.emptytext "Geçmişte ara">
 <!ENTITY search.key "f">
-<!ENTITY view.label "View">
+<!ENTITY view.label "Görünüm">
 
 <!ENTITY view.columns.label "Sütunları göster">
 <!ENTITY view.columns.accesskey "S">
@@ -16,7 +16,7 @@
 <!ENTITY view.groupBy.accesskey "G">
 
 <!ENTITY view.unsorted.label "Sınıflanmamış">
-<!ENTITY view.unsorted.accesskey "F">
+<!ENTITY view.unsorted.accesskey "f">
 <!ENTITY view.sortAscending.label "A'dan Z'ye sırala">
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Z'den A'ya sırala">
@@ -25,29 +25,29 @@
 <!ENTITY view.groupNone.label "Hiçbiri">
 <!ENTITY view.groupNone.accesskey "H">
 <!ENTITY view.groupDay.label "Gün">
-<!ENTITY view.groupDay.accesskey "G">
+<!ENTITY view.groupDay.accesskey "ü">
 <!ENTITY view.groupSite.label "Site">
 <!ENTITY view.groupSite.accesskey "S">
-<!ENTITY view.groupDayAndSite.label "Day and Site">
-<!ENTITY view.groupDayAndSite.accesskey "a">
+<!ENTITY view.groupDayAndSite.label "Gün ve site">
+<!ENTITY view.groupDayAndSite.accesskey "G">
 
 <!ENTITY cmd.open.label "Aç">
 <!ENTITY cmd.open.accesskey "A">
-<!ENTITY cmd.open_window.label "Open Link in New Window">
-<!ENTITY cmd.open_window.accesskey "W">
-<!ENTITY cmd.open_tab.label "Open Link in New Tab">
-<!ENTITY cmd.open_tab.accesskey "T">
+<!ENTITY cmd.open_window.label "Yeni pencerede aç">
+<!ENTITY cmd.open_window.accesskey "Y">
+<!ENTITY cmd.open_tab.label "Yeni sekmede aç">
+<!ENTITY cmd.open_tab.accesskey "s">
 
-<!ENTITY bookmarkLinkCmd.label "Yer imlerine ekle">
-<!ENTITY bookmarkLinkCmd.accesskey "Y">
-<!ENTITY bookmarkLinksCmd.label "Bookmark These Links">
-<!ENTITY bookmarkLinksCmd.accesskey "B">
+<!ENTITY bookmarkLinkCmd.label "Yer imlerine ekle…">
+<!ENTITY bookmarkLinkCmd.accesskey "r">
+<!ENTITY bookmarkLinksCmd.label "Yer imlerine ekle">
+<!ENTITY bookmarkLinksCmd.accesskey "e">
 
 <!ENTITY col.title.label "Başlık">
 <!ENTITY col.title.accesskey "B">
-<!ENTITY col.url.label "Location">
-<!ENTITY col.url.accesskey "L">
-<!ENTITY col.lastvisit.label "Last Visited">
-<!ENTITY col.lastvisit.accesskey "V">
-<!ENTITY col.visitcount.label "Visit Count">
-<!ENTITY col.visitcount.accesskey "C">
+<!ENTITY col.url.label "Konum">
+<!ENTITY col.url.accesskey "K">
+<!ENTITY col.lastvisit.label "Son ziyaret edilenler">
+<!ENTITY col.lastvisit.accesskey "y">
+<!ENTITY col.visitcount.label "Ziyaret sayısı">
+<!ENTITY col.visitcount.accesskey "Z">

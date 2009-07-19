@@ -13,8 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Sözlüğe ekle">
 <!ENTITY spellAddToDictionary.accesskey "S">
-<!ENTITY spellCheckEnable.label "Yazımı denetle">
-<!ENTITY spellCheckEnable.accesskey "Y">
-<!ENTITY spellNoSuggestions.label "(Yazım önerisi yok)">
+<!ENTITY spellCheckEnable.label "İmla denetimi">
+<!ENTITY spellCheckEnable.accesskey "İ">
+<!ENTITY spellNoSuggestions.label "(İmla önerisi yok)">
 <!ENTITY spellDictionaries.label "Diller">
 <!ENTITY spellDictionaries.accesskey "l">

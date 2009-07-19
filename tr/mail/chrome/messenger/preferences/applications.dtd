@@ -1,0 +1,19 @@
+<!ENTITY typeColumn.label "İçerik tipi">
+<!ENTITY typeColumn.accesskey "t">
+
+<!ENTITY actionColumn2.label "Eylem">
+<!ENTITY actionColumn2.accesskey "E">
+
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.emptytext "Ara">
+
+<!ENTITY saveTo.label "Dosyaları kaydetme konumu">
+<!ENTITY saveTo.accesskey "k">
+<!ENTITY alwaysAsk.label "Kaydetme konumu için bana sor">
+<!ENTITY alwaysAsk.accesskey "K">
+<!ENTITY chooseFolderWin.label "Gözat…">
+<!ENTITY chooseFolderWin.accesskey "G">
+<!ENTITY chooseFolderMac.label "Seç…">
+<!ENTITY chooseFolderMac.accesskey "S">

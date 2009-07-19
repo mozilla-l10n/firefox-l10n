@@ -45,12 +45,12 @@
 <!ENTITY copy.accesskey "K">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Tümünü seç">
-<!ENTITY selectall.accesskey "S">
+<!ENTITY selectall.accesskey "s">
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "Genel">
 <!ENTITY generalTab.accesskey "G">
-<!ENTITY generalURL "URL:">
+<!ENTITY generalURL "Adres:">
 <!ENTITY generalType "Tür:">
 <!ENTITY generalMode "Yorum kipi:">
 <!ENTITY generalSize "Boyut:">
@@ -63,40 +63,40 @@
 <!ENTITY generalSecurityDetails "Ayrıntılar">
 <!ENTITY generalSecurityDetails.accesskey "A">
 
-<!ENTITY formsTab "Forms">
-<!ENTITY formsTab.accesskey "B">
-<!ENTITY formAction "Form Action">
-<!ENTITY formMethod "Method">
+<!ENTITY formsTab "Formlar">
+<!ENTITY formsTab.accesskey "F">
+<!ENTITY formAction "Form eylemi">
+<!ENTITY formMethod "Yöntem">
 <!ENTITY formName "Adı:">
 <!ENTITY formEncoding "Kodlama:">
-<!ENTITY formTarget "Target:">
-<!ENTITY formFields "Fields:">
+<!ENTITY formTarget "Hedef:">
+<!ENTITY formFields "Alanlar:">
 <!ENTITY formLabel "Etiket">
-<!ENTITY formFName "Field Name">
+<!ENTITY formFName "Alan adı">
 <!ENTITY formType "Türü">
-<!ENTITY formCValue "Current Value">
+<!ENTITY formCValue "Şu anki değer">
 
-<!ENTITY linksTab "Links">
-<!ENTITY linksTab.accesskey "L">
+<!ENTITY linksTab "Bağlantılar">
+<!ENTITY linksTab.accesskey "l">
 <!ENTITY linkNo "No.">
 <!ENTITY linkName "Adı:">
 <!ENTITY linkAddress "Adres">
 <!ENTITY linkType "Türü">
-<!ENTITY linkTarget "Target">
-<!ENTITY linkAccessKey "Access Key">
+<!ENTITY linkTarget "Hedef">
+<!ENTITY linkAccessKey "Erişim Tuşu">
 
 <!ENTITY mediaTab "Ortam">
 <!ENTITY mediaTab.accesskey "O">
-<!ENTITY mediaURL "URL:">
-<!ENTITY mediaAlt "Alternate Text:">
+<!ENTITY mediaURL "Adres:">
+<!ENTITY mediaAlt "Alternatif metin:">
 <!ENTITY mediaAltHeader "Alternatif metin">
 <!ENTITY mediaAddress "Adres">
 <!ENTITY mediaType "Türü">
 <!ENTITY mediaSize "Boyut">
 <!ENTITY mediaCount "Sayaç">
-<!ENTITY mediaDimensions "Specified Dimensions:">
-<!ENTITY mediaPhysDimensions "Actual Dimensions:">
-<!ENTITY mediaTitle "Title:">
+<!ENTITY mediaDimensions "Atanan boyutlar:">
+<!ENTITY mediaPhysDimensions "Gerçek boyutlar:">
+<!ENTITY mediaTitle "Başlık:">
 <!ENTITY mediaLongdesc "Ayrıntılı açıklama:">
 <!ENTITY mediaBlockImage.accesskey "O">
 <!ENTITY mediaSaveAs "Farklı kaydet...">
@@ -104,14 +104,14 @@
 <!ENTITY mediaSaveAs2.accesskey "e">
 <!ENTITY mediaPreview "Ortam önizleme:">
 
-<!ENTITY feedTab "Beslemeler">
-<!ENTITY feedTab.accesskey "B">
-<!ENTITY feedSubscribe "Abone ol">
+<!ENTITY feedTab "Canlı yer imleri">
+<!ENTITY feedTab.accesskey "C">
+<!ENTITY feedSubscribe "Üye ol">
 <!ENTITY feedSubscribe.accesskey "o">
 
 <!ENTITY permTab "İzinler">
 <!ENTITY permTab.accesskey "z">
-<!ENTITY permUseDefault "Varsayılanı kullan">
+<!ENTITY permUseDefault "Öntanımlıyı kullan">
 <!ENTITY permAllow "İzin ver">
 <!ENTITY permAllowSession "Oturum boyunca izin ver">
 <!ENTITY permBlock "Engelle">
@@ -125,22 +125,22 @@
 <!ENTITY securityTab.accesskey "G">
 <!ENTITY securityHeader "Sayfanın güvenlik bilgileri">
 <!ENTITY securityView.certView "Sertifikaları göster">
-<!ENTITY securityView.accesskey "G">
+<!ENTITY securityView.accesskey "g">
 <!ENTITY securityView.unknown "Bilinmiyor">
 
 
 <!ENTITY securityView.identity.header "Sayfa kimliği">
-<!ENTITY securityView.identity.owner "Owner: ">
-<!ENTITY securityView.identity.domain "Web site: ">
-<!ENTITY securityView.identity.verifier "Verified by: ">
+<!ENTITY securityView.identity.owner "Sahibi: ">
+<!ENTITY securityView.identity.domain "Web sitesi: ">
+<!ENTITY securityView.identity.verifier "Doğrulayan: ">
 
-<!ENTITY securityView.privacy.header "Güvenlik ve Geçmiş">
+<!ENTITY securityView.privacy.header "Güvenlik ve geçmiş">
 <!ENTITY securityView.privacy.history "Have I visited this website before today?">
 <!ENTITY securityView.privacy.cookies "Bu site bilgisayarıma çerez yerleştirdi mi?">
 <!ENTITY securityView.privacy.viewCookies "Çerezleri göster">
-<!ENTITY securityView.privacy.viewCookies.accessKey "R">
+<!ENTITY securityView.privacy.viewCookies.accessKey "r">
 <!ENTITY securityView.privacy.passwords "Bu sayfaya ait herhangi bir parola kaydettim mi?">
 <!ENTITY securityView.privacy.viewPasswords "Kayıtlı parolaları göster">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "P">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "p">
 
 <!ENTITY securityView.technical.header "Teknik ayrıntılar">

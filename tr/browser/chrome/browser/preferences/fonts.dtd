@@ -4,7 +4,7 @@
 <!ENTITY window.unixWidth "43em">
 
 <!ENTITY language.label "Yazıtipleri:">
-<!ENTITY language.accesskey "T">
+<!ENTITY language.accesskey "t">
 
 <!ENTITY size.label "Boyut:">
 <!ENTITY sizeProportional.accesskey "o">
@@ -40,7 +40,7 @@
 <!ENTITY font.langGroup.tamil "Tamil">
 <!ENTITY font.langGroup.armenian "Ermenice">
 <!ENTITY font.langGroup.bengali "Bengali">
-<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
+<!ENTITY font.langGroup.canadian "Birleştirilmiş Kanada hece alfabesi">
 <!ENTITY font.langGroup.ethiopic "Etiyopik">
 <!ENTITY font.langGroup.georgian "Gürcüce">
 <!ENTITY font.langGroup.gujarati "Gucarati">
@@ -65,4 +65,4 @@
 
 <!ENTITY languages.customize.Charset.grouplabel "Karakter Kodlaması">
 <!ENTITY languages.customize.DefaultCharset.label "Öntanımlı karakter kodlaması:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "K">
+<!ENTITY languages.customize.DefaultCharset.accesskey "k">

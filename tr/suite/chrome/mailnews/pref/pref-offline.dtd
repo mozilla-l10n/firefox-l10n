@@ -1,30 +1,30 @@
 <!-- extracted from content/pref-offline.xul -->
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
 
-<!ENTITY pref.offline.title "Offline &amp; Disk Space">
-<!ENTITY pref.offline.caption "Offline">
+<!ENTITY pref.offline.title "Çevrim dışı ve disk alanı">
+<!ENTITY pref.offline.caption "Çevrim dışı">
 <!ENTITY textStartUp "Başlangıçta bunları yap:">
-<!ENTITY textStartUp.accesskey "W">
-<!ENTITY menuitemRememberPrevState "Remember previous online state">
-<!ENTITY menuitemAskMe "Ask me for online state at startup">
-<!ENTITY menuitemAlwaysOnline "Always start up online">
-<!ENTITY menuitemAlwaysOffline "Always start up offline">
+<!ENTITY textStartUp.accesskey "B">
+<!ENTITY menuitemRememberPrevState "Önceki bağlanma durumunu hatırla">
+<!ENTITY menuitemAskMe "Bana çevrim içi olunup olunmayacağını sor">
+<!ENTITY menuitemAlwaysOnline "Hep çevrim içi başla">
+<!ENTITY menuitemAlwaysOffline "Hep çevrim dışı başla">
 <!ENTITY menuitemAutomatic "Detect automatically (if available)">
 <!ENTITY textGoingOnline "Çevrim içi olunca gönderilmeyen iletiler gönderilsin mi?">
 <!ENTITY radioAutoSend "Evet">
-<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioAutoSend.accesskey "E">
 <!ENTITY radioNotSend "Hayır">
-<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioNotSend.accesskey "H">
 <!ENTITY radioAskUnsent "Bana sor">
 <!ENTITY radioAskUnsent.accesskey "s">
 <!ENTITY textGoingOffline "Çevrim dışı olurken indirilmeyen iletiler indirilsin mi?">
 <!ENTITY radioAutoDownload "Evet">
 <!ENTITY radioAutoDownload.accesskey "E">
 <!ENTITY radioNotDownload "Hayır">
-<!ENTITY radioNotDownload.accesskey "s">
+<!ENTITY radioNotDownload.accesskey "H">
 <!ENTITY radioAskDownload "Bana sor">
-<!ENTITY radioAskDownload.accesskey "k">
-<!ENTITY Diskspace "Disk Space">
+<!ENTITY radioAskDownload.accesskey "s">
+<!ENTITY Diskspace "Disk alanı">
 <!ENTITY offlineCompact.label "Compact folders when it will save over">
 <!ENTITY offlineCompact.accesskey "C">
 <!ENTITY kb.label "KB">

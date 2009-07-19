@@ -34,27 +34,27 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.junk.title "Junk Mail">
+<!ENTITY pref.junk.title "Gereksiz">
 <!ENTITY junkSettings.caption "Global Junk Mail Settings">
 <!ENTITY junkMail.intro "Goto Account Settings to configure account specific junk mail settings.">
 <!-- Junk Mail Controls -->
 
-<!ENTITY manualMark.label "When I mark messages as junk:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
-<!ENTITY manualMarkModeMove.accesskey "M">
+<!ENTITY manualMark.label "İletileri gereksiz olarak işaretlediğimde:">
+<!ENTITY manualMark.accesskey "l">
+<!ENTITY manualMarkModeMove.label "Hesaba ait &quot;Gereksiz&quot; dizinine taşı">
+<!ENTITY manualMarkModeMove.accesskey "t">
 <!ENTITY manualMarkModeDelete.label "İletileri sil">
-<!ENTITY manualMarkModeDelete.accesskey "S">
+<!ENTITY manualMarkModeDelete.accesskey "s">
 
-<!ENTITY markAsRead.intro "Mark messages as read:">
+<!ENTITY markAsRead.intro "Okunmuş olarak işaretle:">
 <!ENTITY autoMarkAsRead.label "When &brandShortName; determines that they are junk">
 <!ENTITY autoMarkAsRead.accesskey "u">
 <!ENTITY manualMarkAsRead.label "When I manually mark them as junk">
 <!ENTITY manualMarkAsRead.accesskey "k">
 
-<!ENTITY enableJunkLogging.label "Enable junk filter logging">
-<!ENTITY enableJunkLogging.accesskey "E">
-<!ENTITY openJunkLog.label "Show log">
-<!ENTITY openJunkLog.accesskey "S">
-<!ENTITY resetTrainingData.label "Reset training data">
-<!ENTITY resetTrainingData.accesskey "t">
+<!ENTITY enableJunkLogging.label "Gereksiz posta süzgeç günlüğü tut">
+<!ENTITY enableJunkLogging.accesskey "e">
+<!ENTITY openJunkLog.label "Günlüğü göster">
+<!ENTITY openJunkLog.accesskey "G">
+<!ENTITY resetTrainingData.label "Ögrenilmiş verileri sil">
+<!ENTITY resetTrainingData.accesskey "r">

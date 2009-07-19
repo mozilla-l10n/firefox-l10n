@@ -1,0 +1,137 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Sayfa yükleme sorunu">
+<!ENTITY retry.label "Yeniden Dene">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Bağlanamıyor">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Adres erişimi kısıtlanmış">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Sunucu bulunamamıştı">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Adresteki yanlışları kontrol ediniz, örn. 
+<strong>www</strong>.example.com yerine 
+<strong>ww</strong>.example.com gibi</li> 
+<li>Eğer hiçbir sayfaya ulaşamıyorsanız bilgisayarınızın ağ bağlantısını 
+kontrol edin.</li> 
+<li>Bilgisayarınız ateş duvarı veya vekil sunucusu  arkasındaysa, 
+&brandShortName; uygulamasının Web erişimi izni olduğundan emin olun.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Dosya bulunamadı">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Dosya isminindeki büyük küçük harf yanlışı gibi yazı yanlışlarını kontrol ediniz.</li> 
+<li>Dosyanın taşındığını, adını değiştirdiğini veya silindiğini kontrol ediniz.</li> 
+</ul>">
+
+<!ENTITY generic.title "Ops.">
+<!ENTITY generic.longDesc "<p>&brandShortName; bazı nedenlerden dolayı bu sayfayı açamıyor.</p>">
+
+<!ENTITY malformedURI.title "Adres geçersiz">
+<!ENTITY malformedURI.longDesc '<ul> 
+<li>Web adreslerinin kullanımı aşağıdaki gibidir: 
+<strong>http://www.lapis.org/</strong></li> 
+<li>Lütfen <strong> "/" </strong> işaretini doğru bir şekilde kullandığınızdan emin olun. 
+/).</li> 
+</ul>'>
+
+<!ENTITY netInterrupt.title "Bağlantı kesilmiş">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Çevrim dışı bağlantı">
+<!ENTITY netOffline.longDesc "<ul> 
+<li>&brandShortName; programını Çevrim içi olarak kullanın ve yeniden deneyin.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "İçerik kodlama hatası">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Güvensiz dosya türü">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Bağlantı sıfırlanmış">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Bağlantı zaman aşımına uğramış">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Adres türü desteklenmiyor">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Bu adresi açmak için başka bir uygulama kurmanız gerekebilir.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Vekil sunucusu bağlantıyı reddediyor">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Vekil sunucu ayarlarının doğruluğunu kontrol edin.</li> 
+<li>Sistem yöneticiniz ile irtibata geçin ve vekil sunucunuzu kontrol ettirin.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Vekil sunucusu bulunamıyor">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Vekil sunucusu ayarlarının doğru olduğundan emin olun.</li> 
+<li>Bilgisayarınızın ağ bağlantısını kontrol edin.</li> 
+<li>Bilgisayarınız vekil sunucusu veya ateş duvarı arkasındaysa,  &brandShortName; uygulamasının Web ulaşımı izni olduğundan emin olun.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Sayfa doğru bir şekilde yönlendirilmiyor">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Bazen bu sorunun nedeni  çerezlerin etkisizleştirilmesi veya 
+reddi olabiliyor.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Beklenmeyen sunucu yanıtı">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Kişisel güvenlik yöneticisinin kurulu olduğundan emin olunuz</li> 
+<li>Standart olmayan sunucu ayarlarından kaynaklanabilir.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Güvenli bağlantı hatası">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Bağlanmaya çalıştığınız sayfanın içerik güvenilirliği doğrulanamadığı için gösterilemiyor.</li> 
+<li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Güvenli bağlantı hatası">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan ya da birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> 
+<li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul> 
+<li>Site geçici olarak ulaşılamıyor veya meşgul. Birkaç 
+saniye sonra tekrar deneyin.</li> 
+<li>Hiç bir sayfaya ulaşamıyorsanız bilgisayarınızın ağ 
+bağlantısını kontrol edin.</li> 
+<li>Bilgisayarınız vekil sunucusu veya ateş duvarı arkasındaysa,  &brandShortName; uygulamasının Web ulaşımı izni olduğundan emin olun.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Şüpheli saldırı sitesi!">
+<!ENTITY malwareBlocked.longDesc "<p>Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p> 
+<p>Yanlışlıkla saldırı sitesi olarak rapor edilen Web sitesi yöneticileri yapılan raporun <a href='http://www.stopbadware.org/home/reviewinfo'> gözden geçirilmesini</a> isteyebilir.</p>">
+
+<!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
+<!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 
+<p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
+
+<!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan uzak tut!">
+<!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to thunderbird. -->
+
+
+<!ENTITY securityOverride.warningText "<p>İnternet bağlantınız tam güvenli değilse veya daha önce bu sunucudan gelen uyarı ile karşılaşmadıysanız ayrıcalık tanımamalısınız.</p> 
+ 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">

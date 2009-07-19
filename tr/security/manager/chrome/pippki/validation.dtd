@@ -50,7 +50,7 @@
 <!ENTITY validation.advanced.accesskey "A">
 
 <!ENTITY validation.crl.autoupdate.title "CRL kendiliğinden güncelleme tercihleri">
-<!ENTITY validation.crl.autoupdate.enable.label "Bu CRL için kendiliğinden güncellmeyi devreye sok">
+<!ENTITY validation.crl.autoupdate.enable.label "Bu CRL için kendiliğinden güncellemeyi devreye sok">
 <!ENTITY validation.crl.autoupdate.time.label1 "Güncelle">
 <!ENTITY validation.crl.autoupdate.time.label2 "Sonraki güncellemeye kalan gün">
 <!ENTITY validation.crl.autoupdate.freq.label1 "Güncelleme sıklığı">

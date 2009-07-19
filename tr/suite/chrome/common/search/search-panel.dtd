@@ -40,11 +40,11 @@
 <!ENTITY within.label "within">
 <!ENTITY using.label "using">
 <!ENTITY choose.label "Choose search engines, then click Search">
-<!ENTITY results.label "Search Results">
+<!ENTITY results.label "Arama sonuçları">
 <!ENTITY engine.column.label "Search Engines">
 <!ENTITY customize.menuitem.label "Edit Categories …">
-<!ENTITY next.button.label "Next">
-<!ENTITY previous.button.label "Previous">
+<!ENTITY next.button.label "Sonraki">
+<!ENTITY previous.button.label "Önceki">
 <!ENTITY next.button.tooltip "Show next search results">
 <!ENTITY previous.button.tooltip "Show previous search results">
 

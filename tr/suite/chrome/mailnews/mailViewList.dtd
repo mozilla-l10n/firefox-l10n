@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "Mesaj Gösterimleri">
-<!ENTITY viewName.label "İsmi Göster">
+<!ENTITY mailViewListTitle.label "İleti gösterimleri">
+<!ENTITY viewName.label "Gösterim ismi">
 

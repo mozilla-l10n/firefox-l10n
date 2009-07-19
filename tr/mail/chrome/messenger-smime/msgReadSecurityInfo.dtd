@@ -1,7 +1,10 @@
-<!ENTITY email.address "E-posta adresi:">
-<!ENTITY encryptionCert.label "Şifreleme sertifikasını görüntüle">
-<!ENTITY issuer.name "Sertifika yayınlayan">
-<!ENTITY recipient.name "Bunun için şifrelenmiş:">
-<!ENTITY signatureCert.label "İmza sertifikasını görüntüle">
-<!ENTITY signer.name "İmzalayan:">
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
 <!ENTITY status.label "İleti güvenliği">
+<!ENTITY signatureCert.label "İmza sertifikasını görüntüle">
+<!ENTITY encryptionCert.label "Şifreleme sertifikasını görüntüle">
+
+<!ENTITY signer.name "İmzalayan:">
+<!ENTITY recipient.name "Bunun için şifrelenmiş:">
+<!ENTITY email.address "E-posta adresi:">
+<!ENTITY issuer.name "Sertifika yayınlayan">

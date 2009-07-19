@@ -1,37 +1,34 @@
-<!ENTITY days.label "günden eski mesajları sil.">
-<!ENTITY daysOld.label "günden eski mesajları indir.">
-<!ENTITY diskspaceGroupTitle.label "Disk Alanı">
-<!ENTITY doNotDownload.label "Sabit diske kaydet ( Çevrimdışı kullanım için indirme):">
 <!ENTITY doNotDownloadPop3Movemail.label "Yer sıkıntısı çekmemek için indirilmeyenler:">
-<!ENTITY kb.label " KB den büyük ise indirme.">
-<!ENTITY makeInboxMsgsAvailable.accesskey "e">
-<!ENTITY makeInboxMsgsAvailable.label "Çevrimdışı çalışacağım zaman gelen posta dizinindeki postalarda çalışmamı sağla">
-<!ENTITY message.label "mesajı bırak.">
-
-<!ENTITY nntpDownloadMsg.accesskey "N">
-<!ENTITY nntpDownloadMsg.label "Son ">
-
-<!ENTITY nntpNotDownloadRead.accesskey "S">
+<!ENTITY doNotDownload.label "Sabit diske kaydet ( Çevrimdışı kullanım için indirme):">
+<!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
+<!ENTITY allFoldersOffline.accesskey "H">
+<!ENTITY offlineNotDownload.label "İletiler">
+<!ENTITY offlineNotDownload.accesskey "r">
+<!ENTITY kb.label "KB den büyük ise indirme">
+<!ENTITY daysOld.label "günden eski iletileri indir">
+<!ENTITY message.label "iletiyi bırak">
 <!ENTITY nntpNotDownloadRead.label "Mesajları oku">
-<!ENTITY nntpRemoveBody.accesskey "e">
-<!ENTITY nntpRemoveBody.label "Belirtilenden eskimiş postaların içeriklerini sil :">
-<!ENTITY offlineDesc.label "İletilerinizi yerel olarak kaydederek onlara çevrim dışıyken de ulaşabilirsiniz.">
-<!ENTITY offlineGroupTitle.label "Çevrimdışı">
-<!ENTITY offlineNewFolder.accesskey "e">
-<!ENTITY offlineNewFolder.label "Yeni dizin yarattığımda, Çevrimdışı çalışmasını sağla">
-<!ENTITY offlineNotDownload.accesskey "R">
-<!ENTITY offlineNotDownload.label "Mesajlar ">
-
-<!ENTITY offlineSelectImap.label "Çevrim dışı kullanım için dizin seçin...">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineSelectNntp.label "Çevrim dışı kullanım için Haber grubu seçin...">
-<!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY retentionCleanup.label "Boşyer kazanmak için eski mesajlarınızı düzenli aralıklar ile silebilirsiniz.">
-<!ENTITY retentionKeepMsg.label "Son ">
-<!ENTITY retentionKeepMsg.accesskey "N">
-<!ENTITY retentionKeepAll.label "Hiçbir mesajı silme.">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Hepsini sil fakat son">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Okunan mesajları daima sil.">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpNotDownloadRead.accesskey "s">
+<!ENTITY nntpDownloadMsg.label "İleti boyutunun alt sınırı">
+<!ENTITY nntpDownloadMsg.accesskey "ı">
+<!ENTITY retentionCleanup.label "boş yer kazanmak için eski iletireri düzenli aralıklar ile silebilirsiniz.">
+<!ENTITY retentionCleanupImap.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler ve yerel kopyaları tamamen silinebilir.">
+<!ENTITY retentionCleanupPop.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler tamamen silinebilir.">
+<!ENTITY retentionKeepMsg.label "Silinecek iletilerin büyüklük alt sınırı">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Hiçbir iletiyi silme">
+<!ENTITY retentionKeepAll.accesskey "H">
+<!ENTITY retentionKeepRecent.label "Son gelenler hariç bütün iletileri sil">
+<!ENTITY retentionKeepRecent.accesskey "S">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
+<!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri hiçbir zaman silme">
+<!ENTITY retentionApplyToFlagged.accesskey "Y">
+<!ENTITY nntpRemoveMsgBody.label "Gövdesi silinecek ileti boyutunun alt sınırı">
+<!ENTITY nntpRemoveMsgBody.accesskey "ö">
+<!ENTITY offlineSelectNntp.label "Çevrim dışı kullanım için haber grubu seçin…">
+<!ENTITY offlineSelectNntp.accesskey "s">
+<!ENTITY offlineImapAdvancedOffline.label "Gelişmiş…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "G">
+<!ENTITY syncGroupTitle.label "İleti eşzamanlaması">
+<!ENTITY diskspaceGroupTitle.label "Disk alanı">

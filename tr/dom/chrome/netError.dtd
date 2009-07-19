@@ -16,7 +16,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Dosya taşınmış, silinmiş ya da adı değiştirilmiş olabilir.</li><li>Adreste yazım hatası yapılmış olabilir.</li><li>İstenen öğeye erişmek için gerekli izniniz olmayabilir.</li></ul>">
 
 <!ENTITY generic.title "İstek yerine getirilemiyor">
-<!ENTITY generic.longDesc "<p>Additional information about this problem or error is currently unavailable.</p>">
+<!ENTITY generic.longDesc "<p>Bu hata ve sorun hakkında detaylı bilgiler mevcut değil</p>">
 
 <!ENTITY malformedURI.title "Geçersiz adres">
 <!ENTITY malformedURI.longDesc "<p>Girilen adres tanınır biçimde değil. Konum çubuğuna bakıp olası hataları giderdikten sonra yeniden deneyin.</p>">
@@ -39,7 +39,7 @@
 <!ENTITY netReset.longDesc "<p>Bağlantı sırasında ağ iletişimi kesintiye uğradı. Lütfen yeniden deneyin.</p>">
 
 <!ENTITY netTimeout.title "Ağ zaman aşımı">
-<!ENTITY netTimeout.longDesc "<p>Açılmak istenen site isteğe cevap vermeyince, tarayıcı da beklemeyi bıraktı.</p><ul><li>Sunucu çok sayıda bağlanma istemi veya geçici olarak açılamama durumuyla karşı karşıya olabilir. Daha sonra yeniden deneyin.</li><li>Diğer sitelere de bağlanamıyor olabilirsiniz. Bilgisayarınızın ağ bağlantısını gözden geçirin.</li><li>Bilgisayarınız ya da ağınız güvenlik duvarıyla çevrili olabilir. Düzgün yapılmayan ayarlar internete erişmenizi engeller.</li><li>Her yolu denemenize rağmen hâlâ bağlantı kuramıyorsanız, ağ yöneticinize veya internet servis sağlayıcınıza başvurun.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Açılmak istenen site isteğe yanıt vermeyince, tarayıcı da beklemeyi bıraktı.</p><ul><li>Sunucu çok sayıda bağlanma istemi veya geçici olarak açılamama durumuyla karşı karşıya olabilir. Daha sonra yeniden deneyin.</li><li>Diğer sitelere de bağlanamıyor olabilirsiniz. Bilgisayarınızın ağ bağlantısını gözden geçirin.</li><li>Bilgisayarınız ya da ağınız güvenlik duvarıyla çevrili olabilir. Düzgün yapılmayan ayarlar internete erişmenizi engeller.</li><li>Her yolu denemenize rağmen hâlâ bağlantı kuramıyorsanız, ağ yöneticinize veya internet servis sağlayıcınıza başvurun.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Tanınmayan iletişim kuralı">
 <!ENTITY protocolNotFound.longDesc "<p>Girilen adres tarayıcı tarafından tanınmayan bir iletişim kuralına (ör. <q>abcd://</q>) işaret ettiğinden tarayıcı siteye düzgünce bağlanamıyor.</p><ul><li>Çoklu ortam barındıran ya da metin içermeyen bir hizmete bağlanmak istiyor olabilirsiniz.</li><li>Bazı iletişim kurallarının tarayıcı tarafından tanınabilmesi için üçüncü kişilerce geliştirilen yazılımlara ya da eklentilere ihtiyaç duyulabilir.</li></ul>">

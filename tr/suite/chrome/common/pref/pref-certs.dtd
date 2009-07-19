@@ -43,7 +43,7 @@
 <!ENTITY managedevices.caption "Manage Security Devices">
 <!ENTITY managedevices.text "Use this button to manage your security devices, such as smart cards.">
 <!ENTITY managedevices.button "Manage Security Devices…">
-<!ENTITY managedevices.accesskey "s">
+<!ENTITY managedevices.accesskey "D">
 
 <!ENTITY ssl.label "SSL">
 

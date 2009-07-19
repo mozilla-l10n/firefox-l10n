@@ -5,7 +5,7 @@
 <!ENTITY pref.proxies.desc "A Proxy is a network service that can filter and speed up your Internet connection.">
 <!ENTITY proxyTitle.label "Configure Proxies to Access the Internet">
 <!ENTITY directTypeRadio.label "İnternete doğrudan bağlantı">
-<!ENTITY directTypeRadio.accesskey "D">
+<!ENTITY directTypeRadio.accesskey "d">
 <!ENTITY systemTypeRadio.label "Use system proxy settings">
 <!ENTITY systemTypeRadio.accesskey "U">
 <!ENTITY manualTypeRadio.label "Manual proxy configuration:">
@@ -14,12 +14,12 @@
 <!ENTITY wpadTypeRadio.accesskey "A">
 <!ENTITY autoTypeRadio.label "Automatic proxy configuration URL:">
 <!ENTITY autoTypeRadio.accesskey "c">
-<!ENTITY reload.label "Reload">
-<!ENTITY reload.accesskey "R">
+<!ENTITY reload.label "Tazele">
+<!ENTITY reload.accesskey "T">
 <!ENTITY http.label "Proxy:">
 <!ENTITY http.accesskey "P">
 <!ENTITY port.label "Port:">
-<!ENTITY HTTPPort.accesskey "s">
+<!ENTITY HTTPPort.accesskey "o">
 <!ENTITY advanced.label "Advanced…">
 <!ENTITY advanced.accesskey "v">
 <!ENTITY noproxy.label "No Proxy for:">

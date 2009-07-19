@@ -1,16 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Giden posta sunucusu (SMTP) ayarları">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
 <!ENTITY smtpDesc.label "Sadece bir tane giden posta sunucusu(SMTP) belirlemeniz yeterlidir. Giden posta sunucunuzun ismini giriniz.">
-<!ENTITY smtpServer.label "Giden Posta Sunucusu(SMTP) Ayarları">
-<!ENTITY smtpListAdd.label  "Ekle...">
-<!ENTITY smtpListAdd.accesskey  "L">
-<!ENTITY smtpListEdit.label "Düzenle...">
-<!ENTITY smtpListEdit.accesskey "E">
+
+<!ENTITY smtpListAdd.label "Ekle…">
+<!ENTITY smtpListAdd.accesskey "l">
+<!ENTITY smtpListEdit.label "Düzenle…">
+<!ENTITY smtpListEdit.accesskey "e">
 <!ENTITY smtpListDelete.label "Kaldır">
-<!ENTITY smtpListDelete.accesskey "R">
+<!ENTITY smtpListDelete.accesskey "r">
 <!ENTITY smtpListSetDefault.label "Varsayılanları yükle">
 <!ENTITY smtpListSetDefault.accesskey "V">
-<!ENTITY userName.label   "Kullanıcı ismi: ">
-<!ENTITY useSecureConnection.label   "Güvenli Bağlantı: ">
+
 <!ENTITY serverDescription.label "Açıklama: ">
 <!ENTITY serverName.label "Sunucu ismi: ">
 <!ENTITY serverPort.label "Port: ">
-<!ENTITY useSecureAuthentication.label   "Güvenli kimlik doğrulama: ">
+<!ENTITY userName.label "Kullanıcı ismi: ">
+<!ENTITY connectionSecurity.label "Bağlantı güvenliği: ">
+<!ENTITY useSecureAuthentication.label "Güvenli kimlik doğrulama: ">

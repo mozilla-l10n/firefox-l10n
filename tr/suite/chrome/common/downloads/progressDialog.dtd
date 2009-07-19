@@ -36,19 +36,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY progress.title "Download in Progress…">
-<!ENTITY closeWindow.key "w">
-<!ENTITY cmd.pause.tooltip "Pause">
+<!ENTITY progress.title "İndirme işlemi…">
+<!ENTITY closeWindow.key "d">
+<!ENTITY cmd.pause.tooltip "Ara verilmiş">
 <!ENTITY cmd.resume.tooltip "Devam et">
-<!ENTITY cmd.retry.tooltip "Retry">
+<!ENTITY cmd.retry.tooltip "Yeniden dene">
 <!ENTITY cmd.cancel.tooltip "Vazgeç">
-<!ENTITY cmd.open.label "Open">
-<!ENTITY cmd.open.accesskey "O">
+<!ENTITY cmd.open.label "Aç">
+<!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.show.label "Bulunduğu dizini aç">
-<!ENTITY cmd.show.accesskey "D">
+<!ENTITY cmd.show.accesskey "d">
 <!ENTITY cmd.goToDownloadPage.label "İndirme sayfasına git">
-<!ENTITY cmd.goToDownloadPage.accesskey "G">
+<!ENTITY cmd.goToDownloadPage.accesskey "g">
 <!ENTITY cmd.copyDownloadLink.label "İndirme bağlantısını kopyala">
-<!ENTITY cmd.copyDownloadLink.accesskey "L">
+<!ENTITY cmd.copyDownloadLink.accesskey "l">
 <!ENTITY closeWhenDone.label "Close this window when the download is complete.">
 <!ENTITY closeWhenDone.accesskey "w">

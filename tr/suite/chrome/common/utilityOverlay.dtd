@@ -5,41 +5,41 @@
 
 
 <!ENTITY fileMenu.label "Dosya">
-<!ENTITY fileMenu.accesskey "d">
+<!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Yeni">
 <!ENTITY newMenu.accesskey "Y">
 <!ENTITY newBlankPageCmd.label "Düzenleyici sayfası">
-<!ENTITY newBlankPageCmd.accesskey "E">
+<!ENTITY newBlankPageCmd.accesskey "e">
 <!ENTITY newBlankPageCmd.key "n">
 <!ENTITY newPageFromTemplateCmd.label "Page Using Template">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "Page Using Draft">
 <!ENTITY newPageFromDraftCmd.accesskey "d">
 <!ENTITY newNavigatorCmd.label "Browser Window">
-<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.key "n">
 <!ENTITY newNavigatorCmd.accesskey "B">
 
 <!ENTITY editMenu.label "Düzenle">
 <!ENTITY editMenu.accesskey "z">
 <!ENTITY undoCmd.label "Geri al">
-<!ENTITY undoCmd.key "z">
-<!ENTITY undoCmd.accesskey "R">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "r">
 <!ENTITY redoCmd.label "Yinele">
-<!ENTITY redoCmd.key "y">
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "Y">
 <!ENTITY cutCmd.label "Kes">
-<!ENTITY cutCmd.key "x">
-<!ENTITY cutCmd.accesskey "k">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopyala">
-<!ENTITY copyCmd.key "c">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Yapıştır">
-<!ENTITY pasteCmd.key "v">
+<!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Sil">
-<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Tümünü seç">
-<!ENTITY selectAllCmd.key "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "n">
 <!ENTITY preferencesCmd.label "Preferences…">
 <!ENTITY preferencesCmd.key "E">
@@ -50,17 +50,17 @@
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
 <!ENTITY viewMenu.label "Göster">
-<!ENTITY viewMenu.accesskey "g">
-<!ENTITY viewToolbarsMenu.label "Show/Hide">
-<!ENTITY viewToolbarsMenu.accesskey "w">
+<!ENTITY viewMenu.accesskey "G">
+<!ENTITY viewToolbarsMenu.label "Göster/gizle">
+<!ENTITY viewToolbarsMenu.accesskey "ö">
 <!ENTITY showTaskbarCmd.label "Durum çubuğu">
-<!ENTITY showTaskbarCmd.accesskey "M">
+<!ENTITY showTaskbarCmd.accesskey "m">
 
-<!ENTITY helpMenu.label "Help">
-<!ENTITY helpMenu.accesskey "h">
+<!ENTITY helpMenu.label "Yardım">
+<!ENTITY helpMenu.accesskey "Y">
 
 <!ENTITY releaseCmd.label "Sürüm notları">
-<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY releaseCmd.accesskey "r">
 <!ENTITY updateCmd.label "Check for Updates…">
 <!ENTITY updateCmd.accesskey "C">
 <!ENTITY aboutCmd.label "About &brandShortName;">
@@ -80,11 +80,11 @@
 <!ENTITY system.accesskey "S">
 
 <!ENTITY proxy.label "Vekil sunucu ayaları…">
-<!ENTITY proxy.accesskey "C">
+<!ENTITY proxy.accesskey "c">
 
 <!ENTITY bidiSwitchTextDirectionItem.label "Metin Yönetimine Geç">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "m">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "x">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "M">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
 <!ENTITY customizeToolbarContext.label "Customize…">
 <!ENTITY customizeToolbarContext.accesskey "C">

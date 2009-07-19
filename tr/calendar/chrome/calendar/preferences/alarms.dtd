@@ -34,11 +34,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 
 <!ENTITY pref.alarmgoesoff.label "Alarm Kapatılırsa:">
 <!ENTITY pref.playasound "Ses dosyası çal">
@@ -48,7 +48,7 @@
 <!ENTITY pref.calendar.alarms.sound.browse.label "Tara...">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "T">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Önizleme">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "Z">
+<!ENTITY pref.calendar.alarms.sound.preview.accessKey "z">
 <!ENTITY pref.showalarmbox "Bir alarm kutusu göster">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
 <!ENTITY pref.missedalarms "Eksik olan alarmları göster">
@@ -61,9 +61,8 @@
 <!ENTITY pref.alarm.on "Açık">
 <!ENTITY pref.alarm.off "Kapalı">
 <!ENTITY pref.defalarmlen4events.label "Olay başlamadan önce alarm verilecek öntanımlı süre:">
-<!ENTITY pref.defalarmlen4events.accesskey "V">
+<!ENTITY pref.defalarmlen4events.accesskey "v">
 <!ENTITY pref.defalarmlen4todos.label "Görev başlamadan önce alarm verilecek öntanımlı süre:">
-<!ENTITY pref.defalarmlen4todos.accesskey "V">
-<!ENTITY pref.alarmbox.label "Alarm">
+<!ENTITY pref.defalarmlen4todos.accesskey "v">
 <!ENTITY pref.defaultemail.label "Alarmların gönderileceği öntanımlı adres:">
 <!ENTITY pref.defaulttext.label "Varsayılan alarm mesajı:">

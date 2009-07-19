@@ -37,18 +37,18 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.tags.title "Etiketler">
-<!ENTITY pref.tags.caption "Customize Tags">
+<!ENTITY pref.tags.caption "Etiketleri özelleştir">
 <!ENTITY pref.tags.description "Tags can be used to categorize and prioritize your messages. Modify the appearance and importance of tags using the settings below. Tags near the top are more important than those further down.">
-<!ENTITY tagColumn.label "Tag">
+<!ENTITY tagColumn.label "Etiket">
 <!ENTITY colorColumn.label "Renk">
-<!ENTITY defaultTagName.label "Untitled Tag">
-<!ENTITY addTagButton.label "Add">
-<!ENTITY addTagButton.accesskey "A">
+<!ENTITY defaultTagName.label "İsimsiz etiket">
+<!ENTITY addTagButton.label "Ekle">
+<!ENTITY addTagButton.accesskey "E">
 <!ENTITY deleteTagButton.label "Sil">
 <!ENTITY deleteTagButton.accesskey "S">
 <!ENTITY raiseTagButton.label "Raise Importance">
 <!ENTITY raiseTagButton.accesskey "R">
 <!ENTITY lowerTagButton.label "Lower Importance">
 <!ENTITY lowerTagButton.accesskey "L">
-<!ENTITY restoreButton.label "Restore Defaults">
-<!ENTITY restoreButton.accesskey "s">
+<!ENTITY restoreButton.label "Öntanımlı değerler">
+<!ENTITY restoreButton.accesskey "ğ">

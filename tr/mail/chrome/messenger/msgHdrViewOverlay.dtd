@@ -1,37 +1,91 @@
-<!ENTITY bccField.label "Gizli adres: ">
-<!ENTITY ccField.label "İlgili adres: ">
-<!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
-<!ENTITY dateField.label "Tarih:">
-<!ENTITY detachAllAttachmentsCmd.label    "Tümünü çıkart...">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "T">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Tümünü sil...">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "M"> 
-<!ENTITY detachAttachmentCmd.label    "Çıkart...">  
-<!ENTITY deleteAttachmentCmd.label    "Sil...">  
-<!ENTITY editMessage.label "Taslağı Düzenle...">
-<!ENTITY followupToField.label "Kime bölümünü takipet:">
-<!ENTITY fromField.label "Kimden:">
-<!ENTITY newsgroupsField.label "Haber Grupları:">
-<!ENTITY openAttachmentCmd.accesskey "ç">
-<!ENTITY openAttachmentCmd.label "Aç">
-<!ENTITY organizationField.label "Organizasyon:">
-<!ENTITY originalWebsite.label "Web sayfası:">
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
-<!ENTITY replyToField.label "Cevapla:">
-<!ENTITY saveAll.label "Hepsini Kaydet...">
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY toField2.label "Kime ">
+<!ENTITY fromField2.label "Kimden ">
+<!ENTITY senderField2.label "Gönderen ">
+<!ENTITY organizationField2.label "Kurum ">
+<!ENTITY replyToField2.label "Yanıt adresi ">
+
+<!ENTITY subjectField2.label "Konu ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "Gizli kopya ">
+<!ENTITY newsgroupsField2.label "Haber grupları ">
+<!ENTITY followupToField2.label "Followup-to ">
+<!ENTITY tagsHdr2.label "Etiketler ">
+<!ENTITY dateField2.label "Tarih ">
+<!ENTITY userAgentField2.label "User-agent ">
+<!ENTITY referencesField2.label "Referanslar ">
+<!ENTITY messageIdField2.label "Message-ID ">
+<!ENTITY inReplyToField2.label "In-reply-to ">
+<!ENTITY originalWebsite2.label "Web sitesi ">
+
+<!ENTITY editMessageDescription.label "Taslak ileti">
+<!ENTITY editMessageButton.label "Düzenle…">
+<!ENTITY archiveButton.label "Arşivle">
+<!ENTITY hdrReplyButton.label "Yanıtla">
+<!ENTITY hdrReplyAllButton.label "Hepsini yanıtla">
+<!ENTITY hdrReplyListButton.label "Listeyi yanıtla">
+<!ENTITY hdrForwardButton.label "İlet">
+<!ENTITY hdrJunkButton.label "Gereksiz">
+<!ENTITY trashButton.tooltiptext "Sil">
+
+<!ENTITY otherActionsButton.label "Diğer eylemler">
+<!ENTITY saveAsMenuItem.label "Farklı kaydet…">
+<!ENTITY saveAsMenuItem.accesskey "F">
+<!ENTITY viewSourceMenuItem.label "Kaynağını göster…">
+<!ENTITY viewSourceMenuItem.accesskey "K">
+
+<!ENTITY openAttachmentCmd.label "Aç">
+<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY saveAsAttachmentCmd.label "Farklı kaydet…">
+<!ENTITY saveAsAttachmentCmd.accesskey "a">
+<!ENTITY detachAttachmentCmd.label "Çıkart…">
+<!ENTITY deleteAttachmentCmd.label "Sil">
+<!ENTITY saveAllAttachmentsCmd.label "Tümünü kaydet…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "e">
-<!ENTITY saveAllAttachmentsCmd.label "Tümünü kaydet...">
-<!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY saveAsAttachmentCmd.label "Farklı kaydet...">
-<!ENTITY senderField.label "Gönderen: ">
-<!ENTITY subjectField.label "Konu:">
-<!ENTITY toField.label "Kime:">
-<!ENTITY userAgentField.label "Kullanıcı:">
-<!ENTITY tagsHdr.label "Etiketler: ">
-<!ENTITY referencesField.label "Referanslar: ">
-<!ENTITY messageIdField.label "İleti kimliği: ">
-<!ENTITY inReplyToField.label "Ata ileti: ">
+<!ENTITY detachAllAttachmentsCmd.label "Tümünü çıkart…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "T">
+<!ENTITY deleteAllAttachmentsCmd.label "Tümünü sil…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "m">
+
+<!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
+<!ENTITY copyLinkCmd.accesskey "k">
 
 <!ENTITY CopyMessageId.label "İleti kimliğini kopyala">
 <!ENTITY OpenMessageForMsgId.label "Bu kimliği taşıyan iletiyi aç">

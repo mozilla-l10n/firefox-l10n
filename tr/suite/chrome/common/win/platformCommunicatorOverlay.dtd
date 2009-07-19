@@ -6,13 +6,13 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
 
-<!ENTITY quitApplicationCmd.label "Exit">
+<!ENTITY quitApplicationCmd.label "Çık">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "x">
+<!ENTITY quitApplicationCmd.accesskey "k">
 
-<!ENTITY redoCmd.label "Redo">
+<!ENTITY redoCmd.label "Yinele">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.accesskey "Y">
 
 <!ENTITY findTypeTextCmd.key "VK_HELP">
 <!ENTITY findTypeLinksCmd.key "'">

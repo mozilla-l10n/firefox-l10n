@@ -1,73 +1,72 @@
-<!ENTITY abSearchDialogTitle.label "Gelişmiş Adres Defteri Araması">
-<!ENTITY abSearchHeading.accesskey "a">
-<!ENTITY abSearchHeading.label "İçinde ara:">
-<!ENTITY accountColumn.label "Hesap">
-<!ENTITY accountColumn.tooltip "Hesaba göre sırala">
-<!ENTITY closeButton.label "Kapat">
-<!ENTITY closeCmd.key "W">
-<!ENTITY columnChooser.tooltip "Görüntülemek için sutünları seç'e tıklayın">
-<!ENTITY composeButton.accesskey "T">
-<!ENTITY composeButton.label "Oluştur">
-<!ENTITY conditionDesc.label "Uyan postaları ara:">
-<!ENTITY conditions.label "Konu">
-<!ENTITY dateColumn.label "Tarih">
-<!ENTITY dateColumn.tooltip "Tarihe göre sıralamak için tıklayın">
-<!ENTITY deleteButton.accesskey "s">
-<!ENTITY deleteButton.label "Sil">
-<!ENTITY fileButton.accesskey "o">
-<!ENTITY fileButton.label "Dosyala">
-<!ENTITY fileHereMenu.accesskey "b">
-<!ENTITY fileHereMenu.label "Buraya dosyala">
-<!ENTITY starredColumn.label "Etiket">
-<!ENTITY starredColumn.tooltip "Etiketlere göre sırala">
-
-<!ENTITY goToFolderButton.accesskey "a">
-<!ENTITY goToFolderButton.label "Posta dizinini aç">
-<!ENTITY idColumn.label "İstek Alındı">
-<!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">
-<!ENTITY junkStatusColumn.label "Gereksiz durumu">
-<!ENTITY junkStatusColumn.tooltip "Gereksizlik durumuna göre sıralamak için tıklayın">
-<!ENTITY linesColumn.label "Satır">
-<!ENTITY locationColumn.label "Konum">
-<!ENTITY locationColumn.tooltip "Konuma göre sırala">
-<!ENTITY openButton.accesskey "ç">
-<!ENTITY openButton.label "Aç ">
-<!ENTITY optionsButton.label "Seçenekler">
-<!ENTITY priorityColumn.label "Öncelik">
-<!ENTITY priorityColumn.tooltip "Önceliğe göre sıralamak için tıklayın">
-<!ENTITY propertiesButton.accesskey "z">
-<!ENTITY propertiesButton.label "Özellikler">
-<!ENTITY readColumn.label "Okundu">
-<!ENTITY readColumn.tooltip "Okunanlara göre sıralamak için tıklayın">
-<!ENTITY recipientColumn.label "Alıcı">
-<!ENTITY recipientColumn.tooltip "Alıcıya göre sıralamak için tıklayın">
-<!ENTITY resetButton.accesskey "b">
-<!ENTITY resetButton.label "Boşalt">
-<!ENTITY results.label "Sonuçlar">
-<!ENTITY saveAsVFButton.accesskey "a">
-<!ENTITY saveAsVFButton.label "Arama dizini olarak kaydet">
-<!ENTITY searchDialogTitle.label "Postaları ara">
-<!ENTITY searchHeading.accesskey "a">
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label "Postaları burada ara:">
-<!ENTITY searchSubfolders.accesskey "a">
+<!ENTITY searchHeading.accesskey "a">
 <!ENTITY searchSubfolders.label "Alt dizinleri ara">
+<!ENTITY searchSubfolders.accesskey "A">
+<!ENTITY resetButton.label "Boşalt">
+<!ENTITY resetButton.accesskey "B">
+<!ENTITY openButton.label "Aç ">
+<!ENTITY openButton.accesskey "A">
+<!ENTITY deleteButton.label "Sil">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY searchDialogTitle.label "Postaları ara">
+<!ENTITY results.label "Sonuçlar">
+<!ENTITY fileHereMenu.label "Buraya dosyala">
+<!ENTITY fileHereMenu.accesskey "B">
+<!ENTITY fileButton.label "Dosyala">
+<!ENTITY fileButton.accesskey "o">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Posta dizinini aç">
+<!ENTITY goToFolderButton.accesskey "a">
+<!ENTITY saveAsVFButton.label "Arama dizini olarak kaydet">
+<!ENTITY saveAsVFButton.accesskey "A">
+<!-- for ABSearchDialog.xul -->
 
-<!ENTITY sizeColumn.label "Boyut">
-<!ENTITY sizeColumn.tooltip "Boyuta göre sırala">
-<!ENTITY statusColumn.label "Durum">
-<!ENTITY statusColumn.tooltip "Duruma göre sıralamak için tıklayın">
-<!ENTITY subjectColumn.label "Konu">
-<!ENTITY subjectColumn.tooltip "Konuya göre sıralamak için tıklayın">
-<!ENTITY tagsColumn.label "Etiketler">
-<!ENTITY tagsColumn.tooltip "Etiketlere göre sırala">
+<!ENTITY abSearchHeading.label "İçinde ara:">
+<!ENTITY abSearchHeading.accesskey "a">
+<!ENTITY propertiesButton.label "Özellikler">
+<!ENTITY propertiesButton.accesskey "z">
+<!ENTITY composeButton.label "Oluştur">
+<!ENTITY composeButton.accesskey "t">
+<!ENTITY abSearchDialogTitle.label "Gelişmiş Adres Defteri Araması">
+<!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Dizilim">
-<!ENTITY threadColumn.tooltip "Posta dizilimlerini görmek için tıklayın">
-<!ENTITY totalColumn.label "Toplam">
-<!ENTITY totalColumn.tooltip "Mesajların toplam sayısı">
-<!ENTITY unreadColumn.label "Okunmamış">
-<!ENTITY unreadColumn.tooltip "Okunmayan mesajların sayısı">
-
 <!ENTITY fromColumn.label "Gönderen">
-<!ENTITY fromColumn.tooltip "Gönderene göre sıralamak için tıklayın">
+<!ENTITY recipientColumn.label "Alıcı">
+<!ENTITY subjectColumn.label "Konu">
+<!ENTITY dateColumn.label "Tarih">
+<!ENTITY priorityColumn.label "Öncelik">
+<!ENTITY tagsColumn.label "Etiketler">
+<!ENTITY accountColumn.label "Hesap">
+<!ENTITY statusColumn.label "Durum">
+<!ENTITY sizeColumn.label "Boyut">
+<!ENTITY junkStatusColumn.label "Gereksiz durumu">
+<!ENTITY unreadColumn.label "Okunmamış">
+<!ENTITY totalColumn.label "Toplam">
+<!ENTITY readColumn.label "Okundu">
 <!ENTITY receivedColumn.label "Tarih">
+<!ENTITY starredColumn.label "Etiket">
+<!ENTITY locationColumn.label "Konum">
+<!ENTITY idColumn.label "Alındı sırası">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Görüntülenecek sütunları tıklayın">
+<!ENTITY threadColumn.tooltip "Posta dizilimlerini görmek için tıklayın">
+<!ENTITY fromColumn.tooltip "Gönderene göre sıralamak için tıklayın">
+<!ENTITY recipientColumn.tooltip "Alıcıya göre sıralamak için tıklayın">
+<!ENTITY subjectColumn.tooltip "Konuya göre sıralamak için tıklayın">
+<!ENTITY dateColumn.tooltip "Tarihe göre sıralamak için tıklayın">
+<!ENTITY priorityColumn.tooltip "Önceliğe göre sıralamak için tıklayın">
+<!ENTITY tagsColumn.tooltip "Etiketlere göre sırala">
+<!ENTITY accountColumn.tooltip "Hesaba göre sırala">
+<!ENTITY statusColumn.tooltip "Duruma göre sıralamak için tıklayın">
+<!ENTITY sizeColumn.tooltip "Boyuta göre sırala">
+<!ENTITY junkStatusColumn.tooltip "Gereksizlik durumuna göre sıralamak için tıklayın">
+<!ENTITY unreadColumn.tooltip "Okunmayan iletilerin sayısı">
+<!ENTITY totalColumn.tooltip "İletilerin toplam sayısı">
+<!ENTITY readColumn.tooltip "Okunanlara göre sıralamak için tıklayın">
 <!ENTITY receivedColumn.tooltip "Alış tarihine göre sıralamak için tıklayın">
+<!ENTITY starredColumn.tooltip "Etiketlere göre sırala">
+<!ENTITY locationColumn.tooltip "Konuma göre sırala">
+<!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">

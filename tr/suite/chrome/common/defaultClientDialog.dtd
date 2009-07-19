@@ -1,10 +1,10 @@
-<!ENTITY defaultClient.title "Öntanımlı İstemci">
-<!ENTITY defaultClient.intro "Use &brandShortName; as the default client for:">
+<!ENTITY defaultClient.title "Öntanımlı istemci">
+<!ENTITY defaultClient.intro "&brandShortName; aşağıdaki hizmetler için öntanımlı istemci olarak kullanılsın:">
 
 <!ENTITY browser.label "Browser">
-<!ENTITY email.label "E-Mail">
+<!ENTITY email.label "E-posta">
 <!ENTITY newsgroups.label "Haber Grupları">
 <!ENTITY feeds.label "Feeds">
 
-<!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName;">
-<!ENTITY checkOnStartup.accesskey "A">
+<!ENTITY checkOnStartup.label "Bu kontrolü &brandShortName; uygulamasının her açılışında uygula">
+<!ENTITY checkOnStartup.accesskey "B">

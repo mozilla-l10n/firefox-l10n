@@ -36,18 +36,18 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.composing.messages.title "Composition">
+<!ENTITY pref.composing.messages.title "Düzenleme">
 <!ENTITY generalComposing.label "Genel">
 <!ENTITY forwardMsg.label "Forward messages:">
-<!ENTITY inline.label "Inline">
-<!ENTITY inline.accesskey "n">
-<!ENTITY asAttachment.label "As Attachment">
-<!ENTITY asAttachment.accesskey "A">
+<!ENTITY inline.label "İleti içinde ilet">
+<!ENTITY inline.accesskey "İ">
+<!ENTITY asAttachment.label "Eklenti olarak ilet">
+<!ENTITY asAttachment.accesskey "E">
 
 <!ENTITY replyQuoteInline.label "Quote attachments viewed inline in replies">
 <!ENTITY replyQuoteInline.accesskey "Q">
-<!ENTITY warnOnSendAccelKey.label "Confirm when using keyboard shortcut to send message">
-<!ENTITY warnOnSendAccelKey.accesskey "k">
+<!ENTITY warnOnSendAccelKey.label "Kısayol tuşları ileti göndermek için kullanılırsa onayla">
+<!ENTITY warnOnSendAccelKey.accesskey "K">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
 <!ENTITY autoSave.label "Automatically save the message every">
@@ -58,21 +58,21 @@
 <!ENTITY wrapOutMsg.accesskey "W">
 <!ENTITY char.label "characters">
 
-<!ENTITY spellingHeader.label "Spelling">
-<!ENTITY spellCheck.label "Yazım hatalarını göndermeden önce kontrol et.">
-<!ENTITY spellCheck.accesskey "A">
-<!ENTITY spellCheckInline.label "Check spelling as you type">
-<!ENTITY spellCheckInline.accesskey "e">
-<!ENTITY languagePopup.label "Language:">
-<!ENTITY languagePopup.accessKey "g">
-<!ENTITY moreDictionaries.label "Daha fazla indir">
+<!ENTITY spellingHeader.label "İmla denetimi">
+<!ENTITY spellCheck.label "Yazım hatalarını göndermeden önce kontrol et">
+<!ENTITY spellCheck.accesskey "a">
+<!ENTITY spellCheckInline.label "Yazarken yazım denetimini gerçekleştir">
+<!ENTITY spellCheckInline.accesskey "Y">
+<!ENTITY languagePopup.label "Dil:">
+<!ENTITY languagePopup.accessKey "i">
+<!ENTITY moreDictionaries.label "Diğer sözlükleri indir…">
 
 <!ENTITY defaultMessagesHeader.label "Defaults for HTML Messages">
-<!ENTITY font.label "Font:">
-<!ENTITY font.accesskey "F">
-<!ENTITY size.label "Size:">
-<!ENTITY size.accesskey "S">
+<!ENTITY font.label "Yazıtipi:">
+<!ENTITY font.accesskey "z">
+<!ENTITY size.label "Boyut:">
+<!ENTITY size.accesskey "B">
 <!ENTITY fontColor.label "Metin:">
-<!ENTITY fontColor.accesskey "T">
-<!ENTITY bgColor.label "Background:">
-<!ENTITY bgColor.accesskey "B">
+<!ENTITY fontColor.accesskey "t">
+<!ENTITY bgColor.label "Arkaplan:">
+<!ENTITY bgColor.accesskey "p">

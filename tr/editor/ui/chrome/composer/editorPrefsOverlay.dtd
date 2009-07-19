@@ -1,6 +1,9 @@
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
 <!ENTITY compose.label "Düzenleyici">
 <!ENTITY editing.label "Yeni sayfa ayarları">
-<!ENTITY editorCheck.accesskey "Z">
-<!ENTITY editorCheck.label "Düzenleyici">
-<!ENTITY publish.label "Yayınla">
 <!ENTITY toolbars.label "Araç Çubuğu">
+<!ENTITY publish.label "Yayınla">

@@ -1,45 +1,82 @@
-<!ENTITY Accept.accesskey "B">
-<!ENTITY Accept.label "Kabul etme tipleri:">
-<!ENTITY AccessKey.accesskey "E">
-<!ENTITY AccessKey.label "Erişim tuşu:">
-<!ENTITY GroupName.label "Grup adı:">
-<!ENTITY GroupName.accesskey "G">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Input Tag Properties Dialog.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY ImageProperties.accesskey "e">
-<!ENTITY ImageProperties.label "Resim dosyası özellikleri...">
-<!ENTITY InitialValue.label "Başlangıç değeri:">
-<!ENTITY InitialValue.accesskey "D">
+<!ENTITY windowTitle.label "Form alanı özellikleri">
+<!ENTITY windowTitleImage.label "Form görüntüsü özellikleri">
 
-<!ENTITY InputChecked.accesskey "B">
-<!ENTITY InputChecked.label "Başlangıçta işaretli">
-<!ENTITY InputDisabled.accesskey "K">
-<!ENTITY InputDisabled.label "Kullanılamaz">
-<!ENTITY InputName.label "Alan ismi">
-<!ENTITY InputReadOnly.accesskey "S">
-<!ENTITY InputReadOnly.label "Salt okunur">
-<!ENTITY InputSelected.accesskey "B">
-<!ENTITY InputSelected.label "Başlangıçta seçili">
-<!ENTITY InputSettings.label "Alan ayarları">
-<!ENTITY InputType.accesskey "L">
 <!ENTITY InputType.label "Alan tipi">
-<!ENTITY InputValue.label "Alan değeri:">
-<!ENTITY InputName.accesskey "n">
-<!ENTITY TextLength.accesskey "s">
-<!ENTITY TextLength.label "Asgari uzunluk:">
-<!ENTITY TextSize.accesskey "A">
-<!ENTITY TextSize.label "Alan boyutu:">
-<!ENTITY InputValue.accesskey "v">
-<!ENTITY button.value "Düğme">
+<!ENTITY InputType.accesskey "l">
+<!ENTITY text.value "Metin">
+<!ENTITY password.value "Parola">
 <!ENTITY checkbox.value "İşaret kutucuğu">
+<!ENTITY radio.value "Radyo düğmesi">
+<!ENTITY submit.value "Gönder düğmesi">
+<!ENTITY reset.value "Sıfırla düğmesi">
 <!ENTITY file.value "Dosya">
 <!ENTITY hidden.value "Gizli">
 <!ENTITY image.value "Görüntü">
-<!ENTITY password.value "Parola">
-<!ENTITY radio.value "Radyo düğmesi">
-<!ENTITY reset.value "Sıfırla düğmesi">
-<!ENTITY submit.value "Gönder düğmesi">
-<!ENTITY tabIndex.accesskey "e">
+<!ENTITY button.value "Düğme">
+
+<!ENTITY InputSettings.label "Alan ayarları">
+<!ENTITY InputName.label "Alan ismi">
+<!ENTITY InputName.accesskey "n">
+<!ENTITY GroupName.label "Grup adı:">
+<!ENTITY GroupName.accesskey "G">
+<!ENTITY InputValue.label "Alan değeri:">
+<!ENTITY InputValue.accesskey "A">
+<!ENTITY InitialValue.label "Başlangıç değeri:">
+<!ENTITY InitialValue.accesskey "d">
+<!ENTITY InputChecked.label "Başlangıçta işaretli">
+<!ENTITY InputChecked.accesskey "B">
+<!ENTITY InputSelected.label "Başlangıçta seçili">
+<!ENTITY InputSelected.accesskey "B">
+<!ENTITY InputReadOnly.label "Salt okunur">
+<!ENTITY InputReadOnly.accesskey "S">
+<!ENTITY InputDisabled.label "Kullanılamaz">
+<!ENTITY InputDisabled.accesskey "K">
 <!ENTITY tabIndex.label "Sekme indeksi:">
-<!ENTITY text.value "Metin">
-<!ENTITY windowTitle.label "Form alanı özellikleri">
-<!ENTITY windowTitleImage.label "Form görüntüsü özellikleri">
+<!ENTITY tabIndex.accesskey "e">
+<!ENTITY TextSize.label "Alan boyutu:">
+<!ENTITY TextSize.accesskey "A">
+<!ENTITY TextLength.label "Asgari uzunluk:">
+<!ENTITY TextLength.accesskey "s">
+<!ENTITY AccessKey.label "Erişim tuşu:">
+<!ENTITY AccessKey.accesskey "E">
+<!ENTITY Accept.label "Kabul etme tipleri:">
+<!ENTITY Accept.accesskey "b">
+
+<!ENTITY ImageProperties.label "Resim dosyası özellikleri…">
+<!ENTITY ImageProperties.accesskey "e">

@@ -9,13 +9,13 @@
 <!ENTITY bySite.label "Site">
 <!ENTITY bySite.accesskey "S">
 <!ENTITY view.label "Görünüm">
-<!ENTITY view.accesskey "g">
+<!ENTITY view.accesskey "G">
 <!ENTITY byMostVisited.label "En çok ziyaret edilenler">
 <!ENTITY byMostVisited.accesskey "E">
 <!ENTITY byLastVisited.label "Son ziyaret edilenler">
 <!ENTITY byLastVisited.accesskey "S">
 <!ENTITY byDayAndSite.label "Tarih ve site">
-<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY byDayAndSite.accesskey "T">
 <!ENTITY openLinkInWindow.label "Aç">
 <!ENTITY openLinkInWindow.accesskey "A">
 <!ENTITY openInNewTab.label "Yeni sekmede aç">
@@ -23,4 +23,4 @@
 <!ENTITY openInNewWindow.label "Yeni pencerede aç">
 <!ENTITY openInNewWindow.accesskey "Y">
 <!ENTITY copyLink.label "Bağlantı konumunu kopyala">
-<!ENTITY copyLink.accesskey "K">
+<!ENTITY copyLink.accesskey "k">

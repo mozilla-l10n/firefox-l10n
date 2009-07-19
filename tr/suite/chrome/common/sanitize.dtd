@@ -2,19 +2,19 @@
 <!ENTITY sanitizeItems.label "Aşağıdaki öğeleri hemen sil:">
 
 <!ENTITY itemHistory.label "Tarama geçmişi">
-<!ENTITY itemHistory.accesskey "M">
+<!ENTITY itemHistory.accesskey "m">
 <!ENTITY itemDownloads.label "İndirme geçmişi">
-<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemDownloads.accesskey "d">
 <!ENTITY itemFormSearchHistory.label "Saved Form and Search History">
 <!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemCache.label "Önbellek">
 <!ENTITY itemCache.accesskey "n">
 <!ENTITY itemCookies.label "Çerezler">
-<!ENTITY itemCookies.accesskey "Z">
+<!ENTITY itemCookies.accesskey "z">
 <!ENTITY itemOfflineApps.label "Çevrim dışı site verileri">
-<!ENTITY itemOfflineApps.accesskey "S">
+<!ENTITY itemOfflineApps.accesskey "s">
 <!ENTITY itemPasswords.label "Kayıtlı parolalar">
-<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemPasswords.accesskey "p">
 <!ENTITY itemSessions.label "Authenticated Sessions">
 <!ENTITY itemSessions.accesskey "S">
 

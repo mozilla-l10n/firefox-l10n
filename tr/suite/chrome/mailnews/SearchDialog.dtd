@@ -3,7 +3,7 @@
 <!ENTITY searchHeading.label "Postaları burada ara:">
 <!ENTITY searchHeading.accesskey "a">
 <!ENTITY searchSubfolders.label "Alt dizinleri ara">
-<!ENTITY searchSubfolders.accesskey "a">
+<!ENTITY searchSubfolders.accesskey "A">
 <!ENTITY searchLocalSystem.label "Search local system">
 <!ENTITY searchLocalSystem.accesskey "y">
 <!ENTITY resetButton.label "Boşalt">
@@ -11,7 +11,7 @@
 <!ENTITY helpButton.label "Help">
 <!ENTITY helpButton.accesskey "l">
 <!ENTITY openButton.label "Aç ">
-<!ENTITY openButton.accesskey "a">
+<!ENTITY openButton.accesskey "A">
 <!ENTITY deleteButton.label "Sil">
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY searchDialogTitle.label "Postaları ara">
@@ -22,15 +22,15 @@
 <!ENTITY fileButton.accesskey "o">
 <!ENTITY goToFolderButton.label "Posta dizinini aç">
 <!ENTITY goToFolderButton.accesskey "a">
-<!ENTITY saveAsVFButton.label "Save as Search Folder">
-<!ENTITY saveAsVFButton.accesskey "a">
+<!ENTITY saveAsVFButton.label "Arama dizini olarak kaydet">
+<!ENTITY saveAsVFButton.accesskey "A">
 <!-- for ABSearchDialog.xul -->
 
 <!ENTITY abSearchHeading.label "İçinde ara:">
 <!ENTITY abSearchHeading.accesskey "a">
 <!ENTITY propertiesButton.label "Özellikler">
-<!ENTITY propertiesButton.accesskey "Z">
-<!ENTITY composeButton.label "Compose">
-<!ENTITY composeButton.accesskey "e">
+<!ENTITY propertiesButton.accesskey "z">
+<!ENTITY composeButton.label "Yeni ileti">
+<!ENTITY composeButton.accesskey "Y">
 <!ENTITY abSearchDialogTitle.label "Gelişmiş Adres Defteri Araması">
 

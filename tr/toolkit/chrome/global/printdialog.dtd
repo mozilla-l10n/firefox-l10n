@@ -10,7 +10,7 @@
 <!ENTITY fileCheck.accesskey "D">
 <!ENTITY propertiesButton.label "Özellikler…">
 <!ENTITY propertiesButton.accesskey "z">
-<!ENTITY descText.label "Yacızı açıklaması:">
+<!ENTITY descText.label "Yazıcı açıklaması:">
 <!ENTITY printer.label "Yazıcı">
 <!ENTITY printerInput.label "Yazıcı:">
 <!ENTITY printerInput.accesskey "c">

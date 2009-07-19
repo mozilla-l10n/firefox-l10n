@@ -34,21 +34,20 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.label "Kategoriler" >
+
 <!ENTITY pref.categories.add.title "Kategori ekle">
 <!ENTITY pref.categories.addButton.label "Ekle">
 <!ENTITY pref.categories.addButton.accesskey "E">
 <!ENTITY pref.categories.edit.title "Kategori düzenle">
 <!ENTITY pref.categories.editButton.label "Düzenle">
-<!ENTITY pref.categories.editButton.accesskey "E">
+<!ENTITY pref.categories.editButton.accesskey "e">
 <!ENTITY pref.categories.removeButton.label "Kaldır">
-<!ENTITY pref.categories.removeButton.accesskey "R">
+<!ENTITY pref.categories.removeButton.accesskey "r">
 <!ENTITY pref.categories.name.label "İsim">
 <!ENTITY pref.categories.color.label "Renk">
 <!ENTITY pref.categories.usecolor.label "Renk kullan">

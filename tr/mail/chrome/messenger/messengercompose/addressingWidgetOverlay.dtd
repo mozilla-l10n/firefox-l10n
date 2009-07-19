@@ -1,6 +1,9 @@
-<!ENTITY bccAddr.label "Gizli kopya:">
+<!-- address labels -->
+<!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
+<!ENTITY toAddr.label "Kime:">
 <!ENTITY ccAddr.label "İlgili kopyası:">
-<!ENTITY followupAddr.label "Takip adresi:">
-<!ENTITY newsgroupsAddr.label "Haber grubu:">
+<!ENTITY bccAddr.label "Gizli kopya:">
 <!ENTITY replyAddr.label "Yanıt adresi:">
-<!ENTITY toAddr.label "Nereye:">
+<!ENTITY newsgroupsAddr.label "Haber grubu:">
+<!ENTITY followupAddr.label "Takip adresi:">
+

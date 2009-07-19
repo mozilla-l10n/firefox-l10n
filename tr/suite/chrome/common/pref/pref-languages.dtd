@@ -6,8 +6,8 @@
 <!ENTITY languages.customize.prefAddLangDescript "Select the language(s) you would like to add.">
 <!ENTITY languages.customize.addButton.label "Ekle…">
 <!ENTITY languages.customize.addButton.accesskey "E">
-<!ENTITY languages.customize.deleteButton.label "Remove">
-<!ENTITY languages.customize.deleteButton.accesskey "R">
+<!ENTITY languages.customize.deleteButton.label "Kaldır">
+<!ENTITY languages.customize.deleteButton.accesskey "r">
 <!ENTITY languages.customize.add.title.label "Add Languages">
 <!ENTITY languages.customize.available.label "Languages:">
 <!ENTITY languages.customize.active.label "Languages in order of preference:">
@@ -24,9 +24,9 @@
 <!ENTITY languages.customize.moveDown.label "Move Down">
 <!ENTITY languages.customize.moveDown.accesskey "D">
 
-<!ENTITY spelling.label "Spelling">
+<!ENTITY spelling.label "İmla denetimi">
 <!ENTITY checkSpelling.label "When typing check my spelling:">
 <!ENTITY checkSpelling.accesskey "W">
-<!ENTITY dontCheckSpelling.label "Never">
+<!ENTITY dontCheckSpelling.label "Asla">
 <!ENTITY multilineCheckSpelling.label "In multiline boxes">
 <!ENTITY alwaysCheckSpelling.label "All boxes">

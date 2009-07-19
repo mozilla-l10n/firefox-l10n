@@ -38,53 +38,53 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- extracted from ./bookmarks.xul -->
 
-<!ENTITY menuBar.tooltip "Menü Çubuğu">
-<!ENTITY bookmarkToolbar.tooltip "Bookmark Toolbar">
-<!ENTITY menuitem.newBookmark.label "Bookmark">
-<!ENTITY menuitem.newBookmark.accesskey "B">
-<!ENTITY menuitem.newFolder.label "Folder">
-<!ENTITY menuitem.newFolder.accesskey "F">
+<!ENTITY menuBar.tooltip "Menü çubuğu">
+<!ENTITY bookmarkToolbar.tooltip "Yer imleri araç çubuğu">
+<!ENTITY menuitem.newBookmark.label "Yer imi">
+<!ENTITY menuitem.newBookmark.accesskey "e">
+<!ENTITY menuitem.newFolder.label "Dizin">
+<!ENTITY menuitem.newFolder.accesskey "D">
 <!ENTITY button.newFolder.label "Yeni dizin">
-<!ENTITY button.newFolder.accesskey "N">
-<!ENTITY menuitem.newSeparator.label "Separator">
-<!ENTITY menuitem.newSeparator.accesskey "S">
-<!ENTITY button.newSeparator.label "New Separator">
-<!ENTITY button.newSeparator.accesskey "o">
-<!ENTITY menuitem.open.label "Open Bookmarks File…">
-<!ENTITY menuitem.open.accesskey "O">
-<!ENTITY menuitem.import.label "Import…">
-<!ENTITY menuitem.import.accesskey "i">
-<!ENTITY menuitem.export.label "Export…">
-<!ENTITY menuitem.export.accesskey "e">
-<!ENTITY menuitem.find.label "Search Bookmarks…">
-<!ENTITY menuitem.find.accesskey "S">
-<!ENTITY menuitem.find.find.key "D">
-<!ENTITY command.findBookmarks.label "Search…">
-<!ENTITY menuitem.properties.label "Properties…">
-<!ENTITY menuitem.properties.accesskey "o">
-<!ENTITY button.properties.label "Properties…">
-<!ENTITY button.properties.accesskey "P">
-<!ENTITY menuitem.properties.key "I">
+<!ENTITY button.newFolder.accesskey "n">
+<!ENTITY menuitem.newSeparator.label "Ayraç">
+<!ENTITY menuitem.newSeparator.accesskey "ç">
+<!ENTITY button.newSeparator.label "Yeni ayraç">
+<!ENTITY button.newSeparator.accesskey "Y">
+<!ENTITY menuitem.open.label "Yer imi dosyasını aç…">
+<!ENTITY menuitem.open.accesskey "r">
+<!ENTITY menuitem.import.label "İçe aktar…">
+<!ENTITY menuitem.import.accesskey "k">
+<!ENTITY menuitem.export.label "Dışa aktar…">
+<!ENTITY menuitem.export.accesskey "a">
+<!ENTITY menuitem.find.label "Yer imlerinde ara">
+<!ENTITY menuitem.find.accesskey "l">
+<!ENTITY menuitem.find.find.key "F">
+<!ENTITY command.findBookmarks.label "Ara…">
+<!ENTITY menuitem.properties.label "Özellikler…">
+<!ENTITY menuitem.properties.accesskey "e">
+<!ENTITY button.properties.label "Özellikler…">
+<!ENTITY button.properties.accesskey "e">
+<!ENTITY menuitem.properties.key "k">
 <!ENTITY button.rename.label "Yeniden isimlendir…">
-<!ENTITY button.rename.accesskey "R">
+<!ENTITY button.rename.accesskey "r">
 <!ENTITY button.delete.label "Sil">
 <!ENTITY button.delete.accesskey "S">
 <!ENTITY menuitem.moveBookmark.label "Move Bookmark(s)…">
 <!ENTITY menuitem.moveBookmark.accesskey "M">
 <!ENTITY button.moveBookmark.label "Taşı...">
 <!ENTITY button.moveBookmark.accesskey "T">
-<!ENTITY command.addBookmark.label "Add…">
+<!ENTITY command.addBookmark.label "Ekle…">
 <!ENTITY command.manageBookmarks.label "Manage">
 <!ENTITY command.sortFolder.label "Sort Folder…">
 <!ENTITY command.sortFolder.accesskey "S">
-<!ENTITY command.sortFolder.key "s">
+<!ENTITY command.sortFolder.key "D">
 <!ENTITY command.sortFolderByName.label "Sort Folder by Name">
 <!ENTITY command.sortFolderByName.accesskey "N">
 
-<!ENTITY menuitem.view.command.toolbar.label "Toolbar">
-<!ENTITY menuitem.view.command.toolbar.accesskey "t">
-<!ENTITY menuitem.view.show_columns.label "Show columns">
-<!ENTITY menuitem.view.show_columns.accesskey "c">
+<!ENTITY menuitem.view.command.toolbar.label "Araç çubuğu">
+<!ENTITY menuitem.view.command.toolbar.accesskey "u">
+<!ENTITY menuitem.view.show_columns.label "Sütunları göster">
+<!ENTITY menuitem.view.show_columns.accesskey "S">
 <!ENTITY menuitem.newbookmarkfolder.label "Set as New Bookmark Folder">
 <!ENTITY menuitem.newbookmarkfolder.accesskey "b">
 <!ENTITY menuitem.newinternetsearchfolder.label "Set as New Internet Search Folder">
@@ -94,27 +94,27 @@
 
 <!ENTITY treecol.name.label "Name">
 <!ENTITY treecol.name.accesskey "N">
-<!ENTITY treecol.name.tooltip "Click to sort by name">
-<!ENTITY treecol.url.label "Location">
-<!ENTITY treecol.url.accesskey "L">
-<!ENTITY treecol.url.tooltip "Click to sort by location">
-<!ENTITY treecol.shortcut.label "Keyword">
-<!ENTITY treecol.shortcut.accesskey "K">
-<!ENTITY treecol.shortcut.tooltip "Click to sort by keyword">
-<!ENTITY treecol.description.label "Description">
-<!ENTITY treecol.description.accesskey "D">
-<!ENTITY treecol.description.tooltip "Click to sort by description">
-<!ENTITY treecol.addedon.label "Added">
-<!ENTITY treecol.addedon.accesskey "A">
-<!ENTITY treecol.addedon.tooltip "Click to sort by added">
-<!ENTITY treecol.lastmod.label "Last Modified">
-<!ENTITY treecol.lastmod.accesskey "M">
+<!ENTITY treecol.name.tooltip "Ada göre sıralamak için tıklayın">
+<!ENTITY treecol.url.label "Konum">
+<!ENTITY treecol.url.accesskey "K">
+<!ENTITY treecol.url.tooltip "Konuma göre sırala">
+<!ENTITY treecol.shortcut.label "Anahtar kelime">
+<!ENTITY treecol.shortcut.accesskey "k">
+<!ENTITY treecol.shortcut.tooltip "Anahtar kelimeye göre sıralamak için tıklayın">
+<!ENTITY treecol.description.label "Açıklama">
+<!ENTITY treecol.description.accesskey "ç">
+<!ENTITY treecol.description.tooltip "Açıklamaya göre sırala">
+<!ENTITY treecol.addedon.label "Ekleme tarihi">
+<!ENTITY treecol.addedon.accesskey "E">
+<!ENTITY treecol.addedon.tooltip "Ekleme tarihine göre sıralamak için tıklayın">
+<!ENTITY treecol.lastmod.label "Son değişiklik">
+<!ENTITY treecol.lastmod.accesskey "d">
 <!ENTITY treecol.lastmod.tooltip "Click to sort by last modified">
-<!ENTITY treecol.lastvisit.label "Last Visited">
-<!ENTITY treecol.lastvisit.accesskey "V">
+<!ENTITY treecol.lastvisit.label "Son ziyaret edilenler">
+<!ENTITY treecol.lastvisit.accesskey "z">
 <!ENTITY treecol.lastvisit.tooltip "Click to sort by last visit">
 
-<!ENTITY bookmarksWindowTitle.label "Bookmark Manager">
+<!ENTITY bookmarksWindowTitle.label "Yer imi yöneticisi">
 
 <!ENTITY search.emptytext "Yer imlerinde ara">
 <!ENTITY search.key "f">

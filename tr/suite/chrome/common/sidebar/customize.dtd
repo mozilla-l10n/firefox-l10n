@@ -44,8 +44,8 @@
 <!ENTITY sidebar.customize.current.accesskey "T">
 <!ENTITY sidebar.customize.customize.label "Customize Tab…">
 <!ENTITY sidebar.customize.customize.accesskey "C">
-<!ENTITY sidebar.customize.remove.label "Remove">
-<!ENTITY sidebar.customize.remove.accesskey "R">
+<!ENTITY sidebar.customize.remove.label "Kaldır">
+<!ENTITY sidebar.customize.remove.accesskey "r">
 <!ENTITY sidebar.customize.additional.label "Available Tabs:">
 <!ENTITY sidebar.customize.additional.accesskey "v">
 <!ENTITY sidebar.customize.add.label "Add">

@@ -36,28 +36,28 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Title -->
 
-<!ENTITY selectAddressWindow.title "Select Addresses">
+<!ENTITY selectAddressWindow.title "Adresleri seçin">
 <!-- Buttons -->
 
-<!ENTITY toButton.label "To->">
-<!ENTITY toButton.accesskey "T">
+<!ENTITY toButton.label "Kime->">
+<!ENTITY toButton.accesskey "K">
 <!ENTITY ccButton.label "Cc->">
 <!ENTITY ccButton.accesskey "C">
 <!ENTITY bccButton.label "Bcc->">
 <!ENTITY bccButton.accesskey "B">
 <!ENTITY newButton.label "Yeni…">
 <!ENTITY newButton.accesskey "Y">
-<!ENTITY editButton.label "Edit…">
-<!ENTITY editButton.accesskey "E">
-<!ENTITY removeButton.label "Remove">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY editButton.label "Düzenle…">
+<!ENTITY editButton.accesskey "e">
+<!ENTITY removeButton.label "Kaldır">
+<!ENTITY removeButton.accesskey "r">
 <!ENTITY lookIn.label "İçine bak:">
-<!ENTITY lookIn.accesskey "I">
+<!ENTITY lookIn.accesskey "i">
 <!ENTITY for.label "for:">
 <!ENTITY for.accesskey "f">
 <!ENTITY addressMessageTo.label "Address message to:">
 <!-- Tooltips items -->  
 
-<!ENTITY addressPickerNewButton.tooltip "Create a new address book card">
-<!ENTITY addressPickerEditButton.tooltip "Edit the selected card">
+<!ENTITY addressPickerNewButton.tooltip "Yeni adres defteri kartı oluştur">
+<!ENTITY addressPickerEditButton.tooltip "Seçili kartı düzenle">
 

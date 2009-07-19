@@ -1,4 +1,4 @@
 <!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
 
 <!ENTITY menu_securityStatus.label "İleti güvenlik bilgisi">
-<!ENTITY menu_securityStatus.accesskey "G">
+<!ENTITY menu_securityStatus.accesskey "g">

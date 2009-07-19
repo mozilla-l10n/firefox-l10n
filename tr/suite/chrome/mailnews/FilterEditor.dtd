@@ -55,7 +55,7 @@
 <!ENTITY window.title "Süzgeç Kuralları">
 
 <!ENTITY filterName.label "Süzgeç İsmi:">
-<!ENTITY filterName.accesskey "s">
+<!ENTITY filterName.accesskey "S">
 
 <!ENTITY junk.label "Gereksiz">
 <!ENTITY notJunk.label "Gereksiz değil">
@@ -73,22 +73,22 @@
 <!ENTITY contextBoth.label "Posta denetimi esnasında veya elle">
 
 <!ENTITY filterActionDesc.label "Bu işlemi uygula:">
-<!ENTITY filterActionDesc.accesskey "U">
+<!ENTITY filterActionDesc.accesskey "u">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Postayı taşı:">
 <!ENTITY copyMessage.label "Postayı kopyala">
 <!ENTITY forwardTo.label "İlet:">
-<!ENTITY replyWithTemplate.label "Şablon ile cevapla:">
+<!ENTITY replyWithTemplate.label "Şablon ile yanıtla:">
 <!ENTITY markMessageRead.label "Postayı okunmuş olarak işaretle">
 <!ENTITY markMessageStarred.label "Mark As Flagged">
-<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY labelMessage.label "İleti etiketi">
 <!ENTITY setPriority.label "Önemlilik">
 <!ENTITY addTag.label "İletiyi etiketle">
-<!ENTITY setJunkScore.label "Gereksiz konumunu buna ayarla:">
+<!ENTITY setJunkScore.label "Gereksiz konumunu buna ayarla">
 <!ENTITY deleteMessage.label "Postayı sil">
 <!ENTITY deleteFromPOP.label "POP Sunucusundan sil">
-<!ENTITY fetchFromPOP.label "POP Sunucudan mesaj gövdesini getir.">
+<!ENTITY fetchFromPOP.label "POP sunucudan ileti gövdesini indir">
 <!ENTITY ignoreThread.label "Dizilimi görmezden gel">
 <!ENTITY ignoreSubthread.label "Alt dizilimleri görmezden gel">
 <!ENTITY watchThread.label "Dizilimleri gözetle">

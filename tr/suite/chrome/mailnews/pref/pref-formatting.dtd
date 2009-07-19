@@ -36,7 +36,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.formatting.title "Send Format">
+<!ENTITY pref.formatting.title "İleti biçemi">
 <!ENTITY sendMaildesc.label "When sending formatted (HTML) messages and one or more recipients are not listed as being able to receive HTML:">
 <!ENTITY askMe.label "Ask me what to do (Mail prompts you to choose a format)">
 <!ENTITY askMe.accesskey "k">
@@ -51,23 +51,23 @@
 
 <!ENTITY domain.title "HTML and Plain Text Domains">
 <!ENTITY domaindesc.label "When you send a message to an address with one of the domain names listed below, Mail automatically sends the message in the preferred format (formatted text or plain text).">
-<!ENTITY HTMLdomaintitle.label "HTML Domains">
-<!ENTITY HTMLdomaintitle.accesskey "M">
-<!ENTITY PlainTexttitle.label "Düz Metin Alan Adları">
-<!ENTITY PlainTexttitle.accesskey "Z">
-<!ENTITY AddButton.label "Add…">
-<!ENTITY AddHtmlDomain.accesskey "o">
-<!ENTITY AddPlainText.accesskey "d">
-<!ENTITY DeleteButton.label "Delete">
-<!ENTITY DeleteHtmlDomain.accesskey "E">
-<!ENTITY DeletePlainText.accesskey "t">
+<!ENTITY HTMLdomaintitle.label "HTML alan adları">
+<!ENTITY HTMLdomaintitle.accesskey "H">
+<!ENTITY PlainTexttitle.label "Düz metin alan adları">
+<!ENTITY PlainTexttitle.accesskey "z">
+<!ENTITY AddButton.label "Ekle…">
+<!ENTITY AddHtmlDomain.accesskey "E">
+<!ENTITY AddPlainText.accesskey "k">
+<!ENTITY DeleteButton.label "Sil">
+<!ENTITY DeleteHtmlDomain.accesskey "S">
+<!ENTITY DeletePlainText.accesskey "i">
 <!-- Add Domain Name -->
 
-<!ENTITY add.htmltitle "HTML Alan Adı Ekleme">
-<!ENTITY add.htmldomain "HTML Alan Adı:">
-<!ENTITY add.plaintexttitle "Düz Metin Alan Adı Ekleme">
-<!ENTITY add.plaintextdomain "Düz Metin Alan Adı:">
+<!ENTITY add.htmltitle "HTML alan adı ekle">
+<!ENTITY add.htmldomain "HTML alan adı:">
+<!ENTITY add.plaintexttitle "Düz metin alan adı ekle">
+<!ENTITY add.plaintextdomain "Düz metin alan adı:">
 
-<!ENTITY domainnameError.title "Alan Adı Hatası">
+<!ENTITY domainnameError.title "Alan adı hatası">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label "The domain name @string@ is invalid and will be ignored. Valid domain names must include at least one '.' and characters on either side of it.">

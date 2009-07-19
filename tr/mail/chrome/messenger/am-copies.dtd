@@ -1,30 +1,37 @@
-<!ENTITY bccAddress.accesskey "b">
-<!ENTITY bccAddress.label "Bcc başka Adres:">
-<!ENTITY chooseFolderButton.label "Dosyalar seçiliyor...">
-<!ENTITY copyAndFolderTitle.label "Kopyalar ve Dizinleri">
-<!ENTITY draftInOtherFolder.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Diğer">
-<!ENTITY draftMailFolder.label "E-postaları taslak içinde bırak:">
-<!ENTITY draftsFolderOn.accesskey "T">
-<!ENTITY draftsFolderOn.label "&quot;Taslak&quot; Dizini:">
-<!ENTITY fccMailFolder.accesskey "p">
-<!ENTITY fccMailFolder.label "Bir kopyasını buraya koy:">
-<!ENTITY keepDrafts.label "E-postaları Taslak içinde bırak:">
-<!ENTITY keepTempltes.label "E-postaların şablonlarını burda sakla:">
-<!ENTITY saveMessageDlg.accesskey "s">
-<!ENTITY saveMessageDlg.label "Mesajlar kaydoldulurken onaylama penceresini göster">
-<!ENTITY sendingPrefix.label "Postaları Otomatik Gönderirken">
-<!ENTITY sentFolderOn.accesskey "E">
-<!ENTITY sentFolderOn.label "&quot;Gönderilen Mesajlar&quot; Dizini:">
-<!ENTITY sentInOtherFolder.accesskey "D">
-<!ENTITY sentInOtherFolder.label "Diğer">
-<!ENTITY specialFolderTitle.label "Özel Dizinler">
-<!ENTITY specialFoldersTitle.label "Taslaklar ve Geçici Dizinler">
-<!ENTITY templateInOtherFolder.accesskey "R">
-<!ENTITY templateInOtherFolder.label "Diğer:">
-<!ENTITY templateMailFolder.label "E-postaları Geçici dizininde bırak:">
-<!ENTITY templatesFolderOn.accesskey "G">
-<!ENTITY templatesFolderOn.label "&quot;Geçici&quot; Dizini:">
+<!-- extracted from am-copies.xul -->
 
+<!ENTITY copyAndFolderTitle.label "Kopyalar ve dizinler">
+<!ENTITY sendingPrefix.label "Postaları otomatik gönderirken">
+<!ENTITY fccMailFolder.label "Bir kopyasını buraya koy:">
+<!ENTITY fccMailFolder.accesskey "p">
 <!ENTITY fccReplyFollowsParent.label "Yanıtları yanıtlanan iletinin dizinine koy">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Adresi Bcc'ye ekle:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY saveMessageDlg.label "Mesajlar kaydoldulurken onaylama penceresini göster">
+<!ENTITY saveMessageDlg.accesskey "s">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Giden&quot; dizini:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "Diğer">
+<!ENTITY sentInOtherFolder.accesskey "D">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Taslak&quot; dizini:">
+<!ENTITY draftsFolderOn.accesskey "T">
+<!ENTITY draftInOtherFolder.label "Diğer">
+<!ENTITY draftInOtherFolder.accesskey "D">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "&quot;Arşiv&quot; dizini:">
+<!ENTITY archivesFolderOn.accesskey "d">
+<!ENTITY archiveInOtherFolder.label "Diğer:">
+<!ENTITY archiveInOtherFolder.accesskey "D">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Geçici&quot; dizini:">
+<!ENTITY templatesFolderOn.accesskey "G">
+<!ENTITY templateInOtherFolder.label "Diğer:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "Taslaklar ve geçici dizinler">
+<!ENTITY keepDrafts.label "E-postaları Taslak içinde bırak:">
+<!ENTITY keepArchives.label "E-posta arşivleri tutma yeri:">
+<!ENTITY keepTempltes.label "E-postaların şablonlarını burda sakla:">

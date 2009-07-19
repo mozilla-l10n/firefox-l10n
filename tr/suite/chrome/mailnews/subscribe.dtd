@@ -37,19 +37,19 @@
 
 <!ENTITY subscribeDialog.title "Üye ol">
 <!ENTITY subscribeButton.label "Üye ol">
-<!ENTITY subscribeButton.accesskey "O">
+<!ENTITY subscribeButton.accesskey "o">
 <!ENTITY unsubscribeButton.label "Üyelikten çık">
-<!ENTITY unsubscribeButton.accesskey "Y">
+<!ENTITY unsubscribeButton.accesskey "y">
 <!ENTITY newGroupsTab.label "Yeni gruplar">
-<!ENTITY newGroupsTab.accesskey "N">
+<!ENTITY newGroupsTab.accesskey "n">
 <!ENTITY refreshButton.label "Tazele">
 <!ENTITY refreshButton.accesskey "T">
 <!ENTITY stopButton.label "Dur">
-<!ENTITY stopButton.accesskey "U">
+<!ENTITY stopButton.accesskey "u">
 <!ENTITY server.label "Hesap:">
-<!ENTITY server.accesskey "A">
+<!ENTITY server.accesskey "a">
 <!ENTITY subscribedHeader.label "Üye ol">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label "İçerenleri göster:">
-<!ENTITY namefield.accesskey "E">
+<!ENTITY namefield.accesskey "e">

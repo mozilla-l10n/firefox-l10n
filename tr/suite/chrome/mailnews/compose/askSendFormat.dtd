@@ -8,7 +8,7 @@
 <!ENTITY plainTextAndHtml.label "Düz metin ve HTML olarak gönder">
 <!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Sadece düz metin olarak gönder">
-<!ENTITY plainTextOnly.accesskey "D">
+<!ENTITY plainTextOnly.accesskey "d">
 <!ENTITY htmlOnly.label "Sadece HTML olarak gönder">
 <!ENTITY htmlOnly.accesskey "H">
 

@@ -4,41 +4,41 @@
 <!ENTITY popupWindowAllowCmd.label "Allow popup windows from this site">
 <!ENTITY popupWindowAllowCmd.accesskey "">
 <!ENTITY openLinkCmd.label "Yeni pencerede aç">
-<!ENTITY openLinkCmd.accesskey "P">
+<!ENTITY openLinkCmd.accesskey "p">
 <!ENTITY openLinkCmdInTab.label "Yeni sekmede aç">
 <!ENTITY openLinkCmdInTab.accesskey "Y">
 <!ENTITY openLinkInWindowCmd.label "Open">
 <!ENTITY openLinkInWindowCmd.accesskey "p">
 <!ENTITY openFrameCmd.label "Çerçeveyi yeni pencerede aç">
-<!ENTITY openFrameCmd.accesskey "E">
+<!ENTITY openFrameCmd.accesskey "e">
 <!ENTITY openFrameCmdInTab.label "Çerçeveyi yeni sekmede aç">
-<!ENTITY openFrameCmdInTab.accesskey "V">
+<!ENTITY openFrameCmdInTab.accesskey "v">
 <!ENTITY showOnlyThisFrameCmd.label "Sadece bu çerçeveyi göster">
-<!ENTITY showOnlyThisFrameCmd.accesskey "C">
+<!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY goBackCmd.label "Back">
 <!ENTITY goBackCmd.accesskey "B">
-<!ENTITY goForwardCmd.label "Forward">
-<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.label "İleri">
+<!ENTITY goForwardCmd.accesskey "l">
 <!ENTITY goUpCmd.label "Yukarı">
-<!ENTITY goUpCmd.accesskey "R">
-<!ENTITY reloadCmd.label "Reload">
-<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY goUpCmd.accesskey "r">
+<!ENTITY reloadCmd.label "Tazele">
+<!ENTITY reloadCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY stopCmd.label "Dur">
 <!ENTITY stopCmd.accesskey "D">
 <!ENTITY reloadFrameCmd.label "Çerçeveyi tazele">
-<!ENTITY reloadFrameCmd.accesskey "E">
+<!ENTITY reloadFrameCmd.accesskey "e">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Seçimin kaynak kodunu göster">
 <!ENTITY viewPartialSourceForMathMLCmd.label "MathML kaynağını göster">
 <!ENTITY viewPartialSourceCmd.accesskey "E">
 <!ENTITY viewPageSourceCmd.label "Sayfa kaynağını göster">
-<!ENTITY viewPageSourceCmd.accesskey "A">
+<!ENTITY viewPageSourceCmd.accesskey "a">
 <!ENTITY viewFrameSourceCmd.label "Çerçeve kaynağını göster">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.accesskey "v">
 <!ENTITY viewPageInfoCmd.label "Sayfa bilgilerini göster">
 <!ENTITY viewPageInfoCmd.accesskey "S">
 <!ENTITY viewFrameInfoCmd.label "Çerçeve bilgilerini göster">
-<!ENTITY viewFrameInfoCmd.accesskey "E">
+<!ENTITY viewFrameInfoCmd.accesskey "e">
 <!ENTITY fitImageCmd.label "Fit Image to Window">
 <!ENTITY fitImageCmd.accesskey "F">
 <!ENTITY reloadImageCmd.label "Reload Image">
@@ -52,7 +52,7 @@
 <!ENTITY bookmarkPageCmd.label "Sayfayı yer imlerine ekle">
 <!ENTITY bookmarkPageCmd.accesskey "m">
 <!ENTITY bookmarkLinkCmd.label "Bu bağlantıyı yer imlerine ekle">
-<!ENTITY bookmarkLinkCmd.accesskey "L">
+<!ENTITY bookmarkLinkCmd.accesskey "l">
 <!ENTITY bookmarkFrameCmd.label "Bu çerçeveyi yer imlerine ekle">
 <!ENTITY bookmarkFrameCmd.accesskey "m">
 <!ENTITY savePageAsCmd.label "Save Page As…">
@@ -69,43 +69,43 @@
 <!ENTITY saveImageCmd.label "Save Image">
 <!ENTITY saveImageCmd.accesskey "v">
 <!ENTITY saveVideoCmd.label "Videoyu farklı kaydet...">
-<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveVideoCmd.accesskey "V">
 <!ENTITY saveAudioCmd.label "Sesi farklı kaydet...">
-<!ENTITY saveAudioCmd.accesskey "v">
+<!ENTITY saveAudioCmd.accesskey "f">
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Tümünü seç">
-<!ENTITY selectAllCmd.accesskey "E">
+<!ENTITY selectAllCmd.accesskey "e">
 <!ENTITY copyLinkCmd.label "Copy Link Location">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageCmd.label "Copy Image">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyVideoURLCmd.label "Video konumunu kopyala">
-<!ENTITY copyVideoURLCmd.accesskey "v">
+<!ENTITY copyVideoURLCmd.accesskey "V">
 <!ENTITY copyAudioURLCmd.label "Ses konumunu kopyala">
-<!ENTITY copyAudioURLCmd.accesskey "s">
+<!ENTITY copyAudioURLCmd.accesskey "S">
 <!ENTITY metadataCmd.label "Properties">
 <!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Copy Email Address">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY pasteCmd.label "Yapıştır">
-<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY cutCmd.label "Kes">
-<!ENTITY cutCmd.accesskey "k">
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY deleteCmd.label "Sil">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY undoCmd.label "Geri al ">
 <!ENTITY undoCmd.accesskey "G">
-<!ENTITY redoCmd.label "Redo">
-<!ENTITY redoCmd.accesskey "R">
+<!ENTITY redoCmd.label "Yinele">
+<!ENTITY redoCmd.accesskey "Y">
 <!ENTITY thisFrameMenu.label "Geçerli çerçeve">
 <!ENTITY thisFrameMenu.accesskey "l">
 <!ENTITY mediaPlay.label "Play">
 <!ENTITY mediaPlay.accesskey "P">
-<!ENTITY mediaPause.label "Pause">
-<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaPause.label "Ara ver">
+<!ENTITY mediaPause.accesskey "r">
 <!ENTITY mediaMute.label "Sesi kapat">
-<!ENTITY mediaMute.accesskey "K">
+<!ENTITY mediaMute.accesskey "k">
 <!ENTITY mediaUnmute.label "Sesi aç">
 <!ENTITY mediaUnmute.accesskey "e">
 <!ENTITY mediaShowControls.label "Show Media Controls">
@@ -114,17 +114,17 @@
 <!ENTITY mediaHideControls.accesskey "a">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Sayfa Yönetimine Geç">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "s">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "S">
 <!ENTITY bidiSwitchTextDirectionItem.label "Metin Yönetimine Geç">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "m">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "M">
 <!ENTITY spellAddToDictionary.label "Sözlüğe ekle">
-<!ENTITY spellAddToDictionary.accesskey "s">
+<!ENTITY spellAddToDictionary.accesskey "S">
 <!ENTITY spellIgnoreWord.label "Ignore Word">
 <!ENTITY spellIgnoreWord.accesskey "W">
-<!ENTITY spellCheckEnable.label "Yazımı denetle">
-<!ENTITY spellCheckEnable.accesskey "Y">
+<!ENTITY spellCheckEnable.label "İmla denetimi">
+<!ENTITY spellCheckEnable.accesskey "İ">
 <!ENTITY spellNoSuggestions.label "(Yazım önerisi yok)">
 <!ENTITY spellDictionaries.label "Diller">
-<!ENTITY spellDictionaries.accesskey "L">
+<!ENTITY spellDictionaries.accesskey "l">
 <!ENTITY spellAddDictionaries.label "Download More Dictionaries…">
 <!ENTITY spellAddDictionaries.accesskey "D">

@@ -37,9 +37,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY junkLog.title "Gereksiz Posta Günlüğü">
-<!ENTITY junkLogInfo.label "Gereksiz posta günlüğü, gereksiz posta kontrol aktivitelerinni belgeleyen bir dosyadır. Günlük tutmayı etkinleştirmek için aşağıdaki kontrol kutusunu kullanın.">
-<!ENTITY clearLog.label "Günlüğü Temizle">
-<!ENTITY clearLog.accesskey "T">
+<!ENTITY junkLog.title "Gereksiz posta günlüğü">
+<!ENTITY junkLogInfo.label "Gereksiz posta günlüğü, gereksiz posta kontrol aktivitelerini belgeleyen bir dosyadır. Günlük tutmayı etkinleştirmek için aşağıdaki kontrol kutusunu kullanın.">
+<!ENTITY clearLog.label "Günlüğü temizle">
+<!ENTITY clearLog.accesskey "t">
 <!ENTITY closeLog.label "Kapat">
 <!ENTITY closeLog.accesskey "a">

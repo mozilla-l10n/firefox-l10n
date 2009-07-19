@@ -40,7 +40,7 @@
 <!ENTITY managepassword.caption "Master Password Timeout">
 <!ENTITY managepassword.text "&brandShortName; will ask for your master password:">
 <!ENTITY managepassword.askfirsttime "The first time it is needed">
-<!ENTITY managepassword.askfirsttime.accesskey "T">
+<!ENTITY managepassword.askfirsttime.accesskey "t">
 <!ENTITY managepassword.askeverytime "Every time it is needed">
 <!ENTITY managepassword.askeverytime.accesskey "E">
 <!ENTITY managepassword.asktimeout "If it has not been used for ">
@@ -50,7 +50,7 @@
 <!ENTITY changepassword.caption "Change Master Password">
 <!ENTITY changepassword.text "Your master password protects sensitive information such as web passwords and certificates.">
 <!ENTITY changepassword.button "Change Password…">
-<!ENTITY changepassword.accesskey "k">
+<!ENTITY changepassword.accesskey "C">
 
 <!ENTITY resetpassword.caption "Ana Parolayı Sıfırla">
 <!ENTITY resetpassword.text "If you reset your master password, all of your stored web and e-mail passwords, form data, personal certificates, and private keys will be lost.">

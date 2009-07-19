@@ -37,45 +37,45 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Link Toolbar Title -->
 
-<!ENTITY linkToolbar.label "Site Navigation Bar">
-<!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.label "Site gezinti çubuğu">
+<!ENTITY linkToolbar.accesskey "ç">
 <!-- Link Toolbar visibility options -->
 
-<!ENTITY linkToolbarAlways.label "Show Always">
-<!ENTITY linkToolbarAlways.accesskey "S">
-<!ENTITY linkToolbarAsNeeded.label "Show Only As Needed">
-<!ENTITY linkToolbarAsNeeded.accesskey "O">
-<!ENTITY linkToolbarNever.label "Hide Always">
-<!ENTITY linkToolbarNever.accesskey "H">
+<!ENTITY linkToolbarAlways.label "Her zaman göster">
+<!ENTITY linkToolbarAlways.accesskey "H">
+<!ENTITY linkToolbarAsNeeded.label "Gerekli olduğunda göster">
+<!ENTITY linkToolbarAsNeeded.accesskey "G">
+<!ENTITY linkToolbarNever.label "Her zaman gizle">
+<!ENTITY linkToolbarNever.accesskey "z">
 <!-- Toolbar buttons, menus, and menuitems -->
 
 <!ENTITY topButton.label "Üst">
-<!ENTITY upButton.label "Up">
-<!ENTITY firstButton.label "First">
-<!ENTITY prevButton.label "Previous">
-<!ENTITY nextButton.label "Next">
-<!ENTITY lastButton.label "Last">
+<!ENTITY upButton.label "Yukarı">
+<!ENTITY firstButton.label "Birinci">
+<!ENTITY prevButton.label "Önceki">
+<!ENTITY nextButton.label "Sonraki">
+<!ENTITY lastButton.label "Sonuncu">
 
-<!ENTITY documentButton.label "Document">
+<!ENTITY documentButton.label "Belge">
 
 <!ENTITY tocButton.label "İçerik tablosu">
-<!ENTITY chapterButton.label "Chapters">
-<!ENTITY sectionButton.label "Sections">
-<!ENTITY subSectionButton.label "Subsections">
-<!ENTITY appendixButton.label "Appendices">
-<!ENTITY glossaryButton.label "Glossary">
-<!ENTITY indexButton.label "Index">
+<!ENTITY chapterButton.label "Bölümler">
+<!ENTITY sectionButton.label "Kısımlar">
+<!ENTITY subSectionButton.label "Alt kısımlar">
+<!ENTITY appendixButton.label "Lahika">
+<!ENTITY glossaryButton.label "Terimler sözlüğü">
+<!ENTITY indexButton.label "İçerik">
 
 <!ENTITY moreButton.label "Daha fazla">
 
 <!ENTITY helpButton.label "Yardım">
-<!ENTITY searchButton.label "Search">
+<!ENTITY searchButton.label "Ara">
 
-<!ENTITY authorButton.label "Author(s)">
-<!ENTITY copyrightButton.label "Copyright">
+<!ENTITY authorButton.label "Yazar(lar)">
+<!ENTITY copyrightButton.label "Telif hakkı">
 
-<!ENTITY bookmarkButton.label "Yer İmleri">
+<!ENTITY bookmarkButton.label "Yer imleri">
 
-<!ENTITY alternateButton.label "Other Versions">
+<!ENTITY alternateButton.label "Diğer sürümler">
 
 <!ENTITY feedButton.label "Üye ol">

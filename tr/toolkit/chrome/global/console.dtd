@@ -47,8 +47,8 @@
 <!ENTITY errors.accesskey "r">
 <!ENTITY warnings.label "Uyarılar">
 <!ENTITY warnings.accesskey "U">
-<!ENTITY messages.label "Mesajlar">
-<!ENTITY messages.accesskey "M">
+<!ENTITY messages.label "İletiler">
+<!ENTITY messages.accesskey "İ">
 <!ENTITY clear.label "Temizle">
 <!ENTITY clear.accesskey "l">
 <!ENTITY codeEval.label "Kod:">

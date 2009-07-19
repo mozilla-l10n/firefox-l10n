@@ -1,6 +1,7 @@
-<!ENTITY newCardCmd.accesskey "d">
-<!ENTITY newCardCmd.label "Adres defteri kartı...">
-<!ENTITY newMessageCmd.accesskey "P">
+<!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Posta">
-<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.accesskey "P">
+ 
+<!ENTITY newContactCmd.label "Adres defteri adresi…">
+<!ENTITY newContactCmd.accesskey "A">

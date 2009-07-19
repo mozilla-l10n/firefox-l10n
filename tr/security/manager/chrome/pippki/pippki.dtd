@@ -47,7 +47,7 @@
 
 <!ENTITY resetPasswordButtonLabel "Sıfırla">
 <!ENTITY resetPassword.title "Ana Parolayı Sıfırla">
-<!ENTITY resetPassword.text "Eğer ana parolanızı sıfırlarsanız, Web ve E-Posta parolanız, Form verileriniz, kişisel sertifiklarını ve özel Anahtarlarınız kaybolur.  Ana parolanızı sıfırlamak istediğinizden emin misiniz?">
+<!ENTITY resetPassword.text "Eğer ana parolanızı sıfırlarsanız, Web ve E-Posta parolanız, Form verileriniz, kişisel sertifikalarını ve özel Anahtarlarınız kaybolur.  Ana parolanızı sıfırlamak istediğinizden emin misiniz?">
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Ana parolanızı girin">
@@ -77,7 +77,7 @@
 <!ENTITY downloadCert.viewCert.label "Göster">
 <!ENTITY downloadCert.viewPolicy.label "Güvenlik">
 <!ENTITY downloadCert.viewCert.text "CA sertifikasını kontrol et">
-<!ENTITY downloadCert.viewPolicy.text "CA Poliçesini ve Prosedurunu kontrol et">
+<!ENTITY downloadCert.viewPolicy.text "CA Poliçesini ve prosedürünü kontrol et">
 <!-- Certificate Exists in database -->
 
 <!ENTITY caCertExists.title "Sertifika mevcut">
@@ -108,8 +108,8 @@
 
 <!ENTITY escrowWarn.title "Anahtar şifreleme kopyası">
 <!ENTITY escrowWarn.message1 "Önemli: Sertifika yetkilisi, şifrelemede kullandığınız  özel anahtarlarınız için bir yedekleme yapmanızı rica etti.">
-<!ENTITY escrowWarn.benefit1 "Burdaki avantajınız, eğer Anahtar kaybı halinde Sertifika yetkilisinden bir kopyasını talep edebilirsiniz.">
-<!ENTITY escrowWarn.message2 "Herşeye rağmen  sertifika yetkilisi tarafından şifrelenmiş özel anahtarınız kaydoldu ve şifrelenmiş e-posta veya belgelerinizi  sizin izniniz olmadan okumak amacı ile kullanılabilir.">
+<!ENTITY escrowWarn.benefit1 "Buradaki avantajınız, eğer Anahtar kaybı halinde Sertifika yetkilisinden bir kopyasını talep edebilirsiniz.">
+<!ENTITY escrowWarn.message2 "Her şeye rağmen  sertifika yetkilisi tarafından şifrelenmiş özel anahtarınız kaydoldu ve şifrelenmiş e-posta veya belgelerinizi  sizin izniniz olmadan okumak amacı ile kullanılabilir.">
 <!ENTITY examineCert.label "Sertifikayı göster">
 <!ENTITY examineCert.accesskey "S">
 
@@ -122,7 +122,7 @@
 <!-- Form Signing confirmation prompt -->
 
 <!ENTITY formSigning.title "Metin yazı sorgulaması">
-<!ENTITY formSigning.cert "İmzalanan Seritifikalar">
+<!ENTITY formSigning.cert "İmzalanan Sertifikalar">
 <!ENTITY formSigning.confirmPassword "Bu metni seçtiğiniz sertifika ile imzalamak için lütfen Ana parolanızı onaylayınız:">
 <!-- Strings for protectedAuth dialog -->
 
@@ -130,6 +130,6 @@
 <!ENTITY protectedAuth.msg "Lütfen işarete kimliğinizi doğrulayın. Kimlik doğrulama yöntemi işaretinizin türüne göre değişir.">
 <!ENTITY protectedAuth.tokenName.label "İşaret:">
 
-<!ENTITY certErrorDlg.title "Secure Connection Failed">
+<!ENTITY certErrorDlg.title "Güvenli bağlantı hatalı">
 <!ENTITY certErrorDlg.info1 "Bu, sunucunun yapılandırılmasından ya da sunucuyu taklit etmeye çalışan biri yüzünden kaynaklanan bir sorun olabilir.">
 <!ENTITY certErrorDlg.info2 "Sunucuya daha önce başarıyla bağlandıysanız, bu sorun geçici olabilir ve daha sonra yeniden deneyebilirsiniz.">

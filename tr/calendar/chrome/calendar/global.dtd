@@ -1,4 +1,3 @@
-
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -35,52 +34,59 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY time.midnight "Gece yarısı" >
-<!ENTITY time.noon "Öğlen" >
+<!ENTITY time.midnight "Gece yarısı">
+<!ENTITY time.noon "Öğlen">
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
 
-<!-- Month Names -->
-<!ENTITY day.1.Ddd "Paz" >
+<!ENTITY day.1.Ddd "Paz">
 <!ENTITY day.1.Ddd.accesskey "P">
-<!ENTITY day.2.Ddd "Pzt" >
+<!ENTITY day.2.Ddd "Pzt">
 <!ENTITY day.2.Ddd.accesskey "Z">
-<!ENTITY day.3.Ddd "Sal" >
+<!ENTITY day.3.Ddd "Sal">
 <!ENTITY day.3.Ddd.accesskey "S">
-<!ENTITY day.4.Ddd "Çar" >
+<!ENTITY day.4.Ddd "Çar">
 <!ENTITY day.4.Ddd.accesskey "A">
-<!ENTITY day.5.Ddd "Per" >
+<!ENTITY day.5.Ddd "Per">
 <!ENTITY day.5.Ddd.accesskey "E">
-<!ENTITY day.6.Ddd "Cum" >
+<!ENTITY day.6.Ddd "Cum">
 <!ENTITY day.6.Ddd.accesskey "C">
-<!ENTITY day.7.Ddd "Cmt" >
+<!ENTITY day.7.Ddd "Cmt">
 <!ENTITY day.7.Ddd.accesskey "M">
 
+<!ENTITY day.1.name "Pazar">
+<!ENTITY day.2.name "Pazartesi">
+<!ENTITY day.3.name "Salı">
+<!ENTITY day.4.name "Çarşamba">
+<!ENTITY day.5.name "Perşembe">
+<!ENTITY day.6.name "Cuma">
+<!ENTITY day.7.name "Cumartesi">
+<!-- Units -->
 
-<!ENTITY day.1.name "Pazar" >
-<!ENTITY day.2.name "Pazartesi" >
-<!ENTITY day.3.name "Salı" >
-<!ENTITY day.4.name "Çarşamba" >
-<!ENTITY day.5.name "Perşembe" >
-<!ENTITY day.6.name "Cuma" >
-<!ENTITY day.7.name "Cumartesi" >
+<!ENTITY calendar.global.units.minute "dakika">
+<!ENTITY calendar.global.units.minutes "minutes">
+<!ENTITY calendar.global.units.hour "saat">
+<!ENTITY calendar.global.units.hours "hours">
+<!ENTITY calendar.global.units.day "gün">
+<!ENTITY calendar.global.units.days "days">
 
-!-- Units -->
-<!ENTITY calendar.global.units.second   "saniye">
-<!ENTITY calendar.global.units.minute   "dakika">
-<!ENTITY calendar.global.units.hour     "saat">
-<!ENTITY calendar.global.units.day      "gün">
-<!ENTITY calendar.global.units.week     "hafta">
-<!ENTITY calendar.global.units.month    "ay">
-<!ENTITY calendar.global.units.year     "yıl">
+<!ENTITY month.1.name "Ocak">
+<!ENTITY month.2.name "Şubat">
+<!ENTITY month.3.name "Mart">
+<!ENTITY month.4.name "Nisan">
+<!ENTITY month.5.name "Mayıs">
+<!ENTITY month.6.name "Haziran">
+<!ENTITY month.7.name "Temmuz">
+<!ENTITY month.8.name "Ağustos">
+<!ENTITY month.9.name "Eylül">
+<!ENTITY month.10.name "Ekim">
+<!ENTITY month.11.name "Kasım">
+<!ENTITY month.12.name "Aralık">
 
-<!ENTITY month.1.name "Ocak" >
-<!ENTITY month.2.name "Şubat" >
-<!ENTITY month.3.name "Mart" >
-<!ENTITY month.4.name "Nisan" >
-<!ENTITY month.5.name "Mayıs" >
-<!ENTITY month.6.name "Haziran" >
-<!ENTITY month.7.name "Temmuz" >
-<!ENTITY month.8.name "Ağustos" >
-<!ENTITY month.9.name "Eylül" >
-<!ENTITY month.10.name "Ekim" >
-<!ENTITY month.11.name "Kasım" >
-<!ENTITY month.12.name "Aralık" >
+<!ENTITY onemonthbackward.tooltip "One Month Back">
+<!ENTITY onemonthforward.tooltip "One Month Forward">
+<!ENTITY showToday.tooltip "Go to Today">
+<!ENTITY onedayforward.tooltip "One Day Forward">
+<!ENTITY onedaybackward.tooltip "One Day Backward">
+<!ENTITY showselectedday.tooltip "Show events for selected day">

@@ -1,4 +1,4 @@
 <!ENTITY appManager.title "Uygulama ayrıntıları">
 <!ENTITY appManager.style "width: 40ch; min-height: 20em;">
-<!ENTITY remove.label "Remove">
-<!ENTITY remove.accesskey "R">
+<!ENTITY remove.label "Kaldır">
+<!ENTITY remove.accesskey "r">

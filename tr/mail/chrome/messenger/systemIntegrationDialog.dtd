@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title "Sistem entegrasyonu">
+<!ENTITY defaultClient.intro "&brandShortName; aşağıdaki hizmetler için öntanımlı istemci olarak kullanılsın:">
+
+<!ENTITY email.label "E-posta">
+<!ENTITY newsgroups.label "Haber Grupları">
+<!ENTITY feeds.label "Canlı yer imleri">
+
+<!ENTITY checkOnStartup.label "Bu kontrolü &brandShortName; uygulamasının her açılışında uygula">
+<!ENTITY checkOnStartup.accesskey "B">
+
+<!ENTITY searchIntegration.label "&searchIntegration.engineName; ileti aramasına izin ver">
+<!ENTITY searchIntegration.accesskey "s">

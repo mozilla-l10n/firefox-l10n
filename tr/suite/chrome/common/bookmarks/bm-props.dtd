@@ -37,72 +37,72 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY bookmarks.windowtitle.label "Properties for &quot;**bm_title**&quot;">
+<!ENTITY bookmarks.windowtitle.label "&quot;**bm_title**&quot; özellikleri">
 
 <!ENTITY generalInfo.label "Genel">
-<!ENTITY bookmarks.name.label "Name:">
-<!ENTITY bookmarks.name.accesskey "N">
-<!ENTITY bookmarks.location.label "Location:">
-<!ENTITY bookmarks.location.accesskey "L">
+<!ENTITY bookmarks.name.label "İsim:">
+<!ENTITY bookmarks.name.accesskey "s">
+<!ENTITY bookmarks.location.label "Konum:">
+<!ENTITY bookmarks.location.accesskey "K">
 <!ENTITY bookmarks.shortcut.label "Anahtar kelime:">
-<!ENTITY bookmarks.shortcut.accesskey "K">
-<!ENTITY bookmarks.description.label "Description:">
-<!ENTITY bookmarks.description.accesskey "D">
+<!ENTITY bookmarks.shortcut.accesskey "k">
+<!ENTITY bookmarks.description.label "Açıklama:">
+<!ENTITY bookmarks.description.accesskey "A">
 
-<!ENTITY checkforupdates.legend.label "Check this location for updates">
-<!ENTITY when.label "When:">
-<!ENTITY when.accesskey "W">
-<!ENTITY from.label "from:">
-<!ENTITY from.accesskey "f">
-<!ENTITY to.label "to: ">
-<!ENTITY to.accesskey "t">
-<!ENTITY every.label "every">
-<!ENTITY every.accesskey "e">
-<!ENTITY minutes.label "minute(s)">
-<!ENTITY notifications.legend.label "Notification">
+<!ENTITY checkforupdates.legend.label "Güncellemeler denetimi için kullanılan konum">
+<!ENTITY when.label "Zamanı:">
+<!ENTITY when.accesskey "Z">
+<!ENTITY from.label "başlangıç:">
+<!ENTITY from.accesskey "b">
+<!ENTITY to.label "bitiş: ">
+<!ENTITY to.accesskey "i">
+<!ENTITY every.label "her">
+<!ENTITY every.accesskey "h">
+<!ENTITY minutes.label "dakika">
+<!ENTITY notifications.legend.label "Uyarı">
 
-<!ENTITY checknever.label "Never">
-<!ENTITY checkeveryday.label "Every day">
-<!ENTITY checkweekdays.label "Weekdays">
-<!ENTITY checkweekends.label "Weekends">
-<!ENTITY checkmondays.label "Mondays">
-<!ENTITY checktuesdays.label "Tuesdays">
-<!ENTITY checkwednesdays.label "Wednesdays">
-<!ENTITY checkthursdays.label "Thursdays">
-<!ENTITY checkfridays.label "Fridays">
-<!ENTITY checksaturdays.label "Saturdays">
-<!ENTITY checksundays.label "Sundays">
+<!ENTITY checknever.label "Asla">
+<!ENTITY checkeveryday.label "Her gün">
+<!ENTITY checkweekdays.label "Hafta içi">
+<!ENTITY checkweekends.label "Hafta sonları">
+<!ENTITY checkmondays.label "Pazartesi">
+<!ENTITY checktuesdays.label "Salı">
+<!ENTITY checkwednesdays.label "Çarşamba">
+<!ENTITY checkthursdays.label "Perşembe">
+<!ENTITY checkfridays.label "Cuma">
+<!ENTITY checksaturdays.label "Cumartesi">
+<!ENTITY checksundays.label "Pazar">
 
-<!ENTITY midnight.label "Midnight">
-<!ENTITY AMone.label "1 AM">
-<!ENTITY AMtwo.label "2 AM">
-<!ENTITY AMthree.label "3 AM">
-<!ENTITY AMfour.label "4 AM">
-<!ENTITY AMfive.label "5 AM">
-<!ENTITY AMsix.label "6 AM">
-<!ENTITY AMseven.label "7 AM">
-<!ENTITY AMeight.label "8 AM">
-<!ENTITY AMnine.label "9 AM">
-<!ENTITY AMten.label "10 AM">
-<!ENTITY AMeleven.label "11 AM">
-<!ENTITY noon.label "Noon">
-<!ENTITY PMone.label "1 PM">
-<!ENTITY PMtwo.label "2 PM">
-<!ENTITY PMthree.label "3 PM">
-<!ENTITY PMfour.label "4 PM">
-<!ENTITY PMfive.label "5 PM">
-<!ENTITY PMsix.label "6 PM">
-<!ENTITY PMseven.label "7 PM">
-<!ENTITY PMeight.label "8 PM">
-<!ENTITY PMnine.label "9 PM">
-<!ENTITY PMten.label "10 PM">
-<!ENTITY PMeleven.label "11 PM">
+<!ENTITY midnight.label "Gece yarısı">
+<!ENTITY AMone.label "1 ÖÖ">
+<!ENTITY AMtwo.label "2 ÖÖ">
+<!ENTITY AMthree.label "3 ÖÖ">
+<!ENTITY AMfour.label "4 ÖÖ">
+<!ENTITY AMfive.label "5 ÖÖ">
+<!ENTITY AMsix.label "6 ÖÖ">
+<!ENTITY AMseven.label "7 ÖÖ">
+<!ENTITY AMeight.label "8 ÖÖ">
+<!ENTITY AMnine.label "9 ÖÖ">
+<!ENTITY AMten.label "10 ÖÖ">
+<!ENTITY AMeleven.label "11 ÖÖ">
+<!ENTITY noon.label "Öğle">
+<!ENTITY PMone.label "1 ÖS">
+<!ENTITY PMtwo.label "2 ÖS">
+<!ENTITY PMthree.label "3 ÖS">
+<!ENTITY PMfour.label "4 ÖS">
+<!ENTITY PMfive.label "5 ÖS">
+<!ENTITY PMsix.label "6 ÖS">
+<!ENTITY PMseven.label "7 ÖS">
+<!ENTITY PMeight.label "8 ÖS">
+<!ENTITY PMnine.label "9 ÖS">
+<!ENTITY PMten.label "10 ÖS">
+<!ENTITY PMeleven.label "11 ÖS">
 
-<!ENTITY notification.icon.label "Change the bookmark's icon">
-<!ENTITY notification.icon.accesskey "C">
-<!ENTITY notification.sound.label "Play a sound">
-<!ENTITY notification.sound.accesskey "P">
-<!ENTITY notification.alert.label "Display an alert">
-<!ENTITY notification.alert.accesskey "r">
-<!ENTITY notification.window.label "Open web page in a new window">
-<!ENTITY notification.window.accesskey "O">
+<!ENTITY notification.icon.label "Yer iminin küçük resmini değiştir">
+<!ENTITY notification.icon.accesskey "Y">
+<!ENTITY notification.sound.label "Ses dosyası çal">
+<!ENTITY notification.sound.accesskey "S">
+<!ENTITY notification.alert.label "Uyarı göster">
+<!ENTITY notification.alert.accesskey "g">
+<!ENTITY notification.window.label "Sayfayı yeni pencerede aç">
+<!ENTITY notification.window.accesskey "f">

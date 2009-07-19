@@ -4,17 +4,17 @@
 <!ENTITY pref.colors.title "Colors">
 <!ENTITY color "Metin ve Arkaplan">
 <!ENTITY textColor.label "Metin:">
-<!ENTITY textColor.accesskey "T">
-<!ENTITY backgroundColor.label "Background:">
-<!ENTITY backgroundColor.accesskey "B">
+<!ENTITY textColor.accesskey "t">
+<!ENTITY backgroundColor.label "Arkaplan:">
+<!ENTITY backgroundColor.accesskey "p">
 <!ENTITY useSystemColors.label "Sistem renklerini kullan">
-<!ENTITY useSystemColors.accesskey "s">
+<!ENTITY useSystemColors.accesskey "S">
 
 <!ENTITY underlineLinks.label "Bağlantıların altını çiz">
-<!ENTITY underlineLinks.accesskey "I">
+<!ENTITY underlineLinks.accesskey "ı">
 <!ENTITY links "Bağlantı Renkleri">
 <!ENTITY linkColor.label "Ziyaret edilmemiş bağlantılar:">
-<!ENTITY linkColor.accesskey "L">
+<!ENTITY linkColor.accesskey "l">
 <!ENTITY activeLinkColor.label "Active Links:">
 <!ENTITY activeLinkColor.accesskey "c">
 <!ENTITY visitedLinkColor.label "Ziyaret edilmiş bağlantılar:">

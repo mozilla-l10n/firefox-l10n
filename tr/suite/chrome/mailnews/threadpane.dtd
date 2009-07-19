@@ -35,44 +35,44 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY threadColumn.label "Thread">
-<!ENTITY fromColumn.label "From">
-<!ENTITY recipientColumn.label "Recipient">
-<!ENTITY attachmentColumn.label "Attachments">
+<!ENTITY threadColumn.label "Dizilim">
+<!ENTITY fromColumn.label "Gönderen">
+<!ENTITY recipientColumn.label "Alıcı">
+<!ENTITY attachmentColumn.label "Ekler">
 <!ENTITY subjectColumn.label "Konu">
-<!ENTITY dateColumn.label "Date">
-<!ENTITY priorityColumn.label "Priority">
+<!ENTITY dateColumn.label "Tarih">
+<!ENTITY priorityColumn.label "Öncelik">
 <!ENTITY tagsColumn.label "Etiketler">
-<!ENTITY accountColumn.label "Account">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Size">
-<!ENTITY junkStatusColumn.label "Junk Status">
-<!ENTITY unreadColumn.label "Unread in Thread">
+<!ENTITY accountColumn.label "Hesap">
+<!ENTITY statusColumn.label "Durum">
+<!ENTITY sizeColumn.label "Boyut">
+<!ENTITY junkStatusColumn.label "Gereksiz durumu">
+<!ENTITY unreadColumn.label "Dizilimde okunmamış">
 <!ENTITY totalColumn.label "Total in Thread">
-<!ENTITY readColumn.label "Read">
-<!ENTITY receivedColumn.label "Received">
+<!ENTITY readColumn.label "Okunmuş">
+<!ENTITY receivedColumn.label "Tarih">
 <!ENTITY flagColumn.label "Flag">
 <!ENTITY locationColumn.label "Konum">
-<!ENTITY idColumn.label "Order Received">
+<!ENTITY idColumn.label "Alındı sırası">
 <!--Tooltips-->
 
-<!ENTITY columnChooser.tooltip "Click to select columns to display">
-<!ENTITY threadColumn.tooltip "Click to display message threads">
-<!ENTITY fromColumn.tooltip "Click to sort by from">
-<!ENTITY recipientColumn.tooltip "Click to sort by recipient">
-<!ENTITY attachmentColumn.tooltip "Click to sort by attachments">
-<!ENTITY subjectColumn.tooltip "Click to sort by subject">
-<!ENTITY dateColumn.tooltip "Click to sort by date">
-<!ENTITY priorityColumn.tooltip "Click to sort by priority">
-<!ENTITY tagsColumn.tooltip "Click to sort by tags">
-<!ENTITY accountColumn.tooltip "Click to sort by account">
-<!ENTITY statusColumn.tooltip "Click to sort by status">
-<!ENTITY sizeColumn.tooltip "Click to sort by size">
-<!ENTITY junkStatusColumn.tooltip "Click to sort by junk status">
-<!ENTITY unreadColumn.tooltip "Number of unread messages in thread">
-<!ENTITY totalColumn.tooltip "Total number of messages in thread">
-<!ENTITY readColumn.tooltip "Click to sort by read">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
-<!ENTITY flagColumn.tooltip "Click to sort by flag">
-<!ENTITY locationColumn.tooltip "Click to sort by location">
-<!ENTITY idColumn.tooltip "Click to sort by order received">
+<!ENTITY columnChooser.tooltip "Görüntülenecek sütunları tıklayın">
+<!ENTITY threadColumn.tooltip "Posta dizilimlerini görmek için tıklayın">
+<!ENTITY fromColumn.tooltip "Gönderene göre sıralamak için tıklayın">
+<!ENTITY recipientColumn.tooltip "Alıcıya göre sıralamak için tıklayın">
+<!ENTITY attachmentColumn.tooltip "Eklere göre sırala">
+<!ENTITY subjectColumn.tooltip "Konuya göre sıralamak için tıklayın">
+<!ENTITY dateColumn.tooltip "Tarihe göre sıralamak için tıklayın">
+<!ENTITY priorityColumn.tooltip "Önceliğe göre sıralamak için tıklayın">
+<!ENTITY tagsColumn.tooltip "Etikete göre sıralamak için tıklayın">
+<!ENTITY accountColumn.tooltip "Hesaba göre sırala">
+<!ENTITY statusColumn.tooltip "Duruma göre sıralamak için tıklayın">
+<!ENTITY sizeColumn.tooltip "Boyuta göre sırala">
+<!ENTITY junkStatusColumn.tooltip "Gereksiz durumuna göre sıralamak için tıklayın">
+<!ENTITY unreadColumn.tooltip "Okunmayan iletilerin sayısı">
+<!ENTITY totalColumn.tooltip "İletilerin toplam sayısı">
+<!ENTITY readColumn.tooltip "Okunanlara göre sıralamak için tıklayın">
+<!ENTITY receivedColumn.tooltip "Alış tarihine göre sıralamak için tıklayın">
+<!ENTITY flagColumn.tooltip "Yıldızlılığa göre sıralamak için tıklayın">
+<!ENTITY locationColumn.tooltip "Konuma göre sırala">
+<!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">

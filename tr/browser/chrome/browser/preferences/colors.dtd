@@ -3,7 +3,7 @@
 <!ENTITY window.macWidth "42em">
 
 <!ENTITY allowPagesToUse.label "Seçtiklerim dışında internet sayfalarının kendi renklerini kullanmasına izin ver.">
-<!ENTITY allowPagesToUse.accesskey "D">
+<!ENTITY allowPagesToUse.accesskey "d">
 
 <!ENTITY color "Metin ve Arkaplan">
 <!ENTITY textColor.label "Metin:">
@@ -11,7 +11,7 @@
 <!ENTITY backgroundColor.label "Arkaplan:">
 <!ENTITY backgroundColor.accesskey "p">
 <!ENTITY useSystemColors.label "Sistem renklerini kullan">
-<!ENTITY useSystemColors.accesskey "s">
+<!ENTITY useSystemColors.accesskey "S">
 
 <!ENTITY underlineLinks.label "Bağlantıların altını çiz">
 <!ENTITY underlineLinks.accesskey "ı">
@@ -19,4 +19,4 @@
 <!ENTITY linkColor.label "Ziyaret edilmemiş bağlantılar:">
 <!ENTITY linkColor.accesskey "l">
 <!ENTITY visitedLinkColor.label "Ziyaret edilmiş bağlantılar:">
-<!ENTITY visitedLinkColor.accesskey "z">
+<!ENTITY visitedLinkColor.accesskey "Z">

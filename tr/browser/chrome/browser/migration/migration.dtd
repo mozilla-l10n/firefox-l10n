@@ -10,7 +10,7 @@
 <!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird veya Phoenix">
 <!ENTITY importFromPhoenix.accesskey "P">
 <!ENTITY importFromNothing.label "İçe bir şey aktarma">
-<!ENTITY importFromNothing.accesskey "B">
+<!ENTITY importFromNothing.accesskey "b">
 <!ENTITY importFromSeamonkey.label "Netscape 6, 7 veya Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey "N">
 <!ENTITY importFromNetscape4.label "Netscape 4.x">
@@ -32,7 +32,7 @@
 <!ENTITY importFromGaleon.label "Galeon">
 <!ENTITY importFromGaleon.accesskey "G">
 <!ENTITY importFromHTMLFile.label "HTML dosyasından">
-<!ENTITY importFromHTMLFile.accesskey "D">
+<!ENTITY importFromHTMLFile.accesskey "d">
 
 <!ENTITY noMigrationSources.label "Yer imlerinin, geçmişin veya parola verisinin kayıtlı olduğu hiçbir program bulunamadı.">
 

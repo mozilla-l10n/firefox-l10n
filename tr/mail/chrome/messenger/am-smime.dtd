@@ -1,19 +1,28 @@
-<!ENTITY alwaysEncryptMessage.label "Gerekli (alıcının sertifikası yoksa posta gönderilemez)">
-<!ENTITY certificate.button "Seç...">
-<!ENTITY certificate_clear.button "Temizle">
-<!ENTITY encryptionCert.message "Aşağıdaki Kişisel Sertifikayı kullan:">
-<!ENTITY encryptionCert.notselected "Sertifika Seçilmemiş">
-<!ENTITY encryptionChoiceLabel.label "Postaları gönderirken kullanılan öntanımlı şifreleme ayarları:">
-<!ENTITY encryptionGroupTitle.label "Şifreleme">
-<!ENTITY managecerts.accesskey "S">
-<!ENTITY managecerts.label "Sertifika ve Aygıtlar Yönetimi">
-<!ENTITY neverEncrypt.label "Asla (şifreleme kullanma)">
-<!ENTITY securityHeading.label "Şifreli mesajları almak ve göndermek için hem şifreleme sertifikası hem de  sayısal imza belirtmek zorundasınız.">
 <!ENTITY securityTitle.label "Güvenlik">
+<!ENTITY securityTab.label "Güvenlik">
+<!ENTITY securityHeading.label "Şifreli iletileri almak ve göndermek için hem şifreleme sertifikası hem de  sayısal imza belirtmek zorundasınız.">
+<!ENTITY encryptionGroupTitle.label "Şifreleme">
+<!ENTITY encryptionChoiceLabel.label "Postaları gönderirken kullanılan öntanımlı şifreleme ayarları:">
+<!ENTITY neverEncrypt.label "Asla (şifreleme kullanma)">
+<!ENTITY neverEncrypt.accesskey "A">
+<!ENTITY alwaysEncryptMessage.label "Gerekli (alıcının sertifikası yoksa posta gönderilemez)">
+<!ENTITY alwaysEncryptMessage.accesskey "G">
+<!ENTITY encryptionCert.message "Aşağıdaki kişisel sertifikayı kullan:">
+<!ENTITY digitalSign.certificate.button "Seç…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Temizle">
+<!ENTITY digitalSign.certificate_clear.accesskey "T">
+<!ENTITY encryption.certificate.button "Seç…">
+<!ENTITY encryption.certificate.accesskey "e">
+<!ENTITY encryption.certificate_clear.button "Temizle">
+<!ENTITY encryption.certificate_clear.accesskey "z">
+<!ENTITY signingGroupTitle.label "Sayısal imza">
 <!ENTITY signMessage.label "Postaları Sayısal İmzala (Öntanımlı)">
-<!ENTITY signingCert.message "Aşağıdaki Kişisel Sertifikayı kullan:">
-<!ENTITY signingCert.notselected "Sertifika Seçilmemiş">
-<!ENTITY signingGroupTitle.label "Sayısal İmza">
-<!ENTITY certificates.label     "Sertifikalar">
-<!ENTITY managedevices.label    "Güvenlik Aygıtları">
-<!ENTITY managedevices.accesskey "G">
+<!ENTITY signMessage.accesskey "S">
+<!ENTITY signingCert.message "Aşağıdaki kişisel sertifikayı kullan:">
+
+<!ENTITY certificates.label "Sertifikalar">
+<!ENTITY manageCerts.label "Sertifikaları göster">
+<!ENTITY manageCerts.accesskey "ö">
+<!ENTITY manageDevices.label "Güvenlik aygıtları">
+<!ENTITY manageDevices.accesskey "y">

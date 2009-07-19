@@ -4,16 +4,16 @@
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "2">
 <!ENTITY addressBookCmd.label "Adres defteri">
-<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.commandkey "4">
 
-<!ENTITY taskMessenger.tooltip "Mail &amp; Newsgroups">
-<!ENTITY taskAddressBook.tooltip "Adres Defteri">
+<!ENTITY taskMessenger.tooltip "Posta ve haber grupları">
+<!ENTITY taskAddressBook.tooltip "Adres defteri">
 <!-- searchAddressesCmd is also used by addressbook -->
 
-<!ENTITY searchAddressesCmd.label "Search Addresses…">
+<!ENTITY searchAddressesCmd.label "Adreslerde ara…">
 <!ENTITY searchAddressesCmd.accesskey "A">
 
-<!ENTITY searchMailCmd.label "Search Messages…">
-<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.label "Postaları ara…">
+<!ENTITY searchMailCmd.accesskey "P">
 <!ENTITY searchMailCmd.key "f">

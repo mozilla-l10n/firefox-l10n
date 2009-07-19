@@ -37,16 +37,16 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY importDialog.windowTitle "İçeri Aktarma">
-<!ENTITY importAll.label "Import Everything">
-<!ENTITY importAll.accesskey "E">
-<!ENTITY importMail.label "Mail">
-<!ENTITY importMail.accesskey "M">
-<!ENTITY importAddressbook.label "Address Books">
+<!ENTITY importAll.label "Her şeyi içe aktar">
+<!ENTITY importAll.accesskey "H">
+<!ENTITY importMail.label "E-posta">
+<!ENTITY importMail.accesskey "E">
+<!ENTITY importAddressbook.label "Adres defterleri">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label "Ayarlar">
-<!ENTITY importSettings.accesskey "A">
-<!ENTITY importFilters.label "Filters">
-<!ENTITY importFilters.accesskey "F">
+<!ENTITY importSettings.accesskey "y">
+<!ENTITY importFilters.label "Süzgeçler">
+<!ENTITY importFilters.accesskey "S">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
@@ -58,7 +58,7 @@
 <!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
 
 <!ENTITY selectDescription.label "İçeri aktarmak istediğiniz yazılımı seçin:">
-<!ENTITY selectDescription.accesskey "A">
+<!ENTITY selectDescription.accesskey "a">
 
 <!ENTITY back.label "&lt; Geri">
 <!ENTITY forward.label "Sonraki &gt;">
@@ -70,10 +70,10 @@
 <!ENTITY title.label "Başlık">
 <!ENTITY processing.label "İçeri aktarılıyor…">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x da herkart için bir posta adresi var, &brandShortName; ikitane (İş ve Ev)var.">
+<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x da her kart için bir posta adresi var, &brandShortName; iki tane (İş ve Ev)var.">
 <!ENTITY FieldDiscInputText2.label "Aktarmak istediğiniz Posta adreslerinin içeriğini seçin:">
 <!ENTITY FieldDiscWarning.label "Tüm seçilmiş adres defterleri için kullanılacaktır:">
-<!ENTITY importHome.label "Başlangıç">
-<!ENTITY importHome.accesskey "B">
+<!ENTITY importHome.label "Ev">
+<!ENTITY importHome.accesskey "E">
 <!ENTITY importWork.label "İş">
 <!ENTITY importWork.accesskey "İ">

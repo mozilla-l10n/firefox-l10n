@@ -26,8 +26,8 @@
 <!ENTITY cmd.installLocalFile.accesskey "K">
 <!ENTITY cmd.installFileAddon.tooltip "Eklenti kur">
 <!ENTITY cmd.installFileTheme.tooltip "Tema kur">
-<!ENTITY cmd.installUpdatesAll2.label "Install Updates">
-<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.label "Güncellemeleri kur">
+<!ENTITY cmd.installUpdatesAll2.accesskey "G">
 <!ENTITY cmd.installUpdatesAll2.tooltip "Install the selected updates">
 <!ENTITY cmd.restartApp2.label "&brandShortName; uygulamasını tekrar başlat">
 <!ENTITY cmd.restartApp2.accesskey "r">
@@ -41,7 +41,7 @@
 
 <!ENTITY cmd.enableAll.label "Tümünü etkinleştir">
 <!ENTITY cmd.enableAll.accesskey "e">
-<!ENTITY cmd.enableAll.tooltip "Tüm eklentileri ektinleştir">
+<!ENTITY cmd.enableAll.tooltip "Tüm eklentileri etkinleştir">
 <!ENTITY cmd.disableAll.label "Tümünü etkisizleştir">
 <!ENTITY cmd.disableAll.accesskey "s">
 <!ENTITY cmd.disableAll.tooltip "Tüm eklentileri etkisizleştir">
@@ -87,8 +87,8 @@
 <!ENTITY cmd.installSearchResult.accesskey "a">
 <!ENTITY cmd.installSearchResult.tooltip "Bu eklentiyi indir ve kur">
 <!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "Vazgeç">
-<!ENTITY cancel.accesskey "z">
+<!ENTITY cancel.label "Cancel">
+<!ENTITY cancel.accesskey "C">
 <!ENTITY cancelInstall.label "Vazgeç">
 <!ENTITY cancelInstall.accesskey "V">
 <!ENTITY cancelUpgrade.label "Vazgeç">
@@ -126,7 +126,7 @@
 <!ENTITY searchAddons.label "Tüm eklentileri ara">
 <!ENTITY browseAddons.label "Tüm eklentilere bak">
 <!ENTITY searchFailed.label "&brandShortName; eklentilere ulaşamadı">
-<!ENTITY recommendedHeader.label "Tavsiye ediliyor">
+<!ENTITY recommendedHeader.label "Tavsiye edilenler">
 <!ENTITY recommendedThrobber.label "Tavsiye edilen eklentilere ulaşılıyor">
 <!ENTITY searchThrobber.label "Eklentiler aranıyor">
 <!ENTITY resetSearch.label "Sonuçları temizle">

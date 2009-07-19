@@ -38,8 +38,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY sidebar.panels.label "Sidebar">
-<!ENTITY sidebar.reload.label "Reload">
-<!ENTITY sidebar.reload.accesskey "R">
+<!ENTITY sidebar.reload.label "Tazele">
+<!ENTITY sidebar.reload.accesskey "T">
 <!ENTITY sidebar.picker.label "Sekmeler">
 <!ENTITY sidebar.customize.label "Customize Sidebar…">
 <!ENTITY sidebar.customize.accesskey "u">

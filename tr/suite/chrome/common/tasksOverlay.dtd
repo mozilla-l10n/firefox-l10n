@@ -10,8 +10,8 @@
 <!ENTITY javaConsoleCmd.label "Java Console">
 <!ENTITY javaConsoleCmd.accesskey "j">
 
-<!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.label "Hata konsolu">
+<!ENTITY errorConsoleCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY taskNavigator.tooltip "Browser">

@@ -1,22 +1,22 @@
-<!ENTITY window.title "Sort Folder">
+<!ENTITY window.title "Dizinleri sırala">
 
-<!ENTITY sortOptions.label "Sort options">
+<!ENTITY sortOptions.label "Sıralama özellikeri">
 <!ENTITY description.label "&brandShortName; can sort individual folders. Use these options to customize the sorting for this Folder.">
 
-<!ENTITY sortBy.label "Sort by:">
+<!ENTITY sortBy.label "Sıralama koşulu: ">
 <!ENTITY sortBy.accesskey "S">
-<!ENTITY sortBy.name.label "Name">
+<!ENTITY sortBy.name.label "İsim">
 <!ENTITY sortBy.url.label "Konum">
 <!ENTITY sortBy.shortcutUrl.label "Anahtar kelime">
-<!ENTITY sortBy.description.label "Description">
+<!ENTITY sortBy.description.label "Açıklama">
 <!ENTITY sortBy.bookmarkAddDate.label "Ekleme tarihi">
 <!ENTITY sortBy.lastModifiedDate.label "Son değişiklik">
-<!ENTITY sortBy.lastVisitDate.label "Last Visited">
+<!ENTITY sortBy.lastVisitDate.label "En çok ziyaret edilenler">
 
 <!ENTITY sortOrder.label "Sort order:">
 <!ENTITY sortOrder.accesskey "o">
-<!ENTITY sortAscending.label "Ascending">
-<!ENTITY sortDescending.label "Descending">
+<!ENTITY sortAscending.label "Artarak">
+<!ENTITY sortDescending.label "Azalarak">
 
 <!ENTITY sortFoldersFirst.label "Sort folders first">
 <!ENTITY sortFoldersFirst.accesskey "d">

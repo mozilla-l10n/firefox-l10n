@@ -3,16 +3,16 @@
 <!ENTITY viewPicker.label "Göster:">
 <!ENTITY viewPicker.accesskey "r">
 <!ENTITY viewAll.label "Hepsini">
-<!ENTITY viewAll.accesskey "E">
+<!ENTITY viewAll.accesskey "e">
 <!ENTITY viewUnread.label "Okunmayanları">
-<!ENTITY viewUnread.accesskey "U">
-<!ENTITY viewNotDeleted.label "Not Deleted">
-<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewUnread.accesskey "u">
+<!ENTITY viewNotDeleted.label "Silinmemiş">
+<!ENTITY viewNotDeleted.accesskey "S">
 <!ENTITY viewTags.label "Etiketler">
-<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewTags.accesskey "t">
 <!ENTITY viewCustomViews.label "Özel gösterim">
-<!ENTITY viewCustomViews.accesskey "Z">
+<!ENTITY viewCustomViews.accesskey "z">
 <!ENTITY viewVirtualFolder.label "Gösterimi dizin olarak kaydet…">
 <!ENTITY viewVirtualFolder.accesskey "G">
 <!ENTITY viewCustomizeView.label "Özelleştir…">
-<!ENTITY viewCustomizeView.accesskey "L">
+<!ENTITY viewCustomizeView.accesskey "l">

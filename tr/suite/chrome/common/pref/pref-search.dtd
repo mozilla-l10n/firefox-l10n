@@ -13,7 +13,7 @@
 <!ENTITY openContextSearchTab.label "Open a tab instead of a window for a context menu web search">
 <!ENTITY openContextSearchTab.accesskey "t">
 
-<!ENTITY searchResults.label "Search Results">
+<!ENTITY searchResults.label "Arama sonuçları">
 
 <!ENTITY sidebarSearchTabPref.label "Sidebar Search Tab Preference">
 <!ENTITY searchModeBasic.label "Basic">

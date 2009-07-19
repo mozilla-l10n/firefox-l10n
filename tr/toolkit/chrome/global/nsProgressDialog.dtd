@@ -133,4 +133,4 @@
 
     #1 will be replaced by the percentage of the file that has been saved -->
 
-<!ENTITY percentMsg "#1&#037;">
+<!ENTITY percentMsg "&#037;#1">

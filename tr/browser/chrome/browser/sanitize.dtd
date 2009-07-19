@@ -24,7 +24,7 @@ that require it.  -->
      480169 -->
 
 <!ENTITY detailsProgressiveDisclosure.label "Ayrıntılar">
-<!ENTITY detailsProgressiveDisclosure.accesskey "a">
+<!ENTITY detailsProgressiveDisclosure.accesskey "A">
 
 <!ENTITY historySection.label "Geçmiş">
 <!ENTITY dataSection.label "Veri">
@@ -35,28 +35,28 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.label "Tarama ve indirme geçmişi">
 <!ENTITY itemHistoryAndDownloads.accesskey "T">
 <!ENTITY itemBrowsingHistory.label "Tarama geçmişi">
-<!ENTITY itemBrowsingHistory.accesskey "M">
+<!ENTITY itemBrowsingHistory.accesskey "m">
 <!ENTITY itemFormSearchHistory.label "Form ve arama geçmişi">
 <!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label "Kayıtlı parolalar">
-<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemPasswords.accesskey "p">
 <!ENTITY itemCookies.label "Çerezler">
-<!ENTITY itemCookies.accesskey "Z">
+<!ENTITY itemCookies.accesskey "z">
 <!ENTITY itemCache.label "Önbellek">
-<!ENTITY itemCache.accesskey "N">
+<!ENTITY itemCache.accesskey "n">
 <!ENTITY itemOfflineApps.label "Çevrim dışı site verileri">
-<!ENTITY itemOfflineApps.accesskey "S">
+<!ENTITY itemOfflineApps.accesskey "s">
 <!ENTITY itemDownloadHistory.label "İndirme geçmişi">
-<!ENTITY itemDownloadHistory.accesskey "D">
+<!ENTITY itemDownloadHistory.accesskey "d">
 <!ENTITY itemActiveLogins.label "Etkin oturumlar">
-<!ENTITY itemActiveLogins.accesskey "O">
+<!ENTITY itemActiveLogins.accesskey "o">
 <!ENTITY itemSitePreferences.label "Site tercihleri">
-<!ENTITY itemSitePreferences.accesskey "E">
+<!ENTITY itemSitePreferences.accesskey "e">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
 
 <!ENTITY sanitizeEverythingUndoWarning "Bu eylem gerçekleştirilemez.">
 
-<!ENTITY dialog.width "32em">
+<!ENTITY dialog.width "28em">
 <!ENTITY column.width "14em">

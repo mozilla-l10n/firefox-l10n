@@ -35,17 +35,17 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY menuBar.tooltip "Menü Çubuğu">
+<!ENTITY menuBar.tooltip "Menu Bar">
 <!ENTITY modeToolbar.tooltip "Mode Toolbar">
 <!ENTITY entryToolbar.tooltip "Javascript Entry Toolbar">
-<!ENTITY toolbarsCmd.label "Show/Hide">
-<!ENTITY toolbarsCmd.accesskey "w">
+<!ENTITY toolbarsCmd.label "Göster/gizle">
+<!ENTITY toolbarsCmd.accesskey "ö">
 <!ENTITY toolbarMode.label "Mode">
 <!ENTITY toolbarMode.accesskey "M">
 <!ENTITY toolbarEval.label "JavaScript Entry">
 <!ENTITY toolbarEval.accesskey "J">
 
-<!ENTITY all.accesskey "o">
+<!ENTITY all.accesskey "e">
 <!ENTITY errors.accesskey "r">
 <!ENTITY warnings.accesskey "n">
 <!ENTITY messages.accesskey "M">

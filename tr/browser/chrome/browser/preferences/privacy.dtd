@@ -28,11 +28,11 @@
 <!ENTITY cookieExceptions.accesskey "A">
 
 <!ENTITY showCookies.label "Çerezleri göster...">
-<!ENTITY showCookies.accesskey "Z">
+<!ENTITY showCookies.accesskey "z">
 
 
 <!ENTITY historyHeader.pre.label "&brandShortName;:">
-<!ENTITY historyHeader.pre.accesskey "w">
+<!ENTITY historyHeader.pre.accesskey ":">
 <!ENTITY historyHeader.remember.label "Geçmişi hatırlayacak">
 <!ENTITY historyHeader.dontremember.label "Geçmişi asla hatırlamayacak">
 <!ENTITY historyHeader.custom.label "Özel ayarları kullanacak">
@@ -58,7 +58,7 @@
 <!ENTITY dontrememberActions.post.label " de silebilirsiniz.">
 
 <!ENTITY privateBrowsingAutoStart.label "&brandShortName; hep gizli tarama kipinde açılsın">
-<!ENTITY privateBrowsingAutoStart.accesskey "K">
+<!ENTITY privateBrowsingAutoStart.accesskey "k">
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
   line in preferences as follows:
@@ -67,8 +67,8 @@
 -->
 
 <!ENTITY rememberHistory.pre.label "En az">
-<!ENTITY rememberHistory.pre.accesskey "e">
-<!ENTITY rememberHistory.post.label "günlük geçmişimi hatırla">
+<!ENTITY rememberHistory.pre.accesskey "E">
+<!ENTITY rememberHistory.post.label "days">
 
 <!ENTITY rememberDownload.label "İndirme geçmişini hatırla">
 <!ENTITY rememberDownload.accesskey "d">
@@ -79,5 +79,5 @@
 <!ENTITY clearOnClose.label "&brandShortName; kapatılınca geçmişi sil">
 <!ENTITY clearOnClose.accesskey "s">
 
-<!ENTITY clearOnCloseSettings.label "Ayarlar...">
-<!ENTITY clearOnCloseSettings.accesskey "a">
+<!ENTITY clearOnCloseSettings.label "Settings…">
+<!ENTITY clearOnCloseSettings.accesskey "t">

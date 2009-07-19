@@ -39,16 +39,16 @@
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Kayıt:">
 <!ENTITY fieldMapImport.next.label "Sonraki">
-<!ENTITY fieldMapImport.next.accesskey "N">
+<!ENTITY fieldMapImport.next.accesskey "n">
 <!ENTITY fieldMapImport.previous.label "Önceki">
-<!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Yukarı ve Aşağıya tuşlarını, sağ taraftaki İmport-Verileri ile sol taraftaki Adresdefteri alanlarının doğrulunu kontrol için kullanın.Dışa aktarmak istemediğiniz verileri seçin.">
+<!ENTITY fieldMapImport.previous.accesskey "c">
+<!ENTITY fieldMapImport.text "Yukarı ve Aşağıya tuşlarını, sağ taraftaki verileri ile sol taraftaki Adres defteri alanlarının doğrulunu kontrol için kullanın.Dışa aktarmak istemediğiniz verileri seçin.">
 <!ENTITY fieldMapImport.up.label "Yukarıya">
-<!ENTITY fieldMapImport.up.accesskey "U">
+<!ENTITY fieldMapImport.up.accesskey "Y">
 <!ENTITY fieldMapImport.down.label "Aşağıya">
-<!ENTITY fieldMapImport.down.accesskey "D">
+<!ENTITY fieldMapImport.down.accesskey "A">
 <!ENTITY fieldMapImport.fieldListTitle "Adres Defteri Alanları:">
 <!ENTITY fieldMapImport.dataTitle "Aktarılacak bilgiyi kayıtla:">
-<!ENTITY fieldMapImport.skipFirstRecord.label "İlk kayıtda alan ismi içerir">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "K">
+<!ENTITY fieldMapImport.skipFirstRecord.label "İlk kayıt alan ismi içerir">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "k">
 

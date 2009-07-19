@@ -3,7 +3,7 @@
 <!ENTITY protocols.caption "Protocol-Specific Proxies">
 <!ENTITY protocols.description "Normally the same proxy can handle all protocols listed here.">
 <!ENTITY http.label "HTTP vekil sunucusu:">
-<!ENTITY http.accesskey "h">
+<!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "SSL vekil sunucusu:">
 <!ENTITY ssl.accesskey "S">
 <!ENTITY ftp.label "FTP vekil sunucusu:">
@@ -14,7 +14,7 @@
 <!ENTITY reuseProxy.accesskey "U">
 <!ENTITY port.label "Port:">
 <!ENTITY HTTPPort.accesskey "P">
-<!ENTITY SSLPort.accesskey "s">
+<!ENTITY SSLPort.accesskey "o">
 <!ENTITY FTPPort.accesskey "r">
 <!ENTITY gopherPort.accesskey "">
 

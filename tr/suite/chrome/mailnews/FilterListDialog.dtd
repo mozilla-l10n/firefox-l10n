@@ -4,9 +4,9 @@
 <!ENTITY newButton.label "Yeni…">
 <!ENTITY newButton.accesskey "Y">
 <!ENTITY editButton.label "Düzenle…">
-<!ENTITY editButton.accesskey "E">
+<!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Sil">
-<!ENTITY deleteButton.accesskey "s">
+<!ENTITY deleteButton.accesskey "S">
 <!ENTITY reorderUpButton.label "Yukarıya">
 <!ENTITY reorderUpButton.accesskey "Y">
 <!ENTITY reorderDownButton.label "Aşağıya">
@@ -15,9 +15,9 @@
 <!ENTITY filtersForPrefix.label "Süzgeçlenecek Hesap:">
 <!ENTITY filtersForPrefix.accesskey "S">
 <!ENTITY viewLogButton.label "Süzgeç Günlüğü">
-<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY viewLogButton.accesskey "l">
 <!ENTITY runFilters.label "Şimdi Çalıştır">
-<!ENTITY runFilters.accesskey "A">
+<!ENTITY runFilters.accesskey "a">
 <!ENTITY stopFilters.label "Dur">
 <!ENTITY stopFilters.accesskey "D">
 <!ENTITY folderPickerPrefix.label "Seçili süzgeçler bu klasör içinde uygulansın:">

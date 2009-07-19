@@ -1,5 +1,6 @@
-<!ENTITY addressingTab.label "Kompozisyon ve Adresleme">
-<!ENTITY copiesFoldersTab.label "Kopyalama ve Dizinler">
+<!ENTITY identityTitle.label "Kimlik ayarları">
 <!ENTITY identityListDesc.label "Bu kimlik için ayarları düzenle:">
-<!ENTITY identityTitle.label "Kimik Ayarları">
+
 <!ENTITY settingsTab.label "Ayarlar">
+<!ENTITY copiesFoldersTab.label "Kopyalar ve dizinler">
+<!ENTITY addressingTab.label "Yazı ve adresler">

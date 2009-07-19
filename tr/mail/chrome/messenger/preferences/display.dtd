@@ -1,57 +1,48 @@
-<!ENTITY itemFormatting.label             "Biçimlendirme">
+<!ENTITY itemFormatting.label "Biçimlendirme">
+<!ENTITY itemTags.label "Etiketler">
 
-<!ENTITY itemFonts.label                  "Yazıtipleri">
-<!ENTITY itemTags.label                   "Etiketler">
-
-<!ENTITY style.accesskey "T">
 <!ENTITY style.label "Stil:">
-<!ENTITY textBegin.label "Tırnaklanmış düzmetin">
-
-
+<!ENTITY style.accesskey "t">
 <!ENTITY regularStyle.label "Düzenli">
-<!ENTITY bold.label                       "Kalın">
-<!ENTITY italic.label                     "Eğik">
-<!ENTITY boldItalic.label                 "Kalın ve eğik">
-<!ENTITY size.label                       "Boyut:">
-<!ENTITY size.accesskey                   "B">
-<!ENTITY regularSize.label                "Düzenli">
-<!ENTITY bigger.label                     "Daha büyük">
-<!ENTITY smaller.label                    "Daha küçük">
-<!ENTITY color.label                      "Renk:">
-<!ENTITY color.accesskey                  "R">
-<!ENTITY displayWidth.label "Düz Metin Mesajlar">
+<!ENTITY bold.label "Kalın">
+<!ENTITY italic.label "Eğik">
+<!ENTITY boldItalic.label "Kalın ve eğik">
+<!ENTITY size.label "Boyut:">
+<!ENTITY size.accesskey "B">
+<!ENTITY regularSize.label "Düzenli">
+<!ENTITY bigger.label "Daha büyük">
+<!ENTITY smaller.label "Daha küçük">
+<!ENTITY color.label "Renk:">
+<!ENTITY color.accesskey "R">
+<!ENTITY displayWidth.label "Düz metin iletiler">
 <!ENTITY plainText.label "Kullanılacak yazıtipi:">
-<!ENTITY displayText.label "Tırnakla belirtilmiş düzmetini görüntülerken aşağıdaki ayarları kullan:">
-<!ENTITY viewingPlainText.label "Düz metin mesajlar görüntülerken,">
-
-<!ENTITY fixedWidth.accesskey "t">
+<!ENTITY displayText.label "Tırnakla belirtilmiş düz metini görüntülerken aşağıdaki ayarları kullan:">
 <!ENTITY fixedWidth.label "Öntanımlı yazıtipi boyutu">
-<!ENTITY variableWidth.accesskey "a">
+<!ENTITY fixedWidth.accesskey "t">
 <!ENTITY variableWidth.label "Yazıtipi genişliği">
-<!ENTITY readingMessagesHeader.label "Gelen iletiler için">
-
-<!ENTITY convertEmoticons.accesskey "D">
-<!ENTITY convertEmoticons.label "Duygu simgelerini grafik olarak göster.">
-
-<!ENTITY textColor.accesskey "T">
+<!ENTITY variableWidth.accesskey "a">
+<!ENTITY colors.label "Renkler:">
+<!ENTITY overrideColors.label "İletileri gösterirken bu renkleri kullan:">
 <!ENTITY textColor.label "Metin rengi:">
-<!ENTITY backgroundColor.accesskey "p">
+<!ENTITY textColor.accesskey "t">
 <!ENTITY backgroundColor.label "Arkaplan rengi:">
+<!ENTITY backgroundColor.accesskey "p">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
-<!ENTITY fontOptions.accesskey   "Y">
-<!ENTITY fontOptions.label       "Yazıtipleri...">
-
-
-
+<!ENTITY convertEmoticons.label "Duygu simgelerini grafik olarak göster">
+<!ENTITY convertEmoticons.accesskey "D">
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Etiketler mesajlarınızda kategori oluşturmaya veya önemlilik derecesine göre sıralamanıza yarar.">
-<!ENTITY addTagButton.label       "Ekle">
-<!ENTITY addTagButton.accesskey   "E">
-<!ENTITY editTagButton.label      "Düzenle">
-<!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label    "Sil">
+
+<!ENTITY displayTagsText.label "Etiketler, iletilerde kategori oluşturmaya veya önemlilik derecesine göre sıralamanıza yarar.">
+<!ENTITY addTagButton.label "Ekle">
+<!ENTITY addTagButton.accesskey "E">
+<!ENTITY editTagButton.label "Düzenle">
+<!ENTITY editTagButton.accesskey "e">
+<!ENTITY removeTagButton.label "Sil">
 <!ENTITY removeTagButton.accesskey "l">
-<!ENTITY colors.label                      "Renkler:">
-<!ENTITY overrideColors.label             "İletileri gösterirken bu renkleri kullan:">
-<!ENTITY fontAndEncodingsDescription.label  "&brandShortName; tarafından kullanılan renk ve karakter kodlamalarını ayarlayın">
-<!ENTITY fontsAndEncodingsCaption.label      "Yazıtipleri ve Karakter Kodlamaları">
+<!-- Fonts -->
+
+<!ENTITY fontAndEncodingsDescription.label "&brandShortName; tarafından kullanılan renk ve karakter kodlamalarını ayarlayın">
+<!ENTITY fontsAndEncodingsCaption.label "Yazıtipleri ve karakter kodlamaları">
+<!ENTITY fontOptions.accesskey "Y">
+<!ENTITY fontOptions.label "Yazıtipleri…">

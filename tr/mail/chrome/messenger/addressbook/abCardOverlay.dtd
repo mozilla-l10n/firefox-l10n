@@ -1,93 +1,159 @@
-<!ENTITY Address.tab "Adres">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY CellularNumber.accesskey "e">
-<!ENTITY CellularNumber.label "Cep Telefonu:">
-<!ENTITY Company.label "Organizasyon:">
-<!ENTITY Company.accesskey              "O">
-<!ENTITY Contact.tab "Adres">
-<!ENTITY Contact.accesskey               "D">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom1.label "Özel 1:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom2.label "Özel 2:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom3.label "Özel 3:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Custom4.label "Özel 4:">
-<!ENTITY Department.label "Bölüm:">
-<!ENTITY Department.accesskey           "m">
-<!ENTITY DisplayName.accesskey "ö">
-<!ENTITY DisplayName.label "Görüntü:">
-<!ENTITY FaxNumber.accesskey "k">
-<!ENTITY FaxNumber.label "Faks:">
-<!ENTITY HTML.label "HTML">
-<!ENTITY Home.box "Başlangıç">
-<!ENTITY HomeAddress.label "Adres:">
-<!ENTITY HomeAddress.accesskey          "S">
-<!ENTITY HomeAddress2.label "">
-<!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label "Şehir:">
-<!ENTITY HomeCity.accesskey             "H">
-<!ENTITY HomeCountry.label "Ülke:">
-<!ENTITY HomeCountry.accesskey          "L">
-<!ENTITY HomePhone.accesskey "e">
-<!ENTITY HomePhone.label "Ev:">
-<!ENTITY HomeState.label "Bölge:">
-<!ENTITY HomeState.accesskey            "B">
-<!ENTITY HomeWebPage.label "Web sayfası:">
-<!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY HomeZipCode.label "Posta Kodu:">
-<!ENTITY HomeZipCode.accesskey          "P">
-<!ENTITY Internet.box "İnternet">
-<!ENTITY JobTitle.label "Ünvan:">
-<!ENTITY JobTitle.accesskey             "a">
-<!ENTITY Name.box "Adı">
-<!ENTITY NameField1.accesskey "A">
-<!ENTITY NameField1.id "FirstName">
-<!ENTITY NameField1.label "Adı:">
-<!ENTITY NameField2.accesskey "S">
-<!ENTITY NameField2.id "LastName">
-<!ENTITY NameField2.label "Soyadı:">
-<!ENTITY NickName.accesskey "i">
-<!ENTITY NickName.label "Takma isim:">
-<!ENTITY Notes.box "Notlar">
-<!ENTITY Notes.accesskey                "N">
-<!ENTITY Other.tab "Diğer">
-<!ENTITY Other.accesskey                "D">
-<!ENTITY PagerNumber.accesskey "a">
-<!ENTITY PagerNumber.label "Çağrı Cihazı:">
-<!ENTITY Phones.box "Telefonlar">
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
-<!ENTITY PhoneticField1.label "Phonetic :">
-<!ENTITY PhoneticField2.id "PhoneticLastName">
-<!ENTITY PhoneticField2.label "Phonetic :">
-<!ENTITY PlainText.label "Düz Metin">
-<!ENTITY PreferMailFormat.accesskey "A">
-<!ENTITY PreferMailFormat.label "Alıcı için tercih edilen ileti gönderme şekli :">
-<!ENTITY PrimaryEmail.accesskey "e">
-<!ENTITY PrimaryEmail.label "E-posta:">
-<!ENTITY ScreenName.accesskey "D">
-<!ENTITY ScreenName.label "Ekran adı:">
-<!ENTITY SecondEmail.accesskey "E">
-<!ENTITY SecondEmail.label "Ek E-posta:">
-<!ENTITY Unknown.label "Bilinmiyor">
-<!ENTITY Work.box "İş">
-<!ENTITY WorkAddress.label "Adres:">
-<!ENTITY WorkAddress.accesskey          "r">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label "Şehir:">
-<!ENTITY WorkCity.accesskey             "i">
-<!ENTITY WorkCountry.label "Ülke:">
-<!ENTITY WorkCountry.accesskey          "K">
-<!ENTITY WorkPhone.accesskey "ş">
-<!ENTITY WorkPhone.label "İş:">
-<!ENTITY WorkState.label "Bölge:">
-<!ENTITY WorkState.accesskey            "e">
-<!ENTITY WorkWebPage.label "Web Sayfası:">
-<!ENTITY WorkWebPage.accesskey          "b">
-<!ENTITY WorkZipCode.label "Posta kodu:">
-<!ENTITY WorkZipCode.accesskey          "P">
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
-<!ENTITY allowRemoteContent.label       "HTML mesajlardaki resim dosyalarını kabul et.">
-<!ENTITY allowRemoteContent.accesskey   "M">
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab "Adres">
+<!ENTITY Contact.accesskey "d">
+<!ENTITY Name.box "Adı">
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
+<!ENTITY NameField1.id "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+
+<!ENTITY NameField1.label "Adı:">
+<!ENTITY NameField1.accesskey "ı">
+<!ENTITY NameField2.label "Soyadı:">
+<!ENTITY NameField2.accesskey "S">
+<!ENTITY PhoneticField1.label "Okunuşu:">
+<!ENTITY PhoneticField2.label "Okunuşu:">
+<!ENTITY DisplayName.label "Gösterilen:">
+<!ENTITY DisplayName.accesskey "ö">
+<!ENTITY NickName.label "Takma isim:">
+<!ENTITY NickName.accesskey "T">
+
+<!ENTITY PrimaryEmail.label "E-posta:">
+<!ENTITY PrimaryEmail.accesskey "p">
+<!ENTITY SecondEmail.label "Ek e-posta:">
+<!ENTITY SecondEmail.accesskey "o">
+<!ENTITY PreferMailFormat.label "Alıcı için tercih edilen ileti gönderme şekli:">
+<!ENTITY PreferMailFormat.accesskey "h">
+<!ENTITY PlainText.label "Düz metin">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Bilinmiyor">
+<!ENTITY ScreenName.label "Ekran adı:">
+<!ENTITY ScreenName.accesskey "r">
+
+<!ENTITY allowRemoteContent1.label "Uzak içeriği kabul et.">
+<!ENTITY allowRemoteContent1.accesskey "U">
+<!ENTITY allowRemoteContent1.tooltip "Uzak kaynaklardan gelen gömülü içerik HTML ileti içerebilir. 
+Açılacak bir ileti dış kaynağa bir bağlantı açacak. 
+Okunmaya başlanan iletinin izlenmesi için kabul edilmelidir. 
+Bu kişinin dış gömülü içeriğinin HTML iletiyi kabul etmek için 
+bu kutuyu kontrol edin.">
+
+<!ENTITY WorkPhone.label "İş:">
+<!ENTITY WorkPhone.accesskey "ş">
+<!ENTITY HomePhone.label "Ev:">
+<!ENTITY HomePhone.accesskey "v">
+<!ENTITY FaxNumber.label "Faks:">
+<!ENTITY FaxNumber.accesskey "k">
+<!ENTITY PagerNumber.label "Çağrı cihazı:">
+<!ENTITY PagerNumber.accesskey "c">
+<!ENTITY CellularNumber.label "Cep telefonu:">
+<!ENTITY CellularNumber.accesskey "f">
+
+<!ENTITY Home.tab "Özel">
+<!ENTITY Home.accesskey "z">
+<!ENTITY HomeAddress.label "Adres:">
+<!ENTITY HomeAddress.accesskey "s">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
+<!ENTITY HomeCity.label "Şehir:">
+<!ENTITY HomeCity.accesskey "h">
+<!ENTITY HomeState.label "Bölge:">
+<!ENTITY HomeState.accesskey "B">
+<!ENTITY HomeZipCode.label "Posta kodu:">
+<!ENTITY HomeZipCode.accesskey "P">
+<!ENTITY HomeCountry.label "Ülke:">
+<!ENTITY HomeCountry.accesskey "l">
+<!ENTITY HomeWebPage.label "Web sayfası:">
+<!ENTITY HomeWebPage.accesskey "W">
+<!ENTITY Birthday.label "Doğum günü:">
+<!ENTITY Birthday.accesskey "ü">
+<!ENTITY In.label "">
+<!ENTITY Year.emptytext "Yıl">
+<!ENTITY Or.value "veya">
+<!ENTITY Age.emptytext "Yaş">
+<!ENTITY YearsOld.label "">
+
+<!ENTITY Work.tab "İş">
+<!ENTITY Work.accesskey "İ">
+<!ENTITY JobTitle.label "Ünvan:">
+<!ENTITY JobTitle.accesskey "a">
+<!ENTITY Department.label "Bölüm:">
+<!ENTITY Department.accesskey "m">
+<!ENTITY Company.label "Kurum:">
+<!ENTITY Company.accesskey "u">
+<!ENTITY WorkAddress.label "Adres:">
+<!ENTITY WorkAddress.accesskey "r">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkCity.label "Şehir:">
+<!ENTITY WorkCity.accesskey "Ş">
+<!ENTITY WorkState.label "Bölge:">
+<!ENTITY WorkState.accesskey "e">
+<!ENTITY WorkZipCode.label "Posta kodu:">
+<!ENTITY WorkZipCode.accesskey "P">
+<!ENTITY WorkCountry.label "Ülke:">
+<!ENTITY WorkCountry.accesskey "k">
+<!ENTITY WorkWebPage.label "Web sayfası:">
+<!ENTITY WorkWebPage.accesskey "b">
+
+<!ENTITY Other.tab "Diğer">
+<!ENTITY Other.accesskey "ğ">
+<!ENTITY Custom1.label "Özel 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Özel 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Özel 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Özel 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.label "Notlar:">
+<!ENTITY Notes.accesskey "N">

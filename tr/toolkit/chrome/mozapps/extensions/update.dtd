@@ -33,7 +33,7 @@
 <!ENTITY finished.checkEnabled.desc "&brandShortName; belirli aralıklarla eklentilerin güncellemelerinin olup olmadığına bakarak size haber verecek.">
 
 <!ENTITY adminDisabled.wizard.title "Güncellemelere bakılamadı">
-<!ENTITY adminDisabled.warning.label "Uyumsuz eklentilerinizin güncellemelerinin olup olmadığınına bakılamıyor, çünkü &brandShortName; ile ilgili yazılım kurulumu devre dışı bırakılmış. Yardım almak için lütfen sistem yöneticisinizle iletişim kurun.">
+<!ENTITY adminDisabled.warning.label "Uyumsuz eklentilerinizin güncellemelerinin olup olmadığınına bakılamıyor, çünkü &brandShortName; ile ilgili yazılım kurulumu devre dışı bırakılmış. Yardım almak için lütfen sistem yöneticisi ile iletişim kurun.">
 
 <!ENTITY versioninfo.wizard.title "Eklentilerin uyumluluğuna bakılıyor">
 <!ENTITY versioninfo.top.label "Eklentilerinizin &brandShortName; tarayıcısının bu sürümüyle uyumlu olup olmadığına bakılıyor.">
