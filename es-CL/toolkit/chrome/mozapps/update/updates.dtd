@@ -41,7 +41,7 @@
 <!ENTITY  incompatibleList.title          "Se encontraron agregados incompatibles">
 
 <!ENTITY  downloading.title               "Bajando la actualización">
-<!ENTITY  downloading.intro               "Bsjando la actualización…">
+<!ENTITY  downloading.intro               "Bajando la actualización…">
 <!ENTITY  connecting.label                "Conectando al servidor de actualización…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; no fue capaz de verificar la integridad de la 
                                            actualización incremental, por ello está bajando
