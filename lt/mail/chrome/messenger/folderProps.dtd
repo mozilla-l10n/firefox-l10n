@@ -53,8 +53,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Perindeksuoti aplanką">
 
 <!ENTITY retention.label                         "Laiškų šalinimas">
-<!ENTITY retentionUseDefault.label               "Naudoti serverio nuostatas">
-<!ENTITY retentionUseDefault.accesskey           "s">
+<!ENTITY retentionUseAccount.label               "Laikytis paskyros nuostatų">
+<!ENTITY retentionUseAccount.accesskey           "p">
 <!ENTITY daysOld.label                           "d. laiškus">
 <!ENTITY message.label                           "laiškų">
 <!ENTITY retentionCleanup.label                  "Taupant vietą diske, senus laiškus galima negrąžinamai šalinti.">
@@ -65,7 +65,7 @@
 <!ENTITY retentionKeepAll.label                  "Nešalinti laiškų">
 <!ENTITY retentionKeepAll.accesskey              "N">
 <!ENTITY retentionKeepRecent.label               "Šalinti visus išskyrus paskiausius">
-<!ENTITY retentionKeepRecent.accesskey           "p">
+<!ENTITY retentionKeepRecent.accesskey           "v">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label         "Visuomet šalinti skaitytus laiškus (nepaisant jų amžiaus)">
 <!ENTITY retentionApplyToFlagged.label           "Visuomet palikti žvaigždute pažymėtus laiškus">
