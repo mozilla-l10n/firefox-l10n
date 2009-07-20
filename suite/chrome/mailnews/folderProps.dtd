@@ -53,8 +53,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Perindeksuoti aplanką">
 
 <!ENTITY retention.label                         "Laiškų šalinimas">
-<!ENTITY retentionUseDefault.label               "Naudoti serverio nuostatas">
-<!ENTITY retentionUseDefault.accesskey           "s">
+<!ENTITY retentionUseAccount.label               "Laikytis paskyros nuostatų">
+<!ENTITY retentionUseAccount.accesskey           "n">
 <!ENTITY daysOld.label                           "d.">
 <!ENTITY message.label                           "laiškų">
 <!ENTITY retentionCleanup.label                  "Palikti laiškus:">
