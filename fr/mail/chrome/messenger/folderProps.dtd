@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Reconstruit le résumé du fichier">
 
 <!ENTITY retention.label "Règles de conservation">
-<!ENTITY retentionUseDefault.label  "Utiliser les paramètres par défaut du serveur">
-<!ENTITY retentionUseDefault.accesskey "U">
+<!ENTITY retentionUseAccount.label               "Utiliser mes paramètres de compte">
+<!ENTITY retentionUseAccount.accesskey           "m">
 <!ENTITY daysOld.label "jours">
 <!ENTITY message.label "messages les plus récents">
 <!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement.">
