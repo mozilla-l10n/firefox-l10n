@@ -23,7 +23,6 @@
 <!ENTITY helpReleaseNotes.label         "Versionshinweise">
 <!ENTITY helpReleaseNotes.accesskey     "V">
 <!ENTITY updateCmd.label                "&brandShortName; aktualisieren…">
-<!ENTITY updateCmd.accesskey            "A">
 
 <!ENTITY preferencesCmdMac.label        "Einstellungen…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
