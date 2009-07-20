@@ -156,7 +156,7 @@
 <!ENTITY viewMenu.label                         "Rodymas">
 <!ENTITY viewMenu.accesskey                     "R">
 
-<!ENTITY releaseCmd.label                       "Laidos informacija">
+<!ENTITY releaseCmd.label                       "Laidos apžvalga">
 <!ENTITY releaseCmd.accesskey                   "L">
 <!ENTITY aboutCmd.label                         "Apie „&brandFullName;“">
 <!ENTITY aboutCmd.accesskey                     "A">

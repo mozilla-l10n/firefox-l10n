@@ -155,7 +155,7 @@
 
 <!ENTITY event.help.label                                 "Žinynas">
 <!ENTITY event.help.accesskey                             "Ž">
-<!ENTITY event.help.release.notes.label                   "Laidos informacija">
+<!ENTITY event.help.release.notes.label                   "Laidos apžvalga">
 <!ENTITY event.help.release.notes.accesskey               "L">
 <!ENTITY event.help.help.label                            "„&brandShortName;“ žinynas">
 <!ENTITY event.help.help.accesskey                        "ž">

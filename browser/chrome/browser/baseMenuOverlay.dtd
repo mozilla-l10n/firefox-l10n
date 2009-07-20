@@ -52,7 +52,7 @@
 <!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.label         "Laidos informacija">
+<!ENTITY helpReleaseNotes.label         "Laidos apžvalga">
 <!ENTITY helpReleaseNotes.accesskey     "L">
 <!ENTITY updateCmd.label                "Tikrinti ar yra naujinimų…">
 
