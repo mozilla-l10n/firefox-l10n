@@ -29,7 +29,7 @@
 <!ENTITY printPreviewContactCmd.accesskey "K">
 <!ENTITY printPreviewAddressBook.label "Adres defteri yazdırma önizleme">
 <!ENTITY printPreviewAddressBook.accesskey "r">
-<!ENTITY printContactCmd.label "Kişi yazdır...">
+<!ENTITY printContactCmd.label "Kişi yazdır…">
 <!ENTITY printContactCmd.accesskey "y">
 <!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Adres defterini yazdır…">

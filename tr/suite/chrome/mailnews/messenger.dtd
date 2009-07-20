@@ -52,7 +52,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newAccountCmd.label "Hesap…">
 <!ENTITY newAccountCmd.accesskey "H">
-<!ENTITY openMessageFileCmd.label "Dosya aç...">
+<!ENTITY openMessageFileCmd.label "Dosya aç…">
 <!ENTITY openMessageFileCmd.accesskey "a">
 <!ENTITY openAttachmentCmd.label "Ekler">
 <!ENTITY openAttachmentCmd.accesskey "E">
@@ -568,7 +568,7 @@
 
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY searchSubjectAndFrom.emptytext "Search Subject and From">
-<!ENTITY advancedButton.label "Gelişmiş...">
+<!ENTITY advancedButton.label "Gelişmiş…">
 <!ENTITY advancedButton.accesskey "e">
 
 <!ENTITY all.label "Tamamı">

@@ -15,7 +15,7 @@
 <!ENTITY helpContents.label "Yardım içeriği">
 <!ENTITY helpContents.accesskey "m">
 <!ENTITY helpContentsMac.label "&brandShortName; yardımı">
-<!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına...">
+<!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına…">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
@@ -24,7 +24,7 @@
 <!ENTITY helpReleaseNotes.accesskey "r">
 <!ENTITY updateCmd.label "Check for Updates…">
 
-<!ENTITY preferencesCmdMac.label "Tercihler...">
+<!ENTITY preferencesCmdMac.label "Tercihler…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
 <!ENTITY servicesMenuMac.label "Servisler">

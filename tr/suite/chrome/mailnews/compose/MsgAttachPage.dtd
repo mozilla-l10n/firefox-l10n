@@ -36,5 +36,5 @@
 <!ENTITY caption.label "Web sayfasını ek olarak ekle">
 <!ENTITY enter.label "Ağ konumunu (URL) girin ya da açmak istediğiniz yerel dosyayı belirtin:">
 <!ENTITY enter.accesskey "A">
-<!ENTITY chooseFile.label "Dosyayı seçin...">
+<!ENTITY chooseFile.label "Dosyayı seçin…">
 <!ENTITY chooseFile.accesskey "s">

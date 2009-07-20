@@ -29,11 +29,11 @@
 <!ENTITY uploadFile.label "Dosya yükle…">
 <!ENTITY uploadFile.accesskey "ü">
 
-<!ENTITY printSetupCmd.label "Sayfa düzeni...">
+<!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "y">
 <!ENTITY printPreviewCmd.label "Yazdırma önizleme">
 <!ENTITY printPreviewCmd.accesskey "z">
-<!ENTITY printCmd.label "Yazdır...">
+<!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.accesskey "r">
 <!ENTITY printCmd.commandkey "p">
 

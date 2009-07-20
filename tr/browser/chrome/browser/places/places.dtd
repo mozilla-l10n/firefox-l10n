@@ -32,21 +32,21 @@
 <!ENTITY help.advancedTips.label "İleri düzey ipuçları ve marifetler">
 <!ENTITY help.advancedTips.accesskey "t">
 
-<!ENTITY cmd.findInBookmarks.label "Yer imlerinde bul...">
+<!ENTITY cmd.findInBookmarks.label "Yer imlerinde bul…">
 <!ENTITY cmd.findInBookmarks.accesskey "Y">
-<!ENTITY cmd.findCurrent.label "Geçerli koleksiyonda ara...">
+<!ENTITY cmd.findCurrent.label "Geçerli koleksiyonda ara…">
 <!ENTITY cmd.findCurrent.accesskey "i">
 
-<!ENTITY cmd.exportHTML.label "HTML olarak dışa aktar...">
+<!ENTITY cmd.exportHTML.label "HTML olarak dışa aktar…">
 <!ENTITY cmd.exportHTML.accesskey "d">
-<!ENTITY cmd.importHTML.label "HTML olarak içe aktar...">
+<!ENTITY cmd.importHTML.label "HTML olarak içe aktar…">
 <!ENTITY cmd.importHTML.accesskey "e">
 
-<!ENTITY cmd.backup.label "Yedekle...">
+<!ENTITY cmd.backup.label "Yedekle…">
 <!ENTITY cmd.backup.accesskey "Y">
 <!ENTITY cmd.restore2.label "Tekrar oluştur">
 <!ENTITY cmd.restore2.accesskey "r">
-<!ENTITY cmd.restoreFromFile.label "Dosyayı seçin...">
+<!ENTITY cmd.restoreFromFile.label "Dosyayı seçin…">
 <!ENTITY cmd.restoreFromFile.accesskey "s">
 
 <!ENTITY cmd.select_all.label "Tümünü seç">
@@ -99,11 +99,11 @@
 <!ENTITY cmd.sortby_name.accesskey "s">
 <!ENTITY cmd.context_sortby_name.accesskey "R">
 
-<!ENTITY cmd.new_bookmark.label "Yeni yer imi...">
+<!ENTITY cmd.new_bookmark.label "Yeni yer imi…">
 <!ENTITY cmd.new_bookmark.accesskey "m">
-<!ENTITY cmd.new_livemark.label "Yeni canlı yer imi...">
+<!ENTITY cmd.new_livemark.label "Yeni canlı yer imi…">
 <!ENTITY cmd.new_livemark.accesskey "l">
-<!ENTITY cmd.new_folder.label "Yeni dizin...">
+<!ENTITY cmd.new_folder.label "Yeni dizin…">
 <!ENTITY cmd.new_folder.accesskey "d">
 <!ENTITY cmd.context_new_folder.accesskey "Z">
 <!ENTITY cmd.new_separator.label "Yeni ayraç">
@@ -123,7 +123,7 @@
 <!ENTITY cmd.groupby_post.label "Gönderiye göre gruplandır">
 <!ENTITY cmd.groupby_post.accesskey "d">
 
-<!ENTITY cmd.moveBookmarks.label "Taşı...">
+<!ENTITY cmd.moveBookmarks.label "Taşı…">
 <!ENTITY cmd.moveBookmarks.accesskey "T">
 
 <!ENTITY col.name.label "Adı">

@@ -24,7 +24,7 @@
 <!ENTITY closeCmd.label "Kapat">
 <!ENTITY closeCmd.key "W">
 
-<!ENTITY printSetupCmd.label "Sayfa düzeni...">
+<!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "y">
 
 <!ENTITY redoCmd.label "Yinele">

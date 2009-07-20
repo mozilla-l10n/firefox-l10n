@@ -53,7 +53,7 @@
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "IM">
-<!ENTITY printContactViewCmd.label "Kişi yazdır...">
+<!ENTITY printContactViewCmd.label "Kişi yazdır…">
 <!ENTITY printContactViewCmd.accesskey "y">
 <!ENTITY printPreviewContactViewCmd.label "Kişi yazdırma önizleme">
 <!ENTITY printPreviewContactViewCmd.accesskey "K">

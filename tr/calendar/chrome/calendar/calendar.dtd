@@ -333,7 +333,7 @@
 <!ENTITY calendar.print.settingsGroup.label "Yazdırma ayarları">
 <!-- Error reporting -->
 
-<!ENTITY calendar.error.detail "Detaylar...">
+<!ENTITY calendar.error.detail "Detaylar…">
 <!ENTITY calendar.error.code "Error code:">
 <!ENTITY calendar.error.description "Açıklama:">
 <!ENTITY calendar.error.title "Bir hata oluştur">

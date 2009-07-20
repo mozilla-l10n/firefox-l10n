@@ -68,9 +68,9 @@
 <!ENTITY saveImageAsCmd.label "Save Image As…">
 <!ENTITY saveImageCmd.label "Save Image">
 <!ENTITY saveImageCmd.accesskey "v">
-<!ENTITY saveVideoCmd.label "Videoyu farklı kaydet...">
+<!ENTITY saveVideoCmd.label "Videoyu farklı kaydet…">
 <!ENTITY saveVideoCmd.accesskey "V">
-<!ENTITY saveAudioCmd.label "Sesi farklı kaydet...">
+<!ENTITY saveAudioCmd.label "Sesi farklı kaydet…">
 <!ENTITY saveAudioCmd.accesskey "f">
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.accesskey "K">

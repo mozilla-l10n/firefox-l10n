@@ -12,10 +12,10 @@
 <!ENTITY dn.accesskey "t">
 <!ENTITY remove.label "Kaldır">
 <!ENTITY remove.accesskey "r">
-<!ENTITY edit.label "Anahtar kelime düzenle...">
+<!ENTITY edit.label "Anahtar kelime düzenle…">
 <!ENTITY edit.accesskey "t">
 
-<!ENTITY addEngine.label "Daha fazla arama motoru bul...">
+<!ENTITY addEngine.label "Daha fazla arama motoru bul…">
 <!ENTITY addEngine.accesskey "a">
 
 <!ENTITY enableSuggest.label "Arama önerilerini göster">

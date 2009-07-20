@@ -24,10 +24,10 @@
 <!ENTITY close.label "&brandShortName; kapatılana dek">
 <!ENTITY askEachTime.label "her seferinde bana sor">
 
-<!ENTITY cookieExceptions.label "Ayrıcalıklar...">
+<!ENTITY cookieExceptions.label "Ayrıcalıklar…">
 <!ENTITY cookieExceptions.accesskey "A">
 
-<!ENTITY showCookies.label "Çerezleri göster...">
+<!ENTITY showCookies.label "Çerezleri göster…">
 <!ENTITY showCookies.accesskey "z">
 
 

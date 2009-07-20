@@ -1,16 +1,16 @@
 <!ENTITY blockPopups.label "Açılır pencereleri engelle">
 <!ENTITY blockPopups.accesskey "e">
-<!ENTITY popupExceptions.label "Ayrıcalıklar...">
+<!ENTITY popupExceptions.label "Ayrıcalıklar…">
 <!ENTITY popupExceptions.accesskey "A">
 
 <!ENTITY loadImages.label "Resimleri göster">
 <!ENTITY loadImages.accesskey "s">
-<!ENTITY exceptions.label "Ayrıcalıklar...">
+<!ENTITY exceptions.label "Ayrıcalıklar…">
 <!ENTITY exceptions.accesskey "y">
 
 <!ENTITY enableJavaScript.label "JavaScript'i etkinleştir">
 <!ENTITY enableJavaScript.accesskey "J">
-<!ENTITY advancedJS.label "Gelişmiş...">
+<!ENTITY advancedJS.label "Gelişmiş…">
 <!ENTITY advancedJS.accesskey "G">
 
 <!ENTITY enableJava.label "Java'yı etkinleştir">
@@ -24,14 +24,14 @@
 <!ENTITY defaultSize.label "Öntanımlı boyut:">
 <!ENTITY defaultSize.accesskey "b">
 
-<!ENTITY advancedFonts.label "Gelişmiş...">
+<!ENTITY advancedFonts.label "Gelişmiş…">
 <!ENTITY advancedFonts.accesskey "e">
 
-<!ENTITY colors.label "Renkler...">
+<!ENTITY colors.label "Renkler…">
 <!ENTITY colors.accesskey "R">
 
 
 <!ENTITY languages.label "Diller">
 <!ENTITY chooseLanguage.label "Sayfaların gösteriminde kullanılacak dili seçin">
-<!ENTITY chooseButton.label "Seç...">
+<!ENTITY chooseButton.label "Seç…">
 <!ENTITY chooseButton.accesskey "S">

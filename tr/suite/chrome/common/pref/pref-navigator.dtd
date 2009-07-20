@@ -21,7 +21,7 @@
 <!ENTITY useCurrent.accesskey "U">
 <!ENTITY useCurrentGroup.label "Use Current Group">
 <!ENTITY useCurrentGroup.accesskey "G">
-<!ENTITY browseFile.label "Dosyayı seçin...">
+<!ENTITY browseFile.label "Dosyayı seçin…">
 <!ENTITY browseFile.accesskey "s">
 <!ENTITY useDefault.label "Öntanımlı Ayarlar">
 <!ENTITY useDefault.accesskey "r">

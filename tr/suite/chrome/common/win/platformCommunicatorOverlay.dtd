@@ -23,7 +23,7 @@
 <!ENTITY openHelpCmd.label "Help Contents">
 <!ENTITY openHelpCmd.accesskey "H">
 <!ENTITY openHelpCmd.key "VK_F1">
-<!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına...">
+<!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına…">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!-- Key labels, for mousewheel prefs -->
 

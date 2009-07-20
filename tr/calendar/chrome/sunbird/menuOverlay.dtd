@@ -161,7 +161,7 @@
 <!ENTITY aboutCmd.label "&brandFullName; hakkında">
 <!ENTITY aboutCmd.accesskey "h">
 
-<!ENTITY updateCmd.label "Güncellemeleri bak...">
+<!ENTITY updateCmd.label "Güncellemeleri bak…">
 <!ENTITY updateCmd.accesskey "b">
 
 <!ENTITY sunbird.export.calendar.label "Takvimi dışa aktar…">

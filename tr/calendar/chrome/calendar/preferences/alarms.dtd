@@ -45,7 +45,7 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Varsayılan ses dosyasını kullan">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Tara...">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Tara…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "T">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Önizleme">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "z">

@@ -51,7 +51,7 @@
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "a">
 <!ENTITY pref.calendar.advanced.proxiesInfo.label "&brandShortName; uygulamasının internete nasıl bağlanacağını ayarlayın">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Gelişmiş ayarlar">
-<!ENTITY pref.calendar.advanced.configEdit.button "Ayarları Düzenle...">
+<!ENTITY pref.calendar.advanced.configEdit.button "Ayarları Düzenle…">
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "Y">
 <!-- Passwords -->
 
@@ -59,9 +59,9 @@
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Kayıtlı parolaları şifrelemek için ana parola kullan">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "p">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "Ana parola kullanılırsa her oturumda ana parolanızı tekrar girmeniz gerekir.">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Ana parolayı değiştir...">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Ana parolayı değiştir…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "n">
-<!ENTITY pref.calendar.advanced.viewPasswords.label "Kayıtlı parolaları göster...">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Kayıtlı parolaları göster…">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "y">
 <!-- Update -->
 
@@ -77,7 +77,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "d">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Herhangi bir eklentimi etkisizleştirirse beni uyar">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "H">
-<!ENTITY pref.calendar.advanced.update.showHistory.label "Güncelleme geçmişini göster...">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Güncelleme geçmişini göster…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "c">
 <!-- Encryption -->
 

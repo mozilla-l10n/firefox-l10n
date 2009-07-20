@@ -99,7 +99,7 @@
 <!ENTITY mediaTitle "Başlık:">
 <!ENTITY mediaLongdesc "Ayrıntılı açıklama:">
 <!ENTITY mediaBlockImage.accesskey "O">
-<!ENTITY mediaSaveAs "Farklı kaydet...">
+<!ENTITY mediaSaveAs "Farklı kaydet…">
 <!ENTITY mediaSaveAs.accesskey "F">
 <!ENTITY mediaSaveAs2.accesskey "e">
 <!ENTITY mediaPreview "Ortam önizleme:">

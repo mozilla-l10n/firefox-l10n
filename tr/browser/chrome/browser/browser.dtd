@@ -14,19 +14,19 @@
 <!ENTITY tabCmd.label "Yeni sekme">
 <!ENTITY tabCmd.accesskey "s">
 <!ENTITY tabCmd.commandkey "T">
-<!ENTITY openLocationCmd.label "Konumu aç...">
+<!ENTITY openLocationCmd.label "Konumu aç…">
 <!ENTITY openLocationCmd.accesskey "K">
-<!ENTITY openFileCmd.label "Dosya aç...">
+<!ENTITY openFileCmd.label "Dosya aç…">
 <!ENTITY openFileCmd.accesskey "a">
 <!ENTITY openFileCmd.commandkey "O">
-<!ENTITY printSetupCmd.label "Sayfa düzeni...">
+<!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "y">
 <!ENTITY printPreviewCmd.label "Yazdırma önizleme">
 <!ENTITY printPreviewCmd.accesskey "ö">
 <!ENTITY printCmd.label "Yazdır">
 <!ENTITY printCmd.accesskey "Y">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY import.label "İçe aktar...">
+<!ENTITY import.label "İçe aktar…">
 <!ENTITY import.accesskey "a">
 
 <!ENTITY goOfflineCmd.label "Çevrimdışı çalış">
@@ -67,10 +67,10 @@
 <!ENTITY bookmarkThisPageCmd.label "Bu sayfayı yer imlerine ekle">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
-<!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol...">
-<!ENTITY addCurPagesCmd.label "Bütün sekmeleri yer imlerine ekle...">
-<!ENTITY organizeBookmarks.label "Yer imlerini düzenle...">
-<!ENTITY bookmarkAllCmd.label "Sekmeleri yer imlerine ekle...">
+<!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
+<!ENTITY addCurPagesCmd.label "Bütün sekmeleri yer imlerine ekle…">
+<!ENTITY organizeBookmarks.label "Yer imlerini düzenle…">
+<!ENTITY bookmarkAllCmd.label "Sekmeleri yer imlerine ekle…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 
 <!ENTITY backCmd.label "Geri">
@@ -118,7 +118,7 @@
 <!ENTITY toolsMenu.label "Araçlar">
 <!ENTITY toolsMenu.accesskey "l">
 
-<!ENTITY keywordfield.label "Arama için anahtar kelime ekle...">
+<!ENTITY keywordfield.label "Arama için anahtar kelime ekle…">
 <!ENTITY keywordfield.accesskey "k">
 <!ENTITY search.label "İnternette arama">
 <!ENTITY search.accesskey "a">
@@ -185,7 +185,7 @@
 <!ENTITY viewToolbarsMenu.accesskey "A">
 <!ENTITY viewSidebarMenu.label "Kenar çubuğu">
 <!ENTITY viewSidebarMenu.accesskey "K">
-<!ENTITY viewCustomizeToolbar.label "Özelleştir...">
+<!ENTITY viewCustomizeToolbar.label "Özelleştir…">
 <!ENTITY viewCustomizeToolbar.accesskey "l">
 
 <!ENTITY historyMenu.label "Geçmiş">
@@ -264,7 +264,7 @@
 <!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Arkaplan resmini göster">
 <!ENTITY viewBGImageCmd.accesskey "r">
-<!ENTITY setDesktopBackgroundCmd.label "Masaüstü arkaplanı olarak ayarla...">
+<!ENTITY setDesktopBackgroundCmd.label "Masaüstü arkaplanı olarak ayarla…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "s">
 <!ENTITY bookmarkPageCmd2.label "Sayfayı yer imlerine ekle">
 <!ENTITY bookmarkPageCmd2.accesskey "m">
@@ -272,32 +272,32 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "l">
 <!ENTITY bookmarkThisFrameCmd.label "Bu çerçeveyi yer imlerine ekle">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY sendPageCmd.label "Bağlantı gönder...">
+<!ENTITY sendPageCmd.label "Bağlantı gönder…">
 <!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY savePageCmd.label "Sayfayı farklı kaydet...">
+<!ENTITY savePageCmd.label "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey "S">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2 "F">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY saveFrameCmd.label "Çerçeveyi farklı kaydet...">
+<!ENTITY saveFrameCmd.label "Çerçeveyi farklı kaydet…">
 <!ENTITY saveFrameCmd.accesskey "e">
-<!ENTITY printFrameCmd.label "Çerçeveyi yazdır...">
+<!ENTITY printFrameCmd.label "Çerçeveyi yazdır…">
 <!ENTITY printFrameCmd.accesskey "y">
-<!ENTITY saveLinkCmd.label "Farklı kaydet...">
+<!ENTITY saveLinkCmd.label "Farklı kaydet…">
 <!ENTITY saveLinkCmd.accesskey "F">
-<!ENTITY sendLinkCmd.label "Bağlantıyı gönder...">
+<!ENTITY sendLinkCmd.label "Bağlantıyı gönder…">
 <!ENTITY sendLinkCmd.accesskey "t">
-<!ENTITY saveImageCmd.label "Resmi farklı kaydet...">
+<!ENTITY saveImageCmd.label "Resmi farklı kaydet…">
 <!ENTITY saveImageCmd.accesskey "R">
-<!ENTITY saveVideoCmd.label "Videoyu farklı kaydet...">
+<!ENTITY saveVideoCmd.label "Videoyu farklı kaydet…">
 <!ENTITY saveVideoCmd.accesskey "V">
-<!ENTITY saveAudioCmd.label "Sesi farklı kaydet...">
+<!ENTITY saveAudioCmd.label "Sesi farklı kaydet…">
 <!ENTITY saveAudioCmd.accesskey "f">
-<!ENTITY sendImageCmd.label "Resmi gönder...">
+<!ENTITY sendImageCmd.label "Resmi gönder…">
 <!ENTITY sendImageCmd.accesskey "n">
-<!ENTITY sendVideoCmd.label "Videoyu gönder...">
+<!ENTITY sendVideoCmd.label "Videoyu gönder…">
 <!ENTITY sendVideoCmd.accesskey "n">
-<!ENTITY sendAudioCmd.label "Sesi gönder...">
+<!ENTITY sendAudioCmd.label "Sesi gönder…">
 <!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
 <!ENTITY copyLinkCmd.accesskey "B">
@@ -396,8 +396,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "İstenmeyen pencere tercihlerini düzenle...">
-<!ENTITY editPopupSettings.label "İstenmeyen pencereleri engelleme seçeneklerini düzenle...">
+<!ENTITY editPopupSettingsUnix.label "İstenmeyen pencere tercihlerini düzenle…">
+<!ENTITY editPopupSettings.label "İstenmeyen pencereleri engelleme seçeneklerini düzenle…">
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "d">
 
@@ -407,7 +407,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "M">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "x">
 
-<!ENTITY findOnCmd.label "Bu sayfada bul...">
+<!ENTITY findOnCmd.label "Bu sayfada bul…">
 <!ENTITY findOnCmd.accesskey "s">
 <!ENTITY findOnCmd.commandkey "F">
 <!ENTITY findAgainCmd.label "Sonrakini bul">
@@ -415,7 +415,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "G">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "Sözlük ekle...">
+<!ENTITY spellAddDictionaries.label "Sözlük ekle…">
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!ENTITY editBookmark.done.label "Tamam">
@@ -423,7 +423,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
 <!ENTITY editBookmark.undo.label "Geri al">
 <!ENTITY editBookmark.undo.accessKey "G">
-<!ENTITY editBookmark.edit.label "Düzenle...">
+<!ENTITY editBookmark.edit.label "Düzenle…">
 <!ENTITY editBookmark.edit.accessKey "e">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
@@ -441,7 +441,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "İşleten:">
 
-<!ENTITY identity.moreInfoLinkText "Daha fazla bilgi...">
+<!ENTITY identity.moreInfoLinkText "Daha fazla bilgi…">
 
 <!ENTITY downloadMonitor2.tooltip "İndirme penceresini açmak için tıklayın">
 

@@ -89,7 +89,7 @@
 <!ENTITY sunbird.menu.numberofweeks.6 "6 hafta">
 <!-- customizable toolbars -->
 
-<!ENTITY sunbird.context.customize.label "Özelleştir...">
+<!ENTITY sunbird.context.customize.label "Özelleştir…">
 <!ENTITY sunbird.context.customize.accesskey "z">
 <!ENTITY sunbird.menu.customize.label "Araç çubuğunu özelleştir…">
 <!ENTITY sunbird.menu.customize.accesskey "ö">

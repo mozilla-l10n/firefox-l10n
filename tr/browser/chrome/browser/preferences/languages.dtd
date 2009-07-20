@@ -9,7 +9,7 @@
 <!ENTITY languages.customize.moveDown.accesskey "A">
 <!ENTITY languages.customize.deleteButton.label "Kaldır">
 <!ENTITY languages.customize.deleteButton.accesskey "r">
-<!ENTITY languages.customize.selectLanguage.label "Eklenecek bir dil seçin...">
+<!ENTITY languages.customize.selectLanguage.label "Eklenecek bir dil seçin…">
 <!ENTITY languages.customize.addButton.label "Ekle">
 <!ENTITY languages.customize.addButton.accesskey "E">
 

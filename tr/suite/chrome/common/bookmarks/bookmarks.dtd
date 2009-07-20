@@ -71,7 +71,7 @@
 <!ENTITY button.delete.accesskey "S">
 <!ENTITY menuitem.moveBookmark.label "Move Bookmark(s)…">
 <!ENTITY menuitem.moveBookmark.accesskey "M">
-<!ENTITY button.moveBookmark.label "Taşı...">
+<!ENTITY button.moveBookmark.label "Taşı…">
 <!ENTITY button.moveBookmark.accesskey "T">
 <!ENTITY command.addBookmark.label "Ekle…">
 <!ENTITY command.manageBookmarks.label "Manage">

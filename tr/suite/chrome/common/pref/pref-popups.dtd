@@ -16,7 +16,7 @@
 <!ENTITY customSound.label "Custom sound file">
 <!ENTITY customSound.accesskey "C">
 
-<!ENTITY selectSound.label "Gözat...">
+<!ENTITY selectSound.label "Gözat…">
 <!ENTITY selectSound.accesskey "z">
 <!ENTITY previewSound.label "Önizleme">
 <!ENTITY previewSound.accesskey "z">
