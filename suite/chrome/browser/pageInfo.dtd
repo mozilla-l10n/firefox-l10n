@@ -112,7 +112,7 @@
 <!ENTITY  permTab               "Permissions">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Permissions par défaut">
-<!ENTITY  permAskAlways         "Toujours demander"
+<!ENTITY  permAskAlways         "Toujours demander">
 <!ENTITY  permAllow             "Autoriser">
 <!ENTITY  permAllowSession      "Autoriser pour la session">
 <!ENTITY  permBlock             "Bloquer">
