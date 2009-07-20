@@ -10,24 +10,6 @@
 <!ENTITY  locbar.bookmarks.label        "Lesezeichen">
 <!ENTITY  locbar.nothing.label          "Nichts">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "Chronik mindestens">
-<!ENTITY  rememberDaysBefore.accesskey  "m">
-<!ENTITY  rememberDaysAfter2.label       "Tage speichern">
-
-<!ENTITY  rememberForms.label           "Daten speichern, die in Formulare und die Suchleiste eingegeben werden">
-<!ENTITY  rememberForms.accesskey       "D">
-
-<!ENTITY  rememberDownloads.label       "Heruntergeladene Dateien merken">
-<!ENTITY  rememberDownloads.accesskey   "u">
-
-
-<!ENTITY  cookies.label                 "Cookies">
 
 <!ENTITY  acceptCookies.label           "Cookies akzeptieren">
 <!ENTITY  acceptCookies.accesskey       "C">
@@ -48,14 +30,6 @@
 <!ENTITY  showCookies.label             "Cookies anzeigen…">
 <!ENTITY  showCookies.accesskey         "o">
 
-
-<!ENTITY  privateData.label             "Private Daten">
-
-<!ENTITY  alwaysClear.label              "Private Daten löschen, wenn &brandShortName; beendet wird">
-<!ENTITY  alwaysClear.accesskey          "P">
-
-<!ENTITY  clearDataSettings.label        "Einstellungen…">
-<!ENTITY  clearDataSettings.accesskey    "E">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; wird eine Chronik:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
