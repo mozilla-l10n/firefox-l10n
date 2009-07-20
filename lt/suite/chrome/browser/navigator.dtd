@@ -85,7 +85,7 @@
 <!ENTITY componentbarCmd.label "Darbų mygtukų juosta">
 <!ENTITY componentbarCmd.accesskey "D">
 
-<!ENTITY useStyleSheetMenu.label "Pakopiniai stiliai">
+<!ENTITY useStyleSheetMenu.label "Tinklalapio stilius">
 <!ENTITY useStyleSheetMenu.accesskey "s">
 <!ENTITY useStyleSheetNone.label "Nėra">
 <!ENTITY useStyleSheetNone.accesskey "N">
@@ -110,9 +110,9 @@
 <!ENTITY minimizeButton.tooltip       "Suskleisti">
 <!ENTITY restoreButton.tooltip        "Normalioji veiksena">
 
-<!ENTITY applyTheme.label	"Grafiniai apvalkalai"> 
+<!ENTITY applyTheme.label	"Grafinis apvalkalas"> 
 <!ENTITY applyTheme.accesskey	"a"> 
-<!ENTITY getNewThemesCmd.label "Atsiųsti kitus apvalkalus…">
+<!ENTITY getNewThemesCmd.label "Atsiųsti apvalkalą…">
 <!ENTITY getNewThemesCmd.accesskey "A">
 <!ENTITY findOnCmd.label "Ieškoti šiame tinklalapyje…">
 <!ENTITY findOnCmd.accesskey "I">
