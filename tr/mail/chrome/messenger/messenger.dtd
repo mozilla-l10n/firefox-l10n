@@ -85,8 +85,8 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "A">
 <!ENTITY selectMenu.label "Seçin">
 <!ENTITY selectMenu.accesskey "S">
-<!ENTITY all.label "All">
-<!ENTITY all.accesskey "A">
+<!ENTITY all.label "Tümü">
+<!ENTITY all.accesskey "T">
 <!ENTITY selectThreadCmd.label "Dizilim">
 <!ENTITY selectThreadCmd.accesskey "i">
 <!ENTITY selectThreadCmd.key "a">
@@ -136,8 +136,8 @@
 <!ENTITY unreadFolders.accesskey "u">
 <!ENTITY favoriteFolders.label "Tercih edilenler">
 <!ENTITY favoriteFolders.accesskey "T">
-<!ENTITY recentFolders.label "Recent">
-<!ENTITY recentFolders.accesskey "R">
+<!ENTITY recentFolders.label "Güncel">
+<!ENTITY recentFolders.accesskey "G">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sırala">
@@ -302,8 +302,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.label "Okunmayan iletiler">
 <!ENTITY prevUnreadMsgCmd.accesskey "u">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Forward">
-<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.label "İleri">
+<!ENTITY goForwardCmd.accesskey "l">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Geri">
 <!ENTITY goBackCmd.accesskey "r">

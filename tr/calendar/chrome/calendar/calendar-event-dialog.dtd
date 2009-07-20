@@ -51,42 +51,42 @@
 
 <!ENTITY newevent.status.label "Durum">
 <!ENTITY newevent.status.accesskey "u">
-<!ENTITY newevent.status.none.label "Not specified">
-<!ENTITY newevent.status.none.accesskey "o">
-<!ENTITY newevent.status.cancelled.label "Cancelled">
-<!ENTITY newevent.status.cancelled.accesskey "n">
-<!ENTITY newevent.status.tentative.label "Tentative">
-<!ENTITY newevent.status.tentative.accesskey "T">
-<!ENTITY newevent.status.confirmed.label "Confirmed">
-<!ENTITY newevent.status.confirmed.accesskey "C">
+<!ENTITY newevent.status.none.label "Tanımlanmadı">
+<!ENTITY newevent.status.none.accesskey "T">
+<!ENTITY newevent.status.cancelled.label "Vazgeçildi">
+<!ENTITY newevent.status.cancelled.accesskey "z">
+<!ENTITY newevent.status.tentative.label "Geçici">
+<!ENTITY newevent.status.tentative.accesskey "ç">
+<!ENTITY newevent.status.confirmed.label "Onaylandı">
+<!ENTITY newevent.status.confirmed.accesskey "O">
 <!ENTITY newevent.status.needsaction.label "İşlem gerekli">
 <!ENTITY newevent.status.inprogress.label "Hazırlanıyor">
 <!ENTITY newevent.status.completed.label "Tamamlandı">
 <!-- The following entity is for New Task dialog only -->
 
-<!ENTITY newtodo.percentcomplete.label "&#37; complete">
+<!ENTITY newtodo.percentcomplete.label "Tamamlanma &#37;">
 <!-- Menubar -->
 
 <!ENTITY event.menu.file.label "Dosya">
 <!ENTITY event.menu.file.accesskey "D">
-<!ENTITY event.menu.file.new.label "New">
-<!ENTITY event.menu.file.new.accesskey "N">
-<!ENTITY event.menu.file.new.event.label "Event">
+<!ENTITY event.menu.file.new.label "Yeni">
+<!ENTITY event.menu.file.new.accesskey "Y">
+<!ENTITY event.menu.file.new.event.label "Etkinlik">
 <!ENTITY event.menu.file.new.event.accesskey "E">
 <!ENTITY event.menu.file.new.message.label "Posta">
 <!ENTITY event.menu.file.new.message.accesskey "P">
 <!ENTITY event.menu.file.new.contact.label "Address Book Contact">
 <!ENTITY event.menu.file.new.contact.accesskey "C">
-<!ENTITY event.menu.file.close.label "Close">
-<!ENTITY event.menu.file.close.accesskey "C">
+<!ENTITY event.menu.file.close.label "Kapat">
+<!ENTITY event.menu.file.close.accesskey "t">
 <!ENTITY event.menu.file.save.label "Kaydet">
 <!ENTITY event.menu.file.save.accesskey "K">
 <!ENTITY event.menu.item.delete.label "Sil">
 <!ENTITY event.menu.item.delete.accesskey "S">
-<!ENTITY event.menu.file.page.setup.label "Page Setup">
-<!ENTITY event.menu.file.page.setup.accesskey "u">
-<!ENTITY event.menu.file.print.label "Print">
-<!ENTITY event.menu.file.print.accesskey "P">
+<!ENTITY event.menu.file.page.setup.label "Sayfa düzeni">
+<!ENTITY event.menu.file.page.setup.accesskey "z">
+<!ENTITY event.menu.file.print.label "Yazdır">
+<!ENTITY event.menu.file.print.accesskey "r">
 
 <!ENTITY event.menu.edit.label "Düzenle">
 <!ENTITY event.menu.edit.accesskey "e">
@@ -105,8 +105,8 @@
 
 <!ENTITY event.menu.view.label "Görünüm">
 <!ENTITY event.menu.view.accesskey "G">
-<!ENTITY event.menu.view.toolbars.label "Toolbars">
-<!ENTITY event.menu.view.toolbars.accesskey "T">
+<!ENTITY event.menu.view.toolbars.label "Araç çubukları">
+<!ENTITY event.menu.view.toolbars.accesskey "A">
 <!ENTITY event.menu.view.toolbars.event.label "Event Toolbar">
 <!ENTITY event.menu.view.toolbars.event.accesskey "E">
 <!ENTITY event.menu.view.toolbars.customize.label "Özelleştir...">
@@ -116,7 +116,7 @@
 
 <!ENTITY event.menu.options.label "Seçenekler">
 <!ENTITY event.menu.options.accesskey "S">
-<!ENTITY event.menu.options.attachments.label "Attach Webpage…">
+<!ENTITY event.menu.options.attachments.label "Web sayfasını ek olarak ekle…">
 <!ENTITY event.menu.options.attachments.accesskey "W">
 <!ENTITY event.menu.options.attendees.label "Invite Attendees…">
 <!ENTITY event.menu.options.attendees.accesskey "I">
@@ -126,18 +126,18 @@
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "Y">
 <!ENTITY event.menu.options.link.label "Add Link…">
 <!ENTITY event.menu.options.link.accesskey "L">
-<!ENTITY event.menu.options.timezone.label "Timezone">
-<!ENTITY event.menu.options.timezone.accesskey "z">
-<!ENTITY event.menu.options.priority2.label "Priority">
-<!ENTITY event.menu.options.priority2.accesskey "y">
-<!ENTITY event.menu.options.priority.notspecified.label "Not specified">
-<!ENTITY event.menu.options.priority.notspecified.accesskey "o">
-<!ENTITY event.menu.options.priority.low.label "Low">
-<!ENTITY event.menu.options.priority.low.accesskey "L">
+<!ENTITY event.menu.options.timezone.label "Zaman dilimi">
+<!ENTITY event.menu.options.timezone.accesskey "Z">
+<!ENTITY event.menu.options.priority2.label "Önemlilik">
+<!ENTITY event.menu.options.priority2.accesskey "Ö">
+<!ENTITY event.menu.options.priority.notspecified.label "Tanımlanmadı">
+<!ENTITY event.menu.options.priority.notspecified.accesskey "T">
+<!ENTITY event.menu.options.priority.low.label "Düşük">
+<!ENTITY event.menu.options.priority.low.accesskey "D">
 <!ENTITY event.menu.options.priority.normal.label "Normal">
 <!ENTITY event.menu.options.priority.normal.accesskey "N">
-<!ENTITY event.menu.options.priority.high.label "High">
-<!ENTITY event.menu.options.priority.high.accesskey "H">
+<!ENTITY event.menu.options.priority.high.label "Yüksek">
+<!ENTITY event.menu.options.priority.high.accesskey "Y">
 <!ENTITY event.menu.options.privacy.label "Privacy">
 <!ENTITY event.menu.options.privacy.accesskey "P">
 <!ENTITY event.menu.options.privacy.public.label "Public Event">
@@ -159,8 +159,8 @@
 <!ENTITY event.help.release.notes.accesskey "S">
 <!ENTITY event.help.help.label "&brandShortName; Yardımı">
 <!ENTITY event.help.help.accesskey "Y">
-<!ENTITY event.help.about.label "About &brandShortName;">
-<!ENTITY event.help.about.accesskey "A">
+<!ENTITY event.help.about.label "&brandShortName; hakkında">
+<!ENTITY event.help.about.accesskey "k">
 
 <!ENTITY event.invite.attendees.label "Invite Attendees…">
 <!ENTITY event.invite.attendees.accesskey "I">
@@ -178,43 +178,43 @@
 <!ENTITY event.toolbar.attachments.label "Attach">
 <!-- Main page -->
 
-<!ENTITY event.title.textbox.label "Title:">
-<!ENTITY event.title.textbox.accesskey "T">
-<!ENTITY event.location.label "Location:">
-<!ENTITY event.location.accesskey "L">
+<!ENTITY event.title.textbox.label "Başlık:">
+<!ENTITY event.title.textbox.accesskey "B">
+<!ENTITY event.location.label "Konum:">
+<!ENTITY event.location.accesskey "K">
 <!ENTITY event.categories.label "Category:">
 <!ENTITY event.categories.accesskey "y">
-<!ENTITY event.calendar.label "Calendar:">
-<!ENTITY event.calendar.accesskey "C">
+<!ENTITY event.calendar.label "Takvim:">
+<!ENTITY event.calendar.accesskey "T">
 <!ENTITY event.attendees.label "Attendees:">
 <!ENTITY event.attendees.accesskey "I">
 <!ENTITY event.alldayevent.label "All day Event">
 <!ENTITY event.alldayevent.accesskey "d">
-<!ENTITY event.from.label "Start:">
-<!ENTITY event.from.accesskey "S">
+<!ENTITY event.from.label "Başlangıç:">
+<!ENTITY event.from.accesskey "B">
 <!ENTITY task.from.label "Başlangıç:">
 <!ENTITY task.from.accesskey "B">
 <!ENTITY event.to.label "End:">
 <!ENTITY event.to.accesskey "n">
 <!ENTITY task.to.label "Due Date:">
 <!ENTITY task.to.accesskey "u">
-<!ENTITY task.status.label "Status:">
-<!ENTITY task.status.accesskey "a">
-<!ENTITY event.repeat.label "Repeat:">
-<!ENTITY event.repeat.accesskey "R">
+<!ENTITY task.status.label "Durum:">
+<!ENTITY task.status.accesskey "D">
+<!ENTITY event.repeat.label "Tekrarla:">
+<!ENTITY event.repeat.accesskey "T">
 <!ENTITY event.reminder.label "Reminder:">
 <!ENTITY event.reminder.accesskey "m">
-<!ENTITY event.description.label "Description:">
-<!ENTITY event.description.accesskey "p">
-<!ENTITY event.attachments.label "Attachments:">
-<!ENTITY event.attachments.accesskey "h">
+<!ENTITY event.description.label "Açıklama:">
+<!ENTITY event.description.accesskey "A">
+<!ENTITY event.attachments.label "Ekler:">
+<!ENTITY event.attachments.accesskey "E">
 <!ENTITY event.attachments.popup.remove.label "Kaldır">
 <!ENTITY event.attachments.popup.remove.accesskey "r">
 <!ENTITY event.attachments.popup.open.label "Aç">
 <!ENTITY event.attachments.popup.open.accesskey "A">
 <!ENTITY event.attachments.popup.removeAll.label "Tümünü kaldır">
 <!ENTITY event.attachments.popup.removeAll.accesskey "a">
-<!ENTITY event.attachments.popup.attachPage.label "Attach Webpage…">
+<!ENTITY event.attachments.popup.attachPage.label "Web sayfasını ek olarak ekle…">
 <!ENTITY event.attachments.popup.attachPage.accesskey "W">
 <!ENTITY event.url.label "Related Link:">
 <!ENTITY event.priority2.label "Önemlilik:">
@@ -282,7 +282,7 @@
 <!ENTITY event.recurrence.repeat.dayofmonth.label "Day of the month">
 <!ENTITY event.recurrence.repeat.recur.label "Recur on day(s)">
 
-<!ENTITY event.recurrence.every.label "Every:">
+<!ENTITY event.recurrence.every.label "Her:">
 <!ENTITY repeat.units.years.both "Year(s)">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Every">
 <!-- LOCALIZATON NOTE
@@ -366,11 +366,11 @@
 
 <!ENTITY read.only.general.label "Genel">
 <!ENTITY read.only.title.label "Başlık:">
-<!ENTITY read.only.repeat.label "Repeat:">
+<!ENTITY read.only.repeat.label "Tekrarla:">
 <!ENTITY read.only.location.label "Konum:">
-<!ENTITY read.only.category.label "Category:">
+<!ENTITY read.only.category.label "Kategori:">
 <!ENTITY read.only.organizer.label "Düzenleyen:">
-<!ENTITY read.only.reply.label "Reply:">
+<!ENTITY read.only.reply.label "Yanıtla:">
 <!ENTITY read.only.accept.label "I will attend">
 <!ENTITY read.only.decline.label "I will not attend">
 <!ENTITY read.only.tentative.label "I might attend">

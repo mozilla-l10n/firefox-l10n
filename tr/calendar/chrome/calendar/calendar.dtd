@@ -187,8 +187,8 @@
 <!ENTITY calendar.context.deletethisevent.accesskey "T">
 <!ENTITY calendar.context.deletecompleteseries.label "Complete Series">
 <!ENTITY calendar.context.deletecompleteseries.accesskey "S">
-<!ENTITY calendar.context.deletefutureevents.label "All Future Events">
-<!ENTITY calendar.context.deletefutureevents.accesskey "F">
+<!ENTITY calendar.context.deletefutureevents.label "Gelecekdeki bütün olaylar">
+<!ENTITY calendar.context.deletefutureevents.accesskey "G">
 <!ENTITY calendar.context.deletefuturetasks.label "All Future Tasks">
 <!ENTITY calendar.context.deletefuturetasks.accesskey "F">
 <!ENTITY calendar.context.cutevent.label "Kes">
@@ -199,8 +199,8 @@
 <!ENTITY calendar.context.pasteevent.accesskey "p">
 <!ENTITY calendar.context.selectall.label "Hepsini seç">
 <!ENTITY calendar.context.selectall.accesskey "p">
-<!ENTITY calendar.context.button.label "Today Pane">
-<!ENTITY calendar.context.button.accesskey "T">
+<!ENTITY calendar.context.button.label "Bugün paneli">
+<!ENTITY calendar.context.button.accesskey "B">
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label "İlerleme">
@@ -255,10 +255,10 @@
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
 <!ENTITY calendar.context.convertmenu.event.label "Event…">
 <!ENTITY calendar.context.convertmenu.event.accesskey "E">
-<!ENTITY calendar.context.convertmenu.message.label "Message…">
-<!ENTITY calendar.context.convertmenu.message.accesskey "M">
-<!ENTITY calendar.context.convertmenu.task.label "Task…">
-<!ENTITY calendar.context.convertmenu.task.accesskey "T">
+<!ENTITY calendar.context.convertmenu.message.label "İleti…">
+<!ENTITY calendar.context.convertmenu.message.accesskey "İ">
+<!ENTITY calendar.context.convertmenu.task.label "Görev…">
+<!ENTITY calendar.context.convertmenu.task.accesskey "G">
 
 <!ENTITY calendar.tasks.view.minimonth.label "Küçük ay">
 <!ENTITY calendar.tasks.view.minimonth.accesskey "a">
@@ -306,8 +306,8 @@
 <!ENTITY calendarproperties.cache.label "Önbellek (Deneme aşamasında, tekrar başlatılması gerekli)">
 <!ENTITY calendarproperties.enabled.label "Switch this calendar on">
 <!ENTITY calendarproperties.forceDisabled.label "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
-<!ENTITY calendarproperties.unsubscribe.label "Unsubscribe">
-<!ENTITY calendarproperties.unsubscribe.accesskey "U">
+<!ENTITY calendarproperties.unsubscribe.label "Abonelikten çık">
+<!ENTITY calendarproperties.unsubscribe.accesskey "ç">
 <!-- Calendar Publish Dialog -->
 
 <!ENTITY calendar.publish.dialog.title "Takvim yayınla">

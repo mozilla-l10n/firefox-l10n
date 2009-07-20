@@ -73,9 +73,9 @@
 <!ENTITY reset.accesskey "S">
 <!ENTITY new.label "Yeni">
 <!ENTITY new.accesskey "n">
-<!ENTITY string.label "String">
-<!ENTITY string.accesskey "S">
-<!ENTITY integer.label "Integer">
-<!ENTITY integer.accesskey "I">
+<!ENTITY string.label "Katar">
+<!ENTITY string.accesskey "K">
+<!ENTITY integer.label "Sayı">
+<!ENTITY integer.accesskey "S">
 <!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "B">

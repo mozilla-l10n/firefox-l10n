@@ -42,9 +42,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendar.open.file.label "Open Calendar File…">
+<!ENTITY calendar.open.file.label "Takvim dosyasını aç…">
 <!ENTITY calendar.open.file.key "O">
-<!ENTITY calendar.open.file.accesskey "O">
+<!ENTITY calendar.open.file.accesskey "T">
 
 <!ENTITY event.edit.event "Edit Selection…">
 <!ENTITY event.edit.event.key "E">

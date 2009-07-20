@@ -69,8 +69,8 @@
 <!ENTITY smiley10Cmd.label "Bağır">
 <!ENTITY smiley10Cmd.accesskey "r">
 <!ENTITY smiley10Cmd.tooltip "Bağıran bir yüz ekler">
-<!ENTITY smiley11Cmd.label "Cool">
-<!ENTITY smiley11Cmd.accesskey "C">
+<!ENTITY smiley11Cmd.label "Harika">
+<!ENTITY smiley11Cmd.accesskey "H">
 <!ENTITY smiley11Cmd.tooltip "Sakin bir yüz ekler">
 <!ENTITY smiley12Cmd.label "Ağzı paralı">
 <!ENTITY smiley12Cmd.accesskey "A">

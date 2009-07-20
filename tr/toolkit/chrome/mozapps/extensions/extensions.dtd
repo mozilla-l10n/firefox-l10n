@@ -87,8 +87,8 @@
 <!ENTITY cmd.installSearchResult.accesskey "a">
 <!ENTITY cmd.installSearchResult.tooltip "Bu eklentiyi indir ve kur">
 <!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "Cancel">
-<!ENTITY cancel.accesskey "C">
+<!ENTITY cancel.label "Vazgeç">
+<!ENTITY cancel.accesskey "z">
 <!ENTITY cancelInstall.label "Vazgeç">
 <!ENTITY cancelInstall.accesskey "V">
 <!ENTITY cancelUpgrade.label "Vazgeç">

@@ -96,7 +96,7 @@
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "S">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Revocation Lists">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
-<!ENTITY pref.calendar.advanced.encryption.verify2.label "Validation">
-<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Security Devices">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "y">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Doğrulama">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "D">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Güvenlik Aygıtları">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "G">

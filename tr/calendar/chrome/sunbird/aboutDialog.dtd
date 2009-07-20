@@ -36,16 +36,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title "About &brandFullName;">
+<!ENTITY aboutDialog.title "&brandFullName; hakkında">
 <!ENTITY copyright.label "Destekleyenler">
 <!ENTITY copyright.accesskey "D">
-<!ENTITY aboutLink.label "&lt; About &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutLink.label "&lt; &brandFullName; hakkında">
+<!ENTITY aboutLink.accesskey "k">
 <!ENTITY aboutVersion "sürüm">
-<!ENTITY copyrightText "&#169;1998-2009 Contributors. All rights
-                                 reserved. Mozilla Sunbird, Sunbird, and the
-                                 Sunbird logos are trademarks of the Mozilla
-                                 Foundation. All rights reserved.">
+<!ENTITY copyrightText "&#169;1998-2009 katkıda bulunanlar. Mozilla Sunbird, Sunbird ve Sunbird logosu, Mozilla Vakfı'nın ticari markalarıdır. Bütün hakları saklıdır.">
 
 <!ENTITY brandMotto "it's about time">
 <!ENTITY credit.thanks "Özel Olarak Teşekkür Ettiklerimiz">

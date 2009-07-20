@@ -39,7 +39,7 @@
 <!ENTITY sunbird.copy.button.tooltip "Copy">
 <!ENTITY sunbird.paste.button.tooltip "Paste">
 <!ENTITY sunbird.print.button.tooltip "Print calendar">
-<!ENTITY sunbird.delete.button.tooltip "Delete selected event">
+<!ENTITY sunbird.delete.button.tooltip "Seçilmiş etkinliği sil">
 <!ENTITY sunbird.remotereload.button.tooltip "Reload all remote calendars">
 <!ENTITY sunbird.import.button.tooltip "Import events from a local file">
 <!ENTITY sunbird.export.button.tooltip "Export events to a local file">
@@ -58,7 +58,7 @@
 <!ENTITY sunbird.export.button.label "Dışa aktar">
 <!ENTITY sunbird.subscribe.button.label "Abone ol">
 <!ENTITY sunbird.publish.button.label "Yayınla">
-<!ENTITY sunbird.unifinder.button.label "Find Events">
+<!ENTITY sunbird.unifinder.button.label "Etkinlikleri bul">
 <!ENTITY sunbird.edit.button.label "Edit">
 
 <!ENTITY sunbird.flat.topbar.choosedate "Go to Date">
@@ -81,18 +81,18 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label "Number of Weeks">
 <!ENTITY sunbird.menu.numberofweeks.accesskey "N">
-<!ENTITY sunbird.menu.numberofweeks.1 "1 Week">
-<!ENTITY sunbird.menu.numberofweeks.2 "2 Weeks">
-<!ENTITY sunbird.menu.numberofweeks.3 "3 Weeks">
-<!ENTITY sunbird.menu.numberofweeks.4 "4 Weeks">
-<!ENTITY sunbird.menu.numberofweeks.5 "5 Weeks">
-<!ENTITY sunbird.menu.numberofweeks.6 "6 Weeks">
+<!ENTITY sunbird.menu.numberofweeks.1 "1 hafta">
+<!ENTITY sunbird.menu.numberofweeks.2 "2 hafta">
+<!ENTITY sunbird.menu.numberofweeks.3 "3 hafta">
+<!ENTITY sunbird.menu.numberofweeks.4 "4 hafta">
+<!ENTITY sunbird.menu.numberofweeks.5 "5 hafta">
+<!ENTITY sunbird.menu.numberofweeks.6 "6 hafta">
 <!-- customizable toolbars -->
 
 <!ENTITY sunbird.context.customize.label "Özelleştir...">
 <!ENTITY sunbird.context.customize.accesskey "z">
-<!ENTITY sunbird.menu.customize.label "Customize Toolbar…">
-<!ENTITY sunbird.menu.customize.accesskey "C">
+<!ENTITY sunbird.menu.customize.label "Araç çubuğunu özelleştir…">
+<!ENTITY sunbird.menu.customize.accesskey "ö">
 <!ENTITY sunbird.maintoolbar.name "Main Toolbar">
 <!ENTITY sunbird.maintoolbar.accesskey "M">
 <!-- Sunbird Help -->
