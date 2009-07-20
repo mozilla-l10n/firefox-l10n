@@ -54,8 +54,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label  "Przebuduj plik podsumowania">
 
 <!ENTITY retention.label                    "Reguły przechowywania wiadomości">
-<!ENTITY retentionUseDefault.label          "Używaj domyślnych ustawień serwera">
-<!ENTITY retentionUseDefault.accesskey      "d">
+<!ENTITY retentionUseAccount.label          "Używaj domyślnych ustawień konta">
+<!ENTITY retentionUseAccount.accesskey      "d">
 <!ENTITY daysOld.label                      "dni">
 <!ENTITY retentionCleanup.label             "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane.">
 <!ENTITY retentionCleanupImap.label         "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane - zarówno lokalne kopie jak i oryginalne z serwera.">
