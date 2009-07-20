@@ -18,5 +18,5 @@
 <!ENTITY privatebrowsingpage.howToStop                 "Um den privaten Modus zu beenden, wählen Sie &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, oder beenden Sie &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "Um den privaten Modus zu starten, können Sie auch &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; wählen.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Während auf diesem Computer keine Spuren Ihrer Browserchronik gespeichert werden, kann ihr Internetprovider oder ihr Arbeitgeber trotzdem nachverfolgen, welche Seiten Sie besuchen.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Während auf diesem Computer keine Spuren Ihrer Browserchronik gespeichert werden, kann Ihr Internetprovider oder Ihr Arbeitgeber trotzdem nachverfolgen, welche Seiten Sie besuchen.">
 <!ENTITY privatebrowsingpage.learnMore                 "Weitere Informationen">
