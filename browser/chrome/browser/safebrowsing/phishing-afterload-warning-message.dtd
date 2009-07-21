@@ -13,7 +13,7 @@
 <!ENTITY safeb.palm.decline.label "Diese Warnung ignorieren">
 <!ENTITY safeb.palm.decline.statustext "Warnung schließen" >
 <!ENTITY safeb.palm.notforgery.label2 "Dies ist kein Betrugsversuch…">
-<!ENTITY safeb.palm.report.label "Warum wurde diese Seite blockiert?">
+<!ENTITY safeb.palm.reportPage.label "Warum wurde diese Seite blockiert?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Als attackierend gemeldete Webseite!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
