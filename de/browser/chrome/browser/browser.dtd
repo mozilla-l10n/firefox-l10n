@@ -48,6 +48,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Vollbild">
 <!ENTITY fullScreenCmd.accesskey "v">
+<!ENTITY showAllTabsCmd.label "Alle Tabs anzeigen">
+<!ENTITY showAllTabsCmd.accesskey "z">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimieren">
 <!ENTITY fullScreenRestore.tooltip "Wiederherstellen">
@@ -441,4 +443,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Klicken, um das Download-Fenster zu öffnen">
 
-<!ENTITY ctrlTab.search.emptyText "Tabs durchsuchen">
+<!ENTITY allTabs.filter.emptyText "Tabs durchsuchen">
