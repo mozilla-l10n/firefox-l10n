@@ -2,8 +2,6 @@
 <!ENTITY showImages.title                          "Képek megjelenítése">
 <!ENTITY enableJavaScript.title                    "JavaScript engedélyezése">
 <!ENTITY enableJavaScript.description              "A legtöbb interaktív webhely használ JavaScriptet">
-<!ENTITY javascript.options.jit.content.title      "JavaScript-gyorsítás engedélyezése">
-<!ENTITY javascript.options.jit.content.description "JavaScript natív kódra fordításának bekapcsolása">
 <!ENTITY enablePlugins.title                       "Bővítmények engedélyezése">
 <!ENTITY enablePlugins.description                 "A bővítmények speciális tartalmakhoz, például videókhoz kellenek">
 <!ENTITY privacy.title                             "Adatvédelem és biztonság">
