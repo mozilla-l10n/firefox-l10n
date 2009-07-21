@@ -116,8 +116,8 @@ Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına
 <p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
 
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan kurtar">
-<!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı">
+<!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan kurtar!">
+<!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of

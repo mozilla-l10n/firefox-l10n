@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label "Özet dosyasını tamir et">
      
 <!ENTITY retention.label "Kayıt Güvenliği">
-<!ENTITY retentionUseDefault.label "Sunucu varsayılanlarını kullan">
-<!ENTITY retentionUseDefault.accesskey "S">
+<!ENTITY retentionUseAccount.label "Use my account settings">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "gün eski">
 <!ENTITY message.label "ileti">
 <!ENTITY retentionCleanup.label "Boş yer kazanmak için eski iletileri düzenli aralıklar ile silebilirsiniz.">

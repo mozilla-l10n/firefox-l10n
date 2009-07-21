@@ -50,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Tam ekran">
 <!ENTITY fullScreenCmd.accesskey "T">
+<!ENTITY showAllTabsCmd.label "Show All Tabs">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "Küçült">
 <!ENTITY fullScreenRestore.tooltip "Geri getir">
@@ -445,4 +447,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "İndirme penceresini açmak için tıklayın">
 
-<!ENTITY ctrlTab.search.emptyText "Sekme arama">
+<!ENTITY allTabs.filter.emptyText "Sekme arama">

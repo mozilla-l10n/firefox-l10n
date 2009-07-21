@@ -112,6 +112,7 @@
 <!ENTITY permTab "İzinler">
 <!ENTITY permTab.accesskey "z">
 <!ENTITY permUseDefault "Öntanımlıyı kullan">
+<!ENTITY permAskAlways "Always ask">
 <!ENTITY permAllow "İzin ver">
 <!ENTITY permAllowSession "Oturum boyunca izin ver">
 <!ENTITY permBlock "Engelle">
@@ -120,6 +121,7 @@
 <!ENTITY permPopup "Open Popup Windows">
 <!ENTITY permCookie "Çerez bırak">
 <!ENTITY permInstall "Eklenti veya tema kur">
+<!ENTITY permGeo "Konumu paylaş">
 
 <!ENTITY securityTab "Güvenlik">
 <!ENTITY securityTab.accesskey "G">
