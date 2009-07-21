@@ -7,9 +7,9 @@
 <!ENTITY formatGroup.label   "Formátum">
 
 <!ENTITY orientation.label   "Tájolás:">
-<!ENTITY portrait.label            "Álló">
-<!ENTITY portrait.accesskey  "l">
-<!ENTITY landscape.label           "Fekvő">
+<!ENTITY portrait.label      "Álló">
+<!ENTITY portrait.accesskey  "Á">
+<!ENTITY landscape.label     "Fekvő">
 <!ENTITY landscape.accesskey "F">
 
 <!ENTITY scale.label         "Méret:">
@@ -32,7 +32,7 @@
 <!ENTITY marginTop.label     "Fent:">
 <!ENTITY marginTop.accesskey "F">
 <!ENTITY marginBottom.label  "Lent:">
-<!ENTITY marginBottom.accesskey "e">
+<!ENTITY marginBottom.accesskey "L">
 <!ENTITY marginLeft.label    "Balra:">
 <!ENTITY marginLeft.accesskey "B">
 <!ENTITY marginRight.label   "Jobbra:">

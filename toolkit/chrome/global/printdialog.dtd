@@ -8,7 +8,7 @@
 
 <!ENTITY fileCheck.label "Nyomtatás fájlba">
 <!ENTITY fileCheck.accesskey "f">
-<!ENTITY propertiesButton.label "Tulajdonságok…">
+<!ENTITY propertiesButton.label "Tulajdonságok...">
 <!ENTITY propertiesButton.accesskey "T">
 <!ENTITY descText.label "Nyomtató leírása:">
 <!ENTITY printer.label "Nyomtató">

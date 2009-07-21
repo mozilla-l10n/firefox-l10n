@@ -14,8 +14,8 @@
 <!ENTITY cmdInput.label "Nyomtatóparancs:">
 <!ENTITY cmdInput.accesskey "o">
 
-<!ENTITY jobTitleInput.label "Beosztás:">
-<!ENTITY jobTitleInput.accesskey "B">
+<!ENTITY jobTitleInput.label "Feladat neve:">
+<!ENTITY jobTitleInput.accesskey "v">
 
 <!ENTITY colorGroup.label "Szín:">
 <!ENTITY grayRadio.label "Szürkeárnyalatos">
@@ -27,7 +27,7 @@
 <!ENTITY colorspaceInput.accesskey "t">
 
 <!ENTITY fontsGroup.label "Betűk:">
-<!ENTITY downloadFonts.label "Betűk letöltése a nyomtatóra?">
+<!ENTITY downloadFonts.label "Betűk letöltése a nyomtatóra">
 <!ENTITY downloadFonts.accesskey "l">
 
 <!ENTITY edgeMarginInput.label "Helyköz a papír szélétől a margóig">
@@ -35,7 +35,7 @@
 <!ENTITY topInput.accesskey "F">
 <!ENTITY bottomInput.label "Lent:">
 <!ENTITY bottomInput.accesskey "L">
-<!ENTITY leftInput.label "Baloldalt:">
+<!ENTITY leftInput.label "Balra:">
 <!ENTITY leftInput.accesskey "B">
-<!ENTITY rightInput.label "Jobboldalt:">
+<!ENTITY rightInput.label "Jobbra:">
 <!ENTITY rightInput.accesskey "J">
