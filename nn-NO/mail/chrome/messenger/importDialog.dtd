@@ -84,4 +84,4 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importHome.label        "Heime">
 <!ENTITY importHome.accesskey    "H">
 <!ENTITY importWork.label        "Arbeid">
-<!ENTITY importWork.accesskey    "W">
+<!ENTITY importWork.accesskey    "A">

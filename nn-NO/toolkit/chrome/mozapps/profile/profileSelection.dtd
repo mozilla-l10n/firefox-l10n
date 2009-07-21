@@ -49,7 +49,7 @@
 
 <!ENTITY            newButton.label        "Opprett profil …">
 <!ENTITY            newButton.accesskey    "O">
-<!ENTITY            renameButton.label     "Endre namn på profil …">
+<!ENTITY            renameButton.label     "Endre profilnamn …">
 <!ENTITY            renameButton.accesskey "E">
 <!ENTITY            deleteButton.label     "Slett profil …">
 <!ENTITY            deleteButton.accesskey "S">

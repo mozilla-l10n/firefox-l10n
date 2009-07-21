@@ -464,7 +464,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY replyButton.label "Svar">
 <!ENTITY replyAllButton.label "Svar alle">
-<!ENTITY replyListButton.label "Reply to List">
+<!ENTITY replyListButton.label "Svar til liste">
 <!ENTITY forwardButton.label "Send vidare">
 <!ENTITY fileButton.label "Fil">
 <!ENTITY nextButton.label "Neste">

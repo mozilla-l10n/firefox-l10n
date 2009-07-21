@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Kjelde-abonnement">
+<!ENTITY feedSubscriptions.label "Abonnement på nyhendekjelder">
 <!ENTITY subscriptionDesc.label "Merk: Sletting eller endring av ei mappe for ei nyhendekjelde vil ikkje påverke tidlegare nedlasta artiklar.">
 <!ENTITY feedTitle.label "Tittel:">
 <!ENTITY location.label  "Adresse:">

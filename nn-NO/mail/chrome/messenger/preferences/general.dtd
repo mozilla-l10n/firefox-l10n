@@ -3,8 +3,8 @@
 <!ENTITY enableStartPage.accesskey        "N">
 <!ENTITY location.label                   "Adresse:">
 <!ENTITY location1.accesskey               "A">
-<!ENTITY useDefault.label                 "Still tilbake til standard">
-<!ENTITY useDefault.accesskey             "t">
+<!ENTITY useDefault.label                 "Bruk standard">
+<!ENTITY useDefault.accesskey             "u">
 
 <!ENTITY bounceSystemDockIcon.label       "Animer startmeny-ikonet (docking-ikonet)">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">

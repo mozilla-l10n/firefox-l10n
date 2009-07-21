@@ -17,7 +17,7 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Heim">
-<!ENTITY homeButton.tooltip             "Gå til startsida for Hjelp">
+<!ENTITY homeButton.tooltip             "Gå til hovudsida for hjelp">
 <!ENTITY printButton.label              "Skriv ut">
 <!ENTITY printButton.tooltip            "Skriv ut denne sida">
 <!ENTITY closeWindow.commandkey         "W">

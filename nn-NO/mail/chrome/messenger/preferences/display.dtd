@@ -33,16 +33,16 @@
 <!ENTITY convertEmoticons.accesskey    "V">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Merkelappar kan brukast for å kategorisere og prioritere meldingane dine.">
-<!ENTITY addTagButton.label       "Legg til">
-<!ENTITY addTagButton.accesskey   "L">
-<!ENTITY editTagButton.label      "Rediger">
+<!ENTITY displayTagsText.label     "Merkelappar kan brukast for å kategorisere og prioritere meldingane dine.">
+<!ENTITY addTagButton.label        "Legg til">
+<!ENTITY addTagButton.accesskey    "L">
+<!ENTITY editTagButton.label       "Rediger">
 <!ENTITY editTagButton.accesskey   "R">
-<!ENTITY removeTagButton.label    "Slett">
+<!ENTITY removeTagButton.label     "Slett">
 <!ENTITY removeTagButton.accesskey "S">
 
 <!-- Fonts -->
 <!ENTITY fontAndEncodingsDescription.label  "Konfigurer skrifttypane og teiknkodinga som &brandShortName; brukar">
-<!ENTITY fontsAndEncodingsCaption.label      "Skrifttypar og kodar">
+<!ENTITY fontsAndEncodingsCaption.label      "Skrifttypar og teiknkoding">
 <!ENTITY fontOptions.accesskey   "S">
 <!ENTITY fontOptions.label       "Skrifttypar …">
