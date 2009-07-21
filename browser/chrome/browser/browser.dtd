@@ -339,4 +339,6 @@
 <!ENTITY identity.runBy "yang dijalankan oleh">
 <!ENTITY identity.moreInfoLinkText "Informasi lebih lanjut…">
 <!ENTITY downloadMonitor2.tooltip "Klik untuk membuka jendela Unduhan">
-<!ENTITY ctrlTab.search.emptyText "Cari Tab">
+<!ENTITY allTabs.filter.emptyText "Cari Tab">
+<!ENTITY showAllTabsCmd.label "Tampilkan Semua Tab">
+<!ENTITY showAllTabsCmd.accesskey "S">
