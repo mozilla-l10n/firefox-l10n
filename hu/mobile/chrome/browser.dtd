@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Vissza">
 <!ENTITY back.tooltip          "Vissza">
 <!ENTITY forward.label         "Előre">
@@ -41,6 +38,11 @@
 <!ENTITY editBookmarkDone.label    "Kész">
 <!ENTITY editBookmarkTags.label    "Címke hozzáadása">
 
+<!ENTITY helperApp.prompt          "Mi a teendő ezzel">
+<!ENTITY helperApp.open            "Megnyitás">
+<!ENTITY helperApp.save            "Mentés">
+<!ENTITY helperApp.nothing         "Egyik sem">
+
 <!ENTITY findOnCmd.label     "Keresés ezen az oldalon...">
 <!ENTITY findOnCmd.accesskey "e">
 <!ENTITY findOnCmd.commandkey "f">
@@ -79,17 +81,27 @@
 <!ENTITY downloadResume.label      "Folytatás">
 <!ENTITY downloadRetry.label       "Újra">
 
+<!ENTITY noResults.label           "Nincs eredmény">
+
 <!ENTITY identity.unverifiedsite2 "Ez a webhely nem szolgáltat magáról azonosító információkat.">
-<!ENTITY identity.connectedTo "A következőhöz csatlakozott:">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2 "Kapcsolódva:">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "Üzemelteti:">
 
-example.com
-which is run by
-Example Enterprises, Inc.
+<!ENTITY consoleHeader.label       "Hibakonzol">
+<!ENTITY consoleAll.label          "Összes">
+<!ENTITY consoleErrors.label       "Hibák">
+<!ENTITY consoleWarnings.label     "Figyelmeztetések">
+<!ENTITY consoleMessages.label     "Üzenetek">
+<!ENTITY consoleCodeEval.label     "Kód:">
+<!ENTITY consoleClear.label        "Törlés">
+<!ENTITY consoleEvaluate.label     "Kiértékelés">
+<!ENTITY consoleErrFile.label      "Forrásfájl:">
+<!ENTITY consoleErrLine.label      "Sor:">
+<!ENTITY consoleErrColumn.label    "Oszlop:">
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "Működtetője:">
+<!ENTITY selectListDone.label      "Kész">
