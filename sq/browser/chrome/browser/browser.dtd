@@ -57,8 +57,10 @@
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
 <!ENTITY addCurPagesCmd.label "Faqeruaj Tërë Skedat…">
+<!ENTITY showAllTabsCmd.label "Shfaqi Tërë Skedat">
+<!ENTITY showAllTabsCmd.accesskey "T">
 
-<!ENTITY bookmarkAllCmd.label "Faqeruaj Tërë Skedat…">
+<!ENTITY bookmarkAllCmd.label "Faqeruaji Tërë Skedat…">
 <!ENTITY backCmd.label                "Mbrapsht">
 <!ENTITY backCmd.accesskey            "M">
 <!ENTITY backButton.tooltip           "Shko mbrapsht një faqe">
@@ -388,7 +390,7 @@
 
 <!ENTITY clearRecentHistoryCmd.label            "Pastro Historikun Së fundmi">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
-<!ENTITY ctrlTab.search.emptyText "Kërko në Skeda">
+<!ENTITY allTabs.filter.emptyText "Kërko në Skeda">
 
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
@@ -411,4 +413,3 @@
 <!ENTITY urlbar.bookmark.emptyText    "Kërko në Faqerojtësa">
 <!ENTITY urlbar.history.emptyText     "Kërko në Historik">
 <!ENTITY urlbar.none.emptyText        "Shtypni një vendndodhje Web">
-
