@@ -50,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Plein écran">
 <!ENTITY fullScreenCmd.accesskey "P">
+<!ENTITY showAllTabsCmd.label "Afficher tous les onglets">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "Réduire">
 <!ENTITY fullScreenRestore.tooltip "Restaurer">
@@ -445,4 +447,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Cliquez pour ouvrir la fenêtre des téléchargements">
 
-<!ENTITY ctrlTab.search.emptyText "Rechercher dans les onglets">
+<!ENTITY allTabs.filter.emptyText "Rechercher dans les onglets">
