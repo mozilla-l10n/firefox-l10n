@@ -50,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "y">
 <!ENTITY fullScreenCmd.label "Folslein skerm">
 <!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY showAllTabsCmd.label "Toan alle ljepblêden">
+<!ENTITY showAllTabsCmd.accesskey "T">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalisearje ">
 <!ENTITY fullScreenRestore.tooltip "Ferhelpe">
@@ -444,4 +446,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Klik om it ynlaadskerm te iepenjen">
 
-<!ENTITY ctrlTab.search.emptyText "Sykljepblêden">
+<!ENTITY allTabs.filter.emptyText "Sykljepblêden">
