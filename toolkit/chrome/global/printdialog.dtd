@@ -7,9 +7,9 @@
 <!ENTITY fpDialog.title "Lagre fil">
 
 <!ENTITY fileCheck.label "Skriv ut til fil">
-<!ENTITY fileCheck.accesskey "F">
-<!ENTITY propertiesButton.label "Eigenskapar …">
-<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY fileCheck.accesskey "k">
+<!ENTITY propertiesButton.label "Innstillinger …">
+<!ENTITY propertiesButton.accesskey "I">
 <!ENTITY descText.label "Skrivarskildring:">
 <!ENTITY printer.label "Skriv">
 <!ENTITY printerInput.label "Skriv:">

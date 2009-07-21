@@ -1,5 +1,5 @@
 <!ENTITY  windowClose.key                         "w">
-<!ENTITY  preferencesDefaultTitleMac.title        "Val">
+<!ENTITY  preferencesDefaultTitleMac.title        "Innstillingar">
 <!ENTITY  preferencesDefaultTitleWin.title        "Innstillingar">
 <!ENTITY  preferencesCloseButton.label            "Lat att">
 <!ENTITY  preferencesCloseButton.accesskey        "L">

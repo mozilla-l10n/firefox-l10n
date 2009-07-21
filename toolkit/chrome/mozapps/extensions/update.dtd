@@ -5,42 +5,52 @@
 <!ENTITY  offline.toggleOffline.label     "Gå til tilkopla modus no.">
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
-<!ENTITY  mismatch.win.title              "Ikkje-kompatible programtillegg">
-<!ENTITY  mismatch.top.label              "Følgjande komponentar er ikkje kompatible med den nye versjonen av &brandShortName; og er slått av">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; kan sjå etter og installere nyare, kompatible versjonar av desse programtillegga.">
+<!ENTITY  mismatch.win.title              "Inkompatible utvidingar">
+<!ENTITY  mismatch.top.label              "Følgjande utvidingar er ikkje kompatible med den nye versjonen av &brandShortName; og er slått av">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; kan sjå etter kompatible 
+                                     versjonar av desse utvidingane.">
 
-<!ENTITY  checking.wizard.title           "Ser etter kompatible programtillegg">
-<!ENTITY  checking.top.label              "Ser etter oppdateringar for dei inkompatible programtillegga dine …">
+<!ENTITY  checking.wizard.title           "Ser etter oppdateringar">
+<!ENTITY  checking.top.label              "Ser etter oppdateringar …">
 <!ENTITY  checking.status                 "Dette kan ta nokre minutt …">
 
-<!ENTITY  found.wizard.title               "Fann kompatible programtillegg">
-<!ENTITY  found.top.label                 "Vel dei programtillegga du ønskjer å installere:">
-<!ENTITY  found.disabledXPinstall.label   "Desse oppdateringane kan ikkje instalerast fordi programvareinstallering er slått av. Du kan endre dette i innstillingane under.">
+<!ENTITY  found.wizard.title               "Fann oppdateringar">
+<!ENTITY  found.top.label                 "Vel dei oppdateringane du ønskjer å installere:">
+<!ENTITY  found.disabledXPinstall.label   "Desse oppdateringane kan ikkje instalerast fordi programvareinstallering 
+                                     er slått av. Du kan endre denne i innstillinga nedanfor.">
 <!ENTITY  found.enableXPInstall.label     "Tillat nettsider å installere programvare.">
 <!ENTITY  found.enableXPInstall.accesskey "T">
 
-<!ENTITY  installing.wizard.title         "Installerer oppdateringer">
-<!ENTITY  installing.top.label            "Lastar ned og installerer oppdateringar til programtillegga dine …">
+<!ENTITY  installing.wizard.title         "Installerer oppdateringar">
+<!ENTITY  installing.top.label            "Lastar ned og installerer oppdateringane …">
 
-<!ENTITY  noupdates.wizard.title          "Ingen kompatible programtillegg funne">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; fann ikkje oppdateringar til dei ikkje-kompatible programtillegga dine.">
+<!ENTITY  noupdates.wizard.title          "Ingen oppdateringar funne">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; klarte ikkje å finne
+                                     oppdateringar.">
 <!ENTITY  noupdates.error.desc            "Det oppstod nokre problem ved søk etter oppdateringar.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; vil med jamne mellomrom sjå etter, og informere deg når kompatible versjonar for desse progamtillegga vert funne.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ser jamnleg etter oppdateringar, og 
+                                     informerer deg når dei er tilgjengelege">
 
 <!ENTITY  finished.wizard.title           "Oppdatering fullført">
-<!ENTITY  finished.top.label              "&brandShortName; har installert dei tilgjengelege oppdateringene for programtillegga dine.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; kan med jamne mellomrom sjå etter, og informere deg når kompatible versjonar for progamtillegga vert funne.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; vil med jamne mellomrom sjå etter, og informere deg når kompatible versjonar for progamtillegga vert funne.">
+<!ENTITY  finished.top.label              "&brandShortName; har installert dei tilgjengelege oppdateringane.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; kan jamnleg sjå etter og informere deg når
+                                     oppdateringar vert tilgjengelege.
+                                       ">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; ser jamnleg etter oppdateringar, og gjev informasjon når
+                                     dei vert tilgjengelege.">
 
-<!ENTITY  adminDisabled.wizard.title      "Klarte ikkje å sjå etter oppdateringar">
-<!ENTITY  adminDisabled.warning.label     "Det er ikkje mogleg å sjå etter oppdateringar for ikkje-kompatible programtillegg fordi programvareinstallasjonen for &brandShortName; er slått av. Kontakt systemansvarleg for hjelp.">
+<!ENTITY  adminDisabled.wizard.title      "Klarte ikkje å søkje etter oppdateringar">
+<!ENTITY  adminDisabled.warning.label     "Det er ikkje mogleg å søkje etter oppdateringar for inkompatible utvidingar
+                                      fordi programvareinstallasjon for &brandShortName; er slått av.                                   Kontakt systemansvarleg for hjelp.">
 
 <!ENTITY  versioninfo.wizard.title        "Kontrollerer kompatibliteten til programtillegga">
-<!ENTITY  versioninfo.top.label           "Kontrollerer kompatibliteten til programtillegga dine med denne versjonen av &brandShortName;.">
+<!ENTITY  versioninfo.top.label           "Kontrollerer kompatibliteten til programtillegga dine med 
+                                      denne versjonen av &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Dette kan ta nokre minutt …">
 
 <!ENTITY  installerrors.wizard.title      "Problem med å installere oppdateringane">
-<!ENTITY  installerrors.intro.label       "&brandShortName; møtte problem under oppdateringa av nokre av programtillegga dine.">
+<!ENTITY  installerrors.intro.label       "&brandShortName; støytte på problem under oppdateringa 
+                                     av nokre utvidingar.">
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Trykk «Fullfør» for å halde fram oppstartinga av &brandShortName;.">

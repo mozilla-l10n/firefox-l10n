@@ -33,5 +33,5 @@
 <!ENTITY aboveText.label                      "Under svaret mitt (over sitert tekst)">
 <!ENTITY includeSigOnReply.label              "Inkluder signaturen min i svar">
 <!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Inkluder signaturen min i vidaresende">
+<!ENTITY includeSigOnForward.label            "Inkluder signaturen min i vidaresende meldingar">
 <!ENTITY includeSigOnForward.accesskey        "k">

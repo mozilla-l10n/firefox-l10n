@@ -38,5 +38,5 @@
 
 <!ENTITY chooseAppFilePickerTitle "Vel program">
 
-<!ENTITY badApp                 "Programmet du oppgav («#1») blei ikkje funne. Kontroller filnamnet eller vel eit anna program.">
+<!ENTITY badApp                 "Klarte ikkje å finne programmet du gav opp («#1»). Kontroller filnamnet eller vel eit anna program.">
 <!ENTITY badApp.title           "Klarte ikkje å finne programmet">

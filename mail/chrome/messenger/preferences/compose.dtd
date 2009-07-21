@@ -18,8 +18,8 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Bakgrunnsfarge:">
 <!ENTITY bgColor.accesskey                    "B">
-<!ENTITY restoreHTMLDefaults.label            "Gjennopprett standardinnstillingar">
-<!ENTITY restoreHTMLDefaults.accesskey        "G">
+<!ENTITY restoreHTMLDefaults.label            "Bruk standard">
+<!ENTITY restoreHTMLDefaults.accesskey        "d">
 
 <!ENTITY spellCheck.label                     "Køyr stavekontroll før meldingar vert sendte">
 <!ENTITY spellCheck.accesskey                 "K">
@@ -40,7 +40,7 @@
 <!ENTITY addressingTitle.label                 "Automatisk adressefullføring">
 <!ENTITY autocompleteText.label                "Ved adressering av meldingar, sjå etter samsvarande adresser i">
 <!ENTITY addressingEnable.label                "Lokale adressebøker">
-<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Katalogtenar:">
 <!ENTITY directories.accesskey                 "K">
 <!ENTITY directoriesNone.label                 "Ingen">

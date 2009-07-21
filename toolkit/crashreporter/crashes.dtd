@@ -1,7 +1,7 @@
-<!ENTITY crashes.title              "Innsende krasj-rapportar">
+<!ENTITY crashes.title              "Innsende krasjrapportar">
 <!ENTITY id.heading                 "Rapport ID">
 <!ENTITY date.heading               "Dato sendt">
-<!ENTITY noReports.label            "Ingen krasj-rapportar er sende inn.">
-<!ENTITY noConfig.label             "Dette programmet er ikkje sett opp for å vise krasj-rapportar. Vala <code>breakpad.reportURL</code> må veljast.">
-<!ENTITY clearReports.label         "Slett rapportar">
+<!ENTITY noReports.label            "Ingen krasjrapportar er sende inn.">
+<!ENTITY noConfig.label             "Dette programmet er ikkje sett opp for å vise krasjrapportar. Innstillinga <code>breakpad.reportURL</code> må veljast.">
+<!ENTITY clearReports.label         "Slett rapport(ar)">
 
