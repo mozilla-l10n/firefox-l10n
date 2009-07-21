@@ -5,7 +5,7 @@
      Luna since widget heights are different based on the OS theme -->
 <!ENTITY  prefWinMinSize.styleWin2    "width: 45em; min-height: 39em;">
 <!ENTITY  prefWinMinSize.styleMac     "width: 48em; min-height: 45em;">
-<!ENTITY  prefWinMinSize.styleGNOME   "width: 45em; min-height: 38.5em;">
+<!ENTITY  prefWinMinSize.styleGNOME   "width: 48em; min-height: 38.5em;">
 
 <!ENTITY  paneGeneral.title       "Allgemein">
 <!ENTITY  paneTabs.title          "Tabs">
