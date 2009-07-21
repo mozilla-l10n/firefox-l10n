@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Offline arbeiten">
 <!ENTITY goOfflineCmd.accesskey "O">
 
+<!ENTITY menubarCmd.label "Menüleiste">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigations-Symbolleiste">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Lesezeichen-Symbolleiste">
