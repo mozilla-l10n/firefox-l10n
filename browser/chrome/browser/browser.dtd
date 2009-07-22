@@ -81,6 +81,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Helskärm">
 <!ENTITY fullScreenCmd.accesskey "H">
+<!ENTITY showAllTabsCmd.label "Visa alla flikar">
+<!ENTITY showAllTabsCmd.accesskey "f">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimera">
 <!ENTITY fullScreenRestore.tooltip "Återställ">
@@ -475,4 +477,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Klicka för att öppna filhämtningsfönstret">
 
-<!ENTITY ctrlTab.search.emptyText "Sök flikar">
+<!ENTITY allTabs.filter.emptyText "Sök bland flikar">
