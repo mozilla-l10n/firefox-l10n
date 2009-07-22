@@ -50,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "l">
+<!ENTITY showAllTabsCmd.label "Mostrar todas las pestañas">
+<!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -443,4 +445,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Más información…">
 
 <!ENTITY downloadMonitor2.tooltip "Clic para abrir la ventana de descargas">
-<!ENTITY ctrlTab.search.emptyText "Buscar pestañas">
+
+<!ENTITY allTabs.filter.emptyText "Buscar pestañas">
