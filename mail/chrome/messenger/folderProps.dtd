@@ -54,8 +54,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Återskapa sammanfattningsfil">
 
 <!ENTITY retention.label                         "Behåll meddelanden">
-<!ENTITY retentionUseDefault.label               "Använd inställningen för servern">
-<!ENTITY retentionUseDefault.accesskey           "v">
+<!ENTITY retentionUseAccount.label               "Använd kontoinställningarna">
+<!ENTITY retentionUseAccount.accesskey           "v">
 <!ENTITY daysOld.label                           "dagar">
 <!ENTITY message.label                           "meddelandena">
 <!ENTITY retentionCleanup.label                  "För att spara diskutrymme kan gamla meddelanden tas bort.">
