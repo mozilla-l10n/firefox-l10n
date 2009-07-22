@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Index-Datei wiederherstellen">
      
 <!ENTITY retention.label "Speicherplatz">
-<!ENTITY retentionUseDefault.label  "Einstellungen des Kontos verwenden">
-<!ENTITY retentionUseDefault.accesskey "E">
+<!ENTITY retentionUseAccount.label "Einstellungen des Kontos verwenden">
+<!ENTITY retentionUseAccount.accesskey "E">
 <!ENTITY daysOld.label "Tage">
 <!ENTITY message.label "Nachrichten">
 <!ENTITY retentionCleanup.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben:">
