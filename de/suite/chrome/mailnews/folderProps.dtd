@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Zusammenfassungsdatei neu erstellen">
 
 <!ENTITY retention.label "Regeln für Lebensdauer">
-<!ENTITY retentionUseDefault.label "Server-Standards verwenden">
-<!ENTITY retentionUseDefault.accesskey "S">
+<!ENTITY retentionUseAccount.label "Account-Einstellungen verwenden">
+<!ENTITY retentionUseAccount.accesskey "o">
 <!ENTITY daysOld.label "Tage sind">
 <!ENTITY message.label "Nachrichten">
 <!ENTITY retentionCleanup.label "Nachrichten behalten:">
