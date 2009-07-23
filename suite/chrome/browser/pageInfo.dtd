@@ -112,6 +112,7 @@
 <!ENTITY  permTab               "Berechtigungen">
 <!ENTITY  permTab.accesskey     "u">
 <!ENTITY  permUseDefault        "Standard verwenden">
+<!ENTITY  permAskAlways         "Immer nachfragen">
 <!ENTITY  permAllow             "Erlauben">
 <!ENTITY  permAllowSession      "Für Sitzung erlauben">
 <!ENTITY  permBlock             "Blockieren">
@@ -120,6 +121,7 @@
 <!ENTITY  permPopup             "Pop-up-Fenster öffnen">
 <!ENTITY  permCookie            "Cookies setzen">
 <!ENTITY  permInstall           "Erweiterungen oder Themes installieren">
+<!ENTITY  permGeo               "Aufenthaltsort mitteilen">
 
 <!ENTITY  securityTab           "Sicherheit">
 <!ENTITY  securityTab.accesskey "S">
