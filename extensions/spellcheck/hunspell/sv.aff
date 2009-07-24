@@ -17,7 +17,8 @@ COMPOUNDWORDMAX 3
 
 # Disallow triple letters, like "fall"+"lucka":
 CHECKCOMPOUNDTRIPLE
-
+# Convert triple letters to double in compounds,
+# e.g. "fall"+"lucka" = "fallucka":
 SIMPLIFIEDTRIPLE
 
 # For suffixes used to create first part of a compound
