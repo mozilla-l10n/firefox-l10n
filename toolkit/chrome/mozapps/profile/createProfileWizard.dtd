@@ -4,7 +4,7 @@
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text "&brandShortName; bewarret ynformaasje oer jo ynstellings en foarkarren yn jo persoanlike profyl.">
 <!ENTITY profileCreationExplanation_2.text "As jo dizze kopy fan &brandShortName; diele mei oare brûkers, kinne jo profilen brûke om de ynformaasje fan alle brûkers skieden te hâlden. Om dit te beriken moat elke brûker syn of har eigen profyl oanmeitsje.">
-<!ENTITY profileCreationExplanation_3.text "As jo de ienige binne dy't dizze kopy fan &brandShortName; brûke, moatte jo op syn minst ien profyl hawwe. Jo kinne, as jo wolle, mear as ien profyl oanmeitsje foar josels om ferskate sets fan ynstellings en foarkarren te bewarjen. Bygelyks, jo wolle misskien aparte profilen ha foar saaklik en persoanlijk gebrûk.">
+<!ENTITY profileCreationExplanation_3.text "As jo de ienige binne dy't dizze kopy fan &brandShortName; brûke, moatte jo op syn minst ien profyl hawwe. Jo kinne, as jo wolle, mear as ien profyl oanmeitsje foar josels om ferskate sets fan ynstellings en foarkarren te bewarjen. Bygelyks, jo wolle miskien aparte profilen ha foar saaklik en persoanlijk gebrûk.">
 <!ENTITY profileCreationExplanation_4.text "Om te begjinnen mei it oanmeitsjen fan jo profyl, klik op Folgjende.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Klik op Trochgean om te begjinnen mei it oanmeitsjen fan jo profyl.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "Klik op Folgjende om te begjinnen mei it oanmeitsjen fan jo profyl.">
