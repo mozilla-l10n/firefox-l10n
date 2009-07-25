@@ -7,8 +7,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "л">
-<!ENTITY newCard.label "Картка адраснай кнігі…">
-<!ENTITY newCard.accesskey "К">
+<!ENTITY newContact.label "Сувязь з адраснай кнігі…">
+<!ENTITY newContact.accesskey "С">
 <!ENTITY attachMenu.label "Далучыць">
 <!ENTITY attachMenu.accesskey "л">
 <!ENTITY attachFileCmd.label "Файл(ы)…">
@@ -84,6 +84,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Паліцы прыладаў">
 <!ENTITY viewToolbarsMenuNew.accesskey "п">
 <!ENTITY showCompositionToolbarCmd.label "Прыладапаліца ўкладання">
+<!ENTITY showCompositionToolbarCmd.accesskey "ў">
 <!ENTITY showFormattingBarCmd.label "Прыладапаліца фарматавання">
 <!ENTITY showFormattingBarCmd.accesskey "ф">
 <!ENTITY showTaskbarCmd.label "Паліца статуса">
@@ -96,10 +97,10 @@
 <!ENTITY formatMenu.accesskey "р">
 <!ENTITY optionsMenu.label "Наладкі">
 <!ENTITY optionsMenu.accesskey "Н">
-<!ENTITY checkSpellingCmd.label "Праверыць правапіс…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "п">
+<!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "р">
 <!ENTITY enableInlineSpellChecker.label "Праверка правапісу падчас набору">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY quoteCmd.label "Працытаваць ліст">
@@ -143,7 +144,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адрасная кніга">
 <!ENTITY addressBookCmd.accesskey "а">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
 <!ENTITY accountManagerCmd.accesskey "р">
 <!ENTITY accountManagerCmdUnix.accesskey "р">
@@ -162,7 +163,6 @@
 <!ENTITY attachButton.label "Далучыць">
 <!ENTITY spellingButton.label "Праверка правапісу">
 <!ENTITY saveButton.label "Захаваць">
-<!ENTITY throbberItem.title "Паказнік дзейнасці">
 <!ENTITY sendButton.tooltip "Даслаць гэты ліст зараз">
 <!ENTITY sendlaterButton.tooltip "Даслаць гэты ліст пазней">
 <!ENTITY quoteButton.tooltip "Працытаваць папярэдні ліст">

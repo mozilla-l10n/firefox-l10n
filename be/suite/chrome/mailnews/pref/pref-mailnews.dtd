@@ -5,6 +5,8 @@
 <!ENTITY confirmMove.accesskey "с">
 <!ENTITY preserveThreading.label "Не парушаць нізкі падчас размеркавання лістоў">
 <!ENTITY preserveThreading.accesskey "н">
+<!ENTITY mailBiffOnNewWindow.label "Правяраць, ці існуе новая пошта, толькі пасля адкрыцця Пошты і Навінакупаў">
+<!ENTITY mailBiffOnNewWindow.accesskey "т">
 <!ENTITY defaultMailSettings.description "Зрабіць &brandShortName; змоўчным прыстасаваннем для:">
 <!ENTITY setDefaultMail.label "Пошты">
 <!ENTITY setDefaultMail.accesskey "П">
@@ -21,14 +23,3 @@
 <!ENTITY useDefault.accesskey "А">
 <!ENTITY rememberLastMsg.label "Памятаць апошні вылучаны ліст">
 <!ENTITY rememberLastMsg.accesskey "П">
-<!ENTITY toolbarIntro.caption "Выберыце кнопкі, якія вы хочаце бачыць на паліцы прыладаў">
-<!ENTITY fileButton.label "Файл">
-<!ENTITY fileButton.accesskey "Ф">
-<!ENTITY nextButton.label "Наступны">
-<!ENTITY nextButton.accesskey "Н">
-<!ENTITY junkMailButton.label "Лухта">
-<!ENTITY junkMailButton.accesskey "Л">
-<!ENTITY printButton.label "Друкаваць">
-<!ENTITY printButton.accesskey "Д">
-<!ENTITY stopButton.label "Прыпыніць">
-<!ENTITY stopButton.accesskey "П">

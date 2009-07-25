@@ -1,7 +1,0 @@
-<!ENTITY phishDlg.title "Ахова да лоўлі. Умовы абслугоўвання.">
-<!ENTITY phishDlg.height "42em">
-<!ENTITY phishDlg.width "40em">
-<!ENTITY acceptToS.label "Я згодны з гэтымі ўмовамі абслугоўвання Аховы ад Лоўлі">
-<!ENTITY declineToS.label "Я не згодны з гэтымі ўмовамі абслугоўвання Аховы ад Лоўлі">
-<!ENTITY accept.label "Згадзіцца і працягнуць">
-<!ENTITY cancel.label "Скасаваць">

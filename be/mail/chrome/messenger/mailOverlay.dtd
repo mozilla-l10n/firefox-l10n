@@ -2,5 +2,5 @@
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Ліст">
 <!ENTITY newMessageCmd.accesskey "л">
-<!ENTITY newCardCmd.label "Картку адраснай кнігі…">
-<!ENTITY newCardCmd.accesskey "К">
+<!ENTITY newContactCmd.label "Сувязь адраснай кнігі…">
+<!ENTITY newContactCmd.accesskey "С">

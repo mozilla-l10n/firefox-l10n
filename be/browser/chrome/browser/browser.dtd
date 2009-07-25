@@ -1,7 +1,7 @@
 <!ENTITY mainWindow.title "&brandShortName;">
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Адасобленае азіранне)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Адасобленае азіранне)">
 <!ENTITY tabCmd.label "Новая ўстаўка">
 <!ENTITY tabCmd.accesskey "т">
 <!ENTITY tabCmd.commandkey "t">
@@ -21,6 +21,8 @@
 <!ENTITY import.accesskey "І">
 <!ENTITY goOfflineCmd.label "Праца па-за сеткаю">
 <!ENTITY goOfflineCmd.accesskey "з">
+<!ENTITY menubarCmd.label "Паліца меню">
+<!ENTITY menubarCmd.accesskey "П">
 <!ENTITY navbarCmd.label "Паліца з прыладамі навігацыі">
 <!ENTITY navbarCmd.accesskey "Н">
 <!ENTITY personalbarCmd.label "Паліца з прыладамі закладак">
@@ -36,13 +38,15 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Увесь экран">
 <!ENTITY fullScreenCmd.accesskey "У">
+<!ENTITY showAllTabsCmd.label "Паказаць усе ўстаўкі">
+<!ENTITY showAllTabsCmd.accesskey "у">
 <!ENTITY fullScreenMinimize.tooltip "Мінімізаваць">
 <!ENTITY fullScreenRestore.tooltip "Аднавіць">
 <!ENTITY fullScreenClose.tooltip "Зачыніць">
 <!ENTITY fullScreenAutohide.label "Схаваць прыладапаліцы">
 <!ENTITY fullScreenAutohide.accesskey "х">
 <!ENTITY fullScreenExit.label "Выйсці з паўнаэкраннага рэжыму">
-<!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY fullScreenExit.accesskey "В">
 <!ENTITY closeWindow.label "Зачыніць акно">
 <!ENTITY closeWindow.accesskey "ч">
 <!ENTITY bookmarksMenu.label "Закладкі">
@@ -54,6 +58,7 @@
 <!ENTITY addCurPagesCmd.label "Дадаць закладкі да ўсіх уставак…">
 <!ENTITY organizeBookmarks.label "Уладкаваць закладкі…">
 <!ENTITY bookmarkAllCmd.label "Дадаць закладкі да ўсіх уставак…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Паказаць больш закладак">
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "з">
 <!ENTITY backButton.tooltip "Папярэдняя старонка">
@@ -69,6 +74,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Прыпыніць загрузку гэтай старонкі">
 <!ENTITY goEndCap.tooltip "Пайсці па адрасу, які на паліцы месцазнаходжання">
+<!ENTITY feedButton.tooltip "Падпісацца на гэтую старонку…">
 <!ENTITY printButton.label "Друкаваць">
 <!ENTITY printButton.tooltip "Друкаваць гэтую старонку">
 <!ENTITY locationItem.title "Месцазнаходжанне">
@@ -78,9 +84,10 @@
 <!ENTITY homeButton.label "Дадому">
 <!ENTITY bookmarksButton.label "Закладкі">
 <!ENTITY bookmarksButton.tooltip "Паказаць вашы закладкі">
-<!ENTITY bookmarksSidebarCmd.accesskey "З">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey "З">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Гісторыя">
 <!ENTITY historyButton.tooltip "Адлюстраваць старонкі, якія вы праглядвалі нядаўна">
 <!ENTITY historySidebarCmd.accesskey "Г">
@@ -136,8 +143,11 @@
 <!ENTITY preferencesCmdUnix.accesskey "П">
 <!ENTITY clearRecentHistoryCmd.label "Ачысціць нядаўнюю гісторыю">
 <!ENTITY clearRecentHistoryCmd.accesskey "г">
-<!ENTITY privateBrowsingCmd.label "Адасобленае азіранне">
-<!ENTITY privateBrowsingCmd.accesskey "а">
+<!ENTITY privateBrowsingCmd.start.label "Пачаць адасобленае азіранне">
+<!ENTITY privateBrowsingCmd.start.accesskey "А">
+<!ENTITY privateBrowsingCmd.stop.label "Спыніць адасобленае азіранне">
+<!ENTITY privateBrowsingCmd.stop.accesskey "А">
+<!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "П">
 <!ENTITY viewToolbarsMenu.label "Паліцы прыладаў">
@@ -149,11 +159,15 @@
 <!ENTITY historyMenu.label "Гісторыя">
 <!ENTITY historyMenu.accesskey "Г">
 <!ENTITY historyUndoMenu.label "Нядаўна зачыненыя ўстаўкі">
+<!ENTITY historyUndoWindowMenu.label "Нядаўна зачыненыя вокны">
 <!ENTITY historyHomeCmd.label "Дадому">
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "Пошук у закладках і гісторыі">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Пошук у закладках і гісторыі">
+<!ENTITY urlbar.bookmark.emptyText "Пошук закладак">
+<!ENTITY urlbar.history.emptyText "Пошук у гісорыі">
+<!ENTITY urlbar.none.emptyText "Набярыце адрас Сеціва">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
@@ -272,6 +286,7 @@
 <!ENTITY fullZoomToggleCmd.accesskey "т">
 <!ENTITY fullZoom.label "Павялічэнне">
 <!ENTITY fullZoom.accesskey "П">
+<!ENTITY newTabButton.tooltip "Адкрыць новую ўстаўку">
 <!ENTITY newWindowButton.tooltip "Адчыніць новае вакно">
 <!ENTITY sidebarCloseButton.tooltip "Зачыніць палічку">
 <!ENTITY cutButton.tooltip "Выразаць">
@@ -326,4 +341,4 @@
 <!ENTITY identity.runBy "які падтрымліваецца">
 <!ENTITY identity.moreInfoLinkText "Падрабязнасці…">
 <!ENTITY downloadMonitor2.tooltip "Пстрыкніце, каб адкрыць акно загрузак">
-<!ENTITY ctrlTab.search.emptyText "Устаўкі пошуку">
+<!ENTITY allTabs.filter.emptyText "Пошук уставак">

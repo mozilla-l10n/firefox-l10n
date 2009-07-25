@@ -9,6 +9,7 @@
 <!ENTITY languages.customize.add.title.label "Дадаць мовы">
 <!ENTITY languages.customize.available.label "Мовы:">
 <!ENTITY languages.customize.active.label "Мовы ў парадку пераваг:">
+<!ENTITY languages.customize.active.accesskey "М">
 <!ENTITY languages.customize.others.label "Іншыя:">
 <!ENTITY languages.customize.others.accesskey "І">
 <!ENTITY languages.customize.Charset.grouplabel "Змоўчная кадоўка знакаў">

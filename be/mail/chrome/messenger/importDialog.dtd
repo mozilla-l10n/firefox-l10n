@@ -1,10 +1,15 @@
 <!--null-->
 <!ENTITY importDialog.windowTitle "Імпарт">
-<!ENTITY importDialog.allTitle "Імпартаваць усё">
-<!ENTITY importDialog.mailTitle "Пошта">
-<!ENTITY importDialog.addressbookTitle "Адрасныя кнігі">
-<!ENTITY importDialog.settingsTitle "Наладжванні">
-<!ENTITY importDialog.filtersTitle "Сіты">
+<!ENTITY importAll.label "Імпартаваць усё">
+<!ENTITY importAll.accesskey "ё">
+<!ENTITY importMail.label "Пошту">
+<!ENTITY importMail.accesskey "П">
+<!ENTITY importAddressbook.label "Адрасныя кнігі">
+<!ENTITY importAddressbook.accesskey "А">
+<!ENTITY importSettings.label "Наладжванні">
+<!ENTITY importSettings.accesskey "Н">
+<!ENTITY importFilters.label "Сіты">
+<!ENTITY importFilters.accesskey "С">
 <!ENTITY window.width "50em">
 <!ENTITY window.macWidth "55em">
 <!ENTITY importTitle.label "Чарадзей Імпарту &brandShortName;">
@@ -12,6 +17,7 @@
 <!ENTITY importDescription1.label "Гэты чарадзей імпартуе лісты пошты, запісы адраснай кнігі, перавагі і/ці сіты з іншых паштовых праграмаў і агульных фарматаў адрасных кніг у &brandShortName;.">
 <!ENTITY importDescription2.label "Як толькі яны будуць імпартаваны, вы будзеце здольны зварочвацца да іх у &brandShortName;.">
 <!ENTITY selectDescription.label "Выберыце, калі ласка, тып файла, які вы хочаце імпартаваць:">
+<!ENTITY selectDescription.accesskey "В">
 <!ENTITY back.label "&lt; Назад">
 <!ENTITY forward.label "Наперад &gt;">
 <!ENTITY finish.label "Скончыць">
@@ -22,5 +28,7 @@
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x мае адзін паштовы адрас для кожнай карткі, тады як &brandShortName; мае два (Хатні і Працоўны).">
 <!ENTITY FieldDiscInputText2.label "Выберыце катэгорыю, у якой вы хочаце захоўваць імпартаваныя паштовыя адрасы:">
 <!ENTITY FieldDiscWarning.label "Гэтая катэгорыя будзе ўжывацца для ўсіх запісаў з вылучанай адраснай кнігі:">
-<!ENTITY importDialog.homeTitle "Пачатак">
-<!ENTITY importDialog.workTitle "Праца">
+<!ENTITY importHome.label "Хатнія">
+<!ENTITY importHome.accesskey "Х">
+<!ENTITY importWork.label "Працоўныя">
+<!ENTITY importWork.accesskey "П">

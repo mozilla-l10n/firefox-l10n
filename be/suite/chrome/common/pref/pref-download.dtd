@@ -1,24 +1,21 @@
 <!ENTITY pref.download.title "Загрузкі">
 <!ENTITY downloadBehavior.label "Калі пачынаецца загрузка">
-<!ENTITY downloadLocation.label "Калі файл захоўваецца">
-<!ENTITY finishedBehavior.label "Калі загрузка здзейснена">
+<!ENTITY focusWhenStarting.label "Бліснуць кіраўніком загрузак, калі ён ужо адкрыты. Інакш:">
+<!ENTITY focusWhenStarting.accesskey "Б">
 <!ENTITY openDM.label "Адчыніць кіраўнік загрузак">
 <!ENTITY openDM.accesskey "г">
 <!ENTITY openProgressDialog.label "Адчыніць дыялог развіцця">
 <!ENTITY openProgressDialog.accesskey "р">
 <!ENTITY doNothing.label "Нічога не адчыняць">
 <!ENTITY doNothing.accesskey "Н">
-<!ENTITY promptDownload.label "Запытваць месца для загрузкі і адчыняць спачатку">
-<!ENTITY promptDownload.accesskey "з">
-<!ENTITY lastLocation.label "Апошнюю папку загрузкі">
-<!ENTITY lastLocation.accesskey "А">
-<!ENTITY specifiedLocation.label "Прызначаную папку загрузкі">
-<!ENTITY specifiedLocation.accesskey "п">
-<!ENTITY autoDownload.label "Самастойна загружаць файлы ў прызначаную папку">
-<!ENTITY autoDownload.accesskey "С">
-<!ENTITY downloadFolder.label "Цяперашняя папка загрузкі:">
+<!ENTITY downloadLocation.label "Калі файл захоўваецца">
+<!ENTITY saveTo.label "Захоўваць файлы ў">
+<!ENTITY saveTo.accesskey "ў">
 <!ENTITY chooseDownloadFolder.label "Выбраць папку…">
 <!ENTITY chooseDownloadFolder.accesskey "В">
+<!ENTITY alwaysAsk.label "Заўсёды пытаць мяне, дзе захоўваць файлы">
+<!ENTITY alwaysAsk.accesskey "З">
+<!ENTITY finishedBehavior.label "Калі загрузка здзейснена">
 <!ENTITY playSound.label "Граць гук">
 <!ENTITY playSound.accesskey "г">
 <!ENTITY showAlert.label "Паказаць папярэджанне">

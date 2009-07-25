@@ -66,9 +66,9 @@
 <!ENTITY selectAddressCmd.label "Адрасаты…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "А">
-<!ENTITY checkSpellingCmd.label "Праверыць правапіс…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "п">
+<!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "р">
 <!ENTITY enableInlineSpellChecker.label "Праверка правапісу падчас набору">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY priorityMenu.label "Прыярытэт">

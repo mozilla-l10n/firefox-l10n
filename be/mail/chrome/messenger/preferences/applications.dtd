@@ -1,0 +1,15 @@
+<!ENTITY typeColumn.label "Тып змесціва">
+<!ENTITY typeColumn.accesskey "Т">
+<!ENTITY actionColumn2.label "Дзеянне">
+<!ENTITY actionColumn2.accesskey "Д">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.emptytext "Пошук">
+<!ENTITY saveTo.label "Захоўваць файлы ў">
+<!ENTITY saveTo.accesskey "З">
+<!ENTITY alwaysAsk.label "Заўсёды пытаць мяне, дзе захоўваць файлы">
+<!ENTITY alwaysAsk.accesskey "ў">
+<!ENTITY chooseFolderWin.label "Агляд…">
+<!ENTITY chooseFolderWin.accesskey "А">
+<!ENTITY chooseFolderMac.label "Выбар…">
+<!ENTITY chooseFolderMac.accesskey "В">

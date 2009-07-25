@@ -42,7 +42,7 @@
 <!ENTITY features.title "Асаблівасці">
 <!ENTITY feat_multiacc.label "Падтрымка шматлікіх рахункаў">
 <!ENTITY feat_junk.label "Выяўленне пошты-лухты">
-<!ENTITY feat_rss.label "Чытач RSS">
+<!ENTITY feat_feeds.label "Чытач жывільніка">
 <!ENTITY feat_filters.label "Сіты лістоў">
 <!ENTITY feat_htmlmsg.label "Падтрымка HTML лістоў">
 <!ENTITY feat_abook.label "Адрасная кніга">

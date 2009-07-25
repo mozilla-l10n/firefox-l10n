@@ -37,3 +37,5 @@
 <!ENTITY disableContent.accesskey "З">
 <!ENTITY showCondensedAddresses.label "Паказваць толькі адлюстравальнае імя для людзей з маёй адраснай кнігі">
 <!ENTITY showCondensedAddresses.accesskey "П">
+<!ENTITY closeMsgWindowOnDelete.label "Закрываць акно ліста пасля выдалення ліста">
+<!ENTITY closeMsgWindowOnDelete.accesskey "к">

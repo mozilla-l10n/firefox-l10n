@@ -2,6 +2,7 @@
 <!ENTITY sortOptions.label "Наладкі размеркавання">
 <!ENTITY description.label "&brandShortName; можа размяркоўваць асобныя папкі. Скарыстайце гэтыя параметры, каб наладзіць размеркаванне гэтай папкі.">
 <!ENTITY sortBy.label "Размеркаваць па:">
+<!ENTITY sortBy.accesskey "Р">
 <!ENTITY sortBy.name.label "Назве">
 <!ENTITY sortBy.url.label "Месцазнаходжанню">
 <!ENTITY sortBy.shortcutUrl.label "Ключавому слову">
@@ -10,7 +11,10 @@
 <!ENTITY sortBy.lastModifiedDate.label "Апошняму змяненню">
 <!ENTITY sortBy.lastVisitDate.label "Апошняму наведванню">
 <!ENTITY sortOrder.label "Парадак размеркавання:">
+<!ENTITY sortOrder.accesskey "р">
 <!ENTITY sortAscending.label "Узыходна">
 <!ENTITY sortDescending.label "Сыходна">
 <!ENTITY sortFoldersFirst.label "Спачатку размяркоўваць папкі">
+<!ENTITY sortFoldersFirst.accesskey "п">
 <!ENTITY sortRecursively.label "Размяркоўваць рэкурсіўна">
+<!ENTITY sortRecursively.accesskey "м">

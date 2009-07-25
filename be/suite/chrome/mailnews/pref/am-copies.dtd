@@ -10,16 +10,21 @@
 <!ENTITY saveMessageDlg.accesskey "П">
 <!ENTITY sentFolderOn.label "Папку &quot;Дасланыя&quot; ў:">
 <!ENTITY sentFolderOn.accesskey "Д">
-<!ENTITY sentInOtherFolder.label "Іншую:">
+<!ENTITY sentInOtherFolder.label "Іншую папку:">
 <!ENTITY sentInOtherFolder.accesskey "І">
 <!ENTITY draftsFolderOn.label "Папцы &quot;Чарнавікі&quot; ў:">
 <!ENTITY draftsFolderOn.accesskey "Ч">
-<!ENTITY draftInOtherFolder.label "Іншай:">
+<!ENTITY draftInOtherFolder.label "Іншай папцы:">
 <!ENTITY draftInOtherFolder.accesskey "І">
+<!ENTITY archivesFolderOn.label "Папцы &quot;Архівы&quot; у:">
+<!ENTITY archivesFolderOn.accesskey "А">
+<!ENTITY archiveInOtherFolder.label "Іншай папцы:">
+<!ENTITY archiveInOtherFolder.accesskey "І">
 <!ENTITY templatesFolderOn.label "Папцы &quot;Узоры&quot; ў:">
 <!ENTITY templatesFolderOn.accesskey "У">
-<!ENTITY templateInOtherFolder.label "Іншай:">
+<!ENTITY templateInOtherFolder.label "Іншай папцы:">
 <!ENTITY templateInOtherFolder.accesskey "І">
-<!ENTITY specialFoldersTitle.label "Чарнавікі і ўзоры">
+<!ENTITY specialFoldersTitle.label "Чарнавікі, архівы і ўзоры">
 <!ENTITY keepDrafts.label "Трымаць чарнавікі лістоў у:">
+<!ENTITY keepArchives.label "Трымаць архівы лістоў у:">
 <!ENTITY keepTempltes.label "Трымаць узоры лістоў у:">

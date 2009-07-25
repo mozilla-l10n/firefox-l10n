@@ -9,8 +9,8 @@
 <!ENTITY cmd.close.key "w">
 <!ENTITY edit.label "Праўка">
 <!ENTITY edit.accesskey "П">
-<!ENTITY views.label "Праявы">
-<!ENTITY views.accesskey "П">
+<!ENTITY views.label "Выгляд">
+<!ENTITY views.accesskey "В">
 <!ENTITY view.toolbar.label "Прыладапаліца">
 <!ENTITY view.toolbar.accesskey "р">
 <!ENTITY view.columns.label "Паказаць слупкі">
@@ -63,6 +63,8 @@
 <!ENTITY cmd.edit_redo.label "Вярнуць">
 <!ENTITY cmd.edit_redo.accesskey "В">
 <!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.bookmarkLink.label "Закласці гэтую старонку…">
+<!ENTITY cmd.bookmarkLink.accesskey "З">
 <!ENTITY cmd.delete.label "Выдаліць гэтую старонку">
 <!ENTITY cmd.delete.accesskey "д">
 <!ENTITY cmd.deleteDomainData.label "Забыць гэтую пляцоўку">
@@ -117,18 +119,10 @@
 <!ENTITY col.lastmodified.label "Апошняе змяненне">
 <!ENTITY search.label "Пошук:">
 <!ENTITY search.accesskey "П">
-<!ENTITY search.collection.label "Толькі гэты збор">
-<!ENTITY search.collection.accesskey "з">
-<!ENTITY search.allBookmarks.label "Усе закладкі">
-<!ENTITY search.allBookmarks.accesskey "У">
 <!ENTITY search.scopeFolder.label "Выбраная папка">
 <!ENTITY search.scopeFolder.accesskey "п">
-<!ENTITY search.scopeAll.label "Усе закладкі">
-<!ENTITY search.scopeAll.accesskey "У">
-<!ENTITY search.scopeMenu.label "Меню закладак">
-<!ENTITY search.scopeMenu.accesskey "М">
-<!ENTITY search.scopeToolbar.label "Прыладапаліца закладак">
-<!ENTITY search.scopeToolbar.accesskey "П">
+<!ENTITY search.scopeBookmarks.label "Закладкі">
+<!ENTITY search.scopeBookmarks.accesskey "З">
 <!ENTITY search.scopeDownloads.label "Загрузкі">
 <!ENTITY search.scopeDownloads.accesskey "З">
 <!ENTITY search.scopeHistory.label "Гісторыя">
@@ -180,10 +174,8 @@
 <!ENTITY maintenance.label "Імпарт і адноўка">
 <!ENTITY maintenance.accesskey "І">
 <!ENTITY backCmd.label "Назад">
-<!ENTITY backCmd.accesskey "з">
 <!ENTITY backButton.tooltip "Вярнуцца назад">
 <!ENTITY forwardCmd.label "Наперад">
-<!ENTITY forwardCmd.accesskey "п">
 <!ENTITY forwardButton.tooltip "Пайсці наперад">
 <!ENTITY detailsPane.more.label "Больш">
 <!ENTITY detailsPane.more.accesskey "Б">

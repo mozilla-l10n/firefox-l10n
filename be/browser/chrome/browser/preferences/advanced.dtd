@@ -42,7 +42,7 @@
 <!ENTITY askMe.accesskey "т">
 <!ENTITY modeAutomatic.label "Самастойна загружаць і ўсталёўваць абнаўленне">
 <!ENTITY modeAutomatic.accesskey "ў">
-<!ENTITY modeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забароняцца мае дадаткі">
+<!ENTITY modeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забараняцца мае дадаткі">
 <!ENTITY modeAutoAddonWarn.accesskey "П">
 <!ENTITY updateHistory.label "Паказаць гісторыю абнаўленняў">
 <!ENTITY updateHistory.accesskey "а">

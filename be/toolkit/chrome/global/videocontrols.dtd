@@ -1,0 +1,5 @@
+<!ENTITY playButton.playLabel "Граць">
+<!ENTITY playButton.pauseLabel "Прыпыніць">
+<!ENTITY muteButton.muteLabel "Заглушыць">
+<!ENTITY muteButton.unmuteLabel "Уключыць гук">
+<!ENTITY scrubberScale.nameFormat "Мінула #1 з #2">

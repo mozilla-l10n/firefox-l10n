@@ -9,6 +9,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "п">
 <!ENTITY newAccountCmd.label "Рахунак…">
 <!ENTITY newAccountCmd.accesskey "Р">
+<!ENTITY newMailAccountCmd.label "Рахунак пошты (Хуткая наладка)…">
+<!ENTITY newMailAccountCmd.accesskey "Х">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
 <!ENTITY openMessageFileCmd.accesskey "А">
 <!ENTITY openAttachmentCmd.label "Далучэнні">
@@ -42,8 +44,6 @@
 <!ENTITY compactFolders.accesskey "п">
 <!ENTITY emptyTrashCmd.label "Выкінуць смецце">
 <!ENTITY emptyTrashCmd.accesskey "ь">
-<!ENTITY importCmd.label "Імпарт…">
-<!ENTITY importCmd.accesskey "І">
 <!ENTITY offlineMenu.label "Па-за сеткай">
 <!ENTITY offlineMenu.accesskey "з">
 <!ENTITY offlineGoOfflineCmd.label "Працаваць па-за сеткай">
@@ -94,15 +94,14 @@
 <!ENTITY folderPropsFolderCmd.label "Уласцівасці папкі…">
 <!ENTITY folderPropsNewsgroupCmd.label "Уласцівасці навінакупы…">
 <!ENTITY folderPropsCmd.accesskey "ц">
-<!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
-<!ENTITY accountManagerCmd.accesskey "р">
-<!ENTITY accountManagerCmdUnix.accesskey "р">
 <!ENTITY undoDeleteMsgCmd.label "Адмяніць выдаленне ліста">
 <!ENTITY redoDeleteMsgCmd.label "Вярнуць выдаленне ліста">
 <!ENTITY undoMoveMsgCmd.label "Адмяніць перамяшчэнне ліста">
 <!ENTITY redoMoveMsgCmd.label "Вярнуць рух ліста">
 <!ENTITY undoCopyMsgCmd.label "Адмяніць капіяванне ліста">
 <!ENTITY redoCopyMsgCmd.label "Паўтарыць капіяванне ліста">
+<!ENTITY undoMarkAllCmd.label "Адмяніць пазначэнне ўсіх прачытанымі">
+<!ENTITY redoMarkAllCmd.label "Вярнуць пазначэнне ўсіх прачытанымі">
 <!ENTITY undoDefaultCmd.label "Адмяніць">
 <!ENTITY undoDefaultCmd.accesskey "А">
 <!ENTITY redoDefaultCmd.label "Вярнуць">
@@ -205,6 +204,14 @@
 <!ENTITY bodySanitized.accesskey "П">
 <!ENTITY bodyAsPlaintext.label "Просты тэкст">
 <!ENTITY bodyAsPlaintext.accesskey "Т">
+<!ENTITY bodyMenuFeed.label "Жывіць цела ліста як">
+<!ENTITY bodyMenuFeed.accesskey "я">
+<!ENTITY viewFeedWebPage.label "Старонку Сеціва">
+<!ENTITY viewFeedWebPage.accesskey "С">
+<!ENTITY viewFeedSummary.label "Зводку">
+<!ENTITY viewFeedSummary.accesskey "З">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Змоўчны фармат">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "ф">
 <!ENTITY viewAttachmentsInlineCmd.label "Адлюстроўваць далучэнні ўсярэдзіне">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "Ў">
 <!ENTITY fullZoomEnlargeCmd.label "Павялічыць">
@@ -220,7 +227,7 @@
 <!ENTITY fullZoomResetCmd.accesskey "У">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Павлічваць толькі тэкст">
+<!ENTITY fullZoomToggleCmd.label "Павялічваць толькі тэкст">
 <!ENTITY fullZoomToggleCmd.accesskey "т">
 <!ENTITY fullZoom.label "Павялічэнне">
 <!ENTITY fullZoom.accesskey "в">
@@ -282,6 +289,9 @@
 <!ENTITY newMsgCmd.accesskey "Н">
 <!ENTITY newNewMsgCmd.label "Ліст">
 <!ENTITY newNewMsgCmd.accesskey "л">
+<!ENTITY archiveMsgCmd.label "У архіў">
+<!ENTITY archiveMsgCmd.accesskey "а">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Адказаць">
 <!ENTITY replyMsgCmd.accesskey "А">
 <!ENTITY replyMsgCmd.key "r">
@@ -292,6 +302,9 @@
 <!ENTITY replyToAllMsgCmd.label "Адказаць усім">
 <!ENTITY replyToAllMsgCmd.accesskey "з">
 <!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Адказаць спісу">
+<!ENTITY replyToListMsgCmd.accesskey "с">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Накіраваць">
 <!ENTITY forwardMsgCmd.accesskey "к">
 <!ENTITY forwardMsgCmd.key "l">
@@ -370,23 +383,26 @@
 <!ENTITY openMessageWindowCmd.label "Адчыніць ліст">
 <!ENTITY openMessageWindowCmd.accesskey "А">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Адкрыць ліст з жывільніка">
+<!ENTITY openFeedMessage.accesskey "ж">
+<!ENTITY openFeedWebPageInWindow.label "Старонку Сеціва ў новым акне">
+<!ENTITY openFeedWebPageInWindow.accesskey "а">
+<!ENTITY openFeedSummaryInWindow.label "Зводку ў новым акне">
+<!ENTITY openFeedSummaryInWindow.accesskey "ў">
+<!ENTITY openFeedWebPageInMP.label "Пераключэнне шыбы ліста: старонка Сеціва, зводка">
+<!ENTITY openFeedWebPageInMP.accesskey "к">
 <!ENTITY windowMenu.label "Акно">
 <!ENTITY tasksMenu.label "Прылады">
 <!ENTITY tasksMenu.accesskey "л">
-<!ENTITY addons.label "Дадаткі">
-<!ENTITY addons.accesskey "д">
 <!ENTITY messengerCmd.label "Пошта і Навінакупы">
 <!ENTITY messengerCmd.accesskey "П">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адрасная кніга">
 <!ENTITY addressBookCmd.accesskey "а">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY runJunkControls.label "Ужыць кіроўцаў паштовай лухтой у папцы ">
-<!ENTITY runJunkControls.accesskey "х">
-<!ENTITY deleteJunk.label "Выдаліць пошту, пазначаную як лухта, з папкі ">
-<!ENTITY deleteJunk.accesskey "д">
-<!ENTITY errorConsoleCmd.label "Кансоль памылак">
-<!ENTITY errorConsoleCmd.accesskey "п">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Дадаткі">
+<!ENTITY addons.accesskey "д">
+<!ENTITY activitymanager.label "Кіраўнік дзейнасці">
+<!ENTITY activitymanager.accesskey "д">
 <!ENTITY filtersCmd.label "Сіты лістоў…">
 <!ENTITY filtersCmd.accesskey "С">
 <!ENTITY filtersApply.label "Ужыць сіты на папцы">
@@ -395,10 +411,22 @@
 <!ENTITY filtersApplyToSelection.accesskey "в">
 <!ENTITY filtersApplyToMessage.label "Выканаць сіты на лісце">
 <!ENTITY filtersApplyToMessage.accesskey "л">
+<!ENTITY runJunkControls.label "Ужыць кіроўцаў паштовай лухтой у папцы ">
+<!ENTITY runJunkControls.accesskey "х">
+<!ENTITY deleteJunk.label "Выдаліць пошту, пазначаную як лухта, з папкі ">
+<!ENTITY deleteJunk.accesskey "д">
+<!ENTITY importCmd.label "Імпарт…">
+<!ENTITY importCmd.accesskey "І">
+<!ENTITY errorConsoleCmd.label "Кансоль памылак">
+<!ENTITY errorConsoleCmd.accesskey "п">
+<!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
+<!ENTITY accountManagerCmd.accesskey "н">
+<!ENTITY accountManagerCmdUnix.accesskey "р">
 <!ENTITY getMsgButton.label "Атрымаць">
 <!ENTITY newMsgButton.label "Укласці">
 <!ENTITY replyButton.label "Адказаць">
 <!ENTITY replyAllButton.label "Адк. усім">
+<!ENTITY replyListButton.label "Адказаць спісу">
 <!ENTITY forwardButton.label "Накіраваць">
 <!ENTITY fileButton.label "Файл">
 <!ENTITY nextButton.label "Наступны">
@@ -414,6 +442,7 @@
 <!ENTITY junkButton.label "Лухта">
 <!ENTITY notJunkButton.label "Не лухта">
 <!ENTITY addressBookButton.label "Адрасная кніга">
+<!ENTITY glodaSearch.title "Агульны пошук">
 <!ENTITY searchItem.title "Хуткі пошук">
 <!ENTITY mailViewsToolbarItem.title "Віды пошты">
 <!ENTITY folderLocationToolbarItem.title "Месцазнаходжанне папкі">
@@ -427,6 +456,7 @@
 <!ENTITY newMsgButton.tooltip "Стварыць новы ліст">
 <!ENTITY replyButton.tooltip "Адказаць на ліст">
 <!ENTITY replyAllButton.tooltip "Адказаць адпраўніку і ўсім атрымальнікам">
+<!ENTITY replyListButton.tooltip "Адказаць паштоваму спісу">
 <!ENTITY forwardButton.tooltip "Накіраваць вылучаны ліст">
 <!ENTITY fileButton.tooltip "Перамясціць вылучаны ліст">
 <!ENTITY nextButton.tooltip "Перамясціцца да наступнага непрачытанага ліста">
@@ -485,6 +515,18 @@
 <!ENTITY folderContextSettings.accesskey "Н">
 <!ENTITY SearchNameOrEmail.label "Імя або адрас змяшчаюць:">
 <!ENTITY SearchNameOrEmail.accesskey "І">
+<!ENTITY glodaSearchBar.emptyText "Пошук лістоў…">
+<!ENTITY glodaSearchBar.facet.label "Пошук:">
+<!ENTITY glodaSearchFacet.everything.label "Усё">
+<!ENTITY glodaSearchFacet.subject.label "Тэма">
+<!ENTITY glodaSearchFacet.involves.label "Залучаны (ад,да,СА,ССА)">
+<!ENTITY glodaSearchFacet.to.label "Да, СА">
+<!ENTITY glodaSearchFacet.from.label "Ад">
+<!ENTITY glodaSearchFacet.body.label "Тэкст ліста">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Назвы далучэнняў">
+<!ENTITY glodaSearchBar.location.label "Месцазнаходжанне:">
+<!ENTITY glodaSearchFacet.everywhere.label "Усе папкі">
+<!ENTITY glodaSearchFacet.folder.label "У адмысловай папцы…">
 <!ENTITY searchSubjectMenu.label "Тэма">
 <!ENTITY searchFromMenu.label "Ад">
 <!ENTITY searchSubjectOrFromMenu.label "Тэма або Ад">
@@ -511,6 +553,8 @@
 <!ENTITY locationColumn.label "Месцазнаходжанне">
 <!ENTITY idColumn.label "Парадак атрымання">
 <!ENTITY attachmentColumn.label "Далучэнні">
+<!ENTITY glodaWhyColumn.label "Чаму">
+<!ENTITY glodaScoreColumn.label "Лік">
 <!ENTITY columnChooser.tooltip "Пстрыкніце, каб вылучыць слупкі для адлюстравання">
 <!ENTITY threadColumn.tooltip "Пстрыкніце, каб адлюстраваць нізкі лістоў">
 <!ENTITY fromColumn.tooltip "Пстрыкніце, каб размяркоўваць па адпраўнікам">
@@ -531,6 +575,8 @@
 <!ENTITY locationColumn.tooltip "Пстрыкніце, каб размеркаваць паводле месцазнаходжанняў">
 <!ENTITY idColumn.tooltip "Пстрыкніце, каб размеркаваць у парадку атрымання">
 <!ENTITY attachmentColumn.tooltip "Пстрыкніце, каб размеркаваць паводле далучэнняў">
+<!ENTITY glodaWhyColumn.tooltip 'Пстрыкніце, каб размеркаваць лісты згодна полю "Чаму" у вашых выніках пошуку'>
+<!ENTITY glodaScoreColumn.tooltip "Пстрыкніце, каб размеркаваць паводле ліку">
 <!ENTITY contextOpenNewWindow.label "Адчыніць ліст у новым акне">
 <!ENTITY contextOpenNewWindow.accesskey "А">
 <!ENTITY contextOpenNewTab.label "Адчыніць ліст у новай устаўцы">
@@ -543,6 +589,8 @@
 <!ENTITY contextReplyNewsgroup.accesskey "ь">
 <!ENTITY contextReplyAll.label "Адказаць усім">
 <!ENTITY contextReplyAll.accesskey "У">
+<!ENTITY contextReplyList.label "Адказаць спісу">
+<!ENTITY contextReplyList.accesskey "с">
 <!ENTITY contextForward.label "Накіраваць">
 <!ENTITY contextForward.accesskey "к">
 <!ENTITY contextForwardAsAttachment.label "Накіраваць як далучэнні">
@@ -562,8 +610,8 @@
 <!ENTITY junkBarMessage1.label "Пошта-лухта">
 <!ENTITY junkBarButton1.label "Не лухта">
 <!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage1.label "Каб абараніць ваша адасабленне, адлеглыя малюнкі затрыманы.">
-<!ENTITY loadRemoteContentButton2.label "Паказаць малюнкі зараз">
+<!ENTITY remoteContentMessage2.label "Каб захаваць ваша адасабленне, &brandShortName; блакаваў адлеглае змесціва ў гэтым лісце.">
+<!ENTITY loadRemoteContentButton3.label "Паказаць адлеглае змесціва">
 <!ENTITY phishingBarMessage2.label "Гэты ліст можа быць ашукай.">
 <!ENTITY removePhishingBarButton1.label "Ігнараваць папярэджанне">
 <!ENTITY reportPhishingError1.label "Гэты ліст не падобны на ашуку.">
@@ -582,7 +630,7 @@
 <!ENTITY CopyEmailAddress.label "Капіяваць адрас э-пошты">
 <!ENTITY CopyEmailAddress.accesskey "э">
 <!ENTITY CreateFilterFrom.label "Стварыць сіта з…">
-<!ENTITY CreateFilterFrom.accesskey "c">
+<!ENTITY CreateFilterFrom.accesskey "с">
 <!ENTITY reportPhishingURL.label "Паведаміць пра э-паштовую ашуку">
 <!ENTITY reportPhishingURL.accesskey "П">
 <!ENTITY saveLinkAsCmd.label "Захаваць спасылку як…">

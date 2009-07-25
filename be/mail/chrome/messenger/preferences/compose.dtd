@@ -4,9 +4,7 @@
 <!ENTITY forwardMsg.label "Накіроўваць лісты:">
 <!ENTITY forwardMsg.accesskey "Н">
 <!ENTITY inline.label "Усярэдзіне">
-<!ENTITY inline.accesskey "у">
 <!ENTITY asAttachment.label "Як далучэнне">
-<!ENTITY asAttachment.accesskey "д">
 <!ENTITY addExtension.label "дадаць пашырэнне да назвы файла">
 <!ENTITY addExtension.accesskey "ф">
 <!ENTITY htmlComposeHeader.label "HTML">
@@ -46,3 +44,7 @@
 <!ENTITY sendOptionsDescription.label "Наладкі паводзінаў пры фарматаванні тэксту">
 <!ENTITY sendOptions.label "Наладкі дасылання…">
 <!ENTITY sendOptions.accesskey "с">
+<!ENTITY attachmentReminder.label "Правяраць, ці адсутнічаюць далучэнні">
+<!ENTITY attachmentReminder.accesskey "д">
+<!ENTITY attachmentReminderOptions.label "Ключавыя словы…">
+<!ENTITY attachmentReminderOptions.accesskey "К">

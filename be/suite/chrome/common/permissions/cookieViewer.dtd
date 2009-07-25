@@ -10,6 +10,10 @@
 <!ENTITY button.removecookie.accesskey "В">
 <!ENTITY button.removeallcookies.label "Выдаліць усе біркі">
 <!ENTITY button.removeallcookies.accesskey "у">
+<!ENTITY search.emptytext "Пошук бірак">
+<!ENTITY focusSearch.key "f">
+<!ENTITY windowClose.key "w">
+<!ENTITY selectAll.key "a">
 <!ENTITY props.name.label "Назва:">
 <!ENTITY props.value.label "Змест:">
 <!ENTITY props.domain.label "Трымальнік:">

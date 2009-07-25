@@ -45,6 +45,7 @@
 <!ENTITY permTab "Дазволы">
 <!ENTITY permTab.accesskey "Д">
 <!ENTITY permUseDefault "Ужываць змоўчныя">
+<!ENTITY permAskAlways "Заўсёды пытаць">
 <!ENTITY permAllow "Дазволіць">
 <!ENTITY permAllowSession "Дазволіць на час сэсіі">
 <!ENTITY permBlock "Блакаваць">
@@ -53,6 +54,7 @@
 <!ENTITY permPopup "Адчыняць вокны-вынырцы">
 <!ENTITY permCookie "Усталёўваць біркі">
 <!ENTITY permInstall "Усталёўваць пашырэнні або тэмы">
+<!ENTITY permGeo "Дзяліцца месцазнаходжаннем">
 <!ENTITY securityTab "Бяспека">
 <!ENTITY securityTab.accesskey "Б">
 <!ENTITY securityHeader "Звесткі пра бяспечнасць гэтай старонкі">

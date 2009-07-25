@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title "Ключавыя словы напаміну пра далучэнні">
+<!ENTITY attachKeywordText.label "&brandShortName; папярэдзіць вас пра адсутныя далучэнні, калі вы будзеце дасылаець э-ліст з адным з гэтых ключавых словаў.">
+<!ENTITY addKeywordButton.label "Дадаць">
+<!ENTITY addKeywordButton.accesskey "Д">
+<!ENTITY editKeywordButton.label "Правіць">
+<!ENTITY editKeywordButton.accesskey "П">
+<!ENTITY removeKeywordButton.label "Выдаліць">
+<!ENTITY removeKeywordButton.accesskey "д">

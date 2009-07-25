@@ -1,31 +1,41 @@
-<!ENTITY sanitizePrefs.title "Знішчэнне прыватных здаткаў">
+<!ENTITY sanitizePrefs2.title "Наладжванні ачышчэння гісторыі">
 <!ENTITY sanitizeDialog2.title "Знішчэнне нядаўняй гісторыі">
 <!ENTITY sanitizeItems.label "Ачысціць наступныя адзінкі зараз:">
 <!ENTITY clearDataSettings2.label "Калі я закрываю &brandShortName;, ён павінен самастойна знішчаць усе:">
-<!ENTITY clearDuration.label "Выдаліць">
-<!ENTITY clearDuration.lastHour "апошнюю гадзіну">
-<!ENTITY clearDuration.last2Hours "апошнія 2 гадзіны">
-<!ENTITY clearDuration.last4Hours "апошнія 4 гадзіны">
-<!ENTITY clearDuration.today "маю сённяшнюю гісторыю">
-<!ENTITY clearDuration.everything "усю маю гісторыю">
-<!ENTITY clearDuration.suffix "">
+<!ENTITY clearTimeDuration.label "Дыяпазон часу для ачышчэння:">
+<!ENTITY clearTimeDuration.accesskey "ч">
+<!ENTITY clearTimeDuration.lastHour "Апошняя гадзіна">
+<!ENTITY clearTimeDuration.last2Hours "Апошнія дзве гадзіны">
+<!ENTITY clearTimeDuration.last4Hours "Апошнія чатыры гадзіны">
+<!ENTITY clearTimeDuration.today "Сёння">
+<!ENTITY clearTimeDuration.everything "Усё">
+<!ENTITY clearTimeDuration.suffix "">
+<!ENTITY clearTimeDuration.dateColumn "Дата наведвання">
+<!ENTITY clearTimeDuration.nameColumn "Назва">
+<!ENTITY detailsProgressiveDisclosure.label "Падрабязнасці">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 <!ENTITY historySection.label "Гісторыю">
 <!ENTITY dataSection.label "Здаткі">
-<!ENTITY itemVisitedPages.label "Наведаныя старонкі">
-<!ENTITY itemVisitedPages.accesskey "в">
-<!ENTITY itemFormSearchEntries.label "Адзінкі формаў і пошуку">
-<!ENTITY itemFormSearchEntries.accesskey "ф">
+<!ENTITY itemHistoryAndDownloads.label "Гісторыя азірання і загрузак">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemBrowsingHistory.label "Гісторыя азірання">
+<!ENTITY itemBrowsingHistory.accesskey "B">
+<!ENTITY itemFormSearchHistory.label "Гісторыя пошуку і запаўненя формаў">
+<!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label "Захаваныя паролі">
 <!ENTITY itemPasswords.accesskey "п">
 <!ENTITY itemCookies.label "Біркі">
 <!ENTITY itemCookies.accesskey "б">
-<!ENTITY itemWebCache.label "Запаснік Сеціва">
-<!ENTITY itemWebCache.accesskey "З">
+<!ENTITY itemCache.label "Запаснік">
+<!ENTITY itemCache.accesskey "A">
 <!ENTITY itemOfflineApps.label "Пазасеткавыя здаткі пляцовак сеціва">
 <!ENTITY itemOfflineApps.accesskey "д">
-<!ENTITY itemDownloadList.label "Спіс загрузак">
-<!ENTITY itemDownloadList.accesskey "г">
+<!ENTITY itemDownloadHistory.label "Гісторыя загрузак">
+<!ENTITY itemDownloadHistory.accesskey "D">
 <!ENTITY itemActiveLogins.label "Дзейныя ўваходы">
 <!ENTITY itemActiveLogins.accesskey "ў">
-<!ENTITY window.width "36em">
+<!ENTITY itemSitePreferences.label "Перавагі пляцовак">
+<!ENTITY itemSitePreferences.accesskey "ц">
+<!ENTITY sanitizeEverythingUndoWarning "Гэтае дзеянне немагчыма адмяніць.">
+<!ENTITY dialog.width "35em">
 <!ENTITY column.width "15em">

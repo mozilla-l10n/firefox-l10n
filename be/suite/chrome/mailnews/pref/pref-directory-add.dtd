@@ -29,4 +29,10 @@
 <!ENTITY return.accesskey "в">
 <!ENTITY results.label "вынікаў">
 <!ENTITY offlineText.label "Вы можаце загрузіць мясцовую копію гэтай дырэкторыі, таму яна будзе даступнаю для ўжывання пад час працы па-за сеткаю.">
+<!ENTITY saslMechanism.label "Метад уваходу:">
+<!ENTITY saslMechanism.accesskey "М">
+<!ENTITY saslOff.label "Просты">
+<!ENTITY saslOff.accesskey "П">
+<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey "K">
 <!ENTITY newDirectoryWidth "42em">

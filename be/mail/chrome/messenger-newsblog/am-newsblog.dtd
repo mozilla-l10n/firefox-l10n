@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "Наладжванні рахунку RSS">
+<!ENTITY accountTitle.label "Наладжванні рахунку">
 <!ENTITY biffStart.label "Правяраць, ці існуюць новыя артыкулы, кожныя">
 <!ENTITY biffStart.accesskey "я">
 <!ENTITY biffEnd.label "хвілінаў">
@@ -8,7 +8,7 @@
 <!ENTITY useQuickMode.accesskey "з">
 <!ENTITY manageSubscriptions.label "Кіраваць падпіскамі…">
 <!ENTITY manageSubscriptions.accesskey "К">
-<!ENTITY rss.accountName "Навіны і дзённікі">
-<!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName "Навіны RSS і дзённікі">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY feeds.accountName "Жывільнікі дзённікаў і навінаў">
+<!ENTITY feeds.wizardShortName "Жывільнікі">
+<!ENTITY feeds.wizardLongName "Жывільнікі дзённікаў і навінаў">
+<!ENTITY feeds.wizardLongName.accesskey "Ж">

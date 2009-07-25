@@ -1,5 +1,6 @@
 <!ENTITY pref.navigator.title "Азіральнік">
-<!ENTITY navRadio "Адлюстроўваць">
+<!ENTITY navRadio.label "Адлюстроўваць на">
+<!ENTITY navRadio.accesskey "н">
 <!ENTITY navStartPageMenu.label "Пры запуску азіральніка">
 <!ENTITY newWinPageMenu.label "У новым акне">
 <!ENTITY newTabPageMenu.label "У новай устаўцы">
@@ -9,6 +10,8 @@
 <!ENTITY homePageRadio.accesskey "Х">
 <!ENTITY lastPageRadio.label "Апошнюю наведаную старонку">
 <!ENTITY lastPageRadio.accesskey "А">
+<!ENTITY restoreSessionRadio.label "Аднавіць папярэднюю сэсію">
+<!ENTITY restoreSessionRadio.accesskey "А">
 <!ENTITY header2.label "Хатняя старонка">
 <!ENTITY homePageIntro.label "Пстрыканне па кнопцы Дадому накіруе вас на гэтую старонку ці групу старонак:">
 <!ENTITY useCurrent.label "Цяперашняя старонка">
@@ -25,13 +28,6 @@
 <!ENTITY goButton.accesskey "П">
 <!ENTITY searchButton.label "Пошук">
 <!ENTITY searchButton.accesskey "ш">
-<!ENTITY printButton.label "Друкаваць">
-<!ENTITY printButton.accesskey "Д">
-<!ENTITY persToolbarIntro.label "Уласная прыладапаліца">
-<!ENTITY homeButton.label "Дадому">
-<!ENTITY homeButton.accesskey "а">
-<!ENTITY bookmarksButton.label "Закладкі">
-<!ENTITY bookmarksButton.accesskey "З">
 <!ENTITY defaultBrowserGroup.label "Змоўчны азіральнік">
 <!ENTITY defaultBrowserButton.label "Прызначыць змоўчным азіральнікам">
 <!ENTITY defaultBrowserButton.accesskey "з">

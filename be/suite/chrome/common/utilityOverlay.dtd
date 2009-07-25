@@ -74,6 +74,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.label "Пераключыць кірунак тэксту">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "к">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY customizeToolbarContext.label "Уладкаваць…">
+<!ENTITY customizeToolbarContext.accesskey "У">
 <!ENTITY customizeToolbar.toolbarmode.label "Наладжванні гэтай прыладапаліцы">
 <!ENTITY customizeToolbar.toolbarmode.accesskey "л">
 <!ENTITY customizeToolbar.iconsAndText.label "Значкі і тэкст">

@@ -1,7 +1,7 @@
 <!--null-->
 <!ENTITY addressbookWindow.title "Адрасная кніга">
-<!ENTITY newCard.label "Картку адраснай кнігі…">
-<!ENTITY newCard.accesskey "К">
+<!ENTITY newContact.label "Сувязь…">
+<!ENTITY newContact.accesskey "С">
 <!ENTITY newListCmd.label "Адрасны спіс…">
 <!ENTITY newListCmd.accesskey "С">
 <!ENTITY newAddressBookCmd.label "Адрасную кнігу…">
@@ -9,11 +9,11 @@
 <!ENTITY newLDAPDirectoryCmd.label "Дырэкторыю LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey "L">
 <!ENTITY newIM.label "ВМП">
-<!ENTITY printCardViewCmd.label "Надрукаваць картку…">
-<!ENTITY printCardViewCmd.accesskey "д">
-<!ENTITY printPreviewCardViewCmd.label "Папярэдні прагляд карткі">
-<!ENTITY printPreviewCardViewCmd.accesskey "г">
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactViewCmd.label "Друкаваць сувязь…">
+<!ENTITY printContactViewCmd.accesskey "Д">
+<!ENTITY printPreviewContactViewCmd.label "Перадпрагляд друку сувязі">
+<!ENTITY printPreviewContactViewCmd.accesskey "г">
+<!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Надрукаваць адрасную кнігу…">
 <!ENTITY printAddressBook.accesskey "А">
 <!ENTITY printPreviewAddressBook.label "Папярэдні прагляд адраснай кнігі">
@@ -21,8 +21,8 @@
 <!ENTITY printSetupCmd.label "Уладкаваць старонку…">
 <!ENTITY printSetupCmd.accesskey "н">
 <!ENTITY deleteAbCmd.label "Выдаліць адрасную кнігу">
-<!ENTITY deleteCardCmd.label "Выдаліць картку">
-<!ENTITY deleteCardsCmd.label "Выдаліць вылучаныя карткі">
+<!ENTITY deleteContactCmd.label "Выдаліць сувязь">
+<!ENTITY deleteContactsCmd.label "Выдаліць вылучаныя сувязі">
 <!ENTITY deleteListCmd.label "Выдаліць спіс">
 <!ENTITY deleteListsCmd.label "Выдаліць вылучаныя спісы">
 <!ENTITY deleteItemsCmd.label "Выдаліць вылучаныя адзінкі">
@@ -49,25 +49,26 @@
 <!ENTITY exportCmd.accesskey "Э">
 <!ENTITY allowOnlineCheck.label "Праверыць прысутнасць у сетцы (AOL)">
 <!ENTITY allowOnlineCheck.accesskey "П">
-<!ENTITY newcardButton.label "Новая картка">
-<!ENTITY newcardButton.accesskey "К">
+<!ENTITY newContactButton.label "Новая сувязь">
+<!ENTITY newContactButton.accesskey "с">
 <!ENTITY newlistButton.label "Новы спіс">
 <!ENTITY newlistButton.accesskey "С">
-<!ENTITY editButton.label "Уласцівасці">
-<!ENTITY editButton.accesskey "У">
+<!ENTITY editItemButton.label "Уласцівасці">
+<!ENTITY editItemButton.accesskey "У">
 <!ENTITY newmsgButton.label "Укласці">
 <!ENTITY newmsgButton.accesskey "У">
-<!ENTITY deleteButton.label "Выдаліць">
-<!ENTITY deleteButton.accesskey "д">
+<!ENTITY deleteItemButton.label "Выдаліць">
+<!ENTITY deleteItemButton.accesskey "д">
 <!ENTITY newimButton.label "Вокамгненнае паведамленне">
 <!ENTITY newimButton.accesskey "м">
+<!ENTITY searchNameAndEmail.emptytext "Шукаць імя і э-пошту">
 <!ENTITY addressbookToolbar.tooltip "Паліца прыладаў адраснай кнігі">
-<!ENTITY newcardButton.tooltip "Стварыць новую картку адраснай кнігі">
+<!ENTITY newContactButton.tooltip "Стварыць новую сувязь у адраснай кнізе">
 <!ENTITY newlistButton.tooltip "Стварыць новы спіс">
-<!ENTITY editButton.tooltip "Рэдагаваць вылучаную картку">
+<!ENTITY editItemButton.tooltip "Праўка вылучанай адзінкі">
 <!ENTITY newmsgButton.tooltip "Даслаць паштовы ліст">
 <!ENTITY newIM.tooltip "Даслаць вокамгненнае паведамленне ці распачаць гутарку">
-<!ENTITY deleteButton.tooltip "Выдаліць вылучаную картку або адрасную кнігу">
+<!ENTITY deleteItemButton.tooltip "Выдаліць вылучаную адзінку">
 <!ENTITY throbber.tooltip "Пайсці на хатнюю старонку &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Пашыраны пошук адрасоў">
 <!ENTITY statusText.label "">
