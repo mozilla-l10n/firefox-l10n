@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Bygg opp oppsummeringsfil på nytt">
      
 <!ENTITY retention.label "Automatisk sletting">
-<!ENTITY retentionUseDefault.label  "Bruk tjenerens forvalg">
-<!ENTITY retentionUseDefault.accesskey "B">
+<!ENTITY retentionUseAccount.label  "Bruk innstillingene for kontoen">
+<!ENTITY retentionUseAccount.accesskey "B">
 <!ENTITY daysOld.label "dager">
 <!ENTITY message.label "meldingene">
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldinger slettes permanent">
