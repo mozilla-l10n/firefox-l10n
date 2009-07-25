@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Løyve">
 <!ENTITY  permTab.accesskey     "L">
 <!ENTITY  permUseDefault        "Bruk standard">
+<!ENTITY  permAskAlways         "Spør alltid">
 <!ENTITY  permAllow             "Tillat">
 <!ENTITY  permAllowSession      "Tillat i økta">
 <!ENTITY  permBlock             "Blokker">
@@ -96,10 +97,11 @@
 <!ENTITY  permPopup             "Opne sprettoppvindauge">
 <!ENTITY  permCookie            "Still inn infokapslar">
 <!ENTITY  permInstall           "Installer utvidingar eller tema">
+<!ENTITY  permGeo               "Tillat vising av stad">
 
 <!ENTITY  securityTab           "Sikkerheit">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Sikkerheitsinfo for denne sida">
+<!ENTITY  securityHeader        "Sikkerheitsinformasjon for denne sida">
 <!ENTITY  securityView.certView "Vis sertifikat">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Ukjend">
@@ -112,10 +114,10 @@
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
 <!ENTITY  securityView.privacy.history                  "Har eg vitja denne nettsida tidlegare i dag?">
-<!ENTITY  securityView.privacy.cookies                  "Lagrar denne nettsida informasjon (infokapslar) på maskina mi?">
+<!ENTITY  securityView.privacy.cookies                  "Lagrar denne nettstaden informasjon på datamaskina mi?">
 <!ENTITY  securityView.privacy.viewCookies              "Vis infokapslar">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Har eg lagra passord for denne nettsida?">
+<!ENTITY  securityView.privacy.passwords                "Har eg lagra passord for denne nettstaden?">
 <!ENTITY  securityView.privacy.viewPasswords            "Vis lagra passord">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "V">
 

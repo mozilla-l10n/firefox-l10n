@@ -51,9 +51,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newtask.button.tooltip          "Opprett ei ny oppgåve" >
-<!ENTITY calendar.newevent.button.tooltip         "Opprett ei ny hending" >
-<!ENTITY calendar.edit.button.tooltip             "Endre vald hending" >
+<!ENTITY calendar.newevent.button.tooltip         "Lag ny hending" >
+<!ENTITY calendar.newtask.button.tooltip          "Lag ny oppgåve" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Oppgåver" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Vis fullførte oppgåver">
@@ -88,7 +87,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "Vis dagen i dag" >
 <!ENTITY calendar.todaypane.button.tooltip        "Vis i dag-visinga" >
-<!ENTITY calendar.unifinder.button.tooltip        "Finn og vis hendingar" >
 
 <!ENTITY calendar.day.button.tooltip            "Byt til dagvising" >
 <!ENTITY calendar.week.button.tooltip           "Byt til vekevising" >
@@ -102,23 +100,18 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Neste månad" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Førre månad" >
 
-<!ENTITY calendar.newtask.button.label          "Ny oppgåve" >
+<!ENTITY calendar.navigation.nextday.tooltip    "Ein dag fram" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Ein dag tilbake" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Ei veke fram" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Ei veke tilbake" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Ein månad fram" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Ein månad tilbake" >
+
 <!ENTITY calendar.newevent.button.label         "Ny hending" >
-<!ENTITY calendar.edit.button.label             "Endre" >
+<!ENTITY calendar.newtask.button.label          "Ny oppgåve" >
 <!ENTITY calendar.print.button.label            "Skriv ut" >
 
-<!ENTITY calendar.import.button.tooltip            "Importer hendingar frå ei lokal fil" >
-<!ENTITY calendar.export.button.tooltip            "Eksporter hendingar til ei lokal fil" >
-<!ENTITY calendar.subscribe.button.tooltip         "Abonner på ei kalenderfil på ei anna maskin" >
-<!ENTITY calendar.publish.button.tooltip           "Publiser hendingar til ei anna maskin" >
-
 <!ENTITY calendar.export.calendar                "Eksporter kalender …" >
-
-<!ENTITY calendar.import.button.label              "Importer" >
-<!ENTITY calendar.export.button.label              "Eksporter" >
-<!ENTITY calendar.subscribe.button.label           "Abonner" >
-<!ENTITY calendar.publish.button.label             "Publiser" >
-<!ENTITY calendar.unifinder.button.label           "Finn hendingar" >
 
 <!ENTITY calendar.day.button.label              "Dag" >
 <!ENTITY calendar.week.button.label             "Veke" >
@@ -154,15 +147,15 @@
 <!ENTITY calendar.task.filter.open.label            "Uferdige oppgåver">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 
-<!ENTITY calendar.task.details.title.label           "Tittel:">
-<!ENTITY calendar.task.details.organizer.label       "Frå:">
-<!ENTITY calendar.task.details.priority2.label       "Prioritet:">
-<!ENTITY calendar.task.details.priority.low.label    "Låg">
-<!ENTITY calendar.task.details.priority.normal.label "Normal">
-<!ENTITY calendar.task.details.priority.high.label   "Høg">
-<!ENTITY calendar.task.details.status.label          "Status:">
-<!ENTITY calendar.task.details.category.label        "Kategori:">
-<!ENTITY calendar.task.details.repeat.label          "Gjenta:">
+<!ENTITY calendar.task-details.title.label           "tittel">
+<!ENTITY calendar.task-details.organizer.label       "frå">
+<!ENTITY calendar.task-details.priority.label        "prioritet">
+<!ENTITY calendar.task-details.priority.low.label    "Låg">
+<!ENTITY calendar.task-details.priority.normal.label "Normal">
+<!ENTITY calendar.task-details.priority.high.label   "Høg">
+<!ENTITY calendar.task-details.status.label          "status">
+<!ENTITY calendar.task-details.category.label        "kategori">
+<!ENTITY calendar.task-details.repeat.label          "repeter">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriser oppgåver">
 <!ENTITY calendar.task.complete.button.tooltip  "Merk dei valde oppgåvene som fullførte">
@@ -258,7 +251,7 @@
 
 <!ENTITY calendar.context.convertmenu.label              "Konverter til">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "K">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "K">
 <!ENTITY calendar.context.convertmenu.event.label        "Hending …">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "H">
 <!ENTITY calendar.context.convertmenu.message.label      "Melding …">
@@ -300,17 +293,20 @@
 <!ENTITY calendar.server.dialog.name.label          "Kalendernamn:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Farge:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Format:">
-<!ENTITY calendarproperties.location.label "Adresse:">
-<!ENTITY calendarproperties.name.label     "Namn:">
-<!ENTITY calendarproperties.readonly.label "Skriveverna">
-<!ENTITY calendarproperties.firealarms.label "Vis alarmar">
-<!ENTITY calendarproperties.cache.label    "Mellomlager (EKSPERIMENTELT, krev omstart)">
-<!ENTITY calendarproperties.enabled.label "Slå på denne kalenderen">
+<!ENTITY calendarproperties.color.label                    "Farge:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format:">
+<!ENTITY calendarproperties.location.label                 "Adresse:">
+<!ENTITY calendarproperties.name.label                     "Namn:">
+<!ENTITY calendarproperties.readonly.label                 "Skriveverna">
+<!ENTITY calendarproperties.firealarms.label               "Vis alarmar">
+<!ENTITY calendarproperties.cache.label                    "Mellomlager (EKSPERIMENTELT, krev omstart)">
+<!ENTITY calendarproperties.enabled.label                  "Slå på denne kalenderen">
+<!ENTITY calendarproperties.forceDisabled.label            "Fann ikkje tilbydaren av denne kalenderen. Dette skjer ofte om du har slått av eller avinstallert enkelte utvidingar.">
+<!ENTITY calendarproperties.unsubscribe.label              "Stopp abonnement">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "S">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publiser kalender">
@@ -337,6 +333,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detaljar …">
-<!ENTITY calendar.error.number "Feilnummer:">
+<!ENTITY calendar.error.code "Feilkode:">
 <!ENTITY calendar.error.description "Skildring:">
 <!ENTITY calendar.error.title "Det har oppstått ein feil">

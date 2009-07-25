@@ -1,7 +1,15 @@
 <!ENTITY aboutDialog.title      "Om &brandShortName;">
 <!ENTITY credits.label          "Bidragsytarar">
 <!ENTITY credits.accesskey      "B">
-<!ENTITY aboutLink.label        "&lt; Om &brandFullName;">
-<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutButton.label      "&lt; Tilbake">
+<!ENTITY aboutButton.accesskey  "T">
 <!ENTITY aboutVersion           "versjon">
 <!ENTITY copyrightText          "&#169;1998-2006 Bidragsytarar. Alle rettar med atterhald. Mozilla Thunderbird og Thunderbirdlogoane er varemerke tilhøyrande The Mozilla Foundation. Alle rettar med atterhald.">
+<!ENTITY aboutMenu.label        "Om">
+<!ENTITY aboutMenu.accesskey    "O">
+<!ENTITY aboutRights.label      "Dine rettar">
+<!ENTITY aboutRights.accesskey  "D">
+<!ENTITY aboutContributors.label "Bidragsytarar">
+<!ENTITY aboutContributors.accesskey "B">
+
+<!ENTITY cmdCloseMac.commandKey "w">

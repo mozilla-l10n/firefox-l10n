@@ -1,11 +1,11 @@
 <!ENTITY pluginWizard.title                                  "Programtillegg-vegvisar">
-<!ENTITY pluginWizard.firstPage.title                        "Velkomen til &pluginWizard.title;">
+<!ENTITY pluginWizard.firstPage.title                        "Velkomen til vegvisaren for programtillegg">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ser no etter tilgjengelege programtillegg …">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Programtillegg tilgjengelege for nedlasting">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Følgjande programtillegg er tilgjengelege:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Trykk på Neste for å installere desse programtillegga.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Trykk på «Neste» for å installere desse programtillegga.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nokre programtillegg krev at du gjev tilleggsinformasjon under installasjonen.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Lisensar for programtillegg">

@@ -57,7 +57,7 @@
 <!ENTITY event.delete.tasks.accesskey                      "v">
 
 <!ENTITY calendar.pagesetup.label                          "Utskriftsformat …">
-<!ENTITY calendar.pagesetup.accesskey                      "U">
+<!ENTITY calendar.pagesetup.accesskey                      "m">
 
 <!ENTITY calendar.subscribe.label                          "Abonner på ekstern kalender …">
 <!ENTITY calendar.subscribe.accesskey                      "e">
@@ -155,14 +155,17 @@
 <!ENTITY viewMenu.label                                    "Vis">
 <!ENTITY viewMenu.accesskey                                "V">
 
-<!ENTITY releaseCmd.label                                  "Merknader til utgjevinga">
-<!ENTITY releaseCmd.accesskey                              "M">
+<!ENTITY releaseCmd.label                                  "Utgjevingsmerknader">
+<!ENTITY releaseCmd.accesskey                              "U">
 
 <!ENTITY aboutCmd.label                                    "Om &brandFullName;">
 <!ENTITY aboutCmd.accesskey                                "O">
 
 <!ENTITY updateCmd.label                                   "Sjå etter oppdateringar …">
 <!ENTITY updateCmd.accesskey                               "S">
+
+<!ENTITY sunbird.export.calendar.label                     "Eksporter kalender …">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
 
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "Vindauge">

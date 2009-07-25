@@ -41,7 +41,7 @@
 <!ENTITY name.label                 "Namn:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Undermappe av:">
-<!ENTITY description.accesskey      "u">
+<!ENTITY description.accesskey      "U">
 <!ENTITY folderRestriction1.label   "Denne tenaren avgrensar mapper til to spesialtypar.">
 <!ENTITY folderRestriction2.label   "Lat den nye mappa innehalda:">
 <!ENTITY foldersOnly.label          "Berre mapper">

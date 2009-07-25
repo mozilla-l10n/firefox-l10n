@@ -21,35 +21,35 @@
 <!ENTITY cmd.checkUpdatesAll.label        "Finn oppdateringar">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Finn oppdateringar til programtillegga dine">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Finn oppdateringar til tema dine">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Finn oppdateringar til tema">
 <!ENTITY cmd.installLocalFile.label       "Installer …">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "Installer ei utviding">
 <!ENTITY cmd.installFileTheme.tooltip     "Installer eit tema">
 <!ENTITY cmd.installUpdatesAll.label      "Installer oppdateringar">
 <!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Installerer dei valde oppdateringane">
-<!ENTITY cmd.restartApp2.label            "Start om &brandShortName;">
+<!ENTITY cmd.installUpdatesAll.tooltip    "Installerer valde oppdateringar">
+<!ENTITY cmd.restartApp2.label            "Start &brandShortName; på nytt">
 <!ENTITY cmd.restartApp2.accesskey        "S">
-<!ENTITY cmd.restartApp2.tooltip          "Start &brandShortName; får å leggje til endringane">
+<!ENTITY cmd.restartApp2.tooltip          "Start &brandShortName; på nytt for å fullføre installeringa">
 <!ENTITY cmd.skip.label                   "Hopp over">
 <!ENTITY cmd.skip.accesskey               "H">
 <!ENTITY cmd.skip.tooltip                 "Hopp over desse oppdateringane">
 <!ENTITY cmd.continue.label               "Hald fram">
 <!ENTITY cmd.continue.accesskey           "l">
-<!ENTITY cmd.continue.tooltip             "Hald fram med å laste &brandShortName;">
+<!ENTITY cmd.continue.tooltip             "Hald fram med lasting av &brandShortName;">
 
 <!ENTITY cmd.enableAll.label              "Slå på alt">
 <!ENTITY cmd.enableAll.accesskey          "S">
-<!ENTITY cmd.enableAll.tooltip            "Slå på dei viste utvidingane">
+<!ENTITY cmd.enableAll.tooltip            "Slå på alle dei viste utvidingane">
 <!ENTITY cmd.disableAll.label             "Slå av alt">
 <!ENTITY cmd.disableAll.accesskey         "a">
-<!ENTITY cmd.disableAll.tooltip           "Slå av dei viste utvidingane">
+<!ENTITY cmd.disableAll.tooltip           "Slå av alle dei viste utvidingane">
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "Bruk tema">
+<!ENTITY cmd.useTheme.label               "Bruk temaet">
 <!ENTITY cmd.useTheme.accesskey           "B">
-<!ENTITY cmd.useTheme.tooltip             "Endrar temaet på &brandShortName;">
+<!ENTITY cmd.useTheme.tooltip             "Endrar temaet for &brandShortName;">
 <!ENTITY cmd.options.label                "Innstillingar">
 <!ENTITY cmd.options.accesskey            "I">
 <!ENTITY cmd.options.tooltip              "Vel Innstillingar for den valde utvidinga">
@@ -58,13 +58,13 @@
 <!ENTITY cmd.optionsUnix.tooltip          "Endre innstillingar for den valde utvidinga">
 <!ENTITY cmd.enable.label                 "Slå på">
 <!ENTITY cmd.enable.accesskey             "S">
-<!ENTITY cmd.enable.tooltip               "Slå på denne utvidinga når &brandShortName; startar om">
+<!ENTITY cmd.enable.tooltip               "Slå på denne utvidinga når &brandShortName; startar nytt">
 <!ENTITY cmd.disable.label                "Slå av">
 <!ENTITY cmd.disable.accesskey            "S">
-<!ENTITY cmd.disable.tooltip              "Slå av denne utvidinga når &brandShortName; startar om">
+<!ENTITY cmd.disable.tooltip              "Slå av denne utvidinga når &brandShortName; startar på nytt">
 <!ENTITY cmd.uninstall.label              "Avinstaller">
 <!ENTITY cmd.uninstall2.accesskey         "A">
-<!ENTITY cmd.uninstall2.tooltip           "Avinstaller denne utvidinga når &brandShortName; startar om">
+<!ENTITY cmd.uninstall2.tooltip           "Avinstaller denne utvidinga når &brandShortName; startar på nytt">
 <!ENTITY cmd.cancelUninstall.label        "Avbryt avinstalleringa">
 <!ENTITY cmd.cancelUninstall.accesskey    "v">
 <!ENTITY cmd.cancelUninstall.tooltip      "Avbryt avinstalleringa av denne utvidinga">
@@ -106,18 +106,18 @@
 <!ENTITY cmd.includeUpdate.accesskey      "n">
 <!ENTITY includeUpdate.label              "Inkluder denne oppdateringa">
 <!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "Inkluder denne utvidinga når oppdateringane vert installerte">
+<!ENTITY includeUpdate.tooltip            "Inkluder denne utvidinga ved installering av oppdateringane">
 
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "Tilbyr ikkje sikre oppdateringar.">
 <!ENTITY needsDependencies.label          "Krev fleire element.">
-<!ENTITY blocklisted.label                "Slått av pga. di sikkerheit.">
-<!ENTITY softBlocklisted.label            "Kjend for å lage sikerheit- og stabilitetsproblem">
-<!ENTITY toBeDisabled.label               "Denne utvidinga vil bli slått av når &brandShortName; startar om.">
-<!ENTITY toBeEnabled.label                "Denne utvidinga vert slått på når &brandShortName; startar om.">
-<!ENTITY toBeInstalled.label              "Denne utvidinga vert installert når &brandShortName; startar om.">
-<!ENTITY toBeUninstalled.label            "Denne utvidinga vert avinstallert når &brandShortName; startar om.">
-<!ENTITY toBeUpdated.label                "Denne utvidinga vert oppdatert når &brandShortName; startar om.">
+<!ENTITY blocklisted.label                "Avslått av sikkerheitsårsaker.">
+<!ENTITY softBlocklisted.label            "Er kjend for å lage sikerheits- og stabilitetsproblem.">
+<!ENTITY toBeDisabled.label               "Denne utvidinga vil bli slått av når &brandShortName; startar på nytt.">
+<!ENTITY toBeEnabled.label                "Denne utvidinga vert slått på når &brandShortName; startar på nytt.">
+<!ENTITY toBeInstalled.label              "Denne utvidinga vert installert når &brandShortName; startar på nytt.">
+<!ENTITY toBeUninstalled.label            "Denne utvidinga vert avinstallert når &brandShortName; startar på nytt.">
+<!ENTITY toBeUpdated.label                "Denne utvidinga vert oppdatert når &brandShortName; startar på nytt.">
 
 <!ENTITY getExtensions.label              "Hent utvidingar">
 <!ENTITY getThemes.label                  "Hent tema">
@@ -137,7 +137,7 @@
 <!ENTITY cancelSearch.button              "Avbryt">
 <!ENTITY searchFailed.button              "OK">
 <!ENTITY searchResultHomepage.value       "Finn ut meir">
-<!ENTITY searchBox.label                  "Søk i alle utvidingar">
+<!ENTITY searchBox.label                  "Søk i alle utvidingane">
 <!ENTITY recommendedResults.label         "Sjå alle tilrådde utvidingar">
 <!ENTITY searchResultConnecting.label     "Koplar til …">
 <!ENTITY searchResultInstalling.label     "Installerer … ">
@@ -147,17 +147,17 @@
 <!ENTITY addonTypeTheme.label             "Tema">
 <!ENTITY missingThumbnail.label           "Inga førehandsvising">
 
-<!ENTITY previewNoThemeSelected.label     "Inkje tema vald">
+<!ENTITY previewNoThemeSelected.label     "Ingen tema valde">
 <!ENTITY previewNoPreviewImage.label      "Dette temaet har inga førehandsvising">
 <!ENTITY moreInfo.label                   "Meir informasjon">
-<!ENTITY infoNoAddonSelected.label        "Inga oppdatering vald">
+<!ENTITY infoNoAddonSelected.label        "Ingen oppdateringar valde">
 <!ENTITY infoNoUpdateInfo.label           "Denne oppdateringa har ingen tilleggsinformasjon">
-<!ENTITY infoUpdateInfoError.label        "Feil ved lasting av informasjonen om denne oppdateringa">
+<!ENTITY infoUpdateInfoError.label        "Feil under lasting av informasjonen om denne oppdateringa">
 
 <!ENTITY updateSuccess.label              "Oppdateringa er fullført.">
 <!ENTITY installSuccess.label             "Installeringa er fullført.">
-<!ENTITY installSuccessRestart.label      "Start om for å fullføre installeringa.">
-<!ENTITY updateSuccessRestart.label       "Start om for å fullføre oppdateringa.">
+<!ENTITY installSuccessRestart.label      "Start på nytt for å fullføre installeringa.">
+<!ENTITY updateSuccessRestart.label       "Start på nytt for å fullføre oppdateringa.">
 <!ENTITY installWaiting.label             "Ventar …">
 <!ENTITY installIncompatibleUpdate.label  "Kontrollerer kompatibilitet …">
 <!ENTITY installFinishing.label           "Installerer …">
@@ -168,7 +168,7 @@
 <!ENTITY eula.title                       "Lisensavtale for sluttbrukar">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Godta og installer …">
+<!ENTITY eula.accept                      "Godta avtalen og installer …">
 
 <!ENTITY blocklist.blocked.label          "Blokkert">
 <!ENTITY blocklist.checkbox.label         "Slå av">

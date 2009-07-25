@@ -8,7 +8,7 @@
 <!ENTITY previous.label "Førre">
 <!ENTITY previous.accesskey "ø">
 <!ENTITY previous.tooltip "Søkjer etter den førre førekomsten av teksten">
-<!ENTITY findCloseButton.tooltip "Lat att søkjeverktøylinja">
+<!ENTITY findCloseButton.tooltip "Lat att søkjelinja">
 <!ENTITY highlight.label "Marker tekst">
 <!ENTITY highlight.accesskey "M">
 <!ENTITY highlight.tooltiptext "Markerer alle førekomstar av teksten">

@@ -5,12 +5,12 @@
 <!ENTITY addressingText.label      "Ved adresseoppslag:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Bruk globale LDAP-tenarinnstillingar for denne kontoen.">
-<!ENTITY useGlobal.accesskey       "G">
+<!ENTITY useGlobal.accesskey       "g">
 <!ENTITY editDirectories.label     "Rediger katalogar …">
-<!ENTITY editDirectories.accesskey "K">
+<!ENTITY editDirectories.accesskey "k">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Bruk ein annan LDAP-tenar:">
-<!ENTITY directories.accesskey     "K">
+<!ENTITY directories.accesskey     "B">
 <!ENTITY directoriesNone.label     "Ingen">
 
 <!-- am-addressing.xul -->
@@ -24,10 +24,14 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Sitering:">
 <!ENTITY then.accesskey                       "r">
-<!ENTITY aboveQuote.label                     "start svaret ovanfor den siterte teksten">
-<!ENTITY belowQuote.label                     "start svaret nedanfor den siterte teksten">
-<!ENTITY selectAndQuote.label                 "merk den siterte teksten">
+<!ENTITY aboveQuote.label                     "Start svaret ovanfor den siterte teksten">
+<!ENTITY belowQuote.label                     "Start svaret nedanfor den siterte teksten">
+<!ENTITY selectAndQuote.label                 "Merk den siterte teksten">
 <!ENTITY place.label                          "Plasser signaturen min">
 <!ENTITY place.accesskey                      "P">
-<!ENTITY belowText.label                      "under sitert tekst (tilrådd)">
-<!ENTITY aboveText.label                      "under svaret mitt (over sitert tekst)">
+<!ENTITY belowText.label                      "Under sitert tekst (tilrådd)">
+<!ENTITY aboveText.label                      "Under svaret mitt (over sitert tekst)">
+<!ENTITY includeSigOnReply.label              "Inkluder signaturen min i svar">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Inkluder signaturen min i vidaresende meldingar">
+<!ENTITY includeSigOnForward.accesskey        "k">

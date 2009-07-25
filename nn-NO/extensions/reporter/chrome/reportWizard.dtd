@@ -1,17 +1,17 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title                         "Rapporter ein øydelagd nettstad">
+<!ENTITY reportWizard.title                         "Rapporter øydelagd nettstad">
 
 <!ENTITY privacyNotice.label                        "Personvern">
-<!ENTITY reportWizardPrivacy.description            "Dette verktøyet gjer det mogleg for deg å tipse støttegruppa om nettstadar som ikkje verkar skikkeleg i &brandShortName;, eller rett og slett stengjer &brandShortName; ute. På den måten kan du lett ta del i å gjere &brandShortName;-opplevinga så god som mogleg! Gjer vel og les den følgjande teksten, for å lære korleis vi nyttar informasjonen som vert samla inn om du vel å ta del i informasjonssamlinga.">
-<!ENTITY reportWizardMustAgree.description          "For å halde fram må du godkjenne personvern-avtalen ovanfor.">
+<!ENTITY reportWizardPrivacy.description            "Dette verktøyet gjer det mogleg for deg å melde frå om om nettstadar som ikkje verkar skikkeleg med &brandShortName;, eller som stengjer ute &brandShortName;. På denne måten kan du hjelpe andre &brandShortName;-brukarar med å unngå problem. Les gjennom avtalen nedanfor om korleis innsamla data vert handsama dersom du veljer å vere med.">
+<!ENTITY reportWizardMustAgree.description          "Du må godkjenne avtalen ovanfor for å halde fram.">
 
-<!ENTITY dontShowPrivacyStatement.label             "Eg har lese og godkjent personvern-avtalen.">
+<!ENTITY dontShowPrivacyStatement.label             "Eg godtek avtalen.">
 <!ENTITY dontShowPrivacyStatement.accesskey         "E">
 
 <!ENTITY reportForm.label                           "Fyll ut rapport">
 
 <!ENTITY reportForm.description                     "Skriv litt om problemet du støytte på:">
-<!ENTITY reportForm.url.title                       "Adressa til nettstaden:">
+<!ENTITY reportForm.url.title                       "Adresse:">
 <!ENTITY reportForm.url.accesskey                   "A">
 
 <!ENTITY reportForm.behind_login.title              "Nettstaden er verna med passord"><!-- No ":" at the end -->
@@ -20,21 +20,21 @@
 <!ENTITY reportForm.problem_type.title              "Problemtype:">
 <!ENTITY reportForm.problem_type.accesskey          "P">
 
-<!ENTITY reportForm.problem_type.chooseOne.title    "Vel eitt …">
+<!ENTITY reportForm.problem_type.chooseOne.title    "Vel …">
 
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
-<!ENTITY reportForm.problem_type.item1.title        "Ikkje støtte for nettlesaren">
-<!ENTITY reportForm.problem_type.item2.title        "Kan ikkje logge på">
-<!ENTITY reportForm.problem_type.item3.title        "Eit programtillegg er ikkje synleg">
-<!ENTITY reportForm.problem_type.item4.title        "Manglar anna innhald">
+<!ENTITY reportForm.problem_type.item1.title        "Nettlesaren er ikkje støtta">
+<!ENTITY reportForm.problem_type.item2.title        "Kan ikkje logge inn">
+<!ENTITY reportForm.problem_type.item3.title        "Programtillegg vert ikkje vist">
+<!ENTITY reportForm.problem_type.item4.title        "Anna innhald manglar">
 <!ENTITY reportForm.problem_type.item5.title        "Feil åtferd">
 <!ENTITY reportForm.problem_type.item6.title        "Feil utsjånad">
 <!ENTITY reportForm.problem_type.item7.title        "Anna problem">
 <!ENTITY reportForm.problem_type.item8.title        "Tilgang for funksjonshemma">
-<!ENTITY reportForm.problem_type.item9.title        "Utdata er feil">
+<!ENTITY reportForm.problem_type.item9.title        "Utskrive innhald er feil">
 
-<!ENTITY reportForm.describe.title                  "Gje ei skildring av problemet:">
-<!ENTITY reportForm.describe.accesskey              "G">
+<!ENTITY reportForm.describe.title                  "Forklar problemet:">
+<!ENTITY reportForm.describe.accesskey              "F">
 
 <!ENTITY reportForm.platform.title                  "Plattform:">
 <!ENTITY reportForm.product.title                   "Produkt:">

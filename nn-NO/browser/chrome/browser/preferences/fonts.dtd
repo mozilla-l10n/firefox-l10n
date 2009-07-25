@@ -17,8 +17,8 @@
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Skrift med fast teiknavstand:">
-<!ENTITY  monospace.accesskey                     "m">
+<!ENTITY  monospace.label                         "Fast teiknavstand:">
+<!ENTITY  monospace.accesskey                     "F">
 
 <!ENTITY  font.langGroup.latin1                   "Vestleg">
 <!ENTITY  font.langGroup.latin2                   "Sentraleuropeisk">
@@ -49,8 +49,8 @@
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
-<!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.kannada                  "Kanaresisk">
+<!ENTITY  font.langGroup.sinhala                  "Singalesisk">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minste skriftstorleik:">
 <!ENTITY minSize.accesskey                        "s">

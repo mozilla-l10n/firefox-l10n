@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "Oppsettet kan endrast i &brandShortName; Val.">
-<!ENTITY  settingsChangeOptions.label      "Oppsettet kan endrast i &brandShortName; Innstilingar.">
+<!ENTITY  settingsChangePreferences.label  "Oppsettet kan endrast i &brandShortName;, Innstillingar.">
+<!ENTITY  settingsChangeOptions.label      "Oppsettet kan endrast i &brandShortName;, Innstilingar.">

@@ -1,7 +1,7 @@
-<!ENTITY newsblogTitle.label "Kontoinnstillingar for RSS">
+<!ENTITY accountTitle.label "Kontoinnstillingar">
 
 <!ENTITY biffStart.label "Sjå etter nye artiklar med ">
-<!ENTITY biffStart.accesskey "e">
+<!ENTITY biffStart.accesskey "å">
 <!ENTITY biffEnd.label "minutt mellomrom">
 
 <!ENTITY loginAtStartup.label "Sjå etter nye artiklar ved oppstart"> 
@@ -11,10 +11,10 @@
 <!ENTITY useQuickMode.accesskey "V">
 
 <!ENTITY manageSubscriptions.label "Handsame abonnement …"> 
-<!ENTITY manageSubscriptions.accesskey "B">
+<!ENTITY manageSubscriptions.accesskey "H">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Nyhende og bloggar">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS-nyhende og -bloggar">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Bloggar og nyhendekjelder">
+<!ENTITY feeds.wizardShortName "Nyhendekjelder">
+<!ENTITY feeds.wizardLongName "Bloggar og nyhendekjelder ">
+<!ENTITY feeds.wizardLongName.accesskey "B">
