@@ -9,9 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator   " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix   "&mainWindow.titlemodifier; (privaatne veebilehitsemine)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix   "(privaatne veebilehitsemine)">
 
 <!ENTITY tabCmd.label                            "Uus kaart">
 <!ENTITY tabCmd.accesskey                        "k">
@@ -34,6 +32,8 @@
 <!ENTITY goOfflineCmd.label                      "Tööta võrguta">
 <!ENTITY goOfflineCmd.accesskey                  "T">
 
+<!ENTITY menubarCmd.label                        "Menüüriba">
+<!ENTITY menubarCmd.accesskey                    "M">
 <!ENTITY navbarCmd.label                         "Asukoha tööriistariba">
 <!ENTITY navbarCmd.accesskey                     "A">
 <!ENTITY personalbarCmd.label                    "Järjehoidjariba">
@@ -50,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey                  "i">
 <!ENTITY fullScreenCmd.label                     "Täisekraani režiim">
 <!ENTITY fullScreenCmd.accesskey                 "r">
+<!ENTITY showAllTabsCmd.label                    "Näita kõiki kaarte">
+<!ENTITY showAllTabsCmd.accesskey                "N">
 
 <!ENTITY fullScreenMinimize.tooltip              "Minimeeri">
 <!ENTITY fullScreenRestore.tooltip               "Taasta">
@@ -88,6 +90,7 @@
 <!ENTITY stopCmd.macCommandKey                   ".">
 <!ENTITY stopButton.tooltip                      "Peata selle lehe laadimine">
 <!ENTITY goEndCap.tooltip                        "Mine aadressiribal olevale aadressile">
+<!ENTITY feedButton.tooltip                      "Telli selle lehe uudisvoog…">
 <!ENTITY printButton.label                       "Prindi">
 <!ENTITY printButton.tooltip                     "Prindi see leht">
 
@@ -101,9 +104,13 @@
 
 <!ENTITY bookmarksButton.label                   "Järjehoidjad">
 <!ENTITY bookmarksButton.tooltip                 "Vaata oma järjehoidjaid">
-<!ENTITY bookmarksSidebarCmd.accesskey           "j">
-<!ENTITY bookmarksSidebarCmd.commandkey          "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey       "i">
+<!ENTITY bookmarksButton.accesskey               "j">
+<!ENTITY bookmarksCmd.commandkey                 "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey              "o">
+<!ENTITY bookmarksWinCmd.commandkey              "i">
 
 <!ENTITY historyButton.label                     "Ajalugu">
 <!ENTITY historyButton.tooltip                   "Hiljuti külastatud lehtede vaatamine">
@@ -168,8 +175,13 @@
 <!ENTITY clearRecentHistoryCmd.label             "Kustuta hiljutine ajalugu">
 <!ENTITY clearRecentHistoryCmd.accesskey         "t">
 
-<!ENTITY privateBrowsingCmd.label                "Privaatne veebilehitsemine">
-<!ENTITY privateBrowsingCmd.accesskey            "i">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label          "Alusta privaatset veebilehitsemist">
+<!ENTITY privateBrowsingCmd.start.accesskey      "A">
+<!ENTITY privateBrowsingCmd.stop.label           "Lõpeta privaatne veebilehitsemine">
+<!ENTITY privateBrowsingCmd.stop.accesskey       "L">
+<!ENTITY privateBrowsingCmd.commandkey           "P">
+
 
 <!ENTITY viewMenu.label                          "Vaade">
 <!ENTITY viewMenu.accesskey                      "V">
@@ -183,13 +195,18 @@
 <!ENTITY historyMenu.label                       "Ajalugu">
 <!ENTITY historyMenu.accesskey                   "A">
 <!ENTITY historyUndoMenu.label                   "Hiljuti suletud kaardid">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label             "Hiljuti suletud aknad">
 
 <!ENTITY historyHomeCmd.label                    "Kodu">
 <!ENTITY showAllHistoryCmd2.label                "Näita kogu ajalugu">
 <!ENTITY showAllHistoryCmd.commandkey            "H">
 
 <!ENTITY openCmd.commandkey                      "l">
-<!ENTITY urlbar.emptyText                        "Otsi järjehoidjatest ja ajaloost">
+<!ENTITY urlbar.bookmarkhistory.emptyText        "Otsi järjehoidjatest ja ajaloost">
+<!ENTITY urlbar.bookmark.emptyText               "Otsi järjehoidjatest">
+<!ENTITY urlbar.history.emptyText                "Otsi ajaloost">
+<!ENTITY urlbar.none.emptyText                   "Sisesta veebilehe aadress">
 <!ENTITY urlbar.accesskey                        "d">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -348,6 +365,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                          "Suurendamine">
 <!ENTITY fullZoom.accesskey                      "u">
 
+<!ENTITY newTabButton.tooltip                    "Ava uus kaart">
 <!ENTITY newWindowButton.tooltip                 "Ava uus aken">
 <!ENTITY sidebarCloseButton.tooltip              "Sulge külgriba">
 
@@ -430,4 +448,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip                "Klõpsa, et avada allalaadimiste aken">
 
-<!ENTITY ctrlTab.search.emptyText                "Otsi kaarte">
+<!ENTITY allTabs.filter.emptyText                "Otsi kaarte">

@@ -18,31 +18,21 @@
 <!ENTITY helpForIEUsers.label           "Internet Exploreri kasutajatele">
 <!ENTITY helpForIEUsers.accesskey       "I">
 <!ENTITY openHelp.commandkey            "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey         "/">
-<!ENTITY openHelpMac.modifiers          "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers  "accel">
+<!ENTITY helpMac.commandkey             "?">
 
 <!ENTITY helpReleaseNotes.label         "Väljalaskest">
 <!ENTITY helpReleaseNotes.accesskey     "V">
 <!ENTITY updateCmd.label                "Kontrolli uuendusi...">
-<!ENTITY updateCmd.accesskey            "e">
 
 <!ENTITY preferencesCmdMac.label        "Eelistused...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Teenused">
 
 <!ENTITY hideThisAppCmdMac.label        "Varja &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Varja teised">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Näita kõiki">

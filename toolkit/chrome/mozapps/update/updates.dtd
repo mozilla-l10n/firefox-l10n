@@ -12,6 +12,12 @@
 <!ENTITY  noupdatesautodisabled.intro    "Uuendusi ei ole praegu saadaval. Palun kontrolli hiljem uuesti või
                                           luba &brandShortName;il automaatne uuenduste kontrollimine.">
 
+<!ENTITY  manualUpdate.title              "Uuendamine pole võimalik">
+<!ENTITY  manualUpdate.desc               "Saadaval on soovitatav turvalisuse ja stabiilsuse uuendus, aga sul puuduvad
+                                           süsteemsed õigused selle paigaldamiseks. Palun võta ühendust oma süsteemiadministraatoriga
+                                           või proovi uuesti kasutajaga, millel on õigused sellesse arvutisse tarkvara paigaldada.">
+<!ENTITY  manualUpdateGetMsg.label        "Viimase versiooni &brandShortName;ist saad alati järgnevalt aadressilt:">
+
 <!ENTITY incompatibleCheck.title         "Kontrollitakse ühilduvust lisadega">
 <!ENTITY  incompatibleCheck.label        "Uuritakse, kas leidub uusi versioone sinu lisadest...">
 
