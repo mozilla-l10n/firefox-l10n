@@ -3,7 +3,7 @@
 <!ENTITY textStartUp "Při startu:">
 <!ENTITY radioRememberPrevState.label "Pamatovat si předchozí stav">
 <!ENTITY radioRememberPrevState.accesskey "P">
-<!ENTITY radioAskMe.label "Při startu se zepat na stav online">
+<!ENTITY radioAskMe.label "Při startu se dotázat na stav online">
 <!ENTITY radioAskMe.accesskey "s">
 <!ENTITY radioAlwaysOnline.label "Vždy začít v režimu online">
 <!ENTITY radioAlwaysOnline.accesskey "V">

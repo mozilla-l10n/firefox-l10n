@@ -428,7 +428,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Nástroje">
 <!ENTITY tasksMenu.accesskey "N">
-<!ENTITY messengerCmd.label "Pošta a Diskusní skupiny">
+<!ENTITY messengerCmd.label "Pošta a diskusní skupiny">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY addressBookCmd.label "Adresář">
 <!ENTITY addressBookCmd.accesskey "A">
@@ -578,7 +578,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
            basically means a message part with a content-type of text/*.
     -->
 <!ENTITY glodaSearchFacet.everything.label "Vše">
-<!ENTITY glodaSearchFacet.subject.label "Předměnt">
+<!ENTITY glodaSearchFacet.subject.label "Předmět">
 <!ENTITY glodaSearchFacet.involves.label "Účastníci (od,komu,kopie)">
 <!ENTITY glodaSearchFacet.to.label "Komu, kopie">
 <!ENTITY glodaSearchFacet.from.label "Od">
@@ -644,7 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY unreadColumn.tooltip "Počet nepřečtených zpráv ve vlákně">
 <!ENTITY totalColumn.tooltip "Celkový počet zpráv ve vlákně">
 <!ENTITY readColumn.tooltip "Klepnutím seřadíte podle přečtených">
-<!ENTITY receivedColumn.tooltip "Klepnutím seřadíte podle datumu doručení">
+<!ENTITY receivedColumn.tooltip "Klepnutím seřadíte podle data doručení">
 <!ENTITY starredColumn.tooltip "Klepnutím seřadíte podle hvězdičky">
 <!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle adresy">
 <!ENTITY idColumn.tooltip "Klepnutím seřadíte podle pořadí přijetí">

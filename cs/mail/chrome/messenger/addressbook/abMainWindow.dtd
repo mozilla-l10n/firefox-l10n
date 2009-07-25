@@ -101,7 +101,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Nástroje">
 <!ENTITY tasksMenu.accesskey "N">
-<!ENTITY messengerCmd.label "Pošta a Diskusní skupiny">
+<!ENTITY messengerCmd.label "Pošta a diskusní skupiny">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "Hledat v kontaktech…">

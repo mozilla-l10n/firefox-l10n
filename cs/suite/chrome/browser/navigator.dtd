@@ -118,7 +118,7 @@
 <!ENTITY manBookmarksCmd.label "Správce záložek…">
 <!ENTITY manBookmarksCmd.accesskey "Z">
 <!ENTITY manBookmarksCmd.commandkey "b">
-<!ENTITY feedsMenu.label "Odebíret tuto stránku">
+<!ENTITY feedsMenu.label "Odebírat tuto stránku">
 <!ENTITY feedsMenu.accesskey "O">
 <!ENTITY emptyItem.label "(Prázdná)">
 

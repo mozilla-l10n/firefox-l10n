@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Kódování:">
 <!ENTITY generalMetaName "Název">
 <!ENTITY generalMetaContent "Obsah">
-<!ENTITY  generalSecurityDetails "Podrobnosti">
-<!ENTITY  generalSecurityDetails.accesskey "P">
+<!ENTITY generalSecurityDetails "Podrobnosti">
+<!ENTITY generalSecurityDetails.accesskey "P">
 
 <!ENTITY formsTab "Formuláře">
 <!ENTITY formsTab.accesskey "F">
@@ -112,6 +112,7 @@
 <!ENTITY permTab "Povolení">
 <!ENTITY permTab.accesskey "P">
 <!ENTITY permUseDefault "Použít výchozí">
+<!ENTITY permAskAlways "Vždy se zeptat">
 <!ENTITY permAllow "Povolit">
 <!ENTITY permAllowSession "Povolit pro relaci">
 <!ENTITY permBlock "Blokovat">
@@ -120,6 +121,7 @@
 <!ENTITY permPopup "Otevírat vyskakovací okna">
 <!ENTITY permCookie "Ukládat cookies">
 <!ENTITY permInstall "Instalovat doplňky">
+<!ENTITY permGeo "Prozradit polohu">
 
 <!ENTITY securityTab "Bezpečnost">
 <!ENTITY securityTab.accesskey "B">

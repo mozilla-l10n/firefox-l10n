@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label "Obnoví indexový soubor">
 
 <!ENTITY retention.label "Pravidla uchovávání zpráv">
-<!ENTITY retentionUseDefault.label  "Použít výchozí nastavení serveru">
-<!ENTITY retentionUseDefault.accesskey "v">
+<!ENTITY retentionUseAccount.label "Použít nastavení účtu">
+<!ENTITY retentionUseAccount.accesskey "n">
 <!ENTITY daysOld.label "dny(ů)">
 <!ENTITY message.label "zprávy">
 <!ENTITY retentionCleanup.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy.">
