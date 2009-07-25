@@ -88,6 +88,7 @@
 <!ENTITY  permTab                                      "Õigused">
 <!ENTITY  permTab.accesskey                            "i">
 <!ENTITY  permUseDefault                               "Kasutatakse vaikimisi õigusi">
+<!ENTITY  permAskAlways                                "Alati küsitakse">
 <!ENTITY  permAllow                                    "Lubatud">
 <!ENTITY  permAllowSession                             "Lubatud selleks sessiooniks">
 <!ENTITY  permBlock                                    "Keelatud">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup                                    "Hüpikakende avamine">
 <!ENTITY  permCookie                                   "Küpsiste salvestamine">
 <!ENTITY  permInstall                                  "Laienduste või teemade paigaldamine">
+<!ENTITY  permGeo                                      "Asukoht avaldatakse">
 
 <!ENTITY  securityTab                                  "Turvalisus">
 <!ENTITY  securityTab.accesskey                        "r">

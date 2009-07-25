@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey                  "i">
 <!ENTITY cmd.edit_redo.key                        "Y">
 
+<!ENTITY cmd.bookmarkLink.label                   "Pane see leht järjehoidjatesse…">
+<!ENTITY cmd.bookmarkLink.accesskey               "P">
 <!ENTITY cmd.delete.label                         "Kustuta see leht">
 <!ENTITY cmd.delete.accesskey                     "K">
 <!ENTITY cmd.deleteDomainData.label               "Unusta selle lehe info">
@@ -136,18 +138,10 @@
 
 <!ENTITY search.label                             "Otsing:">
 <!ENTITY search.accesskey                         "O">
-<!ENTITY search.collection.label                  "Ainult käesolevast kogust">
-<!ENTITY search.collection.accesskey              "A">
-<!ENTITY search.allBookmarks.label                "Kõik järjehoidjad">
-<!ENTITY search.allBookmarks.accesskey            "K">
 <!ENTITY search.scopeFolder.label                 "Valitud kaust">
 <!ENTITY search.scopeFolder.accesskey             "V">
-<!ENTITY search.scopeAll.label                    "Kõik järjehoidjad">
-<!ENTITY search.scopeAll.accesskey                "j">
-<!ENTITY search.scopeMenu.label                   "Järjehoidjate menüü">
-<!ENTITY search.scopeMenu.accesskey               "m">
-<!ENTITY search.scopeToolbar.label                "Järjehoidjateriba">
-<!ENTITY search.scopeToolbar.accesskey            "h">
+<!ENTITY search.scopeBookmarks.label              "Järjehoidjad">
+<!ENTITY search.scopeBookmarks.accesskey          "h">
 <!ENTITY search.scopeDownloads.label              "Allalaadimised">
 <!ENTITY search.scopeDownloads.accesskey          "A">
 <!ENTITY search.scopeHistory.label                "Ajalugu">
@@ -205,11 +199,9 @@
 <!ENTITY maintenance.accesskey                    "I">
 
 <!ENTITY backCmd.label                            "Tagasi">
-<!ENTITY backCmd.accesskey                        "T">
 <!ENTITY backButton.tooltip                       "Mine tagasi">
 
 <!ENTITY forwardCmd.label                         "Edasi">
-<!ENTITY forwardCmd.accesskey                     "E">
 <!ENTITY forwardButton.tooltip                    "Mine edasi">
 
 <!ENTITY detailsPane.more.label                   "Rohkem">

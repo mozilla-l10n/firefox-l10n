@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey     "k">
 <!ENTITY openInNewWindow.label      "Ava uues aknas">
 <!ENTITY openInNewWindow.accesskey  "n">
-<!ENTITY bookmarkLink.label         "Pane see link järjehoidjatesse...">
-<!ENTITY bookmarkLink.accesskey     "l">
 <!ENTITY copyLink.label             "Kopeeri lingi aadress">
 <!ENTITY copyLink.accesskey         "o">

@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "i">
 <!ENTITY cmd.installFileAddon.tooltip     "Paigalda lisa">
 <!ENTITY cmd.installFileTheme.tooltip     "Paigalda teema">
-<!ENTITY cmd.installUpdatesAll.label      "Paigalda uuendused">
-<!ENTITY cmd.installUpdatesAll.accesskey  "P">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Paigalda valitud uuendused">
+<!ENTITY cmd.installUpdatesAll2.label     "Paigalda uuendused">
+<!ENTITY cmd.installUpdatesAll2.accesskey "P">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Paigalda valitud uuendused">
 <!ENTITY cmd.restartApp2.label            "Taaskäivita &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "T">
 <!ENTITY cmd.restartApp2.tooltip          "Paigalduse lõpetamiseks taaskäivita &brandShortName;">

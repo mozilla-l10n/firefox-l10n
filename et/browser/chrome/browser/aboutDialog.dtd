@@ -7,5 +7,7 @@
 <!ENTITY aboutVersion             "versioon">
 <!ENTITY closeCmdGNOME.label      "Sulge">
 <!ENTITY closeCmdGNOME.accesskey  "S">
-<!ENTITY copyrightInfo            "&#169;1998-2008 Autorid. Kõik õigused kaitstud. Firefox ja Firefoxi logod 
-                                  on Mozilla Foundation'i kaubamärgid.  Kõik õigused kaitstud.">
+<!ENTITY copyrightInfo1           "&#169;1998-2009 Autorid. Kõik õigused kaitstud. Kõik õigused kaitstud. (">
+<!ENTITY licenseLink              "about:license">
+<!ENTITY licenseLinkText          "Litsentsist täpsemalt">
+<!ENTITY copyrightInfo2           ").">
