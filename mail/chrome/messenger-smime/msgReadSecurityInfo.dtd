@@ -7,4 +7,4 @@
 <!ENTITY signer.name "Signert av:">
 <!ENTITY recipient.name "Kryptert for:">
 <!ENTITY email.address "E-postadresse:">
-<!ENTITY issuer.name "Sertifikat attestert av:">
+<!ENTITY issuer.name "Sertifikat skrive ut av:">

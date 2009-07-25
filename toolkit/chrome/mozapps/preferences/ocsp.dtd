@@ -1,5 +1,5 @@
-<!ENTITY ocspDialog.title             "Validering">
-<!ENTITY enableOCSP.label             "Bruk Online Certificate Status Protocol (OCSP) for å stadfeste at noverande sertifikat gjeld">
+<!ENTITY ocspDialog.title             "Sertifikatvalidering">
+<!ENTITY enableOCSP.label             "Bruk «Online Certificate Status Protocol» (OCSP) for å stadfeste at sertifikat gjeld">
 <!ENTITY enableOCSP.accesskey         "B">
 <!ENTITY certOCSP2.label              "Valider eit sertifikat om det spesifiserer ein OCSP-tenar">
 <!ENTITY certOCSP2.accesskey          "V">

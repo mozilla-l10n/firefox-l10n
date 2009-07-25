@@ -1,9 +1,9 @@
 <!ENTITY serverAdvanced.label "Avanserte kontoinnstillingar">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-tenarkatalog:">
-<!ENTITY serverDirectory.accesskey "T">
-<!ENTITY usingSubscription.label "Berre vis mapper du tingar">
-<!ENTITY usingSubscription.accesskey "I">
+<!ENTITY serverDirectory.accesskey "t">
+<!ENTITY usingSubscription.label "Vis berre mapper du tingar">
+<!ENTITY usingSubscription.accesskey "b">
 <!ENTITY dualUseFolders.label "Tenaren støttar mapper som inneheld undermapper og meldingar">
 <!ENTITY dualUseFolders.accesskey "T">
 <!ENTITY useIdle.label "Bruk IDLE-kommandoen om tenaren støttar det">
@@ -15,17 +15,17 @@
 <!ENTITY personalNamespace.label "Personleg namnerom:">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Offentleg (delt):">
-<!ENTITY publicNamespace.accesskey "N">
+<!ENTITY publicNamespace.accesskey "O">
 <!ENTITY otherUsersNamespace.label "Andre brukarar:">
-<!ENTITY otherUsersNamespace.accesskey "B">
+<!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Tillat tenaren å overstyre desse namneromma">
-<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY overrideNamespaces.accesskey "T">
 <!ENTITY pop3Desc.label "Nye meldingar lasta ned frå POP3-tenaren skal lagrast i denne mappa:" >
 <!ENTITY globalInbox.label "Global innboks («Lokale mapper»-kontoen)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Innboksen i kontoen til denne tenaren">
-<!ENTITY accountDirectory.accesskey "D">
+<!ENTITY accountDirectory.accesskey "n">
 <!ENTITY deferToServer.label "Innboksen i ein annan konto">
-<!ENTITY deferToServer.accesskey "a">
-<!ENTITY deferGetNewMail.label "Når det vert henta ny epost; hent frå denne tenaren òg">
-<!ENTITY deferGetNewMail.accesskey "V">
+<!ENTITY deferToServer.accesskey "b">
+<!ENTITY deferGetNewMail.label "Når det vert henta ny epost; hent frå denne kontoen òg">
+<!ENTITY deferGetNewMail.accesskey "r">

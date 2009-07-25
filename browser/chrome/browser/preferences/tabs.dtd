@@ -2,13 +2,13 @@
 <!ENTITY newWindowsAsTabs.accesskey   "e">
 
 <!ENTITY warnCloseMultipleTabs.label  "Åtvar meg når eg lèt att eit vindauge med fleire faner">
-<!ENTITY warnCloseMultipleTabs.accesskey  "v">
+<!ENTITY warnCloseMultipleTabs.accesskey  "Å">
 
 <!ENTITY warnOpenManyTabs.label       "Åtvar meg når opning av mange faner samstundes kan gjere &brandShortName; treg">
-<!ENTITY warnOpenManyTabs.accesskey   "Å">
+<!ENTITY warnOpenManyTabs.accesskey   "a">
 
-<!ENTITY showTabBar.label             "La alltid fanelinja vere synleg">
-<!ENTITY showTabBar.accesskey         "L">
+<!ENTITY showTabBar.label             "Alltid vis fanelinja">
+<!ENTITY showTabBar.accesskey         "v">
 
 <!ENTITY switchToNewTabs.label        "Når eg opnar ei lenkje i ei ny fane, byt til den fana med ein gong">
 <!ENTITY switchToNewTabs.accesskey    "N">

@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "Innhaldstype">
+<!ENTITY  typeColumn.accesskey        "I">
+
+<!ENTITY  actionColumn2.label         "Handling">
+<!ENTITY  actionColumn2.accesskey     "H">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "Søk">
+
+<!ENTITY saveTo.label                 "Lagre filer til">
+<!ENTITY saveTo.accesskey             "L">
+<!ENTITY alwaysAsk.label              "Alltid spør meg om kvar eg vil lagre filer">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "Bla gjennom …">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Vel …">
+<!ENTITY chooseFolderMac.accesskey    "V">

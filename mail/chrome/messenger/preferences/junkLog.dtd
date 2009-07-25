@@ -1,5 +1,5 @@
 <!ENTITY junkLog.title "Logg for uønskt post">
-<!ENTITY junkLogInfo.label "Loggføring av kontrollaktiviteten for uønskt e-post.">
+<!ENTITY junkLogInfo.label "Loggføring for handsaming av uønskt e-post.">
 <!ENTITY clearLog.label "Tøm logg">
 <!ENTITY clearLog.accesskey "T">
 <!ENTITY closeLog.label "Lat att">

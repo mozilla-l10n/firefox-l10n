@@ -36,7 +36,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Tøm lista">
-<!ENTITY cmd.clearList.tooltip            "Fullført fjerning av avbrotne, og mislykka nedlastingar frå lista">
+<!ENTITY cmd.clearList.tooltip            "Fjernar ferdige, avbrotne eller mislykka nedlastingar frå lista">
 <!ENTITY cmd.clearList.accesskey          "T">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

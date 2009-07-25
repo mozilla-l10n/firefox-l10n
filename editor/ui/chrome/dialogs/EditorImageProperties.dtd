@@ -45,7 +45,7 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Biletadresse:">
 <!ENTITY locationEditField.accessKey "B">
-<!ENTITY locationEditField.tooltip "Skriv inn filnamnet eller adressa åt biletet">
+<!ENTITY locationEditField.tooltip "Skriv inn filnamnet eller adressa til biletet">
 <!ENTITY title.label "Verktøytips:">
 <!ENTITY title.accessKey "V">
 <!ENTITY title.tooltip "HTML-attributtet «title» viser eit verktøytips">
@@ -62,17 +62,17 @@
 <!ENTITY actualSize.label "Verkeleg storleik:">
 <!ENTITY actualSizeRadio.label "Verkeleg storleik">
 <!ENTITY actualSizeRadio.accessKey "V">
-<!ENTITY actualSizeRadio.tooltip "Gå attende til den verkelege biletstorleiken">
+<!ENTITY actualSizeRadio.tooltip "Gå tilbake til den verkelege biletstorleiken">
 <!ENTITY customSizeRadio.label "Eigendefinert storleik">
 <!ENTITY customSizeRadio.accessKey "E">
 <!ENTITY customSizeRadio.tooltip "Endre biletstorleiken som vist på sida">
 <!ENTITY heightEditField.label "Høgd:">
 <!ENTITY heightEditField.accessKey "H">
-<!ENTITY widthEditField.label "Breidd:">
+<!ENTITY widthEditField.label "Breidde:">
 <!ENTITY widthEditField.accessKey "r">
 <!ENTITY constrainCheckbox.label "Avgrens">
-<!ENTITY constrainCheckbox.accessKey "B">
-<!ENTITY constrainCheckbox.tooltip "Hald på biletet sitt storleiksforhold">
+<!ENTITY constrainCheckbox.accessKey "A">
+<!ENTITY constrainCheckbox.tooltip "Behald storleiksforholdet til biletet">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Biletkart">
@@ -99,7 +99,7 @@
 <!ENTITY borderEditField.accessKey "H">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Vis kantlinje kring lenka bilete">
+<!ENTITY showImageLinkBorder.label "Vis kantlinje omkring lenka bilete">
 <!ENTITY showImageLinkBorder.accessKey "V">
 
 <!-- These tabs are currently used in the image input dialog -->

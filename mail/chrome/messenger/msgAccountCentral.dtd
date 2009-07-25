@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label           "Innstillingar for uønskt e-post">
 <!ENTITY offlineLink.label            "Innstillingar for fråkopla tilstand">
 
-<!ENTITY rssSectionHdr.label          "RSS-nyhende og bloggar"> 
-<!ENTITY subscibeRSS.label            "Handsame abonnement">
+<!ENTITY feedsSectionHdr.label        "Kjelder">
+<!ENTITY subscribeFeeds.label         "Handsam abonnement">

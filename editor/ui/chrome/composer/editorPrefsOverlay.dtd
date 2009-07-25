@@ -1,6 +1,7 @@
+
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
-<!ENTITY editorCheck.label "Composer">
-<!ENTITY editorCheck.accesskey "c">
+<!ENTITY editorCheck.label "Nettsideutvikling">
+<!ENTITY editorCheck.accesskey "N">
 
 <!ENTITY compose.label "Nettsideutvikling">
 <!ENTITY editing.label "Innstillingar for nye sider">

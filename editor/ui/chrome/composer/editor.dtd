@@ -45,13 +45,13 @@
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Vis">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY compositionToolbarCmd.label "Verktøylinje for komposisjon">
-<!ENTITY compositionToolbarCmd.accesskey "C">
-<!ENTITY formattingToolbarCmd.label "Verktøylinje for format">
-<!ENTITY formattingToolbarCmd.accesskey "F">
-<!ENTITY editmodeToolbarCmd.label "Verktøylinje for redigeringsmodus">
-<!ENTITY editmodeToolbarCmd.accesskey "E">
+<!ENTITY compositionToolbarCmd.label "Forfattarlinje">
+<!ENTITY compositionToolbarCmd.accesskey "F">
+<!ENTITY formattingToolbarCmd.label "Formateringslinje">
+<!ENTITY formattingToolbarCmd.accesskey "o">
+<!ENTITY editmodeToolbarCmd.label "Redigeringslinje">
+<!ENTITY editmodeToolbarCmd.accesskey "R">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.label "Formatering">
 <!ENTITY formatMenu.accesskey "o">

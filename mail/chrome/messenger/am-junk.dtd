@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Søppel-e-post-innstillingar">
-<!ENTITY trainingWarning.label "Dersom denne funksjonen er slått på, må du først trene opp &brandShortName; til å kjenne att uønskt e-post (t.d. reklame) ved å bruke Uønskt-knappen i verktøylinja for å merke meldingar som er uønskte. Du må identifisere både ønskte e-postar og ikkje ønskte e-postar.">
-<!ENTITY level.label "Slå på adaptivt filter for uønskt e-post på denne kontoen">
-<!ENTITY level.accesskey "E">
+<!ENTITY junkSettings.label "Innstillingar for uønskt post">
+<!ENTITY trainingWarning.label "Dersom denne funksjonen er slått på, må du først trene opp &brandShortName; til å oppdage uønskt e-post (t.d. uønskt reklame) ved å bruke verktøylinja for å merke meldingar som er uønskte. Du må identifisere både ønskte og uønskte meldingar. ">
+<!ENTITY level.label "Tillat adaptivt filter for uønskt e-post på denne kontoen">
+<!ENTITY level.accesskey "T">
 
 <!ENTITY move.label "Flytt meldingar til:">
 <!ENTITY move.accesskey "F">
 <!ENTITY junkFolderOn.label "«Uønskt»-mappa på:">
-<!ENTITY junkFolderOn.accesskey "u">
+<!ENTITY junkFolderOn.accesskey "U">
 <!ENTITY otherFolder.label "Anna:">
 <!ENTITY otherFolder.accesskey "A">
-<!ENTITY purge1.label "Slett automatisk uønskt e-post som er eldre enn">
-<!ENTITY purge1.accesskey "u">
+<!ENTITY purge1.label "Automatisk slett uønskt e-post eldre enn">
+<!ENTITY purge1.accesskey "A">
 <!ENTITY purge2.label "dagar">
 
 <!ENTITY whitelist.label "Ikkje merk e-post som uønskt dersom avsendaren er i: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelist.accesskey "I">
 
-<!ENTITY ispHeaders.label "Stol på meldingshovud om uønskt-status som er bestemt av: ">
+<!ENTITY ispHeaders.label "Stol på meldingshovud om uønskt-status bestemt av: ">
 <!ENTITY ispHeaders.accesskey "S">

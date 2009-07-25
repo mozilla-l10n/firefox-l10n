@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title  "Standardprogram">
-<!ENTITY defaultClient.intro  "Bruk &brandShortName; som standardprogram for:">
-
-<!ENTITY email.label "E-post">
-<!ENTITY newsgroups.label "Nyhendegrupper">
-<!ENTITY rss.label "RSS-nyhendekjelder">
-
-<!ENTITY checkOnStartup.label "Konroller alltid dette når &brandShortName; startar">
-<!ENTITY checkOnStartup.accesskey "A">

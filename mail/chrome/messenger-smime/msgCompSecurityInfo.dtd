@@ -10,5 +10,5 @@
 <!ENTITY view.accesskey "V">
 <!ENTITY tree.recipient "Mottakar">
 <!ENTITY tree.status "Status">
-<!ENTITY tree.issuedDate "Attestert">
+<!ENTITY tree.issuedDate "Skrive ut">
 <!ENTITY tree.expiresDate "Går ut på dato">

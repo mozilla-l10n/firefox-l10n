@@ -1,27 +1,27 @@
-<!ENTITY  connectionsDialog.title       "Innstillingar for tilkopling">
+<!ENTITY  connectionsDialog.title       "Tilkoplingsinnstillingar">
 <!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "Konfigurer mellomtenarar for tilgang til Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen mellomtenar">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  noProxyTypeRadio.accesskey    "I">
 <!ENTITY  systemTypeRadio.label         "Bruk systeminnstillingar for mellomtenar">
-<!ENTITY  systemTypeRadio.accesskey     "u">
-<!ENTITY  WPADTypeRadio.label           "Oppdag mellomtenar-innstillingane for dette nettverket automatisk">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  systemTypeRadio.accesskey     "B">
+<!ENTITY  WPADTypeRadio.label           "Automatisk oppdag mellomtenar-innstillingar:">
+<!ENTITY  WPADTypeRadio.accesskey       "A">
 <!ENTITY  manualTypeRadio.label         "Manuelle mellomtenar-innstillingar:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Automatisk konfigurasjons-adresse for mellomtenar:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Oppdater">
 <!ENTITY  reload.accesskey              "O">
 <!ENTITY  http.label                    "HTTP:">
-<!ENTITY  http.accesskey                "h">
+<!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL:">
-<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS-vert:">
-<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "Port:">

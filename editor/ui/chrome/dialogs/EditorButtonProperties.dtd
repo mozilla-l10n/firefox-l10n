@@ -41,7 +41,7 @@
 <!ENTITY ButtonType.label "Type">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Send">
-<!ENTITY reset.value "Still attende">
+<!ENTITY reset.value "Still tilbake">
 <!ENTITY button.value "Knapp">
 
 <!ENTITY ButtonName.label "Namn:">
@@ -50,10 +50,10 @@
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Tabulatorindeks">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Avslegen">
-<!ENTITY ButtonDisabled.accesskey "A">
+<!ENTITY ButtonDisabled.label "Slått av">
+<!ENTITY ButtonDisabled.accesskey "S">
 <!ENTITY AccessKey.label "Hurtigtast:">
 <!ENTITY AccessKey.accesskey "H">
 
 <!ENTITY RemoveButton.label "Fjern knapp">
-<!ENTITY RemoveButton.accesskey "R">
+<!ENTITY RemoveButton.accesskey "F">
