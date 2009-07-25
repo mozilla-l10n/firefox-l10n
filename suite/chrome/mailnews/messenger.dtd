@@ -282,8 +282,8 @@
 <!ENTITY goMenu.accesskey "P">
 <!ENTITY nextMenu.label "Další">
 <!ENTITY nextMenu.accesskey "D">
-<!ENTITY nextMsgCmd.label "Message">
-<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.label "Zpráva">
+<!ENTITY nextMsgCmd.accesskey "Z">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Nepřečtená zpráva">
 <!ENTITY nextUnreadMsgCmd.accesskey "N">
@@ -399,8 +399,8 @@
 <!ENTITY markAllReadCmd.label "Vše přečtené">
 <!ENTITY markAllReadCmd.accesskey "V">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Flag">
-<!ENTITY markFlaggedCmd.accesskey "F">
+<!ENTITY markFlaggedCmd.label "S praporkem">
+<!ENTITY markFlaggedCmd.accesskey "p">
 <!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Nevyžádaná">
 <!ENTITY markAsJunkCmd.accesskey "V">
@@ -512,8 +512,8 @@
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "Odpovědět všem">
 <!ENTITY contextReplyAll.accesskey "O">
-<!ENTITY contextReplySenderAndNewsgroup.label "Reply to Sender and Newsgroup">
-<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
+<!ENTITY contextReplySenderAndNewsgroup.label "Odpovědět odesílateli a do diskusní skupiny">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "d">
 <!ENTITY contextForward.label "Přeposlat">
 <!ENTITY contextForward.accesskey "P">
 <!ENTITY contextForwardAsAttachment.label "Přeposlat jako přílohy">

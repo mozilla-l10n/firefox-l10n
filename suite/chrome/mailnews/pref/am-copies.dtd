@@ -32,6 +32,6 @@
 <!ENTITY templateInOtherFolder.label "Další:">
 <!ENTITY templateInOtherFolder.accesskey "l">
 <!ENTITY specialFoldersTitle.label "Koncepty a šablony">
-<!ENTITY keepDrafts.label "Keep message drafts in:">
+<!ENTITY keepDrafts.label "Uchovávat koncepty zpráv v:">
 <!ENTITY keepArchives.label "Uchovávat archív zpráv v:">
-<!ENTITY keepTempltes.label "Zachovat šablony zpráv v:">
+<!ENTITY keepTempltes.label "Uchovávat šablony zpráv v:">

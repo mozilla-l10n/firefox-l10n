@@ -108,4 +108,4 @@
 <!ENTITY deferStorage.label "Použít globální Doručenou poštu (ukládat poštu v Místních složkách)">
 <!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Klepněte na Dokončit pro uložení nastavení a ukončení průvodce.">
-<!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">
+<!ENTITY clickFinish.labelMac "Klepněte na Hotovo pro uložení nastavení a ukončení průvodce.">

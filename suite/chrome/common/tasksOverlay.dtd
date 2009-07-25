@@ -29,7 +29,7 @@
 <!ENTITY passwordManagerCmd.label "Správce hesel">
 <!ENTITY passwordManagerCmd.accesskey "h">
 
-<!ENTITY passwordDisplayCmd.label "Spravovat uložená hesle">
+<!ENTITY passwordDisplayCmd.label "Spravovat uložená hesla">
 <!ENTITY passwordDisplayCmd.accesskey "u">
 
 <!ENTITY passwordExpireCmd.label "Odhlásit">

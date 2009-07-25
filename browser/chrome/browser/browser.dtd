@@ -50,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Celá obrazovka">
 <!ENTITY fullScreenCmd.accesskey "C">
+<!ENTITY showAllTabsCmd.label "Zobrazit všechny panely">
+<!ENTITY showAllTabsCmd.accesskey "b">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovat">
 <!ENTITY fullScreenRestore.tooltip "Obnovit">
@@ -444,4 +446,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Klepnutí otevře správce stahování">
 
-<!ENTITY ctrlTab.search.emptyText "Prohledat panely">
+<!ENTITY allTabs.filter.emptyText "Prohledat panely">

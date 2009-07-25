@@ -66,7 +66,7 @@
 <!ENTITY unreadColumn.tooltip "Počet nepřečtených zpráv ve vlákně">
 <!ENTITY totalColumn.tooltip "Celkový počet zpráv ve vlákně">
 <!ENTITY readColumn.tooltip "Klepnutím seřadíte podle přečtených">
-<!ENTITY receivedColumn.tooltip "Klepnutím seřadíte podle datumu doručení">
+<!ENTITY receivedColumn.tooltip "Klepnutím seřadíte podle data doručení">
 <!ENTITY starredColumn.tooltip "Klepnutím seřadíte podle hvězdičky">
 <!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle umístění">
 <!ENTITY idColumn.tooltip "Klepnutím seřadíte podle pořadí přijetí">
