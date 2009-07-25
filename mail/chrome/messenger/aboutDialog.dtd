@@ -1,9 +1,16 @@
 <!ENTITY aboutDialog.title "Пра &brandFullName;">
 <!ENTITY credits.label "Удзельнікі">
 <!ENTITY credits.accesskey "У">
-<!ENTITY aboutLink.label "&lt; Пра &brandFullName;">
-<!ENTITY aboutLink.accesskey "П">
+<!ENTITY aboutButton.label "&lt; Назад">
+<!ENTITY aboutButton.accesskey "Н">
 <!ENTITY aboutVersion "версія">
-<!ENTITY copyrightText "©1998-2008 Укладчыкі. Усе правы абаронены. Mozilla Thunderbird і эмблема
+<!ENTITY copyrightText "©1998-2009 Укладчыкі. Усе правы засцярожаны. Mozilla Thunderbird і эмблема
                                  Thunderbird – гандлёвыя маркі Mozilla Foundation.
-				 Усе правы абаронены.">
+				 Усе правы засцярожаны.">
+<!ENTITY aboutMenu.label "Пра">
+<!ENTITY aboutMenu.accesskey "П">
+<!ENTITY aboutRights.label "Вашы правы">
+<!ENTITY aboutRights.accesskey "В">
+<!ENTITY aboutContributors.label "Укладчыкі">
+<!ENTITY aboutContributors.accesskey "к">
+<!ENTITY cmdCloseMac.commandKey "w">

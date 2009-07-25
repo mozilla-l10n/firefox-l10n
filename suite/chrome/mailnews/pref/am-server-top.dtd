@@ -8,21 +8,15 @@
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "П">
 <!ENTITY serverPortDefault.label "Змоўчны:">
-<!ENTITY savePassword.label "Запамінаць пароль">
 <!ENTITY biffStart.label "Правяраць, ці існуюць новыя лісты, кожныя">
 <!ENTITY biffStart.accesskey "а">
 <!ENTITY biffEnd.label "хвілінаў">
-<!ENTITY isSecure.label "Карыстацца бяспечным злучэннем (SSL)">
-<!ENTITY isSecure.accesskey "б">
-<!ENTITY socketType.label "Ужываць бяспечнае злучэнне:">
-<!ENTITY neverSecure.label "Ніколі">
-<!ENTITY neverSecure.accesskey "н">
-<!ENTITY sometimesSecure.label "TLS, калі даступны">
-<!ENTITY sometimesSecure.accesskey "д">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Бяспека злучэння.">
+<!ENTITY connectionSecurity.accesskey "Б">
+<!ENTITY connectionSecurityType-0.label "Няма">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, калі даступна">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Ужываць бяспечнае апазнаванне">
 <!ENTITY useSecAuth.accesskey "б">
 <!ENTITY leaveOnServer.label "Пакідаць лісты на паслугачы">

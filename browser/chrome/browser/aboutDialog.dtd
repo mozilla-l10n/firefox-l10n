@@ -7,6 +7,7 @@
 <!ENTITY aboutVersion "версія">
 <!ENTITY closeCmdGNOME.label "Закрыць">
 <!ENTITY closeCmdGNOME.accesskey "к">
-<!ENTITY copyrightInfo "©1998-2008 Укладчыкі. Усе правы абаронены. Firefox і эмблема
-                                 Firefox – гандлёвыя маркі Mozilla Foundation.
-                                 Усе правы абаронены.">
+<!ENTITY copyrightInfo1 "©1998-2009 Укладчыкі. Усе правы засцярожаны. (">
+<!ENTITY licenseLink "about:license">
+<!ENTITY licenseLinkText "Звесткі пра ліцэнзію">
+<!ENTITY copyrightInfo2 ").">

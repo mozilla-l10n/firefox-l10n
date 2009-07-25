@@ -1,4 +1,5 @@
 <!ENTITY brandShortName "Shiretoko">
 <!ENTITY brandFullName "Shiretoko">
 <!ENTITY vendorShortName "mozilla.org">
+<!ENTITY logoCopyright " ">
 <!ENTITY releaseBaseURL "http://www.mozilla.org/projects/shiretoko/releases/">

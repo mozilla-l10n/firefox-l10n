@@ -19,9 +19,9 @@
 <!ENTITY cmd.installLocalFile.accesskey "с">
 <!ENTITY cmd.installFileAddon.tooltip "Усталяваць дадатак">
 <!ENTITY cmd.installFileTheme.tooltip "Усталяваць тэму">
-<!ENTITY cmd.installUpdatesAll.label "Усталяваць абнаўленні">
-<!ENTITY cmd.installUpdatesAll.accesskey "У">
-<!ENTITY cmd.installUpdatesAll.tooltip "Усталяваць вылучаныя абнаўленні">
+<!ENTITY cmd.installUpdatesAll2.label "Усталяваць абнаўленні">
+<!ENTITY cmd.installUpdatesAll2.accesskey "У">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Усталяваць вылучаныя абнаўленні">
 <!ENTITY cmd.restartApp2.label "Перазапусціць &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "П">
 <!ENTITY cmd.restartApp2.tooltip "Перазапусціць &brandShortName;, каб ужыць змяненні">

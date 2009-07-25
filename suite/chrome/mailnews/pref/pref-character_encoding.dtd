@@ -9,4 +9,4 @@
 <!ENTITY sendDefaultCharset.label "Змоўчная кадоўка знакаў:">
 <!ENTITY sendDefaultCharset.accesskey "д">
 <!ENTITY replyInDefaultCharset2.label "Ужываць, калі магчыма, змоўчную кадоўку знакаў у адказах. (Калі неадзначана, выкарыстоўваць яе будуць толькі новыя лісты.)">
-<!ENTITY replyInDefaultCharset2.accesskey "W">
+<!ENTITY replyInDefaultCharset2.accesskey "ж">

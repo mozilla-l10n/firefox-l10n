@@ -10,7 +10,7 @@
 <!ENTITY proportional.label "Суадносны:">
 <!ENTITY proportional.accesskey "С">
 <!ENTITY serif.label "З засечкамі:">
-<!ENTITY serif.accesskey "э">
+<!ENTITY serif.accesskey "З">
 <!ENTITY sans-serif.label "Без засечак:">
 <!ENTITY sans-serif.accesskey "б">
 <!ENTITY monospace.label "Роўнашырокі:">
@@ -56,4 +56,4 @@
 <!ENTITY viewDefaultCharsetList.label "Уваходная пошта:">
 <!ENTITY viewDefaultCharsetList.accesskey "У">
 <!ENTITY replyInDefaultCharset2.label "Ужываць, калі магчыма, змоўчную кадоўку знакаў у адказах">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset2.accesskey "ж">

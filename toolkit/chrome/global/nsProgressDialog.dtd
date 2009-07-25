@@ -44,7 +44,7 @@
 <!ENTITY openingSource "Адчыняецца з:">
 <!ENTITY openingTarget "З:">
 <!ENTITY unknownSavingTitle "Захаванне #1">
-<!ENTITY unknownOpeningTitle "Адчынянне #1">
+<!ENTITY unknownOpeningTitle "Адкрыццё #1">
 <!ENTITY status "Статус:">
 <!ENTITY timeElapsed "Мінулы час:">
 <!ENTITY timeLeft "Засталося часу:">

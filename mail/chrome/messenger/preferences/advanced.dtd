@@ -1,10 +1,25 @@
 <!ENTITY itemGeneral.label "Асноўныя">
 <!ENTITY itemDisplay.label "Чытанне і адлюстраванне">
-<!ENTITY itemUpdate.label "Абнавіць">
+<!ENTITY itemUpdate.label "Абнаўленне">
 <!ENTITY itemNetworking.label "Сетка і дыскавая прастора">
 <!ENTITY itemCertificates.label "Пасведчанні">
-<!ENTITY enableGloda.label "Дазволіць паказальнік лістоў">
-<!ENTITY enableGloda.accesskey "п">
+<!ENTITY enableGlodaSearch.label "Дазволіць агульныя пошук і стварэнне паказнікаў">
+<!ENTITY enableGlodaSearch.accesskey "а">
+<!ENTITY systemIntegration.label "Узаемадзеянне з сістэмай">
+<!ENTITY alwaysCheckDefault.label "Заўсёды правяраць пры запуску, ці з'яўляецца &brandShortName; змоўчным спажыўцом пошты">
+<!ENTITY alwaysCheckDefault.accesskey "ў">
+<!ENTITY searchIntegration.label "Дазволіць &searchIntegration.engineName; шукаць лісты">
+<!ENTITY searchIntegration.accesskey "Д">
+<!ENTITY checkNow.label "Праверыць зараз">
+<!ENTITY checkNow.accesskey "з">
+<!ENTITY configEditDesc.label "Пашыраная наладка">
+<!ENTITY configEdit.label "Рэдактар наладкі…">
+<!ENTITY configEdit.accesskey "Р">
+<!ENTITY returnReceiptsInfo.label "Вызначыць, як &brandShortName; апрацоўвае квіткі атрымання">
+<!ENTITY showReturnReceipts.label "Квіткі атрымання…">
+<!ENTITY showReturnReceipts.accesskey "К">
+<!ENTITY reading.caption "Чытанне">
+<!ENTITY display.caption "Адлюстраванне">
 <!ENTITY showCondensedAddresses.label "Паказваць толькі адлюстравальнае імя для людзей з маёй адраснай кнігі">
 <!ENTITY showCondensedAddresses.accesskey "П">
 <!ENTITY autoMarkAsRead.label "Самастойна пазначаць лісты прачытанымі">
@@ -14,33 +29,26 @@
 <!ENTITY markAsReadDelay.label "Пасля адлюстравання на працягу">
 <!ENTITY markAsReadDelay.accesskey "П">
 <!ENTITY secondsLabel.label "секундаў">
-<!ENTITY showFolderColumns.label "Паказваць пашыраныя слупкі ў шыбе папак">
-<!ENTITY showFolderColumns.accesskey "п">
-<!ENTITY openMsgIn.label "Адчыняць лісты ў:">
+<!ENTITY openMsgIn.label "Адчыняць лісты:">
+<!ENTITY openMsgInNewTab.label "У новай устаўцы">
+<!ENTITY openMsgInNewTab.accesskey "у">
 <!ENTITY reuseExpRadio0.label "У новым акне лістоў">
 <!ENTITY reuseExpRadio0.accesskey "н">
 <!ENTITY reuseExpRadio1.label "У існым акне лістоў">
 <!ENTITY reuseExpRadio1.accesskey "і">
-<!ENTITY configEditDesc.label "Пашыраная наладка">
-<!ENTITY configEdit.label "Рэдактар наладкі…">
-<!ENTITY configEdit.accesskey "Р">
-<!ENTITY returnReceiptsInfo.label "Вызначыць, як &brandShortName; апрацоўвае квіткі атрымання">
-<!ENTITY showReturnReceipts.label "Квіткі атрымання…">
-<!ENTITY showReturnReceipts.accesskey "К">
-<!ENTITY reading.caption "Чытанне">
-<!ENTITY display.caption "Адлюстраванне">
+<!ENTITY closeMsgWindowOnDelete.label "Закрыць адно ліста пры выдаленні">
+<!ENTITY closeMsgWindowOnDelete.accesskey "к">
 <!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні да:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Усталяваных дадаткаў">
 <!ENTITY enableAddonsUpdate.accesskey "У">
-<!ENTITY checkNow.label "Праверыць зараз…">
 <!ENTITY whenUpdatesFound.label "Калі знойдзены абнаўленні &brandShortName;:">
 <!ENTITY modeAskMe.label "Спытаць мяне, што я хачу зрабіць">
 <!ENTITY modeAskMe.accesskey "С">
 <!ENTITY modeAutomatic.label "Самастойна загружаць і ўсталёўваць абнаўленне">
 <!ENTITY modeAutomatic.accesskey "ў">
-<!ENTITY modeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забароняцца мае дадаткі">
+<!ENTITY modeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забараняцца мае дадаткі">
 <!ENTITY modeAutoAddonWarn.accesskey "П">
 <!ENTITY showUpdates.label "Паказаць гісторыю абнаўленняў">
 <!ENTITY showUpdates.accesskey "г">

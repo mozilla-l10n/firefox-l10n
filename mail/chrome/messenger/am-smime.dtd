@@ -1,17 +1,27 @@
 <!ENTITY securityTitle.label "Бяспека">
+<!ENTITY securityTab.label "Бяспека">
 <!ENTITY securityHeading.label "Каб дасылаць і атрымліваць падпісаныя ці тайнапісныя лісты, вы мусіце вызначыць разам пасведчанне лічбавага падпісання і пасведчанне шыфравання. ">
 <!ENTITY encryptionGroupTitle.label "Шыфраванне">
 <!ENTITY encryptionChoiceLabel.label "Змоўчнае наладжванне шыфравання для лістоў, якія дасылаюцца:">
 <!ENTITY neverEncrypt.label "Ніколі (не ўжываць шыфраванне)">
+<!ENTITY neverEncrypt.accesskey "Н">
 <!ENTITY alwaysEncryptMessage.label "Патрабуецца (немагчыма даслаць ліст, калі не ўсе атрымальнікі маюць пасведчанні)">
+<!ENTITY alwaysEncryptMessage.accesskey "П">
 <!ENTITY encryptionCert.message "Ужываць гэтае пасведчанне, каб шыфраваць і расшыфроўваць лісты, што дасылаюцца да вас:">
-<!ENTITY certificate.button "Вылучыць…">
-<!ENTITY certificate_clear.button "Ачысціць">
+<!ENTITY digitalSign.certificate.button "Вылучыць…">
+<!ENTITY digitalSign.certificate.accesskey "В">
+<!ENTITY digitalSign.certificate_clear.button "Ачысціць">
+<!ENTITY digitalSign.certificate_clear.accesskey "А">
+<!ENTITY encryption.certificate.button "Вылучыць…">
+<!ENTITY encryption.certificate.accesskey "ы">
+<!ENTITY encryption.certificate_clear.button "Ачысціць">
+<!ENTITY encryption.certificate_clear.accesskey "ч">
 <!ENTITY signingGroupTitle.label "Лічбавае падпісанне">
 <!ENTITY signMessage.label "Лічбава падпісваць лісты (змоўчна)">
+<!ENTITY signMessage.accesskey "Л">
 <!ENTITY signingCert.message "Ужываць гэтае пасведчанне, каб лічбава падпісваць лісты, што вы адсылаеце:">
 <!ENTITY certificates.label "Пасведчанні">
-<!ENTITY managecerts.label "Прагляд пасведчанняў">
-<!ENTITY managecerts.accesskey "П">
-<!ENTITY managedevices.label "Збудовы бяспекі">
-<!ENTITY managedevices.accesskey "б">
+<!ENTITY manageCerts.label "Прагляд пасведчанняў">
+<!ENTITY manageCerts.accesskey "г">
+<!ENTITY manageDevices.label "Збудовы бяспекі">
+<!ENTITY manageDevices.accesskey "б">

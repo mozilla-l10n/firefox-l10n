@@ -22,3 +22,7 @@
 <!ENTITY place.accesskey "м">
 <!ENTITY belowText.label "пад вытрымкаю (раіцца)">
 <!ENTITY aboveText.label "пад маім адказам (над вытрымкаю)">
+<!ENTITY includeSigOnReply.label "Уключаць подпіс у адказы">
+<!ENTITY includeSigOnReply.accesskey "а">
+<!ENTITY includeSigOnForward.label "Уключаць подпіс у перанакіраванні">
+<!ENTITY includeSigOnForward.accesskey "к">

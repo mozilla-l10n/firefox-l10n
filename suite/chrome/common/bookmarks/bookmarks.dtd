@@ -81,8 +81,6 @@
 <!ENTITY command.sortFolderByName.accesskey "Н">
 <!ENTITY menuitem.view.command.toolbar.label "Паліца з прыладамі">
 <!ENTITY menuitem.view.command.toolbar.accesskey "П">
-<!ENTITY menuitem.view.command.searchbar.label "Паліца пошуку">
-<!ENTITY menuitem.view.command.searchbar.accesskey "ш">
 <!ENTITY menuitem.view.show_columns.label "Паказваць слупкі">
 <!ENTITY menuitem.view.show_columns.accesskey "с">
 <!ENTITY menuitem.newbookmarkfolder.label "Усталяваць як папку новых закладак">
@@ -92,19 +90,26 @@
 <!ENTITY menuitem.personaltoolbarfolder.label "Усталяваць як папку паліцы ўласных прыладаў">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "А">
 <!ENTITY treecol.name.label "Назва">
+<!ENTITY treecol.name.accesskey "Н">
 <!ENTITY treecol.name.tooltip "Пстрыкніце, каб размеркаваць па назвам">
 <!ENTITY treecol.url.label "Месцазнаходжанне">
+<!ENTITY treecol.url.accesskey "М">
 <!ENTITY treecol.url.tooltip "Пстрыкніце, каб размеркаваць па месцазнаходжанню">
 <!ENTITY treecol.shortcut.label "Ключавое слова">
+<!ENTITY treecol.shortcut.accesskey "К">
 <!ENTITY treecol.shortcut.tooltip "Пстрыкніце, каб размеркаваць па ключавым словам">
 <!ENTITY treecol.description.label "Апісанне">
+<!ENTITY treecol.description.accesskey "А">
 <!ENTITY treecol.description.tooltip "Пстрыкніце, каб размеркаваць па апісанню">
 <!ENTITY treecol.addedon.label "Дададзена">
+<!ENTITY treecol.addedon.accesskey "Д">
 <!ENTITY treecol.addedon.tooltip "Пстрыкніце, каб размеркаваць па дадаванню">
 <!ENTITY treecol.lastmod.label "Апошняе змяненне">
+<!ENTITY treecol.lastmod.accesskey "з">
 <!ENTITY treecol.lastmod.tooltip "Пстрыкніце, каб размеркаваць па апошняму змяненню">
 <!ENTITY treecol.lastvisit.label "Апошняе наведванне">
+<!ENTITY treecol.lastvisit.accesskey "е">
 <!ENTITY treecol.lastvisit.tooltip "Пстрыкніце, каб размеркаваць па апошняму наведванню">
 <!ENTITY bookmarksWindowTitle.label "Кіраўнік закладак">
-<!ENTITY search.label "Пошук">
-<!ENTITY search.accesskey "ш">
+<!ENTITY search.emptytext "Шукаць закладкі">
+<!ENTITY search.key "f">

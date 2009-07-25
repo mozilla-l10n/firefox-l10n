@@ -1,9 +1,3 @@
-<!ENTITY systemDefaults.label "Сістэмныя змоўчкі">
-<!ENTITY alwaysCheckDefault.label "Заўсёды правяраць пры запуску, ці з'яўляецца &brandShortName; змоўчным спажыўцом пошты">
-<!ENTITY alwaysCheckDefault.accesskey "ў">
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "Праверыць зараз">
-<!ENTITY checkNow.accesskey "р">
 <!ENTITY messengerStartPage.label "Пачатковая старонка &brandShortName;">
 <!ENTITY enableStartPage.label "Паказваць пачатковую старонку ў абсягу ліста, калі &brandShortName; запускаецца">
 <!ENTITY enableStartPage.accesskey "б">

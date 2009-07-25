@@ -1,5 +1,3 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
 <!ENTITY certerror.pagetitle "Злучэнне, якому няма даверу">
 <!ENTITY certerror.longpagetitle "Гэтаму злучэнню няма даверу">
 <!ENTITY certerror.introPara1 "Вы запрасілі &brandShortName; бяспечна

@@ -39,7 +39,6 @@
 <!ENTITY closeCmd.label "Зачыніць">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ч">
-<!ENTITY closeWindow.label "Зачыніць вакно">
 <!ENTITY quitApplicationCmd.label "Выйсці">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "В">

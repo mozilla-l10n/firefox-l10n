@@ -11,8 +11,12 @@
 <!ENTITY replyTo.accesskey "З">
 <!ENTITY organization.label "Установа:">
 <!ENTITY organization.accesskey "У">
-<!ENTITY signature.label "Далучыць гэты подпіс:">
-<!ENTITY signature.accesskey "п">
+<!ENTITY signatureText.label "Тэкст подпісу:">
+<!ENTITY signatureText.accesskey "п">
+<!ENTITY signatureHtml.label "Ужываць HTML (напрыклад: &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "ж">
+<!ENTITY signatureFile.label "Ужываць замест подпіс з файла (тэкст, HTML або выява):">
+<!ENTITY signatureFile.accesskey "ф">
 <!ENTITY edit.label "Рэдагаваць…">
 <!ENTITY choose.label "Выбраць…">
 <!ENTITY choose.accesskey "В">

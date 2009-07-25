@@ -1,12 +1,12 @@
 <!ENTITY history.label "Гісторыя">
-<!ENTITY rememberDaysBefore.label "Трымаць маю гісторыю прынамсі">
-<!ENTITY rememberDaysBefore.accesskey "г">
-<!ENTITY rememberDaysAfter2.label "дзён">
-<!ENTITY rememberForms.label "Памятаць, што я ўводзіў у формы і на паліцы пошуку">
-<!ENTITY rememberForms.accesskey "ф">
-<!ENTITY rememberDownloads.label "Памятаць, што я выпампоўваў">
-<!ENTITY rememberDownloads.accesskey "п">
-<!ENTITY cookies.label "Біркі">
+<!ENTITY locationBar.label "Паліца месцазнаходжання">
+<!ENTITY locbar.pre.label "Калі выкарыстоўваецца паліца месцазнаходжання, прапаноўваць:">
+<!ENTITY locbar.pre.accessKey "ц">
+<!ENTITY locbar.post.label "">
+<!ENTITY locbar.both.label "Гісторыю і закладкі">
+<!ENTITY locbar.history.label "Гісторыю">
+<!ENTITY locbar.bookmarks.label "Закладкі">
+<!ENTITY locbar.nothing.label "Нічога">
 <!ENTITY acceptCookies.label "Набываць біркі з пляцовак">
 <!ENTITY acceptCookies.accesskey "б">
 <!ENTITY acceptThirdParty.label "Набываць пабочныя біркі">
@@ -20,13 +20,32 @@
 <!ENTITY cookieExceptions.accesskey "В">
 <!ENTITY showCookies.label "Паказаць біркі…">
 <!ENTITY showCookies.accesskey "П">
-<!ENTITY privateData.label "Прыватныя даныя">
-<!ENTITY alwaysClear.label "Заўсёды ачышчаць мае прыватныя даныя перад закрыццём &brandShortName;">
-<!ENTITY alwaysClear.accesskey "ў">
-<!ENTITY askBeforeClear.label "Спытаць мяне перад ачысткаю прыватных даных">
-<!ENTITY askBeforeClear.accesskey "С">
-<!ENTITY clearDataSettings.label "Наладжванні…">
-<!ENTITY clearDataSettings.accesskey "л">
-<!ENTITY clearDataNow.label "Ачысціць зараз…">
-<!ENTITY clearDataNow.label2 "Ачысціць зараз">
-<!ENTITY clearDataNow.accesskey "з">
+<!ENTITY historyHeader.pre.label "&brandShortName; павінен:">
+<!ENTITY historyHeader.pre.accesskey "F">
+<!ENTITY historyHeader.remember.label "Памятаць гісторыю">
+<!ENTITY historyHeader.dontremember.label "Ніколі не памятаць гісторыю">
+<!ENTITY historyHeader.custom.label "Ужываць наладжванні для гісторыі">
+<!ENTITY historyHeader.post.label "">
+<!ENTITY rememberDescription.label "&brandShortName; будзе памятаць гісорыю вашых азірання, загрузак, запаўнення формаў і пошуку і будзе трымаць біркі з наведаных пляцовак Сеціва.">
+<!ENTITY rememberActions.pre.label "Вы можаце">
+<!ENTITY rememberActions.clearHistory.label "ачысціць нядаўнюю гісторыю">
+<!ENTITY rememberActions.middle.label "або">
+<!ENTITY rememberActions.removeCookies.label "выдаліць асобныя біркі">
+<!ENTITY rememberActions.post.label ".">
+<!ENTITY dontrememberDescription.label "&brandShortName; будзе ўжываць наладжванні, аднолькавыя наладжванням адасобленага азірання, і не будзе запамінаць гісторыю вашага азірання Сеціва.">
+<!ENTITY dontrememberActions.pre.label "Ці вы можаце">
+<!ENTITY dontrememberActions.clearHistory.label "ачысціць усю цяперашнюю гісторыю">
+<!ENTITY dontrememberActions.post.label ".">
+<!ENTITY privateBrowsingAutoStart.label "Самастойна запускаць &brandShortName; ў сэсіі адасобленага азірання">
+<!ENTITY privateBrowsingAutoStart.accesskey "С">
+<!ENTITY rememberHistory.pre.label "Памятаць маю гісторыю азірання на працягу">
+<!ENTITY rememberHistory.pre.accesskey "г">
+<!ENTITY rememberHistory.post.label "дзён">
+<!ENTITY rememberDownload.label "Памятаць гісторыю загрузак">
+<!ENTITY rememberDownload.accesskey "з">
+<!ENTITY rememberSearchForm.label "Памятаць гісторыю пошуку і запаўнення формаў">
+<!ENTITY rememberSearchForm.accesskey "ш">
+<!ENTITY clearOnClose.label "Ачышчаць гісторыю, калі &brandShortName; закрываецца">
+<!ENTITY clearOnClose.accesskey "ч">
+<!ENTITY clearOnCloseSettings.label "Наладжванні…">
+<!ENTITY clearOnCloseSettings.accesskey "Н">

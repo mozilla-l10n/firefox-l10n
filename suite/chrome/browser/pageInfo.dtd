@@ -19,8 +19,8 @@
 <!ENTITY generalEncoding "Кадаванне:">
 <!ENTITY generalMetaName "Назва">
 <!ENTITY generalMetaContent "Змест">
-<!ENTITY generalSecurityMore "Больш">
-<!ENTITY generalSecurityMore.accesskey "Б">
+<!ENTITY generalSecurityDetails "Падрабязнасці">
+<!ENTITY generalSecurityDetails.accesskey "П">
 <!ENTITY formsTab "Формы">
 <!ENTITY formsTab.accesskey "Ф">
 <!ENTITY formAction "Дзеянне формы">
@@ -66,6 +66,7 @@
 <!ENTITY permTab "Дазволы">
 <!ENTITY permTab.accesskey "Д">
 <!ENTITY permUseDefault "Ужываць змоўчныя">
+<!ENTITY permAskAlways "Заўсёды пытаць">
 <!ENTITY permAllow "Дазволіць">
 <!ENTITY permAllowSession "Дазволіць на час сэсіі">
 <!ENTITY permBlock "Затрымліваць">
@@ -74,6 +75,7 @@
 <!ENTITY permPopup "Адкрываць вокны-вынырцы">
 <!ENTITY permCookie "Усталёўваць біркі">
 <!ENTITY permInstall "Усталёўваць пашырэнні або тэмы">
+<!ENTITY permGeo "Дзяліцца месцазнаходжаннем">
 <!ENTITY securityTab "Бяспека">
 <!ENTITY securityTab.accesskey "Б">
 <!ENTITY securityHeader "Звесткі бяспекі для гэтай старонкі">

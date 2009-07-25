@@ -1,8 +1,8 @@
 <!ENTITY newMessageCmd.label "Ліст">
 <!ENTITY newMessageCmd.accesskey "Л">
 <!ENTITY newMessageCmd.key "M">
-<!ENTITY newCardCmd.label "Картку адраснай кнігі…">
-<!ENTITY newCardCmd.accesskey "К">
+<!ENTITY newContactCmd.label "Сувязь…">
+<!ENTITY newContactCmd.accesskey "С">
 <!ENTITY sendPage.label "Даслаць старонку…">
 <!ENTITY sendPage.accesskey "Д">
 <!ENTITY contextSendThisPage.label "Даслаць гэтую старонку…">

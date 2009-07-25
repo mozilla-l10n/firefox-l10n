@@ -106,9 +106,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Праверка правапісу падчас набору">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
-<!ENTITY checkSpellingCmd.label "Праверыць правапіс">
-<!ENTITY checkSpellingCmd.accesskey "п">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Праверыць правапіс">
+<!ENTITY checkSpellingCmd2.accesskey "р">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Праверыць HTML">
 <!ENTITY validateCmd.accesskey "р">
 <!ENTITY insertMenu.label "Уставіць">

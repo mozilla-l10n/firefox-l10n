@@ -56,7 +56,9 @@
 <!ENTITY smtpServerNamePrefix.label "Назва выходнага паслугача (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Назва паслугача навінаў (NNTP):">
 <!ENTITY downloadOnLogin.label "Загрузіць лісты зараз">
+<!ENTITY downloadOnLogin.accesskey "З">
 <!ENTITY deferStorageDesc.label "Пазначце гэтую скрынку, каб захоўваць лісты гэтага рахунку ў папцы Агульныя Атрыманыя Мясцовых Папак. Інакш рахунак з'явіцца як рахунак вышэйшага ўзроўню і яго лісты будуць захоўвацца у яго асабістай дырэкторыі.">
 <!ENTITY deferStorage.label "Ужываць папку Агульныя Атрыманыя (захоўваць пошту ў Мясцовых Папках)">
+<!ENTITY deferStorage.accesskey "г">
 <!ENTITY clickFinish.label "Пстрыкніце Скончыць, каб захаваць вашы наладжванні і выйсці з Чараўніка Рахункаў.">
 <!ENTITY clickFinish.labelMac "Пстрыкніце Гатова, каб захаваць вашы наладжванні і выйсці з Чараўніка Рахункаў.">

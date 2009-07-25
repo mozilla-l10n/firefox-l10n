@@ -16,7 +16,6 @@
 <!ENTITY DisplayName.accesskey "л">
 <!ENTITY NickName.label "Мянушка:">
 <!ENTITY NickName.accesskey "М">
-<!ENTITY Internet.box "Інтэрнэт">
 <!ENTITY PrimaryEmail.label "Э-Пошта:">
 <!ENTITY PrimaryEmail.accesskey "Э">
 <!ENTITY SecondEmail.label "Дадатковая э-пошта:">
@@ -28,13 +27,13 @@
 <!ENTITY Unknown.label "Невядома">
 <!ENTITY ScreenName.label "Экраннае імя:">
 <!ENTITY ScreenName.accesskey "я">
-<!ENTITY allowRemoteContent.label "Дазволіць адлеглыя малюнкі.">
-<!ENTITY allowRemoteContent.accesskey "г">
-<!ENTITY allowRemoteContent.tooltip "У HTML-лісты магчыма ўбудоўваць
-малюнкі з адлеглымі крыніцамі. Адкрыццё такіх малюнкаў стварае
-злучэнне з такой вонкавай крыніцай. Гэта дазваляе адсачыць,
-ці быў ліст прачытаны. Пазначэнне гэтай скрынкі дазваляе такіе
-вонкавыя малюнкі ў HTML-лістах ад гэтага кантакту.">
+<!ENTITY allowRemoteContent1.label "Дазволіць адлеглае змесціва.">
+<!ENTITY allowRemoteContent1.accesskey "д">
+<!ENTITY allowRemoteContent1.tooltip "Лісты ў фармаце HTML могуць змяшчаць
+змесціва з адлеглых крыніцаў. Адкрыццё такіх лістоў выкліча
+ўсталяванне злучэння з гэтымі вонкавымі крыніцамі. Гэта дазваляе даведацца,
+што ліст быў прачытаны. Адзначэнне гэтай скрынкі дазваляе такое вонкавае
+ўбудаванае змесціва ў лістах HTML з гэтага адраса.">
 <!ENTITY WorkPhone.label "Працоўны:">
 <!ENTITY WorkPhone.accesskey "ц">
 <!ENTITY HomePhone.label "Хатні:">
@@ -63,9 +62,11 @@
 <!ENTITY HomeWebPage.accesskey "С">
 <!ENTITY Birthday.label "Дзень нараджэння:">
 <!ENTITY Birthday.accesskey "р">
+<!ENTITY In.label "">
 <!ENTITY Year.emptytext "Год">
 <!ENTITY Or.value "ці">
 <!ENTITY Age.emptytext "Узрост">
+<!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Працоўныя">
 <!ENTITY Work.accesskey "П">
 <!ENTITY JobTitle.label "Пасада:">

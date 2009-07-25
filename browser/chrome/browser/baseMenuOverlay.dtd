@@ -15,22 +15,15 @@
 <!ENTITY helpForIEUsers.label "Для карыстальнікаў Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.commandkey "/">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Заўвагі пра выданне">
 <!ENTITY helpReleaseNotes.accesskey "З">
 <!ENTITY updateCmd.label "Праверка існавання абнаўленняў…">
-<!ENTITY updateCmd.accesskey "а">
 <!ENTITY preferencesCmdMac.label "Перавагі…">
 <!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Службы">
 <!ENTITY hideThisAppCmdMac.label "Схаваць &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
 <!ENTITY hideOtherAppsCmdMac.label "Схаваць іншыя">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Паказаць усе">

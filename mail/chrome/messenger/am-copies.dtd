@@ -16,10 +16,15 @@
 <!ENTITY draftsFolderOn.accesskey "Ч">
 <!ENTITY draftInOtherFolder.label "Іншай:">
 <!ENTITY draftInOtherFolder.accesskey "І">
+<!ENTITY archivesFolderOn.label "Папка &quot;Архівы&quot; у:">
+<!ENTITY archivesFolderOn.accesskey "А">
+<!ENTITY archiveInOtherFolder.label "Іншы:">
+<!ENTITY archiveInOtherFolder.accesskey "І">
 <!ENTITY templatesFolderOn.label "Папцы &quot;Узоры&quot; ў:">
 <!ENTITY templatesFolderOn.accesskey "У">
 <!ENTITY templateInOtherFolder.label "Іншай:">
 <!ENTITY templateInOtherFolder.accesskey "І">
-<!ENTITY specialFoldersTitle.label "Чарнавікі і ўзоры">
+<!ENTITY specialFoldersTitle.label "Чарнавікі, архівы і ўзоры">
 <!ENTITY keepDrafts.label "Трымаць чарнавікі лістоў у:">
+<!ENTITY keepArchives.label "Трымаць архівы лістоў у:">
 <!ENTITY keepTempltes.label "Трымаць узоры лістоў у:">

@@ -3,5 +3,4 @@
 <!ENTITY typeColumn.accesskey "Т">
 <!ENTITY actionColumn2.label "Дзеянне">
 <!ENTITY actionColumn2.accesskey "Д">
-<!ENTITY filter.label "Пошук:">
-<!ENTITY filter.accesskey "ш">
+<!ENTITY search.emptytext "Пошук тыпаў і дзеянняў">

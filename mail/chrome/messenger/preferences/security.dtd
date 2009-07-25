@@ -1,0 +1,35 @@
+<!ENTITY itemJunk.label "Лухта">
+<!ENTITY itemPhishing.label "Э-паштовыя ашуканствы">
+<!ENTITY itemPasswords.label "Паролі">
+<!ENTITY itemAntiVirus.label "Антывірус">
+<!ENTITY junkMail.intro "Прызначэнне змоўчных наладжванняў пошты-лухты. Асаблівыя для рахункаў наладжванні могуць быць вызначаны ў Наладжваннях Рахунку.">
+<!ENTITY manualMark.label "Калі я пазначаю лісты як лухту:">
+<!ENTITY manualMark.accesskey "К">
+<!ENTITY manualMarkModeMove.label "Перамясціць іх у папку &quot;Лухта&quot; рахунку">
+<!ENTITY manualMarkModeMove.accesskey "е">
+<!ENTITY manualMarkModeDelete.label "Выдаліць іх">
+<!ENTITY manualMarkModeDelete.accesskey "і">
+<!ENTITY markAsReadOnSpam.label "Пазначыць лісты, вызначаныя як лухта, прачытанымі">
+<!ENTITY markAsReadOnSpam.accesskey "з">
+<!ENTITY enableJunkLogging.label "Дазволіць метрыку сіта лухты">
+<!ENTITY enableJunkLogging.accesskey "л">
+<!ENTITY openJunkLog.label "Паказаць метрыку">
+<!ENTITY openJunkLog.accesskey "м">
+<!ENTITY resetTrainingData.label "Скінуць вывучаныя даныя">
+<!ENTITY resetTrainingData.accesskey "д">
+<!ENTITY phishingDetector1.intro "&brandShortName; можа аналізаваць лісты на наяўнасць магчымых э-паштовых ашукаў, адшукваючы прыкметы распаўсюджаных спосабаў падману.">
+<!ENTITY enablePhishingDetector1.label "Папярэджваць мяне, калі ліст, які я чытаю, падазраецца як э-паштовая ашука">
+<!ENTITY enablePhishingDetector1.accesskey "П">
+<!ENTITY useDownloadedList.label "Карыстацца загружаным спісам э-паштовых ашукаў">
+<!ENTITY useDownloadedList.accesskey "К">
+<!ENTITY savedPasswords.intro "&brandShortName; можа запомніць паролі для ўсіх вашых рахункаў.">
+<!ENTITY useMasterPassword.label "Ужываць галоўны пароль">
+<!ENTITY useMasterPassword.accesskey "г">
+<!ENTITY masterPassword.intro "Галоўны пароль абараняе ўсе вашы паролі - аднак вы мусіце ўвесці яго аднойчы за сэсію.">
+<!ENTITY changeMasterPassword.label "Змяніць галоўны пароль…">
+<!ENTITY changeMasterPassword.accesskey "м">
+<!ENTITY savedPasswords.label "Захаваныя паролі…">
+<!ENTITY savedPasswords.accesskey "З">
+<!ENTITY antiVirus.intro "&brandShortName; можа палегчыць антывірусным праграмам аналіз уваходных паштовых лістоў да іх мясцовага захавання.">
+<!ENTITY antiVirus.label "Дазволіць спажыўцам-антывірусам змяшчаць асобныя ўваходныя лісты ў карантын">
+<!ENTITY antiVirus.accesskey "в">

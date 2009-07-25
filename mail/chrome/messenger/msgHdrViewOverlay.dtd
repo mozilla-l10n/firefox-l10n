@@ -18,17 +18,18 @@
 <!ENTITY originalWebsite2.label "пляцоўка сеціва">
 <!ENTITY editMessageDescription.label "Чарнавік ліста">
 <!ENTITY editMessageButton.label "Праўка…">
-<!ENTITY replyButton.label "адказаць…">
-<!ENTITY forwardButton.label "накіраваць…">
-<!ENTITY junkButton.label "пазначыць лухтой">
+<!ENTITY archiveButton.label "архіў">
+<!ENTITY hdrReplyButton.label "адказ">
+<!ENTITY hdrReplyAllButton.label "адказаць усім">
+<!ENTITY hdrReplyListButton.label "адказаць спісу">
+<!ENTITY hdrForwardButton.label "навіраваць">
+<!ENTITY hdrJunkButton.label "лухта">
 <!ENTITY trashButton.tooltiptext "выдаліць">
 <!ENTITY otherActionsButton.label "іншыя дзеянні">
 <!ENTITY saveAsMenuItem.label "захаваць як…">
 <!ENTITY saveAsMenuItem.accesskey "я">
 <!ENTITY viewSourceMenuItem.label "прагледзець зыходнік…">
 <!ENTITY viewSourceMenuItem.accesskey "г">
-<!ENTITY hideDetailsButton.label "схаваць падрабязнасці">
-<!ENTITY showDetailsButton.label "паказаць падрабязнасці">
 <!ENTITY openAttachmentCmd.label "Адчыніць">
 <!ENTITY openAttachmentCmd.accesskey "А">
 <!ENTITY saveAsAttachmentCmd.label "Захаваць як…">

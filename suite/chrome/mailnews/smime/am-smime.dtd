@@ -20,3 +20,8 @@
 <!ENTITY signMessage.label "Лічбава падпісваць лісты (змоўчна)">
 <!ENTITY signMessage.accesskey "Л">
 <!ENTITY signingCert.message "Ужываць гэтае пасведчанне, каб лічбава падпісваць лісты, што вы адсылаеце:">
+<!ENTITY certificates.label "Пасведчанні">
+<!ENTITY manageCerts.label "Кіраваць пасведчаннямі…">
+<!ENTITY manageCerts.accesskey "К">
+<!ENTITY manageDevices.label "Кіраваць збудовамі бяспекі…">
+<!ENTITY manageDevices.accesskey "б">

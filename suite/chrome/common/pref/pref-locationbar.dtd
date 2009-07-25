@@ -8,6 +8,14 @@
 <!ENTITY autoCompleteShowPopup.accesskey "П">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Падбіраць толькі пляцоўкі сеціва, якія вы папярэдне ўводзілі">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "б">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Адпавядаюць толькі месцазнаходжанням, не загалоўкам пляцовак сеціва">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "т">
+<!ENTITY autoCompleteMatch.label "Адпавяданне">
+<!ENTITY autoCompleteMatch.accesskey "А">
+<!ENTITY autoCompleteMatchAnywhere "Усюды ў месцазнаходжанні ці загалоўку">
+<!ENTITY autoCompleteMatchWordsFirst "Усюды, але пераважна ў межах словаў">
+<!ENTITY autoCompleteMatchWords "Толькі ў межах словаў">
+<!ENTITY autoCompleteMatchStart "Толькі ў пачатку месцазнаходжання або загалоўка">
 <!ENTITY searchEngine.label "Машыны пошуку ў Інтэрнет">
 <!ENTITY showSearchEngine.label "Паказаць змоўчную машыну пошуку">
 <!ENTITY showSearchEngine.accesskey "м">

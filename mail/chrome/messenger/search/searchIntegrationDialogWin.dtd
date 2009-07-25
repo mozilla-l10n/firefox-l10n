@@ -1,5 +1,0 @@
-<!ENTITY searchIntegration.engineName "Пошук Windows">
-<!ENTITY searchIntegration.title "Інтэграцыя &searchIntegration.engineName;">
-<!ENTITY searchIntegration.description "Вы хочаце дазволіць &searchIntegration.engineName; рабіць пошук і ствараць паказальнікі ў лістах пошты і навінаў &brandShortName;?">
-<!ENTITY searchIntegration.accept "Дазволіць &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Не дазваляць &searchIntegration.engineName;">

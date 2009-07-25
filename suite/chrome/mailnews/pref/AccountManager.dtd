@@ -5,6 +5,5 @@
 <!ENTITY setDefaultButton.accesskey "З">
 <!ENTITY removeButton.label "Выдаліць рахунак">
 <!ENTITY removeButton.accesskey "д">
-<!ENTITY accountManager.size "width: 65em; height: 55em;">
-<!ENTITY macAccountManager.size "width: 67em; height: 55em;">
-<!ENTITY accountTree.width "width: 20em;">
+<!ENTITY accountManager.size "width: 130ch; height: 55em;">
+<!ENTITY accountTree.width "width: 35ch;">

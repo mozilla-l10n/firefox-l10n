@@ -13,5 +13,5 @@
 <!ENTITY filtersLink.label "Кіраваць сітамі лістоў">
 <!ENTITY junkSettings.label "Наладжванні пошты-лухты">
 <!ENTITY offlineLink.label "Па-за сеткавыя наладжванні">
-<!ENTITY rssSectionHdr.label "Навіны RSS і дзённікі">
-<!ENTITY subscibeRSS.label "Кіраваць падпіскамі">
+<!ENTITY feedsSectionHdr.label "Жывільнікі">
+<!ENTITY subscribeFeeds.label "Кіраваць падпіскамі">

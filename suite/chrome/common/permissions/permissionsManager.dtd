@@ -6,7 +6,7 @@
 <!ENTITY removeall.label "Прыняць усе пляцоўкі">
 <!ENTITY removeall.accesskey "у">
 <!ENTITY address.label "Адрас пляцоўкі сеціва:">
-<!ENTITY address.accesskey "d">
+<!ENTITY address.accesskey "А">
 <!ENTITY block.label "Блакаваць">
 <!ENTITY block.accesskey "Б">
 <!ENTITY session.label "Дазволіць на сэсію">

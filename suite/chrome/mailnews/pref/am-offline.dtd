@@ -11,17 +11,20 @@
 <!ENTITY nntpNotDownloadRead.accesskey "ч">
 <!ENTITY nntpDownloadMsg.label "Лісты, якім болей, чым">
 <!ENTITY nntpDownloadMsg.accesskey "і">
-<!ENTITY retentionCleanup.label "Каб вызваліць месца на дыску, старыя лісты можна назаўсёды выдаліць ">
+<!ENTITY retentionCleanup.label "Каб вызваліць месца на дыску, старыя лісты можна выдаліць назаўсёды.">
+<!ENTITY retentionCleanupImap.label "Каб вызваліць месца на дыску, старыя лісты можна выдаліць назаўсёды, разам мясцовыя копіі і іх першакрыніцы на адлеглым паслугачы.">
+<!ENTITY retentionCleanupPop.label "Каб вызваліць месца на дыску, старыя лісты можна выдаліць назаўсёды, разам з іх першакрыніцамі на адлеглым паслугачы.">
 <!ENTITY retentionKeepMsg.label "Выдаліць лісты, якім больш за">
 <!ENTITY retentionKeepMsg.accesskey "з">
 <!ENTITY retentionKeepAll.label "Не выдаляць ніякіх лістоў">
 <!ENTITY retentionKeepAll.accesskey "н">
-<!ENTITY retentionKeepNew.label "Выдаліць усе, акрамя">
-<!ENTITY retentionKeepNew.accesskey "у">
-<!ENTITY retentionKeepUnread.label "Заўсёды выдаляць прачытаныя лісты">
-<!ENTITY retentionKeepUnread.accesskey "ч">
-<!ENTITY nntpRemoveBody.label "Толькі целы лістоў, якім менш, чым">
-<!ENTITY nntpRemoveBody.accesskey "Т">
+<!ENTITY retentionKeepRecent.label "Выдаліць усе, акрамя самых апошніх">
+<!ENTITY retentionKeepRecent.accesskey "у">
+<!ENTITY retentionKeepUnreadHidden.label "Заўсёды выдаляць прачытаныя лісты (пераважвае наладжванні ўзросту)">
+<!ENTITY retentionApplyToFlagged.label "Заўсёды захоўваць лісты з сцяжкамі">
+<!ENTITY retentionApplyToFlagged.accesskey "ў">
+<!ENTITY nntpRemoveMsgBody.label "Выдаліць целы лістоў, якім болей, чым ">
+<!ENTITY nntpRemoveMsgBody.accesskey "ц">
 <!ENTITY offlineSelectNntp.label "Вылучыць навінакупы для карыстання па-за сеткаю…">
 <!ENTITY offlineSelectNntp.accesskey "с">
 <!ENTITY offlineImapAdvancedOffline.label "Пашыраны…">

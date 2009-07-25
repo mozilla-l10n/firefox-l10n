@@ -94,6 +94,8 @@
 <!ENTITY redoMoveMsgCmd.label "Вярнуць рух ліста">
 <!ENTITY undoCopyMsgCmd.label "Адмяніць капіяванне ліста">
 <!ENTITY redoCopyMsgCmd.label "Паўтарыць капіяванне ліста">
+<!ENTITY undoMarkAllCmd.label "Адмяніць пазначэнне ўсіх прачытанымі">
+<!ENTITY redoMarkAllCmd.label "Вярнуць пазначэнне ўсіх прачытанымі">
 <!ENTITY undoDefaultCmd.label "Адмяніць">
 <!ENTITY redoDefaultCmd.label "Вярнуць">
 <!ENTITY showMessengerToolbarCmd.label "Паліца прыладаў пошты">
@@ -188,6 +190,14 @@
 <!ENTITY bodySanitized.accesskey "П">
 <!ENTITY bodyAsPlaintext.label "Просты тэкст">
 <!ENTITY bodyAsPlaintext.accesskey "Т">
+<!ENTITY bodyMenuFeed.label "Жывіць цела ліста як">
+<!ENTITY bodyMenuFeed.accesskey "я">
+<!ENTITY viewFeedWebPage.label "Старонку Сеціва">
+<!ENTITY viewFeedWebPage.accesskey "С">
+<!ENTITY viewFeedSummary.label "Зводку">
+<!ENTITY viewFeedSummary.accesskey "З">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Змоўчны фармат">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "ф">
 <!ENTITY viewAttachmentsInlineCmd.label "Адлюстроўваць далучэнні ўсярэдзіне">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "Ў">
 <!ENTITY reloadCmd.label "Абнавіць">
@@ -232,8 +242,10 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "Н">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Назад">
+<!ENTITY goBackCmd.accesskey "з">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Наперад">
+<!ENTITY goForwardCmd.accesskey "п">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Ліст з сцяжком">
 <!ENTITY prevFlaggedMsgCmd.accesskey "с">
@@ -245,6 +257,9 @@
 <!ENTITY newMsgCmd.accesskey "Н">
 <!ENTITY newNewMsgCmd.label "Ліст">
 <!ENTITY newNewMsgCmd.accesskey "Л">
+<!ENTITY archiveMsgCmd.label "Архіў">
+<!ENTITY archiveMsgCmd.accesskey "х">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Адказаць">
 <!ENTITY replyMsgCmd.accesskey "А">
 <!ENTITY replyMsgCmd.key "r">
@@ -342,6 +357,14 @@
 <!ENTITY openMessageWindowCmd.label "Адчыніць ліст">
 <!ENTITY openMessageWindowCmd.accesskey "А">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Адкрыць ліст з жывільніка">
+<!ENTITY openFeedMessage.accesskey "ж">
+<!ENTITY openFeedWebPageInWindow.label "Старонку Сеціва ў новым акне">
+<!ENTITY openFeedWebPageInWindow.accesskey "а">
+<!ENTITY openFeedSummaryInWindow.label "Зводку ў новым акне">
+<!ENTITY openFeedSummaryInWindow.accesskey "ў">
+<!ENTITY openFeedWebPageInMP.label "Пераключэнне шыбы ліста: старонка Сеціва, зводка">
+<!ENTITY openFeedWebPageInMP.accesskey "к">
 <!ENTITY searchMailCmd.label "Пошук лістоў…">
 <!ENTITY searchMailCmd.accesskey "П">
 <!ENTITY searchMailCmd.key "s">
@@ -374,6 +397,7 @@
 <!ENTITY goBackButton.label "Назад">
 <!ENTITY goForwardButton.label "Наперад">
 <!ENTITY deleteButton.label "Выдаліць">
+<!ENTITY undeleteButton.label "Адмяніць выдаленне">
 <!ENTITY markButton.label "Пазначыць">
 <!ENTITY printButton.label "Друкаваць">
 <!ENTITY stopButton.label "Прыпыніць">
@@ -394,6 +418,7 @@
 <!ENTITY goBackButton.tooltip "Вярнуцца да папярэдняга ліста">
 <!ENTITY goForwardButton.tooltip "Перайсці да наступнага ліста">
 <!ENTITY deleteButton.tooltip "Выдаліць вылучаны ліст ці папку">
+<!ENTITY undeleteButton.tooltip "Адмяніць выдаленне вылучанага ліста">
 <!ENTITY markButton.tooltip "Пазначыць лісты">
 <!ENTITY printButton.tooltip "Друкаваць гэты ліст">
 <!ENTITY stopButton.tooltip "Прыпыніць цяперашні перанос">
@@ -405,6 +430,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "А">
 <!ENTITY contextEditAsNew.label "Рэдагаваць як новы…">
 <!ENTITY contextEditAsNew.accesskey "Р">
+<!ENTITY contextArchive.label "Архіў">
+<!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Адказаць толькі адпраўніку">
 <!ENTITY contextReplySender.accesskey "т">
 <!ENTITY contextReplyNewsgroup.label "Адказаць навінакупе">
@@ -461,10 +488,8 @@
 <!ENTITY folderContextProperties.accesskey "ц">
 <!ENTITY folderContextSettings.label "Наладжванні…">
 <!ENTITY folderContextSettings.accesskey "Н">
-<!ENTITY SearchSubjectOrFrom.label "Тэма або Ад змяшчаюць:">
-<!ENTITY SearchSubjectOrFrom.accesskey "Т">
-<!ENTITY SearchNameOrEmail.label "Імя або адрас змяшчаюць:">
-<!ENTITY SearchNameOrEmail.accesskey "І">
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchSubjectAndFrom.emptytext "Шукаць тэму і адпраўніка">
 <!ENTITY advancedButton.label "Пашыраны…">
 <!ENTITY advancedButton.accesskey "П">
 <!ENTITY all.label "Усе">
