@@ -15,8 +15,8 @@
 <!ENTITY  manualUpdate.title              "Uuendamine pole võimalik">
 <!ENTITY  manualUpdate.desc               "Saadaval on soovitatav turvalisuse ja stabiilsuse uuendus, aga sul puuduvad
                                            süsteemsed õigused selle paigaldamiseks. Palun võta ühendust oma süsteemiadministraatoriga
-                                           või proovi uuesti kasutajaga, millel on õigused sellesse arvutisse tarkvara paigaldada.">
-<!ENTITY  manualUpdateGetMsg.label        "Viimase versiooni &brandShortName;ist saad alati järgnevalt aadressilt:">
+                                           või proovi uuesti kasutajakontoga, millel on õigused sellesse arvutisse tarkvara paigaldada.">
+<!ENTITY  manualUpdateGetMsg.label        "&brandShortName;i uusima versiooni saad alati järgnevalt aadressilt:">
 
 <!ENTITY incompatibleCheck.title         "Kontrollitakse ühilduvust lisadega">
 <!ENTITY  incompatibleCheck.label        "Uuritakse, kas leidub uusi versioone sinu lisadest...">

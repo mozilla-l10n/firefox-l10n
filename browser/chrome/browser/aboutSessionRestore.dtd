@@ -5,7 +5,7 @@
 <!ENTITY restorepage.errorTitle     "Nonii, see on nüüd küll piinlik.">
 <!ENTITY restorepage.problemDesc    "&brandShortName;il on probleeme sinu akende ja kaartide taastamisel. Selle põhjuseks on tavaliselt viimati avatud veebileht.">
 <!ENTITY restorepage.tryThis        "Sa võid proovida:">
-<!ENTITY restorepage.restoreSome    "eemaldada ühe või rohkem kaarte, mida pead probleemi põhjuseks">
+<!ENTITY restorepage.restoreSome    "eemaldada kaardi või kaardid, mida pead probleemi põhjuseks">
 <!ENTITY restorepage.startNew       "käivitada täiesti uue seansi">
 
 <!ENTITY restorepage.tryagainButton  "Taasta eelmine seanss">
