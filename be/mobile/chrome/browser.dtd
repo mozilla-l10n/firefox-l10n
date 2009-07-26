@@ -1,4 +1,3 @@
-<!ENTITY mainWindow.titleseparator " - ">
 <!ENTITY back.label "Назад">
 <!ENTITY back.tooltip "Назад">
 <!ENTITY forward.label "Наперад">
@@ -34,6 +33,10 @@
 <!ENTITY editBookmarkMove.label "Рухаць">
 <!ENTITY editBookmarkDone.label "Гатова">
 <!ENTITY editBookmarkTags.label "Дадаць тэгі сюды">
+<!ENTITY helperApp.prompt "Што вы хочаце зрабіць з">
+<!ENTITY helperApp.open "Адчыніць">
+<!ENTITY helperApp.save "Захаваць">
+<!ENTITY helperApp.nothing "Нічога">
 <!ENTITY findOnCmd.label "Знайсці на гэтай старонцы…">
 <!ENTITY findOnCmd.accesskey "З">
 <!ENTITY findOnCmd.commandkey "f">
@@ -69,5 +72,17 @@
 <!ENTITY downloadRetry.label "Паўтарыць">
 <!ENTITY noResults.label "Няма вынікаў">
 <!ENTITY identity.unverifiedsite2 "Гэтая пляцоўка сеціва не мае звестак пра адмету.">
-<!ENTITY identity.connectedTo "Вы з злучаны з">
-<!ENTITY identity.runBy "які падтрымліваецца">
+<!ENTITY identity.connectedTo2 "Злучаны з">
+<!ENTITY identity.runBy2 "выконваецца">
+<!ENTITY consoleHeader.label "Кансоль памылак">
+<!ENTITY consoleAll.label "Усе">
+<!ENTITY consoleErrors.label "Памылкі">
+<!ENTITY consoleWarnings.label "Папярэджанні">
+<!ENTITY consoleMessages.label "Паведамленні">
+<!ENTITY consoleCodeEval.label "Код:">
+<!ENTITY consoleClear.label "Ачысціць">
+<!ENTITY consoleEvaluate.label "Ацаніць">
+<!ENTITY consoleErrFile.label "Зыходны файл:">
+<!ENTITY consoleErrLine.label "Радок:">
+<!ENTITY consoleErrColumn.label "Слупок:">
+<!ENTITY selectListDone.label "Гатова">
