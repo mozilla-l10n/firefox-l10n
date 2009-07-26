@@ -22,8 +22,8 @@
 
 <!ENTITY fullnameDesc.label "Giden iletiler için &quot;Gönderen&quot; kısmına isminizi giriniz">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-	1, do not translate two of "&quot;"
-	2, Use localized full name instead of "John Smith"
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(ör. &quot;erkaN Kaplan&quot;).">
 <!ENTITY fullnameLabel.label "İsminiz:">
@@ -54,13 +54,13 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 
 <!ENTITY haveSmtp1.prefix "Giden E-posta (SMTP) için mevcut sunucu ismi &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, kullanılacak. Giden sunucu ayarlarını Posta ve haber grubu Hesap ayarları bölümünden değiştirebilirsiniz.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, will be used. You can modify outgoing server settings by choosing Mail &amp; Newsgroups Account Settings from the Edit menu.">
 <!-- Entities for Login page -->
 
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "Giden E-posta için E-posta sağlayıcınızdan aldığınız kullanıcı ismini verin (normal olarak gelen e-posta ile aynı olan isimdir).">
 <!ENTITY usernameSmtpLabel.label "Giden E-posta için kullanıcı ismi:">
 <!ENTITY usernameSmtpLabel.accesskey "a">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Giden E-posta (SMTP) için mevcut kullanıcı ismini verin, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, kullanılacak. Giden sunucu ayarlarını Posta ve haber grubu Hesap ayarları bölümünden değiştirebilirsiniz.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;, will be used. You can modify outgoing server settings by choosing Mail &amp; Newsgroups Account Settings from the Edit menu.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Giden E-posta (SMTP) için sunucu ismi,  &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;,  gelen e-posta için sunucu ismi ile aynı. Gelen sunucu için kullanıcı isminiz erişim amaçlı kullanılacak. Giden sunucu ayarlarınızı Posta ve haber grubu Hesap ayarları bölümünden ayarlayabilirsiniz.">
+<!ENTITY haveSmtp3.suffix2 "&quot;,  gelen e-posta için sunucu ismi ile aynı. Gelen sunucu için kullanıcı isminiz erişim amaçlı kullanılacak. Giden sunucu ayarlarınızı Posta ve haber grubu Hesap ayarları bölümünden ayarlayabilirsiniz.">
 <!-- Entities for Account name page -->
 
 
