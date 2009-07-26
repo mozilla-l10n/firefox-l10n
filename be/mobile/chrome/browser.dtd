@@ -1,0 +1,73 @@
+<!ENTITY mainWindow.titleseparator " - ">
+<!ENTITY back.label "Назад">
+<!ENTITY back.tooltip "Назад">
+<!ENTITY forward.label "Наперад">
+<!ENTITY forward.tooltip "Наперад">
+<!ENTITY reload.label "Абнавіць">
+<!ENTITY reload.tooltip "Абнавіць">
+<!ENTITY stop.label "Прыпыніць">
+<!ENTITY stop.tooltip "Прыпыніць">
+<!ENTITY search.label "Пошук">
+<!ENTITY search.tooltip "Пошук">
+<!ENTITY go.label "Пайсці">
+<!ENTITY go.tooltip "Пайсці">
+<!ENTITY openLocation.label "Адкрыць месца">
+<!ENTITY openLocation.tooltip "Адкрыць месца">
+<!ENTITY star.label "Зорка">
+<!ENTITY star.tooltip "Закласці гэтую старонку">
+<!ENTITY bookmarks.label "Закладкі">
+<!ENTITY bookmarks.tooltip "Прагляд закладак">
+<!ENTITY newtab.label "Новая ўстаўка">
+<!ENTITY closetab.label "Зачыніць устаўку">
+<!ENTITY cut.label "Выразаць">
+<!ENTITY copy.label "Капіяваць">
+<!ENTITY copylink.label "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY paste.label "Уставіць">
+<!ENTITY delete.label "Выдаліць">
+<!ENTITY selectAll.label "Вылучыць усё">
+<!ENTITY noSuggestions.label "(няма прапановаў)">
+<!ENTITY addToDictionary.label "Дадаць у слоўнік">
+<!ENTITY bookmarksHeader.label "Закладкі">
+<!ENTITY bookmarksManage.label "Уладкаваць">
+<!ENTITY foldersHeader.label "Папкі">
+<!ENTITY editBookmarkEdit.label "Правіць">
+<!ENTITY editBookmarkMove.label "Рухаць">
+<!ENTITY editBookmarkDone.label "Гатова">
+<!ENTITY editBookmarkTags.label "Дадаць тэгі сюды">
+<!ENTITY findOnCmd.label "Знайсці на гэтай старонцы…">
+<!ENTITY findOnCmd.accesskey "З">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Знайсці зноў">
+<!ENTITY findAgainCmd.accesskey "З">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY addonsHeader.label "Дадаткі">
+<!ENTITY addonsLocal.label "Вашы дадаткі">
+<!ENTITY addonsRepo.label "Атрымаць дадаткі">
+<!ENTITY addonsRecommended.label "Раіцца">
+<!ENTITY addonsSearch.label "Пошук">
+<!ENTITY addonsSearch.emptytext "Пошук усіх дадаткаў">
+<!ENTITY addonOptions.label "Наладкі">
+<!ENTITY addonEnable.label "Дазволіць">
+<!ENTITY addonDisable.label "Забараніць">
+<!ENTITY addonInstall.label "Усталяваць">
+<!ENTITY addonUninstall.label "Высталяваць">
+<!ENTITY addonCancel.label "Скасаваць">
+<!ENTITY addonShowPage.label "Перайсці на старонку">
+<!ENTITY downloadsHeader.label "Загрузкі">
+<!ENTITY downloadsSortDate.label "Дата">
+<!ENTITY downloadsSortSite.label "Пляцоўка">
+<!ENTITY downloadsSortName.label "Назва">
+<!ENTITY downloadsSearch.label "Пошук">
+<!ENTITY downloadsSearch.emptytext "Пошук сцягнутых файлаў">
+<!ENTITY downloadShowPage.label "Перайсці на старонку">
+<!ENTITY downloadShow2.label "Знайсці">
+<!ENTITY downloadOpen2.label "Адчыніць">
+<!ENTITY downloadCancel.label "Скасаваць">
+<!ENTITY downloadPause.label "Прыпыніць">
+<!ENTITY downloadResume.label "Працягнуць">
+<!ENTITY downloadRetry.label "Паўтарыць">
+<!ENTITY noResults.label "Няма вынікаў">
+<!ENTITY identity.unverifiedsite2 "Гэтая пляцоўка сеціва не мае звестак пра адмету.">
+<!ENTITY identity.connectedTo "Вы з злучаны з">
+<!ENTITY identity.runBy "які падтрымліваецца">
