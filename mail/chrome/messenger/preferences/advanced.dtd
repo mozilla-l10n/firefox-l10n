@@ -93,6 +93,12 @@
 <!ENTITY clearCacheNow.accesskey         "V">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Lorsqu'un serveur demande mon certificat personnel :">
+<!ENTITY certs.auto                      "en sélectionner un automatiquement">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "me demander à chaque fois">
+<!ENTITY certs.ask.accesskey             "d">
+
 <!ENTITY viewCertificates.label        "Voir les certificats">
 <!ENTITY viewCertificates.accesskey    "o">
 <!ENTITY viewCRLs.label                "Listes de révocation">
