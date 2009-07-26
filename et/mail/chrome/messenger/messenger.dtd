@@ -475,7 +475,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.tooltip                           "Prindi valitud kiri">
 <!ENTITY stopButton.tooltip                            "Katkesta andmeedastus">
 <!ENTITY junkButton.tooltip                            "Märgi valitud kirjad rämpspostiks">
-<!ENTITY notJunkButton.tooltip                         "Märgi see kiri mitte rämpspostiks">
+<!ENTITY notJunkButton.tooltip                         "Eemalda sellelt kirjalt rämpsposti märge">
 <!ENTITY addressBookButton.tooltip                     "Ava aadressiraamat">
 <!ENTITY tagButton.tooltip                             "Sildista kirju">
 <!ENTITY compactButton.tooltip                         "Eemalda kustutatud kirjad valitud kaustast">
@@ -578,7 +578,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readColumn.tooltip                            "Klõpsa, et sorteerida loetuse järgi">
 <!ENTITY receivedColumn.tooltip                        "Klõpsa, et sorteerida saabumise aja järgi">
 <!ENTITY starredColumn.tooltip                         "Klõpsa, et sorteerida tähistuse järgi">
-<!ENTITY locationColumn.tooltip                        "Klõpsa, er sorteerida asukoha järgi">
+<!ENTITY locationColumn.tooltip                        "Klõpsa, et sorteerida asukoha järgi">
 <!ENTITY idColumn.tooltip                              "Klõpsa, et sorteerida kättesaamise järgi">
 <!ENTITY attachmentColumn.tooltip                      "Klõpsa, et sorteerida manuste järgi">
 

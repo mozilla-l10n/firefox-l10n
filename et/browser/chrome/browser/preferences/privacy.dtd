@@ -47,7 +47,7 @@
 <!ENTITY  rememberActions.removeCookies.label    "ainult üksikuid küpsiseid">
 <!ENTITY  rememberActions.post.label             ".">
 
-<!ENTITY  dontrememberDescription.label          "&brandShortName; kasutab samu sätteid, mida kasutatakse privaatse veebilehitsemise korral, veebilehitsemisest ajalugu ei säilitata.">
+<!ENTITY  dontrememberDescription.label          "&brandShortName; kasutab samu sätteid, mida kasutatakse privaatse veebilehitsemise korral, veebilehitsemise ajalugu ei säilitata.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->

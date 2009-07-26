@@ -34,7 +34,7 @@
 
 <!ENTITY menubarCmd.label                        "Menüüriba">
 <!ENTITY menubarCmd.accesskey                    "M">
-<!ENTITY navbarCmd.label                         "Asukoha tööriistariba">
+<!ENTITY navbarCmd.label                         "Asukohariba">
 <!ENTITY navbarCmd.accesskey                     "A">
 <!ENTITY personalbarCmd.label                    "Järjehoidjariba">
 <!ENTITY personalbarCmd.accesskey                "J">
