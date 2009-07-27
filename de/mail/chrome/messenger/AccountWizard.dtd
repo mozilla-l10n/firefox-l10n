@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "Geben Sie Ihren Benutzernamen für den Postausgang-Server (SMTP) ein (meist der gleiche wie beim Posteingang-Server).">
 <!ENTITY usernameSmtpLabel.label "Postausgang-Server (SMTP) Benutzername:">
 <!ENTITY usernameSmtpLabel.accesskey "A">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ihr Postausgang-Server (SMTP) Benutzername &quot;">
-<!ENTITY haveSmtp2.suffix "&quot; wird verwendet. Sie können die Postausgang-Server-Einstellungen später in den Konten-Einstellungen bearbeiten.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+<!ENTITY haveSmtp2.suffix2 "&quot; wird verwendet. Sie können die Postausgang-Server-Einstellungen später in den Konten-Einstellungen bearbeiten.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ihr Postausgang-Server (SMTP) &quot;">
-<!ENTITY haveSmtp3.suffix "&quot; ist identisch mit dem Posteingang-Server, Ihr Benutzername des Posteingang-Server wird zur Identifikation genutzt. Sie können die Postausgang-Server-Einstellungen später in den Konten-Einstellungen bearbeiten.">
+<!ENTITY haveSmtp3.suffix2 "&quot; ist identisch mit dem Posteingang-Server, Ihr Benutzername des Posteingang-Server wird zur Identifikation genutzt. Sie können die Postausgang-Server-Einstellungen später in den Konten-Einstellungen bearbeiten.">
 
 <!-- Entities for Account name page -->
 
