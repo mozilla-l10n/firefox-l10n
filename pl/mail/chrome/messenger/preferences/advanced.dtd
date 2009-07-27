@@ -83,6 +83,12 @@
 <!ENTITY clearCacheNow.accesskey  "W">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description     "Kiedy serwer żąda osobistego certyfikatu użytkownika:">
+<!ENTITY certs.auto                    "wybierz certyfikat automatycznie">
+<!ENTITY certs.auto.accesskey          "c">
+<!ENTITY certs.ask                     "pytaj za każdym razem">
+<!ENTITY certs.ask.accesskey           "t">
+
 <!ENTITY viewCertificates.label        "Wyświetl certyfikaty">
 <!ENTITY viewCertificates.accesskey    "W">
 <!ENTITY viewCRLs.label                "Listy odwołania">
