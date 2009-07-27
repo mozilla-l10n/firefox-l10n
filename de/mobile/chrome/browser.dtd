@@ -1,0 +1,107 @@
+<!ENTITY back.label            "Zurück">
+<!ENTITY back.tooltip          "Zurück">
+<!ENTITY forward.label         "Vor">
+<!ENTITY forward.tooltip       "Vor">
+<!ENTITY reload.label          "Neu laden">
+<!ENTITY reload.tooltip        "Neu laden">
+<!ENTITY stop.label            "Stopp">
+<!ENTITY stop.tooltip          "Stopp">
+<!ENTITY search.label          "Suchen">
+<!ENTITY search.tooltip        "Suchen">
+<!ENTITY go.label              "Go">
+<!ENTITY go.tooltip            "Wechseln zu">
+<!ENTITY openLocation.label    "Adresse öffnen">
+<!ENTITY openLocation.tooltip  "Adresse öffnen">
+<!ENTITY star.label            "Markieren">
+<!ENTITY star.tooltip          "Lesezeichen setzen">
+<!ENTITY bookmarks.label       "Lesezeichen">
+<!ENTITY bookmarks.tooltip     "Lesezeichen anzeigen">
+
+<!ENTITY newtab.label          "Neuer Tab">
+<!ENTITY closetab.label        "Tab schließen">
+
+<!ENTITY cut.label             "Ausschneiden">
+<!ENTITY copy.label            "Kopieren">
+<!ENTITY copylink.label        "Link-Adresse kopieren">
+<!ENTITY paste.label           "Einfügen">
+<!ENTITY delete.label          "Löschen">
+<!ENTITY selectAll.label       "Alles auswählen">
+<!ENTITY noSuggestions.label   "(Keine Vorschläge)">
+<!ENTITY addToDictionary.label "Zu Wörterbuch hinzufügen">
+
+<!ENTITY bookmarksHeader.label     "Lesezeichen">
+<!ENTITY bookmarksManage.label     "Verwalten">
+<!ENTITY foldersHeader.label       "Ordner">
+
+<!ENTITY editBookmarkEdit.label    "Bearbeiten">
+<!ENTITY editBookmarkMove.label    "Verschieben">
+<!ENTITY editBookmarkDone.label    "Fertig">
+<!ENTITY editBookmarkTags.label    "Schlagwörter hier eintragen">
+
+<!ENTITY helperApp.prompt          "Was soll damit getan werden">
+<!ENTITY helperApp.open            "Öffnen">
+<!ENTITY helperApp.save            "Speichern">
+<!ENTITY helperApp.nothing         "Nichts">
+
+<!ENTITY findOnCmd.label     "Seite durchsuchen…">
+<!ENTITY findOnCmd.accesskey "S">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Weitersuchen">
+<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY addonsHeader.label        "Add-ons">
+<!ENTITY addonsLocal.label         "Ihre Add-ons">
+<!ENTITY addonsRepo.label          "Add-ons herunterladen">
+<!ENTITY addonsRecommended.label   "Empfohlen">
+<!ENTITY addonsSearch.label        "Suchen">
+<!ENTITY addonsSearch.emptytext    "Alle Add-ons durchsuchen">
+
+<!ENTITY addonOptions.label        "Einstellungen">
+<!ENTITY addonEnable.label         "Aktivieren">
+<!ENTITY addonDisable.label        "Deaktivieren">
+<!ENTITY addonInstall.label        "Installieren">
+<!ENTITY addonUninstall.label      "Deinstallieren">
+<!ENTITY addonCancel.label         "Abbrechen">
+<!ENTITY addonShowPage.label       "Homepage besuchen">
+
+<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadsSortDate.label   "Datum">
+<!ENTITY downloadsSortSite.label   "Website">
+<!ENTITY downloadsSortName.label   "Name">
+<!ENTITY downloadsSearch.label     "Suchen">
+<!ENTITY downloadsSearch.emptytext "Nach heruntergeladener Datei suchen">
+
+<!ENTITY downloadShowPage.label    "Zur Download-Seite gehen">
+<!ENTITY downloadShow2.label       "Finden">
+<!ENTITY downloadOpen2.label       "Öffnen">
+<!ENTITY downloadCancel.label      "Abbrechen">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "Fortsetzen">
+<!ENTITY downloadRetry.label       "Nochmals versuchen">
+
+<!ENTITY noResults.label           "Keine Ergebnisse">
+
+<!ENTITY identity.unverifiedsite2 "Diese Website stellt keine Identitätsdaten zur Verfügung.">
+<!ENTITY identity.connectedTo2 "Sie sind verbunden mit">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "Diese Website wird betrieben von">
+
+<!ENTITY consoleHeader.label       Fehlerkonsole">
+<!ENTITY consoleAll.label          "Alle">
+<!ENTITY consoleErrors.label       "Fehler">
+<!ENTITY consoleWarnings.label     "Warnungen">
+<!ENTITY consoleMessages.label     "Mitteilungen">
+<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleClear.label        "Löschen">
+<!ENTITY consoleEvaluate.label     "Evaluieren">
+<!ENTITY consoleErrFile.label      "Quelldatei:">
+<!ENTITY consoleErrLine.label      "Zeile:">
+<!ENTITY consoleErrColumn.label    "Spalte:">
+
+<!ENTITY selectListDone.label      "Fertig">
