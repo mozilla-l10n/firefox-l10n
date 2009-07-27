@@ -92,7 +92,7 @@
  just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy2 "Diese Website wird betrieben von">
 
-<!ENTITY consoleHeader.label       Fehlerkonsole">
+<!ENTITY consoleHeader.label       "Fehlerkonsole">
 <!ENTITY consoleAll.label          "Alle">
 <!ENTITY consoleErrors.label       "Fehler">
 <!ENTITY consoleWarnings.label     "Warnungen">
