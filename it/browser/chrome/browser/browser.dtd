@@ -38,6 +38,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "A tutto schermo">
 <!ENTITY fullScreenCmd.accesskey "u">
+<!ENTITY showAllTabsCmd.label "Visualizza tutte le schede">
+<!ENTITY showAllTabsCmd.accesskey "V">
 <!ENTITY fullScreenMinimize.tooltip "Riduci a icona">
 <!ENTITY fullScreenRestore.tooltip "Ripristina">
 <!ENTITY fullScreenClose.tooltip "Chiudi">
@@ -339,4 +341,4 @@
 <!ENTITY identity.runBy "Questo sito è gestito da">
 <!ENTITY identity.moreInfoLinkText "Altre informazioni su questo sito…">
 <!ENTITY downloadMonitor2.tooltip "Fare clic per aprire la finestra dei download">
-<!ENTITY ctrlTab.search.emptyText "Cerca schede">
+<!ENTITY allTabs.filter.emptyText "Cerca tra le schede">
