@@ -50,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Ecrã inteiro">
 <!ENTITY fullScreenCmd.accesskey "E">
+<!ENTITY showAllTabsCmd.label "Mostrar todos os separadores">
+<!ENTITY showAllTabsCmd.accesskey "t">
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -445,4 +448,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Carregue para abrir a janela de transferências">
 
-<!ENTITY ctrlTab.search.emptyText "Procurar Separadores">
+<!ENTITY allTabs.filter.emptyText "Procurar Separadores">
