@@ -38,7 +38,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;"> 
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " – ">
-
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privatusis naršymas)">
@@ -82,6 +81,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Visas ekranas">
 <!ENTITY fullScreenCmd.accesskey "V">
+<!ENTITY showAllTabsCmd.label "Rodyti visas korteles">
+<!ENTITY showAllTabsCmd.accesskey "k">
 
 <!ENTITY fullScreenMinimize.tooltip "Suskleisti">
 <!ENTITY fullScreenRestore.tooltip "Normalioji veiksena">
@@ -474,4 +475,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Spustelėkite, jei norite atverti atsiuntimų langą">
 
-<!ENTITY ctrlTab.search.emptyText "Paieška kortelėse">
+<!ENTITY allTabs.filter.emptyText "Paieška kortelėse">
