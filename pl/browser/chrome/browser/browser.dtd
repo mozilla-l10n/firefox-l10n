@@ -51,6 +51,8 @@
 <!ENTITY pageInfoCmd.commandkey "i" >
 <!ENTITY fullScreenCmd.label "Tryb pełnoekranowy" >
 <!ENTITY fullScreenCmd.accesskey "T" >
+<!ENTITY showAllTabsCmd.label "Wyświetl wszystkie karty">
+<!ENTITY showAllTabsCmd.accesskey "W">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizuj">
 <!ENTITY fullScreenRestore.tooltip "Przywróć">
@@ -440,4 +442,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Kliknij, aby otworzyć okno pobierania plików">
 
-<!ENTITY ctrlTab.search.emptyText "Szukaj kart">
+<!ENTITY allTabs.filter.emptyText "Szukaj kart">
