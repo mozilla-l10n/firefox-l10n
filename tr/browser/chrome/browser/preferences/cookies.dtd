@@ -8,7 +8,7 @@
 <!ENTITY button.removeallcookies.label "Tüm çerezleri sil">
 <!ENTITY button.removeallcookies.accesskey "T">
 
-<!ENTITY props.name.label "Ad::">
+<!ENTITY props.name.label "Ad:">
 <!ENTITY props.value.label "İçerik:">
 <!ENTITY props.domain.label "Alan adı:">
 <!ENTITY props.path.label "Yolu:">

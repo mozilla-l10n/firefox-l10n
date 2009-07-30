@@ -253,7 +253,7 @@
 <!ENTITY calendar.context.convertmenu.label "Convert To">
 <!ENTITY calendar.context.convertmenu.accesskey.mail "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
-<!ENTITY calendar.context.convertmenu.event.label "Event…">
+<!ENTITY calendar.context.convertmenu.event.label "Etkinlik">
 <!ENTITY calendar.context.convertmenu.event.accesskey "E">
 <!ENTITY calendar.context.convertmenu.message.label "İleti…">
 <!ENTITY calendar.context.convertmenu.message.accesskey "İ">
