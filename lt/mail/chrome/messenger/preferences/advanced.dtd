@@ -123,6 +123,12 @@
 <!ENTITY clearCacheNow.accesskey        "v">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description      "Serveriui paprašius mano liudijimo:">
+<!ENTITY certs.auto                     "parinkti jį automatiškai">
+<!ENTITY certs.auto.accesskey           "a">
+<!ENTITY certs.ask                      "visuomet klausti">
+<!ENTITY certs.ask.accesskey            "k">
+
 <!ENTITY viewCertificates.label         "Liudijimų peržiūra">
 <!ENTITY viewCertificates.accesskey     "L">
 <!ENTITY viewCRLs.label                 "Atšauktų sąrašai">
