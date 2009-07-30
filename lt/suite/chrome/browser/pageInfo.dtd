@@ -114,6 +114,7 @@
 <!ENTITY  permTab               "Leidimai">
 <!ENTITY  permTab.accesskey     "L">
 <!ENTITY  permUseDefault        "Naudoti numatytąsias nuostatas">
+<!ENTITY  permAskAlways         "Visuomet klausti">
 <!ENTITY  permAllow             "Leisti">
 <!ENTITY  permAllowSession      "Leisti šį seansą">
 <!ENTITY  permBlock             "Neleisti">
@@ -122,6 +123,7 @@
 <!ENTITY  permPopup             "Iškylančiųjų langų atvėrimas">
 <!ENTITY  permCookie            "Slapukų įrašymas">
 <!ENTITY  permInstall           "Plėtinių ir grafinių apvalkalų diegimas">
+<!ENTITY  permGeo               "Jūsų buvimo vietos nustatymas">
 
 <!ENTITY  securityTab           "Saugumas">
 <!ENTITY  securityTab.accesskey "S">
