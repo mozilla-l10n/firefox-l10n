@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Bestân kieze...">
 <!ENTITY newWindow.label "Nij finster">
 <!ENTITY newTab.label "Nij ljepblêd">
-<!ENTITY topWindow.label "Aktueel finster">
+<!ENTITY topTab.label "Aktueel ljepblêd">
 <!ENTITY caption.label "Weblokaasje iepenje">
 <!ENTITY openWhere.label "Iepenje yn:">
 <!ENTITY openBtn.label "Iepenje">
