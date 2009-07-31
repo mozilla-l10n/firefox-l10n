@@ -48,8 +48,8 @@
 <!ENTITY folderRebuildSummaryFile.accesskey "П">
 <!ENTITY folderRebuildSummaryFileTip.label "Перестроить индексный файл">
 <!ENTITY retention.label "Настройки хранения сообщений">
-<!ENTITY retentionUseDefault.label "Использовать параметры сервера по умолчанию">
-<!ENTITY retentionUseDefault.accesskey "у">
+<!ENTITY retentionUseAccount.label "Использовать параметры моей учётной записи">
+<!ENTITY retentionUseAccount.accesskey "п">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
 <!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены.">

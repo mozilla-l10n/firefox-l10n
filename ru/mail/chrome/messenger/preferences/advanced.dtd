@@ -69,6 +69,11 @@
 <!ENTITY useCacheAfter.label "МБ на диске для кэша">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
+<!ENTITY certSelection.description "Когда сервер запрашивает мой личный сертификат:">
+<!ENTITY certs.auto "Отправлять автоматически">
+<!ENTITY certs.auto.accesskey "п">
+<!ENTITY certs.ask "Спрашивать каждый раз">
+<!ENTITY certs.ask.accesskey "ш">
 <!ENTITY viewCertificates.label "Просмотр сертификатов">
 <!ENTITY viewCertificates.accesskey "ф">
 <!ENTITY viewCRLs.label "Списки отзыва сертификатов">

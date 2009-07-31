@@ -38,6 +38,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Полноэкранный режим">
 <!ENTITY fullScreenCmd.accesskey "э">
+<!ENTITY showAllTabsCmd.label "Показать все вкладки">
+<!ENTITY showAllTabsCmd.accesskey "в">
 <!ENTITY fullScreenMinimize.tooltip "Свернуть">
 <!ENTITY fullScreenRestore.tooltip "Восстановить">
 <!ENTITY fullScreenClose.tooltip "Закрыть">
@@ -290,6 +292,7 @@
 <!ENTITY cutButton.tooltip "Вырезать">
 <!ENTITY copyButton.tooltip "Копировать">
 <!ENTITY pasteButton.tooltip "Вставить">
+<!ENTITY fullScreenButton.tooltip "Раскрывает окно на полный экран">
 <!ENTITY quitApplicationCmdWin.label "Выход">
 <!ENTITY quitApplicationCmdWin.accesskey "х">
 <!ENTITY goBackCmd.commandKey "[">
@@ -339,4 +342,4 @@
 <!ENTITY identity.runBy "который управляется">
 <!ENTITY identity.moreInfoLinkText "Подробнее…">
 <!ENTITY downloadMonitor2.tooltip "Щёлкните, чтобы открыть окно загрузок">
-<!ENTITY ctrlTab.search.emptyText "Поиск во вкладках">
+<!ENTITY allTabs.filter.emptyText "Поиск вкладок">

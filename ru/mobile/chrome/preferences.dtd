@@ -1,3 +1,4 @@
+<!ENTITY prefsHeader.label "Настройки">
 <!ENTITY content.title "Содержимое">
 <!ENTITY showImages.title "Показать изображения">
 <!ENTITY enableJavaScript.title "Использовать JavaScript">
