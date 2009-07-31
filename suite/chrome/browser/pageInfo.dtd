@@ -66,6 +66,7 @@
 <!ENTITY permTab "Разрешения">
 <!ENTITY permTab.accesskey "з">
 <!ENTITY permUseDefault "По умолчанию">
+<!ENTITY permAskAlways "Всегда спрашивать">
 <!ENTITY permAllow "Разрешить">
 <!ENTITY permAllowSession "Разрешить на сессию">
 <!ENTITY permBlock "Блокировать">
@@ -74,6 +75,7 @@
 <!ENTITY permPopup "Открывать всплывающие окна">
 <!ENTITY permCookie "Устанавливать куки">
 <!ENTITY permInstall "Устанавливать расширения или темы">
+<!ENTITY permGeo "Узнавать местоположение">
 <!ENTITY securityTab "Защита">
 <!ENTITY securityTab.accesskey "щ">
 <!ENTITY securityHeader "Информация о защите этой страницы">

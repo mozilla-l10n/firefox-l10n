@@ -81,7 +81,7 @@
 <!ENTITY consoleMessages.label "Сообщения">
 <!ENTITY consoleCodeEval.label "Код:">
 <!ENTITY consoleClear.label "Очистить">
-<!ENTITY consoleEvaluate.label "Выполнить">
+<!ENTITY consoleEvaluate.label "…">
 <!ENTITY consoleErrFile.label "Источник:">
 <!ENTITY consoleErrLine.label "Строка:">
 <!ENTITY consoleErrColumn.label "Символ:">
