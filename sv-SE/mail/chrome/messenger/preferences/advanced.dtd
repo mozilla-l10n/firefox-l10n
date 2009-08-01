@@ -92,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "R">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "När en server efterfrågar mitt personliga certifikat:">
+<!ENTITY certs.auto                      "Välj ett automatiskt">
+<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.ask                       "Fråga varje gång">
+<!ENTITY certs.ask.accesskey             "F">
+
 <!ENTITY viewCertificates.label         "Visa certifikat">
 <!ENTITY viewCertificates.accesskey     "c">
 <!ENTITY viewCRLs.label                 "Spärrlistor">
