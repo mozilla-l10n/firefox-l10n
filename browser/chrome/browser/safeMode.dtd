@@ -49,11 +49,11 @@
 <!ENTITY resetToolbars.label          "Återställ verktygsfälten">
 <!ENTITY resetToolbars.accesskey      "Å">
 
-<!ENTITY resetBookmarks.label         "Återställ bokmärken till &brandShortName; standard">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "Ta bort alla bokmärken utom säkerhetskopiorna">
+<!ENTITY deleteBookmarks.accesskey    "T">
 
 <!ENTITY resetUserPrefs.label         "Återställ alla inställningar till &brandShortName; standard">
-<!ENTITY resetUserPrefs.accesskey     "t">
+<!ENTITY resetUserPrefs.accesskey     "e">
 
 <!ENTITY restoreSearch.label          "Återställ standardsökmotorerna">
 <!ENTITY restoreSearch.accesskey      "s">
