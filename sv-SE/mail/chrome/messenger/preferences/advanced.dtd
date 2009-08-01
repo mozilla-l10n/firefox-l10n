@@ -59,7 +59,7 @@
 <!ENTITY modeAskMe.accesskey            "F">
 <!ENTITY modeAutomatic.label            "Hämta och installera uppdateringen automatiskt">
 <!ENTITY modeAutomatic.accesskey        "H">
-<!ENTITY modeAutoAddonWarn.label        "Varna om tillägg kommer att avaktiveras">
+<!ENTITY modeAutoAddonWarn.label        "Varna om tillägg kommer att inaktiveras">
 <!ENTITY modeAutoAddonWarn.accesskey    "o">
 <!ENTITY showUpdates.label              "Visa tidigare uppdateringar">
 <!ENTITY showUpdates.accesskey          "V">

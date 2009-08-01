@@ -1,7 +1,7 @@
 
 <!ENTITY  incompatible.title        "Inkompatibla poster">
 <!ENTITY  incompatible.intro        "Följande poster är inte kompatibla med den här uppdateringen till &brandShortName; och
-                                     kommer att avaktiveras efter installationen:">
+                                     kommer att inaktiveras efter installationen:">
 <!ENTITY  incompatible.update       "&brandShortName; kommer regelbundet att söka efter uppdateringar till dem ifall 
                                      kompatibla versioner blir tillgängliga.">
 <!ENTITY  incompatible.suffix       "&brandShortName;-uppdateringar innehåller viktiga säkerhetsförbättringar. Du

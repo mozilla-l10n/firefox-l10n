@@ -111,7 +111,7 @@
 <!ENTITY unsafeContentType.title "Osäker filtyp">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Kontakta webbplatsens ägare för att informera dom om detta problem.</li>
+  <li>Kontakta webbplatsens ägare för att informera dem om detta problem.</li>
 </ul>
 ">
 
@@ -171,7 +171,7 @@
   den efterfrågade saken. Platsen dirigerar om förfrågan på ett sätt som
   omöjliggör ett slutförande.</p>
   <ul>
-    <li>Har du avaktiverat eller blockerat kakor från den här platsen?</li>
+    <li>Har du inaktiverat eller blockerat kakor från den här platsen?</li>
     <li><em>NOTERA</em>: Om ett accepterande av den här platsens kakor inte
       löser problemet är det sannolikt ett problem med serverns konfiguration
       och inte med din dator.</li>

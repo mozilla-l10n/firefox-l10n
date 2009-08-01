@@ -40,10 +40,10 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; felsäkert läge">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; körs nu i felsäkert läge vilket innebär att dina egna inställningar, teman och tillägg för tillfället har avaktiveras.">
+<!ENTITY safeModeDescription.label    "&brandShortName; körs nu i felsäkert läge vilket innebär att dina egna inställningar, teman och tillägg för tillfället har inaktiverats.">
 <!ENTITY safeModeDescription2.label   "Du kan göra dessa ändringar permanenta:">
 
-<!ENTITY disableAddons.label          "Avaktivera alla tillägg">
+<!ENTITY disableAddons.label          "Inaktivera alla tillägg">
 <!ENTITY disableAddons.accesskey      "A">
 
 <!ENTITY resetToolbars.label          "Återställ verktygsfälten">
