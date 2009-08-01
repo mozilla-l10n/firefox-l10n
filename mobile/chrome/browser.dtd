@@ -14,7 +14,6 @@
 <!ENTITY openLocation.tooltip  "Ouvrir une adresse">
 <!ENTITY star.label            "Marquer">
 <!ENTITY star.tooltip          "Marquer cette page">
-<!ENTITY bookmarks.label       "Marque-pages">
 <!ENTITY bookmarks.tooltip     "Afficher les marque-pages">
 
 <!ENTITY newtab.label          "Nouvel onglet">
@@ -82,6 +81,7 @@
 <!ENTITY downloadRetry.label "Réessayer">
 
 <!ENTITY noResults.label "Pas de résultat">
+<!ENTITY allBookmarks.label        "Tous les marque-pages">
 
 <!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit aucune information sur son identité.">
 <!ENTITY identity.connectedTo2 "Connexion à">
