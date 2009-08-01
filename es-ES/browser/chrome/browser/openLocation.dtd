@@ -2,7 +2,7 @@
 <!ENTITY chooseFile.label "Elegir archivo…">
 <!ENTITY newWindow.label "Nueva ventana">
 <!ENTITY newTab.label "Nueva pestaña">
-<!ENTITY topWindow.label "Ventana actual">
+<!ENTITY topTab.label "Pestaña actual">
 <!ENTITY caption.label "Abrir dirección web">
 <!ENTITY openWhere.label "Abrir en:">
 <!ENTITY openBtn.label "Abrir">

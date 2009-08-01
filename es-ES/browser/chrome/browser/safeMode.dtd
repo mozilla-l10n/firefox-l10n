@@ -44,8 +44,8 @@
 <!ENTITY disableAddons.accesskey "D">
 <!ENTITY resetToolbars.label "Restaurar barras de herramientas y controles">
 <!ENTITY resetToolbars.accesskey "R">
-<!ENTITY resetBookmarks.label "Restablecer los marcadores predeterminados de &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "b">
+<!ENTITY deleteBookmarks.label "Eliminar todos los marcadores excepto para las copias">
+<!ENTITY deleteBookmarks.accesskey "c">
 <!ENTITY resetUserPrefs.label "Restaurar todas las preferencias de usuario predeterminadas de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey "p">
 <!ENTITY restoreSearch.label "Restaurar buscadores predeterminados">
