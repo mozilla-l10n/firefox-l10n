@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-e ", och sedan avmarkera alternativen för &quot;Sök automatiskt efter uppdateringar till&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "En översikt av de webbplatstjänster som är integrerade i produkten samt instruktioner om hur man om möjligt kan inaktivera dom bör finnas här.">
+<!ENTITY rights.webservices-unbranded "En översikt av de webbplatstjänster som är integrerade i produkten samt instruktioner om hur man om möjligt kan inaktivera dem bör finnas här.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Tillämpliga tjänstevillkor för denna produkt bör listas här.">

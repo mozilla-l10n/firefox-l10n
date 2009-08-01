@@ -14,7 +14,7 @@
 
 <!ENTITY  manualUpdate.title              "Kan inte uppdatera">
 <!ENTITY  manualUpdate.desc               "En rekommenderad säkerhets- och stabilitetsuppdatering är tillgänglig, men
-                                           du har inte dom systemrättigheter som krävs för att installera den. Kontakta
+                                           du har inte de systemrättigheter som krävs för att installera den. Kontakta
                                            systemadministratören eller försök igen från ett konto som har rättighet att
                                            installera programvara på den här datorn.">
 <!ENTITY  manualUpdateGetMsg.label        "Du kan alltid hämta den senaste versionen av &brandShortName; från:">

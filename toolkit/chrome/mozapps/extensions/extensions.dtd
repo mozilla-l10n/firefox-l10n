@@ -73,9 +73,9 @@
 <!ENTITY cmd.enableAll.label              "Aktivera alla">
 <!ENTITY cmd.enableAll.accesskey          "A">
 <!ENTITY cmd.enableAll.tooltip            "Aktiverar alla visade tillägg">
-<!ENTITY cmd.disableAll.label             "Avaktivera alla">
+<!ENTITY cmd.disableAll.label             "Inaktivera alla">
 <!ENTITY cmd.disableAll.accesskey         "v">
-<!ENTITY cmd.disableAll.tooltip           "Avaktiverar alla visade tillägg">
+<!ENTITY cmd.disableAll.tooltip           "Inaktiverar alla visade tillägg">
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "Använd tema">
@@ -92,7 +92,7 @@
 <!ENTITY cmd.enable.tooltip               "Aktiverar det här tillägget när &brandShortName; startas om">
 <!ENTITY cmd.disable.label                "Inaktivera">
 <!ENTITY cmd.disable.accesskey            "k">
-<!ENTITY cmd.disable.tooltip              "Avaktiverar det här tillägget när &brandShortName; startas om">
+<!ENTITY cmd.disable.tooltip              "Inaktiverar det här tillägget när &brandShortName; startas om">
 <!ENTITY cmd.uninstall.label              "Avinstallera">
 <!ENTITY cmd.uninstall2.accesskey         "A">
 <!ENTITY cmd.uninstall2.tooltip           "Avinstallerar det här tillägget när &brandShortName; startas om">
@@ -142,9 +142,9 @@
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "Tillhandahåller inga säkra uppdateringar.">
 <!ENTITY needsDependencies.label          "Kräver ytterligare poster.">
-<!ENTITY blocklisted.label                "Avaktiverad av säkerhetsskäl.">
+<!ENTITY blocklisted.label                "Inaktiverad av säkerhetsskäl.">
 <!ENTITY softBlocklisted.label            "Känd för att orsaka säkerhets- eller stabilitetsproblem.">
-<!ENTITY toBeDisabled.label               "Detta tillägg kommer att avaktiveras när &brandShortName; startas om.">
+<!ENTITY toBeDisabled.label               "Detta tillägg kommer att inaktiveras när &brandShortName; startas om.">
 <!ENTITY toBeEnabled.label                "Detta tillägg kommer att aktiveras när &brandShortName; startas om.">
 <!ENTITY toBeInstalled.label              "Detta tillägg kommer att installeras när &brandShortName; startas om.">
 <!ENTITY toBeUninstalled.label            "Detta tillägg kommer att avinstalleras när &brandShortName; startas om.">

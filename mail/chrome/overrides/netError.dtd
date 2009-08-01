@@ -69,7 +69,7 @@
 <!ENTITY unsafeContentType.title "Osäker filtyp">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Kontakta webbplatsens ägare för att informera dom om detta problem.</li>
+  <li>Kontakta webbplatsens ägare för att informera dem om detta problem.</li>
 </ul>
 ">
 
@@ -108,7 +108,7 @@
 <!ENTITY redirectLoop.title "Sidan dirigeras om felaktigt">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Det här problemet kan ibland uppstå om du avaktiverat eller nekat att ta
+  <li>Det här problemet kan ibland uppstå om du inaktiverat eller nekat att ta
     emot kakor.</li>
 </ul>
 ">
