@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Réinitialiser les barres d'outils et les contrôles">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "Réinitialiser les marque-pages à ceux par défaut de &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "d">
+<!ENTITY deleteBookmarks.label        "Supprimer tous les marque-pages à l'exception des backups">
+<!ENTITY deleteBookmarks.accesskey    "S">
 
 <!ENTITY resetUserPrefs.label         "Réinitialiser les préférences à celles par défaut de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
