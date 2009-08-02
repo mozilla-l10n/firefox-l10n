@@ -14,7 +14,6 @@
 <!ENTITY openLocation.tooltip  "Hely megnyitása">
 <!ENTITY star.label            "Csillag">
 <!ENTITY star.tooltip          "Oldal a könyvjelzők közé">
-<!ENTITY bookmarks.label       "Könyvjelzők">
 <!ENTITY bookmarks.tooltip     "Könyvjelzők megtekintése">
 
 <!ENTITY newtab.label          "Új lap">
@@ -82,6 +81,7 @@
 <!ENTITY downloadRetry.label       "Újra">
 
 <!ENTITY noResults.label           "Nincs eredmény">
+<!ENTITY allBookmarks.label        "Minden könyvjelző">
 
 <!ENTITY identity.unverifiedsite2 "Ez a webhely nem szolgáltat magáról azonosító információkat.">
 <!ENTITY identity.connectedTo2 "Kapcsolódva:">
@@ -99,7 +99,7 @@
 <!ENTITY consoleMessages.label     "Üzenetek">
 <!ENTITY consoleCodeEval.label     "Kód:">
 <!ENTITY consoleClear.label        "Törlés">
-<!ENTITY consoleEvaluate.label     "Kiértékelés">
+<!ENTITY consoleEvaluate.label     "...">
 <!ENTITY consoleErrFile.label      "Forrásfájl:">
 <!ENTITY consoleErrLine.label      "Sor:">
 <!ENTITY consoleErrColumn.label    "Oszlop:">

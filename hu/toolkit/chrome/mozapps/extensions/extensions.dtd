@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "T">
 <!ENTITY cmd.installFileAddon.tooltip     "Kiegészítő telepítése">
 <!ENTITY cmd.installFileTheme.tooltip     "Téma telepítése">
-<!ENTITY cmd.installUpdatesAll.label      "Frissítések telepítése">
-<!ENTITY cmd.installUpdatesAll.accesskey  "F">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Kijelölt frissítések telepítése">
+<!ENTITY cmd.installUpdatesAll2.label     "Frissítések telepítése">
+<!ENTITY cmd.installUpdatesAll2.accesskey "F">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Kijelölt frissítések telepítése">
 <!ENTITY cmd.restartApp2.label            "A &brandShortName; újraindítása">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "A &brandShortName; újraindítása a változások érvényesítéséhez">
