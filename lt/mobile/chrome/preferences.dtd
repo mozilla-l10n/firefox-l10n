@@ -28,6 +28,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY prefsHeader.label                             "Nuostatos">
 <!ENTITY content.title                                 "Turinys">
 <!ENTITY showImages.title                              "Įkelti paveikslus">
 <!ENTITY enableJavaScript.title                        "Leisti naudoti „JavaScript“">

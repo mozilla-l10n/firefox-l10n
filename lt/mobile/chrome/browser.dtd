@@ -46,7 +46,6 @@
 <!ENTITY openLocation.tooltip             "Atverti tinklavietę">
 <!ENTITY star.label                       "Žvaigždutė">
 <!ENTITY star.tooltip                     "Įtraukti į adresyną">
-<!ENTITY bookmarks.label                  "Adresynas">
 <!ENTITY bookmarks.tooltip                "Rodyti adresyną">
 
 <!ENTITY newtab.label                     "Nauja kortelė">
@@ -114,6 +113,7 @@
 <!ENTITY downloadRetry.label              "Iš naujo">
 
 <!ENTITY noResults.label                  "Rezultatų nėra">
+<!ENTITY allBookmarks.label               "Visi adresyno įrašai">
 
 <!ENTITY identity.unverifiedsite2         "Ši svetainė nepateikia duomenų apie savo tapatumą.">
 <!ENTITY identity.connectedTo2            "Prisijungta prie">
