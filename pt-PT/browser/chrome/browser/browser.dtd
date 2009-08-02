@@ -372,6 +372,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">
 <!ENTITY pasteButton.tooltip "Colar">
+<!ENTITY fullScreenButton.tooltip       "Mostrar janela em todo o ecrã">
+
 
 <!ENTITY quitApplicationCmdWin.label "Sair">
 <!ENTITY quitApplicationCmdWin.accesskey "S">
@@ -379,8 +381,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Sair">
 <!ENTITY quitApplicationCmd.accesskey "S">
-<!ENTITY quitApplicationCmdMac.label "Sair">
-<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY quitApplicationCmdMac.label "Sair do &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key "S">
 
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "W">
