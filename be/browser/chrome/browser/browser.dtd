@@ -292,6 +292,7 @@
 <!ENTITY cutButton.tooltip "Выразаць">
 <!ENTITY copyButton.tooltip "Капіяваць">
 <!ENTITY pasteButton.tooltip "Уставіць">
+<!ENTITY fullScreenButton.tooltip "Паказаць акно на увесь экран">
 <!ENTITY quitApplicationCmdWin.label "Выйсці">
 <!ENTITY quitApplicationCmdWin.accesskey "В">
 <!ENTITY goBackCmd.commandKey "[">

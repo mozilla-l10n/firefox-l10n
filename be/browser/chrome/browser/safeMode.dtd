@@ -44,8 +44,8 @@
 <!ENTITY disableAddons.accesskey "З">
 <!ENTITY resetToolbars.label "Узнавіць паліцы прыладаў і кіроўцы">
 <!ENTITY resetToolbars.accesskey "У">
-<!ENTITY resetBookmarks.label "Узнавіць змоўчныя закладкі &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "н">
+<!ENTITY deleteBookmarks.label "Выдаліць усе закладкі акрамя адновак">
+<!ENTITY deleteBookmarks.accesskey "к">
 <!ENTITY resetUserPrefs.label "Узнавіць усе змоўчныя карыстальніцкія перавагі &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey "п">
 <!ENTITY restoreSearch.label "Аднавіць змоўчныя машыны пошуку">

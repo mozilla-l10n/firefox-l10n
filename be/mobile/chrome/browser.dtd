@@ -14,7 +14,6 @@
 <!ENTITY openLocation.tooltip "Адкрыць месца">
 <!ENTITY star.label "Зорка">
 <!ENTITY star.tooltip "Закласці гэтую старонку">
-<!ENTITY bookmarks.label "Закладкі">
 <!ENTITY bookmarks.tooltip "Прагляд закладак">
 <!ENTITY newtab.label "Новая ўстаўка">
 <!ENTITY closetab.label "Зачыніць устаўку">
@@ -71,6 +70,7 @@
 <!ENTITY downloadResume.label "Працягнуць">
 <!ENTITY downloadRetry.label "Паўтарыць">
 <!ENTITY noResults.label "Няма вынікаў">
+<!ENTITY allBookmarks.label "Прагледзець усе закладкі">
 <!ENTITY identity.unverifiedsite2 "Гэтая пляцоўка сеціва не мае звестак пра адмету.">
 <!ENTITY identity.connectedTo2 "Злучаны з">
 <!ENTITY identity.runBy2 "выконваецца">
@@ -81,7 +81,7 @@
 <!ENTITY consoleMessages.label "Паведамленні">
 <!ENTITY consoleCodeEval.label "Код:">
 <!ENTITY consoleClear.label "Ачысціць">
-<!ENTITY consoleEvaluate.label "Ацаніць">
+<!ENTITY consoleEvaluate.label "…">
 <!ENTITY consoleErrFile.label "Зыходны файл:">
 <!ENTITY consoleErrLine.label "Радок:">
 <!ENTITY consoleErrColumn.label "Слупок:">
