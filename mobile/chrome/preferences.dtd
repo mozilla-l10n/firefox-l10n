@@ -1,3 +1,4 @@
+<!ENTITY prefsHeader.label                         "Beállítások">
 <!ENTITY content.title                             "Tartalom">
 <!ENTITY showImages.title                          "Képek megjelenítése">
 <!ENTITY enableJavaScript.title                    "JavaScript engedélyezése">
