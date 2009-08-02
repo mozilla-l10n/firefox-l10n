@@ -371,6 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Kes">
 <!ENTITY copyButton.tooltip "Kopyala">
 <!ENTITY pasteButton.tooltip "Yapıştır">
+<!ENTITY fullScreenButton.tooltip "Display the window in full screen">
 
 <!ENTITY quitApplicationCmdWin.label "Çık">
 <!ENTITY quitApplicationCmdWin.accesskey "k">

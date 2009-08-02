@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "Araç çubuğunu ve kontrol ayarlarını sıfırla">
 <!ENTITY resetToolbars.accesskey "r">
 
-<!ENTITY resetBookmarks.label "&brandShortName; öntanımlı yer imlerini etkinleştir">
-<!ENTITY resetBookmarks.accesskey "y">
+<!ENTITY deleteBookmarks.label "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.accesskey "b">
 
 <!ENTITY resetUserPrefs.label "Bütün kullanıcı ayarlarını &brandShortName; öntanımlı ayarlara getir">
 <!ENTITY resetUserPrefs.accesskey "B">

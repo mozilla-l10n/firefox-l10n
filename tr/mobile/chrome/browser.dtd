@@ -14,7 +14,6 @@
 <!ENTITY openLocation.tooltip "Konumu aç">
 <!ENTITY star.label "Yıldız">
 <!ENTITY star.tooltip "Bu sayfayı yer imlerine ekle">
-<!ENTITY bookmarks.label "Yer imleri">
 <!ENTITY bookmarks.tooltip "Yer imlerini göster">
 
 <!ENTITY newtab.label "Yeni sekme">
@@ -29,7 +28,7 @@
 <!ENTITY noSuggestions.label "(Öneri yok)">
 <!ENTITY addToDictionary.label "Sözlüğe ekle">
 
-<!ENTITY bookmarksHeader.label "Yer imleri">
+<!ENTITY bookmarksHeader.label "Bookmarks">
 <!ENTITY bookmarksManage.label "Yönet">
 <!ENTITY foldersHeader.label "Dizinler">
 
@@ -82,6 +81,7 @@
 <!ENTITY downloadRetry.label "Yeniden dene">
 
 <!ENTITY noResults.label "Sonuç yok">
+<!ENTITY allBookmarks.label "See all bookmarks">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
 <!ENTITY identity.connectedTo2 "Bağlanılan">
@@ -99,7 +99,7 @@
 <!ENTITY consoleMessages.label "İletiler">
 <!ENTITY consoleCodeEval.label "Kod:">
 <!ENTITY consoleClear.label "Temizle">
-<!ENTITY consoleEvaluate.label "Değerlendirme">
+<!ENTITY consoleEvaluate.label "…">
 <!ENTITY consoleErrFile.label "Kaynak dosya:">
 <!ENTITY consoleErrLine.label "Satır:">
 <!ENTITY consoleErrColumn.label "Sütun:">
