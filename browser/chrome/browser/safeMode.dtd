@@ -51,8 +51,8 @@
 <!ENTITY resetToolbars.label          "Atstatyti priemonių juostų ir valdiklių numatytąsias būsenas">
 <!ENTITY resetToolbars.accesskey      "j">
 
-<!ENTITY resetBookmarks.label         "Atstatyti numatytąjį „&brandShortName;“ adresyną">
-<!ENTITY resetBookmarks.accesskey     "a">
+<!ENTITY deleteBookmarks.label        "Pašalinti adresyną, paliekant tik atsargines kopijas">
+<!ENTITY deleteBookmarks.accesskey    "a">
 
 <!ENTITY resetUserPrefs.label         "Atstatyti visas „&brandShortName;“ numatytąsias nuostatas">
 <!ENTITY resetUserPrefs.accesskey     "v">

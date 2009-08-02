@@ -399,6 +399,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Iškirpti">
 <!ENTITY copyButton.tooltip             "Kopijuoti">
 <!ENTITY pasteButton.tooltip            "Įdėti">
+<!ENTITY fullScreenButton.tooltip       "Rodyti šį langą per visą ekraną">
 
 <!ENTITY quitApplicationCmdWin.label       "Baigti darbą"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "B">
