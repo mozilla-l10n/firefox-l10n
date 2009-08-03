@@ -375,6 +375,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY cutButton.tooltip "Wytnij" >
 <!ENTITY copyButton.tooltip "Kopiuj" >
 <!ENTITY pasteButton.tooltip "Wklej" >
+<!ENTITY fullScreenButton.tooltip       "Wyświetl okno na pełnym ekranie">
 
 <!ENTITY quitApplicationCmdWin.label     "Zakończ" >
 <!ENTITY quitApplicationCmdWin.accesskey "k" >
