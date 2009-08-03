@@ -85,6 +85,12 @@
 <!ENTITY useCacheAfter.label             " දක්වා ප්‍රමාණයක් භාවිතා කරන්න">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "සේවාදායකයක් මගේ පෞද්ගලික සහතික ඉල්ලන විටදී:">
+<!ENTITY certs.auto                      "ස්වයංක්‍රීයව එකක් තෝරන්න">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "සෑම විටම විමසන්න">
+<!ENTITY certs.ask.accesskey             "A">
+
 <!ENTITY viewCertificates.label         "සහතික පෙන්වීම">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "අහෝසිකිරීමේ ලැයිස්තුව">
