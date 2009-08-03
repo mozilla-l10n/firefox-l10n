@@ -49,8 +49,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File">
 
 <!ENTITY retention.label "තබාගැනීමේ පිළිවෙත">
-<!ENTITY retentionUseDefault.label  "සේවාදායක පෙරනිමි භාවිතා කරන්න">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label  "මගේ ගිණූම් සැකසුම් භාවිතා කරන්න">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "දිනකට වඩා පැරණි ලිපි">
 <!ENTITY message.label "ලිපි">
 <!ENTITY retentionCleanup.label "ඩිස්කයේ ඉඩ ලබා ගැනීමට, පැරණි ලිපි ස්ථිරව මැකිය හැකිය">
