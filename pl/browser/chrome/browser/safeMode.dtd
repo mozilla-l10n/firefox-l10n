@@ -51,8 +51,8 @@
 <!ENTITY resetToolbars.label          "Przywróć domyślne paski narzędzi i przyciski">
 <!ENTITY resetToolbars.accesskey      "P">
 
-<!ENTITY resetBookmarks.label         "Przywróć domyślny zestaw zakładek programu &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "z">
+<!ENTITY deleteBookmarks.label        "Usuń wszystkie zakładki z wyjątkiem kopii roboczych">
+<!ENTITY deleteBookmarks.accesskey    "z">
 
 <!ENTITY resetUserPrefs.label         "Przełącz wszystkie ustawienia programu &brandShortName; na wartości domyślne">
 <!ENTITY resetUserPrefs.accesskey     "e">
