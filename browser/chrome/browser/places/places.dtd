@@ -42,8 +42,8 @@
 <!ENTITY cmd.importHTML.label           "HTML importieren…">
 <!ENTITY cmd.importHTML.accesskey       "I">
 
-<!ENTITY cmd.backup.label               "Backup…">
-<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.backup.label               "Sichern…">
+<!ENTITY cmd.backup.accesskey           "S">
 <!ENTITY cmd.restore2.label              "Wiederherstellen">
 <!ENTITY cmd.restore2.accesskey          "W">
 <!ENTITY cmd.restoreFromFile.label      "Datei wählen…">
@@ -195,7 +195,7 @@
 
 <!ENTITY view.addons.label   "Ansichten-Add-ons herunterladen">
 
-<!ENTITY maintenance.label      "Importieren und Backup">
+<!ENTITY maintenance.label      "Importieren und Sichern">
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Zurück">
