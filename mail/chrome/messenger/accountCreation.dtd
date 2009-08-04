@@ -1,0 +1,74 @@
+<!ENTITY welcome.description             "Création rapide de compte">
+<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
+<!ENTITY name.description                "Nom et prénom">
+<!ENTITY email.description               "Adresse électronique">
+<!ENTITY password.description            "Mot de passe">
+
+<!ENTITY next.label                      "Suivant &#187;">
+<!ENTITY next.accesskey                  "S">
+<!ENTITY back.label                      "&#171; Précédent">
+<!ENTITY back.accesskey                  "P">
+
+<!ENTITY accountInformation.label        "Information de compte">
+<!ENTITY username.label                  "identifiant">
+<!ENTITY receivingServer.label           "réception">
+<!ENTITY sendingServer.label             "envoi">
+<!ENTITY noEncryption.label              "Aucune">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
+     which will create the account and take the user to the account
+     configuration screen. -->
+<!ENTITY createAndEditSettings.label     "Créer et modifier les paramètres de compte">
+<!ENTITY cancel.label                    "Annuler">
+<!ENTITY stop.label                      "Arrêter">
+<!ENTITY stop.accesskey                  "A">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Re-tester la configuration">
+<!ENTITY retest.accesskey                "R">
+<!ENTITY edit.label                      "Modifier">
+<!ENTITY edit.accesskey                  "M">
+
+<!ENTITY rememberPassword.label          "Se souvenir du mot de passe">
+<!ENTITY rememberPassword.accesskey      "S">
+
+<!ENTITY warning.label                   "Attention !">
+<!ENTITY incomingSettings.label          "Paramètres du courrier entrant :">
+<!ENTITY outgoingSettings.label          "Paramètres du courrier sortant :">
+<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
+     warning on the incoming server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmIncomingWarning.label    "Je comprends les risques.">
+<!ENTITY confirmIncomingWarning.accesskey "J">
+<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmOutgoingWarning.label    "Je comprends les risques.">
+<!ENTITY confirmOutgoingWarning.accesskey "e">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Créer le compte">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Modifier les paramètres">
+<!ENTITY changeSettings.accesskey        "M">
+
+<!ENTITY contactYourProvider.description "&brandShortName; vous laissera accéder à vos courriels en utilisant les configurations fournies. Cependant, vous devriez vraiment contacter votre administrateur ou votre fournisseur de messagerie concernant ces connexions incorrectes. Consultez la FAQ de &brandShortName; pour plus d'informations.">
+
+<!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n'est pas sécurisé.">
+<!ENTITY insecureServer.tooltip.details  "Cliquez sur le cercle pour plus de détails.">
+
+<!ENTITY insecureClearText.description   "Les courriels sont envoyés en clair et peuvent donc être lus par des escrocs, etc. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
+<!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu'un n'intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
+<!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">
