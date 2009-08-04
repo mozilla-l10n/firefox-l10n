@@ -451,6 +451,10 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Atsiųsti">
 <!ENTITY newMsgButton.label "Rašyti">
+<!ENTITY newHTMLMessageCmd.label "Rašyti HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Rašyti grynuoju tekstu">
+<!ENTITY newPlainTextMessageCmd.accesskey "g">
 <!ENTITY replyButton.label "Atsakyti">
 <!ENTITY replyAllButton.label "Ats. visiems">
 <!ENTITY forwardButton.label "Persiųsti">
