@@ -52,9 +52,9 @@
 <!ENTITY newVirtualFolderCmd.accesskey "r">
 <!ENTITY newAccountCmd.label "Compte…">
 <!ENTITY newAccountCmd.accesskey "p">
-<!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
+<!ENTITY openMessageFileCmd.label           "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Pièces jointes">
+<!ENTITY openAttachmentCmd.label            "Pièces jointes">
 <!ENTITY openAttachmentCmd.accesskey "j">
 <!ENTITY saveAsMenu.label "Enregistrer comme">
 <!ENTITY saveAsMenu.accesskey "s">
@@ -84,7 +84,7 @@
 <!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
 <!ENTITY emptyTrashCmd.accesskey "V">
-<!ENTITY offlineMenu.label "Hors ligne">
+<!ENTITY offlineMenu.label                  "Hors ligne">
 <!ENTITY offlineMenu.accesskey "D">
 <!ENTITY synchronizeOfflineCmd.label "Synchroniser…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
@@ -92,7 +92,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Relever les messages sélectionnés">
 <!ENTITY downloadSelectedCmd.accesskey "m">
-<!ENTITY downloadFlaggedCmd.label "Relever les messages suivis">
+<!ENTITY downloadFlaggedCmd.label           "Relever les messages suivis">
 <!ENTITY downloadFlaggedCmd.accesskey "c">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "p">
@@ -105,13 +105,13 @@
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Supprimer le message">
 <!ENTITY deleteMsgCmd.accesskey "S">
-<!ENTITY undeleteMsgCmd.label "Restaurer le message">
+<!ENTITY undeleteMsgCmd.label               "Restaurer le message">
 <!ENTITY undeleteMsgCmd.accesskey "R">
 <!ENTITY cancelNewsMsgCmd.label "Annuler le message">
 <!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY deleteMsgsCmd.label "Supprimer les messages sélectionnés">
 <!ENTITY deleteMsgsCmd.accesskey "S">
-<!ENTITY undeleteMsgsCmd.label "Restaurer les messages sélectionnés">
+<!ENTITY undeleteMsgsCmd.label              "Restaurer les messages sélectionnés">
 <!ENTITY undeleteMsgsCmd.accesskey "R">
 <!ENTITY cancelNewsMsgsCmd.label "Annuler les messages sélectionnés">
 <!ENTITY cancelNewsMsgsCmd.accesskey "A">
@@ -124,8 +124,8 @@
 <!ENTITY selectThreadCmd.label "Discussion">
 <!ENTITY selectThreadCmd.accesskey "D">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Messages suivis">
-<!ENTITY selectFlaggedCmd.accesskey "c">
+<!ENTITY selectFlaggedCmd.label             "Messages suivis">
+<!ENTITY selectFlaggedCmd.accesskey         "u">
 <!ENTITY folderPropsCmd.label "Propriétés du dossier">
 <!ENTITY folderPropsFolderCmd.label "Propriétés du dossier…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriétés du groupe…">
@@ -138,10 +138,10 @@
 <!ENTITY redoMoveMsgCmd.label "Rétablir le déplacement de message">
 <!ENTITY undoCopyMsgCmd.label "Annuler la copie de message">
 <!ENTITY redoCopyMsgCmd.label "Rétablir la copie de message">
-<!ENTITY undoMarkAllCmd.label "Annuler le marquage de tous les messages comme lus">
-<!ENTITY redoMarkAllCmd.label "Rétablir le marquage de tous les messages comme lus">
+<!ENTITY undoMarkAllCmd.label               "Annuler le marquage de tous les messages comme lus">
+<!ENTITY redoMarkAllCmd.label               "Rétablir le marquage de tous les messages comme lus">
 <!ENTITY undoDefaultCmd.label "Annuler">
-<!ENTITY redoDefaultCmd.label "Rétablir">
+<!ENTITY redoDefaultCmd.label               "Rétablir">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Barre d'outils courrier">
@@ -432,7 +432,7 @@
 <!ENTITY searchMailCmd.label "Rechercher dans le courrier…">
 <!ENTITY searchMailCmd.accesskey "c">
 <!ENTITY searchMailCmd.key "s">
-<!ENTITY searchAddressesCmd.label "Rechercher dans les adresses…">
+<!ENTITY searchAddressesCmd.label           "Rechercher dans les adresses…">
 <!ENTITY searchAddressesCmd.accesskey "a">
 <!ENTITY filtersCmd.label "Filtres de messages…">
 <!ENTITY filtersCmd.accesskey "i">
@@ -457,6 +457,10 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Relever">
 <!ENTITY newMsgButton.label "Écrire">
+<!ENTITY newHTMLMessageCmd.label "Écrire en HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Écrire en texte brut">
+<!ENTITY newPlainTextMessageCmd.accesskey "b">
 <!ENTITY replyButton.label "Répondre">
 <!ENTITY replyAllButton.label " Rép. à tous">
 <!ENTITY forwardButton.label " Faire suivre">
@@ -568,7 +572,7 @@
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY searchSubjectAndFrom.emptytext "Rechercher dans le sujet et l'expéditeur">
-<!ENTITY advancedButton.label "Avancé…">
+<!ENTITY advancedButton.label               "Avancé…">
 <!ENTITY advancedButton.accesskey "v">
 
 <!ENTITY all.label "Tout">
