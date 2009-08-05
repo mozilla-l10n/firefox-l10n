@@ -1,0 +1,46 @@
+<!ENTITY welcome.description "Быстрая настройка учётной записи">
+<!ENTITY autoconfigWizard.style "width: 640px; height: 480px;">
+<!ENTITY name.description "Ваше имя">
+<!ENTITY email.description "Электронная почта">
+<!ENTITY password.description "Пароль">
+<!ENTITY next.label "Далее »">
+<!ENTITY next.accesskey "а">
+<!ENTITY back.label "« Назад">
+<!ENTITY back.accesskey "з">
+<!ENTITY accountInformation.label "Информация учётной записи">
+<!ENTITY username.label "имя пользователя">
+<!ENTITY receivingServer.label "получающий">
+<!ENTITY sendingServer.label "отправляющий">
+<!ENTITY noEncryption.label "Нет">
+<!ENTITY starttls.label "STARTTLS">
+<!ENTITY sslTls.label "SSL/TLS">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop.label "POP">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY createAndEditSettings.label "Создать и редактировать параметры учётной записи">
+<!ENTITY cancel.label "Отмена">
+<!ENTITY stop.label "Стоп">
+<!ENTITY stop.accesskey "т">
+<!ENTITY retest.label "Перепроверить конфигурацию">
+<!ENTITY retest.accesskey "н">
+<!ENTITY edit.label "Изменить">
+<!ENTITY edit.accesskey "е">
+<!ENTITY rememberPassword.label "Запомнить пароль">
+<!ENTITY rememberPassword.accesskey "п">
+<!ENTITY warning.label "Предупреждение!">
+<!ENTITY incomingSettings.label "Параметры входящей почты:">
+<!ENTITY outgoingSettings.label "Параметры исходящей почты:">
+<!ENTITY confirmIncomingWarning.label "Я понимаю риски.">
+<!ENTITY confirmIncomingWarning.accesskey "н">
+<!ENTITY confirmOutgoingWarning.label "Я понимаю риски.">
+<!ENTITY confirmOutgoingWarning.accesskey "и">
+<!ENTITY createAccount.label "Создать учётную запись">
+<!ENTITY createAccount.accesskey "з">
+<!ENTITY changeSettings.label "Изменить настройки">
+<!ENTITY changeSettings.accesskey "м">
+<!ENTITY contactYourProvider.description "Вы можете забирать свою почту с помощью &brandShortName;, используя предоставленные конфигурации. Тем не менее вам следует связаться с вашим администратором или провайдером электронной почты касательно негодных настроек этих соединений. Для получения более подробной информации обратитесь к Thunderbird FAQ.">
+<!ENTITY insecureServer.tooltip.title "Предупреждение! Это незащищённый сервер.">
+<!ENTITY insecureServer.tooltip.details "Для получения подробностей щёлкните по кружку.">
+<!ENTITY insecureClearText.description "Письма будут отправляться в виде простого текста, так что ваша почта может быть прочтена злоумышленниками и т.д.. &brandShortName; позволит вам работать с вашей почтой, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить почтовый сервер на работу по защищённому соединению.">
+<!ENTITY insecureSelfSigned.description "Сервер использует сертификат, которому мы не можем доверять, так что мы не можем быть уверены, что кто-то не перехватывает трафик между &brandShortName; и вашим сервером. &brandShortName; позволит вам работать с вашей почтой, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить почтовый сервер на работу с доверенным сертификатом.">
+<!ENTITY secureServer.description "Поздравляем! Это защищённый сервер.">
