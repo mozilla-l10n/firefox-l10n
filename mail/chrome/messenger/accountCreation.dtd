@@ -1,0 +1,104 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY welcome.description             "Spartusis paskyros vedlys">
+<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
+<!ENTITY name.description                "Jūsų vardas">
+<!ENTITY email.description               "El. pašto adresas">
+<!ENTITY password.description            "Slaptažodis">
+
+<!ENTITY next.label                      "Toliau &#187;">
+<!ENTITY next.accesskey                  "T">
+<!ENTITY back.label                      "&#171; Atgal">
+<!ENTITY back.accesskey                  "A">
+
+<!ENTITY accountInformation.label        "Abonento duomenys">
+<!ENTITY username.label                  "abonento vardas">
+<!ENTITY receivingServer.label           "laiškų gavimo serveris">
+<!ENTITY sendingServer.label             "laiškų siuntimo serveris">
+<!ENTITY noEncryption.label              "Nenaudojamas">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
+     which will create the account and take the user to the account
+     configuration screen. -->
+<!ENTITY createAndEditSettings.label     "Sukurti paskyrą ir keisti jos nuostatas">
+<!ENTITY cancel.label                    "Atsisakyti">
+<!ENTITY stop.label                      "Stabdyti">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Išbandyti nuostatas dar kartą">
+<!ENTITY retest.accesskey                "b">
+<!ENTITY edit.label                      "Taisyti">
+<!ENTITY edit.accesskey                  "T">
+
+<!ENTITY rememberPassword.label          "Įsiminti slaptažodį">
+<!ENTITY rememberPassword.accesskey      "m">
+
+<!ENTITY warning.label                   "Dėmesio!">
+<!ENTITY incomingSettings.label          "Laiškų gavimas:">
+<!ENTITY outgoingSettings.label          "Laiškų siuntimas:">
+<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
+     warning on the incoming server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmIncomingWarning.label    "Aš suprantu pavojus.">
+<!ENTITY confirmIncomingWarning.accesskey "s">
+<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmOutgoingWarning.label    "Aš suprantu pavojus.">
+<!ENTITY confirmOutgoingWarning.accesskey "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Kurti paskyrą">
+<!ENTITY createAccount.accesskey         "K">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Keisti nuostatas">
+<!ENTITY changeSettings.accesskey        "n">
+
+<!ENTITY contactYourProvider.description "„&brandShortName;“ gali Jums leisti gauti paštą naudojant pateiktąsias nuostatas. Tačiau Jums derėtų susisiekti su sistemos administratoriumi ar el. pašto paslaugos teikėju dėl šių netinkamų nuostatų. Plačiau apie tai – „Thunderbird“ žinyne.">
+
+<!ENTITY insecureServer.tooltip.title    "Dėmesio! Šis serveris nesaugus.">
+<!ENTITY insecureServer.tooltip.details  "Spustelėkite apskritimą, jei norite sužinoti daugiau.">
+
+<!ENTITY insecureClearText.description   "Laiškai bus siunčiami nešifruotu ryšiu, todėl juos galės perskaityti kenkėjai. „&brandShortName;“ Jums leis gauti paštą, tačiau Jums tikrai derėtų priminti savo el. pašto paslaugos teikėjui, kad šis suteiktų galimybę jungtis šifruotu ryšiu.">
+<!ENTITY insecureSelfSigned.description  "Šis serveris naudoja liudijimą, kurio tapatumu negalime pasikliauti, tad nėra garantijos, jog pašalinės akys negalės perimti duomenų, keliaujančių tarp Jūsų programos „&brandShortName;“ ir serverio. „&brandShortName;“ Jums leis gauti paštą, tačiau Jums tikrai derėtų priminti savo el. pašto paslaugos teikėjui, kad šis serveryje naudotų patikimą liudijimą.">
+<!ENTITY secureServer.description        "Sveikiname! Tai – saugus serveris.">
