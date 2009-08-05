@@ -457,6 +457,10 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Abrufen">
 <!ENTITY newMsgButton.label "Verfassen">
+<!ENTITY newHTMLMessageCmd.label "In HTML verfassen">
+<!ENTITY newHTMLMessageCmd.accesskey "T">
+<!ENTITY newPlainTextMessageCmd.label "In reinem Text verfassen">
+<!ENTITY newPlainTextMessageCmd.accesskey "H">
 <!ENTITY replyButton.label "Antwort">
 <!ENTITY replyAllButton.label "Antw. an alle">
 <!ENTITY forwardButton.label "Weiterleiten">
