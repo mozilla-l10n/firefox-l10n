@@ -389,6 +389,10 @@
 <!ENTITY totalColumn.label "Всего">
 <!ENTITY getMsgButton.label "Получить">
 <!ENTITY newMsgButton.label "Создать">
+<!ENTITY newHTMLMessageCmd.label "Создать в HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Создать в обычном тексте">
+<!ENTITY newPlainTextMessageCmd.accesskey "б">
 <!ENTITY replyButton.label "Ответить">
 <!ENTITY replyAllButton.label "Ответить всем">
 <!ENTITY forwardButton.label "Переслать">

@@ -30,6 +30,6 @@
 <!ENTITY keynav.label "Клавиатура">
 <!ENTITY search.label "Поиск в Интернете">
 <!ENTITY policies.label "Политика защиты">
-<!ENTITY mousewheel.label "Ролик мыши">
+<!ENTITY mousewheel.label "Колесико мыши">
 <!ENTITY scriptsAndWindows.label "Сценарии и плагины">
 <!ENTITY focusSearch.key "f">

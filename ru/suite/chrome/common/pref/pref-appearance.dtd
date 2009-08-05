@@ -1,7 +1,7 @@
 <!ENTITY pref.appearance.title "Внешний вид">
 <!ENTITY onStartLegend.label "При запуске &brandShortName; открывать">
-<!ENTITY navCheck.label "Browser">
-<!ENTITY navCheck.accesskey "B">
+<!ENTITY navCheck.label "Браузер">
+<!ENTITY navCheck.accesskey "р">
 <!ENTITY showToolsLegend.label "Показывать панели инструментов как">
 <!ENTITY picsNtextRadio.label "Значки и текст">
 <!ENTITY picsNtextRadio.accesskey "е">
