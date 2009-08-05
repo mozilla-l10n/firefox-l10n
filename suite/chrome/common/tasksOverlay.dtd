@@ -1,8 +1,8 @@
-<!ENTITY navigatorCmd.label "Browser">
-<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.label "Браузер">
+<!ENTITY navigatorCmd.accesskey "р">
 <!ENTITY navigatorCmd.commandkey "1">
-<!ENTITY editorCmd.label "Composer">
-<!ENTITY editorCmd.accesskey "c">
+<!ENTITY editorCmd.label "Компоновщик">
+<!ENTITY editorCmd.accesskey "п">
 <!ENTITY editorCmd.commandkey "4">
 <!ENTITY javaConsoleCmd.label "Консоль Java">
 <!ENTITY javaConsoleCmd.accesskey "К">

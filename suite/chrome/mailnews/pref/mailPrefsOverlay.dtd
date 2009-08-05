@@ -1,7 +1,7 @@
 <!ENTITY enbJsCheckMailNews.label "Почты и групп новостей">
 <!ENTITY enbJsCheckMailNews.accesskey "П">
 <!ENTITY enbPluginCheckMailNews.label "Почты и групп новостей">
-<!ENTITY enbPluginCheckMailNews.accesskey "к">
+<!ENTITY enbPluginCheckMailNews.accesskey "ч">
 <!ENTITY mail.label "Почта и группы новостей">
 <!ENTITY mail.accesskey "П">
 <!ENTITY addressbook.label "Адресная книга">
