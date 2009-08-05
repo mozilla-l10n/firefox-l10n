@@ -457,6 +457,10 @@
 
 <!ENTITY getMsgButton.label "Get Msgs">
 <!ENTITY newMsgButton.label "Yeni ileti">
+<!ENTITY newHTMLMessageCmd.label "Compose in HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Compose in Plain Text">
+<!ENTITY newPlainTextMessageCmd.accesskey "P">
 <!ENTITY replyButton.label "Yanıtla">
 <!ENTITY replyAllButton.label "Hepsini yanıtla">
 <!ENTITY forwardButton.label "İlet">
