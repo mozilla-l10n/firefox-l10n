@@ -50,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Na celú obrazovku">
 <!ENTITY fullScreenCmd.accesskey "c">
+<!ENTITY showAllTabsCmd.label "Zobraziť všetky karty">
+<!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovať okno">
 <!ENTITY fullScreenRestore.tooltip "Obnoviť">
@@ -368,6 +370,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Vystrihnúť">
 <!ENTITY copyButton.tooltip             "Kopírovať">
 <!ENTITY pasteButton.tooltip            "Prilepiť">
+<!ENTITY fullScreenButton.tooltip       "Zobraziť okno na celú obrazovku">
 
 <!ENTITY quitApplicationCmdWin.label    "Koniec">
 <!ENTITY quitApplicationCmdWin.accesskey "K">
@@ -444,4 +447,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Kliknutím otvoríte Správcu preberania súborov">
 
-<!ENTITY ctrlTab.search.emptyText "Hľadať karty">
+<!ENTITY allTabs.filter.emptyText "Hľadať v kartách">

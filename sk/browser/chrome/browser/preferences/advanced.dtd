@@ -90,11 +90,11 @@
 <!ENTITY certs.auto                      "Vybrať automaticky">
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "Vždy sa opýtať">
-<!ENTITY certs.ask.accesskey             "t">
+<!ENTITY certs.ask.accesskey             "V">
 <!ENTITY viewCerts.label                 "Certifikáty">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewCRLs.label                  "Zrušené certifikáty">
-<!ENTITY viewCRLs.accesskey              "r">
+<!ENTITY viewCRLs.accesskey              "u">
 <!ENTITY verify2.label                   "Overenie">
 <!ENTITY verify2.accesskey               "O">
 <!ENTITY viewSecurityDevices.label       "Zariadenia">

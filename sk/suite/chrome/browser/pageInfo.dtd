@@ -112,6 +112,7 @@
 <!ENTITY  permTab               "Povolenia">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Použiť predvolené">
+<!ENTITY  permAskAlways         "Vždy sa opýtať">
 <!ENTITY  permAllow             "Povoliť">
 <!ENTITY  permAllowSession      "Povoliť pre reláciu">
 <!ENTITY  permBlock             "Blokovať">
@@ -120,6 +121,7 @@
 <!ENTITY  permPopup             "Otváranie vyskakovacích okien">
 <!ENTITY  permCookie            "Nastavovanie cookies">
 <!ENTITY  permInstall           "Inštalovanie rozšírení alebo tém">
+<!ENTITY  permGeo               "Prezradenie polohy">
 
 <!ENTITY  securityTab           "Zabezpečenie">
 <!ENTITY  securityTab.accesskey "Z">

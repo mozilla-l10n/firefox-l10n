@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Vytvorí nový indexový súbor">
 
 <!ENTITY retention.label "Pravidlá manipulácie so správami">
-<!ENTITY retentionUseDefault.label "Použiť predvolené nastavenia servera">
-<!ENTITY retentionUseDefault.accesskey "P">
+<!ENTITY retentionUseAccount.label "Použiť nastavenia účtu">
+<!ENTITY retentionUseAccount.accesskey "P">
 <!ENTITY daysOld.label "dní">
 <!ENTITY message.label "správ">
 <!ENTITY retentionCleanup.label "Ponechať správy:">

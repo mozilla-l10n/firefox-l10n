@@ -1,3 +1,4 @@
+<!ENTITY prefsHeader.label                         "Nastavenia">
 <!ENTITY content.title                             "Obsah">
 <!ENTITY showImages.title                          "Zobrazovať obrázky">
 <!ENTITY enableJavaScript.title                    "Povoliť JavaScript">
