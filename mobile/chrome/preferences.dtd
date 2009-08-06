@@ -1,3 +1,4 @@
+<!ENTITY prefsHeader.label                         "Preferencias">
 <!ENTITY content.title                             "Contenido">
 <!ENTITY showImages.title                          "Mostrar imágenes">
 <!ENTITY enableJavaScript.title                    "Habilitar JavaScript">
