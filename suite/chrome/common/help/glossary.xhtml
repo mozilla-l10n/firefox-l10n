@@ -154,7 +154,7 @@
 
 <dt id="component_bar">Component Bar</dt><dd>The toolbar located at the bottom
   left of any &brandShortName; window. The Component Bar allows you to switch
-  between &brandShortName; components by clicking icons for Navigator,
+  between &brandShortName; components by clicking icons for Browser,
   Mail &amp; Newsgroups, Composer, and so on.</dd>
 
 <dt id="cookie">cookie</dt><dd>A small bit of information stored on your
@@ -242,6 +242,17 @@
   <a href="#signing_key">signing key</a> and its equivalent public key,
   constitute a <a href="#dual_key_pairs">dual key pairs</a>.</dd>
 
+<dt id="feed">feed</dt><dd>A frequently updated source of references to web
+  pages, usually blog articles or news. Technically it is an XML document
+  available through a public well-known URL, comprising of several items inside,
+  each one containing some metadata (possibly including a summary) and an URL
+  to the full blog or news article. The XML document is regenerated at fixed
+  intervals, or whenever a new article is published to the website. Web
+  applications can subscribe to the URL serving the feed and present the new
+  articles as they are updated in the underlying XML document. There are
+  specific XML formats for feeds, most common of which are
+  <a href="#rss">RSS</a> and Atom.</dd>
+
 <dt id="fingerprint">fingerprint</dt><dd>See
   <a href="#certificate_fingerprint">certificate fingerprint</a>.</dd>
 
@@ -260,11 +271,6 @@
   ability to store a cookie in your browser, even though you don&apos;t visit
   it directly. Also known as <q>third-party cookie</q>.</dd>
 
-<dt id="form_manager">Form Manager</dt><dd>The part of the browser that can
-  help you save the personal data you enter into online forms, such as your
-  name, address, phone, and so on. Then, when a website presents you with a
-  form, Form Manager can fill it in automatically.</dd>
-
 <dt id="frame">frame</dt><dd>Frames are <a href="#web_page">web pages</a>
   contained inside of an all-encompasssing <q>meta</q> page.</dd>
 
@@ -278,11 +284,11 @@
 
 <dt id="helper_application">helper application</dt><dd>Any application that is
   used to open or view a file downloaded by the browser. A
-  <a href="#plug-in">plug-in</a> is a special kind of helper application that
+  <a href="#plugin">plugin</a> is a special kind of helper application that
   installs itself into the Plugins directory of the main browser installation
   directory and can typically be opened within the browser itself (internally).
   Microsoft Word, Adobe Photoshop, and other external applications are
-  considered helper applications but not plug-ins, since they don&apos;t
+  considered helper applications but not plugins, since they don&apos;t
   install themselves into the browser directory, but can be opened from the
   download dialog box.</dd>
 
@@ -372,7 +378,7 @@
   to use an LDAP directory for email address autocompletion.</dd>
 
 <dt id="location_bar">Location Bar</dt><dd>The field (and associated buttons)
-  near the top of a Navigator window where you can type a
+  near the top of a browser window where you can type a
   <a href="#url">URL</a> or search terms.</dd>
 
 <dt id="master_key">master key</dt><dd>A symmetric key used by
@@ -407,6 +413,11 @@
   provides one form of nonrepudiation. A
   <a href="#digital_signature">digital signature</a> provides another.</dd>
 
+<dt id="notification_bar">notification bar</dt><dd>A bar that appears at the
+  top of the content area to inform you about something that needs your
+  attention, e.g. when the Password Manager can save a password for you, a
+  popup has been blocked or an additional plugin is required.</dd>
+
 <dt id="object_signing">object signing</dt><dd>A technology that allows
   software developers to sign Java code, JavaScript scripts, or any kind of
   file, and that allows users to identify the signers and control access by
@@ -423,11 +434,11 @@
   list of valid certificates maintained at a specified website. Your computer
   must be online for OCSP to work.</dd>
 
-<dt id="p3p">P3P (Platform for Privacy Preferences)</dt><dd>A standard
-  published by the World Wide Web Consortium (W3C) designed to help users to
-  gain more control over the use of personal information by websites they
-  visit. For general information on the standard itself, see the online
-  document <a href="http://www.w3.org/P3P/">P3P Public Overview</a>.</dd>
+<dt id="opml">OPML (Outline Processor Markup Language)</dt><dd>An XML format
+  used to list <a href="#feed">feed</a> collections. Although broader in its
+  specification, it is mainly used nowadays to export and import feed
+  collections between different feed aggregators or readers, like
+  &brandShortName;.</dd>
 
 <dt id="password-based_authentication">password-based
   authentication</dt><dd>Confident identification by means of a name and
@@ -439,9 +450,9 @@
   automatically when you visit such sites.</dd>
 
 <dt id="personal_toolbar">Personal Toolbar</dt><dd>The customizable toolbar
-  that appears just below the location bar by default in Navigator. It contains
-  standard buttons such as Home, Bookmarks, and so on that you can add or
-  remove. You can also add buttons for your favorite bookmarks, or folders
+  that appears just below the location bar by default in the browser. It
+  contains standard buttons such as Home, Bookmarks, and so on that you can add
+  or remove. You can also add buttons for your favorite bookmarks, or folders
   containing groups of bookmarks.</dd>
 
 <dt id="phishing">Phishing</dt><dd>Phishing is a fraudulent business scheme in
@@ -473,15 +484,15 @@
   that facilitate the use of public-key cryptography and certificates in a
   networked environment.</dd>
 
-<dt id="plug-in">plug-in</dt><dd>A type of
+<dt id="plugin">plugin</dt><dd>A type of
   <a href="#helper_application">helper application</a> that adds new
   capabilities to your browser, such as the ability to play audio or video
-  clips. Unlike other kinds of helper applications, a plug-in application
+  clips. Unlike other kinds of helper applications, a plugin application
   installs itself into the Plugins directory within the main browser
   installation directory and typically can be opened within the browser itself
-  (internally). For example, an audio plug-in lets you listen to audio files on
+  (internally). For example, an audio plugin lets you listen to audio files on
   a <a href="#web_page">web page</a> or in an email message. Macromedia Flash
-  Player and Java are both examples of plug-in applications.</dd>
+  Player and Java are both examples of plugin applications.</dd>
 
 <dt id="pop">POP (Post Office Protocol)</dt><dd>A standard mail server protocol
   that requires you to download new messages to your local
@@ -529,6 +540,9 @@
   self-signed certificate at the top of a
   <a href="#certificate_chain">certificate chain</a>. See also
   <a href="#subordinate_ca">subordinate CA</a>.</dd>
+
+<dt id="rss">RSS (Really Simple Syndication)</dt><dd>An <a href="#xml">XML</a>
+  data format for web <a href="#feed">feeds</a>.</dd>
 
 <dt id="search_engine">search engine</dt><dd>A web-based program that allows
   users to search for and retrieve specific information from the
