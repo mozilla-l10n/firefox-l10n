@@ -13,8 +13,7 @@
 <!ENTITY openLocation.label    "Abrir dirección">
 <!ENTITY openLocation.tooltip  "Abrir dirección">
 <!ENTITY star.label            "Destacado">
-<!ENTITY star.tooltip          "Marcar esta página">
-<!ENTITY bookmarks.label       "Marcadores">
+<!ENTITY star.tooltip          "Marcar esta p\u00E1gina">
 <!ENTITY bookmarks.tooltip     "Ver marcadores">
 
 <!ENTITY newtab.label          "Nueva pestaña">
@@ -82,6 +81,7 @@
 <!ENTITY downloadRetry.label       "Reintentar">
 
 <!ENTITY noResults.label           "Sin resultados">
+<!ENTITY allBookmarks.label        "Ver todos los marcadores">
 
 <!ENTITY identity.unverifiedsite2 "Este sitio web no provee información de identidad.">
 <!ENTITY identity.connectedTo2 "Conectado a">
@@ -99,7 +99,7 @@
 <!ENTITY consoleMessages.label     "Mensajes">
 <!ENTITY consoleCodeEval.label     "Código:">
 <!ENTITY consoleClear.label        "Limpiar">
-<!ENTITY consoleEvaluate.label     "Evaluar">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Archivo Fuente: ">
 <!ENTITY consoleErrLine.label      "Línea:">
 <!ENTITY consoleErrColumn.label    "Columna:">
