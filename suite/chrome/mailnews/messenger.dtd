@@ -457,6 +457,10 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Prijať">
 <!ENTITY newMsgButton.label "Nová">
+<!ENTITY newHTMLMessageCmd.label "Správa vo formáte HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Správa v textovom formáte">
+<!ENTITY newPlainTextMessageCmd.accesskey "x">
 <!ENTITY replyButton.label "Odpoveď">
 <!ENTITY replyAllButton.label "Odpoveď Vš.">
 <!ENTITY forwardButton.label "Odoslať ďalej">

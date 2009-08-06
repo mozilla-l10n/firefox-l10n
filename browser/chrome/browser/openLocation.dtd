@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Vybrať súbor…">
 <!ENTITY newWindow.label "Nové okno">
 <!ENTITY newTab.label "Nová karta">
-<!ENTITY topWindow.label "Aktuálne okno">
+<!ENTITY topTab.label "Aktuálna karta">
 <!ENTITY caption.label "Otvoriť webovú adresu">
 <!ENTITY openWhere.label "Otvoriť kde:">
 <!ENTITY openBtn.label "Otvoriť">

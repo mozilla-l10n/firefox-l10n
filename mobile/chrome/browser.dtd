@@ -14,7 +14,6 @@
 <!ENTITY openLocation.tooltip  "Otvoriť adresu">
 <!ENTITY star.label            "Hviezda">
 <!ENTITY star.tooltip          "Pridať medzi záložky">
-<!ENTITY bookmarks.label       "Záložky">
 <!ENTITY bookmarks.tooltip     "Zobraziť záložky">
 
 <!ENTITY newtab.label          "Nová karta">
@@ -82,6 +81,7 @@
 <!ENTITY downloadRetry.label       "Znova">
 
 <!ENTITY noResults.label           "Žiadne výsledky">
+<!ENTITY allBookmarks.label        "Zobraziť všetky záložky">
 
 <!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o svojej identite.">
 <!ENTITY identity.connectedTo2 "Pripojené k">
@@ -99,7 +99,7 @@
 <!ENTITY consoleMessages.label     "Správy">
 <!ENTITY consoleCodeEval.label     "Kód:">
 <!ENTITY consoleClear.label        "Vymazať">
-<!ENTITY consoleEvaluate.label     "Vyhodnotiť">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Zdroj:">
 <!ENTITY consoleErrLine.label      "Riadok:">
 <!ENTITY consoleErrColumn.label    "Stĺpec:">

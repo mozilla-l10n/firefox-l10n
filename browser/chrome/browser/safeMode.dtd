@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Nastaviť panely a ovládacie prvky na predvolené hodnoty">
 <!ENTITY resetToolbars.accesskey      "N">
 
-<!ENTITY resetBookmarks.label         "Odstrániť uložené a nastaviť predvolené záložky aplikácie &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "O">
+<!ENTITY deleteBookmarks.label        "Odstrániť všetky záložky okrem záloh">
+<!ENTITY deleteBookmarks.accesskey    "O">
 
 <!ENTITY resetUserPrefs.label         "Obnoviť všetky nastavenia aplikácie &brandShortName; na predvolené hodnoty">
 <!ENTITY resetUserPrefs.accesskey     "v">
