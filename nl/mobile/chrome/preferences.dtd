@@ -1,3 +1,4 @@
+<!ENTITY prefsHeader.label                         "Voorkeuren">
 <!ENTITY content.title                             "Inhoud">
 <!ENTITY showImages.title                          "Afbeeldingen tonen">
 <!ENTITY enableJavaScript.title                    "JavaScript inschakelen">
