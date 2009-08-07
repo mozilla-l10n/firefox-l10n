@@ -14,7 +14,6 @@
 <!ENTITY openLocation.tooltip  "Locatie openen">
 <!ENTITY star.label            "Ster">
 <!ENTITY star.tooltip          "Bladwijzer voor deze pagina maken">
-<!ENTITY bookmarks.label       "Bladwijzers">
 <!ENTITY bookmarks.tooltip     "Bladwijzers bekijken">
 
 <!ENTITY newtab.label          "Nieuw tabblad">
@@ -82,6 +81,7 @@
 <!ENTITY downloadRetry.label       "Opnieuw proberen">
 
 <!ENTITY noResults.label           "Geen resultaten">
+<!ENTITY allBookmarks.label        "Alle bladwijzers tonen">
 
 <!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
 <!ENTITY identity.connectedTo2 "Verbonden met">
