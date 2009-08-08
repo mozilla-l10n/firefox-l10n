@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Tööriistaribade ja juhtelementide lähtestamine">
 <!ENTITY resetToolbars.accesskey      "r">
 
-<!ENTITY resetBookmarks.label         "&brandShortName;i vaikimisi järjehoidjate ennistamine">
-<!ENTITY resetBookmarks.accesskey     "j">
+<!ENTITY deleteBookmarks.label        "Kustutatakse kõik järjehoidjad peale varukoopiate">
+<!ENTITY deleteBookmarks.accesskey    "j">
 
 <!ENTITY resetUserPrefs.label         "Kasutajasätete asendamine &brandShortName;i vaikeväärtustega">
 <!ENTITY resetUserPrefs.accesskey     "K">

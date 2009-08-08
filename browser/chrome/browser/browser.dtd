@@ -372,6 +372,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip                       "Lõika">
 <!ENTITY copyButton.tooltip                      "Kopeeri">
 <!ENTITY pasteButton.tooltip                     "Aseta">
+<!ENTITY fullScreenButton.tooltip                "Kuva akent täisekraani režiimis">
 
 <!ENTITY quitApplicationCmdWin.label             "Välju">
 <!ENTITY quitApplicationCmdWin.accesskey         "j">
