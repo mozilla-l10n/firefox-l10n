@@ -115,7 +115,7 @@
 <!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "Exportă...">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Șterge">
+<!ENTITY certmgr.delete2.label                "Șterge…">
 <!ENTITY certmgr.delete2.accesskey            "g">
 <!ENTITY certmgr.backup2.label                "Salvează">
 <!ENTITY certmgr.backup2.accesskey            "S">

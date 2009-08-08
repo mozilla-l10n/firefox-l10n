@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Reinițializează barele de unelte și controalele">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "Refă semnele de carte implicite din &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "s">
+<!ENTITY deleteBookmarks.label        "Șterge toate semnele de carte cu excepția copiilor de siguranță">
+<!ENTITY deleteBookmarks.accesskey    "g">
 
 <!ENTITY resetUserPrefs.label         "Resetează toate preferințele alese de utilizator la valorile implicite ale &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">

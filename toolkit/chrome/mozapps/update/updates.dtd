@@ -43,7 +43,7 @@
 
 <!ENTITY  details.link                    "Detalii">
 
-<!ENTITY  error.label                     "Au apărut probleme la verificarea, descărcarea sau instalarea acestei actualizări. &brandShortName; a putut fi actualizat deoarece:">
+<!ENTITY  error.label                     "Au apărut probleme la verificarea, descărcarea sau instalarea acestei actualizări. &brandShortName; nu a putut fi actualizat deoarece:">
                                            
 <!ENTITY  errorManual.label               "Puteți actualiza  &brandShortName; manual vizitând această legătură și descărcând ultima versiune:">
                                            

@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "f">
 <!ENTITY openInNewWindow.label "Deschide în fereastră nouă">
 <!ENTITY openInNewWindow.accesskey "e">
-<!ENTITY bookmarkLink.label "Pune semn de carte la această legătură...">
-<!ENTITY bookmarkLink.accesskey "s">
 <!ENTITY copyLink.label "Copiază adresa legăturii">
 <!ENTITY copyLink.accesskey "C">
