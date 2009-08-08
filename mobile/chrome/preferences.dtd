@@ -1,9 +1,8 @@
+<!ENTITY prefsHeader.label                         "Preferințe">
 <!ENTITY content.title                             "Conținut">
 <!ENTITY showImages.title                          "Arată imaginile">
 <!ENTITY enableJavaScript.title                    "Activează Javascript">
 <!ENTITY enableJavaScript.description              "Saiturile interactive folosesc JavaScript">
-<!ENTITY javascript.options.jit.content.title      "Activează urmărirea JavaScript">
-<!ENTITY javascript.options.jit.content.description "Folosește compilarea în cod nativ pentru JavaScript">
 <!ENTITY enablePlugins.title                       "Activează modulele">
 <!ENTITY enablePlugins.description                 "Modulele sunt folosite pentru conținut cum ar fi video">
 <!ENTITY privacy.title                             "Intimitate și securitate">

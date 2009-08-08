@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Înapoi">
 <!ENTITY back.tooltip          "Înapoi">
 <!ENTITY forward.label         "Înainte">
@@ -17,7 +14,6 @@
 <!ENTITY openLocation.tooltip  "Deschide adresa">
 <!ENTITY star.label            "Steluță">
 <!ENTITY star.tooltip          "Pune un semn la pagină">
-<!ENTITY bookmarks.label       "Semne de carte">
 <!ENTITY bookmarks.tooltip     "Vezi semnele de carte">
 
 <!ENTITY newtab.label          "Filă nouă">
@@ -40,6 +36,11 @@
 <!ENTITY editBookmarkMove.label    "Mută">
 <!ENTITY editBookmarkDone.label    "Gata">
 <!ENTITY editBookmarkTags.label    "Etichete:">
+
+<!ENTITY helperApp.prompt          "Ce ați dori să faceți cu">
+<!ENTITY helperApp.open            "Deschide">
+<!ENTITY helperApp.save            "Salvează">
+<!ENTITY helperApp.nothing         "Nimic">
 
 <!ENTITY findOnCmd.label     "Caută în această pagină...">
 <!ENTITY findOnCmd.accesskey "C">
@@ -80,18 +81,27 @@
 <!ENTITY downloadRetry.label       "Încearcă din nou">
 
 <!ENTITY noResults.label           "Niciun rezultat">
+<!ENTITY allBookmarks.label        "Vezi toate semnele de carte">
 
 <!ENTITY identity.unverifiedsite2 "Acest sait web nu oferă informații despre identitatea sa.">
-<!ENTITY identity.connectedTo "Sunteți conectat la">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2 "Conectat la">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "rulat de">
 
-example.com
-which is run by
-Example Enterprises, Inc.
+<!ENTITY consoleHeader.label       "Consolă de erori">
+<!ENTITY consoleAll.label          "Tot">
+<!ENTITY consoleErrors.label       "Erori">
+<!ENTITY consoleWarnings.label     "Avertizări">
+<!ENTITY consoleMessages.label     "Mesaje">
+<!ENTITY consoleCodeEval.label     "Cod:">
+<!ENTITY consoleClear.label        "Curăță">
+<!ENTITY consoleEvaluate.label     "Evaluează">
+<!ENTITY consoleErrFile.label      "Fișier sursă:">
+<!ENTITY consoleErrLine.label      "Rândul:">
+<!ENTITY consoleErrColumn.label    "Coloana:">
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "care este menținut de">
+<!ENTITY selectListDone.label      "Gata">
