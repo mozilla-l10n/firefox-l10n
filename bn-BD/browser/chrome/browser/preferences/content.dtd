@@ -3,7 +3,7 @@
 <!ENTITY popupExceptions.label "ব্যতিক্রম (E)...">
 <!ENTITY popupExceptions.accesskey "E">
 
-<!ENTITY loadImages.label "স্বয়ংক্রিয়ভাবে ছবি লোড করা হবে (I)">
+<!ENTITY loadImages.label "ছবি স্বয়ংক্রিয়ভাবে লোড করা হবে (I)">
 <!ENTITY loadImages.accesskey "I">
 <!ENTITY exceptions.label "ব্যতিক্রম... (X)">
 <!ENTITY exceptions.accesskey "x">
@@ -17,7 +17,7 @@
 <!ENTITY enableJava.accesskey "n">
 
 
-<!ENTITY fontsAndColors.label "ফন্ট &amp; রং">
+<!ENTITY fontsAndColors.label "ফন্ট ও রং">
 
 <!ENTITY defaultFont.label "ডিফল্ট ফন্ট (D):">
 <!ENTITY defaultFont.accesskey "D">

@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "প্রিন্ট করুন... (P)">
+<!ENTITY print.label "মুদ্রণ... (P)">
 <!ENTITY print.accesskey "P">
-<!ENTITY pageSetup.label "পৃষ্ঠার বৈশিষ্ট্য নির্ধারণ... (u)">
+<!ENTITY pageSetup.label "পৃষ্ঠার বিন্যাস... (u)">
 <!ENTITY pageSetup.accesskey "u">
 <!ENTITY page.label "পৃষ্ঠা (a):">
 <!ENTITY page.accesskey "a">
@@ -48,7 +48,7 @@
 <!ENTITY portrait.accesskey "o">
 <!ENTITY landscape.label "আড়াআড়ি (L)">
 <!ENTITY landscape.accesskey "L">
-<!ENTITY close.label "বন্ধ করুন (C)">
+<!ENTITY close.label "বন্ধ (C)">
 <!ENTITY close.accesskey "C">
 <!ENTITY p30.label "30&#037;">
 <!ENTITY p40.label "40&#037;">
@@ -62,9 +62,9 @@
 <!ENTITY p150.label "150&#037;">
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
-<!ENTITY Custom.label "স্বনির্বাচিত...">
-<!ENTITY ShrinkToFit.label "মাপ অনুযায়ী সংকোচন">
-<!ENTITY customPrompt.title "নিজস্ব পছন্দের মাপ...">
+<!ENTITY Custom.label "স্বনির্ধারিত...">
+<!ENTITY ShrinkToFit.label "সংকোচন করে মাপসই করা হবে">
+<!ENTITY customPrompt.title "স্বনির্ধারিত মাপ...">
 
 <!ENTITY homearrow.tooltip "প্রথম পৃষ্ঠা">
 <!ENTITY endarrow.tooltip "সর্বশেষ পৃষ্ঠা">

@@ -44,14 +44,14 @@
 <!ENTITY defaultTitle "সংরক্ষণ করা হচ্ছে">
 <!-- These are used when saving -->
 
-<!ENTITY savingTitle "সর্বমোট #1এর মধ্যে #2&#037; সংরক্ষিত">
-<!ENTITY savingSource "উল্লিখিত উৎস থেকে সংরক্ষণ করা হচ্ছে:">
+<!ENTITY savingTitle "#1এর মধ্যে #2&#037; সংরক্ষিত">
+<!ENTITY savingSource "উৎস:">
 <!ENTITY savingTarget "গন্তব্য:">
 <!-- These are used when opening (with an application) -->
 
-<!ENTITY openingTitle "সর্বমোট #1 এর মধ্যে #2&#037; সম্পন্ন">
-<!ENTITY openingSource "উল্লিখিত স্থান থেকে খোলা হচ্ছে:">
-<!ENTITY openingTarget "সহায়ক অ্যাপ্লিকেশন:">
+<!ENTITY openingTitle "#1 এর মধ্যে #2&#037; সম্পন্ন">
+<!ENTITY openingSource "যেখান থেকে খোলা হচ্ছে:">
+<!ENTITY openingTarget "অ্যাপ্লিকেশন:">
 <!-- This is used when the download percentage is unknown -->
 
 <!ENTITY unknownSavingTitle "#1 সংরক্ষণ করা হচ্ছে">
@@ -61,24 +61,24 @@
 <!ENTITY status "অবস্থা:">
 <!ENTITY timeElapsed "অতিবাহিত সময়:">
 <!ENTITY timeLeft "অবশিষ্ট সময়:">
-<!ENTITY progress "অগ্রগতি সূচক:">
+<!ENTITY progress "অগ্রগতি:">
 <!-- Label for the "keep dialog" checkbox -->
 
-<!ENTITY keep "ডাউনলোড সমাপ্ত হওয়ার পরও এই উইন্ডোটি খোলা রাখা হবে।">
+<!ENTITY keep "ডাউনলোড শেষ হওয়ার পরও এই উইন্ডো খোলা রাখা হবে।">
 <!-- Button labels -->
 
 <!ENTITY cancel "বাতিল">
 <!ENTITY pause "বিরতি">
-<!ENTITY resume "পুনরাম্ভ">
-<!ENTITY close "বন্ধ করুন">
-<!ENTITY reveal "ফাইলের অবস্থান প্রদর্শন করা হবে">
-<!ENTITY launch "ফাইল আরম্ভ করুন">
+<!ENTITY resume "পুনরায় শুরু">
+<!ENTITY close "বন্ধ">
+<!ENTITY reveal "ফাইলের অবস্থান দেখানো হবে">
+<!ENTITY launch "ফাইল খোলা হবে">
 <!-- Status/progress messages -->
 <!-- LOCALIZATION NOTE (pausedMsg):
     This string is used to indicate that the download is paused -->
 
 
-<!ENTITY pausedMsg "বর্তমানে ডাউনলোডিং এ বিরতি চলছে">
+<!ENTITY pausedMsg "ডাউনলোড বিরত">
 <!-- LOCALIZATION NOTE (progressMsg):
 
     This string is used to generate the status message used during
@@ -88,7 +88,7 @@
     #2 will be replaced by the total number of bytes to be downloaded
     #3 will be replaced by the download rate (in KB per second) -->
 
-<!ENTITY progressMsg "সর্বমোট #2KB, ডাউনলোড হয়েছে #1KB (গতি #3KB/সেকেন্ড)">
+<!ENTITY progressMsg "মোট #2কি.বা., ডাউনলোড হয়েছে #1কি.বা. (গতি #3কি.বা./সেকেন্ড)">
 <!-- LOCALIZATION NOTE (unknownTime):
     
     This string is used when the time remaining is unknown. -->
@@ -125,7 +125,7 @@
     #1 will be replaced by the elapsed time
     #2 will be replaced by the size of the file in Kilobytes -->
 
-<!ENTITY completeMsg "সমাপ্ত, #2 KB ডাউনলোড করা হয়েছে (অতিবাহিত সময় #1)">
+<!ENTITY completeMsg "সমাপ্ত, #2 কি.বা. ডাউনলোড করা হয়েছে (অতিবাহিত সময় #1)">
 <!-- LOCALIZATION NOTE (percentMsg):
 
     This string is used to format the text to the right of the progress

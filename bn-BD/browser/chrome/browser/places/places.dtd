@@ -2,7 +2,7 @@
 <!ENTITY places.library.title "লাইব্রেরি">
 <!ENTITY places.library.width "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label "সুবিন্যস্তকরণ (O)">
+<!ENTITY organize.label "সংগঠিতকরণ (O)">
 <!ENTITY organize.accesskey "O">
 
 <!ENTITY file.accesskey "F">
@@ -17,19 +17,19 @@
 <!ENTITY view.toolbar.accesskey "o">
 <!ENTITY view.columns.label "কলাম প্রদর্শন করা হবে (C)">
 <!ENTITY view.columns.accesskey "C">
-<!ENTITY view.sort.label "ক্রমবিন্যাসকরণ (S)">
+<!ENTITY view.sort.label "সাজানো (S)">
 <!ENTITY view.sort.accesskey "S">
 <!ENTITY view.unsorted.label "অবিন্যস্ত (U)">
 <!ENTITY view.unsorted.accesskey "U">
-<!ENTITY view.sortAscending.label "ছোট থেকে বড় (A)">
+<!ENTITY view.sortAscending.label "A > Z ক্রমে">
 <!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "বড় থেকে ছোট (Z)">
+<!ENTITY view.sortDescending.label "Z > A ক্রমে">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "বুকমার্কের ব্যবহার (B)">
+<!ENTITY help.usingBookmarks.label "বুকমার্ক ব্যবহার করে (B)">
 <!ENTITY help.usingBookmarks.accesskey "B">
-<!ENTITY help.usingHistory.label "ইতিহাসের ব্যবহার (I)">
+<!ENTITY help.usingHistory.label "ইতিহাস ব্যবহার করে (I)">
 <!ENTITY help.usingHistory.accesskey "i">
-<!ENTITY help.advancedTips.label "উচ্চপর্যায়ের টিপস্ ও ট্রিকস্ (T)">
+<!ENTITY help.advancedTips.label "উচ্চপর্যায়ের পরামর্শ ও কৌশল (T)">
 <!ENTITY help.advancedTips.accesskey "T">
 
 <!ENTITY cmd.findInBookmarks.label "বুকমার্কে অনুসন্ধান… (F)">
@@ -39,7 +39,7 @@
 
 <!ENTITY cmd.exportHTML.label "HTML এক্সপোর্ট… (E)">
 <!ENTITY cmd.exportHTML.accesskey "E">
-<!ENTITY cmd.importHTML.label "HTML ইম্পোর্ট… (I)">
+<!ENTITY cmd.importHTML.label "HTML ইমপোর্ট… (I)">
 <!ENTITY cmd.importHTML.accesskey "I">
 
 <!ENTITY cmd.backup.label "ব্যাকআপ… (B)">
@@ -53,36 +53,36 @@
 <!ENTITY cmd.select_all.accesskey "A">
 <!ENTITY cmd.select_all.key "a">
 
-<!ENTITY cmd.edit_cut.label "কাট (T)">
+<!ENTITY cmd.edit_cut.label "কাটা (T)">
 <!ENTITY cmd.edit_cut.accesskey "t">
 <!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "কপি (C)">
+<!ENTITY cmd.edit_copy.label "অনুলিপি (C)">
 <!ENTITY cmd.edit_copy.accesskey "C">
 <!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "সাঁটা (P)">
+<!ENTITY cmd.edit_paste.label "প্রতিলেপন (P)">
 <!ENTITY cmd.edit_paste.accesskey "P">
 <!ENTITY cmd.edit_paste.key "v">
 <!ENTITY cmd.edit_delete.label "অপসারণ (D)">
 <!ENTITY cmd.edit_delete.accesskey "D">
-<!ENTITY cmd.edit_undo.label "পূর্বাবস্থা (U)">
+<!ENTITY cmd.edit_undo.label "পূর্বাবস্থায় ফিরান (U)">
 <!ENTITY cmd.edit_undo.accesskey "U">
 <!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "পুনরাবৃত্তি (R)">
+<!ENTITY cmd.edit_redo.label "পুনরায় করুন (R)">
 <!ENTITY cmd.edit_redo.accesskey "R">
 <!ENTITY cmd.edit_redo.key "y">
 
-<!ENTITY cmd.delete.label "এই পৃষ্ঠাটি মুছে ফেলা হবে (D)">
+<!ENTITY cmd.delete.label "এই পৃষ্ঠাটি মুছে ফেলুন (D)">
 <!ENTITY cmd.delete.accesskey "D">
-<!ENTITY cmd.deleteDomainData.label "এই পৃষ্ঠাটি মনে রাখা হবে না (F)">
+<!ENTITY cmd.deleteDomainData.label "এই সাইটটি মনে রাখা হবে না (F)">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
-<!ENTITY cmd.open.label "খোলা (O)">
+<!ENTITY cmd.open.label "খুলুন (O)">
 <!ENTITY cmd.open.accesskey "O">
-<!ENTITY cmd.open_window.label "নতুন উইন্ডোতে খোলা হবে (N)">
+<!ENTITY cmd.open_window.label "নতুন উইন্ডোতে খুলুন (N)">
 <!ENTITY cmd.open_window.accesskey "N">
-<!ENTITY cmd.open_tab.label "নতুন ট্যাবে খোলা হবে (W)">
+<!ENTITY cmd.open_tab.label "নতুন ট্যাবে খুলুন (W)">
 <!ENTITY cmd.open_tab.accesskey "w">
-<!ENTITY cmd.open_all_in_tabs.label "ট্যাবে সব খোলা হবে (O)">
+<!ENTITY cmd.open_all_in_tabs.label "ট্যাবে সব খুলুন (O)">
 <!ENTITY cmd.open_all_in_tabs.accesskey "O">
 
 <!ENTITY cmd.properties.label "বৈশিষ্ট্যাবলী (I)">
@@ -93,7 +93,7 @@
 <!ENTITY cmd.rename.label "নাম পরিবর্তন (R)">
 <!ENTITY cmd.rename.accesskey "R">
 
-<!ENTITY cmd.sortby_name.label "নাম অনুসারে বিন্যাস (S)">
+<!ENTITY cmd.sortby_name.label "নাম অনুসারে সাজান (S)">
 <!ENTITY cmd.sortby_name.accesskey "S">
 <!ENTITY cmd.context_sortby_name.accesskey "r">
 
@@ -104,21 +104,21 @@
 <!ENTITY cmd.new_folder.label "নতুন ফোল্ডার… (O)">
 <!ENTITY cmd.new_folder.accesskey "o">
 <!ENTITY cmd.context_new_folder.accesskey "F">
-<!ENTITY cmd.new_separator.label "নতুন বিভাজনরেখা (S)">
+<!ENTITY cmd.new_separator.label "নতুন বিভাজক (S)">
 <!ENTITY cmd.new_separator.accesskey "S">
 
 <!ENTITY cmd.reloadLivebookmark.label "লাইভ বুকমার্ক রিলোড করা হবে (R)">
 <!ENTITY cmd.reloadLivebookmark.accesskey "R">
-<!ENTITY cmd.reloadMicrosummary.label "লাইভ টাইটেল রিলোড করা হবে (R)">
+<!ENTITY cmd.reloadMicrosummary.label "লাইভ শিরোনাম রিলোড করা হবে (R)">
 <!ENTITY cmd.reloadMicrosummary.accesskey "R">
 
-<!ENTITY cmd.groupby_site.label "সাইট অনুসারে শ্রেণীবদ্ধ করা হবে (S)">
+<!ENTITY cmd.groupby_site.label "সাইট অনুসারে গ্রুপ করা হবে (S)">
 <!ENTITY cmd.groupby_site.accesskey "S">
-<!ENTITY cmd.groupby_page.label "পেজ অনুসারে শ্রেণীবদ্ধ করা হবে ( P)">
+<!ENTITY cmd.groupby_page.label "পৃষ্ঠা অনুসারে গ্রুপ করা হবে ( P)">
 <!ENTITY cmd.groupby_page.accesskey "P">
-<!ENTITY cmd.groupby_feed.label "সাবস্ক্রিপশন অনুসারে শ্রেণীবদ্ধ করা হবে (S)">
+<!ENTITY cmd.groupby_feed.label "সাবস্ক্রিপশন অনুসারে গ্রুপ করা হবে (S)">
 <!ENTITY cmd.groupby_feed.accesskey "S">
-<!ENTITY cmd.groupby_post.label "পোস্ট অনুসারে শ্রেণীবদ্ধ করা হবে (P)">
+<!ENTITY cmd.groupby_post.label "পোস্ট অনুসারে গ্রুপ করা হবে (P)">
 <!ENTITY cmd.groupby_post.accesskey "P">
 
 <!ENTITY cmd.moveBookmarks.label "স্থানান্তর… (M)">
@@ -145,14 +145,14 @@
 <!ENTITY search.scopeHistory.label "ইতিহাস (H)">
 <!ENTITY search.scopeHistory.accesskey "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip "অনুসন্ধান গঠনকারী প্রদর্শন করা হবে">
-<!ENTITY search.scopeBarExpanderUp.tooltip "অঅনুসন্ধান গঠনকারী আড়াল করা হবে">
+<!ENTITY search.scopeBarExpanderUp.tooltip "অনুসন্ধান গঠনকারী আড়াল করা হবে">
 <!ENTITY saveSearch.label "সংরক্ষণ (S)">
 <!ENTITY saveSearch.accesskey "S">
 <!ENTITY moreCriteria.label "+">
 <!ENTITY advancedSearch.onlybookmarked.label "শুধুমাত্র বুকমার্ক অনুসন্ধান করা হবে">
-<!ENTITY advancedSearch.match.label "মেলানো হবে ">
+<!ENTITY advancedSearch.match.label "মিলানো হবে ">
 <!ENTITY advancedSearch.all.label "সব">
-<!ENTITY advancedSearch.any.label "যে কোনো">
+<!ENTITY advancedSearch.any.label "যেকোনো">
 <!ENTITY advancedSearch.rules.label " নিম্নলিখিত নিয়ম অনুযায়ী:">
 <!ENTITY advancedSearch.subj_keyword.label "এই টেক্সট থাকলে">
 <!ENTITY advancedSearch.subj_visited.label "পরিদর্শিত">
@@ -163,35 +163,35 @@
 <!ENTITY advancedSearch.time_is.label "এই সময়ে">
 <!ENTITY advancedSearch.time_before.label "এই সময়ের আগে">
 <!ENTITY advancedSearch.time_after.label "এই সময়ের পরে">
-<!ENTITY advancedSearch.time_inlast.label "সর্বশেষ">
+<!ENTITY advancedSearch.time_inlast.label "গত">
 <!ENTITY advancedSearch.last_days.label "দিনের মধ্যে">
 <!ENTITY advancedSearch.last_weeks.label "সপ্তাহের মধ্যে">
 <!ENTITY advancedSearch.last_months.label "মাসের মধ্যে">
 <!ENTITY advancedSearch.plus.label "+">
 <!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "যা অনুসারে শ্রেণীবদ্ধ করা হবে: ">
+<!ENTITY advancedSearch.groupby.label "যা অনুসারে গ্রুপ করা হবে: ">
 <!ENTITY advancedSearch.groupby_host.label "হোস্ট">
 <!ENTITY advancedSearch.groupby_domain.label "ডোমেইন">
 <!ENTITY advancedSearch.groupby_folder.label "ফোল্ডার">
-<!ENTITY advancedSearch.sortby.label "যা অনুসারে ক্রমবিন্যাস করা হবে: ">
+<!ENTITY advancedSearch.sortby.label "যা অনুসারে সাজানো হবে: ">
 <!ENTITY advancedSearch.sortby_title.label "শিরোনাম">
 <!ENTITY advancedSearch.sortby_date.label "তারিখ">
 <!ENTITY advancedSearch.sortby_visit.label "পরিদর্শনের সংখ্যা">
 <!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "ছোট থেকে বড়">
-<!ENTITY advancedSearch.sortby_desc.label "বড় থেকে ছোট">
+<!ENTITY advancedSearch.sortby_asc.label "আরোহী">
+<!ENTITY advancedSearch.sortby_desc.label "অবরোহী ">
 <!ENTITY advancedSearch.max.label "সর্বাধিক ফলাফল সংখ্যা: ">
 
 <!ENTITY cmd.find.key "f">
 
 <!ENTITY feed.subscribe.label "ফিড">
-<!ENTITY feed.subscribe.tooltip "সাবস্ক্রাইব করা হয়">
+<!ENTITY feed.subscribe.tooltip "সাবস্ক্রাইব">
 
 <!ENTITY view.detailsMacOSX.label "তালিকা">
 <!ENTITY view.details.label "বিবরণ (D)">
 <!ENTITY view.details.accesskey "D">
 
-<!ENTITY view.addons.label "এ্যাড-অন প্রদর্শন ও প্রাপ্তি">
+<!ENTITY view.addons.label "অ্যাড-অন প্রদর্শন ও সংগ্রহ">
 
 <!ENTITY maintenance.label "ইমপোর্ট ও ব্যাক-আপ (I)">
 <!ENTITY maintenance.accesskey "I">
@@ -204,9 +204,9 @@
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY forwardButton.tooltip "পরবর্তী স্থানে এগিয়ে যাবে">
 
-<!ENTITY detailsPane.more.label "বেশী (E)">
+<!ENTITY detailsPane.more.label "আরও (E)">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "কম (E)">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "প্রাক প্রদর্শন">
-<!ENTITY detailsPane.selectAnItemText.description "কোনো আইটেম প্রদর্শন ও বৈশিষ্ট্য পরিবর্তন করতে তা নির্বাচন করুন">
+<!ENTITY detailsPane.noPreviewAvailable.label "প্রাকদর্শন">
+<!ENTITY detailsPane.selectAnItemText.description "একটি আইটেম নির্বাচন করে তার বৈশিষ্ট্য প্রদর্শন ও পরিবর্তন করুন">

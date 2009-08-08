@@ -10,33 +10,33 @@
  -->
 
 <!ENTITY intro.label "&quot;#3&quot; ফাইলটির ধরন #2 (#1) এবং #4 এই ধরনের ফাইলের ব্যবস্থা করতে সক্ষম নয়। ফাইলের অবস্থান:">
-<!ENTITY intro.noDesc.label "&quot;#3&quot; ফাইলটির ধরন #2 এবং #4 এই ধরনের ফাইলের ব্যবস্থা করতে সক্ষম নয়।  ফাইলের অবস্থান:">
+<!ENTITY intro.noDesc.label "&quot;#3&quot; ফাইলটির ধরন #2 এবং #4 এই ধরনের ফাইলের ব্যবস্থা করতে সক্ষম নয়। ফাইলের অবস্থান:">
 
-<!ENTITY intro.attachment.label "সাইটের দ্বারা &quot;#3&quot;-কে সংযুক্ত বস্তু হিসাবে পরিচালন করার পরামর্শ দেওয়া হয়েছে। এর ধরন #2 (#1) এবং অবস্থান:">
-<!ENTITY intro.attachment.noDesc.label "সাইটের দ্বারা &quot;#3&quot;-কে সংযুক্ত বস্তু হিসাবে পরিচালন করার পরামর্শ দেওয়া হয়েছে। এর ধরন #2 এবং অবস্থান:">
+<!ENTITY intro.attachment.label "সাইটটি &quot;#3&quot;-কে সংযুক্তি হিসাবে পরিচালনা করার পরামর্শ দিয়েছে। এটির ধরন #2 (#1) এবং অবস্থান:">
+<!ENTITY intro.attachment.noDesc.label "সাইটটি &quot;#3&quot;-কে সংযুক্তি হিসাবে পরিচালনা করার পরামর্শ দিয়েছে। এটির ধরন #2 এবং অবস্থান:">
 
-<!ENTITY intro.sniffed.label "#4 দ্বারা &quot;#3&quot; ফাইলটি সম্ভবত #2 (#1) প্রকৃতির হওয়ার ইঙ্গিত দেওয়া হয়েছে। ফাইলটির অবস্থান:">
-<!ENTITY intro.sniffed.noDesc.label "‌#4 দ্বারা &quot;#3&quot; ফাইলটি সম্ভবত #2 (#1) প্রকৃতির হওয়ার ইঙ্গিত দেওয়া হয়েছে। ফাইলটির অবস্থান:">
+<!ENTITY intro.sniffed.label "#4, &quot;#3&quot; ফাইলটিকে সম্ভাব্য #2 (#1) ধরণের হিসেবে শনাক্ত করেছে। ফাইলটির অবস্থান:">
+<!ENTITY intro.sniffed.noDesc.label "#4, &quot;#3&quot; ফাইলটিকে সম্ভাব্য #2 ধরণের হিসেবে শনাক্ত করেছে। ফাইলটির অবস্থান:">
 
-<!ENTITY prompt.label "#1-র দ্বারা এই ফাইলের কি ব্যবস্থা করা হবে?">
+<!ENTITY prompt.label "#1 এই ফাইলটি কি করবে?">
 
-<!ENTITY alwaysHandle.label "এই ধরনের ফাইলের জন্য সর্বদা উল্লিখিত ব্যবস্থা নেওয়া হবে (A)">
+<!ENTITY alwaysHandle.label "এই ধরনের ফাইলের জন্য সবসময় এই ব্যবস্থা নেওয়া হবে (A)">
 <!ENTITY alwaysHandle.accesskey "A">
 
-<!ENTITY saveToDisk.label "ডিস্কের মধ্যে সংরক্ষণ করুন (S)">
+<!ENTITY saveToDisk.label "ডিস্কে সংরক্ষণ (S)">
 <!ENTITY saveToDisk.accesskey "S">
 
-<!ENTITY useSystemDefault.label "ডিফল্ট অ্যাপ্লিকেশন সহযোগে খুলুন (#1) (O)">
-<!ENTITY useSystemDefault.noDesc.label "ডিফল্ট অ্যাপ্লিকেশন সহযোগে খুলুন ">
+<!ENTITY useSystemDefault.label "ডিফল্ট অ্যাপ্লিকেশন (#1) সহযোগে খোলা হবে (O)">
+<!ENTITY useSystemDefault.noDesc.label "ডিফল্ট অ্যাপ্লিকেশন সহযোগে খোলা হবে">
 <!ENTITY useSystemDefault.accesskey "O">
 
-<!ENTITY openUsing.label "চিহ্নিত অ্যাপ্লিকেশনের সাথে খুলুন (w)">
+<!ENTITY openUsing.label "অন্য অ্যাপ্লিকেশন দিয়ে খোলা হবে (w)">
 <!ENTITY openUsing.accesskey "w">
 
-<!ENTITY chooseApp.label "নির্বাচন করুন... (C)">
+<!ENTITY chooseApp.label "নির্বাচন... (C)">
 <!ENTITY chooseApp.accesskey "C">
 
-<!ENTITY chooseAppFilePickerTitle "সহায়ক অ্যাপ্লিকেশন নির্বাচন করুন">
+<!ENTITY chooseAppFilePickerTitle "সহায়ক অ্যাপ্লিকেশন বেছে নিন">
 
-<!ENTITY badApp "আপনার দ্বারা উল্লিখিত অ্যাপ্লিকেশনটি (&quot;#1&quot;) পাওয়া যায়নি। ফাইলের নাম পরীক্ষা করুন অথবা একটি পৃথক অ্যাপ্লিকেশন নির্বাচন করুন।">
+<!ENTITY badApp "আপনার উল্লেখিত অ্যাপ্লিকেশনটি (&quot;#1&quot;) পাওয়া যায়নি। ফাইলের নাম পরীক্ষা করুন অথবা একটি অন্য অ্যাপ্লিকেশন নির্বাচন করুন।">
 <!ENTITY badApp.title "অ্যাপ্লিকেশন পাওয়া যায়নি">

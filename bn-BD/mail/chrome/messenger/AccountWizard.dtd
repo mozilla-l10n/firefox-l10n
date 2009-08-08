@@ -5,7 +5,7 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo.label "বার্তা গ্রহন করতে হলে, আপনাকে প্রথমে একটি মেইল বা নিউজগ্রুপ একাউন্ট সেট-আপ করতে হবে।">
+<!ENTITY accountSetupInfo.label "বার্তা গ্রহন করতে হলে, আপনাকে প্রথমে একটি মেইল বা নিউজগ্রুপ একাউন্ট সেটআপ করতে হবে।">
 <!ENTITY accountTypeTitle.label "নতুন একাউন্ট সেটআপ">
 <!ENTITY accountTypeDesc.label "এই উইজার্ডটি একটি মেইল বা নিউজগ্রুপ একাউন্ট সেটআপের জন্য প্রয়োজনীয় তথ্য সংগ্রহ করবে। আপনি যদি অনুরোধকৃত তথ্য না জানেন, অনুগ্রহ করে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটর বা ইন্টারনেট সেবা প্রদানকারীর সাথে যোগাযোগ করুন।">
 <!ENTITY accountTypeDirections.label "আপনি যে ধরনের একাউন্ট সেটআপ করতে চান তা নির্বাচন করুন:">
@@ -17,10 +17,10 @@
 
 
 <!ENTITY identityTitle.label "পরিচয়">
-<!ENTITY identityDesc.label "প্রতিটি একাউন্টের একটি পরিচয় আছে, যেটি অন্যদের কাছে আপনাকে পরিচিত করে যখন তারা আপনার বার্তা গ্রহন করে।">
+<!ENTITY identityDesc.label "প্রতিটি একাউন্টের একটি পরিচয় আছে, যে পরিচয়ে অন্যদের কাছে আপনার বার্তা প্রেরিত হবে।">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
-<!ENTITY fullnameDesc.label "আপনার বর্হিঃগামী বার্তায় &quot;প্রেরক&quot; ক্ষেত্রে আপনি যে নাম প্রদর্শন করতে চান সেটি দিন">
+<!ENTITY fullnameDesc.label "আপনার বহির্গামী বার্তায় &quot;প্রেরক&quot; ক্ষেত্রে আপনি যে নাম প্রদর্শন করতে চান সেটি দিন">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -43,8 +43,8 @@
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "আপনার নিউজ সার্ভারের নাম দিন (NNTP) (উদাহরণস্বরূপ, &quot;news.example.net&quot;)।">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "আপনার বর্হিঃগামী সার্ভারের নাম দিন (SMTP) (উদাহরনস্বরুপ, &quot;smtp.example.net&quot;)।">
-<!ENTITY smtpServerLabel.label "বর্হিঃগামী সার্ভার (O):">
+<!ENTITY smtpServerDesc.label "আপনার বহির্গামী সার্ভারের নাম দিন (SMTP) (উদাহরনস্বরুপ, &quot;smtp.example.net&quot;)।">
+<!ENTITY smtpServerLabel.label "বহির্গামী সার্ভার (O):">
 <!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "নিউজগ্রুপ সার্ভার (w):">
 <!ENTITY newsServerLabel.accesskey "w">
@@ -54,13 +54,13 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 
-<!ENTITY haveSmtp1.prefix "আপনার বর্তমান বর্হিঃগামী সার্ভার (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, ব্যবহার করা হবে। আপনি টুল মেনু থেকে একাউন্ট সেটিং নির্বাচন করে বর্হিঃগামী সার্ভারের সেটিং পরিবর্তন করতে পারেন।">
+<!ENTITY haveSmtp1.prefix "আপনার বর্তমান বহির্গামী সার্ভার (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix2 "&quot;, will be used. You can change outgoing servers in the account settings.">
 <!-- Entities for Login page -->
 
 
@@ -70,21 +70,21 @@
 <!ENTITY usernameExample.label "(উদাহরণস্বরূপ, &quot;jsmith&quot;)।">
 <!ENTITY usernameLabel.label "আগত ব্যবহারকারী নাম (I):">
 <!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "আপনার ইমেইল প্রদানকারী দ্বারা প্রদত্ত বর্হিঃগামী ব্যবহারকারী নাম দিন (এটি সাধারনত আপনার আগত ব্যবহারকারী নামের মত)।">
-<!ENTITY usernameSmtpLabel.label "বর্হিঃগামী ব্যবহারকারী নাম (O):">
+<!ENTITY usernameSmtpDesc.label "আপনার ইমেইল প্রদানকারী দ্বারা প্রদত্ত বহির্গামী ব্যবহারকারী নাম দিন (এটি সাধারনত আপনার আগত ব্যবহারকারী নামের মত)।">
+<!ENTITY usernameSmtpLabel.label "বহির্গামী ব্যবহারকারী নাম (O):">
 <!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "আপনার বর্তমান বর্হিঃগামী (SMTP) ব্যবহারকারী নাম, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, ব্যবহার করা হবে। আপনি টুল মেনু থেকে একাউন্ট সেটিং নির্বাচন করে বর্হিঃগামী সার্ভার সেটিং পরিবর্তন করতে পারেন।">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.prefix "আপনার বর্তমান বহির্গামী (SMTP) ব্যবহারকারী নাম, &quot;">
+<!ENTITY haveSmtp2.suffix2 "&quot;, will be used. You can change outgoing servers in the account settings.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "আপনার বর্হিঃগামী (SMTP) সার্ভার, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, আপনার ইনকামিং সার্ভারের মত, এতে প্রবেশ করতে আপনার আগত ব্যবহারকারীর নাম ব্যবহার করা হবে।  আপনি টুল মেনু থেকে একাউন্ট সেটিং নির্বাচন করে বর্হিঃগামী সার্ভার সেটিং পরিবর্তন করতে পারেন।">
+<!ENTITY haveSmtp3.prefix "আপনার বহির্গামী (SMTP) সার্ভার, &quot;">
+<!ENTITY haveSmtp3.suffix2 "&quot;, is identical to your incoming server, your incoming user name will be used to access it. You can change outgoing servers in the account settings.">
 <!-- Entities for Account name page -->
 
 
@@ -100,12 +100,12 @@
 <!ENTITY completionText.label "অনুগ্রহ করে নিম্নের তথ্য সঠিক কিনা যাচাই করুন।">
 <!ENTITY serverTypePrefix.label "আগত সার্ভারের ধরণ:">
 <!ENTITY serverNamePrefix.label "আগত সার্ভারের নাম:">
-<!ENTITY smtpServerNamePrefix.label "বর্হিঃগামী সার্ভারের নাম (SMTP):">
+<!ENTITY smtpServerNamePrefix.label "বহির্গামী সার্ভারের নাম (SMTP):">
 <!ENTITY newsServerNamePrefix.label "নিউজ সার্ভারের নাম (NNTP):">
 <!ENTITY downloadOnLogin.label "বার্তা এখন ডাউনলোড করা হবে (D)">
 <!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "এই একাউন্টের নিজস্ব ডিরেক্টরিতে মেইল সংরক্ষন করার জন্য এই চেকবাক্স থেকে টিক উঠিয়ে দিন। এর ফলে এই একাউন্টটিকে একটি উচ্চ-লেভেল একাউন্ট হিসেবে দেখা যাবে। অন্যথায়, এটি গ্লোবাল ইনবক্স একাউন্টের স্থানীয় ফোল্ডারের একটি অংশ হয়ে যাবে।">
-<!ENTITY deferStorage.label "গ্লোবাল ইনবক্স ব্যবহার করুন (স্থানীয় ফোল্ডারে মেইল সংরক্ষন করা হবে) (G)">
+<!ENTITY deferStorageDesc.label "এই একাউন্টের নিজস্ব ডিরেক্টরিতে মেইল সংরক্ষন করার জন্য এই চেকবাক্স থেকে টিক উঠিয়ে দিন। এর ফলে এই একাউন্টটিকে একটি উচ্চ-স্তরের একাউন্ট হিসেবে দেখা যাবে। অন্যথায়, এটি সার্বজনীন ইনবক্স একাউন্টের স্থানীয় ফোল্ডারের একটি অংশ হয়ে যাবে।">
+<!ENTITY deferStorage.label "সার্বজনীন ইনবক্স ব্যবহার করুন (স্থানীয় ফোল্ডারে মেইল সংরক্ষন করা হবে) (G)">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "এই সেটিংগুলো সংরক্ষন করতে এবং একাউন্ট উইজার্ড থেকে বেরিয়ে যেতে 'সমাপ্ত' ক্লিক করুন।">
 <!ENTITY clickFinish.labelMac "এই সেটিংগুলো সংরক্ষন করতে এবং অ্যাকাউন্ট উইজার্ড থেকে বেরিয়ে যেতে 'সম্পন্ন' ক্লিক করুন।">

@@ -1,17 +1,17 @@
-<!ENTITY lookInMenuList.label "অনুসন্ধানের স্থান (L):">
+<!ENTITY lookInMenuList.label "অবস্থান (L):">
 <!ENTITY lookInMenuList.accesskey "L">
 <!ENTITY textInput.label "ফাইলের নাম (n):">
 <!ENTITY textInput.accesskey "n">
-<!ENTITY filterMenuList.label "উল্লিখিত ধরনের ফাইল (t):">
+<!ENTITY filterMenuList.label "ফাইলের ধরণ (t):">
 <!ENTITY filterMenuList.accesskey "t">
 <!ENTITY name.label "নাম">
 <!ENTITY size.label "আকার">
 <!ENTITY lastModified.label "সর্বশেষ পরিবর্তনের তারিখ">
-<!ENTITY showHiddenFiles.label "লুকোনো ফাইল ও ডিরেক্টরি প্রদর্শন করা হবে (S)">
+<!ENTITY showHiddenFiles.label "লুকোনো ফাইল ও ডিরেক্টরি দেখানো হবে (S)">
 <!ENTITY showHiddenFiles.accesskey "S">
 
 <!ENTITY noPermissionError.label "এই ডিরেক্টরির বিষয়বস্তু দেখার জন্য প্রয়োজনীয় অধিকার আপনার নেই।">
 
 <!ENTITY folderUp.tooltiptext "এক ধাপ উপরে">
-<!ENTITY folderHome.tooltiptext "ব্যক্তিগত ফোল্ডার দেখুন">
-<!ENTITY folderNew.tooltiptext "নতুন ডিরেক্টরি তৈরি করুন">
+<!ENTITY folderHome.tooltiptext "হোমে">
+<!ENTITY folderNew.tooltiptext "নতুন ডিরেক্টরি তৈরি">

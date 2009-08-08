@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "ডিভাইস পরিচালন ব্যবস্থা">
+<!ENTITY devmgr.title "ডিভাইস ব্যবস্থাপক">
 
 <!ENTITY devmgr.devlist.label "নিরাপত্তা মডিউল ও ডিভাইস">
 <!ENTITY devmgr.details.title "বিবরণ">
@@ -45,25 +45,25 @@
 
 <!ENTITY devmgr.button.changeslotname.label "স্লটের নাম পরিবর্তন করুন (C)">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label "লগ-ইন (n)">
+<!ENTITY devmgr.button.login.label "লগইন (n)">
 <!ENTITY devmgr.button.login.accesskey "n">
-<!ENTITY devmgr.button.logout.label "লগ-আউট (O)">
+<!ENTITY devmgr.button.logout.label "লগআউট (O)">
 <!ENTITY devmgr.button.logout.accesskey "O">
 <!ENTITY devmgr.button.changepw.label "পাসওয়ার্ড পরিবর্তন করুন (P)">
 <!ENTITY devmgr.button.changepw.accesskey "P">
-<!ENTITY devmgr.button.load.label "লোড করুন (L)">
+<!ENTITY devmgr.button.load.label "লোড (L)">
 <!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "আন-লোড করুন (U)">
+<!ENTITY devmgr.button.unload.label "আনলোড (U)">
 <!ENTITY devmgr.button.unload.accesskey "U">
 <!ENTITY devmgr.button.fips.accesskey "F">
 
-<!ENTITY loaddevice.info "আপনি যে মডিউলটি যোগ করতে ইচ্ছুক সেটি সম্পর্কে তথ্য জ্ঞাপন করুন।">
-<!ENTITY loaddevice.modname "মডিউলের নাম:">
+<!ENTITY loaddevice.info "আপনি যে মডিউলটি যোগ করতে ইচ্ছুক সেটি সম্পর্কে তথ্য দিন।">
+<!ENTITY loaddevice.modname "মডিউলের নাম (M):">
 <!ENTITY loaddevice.modname.accesskey "M">
 <!ENTITY loaddevice.modname.default "নতুন PKCS#11 মডিউল">
-<!ENTITY loaddevice.filename "মডিউল ফাইলের নাম:">
+<!ENTITY loaddevice.filename "মডিউল ফাইলের নাম (f):">
 <!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "ব্রাউজ করুন...">
+<!ENTITY loaddevice.browse "ব্রাউজ করুন... (B)">
 <!ENTITY loaddevice.browse.accesskey "B">
 
 <!ENTITY loaddevice.title "PKCS#11 ডিভাইস লোড করুন">

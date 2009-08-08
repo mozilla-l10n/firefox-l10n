@@ -1,4 +1,4 @@
 <!ENTITY appManager.title "অ্যাপ্লিকেশনের বিবরণ">
-<!ENTITY appManager.style "প্রস্থ: 30em; ন্যূনতম-উচ্চতা: 20em;">
+<!ENTITY appManager.style "width: 30em; min-height: 20em;">
 <!ENTITY remove.label "অপসারণ (R)">
 <!ENTITY remove.accesskey "R">

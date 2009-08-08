@@ -8,7 +8,7 @@
 <!ENTITY image-alt.label "বিকল্প টেক্সট:">
 <!ENTITY image-size.label "ছবির আকার:">
 <!ENTITY image-filesize.label "ফাইলের আকার:">
-<!ENTITY insdel-sec.label "অন্তর্ভুক্তি/অপসারণের বৈশিষ্ট্য">
+<!ENTITY insdel-sec.label "বৈশিষ্ট্য সন্নিবেশ/অপসারণ">
 <!ENTITY insdel-cite.label "তথ্য:">
 <!ENTITY insdel-date.label "তারিখ:">
 <!ENTITY link-sec.label "লিংকের বৈশিষ্ট্য">
@@ -20,7 +20,7 @@
 <!ENTITY link-rev.label "বিপরীত সম্পর্ক:">
 <!ENTITY link-ping.label "প্রাপক:">
 <!ENTITY misc-sec.label "বিবিধ বৈশিষ্ট্য">
-<!ENTITY misc-lang.label "লেখনির ভাষা:">
+<!ENTITY misc-lang.label "লেখার ভাষা:">
 <!ENTITY misc-title.label "শিরোনাম:">
 <!ENTITY misc-tblsummary.label "টেবিলের সার-সংক্ষেপ:">
 <!ENTITY quote-sec.label "উদ্ধৃতির বৈশিষ্ট্য">
