@@ -14,7 +14,6 @@
 <!ENTITY openLocation.tooltip "Apri indirizzo">
 <!ENTITY star.label "Stella">
 <!ENTITY star.tooltip "Aggiungi ai segnalibri">
-<!ENTITY bookmarks.label "Segnalibri">
 <!ENTITY bookmarks.tooltip "Visualizza segnalibri">
 <!ENTITY newtab.label "Nuova scheda">
 <!ENTITY closetab.label "Chiudi scheda">
@@ -71,6 +70,7 @@
 <!ENTITY downloadResume.label "Riprendi">
 <!ENTITY downloadRetry.label "Riprova">
 <!ENTITY noResults.label "Nessun risultato">
+<!ENTITY allBookmarks.label "Visualizza tutti i segnalibri">
 <!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all'identità.">
 <!ENTITY identity.connectedTo2 "Connesso con">
 <!ENTITY identity.runBy2 "gestito da">
@@ -81,7 +81,7 @@
 <!ENTITY consoleMessages.label "Messaggi">
 <!ENTITY consoleCodeEval.label "Codice:">
 <!ENTITY consoleClear.label "Cancella tutto">
-<!ENTITY consoleEvaluate.label "Valuta">
+<!ENTITY consoleEvaluate.label "…">
 <!ENTITY consoleErrFile.label "File sorgente:">
 <!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colonna:">
