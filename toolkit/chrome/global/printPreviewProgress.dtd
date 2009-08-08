@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
-<!ENTITY printWindow.title "প্রিন্ট কর্মের পূর্বপ্রদর্শন">
+<!ENTITY printWindow.title "মুদ্রণের প্রাকদর্শন">
 <!ENTITY title "শিরোনাম:">
-<!ENTITY preparing "প্রস্তুতি...">
+<!ENTITY preparing "প্রস্তুতি নেয়া হচ্ছে...">
 <!ENTITY progress "অগ্রগতি:">

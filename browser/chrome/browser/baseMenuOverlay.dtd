@@ -1,7 +1,7 @@
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "ছোট করুন">
+<!ENTITY minimizeWindow.label "ছোট করা">
 <!ENTITY bringAllToFront.label "সব সামনে আনা হবে">
-<!ENTITY zoomWindow.label "বড় করুন">
+<!ENTITY zoomWindow.label "বড় করা">
 <!ENTITY windowMenu.label "উইন্ডো">
 
 <!ENTITY helpMenu.label "সহায়তা (H)">
@@ -26,7 +26,7 @@
 <!ENTITY openHelpMac.frontendCommandkey "?">
 <!ENTITY openHelpMac.frontendModifiers "accel">
 
-<!ENTITY helpReleaseNotes.label "প্রকাশনার বিবরণ (N)">
+<!ENTITY helpReleaseNotes.label "রিলিজ নোট (N)">
 <!ENTITY helpReleaseNotes.accesskey "N">
 <!ENTITY updateCmd.label "আপডেট পরীক্ষা করা হবে... (O)">
 <!ENTITY updateCmd.accesskey "o">
@@ -37,12 +37,12 @@
 
 <!ENTITY servicesMenuMac.label "সেবাসমূহ">
 
-<!ENTITY hideThisAppCmdMac.label "&brandShortName; আড়াল করো">
+<!ENTITY hideThisAppCmdMac.label "&brandShortName; আড়াল করা হবে (H)">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
 <!ENTITY hideThisAppCmdMac.modifiers "accel">
 
-<!ENTITY hideOtherAppsCmdMac.label "অন্যান্য উইন্ডো আড়াল করো">
+<!ENTITY hideOtherAppsCmdMac.label "অন্যান্য উইন্ডো আড়াল করা হবে (H)">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label "সব প্রদর্শন করো">
+<!ENTITY showAllAppsCmdMac.label "সব প্রদর্শন করা হবে">

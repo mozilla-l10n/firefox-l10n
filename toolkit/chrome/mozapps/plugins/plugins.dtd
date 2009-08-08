@@ -1,25 +1,25 @@
-<!ENTITY pluginWizard.title "প্লাগ-ইন অনুসন্ধান পরিসেবা">
-<!ENTITY pluginWizard.firstPage.title "&pluginWizard.title;-এ আপনাকে স্বাগতম">
+<!ENTITY pluginWizard.title "প্লাগইন অনুসন্ধান পরিসেবা">
+<!ENTITY pluginWizard.firstPage.title "&pluginWizard.title; এ আপনাকে স্বাগতম">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName;-র দ্বারা বর্তমানে উপলব্ধ প্লাগ-ইন অনুসন্ধান করা হচ্ছে...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; এখন প্লাগইন অনুসন্ধান করছে...">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "উপলব্ধ প্লাগ-ইন ডাউনলোড">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "নিম্নলিখিত প্লাগ-ইনগুলি উপলব্ধ রয়েছে:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "এই প্লাগ-ইনগুলি ইনস্টল করতে পরবর্তী টিপুন।">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "কয়েকটি প্লাগ-ইনের ক্ষেত্রে ইনস্টলেশনের সময় কিছু অতিরিক্ত তথ্য জানতে চাওয়া হতে পারে।">
+<!ENTITY pluginWizard.availablePluginsPage.title "ডাউনলোডযোগ্য প্লাগইন">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "নিম্নলিখিত প্লাগইনগুলি পাওয়া গেছে:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label 'এই প্লাগইনগুলি ইনস্টল করতে "পরবর্তী" চাপুন।'>
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "কিছু প্লাগইনের ক্ষেত্রে ইনস্টলেশনের সময় আপনার কাছ থেকে তথ্য চাওয়া হতে পারে।">
 
-<!ENTITY pluginWizard.licensePage.title "প্লাগ-ইন সংক্রান্ত লাইসেন্স">
-<!ENTITY pluginWizard.licensePage.accept.label "আমি এই শর্ত অনুযায়ী সম্মত।">
-<!ENTITY pluginWizard.licensePage.deny.label "আমি সম্মত নই (প্লাগ-ইন ইনস্টল করা হবে না)।">
+<!ENTITY pluginWizard.licensePage.title "প্লাগইন লাইসেন্স">
+<!ENTITY pluginWizard.licensePage.accept.label "আমি এই শর্তে সম্মত।">
+<!ENTITY pluginWizard.licensePage.deny.label "আমি সম্মত নই (প্লাগইন ইনস্টল করা হবে না)।">
 
-<!ENTITY pluginWizard.installPluginsPage.title "প্লাগ-ইন ইনস্টল করা হচ্ছে">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName;-র দ্বারা প্লাগ-ইন ইনস্টল করা হচ্ছে...">
+<!ENTITY pluginWizard.installPluginsPage.title "প্লাগইন ইনস্টল করা হচ্ছে">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; প্লাগইন ইনস্টল করছে...">
 
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName;-র দ্বারা অনুপস্থিত প্লাগ-ইনগুলি ইনস্টল করা হয়েছে:">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; অনুপস্থিত প্লাগইনগুলো ইনস্টল করা শেষ করেছে:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "প্লাগ-ইন সম্বন্ধে অধিক তথ্য প্রাপ্ত করুন অথবা অনুপস্থিত প্লাগ-ইনগুলি স্বয়ং অনুসন্ধান করুন।">
-<!ENTITY pluginWizard.finalPage.restart.label "প্লাগ-ইনগুলি কার্যকরী করার জন্য &brandShortName; পুনরায় আরম্ভ করা প্রয়োজন।">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "প্লাগইন সম্পর্কে আরও তথ্য জানুন অথবা অনুপস্থিত প্লাগইনগুলি নিজেই খুঁজে নিন।">
+<!ENTITY pluginWizard.finalPage.restart.label "প্লাগইনগুলি কার্যকর করার জন্য &brandShortName; পুনরায় আরম্ভ করা প্রয়োজন।">
   
-<!ENTITY missingPlugin.label "প্লাগ-ইন ডাউনলোড করার জন্য এইখানে ক্লিক করুন।">
-<!ENTITY disabledPlugin.label "এই কন্টেন্ট এর জন্য প্লাগ-ইন নিস্ক্রিয় করা আছে। আপনার প্লাগ-ইন গুলো ঠিক করতে এখানে ক্লিক করুন।">
-<!ENTITY blockedPlugin.label "এই প্লাগ-ইন টি আপনার নিরাপত্তার জন্য প্রতিরোধ করা হয়েছে।">
+<!ENTITY missingPlugin.label "প্লাগইন ডাউনলোড করার জন্য এখানে ক্লিক করুন।">
+<!ENTITY disabledPlugin.label "এই বিষয়বস্তুর জন্য প্লাগইন নিস্ক্রিয় করা আছে। আপনার প্লাগইন ব্যবস্থাপনা করতে এখানে ক্লিক করুন।">
+<!ENTITY blockedPlugin.label "এই প্লাগইনটি আপনার নিরাপত্তার জন্য প্রতিরোধ করা হয়েছে।">

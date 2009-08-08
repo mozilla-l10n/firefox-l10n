@@ -2,9 +2,10 @@
 
 <!ENTITY locationBar.label "ঠিকানা বার">
 
-<!ENTITY locbar.pre.label "ঠিকানা বার ব্যবহার করার সময় পরামর্শে অন্তর্ভুক্ত থাকবে: (L)">
-<!ENTITY locbar.pre.accessKey "l">
-<!ENTITY locbar.post.label "">
+<!ENTITY locbar.pre.label "ঠিকানা বার ব্যবহার করার সময় পরামর্শে অন্তর্ভুক্ত থাকবে: (U)">
+<!ENTITY locbar.pre.accessKey "u">
+<!ENTITY locbar.post.label "_: locbar.post.label
+">
 <!ENTITY locbar.both.label "ইতিহাস ও বুকমার্ক">
 <!ENTITY locbar.history.label "ইতিহাস">
 <!ENTITY locbar.bookmarks.label "বুকমার্ক">
@@ -20,26 +21,26 @@
 <!ENTITY rememberDaysBefore.accesskey "h">
 <!ENTITY rememberDaysAfter2.label "দিন">
 
-<!ENTITY rememberForms.label "ফর্ম ও অনুসন্ধানের বারে লেখা তথ্য মনে রাখা হবে (F)">
+<!ENTITY rememberForms.label "ফরম ও অনুসন্ধান বারে লেখা তথ্য মনে রাখা হবে (F)">
 <!ENTITY rememberForms.accesskey "f">
 
-<!ENTITY rememberDownloads.label "ডাউনলোডগুলো  মনে রাখা হবে (D)">
+<!ENTITY rememberDownloads.label "ডাউনলোডগুলো মনে রাখা হবে (D)">
 <!ENTITY rememberDownloads.accesskey "d">
 
 
 <!ENTITY cookies.label "কুকি">
 
-<!ENTITY acceptCookies.label "সাইট থেকে কুকি গ্রহণ করা হবে (C)">
+<!ENTITY acceptCookies.label "যে সাইট থেকে কুকি গ্রহণ করা হবে (C)">
 <!ENTITY acceptCookies.accesskey "c">
 
-<!ENTITY acceptThirdParty.label "তৃতীয়-পক্ষ থেকে কুকি গ্রহণ করা হবে (P)">
+<!ENTITY acceptThirdParty.label "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে (P)">
 <!ENTITY acceptThirdParty.accesskey "p">
 
 <!ENTITY keepUntil.label "সংরক্ষণের সময়কাল (K):">
 <!ENTITY keepUntil.accesskey "K">
 
-<!ENTITY expire.label "মেয়াদ উত্তীর্ণ হওয়া অবধি">
-<!ENTITY close.label "&brandShortName; বন্ধ করা অবধি">
+<!ENTITY expire.label "মেয়াদ উত্তীর্ণ হওয়া পর্যন্ত">
+<!ENTITY close.label "&brandShortName; বন্ধ করা পর্যন্ত">
 <!ENTITY askEachTime.label "প্রতিবার জিজ্ঞাসা করা হবে">
 
 <!ENTITY cookieExceptions.label "ব্যতিক্রম... (E)">
@@ -54,17 +55,17 @@
 <!ENTITY alwaysClear.label "&brandShortName; বন্ধ করার সময় ব্যক্তিগত তথ্য মুছে ফেলা হবে (W)">
 <!ENTITY alwaysClear.accesskey "w">
 
-<!ENTITY clearDataSettings.label "সেটিংসমূহ... (T)">
+<!ENTITY clearDataSettings.label "সেটিং... (T)">
 <!ENTITY clearDataSettings.accesskey "t">
 
-<!ENTITY historyHeader.pre.label "&brandShortName; (F):">
-<!ENTITY historyHeader.pre.accesskey "f">
+<!ENTITY historyHeader.pre.label "&brandShortName; (W):">
+<!ENTITY historyHeader.pre.accesskey "w">
 <!ENTITY historyHeader.remember.label "ইতিহাস মনে রাখবে">
 <!ENTITY historyHeader.dontremember.label "কখনোই ইতিহাস মনে রাখবে না">
-<!ENTITY historyHeader.custom.label "ইতিহাসের জন্য ব্যবহারকারী নির্বাচিত সেটিংসমূহ ব্যবহার করবে">
+<!ENTITY historyHeader.custom.label "ইতিহাসের জন্য স্বনির্বাচিত সেটিং ব্যবহার করবে">
 <!ENTITY historyHeader.post.label "">
 
-<!ENTITY rememberDescription.label "&brandShortName; আপনার ব্রাউজিং,  ডাউনলোড, ফর্ম এবং অনুসন্ধানের ইতিহাস মনে রাখবে এবং পরিদর্শিত ওয়েবসাইটের কুকি সংরক্ষণ করবে।">
+<!ENTITY rememberDescription.label "&brandShortName; আপনার ব্রাউজিং, ডাউনলোড, ফরম এবং অনুসন্ধানের ইতিহাস মনে রাখবে এবং পরিদর্শিত ওয়েবসাইটের কুকি সংরক্ষণ করবে।">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -80,7 +81,7 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
 <!ENTITY dontrememberActions.pre.label "আপনি চাইলে ">
-<!ENTITY dontrememberActions.clearHistory.label "বর্তমান সব ইতিহাসও মুছে ফেলতে পারেন">
+<!ENTITY dontrememberActions.clearHistory.label "বিদ্যমান সব ইতিহাস মুছে ফেলতে পারেন">
 <!ENTITY dontrememberActions.post.label "।">
 
 <!ENTITY privateBrowsingAutoStart.label "প্রতিবার &brandShortName; একান্ত ব্রাউজিং মোডেই চালু করা হবে (A)">
@@ -92,21 +93,21 @@
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
 
-<!ENTITY rememberHistory.pre.label "আপনার ইতিহাস মনে রাখা হবে অন্তত  (H)">
-<!ENTITY rememberHistory.pre.accesskey "h">
+<!ENTITY rememberHistory.pre.label "আপনার ইতিহাস মনে রাখা হবে অন্তত  (B)">
+<!ENTITY rememberHistory.pre.accesskey "b">
 <!ENTITY rememberHistory.post.label "দিন">
 
 <!ENTITY rememberDownload.label "ডাউনলোড ইতিহাস মনে রাখা হবে (D)">
 <!ENTITY rememberDownload.accesskey "d">
 
-<!ENTITY rememberSearchForm.label "ফর্ম ও অনুসন্ধান ইতিহাস মনে রাখা হবে (F)">
+<!ENTITY rememberSearchForm.label "ফরম ও অনুসন্ধান ইতিহাস মনে রাখা হবে (F)">
 <!ENTITY rememberSearchForm.accesskey "f">
 
-<!ENTITY clearOnClose.label "&brandShortName; বন্ধ করার সময় ইতিহাস মুছে ফেলা হবে (W)">
-<!ENTITY clearOnClose.accesskey "w">
+<!ENTITY clearOnClose.label "&brandShortName; বন্ধ করার সময় ইতিহাস মুছে ফেলা হবে (R)">
+<!ENTITY clearOnClose.accesskey "r">
 
-<!ENTITY clearOnCloseSettings.label "সেটিংসমূহ… (T)">
+<!ENTITY clearOnCloseSettings.label "সেটিং… (T)">
 <!ENTITY clearOnCloseSettings.accesskey "t">
 
-<!ENTITY clearDataNow.label "এই মুহূর্তে মুছে ফেলা হবে... (N)">
+<!ENTITY clearDataNow.label "এখন মুছে ফেলা হবে... (N)">
 <!ENTITY clearDataNow.accesskey "N">

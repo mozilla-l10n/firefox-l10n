@@ -9,7 +9,7 @@
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 
-<!ENTITY credit.translation "<h3>অনুবাদকবৃন্দ</h3><ul><li>রুণা ভট্টাচার্য্য</li><li>মুঃ রেজওয়ান শহীদ</li><li>জামিল আহমেদ</li></ul>">
+<!ENTITY credit.translation "<h3>অনুবাদকবৃন্দ</h3><ul><li>রুণা ভট্টাচার্য্য</li><li>মুঃ রেজওয়ান শহীদ</li><li>সামিয়া নিয়ামতউল্লাহ</li><li>ইসরাত জাহান</li><li>মো: নাছিমুল আমিন</li><li>জামিল আহমেদ</li></ul>">
 
 <!ENTITY credit.memory "স্মরণে">
-<!ENTITY credit.poweredByGeckoReg "Gecko&reg; সহযোগে সঞ্চালিত">
+<!ENTITY credit.poweredByGeckoReg "Gecko&reg; সহযোগে পরিচালিত">

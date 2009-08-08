@@ -2,20 +2,20 @@
 
 <!ENTITY generalTab.label "সাধারণ">
 
-<!ENTITY accessibility.label "অভিগম্যতা">
+<!ENTITY accessibility.label "স্বচ্ছন্দ্তা">
 
-<!ENTITY useCursorNavigation.label "পেজের মধ্যে চলাচলের জন্য সর্বদা কার্সার-কি ব্যবহার করা হবে (C)">
+<!ENTITY useCursorNavigation.label "বিভিন্ন পৃষ্ঠার মধ্যে চলাচলের জন্য সর্বদা কার্সার-কি ব্যবহার করা হবে (C)">
 <!ENTITY useCursorNavigation.accesskey "c">
-<!ENTITY searchStartTyping.label "টাইপ আরম্ভের সময় তৎক্ষনাৎ অনুসন্ধান শুরু করা হবে (X)">
+<!ENTITY searchStartTyping.label "টাইপ আরম্ভ করলে তৎক্ষণাৎ অনুসন্ধান শুরু করা হবে (X)">
 <!ENTITY searchStartTyping.accesskey "x">
-<!ENTITY blockAutoRefresh.label "ওয়েবসাইট কোনো পৃষ্ঠা রিলোড বা রিডিরেক্ট করার প্রচেষ্টা করলে সতর্কতা প্রদর্শন করা হবে (B)">
+<!ENTITY blockAutoRefresh.label "ওয়েবসাইট কোনো পৃষ্ঠা রিলোড বা রিডিরেক্ট করার চেষ্টা করলে সতর্ক করা হবে (B)">
 <!ENTITY blockAutoRefresh.accesskey "b">
 
 <!ENTITY browsing.label "ব্রাউজ করা">
 
-<!ENTITY useAutoScroll.label "অটোস্ক্রলিং ব্যবহার করা হবে (A)">
+<!ENTITY useAutoScroll.label "স্বয়ংক্রিয়-স্ক্রলিং ব্যবহার করা হবে (A)">
 <!ENTITY useAutoScroll.accesskey "a">
-<!ENTITY useSmoothScrolling.label "স্মুথ স্ক্রলিং ব্যবহার করা হবে (M)">
+<!ENTITY useSmoothScrolling.label "স্মুথ-স্ক্রলিং ব্যবহার করা হবে (M)">
 <!ENTITY useSmoothScrolling.accesskey "m">
 <!ENTITY checkSpelling.label "টাইপ করার সময় বানান পরীক্ষা করা হবে (T)">
 <!ENTITY checkSpelling.accesskey "t">
@@ -24,7 +24,7 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label "&brandShortName; ডিফল্ট ব্রাউজার কিনা তা প্রতিবার শুরুতে পরীক্ষা করা হবে (W)">
 <!ENTITY alwaysCheckDefault.accesskey "w">
-<!ENTITY checkNow.label "এই মুহূর্তে পরীক্ষা করা হবে (N)">
+<!ENTITY checkNow.label "এই মূহুর্তে পরীক্ষা করা হবে (N)">
 <!ENTITY checkNow.accesskey "N">
 
 <!ENTITY networkTab.label "নেটওয়ার্ক">
@@ -49,12 +49,12 @@
 <!ENTITY clearCacheNow.label "ক্যাশ পরিষ্কার করা হবে (C)">
 <!ENTITY clearCacheNow.accesskey "C">
 
-<!ENTITY updateTab.label "আপডেট">
+<!ENTITY updateTab.label "হালনাগাদ">
 
 <!ENTITY autoCheck.label "নিম্নলিখিত আইটেমগুলোর জন্য স্বয়ংক্রিয়ভাবে আপডেট পরীক্ষা করা হবে:">
 <!ENTITY enableAppUpdate.label "&brandShortName; (F)">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "ইনস্টলকৃত এ্যাড-অন (N)">
+<!ENTITY enableAddonsUpdate.label "ইনস্টলকৃত অ্যাড-অন (N)">
 <!ENTITY enableAddonsUpdate.accesskey "n">
 <!ENTITY enableSearchUpdate.label "অনুসন্ধান ইনজিন (H)">
 <!ENTITY enableSearchUpdate.accesskey "h">
@@ -63,12 +63,12 @@
 <!ENTITY askMe.accesskey "k">
 <!ENTITY modeAutomatic.label "স্বয়ংক্রিয়ভাবে আপডেট ডাউনলোড করে ইনস্টল করা হবে (D)">
 <!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "এর ফলে কোন এ্যাড-অন নিষ্ক্রিয় হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে (W)">
+<!ENTITY modeAutoAddonWarn.label "কোন এ্যাড-অন নিষ্ক্রিয় হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে (W)">
 <!ENTITY modeAutoAddonWarn.accesskey "W">
-<!ENTITY updateHistory.label "আপডেটের ইতিহাস প্রদর্শন (P)">
+<!ENTITY updateHistory.label "হালনাগাদ ইতিহাস প্রদর্শন (P)">
 <!ENTITY updateHistory.accesskey "p">
 
-<!ENTITY offlineNotify.label "অফলাইন অবস্থায় ব্যবহারের জন্য কোনো ওয়েবসাইট  তথ্য সংরক্ষণের চেষ্টা করলে আমাকে অবগত করা হবে (T)">
+<!ENTITY offlineNotify.label "অফলাইন অবস্থায় ব্যবহারের জন্য কোনো ওয়েবসাইট  তথ্য সংরক্ষণের চেষ্টা করলে অবগত করা হবে (T)">
 <!ENTITY offlineNotify.accesskey "T">
 <!ENTITY offlineNotifyExceptions.label "ব্যতিক্রম… (X)">
 <!ENTITY offlineNotifyExceptions.accesskey "x">

@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label "পছন্দ অনুসারে ক্যারেক্টার এনকোডিং করুন">
-<!ENTITY current.label "সক্রিয় ক্যারেক্টার এনকোডিং:">
-<!ENTITY remove.label "সরিয়ে ফেলুন (R)">
+<!ENTITY title.label "অক্ষর এনকোডিং স্বনির্ধারণ">
+<!ENTITY current.label "সক্রিয় অক্ষর এনকোডিং:">
+<!ENTITY remove.label "অপসারণ (R)">
 <!ENTITY remove.accessKey "R">
-<!ENTITY additional.label "উপস্থিত ক্যারেক্টার এনকোডিং:">
-<!ENTITY add.label "যোগ করুন (A)">
+<!ENTITY additional.label "বিদ্যমান অক্ষর এনকোডিং:">
+<!ENTITY add.label "যোগ (A)">
 <!ENTITY add.accessKey "A">
-<!ENTITY moveUp.label "উপরে স্থানান্তরণ (U)">
+<!ENTITY moveUp.label "উপরে স্থানান্তর (U)">
 <!ENTITY moveUp.accessKey "U">
-<!ENTITY moveDown.label "নীচে স্থানান্তরণ ( D)">
+<!ENTITY moveDown.label "নীচে স্থানান্তর ( D)">
 <!ENTITY moveDown.accessKey "D">

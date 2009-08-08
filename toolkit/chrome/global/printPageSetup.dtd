@@ -1,12 +1,12 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title "পৃষ্ঠার বৈশিষ্ট্য নির্ধারণ">
+<!ENTITY printSetup.title "পৃষ্ঠার বিন্যাস">
 
-<!ENTITY basic.tab "বিন্যাস &amp; বিকল্প">
+<!ENTITY basic.tab "বিন্যাস এবং অপশন">
 
 <!ENTITY formatGroup.label "বিন্যাস">
 
-<!ENTITY orientation.label "দিশা:">
+<!ENTITY orientation.label "স্থিতিবিন্যাস:">
 <!ENTITY portrait.label "লম্বালম্বি (P)">
 <!ENTITY portrait.accesskey "P">
 <!ENTITY landscape.label "আড়াআড়ি (L)">
@@ -19,12 +19,12 @@
 <!ENTITY shrinkToFit.label "পৃষ্ঠার প্রস্থ অনুসারে সংকোচন করা হবে (W)">
 <!ENTITY shrinkToFit.accesskey "W">
 
-<!ENTITY optionsGroup.label "বিকল্প">
+<!ENTITY optionsGroup.label "অপশন">
 
-<!ENTITY printBG.label "পটভূমি প্রিন্ট করা হবে (রং &amp; ছবি) (B)">
+<!ENTITY printBG.label "পটভূমি মুদ্রণ করা হবে (রং এবং ছবি) (B)">
 <!ENTITY printBG.accesskey "B">
 
-<!ENTITY advanced.tab "মার্জিন &amp; হেডার/ফুটার">
+<!ENTITY advanced.tab "মার্জিন এবং শীর্ষচরণ/পাদচরণ">
 
 <!ENTITY marginGroup.label "মার্জিন (#1)">
 <!ENTITY marginUnits.inches "ইঞ্চি">
@@ -38,17 +38,17 @@
 <!ENTITY marginRight.label "ডানদিকে: (R)">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label "হেডার &amp; ফুটার">
+<!ENTITY headerFooter.label "শীর্ষচরণ ও পাদচরণ">
 
 <!ENTITY hfLeft.label "বাঁদিকে:">
-<!ENTITY hfCenter.label "কেন্দ্রস্থিত:">
+<!ENTITY hfCenter.label "কেন্দ্রে:">
 <!ENTITY hfRight.label "ডানদিকে:">
-<!ENTITY headerLeft.tip "বাঁদিকের হেডার">
-<!ENTITY headerCenter.tip "কেন্দ্রস্থিত হেডার">
-<!ENTITY headerRight.tip "ডানদিকের হেডার">
-<!ENTITY footerLeft.tip "বাঁদিকের ফুটার">
-<!ENTITY footerCenter.tip "কেন্দ্রস্থিত ফুটার">
-<!ENTITY footerRight.tip "ডানদিকের ফুটার">
+<!ENTITY headerLeft.tip "বাঁদিকের শীর্ষচরণ">
+<!ENTITY headerCenter.tip "কেন্দ্রস্থিত শীর্ষচরণ">
+<!ENTITY headerRight.tip "ডানদিকের শীর্ষচরণ">
+<!ENTITY footerLeft.tip "বাঁদিকের পাদচরণ">
+<!ENTITY footerCenter.tip "কেন্দ্রস্থিত পাদচরণ">
+<!ENTITY footerRight.tip "ডানদিকের পাদচরণ">
 
 <!ENTITY hfTitle "শিরোনাম">
 <!ENTITY hfURL "URL">
@@ -59,4 +59,4 @@
 <!ENTITY hfCustom "স্বনির্ধারিত...">
 
 <!ENTITY customPrompt.title "স্বনির্ধারিত...">
-<!ENTITY customPrompt.prompt "হেডার/ফুটার হিসাবে ব্যবহারের উদ্দেশ্যে নিজের পছন্দসই পংক্তি লিখুন">
+<!ENTITY customPrompt.prompt "শীর্ষচরণ/পাদচরণ জন্য নিজের পছন্দসই পাঠ্য লিখুন">

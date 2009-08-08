@@ -1,12 +1,12 @@
-<!ENTITY dialog.title "টুলবারের পছন্দসই বিন্যাস">
-<!ENTITY dialog.style "প্রস্থঃ ৬৩৫পিক্সেল; উচ্চতাঃ ৪০০পিক্সেল;">
-<!ENTITY instructions.description "টুলবার থেকে বস্তু টেনে এনে অথবা ফেলে আপনি সেগুলি যোগ করতে অথবা সরিয়ে ফেলতে পারেন।">
+<!ENTITY dialog.title "টুলবার স্বনির্ধারণ">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "টুলবারে টেনে এনে ফেলে বা টুলবার থেকে টেনে বের করে আপনি উপাদান যোগ বা অপসারণ করতে পারেন।">
 <!ENTITY show.label "প্রদর্শন:">
-<!ENTITY iconsAndText.label "আইকন ও টেক্সট">
+<!ENTITY iconsAndText.label "আইকন ও লেখা">
 <!ENTITY icons.label "আইকন">
-<!ENTITY text.label "টেক্সট">
-<!ENTITY useSmallIcons.label "ক্ষুদ্র আকারের আইকন ব্যবহার করুন">
-<!ENTITY restoreDefaultSet.label "ডিফল্ট সংকলন পুনরায় স্থাপন করুন">
-<!ENTITY addNewToolbar.label "নতুন টুলবার যোগ করুন">
+<!ENTITY text.label "লেখা">
+<!ENTITY useSmallIcons.label "ক্ষুদ্র আইকন ব্যবহার">
+<!ENTITY restoreDefaultSet.label "ডিফল্ট পুনরায় স্থাপন">
+<!ENTITY addNewToolbar.label "নতুন টুলবার যোগ">
 <!ENTITY saveChanges.label "সম্পন্ন">
-<!ENTITY undoChanges.label "পরিবর্তন বাতিল করুন">
+<!ENTITY undoChanges.label "পরিবর্তন বাতিল">

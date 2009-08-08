@@ -1,31 +1,31 @@
 <!ENTITY editMenu.label "সম্পাদনা (E)">
 <!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "পূর্বাবস্থা (U)">
+<!ENTITY undoCmd.label "পূর্বাবস্থায় ফেরানো (U)">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "পুনরাবৃত্তি (R)">
+<!ENTITY redoCmd.label "পুনরায় করা (R)">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "কাট করুন (t)">
+<!ENTITY cutCmd.label "কাটা (t)">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "কপি করুন (C)">
+<!ENTITY copyCmd.label "অনুলিপি করা (C)">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "পেস্ট করুন (P)">
+<!ENTITY pasteCmd.label "প্রতিলেপন করা (P)">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "মুছে ফেলুন (D)">
+<!ENTITY deleteCmd.label "মুছে ফেলা (D)">
 <!ENTITY deleteCmd.accesskey "d">
-<!ENTITY selectAllCmd.label "সমগ্র নির্বাচন করুন (A)">
+<!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findCmd.label "অনুসন্ধান (F)">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "পরবর্তী উপস্থিতি অনুসন্ধান করুন (g)">
+<!ENTITY findAgainCmd.label "পুনরায় অনুসন্ধান (g)">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findPreviousCmd.label "পূর্ববর্তী উপস্থিতি অনুসন্ধান করুন (v)">
+<!ENTITY findPreviousCmd.label "পূর্ববর্তী উপস্থিতি অনুসন্ধান (v)">
 <!ENTITY findPreviousCmd.accesskey "v">

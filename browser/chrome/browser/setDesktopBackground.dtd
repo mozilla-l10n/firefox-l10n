@@ -1,6 +1,6 @@
 <!ENTITY position.label "অবস্থান:">
-<!ENTITY tile.label "টাইল">
-<!ENTITY center.label "কেন্দ্রস্থিত">
+<!ENTITY tile.label "টালি">
+<!ENTITY center.label "কেন্দ্রে">
 <!ENTITY stretch.label "প্রসারিত">
 <!ENTITY preview.label "প্রাকদর্শন">
 <!ENTITY color.label "রং:">

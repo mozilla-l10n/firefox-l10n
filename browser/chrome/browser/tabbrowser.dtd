@@ -1,21 +1,21 @@
 <!ENTITY untitledTab "(শিরোনামহীন)">
 <!ENTITY newTab.label "নতুন ট্যাব (N)">
 <!ENTITY newTab.accesskey "N">
-<!ENTITY closeTab.label "ট্যাব বন্ধ করুন (C)">
+<!ENTITY closeTab.label "ট্যাব বন্ধ (C)">
 <!ENTITY closeTab.accesskey "c">
 <!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY closeOtherTabs.label "অন্য ট্যাবগুলো বন্ধ করুন (O)">
-<!ENTITY reloadAllTabs.label "সব ট্যাব আবার লোড করুন (A)">
+<!ENTITY closeOtherTabs.label "অন্য ট্যাবগুলো বন্ধ করা হবে (O)">
+<!ENTITY reloadAllTabs.label "সব ট্যাব আবার লোড করা হবে(A)">
 <!ENTITY reloadAllTabs.accesskey "A">
-<!ENTITY reloadTab.label "এই ট্যাব আবার লোড করুন (R)">
+<!ENTITY reloadTab.label "এই ট্যাব আবার লোড করা হবে (R)">
 <!ENTITY reloadTab.accesskey "r">
-<!ENTITY openTabInNewWindow.label "নতুন উইন্ডোতে খুলুন (W)">
+<!ENTITY openTabInNewWindow.label "নতুন উইন্ডোতে খোলা হবে (W)">
 <!ENTITY openTabInNewWindow.accesskey "W">
-<!ENTITY listAllTabs.label "সব ট্যাব তালিকাবদ্ধ করুন">
-<!ENTITY bookmarkAllTabs.label "সব ট্যাব বুকমার্ক করুন (T)… ">
+<!ENTITY listAllTabs.label "সব ট্যাব তালিকাবদ্ধ করা হবে">
+<!ENTITY bookmarkAllTabs.label "সব ট্যাব বুকমার্ক করা হবে (T)… ">
 <!ENTITY bookmarkAllTabs.accesskey "T">
-<!ENTITY bookmarkThisTab.label "এই ট্যাবটি বুকমার্ক করুন (B)">
+<!ENTITY bookmarkThisTab.label "এই ট্যাবটি বুকমার্ক করা হবে (B)">
 <!ENTITY bookmarkThisTab.accesskey "B">
-<!ENTITY undoCloseTab.label "বন্ধ করা ট্যাব আবার খুলুন (U)">
+<!ENTITY undoCloseTab.label "বন্ধ করা ট্যাব আবার খোলা হবে (U)">
 <!ENTITY undoCloseTab.accesskey "U">
-<!ENTITY newTabButton.tooltip "একটি নতুন ট্যাব খুলুন">
+<!ENTITY newTabButton.tooltip "একটি নতুন ট্যাব খোলা হবে">
