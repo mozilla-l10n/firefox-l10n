@@ -38,38 +38,38 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
-<!ENTITY aboutWarningTitle.label "এর ফলে আপনার জন্য উপলব্ধ ওয়ারেন্টি বাতিল হয়ে যেতে পারে!">
-<!ENTITY aboutWarningText.label "উন্নত এই বৈশিষ্ট্যগুলির মান পরিবর্তনের ফলে  অ্যাপ্লিকেশনের স্থায়ীত্ব, নিরাপত্তা ও কর্মক্ষমতা প্রভাবিত হতে পারে। কর্ম সম্পর্কে সম্পূর্ণরূপে নিশ্চিত হলে তবেই এগিয়ে চলুন।">
-<!ENTITY aboutWarningButton.label "আমি প্রতিজ্ঞা করছি, এখন থেকে সাবধান হব!">
-<!ENTITY aboutWarningCheckbox.label "পরবর্তীবার এই সতর্কবার্তা প্রদর্শন করা হবে">
+<!ENTITY aboutWarningTitle.label "এটি আপনার ওয়ারেন্টি বাতিল করে দিতে পারে!">
+<!ENTITY aboutWarningText.label "উচ্চ পর্যায়ের এই বৈশিষ্ট্যগুলির মান পরিবর্তনের ফলে অ্যাপ্লিকেশনের স্থায়ীত্ব, নিরাপত্তা ও কর্মক্ষমতা প্রভাবিত হতে পারে। আপনি সম্পূর্ণভাবে নিশ্চিত হলে তবেই এগিয়ে যান।">
+<!ENTITY aboutWarningButton.label "আমি সাবধান হবো, প্রতিজ্ঞা করছি!">
+<!ENTITY aboutWarningCheckbox.label "পরবর্তীতে এই সতর্কবার্তা দেখানো হবে">
 
-<!ENTITY filterPrefs.label "ফিল্টার (F): ">
+<!ENTITY filterPrefs.label "পরিশোধক (F):">
 <!ENTITY filterPrefs.accesskey "F">
 <!ENTITY focusFilter.key "f">
 <!-- Columns -->
 
-<!ENTITY prefColumn.label "পছন্দসই বৈশিষ্ট্যের নাম">
+<!ENTITY prefColumn.label "পছন্দের নাম">
 <!ENTITY lockColumn.label "অবস্থা">
-<!ENTITY typeColumn.label "ধরন">
+<!ENTITY typeColumn.label "ধরণ">
 <!ENTITY valueColumn.label "মান">
 <!-- Tooltips -->
 
 <!ENTITY prefColumnHeader.tooltip "ক্রমানুসারে সাজাতে ক্লিক করুন">
-<!ENTITY columnChooser.tooltip "প্রদর্শনের জন্য কলাম নির্বাচন করতে ক্লিক করুন">
+<!ENTITY columnChooser.tooltip "যে কলাম প্রদর্শিত হবে তা নির্বাচন করতে ক্লিক করুন">
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "কপি (C)">
+<!ENTITY copyPref.label "অনুলিপি (C)">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY copyName.label "নাম কপি করুন (N)">
+<!ENTITY copyName.label "নাম অনুলিপি (N)">
 <!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "মান কপি করুন ( V)">
+<!ENTITY copyValue.label "মান অনুলিপি ( V)">
 <!ENTITY copyValue.accesskey "V">
-<!ENTITY modify.label "পরিবর্তন করুন (M)">
+<!ENTITY modify.label "পরিবর্তন (M)">
 <!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "অদল-বদল করুন (T)">
+<!ENTITY toggle.label "টগল (T)">
 <!ENTITY toggle.accesskey "T">
-<!ENTITY reset.label "মান পুনর্নির্ধারণ করুন (R)">
+<!ENTITY reset.label "রিসেট (R)">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "নতুন (w)">
 <!ENTITY new.accesskey "w">

@@ -10,14 +10,14 @@
 <!ENTITY sizeProportional.accesskey "z">
 <!ENTITY sizeMonospace.accesskey "e">
 
-<!ENTITY proportional.label "অানুপাতিক (P):">
+<!ENTITY proportional.label "আনুপাতিক (P):">
 <!ENTITY proportional.accesskey "P">
 
-<!ENTITY serif.label "সেরিফ (S):">
+<!ENTITY serif.label "Serif:">
 <!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "সান্স-সেরিফ (N):">
+<!ENTITY sans-serif.label "Sans-serif:">
 <!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "মোনোস্পেস (M):">
+<!ENTITY monospace.label "Monospace:">
 <!ENTITY monospace.accesskey "M">
 
 <!ENTITY font.langGroup.latin1 "পশ্চিমি">
@@ -45,8 +45,8 @@
 <!ENTITY font.langGroup.georgian "জর্জিয়ান">
 <!ENTITY font.langGroup.gujarati "গুজরাতি">
 <!ENTITY font.langGroup.gurmukhi "গুরুমুখি">
-<!ENTITY font.langGroup.khmer "খমের">
-<!ENTITY font.langGroup.malayalam "মালায়ালম">
+<!ENTITY font.langGroup.khmer "খেমার">
+<!ENTITY font.langGroup.malayalam "মালায়ালাম">
 <!ENTITY font.langGroup.oriya "ওড়িয়া">
 <!ENTITY font.langGroup.telugu "তেলুগু">
 <!ENTITY font.langGroup.kannada "কান্নাডা">
@@ -57,10 +57,10 @@
 <!ENTITY minSize.none "-">
 <!-- default font type -->
 
-<!ENTITY useDefaultFontSerif.label "সেরিফ">
-<!ENTITY useDefaultFontSansSerif.label "সান্স-সেরিফ">
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
-<!ENTITY allowPagesToUse.label "উপরে নির্বাচিত ফন্ট উপেক্ষা করে পেজগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে (A)">
+<!ENTITY allowPagesToUse.label "উপরে নির্বাচিত ফন্ট উপেক্ষা করে, পৃষ্ঠাগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে (A)">
 <!ENTITY allowPagesToUse.accesskey "A">
 
 <!ENTITY languages.customize.Charset.grouplabel "ক্যারেক্টার এনকোডিং">

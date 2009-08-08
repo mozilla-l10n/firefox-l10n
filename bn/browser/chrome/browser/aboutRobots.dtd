@@ -12,7 +12,7 @@
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
 <!ENTITY robots.errorShortDescText "আমরা আপনাদের কাছে এসেছি শান্তি এবং বন্ধুত্বের কামনায়!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
-<!ENTITY robots.errorLongDesc1 " রোবট কখনো মানুষকে আঘাত করতে পারে না, বা তার নিষ্ক্রিয়তার দ্বারা, মানুষের ক্ষতি হতে দিতে পারে না।">
+<!ENTITY robots.errorLongDesc1 "রোবট কখনো মানুষকে আঘাত করতে পারে না, বা তার নিষ্ক্রিয়তার দ্বারা, মানুষের ক্ষতি হতে দিতে পারে না।">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->
 <!ENTITY robots.errorLongDesc2 "আমরা এমন সব জিনিস দেখেছি যা আপনারা কল্পনাও করতে পারেন না।">
 <!-- Book: Hitchiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->

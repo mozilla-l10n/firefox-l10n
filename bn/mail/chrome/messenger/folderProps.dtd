@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label "সারসংক্ষেপ ফাইল পুনরায় তৈরি করা হবে">
      
 <!ENTITY retention.label "ধারণ নীতিমালা">
-<!ENTITY retentionUseDefault.label "সার্ভারের ডিফল্ট ব্যবহার করা হবে (d)">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label "Use my account settings">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "যত দিনের পুরনো">
 <!ENTITY message.label "বার্তা">
 <!ENTITY retentionCleanup.label "ডিস্কের জায়গা পুনরুদ্ধার করতে, পুরনো বার্তা স্থায়ীভাবে মুছে ফেলা যেতে পারে।">

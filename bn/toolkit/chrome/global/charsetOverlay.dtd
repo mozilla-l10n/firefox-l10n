@@ -1,21 +1,21 @@
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label "ক্যারেক্টার এনকোডিং (C)">
+<!ENTITY charsetMenu.label "অক্ষরের এনকোডিং (C)">
 <!ENTITY charsetMenu.accesskey "C">
-<!ENTITY charsetMenuAutodet.label "স্বয়ংক্রিয়ভাবে-সনাক্তকরন (A)">
+<!ENTITY charsetMenuAutodet.label "স্বয়ংক্রিয়-সনাক্তকরণ (A)">
 <!ENTITY charsetMenuAutodet.accesskey "a">
-<!ENTITY charsetMenuMore.label "অধিক এনকোডিং (M)">
+<!ENTITY charsetMenuMore.label "আরও এনকোডিং (M)">
 <!ENTITY charsetMenuMore.accesskey "m">
 <!ENTITY charsetMenuMore1.label "পশ্চিম ইউরোপিয়ান (W)">
 <!ENTITY charsetMenuMore1.accesskey "w">
 <!ENTITY charsetMenuMore2.label "পূর্ব ইউরোপিয়ান (E)">
 <!ENTITY charsetMenuMore2.accesskey "E">
-<!ENTITY charsetMenuMore3.label "পূর্বে এশিয়ান (A)">
+<!ENTITY charsetMenuMore3.label "পূর্ব এশিয়ান (A)">
 <!ENTITY charsetMenuMore3.accesskey "A">
-<!ENTITY charsetMenuMore4.label "দঃপূ &amp; দঃপ এশিয়ান (S)">
+<!ENTITY charsetMenuMore4.label "দঃ পূর্ব ও দঃ পশ্চিম এশিয়ান (S)">
 <!ENTITY charsetMenuMore4.accesskey "S">
-<!ENTITY charsetMenuMore5.label "মধ্য প্রাচ্য (M)">
+<!ENTITY charsetMenuMore5.label "মধ্য প্রাচ্যীয় (M)">
 <!ENTITY charsetMenuMore5.accesskey "M">
 <!ENTITY charsetMenuUnicode.label "ইউনিকোড (U)">
 <!ENTITY charsetMenuUnicode.accesskey "U">
-<!ENTITY charsetCustomize.label "নিজের পছন্দসই তালিকা... (C)">
+<!ENTITY charsetCustomize.label "তালিকা স্বনির্বাচন... (C)">
 <!ENTITY charsetCustomize.accesskey "c">

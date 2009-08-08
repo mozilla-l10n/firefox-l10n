@@ -1,4 +1,4 @@
-<!ENTITY newWindowsAsTabs.label "নতুন উইন্ডো, নতুন ট্যাব-এ খোলা হবে (T)">
+<!ENTITY newWindowsAsTabs.label "নতুন উইন্ডোগুলো, নতুন ট্যাব-এ খোলা হবে (T)">
 <!ENTITY newWindowsAsTabs.accesskey "t">
 
 <!ENTITY warnCloseMultipleTabs.label "একাধিক ট্যাব বন্ধ করার চেষ্টা করা হলে সতর্ক করা হবে (M)">

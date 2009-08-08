@@ -43,13 +43,13 @@
 <!ENTITY certmgr.tab.ca "কর্তৃপক্ষ">
 <!ENTITY certmgr.tab.orphan2 "অন্যান্য">
 
-<!ENTITY certmgr.ca.builtins "বিল্ট-ইন CA">
-<!ENTITY certmgr.ca.mycas "আপনার দ্বারা পরিচালিত CA">
+<!ENTITY certmgr.ca.builtins "বিল্ট-ইন CAs">
+<!ENTITY certmgr.ca.mycas "আপনার দ্বারা পরিচালিত CAs">
 
-<!ENTITY certmgr.mine "উল্লিখিত প্রতিষ্ঠানগুলি থেকে আপনাকে সনাক্তকারী সার্টিফিকেট উপস্থিত রয়েছে :">
-<!ENTITY certmgr.others "উল্লিখিত ব্যক্তিদের সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে উপস্থিত রয়েছে:">
-<!ENTITY certmgr.websites2 "নিম্নলিখিত সার্ভারগুলির সনাক্ত করতে ব্যবহৃত সার্টিফিকেট ফাইলে উপস্থিত রয়েছে:">
-<!ENTITY certmgr.cas "উল্লিখিত সার্টিফিকেট কর্তৃপক্ষকে সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে উপস্থিত রয়েছে:">
+<!ENTITY certmgr.mine "উল্লিখিত প্রতিষ্ঠানগুলি থেকে আপনাকে সনাক্তকারী সার্টিফিকেট বিদ্যমান:">
+<!ENTITY certmgr.others "উল্লিখিত ব্যক্তিদের সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে বিদ্যমান:">
+<!ENTITY certmgr.websites2 "নিম্নলিখিত সার্ভারগুলির সনাক্ত করতে ব্যবহৃত সার্টিফিকেট ফাইলে বিদ্যমান:">
+<!ENTITY certmgr.cas "উল্লিখিত সার্টিফিকেট কর্তৃপক্ষকে সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে বিদ্যমান:">
 <!ENTITY certmgr.orphans "ফাইলের মধ্যে বেশ কয়েকটি সার্টিফিকেট অন্যান্য কোনো বিভাগের ক্ষেত্রে প্রযোজ্য নয়:">
 
 <!ENTITY certmgr.detail.general_tab.title "সাধারণ (G)">
@@ -70,20 +70,20 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 ফিঙ্গারপ্রিন্ট">
 <!ENTITY certmgr.certdetail.md5fingerprint "MD5 ফিঙ্গারপ্রিন্ট">
 
-<!ENTITY certmgr.editcert.title "নিরাপত্তা সার্টিফিকেটের বৈশিষ্ট্য সম্পাদন">
-<!ENTITY certmgr.editcacert.title "CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন">
-<!ENTITY certmgr.editsslcert.title "ওয়েবসাইট সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন">
-<!ENTITY certmgr.editcert.edittrust "বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন:">
+<!ENTITY certmgr.editcert.title "নিরাপত্তা সার্টিফিকেটের বৈশিষ্ট্য সম্পাদনা">
+<!ENTITY certmgr.editcacert.title "CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা">
+<!ENTITY certmgr.editsslcert.title "ওয়েবসাইট সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা">
+<!ENTITY certmgr.editcert.edittrust "বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা:">
 <!ENTITY certmgr.editcert.trustssl "এই সার্টিফিকেটের সাহায্যে ওয়েবসাইট সনাক্ত করা সম্ভব।">
 <!ENTITY certmgr.editcert.trustemail "এই সার্টিফিকেটের সাহায্যে মেইল ব্যবহারকারীদের সনাক্ত করা সম্ভব।">
 <!ENTITY certmgr.editcert.trustobjsign "এই সার্টিফিকেটের সাহায্যে সফটওয়্যার নির্মাতাদের সনাক্ত করা সম্ভব।">
 <!ENTITY certmgr.editsslcert.edittrust "সার্টিফেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা:">
-<!ENTITY certmgr.editsslcert.dotrust "এই সার্টিফিকেটের বৈধতা বিশ্বাস করা হবে।">
-<!ENTITY certmgr.editsslcert.donttrust "এই সার্টিফিকেটের বৈধতা বিশ্বাস করা হবে না।">
-<!ENTITY certmgr.editemailcert.title "ইমেইল সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন">
-<!ENTITY certmgr.editemailcert.edittrust "সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা:">
-<!ENTITY certmgr.editemailcert.dotrust "এই সার্টিফিকেটের বৈধতা বিশ্বাস করা হবে।">
-<!ENTITY certmgr.editemailcert.donttrust "এই সার্টিফিকেটের বৈধতা বিশ্বাস করা হবে না।">
+<!ENTITY certmgr.editsslcert.dotrust "এই সার্টিফিকেটের কার্যকারিতা বিশ্বাস করা হবে।">
+<!ENTITY certmgr.editsslcert.donttrust "এই সার্টিফিকেটের কার্যকারিতা বিশ্বাস করা হবে না।">
+<!ENTITY certmgr.editemailcert.title "ইমেইল সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত সেটিং সম্পাদনা">
+<!ENTITY certmgr.editemailcert.edittrust "সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত সেটিং সম্পাদনা:">
+<!ENTITY certmgr.editemailcert.dotrust "এই সার্টিফিকেটের কার্যকারিতা বিশ্বাস করা হবে।">
+<!ENTITY certmgr.editemailcert.donttrust "এই সার্টিফিকেটের কার্যকারিতা বিশ্বাস করা হবে না।">
 
 <!ENTITY certmgr.deletecert.title "সার্টিফিকেট অপসারণ">
 <!ENTITY certmgr.deletecert.beforename "আপনি এই সার্টিফিকেটটি মুছে ফেলার অনুরোধ করেছেন:">
@@ -95,33 +95,33 @@
 <!ENTITY certmgr.certname "সার্টিফিকেটের নাম">
 <!ENTITY certmgr.certserver "সার্ভার">
 <!ENTITY certmgr.typesofoverrides "ব্যতিক্রম">
-<!ENTITY certmgr.override_lifetime "সীমাহীন মেয়াদ">
+<!ENTITY certmgr.override_lifetime "মেয়াদ">
 <!ENTITY certmgr.tokenname "নিরাপত্তা ডিভাইস">
 <!ENTITY certmgr.purpose "উদ্দেশ্য">
 <!ENTITY certmgr.issued "প্রকাশনার তারিখ">
-<!ENTITY certmgr.expires "মেয়াদ পূরণের তারিখ">
-<!ENTITY certmgr.email "ই-মেইল ঠিকানা">
+<!ENTITY certmgr.expires "মেয়াদোত্তীর্ণ তারিখ">
+<!ENTITY certmgr.email "ইমেইল ঠিকানা">
 <!ENTITY certmgr.serial "ক্রমিক সংখ্যা">
 
 <!ENTITY certmgr.close.label "বন্ধ (C)">
 <!ENTITY certmgr.close.accesskey "C">
-<!ENTITY certmgr.view2.label "প্রদর্শন…(V)">
+<!ENTITY certmgr.view2.label "ভিউ…(V)">
 <!ENTITY certmgr.view2.accesskey "V">
 <!ENTITY certmgr.edit2.label "সম্পাদনা…(E)">
 <!ENTITY certmgr.edit2.accesskey "E">
-<!ENTITY certmgr.editca.label "CA বিশ্বস্ততা সম্পাদন করুন (d)">
+<!ENTITY certmgr.editca.label "CA বিশ্বস্ততা সম্পাদনা (d)">
 <!ENTITY certmgr.editca.accesskey "d">
-<!ENTITY certmgr.add.label "যোগ করুন (A)">
+<!ENTITY certmgr.add.label "যোগ (A)">
 <!ENTITY certmgr.add.accesskey "A">
-<!ENTITY certmgr.export.label "এক্সপোর্ট করুন…(x)">
+<!ENTITY certmgr.export.label "এক্সপোর্ট… (x)">
 <!ENTITY certmgr.export.accesskey "x">
-<!ENTITY certmgr.delete2.label "মুছে ফেলুন…(D)">
+<!ENTITY certmgr.delete2.label "মুছে ফেলা… (D)">
 <!ENTITY certmgr.delete2.accesskey "D">
-<!ENTITY certmgr.backup2.label "ব্যাক-আপ করুন…(B)">
+<!ENTITY certmgr.backup2.label "ব্যাকআপ… (B)">
 <!ENTITY certmgr.backup2.accesskey "B">
-<!ENTITY certmgr.backupall2.label "সমগ্র ব্যাক-আপ করুন…(k)">
+<!ENTITY certmgr.backupall2.label "সব ব্যাকআপ… (k)">
 <!ENTITY certmgr.backupall2.accesskey "k">
-<!ENTITY certmgr.restore2.label "ইম্পোর্ট করুন…(m)">
+<!ENTITY certmgr.restore2.label "ইমপোর্ট…(m)">
 <!ENTITY certmgr.restore2.accesskey "m">
 <!ENTITY certmgr.details.label "সার্টিফিকেটের ক্ষেত্র (F)">
 <!ENTITY certmgr.details.accesskey "F">
@@ -129,19 +129,19 @@
 <!ENTITY certmgr.fields.accesskey "V">
 <!ENTITY certmgr.hierarchy.label "সার্টিফিকেটের অনুক্রম (C)">
 <!ENTITY certmgr.hierarchy.accesskey "C">
-<!ENTITY certmgr.addException.label "ব্যতিক্রম যোগ করুন… (x)">
+<!ENTITY certmgr.addException.label "ব্যতিক্রম যোগ… (x)">
 <!ENTITY certmgr.addException.accesskey "x">
 
-<!ENTITY exceptionMgr.title "নিরাপত্তা জড়িত ব্যতিক্রম যোগ করুন">
-<!ENTITY exceptionMgr.exceptionButton "নিরাপত্তা জড়িত ব্যতিক্রম নিশ্চিত করুন">
+<!ENTITY exceptionMgr.title "নিরাপত্তা ব্যতিক্রম যোগ করুন">
+<!ENTITY exceptionMgr.exceptionButton "নিরাপত্তা ব্যতিক্রম নিশ্চিত করুন">
 <!ENTITY exceptionMgr.exceptionButtonAccess "C">
-<!ENTITY exceptionMgr.supplementalWarning "বৈধ ব্যাঙ্ক, বিপনী ও অন্যান্য সার্বজনীন সাইট দ্বারা এই অনুরোধ করা হবে না।">
+<!ENTITY exceptionMgr.supplementalWarning "আইনসঙ্গত ব্যাংক, বিপনী ও অন্যান্য সার্বজনীন সাইট দ্বারা এই অনুরোধ করা হবে না।">
 <!ENTITY exceptionMgr.certlocation.caption2 "সার্ভার">
 <!ENTITY exceptionMgr.certlocation.url "অবস্থান:">
-<!ENTITY exceptionMgr.certlocation.download "সার্টিফিকেট নিন">
+<!ENTITY exceptionMgr.certlocation.download "সার্টিফিকেট গ্রহন করুন (G)">
 <!ENTITY exceptionMgr.certlocation.accesskey "G">
 <!ENTITY exceptionMgr.certstatus.caption "সার্টিফিকেটের অবস্থা">
-<!ENTITY exceptionMgr.certstatus.viewCert "প্রদর্শন…">
+<!ENTITY exceptionMgr.certstatus.viewCert "প্রদর্শন… (V)">
 <!ENTITY exceptionMgr.certstatus.accesskey "V">
 <!ENTITY exceptionMgr.permanent.label "এই ব্যতিক্রমটি স্থায়ীরূপে সংরক্ষণ করুন (P)">
 <!ENTITY exceptionMgr.permanent.accesskey "P">
