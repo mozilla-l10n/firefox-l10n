@@ -292,6 +292,7 @@
 <!ENTITY cutButton.tooltip "Taglia">
 <!ENTITY copyButton.tooltip "Copia">
 <!ENTITY pasteButton.tooltip "Incolla">
+<!ENTITY fullScreenButton.tooltip "Visualizza la finestra a schermo intero">
 <!ENTITY quitApplicationCmdWin.label "Esci">
 <!ENTITY quitApplicationCmdWin.accesskey "E">
 <!ENTITY goBackCmd.commandKey "[">
