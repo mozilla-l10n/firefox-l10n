@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Instalează un supliment">
 <!ENTITY cmd.installFileTheme.tooltip     "Instalează o temă">
-<!ENTITY cmd.installUpdatesAll.label      "Instalează actualizările">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Instalează actualizările selectate">
+<!ENTITY cmd.installUpdatesAll2.label     "Instalează actualizările">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Instalează actualizările selectate">
 <!ENTITY cmd.restartApp2.label            "Repornește &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "Reporniți &brandShortName; pentru a încheia instalarea">

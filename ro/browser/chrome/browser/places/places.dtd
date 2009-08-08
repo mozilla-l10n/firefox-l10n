@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Pune semn de carte aici...">
+<!ENTITY cmd.bookmarkLink.accesskey     "P">
 <!ENTITY cmd.delete.label               "Șterge această pagină">
 <!ENTITY cmd.delete.accesskey           "t">
 <!ENTITY cmd.deleteDomainData.label     "Uită totul despre acest sait">
@@ -136,18 +138,10 @@
 
 <!ENTITY search.label                              "Caută în:">
 <!ENTITY search.accesskey                          "C">
-<!ENTITY search.collection.label                   "Colecția curentă">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "Toate semnele de carte">
-<!ENTITY search.allBookmarks.accesskey             "a">
 <!ENTITY search.scopeFolder.label                  "Dosarul selectat">
 <!ENTITY search.scopeFolder.accesskey              "D">
-<!ENTITY search.scopeAll.label                     "Toate semnele de carte">
-<!ENTITY search.scopeAll.accesskey                 "a">
-<!ENTITY search.scopeMenu.label                    "Meniul „Semne de carte”">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "Bara pentru semne de carte">
-<!ENTITY search.scopeToolbar.accesskey             "t">
+<!ENTITY search.scopeBookmarks.label               "Semne de carte">
+<!ENTITY search.scopeBookmarks.accesskey           "S">
 <!ENTITY search.scopeDownloads.label               "Descărcări">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Istoric">
@@ -205,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Înapoi">
-<!ENTITY backCmd.accesskey   "p">
 <!ENTITY backButton.tooltip  "Mergi înapoi">
 
 <!ENTITY forwardCmd.label       "Înainte">
-<!ENTITY forwardCmd.accesskey   "n">
 <!ENTITY forwardButton.tooltip  "Mergi înainte">
 
 <!ENTITY detailsPane.more.label "Mai mult">

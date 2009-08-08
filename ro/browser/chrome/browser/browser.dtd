@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Lucrează offline">
 <!ENTITY goOfflineCmd.accesskey "z">
 
+<!ENTITY menubarCmd.label "Bara meniului">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Bară de navigare">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Bară pentru semne de carte">
@@ -43,11 +45,13 @@
 <!ENTITY pageSourceCmd.label "Sursă pagină">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Informații pagină">
+<!ENTITY pageInfoCmd.label "Informații despre pagină">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Pe tot ecranul">
 <!ENTITY fullScreenCmd.accesskey "n">
+<!ENTITY showAllTabsCmd.label "Arată toate filele">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
 <!ENTITY fullScreenRestore.tooltip "Revenire">
@@ -100,9 +104,13 @@
 
 <!ENTITY bookmarksButton.label          "Semne de carte">
 <!ENTITY bookmarksButton.tooltip        "Afișează semnele dumneavoastră de carte">
-<!ENTITY bookmarksSidebarCmd.accesskey  "m">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "r">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Istoric">
 <!ENTITY historyButton.tooltip          "Afișează paginile pe care le-ați vizitat recent">
@@ -185,13 +193,18 @@
 <!ENTITY historyMenu.label "Istoric">
 <!ENTITY historyMenu.accesskey "I">
 <!ENTITY historyUndoMenu.label "File închise recent">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
 
 <!ENTITY historyHomeCmd.label "Acasă">
 <!ENTITY showAllHistoryCmd2.label "Arată tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Caută în semne de carte și istoric">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Caută în semne de carte și istoric">
+<!ENTITY urlbar.bookmark.emptyText    "Caută semne de carte">
+<!ENTITY urlbar.history.emptyText     "Caută în istoric">
+<!ENTITY urlbar.none.emptyText        "Tastați o adresă web">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -357,6 +370,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Taie">
 <!ENTITY copyButton.tooltip             "Copiază">
 <!ENTITY pasteButton.tooltip            "Lipește">
+<!ENTITY fullScreenButton.tooltip       "Arată fereastra pe întreg ecranul">
 
 <!ENTITY quitApplicationCmdWin.label       "Ieșire"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "e">
@@ -387,7 +401,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettingsUnix.label "Editează preferințele de blocare a ferestrelor popup...">
 <!ENTITY editPopupSettings.label "Editează opțiunile de blocare a ferestrelor popup...">
 <!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY dontShowMessage.accesskey "N">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Schimbă direcția paginii">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
@@ -433,4 +447,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Clic pentru a deschide fereastra de descărcări">
 
-<!ENTITY ctrlTab.search.emptyText "Caută file">
+<!ENTITY allTabs.filter.emptyText "Caută file">

@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Permisiuni">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Folosește setările implicite">
+<!ENTITY  permAskAlways         "Întreabă întotdeauna">
 <!ENTITY  permAllow             "Permite">
 <!ENTITY  permAllowSession      "Permite pentru sesiune">
 <!ENTITY  permBlock             "Blochează">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Deschide ferestrele popup">
 <!ENTITY  permCookie            "Setează cookie-uri">
 <!ENTITY  permInstall           "Instalează extensii sau teme">
+<!ENTITY  permGeo               "Dezvăluie locul unde sunt">
 
 <!ENTITY  securityTab           "Securitate">
 <!ENTITY  securityTab.accesskey "S">

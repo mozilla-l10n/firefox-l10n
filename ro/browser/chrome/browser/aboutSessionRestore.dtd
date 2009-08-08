@@ -1,13 +1,14 @@
 <!ENTITY restorepage.tabtitle       "Restaurează sesiunea">
-<!ENTITY restorepage.pagetitle      "Doriți să restaurați sesiunea anterioară?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Sesiunea dumneavoastră de &brandShortName; s-a încheiat neașteptat. Ne cerem scuze pentru orice inconvenient creat. Puteți restaura filele și ferestrele din sesiunea anterioară sau puteți începe o nouă sesiunea dacă nu mai aveți nevoie de ele.">
-<!ENTITY restorepage.remedies       "Dacă &brandShortName; se închide în mod repetat:">
-<!ENTITY restorepage.dueToChrome    "Încercați să dezactivați cele mai recent instalate suplimente din gestionarul de suplimente.">
-<!ENTITY restorepage.dueToContent   "Încercați să restaurați sesiunea fără pagini pe care le suspectați că ar putea crea problema:">
 
-<!ENTITY restorepage.restoreButton  "Restaurează sesiunea anterioară">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Ei, asta e jenant.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; are probleme în a restaura ferestrele și filele dumneavoastră. Acest lucru se datorează de obicei unei pagini web deschise recent.">
+<!ENTITY restorepage.tryThis        "Puteți încerca:">
+<!ENTITY restorepage.restoreSome    "Să eliminați una sau mai multe file care pot fi cauze ale problemei">
+<!ENTITY restorepage.startNew       "Să începeți o sesiune nouă de navigare">
+
+<!ENTITY restorepage.tryagainButton "Restaurează">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "Pornește o sesiune nouă">
 <!ENTITY restorepage.cancel.access  "S">
