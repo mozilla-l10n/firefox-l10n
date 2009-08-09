@@ -3,26 +3,27 @@
 
 <!ENTITY loadError.label "পৃষ্ঠা লোড করতে ত্রুটি">
 <!ENTITY retry.label "আবার চেষ্টা করুন">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "সংযুক্ত হতে ব্যর্থ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "এই ঠিকানাটি সীমাবদ্ধ">
-<!ENTITY deniedPortAccess.longDesc "_: deniedPortAccess.longDesc
-">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>আপনার দেয়া ঠিকানাটি ভুল হয়েছে কিনা পরীক্ষা করে দেখুন।
-<strong>www</strong>.example.com এর পরিবর্তে 
-<strong>ww</strong>.example.com লিখেছেন কিনা</li> 
-<li>আপনি যদি কোন পৃষ্ঠাই লোড করতে না পারেন, তবে আপনার কম্পিউটারের 
-নেটওয়ার্ক সংযোগ পরীক্ষা করুন।</li> 
-<li>আপনার নেটওয়ার্ক যদি ফায়ারওয়াল বা প্রক্সি দিয়ে সুরক্ষিত থাকে, নিশ্চিত করুন 
-&brandShortName; এর নেটওয়ার্কে প্রবেশ অনুমোদিত কিনা।</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "
+<ul> 
+  <li>আপনার দেয়া ঠিকানাটি ভুল হয়েছে কিনা পরীক্ষা করে দেখুন।
+    <strong>www</strong>.example.com এর পরিবর্তে 
+    <strong>ww</strong>.example.com লিখেছেন কিনা</li>
+  <li>আপনি যদি কোন পৃষ্ঠাই লোড করতে না পারেন, তবে আপনার কম্পিউটারের 
+    নেটওয়ার্ক সংযোগ পরীক্ষা করুন।</li>
+  <li>আপনার নেটওয়ার্ক যদি ফায়ারওয়াল বা প্রক্সি দিয়ে সুরক্ষিত থাকে, নিশ্চিত করুন 
+&brandShortName; এর নেটওয়ার্কে প্রবেশ অনুমোদিত কিনা।</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> 
