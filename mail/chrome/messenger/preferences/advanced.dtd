@@ -92,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "T">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Når ein tenar ber om det personlege sertifikatet mitt:">
+<!ENTITY certs.auto                      "Vel eit automatisk">
+<!ENTITY certs.auto.accesskey            "e">
+<!ENTITY certs.ask                       "Spør meg kvar gong">
+<!ENTITY certs.ask.accesskey             "S">
+
 <!ENTITY viewCertificates.label         "Vis sertifikat">
 <!ENTITY viewCertificates.accesskey     "V">
 <!ENTITY viewCRLs.label                 "Tilbakekalling">
