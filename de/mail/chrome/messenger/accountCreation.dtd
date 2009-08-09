@@ -1,0 +1,74 @@
+<!ENTITY welcome.description             "Konto einrichten">
+<!ENTITY autoconfigWizard.style          "width: 700px; height: 480px;">
+<!ENTITY name.description                "Ihr Name">
+<!ENTITY email.description               "E-Mail-Adresse">
+<!ENTITY password.description            "Passwort">
+
+<!ENTITY next.label                      "Weiter &#187;">
+<!ENTITY next.accesskey                  "W">
+<!ENTITY back.label                      "&#171; Zurück">
+<!ENTITY back.accesskey                  "Z">
+
+<!ENTITY accountInformation.label        "Kontenangaben">
+<!ENTITY username.label                  "Benutzername">
+<!ENTITY receivingServer.label           "Posteingang-Server">
+<!ENTITY sendingServer.label             "Postausgang-Server">
+<!ENTITY noEncryption.label              "Keine Verbindungssicherheit">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!-- LOCALIZATION NOTE (gotoadvanced2.label): This label is a link which
+     will create the account and take the user to the account configuration
+     screen. -->
+<!ENTITY createAndEditSettings.label     "Konto erstellen und weitere Einstellungen bearbeiten">
+<!ENTITY cancel.label                    "Abbrechen">
+<!ENTITY stop.label                      "Stopp">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Konfiguration erneut testen">
+<!ENTITY retest.accesskey                "K">
+<!ENTITY edit.label                      "Bearbeiten">
+<!ENTITY edit.accesskey                  "B">
+
+<!ENTITY rememberPassword.label          "Passwort speichern">
+<!ENTITY rememberPassword.accesskey      "P">
+
+<!ENTITY warning.label                   "Warnung!">
+<!ENTITY incomingSettings.label          "Posteingang-Einstellungen:">
+<!ENTITY outgoingSettings.label          "Postausgang-Einstellungen:">
+<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
+     warning on the incoming server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmIncomingWarning.label    "Ich verstehe die Risiken.">
+<!ENTITY confirmIncomingWarning.accesskey "v">
+<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmOutgoingWarning.label    "Ich verstehe die Risiken.">
+<!ENTITY confirmOutgoingWarning.accesskey "e">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Konto erstellen">
+<!ENTITY createAccount.accesskey         "o">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Einstellungen ändern">
+<!ENTITY changeSettings.accesskey        "n">
+
+<!ENTITY contactYourProvider.description "&brandShortName; kann Ihre Nachrichten mit den gewählten Einstellungen abrufen. Sie sollten jedoch Ihren Administrator oder E-Mail-Provider wegen dieser mangelhaften Verbindungsmöglichkeit kontaktieren. Lesen Sie in der Thunderbird-FAQ für weitere Informationen.">
+
+<!ENTITY insecureServer.tooltip.title    "Warnung! Dies ist ein unsicherer Server.">
+<!ENTITY insecureServer.tooltip.details  "Klicken Sie auf den Kreis für weitere Details.">
+
+<!ENTITY insecureClearText.description   "E-Mails werden im Klartext übertragen. Dadurch könnten Ihre E-Mails von Dritten gelesen werden. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider dazu auffordern eine gesicherte Serververbindung anzubieten.">
+<!ENTITY insecureSelfSigned.description  "Der Server verwendet ein Zertifikat, dem nicht vertraut werden kann. Daher kann man nicht sicher sein, dass niemand die Datenübertragung zwichen &brandShortName; und dem Server abfängt. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider dazu auffordern die Server mit einem gültigen Zertifikat zu konfigurieren.">
+<!ENTITY secureServer.description        "Glückwunsch! Dies ist eine gesicherte Serververbindung.">

@@ -40,12 +40,12 @@
 <!ENTITY markAsReadDelay.accesskey     "c">
 <!ENTITY secondsLabel.label            "Sekunden">
 <!ENTITY openMsgIn.label               "Nachricht durch Doppelklick öffnen in:">
-<!ENTITY openMsgInNewTab.label         "neuem Tab">
+<!ENTITY openMsgInNewTab.label         "Neuem Tab">
 <!ENTITY openMsgInNewTab.accesskey     "T">
-<!ENTITY reuseExpRadio0.label          "neuem Fenster">
-<!ENTITY reuseExpRadio0.accesskey      "n">
-<!ENTITY reuseExpRadio1.label          "vorhandenem Fenster">
-<!ENTITY reuseExpRadio1.accesskey      "v">
+<!ENTITY reuseExpRadio0.label          "Neuem Fenster">
+<!ENTITY reuseExpRadio0.accesskey      "N">
+<!ENTITY reuseExpRadio1.label          "Vorhandenem Fenster">
+<!ENTITY reuseExpRadio1.accesskey      "V">
 <!ENTITY closeMsgWindowOnDelete.label  "Nachrichtenfenster beim Löschen schließen">
 <!ENTITY closeMsgWindowOnDelete.accesskey "h">
 
