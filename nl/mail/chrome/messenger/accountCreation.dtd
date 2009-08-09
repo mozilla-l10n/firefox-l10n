@@ -1,0 +1,74 @@
+<!ENTITY welcome.description             "Snelle accountsetup">
+<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
+<!ENTITY name.description                "Uw naam">
+<!ENTITY email.description               "E-mail">
+<!ENTITY password.description            "Wachtwoord">
+
+<!ENTITY next.label                      "Volgende &#187;">
+<!ENTITY next.accesskey                  "V">
+<!ENTITY back.label                      "&#171; Vorige">
+<!ENTITY back.accesskey                  "o">
+
+<!ENTITY accountInformation.label        "Accountinformatie">
+<!ENTITY username.label                  "gebruikersnaam">
+<!ENTITY receivingServer.label           "ontvangen">
+<!ENTITY sendingServer.label             "verzenden">
+<!ENTITY noEncryption.label              "Geen">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
+     which will create the account and take the user to the account
+     configuration screen. -->
+<!ENTITY createAndEditSettings.label     "Accountinstellingen maken en bewerken">
+<!ENTITY cancel.label                    "Annuleren">
+<!ENTITY stop.label                      "Stop">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Configuratie hertesten">
+<!ENTITY retest.accesskey                "C">
+<!ENTITY edit.label                      "Bewerken">
+<!ENTITY edit.accesskey                  "B">
+
+<!ENTITY rememberPassword.label          "Wachtwoord onthouden">
+<!ENTITY rememberPassword.accesskey      "W">
+
+<!ENTITY warning.label                   "Waarschuwing!">
+<!ENTITY incomingSettings.label          "Inkomende instellingen:">
+<!ENTITY outgoingSettings.label          "Uitgaande instellingen:">
+<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
+     warning on the incoming server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmIncomingWarning.label    "Ik begrijp de risico's.">
+<!ENTITY confirmIncomingWarning.accesskey "b">
+<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmOutgoingWarning.label    "Ik begrijp de risico's.">
+<!ENTITY confirmOutgoingWarning.accesskey "d">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Account nmaken">
+<!ENTITY createAccount.accesskey         "A">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Instellingen wijzigen">
+<!ENTITY changeSettings.accesskey        "I">
+
+<!ENTITY contactYourProvider.description "&brandShortName; kan u toestaan uw mail met de gegeven configuratie binnen te halen. Maar u zou contact moeten opnen met uw systeembeheerder of e-mailprovider vanwege deze onjuiste verbinding. Zie de Thunderbird FAQ voor meer informatie.">
+
+<!ENTITY insecureServer.tooltip.title    "Waarschuwing! Dit is een onveilige server.">
+<!ENTITY insecureServer.tooltip.details  "Klik op de cirkel voor meer details.">
+
+<!ENTITY insecureClearText.description   "E-mail wordt verzonden als tekst, dus uw e-mail kan gelezen worden door aanvallers, etc. &brandShortName; staat toe dat u uw mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een beveiligde verbinding.">
+<!ENTITY insecureSelfSigned.description  "De server gebruikt een certificaat die we niet kunnen vertrouwen, dus we weten niet zeker of niemand het verkeer tussen &brandShortName; en uw server onderschept. &brandShortName; staat toe dat u uw mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een vertrouwde certificaat.">
+<!ENTITY secureServer.description        "Gefeliciteerd! Dit is een beveiligde server.">
