@@ -4,19 +4,18 @@
 
 <!ENTITY locbar.pre.label "ঠিকানা বার ব্যবহার করার সময় পরামর্শে অন্তর্ভুক্ত থাকবে: (U)">
 <!ENTITY locbar.pre.accessKey "u">
-<!ENTITY locbar.post.label "_: locbar.post.label
-">
+<!ENTITY locbar.post.label "">
 <!ENTITY locbar.both.label "ইতিহাস ও বুকমার্ক">
 <!ENTITY locbar.history.label "ইতিহাস">
 <!ENTITY locbar.bookmarks.label "বুকমার্ক">
 <!ENTITY locbar.nothing.label "কিছুই না">
+
 <!-- LOCALIZATION NOTE:
   The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-
 <!ENTITY rememberDaysBefore.label "ইতিহাস রাখা হবে অন্তত (H)">
 <!ENTITY rememberDaysBefore.accesskey "h">
 <!ENTITY rememberDaysAfter2.label "দিন">

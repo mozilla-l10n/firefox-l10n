@@ -16,23 +16,22 @@
 <!ENTITY clearTimeDuration.everything "সব">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix "_: clearTimeDuration.suffix
-">
+<!ENTITY clearTimeDuration.suffix "">
 <!ENTITY clearTimeDuration.dateColumn "পরিদর্শনের তারিখ">
 <!ENTITY clearTimeDuration.nameColumn "নাম">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label "বিবরণ (E)">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label "ইতিহাস">
 <!ENTITY dataSection.label "তথ্য">
+
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-
 <!ENTITY itemHistoryAndDownloads.label "ব্রাউজিং ও ডাউনলোড ইতিহাস (B)">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemBrowsingHistory.label "ব্রাউজিং ইতিহাস (B)">

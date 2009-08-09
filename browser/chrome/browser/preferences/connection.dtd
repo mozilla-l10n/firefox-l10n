@@ -35,8 +35,7 @@
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY FTPport.accesskey "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "_: gopherPort.accesskey
-">
+<!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "অনুপস্থিত প্রক্সি (N):">
 <!ENTITY noproxy.accesskey "n">
