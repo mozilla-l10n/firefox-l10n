@@ -1,0 +1,74 @@
+<!ENTITY welcome.description             "Hurtigoppsett">
+<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
+<!ENTITY name.description                "Navnet ditt">
+<!ENTITY email.description               "E-post">
+<!ENTITY password.description            "Passord">
+
+<!ENTITY next.label                      "Neste &#187;">
+<!ENTITY next.accesskey                  "N">
+<!ENTITY back.label                      "&#171; Forrige">
+<!ENTITY back.accesskey                  "F">
+
+<!ENTITY accountInformation.label        "Kontoinformasjon">
+<!ENTITY username.label                  "brukernavn">
+<!ENTITY receivingServer.label           "mottak">
+<!ENTITY sendingServer.label             "sending">
+<!ENTITY noEncryption.label              "Ingen">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
+     which will create the account and take the user to the account
+     configuration screen. -->
+<!ENTITY createAndEditSettings.label     "Opprett og rediger kontoinnstillinger">
+<!ENTITY cancel.label                    "Avbryt">
+<!ENTITY stop.label                      "Stopp">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Test konfigurasjonen">
+<!ENTITY retest.accesskey                "T">
+<!ENTITY edit.label                      "Rediger">
+<!ENTITY edit.accesskey                  "R">
+
+<!ENTITY rememberPassword.label          "Husk passord">
+<!ENTITY rememberPassword.accesskey      "H">
+
+<!ENTITY warning.label                   "Advarsel!">
+<!ENTITY incomingSettings.label          "Innkommende innstillinger:">
+<!ENTITY outgoingSettings.label          "Utgående innstillinger:">
+<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
+     warning on the incoming server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmIncomingWarning.label    "Jeg forstår risikoen.">
+<!ENTITY confirmIncomingWarning.accesskey "J">
+<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmOutgoingWarning.label    "Jeg forstår risikoen.">
+<!ENTITY confirmOutgoingWarning.accesskey "e">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Opprett konto">
+<!ENTITY createAccount.accesskey         "O">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Endre innstillinger">
+<!ENTITY changeSettings.accesskey        "E">
+
+<!ENTITY contactYourProvider.description "&brandShortName; kan la deg laste ned e-post med de gitte konfigurasjonene. Men du bør kontakte systemansvarlig eller e-posttilbyderen om disse feilaktige tilkoblingene. Se Thunderbird FAQ for mer informasjon.">
+
+<!ENTITY insecureServer.tooltip.title    "Advarsel! Dette er en usikker tjener.">
+<!ENTITY insecureServer.tooltip.details  "Trykk på sirkelen for mer informasjon.">
+
+<!ENTITY insecureClearText.description   "E-post sendes i klartekst, slik at e-post kan leses av angripere, osv. &brandShortName; lar deg bruke e-posten, men du bør virkelig få e-posttilbyderen til å konfigurere tjeneren med sikker tilkobling.">
+<!ENTITY insecureSelfSigned.description  "Tjeneren bruker et sertifikat som vi ikke kan stole på, og vi kan derfor ikke være sikre på at noen fanger opp trafikken mellom &brandShortName; og tjeneren. &brandShortName; lar deg bruke e-posten likevel, men du bør virkelig få e-posttilbyderen til å konfigurere tjeneren med et tiltrodd sertifikat.">
+<!ENTITY secureServer.description        "Gratulerer! Dette er en sikker tjener.">
