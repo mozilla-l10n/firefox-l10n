@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "Innstillingane kan endrast ved å bruke programfana i &brandShortName; sine innstillingar.">
-<!ENTITY  settingsChangeOptions.label      "Innstillingane kan endrast ved å bruke programfana i &brandShortName; sine innstillingar.">
+<!ENTITY  settingsChangePreferences.label  "Oppsettet kan endrast i &brandShortName; -> Verktøy -> Innstillingar -> Program.">
+<!ENTITY  settingsChangeOptions.label      "Oppsettet kan endrast i &brandShortName; -> Verktøy -> Innstillingar -> Program.">
