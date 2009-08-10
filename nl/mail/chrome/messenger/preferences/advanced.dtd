@@ -92,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "w">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Wanneer een server om mijn persoonlijke certificaat verzoekt:">
+<!ENTITY certs.auto                      "Er automatisch een selecteren">
+<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.ask                       "Mij elke keer vragen">
+<!ENTITY certs.ask.accesskey             "e">
+
 <!ENTITY viewCertificates.label         "Certificaten bekijken">
 <!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "Intrekkingslijsten">
