@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Samenvattingsbestand vernieuwen">      
 
 <!ENTITY retention.label "Behoudbeleid">
-<!ENTITY retentionUseDefault.label  "Serverstandaard gebruiken">
-<!ENTITY retentionUseDefault.accesskey "r">
+<!ENTITY retentionUseAccount.label  "Mijn accountinstellingen gebruiken">
+<!ENTITY retentionUseAccount.accesskey "M">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
 <!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd.">
