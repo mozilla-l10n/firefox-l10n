@@ -50,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Volledig scherm">
 <!ENTITY fullScreenCmd.accesskey "d">
+<!ENTITY showAllTabsCmd.label "Alle tabbladen tonen">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimaliseren">
 <!ENTITY fullScreenRestore.tooltip "Herstellen">
@@ -368,6 +370,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Knippen">
 <!ENTITY copyButton.tooltip             "Kopiëren">
 <!ENTITY pasteButton.tooltip            "Plakken">
+<!ENTITY fullScreenButton.tooltip       "Venster tonen in volledig scherm">
 
 <!ENTITY quitApplicationCmdWin.label       "Afsluiten">
 <!ENTITY quitApplicationCmdWin.accesskey   "A">
@@ -444,4 +447,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Klik om het downloadvenster te openen">
 
-<!ENTITY ctrlTab.search.emptyText "Zoektabbladen">
+<!ENTITY allTabs.filter.emptyText "Zoektabbladen">
