@@ -42,7 +42,6 @@
 <!ENTITY incomingServerLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Voer de naam in van uw nieuwsserver (NNTP) (bijvoorbeeld “news.example.net”).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Voer de naam in van uw uitgaande server (SMTP) (bijvoorbeeld “smtp.example.net”).">
 <!ENTITY smtpServerLabel.label "Uitgaande server:">
