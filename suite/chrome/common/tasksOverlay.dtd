@@ -28,9 +28,9 @@
 <!ENTITY tasksMenu.accesskey "O">
 
 <!ENTITY passwordManagerCmd.label "Mots de passe">
-<!ENTITY passwordManagerCmd.accesskey "G">
+<!ENTITY passwordManagerCmd.accesskey "M">
 
-<!ENTITY passwordDisplayCmd.label "Gérer les mots de passe enregistrés">
+<!ENTITY passwordDisplayCmd.label "Gérer les mots de passe">
 <!ENTITY passwordDisplayCmd.accesskey "r">
 
 <!ENTITY passwordExpireCmd.label "Se déconnecter">
@@ -38,6 +38,7 @@
 
 <!ENTITY downloadManagerCmd.label "Téléchargements">
 <!ENTITY downloadManagerCmd.accesskey "T">
+<!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addonsManagerCmd.label "Modules complémentaires">
 <!ENTITY addonsManagerCmd.accesskey "d">
