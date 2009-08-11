@@ -51,7 +51,7 @@
 <!ENTITY General.tab                       "සාමාන්‍ය">
 <!ENTITY Offline.tab                       "අසම්බන්ධිත">
 <!ENTITY Advanced.tab                      "වැඩිමනත්">
-<!ENTITY portNumber.label                  "විවරය (Port): ">
+<!ENTITY portNumber.label                  "තොට (Port): ">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "සෙවුම් පෙරහන: ">
 <!ENTITY searchFilter.accesskey            "f">

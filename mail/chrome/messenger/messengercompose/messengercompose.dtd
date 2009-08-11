@@ -29,11 +29,11 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "සුරකින අයුර">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsFileCmd.label "ගොනු...">
+<!ENTITY saveAsFileCmd.label "ගොනුවක් ලෙස...">
 <!ENTITY saveAsFileCmd.accesskey "F">
-<!ENTITY saveAsDraftCmd.label "කෙටුම්පත්">
+<!ENTITY saveAsDraftCmd.label "කෙටුම්පත් ලෙස">
 <!ENTITY saveAsDraftCmd.accesskey "D">
-<!ENTITY saveAsTemplateCmd.label "ආකෘතිය">
+<!ENTITY saveAsTemplateCmd.label "ආකෘතියක් ලෙස">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY sendNowCmd.label "දැන් යවන්න">
 <!ENTITY sendCmd.keycode "VK_RETURN">
@@ -41,7 +41,7 @@
 <!ENTITY sendLaterCmd.label "පසුව යවන්න">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "පිටු සැකසීම...">
+<!ENTITY printSetupCmd.label "පිටු සැකසුම...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.key "P">
@@ -50,7 +50,7 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "සැකසුම්"> 
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "අහෝසි">
+<!ENTITY undoCmd.label "අහෝසි කරන්න">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "U"> 
 <!ENTITY redoCmd.label "යළි කරන්න">
@@ -74,7 +74,7 @@
 <!ENTITY selectAllCmd.label "සියල්ල තෝරන්න">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A"> 
-<!ENTITY findCmd.label "සොයා ප්‍රතිපිහිටුවන්න (Find and Replace)...">
+<!ENTITY findCmd.label "සොයා ආදේශ කරන්න...">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findAgainCmd.label "නැවත සොයන්න">
@@ -131,11 +131,11 @@
 <!ENTITY outputFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "ස්ව-හැඳුනුම">
 <!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "සාමාන්‍ය පාඨ පමණි">
+<!ENTITY plainTextFormatCmd.label "සාමාන්‍ය පාඨ පමණක්">
 <!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "Rich Text (HTML) පමණි">
+<!ENTITY htmlFormatCmd.label "HTML පමණක්">
 <!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "සාමාන්‍ය සහ Rich (HTML) පාඨ">
+<!ENTITY bothFormatCmd.label "සාමාන්‍ය සහ HTML පාඨ">
 <!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "ප්‍රමුඛතාවය">
 <!ENTITY priorityMenu.accesskey "P">
@@ -166,7 +166,7 @@
 <!ENTITY accountManagerCmd.label "ගිණුමේ සැකසුම්...">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "වරණ...">
+<!ENTITY preferencesCmd.label "විකල්ප...">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "මනාපයන්">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
@@ -181,7 +181,7 @@
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "යවන්න">
 <!ENTITY quoteButton.label "උපුටා දක්වන්න">
-<!ENTITY addressButton.label "සබදතා">
+<!ENTITY addressButton.label "සබඳතා">
 <!ENTITY attachButton.label "ඇමුණුම්">
 <!ENTITY spellingButton.label "අක්ෂර වින්‍යාසය">
 <!ENTITY saveButton.label "සුරකින්න">
@@ -237,7 +237,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "ශබ්දකෝෂයට එක් කරන්න">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "අහෝසි">
+<!ENTITY undo.label "අහෝසි කරන්න">
 <!ENTITY undo.accesskey "U">
 <!ENTITY cut.label "කපන්න">
 <!ENTITY cut.accesskey "t">

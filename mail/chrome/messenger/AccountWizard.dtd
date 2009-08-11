@@ -5,13 +5,13 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "ලිපි ලබා ගැනීම සඳහා පළමුව ඔබ විසින් තැපැල් හෝ පුවත්සමූහ ගිණුමක් සකස් කර ගැනීම අවශ්‍ය වේ.">
+<!ENTITY accountSetupInfo.label "ලිපි ලබා ගැනීම සඳහා පළමුව තැපැල් හෝ පුවත්සමූහ ගිණුමක් සකස් කර ගැනීම අවශ්‍ය වේ.">
 <!ENTITY accountTypeTitle.label "නව ගිණුමක් සකස් කිරීම">
-<!ENTITY accountTypeDesc.label "මෙම  විශාරද ක්‍රියාවලිය නව තැපැල් ‌හෝ පුවත්සමුහ ගිණූමක් සකස් කිරීම සදහා අවශ්‍ය ‌තොරතූරු එකතූ කරයි. එම ‌තොරතූරු ඔබ සතූව ‌නොමැති නම් කරුණාකර පද්ධති පරිපාලක ‌හෝ අන්තර්ජාල සේවා සපයන්නාගේ සහාය ලබා ගන්න.">
+<!ENTITY accountTypeDesc.label "මෙම  විශාරද ක්‍රියාවලිය නව තැපැල් ‌හෝ පුවත්සමූහ ගිණූමක් සකස් කිරීම සදහා අවශ්‍ය ‌තොරතූරු එකතූ කරයි. එම ‌තොරතූරු ඔබ සතූව ‌නොමැති නම් පද්ධති පරිපාලක ‌හෝ අන්තර්ජාල සේවා සපයන්නාගේ සහාය ලබා ගන්න.">
 <!ENTITY accountTypeDirections.label "ඔබ සකස් කරගැනීමට කැමති ගිණුම් වර්ගය ‌තෝරන්න:">
 <!ENTITY accountTypeMail.label "විද්‍යුත් තැපැල් ගිණූමක්">
 <!ENTITY accountTypeMail.accesskey "m">
-<!ENTITY accountTypeNews.label "පුවත්සමුහ ගිණූමක්">
+<!ENTITY accountTypeNews.label "පුවත්සමූහ ගිණූමක්">
 <!ENTITY accountTypeNews.accesskey "w">
 
 <!-- Entities for Identity page -->
@@ -48,7 +48,7 @@
 <!ENTITY smtpServerDesc.label "ඔබගේ  යැවුම් සේවාදායක‌යේ නම ඇතුළත් කරන්න (SMTP) (උදාහරණයක් ‌ලෙස, &quot;smtp.example.lk&quot;).">
 <!ENTITY smtpServerLabel.label "යැවුම් සේවාදායකය:">
 <!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "පුවත්සමුහ සේවාදායකය:">
+<!ENTITY newsServerLabel.label "පුවත්සමූහ සේවාදායකය:">
 <!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -104,7 +104,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "සුභ පැතූම්!">
-<!ENTITY completionText.label "කරුණාකර පහත තොරතුරු නිවැරදි බව තහවුරු කරන්න.">
+<!ENTITY completionText.label "පහත තොරතුරු නිවැරදි බව තහවුරු කරන්න.">
 <!ENTITY serverTypePrefix.label "එවුම් සේවාදායක‌යේ වර්ගය:">
 <!ENTITY serverNamePrefix.label "එවුම් සේවාදායක‌යේ නම:">
 <!ENTITY smtpServerNamePrefix.label "යැවුම් සේවාදායක‌යේ නම (SMTP):">

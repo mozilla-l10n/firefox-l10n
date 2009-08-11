@@ -25,11 +25,11 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  HTTPport.label                "විවරය (Port):">
+<!ENTITY  HTTPport.label                "තොට (Port):">
 <!ENTITY  HTTPport.accesskey            "p">
-<!ENTITY  SSLport.label                 "විවරය (Port):">
+<!ENTITY  SSLport.label                 "තොට (Port):">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  SOCKSport.label               "විවරය (Port):">
+<!ENTITY  SOCKSport.label               "තොට (Port):">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "මේවා සඳහා ප්‍රොක්සි අවශ්‍ය නොවේ:">
 <!ENTITY  noproxy.accesskey             "N">
