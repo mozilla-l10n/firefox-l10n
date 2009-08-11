@@ -69,6 +69,7 @@
 
 <!ENTITY downloadManagerCmd.label           "Atsiuntimų tvarkytuvė">
 <!ENTITY downloadManagerCmd.accesskey       "t">
+<!ENTITY downloadManagerCmd.commandkey      "j">
 
 <!ENTITY addonsManagerCmd.label             "Priedų tvarkytuvė">
 <!ENTITY addonsManagerCmd.accesskey         "P">
