@@ -25,6 +25,7 @@
 <!ENTITY passwordExpireCmd.accesskey "к">
 <!ENTITY downloadManagerCmd.label "Менеджер загрузок">
 <!ENTITY downloadManagerCmd.accesskey "з">
+<!ENTITY downloadManagerCmd.commandkey "j">
 <!ENTITY addonsManagerCmd.label "Менеджер дополнений">
 <!ENTITY addonsManagerCmd.accesskey "д">
 <!ENTITY switchProfileCmd.label "Выбрать другой профиль…">
