@@ -15,7 +15,7 @@
 <!ENTITY newMailAccountCmd.accesskey "Q">
 <!ENTITY openMessageFileCmd.label "සුරැකූ ලිපියක් අරින්න...">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "ඇමුණුම්">
+<!ENTITY openAttachmentCmd.label "ඇමුණන්න">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "සුරකින අයුර">
 <!ENTITY saveAsMenu.accesskey "S">
@@ -65,19 +65,19 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "මුද්‍රණ පෙරදැක්ම">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "පිටු සැකසුම්...">
+<!ENTITY printSetupCmd.label "පිටු සැකසුම...">
 <!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "ලිපිය මකන්න">
 <!ENTITY deleteMsgCmd.accesskey "D">
-<!ENTITY undeleteMsgCmd.label "ලිපිය මැකීම අහෝසි.">
+<!ENTITY undeleteMsgCmd.label "ලිපිය මැකීම අහෝසි කරන්න">
 <!ENTITY undeleteMsgCmd.accesskey "d">
 <!ENTITY cancelNewsMsgCmd.label "ලිපිය අත්හැර දමන්න">
 <!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY deleteMsgsCmd.label "තෝරාගත් ලිපි මකන්න">
 <!ENTITY deleteMsgsCmd.accesskey "D">
-<!ENTITY undeleteMsgsCmd.label "තෝරාගත් ලිපි මැකීම අහෝසි.">
+<!ENTITY undeleteMsgsCmd.label "තෝරාගත් ලිපි මැකීම අහෝසි කරන්න">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
 <!ENTITY cancelNewsMsgsCmd.label "තෝරාගත් ලිපි අත්හැර දමන්න">
 <!ENTITY cancelNewsMsgsCmd.accesskey "n">
@@ -111,7 +111,7 @@
 <!ENTITY redoCopyMsgCmd.label "ලිපි කොපි කිරීම යළි කරන්න">
 <!ENTITY undoMarkAllCmd.label "කියවූ සේ ලකුණු කිරීම අහෝසි කරන්න">
 <!ENTITY redoMarkAllCmd.label "කියවූ සේ ලකුණු කිරීම යළි කරන්න">
-<!ENTITY undoDefaultCmd.label "අහෝසි.">
+<!ENTITY undoDefaultCmd.label "අහෝසි කරන්න">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "යළි කරන්න">
 <!ENTITY redoDefaultCmd.accesskey "R">
@@ -123,7 +123,7 @@
 <!ENTITY customizeToolbar.accesskey "C">
 <!ENTITY messagePaneLayoutStyle.label "සැලැස්ම (Layout)">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
-<!ENTITY messagePaneClassic.label "Classic View">
+<!ENTITY messagePaneClassic.label "සාමාන්‍ය පෙනුම">
 <!ENTITY messagePaneClassic.accesskey "C">
 <!ENTITY messagePaneWide.label "පුළුල් පෙනුම">
 <!ENTITY messagePaneWide.accesskey "W">
@@ -160,7 +160,7 @@
 <!ENTITY sortBySizeCmd.accesskey "z">
 <!ENTITY sortByStatusCmd.label "තත්ත්වය">
 <!ENTITY sortByStatusCmd.accesskey "u">
-<!ENTITY sortByTagsCmd.label "ටැග්ස්">
+<!ENTITY sortByTagsCmd.label "ටැග">
 <!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "නිසරු">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
@@ -178,9 +178,9 @@
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "අවරෝහණ">
 <!ENTITY sortDescending.accesskey "D">
-<!ENTITY sortThreaded.label "සබැඳිබව (Threaded)">
+<!ENTITY sortThreaded.label "සබැඳිව (Threaded)">
 <!ENTITY sortThreaded.accesskey "T">
-<!ENTITY sortUnthreaded.label "අසබැඳිබව">
+<!ENTITY sortUnthreaded.label "අසබැඳිව">
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "කාණ්ඩ ලෙස">
 <!ENTITY groupBySort.accesskey "G">
@@ -288,7 +288,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextMsgCmd.label "ලිපියට">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.label "සංරක්ෂණය">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY nextUnreadMsgCmd.label "නොකියවූ ලිපියට">
@@ -319,7 +319,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY startPageCmd.accesskey "S">
 <!ENTITY msgMenu.label "ලිපි">
 <!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "නව ලිපි">
+<!ENTITY newMsgCmd.label "නව ලිපියක්">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "ලිපියක්">
 <!ENTITY newNewMsgCmd.accesskey "M">
@@ -431,7 +431,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "ඇඩෝන (Add-ons)">
 <!ENTITY addons.accesskey "d">
-<!ENTITY activitymanager.label "ක්‍රියාකාරීත්ව කළමණාකරු">
+<!ENTITY activitymanager.label "ක්‍රියාකාරීත්ව සටහන">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "ලිපි සහ පුවත්සමූහ">
 <!ENTITY messengerCmd.accesskey "m">
@@ -478,7 +478,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchItem.title "ඉක්මන් සෙවුම">
 <!ENTITY mailViewsToolbarItem.title "ලිපි දැකුම්">
 <!ENTITY folderLocationToolbarItem.title "ෆෝල්ඩර ස්ථානය">
-<!ENTITY tagButton.label "ටැග්">
+<!ENTITY tagButton.label "ටැග">
 <!ENTITY compactButton.label "සංයුක්ත">
 
 <!-- Mail Toolbar Tooltips-->
@@ -491,7 +491,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyButton.tooltip "ලිපියට පිළිතුරු ලිවීමට">
 <!ENTITY replyAllButton.tooltip "එවන්නා ඇතුළු සැමට පිළිතුරු සැපයීමට">
 <!ENTITY replyListButton.tooltip "ලිපි සමූහයට (mailing list) පිළිතුරු සැපයීමට">
-<!ENTITY forwardButton.tooltip "තෝරාගත් ලිපිය යොමු කිරීමට">
+<!ENTITY forwardButton.tooltip "තෝරාගත් ලිපිය යොමු කිරීමට">
 <!ENTITY fileButton.tooltip "තෝරාගත් ලිපිය ගොනුගත කරන්න">
 <!ENTITY nextButton.tooltip "මීලඟ නොකියවූ ලිපියට">
 <!ENTITY previousButton.tooltip "පෙර නොකියවූ ලිපියට">
@@ -600,7 +600,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY subjectColumn.label "විෂයය">
 <!ENTITY dateColumn.label "දිනය">
 <!ENTITY priorityColumn.label "ප්‍රමුඛතාවය">
-<!ENTITY tagsColumn.label "ටැග්">
+<!ENTITY tagsColumn.label "ටැග">
 <!ENTITY accountColumn.label "ගිණුම">
 <!ENTITY statusColumn.label "තත්ත්වය">
 <!ENTITY sizeColumn.label "විශාලත්වය">
@@ -631,7 +631,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY subjectColumn.tooltip "විෂයය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY dateColumn.tooltip "දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY priorityColumn.tooltip "ප්‍රමුඛතාවය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY tagsColumn.tooltip "ටැග් අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY tagsColumn.tooltip "ටැගය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY accountColumn.tooltip "ගිණුම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY statusColumn.tooltip "තත්ත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY sizeColumn.tooltip "විශාලත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
@@ -643,7 +643,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY starredColumn.tooltip "තරුලකුණ අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY locationColumn.tooltip "ස්ථානය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY attachmentColumn.tooltip "Cඇමුණුම් පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY attachmentColumn.tooltip "ඇමුණුම් අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
 <!ENTITY glodaScoreColumn.tooltip "Click to sort by the search score">
 

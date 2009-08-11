@@ -40,7 +40,7 @@
 <!ENTITY emailCollectionPicker.accesskey       "t">
 <!ENTITY addressingTitle.label                 "ලිපින ස්වයං-පූර්ණය">
 <!ENTITY autocompleteText.label                "ලිපින යෙදීමේදී, ගැලපෙන යෙදීම් බලන්නේ:">
-<!ENTITY addressingEnable.label                "පෙදෙසි (Local) ලිපින පොත්">
+<!ENTITY addressingEnable.label                "ස්ථානීය (Local) ලිපින පොත්">
 <!ENTITY addressingEnable.accesskey            "A">
 <!ENTITY directories.label                     "ඩිරෙක්ටරි සේවාදායකය:">
 <!ENTITY directories.accesskey                 "D">

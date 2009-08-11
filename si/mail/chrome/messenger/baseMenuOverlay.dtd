@@ -14,6 +14,6 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "යාවත්කාලීන සඳහා සොයන්න…">
+<!ENTITY updateCmd.label "යාවත්කාලීන කිරීම් සඳහා සොයන්න…">
 <!ENTITY aboutCmd.label "&brandFullName; පිළිබඳ">
 <!ENTITY aboutCmd.accesskey "A">

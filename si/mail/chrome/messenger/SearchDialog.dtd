@@ -37,7 +37,7 @@
 <!ENTITY subjectColumn.label "විෂයය">
 <!ENTITY dateColumn.label "දිනය">
 <!ENTITY priorityColumn.label "ප්‍රමුඛතාවය">
-<!ENTITY tagsColumn.label "ටැග්">
+<!ENTITY tagsColumn.label "ටැග">
 <!ENTITY accountColumn.label "ගිණුම">
 <!ENTITY statusColumn.label "තත්ත්වය">
 <!ENTITY sizeColumn.label "විශාලත්වය">
@@ -58,7 +58,7 @@
 <!ENTITY subjectColumn.tooltip "විෂයය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY dateColumn.tooltip "දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY priorityColumn.tooltip "ප්‍රමුඛතාවය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY tagsColumn.tooltip "ටැග් අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY tagsColumn.tooltip "ටැග අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY accountColumn.tooltip "ගිණුම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY statusColumn.tooltip "තත්ත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY sizeColumn.tooltip "විශාලත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
