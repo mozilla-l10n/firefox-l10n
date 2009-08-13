@@ -45,7 +45,7 @@
 
 <!ENTITY useCacheBefore.label "Önbellekte en fazla">
 <!ENTITY useCacheBefore.accesskey "e">
-<!ENTITY useCacheAfter.label "megabayt veri tut">
+<!ENTITY useCacheAfter.label "MB veri tut">
 <!ENTITY clearCacheNow.label "Şimdi temizle">
 <!ENTITY clearCacheNow.accesskey "z">
 
@@ -58,7 +58,7 @@
 <!ENTITY enableAddonsUpdate.accesskey "n">
 <!ENTITY enableSearchUpdate.label "Arama motorları">
 <!ENTITY enableSearchUpdate.accesskey "m">
-<!ENTITY whenUpdatesFound.label "&brandShortName; için güncelleme bulunursa,">
+<!ENTITY whenUpdatesFound.label "&brandShortName; için güncelleme bulunursa:">
 <!ENTITY askMe.label "Ne yapmak istediğimi sor">
 <!ENTITY askMe.accesskey "s">
 <!ENTITY modeAutomatic.label "Güncellemeleri otomatik olarak indir ve kur">

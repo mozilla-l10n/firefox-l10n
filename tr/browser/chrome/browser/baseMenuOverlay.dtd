@@ -22,7 +22,7 @@
 
 <!ENTITY helpReleaseNotes.label "Sürüm notları">
 <!ENTITY helpReleaseNotes.accesskey "r">
-<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.label "Güncellemeleri denetle…">
 
 <!ENTITY preferencesCmdMac.label "Tercihler…">
 <!ENTITY preferencesCmdMac.commandkey ",">

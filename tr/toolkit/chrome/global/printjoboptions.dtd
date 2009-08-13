@@ -30,7 +30,7 @@
 <!ENTITY downloadFonts.label "Yazıcı için yazıtipi indirilsin mi?">
 <!ENTITY downloadFonts.accesskey "d">
 
-<!ENTITY edgeMarginInput.label "Kenar boşluk uzunluğunun sınırı (inc)">
+<!ENTITY edgeMarginInput.label "Kenar boşluk uzunluğunun sınırı">
 <!ENTITY topInput.label "Üst:">
 <!ENTITY topInput.accesskey "t">
 <!ENTITY bottomInput.label "Alt:">

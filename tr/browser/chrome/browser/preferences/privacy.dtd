@@ -31,8 +31,8 @@
 <!ENTITY showCookies.accesskey "z">
 
 
-<!ENTITY historyHeader.pre.label "&brandShortName;:">
-<!ENTITY historyHeader.pre.accesskey ":">
+<!ENTITY historyHeader.pre.label "&brandShortName; uygulaması:">
+<!ENTITY historyHeader.pre.accesskey "u">
 <!ENTITY historyHeader.remember.label "Geçmişi hatırlayacak">
 <!ENTITY historyHeader.dontremember.label "Geçmişi asla hatırlamayacak">
 <!ENTITY historyHeader.custom.label "Özel ayarları kullanacak">
@@ -68,7 +68,7 @@
 
 <!ENTITY rememberHistory.pre.label "En az">
 <!ENTITY rememberHistory.pre.accesskey "E">
-<!ENTITY rememberHistory.post.label "days">
+<!ENTITY rememberHistory.post.label "günlük geçmişimi hatırla">
 
 <!ENTITY rememberDownload.label "İndirme geçmişini hatırla">
 <!ENTITY rememberDownload.accesskey "d">
@@ -79,5 +79,5 @@
 <!ENTITY clearOnClose.label "&brandShortName; kapatılınca geçmişi sil">
 <!ENTITY clearOnClose.accesskey "s">
 
-<!ENTITY clearOnCloseSettings.label "Settings…">
-<!ENTITY clearOnCloseSettings.accesskey "t">
+<!ENTITY clearOnCloseSettings.label "Ayarlar…">
+<!ENTITY clearOnCloseSettings.accesskey "A">

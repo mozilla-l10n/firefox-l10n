@@ -14,7 +14,7 @@
 <!ENTITY listAllTabs.label "Tüm sekmeleri diz">
 <!ENTITY bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle…">
 <!ENTITY bookmarkAllTabs.accesskey "T">
-<!ENTITY bookmarkThisTab.label "Bu sekmeyi yer imlerine ekle…">
+<!ENTITY bookmarkThisTab.label "Bu sekmeyi yer imlerine ekle">
 <!ENTITY bookmarkThisTab.accesskey "B">
 <!ENTITY undoCloseTab.label "Kapatılan sekmeyi aç">
 <!ENTITY undoCloseTab.accesskey "K">

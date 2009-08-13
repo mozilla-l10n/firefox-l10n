@@ -39,7 +39,7 @@
 <!ENTITY safeModeDialog.title "&brandShortName; - Güvenlik Kip">
 <!ENTITY window.width "37em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; şimdi güvenli kipte çalıştırıldı. Bu kipte ayarlarınız, temalarınız ve eklentileriniz devre dışı durumundadır">
+<!ENTITY safeModeDescription.label "&brandShortName; şimdi güvenli kipte çalıştırıldı. Bu kipte ayarlarınız, temalarınız ve eklentileriniz devre dışı durumundadır.">
 <!ENTITY safeModeDescription2.label "Aşağıdaki değişiklikleri yapabilirsiniz:">
 
 <!ENTITY disableAddons.label "Bütün eklentileri etkisizleştir">
@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "Araç çubuğunu ve kontrol ayarlarını sıfırla">
 <!ENTITY resetToolbars.accesskey "r">
 
-<!ENTITY deleteBookmarks.label "Delete all bookmarks except for backups">
-<!ENTITY deleteBookmarks.accesskey "b">
+<!ENTITY deleteBookmarks.label "Yedekler dışındaki tüm yer imlerini sil">
+<!ENTITY deleteBookmarks.accesskey "Y">
 
 <!ENTITY resetUserPrefs.label "Bütün kullanıcı ayarlarını &brandShortName; öntanımlı ayarlara getir">
 <!ENTITY resetUserPrefs.accesskey "B">

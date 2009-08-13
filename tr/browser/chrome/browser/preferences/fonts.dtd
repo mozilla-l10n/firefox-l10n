@@ -54,7 +54,7 @@
 <!-- Minimum font size -->
 <!ENTITY minSize.label "En ufak yazitipi boyutu:">
 <!ENTITY minSize.accesskey "z">
-<!ENTITY minSize.none "yok">
+<!ENTITY minSize.none "Yok">
 <!-- default font type -->
 
 <!ENTITY useDefaultFontSerif.label "Serif">
