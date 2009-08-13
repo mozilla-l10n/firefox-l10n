@@ -28,7 +28,7 @@
 <!ENTITY noSuggestions.label "(Öneri yok)">
 <!ENTITY addToDictionary.label "Sözlüğe ekle">
 
-<!ENTITY bookmarksHeader.label "Bookmarks">
+<!ENTITY bookmarksHeader.label "Yer imleri">
 <!ENTITY bookmarksManage.label "Yönet">
 <!ENTITY foldersHeader.label "Dizinler">
 
@@ -81,7 +81,7 @@
 <!ENTITY downloadRetry.label "Yeniden dene">
 
 <!ENTITY noResults.label "Sonuç yok">
-<!ENTITY allBookmarks.label "See all bookmarks">
+<!ENTITY allBookmarks.label "Tüm yer imlerini göster">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
 <!ENTITY identity.connectedTo2 "Bağlanılan">
