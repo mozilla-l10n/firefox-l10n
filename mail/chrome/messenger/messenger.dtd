@@ -462,10 +462,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Abrufen">
 <!ENTITY newMsgButton.label "Verfassen">
-<!ENTITY newHTMLMessageCmd.label "Im HTML-Format verfassen">
-<!ENTITY newHTMLMessageCmd.accesskey "H">
-<!ENTITY newPlainTextMessageCmd.label "Im Reintext-Format verfassen">
-<!ENTITY newPlainTextMessageCmd.accesskey "R">
 <!ENTITY replyButton.label "Antworten">
 <!ENTITY replyAllButton.label "Allen antworten">
 <!ENTITY replyListButton.label "Liste antworten">
