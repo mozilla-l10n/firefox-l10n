@@ -58,5 +58,5 @@ that require it.  -->
 
 <!ENTITY sanitizeEverythingUndoWarning "Bu eylem gerçekleştirilemez.">
 
-<!ENTITY dialog.width "28em">
+<!ENTITY dialog.width "32em">
 <!ENTITY column.width "14em">

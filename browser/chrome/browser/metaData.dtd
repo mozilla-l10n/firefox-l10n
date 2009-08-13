@@ -1,4 +1,4 @@
-<!ENTITY no-properties.label "Özellikler belirtilmedi">
+<!ENTITY no-properties.label "Özellikler belirtilmedi.">
 
 <!ENTITY caption.label "Element Özellikleri">
 <!ENTITY image-sec.label "Resim Dosyası Özellikleri">
@@ -19,9 +19,9 @@
 <!ENTITY link-rel.label "İlişki:">
 <!ENTITY link-rev.label "Geri dönen bağlantı:">
 <!ENTITY link-ping.label "Uyaracak:">
-<!ENTITY misc-sec.label "Çeşitli Özellikler:">
-<!ENTITY misc-lang.label "Metin dili">
+<!ENTITY misc-sec.label "Çeşitli özellikler">
+<!ENTITY misc-lang.label "Metin dili:">
 <!ENTITY misc-title.label "Başlık:">
-<!ENTITY misc-tblsummary.label "Tablo özeti">
+<!ENTITY misc-tblsummary.label "Tablo özeti:">
 <!ENTITY quote-sec.label "Alıntı Özellikleri">
 <!ENTITY quote-cite.label "Bilgi:">

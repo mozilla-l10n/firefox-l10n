@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY pageInfoWindow.width "438">
+<!ENTITY pageInfoWindow.width "600">
 <!ENTITY pageInfoWindow.height "531">
 
 <!ENTITY copy.key "C">
@@ -55,11 +55,11 @@
 <!ENTITY generalMode "Yorum kipi:">
 <!ENTITY generalSize "Boyut:">
 <!ENTITY generalReferrer "Yönlendiren URL:">
-<!ENTITY generalSource "Kaynak: ">
+<!ENTITY generalSource "Kaynak:">
 <!ENTITY generalModified "Değişme tarihi:">
 <!ENTITY generalEncoding "Kodlama:">
-<!ENTITY generalMetaName "Adı:">
-<!ENTITY generalMetaContent "İçerik:">
+<!ENTITY generalMetaName "Adı">
+<!ENTITY generalMetaContent "İçerik">
 <!ENTITY generalSecurityDetails "Ayrıntılar">
 <!ENTITY generalSecurityDetails.accesskey "A">
 
@@ -108,11 +108,11 @@
 
 
 <!ENTITY securityView.identity.header "Sayfa kimliği">
-<!ENTITY securityView.identity.owner "Sahibi: ">
-<!ENTITY securityView.identity.domain "Site ismi: ">
-<!ENTITY securityView.identity.verifier "Onaylayan: ">
+<!ENTITY securityView.identity.owner "Sahibi:">
+<!ENTITY securityView.identity.domain "Site ismi:">
+<!ENTITY securityView.identity.verifier "Onaylayan:">
 
-<!ENTITY securityView.privacy.header "Güvenlik ve Geçmiş">
+<!ENTITY securityView.privacy.header "Güvenlik ve geçmiş">
 <!ENTITY securityView.privacy.history "Bu siteyi önceden ziyaret ettim mi?">
 <!ENTITY securityView.privacy.cookies "Bu site bilgisayarıma çerez yerleştirdi mi?">
 <!ENTITY securityView.privacy.viewCookies "Çerezleri göster">

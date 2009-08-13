@@ -41,7 +41,7 @@
 <!ENTITY importItems.label "İçe aktarılacak öğeyi seçin:">
 
 <!ENTITY migrating.title "İçe aktarılıyor…">
-<!ENTITY migrating.label "Aşağıdaki öğeler başarılı bir şekilde içe aktarıldı.">
+<!ENTITY migrating.label "Aşağıdaki öğeler başarılı bir şekilde içe aktarıldı…">
 
 <!ENTITY selectProfile.title "Kimlik seç">
 <!ENTITY selectProfile.label "Aşağıdaki kimlikler buradan içe aktarılabilir:">

@@ -32,7 +32,7 @@
 <!ENTITY goOfflineCmd.label "Çevrimdışı çalış">
 <!ENTITY goOfflineCmd.accesskey "Ç">
 
-<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.label "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Gezinti araç çubuğu">
 <!ENTITY navbarCmd.accesskey "t">
@@ -50,8 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Tam ekran">
 <!ENTITY fullScreenCmd.accesskey "T">
-<!ENTITY showAllTabsCmd.label "Show All Tabs">
-<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY showAllTabsCmd.label "Tüm sekmeleri göster">
+<!ENTITY showAllTabsCmd.accesskey "s">
 
 <!ENTITY fullScreenMinimize.tooltip "Küçült">
 <!ENTITY fullScreenRestore.tooltip "Geri getir">
@@ -64,8 +64,8 @@
 <!ENTITY closeWindow.label "Pencereyi kapat">
 <!ENTITY closeWindow.accesskey "k">
 
-<!ENTITY bookmarksMenu.label "Bookmarks">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.label "Yer İmleri">
+<!ENTITY bookmarksMenu.accesskey "e">
 <!ENTITY bookmarkThisPageCmd.label "Bu sayfayı yer imlerine ekle">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
@@ -90,21 +90,21 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Sayfayı yüklemeyi durdur">
 <!ENTITY goEndCap.tooltip "Konum çubuğundaki adrese git">
-<!ENTITY feedButton.tooltip "Subscribe to this page…">
+<!ENTITY feedButton.tooltip "Bu sayfaya abone ol…">
 <!ENTITY printButton.label "Yazdır">
 <!ENTITY printButton.tooltip "Bu sayfayı yazdır">
 
 <!ENTITY locationItem.title "Konum">
 <!ENTITY searchItem.title "Ara">
 <!ENTITY throbberItem.title "Etkinlik göstergesi">
-<!ENTITY bookmarksItem.title "Bookmarks">
+<!ENTITY bookmarksItem.title "Yer imleri">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label "Başlangıç">
 
-<!ENTITY bookmarksButton.label "Bookmarks">
+<!ENTITY bookmarksButton.label "Yer imleri">
 <!ENTITY bookmarksButton.tooltip "Yer imlerini göster">
-<!ENTITY bookmarksButton.accesskey "B">
+<!ENTITY bookmarksButton.accesskey "e">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -166,7 +166,7 @@
 <!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.key "a">
 <!ENTITY selectAllCmd.accesskey "T">
-<!ENTITY preferencesCmd.label "Seçenekler">
+<!ENTITY preferencesCmd.label "Seçenekler…">
 <!ENTITY preferencesCmd.accesskey "S">
 <!ENTITY preferencesCmdUnix.label "Seçenekler">
 <!ENTITY preferencesCmdUnix.accesskey "k">
@@ -201,7 +201,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Search Bookmarks and History">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Yer imlerinde ve geçmişte ara">
 <!ENTITY urlbar.bookmark.emptyText "Yer imlerinde ara">
 <!ENTITY urlbar.history.emptyText "Geçmişte ara">
 <!ENTITY urlbar.none.emptyText "Adresi yazın">
@@ -371,7 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Kes">
 <!ENTITY copyButton.tooltip "Kopyala">
 <!ENTITY pasteButton.tooltip "Yapıştır">
-<!ENTITY fullScreenButton.tooltip "Display the window in full screen">
+<!ENTITY fullScreenButton.tooltip "Pencereyi tam ekran göster">
 
 <!ENTITY quitApplicationCmdWin.label "Çık">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
@@ -379,7 +379,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Çık">
 <!ENTITY quitApplicationCmd.accesskey "k">
-<!ENTITY quitApplicationCmdMac.label "Çık">
+<!ENTITY quitApplicationCmdMac.label "&brandShortName; uygulamasından çık">
 <!ENTITY quitApplicationCmdMac.key "Q">
 
 <!ENTITY closeCmd.label "Kapat">
@@ -430,7 +430,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.edit.accessKey "e">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
-<!ENTITY identity.connectedTo "Bağlandığınız site:">
+<!ENTITY identity.connectedTo "Bağlandığınız site">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 

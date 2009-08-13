@@ -71,7 +71,7 @@
 <!ENTITY cmd.edit_redo.accesskey "Y">
 <!ENTITY cmd.edit_redo.key "y">
 
-<!ENTITY cmd.bookmarkLink.label "Bookmark This Page…">
+<!ENTITY cmd.bookmarkLink.label "Bu sayfayı yer imlerine ekle…">
 <!ENTITY cmd.bookmarkLink.accesskey "B">
 <!ENTITY cmd.delete.label "Bu sayfayı sil">
 <!ENTITY cmd.delete.accesskey "s">
@@ -156,15 +156,15 @@
 <!ENTITY advancedSearch.all.label "her">
 <!ENTITY advancedSearch.any.label "hernangi bir">
 <!ENTITY advancedSearch.rules.label " kurala uysun:">
-<!ENTITY advancedSearch.subj_keyword.label "İçerdiği metin:">
+<!ENTITY advancedSearch.subj_keyword.label "İçerdiği metin">
 <!ENTITY advancedSearch.subj_visited.label "Ziyaret">
 <!ENTITY advancedSearch.subj_location.label "Konum">
-<!ENTITY advancedSearch.location_startswith.label "bunla başlar:">
-<!ENTITY advancedSearch.location_is.label "budur:">
-<!ENTITY advancedSearch.location_onsite.label "bu sitededir:">
-<!ENTITY advancedSearch.time_is.label "bu tarihte gerçekleşti:">
-<!ENTITY advancedSearch.time_before.label "bu tarihten önce gerçekleşti:">
-<!ENTITY advancedSearch.time_after.label "bu tarihten sonra gerçekleşti:">
+<!ENTITY advancedSearch.location_startswith.label "bunla başlar">
+<!ENTITY advancedSearch.location_is.label "budur">
+<!ENTITY advancedSearch.location_onsite.label "bu sitededir">
+<!ENTITY advancedSearch.time_is.label "bu tarihte gerçekleşti">
+<!ENTITY advancedSearch.time_before.label "bu tarihten önce gerçekleşti">
+<!ENTITY advancedSearch.time_after.label "bu tarihten sonra gerçekleşti">
 <!ENTITY advancedSearch.time_inlast.label "son">
 <!ENTITY advancedSearch.last_days.label "gün içinde gerçekleşti">
 <!ENTITY advancedSearch.last_weeks.label "hafta içinde gerçekleşti">
@@ -198,10 +198,10 @@
 <!ENTITY maintenance.label "İçe aktarma ve yedekleme">
 <!ENTITY maintenance.accesskey "y">
 
-<!ENTITY backCmd.label "Back">
+<!ENTITY backCmd.label "Geri">
 <!ENTITY backButton.tooltip "Geriye gider">
 
-<!ENTITY forwardCmd.label "Forward">
+<!ENTITY forwardCmd.label "İleri">
 <!ENTITY forwardButton.tooltip "İleriye gider">
 
 <!ENTITY detailsPane.more.label "Daha fazla ayrıntı">
