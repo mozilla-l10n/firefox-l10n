@@ -37,7 +37,7 @@ Pour les toutes dernières "nightlies", consulter
 
 Gardez à l'esprit que les "nightlies", qui sont utilisées par les développeurs
 pour les tests, peuvent être boguées. Si vous cherchez une version plus stable
-de SeaMonkey, le projet SeaMonkey publie des paquetages de SeaMonkey régulièrement
+de SeaMonkey, le projet SeaMonkey publie des paquets de SeaMonkey régulièrement
 que vous pouvez télécharger sur
 
   http://www.seamonkey-project.org/releases/
