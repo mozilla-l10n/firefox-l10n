@@ -19,8 +19,8 @@
 <!ENTITY autoCompleteMatch.label "Correspondance">
 <!ENTITY autoCompleteMatch.accesskey "o">
 <!ENTITY autoCompleteMatchAnywhere "N'importe où dans l'adresse ou le titre de page">
-<!ENTITY autoCompleteMatchWordsFirst "N'importe où mais en préférant les limites de mot">
-<!ENTITY autoCompleteMatchWords "Seulement sur les limites de mots">
+<!ENTITY autoCompleteMatchWordsFirst "N'importe où mais en préférant les extrémités de mot">
+<!ENTITY autoCompleteMatchWords "Seulement sur les extrémités de mots">
 <!ENTITY autoCompleteMatchStart "Seulement au début de l'adresse ou du titre de page">
 
 <!ENTITY searchEngine.label "Moteur de recherche Internet">
