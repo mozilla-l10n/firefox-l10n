@@ -25,5 +25,5 @@
 <!ENTITY alwaysUseDocumentColors.label     "Immer von der Webseite angegebene Farben und Hintergrund verwenden">
 <!ENTITY alwaysUseDocumentColors.accesskey "i">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
-<!ENTITY useMyColors.label                 "Meine selbstdefinierten Farben verwenden, Webseiten-Farben und -Hintergrundbild ignorieren">
-<!ENTITY useMyColors.accesskey             "M">
+<!ENTITY useMyColors.label                 "Selbst definierte Farben verwenden, Webseiten-Farben und -Hintergrundbild ignorieren">
+<!ENTITY useMyColors.accesskey             "d">

@@ -1,5 +1,5 @@
 <!ENTITY pane.title                   "Empfangsbestätigungen">
-<!ENTITY useGlobalPrefs.label         "Meine globalen Empfangsbestätigungs-Einstellungen für diesen Account verwenden">
+<!ENTITY useGlobalPrefs.label         "Globale Empfangsbestätigungs-Einstellungen für diesen Account verwenden">
 <!ENTITY useGlobalPrefs.accesskey     "M">
 <!ENTITY useCustomPrefs.label         "Empfangsbestätigungen für diesen Account anpassen">
 <!ENTITY useCustomPrefs.accesskey     "E">
@@ -16,10 +16,10 @@
 <!ENTITY returnSome.accesskey         "E">
 <!ENTITY never.label                  "Nie eine Empfangsbestätigung senden">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "Wenn ich nicht in der An- oder CC-Zeile der Nachricht stehe:">
+<!ENTITY notInToCc.label              "Wenn ich nicht in An oder CC der Nachricht stehe:">
 <!ENTITY notInToCc.accesskey          "W">
-<!ENTITY outsideDomain.label          "Wenn der Absender außerhalb meiner Domain ist:">
-<!ENTITY outsideDomain.accesskey      "W">
+<!ENTITY outsideDomain.label          "Bei Absendern außerhalb der eigenen Domain:">
+<!ENTITY outsideDomain.accesskey      "A">
 <!ENTITY otherCases.label             "In allen anderen Fällen:">
 <!ENTITY otherCases.accesskey         "I">
 <!ENTITY askMe.label                  "Nachfragen">

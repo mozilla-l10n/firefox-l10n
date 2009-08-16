@@ -112,7 +112,7 @@
 <!ENTITY BPProps.EarlyReturnRadio.label  "Frühe Rückkehr vom Aufruf mit dem Ergebnis">
 <!ENTITY BPProps.PassExceptionsCheck.label   "Exceptions zum Aufrufer weitergeben">
 <!ENTITY BPProps.LogResultCheck.label        "Log-Ergebnis">
-<!ENTITY BPProps.Apply.label  "Anwenden">
+<!ENTITY BPProps.Apply.label  "Ausführen">
 <!ENTITY BPProps.Revert.label "Zurück">
 <!ENTITY BPProps.Close.label  "Schließen">
 

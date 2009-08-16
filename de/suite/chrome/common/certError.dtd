@@ -18,7 +18,7 @@ dass Sie die richtige Website besuchen. Die Identifikation dieser Website dagege
 <!ENTITY certerror.whatShouldIDo.content "Falls Sie für gewöhnlich keine Probleme
 mit dieser Website haben, könnte dieser Fehler bedeuten, dass jemand
 die Website fälscht. Sie sollten in dem Fall nicht fortfahren.">
-<!ENTITY certerror.getMeOutOfHere.label "Das klingt schlimm, stattdessen auf meine Startseite gehen">
+<!ENTITY certerror.getMeOutOfHere.label "Das klingt schlimm, stattdessen auf die Startseite gehen">
 
 <!ENTITY certerror.expert.heading "Ich kenne das Risiko">
 <!ENTITY certerror.expert.content "Wenn Sie wissen, warum dieses Problem auftritt,

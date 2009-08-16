@@ -66,5 +66,5 @@
 <!-- leaving this stuff in for now -->
 
 <!ENTITY  header2                                 "Bei Dokumenten mit vorgegebener Schriftart">
-<!ENTITY  useDefaultFont.label                    "Meine Standard-Schriftarten verwenden, die Schriftarten-Auswahl der Seite ignorieren">
-<!ENTITY  useDefaultFont.accesskey                "e">
+<!ENTITY  useDefaultFont.label                    "Standard-Schriftarten verwenden, die Schriftarten-Auswahl der Seite ignorieren">
+<!ENTITY  useDefaultFont.accesskey                "a">
