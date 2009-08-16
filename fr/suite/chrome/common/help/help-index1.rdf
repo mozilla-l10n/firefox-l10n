@@ -780,7 +780,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Disk_Space_settings"
-         nc:name="Paramètres des comptes courrier &amp; groupes - Hors ligne et espace disque"
+         nc:name="Paramètres des comptes courrier &amp; groupes - Hors connexion et espace disque"
          nc:link="mail_help.xhtml#offline_and_disk_space"/>
      </rdf:li>
      <rdf:li>
@@ -905,7 +905,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
-         nc:name="Travailler hors ligne"
+         nc:name="Travailler hors connexion"
          nc:link="mail_help.xhtml#working_offline"/>
         </rdf:li>
       </rdf:Seq>
@@ -1197,12 +1197,12 @@
       <rdf:Seq>
         <rdf:li>
           <rdf:Description ID="Offline:general_preferences"
-            nc:name="Préférences de Courrier &amp; Groupes - Hors ligne et espace disque"
+            nc:name="Préférences de Courrier &amp; Groupes - Hors connexion et espace disque"
             nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="Offline:Mail_and_Newsgroups"
-            nc:name="Travailler hors ligne"
+            nc:name="Travailler hors connexion"
             nc:link="mail_help.xhtml#working_offline"/>
         </rdf:li>
       </rdf:Seq>
@@ -2358,7 +2358,7 @@
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="Working_Offline"
-          nc:name="Travailler hors ligne"
+          nc:name="Travailler hors connexion"
           nc:link="mail_help.xhtml#working_offline"/>
       </rdf:li>
       <rdf:li>

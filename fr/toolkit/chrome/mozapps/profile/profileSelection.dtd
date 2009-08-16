@@ -57,7 +57,7 @@
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; garde les informations concernant vos paramètres personnels et préférences dans votre profil.">
 
-<!ENTITY            offlineState.label    "Travailler hors ligne">
+<!ENTITY            offlineState.label    "Travailler hors connexion">
 <!ENTITY            offlineState.accesskey "o">
 
 <!ENTITY            autoSelect.label       "Ne pas demander au démarrage">

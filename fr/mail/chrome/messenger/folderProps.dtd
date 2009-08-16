@@ -72,12 +72,12 @@
 <!ENTITY folderCheckForNewMessages.label         "Surveiller les nouveaux messages dans ce dossier">
 <!ENTITY folderCheckForNewMessages.accesskey     "S">
 
-<!ENTITY offlineFolder.check.label               "Sélectionner ce dossier pour une utilisation hors ligne">
+<!ENTITY offlineFolder.check.label               "Sélectionner ce dossier pour une utilisation hors connexion">
 <!ENTITY offlineFolder.check.accesskey           "l">
 <!ENTITY offlineFolder.button.label              "Télécharger maintenant">
 <!ENTITY offlineFolder.button.accesskey          "h">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Sélectionner ce groupe pour une utilisation hors ligne">
+<!ENTITY selectofflineNewsgroup.check.label      "Sélectionner ce groupe pour une utilisation hors connexion">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Télécharger maintenant">
 <!ENTITY offlineNewsgroup.button.accesskey       "m">

@@ -49,7 +49,7 @@
 <!ENTITY directoryLogin.label              "Connecter avec l'utilisateur :">
 <!ENTITY directoryLogin.accesskey          "C">
 <!ENTITY General.tab                       "Général">
-<!ENTITY Offline.tab                       "Hors ligne">
+<!ENTITY Offline.tab                       "Hors connexion">
 <!ENTITY Advanced.tab                      "Avancé">
 <!ENTITY portNumber.label                  "Numéro de port :">
 <!ENTITY portNumber.accesskey              "p">
@@ -64,7 +64,7 @@
 <!ENTITY return.label                      "Ne pas retourner plus de">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "résultats">
-<!ENTITY offlineText.label                 "Vous pouvez créer une copie locale de cet annuaire pour pouvoir l'utiliser une fois déconnecté.">
+<!ENTITY offlineText.label                 "Vous pouvez créer une copie locale de cet annuaire pour pouvoir l'utiliser une fois hors connexion.">
 <!ENTITY saslMechanism.label               "Méthode d'identification : ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simple">
