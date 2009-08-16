@@ -31,6 +31,8 @@
   %pref-tabsDTD;
   <!ENTITY % platformPrefOverlayDTD SYSTEM "chrome://communicator-platform/locale/platformPrefOverlay.dtd" >
   %platformPrefOverlayDTD;
+  <!ENTITY % unknownContentTypeDTD SYSTEM "chrome://mozapps/locale/downloads/unknownContentType.dtd" >
+  %unknownContentTypeDTD;
 ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
@@ -392,14 +394,11 @@
 	<li>Choose a plugin or an application by selecting it from the menu.</li>
 
 	<li>Save files of this type on your computer by selecting
-    <q>&saveToDisk.label;</q> from the menu. If you have selected the
-    <q>&autoDownload.label;</q>
-    preference in the <q>&pref.download.title;</q> panel, &brandShortName; will
-    save content of this type on your computer automatically. Otherwise, when
+    <q>&saveFile.label;</q> from the menu. Otherwise, when
     you encounter this type, &brandShortName; will prompt you for a location on
     your computer to save it to.</li>
 
-	<li>Tell &brandShortName; to <q>&askBeforeOpen.label;</q> what to do when
+	<li>Tell &brandShortName; to <q>&alwaysAsk.label;</q> what to do when
     encountering this type. When you choose this option, a dialog will always be
     shown when files of this type are accessed, and you can choose how to handle
     that specific file from there.</li>
@@ -826,13 +825,13 @@ href="http://www.mozilla.org/docs/end-user/domain-guessing.html" hreflang="en">
     <dt>&downloadLocation.label;</dt>
     <dd>
       <dl>
-        <dt>&promptDownload.label;</dt>
+        <dt>&alwaysAsk.label;</dt>
         <dd>S&eacute;lectionnez cette option si voulez toujours &ecirc;tre en
         mesure de choisir un r&eacute;pertoire pour le fichier &agrave;
         t&eacute;l&eacute;charger. Choisissez l'un des dossiers suivants comme
         emplacement par d&eacute;faut pour le fichier&nbsp;:
 
-          <dl>
+<!--          <dl>
             <dt>&lastLocation.label;</dt>
             <dd>L'emplacement par d&eacute;faut sera le dernier
             r&eacute;pertoire o&ugrave; vous avez t&eacute;l&eacute;charg&eacute;
@@ -841,17 +840,17 @@ href="http://www.mozilla.org/docs/end-user/domain-guessing.html" hreflang="en">
             <dt>&specifiedLocation.label;</dt>
             <dd>L'emplacement par d&eacute;faut sera le r&eacute;pertoire
             indiqu&eacute;.</dd>
-          </dl>
+          </dl> -->
 
         </dd>
-        <dt>&autoDownload.label;</dt>
+<!--        <dt>&autoDownload.label;</dt>
         <dd>S&eacute;lectionnez cette option si vous voulez que vos fichiers
         soient enregistr&eacute;s dans le r&eacute;pertoire courant sans que
-        &brandShortName; vous demander d'indiquer l'emplacement.</dd>
+        &brandShortName; vous demander d'indiquer l'emplacement.</dd> -->
       </dl>
     </dd>
 
-    <dt>&downloadFolder.label;</dt>
+    <dt>&saveTo.label;</dt>
     <dd>Utilisez le bouton <q>&chooseDownloadFolder.label;</q> pour
     vous rendre vers l'emplacement que vous d&eacute;sirez.</dd>
 
