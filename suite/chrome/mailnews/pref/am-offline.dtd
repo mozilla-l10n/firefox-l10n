@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pour préserver de l'espace disque, ne pas télécharger :">
-<!ENTITY doNotDownload.label "Pour préserver de l'espace disque, ne pas télécharger pour le travail hors ligne :">
+<!ENTITY doNotDownload.label "Pour préserver de l'espace disque, ne pas télécharger pour le travail hors connexion :">
 <!ENTITY allFoldersOffline.label "Conserver les messages de ce compte sur cet ordinateur">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Les messages dont la taille est supérieure à">
@@ -26,7 +26,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "o">
 <!ENTITY nntpRemoveMsgBody.label "Supprimer les corps des messages de plus de">
 <!ENTITY nntpRemoveMsgBody.accesskey "r">
-<!ENTITY offlineSelectNntp.label "Sélectionner les groupes de discussion pour le travail hors ligne…">
+<!ENTITY offlineSelectNntp.label "Sélectionner les groupes de discussion pour le travail hors connexion…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avancé…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

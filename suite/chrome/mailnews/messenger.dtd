@@ -84,11 +84,11 @@
 <!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
 <!ENTITY emptyTrashCmd.accesskey "V">
-<!ENTITY offlineMenu.label                  "Hors ligne">
+<!ENTITY offlineMenu.label                  "Hors connexion">
 <!ENTITY offlineMenu.accesskey "D">
 <!ENTITY synchronizeOfflineCmd.label "Synchroniser…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Paramètres hors ligne…">
+<!ENTITY settingsOfflineCmd.label "Paramètres hors connexion…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Relever les messages sélectionnés">
 <!ENTITY downloadSelectedCmd.accesskey "m">
