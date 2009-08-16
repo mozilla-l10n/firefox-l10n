@@ -83,7 +83,7 @@
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Giden E-posta (SMTP) için sunucu ismi,  &quot;">
+<!ENTITY haveSmtp3.prefix "Giden E-posta (SMTP) için sunucu ismi, &quot;">
 <!ENTITY haveSmtp3.suffix2 "&quot;, is identical to your incoming server, your incoming user name will be used to access it. You can change outgoing servers in the account settings.">
 <!-- Entities for Account name page -->
 
