@@ -2,8 +2,8 @@
 
 <!ENTITY addressing.label          "Verfassen &amp; Adressieren">
 <!ENTITY addressingGroupTitle.label "Adressieren">
-<!ENTITY autocompleteToMyDomain.label     "Meine Domain automatisch an Adressen anhängen">
-<!ENTITY autocompleteToMyDomain.accesskey "M">
+<!ENTITY autocompleteToMyDomain.label     "Eigene Domain automatisch an Adressen anhängen">
+<!ENTITY autocompleteToMyDomain.accesskey "E">
 <!ENTITY addressingText.label      "Beim Suchen von Nachrichten:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Globale LDAP-Server-Einstellungen für diesen Account verwenden">
@@ -12,7 +12,7 @@
 <!ENTITY editDirectories.accesskey "V">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Einen anderen LDAP-Server verwenden:">
-<!ENTITY directories.accesskey     "E">
+<!ENTITY directories.accesskey     "L">
 <!ENTITY directoriesNone.label     "Keines">
 
 <!-- am-addressing.xul -->
@@ -29,10 +29,10 @@
 <!ENTITY aboveQuote.label                     "Antwort über zitiertem Text beginnen">
 <!ENTITY belowQuote.label                     "Antwort unter zitiertem Text beginnen">
 <!ENTITY selectAndQuote.label                 "zitierten Text markieren">
-<!ENTITY place.label                          "und meine Signatur">
+<!ENTITY place.label                          "und die Signatur">
 <!ENTITY place.accesskey                      "u">
 <!ENTITY belowText.label                      "unter zitierten Text setzen (empfohlen)">
-<!ENTITY aboveText.label                      "unter meine Antwort (über zitiertem Text) setzen">
+<!ENTITY aboveText.label                      "unter Antwort (über zitierten Text) setzen">
 <!ENTITY includeSigOnReply.label              "Signatur für Antworten inkludieren">
 <!ENTITY includeSigOnReply.accesskey          "A">
 <!ENTITY includeSigOnForward.label            "Signatur für Weiterleitungen inkludieren">

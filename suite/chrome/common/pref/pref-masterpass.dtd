@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  pref.masterpass.title                  "Master-Passwörter">
+<!ENTITY  pref.masterpass.title                  "Master-Passwort">
 <!ENTITY  managepassword.caption                 "Master-Passwort-Gültigkeitsdauer">
 <!ENTITY  managepassword.text                    "&brandShortName; fragt nach Ihrem Master-Passwort:">
 <!ENTITY  managepassword.askfirsttime            "Das erste Mal, wenn es gebraucht wird">
