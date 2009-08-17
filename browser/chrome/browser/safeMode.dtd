@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Restabelecer as barras de ferramentas e controis">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "Restabelecer os marcadores para os valores predefinidos de &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "m">
+<!ENTITY deleteBookmarks.label         "Eliminar todos os marcadores excepto para as copias de seguranza">
+<!ENTITY deleteBookmarks.accesskey     "E">
 
 <!ENTITY resetUserPrefs.label         "Restabelecer todas as preferencias do usuario para os valores predefinidos de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
