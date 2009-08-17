@@ -457,6 +457,10 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Hent nye">
 <!ENTITY newMsgButton.label "Skriv">
+<!ENTITY newHTMLMessageCmd.label "Skriv med HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "S">
+<!ENTITY newPlainTextMessageCmd.label "Skriv med ren tekst">
+<!ENTITY newPlainTextMessageCmd.accesskey "k">
 <!ENTITY replyButton.label "Svar">
 <!ENTITY replyAllButton.label "Svar alle">
 <!ENTITY forwardButton.label "Videresend">
