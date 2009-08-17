@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Escoller ficheiro…">
 <!ENTITY newWindow.label "Nova xanela">
 <!ENTITY newTab.label "Novo separador">
-<!ENTITY topWindow.label "Xanela actual">
+<!ENTITY topTab.label "Separador actual">
 <!ENTITY caption.label "Abrir o enderezo web">
 <!ENTITY openWhere.label "Abrir en:">
 <!ENTITY openBtn.label "Abrir">
