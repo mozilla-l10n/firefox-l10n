@@ -29,8 +29,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "borrar todo o historial actual">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Iniciar &brandShortName; de maneira automática nunha sesión de navegación privada">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "Modo de navegación privada permanente">
+<!ENTITY  privateBrowsingPermanent.accesskey "M">
 
 
 <!-- LOCALIZATION NOTE:
