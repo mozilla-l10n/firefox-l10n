@@ -69,3 +69,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey "е">
 <!ENTITY cmd.copyDownloadLink.label "Копировать ссылку на загрузку">
 <!ENTITY cmd.copyDownloadLink.accesskey "п">
+<!ENTITY cmd.properties.label "Свойства…">
+<!ENTITY cmd.properties.accesskey "в">
