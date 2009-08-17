@@ -76,3 +76,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "G">
 <!ENTITY cmd.copyDownloadLink.label      "Kopier nedlastingslenke">
 <!ENTITY cmd.copyDownloadLink.accesskey  "K">
+<!ENTITY cmd.properties.label            "Egenskaper …">
+<!ENTITY cmd.properties.accesskey        "E">
