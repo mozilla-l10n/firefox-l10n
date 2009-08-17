@@ -54,9 +54,8 @@
 <!ENTITY  dontrememberActions.pre.label          "Vous voulez peut-être ">
 <!ENTITY  dontrememberActions.clearHistory.label "effacer la totalité de l'historique actuel">
 <!ENTITY  dontrememberActions.post.label         ".">
-
-<!ENTITY  privateBrowsingAutoStart.label "Démarrer automatiquement &brandShortName; en session de navigation privée">
-<!ENTITY  privateBrowsingAutoStart.accesskey "D">
+<!ENTITY  privateBrowsingPermanent.label "Mode de navigation privée permanent">
+<!ENTITY  privateBrowsingPermanent.accesskey "M">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
