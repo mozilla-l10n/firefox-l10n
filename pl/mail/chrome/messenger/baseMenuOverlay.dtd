@@ -4,6 +4,8 @@
 <!ENTITY helpMenuWin.accesskey   "c">
 <!ENTITY releaseCmd.label        "Informacje o wersji programu">
 <!ENTITY releaseCmd.accesskey    "I">
+<!ENTITY whatsNewCmd.label       "Najważniejsze zmiany w tej wersji">
+<!ENTITY whatsNewCmd.accesskey   "N">
 <!ENTITY openHelp.label          "Pomoc programu &brandShortName;">
 <!ENTITY openHelp.accesskey      "P">
 <!ENTITY openHelp.commandkey     "VK_F1">
