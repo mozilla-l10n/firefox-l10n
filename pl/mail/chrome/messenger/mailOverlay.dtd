@@ -3,4 +3,4 @@
 <!ENTITY newMessageCmd.label     "Wiadomość">
 <!ENTITY newMessageCmd.accesskey "W">
 <!ENTITY newContactCmd.label     "Wizytówkę…">
-<!ENTITY newContactCmd.accesskey "i">
+<!ENTITY newContactCmd.accesskey "z">

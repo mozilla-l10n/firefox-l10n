@@ -2,17 +2,21 @@
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label  " - ">
 
+<!-- Tab context menu -->
+<!ENTITY closeTabCmd.label     "Zamknij kartę">
+<!ENTITY closeTabCmd.accesskey "Z">
+
 <!-- File Menu -->
+<!ENTITY newNewMsgCmd.label             "Wiadomość">
+<!ENTITY newNewMsgCmd.accesskey         "W">
 <!ENTITY newFolderCmd.label             "Folder…">
 <!ENTITY newFolderCmd.accesskey         "F">
-<!ENTITY closeTabCmd.label              "Zamknij kartę">
-<!ENTITY closeTabCmd.accesskey          "m">
 <!ENTITY newVirtualFolderCmd.label      "Folder wyszukiwania…">
-<!ENTITY newVirtualFolderCmd.accesskey  "S">
+<!ENTITY newVirtualFolderCmd.accesskey  "e">
 <!ENTITY newAccountCmd.label            "Konto…">
-<!ENTITY newAccountCmd.accesskey        "K">
+<!ENTITY newAccountCmd.accesskey        "o">
 <!ENTITY newMailAccountCmd.label        "Konto pocztowe…">
-<!ENTITY newMailAccountCmd.accesskey    "n">
+<!ENTITY newMailAccountCmd.accesskey    "K">
 <!ENTITY openMessageFileCmd.label       "Otwórz zapisaną wiadomość">
 <!ENTITY openMessageFileCmd.accesskey   "O">
 <!ENTITY openAttachmentCmd.label        "Załączniki">
@@ -233,12 +237,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label     "Pokazuj załączniki w treści wiadomości">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "z">
 
-<!-- LOCALIZATION NOTE : fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and fullZoomResetCmd.commandkey2
-  are alternative acceleration keys for zoom.
-
-  If shift key is needed with your locale popular keyboard for them, you can use these alternative items.
-  Otherwise, their values should be empty. -->
-
 <!ENTITY fullZoomEnlargeCmd.label       "Powiększ">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "w">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
@@ -322,8 +320,6 @@
 <!ENTITY msgMenu.accesskey              "m">
 <!ENTITY newMsgCmd.label                "Nowa wiadomość">
 <!ENTITY newMsgCmd.accesskey            "m">
-<!ENTITY newNewMsgCmd.label             "Wiadomość">
-<!ENTITY newNewMsgCmd.accesskey         "m">
 <!ENTITY archiveMsgCmd.label            "Archiwizuj">
 <!ENTITY archiveMsgCmd.accesskey        "A">
 <!ENTITY archiveMsgCmd.key              "a">
@@ -683,7 +679,7 @@
 <!ENTITY quickSearchCmd.key "k">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "szczegóły"><!-- FIXME -->
+<!ENTITY more.label "szczegóły">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label      "Dodaj adres do książki adresowej">
