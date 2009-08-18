@@ -1,7 +1,7 @@
 <!ENTITY welcome.description    "Automatyczna konfiguracja konta email">
 <!ENTITY autoconfigWizard.style "width: 640px; height: 480px;"><!-- en-US: width 640px, height 480px -->
 <!ENTITY name.description       "Imię i nazwisko">
-<!ENTITY email.description      "Email">
+<!ENTITY email.description      "E-mail">
 <!ENTITY password.description   "Hasło">
 
 <!ENTITY next.label     "Dalej &#187;"><!-- FIXME: gnome, mac? http://mxr.mozilla.org/l10n-central/source/pl/toolkit/chrome/global/wizard.dtd -->
@@ -51,6 +51,6 @@
 <!ENTITY insecureServer.tooltip.title     "Ostrzeżenie! Ten serwer nie zapewnia wysokiego poziomu bezpieczeństwa."><!-- FIXME this is an insecure server -->
 <!ENTITY insecureServer.tooltip.details   "Kliknij, aby dowiedzieć się więcej"><!-- FIXME: Click circle for more details - wtf?! (taki pomarańczowy badziew, pojawia się między innymi? w dymku podpowiedzi)  -->
 
-<!ENTITY insecureClearText.description    "Połączenie nie jest szyfrowane, wiadomości będą wysyłane czystym tekstem co grozi ich przechwyceniem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien udostępnić możliwość łączenia się z serwerem w bezpieczny sposób.">
-<!ENTITY insecureSelfSigned.description   "Ten serwer używa certyfikatu któremu nie należy ufać, istnieje możliwość przechwycenia transmisji pomiędzy programem &brandShortName; a serwerem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien zostać powiadomiony o problemie w celu jego usunięcia.">
+<!ENTITY insecureClearText.description    "Połączenie nie jest szyfrowane, wiadomości będą wysyłane czystym tekstem, co grozi ich przechwyceniem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien udostępnić możliwość łączenia się z serwerem w bezpieczny sposób.">
+<!ENTITY insecureSelfSigned.description   "Ten serwer używa certyfikatu, któremu nie należy ufać, istnieje możliwość przechwycenia transmisji pomiędzy programem &brandShortName; a serwerem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien zostać powiadomiony o problemie w celu jego usunięcia.">
 <!ENTITY secureServer.description         "Gratulacje! Ten serwer zapewnia wysoki poziom bezpieczeństwa.">
