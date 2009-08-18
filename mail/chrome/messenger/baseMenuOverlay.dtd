@@ -7,6 +7,8 @@
 <!ENTITY helpMenuWin.accesskey "Y">
 <!ENTITY releaseCmd.label "Sürüm notları">
 <!ENTITY releaseCmd.accesskey "S">
+<!ENTITY whatsNewCmd.label "What's New">
+<!ENTITY whatsNewCmd.accesskey "W">
 <!ENTITY openHelp.label "Yardım içeriği">
 <!ENTITY openHelp.accesskey "d">
 <!ENTITY openHelp.commandkey "VK_F1">
