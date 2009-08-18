@@ -83,6 +83,10 @@
 <!ENTITY noResults.label "Pas de résultat">
 <!ENTITY allBookmarks.label        "Tous les marque-pages">
 
+<!ENTITY bookmarkPopup.label "Page marquée">
+<!ENTITY bookmarkRemove.label "Supprimer">
+<!ENTITY bookmarkEdit.label "Modifier">
+
 <!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit aucune information sur son identité.">
 <!ENTITY identity.connectedTo2 "Connexion à">
 <!-- Localization note (identity.runBy2)
