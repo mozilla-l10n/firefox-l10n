@@ -11,10 +11,10 @@
 <!ENTITY locbar.nothing.label "Hiçbir şey">
 
 
-<!ENTITY acceptCookies.label "Sitelerin çerez bırakmasına izin ver">
-<!ENTITY acceptCookies.accesskey "z">
+<!ENTITY acceptCookies.label "Accept cookies from sites">
+<!ENTITY acceptCookies.accesskey "A">
 
-<!ENTITY acceptThirdParty.label "Üçüncü kişilerin çerezlerini kabul et">
+<!ENTITY acceptThirdParty.label "Accept third-party cookies">
 <!ENTITY acceptThirdParty.accesskey "c">
 
 <!ENTITY keepUntil.label "Tutma sınırı:">
@@ -57,8 +57,8 @@
 <!ENTITY dontrememberActions.clearHistory.label "şu ana kadar kaydedilmiş tarama geçmişinizi">
 <!ENTITY dontrememberActions.post.label " de silebilirsiniz.">
 
-<!ENTITY privateBrowsingAutoStart.label "&brandShortName; hep gizli tarama kipinde açılsın">
-<!ENTITY privateBrowsingAutoStart.accesskey "k">
+<!ENTITY privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY privateBrowsingPermanent.accesskey "P">
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
   line in preferences as follows:

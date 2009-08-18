@@ -76,3 +76,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey "g">
 <!ENTITY cmd.copyDownloadLink.label "İndirme bağlantısını kopyala">
 <!ENTITY cmd.copyDownloadLink.accesskey "l">
+<!ENTITY cmd.properties.label "Properties…">
+<!ENTITY cmd.properties.accesskey "s">
