@@ -457,6 +457,10 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "E-mail ophalen">
 <!ENTITY newMsgButton.label "Opstellen">
+<!ENTITY newHTMLMessageCmd.label "Opstellen in HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Opstellen in tekst zonder opmaak">
+<!ENTITY newPlainTextMessageCmd.accesskey "t">
 <!ENTITY replyButton.label "Beantwoorden">
 <!ENTITY replyAllButton.label "Allen beantwoorden">
 <!ENTITY forwardButton.label "Doorsturen">
