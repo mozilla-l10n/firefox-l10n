@@ -39,6 +39,12 @@
 <!ENTITY col.timeelapsed.label           "Temps écoulé">
 <!ENTITY col.timeelapsed.accesskey       "c">
 <!ENTITY col.timeelapsed.tooltip         "Temps écoulé">
+<!ENTITY col.starttime.label             "Heure de début">
+<!ENTITY col.starttime.accesskey         "H">
+<!ENTITY col.starttime.tooltip           "Heure de début">
+<!ENTITY col.endtime.label               "Heure de fin">
+<!ENTITY col.endtime.accesskey           "e">
+<!ENTITY col.endtime.tooltip             "Heure de fin">
 <!ENTITY col.progresstext.label          "&#37;">
 <!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Progression (&#37;)">
