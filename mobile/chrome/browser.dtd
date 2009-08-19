@@ -71,6 +71,9 @@
 <!ENTITY downloadRetry.label "Повторить">
 <!ENTITY noResults.label "Нет результатов">
 <!ENTITY allBookmarks.label "Показать все закладки">
+<!ENTITY bookmarkPopup.label "Добавлена в закладки">
+<!ENTITY bookmarkRemove.label "Удалить">
+<!ENTITY bookmarkEdit.label "Изменить">
 <!ENTITY identity.unverifiedsite2 "Информация о подлинности этого веб-сайта отсутствует.">
 <!ENTITY identity.connectedTo2 "Соединён с">
 <!ENTITY identity.runBy2 "управляется">

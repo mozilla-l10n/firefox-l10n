@@ -35,6 +35,12 @@
 <!ENTITY col.timeelapsed.label "Затраченное время">
 <!ENTITY col.timeelapsed.accesskey "ч">
 <!ENTITY col.timeelapsed.tooltip "Затраченное время">
+<!ENTITY col.starttime.label "Время начала">
+<!ENTITY col.starttime.accesskey "ч">
+<!ENTITY col.starttime.tooltip "Время начала">
+<!ENTITY col.endtime.label "Время окончания">
+<!ENTITY col.endtime.accesskey "к">
+<!ENTITY col.endtime.tooltip "Время окончания">
 <!ENTITY col.progresstext.label "&#037;">
 <!ENTITY col.progresstext.accesskey "&#037;">
 <!ENTITY col.progresstext.tooltip "Ход (&#037;)">

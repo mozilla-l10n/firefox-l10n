@@ -14,6 +14,8 @@
 <!ENTITY contextIncoming.label "Проверке почты">
 <!ENTITY contextManual.label "Запуске вручную">
 <!ENTITY contextBoth.label "Проверке почты или запуске вручную">
+<!ENTITY contextPostPlugin.label "Проверке почты (после анализа на спам)">
+<!ENTITY contextPostPluginBoth.label "Проверке почты (после анализа на спам) или запуске вручную">
 <!ENTITY filterActionDesc.label "Выполнять следующие действия:">
 <!ENTITY filterActionDesc.accesskey "В">
 <!ENTITY moveMessage.label "Переместить сообщение в">
