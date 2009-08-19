@@ -139,7 +139,7 @@
 <!ENTITY dirTreeHeader.label "Książki adresowe">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label     "Imię, nazwisko lub adres e-mail">
+<!ENTITY SearchNameOrEmail.label     "Imię, nazwisko lub e-mail">
 <!ENTITY SearchNameOrEmail.accesskey "n">
 <!ENTITY advancedButton.tooltip      "Zaawansowane wyszukiwanie adresów">
 <!ENTITY quickSearchCmd.key          "k">
