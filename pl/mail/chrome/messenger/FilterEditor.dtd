@@ -16,6 +16,8 @@
 <!ENTITY contextIncoming.label      "sprawdzania poczty">
 <!ENTITY contextManual.label        "ręcznego uruchamiania">
 <!ENTITY contextBoth.label          "sprawdzania poczty lub ręcznego uruchamiania">
+<!ENTITY contextPostPlugin.label     "sprawdzania poczty (po filtrowaniu niechcianych)">
+<!ENTITY contextPostPluginBoth.label "sprawdzania poczty (po filtrowaniu niechcianych) lub ręcznego uruchamiania">
 <!ENTITY filterActionDesc.label     "…wykonaj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey "w">
 
