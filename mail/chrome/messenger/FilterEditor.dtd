@@ -17,6 +17,9 @@
 <!ENTITY contextIncoming.label "Controleren van e-mail">
 <!ENTITY contextManual.label "Handmatig uitvoeren">
 <!ENTITY contextBoth.label "Controleren van e-mail of handmatig uitvoeren">
+<!ENTITY contextPostPlugin.label "Controleren van e-mail (na classificatie)">
+<!ENTITY contextPostPluginBoth.label "Controleren van e-mail (na classificatie) of handmatig uitvoeren">
+
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "v">
 
