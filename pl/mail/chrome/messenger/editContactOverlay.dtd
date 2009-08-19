@@ -1,5 +1,5 @@
-<!ENTITY editContactName.label            "Nazwa:">
-<!ENTITY editContactName.accesskey        "N">
+<!ENTITY editContactName.label            "Wyświetlaj jako:">
+<!ENTITY editContactName.accesskey        "W">
 <!ENTITY editContactEmail.label           "E-mail:">
 <!ENTITY editContactEmail.accesskey       "E">
 
