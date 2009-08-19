@@ -16,6 +16,8 @@
 <!ENTITY contextIncoming.label "Nachrichtenabruf">
 <!ENTITY contextManual.label "Manuellem Ausführen">
 <!ENTITY contextBoth.label "Nachrichtenabruf oder manuellem Ausführen">
+<!ENTITY contextPostPlugin.label "Nachrichtenabruf (nach Junk-Filter)">
+<!ENTITY contextPostPluginBoth.label "Nachrichtenabruf (nach Junk-Filter) oder manuellem Ausführen">
 <!ENTITY filterActionDesc.label "Auszuführende Aktionen:">
 <!ENTITY filterActionDesc.accesskey "A">
 
