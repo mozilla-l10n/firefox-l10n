@@ -119,3 +119,5 @@
 <!ENTITY  permCookie            "కుకీలను అమర్చు">
 <!ENTITY  permBlock             "నిరోధించు">
 <!ENTITY  permissionsFor        "దీనికొరకు అనుమతులు:">
+<!ENTITY  permAskAlways         "ఎల్లప్పుడు అడుగుము">
+<!ENTITY  permGeo               "స్థానాన్ని పంచుకొనుము">

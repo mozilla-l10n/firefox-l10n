@@ -1,18 +1,17 @@
-<!ENTITY restorepage.tabtitle       "Restore Session">
-<!ENTITY restorepage.pagetitle      "Would You Like to Restore Your Session?">
+<!ENTITY restorepage.tabtitle       "మునుపటి స్థితిని తిరిగివుంచు">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Your previous &brandShortName; session closed unexpectedly. We sincerely apologize for the inconvenience. You can restore the tabs and windows from your previous session, or start a new session if they are no longer needed.">
-<!ENTITY restorepage.remedies       "If &brandShortName; closes repeatedly:">
-<!ENTITY restorepage.dueToChrome    "Try disabling any recently added extensions in the Add-ons Manager.">
-<!ENTITY restorepage.dueToContent   "Try restoring your session without any Web pages you suspect might be causing the problem:">
-
-<!ENTITY restorepage.restoreButton  "Restore Previous Session">
+<!ENTITY restorepage.errorTitle     "దయచేసి క్షమించాలి.">
+<!ENTITY restorepage.problemDesc    " మీ విండోలు, టాబ్లు &brandShortName; తిరిగి వుంచటం కుదరలేదు.  దీనికి సాధారణ కారణం ఇటీవల తెరువబడిన వెబ్ పేజీ. ">
+<!ENTITY restorepage.tryThis        "తిరిగి ప్రయత్నించండి:">
+<!ENTITY restorepage.restoreSome    " సమస్యకు మూలమని మీరు అనుకొన్న ఒకటి లేక మరిన్న టాబులను తొలగించండి.">
+<!ENTITY restorepage.startNew       "సరికొత్త  విహరిణి  స్థితిని  మొదలుపెట్టండి. ">
+<!ENTITY restorepage.tryagainButton "తిరిగివుంచు">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Start New Session">
+<!ENTITY restorepage.cancelButton   "కొత్త  స్థితిని మొదలుపెట్టు">
 <!ENTITY restorepage.cancel.access  "S">
 
-<!ENTITY restorepage.restoreHeader  "Restore">
-<!ENTITY restorepage.listHeader     "Windows and Tabs">
+<!ENTITY restorepage.restoreHeader  "తిరిగివుంచు">
+<!ENTITY restorepage.listHeader     "విండోలు మరియు టాబులు">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "విండో &#37;S">
