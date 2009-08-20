@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "Atiestatīt rīkjoslu un kontroles elementu iestatījumus">
 <!ENTITY resetToolbars.accesskey "R">
 
-<!ENTITY resetBookmarks.label "Atiestatīt grāmatzīmes uz &brandShortName; noklusētajām">
-<!ENTITY resetBookmarks.accesskey "g">
+<!ENTITY deleteBookmarks.label        "Dzēst visas grāmatzīmes, kas nav rezerves kopijās">
+<!ENTITY deleteBookmarks.accesskey    "D">
 
 <!ENTITY resetUserPrefs.label "Atiestatīt visus iestatījumus uz &brandShortName; noklusētajiem">
 <!ENTITY resetUserPrefs.accesskey "i">

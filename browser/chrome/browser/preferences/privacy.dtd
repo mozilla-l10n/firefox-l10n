@@ -46,7 +46,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Atcerēsies vēsturi">
 <!ENTITY  historyHeader.dontremember.label "Nekad neatcerēsies vēsturi">
-<!ENTITY  historyHeader.custom.label       "Izmantos pielādotus vēstures iestatījumus">
+<!ENTITY  historyHeader.custom.label       "Izmantos pielāgotus vēstures iestatījumus">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.">

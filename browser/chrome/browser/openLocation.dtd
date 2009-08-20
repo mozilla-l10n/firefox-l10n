@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Izvēlieties failu...">
 <!ENTITY newWindow.label "Jaunā logā">
 <!ENTITY newTab.label "Jaunā cilnē">
-<!ENTITY topWindow.label "Esošajā logā">
+<!ENTITY topTab.label "Esošajā cilnē">
 <!ENTITY caption.label "Atvērt tīmekļa vietu">
 <!ENTITY openWhere.label "Atvērt:">
 <!ENTITY openBtn.label "Atvērt">
