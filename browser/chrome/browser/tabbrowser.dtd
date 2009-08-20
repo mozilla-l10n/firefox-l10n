@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "A">
 <!ENTITY  reloadTab.label        "ટેબ પુનઃલાવો">
 <!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  openTabInNewWindow.label    "નવી વિન્ડોમાં ખોલો">
+<!ENTITY  openTabInNewWindow.accesskey "W">
 <!ENTITY  listAllTabs.label      "બધી ટેબોની યાદી આપો">
 <!ENTITY  bookmarkAllTabs.label       "બધી ટેબો બુકમાર્ક કરો...">
 <!ENTITY  bookmarkAllTabs.accesskey   "T">
