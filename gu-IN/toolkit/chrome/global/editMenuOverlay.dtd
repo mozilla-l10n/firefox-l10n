@@ -16,7 +16,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "રદ કરો">
-<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY deleteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "બધુ પસંદ કરો">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">

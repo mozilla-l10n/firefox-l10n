@@ -95,6 +95,10 @@
 <!ENTITY bookmarksButton.tooltip        "તમારી બુકમાર્કો દર્શાવો">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "ઈતિહાસ">
@@ -428,3 +432,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY privateBrowsingCmd.start.label         "ખાનગી બ્રાઉઝીંગ શરૂ કરો">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.stop.label          "ખાનગી બ્રાઉઝીંગ અટકાવો">
+
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "છેલ્લે બંધ થયેલ વિન્ડો">
+<!ENTITY newTabButton.tooltip           "નવી ટેબ ખોલો">
+<!ENTITY urlbar.bookmark.emptyText    "બુકમાર્કો શોધો">
+<!ENTITY urlbar.bookmarkhistory.emptyText "બુકમાર્કો અને ઈતિહાસ શોધો">
+<!ENTITY urlbar.history.emptyText     "શોધ ઈતિહાસ">
+<!ENTITY urlbar.none.emptyText        "વેબ સરનામું લખો">

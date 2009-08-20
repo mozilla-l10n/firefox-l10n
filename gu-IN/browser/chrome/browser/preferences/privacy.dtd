@@ -57,3 +57,56 @@
 
 <!ENTITY  acceptThirdParty.label        "ત્રીજી-વ્યક્તિ કુકીઓ સ્વીકારો">
 <!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  clearOnClose.label             "જ્યારે &brandShortName; બંધ થાય ત્યારે ઇતિહાસ સાફ કરો">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "સુયોજનો…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ખાનગી બ્રાઉઝીંગની જેમ જ સુયોજનો વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઈતિહાસ યાદ રાખશે નહિં.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "તમે ">
+<!ENTITY  dontrememberActions.clearHistory.label "બધો વર્તમાન ઇતિહાસ પણ સાફ કરવા માંગતા હશો">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; કરશે:">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "ઈતિહાસ યાદ રાખો">
+<!ENTITY  historyHeader.dontremember.label "ક્યારેય ઈતિહાસ યાદ રાખશો નહિં">
+<!ENTITY  historyHeader.custom.label       "ઈતિહાસ માટે વૈવિધ્યપૂર્ણ સુયોજનો વાપરો">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  locationBar.label             "સ્થાન પટ્ટી">
+
+<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; ને ખાનગી બ્રાઉઝીંગ સત્રમાં આપોઆપ શરૂ કરો">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; તમે બ્રાઉઝ કરતાં જે વેબ સાઉટોની મુલાકાત લો તેમાંથી, ડાઉનલોડ, ફોર્મ અને શોધ ઈતિહાસ, અને કુકીઓને યાદ રાખશે.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "તમે ">
+<!ENTITY  rememberActions.clearHistory.label  "તમારો છેલ્લે ઈતિહાસ સાફ કરવા">
+<!ENTITY  rememberActions.middle.label        ", અથવા ">
+<!ENTITY  rememberActions.removeCookies.label "વ્યક્તિગત કુકીઓ દૂર કરવા માંગતા હશો">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "મારો બ્રાઉઝીંગ ઈતિહાસ ઓછામાં ઓછા">
+<!ENTITY  rememberHistory.pre.accesskey  "b">
+<!ENTITY  rememberHistory.post.label     "દિવસો માટે યાદ રાખો">
+
+<!ENTITY  rememberDownload.label         "ડાઉનલોડ ઇતિહાસ યાદ રાખો">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "શોધ અને ફોર્મ ઈતિહાસ યાદ રાખો">
+<!ENTITY  rememberSearchForm.accesskey   "f">
