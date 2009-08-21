@@ -56,7 +56,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent.label "Modo de navegación privada permanente">
-    2.23 +<!ENTITY  privateBrowsingPermanent.accesskey "p">
+<!ENTITY  privateBrowsingPermanent.accesskey "p">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
