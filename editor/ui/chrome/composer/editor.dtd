@@ -35,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY editorWindow.titlemodifier "Композер">
+<!ENTITY editorWindow.titlemodifier "Компоновщик">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "и">
