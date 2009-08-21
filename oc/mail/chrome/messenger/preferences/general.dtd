@@ -1,47 +1,35 @@
-<!ENTITY systemDefaults.label              "System Defaults">
-<!ENTITY alwaysCheckDefault.label          "Always check to see if &brandShortName; is the default mail client on startup">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Check Now">
-<!ENTITY checkNow.accesskey         "N">
+﻿<!ENTITY messengerStartPage.label         "Pagina d'aviada de &brandShortName;">
+<!ENTITY enableStartPage.label            "Afichar la pagina d'aviada al moment de l'aviada de &brandShortName;">
+<!ENTITY enableStartPage.accesskey        "A">
+<!ENTITY location.label                   "Adreça :">
+<!ENTITY location1.accesskey              "d">
+<!ENTITY useDefault.label                 "Reïnicializar">
+<!ENTITY useDefault.accesskey             "i">
 
-<!ENTITY messengerStartPage.label         "&brandShortName; Start Page">
-<!ENTITY enableStartPage.label            "When &brandShortName; launches, show the Start Page in the message area">
-<!ENTITY enableStartPage.accesskey        "W">
-<!ENTITY location.label                   "Location:">
-<!ENTITY location1.accesskey               "o">
-<!ENTITY useDefault.label                 "Restore Default">
-<!ENTITY useDefault.accesskey             "R">
+<!ENTITY bounceSystemDockIcon.label       "Animar l'icòna del dock">
+<!ENTITY bounceSystemDockIcon.accesskey   "n">
 
-<!ENTITY bounceSystemDockIcon.label       "Animate the dock icon">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY newMessagesArrive.label          "Quand un messatge novèl arriba :">
+<!ENTITY playSound.label                  "Jogar un son">
+<!ENTITY playSound1.accesskey             "J">
+<!ENTITY showAnimatedAlert.label          "Afichar un avertiment">
+<!ENTITY showAnimatedAlert.accesskey      "A">
+<!ENTITY customizeMailAlert.label         "Personalizar…">
+<!ENTITY customizeMailAlert.accesskey     "P">
 
-<!ENTITY newMessagesArrive.label          "When new messages arrive:">
-<!ENTITY playSound.label                  "Play a sound">
-<!ENTITY playSound1.accesskey              "d">
-<!ENTITY showAnimatedAlert.label          "Show an alert">
-<!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "Customize…">
-<!ENTITY customizeMailAlert.accesskey     "C">
-
-<!ENTITY play.label                       "Play">
-<!ENTITY play.accesskey                   "P">
-<!ENTITY systemsound.label                "Default system sound for new mail">
-<!ENTITY systemsoundMac.label             "System Alert Sound">
+<!ENTITY play.label                       "Jogar lo son">
+<!ENTITY play.accesskey                   "o">
+<!ENTITY systemsound.label                "Son del sistèma per « messatge novèl »">
+<!ENTITY systemsoundMac.label             "Son d'alèrta del sistèma">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
-<!ENTITY customsound.label                "Use the following sound file">
+<!ENTITY customsound.label                "Utilizar lo fichièr de son seguent :">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Browse…">
-<!ENTITY browse.accesskey                 "B">
+<!ENTITY browse.label                     "Percórrer…">
+<!ENTITY browse.accesskey                 "r">
 
-<!ENTITY addonsMgr.label                  "Add-ons">
-<!ENTITY manageAddonsDescWin.label        "Change options for your add-ons">
-<!ENTITY manageAddonsDescUnix2.label      "Change preferences for your add-ons">
-<!ENTITY manageAddons.label               "Manage Add-ons…">
-<!ENTITY manageAddons.accesskey           "M">
+<!ENTITY addonsMgr.label                  "Moduls complementaris">
+<!ENTITY manageAddonsDescWin.label        "Modificar las opcions per vòstres moduls complementaris">
+<!ENTITY manageAddonsDescUnix2.label      "Modificar las preferéncias per vòstres moduls complementaris">
+<!ENTITY manageAddons.label               "Gerir los moduls complementaris">
+<!ENTITY manageAddons.accesskey           "G">

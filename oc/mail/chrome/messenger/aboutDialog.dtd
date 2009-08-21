@@ -1,9 +1,10 @@
-<!ENTITY aboutDialog.title      "A prepaus de &brandFullName;">
-<!ENTITY credits.label          "Credits">
-<!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label        "&lt; A prepaus de &brandFullName;">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText          "&#169;1998-2008 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
-                                 Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 
-                                 reserved.">
+﻿<!ENTITY aboutDialog.title "A prepaus de &brandFullName;">
+<!ENTITY credits.label "Contributors">
+<!ENTITY credits.accesskey "C">
+<!ENTITY aboutLink.label "&lt; A prepaus de &brandShortName;">
+<!ENTITY aboutLink.accesskey "o">
+<!ENTITY aboutVersion "version">
+<!ENTITY copyrightText "&#169;1998-2009 Los contributors. Totes los dreches reservats. Mozilla Thunderbird
+                                    e los lògos Thunderbird son de marcas depausadas de la Mozilla Foundation.
+                                    Totes los dreches reservats.">
+<!ENTITY cmdCloseMac.commandKey "w">

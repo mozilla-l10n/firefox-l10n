@@ -1,7 +1,6 @@
-<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+﻿<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewSetupTitle.label "Message View Setup">
-<!ENTITY mailViewHeading.label "Message view name:">
+<!ENTITY mailViewSetupTitle.label "Preferéncias de las vistas de messatges">
+<!ENTITY mailViewHeading.label "Nom de la vista de messatges :">
 <!ENTITY mailViewHeading.accesskey "e">
-<!ENTITY searchTermCaption.label "When this view is selected, display only messages that:">
-
+<!ENTITY searchTermCaption.label "Quand aquesta vista es seleccionada, afichar unicament los messatges que :">

@@ -1,20 +1,20 @@
-<!ENTITY newsblogTitle.label "RSS Account Settings">
+﻿<!ENTITY accountTitle.label "Paramètres de compte">
 
-<!ENTITY biffStart.label "Check for new articles every ">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "minutes">
+<!ENTITY biffStart.label "Verificar los articles novèls cada ">
+<!ENTITY biffStart.accesskey "V">
+<!ENTITY biffEnd.label "minutas">
 
-<!ENTITY loginAtStartup.label "Check for new articles at startup"> 
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.label "Verificar los articles novèls a l'aviada"> 
+<!ENTITY loginAtStartup.accesskey "r">
 
-<!ENTITY useQuickMode.label "By default, show the article summary instead of loading the web page"> 
-<!ENTITY useQuickMode.accesskey "B">
+<!ENTITY useQuickMode.label "Per defaut, afichar lo resumit de l'article puslèu que de telecargar la pagina Web"> 
+<!ENTITY useQuickMode.accesskey "P">
 
-<!ENTITY manageSubscriptions.label "Manage Subscriptions…"> 
-<!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY manageSubscriptions.label "Gerir los abonaments…"> 
+<!ENTITY manageSubscriptions.accesskey "G">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "News &amp; Blogs">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS News &amp; Blogs">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY feeds.accountName "Blogs e novèlas">
+<!ENTITY feeds.wizardShortName "Flux">
+<!ENTITY feeds.wizardLongName "Blogs e novèlas">
+<!ENTITY feeds.wizardLongName.accesskey "B">

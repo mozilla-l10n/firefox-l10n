@@ -1,8 +1,8 @@
-<!ENTITY viewLog.title "Filter Log">
-<!ENTITY viewLogInfo.text "The Filter Log documents the filters that have been run for this account. Use the check box below to enable logging.">
-<!ENTITY clearLog.label "Clear Log">
-<!ENTITY clearLog.accesskey "C">
-<!ENTITY enableLog.label "Enable the Filter Log">
-<!ENTITY enableLog.accesskey "E">
-<!ENTITY closeLog.label "Close">
-<!ENTITY closeLog.accesskey "o">
+﻿<!ENTITY viewLog.title "Jornal de filtratge">
+<!ENTITY viewLogInfo.text "Lo jornal de filtratge consigna quins filtres son estats executats per aqueste compte. Utilizatz la casa de marcar çaijós per activar lo jornal.">
+<!ENTITY clearLog.label "Voidar lo jornal">
+<!ENTITY clearLog.accesskey "V">
+<!ENTITY enableLog.label "Activar lo jornal de filtratge">
+<!ENTITY enableLog.accesskey "A">
+<!ENTITY closeLog.label "Fermer">
+<!ENTITY closeLog.accesskey "F">

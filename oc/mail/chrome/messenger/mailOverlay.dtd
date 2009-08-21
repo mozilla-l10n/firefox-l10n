@@ -1,8 +1,7 @@
-<!ENTITY  newMessageCmd2.key              "N">
+﻿<!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "M">
-<!ENTITY  newMessageCmd.label             "Message">
-<!ENTITY  newMessageCmd.accesskey         "m">
+<!ENTITY  newMessageCmd.label             "Messatge">
+<!ENTITY  newMessageCmd.accesskey         "M">
  
-<!ENTITY  newCardCmd.label                "Address Book Card…">
-<!ENTITY  newCardCmd.accesskey            "c">
- 
+<!ENTITY  newContactCmd.label             "Contacte del quasernet d'adreças…">
+<!ENTITY  newContactCmd.accesskey         "C">

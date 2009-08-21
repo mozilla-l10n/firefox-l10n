@@ -1,6 +1,6 @@
-<!ENTITY junkLog.title "Junk Mail Log">
-<!ENTITY junkLogInfo.label "Log of junk mail control activity.">
-<!ENTITY clearLog.label "Clear Log">
-<!ENTITY clearLog.accesskey "C">
-<!ENTITY closeLog.label "Close">
-<!ENTITY closeLog.accesskey "o">
+﻿<!ENTITY junkLog.title "Jornal dels indesirables">
+<!ENTITY junkLogInfo.label "Jornal d'activitat del contraròtle dels indesirables.">
+<!ENTITY clearLog.label "Escafar lo jornal">
+<!ENTITY clearLog.accesskey "E">
+<!ENTITY closeLog.label "Tampar">
+<!ENTITY closeLog.accesskey "F">

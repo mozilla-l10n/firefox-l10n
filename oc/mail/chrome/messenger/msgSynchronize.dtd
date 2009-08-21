@@ -1,19 +1,19 @@
-<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+﻿<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Download and Sync Messages">
-<!ENTITY MsgSelect.label "Items for Offline Use">
-<!ENTITY MsgSyncDesc.label "If you have already selected mail folders or newsgroups for offline use, you can download and/or sync them now. Otherwise, use the &quot;Select&quot; button to choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSyncDirections.label "Download and/or sync the following:">
-<!ENTITY syncTypeMail.label "Mail messages">
-<!ENTITY syncTypeMail.accesskey "M">
-<!ENTITY syncTypeNews.label "Newsgroup messages">
-<!ENTITY syncTypeNews.accesskey "N">
-<!ENTITY sendMessage.label "Send Unsent messages">
-<!ENTITY sendMessage.accesskey "S">
-<!ENTITY workOffline.label "Work offline once download and/or sync is complete">
-<!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "Select…">
-<!ENTITY selectButton.accesskey "E">
-<!ENTITY MsgSelectDesc.label "Choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSelectInd.label "Download">
-<!ENTITY MsgSelectItems.label "Folders and Newsgroups">
+<!ENTITY MsgSynchronize.label "Telecargar e sincronizar los messatges">
+<!ENTITY MsgSelect.label "Elements per una utilizacion fòra linha">
+<!ENTITY MsgSyncDesc.label "S'avètz ja seleccionat un dorsièr de corrièr o un grop per una utilizacion fòra linha, los podètz telecargar e/o los sincronizar ara. Siquenon, utilizar lo boton « Seleccionar » per causir los dorsièrs o gropes d'utilizar.">
+<!ENTITY MsgSyncDirections.label "Telecargar e/o sincronizar aquò :">
+<!ENTITY syncTypeMail.label "Corrièrs">
+<!ENTITY syncTypeMail.accesskey "C">
+<!ENTITY syncTypeNews.label "Messatges dels gropes">
+<!ENTITY syncTypeNews.accesskey "F">
+<!ENTITY sendMessage.label "Mandar los messatges en espèra">
+<!ENTITY sendMessage.accesskey "E">
+<!ENTITY workOffline.label "Se desconnectar a la fin del telecargament e/o de la sincronizacion.">
+<!ENTITY workOffline.accesskey "D">
+<!ENTITY selectButton.label "Seleccionar…">
+<!ENTITY selectButton.accesskey "S">
+<!ENTITY MsgSelectDesc.label "Causir los dorsièrs de corrièr e los gropes d'utilizar fòra linha.">
+<!ENTITY MsgSelectInd.label "Telecargar">
+<!ENTITY MsgSelectItems.label "Dorsièrs e gropes">

@@ -1,23 +1,22 @@
-<!-- extracted from am-advanced.xul -->
+﻿<!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
-
+<!ENTITY smtpServer.label "Servidor SMTP">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
+<!ENTITY smtpDesc.label "Mentre que siá possible d'especificar mai d'un servidor per l'expedicion del corrièr (SMTP), es recomandat sonque pels utilizaires avançats. Aquò pòt en efièch pausar de problèmas al moment del mandadís dels messatges.">
 
-<!ENTITY smtpListAdd.label  "Add…">
-<!ENTITY smtpListAdd.accesskey  "d">
-<!ENTITY smtpListEdit.label "Edit…">
-<!ENTITY smtpListEdit.accesskey "E">
-<!ENTITY smtpListDelete.label "Remove">
-<!ENTITY smtpListDelete.accesskey "m">
-<!ENTITY smtpListSetDefault.label "Set Default">
-<!ENTITY smtpListSetDefault.accesskey "t">
-
-<!ENTITY serverDescription.label "Description: ">
-<!ENTITY serverName.label "Server Name: ">
-<!ENTITY serverPort.label "Port: ">
-<!ENTITY userName.label   "User Name: ">
-<!ENTITY useSecureConnection.label   "Secure Connection: ">
-<!ENTITY useSecureAuthentication.label   "Secure Authentication: ">
+<!ENTITY smtpListAdd.label  "Apondre…">
+<!ENTITY smtpListAdd.accesskey  "A">
+<!ENTITY smtpListEdit.label "Modificar…">
+<!ENTITY smtpListEdit.accesskey "M">
+<!ENTITY smtpListDelete.label "Suprimir">
+<!ENTITY smtpListDelete.accesskey "S">
+<!ENTITY smtpListSetDefault.label "Utilizar per defaut">
+<!ENTITY smtpListSetDefault.accesskey "d">
+ 
+<!ENTITY serverDescription.label "Descripcion : ">
+<!ENTITY serverName.label "Nom del servidor : ">
+<!ENTITY serverPort.label "Pòrt : ">
+<!ENTITY userName.label   "Nom d'utilizaire : ">
+<!ENTITY connectionSecurity.label "Seguretat de la connexion : ">
+<!ENTITY useSecureAuthentication.label   "Autentificacion securizada : ">

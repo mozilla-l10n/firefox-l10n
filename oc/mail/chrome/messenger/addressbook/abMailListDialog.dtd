@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -37,21 +37,20 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Mailing List">
+	<!ENTITY mailListWindow.title		"Lista de difusion">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Add to: ">
+<!ENTITY addToAddressBook.label	"Apondre a :">
 
-<!ENTITY ListName.label                 "List Name: ">
-<!ENTITY ListNickName.label             "List Nickname: ">
-<!ENTITY ListDescription.label          "Description: ">
+<!ENTITY ListName.label "Nom de la lista :">
+<!ENTITY ListNickName.label "Escais de la lista :">
+<!ENTITY ListDescription.label "Descripcion :">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Type email addresses to add them to the mailing list:">
-<!ENTITY UpButton.label                 "Move Up">
-<!ENTITY DownButton.label               "Move Down">
+<!ENTITY AddressTitle.label "Picatz las adreças d'apondre a la lista de difusion :">
+<!ENTITY UpButton.label "Cap amont">
+<!ENTITY DownButton.label "Cap aval">
 
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "N">
-<!ENTITY ListDescription.accesskey      "e">
-
+<!ENTITY addToAddressBook.accesskey "A">
+<!ENTITY ListName.accesskey "L">
+<!ENTITY ListNickName.accesskey "P">
+<!ENTITY ListDescription.accesskey "e">

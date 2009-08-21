@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Junk Settings">
-<!ENTITY trainingWarning.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages.">
-<!ENTITY level.label "Enable adaptive junk mail controls for this account">
-<!ENTITY level.accesskey "E">
+﻿<!ENTITY junkSettings.label "Paramètres pels indesirables">
+<!ENTITY trainingWarning.label "Quand aquesta foncionalitat es activada, vos cal entraïnar d'en primièr &brandShortName; a identificar los corrièrs indesirables en utilizant lo boton « Indesirables » de la barra d'espleches per marcar los messatges coma indesirables o pas. Vos cal identificar a l'encòp los corrièrs indesirables e los qu'o son pas.">
+<!ENTITY level.label "Activar los contraròtles adaptatius de corrièrs indesirables per aqueste compte">
+<!ENTITY level.accesskey "A">
 
-<!ENTITY move.label "Move new junk messages to:">
-<!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
-<!ENTITY junkFolderOn.accesskey "J">
-<!ENTITY otherFolder.label "Other:">
-<!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Automatically delete junk mail older than">
-<!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "days">
+<!ENTITY move.label "Desplaçar los corrièrs indesirables novèls cap a :">
+<!ENTITY move.accesskey "D">
+<!ENTITY junkFolderOn.label "Dorsièr « Indesirables » sus :">
+<!ENTITY junkFolderOn.accesskey "I">
+<!ENTITY otherFolder.label "Autre :">
+<!ENTITY otherFolder.accesskey "u">
+<!ENTITY purge1.label "Suprimir automaticament los corrièrs indesirables qu'an mai de ">
+<!ENTITY purge1.accesskey "S">
+<!ENTITY purge2.label "jorns">
 
-<!ENTITY whitelist.label "Do not mark mail as junk if the sender is in: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelist.label "Marcar pas los messatges coma indesirables se l'expeditor es dins : ">
+<!ENTITY whitelist.accesskey "N">
 
-<!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.label "Se fisar de las entèstas de corrièr indesirable plaçats per : ">
+<!ENTITY ispHeaders.accesskey "f">

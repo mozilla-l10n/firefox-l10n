@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -34,35 +34,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY GeneratedName.label                   "Name">
-<!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "Email">
-<!ENTITY PrimaryEmail.accesskey                "E">
-<!ENTITY Company.label                         "Organization">
-<!ENTITY Company.accesskey                     "z">
-<!ENTITY _PhoneticName.label                   "Phonetic Name">
-<!ENTITY _PhoneticName.accesskey               "o">
-<!ENTITY NickName.label                        "Nickname">
-<!ENTITY NickName.accesskey                    "i">
-<!ENTITY SecondEmail.label                     "Additional Email">
-<!ENTITY SecondEmail.accesskey                 "l">
-<!ENTITY Department.label                      "Department">
-<!ENTITY Department.accesskey                  "r">
-<!ENTITY JobTitle.label                        "Title">
-<!ENTITY JobTitle.accesskey                    "T">
-<!ENTITY CellularNumber.label                  "Mobile">
-<!ENTITY CellularNumber.accesskey              "M">
-<!ENTITY PagerNumber.label                     "Pager">
-<!ENTITY PagerNumber.accesskey                 "P">
-<!ENTITY FaxNumber.label                       "Fax">
-<!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Home Phone">
-<!ENTITY HomePhone.accesskey                   "H">
-<!ENTITY WorkPhone.label                       "Work Phone">
-<!ENTITY WorkPhone.accesskey                   "W">
-<!ENTITY ScreenName.label                      "Screen Name">
-<!ENTITY ScreenName.accesskey                  "S">
-<!ENTITY sortAscending.label                   "Ascending">
-<!ENTITY sortAscending.accesskey               "A">
-<!ENTITY sortDescending.label                  "Descending">
-<!ENTITY sortDescending.accesskey              "D">
+<!ENTITY GeneratedName.label "Nom">
+<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY PrimaryEmail.label "Adreça electronica">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY Company.label "Societat">
+<!ENTITY Company.accesskey "c">
+<!ENTITY _PhoneticName.label "Nom fonetic">
+<!ENTITY _PhoneticName.accesskey "o">
+<!ENTITY NickName.label "Surnom">
+<!ENTITY NickName.accesskey "s">
+<!ENTITY SecondEmail.label "Adreça alternativa">
+<!ENTITY SecondEmail.accesskey "d">
+<!ENTITY Department.label "Servici">
+<!ENTITY Department.accesskey "r">
+<!ENTITY JobTitle.label "Foncion">
+<!ENTITY JobTitle.accesskey "T">
+<!ENTITY CellularNumber.label "Portable">
+<!ENTITY CellularNumber.accesskey "b">
+<!ENTITY PagerNumber.label "Pager">
+<!ENTITY PagerNumber.accesskey "P">
+<!ENTITY FaxNumber.label "Fax">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY HomePhone.label "Tel. domicili">
+<!ENTITY HomePhone.accesskey "m">
+<!ENTITY WorkPhone.label "Tel. trabalh">
+<!ENTITY WorkPhone.accesskey "l">
+<!ENTITY ScreenName.label "Escais AIM">
+<!ENTITY ScreenName.accesskey "u">
+<!ENTITY sortAscending.label  "Per òrdre creissent">
+<!ENTITY sortAscending.accesskey  "A">
+<!ENTITY sortDescending.label "Per òrdre descreissent">
+<!ENTITY sortDescending.accesskey "D">

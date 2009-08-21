@@ -1,75 +1,77 @@
-<!ENTITY itemGeneral.label       "General">
-<!ENTITY itemDisplay.label       "Reading &amp; Display">
-<!ENTITY itemUpdate.label        "Update">
-<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
-<!ENTITY itemCertificates.label  "Certificates">
+﻿<!ENTITY itemGeneral.label       "General">
+<!ENTITY itemDisplay.label       "Lectura e afichatge">
+<!ENTITY itemUpdate.label        "Mesa a jorn">
+<!ENTITY itemNetworking.label    "Ret e espaci de disc">
+<!ENTITY itemCertificates.label  "Certificats">
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Enable Message Indexer">
-<!ENTITY enableGloda.accesskey         "i">
-<!ENTITY showCondensedAddresses.label  "Show only display name for people in my address book">
-<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY enableGlodaSearch.label "Activar la recèrca e l'indexacion globalas">
+<!ENTITY enableGlodaSearch.accesskey "c">
+<!ENTITY systemDefaults.label "Paramètres del sistèma per defaut">
+<!ENTITY alwaysCheckDefault.label "Verificar totjorn se &brandShortName; es lo client de messatjariá per defaut a l'aviada :">
+<!ENTITY alwaysCheckDefault.accesskey "T">
+<!ENTITY checkNow.label "Verificar ara">
+<!ENTITY checkNow.accesskey "V">
+<!ENTITY configEditDesc.label "Configuracion avançada">
+<!ENTITY configEdit.label "Editor de configuracion…">
+<!ENTITY configEdit.accesskey "d">
+<!ENTITY returnReceiptsInfo.label "Gestion dels acusats de recepcion dins &brandShortName;">
+<!ENTITY showReturnReceipts.label "Accusats de recepcion…">
+<!ENTITY showReturnReceipts.accesskey "A">
 
-<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption "Lectura">
+<!ENTITY display.caption "Afichatge">
+<!ENTITY showCondensedAddresses.label "Afichar pas que lo nom per las personas que se tròban dins lo quasernet d'adreças">
+<!ENTITY showCondensedAddresses.accesskey "N">
+
+<!ENTITY autoMarkAsRead.label          "Marcar automaticament los messatges coma legits">
+<!ENTITY autoMarkAsRead.accesskey      "M">
+<!ENTITY markAsReadNoDelay.label       "Tre l'afichatge">
+<!ENTITY markAsReadNoDelay.accesskey   "D">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "After displaying for">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "seconds">
-<!ENTITY showFolderColumns.label       "Show expanded columns in the folder pane">
-<!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY openMsgIn.label               "Open messages in:">
-<!ENTITY reuseExpRadio0.label          "A new message window">
-<!ENTITY reuseExpRadio0.accesskey      "i">
-<!ENTITY reuseExpRadio1.label          "An existing message window">
-<!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY configEditDesc.label          "Advanced Configuration">
-<!ENTITY configEdit.label              "Config Editor…">
-<!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
-<!ENTITY showReturnReceipts.label      "Return Receipts…">
-<!ENTITY showReturnReceipts.accesskey  "R">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Reading">
-<!ENTITY display.caption                "Display">
+<!ENTITY markAsReadDelay.label         "Aprèp un relambi de">
+<!ENTITY markAsReadDelay.accesskey     "A">
+<!ENTITY secondsLabel.label            "segondas">
+<!ENTITY openMsgIn.label               "Dobrir los messatges dins :">
+<!ENTITY reuseExpRadio0.label          "una fenèstra novèla">
+<!ENTITY reuseExpRadio0.accesskey      "U">
+<!ENTITY reuseExpRadio1.label          "una fenèstra existenta">
+<!ENTITY reuseExpRadio1.accesskey      "e">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatically check for updates to:">
+<!ENTITY autoCheck.label                "Recercar automaticament de mesas a jorn per :">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Installed Add-ons">
-<!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY checkNow.label                 "Check Now…">
-<!ENTITY whenUpdatesFound.label         "When updates to &brandShortName; are found,">
-<!ENTITY modeAskMe.label                "Ask me what I want to do">
-<!ENTITY modeAskMe.accesskey            "k">
-<!ENTITY modeAutomatic.label            "Automatically download and install the update">
-<!ENTITY modeAutomatic.accesskey        "m">
-<!ENTITY modeAutoAddonWarn.label        "Warn me if this will disable any of my add-ons">
-<!ENTITY modeAutoAddonWarn.accesskey    "-">
-<!ENTITY showUpdates.label              "Show Update History">
-<!ENTITY showUpdates.accesskey          "y">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAddonsUpdate.label       "los moduls installats">
+<!ENTITY enableAddonsUpdate.accesskey   "m">
+<!ENTITY whenUpdatesFound.label         "Quand de mesas a jorn per &brandShortName; son disponiblas :">
+<!ENTITY modeAskMe.label                "demandar çò que cal far">
+<!ENTITY modeAskMe.accesskey            "d">
+<!ENTITY modeAutomatic.label            "telecargar e installar automaticament las mesas a jorn">
+<!ENTITY modeAutomatic.accesskey        "c">
+<!ENTITY modeAutoAddonWarn.label        "avisar s'aquò desactiva de moduls">
+<!ENTITY modeAutoAddonWarn.accesskey    "v">
+<!ENTITY showUpdates.label              "Afichar l'istoric de las mesas a jorn">
+<!ENTITY showUpdates.accesskey          "A">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Settings…">
-<!ENTITY showSettings.accesskey        "n">
-<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
-<!ENTITY connectionsInfo.caption       "Connection">
-<!ENTITY offlineInfo.caption           "Offline">
-<!ENTITY offlineInfo.label             "Configure offline settings">
-<!ENTITY showOffline.label             "Offline…">
-<!ENTITY showOffline.accesskey         "O">
+<!ENTITY showSettings.label            "Paramètres…">
+<!ENTITY showSettings.accesskey        "P">
+<!ENTITY proxiesConfigure.label        "Determina cossí &brandShortName; accedís a Internet">
+<!ENTITY connectionsInfo.caption       "Connexion">
+<!ENTITY offlineInfo.caption           "Fòra linha">
+<!ENTITY offlineInfo.label             "Configurar los paramètres fòra linha">
+<!ENTITY showOffline.label             "Fòra linha…">
+<!ENTITY showOffline.accesskey         "H">
 
-<!ENTITY Diskspace "Disk Space">
-<!ENTITY offlineCompact.label "Compact folders when it will save over">
-<!ENTITY offlineCompact.accesskey "v">
-<!ENTITY kb.label "KB">
+<!ENTITY Diskspace "Espaci de disc">
+<!ENTITY offlineCompact.label "Compactar los dorsièrs quand aquò estalvia al mens">
+<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY kb.label "Ko">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -77,18 +79,19 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Use up to">
+
+<!ENTITY useCacheBefore.label            "Utilizar fins a">
 <!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB of space for the cache">
-<!ENTITY clearCacheNow.label             "Clear Now">
-<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY useCacheAfter.label             "Mo d'espaci de disc per l'amagatal">
+<!ENTITY clearCacheNow.label             "Voidar l'amagatal ara">
+<!ENTITY clearCacheNow.accesskey         "V">
 
 <!-- Certificates -->
-<!ENTITY viewCertificates.label         "View Certificates">
-<!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewCRLs.label                 "Revocation Lists">
-<!ENTITY viewCRLs.accesskey             "e">
-<!ENTITY validation.label               "Validation">
-<!ENTITY validation.accesskey           "d">
-<!ENTITY viewSecurityDevices.label      "Security Devices">
-<!ENTITY viewSecurityDevices.accesskey  "u">
+<!ENTITY viewCertificates.label        "Veire los certificats">
+<!ENTITY viewCertificates.accesskey    "o">
+<!ENTITY viewCRLs.label                "Listas de revocacion">
+<!ENTITY viewCRLs.accesskey            "L">
+<!ENTITY validation.label              "Validacion">
+<!ENTITY validation.accesskey          "V">
+<!ENTITY viewSecurityDevices.label     "Periferics de seguretat">
+<!ENTITY viewSecurityDevices.accesskey "P">

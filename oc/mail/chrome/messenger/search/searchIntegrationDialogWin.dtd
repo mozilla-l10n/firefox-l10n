@@ -1,6 +1,6 @@
-<!ENTITY searchIntegration.engineName "Windows Search">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; Integration">
-<!ENTITY searchIntegration.description "Would you like to enable &searchIntegration.engineName; to index and search through &brandShortName; mail and news messages?">
+﻿<!ENTITY searchIntegration.engineName "Recèrca Windows">
+<!ENTITY searchIntegration.title "&searchIntegration.engineName; integrada">
+<!ENTITY searchIntegration.description "Volètz autorizar la &searchIntegration.engineName; a indexar e recercar dins &brandShortName; los corrièrs electronics e los messatges dels gropes de discussion ?">
 
-<!ENTITY searchIntegration.accept "Enable &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Don't Enable &searchIntegration.engineName;">
+<!ENTITY searchIntegration.accept "Activar la &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Activar pas la &searchIntegration.engineName;">

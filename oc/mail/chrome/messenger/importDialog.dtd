@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -44,36 +44,44 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Import">
-<!ENTITY importDialog.allTitle    "Import everything">
-<!ENTITY importDialog.mailTitle   "Mail">
-<!ENTITY importDialog.addressbookTitle "Address Books">
-<!ENTITY importDialog.settingsTitle "Settings">
-<!ENTITY importDialog.filtersTitle "Filters">
+<!ENTITY importDialog.windowTitle "Importar">
+<!ENTITY importAll.label "Importar tot">
+<!ENTITY importAll.accesskey "T">
+<!ENTITY importMail.label "Corrièr">
+<!ENTITY importMail.accesskey "C">
+<!ENTITY importAddressbook.label "Quasernets d'adreças">
+<!ENTITY importAddressbook.accesskey "a">
+<!ENTITY importSettings.label "Paramètres">
+<!ENTITY importSettings.accesskey "P">
+<!ENTITY importFilters.label "Filtres">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "&brandShortName; Import Wizard">
-<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importTitle.label        "Assistent d'importacion de &brandShortName;">
+<!ENTITY importShortDesc.label    "Importar lo corrièr, los paramètres, los quasernets d'adreças e los filtres d'autres logicials">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+<!ENTITY importDescription1.label "Aqueste assistent importarà dins &brandShortName; lo corrièr, los quasernets d'adreças, las preferéncias e/o los filtres d'autres logicials de corrièr e de quasernets d'adreças en format comun.">
+<!ENTITY importDescription2.label "Un còp importats, aquelas donadas seràn accessiblas dempuèi &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Please select the type of file that you would like to import:">
+<!ENTITY selectDescription.label  "Seleccionats lo tipe de fichièr d'importar :">
+<!ENTITY selectDescription.accesskey "V">
 
-<!ENTITY back.label               "&lt; Back">
-<!ENTITY forward.label            "Next &gt;">
-<!ENTITY finish.label             "Finish">
-<!ENTITY cancel.label             "Cancel">
+<!ENTITY back.label               "&lt; Precedent">
+<!ENTITY forward.label            "Seguent &gt;">
+<!ENTITY finish.label             "Acabar">
+<!ENTITY cancel.label             "Annuler">
 
-<!ENTITY select.label             "or select the type of material to import:">
+<!ENTITY select.label             "o seleccionatz las donadas que volètz importar :">
 
-<!ENTITY title.label              "Title">
-<!ENTITY processing.label         "Importing…">
+<!ENTITY title.label              "Títol">
+<!ENTITY processing.label         "Tractament en cors…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x has one mailing address for each card, while &brandShortName; has two (Home and Work).">
-<!ENTITY FieldDiscInputText2.label  "Select the category in which you want to store the imported mailing addresses:">
-<!ENTITY FieldDiscWarning.label  "This category will be used for all the entries of the selected address book: ">
-<!ENTITY importDialog.homeTitle  "Home">
-<!ENTITY importDialog.workTitle  "Work">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x a pas qu'una adreça per cada ficha mentre que &brandShortName; n'a doas (personala e professionala).">
+<!ENTITY FieldDiscInputText2.label  "Seleccionatz la categoria dins la quala volètz estocar las adreças importadas :">
+<!ENTITY FieldDiscWarning.label  "Aquesta categoria serà utilizada per totas las entradas del quasernet d'adreças seleccionat : ">
+<!ENTITY importHome.label "Personala">
+<!ENTITY importHome.accesskey "P">
+<!ENTITY importWork.label "Professionala">
+<!ENTITY importWork.accesskey "r">

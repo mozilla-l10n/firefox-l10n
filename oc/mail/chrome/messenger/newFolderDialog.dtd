@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -35,14 +35,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
+
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "New Folder">
-<!ENTITY name.label                 "Name:">
+<!ENTITY newFolderDialog.title      "Dorsièr novèl">
+<!ENTITY name.label                 "Nom :">
 <!ENTITY name.accesskey             "n">
-<!ENTITY description.label          "Create as a subfolder of:">
+<!ENTITY description.label          "Crear coma sosdorsièr de :">
 <!ENTITY description.accesskey      "c">
-<!ENTITY folderRestriction1.label   "This server restricts folders to two special kinds.">
-<!ENTITY folderRestriction2.label   "Allow your new folder to contain:">
-<!ENTITY foldersOnly.label          "Folders Only">
-<!ENTITY messagesOnly.label         "Messages Only">
+<!ENTITY folderRestriction1.label   "Aqueste servidor accèpta pas que dos tipes especials de dorsièr.">
+<!ENTITY folderRestriction2.label   "Permetre a vòstre dorsièr novèl de conténer :">
+<!ENTITY foldersOnly.label          "de dorsièrs solament">
+<!ENTITY messagesOnly.label         "de messatges solament">

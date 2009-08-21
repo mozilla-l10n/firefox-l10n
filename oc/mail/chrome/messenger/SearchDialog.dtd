@@ -1,72 +1,72 @@
-<!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "Search for messages in:">
-<!ENTITY searchHeading.accesskey     "h">
-<!ENTITY searchSubfolders.label      "Search subfolders">
-<!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY resetButton.label           "Clear">
-<!ENTITY resetButton.accesskey       "C">
-<!ENTITY openButton.label            "Open">
-<!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "Delete">
-<!ENTITY deleteButton.accesskey      "D">
-<!ENTITY searchDialogTitle.label     "Search Messages">
-<!ENTITY results.label               "Results">
-<!ENTITY fileHereMenu.label          "File Here">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "File">
-<!ENTITY fileButton.accesskey        "i">
-<!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Open Message Folder">
-<!ENTITY goToFolderButton.accesskey  "r">
-<!ENTITY saveAsVFButton.label        "Save as Search Folder">
+﻿<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Recercar de messatges dins :">
+<!ENTITY searchHeading.accesskey     "d">
+<!ENTITY searchSubfolders.label      "Recercar dins los sosdorsièrs">
+<!ENTITY searchSubfolders.accesskey  "s">
+<!ENTITY resetButton.label           "Escafar">
+<!ENTITY resetButton.accesskey       "f">
+<!ENTITY openButton.label            "Dobrir">
+<!ENTITY openButton.accesskey        "o">
+<!ENTITY deleteButton.label          "Escafar">
+<!ENTITY deleteButton.accesskey      "e">
+<!ENTITY searchDialogTitle.label "Recercar los messatges">
+<!ENTITY results.label               "Resultats">
+<!ENTITY fileHereMenu.label          "Classar aicí">
+<!ENTITY fileHereMenu.accesskey      "C">
+<!ENTITY fileButton.label            "Classar">
+<!ENTITY fileButton.accesskey        "l">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY goToFolderButton.label      "Anar al dorsièr del messatge">
+<!ENTITY goToFolderButton.accesskey  "l">
+<!ENTITY saveAsVFButton.label        "Salvar coma dorsièr virtual">
 <!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label       "Search in:">
-<!ENTITY abSearchHeading.accesskey   "h">
-<!ENTITY propertiesButton.label      "Properties">
+<!ENTITY abSearchHeading.label       "Recercar dins :">
+<!ENTITY abSearchHeading.accesskey   "d">
+<!ENTITY propertiesButton.label      "Proprietats">
 <!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "Write">
-<!ENTITY composeButton.accesskey     "W">
-<!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
+<!ENTITY composeButton.label         "Escriure">
+<!ENTITY composeButton.accesskey     "r">
+<!ENTITY abSearchDialogTitle.label   "Recèrca avançada dins lo quasernet d'adreças">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Thread">
-<!ENTITY fromColumn.label "From">
-<!ENTITY recipientColumn.label "Recipient">
-<!ENTITY subjectColumn.label "Subject">
-<!ENTITY dateColumn.label "Date">
-<!ENTITY priorityColumn.label "Priority">
-<!ENTITY tagsColumn.label "Tags">
-<!ENTITY accountColumn.label "Account">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Size">
-<!ENTITY junkStatusColumn.label "Junk Status">
-<!ENTITY unreadColumn.label "Unread">
+<!ENTITY threadColumn.label "Discussion">
+<!ENTITY fromColumn.label "Expeditor">
+<!ENTITY recipientColumn.label "Destinatari">
+<!ENTITY subjectColumn.label "Subjècte">
+<!ENTITY dateColumn.label "Data">
+<!ENTITY priorityColumn.label "Prioritat">
+<!ENTITY tagsColumn.label "Etiquetas">
+<!ENTITY accountColumn.label "Compte">
+<!ENTITY statusColumn.label "Estat">
+<!ENTITY sizeColumn.label "Talha">
+<!ENTITY junkStatusColumn.label "Estatut indesirable">
+<!ENTITY unreadColumn.label "Pas legit">
 <!ENTITY totalColumn.label "Total">
-<!ENTITY readColumn.label "Read">
-<!ENTITY receivedColumn.label "Received">
-<!ENTITY starredColumn.label "Starred">
-<!ENTITY locationColumn.label "Location">
-<!ENTITY idColumn.label "Order Received">
+<!ENTITY readColumn.label "Legit">
+<!ENTITY receivedColumn.label "Recebut">
+<!ENTITY starredColumn.label "Seguit">
+<!ENTITY locationColumn.label "Adreça">
+<!ENTITY idColumn.label "Òrdre de recepcion">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Click to select columns to display">
-<!ENTITY threadColumn.tooltip "Click to display message threads"> 
-<!ENTITY fromColumn.tooltip "Click to sort by from">
-<!ENTITY recipientColumn.tooltip "Click to sort by recipient">
-<!ENTITY subjectColumn.tooltip "Click to sort by subject">
-<!ENTITY dateColumn.tooltip "Click to sort by date">
-<!ENTITY priorityColumn.tooltip "Click to sort by priority">
-<!ENTITY tagsColumn.tooltip "Click to sort by tags">
-<!ENTITY accountColumn.tooltip "Click to sort by account">
-<!ENTITY statusColumn.tooltip "Click to sort by status">
-<!ENTITY sizeColumn.tooltip "Click to sort by size">
-<!ENTITY junkStatusColumn.tooltip "Click to sort by junk status">
-<!ENTITY unreadColumn.tooltip "Number of unread messages in thread">
-<!ENTITY totalColumn.tooltip "Total number of messages in thread">
-<!ENTITY readColumn.tooltip "Click to sort by read">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
-<!ENTITY starredColumn.tooltip "Click to sort by star">
-<!ENTITY locationColumn.tooltip "Click to sort by location">
-<!ENTITY idColumn.tooltip "Click to sort by order received">
+<!ENTITY columnChooser.tooltip "Clicatz per causir las colomnas d'afichar">
+<!ENTITY threadColumn.tooltip "Clicatz per afichar los fials de discussion"> 
+<!ENTITY fromColumn.tooltip "Clicatz per triar per expeditor">
+<!ENTITY recipientColumn.tooltip "Clicatz per triar per destinatari">
+<!ENTITY subjectColumn.tooltip "Clicatz per triar per subjècte">
+<!ENTITY dateColumn.tooltip "Clicatz per triar per data">
+<!ENTITY priorityColumn.tooltip "Clicatz per triar per prioritat">
+<!ENTITY tagsColumn.tooltip "Clicatz per triar per etiquetas">
+<!ENTITY accountColumn.tooltip "Clicatz per triar per compte">
+<!ENTITY statusColumn.tooltip "Clicatz per triar per estatut">
+<!ENTITY sizeColumn.tooltip "Clicatz per triar per talha">
+<!ENTITY junkStatusColumn.tooltip "Clicatz per triar per estatut indesirable">
+<!ENTITY unreadColumn.tooltip "Nombre de messatges pas legits dins lo fial">
+<!ENTITY totalColumn.tooltip "Nombre total de messatges dins lo fial">
+<!ENTITY readColumn.tooltip "Clicatz per triar per estatut de lectura">
+<!ENTITY receivedColumn.tooltip "Clicatz per triar per data de recepcion">
+<!ENTITY starredColumn.tooltip "Clicatz per triar per seguit">
+<!ENTITY locationColumn.tooltip "Clicatz per triar per adreça">
+<!ENTITY idColumn.tooltip "Clicatz per triar per òrdre recebut">

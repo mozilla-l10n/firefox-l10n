@@ -1,7 +1,7 @@
-<!ENTITY identitiesListDesc.label "Multiple Identities Support">
-<!ENTITY identitiesListAdd.label  "Add…">
+﻿<!ENTITY identitiesListDesc.label "Supòrt de las identitats multiplas">
+<!ENTITY identitiesListAdd.label  "Apondre…">
 <!ENTITY identitiesListAdd.accesskey  "A">
-<!ENTITY identitiesListEdit.label "Edit…">
-<!ENTITY identitiesListEdit.accesskey "E">
-<!ENTITY identitiesListDelete.label "Delete">
-<!ENTITY identitiesListDelete.accesskey "D">
+<!ENTITY identitiesListEdit.label "Modificar…">
+<!ENTITY identitiesListEdit.accesskey "M">
+<!ENTITY identitiesListDelete.label "Suprimir">
+<!ENTITY identitiesListDelete.accesskey "S">
