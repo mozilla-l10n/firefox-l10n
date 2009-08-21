@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Eszköztárak és vezérlőelemek alaphelyzetbe állítása">
 <!ENTITY resetToolbars.accesskey      "E">
 
-<!ENTITY resetBookmarks.label         "Könyvjelzők visszaállítása a &brandShortName; alapértelmezéseire">
-<!ENTITY resetBookmarks.accesskey     "K">
+<!ENTITY deleteBookmarks.label        "A biztonsági mentéseket kivéve minden könyvjelző törlése">
+<!ENTITY deleteBookmarks.accesskey    "t">
 
 <!ENTITY resetUserPrefs.label         "Minden felhasználói beállítás visszaállítása a &brandShortName; alapértelmezéseire">
 <!ENTITY resetUserPrefs.accesskey     "f">

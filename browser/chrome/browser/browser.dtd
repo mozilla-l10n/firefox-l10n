@@ -7,9 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (privát böngészés)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privát böngészés)">
 
 <!ENTITY tabCmd.label "Új lap">
 <!ENTITY tabCmd.accesskey "l">
@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Kapcsolat nélküli munka">
 <!ENTITY goOfflineCmd.accesskey "p">
 
+<!ENTITY menubarCmd.label "Menüsor">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Böngésző eszköztár">
 <!ENTITY navbarCmd.accesskey "B">
 <!ENTITY personalbarCmd.label "Könyvjelző eszköztár">
@@ -48,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Teljes képernyős üzemmód">
 <!ENTITY fullScreenCmd.accesskey "T">
+<!ENTITY showAllTabsCmd.label "Az összes böngészőlap megjelenítése">
+<!ENTITY showAllTabsCmd.accesskey "m">
 
 <!ENTITY fullScreenMinimize.tooltip "Kis méret">
 <!ENTITY fullScreenRestore.tooltip "Helyreállítás">
@@ -69,6 +73,7 @@
 <!ENTITY addCurPagesCmd.label "Minden lap egy könyvjelzőbe...">
 <!ENTITY organizeBookmarks.label "Könyvjelzők kezelése...">
 <!ENTITY bookmarkAllCmd.label "Minden lap egy könyvjelzőbe...">
+<!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 
 <!ENTITY backCmd.label                "Vissza">
 <!ENTITY backCmd.accesskey            "V">
@@ -85,6 +90,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Oldal letöltésének megszakítása">
 <!ENTITY goEndCap.tooltip             "Ugrás a címmezőben levő címre">
+<!ENTITY feedButton.tooltip           "Feliratkozás erre az oldalra...">
 <!ENTITY printButton.label            "Nyomtatás">
 <!ENTITY printButton.tooltip          "Oldal kinyomtatása">
 
@@ -98,9 +104,13 @@
 
 <!ENTITY bookmarksButton.label          "Könyvjelzők">
 <!ENTITY bookmarksButton.tooltip        "Könyvjelzők megjelenítése">
-<!ENTITY bookmarksSidebarCmd.accesskey  "K">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "v">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Előzmények">
 <!ENTITY historyButton.tooltip          "A mostanában meglátogatott lapok megjelenítése">
@@ -153,7 +163,7 @@
 <!ENTITY deleteCmd.label          "Törlés">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "s"> 
-<!ENTITY selectAllCmd.label         "Minden kijelölése">  
+<!ENTITY selectAllCmd.label         "Mindent kijelöl">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "i"> 
 <!ENTITY preferencesCmd.label       "Beállítások...">
@@ -162,10 +172,14 @@
 <!ENTITY preferencesCmdUnix.accesskey     "B"> 
 
 <!ENTITY clearRecentHistoryCmd.label            "Előzmények törlése">
-<!ENTITY clearRecentHistoryCmd.accesskey        "E">
+<!ENTITY clearRecentHistoryCmd.accesskey        "r">
 
-<!ENTITY privateBrowsingCmd.label            "Privát böngészés">
-<!ENTITY privateBrowsingCmd.accesskey        "P">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Privát böngészés indítása">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
+<!ENTITY privateBrowsingCmd.stop.label          "Privát böngészés leállítása">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Nézet"> 
 <!ENTITY viewMenu.accesskey       "N"> 
@@ -179,13 +193,18 @@
 <!ENTITY historyMenu.label "Előzmények">
 <!ENTITY historyMenu.accesskey "m">
 <!ENTITY historyUndoMenu.label "Nemrég bezárt lapok">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Nemrég bezárt ablakok">
 
 <!ENTITY historyHomeCmd.label "Kezdőlap">
 <!ENTITY showAllHistoryCmd2.label "Minden előzmény megjelenítése">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Keresés a könyvjelzőkben és előzményekben">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Keresés a könyvjelzőkben és előzményekben">
+<!ENTITY urlbar.bookmark.emptyText    "Keresés a könyvjelzők között">
+<!ENTITY urlbar.history.emptyText     "Keresés az előzményekben">
+<!ENTITY urlbar.none.emptyText        "Webcím beírása">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -244,7 +263,7 @@
 <!ENTITY viewImageCmd.label           "Kép megjelenítése">
 <!ENTITY viewImageCmd.accesskey       "s">
 <!ENTITY viewVideoCmd.label           "Videó megtekintése">
-<!ENTITY viewVideoCmd.accesskey       "V">
+<!ENTITY viewVideoCmd.accesskey       "m">
 <!ENTITY viewBGImageCmd.label         "Háttérkép megjelenítése">
 <!ENTITY viewBGImageCmd.accesskey     "s">
 <!ENTITY setDesktopBackgroundCmd.label      "Beállítás háttérképként...">
@@ -273,7 +292,7 @@
 <!ENTITY saveImageCmd.label           "Kép mentése más néven...">
 <!ENTITY saveImageCmd.accesskey       "m">
 <!ENTITY saveVideoCmd.label           "Videó mentése más néven...">
-<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.accesskey       "d">
 <!ENTITY saveAudioCmd.label           "Hang mentése más néven...">
 <!ENTITY saveAudioCmd.accesskey       "H">
 <!ENTITY sendImageCmd.label           "Kép küldése...">
@@ -344,12 +363,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Nagyítás">
 <!ENTITY fullZoom.accesskey             "N">
 
+<!ENTITY newTabButton.tooltip           "Új lap megnyitása">
 <!ENTITY newWindowButton.tooltip        "Új ablak megnyitása">
 <!ENTITY sidebarCloseButton.tooltip     "Oldalsáv bezárása">
 
 <!ENTITY cutButton.tooltip              "Kivágás">
 <!ENTITY copyButton.tooltip             "Másolás">
 <!ENTITY pasteButton.tooltip            "Beillesztés">
+<!ENTITY fullScreenButton.tooltip       "Ablak megjelenítése teljes képernyős üzemmódban">
 
 <!ENTITY quitApplicationCmdWin.label       "Kilépés"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "K">
@@ -401,7 +422,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Kész">
 <!ENTITY editBookmark.cancel.label                   "Mégse">
-<!ENTITY editBookmark.removeBookmark.label           "Könyvjelző eltávolítása">
 <!ENTITY editBookmark.removeBookmark.accessKey       "e">
 <!ENTITY editBookmark.undo.label                     "Visszavonás">
 <!ENTITY editBookmark.undo.accessKey                 "V">
@@ -427,4 +447,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Kattintson a letöltési ablak megnyitásához">
 
-<!ENTITY ctrlTab.search.emptyText "Keresés a lapokon">
+<!ENTITY allTabs.filter.emptyText "Keresés a lapokon">

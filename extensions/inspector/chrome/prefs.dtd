@@ -9,6 +9,6 @@
 <!ENTITY ms.label "(ms)">
 <!ENTITY blinkSpeed.label "Villogtatás sebessége">
 <!ENTITY invertColors.label "Inverz színek">
-<!ENTITY installHowTo.label "A DOM Inspector Oldalsáv jelenleg nincs telepítve.  Az Oldalsávhoz való hozzáadáshoz kattintson a 'Telepítés' gombra.">
+<!ENTITY installHowTo.label "A DOM Inspector Oldalsáv jelenleg nincs telepítve.  Az Oldalsávhoz való hozzáadáshoz kattintson a Telepítés gombra.">
 <!ENTITY install.label "Telepítés">
 <!ENTITY addNavigatorHooks.label "Hozzáadás a böngésző helyi menüihez">

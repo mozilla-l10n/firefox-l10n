@@ -9,6 +9,8 @@
 <!ENTITY reloadAllTabs.accesskey         "s">
 <!ENTITY  reloadTab.label        "Lap frissítése">
 <!ENTITY reloadTab.accesskey         "r">
+<!ENTITY  openTabInNewWindow.label    "Megnyitás új ablakban">
+<!ENTITY openTabInNewWindow.accesskey "a">
 <!ENTITY  listAllTabs.label      "Minden lap felsorolása">
 <!ENTITY  bookmarkAllTabs.label       "Minden lap egy könyvjelzőbe...">
 <!ENTITY bookmarkAllTabs.accesskey   "M">

@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "l">
 <!ENTITY openInNewWindow.label "Megnyitás új ablakban">
 <!ENTITY openInNewWindow.accesskey "a">
-<!ENTITY bookmarkLink.label "Hivatkozás felvétele a könyvjelzők közé...">
-<!ENTITY bookmarkLink.accesskey "n">
 <!ENTITY copyLink.label "Hivatkozás címének másolása">
 <!ENTITY copyLink.accesskey "v">
