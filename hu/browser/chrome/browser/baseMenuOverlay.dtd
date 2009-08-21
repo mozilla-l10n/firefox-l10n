@@ -18,31 +18,21 @@
 <!ENTITY helpForIEUsers.label     "Internet Explorer-felhasználóknak">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Verzióinformáció">
 <!ENTITY helpReleaseNotes.accesskey     "V">
 <!ENTITY updateCmd.label                "Frissítések keresése...">
-<!ENTITY updateCmd.accesskey            "F">
 
 <!ENTITY preferencesCmdMac.label        "Beállítások...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Szolgáltatások">
 
 <!ENTITY hideThisAppCmdMac.label        "A &brandShortName; elrejtése">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "A több elrejtése">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Mindet mutat">

@@ -1,3 +1,6 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
 <!ENTITY back.label            "Vissza">
 <!ENTITY back.tooltip          "Vissza">
 <!ENTITY forward.label         "Előre">
@@ -14,7 +17,8 @@
 <!ENTITY openLocation.tooltip  "Hely megnyitása">
 <!ENTITY star.label            "Csillag">
 <!ENTITY star.tooltip          "Oldal a könyvjelzők közé">
-<!ENTITY bookmarks.tooltip     "Könyvjelzők megtekintése">
+<!ENTITY bookmarks.label       "Könyvjelzők">
+<!ENTITY bookmarks.tooltip     "Könyvjelzőek megtekintése">
 
 <!ENTITY newtab.label          "Új lap">
 <!ENTITY closetab.label        "Lap bezárása">
@@ -37,11 +41,6 @@
 <!ENTITY editBookmarkDone.label    "Kész">
 <!ENTITY editBookmarkTags.label    "Címke hozzáadása">
 
-<!ENTITY helperApp.prompt          "Mi a teendő ezzel">
-<!ENTITY helperApp.open            "Megnyitás">
-<!ENTITY helperApp.save            "Mentés">
-<!ENTITY helperApp.nothing         "Egyik sem">
-
 <!ENTITY findOnCmd.label     "Keresés ezen az oldalon...">
 <!ENTITY findOnCmd.accesskey "e">
 <!ENTITY findOnCmd.commandkey "f">
@@ -50,58 +49,17 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY addonsHeader.label        "Kiegészítők">
-<!ENTITY addonsLocal.label         "Kiegészítők">
-<!ENTITY addonsRepo.label          "Kiegészítők letöltése">
-<!ENTITY addonsRecommended.label   "Ajánlott">
-<!ENTITY addonsSearch.label        "Keresés">
-<!ENTITY addonsSearch.emptytext    "Keresés a kiegészítők között">
-
-<!ENTITY addonOptions.label        "Beállítások">
-<!ENTITY addonEnable.label         "Engedélyezés">
-<!ENTITY addonDisable.label        "Letiltás">
-<!ENTITY addonInstall.label        "Telepítés">
-<!ENTITY addonUninstall.label      "Eltávolítás">
-<!ENTITY addonCancel.label         "Mégse">
-<!ENTITY addonShowPage.label       "Ugrás az oldalra">
-
-<!ENTITY downloadsHeader.label     "Letöltések">
-<!ENTITY downloadsSortDate.label   "Dátum">
-<!ENTITY downloadsSortSite.label   "Webhely">
-<!ENTITY downloadsSortName.label   "Név">
-<!ENTITY downloadsSearch.label     "Keresés">
-<!ENTITY downloadsSearch.emptytext "Letöltött fájl keresése">
-
-<!ENTITY downloadShowPage.label    "Ugrás az oldalra">
-<!ENTITY downloadShow2.label       "Keresés">
-<!ENTITY downloadOpen2.label       "Megnyitás">
-<!ENTITY downloadCancel.label      "Mégse">
-<!ENTITY downloadPause.label       "Szünet">
-<!ENTITY downloadResume.label      "Folytatás">
-<!ENTITY downloadRetry.label       "Újra">
-
-<!ENTITY noResults.label           "Nincs eredmény">
-<!ENTITY allBookmarks.label        "Minden könyvjelző">
-
 <!ENTITY identity.unverifiedsite2 "Ez a webhely nem szolgáltat magáról azonosító információkat.">
-<!ENTITY identity.connectedTo2 "Kapcsolódva:">
-<!-- Localization note (identity.runBy2)
- The layout of the identity dialog prevents combining this into a single string with
- substitution variables.  If it is difficult to translate the sense of the string
- with that structure, consider a translation which ignores the preceding domain and
- just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "Üzemelteti:">
+<!ENTITY identity.connectedTo "A következőhöz csatlakozott:">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
 
-<!ENTITY consoleHeader.label       "Hibakonzol">
-<!ENTITY consoleAll.label          "Összes">
-<!ENTITY consoleErrors.label       "Hibák">
-<!ENTITY consoleWarnings.label     "Figyelmeztetések">
-<!ENTITY consoleMessages.label     "Üzenetek">
-<!ENTITY consoleCodeEval.label     "Kód:">
-<!ENTITY consoleClear.label        "Törlés">
-<!ENTITY consoleEvaluate.label     "...">
-<!ENTITY consoleErrFile.label      "Forrásfájl:">
-<!ENTITY consoleErrLine.label      "Sor:">
-<!ENTITY consoleErrColumn.label    "Oszlop:">
+example.com
+which is run by
+Example Enterprises, Inc.
 
-<!ENTITY selectListDone.label      "Kész">
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "Működtetője:">

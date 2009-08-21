@@ -2,8 +2,8 @@
 <!ENTITY places.library.title  "Könyvtár">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Szervezés">
-<!ENTITY organize.accesskey    "S">
+<!ENTITY organize.label        "Rendszerezés">
+<!ENTITY organize.accesskey    "R">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Bezárás">
@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "r">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Oldal felvétele a könyvjelzők közé...">
+<!ENTITY cmd.bookmarkLink.accesskey     "O">
 <!ENTITY cmd.delete.label               "Oldal törlése">
 <!ENTITY cmd.delete.accesskey           "t">
 <!ENTITY cmd.deleteDomainData.label     "Webhely elfelejtése">
@@ -129,25 +131,17 @@
 <!ENTITY col.url.label           "Hely">
 <!ENTITY col.lastvisit.label     "Látogatás dátuma">
 <!ENTITY col.visitcount.label    "Látogatások száma">
-<!ENTITY col.keyword.label       "Keyword">
+<!ENTITY col.keyword.label       "Kulcsszó">
 <!ENTITY col.description.label   "Leírás">
 <!ENTITY col.dateadded.label     "Hozzáadva">
 <!ENTITY col.lastmodified.label  "Utoljára módosítva">
 
 <!ENTITY search.label                              "Keresés:">
 <!ENTITY search.accesskey                          "K">
-<!ENTITY search.collection.label                   "Csak az aktuális gyűjtemény">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "Minden könyvjelző">
-<!ENTITY search.allBookmarks.accesskey             "k">
 <!ENTITY search.scopeFolder.label                  "Kijelölt mappa">
 <!ENTITY search.scopeFolder.accesskey              "m">
-<!ENTITY search.scopeAll.label                     "Minden könyvjelző">
-<!ENTITY search.scopeAll.accesskey                 "i">
-<!ENTITY search.scopeMenu.label                    "Könyvjelzők menü">
-<!ENTITY search.scopeMenu.accesskey                "K">
-<!ENTITY search.scopeToolbar.label                 "Könyvjelző eszköztár">
-<!ENTITY search.scopeToolbar.accesskey             "e">
+<!ENTITY search.scopeBookmarks.label               "Könyvjelzők">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "Letöltések">
 <!ENTITY search.scopeDownloads.accesskey           "L">
 <!ENTITY search.scopeHistory.label                 "Előzmények">
@@ -181,7 +175,7 @@
 <!ENTITY advancedSearch.groupby_host.label         "gépnév">
 <!ENTITY advancedSearch.groupby_domain.label       "tartomány">
 <!ENTITY advancedSearch.groupby_folder.label       "mappa">
-<!ENTITY advancedSearch.sortby.label               "Rendezés alapja: ">
+<!ENTITY advancedSearch.sortby.label               "Rendezés alapja:">
 <!ENTITY advancedSearch.sortby_title.label         "cím">
 <!ENTITY advancedSearch.sortby_date.label          "dátum">
 <!ENTITY advancedSearch.sortby_visit.label         "látogatások száma">
@@ -205,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Vissza">
-<!ENTITY backCmd.accesskey   "V">
 <!ENTITY backButton.tooltip  "Ugrás vissza">
 
 <!ENTITY forwardCmd.label       "Előre">
-<!ENTITY forwardCmd.accesskey   "E">
 <!ENTITY forwardButton.tooltip  "Ugrás előre">
 
 <!ENTITY detailsPane.more.label "Több">

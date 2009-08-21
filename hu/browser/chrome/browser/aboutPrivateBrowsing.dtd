@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Privát böngészés">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "Privát böngészés">
+<!ENTITY privatebrowsingpage.title                 "Privát böngészés">
+<!ENTITY privatebrowsingpage.title.normal          "Szeretné elindítani a privát böngészést?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "A &brandShortName; semmit nem fog megjegyezni ebből a munkamenetből.">
-<!ENTITY privatebrowsingpage.longDesc                  "A &brandShortName; nem jegyzi meg ennek a böngésző-munkamenetnek az adatait.  Ebbe beletartoznak a böngésző előzményei, a keresés előzményei, a letöltések előzményei, a webes űrlapok előzményei, a sütik és az ideiglenes internetes fájlok.  A letöltött fájlok és a létrehozott könyvjelzők viszont megmaradnak.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "A &brandShortName; jelenleg nincs privát böngészési módban.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Kezdésként esetleg törölni szeretné a mostani előzményeket.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Előzmények törlése">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "E">
+<!ENTITY privatebrowsingpage.description               "A privát böngészési munkamenetben a &brandShortName; nem tartja meg a böngészés előzményeit, a keresés előzményeit, a letöltés előzményeit, az űrlapok előzményeit, a sütiket, illetve az ideiglenes internetfájlokat. A letöltött fájlok és a könyvjelzők viszont megmaradnak.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "A privát böngészés befejezéséhez vegye le a jelölést az Eszközök &gt; Privát böngészés menüelemről.">
-<!ENTITY privatebrowsingpage.footerDesc                "Jó szórakozást!">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Kezdésként törölheti a mostani ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "előzményeket">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Privát böngészés indítása">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!ENTITY privatebrowsingpage.howToStop                 "A privát böngészés leállításához válassza az &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; menüparancsot, vagy zárja be a &brandShortName;ot.">
+<!ENTITY privatebrowsingpage.howToStart                "A privát böngészés indításához választhatja az &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; menüparancsot is.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Bár ezen a számítógépen nem lesznek tárolva a böngészési előzmények, az internetszolgáltatója vagy a munkáltatója ettől függetlenül is ellenőrizheti, hogy milyen oldalakat látogat meg.">
+<!ENTITY privatebrowsingpage.learnMore                 "További információ">
