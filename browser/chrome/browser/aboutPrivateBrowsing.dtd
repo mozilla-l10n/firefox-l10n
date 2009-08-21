@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Zasebno brskanje">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "Zasebno brskanje">
+<!ENTITY privatebrowsingpage.title                 "Zasebno brskanje">
+<!ENTITY privatebrowsingpage.title.normal          "Ali želite vključiti zasebno brskanje?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; za to sejo ne bo shranil zgodovine.">
-<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; v tej seji ne bo shranjeval zgodovine brskanja.  To vključuje zgodovino spletnih strani, zgodovino iskanja, zgodovino prenosov, zgodovino spletnih obrazcev, piškote in začasne internetne datoteke.  Ohranjene pa bodo vse datoteke, ki jih prenesete, in zaznamki, ki jih ustvarite.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; trenutno ni v načinu za zasebno brskanje.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Ob zagonu lahko počistite tudi vašo nedavno zgodovino.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Počisti nedavno zgodovino">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "P">
+<!ENTITY privatebrowsingpage.description               "&brandShortName; med zasebnim brskanjem ne bo shranjeval zgodovine brskanja, iskanja, prenosov in spletnih obrazcev, piškotov ter začasnih datotek.  Datoteke, ki jih boste prenesli, in zaznamki, ki jih boste ustvarili, pa se bodo ohranili.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Za izklop zasebnega brskanja izberite Orodja &gt; Zasebno brskanje.">
-<!ENTITY privatebrowsingpage.footerDesc                "Uživajte!">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Pred zagonom lahko zbrišete ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   " tudi vašo nedavno zgodovino">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Vključi zasebno brskanje">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "Z">
+
+<!ENTITY privatebrowsingpage.howToStop                 "Za izklop zasebnega brskanja izberite &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ali zaprite &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "Za vklop zasebnega brskanja lahko izberete tudi &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Kljub temu da ta računalnik ne bo hranil zgodovine brskanja, lahko vaš ponudnik internetnih storitev še vedno sledi stranem, ki ste jih obsikali.">
+<!ENTITY privatebrowsingpage.learnMore                 "Več o tem">

@@ -107,9 +107,9 @@
 <!ENTITY cmd.new_separator.label "Nova ločilna črta">
 <!ENTITY cmd.new_separator.accesskey "l">
 
-<!ENTITY cmd.reloadLivebookmark.label "Znova naloži živ zaznamek">
+<!ENTITY cmd.reloadLivebookmark.label "Znova naloži živi zaznamek">
 <!ENTITY cmd.reloadLivebookmark.accesskey "ž">
-<!ENTITY cmd.reloadMicrosummary.label "Znova naloži živ naslov">
+<!ENTITY cmd.reloadMicrosummary.label "Znova naloži živi naslov">
 <!ENTITY cmd.reloadMicrosummary.accesskey "ž">
 
 <!ENTITY cmd.groupby_site.label "Združi po mestu">
@@ -136,18 +136,10 @@
 
 <!ENTITY search.label "Išči:">
 <!ENTITY search.accesskey "I">
-<!ENTITY search.collection.label "Zgolj trenutno zbirko">
-<!ENTITY search.collection.accesskey "Z">
-<!ENTITY search.allBookmarks.label "Vsi zaznamki">
-<!ENTITY search.allBookmarks.accesskey "V">
 <!ENTITY search.scopeFolder.label "Izbran imenik">
 <!ENTITY search.scopeFolder.accesskey "I">
-<!ENTITY search.scopeAll.label "Vsi zaznamki">
-<!ENTITY search.scopeAll.accesskey "V">
-<!ENTITY search.scopeMenu.label "Meni zaznamkov">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "Orodna vrstica zaznamkov">
-<!ENTITY search.scopeToolbar.accesskey "z">
+<!ENTITY search.scopeBookmarks.label               "Zaznamki">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label "Prenosi">
 <!ENTITY search.scopeDownloads.accesskey "P">
 <!ENTITY search.scopeHistory.label "Zgodovina">
