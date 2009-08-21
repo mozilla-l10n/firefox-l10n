@@ -71,6 +71,9 @@
 <!ENTITY downloadRetry.label "Reintentar">
 <!ENTITY noResults.label "Sin resultados">
 <!ENTITY allBookmarks.label "Todos los marcadores">
+<!ENTITY bookmarkPopup.label "Página añadida a marcadores">
+<!ENTITY bookmarkRemove.label "Eliminar">
+<!ENTITY bookmarkEdit.label "Editar">
 <!ENTITY identity.unverifiedsite2 "Este sitio web no proporciona información de identidad.">
 <!ENTITY identity.connectedTo2 "Conectado a">
 <!ENTITY identity.runBy2 "que pertenece a">

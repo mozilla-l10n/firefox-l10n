@@ -36,8 +36,8 @@
 <!ENTITY dontrememberActions.pre.label "También le podría interesar ">
 <!ENTITY dontrememberActions.clearHistory.label "limpiar todo el historial">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingAutoStart.label "Abrir automáticamente &brandShortName; en una sesión de navegación privada">
-<!ENTITY privateBrowsingAutoStart.accesskey "E">
+<!ENTITY privateBrowsingPermanent.label "Modo permanente de navegación privada">
+<!ENTITY privateBrowsingPermanent.accesskey "P">
 <!ENTITY rememberHistory.pre.label "Recordar el historial de búsqueda al menos">
 <!ENTITY rememberHistory.pre.accesskey "R">
 <!ENTITY rememberHistory.post.label "días">
