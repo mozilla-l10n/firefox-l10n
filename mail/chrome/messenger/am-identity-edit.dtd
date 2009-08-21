@@ -1,6 +1,6 @@
-<!ENTITY identityTitle.label "Identity Settings">
-<!ENTITY identityListDesc.label "Configure the settings for this identity:">
+﻿<!ENTITY identityTitle.label "Paramètres de l'identitat">
+<!ENTITY identityListDesc.label "Configuracion dels paramètres per aquesta identitat :">
 
-<!ENTITY settingsTab.label       "Settings">
-<!ENTITY copiesFoldersTab.label "Copies &amp; Folders">
-<!ENTITY addressingTab.label    "Composition &amp; Addressing">
+<!ENTITY settingsTab.label       "Paramètres">
+<!ENTITY copiesFoldersTab.label "Còpias e dorsièrs">
+<!ENTITY addressingTab.label    "Redaccion e adreçatge">

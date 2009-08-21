@@ -1,30 +1,34 @@
-<!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
-<!ENTITY doNotDownload.label "To save disk space, do not download for offline use:">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+﻿<!ENTITY doNotDownloadPop3Movemail.label "Per estalviar d'espaci de disc, telecargar pas :">
+<!ENTITY doNotDownload.label "Per estalviar d'espaci de disc, telecargar pas per utilizacion fòra linha :">
+<!ENTITY allFoldersOffline.label "Conservar los messatges d'aqueste compte sus aqueste ordenador">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "Messages larger than">
-<!ENTITY offlineNotDownload.accesskey "M">
-<!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY nntpNotDownloadRead.label "Read messages">
-<!ENTITY nntpNotDownloadRead.accesskey "d">
-<!ENTITY nntpDownloadMsg.label "Messages more than">
+<!ENTITY offlineNotDownload.label "Los messatges que la talha depassa">
+<!ENTITY offlineNotDownload.accesskey "t">
+<!ENTITY kb.label "ko">
+<!ENTITY daysOld.label "jorns">
+<!ENTITY message.label "mai recents">
+<!ENTITY nntpNotDownloadRead.label "Los messatges legits">
+<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpDownloadMsg.label "Los messatges qu'an mai de">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted">
-<!ENTITY retentionKeepMsg.label "Delete messages more than">
-<!ENTITY retentionKeepMsg.accesskey "t">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
-<!ENTITY retentionKeepNew.accesskey "b">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
-<!ENTITY retentionKeepUnread.accesskey "w">
-<!ENTITY nntpRemoveBody.label "Only message bodies less than">
-<!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
+<!ENTITY retentionCleanup.label "Per ganhar d'espaci de disc, los messatges ancians pòdon èsser suprimits definitivament.">
+<!ENTITY retentionCleanupImap.label "Per ganhar d'espaci de disc, los messatges ancians pòdon èsser suprimits definitivament, las còpias localas e los originals sul servidor distant.">
+<!ENTITY retentionCleanupPop.label "Per ganhar d'espaci de disc, los messatges ancians pòdon èsser suprimits definitivament, inclús sul servidor distant.">
+<!ENTITY retentionKeepMsg.label "Suprimir los messatges qu'an mai de">
+<!ENTITY retentionKeepMsg.accesskey "S">
+<!ENTITY retentionKeepAll.label "Suprimir pas cap de messatge">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Suprimir totes los messatges levats los">
+<!ENTITY retentionKeepNew.accesskey "u">
+<!ENTITY retentionKeepUnread.label "Suprimir totjorn los messatges legits">
+<!ENTITY retentionKeepUnread.accesskey "T">
+<!ENTITY retentionApplyToFlagged.label "Conservar totjorn los messatges seguits">
+<!ENTITY retentionApplyToFlagged.accesskey "c">
+<!ENTITY nntpRemoveBody.label "Unicament los còsses de messatges qu'an mens de">
+<!ENTITY nntpRemoveBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Seleccion gropes per utilizacion fòra linha…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
+<!ENTITY offlineImapAdvancedOffline.label "Avançat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
-<!ENTITY diskspaceGroupTitle.label "Disk Space">
+<!ENTITY syncGroupTitle.label "Sincronizacion dels messatges">
+<!ENTITY diskspaceGroupTitle.label "Espaci de disc ">

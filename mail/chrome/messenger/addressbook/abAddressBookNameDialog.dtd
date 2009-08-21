@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY name.label      "Address Book Name:">
-<!ENTITY name.accesskey  "A">
+<!ENTITY name.label "Nom del quasernet d'adreças :">
+<!ENTITY name.accesskey "A">

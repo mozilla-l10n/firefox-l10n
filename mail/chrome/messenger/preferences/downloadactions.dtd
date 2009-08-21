@@ -1,32 +1,31 @@
-<!ENTITY  downloadactionsWindow.title         "Download Actions">
-<!ENTITY  window.width                         "480">
+﻿<!ENTITY  downloadactionsWindow.title         "Accions suls fichièrs">
+<!ENTITY  window.width                         "500">
 <!ENTITY  window.height                        "310">
 
-<!ENTITY  fileTypesDescription.label          "Automatically perform the associated Action with each of the following file types:">
+<!ENTITY  fileTypesDescription.label          "Efectuar automaticament l'accion associada amb los tipes de fichièrs seguents :">
 
-<!ENTITY  fileHandlerColumn.label             "Action">
+<!ENTITY  fileHandlerColumn.label             "Accion">
 <!ENTITY  fileHandlerColumn.accesskey         "A">
-<!ENTITY  fileTypeColumn.label                "File Type">
+<!ENTITY  fileTypeColumn.label                "Tipe de fichièr">
 <!ENTITY  fileTypeColumn.accesskey            "T">
-<!ENTITY  fileMIMETypeColumn.label            "MIME Type">
+<!ENTITY  fileMIMETypeColumn.label            "Tipe MIME">
 <!ENTITY  fileMIMETypeColumn.accesskey        "M">
 <!ENTITY  fileExtensionColumn.label           "Extension">
 <!ENTITY  fileExtensionColumn.accesskey       "E">
 
-<!ENTITY  remove.label                        "Remove Action">
-<!ENTITY  remove.accesskey                    "R">
-<!ENTITY  edit.label                          "Change Action…">
-<!ENTITY  edit.accesskey                      "C">
+<!ENTITY  remove.label                        "Suprimir l'accion">
+<!ENTITY  remove.accesskey                    "S">
+<!ENTITY  edit.label                          "Modificar l'accion…">
+<!ENTITY  edit.accesskey                      "o">
 
 <!ENTITY  windowClose.key                     "w">
 <!ENTITY  focusSearch1.key                    "f">
 <!ENTITY  focusSearch2.key                    "k">
 
-<!ENTITY  filter.label                        "Search:">
-<!ENTITY  filter.accesskey                    "S">
-<!ENTITY  clear.label                         "Clear">
-<!ENTITY  clear.accesskey                     "l">
+<!ENTITY  filter.label                        "Recercar :">
+<!ENTITY  filter.accesskey                    "R">
+<!ENTITY  clear.label                         "Escafar">
+<!ENTITY  clear.accesskey                     "f">
 
-<!ENTITY  button.close.label                  "Close">
-<!ENTITY  button.close.accesskey              "o">
-
+<!ENTITY  button.close.label                  "Tampar">
+<!ENTITY  button.close.accesskey              "F">

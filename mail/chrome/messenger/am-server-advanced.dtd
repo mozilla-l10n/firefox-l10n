@@ -1,31 +1,31 @@
-<!ENTITY serverAdvanced.label "Paramètres avançats de compte">
+﻿<!ENTITY serverAdvanced.label "Paramètres avançats dels comptes">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "Repertòri de servidor IMAP :">
-<!ENTITY serverDirectory.accesskey "d">
-<!ENTITY usingSubscription.label "Visualizar pas que los repertòris que sètz inscrich">
-<!ENTITY usingSubscription.accesskey "V">
-<!ENTITY dualUseFolders.label "Server supports folders that contain sub-folders and messages">
-<!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "Use IDLE command if the server supports it">
-<!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Maximum number of server connections to cache">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY serverDirectory.label "Dorsièr sul servidor IMAP :">
+<!ENTITY serverDirectory.accesskey "D">
+<!ENTITY usingSubscription.label "Afichar unicament los dorsièrs amb abonament">
+<!ENTITY usingSubscription.accesskey "A">
+<!ENTITY dualUseFolders.label "Lo servidor supòrta los dorsièrs que contenon de sosdorsieès e de messatges">
+<!ENTITY dualUseFolders.accesskey "L">
+<!ENTITY useIdle.label "Utilizar la comanda IDLE se lo servidor o permet">
+<!ENTITY useIdle.accesskey "U">
+<!ENTITY maximumConnectionsNumber.label "Nombre maximum de connexions al servidor de gardar en amagatal">
+<!ENTITY maximumConnectionsNumber.accesskey "N">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
-<!ENTITY personalNamespace.label "Personal namespace:">
-<!ENTITY personalNamespace.accesskey "P">
-<!ENTITY publicNamespace.label "Public (shared):">
-<!ENTITY publicNamespace.accesskey "u">
-<!ENTITY otherUsersNamespace.label "Other Users:">
-<!ENTITY otherUsersNamespace.accesskey "O">
-<!ENTITY overrideNamespaces.label "Allow server to override these namespaces">
-<!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "When downloading pop mail for this server, use the following folder for new mail:" >
-<!ENTITY globalInbox.label "Global Inbox (Local Folders Account)">
-<!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "Inbox for this server's account">
-<!ENTITY accountDirectory.accesskey "S">
-<!ENTITY deferToServer.label "Inbox for different account">
-<!ENTITY deferToServer.accesskey "D">
-<!ENTITY deferGetNewMail.label "Include this server when getting new mail">
+<!ENTITY namespaceDesc.label "Aquelas preferéncias especifican los espacis de noms sus vòstre servidor IMAP">
+<!ENTITY personalNamespace.label "Espaci de noms personal :">
+<!ENTITY personalNamespace.accesskey "E">
+<!ENTITY publicNamespace.label   "Public (partejat) :">
+<!ENTITY publicNamespace.accesskey "P">
+<!ENTITY otherUsersNamespace.label    "Autres utilizaires :">
+<!ENTITY otherUsersNamespace.accesskey "u">
+<!ENTITY overrideNamespaces.label "Permetre al servidor d'otrapassar aquestes espacis de noms">
+<!ENTITY overrideNamespaces.accesskey "r">
+<!ENTITY pop3Desc.label "Al moment del telecargament dels messatges POP per aqueste servidor, utilizatz lo dorsièr seguent pel corrièr novèl :" >
+<!ENTITY globalInbox.label "Boita globala (compte Dorsièrs locals)">
+<!ENTITY globalInbox.accesskey "B">
+<!ENTITY accountDirectory.label "Corrièr entrant d'aqueste compte">
+<!ENTITY accountDirectory.accesskey "C">
+<!ENTITY deferToServer.label "Corrièr entrant d'un autre compte">
+<!ENTITY deferToServer.accesskey "o">
+<!ENTITY deferGetNewMail.label "Inclure aqueste servidor al moment de la recuperacion dels messat	ges">
 <!ENTITY deferGetNewMail.accesskey "I">

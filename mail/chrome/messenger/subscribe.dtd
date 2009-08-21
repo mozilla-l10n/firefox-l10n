@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -35,21 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "Subscribe">
-<!ENTITY subscribeButton.label        "Subscribe">
-<!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Unsubscribe">
-<!ENTITY unsubscribeButton.accesskey  "U">
-<!ENTITY newGroupsTab.label           "New Groups">
+<!ENTITY subscribeDialog.title        "Abonament">
+<!ENTITY subscribeButton.label        "S'abonar">
+<!ENTITY subscribeButton.accesskey    "a">
+<!ENTITY unsubscribeButton.label      "Se desabonar">
+<!ENTITY unsubscribeButton.accesskey  "d">
+<!ENTITY newGroupsTab.label           "Gropes novèls">
 <!ENTITY newGroupsTab.accesskey       "N">
-<!ENTITY refreshButton.label          "Refresh">
-<!ENTITY refreshButton.accesskey      "R">
+<!ENTITY refreshButton.label          "Actualizar">
+<!ENTITY refreshButton.accesskey      "r">
 <!ENTITY stopButton.label             "Stop">
-<!ENTITY stopButton.accesskey         "T">
-<!ENTITY server.label                 "Account:">
-<!ENTITY server.accesskey             "A">
-<!ENTITY subscribedHeader.label       "Subscribe">
-<!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Show items that contain:">
-<!ENTITY namefield.accesskey          "O">
+<!ENTITY stopButton.accesskey         "t">
+<!ENTITY server.label                 "Servidor :">
+<!ENTITY server.accesskey             "S">
+<!ENTITY subscribedHeader.label	      "Abonat">
+<!-- commenting out until bug 38906 is fixed
+<!ENTITY messagesHeader.label         "messatges"> -->
+<!ENTITY namefield.label              "Far veire los gropes que contenon :">
+<!ENTITY namefield.accesskey          "M">

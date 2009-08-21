@@ -1,7 +1,7 @@
-<!ENTITY window.title  "About Junk Mail">
+﻿<!ENTITY window.title  "A prepaus del corrièr indesirable">
 <!ENTITY window.width  "450">
-<!ENTITY info1a.label  "&brandShortName; automatically detects incoming messages that appear to be junk mail (also known as spam). Messages that &brandShortName; thinks are junk will display a junk icon">
+<!ENTITY info1a.label  "&brandShortName; detècta automaticament los messatges entrant que semblan indesirables (en anglés de « Junk Mail » o « Spam »). Una icòna « indesirable » serà afichada en fàcia dels messatges reperats per &brandShortName;">
 <!ENTITY info1b.label  ".">
-<!ENTITY info2.label   "At first, you must train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not junk.">
-<!ENTITY info3.label   "Once &brandShortName; is correctly identifying junk mail, you can use the Junk Mail Controls to automatically move incoming junk mail to the Junk folder.">
-<!ENTITY info4.label   "For more information, click Help.">
+<!ENTITY info2.label   "Per començar, vos cal utilizar lo boton « indesirable » de la barra d'espleches per marcar los messatges coma indesirables o pas e ensenhar atal a &brandShortName; a los detectar sol.">
+<!ENTITY info3.label   "Un còp que &brandShortName; identifica corrèctament l'estatut dels messatges, podètz utilizar lo gestionari dels indesirables per desplaçar automaticament los messatges indesirables dins lo dorsièr del meteis nom tre lor arribada.">
+<!ENTITY info4.label   "Per mai d'entresenhas, clicatz sus Ajuda.">

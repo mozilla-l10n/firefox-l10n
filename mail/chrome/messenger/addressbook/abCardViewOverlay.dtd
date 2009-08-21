@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -36,15 +36,15 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Box Headings -->
-<!ENTITY contact.heading             "Contact">
-<!ENTITY home.heading                "Home">
-<!ENTITY other.heading               "Other">
-<!ENTITY phone.heading               "Phone">
-<!ENTITY work.heading                "Work">
+<!ENTITY contact.heading "Contacte">
+<!ENTITY home.heading	 "Domicili">
+<!ENTITY other.heading	 "Autre">
+<!ENTITY phone.heading	 "Telefòn">
+<!ENTITY work.heading	 "Activitat professionala">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading         "Description">
-<!ENTITY addresses.heading           "Addresses">
+<!ENTITY description.heading "Descripcion">
+<!ENTITY addresses.heading "Adreças">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label           "Get Map">
-<!ENTITY mapIt.tooltip               "Display a map of this address from the Web">
+<!ENTITY mapItButton.label "Plan d'accès">
+<!ENTITY mapIt.tooltip "Afichar un plan d'aquesta adreça dempuèi lo Web">
 

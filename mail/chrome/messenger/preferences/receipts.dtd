@@ -1,22 +1,22 @@
-<!ENTITY dialog.title                  "Return Receipts">
-<!ENTITY requestReceipt.label          "When sending messages, always request a return receipt">
-<!ENTITY requestReceipt.accesskey      "W">
-<!ENTITY receiptArrive.label           "When a receipt arrives:">
-<!ENTITY leaveIt.label                 "Leave it in my Inbox">
+﻿<!ENTITY dialog.title                  "Acusats de recepcion">
+<!ENTITY requestReceipt.label          "Al moment del mandadís d'un messatge, demandar totjorn un acusat de recepcion">
+<!ENTITY requestReceipt.accesskey      "v">
+<!ENTITY receiptArrive.label           "Quand un acusat de recepcion arriba :">
+<!ENTITY leaveIt.label                 "O daissar dins lo dorsièr « Corrièr entrant »">
 <!ENTITY leaveIt.accesskey             "i">
-<!ENTITY moveToSent.label              "Move it to my &quot;Sent&quot; folder">
-<!ENTITY moveToSent.accesskey          "m">
-<!ENTITY requestMDN.label              "When I receive a request for a return receipt:">
-<!ENTITY never.label                   "Never send a return receipt">
+<!ENTITY moveToSent.label              "O desplaçar dins lo dorsièr « Mandats »">
+<!ENTITY moveToSent.accesskey          "e">
+<!ENTITY requestMDN.label              "Al moment de la recepcion d'una demanda d'acusat de recepcion :">
+<!ENTITY never.label                   "Mandar pas jamai d'acusat de recepcion">
 <!ENTITY never.accesskey               "n">
-<!ENTITY returnSome.label              "Allow return receipts for some messages">
+<!ENTITY returnSome.label              "Autorizar los acusats de recepcion per d'unes messatges">
 <!ENTITY returnSome.accesskey          "r">
-<!ENTITY notInToCc.label               "If I'm not in the To or Cc of the message:">
-<!ENTITY notInToCc.accesskey           "f">
-<!ENTITY outsideDomain.label           "If the sender is outside my domain:">
-<!ENTITY outsideDomain.accesskey       "t">
-<!ENTITY otherCases.label              "In all other cases:">
-<!ENTITY otherCases.accesskey          "a">
-<!ENTITY askMe.label                   "Ask me">
-<!ENTITY alwaysSend.label              "Always send">
-<!ENTITY neverSend.label               "Never send">
+<!ENTITY notInToCc.label               "Se soi pas ni lo destinatari ni en còpia del messatge :">
+<!ENTITY notInToCc.accesskey           "m">
+<!ENTITY outsideDomain.label           "Se l'expeditor es fòra de mon domeni :">
+<!ENTITY outsideDomain.accesskey       "h">
+<!ENTITY otherCases.label              "Dins totes los autres cases :">
+<!ENTITY otherCases.accesskey          "D">
+<!ENTITY askMe.label                   "Me demandar">
+<!ENTITY alwaysSend.label              "Mandar totjorn">
+<!ENTITY neverSend.label               "Madar pas jamai">

@@ -1,29 +1,29 @@
-<!ENTITY window.title "Message Filters">
-<!ENTITY nameColumn.label "Filter Name">
-<!ENTITY activeColumn.label "Enabled">
-<!ENTITY newButton.label "New…">
+﻿<!ENTITY window.title "Filtres de messatges">
+<!ENTITY nameColumn.label "Nom">
+<!ENTITY activeColumn.label "Actiu">
+<!ENTITY newButton.label "Novèl">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Edit…">
+<!ENTITY editButton.label "Modificar">
 <!ENTITY editButton.accesskey "E">
-<!ENTITY deleteButton.label "Delete">
-<!ENTITY deleteButton.accesskey "t">
-<!ENTITY reorderUpButton.label "Move Up">
-<!ENTITY reorderUpButton.accesskey "U">
-<!ENTITY reorderDownButton.label "Move Down">
+<!ENTITY deleteButton.label "Suprimir">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY reorderUpButton.label "Montar">
+<!ENTITY reorderUpButton.accesskey "M">
+<!ENTITY reorderDownButton.label "Davalar">
 <!ENTITY reorderDownButton.accesskey "D">
-<!ENTITY filterHeader.label "Enabled filters are run automatically in the order shown below.">
-<!ENTITY filtersForPrefix.label "Filters for:">
+<!ENTITY filterHeader.label "Los filtres seràn aplicats dins l'òrdre seguent :">
+<!ENTITY filtersForPrefix.label "Filtres per :">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Filter Log">
-<!ENTITY viewLogButton.accesskey "L">
-<!ENTITY runFilters.label "Run Now">
-<!ENTITY runFilters.accesskey "R">
-<!ENTITY stopFilters.label "Stop">
-<!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Run selected filter(s) on:">
-<!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "choose this folder">
-<!ENTITY choosethisnewsserver.label "choose this news server">
-<!ENTITY helpButton.label "Help">
-<!ENTITY helpButton.accesskey "H">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY viewLogButton.label "Jornal de filtratge">
+<!ENTITY viewLogButton.accesskey "J">
+<!ENTITY runFilters.label "Executar">
+<!ENTITY runFilters.accesskey "x">
+<!ENTITY stopFilters.label "Interrompre">
+<!ENTITY stopFilters.accesskey "r">
+<!ENTITY folderPickerPrefix.label "Executar los filtres seleccionats sus :">
+<!ENTITY folderPickerPrefix.accesskey "l">
+<!ENTITY choosethis.label "causir aqueste dorsièr">
+<!ENTITY choosethisnewsserver.label "causir aqueste servidor de gropes">
+<!ENTITY helpButton.label "Ajuda">
+<!ENTITY helpButton.accesskey "e">
+<!ENTITY closeCmd.key "W">

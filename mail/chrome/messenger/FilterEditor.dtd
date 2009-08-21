@@ -1,39 +1,38 @@
-<!ENTITY window.title "Filter Rules">
-
-<!ENTITY filterName.label "Filter name:">
+﻿<!ENTITY window.title "Modificar lo filtre">
+<!ENTITY filterName.label "Nom del filtre :">
 <!ENTITY filterName.accesskey "i">
 
-<!ENTITY junk.label "Junk">
-<!ENTITY notJunk.label "Not Junk">
+<!ENTITY junk.label "Indesirable">
+<!ENTITY notJunk.label "Acceptable">
 
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowPriorityCmd.label "Low">
-<!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highestPriorityCmd.label "Highest">
+<!ENTITY lowestPriorityCmd.label "Minimala">
+<!ENTITY lowPriorityCmd.label "Bassa">
+<!ENTITY normalPriorityCmd.label "Normala">
+<!ENTITY highPriorityCmd.label "Nauta">
+<!ENTITY highestPriorityCmd.label "Maximala">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-<!ENTITY filterActionDesc.label "Perform these actions:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY contextDesc.label "Aplicar lo filtre :">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "Al moment de la recepcion del corrièr">
+<!ENTITY contextManual.label "Al moment de son execucion manuala">
+<!ENTITY contextBoth.label "Al moment de la recepcion del corrièr o de son execucion manuala">
+<!ENTITY filterActionDesc.label "Executar aquestas accions :">
+<!ENTITY filterActionDesc.accesskey "x">
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Move Message to">
-<!ENTITY copyMessage.label "Copy Message to">
-<!ENTITY forwardTo.label "Forward Message to">
-<!ENTITY replyWithTemplate.label "Reply with Template">
-<!ENTITY markMessageRead.label "Mark As Read">
-<!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY addTag.label "Tag Message">
-<!ENTITY setJunkScore.label "Set Junk Status to">
-<!ENTITY deleteMessage.label "Delete Message">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY watchThread.label "Watch Thread">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY moveMessage.label "Desplaçar lo messatge cap a">
+<!ENTITY copyMessage.label "Copiar lo messatge dins">
+<!ENTITY forwardTo.label "Transferir lo messatge a">
+<!ENTITY replyWithTemplate.label "Respondre amb lo modèl">
+<!ENTITY markMessageRead.label "Marcar coma legit">
+<!ENTITY markMessageStarred.label "Apondre un seguit">
+<!ENTITY setPriority.label "Definir la prioritat a">
+<!ENTITY addTag.label "Etiquetar lo messatge">
+<!ENTITY setJunkScore.label "Definir l'estatut indesirable a">
+<!ENTITY deleteMessage.label "Suprimir lo messatge">
+<!ENTITY deleteFromPOP.label "Suprimir del servidor POP">
+<!ENTITY fetchFromPOP.label "Rapatriar del servidor POP">
+<!ENTITY ignoreThread.label "Ignorar la discussion">
+<!ENTITY ignoreSubthread.label "Ignorar la discussion filha">
+<!ENTITY watchThread.label "Susvelhar la discussion">
+<!ENTITY stopExecution.label "Arrestar l'execucion del filtre">

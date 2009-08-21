@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -38,58 +38,62 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label           "Properties">
+<!ENTITY folderProps.windowtitle.label           "Proprietats">
 
-<!ENTITY generalInfo.label                       "General Information">
-<!ENTITY folderCharsetTab.label                  "Default Character Encoding:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
+<!ENTITY generalInfo.label                       "Informacions generalas">
+<!ENTITY folderCharsetTab.label                  "Encodatge per defaut dels caractèrs">
+<!ENTITY folderCharsetTab.accesskey              "C">
+<!ENTITY folderCharsetOverride.label             "Aplicar per defaut a totes los messatges del dorsièr (ignorar l'autodeteccion e mai l'encodatge especific per messatge)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Rebuild Index">
+<!ENTITY folderRebuildSummaryFile.label          "Tornar construire l'indèx">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File"> 
-     
-<!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseDefault.label  "Use server defaults">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
-<!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY folderRebuildSummaryFileTip.label       "Torna construire lo resumit del fichièr">
 
-<!ENTITY folderOfflineTab.label                  "Offline">
-<!ENTITY folderCheckForNewMessages.label         "Check this folder for new messages">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY retention.label "Règlas de conservacion">
+<!ENTITY retentionUseDefault.label  "Utilizar los paramètres per defaut del servidor">
+<!ENTITY retentionUseDefault.accesskey "U">
+<!ENTITY daysOld.label "jorns">
+<!ENTITY message.label "darrièrs messatges">
+<!ENTITY retentionCleanup.label "Per ganhar d'espaci de disc, los  messatges ancians pòdon èsser suprimits definitivament.">
+<!ENTITY retentionCleanupImap.label "Per ganhar d'espaci de disc, los messatges ancians pòdon èsser suprimits definitivament, las còpias localas e los originals sul servidor distant.">
+<!ENTITY retentionCleanupPop.label "Per ganhar d'espaci de disc, los messatges ancians pòdon èsser suprimits definitivament, inclús sul servidor distant.">
+<!ENTITY retentionDeleteMsg.label "Suprimir los messatges qu'an mai de">
+<!ENTITY retentionDeleteMsg.accesskey "u">
+<!ENTITY retentionKeepAll.label "Suprimir pas cap de messatge">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Suprimir totes los messatges levats los">
+<!ENTITY retentionKeepNew.accesskey "S">
+<!ENTITY retentionKeepUnread.label "Suprimir totjorn los messatges legits">
+<!ENTITY retentionKeepUnread.accesskey "T">
+<!ENTITY retentionApplyToFlagged.label "Conservar totjor los messatges seguits">
+<!ENTITY retentionApplyToFlagged.accesskey "o">
 
-<!ENTITY offlineFolder.check.label               "Select this folder for offline use">
-<!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Download Now">
-<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY folderSynchronizationTab.label          "Sincronizacion">
+<!ENTITY folderCheckForNewMessages.label         "Susvelhar los messatges novèls dins aqueste dorsièr">
+<!ENTITY folderCheckForNewMessages.accesskey     "S">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Select this newsgroup for offline use">
+<!ENTITY offlineFolder.check.label               "Seleccionar aqueste dorsièr per una utilizacion fòra linha">
+<!ENTITY offlineFolder.check.accesskey           "l">
+<!ENTITY offlineFolder.button.label              "Telecargar ara">
+<!ENTITY offlineFolder.button.accesskey          "h">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Seleccionar aqueste grop per una utilizacion fòra linha">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY offlineNewsgroup.button.label           "Download Now">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY offlineNewsgroup.button.label           "Telecargar ara">
+<!ENTITY offlineNewsgroup.button.accesskey       "m">
 
-<!ENTITY folderProps.name.label                  "Name:">
+<!ENTITY folderProps.name.label                  "Nom :">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Location:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.location.label              "Emplaçament :">
+<!ENTITY folderProps.location.accesskey          "E">
 
-<!ENTITY folderSharingTab.label                  "Sharing">
-<!ENTITY privileges.button.label                 "Privileges…">
+<!ENTITY folderSharingTab.label                  "Pertatge">
+<!ENTITY privileges.button.label                 "Privilègis…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "You have the following permissions:">
-<!ENTITY folderType.label                        "Folder Type:">
+<!ENTITY permissionsDesc.label                   "Avètz las permissions seguentas :">
+<!ENTITY folderType.label                        "Tipe de dorsièr :">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Usage:">
-<!ENTITY folderQuotaStatus.label                 "Status:">
+<!ENTITY folderQuotaTab.label                    "Quotas">
+<!ENTITY folderQuotaRoot.label                   "Raiç dels quotas :">
+<!ENTITY folderQuotaUsage.label                  "Utilizacion :">
+<!ENTITY folderQuotaStatus.label                 "Estatut :">

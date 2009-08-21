@@ -1,10 +1,10 @@
-<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+﻿<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-<!ENTITY status.label "Message Security">
-<!ENTITY signatureCert.label "View Signature Certificate">
-<!ENTITY encryptionCert.label "View Encryption Certificate">
+<!ENTITY status.label "Seguretat dels messatges">
+<!ENTITY signatureCert.label "Veire la signatura del certificat">
+<!ENTITY encryptionCert.label "Veire lo certificat de chiframent">
 
-<!ENTITY signer.name "Signed by:">
-<!ENTITY recipient.name "Encrypted for:">
-<!ENTITY email.address "Email address:">
-<!ENTITY issuer.name "Certificate issued by:">
+<!ENTITY signer.name "Signat per :">
+<!ENTITY recipient.name "Chifrat per :">
+<!ENTITY email.address "Adreça electronica :">
+<!ENTITY issuer.name "Certificat provesit per :">

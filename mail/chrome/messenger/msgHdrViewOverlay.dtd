@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -35,58 +35,60 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "to ">
-<!ENTITY fromField2.label "from ">
-<!ENTITY senderField2.label "sender ">
-<!ENTITY organizationField2.label "organization ">
-<!ENTITY replyToField2.label "reply-to ">
+<!ENTITY toField2.label "per ">
+<!ENTITY fromField2.label "de ">
+<!ENTITY senderField2.label "expeditor ">
+<!ENTITY organizationField2.label "organizacion ">
+<!ENTITY replyToField2.label "responsa a ">
 
-<!ENTITY subjectField2.label "subject ">
+<!ENTITY subjectField2.label "subjècte ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "newsgroups ">
-<!ENTITY followupToField2.label "followup-to ">
-<!ENTITY tagsHdr2.label "tags ">
-<!ENTITY dateField2.label "date ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY ccField2.label "còpia a ">
+<!ENTITY bccField2.label "còpia amagada a ">
+<!ENTITY newsgroupsField2.label "gropes ">
+<!ENTITY followupToField2.label "far seguir a ">
+<!ENTITY tagsHdr2.label "etiquetas ">
+<!ENTITY dateField2.label "data ">
+<!ENTITY userAgentField2.label "agent utilizaire ">
+<!ENTITY referencesField2.label "referéncias ">
+<!ENTITY messageIdField2.label "identificant del messatge ">
+<!ENTITY inReplyToField2.label "en responsa a ">
+<!ENTITY originalWebsite2.label "site Web ">
 
-<!ENTITY editMessageDescription.label "This is a draft message">
-<!ENTITY editMessageButton.label "Edit…">
-<!ENTITY replyButton.label "reply…">
-<!ENTITY forwardButton.label "forward…">
-<!ENTITY junkButton.label "mark as junk">
-<!ENTITY trashButton.tooltiptext "delete">
+<!ENTITY editMessageDescription.label "Aquò es un borrolhon">
+<!ENTITY editMessageButton.label "Modificar…">
+<!ENTITY archiveButton.label "archivar">
+<!ENTITY hdrReplyButton.label "respondre">
+<!ENTITY hdrReplyAllButton.label "respondre a totes">
+<!ENTITY hdrForwardButton.label "transferir">
+<!ENTITY hdrJunkButton.label "indesirable">
+<!ENTITY trashButton.tooltiptext "suprimir">
 
-<!ENTITY otherActionsButton.label "other actions">
-<!ENTITY saveAsMenuItem.label "save as…">
-<!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "view source…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY otherActionsButton.label "autras accions">
+<!ENTITY saveAsMenuItem.label "enregistrar jos…">
+<!ENTITY saveAsMenuItem.accesskey "e">
+<!ENTITY viewSourceMenuItem.label "afichar la font…">
+<!ENTITY viewSourceMenuItem.accesskey "a">
 
-<!ENTITY hideDetailsButton.label "hide details">
-<!ENTITY showDetailsButton.label "show details">
+<!ENTITY hideDetailsButton.label "amagar los detalhs">
+<!ENTITY showDetailsButton.label "afichar los detalhs">
 
-<!ENTITY openAttachmentCmd.label    "Open">
-<!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Save As…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "A">
-<!ENTITY detachAttachmentCmd.label    "Detach…">
-<!ENTITY deleteAttachmentCmd.label    "Delete">
-<!ENTITY saveAllAttachmentsCmd.label    "Save All…">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
-<!ENTITY detachAllAttachmentsCmd.label    "Detach All…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
-<!ENTITY deleteAllAttachmentsCmd.label    "Delete All…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
+<!ENTITY openAttachmentCmd.label "Dobrir">
+<!ENTITY openAttachmentCmd.accesskey "O">
+<!ENTITY saveAsAttachmentCmd.label "Enregistrar jos…">
+<!ENTITY saveAsAttachmentCmd.accesskey "E">
+<!ENTITY detachAttachmentCmd.label "Destacar…">
+<!ENTITY deleteAttachmentCmd.label "Suprimir">
+<!ENTITY saveAllAttachmentsCmd.label "Enregistrar tot…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "T">
+<!ENTITY detachAllAttachmentsCmd.label "Destacar tot…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "D">
+<!ENTITY deleteAllAttachmentsCmd.label "Suprimir tot…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "s">
 
-<!ENTITY copyLinkCmd.label        "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey    "C">
+<!ENTITY copyLinkCmd.label "Copiar l'adreça del ligam">
+<!ENTITY copyLinkCmd.accesskey "C">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
-<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+<!ENTITY CopyMessageId.label "Copiar l'identificant del messatge">
+<!ENTITY OpenMessageForMsgId.label "Dobrir lo messatge per l'identificant">
+<!ENTITY OpenBrowserWithMsgId.label "Dobrir lo navigador amb l'identificant de messatge">

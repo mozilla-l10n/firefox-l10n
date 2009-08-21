@@ -1,54 +1,52 @@
-<!ENTITY itemGeneral.label                   "General">
-<!ENTITY itemAutoComplete.label              "Addressing">
-<!ENTITY itemSpellCheck.label                "Spelling">
+﻿<!ENTITY itemGeneral.label                   "General">
+<!ENTITY itemAutoComplete.label              "Adreçatge">
+<!ENTITY itemSpellCheck.label                "Ortografia">
 
-<!ENTITY forwardMsg.label                     "Forward messages:">
-<!ENTITY forwardMsg.accesskey                 "w">
-<!ENTITY inline.label                         "Inline">
-<!ENTITY inline.accesskey                     "I">
-<!ENTITY asAttachment.label                   "As Attachment">
-<!ENTITY asAttachment.accesskey               "A">
-<!ENTITY addExtension.label                   "add extension to file name">
-<!ENTITY addExtension.accesskey               "f">
+<!ENTITY forwardMsg.label                     "Transferir los messatges :">
+<!ENTITY forwardMsg.accesskey                 "T">
+<!ENTITY inline.label                         "integrats">
+<!ENTITY asAttachment.label                   "en pèças juntas">
+<!ENTITY addExtension.label                   "apondre una extension al nom de fichièr">
+<!ENTITY addExtension.accesskey               "a">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Font:">
-<!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Size:">
-<!ENTITY size.accesskey                       "z">
-<!ENTITY fontColor.label                      "Text Color:">
-<!ENTITY fontColor.accesskey                  "x">
-<!ENTITY bgColor.label                        "Background Color:">
-<!ENTITY bgColor.accesskey                    "B">
-<!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
+<!ENTITY font.label                           "Poliça :">
+<!ENTITY font.accesskey                       "P">
+<!ENTITY size.label                           "Talha :">
+<!ENTITY size.accesskey                       "e">
+<!ENTITY fontColor.label                      "Color del tèxte :">
+<!ENTITY fontColor.accesskey                  "C">
+<!ENTITY bgColor.label                        "Color del rèire plan :">
+<!ENTITY bgColor.accesskey                    "u">
+<!ENTITY restoreHTMLDefaults.label            "Restablir los paramètres inicials">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY spellCheck.label                     "Check spelling before sending">
-<!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Enable spell check as you type">
-<!ENTITY spellCheckInline1.accesskey           "k">
-<!ENTITY languagePopup.label                  "Language:">
-<!ENTITY languagePopup.accessKey              "g">
-<!ENTITY downloadDictionaries.label           "Download More Dictionaries">
+<!ENTITY spellCheck.label                     "Verificar l'ortografia abans lo mandadís">
+<!ENTITY spellCheck.accesskey                 "V">
+<!ENTITY spellCheckInline.label               "Activar la verificacion pendent la picada">
+<!ENTITY spellCheckInline1.accesskey          "A">
+<!ENTITY languagePopup.label                  "Lenga :">
+<!ENTITY languagePopup.accessKey              "L">
+<!ENTITY downloadDictionaries.label           "Telecargar d'autres diccionaris">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
-<!ENTITY warnOnSendAccelKey.accesskey         "i">
-<!ENTITY autoSave.label                       "Auto Save every">
-<!ENTITY autoSave.accesskey                   "u">
-<!ENTITY autoSaveEnd.label                    "minutes">
+<!ENTITY warnOnSendAccelKey.label             "Demandar confirmacion al moment de l'utilizacion d'un acorchi de clavièr per mandar un messatge">
+<!ENTITY warnOnSendAccelKey.accesskey         "D">
+<!ENTITY autoSave.label                       "Salvament automatic cada">
+<!ENTITY autoSave.accesskey                   "S">
+<!ENTITY autoSaveEnd.label                    "minutas">
 
-<!ENTITY emailCollectionPicker.label           "Automatically add outgoing e-mail addresses to my:">
-<!ENTITY emailCollectionPicker.accesskey       "t">
-<!ENTITY addressingTitle.label                 "Address Autocompletion">
-<!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
-<!ENTITY addressingEnable.label                "Local Address Books">
-<!ENTITY addressingEnable.accesskey            "A">
-<!ENTITY directories.label                     "Directory Server:">
-<!ENTITY directories.accesskey                 "D">
-<!ENTITY directoriesNone.label                 "None">
-<!ENTITY editDirectories.label                 "Edit Directories…">
-<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY emailCollectionPicker.label           "Apondre las adreças dels messatges sortents dins :">
+<!ENTITY emailCollectionPicker.accesskey       "A">
+<!ENTITY addressingTitle.label                 "Autocomplecion d'adreças">
+<!ENTITY autocompleteText.label                "Al moment de la recèrca d'adreças, cercar las correspondéncias dins :">
+<!ENTITY addressingEnable.label                "Quasernet d'adreças locals">
+<!ENTITY addressingEnable.accesskey            "C">
+<!ENTITY directories.label                     "Servidor d'annuari :">
+<!ENTITY directories.accesskey                 "S">
+<!ENTITY directoriesNone.label                 "Pas cap">
+<!ENTITY editDirectories.label                 "Modificar los annuaris…">
+<!ENTITY editDirectories.accesskey             "M">
 
-<!ENTITY sendOptionsDescription.label          "Configure text format behavior">
-<!ENTITY sendOptions.label                     "Send Options…">
-<!ENTITY sendOptions.accesskey                 "S">
+<!ENTITY sendOptionsDescription.label          "Configuracion del comportament pel mandadís en format tèxte">
+<!ENTITY sendOptions.label                     "Opcions d'expedicion…">
+<!ENTITY sendOptions.accesskey                 "O">

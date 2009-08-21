@@ -1,14 +1,14 @@
-<!ENTITY virtualFolderProperties.title "New Saved Search Folder">
-<!ENTITY name.label                 "Name:">
+﻿<!ENTITY virtualFolderProperties.title "Dorsièr virtual novèl">
+<!ENTITY name.label                 "Nom :">
 <!ENTITY name.accesskey             "N">
-<!ENTITY description.label          "Create as a subfolder of:">
+<!ENTITY description.label          "Crear coma un sosdorsièr de :">
 <!ENTITY description.accesskey      "C">
 
-<!ENTITY searchTermCaption.label "Configure the search criteria used for this saved search folder: ">
+<!ENTITY searchTermCaption.label "Configurar los critèris de recèrca utilizats per aqueste dorsièr virtual : ">
 
-<!ENTITY folderSelectionCaption.label "Select the folders to search: ">
-<!ENTITY chooseFoldersButton.label "Choose…">
+<!ENTITY folderSelectionCaption.label "Causir los dorsièrs dins los quals cercar : ">
+<!ENTITY chooseFoldersButton.label "Causir…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label "Search Online (Gives up-to-date results for IMAP and News folders but increases time to open the folder)">
-<!ENTITY searchOnline.accesskey "S">
+<!ENTITY searchOnline.label "Cercar en linha (resultats mai a jorn suls dorsièrs IMAP e gropes mas temps de dobertura del dorsièr mai grand)">
+<!ENTITY searchOnline.accesskey "l">

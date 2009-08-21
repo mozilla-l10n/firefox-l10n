@@ -1,24 +1,24 @@
-<!ENTITY offlineDialog.title "Offline Settings">
+﻿<!ENTITY offlineDialog.title "Paramètres fòra linha">
 
-<!ENTITY textStartUp "When starting up:">
-<!ENTITY radioRememberPrevState.label "Remember previous online state">
-<!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Ask me for online state at startup">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Always start up online">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY textStartUp "A l'aviada :">
+<!ENTITY radioRememberPrevState.label "Se remembrar de l'estat precedent">
+<!ENTITY radioRememberPrevState.accesskey "S">
+<!ENTITY radioAskMe.label "Demandar a passar en mòde connectat">
+<!ENTITY radioAskMe.accesskey "D">
+<!ENTITY radioAlwaysOnline.label "Aviar totjorn en mòde connectat">
+<!ENTITY radioAlwaysOnline.accesskey "T">
 
-<!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend.label "Yes">
-<!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend.label "No">
+<!ENTITY textGoingOnline "Mandar los messatges en espèra al moment del passatge en mòde connectat ?">
+<!ENTITY radioAutoSend.label "Òc">
+<!ENTITY radioAutoSend.accesskey "u">
+<!ENTITY radioNotSend.label "Non">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Ask me">
-<!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload.label "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload.label "No">
+<!ENTITY radioAskUnsent.label "Demandar">
+<!ENTITY radioAskUnsent.accesskey "e">
+<!ENTITY textGoingOffline "Telecargar los messatges per una utilizacion fòra linha al moment del passatge en mòde desconnectat ?">
+<!ENTITY radioAutoDownload.label "Òc">
+<!ENTITY radioAutoDownload.accesskey "i">
+<!ENTITY radioNotDownload.label "Non">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAskDownload.label "Demandar">
+<!ENTITY radioAskDownload.accesskey "m">
