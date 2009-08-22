@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Färg:">
 <!ENTITY color.accesskey                  "F">
 <!ENTITY displayWidth.label               "Oformaterade meddelanden">
-<!ENTITY plainText.label                  "Använd teckensnitt av denna typ:">
 <!ENTITY displayText.label                "Vid visning av citerad text i oformaterade meddelanden:">
-<!ENTITY fixedWidth.label                 "Fast bredd">
-<!ENTITY fixedWidth.accesskey             "a">
-<!ENTITY variableWidth.label              "Variabel bredd">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY colors.label                     "Färger">
 <!ENTITY overrideColors.label             "Vid visning av meddelanden, använd följande färger:">
 <!ENTITY textColor.label                  "Textfärg:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "T">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Välj vilka teckensnitt och teckenuppsättningar som &brandShortName; ska använda">
-<!ENTITY fontsAndEncodingsCaption.label      "Teckensnitt &amp; teckenuppsättningar">
-<!ENTITY fontOptions.accesskey   "c">
-<!ENTITY fontOptions.label       "Teckensnitt…">
+<!ENTITY fontsAndColors.label    "Teckensnitt">
+<!ENTITY defaultFont.label       "Standardteckensnitt:">
+<!ENTITY defaultFont.accesskey   "d">
+<!ENTITY defaultSize.label       "Storlek:">
+<!ENTITY defaultSize.accesskey   "t">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Avancerat…">
