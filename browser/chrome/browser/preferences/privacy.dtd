@@ -57,8 +57,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "rensa ut tidigare historik">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Starta automatiskt &brandShortName; i en session för privat surfning">
-<!ENTITY  privateBrowsingAutoStart.accesskey "S">
+<!ENTITY  privateBrowsingPermanent.label "Använd alltid läget privat surfning">
+<!ENTITY  privateBrowsingPermanent.accesskey "A">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
