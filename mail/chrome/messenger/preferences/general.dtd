@@ -1,32 +1,32 @@
 <!ENTITY messengerStartPage.label         "&brandShortName;-Startseite">
 <!ENTITY enableStartPage.label            "Beim Aufrufen von &brandShortName; die Startseite anzeigen">
-<!ENTITY enableStartPage.accesskey        "S">
+<!ENTITY enableStartPage.accesskey        "m">
 <!ENTITY location.label                   "Adresse:">
-<!ENTITY location1.accesskey              "A">
+<!ENTITY location1.accesskey              "r">
 <!ENTITY useDefault.label                 "Standard wiederherstellen">
 <!ENTITY useDefault.accesskey             "w">
 
 <!ENTITY bounceSystemDockIcon.label       "Das Dock-Symbol animieren">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY bounceSystemDockIcon.accesskey   "D">
 
 <!ENTITY newMessagesArrive.label          "Wenn neue Nachrichten eintreffen">
 <!ENTITY playSound.label                  "Einen Klang abspielen">
-<!ENTITY playSound1.accesskey             "e">
+<!ENTITY playSound1.accesskey             "K">
 <!ENTITY showAnimatedAlert.label          "Eine Benachrichtigung anzeigen">
-<!ENTITY showAnimatedAlert.accesskey      "n">
+<!ENTITY showAnimatedAlert.accesskey      "B">
 <!ENTITY customizeMailAlert.label         "Anpassen…">
-<!ENTITY customizeMailAlert.accesskey     "p">
+<!ENTITY customizeMailAlert.accesskey     "A">
 
 <!ENTITY play.label                       "Probe hören">
-<!ENTITY play.accesskey                   "h">
+<!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Systemklang für neue Nachrichten">
 <!ENTITY systemsoundMac.label             "System-Warnton">
-<!ENTITY systemsoundMac.accesskey         "y">
-<!ENTITY systemsound.accesskey            "y">
+<!ENTITY systemsoundMac.accesskey         "S">
+<!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Benutzerdefinierter Klang">
-<!ENTITY customsound.accesskey            "u">
+<!ENTITY customsound.accesskey            "e">
 <!ENTITY browse.label                     "Durchsuchen…">
-<!ENTITY browse.accesskey                 "D">
+<!ENTITY browse.accesskey                 "u">
 
 <!ENTITY addonsMgr.label                  "Add-ons">
 <!ENTITY manageAddonsDescWin.label        "Add-on-Einstellungen ändern">

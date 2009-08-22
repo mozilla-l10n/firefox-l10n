@@ -4,11 +4,11 @@
 <!ENTITY askMe.label                  "Fragen, wie gesendet werden soll">
 <!ENTITY askMe.accesskey              "F">
 <!ENTITY convertPlain.label           "Nachrichten in reinen Text konvertieren">
-<!ENTITY convertPlain.accesskey       "T">
+<!ENTITY convertPlain.accesskey       "N">
 <!ENTITY sendHTML.label               "Nachrichten trotzdem als HTML senden">
-<!ENTITY sendHTML.accesskey           "H">
+<!ENTITY sendHTML.accesskey           "a">
 <!ENTITY sendBoth.label               "Nachrichten als Reintext und HTML senden">
-<!ENTITY sendBoth.accesskey           "s">
+<!ENTITY sendBoth.accesskey           "c">
 <!ENTITY override.label               "Hinweis: 
 Nutzen Sie das Adressbuch, um das bevorzugte Format für einzelne Empfänger anzugeben.">
 
@@ -16,7 +16,7 @@ Nutzen Sie das Adressbuch, um das bevorzugte Format für einzelne Empfänger anz
 <!ENTITY HTMLTab.label                "HTML-Domains">
 <!ENTITY HTMLTab.accesskey            "M">
 <!ENTITY PlainTextTab.label           "Reintext-Domains">
-<!ENTITY PlainTextTab.accesskey       "t">
+<!ENTITY PlainTextTab.accesskey       "R">
 <!ENTITY AddHtmlDomain.label          "Hinzufügen…">
 <!ENTITY AddHtmlDomain.accesskey      "H">
 <!ENTITY AddPlainText.label           "Hinzufügen…">
