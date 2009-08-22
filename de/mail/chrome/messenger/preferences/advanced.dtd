@@ -30,14 +30,14 @@
 <!ENTITY showCondensedAddresses.accesskey "u">
 
 <!ENTITY autoMarkAsRead.label          "Nachrichten automatisch als gelesen markieren">
-<!ENTITY autoMarkAsRead.accesskey      "N">
+<!ENTITY autoMarkAsRead.accesskey      "a">
 <!ENTITY markAsReadNoDelay.label       "Sofort beim Anzeigen">
 <!ENTITY markAsReadNoDelay.accesskey   "S">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "Nach dem Anzeigen für">
-<!ENTITY markAsReadDelay.accesskey     "a">
+<!ENTITY markAsReadDelay.accesskey     "c">
 <!ENTITY secondsLabel.label            "Sekunden">
 <!ENTITY openMsgIn.label               "Nachricht durch Doppelklick öffnen in:">
 <!ENTITY openMsgInNewTab.label         "Neuem Tab">
@@ -47,7 +47,7 @@
 <!ENTITY reuseExpRadio1.label          "Vorhandenem Fenster">
 <!ENTITY reuseExpRadio1.accesskey      "V">
 <!ENTITY closeMsgWindowOnDelete.label  "Nachrichtenfenster beim Löschen schließen">
-<!ENTITY closeMsgWindowOnDelete.accesskey "c">
+<!ENTITY closeMsgWindowOnDelete.accesskey "h">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisch auf Updates überprüfen für:">
