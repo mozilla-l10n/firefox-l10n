@@ -27,17 +27,17 @@
 <!ENTITY reading.caption                "Lesen">
 <!ENTITY display.caption                "Ansicht">
 <!ENTITY showCondensedAddresses.label   "Nur den Anzeigenamen bei bekannten Kontakten zeigen">
-<!ENTITY showCondensedAddresses.accesskey "b">
+<!ENTITY showCondensedAddresses.accesskey "u">
 
 <!ENTITY autoMarkAsRead.label          "Nachrichten automatisch als gelesen markieren">
-<!ENTITY autoMarkAsRead.accesskey      "a">
+<!ENTITY autoMarkAsRead.accesskey      "N">
 <!ENTITY markAsReadNoDelay.label       "Sofort beim Anzeigen">
 <!ENTITY markAsReadNoDelay.accesskey   "S">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "Nach dem Anzeigen für">
-<!ENTITY markAsReadDelay.accesskey     "c">
+<!ENTITY markAsReadDelay.accesskey     "a">
 <!ENTITY secondsLabel.label            "Sekunden">
 <!ENTITY openMsgIn.label               "Nachricht durch Doppelklick öffnen in:">
 <!ENTITY openMsgInNewTab.label         "Neuem Tab">
@@ -47,7 +47,7 @@
 <!ENTITY reuseExpRadio1.label          "Vorhandenem Fenster">
 <!ENTITY reuseExpRadio1.accesskey      "V">
 <!ENTITY closeMsgWindowOnDelete.label  "Nachrichtenfenster beim Löschen schließen">
-<!ENTITY closeMsgWindowOnDelete.accesskey "h">
+<!ENTITY closeMsgWindowOnDelete.accesskey "c">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisch auf Updates überprüfen für:">
@@ -95,9 +95,9 @@
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Wenn eine Website nach dem persönlichen Sicherheitszertifikat verlangt:">
 <!ENTITY certs.auto                      "Automatisch eins wählen">
-<!ENTITY certs.auto.accesskey            "w">
+<!ENTITY certs.auto.accesskey            "A">
 <!ENTITY certs.ask                       "Jedes Mal fragen">
-<!ENTITY certs.ask.accesskey             "J">
+<!ENTITY certs.ask.accesskey             "e">
 
 <!ENTITY viewCertificates.label         "Zertifikate">
 <!ENTITY viewCertificates.accesskey     "Z">

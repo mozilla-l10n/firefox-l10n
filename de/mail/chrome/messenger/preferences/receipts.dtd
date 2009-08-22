@@ -1,6 +1,6 @@
 <!ENTITY dialog.title                  "Empfangsbestätigungen (MDN)">
 <!ENTITY requestReceipt.label          "Immer eine Empfangsbestätigung anfordern">
-<!ENTITY requestReceipt.accesskey      "I">
+<!ENTITY requestReceipt.accesskey      "m">
 <!ENTITY receiptArrive.label           "Wenn eine Empfangsbestätigung ankommt:">
 <!ENTITY leaveIt.label                 "Im Posteingang belassen">
 <!ENTITY leaveIt.accesskey             "P">
@@ -12,11 +12,11 @@
 <!ENTITY returnSome.label              "Bei manchen Nachrichten Empfangsbestätigungen erlauben">
 <!ENTITY returnSome.accesskey          "B">
 <!ENTITY notInToCc.label               "Wenn ich nicht in der An- oder CC-Zeile stehe:">
-<!ENTITY notInToCc.accesskey           "t">
+<!ENTITY notInToCc.accesskey           "W">
 <!ENTITY outsideDomain.label           "Wenn der Absender außerhalb meiner Domain ist:">
-<!ENTITY outsideDomain.accesskey       "s">
+<!ENTITY outsideDomain.accesskey       "E">
 <!ENTITY otherCases.label              "In allen anderen Fällen:">
-<!ENTITY otherCases.accesskey          "F">
+<!ENTITY otherCases.accesskey          "n">
 <!ENTITY askMe.label                   "Fragen">
 <!ENTITY alwaysSend.label              "Immer senden">
 <!ENTITY neverSend.label               "Nie senden">

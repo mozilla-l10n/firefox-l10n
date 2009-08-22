@@ -8,13 +8,13 @@
 <!ENTITY manualMark.label "Wenn Nachrichten manuell als Junk markiert werden:">
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "Verschiebe diese in den für Junk bestimmten Ordner des Kontos">
-<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeMove.accesskey "V">
 <!ENTITY manualMarkModeDelete.label "Lösche diese Nachrichten">
-<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY manualMarkModeDelete.accesskey "L">
 <!ENTITY markAsReadOnSpam.label "Junk als gelesen markieren">
-<!ENTITY markAsReadOnSpam.accesskey "k">
+<!ENTITY markAsReadOnSpam.accesskey "J">
 <!ENTITY enableJunkLogging.label "Junk-Protokoll aktivieren">
-<!ENTITY enableJunkLogging.accesskey "J">
+<!ENTITY enableJunkLogging.accesskey "u">
 <!ENTITY openJunkLog.label "Protokoll anzeigen…">
 <!ENTITY openJunkLog.accesskey "P">
 <!ENTITY resetTrainingData.label "Trainingsdaten löschen">
