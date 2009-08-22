@@ -71,6 +71,9 @@
 <!ENTITY downloadRetry.label "Паўтарыць">
 <!ENTITY noResults.label "Няма вынікаў">
 <!ENTITY allBookmarks.label "Прагледзець усе закладкі">
+<!ENTITY bookmarkPopup.label "Закладзеная старонка">
+<!ENTITY bookmarkRemove.label "Выдаліць">
+<!ENTITY bookmarkEdit.label "Праўка">
 <!ENTITY identity.unverifiedsite2 "Гэтая пляцоўка сеціва не мае звестак пра адмету.">
 <!ENTITY identity.connectedTo2 "Злучаны з">
 <!ENTITY identity.runBy2 "выконваецца">
