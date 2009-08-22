@@ -14,12 +14,7 @@
 <!ENTITY color.label "Цвет:">
 <!ENTITY color.accesskey "в">
 <!ENTITY displayWidth.label "Простые текстовые сообщения">
-<!ENTITY plainText.label "Использовать следующий шрифт:">
 <!ENTITY displayText.label "При отображении цитат в простых текстовых сообщениях:">
-<!ENTITY fixedWidth.label "Моноширинный">
-<!ENTITY fixedWidth.accesskey "н">
-<!ENTITY variableWidth.label "Пропорциональный">
-<!ENTITY variableWidth.accesskey "п">
 <!ENTITY colors.label "Цвета">
 <!ENTITY overrideColors.label "При отображении сообщений использовать следующие цвета:">
 <!ENTITY textColor.label "Цвет текста:">
@@ -35,7 +30,10 @@
 <!ENTITY editTagButton.accesskey "е">
 <!ENTITY removeTagButton.label "Удалить">
 <!ENTITY removeTagButton.accesskey "д">
-<!ENTITY fontAndEncodingsDescription.label "Настройка шрифтов и кодировок, используемых в &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label "Шрифты и кодировки">
-<!ENTITY fontOptions.accesskey "р">
-<!ENTITY fontOptions.label "Шрифты…">
+<!ENTITY fontsAndColors.label "Шрифты">
+<!ENTITY defaultFont.label "Шрифт по умолчанию:">
+<!ENTITY defaultFont.accesskey "ф">
+<!ENTITY defaultSize.label "Размер:">
+<!ENTITY defaultSize.accesskey "м">
+<!ENTITY fontOptions.accesskey "п">
+<!ENTITY fontOptions.label "Дополнительно…">
