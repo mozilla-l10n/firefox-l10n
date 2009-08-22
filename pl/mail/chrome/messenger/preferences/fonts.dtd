@@ -6,9 +6,9 @@
 <!ENTITY language.label     "Czcionki:">
 <!ENTITY language.accesskey "C">
 
-<!ENTITY sizes.label                "Rozmiar:">
+<!ENTITY size.label                 "Rozmiar:">
 <!ENTITY proportionalSize.accesskey "R">
-<!ENTITY monospaceSize.accesskey    "z">
+<!ENTITY sizeMono.accesskey         "z">
 
 <!ENTITY proportional.label     "Proporcjonalna:">
 <!ENTITY proportional.accesskey "p">
@@ -57,8 +57,12 @@
 <!ENTITY useDefaultFontSerif.label     "Szeryfowa">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
-<!ENTITY useDocumentFonts.label "Zezwalaj na używanie czcionek zadeklarowanych w wiadomościach">
-<!ENTITY useDocumentFonts.accesskey "o">
+<!-- fonts in message -->
+<!ENTITY fontControl.label               "Zarządzanie czcionkami"><!-- FIXME: potrzebne coś lepszego, zob ui; accesskeys -->
+<!ENTITY useFixedWidthForPlainText.label "Używaj czcionki o stałej szerokości dla wiadomości wysyłanych jako zwykły tekst">
+<!ENTITY fixedWidth.accesskey            "z">
+<!ENTITY useDocumentFonts.label          "Zezwalaj na używanie czcionek zadeklarowanych w wiadomościach">
+<!ENTITY useDocumentFonts.accesskey      "o">
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label     "Poczta wychodząca:">

@@ -15,12 +15,7 @@
 <!ENTITY color.label                "Kolor:">
 <!ENTITY color.accesskey            "K">
 <!ENTITY displayWidth.label         "Wiadomości tekstowe">
-<!ENTITY plainText.label            "Używaj czcionki:">
 <!ENTITY displayText.label          "Ustawienia wyświetlania cytatów w wiadomościach tekstowych:">
-<!ENTITY fixedWidth.label           "o stałej szerokości">
-<!ENTITY fixedWidth.accesskey       "s">
-<!ENTITY variableWidth.label        "o zmiennej szerokości">
-<!ENTITY variableWidth.accesskey    "z">
 <!ENTITY colors.label               "Kolory">
 <!ENTITY overrideColors.label       "Podczas wyświetlania wiadomości używaj następujących kolorów:">
 <!ENTITY  textColor.label           "Kolor tekstu:">
@@ -41,8 +36,10 @@
 <!ENTITY removeTagButton.accesskey "U">
 
 <!-- Fonts -->
-<!ENTITY  fontAndEncodingsDescription.label "Ustawienia czcionek używanych przez program &brandShortName;">
-<!ENTITY  fontsAndEncodingsCaption.label    "Czcionki i zestawy znaków">
-<!ENTITY fontOptions.accesskey              "C">
-<!ENTITY fontOptions.label                  "Czcionki…">
-
+<!ENTITY fontsAndColors.label  "Czcionki">
+<!ENTITY defaultFont.label     "Domyślna czcionka:">
+<!ENTITY defaultFont.accesskey "D">
+<!ENTITY defaultSize.label     "Rozmiar:">
+<!ENTITY defaultSize.accesskey "R">
+<!ENTITY fontOptions.label     "Zaawansowane…">
+<!ENTITY fontOptions.accesskey "Z">
