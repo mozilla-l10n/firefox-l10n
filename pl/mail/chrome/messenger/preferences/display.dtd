@@ -2,13 +2,13 @@
 <!ENTITY itemTags.label             "Etykiety">
 
 <!ENTITY style.label                "Styl:">
-<!ENTITY style.accesskey            "t">
+<!ENTITY style.accesskey            "S">
 <!ENTITY regularStyle.label         "Normalny">
 <!ENTITY bold.label                 "Pogrubiony">
 <!ENTITY italic.label               "Kursywa">
 <!ENTITY boldItalic.label           "Pogrubiona kursywa">
 <!ENTITY size.label                 "Rozmiar:">
-<!ENTITY size.accesskey             "R">
+<!ENTITY size.accesskey             "o">
 <!ENTITY regularSize.label          "Normalny">
 <!ENTITY bigger.label               "Większy">
 <!ENTITY smaller.label              "Mniejszy">
