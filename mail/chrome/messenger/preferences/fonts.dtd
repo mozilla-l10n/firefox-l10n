@@ -4,9 +4,9 @@
 <!ENTITY window.unixWidth "56em">
 <!ENTITY language.label "Шрифты для набора символов:">
 <!ENTITY language.accesskey "ф">
-<!ENTITY sizes.label "Размер (пикселы)">
+<!ENTITY size.label "Размер:">
 <!ENTITY proportionalSize.accesskey "м">
-<!ENTITY monospaceSize.accesskey "с">
+<!ENTITY sizeMono.accesskey "з">
 <!ENTITY proportional.label "Пропорциональный:">
 <!ENTITY proportional.accesskey "р">
 <!ENTITY serif.label "С засечками:">
@@ -47,6 +47,9 @@
 <!ENTITY minSize.none "Нет">
 <!ENTITY useDefaultFontSerif.label "С засечками">
 <!ENTITY useDefaultFontSansSerif.label "Без засечек">
+<!ENTITY fontControl.label "Управление шрифтами">
+<!ENTITY useFixedWidthForPlainText.label "Использовать моноширинный шрифт для простых текстовых сообщений">
+<!ENTITY fixedWidth.accesskey "н">
 <!ENTITY useDocumentFonts.label "Разрешить сообщениям использовать другие шрифты">
 <!ENTITY useDocumentFonts.accesskey "р">
 <!ENTITY sendDefaultCharset.label "Исходящие сообщения:">
