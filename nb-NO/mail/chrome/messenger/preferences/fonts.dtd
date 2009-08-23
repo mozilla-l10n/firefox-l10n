@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Skrifttyper for:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  sizes.label                             "Størrelse">
+<!ENTITY  size.label                              "Størrelse:">
 <!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  sizeMono.accesskey                      "l">
 
 <!ENTITY  proportional.label                      "Proporsjonal:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Skrifttypekontroll">
+<!ENTITY  useFixedWidthForPlainText.label         "Bruk skrifttype med fast tegnavstand for meldinger i ren tekst">
+<!ENTITY  fixedWidth.accesskey                    "B">
 <!ENTITY  useDocumentFonts.label                  "La meldinger bruke andre skrifttyper">
 <!ENTITY  useDocumentFonts.accesskey              "L">
 
