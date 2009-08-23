@@ -7,6 +7,8 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY releaseCmd.label "Utgivelsesmerknader">
 <!ENTITY releaseCmd.accesskey "U">
+<!ENTITY whatsNewCmd.label "Hva er nytt">
+<!ENTITY whatsNewCmd.accesskey "H">
 <!ENTITY openHelp.label "Innhold">
 <!ENTITY openHelp.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
