@@ -36,8 +36,8 @@
 <!ENTITY dontrememberActions.pre.label "Ці вы можаце">
 <!ENTITY dontrememberActions.clearHistory.label "ачысціць усю цяперашнюю гісторыю">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingAutoStart.label "Самастойна запускаць &brandShortName; ў сэсіі адасобленага азірання">
-<!ENTITY privateBrowsingAutoStart.accesskey "С">
+<!ENTITY privateBrowsingPermanent.label "Заўсёдны рэжым адасобленага азірання">
+<!ENTITY privateBrowsingPermanent.accesskey "З">
 <!ENTITY rememberHistory.pre.label "Памятаць маю гісторыю азірання на працягу">
 <!ENTITY rememberHistory.pre.accesskey "г">
 <!ENTITY rememberHistory.post.label "дзён">
