@@ -59,7 +59,7 @@
 
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Contrôle des polices">
-<!ENTITY  useFixedWidthForPlainText.label         "Utiliser une police à largeur fixe pour les message au format texte">
+<!ENTITY  useFixedWidthForPlainText.label         "Utiliser une police à largeur fixe pour les messages au format texte">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Autoriser les messages à utiliser d'autres polices">
 <!ENTITY  useDocumentFonts.accesskey              "A">
