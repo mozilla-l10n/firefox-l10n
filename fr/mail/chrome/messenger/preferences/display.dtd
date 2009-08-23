@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Couleur :">
 <!ENTITY color.accesskey                  "u">
 <!ENTITY displayWidth.label               "Messages en texte simple">
-<!ENTITY plainText.label		  "Utiliser la police suivante :">
 <!ENTITY displayText.label	          "Lors de l'affichage de citations en texte simple :">
-<!ENTITY fixedWidth.label                 "Police de largeur fixe">
-<!ENTITY fixedWidth.accesskey             "x">
-<!ENTITY variableWidth.label              "Police de largeur variable">
-<!ENTITY variableWidth.accesskey          "v">
 <!ENTITY colors.label                     "Couleurs">
 <!ENTITY overrideColors.label             "Lors de l'affichage des messages, utiliser les couleurs suivantes :">
 <!ENTITY textColor.label                  "Couleur de texte :">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey  "S">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label       "Configurer les polices et encodages utilisés par &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label          "Polices et encodages">
-<!ENTITY fontOptions.accesskey   "P">
-<!ENTITY fontOptions.label       "Polices…">
+<!ENTITY fontsAndColors.label    "Polices">
+<!ENTITY defaultFont.label       "Police par défaut :">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Taille :">
+<!ENTITY defaultSize.accesskey   "T">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Avancé…">
