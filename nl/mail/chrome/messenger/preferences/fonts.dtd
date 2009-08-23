@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Lettertypen voor:">
 <!ENTITY  language.accesskey                      "L">
 
-<!ENTITY  sizes.label                             "Grootte (pixels)">
+<!ENTITY  size.label                              "Grootte:">
 <!ENTITY  proportionalSize.accesskey              "G">
-<!ENTITY  monospaceSize.accesskey                 "e">
+<!ENTITY  sizeMono.accesskey                      "e">
 
 <!ENTITY  proportional.label                      "Proportioneel:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "Met schreef">
 <!ENTITY  useDefaultFontSansSerif.label           "Schreefloos">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Lettertypen instellingen">
+<!ENTITY  useFixedWidthForPlainText.label         "Gebruik vastebreedtelettertype voor platte tekstberichten">
+<!ENTITY  fixedWidth.accesskey                    "v">
 <!ENTITY  useDocumentFonts.label                  "Berichten toestaan om andere lettertypen te gebruiken">
 <!ENTITY  useDocumentFonts.accesskey              "a">
 

@@ -42,7 +42,10 @@
 <!ENTITY removeTagButton.accesskey        "V">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "De lettertypen en tekensets configureren die worden gebruikt door &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Lettertypen &amp; tekensets">
-<!ENTITY fontOptions.accesskey            "L">
-<!ENTITY fontOptions.label                "Lettertypen…">
+<!ENTITY fontsAndColors.label    "Lettertypen">
+<!ENTITY defaultFont.label       "Standaardlettertype:">
+<!ENTITY defaultFont.accesskey   "S">
+<!ENTITY defaultSize.label       "Grootte:">
+<!ENTITY defaultSize.accesskey   "G">
+<!ENTITY fontOptions.accesskey   "c">
+<!ENTITY fontOptions.label       "Geavanceerd…">
