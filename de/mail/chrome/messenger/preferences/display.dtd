@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Farbe:">
 <!ENTITY color.accesskey                  "a">
 <!ENTITY displayWidth.label               "Reintext-Nachrichten">
-<!ENTITY plainText.label				          "Schriftart:">
 <!ENTITY displayText.label				        "Beim Anzeigen von zitierten Reintext-Nachrichten:">
-<!ENTITY fixedWidth.label                 "Feste Breite">
-<!ENTITY fixedWidth.accesskey             "F">
-<!ENTITY variableWidth.label              "Variable Breite">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY colors.label                     "Farben">
 <!ENTITY overrideColors.label             "Folgende Farben beim Anzeigen von Nachrichten verwenden:">
 <!ENTITY textColor.label                  "Text-Farbe:">
