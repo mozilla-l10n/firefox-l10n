@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Kleur:">
 <!ENTITY color.accesskey                  "K">
 <!ENTITY displayWidth.label               "Plattetekstberichten">
-<!ENTITY plainText.label                  "Het volgende lettertype gebruiken:">
 <!ENTITY displayText.label                "Geciteerde tekst in plattetekstberichten weergeven als:">
-<!ENTITY fixedWidth.label                 "Vastebreedtelettertype">
-<!ENTITY fixedWidth.accesskey             "V">
-<!ENTITY variableWidth.label              "Variabelebreedtelettertype">
-<!ENTITY variableWidth.accesskey          "r">
 <!ENTITY colors.label                     "Kleuren">
 <!ENTITY overrideColors.label             "Bij het weergeven van berichten de volgende kleuren gebruiken:">
 <!ENTITY textColor.label                  "Tekstkleur:">
