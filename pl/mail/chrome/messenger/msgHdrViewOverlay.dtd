@@ -49,14 +49,14 @@
 <!ENTITY subjectField2.label      "temat ">
 <!ENTITY ccField2.label           "kopia ">
 <!ENTITY bccField2.label          "ukryta kopia ">
-<!ENTITY newsgroupsField2.label   "grupy dyskusyjne ">
+<!ENTITY newsgroupsField2.label   "grupy ">
 <!ENTITY followupToField2.label   "kontynuacja na ">
 <!ENTITY tagsHdr2.label           "etykiety ">
 <!ENTITY dateField2.label         "data ">
 <!ENTITY userAgentField2.label    "program ">
 <!ENTITY referencesField2.label   "odniesienia ">
 <!ENTITY messageIdField2.label    "ID wiadomości ">
-<!ENTITY inReplyToField2.label    "w odpowiedzi na ">
+<!ENTITY inReplyToField2.label    "odpowiedź na ">
 <!ENTITY originalWebsite2.label   "witryna internetowa ">
 
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
