@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "סיווג תוכן">
+<!ENTITY  typeColumn.accesskey        "ס">
+
+<!ENTITY  actionColumn2.label         "פעולה">
+<!ENTITY  actionColumn2.accesskey     "פ">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "חיפוש">
+
+<!ENTITY saveTo.label                 "שמור קבצים אל ">
+<!ENTITY saveTo.accesskey             "ש">
+<!ENTITY alwaysAsk.label              "שאל תמיד היכן לשמור קבצים">
+<!ENTITY alwaysAsk.accesskey          "ת">
+<!ENTITY chooseFolderWin.label        "סייר…">
+<!ENTITY chooseFolderWin.accesskey    "ס">
+<!ENTITY chooseFolderMac.label        "בחר…">
+<!ENTITY chooseFolderMac.accesskey    "ב">
