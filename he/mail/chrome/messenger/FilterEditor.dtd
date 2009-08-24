@@ -31,7 +31,6 @@
 
 <!ENTITY contextBoth.label "בודק דואר או מורץ ידנית">
 <!ENTITY contextPostPlugin.label "בודק דואר (לאחר סווג)">
-Checking Mail (after classification)">
 <!ENTITY contextPostPluginBoth.label "בודק דואר (לאחר סווג) או בהפעלה ידנית">
 
 <!ENTITY contextDesc.accesskey "כ">
