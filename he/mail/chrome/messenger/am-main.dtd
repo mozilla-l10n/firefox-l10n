@@ -12,8 +12,16 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "ארגון:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "הוסף חתימה זו:">
-<!ENTITY signature.accesskey "t">
+<!-- ### ENTITY signature.label "הוסף חתימה זו:" -->
+<!-- ### ENTITY signature.accesskey "t" -->
+
+<!ENTITY signatureText.label "טקסט לחתימה:">
+<!ENTITY signatureText.accesskey "ט">
+<!ENTITY signatureHtml.label "השתמש ב־HTML (כגון &lt;b&gt;הדגשה&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "צרף חתימה מקובץ (קובץ טקסט, HTML, או תמונה):">
+<!ENTITY signatureFile.accesskey "ק">
+
 <!ENTITY edit.label "עריכה...">
 <!ENTITY choose.label "בחר...">
 <!ENTITY choose.accesskey "C">

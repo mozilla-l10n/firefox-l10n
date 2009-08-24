@@ -22,14 +22,24 @@
 <!ENTITY retentionKeepMsg.accesskey "ל">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "ש">
-<!ENTITY retentionKeepNew.label "מחק הכל מלבד">
-<!ENTITY retentionKeepNew.accesskey "מ">
-<!ENTITY retentionKeepUnread.label "מחק תמיד הודעות שנקראו">
-<!ENTITY retentionKeepUnread.accesskey "נ">
+<!-- ### ENTITY retentionKeepNew.label "מחק הכל מלבד" -->
+<!-- ### ENTITY retentionKeepNew.accesskey "מ" -->
+<!ENTITY retentionKeepRecent.label "מחק הכל מלבד">
+<!ENTITY retentionKeepRecent.accesskey "מ">
+
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "מחק תמיד הודעות שנקראו (עוקף הגדרות גיל)">
+
+<!-- ### ENTITY retentionKeepUnread.label "מחק תמיד הודעות שנקראו" -->
+<!-- ### ENTITY retentionKeepUnread.accesskey "נ" -->
 <!ENTITY retentionApplyToFlagged.label "שמור תמיד הודעות מסומנות">
 <!ENTITY retentionApplyToFlagged.accesskey "ס">
-<!ENTITY nntpRemoveBody.label "רק גוף הודעות בנות פחות מאשר">
-<!ENTITY nntpRemoveBody.accesskey "ר">
+<!-- ### ENTITY nntpRemoveBody.label "רק גוף הודעות בנות פחות מאשר" -->
+<!-- ### ENTITY nntpRemoveBody.accesskey "ר" -->
+
+<!ENTITY nntpRemoveMsgBody.label "הסר גוף בהודעות בנות יותר מאשר">
+<!ENTITY nntpRemoveMsgBody.accesskey "י">
+
 <!ENTITY offlineSelectNntp.label "בחר קבוצות דיון לשימוש לא־מקוון">
 
 <!ENTITY offlineSelectNntp.accesskey "ב">

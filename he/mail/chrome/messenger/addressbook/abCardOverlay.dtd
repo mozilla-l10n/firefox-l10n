@@ -63,9 +63,13 @@
 <!ENTITY Unknown.label "לא ידוע">
 <!ENTITY ScreenName.label "שם מסך:">
 <!ENTITY ScreenName.accesskey "S">
-<!ENTITY allowRemoteContent.label "אפשר תמונות מרוחקות בדואר HTML.">
-<!ENTITY allowRemoteContent.accesskey "ת">
-<!ENTITY allowRemoteContent.tooltip     "בהודעות HTML ניתן לצרף תמונות ממקורות מרוחקים. פתיחה של הודעות אלו תפתח חיבור עם מקור מרוחק זה. דרך זו יכולה לאפשר לאחרים לדעת כי ההודעה נקראה. סימון תיבה זו תאפשר לתמונות חיצוניות המצורפות להודעות HTML להיטען בהודעות מאיש קשר זה.">
+<!-- ### ENTITY allowRemoteContent.label "אפשר תמונות מרוחקות בדואר HTML." -->
+<!-- ### ENTITY allowRemoteContent.accesskey "ת" -->
+<!-- ### ENTITY allowRemoteContent.tooltip     "בהודעות HTML ניתן לצרף תמונות ממקורות מרוחקים. פתיחה של הודעות אלו תפתח חיבור עם מקור מרוחק זה. דרך זו יכולה לאפשר לאחרים לדעת כי ההודעה נקראה. סימון תיבה זו תאפשר לתמונות חיצוניות המצורפות להודעות HTML להיטען בהודעות מאיש קשר זה." -->
+
+<!ENTITY allowRemoteContent1.label      "אפשר תוכן מרוחק.">
+<!ENTITY allowRemoteContent1.accesskey  "ר">
+<!ENTITY allowRemoteContent1.tooltip    "בהודעות HTML ניתן לצרף תוכן ממקורות מרוחקים. פתיחה של הודעות אלו תפתח חיבור עם המקור המרוחק. דרך זה עלולה לאפשר מעקב אחר קריאת ההודעה. סימון תיבה זו תאפשר תכנים חיצוניים לאיש קשר זה.">
 
 <!ENTITY WorkPhone.label "עבודה:">
 <!ENTITY WorkPhone.accesskey "W">
