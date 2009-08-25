@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Reinicia les barres d'eines i els controls">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "Reinicia les adreces d'interès amb aquelles per defecte del &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "n">
+<!ENTITY deleteBookmarks.label        "Suprimeix totes les adreces d'interès excepte les còpies de seguretat">
+<!ENTITY deleteBookmarks.accesskey    "g">
 
 <!ENTITY resetUserPrefs.label         "Reinicia totes les preferències d'usuari amb aquelles per defecte del &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "u">

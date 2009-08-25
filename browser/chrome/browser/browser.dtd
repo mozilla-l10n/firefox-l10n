@@ -364,6 +364,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Retalla">
 <!ENTITY copyButton.tooltip "Copia">
 <!ENTITY pasteButton.tooltip "Enganxa">
+<!ENTITY fullScreenButton.tooltip       "Mostra la finestra en pantalla sencera">
+<!ENTITY showAllTabsCmd.label "Mostra totes les pestanyes">
+<!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY quitApplicationCmdWin.label "Surt">
 <!ENTITY quitApplicationCmdWin.accesskey "u">
@@ -439,4 +442,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Feu clic per a obrir la finestra de baixades">
 
-<!ENTITY ctrlTab.search.emptyText "Cerca pestanyes">
+<!ENTITY allTabs.filter.emptyText "Cerca pestanyes">
