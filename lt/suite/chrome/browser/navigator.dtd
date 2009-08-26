@@ -54,6 +54,9 @@
 <!ENTITY recentTabs.label "Paskiausiai užvertos kortelės">
 <!ENTITY recentTabs.accesskey "P">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Paskiausiai užverti langai">
+<!ENTITY recentWindows.accesskey "l">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Taisyti tinklalapį">
 <!ENTITY editPageCmd.accesskey "T">
 <!ENTITY editPageCmd.commandkey "e">
