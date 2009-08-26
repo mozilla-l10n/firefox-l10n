@@ -32,7 +32,7 @@
 <!ENTITY bookmarksManage.label "Yönet">
 <!ENTITY foldersHeader.label "Dizinler">
 
-<!ENTITY editBookmarkEdit.label "Edit">
+<!ENTITY editBookmarkEdit.label "Düzenle">
 <!ENTITY editBookmarkMove.label "Taşı">
 <!ENTITY editBookmarkDone.label "Tamamlandı">
 <!ENTITY editBookmarkTags.label "Buraya etiket ekle">
@@ -83,9 +83,11 @@
 <!ENTITY noResults.label "Sonuç yok">
 <!ENTITY allBookmarks.label "Tüm yer imlerini göster">
 
+<!ENTITY searchEngine.addSearch "Arama ekle:">
+
 <!ENTITY bookmarkPopup.label "Sayfa imlendi">
 <!ENTITY bookmarkRemove.label "Kaldır">
-<!ENTITY bookmarkEdit.label "Edit">
+<!ENTITY bookmarkEdit.label "Düzenle">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
 <!ENTITY identity.connectedTo2 "Bağlanılan">
