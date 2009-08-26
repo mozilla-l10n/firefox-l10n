@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "Typ obsahu">
+<!ENTITY  typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "Akcia">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "Hľadať">
+
+<!ENTITY saveTo.label                 "Súbory ukladať do">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "Vždy sa opýtať, kam súbory uložiť">
+<!ENTITY alwaysAsk.accesskey          "k">
+<!ENTITY chooseFolderWin.label        "Prehľadávať…">
+<!ENTITY chooseFolderWin.accesskey    "h">
+<!ENTITY chooseFolderMac.label        "Vybrať…">
+<!ENTITY chooseFolderMac.accesskey    "V">
