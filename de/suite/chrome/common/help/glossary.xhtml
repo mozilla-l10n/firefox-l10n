@@ -238,6 +238,17 @@ Ein verschl&#252;sselnder Schl&#252;ssel und sein entsprechender geheimer Schl&#
 sowie ein <a href="#signing_key">Signatur-Schl&#252;ssel</a> und sein 
 entsprechender &#246;ffentlicher Schl&#252;ssel bilden ein <a href="#dual_key_pairs">doppeltes Schl&#252;sselpaar</a>.</dd>
 
+<dt id="feed">Feed</dt><dd>Eine regelm&#228;ssig aktualisierte Verkn&#252;pfung zu einer
+  Web-Seite, meist Blog-Artikel oder Nachrichten. Technisch gesehn ist es ein 
+  XML-Dokument &#252;ber eine bekannte URL und beinhaltet mehrere Einheiten,
+  wovon jeder entsprechende Metadaten (meist eine Zusammenfassung) und eine
+  URL zum eigentlichen Artikel des Blogs oder des Nachrichten-Artikels. Das
+  XML-Dokuemnt wird in regelm&#228;ssigen Interfallen neu erzeugt, oder wenn ein neuer
+  Eintrag auf der Webseite ver&#246;ffentlicht wird. Web-Applikationen k&#246;nnen die
+  URL des Feeds abonieren und die neuen Artikel anzeigen, wenn das zugrundeliegende
+  XML-Dokument aktualisiert werden. Es existieren verschiedene XML-Formate f&#252;r Feeds,
+  die am h&#228;ufigsten verwendeten sind <a href="#rss">RSS</a> und Atom.</dd>
+
 <dt id="fingerprint">Fingerabdruck</dt><dd>
 Siehe <a href="#certificate_fingerprint">Fingerabdruck eines Zertifikats</a>.</dd>
   
@@ -412,7 +423,12 @@ Das Unverm&#246;gen eines Absenders einer Nachricht, zu bestreiten, er habe
 die Nachricht je abgeschickt. 
 Eine handschriftliche Unterschrift ist eine Form der Unleugbarkeit, 
 eine <a href="#digital_signature">digitale Signatur</a> eine andere.</dd>
-  
+
+<dt id="notification_bar">Benachrichtigungsleiste</dt><dd>Eine Leiste welche oberhalb des
+  Inhaltsbereichs angezeigt wird und Sie dar&#252;r informiert, da&#67; Ihre Aufmerksamkeit
+  ben&#246;tigt wird, z.B. wenn der Passwort-Manager ein Passwort speichern m&#246;chte, 
+  ein PopUp geblockt wurde oder zus&#228;tzliche Plugins notwendig sind.</dd>
+
 <dt id="object_signing">Signieren von Software-Objekten</dt><dd>Eine Technologie, die es Software-Entwicklern erm&#246;glicht, Java-Code,
 JavaScript-Skripte oder andere beliebige Dateiformate digital zu
 unterschreiben und die Sie als Endanwender bef&#228;higt, den
@@ -431,6 +447,13 @@ eines Zertifikats bei jedem Gebrauch desselben abzufragen. Dies
 geschieht durch Vergleich mit einer Liste g&#252;ltiger Zertifikate auf einer
 speziell zu benennenden Website. Ihr Computer mu&#223; online sein, damit
 OCSP funktioniert.</dd>
+
+<dt id="opml">OPML (Outline Processor Markup Language)</dt><dd>Ein XML-Format
+  welches zum Speichern von <a href="#feed">Feed</a>-Listen verwendet wird.
+  Obwohl es eine sehr bereite Spezifikation besitzt, wird es heutzutage
+  haupts&#228;chlich dazu genutzt Feed-Listen zwischen Feed-Empfangs-Programmen
+  und Feed-Lese-Programmen wie &bransShortName; zu exportieren und zu 
+  importieren.</dd>
 
 <dt id="password-based_authentication">passwortbasierte Authentifizierung</dt><dd>Vertrauensw&#252;rdige Identifikation mittels 
 Name und Password. Siehe auch <a href="#authentication">Authentifizierung</a>.</dd>
@@ -537,6 +560,9 @@ werden.</dd>
 Jene <a href="#certificate_authority">Zertifizierungsstelle (CA)</a>mit einem 
 selbstsigniertem Zertifikat, die am Anfang der <a href="#certificate_chain">Zertifizierungskette</a> steht. Siehe auch 
   <a href="#subordinate_ca">nachrangige Zertifizierungstelle</a>.</dd>
+
+<dt id="rss">RSS (Really Simple Syndication)</dt><dd>Ein <a href="#xml">XML</a>
+  Daten-Format f&#252;r Internet <a href="#feed">Feeds</a>.</dd>
   
 <dt id="search_engine">Suchmaschine</dt><dd>Ein web-basiertes Programm, das es Nutzern erm&#246;glicht, im 
 <a href="world_wide_web">World Wide Web</a> nach Informationen zu suchen und spezifische Daten abzurufen. Die

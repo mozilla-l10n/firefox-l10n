@@ -44,9 +44,10 @@
 <div class="contentsBox">In diesem Abschnitt:
 <ul>
     <li><a href="#your_certificates">Ihre Zertifikate</a></li>
-    <li><a href="#other_peoples_certificates">Zertifikate anderer Personen</a></li>
-    <li><a href="#web_site_certificates">Zertifikate von Webseiten</a></li>
+    <li><a href="#people">Personen</a></li>
+    <li><a href="servers">Server</a></li>
     <li><a href="#authorities">Autorit&#228;ten</a></li>
+    <li><a href="others">Andere</a></li>
 </ul>
 </div>
 
@@ -54,19 +55,12 @@
 
 <p>Der Tab <q>Ihre Zertifikate</q> im <a href="#certificate_manager">Zertifikat-Manager</a> 
    zeigt die Zertifikate im Archiv, die Sie identifizieren. Ihre Zertifikate
-   sind aufgelistet nach dem Namen der Organisation, die sie herausgegeben haben:</p>
+   sind aufgelistet nach dem Namen der Organisation, die sie herausgegeben haben.
+   Wenn Sie keine Zertifikate unter den Organisationen sehen, doppelklicken Sie auf diese
+   um diese aufzuklappen,</p>
 
-<ul>
-    <li>Wenn Sie keine Zertifikate unter dem Namen einer Organisation sehen,
-        klicken Sie doppelt auf den Namen.</li>
-    <li>Um ein Zertifikat auszuw&#228;hlen, klicken auf dessen Namen.</li>
-    <li>Um mehr als ein Zertifikat auszuw&#228;hlen, dr&#252;cken sie die <q>Strg</q>-Taste
-        und w&#228;hlen Sie die Namen aus.</li>
-</ul>
-
-<p>Um die folgenden Schritte auszuf&#252;hren, w&#228;hlen Sie eines oder
-   mehrere Zertifikate, mit denen sie arbeiten wollen, aus und klicken auf einen
-   dieser Kn&#246;pfe:</p>
+<p>Benutzen Sie die folgenden Schaltfl&#228;chen um Ihre Zertifikate zu verwalten (f&#252;r die meisten Aktionen
+  muss ein oder mehrere Zertifikate ausgew&#228;hlt werden):</p>
 
 <ul>
     <li><strong>Ansicht</strong>: Zeigt detaillierte Informationen &#252;ber das gew&#228;hlte
@@ -75,20 +69,6 @@
         Es &#246;ffnet sich ein Fenster in dem Sie ein Passwort f&#252;r das Backup
         angeben k&#246;nnen um es zu sch&#252;tzen. Danach k&#246;nnen Sie das Backup
         in einem Ordner Ihrer Wahl speichern.</li>
-    <li><strong>L&#246;schen</strong>: L&#246;scht die ausgew&#228;hlten Zertifikate.</li>
-</ul>
-
-<p>F&#252;r die folgenden Schritte muss kein Zertifikat ausgew&#228;hlt sein:</p>
-
-<ul>
-    <li><strong>Importieren</strong>: Importiert eine Datei, welche eines oder mehrere
-        vorher gesicherte Zertifikate enth&#228;lt. Wenn Sie auf <q>Importieren</q> klicken,
-        fragt sie der Zertifikat-Manager zuerst nach dem Ordner in welchem sich die
-        Datei befindet. Die Namen von Zertifikat-Backup-Dateien enden normalerweise
-        mit <tt>.p12</tt>; zum Beispiel: <tt>MyCert.p12</tt>. Nachdem Sie die
-        gew&#252;nschte Datei ausgew&#228;hlt haben fragt Sie der Zertifikat-Manager
-        nach dem Passwort, welches sie beim Sichern angegeben haben.</li>
-
     <li><strong>Backup von allen</strong>: Startet die Sicherung von allen Zertifikaten
         welche in der <a href="glossary.xhtml#software_security_device">Software-Sicherheitseinrichtung</a> 
         gespeichert sind.
@@ -100,6 +80,14 @@
         gespeichert sind. Sie k&#246;nnen nur Zertifikate sichern, welche in der
         eingebauten Software-Sicherheitseinrichtung gespeichert sind.</p>
     </li>
+    <li><strong>Importieren</strong>: Importiert eine Datei, welche eines oder mehrere
+        vorher gesicherte Zertifikate enth&#228;lt. Wenn Sie auf <q>Importieren</q> klicken,
+        fragt sie der Zertifikat-Manager zuerst nach dem Ordner in welchem sich die
+        Datei befindet. Die Namen von Zertifikat-Backup-Dateien enden normalerweise
+        mit <tt>.p12</tt>; zum Beispiel: <tt>MyCert.p12</tt>. Nachdem Sie die
+        gew&#252;nschte Datei ausgew&#228;hlt haben fragt Sie der Zertifikat-Manager
+        nach dem Passwort, welches sie beim Sichern angegeben haben.</li>
+    <li><strong>L&#246;schen</strong>: L&#246;scht die ausgew&#228;hlten Zertifikate.</li>
 </ul>
 
 <h3 id="choose_a_certificate_backup_password">W&#228;hlen Sie ein Zertifikat-Backup-Passwort</h3>
@@ -148,9 +136,9 @@
    im Zertifikat-Manager l&#246;schen, vergewissern sie sich, dass Sie es nicht eines Tages wieder 
    ben&#246;tigen, um zum Beispiel eine alte E-Mail zu lesen, welche Sie damit verschl&#252;sselt haben.</p>
 
-<h2 id="other_peoples_certificates">Zertifikate anderer Personen</h2>
+<h2 id="people">Personen</h2>
 
-<p>Der Tab <q>Zertifikate anderer Personen</q> im <a href="#certificate_manager">Zertifikat-Manager</a> 
+<p>Der Tab <q>Personen</q> im <a href="#certificate_manager">Zertifikat-Manager</a> 
    zeigt die E-Mail Zertifikate an, die andere Personen identifizieren.</p>
 
 <p>Wenn andere Personen Ihnen digital signierte E-Mails senden, importiert
@@ -158,74 +146,76 @@
    Zertifikate benutzen, um verschl&#252;sselte Nachrichten an diese Personen
    zu senden.</p>
 
-<p>Zertifikate anderer Personen sind aufgelistet unter dem Namen der Organisation
-   die sie herausgegeben haben:</p>
+<p>Zertifikate welche Personen identifizieren sind unter dem Namen der 
+   Organisation die sie herausgegeben haben aufgelistet. Wenn Sie keine
+   Zertifikate unter den Organisationen sehen, doppelklicken Sie auf diese
+   um diese aufzuklappen.</p>
+
+<p>Benutzen Sie die folgenden Schaltfl&#228;chen um Ihre Zertifikate zu verwalten (f&#252;r die meisten Aktionen
+  muss ein oder mehrere Zertifikate ausgew&#228;hlt werden):</p>
 
 <ul>
-    <li>Wenn Sie keine Zertifikate unter dem Namen einer Organisation sehen,
-        doppelklicken Sie auf den Namen.</li>
-    <li>Um ein Zertifikat auszuw&#228;hlen, klicken aus dessen Namen.</li>
-    <li>Um mehr als ein Zertifikat auszuw&#228;hlen, dr&#252;cken sie die <q>Strg</q>-Taste
-        und w&#228;hlen Sie die Namen aus.</li>
-</ul>
-
-<p>Um die folgenden Schritte auszuf&#252;hren, w&#228;hlen Sie eines oder
-   mehrere Zertifikate, mit denen sie arbeiten wollen, aus und klicken auf einen
-   dieser Kn&#246;pfe:</p>
-<ul>
-    <li><strong>Ansicht</strong>: Zeigt detaillierte Informationen &#252;ber das gew&#228;hlte
-        Zertifikat.</li>
-    <li><strong>L&#246;schen</strong>: L&#246;scht die ausgew&#228;hlten Zertifikate.</li>
+  <li><strong>Ansicht</strong>: Zeigt detaillierte Informationen &#252;ber das gew&#228;hlte
+    Zertifikat.</li>
+  <li><strong>Editieren</strong>: Hiermit k&#246;nnen Sie die Vertrauens-Einstellungen des Zertifikat-Managers
+    f&#252;r die ausge&#228;hlten Zertifikate anzeigen und bearbeiten. Damit k&#246;nnen Sie auswh&#228;hlen,
+    ob Sie dem Email-Zertifikat als Identit&#228;tsnachweis vertrauen oder nicht.</li>
+  <li><strong>Import</strong>: Importiert eine Datei mit einem oder mehreren Zertifikaten.
+    Wenn Sie auf Import klicken, fragt Sie der Zertifikat-Manager wo sich die zu importierende Datei
+    befindet.</li>
+  <li><strong>Export</strong>: Exportieren Sie die ausgew&#228;hlten Zertifikate. Sie k&#246;nne
+    zwischen verschiedenen Export-Formaten w&#228;hlen.</li>
+  <li><strong>L&#246;schen</strong>: L&#246;scht die ausgew&#228;hlten Zertifikate.</li>
 </ul>
 
 <h3 id="delete_email_certificates">E-Mail Zertifikate l&#246;schen</h3>
 
 <p>Bevor Sie ein Zertifikat einer anderen Person im Tab
-   <a href="#other_peoples_certificates">Zertifikate anderer Personen</a> l&#246;schen,
-   vergewissern Sie sich, dass Sie das Zertifikat nicht eines Tages wieder ben&#246;tigen
-   um eine verschl&#252;sselte Nachricht an diese Person zu senden oder um eine
+   <a href="#people">Personen</a> l&#246;schen, vergewissern Sie sich, 
+   dass Sie das Zertifikat nicht eines Tages wieder ben&#246;tigen um eine 
+   verschl&#252;sselte Nachricht an diese Person zu senden oder um eine
    digitale Signatur in Nachrichten von dieser Person zu best&#228;tigen.</p>
 
-<h2 id="web_site_certificates">Zertifikate von Webseiten</h2>
+<h2 id="servers">Server</h2>
 
-<p>Der Tab <q>Websites</q> im Zertifikat-Manager zeigt von Ihnen gespeicherte Zertifikate, 
-   die Internetseiten identifizieren.</p>
+<p>Der Tab <q>Server</q> im Zertifikat-Manager zeigt von Ihnen gespeicherte Zertifikate, 
+   die Server identifizieren (Webseiten, Email-Server).</p>
 
-<p>Zertifikate von Internetseiten sind aufgelistet unter dem Namen der Organisation
-   die sie herausgegeben haben:</p>
+<p>Zertifikate welche Server identifizieren sind unter dem Namen der Organisation aufgelistet
+   die sie herausgegeben haben. Wenn Sie unter einer Organisation keine Zertifikate sehen
+   k&#246;nnen Sie sich diese mittels Doppeklick anzeigen lassen</p>
 
-<ul>
-    <li>Wenn Sie keine Zertifikate unter dem Namen einer Organisation sehen,
-        doppelklicken Sie auf den Namen.</li>
-    <li>Um ein Zertifikat auszuw&#228;hlen, klicken aus dessen Namen.</li>
-    <li>Um mehr als ein Zertifikat auszuw&#228;hlen, dr&#252;cken sie die <q>Strg</q>-Taste
-        und w&#228;hlen Sie die Namen aus.</li>
-</ul>
-
-<p>Um die folgenden Schritte auszuf&#252;hren, w&#228;hlen Sie eines oder
-   mehrere Zertifikate, mit denen sie arbeiten wollen, aus und klicken auf einen
-   dieser Kn&#246;pfe:</p>
+<p>Benutzen Sie die folgenden Schaltfl&#228;chen um Ihre Zertifikate zu verwalten (f&#252;r die meisten Aktionen
+  muss ein oder mehrere Zertifikate ausgew&#228;hlt werden):</p>
    
 <ul>
-    <li><strong>Ansicht</strong>: Zeigt detaillierte Informationen &#252;ber das gew&#228;hlte
-        Zertifikat.</li>
-    <li><strong>Bearbeiten</strong>: Zeigt oder &#228;ndert die Vertrauenseinstellungen
-        die der Zertifikat-Manager mit den ausgew&#228;hlten Zertifikaten verbindet.
-        Sie k&#246;nnen diese Einstellungen benutzen, um das Zertifikat einer Website
-        einzustufen als als eines dem Sie zu Identifikations-Zwecken vertrauen oder
-        als eines dem Sie nicht vertrauen.</li>
-    <li><strong>L&#246;schen</strong>: L&#246;scht die ausgew&#228;hlten Zertifikate.</li>
+  <li><strong>Ansicht</strong>: Zeigt detaillierte Informationen &#252;ber das gew&#228;hlte
+    Zertifikat.</li>
+  <li><strong>Bearbeiten</strong>: Zeigt oder &#228;ndert die Vertrauenseinstellungen
+    die der Zertifikat-Manager mit den ausgew&#228;hlten Zertifikaten verbindet.
+    Sie k&#246;nnen diese Einstellungen benutzen, um das Zertifikat einer Website
+    einzustufen als eines dem Sie zu Identifikations-Zwecken vertrauen oder
+    als eines dem Sie nicht vertrauen.</li>
+  <li><strong>Import</strong>: Importiert eine Datei mit einem oder mehreren Zertifikaten.
+    Wenn Sie auf Import klicken, fragt Sie der Zertifikat-Manager wo sich die zu importierende Datei
+    befindet.</li>
+  <li><strong>Export</strong>: Exportieren Sie die ausgew&#228;hlten Zertifikate. Sie k&#246;nne
+    zwischen verschiedenen Export-Formaten w&#228;hlen.</li>
+  <li><strong>L&#246;schen</strong>: L&#246;scht die ausgew&#228;hlten Zertifikate.</li>
+  <li><strong>Ausnahme hinzuf&#252;gen</strong>: Hiermit k&#246;nnen Sie eine Ausnahme der Sicherheits-Pr&#252;fung f&#252;r einen Server
+    (Webseite, Mail-server) hinzuf&#252;gen, wenn sich dieser mit ung&#252;ltigen Information identifiziert. Dies ist ein m&#228;chtiges
+    Feature, benutzen Sie es mit Vorsicht.</li>
 </ul>
 
 <h3 id="edit_web_site_certificate_trust_settings">Bearbeiten der Vertrauenseinstellungen eines 
    Website-Zertifikats</h3>
 
 <p>Wenn Sie ein Website-Zertifikat vom Tab
-   <a href="#web_site_certificates">Websites</a> im Zertifikat-Manager ausw&#228;hlen
+   <a href="#servers">Server</a> im Zertifikat-Manager ausw&#228;hlen
    und <q>Bearbeiten</q> klicken, erscheint ein Fenster mit dem Titel 
    <q>Website-Zertifikat-Vertrauenseinstellungen bearbeiten</q>. Hier stellen Sie ein, 
-   ob Sie dem ausgew&#228;hltem Zertifikat f&#252;r die Identifizierung der Website und der 
-   Einrichtung einer verschl&#252;sselten Verbindung trauen.</p>
+   ob Sie dem ausgew&#228;hltem Zertifikat f&#252;r die Identifizierung einer Website oder eines
+   Mailservers und der Einrichtung einer verschl&#252;sselten Verbindung trauen.</p>
 
 <p>Das Dialog-Fenster enth&#228;lt diese Optionen:</p>
 
@@ -274,28 +264,26 @@
    (CAs)</a> identifizieren.</p>
 
 <p>Zertifikate von Sicherheitseinrichtungen sind aufgelistet unter dem Namen
-   der Organisation die sie herausgegeben hat:</p>
+   der Organisation die sie herausgegeben hat. Wenn Sie keine Zertifikate unter
+   dem Namen einer Organisation sehen, doppelklicken Sie auf den Namen.</p>
+
+<p>Benutzen Sie die folgenden Schaltfl&#228;chen um Ihre Zertifikate zu verwalten (f&#252;r die meisten Aktionen
+  muss ein oder mehrere Zertifikate ausgew&#228;hlt werden):</p>
 
 <ul>
-    <li>Wenn Sie keine Zertifikate unter dem Namen einer Organisation sehen,
-        doppelklicken Sie auf den Namen.</li>
-    <li>Um ein Zertifikat auszuw&#228;hlen, klicken aus dessen Namen.</li>
-    <li>Um mehr als ein Zertifikat auszuw&#228;hlen, dr&#252;cken sie die <q>Strg</q>-Taste
-        und w&#228;hlen Sie die Namen aus.</li>
-</ul>
-
-<p>Um die folgenden Schritte auszuf&#252;hren, w&#228;hlen Sie die Zertifikate
-   aus mit denen sie arbeiten wollen und klicken auf einen dieser Kn&#246;pfe:</p>
-
-<ul>
-    <li><strong>Ansicht</strong>: Zeigt detaillierte Informationen &#252;ber das gew&#228;hlte
-        Zertifikat.</li>
-    <li><strong>Bearbeiten</strong>: Zeigt oder &#228;ndert die Vertrauenseinstellungen
-        die der Zertifikat-Manager mit den ausgew&#228;hlten Zertifikaten verbindet. Sie
-        k&#246;nnen diese Einstellungen benutzen, um festzulegen, welchen Arten von
-        Zertifikaten (oder keiner Art), die von der zugeh&#246;rigen CA herausgegeben
-        wurde, sie trauen.</li>
-    <li><strong>L&#246;schen</strong>: L&#246;scht die ausgew&#228;hlten Zertifikate.</li>
+  <li><strong>Ansicht</strong>: Zeigt detaillierte Informationen &#252;ber das gew&#228;hlte
+    Zertifikat.</li>
+  <li><strong>Bearbeiten</strong>: Zeigt oder &#228;ndert die Vertrauenseinstellungen
+    die der Zertifikat-Manager mit den ausgew&#228;hlten Zertifikaten verbindet. Sie
+    k&#246;nnen diese Einstellungen benutzen, um festzulegen, welchen Arten von
+    Zertifikaten (oder keiner Art), die von der zugeh&#246;rigen CA herausgegeben
+    wurde, sie trauen.</li>
+  <li><strong>Import</strong>: Importiert eine Datei mit einem oder mehreren Zertifikaten.
+    Wenn Sie auf Import klicken, fragt Sie der Zertifikat-Manager wo sich die zu importierende Datei
+    befindet.</li>
+  <li><strong>Export</strong>: Exportieren Sie die ausgew&#228;hlten Zertifikate. Sie k&#246;nne
+    zwischen verschiedenen Export-Formaten w&#228;hlen.</li>
+  <li><strong>L&#246;schen</strong>: L&#246;scht die ausgew&#228;hlten Zertifikate.</li>
 </ul>
 
 <p>Um sicherzustellen, das der ganzen
@@ -320,7 +308,7 @@
 <h3 id="edit_ca_certificate_trust_settings">CA-Zertifikat-Vertrauenseinstellungen bearbeiten</h3>
 
 <p>Wenn Sie ein CA-Zertifikat von dem Tab
-   <a href="#authorities">Authorities</a> im Zertifikat-Manager ausw&#228;hlen und <q>Bearbeiten</q> 
+   <a href="#authorities">Autorit&#228;ten</a> im Zertifikat-Manager ausw&#228;hlen und <q>Bearbeiten</q> 
    anklicken, erscheint ein Fenster mit dem Titel <q>CA-Zertifikat-Vertrauenseinstellungen bearbeiten</q>. 
    Hier stellen Sie die Arten von Zertifikaten f&#252;r deren Zertifizierung Sie dieser CA trauen. Wenn 
    Sie alle Optionen abw&#228;hlen wird der Zertifiakts-Manager keinem Zertifikat trauen das von dieser 
@@ -357,6 +345,26 @@
    ben&#246;tigen um ein Zertifikat dieser Sicherheitseinrichtung zu best&#228;tigen. 
    Wenn Sie das einzige g&#252;ltige Zertifikat einer Sicherheitseinrichtung l&#246;schen, 
    wird Zertifikat-Manager kein Zertifikat dieser Sicherheitseinrichtung mehr akzeptieren.</p>
+
+<h2 id="others">Andere</h2>
+
+<p>Im Tab Andere des Zertifikat-Manager werden die Zertifikate angezeigt, welche keiner
+  anderen Kategorie zugeordnet werden k&#246;nnen, z.Bsp. Zertifikate welche
+  weder Ihnen, anderen Personen, Server oder CAs geh&#246;ren.</p>
+
+<p>Die Zertifikate sind unter dem Namen der Organisation die sie herausgegeben hat
+   aufgelistet. Wenn Sie keine Zertifikate unter dem Namen einer Organisation sehen, 
+doppelklicken Sie auf den Namen.</p>
+
+<p>Benutzen Sie die folgenden Schaltfl&#228;chen um Ihre Zertifikate zu verwalten:</p>
+
+<ul>
+  <li><strong>Ansicht</strong>: Zeigt detaillierte Informationen &#252;ber das gew&#228;hlte
+    Zertifikat.</li>
+  <li><strong>Export</strong>: Exportieren Sie die ausgew&#228;hlten Zertifikate. Sie k&#246;nne
+    zwischen verschiedenen Export-Formaten w&#228;hlen.</li>
+  <li><strong>L&#246;schen</strong>: L&#246;scht die ausgew&#228;hlten Zertifikate.</li>
+</ul>
 
 <h2 id="device_manager">Einrichtungs-Manager</h2>
 

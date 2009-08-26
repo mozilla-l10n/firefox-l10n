@@ -6,7 +6,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Account_Settings"
-         nc:name="Kontoeinstellungen"
+         nc:name="Accounteinstellungen"
          nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
      </rdf:li>
      <rdf:li>
@@ -34,13 +34,18 @@
          nc:link="composer_help.xhtml#inserting_an_image_into_your_page"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="adding:blog_account"
+         nc:name="Erstellen eines neuen Blogaccount"
+         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="adding:mail_account"
-         nc:name="Erstellen eines neuen Mailkontos"
+         nc:name="Erstellen eines neuen Mailaccounts"
          nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding:newsgroup_account"
-         nc:name="Hinzuf&#252;gen eines neuen Newsgroupkontos"
+         nc:name="Hinzuf&#252;gen eines neuen Newsgroupaccounts"
          nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
@@ -312,6 +317,11 @@
          nc:name="W&#228;hlen der Client-Authentifizierung"
          nc:link="certs_prefs_help.xhtml#client_certificate_selection"/>
      </rdf:li>
+      <rdf:li>
+       <rdf:Description ID="Certificates:server"
+         nc:name="Server Identit&#228;"
+         nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/>
+     </rdf:li>
      <rdf:li>
        <rdf:Description ID="Certificates:using"
          nc:name="Benutzen von Zertifikaten"
@@ -324,8 +334,8 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Certificates:web_site"
-         nc:name="Webseitenidentit&#228;t"
-         nc:link="using_certs_help.xhtml#managing_certificates_that_identify_websites"/>
+         nc:name="Serveridentit&#228;t"
+         nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Certificates:your_own"
@@ -637,6 +647,11 @@
 <rdf:Description about="help-indexAZ.rdf#f">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="feeds"
+         nc:name="Feeds"
+         nc:link="glossary.xhtml#feed"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="file_types"
          nc:name="Dateitypen"
          nc:link="nav_help.xhtml#plugins_and_downloads"/>
@@ -665,6 +680,26 @@
        <rdf:Description ID="font_changing_in_composer"
          nc:name="Schriftart&#228;nderung im Composer (HTML-Editor)"
          nc:link="composer_help.xhtml#changing_text_color_style_and_font"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+  
+<rdf:Description about="#feeds">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="feeds:subscribing"
+         nc:name="Einen Newsfeed abonnieren"
+         nc:link="mail_help.xhtml#subscribing_to_blogs_and_news_feeds"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="feeds:reading"
+         nc:name="Einen Newsfeed lesen"
+         nc:link="mail_help.xhtml#reading_blogs_and_news_feed_messages"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="feeds:exporting_importing"
+         nc:name="Exportieren und Importieren von Newsfeeds"
+         nc:link="mail_help.xhtml#exporting_and_importing_feeds"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -792,33 +827,38 @@
 </rdf:Description>
 
 <rdf:Description about="#import"> 
-<nc:subheadings> 
-<rdf:Seq><rdf:li>
-<rdf:Description ID="import:address_book"
- nc:name="Importieren von ADressb&#252;chern"
- nc:link="mail_help.xhtml#importing_address_books"/>
-</rdf:li> 
-<rdf:li> 
- <rdf:Description ID="import:bookmark_list"
- nc:name="Lesezeichen importieren"
-nc:link="customize_help.xhtml#exporting_or_importing_a_bookmark_list"/> 
-</rdf:li> 
-<rdf:li> 
- <rdf:Description ID="import:certificates"
- nc:name="Zertifikate importieren"
-nc:link="certs_help.xhtml#your_certificates"/> 
-</rdf:li> 
-<rdf:li> 
- <rdf:Description ID="import:crls"
- nc:name="CRLs importieren"
-nc:link="using_certs_help.xhtml#importing_crls"/>
-</rdf:li>
-<rdf:li>
- <rdf:Description ID="import:mail"
- nc:name="Emails von anderen Programmen importieren"
-nc:link="mail_help.xhtml#importing_mail_from_other_programs"/> 
-</rdf:li></rdf:Seq> 
-</nc:subheadings>
+  <nc:subheadings> 
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="import:address_book"
+         nc:name="Importieren von Adressb&#252;chern"
+         nc:link="mail_help.xhtml#importing_address_books"/>
+     </rdf:li> 
+     <rdf:li> 
+       <rdf:Description ID="import:bookmark_list"
+         nc:name="Lesezeichen importieren"
+         nc:link="customize_help.xhtml#exporting_or_importing_a_bookmark_list"/> 
+     </rdf:li> 
+     <rdf:li> 
+        <rdf:Description ID="import:certificates"
+          nc:name="Zertifikate importieren"
+          nc:link="certs_help.xhtml#your_certificates"/> 
+     </rdf:li> 
+     <rdf:li> 
+       <rdf:Description ID="import:crls"
+         nc:name="CRLs importieren"
+         nc:link="using_certs_help.xhtml#importing_crls"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="import:feeds"
+         nc:name="import feeds"
+         nc:link="mail_help.xhtml#exporting_and_importing_feeds"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="import:mail"
+         nc:name="Emails von anderen Programmen importieren"
+         nc:link="mail_help.xhtml#importing_mail_from_other_programs"/> 
+     </rdf:li></rdf:Seq> 
+  </nc:subheadings>
 </rdf:Description> 
 
 <rdf:Description about="help-indexAZ.rdf#j">
@@ -984,12 +1024,12 @@ nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Account_Setup_Wizard"
-         nc:name="Kontoeinrichtungs-Assistent"
+         nc:name="Accounteinrichtungs-Assistent"
          nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:adding_accounts"
-         nc:name="Konten hinzuf&#252;gen"
+         nc:name="Accounts hinzuf&#252;gen"
          nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
@@ -1019,7 +1059,7 @@ nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:changing_account_settings"
-         nc:name="&#228;ndern von Kontoeinstellungen"
+         nc:name="&#228;ndern von Accounteinstellungen"
          nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
      </rdf:li>
      <rdf:li>
@@ -1058,9 +1098,9 @@ nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
          nc:link="mail_help.xhtml#creating_html_mail_messages"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="Mail_and_Newsgroups:Disk_Space_settings"
-         nc:name="Speicherplatzeinstellungen"
-         nc:link="mail_help.xhtml#offline_and_disk_space"/>
+       <rdf:Description ID="Mail_and_Newsgroups:disk_space_and_storage_settings"
+         nc:name="Speicherplatz und Speichereinstellungen"
+         nc:link="mail_help.xhtml#synchronization_and_storage"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:filing_messages"
@@ -1111,6 +1151,11 @@ nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
        <rdf:Description ID="Mail_and_Newsgroups:message_searching"
          nc:name="Suchen von Nachrichten"
          nc:link="mail_help.xhtml#searching_through_messages"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
+         nc:name="Offline Synchronisations-Einstellungen"
+         nc:link="mail_help.xhtml#synchronization_and_storage"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:POP_settings"
@@ -1255,6 +1300,11 @@ nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
      <rdf:li>
        <rdf:Description ID="Offline"
          nc:name="Offline"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="OPML"
+         nc:name="OPML"
+         nc:link="glossary.xhtml#opml"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
