@@ -12,9 +12,13 @@
 <!ENTITY replyTo.label "Kam odpovedať:">
 <!ENTITY replyTo.accesskey "K">
 <!ENTITY organization.label "Organizácia:">
-<!ENTITY organization.accesskey "a">
-<!ENTITY signature.label "Pripájať podpis:">
-<!ENTITY signature.accesskey "r">
+<!ENTITY organization.accesskey "c">
+<!ENTITY signatureText.label "Podpis:">
+<!ENTITY signatureText.accesskey "d">
+<!ENTITY signatureHtml.label "Použiť HTML (napr. &lt;b&gt;tučný text&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY signatureFile.label "Pripájať podpis zo súboru (text, HTML alebo obrázok):">
+<!ENTITY signatureFile.accesskey "a">
 <!ENTITY edit.label "Upraviť…">
 <!ENTITY choose.label "Vybrať…">
 <!ENTITY choose.accesskey "b">
@@ -29,5 +33,5 @@
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Server pre odosielanie pošty (SMTP):">
-<!ENTITY smtpName.accesskey "d">
+<!ENTITY smtpName.accesskey "T">
 <!ENTITY smtpDefaultServer.label "Použiť predvolený server">

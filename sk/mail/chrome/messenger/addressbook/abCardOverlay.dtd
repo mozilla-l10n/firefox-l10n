@@ -65,7 +65,7 @@
 <!ENTITY DisplayName.accesskey          "a">
 <!ENTITY NickName.label                 "Prezývka:">
 <!ENTITY NickName.accesskey             "v">
-<!ENTITY Internet.box                   "Internet">
+
 <!ENTITY PrimaryEmail.label             "E-mailová adresa:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ďalšia e-mailová adresa:">
@@ -78,13 +78,13 @@
 <!ENTITY ScreenName.label               "Meno na IM:">
 <!ENTITY ScreenName.accesskey           "I">
 
-<!ENTITY allowRemoteContent.label       "Povoliť vzdialené obrázky">
-<!ENTITY allowRemoteContent.accesskey   "n">
-<!ENTITY allowRemoteContent.tooltip     "Do správ vo formáte HTML je možné
-vložiť obrázky zo vzdialených serverov. Pri otvorení takejto správy sa
+<!ENTITY allowRemoteContent1.label      "Povoliť vzdialený obsah">
+<!ENTITY allowRemoteContent1.accesskey  "b">
+<!ENTITY allowRemoteContent1.tooltip    "Do správ vo formáte HTML je možné
+vložiť obsah zo vzdialených serverov. Pri otvorení takejto správy sa
 vytvorí pripojenie k danému serveru. Týmto je možné sledovať,
 či bola správa prečítaná. Označením tejto voľby umožníte v správach od tohto kontaktu
-načítavanie externých obrázkov v správach vo formáte HTML.">
+načítavanie externého obsahu, ak sú vo formáte HTML.">
 
 <!ENTITY WorkPhone.label                "Zamestnanie:">
 <!ENTITY WorkPhone.accesskey            "t">
@@ -115,9 +115,11 @@ načítavanie externých obrázkov v správach vo formáte HTML.">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Dátum narodenia:">
 <!ENTITY Birthday.accesskey             "D">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Rok">
 <!ENTITY Or.value                       "alebo">
 <!ENTITY Age.emptytext                  "vek">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Zamestnanie">
 <!ENTITY Work.accesskey                 "Z">

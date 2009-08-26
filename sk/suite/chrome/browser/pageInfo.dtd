@@ -46,6 +46,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Vybrať všetko">
 <!ENTITY  selectall.accesskey   "a">
+<!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Všeobecné">

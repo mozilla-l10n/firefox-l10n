@@ -1,4 +1,3 @@
-
 <!ENTITY prefWindow.titleWin      "Možnosti">
 <!ENTITY prefWindow.titleGNOME    "Možnosti &brandShortName;u">
 <!ENTITY prefWindow.styleWindows  "width: 45em; min-height: 38.5em;">
@@ -9,5 +8,5 @@
 <!ENTITY paneDisplay.title        "Zobrazenie">
 <!ENTITY paneComposition.title    "Písanie správ">
 <!ENTITY paneAttachments.title    "Prílohy">
-<!ENTITY panePrivacy.title        "Súkromie">
+<!ENTITY paneSecurity.title       "Bezpečnosť">
 <!ENTITY paneAdvanced.title       "Spresnenie">

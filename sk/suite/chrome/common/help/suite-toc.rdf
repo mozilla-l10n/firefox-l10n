@@ -947,10 +947,11 @@
 <rdf:Description about="#using-help-certs-manage">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-help-certs-manage-my" nc:name="Osobné certifikáty" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_you"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-manage-others" nc:name="Certifikáty ostatných subjektov" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_others"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-manage-sites" nc:name="Certifikáty webových serverov" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_websites"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-manage-cas" nc:name="Certifikáty certifikačných autorít" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_certificate_authorities"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-my" nc:name="Certifikáty, ktoré identifikujú mňa" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_you"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-others" nc:name="Certifikáty, ktoré identifikujú ľudí" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_people"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-sites" nc:name="Certifikáty, ktoré identifikujú servery" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-cas" nc:name="Certifikáty, ktoré identifikujú certifikačné autority" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_certificate_authorities"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-orphans" nc:name="Certifikáty, ktoré identifikujú ostatných" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_others"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1031,9 +1032,9 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li><rdf:Description ID="my_certs" nc:name="Your Certificates" nc:link="certs_help.xhtml#your_certificates"/> </rdf:li>
-        <rdf:li><rdf:Description ID="others_certs" nc:name="Other People's Certificates" nc:link="certs_help.xhtml#other_peoples_certificates"/> </rdf:li>
-        <rdf:li><rdf:Description ID="web_certs" nc:name="Website Certificates" nc:link="certs_help.xhtml#web_site_certificates"/> </rdf:li>
-        <rdf:li><rdf:Description ID="ca_certs" nc:name="Authorities" nc:link="certs_help.xhtml#authorities"/> </rdf:li>
+        <rdf:li><rdf:Description ID="others_certs" nc:name="People" nc:link="certs_help.xhtml#people"/> </rdf:li>
+        <rdf:li><rdf:Description ID="web_certs" nc:name="Servers" nc:link="certs_help.xhtml#servers"/> </rdf:li>
+        <rdf:li><rdf:Description ID="orphan_certs" nc:name="Others" nc:link="certs_help.xhtml#others"/> </rdf:li>
 
       </rdf:Seq>
     </nc:subheadings>

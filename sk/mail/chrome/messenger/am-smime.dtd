@@ -1,18 +1,28 @@
-<!ENTITY securityTitle.label           "Bezpečnosť">
-<!ENTITY securityHeading.label         "Ak chcete posielať a prijímať podpísané alebo šifrované správy, mali by ste zadať certifikát pre šifrovanie a certifikát pre digitálne podpisovanie.">
-<!ENTITY encryptionGroupTitle.label    "Šifrovanie">
-<!ENTITY encryptionChoiceLabel.label   "Prednastavené šifrovanie pri posielaní správ:">
-<!ENTITY neverEncrypt.label            "Nikdy (nepoužívať šifrovanie)">
-<!ENTITY alwaysEncryptMessage.label    "Vždy (neumožní odoslanie, ak všetci adresáti nemajú certifikát)">
-<!ENTITY encryptionCert.message        "Na šifrovanie a dešifrovanie správ posielaných vám používať tento osobný certifikát:">
-<!ENTITY certificate.button            "Vybrať…">
-<!ENTITY certificate_clear.button      "Vymazať">
-<!ENTITY signingGroupTitle.label       "Digitálne podpisovanie">
-<!ENTITY signMessage.label             "Digitálne podpisovať správy (predvolene)">
-<!ENTITY signingCert.message           "Na digitálne podpisovanie správ používať tento osobný certifikát:">
+<!ENTITY securityTitle.label "Bezpečnosť">
+<!ENTITY securityTab.label "Bezpečnosť">
+<!ENTITY securityHeading.label "Ak chcete posielať a prijímať podpísané alebo šifrované správy, mali by ste zadať certifikát pre šifrovanie a certifikát pre digitálne podpisovanie.">
+<!ENTITY encryptionGroupTitle.label "Šifrovanie">
+<!ENTITY encryptionChoiceLabel.label "Prednastavené šifrovanie pri posielaní správ:">
+<!ENTITY neverEncrypt.label "Nikdy (nepoužívať šifrovanie)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "Vždy (neumožní odoslanie, ak všetci adresáti nemajú certifikát)">
+<!ENTITY alwaysEncryptMessage.accesskey "d">
+<!ENTITY encryptionCert.message  "Na šifrovanie a dešifrovanie správ posielaných vám používať tento osobný certifikát:">
+<!ENTITY digitalSign.certificate.button "Vybrať…">
+<!ENTITY digitalSign.certificate.accesskey "b">
+<!ENTITY digitalSign.certificate_clear.button "Vymazať">
+<!ENTITY digitalSign.certificate_clear.accesskey "V">
+<!ENTITY encryption.certificate.button "Vybrať…">
+<!ENTITY encryption.certificate.accesskey "a">
+<!ENTITY encryption.certificate_clear.button "Vymazať">
+<!ENTITY encryption.certificate_clear.accesskey "m">
+<!ENTITY signingGroupTitle.label "Digitálne podpisovanie">
+<!ENTITY signMessage.label "Digitálne podpisovať správy (predvolene)">
+<!ENTITY signMessage.accesskey "D">
+<!ENTITY signingCert.message "Na digitálne podpisovanie správ používať tento osobný certifikát:">
 
-<!ENTITY certificates.label            "Certifikáty">
-<!ENTITY managecerts.label             "Zobraziť certifikáty">
-<!ENTITY managecerts.accesskey         "Z">
-<!ENTITY managedevices.label           "Bezpečnostné zariadenia">
-<!ENTITY managedevices.accesskey       "B">
+<!ENTITY certificates.label "Certifikáty">
+<!ENTITY manageCerts.label "Zobraziť certifikáty">
+<!ENTITY manageCerts.accesskey "Z">
+<!ENTITY manageDevices.label "Bezpečnostné zariadenia">
+<!ENTITY manageDevices.accesskey "e">

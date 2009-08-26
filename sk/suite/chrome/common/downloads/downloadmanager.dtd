@@ -28,22 +28,28 @@
 <!ENTITY col.progress.accesskey          "P">
 <!ENTITY col.progress.tooltip            "Priebeh">
 <!ENTITY col.timeremaining.label         "Zostávajúci čas">
-<!ENTITY col.timeremaining.accesskey     "Z">
+<!ENTITY col.timeremaining.accesskey     "v">
 <!ENTITY col.timeremaining.tooltip       "Zostávajúci čas">
 <!ENTITY col.transferred.label           "Prenesené">
 <!ENTITY col.transferred.accesskey       "e">
 <!ENTITY col.transferred.tooltip         "Prenesené">
 <!ENTITY col.transferrate.label          "Rýchlosť">
-<!ENTITY col.transferrate.accesskey      "R">
+<!ENTITY col.transferrate.accesskey      "c">
 <!ENTITY col.transferrate.tooltip        "Rýchlosť">
 <!ENTITY col.timeelapsed.label           "Uplynutý čas">
 <!ENTITY col.timeelapsed.accesskey       "U">
 <!ENTITY col.timeelapsed.tooltip         "Uplynutý čas">
+<!ENTITY col.starttime.label             "Čas spustenia">
+<!ENTITY col.starttime.accesskey         "t">
+<!ENTITY col.starttime.tooltip           "Čas spustenia preberania">
+<!ENTITY col.endtime.label               "Čas ukončenia">
+<!ENTITY col.endtime.accesskey           "a">
+<!ENTITY col.endtime.tooltip             "Čas ukončenia preberania">
 <!ENTITY col.progresstext.label          "&#37;">
 <!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Uplynulo: &#37;">
 <!ENTITY col.source.label                "Zdroj">
-<!ENTITY col.source.accesskey            "d">
+<!ENTITY col.source.accesskey            "r">
 <!ENTITY col.source.tooltip              "Zdroj">
 
 <!ENTITY view.columns.label              "Zobraziť stĺpce">
@@ -54,7 +60,7 @@
 <!ENTITY view.unsorted.label             "Neusporiadané">
 <!ENTITY view.unsorted.accesskey         "d">
 <!ENTITY view.sortAscending.label        "Smer usporiadania A > Z">
-<!ENTITY view.sortAscending.accesskey    "A">
+<!ENTITY view.sortAscending.accesskey    "m">
 <!ENTITY view.sortDescending.label       "Smer usporiadania Z > A">
 <!ENTITY view.sortDescending.accesskey   "Z">
 
@@ -76,3 +82,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "r">
 <!ENTITY cmd.copyDownloadLink.label      "Kopírovať adresu súboru">
 <!ENTITY cmd.copyDownloadLink.accesskey  "K">
+<!ENTITY cmd.properties.label            "Vlastnosti…">
+<!ENTITY cmd.properties.accesskey        "V">

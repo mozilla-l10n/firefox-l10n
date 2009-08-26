@@ -22,6 +22,9 @@
 <!ENTITY recentTabs.label "Nedávno zatvorené karty">
 <!ENTITY recentTabs.accesskey "y">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Nedávno zatvorené okná">
+<!ENTITY recentWindows.accesskey "d">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Upraviť stránku">
 <!ENTITY editPageCmd.accesskey "i">
 <!ENTITY editPageCmd.commandkey "e">

@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey "s">
 <!ENTITY belowText.label "pod citovaný text (odporúča sa)">
 <!ENTITY aboveText.label "pod moju odpoveď (nad citovaný text)">
+<!ENTITY includeSigOnReply.label              "Pripájať podpis pri odpovedaní na správu">
+<!ENTITY includeSigOnReply.accesskey          "d">
+<!ENTITY includeSigOnForward.label            "Pripájať podpis pri preposielaní správy">
+<!ENTITY includeSigOnForward.accesskey        "e">

@@ -12,14 +12,11 @@
 <!ENTITY userName.accesskey "m">
 <!ENTITY useSecAuth.label "Použiť zabezpečenú autentifikáciu">
 <!ENTITY useSecAuth.accesskey "z">
-<!ENTITY isSecure.label "Použiť bezpečné spojenie:">
-<!ENTITY neverSecure.label "Nikdy">
-<!ENTITY neverSecure.accesskey "k">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, ak je k dispozícii">
-<!ENTITY sometimesSTARTTLS.accesskey "a">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "L">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "S">
+<!ENTITY connectionSecurity.label "Zabezpečenie pripojenia:">
+<!ENTITY connectionSecurity.accesskey "a">
+<!ENTITY connectionSecurityType-0.label "žiadne">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, ak je k dispozícii">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server SMTP">
 <!ENTITY serverPortDefault.label "Štandardný:">

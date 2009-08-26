@@ -12,16 +12,20 @@
 <!ENTITY nntpDownloadMsg.label "Správy staršie ako">
 <!ENTITY nntpDownloadMsg.accesskey "v">
 <!ENTITY retentionCleanup.label "Ak chcete získať miesto na disku, je možné staré správy automaticky odstraňovať.">
+<!ENTITY retentionCleanupImap.label "Ak chcete získať miesto na disku, je možné staré správy automaticky odstraňovať, a to ako lokálne kópie, tak aj originály na vzdialenom serveri.">
+<!ENTITY retentionCleanupPop.label "Ak chcete získať miesto na disku, je možné staré správy automaticky odstraňovať, a to vrátane originálov na vzdialenom serveri.">
 <!ENTITY retentionKeepMsg.label "Odstrániť správy staršie ako">
 <!ENTITY retentionKeepMsg.accesskey "d">
 <!ENTITY retentionKeepAll.label "Neodstraňovať žiadne správy">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "Odstrániť všetko okrem posledných">
-<!ENTITY retentionKeepNew.accesskey "k">
-<!ENTITY retentionKeepUnread.label "Vždy odstrániť prečítané správy">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Odstrániť telá správ starších ako">
-<!ENTITY nntpRemoveBody.accesskey "t">
+<!ENTITY retentionKeepRecent.label "Odstrániť všetky okrem najnovších">
+<!ENTITY retentionKeepRecent.accesskey "k">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Vždy odstrániť prečítané správy (nezávislo na dobe od prijatia správy)">
+<!ENTITY retentionApplyToFlagged.label "Vždy ponechať správy označené hviezdičkou">
+<!ENTITY retentionApplyToFlagged.accesskey "h">
+<!ENTITY nntpRemoveMsgBody.label "Odstrániť telá správ starších ako">
+<!ENTITY nntpRemoveMsgBody.accesskey "r">
 <!ENTITY offlineSelectNntp.label "Vyberte diskusné skupiny, ktoré chcete používať v režime offline…">
 <!ENTITY offlineSelectNntp.accesskey "b">
 <!ENTITY offlineImapAdvancedOffline.label "Rozšírené…">

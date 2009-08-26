@@ -11,10 +11,10 @@
 <!ENTITY newAcctLink.label            "Vytvoriť nový účet">
 
 <!ENTITY advFeaturesSectionHdr.label  "Pokročilé funkcie">
-<!ENTITY searchMsgsLink.label         "Hľadať v správach">
-<!ENTITY filtersLink.label            "Spravovať filtre správ">
+<!ENTITY searchMsgsLink.label         "Vyhľadávanie v správach">
+<!ENTITY filtersLink.label            "Správa filtrov správ">
 <!ENTITY junkSettings.label           "Nastavenie rozpoznávania nevyžiadanej pošty">
 <!ENTITY offlineLink.label            "Nastavenie režimu offline">
 
-<!ENTITY rssSectionHdr.label          "Kanály RSS">
-<!ENTITY subscibeRSS.label            "Správa odoberania">
+<!ENTITY feedsSectionHdr.label        "Informačné kanály">
+<!ENTITY subscribeFeeds.label         "Správa odoberania">

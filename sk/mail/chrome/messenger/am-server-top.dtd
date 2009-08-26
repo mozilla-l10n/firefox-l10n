@@ -10,7 +10,6 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "r">
 <!ENTITY serverPortDefault.label "Štandardný:">
-<!ENTITY savePassword.label "Uložiť heslo">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -19,17 +18,12 @@
 <!ENTITY biffStart.label "Kontrolovať novú poštu každých">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minút">
-<!ENTITY isSecure.label "Použiť bezpečné spojenie (SSL)">
-<!ENTITY isSecure.accesskey "b">
-<!ENTITY socketType.label "Použiť bezpečné spojenie:">
-<!ENTITY neverSecure.label "Nikdy">
-<!ENTITY neverSecure.accesskey "d">
-<!ENTITY sometimesSecure.label "TLS, ak je k dispozícii">
-<!ENTITY sometimesSecure.accesskey "e">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "S">
+<!ENTITY connectionSecurity.label "Zabezpečenie pripojenia:">
+<!ENTITY connectionSecurity.accesskey "e">
+<!ENTITY connectionSecurityType-0.label "žiadne">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, ak je dostupné">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Použiť bezpečnú autentifikáciu">
 <!ENTITY useSecAuth.accesskey "f">
 <!ENTITY leaveOnServer.label "Nechávať správy na serveri">

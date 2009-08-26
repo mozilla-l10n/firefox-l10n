@@ -158,12 +158,14 @@
   <ul>
     <li><a href="#managing_certificates_that_identify_you">Správa osobných
       certifikátov</a></li>
-    <li><a href="#managing_certificates_that_identify_others">Správa certifikátov
-      ostatných subjektov</a></li>
-    <li><a href="#managing_certificates_that_identify_websites">Správa certifikátov
+    <li><a href="#managing_certificates_that_identify_people">Správa certifikátov,
+      ktoré identifikujú iných ľudí</a></li>
+    <li><a href="#managing_certificates_that_identify_servers">Správa certifikátov
       webových serverov</a></li>
     <li><a href="#managing_certificates_that_identify_certificate_authorities">Správa
       certifikátov certifikačných autorít</a></li>
+    <li><a href="#managing_certificates_that_identify_others">Správa certifikátov
+      ostatných subjektov</a></li>
   </ul>
 </div>
 
@@ -171,42 +173,23 @@
 
 <p>Keď prvýkrát otvoríte Správcu certifikátov, všimnite si, že má vo svojom okne niekoľko
   kariet. Prvá karta nazvaná Vaše certifikáty zobrazuje certifikáty, ktorými prehliadač
-  môže preukázať vašu identitu. Vaše certifikáty sú usporiadané podľa názvov organizácií,
-  ktoré ich vydali.</p>
+  alebo e-mailový klient môžu preukázať vašu identitu. Vaše certifikáty sú usporiadané
+  podľa názvov organizácií, ktoré ich vydali.</p>
 
 <p>Ak chcete vykonať úkon s jedným alebo viacerými certifikátmi, kliknite na záznam
   certifikátu (ak chcete označiť viac ako jeden certifikát, držte kláves
-  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom kliknite na tlačidlo
-  Zobraziť, Zálohovať alebo Odstrániť. Každé z týchto tlačidiel zobrazí ďalšie dialógové
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom kliknite na jedno z tlačidiel
+  v spodnej časti okna Správcu certifikátov. Každé z týchto tlačidiel zobrazí ďalšie dialógové
   okno, ktoré umožňuje potvrdiť akciu. Kliknutím na tlačidlo Pomocník získate viac
   informácií o používaní príslušnej karty.</p>
 
-<p>Nasledujúce tlačidlá na karte Vaše certifikáty nevyžadujú mať označené žiadne certifikáty.
-  Môžete ich použiť na vykonanie týchto činností:</p>
-
-<ul>
-  <li><strong>Importovať</strong>: Kliknite na toto tlačidlo, ak chcete importovať certifikát,
-    ktorý bol predtým zálohovaný alebo je prenesený z jedného počítača do iného.</li>
-  <li><strong>Zálohovať všetky</strong>: Kliknite na toto tlačidlo, ak chcete zálohovať
-    všetky vaše certifikáty uložené v
-    <a href="glossary.xhtml#software_security_device">softvérovom bezpečnostnom
-    zariadení</a>.</li>
-</ul>
-
-<p><strong>Dôležité</strong>: Certifikáty na uložené na kartách Smart card nie je možné
-  zálohovať. Ak vyberiete niektoré vaše certifikáty a kliknete na tlačidlo Zálohovať
-  prípadne Zálohovať všetky, výsledný súbor so zálohou nebude obsahovať žiadny
-  certifikát uložený na kartách Smart Card alebo na inom externom bezpečnostnom
-  zariadení. Zálohovať môžete len certifikáty uložené v zabudovanom Softvérovom
-  bezpečnostnom zariadení.</p>
-
-<p>Viac informácií o osobných certifikátoch nájdete aj v kapitole
+<p>Viac informácií o zobrazení a správe týchto certifikátov nájdete aj v kapitole
   <a href="certs_help.xhtml#your_certificates">Vaše certifikáty</a>.</p>
 
 <p>[<a href="#managing_certificates">Návrat na začiatok kapitoly</a>]</p>
 
-<h2 id="managing_certificates_that_identify_others">Správa certifikátov
-  ostatných subjektov</h2>
+<h2 id="managing_certificates_that_identify_others">Správa certifikátov,
+      ktoré identifikujú iných ľudí</h2>
 
 <p>Keď vytvárate e-mailovú správu, môžete k nej pripojiť váš digitálny podpis.
   <a href="glossary.xhtml#digital_signature">Digitálny podpis</a> umožňuje príjemcom
@@ -228,12 +211,12 @@
 
 <p>Ak chcete vykonať úkon s jedným alebo viacerými certifikátmi, kliknite na záznam
   certifikátu (ak chcete označiť viac ako jeden certifikát, držte kláves
-  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom kliknite na tlačidlo
-  Zobraziť alebo Odstrániť. Každé z týchto tlačidiel zobrazí ďalšie dialógové
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom kliknite na jedno z tlačidiel
+  v spodnej časti okna Správcu certifikátov. Každé z týchto tlačidiel zobrazí ďalšie dialógové
   okno, ktoré umožňuje potvrdiť akciu. Kliknutím na tlačidlo Pomocník získate viac
   informácií o používaní príslušnej karty.</p>
 
-<p>Viac informácií o certifikátoch ostatných subjektov nájdete aj v kapitole
+<p>Viac informácií o zobrazení a správe týchto certifikátov nájdete aj v kapitole
   <a href="certs_help.xhtml#other_peoples_certificates">Certifikáty
   ostatných subjektov</a>.</p>
 
@@ -242,7 +225,7 @@
 <h2 id="managing_certificates_that_identify_websites">Správa certifikátov
   webových serverov</h2>
 
-<p>Niektoré webové servery používajú certifikáty na identifikáciu seba samých.
+<p>Niektoré webové a e-mailové servery používajú certifikáty na identifikáciu seba samých.
   Takáto identifikácia je vyžadovaná predtým, ako je možné preniesť šifrované informácie
   medzi webovým serverom a vašim počítačom (a naopak), takže nikto nemôže prečítať
   údaje počas prenosu.</p>
@@ -258,15 +241,12 @@
 
 <p>Ak chcete vykonať úkon s jedným alebo viacerými certifikátmi, kliknite na záznam
   certifikátu (ak chcete označiť viac ako jeden certifikát, držte kláves
-  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom kliknite na tlačidlo
-  Zobraziť, Upraviť prípadne Odstrániť. Každé z týchto tlačidiel zobrazí ďalšie dialógové
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom kliknite na jedno z tlačidiel
+  v spodnej časti okna Správcu certifikátov. Každé z týchto tlačidiel zobrazí ďalšie dialógové
   okno, ktoré umožňuje potvrdiť akciu. Kliknutím na tlačidlo Pomocník získate viac
   informácií o používaní príslušnej karty.</p>
 
-<p>Kliknutím na tlačidlo Upraviť môžete špecifikovať, či má váš prehliadač v budúcnosti
-  dôverovať certifikátom vybraných serverov.</p>
-
-<p>Viac informácií o certifikátoch webových serverov nájdete aj v kapitole
+<p>Viac informácií o zobrazení a správe týchto certifikátov nájdete aj v kapitole
   <a href="certs_help.xhtml#web_site_certificates">Certifikáty webových
     serverov</a>.
 </p>
@@ -294,17 +274,24 @@
 
 <p>Ak chcete vykonať úkon s jedným alebo viacerými certifikátmi, kliknite na záznam
   certifikátu (ak chcete označiť viac ako jeden certifikát, držte kláves
-  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom kliknite na tlačidlo
-  Zobraziť, Upraviť prípadne Odstrániť. Každé z týchto tlačidiel zobrazí ďalšie dialógové
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom kliknite na jedno z tlačidiel
+  v spodnej časti okna Správcu certifikátov. Každé z týchto tlačidiel zobrazí ďalšie dialógové
   okno, ktoré umožňuje potvrdiť akciu. Kliknutím na tlačidlo Pomocník získate viac
   informácií o používaní príslušnej karty.</p>
 
-<p>Kliknutím na tlačidlo Upraviť môžete zobraziť a upraviť nastavenie dôveryhodnosti
-  pre každý certifikát. Nastavenie dôveryhodnosti pre certifikát CA vám umožňuje určiť,
-  ktorým druhom certifikátov vydaných touto CA ste ochotný dôverovať.</p>
-
-<p>Viac informácií o certifikátoch certifikačných autorít nájdete aj v kapitole
+<p>Viac informácií o zobrazení a správe týchto certifikátov nájdete aj v kapitole
   <a href="certs_help.xhtml#authorities">Autority</a>.</p>
+
+<p>[<a href="#managing_certificates">Návrat na začiatok kapitoly</a>]</p>
+
+<h2 id="managing_certificates_that_identify_others">Správa certifikátov
+      ostatných subjektov</h2>
+
+<p>Ak chcete zobraziť všetky certifikáty, ktoré nespadajú ani do jednej z vyššie uvedených kategórií,
+  kliknite v okne Správcu certifikátov na kartu Iné.</p>
+
+<p>Viac informácií o zobrazení a správe týchto certifikátov nájdete aj v kapitole
+  <a href="certs_help.xhtml#others">Správa certifikátov ostatných subjektov</a>.</p>
 
 <p>[<a href="#managing_certificates">Návrat na začiatok kapitoly</a>]</p>
 

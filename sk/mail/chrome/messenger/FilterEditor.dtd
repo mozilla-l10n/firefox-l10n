@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "kontrole pošty">
 <!ENTITY contextManual.label "manuálnom spustení">
 <!ENTITY contextBoth.label "kontrole pošty alebo manuálnom spustení">
+<!ENTITY contextPostPlugin.label "kontrole pošty (po jej klasifikácii)">
+<!ENTITY contextPostPluginBoth.label "kontrole pošty (po jej klasifikácii) alebo manuálnom spustení">
 <!ENTITY filterActionDesc.label "Vykonať tieto akcie:">
 <!ENTITY filterActionDesc.accesskey "V">
 

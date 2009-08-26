@@ -42,14 +42,14 @@
 
 <!ENTITY pref.mainbox.label "Hlavné nastavenia" >
 <!ENTITY pref.dateformat.label "Textový formát dátumu:" >
-<!ENTITY pref.dateformat.accesskey "d">
+<!ENTITY pref.dateformat.accesskey "T">
 <!ENTITY pref.dateformat.long "Dlhý" >
 <!ENTITY pref.dateformat.short "Krátky"  >
 <!ENTITY pref.defaultlength.label "Predvolená dĺžka trvania udalosti:" >
-<!ENTITY pref.defaultlength.accesskey "t">
+<!ENTITY pref.defaultlength.accesskey "P">
 <!ENTITY pref.defaultsnoozelength.label "Predvolený čas oneskoreného upozornenia po udalosti:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "e">
 <!ENTITY pref.refreshbox.label "Obnovenie kalendárov" >
 <!ENTITY pref.autorefresh.label "Obnoviť kalendáre každých" >
-<!ENTITY pref.autorefresh.accesskey "o" >
+<!ENTITY pref.autorefresh.accesskey "O" >
 

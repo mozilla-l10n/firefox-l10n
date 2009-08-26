@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label             "Nastavenie systému">
-<!ENTITY alwaysCheckDefault.label         "Pri štarte kontrolovať, či je &brandShortName; predvoleným poštovým klientom">
-<!ENTITY alwaysCheckDefault.accesskey     "k">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height        "3em">
-<!ENTITY checkNow.label                   "Skontrolovať">
-<!ENTITY checkNow.accesskey               "t">
-
 <!ENTITY messengerStartPage.label         "Úvodná stránka &brandShortName;u">
 <!ENTITY enableStartPage.label            "Pri štarte &brandShortName;u zobraziť stránku v oblasti správy">
 <!ENTITY enableStartPage.accesskey        "z">
@@ -21,7 +9,7 @@
 <!ENTITY bounceSystemDockIcon.label       "Animovať ikonu v doku">
 <!ENTITY bounceSystemDockIcon.accesskey   "m">
 
-<!ENTITY newMessagesArrive.label          "Pri prijatí novej správy:">
+<!ENTITY newMessagesArrive.label          "Pri prijatí novej správy">
 <!ENTITY playSound.label                  "Prehrať zvuk">
 <!ENTITY playSound1.accesskey             "h">
 <!ENTITY showAnimatedAlert.label          "Zobraziť upozornenie">

@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Import">
-<!ENTITY importDialog.allTitle    "Importovať všetko">
-<!ENTITY importDialog.mailTitle   "Pošta">
-<!ENTITY importDialog.addressbookTitle "Adresáre">
-<!ENTITY importDialog.settingsTitle "Nastavenie">
-<!ENTITY importDialog.filtersTitle "Filtre">
+<!ENTITY importAll.label          "Importovať všetko">
+<!ENTITY importAll.accesskey      "v">
+<!ENTITY importMail.label         "Pošta">
+<!ENTITY importMail.accesskey     "P">
+<!ENTITY importAddressbook.label  "Adresáre">
+<!ENTITY importAddressbook.accesskey "d">
+<!ENTITY importSettings.label     "Nastavenie">
+<!ENTITY importSettings.accesskey "s">
+<!ENTITY importFilters.label      "Filtre">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Po importovaní budú tieto položky dostupné v programe &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Vyberte program, z ktorého chcete importovať:">
+<!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label               "&lt; Naspäť">
 <!ENTITY forward.label            "Ďalej &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x má jednu poštovú adresu, zatiaľ čo &brandShortName; má dve (Domov a Zamestnanie).">
 <!ENTITY FieldDiscInputText2.label "Zvoľte kategóriu, do ktorej sa majú uložiť importované e-mailové adresy">
 <!ENTITY FieldDiscWarning.label "Táto kategória bude použitá pre všetky položky vo vybranom adresári.">
-<!ENTITY importDialog.homeTitle "Domov">
-<!ENTITY importDialog.workTitle "Zamestnanie">
+<!ENTITY importHome.label        "Domov">
+<!ENTITY importHome.accesskey    "D">
+<!ENTITY importWork.label        "Zamestnanie">
+<!ENTITY importWork.accesskey    "Z">

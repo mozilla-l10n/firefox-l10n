@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Farba:">
 <!ENTITY color.accesskey                  "a">
 <!ENTITY displayWidth.label               "Textové správy">
-<!ENTITY plainText.label                  "Použiť nasledovný druh písma:">
 <!ENTITY displayText.label                "Pri zobrazovaní citácií v textových správach:">
-<!ENTITY fixedWidth.label                 "s pevnou šírkou">
-<!ENTITY fixedWidth.accesskey             "e">
-<!ENTITY variableWidth.label              "s premenlivou šírkou">
-<!ENTITY variableWidth.accesskey          "v">
 <!ENTITY colors.label                     "Farby">
 <!ENTITY overrideColors.label             "Pri zobrazovaní správ použiť nasledovné farby:">
 <!ENTITY  textColor.label                 "Farba textu:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "O">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Nastavenie písma a kódovania v programe &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label     "Písma a kódovanie">
-<!ENTITY fontOptions.accesskey              "P">
-<!ENTITY fontOptions.label                  "Písma…">
+<!ENTITY fontsAndColors.label    "Písma">
+<!ENTITY defaultFont.label       "Predvolené písmo:">
+<!ENTITY defaultFont.accesskey   "e">
+<!ENTITY defaultSize.label       "Veľkosť:">
+<!ENTITY defaultSize.accesskey   "V">
+<!ENTITY fontOptions.accesskey   "P">
+<!ENTITY fontOptions.label       "Pokročilé…">
