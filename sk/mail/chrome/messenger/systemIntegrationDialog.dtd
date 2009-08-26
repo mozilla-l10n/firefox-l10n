@@ -1,9 +1,12 @@
-<!ENTITY defaultClient.title  "Predvolené nastavenia">
+<!ENTITY systemIntegration.title  "Integrácia so systémom">
 <!ENTITY defaultClient.intro  "Použiť &brandShortName; ako predvolený program pre:">
 
 <!ENTITY email.label "Poštu">
 <!ENTITY newsgroups.label "Diskusné skupiny">
-<!ENTITY rss.label "Kanály RSS">
+<!ENTITY feeds.label "Informačné kanály (RSS)">
 
 <!ENTITY checkOnStartup.label "Pri štarte &brandShortName;u vždy vykonať túto kontrolu">
 <!ENTITY checkOnStartup.accesskey "a">
+
+<!ENTITY searchIntegration.label "Umožniť službe &searchIntegration.engineName; prehľadávať správy">
+<!ENTITY searchIntegration.accesskey "U">
