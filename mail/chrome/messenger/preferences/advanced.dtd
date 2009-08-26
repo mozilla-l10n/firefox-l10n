@@ -6,28 +6,15 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label              "Povoliť indexovanie správ">
-<!ENTITY enableGloda.accesskey          "d">
-<!ENTITY showCondensedAddresses.label   "Zobrazovať mená len pre adresy uložené v osobných adresároch">
-<!ENTITY showCondensedAddresses.accesskey "b">
-
-<!ENTITY autoMarkAsRead.label           "Automaticky označovať správy ako prečítané">
-<!ENTITY autoMarkAsRead.accesskey       "A">
-<!ENTITY markAsReadNoDelay.label        "Okamžite po zobrazení">
-<!ENTITY markAsReadNoDelay.accesskey    "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label          "Po">
-<!ENTITY markAsReadDelay.accesskey      "o">
-<!ENTITY secondsLabel.label             "sekundách od zobrazenia">
-<!ENTITY showFolderColumns.label        "Zobraziť stĺpce v paneli priečinkov">
-<!ENTITY showFolderColumns.accesskey    "Z">
-<!ENTITY openMsgIn.label                "Správy otvárať v:">
-<!ENTITY reuseExpRadio0.label           "V novom okne správy">
-<!ENTITY reuseExpRadio0.accesskey       "n">
-<!ENTITY reuseExpRadio1.label           "V existujúcom okne so správou">
-<!ENTITY reuseExpRadio1.accesskey       "x">
+<!ENTITY enableGlodaSearch.label        "Povoliť globálne vyhľadávanie a indexovanie správ">
+<!ENTITY enableGlodaSearch.accesskey    "o">
+<!ENTITY systemIntegration.label        "Integrácia so systémom">
+<!ENTITY alwaysCheckDefault.label       "Pri štarte kontrolovať, či je &brandShortName; predvoleným poštovým klientom">
+<!ENTITY alwaysCheckDefault.accesskey   "k">
+<!ENTITY searchIntegration.label        "Umožniť službe &searchIntegration.engineName; prehľadávať správy">
+<!ENTITY searchIntegration.accesskey    "U">
+<!ENTITY checkNow.label                 "Skontrolovať">
+<!ENTITY checkNow.accesskey             "S">
 <!ENTITY configEditDesc.label           "Pokročilé nastavenia">
 <!ENTITY configEdit.label               "Editor nastavení…">
 <!ENTITY configEdit.accesskey           "E">
@@ -38,14 +25,35 @@
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "Čítanie">
 <!ENTITY display.caption                "Zobrazenie">
+<!ENTITY showCondensedAddresses.label   "Zobrazovať mená len pre adresy uložené v osobných adresároch">
+<!ENTITY showCondensedAddresses.accesskey "Z">
+
+<!ENTITY autoMarkAsRead.label           "Automaticky označovať správy ako prečítané">
+<!ENTITY autoMarkAsRead.accesskey       "A">
+<!ENTITY markAsReadNoDelay.label        "Okamžite po zobrazení">
+<!ENTITY markAsReadNoDelay.accesskey    "O">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label          "Po">
+<!ENTITY markAsReadDelay.accesskey      "P">
+<!ENTITY secondsLabel.label             "sekundách od zobrazenia">
+<!ENTITY openMsgIn.label                "Správy otvárať:">
+<!ENTITY openMsgInNewTab.label          "Na novej karte">
+<!ENTITY openMsgInNewTab.accesskey      "k">
+<!ENTITY reuseExpRadio0.label           "V novom okne správy">
+<!ENTITY reuseExpRadio0.accesskey       "n">
+<!ENTITY reuseExpRadio1.label           "V existujúcom okne so správou">
+<!ENTITY reuseExpRadio1.accesskey       "x">
+<!ENTITY closeMsgWindowOnDelete.label   "Pri odstraňovaní správy zatvoriť jej okno">
+<!ENTITY closeMsgWindowOnDelete.accesskey "d">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Pravidelne kontrolovať aktualizácie pre:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Nainštalované doplnky">
 <!ENTITY enableAddonsUpdate.accesskey   "N">
-<!ENTITY checkNow.label                 "Skontrolovať teraz…">
 <!ENTITY whenUpdatesFound.label         "Ak sú dostupné aktualizácie pre &brandShortName;:">
 <!ENTITY modeAskMe.label                "Vždy sa opýtať, čo urobiť">
 <!ENTITY modeAskMe.accesskey            "o">
@@ -54,7 +62,7 @@
 <!ENTITY modeAutoAddonWarn.label        "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
 <!ENTITY modeAutoAddonWarn.accesskey    "U">
 <!ENTITY showUpdates.label              "Zobraziť históriu aktualizácií">
-<!ENTITY showUpdates.accesskey          "h">
+<!ENTITY showUpdates.accesskey          "Z">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label             "Nastavenia…">
@@ -77,17 +85,23 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Vyhradiť">
+<!ENTITY useCacheBefore.label            "Vyhradiť do">
 <!ENTITY useCacheBefore.accesskey        "h">
-<!ENTITY useCacheAfter.label             "MB diskového priestoru">
+<!ENTITY useCacheAfter.label             "MB na disku pre vyrovnávaciu pamäť">
 <!ENTITY clearCacheNow.label             "Vymazať teraz">
 <!ENTITY clearCacheNow.accesskey         "e">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Pokiaľ stránka požaduje môj osobný certifikát:">
+<!ENTITY certs.auto                      "Vybrať automaticky">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Vždy sa opýtať">
+<!ENTITY certs.ask.accesskey             "V">
+
 <!ENTITY viewCertificates.label         "Certifikáty">
 <!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "Zrušené certifikáty">
-<!ENTITY viewCRLs.accesskey             "r">
+<!ENTITY viewCRLs.accesskey             "u">
 <!ENTITY validation.label               "Overenie">
 <!ENTITY validation.accesskey           "O">
 <!ENTITY viewSecurityDevices.label      "Zariadenia">

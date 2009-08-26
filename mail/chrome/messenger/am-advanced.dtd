@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "Názov servera: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label "Používateľské meno: ">
-<!ENTITY useSecureConnection.label "Zabezpečené pripojenie: ">
+<!ENTITY connectionSecurity.label "Zabezpečenie pripojenia: ">
 <!ENTITY useSecureAuthentication.label   "Bezpečná autentifikácia: ">

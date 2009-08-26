@@ -49,8 +49,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Udalosť…">
+<!ENTITY lightning.menupopup.new.event.accesskey "U">
 <!ENTITY lightning.menupopup.new.task.label     "Úloha…">
+<!ENTITY lightning.menupopup.new.task.accesskey "h">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalendár…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "a">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Otvoriť">
@@ -60,11 +63,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Súbor kalendára…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Kalendár">
-<!ENTITY lightning.calendar.accesskey        "K">
-<!ENTITY lightning.tasks.label               "Úlohy">
-<!ENTITY lightning.tasks.accesskey           "l">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Kalendár">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "Úlohy">
+<!ENTITY lightning.menu.view.tasks.accesskey           "o">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Udalosti a úlohy">
+<!ENTITY lightning.menu.eventtask.accesskey            "d">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "Pošta">

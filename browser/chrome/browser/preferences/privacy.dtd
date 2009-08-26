@@ -57,8 +57,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "vymazať celú aktuálnu históriu">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Automaticky spustiť &brandShortName; v režime Súkromné prehliadanie">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "Natrvalo zapnúť režim Súkromné prehliadanie">
+<!ENTITY  privateBrowsingPermanent.accesskey "a">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single

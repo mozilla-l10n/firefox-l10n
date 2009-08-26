@@ -5,11 +5,9 @@
 <!ENTITY forwardMsg.label                    "Správy odosielať ďalej:">
 <!ENTITY forwardMsg.accesskey                "S">
 <!ENTITY inline.label                        "V texte">
-<!ENTITY inline.accesskey                    "t">
 <!ENTITY asAttachment.label                  "Ako príloha">
-<!ENTITY asAttachment.accesskey              "A">
 <!ENTITY addExtension.label                  "Pridať príponu k názvu súboru">
-<!ENTITY addExtension.accesskey              "r">
+<!ENTITY addExtension.accesskey              "d">
 
 <!ENTITY htmlComposeHeader.label             "Správy vo formáte HTML">
 <!ENTITY font.label                          "Písmo:">
@@ -34,7 +32,7 @@
 <!ENTITY warnOnSendAccelKey.label            "Žiadať potvrdenie pri odosielaní správy pomocou klávesovej skratky">
 <!ENTITY warnOnSendAccelKey.accesskey        "v">
 <!ENTITY autoSave.label                      "Automaticky ukladať každých">
-<!ENTITY autoSave.accesskey                  "u">
+<!ENTITY autoSave.accesskey                  "A">
 <!ENTITY autoSaveEnd.label                   "minút">
 
 <!ENTITY emailCollectionPicker.label         "Adresy odosielaných e-mailov automaticky pridať do:">
@@ -52,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label        "Konfigurácia správania formátovania textov">
 <!ENTITY sendOptions.label                   "Nastavenie odosielania…">
 <!ENTITY sendOptions.accesskey               "N">
+
+<!ENTITY attachmentReminder.label              "Kontrolovať, či v správe nechýba príloha">
+<!ENTITY attachmentReminder.accesskey          "c">
+<!ENTITY attachmentReminderOptions.label       "Kľúčové slová…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">

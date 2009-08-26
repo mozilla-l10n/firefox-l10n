@@ -48,7 +48,7 @@
 
 <!ENTITY event.new.todo                         "Nová úloha…">
 <!ENTITY event.new.todo.key                     "T">
-<!ENTITY event.new.todo.accesskey               "h">
+<!ENTITY event.new.todo.accesskey               "N">
 
 <!ENTITY calendar.new.server.label              "Nový súbor kalendára…">
 <!ENTITY calendar.new.server.key                "L">
@@ -60,26 +60,24 @@
 
 <!ENTITY calendar.import.label                  "Importovať…">
 <!ENTITY calendar.import.key                    "I">
-<!ENTITY calendar.import.accesskey              "I">
+<!ENTITY calendar.import.accesskey              "m">
 
-<!ENTITY calendar.export.calendar.label         "Exportovať kalendár…">
-<!ENTITY calendar.export.calendar.accesskey     "E">
+<!ENTITY calendar.export.label                  "Exportovať…">
+<!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "Exportovať označené…">
 <!ENTITY calendar.export.selection.accesskey    "v">
 
 <!ENTITY calendar.publish.label                 "Publikovať…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.toolbar.label                 "Panel Kalendár">
-<!ENTITY calendar.toolbar.accesskey             "K">
-<!ENTITY task.toolbar.label                     "Panel Úloha">
-<!ENTITY task.toolbar.accesskey                 "h">
+<!ENTITY calendar.deletecalendar.label          "Odstrániť označený kalendár…">
+<!ENTITY calendar.deletecalendar.accesskey      "O">
 
 <!ENTITY calendar.menu.customize.label          "Prispôsobiť…">
 <!ENTITY calendar.menu.customize.accesskey      "P">
 
 <!ENTITY showUnifinderCmd.label                 "Hľadať udalosti">
-<!ENTITY showUnifinderCmd.accesskey             "H">
+<!ENTITY showUnifinderCmd.accesskey             "a">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Zobraziť úlohy v kalendári">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "k">
@@ -92,7 +90,7 @@
 <!ENTITY calendar.menu.numberofweeks.6          "Šesť týždňov">
 
 <!ENTITY goTodayCmd.label                       "Dnešný deň">
-<!ENTITY goTodayCmd.accesskey                   "D">
+<!ENTITY goTodayCmd.accesskey                   "e">
 
 <!ENTITY goPreviousCmd.day.label                "Predchádzajúci deň">
 <!ENTITY goPreviousCmd.week.label               "Predchádzajúci týždeň">
@@ -104,13 +102,8 @@
 <!ENTITY goNextCmd.month.label                  "Nasledujúci mesiac">
 <!ENTITY goNextCmd.all.accesskey                "a">
 
-<!ENTITY addressBookCmd.label                   "Adresár">
-<!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY calendar.importcalendar.label          "Import kalendára…">
-
 <!ENTITY showCurrentView.label                  "Aktuálny pohľad">
 <!ENTITY showCurrentView.accesskey              "A">
 
 <!ENTITY calendar.properties.label              "Vlastnosti kalendára…">
-<!ENTITY calendar.properties.accesskey          "l">
+<!ENTITY calendar.properties.accesskey          "a">

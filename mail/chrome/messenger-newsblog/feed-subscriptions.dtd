@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Odoberané kanály RSS">
+<!ENTITY feedSubscriptions.label "Odoberané informačné kanály">
 <!ENTITY subscriptionDesc.label "Poznámka: odstránenie alebo zmena priečinka kanálu nemá vplyv na už prevzaté príspevky.">
 <!ENTITY feedTitle.label "Titulok:">
 <!ENTITY location.label "Adresa:">

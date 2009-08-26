@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "S">
-<!ENTITY newCard.label "Karta Adresára…">
-<!ENTITY newCard.accesskey "K">
+<!ENTITY newContact.label "Kontakt adresára…">
+<!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Priložiť">
 <!ENTITY attachMenu.accesskey "P">
 <!ENTITY attachFileCmd.label "Súbor…">
@@ -28,7 +28,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "U">
 <!ENTITY saveAsCmd.label "Uložiť ako">
-<!ENTITY saveAsCmd.accesskey "o">
+<!ENTITY saveAsCmd.accesskey "k">
 <!ENTITY saveAsFileCmd.label "Súbor…">
 <!ENTITY saveAsFileCmd.accesskey "S">
 <!ENTITY saveAsDraftCmd.label "Návrh">
@@ -68,7 +68,7 @@
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Zalomiť znovu">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "Z">
+<!ENTITY editRewrapCmd.accesskey "m">
 <!ENTITY deleteCmd.label "Odstrániť">
 <!ENTITY deleteCmd.accesskey "O">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Panely s nástrojmi">
 <!ENTITY viewToolbarsMenuNew.accesskey "P">
 <!ENTITY showCompositionToolbarCmd.label "Panel Písanie správy">
+<!ENTITY showCompositionToolbarCmd.accesskey "a">
 <!ENTITY showFormattingBarCmd.label "Panel Formátovanie">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Stavový riadok">
@@ -109,10 +110,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Možnosti">
 <!ENTITY optionsMenu.accesskey "M">
-<!ENTITY checkSpellingCmd.label "Kontrola pravopisu…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "K">
+<!ENTITY checkSpellingCmd2.label "Kontrola pravopisu…">
+<!ENTITY checkSpellingCmd2.key "P">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY enableInlineSpellChecker.label "Automatická kontrola pravopisu">
 <!ENTITY enableInlineSpellChecker.accesskey "A">
 <!ENTITY quoteCmd.label "Citovať správu">
@@ -125,17 +126,17 @@
 <!ENTITY returnReceiptMenu.label "Potvrdenie o prečítaní">
 <!ENTITY returnReceiptMenu.accesskey "d">
 <!ENTITY dsnMenu.label "Doručiť notifikáciu o stave">
-<!ENTITY dsnMenu.accesskey "D">
+<!ENTITY dsnMenu.accesskey "o">
 <!ENTITY outputFormatMenu.label "Formát">
 <!ENTITY outputFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Automaticky">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Len text">
-<!ENTITY plainTextFormatCmd.accesskey "t">
+<!ENTITY plainTextFormatCmd.accesskey "L">
 <!ENTITY htmlFormatCmd.label "Len HTML">
 <!ENTITY htmlFormatCmd.accesskey "H">
 <!ENTITY bothFormatCmd.label "Text a HTML">
-<!ENTITY bothFormatCmd.accesskey "a">
+<!ENTITY bothFormatCmd.accesskey "T">
 <!ENTITY priorityMenu.label "Priorita">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "Priorita:">
@@ -161,7 +162,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adresár">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Nastavenie účtov…">
 <!ENTITY accountManagerCmd.accesskey "N">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
@@ -184,7 +185,6 @@
 <!ENTITY attachButton.label "Priložiť">
 <!ENTITY spellingButton.label "Pravopis">
 <!ENTITY saveButton.label "Uložiť">
-<!ENTITY throbberItem.title "Indikátor činnosti">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Odoslať správu">

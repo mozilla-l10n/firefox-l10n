@@ -42,13 +42,13 @@
 <!ENTITY helperApp.save            "Uložiť">
 <!ENTITY helperApp.nothing         "Nič">
 
-<!ENTITY findOnCmd.label     "Hľadať na tejto stránke…">
-<!ENTITY findOnCmd.accesskey "H">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Hľadať znova">
-<!ENTITY findAgainCmd.accesskey "d">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findOnCmd.label           "Hľadať na tejto stránke…">
+<!ENTITY findOnCmd.accesskey       "H">
+<!ENTITY findOnCmd.commandkey      "f">
+<!ENTITY findAgainCmd.label        "Hľadať znova">
+<!ENTITY findAgainCmd.accesskey    "d">
+<!ENTITY findAgainCmd.commandkey   "g">
+<!ENTITY findAgainCmd.commandkey2  "VK_F3">
 
 <!ENTITY addonsHeader.label        "Doplnky">
 <!ENTITY addonsLocal.label         "Vaše doplnky">
@@ -83,14 +83,18 @@
 <!ENTITY noResults.label           "Žiadne výsledky">
 <!ENTITY allBookmarks.label        "Zobraziť všetky záložky">
 
-<!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o svojej identite.">
-<!ENTITY identity.connectedTo2 "Pripojené k">
+<!ENTITY bookmarkPopup.label       "Stránka pridaná medzi záložky">
+<!ENTITY bookmarkRemove.label      "Odstrániť">
+<!ENTITY bookmarkEdit.label        "Upraviť">
+
+<!ENTITY identity.unverifiedsite2  "Táto webová stránka neposkytuje informácie o svojej identite.">
+<!ENTITY identity.connectedTo2     "Pripojené k">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "Spravuje ju">
+<!ENTITY identity.runBy2           "Spravuje ju">
 
 <!ENTITY consoleHeader.label       "Chybová konzola">
 <!ENTITY consoleAll.label          "Všetko">

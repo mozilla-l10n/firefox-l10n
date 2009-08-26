@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "Tlač kalendára" >
 <!ENTITY sunbird.delete.button.tooltip                     "Odstrániť označenú úlohu" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Aktualizovať všetky vzdialené kalendáre" >
+<!ENTITY sunbird.import.button.tooltip                     "Importovať udalosti z lokálneho súboru" >
+<!ENTITY sunbird.export.button.tooltip                     "Exportovať udalosti do lokálneho súboru" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Odoberať súbor s kalendárom zo vzdialeného servera" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publikovať udalosti na vzdialený server" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Hľadať a zobraziť udalosti" >
+<!ENTITY sunbird.edit.button.tooltip                       "Upraviť zvolenú udalosť" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Vybrať dátum" >
 <!ENTITY sunbird.cut.button.label                          "Vystrihnúť" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "Prilepiť" >
 <!ENTITY sunbird.delete.button.label                       "Odstrániť" >
 <!ENTITY sunbird.remotereload.button.label                 "Aktualizovať" >
+<!ENTITY sunbird.import.button.label                       "Import" >
+<!ENTITY sunbird.export.button.label                       "Export" >
+<!ENTITY sunbird.subscribe.button.label                    "Odber" >
+<!ENTITY sunbird.publish.button.label                      "Publikovanie" >
+<!ENTITY sunbird.unifinder.button.label                    "Hľadať udalosti" >
+<!ENTITY sunbird.edit.button.label                         "Upraviť" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Prejsť na dátum" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Denný pohľad" >

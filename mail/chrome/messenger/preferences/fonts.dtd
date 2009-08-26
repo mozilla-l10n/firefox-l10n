@@ -6,9 +6,9 @@
 <!ENTITY language.label                           "Písma pre:">
 <!ENTITY language.accesskey                       "m">
 
-<!ENTITY sizes.label                              "Veľkosť:">
+<!ENTITY size.label                               "Veľkosť:">
 <!ENTITY proportionalSize.accesskey               "V">
-<!ENTITY monospaceSize.accesskey                  "e">
+<!ENTITY sizeMono.accesskey                       "e">
 
 <!ENTITY proportional.label                       "S premenlivou šírkou:">
 <!ENTITY proportional.accesskey                   "S">
@@ -57,6 +57,10 @@
 <!ENTITY useDefaultFontSerif.label                "Pätkové (serif)">
 <!ENTITY useDefaultFontSansSerif.label            "Bezpätkové (sans-serif)">
 
+<!-- fonts in message -->
+<!ENTITY fontControl.label                        "Nastavenia písma">
+<!ENTITY useFixedWidthForPlainText.label          "Pre správy vo formáte čistý text použiť písmo s pevnou šírkou">
+<!ENTITY fixedWidth.accesskey                     "P">
 <!ENTITY useDocumentFonts.label                   "Povoliť správam používať iné písma">
 <!ENTITY useDocumentFonts.accesskey               "a">
 

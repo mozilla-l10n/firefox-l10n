@@ -45,6 +45,8 @@
 <!ENTITY reloadImageCmd.accesskey     "n">
 <!ENTITY viewImageCmd.label           "Zobraziť obrázok">
 <!ENTITY viewImageCmd.accesskey       "b">
+<!ENTITY viewVideoCmd.label           "Zobraziť video">
+<!ENTITY viewVideoCmd.accesskey       "b">
 <!ENTITY viewBGImageCmd.label         "Zobraziť obrázok pozadia">
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setWallpaperCmd.label        "Nastaviť ako pozadie pracovnej plochy">
@@ -69,7 +71,7 @@
 <!ENTITY saveImageCmd.label           "Uložiť obrázok">
 <!ENTITY saveImageCmd.accesskey       "l">
 <!ENTITY saveVideoCmd.label           "Uložiť video ako…">
-<!ENTITY saveVideoCmd.accesskey       "l">
+<!ENTITY saveVideoCmd.accesskey       "d">
 <!ENTITY saveAudioCmd.label           "Uložiť zvuk ako…">
 <!ENTITY saveAudioCmd.accesskey       "l">
 <!ENTITY copyCmd.label                "Kopírovať">
