@@ -63,7 +63,7 @@
 <!ENTITY addonInstall.label "Installer">
 <!ENTITY addonUninstall.label "Désinstaller">
 <!ENTITY addonCancel.label "Annuler">
-<!ENTITY addonShowPage.label       "Aller à la page">
+<!ENTITY addonShowPage.label "Aller à la page">
 
 <!ENTITY downloadsHeader.label "Téléchargements">
 <!ENTITY downloadsSortDate.label "Date">
@@ -81,7 +81,9 @@
 <!ENTITY downloadRetry.label "Réessayer">
 
 <!ENTITY noResults.label "Pas de résultat">
-<!ENTITY allBookmarks.label        "Tous les marque-pages">
+<!ENTITY allBookmarks.label "Tous les marque-pages">
+
+<!ENTITY searchEngine.addSearch "Ajouter un moteur de recherche :">
 
 <!ENTITY bookmarkPopup.label "Page marquée">
 <!ENTITY bookmarkRemove.label "Supprimer">
