@@ -115,6 +115,10 @@
 <!ENTITY noResults.label                  "Rezultatų nėra">
 <!ENTITY allBookmarks.label               "Visi adresyno įrašai">
 
+<!ENTITY bookmarkPopup.label              "Tinklalapis įrašytas į adresyną">
+<!ENTITY bookmarkRemove.label             "Pašalinti">
+<!ENTITY bookmarkEdit.label               "Taisyti">
+
 <!ENTITY identity.unverifiedsite2         "Ši svetainė nepateikia duomenų apie savo tapatumą.">
 <!ENTITY identity.connectedTo2            "Prisijungta prie">
 <!-- Localization note (identity.runBy2)
