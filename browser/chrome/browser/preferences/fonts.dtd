@@ -9,7 +9,7 @@
 <!ENTITY font.langGroup.devanagari "דוונגרי">
 <!ENTITY font.langGroup.el "יוונית">
 <!ENTITY font.langGroup.ethiopic "אתיופית">
-<!ENTITY font.langGroup.georgian "גרוזינית">
+<!ENTITY font.langGroup.georgian "גאורגית">
 <!ENTITY font.langGroup.gujarati "Gujarati">
 <!ENTITY font.langGroup.gurmukhi "Gurmukhi">
 <!ENTITY font.langGroup.hebrew "עברית">
@@ -32,7 +32,7 @@
 <!ENTITY font.langGroup.unicode "שפות אחרות">
 <!ENTITY font.langGroup.user-def "מוגדר על־ידי המשתמש">
 <!ENTITY fontsDialog.title "גופנים">
-<!ENTITY language.accesskey "ע">
+<!ENTITY language.accesskey "נ">
 <!ENTITY language.label "גופנים עבור:">
 <!ENTITY languages.customize.Charset.grouplabel "קידוד תוים">
 <!ENTITY languages.customize.DefaultCharset.accesskey "מ">

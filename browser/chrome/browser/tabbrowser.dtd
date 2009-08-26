@@ -9,8 +9,9 @@
 <!ENTITY  reloadAllTabs.accesskey         "כ">
 <!ENTITY  reloadTab.label        "טען מחדש לשונית נוכחית">
 <!ENTITY  reloadTab.accesskey         "ט">
+<!ENTITY  openTabInNewWindow.label    "פתח בחלון חדש">
+<!ENTITY  openTabInNewWindow.accesskey "ח">
 <!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
-
 <!ENTITY  bookmarkAllTabs.label       "צור סימניה לכל הלשוניות…">
 <!ENTITY  bookmarkAllTabs.accesskey   "כ">
 <!ENTITY  bookmarkThisTab.label       "צור סימניה ללשונית זו">

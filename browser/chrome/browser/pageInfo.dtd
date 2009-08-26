@@ -89,6 +89,7 @@
 <!ENTITY  permTab               "הרשאות">
 <!ENTITY  permTab.accesskey     "ר">
 <!ENTITY  permUseDefault        "ברירת מחדל">
+<!ENTITY  permAskAlways         "שאל תמיד">
 <!ENTITY  permAllow             "אפשר">
 <!ENTITY  permAllowSession      "אפשר להפעלה זו">
 <!ENTITY  permBlock             "חסום">
@@ -97,6 +98,7 @@
 <!ENTITY  permPopup             "פתיחת חלונות קופצים">
 <!ENTITY  permCookie            "קביעת עוגיות">
 <!ENTITY  permInstall           "התקנת הרחבות או ערכות נושא">
+<!ENTITY  permGeo               "שיתוף מיקום">
 
 <!ENTITY  securityTab           "אבטחה">
 <!ENTITY  securityTab.accesskey "א">

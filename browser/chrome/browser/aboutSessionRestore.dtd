@@ -1,19 +1,20 @@
  <!ENTITY restorepage.tabtitle       "שחזור הפעלה">
-  <!ENTITY restorepage.pagetitle      "האם ברצונך לשחזר את ההפעלה שלך?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-  <!ENTITY restorepage.issueDesc      "ההפעלה הקודמת של &brandShortName; נסגרה באופן בלתי צפוי. אנו מצטערים על חוסר הנוחות. באפשרותך לשחזר את החלונות והלשוניות שלך מההפעלה הקודמת, או להתחיל הפעלה חדשה במידה ואלו אינם נחוצים יותר.">
 
-<!ENTITY restorepage.remedies       "במידה ו־&brandShortName; נסגר שוב ושוב:">
-<!ENTITY restorepage.dueToChrome    "נסה לנטרל הרחבות שהוספת לאחרונה במנהל התוספות.">
-<!ENTITY restorepage.dueToContent   "נסה לשחזר את ההפעלה ללא דפים שאתה חושד שהם הגורם לקריסה:">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "טוב, זה מביך.">
+<!ENTITY restorepage.problemDesc   
+ "ל־&brandShortName; יש בעיות בשחזור החלונות והלשוניות שלך. דבר זה קורה לרוב בעקבות לשונית שפתחת לאחרונה.">
+<!ENTITY restorepage.tryThis        "באפשרותך לנסות:">
+<!ENTITY restorepage.restoreSome    "להסיר אחת או יותר לשוניות שייתכן וגורמות לבעיה">
+<!ENTITY restorepage.startNew       "להתחיל גלישה חדשה לחלוטין">
 
-<!ENTITY restorepage.restoreButton  "שחזר הפעלה קודמת">
+<!ENTITY restorepage.tryagainButton "שחזר">
 <!ENTITY restorepage.restore.access "ש">
 <!ENTITY restorepage.cancelButton   "התחל הפעלה חדשה">
 <!ENTITY restorepage.cancel.access  "ה">
 
 <!ENTITY restorepage.restoreHeader  "שחזור">
 <!ENTITY restorepage.listHeader     "חלונות ולשוניות">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "חלון #&#37;S">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "חלון &#37;S">

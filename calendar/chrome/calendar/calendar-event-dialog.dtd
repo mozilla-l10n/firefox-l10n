@@ -43,7 +43,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "Edit Item" >
+<!ENTITY event.title.label                  "עריכת פריט" >
 
 <!ENTITY newevent.from.label                "מאת" >
 <!ENTITY newevent.to.label                  "עבור" >
@@ -62,12 +62,12 @@
 <!ENTITY newtodo.percentcomplete.label      "&#37; הושלמו">
 
 <!-- Alarm -->
-<!ENTITY alarm.units.minutes                "דקות" >
-<!ENTITY alarm.units.hours                  "שעות" >
-<!ENTITY alarm.units.days                   "ימים" >
+<!--###ENTITY alarm.units.minutes                "דקות" -->
+<!--###ENTITY alarm.units.hours                  "שעות" -->
+<!--###ENTITY alarm.units.days                   "ימים" -->
 
-<!ENTITY newevent.before.label              "לפני" >
-<!ENTITY newevent.after.label               "אחרי" >
+<!--###ENTITY newevent.before.label              "לפני" -->
+<!--###ENTITY newevent.after.label               "אחרי" -->
 
 
 
@@ -81,8 +81,8 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "א">
 <!ENTITY  event.menu.file.new.message.label               "הודעה">
 <!ENTITY  event.menu.file.new.message.accesskey           "ה">
-<!ENTITY  event.menu.file.new.address.label               "כרטיס פנקס כתובות">
-<!ENTITY  event.menu.file.new.address.accesskey           "כ">
+<!--###ENTITY  event.menu.file.new.address.label               "כרטיס פנקס כתובות"-->
+<!--###ENTITY  event.menu.file.new.address.accesskey           "כ"-->
 <!ENTITY  event.menu.file.close.label                     "סגירה">
 <!ENTITY  event.menu.file.close.accesskey                 "ס">
 <!ENTITY  event.menu.file.save.label                      "שמירה">
@@ -269,13 +269,22 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "בכל" >
 <!ENTITY repeat.units.months.both                       "חודשים" >
-<!ENTITY event.recurrence.the.label                     "ה" >
-<!ENTITY event.recurrence.repeat.first.label            "ראשון">
-<!ENTITY event.recurrence.repeat.second.label           "שני">
-<!ENTITY event.recurrence.repeat.third.label            "שלישי">
-<!ENTITY event.recurrence.repeat.fourth.label           "רביעי">
-<!ENTITY event.recurrence.repeat.fifth.label            "חמישי">
+<!--###ENTITY event.recurrence.the.label                     "ה" -->
+<!--###ENTITY event.recurrence.repeat.first.label            "ראשון"-->
+<!--###ENTITY event.recurrence.repeat.second.label           "שני"-->
+<!--###ENTITY event.recurrence.repeat.third.label            "שלישי"-->
+<!--###ENTITY event.recurrence.repeat.fourth.label           "רביעי"-->
+<!--###ENTITY event.recurrence.repeat.fifth.label            "חמישי"-->
 <!ENTITY event.recurrence.repeat.last.label             "אחרון">
+
+<!ENTITY event.recurrence.monthly.every.label           "בכל" >
+<!ENTITY event.recurrence.monthly.first.label           "הראשון">
+<!ENTITY event.recurrence.monthly.second.label          "השני">
+<!ENTITY event.recurrence.monthly.third.label           "השלישי">
+<!ENTITY event.recurrence.monthly.fourth.label          "הרביעי">
+<!ENTITY event.recurrence.monthly.fifth.label           "החמישי">
+<!ENTITY event.recurrence.monthly.last.label            "האחרון">
+
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "יום ראשון" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "יום שני" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "יום שלישי" >
@@ -289,7 +298,7 @@
 <!ENTITY event.recurrence.every.label                        "בכל:" >
 <!ENTITY repeat.units.years.both                             "שנים" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "בכל" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "בכל" >
+<!--###ENTITY event.recurrence.pattern.yearly.every.weekday.label "בכל" -->
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -312,12 +321,12 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "באוקטובר" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "בנובמבר" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "בדצמבר" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "ראשון">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "שני">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "שלישי">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "רביעי">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "חמישי">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "אחרון">
+<!--###ENTITY event.recurrence.pattern.yearly.first.label         "ראשון"-->
+<!--###ENTITY event.recurrence.pattern.yearly.second.label        "שני"-->
+<!--###ENTITY event.recurrence.pattern.yearly.third.label         "שלישי"-->
+<!--###ENTITY event.recurrence.pattern.yearly.fourth.label        "רביעי"-->
+<!--###ENTITY event.recurrence.pattern.yearly.fifth.label         "חמישי"-->
+<!--###ENTITY event.recurrence.pattern.yearly.last.label          "אחרון"-->
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "יום ראשון" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "יום שני" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "יום שלישי" >
@@ -325,6 +334,15 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "יום חמישי" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "יום שישי" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "יום שבת" >
+
+<!ENTITY event.recurrence.yearly.every.label                 "בכל">
+<!ENTITY event.recurrence.yearly.first.label                 "הראשון">
+<!ENTITY event.recurrence.yearly.second.label                "השני">
+<!ENTITY event.recurrence.yearly.third.label                 "השלישי">
+<!ENTITY event.recurrence.yearly.fourth.label                "הרביעי">
+<!ENTITY event.recurrence.yearly.fifth.label                 "החמישי">
+<!ENTITY event.recurrence.yearly.last.label                  "האחרון">
+
 <!ENTITY event.recurrence.of.label                           "" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "בינואר" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "בפברואר" >
@@ -351,20 +369,20 @@
 <!ENTITY alarm.units.hours                  "שעות" >
 <!ENTITY alarm.units.days                   "ימים" >
 
-<!ENTITY reminder.title.label                           "תזכורת מותאמת אישית">
-<!ENTITY reminder.dialogtitle.label                     "צור תזכורות">
-<!ENTITY reminder.reminderDetails.label                 "פרטי תזכורת">
-<!ENTITY reminder.action.label                          "בחר פעולת תזכורת">
-<!ENTITY reminder.action.alert.label                    "הצג התרעה">
-<!ENTITY reminder.action.email.label                    "שלח דואר אלקטרוני">
-<!ENTITY reminder.new.label                             "חדש">
-<!ENTITY reminder.delete.label                          "מחק">
-<!ENTITY reminder.relation.start.label                  "האירוע מתחיל">
-<!ENTITY reminder.relation.end.label                    "האירוע מסתיים">
-<!ENTITY reminder.add.label                             "הוסף">
-<!ENTITY reminder.add.accesskey                         "ה">
-<!ENTITY reminder.remove.label                          "הסר">
-<!ENTITY reminder.remove.accesskey                      "ס">
+<!--###ENTITY reminder.title.label                           "תזכורת מותאמת אישית"-->
+<!--###ENTITY reminder.dialogtitle.label                     "צור תזכורות"-->
+<!--###ENTITY reminder.reminderDetails.label                 "פרטי תזכורת"-->
+<!--###ENTITY reminder.action.label                          "בחר פעולת תזכורת"-->
+<!--###ENTITY reminder.action.alert.label                    "הצג התרעה"-->
+<!--###ENTITY reminder.action.email.label                    "שלח דואר אלקטרוני"-->
+<!--###ENTITY reminder.new.label                             "חדש"-->
+<!--###ENTITY reminder.delete.label                          "מחק"-->
+<!--###ENTITY reminder.relation.start.label                  "האירוע מתחיל"-->
+<!--###ENTITY reminder.relation.end.label                    "האירוע מסתיים"-->
+<!--###ENTITY reminder.add.label                             "הוסף"-->
+<!--###ENTITY reminder.add.accesskey                         "ה"-->
+<!--###ENTITY reminder.remove.label                          "הסר"-->
+<!--###ENTITY reminder.remove.accesskey                      "ס"-->
 
 
 <!-- Attendees dialog -->

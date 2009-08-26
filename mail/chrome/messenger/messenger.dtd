@@ -645,9 +645,6 @@
 <!ENTITY removePhishingBarButton1.label "התעלם מהאזהרה">
 <!ENTITY reportPhishingError1.label "הודעה זו איננה הונאה.">
 
-<!ENTITY loadRemoteContentButton2.label "טען תמונות כעת">
-
-
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "עוד">
 
