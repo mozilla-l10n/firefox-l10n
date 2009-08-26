@@ -87,8 +87,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "visiškai išvalyti žurnalą">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label         "Paleidžiant „&brandShortName;“, automatiškai pradėti privačiojo naršymo seansą">
-<!ENTITY  privateBrowsingAutoStart.accesskey     "A">
+<!ENTITY  privateBrowsingPermanent.label         "Visuomet naršyti privačiojo naršymo veiksenoje">
+<!ENTITY  privateBrowsingPermanent.accesskey     "p">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
