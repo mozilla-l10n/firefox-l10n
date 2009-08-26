@@ -48,6 +48,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Pažymėti viską">
 <!ENTITY  selectall.accesskey   "a">
+<!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "W">
 
 <!ENTITY  generalTab            "Bendroji">

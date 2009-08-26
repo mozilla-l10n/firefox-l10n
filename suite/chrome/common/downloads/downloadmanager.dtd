@@ -57,7 +57,7 @@
 <!ENTITY col.progress.label              "Eiga">
 <!ENTITY col.progress.accesskey          "E">
 <!ENTITY col.progress.tooltip            "Eiga">
-<!ENTITY col.timeremaining.label         "Likęs laikas">
+<!ENTITY col.timeremaining.label         "Liko">
 <!ENTITY col.timeremaining.accesskey     "L">
 <!ENTITY col.timeremaining.tooltip       "Likęs laikas">
 <!ENTITY col.transferred.label           "Atsiųsta">
@@ -66,9 +66,15 @@
 <!ENTITY col.transferrate.label          "Sparta">
 <!ENTITY col.transferrate.accesskey      "t">
 <!ENTITY col.transferrate.tooltip        "Sparta">
-<!ENTITY col.timeelapsed.label           "Praėjęs laikas">
+<!ENTITY col.timeelapsed.label           "Trukmė">
 <!ENTITY col.timeelapsed.accesskey       "ė">
-<!ENTITY col.timeelapsed.tooltip         "Praėjęs laikas">
+<!ENTITY col.timeelapsed.tooltip         "Sugaištas laikas">
+<!ENTITY col.starttime.label             "Pradžia">
+<!ENTITY col.starttime.accesskey         "P">
+<!ENTITY col.starttime.tooltip           "Pradžios laikas">
+<!ENTITY col.endtime.label               "Pabaiga">
+<!ENTITY col.endtime.accesskey           "i">
+<!ENTITY col.endtime.tooltip             "Pabaigos laikas">
 <!ENTITY col.progresstext.label          "&#37;">
 <!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Eiga (&#37;)">
@@ -89,7 +95,7 @@
 <!ENTITY view.sortDescending.accesskey   "r">
 
 <!ENTITY cmd.pause.label                 "Pristabdyti">
-<!ENTITY cmd.pause.accesskey             "s">
+<!ENTITY cmd.pause.accesskey             "t">
 <!ENTITY cmd.resume.label                "Tęsti">
 <!ENTITY cmd.resume.accesskey            "T">
 <!ENTITY cmd.retry.label                 "Iš naujo">
@@ -106,3 +112,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "E">
 <!ENTITY cmd.copyDownloadLink.label      "Kopijuoti šaltinio adresą">
 <!ENTITY cmd.copyDownloadLink.accesskey  "K">
+<!ENTITY cmd.properties.label            "Savybės…">
+<!ENTITY cmd.properties.accesskey        "S">
