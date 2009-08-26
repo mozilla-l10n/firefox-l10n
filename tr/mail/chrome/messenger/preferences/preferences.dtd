@@ -2,7 +2,7 @@
 <!ENTITY prefWindow.titleGNOME "&brandShortName; tercihleri">
 <!ENTITY prefWindow.styleWindows "width: 47em; min-height: 39em;">
 <!ENTITY prefWindow.styleMac "width: 47em;">
-<!ENTITY prefWindow.styleGNOME "width: 47em; min-height: 39em;">
+<!ENTITY prefWindow.styleGNOME "width: 47em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title "Genel">
 <!ENTITY paneDisplay.title "Görünüm">

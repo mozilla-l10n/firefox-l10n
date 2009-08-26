@@ -22,6 +22,9 @@
 <!ENTITY recentTabs.label "Az önce kapatılan sekmeler">
 <!ENTITY recentTabs.accesskey "A">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Az önce kapatılan pencereler">
+<!ENTITY recentWindows.accesskey "p">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Sayfayı düzenle">
 <!ENTITY editPageCmd.accesskey "S">
 <!ENTITY editPageCmd.commandkey "E">

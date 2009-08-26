@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "Posta denetimi esnasında">
 <!ENTITY contextManual.label "Elle çalıştır">
 <!ENTITY contextBoth.label "Posta denetimi esnasında veya elle">
+<!ENTITY contextPostPlugin.label "Posta denetimi (sınıflandırma sonrası)">
+<!ENTITY contextPostPluginBoth.label "Posta denetimi (sınıflandırma sonrası) veya elle çalıştırma">
 <!ENTITY filterActionDesc.label "Bu işlemi uygula:">
 <!ENTITY filterActionDesc.accesskey "u">
 <!-- New Style Filter Rule Actions -->

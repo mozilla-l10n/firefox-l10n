@@ -6,9 +6,9 @@
 <!ENTITY language.label "Yazıtipleri:">
 <!ENTITY language.accesskey "t">
 
-<!ENTITY sizes.label "Boyut (piksel)">
+<!ENTITY size.label "Boyut:">
 <!ENTITY proportionalSize.accesskey "e">
-<!ENTITY monospaceSize.accesskey "p">
+<!ENTITY sizeMono.accesskey "i">
 
 <!ENTITY proportional.label "Yazıtipi oranı:">
 <!ENTITY proportional.accesskey "o">
@@ -56,7 +56,11 @@
 
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!-- fonts in message -->
 
+<!ENTITY fontControl.label "Yazıtipi denetimi">
+<!ENTITY useFixedWidthForPlainText.label "Düz metin iletilerde sabit genişlikli yazıtipi kullan">
+<!ENTITY fixedWidth.accesskey "l">
 <!ENTITY useDocumentFonts.label "Mesajların diğer yazıtiplerini kullanmasına izin ver">
 <!ENTITY useDocumentFonts.accesskey "a">
 <!-- Language settings -->

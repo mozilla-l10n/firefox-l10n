@@ -46,6 +46,7 @@
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Tümünü seç">
 <!ENTITY selectall.accesskey "s">
+<!ENTITY openHelpMac.key "?">
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "Genel">
