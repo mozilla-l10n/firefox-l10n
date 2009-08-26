@@ -39,6 +39,8 @@
 <!ENTITY helpMenuWin.accesskey   "Ž">
 <!ENTITY releaseCmd.label        "Laidos apžvalga">
 <!ENTITY releaseCmd.accesskey    "L">
+<!ENTITY whatsNewCmd.label       "Laidos naujovės">
+<!ENTITY whatsNewCmd.accesskey   "n">
 <!ENTITY openHelp.label          "Žinyno turinys">
 <!ENTITY openHelp.accesskey      "Ž">
 <!ENTITY openHelp.commandkey     "VK_F1">
