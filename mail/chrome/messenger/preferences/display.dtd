@@ -15,12 +15,7 @@
 <!ENTITY color.label "Renk:">
 <!ENTITY color.accesskey "R">
 <!ENTITY displayWidth.label "Düz metin iletiler">
-<!ENTITY plainText.label "Kullanılacak yazıtipi:">
 <!ENTITY displayText.label "Tırnakla belirtilmiş düz metini görüntülerken aşağıdaki ayarları kullan:">
-<!ENTITY fixedWidth.label "Öntanımlı yazıtipi boyutu">
-<!ENTITY fixedWidth.accesskey "t">
-<!ENTITY variableWidth.label "Yazıtipi genişliği">
-<!ENTITY variableWidth.accesskey "a">
 <!ENTITY colors.label "Renkler:">
 <!ENTITY overrideColors.label "İletileri gösterirken bu renkleri kullan:">
 <!ENTITY textColor.label "Metin rengi:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "l">
 <!-- Fonts -->
 
-<!ENTITY fontAndEncodingsDescription.label "&brandShortName; tarafından kullanılan renk ve karakter kodlamalarını ayarlayın">
-<!ENTITY fontsAndEncodingsCaption.label "Yazıtipleri ve karakter kodlamaları">
-<!ENTITY fontOptions.accesskey "Y">
-<!ENTITY fontOptions.label "Yazıtipleri…">
+<!ENTITY fontsAndColors.label "Yazıtipleri">
+<!ENTITY defaultFont.label "Öntanımlı yazıtipi:">
+<!ENTITY defaultFont.accesskey "z">
+<!ENTITY defaultSize.label "Boyut:">
+<!ENTITY defaultSize.accesskey "o">
+<!ENTITY fontOptions.accesskey "e">
+<!ENTITY fontOptions.label "Gelişmiş…">

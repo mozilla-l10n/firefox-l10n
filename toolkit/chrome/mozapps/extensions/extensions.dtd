@@ -53,8 +53,8 @@
 <!ENTITY cmd.options.label "Seçenekler">
 <!ENTITY cmd.options.accesskey "S">
 <!ENTITY cmd.options.tooltip "Seçili eklenti için seçenekleri gösterir ve ayarlar">
-<!ENTITY cmd.optionsUnix.label "Tercihler">
-<!ENTITY cmd.optionsUnix.accesskey "r">
+<!ENTITY cmd.optionsUnix.label "Preferences">
+<!ENTITY cmd.optionsUnix.accesskey "P">
 <!ENTITY cmd.optionsUnix.tooltip "Seçili eklentilerin tercihlerini düzenlemenizi sağlar">
 <!ENTITY cmd.enable.label "Etkinleştir">
 <!ENTITY cmd.enable.accesskey "E">

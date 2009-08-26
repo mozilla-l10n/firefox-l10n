@@ -45,6 +45,8 @@
 <!ENTITY reloadImageCmd.accesskey "e">
 <!ENTITY viewImageCmd.label "Resme bak">
 <!ENTITY viewImageCmd.accesskey "R">
+<!ENTITY viewVideoCmd.label "Videoyu izle">
+<!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Arkaplan resmini göster">
 <!ENTITY viewBGImageCmd.accesskey "r">
 <!ENTITY setWallpaperCmd.label "Set As Wallpaper">
