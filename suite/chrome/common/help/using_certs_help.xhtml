@@ -164,10 +164,11 @@ an Ihrem Computer angebrachten Sicherheitseinrichtung gespeichert werden.</p>
 <div class="contentsBox">In diesem Abschnitt:
 <ul>
   <li><a href="#managing_certificates_that_identify_you">Verwaltung von Zertifikaten, die Sie identifizieren</a></li>
-  <li><a href="#managing_certificates_that_identify_others">Verwaltung von Zertifikaten, die andere identifizieren</a></li>
-  <li><a href="#managing_certificates_that_identify_websites">Verwaltung von Zertifikaten, die Webseiten identifizieren</a></li>
-  <li><a href="#managing_certificates_that_identify_certificate_authorities">
-      Verwaltung von Zertifikaten, die Zertifizierungsstellen identifizieren</a></li>
+  <li><a href="#managing_certificates_that_identify_people">Verwaltung von Zertifikaten, die Personen identifizieren</a></li>
+  <li><a href="#managing_certificates_that_identify_servers">Verwaltung von Zertifikaten, die Server identifizieren</a></li>
+  <li><a href="#managing_certificates_that_identify_certificate_authorities">Verwaltung von Zertifikaten, 
+    die Zertifizierungsstellen identifizieren</a></li>
+  <li><a href="#managing_certificates_that_identify_others">Verwaltung von Zertifikaten, welche sonstiges identifizieren</a><li>
 </ul>
 </div>
 
@@ -176,47 +177,27 @@ die Sie identifizieren</h2>
 
 <p>Wenn Sie den Zertifikat-Manager &#246;ffnen, werden Sie bemerken, das sich
 am oberen Rand des Fensters mehrere Tabs befinden. Der erste wird Ihre
-Zertifikate genannt, und er zeigt die Zertifikate an, die Ihr Browser zu Ihrer
-Zertifizierung zur Verf&#252;gung hat. Ihre Zertifikate sind unter den Namen der
+Zertifikate genannt, und er zeigt die Zertifikate an, die Ihr Browser oder Ihr Mailclient
+zu Ihrer Zertifizierung zur Verf&#252;gung hat. Ihre Zertifikate sind unter den Namen der
 Orgainisationen aufgef&#252;hrt, von denen sie ausgegeben wurden.</p>
 
 <p>Um eine Aktion mit einem oder mehrere Zertifikaten durchzuf&#252;hren,
 klicken Sie auf den Eintrag f&#252;r das Zertifikat (oder
 <kbd class="mac">Cmd</kbd><kbd class="noMac">Strg</kbd>-Klick um
-mehr als ein Zertifikat auszuw&#228;hlen), dann w&#228;hlen Sie den Ansicht-,
-Backup- oder L&#246;schen-Button. Jeder dieser Buttons &#246;ffnet ein weiteres
-Fenster, das Ihnen die Durchf&#252;hrung der Aktion gestattet. Klicken Sie auf
-den Hilfe-Button in jedem Fenster, um weitere Informationen &#252;ber die
-Benutzung des jeweiligen Fensters zu erhalten.</p>
+mehr als ein Zertifikat auszuw&#228;hlen), dann klicken Sie auf eine der Schaltfl&#228;chen 
+im unteren Bereich des Zertifikat-Manager Fensters. Jede der Schaltfl&#228;chen
+&#246;ffnet ein weiteres Fenster, das Ihnen die Durchf&#252;hrung der jeweiligen 
+Aktion gestattet. Klicken Sie auf den Hilfe-Button in jedem Fenster, 
+um weitere Informationen &#252;ber die Benutzung des jeweiligen Fensters 
+zu erhalten.</p>
 
-<p>Die folgenden Buttons unter Ihre Zertifikate erforden es nicht, das ein
-Zertifiktat selektiert ist:</p>
-
-<ul>
-  <li><strong>Importieren.</strong> W&#228;hlen Sie diesen Button, wenn Sie ein
-      Zertifikat importieren m&#246;chten, das Sie vorher gesichert oder von
-	  einer Maschine zu einer anderen &#252;bertragen haben.</li>
-  <li><strong>Backup von allen.</strong> W&#228;hlen Sie diesen Button, wenn
-      Sie alle Ihre eigenen Zertifikate sichern wollen, die in Ihrer
-	  <a href="glossary.xhtml#software_security_device">Software-Sicherheitseinrichtung</a>
-	  gespeichert sind.</li>
-</ul>
-
-<p><strong>Zertifkate auf Smart-Cards k&#246;nnen nicht gesichert werden.</strong>
-Einerlei, ob Sie einige Ihrer Zertifikate selektieren und Backup w&#228;hlen
-oder ob Sie Backup von allen w&#228;hlen, die entstehende Sicherungsdatei wird
-keine Zertifikate enthalten, die auf Smart-Cards oder externen
-Sicherheitseinrichtungen gespeichert sind. Sie k&#246;nnen nur Zertifikate
-sichern, die in der eingebauten Software-Sicherheitseinrichtung gespeichert
-sind.</p>
-
-<p>Zu weiteren Einzelheiten zu jeder dieser Aufgaben, siehe
-<a href="certs_help.xhtml#your_certificates">Ihre Zertifikate</a>.</p>
+<p>Weiteren Einzelheiten wie Sie Ihre Zertifikate anzeigen und verwalten k&#246;nnen finden Sie
+im Abschnitt <a href="certs_help.xhtml#your_certificates">Ihre Zertifikate</a>.</p>
 
 <p>[<a href="#managing_certificates">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
-<h2 id="managing_certificates_that_identify_others">Verwaltung von Zertifikaten,
-die andere identifizieren</h2>
+<h2 id="managing_certificates_that_identify_people">Verwaltung von Zertifikaten,
+die Personen identifizieren</h2>
 
 <p>Wenn Sie eine Email erstellen, k&#246;nnen Sie Ihre digitale Signatur
 anh&#228;ngen. Eine
@@ -235,33 +216,33 @@ Nachricht sendet. Der Zertifikat-Manager speichert die Zertifikate anderer
 Leute, wenn sie auf diesem Weg empfangen werden.</p>
 
 <p>Um alle Zertifikate zu sehen, die andere Personen identifizieren und die dem
-Zertifikat-Manager zur Verf&#252;gung stehen, klicken Sie auf Zertifikate
-anderer Personen im oberen Teil des Zertifikat-Manager-Fensters. Sie k&#246;nnen
-jeder Person verschl&#252;sselte Nachrichten senden, f&#252;r die ein
+Zertifikat-Manager zur Verf&#252;gung stehen, klicken Sie auf Personen im 
+oberen Teil des Zertifikat-Manager-Fensters. Sie k&#246;nnen jeder Person 
+verschl&#252;sselte Nachrichten senden, f&#252;r die ein
 g&#252;ltiges Zertifikat aufgef&#252;hrt ist. Zertifikate sind unter den Namen
 der Organisationen aufgef&#252;hrt, die diese Zertifikate ausgegeben haben.</p>
 
 <p>Um Aktionen auf einem oder mehreren Zertifikaten auszuf&#252;hren,
 w&#228;hlen Sie den Eintrag f&#252;r das Zertifikat (oder <kbd class="mac">Cmd</kbd>
-<kbd class="noMac">Strg</kbd>-Klick um mehr als eins auzuw&#228;hlen),
-dann klicken Sie auf den Ansicht- oder
-L&#246;schen-Button. Jeder dieser Buttons &#246;ffnet ein weiteres Fenster, das
-Ihnen die Durchf&#252;hrung der Aktion erlaubt. Klicken Sie den Hilfe-Button in
-jedem dieser Fenster, um weitere Informationen &#252;ber dieses Fenster zu
-erhalten.</p>
+<kbd class="noMac">Strg</kbd>-Klick um mehr als ein Zertifikat auszuw&#228;hlen), 
+dann klicken Sie auf eine der Schaltfl&#228;chen im unteren Bereich des Zertifikat-Manager
+Fensters. Jede der Schaltfl&#228;chen &#246;ffnet ein weiteres Fenster, das Ihnen die 
+Durchf&#252;hrung der jeweiligen Aktion gestattet. Klicken Sie auf den Hilfe-Button 
+in jedem Fenster, um weitere Informationen &#252;ber die Benutzung des jeweiligen Fensters 
+zu erhalten.</p></p>
 
-<p>F&#252;r weitere Einzelheiten siehe
-<a href="certs_help.xhtml#other_peoples_certificates">Zertifikate anderer Personen</a>.</p>
+<p>Weiteren Einzelheiten wie Sie Ihre Zertifikate anzeigen und verwalten k&#246;nnen finden Sie
+in der Beschreibung des <a href="certs_help.xhtml#people">Personen</a>-Tabs des Zertifikat-Managers.</p>
 
 <p>[<a href="#managing_certificates">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
-<h2 id="managing_certificates_that_identify_websites">Verwaltung von
-Zertifikaten, die Webseiten identifizieren</h2>
+<h2 id="managing_certificates_that_identify_servers">Verwaltung von
+Zertifikaten, die Server identifizieren</h2>
 
-<p>Einige Webseiten benutzten Zertifikate, um sich selbst zu identifizieren.
-Solche Identifikation ist erforderlich, bevor die Webseite die zwischen der
-Seite und Ihrem Computer (oder umgekehrt) &#252;bertragene Informationen
-verschl&#252;sseln kann, so dass niemand die Daten w&#228;hrend der
+<p>Einige Webseiten oder Mail-Server benutzten Zertifikate, um sich selbst zu 
+identifizieren. Solche Identifikation ist erforderlich, bevor die zwischen dem
+Server und Ihrem Computer (oder umgekehrt) &#252;bertragene Informationen
+verschl&#252;sselt werden k&#246;nnen, so dass niemand die Daten w&#228;hrend der
 &#220;bertragung lesen kann.</p>
 
 <p>Wenn die URL einer Webseite mit <tt>https://</tt> beginnt, verf&#252;gt die
@@ -273,22 +254,21 @@ Webseiten-Zertifikat akzeptieren, f&#252;gt der Zertifikat-Manager es zu seiner
 Liste von Webseiten-Zertifikaten hinzu.</p>
 
 <p>Um alle Webseiten-Zertifikate zu sehen, die in Ihrem Browser verf&#252;gbar
-sind, klicken Sie auf das Tab Websites am oberen Rand des
+sind, klicken Sie auf das Tab Server am oberen Rand des
 Zertifikat-Manager-Fensters.</p>
 
-<p>Um eine Aktion mit einem oder mehreren Webseite-Zertifikaten
+<p>Um eine Aktion mit einem oder mehreren Zertifikaten
 durchzuf&#252;hren, klicken Sie auf den Eintrag f&#252;r das Zertifikat (oder
 <kbd class="mac">Cmd</kbd><kbd class="noMac">Strg</kbd>-Klick
-um mehr als eins auszuw&#228;hlen), dann w&#228;hlen Sie den
-Ansicht-, Bearbeiten- oder L&#246;schen-Button. Jeder dieser Buttons &#246;ffnet
-ein weiteres Fenster, das Ihnen die Durchf&#252;hrung der entsprechenden Aktion
-erm&#246;glicht.</p>
+um mehr als eins auszuw&#228;hlen), dann klicken Sie auf eine der 
+Schaltfl&#228;chen im unteren Bereich des Zertifikat-Manager Fensters. Jede der 
+Schaltfl&#228;chen &#246;ffnet ein weiteres Fenster, das Ihnen die 
+Durchf&#252;hrung der jeweiligen Aktion gestattet. Klicken Sie auf den Hilfe-Button 
+in jedem Fenster, um weitere Informationen &#252;ber die Benutzung des jeweiligen Fensters 
+zu erhalten.</p></p>
 
-<p>Der Bearbeiten-Button erlaubt Ihnen die Angabe, ob Ihr Browser den
-selektierten Webseite-Zertifikaten in Zukunft vertraut.</p>
-
-<p>F&#252;r weitere Einzelheiten siehe
-<a href="certs_help.xhtml#Web_Site_Certificates">Webseiten-Zertifikate</a>.</p>
+<p>Weiteren Einzelheiten wie Sie Ihre Zertifikate anzeigen und verwalten k&#246;nnen finden Sie
+in der Beschreibung des <a href="certs_help.xhtml#server">Server</a>-Tabs des Zertifikat-Managers.</p>
 
 <p>[<a href="#managing_certificates">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
@@ -317,19 +297,26 @@ Sie auf das Tab Authorities am oberen Rand des Zertifikat-Manager-Fensters.</p>
 <p>Um eine Aktion mit einem oder mehreren Ca-Zertifikaten durchzuf&#252;hren,
 w&#228;hlen Sie den Eintrag f&#252;r das Zertifikat (oder
 <kbd class="mac">Cmd</kbd><kbd class="noMac">Strg</kbd>-Klick um mehr
-als eins zu w&#228;hlen), dann w&#228;hlen Sie den Ansicht-, Bearbeiten- oder
-L&#246;schen-Button. Jeder dieser Buttons &#246;ffnet ein weiteres Fenster, das
-Ihnen die Durchf&#252;hrung der Aktion erm&#246;glicht. Klicken Sie auf den
-Hilfe-Button in jedem Fenster, um weitere Informationen &#252;ber die Benutzung
-des Fensters zu erhalten.</p>
+als eins zu w&#228;hlen), dann klicken Sie auf eine der 
+Schaltfl&#228;chen im unteren Bereich des Zertifikat-Manager Fensters. Jede der 
+Schaltfl&#228;chen &#246;ffnet ein weiteres Fenster, das Ihnen die 
+Durchf&#252;hrung der jeweiligen Aktion gestattet. Klicken Sie auf den Hilfe-Button 
+in jedem Fenster, um weitere Informationen &#252;ber die Benutzung des jeweiligen Fensters 
+zu erhalten.</p></p>
 
-<p>Der Bearbeiten-Button erlaubt es Ihnen, die Vertrauens-Einstellungen
-f&#252;r jedes Zertifikat anzusehen und zu &#228;ndern. &#220;ber die
-Vertrauens-Einstellungen f&#252;r ein CA-Zertifikat k&#246;nnen Sie angeben,
-welchen von dieser CA ausgestellten Zertifikat-Arten Sie vertrauen wollen.</p>
+<p>Weiteren Einzelheiten wie Sie Ihre Zertifikate anzeigen und verwalten k&#246;nnen finden Sie
+in der Beschreibung des <a href="certs_help.xhtml#authorities">Autorit&#228;ten</a>-Tabs des Zertifikat-Managers.</p>
 
-<p>F&#252;r weitere Einzelheiten siehe
-<a href="certs_help.xhtml#authorities">Authorities (Zertifizierungsstellen)</a>.</p>
+<p>[<a href="#managing_certificates">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="managing_certificates_that_identify_others">Verwaltung
+von Zertifikaten, die sonstiges identifizieren</h2>
+
+<p>Um alle Zertifikate anzusehen, welche in keine der anderen Kategorien passen,
+  klicken Sie auf das Tab Sonstige im oberen Teil des Zertifikat-Manager Fensters.</p>
+
+<p>Weiteren Einzelheiten wie Sie Ihre Zertifikate anzeigen und verwalten k&#246;nnen finden Sie
+in der Beschreibung des <a href="certs_help.xhtml#others">Sonstige</a>-Tabs des Zertifikat-Managers.</p>
 
 <p>[<a href="#managing_certificates">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 

@@ -9,7 +9,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <title>&brandShortName; Mail &amp; Newsgroups verwenden</title>
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css"/>
+  <link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
+  <link rel="stylesheet" href="chrome://communicator/skin/smileys.css"
+     type="text/css"/>
 </head>
 
 <body>
@@ -59,6 +61,7 @@ dem  Mail &amp; Newsgroups Fenster verwalten.</p>
     <li><a href="#controlling_junk_mail">Junk-Mail-Filter verwenden</a></li>
     <li><a href="#importing_mail_from_other_programs">E-Mails aus anderen Programmen importieren</a></li>
     <li><a href="#getting_started_with_newsgroups">Erste Schritte mit Newsgroups</a></li>
+    <li><a href="#getting_started_with_blogs_and_news_feeds">Erste Schritte mit Blogs &amp; Newsfeeds</a></li>
     <li><a href="#working_offline">Offline arbeiten</a></li>
     <li><a href="mail_sec_help.xhtml">Nachrichten signieren &amp; verschl&#252;sseln</a></li>
     <li><a href="#mail_and_newsgroups_account_settings">Mail &amp; Newsgroups-Account Einstellungen</a></li>
@@ -80,8 +83,10 @@ dem  Mail &amp; Newsgroups Fenster verwalten.</p>
 <h2 id="using_the_mail_account_setup_wizard">Setup-Assistenten zum Einrichten
 neuer E-Mail Accounts verwenden</h2>
 
-<p>Um ein Mail- oder Newsgroup-Account anzulegen, &#246;ffnen Sie Das Mail &amp; Newsgroup-Fenster im Fenster-Men&#252; und w&#228;hlen <q>Mail &amp; Newsgroups</q> Wenn Sie zum allerersten Mal Mail &amp; Newsgroups starten und noch kein E-Mail-Account besteht,
-  startet Mail &amp; Newsgroups einen Assistenten, damit Sie ein E-Mail-Account anlegen k&#246;nnen.</p>
+<p>Um einen Mail, Newsgroup- oder Blogs &amp; Newsfeed-Account anzulegen, &#246;ffnen Sie das 
+  Mail &amp; Newsgroup-Fenster im Fenster-Men&#252; und w&#228;hlen <q>Mail &amp; Newsgroups</q>.
+  Wenn Sie Mail &amp; Newsgroups starten und noch keinen E-Mail-Account besteht,
+  startet Mail &amp; Newsgroups einen Assistenten, mit welchem Sie einen Account anlegen k&#246;nnen.</p>
 
 <p>Der Assistent f&#252;hrt Sie schrittweise durch den Erstell-Prozess des neuen Accounts.
 Wenn Sie sich &#252;ber eine Einstellung nicht klar sind, Klicken Sie auf Abbrechen und fragen Sie Ihren Internet Service Provider (ISP)
@@ -89,10 +94,10 @@ der Support.</p>
 
 <p>Wenn bereits ein Account exisistiert, erscheint der Assistent nicht automatisch wenn Sie das Mail &amp; Newsgroup Fenster &#246;ffnen. 
 Um einen neuen Account anzulegen, &#246;ffnen Sie das Men&#252; Datei, <q>Neu</q> dann <q>Account</q>. F&#252;r mehr Details, Siehe 
-<a href="#setting_up_additional_mail_and_news_accounts">Weitere Mail- und News-Accounts einrichten</a>.</p>
+<a href="#setting_up_additional_mail_and_news_accounts">Weitere Mail, News &amp; Blogs &amp; News-Feed Accounts einrichten</a>.</p>
 
 <h3 id="setting_up_mail_accounts_with_an_isp_or_email_provider">
-Mail Accounts eines ISP oder E-Mail Providers einrichten</h3>
+Mail-Accounts eines ISP oder E-Mail Providers einrichten</h3>
 
 <p>Bevor Sie einen Mail-Account einrichten, ben&#246;tigen Sie folgende Informationen von Ihrem ISP oder E-Mail Provider:</p>
 
@@ -117,7 +122,7 @@ href="glossary.xhtml#imap">IMAP</a> oder <a href="glossary.xhtml#pop">POP</a>)</
 <li>einen Accountnamen</li>
 </ul>
 
-<p>Um ein neues E-Mail oder Newsgroup Account einzurichten, beginnen Sie im Mail-Fenster:</p>
+<p>Um einen neuen Mail, News oder Blogs &amp; News-Feed-Account einzurichten, beginnen Sie im Mail-Fenster:</p>
 
 <ol>
 <li>&#214;ffnen Sie das Men&#252; <q>Bearbeiten</q> und klicken Sie auf <q>Mail &amp; Newsgroups-Account-Einstellungen</q>.
@@ -132,29 +137,41 @@ Sie sehen nun das Fenster f&#252;r die Account-Einstellungen.</li>
 
 <li><strong>Neuen Account einrichten</strong>: W&#228;hlen Sie die Art des Accounts und klicken Sie auf <q>Weiter</q>.</li>
 
-<li><strong>Identit&#228;t</strong>: Geben Sie Ihren Namen und Ihre E-Mail Adresse f&#252;r diesen Account aus und klicken Sie auf <q>Weiter</q>.</li>
+<li><strong>Identit&#228;t</strong>: Geben Sie Ihren Namen und Ihre E-Mail Adresse f&#252;r diesen Account aus und klicken Sie auf <q>Weiter</q>.
+  Dieses Fenster ist bei Blogs &amp; News-Feed Accounts nicht verf&#252;gbar.</li>
 
-<li><strong>Server Informationen</strong>: Geben Sie an, ob Ihr Sie einen IMAP oder POP-Account anlegen 
-    m&#246;chten. Nicht alle Service-Provider bieten beide Optionen an. F&#252;r mehr Informationen, 
-    Siehe <a href="#server_settings">Mail &amp; Newsgroups-Account Einstellungen - Servereinstellungen</a>.
+<li><strong>Server Informationen</strong>: Dieses Fenster ist bei Blogs &amp; News-Feed Accounts 
+    nicht verf&#252;gbar.
+    
+    <ul>
+      <li>Geben Sie an, ob Sie einen IMAP oder POP-Account anlegen  m&#246;chten.
+        Nicht alle Service-Provider bieten beide Optionen an. F&#252;r mehr Informationen, Siehe
+        <a href="mail_help#server_settings">Mail &amp; Newsgroups-Account Einstellungen - Servereinstellungen</a>.</li>
 
-<li>Geben Sie den Namen Ihres Mail-Eingangsservers an.</li>
-<li>Wenn Sie den neuen Account als Teil des Global-Inbox-Accounts behandeln wollen, aktivieren Sie die
-    Option <q>Use Global Inbox</q>. Alle Mails dieses Accounts werden dann unter Lokale Ordner gespeichert.
-    Wenn Sie diese Option nicht aktivieren, werden die Mail in einem eigenen Ordner gespeichert.</li>
+      <li>Geben Sie den Namen Ihres Mail-Eingangsservers an.</li>
 
-<p>Weiters m&#252;ssen Sie den Namen Ihres Mailausgangsservers (SMTP) angeben. Dies ist der Name Ihres 
-   Mail-Servers, &#252;ber welchen Sie Ihre Emails verschicken (auch bekannt als SMTP-Server).</p>
+      <li>Wenn Sie den neuen Account als Teil des Global-Inbox-Accounts behandeln wollen, aktivieren Sie die
+        Option <q>Use Global Inbox</q>. Alle Mails dieses Accounts werden dann unter Lokale Ordner gespeichert.
+        Wenn Sie diese Option nicht aktivieren, werden die Mail in einem eigenen Ordner gespeichert.</li>
 
-<p><strong>Hinweis</strong>: Sie m&#252;ssen nur einen Mailausgangsserver (SMTP) angeben, auch wenn 
-   Sie mehrere E-Mail Accounts haben. Der Name Ihres <a href="glossary.xhtml#smtp">SMTP</a>-Servers muss in den 
-   Account-Informationen welche Sie von Ihrem ISP bekommen haben aufgelistet werden. Der Maileingangsserver kann 
-   zugleich als SMTP-Server fungieren. Wenn Sie Sich nicht sicher sind, kontaktieren Sie Ihren ISP oder 
-   System-Administrator.</p>
+      <li>Geben Sie den Namen Ihres Mailausgangsservers (SMTP) an. Dies ist der Name Ihres 
+        Mail-Servers, &#252;ber welchen Sie Ihre Emails verschicken (auch bekannt als SMTP-Server).
+
+        <p><strong>Hinweis</strong>: Sie m&#252;ssen nur einen Mailausgangsserver (SMTP) angeben, auch wenn 
+         Sie mehrere E-Mail Accounts haben. Der Name Ihres <a href="glossary.xhtml#smtp">SMTP</a>-Servers muss in den 
+         Account-Informationen welche Sie von Ihrem ISP bekommen haben aufgelistet werden. Der Maileingangsserver kann 
+         zugleich als SMTP-Server fungieren. Wenn Sie Sich nicht sicher sind, kontaktieren Sie Ihren ISP oder 
+         System-Administrator.</p></li>
+
+     <li>Im Anschluss klicken Sie auf <q>Weiter</q>.</li>
+
+</ul>
+
 </li>
 
 <li><strong>Benutzername</strong>: Geben Sie den Ihren Benutzernamen welche Sie von Ihrem Mail-Provider 
-    bekommen haben ein und klicken Sie auf Weiter.</li>
+    bekommen haben ein und klicken Sie auf Weiter. Dieses Fenster ist bei Blogs &amp; News-Feed Accounts 
+    nicht verf&#252;gbar.</li>
 
 <li><strong>Account-Name</strong>: Geben Sie den Account-Namen welchen Sie vergeben m&#246;chten ein und 
     klicken Sie auf <q>Weiter</q>.</li>
@@ -205,9 +222,12 @@ beginnen Sie im Mail-Fenster:</p>
     Sie diesen Knopf. Den ausgew&#228;hlten Account wird als Ihr prim&#228;rer Mail-Account behandelt und 
     erscheint beim N&#228;chsten Start von Mail &amp; Newsgroups in der Liste der Accounts ganz oben.
 
-<p>Der Standart-Account ist jener Account, welches beim Start von Mail &amp; Newsgroups automatisch 
+<p>Der Standard-Account ist jener Account, welches beim Start von Mail &amp; Newsgroups automatisch 
 auf neue Nachrichten &#252;berpr&#252;ft wird (gilt nur f&#252;r IMAP-Accounts). (F&#252;r POP-Accounts 
 m&#252;ssen Sie weiterhin auf <q>Abrufen</q> klicken, um die neuen Nachrichten herunterzuladen.)</p>
+        
+  <p><strong>Hinweis:</strong> Sie k&#246;nnen keinen Blog &amp; Newsfeed-Account als Ihren Standard-Account
+    einrichten.</p>
 </li>
 
 <li><strong>Account entfernen</strong>: W&#228;hlen Sie den zu l&#246;schenden Account aus und klicken 
@@ -233,12 +253,13 @@ im Register auf der rechten Seite zu modifizieren.</li>
 <p>Um die Einstellungen f&#252;r einen bestehenden Account zu &#228;ndern, beginnen Sie im Mail-Fenster</p>
 
 <ol>
-<li>&#214;ffnen Sie das Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span> und w&#228;hlen Sie Mail &amp; Newsgroups-Account Einstellungen.
-Es erscheint der Mail &amp; Newsgroups-Account Einstellungen - Dialog.</li>
+<li>&#214;ffnen Sie das Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span> und 
+w&#228;hlen Sie Mail &amp; Newsgroups-Account Einstellungen. Es erscheint der Mail &amp; Newsgroups-Account 
+Einstellungen - Dialog.</li>
 
 <li>Klicken Sie auf den Accountnamen auf der linken Seite des Fensters. 
   Dadurch werden auf der rechten Seite Informationen &#252;ber den Account angezeigt, wie zum Beispiel 
-  Ihre E-Mail-Adresse und die Datei mit Ihrer Unterschrift.</li>
+  Ihre E-Mail-Adresse und die Signatur.</li>
 
 <li>Klicken Sie auf eine der folgenden Kategorien unter dem gew&#228;hlten Namen des Accounts um die entsprechenden Einstellungen zu sehen:
 
@@ -261,15 +282,15 @@ und die Zitier-Einstellungen beim Erstellen von neuen Nachrichten einzustellen.
 Sie k&#246;nnen weiters der Verzeichnis-Server der Adressb&#252;cher f&#252;r diesen Account &#228;ndern.
 F&#252;r weitere Informationen siehe <a href="#addressing">Mail &amp; Newsgroups-Account Einstellungen - Erstellen &amp; Adressieren</a>.</li>
 
-<li><strong>Offline- und Speicherplatzeinstellungen (IMAP und News-Accounts)</strong>: 
+<li><strong>Synchronisation &amp; Speicherplatz (nur IMAP und News Accounts)</strong>: 
 Hier k&#246;nnen Sie Einstellungen treffen, die f&#252;r das Offline-Arbeiten (getrennt vom Internet) gelten oder 
-die Speicherplatz und Download-Zeit sparen. F&#252;r weitere Informationen siehe <a
-href="#offline_and_disk_space_settings_imap">Offline- und Speicherplatzeinstellungen (IMAP)</a> oder
-<a href="#offline_and_disk_space_settings_nntp">Offline- und Speicherplatzeinstellungen (News)</a>.</li>
-
-<li><strong>Speicherplatzeinstellungen (Nur POP Accounts)</strong>: Mit den Einstellungen in diesem Abschnitt
+die Speicherplatz und Download-Zeit sparen. F&#252;r weitere Informationen siehe 
+<a href="#synchronization_and_storage_settings_imap">Synchronisation &amp; Speicherplatz (IMAP)</a> or
+<a href="#synchronization_and_storage_settings_nntp">Synchronisation &amp; Speicherplatz (News)</a>.</li>
+<li><strong>Speicherplatzeinstellungen (Nur POP und Blog &amp; News-Feeds Accounts)</strong>: Mit den Einstellungen in diesem Abschnitt
 k&#246;nnen Sie verhindern, dass Nachrichten heruntergeladen werden, die gr&#246;&#223;er sind als eine 
-von Ihnen angebene Gr&#246;&#223;e. F&#252;r weitere Informationen siehe <a href="#disk_space_settings">Speicherplatzeinstellungen (POP)</a>.</li>
+von Ihnen angebene Gr&#246;&#223;e. F&#252;r weitere Informationen siehe <a href="#disk_space_settings_pop">Speicherplatzeinstellungen (POP)</a>
+beziehungsweise <a href="#disk_space_settings_blog">Speicherplatzeinstellungen (Blogs)</a>.</li>
 
 <li><strong>Sicherheit</strong>: mit diesen Einstellungen k&#246;nnen Sie bestimmen, welche <a
 href="glossary.xhtml#certificate">Zertifikate</a> Sie benutzen, um Ihre Email-Nachrichten digital signieren und verschl&#252;sseln. 
@@ -301,9 +322,18 @@ F&#252;r weitere Informationen siehe <a href="#security">Mail &amp; Newsgroups-A
 <p>Wenn Sie Mail &amp; Newsgroups starten k&#246;nnen Sie neue Nachrichten auf einem IMAP-Account automatisch herunterladen lassen
 und diese in Ihrer Inbox anzeigen lassen, indem Sie die Inbox Ihres IMAP-Accounts markieren.</p>
 
-<p>Bei einem POP-Account m&uuml;ssen Sie die Inbox markieren und auf Abrufen klicken um Ihre neuen Nachrichten zu erhalten. 
-Standartm&#228;ssig werden Nachrichten vollst&#228;ndig von Ihrem POP-Server heruntergeladen und von diesem gel&#246;scht wenn Sie diese volslt&#228;ndig erhalten haben.
+<p>Bei einem POP-Account m&#252;ssen Sie die Inbox markieren und auf Abrufen klicken um Ihre neuen Nachrichten zu erhalten. 
+Standartm&#228;ssig werden Nachrichten vollst&#228;ndig von Ihrem POP-Server heruntergeladen und von diesem gel&#246;scht wenn Sie diese vollst&#228;ndig erhalten haben.
 Sie k&#246;nnen Ihre <a href="#pop_server_settings">POP Servereinstellungen</a> &#228;ndern, so dass Sie nur den MailKopf erhalten und/oder eine Kopie der heruntergeladenden Nachricht am Server behalten.</p>
+
+<p>Wenn Sie bei einem News-Account die Newsgroup-Liste aufklappen, wird diese
+  automatisch auf neue Nachrichten gepr&#252;ft. Dies geschieht auch, wenn Sie eine
+  Newsgroup ausw&#228;hlen. W&#228;hrend Sie eine Newsgroup lesen, k&#246;nnen Sie auf neue
+  Nachrichten pr&#252;fen, indem Sie auf die Schaltfl&#282;che <q>Abrufen</q> klicken.</p>
+
+<p>Bei Blog &amp; Newsfeed-Account wird dieser automatisch auf neue Nachrichten gepr&#252;ft, wenn Sie diesen
+  das erste Mal aufklappen. Ansonsten k&#246;nnen Sie auf neue Nachrichten pr&#252;fen, indem Sie auf die
+  Schaltfl&#282;che <q>Abrufen</q> klicken.</p>
 
 <p>Sie k&#246;nnen Mail &amp; Newsgroups auch so einstellen, dass neue Nachrichten beim Start automatisch abgerufen werden 
   und dass Mail &amp; Newsgroups selbst&#228;ndig in von Ihnen festgelegten Intervallen nach neuen Nachrichten nachschaut.</p>
@@ -347,7 +377,7 @@ Einstellungen. Es erscheint der Mail &amp; Newsgroups-Account Einstellungen Dial
 <ul>
 <li><strong>Beim Starten auf neue Mail pr&#252;fen</strong>: W&#228;hlen Sie diesen Schalter, 
 wenn &brandShortName; bei jedem Start von Mail &amp; Newsgroups &#252;berpr&#252;fen soll. 
-Bei POP-Konten werden neue Nachrichten erst dann heruntergeladen, wenn Sie auf
+Bei POP-Accounts werden neue Nachrichten erst dann heruntergeladen, wenn Sie auf
 Abrufen klicken, es sei den Sie haben die Option <q>Neue Nachrichten automatisch 
 herunterladen</q> aktiviert.</li>
 
@@ -384,8 +414,8 @@ tun:</p>
 <li>W&#228;hlen Sie <q>Alle Nachrichten abrufen</q>. &brandShortName; Mail &amp; Newsgroups
 wird daraufhin die neuen Nachrichten f&#252;r alle Ihre Mail-Accounts abrufen.
 
-<p>Wenn Sie bei einem Ihrer Mail-Konten gerade nicht angemeldet sind, fragt &brandShortName; Mail &amp; Newsgroups 
-Sie nach dem Benutzernamen und Passwort, bevor es die Nachrichten f&#252;r dieses Konto abruft.
+<p>Wenn Sie bei einem Ihrer Mail-Accounts gerade nicht angemeldet sind, fragt &brandShortName; Mail &amp; Newsgroups 
+Sie nach dem Benutzernamen und Passwort, bevor es die Nachrichten f&#252;r diesen Account abruft.
 (Wenn Sie Ihren Benutzernamen und Ihr Passwort schon im Passwortmanager abgespeichert haben, fragt
 Sie Mail &amp; Newsgroups nat&#252;rlich nicht danach)</p>
 </li>
@@ -394,7 +424,7 @@ Sie Mail &amp; Newsgroups nat&#252;rlich nicht danach)</p>
 <p><strong>Hinweis</strong>: Sie k&#246;nnen auch das Men&#252; Datei (im Mail-Fenster) &#246;ffnen
 und auf <q>Alle Nachrichten abrufen</q> klicken.</p>
 
-<p>Um Nachrichten f&#252;r ein bestimmtes Konto abzurufen, beginnen Sie im Mail-Fenster:</p>
+<p>Um Nachrichten f&#252;r ein bestimmtes Accounts abzurufen, beginnen Sie im Mail-Fenster:</p>
 
 <ol>
 <li>Klicken Sie auf den Pfeil auf dem Abrufen-Button in der Mail-Symbolleiste.</li>
@@ -609,15 +639,19 @@ um den HTML-Text-Editor zum erstellen von Nachrichten dieses Accounts zu
 verwenden.
 (Sie k&#246;nnen f&#252;r jeden Account den bevorzugten Editor w&#228;hlen.)
 Siehe <a href="#changing_the_settings_for_an_account">&#196;ndern von
-Konteneinstellungen</a>
-f&#252;r mehr Informationen.</p>
+Accounteinstellungen</a> f&#252;r mehr Informationen.</p>
 
-<p>Wenn Sie Nachrichtne im HTML-Format erstellen, k&#246;nnen Sie verschiedene
-Schriftarten,
-Text-Styles (wie zum Beispiel Fett oder kursiv) sowie Text-Farben, Tabellen,
-Nummerierte und nicht numerierte Listen, Grafiken benutzen.
-Manche Empf&#228;nger sind m&#246;glicherweise nur in der Lage Nachrichten im Text-Format
-zu lesen.
+<p><strong>Hinweis</strong>: Generell ist es nicht m&#246;glich, Nachrichten zu entwerfen, welche auf einen
+  Blog &amp; Newsfeed-Account ver&#246;ffentlicht werden sollen. Wenn Sie Nachrichten auf ein Blog
+  ver&#246;ffentlichen wollen (und die entsprechenden Rechte haben), m&#252;ssen Sie den Mechanismus 
+  des entsprechenden Blog-Dienstes verwerden. In manchen F&#228;llen kann dies auch durch das Senden einer 
+  E-Nail-Nachricht an eine bestimmte Adresse erfolgen.</p>
+
+<p>Wenn Sie Nachrichten im HTML-Format erstellen, k&#246;nnen Sie verschiedene
+Schriftarten, Text-Styles (wie zum Beispiel Fett oder kursiv) sowie Text-Farben, 
+Tabellen, Nummerierte und nicht numerierte Listen, Grafiken benutzen.
+Manche Empf&#228;nger sind m&#246;glicherweise nur in der Lage Nachrichten im 
+Text-Format zu lesen.
 Wenn Sie den Normaltext-Editor von Zeit zu Zeit verwenden m&#246;chten, k&#246;nnen Sie
 die Umschalttaste gedr&#252;ckt halten, w&#228;hrend Sie auf Erstellen oder Antworten
 klicken, um den Normaltext-Editor bei Bedarf zu verwenden.</p>
@@ -701,8 +735,8 @@ Trennen Sie Vor- und Zunamen nicht durch Kommas. Mehrere Eintr&#228;ge k&#246;nn
 <p><tt>user1@netscape.net,user2@netscape.net</tt></p>
 </li>
 
-<li>Wenn die Nachricht von einem anderen Konto gesendet  werden soll,
-m&#252;ssen Sie auf die Schaltfl&#228;che <q>Von</q> klicken, um das entsprechende Konto auszuw&#228;hlen. 
+<li>Wenn die Nachricht von einem anderen Accizbt gesendet  werden soll,
+m&#252;ssen Sie auf die Schaltfl&#228;che <q>Von</q> klicken, um den entsprechenden Account auszuw&#228;hlen. 
 Siehe <a href="#changing_the_account_from_which_a_message_is_sent">&#196;ndern des Absenderaccounts</a> 
 f&#252;r mehr Informationen.</li>
 
@@ -732,14 +766,14 @@ Maustaste auf die E-Mail-Adresse in der Nachricht, die Sie gerade lesen, klicken
 id="changing_the_account_from_which_a_message_is_sent"><strong>&#196;ndern
 des Absenderaccounts</strong></p>
 
-<p>Wenn Sie &#252;ber mehrere E-Mail-Konten verf&#252;gen, basiert das Konto, das im Feld
-<q>Von</q> angezeigt wird, auf dem Konto (oder Server), das ausgew&#228;hlt ist, wenn Sie 
+<p>Wenn Sie &#252;ber mehrere E-Mail-Account verf&#252;gen, basiert der Account, der im Feld
+<q>Von</q> angezeigt wird, auf dem Account (oder Server), das ausgew&#228;hlt ist, wenn Sie 
 eine neue Nachricht erstellen m&#246;chten.
-In &brandShortName; Mail &amp; Newsgroups k&ouml;nnen Sie jedoch das Konto, von dem eine Nachricht 
+In &brandShortName; Mail &amp; Newsgroups k&ouml;nnen Sie jedoch den Account, von dem eine Nachricht 
 gesendet wird, &#228;ndern, w&#228;hrend Sie die Nachricht erstellen. Klicken Sie auf das Feld 
-<q>Von</q>, um eine Liste der Konten anzuzeigen, und w&#228;hlen Sie anschlie&#223;end das 
-entsprechende Konto aus. Eine Kopie der Nachricht wird im Ordner <q>Gesendet</q> gespeichert, 
-der zu dem Konto geh&#246;rt, von dem aus die Nachricht gesendet wurde.</p>
+<q>Von</q>, um eine Liste der Accounts anzuzeigen, und w&#228;hlen Sie anschlie&#223;end den 
+entsprechenden Account aus. Eine Kopie der Nachricht wird im Ordner <q>Gesendet</q> gespeichert, 
+der zu dem Account geh&#246;rt, von dem aus die Nachricht gesendet wurde.</p>
 
 <p><strong>&#220;ber automatische Adress-Vervollst&#228;ndigung</strong></p>
 
@@ -831,8 +865,8 @@ Nachricht zu &#228;ndern.</li>
     <p>Verwenden Sie den Befehl Mail &amp; Newsgroups-Account Einstellungen im Men&#252; 
     <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>, 
     um den Normaltext-Editor zum Erstellen von Nachrichten zu verwenden. W&#228;hlen Sie im 
-    Dialogfeld <q>Konto-Einstellungen</q>
-    das entsprechende Konto aus und deaktivieren Sie die Option <q>Nachrichten in HTML verfassen</q>, um den 
+    Dialogfeld <q>Account-Einstellungen</q>
+    den entsprechenden Account aus und deaktivieren Sie die Option <q>Nachrichten in HTML verfassen</q>, um den 
     Normaltext-Editor f&#252;r alle Nachrichten zu verwenden. Wenn Sie den Normaltext-Editor nur von Zeit 
     zu Zeit verwenden m&#246;chten, k&#246;nnen Sie die Umschalttaste gedr&#252;ckt halten, 
     w&#228;hrend Sie auf <q>Erstellen</q> oder <q>Antworten</q> klicken, um den Normaltext-Editor bei 
@@ -871,19 +905,21 @@ Einstellungen. Sie sehen den Mail &amp; Newsgroups-Account Einstellungen -Dialog
 <li>W&#228;hlen Sie, wo Ihre Antwort platziert werden soll. 
 <q>Antwort unter zitiertem Text beginnen</q> ist die Standard-Einstellung.</li>
 
-<li>Wenn Sie eine <a href="#account_settings">Signature</a> an alle ausgehenden Nachrichten anh&#228;ngen wollen
+<li>Wenn Sie eine <a href="#account_settings">Signatur</a> an alle ausgehenden Nachrichten anh&#228;ngen wollen
 und Ihre Antwort &#252;ber dem Orginaltext erscheinen soll, k&#246;nnen Sie zus&#228;tzlich ausw&#228;hlen, 
 wo Ihre Signatur Platziert werden soll:
 
 <ul>
-<li>W&#228;hlen Sie <q>unter zitierten Text setzen (empfohlen)</q> um Ihre Signature am Ende der 
+<li>W&#228;hlen Sie <q>unter zitierten Text setzen (empfohlen)</q> um Ihre Signatur am Ende der 
 Nachrichte zu platzieren unterhalb der Orginal-Nachricht.</li>
 
 <li>W&#228;hlen Sie <q>unter meine Antwort (&#252;ber dem zitiertem Text) setzen</q> um Ihre 
-Signature unterhalb Ihrer Antwort, oberhalb der Orginal-Nachricht zu platzieren.</li>
+Signatur unterhalb Ihrer Antwort, oberhalb der Orginal-Nachricht zu platzieren.</li>
 </ul>
-
+<p><strong>Hinweis</strong>: Wenn Sie eine Signatur erstellt haben, k&#246;nnen Sie Sich beim 
+  Antworten auf eine Nachricht entscheiden, diese <a href="#addressing">nicht anzuh&#228;ngen</a>.</p>
 </li>
+
 
 <li>Klicken Sie auf OK.</li>
 </ol>
@@ -917,7 +953,12 @@ neuen Nachricht eingef&#252;gt wird:
 href="#composition">Verfassen</a>. (Wenn in dieser Kategorie keine Optionen angezeigt werden, 
 doppelklicken Sie die Kategorie, um die Liste einzublenden.)</li>
 
-<li>Unter Nachrichten weiterleiten, w&#228;hlen Sie Inline (in der Nachricht) oder als Attachment.</li>
+<li>Unter Nachrichten weiterleiten, w&#228;hlen Sie Inline (in der Nachricht) oder als Attachment.
+<p><strong>Hinweis</strong>: Wenn Sie eine Signatur erstellt haben und Inline weiterleiten,
+   wird die Signatur entsprechend Ihrer Antworten-Einstellung eingef&#252;gt. Sie k&#246;nnen diese
+   jedoch optional auch <a href="#addressing">nicht anh&#228;ngen</a> lassen, wenn Sie eine Nachricht
+   weiterleiten.</p>
+</li>
 
 <li>Klicken Sie auf OK.</li>
 </ol>
@@ -983,7 +1024,7 @@ bearbeiten</h2>
 <ul>
 <li>Klicken Sie im Erstellungsfenster auf Speichern oder &#246;ffnen Sie das Men&#252; Datei und w&#228;hlen Sie
 Als Entwurf speichern. Standardm&#228;&#223;ig wird die Nachricht im Ordner <q>Entw&#252;rfe</q> 
-f&#252;r das aktuelle Konto gespeichert.
+f&#252;r den aktuellen Account gespeichert.
 
 <p><strong>Hinweis</strong>: Die Nachricht bleibt nach dem Speichern als Entwurf ge&#246;ffnet.</p>
 </li>
@@ -992,7 +1033,7 @@ f&#252;r das aktuelle Konto gespeichert.
 <p>So bearbeiten Sie einen Nachrichtenentwurf:</p>
 
 <ol>
-<li>Klicken Sie im Mail-Fenster auf den Ordner <q>Entw&#252;rfe</q>, f&#252;r das Konto, in dem Sie den 
+<li>Klicken Sie im Mail-Fenster auf den Ordner <q>Entw&#252;rfe</q>, f&#252;r den Account, in dem Sie den 
     Nachrichtenentwurf erstellt haben.</li>
 
 <li>Klicken Sie auf die Nachricht, die Sie bearbeiten m&#246;chten.</li>
@@ -1052,8 +1093,8 @@ im Ordner Vorlagen gespeichert.</li>
 <p>So bearbeiten oder verwenden Sie eine Vorlage:</p>
 
 <ol>
-<li>Im Mail-Fenster w&#228;hlen Sie den Ordner Vorlagen des E-Mail-Kontos aus f&#252;r 
-das Sie die Vorlage erstellt haben.</li>
+<li>Im Mail-Fenster w&#228;hlen Sie den Ordner Vorlagen des E-Mail-Accounts aus f&#252;r 
+den Sie die Vorlage erstellt haben.</li>
 
 <li>Doppelklicken Sie auf die Nachricht, die Sie bearbeiten m&#246;chten.</li>
 
@@ -1108,10 +1149,10 @@ von Nachrichten verwendet wird (ausgehend vom Mail-Fenster):</p>
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <q><span class="noMac">Bearbeiten</span>
   <span class="mac">&brandShortName;</span></q> die Option <q>Mail
-      &amp; Newsgroups-Konto-Einstellungen</q>. Das Dialogfeld <q>Mail &amp;
-	  Newsgroups-Konto-Einstellungen</q> wird angezeigt.</li>
+      &amp; Newsgroups-Account-Einstellungen</q>. Das Dialogfeld <q>Mail &amp;
+	  Newsgroups-Account-Einstellungen</q> wird angezeigt.</li>
 
-  <li>W&#228;hlen Sie das E-Mail- oder Newsgroup-Konto aus, das Sie verwenden
+  <li>W&#228;hlen Sie den E-Mail- oder Newsgroup-Account aus, den Sie verwenden
       m&#246;chten.</li>
 
   <li>W&#228;hlen Sie die Option <q>Nachrichten im HTML-Format verfassen</q>.
@@ -2223,8 +2264,8 @@ umbenannten Ordner.</p>
 
 <h2 id="moving_or_copying_a_folder">Ordner verschieben oder kopieren</h2>
 
-<p>Sie k&#246;nnen einen Ordner und dessen Inhalt in ein anderes Mail-Konto
-kopieren oder den Ordner innerhalb desselben Kontos verschieben.</p>
+<p>Sie k&#246;nnen einen Ordner und dessen Inhalt in einen anderen Mail-Account
+kopieren oder den Ordner innerhalb desselben Accounts verschieben.</p>
 
 <p>So verschieben oder kopieren Sie einen Ordner (ausgehend vom
 Mail-Fenster):</p>
@@ -2236,17 +2277,17 @@ Mail-Fenster):</p>
   <li>F&#252;hren Sie einen der folgenden Schritte durch:
 
       <ul>
-        <li>Um den Ordner unter einen anderen Ordner innerhalb desselben Kontos
+        <li>Um den Ordner unter einen anderen Ordner innerhalb desselben Accounts
 		    zu verschieben, ziehen Sie den Ordner auf den Namen des anderen
 			Ordners. Der verschobene Ordner wird zu einem Unterordner des
 			anderen Ordners.</li>
 
-        <li>Um einen Ordner in ein anderes Konto zu kopieren, ziehen Sie den
-		    Ordner auf den Namen des anderen Kontos.</li>
+        <li>Um einen Ordner in einen anderen Account zu kopieren, ziehen Sie den
+		    Ordner auf den Namen des anderen Accounts.</li>
 
-        <li>Um einen Ordner unter einen anderen Ordner in einem anderen Konto
+        <li>Um einen Ordner unter einen anderen Ordner in einem anderen Account
 		    zu kopieren, ziehen Sie den Ordner auf den Namen des Ordners in dem
-			anderen Konto. Der kopierte Ordner wird zu einem Unterordner des
+			anderen Accounts. Der kopierte Ordner wird zu einem Unterordner des
 			anderen Ordners.</li>
       </ul></li>
 </ol>
@@ -2278,7 +2319,7 @@ Ordner in einen anderen Ordner verschieben:</p>
       Maustaste, um das Popup-Men&#252; anzuzeigen.</li>
 
   <li>W&#228;hlen Sie <q>Kopieren in</q> im Kontextmen&#252; und
-      anschlie&#223;end das Zielkonto und den Zielordner.</li>
+      anschlie&#223;end den Zielaccount und den Zielordner.</li>
 </ol>
 
 <p><strong>Tipp</strong>: Als Alternative k&#246;nnen Sie auch eine Nachricht
@@ -2448,11 +2489,11 @@ Tag zu entfernen.</p>
 	  Liste.</li>
 </ul>
 
-<p><strong>Anmerkung</strong>: Die Tags gelten nur f&#252;r das Konto,
-in dem Sie erstellt wurden. Wenn Sie eine Nachricht von einem Konto in ein
-anderes kopieren oder verschieben, bleibt das Tag nicht erhalten. Das
-gleiche gilt, wenn Sie eine getaggte Nachricht an einen anderen
-Empf&#228;nger weiterleiten. F&#252;r IMAP-Konten gilt folgendes: Wenn Ihr
+<p><strong>Anmerkung</strong>: Die Tags gelten nur f&#252;r den Account,
+in dem Sie erstellt wurden. Wenn Sie eine Nachricht von einem Account in einen
+anderen kopieren oder verschieben, bleibt das Tag nicht erhalten. Das
+gleiche gilt, wenn Sie eine getagte Nachricht an einen anderen
+Empf&#228;nger weiterleiten. F&#252;r IMAP-Accounts gilt folgendes: Wenn Ihr
 IMAP-Server benutzerdefinierte Schl&#252;sselworte unterst&#252;tzt, bleiben
 die Tags erhalten, wenn Sie sich von einem anderen Ort aus anmelden.</p>
 
@@ -2700,7 +2741,7 @@ Ihrer Nachrichten. Sie k&#246;nnen Nachrichtenfilter erstellen, die
 Aktionen f&#252;r eingehenden Nachrichten auszuf&#252;hren auf der Basis der
 angegebenen Filterkriterien. Sie k&#246;nnen z.&nbsp;B. einen Filter erstellen,
 der alle eingehenden Nachrichten automatisch in einem bestimmten Ordner ablegt.
-Die erstellten Filter gelten jeweils nur f&#252;r ein bestimmtes Konto.</p>
+Die erstellten Filter gelten jeweils nur f&#252;r einen bestimmten Account.</p>
 
 <p>So &#246;ffnen Sie das Dialogfeld <q>Nachrichtenfilter</q> (ausgehend vom
 Mail-Fenster):</p>
@@ -2710,8 +2751,8 @@ Mail-Fenster):</p>
       <q>Nachrichtenfilter</q> aus. Das Dialogfeld <q>Nachrichtenfilter</q>
 	  wird angezeigt.</li>
 
-  <li>Wenn Sie &#252;ber mehrere Mail-Konten verf&#252;gen, m&#252;ssen Sie das
-      Konto ausw&#228;hlen, auf das der Filter angewendet werden soll.</li>
+  <li>Wenn Sie &#252;ber mehrere Mail-Accounts verf&#252;gen, m&#252;ssen Sie den
+      Account ausw&#228;hlen, auf den der Filter angewendet werden soll.</li>
 
   <li>Klicken Sie auf <q>Neu</q>. Im Dialogfeld <q>Filter definieren</q>
       k&#246;nnen Sie festlegen, auf welche Art von Nachrichten der Filter
@@ -2763,8 +2804,8 @@ Mail-Fenster):</p>
       <q>Nachrichtenfilter</q> aus. Das Dialogfeld <q>Nachrichtenfilter</q>
 	  wird angezeigt.</li>
 
-  <li>Wenn Sie &#252;ber mehrere Mail-Konten verf&#252;gen, m&#252;ssen Sie das
-      Konto ausw&#228;hlen, auf das der Filter angewendet werden soll.</li>
+  <li>Wenn Sie &#252;ber mehrere Mail-Accounts verf&#252;gen, m&#252;ssen Sie den
+      Account ausw&#228;hlen, auf den der Filter angewendet werden soll.</li>
 
   <li>W&#228;hlen Sie eine der folgenden Vorgehensweisen aus:
 
@@ -2853,7 +2894,7 @@ filtert (ausgehend vom Mail-Fenster):</p>
 <p>In &brandShortName; Mail &amp; Newsgroups k&#246;nnen Sie schnell Text in
 einer einzelnen Nachricht suchen oder eine Kombination aus Kriterien verwenden,
 um eine gr&#252;ndlichere Suche in allen Nachrichten eines bestimmten
-Mail-Ordners, eines Forums oder eines Kontos auszuf&#252;hren.</p>
+Mail-Ordners, eines Forums oder eines Accounts auszuf&#252;hren.</p>
 
 <p>So suchen Sie Text in einer Nachricht (ausgehend vom Mail-Fenster):</p>
 
@@ -2900,11 +2941,11 @@ Betreff (ausgehend vom Mail-Fenster):</p>
       suchen</q>. Das Dialogfeld <q>Nachrichten durchsuchen</q> wird
 	  angezeigt.</li>
 
-  <li>W&#228;hlen Sie das Konto, Diskussionsforum oder den Ordner, in dem Sie
+  <li>W&#228;hlen Sie den Account,das Diskussionsforum oder den Ordner, in dem Sie
       suchen m&#246;chten.</li>
 
   <li>Klicken Sie auf <q>Unterordner durchsuchen</q>, um alle Ordner eines
-      Kontos in die Suche mit einzubeziehen.</li>
+      Accounts in die Suche mit einzubeziehen.</li>
   <li>Klicken Sie auf <q>Lokales System durchsuchen</q> um bei Newsgroups oder IMAP-Accounts nur jene Nachrichten zu 
   durchsuchen, welche lokal gespeichert wurden.
 
@@ -2949,8 +2990,8 @@ Betreff (ausgehend vom Mail-Fenster):</p>
 		    Ordner zu verschieben, w&#228;hlen Sie die Nachricht aus und
 			w&#228;hlen Sie dann einen Ordner im Dropdown-Listenfeld
 			<q>Ablegen</q> aus. Wenn der Zielordner sich innerhalb desselben
-			Kontos befindet, wird die Nachricht dorthin verschoben. Wenn der
-			Zielordner sich in einem anderen Konto befindet, wird die Nachricht
+			Accounts befindet, wird die Nachricht dorthin verschoben. Wenn der
+			Zielordner sich in einem anderen Account befindet, wird die Nachricht
 			dorthin kopiert.</li>
 
         <li>Um eine Nachricht im Feld <q>Ergebnisse</q> zu l&#246;schen,
@@ -3353,8 +3394,8 @@ das Men&#252; <q>Datei</q> im Fenster <q>Mail</q> &#246;ffnen, auf die Option
 <q>Neu</q> und anschlie&#223;end auf die Option <q>Account</q> klicken.</p>
 
 <ul>
-  <li>Geben Sie im Fenster <q>Konto-Assistent</q> an, dass das neue Konto, das
-      Sie einrichten m&#246;chten, ein Foren-Konto ist.</li>
+  <li>Geben Sie im Fenster <q>Account-Assistent</q> an, dass den neuen Account, den
+      Sie einrichten m&#246;chten, ein Foren-Account ist.</li>
 </ul>
 
 <p>Sobald Sie den Zugang zum neuen Server eingerichtet haben, k&#246;nnen Sie
@@ -3364,13 +3405,325 @@ Men&#252; <q>Datei</q>.</p>
 
 <p>[<a href="#getting_started_with_newsgroups">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
+<h1 id="getting_started_with_blogs_and_news_feeds">Erste Schritte mit Blogs &amp; Newsfeeds</h1>
+
+<div class="contentsBox">In diesem Abschnitt:
+  <ul>
+    <li><a href="#subscribing_to_blogs_and_news_feeds">Blogs &amp; Newsfeeds abonnieren</a></li>
+    <li><a href="#subscribing_to_blogs_and_news_feeds_from_browser">Abonnieren von Blogs &amp; 
+    Newsfeeds aus einem Browser-Fenster</a></li>
+    <li><a href="#reading_blogs_and_news_feed_messages">Lesen von Blogs &amp; Newsfeed-Nachrichten</a></li>
+    <li><a href="#posting_blog_messages">Blognachrichten erstellen</a></li>
+    <li><a href="#adding_comments_to_a_blog_post">Kommentare zu einer Blogpost hinzuf&#252;gen</a></li>
+    <li><a href="#exporting_and_importing_feeds">Exportieren und Importieren von Newsfeeds</a></li>
+    <li><a href="#editing_a_feed">Einen Newsfeed editieren</a></li>
+    <li><a href="#removing_a_feed">Einen Newsfeed entfernen</a></li>
+    <li><a href="#using_different_blogs_and_news_feeds_accounts">Verschiedene Blog &amp; 
+    Newsfeed Accounts benutzen</a></li>
+    <li><a href="#organizing_your_feeds">Newsfeeds verwalten</a></li>
+  </ul>
+</div>
+
+<h2 id="subscribing_to_blogs_and_news_feeds">Blogs &amp; Newsfeeds abonnieren</h2>
+
+<p>Wenn Sie bereits einen
+  <a href="#setting_up_additional_mail_and_news_accounts">Blogs &amp; Newsfeed Account</a> erstellt haben, 
+  k&#246;nnen Sie damit Blogs &amp; Newsfeeds abonnieren.</p>
+
+<p>Um einen Newsfeed zu abonnieren, starten Sie vom Mail-Fenster aus:</p>
+<ol>
+  <li id="getting_into_the_feed_subscriptions_dialog">Aufrufen Des Dialog zum Abonnieren eines Feeds. Es gibt verschiebene
+    M&#246;glichkeiten dies zu tun:
+    <ul>
+      <li>In der Account-&#220;bersicht, klicken Sie auf den zu gew&#252;nschten Blogs &amp; Newsfeed-Account. 
+        Im Anschluss klicken Sie auf <q>Abonnements verwalten&#8230;</q> im rechten Bereich.</li>
+      <li>In der Account-&#220;bersicht, klicken Sie auf den zu gew&#252;nschten Blogs &amp; Newsfeed-Account
+        oder in einem darin enthaltenen Newsfeed. Im Anschluss &#246;ffnen Sie das Men&#252; <q>Datei</q> 
+        und w&#228;hlen dort <q>Abonnieren</q>.</li> 
+      <li>In der Account-&#220;bersicht, <strong>rechtsklicken</strong> Sie auf den gew&#252;nschten 
+        Blog &amp; Newsfeed-Account und w&#228;hlen <q>Abonnieren</q>.</li>
+      <li>&#214;ffnen Sie das Men&#252; Bearbeiten und w&#228;hlen Sie dort die Option <q>Mail &amp; Newsgroups 
+        Account-Einstellungen</q>. Im Mail &amp; Newsgroups Account-Einstellungs-Dialog klicken Sie auf einen 
+        Blogs &amp; Newsfeed-Account und im Anschluss auf die Schaltfl&#228;che <q>Abonnements verwalten&#8230;</q>.</li>
+    </ul>
+  </li>
+
+  <li>Wenn Sie im Feed-Abonnier-Dialog sind, klicken Sie auf die Schaltfl&#228;che <q>Hinzuf&#252;gen</q>.
+    Es &#246;ffnet sich der Feed-Einstellungs-Dialog.</li>
+  <li>Tippen (oder kopieren Sie) die URL des Feeds in das daf&#252;r vorgesehene Feld.</li>
+  <li>Klicken Sie auf auf die Dropdown-Liste <q>Artikel speichern in</q> und w&#228;hlen dort wo
+    die Artikel dieses Feeds gespeichert werden sollen. Dies erlaubt es Ihnen, mehrere Feeds 
+    zu einer Liste zusammenzufassen.</li>
+  <li>Aktivieren Sie die Option <q>Artikel-Zusammenfassung anzeigen anstatt die Webseite zu laden</q> um
+    eine kurze Zusammenfassung der Artikel angezeigt zu bekommen.
+    
+    <p><strong>Hinweis:</strong> Wenn Sie sich nur Artikel-Zusammenfassungen anzeigen lassen, spart
+      das den Download des gesammten Artikels und ist somit schneller, da die Zusammenfassung bereits
+      heruntergeladen wird, wenn Sie auf neue Eintr&#228;ge pr&#252;fen. Wenn Sie jedoch haupts&#228;chlich an den gesamten
+      Artikeln interessiert sind, sparen Sie sich Zeit wenn Sie die Option deaktivieren.</p>
+  </li>
+  <li>Klicken Sie auf OK um das Hinzuf&#252;gen des Feeds zu best&#228;tigen.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="subscribing_to_blogs_and_news_feeds_from_browser">Abonnieren von Blogs &amp; Newsfeeds aus einem Browser-Fenster</h2>
+
+<p>W&#228;hrend Sie mit &brandShortName; im Internet sind, finden Sie auf manchen Seiten ein
+  Symbol (<img src="chrome://communicator/skin/icons/feedIcon.png"
+  style="width: 16px; height: 16px;" />) welches Ihnen signalisiert, dass diese Seite 
+  Newsfeeds anbietet. Wenn Sie auf dieses Symbol klicken, bekommen Sie eine Liste der Feeds
+  angezeigt, welche von dieser Seite angeboten werden und k&#246;nnen diese zu Ihrem ersten
+  Blog &amp; Newsfeed-Account hinzuf&#252;gen.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="reading_blogs_and_news_feed_messages">Lesen von Blogs &amp; Newsfeed-Nachrichten</h2>
+
+<p>Wenn Sie Ihren Blogs &amp; News-Acocunt &#246;ffnen, sehen Sie eine Liste der Feeds, welche Sie abonniert haben.
+  &brandShortName; pr&#252;ft jeden Feed und l&#228;d die neuen Nachrichten herunter.</p>
+
+<p>Um Blogs &amp; News Nachrichten zu lesen, starten Sie im Mail-Fenster:</p>
+
+<ol>
+  <li>Doppelklicken Sie Ihren Blogs &amp; News-Account um dessen Feeds anzuzeigen (Wenn Sie keine Feeds sehen,
+    k&#246;nnen Sie einen Abonnieren.)</li>
+  <li>Klicken Sie auf den Namen des Feeds, von welchem Sie die Nachrichten lesen wollen.</li>
+  <li>Klicken Sie auf die gew&#252;nschte Nachricht um diese zu lesen. Im Nachrichten-Kopf sehen Sie
+    die URL des Artikels. Durch einen Klick auf diese k&#246;nnen Sie ein Browser-Fenster &#246;ffnen um die
+    entsprechende Seite zu &#246;ffnen.</li>
+</ol>
+
+<p>Abh&#228;ngig von Ihrer Einstellung f&#252;r den Blog &amp; News-Account und jeden einzelnen Feed 
+  werden die Nachrichten als Zusammenfassung oder als vollst&#228;ndiger Artikel angezeigt. Sie 
+  k&#246;nnen zwischen den folgenden Optionen w&#228;hlen:</p>
+
+<ul>
+  <li><strong>Webseite</strong>: W&#228;hlen Sie diese Option um die gesamte Webseite der Nachrichten angezeigt zu bekommen.</li>
+  <li><strong>Zusammenfassung</strong>: W&#228;hlen Sie diese Option um eine Zusammenfassung der Nachrichten zu bekommen.</li>
+  <li><strong>Standard-Format</strong>: W&#228;hlen Sie diese Option wenn der Artikeln im urspr&#252;nglichen Format angezeigt werden soll,
+    so wie in den Feed-Optionen oder im Blogs &amp; News Account festgelegt.</li>
+</ul>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="posting_blog_messages">Blognachrichten erstellen</h2>
+
+<p>Um eine Blognachricht zu erstellen ben&#246;tigen Sie einen Account auf dem entsprechenden Blog. Es gibt keinen 
+  standardisierten Weg eine Blognachricht zu erstellen, Sie k&#246;nnen also standardm&#228;ssig keine Blognachrichten 
+  mittels der &brandShortName; Mail Komponente erstellen.
+  Stattdessen m&#252;ssen Sie ein Browser-Fenster &#246;ffnen, Sich in Ihren Blog-Account einloggen und die Nachricht mithilfe des
+  Web-Interfaces erstellen.</p>
+ 
+<p>Manche Blog-Systeme erlauben das Erstellen von Blognachrichten durch senden einer Email-Nachricht an eine bestimmte Adresse.
+  Sie m&#252;ssen selbst herausfinden, ob Ihr Blog diese Funktion unterst&#252;tzt und welches die entsprechende Email-Adresse ist.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="adding_comments_to_a_blog_post">Kommentare zu einer Blogpost hinzuf&#252;gen</h2>
+
+<p>Da es keinen standardisierten Weg gibt, ein Kommentar auf eine Blogpost zu hinterlassen, m&#252;ssen
+  sie ein Browser-Fenster &#246;ffnen und das Web-Interface benutzen.</p>
+ 
+<p>Manche Blog-Systeme erlauben das Hinzuf&#252;gen von Kommentaren mittels Email-Nachrichten. Sie m&#252;ssen selbst herausfinden,
+  ob das Blog diese Funktion unterst&#252;tzt und welches die entsprechende Email-Adresse ist.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="exporting_and_importing_feeds">Exportieren und Importieren von Newsfeeds</h2>
+
+<p>Wenn Sie einen <a href="#setting_up_additional_mail_and_news_accounts">Blogs &amp; News-Account</a> 
+  eingerichtet haben, k&#246;nnen Sie Blogs &amp; Newsfeed-Sammlungen mittels OPML-Format 
+  (Outline Processor Markup Language) Exportieren und Importieren.</p>
+
+<p>Um Feeds in Ihrem Blogs &amp; News-Account zu exportieren, starten Sie vom Mail-Fenster:</p>
+
+<ol>
+  <li>In der Account-&#220;bersicht, klicken sie auf den gew&#252;nschte Blogs &amp; News-Account oder einen darin enthaltenen Feed.</li>
+  <li>&#214;ffnen Sie das Datei-Men&#252; und w&#228;hlen Sie dort <q>Abonieren</q> (oder nutzen Sie eine der 
+    <a href="#getting_into_the_feed_subscriptions_dialog">anderen M&#246;glichkeiten</a> den Dialog 
+    zum Abonnieren eines Feeds zu &#246;ffnen).</li>
+  <li>In diesem Dialog, klicken Sie auf die Schaltfl&#228;che <q>Export</q>. Es erscheint ein neues Dialogfenster.</li>
+  <li>W&#228;hlen Sie das Verzeichnis und den Dateinamen unter welchem der Feed-Export gespeichert werden soll und
+    klicken im Anschluss auf Speichern.</li>
+</ol>
+
+<p>Um Feeds in den von Ihnen ausgew&#228;hlten Blogs &amp; News-Account zu Importieren, starten Sie vom Mail-Fester:</p>
+
+<ol>
+  <li>In der Account-&#220;bersicht, klicken Sie auf den gew&#252;nschten Blogs &amp; News-Account oder einen darin enthaltenen Feed.</li>
+  <li>&#214;ffnen Sie das Datei-Men&#252; und w&#228;hlen Sie dort <q>Abonieren</q> (oder nutzen Sie eine der 
+    <a href="#getting_into_the_feed_subscriptions_dialog">anderen M&#246;glichkeiten</a> den Dialog 
+    zum Abonnieren eines Feeds zu &#246;ffnen).</li>
+  <li>In diesem Dialog, klicken Sie auf die Schaltfl&#228;che <q>Import</q>. Es erscheint ein neues Dialogfenster.</li>
+  <li>W&#228;hlen Sie das Verzeichnis und den Dateinamen des Feeds der importiert werden soll und
+    klicken im Anschluss auf Speichern.</li>
+  <li>Alle Feeds, welche in der OPML-Datei enthalten sind, werden zu Ihrem Blogs &amp; Feeds-Account hinzugef&#252;gt.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="editing_a_feed">Einen Newsfeed editieren</h2>
+
+<p>Wenn Sie die Eigenschaften eine Ihres Feeds in Ihren Blogs &amp; News-Account &#228;ndern wollen, k&#246;nnen Sie diesen bearbeiten.</p>
+
+<p>Um einen Feed in einem ausgew&#228;hlten Blogs &amp; News-Account bearbeiten wollen, starten Sie vom Mail-Fenster:</p>
+
+<ol>
+  <li>In der Account-&#220;bersicht, klicken sie auf den gew&#252;nschte Blogs &amp; News-Account oder einen darin enthaltenen Feed.</li>
+  <li>&#214;ffnen Sie das Datei-Men&#252; und w&#228;hlen Sie dort <q>Abonieren</q> (oder nutzen Sie eine der 
+    <a href="#getting_into_the_feed_subscriptions_dialog">anderen M&#246;glichkeiten</a> den Dialog 
+    zum Abonnieren eines Feeds zu &#246;ffnen).</li>
+  <li>Im daraufhin erscheinenden Dialog-Fenster, w&#228;hlen Sie den gew&#252;nschten Feed aus der Liste aus.
+    Sie m&#252;ssen m&#246;glicherwesen die Ordner in der Feed-Liste aufklappen um jeden einzelnen Feed zu sehen.</li>
+  <li>Klicken Sie auf die Schaltfl&#228;che <q>Bearbeiten</q> um den Feed-Eigenschafts-Dialog zu &#246;ffnen.</li>
+  <li>Hier k&#246;nnen Sie den Speicherort des gew&#228;hlten Feeds &#228;ndern, indem Sie auf die Dropdown-Liste
+    <q>Artikel speichern in</q> klicken.</li>
+  <li>Sie k&#246;nnen auch die Option <q>Artikel-Zusammenfassung anzeigen anstatt die Webseite zu laden</q> 
+    aktivieren, um eine Zusammenfassung anzuzeigen, welche normalerweise f&#252;r jeden Artikel verf&#252;gbar ist.
+    
+    <p><strong>Hinweis:</strong> Wenn Sie sich nur Artikel-Zusammenfassungen anzeigen lassen, spart
+      das den Download des gesammten Artikels und ist somit schneller, da die Zusammenfassung bereits
+      heruntergeladen wird, wenn Sie auf neue Eintr&#228;ge pr&#252;fen. Wenn Sie jedoch haupts&#228;chlich an den gesamten
+      Artikeln interessiert sind, sparen Sie sich Zeit wenn Sie die Option deaktivieren.</p>
+  </li>
+  <li>Klicken Sie auf OK um Ihre &#196;nderungen zu &#252;bernehmen.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="removing_a_feed">Einen Newsfeed entfernen</h2>
+
+<p>Wenn Sie einen Feed in Ihrem Blogs &amp; News-Account nicht mehr lesen wollen, k&#246;nnen Sie diese aus Ihrer Liste entfernen.</p>
+
+<p>Um einen Feed aus einem Ihrer Blogs &amp; News-Accounts zu entfernen, starten Sie vom Mail-Fenster:</p>
+
+<ol>
+  <li>In der Account-&#252;bersicht, klicken sie auf den gew&#252;nschte Blogs &amp; News-Account oder einen darin enthaltenen Feed.</li>
+  <li>&#214;ffnen Sie das Datei-Men&#252; und w&#228;hlen Sie dort <q>Abonieren</q> (oder nutzen Sie eine der 
+    <a href="#getting_into_the_feed_subscriptions_dialog">anderen M&#246;glichkeiten</a> den Dialog 
+    zum Abonnieren eines Feeds zu &#246;ffnen).</li>
+  <li>Im daraufhin erscheinenden Dialog-Fenster, w&#228;hlen Sie den gew&#252;nschten Feed aus der Liste aus.
+    Sie m&#252;ssen m&#246;glicherweise die Ordner in der Feed-Liste aufklappen um jeden einzelnen Feed zu sehen.</li>
+  <li>Klicken Sie auf die Schaltfl&#228;che <q>Entfernen</q>. Im Anschluss m&#252;ssen Sie den L&#246;schvorgang noch best&#228;tigen.</li>
+</ol>
+
+<p><strong>Hinweis:</strong> Verwechseln Sie nicht Feeds und Ordner in einem Blogs &amp; News-Account. Wenn Sie einen Feed entfernen,
+  wird der Ordner, in welche die Feed-Artikel gespeichert sind nicht mitgel&#246;scht. Die Artikel bleiben also in diesem Ordner erhalten
+  bis Sie den gesamten Ordner oder die einzelnen Artikel l&#246;schen. F&#252;r ein besseres Verst&#228;ndnis, siehe
+  <a href="#organizing_your_feeds">Newsfeeds verwalten</a> sp&#228;terem in diesem Abschnitt.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="using_different_blogs_and_news_feeds_accounts">Verschiedene Blog &amp; Newsfeed Accounts benutzen</h2>
+
+<p>Ein Blogs &amp; News-Feed Account kann beliebig viele Feeds enthalten, Sie ben&#246;tigen
+  also mehr als einen Account. Es gibt jedoch verschiedene Gr&#252;nde, mehrere Blog &amp; Newsfeed
+  Account einzurichten. Einige dieser Gr&#252;nde sind:</p>
+
+<ul>
+  <li>Sie k&#246;nnen verschiedene Blog &amp; Newsfeed-Accounts nutzen um Ihre Feeds in Kategorien zu unterteilen.
+    Sie k&#246;nnen zum Beispiel einen Account names <q>Mozilla News</q> anlegen, in welchem Sie alle Mozilla-relevanten
+    Feeds sammeln und einen zweiten Account namens <q>Aktuelle Schlagzeilen</q> um dort die aktuellen Nachrichten
+    zu sammeln.</li>
+  <li>Wenn Sie verschiedene Accounts verwenden, haben diese unterschiedliche Einstellungen. Auf diesem Weg
+    k&#246;nnen Sie den Aktualisierungs-Interval der Accounts (und somit der enthaltenen Feeds) unterschiedlich 
+    konfigurieren.</li>
+</ul>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="organizing_your_feeds">Newsfeeds verwalten</h2>
+
+<p>Die normale Vorgangsweise beim Hinzuzuf&#252;gen eines Feeds zu einem Blogs &amp; News-Feeds
+  Account in &brandShortName; besteht darin, einen Ordner zu erzeugen und den Feed in diesen Ordner 
+  einzuf&#252;gen. &brandShortName; erlaubt Ihnen hier jedoch einge gewisse Flexibilit&#228;t. Der folgende Abschnitt
+  soll Ihnen helfen, Ihre Feeds besser zu verwalten:</p>
+
+<div class="contentsBox">In diesem Abschnitt:
+  <ul>
+    <li><a href="#feeds_vs_folders">Feeds gegen Ordner </a></li>
+    <li><a href="#organizing_folders_in_blogs_and_news_feeds_accounts">Verwalten von 
+    Ordnern in Blog &amp; Newsfeed Accounts </a></li>
+    <li><a href="#downloading_multiple_feeds_in_a_single_folder">Mehrere Newsfeed 
+    in einen Ordner herunterladen</a></li>
+    <li><a href="#moving_a_feed_to_another_folder">Verschieben eines Feeds in 
+    einen anderen Ordner</a></li>
+  </ul>
+</div>
+
+<h3 id="feeds_vs_folders">Feeds gegen Ordner </h3>
+
+<p>Blogs &amp; Newsfeed-Accounts werden mittels zwei Konzepten organisiert:
+  <strong>Feeds</strong> und <strong>Ordner</strong>.</p>
+  
+<ul>
+  <li><strong>Feeds</strong> sind die Quellen f&#252;r Artikel/Postings. In diesen werden neue Artikeln von Blogs dargestellt.
+    Sie k&#246;nnen Feeds abonieren.</li>
+  <li><strong>Ordner</strong> in Blogs &amp; News Feeds Accounts arbeiten nach dem selben Prinzip wie Ornder
+    in allen anderen Account-Arten. Ordner speichern Artikel/Postings welche Sie durch Feeds erhalten haben.</li>
+</ul>
+
+<p>Mittels des Abonier-Dialogs in &brandShortName; legen Sie fest in welchen Ordner die Feeds gespeichert werden.
+  Da Feeds f&#252;r neue Artikel ben&#246;tigt werden und Ordner diese Artikel speichern, werden diese miteinander verkn&#252;pft.
+  Beachten Sie hierbei jedoch, dass beim L&#246;schen eines Feeds der entsprechende Ordner sowie alle bisherigen Artikel
+  erhalten bleiben, da diese im Ordner gespeichert sind.</p>
+
+<p>[<a href="#organizing_your_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h3 id="organizing_folders_in_blogs_and_news_feeds_accounts">Verwalten von 
+    Ordnern in Blog &amp; Newsfeed Accounts</h3>
+
+<p>Sie k&#246;nnen innerhalb Blogs &amp; Newsfeeds-Accounts wie auch in anderen Account-Arten erstellen, umbennnen, verschieben oder kopieren.
+  Mehr Detail finden Sie unter 
+  <a href="#creating_a_folder">Ordner anlegen</a>,
+  <a href="#renaming_a_folder">Ordner umbenennen</a> und
+  <a href="#moving_or_copying_a_folder">Ordner verschieben oder kopieren</a>.</p>
+
+<p>[<a href="#organizing_your_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h3 id="downloading_multiple_feeds_in_a_single_folder">Mehrere Newsfeed 
+    in einen Ordner herunterladen</h3>
+
+<p>M&#246;glicherweise wollen Sie einen einzigen Ordner zum Speichern der Artikel mehrerer Feeds verwenden. Um dies zu erreichen
+  m&#252;ssen Sie zus&#228;tzliche Feeds mit diesem Ordner verbinden. Starten Sie vom Mail-Fenster:</p>
+
+<ol>
+  <li>In der Account-&#252;bersicht, klicken sie auf den gew&#252;nschte Blogs &amp; News-Account oder einen darin enthaltenen Feed.</li>
+  <li>&#214;ffnen Sie das Datei-Men&#252; und w&#228;hlen Sie dort <q>Abonieren</q> (oder nutzen Sie eine der 
+    <a href="#getting_into_the_feed_subscriptions_dialog">anderen M&#246;glichkeiten</a> den Dialog 
+    zum Abonnieren eines Feeds zu &#246;ffnen).</li>
+  <li>Im Feed-Abonier-Dialog klicken sie auf den gew&#252;nschten Ordner und im Anschluss auf die 
+     Schaltfl&#228;che <q>Abonnieren</q>. Der Feed-Eingeschafts-Dialog erscheint.</li>
+  <li>Tippen (oder kopieren Sie) die URL des Feeds in das daf&#252;r vorgesehene Feld.</li>
+  <li>Klicken Sie auf OK um das Hinzuf&#252;gen des Feeds zu best&#228;tigen.</li>
+</ol>
+
+<p>[<a href="#organizing_your_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h3 id="moving_a_feed_to_another_folder">Verschieben eines Feeds in 
+    einen anderen Ordner</h3>
+
+<p>Sie k&#246;nnen Feeds von einem Ordner in einen anderen verschieben, indem Sie eine diese Methoden verwenden:</p>
+
+<ul>
+  <li>Drag &amp; Drop eines Feeds innerhalb des Feed-Abonier-Fensters.</li>
+  <li>Nutzen des Features <a href="#editing_a_feed">Einen Newsfeed editieren</a> Um den die Einstellung zu &#228;ndern, 
+    in welchen Ordner neue Artikel eines Feeds gespeichert werden sollen.</li>
+</ul>
+
+<p><strong>Hinweis</strong>: Bedenken Sie dass durch das Verschieben eines Feeds die bereits heruntergeladenen Artikel nicht beeinflusst werden.
+  Diese bleiben im bisherigen Ordner gespeichert.</p>
+
+<p>[<a href="#organizing_your_feeds">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
 <h1 id="working_offline">Offline arbeiten</h1>
 
 <div class="contentsBox">In diesem Abschnitt:
   <ul>
     <li><a href="#setting_up_mozilla_mail_and_newsgroups_to_work_offline">&brandShortName; Mail &amp; 
     Newsgroups zum Offline arbeiten einrichten</a></li>
-    <li><a href="#downloading_your_inbox_for_offline_use">Herunterladen des Posteingangs 
+    <li><a href="#downloading_all_messages_for_offline_use">Herunterladen Ihrer Nachrichten 
     f&#252;r die Offline-Arbeit</a></li>
     <li><a href="#downloading_an_individual_folder_for_offline_use">Herunterladen eines Ordners 
     f&#252;r die Offline-Arbeit</a></li>
@@ -3378,7 +3731,7 @@ Men&#252; <q>Datei</q>.</p>
     oder markierter Nachrichten f&#252;r die Offline-Arbeit</a></li>
     <li><a href="#downloading_directory_entries_for_offline_use">Herunterladen von 
     Verzeichniseintr&#228;gen zur Offline-Arbeit</a></li>
-    <li><a href="#setting_up_your_accounts_for_working_offline">Einrichtung Ihres Kontos 
+    <li><a href="#setting_up_your_accounts_for_working_offline">Einrichtung Ihres Accounts 
     f&#252;r die Offline-Arbeit</a></li>
     <li><a href="#selecting_items_for_offline_viewing">Verschiedene Elemente zum Offline 
     arbeiten ausw&#228;hlen</a></li>
@@ -3423,53 +3776,55 @@ Offline-Funktionen daf&#252;r nicht relevant sind.</p>
 Mail &amp; Newsgroups:</p>
 
 <ul>
-  <li>Eines oder mehrere Konten f&#252;r die Offline-Arbeit einrichten.</li>
-  <li>F&#252;r jedes Konto Einstellungen f&#252;r die Offline-Arbeit und die
+  <li>Einen oder mehrere Accounts f&#252;r die Offline-Arbeit einrichten.</li>
+  <li>F&#252;r jeden Account Einstellungen f&#252;r die Offline-Arbeit und die
       Speicherplatznutzung vornehmen.</li>
-  <li>Objekte ausw&#228;hlen (Konten, Ordner und Diskussionsforen), mit denen
+  <li>Objekte ausw&#228;hlen (Accounts, Ordner und Diskussionsforen), mit denen
       Sie offline arbeiten m&#246;chten.</li>
 </ul>
 
 <p>[<a href="#working_offline">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
-<h2 id="downloading_your_inbox_for_offline_use">Herunterladen des Posteingangs
+<h2 id="downloading_all_messages_for_offline_use">Herunterladen Ihrer Nachrichten
 f&#252;r die Offline-Arbeit</h2>
 
 <p>&brandShortName; Mail &amp; Newsgroups kann das Offline-Verfahren f&#252;r
-Ihre Inbox-Nachrichten automatisieren. Sie k&#246;nnen &brandShortName; Mail
-&amp; Newsgroups anweisen, Ihre Inbox-Nachrichten automatisch f&#252;r die
+Ihre Nachrichten automatisieren. Sie k&#246;nnen &brandShortName; Mail
+&amp; Newsgroups anweisen, Ihre Nachrichten automatisch f&#252;r die
 Offline-Arbeit herunterzuladen. Wenn Sie sp&#228;ter wieder online gehen,
 synchronisiert &brandShortName; Mail &amp; Newsgroups automatisch Ihre
-Inbox-Nachrichten mit dem Server.</p>
+Nachrichten mit dem Server.</p>
 
 <p>Vergessen Sie nicht das der Posteingang eines POP-Accounts automatisch
 heruntergeladen wird, womit dieser Abschnitt nicht auf POP-Accounts
 zutrifft.</p>
 
-<p>So laden Sie Ihre Inbox automatisch f&#252;r die Offline-Nutzung herunter
+<p>So laden Sie Ihre Nachrichten automatisch f&#252;r die Offline-Nutzung herunter
 (ausgehend vom Mail-Fenster):</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span>
   <span class="mac">&brandShortName;</span>
-      die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld 
-      Mail &amp; Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>W&#228;hlen Sie auf der linken Seite des Dialogfelds das Konto, dass Sie
-      offline nutzen m&#246;chten, und klicken Sie auf <q>Offline-Arbeit
-	  &amp; Speicherplatz</q>. (Diese Kategorie gibt es nicht f&#252;r
-	  POP-Accounts.)</li>
-  <li>Aktivieren Sie das Kontrollk&#228;stchen <q>Die Nachrichten im
-      Posteingang beim Offline-Arbeiten verf&#252;gbar machen</q>.</li>
+      die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld 
+      Mail &amp; Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie auf der linken Seite des Dialogfelds den Account, den Sie
+      offline nutzen m&#246;chten, und klicken Sie auf <q>Synchronisation &amp;
+      Speicherplatz</q>. (Diese Kategorie gibt es nicht f&#252;r
+      POP-Accounts.)</li>
+  <li>Aktivieren Sie das Kontrollk&#228;stchen <q>Nachrichten f&#252;r diesen Account 
+     auf diesem Rechner behalten</q>.</li>
   <li>Klicken Sie auf OK.</li>
-  <li>Im Mail-Fenster, klicken Sie in dem entsprechenden Account auf
-      irgendeinen Ordner, au&#223;er dem Posteingang. Zum Beispiel also auf
-	  <q>Vorlagen</q>. Dann klicken Sie wieder auf Posteingang und nun
-	  werden die Nachrichten heruntergeladen.</li>
-  <li>Sobald alles heruntergeladen wurde, klicken Sie auf die Online/Offline
-      Anzeige <img src="images/online.png" alt="" /> im rechten
-	  unteren Eck des Mail-Fensters (links neben dem Cookie-Symbol), um offline
-	  zu gehen.</li>
+  <li>Klicken Sie auf die Online/Offline-Anzeige <img src="images/online.png" alt=""/>
+    in der rechten unteren Ecke des Mail-Fensterst (links neben dem Cookie-Symbol),
+    um offline zu gehen. Sie werden gefragt, ob Sie Ihre Nachrichten f&#252;r die Offline-Nutzung 
+    heruntergeladen werden sollen. Klicken Sie auf <q>Herunterladen</q> um den Vorgang  zu starten.</li>
 </ol>
+
+<p><strong>Hinweis</strong>: Diese Einstellung betrifft auch neu erstellte Ordner. Die
+  Account-basierende Einstellung kann zwar f&#252;&#252;r 
+  <a href="#downloading_an_individual_folder_for_offline_use">einzelne Ordner</a> &#252;berschrieben werden,
+   diese ordnerbasierenden Einstellungen werden jedoch <em>gel&#246;scht</em> wenn Sie die 
+   Option <q>Nachrichten behalten</q> aktivieren.</p>
 
 <p>&brandShortName; Mail &amp; Newsgroups l&#228;dt automatisch alle
 Nachrichten in Ihrer Inbox herunter, sodass Sie diese offline lesen und
@@ -3505,7 +3860,7 @@ absendet, dann &#228;ndern Sie dies &#252;ber die Einstellungen im Men&#252;
 Herunterladen eines Ordners f&#252;r die Offline-Arbeit</h2>
 
 <p>Achtung POP-Accounts erlauben nicht das verwalten von Ordnern auf einem
-POP-Server, weswegen dieser Abschnitt somit nicht auf POP-Konten zutrifft.</p>
+POP-Server, weswegen dieser Abschnitt somit nicht auf POP-Accounts zutrifft.</p>
 
 <p>So laden Sie einen bestimmten Ordner f&#252;r die Offline-Nutzung herunter
 (ausgehend vom Mail-Fenster):</p>
@@ -3518,7 +3873,7 @@ POP-Server, weswegen dieser Abschnitt somit nicht auf POP-Konten zutrifft.</p>
   <span class="mac">&brandShortName;</span></q>
   und w&#228;hlen Sie <q>Eigenschaften</q>.</li>
 
-  <li>Klicken Sie auf die Registerkarte <q>Offline</q>.</li>
+  <li>Klicken Sie auf die Registerkarte <q>Synchronisation</q>.</li>
 
   <li>Aktivieren Sie das Kontrollk&#228;stchen <q>Diesen Ordner f&#252;r
       Offline-Gebrauch ausw&#228;hlen</q>.</li>
@@ -3698,49 +4053,48 @@ Vorgang.</p>
 
 <p>[<a href="#working_offline">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
-<h2 id="setting_up_your_accounts_for_working_offline">Einrichtung Ihres Kontos
+<h2 id="setting_up_your_accounts_for_working_offline">Einrichtung Ihres Accounts
 f&#252;r die Offline-Arbeit</h2>
 
-<p>Um eines oder mehrere Konten f&#252;r die Offline-Arbeit einzurichten,
+<p>Um einen oder mehrere Accounts f&#252;r die Offline-Arbeit einzurichten,
 verwenden Sie die Einstellungen f&#252;r Offline-Arbeit und Speicherplatz im
-Dialogfeld <q>Mail&amp;Newsgroups-Konto-Einstellungen</q>. Die einmal
+Dialogfeld <q>Mail&amp;Newsgroups-Accounts-Einstellungen</q>. Die einmal
 vorgenommenen Einstellungen brauchen Sie nicht mehr zu &#228;ndern, wenn Sie
 offline arbeiten. Welche Einstellungen verf&#252;gbar sind, h&#228;ngt von der
-Art des Kontos (IMAP-, POP- oder Foren-Konto) ab.</p>
+Art des Accounts (IMAP-, POP- oder Foren-Account) ab.</p>
 
 <p>Im Folgenden finden Sie eine Zusammenfassung der f&#252;r die Einrichtung
-eines Kontos f&#252;r die Offline-Arbeit erforderlichen Schritte:</p>
+eines Accounts f&#252;r die Offline-Arbeit erforderlichen Schritte:</p>
 
 <ol>
-  <li>Verwenden Sie f&#252;r jedes Konto, das Sie f&#252;r die Offline-Arbeit
-      einrichten m&#246;chten, das Dialogfeld <q>Mail &amp;
-	  Newsgroups-Konto-Einstellungen</q>, um Offline-Arbeit und
-	  Speicherplatznutzung f&#252;r dieses Konto einzustellen. Sie m&#252;ssen
-	  die Elemente ausw&#228;hlen (Konten, Ordner, Diskussionsforen), die Sie
-	  f&#252;r die Offline-Arbeit herunterladen m&#246;chten. Weitere
-	  Informationen finden Sie unter
-	  <a href="#selecting_items_for_offline_viewing">Verschiedene Elemente zum 
-          Offline arbeiten ausw&#228;hlen</a>.
+  <li>Verwenden Sie f&#252;r jeden Account, den Sie f&#252;r die Offline-Arbeit
+    einrichten m&#246;chten, das Dialogfeld <q>Mail &amp; Newsgroups 
+    Account-Einstellungen</q> Dialogfeld um die Synchronisation &amp; Speicherplatz 
+    Einstellungen f&#252;r diesen Account vorzunehmen. Sie m&#252;ssen die Objekte 
+    (Ordner und Newsgroups) ausw&#228;hlen, welche Sie zur Offline-Nutzung 
+    herunterladen wollen. Weitere Informationen finden Sie unter
+    <a href="#selecting_items_for_offline_viewing">Verschiedene Elemente zum 
+    Offline arbeiten ausw&#228;hlen</a>.
 
       <p>Wenn Sie diese Einstellungen einmal vorgenommen haben, brauchen Sie
 	  diese nicht mehr zu &#228;ndern. Weitere Informationen zu den
 	  Einstellungen f&#252;r Offline-Arbeit und Speicherplatznutzung finden Sie
-	  unter den Kontoarten
-	  <a href="#offline_and_disk_space_settings_imap">IMAP</a>,
-	  <a href="#disk_space_settings">POP</a> und
-	  <a href="#offline_and_disk_space_settings_nntp">Newsgroup</a>.</p>
+	  unter den Accountarten
+	  <a href="#synchronization_and_storage_settings_imap">IMAP</a>,
+	  <a href="#disk_space_settings_pop">POP</a>,
+          <a href="#disk_space_settings_blogs">Blogs</a> und
+	  <a href="#synchronization_and_storage_settings_nntp">Newsgroup</a>.</p>
 
-      <p><strong>Tipp</strong>: Um die Einstellungen f&#252;r Offline-Arbeit
-	  und Speicherplatznutzung f&#252;r das aktuelle Konto vorzunehmen,
-	  w&#228;hlen Sie <q>Offline</q> im Men&#252; <q>Datei</q> und
-	  anschlie&#223;end <q>Offline-Einstellungen</q>.</p></li>
+    <p><strong>Hinweis</strong>: Um die Synchronisation &amp;
+      Speicherplatz Einstellungen des aktuellen Accounts zu bearbeiten, &#246;ffnen Sie das Datei-Men&#252; und w&#228;hlen dort 
+      Offline, Offline-Einstellungen.</p>
 
   <li>&#214;ffnen Sie das Men&#252; <q>Datei</q> und w&#228;hlen Sie
       <q>Offline</q> und anschlie&#223;end <q>Jetzt
 	  herunterladen/synchronisieren</q> aus dem Untermen&#252;.</li>
 
   <li>W&#228;hlen Sie den Nachrichtentyp (Mail, Diskussionsforen oder beide),
-      den Sie herunterladen m&#246;chten.
+      den Sie herunterladen m&#246;chten.</li>
 
       <p><strong>Wichtig</strong>: Sie m&#252;ssen mindesten eine Kategorie
 	     (Mail-Nachrichten oder Foren-Nachrichten) ausw&#228;hlen, damit der
@@ -3764,7 +4118,7 @@ eines Kontos f&#252;r die Offline-Arbeit erforderlichen Schritte:</p>
 arbeiten ausw&#228;hlen</h2>
 
 <p>Um Mail- und Foren-Nachrichten offline lesen zu k&#246;nnen, m&#252;ssen Sie
-diese zun&#228;chst zum Herunterladen ausw&#228;hlen. Sie k&#246;nnen ein Konto
+diese zun&#228;chst zum Herunterladen ausw&#228;hlen. Sie k&#246;nnen einen Account
 auch komplett f&#252;r die Offline-Nutzung einrichten. Au&#223;erdem
 k&#246;nnen Sie die Ordner und Diskussionsforen ausw&#228;hlen, die Sie offline
 nutzen m&#246;chten.</p>
@@ -3778,16 +4132,11 @@ nicht ge&#246;ffnet haben, gehen Sie folgenderma&#223;en vor:</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld 
-	  Mail &amp; Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-
-  <li>W&#228;hlen Sie auf der linken Seite des Dialogfelds das Konto, dass Sie
-      offline nutzen m&#246;chten, und klicken Sie auf <q>Offline-Arbeit
-	  &amp; Speicherplatz</q>.</li>
-
-  <li>Klicken Sie auf <q>Ausw&#228;hlen</q>, wo Sie dann Ihre
-      IMAP-Accounts, Mail-Ordner und abonnierte Newsgruppen sehen.
-	  
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld 
+	  Mail &amp; Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie die Synchronisation &amp; Speicherplatz Kategorie f&#252;r den Account, welchen Sie &#228;ndern wollen.</li>
+  <li>Klicken Sie auf  <q>Erweitert</q> um Ihre IMAP-Ordner zu sehen, oder <q>Newsgruppen zum Offline-Lesen w&#228;hlen</q> 
+    um Ihre abonierten Newsgroups zu w&#228;hlen.
       <p><strong>Anmerkung</strong>: Sie sehen nur die Newsgruppen und Ordner
 	  die sie bereits <a href="#subscribing_to_newsgroups">abonniert</a>
 	  abonniert haben. POP-Accounts und lokale Mail-Ordner erscheinen nicht
@@ -3894,7 +4243,7 @@ oder Forensymbol versehen.</p>
 &amp; Newsgroups beim Umschalten in den Offline-Modus einzustellen,
 &#246;ffnen Sie das Men&#252; <q><span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span></q>,
 w&#228;hlen Sie <q>Einstellungen</q> und anschlie&#223;end die Kategorie
-<q>Offline-Arbeit &amp; Speicherplatz</q>. Sie k&#246;nnen festlegen, dass
+<q>Synchronisation &amp; Speicherplatz</q>. Sie k&#246;nnen festlegen, dass
 &brandShortName; Mail &amp; Newsgroups nachfragen soll, ob Sie beim Umschalten
 in den Offline-Modus Nachrichten herunterladen m&#246;chten, dass Nachrichten
 automatisch oder gar nicht heruntergeladen werden sollen.</p>
@@ -3921,7 +4270,7 @@ an den Server &#252;bertr&#228;gt.</p>
 &amp; Newsgroups beim Umschalten in den Online-Modus einzustellen, &#246;ffnen
 Sie das Men&#252; <q><span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span></q>, 
 w&#228;hlen Sie <q>Einstellungen</q> und anschlie&#223;end die
-Kategorie <q>Offline-Arbeit &amp; Speicherplatz</q>. Sie k&#246;nnen 
+Kategorie <q>Synchronisation &amp; Speicherplatz</q>. Sie k&#246;nnen
 estlegen, dass &brandShortName; Mail &amp; Newsgroups nachfragen soll, ob Sie
 ungesendete Nachrichten senden m&#246;chten, oder dass ungesendete Nachrichten
 automatisch oder gar nicht gesendet werden.</p>
@@ -3931,9 +4280,9 @@ automatisch oder gar nicht gesendet werden.</p>
 <h1 id="mail_and_newsgroups_account_settings">Mail &amp; Newsgroups-Account Einstellungen</h1>
 
 <p>Dieser Abschnitt beschreibt die Einstellungen, die Sie in der Dialogbox Mail
-&amp; Newsgroups Konto-Einstellungen vornehmen k&#246;nnen. Diese Einstellungen
-gelten nur f&#252;r das jeweilige Konto und nicht, im Gegensatz zu den
-Voreinstellungen, f&#252;r alle Konten.</p>
+&amp; Newsgroups Account-Einstellungen vornehmen k&#246;nnen. Diese Einstellungen
+gelten nur f&#252;r den jeweiligen Account und nicht, im Gegensatz zu den
+Voreinstellungen, f&#252;r alle Accounts.</p>
 
 <p>Wenn Sie die Einstellungen noch nicht vor sich haben, gehen Sie
 folgenderma&#223;en vor:</p>
@@ -3942,8 +4291,8 @@ folgenderma&#223;en vor:</p>
   <li>Beginnen Sie im Mail-Fenster.</li>
   <li>&#214;ffnen Sie das Men&#252; <span class="noMac">Bearbeiten</span>
   <span class="mac">&brandShortName;</span> und 
-  klicken Sie auf Mail &amp; Newsgroups-Konto-Einstellungen</li>
-  <li>W&#228;hlen Sie das Konto f&#252;r das Sie die Einstellungen &#228;ndern
+  klicken Sie auf Mail &amp; Newsgroups-Account-Einstellungen</li>
+  <li>W&#228;hlen Sie den Account f&#252;r den Sie die Einstellungen &#228;ndern
       oder ansehen wollen.</li>
 </ol>
 
@@ -3953,7 +4302,7 @@ folgenderma&#223;en vor:</p>
     <li><a href="#server_settings">Servereinstellungen</a></li>
     <li><a href="#copies_and_folders">Kopien &amp; Ordner</a></li>
     <li><a href="#addressing">Erstellen &amp; Adressieren</a></li>
-    <li><a href="#offline_and_disk_space">Offline &amp; Speicherplatz</a></li>
+    <li><a href="#synchronization_and_storage">Synchronisation &amp; Speicherplatz</a></li>
     <li><a href="#junk_settings">Junk-Mail Einstellungen</a></li>
     <li><a href="#return_receipts">Empfangsbest&#228;tigungen</a></li>
     <li><a href="#security">Sicherheit</a></li>
@@ -3966,37 +4315,66 @@ folgenderma&#223;en vor:</p>
 Account-Einstellungen</h2>
 
 <p>Dieser Abschnitt beschreibt, wie Sie Identit&#228;ts-Einstellungen wie z.B.
-den Benutzernamen, die R&#252;ckantwortadresse, und die Signaturdatei anzeigen
+den Benutzernamen, die R&#252;ckantwortadresse, und die Signatur anzeigen
 oder &#228;ndern. So &#246;ffnen Sie die Identit&#228;ts-Einstellungen
 (ausgehend vom Mail-Fenster):</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span>
   <span class="mac">&brandShortName;</span> 
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld 
-	  Mail &amp; Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>W&#228;hlen Sie den Kontonamen aus, den Sie &#228;ndern m&#246;chten.</li>
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld 
+	  Mail &amp; Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie den Accountnamen aus, den Sie &#228;ndern m&#246;chten.</li>
 </ol>
 
 <ul>
   <li><strong>Account-Name</strong>: Der Name dieses Accounts</li>
 
-  <li><strong>Standard-Identit&#228;t</strong>: Tragen Sie hier Ihren Namen, Ihre
-      E-Mail-Adresse, Ihre R&#252;ckantwortadresse (nur falls sie sich von Ihrer
-	  normalen E-Mail-Adresse unterscheidet) und Organisation (optional)
-	  ein.</li>
+  <li>F&#252;r alle Account-Arten auser Blogs &amp; Newsfeeds:
+    <ul>
+      <li><strong>Identit&#228;t</strong>: Tragen Sie hier Ihren Namen, Ihre
+        E-Mail-Adresse, Ihre R&#252;ckantwortadresse (nur falls sie sich von Ihrer
+        normalen E-Mail-Adresse unterscheidet) und Organisation (optional) ein.</li>
+      <li><strong>Signaturtext</strong>: Wenn Sie eine Signatur an alle Ihre abgehenden Emails 
+        anh&#228;ngen wollen, tragen sie den gew&#252;nschten Text in dieses Eingabefeld ein.
+        W&#228;hlen Sie die Option <strong>HTML verwenden</strong> um HTML-Codes zu erlauben,
+        z.B. &lt;b&gt;fett&lt;/b&gt; (optional).</li>
+      <li><strong>Stattdessen die Signatur aus einer Datei anh&#228;ngen</strong>: Hier k&#246;nnen 
+        Sie eine Signaturdatei (im Text-,HTML- oder Bild-Format) ah&#228;ngen anstatt diese h&#228;ndisch
+      einzugeben. Wenn Sie diese Option ausw&#228;hlen, wird immer die Signatur aus der Datei anstelle des
+      eingegebenen Textes verwendet. W&#228;hlen Sie <q>Durchsuchen</q> um die ensprechende Datei 
+      anzugeben (optional).
 
-  <li><strong>Diese Signatur anh&#228;ngen</strong>: Hier k&#246;nnen Sie eine
-      Signaturdatei (im Text- oder HTML-Format) f&#252;r ausgehende Nachrichten
-	  anh&#228;ngen. W&#228;hlen Sie <q>Durchsuchen</q> um die ensprechende
-	  Datei anzugeben (optional).</li>
-
+        <p>Mehr Signatur-Optionen finden Sie unter 
+        <a href="#addressing">Erstellen &amp; Adressieren</a>.</p>
+      </li>
   <li><strong>Meine vCard an Nachrichten anh&#228;ngen</strong>: Hier k&#246;nnen
       Sie einstellen ob Ihre vCard bei ausgehenden Nachrichten anh&#228;ngt
-	  werden soll. Klicken Sie auf <q>Karte bearbeiten</q> um die
-	  n&#246;tigen Informationen zu vervollst&#228;ndigen (optional).</li>
-</ul>
+	    werden soll. Klicken Sie auf <q>Karte bearbeiten</q> um die
+	    n&#246;tigen Informationen zu vervollst&#228;ndigen (optional).</li>
+    </ul>
+  </li>
 
+  <li>F&#252;r Blogs &amp; Newsfeed-Accounts:
+    <ul>
+      <li><strong>Beim Starten auf neue Artikel pr&#252;fen</strong>: Aktivieren Sie diese Option wenn 
+        Sie bei jedem Start von Mail &amp; Newsgroups automatisch
+        auf neue Blogs &amp; News-Nachrichten pr&#252;fen wollen.</li>
+      <li><strong>Alle [__] Minuten auf neue Artikel pr&#252;fen</strong>: Aktivieren Sie diese Option
+        um zu konfigurien, wie oft auf neue Feed-Nachrichten gepr&#252;ft werden soll. Sie k&#246;nnen jederzeit manuell
+        auf neue Nachrichten pr&#252;fen, in dem Sie auf <q>Get Msgs</q> im Mail-Fenster klicken.</li>
+      <li><strong>Als Standard die Artikel-Zusammenfassung anzeigen, anstatt 
+        die Webseite anzuzeigen</strong>: Aktivieren Sie die Option, wenn &brandShortName; eine kurze Zusammenfassung
+        des Artikels anzeigen soll,. anstatt die gesamte Webseite herunterzuladen. Das Anzeigen der Artikel-Zusammenfassung 
+        ist etwas schneller als das Anzeigen der gesamten Webseitem, es besteht jedoch die M&#246;glichkeit, dass Sie einen Teil 
+        des Artikels nicht sehen.</li>
+      <li><strong>Papierkorb beim Verlassen leeren</strong>: Hiermit wird eim Beenden von 
+        Mail &amp; Newsgroups der Papierkorb automatisch geleert.</li>
+      <li><strong>Abonnements verwalten...</strong>: Hiermit k&#246;nnen Sie den Feed-Abonier Dialog aufrufen, 
+        mit welchem Sie Feeds zu diesem Blogs &amp; Newsfeed-Account hinzuf&#252;gen, editieren und entfernen k&#246;nnen.</li>
+    </ul>
+  </li>
+</ul>
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
 <h2 id="server_settings">Mail &amp; Newsgroups-Account Einstellungen -
@@ -4066,26 +4444,26 @@ Sie wie folgt, beginnend aus dem Mail-Fenster, vor:</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>W&#228;hlen Sie den Kontonamen aus und klicken Sie auf die Kategorie
-      Server-Einstellungen. (Wenn Sie bei der Einrichtung des Kontos einen
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie den Accountnamen aus und klicken Sie auf die Kategorie
+      Server-Einstellungen. (Wenn Sie bei der Einrichtung des Accounts einen
 	  IMAP-Server ausgew&#228;hlt haben, werden die IMAP-Server-Einstellungen
 	  angezeigt.)</li>
 </ol>
 
 <ul>
   <li><strong>Server-Typ</strong>: Der Servertyp (IMAP Mail Server) den Sie
-      angegeben haben als Sie das Konto angelegt haben. Um den Servertyp
-	  f&#252;r das Konto zu &#228;ndern m&#252;ssen Sie das Konto l&#246;schen
+      angegeben haben als Sie den Account angelegt haben. Um den Servertyp
+	  f&#252;r den Account zu &#228;ndern m&#252;ssen Sie den Account l&#246;schen
 	  und dann neu erstellen.</li>
 
   <li><strong>Server-Name</strong>: Der Severname, den Sie beim Erstellen des
-      Kontos angegeben haben. Wenn Sie Probleme beim E-Mailempfang mit diesem
-	  Konto haben, &#252;berpr&#252;fen Sie ob der Servername korrekt ist.</li>
+      Accounts angegeben haben. Wenn Sie Probleme beim E-Mailempfang mit diesem
+	  Account haben, &#252;berpr&#252;fen Sie ob der Servername korrekt ist.</li>
 
   <li><strong>Benutzername</strong>: Der Benutzername, den Sie beim Erstellen
-      des Kontos angegeben haben.</li>
+      des Accounts angegeben haben.</li>
 
   <li><strong>Port</strong>: &#196;ndern Sie diese Einstellung nur wenn Sie
       dazu von Ihrem ISP oder Systemadministrator aufgefordert werden.</li>
@@ -4100,15 +4478,15 @@ Sie wie folgt, beginnend aus dem Mail-Fenster, vor:</p>
 	  unsicher sind, wenden Sie sich an den Mail-Server-Administrator oder
 	  Ihren ISP.</li>
 
-  <li><strong>Beim Starten auf neue Mail pr&#252;fen</strong>: W&#228;hlen Sie,
-      wenn Mail dieses Konto beim Start automatisch auf neue Nachrichten
-	  &#252;berpr&#252;fen soll.</li>
+  <li><strong>Beim Starten auf neue Mail pr&#252;fen</strong>: W&#228;hlen Sie diese Option,
+      wenn dieser Account beim Start automatisch auf neue Nachrichten
+	  &#252;berpr&#252;fen werden soll.</li>
 
   <li><strong>Alle [__] Minuten auf neue Nachrichten
       &#252;berpr&#252;fen</strong>: Klicken Sie auf diese Option und geben Sie
 	  anschlie&#223;end ein, in welchem Abstand (Minuten) neue Nachrichten
 	  abgefragt werden sollen. Wenn Sie diese Einstellung nicht
-	  ausw&#228;hlen, k&#246;nnen Sie das Konto jederzeit auf neue
+	  ausw&#228;hlen, k&#246;nnen Sie den Account jederzeit auf neue
 	  Nachrichten &#252;berpr&#252;fen, indem Sie auf <q>Abrufen</q> im
 	  Mail-Fenster klicken.</li>
 
@@ -4134,7 +4512,7 @@ Sie wie folgt, beginnend aus dem Mail-Fenster, vor:</p>
 	  <a href="#advanced_imap_server_settings">erweiterten IMAP Servereinstellungen</a>.</li>
 
   <li><strong>Lokales Verzeichnis</strong>: Der Ort auf Ihrer Festplatte, an
-      dem Ihre E-Mails f&#252;r dieses Konto gespeichert werden.</li>
+      dem Ihre E-Mails f&#252;r diesen Account gespeichert werden.</li>
 </ul>
 
 <h3 id="advanced_imap_server_settings">Erweiterte IMAP Servereinstellungen</h3>
@@ -4149,9 +4527,9 @@ Mail-Fenster):</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>W&#228;hlen Sie den Kontonamen aus und klicken Sie auf die Kategorie
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie den Accountnamen aus und klicken Sie auf die Kategorie
       Server-Einstellungen.</li>
   <li>Klicken Sie auf die Schaltfl&#228;che Erweitert, um folgende
       zus&#228;tzliche IMAP-Optionen festzulegen:
@@ -4177,26 +4555,26 @@ Mail-Fenster):</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>W&#228;hlen Sie den Kontonamen aus und klicken Sie auf die Kategorie
-      Server-Einstellungen. (Wenn Sie bei der Einrichtung des Kontos einen
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie den Accountnamen aus und klicken Sie auf die Kategorie
+      Server-Einstellungen. (Wenn Sie bei der Einrichtung des Accounts einen
 	  POP-Server ausgew&#228;hlt haben, werden die POP-Server-Einstellungen
 	  angezeigt.)</li>
 </ol>
 
 <ul>
   <li><strong>Server-Typ</strong>: Der Servertyp (POP Mail Server) den Sie
-      angegeben haben als Sie das Konto angelegt haben. Um den Servertyp
-	  f&#252;r das Konto zu &#228;ndern m&#252;ssen Sie das Konto l&#246;schen
+      angegeben haben als Sie den Account angelegt haben. Um den Servertyp
+	  f&#252;r den Account zu &#228;ndern m&#252;ssen Sie den Account l&#246;schen
 	  und dann neu erstellen.</li>
 
   <li><strong>Server-Name</strong>: Der Severname, den Sie beim Erstellen des
-      Kontos angegeben haben. Wenn Sie Probleme beim E-Mailempfang mit diesem
-	  Konto haben, &#252;berpr&#252;fen Sie ob der Servername korrekt ist.</li>
+      Account angegeben haben. Wenn Sie Probleme beim E-Mailempfang mit diesem
+	  Account haben, &#252;berpr&#252;fen Sie ob der Servername korrekt ist.</li>
 
   <li><strong>Benutzername</strong>: Der Benutzername, den Sie beim Erstellen
-      des Kontos angegeben haben.</li>
+      des Accounts angegeben haben.</li>
 
   <li><strong>Port</strong>: &#196;ndern Sie diese Einstellung nur wenn Sie
       dazu von Ihrem ISP oder Systemadministrator aufgefordert werden.</li>
@@ -4211,15 +4589,15 @@ Mail-Fenster):</p>
 	  unsicher sind, wenden Sie sich an den Mail-Server-Administrator oder
 	  Ihren ISP.</li>
 
-  <li><strong>Beim Starten auf neue Mail pr&#252;fen</strong>: W&#228;hlen Sie,
-      wenn Mail dieses Konto beim Start automatisch auf neue Nachrichten
-	  &#252;berpr&#252;fen soll.</li>
+  <li><strong>Beim Starten auf neue Mail pr&#252;fen</strong>: W&#228;hlen Sie diese Option,
+      wenn dieser Account beim Start automatisch auf neue Nachrichten
+	  &#252;berpr&#252;ft werden soll.</li>
 
   <li><strong>Alle [__] Minuten auf neue Nachrichten
       &#252;berpr&#252;fen</strong>: Klicken Sie auf diese Option und geben Sie
 	  anschlie&#223;end ein, in welchem Abstand (Minuten) neue Nachrichten
 	  abgefragt werden sollen. Wenn Sie diese Einstellung nicht
-	  ausw&#228;hlen, k&#246;nnen Sie das Konto jederzeit auf neue
+	  ausw&#228;hlen, k&#246;nnen Sie den Account jederzeit auf neue
 	  Nachrichten &#252;berpr&#252;fen, indem Sie auf <q>Abrufen</q> im
 	  Mail-Fenster klicken.</li>
 
@@ -4256,7 +4634,7 @@ Mail-Fenster):</p>
       Postausgangsserver (SMTP) f&#252;r diesen Account einstellen.</li>
 
   <li><strong>Lokales Verzeichnis</strong>: Der Ort auf Ihrer Festplatte, an
-      dem Ihre E-Mails f&#252;r dieses Konto gespeichert werden.</li>
+      dem Ihre E-Mails f&#252;r diesen Account gespeichert werden.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
@@ -4269,26 +4647,26 @@ Mail-Fenster):</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-      die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>W&#228;hlen Sie den Kontonamen aus und klicken Sie auf die Kategorie
-      Server-Einstellungen. (Wenn Sie bei der Einrichtung des Kontos einen
+      die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie den Accountnamen aus und klicken Sie auf die Kategorie
+      Server-Einstellungen. (Wenn Sie bei der Einrichtung des Accounts einen
 	  Newsgroup Server ausgew&#228;hlt haben, werden die
 	  Newsgroup-Server-Einstellungen angezeigt.)</li>
 </ol>
 
 <ul>
   <li><strong>Server-Typ</strong>: Der Servertyp (POP Mail Server) den Sie
-      angegeben haben als Sie das Konto angelegt haben. Um den Servertyp
-	  f&#252;r das Konto zu &#228;ndern m&#252;ssen Sie das Konto l&#246;schen
+      angegeben haben als Sie den Account angelegt haben. Um den Servertyp
+	  f&#252;r den Account zu &#228;ndern m&#252;ssen Sie den Account l&#246;schen
 	  und dann neu erstellen.</li>
 
   <li><strong>Server-Name</strong>: Der Severname, den Sie beim Erstellen des
-      Kontos angegeben haben. Wenn Sie Probleme beim E-Mailempfang mit diesem
-	  Konto haben, &#252;berpr&#252;fen Sie ob der Servername korrekt ist.</li>
+      Accounts angegeben haben. Wenn Sie Probleme beim E-Mailempfang mit diesem
+	  Account haben, &#252;berpr&#252;fen Sie ob der Servername korrekt ist.</li>
 
   <li><strong>Benutzername</strong>: Der Benutzername, den Sie beim Erstellen
-      des Kontos angegeben haben.</li>
+      des Accounts angegeben haben.</li>
 
   <li><strong>Port</strong>: &#196;ndern Sie diese Einstellung nur wenn Sie
       dazu von Ihrem ISP oder Systemadministrator aufgefordert werden.</li>
@@ -4302,7 +4680,7 @@ Mail-Fenster):</p>
       &#252;berpr&#252;fen</strong>: Klicken Sie auf diese Option und geben Sie
 	  anschlie&#223;end ein, in welchem Abstand (Minuten) neue Nachrichten
 	  abgefragt werden sollen. Wenn Sie diese Einstellung nicht
-	  ausw&#228;hlen, k&#246;nnen Sie das Konto jederzeit auf neue
+	  ausw&#228;hlen, k&#246;nnen Sie den Account jederzeit auf neue
 	  Nachrichten &#252;berpr&#252;fen, indem Sie auf <q>Abrufen</q> im
 	  Mail-Fenster klicken.</li>
 
@@ -4328,7 +4706,7 @@ Mail-Fenster):</p>
 	  Forum gelesen haben.</li>
 
   <li><strong>Lokales Verzeichnis</strong>: Der Ort auf Ihrer Festplatte, an
-      dem Ihre E-Mails f&#252;r dieses Konto gespeichert werden.</li>
+      dem Ihre E-Mails f&#252;r diesen Account gespeichert werden.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
@@ -4342,17 +4720,17 @@ Nachrichtenentw&#252;rfen und &#150;vorlagen vornehmen.</p>
 
 <p>Standardm&#228;&#223;ig speichert &brandShortName; Mail &amp; Newsgroups
 Kopien ausgehender Nachrichten im Ordner <q>Gesendete Nachrichten</q> des
-aktuellen Kontos. &brandShortName; Mail &amp; Newsgroups speichert
+aktuellen Accounts. &brandShortName; Mail &amp; Newsgroups speichert
 Nachrichtenentw&#252;rfe im Ordner <q>Entw&#252;rfe</q> und
-Nachrichtenvorlagen im Ordner <q>Vorlagen</q> des aktuellen Kontos.</p>
+Nachrichtenvorlagen im Ordner <q>Vorlagen</q> des aktuellen Accounts.</p>
 
 <p>So &#228;ndern Sie die Einstellungen f&#252;r Kopien und Ordner (ausgehend
 vom Mail-Fenster):</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
   <li>W&#228;hlen Sie den Account und klicken Sie auf Kopien &amp; Ordner.</li>
 </ol>
 
@@ -4360,8 +4738,8 @@ vom Mail-Fenster):</p>
   <li><strong>Eine Kopie behalten in</strong>: W&#228;hlen Sie aus, wo die
       Kopien der ausgehenden Mail- und Foren-Nachrichten gespeichert werden
 	  sollen. Wenn Sie nicht den Standardordner <q>Gesendete
-	  Nachrichten</q> f&#252;r das aktuelle Konto verwenden m&#246;chten,
-	  klicken Sie auf <q>Andere</q>, w&#228;hlen Sie ein Konto und dann
+	  Nachrichten</q> f&#252;r den aktuellen Account verwenden m&#246;chten,
+	  klicken Sie auf <q>Andere</q>, w&#228;hlen Sie einen Account und dann
 	  den Ordner zum Speichern von Kopien.</li>
 
   <li><strong>BCC an diese Adressen</strong>: Legen Sie fest, ob Blindkopien an
@@ -4370,15 +4748,15 @@ vom Mail-Fenster):</p>
 
   <li><strong>Nachrichtenentw&#252;rfe behalten in</strong>: Legen Sie fest, wo
       Nachrichtenentw&#252;rfe gespeichert werden sollen. Wenn Sie nicht den
-	  Standardordner <q>Entw&#252;rfe</q> f&#252;r das aktuelle Konto
+	  Standardordner <q>Entw&#252;rfe</q> f&#252;r den aktuellen Account
 	  verwenden m&#246;chten, klicken Sie auf <q>Andere</q>, w&#228;hlen
-	  Sie ein Konto und dann den Ordner zum Speichern von Entw&#252;rfen.</li>
+	  Sie einen Account und dann den Ordner zum Speichern von Entw&#252;rfen.</li>
 
   <li><strong>Nachrichtenvorlagen behalten in</strong>: Legen Sie fest, wo
       Nachrichtenvorlagen gespeichert werden sollen. Wenn Sie nicht den
-	  Standardordner <q>Vorlagen</q> f&#252;r das aktuelle Konto verwenden
-	  m&#246;chten, klicken Sie auf <q>Andere</q>, w&#228;hlen Sie ein
-	  Konto und dann den Ordner zum Speichern von Vorlagen.</li>
+	  Standardordner <q>Vorlagen</q> f&#252;r den aktuellen Account verwenden
+	  m&#246;chten, klicken Sie auf <q>Andere</q>, w&#228;hlen Sie einen
+	  Account und dann den Ordner zum Speichern von Vorlagen.</li>
 
   <li><strong>Beim Speichern von Nachrichten Best&#228;tigungsdialog
       anzeigen</strong>: Wenn Mail &amp; Newsgroups beim Speichern von
@@ -4395,8 +4773,18 @@ vom Mail-Fenster):</p>
 <h2 id="addressing">Mail &amp; Newsgroups-Account Einstellungen -
 Erstellen &amp; Adressieren</h2>
 
-<p>Hierbei k&#246;nnen Sie einstellen wie Nachrichten verschickt werden und wie
-mit Antworten umgegangen werden soll.</p>
+<p>Hierbei k&#246;nnen Sie einstellen wie Nachrichten verschickt werden, wie
+mit Antworten umgegangen werden soll und wie Ihre Signatur aussehn soll.</p>
+
+<p>Wenn Sie die Erstellen &amp; Adressierungs-Einstellungen noch nicht vor Sich sehen, folgen Sie diesen Anweisungen
+   vom Mail-Fenster aus:</p>
+
+<ol>
+    <li>&#214;ffnen Sie das <q><span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span></q>Men&#252;
+        und w&#228;hlen Sie dort <q>Mail &amp; Newsgroups-Account Einstellungen</q>. Das Mail &amp; Newsgroups-Account #
+        Einstellungs-Fenster erscheint.</li>
+    <li>W&#228;hlen Sie den gew&#252;nschten Mail-Account und klicken Sie auf die Erstellen &amp; Adressieren - Kategorie.</li>
+</ol>
 
 <ul>
   <li><strong>Nachrichten im HTML-Format verfassen</strong>: Verwendet den
@@ -4415,11 +4803,31 @@ mit Antworten umgegangen werden soll.</p>
 
   <li><strong>Originalnachricht beim Antworten automatisch zitieren</strong>:
       W&#228;hlen Sie diese Einstellungen um die Originalnachricht in die
-	  Antwort zu inkludieren.
-      
-	  <p>Verwenden Sie dann das Drop-down Men&#252; um zu w&#228;hlen wo der Cursor
-	  positioniert werden soll. &#220;ber oder unter dem zitierten Text. Genauso
-	  k&#246;nnen Sie auch angeben ob der zitierte Text markiert werden soll.</p></li>
+      Antwort zu inkludieren. Verwenden Sie dann das Drop-down Men&#252; 
+      um zu w&#228;hlen wo der Cursor positioniert werden soll. 
+      &#220;ber oder unter dem zitierten Text. Genauso k&#246;nnen Sie auch 
+      angeben ob der zitierte Text markiert werden soll.
+      <ul>
+          <li><strong>"und meine Signatur</strong>: Dieses Drop-down Men&#252;
+          erlaubt es Ihnen zu bestimmen, wo Ihre Signatur platziert werden soll.
+          Diese Option kann nur gew&#228;hlt werden, wenn Sie die Option 
+          <a href="#account_settings">Signatur anh&#228;ngen</a> aktiviert haben 
+          und ausgew&#228;hlt haben, den Cursor oberhalb des zitierten Textes zu 
+          platzieren.</li>
+      </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><strong>Signatur f&#228;r Antworten inkludieren</strong>: Wenn Sie eine
+    Signatur erzeugt haben, k&#246;nnen Sie mit dieser Option w&#228;hlen, ob 
+    Sie die Signatur beim Antworten auf eine Nachricht hinzuf&#228;gen m&#246;chen. 
+    Die Signatur wird entsprechend Ihrer Zitier- und Signatur-Einstellungen platziert.</li>
+  <li><strong>Signatur f&#228;r Weiterleitungen inkludieren</strong>: Wenn Sie eine
+    Signatur erzeugt haben, k&#246;nnen Sie mit dieser Option w&#228;hlen, ob
+    Sie die Signatur beim Weiterleiten einer Nachricht hinzuf&#228;gen m&#246;chten.
+    Wenn Sie die Nachricht <a href="#composition">Inline</a> weiterleiten wird die 
+    Nachricht entsprechend Ihrer Antwort-Einstellungen platziert.</li>
 </ul>
 
 <p>Mit den Adressierungseinstellungen setzen Sie die globalen
@@ -4428,7 +4836,7 @@ LDAP-Server-Einstellungen au&#223;er Kraft, die f&#252;r alle
 Voreinstellungen festgelegt wurden. Die LDAP-Server-Einstellungen beeinflussen
 das Verhalten der
 <a href="#address_autocompletion">Adress-Autovervollst&#228;ndigung</a> und Sie
-k&#246;nnen diese Einstellungen bei Bedarf f&#252;r jedes Konto &#228;ndern.</p>
+k&#246;nnen diese Einstellungen bei Bedarf f&#252;r jeden Account &#228;ndern.</p>
 
 <p>Die automatische Vervollst&#228;ndigung von Adressen durchsucht Ihre
 Adressb&#252;cher w&#228;hrend Ihrer Eingabe von E-Mail-Adressen im
@@ -4440,9 +4848,9 @@ Mail-Fenster):</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>Suchen Sie das Konto und klicken Sie auf die Kategorie Adressierung.</li>
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>Suchen Sie den Account und klicken Sie auf die Kategorie Adressierung.</li>
 </ol>
 
 <ul>
@@ -4452,12 +4860,12 @@ Mail-Fenster):</p>
   <li><strong>Globale LDAP-Server-Einstellungen f&#252;r diese Account
       benutzen</strong>: Dies ist die Standardeinstellung. W&#228;hlen Sie
 	  diese Option, wenn Sie die globalen LDAP-Server-Einstellungen f&#252;r
-	  dieses Konto nicht au&#223;er Kraft setzen wollen.</li>
+	  diesen Account nicht au&#223;er Kraft setzen wollen.</li>
 
   <li><strong>Einen anderen LDAP-Server verwenden</strong>: W&#228;hlen Sie
       diese Option und w&#228;hlen Sie anschlie&#223;end einen anderen
 	  LDAP-Server aus der Liste, wenn Sie f&#252;r die automatische
-	  Adressenvervollst&#228;ndigung f&#252;r dieses Konto einen anderen
+	  Adressenvervollst&#228;ndigung f&#252;r diesen Account einen anderen
 	  LDAP-Verzeichnis-Server verwenden m&#246;chten. Bei Bedarf k&#246;nnen
 	  Sie auf <q>Verzeichnisse bearbeiten</q> klicken, um einzelne
 	  Einstellungen f&#252;r den Verzeichnis-Server zu bearbeiten, einen
@@ -4472,87 +4880,84 @@ f&#252;r verschl&#252;sselte Nachrichten zu verwenden.</p>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
-<h2 id="offline_and_disk_space">Mail &amp; Newsgroups-Account Einstellungen -
-Offline &amp; Speicherplatz</h2>
+<h2 id="synchronization_and_storage">Mail &amp; Newsgroups Account Einstellungen -
+  Synchronisation &amp; Speicherplatz</h2>
+  
+<p>Mit Hilfe der Synchronisation &amp; Speicherplatz Einstellungen k&#246;nnen Sie Festplatten-Speicher sparen oder einen Account
+  so konfigurieren, diesen offline zu nutzen (wenn Sie vom Internet getrennt sind).</p>  
 
 <p>Offline &amp; Speicherplatz erlaubt es Ihnen Speicherplatz zu sparen oder
-ein Konto so einzurichten, dass Sie es benutzen k&#246;nnen w&#228;hrend Sie
+einen Account so einzurichten, dass Sie es benutzen k&#246;nnen w&#228;hrend Sie
 offline (vom Internet getrennt) sind. Die verf&#252;gbaren Einstellungen
-h&#228;ngen vom Servertyp(IMAP, POP oder News) des Kontos ab.</p>
+h&#228;ngen vom Servertyp (IMAP, POP oder News) des Accounts ab.</p>
 
 <div class="contentsBox">
   <ul>
-    <li><a href="#offline_and_disk_space_settings_imap">Offline- und Speicherplatzeinstellungen (IMAP)</a></li>
-    <li><a href="#disk_space_settings">Speicherplatzeinstellungen (POP)</a></li>
-    <li><a href="#offline_and_disk_space_settings_nntp">Offline- und Speicherplatzeinstellungen (News)</a></li>
+    <li><a href="#synchronization_and_storage_settings_imap">Synchronisation &amp; Speicherplatz Einstellungen (IMAP)</a></li>
+    <li><a href="#disk_space_settings_pop">Speicherplatzeinstellungen (POP)</a></li>
+    <li><a href="#disk_space_settings_blogs">Speicherplatzeinstellungen (Blogs)</a></li>
+    <li><a href="#synchronization_and_storage_settings_nntp">Synchronisation &amp; Speicherplatz Einstellungen (News)</a></li>
+    <li><a href="#retention_policy">Allgemeine Einstellungen f&#252;r Speicherdauer</a></li>
   </ul>
 </div>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
-<h3 id="offline_and_disk_space_settings_imap">Offline- und
-Speicherplatzeinstellungen (IMAP)</h3>
+<h3 id="synchronization_and_storage_settings_imap">Synchronisation &amp; Speicherplatz Einstellungen (IMAP)</h3>
 
-<p>So nehmen Sie Einstellungen f&#252;r Offline-Arbeit und Speicherplatznutzung
-vor (ausgehend vom Mail-Fenster):</p>
+<p>Wenn Sie die Synchronisation &amp; Speicherplatz Einstellungen f&#252;r einen IMAP-Account 
+   noch nicht sehn, starten Sie vom Mail-Fenster:</p>
 
 <ol>
-  <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span>
-  <span class="mac">&brandShortName;</span> 
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>W&#228;hlen Sie die Einstellungen <q>Offline und Speicherplatz</q>
-      f&#252;r ein IMAP-Konto.</li>
+  <li>&#214;ffnen sie das Men&#252; Bearbeiten und w&#228;hlen Sie Mail &amp; Newsgroups Account Einstellungen. Es erscheint
+    das Mail &amp; Newsgroup-Account Einstellungs Fenster.</li>
+  <li>W&#228;hlen sie die Synchronisation &amp; Speicherplatz Kategorie f&#252;r den gew&#252;nschten IMAP-Account.</li>
 </ol>
 
 <ul>
-  <li><strong>Die Nachrichten im Posteingang beim Offline-Arbeiten
-      verf&#252;gbar machen</strong>: Im aktiviertem Zustand sind Nachrichten
-	  im Posteingang offline verf&#252;gbar.</li>
+  <li><strong>Nachrichten f&#252;r diesen Account auf diesem Rechner behalten</strong>: W&#228;hlen Sie diese Option
+    um Nachrichten in Ihren Ordner verf&#252;gbar sein sollen, w&#228;hrend Sie sich im Offline-Modus befinden.
+    Diese Einstellunge betrifft alle Ordner auch neu angelegte.</li>
+  <li><strong>Advanced</strong>: Klicken Sie hier um einen Fenster zu &#246;ffnen, in welchen Sie die
+   Ordner f&#252;r den Offline-Gebrauch markieren k&#246;nnen. Siehe auch
+   <a href="#selecting_items_for_offline_viewing">Verschiedene Elemente zum Offline arbeiten ausw&#228;hlen</a>
+   f&#252;r mehr Informationen.
 
-  <li><strong>Wenn neue Ordner erstellt werden, diese f&#252;r Offline-Gebrauch
-      ausw&#228;hlen</strong>: Wenn dieses Kontrollk&#228;stchen aktiv ist,
-	  werden Ordner, die Sie neu anlegen, automatisch f&#252;r die
-	  Offline-Arbeit ausgew&#228;hlt. Wenn dieses Kontrollk&#228;stchen nicht
-	  aktiv ist, werden Ordner, die Sie neu anlegen, nicht automatisch f&#252;r
-	  die Offline-Arbeit ausgew&#228;hlt. Sie k&#246;nnen Ordner manuell
-	  f&#252;r die Offline-Arbeit ausw&#228;hlen unter Verwendung des Befehls
-	  <q>Jetzt herunterladen/synchronisieren</q> (im Men&#252;
-	  <q>Datei</q> unter <q>Offline</q>), oder indem Sie auf die
-	  Schaltfl&#228;che <q>W&#228;hlen</q> klicken (unter der Kategorie
-	  <q>Offline &amp; Speicherplatz</q> f&#252;r ein Konto).</li>
-
-  <li><strong>W&#228;hlen Sie Mail-Ordner und Newsgroups f&#252;r den
-      Offline-Gebrauch</strong>: Klicken Sie hier um die gew&#252;nschten
-	  Ordner f&#252;r den Offline-Gebrauch zu markieren. Siehe auch
-	  <a href="#selecting_items_for_offline_viewing">Verschiedene Elemente zum Offline arbeiten ausw&#228;hlen</a>
-      f&#252;r mehr Informationen.</li>
+    <p><strong>Hinweis</strong>: Die Account-basierende Einstellung 
+    kann zwar f&#252;r <a href="#downloading_an_individual_folder_for_offline_use">
+    einzelne Ordner</a> &#252;berschrieben werden, diese ordnerbasierenden Einstellungen 
+    werden jedoch <em>gel&#246;scht</em> wenn Sie die 
+   Option <q>Nachrichten f&#252;r diesen Account auf diesem Rechner behalten</q> aktivieren.</p>
+</li>
 
   <li><strong>Keine Nachrichten lokal herunterladen, die gr&#246;&#223;er sind
       als [__] KB</strong>: Wenn Sie dieses Kontrollk&#228;stchen aktivieren,
 	  k&#246;nnen Sie Speicherplatz sparen, indem Sie verhindern, dass
 	  umfangreiche Nachrichten heruntergeladen werden. Geben Sie die maximale
 	  Gr&#246;&#223;e f&#252;r herunterzuladende Nachrichten ein.</li>
+  <li>Die <a href="#retention_policy">Speicherdauer Einstellungen</a> k&#246;nnen dazu benutzt werden
+    Speicherpatz freizugeben, indem alte Nachrichten gel&#246;scht werden. Beachten Sie da&#223; diese Einstellung
+    sich <em>sowohl</em> auf die lokal gespeicherten sowie die Nachrichten am Server auswirkt.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
-<h3 id="disk_space_settings">Speicherplatzeinstellungen (POP)</h3>
+<h3 id="disk_space_settings_pop">Speicherplatzeinstellungen (POP)</h3>
 
-<p>Nachrichten aus POP-Konten werden immer auf den lokalen Rechner
+<p>Nachrichten aus POP-Accounts werden immer auf den lokalen Rechner
 heruntergeladen. Dieser Abschnitt beschreibt, wie Sie Speicherplatz f&#252;r
-ein POP-Konto sparen k&#246;nnen. Wenn die Einstellungen f&#252;r
-Offline-Arbeit und Speicherplatz f&#252;r ein POP-Konto noch nicht
+einen POP-Accounts sparen k&#246;nnen. Wenn die Einstellungen f&#252;r
+Offline-Arbeit und Speicherplatz f&#252;r einen POP-Account noch nicht
 ge&#246;ffnet sind, gehen Sie folgenderma&#223;en vor:</p>
 
 <p>Beginnend im Mail-Fenster.</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>W&#228;hlen Sie die Kategorie <q>Speicherplatz</q> f&#252;r ein
-      POP-Konto.</li>
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie die Kategorie <q>Speicherplatz</q> f&#252;r einen
+      POP-Account.</li>
 </ol>
 
 <ul>
@@ -4561,22 +4966,61 @@ ge&#246;ffnet sind, gehen Sie folgenderma&#223;en vor:</p>
 	  k&#246;nnen Sie Speicherplatz sparen, indem Sie verhindern, dass
 	  umfangreiche Nachrichten heruntergeladen werden. Geben Sie die maximale
 	  Gr&#246;&#223;e f&#252;r herunterzuladende Nachrichten ein.</li>
+  <li>Die <a href="#retention_policy">Speicherdauer Einstellungen</a> k&#246;nnen dazu benutzt werden
+    Speicherpatz freizugeben, indem alte Nachrichten gel&#246;scht werden. Beachten Sie da&#223; diese Einstellung
+    Sich <em>sowohl</em> auf die lokal gespeicherten sowie die Nachrichten am Server auswirkt.
+
+    <p><strong>Hinweis</strong>: Wenn Ihr POP-Account einen Globale Posteingabe benutzt greift 
+      die Speicherdauer-Einstellung des Ziel-Posteingangs.</p>
+  </li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
-<h3 id="offline_and_disk_space_settings_nntp">Offline- und
-Speicherplatzeinstellungen (News)</h3>
+<h3 id="disk_space_settings_blogs">Speicherplatzeinstellungen (Blogs)</h3>
+
+<p>Nachrichten von Blogs &amp; Newsfeed-Accounts werden lokal immer in deren Kurzform (Artikel-Zusammenfassung)
+  gespeichert, unabh&#228;ngig davon, ob Sie eingestellt haben, dass Sie den gesamten Artikel herunterladen wollen.
+  Es gibt jedoch Optionen mit denen Sie kontrollieren, wieviel Speicherplatz f&#252;r Ihren Blogs &amp; Newsfeed
+  Account verwendet werden soll. Wenn Sie die Speicherplatz-Einstellungen noch nicht vor sich haben,
+  folgen Sie diesen Schritten:</p>
+
+<p>Starten Sie vom Mail-Fenster aus.</p>
+
+<ol>
+  <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
+      die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie die Kategorie <q>Speicherplatz</q> f&#252;r eine Blogs &amp; Newsfeed-Account.</li>
+</ol>
+
+<p>Sie k&#246;nnen dort konfigurieren, welche Nachrichten gel&#246;scht werden sollen um Speicherplatz freizugeben:</p>
+
+<ul>
+  <li><strong>Keine Nachrichten l&#246;schen</strong>: W&#228;hlen sie diese Option
+    wenn Sie Nachrichten nicht automatisch l&#246;schen woll. Beachten Sie, dass bei Blogs mit vielen Eintr&#228;gen
+    dies den Speicherbedarf st&#228;ndig vergr&#246;ssert und dazu f&#252;hren kann, dass Sie hiermit Ihren Festplattenplatz ersch&#246;pfen.</li>
+  <li><strong>Alle l&#246;schen mit Ausnahme der neuesten [____] Nachrichten</strong>: W&#228;hlen Sie diese Option
+    um f&#252;r jeden Fed eine bestimmte Anzahl an Nachrichten zu behalten. Alle Nachrichten, welche dieses Maximum &#252;berschreiten
+    werden automatisch gel&#246;scht. Die Standard-Einstellung betr&#228;gt 1000 Nachrichten pro Feed.</li>
+  <li><strong>Nachrichten l&#246;schen, die &#228;lter als [__] Tage sind</strong>: W&#228;hlen Sie diese Option
+    wenn Sie Nachrichten f&#252;r Ihre Feeds nur eine gewisse Zeit aufbewahren woll (Standard-Einstellung: 30 Tage).</li>
+  <li><strong>Gekennzeichnete Nachrichten immer behalten</strong>: W&#228;hlen Sie diese Option um gekennzeichnete
+    Nachrichten immer zu speichern (nicht zu l&#246;schen), unabh&#228;ngig des Alters der Nachricht.</li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h3 id="synchronization_and_storage_settings_nntp">Synchronisation &amp; Speicherplatz Einstellungen (News)</h3>
 
 <p>So nehmen Sie Einstellungen f&#252;r Offline-Arbeit und Speicherplatznutzung
 vor (ausgehend vom Mail-Fenster):</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-      die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>W&#228;hlen Sie <q>Offline &amp; Speicherplatz</q> f&#252;r ein
-      Newsgroup-Konto aus.</li>
+      die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>W&#228;hlen Sie die Synchronisation &amp; Speicherplatz Kategorie f&#252;r den News-Account.</li>
 </ol>
 
 <ul>
@@ -4608,37 +5052,46 @@ Sie hier an welche Nachrichten Sie nicht lokal herunterladen wollen:</p>
 	  wurden.</li>
 </ul>
 
-<p>&brandShortName; kann automatisch Newsgroup-Nachrichten f&#252;r Sie
-l&#246;schen. Sie k&#246;nnen dies unter <strong>Wenn es Zeit ist, Nachrichten zu
-bereinigen</strong> einstellen:</p>
+<p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h3 id="retention_policy">Allgemeine Speicherdauer Einstellungen</h3>
+
+<p>&brandShortName; kann automatisch alte Nachrichten f&#252;r Sie l&#246;schen.
+
+  <strong>Um Speicherplatz freizugeben k&#246;nnen alte Nachrichten dauerhaft gel&#246;scht werden</strong>:</p>
 
 <ul>
-  <li><strong>Alle Nachrichten behalten</strong>: Beh&#228;lt alle Nachrichten
-      und l&#246;scht keine automatisch.</li>
-
-  <li><strong>Behalten der neuesten [__] Nachrichten</strong>: Geben Sie die
-      Anzahl der Nachrichten ein, die Sie behalten wollen. Mit dieser
-	  Einstellung werden nur die Nachrichten gel&#246;scht die &#228;lter als
-	  angegeben sind.</li>
-
-  <li><strong>Nachrichten, die in den letzten [__] Tagen angekommen sind</strong>:
-      Hierbei werden alle Nachrichten gespeichert die in den angebenen Tagen
-	  angekommen sind.</li>
+  <li><strong>Keine Nachrichten l&#246;schen</strong>: Alle Nachrichten behalten. Kein Automatisches 
+    L&#246;schen wird durchgef&#252;hrt.</li>
+  <li><strong>Alle l&#246;schen mit Ausnahme der neuesten [__] Nachrichten</strong>: Geben Sie 
+    die Anzahl der Nachrichten an, die Sie behalten wollen. Alle Nachrichten welche &#228;lter als diese 
+    Nachrichten sind werden gel&#246;scht.</li>
+  <li><strong>Nachrichten, die &#228;lter sind als [__] Tage l&#246;schen</strong>:
+    Hierbei werden alle Nachrichten gespeichert die in den angebenen Tagen
+    angekommen sind.</li>
 </ul>
 
-<p>Mit den beiden letzten Punkten, lassen sich die drei oberen Optionen noch
+<p>Mit den folgenden Einstellungen, lassen sich die drei oberen Optionen noch
 genauer konfigurieren. Speziell mit dem Punkt <q>Alle Nachrichten
 behalten</q> lassen sich gute Ergebnisse erzielen.</p> 
 
 <ul>
-  <li><strong>Nur ungelesene Nachrichten</strong>: W&#228;hlen Sie diese
-      Option wenn Sie &brandShortName; das l&#246;schen von ungelesenen
-	  Nachrichten verbieten wollen.</li>
-
-  <li><strong>Nur Nachrichtentexte die j&#252;nger als [__] Tage</strong>:
-      W&#228;hlen Sie diese Option wenn Sie &brandShortName; das l&#246;schen von
-	  Nachrichten die j&#252;nger als die angebenen Tage verbieten wollen.</li>
+  <li><strong>"Gelesene Nachrichten immer l&#246;schen</strong>: W&#228;hlen Sie diese Option,
+     wenn gelesene Nachrichten immer gelscht werden sollen.</li>
+  <li><strong>Gekennzeichnete Nachrichten immer behalten</strong>: Aktivieren Sie diese Option
+    wenn &brandShortName; gekennzeichnete Nachrichten nicht l&#246;schen soll.</li> 
+  <li><strong>Nur Nachrichtentexte die j&#252;nger als [__] Tage sind</strong>:
+    W&#228;hlen Sie diese Option wenn Sie &brandShortName; das l&#246;schen von
+    Nachrichten die j&#252;nger als die angebenen Tage verbieten wollen
+    (diese Option funktioniert nur f&#252;r News-Accounts).</li>
 </ul>
+
+<p>Diese Einstellungen k&#246;nnen f&#252;r einzelne Order &#252;berschrieben werden, in dem Sie in den Ordner-Einstellungen
+  das Speicherdauer-Tab &#246;ffnen.</p>
+
+<p><strong>Hinweis:</strong> Wenn die Nachrichten-Syncronisierung aktiviert ist (f&#252;r IMAP), oder die Nachrichten 
+  am Server belassen werden (f&#252;r POP Accounts), beziehen sich diese Einstellungen <em>sowohl</em> auf die lokale
+  Kopie und das Orgninal am Server.</p>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 <h2 id="junk_settings">Mail &amp; Newsgroups Account Settings - Junk Settings</h2>
@@ -4650,8 +5103,8 @@ so folgen Sie bitte folgenden Schritten:</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-      die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
+      die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
 
   <li>W&#228;hlen Sie die Option Junk-Mail Einstellungen f&#252;r den Account, welchen Sie bearbeiten wollen.</li>
 </ol>
@@ -4697,8 +5150,8 @@ bitte folgenden Schritten:</p>
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span>
   <span class="mac">&brandShortName;</span> 
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
   <li>Klicken Sie auf die Kategorie <q>Empfangsbest&#228;tigungen</q> Ihres
       Mail-Accounts.</li>
 </ol>
@@ -4762,15 +5215,15 @@ Einstellungen benutzen k&#246;nnen m&#252;ssen Sie sich ein oder mehrere E-Mail
 Zertifikate besorgen F&#252;r weitere Hinweise siehe
 <a href="mail_sec_help.xhtml">Nachrichten signieren &amp; verschl&#252;sseln</a>.</p>
 
-<p>Wenn Sie die Sicherheitseinstellungen f&#252;r das gew&#252;nschte Konto
+<p>Wenn Sie die Sicherheitseinstellungen f&#252;r den gew&#252;nschten Account
 noch nicht ansehen, beginnen Sie im Mail-Fenster:</p>
 
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span>
   <span class="mac">&brandShortName;</span> 
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
-  <li>Klicken Sie auf <q>Sicherheit</q> unterhalb des Kontonamens f&#252;r
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
+  <li>Klicken Sie auf <q>Sicherheit</q> unterhalb des Accountnamens f&#252;r
       das Sie die Sicherheitseinstellungen &#228;ndern wollen.</li>
 </ol>
 
@@ -4888,8 +5341,8 @@ anschauen, beginnen Sie bitte im Mail-Fenster:</p>
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span>
   <span class="mac">&brandShortName;</span> 
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
   <li>W&#228;hlen Sie die Kategorie <q>Lokale Ordner</q>.</li>
 </ol>
 
@@ -4906,7 +5359,7 @@ anschauen, beginnen Sie bitte im Mail-Fenster:</p>
 <h2 id="outgoing_server">Mail &amp; Newsgroups-Account Einstellungen -
 Postausgangsserver (SMTP)</h2>
 
-<p>Selbst wenn Sie mehrere News- oder Mail-Konten haben, brauchen Sie im
+<p>Selbst wenn Sie mehrere News- oder Mail-Accounts haben, brauchen Sie im
 Normalfall nur einen Server f&#252;r ausgehende Nachrichten(SMTP-Server), der
 die Zustellung der Nachrichten &#252;bernimmt.</p>
 
@@ -4916,8 +5369,8 @@ anschauen, beginnen Sie bitte im Mail-Fenster:</p>
 <ol>
   <li>W&#228;hlen Sie aus dem Men&#252; <span class="noMac">Bearbeiten</span>
   <span class="mac">&brandShortName;</span> 
-  die Option Mail &amp; Newsgroup-Konto-Einstellungen. Das Dialogfeld Mail &amp;
-	  Newsgroup-Konto-Einstellungen wird angezeigt.</li>
+  die Option Mail &amp; Newsgroup-Account-Einstellungen. Das Dialogfeld Mail &amp;
+	  Newsgroup-Account-Einstellungen wird angezeigt.</li>
   <li>Klicken Sie auf die Kategorie <q>Server f&#252;r ausgehende
       Nachrichten(SMTP-Server)</q>. Hier k&#246;nnen Sie entweder bestehende 
       Postausgangs-Server editieren, oder neuen anlegen. Falls Sie nicht wissen,
@@ -4962,7 +5415,7 @@ anschauen, beginnen Sie bitte im Mail-Fenster:</p>
         <li><strong>STARTTLS</strong>: Ben&#246;tigt eine STARTTLS verschl&#252;sselte
 		    Verbindung. Diese Art der Verschl&#252;sselung l&#228;uft standardm&#228;ssig auf dem
 			Standard-SMTP-Port 25.</li>
-        <li><strong>SMTP-over-SSL</strong>: Ben&#246;tigt eine SSL verschl&#252;sselte
+        <li><strong>SSL/TLS</strong>: Ben&#246;tigt eine SSL verschl&#252;sselte
 		    Verbindung (Auch bekannt als SMTPS). Der Standard-Port daf&#252;r ist 465.</li>
 </ul>
 </li>
@@ -5051,7 +5504,7 @@ folgenderma&#223;en vor:</p>
 <h2 id="message_display">Mail &amp; Newsgroups Einstellungen -
 Nachrichtenansicht</h2>
 
-<p>Hier k&#246;nnen Sie festlegen wie die Nachrichten in allen Konten angezeigt
+<p>Hier k&#246;nnen Sie festlegen wie die Nachrichten in allen Accounts angezeigt
 werden sollen(z.B. Schriftart und Farbe). Wenn Sie die Einstellungen noch nicht
 vor sich haben, gehen Sie folgenderma&#223;en vor:</p>
 
@@ -5106,22 +5559,22 @@ nach welcher Zeit eine Nachricht automatisch als gelesen markiert wird.
         <td><strong>Wird zu</strong>:</td></tr>
       <tr align="center">
         <td>:-)</td>
-        <td><img src="images/smile.png" alt="" /></td></tr>
+        <td><span class="smiley moz-smiley-s1" /></td></tr>
       <tr align="center">
         <td>:)</td>
-        <td><img src="images/smile.png" alt="" /></td></tr>
+        <td><span class="smiley moz-smiley-s1" /></td></tr>
       <tr align="center">
         <td>:-(</td>
-        <td><img src="images/frown.png" alt="" /></td></tr>
+        <td><span class="smiley moz-smiley-s2" /></td></tr>
       <tr align="center">
         <td>:(</td>
-        <td><img src="images/frown.png" alt="" /></td></tr>
+        <td><span class="smiley moz-smiley-s2" /></td></tr>
       <tr align="center">
         <td>;-)</td>
-        <td><img src="images/wink.png" alt="" /></td></tr>
+        <td><span class="smiley moz-smiley-s3" /></td></tr>
       <tr align="center">
         <td>;-p</td>
-        <td><img src="images/sick.png" alt="" /></td></tr>
+        <td><span class="smiley moz-smiley-s4" /></td></tr>
       </table>
   </li>
   </ul>
@@ -5208,7 +5661,7 @@ Sie nicht st&#228;ndig selbst nachschauen.</p>
 
 <p>Hier k&#246;nnen Sie Optionen (z.B. Optionen zum Weiterleiten von
 Nachrichten und Adressen-Autovervollst&#228;ndigung) zum Verfassen von
-Nachrichten f&#252;r alle Konten festlegen. Wenn Sie die Einstellungen noch
+Nachrichten f&#252;r alle Accounts festlegen. Wenn Sie die Einstellungen noch
 nicht vor sich haben, gehen Sie folgenderma&#223;en vor:</p>
 
 <ol>
@@ -5319,7 +5772,7 @@ E-Mail-Programme verwenden, die die HTML-Formatierung korrekt anzeigen
 k&#246;nnen. In Mail &amp; Newsgroups k&#246;nnen Sie festlegen, wie
 Nachrichten an diese Empf&#228;nger formatiert werden sollen: als Nur-Text, als
 HTML oder in beiden Formaten. Diese Voreinstellungen beziehen sich auf alle
-Mail-Konten, aber nicht auf Nachrichten in Diskussionsforen.</p>
+Mail-Accounts, aber nicht auf Nachrichten in Diskussionsforen.</p>
 
 <p>Jedes Mal, wenn Sie dem Adressbuch eine Person oder eine Visitenkarte
 hinzuf&#252;gen, k&#246;nnen Sie festlegen, ob dieser Empf&#228;nger
@@ -5387,9 +5840,9 @@ vor sich haben, gehen Sie wie folgt vor:</p>
           entfernen von LDAP-Verzeichnissen</a>.</p>
 
       <p><strong>Anmerkung</strong>: Die Einstellungen die Sie hier eingeben
-	  gelten f&#252;r alle Konten. Wenn Sie diese Einstellungen f&#252;r ein
-	  einzelnes Konto &#228;ndern m&#246;chten m&#252;ssen Sie den Dialog
-	  Adressierung des jeweiligen Kontos verwenden.</p></li>
+	  gelten f&#252;r alle Accounts. Wenn Sie diese Einstellungen f&#252;r einen
+	  einzelnen Account &#228;ndern m&#246;chten m&#252;ssen Sie den Dialog
+	  Adressierung des jeweiligen Accounts verwenden.</p></li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
@@ -5444,7 +5897,7 @@ nicht vor sich haben, tun Sie folgendes:</p>
 <p>Die Einstellungen zu den Empfangsbest&#228;tigungen werden verwendet, um
 anzugeben wie &brandShortName; mit Empfangsbest&#228;tigungen bei zu
 verschickenden E-Mails umgehen soll. Ebenso kann dies auch f&#252;r eingehende
-E-Mails eingestellt werden. Alle Einstellungen betreffen alle Mail-Konten.</p>
+E-Mails eingestellt werden. Alle Einstellungen betreffen alle Mail-Accounts.</p>
 
 <ul>
   <li><strong>Beim Senden von Nachrichten immer eine Empfangsbest&#228;tigung
@@ -5484,7 +5937,7 @@ lesen Sie
 <p>In den Zeichensatz Einstellungen k&#246;nnen Sie angeben, mit welchem Zeichensatz
   Nachrichten in allen Accounts angezeigt oder erstellt werden sollen. Wenn Sie noch nicht
   die Zeichensatz Einstellungen vor sich haben, folgen Sie diesen Schritten:</p>
-  
+
   <ol>
     <li>&#214;ffnen Sie das Men&#252; <span class="noMac">Bearbeiten</span>
     <span class="mac">&brandShortName;</span> und w&#228;hlen Sie Einstellungen.</li>
@@ -5519,8 +5972,9 @@ lesen Sie
 	nicht wollen w&#228;hlen Sie <q>Immer diesen Standard-Zeichensatz in
 	Antworten verwenden</q></li>
   </ul>
-  
+
 <p>[<a href="#mail_and_newsgroup_preferences">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
 <h2 id="offline_and_disk_space_preferences">Mail &amp; Newsgroups Einstellungen
 - Offline &amp; Speicherplatz</h2>
 
@@ -5551,11 +6005,11 @@ ver&#228;ndern.</p>
 	  eingespart wird.</li>
 </ul>
 
-<p>Weitere Informationen zur Offline-Arbeit finden Sie unter
-<a href="#working_offline">Offline arbeiten</a>.</p>
+<p>Weitere Informationen zur Offline-Arbeit finden Sie unter <a href="#working_offline">Offline arbeiten</a>.</p>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
 <p>&copyright.string;</p>
+
 </body>
 </html>

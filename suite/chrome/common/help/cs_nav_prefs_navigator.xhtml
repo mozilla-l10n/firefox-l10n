@@ -137,15 +137,22 @@ Schritte aus:</p>
 <ul>
     <li><strong>Browse-History</strong>:
     <ul>
-        <li><strong>Besuchte Seiten speichern f&#252;r die letzten [__] Tage</strong>:
-            Geben Sie die Anzahl der Tage ein, f&#252;r die &brandShortName; die
-            Webseiten, die Sie besucht haben, speichern soll. Zum Beispiel wenn
-            Sie die Nummer auf 10 Tage stellen, werden alle innerhalb der letzten
-            10 Tage besuchten Webseiten gespeichert.</li>
+      <li><strong>History l&#246;schen</strong>: Klicken Sie hier um die Liste der besuchten Seiten zu l&#246;schen.</li>
+      <li><strong>Besuchte Seiten immer f&#252;r mindestens [__] Tage speichern</strong>: Geben Sie hier die minimale
+	  Anzahl an Tagen ein, f&#252;r die &brandShortName; besuchte Seiten speichern soll.
+          Wenn Sie die History-Eintr&#228;ge nicht h&#228;ndisch l&#246;schen, merkt Sich &brandShortName;
+          die besuchten Seiten mindestens f&#252;r die Anzahl von Tagen, welche Sie hier konfiguriert haben, unabh&#228;ngig davon, wie die
+	  restlichen History-Einstellungen konfiguriert sind. Nach dieser Zeit l&#246;scht &brandShortName; die History-Eintr&#228;ge
+	  abh&#228;ngig von den n&#228;chsten beiden Einstellungen.</li>
+      <li><strong>Besuchte Seiten f&#252;r bis zu [__] Tage speichern</strong>: Geben Sie hier die Maximale Anzahl von Tagen an, f&#252;r die 
+	   &brandShortName; die besuchten Seiten speichern soll. Wenn Sie zum Beispiel 180 Tage konfigurieren, welche alle History-Eintr&#228;ge
+	   welche 180 Tage oder weniger alte sind aufbewahrt, es sei den Sie l&#246;schen diese h&#228;ndisch oder die maximale Anzahl von gespeicherten Seiten
+	   wird erreicht.</li>
+      <li><strong>Bis zu [__] besuchte Seiten speichern</strong>: Geben Sie hier die maximale Anzahl von Seiten ein, die &brandShortName; 
+	   speichern soll. Wenn die aktuelle Anzahl von besuchten Seiten diesen konfigurierten Wert &#252;berschreitet, werden die &#228;ltesten Eintr&#228;ge gel&#246;scht,
+	   um den Wert wieder zu erreichen.</li>
     </ul>
     </li>
-    <li><strong>History l&#246;schen</strong>: Um die Liste der besuchten Seiten
-        zu l&#246;schen.</li>
     <li><strong>Adressleisten-History</strong>:
     <ul>
         <li><strong>Adressleisten-History l&#246;schen</strong>: um die Liste der
@@ -292,13 +299,33 @@ folgende Schritte aus:</p>
           Aktivieren Sie diese Option wenn &brandShortName; w&#228;hrend einer Eingabe in die Adressleiste 
           automatisch Vorschl&#228;ge aus Ihrer History anzeigen soll.
           <ul>
-            <li><strong>Nur &#220;bereinstimmungen mit zuvor eingegebenen Webseiten</strong>: 
-              Zeigt nur Eintr&#228;ge, welche in der Adressleiste eingegeben wurden und nicht 
-              &#252;ber andere Wege z.B. durch Klicken eines Links auf einer 
-              Webseite ge&#246;ffnet wurden.</li>
+          <li><strong>Nur zuvor eingegebene Webseiten durchsuchen</strong>:
+            Zeigt nur Webseiten, welche Sie zuvor in der Adressleiste eingetippt haben und keine Seiten, 
+		  welche Sie auf anderem Wege ge&#246;ffnet haben, wie zum Beispiel durch Klick auf einen 
+		  Link auf einer Webseite.</li>
+          <li><strong>Nur in Adressen, nicht in Website-Titeln suchen</strong>: Zeigt nur
+		  Webseiten, wo der von Ihnen gesuchte Text in der Adresse vorkommt. Webseiten, wo
+		  der von Ihnen gesuchte Text im Seitentitel enthalten ist, werden nicht angezeigt, es sei den
+		  der gesuchte Text findet sich auch in der Adresse.</li>
+          <li><strong>&#220;bereinstimmung</strong>:
+            <ul>
+              <li><strong>&#220;berall in Adresse oder Titel</strong>: Es werden
+			 alle Webseiten angezeigt, in denen der gesuchte Text irgendwo im 
+			 Titel oder der Adresse enthalten ist.</li>
+              <li><strong>&#220;berall, aber bevorzugt an Wortgrenzen</strong>:  Es
+			 werden jene Adressen angezeigt, in denen der gesuchte Text irgenwo im Titel
+			 oder der Adresse enthalten ist. Vorkommen an Wort-Enden (dazu mehr im n&#228;chsten Punkt)
+			 werden jedoch bevorzugt. Dies ist die Standard-Einstellung.</li>
+              <li><strong>Nur an Wortgrenzen</strong>: Es werden nur jene
+			 Adressen angezeigt, welche am Anfang eines Wortes im Title oder der Adresse vorkommen.
+			 Hierbei ist zu beachten, dass ein Grossbuchstabe innerhalb eines Wortes als Wortanfang gez&#228;hlt wird.</li>
+              <li><strong>Nur am Beginn von Adresse oder Titel</strong>: 
+			 Es werden nur jene Webseiten angezeigt, in denen der gesuchte Text 
+			 am Anfang der Adresse oder des Titels vorkommt.</li>
+            </ul></li>
             <li><strong>Automatisch die beste &#220;bereinstimmung eintragen</strong>: W&#228;hrend Sie in
-              der Adressleiste einen Text eintippen, vervollst&#228;ndigt &brandShortName; automatisch
-              die Adresse der am besten passenden Webseite in der Adressleiste.
+		    der Adressleiste einen Text eintippen, vervollst&#228;ndigt &brandShortName; automatisch
+		    die Adresse der am besten passenden Webseite in der Adressleiste.e
               <span class="unix"><strong>Hinweis</strong>: Mit aktivieren dieser Option werden auch
               lokale Adressen (z.B. der Pfad zu Dateien auf Ihrer Festplatte) in der Adressleiste
               ausgef&#252;llt, auch wenn Sie die Option <q>Bei der Eingabe automatisch mit besuchten 
