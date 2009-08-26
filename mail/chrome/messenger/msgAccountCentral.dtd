@@ -16,6 +16,5 @@
 <!ENTITY junkSettings.label            "Roskapostin asetukset">
 <!ENTITY offlineLink.label             "Yhteydettömän tilan asetukset">
 
-
-<!ENTITY rssSectionHdr.label           "RSS-uutiset ja -verkkopäiväkirjat">
-<!ENTITY subscibeRSS.label             "Muokkaa tilauksia">
+<!ENTITY feedsSectionHdr.label        "Muokkaa">
+<!ENTITY subscribeFeeds.label         "Muokkaa tilauksia">

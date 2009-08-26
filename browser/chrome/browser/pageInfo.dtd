@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Oikeudet">
 <!ENTITY  permTab.accesskey     "O">
 <!ENTITY  permUseDefault        "Oletus">
+<!ENTITY  permAskAlways         "Kysy aina">
 <!ENTITY  permAllow             "Salli">
 <!ENTITY  permAllowSession      "Salli istunnon ajaksi">
 <!ENTITY  permBlock             "Estä">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Oikeus avata ponnahdusikkunoita">
 <!ENTITY  permCookie            "Oikeus asettaa evästeitä">
 <!ENTITY  permInstall           "Oikeus asentaa laajennuksia tai teemoja">
+<!ENTITY  permGeo               "Kerro sijainti">
 
 <!ENTITY  securityTab           "Turvallisuus">
 <!ENTITY  securityTab.accesskey "T">
@@ -106,9 +108,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Sivuston identiteetti">
-<!ENTITY  securityView.identity.owner    "Omistaja: ">
-<!ENTITY  securityView.identity.domain   "WWW-sivusto: ">
-<!ENTITY  securityView.identity.verifier "Varmentaja: ">
+<!ENTITY  securityView.identity.owner    "Omistaja:">
+<!ENTITY  securityView.identity.domain   "WWW-sivusto:">
+<!ENTITY  securityView.identity.verifier "Varmentaja:">
 
 <!ENTITY  securityView.privacy.header                   "Tietosuoja ja sivuhistoria">
 <!ENTITY  securityView.privacy.history                  "Onko sivustolla vierailtu ennen tätä päivää?">

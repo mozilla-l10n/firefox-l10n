@@ -1,4 +1,3 @@
-
 <!ENTITY  prefWindow.titleWin      "Asetukset">
 <!ENTITY  prefWindow.titleGNOME    "&brandShortName;in asetukset">
 <!ENTITY  prefWindow.styleWindows  "width: 44em; min-height: 38.5em;">
@@ -9,5 +8,5 @@
 <!ENTITY paneDisplay.title         "Viestin näyttö">
 <!ENTITY paneComposition.title     "Viestin kirjoitus">
 <!ENTITY paneAttachments.title     "Liitetiedostot">
-<!ENTITY panePrivacy.title         "Tietosuoja">
+<!ENTITY paneSecurity.title       "Turvallisuus">
 <!ENTITY paneAdvanced.title        "Lisäasetukset">

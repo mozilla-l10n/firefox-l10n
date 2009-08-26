@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey  "V">
 <!ENTITY organization.label  "Organisaatio:">
 <!ENTITY organization.accesskey  "O">
-<!ENTITY signature.label  "Liitä allekirjoitus:">
-<!ENTITY signature.accesskey  "L">
+<!ENTITY signatureText.label "Allekirjoitus:">
+<!ENTITY signatureText.accesskey "A">
+<!ENTITY signatureHtml.label "Käytä HTML:ää (esim. &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY signatureFile.label "Liitä tiedosto allekirjoituksena (tekstiä, HTML:ää tai kuva):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label  "Muokkaa…">
 <!ENTITY choose.label  "Valitse…">
 <!ENTITY choose.accesskey  "a">

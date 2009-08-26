@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey                       "s">
 <!ENTITY belowText.label                       "viestin loppuun (suositeltu)">
 <!ENTITY aboveText.label                       "vastaukseni jälkeen (ennen lainausta)">
+<!ENTITY includeSigOnReply.label              "Lisää allekirjoitus vastauksiin">
+<!ENTITY includeSigOnReply.accesskey          "L">
+<!ENTITY includeSigOnForward.label            "Lisää allekirjoitus välitettyihin viesteihin">
+<!ENTITY includeSigOnForward.accesskey        "a">

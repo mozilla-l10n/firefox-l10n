@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey  "h">
 <!ENTITY newAccountCmd.label  "Tili…">
 <!ENTITY newAccountCmd.accesskey  "T">
+<!ENTITY newMailAccountCmd.label "Sähköpostitili (pika-asennus)…">
+<!ENTITY newMailAccountCmd.accesskey "p">
 <!ENTITY openMessageFileCmd.label  "Avaa tallennettu viesti…">
 <!ENTITY openMessageFileCmd.accesskey  "A">
 <!ENTITY openAttachmentCmd.label  "Liitetiedostot">
@@ -44,8 +46,6 @@
 <!ENTITY compactFolders.accesskey		 "k">
 <!ENTITY emptyTrashCmd.label  "Tyhjennä roskakori">
 <!ENTITY emptyTrashCmd.accesskey		 "r">
-<!ENTITY importCmd.label  "Tuo toisista ohjelmista…">
-<!ENTITY importCmd.accesskey  "h">
 <!ENTITY offlineMenu.label "Yhteydetön tila">
 <!ENTITY offlineMenu.accesskey "Y">
 <!ENTITY offlineGoOfflineCmd.label "Työskentele yhteydettömässä tilassa">
@@ -98,9 +98,6 @@
 <!ENTITY folderPropsFolderCmd.label  "Kansion ominaisuudet…">
 <!ENTITY folderPropsNewsgroupCmd.label  "Keskusteluryhmän ominaisuudet…">
 <!ENTITY folderPropsCmd.accesskey  "O">
-<!ENTITY accountManagerCmd.label  "Tilien asetukset…">
-<!ENTITY accountManagerCmd.accesskey  "s">
-<!ENTITY accountManagerCmdUnix.accesskey  "A">
 <!ENTITY undoDeleteMsgCmd.label  "Kumoa Poista viesti">
 <!ENTITY redoDeleteMsgCmd.label  "Tee uudelleen Poista viesti">
 <!ENTITY undoMoveMsgCmd.label  "Kumoa Siirrä viesti">
@@ -203,6 +200,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey  "S">
 <!ENTITY ignoredThreadsCmd.label  "Ohitetut viestiketjut">
 <!ENTITY ignoredThreadsCmd.accesskey  "O">
+
 <!ENTITY headersMenu.label  "Otsaketiedot">
 <!ENTITY headersMenu.accesskey  "O">
 <!ENTITY headersAllCmd.label  "Täydelliset">
@@ -217,6 +215,16 @@
 <!ENTITY bodySanitized.accesskey  "Y">
 <!ENTITY bodyAsPlaintext.label  "Pelkkä teksti">
 <!ENTITY bodyAsPlaintext.accesskey  "P">
+
+<!ENTITY bodyMenuFeed.label "Syötteen viesti muodossa">
+<!ENTITY bodyMenuFeed.accesskey "S">
+<!ENTITY viewFeedWebPage.label "Verkkosivu">
+<!ENTITY viewFeedWebPage.accesskey "V">
+<!ENTITY viewFeedSummary.label "Yhteenveto">
+<!ENTITY viewFeedSummary.accesskey "Y">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Oletusmuotoilu">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "O">
+
 <!ENTITY viewAttachmentsInlineCmd.label  "Näytä liitteet viestiin sisällytettynä">
 <!ENTITY viewAttachmentsInlineCmd.accesskey  "N">
 
@@ -303,6 +311,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey  "T">
 <!ENTITY startPageCmd.label  "Aloitussivu">
 <!ENTITY startPageCmd.accesskey  "A">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label  "Viesti">
 <!ENTITY msgMenu.accesskey  "V">
 <!ENTITY newMsgCmd.label  "Uusi viesti">
@@ -322,6 +332,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label  "Vastaa kaikille">
 <!ENTITY replyToAllMsgCmd.accesskey	 "a">
 <!ENTITY replyToAllMsgCmd.key	 "r">
+<!ENTITY replyToListMsgCmd.label "Vastaa postituslistalle">
+<!ENTITY replyToListMsgCmd.accesskey  "p">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label  "Välitä">
 <!ENTITY forwardMsgCmd.accesskey  "ä">
 <!ENTITY forwardMsgCmd.key	 "l">
@@ -400,6 +413,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label  "Avaa viesti">
 <!ENTITY openMessageWindowCmd.accesskey  "i">
 <!ENTITY openMessageWindowCmd.key  "o">
+<!ENTITY openFeedMessage.label "Avaa syötteen viesti">
+<!ENTITY openFeedMessage.accesskey "A">
+<!ENTITY openFeedWebPageInWindow.label "Verkkosivu uuteen ikkunaan">
+<!ENTITY openFeedWebPageInWindow.accesskey "V">
+<!ENTITY openFeedSummaryInWindow.label "Yhteenveto uuteen ikkunaan">
+<!ENTITY openFeedSummaryInWindow.accesskey "Y">
+<!ENTITY openFeedWebPageInMP.label "Vaihda viestipaneelissa verkkosivun ja yhteenvedon kesken">
+<!ENTITY openFeedWebPageInMP.accesskey "V">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label  "Ikkuna">
@@ -407,20 +428,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label  "Työkalut">
 <!ENTITY tasksMenu.accesskey  "y">
-<!ENTITY addons.label "Lisäosat">
-<!ENTITY addons.accesskey "o">
-<!ENTITY activitymanager.label "Toimintojen hallinta">
-<!ENTITY activitymanager.accesskey "h">
 <!ENTITY messengerCmd.label  "Sähköposti ja keskusteluryhmät">
 <!ENTITY messengerCmd.accesskey  "S">
 <!ENTITY addressBookCmd.label  "Osoitekirja">
 <!ENTITY addressBookCmd.accesskey  "O">
-<!ENTITY runJunkControls.label  "Tunnista kansion roskapostit">
-<!ENTITY runJunkControls.accesskey  "u">
-<!ENTITY deleteJunk.label  "Poista kansiosta roskapostiviestiksi merkityt">
-<!ENTITY deleteJunk.accesskey  "P">
-<!ENTITY errorConsoleCmd.label  "Virhekonsoli">
-<!ENTITY errorConsoleCmd.accesskey  "V">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Lisäosat">
+<!ENTITY addons.accesskey "o">
+<!ENTITY activitymanager.label "Toimintojen hallinta">
+<!ENTITY activitymanager.accesskey "h">
 <!ENTITY filtersCmd.label  "Viestisuodattimet…">
 <!ENTITY filtersCmd.accesskey  "V">
 <!ENTITY filtersApply.label  "Suodata kansion viestit">
@@ -429,12 +445,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Suorita suodattimet viestille">
 <!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY runJunkControls.label  "Tunnista kansion roskapostit">
+<!ENTITY runJunkControls.accesskey  "u">
+<!ENTITY deleteJunk.label  "Poista kansiosta roskapostiviestiksi merkityt">
+<!ENTITY deleteJunk.accesskey  "P">
+<!ENTITY importCmd.label "Tuo toisista ohjelmista…">
+<!ENTITY importCmd.accesskey "T">
+<!ENTITY errorConsoleCmd.label  "Virhekonsoli">
+<!ENTITY errorConsoleCmd.accesskey  "V">
+<!ENTITY accountManagerCmd.label "Tilien asetukset…">
+<!ENTITY accountManagerCmd.accesskey "S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "a">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label  "Nouda viestit">
 <!ENTITY newMsgButton.label  "Kirjoita">
 <!ENTITY replyButton.label  "Vastaa">
 <!ENTITY replyAllButton.label  "Vastaa kaikille ">
+<!ENTITY replyListButton.label "Vastaa listalle">
 <!ENTITY forwardButton.label  "Välitä">
 <!ENTITY fileButton.label  "Tiedosto">
 <!ENTITY nextButton.label  "Seuraava">
@@ -466,6 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip  "Luo uusi viesti">
 <!ENTITY replyButton.tooltip  "Vastaa viestiin">
 <!ENTITY replyAllButton.tooltip  "Vastaa lähettäjälle ja kaikille vastaanottajille">
+<!ENTITY replyListButton.tooltip "Vastaa postituslistalle">
 <!ENTITY forwardButton.tooltip  "Välitä viesti eteenpäin">
 <!ENTITY fileButton.tooltip  "Tallenna valittu viesti">
 <!ENTITY nextButton.tooltip  "Siirry seuraavaan lukematta olevaan viestiin">
@@ -591,6 +622,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      present in the gloda search results.  The values can be found in
      messenger.properties with a prefix of "glodaSearch_results_why_". -->
 <!ENTITY glodaWhyColumn.label "Syy">
+<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
+     score assigned to the message as a result of the search.  The column
+     primarily exists to be sorted by, and its contents will probably have
+     little meaning for most users. -->
+<!ENTITY glodaScoreColumn.label "Pisteluku">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip  "Valitse näkyvät sarakkeet">
@@ -614,6 +650,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.tooltip  "Napsauta järjestääksesi saapumisjärjestyksen mukaan">
 <!ENTITY attachmentColumn.tooltip  "Napsauta järjestääksesi liitteiden mukaan">
 <!ENTITY glodaWhyColumn.tooltip "Napsauta järjestääksesi listaussyyn mukaan">
+<!ENTITY glodaScoreColumn.tooltip "Napsauta järjestääksi haun pisteluvun mukaan">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label  "Avaa viesti uudessa ikkunassa">
@@ -628,6 +665,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey  "r">
 <!ENTITY contextReplyAll.label  "Vastaa kaikille">
 <!ENTITY contextReplyAll.accesskey  "a">
+<!ENTITY contextReplyList.label "Vastaa listalle">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label  "Välitä">
 <!ENTITY contextForward.accesskey  "ä">
 <!ENTITY contextForwardAsAttachment.label  "Välitä eteenpäin liitteenä">
@@ -651,8 +690,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label  "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label  "Viestiin linkitettyjä kuvia ei ladattu tietosuojan takia.">
-<!ENTITY loadRemoteContentButton2.label  "Lataa kuvat nyt">
+<!ENTITY remoteContentMessage2.label "Viestiin linkitettyä sisältöä ei ladattu tietosuojan takia.">
+<!ENTITY loadRemoteContentButton3.label "Lataa linkitetty sisältö">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Tämä viesti voi olla huijaus">

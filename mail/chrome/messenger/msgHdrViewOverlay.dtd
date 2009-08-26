@@ -60,6 +60,7 @@
 <!ENTITY archiveButton.label "arkistoi">
 <!ENTITY hdrReplyButton.label "vastaa">
 <!ENTITY hdrReplyAllButton.label "vastaa kaikille">
+<!ENTITY hdrReplyListButton.label "vastaa listalle">
 <!ENTITY hdrForwardButton.label "välitä">
 <!ENTITY hdrJunkButton.label "roskapostiksi">
 <!ENTITY trashButton.tooltiptext "poista">
@@ -69,9 +70,6 @@
 <!ENTITY saveAsMenuItem.accesskey "t">
 <!ENTITY viewSourceMenuItem.label "näytä lähdekoodi…">
 <!ENTITY viewSourceMenuItem.accesskey "n">
-
-<!ENTITY hideDetailsButton.label "piilota tiedot">
-<!ENTITY showDetailsButton.label "näytä tiedot">
 
 <!ENTITY openAttachmentCmd.label     "Avaa">
 <!ENTITY openAttachmentCmd.accesskey		 "A">
