@@ -9,6 +9,6 @@
 <!ENTITY hideStatusBar.label "הסתרת שורת המצב">
 <!ENTITY moveResizeWindows.accesskey "ה">
 <!ENTITY moveResizeWindows.label "הזזה או שינוי גודל חלונות קיימים">
-<!ENTITY raiseLowerWindows.accesskey "ע">
+<!ENTITY raiseLowerWindows.accesskey "ר">
 <!ENTITY raiseLowerWindows.label "העברת חלון לקידמה או לרקע">
 <!ENTITY window.width "20em">

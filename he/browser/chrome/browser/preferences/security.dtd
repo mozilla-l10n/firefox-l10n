@@ -1,5 +1,5 @@
 <!ENTITY warnAddonInstall.label "הזהר אותי כאשר אתרים מנסים להתקין תוספות">
-<!ENTITY warnAddonInstall.accesskey "ז">
+<!ENTITY warnAddonInstall.accesskey "א">
 
 <!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
   The methods by which forged (phished) and attack sites will be detected by
@@ -22,7 +22,7 @@
 <!ENTITY  passwords.label               "סיסמאות">
 
 <!ENTITY  rememberPasswords.label "זכור סיסמאות לאתרים">
-<!ENTITY  rememberPasswords.accesskey "ס">
+<!ENTITY  rememberPasswords.accesskey "כ">
 <!ENTITY  passwordExceptions.label "חריגות…">
 <!ENTITY  passwordExceptions.accesskey "ר">
 

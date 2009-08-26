@@ -57,7 +57,7 @@
 <!ENTITY fullScreenExit.label "צא ממצב מסך מלא">
 <!ENTITY fullScreenExit.accesskey "צ">
 <!ENTITY closeWindow.label "סגור חלון">
-<!ENTITY closeWindow.accesskey "ח">
+<!ENTITY closeWindow.accesskey "ס">
 
 <!ENTITY bookmarksMenu.label "סימניות">
 <!ENTITY bookmarksMenu.accesskey "ס">
@@ -86,7 +86,6 @@
 <!ENTITY stopButton.tooltip "הפסק לטעון דף זה">
 <!ENTITY goEndCap.tooltip "עבור לכתובת שבסרגל המיקום">
 
-<!-- ### ENTITY feedButton.tooltip           "הירשם לדף זה…" -->
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY printButton.tooltip "הדפס דף זה">
 <!ENTITY locationItem.title "מיקום">
@@ -98,6 +97,11 @@
 <!ENTITY bookmarksButton.tooltip "מציג את הסימניות שלך">
 <!ENTITY bookmarksSidebarCmd.accesskey "ס">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 <!ENTITY historyButton.label "היסטוריה">
 <!ENTITY historyButton.tooltip "מציג דפים שראית לאחרונה">
@@ -158,9 +162,6 @@
 <!ENTITY clearRecentHistoryCmd.label            "מחק היסטוריה אחרונה">
 <!ENTITY clearRecentHistoryCmd.accesskey        "ה">
 
-<!-- ### ENTITY privateBrowsingCmd.label            "גלישה פרטית" -->
-<!-- ### ENTITY privateBrowsingCmd.accesskey        "פ" -->
-
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "התחל גלישה פרטית">
 <!ENTITY privateBrowsingCmd.start.accesskey     "ג">
@@ -180,8 +181,11 @@
 <!ENTITY historyMenu.label "היסטוריה">
 <!ENTITY historyMenu.accesskey "ה">
 <!ENTITY historyUndoMenu.label "לשוניות שנסגרו לאחרונה">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "חלונות שנסגרו לאחרונה">
+
 <!ENTITY historyHomeCmd.label "בית">
-<!ENTITY showAllHistoryCmd2.label "הצג את כל ההסטוריה">
+<!ENTITY showAllHistoryCmd2.label "הצג את כל ההיסטוריה">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
@@ -272,6 +276,8 @@
 <!ENTITY copyEmailCmd.accesskey "כ">
 <!ENTITY thisFrameMenu.label "מסגרת זו">
 <!ENTITY thisFrameMenu.accesskey "ג">
+
+<!ENTITY newTabButton.tooltip           "פתח לשונית חדשה">
 <!ENTITY newWindowButton.tooltip "פתח חלון חדש">
 <!ENTITY sidebarCloseButton.tooltip "סגור את סרגל הצד">
 <!ENTITY cutButton.tooltip "גזור">
@@ -370,8 +376,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ת">
 <!ENTITY editBookmark.done.label                      "סיום">
 
-<!ENTITY identity.moreInfoLinkText "ספר לי עוד אודות אתר זה...">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY editBookmark.cancel.label                   "ביטול">
@@ -401,5 +405,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "לחץ לפתיחת חלון ההורדות">
 
 <!ENTITY urlbar.emptyText             "חיפוש בסימניות ובהיסטוריה">
+<!ENTITY urlbar.bookmarkhistory.emptyText "חיפוש בסימניות והיסטוריה">
+<!ENTITY urlbar.bookmark.emptyText    "חיפוש בסימניות">
+<!ENTITY urlbar.history.emptyText     "חיפוש בהיסטוריה">
+<!ENTITY urlbar.none.emptyText        "הכנס כתובת">
 
 <!ENTITY ctrlTab.search.emptyText "חיפוש לשוניות">
