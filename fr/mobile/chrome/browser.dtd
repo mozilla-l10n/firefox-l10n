@@ -1,20 +1,11 @@
 <!ENTITY back.label            "Précédente">
-<!ENTITY back.tooltip          "Précédente">
 <!ENTITY forward.label         "Suivante">
-<!ENTITY forward.tooltip       "Suivante">
 <!ENTITY reload.label          "Actualiser">
-<!ENTITY reload.tooltip        "Actualiser">
 <!ENTITY stop.label            "Arrêter">
-<!ENTITY stop.tooltip          "Arrêter">
 <!ENTITY search.label          "Rechercher">
-<!ENTITY search.tooltip        "Rechercher">
 <!ENTITY go.label              "Aller">
-<!ENTITY go.tooltip            "Aller">
 <!ENTITY openLocation.label    "Ouvrir une adresse">
-<!ENTITY openLocation.tooltip  "Ouvrir une adresse">
 <!ENTITY star.label            "Marquer">
-<!ENTITY star.tooltip          "Marquer cette page">
-<!ENTITY bookmarks.tooltip     "Afficher les marque-pages">
 
 <!ENTITY newtab.label          "Nouvel onglet">
 <!ENTITY closetab.label        "Fermer l'onglet">
@@ -55,12 +46,13 @@
 <!ENTITY addonsRepo.label "Obtenir des modules">
 <!ENTITY addonsRecommended.label "Recommandés">
 <!ENTITY addonsSearch.label "Catalogue">
-<!ENTITY addonsSearch.emptytext "Rechercher des modules">
+<!ENTITY addonsSearch2.emptytext "Rechercher dans le catalogue">
+<!ENTITY addonsSearch.recommended  "Recommandés">
 
 <!ENTITY addonOptions.label "Options">
 <!ENTITY addonEnable.label "Activer">
 <!ENTITY addonDisable.label "Désactiver">
-<!ENTITY addonInstall.label "Installer">
+<!ENTITY addonInstall2.label "Ajouter à &brandShortName;">
 <!ENTITY addonUninstall.label "Désinstaller">
 <!ENTITY addonCancel.label "Annuler">
 <!ENTITY addonShowPage.label "Aller à la page">
@@ -70,7 +62,7 @@
 <!ENTITY downloadsSortSite.label "Site">
 <!ENTITY downloadsSortName.label "Nom">
 <!ENTITY downloadsSearch.label "Rechercher">
-<!ENTITY downloadsSearch.emptytext "Rechercher un fichier téléchargé">
+<!ENTITY downloadsSearch2.emptytext "Rechercher">
 
 <!ENTITY downloadShowPage.label "Aller à la page">
 <!ENTITY downloadShow2.label "Rechercher">
