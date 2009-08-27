@@ -58,6 +58,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "a">
+<!ENTITY showAllTabsCmd.label "Mostrar todos os separadores">
+<!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
 <!ENTITY fullScreenClose.tooltip "Pechar">
@@ -351,6 +353,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Colar">
+<!ENTITY fullScreenButton.tooltip       "Mostrar a xanela en pantalla completa">
+
 <!ENTITY quitApplicationCmdWin.label       "Saír">
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
 <!ENTITY goBackCmd.commandKey "[">
@@ -414,4 +418,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "producido por">
 <!ENTITY identity.moreInfoLinkText "Máis información…">
 <!ENTITY downloadMonitor2.tooltip "Prema para abrir a xanela de descargas">
-<!ENTITY ctrlTab.search.emptyText "Buscar separadores">
+<!ENTITY allTabs.filter.emptyText "Buscar separadores">
