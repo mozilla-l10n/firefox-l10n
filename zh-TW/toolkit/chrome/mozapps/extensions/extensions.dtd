@@ -54,7 +54,7 @@
 <!ENTITY cmd.options.accesskey            "O">
 <!ENTITY cmd.options.tooltip              "設定所選擴充套件的選項">
 <!ENTITY cmd.optionsUnix.label            "偏好設定">
-<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.accesskey        "P">
 <!ENTITY cmd.optionsUnix.tooltip          "編輯所選擴充套件的偏好設定">
 <!ENTITY cmd.enable.label                 "啟用">
 <!ENTITY cmd.enable.accesskey             "E">
