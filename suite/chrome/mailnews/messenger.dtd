@@ -41,6 +41,13 @@
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 
+<!-- tabmail -->
+<!ENTITY tabmailClose.label "Fermer l'onglet">
+<!ENTITY tabmailClose.tooltip "Fermer l'onglet">
+<!ENTITY tabmailNewButton.tooltip "Dupliquer l'onglet courant">
+<!ENTITY tabmailCloseButton.tooltip "Fermer l'onglet courant">
+<!ENTITY tabmailAllTabs.tooltip "Lister tous les onglets">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
@@ -50,6 +57,11 @@
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY newVirtualFolderCmd.label "Dossier virtuel…">
 <!ENTITY newVirtualFolderCmd.accesskey "r">
+<!ENTITY newTabCmd.label "Dupliquer l'onglet">
+<!ENTITY newTabCmd.accesskey "u">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Fermer l'onglet">
+<!ENTITY closeTabCmd.accesskey "F">
 <!ENTITY newAccountCmd.label "Compte…">
 <!ENTITY newAccountCmd.accesskey "p">
 <!ENTITY openMessageFileCmd.label           "Ouvrir un fichier…">
@@ -65,13 +77,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "M">
 <!ENTITY getNewMsgCmd.label "Relever les nouveaux messages">
 <!ENTITY getNewMsgCmd.accesskey "R">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Relever les nouveaux messages pour">
 <!ENTITY getNewMsgForCmd.accesskey "l">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tous les comptes">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "c">
 <!ENTITY getAllNewMsgCmd.label "Relever tous les nouveaux messages">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Relever les 500 prochains messages">
 <!ENTITY getNextNMsgCmd.accesskey "s">
 <!ENTITY sendUnsentCmd.label "Envoyer les messages en attente">
@@ -84,11 +96,11 @@
 <!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
 <!ENTITY emptyTrashCmd.accesskey "V">
-<!ENTITY offlineMenu.label                  "Hors connexion">
+<!ENTITY offlineMenu.label                  "Hors ligne">
 <!ENTITY offlineMenu.accesskey "D">
 <!ENTITY synchronizeOfflineCmd.label "Synchroniser…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Paramètres hors connexion…">
+<!ENTITY settingsOfflineCmd.label "Paramètres hors ligne…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Relever les messages sélectionnés">
 <!ENTITY downloadSelectedCmd.accesskey "m">
@@ -164,6 +176,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showMessagePaneCmd.label "Messages">
 <!ENTITY showMessagePaneCmd.accesskey "e">
+<!ENTITY showThreadPaneCmd.label "Panneau des fils de discussions">
+<!ENTITY showThreadPaneCmd.accesskey "P">
 <!ENTITY showFolderPaneCmd.label "Dossiers">
 <!ENTITY showFolderPaneCmd.accesskey "D">
 
@@ -506,6 +520,8 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Ouvrir dans une nouvelle fenêtre">
 <!ENTITY contextOpenNewWindow.accesskey "n">
+<!ENTITY contextOpenNewTab.label "Ouvrir le message dans un nouvel onglet">
+<!ENTITY contextOpenNewTab.accesskey "O">
 <!ENTITY contextEditAsNew.label "Modifier comme un nouveau message…">
 <!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Archiver">
@@ -540,6 +556,8 @@
 <!ENTITY folderContextGetMessages.accesskey "R">
 <!ENTITY folderContextOpenNewWindow.label "Ouvrir dans une nouvelle fenêtre">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenNewTab.label "Ouvrir dans un nouvel onglet">
+<!ENTITY folderContextOpenNewTab.accesskey "O">
 <!ENTITY folderContextRename.label "Renommer">
 <!ENTITY folderContextRename.accesskey "m">
 <!ENTITY folderContextRemove.label "Supprimer">
