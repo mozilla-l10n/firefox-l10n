@@ -14,7 +14,6 @@
 <!ENTITY openLocation.tooltip  "開啟網址">
 <!ENTITY star.label            "星號">
 <!ENTITY star.tooltip          "將本頁加入書籤">
-<!ENTITY bookmarks.label       "書籤">
 <!ENTITY bookmarks.tooltip     "檢視書籤">
 
 <!ENTITY newtab.label          "開新分頁">
@@ -82,6 +81,13 @@
 <!ENTITY downloadRetry.label       "重試">
 
 <!ENTITY noResults.label           "沒有結果">
+<!ENTITY allBookmarks.label        "顯示所有書籤">
+
+<!ENTITY searchEngine.addSearch     "Add Search:">
+
+<!ENTITY bookmarkPopup.label       "此頁已加入書籤">
+<!ENTITY bookmarkRemove.label      "移除">
+<!ENTITY bookmarkEdit.label        "編輯">
 
 <!ENTITY identity.unverifiedsite2 "此網站沒有提供身分識別資訊。">
 <!ENTITY identity.connectedTo2 "連線到">
@@ -99,10 +105,9 @@
 <!ENTITY consoleMessages.label     "訊息">
 <!ENTITY consoleCodeEval.label     "程式碼:">
 <!ENTITY consoleClear.label        "清除">
-<!ENTITY consoleEvaluate.label     "執行">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "原始檔:">
 <!ENTITY consoleErrLine.label      "行號:">
 <!ENTITY consoleErrColumn.label    "欄數:">
 
 <!ENTITY selectListDone.label      "完成">
-<!ENTITY selectListDisplay.format  "#1 個項目">
