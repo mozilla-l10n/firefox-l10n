@@ -29,6 +29,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY prefsHeader.label                             "Nuostatos">
+<!ENTITY about.title                                   "Apie „&brandShortName;“">
+<!ENTITY about.button                                  "Atverti tinklalapį">
+<!ENTITY about.description                             "Pagalba ir informacija apie programą">
 <!ENTITY content.title                                 "Turinys">
 <!ENTITY showImages.title                              "Įkelti paveikslus">
 <!ENTITY enableJavaScript.title                        "Leisti naudoti „JavaScript“">

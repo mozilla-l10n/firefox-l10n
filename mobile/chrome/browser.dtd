@@ -31,22 +31,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY back.label                       "Atgal">
-<!ENTITY back.tooltip                     "Atgal">
 <!ENTITY forward.label                    "Pirmyn">
-<!ENTITY forward.tooltip                  "Pirmyn">
 <!ENTITY reload.label                     "Naujinti">
-<!ENTITY reload.tooltip                   "Naujinti">
 <!ENTITY stop.label                       "Stabdyti">
-<!ENTITY stop.tooltip                     "Stabdyti">
 <!ENTITY search.label                     "Ieškoti">
-<!ENTITY search.tooltip                   "Ieškoti">
 <!ENTITY go.label                         "Eiti">
-<!ENTITY go.tooltip                       "Eiti">
 <!ENTITY openLocation.label               "Atverti tinklavietę">
-<!ENTITY openLocation.tooltip             "Atverti tinklavietę">
 <!ENTITY star.label                       "Žvaigždutė">
-<!ENTITY star.tooltip                     "Įtraukti į adresyną">
-<!ENTITY bookmarks.tooltip                "Rodyti adresyną">
 
 <!ENTITY newtab.label                     "Nauja kortelė">
 <!ENTITY closetab.label                   "Užverti kortelę">
@@ -86,13 +77,14 @@
 <!ENTITY addonsLocal.label                "Įdiegti priedai">
 <!ENTITY addonsRepo.label                 "Siųstis priedų">
 <!ENTITY addonsRecommended.label          "Rekomendacijos">
-<!ENTITY addonsSearch.label               "Ieškoti kataloge">
-<!ENTITY addonsSearch.emptytext           "Ieškoti priedų">
+<!ENTITY addonsSearch.label               "Ieškoti">
+<!ENTITY addonsSearch2.emptytext          "Ieškoti kataloge">
+<!ENTITY addonsSearch.recommended         "Rekomenduojamas">
 
 <!ENTITY addonOptions.label               "Nuostatos">
 <!ENTITY addonEnable.label                "Įjungti">
 <!ENTITY addonDisable.label               "Išjungti">
-<!ENTITY addonInstall.label               "Įdiegti">
+<!ENTITY addonInstall2.label              "Įdiegti į „&brandShortName;“">
 <!ENTITY addonUninstall.label             "Pašalinti">
 <!ENTITY addonCancel.label                "Atsisakyti">
 <!ENTITY addonShowPage.label              "Eiti į tinklalapį">
@@ -102,7 +94,7 @@
 <!ENTITY downloadsSortSite.label          "Pagal svetainę">
 <!ENTITY downloadsSortName.label          "Pagal pavadinimą">
 <!ENTITY downloadsSearch.label            "Ieškoti">
-<!ENTITY downloadsSearch.emptytext        "Ieškoti atsiųsto failo">
+<!ENTITY downloadsSearch2.emptytext       "Ieškoti">
 
 <!ENTITY downloadShowPage.label           "Eiti į tinklalapį">
 <!ENTITY downloadShow2.label              "Parodyti">
@@ -114,6 +106,8 @@
 
 <!ENTITY noResults.label                  "Rezultatų nėra">
 <!ENTITY allBookmarks.label               "Visi adresyno įrašai">
+
+<!ENTITY searchEngine.addSearch           "Įtraukti ieškyklę:">
 
 <!ENTITY bookmarkPopup.label              "Tinklalapis įrašytas į adresyną">
 <!ENTITY bookmarkRemove.label             "Pašalinti">
