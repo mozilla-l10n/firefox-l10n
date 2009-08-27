@@ -1,4 +1,7 @@
 <!ENTITY prefsHeader.label "Tercihler">
+<!ENTITY about.title "&brandShortName; hakkında">
+<!ENTITY about.button "Sayfaya git">
+<!ENTITY about.description "Yardım ve ürün bilgileri">
 <!ENTITY content.title "İçerik">
 <!ENTITY showImages.title "Resimleri göster">
 <!ENTITY enableJavaScript.title "JavaScript'i etkinleştir">

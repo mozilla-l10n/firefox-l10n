@@ -1,20 +1,11 @@
 <!ENTITY back.label "Geri">
-<!ENTITY back.tooltip "Geri">
 <!ENTITY forward.label "İleri">
-<!ENTITY forward.tooltip "İleri">
 <!ENTITY reload.label "Tazele">
-<!ENTITY reload.tooltip "Tazele">
 <!ENTITY stop.label "Dur">
-<!ENTITY stop.tooltip "Dur">
 <!ENTITY search.label "Ara">
-<!ENTITY search.tooltip "Ara">
 <!ENTITY go.label "Git">
-<!ENTITY go.tooltip "Git">
 <!ENTITY openLocation.label "Konumu aç">
-<!ENTITY openLocation.tooltip "Konumu aç">
 <!ENTITY star.label "Yıldız">
-<!ENTITY star.tooltip "Bu sayfayı yer imlerine ekle">
-<!ENTITY bookmarks.tooltip "Yer imlerini göster">
 
 <!ENTITY newtab.label "Yeni sekme">
 <!ENTITY closetab.label "Sekmeyi kapat">
@@ -55,12 +46,13 @@
 <!ENTITY addonsRepo.label "Eklenti edin">
 <!ENTITY addonsRecommended.label "Tavsiye edilen">
 <!ENTITY addonsSearch.label "Ara">
-<!ENTITY addonsSearch.emptytext "Tüm eklentileri ara">
+<!ENTITY addonsSearch2.emptytext "Katalogda ara">
+<!ENTITY addonsSearch.recommended "Tavsiye edilen">
 
 <!ENTITY addonOptions.label "Seçenekler">
 <!ENTITY addonEnable.label "Etkinleştir">
 <!ENTITY addonDisable.label "Etkisizleştir">
-<!ENTITY addonInstall.label "Kur">
+<!ENTITY addonInstall2.label "&brandShortName; uygulamasına ekle">
 <!ENTITY addonUninstall.label "Kaldır">
 <!ENTITY addonCancel.label "Vazgeç">
 <!ENTITY addonShowPage.label "Sayfaya git">
@@ -70,7 +62,7 @@
 <!ENTITY downloadsSortSite.label "Site">
 <!ENTITY downloadsSortName.label "İsim">
 <!ENTITY downloadsSearch.label "Ara">
-<!ENTITY downloadsSearch.emptytext "İndirilenlerde ara">
+<!ENTITY downloadsSearch2.emptytext "Ara">
 
 <!ENTITY downloadShowPage.label "Sayfaya git">
 <!ENTITY downloadShow2.label "Bul">
