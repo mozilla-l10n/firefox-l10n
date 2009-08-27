@@ -1,3 +1,4 @@
+<!ENTITY prefsHeader.label                         "偏好設定">
 <!ENTITY content.title                             "內容">
 <!ENTITY showImages.title                          "顯示圖片">
 <!ENTITY enableJavaScript.title                    "啟用 JavaScript">
