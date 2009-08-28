@@ -157,15 +157,15 @@
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
 <!ENTITY PhotoDesc.label                "Folgendes verwenden:">
-<!ENTITY GenericPhoto.label             "Generisches Foto">
-<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY GenericPhoto.label             "Unpersönliches Bild">
+<!ENTITY GenericPhoto.accesskey         "U">
 <!ENTITY DefaultPhoto.label             "Standard">
 <!ENTITY PhotoFile.label                "Lokale Datei">
 <!ENTITY PhotoFile.accesskey            "L">
 <!ENTITY BrowsePhoto.label              "Durchsuchen">
-<!ENTITY BrowsePhoto.accesskey          "D">
+<!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Online-Datei">
 <!ENTITY PhotoURL.accesskey             "O">
 <!ENTITY PhotoURL.emptytext             "Einfügen oder eintippen der Webadresse des Fotos">
-<!ENTITY UpdatePhoto.label              "Update">
-<!ENTITY UpdatePhoto.accesskey          "U">
+<!ENTITY UpdatePhoto.label              "Neu laden">
+<!ENTITY UpdatePhoto.accesskey          "N">
