@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Pesquisa do Windows">
-<!ENTITY searchIntegration.title "Integração da &searchIntegration.engineName;">
-<!ENTITY searchIntegration.description "Quer ligar a &searchIntegration.engineName; para indexar e procurar correio electrónico e notícias através do &brandShortName;?">
-
-<!ENTITY searchIntegration.accept "Ligar &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Não ligar &searchIntegration.engineName;">
