@@ -1,13 +1,13 @@
 
-<!ENTITY prefWindow.titleWin "Opções">
-<!ENTITY prefWindow.titleGNOME "Opções do &brandShortName;">
-<!ENTITY prefWindow.styleWindows "width: 49em; height: 39em;">
-<!ENTITY prefWindow.styleMac "width: 49em;">
-<!ENTITY prefWindow.styleGNOME "width: 45em;">
+<!ENTITY  prefWindow.titleWin     "Opções">
+<!ENTITY  prefWindow.titleGNOME   "Opções do &brandShortName;">
+<!ENTITY  prefWindow.styleWindows "width: 49em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 49em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 45em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title "Geral">
-<!ENTITY paneDisplay.title "Mostrar">
-<!ENTITY paneComposition.title "Composição">
-<!ENTITY paneAttachments.title "Anexos">
-<!ENTITY panePrivacy.title "Privacidade">
-<!ENTITY paneAdvanced.title "Avançadas">
+<!ENTITY paneGeneral.title        "Geral">
+<!ENTITY paneDisplay.title        "Mostrar">
+<!ENTITY paneComposition.title    "Composição">
+<!ENTITY paneAttachments.title    "Anexos">
+<!ENTITY paneSecurity.title        "Segurança">
+<!ENTITY paneAdvanced.title       "Avançadas">

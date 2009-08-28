@@ -12,8 +12,8 @@
 <!ENTITY directories.label "Usar um servidor LDAP diferente:">
 <!ENTITY directories.accesskey "r">
 <!ENTITY directoriesNone.label "None">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label "Composição">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey "c">
 <!ENTITY belowText.label "abaixo da citação (recomendado)">
 <!ENTITY aboveText.label "abaixo da resposta (acima da citação)">
+<!ENTITY includeSigOnReply.label              "Incluir assinatura nas respostas">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Incluir assinatura nos reencaminhamentos">
+<!ENTITY includeSigOnForward.accesskey        "e">

@@ -50,21 +50,25 @@
 <!ENTITY folderRebuildSummaryFileTip.label "Reconstruir Sumário do Ficheiro">
      
 <!ENTITY retention.label "Política de Retenção">
-<!ENTITY retentionUseDefault.label "Usar pré-definições do servidor">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label "Usar definições da minha conta">
+<!ENTITY retentionUseAccount.accesskey "d">
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
+<!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, tanto as cópias locais como os originais no servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
 <!ENTITY retentionDeleteMsg.label "Apagar mensagens maiores que">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "G">
-<!ENTITY retentionKeepNew.label "Apagar todas menos as últimas">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Apagar sempre todas as mensagens lidas">
-<!ENTITY retentionKeepUnread.accesskey "a">
+<!ENTITY retentionKeepRecent.label "Apagar todas menos as últimas">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas(sobrepõe-se às definições de idade)">
+<!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label "Modo Desligado">
+<!ENTITY folderSynchronizationTab.label "Sincronização">
 <!ENTITY folderCheckForNewMessages.label "Procurar novas mensagens nesta pasta">
 <!ENTITY folderCheckForNewMessages.accesskey "N">
 

@@ -1,0 +1,74 @@
+<!ENTITY welcome.description             "Configuração rápida de conta">
+<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
+<!ENTITY name.description                "O seu nome">
+<!ENTITY email.description               "Correio electrónico">
+<!ENTITY password.description            "Senha">
+
+<!ENTITY next.label                      "Seguinte &#187;">
+<!ENTITY next.accesskey                  "S">
+<!ENTITY back.label                      "&#171; Retroceder">
+<!ENTITY back.accesskey                  "R">
+
+<!ENTITY accountInformation.label        "Informação da conta">
+<!ENTITY username.label                  "nome de utilizador">
+<!ENTITY receivingServer.label           "a receber">
+<!ENTITY sendingServer.label             "a enviar">
+<!ENTITY noEncryption.label              "Nada">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
+     which will create the account and take the user to the account
+     configuration screen. -->
+<!ENTITY createAndEditSettings.label     "Criar e editar definições de conta">
+<!ENTITY cancel.label                    "Cancelar">
+<!ENTITY stop.label                      "Parar">
+<!ENTITY stop.accesskey                  "P">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Re-testar configuração">
+<!ENTITY retest.accesskey                "R">
+<!ENTITY edit.label                      "Editar">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "Lembrar senha">
+<!ENTITY rememberPassword.accesskey      "m">
+
+<!ENTITY warning.label                   "Aviso!">
+<!ENTITY incomingSettings.label          "Definições de entrada:">
+<!ENTITY outgoingSettings.label          "Definições de saída:">
+<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
+     warning on the incoming server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmIncomingWarning.label    "Eu compreendo os riscos.">
+<!ENTITY confirmIncomingWarning.accesskey "u">
+<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmOutgoingWarning.label    "Eu compreendo os riscos.">
+<!ENTITY confirmOutgoingWarning.accesskey "d">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Criar conta">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Mudar definições">
+<!ENTITY changeSettings.accesskey        "u">
+
+<!ENTITY contactYourProvider.description "O &brandShortName; pode permitir que receba o seu correio com as configurações fornecidas. No entanto, deve contactar o seu administrador ou fornecedor de correio electrónico sobre estas ligações incorrectas. Para mais informação veja a FAQ do Thunderbird FAQ.">
+
+<!ENTITY insecureServer.tooltip.title    "Aviso! Este servidor não é seguro.">
+<!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes.">
+
+<!ENTITY insecureClearText.description   "O coreio electrónico foi enviado no formato de texto, pelo que o seu correio electrónico pode ser lido por atacantes, etc. O &brandShortName; deixa-o obter o seu correio, mas devia contactar o seu fornecedor de correio para configurar o servidor com uma ligação segura.">
+<!ENTITY insecureSelfSigned.description  "O servidor usa um certificado que não é de confiança, por isso não podemos ter a certeza se alguém está a interceptar o tráfego entre o &brandShortName; e o seu servidor. O &brandShortName; deixa-o obter o seu correio, mas devia contactar o seu fornecedor de correio para configurar o servidor com um certificado de confiança.">
+<!ENTITY secureServer.description        "Parabéns! Este servidor é seguro.">

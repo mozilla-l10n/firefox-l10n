@@ -3,6 +3,5 @@
 <!ENTITY newMessageCmd.label "Mensagem">
 <!ENTITY newMessageCmd.accesskey "m">
  
-<!ENTITY newCardCmd.label "Cartão do Livro de Endereços...">
-<!ENTITY newCardCmd.accesskey "c">
-
+<!ENTITY newContactCmd.label "Contacto do Livro de Endereços...">
+<!ENTITY newContactCmd.accesskey "c">

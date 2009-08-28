@@ -67,7 +67,6 @@
 <!ENTITY NickName.label "Alcunha:">
 <!ENTITY NickName.accesskey "A">
 
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "Correio Electrónico:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Correio Electrónico alternativo:">
@@ -80,9 +79,9 @@
 <!ENTITY ScreenName.label "Nome a mostrar:">
 <!ENTITY ScreenName.accesskey "M">
 
-<!ENTITY allowRemoteContent.label "Permitir imagens remotas em mensagens HTML.">
-<!ENTITY allowRemoteContent.accesskey "g">
-<!ENTITY allowRemoteContent.tooltip     "Em mensagens  HTML é possível
+<!ENTITY allowRemoteContent1.label "Permitir imagens remotas em mensagens HTML.">
+<!ENTITY allowRemoteContent1.accesskey "g">
+<!ENTITY allowRemoteContent1.tooltip     "Em mensagens  HTML é possível
 incluir imagens de origens remotas. Abrir assim uma mensagem irá abrir
 uma ligação a uma fonte externa. Isto pode levar a um seguimento da mensagem
 ao ser lida. Ao seleccionar esta caixa irá permitir imagens remotas em
@@ -117,9 +116,11 @@ mensagens HTML deste contacto.">
 <!ENTITY HomeWebPage.accesskey "W">
 <!ENTITY Birthday.label                 "Aniversário:">
 <!ENTITY Birthday.accesskey             "v">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Ano">
 <!ENTITY Or.value                       "ou">
 <!ENTITY Age.emptytext                  "Idade">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab "Trabalho">
 <!ENTITY Work.accesskey                 "T">
@@ -146,11 +147,6 @@ mensagens HTML deste contacto.">
 
 <!ENTITY Other.tab "Outro">
 <!ENTITY Other.accesskey "t">
-<!ENTITY Birthday.label "Birthday:">
-<!ENTITY Birthday.accesskey "B">
-<!ENTITY Year.emptytext "Year">
-<!ENTITY Or.value "or">
-<!ENTITY Age.emptytext "Age">
 <!ENTITY Custom1.label "Personalizado 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalizado 2:">
@@ -161,3 +157,19 @@ mensagens HTML deste contacto.">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Notas">
 <!ENTITY Notes.accesskey "N">
+
+<!ENTITY Photo.tab                      "Fotografia">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Obter uma das seguintes:">
+<!ENTITY GenericPhoto.label             "Fotografia genérica">
+<!ENTITY GenericPhoto.accesskey         "g">
+<!ENTITY DefaultPhoto.label             "Pré-definida">
+<!ENTITY PhotoFile.label                "Neste computador">
+<!ENTITY PhotoFile.accesskey            "e">
+<!ENTITY BrowsePhoto.label              "Navegar">
+<!ENTITY BrowsePhoto.accesskey          "N">
+<!ENTITY PhotoURL.label                 "Na Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "Escrever ou colar o endereço web de uma fotografia">
+<!ENTITY UpdatePhoto.label              "Actualizar">
+<!ENTITY UpdatePhoto.accesskey          "u">

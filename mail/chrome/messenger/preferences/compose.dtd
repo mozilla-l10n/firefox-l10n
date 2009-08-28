@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label "Reencaminhar:">
 <!ENTITY forwardMsg.accesskey "r">
 <!ENTITY inline.label "Em linha">
-<!ENTITY inline.accesskey "L">
 <!ENTITY asAttachment.label "Como anexo">
-<!ENTITY asAttachment.accesskey "X">
 <!ENTITY addExtension.label "adicionar extensão ao nome do ficheiro">
 <!ENTITY addExtension.accesskey "f">
 
@@ -52,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label "Configurar o comportamento do formato de texto.">
 <!ENTITY sendOptions.label "Opções de Envio...">
 <!ENTITY sendOptions.accesskey "E">
+
+<!ENTITY attachmentReminder.label              "Verificar por anexos esquecidos">
+<!ENTITY attachmentReminder.accesskey          "f">
+<!ENTITY attachmentReminderOptions.label       "Palavras-chave…">
+<!ENTITY attachmentReminderOptions.accesskey   "h">
