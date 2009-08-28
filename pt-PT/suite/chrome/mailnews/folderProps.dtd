@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -38,62 +38,62 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label           "Propriedades">
+<!ENTITY folderProps.windowtitle.label "Propriedades">
 
-<!ENTITY generalInfo.label                       "Informação Geral">
-<!ENTITY folderCharsetTab.label                  "Codificação Pré-Definida:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Aplicar pré-definições a todas as mensagens na pasta (as configurações de codificação de caracteres de mensagens e auto-detecção será ignorada)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Reconstruir Sumário">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Reconstruir Sumário do Ficheiro">      
-
+<!ENTITY generalInfo.label "Informação Geral">
+<!ENTITY folderCharsetTab.label "Codificação Pré-Definida:">
+<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetOverride.label "Aplicar pré-definições a todas as mensagens na pasta (as configurações de codificação de caracteres de mensagens e auto-detecção será ignorada)">
+<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderRebuildSummaryFile.label "Reconstruir Índice">
+<!ENTITY folderRebuildSummaryFile.accesskey "R">
+<!ENTITY folderRebuildSummaryFileTip.label "Reconstruir Sumário do Ficheiro">
+     
 <!ENTITY retention.label "Política de Retenção">
-<!ENTITY retentionUseDefault.label  "Usar pré-definições do servidor">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label "Usar definições da minha conta">
+<!ENTITY retentionUseAccount.accesskey "d">
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
-<!ENTITY retentionCleanup.label "Manter:">
+<!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
 <!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, tanto as cópias locais como os originais no servidor remoto.">
 <!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
-<!ENTITY retentionDeleteMsg.label "Eliminar mensagens com mais de">
+<!ENTITY retentionDeleteMsg.label "Apagar mensagens maiores que">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Todas as mensagens">
-<!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepRecent.label "Mais recentes">
-<!ENTITY retentionKeepRecent.accesskey "n">
+<!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">
+<!ENTITY retentionKeepAll.accesskey "G">
+<!ENTITY retentionKeepRecent.label "Apagar todas menos as últimas">
+<!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas (sobrepõe-se às definições de idade)">
-<!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens marcadas">
+<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas(sobrepõe-se às definições de idade)">
+<!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label          "Sincronização">
-<!ENTITY folderCheckForNewMessages.label         "Procurar novas mensagens nesta pasta">
-<!ENTITY folderCheckForNewMessages.accesskey     "n">
+<!ENTITY folderSynchronizationTab.label "Sincronização">
+<!ENTITY folderCheckForNewMessages.label "Procurar novas mensagens nesta pasta">
+<!ENTITY folderCheckForNewMessages.accesskey "N">
 
-<!ENTITY offlineFolder.check.label               "Seleccionar esta pasta para uso desligado">
-<!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Transferir Agora">
-<!ENTITY offlineFolder.button.accesskey          "T">
+<!ENTITY offlineFolder.check.label "Seleccionar esta pasta para uso em modo desligado">
+<!ENTITY offlineFolder.check.accesskey "S">
+<!ENTITY offlineFolder.button.label "Transferir Agora">
+<!ENTITY offlineFolder.button.accesskey "T">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Seleccionar este grupo de discussão para uso desligado">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY offlineNewsgroup.button.label           "Transferir Agora">
-<!ENTITY offlineNewsgroup.button.accesskey       "T">
+<!ENTITY selectofflineNewsgroup.check.label "Seleccionar este grupo de discussão para uso em modo desligado">
+<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY offlineNewsgroup.button.label "Transferir Agora">
+<!ENTITY offlineNewsgroup.button.accesskey "T">
 
-<!ENTITY folderProps.name.label                  "Nome:">
-<!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Localização:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.name.label "Nome:">
+<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.location.label "Localização:">
+<!ENTITY folderProps.location.accesskey "L">
 
-<!ENTITY folderSharingTab.label                  "Partilhar">
-<!ENTITY privileges.button.label                 "Privilégios...">
-<!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "Tem as Seguintes permissões:">
-<!ENTITY folderType.label                        "Tipo de Pasta:">
+<!ENTITY folderSharingTab.label "Partilhar">
+<!ENTITY privileges.button.label "Privilégios...">
+<!ENTITY privileges.button.accesskey "P">
+<!ENTITY permissionsDesc.label "Tem as Seguintes permissões:">
+<!ENTITY folderType.label "Tipo de Pasta:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Em Uso:">
-<!ENTITY folderQuotaStatus.label                 "Estado:">
+<!ENTITY folderQuotaTab.label "Quota">
+<!ENTITY folderQuotaRoot.label "Quota Base:">
+<!ENTITY folderQuotaUsage.label "Em Uso:">
+<!ENTITY folderQuotaStatus.label "Estado:">

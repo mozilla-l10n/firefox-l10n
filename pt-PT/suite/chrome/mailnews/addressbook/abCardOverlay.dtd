@@ -157,3 +157,19 @@ mensagens HTML deste contacto.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notas">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "Fotografia">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Obter uma das seguintes:">
+<!ENTITY GenericPhoto.label             "Fotografia genérica">
+<!ENTITY GenericPhoto.accesskey         "g">
+<!ENTITY DefaultPhoto.label             "Pré-definida">
+<!ENTITY PhotoFile.label                "Neste computador">
+<!ENTITY PhotoFile.accesskey            "e">
+<!ENTITY BrowsePhoto.label              "Navegar">
+<!ENTITY BrowsePhoto.accesskey          "N">
+<!ENTITY PhotoURL.label                 "Na Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "Escrever ou colar o endereço web de uma fotografia">
+<!ENTITY UpdatePhoto.label              "Actualizar">
+<!ENTITY UpdatePhoto.accesskey          "u">

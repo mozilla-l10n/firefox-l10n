@@ -37,6 +37,7 @@
 
 <!ENTITY downloadManagerCmd.label "Gestor de transferências">
 <!ENTITY downloadManagerCmd.accesskey "t">
+<!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addonsManagerCmd.label "Gestor de extras">
 <!ENTITY addonsManagerCmd.accesskey "x">

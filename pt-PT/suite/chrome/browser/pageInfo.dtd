@@ -46,6 +46,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Seleccionar tudo">
 <!ENTITY  selectall.accesskey   "t">
+<!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Geral">
@@ -112,6 +113,7 @@
 <!ENTITY  permTab               "Permissões">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Usar pré-definição">
+<!ENTITY  permAskAlways         "Perguntar sempre">
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "permitir para a sessão">
 <!ENTITY  permBlock             "Bloquear">
@@ -120,6 +122,7 @@
 <!ENTITY  permPopup             "Abrir janelas de popup">
 <!ENTITY  permCookie            "Definir Cookies">
 <!ENTITY  permInstall           "Instalar Extensões e Temas">
+<!ENTITY  permGeo               "Partilhar localização">
 
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">

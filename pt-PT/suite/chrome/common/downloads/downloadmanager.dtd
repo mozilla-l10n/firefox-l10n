@@ -39,6 +39,12 @@
 <!ENTITY col.timeelapsed.label           "Tempo decorrido">
 <!ENTITY col.timeelapsed.accesskey       "e">
 <!ENTITY col.timeelapsed.tooltip         "Tempo decorrido">
+<!ENTITY col.starttime.label             "Iniciado a">
+<!ENTITY col.starttime.accesskey         "a">
+<!ENTITY col.starttime.tooltip           "Iniciado a">
+<!ENTITY col.endtime.label               "Terminado a">
+<!ENTITY col.endtime.accesskey           "i">
+<!ENTITY col.endtime.tooltip             "Terminado a">
 <!ENTITY col.progresstext.label          "&#37;">
 <!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Progresso (&#37;)">
@@ -76,3 +82,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "I">
 <!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da transferência">
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
+<!ENTITY cmd.properties.label            "Propriedadesâ€¦">
+<!ENTITY cmd.properties.accesskey        "s">
