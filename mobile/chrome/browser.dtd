@@ -30,12 +30,16 @@
 <!ENTITY delete.label          "Eliminar">
 <!ENTITY selectAll.label       "Seleccionar tudo">
 <!ENTITY noSuggestions.label   "(Nenhuma sugestão)">
-<!ENTITY addToDictionary.label "Adicionar ai dicionário">
+<!ENTITY addToDictionary.label "Adicionar ao dicionário">
 
-<!ENTITY bookmarkName.label    "Nome:">
-<!ENTITY bookmarkFolder.label  "Pasta:">
-<!ENTITY bookmarkTags.label    "Etiquetas:">
-<!ENTITY bookmarkRemove.label  "Remover Marcador">
+<!ENTITY bookmarksHeader.label     "Marcadores">
+<!ENTITY bookmarksManage.label     "Gerir">
+<!ENTITY foldersHeader.label       "Pastas">
+
+<!ENTITY editBookmarkEdit.label    "Editar">
+<!ENTITY editBookmarkMove.label    "Mover">
+<!ENTITY editBookmarkDone.label    "Feito">
+<!ENTITY editBookmarkTags.label    "Adicionar etiquetas aqui">
 
 <!ENTITY findOnCmd.label     "Procurar nesta página…">
 <!ENTITY findOnCmd.accesskey "P">
@@ -44,6 +48,35 @@
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY addonsHeader.label        "Extras">
+<!ENTITY addonsLocal.label         "Os seus extras">
+<!ENTITY addonsRepo.label          "Obter extras">
+<!ENTITY addonsRecommended.label   "Ver recomendados">
+<!ENTITY addonsSearch.label        "Pesquisar catálogo">
+<!ENTITY addonsSearch.emptytext    "pesquisar todos os extras">
+
+<!ENTITY addonOptions.label        "Opções">
+<!ENTITY addonEnable.label         "Activar">
+<!ENTITY addonDisable.label        "Desactivar">
+<!ENTITY addonInstall.label        "Instalar">
+<!ENTITY addonUninstall.label      "Desinstalar">
+<!ENTITY addonCancel.label         "Cancelar">
+
+<!ENTITY downloadsHeader.label     "Transferências">
+<!ENTITY downloadsSortDate.label   "Por data">
+<!ENTITY downloadsSortSite.label   "Por sítio">
+<!ENTITY downloadsSortName.label   "Por nome">
+<!ENTITY downloadsSearch.label     "Pesquisar">
+<!ENTITY downloadsSearch.emptytext "Pesquisar ficheiro transferido">
+
+<!ENTITY downloadShowPage.label    "Ir para a página">
+<!ENTITY downloadShow.label        "Pesquisar ficheiro">
+<!ENTITY downloadOpen.label        "Abrir ficheiro">
+<!ENTITY downloadCancel.label      "Cancelar">
+<!ENTITY downloadPause.label       "Pausa">
+<!ENTITY downloadResume.label      "Resumir">
+<!ENTITY downloadRetry.label       "Tentar novamente">
 
 <!ENTITY identity.unverifiedsite2 "Este sítio web não fornece informação da identidade.">
 <!ENTITY identity.connectedTo "Está ligado a">
@@ -58,4 +91,4 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "which is run by">
+<!ENTITY identity.runBy "que é gerido por">

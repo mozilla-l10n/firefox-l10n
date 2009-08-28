@@ -3,6 +3,8 @@
 <!ENTITY permissions.default.image.description     "Tornar sítios web mais bonitos">
 <!ENTITY javascript.enabled.title                  "Activar Javascript">
 <!ENTITY javascript.enabled.description            "Tornar sítios web flashy">
+<!ENTITY javascript.options.jit.content.title      "Activar JavaScript tracing">
+<!ENTITY javascript.options.jit.content.description "Usar compilação de código‐nativa no JavaScript">
 <!ENTITY plugins.enabled.title                     "Activar Plugins">
 <!ENTITY plugins.enabled.description               "Tornar sítios web chatos">
 <!ENTITY privacy.title                             "Privacidade &amp; Segurança">
