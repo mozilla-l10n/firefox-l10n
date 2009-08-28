@@ -80,7 +80,7 @@
 <!ENTITY ScreenName.accesskey           "r">
 
 <!ENTITY allowRemoteContent1.label      "Externe Inhalte erlauben">
-<!ENTITY allowRemoteContent1.accesskey  "x">
+<!ENTITY allowRemoteContent1.accesskey  "t">
 <!ENTITY allowRemoteContent1.tooltip    "In HTML-Nachrichten können Inhalte von externen Quellen eingebunden sein. Beim Anzeigen dieser Nachrichten wird eine Verbindung zur externen Quelle hergestellt. Dadurch könnte zurück verfolgt werden, dass die Nachricht gelesen wird. Durch Aktivieren dieser Option erlauben Sie das Laden der Inhalte von externen Quellen bei Nachrichten dieses Absenders.">
 
 <!ENTITY WorkPhone.label                "Dienstlich:">
@@ -88,7 +88,7 @@
 <!ENTITY HomePhone.label                "Privat:">
 <!ENTITY HomePhone.accesskey            "v">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Mobil:">
@@ -153,3 +153,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notizen">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Folgendes verwenden:">
+<!ENTITY GenericPhoto.label             "Generisches Foto">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Standard">
+<!ENTITY PhotoFile.label                "Lokale Datei">
+<!ENTITY PhotoFile.accesskey            "L">
+<!ENTITY BrowsePhoto.label              "Durchsuchen">
+<!ENTITY BrowsePhoto.accesskey          "D">
+<!ENTITY PhotoURL.label                 "Online-Datei">
+<!ENTITY PhotoURL.accesskey             "O">
+<!ENTITY PhotoURL.emptytext             "Einfügen oder eintippen der Webadresse des Fotos">
+<!ENTITY UpdatePhoto.label              "Update">
+<!ENTITY UpdatePhoto.accesskey          "U">
