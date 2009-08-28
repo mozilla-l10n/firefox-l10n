@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Integração do sistema">
+<!ENTITY defaultClient.intro  "Usar o &brandShortName; como cliente pré-definido para:">
+
+<!ENTITY email.label "Correio electrónico">
+<!ENTITY newsgroups.label "Grupos de discussão">
+<!ENTITY feeds.label "Fontes">
+
+<!ENTITY checkOnStartup.label "Fazer sempre esta verificação ao iniciar o &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "F">
+
+<!ENTITY searchIntegration.label "Permitir a &searchIntegration.engineName; para pesquisar mensagens">
+<!ENTITY searchIntegration.accesskey "P">
