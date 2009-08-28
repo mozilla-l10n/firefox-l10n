@@ -1,4 +1,7 @@
 <!ENTITY prefsHeader.label "Настройки">
+<!ENTITY about.title "О &brandShortName;">
+<!ENTITY about.button "Перейти на страницу">
+<!ENTITY about.description "Открыть справку и информацию о продукте">
 <!ENTITY content.title "Содержимое">
 <!ENTITY showImages.title "Показать изображения">
 <!ENTITY enableJavaScript.title "Использовать JavaScript">
