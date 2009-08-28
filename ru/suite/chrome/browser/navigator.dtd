@@ -13,6 +13,9 @@
 <!ENTITY recentTabs.label "Недавно закрытые вкладки">
 <!ENTITY recentTabs.accesskey "е">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Недавно закрытые окна">
+<!ENTITY recentWindows.accesskey "д">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Редактировать страницу">
 <!ENTITY editPageCmd.accesskey "Р">
 <!ENTITY editPageCmd.commandkey "e">

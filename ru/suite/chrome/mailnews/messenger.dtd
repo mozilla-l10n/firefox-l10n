@@ -2,12 +2,22 @@
 <!ENTITY messengerWindow.title "Почта и группы новостей">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
+<!ENTITY tabmailClose.label "Закрыть вкладку">
+<!ENTITY tabmailClose.tooltip "Закрыть вкладку">
+<!ENTITY tabmailNewButton.tooltip "Дублировать текущую вкладку">
+<!ENTITY tabmailCloseButton.tooltip "Закрыть текущую вкладку">
+<!ENTITY tabmailAllTabs.tooltip "Список всех вкладок">
 <!ENTITY newMessage.label "Сообщение">
 <!ENTITY newMessage.accesskey "о">
 <!ENTITY newFolderCmd.label "Папку…">
 <!ENTITY newFolderCmd.accesskey "П">
 <!ENTITY newVirtualFolderCmd.label "Виртуальную папку…">
 <!ENTITY newVirtualFolderCmd.accesskey "В">
+<!ENTITY newTabCmd.label "Дублировать вкладку">
+<!ENTITY newTabCmd.accesskey "б">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Закрыть вкладку">
+<!ENTITY closeTabCmd.accesskey "к">
 <!ENTITY newAccountCmd.label "Учётную запись…">
 <!ENTITY newAccountCmd.accesskey "У">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
@@ -23,13 +33,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "Ш">
 <!ENTITY getNewMsgCmd.label "Получить новые сообщения">
 <!ENTITY getNewMsgCmd.accesskey "П">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Получить новые сообщения для…">
 <!ENTITY getNewMsgForCmd.accesskey "н">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Всех учётных записей">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "В">
 <!ENTITY getAllNewMsgCmd.label "Все новые сообщения">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Получить следующие 500 новостных сообщений">
 <!ENTITY getNextNMsgCmd.accesskey "щ">
 <!ENTITY sendUnsentCmd.label "Отправить неотправленные сообщения">
@@ -114,6 +124,8 @@
 <!ENTITY messagePaneVertical.accesskey "В">
 <!ENTITY showMessagePaneCmd.label "Область просмотра сообщений">
 <!ENTITY showMessagePaneCmd.accesskey "с">
+<!ENTITY showThreadPaneCmd.label "Панель обсуждений">
+<!ENTITY showThreadPaneCmd.accesskey "н">
 <!ENTITY showFolderPaneCmd.label "Панель папок">
 <!ENTITY showFolderPaneCmd.accesskey "п">
 <!ENTITY sortMenu.label "Сортировка">
@@ -432,6 +444,8 @@
 <!ENTITY statusText.label "Готово">
 <!ENTITY contextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY contextOpenNewWindow.accesskey "н">
+<!ENTITY contextOpenNewTab.label "Открыть в новой вкладке">
+<!ENTITY contextOpenNewTab.accesskey "н">
 <!ENTITY contextEditAsNew.label "Редактировать как новое…">
 <!ENTITY contextEditAsNew.accesskey "Р">
 <!ENTITY contextArchive.label "Архивировать">
@@ -464,6 +478,8 @@
 <!ENTITY folderContextGetMessages.accesskey "щ">
 <!ENTITY folderContextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY folderContextOpenNewWindow.accesskey "н">
+<!ENTITY folderContextOpenNewTab.label "Открыть в новой вкладке">
+<!ENTITY folderContextOpenNewTab.accesskey "н">
 <!ENTITY folderContextRename.label "Переименовать">
 <!ENTITY folderContextRename.accesskey "П">
 <!ENTITY folderContextRemove.label "Удалить">

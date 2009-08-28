@@ -44,6 +44,8 @@
 <!ENTITY reloadImageCmd.accesskey "р">
 <!ENTITY viewImageCmd.label "Открыть изображение">
 <!ENTITY viewImageCmd.accesskey "т">
+<!ENTITY viewVideoCmd.label "Открыть видео">
+<!ENTITY viewVideoCmd.accesskey "к">
 <!ENTITY viewBGImageCmd.label "Открыть фоновое изображение">
 <!ENTITY viewBGImageCmd.accesskey "р">
 <!ENTITY setWallpaperCmd.label "Поместить на Рабочий стол">

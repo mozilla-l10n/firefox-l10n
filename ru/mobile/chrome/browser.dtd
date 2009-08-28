@@ -1,20 +1,11 @@
 <!ENTITY back.label "Назад">
-<!ENTITY back.tooltip "Назад">
 <!ENTITY forward.label "Вперёд">
-<!ENTITY forward.tooltip "Вперёд">
 <!ENTITY reload.label "Обновить">
-<!ENTITY reload.tooltip "Обновить">
 <!ENTITY stop.label "Остановить">
-<!ENTITY stop.tooltip "Остановить">
 <!ENTITY search.label "Поиск">
-<!ENTITY search.tooltip "Поиск">
 <!ENTITY go.label "Перейти">
-<!ENTITY go.tooltip "Перейти">
 <!ENTITY openLocation.label "Открыть адрес">
-<!ENTITY openLocation.tooltip "Открыть адрес">
 <!ENTITY star.label "Звёздочка">
-<!ENTITY star.tooltip "Добавить в закладки">
-<!ENTITY bookmarks.tooltip "Просмотр закладок">
 <!ENTITY newtab.label "Новая вкладка">
 <!ENTITY closetab.label "Закрыть вкладку">
 <!ENTITY cut.label "Вырезать">
@@ -48,11 +39,12 @@
 <!ENTITY addonsRepo.label "Получить дополнения">
 <!ENTITY addonsRecommended.label "Рекомендуемые">
 <!ENTITY addonsSearch.label "Поиск">
-<!ENTITY addonsSearch.emptytext "Поиск во всех дополнениях">
+<!ENTITY addonsSearch2.emptytext "Поисковый каталог">
+<!ENTITY addonsSearch.recommended "Рекомендуемые">
 <!ENTITY addonOptions.label "Настройки">
 <!ENTITY addonEnable.label "Включить">
 <!ENTITY addonDisable.label "Отключить">
-<!ENTITY addonInstall.label "Установить">
+<!ENTITY addonInstall2.label "Добавить в &brandShortName;">
 <!ENTITY addonUninstall.label "Удалить">
 <!ENTITY addonCancel.label "Отмена">
 <!ENTITY addonShowPage.label "Перейти к странице">
@@ -61,7 +53,7 @@
 <!ENTITY downloadsSortSite.label "Сайт">
 <!ENTITY downloadsSortName.label "Имя">
 <!ENTITY downloadsSearch.label "Поиск">
-<!ENTITY downloadsSearch.emptytext "Поиск загруженного файла">
+<!ENTITY downloadsSearch2.emptytext "Поиск">
 <!ENTITY downloadShowPage.label "Перейти к странице">
 <!ENTITY downloadShow2.label "Найти">
 <!ENTITY downloadOpen2.label "Открыть">
@@ -71,6 +63,7 @@
 <!ENTITY downloadRetry.label "Повторить">
 <!ENTITY noResults.label "Нет результатов">
 <!ENTITY allBookmarks.label "Показать все закладки">
+<!ENTITY searchEngine.addSearch "Добавить поиск в:">
 <!ENTITY bookmarkPopup.label "Добавлена в закладки">
 <!ENTITY bookmarkRemove.label "Удалить">
 <!ENTITY bookmarkEdit.label "Изменить">
