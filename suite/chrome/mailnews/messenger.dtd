@@ -44,6 +44,13 @@
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " – ">
 
+<!-- tabmail -->
+<!ENTITY tabmailClose.label "Užverti kortelę">
+<!ENTITY tabmailClose.tooltip "Užverti kortelę">
+<!ENTITY tabmailNewButton.tooltip "Dubliuoti aktyvią kortelę">
+<!ENTITY tabmailCloseButton.tooltip "Užverti aktyvią kortelę">
+<!ENTITY tabmailAllTabs.tooltip "Visų kortelių sąrašas">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
@@ -53,6 +60,11 @@
 <!ENTITY newFolderCmd.accesskey "n">
 <!ENTITY newVirtualFolderCmd.label "Paieška įrašant radinius…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
+<!ENTITY newTabCmd.label "Dubliuoti kortelę">
+<!ENTITY newTabCmd.accesskey "k">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Užverti kortelę">
+<!ENTITY closeTabCmd.accesskey "U">
 <!ENTITY newAccountCmd.label "Pašto arba naujienų abonentas…">
 <!ENTITY newAccountCmd.accesskey "P">
 <!ENTITY openMessageFileCmd.label "Atverti failą…">
@@ -68,13 +80,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "Š">
 <!ENTITY getNewMsgCmd.label "Atsiųsti laiškus">
 <!ENTITY getNewMsgCmd.accesskey "l">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Atsiųsti">
 <!ENTITY getNewMsgForCmd.accesskey "ų">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Visus laiškus">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getAllNewMsgCmd.label "Visus laiškus">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Atsiųsti kitus 500 naujienų laiškų">
 <!ENTITY getNextNMsgCmd.accesskey "i">
 <!ENTITY sendUnsentCmd.label "Išsiųsti laiškus">
@@ -177,6 +189,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showMessagePaneCmd.label "Laiško teksto polangis">
 <!ENTITY showMessagePaneCmd.accesskey "L">
+<!ENTITY showThreadPaneCmd.label "Gijos polangis">
+<!ENTITY showThreadPaneCmd.accesskey "G">
 <!ENTITY showFolderPaneCmd.label "Aplankų polangis">
 <!ENTITY showFolderPaneCmd.accesskey "A">
 
@@ -500,6 +514,8 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Atverti laišką naujame lange">
 <!ENTITY contextOpenNewWindow.accesskey "n">
+<!ENTITY contextOpenNewTab.label "Atverti laišką naujoje kortelėje">
+<!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextEditAsNew.label "Paruošti siuntimui…">
 <!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextArchive.label "Archyvuoti">
@@ -534,6 +550,8 @@
 <!ENTITY folderContextGetMessages.accesskey "A">
 <!ENTITY folderContextOpenNewWindow.label "Atverti naujame lange">
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
+<!ENTITY folderContextOpenNewTab.label "Atverti naujoje kortelėje">
+<!ENTITY folderContextOpenNewTab.accesskey "k">
 <!ENTITY folderContextRename.label "Pervardyti">
 <!ENTITY folderContextRename.accesskey "r">
 <!ENTITY folderContextRemove.label "Pašalinti">

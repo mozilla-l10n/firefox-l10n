@@ -160,3 +160,19 @@ Pažymėjus šią parinktį, tokie tinkle esantys intarpai šio adresato laišku
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Pastabos:">
 <!ENTITY Notes.accesskey                "P">
+
+<!ENTITY Photo.tab                      "Nuotrauka">
+<!ENTITY Photo.accesskey                "N">
+<!ENTITY PhotoDesc.label                "Pasirinkite:">
+<!ENTITY GenericPhoto.label             "Įtaisytasis atvaizdas">
+<!ENTITY GenericPhoto.accesskey         "t">
+<!ENTITY DefaultPhoto.label             "Numatytasis">
+<!ENTITY PhotoFile.label                "Failas šiame kompiuteryje">
+<!ENTITY PhotoFile.accesskey            "F">
+<!ENTITY BrowsePhoto.label              "Parinkti">
+<!ENTITY BrowsePhoto.accesskey          "P">
+<!ENTITY PhotoURL.label                 "Atvaizdas iš žiniatinklio">
+<!ENTITY PhotoURL.accesskey             "ž">
+<!ENTITY PhotoURL.emptytext             "Įveskite atvaizdo adresą">
+<!ENTITY UpdatePhoto.label              "Atnaujinti">
+<!ENTITY UpdatePhoto.accesskey          "a">
