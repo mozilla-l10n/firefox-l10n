@@ -57,9 +57,12 @@
 
 <!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
 <!ENTITY editMessageButton.label "Editar…">
-<!ENTITY replyButton.label "responder…">
-<!ENTITY forwardButton.label "reencaminhar…">
-<!ENTITY junkButton.label "marcar como lixo">
+<!ENTITY archiveButton.label "arquivo">
+<!ENTITY hdrReplyButton.label "responder">
+<!ENTITY hdrReplyAllButton.label "responder a todos">
+<!ENTITY hdrReplyListButton.label "ista de resposta">
+<!ENTITY hdrForwardButton.label "reencaminhar">
+<!ENTITY hdrJunkButton.label "lixo">
 <!ENTITY trashButton.tooltiptext "eliminar">
 
 <!ENTITY otherActionsButton.label "outras acções">
@@ -67,9 +70,6 @@
 <!ENTITY saveAsMenuItem.accesskey "v">
 <!ENTITY viewSourceMenuItem.label "ver fonte…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
-
-<!ENTITY hideDetailsButton.label "ocultar detalhes">
-<!ENTITY showDetailsButton.label "mostrar detalhes">
 
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "A">

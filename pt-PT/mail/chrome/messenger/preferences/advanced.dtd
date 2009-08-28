@@ -6,8 +6,25 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Activar indexador de mensagens">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Activar pesquisa global e indexador">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY systemIntegration.label          "Integração do Sistema">
+<!ENTITY alwaysCheckDefault.label      "Ao iniciar, verificar se o &brandShortName; é o programa de correio pré-definido">
+<!ENTITY alwaysCheckDefault.accesskey  "o">
+<!ENTITY searchIntegration.label       "Permitir &searchIntegration.engineName; para pesquisar mensagens">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkNow.label                "Verificar Agora">
+<!ENTITY checkNow.accesskey            "V">
+<!ENTITY configEditDesc.label          "Configuração avançada">
+<!ENTITY configEdit.label              "Config Editor…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Determina como é que o &brandShortName; funciona com os recibos de leitura">
+<!ENTITY showReturnReceipts.label      "Recibos de leitura…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Leitura">
+<!ENTITY display.caption               "Aprensentar">
 <!ENTITY showCondensedAddresses.label "Mostrar apenas o nome para pessoas nos meus contactos">
 <!ENTITY showCondensedAddresses.accesskey "m">
 
@@ -21,23 +38,15 @@
 <!ENTITY markAsReadDelay.label "Após apresentação de">
 <!ENTITY markAsReadDelay.accesskey "e">
 <!ENTITY secondsLabel.label "segundos">
-<!ENTITY showFolderColumns.label "Mostrar o selector de colunas no painel de pastas">
-<!ENTITY showFolderColumns.accesskey "o">
 <!ENTITY openMsgIn.label "Abrir mensagens em:">
-<!ENTITY reuseExpRadio0.label "Nova Janela">
+<!ENTITY openMsgInNewTab.label         "Um novo separador">
+<!ENTITY openMsgInNewTab.accesskey     "s">
+<!ENTITY reuseExpRadio0.label "Uma nova Janela">
 <!ENTITY reuseExpRadio0.accesskey "v">
-<!ENTITY reuseExpRadio1.label "Janela existente">
+<!ENTITY reuseExpRadio1.label "Na janela existente">
 <!ENTITY reuseExpRadio1.accesskey "j">
-<!ENTITY configEditDesc.label "Configuração avançada:">
-<!ENTITY configEdit.label "Editor de config...">
-<!ENTITY configEdit.accesskey "d">
-<!ENTITY returnReceiptsInfo.label "Indique como é que o &brandShortName; trata as confirmações de leitura.">
-<!ENTITY showReturnReceipts.label "Confirmações de leitura...">
-<!ENTITY showReturnReceipts.accesskey "C">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Leitura">
-<!ENTITY display.caption                "Apresentação">
+<!ENTITY closeMsgWindowOnDelete.label  "Fechar janela de mensagem ao eliminar">
+<!ENTITY closeMsgWindowOnDelete.accesskey "F">
 
 <!-- Update -->
 <!ENTITY autoCheck.label "Verificar automaticamente se há actualizações para:">
@@ -45,7 +54,6 @@
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Extras instalados">
 <!ENTITY enableAddonsUpdate.accesskey "E">
-<!ENTITY checkNow.label "Verificar agora...">
 <!ENTITY whenUpdatesFound.label "Ao encontrar actualizações do &brandShortName;:">
 <!ENTITY modeAskMe.label "Perguntar-me o que fazer">
 <!ENTITY modeAskMe.accesskey "z">
@@ -84,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "L">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Quando um servidor pede o meu certificado pessoal:">
+<!ENTITY certs.auto                      "Seleccionar um automaticamente">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Perguntar-me de cada vez">
+<!ENTITY certs.ask.accesskey             "P">
+
 <!ENTITY viewCertificates.label "Ver Certificados">
 <!ENTITY viewCertificates.accesskey "e">
 <!ENTITY viewCRLs.label "Listas de Revogação">

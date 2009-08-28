@@ -35,6 +35,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
@@ -43,13 +44,17 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-
 <!ENTITY importDialog.windowTitle "Importar">
-<!ENTITY importDialog.allTitle "Importar tudo">
-<!ENTITY importDialog.mailTitle "Correio">
-<!ENTITY importDialog.addressbookTitle "Livros de Endereços">
-<!ENTITY importDialog.settingsTitle "Definições">
-<!ENTITY importDialog.filtersTitle "Filtros">
+<!ENTITY importAll.label          "Importar tudo">
+<!ENTITY importAll.accesskey      "t">
+<!ENTITY importMail.label         "Correio">
+<!ENTITY importMail.accesskey     "C">
+<!ENTITY importAddressbook.label  "Livros de Endereços">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Definições">
+<!ENTITY importSettings.accesskey "D">
+<!ENTITY importFilters.label      "Filtros">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Ao serem importadas, poderá aceder a elas a partir do Correio e/ou Livro de Endereços do &brandShortName;.">
 
 <!ENTITY selectDescription.label "Por favor seleccione o programa do qual deseja importar:">
+<!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label "&lt; Retroceder">
 <!ENTITY forward.label "Seguinte &gt;">
@@ -74,6 +80,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY FieldDiscInputText1.label "O Netscape Communicator 4.x tem um endereço de correio para cada cartão, enquanto que o &brandShortName; tem dois (Casa e Trabalho).">
 <!ENTITY FieldDiscInputText2.label "Seleccione a categoria na qual você quer guardar os endereços de correio guardados:">
-<!ENTITY FieldDiscWarning.label "Esta categoria será usada para todas as entradas seleccionadas no Livro de Endereços: ">
-<!ENTITY importDialog.homeTitle "Casa">
-<!ENTITY importDialog.workTitle "Trabalho">
+<!ENTITY FieldDiscWarning.label  "Esta categoria será usada para todas as entradas seleccionadas no Livro de Endereços: ">
+<!ENTITY importHome.label        "Casa">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "Trabalho">
+<!ENTITY importWork.accesskey    "T">

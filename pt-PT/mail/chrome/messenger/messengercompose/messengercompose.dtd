@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+﻿<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Edição: (assunto em branco)">
 
 <!-- File Menu -->
@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "m">
 <!ENTITY newMessageCmd2.key "n">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Cartão do Livro de Endereços...">
-<!ENTITY newCard.accesskey "c">
+<!ENTITY newContact.label "Contacto do Livro de Endereços...">
+<!ENTITY newContact.accesskey "c">
 <!ENTITY attachMenu.label "Anexar">
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Ficheiros...">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Barras de Ferramentas">
 <!ENTITY viewToolbarsMenuNew.accesskey "B">
 <!ENTITY showCompositionToolbarCmd.label "Barra de Ferramentas de Composição">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Barra de formatação">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Barra de Estado">
@@ -109,10 +110,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opções">
 <!ENTITY optionsMenu.accesskey "o">
-<!ENTITY checkSpellingCmd.label "Verificar ortografia...">
-<!ENTITY checkSpellingCmd.key "k">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "v">
+<!ENTITY checkSpellingCmd2.label "Verificar ortografia...">
+<!ENTITY checkSpellingCmd2.key "k">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "v">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao escrever">
 <!ENTITY enableInlineSpellChecker.accesskey "E">
 <!ENTITY quoteCmd.label "Citar a mensagem">
@@ -161,8 +162,8 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Livro de Endereços">
 <!ENTITY addressBookCmd.accesskey "i">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Configurar contas...">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY accountManagerCmd.label "Definições de contas...">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "n">
 <!ENTITY preferencesCmd.label "Opções...">
@@ -184,7 +185,6 @@
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Guardar">
-<!ENTITY throbberItem.title "Indicador de actividade">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora">
