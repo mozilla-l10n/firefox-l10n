@@ -156,5 +156,21 @@ dans les messages HTML de ce contact.">
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Divers 4 :"> 
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label                    "Notes :">
-<!ENTITY Notes.accesskey                "N">
+<!ENTITY Notes.label "Notes :">
+<!ENTITY Notes.accesskey "N">
+
+<!ENTITY Photo.tab "Photo">
+<!ENTITY Photo.accesskey "o">
+<!ENTITY PhotoDesc.label "Choisir une des photos suivantes :">
+<!ENTITY GenericPhoto.label "Photo générique">
+<!ENTITY GenericPhoto.accesskey "P">
+<!ENTITY DefaultPhoto.label "Défaut">
+<!ENTITY PhotoFile.label "Sur cet ordinateur">
+<!ENTITY PhotoFile.accesskey "S">
+<!ENTITY BrowsePhoto.label "Parcourir">
+<!ENTITY BrowsePhoto.accesskey "r">
+<!ENTITY PhotoURL.label "Sur le Web">
+<!ENTITY PhotoURL.accesskey "W">
+<!ENTITY PhotoURL.emptytext "Coller ou saisir l'adresse Web d'une photo">
+<!ENTITY UpdatePhoto.label "Mettre à jour">
+<!ENTITY UpdatePhoto.accesskey "M">
