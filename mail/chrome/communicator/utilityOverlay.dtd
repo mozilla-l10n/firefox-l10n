@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key "w">
 <!ENTITY closeCmd.accesskey "f">
 
-<!ENTITY closeWindow.label "Fechar Janela">
-
 <!ENTITY quitApplicationCmd.label "Sair">
 <!ENTITY quitApplicationCmd.key "q">
 <!ENTITY quitApplicationCmd.accesskey "s">
