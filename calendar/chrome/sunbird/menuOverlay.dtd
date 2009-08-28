@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                        "Procurar por actualizações…">
 <!ENTITY updateCmd.accesskey                    "p">
 
+<!ENTITY sunbird.export.calendar.label                     "Exportar Calendarário…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                       "Janela">
 <!ENTITY minimizeWindow.label                   "Minimizar">
