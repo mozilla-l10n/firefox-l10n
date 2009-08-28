@@ -41,6 +41,13 @@
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 
+<!-- tabmail -->
+<!ENTITY tabmailClose.label "Fechar separador">
+<!ENTITY tabmailClose.tooltip "Fechar separador">
+<!ENTITY tabmailNewButton.tooltip "Duplicar separador actual">
+<!ENTITY tabmailCloseButton.tooltip "Fechar separador actual">
+<!ENTITY tabmailAllTabs.tooltip "Listar todos os separadores">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
@@ -50,6 +57,11 @@
 <!ENTITY newFolderCmd.accesskey "P">
 <!ENTITY newVirtualFolderCmd.label "Pasta de pesquisa...">
 <!ENTITY newVirtualFolderCmd.accesskey "a">
+<!ENTITY newTabCmd.label "Duplicar separador">
+<!ENTITY newTabCmd.accesskey "s">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Fechar separador">
+<!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newAccountCmd.label "Conta...">
 <!ENTITY newAccountCmd.accesskey "t">
 <!ENTITY openMessageFileCmd.label "Abrir ficheiro...">
@@ -65,13 +77,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "M">
 <!ENTITY getNewMsgCmd.label "Receber">
 <!ENTITY getNewMsgCmd.accesskey "b">
-<!ENTITY getNewMsgCmd.key "T">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Receber de">
 <!ENTITY getNewMsgForCmd.accesskey "R">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as contas">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getAllNewMsgCmd.label "Receber todas as novas mensagens">
-<!ENTITY getAllNewMsgCmd.key "c">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Receber próximas 500 mensagens">
 <!ENTITY getNextNMsgCmd.accesskey "R">
 <!ENTITY sendUnsentCmd.label "Enviar mensagens Não Enviadas">
@@ -164,6 +176,8 @@
 <!ENTITY messagePaneVertical.accesskey "v">
 <!ENTITY showMessagePaneCmd.label "Painel de mensagens">
 <!ENTITY showMessagePaneCmd.accesskey "P">
+<!ENTITY showThreadPaneCmd.label "Painel do tópico">
+<!ENTITY showThreadPaneCmd.accesskey "t">
 <!ENTITY showFolderPaneCmd.label "Painel de pastas">
 <!ENTITY showFolderPaneCmd.accesskey "a">
 
@@ -457,6 +471,10 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Obter correio">
 <!ENTITY newMsgButton.label "Escrever">
+<!ENTITY newHTMLMessageCmd.label "Compôr em HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Compôr em formato texto">
+<!ENTITY newPlainTextMessageCmd.accesskey "p">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Responder a Todos">
 <!ENTITY forwardButton.label "Reencaminhar">
@@ -502,6 +520,8 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "A">
+<!ENTITY contextOpenNewTab.label "Abrir mensagem num novo separador">
+<!ENTITY contextOpenNewTab.accesskey "s">
 <!ENTITY contextEditAsNew.label "Editar como novo...">
 <!ENTITY contextEditAsNew.accesskey "d">
 <!ENTITY contextArchive.label "Arquivo">
@@ -536,6 +556,8 @@
 <!ENTITY folderContextGetMessages.accesskey "O">
 <!ENTITY folderContextOpenNewWindow.label "Abrir numa Nova Janela de Correio">
 <!ENTITY folderContextOpenNewWindow.accesskey "J">
+<!ENTITY folderContextOpenNewTab.label "Abrir num novo separador">
+<!ENTITY folderContextOpenNewTab.accesskey "s">
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Apagar">

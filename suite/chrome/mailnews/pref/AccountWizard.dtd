@@ -60,7 +60,7 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "O servidor SMTP actual, &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, será usado para enviar mensagens. Modifique indo ao menu Ferramentas -> Configurar contas.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, será usado para enviar mensagens. Modifique indo ao menu Ferramentas -> Configurar contas.">
 
 <!-- Entities for Login page -->
 
@@ -78,13 +78,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "O nome de utilizador do servidor SMTP, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, será usado para enviar mensagens. Modifique pelo menu Ferramentas - Configurar contas.">
+<!ENTITY haveSmtp2.suffix2 "&quot;, será usado para enviar mensagens. Modifique pelo menu Ferramentas - Configurar contas.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "O servidor SMTP (usado para enviar mensagens), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, é o mesmo servidor usado para receber mensagens. Será usado o mesmo nome de utilizador. Você pode modificar estas opções no menu Ferramentas - Configurar contas.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, é o mesmo servidor usado para receber mensagens. Será usado o mesmo nome de utilizador. Você pode modificar estas opções no menu Ferramentas - Configurar contas.">
 
 <!-- Entities for Account name page -->
 

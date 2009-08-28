@@ -22,6 +22,9 @@
 <!ENTITY recentTabs.label "Separadores fechados recentemente">
 <!ENTITY recentTabs.accesskey "r">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Janelas fechadas recentemente">
+<!ENTITY recentWindows.accesskey "l">
+<!ENTITY recentWindows.commandkey "l">
 <!ENTITY editPageCmd.label "Editar Página">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">

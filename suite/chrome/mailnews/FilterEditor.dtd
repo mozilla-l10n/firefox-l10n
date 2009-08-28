@@ -71,6 +71,8 @@
 <!ENTITY contextIncoming.label "Verificar Correio">
 <!ENTITY contextManual.label "Correr manualmente">
 <!ENTITY contextBoth.label "Verificar correio ou correr manualmente">
+<!ENTITY contextPostPlugin.label "A verificar correio (após classificar)">
+<!ENTITY contextPostPluginBoth.label "A verificar correio (após classificar) ou executar manualmente">
 
 <!ENTITY filterActionDesc.label "Efectuar estas acções:">
 <!ENTITY filterActionDesc.accesskey "f">

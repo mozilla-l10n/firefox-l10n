@@ -45,6 +45,8 @@
 <!ENTITY reloadImageCmd.accesskey     "e">
 <!ENTITY viewImageCmd.label           "Ver Imagem">
 <!ENTITY viewImageCmd.accesskey       "V">
+<!ENTITY viewVideoCmd.label           "Ver Vídeo">
+<!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setWallpaperCmd.label        "definir como imagem de fundo do ambiente de trabalho">
