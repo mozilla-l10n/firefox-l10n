@@ -1,20 +1,11 @@
 <!ENTITY back.label            "上一頁">
-<!ENTITY back.tooltip          "上一頁">
 <!ENTITY forward.label         "下一頁">
-<!ENTITY forward.tooltip       "下一頁">
 <!ENTITY reload.label          "重新載入">
-<!ENTITY reload.tooltip        "重新載入">
 <!ENTITY stop.label            "停止">
-<!ENTITY stop.tooltip          "停止">
 <!ENTITY search.label          "搜尋">
-<!ENTITY search.tooltip        "搜尋">
 <!ENTITY go.label              "衝">
-<!ENTITY go.tooltip            "衝">
 <!ENTITY openLocation.label    "開啟網址">
-<!ENTITY openLocation.tooltip  "開啟網址">
 <!ENTITY star.label            "星號">
-<!ENTITY star.tooltip          "將本頁加入書籤">
-<!ENTITY bookmarks.tooltip     "檢視書籤">
 
 <!ENTITY newtab.label          "開新分頁">
 <!ENTITY closetab.label        "關閉分頁">
@@ -55,12 +46,13 @@
 <!ENTITY addonsRepo.label          "取得元件">
 <!ENTITY addonsRecommended.label   "推薦元件">
 <!ENTITY addonsSearch.label        "搜尋">
-<!ENTITY addonsSearch.emptytext    "搜尋所有附加元件">
+<!ENTITY addonsSearch2.emptytext   "搜尋分類">
+<!ENTITY addonsSearch.recommended  "推薦元件">
 
 <!ENTITY addonOptions.label        "選項">
 <!ENTITY addonEnable.label         "啟用">
 <!ENTITY addonDisable.label        "停用">
-<!ENTITY addonInstall.label        "安裝">
+<!ENTITY addonInstall2.label       "安裝到 &brandShortName;">
 <!ENTITY addonUninstall.label      "移除">
 <!ENTITY addonCancel.label         "取消">
 <!ENTITY addonShowPage.label       "連到首頁">
@@ -70,7 +62,7 @@
 <!ENTITY downloadsSortSite.label   "網站">
 <!ENTITY downloadsSortName.label   "名稱">
 <!ENTITY downloadsSearch.label     "搜尋">
-<!ENTITY downloadsSearch.emptytext "搜尋已下載的檔案">
+<!ENTITY downloadsSearch2.emptytext "搜尋">
 
 <!ENTITY downloadShowPage.label    "連到下載網頁">
 <!ENTITY downloadShow2.label       "尋找">
@@ -83,7 +75,7 @@
 <!ENTITY noResults.label           "沒有結果">
 <!ENTITY allBookmarks.label        "顯示所有書籤">
 
-<!ENTITY searchEngine.addSearch     "Add Search:">
+<!ENTITY searchEngine.addSearch     "新增搜尋:">
 
 <!ENTITY bookmarkPopup.label       "此頁已加入書籤">
 <!ENTITY bookmarkRemove.label      "移除">
