@@ -66,7 +66,7 @@
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Tipo ed ficheiro não seguro">
+<!ENTITY unsafeContentType.title "Tipo de ficheiro não seguro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Contacte os donos do sítio web para os informar deste problema.</li>
@@ -116,7 +116,8 @@
 <!ENTITY unknownSocketType.title "Resposta inesperada do servidor">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Verifique se o seu sistema tem instalado o Personal Security Manager.</li>
+  <li>Verifique se o seu sistema tem instalado o Personal Security 
+    Manager.</li>
   <li>Isto pode ser devido a uma configuração não-standard do servidor.</li>
 </ul>
 ">
