@@ -1,20 +1,11 @@
 <!ENTITY back.label            "Enrere">
-<!ENTITY back.tooltip          "Enrere">
 <!ENTITY forward.label         "Endavant">
-<!ENTITY forward.tooltip       "Endavant">
 <!ENTITY reload.label          "Actualitza">
-<!ENTITY reload.tooltip        "Actualitza">
 <!ENTITY stop.label            "Atura">
-<!ENTITY stop.tooltip          "Atura">
 <!ENTITY search.label          "Cerca">
-<!ENTITY search.tooltip        "Cerca">
 <!ENTITY go.label              "Vés-hi">
-<!ENTITY go.tooltip            "Vés-hi">
 <!ENTITY openLocation.label    "Obre una ubicació">
-<!ENTITY openLocation.tooltip  "Obre una ubicació">
 <!ENTITY star.label            "Senyala">
-<!ENTITY star.tooltip          "Afegeix a les adreces d'interès">
-<!ENTITY bookmarks.tooltip     "Visualitza les adreces d'interès">
 
 <!ENTITY newtab.label          "Crea una pestanya">
 <!ENTITY closetab.label        "Tanca la pestanya">
@@ -54,13 +45,14 @@
 <!ENTITY addonsLocal.label         "Els vostres complements">
 <!ENTITY addonsRepo.label          "Aconsegueix complements">
 <!ENTITY addonsRecommended.label   "Vegeu els recomanats">
-<!ENTITY addonsSearch.label        "Cerqueu-ne al catàleg">
-<!ENTITY addonsSearch.emptytext    "Cerqueu uns complements">
+<!ENTITY addonsSearch.label        "Cerca">
+<!ENTITY addonsSearch2.emptytext   "Cerqueu-ne al catàleg">
+<!ENTITY addonsSearch.recommended  "Recomanats">
 
 <!ENTITY addonOptions.label        "Opcions">
 <!ENTITY addonEnable.label         "Habilita">
 <!ENTITY addonDisable.label        "Inhabilita">
-<!ENTITY addonInstall.label        "Instaŀla">
+<!ENTITY addonInstall2.label       "Afegeix al &brandShortName;">
 <!ENTITY addonUninstall.label      "Desinstaŀla">
 <!ENTITY addonCancel.label         "Canceŀla">
 <!ENTITY addonShowPage.label       "Vés a la pàgina">
@@ -70,7 +62,7 @@
 <!ENTITY downloadsSortSite.label   "Per lloc">
 <!ENTITY downloadsSortName.label   "Per nom">
 <!ENTITY downloadsSearch.label     "Cerca">
-<!ENTITY downloadsSearch.emptytext "Cerca un fitxer baixat">
+<!ENTITY downloadsSearch2.emptytext "Cerca">
 
 <!ENTITY downloadShowPage.label    "Vés a la pàgina">
 <!ENTITY downloadShow2.label       "Cerca">
@@ -83,6 +75,8 @@
 <!ENTITY noResults.label           "Cap resultat">
 
 <!ENTITY allBookmarks.label        "Consulta totes les adreces d'interès">
+
+<!ENTITY searchEngine.addSearch     "Afegeix la cerca:">
 
 <!ENTITY bookmarkPopup.label       "Pàgina a les adreces d'interès">
 <!ENTITY bookmarkRemove.label      "Suprimeix">
