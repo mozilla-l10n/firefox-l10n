@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Evento…">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Tarefa…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Calendário…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Abrir">
@@ -61,11 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Ficheiro do Calendário…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Calendário">
-<!ENTITY lightning.calendar.accesskey        "C">
-<!ENTITY lightning.tasks.label               "Tarefas">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Calendário">
+<!ENTITY lightning.menu.view.calendar.accesskey        "C">
+<!ENTITY lightning.menu.view.tasks.label               "Tarefas">
+<!ENTITY lightning.menu.view.tasks.accesskey           "T">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Eventos e Tarefas">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label      "Correio">
