@@ -41,6 +41,13 @@
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 
+<!-- tabmail -->
+<!ENTITY tabmailClose.label "Tab schließen">
+<!ENTITY tabmailClose.tooltip "Tab schließen">
+<!ENTITY tabmailNewButton.tooltip "Aktuelles Tab duplizieren">
+<!ENTITY tabmailCloseButton.tooltip "Aktuelles Tab schließen">
+<!ENTITY tabmailAllTabs.tooltip "List all tabs">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
@@ -50,6 +57,11 @@
 <!ENTITY newFolderCmd.accesskey "O">
 <!ENTITY newVirtualFolderCmd.label "Gespeicherte Suche…">
 <!ENTITY newVirtualFolderCmd.accesskey "G">
+<!ENTITY newTabCmd.label "Tab duplizieren">
+<!ENTITY newTabCmd.accesskey "d">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Tab schließen">
+<!ENTITY closeTabCmd.accesskey "T">
 <!ENTITY newAccountCmd.label "Account…">
 <!ENTITY newAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
@@ -65,13 +77,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "V">
 <!ENTITY getNewMsgCmd.label "Neue Nachrichten abrufen">
 <!ENTITY getNewMsgCmd.accesskey "N">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Neue Nachrichten empfangen für">
 <!ENTITY getNewMsgForCmd.accesskey "N">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle Accounts">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "Alle neuen Nachrichten empfangen">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Nächste 500 News-Nachrichten abrufen">
 <!ENTITY getNextNMsgCmd.accesskey "N">
 <!ENTITY sendUnsentCmd.label "Ungesendete Nachrichten absenden">
@@ -162,9 +174,11 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "Vertikale Ansicht">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showMessagePaneCmd.label "Nachrichtenfenster">
+<!ENTITY showMessagePaneCmd.label "Nachrichtenansicht">
 <!ENTITY showMessagePaneCmd.accesskey "N">
-<!ENTITY showFolderPaneCmd.label "Ordnerfenster">
+<!ENTITY showThreadPaneCmd.label "Nachrichtenliste">
+<!ENTITY showThreadPaneCmd.accesskey "T">
+<!ENTITY showFolderPaneCmd.label "Ordnerliste">
 <!ENTITY showFolderPaneCmd.accesskey "O">
 
 <!-- sortMenu is also used by addressbook -->
@@ -506,6 +520,8 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "In neuem Fenster öffnen">
 <!ENTITY contextOpenNewWindow.accesskey "I">
+<!ENTITY contextOpenNewTab.label "Nachricht in neuem Tab öffnen">
+<!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "Als neu bearbeiten…">
 <!ENTITY contextEditAsNew.accesskey "A">
 <!ENTITY contextArchive.label "Archivieren">
@@ -540,6 +556,8 @@
 <!ENTITY folderContextGetMessages.accesskey "N">
 <!ENTITY folderContextOpenNewWindow.label "In neuem Mail-Fenster öffnen">
 <!ENTITY folderContextOpenNewWindow.accesskey "I">
+<!ENTITY folderContextOpenNewTab.label "In neuem Tab öffnen">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextRename.label "Umbenennen">
 <!ENTITY folderContextRename.accesskey "U">
 <!ENTITY folderContextRemove.label "Löschen">

@@ -125,7 +125,7 @@
 <!ENTITY Department.label               "Abteilung:">
 <!ENTITY Department.accesskey           "g">
 <!ENTITY Company.label                  "Organisation:">
-<!ENTITY Company.accesskey              "g">
+<!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Adresse:">
 <!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
@@ -153,3 +153,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Anmerkungen:">
 <!ENTITY Notes.accesskey                "o">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Wählen Sie eine der folgenden Optionen:">
+<!ENTITY GenericPhoto.label             "Generisches Foto">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Standard">
+<!ENTITY PhotoFile.label                "Auf diesem Computer">
+<!ENTITY PhotoFile.accesskey            "C">
+<!ENTITY BrowsePhoto.label              "Durchsuchen">
+<!ENTITY BrowsePhoto.accesskey          "D">
+<!ENTITY PhotoURL.label                 "Im Web">
+<!ENTITY PhotoURL.accesskey             "W">
+<!ENTITY PhotoURL.emptytext             "Web-Adresse eines Fotos einfügen oder eingeben">
+<!ENTITY UpdatePhoto.label              "Aktualisieren">
+<!ENTITY UpdatePhoto.accesskey          "A">

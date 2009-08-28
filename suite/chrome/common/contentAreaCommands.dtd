@@ -45,6 +45,8 @@
 <!ENTITY reloadImageCmd.accesskey     "r">
 <!ENTITY viewImageCmd.label           "Grafik anzeigen">
 <!ENTITY viewImageCmd.accesskey       "G">
+<!ENTITY viewVideoCmd.label           "Video ansehen">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Hintergrundgrafik anzeigen">
 <!ENTITY viewBGImageCmd.accesskey     "z">
 <!ENTITY setWallpaperCmd.label        "Als Hintergrundbild setzen">
