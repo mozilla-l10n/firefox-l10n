@@ -1,4 +1,7 @@
 <!ENTITY prefsHeader.label                         "Preferències">
+<!ENTITY about.title                               "Quant al &brandShortName;">
+<!ENTITY about.button                              "Vés a la pàgina">
+<!ENTITY about.description                         "Obtingueu ajuda i informació del producte">
 <!ENTITY content.title                             "Contingut">
 <!ENTITY showImages.title                          "Mostra les imatges">
 <!ENTITY enableJavaScript.title  	           "Habilita els JavaScript">
