@@ -1,0 +1,26 @@
+<!ENTITY safeb.palm.warning.title "Engion da web supponì">
+
+<!ENTITY safeb.palm.message.p1 "Questa website è classifitgada sco pagina ch'è vegnida creada per persvader ils utilisaders da tradir datas persunalas resp. finanzialas. Sche ti inditgeschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u auters engions. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Ulteriuras infurmaziuns &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Ulteriuras infurmaziuns &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Questa furma d'engianar en l'internet è era enconuschenta sco phishing. Persunas criminalas cun l'intenziun d'engianar emprovan d'imitar websites u e-mails che inspiran confidenza. Ti pos vegnir a savair dapli">
+<!ENTITY safeb.palm.message.p2.linkText "co che &brandShortName; ta protegia cunter quests privels">
+<!ENTITY safeb.palm.message.p2.end ".">
+
+<!ENTITY safeb.palm.accept.label "Bandunar questa pagina">
+<!ENTITY safeb.palm.accept.statustext "A mia pagina da partenza">
+<!ENTITY safeb.palm.decline.label "Ignorar quest avertiment">
+<!ENTITY safeb.palm.decline.statustext "Serrar quest avertiment" >
+<!ENTITY safeb.palm.notforgery.label2 "Quai n'è betg in'emprova d'engion...">
+<!ENTITY safeb.palm.report.label "Pertge è questa pagina vegnida bloccada?">
+
+<!ENTITY safeb.blocked.malware.title "Pagina classifitgada sco website attatganta!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "La website sin <span id='malware_sitename'/> è vegnida annunziada sco pagina attatganta ed è vegnida bloccada sin fundament da tias preferenzas da segirezza.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Websites attatgantas emprovan d'installar programs che engolan infurmaziuns privatas, che dovran tes computer per attatgar auters u che donnegian tes sistem.</p><p>Tschertas websites derasan sapientivamain virus e sumeglianta software donnegiusa, ma bleras websites èn era pertutgadas senza che l'administratur saja perencletg u infurmà.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "Website annunziada sco emprova d'engion!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "La website sin <span id='phishing_sitename'/> è classifitgada sco emprova d'engion ed è vegnida bloccada sin fundament da tias preferenzas da segirezza">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Cun paginas d'engion emprovan persunas criminalas da persvader tai da tradir datas persunalas u finanzialas. Cun l'intenziun d'engianar imiteschan ellas websites u e-mails che inspiran confidenza .</p><p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p>">

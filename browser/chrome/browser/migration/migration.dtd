@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title          "Assistent per importar">
+
+<!ENTITY importFrom.label               "Importar preferenzas, segnapaginas, cronologia, pleds-clav ed autras datas da:">
+<!ENTITY importFromUnix.label           "Importar preferenzas, segnapaginas, cronologia, pleds-clav ed autras datas da:">
+<!ENTITY importFromBookmarks.label      "Importar ils segnapaginas da:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird u Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "F">
+<!ENTITY importFromNothing.label        "Importar nagut">
+<!ENTITY importFromNothing.accesskey    "I">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 u Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "Or d'ina datoteca HTML">
+<!ENTITY importFromHTMLFile.accesskey   "d">
+
+<!ENTITY noMigrationSources.label       "Impussibel da chattar in program che cuntegna datas davart ils segnapaginas, la cronologia u ils pleds-clav.">
+
+<!ENTITY importSource.title             "Importar las preferenzas e las datas">
+<!ENTITY importItems.title              "Datas che duain vegnir importadas">
+<!ENTITY importItems.label              "Tscherna per plaschair las datas che duain vegnir importadas:">
+
+<!ENTITY migrating.title                "Importar...">
+<!ENTITY migrating.label                "Las suandantas datas vegnan importadas actualmain:">
+
+<!ENTITY selectProfile.title            "Tscherner in profil">
+<!ENTITY selectProfile.label            "Ils suandants profils stattan a disposiziun per l'import:">
+
+<!ENTITY done.title                     "L'import è terminà">
+<!ENTITY done.label                     "Las suandantas datas èn vegnidas importadas cun success:">
+

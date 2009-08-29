@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title          "Davart &brandFullName;">
+<!ENTITY copyright                  "Engraziaments">
+<!ENTITY copyright.accesskey        "E">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY aboutLink                  "&lt; Davart &brandFullName;">
+<!ENTITY aboutLink.accesskey        "D">
+<!ENTITY aboutVersion               "Versiun">
+<!ENTITY closeCmdGNOME.label        "Close">  
+<!ENTITY closeCmdGNOME.accesskey    "C">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 contribuents. Tut ils dretgs resalvads. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Infurmaziuns davart la licenza">
+<!ENTITY copyrightInfo2             ").">

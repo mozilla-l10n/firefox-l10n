@@ -1,0 +1,19 @@
+<!ENTITY about.version                "versiun">
+
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008 tar ils">
+<!ENTITY about.copy.linkTitle         "contribuents">
+<!ENTITY about.copy.afterLink         "dal project da Mozilla.">
+
+<!ENTITY about.license.beforeLink     "Legia">
+<!ENTITY about.license.linkTitle      "l'infurmaziun da licenza">
+<!ENTITY about.license.afterLink      "da quest product.">
+
+<!ENTITY about.relnotes.beforeLink    "Legia las ">
+<!ENTITY about.relnotes.linkTitle     "notizias da publicaziun">
+<!ENTITY about.relnotes.afterLink     "da questa versiun.">
+
+<!ENTITY about.buildconfig.beforeLink "Vesair la">
+<!ENTITY about.buildconfig.linkTitle  "configuraziun dal build">
+<!ENTITY about.buildconfig.afterLink  "che vegn utilisada per questa versiun.">
+
+<!ENTITY about.buildIdentifier        "Identificaziun dal build: ">
