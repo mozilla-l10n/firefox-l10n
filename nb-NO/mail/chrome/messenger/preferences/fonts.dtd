@@ -14,7 +14,7 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  serif.accesskey                         "r">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Fast tegnavstand:">
@@ -50,7 +50,7 @@
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minste skriftstørrelse:">
-<!ENTITY minSize.accesskey                        "s">
+<!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Ingen">
 
 <!-- default font type -->

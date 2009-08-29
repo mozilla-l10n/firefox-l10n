@@ -22,7 +22,7 @@
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; kan analysere meldinger og oppdage mulige e-postsvindler ved å se etter vanlige teknikker brukt for å lure deg.">
-<!ENTITY enablePhishingDetector1.label    "Fortell meg om meldinger jeg leser er mistenkte e-postsvindler">
+<!ENTITY enablePhishingDetector1.label    "Fortell meg dersom meldinger jeg leser er mistenkte e-postsvindler">
 <!ENTITY enablePhishingDetector1.accesskey  "F">
 <!ENTITY useDownloadedList.label "Bruk en nedlastet liste over mistenkte e-postsvindler">
 <!ENTITY useDownloadedList.accesskey "B">

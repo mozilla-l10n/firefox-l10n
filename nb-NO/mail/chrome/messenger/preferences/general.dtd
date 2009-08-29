@@ -29,7 +29,7 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY addonsMgr.label                  "Utvidelser">
-<!ENTITY manageAddonsDescWin.label        "Forandre innstillinger for utvidelsene dine">
-<!ENTITY manageAddonsDescUnix2.label      "Forandre innstillinger for utvidelsene dine">
+<!ENTITY manageAddonsDescWin.label        "Forandre innstillinger for utvidelser">
+<!ENTITY manageAddonsDescUnix2.label      "Forandre innstillinger for utvidelser">
 <!ENTITY manageAddons.label               "Behandle utvidelser …">
 <!ENTITY manageAddons.accesskey           "d">
