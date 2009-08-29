@@ -41,17 +41,17 @@
 <!ENTITY playSound.label                  "Jouer un son">
 <!ENTITY playSound.accesskey              "J">
 <!ENTITY showAnimatedAlert.label          "Afficher un avertissement">
-<!ENTITY showAnimatedAlert.accesskey      "s">
+<!ENTITY showAnimatedAlert.accesskey      "h">
 <!ENTITY showTrayIcon.label               "Afficher une icône dans la barre de notification">
-<!ENTITY showTrayIcon.accesskey           "t">
+<!ENTITY showTrayIcon.accesskey           "e">
 <!ENTITY bounceSystemDockIcon.label       "Animer l'icône du Dock">
-<!ENTITY bounceSystemDockIcon.accesskey   "n">
+<!ENTITY bounceSystemDockIcon.accesskey   "D">
 <!ENTITY preview.label                    "Aperçu">
 <!ENTITY preview.accesskey                "u">
 <!ENTITY systemsound.label                "Son du système pour « nouveau message »">
-<!ENTITY systemsound.accesskey            "m">
+<!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Fichier .wav personnalisé">
-<!ENTITY customsound.accesskey            "p">
+<!ENTITY customsound.accesskey            "F">
 <!ENTITY browse.label                     "Parcourir…">
 <!ENTITY browse.accesskey                 "C">
 <!ENTITY browse.title                     "Choisir un fichier">

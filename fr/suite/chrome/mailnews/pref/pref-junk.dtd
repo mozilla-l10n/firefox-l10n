@@ -42,7 +42,7 @@
 <!ENTITY manualMark.label               "Quand je marque des messages comme indésirables :">
 <!ENTITY manualMark.accesskey           "m">
 <!ENTITY manualMarkModeMove.label       "les déplacer vers le dossier « Indésirables »">
-<!ENTITY manualMarkModeMove.accesskey   "I">
+<!ENTITY manualMarkModeMove.accesskey   "e">
 <!ENTITY manualMarkModeDelete.label     "les supprimer">
 <!ENTITY manualMarkModeDelete.accesskey "s">
 
@@ -53,7 +53,7 @@
 <!ENTITY manualMarkAsRead.accesskey     "Q">
 
 <!ENTITY enableJunkLogging.label        "Activer la journalisation du filtre des indésirables">
-<!ENTITY enableJunkLogging.accesskey    "j">
+<!ENTITY enableJunkLogging.accesskey    "c">
 <!ENTITY openJunkLog.label              "Afficher le journal">
 <!ENTITY openJunkLog.accesskey          "h">
 <!ENTITY resetTrainingData.label        "Réinitialiser les données d'apprentissage">

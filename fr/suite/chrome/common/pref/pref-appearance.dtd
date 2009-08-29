@@ -14,7 +14,7 @@
 <!ENTITY picsOnlyRadio.label "Les icônes seulement">
 <!ENTITY picsOnlyRadio.accesskey "s">
 <!ENTITY textonlyRadio.label "Le texte seulement">
-<!ENTITY textonlyRadio.accesskey "t">
+<!ENTITY textonlyRadio.accesskey "x">
 <!ENTITY showHideTooltips.label "Afficher les info-bulles">
 <!ENTITY showHideTooltips.accesskey "b">
 

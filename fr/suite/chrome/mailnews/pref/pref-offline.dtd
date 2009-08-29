@@ -3,8 +3,8 @@
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
 <!ENTITY pref.offline.title "Hors connexion et espace disque">
 <!ENTITY pref.offline.caption "Hors connexion">
-<!ENTITY textStartUp                "Au lancement :">
-<!ENTITY textStartUp.accesskey      "A">
+<!ENTITY textStartUp "Au lancement :">
+<!ENTITY textStartUp.accesskey "c">
 <!ENTITY menuitemRememberPrevState "Reprendre l'état de connexion précédent">
 <!ENTITY menuitemAskMe "Me demander l'état de connexion voulu au lancement">
 <!ENTITY menuitemAlwaysOnline "Toujours démarrer en mode en ligne">
@@ -26,5 +26,5 @@
 <!ENTITY radioAskDownload.accesskey "e">
 <!ENTITY Diskspace "Espace disque">
 <!ENTITY offlineCompact.label "Compacter les dossiers quand l'espace gagné atteint au moins">
-<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY offlineCompact.accesskey "m">
 <!ENTITY kb.label "Ko">

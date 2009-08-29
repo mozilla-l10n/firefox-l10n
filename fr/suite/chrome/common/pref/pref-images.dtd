@@ -9,16 +9,16 @@
 <!ENTITY imageDetails "Spécifier comment &brandShortName; gère les images.">
 
 <!ENTITY accAllImagesRadio.label "Accepter toutes les images">
-<!ENTITY accAllImagesRadio.accesskey "i">
+<!ENTITY accAllImagesRadio.accesskey "e">
 <!ENTITY accOrgImagesRadio.label "Accepter les images provenant du serveur initial seulement">
-<!ENTITY accOrgImagesRadio.accesskey "n">
+<!ENTITY accOrgImagesRadio.accesskey "c">
 <!ENTITY disableImages.label "Ne pas charger les images">
-<!ENTITY disableImages.accesskey "c">
+<!ENTITY disableImages.accesskey "N">
 <!ENTITY viewImages.label "Gestion des images">
 <!ENTITY viewImages.accesskey "G">
-<!ENTITY animLoopingTitle.label        "Les images animées doivent tourner en boucle :">
+<!ENTITY animLoopingTitle.label "Les images animées doivent tourner en boucle :">
 <!ENTITY animLoopAsSpecified.label "Autant de fois que spécifié par l'image">
-<!ENTITY animLoopAsSpecified.accesskey "t">
+<!ENTITY animLoopAsSpecified.accesskey "d">
 <!ENTITY animLoopOnce.label "Une fois">
 <!ENTITY animLoopOnce.accesskey "U">
 <!ENTITY animLoopNever.label "Jamais">

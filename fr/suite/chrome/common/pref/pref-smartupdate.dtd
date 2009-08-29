@@ -2,21 +2,21 @@
 <!ENTITY pref.smartUpdate.title "Installation des logiciels">
 <!ENTITY smartTitle.label "Gérer les installations et les mises à jour logicielles">
 <!ENTITY enableSU.label "Autoriser des sites Web à installer et à mettre à jour des modules complémentaires">
-<!ENTITY enableSU.accesskey "e">
+<!ENTITY enableSU.accesskey "u">
 <!ENTITY allowedSites.label "Sites autorisés">
-<!ENTITY allowedSites.accesskey "u">
+<!ENTITY allowedSites.accesskey "S">
 
 <!ENTITY verifyUpdates.caption "Mises à jour">
 <!ENTITY autoUpdates.label "Vérifier automatiquement les mises à jour pour :">
 <!ENTITY appUpdates.label "&brandShortName;">
 <!ENTITY appUpdates.accesskey "k">
 <!ENTITY daily.label "tous les jours">
-<!ENTITY appDaily.accesskey "t">
+<!ENTITY appDaily.accesskey "o">
 <!ENTITY weekly.label "toutes les semaines">
-<!ENTITY appWeekly.accesskey "s">
+<!ENTITY appWeekly.accesskey "m">
 <!ENTITY extensionsUpdates.label "Modules complémentaires installés">
-<!ENTITY extensionsUpdates.accesskey "M">
-<!ENTITY extensionsDaily.accesskey "o">
-<!ENTITY extensionsWeekly.accesskey "a">
+<!ENTITY extensionsUpdates.accesskey "d">
+<!ENTITY extensionsDaily.accesskey "s">
+<!ENTITY extensionsWeekly.accesskey "n">
 <!ENTITY addonManagerButton.label "Gestion des modules complémentaires">
 <!ENTITY addonManagerButton.accesskey "G">

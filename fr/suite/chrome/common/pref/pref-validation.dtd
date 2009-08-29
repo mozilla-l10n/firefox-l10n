@@ -48,10 +48,10 @@
 <!ENTITY certOCSP2.label "Valider un certificat s'il spécifie un serveur OCSP">
 <!ENTITY certOCSP2.accesskey "V">
 <!ENTITY proxyOCSP2.label "Valider tous les certificats utilisant le serveur OCSP suivant :">
-<!ENTITY proxyOCSP2.accesskey "a">
+<!ENTITY proxyOCSP2.accesskey "d">
 <!ENTITY serviceURL.label "URL du service :">
-<!ENTITY serviceURL.accesskey "s">
+<!ENTITY serviceURL.accesskey "R">
 <!ENTITY signingCA.label "Signataire de réponse :">
-<!ENTITY signingCA.accesskey "r">
+<!ENTITY signingCA.accesskey "S">
 <!ENTITY validation.requireOCSP.description "Quand la connexion à un serveur OCSP échoue, considérer le certificat comme étant invalide">
-<!ENTITY validation.requireOCSP.accesskey "n">
+<!ENTITY validation.requireOCSP.accesskey "Q">

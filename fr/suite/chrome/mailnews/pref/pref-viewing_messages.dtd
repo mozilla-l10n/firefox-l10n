@@ -57,7 +57,7 @@
 <!ENTITY wrapInMsg.accesskey "e">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Mettre des images à la place des émoticônes">
-<!ENTITY convertEmoticons.accesskey    "s">
+<!ENTITY convertEmoticons.accesskey    "o">
 <!ENTITY generalMessageDisplay.caption "Général">
 <!ENTITY autoMarkAsRead.label          "Marquer automatiquement les messages comme lus">
 <!ENTITY autoMarkAsRead.accesskey      "M">
@@ -67,14 +67,14 @@
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label "Après un délai de">
-<!ENTITY markAsReadDelay.accesskey "A">
+<!ENTITY markAsReadDelay.accesskey "r">
 <!ENTITY secondsLabel.label "secondes">
 
 <!ENTITY openingMessages.label "À l'ouverture des messages, les afficher dans :">
 <!ENTITY newWindowRadio.label "Une nouvelle fenêtre">
-<!ENTITY newWindowRadio.accesskey "n">
+<!ENTITY newWindowRadio.accesskey "U">
 <!ENTITY existingWindowRadio.label "Une fenêtre existante">
-<!ENTITY existingWindowRadio.accesskey "e">
+<!ENTITY existingWindowRadio.accesskey "n">
 <!ENTITY disableContent.label "Bloquer les images et autres contenus distants">
 <!ENTITY disableContent.accesskey "B">
 <!ENTITY showCondensedAddresses.label "Afficher seulement « Nom à afficher » pour les personnes dans mon carnet d'adresses">

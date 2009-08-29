@@ -9,6 +9,6 @@
 
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label "Ctrl+Entrée dans la barre d'adresse">
-<!ENTITY urlbar.accesskey "l">
+<!ENTITY urlbar.accesskey "C">
 <!ENTITY middleClick.label "Clic du milieu, Ctrl+Clic ou Ctrl+Entrée sur les liens d'une page Web">
-<!ENTITY middleClick.accesskey "m">
+<!ENTITY middleClick.accesskey "+">

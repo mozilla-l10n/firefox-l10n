@@ -31,4 +31,4 @@
 <!ENTITY domainGuessing.label "Ajouter automatiquement « www. » et « .com » à l'adresse si une page Web n'est pas trouvée.">
 <!ENTITY domainGuessing.accesskey "w">
 <!ENTITY keywords.label "Lancer une recherche Internet lorsque le texte saisi n'est pas une adresse Web.">
-<!ENTITY keywords.accesskey "I">
+<!ENTITY keywords.accesskey "n">

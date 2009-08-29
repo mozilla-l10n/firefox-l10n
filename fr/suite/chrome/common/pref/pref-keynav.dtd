@@ -13,8 +13,8 @@
 <!ENTITY findAsYouTypeSound.label "Jouer un son quand le texte saisi est introuvable">
 <!ENTITY findAsYouTypeSound.accesskey "J">
 <!ENTITY findAsYouTypeEnableAuto.label "Chercher automatiquement à la saisie d'un texte dans :">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "C">
 <!ENTITY findAsYouTypeAutoText.label "Tout texte de la page">
 <!ENTITY findAsYouTypeAutoText.accesskey "T">
 <!ENTITY findAsYouTypeAutoLinks.label "Seulement les liens">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "l">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "S">
