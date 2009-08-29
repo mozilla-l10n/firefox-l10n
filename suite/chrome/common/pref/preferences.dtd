@@ -16,10 +16,10 @@
 <!ENTITY images.label "Изображения">
 <!ENTITY popups.label "Всплывающие окна">
 <!ENTITY passwords.label "Пароли">
-<!ENTITY masterpass.label "Мастер-пароли">
+<!ENTITY masterpass.label "Мастер-пароль">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Сертификаты">
-<!ENTITY validation.label "Настройки OCSP">
+<!ENTITY validation.label "Валидация">
 <!ENTITY advance.label "Дополнительно">
 <!ENTITY down.label "Загрузка">
 <!ENTITY cache.label "Кэш">

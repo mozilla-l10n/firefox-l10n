@@ -36,7 +36,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.masterpass.title "Мастер-пароли">
+<!ENTITY pref.masterpass.title "Мастер-пароль">
 <!ENTITY managepassword.caption "Временной лимит мастер-пароля">
 <!ENTITY managepassword.text "&brandShortName; будет спрашивать мастер-пароль:">
 <!ENTITY managepassword.askfirsttime "В первый раз, когда он понадобится">

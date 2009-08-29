@@ -127,7 +127,7 @@
 <!ENTITY proxyIcon.tooltip "Перетащите этот значок, чтобы создать ссылку на эту страницу">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Отображает ваши закладки">
-<!ENTITY homeButton.label "К началу">
+<!ENTITY homeButton.label "Домой">
 <!ENTITY bookmarksToolbarItem.label "Элементы панели закладок">
 <!ENTITY statusText.label "Готово">
 <!ENTITY historyCmd.label "Журнал посещений">
