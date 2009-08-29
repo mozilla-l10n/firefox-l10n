@@ -36,8 +36,8 @@
 <!ENTITY dontrememberActions.pre.label "È inoltre possibile ">
 <!ENTITY dontrememberActions.clearHistory.label "cancellare tutta la cronologia corrente">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingAutoStart.label "Avvia automaticamente &brandShortName; in una sessione di navigazione anonima">
-<!ENTITY privateBrowsingAutoStart.accesskey "A">
+<!ENTITY privateBrowsingPermanent.label "Utilizza sempre la modalità di navigazione anonima ">
+<!ENTITY privateBrowsingPermanent.accesskey "U">
 <!ENTITY rememberHistory.pre.label "Conserva la cronologia di navigazione per almeno">
 <!ENTITY rememberHistory.pre.accesskey "C">
 <!ENTITY rememberHistory.post.label "giorni">
