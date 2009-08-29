@@ -35,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.validation.title "Настройки OCSP">
+<!ENTITY pref.validation.title "Валидация">
 <!ENTITY validation.crl.caption "CRL">
 <!ENTITY validation.crl.description "Используйте менеджер CRL для управления списками отозванных сертификатов (CRL), хранящихся в вашей базе сертификатов.">
 <!ENTITY validation.managecrls.button "Управление CRL…">
