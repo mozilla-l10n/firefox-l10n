@@ -22,6 +22,9 @@
 <!ENTITY recentTabs.label "Nylig lukkede faner">
 <!ENTITY recentTabs.accesskey "N">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Nylig lukkede vinduer">
+<!ENTITY recentWindows.accesskey "u">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Rediger side">
 <!ENTITY editPageCmd.accesskey "R">
 <!ENTITY editPageCmd.commandkey "e">
