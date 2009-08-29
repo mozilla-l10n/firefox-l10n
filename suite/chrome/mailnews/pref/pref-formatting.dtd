@@ -56,7 +56,7 @@
 <!ENTITY PlainTexttitle.accesskey "p">
 <!ENTITY AddButton.label "Ajouter…">
 <!ENTITY AddHtmlDomain.accesskey "o">
-<!ENTITY AddPlainText.accesskey "j">
+<!ENTITY AddPlainText.accesskey "u">
 <!ENTITY DeleteButton.label "Retirer">
 <!ENTITY DeleteHtmlDomain.accesskey "R">
 <!ENTITY DeletePlainText.accesskey "t">

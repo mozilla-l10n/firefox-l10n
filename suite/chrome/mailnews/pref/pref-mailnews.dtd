@@ -38,9 +38,9 @@
 <!ENTITY pref.mailnews.title "Courrier et Groupes de discussion">
 <!ENTITY generalSettings.caption "Paramètres généraux">
 <!ENTITY confirmMove.label "Demander une confirmation lors du déplacement d'un dossier dans la corbeille.">
-<!ENTITY confirmMove.accesskey "c">
+<!ENTITY confirmMove.accesskey "D">
 <!ENTITY preserveThreading.label "Préserver les discussions lors du tri des messages">
-<!ENTITY preserveThreading.accesskey "r">
+<!ENTITY preserveThreading.accesskey "P">
 <!ENTITY mailBiffOnNewWindow.label "Ne vérifier que les nouveaux courriels lors de l'ouverture de Courrier et Groupes de discussion">
 <!ENTITY mailBiffOnNewWindow.accesskey "N">
 
@@ -54,9 +54,9 @@
 
 <!ENTITY messengerStartPage.caption "Page de démarrage du Courrier">
 <!ENTITY enableStartPage.label "Afficher la page de démarrage au lancement du Courrier">
-<!ENTITY enableStartPage.accesskey "f">
+<!ENTITY enableStartPage.accesskey "c">
 <!ENTITY location.label "Adresse :">
-<!ENTITY location.accesskey "d">
+<!ENTITY location.accesskey "e">
 <!ENTITY useDefault.label "Réinitialiser">
 <!ENTITY useDefault.accesskey "R">
 <!ENTITY rememberLastMsg.label "Se souvenir du dernier message sélectionné">

@@ -2,20 +2,20 @@
 <!ENTITY sanitizeItems.label             "Supprimer immédiatement les éléments suivants :">
 
 <!ENTITY itemHistory.label               "Historique de navigation">
-<!ENTITY itemHistory.accesskey           "h">
+<!ENTITY itemHistory.accesskey           "H">
 <!ENTITY itemDownloads.label             "Historique de téléchargement">
-<!ENTITY itemDownloads.accesskey         "t">
+<!ENTITY itemDownloads.accesskey         "o">
 <!ENTITY itemFormSearchHistory.label     "Recherches et données de formulaires enregistrées">
-<!ENTITY itemFormSearchHistory.accesskey "f">
+<!ENTITY itemFormSearchHistory.accesskey "r">
 <!ENTITY itemCache.label                 "Cache">
-<!ENTITY itemCache.accesskey             "a">
+<!ENTITY itemCache.accesskey             "e">
 <!ENTITY itemCookies.label               "Cookies">
-<!ENTITY itemCookies.accesskey           "c">
+<!ENTITY itemCookies.accesskey           "C">
 <!ENTITY itemOfflineApps.label           "Données de sites Web hors connexion">
-<!ENTITY itemOfflineApps.accesskey       "d">
+<!ENTITY itemOfflineApps.accesskey       "D">
 <!ENTITY itemPasswords.label             "Mots de passe enregistrés">
-<!ENTITY itemPasswords.accesskey         "m">
+<!ENTITY itemPasswords.accesskey         "M">
 <!ENTITY itemSessions.label              "Sessions d'identification">
-<!ENTITY itemSessions.accesskey          "s">
+<!ENTITY itemSessions.accesskey          "S">
 
 <!ENTITY sanitizeButton.label            "Effacer mes traces maintenant">

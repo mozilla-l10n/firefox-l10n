@@ -3,13 +3,13 @@
 <!ENTITY autoHide.label "Masquer la barre des onglets s'il n'y en a qu'un d'ouvert">
 <!ENTITY autoHide.accesskey "M">
 <!ENTITY background.label "Basculer vers les nouveaux onglets ouverts">
-<!ENTITY background.accesskey "s">
+<!ENTITY background.accesskey "B">
 <!ENTITY loadGroup.label "À l'ouverture d'un marque-page de groupe d'onglets">
 <!ENTITY loadGroupAppend.label "Ajouter des onglets">
-<!ENTITY loadGroupAppend.accesskey "A">
+<!ENTITY loadGroupAppend.accesskey "o">
 <!ENTITY loadGroupReplace.label "Remplacer les onglets déjà ouverts">
 <!ENTITY loadGroupReplace.accesskey "R">
-<!ENTITY openTabs.label             "Ouvrir des onglets plutôt que des fenêtres pour">
+<!ENTITY openTabs.label "Ouvrir des onglets plutôt que des fenêtres pour">
 
 <!ENTITY newWindow.label "Comportement d'ouverture des liens">
 <!ENTITY newWindowDescription.label "Forcer les liens ouvrant une nouvelle fenêtre à s'ouvrir dans :">
@@ -17,7 +17,7 @@
 <!ENTITY externalDescription.label "Ouvrir les liens provenant d'autres applications dans :">
 <!ENTITY openCurrent.label "Le même onglet/la même fenêtre que le lien">
 <!ENTITY newWindowGroupCurrent.accesskey "L">
-<!ENTITY externalGroupCurrent.accesskey "e">
+<!ENTITY externalGroupCurrent.accesskey "/">
 <!ENTITY openTab.label "Un nouvel onglet">
 <!ENTITY newWindowGroupTab.accesskey "U">
 <!ENTITY externalGroupTab.accesskey "n">

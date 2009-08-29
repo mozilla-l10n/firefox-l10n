@@ -5,13 +5,13 @@
 <!ENTITY pref.search.title "Recherche sur Internet">
 <!ENTITY legendHeader "Moteur de recherche par défaut">
 <!ENTITY defaultSearchEngine.label "Rechercher en utilisant :">
-<!ENTITY defaultSearchEngine.accesskey "u">
+<!ENTITY defaultSearchEngine.accesskey "R">
 
 <!ENTITY openSidebarSearchPanel.label "Ouvrir le panneau « Rechercher » de la barre latérale quand les résultats sont disponibles">
 <!ENTITY openSidebarSearchPanel.accesskey "O">
 
 <!ENTITY openContextSearchTab.label "Ouvrir un onglet plutôt qu'une fenêtre pour une recherche Web depuis le menu contextuel">
-<!ENTITY openContextSearchTab.accesskey "t">
+<!ENTITY openContextSearchTab.accesskey "u">
 
 <!ENTITY searchResults.label "Résultats de recherche">
 

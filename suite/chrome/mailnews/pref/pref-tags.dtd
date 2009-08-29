@@ -43,7 +43,7 @@
 <!ENTITY colorColumn.label "Couleur">
 <!ENTITY defaultTagName.label "Sans titre">
 <!ENTITY addTagButton.label "Ajouter">
-<!ENTITY addTagButton.accesskey "A">
+<!ENTITY addTagButton.accesskey "o">
 <!ENTITY deleteTagButton.label "Supprimer">
 <!ENTITY deleteTagButton.accesskey "S">
 <!ENTITY raiseTagButton.label "Augmenter l'importance">

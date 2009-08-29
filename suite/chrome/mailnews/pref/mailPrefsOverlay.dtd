@@ -8,7 +8,7 @@
 <!ENTITY mail.label                       "Courrier et Groupes de discussion">
 <!ENTITY mail.accesskey                   "G">
 <!ENTITY addressbook.label                "Carnet d'adresses">
-<!ENTITY addressbook.accesskey            "a">
+<!ENTITY addressbook.accesskey            "n">
 
 <!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label            "Affichage des messages">
