@@ -45,6 +45,8 @@
 <!ENTITY reloadImageCmd.accesskey     "O">
 <!ENTITY viewImageCmd.label           "Vis bilde">
 <!ENTITY viewImageCmd.accesskey       "V">
+<!ENTITY viewVideoCmd.label           "Vis video">
+<!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilde">
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setWallpaperCmd.label        "Sett som skrivebordsbakgrunn">
