@@ -6,7 +6,7 @@
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Innbundet">
 <!ENTITY asAttachment.label                   "Som vedlegg">
-<!ENTITY addExtension.label                   "legg til etternavn på filnavnet">
+<!ENTITY addExtension.label                   "Legg til etternavn på filnavnet">
 <!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
