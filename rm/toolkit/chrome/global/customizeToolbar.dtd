@@ -1,0 +1,12 @@
+<!ENTITY dialog.title             "Modifitgar la trav da simbols">
+<!ENTITY dialog.style             "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Ti pos trair simbols en la trav da simbols survart per agiuntar els.">
+<!ENTITY show.label               "Mussar:">
+<!ENTITY iconsAndText.label       "Simbols e text">
+<!ENTITY icons.label              "Simbols">
+<!ENTITY text.label               "Text">
+<!ENTITY useSmallIcons.label      "simbols pitschens">
+<!ENTITY restoreDefaultSet.label  "Restituir il standard">
+<!ENTITY addNewToolbar.label      "Nova trav da simbols">
+<!ENTITY saveChanges.label        "Terminar">
+<!ENTITY undoChanges.label        "Refusar las midadas">

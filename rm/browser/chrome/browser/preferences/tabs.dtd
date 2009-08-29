@@ -1,0 +1,14 @@
+<!ENTITY newWindowsAsTabs.label       "Avrir novas fanestras en in nov tab">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "Avertir, sch'ina fanestra cun plirs tabs duai vegnir serrada">
+<!ENTITY warnCloseMultipleTabs.accesskey  "A">
+
+<!ENTITY warnOpenManyTabs.label       "Avertir, sche plirs tabs chargiads simultanmain pudessan retardar &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "a">
+
+<!ENTITY showTabBar.label             "Adina mussar la trav da tabs">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "Avrir ils tabs davantvart">
+<!ENTITY switchToNewTabs.accesskey    "s">
