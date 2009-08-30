@@ -79,9 +79,9 @@
 <!ENTITY ScreenName.label               "Schermnaam:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label       "Niet-ingebedde inhoud toestaan.">
-<!ENTITY allowRemoteContent1.accesskey   "d">
-<!ENTITY allowRemoteContent1.tooltip     "Berichten in HTML-opmaak kunnen links naar 
+<!ENTITY allowRemoteContent1.label      "Niet-ingebedde inhoud toestaan.">
+<!ENTITY allowRemoteContent1.accesskey  "d">
+<!ENTITY allowRemoteContent1.tooltip    "Berichten in HTML-opmaak kunnen links naar 
 inhoud (zoals afbeeldingen) van externe computerbronnen bevatten. Bij het openen van zo'n
 bericht wordt verbinding met de externe computer gemaakt. Hiermee kan door derden geconstateerd 
 worden dat u het bericht hebt geopend. Door het aanvinken van deze checkbox staat u toe
@@ -157,3 +157,19 @@ dat er verbinding met de externe bron wordt gemaakt om de inhoud op te halen.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Aantekeningen">
 <!ENTITY Notes.accesskey                "n">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Kies een van de volgende:">
+<!ENTITY GenericPhoto.label             "Algemene foto">
+<!ENTITY GenericPhoto.accesskey         "g">
+<!ENTITY DefaultPhoto.label             "Standaard">
+<!ENTITY PhotoFile.label                "Op deze computer">
+<!ENTITY PhotoFile.accesskey            "c">
+<!ENTITY BrowsePhoto.label              "Bladeren">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Op het internet">
+<!ENTITY PhotoURL.accesskey             "h">
+<!ENTITY PhotoURL.emptytext             "Plak of type het internetadres van een foto">
+<!ENTITY UpdatePhoto.label              "Bijwerken">
+<!ENTITY UpdatePhoto.accesskey          "B">
