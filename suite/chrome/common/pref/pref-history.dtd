@@ -1,7 +1,7 @@
 <!ENTITY  pref.history.title                "Historikk">
 
 <!ENTITY  pref.history.caption              "Nettleserhistorikk">
-<!ENTITY  historyPages.label                "Nettleseren holder oversikt over sidene du har besøkt i det siste.">
+<!ENTITY  historyPages.label                "Nettleseren husker nettsider som du har besøkt i det siste.">
 <!ENTITY  expireDaysMin1.label              "Alltid husk besøkte nettsider minst">
 <!ENTITY  expireDaysMin1.accesskey          "A">
 <!ENTITY  expireDaysMin2.label              "dager">

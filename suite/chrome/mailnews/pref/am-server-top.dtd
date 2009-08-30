@@ -9,7 +9,7 @@
 <!ENTITY userName.accesskey "n">
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
-<!ENTITY serverPortDefault.label "Forvalgt:">
+<!ENTITY serverPortDefault.label "Standard:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -68,7 +68,7 @@
 <!ENTITY abbreviateOn.label "Fulle navn (for eksempel «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Forkortede navn (for eksempel «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avansert …">
-<!ENTITY serverDefaultCharset.label "Forvalgt tegnkoding:">
+<!ENTITY serverDefaultCharset.label "Standard tegnkoding:">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY localFolderPicker.label "Velg lokal mappe:">
 <!ENTITY browseFolder.label "Bla gjennom …">
