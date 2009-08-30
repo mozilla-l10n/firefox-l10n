@@ -20,7 +20,7 @@
 
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label "Contenu de l'aide">
-<!ENTITY openHelpCmd.accesskey "C">
+<!ENTITY openHelpCmd.accesskey "a">
 <!ENTITY openHelpCmd.key "VK_F1">
 
 <!-- Key labels, for mousewheel prefs -->

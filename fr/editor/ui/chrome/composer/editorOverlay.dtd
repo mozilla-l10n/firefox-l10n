@@ -130,7 +130,7 @@
 <!ENTITY insertImageCmd.label "Image…">
 <!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "Ligne horizontale">
-<!ENTITY insertHLineCmd.accesskey "h">
+<!ENTITY insertHLineCmd.accesskey "g">
 <!ENTITY insertTableCmd.label "Tableau…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
@@ -187,7 +187,7 @@
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Choisir la taille d'une police">
 <!ENTITY decreaseFontSize.label "Plus petite">
-<!ENTITY decreaseFontSize.accesskey "P">
+<!ENTITY decreaseFontSize.accesskey "u">
 <!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Plus grande">
 <!ENTITY increaseFontSize.accesskey "g">
@@ -226,7 +226,7 @@
 <!ENTITY styleStrikeThruCmd.label "Barré">
 <!ENTITY styleStrikeThruCmd.accesskey "B">
 <!ENTITY styleSuperscriptCmd.label "Exposant">
-<!ENTITY styleSuperscriptCmd.accesskey "x">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Indice">
 <!ENTITY styleSubscriptCmd.accesskey "d">
 <!ENTITY styleNonbreakingCmd.label "Insécable">

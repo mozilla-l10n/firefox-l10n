@@ -22,12 +22,12 @@
 <!ENTITY goUpCmd.label "Remonter">
 <!ENTITY goUpCmd.accesskey "m">
 <!ENTITY reloadCmd.label "Actualiser">
-<!ENTITY reloadCmd.accesskey "r">
+<!ENTITY reloadCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY stopCmd.label "Arrêter">
-<!ENTITY stopCmd.accesskey "t">
+<!ENTITY stopCmd.accesskey "r">
 <!ENTITY reloadFrameCmd.label "Actualiser le cadre">
-<!ENTITY reloadFrameCmd.accesskey "r">
+<!ENTITY reloadFrameCmd.accesskey "c">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Code source de la sélection">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Code MathML de la sélection">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -59,7 +59,7 @@
 <!ENTITY bookmarkFrameCmd.accesskey "M">
 <!ENTITY savePageAsCmd.label "Enregistrer sous…">
 <!ENTITY savePageCmd.label "Enregistrer">
-<!ENTITY savePageCmd.accesskey "s">
+<!ENTITY savePageCmd.accesskey "E">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameAsCmd.label "Enregistrer le cadre sous…">
 <!ENTITY saveFrameCmd.label "Enregistrer le cadre">
@@ -91,7 +91,7 @@
 <!ENTITY copyEmailCmd.label "Copier l'adresse électronique">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY pasteCmd.label "Coller">
-<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY pasteCmd.accesskey "o">
 <!ENTITY cutCmd.label "Couper">
 <!ENTITY cutCmd.accesskey "C">
 <!ENTITY deleteCmd.label "Supprimer">

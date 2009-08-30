@@ -105,11 +105,11 @@
 
 <!-- Format menu -->
 <!ENTITY formatMenu.label "Format">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "m">
 
 <!-- Options menu -->
 <!ENTITY optionsMenu.label "Options">
-<!ENTITY optionsMenu.accesskey "p">
+<!ENTITY optionsMenu.accesskey "O">
 <!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
@@ -156,7 +156,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Outils">
-<!ENTITY tasksMenu.accesskey "O">
+<!ENTITY tasksMenu.accesskey "u">
 <!ENTITY messengerCmd.label "Courrier et groupes">
 <!ENTITY messengerCmd.accesskey "C">
 <!ENTITY messengerCmd.commandkey "1">
@@ -243,7 +243,7 @@
 <!ENTITY copy.label "Copier">
 <!ENTITY copy.accesskey "p">
 <!ENTITY paste.label "Coller">
-<!ENTITY paste.accesskey "l">
+<!ENTITY paste.accesskey "o">
 <!ENTITY pasteQuote.label "Coller comme citation">
 <!ENTITY pasteQuote.accesskey "i">
 

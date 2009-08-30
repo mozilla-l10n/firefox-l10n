@@ -47,7 +47,7 @@
 <!ENTITY stopButton.label             "Arrêter">
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Compte :">
-<!ENTITY server.accesskey             "S">
+<!ENTITY server.accesskey             "C">
 <!ENTITY subscribedHeader.label	      "Abonné">
 <!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "messages"> -->

@@ -6,12 +6,12 @@
 <!ENTITY  newContactCmd.accesskey         "C">
 
 <!ENTITY sendPage.label                   "Envoyer la page…">
-<!ENTITY sendPage.accesskey               "E">
+<!ENTITY sendPage.accesskey               "l">
 
 <!ENTITY contextSendThisPage.label        "Envoyer cette page…">
 <!ENTITY contextSendThisPage.accesskey    "v">
 <!ENTITY contextSendThisLink.label        "Envoyer ce lien…">
-<!ENTITY contextSendThisLink.accesskey    "o">
+<!ENTITY contextSendThisLink.accesskey    "i">
 <!ENTITY contextSendImage.label           "Envoyer l'image…">
 <!ENTITY contextSendImage.accesskey       "n">
 <!ENTITY contextSendVideo.label           "Envoyer la vidéo…">

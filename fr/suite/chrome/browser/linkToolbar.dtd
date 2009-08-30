@@ -38,7 +38,7 @@
 
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Barre de navigation du site">
-<!ENTITY linkToolbar.accesskey "B">
+<!ENTITY linkToolbar.accesskey "s">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Toujours afficher">

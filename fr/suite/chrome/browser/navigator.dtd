@@ -14,26 +14,26 @@
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Ouvrir le site Web…">
-<!ENTITY openCmd.accesskey "l">
+<!ENTITY openCmd.accesskey "W">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY recentTabs.label "Onglets récemment fermés">
-<!ENTITY recentTabs.accesskey "r">
+<!ENTITY recentTabs.accesskey "g">
 <!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Fenêtres récemment fermées">
-<!ENTITY recentWindows.accesskey "F">
+<!ENTITY recentWindows.accesskey "c">
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Éditer la page">
 <!ENTITY editPageCmd.accesskey "d">
 <!ENTITY editPageCmd.commandkey "e">
 
 <!ENTITY uploadFile.label "Télécharger le fichier vers…">
-<!ENTITY uploadFile.accesskey "g">
+<!ENTITY uploadFile.accesskey "h">
 
 <!ENTITY printSetupCmd.label "Mise en page…">
-<!ENTITY printSetupCmd.accesskey "r">
+<!ENTITY printSetupCmd.accesskey "M">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimer…">
@@ -56,8 +56,8 @@
 <!ENTITY componentbarCmd.label "Barre des composants">
 <!ENTITY componentbarCmd.accesskey "c">
 
-<!ENTITY useStyleSheetMenu.label "Utiliser une feuille de style">
-<!ENTITY useStyleSheetMenu.accesskey "U">
+<!ENTITY useStyleSheetMenu.label "Style de la page">
+<!ENTITY useStyleSheetMenu.accesskey "y">
 <!ENTITY useStyleSheetNone.label "Aucune">
 <!ENTITY useStyleSheetNone.accesskey "A">
 <!ENTITY useStyleSheetPersistentOnly.label "Style par défaut">
@@ -71,12 +71,12 @@
 <!ENTITY fullScreenCmd.label "Plein écran">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY translateMenu.label "Traduire la page">
-<!ENTITY translateMenu.accesskey "T">
+<!ENTITY translateMenu.accesskey "r">
 
 <!ENTITY closeOtherTabs.label "Fermer les autres onglets">
 <!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY closeWindow.label "Fermer la fenêtre">
-<!ENTITY closeWindow.accesskey "m">
+<!ENTITY closeWindow.accesskey "r">
 
 <!ENTITY minimizeButton.tooltip "Réduire">
 <!ENTITY restoreButton.tooltip "Restaurer">
@@ -98,7 +98,7 @@
 <!ENTITY findPrevCmd.commandkey2 "VK_F3">
 
 <!ENTITY searchInternetCmd.label "Rechercher sur Internet">
-<!ENTITY searchInternetCmd.accesskey "I">
+<!ENTITY searchInternetCmd.accesskey "c">
 <!ENTITY searchInternet.commandKey "s">
 
 <!ENTITY clearPrivateDataCmd.label "Effacer mes traces">
@@ -112,14 +112,14 @@
 <!ENTITY bookmarksMenu.label "Marque-pages">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY addCurPageCmd.label "Marquer cette page">
-<!ENTITY addCurPageCmd.accesskey "a">
+<!ENTITY addCurPageCmd.accesskey "M">
 <!ENTITY addCurPageAsCmd.label "Classer cette page…">
-<!ENTITY addCurPageAsCmd.accesskey "r">
+<!ENTITY addCurPageAsCmd.accesskey "C">
 <!ENTITY addCurPageAsCmd.commandkey "d">
 <!ENTITY addCurTabsAsCmd.label "Marquer ce groupe d'onglets…">
 <!ENTITY addCurTabsAsCmd.accesskey "g">
 <!ENTITY manBookmarksCmd.label "Organiser les marque-pages…">
-<!ENTITY manBookmarksCmd.accesskey "m">
+<!ENTITY manBookmarksCmd.accesskey "O">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "S'abonner à cette page">
 <!ENTITY feedsMenu.accesskey "S">

@@ -39,11 +39,11 @@
 <!ENTITY replaceAllButton.label "Tout remplacer">
 <!ENTITY replaceAllButton.accessKey "T">
 <!ENTITY stopButton.label "Arrêter">
-<!ENTITY stopButton.accessKey "S">
+<!ENTITY stopButton.accessKey "A">
 <!ENTITY userDictionary.label "Dictionnaire personnel :">
 <!ENTITY moreDictionaries.label "Télécharger d'autres dictionnaires…">
 <!ENTITY addToUserDictionaryButton.label "Ajouter un mot">
-<!ENTITY addToUserDictionaryButton.accessKey "A">
+<!ENTITY addToUserDictionaryButton.accessKey "j">
 <!ENTITY editUserDictionaryButton.label "Modifier…">
 <!ENTITY editUserDictionaryButton.accessKey "M">
 <!ENTITY recheckButton.label "Revérifier">
