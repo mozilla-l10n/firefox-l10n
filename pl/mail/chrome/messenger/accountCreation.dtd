@@ -37,10 +37,8 @@
 <!ENTITY warning.label                    "Ostrzeżenie!">
 <!ENTITY incomingSettings.label           "Ustawienia dla poczty przychodzącej:">
 <!ENTITY outgoingSettings.label           "Ustawienia dla poczty wychodzącej:">
-<!ENTITY confirmIncomingWarning.label     "Rozumiem ryzyko.">
-<!ENTITY confirmIncomingWarning.accesskey "R">
-<!ENTITY confirmOutgoingWarning.label     "Rozumiem ryzyko.">
-<!ENTITY confirmOutgoingWarning.accesskey "m">
+<!ENTITY confirmWarning.label             "Rozumiem ryzyko.">
+<!ENTITY confirmWarning.accesskey         "R">
 <!ENTITY createAccount.label              "Utwórz konto">
 <!ENTITY createAccount.accesskey          "U">
 <!ENTITY changeSettings.label             "Zmień ustawienia">
