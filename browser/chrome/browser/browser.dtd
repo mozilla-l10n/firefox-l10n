@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(గోప్య వీక్షణం)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "కొత్త టాబ్ ">
 <!ENTITY tabCmd.accesskey "T">
@@ -33,6 +31,8 @@
 
 <!ENTITY goOfflineCmd.label "ఆఫ్‌లైన్ గా పనిచేయి">
 <!ENTITY goOfflineCmd.accesskey "w">
+<!ENTITY menubarCmd.label "మెనూ పట్టీ">
+<!ENTITY menubarCmd.accesskey "M">
 
 <!ENTITY navbarCmd.label "నెవిగేషను సాధనములపట్టీ">
 <!ENTITY navbarCmd.accesskey "N">
@@ -50,7 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "పూర్తి తెర">
 <!ENTITY fullScreenCmd.accesskey "F">
-
+<!ENTITY showAllTabsCmd.label "అన్ని టాబ్లను చూపు">
+<!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY fullScreenMinimize.tooltip "చిన్నదిచేయు">
 <!ENTITY fullScreenRestore.tooltip "తిరిగివుంచు">
 <!ENTITY fullScreenClose.tooltip "మూయి">
@@ -80,6 +81,9 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగ్‌ను ఆపుము">
 <!ENTITY goEndCap.tooltip             "స్థితిపట్టీలో చిరునామాకు వెళ్ళుము">
+
+<!ENTITY feedButton.tooltip           "ఈ పేజీకి చందాదారు గా మారు…">
+
 <!ENTITY printButton.label            "ముద్రించు">
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
@@ -94,10 +98,14 @@
 
 <!ENTITY bookmarksButton.label          "ఇష్టాంశములు">
 <!ENTITY bookmarksButton.tooltip        "మీ ఇష్టాంశములు ప్రదర్శించుము">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "చరిత్ర">
 <!ENTITY historyButton.tooltip          "మీరు ఇటీవల దర్శించిన పేజీలను ప్రదర్శించుము">
@@ -316,6 +324,7 @@
 <!ENTITY cutButton.tooltip              "కత్తిరించు">
 <!ENTITY copyButton.tooltip             "నకలుతీయి">
 <!ENTITY pasteButton.tooltip            "అతికించు">
+<!ENTITY fullScreenButton.tooltip       "విండోలను పూర్తి తెరలో చూపించు">
 
 <!ENTITY quitApplicationCmdWin.label       "బయటకు"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -380,7 +389,7 @@
 <!ENTITY bookmarkPageCmd2.label       "ఈ పేజీని ఇష్టాంశము చేయుము">
 <!ENTITY fullZoomEnlargeCmd.label       "జూమ్‌చేయి">
 <!ENTITY downloadMonitor2.tooltip "డౌన్‌లోడుల విండో తెరువుటకు నొక్కుము">
-<!ENTITY ctrlTab.search.emptyText "టాబ్లలో వెతుకు">
+
 <!ENTITY editBookmark.cancel.label                   "రద్దుచేయి">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY editBookmark.edit.label                     "సరిచేయి…">
@@ -417,7 +426,7 @@
 <!ENTITY fullZoom.label                 "జూమ్">
 <!ENTITY showAllHistoryCmd2.label "చరిత్ర మొత్తం చూపుము">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY urlbar.emptyText             "శోధిత ఇష్టాంశములు మరియు  చరిత్ర">
+
 <!ENTITY urlbar.bookmarkhistory.emptyText "ఇష్టాంశములు మరియు  చరిత్రని శోధించు">
 <!ENTITY urlbar.bookmark.emptyText    "ఇష్టాంశములలోశోధన">
 <!ENTITY urlbar.history.emptyText     "చరిత్రలో శోధన">
@@ -425,3 +434,5 @@
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY copyLinkTextCmd.label        "లింకు పాఠ్యమును నకలుతీయుము">
 <!ENTITY fullZoom.accesskey             "Z">
+
+<!ENTITY allTabs.filter.emptyText "టాబ్లలో శోధన">

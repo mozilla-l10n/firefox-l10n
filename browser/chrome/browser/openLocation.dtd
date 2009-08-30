@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "ఫైల్ ను ఎంచుకొనుము...">
 <!ENTITY newWindow.label "కొత్త విండో">
 <!ENTITY newTab.label "కొత్త టాబ్ ">
-<!ENTITY topWindow.label "ప్రస్తుత విండో">
+<!ENTITY topTab.label "ప్రస్తుత టాబ్">
 <!ENTITY caption.label "వెబ్ స్థానాన్ని తెరువుము">
 <!ENTITY openWhere.label "లో తెరువుము:">
 <!ENTITY openBtn.label "తెరువు">

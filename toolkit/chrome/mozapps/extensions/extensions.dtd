@@ -24,9 +24,10 @@
 <!ENTITY cmd.installLocalFile.label       "సంస్థాపించు...">
 <!ENTITY cmd.installFileAddon.tooltip     "ఒక  యాడ్-ఆన్‌ను  సంస్థాపించు">
 <!ENTITY cmd.installFileTheme.tooltip     "ఒక  థీమ్‌ను  సంస్థాపించు">
-<!ENTITY cmd.installUpdatesAll.label      "నవీకరణలను  సంస్థాపించు">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "ఎంచుకున్న  నవీకరణలను  సంస్థాపించుతుంది">
+<!ENTITY cmd.installUpdatesAll2.label     "నవీకరణలను  సంస్థాపించు">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "ఎంచుకున్న  నవీకరణలను  సంస్థాపించుతుంది">
+
 <!ENTITY cmd.skip.label                   "వదిలివేయి">
 <!ENTITY cmd.skip.accesskey               "S">
 <!ENTITY cmd.skip.tooltip                 "ఈ నవీకరణలను  వదిలివేయి">

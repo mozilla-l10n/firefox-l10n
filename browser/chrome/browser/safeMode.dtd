@@ -48,8 +48,9 @@
 <!ENTITY resetToolbars.label          "సాధనములపట్టీ మరియు నియంత్రికలను మునుపటివలేవుంచు">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "ఇష్టాంశములను &brandShortName; అప్రమేయాలకు మునుపటివలేవుంచు">
-<!ENTITY resetBookmarks.accesskey     "b">
+
+<!ENTITY deleteBookmarks.label        "నకలు తీసిన ఇష్టాంశాలు తప్ప మిగిలినవ్ని తొలగించు">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "అన్ని వాడుకరుని అభీష్టాలను  &brandShortName; అప్రమేయాలకు మునుపటివలేవుంచు">
 <!ENTITY resetUserPrefs.accesskey     "p">
