@@ -1,20 +1,11 @@
 <!ENTITY back.label "Назад">
-<!ENTITY back.tooltip "Назад">
 <!ENTITY forward.label "Наперад">
-<!ENTITY forward.tooltip "Наперад">
 <!ENTITY reload.label "Абнавіць">
-<!ENTITY reload.tooltip "Абнавіць">
 <!ENTITY stop.label "Прыпыніць">
-<!ENTITY stop.tooltip "Прыпыніць">
 <!ENTITY search.label "Пошук">
-<!ENTITY search.tooltip "Пошук">
 <!ENTITY go.label "Пайсці">
-<!ENTITY go.tooltip "Пайсці">
 <!ENTITY openLocation.label "Адкрыць месца">
-<!ENTITY openLocation.tooltip "Адкрыць месца">
 <!ENTITY star.label "Зорка">
-<!ENTITY star.tooltip "Закласці гэтую старонку">
-<!ENTITY bookmarks.tooltip "Прагляд закладак">
 <!ENTITY newtab.label "Новая ўстаўка">
 <!ENTITY closetab.label "Зачыніць устаўку">
 <!ENTITY cut.label "Выразаць">
@@ -48,11 +39,12 @@
 <!ENTITY addonsRepo.label "Атрымаць дадаткі">
 <!ENTITY addonsRecommended.label "Раіцца">
 <!ENTITY addonsSearch.label "Пошук">
-<!ENTITY addonsSearch.emptytext "Пошук усіх дадаткаў">
+<!ENTITY addonsSearch2.emptytext "Пошук у каталогу">
+<!ENTITY addonsSearch.recommended "Раіцца">
 <!ENTITY addonOptions.label "Наладкі">
 <!ENTITY addonEnable.label "Дазволіць">
 <!ENTITY addonDisable.label "Забараніць">
-<!ENTITY addonInstall.label "Усталяваць">
+<!ENTITY addonInstall2.label "Дадаць да &brandShortName;">
 <!ENTITY addonUninstall.label "Высталяваць">
 <!ENTITY addonCancel.label "Скасаваць">
 <!ENTITY addonShowPage.label "Перайсці на старонку">
@@ -61,7 +53,7 @@
 <!ENTITY downloadsSortSite.label "Пляцоўка">
 <!ENTITY downloadsSortName.label "Назва">
 <!ENTITY downloadsSearch.label "Пошук">
-<!ENTITY downloadsSearch.emptytext "Пошук сцягнутых файлаў">
+<!ENTITY downloadsSearch2.emptytext "Пошук">
 <!ENTITY downloadShowPage.label "Перайсці на старонку">
 <!ENTITY downloadShow2.label "Знайсці">
 <!ENTITY downloadOpen2.label "Адчыніць">
@@ -71,6 +63,7 @@
 <!ENTITY downloadRetry.label "Паўтарыць">
 <!ENTITY noResults.label "Няма вынікаў">
 <!ENTITY allBookmarks.label "Прагледзець усе закладкі">
+<!ENTITY searchEngine.addSearch "Дадаць пошук:">
 <!ENTITY bookmarkPopup.label "Закладзеная старонка">
 <!ENTITY bookmarkRemove.label "Выдаліць">
 <!ENTITY bookmarkEdit.label "Праўка">
