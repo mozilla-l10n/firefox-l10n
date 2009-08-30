@@ -60,14 +60,14 @@
 <!ENTITY PhoneticField1.label           "Wymowa:">
 <!ENTITY PhoneticField2.label           "Wymowa:">
 <!ENTITY DisplayName.label              "Wyświetlaj jako:">
-<!ENTITY DisplayName.accesskey          "j">
+<!ENTITY DisplayName.accesskey          "W">
 
 <!ENTITY NickName.label                 "Pseudonim:">
 <!ENTITY NickName.accesskey             "u">
 <!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "m">
 <!ENTITY SecondEmail.label              "Dodatkowy e-mail:">
-<!ENTITY SecondEmail.accesskey          "w">
+<!ENTITY SecondEmail.accesskey          "D">
 <!ENTITY PreferMailFormat.label         "Preferowany format otrzymywanych wiadomości:">
 <!ENTITY PreferMailFormat.accesskey     "h">
 <!ENTITY PlainText.label                "Tekstowy">
