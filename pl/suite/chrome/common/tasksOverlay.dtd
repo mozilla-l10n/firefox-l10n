@@ -37,6 +37,7 @@
 
 <!ENTITY downloadManagerCmd.label "Menedżer pobierania plików">
 <!ENTITY downloadManagerCmd.accesskey "b">
+<!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addonsManagerCmd.label "Dodatki">
 <!ENTITY addonsManagerCmd.accesskey "A">

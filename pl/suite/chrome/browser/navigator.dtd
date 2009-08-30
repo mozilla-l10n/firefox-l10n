@@ -22,6 +22,9 @@
 <!ENTITY recentTabs.label "Ostatnio zamknięte karty">
 <!ENTITY recentTabs.accesskey "R">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Ostatnio zamknięte okna">
+<!ENTITY recentWindows.accesskey "a">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Edytuj stronę">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">

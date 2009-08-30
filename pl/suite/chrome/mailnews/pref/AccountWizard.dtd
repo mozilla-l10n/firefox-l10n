@@ -22,8 +22,8 @@
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label 'Wprowadź imię, nazwisko lub pseudonim, który będzie używany w polu "Od:" wysyłanych wiadomości'>
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-	1, do not translate two of "&quot;"
-	2, Use localized full name instead of "John Smith"
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label '(na przykład: "Michał Wołodyjowski").'>
 <!ENTITY fullnameLabel.label "Twoje imię, nazwisko lub pseudonim:">
@@ -55,12 +55,12 @@
 <!ENTITY popType.label "Serwer POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Zostanie użyty domyślny serwer poczty wychodzącej (SMTP) - &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;. Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
+<!ENTITY haveSmtp1.suffix2 "&quot;. Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
 
 <!-- Entities for Login page -->
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "Wprowadź nazwę użytkownika podaną przez usługodawcę, która zostanie użyta podczas połączenia z serwerem poczty wychodzącej (ta nazwa jest zazwyczaj identyczna z nazwą użytkownika serwera poczty przychodzącej).">
 <!ENTITY usernameSmtpLabel.label "Nazwa użytkownika:">
 <!ENTITY usernameSmtpLabel.accesskey "o">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Do wysyłania wiadomości z tego konta zostanie użyta nazwa użytkownika domyślnego serwera poczty wychodzącej (SMTP) - &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;. Nazwę użytkownika oraz inne ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;. Nazwę użytkownika oraz inne ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Wprowadzone nazwy serwerów poczty wychodzącej i przychodzącej są takie same: &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;. Powyższa nazwa użytkownika będzie używana również podczas wysyłania wiadomości. Nazwę użytkownika oraz inne ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
+<!ENTITY haveSmtp3.suffix2 "&quot;. Powyższa nazwa użytkownika będzie używana również podczas wysyłania wiadomości. Nazwę użytkownika oraz inne ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
 
 <!-- Entities for Account name page -->
 

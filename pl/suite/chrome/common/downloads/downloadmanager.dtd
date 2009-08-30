@@ -39,6 +39,12 @@
 <!ENTITY col.timeelapsed.label "Upłynęło">
 <!ENTITY col.timeelapsed.accesskey "U">
 <!ENTITY col.timeelapsed.tooltip "Upłynęło">
+<!ENTITY col.starttime.label "Rozpoczęto">
+<!ENTITY col.starttime.accesskey "R">
+<!ENTITY col.starttime.tooltip "Rozpoczęto">
+<!ENTITY col.endtime.label "Zakończono">
+<!ENTITY col.endtime.accesskey "a">
+<!ENTITY col.endtime.tooltip "Zakończono">
 <!ENTITY col.progresstext.label "&#37;">
 <!ENTITY col.progresstext.accesskey "&#37;">
 <!ENTITY col.progresstext.tooltip "Postęp pliku (&#37;)">
@@ -76,3 +82,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey "s">
 <!ENTITY cmd.copyDownloadLink.label "Kopiuj adres źródłowy">
 <!ENTITY cmd.copyDownloadLink.accesskey "d">
+<!ENTITY cmd.properties.label "Właściwości…">
+<!ENTITY cmd.properties.accesskey "c">

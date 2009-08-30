@@ -45,6 +45,8 @@
 <!ENTITY reloadImageCmd.accesskey "e">
 <!ENTITY viewImageCmd.label "Pokaż obrazek">
 <!ENTITY viewImageCmd.accesskey "P">
+<!ENTITY viewVideoCmd.label "Pokaż wideo">
+<!ENTITY viewVideoCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Pokaż obrazek tła">
 <!ENTITY viewBGImageCmd.accesskey "t">
 <!ENTITY setWallpaperCmd.label "Ustaw jako tapetę">
