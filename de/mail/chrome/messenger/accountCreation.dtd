@@ -42,16 +42,11 @@
 <!ENTITY warning.label                   "Warnung!">
 <!ENTITY incomingSettings.label          "Posteingang-Einstellungen:">
 <!ENTITY outgoingSettings.label          "Postausgang-Einstellungen:">
-<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
-     warning on the incoming server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmIncomingWarning.label    "Ich verstehe die Risiken.">
-<!ENTITY confirmIncomingWarning.accesskey "v">
-<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmOutgoingWarning.label    "Ich verstehe die Risiken.">
-<!ENTITY confirmOutgoingWarning.accesskey "e">
+<!ENTITY confirmWarning.label            "Ich verstehe die Risiken.">
+<!ENTITY confirmWarning.accesskey        "e">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
