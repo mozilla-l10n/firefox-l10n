@@ -60,8 +60,8 @@
 <!ENTITY useStyleSheetMenu.accesskey "B">
 <!ENTITY useStyleSheetNone.label "Ingen">
 <!ENTITY useStyleSheetNone.accesskey "I">
-<!ENTITY useStyleSheetPersistentOnly.label "Forvalgt">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "F">
+<!ENTITY useStyleSheetPersistentOnly.label "Standard">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "S">
 <!ENTITY pageSourceCmd.label "Kildekode">
 <!ENTITY pageSourceCmd.accesskey "K">
 <!ENTITY pageSourceCmd.commandkey "u">

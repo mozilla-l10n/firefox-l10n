@@ -49,7 +49,7 @@
 <!ENTITY menuitem.newSeparator.label   "Skillelinje">
 <!ENTITY menuitem.newSeparator.accesskey "S">
 <!ENTITY button.newSeparator.label     "Ny skillelinje">
-<!ENTITY button.newSeparator.accesskey  "j">
+<!ENTITY button.newSeparator.accesskey  "s">
 <!ENTITY menuitem.open.label           "Åpne bokmerkefil …">
 <!ENTITY menuitem.open.accesskey       "o">
 <!ENTITY menuitem.import.label         "Importer …">

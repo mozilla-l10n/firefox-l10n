@@ -9,7 +9,7 @@
 <!ENTITY cookieAllowSessionCookiesCmd.label "Tillat øktinfokapsler fra dette nettstedet">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "ø">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Dette nettstedet vil kunne sette infokapsler bare for denne programøkten.">
-<!ENTITY cookieCookiesDefaultCmd.label "Bruk forvalgte regler for infokapsler">
+<!ENTITY cookieCookiesDefaultCmd.label "Bruk standardregler for infokapsler">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "u">
 <!ENTITY cookieCookiesDefaultMsg.label "Infokapsler fra dette nettstedet vil bli akseptert eller blokkert basert på standardinnstilling.">
 <!ENTITY cookieBlockCookiesCmd.label "Blokker infokapsler fra dette nettstedet">
@@ -22,7 +22,7 @@
 <!ENTITY cookieAllowImagesCmd.label "Tillat bilder fra dette nettstdet">
 <!ENTITY cookieAllowImagesCmd.accesskey "T">
 <!ENTITY cookieAllowImagesMsg.label "Bilder fra dette nettstedet vil alltid bli lastet ned.">
-<!ENTITY cookieImagesDefaultCmd.label "Bruk forvalgte bildetillatelser">
+<!ENTITY cookieImagesDefaultCmd.label "Bruk standard bildetillatelser">
 <!ENTITY cookieImagesDefaultCmd.accesskey "u">
 <!ENTITY cookieImagesDefaultMsg.label "Bilder fra dette nettstedet vil bli lastet ned basert på forvalg.">
 <!ENTITY cookieBlockImagesCmd.label "Blokker bilder fra dette nettstedet">

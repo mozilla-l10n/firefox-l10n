@@ -39,13 +39,13 @@
 
 <!ENTITY pref.character.encoding.title   "Tegnkoding">
 <!ENTITY messageDisplay.caption          "Meldingsvisning">
-<!ENTITY viewDefaultCharset.label        "Forvalgt tegnkoding:">
-<!ENTITY viewDefaultCharset.accesskey    "F">
+<!ENTITY viewDefaultCharset.label        "Standard tegnkoding:">
+<!ENTITY viewDefaultCharset.accesskey    "S">
 
 <!ENTITY composingMessages.caption       "Meldingsskriving">
 <!ENTITY useMIME.label                   "Bruk 'quoted printable' MIME-koding for meldinger som har 8-bit tegn. La være tom for å sende meldingen som den er.">
 <!ENTITY useMIME.accesskey               "B">
-<!ENTITY sendDefaultCharset.label        "Forvalgt tegnkoding:">
-<!ENTITY sendDefaultCharset.accesskey    "o">
+<!ENTITY sendDefaultCharset.label        "Standard tegnkoding:">
+<!ENTITY sendDefaultCharset.accesskey    "a">
 <!ENTITY replyInDefaultCharset2.label    "Når mulig, bruk standard tegnkoding i svar på meldinger. (Når tom, vil bare nye meldinger bruke dette forvalget.)">
 <!ENTITY replyInDefaultCharset2.accesskey "d">

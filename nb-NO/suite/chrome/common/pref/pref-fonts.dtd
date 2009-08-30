@@ -66,5 +66,5 @@
 <!-- leaving this stuff in for now -->
 
 <!ENTITY  header2                                 "Når en nettside velger sine egne skrifttyper">
-<!ENTITY  useDefaultFont.label                    "Bruk forvalgte skrifttyper, og ignorer nettsidens foretrukne skrifttyper">
+<!ENTITY  useDefaultFont.label                    "Bruk standard skrifttyper, og ignorer nettsidens foretrukne skrifttyper">
 <!ENTITY  useDefaultFont.accesskey                "s">
