@@ -22,7 +22,6 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "కొత్త విండోనందు తెరువు">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "ఈ లింకుని ఇష్టాంశము చేయి...">
-<!ENTITY bookmarkLink.accesskey "B">
+
 <!ENTITY copyLink.label "లింకు స్థానాన్ని నకలుతీయి">
 <!ENTITY copyLink.accesskey "C">

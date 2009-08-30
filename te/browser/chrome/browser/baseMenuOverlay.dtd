@@ -18,18 +18,12 @@
 <!ENTITY helpForIEUsers.label     "ఇంటర్నెట్ ఎక్స్‌ప్లోరర్ వాడుకరుల కొరకు">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY openHelpMac.commandkey   "VK_HELP">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.modifiers            "ఎక్సెల్,షిప్ట్">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "ఎక్సెల్">
+<!ENTITY helpMac.commandkey       "?">
+
 
 <!ENTITY helpReleaseNotes.label         "విడుదల నోట్స్">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY updateCmd.label                "నవీకరణల కొరకు పరిశీలించు...">
-<!ENTITY updateCmd.accesskey            "o">
 
 <!ENTITY preferencesCmdMac.label        "అభీష్టాలు...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
@@ -41,8 +35,6 @@
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "ఎక్సెల్">
 
-<!ENTITY hideOtherAppsCmdMac.label      "ఇతరాలను మరుగుపరచు">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "ఎక్సెల్,ఆల్ట్‍">
+
 
 <!ENTITY showAllAppsCmdMac.label        "అన్నీ చూపుము">

@@ -23,8 +23,8 @@
 <!ENTITY  rememberHistory.pre.accesskey  "h">
 <!ENTITY  rememberHistory.post.label     "గుర్తుపెట్టుకోవలసిన  కనీస దినములు">
 
-<!ENTITY  rememberDownload.label         " నా దిగుమతి చరిత్రని  గుర్తుపెట్టుకోRemember download history">
-<!ENTITY  rememberDownload.accesskey     "d">
+
+
 
 <!ENTITY  rememberSearchForm.label       "నా శోధన మరియు ఫారమ్ చరిత్రని గుర్తుపెట్టుకో ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
@@ -48,8 +48,6 @@
   &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
 -->
 
-<!ENTITY  rememberForms.label           "నేను ఫారాలలో మరియు శోధనపట్టీలో ఏమి ప్రవేశపెట్టానో గుర్తుంచుకో">
-<!ENTITY  rememberForms.accesskey       "f">
 
 <!ENTITY  rememberDownloads.label       "నేను ఏమి డౌనులోడు చేయాలో గుర్తుంచుకో">
 <!ENTITY  rememberDownloads.accesskey   "d">
@@ -68,7 +66,7 @@
 <!ENTITY  clearOnCloseSettings.label     "అమరికలు…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  cookies.label                 "కుకీలు">
+
 
 <!ENTITY  acceptCookies.label           "కుకీలను సైటుల నుండి ఆమోదించు">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -87,20 +85,6 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 
-<!ENTITY  privateData.label             "వ్యక్తిగత డాటా">
 
-<!ENTITY  alwaysClear.label              "నేను &brandShortName;మూసిన ప్రతిసారి నావ్యక్తిగత డాటాను చెరిపివేయి">
-<!ENTITY  alwaysClear.accesskey          "w">
-
-
-<!ENTITY  clearDataSettings.label        "అమరికలు...">
-<!ENTITY  clearDataSettings.accesskey    "t">
-
-<!ENTITY  clearDataNow.label             "ఇప్పుడు చెరిపివేయి...">
-
-<!ENTITY  clearDataNow.accesskey         "N">
-<!ENTITY  rememberDaysBefore.label      "నా చరిత్ర కనీసం ఇన్నిరోజులు వుంచుము">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "రోజులు">
 <!ENTITY  acceptThirdParty.label        "మూడో-వ్యక్తి కుకీలను ఆమోదించుము">
 <!ENTITY  acceptThirdParty.accesskey    "p">
