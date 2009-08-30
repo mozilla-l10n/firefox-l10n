@@ -21,7 +21,7 @@
 
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label "Contenu de l'aide">
-<!ENTITY openHelpCmd.accesskey "C">
+<!ENTITY openHelpCmd.accesskey "a">
 <!ENTITY openHelpCmd.key "VK_F1">
 <!ENTITY helpForIEUsers.label "Pour les utilisateurs d'Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">

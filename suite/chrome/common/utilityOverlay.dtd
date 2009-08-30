@@ -1,14 +1,14 @@
 <!-- these things need to move into utilityOverlay.xul -->
 <!ENTITY  offlineGoOfflineCmd.label "Travailler hors connexion">
-<!ENTITY  offlineGoOfflineCmd.accesskey "T">
+<!ENTITY  offlineGoOfflineCmd.accesskey "x">
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 <!ENTITY fileMenu.label "Fichier"> 
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nouveau">
-<!ENTITY newMenu.accesskey "e">
-<!ENTITY newBlankPageCmd.label     "Nouvelle page blanche">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newBlankPageCmd.label     "Page blanche">
 <!ENTITY newBlankPageCmd.accesskey "p">
 <!ENTITY newBlankPageCmd.key "N">
 <!ENTITY newPageFromTemplateCmd.label "Page utilisant un modèle">
@@ -60,7 +60,7 @@
 <!ENTITY helpMenu.label "Aide">
 <!ENTITY helpMenu.accesskey "e">
 
-<!ENTITY releaseCmd.label "Notes de versions">
+<!ENTITY releaseCmd.label "Notes de version">
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY updateCmd.label "Rechercher des mises à jour…">
 <!ENTITY updateCmd.accesskey "h">
