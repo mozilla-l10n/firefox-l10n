@@ -1,4 +1,7 @@
 <!ENTITY prefsHeader.label "Перавагі">
+<!ENTITY about.title "Пра &brandShortName;">
+<!ENTITY about.button "Перайсці на старонку">
+<!ENTITY about.description "Даведка і звесткі пра прадукт">
 <!ENTITY content.title "Змесціва">
 <!ENTITY showImages.title "Паказваць малюнкі">
 <!ENTITY enableJavaScript.title "Дазволіць JavaScript">
