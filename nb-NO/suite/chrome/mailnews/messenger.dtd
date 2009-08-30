@@ -77,13 +77,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "M">
 <!ENTITY getNewMsgCmd.label "Hent nye meldinger">
 <!ENTITY getNewMsgCmd.accesskey "m">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Hent nye meldinger for">
 <!ENTITY getNewMsgForCmd.accesskey "f">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle kontoer">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "Hent alle nye meldinger">
-<!ENTITY getAllNewMsgCmd.key "H">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Hent neste 500 meldinger i nyhetsgruppen">
 <!ENTITY getNextNMsgCmd.accesskey "N">
 <!ENTITY sendUnsentCmd.label "Send usendte meldinger">
