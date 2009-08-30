@@ -96,23 +96,23 @@
 <!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
 <!ENTITY emptyTrashCmd.accesskey "V">
-<!ENTITY offlineMenu.label                  "Hors ligne">
-<!ENTITY offlineMenu.accesskey "D">
+<!ENTITY offlineMenu.label                  "Hors connexion">
+<!ENTITY offlineMenu.accesskey "H">
 <!ENTITY synchronizeOfflineCmd.label "Synchroniser…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Paramètres hors ligne…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd.label "Paramètres hors connexion…">
+<!ENTITY settingsOfflineCmd.accesskey "P">
 <!ENTITY downloadSelectedCmd.label "Relever les messages sélectionnés">
-<!ENTITY downloadSelectedCmd.accesskey "m">
+<!ENTITY downloadSelectedCmd.accesskey "c">
 <!ENTITY downloadFlaggedCmd.label           "Relever les messages suivis">
-<!ENTITY downloadFlaggedCmd.accesskey "c">
+<!ENTITY downloadFlaggedCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
-<!ENTITY printPreviewCmd.accesskey "u">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Mise en page…">
-<!ENTITY printSetupCmd.accesskey "g">
+<!ENTITY printSetupCmd.accesskey "M">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Supprimer le message">
@@ -141,7 +141,7 @@
 <!ENTITY folderPropsCmd.label "Propriétés du dossier">
 <!ENTITY folderPropsFolderCmd.label "Propriétés du dossier…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriétés du groupe…">
-<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY folderPropsCmd.accesskey "g">
 <!ENTITY accountManagerCmd.label     "Paramètres des comptes…">
 <!ENTITY accountManagerCmd.accesskey "m">
 <!ENTITY undoDeleteMsgCmd.label "Annuler l'effacement">
@@ -183,7 +183,7 @@
 
 <!-- sortMenu is also used by addressbook -->
 <!ENTITY sortMenu.label "Trier par">
-<!ENTITY sortMenu.accesskey "e">
+<!ENTITY sortMenu.accesskey "T">
 
 <!ENTITY sortByDateCmd.label "Date">
 <!ENTITY sortByDateCmd.accesskey "D">
@@ -244,13 +244,13 @@
 <!ENTITY ignoredThreadsCmd.label "Discussions ignorées">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 <!ENTITY headersMenu.label "En-têtes">
-<!ENTITY headersMenu.accesskey "n">
+<!ENTITY headersMenu.accesskey "E">
 <!ENTITY headersAllCmd.label "Complets">
 <!ENTITY headersAllCmd.accesskey "C">
 <!ENTITY headersNormalCmd.label "Normaux">
 <!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Corps du message en">
-<!ENTITY bodyMenu.accesskey "o">
+<!ENTITY bodyMenu.accesskey "r">
 <!ENTITY bodyAllowHTML.label "HTML original">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "HTML simple">
@@ -270,7 +270,7 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Afficher les pièces jointes dans les messages">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "j">
 <!ENTITY reloadCmd.label "Actualiser">
-<!ENTITY reloadCmd.accesskey "r">
+<!ENTITY reloadCmd.accesskey "c">
 <!ENTITY stopCmd.label "Arrêter">
 <!ENTITY stopCmd.accesskey "A">
 <!ENTITY pageSourceCmd.label "Code source du message">
@@ -278,14 +278,14 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Rechercher…">
-<!ENTITY findCmd.accesskey "R">
+<!ENTITY findCmd.accesskey "h">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Rechercher le suivant">
 <!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Rechercher le précédent">
-<!ENTITY findPrevCmd.accesskey "h">
+<!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
@@ -304,7 +304,7 @@
 <!ENTITY nextFlaggedMsgCmd.label "Message coché">
 <!ENTITY nextFlaggedMsgCmd.accesskey "c">
 <!ENTITY nextUnreadThread.label "Discussion non lue">
-<!ENTITY nextUnreadThread.accesskey "n">
+<!ENTITY nextUnreadThread.accesskey "D">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Précédent">
 <!ENTITY prevMenu.accesskey "P">
@@ -329,19 +329,19 @@
 <!ENTITY msgMenu.label "Messages">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Nouveau message">
-<!ENTITY newMsgCmd.accesskey "N">
+<!ENTITY newMsgCmd.accesskey "m">
 <!ENTITY newNewMsgCmd.label "Message">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Archiver">
-<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.accesskey "h">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Répondre">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Répondre à l'exp. seulement">
-<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replySenderCmd.accesskey "x">
 <!ENTITY replyNewsgroupCmd.label "Répondre dans le groupe">
-<!ENTITY replyNewsgroupCmd.accesskey "f">
+<!ENTITY replyNewsgroupCmd.accesskey "g">
 <!ENTITY replyToAllMsgCmd.label "Répondre à tous">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -406,8 +406,8 @@
 <!ENTITY markThreadAsReadCmd.label "La discussion comme lue">
 <!ENTITY markThreadAsReadCmd.accesskey "d">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Comme lu par date…">
-<!ENTITY markReadByDateCmd.accesskey "d">
+<!ENTITY markReadByDateCmd.label "Comme lus par date…">
+<!ENTITY markReadByDateCmd.accesskey "a">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Comme tous lus">
 <!ENTITY markAllReadCmd.accesskey "t">

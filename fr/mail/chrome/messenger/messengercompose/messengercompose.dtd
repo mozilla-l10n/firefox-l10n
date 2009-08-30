@@ -19,8 +19,8 @@
 <!ENTITY attachPageCmd.label "Page Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Joindre carte de visite (vCard)">
-<!ENTITY attachVCardCmd.accesskey "p">
+<!ENTITY attachVCardCmd.label "Carte de visite (vCard)">
+<!ENTITY attachVCardCmd.accesskey "C">
 <!ENTITY closeCmd.label "Fermer">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "F">
@@ -120,8 +120,8 @@
 <!ENTITY quoteCmd.accesskey "m">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Joindre carte de visite (vCard)">
-<!ENTITY attachVCard.accesskey "v">
+<!ENTITY attachVCard.label "Carte de visite (vCard)">
+<!ENTITY attachVCard.accesskey "C">
 
 <!ENTITY returnReceiptMenu.label "Demander un accusé de réception">
 <!ENTITY returnReceiptMenu.accesskey "t">
