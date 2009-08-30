@@ -77,7 +77,7 @@
 <!ENTITY ScreenName.accesskey           "A">
 
 <!ENTITY allowRemoteContent1.label      "Zezwól na wyświetlanie zdalnej zawartości w wiadomościach">
-<!ENTITY allowRemoteContent1.accesskey  "Z">
+<!ENTITY allowRemoteContent1.accesskey  "l">
 <!ENTITY allowRemoteContent1.tooltip    "W wiadomościach HTML możliwe jest wstawianie zdalnej zawartości. Otwarcie takiej wiadomości otworzy połączenie ze zdalnym zasobem co może umożliwić wysyłającemu śledzenie, czy wiadomość została odczytana. Zaznaczenie tego pola pozwoli automatycznie wczytywać treści tego rodzaju w wiadomościach od tego kontaktu.">
 
 <!ENTITY WorkPhone.label                "Praca:">
@@ -150,3 +150,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notatki:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                "Zdjęcie">
+<!ENTITY Photo.accesskey          "Z">
+<!ENTITY PhotoDesc.label          "">
+<!ENTITY GenericPhoto.label       "Standardowy obrazek">
+<!ENTITY GenericPhoto.accesskey   "t">
+<!ENTITY DefaultPhoto.label       "Domyślne">
+<!ENTITY PhotoFile.label          "Plik lokalny">
+<!ENTITY PhotoFile.accesskey      "k">
+<!ENTITY BrowsePhoto.label        "Przeglądaj">
+<!ENTITY BrowsePhoto.accesskey    "r">
+<!ENTITY PhotoURL.label           "Adres internetowy">
+<!ENTITY PhotoURL.accesskey       "A">
+<!ENTITY PhotoURL.emptytext       "Wklej lub wprowadź adres internetowy zdjęcia">
+<!ENTITY UpdatePhoto.label        "Uaktualnij">
+<!ENTITY UpdatePhoto.accesskey    "U">
