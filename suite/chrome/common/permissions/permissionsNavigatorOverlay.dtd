@@ -34,9 +34,9 @@
 <!ENTITY cookieManagePopups.label "Manage Popups">
 <!ENTITY cookieManagePopups.accesskey "M">
 
-<!ENTITY cookieCookieManager.label "Cookie Manager">
-<!ENTITY cookieCookieManager.accesskey "c">
-<!ENTITY cookieImageManager.label "Image Manager">
-<!ENTITY cookieImageManager.accesskey "i">
+<!ENTITY cookieCookieManager.label "Çerez yöneticisi">
+<!ENTITY cookieCookieManager.accesskey "y">
+<!ENTITY cookieImageManager.label "Resim yöneticisi">
+<!ENTITY cookieImageManager.accesskey "R">
 <!ENTITY cookiePopupManager.label "Popup Manager">
 <!ENTITY cookiePopupManager.accesskey "o">

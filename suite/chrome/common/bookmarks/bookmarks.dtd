@@ -69,31 +69,31 @@
 <!ENTITY button.rename.accesskey "r">
 <!ENTITY button.delete.label "Sil">
 <!ENTITY button.delete.accesskey "S">
-<!ENTITY menuitem.moveBookmark.label "Move Bookmark(s)…">
-<!ENTITY menuitem.moveBookmark.accesskey "M">
+<!ENTITY menuitem.moveBookmark.label "Yer imlerini taşı…">
+<!ENTITY menuitem.moveBookmark.accesskey "Y">
 <!ENTITY button.moveBookmark.label "Taşı…">
 <!ENTITY button.moveBookmark.accesskey "T">
 <!ENTITY command.addBookmark.label "Ekle…">
 <!ENTITY command.manageBookmarks.label "Manage">
-<!ENTITY command.sortFolder.label "Sort Folder…">
-<!ENTITY command.sortFolder.accesskey "S">
+<!ENTITY command.sortFolder.label "Dizinleri sırala…">
+<!ENTITY command.sortFolder.accesskey "D">
 <!ENTITY command.sortFolder.key "D">
-<!ENTITY command.sortFolderByName.label "Sort Folder by Name">
-<!ENTITY command.sortFolderByName.accesskey "N">
+<!ENTITY command.sortFolderByName.label "Dizin ismine göre sırala">
+<!ENTITY command.sortFolderByName.accesskey "i">
 
 <!ENTITY menuitem.view.command.toolbar.label "Araç çubuğu">
 <!ENTITY menuitem.view.command.toolbar.accesskey "u">
 <!ENTITY menuitem.view.show_columns.label "Sütunları göster">
 <!ENTITY menuitem.view.show_columns.accesskey "S">
-<!ENTITY menuitem.newbookmarkfolder.label "Set as New Bookmark Folder">
-<!ENTITY menuitem.newbookmarkfolder.accesskey "b">
-<!ENTITY menuitem.newinternetsearchfolder.label "Set as New Internet Search Folder">
-<!ENTITY menuitem.newinternetsearchfolder.accesskey "i">
-<!ENTITY menuitem.personaltoolbarfolder.label "Set as Personal Toolbar Folder">
-<!ENTITY menuitem.personaltoolbarfolder.accesskey "p">
+<!ENTITY menuitem.newbookmarkfolder.label "Yeni yer imi dizini olarak ata">
+<!ENTITY menuitem.newbookmarkfolder.accesskey "Y">
+<!ENTITY menuitem.newinternetsearchfolder.label "Yeni arama dizini olarak ata">
+<!ENTITY menuitem.newinternetsearchfolder.accesskey "m">
+<!ENTITY menuitem.personaltoolbarfolder.label "Kişisel araç çubuğu dizini olarak ata">
+<!ENTITY menuitem.personaltoolbarfolder.accesskey "K">
 
-<!ENTITY treecol.name.label "Name">
-<!ENTITY treecol.name.accesskey "N">
+<!ENTITY treecol.name.label "Ad">
+<!ENTITY treecol.name.accesskey "A">
 <!ENTITY treecol.name.tooltip "Ada göre sıralamak için tıklayın">
 <!ENTITY treecol.url.label "Konum">
 <!ENTITY treecol.url.accesskey "K">
@@ -109,10 +109,10 @@
 <!ENTITY treecol.addedon.tooltip "Ekleme tarihine göre sıralamak için tıklayın">
 <!ENTITY treecol.lastmod.label "Son değişiklik">
 <!ENTITY treecol.lastmod.accesskey "d">
-<!ENTITY treecol.lastmod.tooltip "Click to sort by last modified">
+<!ENTITY treecol.lastmod.tooltip "Son değişiklik tarihine göre sıralamak için tıklayın">
 <!ENTITY treecol.lastvisit.label "Son ziyaret edilenler">
 <!ENTITY treecol.lastvisit.accesskey "z">
-<!ENTITY treecol.lastvisit.tooltip "Click to sort by last visit">
+<!ENTITY treecol.lastvisit.tooltip "Son ziyaret tarihine göre sıralamak için tıklayın">
 
 <!ENTITY bookmarksWindowTitle.label "Yer imi yöneticisi">
 

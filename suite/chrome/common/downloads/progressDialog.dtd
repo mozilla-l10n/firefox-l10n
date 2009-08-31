@@ -50,5 +50,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey "g">
 <!ENTITY cmd.copyDownloadLink.label "İndirme bağlantısını kopyala">
 <!ENTITY cmd.copyDownloadLink.accesskey "l">
-<!ENTITY closeWhenDone.label "Close this window when the download is complete.">
-<!ENTITY closeWhenDone.accesskey "w">
+<!ENTITY closeWhenDone.label "İndirme bittiğinde pencereyi kapat.">
+<!ENTITY closeWhenDone.accesskey "n">

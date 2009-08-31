@@ -40,6 +40,13 @@
 <!ENTITY messengerWindow.title "Posta ve haber grupları">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
+<!-- tabmail -->
+
+<!ENTITY tabmailClose.label "Sekmeyi kapat">
+<!ENTITY tabmailClose.tooltip "Sekmeyi kapat">
+<!ENTITY tabmailNewButton.tooltip "Geçerli sekmeyi ikile">
+<!ENTITY tabmailCloseButton.tooltip "Sekmeyi kapat">
+<!ENTITY tabmailAllTabs.tooltip "Tüm sekmeleri diz">
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
@@ -50,6 +57,11 @@
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY newVirtualFolderCmd.label "Kayıtlı arama sonuçları…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
+<!ENTITY newTabCmd.label "Sekmeyi ikile">
+<!ENTITY newTabCmd.accesskey "y">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Sekmeyi kapat">
+<!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newAccountCmd.label "Hesap…">
 <!ENTITY newAccountCmd.accesskey "H">
 <!ENTITY openMessageFileCmd.label "Dosya aç…">
@@ -65,13 +77,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "c">
 <!ENTITY getNewMsgCmd.label "Yeni postaları indir">
 <!ENTITY getNewMsgCmd.accesskey "Y">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Yeni postalara bak">
 <!ENTITY getNewMsgForCmd.accesskey "i">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Bütün hesaplar…">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "B">
 <!ENTITY getAllNewMsgCmd.label "Tüm yeni postaları indir">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Bir sonraki 500 haber iletisini indir">
 <!ENTITY getNextNMsgCmd.accesskey "5">
 <!ENTITY sendUnsentCmd.label "Gönderilmeyen postaları gönder">
@@ -151,8 +163,8 @@
 <!ENTITY showSearchToolbarCmd.label "Arama çubuğu">
 <!ENTITY showSearchToolbarCmd.accesskey "A">
 
-<!ENTITY showLocationToolbarCmd.label "Location Toolbar">
-<!ENTITY showLocationToolbarCmd.accesskey "L">
+<!ENTITY showLocationToolbarCmd.label "Konum araç çubuğu">
+<!ENTITY showLocationToolbarCmd.accesskey "K">
 
 <!ENTITY messagePaneLayoutStyle.label "Yerleşim">
 <!ENTITY messagePaneLayoutStyle.accesskey "l">
@@ -164,8 +176,10 @@
 <!ENTITY messagePaneVertical.accesskey "k">
 <!ENTITY showMessagePaneCmd.label "Posta penceresi">
 <!ENTITY showMessagePaneCmd.accesskey "P">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
-<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showThreadPaneCmd.label "Dizilimler penceresi">
+<!ENTITY showThreadPaneCmd.accesskey "z">
+<!ENTITY showFolderPaneCmd.label "Dizin penceresi">
+<!ENTITY showFolderPaneCmd.accesskey "D">
 <!-- sortMenu is also used by addressbook -->
 
 <!ENTITY sortMenu.label "Sırala">
@@ -175,8 +189,8 @@
 <!ENTITY sortByDateCmd.accesskey "h">
 <!ENTITY sortByReceivedCmd.label "Tarih">
 <!ENTITY sortByReceivedCmd.accesskey "a">
-<!ENTITY sortByFlagCmd.label "Flag">
-<!ENTITY sortByFlagCmd.accesskey "l">
+<!ENTITY sortByFlagCmd.label "Bayrak">
+<!ENTITY sortByFlagCmd.accesskey "y">
 <!ENTITY sortByPriorityCmd.label "Önemlilik">
 <!ENTITY sortByPriorityCmd.accesskey "n">
 <!ENTITY sortBySizeCmd.label "Boyut">
@@ -304,8 +318,8 @@
 <!ENTITY goBackCmd.label "Geri">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.label "Forward">
-<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.label "İleri">
+<!ENTITY goForwardCmd.accesskey "l">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Yıldızlı iletiler">
 <!ENTITY prevFlaggedMsgCmd.accesskey "Y">
@@ -332,10 +346,10 @@
 <!ENTITY replyToAllMsgCmd.label "Hepsini yanıtla">
 <!ENTITY replyToAllMsgCmd.accesskey "p">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToSenderAndNewsgroupCmd.label "Reply to Sender and Newsgroup">
-<!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY replyToAllRecipientsCmd.label "Reply to All Recipients">
-<!ENTITY replyToAllRecipientsCmd.accesskey "a">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Gönderene ve haber grubuna yanıtla">
+<!ENTITY replyToSenderAndNewsgroupCmd.accesskey "ö">
+<!ENTITY replyToAllRecipientsCmd.label "Tüm alıcıları yanıtla">
+<!ENTITY replyToAllRecipientsCmd.accesskey "ü">
 <!ENTITY forwardMsgCmd.label "Postayı ilet">
 <!ENTITY forwardMsgCmd.accesskey "i">
 <!ENTITY forwardMsgCmd.key "l">
@@ -399,8 +413,8 @@
 <!ENTITY markAllReadCmd.label "Hepsi okunmuş olarak">
 <!ENTITY markAllReadCmd.accesskey "H">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Flag">
-<!ENTITY markFlaggedCmd.accesskey "F">
+<!ENTITY markFlaggedCmd.label "Bayrak">
+<!ENTITY markFlaggedCmd.accesskey "y">
 <!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Gereksiz ">
 <!ENTITY markAsJunkCmd.accesskey "G">
@@ -413,8 +427,8 @@
 <!ENTITY markAsShowRemoteCmd.label "Harici içeriği göster">
 <!ENTITY markAsShowRemoteCmd.accesskey "H">
 <!ENTITY markAsShowRemoteCmd.key "r">
-<!ENTITY markAsNotPhishCmd.label "As Not Scam">
-<!ENTITY markAsNotPhishCmd.accesskey "S">
+<!ENTITY markAsNotPhishCmd.label "Yemleme değil">
+<!ENTITY markAsNotPhishCmd.accesskey "Y">
 <!ENTITY markAsNotPhishCmd.key "p">
 <!ENTITY openMessageWindowCmd.label "Postayı aç">
 <!ENTITY openMessageWindowCmd.accesskey "o">
@@ -457,7 +471,7 @@
 
 <!ENTITY getMsgButton.label "Get Msgs">
 <!ENTITY newMsgButton.label "Yeni ileti">
-<!ENTITY newHTMLMessageCmd.label "Compose in HTML">
+<!ENTITY newHTMLMessageCmd.label "HTML olarak yaz">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
 <!ENTITY newPlainTextMessageCmd.label "Compose in Plain Text">
 <!ENTITY newPlainTextMessageCmd.accesskey "P">
@@ -479,13 +493,13 @@
 
 <!ENTITY menuBar.tooltip "Menü çubuğu">
 <!ENTITY mailToolbar.tooltip "Posta araç çubuğu">
-<!ENTITY locationToolbar.tooltip "Location Toolbar">
+<!ENTITY locationToolbar.tooltip "Konum araç çubuğu">
 <!ENTITY advancedButton.tooltip "Gelişmiş posta arama">
 <!ENTITY getMsgButton.tooltip "Yeni postaları indir">
 <!ENTITY newMsgButton.tooltip "Yeni posta yaz">
 <!ENTITY replyButton.tooltip "İletiyi yanıtla">
 <!ENTITY replyAllButton.tooltip "Göndereni ve tüm alıcıları yanıtla">
-<!ENTITY replyAllButtonNews.tooltip "Reply to sender and newsgroup">
+<!ENTITY replyAllButtonNews.tooltip "Gönderene ve haber grubuna yanıtla">
 <!ENTITY forwardButton.tooltip "Seçilmiş postaları ilet">
 <!ENTITY fileButton.tooltip "Seçilmiş Postaları Dosyala">
 <!ENTITY nextButton.tooltip "Bir sonraki okunmamış postaya git">
@@ -506,6 +520,8 @@
 
 <!ENTITY contextOpenNewWindow.label "Yeni pencerede aç">
 <!ENTITY contextOpenNewWindow.accesskey "i">
+<!ENTITY contextOpenNewTab.label "İletiyi yeni sekmede aç">
+<!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextEditAsNew.label "Yeni olarak düzenle…">
 <!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Arşivle">
@@ -516,8 +532,8 @@
 <!ENTITY contextReplyNewsgroup.accesskey "H">
 <!ENTITY contextReplyAll.label "Hepsini yanıtla">
 <!ENTITY contextReplyAll.accesskey "p">
-<!ENTITY contextReplySenderAndNewsgroup.label "Reply to Sender and Newsgroup">
-<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
+<!ENTITY contextReplySenderAndNewsgroup.label "Gönderene ve haber grubuna yanıtla">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "ö">
 <!ENTITY contextForward.label "İlet">
 <!ENTITY contextForward.accesskey "l">
 <!ENTITY contextForwardAsAttachment.label "Ek olarak ilet">
@@ -536,10 +552,12 @@
 <!ENTITY contextPrintPreview.accesskey "z">
 <!-- Folder Pane Context Menu -->
 
-<!ENTITY folderContextGetMessages.label "Get Messages for Account">
-<!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextGetMessages.label "Hesap postalarını indir">
+<!ENTITY folderContextGetMessages.accesskey "H">
 <!ENTITY folderContextOpenNewWindow.label "Yeni pencerede aç">
 <!ENTITY folderContextOpenNewWindow.accesskey "Y">
+<!ENTITY folderContextOpenNewTab.label "Yeni sekmede aç">
+<!ENTITY folderContextOpenNewTab.accesskey "s">
 <!ENTITY folderContextRename.label "İsmini değiştir">
 <!ENTITY folderContextRename.accesskey "s">
 <!ENTITY folderContextRemove.label "Sil">
@@ -580,7 +598,7 @@
 <!-- Junk Bar -->
 
 <!ENTITY junkBarMessage.label "&brandShortName; thinks this message is junk.">
-<!ENTITY junkBarButton.label "This is Not Junk">
+<!ENTITY junkBarButton.label "Gereksiz değil">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
 
@@ -589,4 +607,4 @@
 <!-- Phishing Bar -->
 
 <!ENTITY phishingBarMessage.label "&brandShortName; thinks this message might be an email scam.">
-<!ENTITY removePhishingBarButton.label "Not a Scam">
+<!ENTITY removePhishingBarButton.label "Yemleme değil">

@@ -10,9 +10,9 @@
 
 <!ENTITY view.columns.label "Sütunları göster">
 <!ENTITY view.columns.accesskey "S">
-<!ENTITY view.sortBy.label "Sort by">
-<!ENTITY view.sortBy.accesskey "S">
-<!ENTITY view.groupBy.label "Group by">
+<!ENTITY view.sortBy.label "Sıralama yöntemi">
+<!ENTITY view.sortBy.accesskey "a">
+<!ENTITY view.groupBy.label "Gruplama yöntemi">
 <!ENTITY view.groupBy.accesskey "G">
 
 <!ENTITY view.unsorted.label "Sınıflanmamış">

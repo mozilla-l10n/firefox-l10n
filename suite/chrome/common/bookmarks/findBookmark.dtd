@@ -9,7 +9,7 @@
 <!ENTITY search.isnot.label "sağdaki ile aynı değilse">
 <!ENTITY search.contains.label "sağdakini içeriyor ise">
 <!ENTITY search.doesntcontain.label "sağdakini içermiyor ise">
-<!ENTITY save.query.label "Save query in bookmarks">
+<!ENTITY save.query.label "Sorguyu yer imi olarak kaydet">
 <!ENTITY save.query.accesskey "S">
 <!ENTITY search.for.label "Find Bookmarks whose">
 <!ENTITY findBookmark.title "Yer imlerinde bul">

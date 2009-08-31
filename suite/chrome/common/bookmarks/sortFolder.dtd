@@ -13,12 +13,12 @@
 <!ENTITY sortBy.lastModifiedDate.label "Son değişiklik">
 <!ENTITY sortBy.lastVisitDate.label "En çok ziyaret edilenler">
 
-<!ENTITY sortOrder.label "Sort order:">
-<!ENTITY sortOrder.accesskey "o">
+<!ENTITY sortOrder.label "Sıralama kuralı">
+<!ENTITY sortOrder.accesskey "r">
 <!ENTITY sortAscending.label "Artarak">
 <!ENTITY sortDescending.label "Azalarak">
 
-<!ENTITY sortFoldersFirst.label "Sort folders first">
-<!ENTITY sortFoldersFirst.accesskey "d">
-<!ENTITY sortRecursively.label "Sort recursively">
-<!ENTITY sortRecursively.accesskey "c">
+<!ENTITY sortFoldersFirst.label "Dizinler başta">
+<!ENTITY sortFoldersFirst.accesskey "z">
+<!ENTITY sortRecursively.label "Tekrarlı sırala">
+<!ENTITY sortRecursively.accesskey "k">
