@@ -42,6 +42,7 @@
 <!ENTITY warning.label                   "Attention !">
 <!ENTITY incomingSettings.label          "Paramètres du courrier entrant :">
 <!ENTITY outgoingSettings.label          "Paramètres du courrier sortant :">
+<!ENTITY technicaldetails.label          "Détails techniques">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
