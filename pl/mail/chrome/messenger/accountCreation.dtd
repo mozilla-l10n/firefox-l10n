@@ -37,6 +37,7 @@
 <!ENTITY warning.label                    "Ostrzeżenie!">
 <!ENTITY incomingSettings.label           "Ustawienia dla poczty przychodzącej:">
 <!ENTITY outgoingSettings.label           "Ustawienia dla poczty wychodzącej:">
+<!ENTITY technicaldetails.label           "Szczegóły">
 <!ENTITY confirmWarning.label             "Rozumiem ryzyko.">
 <!ENTITY confirmWarning.accesskey         "R">
 <!ENTITY createAccount.label              "Utwórz konto">
