@@ -94,8 +94,8 @@
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Sertifikaları göster">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "S">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Revocation Lists">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Hükümsüz sayılanlar listesi">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "r">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Doğrulama">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "D">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Güvenlik Aygıtları">

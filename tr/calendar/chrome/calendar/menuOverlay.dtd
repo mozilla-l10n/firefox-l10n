@@ -42,13 +42,13 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Event Menu -->
 
-<!ENTITY event.new.event "Yeni olay…">
+<!ENTITY event.new.event "Yeni etkinlik…">
 <!ENTITY event.new.event.key "N">
-<!ENTITY event.new.event.accesskey "N">
+<!ENTITY event.new.event.accesskey "e">
 
 <!ENTITY event.new.todo "Yeni görev…">
 <!ENTITY event.new.todo.key "T">
-<!ENTITY event.new.todo.accesskey "Y">
+<!ENTITY event.new.todo.accesskey "g">
 
 <!ENTITY calendar.new.server.label "Yeni takvim…">
 <!ENTITY calendar.new.server.key "L">
@@ -70,13 +70,13 @@
 <!ENTITY calendar.publish.label "Yayınla…">
 <!ENTITY calendar.publish.accesskey "Y">
 
-<!ENTITY calendar.deletecalendar.label "Delete Selected Calendar…">
-<!ENTITY calendar.deletecalendar.accesskey "D">
+<!ENTITY calendar.deletecalendar.label "Seçili takvimi sil">
+<!ENTITY calendar.deletecalendar.accesskey "l">
 
 <!ENTITY calendar.menu.customize.label "Özelleştir…">
 <!ENTITY calendar.menu.customize.accesskey "z">
 
-<!ENTITY showUnifinderCmd.label "Olayları bul">
+<!ENTITY showUnifinderCmd.label "Etkinlikleri bul">
 <!ENTITY showUnifinderCmd.accesskey "b">
 
 <!ENTITY calendar.displaytodos.checkbox.label "Görevleri takvim içinde göster">
@@ -95,7 +95,7 @@
 <!ENTITY goPreviousCmd.day.label "Önceki gün">
 <!ENTITY goPreviousCmd.week.label "Önceki hafta">
 <!ENTITY goPreviousCmd.month.label "Önceki ay">
-<!ENTITY goPreviousCmd.accesskey "K">
+<!ENTITY goPreviousCmd.accesskey "n">
 
 <!ENTITY goNextCmd.day.label "Sonraki gün">
 <!ENTITY goNextCmd.week.label "Sonraki hafta">

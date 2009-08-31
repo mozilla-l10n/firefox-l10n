@@ -46,32 +46,32 @@
 <!-- Tools menu -->
 
 
-<!ENTITY lightning.taskLabel "Vurgulama">
+<!ENTITY lightning.taskLabel "Lightning">
 <!-- New menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.new.event.label "Event…">
+<!ENTITY lightning.menupopup.new.event.label "Etkinlik…">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
-<!ENTITY lightning.menupopup.new.task.label "Task…">
-<!ENTITY lightning.menupopup.new.task.accesskey "T">
-<!ENTITY lightning.menupopup.new.calendar.label "Calendar…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
+<!ENTITY lightning.menupopup.new.task.label "Görev…">
+<!ENTITY lightning.menupopup.new.task.accesskey "G">
+<!ENTITY lightning.menupopup.new.calendar.label "Takvim…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "T">
 <!-- Open menu popup in File menu -->
 
 <!ENTITY lightning.menupopup.open.label "Aç">
 <!ENTITY lightning.menupopup.open.accesskey "A">
 <!ENTITY lightning.menupopup.open.message.label "Kayıtlı mesajlar…">
 <!ENTITY lightning.menupopup.open.message.accesskey "m">
-<!ENTITY lightning.menupopup.open.calendar.label "Takvim dosyası">
+<!ENTITY lightning.menupopup.open.calendar.label "Takvim dosyası…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "T">
 <!-- View Menu -->
 
-<!ENTITY lightning.menu.view.calendar.label "Calendar">
-<!ENTITY lightning.menu.view.calendar.accesskey "n">
-<!ENTITY lightning.menu.view.tasks.label "Tasks">
-<!ENTITY lightning.menu.view.tasks.accesskey "k">
+<!ENTITY lightning.menu.view.calendar.label "Takvim">
+<!ENTITY lightning.menu.view.calendar.accesskey "T">
+<!ENTITY lightning.menu.view.tasks.label "Görevler">
+<!ENTITY lightning.menu.view.tasks.accesskey "G">
 <!-- Events and Tasks menu -->
 
-<!ENTITY lightning.menu.eventtask.label "Events and Tasks">
+<!ENTITY lightning.menu.eventtask.label "Etkinlik ve görevler">
 <!ENTITY lightning.menu.eventtask.accesskey "n">
 <!-- Mode Toolbar -->
 
@@ -79,30 +79,30 @@
 <!ENTITY lightning.toolbar.mail.accesskey "P">
 <!ENTITY lightning.toolbar.calendar.label "Takvim">
 <!ENTITY lightning.toolbar.calendar.accesskey "T">
-<!ENTITY lightning.toolbar.task.label "İş">
-<!ENTITY lightning.toolbar.task.accesskey "ş">
+<!ENTITY lightning.toolbar.task.label "Görevler">
+<!ENTITY lightning.toolbar.task.accesskey "G">
 <!-- Toolbar write button -->
 
-<!ENTITY lightning.toolbar.newevent.label "Event">
-<!ENTITY lightning.toolbar.newtask.label "Task">
+<!ENTITY lightning.toolbar.newevent.label "Etkinlik">
+<!ENTITY lightning.toolbar.newtask.label "Görev">
 <!-- Messenger Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label "Gün">
 <!ENTITY lightning.toolbar.day.accesskey "G">
 <!ENTITY lightning.toolbar.week.label "Hafta">
 <!ENTITY lightning.toolbar.week.accesskey "H">
-<!ENTITY lightning.toolbar.multiweek.label "Çok haftalı">
+<!ENTITY lightning.toolbar.multiweek.label "Çoklu haftalı">
 <!ENTITY lightning.toolbar.multiweek.accesskey "o">
 <!ENTITY lightning.toolbar.month.label "Ay">
 <!ENTITY lightning.toolbar.month.accesskey "y">
 <!-- properties dialog, calendar creation wizard -->
 
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Bugün panelinde olayları göster">
-<!ENTITY lightning.calendarproperties.showtasks.label "Görevleri bugün panelinde ve Görev kipinde göster">
-<!ENTITY lightning.calendarproperties.email.label "E-Mail:">
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Bugün panelinde etkinlikleri göster">
+<!ENTITY lightning.calendarproperties.showtasks.label "Görevleri bugün panelinde ve görev kipinde göster">
+<!ENTITY lightning.calendarproperties.email.label "E-posta:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Bu mesaj bir olaya davetiyedir.">
+<!ENTITY lightning.imipbar.description "Bu mesaj bir etkinliğe davetiyedir.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.new "I">
@@ -112,12 +112,12 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Yeni bir takvim oluştur">
 <!-- today-pane-specific -->
 
-<!ENTITY todaypane.showMinimonth.label "Show Mini-Month">
-<!ENTITY todaypane.showMinimonth.accesskey "M">
-<!ENTITY todaypane.showMiniday.label "Show Mini-Day">
-<!ENTITY todaypane.showMiniday.accesskey "d">
-<!ENTITY todaypane.showNone.label "Show None">
-<!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Show Today Pane">
-<!ENTITY todaypane.showTodayPane.accesskey "o">
-<!ENTITY todaypane.statusButton.label "Bugün paneli">
+<!ENTITY todaypane.showMinimonth.label "Küçük ay takvimi göster">
+<!ENTITY todaypane.showMinimonth.accesskey "K">
+<!ENTITY todaypane.showMiniday.label "Küçük gün takvimi göster">
+<!ENTITY todaypane.showMiniday.accesskey "g">
+<!ENTITY todaypane.showNone.label "Hiçbir şey gösterme">
+<!ENTITY todaypane.showNone.accesskey "b">
+<!ENTITY todaypane.showTodayPane.label "Bugün penceresini göster">
+<!ENTITY todaypane.showTodayPane.accesskey "p">
+<!ENTITY todaypane.statusButton.label "Bugün penceresi">

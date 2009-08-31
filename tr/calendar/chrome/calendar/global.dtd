@@ -84,9 +84,9 @@
 <!ENTITY month.11.name "Kasım">
 <!ENTITY month.12.name "Aralık">
 
-<!ENTITY onemonthbackward.tooltip "One Month Back">
-<!ENTITY onemonthforward.tooltip "One Month Forward">
-<!ENTITY showToday.tooltip "Go to Today">
-<!ENTITY onedayforward.tooltip "One Day Forward">
-<!ENTITY onedaybackward.tooltip "One Day Backward">
-<!ENTITY showselectedday.tooltip "Show events for selected day">
+<!ENTITY onemonthbackward.tooltip "Bir ay geri">
+<!ENTITY onemonthforward.tooltip "Bir ay ileri">
+<!ENTITY showToday.tooltip "Bugüne git">
+<!ENTITY onedayforward.tooltip "Bir gün ileri">
+<!ENTITY onedaybackward.tooltip "Bir gün geri">
+<!ENTITY showselectedday.tooltip "Seçilmiş gün için etkinlikleri göster">
