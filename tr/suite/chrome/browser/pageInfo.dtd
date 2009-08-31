@@ -113,7 +113,7 @@
 <!ENTITY permTab "İzinler">
 <!ENTITY permTab.accesskey "z">
 <!ENTITY permUseDefault "Öntanımlıyı kullan">
-<!ENTITY permAskAlways "Always ask">
+<!ENTITY permAskAlways "Her zaman sor">
 <!ENTITY permAllow "İzin ver">
 <!ENTITY permAllowSession "Oturum boyunca izin ver">
 <!ENTITY permBlock "Engelle">

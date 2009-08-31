@@ -27,29 +27,29 @@
 <!ENTITY col.progress.label "İlerleme">
 <!ENTITY col.progress.accesskey "l">
 <!ENTITY col.progress.tooltip "İlerleme">
-<!ENTITY col.timeremaining.label "Time Left">
-<!ENTITY col.timeremaining.accesskey "L">
-<!ENTITY col.timeremaining.tooltip "Time Left">
-<!ENTITY col.transferred.label "Transferred">
-<!ENTITY col.transferred.accesskey "T">
+<!ENTITY col.timeremaining.label "Kalan zaman">
+<!ENTITY col.timeremaining.accesskey "z">
+<!ENTITY col.timeremaining.tooltip "Kalan zaman">
+<!ENTITY col.transferred.label "İndirilen">
+<!ENTITY col.transferred.accesskey "n">
 <!ENTITY col.transferred.tooltip "Transferred">
-<!ENTITY col.transferrate.label "Speed">
-<!ENTITY col.transferrate.accesskey "d">
+<!ENTITY col.transferrate.label "Hız">
+<!ENTITY col.transferrate.accesskey "H">
 <!ENTITY col.transferrate.tooltip "Speed">
-<!ENTITY col.timeelapsed.label "Time Elapsed">
-<!ENTITY col.timeelapsed.accesskey "E">
-<!ENTITY col.timeelapsed.tooltip "Time Elapsed">
-<!ENTITY col.starttime.label "Start Time">
-<!ENTITY col.starttime.accesskey "a">
-<!ENTITY col.starttime.tooltip "Start Time">
-<!ENTITY col.endtime.label "End Time">
-<!ENTITY col.endtime.accesskey "i">
-<!ENTITY col.endtime.tooltip "End Time">
+<!ENTITY col.timeelapsed.label "Geçen süre">
+<!ENTITY col.timeelapsed.accesskey "ç">
+<!ENTITY col.timeelapsed.tooltip "Geçen süre">
+<!ENTITY col.starttime.label "Başlama zamanı">
+<!ENTITY col.starttime.accesskey "l">
+<!ENTITY col.starttime.tooltip "Başlama zamanı">
+<!ENTITY col.endtime.label "Bitiş zamanı">
+<!ENTITY col.endtime.accesskey "z">
+<!ENTITY col.endtime.tooltip "Bitiş zamanı">
 <!ENTITY col.progresstext.label "&#37;">
 <!ENTITY col.progresstext.accesskey "&#37;">
-<!ENTITY col.progresstext.tooltip "Progress (&#37;)">
-<!ENTITY col.source.label "Source">
-<!ENTITY col.source.accesskey "o">
+<!ENTITY col.progresstext.tooltip "İlerleme (&#37;)">
+<!ENTITY col.source.label "Kaynak">
+<!ENTITY col.source.accesskey "K">
 <!ENTITY col.source.tooltip "Kaynak">
 
 <!ENTITY view.columns.label "Sütunları göster">
@@ -68,8 +68,8 @@
 <!ENTITY cmd.pause.accesskey "r">
 <!ENTITY cmd.resume.label "Devam et">
 <!ENTITY cmd.resume.accesskey "t">
-<!ENTITY cmd.retry.label "Retry">
-<!ENTITY cmd.retry.accesskey "t">
+<!ENTITY cmd.retry.label "Yeniden dene">
+<!ENTITY cmd.retry.accesskey "d">
 <!ENTITY cmd.cancel.label "Vazgeç">
 <!ENTITY cmd.cancel.accesskey "V">
 <!ENTITY cmd.remove.label "Listeden kaldır">

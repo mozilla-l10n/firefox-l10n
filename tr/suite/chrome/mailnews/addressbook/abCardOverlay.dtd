@@ -157,3 +157,19 @@ bu kutuyu kontrol edin.">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Notlar:">
 <!ENTITY Notes.accesskey "N">
+
+<!ENTITY Photo.tab "Resim">
+<!ENTITY Photo.accesskey "i">
+<!ENTITY PhotoDesc.label "Aşağıdakilerden birini seçin:">
+<!ENTITY GenericPhoto.label "Genel resim">
+<!ENTITY GenericPhoto.accesskey "G">
+<!ENTITY DefaultPhoto.label "Öntanımlı">
+<!ENTITY PhotoFile.label "Bu bilgisayarda">
+<!ENTITY PhotoFile.accesskey "g">
+<!ENTITY BrowsePhoto.label "Gözat">
+<!ENTITY BrowsePhoto.accesskey "G">
+<!ENTITY PhotoURL.label "Web üzerinde">
+<!ENTITY PhotoURL.accesskey "b">
+<!ENTITY PhotoURL.emptytext "Resim adresini yazın veya yapıştırın">
+<!ENTITY UpdatePhoto.label "Güncelle">
+<!ENTITY UpdatePhoto.accesskey "G">

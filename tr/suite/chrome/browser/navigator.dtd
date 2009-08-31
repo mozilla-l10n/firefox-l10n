@@ -81,10 +81,10 @@
 <!ENTITY minimizeButton.tooltip "Küçült">
 <!ENTITY restoreButton.tooltip "Kurtar">
 
-<!ENTITY applyTheme.label "Apply Theme">
-<!ENTITY applyTheme.accesskey "A">
-<!ENTITY getNewThemesCmd.label "Get New Themes">
-<!ENTITY getNewThemesCmd.accesskey "G">
+<!ENTITY applyTheme.label "Tema uygula">
+<!ENTITY applyTheme.accesskey "T">
+<!ENTITY getNewThemesCmd.label "Yeni tema indir">
+<!ENTITY getNewThemesCmd.accesskey "Y">
 <!ENTITY findOnCmd.label "Bu sayfada bul…">
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">

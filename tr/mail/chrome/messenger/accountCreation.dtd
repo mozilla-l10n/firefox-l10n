@@ -1,19 +1,19 @@
-<!ENTITY welcome.description "Quick Account Setup">
+<!ENTITY welcome.description "Hesap hızlı ayarları">
 <!ENTITY autoconfigWizard.style "width: 640px; height: 480px;">
-<!ENTITY name.description "Your name">
+<!ENTITY name.description "İsminiz">
 <!ENTITY email.description "E-posta">
 <!ENTITY password.description "Parola">
 
-<!ENTITY next.label "Next &#187;">
-<!ENTITY next.accesskey "N">
-<!ENTITY back.label "&#171; Back">
-<!ENTITY back.accesskey "B">
+<!ENTITY next.label "İleri &#187;">
+<!ENTITY next.accesskey "l">
+<!ENTITY back.label "&#171; Geri">
+<!ENTITY back.accesskey "G">
 
-<!ENTITY accountInformation.label "Account Information">
-<!ENTITY username.label "username">
-<!ENTITY receivingServer.label "receiving">
-<!ENTITY sendingServer.label "sending">
-<!ENTITY noEncryption.label "None">
+<!ENTITY accountInformation.label "Hesap bilgileri">
+<!ENTITY username.label "kullanıcı adı">
+<!ENTITY receivingServer.label "alınıyor">
+<!ENTITY sendingServer.label "gönderiliyor">
+<!ENTITY noEncryption.label "Hiçbiri">
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY sslTls.label "SSL/TLS">
 
@@ -24,49 +24,45 @@
      which will create the account and take the user to the account
      configuration screen. -->
 
-<!ENTITY createAndEditSettings.label "Create and Edit Account Settings">
+<!ENTITY createAndEditSettings.label "Hesap bilgilerini yarat ve düzenle">
 <!ENTITY cancel.label "Vazgeç">
 <!ENTITY stop.label "Dur">
 <!ENTITY stop.accesskey "D">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
-<!ENTITY retest.label "Re-test Configuration">
-<!ENTITY retest.accesskey "R">
-<!ENTITY edit.label "Edit">
-<!ENTITY edit.accesskey "E">
+<!ENTITY retest.label "Yapılandırmayı tekrar denetle">
+<!ENTITY retest.accesskey "Y">
+<!ENTITY edit.label "Düzenle">
+<!ENTITY edit.accesskey "z">
 
-<!ENTITY rememberPassword.label "Remember password">
-<!ENTITY rememberPassword.accesskey "m">
+<!ENTITY rememberPassword.label "Parolayı hatırla">
+<!ENTITY rememberPassword.accesskey "h">
 
 <!ENTITY warning.label "Uyarı!">
-<!ENTITY incomingSettings.label "Incoming settings:">
-<!ENTITY outgoingSettings.label "Outgoing settings:">
-<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
-     warning on the incoming server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmIncomingWarning.label "I understand the risks.">
-<!ENTITY confirmIncomingWarning.accesskey "u">
-<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+<!ENTITY incomingSettings.label "Gelen posta ayarları:">
+<!ENTITY outgoingSettings.label "Giden posta ayarları:">
+<!ENTITY technicaldetails.label "Teknik ayrıntılar">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmOutgoingWarning.label "I understand the risks.">
-<!ENTITY confirmOutgoingWarning.accesskey "d">
+<!ENTITY confirmWarning.label "Tehlikenin farkındayım.">
+<!ENTITY confirmWarning.accesskey "T">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label "Create Account">
-<!ENTITY createAccount.accesskey "C">
+<!ENTITY createAccount.label "Hesap yarat">
+<!ENTITY createAccount.accesskey "H">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label "Change Settings">
-<!ENTITY changeSettings.accesskey "S">
+<!ENTITY changeSettings.label "Ayarları değiştir">
+<!ENTITY changeSettings.accesskey "A">
 
 <!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
 
-<!ENTITY insecureServer.tooltip.title "Warning! This is an insecure server.">
+<!ENTITY insecureServer.tooltip.title "Uyarı! Güvenli sunucu değildir.">
 <!ENTITY insecureServer.tooltip.details "Click circle for more details.">
 
 <!ENTITY insecureClearText.description "Email is sent in clear-text, so your email could be read by attackers, etc. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
