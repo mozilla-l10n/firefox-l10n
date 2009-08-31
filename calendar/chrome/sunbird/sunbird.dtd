@@ -34,53 +34,53 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sunbird.choosedate.button.tooltip "Choose date to go to">
-<!ENTITY sunbird.cut.button.tooltip "Cut">
-<!ENTITY sunbird.copy.button.tooltip "Copy">
-<!ENTITY sunbird.paste.button.tooltip "Paste">
-<!ENTITY sunbird.print.button.tooltip "Print calendar">
+<!ENTITY sunbird.choosedate.button.tooltip "Gidilecek tarihi seç">
+<!ENTITY sunbird.cut.button.tooltip "Kes">
+<!ENTITY sunbird.copy.button.tooltip "Kopyala">
+<!ENTITY sunbird.paste.button.tooltip "Yapıştır">
+<!ENTITY sunbird.print.button.tooltip "Takvimi yazdır">
 <!ENTITY sunbird.delete.button.tooltip "Seçilmiş etkinliği sil">
-<!ENTITY sunbird.remotereload.button.tooltip "Reload all remote calendars">
+<!ENTITY sunbird.remotereload.button.tooltip "Uzaktaki tüm takvimleri tazele">
 <!ENTITY sunbird.import.button.tooltip "Import events from a local file">
 <!ENTITY sunbird.export.button.tooltip "Export events to a local file">
 <!ENTITY sunbird.subscribe.button.tooltip "Subscribe to a calendar file on a remote machine">
 <!ENTITY sunbird.publish.button.tooltip "Publish events to a remote machine">
 <!ENTITY sunbird.unifinder.button.tooltip "Find and list events">
-<!ENTITY sunbird.edit.button.tooltip "Edit selected event">
+<!ENTITY sunbird.edit.button.tooltip "Seçilmiş etkinliği düzenle">
 
 <!ENTITY sunbird.choosedate.button.label "Choose Date">
-<!ENTITY sunbird.cut.button.label "Cut">
-<!ENTITY sunbird.copy.button.label "Copy">
-<!ENTITY sunbird.paste.button.label "Paste">
-<!ENTITY sunbird.delete.button.label "Delete">
-<!ENTITY sunbird.remotereload.button.label "Reload">
+<!ENTITY sunbird.cut.button.label "Kes">
+<!ENTITY sunbird.copy.button.label "Kopyala">
+<!ENTITY sunbird.paste.button.label "Yapıştır">
+<!ENTITY sunbird.delete.button.label "Sil">
+<!ENTITY sunbird.remotereload.button.label "Tazele">
 <!ENTITY sunbird.import.button.label "İçe aktar">
 <!ENTITY sunbird.export.button.label "Dışa aktar">
 <!ENTITY sunbird.subscribe.button.label "Abone ol">
 <!ENTITY sunbird.publish.button.label "Yayınla">
 <!ENTITY sunbird.unifinder.button.label "Etkinlikleri bul">
-<!ENTITY sunbird.edit.button.label "Edit">
+<!ENTITY sunbird.edit.button.label "Düzenle">
 
-<!ENTITY sunbird.flat.topbar.choosedate "Go to Date">
-<!ENTITY sunbird.flat.topbar.dayview "Day View">
-<!ENTITY sunbird.flat.topbar.weekview "Week View">
-<!ENTITY sunbird.flat.topbar.monthview "Month View">
-<!ENTITY sunbird.flat.topbar.multiweekview "Çok Haftalı Görünüm">
+<!ENTITY sunbird.flat.topbar.choosedate "Tarihe git">
+<!ENTITY sunbird.flat.topbar.dayview "Gün görünümü">
+<!ENTITY sunbird.flat.topbar.weekview "Hafta görünümü">
+<!ENTITY sunbird.flat.topbar.monthview "Ay görünümü">
+<!ENTITY sunbird.flat.topbar.multiweekview "Çok haftalı görünüm">
 
-<!ENTITY sunbird.dayview.accesskey "D">
-<!ENTITY sunbird.weekview.accesskey "W">
-<!ENTITY sunbird.monthview.accesskey "M">
-<!ENTITY sunbird.multiweekview.accesskey "u">
+<!ENTITY sunbird.dayview.accesskey "G">
+<!ENTITY sunbird.weekview.accesskey "H">
+<!ENTITY sunbird.monthview.accesskey "A">
+<!ENTITY sunbird.multiweekview.accesskey "o">
 
 
-<!ENTITY sunbird.calendartab.label "Date">
-<!ENTITY sunbird.listofcalendarstab.label "Calendars">
+<!ENTITY sunbird.calendartab.label "Tarih">
+<!ENTITY sunbird.listofcalendarstab.label "Takvimler">
 
 <!ENTITY sunbird.find.key "F">
 <!ENTITY sunbird.close.key "W">
 
-<!ENTITY sunbird.menu.numberofweeks.label "Number of Weeks">
-<!ENTITY sunbird.menu.numberofweeks.accesskey "N">
+<!ENTITY sunbird.menu.numberofweeks.label "Hafta sayısı">
+<!ENTITY sunbird.menu.numberofweeks.accesskey "f">
 <!ENTITY sunbird.menu.numberofweeks.1 "1 hafta">
 <!ENTITY sunbird.menu.numberofweeks.2 "2 hafta">
 <!ENTITY sunbird.menu.numberofweeks.3 "3 hafta">
@@ -93,12 +93,12 @@
 <!ENTITY sunbird.context.customize.accesskey "z">
 <!ENTITY sunbird.menu.customize.label "Araç çubuğunu özelleştir…">
 <!ENTITY sunbird.menu.customize.accesskey "ö">
-<!ENTITY sunbird.maintoolbar.name "Main Toolbar">
-<!ENTITY sunbird.maintoolbar.accesskey "M">
+<!ENTITY sunbird.maintoolbar.name "Ana araç çubuğu">
+<!ENTITY sunbird.maintoolbar.accesskey "A">
 <!-- Sunbird Help -->
 
-<!ENTITY sunbird.help.label "Help Contents">
-<!ENTITY sunbird.help.accesskey "H">
+<!ENTITY sunbird.help.label "Yardım içeriği">
+<!ENTITY sunbird.help.accesskey "d">
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 <!ENTITY mainWindow.title "&brandFullName;">

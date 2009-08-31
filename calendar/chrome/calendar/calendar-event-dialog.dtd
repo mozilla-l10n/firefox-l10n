@@ -45,9 +45,9 @@
 <!ENTITY event.title.label "Öğeyi düzenle">
 
 
-<!ENTITY newevent.from.label "From">
-<!ENTITY newevent.to.label "To">
-<!ENTITY newevent.attendees.notify.label "Notify attendees">
+<!ENTITY newevent.from.label "Gönderen">
+<!ENTITY newevent.to.label "Alıcı">
+<!ENTITY newevent.attendees.notify.label "Katılımcıları uyar">
 
 <!ENTITY newevent.status.label "Durum">
 <!ENTITY newevent.status.accesskey "u">
@@ -107,8 +107,8 @@
 <!ENTITY event.menu.view.accesskey "G">
 <!ENTITY event.menu.view.toolbars.label "Araç çubukları">
 <!ENTITY event.menu.view.toolbars.accesskey "A">
-<!ENTITY event.menu.view.toolbars.event.label "Event Toolbar">
-<!ENTITY event.menu.view.toolbars.event.accesskey "E">
+<!ENTITY event.menu.view.toolbars.event.label "Etkinlik araç çubuğu">
+<!ENTITY event.menu.view.toolbars.event.accesskey "a">
 <!ENTITY event.menu.view.toolbars.customize.label "Özelleştir…">
 <!ENTITY event.menu.view.toolbars.customize.accesskey "z">
 <!ENTITY event.menu.view.showlink.label "Show Related Link">
@@ -124,8 +124,8 @@
 <!ENTITY event.menu.options.spellcheck.accesskey "İ">
 <!ENTITY event.menu.options.inline.spellcheck.label "Yazarken denetle">
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "Y">
-<!ENTITY event.menu.options.link.label "Add Link…">
-<!ENTITY event.menu.options.link.accesskey "L">
+<!ENTITY event.menu.options.link.label "Bağlantı ekle…">
+<!ENTITY event.menu.options.link.accesskey "B">
 <!ENTITY event.menu.options.timezone.label "Zaman dilimi">
 <!ENTITY event.menu.options.timezone.accesskey "Z">
 <!ENTITY event.menu.options.priority2.label "Önemlilik">
@@ -138,20 +138,20 @@
 <!ENTITY event.menu.options.priority.normal.accesskey "N">
 <!ENTITY event.menu.options.priority.high.label "Yüksek">
 <!ENTITY event.menu.options.priority.high.accesskey "Y">
-<!ENTITY event.menu.options.privacy.label "Privacy">
-<!ENTITY event.menu.options.privacy.accesskey "P">
+<!ENTITY event.menu.options.privacy.label "Gizlilik">
+<!ENTITY event.menu.options.privacy.accesskey "G">
 <!ENTITY event.menu.options.privacy.public.label "Public Event">
 <!ENTITY event.menu.options.privacy.public.accesskey "u">
-<!ENTITY event.menu.options.privacy.confidential.label "Show Time and Date Only">
+<!ENTITY event.menu.options.privacy.confidential.label "Sadece saati ve tarihi göster">
 <!ENTITY event.menu.options.privacy.confidential.accesskey "S">
 <!ENTITY event.menu.options.privacy.private.label "Private Event">
 <!ENTITY event.menu.options.privacy.private.accesskey "r">
-<!ENTITY event.menu.options.show.time.label "Show Time as">
-<!ENTITY event.menu.options.show.time.accesskey "T">
-<!ENTITY event.menu.options.show.time.busy.label "Busy">
-<!ENTITY event.menu.options.show.time.busy.accesskey "B">
-<!ENTITY event.menu.options.show.time.free.label "Free">
-<!ENTITY event.menu.options.show.time.free.accesskey "F">
+<!ENTITY event.menu.options.show.time.label "Saati farklı göster">
+<!ENTITY event.menu.options.show.time.accesskey "ö">
+<!ENTITY event.menu.options.show.time.busy.label "Meşgul">
+<!ENTITY event.menu.options.show.time.busy.accesskey "M">
+<!ENTITY event.menu.options.show.time.free.label "Serbest">
+<!ENTITY event.menu.options.show.time.free.accesskey "S">
 
 <!ENTITY event.help.label "Yardım">
 <!ENTITY event.help.accesskey "Y">
@@ -170,40 +170,40 @@
 <!ENTITY event.email.tentative.attendees.accesskey "U">
 <!-- Toolbar -->
 
-<!ENTITY event.toolbar.save.label "Save and Close">
-<!ENTITY event.toolbar.delete.label "Delete">
+<!ENTITY event.toolbar.save.label "Kaydet ve kapat">
+<!ENTITY event.toolbar.delete.label "Sil">
 <!ENTITY event.toolbar.attendees.label "Invite Attendees">
-<!ENTITY event.toolbar.spellcheck.label "Spellcheck">
-<!ENTITY event.toolbar.privacy.label "Privacy">
-<!ENTITY event.toolbar.attachments.label "Attach">
+<!ENTITY event.toolbar.spellcheck.label "İmla denetimi">
+<!ENTITY event.toolbar.privacy.label "Gizlilik">
+<!ENTITY event.toolbar.attachments.label "Ekle">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label "Başlık:">
 <!ENTITY event.title.textbox.accesskey "B">
 <!ENTITY event.location.label "Konum:">
 <!ENTITY event.location.accesskey "K">
-<!ENTITY event.categories.label "Category:">
-<!ENTITY event.categories.accesskey "y">
+<!ENTITY event.categories.label "Kategori:">
+<!ENTITY event.categories.accesskey "t">
 <!ENTITY event.calendar.label "Takvim:">
 <!ENTITY event.calendar.accesskey "T">
-<!ENTITY event.attendees.label "Attendees:">
+<!ENTITY event.attendees.label "Katılımcılar:">
 <!ENTITY event.attendees.accesskey "I">
-<!ENTITY event.alldayevent.label "All day Event">
-<!ENTITY event.alldayevent.accesskey "d">
+<!ENTITY event.alldayevent.label "Tüm Gün Olayı">
+<!ENTITY event.alldayevent.accesskey "T">
 <!ENTITY event.from.label "Başlangıç:">
 <!ENTITY event.from.accesskey "B">
 <!ENTITY task.from.label "Başlangıç:">
 <!ENTITY task.from.accesskey "B">
-<!ENTITY event.to.label "End:">
-<!ENTITY event.to.accesskey "n">
-<!ENTITY task.to.label "Due Date:">
-<!ENTITY task.to.accesskey "u">
+<!ENTITY event.to.label "Bitiş:">
+<!ENTITY event.to.accesskey "t">
+<!ENTITY task.to.label "Son tarih:">
+<!ENTITY task.to.accesskey "S">
 <!ENTITY task.status.label "Durum:">
 <!ENTITY task.status.accesskey "D">
 <!ENTITY event.repeat.label "Tekrarla:">
 <!ENTITY event.repeat.accesskey "T">
-<!ENTITY event.reminder.label "Reminder:">
-<!ENTITY event.reminder.accesskey "m">
+<!ENTITY event.reminder.label "Uyarı:">
+<!ENTITY event.reminder.accesskey "y">
 <!ENTITY event.description.label "Açıklama:">
 <!ENTITY event.description.accesskey "A">
 <!ENTITY event.attachments.label "Ekler:">
@@ -219,59 +219,59 @@
 <!ENTITY event.url.label "Related Link:">
 <!ENTITY event.priority2.label "Önemlilik:">
 
-<!ENTITY event.reminder.none.label "No reminder ">
-<!ENTITY event.reminder.5minutes.before.label "5 minutes before">
-<!ENTITY event.reminder.10minutes.before.label "10 minutes before">
-<!ENTITY event.reminder.15minutes.before.label "15 minutes before">
-<!ENTITY event.reminder.30minutes.before.label "30 minutes before">
-<!ENTITY event.reminder.45minutes.before.label "45 minutes before">
-<!ENTITY event.reminder.1hour.before.label "1 hour before">
-<!ENTITY event.reminder.2hours.before.label "2 hours before">
-<!ENTITY event.reminder.5hours.before.label "5 hours before">
-<!ENTITY event.reminder.15hours.before.label "15 hours before">
-<!ENTITY event.reminder.1day.before.label "1 day before">
-<!ENTITY event.reminder.2days.before.label "2 days before">
-<!ENTITY event.reminder.1week.before.label "1 week before">
+<!ENTITY event.reminder.none.label "Uyarısız">
+<!ENTITY event.reminder.5minutes.before.label "5 dakika önce">
+<!ENTITY event.reminder.10minutes.before.label "10 dakika önce">
+<!ENTITY event.reminder.15minutes.before.label "15 dakika önce">
+<!ENTITY event.reminder.30minutes.before.label "30 dakika önce">
+<!ENTITY event.reminder.45minutes.before.label "45 dakika önce">
+<!ENTITY event.reminder.1hour.before.label "1 saat önce">
+<!ENTITY event.reminder.2hours.before.label "2 saat önce">
+<!ENTITY event.reminder.5hours.before.label "5 saat önce">
+<!ENTITY event.reminder.15hours.before.label "15 saat önce">
+<!ENTITY event.reminder.1day.before.label "1 gün önce">
+<!ENTITY event.reminder.2days.before.label "2 gün önce">
+<!ENTITY event.reminder.1week.before.label "1 hafta öcnce">
 <!ENTITY event.reminder.custom.label "Özelleştir…">
 
-<!ENTITY event.reminder.multiple.label "Multiple Reminders…">
+<!ENTITY event.reminder.multiple.label "Çoklu uyarı…">
 <!-- Recurrence dialog -->
 
-<!ENTITY recurrence.title.label "Edit Recurrence">
+<!ENTITY recurrence.title.label "Yineleme aralığını düzenle">
 
-<!ENTITY event.repeat.does.not.repeat.label "Does not repeat">
-<!ENTITY event.repeat.daily.label "Daily">
-<!ENTITY event.repeat.weekly.label "Weekly">
-<!ENTITY event.repeat.every.weekday.label "Every Weekday">
-<!ENTITY event.repeat.bi.weekly.label "Bi-weekly">
-<!ENTITY event.repeat.monthly.label "Monthly">
-<!ENTITY event.repeat.yearly.label "Yearly">
+<!ENTITY event.repeat.does.not.repeat.label "Tekrarlama">
+<!ENTITY event.repeat.daily.label "Her gün">
+<!ENTITY event.repeat.weekly.label "Her hafta">
+<!ENTITY event.repeat.every.weekday.label "Her hafta günü">
+<!ENTITY event.repeat.bi.weekly.label "İki haftadan bir">
+<!ENTITY event.repeat.monthly.label "Her ay">
+<!ENTITY event.repeat.yearly.label "Her sene">
 <!ENTITY event.repeat.custom.label "Özelleştir…">
 
-<!ENTITY event.recurrence.pattern.label "Recurrence pattern">
-<!ENTITY event.recurrence.occurs.label "Repeat">
-<!ENTITY event.recurrence.day.label "daily">
-<!ENTITY event.recurrence.week.label "weekly">
-<!ENTITY event.recurrence.month.label "monthly">
-<!ENTITY event.recurrence.year.label "annually">
+<!ENTITY event.recurrence.pattern.label "Yenileme şablonu">
+<!ENTITY event.recurrence.occurs.label "Tekrarla">
+<!ENTITY event.recurrence.day.label "her gün">
+<!ENTITY event.recurrence.week.label "her hafta">
+<!ENTITY event.recurrence.month.label "her ay">
+<!ENTITY event.recurrence.year.label "her sene">
 
-<!ENTITY event.recurrence.pattern.every.label "Every">
+<!ENTITY event.recurrence.pattern.every.label "Her">
 <!ENTITY repeat.units.days.both "gün">
-<!ENTITY event.recurrence.pattern.every.weekday.label "Every weekday">
+<!ENTITY event.recurrence.pattern.every.weekday.label "Her hafta günü">
 
-<!ENTITY event.recurrence.pattern.weekly.every.label "Every">
-<!ENTITY repeat.units.weeks.both "Week(s)">
-<!ENTITY event.recurrence.on.label "On:">
+<!ENTITY event.recurrence.pattern.weekly.every.label "Her">
+<!ENTITY repeat.units.weeks.both "Hafta">
+<!ENTITY event.recurrence.on.label "Zaman:">
 
-<!ENTITY event.recurrence.pattern.monthly.every.label "Every">
-<!ENTITY repeat.units.months.both "Month(s)">
-<!ENTITY event.recurrence.monthly.every.label "Every">
-<!ENTITY event.recurrence.monthly.first.label "The First">
-<!ENTITY event.recurrence.monthly.second.label "The Second">
-<!ENTITY event.recurrence.monthly.third.label "The Third">
-<!ENTITY event.recurrence.monthly.fourth.label "The Fourth">
-<!ENTITY event.recurrence.monthly.fifth.label "The Fifth">
-<!ENTITY event.recurrence.monthly.last.label "The Last">
+<!ENTITY event.recurrence.pattern.monthly.every.label "Her">
+<!ENTITY repeat.units.months.both "Ay">
+<!ENTITY event.recurrence.monthly.every.label "Her">
+<!ENTITY event.recurrence.monthly.first.label "Birinci">
+<!ENTITY event.recurrence.monthly.second.label "İkinci">
+<!ENTITY event.recurrence.monthly.third.label "Üçüncü">
+<!ENTITY event.recurrence.monthly.fourth.label "Dördüncü">
+<!ENTITY event.recurrence.monthly.fifth.label "Beşinci">
+<!ENTITY event.recurrence.monthly.last.label "Son">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label "Pazar">
 <!ENTITY event.recurrence.pattern.monthly.week.2.label "Pazartesi">
 <!ENTITY event.recurrence.pattern.monthly.week.3.label "Salı">
@@ -279,12 +279,12 @@
 <!ENTITY event.recurrence.pattern.monthly.week.5.label "Perşembe">
 <!ENTITY event.recurrence.pattern.monthly.week.6.label "Cuma">
 <!ENTITY event.recurrence.pattern.monthly.week.7.label "Cumartesi">
-<!ENTITY event.recurrence.repeat.dayofmonth.label "Day of the month">
-<!ENTITY event.recurrence.repeat.recur.label "Recur on day(s)">
+<!ENTITY event.recurrence.repeat.dayofmonth.label "ay günü">
+<!ENTITY event.recurrence.repeat.recur.label "Tekrarlama günleri">
 
 <!ENTITY event.recurrence.every.label "Her:">
-<!ENTITY repeat.units.years.both "Year(s)">
-<!ENTITY event.recurrence.pattern.yearly.every.month.label "Every">
+<!ENTITY repeat.units.years.both "Sene">
+<!ENTITY event.recurrence.pattern.yearly.every.month.label "Her">
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -307,13 +307,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label "Ekim">
 <!ENTITY event.recurrence.pattern.yearly.month.11.label "Kasım">
 <!ENTITY event.recurrence.pattern.yearly.month.12.label "Aralık">
-<!ENTITY event.recurrence.yearly.every.label "Every">
-<!ENTITY event.recurrence.yearly.first.label "The First">
-<!ENTITY event.recurrence.yearly.second.label "The Second">
-<!ENTITY event.recurrence.yearly.third.label "The Third">
-<!ENTITY event.recurrence.yearly.fourth.label "The Fourth">
-<!ENTITY event.recurrence.yearly.fifth.label "The Fifth">
-<!ENTITY event.recurrence.yearly.last.label "The Last">
+<!ENTITY event.recurrence.yearly.every.label "Her">
+<!ENTITY event.recurrence.yearly.first.label "Birinci">
+<!ENTITY event.recurrence.yearly.second.label "İkinci">
+<!ENTITY event.recurrence.yearly.third.label "Üçüncü">
+<!ENTITY event.recurrence.yearly.fourth.label "Dördüncü">
+<!ENTITY event.recurrence.yearly.fifth.label "Beşinci">
+<!ENTITY event.recurrence.yearly.last.label "Son">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label "Pazar">
 <!ENTITY event.recurrence.pattern.yearly.week.2.label "Pazartesi">
 <!ENTITY event.recurrence.pattern.yearly.week.3.label "Salı">
@@ -335,30 +335,30 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label "Kasım">
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label "Aralık">
 
-<!ENTITY event.recurrence.range.label "Range of recurrence">
-<!ENTITY event.recurrence.forever.label "No end date">
-<!ENTITY event.recurrence.repeat.for.label "Create">
-<!ENTITY event.recurrence.appointments.label "Appointment(s)">
-<!ENTITY event.repeat.until.label "Repeat until">
-<!ENTITY event.recurrence.preview.label "Preview">
+<!ENTITY event.recurrence.range.label "Tekrarlama aralığı">
+<!ENTITY event.recurrence.forever.label "Bitiş tarihi yok">
+<!ENTITY event.recurrence.repeat.for.label "Oluştur">
+<!ENTITY event.recurrence.appointments.label "Randevu">
+<!ENTITY event.repeat.until.label "Şu zamana kadar tekrarla">
+<!ENTITY event.recurrence.preview.label "Önizleme">
 <!-- Attendees dialog -->
 
 <!ENTITY invite.title.label "Invite Attendees">
-<!ENTITY event.organizer.label "Organizer">
+<!ENTITY event.organizer.label "Düzenleyici">
 <!ENTITY event.freebusy.suggest.slot "Suggest time slot:">
 <!ENTITY event.freebusy.next.slot "Next slot ">
 <!ENTITY event.freebusy.previous.slot " Previous slot">
-<!ENTITY event.freebusy.zoom "Zoom:">
-<!ENTITY event.freebusy.plus "Next hour">
-<!ENTITY event.freebusy.minus "Previous hour">
-<!ENTITY event.freebusy.legend.free "Free">
-<!ENTITY event.freebusy.legend.busy "Busy">
+<!ENTITY event.freebusy.zoom "Ölçek:">
+<!ENTITY event.freebusy.plus "Sonraki saat">
+<!ENTITY event.freebusy.minus "Önceki saat">
+<!ENTITY event.freebusy.legend.free "Serbest">
+<!ENTITY event.freebusy.legend.busy "Meşgul">
 <!ENTITY event.freebusy.legend.busy_tentative "Geçici">
-<!ENTITY event.freebusy.legend.busy_unavailable "Out of Office">
-<!ENTITY event.freebusy.legend.unknown "No Information">
-<!ENTITY event.attendee.role.required "Required Attendee">
-<!ENTITY event.attendee.role.optional "Optional Attendee">
-<!ENTITY event.attendee.role.chair "Chair">
+<!ENTITY event.freebusy.legend.busy_unavailable "Ofis dışı">
+<!ENTITY event.freebusy.legend.unknown "Bilgi yok">
+<!ENTITY event.attendee.role.required "Gerekli katılımcı">
+<!ENTITY event.attendee.role.optional "İsteğe bağlı katılımcı">
+<!ENTITY event.attendee.role.chair "Başkan">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label "Please Specify the Timezone">
@@ -371,12 +371,12 @@
 <!ENTITY read.only.category.label "Kategori:">
 <!ENTITY read.only.organizer.label "Düzenleyen:">
 <!ENTITY read.only.reply.label "Yanıtla:">
-<!ENTITY read.only.accept.label "I will attend">
-<!ENTITY read.only.decline.label "I will not attend">
-<!ENTITY read.only.tentative.label "I might attend">
-<!ENTITY read.only.needs.action.label "I will confirm later">
-<!ENTITY read.only.reminder.label "Reminder:">
-<!ENTITY read.only.attendees.label "Attendees">
-<!ENTITY read.only.description.label "Description">
-<!ENTITY read.only.documents.label "Documents">
+<!ENTITY read.only.accept.label "Katılacağım">
+<!ENTITY read.only.decline.label "Katılmayacağım">
+<!ENTITY read.only.tentative.label "Katılabilirim">
+<!ENTITY read.only.needs.action.label "Daha sonra onaylayacağım">
+<!ENTITY read.only.reminder.label "Uyarı:">
+<!ENTITY read.only.attendees.label "Katılımcılar">
+<!ENTITY read.only.description.label "Açıklama">
+<!ENTITY read.only.documents.label "Belgeler">
 <!ENTITY read.only.link.label "Related Link">

@@ -100,12 +100,12 @@
 <!ENTITY calendar.nextmonth.button.tooltip "Sonraki ay">
 <!ENTITY calendar.prevmonth.button.tooltip "Önceki ay">
 
-<!ENTITY calendar.navigation.nextday.tooltip "One Day Forward">
+<!ENTITY calendar.navigation.nextday.tooltip "Bir gün ileri">
 <!ENTITY calendar.navigation.prevday.tooltip "One Day Back">
 <!ENTITY calendar.navigation.nextweek.tooltip "One Week Forward">
 <!ENTITY calendar.navigation.prevweek.tooltip "One Week Back">
-<!ENTITY calendar.navigation.nextmonth.tooltip "One Month Forward">
-<!ENTITY calendar.navigation.prevmonth.tooltip "One Month Back">
+<!ENTITY calendar.navigation.nextmonth.tooltip "Bir ay ileri">
+<!ENTITY calendar.navigation.prevmonth.tooltip "Bir ay geri">
 
 <!ENTITY calendar.newevent.button.label "Yeni olay">
 <!ENTITY calendar.newtask.button.label "Yeni görev">
@@ -144,7 +144,7 @@
 <!ENTITY calendar.task.filter.overdue.accesskey "r">
 <!ENTITY calendar.task.filter.completed.label "Tamamlanan görevler">
 <!ENTITY calendar.task.filter.completed.accesskey "m">
-<!ENTITY calendar.task.filter.open.label "Incomplete Tasks">
+<!ENTITY calendar.task.filter.open.label "Tamamlanmamış görevler">
 <!ENTITY calendar.task.filter.open.accesskey "m">
 
 <!ENTITY calendar.task-details.title.label "title">
@@ -187,10 +187,10 @@
 <!ENTITY calendar.context.deletethisevent.accesskey "T">
 <!ENTITY calendar.context.deletecompleteseries.label "Complete Series">
 <!ENTITY calendar.context.deletecompleteseries.accesskey "S">
-<!ENTITY calendar.context.deletefutureevents.label "Gelecekdeki bütün olaylar">
+<!ENTITY calendar.context.deletefutureevents.label "Gelecekteki bütün etkinlikler">
 <!ENTITY calendar.context.deletefutureevents.accesskey "G">
-<!ENTITY calendar.context.deletefuturetasks.label "All Future Tasks">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "F">
+<!ENTITY calendar.context.deletefuturetasks.label "Gelecekteki bütün görevler">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "G">
 <!ENTITY calendar.context.cutevent.label "Kes">
 <!ENTITY calendar.context.cutevent.accesskey "s">
 <!ENTITY calendar.context.copyevent.label "Kopyala">
@@ -225,14 +225,14 @@
 <!ENTITY progress.level.100 "100&percnt;">
 <!ENTITY progress.level.100.accesskey "1">
 
-<!ENTITY priority.level.none "Tanımlanmadı">
-<!ENTITY priority.level.none.accesskey "s">
+<!ENTITY priority.level.none "Belirtilmemiş">
+<!ENTITY priority.level.none.accesskey "l">
 <!ENTITY priority.level.low "Düşük">
-<!ENTITY priority.level.low.accesskey "L">
+<!ENTITY priority.level.low.accesskey "D">
 <!ENTITY priority.level.normal "Normal">
 <!ENTITY priority.level.normal.accesskey "N">
 <!ENTITY priority.level.high "Yüksek">
-<!ENTITY priority.level.high.accesskey "H">
+<!ENTITY priority.level.high.accesskey "Y">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label "Yeni takvim">
@@ -250,9 +250,9 @@
 <!ENTITY calendar.context.properties.label "Özellikler">
 <!ENTITY calendar.context.properties.accesskey "k">
 
-<!ENTITY calendar.context.convertmenu.label "Convert To">
+<!ENTITY calendar.context.convertmenu.label "Dönüştür">
 <!ENTITY calendar.context.convertmenu.accesskey.mail "n">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "r">
 <!ENTITY calendar.context.convertmenu.event.label "Etkinlik">
 <!ENTITY calendar.context.convertmenu.event.accesskey "E">
 <!ENTITY calendar.context.convertmenu.message.label "İleti…">
@@ -334,6 +334,6 @@
 <!-- Error reporting -->
 
 <!ENTITY calendar.error.detail "Detaylar…">
-<!ENTITY calendar.error.code "Error code:">
+<!ENTITY calendar.error.code "Hata kodu:">
 <!ENTITY calendar.error.description "Açıklama:">
 <!ENTITY calendar.error.title "Bir hata oluştur">

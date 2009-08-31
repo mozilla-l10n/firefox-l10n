@@ -44,8 +44,8 @@
 <!ENTITY aboutVersion "sürüm">
 <!ENTITY copyrightText "&#169;1998-2009 katkıda bulunanlar. Mozilla Sunbird, Sunbird ve Sunbird logosu, Mozilla Vakfı'nın ticari markalarıdır. Bütün hakları saklıdır.">
 
-<!ENTITY brandMotto "it's about time">
-<!ENTITY credit.thanks "Özel Olarak Teşekkür Ettiklerimiz">
+<!ENTITY brandMotto "Zaman her şeydir!">
+<!ENTITY credit.thanks "Özel olarak teşekkür ettiklerimiz">
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
