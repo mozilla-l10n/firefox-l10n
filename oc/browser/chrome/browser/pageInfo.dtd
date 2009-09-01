@@ -44,6 +44,7 @@
 <!ENTITY permTab "Permissions">
 <!ENTITY permTab.accesskey "P">
 <!ENTITY permUseDefault "Utilizar las valors per defaut">
+<!ENTITY  permAskAlways         "Totjorn demandar">
 <!ENTITY permAllow "Autorizar">
 <!ENTITY permAllowSession "Autorizar pendent la sesilha">
 <!ENTITY permBlock "Blocar">
@@ -52,6 +53,7 @@
 <!ENTITY permPopup "Dobrir de fenèstras sorgissentas">
 <!ENTITY permCookie "Definir de cookies">
 <!ENTITY permInstall "Installar d'extensions o de tèmas">
+<!ENTITY  permGeo               "Partejar l'emplaçament">
 <!ENTITY securityTab "Seguretat">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "Entresenhas de seguretat per aquesta pagina">
