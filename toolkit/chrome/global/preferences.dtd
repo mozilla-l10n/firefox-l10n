@@ -1,4 +1,4 @@
-<!ENTITY windowClose.key "w">
+﻿<!ENTITY windowClose.key "w">
 <!ENTITY preferencesDefaultTitleMac.title "Preferéncias">
 <!ENTITY preferencesDefaultTitleWin.title "Opcions">
 <!ENTITY preferencesCloseButton.label "Tampar">

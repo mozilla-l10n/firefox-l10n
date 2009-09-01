@@ -41,7 +41,7 @@
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
 <!ENTITY windowTitle.label "Save And Change Character Encoding">
-<!ENTITY documentTitleTitle.label "Page Title">
+<!ENTITY documentTitleTitle.label "Títol de la pagina">
 <!ENTITY documentCharsetTitle.label "Character Encoding">
 <!ENTITY documentCharsetDesc.label "Select the character encoding you want to save a document in:">
 <!ENTITY documentExportToText.label "Export to Text">

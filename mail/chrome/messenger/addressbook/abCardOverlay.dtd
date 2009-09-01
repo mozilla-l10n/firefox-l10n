@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab "Contact">
+<!ENTITY Contact.tab "Contacte">
 <!ENTITY Contact.accesskey "C">
 <!ENTITY Name.box "Identitat">
 
@@ -65,7 +65,7 @@
 
 <!ENTITY DisplayName.label "Nom d'afichar :">
 <!ENTITY DisplayName.accesskey "o">
-<!ENTITY NickName.label "Surnom :">
+<!ENTITY NickName.label "Escais :">
 <!ENTITY NickName.accesskey "S">
 
 <!ENTITY PrimaryEmail.label "Adreça electronica :">
@@ -77,13 +77,13 @@
 <!ENTITY PlainText.label "Tèxte simple (sens HTML)">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Desconegut">
-<!ENTITY ScreenName.label "Rscais AIM :">
+<!ENTITY ScreenName.label "Escais AIM :">
 <!ENTITY ScreenName.accesskey "e">
 
-<!ENTITY allowRemoteContent.label       "Autorizar los imatges distents.">
+<!ENTITY allowRemoteContent.label       "Autorizar los imatges distants.">
 <!ENTITY allowRemoteContent.accesskey   "r">
-<!ENTITY allowRemoteContent.tooltip     "Dins los messatges HTML, est possible 
-d'integrar d'imatges dempuèi de fonts distents. La dobertura d'un tal messatge dobrirà 
+<!ENTITY allowRemoteContent.tooltip     "Dins los messatges HTML, es possible 
+d'integrar d'imatges dempuèi de fonts distantas. La dobertura d'un tal messatge dobrirà 
 una connexion cap a aquesta font extèrna. Aquò pòt permetre lo traçatge de la lectura 
 del messatge. En desmarcant aquesta casa, autorizaretz de tals imatges extèrnes 
 dins los messatges HTML d'aqueste contacte.">

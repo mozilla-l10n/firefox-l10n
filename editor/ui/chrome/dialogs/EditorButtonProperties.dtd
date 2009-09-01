@@ -34,25 +34,25 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Button Properties">
+<!ENTITY windowTitle.label "Proprietats del boton">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Paramètres">
 
-<!ENTITY ButtonType.label "Type">
+<!ENTITY ButtonType.label "Tipe">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Submit">
 <!ENTITY reset.value "Reset">
-<!ENTITY button.value "Button">
+<!ENTITY button.value "Boton">
 
-<!ENTITY ButtonName.label "Name:">
+<!ENTITY ButtonName.label "Nom :">
 <!ENTITY ButtonName.accesskey "N">
-<!ENTITY ButtonValue.label "Value:">
+<!ENTITY ButtonValue.label "Valor :">
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Tab Index:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Disabled">
+<!ENTITY ButtonDisabled.label "Desactivat">
 <!ENTITY ButtonDisabled.accesskey "D">
-<!ENTITY AccessKey.label "Access Key:">
+<!ENTITY AccessKey.label "Clau d'accès :">
 <!ENTITY AccessKey.accesskey "K">
 
 <!ENTITY RemoveButton.label "Remove Button">

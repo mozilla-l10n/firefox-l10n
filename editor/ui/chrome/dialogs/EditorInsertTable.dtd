@@ -36,16 +36,16 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Insert Table">
+<!ENTITY windowTitle.label "Inserir un tablèu">
 
-<!ENTITY size.label "Size">
-<!ENTITY numRowsEditField.label "Rows:">
+<!ENTITY size.label "Talha">
+<!ENTITY numRowsEditField.label "Linhas :">
 <!ENTITY numRowsEditField.accessKey "R">
-<!ENTITY numColumnsEditField.label "Columns:">
+<!ENTITY numColumnsEditField.label "Colomnas :">
 <!ENTITY numColumnsEditField.accessKey "C">
-<!ENTITY widthEditField.label "Width:">
+<!ENTITY widthEditField.label "Largor :">
 <!ENTITY widthEditField.accessKey "W">
-<!ENTITY borderEditField.label "Border:">
+<!ENTITY borderEditField.label "Bordadura :">
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY borderEditField.tooltip "Type a number for the table's border, or type zero (0) for no border">
-<!ENTITY pixels.label "pixels">
+<!ENTITY pixels.label "pixèls">

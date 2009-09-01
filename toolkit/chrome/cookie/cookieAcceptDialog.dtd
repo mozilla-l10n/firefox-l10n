@@ -1,4 +1,4 @@
-<!ENTITY props.name.label "Nom :">
+﻿<!ENTITY props.name.label "Nom :">
 <!ENTITY props.value.label "Contengut :">
 <!ENTITY props.domain.label "Òste :">
 <!ENTITY props.path.label "Camin :">
@@ -12,5 +12,5 @@
 <!ENTITY button.deny.label "Interdire">
 <!ENTITY button.deny.accesskey "I">
 <!ENTITY dialog.title "Personalizar la barra d'espleches">
-<!ENTITY dialog.remember.label "Aplicar aquesta causida per totes los cookies d'aqueste sit">
+<!ENTITY dialog.remember.label "Aplicar aquesta causida per totes los cookies d'aqueste site">
 <!ENTITY dialog.remember.accesskey "A">

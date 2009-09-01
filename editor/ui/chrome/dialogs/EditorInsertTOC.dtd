@@ -35,15 +35,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Window.title        "Table of Contents">
+<!ENTITY Window.title        "Ensenhador">
 <!ENTITY buildToc.label      "Build table of contents from:">
 <!ENTITY tag.label           "Tag:">
-<!ENTITY class.label         "Class:">
-<!ENTITY header1.label       "Level 1">
-<!ENTITY header2.label       "Level 2">
-<!ENTITY header3.label       "Level 3">
-<!ENTITY header4.label       "Level 4">
-<!ENTITY header5.label       "Level 5">
-<!ENTITY header6.label       "Level 6">
+<!ENTITY class.label         "Classa :">
+<!ENTITY header1.label       "Nivèl 1">
+<!ENTITY header2.label       "Nivèl 2">
+<!ENTITY header3.label       "Nivèl 3">
+<!ENTITY header4.label       "Nivèl 4">
+<!ENTITY header5.label       "Nivèl 5">
+<!ENTITY header6.label       "Nivèl 6">
 <!ENTITY makeReadOnly.label  "Make the table of contents read-only">
-<!ENTITY orderedList.label   "Number all entries in the table of contents">
+<!ENTITY orderedList.label   "Numerotar totas las entradas dins l'ensenhador">

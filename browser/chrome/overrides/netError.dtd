@@ -1,4 +1,4 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+﻿<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
 <!ENTITY loadError.label "Problèma al moment de cargar la pagina">
@@ -61,14 +61,14 @@
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-<li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li>
+<li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Mena de fichièr pas segura">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-<li>Contactatz los proprietaris del sit Web per los assabentar d'aqueste problèma.</li>
+<li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li>
 </ul>
 ">
 
@@ -126,8 +126,8 @@ vòstre sistèma.</li>
 <ul>
 <li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas
 pòt pas èsser verificada.</li>
-<li>Contactatz los proprietaris del sit Web per los n'assabentar.
-Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un sit pas foncional.</li>
+<li>Contactatz los proprietaris del site Web per los n'assabentar.
+Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un site pas foncional.</li>
 </ul>
 ">
 
@@ -140,7 +140,7 @@ Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un sit pas
 
 <!ENTITY sharedLongDesc "
 <ul>
-<li>Benlèu lo sit es temporàriament indisponible o subrecargat. Tornatz ensajar pus
+<li>Benlèu lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus
 tard&nbsp;;</li>
 <li>Se capitatz pas de navigar sus cap de sit, verificatz la connexion
 a la ret de vòstre ordenador&nbsp;;</li>
@@ -149,15 +149,15 @@ asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Suspicion de sit malvolent !">
+<!ENTITY malwareBlocked.title "Suspicion de site malvolent !">
 <!ENTITY malwareBlocked.longDesc "
-<p>Los sits malvolents ensajan d'installar de programas que panan las entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p>
-<p>Los proprietaris de sits Web que pensan que lor sit es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo'>demandar una revision</a>.</p>
+<p>Los sites malvolents ensajan d'installar de programas que panan las entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p>
+<p>Los proprietaris de sites Web que pensan que lor site es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo'>demandar una revision</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Suspicion de sit contrefach !">
+<!ENTITY phishingBlocked.title "Suspicion de site contrefach !">
 <!ENTITY phishingBlocked.longDesc "
-<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p><p>Aquestes tipes de contrefaiçon de sits son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins lasquinas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins lasqualas avètz fisança.</p>
+<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p><p>Aquestes tipes de contrefaiçon de sites son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins lasquinas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins lasqualas avètz fisança.</p>
 ">
 
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">

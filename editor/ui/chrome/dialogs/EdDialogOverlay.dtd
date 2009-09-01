@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -38,9 +38,9 @@
 <!ENTITY AdvancedEditButton.label "Advanced Edit…">
 <!ENTITY AdvancedEditButton.accessKey "E">
 <!ENTITY AdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
-<!ENTITY chooseFileButton.label "Choose File...">
+<!ENTITY chooseFileButton.label "Causissètz un fichièr...">
 <!ENTITY chooseFileButton.accessKey "F">
-<!ENTITY chooseFileLinkButton.label "Choose File...">
+<!ENTITY chooseFileLinkButton.label "Causissètz un fichièr...">
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL is relative to page location">
 <!ENTITY makeUrlRelative.accessKey "r">

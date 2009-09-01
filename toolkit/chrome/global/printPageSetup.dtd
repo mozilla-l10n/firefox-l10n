@@ -1,4 +1,4 @@
-<!ENTITY printSetup.title "Mesa en pagina">
+﻿<!ENTITY printSetup.title "Mesa en pagina">
 <!ENTITY basic.tab "Format e opcions">
 <!ENTITY formatGroup.label "Format">
 <!ENTITY orientation.label "Orientacion :">
@@ -40,7 +40,7 @@
 <!ENTITY hfBlank "--void--">
 <!ENTITY hfCustom "Personalizar...">
 <!ENTITY customPrompt.title "Personalizar...">
-<!ENTITY customPrompt.prompt "Picatz vòstre tèxt d'entèsta o de pè de pagina">
+<!ENTITY customPrompt.prompt "Picatz vòstre tèxte d'entèsta o de pè de pagina">
 
 <!ENTITY portrait.label      "Retrach">
 <!ENTITY portrait.accesskey  "R">

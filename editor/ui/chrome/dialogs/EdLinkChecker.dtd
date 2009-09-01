@@ -40,4 +40,4 @@
 <!ENTITY windowTitle.label     "Check Image and Link Locations">
 <!ENTITY succeeded.label       "Succeeded">
 <!ENTITY failed.label          "Failed">
-<!ENTITY closeButton.label     "Close">
+<!ENTITY closeButton.label     "Tampar">

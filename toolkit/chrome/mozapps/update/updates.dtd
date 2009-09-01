@@ -1,4 +1,4 @@
-<!ENTITY updateWizard.title "Mesa a jorn del logicial">
+﻿<!ENTITY updateWizard.title "Mesa a jorn del logicial">
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "Recèrca de mesas a jorn">
@@ -13,11 +13,11 @@
 <!ENTITY  evangelism.desc "Vos recomandam fòrça d'aplicar aquesta mesa a jorn 
 de &brandShortName; çò pus viste possible.">
 
-<!ENTITY license.instructions "Se sètz d'acòrdi amb los tèrmes d'aqueste acòrdi, clicatz sus Soi d'acòrdi çaijós per perseguir l'installacion de la masa a jorn.">
+<!ENTITY license.instructions "Se sètz d'acòrdi amb los tèrmes d'aqueste acòrdi, clicatz sus Soi d'acòrdi çaijós per perseguir l'installacion de la mesa a jorn.">
 <!ENTITY license.titleText "Acòrdi de licéncia logiciala">
 <!ENTITY license.introText "Tèrmes e condicions d'utilizacion d'aqueste logicial.">
 <!ENTITY license.instructionText "Legissètz l'acòrd de licéncia seguent. Utilizatz la barra de desfilament per visualizar la seguida d'aqueste acòrdi.">
-<!ENTITY license.accept "Accepti los tèrmes de l'acòrdi de licéncia">
+<!ENTITY license.accept "Accèpti los tèrmes de l'acòrdi de licéncia">
 <!ENTITY license.accept.accesskey "A">
 <!ENTITY license.decline "Accepti PAS los tèrmes de l'acòrdi de licéncia">
 <!ENTITY license.decline.accesskey "P">

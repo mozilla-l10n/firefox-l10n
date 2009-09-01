@@ -1,10 +1,10 @@
-<!ENTITY no-properties.label "Pas cap de proprietat definida.">
+﻿<!ENTITY no-properties.label "Cap de proprietat pas definida.">
 <!ENTITY caption.label "Proprietats de l'element">
 <!ENTITY image-sec.label "Proprietats de l'imatge">
 <!ENTITY image-url.label "Emplaçament :">
 <!ENTITY image-type.label "Tipe :">
 <!ENTITY image-desc.label "Descripcion :">
-<!ENTITY image-alt.label "Tèxt alternatiu :">
+<!ENTITY image-alt.label "Tèxte alternatiu :">
 <!ENTITY image-size.label "Dimensions de l'imatge :">
 <!ENTITY image-filesize.label "Talha del fichièr :">
 <!ENTITY insdel-sec.label "Inserir/suprimir de proprietats">
@@ -19,7 +19,7 @@
 <!ENTITY link-rev.label "Relacion intervertida :">
 <!ENTITY link-ping.label "Avertirà :">
 <!ENTITY misc-sec.label "Proprietats divèrsas">
-<!ENTITY misc-lang.label "Lenga del tèxt :">
+<!ENTITY misc-lang.label "Lenga del tèxte :">
 <!ENTITY misc-title.label "Títol :">
 <!ENTITY misc-tblsummary.label "Resumit del tablèu :">
 <!ENTITY quote-sec.label "Proprietats de la citacion">

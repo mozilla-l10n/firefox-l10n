@@ -1,9 +1,9 @@
-<!ENTITY pane.title                 "Delivery Status Notification">
+<!ENTITY pane.title                 "Acusat de recepcion">
 <!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
 <!ENTITY useGlobalPrefs.accesskey   "U">
 <!ENTITY useCustomPrefs.label       "Customize Delivery Status Notification for this account">
 <!ENTITY useCustomPrefs.accesskey   "C">
-<!ENTITY requestAlways.label        "When sending messages, always request a Delivery Status Notification">
+<!ENTITY requestAlways.label        "Demandar totjorn un acusat de recepcion quand mandatz de mails">
 <!ENTITY requestAlways.accesskey    "W">
 <!ENTITY optionTitle.label          "Ask notification on :">
 <!ENTITY requestOnSucess.label      "Success in delivering">

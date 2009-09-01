@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Servidor SMTP">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Mentre que siá possible d'especificar mai d'un servidor per l'expedicion del corrièr (SMTP), es recomandat sonque pels utilizaires avançats. Aquò pòt en efièch pausar de problèmas al moment del mandadís dels messatges.">
+<!ENTITY smtpDesc.label "Quitament d'es possible d'especificar mai d'un servidor per l'expedicion del corrièr (SMTP), aquò's recomandat sonque pels utilizaires avançats. En efièch, aquò pòt pausar de problèmas al moment del mandadís dels messatges.">
 
 <!ENTITY smtpListAdd.label  "Apondre…">
 <!ENTITY smtpListAdd.accesskey  "A">

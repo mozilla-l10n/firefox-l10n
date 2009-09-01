@@ -1,5 +1,5 @@
-<!ENTITY reportSite "Sit">
-<!ENTITY reportProblemType "Mena de problèma">
+﻿<!ENTITY reportSite "Sit">
+<!ENTITY reportProblemType "Tipe de problèma">
 <!ENTITY reportDecsription "Descripcion">
 <!ENTITY reportPlatform "Plataforma">
 <!ENTITY reportProduct "Produch">

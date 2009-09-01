@@ -40,7 +40,7 @@
 <!ENTITY directoryName.accesskey           "n">
 <!ENTITY directoryHostname.label           "Nom d'òste :">
 <!ENTITY directoryHostname.accesskey       "h">
-<!ENTITY directoryBaseDN.label             "Nom distincte de basa :">
+<!ENTITY directoryBaseDN.label             "Nom distincte de banca :">
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Trobar">
 <!ENTITY findButton.accesskey              "v">
@@ -61,10 +61,10 @@
 <!ENTITY scopeOneLevel.accesskey           "i">
 <!ENTITY scopeSubtree.label                "Sosarbre">
 <!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Retornar pas mai de">
+<!ENTITY return.label                      "Tornar pas mai de">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultats">
-<!ENTITY offlineText.label                 "Podètz crear una còpia locala d'aqueste annuari per o poder utilizar un còp deconnectat.">
+<!ENTITY offlineText.label                 "Podètz crear una còpia locala d'aqueste annuari per o poder utilizar un còp desconnectat.">
 <!ENTITY saslMechanism.label               "Metòde d'identificacion : ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simple">

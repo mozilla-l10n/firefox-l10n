@@ -1,4 +1,4 @@
-<!ENTITY engineManager.title "Gerir la tièra dels motors de recèrca">
+﻿<!ENTITY engineManager.title "Gerir la tièra dels motors de recèrca">
 <!ENTITY engineManager.style "min-width: 35em;">
 <!ENTITY engineManager.intro "Los motors de recèrca seguents son installats :">
 <!ENTITY columnLabel.name "Nom">
