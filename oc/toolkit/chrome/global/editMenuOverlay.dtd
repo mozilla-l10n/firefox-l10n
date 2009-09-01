@@ -27,5 +27,5 @@
 <!ENTITY findAgainCmd.key "t">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findPreviousCmd.label "Recercar lo precendent">
+<!ENTITY findPreviousCmd.label "Recercar lo precedent">
 <!ENTITY findPreviousCmd.accesskey "e">

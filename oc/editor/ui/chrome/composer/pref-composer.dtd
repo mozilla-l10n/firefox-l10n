@@ -4,7 +4,7 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
-<!ENTITY  recentFiles.title             "Recent Pages Menu">
+<!ENTITY  recentFiles.title             "Menut de las paginas recentas">
 <!ENTITY  documentsInMenu.label         "Maximum number of pages listed:">
 <!ENTITY  documentsInMenu.accesskey     "n">
 <!ENTITY  savingFiles.title             "When Saving or Publishing Pages">

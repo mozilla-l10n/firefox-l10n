@@ -3,5 +3,4 @@ yahoo-france
 amazon-france
 eBay-france
 creativecommons
-wikipedia-oc
 wiktionary-oc

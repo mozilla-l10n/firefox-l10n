@@ -1,4 +1,4 @@
-<!ENTITY position.label "Posicion :">
+﻿<!ENTITY position.label "Posicion :">
 <!ENTITY tile.label "Mosaïca">
 <!ENTITY center.label "Centrat">
 <!ENTITY stretch.label "Estirar">

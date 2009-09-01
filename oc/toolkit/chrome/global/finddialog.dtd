@@ -1,5 +1,5 @@
-<!ENTITY findDialog.title "Recercar dins la pagina">
-<!ENTITY findField.label "Tèxt de recercar :">
+﻿<!ENTITY findDialog.title "Recercar dins la pagina">
+<!ENTITY findField.label "Tèxte de recercar :">
 <!ENTITY findField.accesskey "T">
 <!ENTITY caseSensitiveCheckbox.label "Respectar la cassa">
 <!ENTITY caseSensitiveCheckbox.accesskey "R">

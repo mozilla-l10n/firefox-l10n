@@ -37,16 +37,16 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Insert Character">
-<!ENTITY category.label "Category">
-<!ENTITY letter.label "Letter:">
+<!ENTITY windowTitle.label "Inserir un caractèr">
+<!ENTITY category.label "Categoria">
+<!ENTITY letter.label "Letra :">
 <!ENTITY letter.accessKey "L">
-<!ENTITY character.label "Character:">
+<!ENTITY character.label "Caractèr :">
 <!ENTITY character.accessKey "C">
-<!ENTITY accentUpper.label "Accent Uppercase">
-<!ENTITY accentLower.label "Accent Lowercase">
-<!ENTITY otherUpper.label "Other Uppercase">
-<!ENTITY otherLower.label "Other Lowercase">
+<!ENTITY accentUpper.label "Majusculas accentuadas">
+<!ENTITY accentLower.label "Minusculas accentuadas">
+<!ENTITY otherUpper.label "Autras majusculas">
+<!ENTITY otherLower.label "Autras minusculas">
 <!ENTITY commonSymbols.label "Common Symbols">
-<!ENTITY insertButton.label "Insert">
-<!ENTITY closeButton.label "Close">
+<!ENTITY insertButton.label "Inserir">
+<!ENTITY closeButton.label "Tampar">

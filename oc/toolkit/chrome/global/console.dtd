@@ -1,5 +1,5 @@
-<!ENTITY errorConsole.title "Consòla d'errors">
-<!ENTITY errFile.label "Fichier font :">
+﻿<!ENTITY errorConsole.title "Consòla d'errors">
+<!ENTITY errFile.label "Fichièr font :">
 <!ENTITY errLine.label "Linha :">
 <!ENTITY errColumn.label "Colomna :">
 <!ENTITY all.label "Tot">

@@ -4,5 +4,5 @@
 <!ENTITY clearLog.accesskey "V">
 <!ENTITY enableLog.label "Activar lo jornal de filtratge">
 <!ENTITY enableLog.accesskey "A">
-<!ENTITY closeLog.label "Fermer">
+<!ENTITY closeLog.label "Tampar">
 <!ENTITY closeLog.accesskey "F">

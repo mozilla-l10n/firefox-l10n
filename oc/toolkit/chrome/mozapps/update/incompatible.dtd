@@ -1,4 +1,4 @@
-<!ENTITY incompatible.title "Elements incompatibles">
+﻿<!ENTITY incompatible.title "Elements incompatibles">
 <!ENTITY incompatible.intro "Los elements seguents son pas compatibles amb aquesta mesa a jorn de &brandShortName; e
 seràn desactivats al moment de son installacion :">
 <!ENTITY incompatible.update "&brandShortName; verificarà regularament lors mesas a jorn al cas qu'una version

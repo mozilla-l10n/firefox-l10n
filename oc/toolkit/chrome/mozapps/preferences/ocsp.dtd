@@ -1,4 +1,4 @@
-<!ENTITY ocspDialog.title "Validacion de certificat">
+﻿<!ENTITY ocspDialog.title "Validacion de certificat">
 <!ENTITY enableOCSP.label "Utilizar lo protocòl d'estatut de certificat en linha (OCSP) per confirmar la validitat actuala de vòstres certificats">
 <!ENTITY enableOCSP.accesskey "U">
 <!ENTITY certOCSP2.label "Validar un certificat s'especifica un servidor OCSP">

@@ -37,20 +37,20 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Horizontal Line Properties">
+<!ENTITY windowTitle.label "Proprietats de la linha orizontala">
 
 <!ENTITY dimensionsBox.label "Dimensions">
-<!ENTITY heightEditField.label "Height:">
+<!ENTITY heightEditField.label "Nautor :">
 <!ENTITY heightEditField.accessKey "G">
-<!ENTITY widthEditField.label "Width:">
+<!ENTITY widthEditField.label "Largor :">
 <!ENTITY widthEditField.accessKey "W">
-<!ENTITY pixelsPopup.value "pixels">
-<!ENTITY alignmentBox.label "Alignment">
-<!ENTITY leftRadio.label "Left">
+<!ENTITY pixelsPopup.value "pixèls">
+<!ENTITY alignmentBox.label "Alinhament">
+<!ENTITY leftRadio.label "Esquèrra">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "Center">
+<!ENTITY centerRadio.label "Centre">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Right">
+<!ENTITY rightRadio.label "Drecha">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3-D Shading">

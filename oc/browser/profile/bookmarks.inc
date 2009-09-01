@@ -1,4 +1,4 @@
-#filter emptyLines
+﻿#filter emptyLines
 
 # LOCALIZATION NOTE: The 'oc ' strings in the URLs will be replaced with
 # your locale code, and link to your translated pages as soon as they're 

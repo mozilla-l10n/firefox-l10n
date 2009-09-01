@@ -1,13 +1,13 @@
-<!ENTITY printButton.label "Estampar">
+﻿<!ENTITY printButton.label "Estampar">
 <!ENTITY printDialog.title "Estampar">
 <!ENTITY fpDialog.title "Enregistrar lo fichièr">
 <!ENTITY fileCheck.label "Estampar dins un fichièr">
 <!ENTITY fileCheck.accesskey "f">
 <!ENTITY propertiesButton.label "Proprietats…">
 <!ENTITY propertiesButton.accesskey "o">
-<!ENTITY descText.label "Descripcion de l'estampaira :">
-<!ENTITY printer.label "Estampaira">
-<!ENTITY printerInput.label "Nom de l'estampaira :">
+<!ENTITY descText.label "Descripcion de l'estampadoira :">
+<!ENTITY printer.label "Estampadoira">
+<!ENTITY printerInput.label "Nom de l'estampadoira :">
 <!ENTITY printerInput.accesskey "N">
 <!ENTITY printrangeGroup.label "Paginas">
 <!ENTITY allpagesRadio.label "Totas las paginas">

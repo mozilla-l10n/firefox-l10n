@@ -3,7 +3,7 @@
 <!ENTITY accountName.label "Nom del compte :">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY messageStorage.label "Estocatge dels messatges">
-<!ENTITY emptyTrashOnExit.label "Voidar la bedoceta en quitant">
+<!ENTITY emptyTrashOnExit.label "Voidar la banasta en quitant">
 <!ENTITY emptyTrashOnExit.accesskey "V">
 <!ENTITY localPath.label "Repertòri local :">
 <!ENTITY localFolderPicker.label "Causissètz lo repertòri local">
