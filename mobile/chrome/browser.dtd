@@ -1,21 +1,11 @@
 <!ENTITY back.label            "Atrás">
-<!ENTITY back.tooltip          "Atrás">
 <!ENTITY forward.label         "Adiante">
-<!ENTITY forward.tooltip       "Adiante">
 <!ENTITY reload.label          "Recargar">
-<!ENTITY reload.tooltip        "Recargar">
 <!ENTITY stop.label            "Parar">
-<!ENTITY stop.tooltip          "Parar">
 <!ENTITY search.label          "Busca">
-<!ENTITY search.tooltip        "Busca">
 <!ENTITY go.label              "Ir">
-<!ENTITY go.tooltip            "Ir">
 <!ENTITY openLocation.label    "Abrir localización">
-<!ENTITY openLocation.tooltip  "Abrir localización">
 <!ENTITY star.label            "Marcar">
-<!ENTITY star.tooltip          "Marcar esta páxina">
-<!ENTITY bookmarks.label       "Marcadores">
-<!ENTITY bookmarks.tooltip     "Ver marcadores">
 
 <!ENTITY newtab.label          "Novo separador">
 <!ENTITY closetab.label        "Pechar separador">
@@ -56,12 +46,13 @@
 <!ENTITY addonsRepo.label          "Obter complementos">
 <!ENTITY addonsRecommended.label   "Recomendados">
 <!ENTITY addonsSearch.label        "Buscar">
-<!ENTITY addonsSearch.emptytext    "Buscar nos complementos">
+<!ENTITY addonsSearch2.emptytext   "Buscar no catálogo">
+<!ENTITY addonsSearch.recommended  "Recomendados">
 
 <!ENTITY addonOptions.label        "Opcións">
 <!ENTITY addonEnable.label         "Activar">
 <!ENTITY addonDisable.label        "Desactivar">
-<!ENTITY addonInstall.label        "Instalar">
+<!ENTITY addonInstall2.label       "Engadir a &brandShortName;">
 <!ENTITY addonUninstall.label      "Desinstalar">
 <!ENTITY addonCancel.label         "Cancelar">
 <!ENTITY addonShowPage.label       "Ir á páxina">
@@ -71,7 +62,7 @@
 <!ENTITY downloadsSortSite.label   "Sitio">
 <!ENTITY downloadsSortName.label   "Nome">
 <!ENTITY downloadsSearch.label     "Buscar">
-<!ENTITY downloadsSearch.emptytext "Buscar un ficheiro descargado">
+<!ENTITY downloadsSearch2.emptytext "Buscar">
 
 <!ENTITY downloadShowPage.label    "Ir á páxina">
 <!ENTITY downloadShow2.label       "Localizar">
@@ -82,6 +73,13 @@
 <!ENTITY downloadRetry.label       "Tentar de novo">
 
 <!ENTITY noResults.label           "Sen resultados">
+<!ENTITY allBookmarks.label        "Ver todos os marcadores">
+
+<!ENTITY searchEngine.addSearch     "Engadir buscador:">
+
+<!ENTITY bookmarkPopup.label       "Páxina marcada">
+<!ENTITY bookmarkRemove.label      "Eliminar">
+<!ENTITY bookmarkEdit.label        "Editar">
 
 <!ENTITY identity.unverifiedsite2 "Este sitio web non fornece información de identidade.">
 <!-- Localization note (identity.runBy) : This string appears between a
