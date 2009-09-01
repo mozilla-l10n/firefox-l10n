@@ -49,15 +49,15 @@
 <!ENTITY validation.advanced.label "Impostazioni">
 <!ENTITY validation.advanced.accesskey "m">
 <!ENTITY validation.crl.autoupdate.title "Preferenze aggiornamento automatico CRL">
-<!ENTITY validation.crl.autoupdate.enable.label "Attiva aggiornamento automatico per questa CRL">
+<!ENTITY validation.crl.autoupdate.enable.label "Attiva aggiornamento automatico per questo CRL">
 <!ENTITY validation.crl.autoupdate.time.label1 "Aggiorna">
 <!ENTITY validation.crl.autoupdate.time.label2 "Giorni mancanti al prossimo aggiornamento">
 <!ENTITY validation.crl.autoupdate.freq.label1 "Aggiorna ogni">
 <!ENTITY validation.crl.autoupdate.freq.label2 "Giorni">
 <!ENTITY validation.crl.autoupdate.url.label "CRL importabile da:">
 <!ENTITY crl.import.status.title "Stato importazione CRL">
-<!ENTITY crl.import.success.message "La lista di revoca dei certificati (CRL) è stata importata correttamente.">
-<!ENTITY crl.issuer.label "CRL rilasciata da:">
+<!ENTITY crl.import.success.message "L'elenco di revoca dei certificati (CRL) è stato importato correttamente.">
+<!ENTITY crl.issuer.label "CRL rilasciato da:">
 <!ENTITY crl.issuer.org.label "Organizzazione: ">
 <!ENTITY crl.issuer.orgunit.label "Unità: ">
 <!ENTITY crl.import.nextupdate.label "Prossimo aggiornamento: ">
