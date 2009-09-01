@@ -56,7 +56,7 @@
 #define mozilla_about Mozilla hakkında
 
 
-#define extend_seamonkey Extending SeaMonkey
+#define extend_seamonkey SeaMonkey uygulamasını zenginleştirin 
 
 
 # LOCALIZATION NOTE (seamonkey_addons):
@@ -70,7 +70,7 @@
 
 # link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/themes
 
-#define seamonkey_themes SeaMonkey Themes
+#define seamonkey_themes SeaMonkey temaları
 
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
