@@ -39,6 +39,12 @@
 <!ENTITY col.timeelapsed.label           "Verstreken tijd">
 <!ENTITY col.timeelapsed.accesskey       "e">
 <!ENTITY col.timeelapsed.tooltip         "Verstreken tijd">
+<!ENTITY col.starttime.label             "Begintijd">
+<!ENTITY col.starttime.accesskey         "t">
+<!ENTITY col.starttime.tooltip           "Begintijd overdracht">
+<!ENTITY col.endtime.label               "Eindtijd">
+<!ENTITY col.endtime.accesskey           "i">
+<!ENTITY col.endtime.tooltip             "Eindtijd overdracht">
 <!ENTITY col.progresstext.label          "&#37;">
 <!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Voortgang (&#37;)">
@@ -76,3 +82,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "d">
 <!ENTITY cmd.copyDownloadLink.label      "Downloadkoppeling kopiëren">
 <!ENTITY cmd.copyDownloadLink.accesskey  "k">
+<!ENTITY cmd.properties.label            "Eigenschappen…">
+<!ENTITY cmd.properties.accesskey        "E">
