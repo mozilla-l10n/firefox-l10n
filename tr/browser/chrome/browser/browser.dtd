@@ -314,8 +314,6 @@
 <!ENTITY copyAudioURLCmd.label "Ses konumunu kopyala">
 <!ENTITY copyAudioURLCmd.accesskey "S">
 <!ENTITY blockImageCmd.accesskey "B">
-<!ENTITY metadataCmd.label "Özellikler">
-<!ENTITY metadataCmd.accesskey "z">
 <!ENTITY copyEmailCmd.label "E-posta adresini kopyala">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Geçerli çerçeve">
