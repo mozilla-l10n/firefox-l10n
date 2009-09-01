@@ -71,7 +71,7 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Annan e-post:">
 <!ENTITY SecondEmail.accesskey          "A">
-<!ENTITY PreferMailFormat.label         "Føretrekkjer å motta meldingar formatert som:">
+<!ENTITY PreferMailFormat.label         "Føretrekkjer å ta imot meldingar formaterte som:">
 <!ENTITY PreferMailFormat.accesskey     "r">
 <!ENTITY PlainText.label                "Rein tekst">
 <!ENTITY HTML.label                     "HTML">
@@ -79,8 +79,8 @@
 <!ENTITY ScreenName.label               "Skjermnamn:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label      "Allow remote content.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.label      "Tillat innhald frå eksterne kjelder">
+<!ENTITY allowRemoteContent1.accesskey  "T">
 <!ENTITY allowRemoteContent1.tooltip    "I HTML-meldingar er det mogleg å leggje ved innhald frå eksterne kjelder. Ved opning av meldingar vil tilkoplingar til den eksterne kjelda verte opna. Dette kan gjere det mogleg å spore at meldinga blir lest. Ved å krysse av her, tillet du slikt innbunde innhald i HTML-meldingar frå denne kontakten.">
 
 <!ENTITY WorkPhone.label                "Arbeid:">
@@ -153,3 +153,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notat:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Vel ein av følgjande:">
+<!ENTITY GenericPhoto.label             "Generelt bilete">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Standard">
+<!ENTITY PhotoFile.label                "På denne datamaskina">
+<!ENTITY PhotoFile.accesskey            "P">
+<!ENTITY BrowsePhoto.label              "Bla gjennom">
+<!ENTITY BrowsePhoto.accesskey          "B">
+<!ENTITY PhotoURL.label                 "På nettet">
+<!ENTITY PhotoURL.accesskey             "n">
+<!ENTITY PhotoURL.emptytext             "Lim eller skriv inn nettadressa til eit bilde">
+<!ENTITY UpdatePhoto.label              "Oppdater">
+<!ENTITY UpdatePhoto.accesskey          "O">

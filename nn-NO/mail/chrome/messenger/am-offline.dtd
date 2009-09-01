@@ -14,7 +14,7 @@
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldingar verte permanent sletta">
 <!ENTITY retentionCleanupImap.label "For å redde diskplass, kan gamle meldingar verte permanent sletta, både lokale kopiar og originalar på ekstern tenar.">
 <!ENTITY retentionCleanupPop.label "For å byggje opp diskplass, kan gamle meldingar verte permanent sletta, både lokale kopiar og originalar på ekstern tenar.">
-<!ENTITY retentionKeepMsg.label "Slett meldingar meir enn">
+<!ENTITY retentionKeepMsg.label "Slett meldingar eldre enn">
 <!ENTITY retentionKeepMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikkje slett meldingar">
 <!ENTITY retentionKeepAll.accesskey "I">

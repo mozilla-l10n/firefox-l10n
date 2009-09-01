@@ -105,7 +105,7 @@
 <!ENTITY downloadOnLogin.label "Last ned meldingar no">
 <!ENTITY downloadOnLogin.accesskey "L">
 <!ENTITY deferStorageDesc.label "Fjern krysset frå denne boksen for å lagre e-post i eiga mappe. Det vil gjere at kontoen vert synleg i mappelista. Dersom det er kryssa av vil kontoen verte ein del av «Lokale mapper».">
-<!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i «Lokale mapper»)">
+<!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i kontoen «Lokale mapper»)">
 <!ENTITY deferStorage.accesskey "B">
 <!ENTITY clickFinish.label "Trykk Fullfør for å opprette kontoen og late att vegvisaren.">
 <!ENTITY clickFinish.labelMac "Trykk Fullfør for å opprette kontoen og late att vegvisaren.">
