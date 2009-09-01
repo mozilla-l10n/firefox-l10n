@@ -70,7 +70,9 @@
 <!ENTITY contextDesc.accesskey "a">
 <!ENTITY contextIncoming.label "Controleren van E-mail">
 <!ENTITY contextManual.label "Handmatig activeren">
-<!ENTITY contextBoth.label "Controleren van E-mail of handmatig activeren">
+<!ENTITY contextBoth.label "Controleren van E-mail of handmatige uitvoering">
+<!ENTITY contextPostPlugin.label "Controleren van E-mail (na classificatie)">
+<!ENTITY contextPostPluginBoth.label "Controleren van E-mail (na classificatie) of handmatige uitvoering">
 
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "V">

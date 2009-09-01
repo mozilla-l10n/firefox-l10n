@@ -22,6 +22,9 @@
 <!ENTITY recentTabs.label "Onlangs gesloten tabbladen">
 <!ENTITY recentTabs.accesskey "t">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Onlangs gesloten vensters">
+<!ENTITY recentWindows.accesskey "s">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Pagina bewerken">
 <!ENTITY editPageCmd.accesskey "e">
 <!ENTITY editPageCmd.commandkey "e">
@@ -165,5 +168,5 @@
 
 <!ENTITY popupIcon.tooltiptext      "Pop-ups van deze website deblokkeren">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Paginarichting omdraaien">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Paginarichting omkeren">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "P">

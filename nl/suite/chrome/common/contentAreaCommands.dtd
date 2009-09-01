@@ -45,6 +45,8 @@
 <!ENTITY reloadImageCmd.accesskey       "e">
 <!ENTITY viewImageCmd.label             "Afbeelding bekijken">
 <!ENTITY viewImageCmd.accesskey         "b">
+<!ENTITY viewVideoCmd.label             "Video bekijken">
+<!ENTITY viewVideoCmd.accesskey         "i">
 <!ENTITY viewBGImageCmd.label           "Achtergrondafbeelding bekijken">
 <!ENTITY viewBGImageCmd.accesskey       "c">
 <!ENTITY setWallpaperCmd.label          "Als achtergrond instellen">
@@ -106,7 +108,7 @@
 <!ENTITY mediaPause.accesskey           "P">
 <!ENTITY mediaMute.label                "Dempen">
 <!ENTITY mediaMute.accesskey            "D">
-<!ENTITY mediaUnmute.label              "Ondempen">
+<!ENTITY mediaUnmute.label              "Geluid weergeven">
 <!ENTITY mediaUnmute.accesskey          "m">
 <!ENTITY mediaShowControls.label        "Bediening tonen">
 <!ENTITY mediaShowControls.accesskey    "C">
