@@ -87,6 +87,8 @@
 <!ENTITY bookmarkRemove.label      "Verwijderen">
 <!ENTITY bookmarkEdit.label        "Bewerken">
 
+<!ENTITY searchEngine.addSearch     "Zoekmachine toevoegen:">
+
 <!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
 <!ENTITY identity.connectedTo2 "Verbonden met">
 <!-- Localization note (identity.runBy2)
