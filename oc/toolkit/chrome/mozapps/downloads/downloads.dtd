@@ -1,4 +1,4 @@
-﻿<!ENTITY window.width2 "485">
+<!ENTITY window.width2 "485">
 <!ENTITY window.height "300">
 <!ENTITY starting.label "Aviada...">
 <!ENTITY scanning.label "Analisi per l'antivirús…">
@@ -11,7 +11,7 @@
 <!ENTITY cmd.cancel.accesskey "A">
 <!ENTITY cmd.show.label "Dobrir lo repertòri que conten lo fichièr">
 <!ENTITY cmd.show.accesskey "F">
-<!ENTITY cmd.showMac.label "Afichar dins lo Dorsièr">
+<!ENTITY cmd.showMac.label "Afichar dins lo Folder">
 <!ENTITY cmd.showMac.accesskey "F">
 <!ENTITY cmd.open.label "Dobrir">
 <!ENTITY cmd.open.accesskey "D">

@@ -1,4 +1,4 @@
-﻿<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey "p">
 <!ENTITY findOnCmd.commandkey "F">
 <!ENTITY findAgainCmd.commandkey "G">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">

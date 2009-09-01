@@ -1,5 +1,5 @@
-﻿<!ENTITY header.label "Títol cort">
-<!ENTITY message.label "Vaquí un tèxte d'exemple">
+<!ENTITY header.label "Títol cort">
+<!ENTITY message.label "Vaquí un tèxt d'exemple">
 <!ENTITY editfield0.label "Utilizaire :">
 <!ENTITY editfield1.label "Senhal :">
 <!ENTITY editfield2.label "Confirmar lo senhal :">

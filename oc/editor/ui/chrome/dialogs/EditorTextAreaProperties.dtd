@@ -40,24 +40,24 @@
 
 <!ENTITY TextAreaName.label "Field Name:">
 <!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "Linhas :">
+<!ENTITY TextAreaRows.label "Rows:">
 <!ENTITY TextAreaRows.accessKey "R">
-<!ENTITY TextAreaCols.label "Colomnas :">
+<!ENTITY TextAreaCols.label "Columns:">
 <!ENTITY TextAreaCols.accessKey "C">
 <!ENTITY TextAreaReadOnly.label "Read Only">
 <!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "Desactivat">
+<!ENTITY TextAreaDisabled.label "Disabled">
 <!ENTITY TextAreaDisabled.accessKey "D">
 <!ENTITY TextAreaTabIndex.label "Tab Index:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "Clau d'accès :">
+<!ENTITY TextAreaAccessKey.label "Access Key:">
 <!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "Tèxte inicial :">
+<!ENTITY InitialText.label "Initial Text:">
 <!ENTITY InitialText.accessKey "T">
 
 <!ENTITY TextAreaWrap.label "Wrap Mode:">
 <!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "Per defaut">
+<!ENTITY WrapDefault.value "Default">
 <!ENTITY WrapOff.value "Off">
 <!ENTITY WrapHard.value "Hard">
 <!ENTITY WrapSoft.value "Soft">

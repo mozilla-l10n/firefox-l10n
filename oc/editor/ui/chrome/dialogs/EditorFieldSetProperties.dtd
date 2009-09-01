@@ -36,17 +36,17 @@
 
 <!ENTITY windowTitle.label "Field Set Properties">
 
-<!ENTITY Legend.label "Legenda">
+<!ENTITY Legend.label "Legend">
 <!ENTITY Legend.accesskey "L">
 
-<!ENTITY EditLegendText.label "Editar la legenda :">
+<!ENTITY EditLegendText.label "Edit Legend:">
 <!ENTITY EditLegendText.accesskey "T">
-<!ENTITY LegendAlign.label "Alinhar la legenda :">
+<!ENTITY LegendAlign.label "Align Legend:">
 <!ENTITY LegendAlign.accesskey "A">
-<!ENTITY AlignDefault.label "Per defaut">
-<!ENTITY AlignLeft.label "Esquèrra">
-<!ENTITY AlignCenter.label "Centre">
-<!ENTITY AlignRight.label "Drecha">
+<!ENTITY AlignDefault.label "Default">
+<!ENTITY AlignLeft.label "Left">
+<!ENTITY AlignCenter.label "Center">
+<!ENTITY AlignRight.label "Right">
 
 <!ENTITY RemoveFieldSet.label "Remove Field Set">
 <!ENTITY RemoveFieldSet.accesskey "R">

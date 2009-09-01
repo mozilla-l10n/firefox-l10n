@@ -15,6 +15,6 @@
 
 <!-- entities from defaults/isp/rss.rdf -->
 <!ENTITY feeds.accountName "Blogs e novèlas">
-<!ENTITY feeds.wizardShortName "Flusses">
+<!ENTITY feeds.wizardShortName "Flux">
 <!ENTITY feeds.wizardLongName "Blogs e novèlas">
 <!ENTITY feeds.wizardLongName.accesskey "B">

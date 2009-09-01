@@ -1,4 +1,4 @@
-﻿<!ENTITY window.width "30em">
+<!ENTITY window.width "30em">
 <!ENTITY languages.customize.Header "Lengas">
 <!ENTITY languages.customize.prefLangDescript "De còps, d'unas paginas web son dins mai d'una lenga. Causissètz las lengas per visualizar aquestas paginas web, dins l'òrdre de preferéncia.">
 <!ENTITY languages.customize.active.label "Lengas per òrdre de preferéncia">

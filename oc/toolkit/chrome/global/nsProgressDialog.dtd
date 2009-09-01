@@ -1,15 +1,15 @@
-﻿<!ENTITY defaultTitle "Enregistrament">
+<!ENTITY defaultTitle "Enregistrament">
 <!ENTITY savingTitle "#2&#037; sus #1 enregistrat">
 <!ENTITY savingSource "Enregistrament dempuèi :">
 <!ENTITY savingTarget "Cap a :">
 <!ENTITY openingTitle "#2&#037; sus #1 acabat">
 <!ENTITY openingSource "Dobertura dempuèi :">
 <!ENTITY openingTarget "Amb :">
-<!ENTITY unknownSavingTitle "Enregistrament de #1">
+<!ENTITY unknownSavingTitle "Enregistreament de #1">
 <!ENTITY unknownOpeningTitle "Dobertura de #1">
 <!ENTITY status "Estat :">
 <!ENTITY timeElapsed "Temps passat :">
-<!ENTITY timeLeft "Temps que demòra :">
+<!ENTITY timeLeft "Temps restant :">
 <!ENTITY progress "Progression :">
 <!ENTITY keep "Gardar aquesta fenèstra dobèrta quand lo telecargament serà acabat.">
 <!ENTITY cancel "Anullar">

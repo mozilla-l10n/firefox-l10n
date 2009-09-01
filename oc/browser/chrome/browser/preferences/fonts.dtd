@@ -1,4 +1,4 @@
-﻿<!ENTITY fontsDialog.title "Poliças">
+<!ENTITY fontsDialog.title "Poliças">
 <!ENTITY window.width "39em">
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "41em">
@@ -16,7 +16,7 @@
 <!ENTITY monospace.label "Monospace :">
 <!ENTITY monospace.accesskey "M">
 <!ENTITY font.langGroup.latin1 "Occidental">
-<!ENTITY font.langGroup.latin2 "Europèu central">
+<!ENTITY font.langGroup.latin2 "European central">
 <!ENTITY font.langGroup.japanese "Japonés">
 <!ENTITY font.langGroup.trad-chinese "Chinés tradicional (Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese "Chinés simplificat">
@@ -51,7 +51,7 @@
 <!ENTITY minSize.none "Pas cap">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sens Serif">
-<!ENTITY allowPagesToUse.label "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çaisús">
+<!ENTITY allowPagesToUse.label "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çai-sus">
 <!ENTITY allowPagesToUse.accesskey "A">
 <!ENTITY languages.customize.Charset.grouplabel "Encodatge de caractèr">
 <!ENTITY languages.customize.DefaultCharset.label "Encodatge de caractèr per defaut">

@@ -1,5 +1,5 @@
-﻿<!ENTITY pluginWizard.title "Servici de recèrca de moduls complementaris">
-<!ENTITY pluginWizard.firstPage.title "&pluginWizard.title; - Benvenguda">
+<!ENTITY pluginWizard.title "Servici de recèrca de moduls complementaris">
+<!ENTITY pluginWizard.firstPage.title "&pluginWizard.title; - Planvenguda">
 <!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; recèrca los moduls complementaris disponibles…">
 <!ENTITY pluginWizard.availablePluginsPage.title "Telecargaments de moduls complementaris disponibles">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Los moduls complementaris seguents son disponibles :">

@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "URL del site :">
+<!ENTITY siteUrl.label         "Site URL:">
 <!ENTITY docSubdir.label       "Page subdirectory:">
 <!ENTITY otherSubdir.label     "Image subdirectory:">
 
@@ -47,4 +47,4 @@
 <!ENTITY failed.label          "Failed">
 
 <!ENTITY keepOpen              "Keep this window open after publishing is complete.">
-<!ENTITY closeButton.label     "Tampar">
+<!ENTITY closeButton.label     "Close">

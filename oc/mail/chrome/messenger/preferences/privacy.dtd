@@ -1,7 +1,7 @@
-﻿<!ENTITY itemJunk.label          "Junk">
+<!ENTITY itemJunk.label          "Junk">
 <!ENTITY itemPhishing.label      "E-mail Scams">
-<!ENTITY itemPasswords.label     "sENHALs">
-<!ENTITY itemAntiVirus.label     "AntiViruses">
+<!ENTITY itemPasswords.label     "Passwords">
+<!ENTITY itemAntiVirus.label     "Anti-Virus">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings.">
@@ -9,13 +9,13 @@
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Los suprimir">
+<!ENTITY manualMarkModeDelete.label "Delete them">
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
 <!ENTITY markAsReadOnSpam.accesskey "k">
 <!ENTITY enableJunkLogging.label "Enable junk filter logging">
 <!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Afichar lo jornal">
+<!ENTITY openJunkLog.label "Show log">
 <!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "Reset Training Data">
 <!ENTITY resetTrainingData.accesskey "D">

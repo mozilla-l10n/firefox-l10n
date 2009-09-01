@@ -16,7 +16,7 @@
 <!ENTITY returnSome.accesskey         "r">
 <!ENTITY never.label                  "Mandar pas jamai d'acusat de recepcion">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "Se soi pas ni lo destinatari ni en còpia del messatge :">
+<!ENTITY notInToCc.label              "Se soi ni lo destinatari ni en còpia del messatge :">
 <!ENTITY notInToCc.accesskey          "S">
 <!ENTITY outsideDomain.label          "Se l'expeditor es en defòra de mon domeni :">
 <!ENTITY outsideDomain.accesskey      "x">

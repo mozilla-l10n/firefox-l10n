@@ -39,9 +39,9 @@
 <!-- extracted from EdReplace.xul -->
 
 <!ENTITY replaceDialog.title "Find and Replace">
-<!ENTITY findField.label "Trobar lo tèxte :">
+<!ENTITY findField.label "Find text:">
 <!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "Remplaçar per :">
+<!ENTITY replaceField.label "Replace with:">
 <!ENTITY replaceField.accesskey "e">
 <!ENTITY caseSensitiveCheckbox.label "Match exact case">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
@@ -49,12 +49,12 @@
 <!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY backwardsCheckbox.label "Search backwards">
 <!ENTITY backwardsCheckbox.accesskey "b">
-<!ENTITY findNextButton.label "Trobar lo seguent">
+<!ENTITY findNextButton.label "Find Next">
 <!ENTITY findNextButton.accesskey "F">
-<!ENTITY replaceButton.label "Remplaçar">
+<!ENTITY replaceButton.label "Replace">
 <!ENTITY replaceButton.accesskey "R">
-<!ENTITY replaceAndFindButton.label "Trobar e remplaçar">
+<!ENTITY replaceAndFindButton.label "Replace and Find">
 <!ENTITY replaceAndFindButton.accesskey "d">
-<!ENTITY replaceAllButton.label "Remplaçar tot">
+<!ENTITY replaceAllButton.label "Replace All">
 <!ENTITY replaceAllButton.accesskey "A">
-<!ENTITY closeButton.label "Tampar">
+<!ENTITY closeButton.label "Close">
