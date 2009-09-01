@@ -1,4 +1,4 @@
-﻿<!ENTITY pageInfoWindow.width "600">
+<!ENTITY pageInfoWindow.width "600">
 <!ENTITY pageInfoWindow.height "500">
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Copiar">
@@ -44,6 +44,7 @@
 <!ENTITY permTab "Permissions">
 <!ENTITY permTab.accesskey "P">
 <!ENTITY permUseDefault "Utilizar las valors per defaut">
+<!ENTITY  permAskAlways         "Totjorn demandar">
 <!ENTITY permAllow "Autorizar">
 <!ENTITY permAllowSession "Autorizar pendent la sesilha">
 <!ENTITY permBlock "Blocar">
@@ -52,22 +53,23 @@
 <!ENTITY permPopup "Dobrir de fenèstras sorgissentas">
 <!ENTITY permCookie "Definir de cookies">
 <!ENTITY permInstall "Installar d'extensions o de tèmas">
+<!ENTITY  permGeo               "Partejar l'emplaçament">
 <!ENTITY securityTab "Seguretat">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "Entresenhas de seguretat per aquesta pagina">
 <!ENTITY securityView.certView "Visualizar lo certificat">
 <!ENTITY securityView.accesskey "V">
 <!ENTITY securityView.unknown "Desconegut">
-<!ENTITY securityView.identity.header "Identitat del site web">
+<!ENTITY securityView.identity.header "Identitat del sit web">
 <!ENTITY securityView.identity.owner "Proprietari :">
-<!ENTITY securityView.identity.domain "Site web :">
+<!ENTITY securityView.identity.domain "Sit web :">
 <!ENTITY securityView.identity.verifier "Verificat per :">
 <!ENTITY securityView.privacy.header "Vida privada e istoric">
-<!ENTITY securityView.privacy.history "Ja ai visitat aqueste site ?">
-<!ENTITY securityView.privacy.cookies "Aqueste site web estòca d'entresenhas (cookies) sus mon ordenador ?">
+<!ENTITY securityView.privacy.history "Ai ja visitat aqueste sit ?">
+<!ENTITY securityView.privacy.cookies "Aqueste sit web estòca d'entresenhas (cookies) sus mon ordenador ?">
 <!ENTITY securityView.privacy.viewCookies "Veire los cookies">
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
-<!ENTITY securityView.privacy.passwords "Ai enregistrat un senhal per aqueste site web ?">
+<!ENTITY securityView.privacy.passwords "Ai enregistrat un senhal per aqueste sit web ?">
 <!ENTITY securityView.privacy.viewPasswords "Visualizar los senhals enregistrats">
 <!ENTITY securityView.privacy.viewPasswords.accessKey "V">
 <!ENTITY securityView.technical.header "Detalhs tecnics">

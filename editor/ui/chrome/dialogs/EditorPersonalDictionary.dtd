@@ -36,18 +36,18 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Diccionari personal">
+<!ENTITY windowTitle.label "Personal Dictionary">
 
 <!ENTITY wordEditField.label "New word:">
 <!ENTITY wordEditField.accessKey "N">
-<!ENTITY AddButton.label "Apondre">
+<!ENTITY AddButton.label "Add">
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "Words in dictionary:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Remplaçar">
+<!ENTITY ReplaceButton.label "Replace">
 <!ENTITY ReplaceButton.accessKey "R">
-<!ENTITY RemoveButton.label "Suprimir">
+<!ENTITY RemoveButton.label "Remove">
 <!ENTITY RemoveButton.accessKey "e">
 
-<!ENTITY CloseButton.label "Tampar">
+<!ENTITY CloseButton.label "Close">
 <!ENTITY CloseButton.accessKey "C">

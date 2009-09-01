@@ -1,28 +1,28 @@
-﻿<!ENTITY  pref.editing.title        "Paramètres de la pagina novèla">
+<!ENTITY  pref.editing.title        "New Page Settings">
 
-<!ENTITY  authorName.label          "Autor :">
+<!ENTITY  authorName.label          "Author:">
 <!ENTITY  authorName.accesskey      "u">
-<!ENTITY  pageColorHeader           "Aparéncia de la pagina per defaut">
+<!ENTITY  pageColorHeader           "Default Page Appearance">
 
 <!ENTITY defaultColors.label        "Reader's default colors (Don't set colors in page)">
 <!ENTITY defaultColors.accesskey    "d">
 <!ENTITY customColors.label         "Use custom colors:">
 <!ENTITY customColors.accesskey     "c">
 
-<!ENTITY normalText.label           "Tèxte normal">
+<!ENTITY normalText.label           "Normal text">
 <!ENTITY normalText.accesskey       "N">
-<!ENTITY linkText.label             "Tèxte del ligam">
+<!ENTITY linkText.label             "Link text">
 <!ENTITY linkText.accesskey         "L">
-<!ENTITY activeLinkText.label       "Activar lo tèxte del ligam">
+<!ENTITY activeLinkText.label       "Active link text">
 <!ENTITY activeLinkText.accesskey   "A">
-<!ENTITY visitedLinkText.label      "Tèxte del ligam visitat">
+<!ENTITY visitedLinkText.label      "Visited link text">
 <!ENTITY visitedLinkText.accesskey  "V">
-<!ENTITY background.label           "Rèire plan :">
+<!ENTITY background.label           "Background:">
 <!ENTITY background.accesskey       "B">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Imatge de rèire plan:">
+<!ENTITY backgroundImage.label      "Background image:">
 <!ENTITY backgroundImage.accesskey  "m">
-<!ENTITY chooseFile.label           "Causissètz un fichièr…">
+<!ENTITY chooseFile.label           "Choose File…">
 <!ENTITY chooseFile.accesskey       "o">
 

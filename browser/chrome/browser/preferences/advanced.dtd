@@ -1,10 +1,10 @@
-﻿<!ENTITY generalTab.label "General">
+<!ENTITY generalTab.label "General">
 <!ENTITY accessibility.label "Accessibilitat">
 <!ENTITY useCursorNavigation.label "Utilizar totjorn las tòcas de navigacion per se desplaçar a l'interior d'una pagina">
 <!ENTITY useCursorNavigation.accesskey "t">
-<!ENTITY searchStartTyping.label "Recercar de tèxte quand comenci de picar">
+<!ENTITY searchStartTyping.label "Recercar de tèxt quand comenci de picar">
 <!ENTITY searchStartTyping.accesskey "x">
-<!ENTITY blockAutoRefresh.label "Prevenir quand de sites Web ensajan de tornar dirigir o de tornar cargar la pagina">
+<!ENTITY blockAutoRefresh.label "Prevenir quand de sits Web ensajan de tornar dirigir o de tornar cargar la pagina">
 <!ENTITY blockAutoRefresh.accesskey "P">
 <!ENTITY browsing.label "Navigacion">
 <!ENTITY useAutoScroll.label "Utilizar lo desfilament automatic">
@@ -20,7 +20,7 @@
 <!ENTITY checkNow.accesskey "a">
 <!ENTITY networkTab.label "Ret">
 <!ENTITY connection.label "Connexion">
-<!ENTITY connectionDesc.label "Configurar cossí &brandShortName; se connècta a internet">
+<!ENTITY connectionDesc.label "Configurar cossí &brandShortName; se connecta a internet">
 <!ENTITY connectionSettings.label "Paramètres">
 <!ENTITY connectionSettings.accesskey "e">
 <!ENTITY offlineStorage.label "Estocatge sens connexion">
@@ -41,16 +41,16 @@
 <!ENTITY askMe.label "Me demandar çò que vòli far">
 <!ENTITY askMe.accesskey "d">
 <!ENTITY modeAutomatic.label "Telecargar e installar automaticament la mesa a jorn">
-<!ENTITY modeAutomatic.accesskey "D">
+<!ENTITY modeAutomatic.accesskey "T">
 <!ENTITY modeAutoAddonWarn.label "M'alertar s'aquò desactiva de moduls">
 <!ENTITY modeAutoAddonWarn.accesskey "a">
 <!ENTITY updateHistory.label "Visualizar l'istoric de las mesas a jorn">
 <!ENTITY updateHistory.accesskey "A">
-<!ENTITY offlineNotify.label "Me dire quand un site web demanda a estocar de donadas per las utilizar sens connexion">
+<!ENTITY offlineNotify.label "Me dire quand un sit web demanda a estocar de donadas per las utilizar sens connexion">
 <!ENTITY offlineNotify.accesskey "d">
 <!ENTITY offlineNotifyExceptions.label "Excepcions…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
-<!ENTITY offlineAppsList.label "Los sites web seguents an estocat de donadas per las utilizar sens connexion :">
+<!ENTITY offlineAppsList.label "Los sits web seguents an estocat de donadas per las utilizar sens connexion :">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Suprimir...">
 <!ENTITY offlineAppsListRemove.accesskey "S">
@@ -64,7 +64,7 @@
 <!ENTITY certificates.label "Certificats">
 <!ENTITY certSelection.description "Quand un servidor demanda mon certificat personal :">
 <!ENTITY certs.auto "Ne causir un automaticament">
-<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.auto.accesskey "c">
 <!ENTITY certs.ask "Me demandar a cada còp">
 <!ENTITY certs.ask.accesskey "M">
 <!ENTITY viewCerts.label "Visualizar los certificats">

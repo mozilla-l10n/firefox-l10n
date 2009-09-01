@@ -1,8 +1,8 @@
-﻿<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "aprepaus:drechas">
 <!ENTITY rights.intro-header    "A prepaus de vòstres dreches">
-<!ENTITY rights.intro "&brandFullName; es un logicial liure, gratuit e dobèrt que desvolopa una comunautat de milierats d'utilizaires dins tot lo monde. I a d'unas pichòtas causas que vos cal saber :">
+<!ENTITY rights.intro "&brandFullName; es un logicial liure, gratís e dobèrt que desvolopa una comunautat de milièrs d'utilizaires dins tot lo mond. I a d'unas pichòtas causas que debètz saupre :">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is

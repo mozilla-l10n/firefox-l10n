@@ -1,6 +1,6 @@
-﻿<!ENTITY safeModeDialog.title "Mòde segur de &brandShortName;">
+<!ENTITY safeModeDialog.title "Mòde segur de &brandShortName;">
 <!ENTITY window.width "37em">
-<!ENTITY safeModeDescription.label "&brandShortName; marca ara en mòde segur, aquò desactiva per un moment vòstres paramètres, tèmas e extensions personalizats.">
+<!ENTITY safeModeDescription.label "&brandShortName; marca ara en mòde segur, çò que desactiva per un moment vòstres paramètres, tèmas e extensions personalizats.">
 <!ENTITY safeModeDescription2.label "D'unas (o totas las) modificacions pòdon venir permanentas :">
 <!ENTITY disableAddons.label "Desactivar totes los moduls complementaris">
 <!ENTITY disableAddons.accesskey "D">

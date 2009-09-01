@@ -35,5 +35,5 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Proprietats del ligam">
-<!ENTITY LinkURLBox.label "Emplaçament del ligam">
+<!ENTITY windowTitle.label "Link Properties">
+<!ENTITY LinkURLBox.label "Link Location">

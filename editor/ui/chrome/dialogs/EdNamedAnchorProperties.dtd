@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY windowTitle.label "Named Anchor Properties">
-<!ENTITY anchorNameEditField.label "Nom de l'ancòra :">
+<!ENTITY anchorNameEditField.label "Anchor Name:">
 <!ENTITY anchorNameEditField.accessKey "N">
 <!ENTITY nameInput.tooltip "Enter a unique name for this named anchor (target)">
 

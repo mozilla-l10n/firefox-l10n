@@ -34,15 +34,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Proprietats del formulari">
+<!ENTITY windowTitle.label "Form Properties">
 
 <!ENTITY Settings.label "Settings">
 
-<!ENTITY FormName.label "Nom del formulari :">
+<!ENTITY FormName.label "Form Name:">
 <!ENTITY FormName.accesskey "N">
 <!ENTITY FormAction.label "Action URL:">
 <!ENTITY FormAction.accesskey "A">
-<!ENTITY FormMethod.label "Metòde :">
+<!ENTITY FormMethod.label "Method:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Encoding:">
 <!ENTITY FormEncType.accesskey "c">

@@ -1,4 +1,4 @@
-﻿<!ENTITY startup.label "Aviada">
+<!ENTITY startup.label "Aviada">
 <!ENTITY startupPage.label "Quand &brandShortName; s'avia :">
 <!ENTITY startupPage.accesskey "s">
 <!ENTITY startupHomePage.label "Visualizar ma pagina d'acuèlh">
@@ -16,7 +16,7 @@
 <!ENTITY downloads.label "Telecargaments">
 <!ENTITY showWhenDownloading.label "Visualizar la fenèstra dels Telecargaments quand telecargatz un fichièr">
 <!ENTITY showWhenDownloading.accesskey "T">
-<!ENTITY closeWhenDone.label "Tampar quand los telecargaments son acabats">
+<!ENTITY closeWhenDone.label "Tampar quand los telescargaments son acabats">
 <!ENTITY closeWhenDone.accesskey "L">
 <!ENTITY saveTo.label "Enregistrar los fichièrs dins lo repertòri">
 <!ENTITY saveTo.accesskey "n">
@@ -24,7 +24,7 @@
 <!ENTITY chooseFolderWin.accesskey "P">
 <!ENTITY chooseFolderMac.label "Causir...">
 <!ENTITY chooseFolderMac.accesskey "C">
-<!ENTITY alwaysAsk.label "Demandar totjorn ont enregistrar los fichièrs">
+<!ENTITY alwaysAsk.label "Totjorn demandar ont enregistrar los fichièrs">
 <!ENTITY alwaysAsk.accesskey "T">
 <!ENTITY addonsMgr.label "Moduls complementaris">
 <!ENTITY manageAddonsDescWin.label "Modificar las opcions de vòstres moduls complementaris">

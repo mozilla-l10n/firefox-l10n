@@ -1,4 +1,4 @@
-﻿<!ENTITY charsetMenu.label "Encodatge dels caractèrs">
+<!ENTITY charsetMenu.label "Encodatge dels caractèrs">
 <!ENTITY charsetMenu.accesskey "E">
 <!ENTITY charsetMenuAutodet.label "Deteccion automatica">
 <!ENTITY charsetMenuAutodet.accesskey "a">
@@ -8,7 +8,7 @@
 <!ENTITY charsetMenuMore1.accesskey "o">
 <!ENTITY charsetMenuMore2.label "Euròpa de l'èst">
 <!ENTITY charsetMenuMore2.accesskey "è">
-<!ENTITY charsetMenuMore3.label "Asia de l'èst">
+<!ENTITY charsetMenuMore3.label "Àsia de l'èst">
 <!ENTITY charsetMenuMore3.accesskey "A">
 <!ENTITY charsetMenuMore4.label "SE e SO asiatic">
 <!ENTITY charsetMenuMore4.accesskey "S">

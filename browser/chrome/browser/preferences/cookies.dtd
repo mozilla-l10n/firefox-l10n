@@ -1,7 +1,7 @@
-﻿<!ENTITY window.width "36em">
+<!ENTITY window.width "36em">
 <!ENTITY cookiesonsystem.label "Los cookies seguents son estocats sus vòstre ordenador :">
 <!ENTITY cookiename.label "Nom del cookie">
-<!ENTITY cookiedomain.label "Site">
+<!ENTITY cookiedomain.label "Sit">
 <!ENTITY button.removecookie.label "Suprimir lo Cookie">
 <!ENTITY button.removecookie.accesskey "S">
 <!ENTITY button.removeallcookies.label "Suprimir totes los Cookies">

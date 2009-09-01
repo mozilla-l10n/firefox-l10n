@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -53,6 +53,6 @@
 <!ENTITY none.value				"(none)">
 <!ENTITY same.value				"Same Frame">
 <!ENTITY whole.value			"Whole Page">
-<!ENTITY new.value				"Fenèstra novèla">
+<!ENTITY new.value				"New Window">
 <!ENTITY parent.value			"Parent Frame">
 

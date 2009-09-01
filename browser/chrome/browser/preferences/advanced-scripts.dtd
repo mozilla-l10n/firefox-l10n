@@ -1,4 +1,4 @@
-﻿<!ENTITY advancedJSDialog.title "Paramètres JavaScript avançats">
+<!ENTITY advancedJSDialog.title "Paramètres JavaScript avançats">
 <!ENTITY window.width "37em">
 <!ENTITY allowScripts.label "Autorizar los escriptes a :">
 <!ENTITY moveResizeWindows.label "Desplaçar o redimensionar las fenèstras existentas">
@@ -9,5 +9,5 @@
 <!ENTITY disableContextMenus.accesskey "D">
 <!ENTITY hideStatusBar.label "Amagar la barra d'estat">
 <!ENTITY hideStatusBar.accesskey "A">
-<!ENTITY changeStatusBar.label "Modificar lo tèxte de la barra d'estat">
+<!ENTITY changeStatusBar.label "Modificar lo tèxt de la barra d'estat">
 <!ENTITY changeStatusBar.accesskey "M">

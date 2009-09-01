@@ -19,12 +19,12 @@
 
 <!ENTITY startpage.moreInfo "More Information">
 
-<!ENTITY startpage.help "Ajuda de Thunderbird">
+<!ENTITY startpage.help "Thunderbird Help">
 <!ENTITY startpage.helpInfo "For frequently asked questions, tips and general help, visit">
 <!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
 
-<!ENTITY startpage.page "Pagina de produch Thunderbird">
-<!ENTITY startpage.pageInfo "Per d'entresenhas sul produch, visitatz la">
+<!ENTITY startpage.page "Thunderbird Product Page">
+<!ENTITY startpage.pageInfo "For product information, visit the">
 <!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
 
 <!ENTITY startpage.extra "">

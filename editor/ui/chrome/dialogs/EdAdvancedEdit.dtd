@@ -36,17 +36,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY WindowTitle.label              "Editor de proprietats avançadas">
-<!ENTITY AttName.label                  "Atribut : ">
-<!ENTITY AttValue.label                 "Valor : ">
-<!ENTITY PropertyName.label             "Proprietat : ">
+<!ENTITY WindowTitle.label              "Advanced Property Editor">
+<!ENTITY AttName.label                  "Attribute: ">
+<!ENTITY AttValue.label                 "Value: ">
+<!ENTITY PropertyName.label             "Property: ">
 <!ENTITY currentattributesfor.label     "Current attributes for: ">
-<!ENTITY tree.attributeHeader.label     "Atribut">
+<!ENTITY tree.attributeHeader.label     "Attribute">
 <!ENTITY tree.propertyHeader.label      "Property">
-<!ENTITY tree.valueHeader.label         "Valor">
+<!ENTITY tree.valueHeader.label         "Value">
 <!ENTITY tabHTML.label                  "HTML Attributes">
 <!ENTITY tabCSS.label                   "Inline Style">
 <!ENTITY tabJSE.label                   "JavaScript Events">
 
 <!ENTITY editAttribute.label    "Click on an item above to edit its value">
-<!ENTITY removeAttribute.label  "Suprimir">
+<!ENTITY removeAttribute.label  "Remove">

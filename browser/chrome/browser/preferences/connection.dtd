@@ -1,4 +1,4 @@
-﻿<!ENTITY connectionsDialog.title "Paramètres de connexion">
+<!ENTITY connectionsDialog.title "Paramètres de connexion">
 <!ENTITY window.width "37em">
 <!ENTITY window.macWidth "39em">
 <!ENTITY proxyTitle.label "Configurar los servidors mandatòris per accedir a internet">

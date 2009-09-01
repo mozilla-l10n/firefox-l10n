@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.key "VK_F2"> 
 <!ENTITY compactFolders.label "Compactar los dorsièrs">
 <!ENTITY compactFolders.accesskey "C">
-<!ENTITY emptyTrashCmd.label "Voidar la banasta">
+<!ENTITY emptyTrashCmd.label "Voidar la bedoceta">
 <!ENTITY emptyTrashCmd.accesskey "V">
 <!ENTITY offlineMenu.label "Fòra linha">
 <!ENTITY offlineMenu.accesskey "H">
@@ -132,7 +132,7 @@
 <!ENTITY folderView.accesskey "r">
 <!ENTITY allFolders.label "Totes">
 <!ENTITY allFolders.accesskey "T">
-<!ENTITY unreadFolders.label "Dorsièrs amb de pas legits">
+<!ENTITY unreadFolders.label "Dorsièrs amb de non legits">
 <!ENTITY unreadFolders.accesskey "n">
 <!ENTITY favoriteFolders.label "Dorsièrs preferits">
 <!ENTITY favoriteFolders.accesskey "p">
@@ -304,7 +304,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY startPageCmd.accesskey "g">
 <!ENTITY msgMenu.label "Messatges">
 <!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "Messatge novèl">
+<!ENTITY newMsgCmd.label "Nouveau message">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Messatge">
 <!ENTITY newNewMsgCmd.accesskey "M">

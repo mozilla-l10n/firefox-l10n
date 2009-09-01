@@ -1,10 +1,10 @@
-﻿<!ENTITY colorsDialog.title "Colors">
+<!ENTITY colorsDialog.title "Colors">
 <!ENTITY window.width "38em">
 <!ENTITY window.macWidth "41em">
-<!ENTITY allowPagesToUse.label "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çaisús">
+<!ENTITY allowPagesToUse.label "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çai-sus">
 <!ENTITY allowPagesToUse.accesskey "A">
-<!ENTITY color "Tèxte e fons">
-<!ENTITY textColor.label "Tèxte :">
+<!ENTITY color "Tèxt e fons">
+<!ENTITY textColor.label "Tèxt :">
 <!ENTITY textColor.accesskey "t">
 <!ENTITY backgroundColor.label "Fons :">
 <!ENTITY backgroundColor.accesskey "F">

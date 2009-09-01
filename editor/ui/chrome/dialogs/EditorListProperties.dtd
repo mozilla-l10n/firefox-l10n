@@ -39,13 +39,13 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "List Properties">
 
-<!ENTITY ListType.label "Tipe de lista">
-<!ENTITY bulletStyle.label "Estil de piuse :">
-<!ENTITY startingNumber.label "Començar a :">
+<!ENTITY ListType.label "List Type">
+<!ENTITY bulletStyle.label "Bullet Style:">
+<!ENTITY startingNumber.label "Start at:">
 <!ENTITY startingNumber.accessKey "S">
-<!ENTITY none.value "Pas cap">
+<!ENTITY none.value "None">
 <!ENTITY bulletList.value "Bullet (Unnumbered) List">
-<!ENTITY numberList.value "Lista numerotada">
+<!ENTITY numberList.value "Numbered List">
 <!ENTITY definitionList.value "Definition List">
 <!ENTITY changeEntireListRadio.label "Change entire list">
 <!ENTITY changeEntireListRadio.accessKey "C">

@@ -42,7 +42,7 @@
 <!ENTITY enableSnapToGrid.label "enable Snap to Grid">
 <!ENTITY enableSnapToGrid.accessKey "e">
 
-<!ENTITY sizeEditField.label "Talha :">
+<!ENTITY sizeEditField.label "Size:">
 <!ENTITY sizeEditField.accessKey "S">
 
-<!ENTITY pixelsLabel.value "pixèls">
+<!ENTITY pixelsLabel.value "pixels">

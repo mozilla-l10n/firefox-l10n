@@ -1,4 +1,4 @@
 ﻿<!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
 
-<!ENTITY menu_securityStatus.label "Entresenhas de seguretat dels messatges">
+<!ENTITY menu_securityStatus.label "Infos de seguretat dels messatges">
 <!ENTITY menu_securityStatus.accesskey "I">
