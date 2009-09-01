@@ -1,20 +1,11 @@
 <!ENTITY back.label            "Terug">
-<!ENTITY back.tooltip          "Terug">
 <!ENTITY forward.label         "Vooruit">
-<!ENTITY forward.tooltip       "Vooruit">
 <!ENTITY reload.label          "Vernieuwen">
-<!ENTITY reload.tooltip        "Vernieuwen">
 <!ENTITY stop.label            "Stoppen">
-<!ENTITY stop.tooltip          "Stoppen">
 <!ENTITY search.label          "Zoeken">
-<!ENTITY search.tooltip        "Zoeken">
 <!ENTITY go.label              "Ga">
-<!ENTITY go.tooltip            "Ga">
 <!ENTITY openLocation.label    "Locatie openen">
-<!ENTITY openLocation.tooltip  "Locatie openen">
 <!ENTITY star.label            "Ster">
-<!ENTITY star.tooltip          "Bladwijzer voor deze pagina maken">
-<!ENTITY bookmarks.tooltip     "Bladwijzers bekijken">
 
 <!ENTITY newtab.label          "Nieuw tabblad">
 <!ENTITY closetab.label        "Tabblad sluiten">
@@ -55,12 +46,13 @@
 <!ENTITY addonsRepo.label          "Add-ons verkrijgen">
 <!ENTITY addonsRecommended.label   "Aanbevolen">
 <!ENTITY addonsSearch.label        "Zoeken">
-<!ENTITY addonsSearch.emptytext    "Alle add-ons doorzoeken">
+<!ENTITY addonsSearch2.emptytext   "Catalogus doorzoeken">
+<!ENTITY addonsSearch.recommended  "Aanbevolen">
 
 <!ENTITY addonOptions.label        "Opties">
 <!ENTITY addonEnable.label         "Inschakelen">
 <!ENTITY addonDisable.label        "Uitschakelen">
-<!ENTITY addonInstall.label        "Installeren">
+<!ENTITY addonInstall2.label       "Toevoegen aan &brandShortName;">
 <!ENTITY addonUninstall.label      "De-installeren">
 <!ENTITY addonCancel.label         "Annuleren">
 <!ENTITY addonShowPage.label       "Ga naar pagina">
@@ -70,7 +62,7 @@
 <!ENTITY downloadsSortSite.label   "Website">
 <!ENTITY downloadsSortName.label   "Naam">
 <!ENTITY downloadsSearch.label     "Zoeken">
-<!ENTITY downloadsSearch.emptytext "Gedownloade bestanden doorzoeken">
+<!ENTITY downloadsSearch2.emptytext "Zoeken">
 
 <!ENTITY downloadShowPage.label    "Naar pagina gaan">
 <!ENTITY downloadShow2.label       "Zoeken">
