@@ -1,4 +1,7 @@
 <!ENTITY prefsHeader.label                         "Voorkeuren">
+<!ENTITY about.title                               "Over &brandShortName;">
+<!ENTITY about.button                              "Ga naar pagina">
+<!ENTITY about.description                         "Help en productinformatie verkrijgen">
 <!ENTITY content.title                             "Inhoud">
 <!ENTITY showImages.title                          "Afbeeldingen tonen">
 <!ENTITY enableJavaScript.title                    "JavaScript inschakelen">
