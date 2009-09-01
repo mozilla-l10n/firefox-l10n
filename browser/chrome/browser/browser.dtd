@@ -316,8 +316,6 @@ shortcut keys on Linux. -->
 <!ENTITY copyAudioURLCmd.label        "Copiar endereço do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "g">
-<!ENTITY metadataCmd.label "Propriedades">
-<!ENTITY metadataCmd.accesskey "R">
 <!ENTITY copyEmailCmd.label "Copiar endereço de correio electrónico">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Esta frame">
