@@ -41,7 +41,7 @@
 <!ENTITY askMe.label "Me demandar çò que vòli far">
 <!ENTITY askMe.accesskey "d">
 <!ENTITY modeAutomatic.label "Telecargar e installar automaticament la mesa a jorn">
-<!ENTITY modeAutomatic.accesskey "D">
+<!ENTITY modeAutomatic.accesskey "T">
 <!ENTITY modeAutoAddonWarn.label "M'alertar s'aquò desactiva de moduls">
 <!ENTITY modeAutoAddonWarn.accesskey "a">
 <!ENTITY updateHistory.label "Visualizar l'istoric de las mesas a jorn">
@@ -64,7 +64,7 @@
 <!ENTITY certificates.label "Certificats">
 <!ENTITY certSelection.description "Quand un servidor demanda mon certificat personal :">
 <!ENTITY certs.auto "Ne causir un automaticament">
-<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.auto.accesskey "c">
 <!ENTITY certs.ask "Me demandar a cada còp">
 <!ENTITY certs.ask.accesskey "M">
 <!ENTITY viewCerts.label "Visualizar los certificats">

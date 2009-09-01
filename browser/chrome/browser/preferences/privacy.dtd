@@ -1,4 +1,5 @@
 <!ENTITY history.label "Istoric">
+<!ENTITY  locationBar.label             "Barra d'emplaçament">
 
 <!ENTITY  locbar.pre.label              "Quand utilizi la barra d'emplaçament, suggerir :">
 <!ENTITY  locbar.pre.accessKey          "l">
@@ -36,3 +37,46 @@
 <!ENTITY clearDataSettings.accesskey "t">
 <!ENTITY clearDataNow.label "Voidar ara…">
 <!ENTITY clearDataNow.accesskey "a">
+<!ENTITY  clearOnClose.label             "Voidar l'istoric quand &brandShortName; se tampa">
+<!ENTITY  clearOnClose.accesskey         "q">
+<!ENTITY  clearOnCloseSettings.label     "Paramètres…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Benlèu que volètz tanben ">
+<!ENTITY  dontrememberActions.clearHistory.label "voidar tot l'istoric recent">
+<!ENTITY  dontrememberActions.post.label         ".">
+<!ENTITY  privateBrowsingAutoStart.label "Aviar automaticament &brandShortName; dins una sesilha de navigacion privada">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "memorizarà l'istoric">
+<!ENTITY  historyHeader.dontremember.label "memorizarà pas jamai l'istoric">
+<!ENTITY  historyHeader.custom.label       "utilizarà de paramètres personalizats per l'istoric">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que en navigacion privada e memorizarà pas pus d'istoric quand navigaretz sus internet.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Benlèu que volètz tanben ">
+<!ENTITY  rememberActions.clearHistory.label  "voidar tot l'istoric recent">
+<!ENTITY  rememberActions.middle.label        ", o ">
+<!ENTITY  rememberActions.removeCookies.label "suprimir totes los cookies">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription.label  "&brandShortName; memorizarà vòstre istoric de navigacion, de telecargament, de formularis e de recèrca e conservar los cookies dels sits web que visitatz.">
+
+<!ENTITY  rememberHistory.pre.label      "Memorizar mon istoric de navigacion pendent al mens">
+<!ENTITY  rememberHistory.pre.accesskey  "i">
+<!ENTITY  rememberHistory.post.label     "jorns">
+
+<!ENTITY  rememberDownload.label         "Memorizar l'istoric de telecargaments">
+<!ENTITY  rememberDownload.accesskey     "t">
+
+<!ENTITY  rememberSearchForm.label       "Memorizar mon istoric de recèrca e de formularis">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
