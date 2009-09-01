@@ -19,13 +19,13 @@
 <!ENTITY goToFolderButton.label      "Opne meldingsmappe">
 <!ENTITY goToFolderButton.accesskey  "m">
 <!ENTITY saveAsVFButton.label        "Lagre som søkjemappe">
-<!ENTITY saveAsVFButton.accesskey    "g">
+<!ENTITY saveAsVFButton.accesskey    "L">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Søk i:">
 <!ENTITY abSearchHeading.accesskey   "S">
 <!ENTITY propertiesButton.label      "Eigenskapar …">
-<!ENTITY propertiesButton.accesskey  "p">
+<!ENTITY propertiesButton.accesskey  "E">
 <!ENTITY composeButton.label         "Skriv ny e-post til">
 <!ENTITY composeButton.accesskey     "n">
 <!ENTITY abSearchDialogTitle.label   "Avansert adresseboksøk">

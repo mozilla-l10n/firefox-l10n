@@ -3,7 +3,7 @@
 <!ENTITY copyAndFolderTitle.label "Kopiar og mapper">
 <!ENTITY sendingPrefix.label "Når meldingar vert sende: ">
 <!ENTITY fccMailFolder.label "Lagre ein kopi i:">
-<!ENTITY fccMailFolder.accesskey "g">
+<!ENTITY fccMailFolder.accesskey "e">
 <!ENTITY fccReplyFollowsParent.label "Legg svar i mappa der den opphavlege meldinga ligg">
 <!ENTITY fccReplyFollowsParent.accesskey "v">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->

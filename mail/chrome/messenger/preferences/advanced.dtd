@@ -30,19 +30,19 @@
 
 <!ENTITY autoMarkAsRead.label          "Automatisk merk meldingar som lesne">
 <!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Med ein gong på skjerm">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.label       "Med ein gong etter dei er viste">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Etter at dei er vist i">
+<!ENTITY markAsReadDelay.label         "Etter at dei er viste i">
 <!ENTITY markAsReadDelay.accesskey     "E">
 <!ENTITY secondsLabel.label            "sekund">
 <!ENTITY openMsgIn.label               "Opne meldingar i:">
 <!ENTITY openMsgInNewTab.label         "Ei ny fane">
 <!ENTITY openMsgInNewTab.accesskey     "f">
 <!ENTITY reuseExpRadio0.label          "Eit nytt vindauge">
-<!ENTITY reuseExpRadio0.accesskey      "y">
+<!ENTITY reuseExpRadio0.accesskey      "d">
 <!ENTITY reuseExpRadio1.label          "Eit eksisterande meldingsvindauge">
 <!ENTITY reuseExpRadio1.accesskey      "e">
 <!ENTITY closeMsgWindowOnDelete.label  "Lat att meldingsvindauge ved sletting">
@@ -52,7 +52,7 @@
 <!ENTITY autoCheck.label                "Automatisk sjå etter oppdateringar for:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Installerte utvidingar">
+<!ENTITY enableAddonsUpdate.label       "Installerte utvidingar og tema">
 <!ENTITY enableAddonsUpdate.accesskey   "n">
 <!ENTITY whenUpdatesFound.label         "Når oppdateringar til &brandShortName; vert funne,">
 <!ENTITY modeAskMe.label                "Spør meg kva som skal gjerast">
