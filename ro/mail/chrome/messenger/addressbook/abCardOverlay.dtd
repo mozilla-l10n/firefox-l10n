@@ -79,9 +79,9 @@
 <!ENTITY ScreenName.label               "Nume pt. mesagerie:">
 <!ENTITY ScreenName.accesskey           "g">
 
-<!ENTITY allowRemoteContent.label       "Permite imagini de la distanță în mesajele HTML.">
-<!ENTITY allowRemoteContent.accesskey   "P">
-<!ENTITY allowRemoteContent.tooltip     "În mesajele HTML e posibil să înglobați imagini din surse de la distanță. Deschiderea unor astfel de mesaje necesită conexiunea la aceste surse aflate la distanță. Acest lucru poate divulga faptul că ați citit mesajul. Dacă bifați această opțiune, veți permite încărcarea unor astfel de imagini din mesajele primite de la această persoană de contact.">
+<!ENTITY allowRemoteContent1.label      "Permite conținutul aflat la distanță.">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "În mesajele HTML se poate include conținut aflat pe internet. Deschiderea unor astfel de mesaje va deschide o conexiune la sursa acestui conținut. Acest lucru poate fi folosit pentru a detecta dacă mesajul a fost citit. Bifând această opțiune veți permite încărcarea conținutului de pe internet în mesajele de la această persoană.">
 
 <!ENTITY WorkPhone.label                "Serviciu:">
 <!ENTITY WorkPhone.accesskey            "S">
@@ -153,3 +153,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Note:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Alegeți una din următoarele:">
+<!ENTITY GenericPhoto.label             "Poză generică">
+<!ENTITY GenericPhoto.accesskey         "g">
+<!ENTITY DefaultPhoto.label             "Implicit">
+<!ENTITY PhotoFile.label                "Pe acest calculator">
+<!ENTITY PhotoFile.accesskey            "P">
+<!ENTITY BrowsePhoto.label              "Răsfoiește">
+<!ENTITY BrowsePhoto.accesskey          "R">
+<!ENTITY PhotoURL.label                 "Pe web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "Inserați sau tastați adresa web a pozei">
+<!ENTITY UpdatePhoto.label              "Actualizează">
+<!ENTITY UpdatePhoto.accesskey          "u">

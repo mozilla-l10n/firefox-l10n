@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Fonturi pentru:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  sizes.label                             "Mărime (pixeli)">
+<!ENTITY  size.label                              "Mărime:">
 <!ENTITY  proportionalSize.accesskey              "E">
-<!ENTITY  monospaceSize.accesskey                 "X">
+<!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY  proportional.label                      "Proporțional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Control fonturi">
+<!ENTITY  useFixedWidthForPlainText.label         "Folosește font de lățime fixă pentru mesajele în text simplu">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Permite mesajelor să folosească alte fonturi">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 

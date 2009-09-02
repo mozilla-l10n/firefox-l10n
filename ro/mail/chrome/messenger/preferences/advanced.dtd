@@ -8,9 +8,11 @@
 
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-<!ENTITY systemDefaults.label          "Opțiunile implicite ale sistemului">
+<!ENTITY systemIntegration.label       "Integrare cu sistemul">
 <!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY searchIntegration.label       "Permite &searchIntegration.engineName; căutarea în mesaje">
+<!ENTITY searchIntegration.accesskey   "P">
 <!ENTITY checkNow.label                "Verifică acum…">
 <!ENTITY checkNow.accesskey            "V">
 <!ENTITY configEditDesc.label          "Configurare avansată">
@@ -37,10 +39,14 @@
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "secunde">
 <!ENTITY openMsgIn.label               "Deschide mesajele în:">
+<!ENTITY openMsgInNewTab.label         "O filă nouă">
+<!ENTITY openMsgInNewTab.accesskey     "O">
 <!ENTITY reuseExpRadio0.label          "O fereastră de mesaj nouă">
 <!ENTITY reuseExpRadio0.accesskey      "O">
 <!ENTITY reuseExpRadio1.label          "O fereastră de mesaj existentă">
 <!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY closeMsgWindowOnDelete.label  "Închide fereastra cu mesajul după ștergere">
+<!ENTITY closeMsgWindowOnDelete.accesskey "c">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Caută automat actualizări pentru:">
@@ -86,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Când un server cere certificatul meu personal:">
+<!ENTITY certs.auto                      "Selectează automat unul">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Întreabă-mă de fiecare dată">
+<!ENTITY certs.ask.accesskey             "a">
+
 <!ENTITY viewCertificates.label         "Vizualizare certificate">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "Liste de revocare">

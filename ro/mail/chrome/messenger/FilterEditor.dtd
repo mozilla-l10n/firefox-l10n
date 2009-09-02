@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "Se verifică mesajele">
 <!ENTITY contextManual.label "Rulează manual">
 <!ENTITY contextBoth.label "Se verifică mailul sau se rulează manual">
+<!ENTITY contextPostPlugin.label "Se verifică mesajele (după clasificare)">
+<!ENTITY contextPostPluginBoth.label "Se verifică mesajele (după clasificare) sau rulare manuală">
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">
 

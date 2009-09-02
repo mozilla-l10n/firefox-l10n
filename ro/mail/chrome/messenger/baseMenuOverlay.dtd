@@ -7,6 +7,8 @@
 <!ENTITY helpMenuWin.accesskey "A">
 <!ENTITY releaseCmd.label "Note asupra ediției">
 <!ENTITY releaseCmd.accesskey "r">
+<!ENTITY whatsNewCmd.label "Ce e nou">
+<!ENTITY whatsNewCmd.accesskey "C">
 <!ENTITY openHelp.label "Manual de utilizare">
 <!ENTITY openHelp.accesskey "M">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -15,6 +17,5 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY updateCmd.label "Caută actualizări…">
-<!ENTITY updateCmd.accesskey "C">
 <!ENTITY aboutCmd.label "Despre &brandFullName;">
 <!ENTITY aboutCmd.accesskey "D">

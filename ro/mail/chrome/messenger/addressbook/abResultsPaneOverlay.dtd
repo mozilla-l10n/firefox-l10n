@@ -60,8 +60,8 @@
 <!ENTITY HomePhone.accesskey                   "a">
 <!ENTITY WorkPhone.label                       "Telefon serviciu">
 <!ENTITY WorkPhone.accesskey                   "s">
-<!ENTITY ScreenName.label                      "Nume pt. mesagerie">
-<!ENTITY ScreenName.accesskey                  "g">
+<!ENTITY ScreenName.label                      "Numele pentru mesagerie">
+<!ENTITY ScreenName.accesskey                  "s">
 <!ENTITY sortAscending.label                   "Crescător">
 <!ENTITY sortAscending.accesskey               "C">
 <!ENTITY sortDescending.label                  "Descrescător">

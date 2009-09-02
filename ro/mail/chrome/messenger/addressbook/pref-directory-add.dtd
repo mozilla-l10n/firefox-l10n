@@ -65,6 +65,13 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "Rezultate">
 <!ENTITY offlineText.label                 "Puteți descărca o copie locală a acestui repertoar pentru a o avea la îndemână când nu sunteți conectat(ă) la rețea.">
+<!ENTITY saslMechanism.label               "Metodă de autentificare: ">
+<!ENTITY saslMechanism.accesskey           "M">
+<!ENTITY saslOff.label                     "Simplu">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

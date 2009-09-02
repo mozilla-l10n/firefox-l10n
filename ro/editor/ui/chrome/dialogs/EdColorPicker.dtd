@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Culori">
+<!ENTITY windowTitle.label "Culoare">
 <!ENTITY lastPickedColor.label "Ultima culoare aleasă">
 <!ENTITY lastPickedColor.accessKey "U">
 <!ENTITY setColor1.label "Apăsați pe o culoare sau">

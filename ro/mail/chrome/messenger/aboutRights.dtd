@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "despre:drepturi">
-<!ENTITY rights.intro-header    "Despre drepturile dumneavoastră">
+<!ENTITY rights.title            "Despre drepturile dumneavoastră">
+<!ENTITY rights.intro-header     "Despre drepturile dumneavoastră">
 <!ENTITY rights.intro "&brandFullName; este un program liber și cu sursa deschisă, construit de o comunitate formată din mii de persoane din întreaga lume. Iată câteva lucruri pe care ar trebui să le știți:">
 
 <!-- Note on pointa / pointb / pointc form:

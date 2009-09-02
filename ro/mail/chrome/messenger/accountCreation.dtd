@@ -1,0 +1,74 @@
+<!ENTITY welcome.description             "Setare rapidă a contului">
+<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
+<!ENTITY name.description                "Numele dumneavoastră">
+<!ENTITY email.description               "Email">
+<!ENTITY password.description            "Parolă">
+
+<!ENTITY next.label                      "Înainte &#187;">
+<!ENTITY next.accesskey                  "n">
+<!ENTITY back.label                      "&#171; Înapoi">
+<!ENTITY back.accesskey                  "1">
+
+<!ENTITY accountInformation.label        "Informații despre cont">
+<!ENTITY username.label                  "utilizator">
+<!ENTITY receivingServer.label           "recepție">
+<!ENTITY sendingServer.label             "trimitere">
+<!ENTITY noEncryption.label              "Fără">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
+     which will create the account and take the user to the account
+     configuration screen. -->
+<!ENTITY createAndEditSettings.label     "Creează și editează setările contului">
+<!ENTITY cancel.label                    "Renunță">
+<!ENTITY stop.label                      "Oprește">
+<!ENTITY stop.accesskey                  "O">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Testează din nou configurația">
+<!ENTITY retest.accesskey                "r">
+<!ENTITY edit.label                      "Editează">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "Memorează parola">
+<!ENTITY rememberPassword.accesskey      "M">
+
+<!ENTITY warning.label                   "Avertisment!">
+<!ENTITY incomingSettings.label          "Setări pentru primire:">
+<!ENTITY outgoingSettings.label          "Setări pentru trimitere:">
+<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
+     warning on the incoming server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmIncomingWarning.label    "Înțeleg riscurile.">
+<!ENTITY confirmIncomingWarning.accesskey "u">
+<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmOutgoingWarning.label    "Înțeleg riscurile.">
+<!ENTITY confirmOutgoingWarning.accesskey "r">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Creează cont">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Schimbă setările">
+<!ENTITY changeSettings.accesskey        "S">
+
+<!ENTITY contactYourProvider.description "&brandShortName; vă poate permite accesarea contului de email folosind configurația furnizată. Totuși, ar trebui să contactați administratorul sau furnizorul de email în legătură cu aceste conexiuni improprii. Vedeți întrebările frecvente despre Thunderbird pentru mai multe informații.">
+
+<!ENTITY insecureServer.tooltip.title    "Avertisment! Acesta este un server nesecurizat.">
+<!ENTITY insecureServer.tooltip.details  "Clic pe cerc pentru mai multe detalii.">
+
+<!ENTITY insecureClearText.description   "Mesajele sunt trimise în clar, ca urmare, ele pot fi citite de alte persoane. &brandShortName; vă va permite să primiți în continuare mesaje, dar ar trebui să recomandați furnizorului dumneavoastră de email să configureze serverul să folosească o conexiune securizată.">
+<!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
+<!ENTITY secureServer.description        "Felicitări! Aveți de a face cu un server securizat.">

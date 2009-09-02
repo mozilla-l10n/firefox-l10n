@@ -55,12 +55,12 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Va fi folosit serverul de trimitere (SMTP) deja existent, „">
-<!ENTITY haveSmtp1.suffix "”. Puteți modifica setările serverului de trimitere alegând „Setările conturilor” din meniul „Unelte”.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, va fi folosit. Puteți schimba serverele de trimitere în setările contului.">
 
 <!-- Entities for Login page -->
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de email (de obicei este același cu numele de utilizator pentru primire).">
 <!ENTITY usernameSmtpLabel.label "Nume utilizator pt trimitere:">
 <!ENTITY usernameSmtpLabel.accesskey "t">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Va fi folosit numele de utilizator pentru trimitere (SMTP) deja existent, „">
-<!ENTITY haveSmtp2.suffix "”. Puteți modifica setările serverului de trimitere alegând „Setările conturilor” din meniul „Unelte”.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;, va fi folosit. Puteți schimba serverele de trimitere în setările contului.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Serverul dumneavoastră de trimitere (SMTP), „">
-<!ENTITY haveSmtp3.suffix "”, este identic cu serverul de primire; se va folosi același nume de utilizator ca și cel de primire. Puteți modifica setările serverului de trimitere alegând „Setările contului” din meniul Unelte.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, e identic cu serverul de primire, se va utiliza același utilizator de la primire pentru a-l accesa. Puteți schimba serverele de trimitere în setările contului.">
 
 <!-- Entities for Account name page -->
 
