@@ -314,8 +314,6 @@
 <!ENTITY copyAudioURLCmd.label        "Kopiearje audiolokaasje">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey       "b">
-<!ENTITY metadataCmd.label            "Eigenskippen">
-<!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "E-mailadres kopiearje">
 <!ENTITY copyEmailCmd.accesskey       "m">
 <!ENTITY thisFrameMenu.label              "Dit dielfinster">
@@ -370,6 +368,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Knippe">
 <!ENTITY copyButton.tooltip             "Kopiearje">
 <!ENTITY pasteButton.tooltip            "Plakke">
+<!ENTITY fullScreenButton.tooltip       "Toan it finster yn folslein skerm">
 
 <!ENTITY quitApplicationCmdWin.label       "Ofslute">
 <!ENTITY quitApplicationCmdWin.accesskey   "O">
