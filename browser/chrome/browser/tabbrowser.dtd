@@ -9,6 +9,8 @@
 <!ENTITY reloadAllTabs.accesskey "а">
 <!ENTITY reloadTab.label "Превчитај го јазичето">
 <!ENTITY reloadTab.accesskey "р">
+<!ENTITY openTabInNewWindow.label    "Отвори во нов прозор">
+<!ENTITY openTabInNewWindow.accesskey "п">
 <!ENTITY listAllTabs.label "Прикажи ги сите јазичиња">
 <!ENTITY bookmarkAllTabs.label "Обележи ги сите јазичиња">
 <!ENTITY bookmarkAllTabs.accesskey "ј">

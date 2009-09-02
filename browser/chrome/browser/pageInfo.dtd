@@ -40,9 +40,11 @@
 <!ENTITY feedTab.accesskey "К">
 <!ENTITY feedSubscribe "Претплати се">
 <!ENTITY feedSubscribe.accesskey "р">
+
 <!ENTITY permTab "Дозвола">
 <!ENTITY permTab.accesskey "Д">
 <!ENTITY permUseDefault "Основни поставки">
+<!ENTITY permAskAlways "Прашувај секогаш">
 <!ENTITY permAllow "Дозволи">
 <!ENTITY permAllowSession "Дозволи само сега">
 <!ENTITY permBlock "Блокирај">
@@ -51,6 +53,8 @@
 <!ENTITY permPopup "Да отвара скокачки прозорци">
 <!ENTITY permCookie "Да поставува колачиња">
 <!ENTITY permInstall "Да инсталира екстензии или теми">
+<!ENTITY permGeo "Пристап до вашата местоположба">
+
 <!ENTITY securityTab "Безбедност">
 <!ENTITY securityTab.accesskey "с">
 <!ENTITY securityHeader "Безбедносни информации за оваа страница">

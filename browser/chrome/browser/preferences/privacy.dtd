@@ -1,4 +1,19 @@
 <!ENTITY history.label "Историја">
+
+<!ENTITY  locbar.pre.label              "Кога ја користите локациската лента, предлози од:">
+<!ENTITY  locbar.pre.accessKey          "з">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Историја и Обележувачи">
+<!ENTITY  locbar.history.label          "Историја">
+<!ENTITY  locbar.bookmarks.label        "Обележувачи">
+<!ENTITY  locbar.nothing.label          "Ништо">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
 <!ENTITY rememberDaysBefore.label "Чувај ја историјата најмалку">
 <!ENTITY rememberDaysBefore.accesskey "и">
 <!ENTITY rememberDaysAfter2.label "денови">
@@ -23,10 +38,61 @@
 <!ENTITY privateData.label "Приватни податоци">
 <!ENTITY alwaysClear.label "Чисти ги приватните податоци при секој излез од &brandShortName;">
 <!ENTITY alwaysClear.accesskey "о">
-<!ENTITY askBeforeClear.label "Прашај ме пред чистењето на приватните податоци">
-<!ENTITY askBeforeClear.accesskey "а">
 <!ENTITY clearDataSettings.label "Поставки…">
 <!ENTITY clearDataSettings.accesskey "т">
 <!ENTITY clearDataNow.label "Исчисти сега…">
-<!ENTITY clearDataNow.label2 "Исчисти сега">
 <!ENTITY clearDataNow.accesskey "с">
+
+<!ENTITY clearOnClose.label         "Исчисти ја историјата секојпат кога ќе го затворите &brandShortName;">
+<!ENTITY clearOnClose.accesskey     "ч">
+
+<!ENTITY  clearOnCloseSettings.label     "Поставки…">
+<!ENTITY  clearOnCloseSettings.accesskey "п">
+
+<!ENTITY  dontrememberActions.clearHistory.label "исчисти ја целата моментална историја">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Или пак, можеби ќе сакате да ">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ќе ги користи истите поставки како и за приватното сурфање, и нема да ја памти историјата додека сурфате на интернет.">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; ќе:">
+<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.remember.label     "ја памти историјата">
+<!ENTITY  historyHeader.custom.label       "ги користи вашите лични поставки за историјата">
+<!ENTITY  historyHeader.dontremember.label "никогаш нема да ја памти историјата">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  locationBar.label             "Локациска лента">
+
+<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; автоматски ќе стартува во сесија за приватно сурфање">
+<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+
+<!ENTITY  rememberActions.pre.label           "Или пак, можеби ќе сакате да ">
+<!ENTITY  rememberActions.clearHistory.label  "ја исчистите вашата скорешна историја">
+<!ENTITY  rememberActions.middle.label        ", или ">
+<!ENTITY  rememberActions.post.label          ".">
+<!ENTITY  rememberActions.removeCookies.label "да отстраните одредени колачиња">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberDescription.label      "&brandShortName; ќе ги памти вашите формулари и пребарувања, историјата на сурфање и преземања, и ќе чува колачиња од интернет места кои ги посетувате.">
+<!ENTITY  rememberDownload.label         "памти ја историјата на преземања">
+<!ENTITY  rememberDownload.accesskey     "з">
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Памти ја историјата на сурфање најмалку">
+<!ENTITY  rememberHistory.pre.accesskey  "и">
+<!ENTITY  rememberHistory.post.label     "дена">
+
+
+<!ENTITY  rememberSearchForm.label       "Памти ги пребарувањата и формуларите">
+<!ENTITY  rememberSearchForm.accesskey   "ф">

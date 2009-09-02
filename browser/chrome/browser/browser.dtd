@@ -7,6 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(xxxxx)">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierPrivateBrowsing): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Ново јазиче">
 <!ENTITY tabCmd.accesskey "ј">
@@ -66,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Обележи ги сите јазичиња…">
 <!ENTITY bookmarkAllCmd.label "Обележи ги сите јазичиња…">
 <!ENTITY organizeBookmarks.label "Организирај ги обележувачите">
+<!ENTITY bookmarksToolbarChevron.tooltip "Покажува уште обележувачи">
 
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "Н">
@@ -96,6 +102,10 @@
 <!ENTITY bookmarksButton.tooltip "Приказ на обележувачи">
 <!ENTITY bookmarksSidebarCmd.accesskey "б">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Историја">
@@ -169,6 +179,8 @@
 <!ENTITY historyMenu.label "Историја">
 <!ENTITY historyMenu.accesskey "с">
 <!ENTITY historyUndoMenu.label "Скоро затворени јазичиња">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Скоро затворени прозорци">
 
 <!ENTITY historyHomeCmd.label "Дома">
 <!ENTITY showAllHistoryCmd2.label "Прикажи ја сета историја">
@@ -176,6 +188,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Пребарај во обележувачите и историјата">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Пребарај во обележувачите и историјата">
+<!ENTITY urlbar.bookmark.emptyText    "Пребарај во обележувачите">
+<!ENTITY urlbar.history.emptyText     "Пребарај во историјата">
+<!ENTITY urlbar.none.emptyText        "Внеси адреса на страница">
 <!ENTITY urlbar.accesskey "д">
 
 <!--
@@ -290,6 +306,7 @@
 <!ENTITY fullZoomToggleCmd.accesskey "т">
 <!ENTITY fullZoom.label "Зум">
 <!ENTITY fullZoom.accesskey "з">
+<!ENTITY newTabButton.tooltip  "Отвора ново јазиче">
 <!ENTITY newWindowButton.tooltip "Отвора нов прозорец">
 <!ENTITY sidebarCloseButton.tooltip "Ја затвора страничната лента">
 <!ENTITY cutButton.tooltip "Сече">
@@ -361,14 +378,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY clearRecentHistoryCmd.accesskey        "И">
 
 <!ENTITY clearRecentHistoryCmd.label            "Исчисти ја скорешната историја">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Започни со приватно сурфање">
+<!ENTITY privateBrowsingCmd.start.accesskey     "п">
+<!ENTITY privateBrowsingCmd.stop.label          "Заврши со приватно сурфање">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "п">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
 <!ENTITY copyAudioURLCmd.accesskey    "о">
 <!ENTITY copyAudioURLCmd.label        "Копирај ја локацијата на аудиото">
 <!ENTITY copyVideoURLCmd.accesskey    "о">
 <!ENTITY copyVideoURLCmd.label        "Копирај ја локацијата на звукот">
 
 <!ENTITY ctrlTab.search.emptyText "Пребарај во јазичињата">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (приватно суфрање)">
 <!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY mediaHideControls.label     "Скриј ги копчињата">
 <!ENTITY mediaMute.accesskey         "м">
@@ -383,9 +406,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mediaShowControls.label     "Покажи ги копчињата">
 <!ENTITY mediaUnmute.accesskey       "м">
 <!ENTITY mediaUnmute.label           "Пушти звук">
-<!ENTITY privateBrowsingCmd.accesskey        "у">
 
-<!ENTITY privateBrowsingCmd.label            "Приватно сурфање">
+
+
 <!ENTITY reloadImageCmd.accesskey     "р">
 <!ENTITY reloadImageCmd.label         "Превчитај ја сликата">
 <!ENTITY saveAudioCmd.accesskey       "н">

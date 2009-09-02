@@ -32,12 +32,17 @@
 <!ENTITY update.status.label "Статус:">
 <!ENTITY  evangelism.desc "Се препорачува да ја примените оваа надградба на &brandShortName; во најкус рок.">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more "Надградбата ќе се инсталира при следното стартување на &BrandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
+<!ENTITY  finishedBackground.more "Надградбата ќе се инсталира при следното стартување на &brandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
 
 <!ENTITY  finishedBackgroundPage.text "Преземена е надградба за безбедност и стабилност на &brandShortName;. Надградбата може да се инсталира.">
-<!ENTITY  finishedPage.text "Надградбата ќе се инсталира при следното стартување на &BrandShortName;. Можете да го рестартирате &brandShortName; сега, или дапродолжите со работа и да го рестартирате подоцна.">
+<!ENTITY  finishedPage.text "Надградбата ќе се инсталира при следното стартување на &brandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
 
 <!ENTITY  finishedPage.title "Надградбата е спремна за инсталирање">
+
+<!ENTITY  manualUpdate.title "Не може да се надгради">
+<!ENTITY  manualUpdate.desc  "Достапна е препорачана надградба за безбедност и стабилност, но Вие ги немате системските привилегии потребни за да ја инсталирате. Ве молиме контактирајте го вашиот системски администратор, или пробајте повторно од сметка која има привилегии да инсталира софтвер на овој компјутер.">
+<!ENTITY  manualUpdateGetMsg.label "Секогаш можете да ја добиете последната верзија од &brandShortName; на:">
+
 <!ENTITY  incompatibleCheck.label "Барам нови верзии на Вашите додатоци…">
 
 <!ENTITY  incompatibleCheck.title "Ја проверувам компатибилноста на додатоците">
