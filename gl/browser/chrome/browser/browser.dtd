@@ -302,8 +302,6 @@
 <!ENTITY copyAudioURLCmd.label        "Copiar localización do audio">
 <!ENTITY copyAudioURLCmd.accesskey    "a">
 <!ENTITY blockImageCmd.accesskey       "B">
-<!ENTITY metadataCmd.label            "Propiedades">
-<!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "Copiar correo electrónico">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Este marco">
