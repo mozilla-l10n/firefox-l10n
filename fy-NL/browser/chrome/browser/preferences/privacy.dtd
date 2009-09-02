@@ -10,6 +10,7 @@
 <!ENTITY  locbar.bookmarks.label        "Blêdwizers">
 <!ENTITY  locbar.nothing.label          "Neat">
 
+
 <!ENTITY  acceptCookies.label           "Cookies fan websteeën akseptearje">
 <!ENTITY  acceptCookies.accesskey       "C">
 
@@ -28,6 +29,7 @@
 
 <!ENTITY  showCookies.label             "Cookies sjen litte...">
 <!ENTITY  showCookies.accesskey         "t">
+
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; sil:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -55,8 +57,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "alle aktuele skiednis wiskje">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Automatysk &brandShortName; starte yn in privee sneupsessje">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "Permanente privee sneupsesje">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single

@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Arkbalken en betsjinnings op 'e nij inisjalisearje">
 <!ENTITY resetToolbars.accesskey      "i">
 
-<!ENTITY resetBookmarks.label         "Blêdwizers nei &brandShortName;-standertwearden tebeksette">
-<!ENTITY resetBookmarks.accesskey     "B">
+<!ENTITY deleteBookmarks.label        "Smyt alle blêdwizers fuort, útsein foar reservekopieën">
+<!ENTITY deleteBookmarks.accesskey    "r">
 
 <!ENTITY resetUserPrefs.label         "Alle brûkersfoarkarren nei &brandShortName;-standertwearden tebeksette">
 <!ENTITY resetUserPrefs.accesskey     "A">
