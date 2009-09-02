@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Installar il supplement">
 <!ENTITY cmd.installFileTheme.tooltip     "Installar il design">
-<!ENTITY cmd.installUpdatesAll.label      "Installar las actualisaziuns">
-<!ENTITY cmd.installUpdatesAll.accesskey  "u">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Installar las actualisaziuns tschernidas">
+<!ENTITY cmd.installUpdatesAll2.label      "Installar las actualisaziuns">
+<!ENTITY cmd.installUpdatesAll2.accesskey  "u">
+<!ENTITY cmd.installUpdatesAll2.tooltip    "Installar las actualisaziuns tschernidas">
 <!ENTITY cmd.restartApp2.label            "Reaviar &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "Reaviar &brandShortName; per surpigliar las midadas.">
