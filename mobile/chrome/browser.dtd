@@ -1,20 +1,11 @@
 <!ENTITY back.label "Anterior">
-<!ENTITY back.tooltip "Anterior">
 <!ENTITY forward.label "Siguiente">
-<!ENTITY forward.tooltip "Siguiente">
 <!ENTITY reload.label "Recargar">
-<!ENTITY reload.tooltip "Recargar">
 <!ENTITY stop.label "Parar">
-<!ENTITY stop.tooltip "Parar">
 <!ENTITY search.label "Buscar">
-<!ENTITY search.tooltip "Buscar">
 <!ENTITY go.label "Ir">
-<!ENTITY go.tooltip "Ir">
 <!ENTITY openLocation.label "Abrir enlace">
-<!ENTITY openLocation.tooltip "Abrir enlace">
 <!ENTITY star.label "Marcar">
-<!ENTITY star.tooltip "Añadir esta página a marcadores">
-<!ENTITY bookmarks.tooltip "Ver marcadores">
 <!ENTITY newtab.label "Nueva pestaña">
 <!ENTITY closetab.label "Cerrar pestaña">
 <!ENTITY cut.label "Cortar">
@@ -48,11 +39,12 @@
 <!ENTITY addonsRepo.label "Conseguir complementos">
 <!ENTITY addonsRecommended.label "Recomendados">
 <!ENTITY addonsSearch.label "Buscar">
-<!ENTITY addonsSearch.emptytext "Buscar en complementos">
+<!ENTITY addonsSearch2.emptytext "Buscar en el catálogo">
+<!ENTITY addonsSearch.recommended "Recomendados">
 <!ENTITY addonOptions.label "Opciones">
 <!ENTITY addonEnable.label "Activar">
 <!ENTITY addonDisable.label "Desactivar">
-<!ENTITY addonInstall.label "Instalar">
+<!ENTITY addonInstall2.label "Agregar a &brandShortName;">
 <!ENTITY addonUninstall.label "Desinstalar">
 <!ENTITY addonCancel.label "Cancelar">
 <!ENTITY addonShowPage.label "Ir a la página">
@@ -61,7 +53,7 @@
 <!ENTITY downloadsSortSite.label "Sitio">
 <!ENTITY downloadsSortName.label "Nombre">
 <!ENTITY downloadsSearch.label "Buscar">
-<!ENTITY downloadsSearch.emptytext "Buscar un archivo descargado">
+<!ENTITY downloadsSearch2.emptytext "Buscar">
 <!ENTITY downloadShowPage.label "Ir a la página">
 <!ENTITY downloadShow2.label "Buscar">
 <!ENTITY downloadOpen2.label "Abrir">
@@ -71,6 +63,7 @@
 <!ENTITY downloadRetry.label "Reintentar">
 <!ENTITY noResults.label "Sin resultados">
 <!ENTITY allBookmarks.label "Todos los marcadores">
+<!ENTITY searchEngine.addSearch "Añadir buscador:">
 <!ENTITY bookmarkPopup.label "Página añadida a marcadores">
 <!ENTITY bookmarkRemove.label "Eliminar">
 <!ENTITY bookmarkEdit.label "Editar">
