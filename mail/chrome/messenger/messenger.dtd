@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newAccountCmd.label "Cont…">
 <!ENTITY newAccountCmd.accesskey "C">
+<!ENTITY newMailAccountCmd.label "Cont de corespondență (setare rapidă)…">
+<!ENTITY newMailAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY openAttachmentCmd.label "Anexe">
@@ -110,8 +112,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "Bară de unelte pentru poștă">
-<!ENTITY showMessengerToolbarCmd.accesskey "B">
+<!ENTITY showMessengerToolbarCmd.label "Bară de unelte pentru corespondență">
+<!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Personalizare…">
 <!ENTITY customizeToolbar.accesskey "P">
 
@@ -198,6 +200,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "u">
 <!ENTITY ignoredThreadsCmd.label "Conversații ignorate">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "Antete">
 <!ENTITY headersMenu.accesskey "n">
 <!ENTITY headersAllCmd.label "Toate">
@@ -212,6 +215,16 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Text simplu">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+
+<!ENTITY bodyMenuFeed.label "Alimentează corpul mesajului ca">
+<!ENTITY bodyMenuFeed.accesskey "A">
+<!ENTITY viewFeedWebPage.label "Pagină web">
+<!ENTITY viewFeedWebPage.accesskey "w">
+<!ENTITY viewFeedSummary.label "Sumar">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Format implicit">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "F">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Afișează anexele în interiorul mesajului">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
@@ -298,6 +311,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY startPageCmd.label "Pagina de start a contului">
 <!ENTITY startPageCmd.accesskey "s">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Mesaj">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Mesaj nou">
@@ -317,6 +332,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Răspunde tuturor">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "R">
+<!ENTITY replyToListMsgCmd.label "Răspunde la listă">
+<!ENTITY replyToListMsgCmd.accesskey  "l">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Înaintează">
 <!ENTITY forwardMsgCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.key  "L">
@@ -395,6 +413,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Deschide mesajul">
 <!ENTITY openMessageWindowCmd.accesskey "D">
 <!ENTITY openMessageWindowCmd.key "O">
+<!ENTITY openFeedMessage.label "Deschide mesajul de flux">
+<!ENTITY openFeedMessage.accesskey "D">
+<!ENTITY openFeedWebPageInWindow.label "Pagină web în fereastră nouă">
+<!ENTITY openFeedWebPageInWindow.accesskey "w">
+<!ENTITY openFeedSummaryInWindow.label "Sumarul în fereastră nouă">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Alternează pagina web și sumarul în panoul de mesaj">
+<!ENTITY openFeedWebPageInMP.accesskey "t">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Fereastră">
@@ -402,8 +428,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Unelte">
 <!ENTITY tasksMenu.accesskey "t">
-<!ENTITY messengerCmd.label "Poștă și grupuri de discuții">
-<!ENTITY messengerCmd.accesskey "P">
+<!ENTITY messengerCmd.label "Corespondență și grupuri de discuții">
+<!ENTITY messengerCmd.accesskey "n">
 <!ENTITY addressBookCmd.label "Agendă de contacte">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
@@ -438,6 +464,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Scrie">
 <!ENTITY replyButton.label "Răspunde">
 <!ENTITY replyAllButton.label "Tuturor">
+<!ENTITY replyListButton.label "Răspunde listei">
 <!ENTITY forwardButton.label "Înaintează">
 <!ENTITY fileButton.label "Îndosariază">
 <!ENTITY nextButton.label "Următorul">
@@ -469,6 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Creează un mesaj nou">
 <!ENTITY replyButton.tooltip "Răspunde la acest mesaj">
 <!ENTITY replyAllButton.tooltip "Răspunde expeditorului și tuturor destinatarilor">
+<!ENTITY replyListButton.tooltip "Răspunde listei de discuții">
 <!ENTITY forwardButton.tooltip "Înaintează mesajul selectat">
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
 <!ENTITY nextButton.tooltip "Trece la următorul mesaj necitit">
@@ -594,6 +622,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      present in the gloda search results.  The values can be found in
      messenger.properties with a prefix of "glodaSearch_results_why_". -->
 <!ENTITY glodaWhyColumn.label "De ce">
+<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
+     score assigned to the message as a result of the search.  The column
+     primarily exists to be sorted by, and its contents will probably have
+     little meaning for most users. -->
+<!ENTITY glodaScoreColumn.label "Scor">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clic pentru a selecta coloanele de afișat">
@@ -617,6 +650,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
 <!ENTITY attachmentColumn.tooltip "Clic pentru a sorta după anexe">
 <!ENTITY glodaWhyColumn.tooltip "Clic pentru a sorta după motivul pentru care mesajele sunt în rezultatele căutării">
+<!ENTITY glodaScoreColumn.tooltip "Clic pentru sortare după scorul potrivirii">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Deschide mesajul în fereastră nouă">
@@ -631,6 +665,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "w">
 <!ENTITY contextReplyAll.label "Răspunde tuturor">
 <!ENTITY contextReplyAll.accesskey "s">
+<!ENTITY contextReplyList.label "Răspunde listei">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Înaintează">
 <!ENTITY contextForward.accesskey "a">
 <!ENTITY contextForwardAsAttachment.label "Retrimite ca anexă">
@@ -654,8 +690,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "Pentru a vă proteja intimitatea, nu s-au încărcat imaginile aflate la distanță.">
-<!ENTITY loadRemoteContentButton2.label "Afișează imaginile acum">
+<!ENTITY remoteContentMessage2.label "Pentru a vă proteja intimitatea, &brandShortName; a blocat în acest mesaj conținutul aflat la distanță.">
+<!ENTITY loadRemoteContentButton3.label "Arată conținutul aflat la distanță">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Mesajul acesta poate fi o înșelătorie.">

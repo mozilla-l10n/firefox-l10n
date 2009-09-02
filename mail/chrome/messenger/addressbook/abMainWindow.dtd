@@ -101,8 +101,8 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Unelte">
 <!ENTITY tasksMenu.accesskey                            "t">
-<!ENTITY messengerCmd.label                             "Email și grupuri de discuții">
-<!ENTITY messengerCmd.accesskey                         "m">
+<!ENTITY messengerCmd.label                             "Corespondență și grupuri de discuții">
+<!ENTITY messengerCmd.accesskey                         "C">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Caută adrese…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
@@ -152,8 +152,8 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Nume de afișat">
-<!ENTITY ScreenName.accesskey                           "N">
+<!ENTITY ScreenName.label                               "Numele pentru mesagerie">
+<!ENTITY ScreenName.accesskey                           "s">
 <!ENTITY Company.label                                  "Organizația">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Pseudonim">

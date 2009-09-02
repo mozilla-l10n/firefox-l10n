@@ -18,14 +18,14 @@
 <!ENTITY retentionKeepMsg.accesskey "g">
 <!ENTITY retentionKeepAll.label "Nu șterge nici un mesaj">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Șterge toate în afară de ultimele">
-<!ENTITY retentionKeepNew.accesskey "u">
-<!ENTITY retentionKeepUnread.label "Șterge mereu mesajele citite">
-<!ENTITY retentionKeepUnread.accesskey "c">
+<!ENTITY retentionKeepRecent.label "Șterge tot cu excepția celor mai recente">
+<!ENTITY retentionKeepRecent.accesskey "t">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Șterge mereu mesajele citite (suprascrie setările de vechime)">
 <!ENTITY retentionApplyToFlagged.label "Păstrează întotdeauna mesajele cu steluță">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveBody.label "Doar corpurile mesajelor de mai puțin de">
-<!ENTITY nntpRemoveBody.accesskey "p">
+<!ENTITY nntpRemoveMsgBody.label "Elimină corpul mesajelor mai mari de">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat…">
 <!ENTITY offlineSelectNntp.accesskey "A">
 <!ENTITY offlineImapAdvancedOffline.label "Avansat…">

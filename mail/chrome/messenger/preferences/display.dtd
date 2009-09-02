@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Culoare:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayWidth.label               "Mesaje text">
-<!ENTITY plainText.label                  "Folosește următorul font:">
 <!ENTITY displayText.label                "Pentru afișarea mesajelor text citate:">
-<!ENTITY fixedWidth.label                 "Font cu lățime fixă">
-<!ENTITY fixedWidth.accesskey             "x">
-<!ENTITY variableWidth.label              "Font cu lățime variabilă">
-<!ENTITY variableWidth.accesskey          "v">
 <!ENTITY colors.label                     "Culori">
 <!ENTITY overrideColors.label             "Culori folosite la afișarea mesajelor:">
 <!ENTITY textColor.label                  "Culoare text:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "t">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Configurează fonturile și seturile de caractere folosite de &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Fonturi și codări">
+<!ENTITY fontsAndColors.label    "Fonturi ">
+<!ENTITY defaultFont.label       "Font implicit:">
+<!ENTITY defaultFont.accesskey   "F">
+<!ENTITY defaultSize.label       "Mărime:">
+<!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "F">
 <!ENTITY fontOptions.label       "Fonturi…">

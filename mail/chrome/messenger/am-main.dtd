@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Organizație:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Atașează următoarea semnătură:">
-<!ENTITY signature.accesskey "s">
+<!ENTITY signatureText.label "Textul semnăturii:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Folosește HTML (ex: &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Anexează semnătura dintr-un fișier (text, html sau imagine):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Editează…">
 <!ENTITY choose.label "Alege…">
 <!ENTITY choose.accesskey "A">

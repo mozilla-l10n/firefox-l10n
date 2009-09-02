@@ -47,8 +47,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.windowTitle "Import">
 <!ENTITY importAll.label          "Importă totul">
 <!ENTITY importAll.accesskey      "I">
-<!ENTITY importMail.label         "Mesaje">
-<!ENTITY importMail.accesskey     "M">
+<!ENTITY importMail.label         "Corespondență">
+<!ENTITY importMail.accesskey     "C">
 <!ENTITY importAddressbook.label  "Agende de contacte">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Setări">

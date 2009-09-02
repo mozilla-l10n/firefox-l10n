@@ -50,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "Configurează aspectul textului">
 <!ENTITY sendOptions.label                     "Opțiuni de trimitere…">
 <!ENTITY sendOptions.accesskey                 "O">
+
+<!ENTITY attachmentReminder.label              "Verifică dacă lipsesc anexele">
+<!ENTITY attachmentReminder.accesskey          "V">
+<!ENTITY attachmentReminderOptions.label       "Cuvinte cheie…">
+<!ENTITY attachmentReminderOptions.accesskey   "C">
