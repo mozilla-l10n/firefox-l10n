@@ -10,25 +10,6 @@
 <!ENTITY  locbar.bookmarks.label        "Segnapaginas">
 <!ENTITY  locbar.nothing.label          "Nagut">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "Memorisar la cronologia almain">
-<!ENTITY  rememberDaysBefore.accesskey  "m">
-<!ENTITY  rememberDaysAfter2.label      "dis">
-
-<!ENTITY  rememberForms.label           "Memorisar datas che vegnan endatadas en formulars ed en la trav da tschertgar">
-<!ENTITY  rememberForms.accesskey       "d">
-
-<!ENTITY  rememberDownloads.label       "Tegnair endament las datotecas telechargiadas">
-<!ENTITY  rememberDownloads.accesskey   "h">
-
-
-<!ENTITY  cookies.label                 "Cookies">
-
 <!ENTITY  acceptCookies.label           "Acceptar ils cookies">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -48,14 +29,6 @@
 <!ENTITY  showCookies.label             "Mussar ils cookies...">
 <!ENTITY  showCookies.accesskey         "o">
 
-
-<!ENTITY  privateData.label             "Datas privatas">
-
-<!ENTITY  alwaysClear.label              "Stizzar las datas privatas, sche &brandShortName; vegn serrà">
-<!ENTITY  alwaysClear.accesskey          "d">
-
-<!ENTITY  clearDataSettings.label        "Preferenzas...">
-<!ENTITY  clearDataSettings.accesskey    "e">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; vegn a far il suandant:">
 <!ENTITY  historyHeader.pre.accesskey      "v">
@@ -107,6 +80,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Preferenzas…">
 <!ENTITY  clearOnCloseSettings.accesskey "z">
-
-<!ENTITY  clearDataNow.label             "Stizzar ussa...">
-<!ENTITY  clearDataNow.accesskey         "S">
