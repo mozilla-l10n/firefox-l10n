@@ -18,31 +18,21 @@
 <!ENTITY helpForIEUsers.label     "Per utilisaders da l'Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "P">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey   "?">
 
 <!ENTITY helpReleaseNotes.label         "Remartgas davart la versiun">
 <!ENTITY helpReleaseNotes.accesskey     "R">
 <!ENTITY updateCmd.label                "&brandShortName; actualisar...">
-<!ENTITY updateCmd.accesskey            "a">
 
 <!ENTITY preferencesCmdMac.label        "Preferenzas...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Servetschs">
 
 <!ENTITY hideThisAppCmdMac.label        "Zuppentar &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "Z">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Zuppentar auters">
 <!ENTITY hideOtherAppsCmdMac.commandkey "Z">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Mussar tuts">
