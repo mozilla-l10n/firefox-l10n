@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Agiuntar in segnapagina per questa pagina…">
+<!ENTITY cmd.bookmarkLink.accesskey     "A">
 <!ENTITY cmd.delete.label               "Stizzar questa pagina">
 <!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Emblidar questa website">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Enavos">
-<!ENTITY backCmd.accesskey   "E">
 <!ENTITY backButton.tooltip  "A la pagina precedenta">
 
 <!ENTITY forwardCmd.label       "Enavant">
-<!ENTITY forwardCmd.accesskey   "v">
 <!ENTITY forwardButton.tooltip  "A la proxima pagina">
 
 <!ENTITY detailsPane.more.label "Dapli">

@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "t">
 <!ENTITY openInNewWindow.label "Avrir en ina nova fanestra">
 <!ENTITY openInNewWindow.accesskey "i">
-<!ENTITY bookmarkLink.label "Agiuntar in segnapagina per questa colliaziun...">
-<!ENTITY bookmarkLink.accesskey "A">
 <!ENTITY copyLink.label "Copiar l'adressa da la colliaziun">
 <!ENTITY copyLink.accesskey "C">
