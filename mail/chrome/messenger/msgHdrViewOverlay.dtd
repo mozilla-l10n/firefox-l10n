@@ -66,10 +66,16 @@
 <!ENTITY trashButton.tooltiptext "Sil">
 
 <!ENTITY otherActionsButton.label "Diğer eylemler">
+<!ENTITY otherActionsOpenInNewWindow.label "Yeni pencerede aç">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "Y">
+<!ENTITY otherActionsOpenInNewTab.label "Yeni sekmede aç">
+<!ENTITY otherActionsOpenInNewTab.accesskey "s">
 <!ENTITY saveAsMenuItem.label "Farklı kaydet…">
 <!ENTITY saveAsMenuItem.accesskey "F">
-<!ENTITY viewSourceMenuItem.label "Kaynağını göster…">
+<!ENTITY viewSourceMenuItem.label "Kaynağını göster">
 <!ENTITY viewSourceMenuItem.accesskey "K">
+<!ENTITY otherActionsPrint.label "Yazdır…">
+<!ENTITY otherActionsPrint.accesskey "r">
 
 <!ENTITY openAttachmentCmd.label "Aç">
 <!ENTITY openAttachmentCmd.accesskey "A">
