@@ -13,10 +13,10 @@
 <!ENTITY newFolderCmd.accesskey         "F">
 <!ENTITY newVirtualFolderCmd.label      "Folder wyszukiwania…">
 <!ENTITY newVirtualFolderCmd.accesskey  "e">
-<!ENTITY newAccountCmd.label            "Konto…">
-<!ENTITY newAccountCmd.accesskey        "o">
-<!ENTITY newMailAccountCmd.label        "Konto pocztowe…">
-<!ENTITY newMailAccountCmd.accesskey    "K">
+<!ENTITY newEmailAccountCmd.label       "Konto pocztowe…">
+<!ENTITY newEmailAccountCmd.accesskey   "K">
+<!ENTITY newOtherAccountsCmd.label      "Konto…">
+<!ENTITY newOtherAccountsCmd.accesskey  "o">
 <!ENTITY openMessageFileCmd.label       "Otwórz zapisaną wiadomość">
 <!ENTITY openMessageFileCmd.accesskey   "O">
 <!ENTITY openAttachmentCmd.label        "Załączniki">
