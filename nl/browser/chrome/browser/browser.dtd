@@ -314,8 +314,6 @@
 <!ENTITY copyAudioURLCmd.label        "Audiolocatie kopiëren">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "b">
-<!ENTITY metadataCmd.label            "Eigenschappen">
-<!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "E-mailadres kopiëren">
 <!ENTITY copyEmailCmd.accesskey       "m">
 <!ENTITY thisFrameMenu.label              "Dit deelvenster">
