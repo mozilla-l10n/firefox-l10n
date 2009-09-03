@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Avrir la datoteca...">
 <!ENTITY newWindow.label "Nova fanestra">
 <!ENTITY newTab.label "Nov tab">
-<!ENTITY topWindow.label "Fanestra actuala">
+<!ENTITY topTab.label "Tab actual">
 <!ENTITY caption.label "Avrir l'adressa da web">
 <!ENTITY openWhere.label "Avrir en:">
 <!ENTITY openBtn.label "Avrir">
