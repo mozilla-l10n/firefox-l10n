@@ -66,10 +66,16 @@
 <!ENTITY trashButton.tooltiptext "verwijderen">
 
 <!ENTITY otherActionsButton.label "andere acties">
+<!ENTITY otherActionsOpenInNewWindow.label "Openen in nieuw venster">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "v">
+<!ENTITY otherActionsOpenInNewTab.label "Openen in nieuw tabblad">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
 <!ENTITY saveAsMenuItem.label "opslaan als…">
 <!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "bron bekijken…">
+<!ENTITY viewSourceMenuItem.label "bron bekijken">
 <!ENTITY viewSourceMenuItem.accesskey "b">
+<!ENTITY otherActionsPrint.label "afdrukken…">
+<!ENTITY otherActionsPrint.accesskey "a">
 
 <!ENTITY openAttachmentCmd.label "Openen">
 <!ENTITY openAttachmentCmd.accesskey "O">
