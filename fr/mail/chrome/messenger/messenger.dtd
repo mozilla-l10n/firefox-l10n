@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "m">
 <!ENTITY newVirtualFolderCmd.label "Dossier virtuel…">
 <!ENTITY newVirtualFolderCmd.accesskey "v">
-<!ENTITY newAccountCmd.label "Compte…">
-<!ENTITY newAccountCmd.accesskey "m">
-<!ENTITY newMailAccountCmd.label "Compte (configuration rapide)…">
-<!ENTITY newMailAccountCmd.accesskey "o">
+<!ENTITY newOtherAccountsCmd.label "Autres comptes…">
+<!ENTITY newOtherAccountsCmd.accesskey "m">
+<!ENTITY newEmailAccountCmd.label "Comptes courrier…">
+<!ENTITY newEmailAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Pièces jointes">
