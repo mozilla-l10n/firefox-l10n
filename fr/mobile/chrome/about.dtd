@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "À propos de &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Assistance">
+<!ENTITY aboutPage.privacyPolicy.label          "Politique de confidentialité">
+<!ENTITY aboutPage.rights.label                 "À propos de vos droits">
+<!ENTITY aboutPage.relNotes.label               "Notes de version">
+<!ENTITY aboutPage.credits.label                "Les contributeurs">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Les contributeurs. Tous droits réservés. (">
+<!ENTITY aboutPage.licenseLink                  "Information de licence">
+<!ENTITY aboutPage.copyrightInfo2               ").">
