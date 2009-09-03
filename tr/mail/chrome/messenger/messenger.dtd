@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Kayıtlı arama sonuçları…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-<!ENTITY newAccountCmd.label "Hesap…">
-<!ENTITY newAccountCmd.accesskey "H">
-<!ENTITY newMailAccountCmd.label "E-posta hesabı (hızlı ayarlar)…">
-<!ENTITY newMailAccountCmd.accesskey "h">
+<!ENTITY newOtherAccountsCmd.label "Diğer hesaplar…">
+<!ENTITY newOtherAccountsCmd.accesskey "D">
+<!ENTITY newEmailAccountCmd.label "Posta hesapları…">
+<!ENTITY newEmailAccountCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Kaydedilmiş iletiyi aç…">
 <!ENTITY openMessageFileCmd.accesskey "d">
 <!ENTITY openAttachmentCmd.label "Ekler">
