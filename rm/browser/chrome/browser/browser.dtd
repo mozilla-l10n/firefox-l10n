@@ -34,6 +34,8 @@
 <!ENTITY goOfflineCmd.label "Lavurar offline">
 <!ENTITY goOfflineCmd.accesskey "o">
 
+<!ENTITY menubarCmd.label "Trav da menu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Trav d'utensils per navigar">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Trav d'utensils dals segnapaginas">
@@ -50,6 +52,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Maletg entir">
 <!ENTITY fullScreenCmd.accesskey "M">
+<!ENTITY showAllTabsCmd.label "Mussar tut ils tabs">
+<!ENTITY showAllTabsCmd.accesskey "t">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -99,15 +103,15 @@
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Pagina da partenza">
 
-<!ENTITY bookmarksButton.label          "Segnapagina">
-<!ENTITY bookmarksButton.tooltip        "Avra tia glista dals segnapaginas">
-<!ENTITY bookmarksSidebarCmd.accesskey  "L">
-<!ENTITY bookmarksSidebarCmd.commandkey "B">
+<!ENTITY bookmarksButton.label         "Segnapagina">
+<!ENTITY bookmarksButton.tooltip       "Avra tia glista dals segnapaginas">
+<!ENTITY bookmarksButton.accesskey     "S">
+<!ENTITY bookmarksCmd.commandkey       "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey    "o">
+<!ENTITY bookmarksWinCmd.commandkey    "i">
 
 <!ENTITY historyButton.label            "Cronologia">
 <!ENTITY historyButton.tooltip          "Mussa las paginas che ti has visità dacurt">
@@ -198,7 +202,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Tschertgar en la cronologia ed en ils segnapaginas">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Tschertgar en ils segnapaginas e la cronica">
 <!ENTITY urlbar.bookmark.emptyText    "Tschertgar segnapaginas">
 <!ENTITY urlbar.history.emptyText     "Tschertgar en la cronica">
@@ -368,6 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Tagliar ora">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Encollar">
+<!ENTITY fullScreenButton.tooltip       "Mussar la fanestra en maletg entir">
 
 <!ENTITY quitApplicationCmdWin.label       "Terminar"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "T">
@@ -444,4 +448,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Cliccar per avrir la fanestra da telechargiadas">
 
-<!ENTITY ctrlTab.search.emptyText "Tschertgar en ils tabs">
+<!ENTITY allTabs.filter.emptyText "Tschertgar en ils tabs">
