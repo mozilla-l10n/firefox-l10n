@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Redefinir tut las travs d'utensils">
 <!ENTITY resetToolbars.accesskey      "s">
 
-<!ENTITY resetBookmarks.label         "Redefinir tut ils segnapaginas tenor il standard da &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "l">
+<!ENTITY deleteBookmarks.label        "Stizzar tut ils segnapaginas auter che las datotecas da segirezza">
+<!ENTITY deleteBookmarks.accesskey    "g">
 
 <!ENTITY resetUserPrefs.label         "Redefinir tut las preferenzas persunalisadas">
 <!ENTITY resetUserPrefs.accesskey     "R">

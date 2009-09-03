@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Modus privat)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nov tab">
 <!ENTITY tabCmd.accesskey "t">
@@ -92,6 +90,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Interrumper da chargiar questa pagina">
 <!ENTITY goEndCap.tooltip             "Chargiar l'adressa endatada en la trav d'adressas">
+<!ENTITY feedButton.tooltip           "Abunar questa pagina…">
 <!ENTITY printButton.label            "Stampar">
 <!ENTITY printButton.tooltip          "Stampar questa pagina">
 
