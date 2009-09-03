@@ -9,10 +9,11 @@
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Opgeslagen zoekopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
-<!ENTITY newAccountCmd.label "Account…">
-<!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY newMailAccountCmd.label "E-mailaccount (Snelle set-up)…">
-<!ENTITY newMailAccountCmd.accesskey "S">
+<!ENTITY newOtherAccountsCmd.label "Andere Accounts…">
+<!ENTITY newOtherAccountsCmd.accesskey "A">
+<!ENTITY newEmailAccountCmd.label "E-mailaccount…">
+<!ENTITY newEmailAccountCmd.accesskey "E">
+
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
