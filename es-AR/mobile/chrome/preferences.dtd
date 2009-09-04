@@ -1,4 +1,7 @@
 <!ENTITY prefsHeader.label                         "Preferencias">
+<!ENTITY about.title                               "Acerca de &brandShortName;">
+<!ENTITY about.button                              "Ir a la página">
+<!ENTITY about.description                         "Obtener ayuda e información del producto">
 <!ENTITY content.title                             "Contenido">
 <!ENTITY showImages.title                          "Mostrar imágenes">
 <!ENTITY enableJavaScript.title                    "Habilitar JavaScript">

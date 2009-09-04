@@ -1,20 +1,11 @@
 <!ENTITY back.label            "Atrás">
-<!ENTITY back.tooltip          "Atrás">
 <!ENTITY forward.label         "Adelante">
-<!ENTITY forward.tooltip       "Adelante">
 <!ENTITY reload.label          "Recargar">
-<!ENTITY reload.tooltip        "Recargar">
 <!ENTITY stop.label            "Detener">
-<!ENTITY stop.tooltip          "Detener">
 <!ENTITY search.label          "Buscar">
-<!ENTITY search.tooltip        "Buscar">
 <!ENTITY go.label              "Ir">
-<!ENTITY go.tooltip            "Ir">
 <!ENTITY openLocation.label    "Abrir dirección">
-<!ENTITY openLocation.tooltip  "Abrir dirección">
 <!ENTITY star.label            "Destacado">
-<!ENTITY star.tooltip          "Marcar esta p\u00E1gina">
-<!ENTITY bookmarks.tooltip     "Ver marcadores">
 
 <!ENTITY newtab.label          "Nueva pestaña">
 <!ENTITY closetab.label        "Cerrar pestaña">
@@ -55,12 +46,13 @@
 <!ENTITY addonsRepo.label          "Obtener agregados">
 <!ENTITY addonsRecommended.label   "Recomendado">
 <!ENTITY addonsSearch.label        "Buscar">
-<!ENTITY addonsSearch.emptytext    "Buscar agregados">
+<!ENTITY addonsSearch2.emptytext   "Buscar en catálogo">
+<!ENTITY addonsSearch.recommended  "Recomendado">
 
 <!ENTITY addonOptions.label        "Opciones">
 <!ENTITY addonEnable.label         "Habilitar">
 <!ENTITY addonDisable.label        "Deshabilitar">
-<!ENTITY addonInstall.label        "Instalar">
+<!ENTITY addonInstall2.label       "Agregar a &brandShortName;">
 <!ENTITY addonUninstall.label      "Desinstalar">
 <!ENTITY addonCancel.label         "Cancelar">
 <!ENTITY addonShowPage.label       "Ir a la página">
@@ -70,7 +62,7 @@
 <!ENTITY downloadsSortSite.label   "Sitio">
 <!ENTITY downloadsSortName.label   "Nombre">
 <!ENTITY downloadsSearch.label     "Buscar">
-<!ENTITY downloadsSearch.emptytext "Buscar archivo descargado">
+<!ENTITY downloadsSearch2.emptytext "Buscar">
 
 <!ENTITY downloadShowPage.label    "Ir a la página">
 <!ENTITY downloadShow2.label       "Buscar">
@@ -82,6 +74,8 @@
 
 <!ENTITY noResults.label           "Sin resultados">
 <!ENTITY allBookmarks.label        "Ver todos los marcadores">
+
+<!ENTITY searchEngine.addSearch     "Agregar buscador:">
 
 <!ENTITY bookmarkPopup.label       "Página marcada">
 <!ENTITY bookmarkRemove.label      "Eliminar">
