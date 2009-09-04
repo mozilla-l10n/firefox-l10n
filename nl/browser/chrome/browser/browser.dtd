@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Volledig scherm">
 <!ENTITY fullScreenCmd.accesskey "d">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Alle tabbladen tonen">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
