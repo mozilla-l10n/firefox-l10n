@@ -25,7 +25,7 @@
 <!ENTITY alwaysCheckDefault.label "Kontroleer altyd aan die begin om te sien of &brandShortName; die verstekblaaier is">
 <!ENTITY alwaysCheckDefault.accesskey "a">
 <!ENTITY checkNow.label "Kontroleer nou">
-<!ENTITY checkNow.accesskey "N">
+<!ENTITY checkNow.accesskey "n">
 
 <!ENTITY networkTab.label "Netwerk">
 

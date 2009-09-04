@@ -1,0 +1,43 @@
+<!ENTITY itemJunk.label "Gemors">
+<!ENTITY itemPhishing.label "E-posswendelary">
+<!ENTITY itemPasswords.label "Wagwoorde">
+<!ENTITY itemAntiVirus.label "Viruswering">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "Stel u verstek-gemorsposopstelling op. Rekening-spesifieke gemorsposstellings kan in Rekeningopstelling verander word.">
+<!ENTITY manualMark.label "When I mark messages as junk:">
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Delete them">
+<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY openJunkLog.label "Show log">
+<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.accesskey "R">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector1.intro "&brandShortName; kan boodskappe ontleed vir moontlike e-posswendelary deur te let op algemene tegnieke om u om die bos te lei.">
+<!ENTITY enablePhishingDetector1.label "Tell me if the message I'm reading is a suspected email scam">
+<!ENTITY enablePhishingDetector1.accesskey "T">
+<!ENTITY useDownloadedList.label "Gebruik 'n afgelaaide lys vermoede e-posswendelary">
+<!ENTITY useDownloadedList.accesskey "G">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro "&brandShortName; can remember passwords for all of your accounts.">
+<!ENTITY useMasterPassword.label "Gebruik 'n meesterwagwoord">
+<!ENTITY useMasterPassword.accesskey "G">
+<!ENTITY masterPassword.intro "A Master Password protects all your passwords, but you must enter it once per session.">
+<!ENTITY changeMasterPassword.label "Change Master Password…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label "Saved Passwords…">
+<!ENTITY savedPasswords.accesskey "S">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro "&brandShortName; maak dit maklik vir viruswering om inkomende posboodskappe vir virusse te ontleed voor hulle plaaslik gestoor word.">
+<!ENTITY antiVirus.label "Allow anti-virus clients to quarantine individual incoming messages">
+<!ENTITY antiVirus.accesskey "A">

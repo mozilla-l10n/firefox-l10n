@@ -7,4 +7,4 @@
 <!ENTITY copyCmd.label "Kopieer">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Merk alles">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.accesskey "a">

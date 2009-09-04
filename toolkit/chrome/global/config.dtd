@@ -62,9 +62,9 @@
 <!ENTITY copyPref.label "Kopieer">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Kopieer naam">
-<!ENTITY copyName.accesskey "N">
+<!ENTITY copyName.accesskey "n">
 <!ENTITY copyValue.label "Kopieer waarde">
-<!ENTITY copyValue.accesskey "W">
+<!ENTITY copyValue.accesskey "w">
 <!ENTITY modify.label "Wysig">
 <!ENTITY modify.accesskey "W">
 <!ENTITY toggle.label "Swik">

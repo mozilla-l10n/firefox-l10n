@@ -16,10 +16,10 @@
 <!-- No ":" at the end -->
 
 <!ENTITY reportForm.behind_login.title "Webwerf is wagwoordbeskermd">
-<!ENTITY reportForm.behind_login.accesskey "W">
+<!ENTITY reportForm.behind_login.accesskey "w">
 
 <!ENTITY reportForm.problem_type.title "Probleemsoort:">
-<!ENTITY reportForm.problem_type.accesskey "S">
+<!ENTITY reportForm.problem_type.accesskey "s">
 
 <!ENTITY reportForm.problem_type.chooseOne.title "Kies een…">
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->

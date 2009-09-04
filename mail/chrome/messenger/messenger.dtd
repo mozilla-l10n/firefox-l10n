@@ -11,6 +11,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "Account…">
 <!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY newMailAccountCmd.label "Mail Account (Quick Setup)…">
+<!ENTITY newMailAccountCmd.accesskey "Q">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Aanhegsels">
@@ -43,19 +45,17 @@
 <!ENTITY compactFolders.label "Compact Folders">
 <!ENTITY compactFolders.accesskey "F">
 <!ENTITY emptyTrashCmd.label "Maak snippermandjie leeg">
-<!ENTITY emptyTrashCmd.accesskey "m">
-<!ENTITY importCmd.label "Import…">
-<!ENTITY importCmd.accesskey "I">
+<!ENTITY emptyTrashCmd.accesskey "M">
 <!ENTITY offlineMenu.label "Aflyn">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Werk aflyn">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY offlineGoOfflineCmd.accesskey "W">
 <!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Offline Settings…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Kry gemerkte boodskappe">
-<!ENTITY downloadSelectedCmd.accesskey "k">
+<!ENTITY downloadSelectedCmd.accesskey "K">
 <!ENTITY downloadStarredCmd.label "Kry gevlagde boodskappe">
 <!ENTITY downloadStarredCmd.accesskey "g">
 <!ENTITY printCmd.label "Print…">
@@ -72,7 +72,7 @@
 <!ENTITY undeleteMsgCmd.label "Ontskrap boodskap">
 <!ENTITY undeleteMsgCmd.accesskey "t">
 <!ENTITY cancelNewsMsgCmd.label "Kanselleer boodskap">
-<!ENTITY cancelNewsMsgCmd.accesskey "B">
+<!ENTITY cancelNewsMsgCmd.accesskey "b">
 <!ENTITY deleteMsgsCmd.label "Skrap gemerkte boodskappe">
 <!ENTITY deleteMsgsCmd.accesskey "S">
 <!ENTITY undeleteMsgsCmd.label "Ontskrap gemerkte boodskappe">
@@ -92,21 +92,20 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Starred Messages">
 <!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY menuFavoriteFolder.label "Gunsteling-vouer">
-<!ENTITY menuFavoriteFolder.accesskey "u">
+<!ENTITY menuFavoriteFolder.label "Favorite Folder">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "Properties…">
 <!ENTITY folderPropsFolderCmd.label "Folder Properties…">
 <!ENTITY folderPropsNewsgroupCmd.label "Newsgroup Properties…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Account Settings…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "R">
 <!ENTITY undoDeleteMsgCmd.label "Ontdoen skrap van boodskap">
 <!ENTITY redoDeleteMsgCmd.label "Herdoen skrap van boodskap">
 <!ENTITY undoMoveMsgCmd.label "Ontdoen skuif van boodskap">
 <!ENTITY redoMoveMsgCmd.label "Herdoen skuif van boodskap">
 <!ENTITY undoCopyMsgCmd.label "Ontdoen kopieer van boodskap">
 <!ENTITY redoCopyMsgCmd.label "Herdoen kopieer van boodskap">
+<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
+<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
 <!ENTITY undoDefaultCmd.label "Ontdoen">
 <!ENTITY undoDefaultCmd.accesskey "O">
 <!ENTITY redoDefaultCmd.label "Herdoen">
@@ -158,11 +157,11 @@
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "Merkers">
-<!ENTITY sortByTagsCmd.accesskey "m">
+<!ENTITY sortByTagsCmd.accesskey "M">
 <!ENTITY sortByJunkStatusCmd.label "Gemors-status">
 <!ENTITY sortByJunkStatusCmd.accesskey "G">
 <!ENTITY sortBySubjectCmd.label "Onderwerp">
-<!ENTITY sortBySubjectCmd.accesskey "o">
+<!ENTITY sortBySubjectCmd.accesskey "O">
 <!ENTITY sortByFromCmd.label "From">
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Ontvanger">
@@ -174,11 +173,11 @@
 <!ENTITY sortAscending.label "Oplopend">
 <!ENTITY sortAscending.accesskey "O">
 <!ENTITY sortDescending.label "Aflopend">
-<!ENTITY sortDescending.accesskey "F">
+<!ENTITY sortDescending.accesskey "f">
 <!ENTITY sortThreaded.label "Gedraad">
 <!ENTITY sortThreaded.accesskey "G">
 <!ENTITY sortUnthreaded.label "Ongedraad">
-<!ENTITY sortUnthreaded.accesskey "o">
+<!ENTITY sortUnthreaded.accesskey "O">
 <!ENTITY groupBySort.label "Groepeer volgens rangskikking">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Boodskappe">
@@ -191,7 +190,7 @@
 <!ENTITY expandAllThreadsCmd.accesskey "V">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Vou alle drade in">
-<!ENTITY collapseAllThreadsCmd.accesskey "O">
+<!ENTITY collapseAllThreadsCmd.accesskey "o">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Ongelees">
 <!ENTITY unreadMsgsCmd.accesskey "O">
@@ -200,23 +199,34 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Dopgehoude drade met ongelees">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "D">
 <!ENTITY ignoredThreadsCmd.label "Geïgnoreerde drade">
-<!ENTITY ignoredThreadsCmd.accesskey "g">
+<!ENTITY ignoredThreadsCmd.accesskey "G">
+
 <!ENTITY headersMenu.label "Kopskrifte">
 <!ENTITY headersMenu.accesskey "K">
 <!ENTITY headersAllCmd.label "Almal">
 <!ENTITY headersAllCmd.accesskey "A">
-<!ENTITY headersNormalCmd.label "Gewoon">
-<!ENTITY headersNormalCmd.accesskey "G">
+<!ENTITY headersNormalCmd.label "Normal">
+<!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Boodskaplyf as">
-<!ENTITY bodyMenu.accesskey "L">
+<!ENTITY bodyMenu.accesskey "l">
 <!ENTITY bodyAllowHTML.label "Oorspronklike HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Eenvoudige HTML">
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Skoonteks">
 <!ENTITY bodyAsPlaintext.accesskey "S">
+
+<!ENTITY bodyMenuFeed.label "Feed Message Body As">
+<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Summary">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Wys aanhegsels inlyn">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -224,37 +234,25 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label "Zoom In">
-<!ENTITY fullZoomEnlargeCmd.accesskey "I">
+<!ENTITY fullZoomEnlargeCmd.label "Zoem in">
+<!ENTITY fullZoomEnlargeCmd.accesskey "i">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "Project-Id-Version: PACKAGE VERSION
-Report-Msgid-Bugs-To: 
-POT-Creation-Date: 2007-08-07 11:12+0200
-PO-Revision-Date: 2007-10-08 15:00+0200
-Last-Translator: FULL NAME <EMAIL@ADDRESS>
-Language-Team: LANGUAGE <LL@li.org>
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-Plural-Forms: nplurals=2; plural=(n != 1);
-X-Generator: Pootle 1.0.2
-X-Accelerator-Marker: 
-">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label "Zoom Out">
-<!ENTITY fullZoomReduceCmd.accesskey "O">
+<!ENTITY fullZoomReduceCmd.label "Zoem uit">
+<!ENTITY fullZoomReduceCmd.accesskey "u">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 
-<!ENTITY fullZoomResetCmd.label "Reset">
-<!ENTITY fullZoomResetCmd.accesskey "R">
+<!ENTITY fullZoomResetCmd.label "Teruglaai">
+<!ENTITY fullZoomResetCmd.accesskey "T">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 
-<!ENTITY fullZoomToggleCmd.label "Zoom Text Only">
-<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoomToggleCmd.label "Zoem net teks">
+<!ENTITY fullZoomToggleCmd.accesskey "t">
 <!ENTITY fullZoom.label "Zoom">
 <!ENTITY fullZoom.accesskey "Z">
 
@@ -284,9 +282,9 @@ X-Accelerator-Marker:
 <!ENTITY goMenu.label "Gaan">
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "Volgende">
-<!ENTITY nextMenu.accesskey "N">
+<!ENTITY nextMenu.accesskey "n">
 <!ENTITY nextMsgCmd.label "Boodskap">
-<!ENTITY nextMsgCmd.accesskey "O">
+<!ENTITY nextMsgCmd.accesskey "o">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Ongelese boodskap">
 <!ENTITY nextUnreadMsgCmd.accesskey "O">
@@ -299,7 +297,7 @@ X-Accelerator-Marker:
 <!ENTITY prevMenu.label "Vorige">
 <!ENTITY prevMenu.accesskey "V">
 <!ENTITY prevMsgCmd.label "Boodskap">
-<!ENTITY prevMsgCmd.accesskey "O">
+<!ENTITY prevMsgCmd.accesskey "o">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Ongelese boodskap">
 <!ENTITY prevUnreadMsgCmd.accesskey "O">
@@ -313,13 +311,18 @@ X-Accelerator-Marker:
 <!ENTITY prevStarredMsgCmd.label "Gevlagde boodskap">
 <!ENTITY prevStarredMsgCmd.accesskey "G">
 <!ENTITY startPageCmd.label "Posbeginbladsy">
-<!ENTITY startPageCmd.accesskey "B">
+<!ENTITY startPageCmd.accesskey "b">
+<!-- Message Menu -->
+
 <!ENTITY msgMenu.label "Boodskap">
-<!ENTITY msgMenu.accesskey "O">
+<!ENTITY msgMenu.accesskey "o">
 <!ENTITY newMsgCmd.label "Nuwe boodskap">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Boodskap">
-<!ENTITY newNewMsgCmd.accesskey "O">
+<!ENTITY newNewMsgCmd.accesskey "o">
+<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Antwoord">
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key "r">
@@ -330,6 +333,9 @@ X-Accelerator-Marker:
 <!ENTITY replyToAllMsgCmd.label "Antwoord aan almal">
 <!ENTITY replyToAllMsgCmd.accesskey "n">
 <!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Reply to List">
+<!ENTITY replyToListMsgCmd.accesskey "L">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Aanstuur">
 <!ENTITY forwardMsgCmd.accesskey "A">
 <!ENTITY forwardMsgCmd.key "l">
@@ -344,16 +350,16 @@ X-Accelerator-Marker:
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Create Filter From Message…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgToMenu.label "Skuif na">
-<!ENTITY moveMsgToMenu.accesskey "S">
+<!ENTITY moveMsgToMenu.label "Move To">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Onlangs">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "O">
 <!ENTITY copyMessageLocation.label "Kopieer boodskapligging">
-<!ENTITY copyMessageLocation.accesskey "B">
-<!ENTITY copyMsgToMenu.label "Kopieer na">
-<!ENTITY copyMsgToMenu.accesskey "K">
+<!ENTITY copyMessageLocation.accesskey "b">
+<!ENTITY copyMsgToMenu.label "Copy To">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Verskuif weer">
-<!ENTITY moveToFolderAgain.accesskey "v">
+<!ENTITY moveToFolderAgain.accesskey "V">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignoreer draad">
 <!ENTITY killThreadMenu.accesskey "I">
@@ -369,7 +375,7 @@ X-Accelerator-Marker:
 <!ENTITY copyHereMenu.label "Kopieer hier">
 <!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Merker">
-<!ENTITY tagMenu.accesskey "m">
+<!ENTITY tagMenu.accesskey "M">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -383,7 +389,7 @@ X-Accelerator-Marker:
 <!ENTITY markMenu.label "Merk">
 <!ENTITY markMenu.accesskey "k">
 <!ENTITY markAsReadCmd.label "As gelees">
-<!ENTITY markAsReadCmd.accesskey "G">
+<!ENTITY markAsReadCmd.accesskey "g">
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Draad as gelees">
 <!ENTITY markThreadAsReadCmd.accesskey "D">
@@ -395,54 +401,71 @@ X-Accelerator-Marker:
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Voeg vlag by">
-<!ENTITY markStarredCmd.accesskey "V">
+<!ENTITY markStarredCmd.accesskey "v">
 <!ENTITY markStarredCmd.key "v">
 <!ENTITY markAsJunkCmd.label "As Gemors">
 <!ENTITY markAsJunkCmd.accesskey "G">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "As nie gemors nie">
-<!ENTITY markAsNotJunkCmd.accesskey "N">
+<!ENTITY markAsNotJunkCmd.accesskey "n">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Laat gemorsposkontrole loop">
-<!ENTITY recalculateJunkScoreCmd.accesskey "K">
+<!ENTITY recalculateJunkScoreCmd.accesskey "k">
 <!ENTITY openMessageWindowCmd.label "Open boodskap">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Open Feed Message">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Window">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label "Nutsgoed">
-<!ENTITY tasksMenu.accesskey "U">
-<!ENTITY addons.label "Byvoegings">
-<!ENTITY addons.accesskey "b">
-<!ENTITY messengerCmd.label "Pos en nuusgroepe">
-<!ENTITY messengerCmd.accesskey "p">
-<!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Adresboek">
-<!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY runJunkControls.label "Laat gemorsposkontrole op vouer loop">
-<!ENTITY runJunkControls.accesskey "o">
-<!ENTITY deleteJunk.label "Skrap pos in vouer wat as gemors aangedui word">
-<!ENTITY deleteJunk.accesskey "r">
-<!ENTITY errorConsoleCmd.label "Foutkonsole">
-<!ENTITY errorConsoleCmd.accesskey "k">
+<!ENTITY tasksMenu.accesskey "u">
+<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.accesskey "N">
+<!ENTITY addressBookCmd.label "Address Book">
+<!ENTITY addressBookCmd.accesskey "B">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Add-ons">
+<!ENTITY addons.accesskey "A">
+<!ENTITY activitymanager.label "Activity Manager">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY filtersCmd.label "Message Filters…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Laat loop filters op vouer">
 <!ENTITY filtersApply.accesskey "L">
 <!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
-<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY runJunkControls.label "Run Junk Mail Controls on Folder">
+<!ENTITY runJunkControls.accesskey "C">
+<!ENTITY deleteJunk.label "Delete Mail Marked as Junk in Folder">
+<!ENTITY deleteJunk.accesskey "D">
+<!ENTITY importCmd.label "Invoer…">
+<!ENTITY importCmd.accesskey "n">
+<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY accountManagerCmd.label "Account Settings…">
+<!ENTITY accountManagerCmd.accesskey "S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "R">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton.label "Kry pos">
 <!ENTITY newMsgButton.label "Skryf">
 <!ENTITY replyButton.label "Antwoord">
 <!ENTITY replyAllButton.label "Almalantwoord">
+<!ENTITY replyListButton.label "Reply to List">
 <!ENTITY forwardButton.label "Aanstuur">
 <!ENTITY fileButton.label "Lêer">
 <!ENTITY nextButton.label "Volgende">
@@ -456,8 +479,9 @@ X-Accelerator-Marker:
 <!ENTITY stopButton.label "Stop">
 <!ENTITY throbberItem.title "Aktiwitietaanwyser">
 <!ENTITY junkButton.label "Gemors">
-<!ENTITY notJunkButton.label "Nie gemors nie">
+<!ENTITY notJunkButton.label "Not Junk">
 <!ENTITY addressBookButton.label "Adresboek">
+<!ENTITY glodaSearch.title "Global Search">
 <!ENTITY searchItem.title "Kitssoektog">
 <!ENTITY mailViewsToolbarItem.title "Posaansigte">
 <!ENTITY folderLocationToolbarItem.title "Vouerligging">
@@ -473,6 +497,7 @@ X-Accelerator-Marker:
 <!ENTITY newMsgButton.tooltip "Skep 'n nuwe boodskap">
 <!ENTITY replyButton.tooltip "Antwoord op die boodskap">
 <!ENTITY replyAllButton.tooltip "Antwoord aan afsender en alle ontvangers">
+<!ENTITY replyListButton.tooltip "Reply to mailing list">
 <!ENTITY forwardButton.tooltip "Stuur gemerkte boodskap aan">
 <!ENTITY fileButton.tooltip "Lêerskiesboodskap">
 <!ENTITY nextButton.tooltip "Gaan na volgende ongelese boodskappe">
@@ -504,17 +529,17 @@ X-Accelerator-Marker:
 <!ENTITY folderContextOpenNewWindow.label "Open">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Open in nuwe oortjie">
-<!ENTITY folderContextOpenNewTab.accesskey "O">
+<!ENTITY folderContextOpenNewTab.accesskey "o">
 <!ENTITY folderContextNew.label "New Subfolder…">
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "Hernoem">
-<!ENTITY folderContextRename.accesskey "R">
-<!ENTITY folderContextRemove.label "Skrap">
-<!ENTITY folderContextRemove.accesskey "S">
+<!ENTITY folderContextRename.accesskey "r">
+<!ENTITY folderContextRemove.label "Delete">
+<!ENTITY folderContextRemove.accesskey "D">
 <!ENTITY folderContextCompact.label "Kompakteer">
 <!ENTITY folderContextCompact.accesskey "K">
 <!ENTITY folderContextEmptyTrash.label "Maak snippermandjie leeg">
-<!ENTITY folderContextEmptyTrash.accesskey "m">
+<!ENTITY folderContextEmptyTrash.accesskey "M">
 <!ENTITY folderContextEmptyJunk.label "Empty Junk">
 <!ENTITY folderContextEmptyJunk.accesskey "J">
 <!ENTITY folderContextSendUnsentMessages.label "Stuur ongestuurde boodskappe">
@@ -531,14 +556,39 @@ X-Accelerator-Marker:
 <!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Properties…">
 <!ENTITY folderContextProperties.accesskey "P">
-<!ENTITY folderContextFavoriteFolder.label "Gunsteling-vouer">
-<!ENTITY folderContextFavoriteFolder.accesskey "u">
-<!ENTITY folderContextSettings.label "Settings…">
-<!ENTITY folderContextSettings.accesskey "e">
+<!ENTITY folderContextFavoriteFolder.label "Favorite Folder">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings.label "Opstelling…">
+<!ENTITY folderContextSettings.accesskey "p">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Naam of e-pos bevat:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
+<!-- Gloda Search Bar -->
+
+<!ENTITY glodaSearchBar.emptyText "Search messages…">
+<!ENTITY glodaSearchBar.facet.label "Search:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Alles">
+<!ENTITY glodaSearchFacet.subject.label "Subject">
+<!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
+<!ENTITY glodaSearchFacet.to.label "To, CC">
+<!ENTITY glodaSearchFacet.from.label "From">
+<!ENTITY glodaSearchFacet.body.label "Message Text">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Attachment Names">
+
+<!ENTITY glodaSearchBar.location.label "Location:">
+<!ENTITY glodaSearchFacet.everywhere.label "Alle vouers">
+<!ENTITY glodaSearchFacet.folder.label "In a specific folder…">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Onderwerp">
@@ -569,6 +619,15 @@ X-Accelerator-Marker:
 <!ENTITY locationColumn.label "Ligging">
 <!ENTITY idColumn.label "Volgorde ontvang">
 <!ENTITY attachmentColumn.label "Aanhegsels">
+<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
+     present in the gloda search results.  The values can be found in
+     messenger.properties with a prefix of "glodaSearch_results_why_". -->
+<!ENTITY glodaWhyColumn.label "Why">
+<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
+     score assigned to the message as a result of the search.  The column
+     primarily exists to be sorted by, and its contents will probably have
+     little meaning for most users. -->
+<!ENTITY glodaScoreColumn.label "Score">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "Kliek om kolomme te kies wat vertoon moet word">
@@ -591,12 +650,14 @@ X-Accelerator-Marker:
 <!ENTITY locationColumn.tooltip "Kliek om volgens ligging te rangskik">
 <!ENTITY idColumn.tooltip "Kliek om te rangskik volgens volgorde ontvang">
 <!ENTITY attachmentColumn.tooltip "Klik om volgens aanhegsels te rangskik">
+<!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
+<!ENTITY glodaScoreColumn.tooltip "Click to sort by the search score">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Open boodskap in nuwe venster">
-<!ENTITY contextOpenNewWindow.accesskey "V">
+<!ENTITY contextOpenNewWindow.accesskey "v">
 <!ENTITY contextOpenNewTab.label "Open boodskap in nuwe oortjie">
-<!ENTITY contextOpenNewTab.accesskey "O">
+<!ENTITY contextOpenNewTab.accesskey "o">
 <!ENTITY contextEditAsNew.label "Edit As New…">
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "Antwoord net aan afsender">
@@ -604,17 +665,19 @@ X-Accelerator-Marker:
 <!ENTITY contextReplyNewsgroup.label "Antwoord aan nuusgroep">
 <!ENTITY contextReplyNewsgroup.accesskey "w">
 <!ENTITY contextReplyAll.label "Antwoord almal">
-<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyAll.accesskey "a">
+<!ENTITY contextReplyList.label "Reply to List">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Aanstuur">
 <!ENTITY contextForward.accesskey "A">
 <!ENTITY contextForwardAsAttachment.label "Stuur aan as aanhegsels">
 <!ENTITY contextForwardAsAttachment.accesskey "t">
-<!ENTITY contextMoveMsgMenu.label "Skuif na">
-<!ENTITY contextMoveMsgMenu.accesskey "S">
+<!ENTITY contextMoveMsgMenu.label "Move To">
+<!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Onlangs">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "O">
-<!ENTITY contextCopyMsgMenu.label "Kopieer na">
-<!ENTITY contextCopyMsgMenu.accesskey "K">
+<!ENTITY contextCopyMsgMenu.label "Copy To">
+<!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextSaveAs.label "Save As…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Print…">
@@ -623,13 +686,13 @@ X-Accelerator-Marker:
 <!ENTITY contextPrintPreview.accesskey "v">
 <!-- Junk Bar -->
 
-<!ENTITY junkBarMessage1.label "Junk Mail">
-<!ENTITY junkBarButton1.label "Nie gemors nie">
+<!ENTITY junkBarMessage1.label "Gemorspos">
+<!ENTITY junkBarButton1.label "Not Junk">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
 
-<!ENTITY remoteContentMessage1.label "To protect your privacy, remote images have been blocked.">
-<!ENTITY loadRemoteContentButton2.label "Display Images Now">
+<!ENTITY remoteContentMessage2.label "To protect your privacy, &brandShortName; has blocked remote content in this message.">
+<!ENTITY loadRemoteContentButton3.label "Show Remote Content">
 <!-- Phishing Bar -->
 
 <!ENTITY phishingBarMessage2.label "This message may be a scam.">
@@ -661,17 +724,17 @@ X-Accelerator-Marker:
 <!ENTITY reportPhishingURL.accesskey "o">
 <!-- Content Pane Context Menu -->
 
-<!ENTITY saveLinkAsCmd.label "Save Link As…">
-<!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "Save Image As…">
-<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY saveLinkAsCmd.label "Stoor skakel as…">
+<!ENTITY saveLinkAsCmd.accesskey "e">
+<!ENTITY saveImageAsCmd.label "Stoor prent as…">
+<!ENTITY saveImageAsCmd.accesskey "o">
 <!ENTITY copyCmd.label "Kopieer">
 <!ENTITY copyCmd.accesskey "K">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageCmd.label "Copy Image Location">
+<!ENTITY selectAllCmd.label "Merk alles">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY copyLinkCmd.label "Kopieer skakelligging">
+<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyImageCmd.label "Kopieer prentligging">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Copy Email Address">
 <!ENTITY copyEmailCmd.accesskey "E">
@@ -686,14 +749,14 @@ X-Accelerator-Marker:
 <!ENTITY zoomWindow.label "Zoem">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label "Preferences…">
+<!ENTITY preferencesCmdMac.label "Voorkeure…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Services">
-<!ENTITY hideThisAppCmdMac.label "Hide &brandShortName;">
+<!ENTITY servicesMenuMac.label "Dienste">
+<!ENTITY hideThisAppCmdMac.label "Verskuil &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
 <!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label "Verskuil ander">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Show All">
+<!ENTITY showAllAppsCmdMac.label "Wys alle">

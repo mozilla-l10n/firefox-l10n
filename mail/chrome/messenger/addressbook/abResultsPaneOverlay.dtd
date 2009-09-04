@@ -65,4 +65,4 @@
 <!ENTITY sortAscending.label "Oplopend">
 <!ENTITY sortAscending.accesskey "O">
 <!ENTITY sortDescending.label "Aflopend">
-<!ENTITY sortDescending.accesskey "F">
+<!ENTITY sortDescending.accesskey "f">

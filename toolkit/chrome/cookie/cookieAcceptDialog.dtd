@@ -9,7 +9,7 @@
 <!ENTITY button.allow.label "Toelaat">
 <!ENTITY button.allow.accesskey "T">
 <!ENTITY button.session.label "Toelaat vir sessie">
-<!ENTITY button.session.accesskey "S">
+<!ENTITY button.session.accesskey "s">
 <!ENTITY button.deny.label "Weier">
 <!ENTITY button.deny.accesskey "W">
 

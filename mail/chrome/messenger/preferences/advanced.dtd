@@ -6,59 +6,67 @@
 <!-- General Settings -->
 
 
-<!ENTITY enableGloda.label "Enable Message Indexer">
-<!ENTITY enableGloda.accesskey "i">
-<!ENTITY showCondensedAddresses.label "Wys net vertoonnaam vir mense in my adresboek">
-<!ENTITY showCondensedAddresses.accesskey "t">
-
-<!ENTITY autoMarkAsRead.label "Automatically mark messages as read">
-<!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey "d">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "After displaying for">
-<!ENTITY markAsReadDelay.accesskey "e">
-<!ENTITY secondsLabel.label "sekondes">
-<!ENTITY showFolderColumns.label "Wys uitgevoude kolomme in die vouerpaneel">
-<!ENTITY showFolderColumns.accesskey "v">
-<!ENTITY openMsgIn.label "Open messages in:">
-<!ENTITY reuseExpRadio0.label "'n Nuwe nuwe boodskapvenster">
-<!ENTITY reuseExpRadio0.accesskey "v">
-<!ENTITY reuseExpRadio1.label "'n Bestaande boodskapvenster">
-<!ENTITY reuseExpRadio1.accesskey "e">
+<!ENTITY enableGlodaSearch.label "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.accesskey "E">
+<!ENTITY systemIntegration.label "System Integration">
+<!ENTITY alwaysCheckDefault.label "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.accesskey "A">
+<!ENTITY searchIntegration.label "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey "S">
+<!ENTITY checkNow.label "Kontroleer nou">
+<!ENTITY checkNow.accesskey "n">
 <!ENTITY configEditDesc.label "Gevorderde opstelling">
 <!ENTITY configEdit.label "Config Editor…">
-<!ENTITY configEdit.accesskey "g">
+<!ENTITY configEdit.accesskey "C">
 <!ENTITY returnReceiptsInfo.label "Bepaal hoe &brandShortName; antwoordstrokies hanteer">
 <!ENTITY showReturnReceipts.label "Return Receipts…">
 <!ENTITY showReturnReceipts.accesskey "R">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption "Reading">
-<!ENTITY display.caption "Display">
+<!ENTITY display.caption "Vertoon">
+<!ENTITY showCondensedAddresses.label "Show only display name for people in my address book">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey "A">
+<!ENTITY markAsReadNoDelay.label "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label "After displaying for">
+<!ENTITY markAsReadDelay.accesskey "d">
+<!ENTITY secondsLabel.label "sekondes">
+<!ENTITY openMsgIn.label "Open messages in:">
+<!ENTITY openMsgInNewTab.label "A new tab">
+<!ENTITY openMsgInNewTab.accesskey "t">
+<!ENTITY reuseExpRadio0.label "A new message window">
+<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio1.label "An existing message window">
+<!ENTITY reuseExpRadio1.accesskey "e">
+<!ENTITY closeMsgWindowOnDelete.label "Close message window on delete">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
 <!-- Update -->
 
 <!ENTITY autoCheck.label "Kontroleer outomaties vir bywerkings aan:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "Geïnstalleerde byvoegings">
-<!ENTITY enableAddonsUpdate.accesskey "s">
-<!ENTITY checkNow.label "Check Now…">
+<!ENTITY enableAddonsUpdate.label "Installed Add-ons">
+<!ENTITY enableAddonsUpdate.accesskey "A">
 <!ENTITY whenUpdatesFound.label "Wanneer bywerkings vir &brandShortName; gevind word,">
-<!ENTITY modeAskMe.label "Vra my wat ek wil doen">
-<!ENTITY modeAskMe.accesskey "r">
-<!ENTITY modeAutomatic.label "Laai die bywerkings outomaties af en installeer dit">
-<!ENTITY modeAutomatic.accesskey "b">
-<!ENTITY modeAutoAddonWarn.label "Waarsku my as dit enige van my byvoegings sal deaktiveer">
+<!ENTITY modeAskMe.label "Ask me what I want to do">
+<!ENTITY modeAskMe.accesskey "m">
+<!ENTITY modeAutomatic.label "Automatically download and install the update">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "Warn me if this will disable any of my add-ons">
 <!ENTITY modeAutoAddonWarn.accesskey "W">
-<!ENTITY showUpdates.label "Wys bywerkingsgeskiedenis">
-<!ENTITY showUpdates.accesskey "b">
+<!ENTITY showUpdates.label "Show Update History">
+<!ENTITY showUpdates.accesskey "S">
 <!-- Networking and Disk Space -->
 
-<!ENTITY showSettings.label "Settings…">
-<!ENTITY showSettings.accesskey "n">
+<!ENTITY showSettings.label "Opstelling…">
+<!ENTITY showSettings.accesskey "O">
 <!ENTITY proxiesConfigure.label "Configure how &brandShortName; connects to the Internet">
 <!ENTITY connectionsInfo.caption "Verbinding">
 <!ENTITY offlineInfo.caption "Aflyn">
@@ -67,8 +75,8 @@
 <!ENTITY showOffline.accesskey "O">
 
 <!ENTITY Diskspace "Skyfspasie">
-<!ENTITY offlineCompact.label "Kompakteer vouers wanneer dit meer as soveel sal bespaar">
-<!ENTITY offlineCompact.accesskey "b">
+<!ENTITY offlineCompact.label "Compact folders when it will save over">
+<!ENTITY offlineCompact.accesskey "a">
 <!ENTITY kb.label "KG">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -77,18 +85,18 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "Use up to">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "MB of space for the cache">
-<!ENTITY clearCacheNow.label "Clear Now">
-<!ENTITY clearCacheNow.accesskey "C">
+<!ENTITY useCacheBefore.label "Gebruik tot">
+<!ENTITY useCacheBefore.accesskey "G">
+<!ENTITY useCacheAfter.label "MB spasie vir die kasgeheue">
+<!ENTITY clearCacheNow.label "Maak nou skoon">
+<!ENTITY clearCacheNow.accesskey "M">
 <!-- Certificates -->
 
-<!ENTITY viewCertificates.label "Bekyk sertifikate">
-<!ENTITY viewCertificates.accesskey "b">
-<!ENTITY viewCRLs.label "Opheffingslyste">
-<!ENTITY viewCRLs.accesskey "o">
-<!ENTITY validation.label "Validation">
-<!ENTITY validation.accesskey "d">
-<!ENTITY viewSecurityDevices.label "Sekuriteitstoestelle">
-<!ENTITY viewSecurityDevices.accesskey "s">
+<!ENTITY viewCertificates.label "View Certificates">
+<!ENTITY viewCertificates.accesskey "C">
+<!ENTITY viewCRLs.label "Revocation Lists">
+<!ENTITY viewCRLs.accesskey "R">
+<!ENTITY validation.label "Stawing">
+<!ENTITY validation.accesskey "S">
+<!ENTITY viewSecurityDevices.label "Security Devices">
+<!ENTITY viewSecurityDevices.accesskey "S">

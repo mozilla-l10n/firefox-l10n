@@ -33,7 +33,7 @@
 <!ENTITY cmd.restartApp2.accesskey "H">
 <!ENTITY cmd.restartApp2.tooltip "Herbegin &brandShortName; om veranderinge toe te pas">
 <!ENTITY cmd.skip.label "Slaan oor">
-<!ENTITY cmd.skip.accesskey "s">
+<!ENTITY cmd.skip.accesskey "S">
 <!ENTITY cmd.skip.tooltip "Slaan hierdie bywerkings oor">
 <!ENTITY cmd.continue.label "Gaan voort">
 <!ENTITY cmd.continue.accesskey "G">
@@ -48,7 +48,7 @@
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 
 <!ENTITY cmd.useTheme.label "Gebruik tema">
-<!ENTITY cmd.useTheme.accesskey "T">
+<!ENTITY cmd.useTheme.accesskey "t">
 <!ENTITY cmd.useTheme.tooltip "Wysig &brandShortName; se tema">
 <!ENTITY cmd.options.label "Opsies">
 <!ENTITY cmd.options.accesskey "O">
@@ -60,10 +60,10 @@
 <!ENTITY cmd.enable.accesskey "A">
 <!ENTITY cmd.enable.tooltip "Aktiveer hierdie byvoeging wanneer &brandShortName; herbegin word">
 <!ENTITY cmd.disable.label "Deaktiveer">
-<!ENTITY cmd.disable.accesskey "D">
+<!ENTITY cmd.disable.accesskey "a">
 <!ENTITY cmd.disable.tooltip "Deaktiveer hierdie byvoeging wanneer &brandShortName; herbegin word">
 <!ENTITY cmd.uninstall.label "Deïnstalleer">
-<!ENTITY cmd.uninstall2.accesskey "D">
+<!ENTITY cmd.uninstall2.accesskey "n">
 <!ENTITY cmd.uninstall2.tooltip "Deïnstalleer hierdie byvoeging wanneer &brandShortName; herbegin word">
 <!ENTITY cmd.cancelUninstall.label "Kanselleer deïnstallering">
 <!ENTITY cmd.cancelUninstall.accesskey "K">
@@ -96,7 +96,7 @@
 <!-- Only displayed in the selected Add-on's context menu -->
 
 <!ENTITY cmd.homepage.label "Besoek tuisblad">
-<!ENTITY cmd.homepage.accesskey "T">
+<!ENTITY cmd.homepage.accesskey "t">
 <!ENTITY cmd.about2.label "Aangaande hierdie byvoeging">
 <!ENTITY cmd.about.accesskey "A">
 <!ENTITY cmd.checkUpdate.label "Vind bywerking">

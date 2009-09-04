@@ -7,16 +7,16 @@
 
 <!ENTITY color "Teks en agtergrond">
 <!ENTITY textColor.label "Teks:">
-<!ENTITY textColor.accesskey "t">
+<!ENTITY textColor.accesskey "T">
 <!ENTITY backgroundColor.label "Agtergrond:">
-<!ENTITY backgroundColor.accesskey "a">
+<!ENTITY backgroundColor.accesskey "A">
 <!ENTITY useSystemColors.label "Gebruik stelselkleure">
 <!ENTITY useSystemColors.accesskey "u">
 
 <!ENTITY underlineLinks.label "Onderstreep skakels">
-<!ENTITY underlineLinks.accesskey "o">
+<!ENTITY underlineLinks.accesskey "O">
 <!ENTITY links "Skakelkleure">
 <!ENTITY linkColor.label "Onbesoekte skakels:">
 <!ENTITY linkColor.accesskey "s">
 <!ENTITY visitedLinkColor.label "Besoekte skakels:">
-<!ENTITY visitedLinkColor.accesskey "b">
+<!ENTITY visitedLinkColor.accesskey "B">

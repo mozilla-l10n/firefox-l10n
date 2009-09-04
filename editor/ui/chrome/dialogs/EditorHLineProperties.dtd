@@ -41,7 +41,7 @@
 
 <!ENTITY dimensionsBox.label "Dimensies">
 <!ENTITY heightEditField.label "Hoogte:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "g">
 <!ENTITY widthEditField.label "Wydte:">
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY pixelsPopup.value "pixels">
@@ -54,7 +54,7 @@
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3-D skaduwees">
-<!ENTITY threeDShading.accessKey "S">
+<!ENTITY threeDShading.accessKey "s">
 <!ENTITY saveSettings.label "Gebruik as verstek">
-<!ENTITY saveSettings.accessKey "V">
+<!ENTITY saveSettings.accessKey "v">
 <!ENTITY saveSettings.tooltip "Stoor dié opstelling vir die invoeg van nuwe horisontale strepe">

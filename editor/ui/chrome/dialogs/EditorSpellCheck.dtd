@@ -52,17 +52,17 @@
 <!ENTITY replaceButton.label "Vervang">
 <!ENTITY replaceButton.accessKey "V">
 <!ENTITY replaceAllButton.label "Vervang alles">
-<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY replaceAllButton.accessKey "a">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Persoonlike subgids:">
 <!ENTITY moreDictionaries.label "Download more dictionaries…">
 <!ENTITY addToUserDictionaryButton.label "Voeg woord by">
 <!ENTITY addToUserDictionaryButton.accessKey "o">
-<!ENTITY editUserDictionaryButton.label "Edit…">
-<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY editUserDictionaryButton.label "Redigeer…">
+<!ENTITY editUserDictionaryButton.accessKey "R">
 <!ENTITY recheckButton.label "Gaan bladsy weer na">
-<!ENTITY recheckButton.accessKey "B">
+<!ENTITY recheckButton.accessKey "b">
 <!ENTITY closeButton.label "Sluit">
 <!ENTITY closeButton.accessKey "S">
 <!ENTITY sendButton.label "Stuur">

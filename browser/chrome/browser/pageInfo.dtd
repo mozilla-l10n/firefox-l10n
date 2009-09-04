@@ -45,7 +45,7 @@
 <!ENTITY copy.accesskey "K">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Kies almal">
-<!ENTITY selectall.accesskey "A">
+<!ENTITY selectall.accesskey "a">
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "Algemeen">
@@ -88,6 +88,7 @@
 <!ENTITY permTab "Toestemming">
 <!ENTITY permTab.accesskey "T">
 <!ENTITY permUseDefault "Gebruik verstek">
+<!ENTITY permAskAlways "Vra altyd">
 <!ENTITY permAllow "Toelaat">
 <!ENTITY permAllowSession "Toelaat vir sessie">
 <!ENTITY permBlock "Blokkeer">
@@ -96,6 +97,7 @@
 <!ENTITY permPopup "Open opspringers">
 <!ENTITY permCookie "Stel koekies">
 <!ENTITY permInstall "Installeer uitbreidings of temas">
+<!ENTITY permGeo "Deel ligging">
 
 <!ENTITY securityTab "Sekuriteit">
 <!ENTITY securityTab.accesskey "S">
@@ -106,9 +108,9 @@
 
 
 <!ENTITY securityView.identity.header "Webwerfidentiteit">
-<!ENTITY securityView.identity.owner "Eienaar: ">
-<!ENTITY securityView.identity.domain "Webwerf: ">
-<!ENTITY securityView.identity.verifier "Geverifieer deur: ">
+<!ENTITY securityView.identity.owner "Eienaar:">
+<!ENTITY securityView.identity.domain "Webwerf:">
+<!ENTITY securityView.identity.verifier "Geverifieer deur:">
 
 <!ENTITY securityView.privacy.header "Privaatheid en geskiedenis">
 <!ENTITY securityView.privacy.history "Het ek hierdie webwerf voor vandag besoek?">

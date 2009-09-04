@@ -1,13 +1,14 @@
 <!ENTITY restorepage.tabtitle "Laai sessie terug">
-<!ENTITY restorepage.pagetitle "Wil u graag u sessie teruglaai?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "U vorige &brandShortName;-sessie is onverwags gesluit. Ons vra om verskoning vir die ongerief. U kan die oortjies en vensters uit u vorige sessie teruglaai, of u kan 'n nuwe sessie begin indien hulle nie meer nodig is nie.">
-<!ENTITY restorepage.remedies "Indien &brandShortName; voortydig sluit:">
-<!ENTITY restorepage.dueToChrome "Probeer enige onlangs bygevoegde uitbreidings in die Byvoegingbestuurder deaktiveer.">
-<!ENTITY restorepage.dueToContent "Probeer u sessie sonder enige webbladsye teruglaai wat u vermoed die fout kon veroorsaak het:">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.restoreButton "Laai vorige sessie terug">
+<!ENTITY restorepage.errorTitle "Wel, dis nou 'n verleentheid.">
+<!ENTITY restorepage.problemDesc "&brandShortName; sukkel om die vensters en oortjies te herwin. Dit word gewoonlik veroorsaak deur 'n onlangs geopende bladsy.">
+<!ENTITY restorepage.tryThis "Probeer die volgende:">
+<!ENTITY restorepage.restoreSome "Verwyder een of meer oortjies wat u dink die probleem dalk veroorsaak">
+<!ENTITY restorepage.startNew "Begin 'n heeltemal nuwe blaaisessie">
+
+<!ENTITY restorepage.tryagainButton "Teruglaai">
 <!ENTITY restorepage.restore.access "L">
 <!ENTITY restorepage.cancelButton "Begin nuwe sessie">
 <!ENTITY restorepage.cancel.access "S">

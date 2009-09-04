@@ -7,15 +7,17 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (private blaaiery)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private blaaiery)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nuwe oortjie">
-<!ENTITY tabCmd.accesskey "O">
+<!ENTITY tabCmd.accesskey "o">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Open ligging…">
-<!ENTITY openLocationCmd.accesskey "L">
+<!ENTITY openLocationCmd.accesskey "l">
 <!ENTITY openFileCmd.label "Open lêer…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -30,7 +32,7 @@
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Werk aflyn">
-<!ENTITY goOfflineCmd.accesskey "w">
+<!ENTITY goOfflineCmd.accesskey "W">
 
 <!ENTITY navbarCmd.label "Navigasienutsbalk">
 <!ENTITY navbarCmd.accesskey "N">
@@ -38,13 +40,13 @@
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Boekmerknutsbalk-items">
 <!ENTITY taskbarCmd.label "Statusstaaf">
-<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY taskbarCmd.accesskey "s">
 
 <!ENTITY pageSourceCmd.label "Bladsybron">
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Bladsyinfo">
-<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Volskerm">
 <!ENTITY fullScreenCmd.accesskey "V">
@@ -55,7 +57,7 @@
 <!ENTITY fullScreenAutohide.label "Verskuil nutsbalke">
 <!ENTITY fullScreenAutohide.accesskey "V">
 <!ENTITY fullScreenExit.label "Sluit volskermmodus af">
-<!ENTITY fullScreenExit.accesskey "V">
+<!ENTITY fullScreenExit.accesskey "v">
 
 <!ENTITY closeWindow.label "Sluit venster">
 <!ENTITY closeWindow.accesskey "v">
@@ -69,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
 <!ENTITY organizeBookmarks.label "Organiseer boekmerke…">
 <!ENTITY bookmarkAllCmd.label "Boekmerk alle oortjies…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 
 <!ENTITY backCmd.label "Terug">
 <!ENTITY backCmd.accesskey "T">
@@ -100,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip "Vertoon u boekmerke">
 <!ENTITY bookmarksSidebarCmd.accesskey "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Geskiedenis">
@@ -108,12 +115,12 @@
 <!ENTITY historySidebarCmd.commandKey "h">
 
 <!ENTITY toolsMenu.label "Nutsgoed">
-<!ENTITY toolsMenu.accesskey "U">
+<!ENTITY toolsMenu.accesskey "u">
 
 <!ENTITY keywordfield.label "Voeg 'n sleutelwoord vir hierdie soektog by…">
-<!ENTITY keywordfield.accesskey "S">
+<!ENTITY keywordfield.accesskey "s">
 <!ENTITY search.label "Websoektog">
-<!ENTITY search.accesskey "S">
+<!ENTITY search.accesskey "s">
 <!ENTITY downloads.label "Afgelaai">
 <!ENTITY downloads.tooltip "Vertoon die vordering van voortgaande aflaaie">
 <!ENTITY downloads.accesskey "A">
@@ -124,7 +131,7 @@
 <!ENTITY addons.accesskey "B">
 
 <!ENTITY errorConsoleCmd.label "Foutkonsole">
-<!ENTITY errorConsoleCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY fileMenu.label "Lêer">
@@ -134,7 +141,7 @@
 <!ENTITY newNavigatorCmd.accesskey "N">
 
 <!ENTITY editMenu.label "Redigeer">
-<!ENTITY editMenu.accesskey "R">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Ontdoen">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "O">
@@ -155,20 +162,24 @@
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Merk alles">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY preferencesCmd.label "Opsies…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
 
 <!ENTITY clearRecentHistoryCmd.label "Maak onlangse geskiedenis skoon">
-<!ENTITY clearRecentHistoryCmd.accesskey "G">
+<!ENTITY clearRecentHistoryCmd.accesskey "g">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.label "Private blaaiery">
-<!ENTITY privateBrowsingCmd.accesskey "B">
+<!ENTITY privateBrowsingCmd.start.label "Begin privaat blaai">
+<!ENTITY privateBrowsingCmd.start.accesskey "p">
+<!ENTITY privateBrowsingCmd.stop.label "Staak privaat blaai">
+<!ENTITY privateBrowsingCmd.stop.accesskey "p">
+<!ENTITY privateBrowsingCmd.commandkey "b">
 
 <!ENTITY viewMenu.label "Bekyk">
-<!ENTITY viewMenu.accesskey "B">
+<!ENTITY viewMenu.accesskey "k">
 <!ENTITY viewToolbarsMenu.label "Nutsbalke">
 <!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY viewSidebarMenu.label "Kantbalk">
@@ -179,13 +190,19 @@
 <!ENTITY historyMenu.label "Geskiedenis">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Onlangs gesluite oortjies">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Onlangs gesluite vensters">
 
 <!ENTITY historyHomeCmd.label "Tuis">
 <!ENTITY showAllHistoryCmd2.label "Wys hele geskiedenis">
-<!ENTITY showAllHistoryCmd.commandkey "g">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Deursoek boekmerke en geskiedenis">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Deursoek boekmerke en geskiedenis">
+<!ENTITY urlbar.bookmark.emptyText "Deursoek boekmerke">
+<!ENTITY urlbar.history.emptyText "Deursoek geskiedenis">
+<!ENTITY urlbar.none.emptyText "Tik 'n webadres">
 <!ENTITY urlbar.accesskey "d">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -214,15 +231,15 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY openLinkCmd.label "Open skakel in nuwe venster">
-<!ENTITY openLinkCmd.accesskey "V">
+<!ENTITY openLinkCmd.accesskey "v">
 <!ENTITY openLinkCmdInTab.label "Open skakel in nuwe oortjie">
-<!ENTITY openLinkCmdInTab.accesskey "O">
+<!ENTITY openLinkCmdInTab.accesskey "o">
 <!ENTITY openFrameCmd.label "Open raam in nuwe venster">
-<!ENTITY openFrameCmd.accesskey "V">
+<!ENTITY openFrameCmd.accesskey "v">
 <!ENTITY openFrameCmdInTab.label "Open raam in nuwe oortjie">
-<!ENTITY openFrameCmdInTab.accesskey "O">
+<!ENTITY openFrameCmdInTab.accesskey "o">
 <!ENTITY showOnlyThisFrameCmd.label "Vertoon net hierdie raam">
-<!ENTITY showOnlyThisFrameCmd.accesskey "R">
+<!ENTITY showOnlyThisFrameCmd.accesskey "r">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "Herlaai raam">
 <!ENTITY reloadFrameCmd.accesskey "H">
@@ -236,15 +253,15 @@
 <!ENTITY viewFrameSourceCmd.label "Bekyk bron van raam">
 <!ENTITY viewFrameSourceCmd.accesskey "B">
 <!ENTITY viewPageInfoCmd.label "Bekyk bladsyinfo">
-<!ENTITY viewPageInfoCmd.accesskey "I">
+<!ENTITY viewPageInfoCmd.accesskey "i">
 <!ENTITY viewFrameInfoCmd.label "Bekyk raaminfo">
-<!ENTITY viewFrameInfoCmd.accesskey "I">
+<!ENTITY viewFrameInfoCmd.accesskey "i">
 <!ENTITY reloadImageCmd.label "Herlaai prent">
 <!ENTITY reloadImageCmd.accesskey "H">
 <!ENTITY viewImageCmd.label "Bekyk prent">
-<!ENTITY viewImageCmd.accesskey "P">
+<!ENTITY viewImageCmd.accesskey "p">
 <!ENTITY viewVideoCmd.label "Bekyk video">
-<!ENTITY viewVideoCmd.accesskey "I">
+<!ENTITY viewVideoCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Bekyk agtergrondprent">
 <!ENTITY viewBGImageCmd.accesskey "k">
 <!ENTITY setDesktopBackgroundCmd.label "As werkskermagtergrond…">
@@ -252,18 +269,18 @@
 <!ENTITY bookmarkPageCmd2.label "Boekmerk hierdie bladsy">
 <!ENTITY bookmarkPageCmd2.accesskey "m">
 <!ENTITY bookmarkThisLinkCmd.label "Boekmerk hierdie skakel">
-<!ENTITY bookmarkThisLinkCmd.accesskey "S">
+<!ENTITY bookmarkThisLinkCmd.accesskey "s">
 <!ENTITY bookmarkThisFrameCmd.label "Boekmerk hierdie raam">
 <!ENTITY bookmarkThisFrameCmd.accesskey "r">
 <!ENTITY sendPageCmd.label "Stuur skakel…">
 <!ENTITY sendPageCmd.accesskey "t">
 <!ENTITY savePageCmd.label "Stoor bladsy as…">
-<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.accesskey "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2 "b">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameCmd.label "Stoor raam as…">
-<!ENTITY saveFrameCmd.accesskey "R">
+<!ENTITY saveFrameCmd.accesskey "r">
 <!ENTITY printFrameCmd.label "Druk raam…">
 <!ENTITY printFrameCmd.accesskey "D">
 <!ENTITY saveLinkCmd.label "Stoor skakel as…">
@@ -283,13 +300,13 @@
 <!ENTITY sendAudioCmd.label "Stuur klank…">
 <!ENTITY sendAudioCmd.accesskey "u">
 <!ENTITY copyLinkCmd.label "Kopieer skakelligging">
-<!ENTITY copyLinkCmd.accesskey "k">
+<!ENTITY copyLinkCmd.accesskey "K">
 <!ENTITY copyLinkTextCmd.label "Kopieer skakelteks">
 <!ENTITY copyLinkTextCmd.accesskey "e">
 <!ENTITY copyImageCmd.label "Kopieer prentligging">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopieer prent">
-<!ENTITY copyImageContentsCmd.accesskey "k">
+<!ENTITY copyImageContentsCmd.accesskey "K">
 <!ENTITY copyVideoURLCmd.label "Kopieer videoligging">
 <!ENTITY copyVideoURLCmd.accesskey "o">
 <!ENTITY copyAudioURLCmd.label "Kopieer klankligging">
@@ -298,7 +315,7 @@
 <!ENTITY metadataCmd.label "Eienskappe">
 <!ENTITY metadataCmd.accesskey "E">
 <!ENTITY copyEmailCmd.label "Kopieer e-posadres">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Hierdie raam">
 <!ENTITY thisFrameMenu.accesskey "i">
 <!-- Media (video/audio) controls -->
@@ -324,14 +341,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY fullZoomEnlargeCmd.label "Zoem in">
-<!ENTITY fullZoomEnlargeCmd.accesskey "I">
+<!ENTITY fullZoomEnlargeCmd.accesskey "i">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label "Zoem uit">
-<!ENTITY fullZoomReduceCmd.accesskey "U">
+<!ENTITY fullZoomReduceCmd.accesskey "u">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 
@@ -341,10 +358,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 
 <!ENTITY fullZoomToggleCmd.label "Zoem net teks">
-<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoomToggleCmd.accesskey "t">
 <!ENTITY fullZoom.label "Zoem">
 <!ENTITY fullZoom.accesskey "Z">
 
+<!ENTITY newTabButton.tooltip "Open 'n nuwe oortjie">
 <!ENTITY newWindowButton.tooltip "Open 'n nuwe venster">
 <!ENTITY sidebarCloseButton.tooltip "Sluit kantbalk">
 
@@ -368,9 +386,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "Bladsystyl">
 <!ENTITY pageStyleMenu.accesskey "t">
 <!ENTITY pageStyleNoStyle.label "Geen styl nie">
-<!ENTITY pageStyleNoStyle.accesskey "g">
+<!ENTITY pageStyleNoStyle.accesskey "G">
 <!ENTITY pageStylePersistentOnly.label "Basiese bladsystyl">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip "Wysig opspringerblokkering-opstelling vir hierdie webwerf">
 
@@ -402,7 +420,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label "Klaar">
 <!ENTITY editBookmark.cancel.label "Kanselleer">
-<!ENTITY editBookmark.removeBookmark.label "Verwyder boekmerk">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "Ontdoen">
 <!ENTITY editBookmark.undo.accessKey "O">

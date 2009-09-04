@@ -45,11 +45,11 @@
 <!ENTITY refreshButton.label "Verfris">
 <!ENTITY refreshButton.accesskey "V">
 <!ENTITY stopButton.label "Stop">
-<!ENTITY stopButton.accesskey "T">
+<!ENTITY stopButton.accesskey "t">
 <!ENTITY server.label "Rekening:">
 <!ENTITY server.accesskey "R">
 <!ENTITY subscribedHeader.label "Inteken">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label "Wys items wat dit bevat:">
-<!ENTITY namefield.accesskey "Y">
+<!ENTITY namefield.accesskey "y">

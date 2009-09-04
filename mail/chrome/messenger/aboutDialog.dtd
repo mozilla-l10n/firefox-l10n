@@ -1,9 +1,17 @@
 <!ENTITY aboutDialog.title "Aangaande &brandFullName;">
 <!ENTITY credits.label "Credits">
 <!ENTITY credits.accesskey "C">
-<!ENTITY aboutLink.label "&lt; About &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutButton.label "&lt; Terug">
+<!ENTITY aboutButton.accesskey "T">
 <!ENTITY aboutVersion "weergawe">
-<!ENTITY copyrightText "&#169;1998-2008 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
+<!ENTITY copyrightText "&#169;1998-2009 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
                                  Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 
                                  reserved.">
+<!ENTITY aboutMenu.label "About">
+<!ENTITY aboutMenu.accesskey "A">
+<!ENTITY aboutRights.label "Your Rights">
+<!ENTITY aboutRights.accesskey "R">
+<!ENTITY aboutContributors.label "Contributors">
+<!ENTITY aboutContributors.accesskey "o">
+
+<!ENTITY cmdCloseMac.commandKey "w">

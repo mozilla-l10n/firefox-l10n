@@ -12,6 +12,13 @@ kontroleer vir bywerkings.">
 <!ENTITY noupdatesautodisabled.intro "Daar is geen bywerkings nie. Kontroleer later weer, of aktiveer 
 &brandShortName; se outomatiese kontrolering.">
 
+<!ENTITY manualUpdate.title "Kon nie bywerk nie">
+<!ENTITY manualUpdate.desc "'n Aanbevole sekuriteit-en-stabiliteit-bywerking is beskikbaar, maar 
+u het onvoldoende toestemming om dit te installeer. Kontak u 
+stelseladministrateur of probeer weer met 'n rekening wat wel toestemming 
+het om sagteware op hierdie rekenaar te installeer.">
+<!ENTITY manualUpdateGetMsg.label "U kan altyd die jongste weergawe van &brandShortName; kry by:">
+
 <!ENTITY incompatibleCheck.title "Kontroleer of byvoegings versoenbaar is">
 <!ENTITY incompatibleCheck.label "Soek tans vir jonger weergawes van u byvoegings…">
 
@@ -29,7 +36,7 @@ onder om hierdie bywerking te installeer.">
 <!ENTITY license.accept "Ek aanvaar die bepalings van die lisensieooreenkoms">
 <!ENTITY license.accept.accesskey "s">
 <!ENTITY license.decline "Ek aanvaar nié die bepalings van die lisensieooreenkoms nie">
-<!ENTITY license.decline.accesskey "T">
+<!ENTITY license.decline.accesskey "n">
 
 <!ENTITY incompatibleList.title "Onversoenbare byvoegings gevind">
 
@@ -47,20 +54,23 @@ nou die volledige pakket af.">
 <!ENTITY error.label "Kon nie vir hierdie bywerking kontroleer, dit aflaai of installeer nie. 
 &brandShortName; kon nie opgedateer word nie, omdat:">
                                            
-<!ENTITY errorManual.label "U kan &brandShortName; handmatig bywerk deur hierdie skakel te besoek en die jongste weergawe af te laai:">
+<!ENTITY errorManual.label "U kan &brandShortName; handmatig bywerk deur hierdie skakel te 
+besoek en die jongste weergawe af te laai:">
                                            
 <!ENTITY errorpatching.title "Bywerking het misluk">
 <!ENTITY errorpatching.intro "Die gedeeltelike bywerking kon nie toegepas word nie. &brandShortName; sal 
 weer probeer om die volledige bywerking af te laai.">
 
 <!ENTITY finishedPage.title "Bywerking gereed om geïnstalleer te word">
-<!ENTITY finishedPage.text "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
+<!ENTITY finishedPage.text "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U 
+kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
 
 <!ENTITY finishedBackgroundPage.text "'n Sekuriteit-en-stabiliteit-bywerking vir &brandShortName; is 
 afgelaai en is gereed om geïnstalleer te word.">
 <!ENTITY finishedBackground.name "Bywerking:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY finishedBackground.more "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
+<!ENTITY finishedBackground.more "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U 
+kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
 
 <!ENTITY installed.title "Bywerking geïnstalleer">
 <!ENTITY installed.intro "Die bywerking is suksesvol geïnstalleer.">

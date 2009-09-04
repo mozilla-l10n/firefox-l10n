@@ -3,7 +3,7 @@
 <!-- entities split out from browser.dtd -->
 
 <!ENTITY next.label "Volgende">
-<!ENTITY next.accesskey "N">
+<!ENTITY next.accesskey "n">
 <!ENTITY next.tooltip "Vind die volgende voorkoms van die frase">
 <!ENTITY previous.label "Vorige">
 <!ENTITY previous.accesskey "V">

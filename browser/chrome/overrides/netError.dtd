@@ -81,12 +81,14 @@ werk.</li>
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Kontroleer die instaanopstelling om te verseker dat dit korrek is.</li> 
 <li>Kontroleer of u rekenaar 'n werkende netwerkverbinding het.</li> 
-<li>Indien u rekenaar of netwerk deur 'n brandmuur of instaanbediener beskerm word, maak seker dat &brandShortName; toegelaat word om toegang tot die web te verkry.</li> 
+<li>Indien u rekenaar of netwerk deur 'n brandmuur of instaanbediener beskerm word, maak seker 
+dat &brandShortName; toegelaat word om toegang tot die web te verkry.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Die bladsy herverwys nie behoorlik nie">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Hierdie probleem kan soms veroorsaak word deur koekies te deaktiveer of te weier om koekies te aanvaar.</li> 
+<li>Hierdie probleem kan soms veroorsaak word deur koekies te deaktiveer of 
+te weier om koekies te aanvaar.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Onverwagse respons vanaf bediener">
@@ -120,7 +122,7 @@ instaanbediener beskerm word, maak seker dat &brandShortName; toegelaat word om 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Vermoedelik 'n aanvalswerf!">
-<!ENTITY malwareBlocked.longDesc "<p>Aanvalswerwe probeer programme installeer wat private inligting steel, jou rekenaar gebruik om ander aan te val, of jou stelsel beskadig.</p> 
+<!ENTITY malwareBlocked.longDesc "<p>Aanvalswerwe probeer programme installeer wat private inligting steel, u rekenaar gebruik om ander aan te val, of u stelsel beskadig.</p> 
 <p>Webwerf-eienaars wat vermoed dat hul werf foutief as 'n aanvalswerf aangegee is, kan <a href='http://www.stopbadware.org/home/reviewinfo' >versoek dat dit herevalueer word</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Moontlike webnamaaksel!">

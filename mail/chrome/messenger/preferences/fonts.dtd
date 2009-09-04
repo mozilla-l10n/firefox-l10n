@@ -14,11 +14,11 @@
 <!ENTITY proportional.accesskey "P">
 
 <!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "s">
+<!ENTITY serif.accesskey "S">
 <!ENTITY sans-serif.label "Sans-serif:">
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "Monospasie:">
-<!ENTITY monospace.accesskey "m">
+<!ENTITY monospace.accesskey "M">
 
 <!ENTITY font.langGroup.latin1 "Westers">
 <!ENTITY font.langGroup.latin2 "Sentraal-Europees">
@@ -62,7 +62,7 @@
 <!-- Language settings -->
 
 <!ENTITY sendDefaultCharset.label "Uitgaande pos:">
-<!ENTITY sendDefaultCharset.accesskey "u">
+<!ENTITY sendDefaultCharset.accesskey "U">
 <!ENTITY languagesTitle1.label "Karakterenkodering">
 <!ENTITY composingDescription.label "Stel die verstek-karakterenkodering op vir pos stuur en ontvang">
 

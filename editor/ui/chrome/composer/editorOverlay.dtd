@@ -48,25 +48,25 @@
 <!ENTITY newBlankPageCmd.label "Composer Page">
 <!ENTITY newBlankPageCmd.accesskey "P">
 <!ENTITY newMenu.label "Nuwe">
-<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY openFileCmd.label "Open lêer…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Open Web Location…">
 <!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "e">
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Recent Pages">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "Revert">
 <!ENTITY fileRevert.accesskey "v">
 <!ENTITY saveCmd.label "Save">
 <!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveCmd.key "n">
+<!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "Save As…">
 <!ENTITY saveAsCmd.accesskey "A">
 
 <!ENTITY publishCmd.label "Publish">
 <!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "n">
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publish As…">
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY exportToTextCmd.label "Export to Text…">
@@ -77,10 +77,10 @@
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Send Page…">
 <!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Print…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printSetupCmd.label "Bladsyopstelling…">
+<!ENTITY printSetupCmd.accesskey "t">
+<!ENTITY printCmd.label "Druk…">
+<!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "Close">
 <!ENTITY closeCmd.accesskey "C">
@@ -112,18 +112,18 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Gaan spelling na terwyl u tik">
 <!ENTITY enableInlineSpellChecker.accesskey "G">
-<!ENTITY checkSpellingCmd.label "Check Spelling">
-<!ENTITY checkSpellingCmd.accesskey "h">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Check Spelling">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Validate HTML">
 <!ENTITY validateCmd.accesskey "V">
 <!-- Insert menu items -->
 
-<!ENTITY insertMenu.label "Voeg in">
-<!ENTITY insertMenu.accesskey "V">
+<!ENTITY insertMenu.label "Insert">
+<!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Link…">
 <!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "e">
+<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Named Anchor…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Image…">
@@ -345,8 +345,8 @@
 <!ENTITY tableMenu.accesskey "b">
 <!-- Select Submenu -->
 
-<!ENTITY tableSelectMenu.label "Merk">
-<!ENTITY tableSelectMenu.accesskey "M">
+<!ENTITY tableSelectMenu.label "Select">
+<!ENTITY tableSelectMenu.accesskey "S">
 
 <!ENTITY tableSelectMenu2.label "Table Select">
 <!ENTITY tableSelectMenu2.accesskey "S">
@@ -356,8 +356,8 @@
 <!ENTITY tableDeleteMenu2.accesskey "D">
 <!-- Insert SubMenu -->
 
-<!ENTITY tableInsertMenu.label "Voeg in">
-<!ENTITY tableInsertMenu.accesskey "V">
+<!ENTITY tableInsertMenu.label "Insert">
+<!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Table">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Row">
@@ -420,13 +420,13 @@
 <!ENTITY findToolbarCmd.tooltip "Vind teks in bladsy">
 <!ENTITY spellToolbarCmd.label "Spel">
 <!ENTITY spellToolbarCmd.tooltip "Toets spelling van gemerkte teks of hele bladsy">
-<!ENTITY imageToolbarCmd.label "Prent">
+<!ENTITY imageToolbarCmd.label "Image">
 <!ENTITY imageToolbarCmd.tooltip "Voeg nuwe prent in of redigeer gemerkte prent se eienskappe">
 <!ENTITY hruleToolbarCmd.label "H.streep">
 <!ENTITY hruleToolbarCmd.tooltip "Voeg horisontale streep in of redigeer gemerkte streep se eienskappe">
-<!ENTITY tableToolbarCmd.label "Tabel">
+<!ENTITY tableToolbarCmd.label "Table">
 <!ENTITY tableToolbarCmd.tooltip "Voeg nuwe tabel in of redigeer gemerkte tabel se eienskappe">
-<!ENTITY linkToolbarCmd.label "Skakel">
+<!ENTITY linkToolbarCmd.label "Link">
 <!ENTITY linkToolbarCmd.tooltip "Voeg nuwe skakel in of redigeer gemerkte skakel se eienskappe">
 <!ENTITY anchorToolbarCmd.label "Anker">
 <!ENTITY anchorToolbarCmd.tooltip "Voeg nuwe genoemde anker in of redigeer gemerkte anker se eienskappe">
@@ -438,9 +438,9 @@
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kleiner lettertipe">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Groter lettertipe">
-<!ENTITY boldToolbarCmd.tooltip "Vet">
-<!ENTITY italicToolbarCmd.tooltip "Skuins">
-<!ENTITY underlineToolbarCmd.tooltip "Onderstreep">
+<!ENTITY boldToolbarCmd.tooltip "Bold">
+<!ENTITY italicToolbarCmd.tooltip "Italic">
+<!ENTITY underlineToolbarCmd.tooltip "Underline">
 <!ENTITY bulletListToolbarCmd.tooltip "Verwyder of voeg kollys by">
 <!ENTITY numberListToolbarCmd.tooltip "Verwyder of voeg nommerlys by">
 <!ENTITY outdentToolbarCmd.tooltip "Keep teks uit (skuif links)">
@@ -455,19 +455,19 @@
 
 <!ENTITY NormalModeTab.label "Gewoon">
 <!ENTITY NormalMode.label "Gewoneredigeer-modus">
-<!ENTITY NormalMode.accesskey "g">
+<!ENTITY NormalMode.accesskey "G">
 <!ENTITY NormalMode.tooltip "Wys tabelrande en genoemde ankers">
 <!ENTITY AllTagsMode.label "HTML-merkers">
-<!ENTITY AllTagsMode.accesskey "E">
+<!ENTITY AllTagsMode.accesskey "e">
 <!ENTITY AllTagsMode.tooltip "Vertoon ikone vir alle HTML-merkers">
 
 <!ENTITY HTMLSourceMode.label "HTML-bron">
 <!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
 <!ENTITY SourceMode.label "Bron">
-<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "Redigeer HTML-bron">
 <!ENTITY PreviewMode.label "Voorskou">
-<!ENTITY PreviewMode.accesskey "v">
+<!ENTITY PreviewMode.accesskey "V">
 <!ENTITY PreviewMode.tooltip "Display as WYSIWYG (as in the browser)">
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
      Use latin "ltr" if you want the <html> image to left of the 
@@ -479,19 +479,19 @@
 <!ENTITY SourceTabDirection "ltr">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Merk">
-<!ENTITY structSelect.accesskey "m">
+<!ENTITY structSelect.label "Select">
+<!ENTITY structSelect.accesskey "s">
 <!ENTITY structRemoveTag.label "Verwyder merker">
-<!ENTITY structRemoveTag.accesskey "v">
+<!ENTITY structRemoveTag.accesskey "V">
 <!ENTITY structChangeTag.label "Wysig merker">
-<!ENTITY structChangeTag.accesskey "w">
+<!ENTITY structChangeTag.accesskey "W">
 <!-- TOC manipulation -->
 
-<!ENTITY insertTOC.label "Voeg in">
-<!ENTITY insertTOC.accesskey "v">
+<!ENTITY insertTOC.label "Insert">
+<!ENTITY insertTOC.accesskey "i">
 <!ENTITY updateTOC.label "Werk by">
-<!ENTITY updateTOC.accesskey "w">
+<!ENTITY updateTOC.accesskey "W">
 <!ENTITY removeTOC.label "Verwyder">
-<!ENTITY removeTOC.accesskey "v">
+<!ENTITY removeTOC.accesskey "V">
 <!ENTITY tocMenu.label "Table of Contents…">
 <!ENTITY tocMenu.accesskey "b">

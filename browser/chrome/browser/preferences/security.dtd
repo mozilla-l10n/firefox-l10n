@@ -23,15 +23,15 @@
 <!ENTITY rememberPasswords.label "Onthou wagwoorde vir werwe">
 <!ENTITY rememberPasswords.accesskey "O">
 <!ENTITY passwordExceptions.label "Uitsonderings…">
-<!ENTITY passwordExceptions.accesskey "u">
+<!ENTITY passwordExceptions.accesskey "U">
 
 <!ENTITY useMasterPassword.label "Gebruik 'n meesterwagwoord">
 <!ENTITY useMasterPassword.accesskey "G">
 <!ENTITY changeMasterPassword.label "Wysig meesterwagwoord…">
-<!ENTITY changeMasterPassword.accesskey "M">
+<!ENTITY changeMasterPassword.accesskey "m">
 
 <!ENTITY savedPasswords.label "Gestoorde wagwoorde…">
-<!ENTITY savedPasswords.accesskey "W">
+<!ENTITY savedPasswords.accesskey "w">
 
 
 <!ENTITY warnings.label "Waarskuboodskappe">

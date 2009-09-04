@@ -35,7 +35,8 @@ versoenbare bywerkings vir hierdie byvoegings gevind word.">
 
 <!ENTITY finished.wizard.title "Versoenbare byvoegings geïnstalleer">
 <!ENTITY finished.top.label "&brandShortName; het die bywerkings vir u byvoegings geïnstalleer.">
-<!ENTITY finished.checkDisabled.desc "&brandShortName; kan nou en dan kontroleer en u verwittig wanneer bywerkings vir byvoegings gevind word.">
+<!ENTITY finished.checkDisabled.desc "&brandShortName; kan nou en dan kontroleer en u verwittig 
+wanneer bywerkings vir byvoegings gevind word.">
 <!ENTITY finished.checkEnabled.desc "&brandShortName; sal nou en dan kontroleer en u verwittig 
 wanneer bywerkings vir byvoegings gevind word.">
 

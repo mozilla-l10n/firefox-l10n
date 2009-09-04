@@ -32,7 +32,7 @@
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Draad">
-<!ENTITY fromColumn.label "From">
+<!ENTITY fromColumn.label "Van">
 <!ENTITY recipientColumn.label "Ontvanger">
 <!ENTITY subjectColumn.label "Onderwerp">
 <!ENTITY dateColumn.label "Datum">

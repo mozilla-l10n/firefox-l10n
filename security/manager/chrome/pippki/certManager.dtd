@@ -124,7 +124,7 @@
 <!ENTITY certmgr.restore2.label "Invoer…">
 <!ENTITY certmgr.restore2.accesskey "n">
 <!ENTITY certmgr.details.label "Sertifikaatvelde">
-<!ENTITY certmgr.details.accesskey "V">
+<!ENTITY certmgr.details.accesskey "v">
 <!ENTITY certmgr.fields.label "Veldwaarde">
 <!ENTITY certmgr.fields.accesskey "V">
 <!ENTITY certmgr.hierarchy.label "Sertifikaathiërargie">
@@ -134,7 +134,7 @@
 
 <!ENTITY exceptionMgr.title "Voeg sekuriteituitsondering by">
 <!ENTITY exceptionMgr.exceptionButton "Bevestig sekuriteituitsondering">
-<!ENTITY exceptionMgr.exceptionButtonAccess "C">
+<!ENTITY exceptionMgr.exceptionButtonAccess "B">
 <!ENTITY exceptionMgr.supplementalWarning "Legitieme banke, winkels en ander publieke werwe sal u nie vra om dit te doen nie.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Bediener">
 <!ENTITY exceptionMgr.certlocation.url "Ligging:">

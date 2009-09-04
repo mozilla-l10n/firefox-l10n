@@ -6,11 +6,10 @@
 <!ENTITY serverName.label "Bedienernaam:">
 <!ENTITY serverName.accesskey "B">
 <!ENTITY userName.label "Gebruikername:">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "n">
 <!ENTITY port.label "Poort:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Verstek:">
-<!ENTITY savePassword.label "Onthou my wagwoord">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -19,23 +18,18 @@
 <!ENTITY biffStart.label "Check for new messages every ">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "minute">
-<!ENTITY isSecure.label "Gebruik veilige verbinding (SSL)">
-<!ENTITY isSecure.accesskey "G">
-<!ENTITY socketType.label "Gebruik beveiligde verbinding:">
-<!ENTITY neverSecure.label "Nooit">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, indien beskikbaar">
-<!ENTITY sometimesSecure.accesskey "b">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "Geen">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Gebruik beveiligde magtiging">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "Laat boodskappe op bediener agter">
 <!ENTITY leaveOnServer.accesskey "a">
-<!ENTITY headersOnly.label "Haal net kopskrifte">
-<!ENTITY headersOnly.accesskey "h">
+<!ENTITY headersOnly.label "Fetch headers only">
+<!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "Vir die meeste">
 <!ENTITY deleteByAgeFromServer.accesskey "i">
 <!ENTITY daysEnd.label "dae">
@@ -77,7 +71,7 @@
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Verstek-karakterenkodering:">
 <!ENTITY localFolderPicker.label "Kies plaaslike gids">
-<!ENTITY browseFolder.label "Browse…">
+<!ENTITY browseFolder.label "Blaai…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Kies newsrc-lêer">
 <!ENTITY browseNewsrc.label "Browse…">

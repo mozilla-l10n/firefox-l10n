@@ -1,0 +1,66 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title "About Your Rights">
+<!ENTITY rights.intro-header "About Your Rights">
+<!ENTITY rights.intro "&brandFullName; is vrye, oop sagteware wat deur 'n gemeenskap van derduisende mense van reg oor die wêreld gebou is. Hier is 'n paar dinge wat u moet weet:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; word aan u beskikbaar gestel ingevolge die ">
+<!ENTITY rights.intro-point1b "Mozilla Publieke Lisensie">
+<!ENTITY rights.intro-point1c ". Dit beteken dat u &brandShortName; kan gebruik, kopieer en versprei.  U kan ook die bronkode van &brandShortName; wysig, as u dit wil, om aan u behoeftes te voldoen. Die Mozilla Publieke Lisensie gee u ook die reg om gewysigde weergawes te versprei.">
+
+<!ENTITY rights.intro-point2a "Mozilla does not grant you any rights to the Mozilla and Thunderbird trademarks or logos. Additional information on Trademarks may be found ">
+<!ENTITY rights.intro-point2b "hier">
+<!ENTITY rights.intro-point2c " te kry.">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3a "Die privaatheidbeleid vir &vendorShortName; se produkte kan ">
+<!ENTITY rights.intro-point3b "hier">
+<!ENTITY rights.intro-point3c " gelees word.">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Enige toepaslike privaatheidbeleid vir hierdie produk sal daar gelys wees.">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights.intro-point4a "&brandShortName; also offers optional services, such as the add-on update service; however we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
+<!ENTITY rights.intro-point4b "diensbepalings">
+<!ENTITY rights.intro-point4c " te kry.">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "Indien hierdie produk webdienste bevat, behoort enige toepaslike diensbepalings vir die diens(te) aan die ">
+<!ENTITY rights.intro-point4b-unbranded "webwerfdienste">
+<!ENTITY rights.intro-point4c-unbranded "-afdeling gekoppel wees.">
+
+<!ENTITY rights.webservices-header "&brandFullName;-webwerfdienste">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights.webservices-a "&brandFullName; offers optional services (&quot;Services&quot;), such as the add-on update service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the add-on update service by opening the application preferences, selecting the ">
+<!ENTITY rights.webservices-b "Gevorderd">
+<!ENTITY rights.webservices-c " section, followed by the ">
+<!ENTITY rights.webservices-d "Bywerk">
+<!ENTITY rights.webservices-e " tab, and unchecking the options for &quot;Automatically check for updates to&quot;.">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "'n Oorsig oor die webwerfdienste wat die produk bevat, asook instruksies hoe om hulle te deaktiveer, indien van toepassing, behoort hierby ingesluit te wees.">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "Enige toepaslike diensbepalings vir hierdie produk sal daar gelys wees.">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights.webservices-term1 "&vendorShortName; kan die dienste na goeddunke opskort of wysig.">
+<!ENTITY rights.webservices-term2 "U kan hierdie dienste met die meegaande weergawe van &brandShortName; gebruik -- u het alle reg om dit te doen.  &vendorShortName; en sy lisensiegewers behou hulle alle ander regte in die dienste voor.  Hierdie bepalings is nie ten doel om enige regte in te perk wat ingevolge die oopbronlisensies wat op &brandShortName; en die ooreenstemmende bronkode-weergawes van &brandShortName; van toepassing is nie.">
+<!ENTITY rights.webservices-term3 "Die Dienste word voetstoots verskaf. &vendorShortName;, sy bydraers, lisensieerders en verspreiders ontken alle waarborge, hetsy uitdruklik of geïmpliseer, met inbegrip van, sonder beperking, waarborge dat die Dienste verhandelbaar is en geskik is vir u besondere doeleindes. U dra die volle risiko wat betref die keuse van die Dienste vir u doeleindes en die gehalte en prestasie van die Dienste. Sommige owerhede verbied die uitsluiting of beperking van geïmpliseerde waarborge.  Hierdie ontkenning is dus moontlik nie op u van toepassing nie.">
+<!ENTITY rights.webservices-term4 "Tensy die reg dit vereis is &vendorShortName; sy bydraers, lisensieerders en verspreiders nie aanspreeklik vir enige indirekte, spesiale, toevallige,  gevolg- of bestraffende skadevergoeding wat spruit uit, of op enige manier te doen het met, die gebruik van &brandShortName; en die Dienste nie. Die gesamentlike aanspreeklikheid van hierdie bepalings sal nie $500 (vyfhonderd dollars) oorskry nie. Sommige owerhede verbied die uitsluiting of beperking van sekere skadevergoeding. Hierdie uitsluiting is dus moontlik nie op u van toepassing nie.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or canceled without &vendorShortName;'s written agreement.">
+<!ENTITY rights.webservices-term6 "Hierdie bepalings word beheer deur die reg van die Staat van Kalifornië, V.S.A., met die uitsluiting van die bepalings in verband met internasionale privaatreg. As beslis word dat enige deel van hierdie bepalings ongeldig of onafdwingbaar is, bly die oorblywende dele ten volle van krag. In die geval waar die vertaalde weergawe in stryd is met die Engelse weergawe van hierdie bepalings, sal die Engelse bepalings geld.">

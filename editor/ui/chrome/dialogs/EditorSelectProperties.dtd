@@ -38,7 +38,7 @@
 
 <!ENTITY Select.label "Seleksielys">
 <!ENTITY SelectName.label "Lysnaam:">
-<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectName.accesskey "n">
 <!ENTITY SelectSize.label "Hoogte:">
 <!ENTITY SelectSize.accesskey "H">
 <!ENTITY SelectMultiple.label "Meervoudige seleksie">
@@ -46,7 +46,7 @@
 <!ENTITY SelectDisabled.label "Gedeaktiveer">
 <!ENTITY SelectDisabled.accesskey "G">
 <!ENTITY SelectTabIndex.label "Oortjie-indeks:">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.accesskey "i">
 
 <!ENTITY OptGroup.label "Opsiegroep">
 <!ENTITY OptGroupLabel.label "Etiket:">
@@ -60,7 +60,7 @@
 <!ENTITY OptionValue.label "Waarde:">
 <!ENTITY OptionValue.accesskey "W">
 <!ENTITY OptionSelected.label "Aanvanklik gekies">
-<!ENTITY OptionSelected.accesskey "G">
+<!ENTITY OptionSelected.accesskey "g">
 <!ENTITY OptionDisabled.label "Gedeaktiveer">
 <!ENTITY OptionDisabled.accesskey "G">
 
@@ -69,12 +69,12 @@
 <!ENTITY SelectedHeader.label "Gekies">
 
 <!ENTITY AddOption.label "Voeg opsie by">
-<!ENTITY AddOption.accesskey "O">
+<!ENTITY AddOption.accesskey "o">
 <!ENTITY AddOptGroup.label "Voeg groep by">
-<!ENTITY AddOptGroup.accesskey "G">
+<!ENTITY AddOptGroup.accesskey "g">
 <!ENTITY RemoveElement.label "Verwyder">
 <!ENTITY RemoveElement.accesskey "V">
 <!ENTITY MoveElementUp.label "Skuif op">
-<!ENTITY MoveElementUp.accesskey "O">
+<!ENTITY MoveElementUp.accesskey "o">
 <!ENTITY MoveElementDown.label "Skuif af">
-<!ENTITY MoveElementDown.accesskey "A">
+<!ENTITY MoveElementDown.accesskey "a">

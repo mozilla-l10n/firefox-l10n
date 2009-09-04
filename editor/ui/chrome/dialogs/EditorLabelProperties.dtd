@@ -40,11 +40,11 @@
 <!ENTITY Settings.accesskey "O">
 
 <!ENTITY EditLabelText.label "Redigeer teks:">
-<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY EditLabelText.accesskey "t">
 <!ENTITY LabelFor.label "Vir kontrole:">
 <!ENTITY LabelFor.accesskey "V">
 <!ENTITY AccessKey.label "Toegangsleutel:">
-<!ENTITY AccessKey.accesskey "S">
+<!ENTITY AccessKey.accesskey "s">
 
 <!ENTITY RemoveLabel.label "Verwyder etiket">
 <!ENTITY RemoveLabel.accesskey "V">
