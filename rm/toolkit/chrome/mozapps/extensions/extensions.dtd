@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "u">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Tschertgar actualisaziuns per supplements">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Tschertgar actualisaziuns per designs">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Tschertgar actualisaziuns per plug-ins">
 <!ENTITY cmd.installLocalFile.label       "Installar...">
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Installar il supplement">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Pretenda ulteriurs supplements.">
 <!ENTITY blocklisted.label                "Deactivà per motivs da segirezza.">
 <!ENTITY softBlocklisted.label            "Ins sa che quai chaschuna problems da segirezza u da stabilitad.">
+<!ENTITY outdated.label                   "Ina versiun pli nova e pli segira è disponibla.">
 <!ENTITY toBeDisabled.label               "Quest supplement vegn deactivà, sche &brandShortName; vegn reavià.">
 <!ENTITY toBeEnabled.label                "Quest supplement vegn activà, sche &brandShortName; vegn reavià.">
 <!ENTITY toBeInstalled.label              "Quest supplement vegn installà, sche &brandShortName; vegn reavià.">
