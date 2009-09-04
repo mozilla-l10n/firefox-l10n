@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Tam ekran">
 <!ENTITY fullScreenCmd.accesskey "T">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Tüm sekmeleri göster">
 <!ENTITY showAllTabsCmd.accesskey "s">
 
@@ -410,7 +411,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label "Bu sayfada bul…">
 <!ENTITY findOnCmd.accesskey "s">
-<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Sonrakini bul">
 <!ENTITY findAgainCmd.accesskey "a">
 <!ENTITY findAgainCmd.commandkey "G">
