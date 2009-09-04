@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "y">
 <!ENTITY fullScreenCmd.label "Folslein skerm">
 <!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Toan alle ljepblêden">
 <!ENTITY showAllTabsCmd.accesskey "T">
 
