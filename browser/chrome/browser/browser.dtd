@@ -58,6 +58,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "a">
+<!ENTITY fullScreenCmd.macCommandKey "a">
 <!ENTITY showAllTabsCmd.label "Mostrar todos os separadores">
 <!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
