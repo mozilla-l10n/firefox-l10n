@@ -1,0 +1,10 @@
+<!ENTITY aboutPage.title "Acerca de &brandShortName;">
+<!ENTITY aboutPage.faq.label "PUF">
+<!ENTITY aboutPage.support.label "Asistencia">
+<!ENTITY aboutPage.privacyPolicy.label "Política de privacidad">
+<!ENTITY aboutPage.rights.label "Conozca sus derechos">
+<!ENTITY aboutPage.relNotes.label "Notas de publicación">
+<!ENTITY aboutPage.credits.label "Créditos">
+<!ENTITY aboutPage.copyrightInfo1 "©1998-2009 Colaboradores. Todos los derechos reservados. (">
+<!ENTITY aboutPage.licenseLink "Información sobre la licencia ">
+<!ENTITY aboutPage.copyrightInfo2 ").">
