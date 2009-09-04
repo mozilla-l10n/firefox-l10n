@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "Over &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Ondersteuning">
+<!ENTITY aboutPage.privacyPolicy.label          "Privacybeleid">
+<!ENTITY aboutPage.rights.label                 "Ken uw rechten">
+<!ENTITY aboutPage.relNotes.label               "Uitgaveopmerkingen">
+<!ENTITY aboutPage.credits.label                "Credits">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Medewerkers. Alle rechten voorbehouden. (">
+<!ENTITY aboutPage.licenseLink                  "Licentie-informatie">
+<!ENTITY aboutPage.copyrightInfo2               ").">
