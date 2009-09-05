@@ -49,7 +49,8 @@
 <!ENTITY pageInfoCmd.accesskey "S">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Vollbild">
-<!ENTITY fullScreenCmd.accesskey "v">
+<!ENTITY fullScreenCmd.accesskey "V">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Alle Tabs anzeigen">
 <!ENTITY showAllTabsCmd.accesskey "z">
 
