@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "k">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Auf Updates für Add-ons überprüfen">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Auf Updates für Themes überprüfen">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Auf Updates für Plugins überprüfen">
 <!ENTITY cmd.installLocalFile.label       "Installieren…">
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Add-on installieren">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Erfordert weitere Add-ons">
 <!ENTITY blocklisted.label                "Zu Ihrer Sicherheit deaktiviert">
 <!ENTITY softBlocklisted.label            "Bekannt für Sicherheits- oder Stabilitätsprobleme">
+<!ENTITY outdated.label                   "Eine aktuellere und sicherere Version ist verfügbar."> 
 <!ENTITY toBeDisabled.label               "Dieses Add-on wird deaktiviert, wenn &brandShortName; neu gestartet wird.">
 <!ENTITY toBeEnabled.label                "Dieses Add-on wird aktiviert, wenn &brandShortName; neu gestartet wird.">
 <!ENTITY toBeInstalled.label              "Dieses Add-on wird installiert, wenn &brandShortName; neu gestartet wird.">
