@@ -1,0 +1,10 @@
+<!ENTITY aboutPage.title "О &brandShortName;">
+<!ENTITY aboutPage.faq.label "FAQ">
+<!ENTITY aboutPage.support.label "Поддержка">
+<!ENTITY aboutPage.privacyPolicy.label "Политика приватности">
+<!ENTITY aboutPage.rights.label "Узнайте о своих правах">
+<!ENTITY aboutPage.relNotes.label "Примечания к выпуску">
+<!ENTITY aboutPage.credits.label "Авторы">
+<!ENTITY aboutPage.copyrightInfo1 "©1998–2009 Участники проекта. Все права защищены. (">
+<!ENTITY aboutPage.licenseLink "Информация о лицензии">
+<!ENTITY aboutPage.copyrightInfo2 ").">

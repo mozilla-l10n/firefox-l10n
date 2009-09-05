@@ -38,6 +38,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Полноэкранный режим">
 <!ENTITY fullScreenCmd.accesskey "э">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Показать все вкладки">
 <!ENTITY showAllTabsCmd.accesskey "в">
 <!ENTITY fullScreenMinimize.tooltip "Свернуть">
@@ -251,8 +252,6 @@
 <!ENTITY copyAudioURLCmd.label "Копировать ссылку на аудио">
 <!ENTITY copyAudioURLCmd.accesskey "п">
 <!ENTITY blockImageCmd.accesskey "л">
-<!ENTITY metadataCmd.label "Свойства">
-<!ENTITY metadataCmd.accesskey "й">
 <!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
 <!ENTITY copyEmailCmd.accesskey "э">
 <!ENTITY thisFrameMenu.label "В этом фрейме">

@@ -7,10 +7,10 @@
 <!ENTITY closeTabCmd.accesskey "к">
 <!ENTITY newVirtualFolderCmd.label "Виртуальную папку…">
 <!ENTITY newVirtualFolderCmd.accesskey "В">
-<!ENTITY newAccountCmd.label "Учётную запись…">
-<!ENTITY newAccountCmd.accesskey "У">
-<!ENTITY newMailAccountCmd.label "Учётную запись почты (Быстрая настройка)…">
-<!ENTITY newMailAccountCmd.accesskey "с">
+<!ENTITY newOtherAccountsCmd.label "Другие учётные записи…">
+<!ENTITY newOtherAccountsCmd.accesskey "г">
+<!ENTITY newEmailAccountCmd.label "Учётную запись почты…">
+<!ENTITY newEmailAccountCmd.accesskey "ч">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
 <!ENTITY openAttachmentCmd.label "Вложения">

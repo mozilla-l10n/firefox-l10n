@@ -26,10 +26,16 @@
 <!ENTITY hdrJunkButton.label "спам">
 <!ENTITY trashButton.tooltiptext "удалить">
 <!ENTITY otherActionsButton.label "другие действия">
+<!ENTITY otherActionsOpenInNewWindow.label "открыть в новом окне">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "н">
+<!ENTITY otherActionsOpenInNewTab.label "открыть в новой вкладке">
+<!ENTITY otherActionsOpenInNewTab.accesskey "к">
 <!ENTITY saveAsMenuItem.label "сохранить как…">
-<!ENTITY saveAsMenuItem.accesskey "с">
-<!ENTITY viewSourceMenuItem.label "показать исходник…">
-<!ENTITY viewSourceMenuItem.accesskey "х">
+<!ENTITY saveAsMenuItem.accesskey "х">
+<!ENTITY viewSourceMenuItem.label "показать исходник">
+<!ENTITY viewSourceMenuItem.accesskey "д">
+<!ENTITY otherActionsPrint.label "распечатать…">
+<!ENTITY otherActionsPrint.accesskey "п">
 <!ENTITY openAttachmentCmd.label "Открыть">
 <!ENTITY openAttachmentCmd.accesskey "О">
 <!ENTITY saveAsAttachmentCmd.label "Сохранить как…">
