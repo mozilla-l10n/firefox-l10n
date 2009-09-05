@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "z">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Zoekt updates voor uw add-ons">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Zoekt updates voor uw thema’s">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Zoekt updates voor uw plugins">
 <!ENTITY cmd.installLocalFile.label       "Installeren…">
 <!ENTITY cmd.installLocalFile.accesskey   "s">
 <!ENTITY cmd.installFileAddon.tooltip     "Een add-on installeren">
