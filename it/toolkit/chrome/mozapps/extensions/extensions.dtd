@@ -15,6 +15,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "C">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Cerca aggiornamenti per i componenti installati">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Cerca aggiornamenti per i temi installati">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Ricerca aggiornamenti per i plugin in uso">
 <!ENTITY cmd.installLocalFile.label "Installa…">
 <!ENTITY cmd.installLocalFile.accesskey "n">
 <!ENTITY cmd.installFileAddon.tooltip "Installa un componente aggiuntivo">
@@ -97,6 +98,7 @@
 <!ENTITY needsDependencies.label "Richiede elementi aggiuntivi.">
 <!ENTITY blocklisted.label "Disattivato per proteggere il computer.">
 <!ENTITY softBlocklisted.label "Identificato come causa di problemi di stabilità o sicurezza.">
+<!ENTITY outdated.label "È disponibile una versione aggiornata e più sicura.">
 <!ENTITY toBeDisabled.label "Questo componente verrà disattivato al prossimo avvio di &brandShortName;.">
 <!ENTITY toBeEnabled.label "Questo componente verrà attivato al prossimo avvio di &brandShortName;.">
 <!ENTITY toBeInstalled.label "Questo componente verrà installato al prossimo avvio di &brandShortName;.">
