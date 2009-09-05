@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "c">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Rechercher des mises à jour pour pour vos modules complémentaires">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Rechercher des mises à jour pour vos thèmes">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Rechercher des mises à jour pour vos plugins">
 <!ENTITY cmd.installLocalFile.label       "Installer…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "Installer un module complémentaire">
@@ -115,6 +116,7 @@
 <!ENTITY needsDependencies.label          "Nécessite des éléments supplémentaires.">
 <!ENTITY blocklisted.label                "Désactivé pour votre protection.">
 <!ENTITY softBlocklisted.label            "Connu pour causer des problèmes de sécurité ou de stabilité.">
+<!ENTITY outdated.label                   "Une nouvelle version plus sûre est disponible.">
 <!ENTITY toBeDisabled.label               "Ce module sera désactivé au prochain redémarrage de &brandShortName;.">
 <!ENTITY toBeEnabled.label                "Ce module sera activé au prochain redémarrage de &brandShortName;.">
 <!ENTITY toBeInstalled.label              "Ce module sera installé au prochain redémarrage de &brandShortName;.">
