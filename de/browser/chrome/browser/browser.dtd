@@ -368,6 +368,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Ausschneiden">
 <!ENTITY copyButton.tooltip             "Kopieren">
 <!ENTITY pasteButton.tooltip            "Einfügen">
+<!ENTITY fullScreenButton.tooltip       "Fenster im Vollbild anzeigen">
 
 <!ENTITY quitApplicationCmdWin.label       "Beenden"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "B">
