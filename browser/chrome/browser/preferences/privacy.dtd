@@ -57,8 +57,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "gesamte bisherige Chronik">
 <!ENTITY  dontrememberActions.post.label         " löschen.">
 
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; automatisch im privaten Modus starten"> 
-<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+<!ENTITY  privateBrowsingPermanent.label "Permanenter privater Modus">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
