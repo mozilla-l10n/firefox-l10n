@@ -1,11 +1,14 @@
-<!ENTITY enbJsCheckMailNews.label "Mail &amp; Nieuwsgroepen">
-<!ENTITY enbJsCheckMailNews.accesskey "M">
+<!-- These are added to the Advanced - Scripts & Plugins panel -->
 <!ENTITY enbPluginCheckMailNews.label "Mail &amp; Nieuwsgroepen">
-<!ENTITY enbPluginCheckMailNews.accesskey "A">
+<!ENTITY enbPluginCheckMailNews.accesskey "a">
+
+<!-- These are added to the Window menu -->
 <!ENTITY mail.label "Mail &amp; Nieuwsgroepen">
 <!ENTITY mail.accesskey "M">
 <!ENTITY addressbook.label "Adresboek">
 <!ENTITY addressbook.accesskey "A">
+
+<!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label "Berichtweergave">
 <!ENTITY notifications.label "Berichtgevingen">
 <!ENTITY address.label "Adressering">
