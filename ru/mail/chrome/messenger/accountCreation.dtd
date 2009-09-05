@@ -30,10 +30,9 @@
 <!ENTITY warning.label "Предупреждение!">
 <!ENTITY incomingSettings.label "Параметры входящей почты:">
 <!ENTITY outgoingSettings.label "Параметры исходящей почты:">
-<!ENTITY confirmIncomingWarning.label "Я понимаю риски.">
-<!ENTITY confirmIncomingWarning.accesskey "н">
-<!ENTITY confirmOutgoingWarning.label "Я понимаю риски.">
-<!ENTITY confirmOutgoingWarning.accesskey "и">
+<!ENTITY technicaldetails.label "Технические детали">
+<!ENTITY confirmWarning.label "Я понимаю риск.">
+<!ENTITY confirmWarning.accesskey "н">
 <!ENTITY createAccount.label "Создать учётную запись">
 <!ENTITY createAccount.accesskey "з">
 <!ENTITY changeSettings.label "Изменить настройки">

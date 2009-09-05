@@ -15,6 +15,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "а">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Производит поиск обновлений для ваших дополнений">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Производит поиск обновлений для ваших тем">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Производит поиск обновлений для ваших плагинов">
 <!ENTITY cmd.installLocalFile.label "Установить…">
 <!ENTITY cmd.installLocalFile.accesskey "с">
 <!ENTITY cmd.installFileAddon.tooltip "Установить дополнение">
@@ -97,6 +98,7 @@
 <!ENTITY needsDependencies.label "Требует дополнительных компонентов.">
 <!ENTITY blocklisted.label "Отключено в целях вашей безопасности.">
 <!ENTITY softBlocklisted.label "Вызывает проблемы со стабильностью или безопасностью.">
+<!ENTITY outdated.label "Имеется более новая и безопасная версия.">
 <!ENTITY toBeDisabled.label "Это дополнение будет отключено при перезапуске &brandShortName;.">
 <!ENTITY toBeEnabled.label "Это дополнение будет включено при перезапуске &brandShortName;.">
 <!ENTITY toBeInstalled.label "Это дополнение будет установлено при перезапуске &brandShortName;.">

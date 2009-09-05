@@ -2,6 +2,8 @@
 <!ENTITY searchHeading.accesskey "с">
 <!ENTITY searchSubfolders.label "Включая вложенные папки">
 <!ENTITY searchSubfolders.accesskey "в">
+<!ENTITY searchOnline.label "Поиск онлайн">
+<!ENTITY searchOnline.accesskey "н">
 <!ENTITY resetButton.label "Очистить">
 <!ENTITY resetButton.accesskey "О">
 <!ENTITY openButton.label "Открыть">

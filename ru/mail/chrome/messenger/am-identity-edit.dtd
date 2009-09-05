@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Параметры адреса электронной почты">
 <!ENTITY identityListDesc.label "Настроить параметры данного адреса электронной почты:">
 <!ENTITY settingsTab.label "Настройки">
