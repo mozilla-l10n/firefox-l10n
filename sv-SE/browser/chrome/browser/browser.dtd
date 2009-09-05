@@ -345,10 +345,8 @@
 <!ENTITY copyAudioURLCmd.label        "Kopiera ljudadress">
 <!ENTITY copyAudioURLCmd.accesskey    "r">
 <!ENTITY blockImageCmd.accesskey      "å">
-<!ENTITY metadataCmd.label            "Egenskaper">
-<!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopiera e-postadress">
-<!ENTITY copyEmailCmd.accesskey       "p">
+<!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label          "Denna ram">
 <!ENTITY thisFrameMenu.accesskey      "r">
 
