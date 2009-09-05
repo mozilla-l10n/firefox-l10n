@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Plein écran">
 <!ENTITY fullScreenCmd.accesskey "P">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Afficher tous les onglets">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
