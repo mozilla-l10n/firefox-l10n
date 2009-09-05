@@ -1,0 +1,105 @@
+<!ENTITY back.label            "ਪਿੱਛੇ">
+<!ENTITY forward.label         "ਅੱਗੇ">
+<!ENTITY reload.label          "ਮੁੜ-ਲੋਡ">
+<!ENTITY stop.label            "ਰੋਕੋ">
+<!ENTITY search.label          "ਖੋਜ">
+<!ENTITY go.label              "ਜਾਓ">
+<!ENTITY openLocation.label    "ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ">
+<!ENTITY star.label            "ਤਾਰਾ">
+
+<!ENTITY newtab.label          "ਨਵੀਂ ਟੈਬ">
+<!ENTITY closetab.label        "ਟੈਬ ਬੰਦ ਕਰੋ">
+
+<!ENTITY cut.label             "ਕੱਟੋ">
+<!ENTITY copy.label            "ਕਾਪੀ ਕਰੋ">
+<!ENTITY copylink.label        "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
+<!ENTITY paste.label           "ਚੇਪੋ">
+<!ENTITY delete.label          "ਹਟਾਓ">
+<!ENTITY selectAll.label       "ਸਭ ਚੁਣੋ">
+<!ENTITY noSuggestions.label   "(ਸੁਝਾਅ ਨਹੀਂ)">
+<!ENTITY addToDictionary.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਸ਼ਾਮਲ">
+
+<!ENTITY bookmarksHeader.label     "ਬੁੱਕਮਾਰਕ">
+<!ENTITY bookmarksManage.label     "ਪਰਬੰਧ">
+<!ENTITY foldersHeader.label       "ਫੋਲਡਰ">
+
+<!ENTITY editBookmarkEdit.label    "ਸੋਧ">
+<!ENTITY editBookmarkMove.label    "ਭੇਜੋ">
+<!ENTITY editBookmarkDone.label    "ਮੁਕੰਮਲ">
+<!ENTITY editBookmarkTags.label    "ਇੱਥੇ ਟੈਗ ਸ਼ਾਮਲ">
+
+<!ENTITY helperApp.prompt          "ਤੁਸੀਂ ਕੀ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ">
+<!ENTITY helperApp.open            "ਖੋਲ੍ਹੋ">
+<!ENTITY helperApp.save            "ਸੰਭਾਲੋ">
+<!ENTITY helperApp.nothing         "ਕੁਝ ਨਹੀਂ">
+
+<!ENTITY findOnCmd.label     "…ਇਸ ਪੇਜ਼ ਵਿੱਚ ਲੱਭੋ">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "ਮੁੜ-ਲੱਭੋ">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY addonsHeader.label        "ਐਡ-ਆਨ">
+<!ENTITY addonsLocal.label         "ਤੁਹਾਡੇ ਐਡਆਨ">
+<!ENTITY addonsRepo.label          "ਐਡ-ਆਨ ਲਵੋ">
+<!ENTITY addonsRecommended.label   "ਸਿਫਾਰਸ਼ੀ">
+<!ENTITY addonsSearch.label        "ਖੋਜ">
+<!ENTITY addonsSearch2.emptytext   "ਖੋਜ ਕੈਟਾਲਾਗ">
+<!ENTITY addonsSearch.recommended  "ਸਿਫਾਰਸ਼ ਕੀਤੇ">
+
+<!ENTITY addonOptions.label        "ਚੋਣਾਂ">
+<!ENTITY addonEnable.label         "ਯੋਗ">
+<!ENTITY addonDisable.label        "ਆਯੋਗ">
+<!ENTITY addonInstall2.label       "&brandShortName; ਵਿੱਚ ਸ਼ਾਮਲ">
+<!ENTITY addonUninstall.label      "ਅਣ-ਇੰਸਟਾਲ">
+<!ENTITY addonCancel.label         "ਰੱਦ ਕਰੋ">
+<!ENTITY addonShowPage.label       "ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
+
+<!ENTITY downloadsHeader.label     "ਡਾਊਨਲੋਡ">
+<!ENTITY downloadsSortDate.label   "ਮਿਤੀ">
+<!ENTITY downloadsSortSite.label   "ਸਾਈਟ">
+<!ENTITY downloadsSortName.label   "ਨਾਂ">
+<!ENTITY downloadsSearch.label     "ਖੋਜ">
+<!ENTITY downloadsSearch2.emptytext "ਖੋਜ">
+
+<!ENTITY downloadShowPage.label    "ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
+<!ENTITY downloadShow2.label       "ਖੋਜ">
+<!ENTITY downloadOpen2.label       "ਖੋਲ੍ਹੋ">
+<!ENTITY downloadCancel.label      "ਰੱਦ ਕਰੋ">
+<!ENTITY downloadPause.label       "ਵਿਰਾਮ">
+<!ENTITY downloadResume.label      "ਮੁੜ-ਪ੍ਰਾਪਤ">
+<!ENTITY downloadRetry.label       "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
+
+<!ENTITY noResults.label           "ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ">
+<!ENTITY allBookmarks.label        "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
+
+<!ENTITY searchEngine.addSearch     "ਖੋਜ ਸ਼ਾਮਲ:">
+
+<!ENTITY bookmarkPopup.label       "ਪੇਜ਼ ਬੁੱਕਮਾਰਕ ਕੀਤਾ">
+<!ENTITY bookmarkRemove.label      "ਹਟਾਓ">
+<!ENTITY bookmarkEdit.label        "ਸੋਧ">
+
+<!ENTITY identity.unverifiedsite2 "ਇਹ ਵੈੱਬ ਸਟਾਈ ਪਛਾਣ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੰਦੀ ਹੈ।">
+<!ENTITY identity.connectedTo2 "ਕੁਨੈਕਟ ਕਰੋ">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "ਚਲਾਇਆ ਜਾਂਦਾ ਹੈ">
+
+<!ENTITY consoleHeader.label       "ਗਲਤੀ ਕਨਸੋਲ">
+<!ENTITY consoleAll.label          "ਸਭ">
+<!ENTITY consoleErrors.label       "ਗਲਤੀਆਂ">
+<!ENTITY consoleWarnings.label     "ਚੇਤਾਵਨੀਆਂ">
+<!ENTITY consoleMessages.label     "ਸੁਨੇਹੇ">
+<!ENTITY consoleCodeEval.label     "ਕੋਡ:">
+<!ENTITY consoleClear.label        "ਸਾਫ਼ ਕਰੋ">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "ਸਰੋਤ ਫਾਇਲ:">
+<!ENTITY consoleErrLine.label      "ਲਾਈਨ:">
+<!ENTITY consoleErrColumn.label    "ਕਾਲਮ:">
+
+<!ENTITY selectListDone.label      "ਮੁਕੰਮਲ">
