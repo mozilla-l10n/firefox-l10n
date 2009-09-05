@@ -69,10 +69,16 @@
 <!ENTITY trashButton.tooltiptext "ta bort">
 
 <!ENTITY otherActionsButton.label "andra åtgärder">
+<!ENTITY otherActionsOpenInNewWindow.label "öppna i nytt fönster">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "ö">
+<!ENTITY otherActionsOpenInNewTab.label "öppna i ny flik">
+<!ENTITY otherActionsOpenInNewTab.accesskey "a">
 <!ENTITY saveAsMenuItem.label "spara som…">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "visa källkod…">
 <!ENTITY viewSourceMenuItem.accesskey "v">
+<!ENTITY otherActionsPrint.label "skriv ut…">
+<!ENTITY otherActionsPrint.accesskey "u">
 
 <!ENTITY openAttachmentCmd.label    "Öppna">
 <!ENTITY openAttachmentCmd.accesskey    "p">
