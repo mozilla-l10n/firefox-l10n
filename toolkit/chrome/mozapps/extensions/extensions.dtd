@@ -53,6 +53,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "S">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Söker efter uppdateringar till dina tillägg">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Söker efter uppdateringar till dina teman">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Söker efter uppdateringar till dina insticksmoduler">
 <!ENTITY cmd.installLocalFile.label       "Installera…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "Installera ett tillägg">
@@ -144,6 +145,7 @@
 <!ENTITY needsDependencies.label          "Kräver ytterligare poster.">
 <!ENTITY blocklisted.label                "Inaktiverad av säkerhetsskäl.">
 <!ENTITY softBlocklisted.label            "Känd för att orsaka säkerhets- eller stabilitetsproblem.">
+<!ENTITY outdated.label                   "En ny och bättre version finns tillgänglig.">
 <!ENTITY toBeDisabled.label               "Detta tillägg kommer att inaktiveras när &brandShortName; startas om.">
 <!ENTITY toBeEnabled.label                "Detta tillägg kommer att aktiveras när &brandShortName; startas om.">
 <!ENTITY toBeInstalled.label              "Detta tillägg kommer att installeras när &brandShortName; startas om.">
