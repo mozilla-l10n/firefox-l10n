@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Alle Symbolleisten zurücksetzen">
 <!ENTITY resetToolbars.accesskey      "S">
 
-<!ENTITY resetBookmarks.label         "Lesezeichen auf &brandShortName;-Standardlesezeichen zurücksetzen">
-<!ENTITY resetBookmarks.accesskey     "L">
+<!ENTITY deleteBookmarks.label        "Alle Lesezeichen – abgesehen von Backups – löschen">
+<!ENTITY deleteBookmarks.accesskey    "L">
 
 <!ENTITY resetUserPrefs.label         "Alle Benutzereinstellungen zurücksetzen">
 <!ENTITY resetUserPrefs.accesskey     "B">
