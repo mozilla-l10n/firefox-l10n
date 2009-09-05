@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "N">
 <!ENTITY searchSubfolders.label      "Unterordner durchsuchen">
 <!ENTITY searchSubfolders.accesskey  "U">
+<!ENTITY searchOnline.label          "Online suchen">
+<!ENTITY searchOnline.accesskey      "O">
 <!ENTITY resetButton.label           "Neue Suche">
 <!ENTITY resetButton.accesskey       "c">
 <!ENTITY openButton.label            "Öffnen">
@@ -17,7 +19,7 @@
 <!ENTITY fileButton.accesskey        "b">
 <!ENTITY closeCmd.key                "W">
 <!ENTITY goToFolderButton.label      "Ordner öffnen">
-<!ENTITY goToFolderButton.accesskey  "O">
+<!ENTITY goToFolderButton.accesskey  "d">
 <!ENTITY saveAsVFButton.label        "Als virtuellen Ordner speichern…">
 <!ENTITY saveAsVFButton.accesskey    "v">
 
