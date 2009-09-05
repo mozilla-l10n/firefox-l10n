@@ -38,6 +38,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Увесь экран">
 <!ENTITY fullScreenCmd.accesskey "У">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Паказаць усе ўстаўкі">
 <!ENTITY showAllTabsCmd.accesskey "у">
 <!ENTITY fullScreenMinimize.tooltip "Мінімізаваць">
@@ -251,8 +252,6 @@
 <!ENTITY copyAudioURLCmd.label "Капіяваць месцазнаходжанне гуку">
 <!ENTITY copyAudioURLCmd.accesskey "п">
 <!ENTITY blockImageCmd.accesskey "З">
-<!ENTITY metadataCmd.label "Уласцівасці">
-<!ENTITY metadataCmd.accesskey "У">
 <!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
 <!ENTITY copyEmailCmd.accesskey "Э">
 <!ENTITY thisFrameMenu.label "Гэтая рамка">

@@ -15,6 +15,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "З">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Знайсці абнаўленні вашых дадаткаў">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Знайсці абнаўленні вашых тэмаў">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Знайсці абнаўленні вашых убудоваў">
 <!ENTITY cmd.installLocalFile.label "Усталяваць…">
 <!ENTITY cmd.installLocalFile.accesskey "с">
 <!ENTITY cmd.installFileAddon.tooltip "Усталяваць дадатак">
@@ -97,6 +98,7 @@
 <!ENTITY needsDependencies.label "Патрабуюцца дадатковыя адзінкі">
 <!ENTITY blocklisted.label "Забаронена дзеля вашай аховы.">
 <!ENTITY softBlocklisted.label "Вядомы тым, што выклікае праблемы ўстойлівасці і бяспекі.">
+<!ENTITY outdated.label "Даступна навейшая і бяспечнейшая версія">
 <!ENTITY toBeDisabled.label "Гэты дадатак будзе забаронены падчас перазапуску &brandShortName;.">
 <!ENTITY toBeEnabled.label "Гэты дадатак будзе дазволены падчас перазапуску &brandShortName;.">
 <!ENTITY toBeInstalled.label "Гэты дадатак будзе ўсталяваны падчас перазапуску &brandShortName;.">

@@ -3,6 +3,9 @@
 <!ENTITY window.macWidth "44em">
 <!ENTITY checking.title "Праверка абнаўленняў">
 <!ENTITY updateCheck.label "Шукаюцца навейшыя версіі &brandShortName;…">
+<!ENTITY pluginupdatesfound.title "Знойдзены абнаўленні ўбудоваў">
+<!ENTITY pluginupdatesfound.label "Знойдзены навейшыя версіі адной ці некалькіх з вашых убудоваў.">
+<!ENTITY pluginupdateslink.label "Даведацца, як абнавіць вашы ўбудовы.">
 <!ENTITY noupdatesfound.title "Абнаўленні не знойдзены">
 <!ENTITY noupdatesautoenabled.intro "Няма даступных абнаўленняў. &brandShortName; будзе правяраць час ад часу,
                                            ці яны з'явіліся.">
