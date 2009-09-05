@@ -114,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Vereist extra onderdelen.">
 <!ENTITY blocklisted.label                "Uitgeschakeld voor uw bescherming.">
 <!ENTITY softBlocklisted.label            "Bekend als veroorzaker van veiligheids- of stabiliteitsproblemen.">
+<!ENTITY outdated.label                   "Een nieuwere, veiligere versie is beschikbaar.">
 <!ENTITY toBeDisabled.label               "Deze add-on zal worden uitgeschakeld zodra &brandShortName; wordt herstart.">
 <!ENTITY toBeEnabled.label                "Deze add-on zal worden ingeschakeld zodra &brandShortName; wordt herstart.">
 <!ENTITY toBeInstalled.label              "Deze add-on zal worden geïnstalleerd zodra &brandShortName; wordt herstart.">
