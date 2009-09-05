@@ -38,6 +38,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "A tutto schermo">
 <!ENTITY fullScreenCmd.accesskey "u">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Visualizza tutte le schede">
 <!ENTITY showAllTabsCmd.accesskey "V">
 <!ENTITY fullScreenMinimize.tooltip "Riduci a icona">
@@ -251,8 +252,6 @@
 <!ENTITY copyAudioURLCmd.label "Copia indirizzo audio">
 <!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "B">
-<!ENTITY metadataCmd.label "Proprietà">
-<!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Copia indirizzo e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Questo riquadro">
