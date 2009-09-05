@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "P">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Procurar actualizações para os seus extras">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Procurar actualizações para os seus temas">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Procurar actualizações para os seus plugins">
 <!ENTITY cmd.installLocalFile.label "Instalar...">
 <!ENTITY cmd.installLocalFile.accesskey "i">
 <!ENTITY cmd.installFileAddon.tooltip "Instalar um Extra">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label "Necessita de itens adicionais.">
 <!ENTITY blocklisted.label "Desactivado para sua protecção.">
 <!ENTITY softBlocklisted.label            "Conhecido por causar problemas de estabilidade ou segurança.">
+<!ENTITY outdated.label                   "Está disponível uma versão mais recente e segura.">
 <!ENTITY toBeDisabled.label "Este extra será desactivado quando o &brandShortName; for reiniciado.">
 <!ENTITY toBeEnabled.label "Este extra será activado quando o &brandShortName; for reiniciado.">
 <!ENTITY toBeInstalled.label "Este extra será instalado quando o &brandShortName; for reiniciado.">
