@@ -60,7 +60,7 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Förnamn:">
-<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField1.accesskey           "n">
 <!ENTITY NameField2.label               "Efternamn:">
 <!ENTITY NameField2.accesskey           "t">
 <!ENTITY PhoneticField1.label           "Fonetisk:">
@@ -80,7 +80,7 @@
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Vet ej">
 <!ENTITY ScreenName.label               "Skärmnamn:">
-<!ENTITY ScreenName.accesskey           "n">
+<!ENTITY ScreenName.accesskey           "ä">
 
 <!ENTITY allowRemoteContent1.label      "Tillåt fjärrinnehåll.">
 <!ENTITY allowRemoteContent1.accesskey  "å">
@@ -118,7 +118,7 @@ sådant externt inbäddat innehåll i HTML-meddelanden från den här kontakten.
 <!ENTITY HomeWebPage.label              "Webbplats:">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Födelsedag:">
-<!ENTITY Birthday.accesskey             "F">
+<!ENTITY Birthday.accesskey             "ö">
 <!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "År">
 <!ENTITY Or.value                       "eller">
@@ -160,3 +160,19 @@ sådant externt inbäddat innehåll i HTML-meddelanden från den här kontakten.
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Anteckningar:">
 <!ENTITY Notes.accesskey                "n">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Välj ett av följande:">
+<!ENTITY GenericPhoto.label             "Allmänt foto">
+<!ENTITY GenericPhoto.accesskey         "m">
+<!ENTITY DefaultPhoto.label             "Standard">
+<!ENTITY PhotoFile.label                "På datorn">
+<!ENTITY PhotoFile.accesskey            "d">
+<!ENTITY BrowsePhoto.label              "Bläddra">
+<!ENTITY BrowsePhoto.accesskey          "B">
+<!ENTITY PhotoURL.label                 "På webben">
+<!ENTITY PhotoURL.accesskey             "w">
+<!ENTITY PhotoURL.emptytext             "Klistra eller skriv in webbadressen till ett foto">
+<!ENTITY UpdatePhoto.label              "Uppdatera">
+<!ENTITY UpdatePhoto.accesskey          "U">
