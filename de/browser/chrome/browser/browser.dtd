@@ -312,8 +312,6 @@
 <!ENTITY copyAudioURLCmd.label        "Audio-Adresse kopieren">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey       "B">
-<!ENTITY metadataCmd.label            "Eigenschaften">
-<!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "E-Mail-Adresse kopieren">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Aktueller Frame">
