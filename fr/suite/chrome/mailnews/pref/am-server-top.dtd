@@ -69,7 +69,7 @@
 <!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.seamonkey »)">
 <!ENTITY advancedButton.label "Avancé…">
 <!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
-<!ENTITY advancedButton.accesskey "s">
+<!ENTITY advancedButton.accesskey "v">
 <!ENTITY localFolderPicker.label "Sélection du répertoire local">
 <!ENTITY browseFolder.label "Parcourir…">
 <!ENTITY browseFolder.accesskey "P">

@@ -1182,7 +1182,7 @@
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="Offline"
-          nc:name="Hors-ligne"/>
+          nc:name="Hors connexion"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="HTML"

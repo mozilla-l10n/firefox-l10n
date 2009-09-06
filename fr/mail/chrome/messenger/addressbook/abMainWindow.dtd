@@ -126,7 +126,7 @@
 <!ENTITY editButton2.label                              "Propriétés">
 <!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Écrire">
-<!ENTITY newmsgButton.accesskey                         "g">
+<!ENTITY newmsgButton.accesskey                         "r">
 <!ENTITY newIM.label                                    "Message instantané">
 <!ENTITY newIM.accesskey                                "i">
 <!ENTITY deleteButton2.label                            "Supprimer">

@@ -72,7 +72,7 @@
 <!ENTITY deleteListCmd.label "Supprimer la liste">
 <!ENTITY deleteListsCmd.label               "Supprimer les listes">
 <!ENTITY deleteItemsCmd.label               "Supprimer les éléments">
-<!ENTITY swapFirstNameLastNameCmd.label     "Échanger nom/prénom">
+<!ENTITY swapFirstNameLastNameCmd.label     "Intervertir nom/prénom">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "v">
 <!ENTITY propertiesCmd.label "Modifier…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
@@ -111,7 +111,7 @@
 <!ENTITY editItemButton.label "Propriétés">
 <!ENTITY editItemButton.accesskey "P">
 <!ENTITY newmsgButton.label "Écrire">
-<!ENTITY newmsgButton.accesskey "d">
+<!ENTITY newmsgButton.accesskey "e">
 <!ENTITY deleteItemButton.label "Supprimer">
 <!ENTITY deleteItemButton.accesskey "r">
 <!ENTITY newimButton.label "Message instantané">
