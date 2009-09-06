@@ -54,6 +54,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "R">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Rasti priedų naujinimus">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Rasti apvalkalų naujinimus">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Rasti papildinių naujinimus">
 <!ENTITY cmd.installLocalFile.label       "Įdiegti">
 <!ENTITY cmd.installLocalFile.accesskey   "d">
 <!ENTITY cmd.installFileAddon.tooltip     "Įdiegti priedą">
@@ -145,6 +146,7 @@
 <!ENTITY needsDependencies.label          "Reikia papildomų elementų.">
 <!ENTITY blocklisted.label                "Išjungtas saugumo sumetimais.">
 <!ENTITY softBlocklisted.label            "Žinomas saugumo ar stabilumo problemų sukėlėjas.">
+<!ENTITY outdated.label                   "Yra prieinama naujesnė, saugesnė laida.">
 <!ENTITY toBeDisabled.label               "Šis priedas bus išjungtas paleidus programą „&brandShortName;“ iš naujo.">
 <!ENTITY toBeEnabled.label                "Šis priedas bus įjungtas paleidus programą „&brandShortName;“ iš naujo.">
 <!ENTITY toBeInstalled.label              "Šis priedas bus įdiegtas paleidus programą „&brandShortName;“ iš naujo.">
