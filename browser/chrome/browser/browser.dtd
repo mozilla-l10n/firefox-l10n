@@ -81,6 +81,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Visas ekranas">
 <!ENTITY fullScreenCmd.accesskey "V">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Rodyti visas korteles">
 <!ENTITY showAllTabsCmd.accesskey "k">
 
@@ -344,8 +345,6 @@
 <!ENTITY copyAudioURLCmd.label        "Kopijuoti garso adresą">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey       "N">
-<!ENTITY metadataCmd.label            "Savybės">
-<!ENTITY metadataCmd.accesskey        "v">
 <!ENTITY copyEmailCmd.label           "Kopijuoti el. pašto adresą">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Kadras">
