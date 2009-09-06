@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "n">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Znajdź aktualizacje zainstalowanych dodatków">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Znajdź aktualizacje zainstalowanych motywów">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Znajdź aktualizacje zainstalowanych wtyczek">
 <!ENTITY cmd.installLocalFile.label       "Zainstaluj…">
 <!ENTITY cmd.installLocalFile.accesskey   "a">
 <!ENTITY cmd.installFileAddon.tooltip     "Zainstaluj dodatek">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Wymaga dodatkowych elementów.">
 <!ENTITY blocklisted.label                "Wyłączony z przyczyn bezpieczeństwa.">
 <!ENTITY softBlocklisted.label            "Stwarza zagrożenie bezpieczeństwa lub utraty stabilności.">
+<!ENTITY outdated.label                   "Dostępna jest nowa, bezpieczniejsza wersja.">
 <!ENTITY toBeDisabled.label               "Zostanie wyłączony przy ponownym uruchomieniu programu &brandShortName;.">
 <!ENTITY toBeEnabled.label                "Zostanie włączony przy ponownym uruchomieniu programu &brandShortName;.">
 <!ENTITY toBeInstalled.label              "Zostanie zainstalowany przy ponownym uruchomieniu programu &brandShortName;.">
