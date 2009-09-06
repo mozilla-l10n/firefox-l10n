@@ -31,8 +31,6 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- These are added to the Advanced - Scripts & Plug-ins panel -->
-<!ENTITY enbJsCheckMailNews.label         "pašto ir naujienų grupių programoje">
-<!ENTITY enbJsCheckMailNews.accesskey     "p">
 <!ENTITY enbPluginCheckMailNews.label     "pašto ir naujienų grupių programoje">
 <!ENTITY enbPluginCheckMailNews.accesskey "p">
 
