@@ -38,6 +38,10 @@
 <!ENTITY  checking.title                  "Ieškoma naujinimų">
 <!ENTITY  updateCheck.label               "Ieškoma „&brandShortName;“ naujinimų…">
 
+<!ENTITY  pluginupdatesfound.title        "Rasta papildinių naujinimų">
+<!ENTITY  pluginupdatesfound.label        "Rasta įdiegtų papildinių naujinimų.">
+<!ENTITY  pluginupdateslink.label         "Sužinokite, kaip atnaujinti Jūsų naudojamą papildinį.">
+
 <!ENTITY  noupdatesfound.title            "Naujinimų nerasta">
 <!ENTITY  noupdatesautoenabled.intro      "Šiuo metu naujinimų nėra. „&brandShortName;“ periodiškai
                                            tikrins, ar išleistos naujos versijos.">
