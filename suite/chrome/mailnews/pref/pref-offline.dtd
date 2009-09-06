@@ -8,7 +8,7 @@
 <!ENTITY menuitemRememberPrevState "Reprendre l'état de connexion précédent">
 <!ENTITY menuitemAskMe "Me demander l'état de connexion voulu au lancement">
 <!ENTITY menuitemAlwaysOnline "Toujours démarrer en mode en ligne">
-<!ENTITY menuitemAlwaysOffline "Toujours démarrer en mode en ligne">
+<!ENTITY menuitemAlwaysOffline "Toujours démarrer en mode hors connexion">
 <!ENTITY menuitemAutomatic "Détecter automatiquement (si disponible)">
 <!ENTITY textGoingOnline "À la connexion, envoyer les messages non envoyés ?">
 <!ENTITY radioAutoSend "Oui">

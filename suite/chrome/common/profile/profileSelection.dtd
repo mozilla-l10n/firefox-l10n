@@ -41,7 +41,7 @@
 <!ENTITY windowTitle.label "&brandShortName; - Choisissez un profil utilisateur">
 <!ENTITY profileManager.title "Gestionnaire de profils de &brandShortName;">
 
-<!ENTITY manage.label "Gestion des profils…">
+<!ENTITY manage.label "Gérer les profils…">
 <!ENTITY manage.accesskey "G">
 <!ENTITY select.label "Utiliser ce profil">
 

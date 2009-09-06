@@ -46,7 +46,7 @@
 <!ENTITY refreshButton.accesskey      "R">
 <!ENTITY stopButton.label             "Arrêter">
 <!ENTITY stopButton.accesskey         "t">
-<!ENTITY server.label                 "Compte :">
+<!ENTITY server.label                 "Serveur :">
 <!ENTITY server.accesskey             "S">
 <!ENTITY subscribedHeader.label       "Abonné">
 <!-- commenting out until bug 38906 is fixed 

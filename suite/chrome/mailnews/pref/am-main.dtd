@@ -27,7 +27,7 @@
 <!ENTITY attachVCard.label "Joindre ma vCard aux messages">
 <!ENTITY attachVCard.accesskey "J">
 
-<!ENTITY manageIdentities.label "Gestion des identités…">
+<!ENTITY manageIdentities.label "Gérer les identités…">
 <!ENTITY manageIdentities.accesskey "G">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->

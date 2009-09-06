@@ -30,5 +30,5 @@
 <!ENTITY propertiesButton.label "Propriétés">
 <!ENTITY propertiesButton.accesskey "P">
 <!ENTITY composeButton.label "Écrire">
-<!ENTITY composeButton.accesskey "g">
+<!ENTITY composeButton.accesskey "r">
 <!ENTITY abSearchDialogTitle.label "Recherche avancée dans le carnet d'adresses">

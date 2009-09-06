@@ -55,7 +55,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
@@ -74,7 +74,7 @@
 <!ENTITY usernameSmtpLabel.label "Nom d'utilisateur sortant :">
 <!ENTITY usernameSmtpLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Votre nom d'utilisateur sortant actuel (SMTP), « ">
@@ -106,7 +106,7 @@
 <!ENTITY downloadOnLogin.accesskey "T">
 
 <!ENTITY deferStorageDesc.label "Décochez cette case pour stocker les messages de ce compte dans les dossiers locaux globaux. Ce compte sera ainsi considéré comme un compte de niveau supérieur. Dans le cas contraire, il fera partie du compte boîte globale stocké dans les dossiers locaux.">
-<!ENTITY deferStorage.label "Utiliser le dossier des courriers entrants global (stocke les messages dans les dossiers locaux)">
+<!ENTITY deferStorage.label "Utiliser le dossier des courriers entrants global (stocke les messages dans les dossiers locaux).">
 <!ENTITY deferStorage.accesskey "U">
 <!ENTITY clickFinish.label "Cliquez sur Terminer pour enregistrer ces paramètres et quitter l'assistant de création de compte.">
 <!ENTITY clickFinish.labelMac "Cliquez sur Terminer pour enregistrer ces paramètres et quitter l'assistant de création de compte.">
