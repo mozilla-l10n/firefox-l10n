@@ -56,8 +56,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "wyczyścić całą aktualną historię">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Uruchamiaj program &brandShortName; automatycznie w trybie prywatnym">
-<!ENTITY  privateBrowsingAutoStart.accesskey "U">
+<!ENTITY  privateBrowsingPermanent.label "Pracuj ciągle w trybie prywatnym">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
