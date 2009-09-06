@@ -49,8 +49,9 @@
 -->
 
 
-<!ENTITY  rememberDownloads.label       "నేను ఏమి డౌనులోడు చేయాలో గుర్తుంచుకో">
-<!ENTITY  rememberDownloads.accesskey   "d">
+<!ENTITY  rememberDownload.label       "నేను ఏమి డౌనులోడు చేయాలో గుర్తుంచుకో">
+<!ENTITY  rememberDownload.accesskey   "d">
+
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;">
 <!ENTITY  historyHeader.pre.accesskey      "F">

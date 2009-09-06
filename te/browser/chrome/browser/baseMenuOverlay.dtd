@@ -27,14 +27,15 @@
 
 <!ENTITY preferencesCmdMac.label        "అభీష్టాలు...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "ఎక్సెల్">
+
 
 <!ENTITY servicesMenuMac.label          "సేవలు">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName;ను మరుగుపరచు">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "ఎక్సెల్">
 
+<!ENTITY hideOtherAppsCmdMac.label      "మిగతావి మరుగుపరచు">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 
 <!ENTITY showAllAppsCmdMac.label        "అన్నీ చూపుము">
