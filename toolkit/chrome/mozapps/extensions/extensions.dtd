@@ -19,8 +19,9 @@
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label        "నవీకరణలను  కనుగొను">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "మీ  యాడ్-ఆన్స్కి నవీకరణలను  కనుగొంటుంది">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "మీ  థీమ్స్ కి  నవీకరణలను  కనుగొంటుంది">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "మీ  యాడ్-ఆన్స్కి నవీకరణలను  కనుగొను">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "మీ  థీమ్స్ కి  నవీకరణలను  కనుగొను">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "మీ   ప్లగ్‌ఇన్స్ కి నవీకరణలను కనుగొను">
 <!ENTITY cmd.installLocalFile.label       "సంస్థాపించు...">
 <!ENTITY cmd.installFileAddon.tooltip     "ఒక  యాడ్-ఆన్‌ను  సంస్థాపించు">
 <!ENTITY cmd.installFileTheme.tooltip     "ఒక  థీమ్‌ను  సంస్థాపించు">
@@ -89,6 +90,7 @@
 <!ENTITY needsDependencies.label          "అదనపు  అంశములు అవసరం.">
 <!ENTITY blocklisted.label                "మీ  రక్షణకొరకు  అచేతనం చేయబడింది.">
 <!ENTITY softBlocklisted.label            "అభద్రత  లేక అస్థిరత్వము కలగజేయునని తెలిసినది.">
+<!ENTITY outdated.label                   "ఒక కొత్త, మరింత సురక్షితమైన రూపాంతరము  కలదు.">
 
 <!ENTITY toBeDisabled.label               "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్  అచేతనం చేయిబడుతుంది">
 <!ENTITY toBeEnabled.label                "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్‌ను చేతనం చేయిబడుతుంది.">
