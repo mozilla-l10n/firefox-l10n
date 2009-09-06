@@ -51,6 +51,7 @@
 <!ENTITY pageInfoCmd.commandkey "i" >
 <!ENTITY fullScreenCmd.label "Tryb pełnoekranowy" >
 <!ENTITY fullScreenCmd.accesskey "T" >
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Wyświetl wszystkie karty">
 <!ENTITY showAllTabsCmd.accesskey "W">
 
