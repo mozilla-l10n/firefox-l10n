@@ -72,16 +72,12 @@
 <!ENTITY warning.label                   "Dėmesio!">
 <!ENTITY incomingSettings.label          "Laiškų gavimas:">
 <!ENTITY outgoingSettings.label          "Laiškų siuntimas:">
-<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
-     warning on the incoming server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmIncomingWarning.label    "Aš suprantu pavojus.">
-<!ENTITY confirmIncomingWarning.accesskey "s">
-<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+<!ENTITY technicaldetails.label          "Techninės detalės">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmOutgoingWarning.label    "Aš suprantu pavojus.">
-<!ENTITY confirmOutgoingWarning.accesskey "u">
+<!ENTITY confirmWarning.label            "Aš suprantu pavojus.">
+<!ENTITY confirmWarning.accesskey        "s">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
