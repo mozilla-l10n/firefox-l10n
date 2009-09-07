@@ -1,4 +1,7 @@
 <!ENTITY prefsHeader.label                         "Preferințe">
+<!ENTITY about.title                               "Despre &brandShortName;">
+<!ENTITY about.button                              "Mergi la pagina">
+<!ENTITY about.description                         "Obține ajutor și informații despre produs">
 <!ENTITY content.title                             "Conținut">
 <!ENTITY showImages.title                          "Arată imaginile">
 <!ENTITY enableJavaScript.title                    "Activează Javascript">
