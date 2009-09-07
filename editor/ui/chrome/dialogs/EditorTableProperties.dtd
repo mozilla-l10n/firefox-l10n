@@ -102,7 +102,7 @@
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Dydis">
-<!ENTITY pixels.label                     "taškai">
+<!ENTITY pixels.label                     "taškai(-ų)">
 <!ENTITY backgroundColor.label            "Fono spalva:">
 <!ENTITY backgroundColor.accessKey        "f">
 <!ENTITY AlignLeft.label                  "Pagal kairįjį kraštą">
