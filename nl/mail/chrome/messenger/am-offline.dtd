@@ -33,3 +33,18 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "G">
 <!ENTITY syncGroupTitle.label "Berichten synchroniseren">
 <!ENTITY diskspaceGroupTitle.label "Schijfruimte">
+
+<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+  useAutosyncAfter.label appear on a single line in preferences as follows:
+
+  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+-->
+<!ENTITY useAutosyncBefore.label         "">
+<!ENTITY useAutosyncMiddle.label         "">
+<!ENTITY allInterval.label               "Alle">
+<!ENTITY dayInterval.label               "dagen van">
+<!ENTITY weekInterval.label              "weken van">
+<!ENTITY monthInterval.label             "maanden van">
+<!ENTITY yearInterval.label              "jaren van">
+<!ENTITY useAutosyncAfter.label          "e-mail zullen bewaard worden op de schijf">
