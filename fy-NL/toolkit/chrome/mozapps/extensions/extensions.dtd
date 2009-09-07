@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Syket fernijings foar jo útwreidings">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Syket fernijings foar jo tema's">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Syket fernijings foar jo ynstekkers">
 <!ENTITY cmd.installLocalFile.label       "Ynstallearje...">
 <!ENTITY cmd.installLocalFile.accesskey   "Y">
 <!ENTITY cmd.installFileAddon.tooltip     "In útwreiding ynstallearje">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Hat ekstra ûnderdielen nedich.">
 <!ENTITY blocklisted.label                "Utskeakele foar jo beskerming.">
 <!ENTITY softBlocklisted.label            "Bekend fan it feroarsaakjen fan feilichheids- of stabiliteitsproblemen.">
+<!ENTITY outdated.label                   "In nijere, feiligere ferzje is beskikber.">
 <!ENTITY toBeDisabled.label               "Dizze tafoeging sil útskeakele wurde as &brandShortName; op 'e nij start.">
 <!ENTITY toBeEnabled.label                "Dizze tafoeging sil ynskeakele wurde as &brandShortName; op 'e nij start.">
 <!ENTITY toBeInstalled.label              "Dizze tafoeging sil ynstallearre wurde as &brandShortName; op 'e nij start.">

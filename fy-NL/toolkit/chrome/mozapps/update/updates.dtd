@@ -6,6 +6,10 @@
 <!ENTITY  checking.title                  "Kontrolearje op fernijings">
 <!ENTITY  updateCheck.label               "Kontrolearret no op fernijings fan &brandShortName;...">
 
+<!ENTITY  pluginupdatesfound.title        "Fernijings fûn foar ynstekkers">
+<!ENTITY  pluginupdatesfound.label        "Der binne nijere ferzjes fûn foar ien of mear fan jo ynstekkers.">
+<!ENTITY  pluginupdateslink.label         "Sjoch hoe't jo jo ynstekkers fernije kinne.">
+
 <!ENTITY  noupdatesfound.title            "Gjin fernijings fûn">
 <!ENTITY  noupdatesautoenabled.intro      "Der binne gjin fernijings beskikber. &brandShortName; sil
                                            periodiek kontrolearje op fernijings.">
