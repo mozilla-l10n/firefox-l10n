@@ -75,7 +75,7 @@
 <!ENTITY viewMenu.label "Rodymas">
 <!ENTITY viewMenu.accesskey "R">
 
-<!ENTITY toolbarsCmd.label "Ką rodyti:">
+<!ENTITY toolbarsCmd.label "Priemonių juostos">
 <!ENTITY toolbarsCmd.accesskey "o">
 <!ENTITY navbarCmd.label "Naršymo juosta">
 <!ENTITY navbarCmd.accesskey "N">

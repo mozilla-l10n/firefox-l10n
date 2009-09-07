@@ -48,4 +48,4 @@
 <!ENTITY borderEditField.label "Rėmelių storis:">
 <!ENTITY borderEditField.accessKey "R">
 <!ENTITY borderEditField.tooltip "Surinkite skaičių – lentelės rėmelio storį; nulis (0) reiškia nematomą lentelės rėmelį">
-<!ENTITY pixels.label "taškai">
+<!ENTITY pixels.label "taškai(-ų)">

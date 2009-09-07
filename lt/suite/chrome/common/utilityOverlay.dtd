@@ -84,7 +84,7 @@
 
 <!ENTITY viewMenu.label                             "Rodymas"> 
 <!ENTITY viewMenu.accesskey                         "R"> 
-<!ENTITY viewToolbarsMenu.label                     "Ką rodyti:"> 
+<!ENTITY viewToolbarsMenu.label                     "Priemonių juostos"> 
 <!ENTITY viewToolbarsMenu.accesskey	                "o"> 
 <!ENTITY showTaskbarCmd.label                       "Būsenos juosta">  
 <!ENTITY showTaskbarCmd.accesskey                   "B"> 

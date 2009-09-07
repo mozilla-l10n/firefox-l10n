@@ -39,7 +39,7 @@
 <!ENTITY menuBar.tooltip       "Meniu juosta">
 <!ENTITY modeToolbar.tooltip   "Veiksenos juosta">
 <!ENTITY entryToolbar.tooltip  "„Javascript“ įvesties juosta">
-<!ENTITY toolbarsCmd.label     "Ką rodyti:">
+<!ENTITY toolbarsCmd.label     "Priemonių juostos">
 <!ENTITY toolbarsCmd.accesskey "o">
 <!ENTITY toolbarMode.label     "Veiksena">
 <!ENTITY toolbarMode.accesskey "V">
