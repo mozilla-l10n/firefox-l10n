@@ -36,6 +36,7 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY addonsHeader.label "Componenti aggiuntivi">
 <!ENTITY addonsLocal.label "Componenti installati">
+<!ENTITY addonsUpdate.label "Aggiorna">
 <!ENTITY addonsRepo.label "Esplora">
 <!ENTITY addonsRecommended.label "Consigliati">
 <!ENTITY addonsSearch.label "Cerca">
