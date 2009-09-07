@@ -1,20 +1,11 @@
 <!ENTITY back.label            "Înapoi">
-<!ENTITY back.tooltip          "Înapoi">
 <!ENTITY forward.label         "Înainte">
-<!ENTITY forward.tooltip       "Înainte">
 <!ENTITY reload.label          "Reîncarcă">
-<!ENTITY reload.tooltip        "Reîncarcă">
 <!ENTITY stop.label            "Oprește">
-<!ENTITY stop.tooltip          "Oprește">
 <!ENTITY search.label          "Caută">
-<!ENTITY search.tooltip        "Caută">
 <!ENTITY go.label              "Du-te">
-<!ENTITY go.tooltip            "Du-te">
 <!ENTITY openLocation.label    "Deschide adresa">
-<!ENTITY openLocation.tooltip  "Deschide adresa">
 <!ENTITY star.label            "Steluță">
-<!ENTITY star.tooltip          "Pune un semn la pagină">
-<!ENTITY bookmarks.tooltip     "Vezi semnele de carte">
 
 <!ENTITY newtab.label          "Filă nouă">
 <!ENTITY closetab.label        "Închide fila">
@@ -55,12 +46,13 @@
 <!ENTITY addonsRepo.label          "Obțineți suplimente">
 <!ENTITY addonsRecommended.label   "Recomandate">
 <!ENTITY addonsSearch.label        "Caută">
-<!ENTITY addonsSearch.emptytext    "Caută în toate suplimentele">
+<!ENTITY addonsSearch2.emptytext   "Caută în catalog">
+<!ENTITY addonsSearch.recommended  "Recomandat">
 
 <!ENTITY addonOptions.label        "Opțiuni">
 <!ENTITY addonEnable.label         "Activează">
 <!ENTITY addonDisable.label        "Deactivează">
-<!ENTITY addonInstall.label        "Instalează">
+<!ENTITY addonInstall2.label       "Adaugă la &brandShortName;">
 <!ENTITY addonUninstall.label      "Dezinstalează">
 <!ENTITY addonCancel.label         "Renunță">
 <!ENTITY addonShowPage.label       "Mergi la pagina">
@@ -70,7 +62,7 @@
 <!ENTITY downloadsSortSite.label   "Sait">
 <!ENTITY downloadsSortName.label   "Nume">
 <!ENTITY downloadsSearch.label     "Caută">
-<!ENTITY downloadsSearch.emptytext "Caută un fișier descărcat">
+<!ENTITY downloadsSearch2.emptytext "Caută">
 
 <!ENTITY downloadShowPage.label    "Mergi la pagina">
 <!ENTITY downloadShow2.label       "Găsește">
@@ -82,6 +74,12 @@
 
 <!ENTITY noResults.label           "Niciun rezultat">
 <!ENTITY allBookmarks.label        "Vezi toate semnele de carte">
+
+<!ENTITY searchEngine.addSearch     "Adaugă căutare:">
+
+<!ENTITY bookmarkPopup.label       "S-a pus semn la pagină">
+<!ENTITY bookmarkRemove.label      "Elimină">
+<!ENTITY bookmarkEdit.label        "Editează">
 
 <!ENTITY identity.unverifiedsite2 "Acest sait web nu oferă informații despre identitatea sa.">
 <!ENTITY identity.connectedTo2 "Conectat la">
