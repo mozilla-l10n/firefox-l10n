@@ -3,7 +3,7 @@
 <!ENTITY enbPluginCheckMailNews.accesskey "o">
 <!-- These are added to the Window menu -->
 
-<!ENTITY mail.label "Posta ve Haber Grupları">
+<!ENTITY mail.label "Posta ve haber grupları">
 <!ENTITY mail.accesskey "s">
 <!ENTITY addressbook.label "Adres defteri">
 <!ENTITY addressbook.accesskey "A">
