@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "Obnovit původní nástrojové lišty">
 <!ENTITY resetToolbars.accesskey "b">
 
-<!ENTITY resetBookmarks.label "Obnovit původní záložky aplikace &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "z">
+<!ENTITY deleteBookmarks.label "Smazat všechy záložky mimo záloh">
+<!ENTITY deleteBookmarks.accesskey "m">
 
 <!ENTITY resetUserPrefs.label "Obnovit původní předvolby aplikace &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey "p">

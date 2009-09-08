@@ -1,3 +1,7 @@
+<!ENTITY prefsHeader.label "Předvolby">
+<!ENTITY about.title "O aplikaci &brandShortName;">
+<!ENTITY about.button "Jít na stránku">
+<!ENTITY about.description "Získat nápovědu a informace o produktu">
 <!ENTITY content.title "Obsah">
 <!ENTITY showImages.title "Zobrazit obrázky">
 <!ENTITY enableJavaScript.title "Povolit JavaScript">

@@ -20,8 +20,9 @@
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label "Vyhledat aktualizace">
 <!ENTITY cmd.checkUpdatesAll.accesskey "h">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Vyhledá aktualizaci doplňku">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Vyhledá aktualizaci motivu vzhledu">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Vyhledá aktualizace doplňků">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Vyhledá aktualizace motivů vzhledu">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Vyhledá aktualizace zásuvných modulů">
 <!ENTITY cmd.installLocalFile.label "Instalovat…">
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip "Instaluje doplněk">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label "Požaduje dodatečné doplňky.">
 <!ENTITY blocklisted.label "Zakázáno kvůli vaší bezpečnosti.">
 <!ENTITY softBlocklisted.label "Způsobuje bezpečnostní nebo výkonové problémy.">
+<!ENTITY outdated.label "Je dostupná novější a bezpečnější verze.">
 <!ENTITY toBeDisabled.label "Doplněk bude zakázán po restartu aplikace &brandShortName;.">
 <!ENTITY toBeEnabled.label "Doplněk bude povolen po restartu aplikace &brandShortName;.">
 <!ENTITY toBeInstalled.label "Doplněk bude nainstalován po restartu aplikace &brandShortName;.">

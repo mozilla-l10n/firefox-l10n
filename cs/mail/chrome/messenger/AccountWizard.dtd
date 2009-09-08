@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "Průvodce vytvářením účtu">
-<!ENTITY accountWizard.size "width: 44em; height: 38em;">
+<!ENTITY windowTitle.label "Průvodce vytvoření účtu">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 

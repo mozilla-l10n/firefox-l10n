@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Celá obrazovka">
 <!ENTITY fullScreenCmd.accesskey "C">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Zobrazit všechny panely">
 <!ENTITY showAllTabsCmd.accesskey "b">
 
@@ -58,7 +59,7 @@
 <!ENTITY fullScreenClose.tooltip "Zavřít">
 <!ENTITY fullScreenAutohide.label "Skrýt nástrojové lišty">
 <!ENTITY fullScreenAutohide.accesskey "S">
-<!ENTITY fullScreenExit.label "Ukončit celoobrazovkový režim">
+<!ENTITY fullScreenExit.label "Ukončit řežim celé obrazovky">
 <!ENTITY fullScreenExit.accesskey "k">
 
 <!ENTITY closeWindow.label "Zavřít okno">
@@ -314,8 +315,6 @@
 <!ENTITY copyAudioURLCmd.label "Kopírovat adresu audia">
 <!ENTITY copyAudioURLCmd.accesskey "d">
 <!ENTITY blockImageCmd.accesskey "l">
-<!ENTITY metadataCmd.label "Vlastnosti">
-<!ENTITY metadataCmd.accesskey "V">
 <!ENTITY copyEmailCmd.label "Kopírovat e-mailovou adresu">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Tento rám">
@@ -370,6 +369,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Vyjmout">
 <!ENTITY copyButton.tooltip "Kopírovat">
 <!ENTITY pasteButton.tooltip "Vložit">
+<!ENTITY fullScreenButton.tooltip "Zobrazí okno v řežimu celé obrazovky">
 
 <!ENTITY quitApplicationCmdWin.label "Ukončit">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
