@@ -3,8 +3,8 @@
 <!ENTITY searchHeading.accesskey    "s">
 <!ENTITY searchSubfolders.label     "kontynuuj wyszukiwanie w podfolderach">
 <!ENTITY searchSubfolders.accesskey "k">
-<!ENTITY searchOnline.label         "szukaj również w wiadomościach nieprzechowywanych lokalnie">
-<!ENTITY searchOnline.accesskey     "a">
+<!ENTITY searchOnServer.label       "szukaj również w wiadomościach nieprzechowywanych lokalnie">
+<!ENTITY searchOnServer.accesskey   "a">
 <!ENTITY resetButton.label          "Wyczyść">
 <!ENTITY resetButton.accesskey      "c">
 <!ENTITY openButton.label           "Otwórz">
