@@ -661,6 +661,16 @@
 <!ENTITY contextPrintPreview.label     "Podgląd wydruku">
 <!ENTITY contextPrintPreview.accesskey "g">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label       "Odtwórz">
+<!ENTITY contextPlay.accesskey   "O">
+<!ENTITY contextPause.label      "Wstrzymaj">
+<!ENTITY contextPause.accesskey  "W">
+<!ENTITY contextMute.label       "Wycisz">
+<!ENTITY contextMute.accesskey   "z">
+<!ENTITY contextUnmute.label     "Przywróć głośność">
+<!ENTITY contextUnmute.accesskey "P">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Niechciana wiadomość" >
 <!ENTITY junkBarButton1.label  "Pożądana wiadomość" >
