@@ -8,6 +8,10 @@
 <!ENTITY noupdatesfound.title "Nav atrasti atjauninājumi">
 
 <!ENTITY clickHere.label "Vairāk informācijas par šo atjauninājumu">
+<!ENTITY  pluginupdatesfound.title        "Atrasti spraudņu atjauninājumi">
+<!ENTITY  pluginupdatesfound.label        "Vienam vai vairākiem spraudņiem atrastas jaunākas versijas.">
+<!ENTITY  pluginupdateslink.label         "Uzziniet kā atjaunināt spraudņus.">
+
 
 <!ENTITY license.instructions "Ja piekrītat šī līguma noteikumiem, spiediet zemāk esošo Es piekrītu, 
 un varēsiet turpināt atjauninājuma instalēšanu.">
