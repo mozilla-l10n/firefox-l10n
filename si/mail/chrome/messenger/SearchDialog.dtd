@@ -1,8 +1,10 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "මෙතුළ වන ලිපි සඳහා සෙවීම් කරන්න:">
+<!ENTITY searchHeading.label         "මෙතුළ වන ලිපි සඳහා සොයන්න:">
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "සොයන උප-ෆෝල්ඩරය">
 <!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnline.label          "සබැඳිව සොයන්න">
+<!ENTITY searchOnline.accesskey      "l">
 <!ENTITY resetButton.label           "හිස් කරන්න">
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "විවෘත කරන්න">

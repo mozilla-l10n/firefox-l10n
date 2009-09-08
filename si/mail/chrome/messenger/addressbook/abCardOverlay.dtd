@@ -161,3 +161,19 @@ content in HTML messages from this contact.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "සටහන්">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "ඡායාරූපය">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "පහත ඒවායින් එකක් ගන්න:">
+<!ENTITY GenericPhoto.label             "සාමාන්‍ය ඡායාරූපය">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "පෙරනිමි (Default)">
+<!ENTITY PhotoFile.label                "මෙම පරිගණකයේ">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "පිරික්සන්න">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "වෙබ් මත">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "ඡායාරූපයේ වෙබ් ලිපිනය ලබාදෙන්න">
+<!ENTITY UpdatePhoto.label              "යාවත්කාලීන කරන්න">
+<!ENTITY UpdatePhoto.accesskey          "u">

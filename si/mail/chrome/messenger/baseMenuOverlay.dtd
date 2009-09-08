@@ -7,6 +7,8 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY releaseCmd.label "නිකුතු සටහන්">
 <!ENTITY releaseCmd.accesskey "R">
+<!ENTITY whatsNewCmd.label "අළුත් දේ මොනවාද">
+<!ENTITY whatsNewCmd.accesskey "W">
 <!ENTITY openHelp.label "උදව් අන්තර්ගතය">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">

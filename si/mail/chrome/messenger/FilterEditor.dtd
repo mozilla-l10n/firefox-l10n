@@ -16,9 +16,11 @@
 
 <!ENTITY contextDesc.label "පෙරහන යොදන්නේ:">
 <!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "නව ලිපි සඳහා පරීක්ෂා කරන විට">
+<!ENTITY contextIncoming.label "ලිපි සඳහා පරීක්ෂා කිරීමේදී">
 <!ENTITY contextManual.label "පරිශීලක යෙදීමේදී (Manually Run)">
-<!ENTITY contextBoth.label "නව ලිපි සඳහා පරීක්ෂා කරන විට හෝ පරිශීලක යෙදීමේදී">
+<!ENTITY contextBoth.label "ලිපි සඳහා පරීක්ෂා කිරීමේදී හෝ පරිශීලක යෙදීමේදී">
+<!ENTITY contextPostPlugin.label "ලිපි සඳහා පරීක්ෂා කිරීමේදී (වර්ගීකරණයෙන් පසු)">
+<!ENTITY contextPostPluginBoth.label "ලිපි සඳහා පරීක්ෂා කිරීමේදී (වර්ගීකරණයෙන් පසු) හෝ පරිශීලක යෙදීමේදී (Manually Run)">
 <!ENTITY filterActionDesc.label "මේවා ක්‍රියාත්මක කරන්න:">
 <!ENTITY filterActionDesc.accesskey "P">
 
