@@ -38,4 +38,4 @@
 <!ENTITY weekInterval.label "недель">
 <!ENTITY monthInterval.label "месяцев">
 <!ENTITY yearInterval.label "лет">
-<!ENTITY useAutosyncAfter.label "email will be stored on disk">
+<!ENTITY useAutosyncAfter.label " ">
