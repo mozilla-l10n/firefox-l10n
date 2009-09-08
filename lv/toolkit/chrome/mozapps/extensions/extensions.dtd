@@ -22,7 +22,8 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "M">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Meklē atjauninājumus jūsu papildinājumiem">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Meklē atjauninājumus jūsu tēmām">
-<!ENTITY cmd.installLocalFile.label "Instalēt...">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Meklē atjauninājumus jūsu spraudņiem">
+<!ENTITY cmd.installLocalFile.label "Instalēt…">
 <!ENTITY cmd.installLocalFile.accesskey "n">
 <!ENTITY cmd.installFileAddon.tooltip "Instalēt papildinājumu">
 <!ENTITY cmd.installFileTheme.tooltip "Instalēt tēmu">

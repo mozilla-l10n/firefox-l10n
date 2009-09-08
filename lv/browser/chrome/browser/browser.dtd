@@ -48,6 +48,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Pa visu ekrānu">
 <!ENTITY fullScreenCmd.accesskey "V">
+<!ENTITY fullScreenCmd.macCommandKey "v">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizēt">
 <!ENTITY fullScreenRestore.tooltip "Atjaunot">
@@ -288,8 +289,6 @@
 <!ENTITY copyImageContentsCmd.label "Kopēt attēlu">
 <!ENTITY copyImageContentsCmd.accesskey "p">
 <!ENTITY blockImageCmd.accesskey "B">
-<!ENTITY metadataCmd.label "Īpašības">
-<!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Kopēt e-pasta adresi">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Šis ietvars">
