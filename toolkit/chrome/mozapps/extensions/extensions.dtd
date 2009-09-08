@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "b">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Eklenti güncellemelerine bak">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Tema güncellemelerine bak">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Eklenti güncellemelerini denetler">
 <!ENTITY cmd.installLocalFile.label "Kur…">
 <!ENTITY cmd.installLocalFile.accesskey "K">
 <!ENTITY cmd.installFileAddon.tooltip "Eklenti kur">
 <!ENTITY cmd.installFileTheme.tooltip "Tema kur">
 <!ENTITY cmd.installUpdatesAll2.label "Güncellemeleri kur">
 <!ENTITY cmd.installUpdatesAll2.accesskey "G">
-<!ENTITY cmd.installUpdatesAll2.tooltip "Install the selected updates">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Seçilen güncellemeleri kur">
 <!ENTITY cmd.restartApp2.label "&brandShortName; uygulamasını tekrar başlat">
 <!ENTITY cmd.restartApp2.accesskey "r">
 <!ENTITY cmd.restartApp2.tooltip "Değişiklikleri uygulamak için &brandShortName; uygulamasını tekrar başlatır">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label "Ek öğeler gerekli.">
 <!ENTITY blocklisted.label "Güvenliğiniz için etkisizleştirildi.">
 <!ENTITY softBlocklisted.label "Güvenlik ve kararlılık sorunlarına yol açtığı biliniyor.">
+<!ENTITY outdated.label "Daha yeni ve güvenli bir sürüm mevcut.">
 <!ENTITY toBeDisabled.label "&brandShortName; baştan başlatıldığında etkisiz hale getirilecek.">
 <!ENTITY toBeEnabled.label "&brandShortName; baştan başlatıldığında etkinleştirilecek.">
 <!ENTITY toBeInstalled.label "&brandShortName; baştan başlatıldığında kurulacak.">
