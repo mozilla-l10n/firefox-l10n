@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle "about:rights">
-<!ENTITY rights.intro-header "Haklarınız Hakkında">
+<!ENTITY rights.intro-header "Haklarınız hakkında">
 <!ENTITY rights.intro "&brandFullName; özgür ve açık kaynaklı yazılımdır, bu yazılım; dünyada binlerce kişi tarafından oluşturulan topluluk tarafından yapılır. Bilmeniz gereken birkaç şey var:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,7 +12,7 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
+<!ENTITY rights.intro-point1a "&brandShortName; aşağıdaki şartlar altında dağıtılmaktadır">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 

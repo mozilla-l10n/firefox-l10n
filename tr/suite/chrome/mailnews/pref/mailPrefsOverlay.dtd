@@ -1,11 +1,9 @@
 <!-- These are added to the Advanced - Scripts & Plugins panel -->
-<!ENTITY enbJsCheckMailNews.label "Posta ve haber grupları">
-<!ENTITY enbJsCheckMailNews.accesskey "P">
 <!ENTITY enbPluginCheckMailNews.label "Posta ve haber grupları">
 <!ENTITY enbPluginCheckMailNews.accesskey "o">
 <!-- These are added to the Window menu -->
 
-<!ENTITY mail.label "Posta ve haber grupları">
+<!ENTITY mail.label "Posta ve Haber Grupları">
 <!ENTITY mail.accesskey "s">
 <!ENTITY addressbook.label "Adres defteri">
 <!ENTITY addressbook.accesskey "A">
