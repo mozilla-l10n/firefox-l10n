@@ -130,6 +130,8 @@
 
 <!ENTITY folderView.label "Dossiers">
 <!ENTITY folderView.accesskey "r">
+<!ENTITY smartFolders.label "Dossiers virtuels">
+<!ENTITY smartFolders.accesskey "D">
 <!ENTITY allFolders.label "Tous">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Dossiers avec des non lus">
