@@ -36,6 +36,7 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY addonsHeader.label "Дополнения">
 <!ENTITY addonsLocal.label "Ваши дополнения">
+<!ENTITY addonsUpdate.label "Обновление">
 <!ENTITY addonsRepo.label "Получить дополнения">
 <!ENTITY addonsRecommended.label "Рекомендуемые">
 <!ENTITY addonsSearch.label "Поиск">
