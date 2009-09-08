@@ -157,7 +157,7 @@
 
 <!ENTITY tasksMenu.label "Araçlar">
 <!ENTITY tasksMenu.accesskey "A">
-<!ENTITY messengerCmd.label "Posta ve Haber Grupları">
+<!ENTITY messengerCmd.label "Posta ve haber grupları">
 <!ENTITY messengerCmd.accesskey "s">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adres defteri">
