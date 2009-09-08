@@ -6,6 +6,10 @@
 <!ENTITY checking.title "Kontrola aktualizací">
 <!ENTITY updateCheck.label "Zjišťování dostupnosti nové verze aplikace &brandShortName;…">
 
+<!ENTITY pluginupdatesfound.title "Nalezeny aktualizace zásuvných modulů">
+<!ENTITY pluginupdatesfound.label "Byla nenalezena jedna nebo více aktualizací zásuvných modulů.">
+<!ENTITY pluginupdateslink.label "Jak aktualizovat zásuvné moduly.">
+
 <!ENTITY noupdatesfound.title "Aktualizace nenalezeny">
 <!ENTITY noupdatesautoenabled.intro "Nebyly nalezeny žádné nové aktualizace. Aplikace &brandShortName; bude pravidelně zjišťovat jejich dostupnost.">
 
