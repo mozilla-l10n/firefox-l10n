@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "සුරැකූ සෙවුමක්...">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newAccountCmd.label "ගිණුමක්...">
-<!ENTITY newAccountCmd.accesskey "A"> 
-<!ENTITY newMailAccountCmd.label "තැපැල් ගිණුමක් (ඉක්මන් සැකසුම)…">
-<!ENTITY newMailAccountCmd.accesskey "Q">
+<!ENTITY newOtherAccountsCmd.label "වෙනත් ගිණුම්…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newEmailAccountCmd.label "තැපැල් ගිණුමක්...">
+<!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "සුරැකූ ලිපියක් අරින්න...">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ඇමුණන්න">

@@ -55,9 +55,9 @@
 <!ENTITY inReplyToField2.label "In-Reply-To: ">
 <!ENTITY originalWebsite2.label "වෙබ් අඩවිය: ">
 
-<!ENTITY editMessageDescription.label "මෙය කෙටුමුපත් කරන ලිපියකි">
+<!ENTITY editMessageDescription.label "මෙය කෙටුම්පත් කරන ලිපියකි">
 <!ENTITY editMessageButton.label "සැකසීම...">
-<!ENTITY archiveButton.label "archive">
+<!ENTITY archiveButton.label "සංරක්ෂණය">
 <!ENTITY hdrReplyButton.label "පිළිතුරු">
 <!ENTITY hdrReplyAllButton.label "සැමට පිළිතුරු">
 <!ENTITY hdrReplyListButton.label "ලැයිස්තුවට පිළිතුරු">
@@ -66,10 +66,16 @@
 <!ENTITY trashButton.tooltiptext "මකන්න">
 
 <!ENTITY otherActionsButton.label "වෙනත් ක්‍රියාවන්">
+<!ENTITY otherActionsOpenInNewWindow.label "නව කවුළුවක විවෘත කරන්න">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
+<!ENTITY otherActionsOpenInNewTab.label "නව ටැබයක විවෘත කරන්න">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
 <!ENTITY saveAsMenuItem.label "සුරකින අයුර…">
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "මූලය පෙන්වන්න…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY otherActionsPrint.label "මුද්‍රණය…">
+<!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label    "විවෘත කරන්න">
 <!ENTITY openAttachmentCmd.accesskey		"O">

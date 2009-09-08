@@ -40,18 +40,14 @@
 <!ENTITY rememberPassword.accesskey      "m">
 
 <!ENTITY warning.label                   "අවවාදයයි!">
-<!ENTITY incomingSettings.label          "Incoming settings:">
-<!ENTITY outgoingSettings.label          "Outgoing settings:">
-<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
-     warning on the incoming server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmIncomingWarning.label    "මම අනතුරුදායකබව තේරුම් ගතිමි.">
-<!ENTITY confirmIncomingWarning.accesskey "u">
-<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+<!ENTITY incomingSettings.label          "යැවීම් සැකසුම්:">
+<!ENTITY outgoingSettings.label          "ලැබීම් සැකසුම්:">
+<!ENTITY technicaldetails.label          "තාක්ෂණික විස්තර">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmOutgoingWarning.label    "මම අනතුරුදායකබව තේරුම් ගතිමි.">
-<!ENTITY confirmOutgoingWarning.accesskey "d">
+<!ENTITY confirmWarning.label            "මම අනතුර තේරුම් ගතිමි.">
+<!ENTITY confirmWarning.accesskey        "u">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
