@@ -39,6 +39,7 @@
 <!ENTITY cmd.continue.label "Turpināt">
 <!ENTITY cmd.continue.accesskey "T">
 <!ENTITY cmd.continue.tooltip "Turpināt &brandShortName; ielādi">
+<!ENTITY outdated.label                   "Pieejama jaunāka un drošāka versija.">
 
 <!ENTITY cmd.enableAll.label "Ieslēgt visus">
 <!ENTITY cmd.enableAll.accesskey "v">
