@@ -1,4 +1,4 @@
-<!ENTITY autoconfigWizard.title          "Paramétrage du compte courrier">
+<!ENTITY autoconfigWizard.title          "Création d'un compte courrier">
 <!ENTITY name.label                      "Vos nom et prénom  :">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.emptytext                  "Prénom Nom">
@@ -23,10 +23,10 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!ENTITY manualSetup.label               "Paramétrage manuel…">
+<!ENTITY manualSetup.label               "Création manuelle…">
 <!ENTITY manualSetup.accesskey           "m">
 <!ENTITY cancel.label                    "Annuler">
-<!ENTITY cancel.accesskey                "a">
+<!ENTITY cancel.accesskey                "u">
 <!ENTITY continue.label                  "Continuer">
 <!ENTITY continue.accesskey              "C">
 <!ENTITY startOver.label                 "Recommencer">
@@ -41,7 +41,7 @@
 <!ENTITY edit.label                      "Modifier">
 <!ENTITY edit.accesskey                  "M">
 
-<!ENTITY rememberPassword.label          "Se souvenir du mot de passe">
+<!ENTITY rememberPassword.label          "Retenir le mot de passe">
 <!ENTITY rememberPassword.accesskey      "S">
 
 <!ENTITY warning.label                   "Attention !">
