@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label "E-posta sahtekârlığı">
 <!ENTITY itemPasswords.label "Parolalar">
 <!ENTITY itemAntiVirus.label "Anti-virüs">
+<!ENTITY itemCookies.label "Web Content">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Öntanımlı gereksiz e-posta özelliklerini ayarlayınız. Hesap bazlı özellikler hesap ayarlarında bulabilirsiniz.">
@@ -41,3 +42,18 @@
 <!ENTITY antiVirus.intro "&brandShortName; anti-virüs yazılımının gelen iletilerin virüslere karşı taramasında yardımcı olabilir.">
 <!ENTITY antiVirus.label "Anti-virüs yazılımının belirli iletilerin karantinaya gönderilmesine izin ver">
 <!ENTITY antiVirus.accesskey "A">
+<!-- Cookies -->
+
+<!ENTITY cookies.intro "&brandShortName; lets you specify which blogs, news feeds, and other web sites are allowed to set cookies.">
+<!ENTITY acceptCookies.label "Sitelerin çerez bırakmasına izin ver">
+<!ENTITY acceptCookies.accesskey "z">
+<!ENTITY keepUntil.label "Tutma sınırı:">
+<!ENTITY keepUntil.accesskey "T">
+<!ENTITY expire.label "süresi dolana dek">
+<!ENTITY close.label "&brandShortName; kapatılana dek">
+<!ENTITY askEachTime.label "her seferinde bana sor">
+<!ENTITY cookieExceptions.label "Exceptions…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Çerezleri göster…">
+<!ENTITY showCookies.accesskey "z">
+

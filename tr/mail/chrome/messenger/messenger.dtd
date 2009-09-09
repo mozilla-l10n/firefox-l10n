@@ -130,6 +130,8 @@
 
 <!ENTITY folderView.label "Dizinler">
 <!ENTITY folderView.accesskey "D">
+<!ENTITY smartFolders.label "Akıllı">
+<!ENTITY smartFolders.accesskey "A">
 <!ENTITY allFolders.label "Tümü">
 <!ENTITY allFolders.accesskey "m">
 <!ENTITY unreadFolders.label "Okunmayanlar">
@@ -684,6 +686,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "Y">
 <!ENTITY contextPrintPreview.label "Yazdırma önizleme">
 <!ENTITY contextPrintPreview.accesskey "z">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY contextPlay.label "Yürüt">
+<!ENTITY contextPlay.accesskey "t">
+<!ENTITY contextPause.label "Ara ver">
+<!ENTITY contextPause.accesskey "r">
+<!ENTITY contextMute.label "Sesi kapat">
+<!ENTITY contextMute.accesskey "k">
+<!ENTITY contextUnmute.label "Sesi aç">
+<!ENTITY contextUnmute.accesskey "e">
 <!-- Junk Bar -->
 
 <!ENTITY junkBarMessage1.label "Gereksiz">

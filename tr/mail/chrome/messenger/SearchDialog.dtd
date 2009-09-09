@@ -3,8 +3,8 @@
 <!ENTITY searchHeading.accesskey "a">
 <!ENTITY searchSubfolders.label "Alt dizinleri ara">
 <!ENTITY searchSubfolders.accesskey "A">
-<!ENTITY searchOnline.label "Çevrimiçi ara">
-<!ENTITY searchOnline.accesskey "v">
+<!ENTITY searchOnServer.label "Aramayı sunucuda çalıştır">
+<!ENTITY searchOnServer.accesskey "s">
 <!ENTITY resetButton.label "Boşalt">
 <!ENTITY resetButton.accesskey "B">
 <!ENTITY openButton.label "Aç ">
