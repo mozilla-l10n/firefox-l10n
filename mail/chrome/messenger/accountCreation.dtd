@@ -1,18 +1,20 @@
-<!ENTITY welcome.description             "Création rapide de compte">
-<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
-<!ENTITY name.description                "Nom et prénom">
-<!ENTITY email.description               "Adresse électronique">
-<!ENTITY password.description            "Mot de passe">
-
-<!ENTITY next.label                      "Suivant &#187;">
-<!ENTITY next.accesskey                  "S">
-<!ENTITY back.label                      "&#171; Précédent">
-<!ENTITY back.accesskey                  "P">
+<!ENTITY autoconfigWizard.title          "Paramétrage du compte courrier">
+<!ENTITY name.label                      "Vos nom et prénom  :">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Prénom Nom">
+<!ENTITY name.text                       "Votre nom, tel qu'il s'affichera">
+<!ENTITY email.label                     "Adresse électronique :">
+<!ENTITY email.accesskey                 "A">
+<!ENTITY email.emptytext                 "adresse@exemple.fr">
+<!ENTITY password.label                  "Mot de passe :">
+<!ENTITY password.accesskey              "M">
+<!ENTITY password.emptytext              "Mot de passe">
+<!ENTITY password.text                   "Optionnel, ne sera utilisé que pour valider l'identifiant">
 
 <!ENTITY accountInformation.label        "Information de compte">
-<!ENTITY username.label                  "identifiant">
-<!ENTITY receivingServer.label           "réception">
-<!ENTITY sendingServer.label             "envoi">
+<!ENTITY username2.label                 "Identifiant :">
+<!ENTITY receivingServer2.label          "Serveur entrant :">
+<!ENTITY sendingServer2.label            "Serveur sortant :">
 <!ENTITY noEncryption.label              "Aucune">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -21,11 +23,14 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
-     which will create the account and take the user to the account
-     configuration screen. -->
-<!ENTITY createAndEditSettings.label     "Créer et modifier les paramètres de compte">
+<!ENTITY manualSetup.label               "Paramétrage manuel…">
+<!ENTITY manualSetup.accesskey           "m">
 <!ENTITY cancel.label                    "Annuler">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Continuer">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "Recommencer">
+<!ENTITY startOver.accesskey             "R">
 <!ENTITY stop.label                      "Arrêter">
 <!ENTITY stop.accesskey                  "A">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
@@ -65,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n'est pas sécurisé.">
 <!ENTITY insecureServer.tooltip.details  "Cliquez sur le cercle pour plus de détails.">
 
-<!ENTITY insecureClearText.description   "Les courriels sont envoyés en clair et peuvent donc être lus par des escrocs, etc. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
+<!ENTITY insecureClearText.description   "Les courriels sont envoyés en clair et peuvent donc être lus par d'autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
 <!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu'un n'intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
 <!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">
