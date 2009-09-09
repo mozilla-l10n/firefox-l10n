@@ -1,18 +1,20 @@
-<!ENTITY welcome.description "Hesap hızlı ayarları">
-<!ENTITY autoconfigWizard.style "width: 640px; height: 480px;">
-<!ENTITY name.description "İsminiz">
-<!ENTITY email.description "E-posta">
-<!ENTITY password.description "Parola">
-
-<!ENTITY next.label "İleri &#187;">
-<!ENTITY next.accesskey "l">
-<!ENTITY back.label "&#171; Geri">
-<!ENTITY back.accesskey "G">
+<!ENTITY autoconfigWizard.title "Posta hesabı ayarları">
+<!ENTITY name.label "İsminiz:">
+<!ENTITY name.accesskey "m">
+<!ENTITY name.emptytext "Ad Soyad">
+<!ENTITY name.text "Başkalarına gösterilecek isim">
+<!ENTITY email.label "E-posta adresi:">
+<!ENTITY email.accesskey "p">
+<!ENTITY email.emptytext "email@example.com">
+<!ENTITY password.label "Parola:">
+<!ENTITY password.accesskey "P">
+<!ENTITY password.emptytext "Parola">
+<!ENTITY password.text "İsteğe bağlı, sadece kullanıcı adını doğrulamada kullanılacak">
 
 <!ENTITY accountInformation.label "Hesap bilgileri">
-<!ENTITY username.label "kullanıcı adı">
-<!ENTITY receivingServer.label "alınıyor">
-<!ENTITY sendingServer.label "gönderiliyor">
+<!ENTITY username2.label "kullanıcı adı:">
+<!ENTITY incoming.label "Gelen:">
+<!ENTITY outgoing.label "Giden:">
 <!ENTITY noEncryption.label "Hiçbiri">
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY sslTls.label "SSL/TLS">
@@ -20,12 +22,15 @@
 <!ENTITY imap.label "IMAP">
 <!ENTITY pop.label "POP">
 <!ENTITY smtp.label "SMTP">
-<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
-     which will create the account and take the user to the account
-     configuration screen. -->
 
-<!ENTITY createAndEditSettings.label "Hesap bilgilerini yarat ve düzenle">
+<!ENTITY manualSetup.label "Elle ayarla…">
+<!ENTITY manualSetup.accesskey "l">
 <!ENTITY cancel.label "Vazgeç">
+<!ENTITY cancel.accesskey "z">
+<!ENTITY continue.label "İleri">
+<!ENTITY continue.accesskey "l">
+<!ENTITY startOver.label "Baştan başla">
+<!ENTITY startOver.accesskey "t">
 <!ENTITY stop.label "Dur">
 <!ENTITY stop.accesskey "D">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
@@ -63,8 +68,8 @@
 <!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
 
 <!ENTITY insecureServer.tooltip.title "Uyarı! Güvenli sunucu değildir.">
-<!ENTITY insecureServer.tooltip.details "Click circle for more details.">
+<!ENTITY insecureServer.tooltip.details "Ayrıntılar için çembere tıklayınız.">
 
-<!ENTITY insecureClearText.description "Email is sent in clear-text, so your email could be read by attackers, etc. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
+<!ENTITY insecureCleartext.description "Email is sent in clear-text, so your email could be read by other people on the internet. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
 <!ENTITY insecureSelfSigned.description "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
-<!ENTITY secureServer.description "Congratulations! This is a secure server.">
+<!ENTITY secureServer.description "Tebrikler! Güvenli sunucu kullanıyorsunuz.">
