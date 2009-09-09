@@ -688,6 +688,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Afdrukvoorbeeld">
 <!ENTITY contextPrintPreview.accesskey "f">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Afspelen">
+<!ENTITY contextPlay.accesskey "A">
+<!ENTITY contextPause.label "Pauzeren">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Dempen">
+<!ENTITY contextMute.accesskey "D">
+<!ENTITY contextUnmute.label "Dempen uitschakelen">
+<!ENTITY contextUnmute.accesskey "D">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Ongewenst bericht">
 <!ENTITY junkBarButton1.label "Geen ongewenst bericht">
