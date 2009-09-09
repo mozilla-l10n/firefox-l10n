@@ -3,8 +3,8 @@
 <!ENTITY searchHeading.accesskey     "k">
 <!ENTITY searchSubfolders.label      "Submappen doorzoeken">
 <!ENTITY searchSubfolders.accesskey  "S">
-<!ENTITY searchOnline.label          "Online doorzoeken">
-<!ENTITY searchOnline.accesskey      "l">
+<!ENTITY searchOnServer.label        "Op de server zoeken">
+<!ENTITY searchOnServer.accesskey    "r">
 <!ENTITY resetButton.label           "Wissen">
 <!ENTITY resetButton.accesskey       "W">
 <!ENTITY openButton.label            "Openen">
