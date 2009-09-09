@@ -569,28 +569,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Berichten zoeken…">
-<!ENTITY glodaSearchBar.facet.label "Doorzoeken:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Alles">
-<!ENTITY glodaSearchFacet.subject.label "Onderwerp">
-<!ENTITY glodaSearchFacet.involves.label "Betreft (van,aan,cc,bcc)">
-<!ENTITY glodaSearchFacet.to.label "Aan, Cc">
-<!ENTITY glodaSearchFacet.from.label "Van">
-<!ENTITY glodaSearchFacet.body.label "Berichttekst">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Bijlagenamen">
-
-<!ENTITY glodaSearchBar.location.label "Locatie:">
-<!ENTITY glodaSearchFacet.everywhere.label "Alle mappen">
-<!ENTITY glodaSearchFacet.folder.label "In een specifieke map…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Onderwerp">
@@ -621,15 +599,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Locatie">
 <!ENTITY idColumn.label "Volgorde van ontvangst">
 <!ENTITY attachmentColumn.label "Bijlagen">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Waarom">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Score">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klik om weer te geven kolommen te selecteren">
@@ -652,9 +621,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
 <!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">
 <!ENTITY attachmentColumn.tooltip "Klik om te sorteren op bijlagen">
-<!ENTITY glodaWhyColumn.tooltip "Klik om te sorteren op waarom het bericht in uw zoekresultaten staat">
-<!ENTITY glodaScoreColumn.tooltip "Klik om te sorteren op de zoekscore">
-
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Bericht openen in nieuw venster">
@@ -717,6 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Zoek overal">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Toevoegen aan adresboek…">
