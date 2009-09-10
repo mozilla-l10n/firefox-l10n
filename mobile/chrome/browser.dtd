@@ -23,7 +23,7 @@
 <!ENTITY bookmarksManage.label "Spravovat">
 <!ENTITY foldersHeader.label "Složky">
 
-<!ENTITY editBookmarkEdit.label "Upravit">
+<!ENTITY editBookmarkRemove.label "Odebrat">
 <!ENTITY editBookmarkMove.label "Přesunout">
 <!ENTITY editBookmarkDone.label "Hotovo">
 <!ENTITY editBookmarkTags.label "Přidat štítky">
