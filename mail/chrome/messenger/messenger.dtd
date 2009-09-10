@@ -570,28 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Recherche dans les messages…">
-<!ENTITY glodaSearchBar.facet.label "Recherche :">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Tout">
-<!ENTITY glodaSearchFacet.subject.label "Sujet">
-<!ENTITY glodaSearchFacet.involves.label "Participant (expéditeur, destinataire, en copie)">
-<!ENTITY glodaSearchFacet.to.label "Destinataire, en copie">
-<!ENTITY glodaSearchFacet.from.label "Expéditeur">
-<!ENTITY glodaSearchFacet.body.label "Texte du message">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Nom de pièce jointe">
 
-<!ENTITY glodaSearchBar.location.label "Emplacement :">
-<!ENTITY glodaSearchFacet.everywhere.label "Tous les dossiers">
-<!ENTITY glodaSearchFacet.folder.label "Dans un dossier particulier…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Sujet">
@@ -623,15 +602,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY idColumn.label "Ordre de réception">
 <!ENTITY attachmentColumn.label "Pièces jointes">
 
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Raison">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Pertinence">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Cliquez pour choisir les colonnes à afficher">
@@ -654,8 +624,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY locationColumn.tooltip "Cliquez pour trier par adresse">
 <!ENTITY idColumn.tooltip "Cliquez pour trier par ordre de réception">
 <!ENTITY attachmentColumn.tooltip "Cliquez pour trier par pièces jointes">
-<!ENTITY glodaWhyColumn.tooltip "Cliquez pour trier par raison de présence dans les résultats de recherche">
-<!ENTITY glodaScoreColumn.tooltip "Cliquez pour trier par degré de pertinence">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Ouvrir dans une nouvelle fenêtre">
@@ -718,6 +686,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Rechercher n'importe où">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Ajouter l'adresse au carnet d'adresses">
