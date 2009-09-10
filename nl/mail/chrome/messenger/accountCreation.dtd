@@ -1,18 +1,20 @@
-<!ENTITY welcome.description             "Snelle accountsetup">
-<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
-<!ENTITY name.description                "Uw naam">
-<!ENTITY email.description               "E-mail">
-<!ENTITY password.description            "Wachtwoord">
-
-<!ENTITY next.label                      "Volgende &#187;">
-<!ENTITY next.accesskey                  "V">
-<!ENTITY back.label                      "&#171; Vorige">
-<!ENTITY back.accesskey                  "o">
-
+<!ENTITY autoconfigWizard.title          "E-mail accountsetup">
+<!ENTITY name.label                      "Uw naam:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Voornaam achternaam">
+<!ENTITY name.text                       "Uw naam, deze wordt getoond aan anderen">
+<!ENTITY email.label                     "E-mailadres:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "Wachtwoord:">
+<!ENTITY password.accesskey              "W">
+<!ENTITY password.emptytext              "Wachtwoord">
+<!ENTITY password.text                   "Optioneel, wordt alleen gebruikt om uw gebruikersnaam te valideren">
+  
 <!ENTITY accountInformation.label        "Accountinformatie">
-<!ENTITY username.label                  "gebruikersnaam">
-<!ENTITY receivingServer.label           "ontvangen">
-<!ENTITY sendingServer.label             "verzenden">
+<!ENTITY username2.label                 "Gebruikersnaam:">
+<!ENTITY incoming.label                  "Inkomende:">
+<!ENTITY outgoing.label                  "Uitgaande:">
 <!ENTITY noEncryption.label              "Geen">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -21,11 +23,14 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
-     which will create the account and take the user to the account
-     configuration screen. -->
-<!ENTITY createAndEditSettings.label     "Accountinstellingen maken en bewerken">
+<!ENTITY manualSetup.label               "Handmatig configureren…">
+<!ENTITY manualSetup.accesskey           "S">
 <!ENTITY cancel.label                    "Annuleren">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Doorgaan">
+<!ENTITY continue.accesskey              "D">
+<!ENTITY startOver.label                 "Opnieuw beginnen">
+<!ENTITY startOver.accesskey             "o">
 <!ENTITY stop.label                      "Stop">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
@@ -51,7 +56,7 @@
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Account nmaken">
+<!ENTITY createAccount.label             "Account aanmaken">
 <!ENTITY createAccount.accesskey         "A">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
@@ -65,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Waarschuwing! Dit is een onveilige server.">
 <!ENTITY insecureServer.tooltip.details  "Klik op de cirkel voor meer details.">
 
-<!ENTITY insecureClearText.description   "E-mail wordt verzonden als tekst, dus uw e-mail kan gelezen worden door aanvallers, etc. &brandShortName; staat toe dat u uw mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een beveiligde verbinding.">
+<!ENTITY insecureCleartext.description   "E-mail wordt verzonden als tekst, dus uw e-mail kan gelezen worden door andere mensen op het internet. &brandShortName; staat toe dat u uw e-mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een beveiligde verbinding.">
 <!ENTITY insecureSelfSigned.description  "De server gebruikt een certificaat die we niet kunnen vertrouwen, dus we weten niet zeker of niemand het verkeer tussen &brandShortName; en uw server onderschept. &brandShortName; staat toe dat u uw mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een vertrouwde certificaat.">
 <!ENTITY secureServer.description        "Gefeliciteerd! Dit is een beveiligde server.">
