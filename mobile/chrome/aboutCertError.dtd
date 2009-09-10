@@ -31,6 +31,7 @@ om de side nei te meitsjen, en jo soene dan net trochgean.">
 tampering mei jo ferbining.</b>">
 <!ENTITY certerror.expert.contentPara2 "Foegje gjin útsûndering ta allinnich as
 jo witte dat der in goede reden is wêrom't dizze side net fertroude identifikaasje brûkt.">
-<!ENTITY certerror.addException.label "Utsûndering tafoegje…">
+<!ENTITY certerror.addTemporaryException.label "Webstee besykje">
+<!ENTITY certerror.addPermanentException.label "Utsûndering permanint tafoegje">
 
 <!ENTITY certerror.technical.heading "Technyske details">
