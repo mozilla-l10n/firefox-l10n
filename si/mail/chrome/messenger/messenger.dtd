@@ -5,6 +5,7 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "ෆෝල්ඩරයක්...">
 <!ENTITY newFolderCmd.accesskey "F">
+
 <!ENTITY closeTabCmd.label "ටැබ වසන්න">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "සුරැකූ සෙවුමක්...">
@@ -134,6 +135,8 @@
 
 <!ENTITY folderView.label "ෆෝල්ඩර">
 <!ENTITY folderView.accesskey "F">
+<!ENTITY smartFolders.label "Smart">
+<!ENTITY smartFolders.accesskey "S">
 <!ENTITY allFolders.label "සියල්ල">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "නොකියවූ">
@@ -560,29 +563,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "ලිපි සෙවීම…">
-<!ENTITY glodaSearchBar.facet.label "සෙවීම:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "සෑමදෙයම">
-<!ENTITY glodaSearchFacet.subject.label "විෂයය">
-<!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
-<!ENTITY glodaSearchFacet.to.label "වෙත, පිටපත්">
-<!ENTITY glodaSearchFacet.from.label "වෙතින්">
-<!ENTITY glodaSearchFacet.body.label "ලිපි පාඨ">
-<!ENTITY glodaSearchFacet.attachmentNames.label "ඇමුණුම් නම්">
-
-<!ENTITY glodaSearchBar.location.label "ස්ථානය:">
-<!ENTITY glodaSearchFacet.everywhere.label "සියළු ෆෝල්ඩර">
-<!ENTITY glodaSearchFacet.folder.label "විශේෂිත ෆෝල්ඩරයක් තුළ…">
-
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "විෂයය">
@@ -613,15 +593,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "ස්ථානය">
 <!ENTITY idColumn.label "ලැබුණු අනුපිළිවෙළ">
 <!ENTITY attachmentColumn.label "ඇමුණුම්">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Why">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Score">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "පෙන්වීම සඳහා තීරු තේරීමට ක්ලික් කරන්න">
@@ -644,8 +615,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "ස්ථානය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY attachmentColumn.tooltip "ඇමුණුම් අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
-<!ENTITY glodaScoreColumn.tooltip "Click to sort by the search score">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "ලිපිය නව කවුළුවක විවෘත කරන්න">
@@ -679,6 +648,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "මුද්‍රණය පෙර දැක්ම">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "වාදනය කරන්න">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "තාවකාලිකව නවතන්න">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "නිහඬ">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "නිහඬ නො">
+<!ENTITY contextUnmute.accesskey "m">
+
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "නිසරු ලිපි">
 <!ENTITY junkBarButton1.label "නිසරු නොවූ">
@@ -694,6 +674,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- Quick Search Bar -->
+<!ENTITY searchEverywhere.label "සැමතැන සොයන්න">
 <!ENTITY quickSearchCmd.key "k">
 
 <!-- Message Header Context Menu -->

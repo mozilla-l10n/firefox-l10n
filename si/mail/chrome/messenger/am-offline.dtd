@@ -32,3 +32,20 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "ලිපි සම්මුහුර්තකරණය(Synchronizing)">
 <!ENTITY diskspaceGroupTitle.label "ඩිස්ක ධාරිතාව">
+
+<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+  useAutosyncAfter.label appear on a single line in preferences as follows:
+
+  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+-->
+<!ENTITY useAutosyncBefore.label         "">
+<!ENTITY useAutosyncMiddle.label         "">
+<!ENTITY allInterval.label               "සියල්ල">
+<!ENTITY dayInterval.label               "දින">
+<!ENTITY weekInterval.label              "සති">
+<!ENTITY monthInterval.label             "මාස">
+<!ENTITY yearInterval.label              "අවුරුදු">
+<!ENTITY useAutosyncAfter.label          "ලිපි ඩිස්ක තුළ සුරකිනු ඇත">
+
+

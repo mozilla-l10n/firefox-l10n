@@ -1,18 +1,20 @@
-<!ENTITY welcome.description             "ඉක්මනින් ගිණුමක් සකස් කිරීම">
-<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
-<!ENTITY name.description                "ඔබේ නම">
-<!ENTITY email.description               "විද්‍යුත් තැපැල">
-<!ENTITY password.description            "රහස්පදය">
-
-<!ENTITY next.label                      "ඉදිරියට &#187;">
-<!ENTITY next.accesskey                  "N">
-<!ENTITY back.label                      "&#171; පසුපසට">
-<!ENTITY back.accesskey                  "B">
+<!ENTITY autoconfigWizard.title          "ගිණුම සකස් කිරීම">
+<!ENTITY name.label                      "ඔබේ නම:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "පළමු අවසාන">
+<!ENTITY name.text                       "ඔබේ නම, අන් අයට පෙන්වන අයුරු">
+<!ENTITY email.label                     "විද්‍යුත් තැපැල් ලිපිනය:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "රහස්පදය:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.emptytext              "රහස්පදය">
+<!ENTITY password.text                   "Optional, will only be used to validate the username">
 
 <!ENTITY accountInformation.label        "ගිණුම් තොරතුරු">
-<!ENTITY username.label                  "පරිශීලක නම">
-<!ENTITY receivingServer.label           "එවුම් සේවාදායකය">
-<!ENTITY sendingServer.label             "යැවුම් සේවාදායකය">
+<!ENTITY username2.label                 "පරිශීලක නම:">
+<!ENTITY incoming.label                  "එවුම් :">
+<!ENTITY outgoing.label                  "යැවුම්:">
 <!ENTITY noEncryption.label              "කිසිවක් නැත">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -21,10 +23,20 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
+<!ENTITY manualSetup.label               "Manual Setup…">
+<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY cancel.label                    "එපා">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "දිගටම කරන්න">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "ආරම්භ කරන්න">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "නවතන්න">
+<!ENTITY stop.accesskey                  "S">
+
 <!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
      which will create the account and take the user to the account
      configuration screen. -->
-<!ENTITY createAndEditSettings.label     "ගිණුම් සෑදීම සහ සැකසීම">
 <!ENTITY cancel.label                    "එපා">
 <!ENTITY stop.label                      "නවතන්න">
 <!ENTITY stop.accesskey                  "S">
@@ -65,6 +77,6 @@
 <!ENTITY insecureServer.tooltip.title    "අවවාදයයි! මෙය අනාරක්ෂිත සේවාදායකයකි.">
 <!ENTITY insecureServer.tooltip.details  "වැඩි විස්තර සඳහා වෘත්තය ත්ලිත් තරන්න.">
 
-<!ENTITY insecureClearText.description   "Email is sent in clear-text, so your email could be read by attackers, etc. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
+<!ENTITY insecureCleartext.description   "Email is sent in clear-text, so your email could be read by other people on the internet. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
 <!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
 <!ENTITY secureServer.description        "සුභපැතුම්! මෙය ආරක්ෂිත සේවාදායකයකි.">
