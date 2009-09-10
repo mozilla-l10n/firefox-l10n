@@ -175,6 +175,8 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY openLinkCmd.label "Apri in nuova finestra">
 <!ENTITY openLinkCmd.accesskey "f">
+<!ENTITY openLinkCmdInCurrent.label "Apri collegamento">
+<!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openLinkCmdInTab.label "Apri in nuova scheda">
 <!ENTITY openLinkCmdInTab.accesskey "s">
 <!ENTITY openFrameCmd.label "Apri riquadro in nuova finestra">
