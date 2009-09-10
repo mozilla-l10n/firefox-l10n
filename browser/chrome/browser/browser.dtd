@@ -267,6 +267,8 @@
 
 <!ENTITY openLinkCmd.label            "Atverti saistomą objektą naujame lange">
 <!ENTITY openLinkCmd.accesskey        "l">
+<!ENTITY openLinkCmdInCurrent.label     "Atverti saistomą objektą">
+<!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openLinkCmdInTab.label       "Atverti saistomą objektą naujoje kortelėje">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openFrameCmd.label           "Atverti kadrą naujame lange">
