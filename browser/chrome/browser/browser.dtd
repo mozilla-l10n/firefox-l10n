@@ -235,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label "Abrir enlace en nueva ventana">
 <!ENTITY openLinkCmd.accesskey "v">
+<!ENTITY openLinkCmdInCurrent.label     "Abrir enlace">
+<!ENTITY openLinkCmdInCurrent.accesskey "e">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en nueva pestaña">
 <!ENTITY openLinkCmdInTab.accesskey "t">
 <!ENTITY openFrameCmd.label "Abrir marco en nueva ventana">
@@ -315,8 +317,6 @@
 <!ENTITY copyAudioURLCmd.label        "Copiar dirección del audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "n">
-<!ENTITY metadataCmd.label "Propiedades">
-<!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Copiar dirección de correo electrónico">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Este marco">
