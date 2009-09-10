@@ -1,21 +1,11 @@
 <!ENTITY back.label            "عودة">
-<!ENTITY back.tooltip          "عودة">
 <!ENTITY forward.label         "إلى الأمام">
-<!ENTITY forward.tooltip       "إلى الأمام">
 <!ENTITY reload.label          "أعِد التحميل">
-<!ENTITY reload.tooltip        "أعِد التحميل">
 <!ENTITY stop.label            "أوقِف">
-<!ENTITY stop.tooltip          "أوقِف">
 <!ENTITY search.label          "ابحث">
-<!ENTITY search.tooltip        "ابحث">
 <!ENTITY go.label              "اذهب">
-<!ENTITY go.tooltip            "اذهب">
 <!ENTITY openLocation.label    "افتح موقعًا">
-<!ENTITY openLocation.tooltip  "افتح موقعًا">
 <!ENTITY star.label            "ضع نجمة">
-<!ENTITY star.tooltip          "علّم هذه الصفحة بنجمة">
-<!ENTITY bookmarks.label       "العلامات">
-<!ENTITY bookmarks.tooltip     "شاهد العلامات">
 
 <!ENTITY newtab.label          "لسان جديد">
 <!ENTITY closetab.label        "أغلِق اللسان">
@@ -33,7 +23,7 @@
 <!ENTITY bookmarksManage.label     "إدارة">
 <!ENTITY foldersHeader.label       "المجلدات">
 
-<!ENTITY editBookmarkEdit.label    "حرّر">
+<!ENTITY editBookmarkRemove.label  "أزِل">
 <!ENTITY editBookmarkMove.label    "انقل">
 <!ENTITY editBookmarkTags.label    "الوسوم:">
 <!ENTITY editBookmarkDone.label    "تمّ">
@@ -53,15 +43,17 @@
 
 <!ENTITY addonsHeader.label        "الإضافات">
 <!ENTITY addonsLocal.label         "إضافاتك">
+<!ENTITY addonsUpdate.label        "حدّث">
 <!ENTITY addonsRepo.label          "احصل على الإضافات">
-<!ENTITY addonsRecommended.label   "شاهد المُزكَّاة">
+<!ENTITY addonsRecommended.label   "المُزكَّاة">
 <!ENTITY addonsSearch.label        "ابحث في الدليل">
-<!ENTITY addonsSearch.emptytext    "ابحث عن إضافة">
+<!ENTITY addonsSearch2.emptytext   "ابحث في ">
+<!ENTITY addonsSearch.recommended  "المُزكَّاة">
 
 <!ENTITY addonOptions.label        "خيارات">
 <!ENTITY addonEnable.label         "فعّل">
 <!ENTITY addonDisable.label        "عطّل">
-<!ENTITY addonInstall.label        "ثبّت">
+<!ENTITY addonInstall2.label       "أضِف إلى &brandShortName;">
 <!ENTITY addonUninstall.label      "أزِل التثبيت">
 <!ENTITY addonCancel.label         "ألغِ">
 <!ENTITY addonShowPage.label       "اذهب إلى الصفحة">
@@ -71,7 +63,7 @@
 <!ENTITY downloadsSortSite.label   "حسب الموقع">
 <!ENTITY downloadsSortName.label   "حسب الاسم">
 <!ENTITY downloadsSearch.label     "ابحث">
-<!ENTITY downloadsSearch.emptytext "ابحث عن ملف مُنزّل">
+<!ENTITY downloadsSearch2.emptytext "ابحث">
 
 <!ENTITY downloadShowPage.label    "اذهب إلى الصفحة">
 <!ENTITY downloadShow2.label       "ابحث">
@@ -82,6 +74,13 @@
 <!ENTITY downloadRetry.label       "أعِد المحاولة">
 
 <!ENTITY noResults.label           "لا نتائج">
+<!ENTITY allBookmarks.label        "شاهِد كل العلامات
+
+<!ENTITY searchEngine.addSearch     "أضِف بحثًا:">
+
+<!ENTITY bookmarkPopup.label       "عُلّمت الصفحة">
+<!ENTITY bookmarkRemove.label      "أزِل">
+<!ENTITY bookmarkEdit.label        "حرّر">">
 
 <!ENTITY identity.unverifiedsite2 "لا يزوّد موقع الوب هذا معلومات تعريفية.">
 <!ENTITY identity.connectedTo2 "متصل ب‍">
@@ -105,4 +104,3 @@
 <!ENTITY consoleErrColumn.label    "العمود:">
 
 <!ENTITY selectListDone.label      "تمّ">
-<!ENTITY selectListDisplay.format  "#1 عنصر/عناصر">
