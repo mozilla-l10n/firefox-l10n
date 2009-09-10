@@ -2,6 +2,8 @@
 <!ENTITY itemPhishing.label      "Email Scams">
 <!ENTITY itemPasswords.label     "රහස්පද">
 <!ENTITY itemAntiVirus.label     "වෛරස-විරෝධී">
+<!ENTITY itemCookies.label       "වෙබ් අන්තර්ගතය">
+
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "ඔබගේ පෙරනිමි නිසරු ලිපි සැකසුම් සාදන්න. ගිණුමට විශේෂිත වූ නිසරු ලිපි සැකසුම් ගිණුමේ සැකසුම් තුළ දී වින්‍යාස කළ හැකිය.">
@@ -43,4 +45,22 @@
 <!ENTITY antiVirus.accesskey  "l">
 
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+
+<!-- Cookies -->
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "ඔබගේ පරිගණකයේ කුකීස් තැන්පත් කරනු ලබන්නේ කවර බ්ලොග්, news feeds, සහ වෙනත් වෙබ් අඩවිදැයි දැක්වීමට &brandShortName; ඔබට ඉඩ ලබා දේ.">
+<!ENTITY acceptCookies.label            "මෙම අඩවීන්ගේ කුකීස් පිළිගන්න">
+<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY keepUntil.label                "තබාගන්නේ:">
+<!ENTITY keepUntil.accesskey            "K">
+<!ENTITY expire.label                   "ඒවා කල් ඉකුත්වනතුරු">
+<!ENTITY close.label                    "මම &brandShortName;වසන තුරු">
+<!ENTITY askEachTime.label              "සෑමවිටම විමසන්න">
+<!ENTITY cookieExceptions.label         "හැරදැමීම්…">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "කුකීස් පෙන්වන්න…">
+<!ENTITY showCookies.accesskey          "S">
+
+
+
 
