@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "B">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Buscar actualizaciones a sus agregados">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Buscar actualizaciones a sus temas">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Buscar actualizaciones a sus plugins">
 <!ENTITY cmd.installLocalFile.label "Instalar…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip "Instalar un agregado">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label "Requiere ítems adicionales.">
 <!ENTITY blocklisted.label "Deshabilitado para su protección.">
 <!ENTITY softBlocklisted.label            "Se sabe que causa problemas de seguridad o estabilidad.">
+<!ENTITY outdated.label                   "Una versión más nueva y segura está disponible.">
 <!ENTITY toBeDisabled.label "Este agregado se deshabilitará cuando se reinicie &brandShortName;.">
 <!ENTITY toBeEnabled.label "Este agregado se habilitará cuando se reinicie &brandShortName;.">
 <!ENTITY toBeInstalled.label "Este agregado se instalará cuando se reinicie &brandShortName;.">
