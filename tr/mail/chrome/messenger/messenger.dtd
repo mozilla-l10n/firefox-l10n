@@ -569,28 +569,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Gloda Search Bar -->
 
 <!ENTITY glodaSearchBar.emptyText "İletilerde ara…">
-<!ENTITY glodaSearchBar.facet.label "Ara:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Her şey">
-<!ENTITY glodaSearchFacet.subject.label "Konu">
-<!ENTITY glodaSearchFacet.involves.label "İlgililer (kimden, kime, ilgili kopya, ilgili gizli kopya)">
-<!ENTITY glodaSearchFacet.to.label "Kime, İlgili kopya">
-<!ENTITY glodaSearchFacet.from.label "Gönderen">
-<!ENTITY glodaSearchFacet.body.label "İleti metni">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Ek isimleri">
-
-<!ENTITY glodaSearchBar.location.label "Konum:">
-<!ENTITY glodaSearchFacet.everywhere.label "Bütün dizinler">
-<!ENTITY glodaSearchFacet.folder.label "Belirli dizinde…">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Konu">
@@ -621,15 +599,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Konum">
 <!ENTITY idColumn.label "Alındı sırası">
 <!ENTITY attachmentColumn.label "Eklentiler">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Nedeni">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Skor">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "Görüntülenecek sütunları tıklayın">
@@ -652,8 +621,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Konuma göre sırala">
 <!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">
 <!ENTITY attachmentColumn.tooltip "Eklere göre sırala">
-<!ENTITY glodaWhyColumn.tooltip "Arama sonuçlarında nedenine göre sırala">
-<!ENTITY glodaScoreColumn.tooltip "Arama skoruna göre sırala">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Yeni pencerede aç">
@@ -716,6 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Quick Search Bar -->
 
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Her yerde ara">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "Adres defterine ekle…">

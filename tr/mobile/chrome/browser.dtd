@@ -23,7 +23,7 @@
 <!ENTITY bookmarksManage.label "Yönet">
 <!ENTITY foldersHeader.label "Dizinler">
 
-<!ENTITY editBookmarkEdit.label "Düzenle">
+<!ENTITY editBookmarkRemove.label "Kaldır">
 <!ENTITY editBookmarkMove.label "Taşı">
 <!ENTITY editBookmarkDone.label "Tamamlandı">
 <!ENTITY editBookmarkTags.label "Buraya etiket ekle">
