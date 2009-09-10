@@ -235,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label            "Keppeling yn nij finster iepenje">
 <!ENTITY openLinkCmd.accesskey        "f">
+<!ENTITY openLinkCmdInCurrent.label     "Keppeling iepenje ">
+<!ENTITY openLinkCmdInCurrent.accesskey "K">
 <!ENTITY openLinkCmdInTab.label       "Keppeling yn nij ljepblêd iepenje">
 <!ENTITY openLinkCmdInTab.accesskey   "l">
 <!ENTITY openFrameCmd.label           "Dielfinster yn nij finster iepenje">
