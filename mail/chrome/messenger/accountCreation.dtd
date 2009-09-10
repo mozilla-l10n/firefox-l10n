@@ -13,8 +13,8 @@
 
 <!ENTITY accountInformation.label        "Information de compte">
 <!ENTITY username2.label                 "Identifiant :">
-<!ENTITY receivingServer2.label          "Serveur entrant :">
-<!ENTITY sendingServer2.label            "Serveur sortant :">
+<!ENTITY incoming.label                  "Serveur entrant :">
+<!ENTITY outgoing.label                  "Serveur sortant :">
 <!ENTITY noEncryption.label              "Aucune">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -70,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n'est pas sécurisé.">
 <!ENTITY insecureServer.tooltip.details  "Cliquez sur le cercle pour plus de détails.">
 
-<!ENTITY insecureClearText.description   "Les courriels sont envoyés en clair et peuvent donc être lus par d'autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
+<!ENTITY insecureCleartext.description   "Les courriels sont envoyés en clair et peuvent donc être lus par d'autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
 <!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu'un n'intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
 <!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">
