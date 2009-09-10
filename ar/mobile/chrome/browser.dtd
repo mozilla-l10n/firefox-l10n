@@ -80,7 +80,7 @@
 
 <!ENTITY bookmarkPopup.label       "عُلّمت الصفحة">
 <!ENTITY bookmarkRemove.label      "أزِل">
-<!ENTITY bookmarkEdit.label        "حرّر">">
+<!ENTITY bookmarkEdit.label        "حرّر">
 
 <!ENTITY identity.unverifiedsite2 "لا يزوّد موقع الوب هذا معلومات تعريفية.">
 <!ENTITY identity.connectedTo2 "متصل ب‍">
