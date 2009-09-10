@@ -19,7 +19,7 @@
 <!ENTITY bookmarksHeader.label "Segnalibri">
 <!ENTITY bookmarksManage.label "Gestisci">
 <!ENTITY foldersHeader.label "Cartelle">
-<!ENTITY editBookmarkEdit.label "Modifica">
+<!ENTITY editBookmarkRemove.label "Elimina">
 <!ENTITY editBookmarkMove.label "Sposta">
 <!ENTITY editBookmarkDone.label "Fatto">
 <!ENTITY editBookmarkTags.label "Etichette:">
