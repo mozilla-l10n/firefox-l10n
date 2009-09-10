@@ -23,7 +23,7 @@
 <!ENTITY bookmarksManage.label     "Beheare">
 <!ENTITY foldersHeader.label       "Mappen">
 
-<!ENTITY editBookmarkEdit.label    "Bewurkje">
+<!ENTITY editBookmarkRemove.label    "Fuortsmite">
 <!ENTITY editBookmarkMove.label    "Ferpleats">
 <!ENTITY editBookmarkDone.label    "Klear">
 <!ENTITY editBookmarkTags.label    "Foech hjir labels ta">
