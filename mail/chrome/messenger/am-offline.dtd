@@ -63,3 +63,18 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "P">
 <!ENTITY syncGroupTitle.label "Laiškų sinchronizavimas">
 <!ENTITY diskspaceGroupTitle.label "Disko atmintinė">
+
+<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+  useAutosyncAfter.label appear on a single line in preferences as follows:
+
+  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+-->
+<!ENTITY useAutosyncBefore.label         "Podėlyje laikyti">
+<!ENTITY useAutosyncMiddle.label         "">
+<!ENTITY allInterval.label               "visus">
+<!ENTITY dayInterval.label               "pastarųjų dienų">
+<!ENTITY weekInterval.label              "pastarųjų savaičių">
+<!ENTITY monthInterval.label             "pastarųjų mėnesių">
+<!ENTITY yearInterval.label              "pastarųjų metų">
+<!ENTITY useAutosyncAfter.label          "laiškus">

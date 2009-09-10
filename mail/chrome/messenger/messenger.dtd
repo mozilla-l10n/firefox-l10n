@@ -167,6 +167,8 @@
 
 <!ENTITY folderView.label "Aplankai">
 <!ENTITY folderView.accesskey "A">
+<!ENTITY smartFolders.label "Radiniai">
+<!ENTITY smartFolders.accesskey "R">
 <!ENTITY allFolders.label "Visi">
 <!ENTITY allFolders.accesskey "V">
 <!ENTITY unreadFolders.label "Turintys neskaitytų laiškų">
@@ -593,28 +595,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Ieškoti laiškų…">
-<!ENTITY glodaSearchBar.facet.label "Ieškoti:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "bet ko">
-<!ENTITY glodaSearchFacet.subject.label "laiško temos">
-<!ENTITY glodaSearchFacet.involves.label "siuntėjo/gavėjo">
-<!ENTITY glodaSearchFacet.to.label "gavėjo">
-<!ENTITY glodaSearchFacet.from.label "siuntėjo">
-<!ENTITY glodaSearchFacet.body.label "laiško teksto">
-<!ENTITY glodaSearchFacet.attachmentNames.label "priedo vardo">
-
-<!ENTITY glodaSearchBar.location.label "Vieta:">
-<!ENTITY glodaSearchFacet.everywhere.label "visi aplankai">
-<!ENTITY glodaSearchFacet.folder.label "parinktas aplankas…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Tema">
@@ -645,16 +625,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Vieta">
 <!ENTITY idColumn.label "Gavimo eilė">
 <!ENTITY attachmentColumn.label "Priedai">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Paiešką atitiko">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Taškai">
-		
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Spustelėkite ir pasirinkite, kuriuos stulpelius rodyti">
 <!ENTITY threadColumn.tooltip "Spustelėjus čia, bus rodomos laiškų gijos"> 
@@ -676,8 +647,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal vietą">
 <!ENTITY idColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo eilę">
 <!ENTITY attachmentColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal priedus">
-<!ENTITY glodaWhyColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal priežastį, dėl kurios laiškas yra paieškos rezultatuose">
-<!ENTITY glodaScoreColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal atitikimo paieškos kriterijams kokybę">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Atverti laišką naujame lange">
@@ -712,6 +681,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Spaudinio peržiūra">
 <!ENTITY contextPrintPreview.accesskey "ž">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Groti">
+<!ENTITY contextPlay.accesskey "G">
+<!ENTITY contextPause.label "Pristabdyti">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Išjungti garsą">
+<!ENTITY contextMute.accesskey "r">
+<!ENTITY contextUnmute.label "Įjungti garsą">
+<!ENTITY contextUnmute.accesskey "r">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Šlamštas">
 <!ENTITY junkBarButton1.label "Tai nėra šlamštas">
@@ -729,8 +708,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "kiti">
 
-<!-- Search Bar -->
+<!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Ieškoti visur">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Įtraukti į adresų knygą…">

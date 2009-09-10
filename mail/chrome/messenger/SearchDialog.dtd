@@ -35,8 +35,8 @@
 <!ENTITY searchHeading.accesskey     "K">
 <!ENTITY searchSubfolders.label      "Ieškoti poaplankiuose">
 <!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY searchOnline.label          "Ieškoti tinkle">
-<!ENTITY searchOnline.accesskey      "t">
+<!ENTITY searchOnServer.label        "Ieškoti serveryje">
+<!ENTITY searchOnServer.accesskey    "s">
 <!ENTITY resetButton.label           "Išvalyti">
 <!ENTITY resetButton.accesskey       "v">
 <!ENTITY openButton.label            "Atverti">
