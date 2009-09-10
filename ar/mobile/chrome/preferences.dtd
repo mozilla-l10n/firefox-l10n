@@ -1,3 +1,7 @@
+<!ENTITY prefsHeader.label                         "التفضيلات">
+<!ENTITY about.title                               "عن &brandShortName;">
+<!ENTITY about.button                              "اذهب إلى صفحة">
+<!ENTITY about.description                         "احصل على المساعدة ومعلومات المنتج">
 <!ENTITY content.title                             "المحتوى">
 <!ENTITY showImages.title                          "أظهِر الصور">
 <!ENTITY enableJavaScript.title                    "فعّل جافاسكربت">
