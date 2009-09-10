@@ -1,3 +1,5 @@
+<!ENTITY openFrameCmdInTab.label      "Open Frame in New Tab">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
@@ -234,7 +236,9 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY openLinkCmd.label "Otevřít odkaz v novém okně">
-<!ENTITY openLinkCmd.accesskey "O">
+<!ENTITY openLinkCmd.accesskey "k">
+<!ENTITY openLinkCmdInCurrent.label "Otevřít odkaz">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "Otevřít odkaz v novém panelu">
 <!ENTITY openLinkCmdInTab.accesskey "n">
 <!ENTITY openFrameCmd.label "Otevřít rám v novém okně">
