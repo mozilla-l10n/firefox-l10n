@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gizli Tarama)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gizli tarama)">
 
 <!ENTITY tabCmd.label "Yeni sekme">
 <!ENTITY tabCmd.accesskey "s">
