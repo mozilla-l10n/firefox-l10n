@@ -34,6 +34,7 @@
 <!ENTITY itemPhishing.label      "Apgaulingi laiškai">
 <!ENTITY itemPasswords.label     "Slaptažodžiai">
 <!ENTITY itemAntiVirus.label     "Antivirusinė apsauga">
+<!ENTITY itemCookies.label       "Žiniatinklis">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Šlamšto kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">
@@ -73,3 +74,17 @@
 <!ENTITY antiVirus.intro      "Prieš įrašydama gaunamus laiškus, programa „&brandShortName;“ gali leisti antivirusinei programai patikrinti, ar juose nėra virusų.">
 <!ENTITY antiVirus.label      "Leisti antivirusinei programai izoliuoti įtartinus laiškus">
 <!ENTITY antiVirus.accesskey  "L">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "Čia programai galite nurodyti, kuriems tinklaraščiams, naujienų srautams ir kitoms svetainėms ji turi leisti įrašyti slapukus.">
+<!ENTITY acceptCookies.label            "Leisti įrašyti slapukus">
+<!ENTITY acceptCookies.accesskey        "s">
+<!ENTITY keepUntil.label                "Laikyti iki:">
+<!ENTITY keepUntil.accesskey            "k">
+<!ENTITY expire.label                   "jų galiojimo laiko pabaigos">
+<!ENTITY close.label                    "„&brandShortName;“ seanso pabaigos">
+<!ENTITY askEachTime.label              "klausti prieš priimant slapuką">
+<!ENTITY cookieExceptions.label         "Išimtys…">
+<!ENTITY cookieExceptions.accesskey     "I">
+<!ENTITY showCookies.label              "Rodyti slapukus…">
+<!ENTITY showCookies.accesskey          "R">
