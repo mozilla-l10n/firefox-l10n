@@ -55,7 +55,7 @@
 <!ENTITY bookmarksManage.label            "Tvarkyti">
 <!ENTITY foldersHeader.label              "Aplankai">
 
-<!ENTITY editBookmarkEdit.label           "Taisyti">
+<!ENTITY editBookmarkRemove.label         "Pašalinti">
 <!ENTITY editBookmarkMove.label           "Perkelti">
 <!ENTITY editBookmarkTags.label           "Gairės:">
 <!ENTITY editBookmarkDone.label           "Įrašyti">
