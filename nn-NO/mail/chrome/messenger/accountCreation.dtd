@@ -42,16 +42,12 @@
 <!ENTITY warning.label                   "Åtvaring!">
 <!ENTITY incomingSettings.label          "Innkomande innstillingar:">
 <!ENTITY outgoingSettings.label          "Utgåande innstillingar:">
-<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
-     warning on the incoming server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmIncomingWarning.label    "Eg forstår risikoen.">
-<!ENTITY confirmIncomingWarning.accesskey "E">
-<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+<!ENTITY technicaldetails.label          "Tekniske detaljar">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmOutgoingWarning.label    "Eg forstår risikoen.">
-<!ENTITY confirmOutgoingWarning.accesskey "o">
+<!ENTITY confirmWarning.label            "Eg forstår risikoen.">
+<!ENTITY confirmWarning.accesskey        "E">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->

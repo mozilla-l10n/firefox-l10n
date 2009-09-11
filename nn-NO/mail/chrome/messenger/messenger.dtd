@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "L">
 <!ENTITY newVirtualFolderCmd.label "Lagra søk …">
 <!ENTITY newVirtualFolderCmd.accesskey "L">
-<!ENTITY newAccountCmd.label "Konto …">
-<!ENTITY newAccountCmd.accesskey "K">
-<!ENTITY newMailAccountCmd.label "E-postkonto (snøggoppsett) …">
-<!ENTITY newMailAccountCmd.accesskey "s">
+<!ENTITY newOtherAccountsCmd.label "Andre kontoar …">
+<!ENTITY newOtherAccountsCmd.accesskey "A">
+<!ENTITY newEmailAccountCmd.label "E-postkonto …">
+<!ENTITY newEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Opne lagra melding …">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Vedlegg">
