@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label                 "Sök automatiskt efter uppdateringar till:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Tillägg">
-<!ENTITY enableAddonsUpdate.accesskey    "T">
+<!ENTITY enableAddonsUpdate2.label       "Tillägg och teman">
+<!ENTITY enableAddonsUpdate2.accesskey   "T">
 <!ENTITY enableSearchUpdate.label        "Sökmotorer">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 <!ENTITY whenUpdatesFound.label          "När det finns uppdateringar till &brandShortName;:">
