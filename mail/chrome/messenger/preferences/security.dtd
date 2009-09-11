@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label "ইমেইল জালিয়াতি">
 <!ENTITY itemPasswords.label "পাসওয়ার্ড">
 <!ENTITY itemAntiVirus.label "এন্টি-ভাইরাস">
+<!ENTITY itemCookies.label "Web Content">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "আপনার ডিফল্ট অপ্রয়োজনীয় মেইলের সেটিং নির্ধারণ করুন। একাউন্ট অনুযায়ী অপ্রয়োজনীয় মেইলের বৈশিষ্ট্য নির্ধারণ করতে  একাউন্ট সেটিং এ যান।">
@@ -41,3 +42,18 @@
 <!ENTITY antiVirus.intro "&brandShortName; আসন্ন মেইল বার্তাসমূহ স্থানীয়ভাবে সংরক্ষণ করার পূর্বে, তারা ভাইরাস যুক্ত কিনা তা পরীক্ষা করতে, এন্টি-ভাইরাস সফটওয়্যারকে সাহায্য করে।">
 <!ENTITY antiVirus.label "এন্টি-ভাইরাস ক্লায়েন্টকে আসন্ন বার্তা আটকে রাখতে অনুমোদন করা হবে (A)">
 <!ENTITY antiVirus.accesskey "A">
+<!-- Cookies -->
+
+<!ENTITY cookies.intro "&brandShortName; lets you specify which blogs, news feeds, and other web sites are allowed to set cookies.">
+<!ENTITY acceptCookies.label "Accept cookies from sites">
+<!ENTITY acceptCookies.accesskey "c">
+<!ENTITY keepUntil.label "Keep until:">
+<!ENTITY keepUntil.accesskey "K">
+<!ENTITY expire.label "they expire">
+<!ENTITY close.label "I close &brandShortName;">
+<!ENTITY askEachTime.label "ask me every time">
+<!ENTITY cookieExceptions.label "Exceptions…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Show Cookies…">
+<!ENTITY showCookies.accesskey "S">
+

@@ -15,12 +15,7 @@
 <!ENTITY color.label "রং (C):">
 <!ENTITY color.accesskey "c">
 <!ENTITY displayWidth.label "সরল টেক্সট বার্তা">
-<!ENTITY plainText.label "নিম্নের ফন্ট ব্যবহার করা হবে:">
 <!ENTITY displayText.label "উদ্ধৃতি চিহ্ন যুক্ত সরল টেক্সট বার্তা প্রদর্শনে:">
-<!ENTITY fixedWidth.label "নির্দিষ্ট প্রস্থের ফন্ট (x)">
-<!ENTITY fixedWidth.accesskey "x">
-<!ENTITY variableWidth.label "পরিবর্তনশীল প্রস্থের ফন্ট (V)">
-<!ENTITY variableWidth.accesskey "V">
 <!ENTITY colors.label "রং">
 <!ENTITY overrideColors.label "বার্তা প্রদর্শনে সময়, নিম্নের রং ব্যবহার করা হবে:">
 <!ENTITY textColor.label "টেক্সটের রং (T):">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "D">
 <!-- Fonts -->
 
-<!ENTITY fontAndEncodingsDescription.label "&brandShortName; দ্বারা ব্যবহৃত ফন্ট এবং এনকোডিং কনফিগার করা হবে">
-<!ENTITY fontsAndEncodingsCaption.label "ফন্ট ও এনকোডিং">
+<!ENTITY fontsAndColors.label "Fonts">
+<!ENTITY defaultFont.label "Default font:">
+<!ENTITY defaultFont.accesskey "D">
+<!ENTITY defaultSize.label "Size:">
+<!ENTITY defaultSize.accesskey "S">
 <!ENTITY fontOptions.accesskey "F">
 <!ENTITY fontOptions.label "ফন্ট... (F)">

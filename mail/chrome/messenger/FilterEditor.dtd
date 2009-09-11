@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "মেইল পরীক্ষা করা হচ্ছে">
 <!ENTITY contextManual.label "স্বচালিত">
 <!ENTITY contextBoth.label "মেইল পরীক্ষা করা হচ্ছে বা স্বচালিত">
+<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
+<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
 <!ENTITY filterActionDesc.label "এই কাজগুলো করা হবে (P):">
 <!ENTITY filterActionDesc.accesskey "P">
 <!-- New Style Filter Rule Actions -->

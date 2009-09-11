@@ -66,10 +66,16 @@
 <!ENTITY trashButton.tooltiptext "মুছে ফেলা">
 
 <!ENTITY otherActionsButton.label "অন্যান্য ক্রিয়া">
+<!ENTITY otherActionsOpenInNewWindow.label "open in new window">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
+<!ENTITY otherActionsOpenInNewTab.label "open in new tab">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
 <!ENTITY saveAsMenuItem.label "নতুনভাবে সংরক্ষন... (s)">
-<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "সোর্স দেখা... (v)">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY viewSourceMenuItem.accesskey "v">
+<!ENTITY otherActionsPrint.label "print…">
+<!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label "খুলুন (O)">
 <!ENTITY openAttachmentCmd.accesskey "O">

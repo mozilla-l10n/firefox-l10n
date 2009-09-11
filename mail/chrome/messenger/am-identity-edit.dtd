@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "পরিচয় সেটিং">
 <!ENTITY identityListDesc.label "এই পরিচয়ের জন্য সেটিং কনফিগার করা হবে:">
 

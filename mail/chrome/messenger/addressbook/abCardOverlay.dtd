@@ -96,7 +96,7 @@
 <!ENTITY PagerNumber.label "পেজার (g):">
 <!ENTITY PagerNumber.accesskey "g">
 <!ENTITY CellularNumber.label "মোবাইল (M):">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY CellularNumber.accesskey "m">
 
 <!ENTITY Home.tab "ব্যক্তিগত">
 <!ENTITY Home.accesskey "P">
@@ -129,7 +129,7 @@
 <!ENTITY Department.label "বিভাগ (m):">
 <!ENTITY Department.accesskey "m">
 <!ENTITY Company.label "প্রতিষ্ঠান (O):">
-<!ENTITY Company.accesskey "O">
+<!ENTITY Company.accesskey "o">
 <!ENTITY WorkAddress.label "ঠিকানা (A):">
 <!ENTITY WorkAddress.accesskey "A">
 <!ENTITY WorkAddress2.label "">
@@ -157,3 +157,19 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "নোট (N):">
 <!ENTITY Notes.accesskey "N">
+
+<!ENTITY Photo.tab "Photo">
+<!ENTITY Photo.accesskey "o">
+<!ENTITY PhotoDesc.label "Pick one of the following:">
+<!ENTITY GenericPhoto.label "Generic Photo">
+<!ENTITY GenericPhoto.accesskey "G">
+<!ENTITY DefaultPhoto.label "Default">
+<!ENTITY PhotoFile.label "On this Computer">
+<!ENTITY PhotoFile.accesskey "n">
+<!ENTITY BrowsePhoto.label "Browse">
+<!ENTITY BrowsePhoto.accesskey "r">
+<!ENTITY PhotoURL.label "On the Web">
+<!ENTITY PhotoURL.accesskey "b">
+<!ENTITY PhotoURL.emptytext "Paste or type the web address of a photo">
+<!ENTITY UpdatePhoto.label "Update">
+<!ENTITY UpdatePhoto.accesskey "u">

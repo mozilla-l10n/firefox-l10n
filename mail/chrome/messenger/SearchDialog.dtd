@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey "h">
 <!ENTITY searchSubfolders.label "সাবফোল্ডারে খোঁজা হবে (e)">
 <!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY searchOnServer.label "Run search on server">
+<!ENTITY searchOnServer.accesskey "u">
 <!ENTITY resetButton.label "পরিষ্কার (C)">
 <!ENTITY resetButton.accesskey "C">
 <!ENTITY openButton.label "খুলুন (n)">
