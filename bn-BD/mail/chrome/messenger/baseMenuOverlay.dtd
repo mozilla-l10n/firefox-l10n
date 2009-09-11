@@ -7,6 +7,8 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY releaseCmd.label "রিলিজ নোট (R)">
 <!ENTITY releaseCmd.accesskey "R">
+<!ENTITY whatsNewCmd.label "What's New">
+<!ENTITY whatsNewCmd.accesskey "W">
 <!ENTITY openHelp.label "সহায়তার বিষয়বস্তু (H)">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">

@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "সংরক্ষিত অনুসন্ধান... (S)">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newAccountCmd.label "একাউন্ট… (A)">
-<!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY newMailAccountCmd.label "মেইল একাউন্ট (দ্রুত সেটআপ (Q))…">
-<!ENTITY newMailAccountCmd.accesskey "Q">
+<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newEmailAccountCmd.label "Mail Account…">
+<!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "সংরক্ষিত বার্তা খুলুন… (O)">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "সংযুক্তি (A)">
@@ -130,6 +130,8 @@
 
 <!ENTITY folderView.label "ফোল্ডার (F)">
 <!ENTITY folderView.accesskey "F">
+<!ENTITY smartFolders.label "Smart">
+<!ENTITY smartFolders.accesskey "S">
 <!ENTITY allFolders.label "সব (A)">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "অপঠিত (U)">
@@ -567,28 +569,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Gloda Search Bar -->
 
 <!ENTITY glodaSearchBar.emptyText "বার্তা অনুসন্ধান করা হবে...">
-<!ENTITY glodaSearchBar.facet.label "অনুসন্ধান:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "সবকিছু">
-<!ENTITY glodaSearchFacet.subject.label "বিষয়">
-<!ENTITY glodaSearchFacet.involves.label "(প্রেরক, প্রাপক, cc, bcc)">
-<!ENTITY glodaSearchFacet.to.label "প্রতি, CC">
-<!ENTITY glodaSearchFacet.from.label "প্রেরক">
-<!ENTITY glodaSearchFacet.body.label "বার্তার পাঠ্য">
-<!ENTITY glodaSearchFacet.attachmentNames.label "সংযুক্তির নাম">
-
-<!ENTITY glodaSearchBar.location.label "অবস্থান:">
-<!ENTITY glodaSearchFacet.everywhere.label "সব ফোল্ডার">
-<!ENTITY glodaSearchFacet.folder.label "একটি নির্দিষ্ট ফোল্ডারে...">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "বিষয়">
@@ -619,15 +599,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "অবস্থান">
 <!ENTITY idColumn.label "যে ক্রম অনুযায়ী গ্রহন করা হয়েছে">
 <!ENTITY attachmentColumn.label "সংযুক্তি">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "কেন">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "স্কোর">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "প্রদর্শনের জন্য কলাম নির্বাচন করতে ক্লিক করুন">
@@ -650,8 +621,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "অবস্থান অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY idColumn.tooltip "গ্রহনের ক্রম অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY attachmentColumn.tooltip "সংযুক্তি অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY glodaWhyColumn.tooltip "অনুসন্ধানের কারন অনুযায়ী সাজাতে ক্লিক করুন">
-<!ENTITY glodaScoreColumn.tooltip "অনুসন্ধান স্কোর অনুযায়ী সাজাতে ক্লিক করুন">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "বার্তাটি নতুন উইন্ডোতে খুলুন (W)">
@@ -684,6 +653,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "মুদ্রণের পূর্বদর্শন (v)">
 <!ENTITY contextPrintPreview.accesskey "v">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY contextPlay.label "Play">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "Pause">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Mute">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "Unmute">
+<!ENTITY contextUnmute.accesskey "m">
 <!-- Junk Bar -->
 
 <!ENTITY junkBarMessage1.label "অপ্রয়োজনীয় মেইল">
@@ -704,6 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Quick Search Bar -->
 
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Search everywhere">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "ঠিকানা বইয়ে যোগ... (B)">

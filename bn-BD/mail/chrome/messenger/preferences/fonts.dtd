@@ -6,9 +6,9 @@
 <!ENTITY language.label "যার জন্য ফন্ট (t):">
 <!ENTITY language.accesskey "t">
 
-<!ENTITY sizes.label "আকার (পিক্সেল):">
+<!ENTITY size.label "Size:">
 <!ENTITY proportionalSize.accesskey "e">
-<!ENTITY monospaceSize.accesskey "x">
+<!ENTITY sizeMono.accesskey "i">
 
 <!ENTITY proportional.label "সমানুপাতিক হার (P):">
 <!ENTITY proportional.accesskey "P">
@@ -56,7 +56,11 @@
 
 <!ENTITY useDefaultFontSerif.label "সেরিফ">
 <!ENTITY useDefaultFontSansSerif.label "সান্স-সেরিফ">
+<!-- fonts in message -->
 
+<!ENTITY fontControl.label "Font Control">
+<!ENTITY useFixedWidthForPlainText.label "Use fixed width font for plain text messages">
+<!ENTITY fixedWidth.accesskey "x">
 <!ENTITY useDocumentFonts.label "অন্যান্য ফন্ট ব্যবহার করতে বার্তাসমূহকে অনুমোদন দেয়া হবে (o)">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!-- Language settings -->
