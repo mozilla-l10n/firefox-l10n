@@ -54,8 +54,8 @@
 <!ENTITY autoCheck.label                 "Rechercher automatiquement des mises à jour pour :">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "les modules installés">
-<!ENTITY enableAddonsUpdate.accesskey    "e">
+<!ENTITY enableAddonsUpdate2.label       "les modules">
+<!ENTITY enableAddonsUpdate2.accesskey   "e">
 <!ENTITY enableSearchUpdate.label        "les moteurs de recherche">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 <!ENTITY whenUpdatesFound.label          "Quand des mises à jour pour &brandShortName; sont disponibles :">
