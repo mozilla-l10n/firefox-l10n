@@ -266,6 +266,8 @@
 
 <!ENTITY openLinkCmd.label            "Öppna länk i nytt fönster">
 <!ENTITY openLinkCmd.accesskey        "Ö">
+<!ENTITY openLinkCmdInCurrent.label     "Öppna länk">
+<!ENTITY openLinkCmdInCurrent.accesskey "n">
 <!ENTITY openLinkCmdInTab.label       "Öppna länk i ny flik">
 <!ENTITY openLinkCmdInTab.accesskey   "f">
 <!ENTITY openFrameCmd.label           "Öppna ram i nytt fönster">
