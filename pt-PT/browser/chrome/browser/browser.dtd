@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Ecrã inteiro">
 <!ENTITY fullScreenCmd.accesskey "E">
+<!ENTITY fullScreenCmd.macCommandKey "E">
 <!ENTITY showAllTabsCmd.label "Mostrar todos os separadores">
 <!ENTITY showAllTabsCmd.accesskey "t">
 
@@ -235,18 +236,20 @@ shortcut keys on Linux. -->
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY openLinkCmd.label "Abrir a ligação numa nova janela">
-<!ENTITY openLinkCmd.accesskey "J">
+<!ENTITY openLinkCmd.accesskey "j">
+<!ENTITY openLinkCmdInCurrent.label     "Abrir ligação">
+<!ENTITY openLinkCmdInCurrent.accesskey "b">
 <!ENTITY openLinkCmdInTab.label "Abrir a ligação num novo separador">
-<!ENTITY openLinkCmdInTab.accesskey "S">
+<!ENTITY openLinkCmdInTab.accesskey "s">
 <!ENTITY openFrameCmd.label "Abrir a frame numa nova janela">
 <!ENTITY openFrameCmd.accesskey "J">
 <!ENTITY openFrameCmdInTab.label "Abrir a frame num novo separador">
-<!ENTITY openFrameCmdInTab.accesskey "S">
+<!ENTITY openFrameCmdInTab.accesskey "s">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar apenas esta frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "Recarregar a frame">
-<!ENTITY reloadFrameCmd.accesskey "C">
+<!ENTITY reloadFrameCmd.accesskey "c">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver código fonte da selecção">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Ver código fonte MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
