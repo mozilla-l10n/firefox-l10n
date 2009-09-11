@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "ø">
 <!ENTITY searchSubfolders.label      "Søk i undermapper">
 <!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchOnServer.label        "Køyr søk på tenar">
+<!ENTITY searchOnServer.accesskey    "K">
 <!ENTITY resetButton.label           "Tøm">
 <!ENTITY resetButton.accesskey       "T">
 <!ENTITY openButton.label            "Opne">
