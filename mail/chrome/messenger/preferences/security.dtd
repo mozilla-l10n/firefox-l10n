@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label      "E-mailscams">
 <!ENTITY itemPasswords.label     "Wachtwoorden">
 <!ENTITY itemAntiVirus.label     "Antivirus">
+<!ENTITY itemCookies.label       "Webinhoud">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Stel uw standaardinstellingen voor ongewensteberichtendetectie in. Accountspecifieke instellingen kunnen worden geconfigureerd in Accountinstellingen.">
@@ -41,3 +42,17 @@
 <!ENTITY antiVirus.intro      "&brandShortName; kan het antivirussoftware makkelijk maken om inkomende e-mailberichten op virussen te controleren voordat ze lokaal worden opgeslagen.">
 <!ENTITY antiVirus.label      "Antivirusprogramma’s toestaan om individuele inkomende berichten in quarantaine te plaatsen">
 <!ENTITY antiVirus.accesskey  "A">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; laat u instellen welke blogs, nieuws-feeds en andere webpagina's toestemming hebben om cookies in te stellen.">
+<!ENTITY acceptCookies.label            "Cookies van websites accepteren">
+<!ENTITY acceptCookies.accesskey        "C">
+<!ENTITY keepUntil.label                "Bewaren totdat:">
+<!ENTITY keepUntil.accesskey            "B">
+<!ENTITY expire.label                   "ze verlopen">
+<!ENTITY close.label                    "ik &brandShortName; afsluit">
+<!ENTITY askEachTime.label              "mij elke keer vragen">
+<!ENTITY cookieExceptions.label         "Uitzonderingen…">
+<!ENTITY cookieExceptions.accesskey     "U">
+<!ENTITY showCookies.label              "Cookies tonen…">
+<!ENTITY showCookies.accesskey          "t">
