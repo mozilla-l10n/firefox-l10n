@@ -32,3 +32,18 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Meldingssynkronisering">
 <!ENTITY diskspaceGroupTitle.label "Diskplass">
+
+<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+  useAutosyncAfter.label appear on a single line in preferences as follows:
+
+  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+-->
+<!ENTITY useAutosyncBefore.label         "">
+<!ENTITY useAutosyncMiddle.label         "">
+<!ENTITY allInterval.label               "Alle">
+<!ENTITY dayInterval.label               "dagar med">
+<!ENTITY weekInterval.label              "veker med">
+<!ENTITY monthInterval.label             "månader med">
+<!ENTITY yearInterval.label              "år med">
+<!ENTITY useAutosyncAfter.label          "e-post vert lagra på disken">

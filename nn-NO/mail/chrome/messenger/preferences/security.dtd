@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label      "E-postsvindel">
 <!ENTITY itemPasswords.label     "Passord">
 <!ENTITY itemAntiVirus.label     "Anti-virus">
+<!ENTITY itemCookies.label       "Nettinnhald">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Still inn korleis uønskt e-post skal handsamast for kvar konto frå Kontoinnstillingar.">
@@ -41,3 +42,18 @@
 <!ENTITY antiVirus.intro      "&brandShortName; kan gjere det enkelt for anti-virus-programvare å analysere innkomande e-postmeldingar for virus, før dei vert lagra.">
 <!ENTITY antiVirus.label      "Tillat antivirus-program å leggje innkomande meldingar i karantene">
 <!ENTITY antiVirus.accesskey  "T">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; lèt deg spesifisere kva for bloggar, nyhendekjelder og andre nettsider som har lov til å bruke infokapslar.">
+<!ENTITY acceptCookies.label            "Godta infokapslar frå nettsider">
+<!ENTITY acceptCookies.accesskey        "G">
+<!ENTITY keepUntil.label                "Ta vare på til:">
+<!ENTITY keepUntil.accesskey            "a">
+<!ENTITY expire.label                   "dei går ut">
+<!ENTITY close.label                    "eg lèt att &brandShortName;">
+<!ENTITY askEachTime.label              "spør meg kvar gong">
+<!ENTITY cookieExceptions.label         "Unntak …">
+<!ENTITY cookieExceptions.accesskey     "U">
+<!ENTITY showCookies.label              "Vis infokapslar">
+<!ENTITY showCookies.accesskey          "V">
+
