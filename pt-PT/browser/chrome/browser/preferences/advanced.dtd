@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label "Verificar automaticamente a existência de actualizações para:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label        "Extras instalados">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableAddonsUpdate2.label        "Extras instalados">
+<!ENTITY enableAddonsUpdate2.accesskey    "n">
 <!ENTITY enableSearchUpdate.label "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey "m">
 <!ENTITY whenUpdatesFound.label "Quando forem encontradas actualizações para o &brandShortName;:">
