@@ -35,7 +35,7 @@
 <!ENTITY autoSave.accesskey                   "L">
 <!ENTITY autoSaveEnd.label                    "minutt">
 
-<!ENTITY emailCollectionPicker.label           "Automatisk legg adresser i sendt e-post til i::">
+<!ENTITY emailCollectionPicker.label           "Automatisk legg utgåande e-postadresser til i:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Automatisk adressefullføring">
 <!ENTITY autocompleteText.label                "Ved adressering av meldingar, sjå etter samsvarande adresser i">
