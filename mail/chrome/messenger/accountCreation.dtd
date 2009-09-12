@@ -1,18 +1,20 @@
-<!ENTITY welcome.description             "Hurtigoppsett">
-<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
-<!ENTITY name.description                "Navnet ditt">
-<!ENTITY email.description               "E-post">
-<!ENTITY password.description            "Passord">
-
-<!ENTITY next.label                      "Neste &#187;">
-<!ENTITY next.accesskey                  "N">
-<!ENTITY back.label                      "&#171; Forrige">
-<!ENTITY back.accesskey                  "F">
+<!ENTITY autoconfigWizard.title          "Innstillinger for e-postkonto">
+<!ENTITY name.label                      "Navnet ditt:">
+<!ENTITY name.accesskey                  "N">
+<!ENTITY name.emptytext                  "Fornavn Etternavn">
+<!ENTITY name.text                       "Navnet ditt, som det vises for andre">
+<!ENTITY email.label                     "E-postadresse:">
+<!ENTITY email.accesskey                 "E">
+<!ENTITY email.emptytext                 "epost@eksempel.no">
+<!ENTITY password.label                  "Passord:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.emptytext              "Passord">
+<!ENTITY password.text                   "Valgfritt, brukes bare for å kontrollere brukernavnet">
 
 <!ENTITY accountInformation.label        "Kontoinformasjon">
-<!ENTITY username.label                  "brukernavn">
-<!ENTITY receivingServer.label           "mottak">
-<!ENTITY sendingServer.label             "sending">
+<!ENTITY username2.label                 "Brukernavn:">
+<!ENTITY incoming.label                  "Innkommende:">
+<!ENTITY outgoing.label                  "Utgående:">
 <!ENTITY noEncryption.label              "Ingen">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -21,11 +23,14 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
-     which will create the account and take the user to the account
-     configuration screen. -->
-<!ENTITY createAndEditSettings.label     "Opprett og rediger kontoinnstillinger">
+<!ENTITY manualSetup.label               "Manuelle innstillinger …">
+<!ENTITY manualSetup.accesskey           "M">
 <!ENTITY cancel.label                    "Avbryt">
+<!ENTITY cancel.accesskey                "A">
+<!ENTITY continue.label                  "Fortsett">
+<!ENTITY continue.accesskey              "F">
+<!ENTITY startOver.label                 "Start på nytt">
+<!ENTITY startOver.accesskey             "t">
 <!ENTITY stop.label                      "Stopp">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
