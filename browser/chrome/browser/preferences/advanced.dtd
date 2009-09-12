@@ -61,8 +61,8 @@
 <!ENTITY autoCheck.label                 "Comprova automàticament si hi ha actualitzacions de:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Complements instaŀlats">
-<!ENTITY enableAddonsUpdate.accesskey    "m">
+<!ENTITY enableAddonsUpdate2.label       "Complements">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Motors de cerca">
 <!ENTITY enableSearchUpdate.accesskey    "r">
 <!ENTITY whenUpdatesFound.label          "Quan es trobin actualitzacions del &brandShortName;:">
