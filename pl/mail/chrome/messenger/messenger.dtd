@@ -560,20 +560,7 @@
 <!ENTITY SearchNameOrEmail.label     "Imię, nazwisko lub e-mail zawiera:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
 
-<!-- Gloda Search Bar --><!-- FIXME: bad, bad UI -->
-<!ENTITY glodaSearchBar.emptyText               "Szukaj wiadomości…">
-<!ENTITY glodaSearchBar.facet.label             "Wyszukuj w:">
-<!ENTITY glodaSearchFacet.everything.label      "Wszystkim">
-<!ENTITY glodaSearchFacet.subject.label         "Tematach">
-<!ENTITY glodaSearchFacet.involves.label        "Adresatach (pola Od,Do,Kopia,Ukryta kopia)">
-<!ENTITY glodaSearchFacet.to.label              "Polach Do i Kopia">
-<!ENTITY glodaSearchFacet.from.label            "Polu Od">
-<!ENTITY glodaSearchFacet.body.label            "Tekście wiadomości">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Nazwach załączników">
-
-<!ENTITY glodaSearchBar.location.label          "Położeniu:">
-<!ENTITY glodaSearchFacet.everywhere.label      "Wszystkie foldery">
-<!ENTITY glodaSearchFacet.folder.label          "W wybranym folderze…">
+<!ENTITY glodaSearchBar.emptyText "Szukaj wiadomości…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label            "Temat">
@@ -604,8 +591,6 @@
 <!ENTITY locationColumn.label   "Położenie">
 <!ENTITY idColumn.label         "Kolejność otrzymania">
 <!ENTITY attachmentColumn.label "Załączniki">
-<!ENTITY glodaWhyColumn.label   "Powód"><!-- FIXME ENTITY glodaWhyColumn.label "Why" -->
-<!ENTITY glodaScoreColumn.label "Trafność"><!-- FIXME było Score -->
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip    "Zaznacz, które kolumny zostaną wyświetlone">
@@ -628,8 +613,6 @@
 <!ENTITY locationColumn.tooltip   "Kliknij, aby posortować według adresu">
 <!ENTITY idColumn.tooltip         "Kliknij, aby posortować według kolejności otrzymania">
 <!ENTITY attachmentColumn.tooltip "Kliknij, aby posortować według załącznika">
-<!ENTITY glodaWhyColumn.tooltip   "Kliknij, aby posortować według powodu wyszukania"><!-- FIXME glodaWhyColumn.label -->
-<!ENTITY glodaScoreColumn.tooltip "Kliknij, aby posortować według trafności wyszukiwania">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label      "Otwórz wiadomość w nowym oknie">
@@ -689,6 +672,7 @@
 
 <!-- Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Szukaj wszędzie">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "szczegóły">
