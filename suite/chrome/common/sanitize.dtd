@@ -1,12 +1,14 @@
-<!ENTITY sanitizeDialog.title "Clear Private Data">
+<!ENTITY sanitizeDialog.title "Özel bilgileri sil">
 <!ENTITY sanitizeItems.label "Aşağıdaki öğeleri hemen sil:">
 
 <!ENTITY itemHistory.label "Tarama geçmişi">
 <!ENTITY itemHistory.accesskey "m">
+<!ENTITY itemUrlBar.label "Konum çubuğu geçmişi">
+<!ENTITY itemUrlBar.accesskey "K">
 <!ENTITY itemDownloads.label "İndirme geçmişi">
 <!ENTITY itemDownloads.accesskey "d">
-<!ENTITY itemFormSearchHistory.label "Saved Form and Search History">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemFormSearchHistory.label "Kayıtlı formlar ve arama geçmişi">
+<!ENTITY itemFormSearchHistory.accesskey "f">
 <!ENTITY itemCache.label "Önbellek">
 <!ENTITY itemCache.accesskey "n">
 <!ENTITY itemCookies.label "Çerezler">
@@ -15,7 +17,7 @@
 <!ENTITY itemOfflineApps.accesskey "s">
 <!ENTITY itemPasswords.label "Kayıtlı parolalar">
 <!ENTITY itemPasswords.accesskey "p">
-<!ENTITY itemSessions.label "Authenticated Sessions">
-<!ENTITY itemSessions.accesskey "S">
+<!ENTITY itemSessions.label "Yetkilendirilmiş oturumlar">
+<!ENTITY itemSessions.accesskey "Y">
 
-<!ENTITY sanitizeButton.label "Clear Private Data Now">
+<!ENTITY sanitizeButton.label "Özel bilgileri sil şimdi sil">

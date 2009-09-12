@@ -1,20 +1,26 @@
 <!ENTITY pref.history.title "Geçmiş">
 
 <!ENTITY pref.history.caption "Tarayıcı geçmişi">
-<!ENTITY historyPages.label "History is a list of previously visited pages.">
-<!ENTITY expireDaysMin1.label "Always remember visited pages for at least">
-<!ENTITY expireDaysMin1.accesskey "R">
+<!ENTITY historyPages.label "Geçmiş, daha önce ziyaret edilen sayfaların listesidir.">
+<!ENTITY expireDaysMin1.label "En az">
+<!ENTITY expireDaysMin1.accesskey "z">
 <!ENTITY expireDaysMin2.label "günlük ziyaret geçmişimi hatırla">
-<!ENTITY expireDays1.label "Remember visited pages for up to">
-<!ENTITY expireDays1.accesskey "e">
+<!ENTITY expireDays1.label "En fazla">
+<!ENTITY expireDays1.accesskey "f">
 <!ENTITY expireDays2.label "günlük ziyaret geçmişimi hatırla">
-<!ENTITY expireSites1.label "Remember up to">
-<!ENTITY expireSites1.accesskey "m">
-<!ENTITY expireSites2.label "visited pages">
-<!ENTITY clearHistory.label "Clear History">
-<!ENTITY clearHistory.accesskey "s">
+<!ENTITY expireSites1.label "En fazla">
+<!ENTITY expireSites1.accesskey "l">
+<!ENTITY expireSites2.label "sayfayı hatırla">
+<!ENTITY clearHistory.label "Geçmişi sil">
+<!ENTITY clearHistory.accesskey "e">
 
-<!ENTITY locationBarHistory.caption "Location Bar History">
-<!ENTITY clearLocationBar.label "Clear the list of sites stored in the location bar menu.">
-<!ENTITY clearLocationBarButton.label "Clear Location Bar">
-<!ENTITY clearLocationBarButton.accesskey "L">
+<!ENTITY locationBarHistory.caption "Konum çubuğu geçmişi">
+<!ENTITY clearLocationBar.label "Konum çubuğundaki kaydedilen site listesini sil.">
+<!ENTITY clearLocationBarButton.label "Konum çubuğunu temizle">
+<!ENTITY clearLocationBarButton.accesskey "b">
+<!ENTITY formfillHistory.caption "Form ve arama geçmişi">
+<!ENTITY enableFormfill.label "Form ve arama geçmişini etkinleştir">
+<!ENTITY enableFormfill.accesskey "t">
+<!ENTITY formfillExpire.label "En fazla">
+<!ENTITY formfillExpire.accesskey "n">
+<!ENTITY formfillDays.label "günlük form ve arama geçmişimi hatırla">
