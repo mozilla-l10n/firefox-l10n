@@ -4,13 +4,13 @@
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe …">
-<!ENTITY newFolderCmd.accesskey "p">
+<!ENTITY newFolderCmd.accesskey "a">
 <!ENTITY closeTabCmd.label "Lukk fane">
 <!ENTITY closeTabCmd.accesskey "L">
 <!ENTITY newVirtualFolderCmd.label "Lagret søk …">
 <!ENTITY newVirtualFolderCmd.accesskey "L">
-<!ENTITY newOtherAccountsCmd.label "Andre kontoer …">
-<!ENTITY newOtherAccountsCmd.accesskey "A">
+<!ENTITY newOtherAccountsCmd.label "Annen konto …">
+<!ENTITY newOtherAccountsCmd.accesskey "n">
 <!ENTITY newEmailAccountCmd.label "E-postkonto …">
 <!ENTITY newEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Åpne lagret melding …">
