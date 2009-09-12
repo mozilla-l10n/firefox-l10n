@@ -62,7 +62,7 @@
 <!ENTITY useTLS1.label "Usa TLS 1.0">
 <!ENTITY useTLS1.accesskey "1">
 <!ENTITY certificates.label "Certificati">
-<!ENTITY certSelection.description "Quando un sito web richiede il mio certificato personale:">
+<!ENTITY certSelection.description "Quando un sito web richiede il certificato personale:">
 <!ENTITY certs.auto "Selezionane uno automaticamente">
 <!ENTITY certs.auto.accesskey "S">
 <!ENTITY certs.ask "Chiedi ogni volta">
