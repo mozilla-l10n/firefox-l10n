@@ -1,18 +1,20 @@
-<!ENTITY welcome.description    "Automatyczna konfiguracja konta email">
-<!ENTITY autoconfigWizard.style "width: 640px; height: 480px;"><!-- en-US: width 640px, height 480px -->
-<!ENTITY name.description       "Imię i nazwisko">
-<!ENTITY email.description      "E-mail">
-<!ENTITY password.description   "Hasło">
-
-<!ENTITY next.label     "Dalej &#187;"><!-- FIXME: gnome, mac? http://mxr.mozilla.org/l10n-central/source/pl/toolkit/chrome/global/wizard.dtd -->
-<!ENTITY next.accesskey "D">
-<!ENTITY back.label     "&#171; Wstecz">
-<!ENTITY back.accesskey "W">
+<!ENTITY autoconfigWizard.title "Konfiguracja konta email">
+<!ENTITY name.label             "Imię i nazwisko:">
+<!ENTITY name.accesskey         "I">
+<!ENTITY name.emptytext         "Imię Nazwisko">
+<!ENTITY name.text              "Twoje imię i nazwisko lub pseudonim, tak jak będą wyświetlane innym">
+<!ENTITY email.label            "Adres e-mail:">
+<!ENTITY email.accesskey        "A">
+<!ENTITY email.emptytext        "email@jakasdomena.pl">
+<!ENTITY password.label         "Hasło:">
+<!ENTITY password.accesskey     "H">
+<!ENTITY password.emptytext     "Hasło">
+<!ENTITY password.text          "Opcjonalnie, zostanie użyte wyłącznie do sprawdzenia nazwy użytkownika">
 
 <!ENTITY accountInformation.label "Informacje o koncie">
-<!ENTITY username.label           "nazwa użytkownika">
-<!ENTITY receivingServer.label    "serwer poczty przychodzącej">
-<!ENTITY sendingServer.label      "serwer poczty wychodzącej">
+<!ENTITY username2.label          "Nazwa użytkownika:">
+<!ENTITY incoming.label           "Serwer poczty przychodzącej:">
+<!ENTITY outgoing.label           "Serwer poczty wychodzącej:">
 <!ENTITY noEncryption.label       "Bez szyfrowania">
 <!ENTITY starttls.label           "STARTTLS">
 <!ENTITY sslTls.label             "SSL/TLS">
@@ -21,10 +23,16 @@
 <!ENTITY pop.label  "POP">
 <!ENTITY smtp.label "SMTP">
 
-<!ENTITY createAndEditSettings.label "Utwórz konto i edytuj jego ustawienia">
-<!ENTITY cancel.label                "Anuluj">
-<!ENTITY stop.label                  "Zatrzymaj">
-<!ENTITY stop.accesskey              "Z">
+<!ENTITY manualSetup.label     "Utwórz konto i edytuj jego ustawienia…"><!-- FIXME ENTITY manualSetup.label "Manual Setup…" -->
+<!ENTITY manualSetup.accesskey "U">
+<!ENTITY cancel.label          "Anuluj">
+<!ENTITY cancel.accesskey      "A">
+<!ENTITY continue.label        "Kontynuuj">
+<!ENTITY continue.accesskey    "K">
+<!ENTITY startOver.label       "Od początku">
+<!ENTITY startOver.accesskey   "O">
+<!ENTITY stop.label            "Zatrzymaj">
+<!ENTITY stop.accesskey        "Z">
 
 <!ENTITY retest.label     "Testuj konfigurację ponownie">
 <!ENTITY retest.accesskey "T">
@@ -50,6 +58,6 @@
 <!ENTITY insecureServer.tooltip.title     "Ostrzeżenie! Ten serwer nie zapewnia wysokiego poziomu bezpieczeństwa."><!-- FIXME this is an insecure server -->
 <!ENTITY insecureServer.tooltip.details   "Kliknij, aby dowiedzieć się więcej"><!-- FIXME: Click circle for more details - wtf?! (taki pomarańczowy badziew, pojawia się między innymi? w dymku podpowiedzi)  -->
 
-<!ENTITY insecureClearText.description    "Połączenie nie jest szyfrowane, wiadomości będą wysyłane czystym tekstem, co grozi ich przechwyceniem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien udostępnić możliwość łączenia się z serwerem w bezpieczny sposób.">
+<!ENTITY insecureCleartext.description    "Połączenie nie jest szyfrowane, wiadomości będą wysyłane czystym tekstem, co grozi ich przechwyceniem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien udostępnić możliwość łączenia się z serwerem w bezpieczny sposób.">
 <!ENTITY insecureSelfSigned.description   "Ten serwer używa certyfikatu, któremu nie należy ufać, istnieje możliwość przechwycenia transmisji pomiędzy programem &brandShortName; a serwerem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien zostać powiadomiony o problemie w celu jego usunięcia.">
 <!ENTITY secureServer.description         "Gratulacje! Ten serwer zapewnia wysoki poziom bezpieczeństwa.">
