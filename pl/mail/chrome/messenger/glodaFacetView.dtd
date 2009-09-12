@@ -1,1 +1,2 @@
-<!ENTITY glodaFacetView.filters.label "Wyszukiwanie według:">
+<!ENTITY glodaFacetView.filters.label  "Wyszukiwanie według:">
+<!ENTITY glodaFacetView.showMore.label "Wyświetl więcej wyników">
