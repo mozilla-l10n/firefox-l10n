@@ -9,7 +9,7 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title Móvil
+#define bookmarks_title Celular
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun

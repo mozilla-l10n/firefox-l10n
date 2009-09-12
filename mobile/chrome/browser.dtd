@@ -23,7 +23,7 @@
 <!ENTITY bookmarksManage.label     "Administrar">
 <!ENTITY foldersHeader.label       "Carpetas">
 
-<!ENTITY editBookmarkEdit.label    "Editar">
+<!ENTITY editBookmarkRemove.label  "Eliminar">
 <!ENTITY editBookmarkMove.label    "Mover">
 <!ENTITY editBookmarkDone.label    "Terminado">
 <!ENTITY editBookmarkTags.label    "Agregar etiquetas aquí">
@@ -43,6 +43,7 @@
 
 <!ENTITY addonsHeader.label        "Agregados">
 <!ENTITY addonsLocal.label         "Tus agregados">
+<!ENTITY addonsUpdate.label        "Actualizar">
 <!ENTITY addonsRepo.label          "Obtener agregados">
 <!ENTITY addonsRecommended.label   "Recomendado">
 <!ENTITY addonsSearch.label        "Buscar">
