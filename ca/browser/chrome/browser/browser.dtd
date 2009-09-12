@@ -232,6 +232,8 @@
 
 <!ENTITY openLinkCmd.label "Obre l'enllaç en una finestra nova">
 <!ENTITY openLinkCmd.accesskey "o">
+<!ENTITY openLinkCmdInCurrent.label     "Obre l'enllaç">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "Obre l'enllaç en una pestanya nova">
 <!ENTITY openLinkCmdInTab.accesskey "t">
 <!ENTITY openFrameCmd.label "Obre el marc en una finestra nova">
@@ -310,8 +312,6 @@
 <!ENTITY copyAudioURLCmd.label        "Copia la ubicació de l'àudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "g">
-<!ENTITY metadataCmd.label "Propietats">
-<!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Copia l'adreça electrònica">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Aquest marc">
