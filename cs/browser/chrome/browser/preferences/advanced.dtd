@@ -52,11 +52,11 @@
 
 <!ENTITY autoCheck.label "Automaticky kontrolovat aktualizace pro:">
 <!ENTITY enableAppUpdate.label "Aplikace &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "c">
-<!ENTITY enableAddonsUpdate.label "Nainstalované doplňky">
-<!ENTITY enableAddonsUpdate.accesskey "i">
+<!ENTITY enableAppUpdate.accesskey "A">
+<!ENTITY enableAddonsUpdate2.label "Doplňky">
+<!ENTITY enableAddonsUpdate2.accesskey "D">
 <!ENTITY enableSearchUpdate.label "Vyhledávací moduly">
-<!ENTITY enableSearchUpdate.accesskey "m">
+<!ENTITY enableSearchUpdate.accesskey "V">
 <!ENTITY whenUpdatesFound.label "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
 <!ENTITY askMe.label "Vždy se dotázat na další postup">
 <!ENTITY askMe.accesskey "l">
