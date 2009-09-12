@@ -4,7 +4,7 @@
 <!ENTITY name.emptytext                  "Fornamn, etternam">
 <!ENTITY name.text                       "namnet ditt som vist til andre">
 <!ENTITY email.label                     "E-postaddresse:">
-<!ENTITY email.accesskey                 "l">
+<!ENTITY email.accesskey                 "E">
 <!ENTITY email.emptytext                 "epost@døme.com">
 <!ENTITY password.label                  "Passord:">
 <!ENTITY password.accesskey              "P">
