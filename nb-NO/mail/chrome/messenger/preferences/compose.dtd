@@ -21,9 +21,9 @@
 <!ENTITY restoreHTMLDefaults.label            "Bruk standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "d">
 
-<!ENTITY spellCheck.label                     "Utfør stavekontroll før meldinger sendes">
+<!ENTITY spellCheck.label                     "Stavekontroller før meldinger sendes">
 <!ENTITY spellCheck.accesskey                 "U">
-<!ENTITY spellCheckInline.label               "Kontroller staving mens e-posten skrives">
+<!ENTITY spellCheckInline.label               "Stavekontroller mens meldinger skrives">
 <!ENTITY spellCheckInline1.accesskey          "K">
 <!ENTITY languagePopup.label                  "Språk:">
 <!ENTITY languagePopup.accessKey              "S">
@@ -35,9 +35,9 @@
 <!ENTITY autoSave.accesskey                   "L">
 <!ENTITY autoSaveEnd.label                    "minutt">
 
-<!ENTITY emailCollectionPicker.label           "Automatisk legg adresser i sendte e-post til i:">
+<!ENTITY emailCollectionPicker.label           "Automatisk legg til adresser fra utgående e-post i:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
-<!ENTITY addressingTitle.label                 "Automatisk adressefullføring">
+<!ENTITY addressingTitle.label                 "Automatisk fullføring av adresser">
 <!ENTITY autocompleteText.label                "Ved adressering av meldinger, se etter tilsvarende adresser i">
 <!ENTITY addressingEnable.label                "Lokale adressebøker">
 <!ENTITY addressingEnable.accesskey            "L">
@@ -51,7 +51,7 @@
 <!ENTITY sendOptions.label                     "Sendeinnstillinger …">
 <!ENTITY sendOptions.accesskey                 "n">
 
-<!ENTITY attachmentReminder.label              "Kontroller for manglende vedlegg">
+<!ENTITY attachmentReminder.label              "Advar dersom vedlegg mangler">
 <!ENTITY attachmentReminder.accesskey          "o">
 <!ENTITY attachmentReminderOptions.label       "Nøkkelord …">
 <!ENTITY attachmentReminderOptions.accesskey   "N">
