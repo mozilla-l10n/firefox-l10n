@@ -2,9 +2,11 @@
 <!ENTITY sanitizeItems.label             "Supprimer immédiatement les éléments suivants :">
 
 <!ENTITY itemHistory.label               "Historique de navigation">
-<!ENTITY itemHistory.accesskey           "H">
+<!ENTITY itemHistory.accesskey           "n">
+<!ENTITY itemUrlBar.label                "Historique de la barre d'adresse">
+<!ENTITY itemUrlBar.accesskey            "a">
 <!ENTITY itemDownloads.label             "Historique de téléchargement">
-<!ENTITY itemDownloads.accesskey         "o">
+<!ENTITY itemDownloads.accesskey         "t">
 <!ENTITY itemFormSearchHistory.label     "Recherches et données de formulaires enregistrées">
 <!ENTITY itemFormSearchHistory.accesskey "r">
 <!ENTITY itemCache.label                 "Cache">
