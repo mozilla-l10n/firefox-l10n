@@ -1,10 +1,10 @@
-<!ENTITY privatebrowsingpage.title                       "Privaatne veebilehitsemine">
+<!ENTITY privatebrowsingpage.title                          "Privaatne veebilehitsemine">
 <!ENTITY privatebrowsingpage.title.normal                   "Kas soovid alustada privaatset veebilehitsemist?">
 
 <!ENTITY privatebrowsingpage.issueDesc                      "&brandShortName; ei säilita selle seansi ajalugu.">
 <!ENTITY privatebrowsingpage.issueDesc.normal               "&brandShortName; pole hetkel privaatse veebilehitsemise režiimis.">
 
-<!ENTITY privatebrowsingpage.description                    "Privaatse veebilehitsemise ajal ei salvesta &brandShortName; veebilehitsemise ajalugu, otsingute ajalugu, allalaadimiste ajalugu, veebivormidesse sisestatut, küpsiseid ega ka ajutisi faile.  Siiski säilitatakse lisatud järjehoidjad ja failid, mille ise alla laadid.">
+<!ENTITY privatebrowsingpage.description                    "Privaatse veebilehitsemise ajal ei salvesta &brandShortName; veebilehitsemise, otsingute, allalaadimiste ajalugu, veebivormide sisu, küpsiseid ega ajutisi faile.  Siiski säilitatakse lisatud järjehoidjad ja failid, mille ise alla laadid.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
