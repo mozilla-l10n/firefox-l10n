@@ -1,18 +1,20 @@
-<!ENTITY welcome.description             "Nytt konto (express)">
-<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
-<!ENTITY name.description                "Ditt namn">
-<!ENTITY email.description               "E-post">
-<!ENTITY password.description            "Lösenord">
-
-<!ENTITY next.label                      "Nästa &#187;">
-<!ENTITY next.accesskey                  "N">
-<!ENTITY back.label                      "&#171; Bakåt">
-<!ENTITY back.accesskey                  "B">
+<!ENTITY autoconfigWizard.title          "Lägg till nytt konto">
+<!ENTITY name.label                      "Ditt namn:">
+<!ENTITY name.accesskey                  "D">
+<!ENTITY name.emptytext                  "Förnamn Efternamn">
+<!ENTITY name.text                       "Ditt namn, som det visas för andra">
+<!ENTITY email.label                     "E-postadress:">
+<!ENTITY email.accesskey                 "E">
+<!ENTITY email.emptytext                 "email@example.se">
+<!ENTITY password.label                  "Lösenord:">
+<!ENTITY password.accesskey              "L">
+<!ENTITY password.emptytext              "Lösenord">
+<!ENTITY password.text                   "Frivilligt, kommer endast användas för att bekräfta användarnamnet">
 
 <!ENTITY accountInformation.label        "Kontoinformation">
-<!ENTITY username.label                  "användarnamn">
-<!ENTITY receivingServer.label           "tar emot">
-<!ENTITY sendingServer.label             "sänder">
+<!ENTITY username2.label                 "Användarnamn">
+<!ENTITY incoming.label                  "Inkommande:">
+<!ENTITY outgoing.label                  "Utgående:">
 <!ENTITY noEncryption.label              "Ingen">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -21,11 +23,14 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
-     which will create the account and take the user to the account
-     configuration screen. -->
-<!ENTITY createAndEditSettings.label     "Skapa och redigera konto">
+<!ENTITY manualSetup.label               "Manuell inställning…">
+<!ENTITY manualSetup.accesskey           "M">
 <!ENTITY cancel.label                    "Avbryt">
+<!ENTITY cancel.accesskey                "A">
+<!ENTITY continue.label                  "Fortsätt">
+<!ENTITY continue.accesskey              "F">
+<!ENTITY startOver.label                 "Börja om">
+<!ENTITY startOver.accesskey             "B">
 <!ENTITY stop.label                      "Stoppa">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
@@ -65,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Varning! Det här är en osäker server.">
 <!ENTITY insecureServer.tooltip.details  "Klicka på cirkeln för fler detaljer.">
 
-<!ENTITY insecureClearText.description   "E-posten skickas i klartext, så dina meddelanden kan läsas av obehöriga. &brandShortName; låter dig komma åt din e-post men du bör försöka få din e-postleverantör att konfigurera servern för en säker anslutning.">
+<!ENTITY insecureCleartext.description   "E-posten skickas i klartext, så dina meddelanden kan läsas av obehöriga. &brandShortName; låter dig komma åt din e-post men du bör försöka få din e-postleverantör att konfigurera servern för en säker anslutning.">
 <!ENTITY insecureSelfSigned.description  "Servern använder ett certifikat som inte är betrott, så vi kan inte vara säkra på ingen avlyssnar trafiken mellan &brandShortName; och servern. &brandShortName; låter dig komma åt din e-post men du bör försöka få din e-postleverantör att konfigurera servern med ett betrott certifikat.">
 <!ENTITY secureServer.description        "Gratulerar! Det här är en säker server.">
