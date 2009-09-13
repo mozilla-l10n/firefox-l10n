@@ -19,7 +19,7 @@
 <!ENTITY bookmarksHeader.label "Закладкі">
 <!ENTITY bookmarksManage.label "Уладкаваць">
 <!ENTITY foldersHeader.label "Папкі">
-<!ENTITY editBookmarkEdit.label "Правіць">
+<!ENTITY editBookmarkRemove.label "Выдаліць">
 <!ENTITY editBookmarkMove.label "Рухаць">
 <!ENTITY editBookmarkDone.label "Гатова">
 <!ENTITY editBookmarkTags.label "Дадаць тэгі сюды">
@@ -36,6 +36,7 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY addonsHeader.label "Дадаткі">
 <!ENTITY addonsLocal.label "Вашы дадаткі">
+<!ENTITY addonsUpdate.label "Абнаўленне">
 <!ENTITY addonsRepo.label "Атрымаць дадаткі">
 <!ENTITY addonsRecommended.label "Раіцца">
 <!ENTITY addonsSearch.label "Пошук">
