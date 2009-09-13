@@ -245,6 +245,8 @@
 <!ENTITY openLinkCmd.accesskey "n" >
 <!ENTITY openLinkCmdInTab.label "Otwórz odnośnik w nowej karcie" >
 <!ENTITY openLinkCmdInTab.accesskey "j" >
+<!ENTITY openLinkCmdInCurrent.label     "Otwórz odnośnik">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmd.label "Otwórz ramkę w nowym oknie" >
 <!ENTITY openFrameCmd.accesskey "n" >
 <!ENTITY openFrameCmdInTab.label "Otwórz ramkę w nowej karcie" >
