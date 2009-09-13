@@ -22,7 +22,7 @@
 <!ENTITY recentTabs.label "Zuletzt geschlossene Tabs">
 <!ENTITY recentTabs.accesskey "u">
 <!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Zuletzt geschlossene Tabs">
+<!ENTITY recentWindows.label "Zuletzt geschlossene Fenster">
 <!ENTITY recentWindows.accesskey "z">
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Seite bearbeiten">
