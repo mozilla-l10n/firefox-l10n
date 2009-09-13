@@ -43,8 +43,8 @@
 <!ENTITY useAutosyncBefore.label         "">
 <!ENTITY useAutosyncMiddle.label         "">
 <!ENTITY allInterval.label               "Alle">
-<!ENTITY dayInterval.label               "dagen van">
-<!ENTITY weekInterval.label              "weken van">
-<!ENTITY monthInterval.label             "maanden van">
-<!ENTITY yearInterval.label              "jaren van">
-<!ENTITY useAutosyncAfter.label          "e-mail zullen bewaard worden op de schijf">
+<!ENTITY dayInterval.label               "dagen met">
+<!ENTITY weekInterval.label              "weken met">
+<!ENTITY monthInterval.label             "maanden met">
+<!ENTITY yearInterval.label              "jaren met">
+<!ENTITY useAutosyncAfter.label          "e-mail zal bewaard worden op de schijf">
