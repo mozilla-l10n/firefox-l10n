@@ -175,6 +175,8 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY openLinkCmd.label "Открыть в новом окне">
 <!ENTITY openLinkCmd.accesskey "н">
+<!ENTITY openLinkCmdInCurrent.label "Открыть ссылку">
+<!ENTITY openLinkCmdInCurrent.accesskey "т">
 <!ENTITY openLinkCmdInTab.label "Открыть в новой вкладке">
 <!ENTITY openLinkCmdInTab.accesskey "в">
 <!ENTITY openFrameCmd.label "Открыть фрейм в новом окне">

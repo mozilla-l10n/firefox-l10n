@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label "Мошеннические письма">
 <!ENTITY itemPasswords.label "Пароли">
 <!ENTITY itemAntiVirus.label "Работа с антивирусом">
+<!ENTITY itemCookies.label "Веб-содержимое">
 <!ENTITY junkMail.intro "Здесь вы можете установить настройки анти-спам фильтра по умолчанию. Настройки анти-спам фильтра, специфичные для учётной записи, могут быть установлены в параметрах учётной записи.">
 <!ENTITY manualMark.label "Когда я помечаю сообщения как спам:">
 <!ENTITY manualMark.accesskey "с">
@@ -24,12 +25,24 @@
 <!ENTITY useDownloadedList.accesskey "п">
 <!ENTITY savedPasswords.intro "&brandShortName; может запоминать пароли для всех ваших учетных записей.">
 <!ENTITY useMasterPassword.label "Использовать мастер-пароль">
-<!ENTITY useMasterPassword.accesskey "м">
+<!ENTITY useMasterPassword.accesskey "И">
 <!ENTITY masterPassword.intro "Мастер-пароль защищает все ваши пароли, но вам нужно будет вводить его один раз в сессию.">
 <!ENTITY changeMasterPassword.label "Сменить мастер-пароль…">
-<!ENTITY changeMasterPassword.accesskey "е">
+<!ENTITY changeMasterPassword.accesskey "м">
 <!ENTITY savedPasswords.label "Сохранённые пароли…">
 <!ENTITY savedPasswords.accesskey "х">
 <!ENTITY antiVirus.intro "&brandShortName; может облегчить работу антивируса при проверке входящих сообщений на наличие вирусов перед тем, как сохранить их в почтовые папки.">
 <!ENTITY antiVirus.label "Разрешить антивирусу помещать в карантин отдельные входящие сообщения">
 <!ENTITY antiVirus.accesskey "в">
+<!ENTITY cookies.intro "&brandShortName; позволяет вам указывать каким блогам, лентам новостей и другим веб-сайтам разрешено устанавливать куки.">
+<!ENTITY acceptCookies.label "Принимать куки с сайтов">
+<!ENTITY acceptCookies.accesskey "р">
+<!ENTITY keepUntil.label "Сохранять куки:">
+<!ENTITY keepUntil.accesskey "х">
+<!ENTITY expire.label "до истечения срока их действия">
+<!ENTITY close.label "до закрытия мною &brandShortName;">
+<!ENTITY askEachTime.label "спрашивать каждый раз">
+<!ENTITY cookieExceptions.label "Исключения…">
+<!ENTITY cookieExceptions.accesskey "к">
+<!ENTITY showCookies.label "Показать куки…">
+<!ENTITY showCookies.accesskey "а">
