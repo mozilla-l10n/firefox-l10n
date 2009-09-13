@@ -37,7 +37,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY title.label "Personalizza la codifica dei caratteri">
-<!ENTITY current.label "Codifica caratteri attiva:">
+<!ENTITY current.label "Codifiche caratteri attive:">
 <!ENTITY remove.label "Rimuovi">
 <!ENTITY remove.accessKey "R">
 <!ENTITY additional.label "Codifiche caratteri disponibili:">
