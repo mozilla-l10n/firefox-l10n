@@ -36,8 +36,8 @@
 <!ENTITY searchHeading.accesskey     "m">
 <!ENTITY searchSubfolders.label      "Sök i undermappar">
 <!ENTITY searchSubfolders.accesskey  "u">
-<!ENTITY searchOnline.label          "Sök på nätet">
-<!ENTITY searchOnline.accesskey      "å">
+<!ENTITY searchOnServer.label        "Sök på servern">
+<!ENTITY searchOnServer.accesskey    "å">
 <!ENTITY resetButton.label           "Rensa">
 <!ENTITY resetButton.accesskey       "n">
 <!ENTITY openButton.label            "Öppna">
