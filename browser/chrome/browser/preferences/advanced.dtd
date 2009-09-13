@@ -33,8 +33,8 @@
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY enableAppUpdate.label "Браузера &brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "у">
-<!ENTITY enableAddonsUpdate.label "Установленных дополнений">
-<!ENTITY enableAddonsUpdate.accesskey "о">
+<!ENTITY enableAddonsUpdate2.label "Дополнений">
+<!ENTITY enableAddonsUpdate2.accesskey "о">
 <!ENTITY enableSearchUpdate.label "Поисковых плагинов">
 <!ENTITY enableSearchUpdate.accesskey "п">
 <!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">

@@ -122,6 +122,8 @@
 <!ENTITY showMessageCmd.accesskey "О">
 <!ENTITY folderView.label "Папки">
 <!ENTITY folderView.accesskey "П">
+<!ENTITY smartFolders.label "Умные">
+<!ENTITY smartFolders.accesskey "м">
 <!ENTITY allFolders.label "Все">
 <!ENTITY allFolders.accesskey "В">
 <!ENTITY unreadFolders.label "Непрочитанные">
@@ -516,17 +518,6 @@
 <!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес содержат:">
 <!ENTITY SearchNameOrEmail.accesskey "И">
 <!ENTITY glodaSearchBar.emptyText "Поиск сообщений…">
-<!ENTITY glodaSearchBar.facet.label "Поиск:">
-<!ENTITY glodaSearchFacet.everything.label "Всё">
-<!ENTITY glodaSearchFacet.subject.label "Тема">
-<!ENTITY glodaSearchFacet.involves.label "Корреспонденты (от,кому,копия,скрытая копия)">
-<!ENTITY glodaSearchFacet.to.label "Кому, копия">
-<!ENTITY glodaSearchFacet.from.label "От">
-<!ENTITY glodaSearchFacet.body.label "Текст сообщения">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Имена вложений">
-<!ENTITY glodaSearchBar.location.label "Расположение:">
-<!ENTITY glodaSearchFacet.everywhere.label "Все папки">
-<!ENTITY glodaSearchFacet.folder.label "В специфичной папке…">
 <!ENTITY searchSubjectMenu.label "Тема">
 <!ENTITY searchFromMenu.label "От">
 <!ENTITY searchSubjectOrFromMenu.label "Тема или Автор">
@@ -553,8 +544,6 @@
 <!ENTITY locationColumn.label "Расположение">
 <!ENTITY idColumn.label "Порядок получения">
 <!ENTITY attachmentColumn.label "Вложения">
-<!ENTITY glodaWhyColumn.label "Причина">
-<!ENTITY glodaScoreColumn.label "Оценка">
 <!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать колонки для отображения">
 <!ENTITY threadColumn.tooltip "Нажмите здесь, чтобы просмотреть обсуждения">
 <!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
@@ -575,8 +564,6 @@
 <!ENTITY locationColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по их расположению">
 <!ENTITY idColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по порядку получения">
 <!ENTITY attachmentColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию вложений">
-<!ENTITY glodaWhyColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по причине их появления в результатах поиска">
-<!ENTITY glodaScoreColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по оценке поиска">
 <!ENTITY contextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY contextOpenNewWindow.accesskey "н">
 <!ENTITY contextOpenNewTab.label "Открыть в новой вкладке">
@@ -607,6 +594,14 @@
 <!ENTITY contextPrint.accesskey "П">
 <!ENTITY contextPrintPreview.label "Предварительный просмотр">
 <!ENTITY contextPrintPreview.accesskey "р">
+<!ENTITY contextPlay.label "Воспроизвести">
+<!ENTITY contextPlay.accesskey "с">
+<!ENTITY contextPause.label "Приостановить">
+<!ENTITY contextPause.accesskey "с">
+<!ENTITY contextMute.label "Убрать звук">
+<!ENTITY contextMute.accesskey "б">
+<!ENTITY contextUnmute.label "Восстановить звук">
+<!ENTITY contextUnmute.accesskey "т">
 <!ENTITY junkBarMessage1.label "Спам">
 <!ENTITY junkBarButton1.label "Не спам">
 <!ENTITY junkInfoButton.label "?">
@@ -617,6 +612,7 @@
 <!ENTITY reportPhishingError1.label "Это сообщение не похоже на мошенническое.">
 <!ENTITY more.label "подробнее">
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Искать везде">
 <!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
 <!ENTITY AddToAddressBook.accesskey "Д">
 <!ENTITY AddDirectlyToAddressBook.label "Добавить в адресную книгу…">

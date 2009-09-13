@@ -2,8 +2,10 @@
 <!ENTITY sanitizeItems.label "Стереть следующие данные:">
 <!ENTITY itemHistory.label "Журнал посещений">
 <!ENTITY itemHistory.accesskey "п">
+<!ENTITY itemUrlBar.label "Журнал посещений строки адреса">
+<!ENTITY itemUrlBar.accesskey "а">
 <!ENTITY itemDownloads.label "Журнал загрузок">
-<!ENTITY itemDownloads.accesskey "Ж">
+<!ENTITY itemDownloads.accesskey "з">
 <!ENTITY itemFormSearchHistory.label "Сохранённые данные форм и историю поиска">
 <!ENTITY itemFormSearchHistory.accesskey "ф">
 <!ENTITY itemCache.label "Кэш">
