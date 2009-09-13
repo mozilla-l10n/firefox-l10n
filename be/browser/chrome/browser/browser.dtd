@@ -175,6 +175,8 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY openLinkCmd.label "Адчыніць спасылку ў новым акне">
 <!ENTITY openLinkCmd.accesskey "п">
+<!ENTITY openLinkCmdInCurrent.label "Адкрыць спасылку">
+<!ENTITY openLinkCmdInCurrent.accesskey "А">
 <!ENTITY openLinkCmdInTab.label "Адчыніць спасылку ў новай устаўцы">
 <!ENTITY openLinkCmdInTab.accesskey "й">
 <!ENTITY openFrameCmd.label "Адчыніць рамку ў новым акне">
