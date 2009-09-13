@@ -164,6 +164,8 @@
 
 <!ENTITY folderView.label "Mappar">
 <!ENTITY folderView.accesskey "M">
+<!ENTITY smartFolders.label "Smarta">
+<!ENTITY smartFolders.accesskey "S">
 <!ENTITY allFolders.label "Alla">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Olästa">
