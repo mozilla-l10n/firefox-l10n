@@ -5,7 +5,7 @@
 <!ENTITY     cookiedomain.label             "Nettstad"> 
 <!ENTITY     button.removecookie.label      "Slett infokapsel">
 <!ENTITY     button.removecookie.accesskey  "e">
-<!ENTITY     button.removeallcookies.label  "Slett alle infokapslane">
+<!ENTITY     button.removeallcookies.label  "Slett alle infokapslar">
 <!ENTITY     button.removeallcookies.accesskey "a">
 
 <!ENTITY     props.name.label               "Namn:">

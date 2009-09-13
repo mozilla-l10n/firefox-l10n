@@ -16,8 +16,8 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Dette tyder at du kan bruke, kopiere og distribuere &brandShortName; til andre. Du kan også endre kjeldekoden til &brandShortName; som du vil, for å passe til dine behov. Mozilla Public License gjev deg også rett til å distribuere endra versjonar.">
 
-<!ENTITY rights.intro-point2a "Mozilla gjev deg ikkje rett til å bruke Mozilla- eller Firefox-varemerka eller logoar. Meir informasjon om varemerke kan du finne">
-<!ENTITY rights.intro-point2b " her">
+<!ENTITY rights.intro-point2a "Mozilla gjev deg ikkje rett til å bruke Mozilla- eller Firefox-varemerka eller logoar. Meir informasjon om varemerke kan du finne ">
+<!ENTITY rights.intro-point2b "her">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->

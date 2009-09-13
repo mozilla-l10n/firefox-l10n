@@ -2,10 +2,10 @@
 <!ENTITY name.label                      "Namn:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.emptytext                  "Fornamn, etternam">
-<!ENTITY name.text                       "namnet ditt som vist til andre">
+<!ENTITY name.text                       "Namnet ditt, slik det vert vist til andre">
 <!ENTITY email.label                     "E-postaddresse:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.emptytext                 "epost@døme.com">
+<!ENTITY email.emptytext                 "epost@eksempel.com">
 <!ENTITY password.label                  "Passord:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.emptytext              "Password">
@@ -23,10 +23,10 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!ENTITY manualSetup.label               "Manuelt opsett …">
+<!ENTITY manualSetup.label               "Manuelt oppsett …">
 <!ENTITY manualSetup.accesskey           "M">
 <!ENTITY cancel.label                    "Avbryt">
-<!ENTITY cancel.accesskey                "a">
+<!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Hald fram">
 <!ENTITY continue.accesskey              "H">
 <!ENTITY startOver.label                 "Start på nytt">
