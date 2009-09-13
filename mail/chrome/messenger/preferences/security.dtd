@@ -5,7 +5,7 @@
 <!ENTITY itemCookies.label       "Nettinnhald">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Still inn korleis uønskt e-post skal handsamast for kvar konto frå Kontoinnstillingar.">
+<!ENTITY junkMail.intro "Vel standardinnstilling for uønskt e-post. Konto-spesifikke innstillingar for uønskt e-post kan setjast opp i Kontoinnstillingar.">
 <!ENTITY manualMark.label "Når eg merkar meldingar som uønskt:">
 <!ENTITY manualMark.accesskey "N">
 <!ENTITY manualMarkModeMove.label "Flytt dei til «Uønskt»-mappa på kontoen">
@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "Merk uønskte meldingar som lesne">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Slå på logging for uønskt-filter">
-<!ENTITY enableJunkLogging.accesskey "S">
+<!ENTITY enableJunkLogging.label "Loggfør hendingar i filteret for uønskt e-post">
+<!ENTITY enableJunkLogging.accesskey "L">
 <!ENTITY openJunkLog.label "Vis logg">
 <!ENTITY openJunkLog.accesskey "V">
 <!ENTITY resetTrainingData.label "Still tilbake treningsdata">
@@ -23,7 +23,7 @@
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; kan analysere meldingar og sjå etter mogleg e-postsvindel ved å leite etter vanlege teknikkar brukt for å lure deg.">
-<!ENTITY enablePhishingDetector1.label    "Fortel meg om meldingar eg les er mistenkt e-postsvindel">
+<!ENTITY enablePhishingDetector1.label    "Fortel meg om meldingar eg les er mistenkte e-postsvindlar">
 <!ENTITY enablePhishingDetector1.accesskey  "F">
 <!ENTITY useDownloadedList.label "Bruk ei nedlasta liste over mistenkt e-postsvindel">
 <!ENTITY useDownloadedList.accesskey "B">
@@ -32,7 +32,7 @@
 <!ENTITY savedPasswords.intro           "&brandShortName; kan hugse passordinformasjon for alle kontoane dine, slik at du ikkje treng å skrive inn innloggingsdetaljane fleire gonger.">
 <!ENTITY useMasterPassword.label        "Bruk eit hovudpassord">
 <!ENTITY useMasterPassword.accesskey    "B">
-<!ENTITY masterPassword.intro           "Eit hovudpassord vil verne passorda dine, men du må skrive det inn ein gong for kvar programøkt.">
+<!ENTITY masterPassword.intro           "Eit hovudpassord vil verne alle passorda dine, men du må skrive det inn ein gong for kvar programøkt.">
 <!ENTITY changeMasterPassword.label     "Endre hovudpassord …">
 <!ENTITY changeMasterPassword.accesskey "E">
 <!ENTITY savedPasswords.label           "Lagra passord …">
@@ -45,7 +45,7 @@
 
 <!-- Cookies -->
 <!ENTITY cookies.intro                  "&brandShortName; lèt deg spesifisere kva for bloggar, nyhendekjelder og andre nettsider som har lov til å bruke infokapslar.">
-<!ENTITY acceptCookies.label            "Godta infokapslar frå nettsider">
+<!ENTITY acceptCookies.label            "Godta infokapslar frå netstader">
 <!ENTITY acceptCookies.accesskey        "G">
 <!ENTITY keepUntil.label                "Ta vare på til:">
 <!ENTITY keepUntil.accesskey            "a">
