@@ -4,7 +4,7 @@
 <!ENTITY name.emptytext                  "Voornaam achternaam">
 <!ENTITY name.text                       "Uw naam, deze wordt getoond aan anderen">
 <!ENTITY email.label                     "E-mailadres:">
-<!ENTITY email.accesskey                 "l">
+<!ENTITY email.accesskey                 "E">
 <!ENTITY email.emptytext                 "email@example.com">
 <!ENTITY password.label                  "Wachtwoord:">
 <!ENTITY password.accesskey              "W">
@@ -24,25 +24,25 @@
 <!ENTITY smtp.label                      "SMTP">
 
 <!ENTITY manualSetup.label               "Handmatig configureren…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY manualSetup.accesskey           "H">
 <!ENTITY cancel.label                    "Annuleren">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Doorgaan">
 <!ENTITY continue.accesskey              "D">
 <!ENTITY startOver.label                 "Opnieuw beginnen">
-<!ENTITY startOver.accesskey             "o">
+<!ENTITY startOver.accesskey             "b">
 <!ENTITY stop.label                      "Stop">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
 <!ENTITY retest.label                    "Configuratie hertesten">
-<!ENTITY retest.accesskey                "C">
+<!ENTITY retest.accesskey                "f">
 <!ENTITY edit.label                      "Bewerken">
 <!ENTITY edit.accesskey                  "B">
 
 <!ENTITY rememberPassword.label          "Wachtwoord onthouden">
-<!ENTITY rememberPassword.accesskey      "W">
+<!ENTITY rememberPassword.accesskey      "o">
 
 <!ENTITY warning.label                   "Waarschuwing!">
 <!ENTITY incomingSettings.label          "Inkomende instellingen:">
@@ -57,7 +57,7 @@
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY createAccount.label             "Account aanmaken">
-<!ENTITY createAccount.accesskey         "A">
+<!ENTITY createAccount.accesskey         "c">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
