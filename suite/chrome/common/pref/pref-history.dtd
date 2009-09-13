@@ -18,3 +18,9 @@
 <!ENTITY  clearLocationBar.label            "Die Liste von Seiten, die im Adressleisten-Menü gespeichert werden, löschen.">
 <!ENTITY  clearLocationBarButton.label      "Adressleisten-History löschen">
 <!ENTITY  clearLocationBarButton.accesskey  "d">
+<!ENTITY  formfillHistory.caption           "Formular- und Such-History">
+<!ENTITY  enableFormfill.label              "Formular- und Such-History aktivieren">
+<!ENTITY  enableFormfill.accesskey          "F">
+<!ENTITY  formfillExpire.label              "Formular- und Such-History für bis zu">
+<!ENTITY  formfillExpire.accesskey          "m">
+<!ENTITY  formfillDays.label                "Tage speichern">
