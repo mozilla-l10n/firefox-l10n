@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label  "Fałszywe wiadomości">
 <!ENTITY itemPasswords.label "Hasła">
 <!ENTITY itemAntiVirus.label "Ochrona antywirusowa">
+<!ENTITY itemCookies.label   "Ciasteczka">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro                 "W tym miejscu można zmienić domyślne ustawienia filtru niechcianej poczty. Aby zmienić ustawienia niechcianej poczty dotyczące konkretnego konta, należy przejść do Konfiguracji kont.">
@@ -19,6 +20,20 @@
 <!ENTITY openJunkLog.accesskey          "y">
 <!ENTITY resetTrainingData.label        "Zresetuj dane treningowe">
 <!ENTITY resetTrainingData.accesskey    "r">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro              "Program &brandShortName; pozwala kontrolować sposób przechowywania informacji w ciasteczkach przez blogi, kanały aktualności i inne strony.">
+<!ENTITY acceptCookies.label        "Akceptuj ciasteczka od witryn">
+<!ENTITY acceptCookies.accesskey    "A">
+<!ENTITY keepUntil.label            "Przechowuj:">
+<!ENTITY keepUntil.accesskey        "P">
+<!ENTITY expire.label               "aż wygasną">
+<!ENTITY close.label                "do zamknięcia programu &brandShortName;">
+<!ENTITY askEachTime.label          "pytaj za każdym razem">
+<!ENTITY cookieExceptions.label     "Wyjątki…">
+<!ENTITY cookieExceptions.accesskey "W">
+<!ENTITY showCookies.label          "Wyświetl ciasteczka…">
+<!ENTITY showCookies.accesskey      "c">
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro           "&brandShortName; może analizować treści wiadomości w poszukiwaniu typowych technik stosowanych przez oszustów.">
