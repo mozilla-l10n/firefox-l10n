@@ -153,3 +153,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Примітки:">
 <!ENTITY Notes.accesskey                "П">
+
+<!ENTITY Photo.tab                      "Світлина">
+<!ENTITY Photo.accesskey                "С">
+<!ENTITY PhotoDesc.label                "Оберіть одне з наступного:">
+<!ENTITY GenericPhoto.label             "Просто світлина">
+<!ENTITY GenericPhoto.accesskey         "П">
+<!ENTITY DefaultPhoto.label             "Типове">
+<!ENTITY PhotoFile.label                "На цьому комп’ютері">
+<!ENTITY PhotoFile.accesskey            "ц">
+<!ENTITY BrowsePhoto.label              "Вибрати">
+<!ENTITY BrowsePhoto.accesskey          "В">
+<!ENTITY PhotoURL.label                 "В мережі">
+<!ENTITY PhotoURL.accesskey             "м">
+<!ENTITY PhotoURL.emptytext             "Вставте або наберіть веб-адресу світлини">
+<!ENTITY UpdatePhoto.label              "Оновити">
+<!ENTITY UpdatePhoto.accesskey          "о">

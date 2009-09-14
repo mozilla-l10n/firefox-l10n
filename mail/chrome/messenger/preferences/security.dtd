@@ -1,7 +1,10 @@
+<!-- FIXME -->
+
 <!ENTITY itemJunk.label          "Спам">
 <!ENTITY itemPhishing.label      "Анти-фішинг">
 <!ENTITY itemPasswords.label     "Паролі">
 <!ENTITY itemAntiVirus.label     "Робота з антивірусом">
+<!ENTITY itemCookies.label       "Web Content">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.">
@@ -41,3 +44,18 @@
 <!ENTITY antiVirus.intro      "&brandShortName; може полегшити роботу антивіруса при перевірці вхідних повідомлень на наявність вірусів перед тим, як зберегти їх в поштові теки.">
 <!ENTITY antiVirus.label      "Дозволити антивірусу поміщати в карантин окремі вхідні повідомлення">
 <!ENTITY antiVirus.accesskey  "Д">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; lets you specify which blogs, news feeds, and other web sites are allowed to set cookies.">
+<!ENTITY acceptCookies.label            "Accept cookies from sites">
+<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY keepUntil.label                "Keep until:">
+<!ENTITY keepUntil.accesskey            "K">
+<!ENTITY expire.label                   "they expire">
+<!ENTITY close.label                    "I close &brandShortName;">
+<!ENTITY askEachTime.label              "ask me every time">
+<!ENTITY cookieExceptions.label         "Exceptions…">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "Show Cookies…">
+<!ENTITY showCookies.accesskey          "S">
+
