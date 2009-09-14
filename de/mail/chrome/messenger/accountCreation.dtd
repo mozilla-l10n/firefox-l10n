@@ -1,18 +1,20 @@
-<!ENTITY welcome.description             "Konto einrichten">
-<!ENTITY autoconfigWizard.style          "width: 700px; height: 480px;">
-<!ENTITY name.description                "Ihr Name">
-<!ENTITY email.description               "E-Mail-Adresse">
-<!ENTITY password.description            "Passwort">
-
-<!ENTITY next.label                      "Weiter &#187;">
-<!ENTITY next.accesskey                  "W">
-<!ENTITY back.label                      "&#171; Zurück">
-<!ENTITY back.accesskey                  "Z">
+<!ENTITY autoconfigWizard.title             "Konto einrichten">
+<!ENTITY name.label                      "Ihr Name:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Vorname Nachname">
+<!ENTITY name.text                       "Ihr Name, wie er anderen Personen gezeigt wird">
+<!ENTITY email.label                     "E-Mail-Adresse:">
+<!ENTITY email.accesskey                 "E">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "Passwort:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.emptytext              "Passwort:">
+<!ENTITY password.text                   "Freiwillig, wird zur Bestätigung des Benutzernamens verwendet">
 
 <!ENTITY accountInformation.label        "Kontenangaben">
-<!ENTITY username.label                  "Benutzername">
-<!ENTITY receivingServer.label           "Posteingang-Server">
-<!ENTITY sendingServer.label             "Postausgang-Server">
+<!ENTITY username2.label                 "Benutzername:">
+<!ENTITY incoming.label                  "Posteingang-Server:">
+<!ENTITY outgoing.label                  "Postausgang-Server:">
 <!ENTITY noEncryption.label              "Keine Verbindungssicherheit">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -21,11 +23,14 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!-- LOCALIZATION NOTE (gotoadvanced2.label): This label is a link which
-     will create the account and take the user to the account configuration
-     screen. -->
-<!ENTITY createAndEditSettings.label     "Konto erstellen und weitere Einstellungen bearbeiten">
+<!ENTITY manualSetup.label               "Benutzerdefinierte Einstellungen…">
+<!ENTITY manualSetup.accesskey           "B">
 <!ENTITY cancel.label                    "Abbrechen">
+<!ENTITY cancel.accesskey                "b">
+<!ENTITY continue.label                  "Weiter">
+<!ENTITY continue.accesskey              "W">
+<!ENTITY startOver.label                 "Neu beginnen">
+<!ENTITY startOver.accesskey             "N">
 <!ENTITY stop.label                      "Stopp">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
@@ -65,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Warnung! Dies ist ein unsicherer Server.">
 <!ENTITY insecureServer.tooltip.details  "Klicken Sie auf den Kreis für weitere Details.">
 
-<!ENTITY insecureClearText.description   "E-Mails werden im Klartext übertragen. Dadurch könnten Ihre E-Mails von Dritten gelesen werden. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider dazu auffordern eine gesicherte Serververbindung anzubieten.">
+<!ENTITY insecureCleartext.description   "E-Mails werden im Klartext übertragen. Dadurch könnten Ihre E-Mails von Dritten gelesen werden. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider dazu auffordern, eine gesicherte Serververbindung anzubieten.">
 <!ENTITY insecureSelfSigned.description  "Der Server verwendet ein Zertifikat, dem nicht vertraut werden kann. Daher kann man nicht sicher sein, dass niemand die Datenübertragung zwichen &brandShortName; und dem Server abfängt. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider dazu auffordern die Server mit einem gültigen Zertifikat zu konfigurieren.">
 <!ENTITY secureServer.description        "Glückwunsch! Dies ist eine gesicherte Serververbindung.">
