@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label       			"Automatysk kontrolearje op nije ferzjes fan:">
 <!ENTITY enableAppUpdate.label        	"&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "F">
-<!ENTITY enableAddonsUpdate.label       "Ynstallearre Tafoegingss">
-<!ENTITY enableAddonsUpdate.accesskey   "Y">
+<!ENTITY enableAddonsUpdate2.label      "Tafoegings">
+<!ENTITY enableAddonsUpdate2.accesskey  "T">
 <!ENTITY enableSearchUpdate.label       "Sykmasines">
 <!ENTITY enableSearchUpdate.accesskey   "i">
 <!ENTITY whenUpdatesFound.label         "As der fernijings foar &brandShortName; fûn binne,">
