@@ -40,7 +40,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Attn: Localization — some of the menus in this dialog directly affect mail also. -->
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Файл">
@@ -54,7 +54,6 @@
 <!ENTITY openRemoteCmd.label "відкрити адресу в інтернеті…">
 <!ENTITY openRemoteCmd.accesskey "і">
 <!ENTITY openRemoteCmd.key "L">
-
 <!ENTITY fileRecentMenu.label "Останні відкриті сторінки">
 <!ENTITY fileRecentMenu.accesskey "и">
 <!ENTITY fileRevert.label "Повернутися до останнього збереження">
@@ -97,40 +96,27 @@
 <!ENTITY pasteAs.accesskey "к">
 <!ENTITY publishSettings.label "Параметри публікації сайту…">
 <!ENTITY publishSettings.accesskey "б">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
 <!ENTITY pasteAsQuotationCmd.label "Вставити як цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY findCmd.label "Знайти і замінити…">
 <!ENTITY findCmd.accesskey "з">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findCmd.key2 "VK_F19">
-
 <!ENTITY findAgainCmd.label "Знайти наступне">
 <!ENTITY findAgainCmd.accesskey "т">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-
 <!ENTITY findPrevCmd.label "Знайти попередній збіг">
 <!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії під час набору">
 <!ENTITY enableInlineSpellChecker.accesskey "ч">
-
+<!ENTITY checkSpellingCmd2.label "Перевірити правопис">
+<!ENTITY checkSpellingCmd2.accesskey "п">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Перевірити HTML">
 <!ENTITY validateCmd.accesskey "П">
-
-<!-- View menu items -->
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Вкласти">
@@ -153,8 +139,6 @@
 <!ENTITY insertBreakAllCmd.label "Розрив під зображеннями">
 <!ENTITY insertBreakAllCmd.accesskey "з">
 
-<!-- Insert form menu items -->
-
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Припущення відсутні)">
 <!ENTITY spellCheckIgnoreWord.label "Ігнорувати">
@@ -165,7 +149,6 @@
 <!ENTITY createLinkCmd.accesskey "С">
 <!ENTITY editLinkCmd.label "Редагувати об’єкт в новому вікні Компонувальника">
 <!ENTITY editLinkCmd.accesskey "Р">
-
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Повернути">
 <!ENTITY undoCmd.accesskey "н">
@@ -193,16 +176,15 @@
 <!ENTITY fontFixedWidth.label "Моноширний">
 <!ENTITY fontFixedWidth.accesskey "ш">
 <!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY fontHelvetica.label "Helvetica, Arial">
-<!ENTITY fontHelvetica.accesskey "l">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Вибір розміру шрифту">
-<!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY decreaseFontSize.label "Менше">
 <!ENTITY decreaseFontSize.accesskey "М">
 <!ENTITY decreaseFontSize.key "-">
@@ -212,7 +194,7 @@
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Розмір">
-<!ENTITY fontStyleMenu.accesskey "Р">
+<!ENTITY fontSizeMenu.accesskey "Р">
 <!ENTITY size-xx-smallCmd.label "крихітний">
 <!ENTITY size-xx-smallCmd.accesskey "х">
 <!ENTITY size-x-smallCmd.label "дрібний">
@@ -222,14 +204,15 @@
 <!ENTITY size-mediumCmd.label "середній">
 <!ENTITY size-mediumCmd.accesskey "р">
 <!ENTITY size-largeCmd.label "великий">
-<!ENTITY size-x-largeCmd.accesskey "л">
-<!ENTITY size-x-largeCmd.label "крупний">
 <!ENTITY size-largeCmd.accesskey "п">
+<!ENTITY size-x-largeCmd.label "крупний">
+<!ENTITY size-x-largeCmd.accesskey "л">
 <!ENTITY size-xx-largeCmd.label "величезний">
 <!ENTITY size-xx-largeCmd.accesskey "ч">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Стиль тексту">
+<!ENTITY fontStyleMenu.accesskey "Р">
 <!ENTITY styleBoldCmd.label "Напівжирний">
 <!ENTITY styleBoldCmd.accesskey "Н">
 <!ENTITY styleBoldCmd.key "B">
@@ -266,10 +249,11 @@
 
 <!ENTITY formatFontColor.label "Колір тексту…">
 <!ENTITY formatFontColor.accesskey "К">
-
 <!ENTITY tableOrCellColor.label "Колір фону клітинки або таблиці…">
 <!ENTITY tableOrCellColor.accesskey "ф">
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Вилучити іменовані якіри">
 <!ENTITY formatRemoveNamedAnchors.accesskey "я">
 <!ENTITY formatRemoveNamedAnchors.key "A">
@@ -298,7 +282,6 @@
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Список">
 <!ENTITY formatlistMenu.accesskey "п">
-
 <!ENTITY noneCmd.label "Нічого">
 <!ENTITY noneCmd.accesskey "і">
 <!ENTITY listBulletCmd.label "Маркірований">
@@ -319,9 +302,6 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Додаткові властивості">
 <!ENTITY advancedPropertiesCmd.accesskey "л">
-
-
-<!-- Style Sheet submenu NOT IMPLEMENTED -->
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Вирівняти">
@@ -362,6 +342,7 @@
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Таблиця">
 <!ENTITY tableMenu.accesskey "b">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Виділити">
 <!ENTITY tableSelectMenu.accesskey "S">
@@ -421,10 +402,6 @@
 <!ENTITY tableProperties.label "Властивості таблиці…">
 <!ENTITY tableProperties.accesskey "л">
 
-<!-- Tools menu -->
-
-<!-- Debug menu items -->
-
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY compositionToolbar.tooltip "Панель компонування">
@@ -474,10 +451,6 @@
 <!ENTITY alignRightButton.tooltip "Вирівнювання тексту уздовж правого краю">
 <!ENTITY alignjustifyButton.tooltip "Вирівнювання тексту по ширині">
 
-<!-- Formatting toolbar not used, but may be in future -->
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Звичайний">
 <!ENTITY NormalMode.label "Звичайний режим редагування">
@@ -521,11 +494,3 @@
 <!ENTITY removeTOC.accesskey      "П">
 <!ENTITY tocMenu.label            "Зміст…">
 <!ENTITY tocMenu.accesskey        "м">
-
-<!ENTITY checkSpellingCmd2.label "Перевірити правопис">
-<!ENTITY checkSpellingCmd2.accesskey "п">
-<!ENTITY checkSpellingCmd2.key "p">
-
-<!-- FIXME: localize -->
-<!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveStyles.key "Y">
