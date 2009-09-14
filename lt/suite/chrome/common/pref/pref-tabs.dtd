@@ -36,6 +36,8 @@
 <!ENTITY autoHide.accesskey "N">
 <!ENTITY background.label "Atveriant saitą naujoje kortelėje, įkelti ją į pirmąjį planą">
 <!ENTITY background.accesskey "s">
+<!ENTITY warnOnClose.label "Įspėti prieš užveriant langą, kuriame yra atvertų kortelių">
+<!ENTITY warnOnClose.accesskey "ė">
 <!ENTITY loadGroup.label "Atveriant į adresyną įrašytą tinklalapių grupę:">
 <!ENTITY loadGroupAppend.label "Sukurti naujas korteles">
 <!ENTITY loadGroupAppend.accesskey "k">

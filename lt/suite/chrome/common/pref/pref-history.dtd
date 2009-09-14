@@ -50,4 +50,9 @@
 <!ENTITY  clearLocationBar.label            "Išvalyti adresų juostos išskleidžiamajame meniu esantį adresų sąrašą.">
 <!ENTITY  clearLocationBarButton.label      "Išvalyti adresų juostos žurnalą">
 <!ENTITY  clearLocationBarButton.accesskey  "a">
-  
+<!ENTITY  formfillHistory.caption           "Formos ir paieškos laukas">
+<!ENTITY  enableFormfill.label              "Įsiminti į formas ir paieškos lauką įvestus duomenis">
+<!ENTITY  enableFormfill.accesskey          "n">
+<!ENTITY  formfillExpire.label              "Formų ir paieškos lauko žurnalą laikyti">
+<!ENTITY  formfillExpire.accesskey          "F">
+<!ENTITY  formfillDays.label                "dienų">

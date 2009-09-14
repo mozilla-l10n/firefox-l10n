@@ -35,6 +35,8 @@
 
 <!ENTITY itemHistory.label                     "naršymo žurnalą">
 <!ENTITY itemHistory.accesskey                 "n">
+<!ENTITY itemUrlBar.label                      "adreso lauko žurnalą">
+<!ENTITY itemUrlBar.accesskey                  "l">
 <!ENTITY itemDownloads.label                   "atsiuntimų žurnalą">
 <!ENTITY itemDownloads.accesskey               "a">
 <!ENTITY itemFormSearchHistory.label           "formos ir paieškos duomenis">
