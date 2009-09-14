@@ -175,6 +175,8 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY openLinkCmd.label "Abrir enlace en una ventana nueva">
 <!ENTITY openLinkCmd.accesskey "v">
+<!ENTITY openLinkCmdInCurrent.label "Abrir vínculo">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en una pestaña nueva">
 <!ENTITY openLinkCmdInTab.accesskey "T">
 <!ENTITY openFrameCmd.label "Abrir el marco en una ventana nueva">
