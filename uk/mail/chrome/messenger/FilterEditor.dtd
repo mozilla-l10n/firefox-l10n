@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "При перевірці пошти">
 <!ENTITY contextManual.label "Вручну">
 <!ENTITY contextBoth.label "При перевірці пошти чи вручну">
+<!ENTITY contextPostPlugin.label "При перевірці пошти (після сортування)">
+<!ENTITY contextPostPluginBoth.label "При перевірці пошти (після сортування) чи вручну">
 <!ENTITY filterActionDesc.label "Виконувати наступні дії:">
 <!ENTITY filterActionDesc.accesskey "и">
 
