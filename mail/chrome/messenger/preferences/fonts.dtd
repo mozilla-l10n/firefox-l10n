@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Шрифти для набору символів:">
 <!ENTITY  language.accesskey                      "Ш">
 
-<!ENTITY  sizes.label                             "Розмір (піксели)">
+<!ENTITY  size.label                              "Розмір:">
 <!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  sizeMono.accesskey                      "x">
 
 <!ENTITY  proportional.label                      "Пропорційний:">
 <!ENTITY  proportional.accesskey                  "П">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "Із засічками">
 <!ENTITY  useDefaultFontSansSerif.label           "Без засічок">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Керування шрифтами">
+<!ENTITY  useFixedWidthForPlainText.label         "Використовувати шрифт фіксованої ширини для повідомлень простим текстом">
+<!ENTITY  fixedWidth.accesskey                    "ф">
 <!ENTITY  useDocumentFonts.label                  "Дозволити повідомленням використовувати інші шрифти">
 <!ENTITY  useDocumentFonts.accesskey              "Р">
 
