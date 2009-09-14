@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "а">
 <!ENTITY newVirtualFolderCmd.label "Віртуальну теку…">
 <!ENTITY newVirtualFolderCmd.accesskey "В">
-<!ENTITY newAccountCmd.label "Обліковий запис…">
-<!ENTITY newAccountCmd.accesskey "О">
-<!ENTITY newMailAccountCmd.label "Mail Account (Quick Setup)…">
-<!ENTITY newMailAccountCmd.accesskey "Q">
+<!ENTITY newOtherAccountsCmd.label "Інші облікові записи…">
+<!ENTITY newOtherAccountsCmd.accesskey "І">
+<!ENTITY newEmailAccountCmd.label "Поштовий обліковий запис…">
+<!ENTITY newEmailAccountCmd.accesskey "П">
 <!ENTITY openMessageFileCmd.label "Відкрити збережене повідомлення…">
 <!ENTITY openMessageFileCmd.accesskey "з">
 <!ENTITY openAttachmentCmd.label "Вкладення">
@@ -130,6 +130,8 @@
 
 <!ENTITY folderView.label "Теки">
 <!ENTITY folderView.accesskey "Т">
+<!ENTITY smartFolders.label "Тямущі">
+<!ENTITY smartFolders.accesskey "щ">
 <!ENTITY allFolders.label "Всі">
 <!ENTITY allFolders.accesskey "В">
 <!ENTITY unreadFolders.label "Непрочитані">
@@ -566,28 +568,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Пошук листів…">
-<!ENTITY glodaSearchBar.facet.label "Шукати:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Все">
-<!ENTITY glodaSearchFacet.subject.label "Тема">
-<!ENTITY glodaSearchFacet.involves.label "Стосується (від, до, копія, потайна копія)">
-<!ENTITY glodaSearchFacet.to.label "До, копія">
-<!ENTITY glodaSearchFacet.from.label "Від">
-<!ENTITY glodaSearchFacet.body.label "Текст листа">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Назви долучень">
-
-<!ENTITY glodaSearchBar.location.label "Місце:">
-<!ENTITY glodaSearchFacet.everywhere.label "Усі теки">
-<!ENTITY glodaSearchFacet.folder.label "У заданій теці…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Тема">
@@ -618,16 +598,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Розташування">
 <!ENTITY idColumn.label "Порядок отримання">
 <!ENTITY attachmentColumn.label "Вкладення">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Чому">
-<!-- FIXME -->
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Score">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Натисніть, щоб обрати колонки для відображення">
@@ -650,8 +620,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення по їх розташуванню">
 <!ENTITY idColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення по порядку отримання">
 <!ENTITY attachmentColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення по наявності вкладень">
-<!ENTITY glodaWhyColumn.tooltip "Клацніть, щоби відсортувати за причиною того, що лист є в результатах пошуку">
-<!ENTITY glodaScoreColumn.tooltip "Click to sort by the search score">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Відкрити повідомлення в новому вікні">
@@ -685,6 +653,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Попередній перегляд">
 <!ENTITY contextPrintPreview.accesskey "г">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Грати">
+<!ENTITY contextPlay.accesskey "Г">
+<!ENTITY contextPause.label "Пауза">
+<!ENTITY contextPause.accesskey "П">
+<!ENTITY contextMute.label "Вимкнути звук">
+<!ENTITY contextMute.accesskey "и">
+<!ENTITY contextUnmute.label "Увімкнути звук">
+<!ENTITY contextUnmute.accesskey "і">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Спам">
 <!ENTITY junkBarButton1.label "Не спам">
@@ -704,6 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Шукати всюди">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Додати в адресну книгу…">
