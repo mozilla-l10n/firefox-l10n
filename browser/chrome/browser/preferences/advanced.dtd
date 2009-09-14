@@ -54,8 +54,8 @@
 <!ENTITY autoCheck.label "Seçili öğeler için güncellemelere bak:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "e">
-<!ENTITY enableAddonsUpdate2.label "Add-ons">
-<!ENTITY enableAddonsUpdate2.accesskey "n">
+<!ENTITY enableAddonsUpdate2.label "Eklentiler">
+<!ENTITY enableAddonsUpdate2.accesskey "E">
 <!ENTITY enableSearchUpdate.label "Arama motorları">
 <!ENTITY enableSearchUpdate.accesskey "m">
 <!ENTITY whenUpdatesFound.label "&brandShortName; için güncelleme bulunursa:">
