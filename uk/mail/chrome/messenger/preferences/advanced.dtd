@@ -92,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "О">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Коли сервер запитує мій персональний сертифікат:">
+<!ENTITY certs.auto                      "Вибрати автоматично">
+<!ENTITY certs.auto.accesskey            "а">
+<!ENTITY certs.ask                       "Питати щоразу">
+<!ENTITY certs.ask.accesskey             "П">
+
 <!ENTITY viewCertificates.label         "Перегляд сертифікатів">
 <!ENTITY viewCertificates.accesskey     "с">
 <!ENTITY viewCRLs.label                 "Списки відкликання">
