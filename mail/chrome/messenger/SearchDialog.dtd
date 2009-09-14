@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "і">
 <!ENTITY searchSubfolders.label      "Шукати у вкладених теках">
 <!ENTITY searchSubfolders.accesskey  "к">
+<!ENTITY searchOnServer.label        "Виконати пошук на сервері">
+<!ENTITY searchOnServer.accesskey    "с">
 <!ENTITY resetButton.label           "Очистити">
 <!ENTITY resetButton.accesskey       "О">
 <!ENTITY openButton.label            "Відкрити">
