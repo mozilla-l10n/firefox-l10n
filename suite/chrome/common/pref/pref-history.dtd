@@ -1,7 +1,7 @@
 <!ENTITY  pref.history.title                "Historikk">
 
 <!ENTITY  pref.history.caption              "Nettleserhistorikk">
-<!ENTITY  historyPages.label                "Nettleseren holder oversikt over sidene du har besøkt i det siste.">
+<!ENTITY  historyPages.label                "Nettleseren husker nettsider som du har besøkt i det siste.">
 <!ENTITY  expireDaysMin1.label              "Alltid husk besøkte nettsider minst">
 <!ENTITY  expireDaysMin1.accesskey          "A">
 <!ENTITY  expireDaysMin2.label              "dager">
@@ -18,4 +18,9 @@
 <!ENTITY  clearLocationBar.label            "Tøm listen over nettsted som er lagret i adresselinjen.">
 <!ENTITY  clearLocationBarButton.label      "Tøm">
 <!ENTITY  clearLocationBarButton.accesskey  "m">
-  
+<!ENTITY  formfillHistory.caption           "Skjema- og søkehistorikk">
+<!ENTITY  enableFormfill.label              "Slå på skjema- og søkehistorikk">
+<!ENTITY  enableFormfill.accesskey          "S">
+<!ENTITY  formfillExpire.label              "Husk skjema- og søkehistorikk for opptil">
+<!ENTITY  formfillExpire.accesskey          "u">
+<!ENTITY  formfillDays.label                "dager">

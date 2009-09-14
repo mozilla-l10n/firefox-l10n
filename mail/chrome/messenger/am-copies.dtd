@@ -33,5 +33,5 @@
 <!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY specialFoldersTitle.label "Utkast og maler">
 <!ENTITY keepDrafts.label "Oppbevar meldingsutkast i:">
-<!ENTITY keepArchives.label "Behold meldingsarkiver i:">
+<!ENTITY keepArchives.label "Oppbevar meldingsarkiver i:">
 <!ENTITY keepTempltes.label "Oppbevar meldingsmaler i:">

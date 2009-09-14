@@ -3,6 +3,8 @@
 
 <!ENTITY itemHistory.label               "Nettleserhistorikk">
 <!ENTITY itemHistory.accesskey           "N">
+<!ENTITY itemUrlBar.label                "Adresselinjehistorikk">
+<!ENTITY itemUrlBar.accesskey            "r">
 <!ENTITY itemDownloads.label             "Nedlastingshistorikk">
 <!ENTITY itemDownloads.accesskey         "d">
 <!ENTITY itemFormSearchHistory.label     "Søkehistorikk og lagrede skjemaer">

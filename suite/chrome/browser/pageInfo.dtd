@@ -46,6 +46,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Merk alt">
 <!ENTITY  selectall.accesskey   "M">
+<!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Generelt">
@@ -112,6 +113,7 @@
 <!ENTITY  permTab               "Tillatelser">
 <!ENTITY  permTab.accesskey     "T">
 <!ENTITY  permUseDefault        "Bruk forvalg">
+<!ENTITY  permAskAlways         "Spør alltid">
 <!ENTITY  permAllow             "Tillat">
 <!ENTITY  permAllowSession      "Tillat for programøkten">
 <!ENTITY  permBlock             "Blokker">
@@ -120,6 +122,7 @@
 <!ENTITY  permPopup             "Åpne sprettoppvinduer">
 <!ENTITY  permCookie            "Sette infokapsler">
 <!ENTITY  permInstall           "Installere utvidelser og temaer">
+<!ENTITY  permGeo               "Oppgi sted">
 
 <!ENTITY  securityTab           "Sikkerhet">
 <!ENTITY  securityTab.accesskey "S">
@@ -131,8 +134,8 @@
 
 <!ENTITY  securityView.identity.header   "Nettstedsidentitet">
 <!ENTITY  securityView.identity.owner    "Eier: ">
-<!ENTITY  securityView.identity.domain   "Nettsted: ">
-<!ENTITY  securityView.identity.verifier "Verifisert av: ">
+<!ENTITY  securityView.identity.domain   "Nettsted:">
+<!ENTITY  securityView.identity.verifier "Verifisert av:">
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
 <!ENTITY  securityView.privacy.history                  "Har jeg besøkt dette nettstedet tidligere?">

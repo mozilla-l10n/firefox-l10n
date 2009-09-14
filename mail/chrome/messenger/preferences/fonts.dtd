@@ -6,15 +6,15 @@
 <!ENTITY  language.label                          "Skrifttyper for:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  sizes.label                             "Størrelse">
+<!ENTITY  size.label                              "Størrelse:">
 <!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  sizeMono.accesskey                      "l">
 
 <!ENTITY  proportional.label                      "Proporsjonal:">
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  serif.accesskey                         "r">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Fast tegnavstand:">
@@ -50,13 +50,17 @@
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minste skriftstørrelse:">
-<!ENTITY minSize.accesskey                        "s">
+<!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Ingen">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Skrifttypekontroll">
+<!ENTITY  useFixedWidthForPlainText.label         "Bruk skrifttype med fast tegnavstand for meldinger i ren tekst">
+<!ENTITY  fixedWidth.accesskey                    "B">
 <!ENTITY  useDocumentFonts.label                  "La meldinger bruke andre skrifttyper">
 <!ENTITY  useDocumentFonts.accesskey              "L">
 

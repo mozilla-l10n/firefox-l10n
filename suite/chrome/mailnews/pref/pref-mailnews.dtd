@@ -56,8 +56,8 @@
 <!ENTITY enableStartPage.label            "Vis denne startsiden i meldingsområdet ved oppstart">
 <!ENTITY enableStartPage.accesskey        "V">
 <!ENTITY location.label                   "Adresse:">
-<!ENTITY location.accesskey               "S">
-<!ENTITY useDefault.label                 "Bruk forvalgt">
-<!ENTITY useDefault.accesskey             "o">
+<!ENTITY location.accesskey               "A">
+<!ENTITY useDefault.label                 "Bruk standard">
+<!ENTITY useDefault.accesskey             "B">
 <!ENTITY rememberLastMsg.label            "Husk siste melding">
 <!ENTITY rememberLastMsg.accesskey        "m">
