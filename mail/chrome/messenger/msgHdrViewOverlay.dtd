@@ -66,10 +66,16 @@
 <!ENTITY trashButton.tooltiptext "вилучити">
 
 <!ENTITY otherActionsButton.label "інші дії">
+<!ENTITY otherActionsOpenInNewWindow.label "відкрити у новому вікні">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "в">
+<!ENTITY otherActionsOpenInNewTab.label "відкрити у новій вкладці">
+<!ENTITY otherActionsOpenInNewTab.accesskey "к">
 <!ENTITY saveAsMenuItem.label "зберегти як…">
 <!ENTITY saveAsMenuItem.accesskey "з">
 <!ENTITY viewSourceMenuItem.label "глянути джерело…">
 <!ENTITY viewSourceMenuItem.accesskey "д">
+<!ENTITY otherActionsPrint.label "друкувати…">
+<!ENTITY otherActionsPrint.accesskey "д">
 
 <!ENTITY openAttachmentCmd.label    "Відкрити">
 <!ENTITY openAttachmentCmd.accesskey    "В">
