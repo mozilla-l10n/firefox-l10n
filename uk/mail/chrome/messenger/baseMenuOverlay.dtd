@@ -7,6 +7,8 @@
 <!ENTITY helpMenuWin.accesskey "Д">
 <!ENTITY releaseCmd.label "Примітки до випуску">
 <!ENTITY releaseCmd.accesskey "П">
+<!ENTITY whatsNewCmd.label "Що нового">
+<!ENTITY whatsNewCmd.accesskey "Щ">
 <!ENTITY openHelp.label "Зміст">
 <!ENTITY openHelp.accesskey "З">
 <!ENTITY openHelp.commandkey "VK_F1">
