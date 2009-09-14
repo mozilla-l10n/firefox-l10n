@@ -55,12 +55,12 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Буде використано наявний сервер вихідних повідомлень (SMTP), «">
-<!ENTITY haveSmtp1.suffix "». Ви можете змінити параметри вихідного сервера, обравши «Параметри облікового запису» з меню «Інструменти».">
+<!ENTITY haveSmtp1.suffix2 "». Ви можете змінити  сервер вихідних повідомлень у параметрах облікового запису.">
 
 <!-- Entities for Login page -->
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "Введіть ім’я користувача, дане поштовим провайдером для вихідних повідомлень (зазвичай таке ж, як і для вхідних).">
 <!ENTITY usernameSmtpLabel.label "Ім’я користувача для вихідних повідомлень:">
 <!ENTITY usernameSmtpLabel.accesskey "и">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Буде використане наявне ім’я користувача (SMTP), «">
-<!ENTITY haveSmtp2.suffix "». Ви можете змінити параметри сервера вихідних повідомлень, обравши «Параметри облікового запису» з меню «Інструменти».">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "». Ви можете змінити сервер вихідних повідомлень у параметрах облікового запису.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ваш сервер SMTP, «">
-<!ENTITY haveSmtp3.suffix "», збігається з сервером вихідних повідомлень, тож буде використано відповідне ім’я користувача для доступу. Ви можете змінити параметри сервера вихідних повідомлень, обравши «Параметри облікового запису» з меню «Інструменти».">
+<!ENTITY haveSmtp3.suffix2 "» збігається з вашим сервером вхідних повідомлень, тож буде використано відповідне ім’я користувача для доступу. Ви можете змінити сервер вихідних повідомлень у параметрах облікового запису.">
 
 <!-- Entities for Account name page -->
 
