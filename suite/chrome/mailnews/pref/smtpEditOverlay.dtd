@@ -19,4 +19,4 @@
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Utgående tjener">
-<!ENTITY serverPortDefault.label "Forvalgt:">
+<!ENTITY serverPortDefault.label "Standard:">

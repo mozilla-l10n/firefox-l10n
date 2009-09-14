@@ -8,7 +8,7 @@
 <!ENTITY junkFolderOn.label "«Uønsket»-mappen på:">
 <!ENTITY junkFolderOn.accesskey "U">
 <!ENTITY otherFolder.label "Annen:">
-<!ENTITY otherFolder.accesskey "A">
+<!ENTITY otherFolder.accesskey "n">
 <!ENTITY purge1.label "Automatisk slett uønsket e-post eldre enn">
 <!ENTITY purge1.accesskey "A">
 <!ENTITY purge2.label "dager">

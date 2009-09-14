@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
 
 <!ENTITY pref.search.title                "Internett-søk">
-<!ENTITY legendHeader                     "Forvalgt søkemotor">
+<!ENTITY legendHeader                     "Standard søkemotor">
 <!ENTITY defaultSearchEngine.label        "Søk med">
 <!ENTITY defaultSearchEngine.accesskey    "S">
 

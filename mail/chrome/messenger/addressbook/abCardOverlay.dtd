@@ -157,3 +157,19 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notater">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Velg en av følgende:">
+<!ENTITY GenericPhoto.label             "Generelt bilde">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Standard">
+<!ENTITY PhotoFile.label                "På denne datamaskinen">
+<!ENTITY PhotoFile.accesskey            "P">
+<!ENTITY BrowsePhoto.label              "Bla gjennom">
+<!ENTITY BrowsePhoto.accesskey          "B">
+<!ENTITY PhotoURL.label                 "På nettet">
+<!ENTITY PhotoURL.accesskey             "n">
+<!ENTITY PhotoURL.emptytext             "Lim eller skriv inn nettadressen til et foto">
+<!ENTITY UpdatePhoto.label              "Oppdater">
+<!ENTITY UpdatePhoto.accesskey          "O">

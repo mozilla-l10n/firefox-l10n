@@ -39,6 +39,12 @@
 <!ENTITY col.timeelapsed.label           "Tid brukt">
 <!ENTITY col.timeelapsed.accesskey       "b">
 <!ENTITY col.timeelapsed.tooltip         "Tid brukt">
+<!ENTITY col.starttime.label             "Starttid">
+<!ENTITY col.starttime.accesskey         "S">
+<!ENTITY col.starttime.tooltip           "Starttid">
+<!ENTITY col.endtime.label               "Sluttid">
+<!ENTITY col.endtime.accesskey           "u">
+<!ENTITY col.endtime.tooltip             "Sluttid">
 <!ENTITY col.progresstext.label          "&#37;">
 <!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Fremdrift (&#37;)">
@@ -76,3 +82,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "G">
 <!ENTITY cmd.copyDownloadLink.label      "Kopier nedlastingslenke">
 <!ENTITY cmd.copyDownloadLink.accesskey  "K">
+<!ENTITY cmd.properties.label            "Egenskaper …">
+<!ENTITY cmd.properties.accesskey        "E">
