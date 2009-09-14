@@ -85,14 +85,14 @@
 
 <!ENTITY autoCheck.label                 "Automatiškai tikrinti, ar yra naujinimų:">
 <!ENTITY enableAppUpdate.label           "programai „&brandShortName;“">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "įdiegtiems programos priedams">
-<!ENTITY enableAddonsUpdate.accesskey    "p">
+<!ENTITY enableAppUpdate.accesskey       "p">
+<!ENTITY enableAddonsUpdate2.label       "programos priedams">
+<!ENTITY enableAddonsUpdate2.accesskey   "r">
 <!ENTITY enableSearchUpdate.label        "ieškyklėms">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 <!ENTITY whenUpdatesFound.label          "Jei „&brandShortName;“ naujinimas rastas, tai:">
 <!ENTITY askMe.label                     "pranešti ir paklausti, ką daryti">
-<!ENTITY askMe.accesskey                 "r">
+<!ENTITY askMe.accesskey                 "k">
 <!ENTITY modeAutomatic.label             "naujinimus atsiųsti automatiškai">
 <!ENTITY modeAutomatic.accesskey         "n">
 <!ENTITY modeAutoAddonWarn.label         "įspėti, jei naujinimas gali būti nesuderinamas su įdiegtais priedais">
