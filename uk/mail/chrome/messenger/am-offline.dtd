@@ -12,9 +12,8 @@
 <!ENTITY nntpDownloadMsg.label "Повідомлення тільки за останні">
 <!ENTITY nntpDownloadMsg.accesskey "п">
 <!ENTITY retentionCleanup.label "Для звільнення місця на диску старі повідомлення можуть бути вилучені">
-<!-- FIXME: localize -->
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
+<!ENTITY retentionCleanupImap.label "Щоб вивільнити місце на диску, старі повідомлені можна стерти назавжди, як локальні копії, так і оригінали на віддаленому сервері.">
+<!ENTITY retentionCleanupPop.label "Щоб вивільнити місце на диску, старі повідомлення можна стерти назавжди, включно з оригіналами на віддаленому сервері.">
 <!ENTITY retentionKeepMsg.label "Вилучати повідомлення давніші за">
 <!ENTITY retentionKeepMsg.accesskey "д">
 <!ENTITY retentionKeepAll.label "Не вилучати повідомлень">
@@ -33,3 +32,18 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "о">
 <!ENTITY syncGroupTitle.label "Синхронізація листів">
 <!ENTITY diskspaceGroupTitle.label "Дисковий простір">
+
+<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+  useAutosyncAfter.label appear on a single line in preferences as follows:
+
+  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+-->
+<!ENTITY useAutosyncBefore.label         "">
+<!ENTITY useAutosyncMiddle.label         "Пошта за">
+<!ENTITY allInterval.label               "весь період">
+<!ENTITY dayInterval.label               "днів">
+<!ENTITY weekInterval.label              "тижнів">
+<!ENTITY monthInterval.label             "місяців">
+<!ENTITY yearInterval.label              "років">
+<!ENTITY useAutosyncAfter.label          "буде збережена на диск">
