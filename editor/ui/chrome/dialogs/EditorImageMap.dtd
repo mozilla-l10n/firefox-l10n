@@ -48,36 +48,27 @@
 <!ENTITY mapfileMenu.accesskey "Ф">
 <!ENTITY clearCmd.label "Очистити">
 <!ENTITY clearCmd.accesskey "О">
-<!ENTITY clear.key "d">
 <!ENTITY closeCmd.label "Закрити">
-<!ENTITY close.key "l">
 <!ENTITY closeCmd.accesskey "З">
-
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Правка">
 <!ENTITY mapeditMenu.accesskey "П">
 <!ENTITY cutCmd.label "Вирізати">
-<!ENTITY cut.key "x">
 <!ENTITY cutCmd.accesskey "В">
 <!ENTITY copyCmd.label "Копіювати">
-<!ENTITY copy.key "c">
 <!ENTITY copyCmd.accesskey "К">
 <!ENTITY pasteCmd.label "Вставити">
-<!ENTITY paste.key "v">
 <!ENTITY pasteCmd.accesskey "т">
 <!ENTITY selectallCmd.label "Виділити все">
-<!ENTITY selectall.key "a">
 <!ENTITY selectallCmd.accesskey "с">
 <!ENTITY propsCmd.label "Властивості активної ділянки">
-<!ENTITY props.key "p">
 <!ENTITY propsCmd.accesskey "л">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Вигляд">
 <!ENTITY mapviewMenu.accesskey "В">
 <!ENTITY showhideTbarCmd.label "Сховати панель інструментів">
-<!ENTITY tbar.key "t">
 <!ENTITY showhideTbarCmd.accesskey "п">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Масштаб">
@@ -88,9 +79,16 @@
 <!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
-<!-- end scaling-->
-
-<!-- Help menu -->
 
 <!ENTITY zoominCmd.label "Наблизити">
 <!ENTITY zoomoutCmd.label "Віддалити">
+
+<!-- Keys -->
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
