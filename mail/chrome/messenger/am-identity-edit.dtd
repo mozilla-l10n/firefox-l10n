@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Налаштування ідентифікатора">
 <!ENTITY identityListDesc.label "Налаштувати параметри для цього ідентифікатора:">
 
