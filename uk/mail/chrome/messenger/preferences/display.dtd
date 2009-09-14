@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Колір:">
 <!ENTITY color.accesskey                  "К">
 <!ENTITY displayWidth.label               "Повідомлення в текстовому форматі">
-<!ENTITY plainText.label                  "Шрифт для повідомлень в текстовому форматі:">
 <!ENTITY displayText.label                "Використовувати наступні параметри відображення цитат в повідомленнях текстового формату:">
-<!ENTITY fixedWidth.label                 "Моноширний">
-<!ENTITY fixedWidth.accesskey             "М">
-<!ENTITY variableWidth.label              "Пропорційний">
-<!ENTITY variableWidth.accesskey          "П">
 <!ENTITY colors.label                     "Кольори">
 <!ENTITY overrideColors.label             "Використовувати наступні кольори при відображенні повідомлень:">
 <!ENTITY textColor.label                  "Колір тексту:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "В">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Змінити шрифти та кодування, які використовуються в &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Шрифти та кодування">
+<!ENTITY fontsAndColors.label    "Шрифти">
+<!ENTITY defaultFont.label       "Типовий шрифт:">
+<!ENTITY defaultFont.accesskey   "Т">
+<!ENTITY defaultSize.label       "Розмір:">
+<!ENTITY defaultSize.accesskey   "Р">
 <!ENTITY fontOptions.accesskey   "Ш">
 <!ENTITY fontOptions.label       "Шрифти…">
