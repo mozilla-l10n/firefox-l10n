@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "s">
 <!ENTITY newVirtualFolderCmd.label "Virtueller Ordner…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
-<!ENTITY newVirtualFolderCmd.label "Virtueller Ordner…">
-<!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newOtherAccountsCmd.label "Anderes Konto…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
+<!ENTITY newEmailAccountCmd.label "E-Mail-Konto…">
+<!ENTITY newEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY openAttachmentCmd.label "Anhänge">
@@ -133,6 +133,8 @@
 
 <!ENTITY folderView.label "Ordner">
 <!ENTITY folderView.accesskey "d">
+<!ENTITY smartFolders.label "Virtuell">
+<!ENTITY smartFolders.accesskey "V">
 <!ENTITY allFolders.label "Alle">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Ungelesene">
@@ -563,28 +565,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Nachrichten suchen…">
-<!ENTITY glodaSearchBar.facet.label "Durchsuchen:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Alles">
-<!ENTITY glodaSearchFacet.subject.label "Betreff">
-<!ENTITY glodaSearchFacet.involves.label "Beteiligte (Von, An, CC, BCC)">
-<!ENTITY glodaSearchFacet.to.label "An, CC">
-<!ENTITY glodaSearchFacet.from.label "Von">
-<!ENTITY glodaSearchFacet.body.label "Inhalt">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Namen der Anhänge">
-
-<!ENTITY glodaSearchBar.location.label "Ablageort:">
-<!ENTITY glodaSearchFacet.everywhere.label "Alle Ordner">
-<!ENTITY glodaSearchFacet.folder.label "In einem bestimmten Ordner…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Betreff">
@@ -615,15 +595,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Ablageort">
 <!ENTITY idColumn.label "Eingangsreihenfolge">
 <!ENTITY attachmentColumn.label "Anhänge">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Grund">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Wertung">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
@@ -646,8 +617,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Klicken, um nach Ablageort zu sortieren">
 <!ENTITY idColumn.tooltip "Klicken, um nach Eingangsreihenfolge zu sortieren">
 <!ENTITY attachmentColumn.tooltip "Klicken, um nach Anhang zu sortieren">
-<!ENTITY glodaWhyColumn.tooltip "Klicken, um nach den Gründen für die Suchergebnisse zu sortieren">
-<!ENTITY glodaScoreColumn.tooltip "Klicken, um nach den der Wertung der Suchergebnisse zu sortieren">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "In neuem Fenster öffnen">
@@ -681,6 +650,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Druckvorschau">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Abspielen">
+<!ENTITY contextPlay.accesskey "A">
+<!ENTITY contextPause.label "Anhalten">
+<!ENTITY contextPause.accesskey "A">
+<!ENTITY contextMute.label "Ton aus">
+<!ENTITY contextMute.accesskey "T">
+<!ENTITY contextUnmute.label "Ton an">
+<!ENTITY contextUnmute.accesskey "T">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Diese Nachricht wurde als Junk eingestuft.">
 <!ENTITY junkBarButton1.label "Kein Junk">
@@ -700,6 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "In allen Konten suchen">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Zu Adressbuch hinzufügen…">
