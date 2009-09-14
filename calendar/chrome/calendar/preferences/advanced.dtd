@@ -65,14 +65,14 @@
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "programai „&brandShortName;“">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "p">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "įdiegtiems priedams">
-<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "d">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "r">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Radus „&brandShortName;“ naujinimų:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "pranešti ir paklausti, ką daryti">
-<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "r">
-<!ENTITY pref.calendar.advanced.update.modeAuto.label "automatiškai atsiųsti ir įdiegti">
-<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "a">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "k">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "naujinimus atsiųsti ir įdiegti automatiškai">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "n">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "įspėti, jei naujinimas yra nesuderinamas su įdiegtais priedais">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "ė">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "s">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Rodyti atnaujinimo žurnalą…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "ž">
 

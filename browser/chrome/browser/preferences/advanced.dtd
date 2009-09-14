@@ -93,10 +93,10 @@
 <!ENTITY whenUpdatesFound.label          "Jei „&brandShortName;“ naujinimas rastas, tai:">
 <!ENTITY askMe.label                     "pranešti ir paklausti, ką daryti">
 <!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "naujinimus atsiųsti automatiškai">
+<!ENTITY modeAutomatic.label             "naujinimus atsiųsti ir įdiegti automatiškai">
 <!ENTITY modeAutomatic.accesskey         "n">
 <!ENTITY modeAutoAddonWarn.label         "įspėti, jei naujinimas gali būti nesuderinamas su įdiegtais priedais">
-<!ENTITY modeAutoAddonWarn.accesskey     "ė">
+<!ENTITY modeAutoAddonWarn.accesskey     "s">
 <!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
 <!ENTITY updateHistory.accesskey         "ž">
 
