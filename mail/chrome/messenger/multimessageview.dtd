@@ -1,4 +1,3 @@
-<!-- FIXME -->
-<!ENTITY window.title             "Message Summary">
-<!ENTITY selectedmessages.label   "Selected Messages">
-<!ENTITY archive.label            "archive">
+<!ENTITY window.title             "Звведення повідомлень">
+<!ENTITY selectedmessages.label   "Вибрані повідомлення">
+<!ENTITY archive.label            "архів">
