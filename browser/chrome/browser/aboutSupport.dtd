@@ -1,0 +1,21 @@
+<!ENTITY aboutSupport.pageTitle "Диагностическая информация">
+<!ENTITY aboutSupport.pageSubtitle "    
+   Эта страница содержит техническую информацию, которая может быть полезна когда вы пытаетесь решить проблему. Если вы ищете ответы на типичные вопросы о &brandShortName;, обратитесь на наш <a id='supportLink'>веб-сайт поддержки</a>. ">
+<!ENTITY aboutSupport.extensionsTitle "Расширения">
+<!ENTITY aboutSupport.extensionName "Имя">
+<!ENTITY aboutSupport.extensionEnabled "Включено">
+<!ENTITY aboutSupport.extensionVersion "Версия">
+<!ENTITY aboutSupport.extensionFirstRun "Первый запуск">
+<!ENTITY aboutSupport.extensionId "ID">
+<!ENTITY aboutSupport.appBasicsTitle "Сведения о приложении">
+<!ENTITY aboutSupport.appBasicsName "Имя">
+<!ENTITY aboutSupport.appBasicsVersion "Версия">
+<!ENTITY aboutSupport.appBasicsProfileDir "Папка профиля">
+<!ENTITY aboutSupport.appBasicsPlugins "Установленные плагины">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурация сборки">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Изменённые настройки">
+<!ENTITY aboutSupport.modifiedPrefsName "Имя">
+<!ENTITY aboutSupport.modifiedPrefsValue "Значение">
+<!ENTITY aboutSupport.installationHistoryTitle "Журнал установки">
+<!ENTITY aboutSupport.updateHistoryTitle "Журнал обновлений">
+<!ENTITY aboutSupport.copyToClipboard.label "Копировать всё в буфер обмена">
