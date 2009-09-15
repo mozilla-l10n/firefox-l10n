@@ -2,7 +2,7 @@
 <!ENTITY warnAddonInstall.accesskey "о">
 <!ENTITY blockAttackSites.label "Блокировать сайты, подозреваемые в атаках">
 <!ENTITY blockAttackSites.accesskey "к">
-<!ENTITY blockWebForgeries.label "Блокировать сайты, подозреваемые в имитации других сайтов">
+<!ENTITY blockWebForgeries.label "Блокировать сайты, подозреваемые в мошенничестве">
 <!ENTITY blockWebForgeries.accesskey "л">
 <!ENTITY addonExceptions.label "Исключения…">
 <!ENTITY addonExceptions.accesskey "И">
