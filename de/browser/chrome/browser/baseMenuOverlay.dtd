@@ -13,8 +13,8 @@
 <!ENTITY aboutCmd.label           "Über &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "e">
 <!ENTITY helpContents.label       "Hilfethemen">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; Hilfe">
+<!ENTITY productHelp.label        "&brandShortName; Hilfe">
+<!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Für Anwender des Internet Explorers">
 <!ENTITY helpForIEUsers.accesskey "F">
 <!ENTITY openHelp.commandkey      "VK_F1">
