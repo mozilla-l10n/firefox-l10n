@@ -4,6 +4,8 @@
 <!ENTITY autoHide.accesskey "к">
 <!ENTITY background.label "Переходить на новые вкладки открываемые из ссылок">
 <!ENTITY background.accesskey "н">
+<!ENTITY warnOnClose.label "Предупреждать при закрытии окна с несколькими вкладками">
+<!ENTITY warnOnClose.accesskey "ж">
 <!ENTITY loadGroup.label "При открытии группы закладок">
 <!ENTITY loadGroupAppend.label "Открывать новые вкладки">
 <!ENTITY loadGroupAppend.accesskey "О">
