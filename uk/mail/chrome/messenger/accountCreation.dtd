@@ -1,22 +1,22 @@
 <!-- FIXME -->
-<!ENTITY autoconfigWizard.title          "Mail Account Setup">
-<!ENTITY name.label                      "Your name:">
-<!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "First Last">
-<!ENTITY name.text                       "Your name, as shown to others">
-<!ENTITY email.label                     "Email address:">
-<!ENTITY email.accesskey                 "l">
+<!ENTITY autoconfigWizard.title          "Настройка поштового облікового запису">
+<!ENTITY name.label                      "Ваше ім’я:">
+<!ENTITY name.accesskey                  "і">
+<!ENTITY name.emptytext                  "Ім’я Прізвище">
+<!ENTITY name.text                       "Ваше ім’я, так як його будуть бачити інші">
+<!ENTITY email.label                     "Поштова адреса:">
+<!ENTITY email.accesskey                 "а">
 <!ENTITY email.emptytext                 "email@example.com">
-<!ENTITY password.label                  "Password:">
-<!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Password">
-<!ENTITY password.text                   "Optional, will only be used to validate the username">
+<!ENTITY password.label                  "Пароль:">
+<!ENTITY password.accesskey              "П">
+<!ENTITY password.emptytext              "Пароль">
+<!ENTITY password.text                   "Додатково, буде використане лише для перевірки імені користувача">
 
-<!ENTITY accountInformation.label        "Account Information">
-<!ENTITY username2.label                 "Username:">
-<!ENTITY incoming.label                  "Incoming:">
-<!ENTITY outgoing.label                  "Outgoing:">
-<!ENTITY noEncryption.label              "None">
+<!ENTITY accountInformation.label        "Інформація про обліковий запис">
+<!ENTITY username2.label                 "Ім’я користувача:">
+<!ENTITY incoming.label                  "Вхідні:">
+<!ENTITY outgoing.label                  "Вихідні:">
+<!ENTITY noEncryption.label              "Жодної">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
@@ -24,53 +24,53 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!ENTITY manualSetup.label               "Manual Setup…">
-<!ENTITY manualSetup.accesskey           "S">
-<!ENTITY cancel.label                    "Cancel">
-<!ENTITY cancel.accesskey                "a">
-<!ENTITY continue.label                  "Continue">
-<!ENTITY continue.accesskey              "C">
-<!ENTITY startOver.label                 "Start over">
-<!ENTITY startOver.accesskey             "o">
-<!ENTITY stop.label                      "Stop">
-<!ENTITY stop.accesskey                  "S">
+<!ENTITY manualSetup.label               "Вручну…">
+<!ENTITY manualSetup.accesskey           "В">
+<!ENTITY cancel.label                    "Скасувати">
+<!ENTITY cancel.accesskey                "к">
+<!ENTITY continue.label                  "Далі">
+<!ENTITY continue.accesskey              "Д">
+<!ENTITY startOver.label                 "З початку">
+<!ENTITY startOver.accesskey             "п">
+<!ENTITY stop.label                      "Зупинити">
+<!ENTITY stop.accesskey                  "З">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Re-test Configuration">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Edit">
-<!ENTITY edit.accesskey                  "E">
+<!ENTITY retest.label                    "Ще раз перевірити настройки">
+<!ENTITY retest.accesskey                "Щ">
+<!ENTITY edit.label                      "Редагувати">
+<!ENTITY edit.accesskey                  "Р">
 
-<!ENTITY rememberPassword.label          "Remember password">
-<!ENTITY rememberPassword.accesskey      "m">
+<!ENTITY rememberPassword.label          "Запам’ятати пароль">
+<!ENTITY rememberPassword.accesskey      "з">
 
-<!ENTITY warning.label                   "Warning!">
-<!ENTITY incomingSettings.label          "Incoming settings:">
-<!ENTITY outgoingSettings.label          "Outgoing settings:">
-<!ENTITY technicaldetails.label          "Technical Details">
+<!ENTITY warning.label                   "Увага!">
+<!ENTITY incomingSettings.label          "Вхідні настройки:">
+<!ENTITY outgoingSettings.label          "Вихідні настройки:">
+<!ENTITY technicaldetails.label          "Технічні подробиці">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "I understand the risks.">
-<!ENTITY confirmWarning.accesskey        "u">
+<!ENTITY confirmWarning.label            "Я розумію ризик.">
+<!ENTITY confirmWarning.accesskey        "р">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Create Account">
-<!ENTITY createAccount.accesskey         "C">
+<!ENTITY createAccount.label             "Створити запис">
+<!ENTITY createAccount.accesskey         "С">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Change Settings">
-<!ENTITY changeSettings.accesskey        "S">
+<!ENTITY changeSettings.label            "Змінити настройки">
+<!ENTITY changeSettings.accesskey        "З">
 
 <!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
 
-<!ENTITY insecureServer.tooltip.title    "Warning! This is an insecure server.">
-<!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
+<!ENTITY insecureServer.tooltip.title    "Увага! Це небезпечний сервер.">
+<!ENTITY insecureServer.tooltip.details  "Клацніть по кружечку щоб дізнатись подробиці.">
 
 <!ENTITY insecureCleartext.description   "Email is sent in clear-text, so your email could be read by other people on the internet. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
 <!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
-<!ENTITY secureServer.description        "Congratulations! This is a secure server.">
+<!ENTITY secureServer.description        "Вітаємо! Це безпечний сервер.">
