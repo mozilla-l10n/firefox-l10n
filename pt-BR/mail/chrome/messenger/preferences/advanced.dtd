@@ -11,7 +11,7 @@
 <!ENTITY systemIntegration.label       "Integração com o sistema">
 <!ENTITY alwaysCheckDefault.label      "Ao iniciar, verificar se o &brandShortName; é o aplicativo de email padrão">
 <!ENTITY alwaysCheckDefault.accesskey  "o">
-<!ENTITY searchIntegration.label       "Permitir que o &searchIntegration.engineName; pesquise as mensagens">
+<!ENTITY searchIntegration.label       "Permitir que o &searchIntegration.engineName; pesquise em mensagens">
 <!ENTITY searchIntegration.accesskey   "P">
 <!ENTITY checkNow.label                "Verificar agora">
 <!ENTITY checkNow.accesskey            "V">
@@ -92,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "L">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Quando um servidor solicitar meu certificado pessoal:">
+<!ENTITY certs.auto                      "Selecionar um automaticamente">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "Perguntar quando necessário">
+<!ENTITY certs.ask.accesskey             "P">
+
 <!ENTITY viewCertificates.label         "Certificados">
 <!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "Revogações">

@@ -6,7 +6,7 @@
 <!ENTITY forwardMsg.accesskey                 "h">
 <!ENTITY inline.label                         "Texto na mensagem">
 <!ENTITY asAttachment.label                   "Anexo">
-<!ENTITY addExtension.label                   "Adic. extensão ao nome do arq.">
+<!ENTITY addExtension.label                   "Adic. extensão ao nome do arquivo">
 <!ENTITY addExtension.accesskey               "A">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
@@ -51,7 +51,7 @@
 <!ENTITY sendOptions.label                     "Formato de envio…">
 <!ENTITY sendOptions.accesskey                 "m">
 
-<!ENTITY attachmentReminder.label              "Verificar ausência de anexos">
-<!ENTITY attachmentReminder.accesskey          "V">
+<!ENTITY attachmentReminder.label              "Detectar ausência de anexos">
+<!ENTITY attachmentReminder.accesskey          "D">
 <!ENTITY attachmentReminderOptions.label       "Palavras-chave…">
 <!ENTITY attachmentReminderOptions.accesskey   "P">

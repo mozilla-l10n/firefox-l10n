@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Cor:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayWidth.label               "Mensagens sem formatação">
-<!ENTITY plainText.label                  "Usar esta fonte:">
 <!ENTITY displayText.label                "Ao exibir texto citado:">
-<!ENTITY fixedWidth.label                 "Monoespaçada">
-<!ENTITY fixedWidth.accesskey             "M">
-<!ENTITY variableWidth.label              "Proporcional">
-<!ENTITY variableWidth.accesskey          "P">
 <!ENTITY colors.label                     "Cores">
 <!ENTITY overrideColors.label             "Ao exibir mensagens, usar estas cores:">
 <!ENTITY textColor.label                  "Texto:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "x">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Configure as fontes e codificações usadas pelo &brandShortName;.">
-<!ENTITY fontsAndEncodingsCaption.label      "Fontes e codificações">
-<!ENTITY fontOptions.accesskey   "f">
-<!ENTITY fontOptions.label       "Fontes…">
+<!ENTITY fontsAndColors.label    "Fontes">
+<!ENTITY defaultFont.label       "Fonte padrão:">
+<!ENTITY defaultFont.accesskey   "F">
+<!ENTITY defaultSize.label       "Tam.:">
+<!ENTITY defaultSize.accesskey   "T">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Avançado…">

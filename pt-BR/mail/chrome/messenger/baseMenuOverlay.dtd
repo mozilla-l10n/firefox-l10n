@@ -7,6 +7,8 @@
 <!ENTITY helpMenuWin.accesskey "u">
 <!ENTITY releaseCmd.label "Notas da versão">
 <!ENTITY releaseCmd.accesskey "N">
+<!ENTITY whatsNewCmd.label "Novidades">
+<!ENTITY whatsNewCmd.accesskey "o">
 <!ENTITY openHelp.label "Conteúdo da ajuda">
 <!ENTITY openHelp.accesskey "C">
 <!ENTITY openHelp.commandkey "VK_F1">
