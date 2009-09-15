@@ -346,7 +346,7 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopijuoti garso adresą">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey       "N">
+<!ENTITY blockImageCmd.accesskey      "N">
 <!ENTITY copyEmailCmd.label           "Kopijuoti el. pašto adresą">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Kadras">

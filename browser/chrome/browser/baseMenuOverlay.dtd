@@ -30,30 +30,33 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Suskleisti">
-<!ENTITY bringAllToFront.label    "Viską į priekinį planą">
-<!ENTITY zoomWindow.label         "Keisti dydį">
-<!ENTITY windowMenu.label         "Langas">
+<!ENTITY minimizeWindow.key             "m">
+<!ENTITY minimizeWindow.label           "Suskleisti">
+<!ENTITY bringAllToFront.label          "Viską į priekinį planą">
+<!ENTITY zoomWindow.label               "Keisti dydį">
+<!ENTITY windowMenu.label               "Langas">
 
-<!ENTITY helpMenu.label           "Žinynas"> 
-<!ENTITY helpMenu.accesskey       "Ž"> 
+<!ENTITY helpMenu.label                 "Žinynas"> 
+<!ENTITY helpMenu.accesskey             "Ž"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Žinynas"> 
-<!ENTITY helpMenuWin.accesskey    "Ž">
-<!ENTITY aboutCmd.label           "Apie „&brandFullName;“">
-<!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "Žinyno turinys">
-<!ENTITY helpContents.accesskey   "Ž">
-<!ENTITY helpContentsMac.label    "„&brandShortName;“ žinynas">
-<!ENTITY helpForIEUsers.label     "Informacija „Internet Explorer“ naudotojams">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpMenuWin.label              "Žinynas"> 
+<!ENTITY helpMenuWin.accesskey          "Ž">
+<!ENTITY aboutCmd.label                 "Apie „&brandFullName;“">
+<!ENTITY aboutCmd.accesskey             "A">
+<!ENTITY productHelp.label              "„&brandShortName;“ žinynas">
+<!ENTITY productHelp.accesskey          "ž">
+<!ENTITY helpForIEUsers.label           "Informacija „Internet Explorer“ naudotojams">
+<!ENTITY helpForIEUsers.accesskey       "I">
+<!ENTITY openHelp.commandkey            "VK_F1">
+<!ENTITY helpMac.commandkey             "?">
 
 <!ENTITY helpReleaseNotes.label         "Laidos apžvalga">
 <!ENTITY helpReleaseNotes.accesskey     "L">
+
+<!ENTITY helpTroubleshooting.label      "Informacija problemų sprendimui…">
+<!ENTITY helpTroubleshooting.accesskey  "s">
+
 <!ENTITY updateCmd.label                "Tikrinti ar yra naujinimų…">
 
 <!ENTITY preferencesCmdMac.label        "Nuostatos…">
