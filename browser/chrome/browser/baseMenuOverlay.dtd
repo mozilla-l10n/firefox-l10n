@@ -22,6 +22,10 @@
 
 <!ENTITY helpReleaseNotes.label         "Notes de version">
 <!ENTITY helpReleaseNotes.accesskey     "N">
+
+<!ENTITY helpTroubleshooting.label      "Informations de dépannage…">
+<!ENTITY helpTroubleshooting.accesskey  "I">
+
 <!ENTITY updateCmd.label                "Rechercher des mises à jour…">
 
 <!ENTITY preferencesCmdMac.label        "Préférences…">

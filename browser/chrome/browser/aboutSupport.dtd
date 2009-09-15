@@ -1,0 +1,31 @@
+<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Cette page contient des informations techniques qui pourraient être utiles quand vous essayez
+  de résoudre un problème. Si vous cherchez des réponses à des questions courantes
+  sur &brandShortName;, veuillez consulter notre <a id='supportLink'>site Web d'assistance</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Extensions">
+<!ENTITY aboutSupport.extensionName "Nom">
+<!ENTITY aboutSupport.extensionEnabled "Activée">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionFirstRun "Premier démarrage">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Paramètres de base de l'application">
+<!ENTITY aboutSupport.appBasicsName "Nom">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsProfileDir "Répertoire de profil">
+<!ENTITY aboutSupport.appBasicsPlugins "Plugins installés">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Configuration de compilation">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Préférences modifiées">
+<!ENTITY aboutSupport.modifiedPrefsName "Nom">
+<!ENTITY aboutSupport.modifiedPrefsValue "Valeur">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Historique d'installation">
+<!ENTITY aboutSupport.updateHistoryTitle "Mise à jour de l'historique">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Tout copier dans le presse-papiers">
