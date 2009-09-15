@@ -8,7 +8,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Ввімкнути глобальний пошук та індексацію">
 <!ENTITY enableGlodaSearch.accesskey   "і">
-<!ENTITY systemIntegration.label       "System Integration">
+<!ENTITY systemIntegration.label       "Системна інтеграція">
 <!ENTITY alwaysCheckDefault.label      "Перевіряти на старті чи &brandShortName; є типовою поштовою програмою">
 <!ENTITY alwaysCheckDefault.accesskey  "ш">
 <!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
@@ -30,7 +30,7 @@
 
 <!ENTITY autoMarkAsRead.label          "Автоматично позначати листи як прочитані">
 <!ENTITY autoMarkAsRead.accesskey      "А">
-<!ENTITY markAsReadNoDelay.label       "Зразу після відораження">
+<!ENTITY markAsReadNoDelay.label       "Зразу після відображення">
 <!ENTITY markAsReadNoDelay.accesskey   "З">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "н">
 <!ENTITY reuseExpRadio1.label          "вже існуючому вікні">
 <!ENTITY reuseExpRadio1.accesskey      "у">
-<!ENTITY closeMsgWindowOnDelete.label  "Close message window on delete">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY closeMsgWindowOnDelete.label  "Закривати вікно повідомлення по стиранню">
+<!ENTITY closeMsgWindowOnDelete.accesskey "З">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Автоматично перевіряти наявність оновлень:">
