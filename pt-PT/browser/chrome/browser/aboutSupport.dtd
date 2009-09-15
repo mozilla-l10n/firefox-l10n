@@ -1,6 +1,6 @@
 <!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
 
-!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
 Esta página contém informação técnica que pode ser útil quando estiver a tentar 
 resolver um problema. Se estiver à procura de respostas para questões comuns
