@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label                 "Automatisk søk etter oppdateringer for:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Installerte utvidelser">
-<!ENTITY enableAddonsUpdate.accesskey    "I">
+<!ENTITY enableAddonsUpdate2.label       "Utvidelser">
+<!ENTITY enableAddonsUpdate2.accesskey   "U">
 <!ENTITY enableSearchUpdate.label        "Søkemotorer">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 <!ENTITY whenUpdatesFound.label          "Når oppdateringer for &brandShortName; blir funnet:">

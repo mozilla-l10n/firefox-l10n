@@ -13,9 +13,9 @@
 <!ENTITY safeb.palm.decline.label "Ignorer advarselen">
 <!ENTITY safeb.palm.decline.statustext "Lukk advarsel" >
 <!ENTITY safeb.palm.notforgery.label2 "Dette er ikke en nettsvindel …">
-<!ENTITY safeb.palm.report.label "Hvorfor er nettstedet blokkert?">
+<!ENTITY safeb.palm.reportPage.label "Hvorfor ble nettstedet blokkert?">
 
-<!ENTITY safeb.blocked.malware.title "Mistenkt angrepsnettsted!">
+<!ENTITY safeb.blocked.malwarePage.title "Nettsted rapportert som angrepsnettsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Nettstedet på <span id='malware_sitename'/> er rapportert som et angrepsnettsted, og blokkeres basert på sikkerhetsinnstillingene dine.">
 <!ENTITY safeb.blocked.malware.longDesc "<p>Angrepsnettsted forsøker å installere programvare som stjeler personlig informasjon, bruker datamaskinen din til å angripe andre, eller skade datamaskinen din.</p><p>Noen angrepsnettsted distribuerer skadelig programvare med vilje, men mange gjør dette også uten at eierne vet om det.</p>">
