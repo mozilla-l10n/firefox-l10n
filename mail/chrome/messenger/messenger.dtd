@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Pasta de pesquisa...">
 <!ENTITY newVirtualFolderCmd.accesskey "A">
-<!ENTITY newAccountCmd.label "Conta...">
-<!ENTITY newAccountCmd.accesskey "T">
-<!ENTITY newMailAccountCmd.label "Conta de correio (Configuração rápida)…">
-<!ENTITY newMailAccountCmd.accesskey "Q">
+<!ENTITY newOtherAccountsCmd.label "Outras contas...">
+<!ENTITY newOtherAccountsCmd.accesskey "t">
+<!ENTITY newEmailAccountCmd.label "Conta de correio…">
+<!ENTITY newEmailAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Abrir mensagem guardada...">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Anexos">
@@ -130,6 +130,8 @@
 
 <!ENTITY folderView.label "Pastas">
 <!ENTITY folderView.accesskey "A">
+<!ENTITY smartFolders.label "Inteligentes">
+<!ENTITY smartFolders.accesskey "I">
 <!ENTITY allFolders.label "Todas">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Não Lidas">
@@ -255,9 +257,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY pageSourceCmd.label "Código-fonte">
-<!ENTITY pageSourceCmd.accesskey "f">
-<!ENTITY pageSourceCmd.key "U">
+<!ENTITY pageSourceCmd.label "Fonte da mensagem">
+<!ENTITY pageSourceCmd.accesskey "F">
+<!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Procurar">
@@ -566,28 +568,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Procurar mensagens…">
-<!ENTITY glodaSearchBar.facet.label "Procurar:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Tudo">
-<!ENTITY glodaSearchFacet.subject.label "Assunto">
-<!ENTITY glodaSearchFacet.involves.label "Involves (de,para,cc,bcc)">
-<!ENTITY glodaSearchFacet.to.label "Para, CC">
-<!ENTITY glodaSearchFacet.from.label "De">
-<!ENTITY glodaSearchFacet.body.label "Texto da mensagem">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Nomes dos anexos">
-
-<!ENTITY glodaSearchBar.location.label "Localização:">
-<!ENTITY glodaSearchFacet.everywhere.label "Todas as pastas">
-<!ENTITY glodaSearchFacet.folder.label "Numa pasta específica…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Localizar Assunto">
@@ -618,15 +598,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Localização">
 <!ENTITY idColumn.label "Ordem de chegada">
 <!ENTITY attachmentColumn.label "Anexos">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Porque">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Pontuação">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clique para seleccionar as colunas a mostrar">
@@ -649,8 +620,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Clique para ordenar por localização">
 <!ENTITY idColumn.tooltip "Clique para ordenar por ordem recebida">
 <!ENTITY attachmentColumn.tooltip "Clique para ordenar por anexos">
-<!ENTITY glodaWhyColumn.tooltip "Clique para ordenar porque é que a mensagem aparece nos resultados da sua procura">
-<!ENTITY glodaScoreColumn.tooltip "Clique para ordenar pela pontuação da procura">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
@@ -684,6 +653,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Pré-visualizar impressão">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Reproduzir">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "Pausa">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Sem som">
+<!ENTITY contextMute.accesskey "S">
+<!ENTITY contextUnmute.label "Som">
+<!ENTITY contextUnmute.accesskey "m">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Lixo electrónico.">
 <!ENTITY junkBarButton1.label "Isto não é lixo">
@@ -703,6 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Procurar em todos os locais">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Adicionar ao Livro de Endereços...">

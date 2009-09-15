@@ -1,7 +1,8 @@
-﻿<!ENTITY itemJunk.label "Lixo Electrónico">
-<!ENTITY itemPhishing.label "Mensagens de Engodo">
-<!ENTITY itemPasswords.label "Senhas">
-<!ENTITY itemAntiVirus.label "Anti-vírus">
+<!ENTITY itemJunk.label          "Lixo Electrónico">
+<!ENTITY itemPhishing.label      "Mensagens de Engodo">
+<!ENTITY itemPasswords.label     "Senhas">
+<!ENTITY itemAntiVirus.label     "Anti-vírus">
+<!ENTITY itemCookies.label       "Conteúdo web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Configure as suas pré-definições para o lixo electrónico. Configurações específicas de lixo electrónico podem ser efectuadas nas configurações de conta.">
@@ -33,11 +34,26 @@
 <!ENTITY useMasterPassword.accesskey "u">
 <!ENTITY masterPassword.intro "Ao ser definida, a Senha Mestra protege todas as suas senhas - mas terá que que a fornecer uma vez por sessão.">
 <!ENTITY changeMasterPassword.label     "Mudar Senha Mestra…">
- <!ENTITY changeMasterPassword.accesskey "M">
+<!ENTITY changeMasterPassword.accesskey "M">
 <!ENTITY savedPasswords.label           "Senhas guardadas…">
 <!ENTITY savedPasswords.accesskey       "S">
 
- <!-- Anti Virus -->
+<!-- Anti Virus -->
 <!ENTITY antiVirus.intro "O &brandShortName; pode facilitar a análise de novas mensagens por programas anti-vírus antes que sejam armazenadas localmente.">
 <!ENTITY antiVirus.label "Os Programas anti-vírus podem colocar uma mensagem recebida em quarentena">
 <!ENTITY antiVirus.accesskey "p">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "O &brandShortName; deixa-o especificar que blogs, fontes de notícias, e outros sítios web são autorizados a usar cookies.">
+<!ENTITY acceptCookies.label            "Aceitar cookies de sítios">
+<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY keepUntil.label                "Manter até:">
+<!ENTITY keepUntil.accesskey            "M">
+<!ENTITY expire.label                   "que expirem">
+<!ENTITY close.label                    "eu fechar o &brandShortName;">
+<!ENTITY askEachTime.label              "perguntar-me sempre">
+<!ENTITY cookieExceptions.label         "Excepções…">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "Mostrar Cookies…">
+<!ENTITY showCookies.accesskey          "s">
+
