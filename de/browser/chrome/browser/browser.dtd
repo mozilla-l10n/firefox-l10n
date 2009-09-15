@@ -235,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label            "Link in neuem Fenster öffnen">
 <!ENTITY openLinkCmd.accesskey        "F">
+<!ENTITY openLinkCmdInCurrent.label     "Link öffnen">
+<!ENTITY openLinkCmdInCurrent.accesskey "k">
 <!ENTITY openLinkCmdInTab.label       "Link in neuem Tab öffnen">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openFrameCmd.label           "Frame in neuem Fenster öffnen">
