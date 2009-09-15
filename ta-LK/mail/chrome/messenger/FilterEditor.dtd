@@ -19,8 +19,11 @@
 <!ENTITY contextIncoming.label "அஞ்சலை சரிபார்க்க">
 <!ENTITY contextManual.label "Manually Run">
 <!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
+<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
 <!ENTITY filterActionDesc.label "இந்தச் செயல்களை செய்க:">
 <!ENTITY filterActionDesc.accesskey "P">
+
 
 <!-- New Style Filter Rule Actions -->
 

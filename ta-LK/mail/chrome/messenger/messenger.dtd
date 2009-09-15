@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "சேமிக்கப்பட்ட தேடல்…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newAccountCmd.label "கணக்கு…">
-<!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY newMailAccountCmd.label "Mail Account (Quick Setup)…">
-<!ENTITY newMailAccountCmd.accesskey "Q">
+<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newEmailAccountCmd.label "Mail Account…">
+<!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "சேமிக்கப்பட்ட செய்தியை திறக்க…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "உடனிணைப்புகள்">
@@ -138,6 +138,8 @@
 
 <!ENTITY folderView.label "கோப்புறைகள்">
 <!ENTITY folderView.accesskey "F">
+<!ENTITY smartFolders.label "Smart">
+<!ENTITY smartFolders.accesskey "S">
 <!ENTITY allFolders.label "எல்லாம்">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "வாசிக்கப்படாதது">
@@ -555,33 +557,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSettings.label "அமைப்புகள்…">
 <!ENTITY folderContextSettings.accesskey "e">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Play">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "Pause">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Mute">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "Unmute">
+<!ENTITY contextUnmute.accesskey "m">
+
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "பெயர் அல்லது மின்னஞ்சல் கொண்டிருக்கிறது:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-
-<!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "தகவல்கள் தேடல்…">
-<!ENTITY glodaSearchBar.facet.label "தேடல்:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "ஒவ்வொருபொருளும்">
-<!ENTITY glodaSearchFacet.subject.label "விடயம்">
-<!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
-<!ENTITY glodaSearchFacet.to.label "To, CC">
-<!ENTITY glodaSearchFacet.from.label "From">
-<!ENTITY glodaSearchFacet.body.label "தகவல் உரை">
-<!ENTITY glodaSearchFacet.attachmentNames.label "உடணினைப்பு பெயர்கள்">
-<!ENTITY glodaSearchBar.location.label "இடம்:">
-<!ENTITY glodaSearchFacet.everywhere.label "கோப்புறைகள் யாவும்">
-<!ENTITY glodaSearchFacet.folder.label "குறிப்பிட்ட கோப்புறையில்…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "விடயம்">
@@ -613,15 +601,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.label "பெறப்பட்ட ஒழுங்கு முறை">
 <!ENTITY attachmentColumn.label "உடனிணைப்புக்கள்">
 
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Why">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Score">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "நிரல்களை தெரிவுசெய்து காட்சிப்படுத்துவதற்கு சொடுக்குக">
@@ -644,8 +623,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "இருப்பிடத்தைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
 <!ENTITY idColumn.tooltip "பெறப்பட்ட ஒழுங்கைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
 <!ENTITY attachmentColumn.tooltip "உடனிணைப்புக்களைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
-<!ENTITY glodaScoreColumn.tooltip "Click to sort by the search score">
+
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "செய்தியை புதிய சாரளத்தில் திறக்க">
@@ -679,6 +657,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "அச்சிடல் முன்னோக்கு">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Search messages…">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "கூள அஞ்சல்">
 <!ENTITY junkBarButton1.label "கூளம் அல்ல">
@@ -697,6 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY more.label "மேலும்">
 
 <!-- Quick Search Bar -->
+<!ENTITY searchEverywhere.label "Search everywhere">
 <!ENTITY quickSearchCmd.key "k">
 
 <!-- Message Header Context Menu -->
