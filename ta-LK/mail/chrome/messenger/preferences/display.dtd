@@ -15,12 +15,7 @@
 <!ENTITY color.label "நிறம்:">
 <!ENTITY color.accesskey "c">
 <!ENTITY displayWidth.label "எளிய உரை அஞ்சல்கள்">
-<!ENTITY plainText.label "பின்வரும் எழுத்துருவை பயன்படுத்துக:">
 <!ENTITY displayText.label "மேற்கோளுள்ள எளிய உரை அஞ்சல்களை காண்பிக்கும் போது:">
-<!ENTITY fixedWidth.label "நிலையான அகலமுள்ள எழுத்துரு">
-<!ENTITY fixedWidth.accesskey "x">
-<!ENTITY variableWidth.label "மாறும் அகலமுள்ள எழுத்துரு">
-<!ENTITY variableWidth.accesskey "V">
 <!ENTITY colors.label "நிறங்கள்">
 <!ENTITY overrideColors.label "அஞ்சல்களை காண்பிக்கும் போது, பின்வரும் நிறங்களை பயன்படுத்துக:">
 <!ENTITY textColor.label "உரை நிறம்:">
@@ -40,9 +35,12 @@
 <!ENTITY editTagButton.accesskey "E">
 <!ENTITY removeTagButton.label "நீக்குக">
 <!ENTITY removeTagButton.accesskey "l">
-<!-- Fonts -->
 
-<!ENTITY fontAndEncodingsDescription.label "&brandShortName;-ல் உபயோகிக்கப்படும் எழுத்துருக்களை வடிவமைக்கவும்">
-<!ENTITY fontsAndEncodingsCaption.label "எழுத்துருக்களும்  குறிமுறைகளும்">
-<!ENTITY fontOptions.accesskey "F">
-<!ENTITY fontOptions.label "எழுத்துருக்கள்">
+<!-- Fonts -->
+<!ENTITY fontsAndColors.label    "Fonts">
+<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Advanced…">
