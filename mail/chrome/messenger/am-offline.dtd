@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
 <!ENTITY doNotDownload.label "Para economizar espaço em disco, não receber para leitura offline:">
-<!ENTITY allFoldersOffline.label "Manter mensagens desta conta neste computador">
-<!ENTITY allFoldersOffline.accesskey "M">
+<!ENTITY allFoldersOffline.label "Preservar as mensagens desta conta neste computador">
+<!ENTITY allFoldersOffline.accesskey "P">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "s">
 <!ENTITY kb.label "KB">
@@ -12,23 +12,38 @@
 <!ENTITY nntpDownloadMsg.label "Mensagens com mais de">
 <!ENTITY nntpDownloadMsg.accesskey "n">
 <!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
+<!ENTITY retentionCleanupImap.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas (tanto as cópias locais como as originais no servidor remoto).">
+<!ENTITY retentionCleanupPop.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas (incluindo as originais no servidor remoto).">
 <!ENTITY retentionKeepMsg.label "Excluir mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "x">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "b">
+<!ENTITY retentionKeepRecent.label "Excluir tudo, exceto as últimas">
+<!ENTITY retentionKeepRecent.accesskey "E">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
-<!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
-<!ENTITY nntpRemoveMsgBody.accesskey "o">
+<!ENTITY retentionKeepUnreadHidden.label "Sempre excluir as mensagens lidas (ignora a opção de tempo)">
+<!ENTITY retentionApplyToFlagged.label "Sempre preservar as mensagens com estrela">
+<!ENTITY retentionApplyToFlagged.accesskey "S">
+<!ENTITY nntpRemoveMsgBody.label "Excluir o conteúdo de mensagens com mais de">
+<!ENTITY nntpRemoveMsgBody.accesskey "I">
 <!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura offline…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "v">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronizar mensagens">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
+
+<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+  useAutosyncAfter.label appear on a single line in preferences as follows:
+
+  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+-->
+<!ENTITY useAutosyncBefore.label         "Armazenar">
+<!ENTITY useAutosyncMiddle.label         "">
+<!ENTITY allInterval.label               "todas as">
+<!ENTITY dayInterval.label               "dias de">
+<!ENTITY weekInterval.label              "semanas de">
+<!ENTITY monthInterval.label             "meses de">
+<!ENTITY yearInterval.label              "anos de">
+<!ENTITY useAutosyncAfter.label          "mensagens">

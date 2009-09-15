@@ -7,7 +7,7 @@
 <!ENTITY newMenu.accesskey                              "N">
 <!ENTITY newContact.label                               "Contato de catálogo de endereços…">
 <!ENTITY newContact.accesskey                           "C">
-<!ENTITY newContact.key                                 "N">
+<!ENTITY newContact.key                                 "n">
 <!ENTITY newListCmd.label                               "Lista de emails…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Catálogo…">
@@ -31,7 +31,7 @@
 <!ENTITY printPreviewAddressBook.accesskey              "V">
 <!ENTITY printContactCmd.label                          "Imprimir contato…">
 <!ENTITY printContactCmd.accesskey                      "I">
-<!ENTITY printContactCmd.key                            "P">
+<!ENTITY printContactCmd.key                            "p">
 <!ENTITY printAddressBook.label                         "Imprimir catálogo…">
 <!ENTITY printAddressBook.accesskey                     "a">
 
@@ -169,7 +169,7 @@
 <!ENTITY PagerNumber.label                              "Pager">
 <!ENTITY PagerNumber.accesskey                          "p">
 <!ENTITY FaxNumber.label                                "Fax">
-<!ENTITY FaxNumber.accesskey                            "f">
+<!ENTITY FaxNumber.accesskey                            "x">
 <!ENTITY HomePhone.label                                "Telefone residencial">
 <!ENTITY HomePhone.accesskey                            "d">
 <!ENTITY WorkPhone.label                                "Telefone comercial">

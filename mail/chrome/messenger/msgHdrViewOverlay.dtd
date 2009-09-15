@@ -66,10 +66,16 @@
 <!ENTITY trashButton.tooltiptext "excluir">
 
 <!ENTITY otherActionsButton.label "outras ações">
+<!ENTITY otherActionsOpenInNewWindow.label "abrir em nova janela">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "a">
+<!ENTITY otherActionsOpenInNewTab.label "abrir em nova aba">
+<!ENTITY otherActionsOpenInNewTab.accesskey "b">
 <!ENTITY saveAsMenuItem.label "salvar como…">
 <!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "código-fonte…">
-<!ENTITY viewSourceMenuItem.accesskey "f">
+<!ENTITY viewSourceMenuItem.label "exibir código-fonte">
+<!ENTITY viewSourceMenuItem.accesskey "x">
+<!ENTITY otherActionsPrint.label "imprimir…">
+<!ENTITY otherActionsPrint.accesskey "i">
 
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY openAttachmentCmd.accesskey    "A">

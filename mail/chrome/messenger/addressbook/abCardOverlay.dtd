@@ -80,7 +80,7 @@
 <!ENTITY ScreenName.accesskey           "N">
 
 <!ENTITY allowRemoteContent1.label      "Permitir conteúdo remoto">
-<!ENTITY allowRemoteContent1.accesskey  "P">
+<!ENTITY allowRemoteContent1.accesskey  "t">
 <!ENTITY allowRemoteContent1.tooltip    "Em mensagens HTML é possível embutir conteúdo de fontes remotas. Ao ser aberta, uma mensagem dessas irá realizar uma conexão para estas fontes. Isto pode permitir o rastreamento da leitura da mensagem. Marque esta opção para permitir conteúdos externos em mensagens HTML deste contato.">
 
 <!ENTITY WorkPhone.label                "Comercial:">
@@ -88,7 +88,7 @@
 <!ENTITY HomePhone.label                "Residencial:">
 <!ENTITY HomePhone.accesskey            "R">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "p">
 <!ENTITY CellularNumber.label           "Celular:">
@@ -153,3 +153,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Observações:">
 <!ENTITY Notes.accesskey                "b">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Selecione uma destas opções:">
+<!ENTITY GenericPhoto.label             "Foto genérica">
+<!ENTITY GenericPhoto.accesskey         "o">
+<!ENTITY DefaultPhoto.label             "Padrão">
+<!ENTITY PhotoFile.label                "Neste computador">
+<!ENTITY PhotoFile.accesskey            "N">
+<!ENTITY BrowsePhoto.label              "Procurar…">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Na web">
+<!ENTITY PhotoURL.accesskey             "w">
+<!ENTITY PhotoURL.emptytext             "Forneça o endereço web de uma foto">
+<!ENTITY UpdatePhoto.label              "Atualizar">
+<!ENTITY UpdatePhoto.accesskey          "A">

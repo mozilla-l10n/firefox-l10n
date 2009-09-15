@@ -111,7 +111,7 @@
 <!ENTITY optionsMenu.label "Opções">
 <!ENTITY optionsMenu.accesskey "O">
 <!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
-<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key "P">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
@@ -162,7 +162,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.key "B">
+<!ENTITY addressBookCmd.key "b">
 <!ENTITY accountManagerCmd.label "Configurar contas…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "n">

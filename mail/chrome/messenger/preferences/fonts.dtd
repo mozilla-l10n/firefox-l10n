@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Fontes padrão para:">
 <!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  sizes.label                             "Tam. (pixels):">
+<!ENTITY  size.label                              "Tam.:">
 <!ENTITY  proportionalSize.accesskey              "T">
-<!ENTITY  monospaceSize.accesskey                 "a">
+<!ENTITY  sizeMono.accesskey                      "a">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "Com serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Controle das fontes">
+<!ENTITY  useFixedWidthForPlainText.label         "Usar fonte monoespaçada em mensagens sem formatação">
+<!ENTITY  fixedWidth.accesskey                    "U">
 <!ENTITY  useDocumentFonts.label                  "Mensagens podem usar outras fontes">
 <!ENTITY  useDocumentFonts.accesskey              "n">
 
