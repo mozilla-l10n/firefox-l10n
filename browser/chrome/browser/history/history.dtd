@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "f">
 <!ENTITY openInNewWindow.label "Åpne i nytt vindu">
 <!ENTITY openInNewWindow.accesskey "n">
-<!ENTITY bookmarkLink.label "Lag bokmerke av lenke …">
-<!ENTITY bookmarkLink.accesskey "L">
 <!ENTITY copyLink.label "Kopier lenkemål">
 <!ENTITY copyLink.accesskey "K">
