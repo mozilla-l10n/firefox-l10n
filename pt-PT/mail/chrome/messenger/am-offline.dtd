@@ -32,3 +32,18 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronização de mensagem">
 <!ENTITY diskspaceGroupTitle.label "Espaço em Disco">
+
+<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+  useAutosyncAfter.label appear on a single line in preferences as follows:
+
+  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+-->
+<!ENTITY useAutosyncBefore.label         "">
+<!ENTITY useAutosyncMiddle.label         "">
+<!ENTITY allInterval.label               "Tudo">
+<!ENTITY dayInterval.label               "Dias da">
+<!ENTITY weekInterval.label              "Semanas do">
+<!ENTITY monthInterval.label             "Meses do">
+<!ENTITY yearInterval.label              "Anos do">
+<!ENTITY useAutosyncAfter.label          "O correio vais ser guardado no disco">
