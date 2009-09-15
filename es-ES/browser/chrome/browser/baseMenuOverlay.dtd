@@ -9,15 +9,16 @@
 <!ENTITY helpMenuWin.accesskey "u">
 <!ENTITY aboutCmd.label "Acerca de &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
-<!ENTITY helpContents.label "Contenido de la ayuda">
-<!ENTITY helpContents.accesskey "u">
-<!ENTITY helpContentsMac.label "Ayuda de &brandShortName;">
+<!ENTITY productHelp.label "Ayuda de &brandShortName;">
+<!ENTITY productHelp.accesskey "A">
 <!ENTITY helpForIEUsers.label "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Notas de publicación">
 <!ENTITY helpReleaseNotes.accesskey "N">
+<!ENTITY helpTroubleshooting.label "Información sobre el solucionador de problemas">
+<!ENTITY helpTroubleshooting.accesskey "I">
 <!ENTITY updateCmd.label "Buscar actualizaciones…">
 <!ENTITY preferencesCmdMac.label "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey ",">
