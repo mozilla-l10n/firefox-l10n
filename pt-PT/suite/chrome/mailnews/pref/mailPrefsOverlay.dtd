@@ -1,6 +1,4 @@
 <!-- These are added to the Advanced - Scripts & Plug-ins panel -->
-<!ENTITY enbJsCheckMailNews.label         "Correio &amp; Grupos de Discussão">
-<!ENTITY enbJsCheckMailNews.accesskey     "C">
 <!ENTITY enbPluginCheckMailNews.label     "Correio &amp; Grupos de Discussão">
 <!ENTITY enbPluginCheckMailNews.accesskey "o">
 
