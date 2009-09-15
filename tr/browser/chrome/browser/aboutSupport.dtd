@@ -1,0 +1,31 @@
+<!ENTITY aboutSupport.pageTitle "Sorun giderme bilgileri">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "
+  This page contains technical information that might be useful when you're 
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Eklentiler">
+<!ENTITY aboutSupport.extensionName "Adı">
+<!ENTITY aboutSupport.extensionEnabled "Etkin">
+<!ENTITY aboutSupport.extensionVersion "Sürüm">
+<!ENTITY aboutSupport.extensionFirstRun "İlk çalıştırma">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Uygulama ayrıntıları">
+<!ENTITY aboutSupport.appBasicsName "Adı">
+<!ENTITY aboutSupport.appBasicsVersion "Sürüm">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profil dizini">
+<!ENTITY aboutSupport.appBasicsPlugins "Kurulu yan uygulamalar">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Derleme yapılandırması">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Değiştirilmiş ayarlar">
+<!ENTITY aboutSupport.modifiedPrefsName "Adı">
+<!ENTITY aboutSupport.modifiedPrefsValue "Değer">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Kurulum geçmişi">
+<!ENTITY aboutSupport.updateHistoryTitle "Güncelleme geçmişi">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Tümünü panoya kopyala">

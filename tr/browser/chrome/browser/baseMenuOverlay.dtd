@@ -12,9 +12,8 @@
 <!ENTITY helpMenuWin.accesskey "Y">
 <!ENTITY aboutCmd.label "&brandFullName; hakkında">
 <!ENTITY aboutCmd.accesskey "h">
-<!ENTITY helpContents.label "Yardım içeriği">
-<!ENTITY helpContents.accesskey "m">
-<!ENTITY helpContentsMac.label "&brandShortName; yardımı">
+<!ENTITY productHelp.label "&brandShortName; yardımı">
+<!ENTITY productHelp.accesskey "y">
 <!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına…">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -22,6 +21,10 @@
 
 <!ENTITY helpReleaseNotes.label "Sürüm notları">
 <!ENTITY helpReleaseNotes.accesskey "r">
+
+<!ENTITY helpTroubleshooting.label "Sorun giderme bilgileri…">
+<!ENTITY helpTroubleshooting.accesskey "S">
+
 <!ENTITY updateCmd.label "Güncellemeleri denetle…">
 
 <!ENTITY preferencesCmdMac.label "Tercihler…">
