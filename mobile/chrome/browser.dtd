@@ -14,7 +14,6 @@
 <!ENTITY openLocation.tooltip  "Adresse öffnen">
 <!ENTITY star.label            "Markieren">
 <!ENTITY star.tooltip          "Lesezeichen setzen">
-<!ENTITY bookmarks.label       "Lesezeichen">
 <!ENTITY bookmarks.tooltip     "Lesezeichen anzeigen">
 
 <!ENTITY newtab.label          "Neuer Tab">
@@ -82,6 +81,7 @@
 <!ENTITY downloadRetry.label       "Nochmals versuchen">
 
 <!ENTITY noResults.label           "Keine Ergebnisse">
+<!ENTITY allBookmarks.label        "Alle Lesezeichen anzeigen">
 
 <!ENTITY identity.unverifiedsite2 "Diese Website stellt keine Identitätsdaten zur Verfügung.">
 <!ENTITY identity.connectedTo2 "Sie sind verbunden mit">
