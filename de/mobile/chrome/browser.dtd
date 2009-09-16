@@ -1,20 +1,11 @@
 <!ENTITY back.label            "Zurück">
-<!ENTITY back.tooltip          "Zurück">
 <!ENTITY forward.label         "Vor">
-<!ENTITY forward.tooltip       "Vor">
 <!ENTITY reload.label          "Neu laden">
-<!ENTITY reload.tooltip        "Neu laden">
 <!ENTITY stop.label            "Stopp">
-<!ENTITY stop.tooltip          "Stopp">
 <!ENTITY search.label          "Suchen">
-<!ENTITY search.tooltip        "Suchen">
 <!ENTITY go.label              "Go">
-<!ENTITY go.tooltip            "Wechseln zu">
 <!ENTITY openLocation.label    "Adresse öffnen">
-<!ENTITY openLocation.tooltip  "Adresse öffnen">
 <!ENTITY star.label            "Markieren">
-<!ENTITY star.tooltip          "Lesezeichen setzen">
-<!ENTITY bookmarks.tooltip     "Lesezeichen anzeigen">
 
 <!ENTITY newtab.label          "Neuer Tab">
 <!ENTITY closetab.label        "Tab schließen">
@@ -55,12 +46,14 @@
 <!ENTITY addonsRepo.label          "Add-ons herunterladen">
 <!ENTITY addonsRecommended.label   "Empfohlen">
 <!ENTITY addonsSearch.label        "Suchen">
-<!ENTITY addonsSearch.emptytext    "Alle Add-ons durchsuchen">
+<!ENTITY addonsSearch2.emptytext   "Katalog durchsuchen">
+<!ENTITY addonsSearch.recommended  "Empfehlungen">
+
 
 <!ENTITY addonOptions.label        "Einstellungen">
 <!ENTITY addonEnable.label         "Aktivieren">
 <!ENTITY addonDisable.label        "Deaktivieren">
-<!ENTITY addonInstall.label        "Installieren">
+<!ENTITY addonInstall2.label       "Zu &brandShortName; hinzufügen">
 <!ENTITY addonUninstall.label      "Deinstallieren">
 <!ENTITY addonCancel.label         "Abbrechen">
 <!ENTITY addonShowPage.label       "Homepage besuchen">
@@ -70,7 +63,7 @@
 <!ENTITY downloadsSortSite.label   "Website">
 <!ENTITY downloadsSortName.label   "Name">
 <!ENTITY downloadsSearch.label     "Suchen">
-<!ENTITY downloadsSearch.emptytext "Nach heruntergeladener Datei suchen">
+<!ENTITY downloadsSearch2.emptytext "Suchen">
 
 <!ENTITY downloadShowPage.label    "Zur Download-Seite gehen">
 <!ENTITY downloadShow2.label       "Finden">
