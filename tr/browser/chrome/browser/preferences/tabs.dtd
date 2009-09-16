@@ -1,4 +1,4 @@
-<!ENTITY newWindowsAsTabs.label "Yeni pencereleri yeni sekmede aç">
+<!ENTITY newWindowsAsTabs.label "Yeni pencere yerine yeni sekme aç">
 <!ENTITY newWindowsAsTabs.accesskey "c">
 
 <!ENTITY warnCloseMultipleTabs.label "Çok sayıda sekme kapatılırken beni uyar">
