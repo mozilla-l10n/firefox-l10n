@@ -14,7 +14,7 @@
 <!ENTITY searchMsgsLink.label "İletilerde ara">
 <!ENTITY filtersLink.label "Posta süzgeçlerin yönetimi">
 <!ENTITY junkSettings.label "Gereksiz posta ayarları">
-<!ENTITY offlineLink.label "Çevrimdışı ayarları">
+<!ENTITY offlineLink.label "Çevrim dışı ayarları">
 
 <!ENTITY feedsSectionHdr.label "Canlı yer imleri">
 <!ENTITY subscribeFeeds.label "Aboneliklerini denetle…">

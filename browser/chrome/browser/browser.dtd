@@ -29,7 +29,7 @@
 <!ENTITY import.label "İçe aktar…">
 <!ENTITY import.accesskey "a">
 
-<!ENTITY goOfflineCmd.label "Çevrimdışı çalış">
+<!ENTITY goOfflineCmd.label "Çevrim dışı çalış">
 <!ENTITY goOfflineCmd.accesskey "Ç">
 
 <!ENTITY menubarCmd.label "Menü çubuğu">

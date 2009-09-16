@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Yer sıkıntısı çekmemek için indirilmeyenler:">
-<!ENTITY doNotDownload.label "Sabit diske kaydet (çevrimdışı kullanım için indirme):">
+<!ENTITY doNotDownload.label "Sabit diske kaydet (çevrim dışı kullanım için indirme):">
 <!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
 <!ENTITY allFoldersOffline.accesskey "H">
 <!ENTITY offlineNotDownload.label "İletiler">
