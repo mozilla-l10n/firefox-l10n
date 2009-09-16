@@ -23,7 +23,7 @@
 <!ENTITY bookmarksManage.label     "Verwalten">
 <!ENTITY foldersHeader.label       "Ordner">
 
-<!ENTITY editBookmarkEdit.label    "Bearbeiten">
+<!ENTITY editBookmarkRemove.label  "Entfernen">
 <!ENTITY editBookmarkMove.label    "Verschieben">
 <!ENTITY editBookmarkDone.label    "Fertig">
 <!ENTITY editBookmarkTags.label    "Schlagwörter hier eintragen">
