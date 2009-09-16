@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label                 "Automatisch controleren op updates voor:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Geïnstalleerde add-ons">
-<!ENTITY enableAddonsUpdate.accesskey    "G">
+<!ENTITY enableAddonsUpdate2.label       "Add-ons">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Zoekmachines">
 <!ENTITY enableSearchUpdate.accesskey    "Z">
 <!ENTITY whenUpdatesFound.label          "Als er updates voor &brandShortName; worden gevonden:">
