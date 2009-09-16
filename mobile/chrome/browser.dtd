@@ -99,7 +99,7 @@
 <!ENTITY consoleMessages.label     "Mitteilungen">
 <!ENTITY consoleCodeEval.label     "Code:">
 <!ENTITY consoleClear.label        "Löschen">
-<!ENTITY consoleEvaluate.label     "Evaluieren">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Quelldatei:">
 <!ENTITY consoleErrLine.label      "Zeile:">
 <!ENTITY consoleErrColumn.label    "Spalte:">

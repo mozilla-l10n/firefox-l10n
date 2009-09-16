@@ -1,3 +1,4 @@
+<!ENTITY prefsHeader.label                         "Einstellungen">
 <!ENTITY content.title                             "Inhalt">
 <!ENTITY showImages.title                          "Grafiken laden">
 <!ENTITY enableJavaScript.title                    "JavaScript aktivieren">
