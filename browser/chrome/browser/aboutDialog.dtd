@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title          "Acerca de &brandFullName;">
+<!ENTITY copyright                  "Créditos">
+<!ENTITY copyright.accesskey        "C">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY aboutLink                  "&lt; Acerca de &brandFullName;">
+<!ENTITY aboutLink.accesskey        "A">
+<!ENTITY aboutVersion               "versión">
+<!ENTITY closeCmdGNOME.label        "Cerrar">  
+<!ENTITY closeCmdGNOME.accesskey    "C">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 Colaboradores. Todos los derechos reservados. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Información sobre licencias">
+<!ENTITY copyrightInfo2             ").">

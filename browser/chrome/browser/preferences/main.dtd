@@ -1,0 +1,37 @@
+<!ENTITY startup.label             "Inicio">
+
+<!ENTITY startupPage.label         "Cuando &brandShortName; cargue:">
+<!ENTITY startupPage.accesskey     "C">
+<!ENTITY startupHomePage.label     "Mostrar mi página de inicio">
+<!ENTITY startupBlankPage.label    "Mostrar una página en blanco">
+<!ENTITY startupLastSession.label  "Mostrar mis ventanas y pestañas de la última sesión">
+<!ENTITY location.label            "Página de inicio:">
+<!ENTITY location.accesskey        "P">
+<!ENTITY useCurrentPage.label      "Usar página actual">
+<!ENTITY useCurrentPage.accesskey  "c">
+<!ENTITY useMultiple.label         "Usar páginas actuales">
+<!ENTITY useBookmark.label         "Usar marcador">
+<!ENTITY useBookmark.accesskey     "U">
+<!ENTITY restoreDefault.label      "Restaurar predeterminados">
+<!ENTITY restoreDefault.accesskey  "R">
+
+<!ENTITY downloads.label     "Descargas">
+
+<!ENTITY showWhenDownloading.label     "Mostrar ventana de Descargas cuando baje un archivo">
+<!ENTITY showWhenDownloading.accesskey "d">
+<!ENTITY closeWhenDone.label "Cerrarla cuando todas las descargas hayan terminado">
+<!ENTITY closeWhenDone.accesskey "C">
+<!ENTITY saveTo.label "Guardar archivos en">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label        "Examinar…">
+<!ENTITY chooseFolderWin.accesskey    "E">
+<!ENTITY chooseFolderMac.label        "Seleccionar…">
+<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAsk.label "Siempre preguntar donde guardar los archivos">
+<!ENTITY alwaysAsk.accesskey "a">
+
+<!ENTITY addonsMgr.label               "Agregados">
+<!ENTITY manageAddonsDescWin.label     "Cambiar opciones para sus agregados">
+<!ENTITY manageAddonsDescUnix2.label   "Cambiar preferencias para sus agregados">
+<!ENTITY manageAddons.label            "Administrar agregados…">
+<!ENTITY manageAddons.accesskey        "m">
