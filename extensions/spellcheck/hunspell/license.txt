@@ -1,10 +1,11 @@
-This is Ukrainian spelling dictionary for Firefox 2.0 and it is based on 
+This is Ukrainian spelling dictionary for Firefox >=3, Thunderbird >= 3 and Seamonkey 
+that use hunspell as spelling engine and it is based on 
 dictionary of spell-uk project http://ispell-uk.sourceforge.net/
 
-xpi package authors: 
+xpi package authors:
   Yaroslav Krytsun <slavko7@gmail.com>, 2006
-  Andriy Rysin <arysin@yahoo.com>, 2007
-This is Ukrainian spelling dictionary for myspell.
+  Andriy Rysin <arysin@yahoo.com>, 2007 — 2009
+This is Ukrainian spelling dictionary for myspell & hunspell version 1.6.0.
 
 This dictionary based on spell-uk project http://ispell-uk.sourceforge.net/
 
@@ -27,7 +28,7 @@ Copyright (C) 2005
     Eugeniy Meshcheryakov
     Dmytro Kovalyov
 
-Copyright (C) 2006-2007
+Copyright (C) 2006-2009
     Andriy Rysin
 
-This dictionary is licensed under GPL, LGPL and MPL (Mozilla Public License) licenses.
+This dictionary is licensed under GPL 2.0 or above, LGPL 2.1 or above and MPL (Mozilla Public License) 1.1 licenses.

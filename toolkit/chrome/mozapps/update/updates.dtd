@@ -7,13 +7,10 @@
 
 
 <!ENTITY noupdatesfound.title "Оновлення відсутні">
-<!ENTITY  noupdatesautoenabled.intro      "Оновлення відсутні. &brandShortName; буде періодично перевіряти наявніть оновлень.">
-<!-- FIXME: localize -->
-<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable &brandShortName;'s automatic update checking.">
+<!ENTITY  noupdatesautoenabled.intro      "Оновлення відсутні. &brandShortName; буде періодично перевіряти наявніcть оновлень.">
+<!ENTITY  noupdatesautodisabled.intro     "Оновлення відсутні. Будь ласка перевірте ще раз пізніше, або увімкніть автоматичну перевірку оновлень &brandShortName;.">
 
 <!ENTITY clickHere.label "Переглянути докладнішу інформацію про це оновлення">
-
-
 
 <!ENTITY license.instructions "Якщо ви згодні з умовами цієї ліцензійної угоди, натисніть на кнопку Я згоден для продовження установки цього оновлення.">
 
@@ -38,9 +35,6 @@
                                            
 <!ENTITY errorpatching.title "Помилка оновлення">
 <!ENTITY errorpatching.intro "Часткове оновлення не може бути встановлене. &brandShortName; спробує встановити оновлення, завантаживши повне оновлення.">
-
-
-<!ENTITY finishedBackground.name "Оновлення:">
 
 <!ENTITY installed.title "Оновлення встановлено">
 <!ENTITY installed.intro "Оновлення було успішно встановлено.">
@@ -68,3 +62,12 @@
 <!ENTITY  incompatibleList.title          "Знайдено несумісні додатки">
 <!ENTITY  updateCheck.label               "Пошук нових версій &brandShortName;…">
 <!ENTITY  viewDetails.tooltip             "Переглянути подробиці щодо цього оновлення">
+
+
+<!-- FIXME: localize -->
+<!ENTITY  manualUpdate.title              "Unable to Update">
+<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
+                                           not have the system permissions required to install it. Please contact your
+                                           system administrator, or try again from an account that has permission to
+                                           install software on this computer.">
+<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">

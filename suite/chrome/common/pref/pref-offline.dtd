@@ -1,0 +1,6 @@
+<!ENTITY window.title "Автономно">
+<!ENTITY boxHeader "Автономно">
+<!ENTITY rHeader "Автономно">
+<!ENTITY textStart "When starting &brandShortName;:">
+<!ENTITY radioAskMode "Ask me if I want online or offline mode">
+<!ENTITY radioUsePrev "Use my previous online/offline state">

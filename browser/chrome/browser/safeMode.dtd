@@ -36,26 +36,26 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "&brandShortName; — Безпечний режим">
-<!ENTITY window.width "42em">
+<!ENTITY safeModeDialog.title         "&brandShortName; — Безпечний режим">
+<!ENTITY window.width                 "42em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; працює в безпечному режимі. У цьому режимі всі ваші налаштування тимчасово повернуто в типові, а теми і розширення вимкнено.">
-<!ENTITY safeModeDescription2.label "Проведені вами зміни налаштувань набудуть чинності після перезапуску браузера в звичайному режимі:">
+<!ENTITY safeModeDescription.label    "&brandShortName; працює в безпечному режимі. У цьому режимі всі ваші налаштування тимчасово повернуто в типові, а теми і розширення вимкнено.">
+<!ENTITY safeModeDescription2.label   "Проведені вами зміни налаштувань набудуть чинності після перезапуску браузера в звичайному режимі:">
 
-<!ENTITY disableAddons.label "Вимкнути всі додатки">
-<!ENTITY disableAddons.accesskey "і">
+<!ENTITY disableAddons.label          "Вимкнути всі додатки">
+<!ENTITY disableAddons.accesskey      "і">
 
-<!ENTITY resetToolbars.label "Скинути налаштування панелей інструментів і елементів управління">
-<!ENTITY resetToolbars.accesskey "и">
+<!ENTITY resetToolbars.label          "Скинути налаштування панелей інструментів і елементів управління">
+<!ENTITY resetToolbars.accesskey      "и">
 
-<!ENTITY resetBookmarks.label "Замінити ваші закладки на типові для &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "а">
+<!ENTITY resetBookmarks.label         "Замінити ваші закладки на типові для &brandShortName;">
+<!ENTITY resetBookmarks.accesskey     "а">
 
-<!ENTITY resetUserPrefs.label "Скинути всі налаштування на типові для &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey "и">
+<!ENTITY resetUserPrefs.label         "Скинути всі налаштування на типові для &brandShortName;">
+<!ENTITY resetUserPrefs.accesskey     "и">
 
-<!ENTITY restoreSearch.label "Відновити типовий набір засобів пошуку">
-<!ENTITY restoreSearch.accesskey "і">
+<!ENTITY restoreSearch.label          "Відновити типовий набір засобів пошуку">
+<!ENTITY restoreSearch.accesskey      "і">
 
 <!ENTITY changeAndRestartButton.label "Зробити зміни і перезапустити">
-<!ENTITY continueButton.label "Продовжити в безпечному режимі">
+<!ENTITY continueButton.label         "Продовжити в безпечному режимі">

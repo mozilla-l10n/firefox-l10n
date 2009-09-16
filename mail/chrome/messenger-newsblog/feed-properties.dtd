@@ -15,5 +15,5 @@
 <!ENTITY copyLinkCmd.label        "Копіювати посилання">
 <!ENTITY copyLinkCmd.accesskey    "и">
 
-<!ENTITY pasteLinkCmd.label       "Paste">
-<!ENTITY pasteLinkCmd.accesskey   "P">
+<!ENTITY pasteLinkCmd.label       "Вставити">
+<!ENTITY pasteLinkCmd.accesskey   "В">

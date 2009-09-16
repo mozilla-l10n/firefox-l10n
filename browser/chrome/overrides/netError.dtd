@@ -3,8 +3,8 @@
 
 <!ENTITY loadError.label "Проблема при завантаженні сторінки">
 <!ENTITY retry.label "Спробувати знову">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Невдала спроба з’єднання">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -101,7 +101,7 @@
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>Можливо сайт тимчасово недоступний або переобтяжений запитами. Почекайте трохи і спробуйте знову.</li> 
+<li>Можливо, сайт тимчасово недоступний або переобтяжений запитами. Почекайте трохи і спробуйте знову.</li> 
 <li>Якщо ви не можете завантажити жодну сторінку — перевірте настройки з’єднання з інтернетом.</li> 
 <li>Якщо ваш комп’ютер або мережа захищені фаєрволом або проксі-сервером — переконайтеся, що &brandShortName; дозволено вихід в інтернет.</li> 
 </ul>">
@@ -117,11 +117,11 @@
 <!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
 <!ENTITY securityOverride.exceptionButtonLabel "Зробити виняток">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningText "<p>Ви не повинні робити виняток якщо використовуєте з’єднання котрому не повністю довіряєте, або якщо ви вперше бачите попередження про цей сервер.</p> 
  

@@ -1,9 +1,9 @@
-<!ENTITY find.label "Знайти:">
-<!ENTITY find.accesskey "а">
-<!ENTITY expand.label "Розгорнути">
-<!ENTITY expand.accesskey "о">
-<!ENTITY collapse.label "Згорнути">
-<!ENTITY collapse.accesskey "о">
+<!ENTITY find.label                "Знайти:">
+<!ENTITY find.accesskey            "а">
+<!ENTITY expand.label              "Розгорнути">
+<!ENTITY expand.accesskey          "о">
+<!ENTITY collapse.label            "Згорнути">
+<!ENTITY collapse.accesskey        "о">
 <!ENTITY byDate.label "За датою">
 <!ENTITY byDate.accesskey "о">
 <!ENTITY bySite.label "За сайтом">

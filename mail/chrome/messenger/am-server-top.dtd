@@ -10,7 +10,6 @@
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "П">
 <!ENTITY serverPortDefault.label "За умовчанням:">
-<!ENTITY savePassword.label "Зберегти пароль">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -19,17 +18,12 @@
 <!ENTITY biffStart.label "Перевіряти наявність нових повідомлень кожні ">
 <!ENTITY biffStart.accesskey "е">
 <!ENTITY biffEnd.label "хвилин">
-<!ENTITY isSecure.label "Використовувати захищене з’єднання (SSL)">
-<!ENTITY isSecure.accesskey "р">
-<!ENTITY socketType.label "Використовувати захищене з’єднання:">
-<!ENTITY neverSecure.label "Ніколи">
-<!ENTITY neverSecure.accesskey "і">
-<!ENTITY sometimesSecure.label "TLS, по можливості">
-<!ENTITY sometimesSecure.accesskey "L">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "S">
+<!ENTITY connectionSecurity.label "Безпека з’єднання:">
+<!ENTITY connectionSecurity.accesskey "Б">
+<!ENTITY connectionSecurityType-0.label "Жодної">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, якщо є">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Використовувати захищену аутентифікацію">
 <!ENTITY useSecAuth.accesskey "у">
 <!ENTITY leaveOnServer.label "Залишати копії повідомлень на сервері">
@@ -39,8 +33,8 @@
 <!ENTITY deleteByAgeFromServer.label "Не більш">
 <!ENTITY deleteByAgeFromServer.accesskey "е">
 <!ENTITY daysEnd.label "днів">
-<!ENTITY deleteOnServer2.label "Until I delete them">
-<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY deleteOnServer2.label "Доки я їх не зітру">
+<!ENTITY deleteOnServer2.accesskey "к">
 <!ENTITY downloadOnBiff.label "Автоматично завантажувати нові повідомлення">
 <!ENTITY downloadOnBiff.accesskey "о">
 <!ENTITY username.label "Ваше реєстраційне ім’я">
@@ -56,11 +50,11 @@
 <!ENTITY expungeOnExit.accesskey "т">
 <!ENTITY emptyTrashOnExit.label "Очищувати «Кошик» при виході">
 <!ENTITY emptyTrashOnExit.accesskey "ч">
-<!ENTITY loginAtStartup.label "Перевіряти пошту при запуску"> 
+<!ENTITY loginAtStartup.label "Перевіряти пошту при запуску">
 <!ENTITY loginAtStartup.accesskey "в">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Питати перед завантаженням більш ніж">
 <!ENTITY maxMessagesStart.accesskey "П">
@@ -74,8 +68,8 @@
 <!ENTITY abbreviateOn.label "Повні (наприклад, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Абревіатури (наприклад, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Додатково…">
-<!ENTITY serverDefaultCharset.label "Кодування за умовчанням:">
 <!ENTITY advancedButton.accesskey "Д">
+<!ENTITY serverDefaultCharset.label "Кодування за умовчанням:">
 <!ENTITY localFolderPicker.label "Розташування локальних тек">
 <!ENTITY browseFolder.label "Огляд…">
 <!ENTITY browseFolder.accesskey "О">

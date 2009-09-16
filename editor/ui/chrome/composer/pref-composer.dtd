@@ -4,13 +4,10 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
-
-
-
 <!ENTITY  recentFiles.title             "Меню недавніх сторінок">
 <!ENTITY  documentsInMenu.label         "Найбільше число сторінок у списку:">
 <!ENTITY  documentsInMenu.accesskey     "Н">
-
+<!ENTITY  savingFiles.title             "При збереженні чи публікації сторінок">
 <!ENTITY  preserveExisting.label        "Зберігати оригінальне форматування початкового коду">
 <!ENTITY  preserveExisting.accesskey    "З">
 <!ENTITY  preserveExisting.tooltip      "Зберігати форматування та переноси оригінальної сторінки">
@@ -18,7 +15,6 @@
 <!ENTITY  saveAssociatedFiles.accesskey "п">
 <!ENTITY  showPublishDialog.label       "Завжди показувати діалог при публікації сторінок">
 <!ENTITY  showPublishDialog.accesskey   "д">
-
 <!ENTITY  composerEditing.label         "Редагування">
 <!ENTITY  maintainStructure.label       "Підтримувати макет таблиці при внесенні/вилученні клітин">
 <!ENTITY  maintainStructure.tooltip     "Зберігає прямокутну форму таблиці, автоматично додаючи клітини після вставки чи вилучення клітин">
@@ -27,6 +23,3 @@
 <!ENTITY  useCSS.accesskey              "с">
 <!ENTITY  crInPCreatesNewP.label        "Клавіша Enter в абзаці створює новий абзац">
 <!ENTITY  crInPCreatesNewP.accesskey    "К">
-
-<!-- FIXME: localize -->
-<!ENTITY  savingFiles.title             "When Saving or Publishing Pages">

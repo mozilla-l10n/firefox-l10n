@@ -3,26 +3,39 @@
 <!ENTITY printJobOptions.title "Властивості друку">
 
 <!ENTITY paperInput.label "Розмір паперу:">
+<!ENTITY paperInput.accesskey "Р">
 
 <!ENTITY plexInput.label "Режим сітки:">
+<!ENTITY plexInput.accesskey "т">
 
 <!ENTITY resolutionInput.label "Роздільна здатність/якість:">
+<!ENTITY resolutionInput.accesskey "я">
 
 <!ENTITY cmdInput.label "Команда для друку:">
+<!ENTITY cmdInput.accesskey "К">
 
 <!ENTITY jobTitleInput.label "Назва завдання:">
+<!ENTITY jobTitleInput.accesskey "Н">
 
 <!ENTITY colorGroup.label "Колір:">
+<!ENTITY colorRadio.accesskey "л">
 <!ENTITY grayRadio.label "Відтінки сірого">
+<!ENTITY grayRadio.accesskey "с">
 <!ENTITY colorRadio.label "Колір">
 
 <!ENTITY colorspaceInput.label "Кольори:">
+<!ENTITY colorspaceInput.accesskey "ь">
 
 <!ENTITY fontsGroup.label "Шрифти:">
 <!ENTITY downloadFonts.label "Завантажити шрифти для друку?">
+<!ENTITY downloadFonts.accesskey "ш">
 
 <!ENTITY edgeMarginInput.label "Відступити від краю паперу до поля">
 <!ENTITY topInput.label "Вгорі:">
-<!ENTITY bottomInput.label "Внизу:">
+<!ENTITY topInput.accesskey "г">
+<!ENTITY bottomInput.label "Знизу:">
+<!ENTITY bottomInput.accesskey "З">
 <!ENTITY leftInput.label "Ліворуч:">
+<!ENTITY leftInput.accesskey "Л">
 <!ENTITY rightInput.label "Праворуч:">
+<!ENTITY rightInput.accesskey "П">

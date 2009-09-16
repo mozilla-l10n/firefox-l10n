@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Потайливий режим">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "Потайливий режим">
+<!ENTITY privatebrowsingpage.title                 "Потайливий режим">
+<!ENTITY privatebrowsingpage.title.normal          "Бажаете перейти у потайливий режим??">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; не запам’ятовуватиме історію цього сеансу.">
-<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; не запише жодних даних про цей сеанс перегляду. Маються на увазі історія браузеру, історія пошуків, історія завантажень, історія веб-форм, куки та тимчасові мережеві файли.  Однак завантажені вами файли та поставлені вами закладки лишаться.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; наразі не працює у потайливому режимі.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Ви можете також для початку вичистити вашу недавню історію.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Вичистити недавню історію">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "В">
+<!ENTITY privatebrowsingpage.description               "У потайливому режимі &brandShortName; не запише ні історію перегляду, ні історію пошуків, ні історію завантажень, ні історію веб-форм, ні куки чи тимчасові мережеві файли.  Однак завантажені вами файли та поставлені вами закладки лишаться.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Щоб вийти з потайливого режиму зніміть прапорець Інструменти &gt; Потайливий режим">
-<!ENTITY privatebrowsingpage.footerDesc                "Насолоджуйтесь!">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Ви можете також для початку ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "вичистити недавню історію">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Увімкнути потайливий режим">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "П">
+
+<!ENTITY privatebrowsingpage.howToStop                 "Щоб вийти з потайливого режиму, виберіть &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, чи закрийте &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "Щоб перейти у потайливий режим ви можете також вибрати &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Хоча цей комп’ютер і не буде мати історію ваших переглядів, ваш інтернет-провайдер чи роботодавець все одно може відстежити які сторінки ви відвідували.">
+<!ENTITY privatebrowsingpage.learnMore                 "Дізнатись більше">

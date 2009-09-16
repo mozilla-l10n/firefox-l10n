@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -65,6 +65,13 @@
 <!ENTITY return.accesskey                  "в">
 <!ENTITY results.label                     "результатів">
 <!ENTITY offlineText.label                 "Ви можете завантажити копію цього каталога для використання в автономному режимі роботи.">
+<!ENTITY saslMechanism.label               "Спосіб входу: ">
+<!ENTITY saslMechanism.accesskey           "с">
+<!ENTITY saslOff.label                     "Простий">
+<!ENTITY saslOff.accesskey                 "П">
+<!ENTITY saslGSSAPI.label                  "Кербер (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "К">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

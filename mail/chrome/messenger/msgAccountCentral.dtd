@@ -16,6 +16,5 @@
 <!ENTITY junkSettings.label           "Параметри анти-спам фільтрів">
 <!ENTITY offlineLink.label            "Параметри автономної роботи">
 
-
-<!ENTITY rssSectionHdr.label          "Новини та блоги"> 
-<!ENTITY subscibeRSS.label            "Упорядкувати підписки">
+<!ENTITY feedsSectionHdr.label        "Стрічки">
+<!ENTITY subscribeFeeds.label         "Упорядкувати підписки">
