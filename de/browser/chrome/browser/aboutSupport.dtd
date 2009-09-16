@@ -1,0 +1,33 @@
+<!ENTITY aboutSupport.pageTitle "Informationen zur Fehlerbehebung">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Diese Seite beinhaltet technische Informationen, die nützlich sein könnten, 
+  wenn Sie versuchen, ein Problem zu lösen. Wenn Sie nach Antworten auf häufig 
+  gestellten Fragen zu &brandShortName; suchen, besuchen Sie bitte unsere 
+  <a id='supportLink'>Hilfeseite</a>.
+">
+
+
+<!ENTITY aboutSupport.extensionsTitle "Erweiterungen">
+<!ENTITY aboutSupport.extensionName "Name">
+<!ENTITY aboutSupport.extensionEnabled "Aktiviert">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionFirstRun "FirstRun">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Grundlegende Informationen">
+<!ENTITY aboutSupport.appBasicsName "Name">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profil-Verzeichnis">
+<!ENTITY aboutSupport.appBasicsPlugins "Installierte Plugins">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build-Konfiguration">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Modifizierte Einstellungen">
+<!ENTITY aboutSupport.modifiedPrefsName "Name">
+<!ENTITY aboutSupport.modifiedPrefsValue "Wert">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Installations-Chronik">
+<!ENTITY aboutSupport.updateHistoryTitle "Update-Chronik">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Alles in die Zwischenablage kopieren">
