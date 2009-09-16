@@ -22,7 +22,11 @@
 
 <!ENTITY helpReleaseNotes.label         "Versionshinweise">
 <!ENTITY helpReleaseNotes.accesskey     "V">
-<!ENTITY updateCmd.label                "&brandShortName; aktualisieren…">
+
+<!ENTITY helpTroubleshooting.label      "Informationen zur Fehlerbehebung…">
+<!ENTITY helpTroubleshooting.accesskey  "z">
+
+<!ENTITY updateCmd.label                "Nach Updates suchen…">
 
 <!ENTITY preferencesCmdMac.label        "Einstellungen…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
