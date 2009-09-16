@@ -77,7 +77,7 @@
 <!ENTITY offlineFolder.button.label "Hemen İndir">
 <!ENTITY offlineFolder.button.accesskey "d">
 
-<!ENTITY selectofflineNewsgroup.check.label "Bu haber grubunu çevrimdışı kullanımı için seç">
+<!ENTITY selectofflineNewsgroup.check.label "Bu haber grubunu çevrim dışı kullanımı için seç">
 <!ENTITY selectofflineNewsgroup.check.accesskey "u">
 <!ENTITY offlineNewsgroup.button.label "Hemen İndir">
 <!ENTITY offlineNewsgroup.button.accesskey "d">

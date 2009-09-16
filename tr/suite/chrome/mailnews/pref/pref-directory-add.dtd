@@ -49,7 +49,7 @@
 <!ENTITY directoryLogin.label "Kullanıcı adı ve parola ile oturum aç">
 <!ENTITY directoryLogin.accesskey "K">
 <!ENTITY General.tab "Genel">
-<!ENTITY Offline.tab "Çevrimdışı">
+<!ENTITY Offline.tab "Çevrim dışı">
 <!ENTITY Advanced.tab "Gelişmiş">
 <!ENTITY portNumber.label "Port numarası:">
 <!ENTITY portNumber.accesskey "P">
@@ -64,7 +64,7 @@
 <!ENTITY return.label "Daha fazla döndürme">
 <!ENTITY return.accesskey "h">
 <!ENTITY results.label "sonuç">
-<!ENTITY offlineText.label "Çevrimdışı çalıştığınızda kullanabilmek için bu dizinin yerel bir kopyasını bilgisayarınıza alabilirsiniz.">
+<!ENTITY offlineText.label "Çevrim dışı çalıştığınızda kullanabilmek için bu dizinin yerel bir kopyasını bilgisayarınıza alabilirsiniz.">
 <!ENTITY saslMechanism.label "Giriş yöntemı: ">
 <!ENTITY saslMechanism.accesskey "y">
 <!ENTITY saslOff.label "Basit (Simple)">
