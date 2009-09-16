@@ -12,7 +12,6 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "Über &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "e">
-<!ENTITY helpContents.label       "Hilfethemen">
 <!ENTITY productHelp.label        "&brandShortName; Hilfe">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Für Anwender des Internet Explorers">
