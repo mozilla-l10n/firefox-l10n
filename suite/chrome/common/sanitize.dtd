@@ -3,6 +3,8 @@
 
 <!ENTITY itemHistory.label               "Histórico de navegação">
 <!ENTITY itemHistory.accesskey           "H">
+<!ENTITY itemUrlBar.label                "Histórico da barra de localização">
+<!ENTITY itemUrlBar.accesskey            "l">
 <!ENTITY itemDownloads.label             "Histórico de transferências">
 <!ENTITY itemDownloads.accesskey         "t">
 <!ENTITY itemFormSearchHistory.label     "Formulários guardados e histórico de pesquisas">

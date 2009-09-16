@@ -4,6 +4,8 @@
 <!ENTITY autoHide.accesskey "c">
 <!ENTITY background.label "Mudar para novos separadores abertos a partir de ligações">
 <!ENTITY background.accesskey "n">
+<!ENTITY warnOnClose.label "Avisar-me quando fechar uma janela com múltiplos separadores">
+<!ENTITY warnOnClose.accesskey "n">
 <!ENTITY loadGroup.label "Ao abrir um grupo de marcadores">
 <!ENTITY loadGroupAppend.label "Adicionar separadores">
 <!ENTITY loadGroupAppend.accesskey "A">
