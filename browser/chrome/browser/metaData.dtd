@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "Қасиеттері көрсетілмеген.">
+
+<!ENTITY caption.label         "Элементтің қасиеттері">
+<!ENTITY image-sec.label       "Суреттің қасиеттері">
+<!ENTITY image-url.label       "Адресі:">
+<!ENTITY image-type.label      "Түрі:">
+<!ENTITY image-desc.label      "Анықтамасы:">
+<!ENTITY image-alt.label       "Альтернативті мәтін:">
+<!ENTITY image-size.label      "Суреттің өлшемдері:">
+<!ENTITY image-filesize.label  "Файл көлемі:">
+<!ENTITY insdel-sec.label      "Қасиеттерді қосу/өшіру">
+<!ENTITY insdel-cite.label     "Ақпарат:">
+<!ENTITY insdel-date.label     "Күні:">
+<!ENTITY link-sec.label        "Сілтеме қасиеттері">
+<!ENTITY link-url.label        "Адресі:">
+<!ENTITY link-target.label     "Келесіде ашылады:">
+<!ENTITY link-type.label       "Нысана объектінің түрі:">
+<!ENTITY link-lang.label       "Нысана объектінің тілі:">
+<!ENTITY link-rel.label        "Қатысы:">
+<!ENTITY link-rev.label        "Кері қатысы:">
+<!ENTITY link-ping.label       "Ескертеді:">
+<!ENTITY misc-sec.label        "Түрлі қасиеттері">
+<!ENTITY misc-lang.label       "Мәтін тілі:">
+<!ENTITY misc-title.label      "Аты:">
+<!ENTITY misc-tblsummary.label "Кестенің жиынды мәліметі:">
+<!ENTITY quote-sec.label       "Дәйексөз қасиеттері">
+<!ENTITY quote-cite.label      "Ақпарат:">

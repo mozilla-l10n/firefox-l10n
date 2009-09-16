@@ -1,0 +1,443 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator "-">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Жекелік шолу режимі)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
+<!ENTITY tabCmd.label "Жаңа бет">
+<!ENTITY tabCmd.accesskey "б">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY newTabButton.tooltip "Жаңа бет ашу">
+<!ENTITY openLocationCmd.label "Адресті ашу...">
+<!ENTITY openLocationCmd.accesskey "А">
+<!ENTITY openFileCmd.label "Файлды ашу...">
+<!ENTITY openFileCmd.accesskey "Ф">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Парақ баптаулары…">
+<!ENTITY printSetupCmd.accesskey "П">
+<!ENTITY printPreviewCmd.label "Алдын-ала қарау">
+<!ENTITY printPreviewCmd.accesskey "а">
+<!ENTITY printCmd.label "Баспаға шығару…">
+<!ENTITY printCmd.accesskey "ш">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Импорт…">
+<!ENTITY import.accesskey "м">
+
+<!ENTITY goOfflineCmd.label "Дербес жұмыс істеу">
+<!ENTITY goOfflineCmd.accesskey "Д">
+
+<!ENTITY navbarCmd.label "Навигация панелі">
+<!ENTITY navbarCmd.accesskey "Н">
+<!ENTITY personalbarCmd.label "Бетбелгілер панелі">
+<!ENTITY personalbarCmd.accesskey "Б">
+<!ENTITY bookmarksToolbarItem.label "Бетбелгілер панелінің элементтері">
+<!ENTITY taskbarCmd.label "Қалып-күй жолағы">
+<!ENTITY taskbarCmd.accesskey "к">
+
+<!ENTITY pageSourceCmd.label "Парақтың бастапқы коды">
+<!ENTITY pageSourceCmd.accesskey "б">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Парақ туралы ақпарат">
+<!ENTITY pageInfoCmd.accesskey "а">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Толық экран режимі">
+<!ENTITY fullScreenCmd.accesskey "Т">
+
+<!ENTITY fullScreenMinimize.tooltip "Бүктеу">
+<!ENTITY fullScreenRestore.tooltip "Қалпына келтіру">
+<!ENTITY fullScreenClose.tooltip "Жабу">
+<!ENTITY fullScreenAutohide.label "Саймандар панелдерін жасыру">
+<!ENTITY fullScreenAutohide.accesskey "С">
+<!ENTITY fullScreenExit.label "Толық экран режимінен шығу">
+<!ENTITY fullScreenExit.accesskey "Т">
+
+<!ENTITY closeWindow.label "Терезені жабу">
+<!ENTITY closeWindow.accesskey "б">
+
+<!ENTITY bookmarksMenu.label "Бетбелгілер">
+<!ENTITY bookmarksMenu.accesskey "б">
+<!ENTITY bookmarkThisPageCmd.label "Парақты бетбелгілерге қосу">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "Жаналық таспасына жазылу">
+<!ENTITY subscribeToPageMenuitem.label "Жаналықтар таспаларына жазылу…">
+<!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
+<!ENTITY organizeBookmarks.label "Бетбелгілерді басқару…">
+<!ENTITY bookmarkAllCmd.label "Барлық беттерді бетбелгілерге қосу…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Көбірек бетбелгілерді көрсету">
+
+<!ENTITY backCmd.label                "Қайту">
+<!ENTITY backCmd.accesskey            "а">
+<!ENTITY backButton.tooltip           "Алдыңғы бетке қайту">
+<!ENTITY forwardCmd.label             "Алға">
+<!ENTITY forwardCmd.accesskey         "л">
+<!ENTITY forwardButton.tooltip        "Келесі бетке өту">
+<!ENTITY backForwardMenu.tooltip      "Соңғы қаралған беттер">
+<!ENTITY reloadCmd.label              "Жаңарту">
+<!ENTITY reloadCmd.accesskey          "р">
+<!ENTITY reloadButton.tooltip         "Ағымдағы бетті жаңарту">
+<!ENTITY stopCmd.label                "Тоқтату">
+<!ENTITY stopCmd.accesskey            "т">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Беттің жүктелуін тоқтату">
+<!ENTITY goEndCap.tooltip             "Енгізілген адреске өту">
+<!ENTITY printButton.label            "Баспаға шығару">
+<!ENTITY printButton.tooltip          "Ағымдағы бетті баспаға шығару">
+
+<!ENTITY locationItem.title           "Адрес">
+<!ENTITY searchItem.title             "Іздеу">
+<!ENTITY throbberItem.title           "Активтілік айқындағышы">
+<!ENTITY bookmarksItem.title          "Бетбелгілер">
+
+<!-- Toolbar items --> 
+<!ENTITY  homeButton.label            "Үйге">
+
+<!ENTITY bookmarksButton.label          "Бетбелгілер">
+<!ENTITY bookmarksButton.tooltip        "Сіздің бетбелгілеріңізді көрсету">
+<!ENTITY bookmarksSidebarCmd.accesskey  "к">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label            "Тарихы">
+<!ENTITY historyButton.tooltip          "Соңғы қаралған беттердің тізімін көрсету">
+<!ENTITY historySidebarCmd.accesskey    "т">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Саймандар">
+<!ENTITY toolsMenu.accesskey          "С"> 
+
+<!ENTITY keywordfield.label           "Осы ізденісті белгілейтін кілт сөзін енгізу…">
+<!ENTITY keywordfield.accesskey       "к">
+<!ENTITY search.label                 "Интернеттен іздеу">
+<!ENTITY search.accesskey             "з">
+<!ENTITY downloads.label              "Жүктемелер">
+<!ENTITY downloads.tooltip            "Ағымдағы жүктемелердің орындалуын көрсету">
+<!ENTITY downloads.accesskey          "Ж">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Қосымшалар">
+<!ENTITY addons.tooltip               "Орнатылған қосымшаларды көрсету мен оларды басқару">
+<!ENTITY addons.accesskey             "с">
+
+<!ENTITY errorConsoleCmd.label        "Қателер консолі">
+<!ENTITY errorConsoleCmd.accesskey    "к">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY fileMenu.label         "Файл"> 
+<!ENTITY fileMenu.accesskey       "Ф">
+<!ENTITY newNavigatorCmd.label        "Жаңа терезе">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "т">
+
+<!ENTITY editMenu.label         "Түзету"> 
+<!ENTITY editMenu.accesskey       "Т"> 
+<!ENTITY undoCmd.label            "Болдырмау">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "Б"> 
+<!ENTITY redoCmd.label            "Қайталау">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "й"> 
+<!ENTITY cutCmd.label           "Қию">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "ю"> 
+<!ENTITY copyCmd.label            "Көшіру">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "ш"> 
+<!ENTITY pasteCmd.label           "Кірістіру">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "р"> 
+<!ENTITY deleteCmd.label          "Өшіру">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "ш"> 
+<!ENTITY selectAllCmd.label         "Барлығын ерекшелеу">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "е"> 
+<!ENTITY preferencesCmd.label       "Баптаулары">
+<!ENTITY preferencesCmd.accesskey     "Б"> 
+<!ENTITY preferencesCmdUnix.label       "Параметрлер">
+<!ENTITY preferencesCmdUnix.accesskey     "м"> 
+
+<!ENTITY clearRecentHistoryCmd.label            "Жақында қаралған беттер тарихын өшіру">
+<!ENTITY clearRecentHistoryCmd.accesskey        "т">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Жекелік шолу режимін бастау">
+<!ENTITY privateBrowsingCmd.start.accesskey     "Ж">
+<!ENTITY privateBrowsingCmd.stop.label          "Жекелік шолу режимін аяқтау">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "а">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY viewMenu.label         "Түрі"> 
+<!ENTITY viewMenu.accesskey       "р"> 
+<!ENTITY viewToolbarsMenu.label       "Саймандар панелдері"> 
+<!ENTITY viewToolbarsMenu.accesskey     "С"> 
+<!ENTITY viewSidebarMenu.label "Бүйір панелі">
+<!ENTITY viewSidebarMenu.accesskey "Б">
+<!ENTITY viewCustomizeToolbar.label       "Баптау…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "а">
+
+<!ENTITY historyMenu.label "Тарихы">
+<!ENTITY historyMenu.accesskey "х">
+<!ENTITY historyUndoMenu.label "Жақында жабылған беттер">
+<!ENTITY historyUndoWindowMenu.label "Жақында жабылған терезелер">
+
+<!ENTITY historyHomeCmd.label "Үй беті">
+<!ENTITY showAllHistoryCmd2.label "Бүкіл тарихты көрсету">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.emptyText	       "Бетбелгілер мен тарихтың ішінен іздеу">
+<!ENTITY urlbar.bookmarkhistory.emptyText       "Бетбелгілер мен тарихтың ішінен іздеу">
+<!ENTITY urlbar.bookmark.emptyText    "Бетбелгілерінің ішінен іздеу">
+<!ENTITY urlbar.history.emptyText     "Тарихтың ішінен іздеу">
+<!ENTITY urlbar.none.emptyText        "Веб адрес жазыңыз">
+<!ENTITY urlbar.accesskey             "з">
+
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY openLinkCmd.label            "Сілтемені жаңа терезеде ашу">
+<!ENTITY openLinkCmd.accesskey        "т">
+<!ENTITY openLinkCmdInTab.label       "Сілтемені жаңа бетте ашу">
+<!ENTITY openLinkCmdInTab.accesskey   "б">
+<!ENTITY openFrameCmd.label           "Фреймді жаңа терезеде ашу">
+<!ENTITY openFrameCmd.accesskey       "а">
+<!ENTITY openFrameCmdInTab.label      "Фреймді жаңа бетте ашу">
+<!ENTITY openFrameCmdInTab.accesskey  "б">
+<!ENTITY showOnlyThisFrameCmd.label     "Тек осы фреймді көрсету">
+<!ENTITY showOnlyThisFrameCmd.accesskey "о">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Фреймді жаңарту">
+<!ENTITY reloadFrameCmd.accesskey     "ж">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Ерекшеленген фрагменттің бастапқы коды">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML бастапқы коды">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "ы">
+<!ENTITY viewPageSourceCmd.label      "Парақтың бастапқы кодын қарау">
+<!ENTITY viewPageSourceCmd.accesskey  "у">
+<!ENTITY viewFrameSourceCmd.label     "Фреймнің бастапқы кодын қарау">
+<!ENTITY viewFrameSourceCmd.accesskey "у">
+<!ENTITY viewPageInfoCmd.label        "Парақ туралы ақпарат">
+<!ENTITY viewPageInfoCmd.accesskey    "П">
+<!ENTITY viewFrameInfoCmd.label       "Фрейм туралы ақпарат">
+<!ENTITY viewFrameInfoCmd.accesskey   "Ф">
+<!ENTITY reloadImageCmd.label         "Суретті қайта жүктеу">
+<!ENTITY reloadImageCmd.accesskey     "С">
+<!ENTITY viewImageCmd.label           "Суретті көру">
+<!ENTITY viewImageCmd.accesskey       "к">
+<!ENTITY viewVideoCmd.label           "Видео қарау">
+<!ENTITY viewVideoCmd.accesskey       "В">
+<!ENTITY viewBGImageCmd.label         "Фон суретін көру">
+<!ENTITY viewBGImageCmd.accesskey     "н">
+<!ENTITY setDesktopBackgroundCmd.label      "Жұмыс үстелінің суреті болып орналастыру…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "с">
+<!ENTITY bookmarkPageCmd2.label       "Осы парақты бетбелгілерге қосу">
+<!ENTITY bookmarkPageCmd2.accesskey   "г">
+<!ENTITY bookmarkThisLinkCmd.label      "Осы сілтемені бетбелгілерге қосу">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "л">
+<!ENTITY bookmarkThisFrameCmd.label      "Осы фреймді бетбелгілерге қосу">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "г">
+<!ENTITY sendPageCmd.label            "Сілтемені жіберу…">
+<!ENTITY sendPageCmd.accesskey        "р">
+<!ENTITY savePageCmd.label            "Парақты қалайша сақтау…">
+<!ENTITY savePageCmd.accesskey        "й">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "т">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Фреймді қалайша сақтау…">
+<!ENTITY saveFrameCmd.accesskey       "е">
+<!ENTITY printFrameCmd.label          "Фреймді баспаға шығару…">
+<!ENTITY printFrameCmd.accesskey      "а">
+<!ENTITY saveLinkCmd.label            "Сілтемені қалайша сақтау…">
+<!ENTITY saveLinkCmd.accesskey        "м">
+<!ENTITY sendLinkCmd.label            "Сілтемені жіберу…"> 
+<!ENTITY sendLinkCmd.accesskey        "н">
+<!ENTITY saveImageCmd.label           "Суретті қалайша сақтау…">
+<!ENTITY saveImageCmd.accesskey       "у">
+<!ENTITY saveVideoCmd.label           "Видеоны қалайша сақтау…">
+<!ENTITY saveVideoCmd.accesskey       "В">
+<!ENTITY saveAudioCmd.label           "Аудионы қалайша сақтау…">
+<!ENTITY saveAudioCmd.accesskey       "А">
+<!ENTITY sendImageCmd.label           "Суретті жіберу…">
+<!ENTITY sendImageCmd.accesskey       "т">
+<!ENTITY sendVideoCmd.label           "Видеоны жіберу…">
+<!ENTITY sendVideoCmd.accesskey       "В">
+<!ENTITY sendAudioCmd.label           "Аудионы жіберу…">
+<!ENTITY sendAudioCmd.accesskey       "А">
+<!ENTITY copyLinkCmd.label            "Сілтемені көшіру">
+<!ENTITY copyLinkCmd.accesskey        "ш">
+<!ENTITY copyLinkTextCmd.label        "Сілтеме мәтінің көшіру">
+<!ENTITY copyLinkTextCmd.accesskey    "м">
+<!ENTITY copyImageCmd.label           "Суреттің сілтемесін көшіру">
+<!ENTITY copyImageCmd.accesskey       "с">
+<!ENTITY copyImageContentsCmd.label   "Суретті көшіру">
+<!ENTITY copyImageContentsCmd.accesskey  "р"> 
+<!ENTITY copyVideoURLCmd.label        "Видеоның сілтемесін көшіру">
+<!ENTITY copyVideoURLCmd.accesskey    "В">
+<!ENTITY copyAudioURLCmd.label        "Аудионың сілтемесін көшіру">
+<!ENTITY copyAudioURLCmd.accesskey    "А">
+<!ENTITY blockImageCmd.accesskey      "Б">
+<!ENTITY metadataCmd.label            "Қасиеттері">
+<!ENTITY metadataCmd.accesskey        "с">
+<!ENTITY copyEmailCmd.label           "Электронды пошта адресін көшіру">
+<!ENTITY copyEmailCmd.accesskey       "п">
+<!ENTITY thisFrameMenu.label              "Осы фреймде">
+<!ENTITY thisFrameMenu.accesskey          "м">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Ойнау">
+<!ENTITY mediaPlay.accesskey         "О">
+<!ENTITY mediaPause.label            "Аялдату">
+<!ENTITY mediaPause.accesskey        "А">
+<!ENTITY mediaMute.label             "Даусын сөндіру">
+<!ENTITY mediaMute.accesskey         "Д">
+<!ENTITY mediaUnmute.label           "Даусын қосу">
+<!ENTITY mediaUnmute.accesskey       "Д">
+<!ENTITY mediaShowControls.label     "Басқару батырмаларын көрсету">
+<!ENTITY mediaShowControls.accesskey "Б">
+<!ENTITY mediaHideControls.label     "Басқару батырмаларын көрсету">
+<!ENTITY mediaHideControls.accesskey "Б">
+
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "Үлкейту">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "л">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Кішірейту">
+<!ENTITY fullZoomReduceCmd.accesskey    "ш">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Тастау">
+<!ENTITY fullZoomResetCmd.accesskey     "т">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Тек мәтінді масштабтау">
+<!ENTITY fullZoomToggleCmd.accesskey    "д">
+<!ENTITY fullZoom.label                 "Масштаб">
+<!ENTITY fullZoom.accesskey             "М">
+
+<!ENTITY newWindowButton.tooltip        "Жаңа терезені ашу">
+<!ENTITY sidebarCloseButton.tooltip     "Бүйір панелін жабу">
+
+<!ENTITY cutButton.tooltip              "Қию">
+<!ENTITY copyButton.tooltip             "Көшіру">
+<!ENTITY pasteButton.tooltip            "Қірістіру">
+
+<!ENTITY quitApplicationCmdWin.label       "Шығу"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "ы">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Шығу"> 
+<!ENTITY quitApplicationCmd.accesskey   "Ш">
+<!ENTITY quitApplicationCmdMac.label    "&brandShortName; шығу">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+
+<!ENTITY closeCmd.label                 "Жабу">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "Ж">
+
+<!ENTITY pageStyleMenu.label "Парақ стилі">
+<!ENTITY pageStyleMenu.accesskey "с">
+<!ENTITY pageStyleNoStyle.label "Стильсіз">
+<!ENTITY pageStyleNoStyle.accesskey "ь">
+<!ENTITY pageStylePersistentOnly.label "Парақтың негізгі стилі">
+<!ENTITY pageStylePersistentOnly.accesskey "н">
+
+<!ENTITY pageReportIcon.tooltip            "Осы сайт үшін &quot;атып шығатын&quot; терезелерді болдырмау параметрлерін өзгерту">
+
+<!ENTITY allowPopups.accesskey "т">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "&quot;Атып шығатын&quot; терезелерді болдырмау параметрлерін өзгерту…">
+<!ENTITY editPopupSettings.label "&quot;Атып шығатын&quot; терезелерді болдырмау параметрлерін өзгерту…">
+<!ENTITY editPopupSettings.accesskey "т">
+<!ENTITY dontShowMessage.accesskey "п">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Парақтағы мәтін бағытын ауыстыру">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "а">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Парақтағы мәтін бағытын ауыстыру">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "у">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Осы парақтан іздеу…">
+<!ENTITY findOnCmd.accesskey "т">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Іздеуді қайталау">
+<!ENTITY findAgainCmd.accesskey "з">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
+<!ENTITY spellAddDictionaries.accesskey "с">
+
+<!ENTITY editBookmark.done.label                     "Дайын">
+<!ENTITY editBookmark.cancel.label                   "Бас тарту">
+<!ENTITY editBookmark.removeBookmark.accessKey       "ш">
+<!ENTITY editBookmark.undo.label                     "Болдырмау">
+<!ENTITY editBookmark.undo.accessKey                 "Б">
+<!ENTITY editBookmark.edit.label                     "Түзету...">
+<!ENTITY editBookmark.edit.accessKey                 "з">
+
+<!ENTITY identity.unverifiedsite2 "Осы веб-сайт шын екені туралы ақпарат жоқ">
+<!ENTITY identity.connectedTo "Сіз байланысқан">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "келесімен басқарылады">
+
+<!ENTITY identity.moreInfoLinkText "Көбірек білу…">
+
+<!ENTITY downloadMonitor2.tooltip "Жүктемелер терезесін ашу үшін тышқанды басыңыз">
+
+<!ENTITY ctrlTab.search.emptyText "Беттер ішінен іздеу">
