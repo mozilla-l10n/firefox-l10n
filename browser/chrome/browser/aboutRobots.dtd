@@ -8,9 +8,9 @@
 
 <!ENTITY robots.pagetitle "Gort! Klaatu barada nikto!">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
-<!ENTITY robots.errorTitleText "İnsanoğlu, Hoş Geldin!">
+<!ENTITY robots.errorTitleText "İnsanlar, Hoş Geldiniz!">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
-<!ENTITY robots.errorShortDescText "Barış ve iyiniyet çerçevesinde sizi ziyarete geldik!">
+<!ENTITY robots.errorShortDescText "Barış içinde ve iyi niyetle sizi ziyarete geldik!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
 <!ENTITY robots.errorLongDesc1 "Robotlar insanoğluna zarar vermez veya insanoğlunun zarar görmesine seyirci kalmaz.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->
