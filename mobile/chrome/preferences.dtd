@@ -1,6 +1,6 @@
 <!ENTITY prefsHeader.label                         "Einstellungen">
 <!ENTITY about.title                               "Über &brandShortName;">
-<!ENTITY about.button                              "Website besuchen>
+<!ENTITY about.button                              "Website besuchen">
 <!ENTITY about.description                         "Erhalten Sie Hilfe und Produktinformationen">
 <!ENTITY content.title                             "Inhalt">
 <!ENTITY showImages.title                          "Grafiken laden">
