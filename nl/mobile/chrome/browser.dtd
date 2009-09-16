@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "Bladwijzers">
 <!ENTITY bookmarksManage.label     "Beheren">
-<!ENTITY foldersHeader.label       "Mappen">
 
 <!ENTITY editBookmarkRemove.label  "Verwijderen">
-<!ENTITY editBookmarkMove.label    "Verplaatsen">
 <!ENTITY editBookmarkDone.label    "Klaar">
 <!ENTITY editBookmarkTags.label    "Labels hier toevoegen">
 
