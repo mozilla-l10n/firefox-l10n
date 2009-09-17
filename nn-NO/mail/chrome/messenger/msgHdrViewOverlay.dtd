@@ -66,10 +66,16 @@
 <!ENTITY trashButton.tooltiptext "slett">
 
 <!ENTITY otherActionsButton.label "andre handlingar">
+<!ENTITY otherActionsOpenInNewWindow.label "opne i nytt vindauge">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "o">
+<!ENTITY otherActionsOpenInNewTab.label "opne i ny fane">
+<!ENTITY otherActionsOpenInNewTab.accesskey "a">
 <!ENTITY saveAsMenuItem.label "lagre som …">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "vis kjeldekode …">
 <!ENTITY viewSourceMenuItem.accesskey "k">
+<!ENTITY otherActionsPrint.label "Skriv ut …">
+<!ENTITY otherActionsPrint.accesskey "S">
 
 <!ENTITY openAttachmentCmd.label    "Opne">
 <!ENTITY openAttachmentCmd.accesskey    "O">

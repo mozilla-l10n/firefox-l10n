@@ -48,7 +48,7 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Tøm («Expunge») innboksen ved avslutting">
 <!ENTITY expungeOnExit.accesskey "T">
-<!ENTITY emptyTrashOnExit.label "Tøm bosskorga ved avslutting">
+<!ENTITY emptyTrashOnExit.label "Tøm søppelkassa ved avslutting">
 <!ENTITY emptyTrashOnExit.accesskey "ø">
 <!ENTITY loginAtStartup.label "Sjå etter nye meldingar ved oppstart">
 <!ENTITY loginAtStartup.accesskey "å">

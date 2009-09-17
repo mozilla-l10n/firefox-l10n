@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "Henting av e-post">
 <!ENTITY contextManual.label "Manuell filtrering">
 <!ENTITY contextBoth.label "Henting av e-post eller manuell filtrering">
+<!ENTITY contextPostPlugin.label "Henting av e-post (etter klassifisering)">
+<!ENTITY contextPostPluginBoth.label "Henting av e-post (etter klassifisering) eller manuell køyring">
 <!ENTITY filterActionDesc.label "Gjer dette med meldingane:">
 <!ENTITY filterActionDesc.accesskey "G">
 

@@ -55,12 +55,12 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Den noverande utgåande tenaren din (SMTP), «">
-<!ENTITY haveSmtp1.suffix "» vil bli brukt. Du kan endre innstillingane for utgåande tenar ved å velje Kontoinnstillingar frå Verktøy-menyen .">
+<!ENTITY haveSmtp1.suffix2 "&quot;, vil bli brukt. Du kan endre utgåande tenarar i kontoinnstillingane.">
 
 <!-- Entities for Login page -->
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "Skriv inn brukarnamnet du har fått frå e-postleverandøren din for å sende e-post (dette er vanlegvis det same som innkomande brukarnamn).">
 <!ENTITY usernameSmtpLabel.label "Utgåande brukarnamn">
 <!ENTITY usernameSmtpLabel.accesskey "U">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Det valde utgåande (SMTP-) brukarnamnet ditt, «">
-<!ENTITY haveSmtp2.suffix "» vil bli brukt. Du kan endre innstillingane for utgåande tenar ved å velje Kontoinnstillingar frå Verktøy-menyen.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;, vil bli brukt. Du kan endre utgåande tenarar i kontoinnstillingane.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Den utgåande (SMTP-) tenaren din, «">
-<!ENTITY haveSmtp3.suffix "» er identisk med den innkomande tenaren, og det innkomande brukarnamnet ditt vil bli brukt for å få tilgang til han. Du kan endre utgåande tenar ved å velje Kontoinnstillingar frå Verktøy-menyen.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, er identisk med innkomande tenar. Inngåande brukarnamn vil bli brukt for tilgang. Du kan endre utgåande tenarar i kontoinnstillingane.">
 
 <!-- Entities for Account name page -->
 
@@ -105,7 +105,7 @@
 <!ENTITY downloadOnLogin.label "Last ned meldingar no">
 <!ENTITY downloadOnLogin.accesskey "L">
 <!ENTITY deferStorageDesc.label "Fjern krysset frå denne boksen for å lagre e-post i eiga mappe. Det vil gjere at kontoen vert synleg i mappelista. Dersom det er kryssa av vil kontoen verte ein del av «Lokale mapper».">
-<!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i «Lokale mapper»)">
+<!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i kontoen «Lokale mapper»)">
 <!ENTITY deferStorage.accesskey "B">
 <!ENTITY clickFinish.label "Trykk Fullfør for å opprette kontoen og late att vegvisaren.">
 <!ENTITY clickFinish.labelMac "Trykk Fullfør for å opprette kontoen og late att vegvisaren.">
