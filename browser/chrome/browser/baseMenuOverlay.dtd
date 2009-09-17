@@ -12,7 +12,7 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "&brandFullName;ବିଷୟରେ">
 <!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "Help Contents">
+<!ENTITY helpContents.label       "ସହାୟତା ବିଷୟବସ୍ତୁଗୁଡ଼ିକ">
 <!ENTITY helpContents.accesskey   "H">
 <!ENTITY helpContentsMac.label    "&brandShortName; ସହାୟତା">
 <!ENTITY helpForIEUsers.label     "ଇଣ୍ଟରନେଟ ଏକ୍ସପ୍ଲରର୍ ଚାଳକମାନଙ୍କ ପାଇଁ">
@@ -25,24 +25,25 @@
 <!ENTITY openHelpMac.modifiers            "accel,shift">
 <!ENTITY openHelpMac.frontendCommandkey   "?">
 <!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
 
-<!ENTITY helpReleaseNotes.label         "Release Notes">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY helpReleaseNotes.label         "ପ୍ରକାଶନ ଟିପ୍ପଣୀ">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY updateCmd.label                "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ…">
 <!ENTITY updateCmd.accesskey            "o">
-
 <!ENTITY preferencesCmdMac.label        "ପସନ୍ଦ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "ସେବା">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName;କୁ ଲୁଚାନ୍ତୁ ">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
 
 <!ENTITY hideOtherAppsCmdMac.label      "ଅନ୍ୟମାନଙ୍କୁ ଲୁଚାନ୍ତୁ">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "ସମସ୍ତଙ୍କୁ ଦର୍ଶାନ୍ତୁ">
+

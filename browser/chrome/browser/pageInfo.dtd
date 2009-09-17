@@ -120,3 +120,6 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "ଯାନ୍ତ୍ରିକ ବିବରଣୀ">
+
+<!ENTITY  permAskAlways         "ସର୍ବଦା ପଚାରନ୍ତୁ">
+<!ENTITY  permGeo               "ଅବସ୍ଥାନ ସହଭାଗ କରନ୍ତୁ">

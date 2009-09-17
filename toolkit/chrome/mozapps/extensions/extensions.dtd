@@ -29,9 +29,9 @@
 <!ENTITY cmd.installUpdatesAll.label      "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ">
 <!ENTITY cmd.installUpdatesAll.accesskey  "I">
 <!ENTITY cmd.installUpdatesAll.tooltip    "ବଚ୍ଛିତ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରେ">
-<!ENTITY cmd.restartApp2.label            "&brandShortNameକୁ ପୁନଃ ଚାଳନ କରନ୍ତୁ;">
+<!ENTITY cmd.restartApp2.label            "&brandShortName;କୁ ପୁନଃ ଚାଳନ କରନ୍ତୁ">
 <!ENTITY cmd.restartApp2.accesskey        "R">
-<!ENTITY cmd.restartApp2.tooltip          "&brandShortNameକୁ ପୁନଃ ଚାଳନ କରନ୍ତୁ; ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରୟୋଗ କରିବା ପାଇଁ">
+<!ENTITY cmd.restartApp2.tooltip          "&brandShortName;କୁ ପୁନଃ ଚାଳନ କରନ୍ତୁ; ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରୟୋଗ କରିବା ପାଇଁ">
 <!ENTITY cmd.skip.label                   "ଏଡାଇ ଯାଆନ୍ତୁ">
 <!ENTITY cmd.skip.accesskey               "k">
 <!ENTITY cmd.skip.tooltip                 "ଏହି ଅଦ୍ୟତନଗୁଡିକୁ ଏଡାଇଯାଆନ୍ତୁ">
