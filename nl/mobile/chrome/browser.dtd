@@ -57,11 +57,6 @@
 <!ENTITY addonShowPage.label       "Ga naar pagina">
 
 <!ENTITY downloadsHeader.label     "Downloads">
-<!ENTITY downloadsSortDate.label   "Datum">
-<!ENTITY downloadsSortSite.label   "Website">
-<!ENTITY downloadsSortName.label   "Naam">
-<!ENTITY downloadsSearch.label     "Zoeken">
-<!ENTITY downloadsSearch2.emptytext "Zoeken">
 
 <!ENTITY downloadShowPage.label    "Naar pagina gaan">
 <!ENTITY downloadShow2.label       "Zoeken">
@@ -70,6 +65,7 @@
 <!ENTITY downloadPause.label       "Pauzeren">
 <!ENTITY downloadResume.label      "Hervatten">
 <!ENTITY downloadRetry.label       "Opnieuw proberen">
+<!ENTITY downloadRemove.label      "Verwijderen">
 
 <!ENTITY noResults.label           "Geen resultaten">
 <!ENTITY allBookmarks.label        "Alle bladwijzers tonen">
@@ -78,7 +74,7 @@
 <!ENTITY bookmarkRemove.label      "Verwijderen">
 <!ENTITY bookmarkEdit.label        "Bewerken">
 
-<!ENTITY searchEngine.addSearch     "Zoekmachine toevoegen:">
+<!ENTITY searchEngine.addSearch    "Zoekmachine toevoegen:">
 
 <!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
 <!ENTITY identity.connectedTo2 "Verbonden met">
