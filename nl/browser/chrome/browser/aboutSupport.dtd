@@ -1,0 +1,31 @@
+<!ENTITY aboutSupport.pageTitle "Foutzoeken informatie">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Deze pagina bevat technische informatie die handig kan zijn als u een probleem  
+  probeert op te lossen. Als u zoekt naar antwoorden op veel gestelde vragen 
+  over &brandShortName;, kijk dan op onze <a id='supportLink'>ondersteuningwebsite</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Extensies">
+<!ENTITY aboutSupport.extensionName "Naam">
+<!ENTITY aboutSupport.extensionEnabled "Actief">
+<!ENTITY aboutSupport.extensionVersion "Versie">
+<!ENTITY aboutSupport.extensionFirstRun "FirstRun">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Applicatiebasics">
+<!ENTITY aboutSupport.appBasicsName "Naam">
+<!ENTITY aboutSupport.appBasicsVersion "Versie">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profielmap">
+<!ENTITY aboutSupport.appBasicsPlugins "Geïnstalleerde plug-ins">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Buildconfiguratien">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Aangepaste voorkeuren">
+<!ENTITY aboutSupport.modifiedPrefsName "Naam">
+<!ENTITY aboutSupport.modifiedPrefsValue "Waarde">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Installatiegeschiedenis">
+<!ENTITY aboutSupport.updateHistoryTitle "Updategeschiedenis">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Alles naar het klembord kopiëren">
