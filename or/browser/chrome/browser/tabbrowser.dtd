@@ -17,3 +17,5 @@
 <!ENTITY  undoCloseTab.label          "ଟ୍ୟାବ ବନ୍ଦକରନ୍ତୁ ପଦକ୍ଷେପକୁ ବାତିଲ କରନ୍ତୁ">
 <!ENTITY  undoCloseTab.accesskey      "U">
 <!ENTITY  newTabButton.tooltip        "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ">
+<!ENTITY  openTabInNewWindow.label    "ଗୋଟିଏ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ">
+<!ENTITY  openTabInNewWindow.accesskey "W">
