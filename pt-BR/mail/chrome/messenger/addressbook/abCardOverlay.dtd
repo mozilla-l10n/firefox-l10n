@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "Apelido:">
 <!ENTITY NickName.accesskey             "d">
 
-<!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "e">
 <!ENTITY SecondEmail.label              "Email alternativo:">
@@ -80,16 +79,16 @@
 <!ENTITY ScreenName.label               "Nome de tela:">
 <!ENTITY ScreenName.accesskey           "N">
 
-<!ENTITY allowRemoteContent.label       "Carregar imagens externas">
-<!ENTITY allowRemoteContent.accesskey   "x">
-<!ENTITY allowRemoteContent.tooltip     "Em mensagens com formatação HTML podem existir imagens que carregam de locais externos. A visualização da mensagem abrirá uma conexão com este endereço. Isto permite que a leitura da mensagem seja registrada. Marque esta opção para permitir que estas imagens externas sejam carregadas para este contato.">
+<!ENTITY allowRemoteContent1.label      "Permitir conteúdo remoto">
+<!ENTITY allowRemoteContent1.accesskey  "t">
+<!ENTITY allowRemoteContent1.tooltip    "Em mensagens HTML é possível embutir conteúdo de fontes remotas. Ao ser aberta, uma mensagem dessas irá realizar uma conexão para estas fontes. Isto pode permitir o rastreamento da leitura da mensagem. Marque esta opção para permitir conteúdos externos em mensagens HTML deste contato.">
 
 <!ENTITY WorkPhone.label                "Comercial:">
 <!ENTITY WorkPhone.accesskey            "C">
 <!ENTITY HomePhone.label                "Residencial:">
 <!ENTITY HomePhone.accesskey            "R">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "p">
 <!ENTITY CellularNumber.label           "Celular:">
@@ -113,9 +112,11 @@
 <!ENTITY HomeWebPage.accesskey          "w">
 <!ENTITY Birthday.label                 "Aniversário:">
 <!ENTITY Birthday.accesskey             "v">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Ano">
 <!ENTITY Or.value                       "ou">
 <!ENTITY Age.emptytext                  "Idade">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Trabalho">
 <!ENTITY Work.accesskey                 "T">
@@ -152,3 +153,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Observações:">
 <!ENTITY Notes.accesskey                "b">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Selecione uma destas opções:">
+<!ENTITY GenericPhoto.label             "Foto genérica">
+<!ENTITY GenericPhoto.accesskey         "o">
+<!ENTITY DefaultPhoto.label             "Padrão">
+<!ENTITY PhotoFile.label                "Neste computador">
+<!ENTITY PhotoFile.accesskey            "N">
+<!ENTITY BrowsePhoto.label              "Procurar…">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Na web">
+<!ENTITY PhotoURL.accesskey             "w">
+<!ENTITY PhotoURL.emptytext             "Forneça o endereço web de uma foto">
+<!ENTITY UpdatePhoto.label              "Atualizar">
+<!ENTITY UpdatePhoto.accesskey          "A">

@@ -45,3 +45,7 @@
 <!ENTITY folderProps.location.label              "Endereço:">
 <!ENTITY retentionDeleteMsg.label "Apagar mensagens recebidas há mais">
 <!ENTITY retentionDeleteMsg.accesskey "r">
+<!ENTITY retentionApplyToFlagged.label "Sempre manter mensagens sinalizadas">
+<!ENTITY retentionApplyToFlagged.accesskey "S">
+<!ENTITY retentionCleanupImap.label "Manter mensagens, tanto cópias locais quanto suas originais no servidor:">
+<!ENTITY retentionCleanupPop.label "Manter mensagens, incluindo suas originais no servidor:">

@@ -8,19 +8,9 @@
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "T">
 <!ENTITY serverPortDefault.label "Padrão:">
-<!ENTITY savePassword.label "Salvar senha">
 <!ENTITY biffStart.label "Verificar novas mensagens a cada ">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minutos">
-<!ENTITY socketType.label "Usar conexão segura:">
-<!ENTITY neverSecure.label "Nunca">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, se disponível">
-<!ENTITY sometimesSecure.accesskey "d">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
 <!ENTITY useSecAuth.label "Usar autenticação segura">
 <!ENTITY useSecAuth.accesskey "t">
 <!ENTITY leaveOnServer.label "Manter mensagens no servidor">
@@ -37,8 +27,12 @@
 <!ENTITY username.label "Nome de login">
 <!ENTITY deleteMessagePrefix.label "Ao excluir uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para a lixeira">
+<!ENTITY modelMoveToTrash.accesskey "x">
 <!ENTITY modelMarkDeleted.label "Marcar como excluída">
+<!ENTITY modelMarkDeleted.accesskey "M">
 <!ENTITY modelDeleteImmediately.label "Excluir imediatamente">
+<!ENTITY modelDeleteImmediately.accesskey "E">
+
 <!ENTITY expungeOnExit.label 'Esvaziar a pasta "Entrada" ao sair'>
 <!ENTITY expungeOnExit.accesskey "Z">
 <!ENTITY emptyTrashOnExit.label "Esvaziar a lixeira ao sair">
@@ -65,6 +59,9 @@
 <!ENTITY browseNewsrc.label "Selecionar...">
 <!ENTITY browseNewsrc.accesskey "s">
 
-<!ENTITY modelDeleteImmediately.accesskey "E">
-<!ENTITY modelMarkDeleted.accesskey "M">
-<!ENTITY modelMoveToTrash.accesskey "x">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurity.label "Segurança da conexão:">
+<!ENTITY connectionSecurityType-0.label "Nenhum">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, se disponível">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">

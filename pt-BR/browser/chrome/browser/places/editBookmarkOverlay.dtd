@@ -3,9 +3,9 @@
 <!ENTITY editBookmarkOverlay.location.label                  "Endereço:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "E">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "End. do RSS:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "E">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "R">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "End. do site:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "E">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Nomes dinâmicos">
 <!ENTITY editBookmarkOverlay.folder.label                    "Pasta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Exibir todas as pastas dos favoritos">

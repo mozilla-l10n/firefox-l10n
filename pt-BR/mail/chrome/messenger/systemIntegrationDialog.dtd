@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Integração com o sistema">
+<!ENTITY defaultClient.intro  "Tornar o &brandShortName; o aplicativo padrão para:">
+
+<!ENTITY email.label "Email">
+<!ENTITY newsgroups.label "Newsgroups">
+<!ENTITY feeds.label "RSS">
+
+<!ENTITY checkOnStartup.label "Sempre verificar ao iniciar o &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "S">
+
+<!ENTITY searchIntegration.label "Permitir que o &searchIntegration.engineName; pesquise em mensagens">
+<!ENTITY searchIntegration.accesskey "P">

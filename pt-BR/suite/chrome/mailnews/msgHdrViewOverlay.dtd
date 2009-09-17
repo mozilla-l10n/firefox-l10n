@@ -13,7 +13,9 @@
 <!ENTITY userAgentField.label "User-Agent:">
 <!ENTITY originalWebsite.label "Site: ">
 <!ENTITY editMessage.label "Editar">
+<!ENTITY editMessage.accesskey "E">
 <!ENTITY attachmentsTree.label "Anexos:">
+<!ENTITY attachmentsTree.accesskey "x">
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY viewAttachmentCmd.label "Exibir código-fonte">

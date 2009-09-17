@@ -62,7 +62,7 @@
 <!ENTITY askMe.accesskey                 "P">
 <!ENTITY modeAutomatic.label             "Receber e instalar a atualização automaticamente">
 <!ENTITY modeAutomatic.accesskey         "R">
-<!ENTITY modeAutoAddonWarn.label         "Alertar caso desative algum complemento">
+<!ENTITY modeAutoAddonWarn.label         "Alertar caso desative alguma extensão ou tema">
 <!ENTITY modeAutoAddonWarn.accesskey     "A">
 <!ENTITY updateHistory.label             "Histórico de atualizações">
 <!ENTITY updateHistory.accesskey         "H">
@@ -73,7 +73,7 @@
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
 <!ENTITY offlineAppsList.label           "Estes sites possuem dados armazenados para uso offline:">
-<!ENTITY offlineAppsList.height          "7.0em">
+<!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Excluir…">
 <!ENTITY offlineAppsListRemove.accesskey "x">
 <!ENTITY offlineAppRemove.confirm        "Excluir dados offline">
@@ -97,5 +97,5 @@
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Validação">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "Disp. de segurança">
+<!ENTITY viewSecurityDevices.label       "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey   "D">

@@ -1,5 +1,6 @@
 <!ENTITY pref.navigator.title "Navigator">
-<!ENTITY navRadio "Abrir em:">
+<!ENTITY navRadio.label "Abrir em">
+<!ENTITY navRadio.accesskey "A">
 <!ENTITY navStartPageMenu.label "Inicialização">
 <!ENTITY newWinPageMenu.label "Novas janelas">
 <!ENTITY newTabPageMenu.label "Novas abas">
@@ -25,13 +26,6 @@
 <!ENTITY goButton.accesskey "i">
 <!ENTITY searchButton.label "Pesquisar">
 <!ENTITY searchButton.accesskey "S">
-<!ENTITY printButton.label "Imprimir">
-<!ENTITY printButton.accesskey "P">
-<!ENTITY persToolbarIntro.label "Barra dos marcadores">
-<!ENTITY homeButton.label "Página Inicial">
-<!ENTITY homeButton.accesskey "i">
-<!ENTITY bookmarksButton.label "Marcadores">
-<!ENTITY bookmarksButton.accesskey "c">
 <!ENTITY alreadyDefaultText             "&brandShortName; já é seu navegador padrão.">
 <!ENTITY defaultBrowserButton.label     "Definir como navegador padrão">
 <!ENTITY defaultBrowserButton.accesskey "n">
@@ -39,3 +33,6 @@
 <!ENTITY defaultBrowserGroup.label      "Navegador padrão">
 <!ENTITY defaultPendingText             "&brandShortName; será definido como seu navegador padrão quando clicar em OK.">
 <!ENTITY makeDefaultText                "Definir &brandShortName; como seu navegador padrão.">
+
+<!ENTITY restoreSessionRadio.label      "Restaurar sessão anterior">
+<!ENTITY restoreSessionRadio.accesskey  "s">

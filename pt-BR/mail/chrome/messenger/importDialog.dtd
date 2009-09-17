@@ -45,14 +45,19 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Assistente de importação">
-<!ENTITY importDialog.allTitle    "Importar tudo">
-<!ENTITY importDialog.mailTitle   "Mensagens">
-<!ENTITY importDialog.addressbookTitle "Catálogos de endereços">
-<!ENTITY importDialog.settingsTitle "Configurações">
-<!ENTITY importDialog.filtersTitle "Filtros">
+<!ENTITY importAll.label          "Importar tudo">
+<!ENTITY importAll.accesskey      "I">
+<!ENTITY importMail.label         "Mensagens">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "Catálogos de endereços">
+<!ENTITY importAddressbook.accesskey "a">
+<!ENTITY importSettings.label     "Configurações">
+<!ENTITY importSettings.accesskey "C">
+<!ENTITY importFilters.label      "Filtros">
+<!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY  window.width            "40.0em">
-<!ENTITY  window.macWidth         "45.0em">
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "Assistente de importação do &brandShortName;">
 <!ENTITY importShortDesc.label    "Importar mensagens, catálogos de endereços, configurações e filtros de outros aplicativos">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Uma vez importados, você poderá acessá-los pelo &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Por favor, selecione o tipo de arquivo que você deseja importar:">
+<!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label               "&lt; Voltar">
 <!ENTITY forward.label            "Avançar &gt;">
@@ -69,11 +75,13 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY select.label             "Ou selecione o que deseja importar:">
 
-<!ENTITY title.label              "Título">
+<!ENTITY title.label              "Title">
 <!ENTITY processing.label         "Importando…">
 
 <!ENTITY FieldDiscInputText1.label  "O Netscape Communicator 4.x possui um endereço para cada contato, enquanto o &brandShortName; possui dois (residencial e comercial).">
 <!ENTITY FieldDiscInputText2.label  "Selecione a categoria na qual deseja amazenar os endereços importados:">
 <!ENTITY FieldDiscWarning.label  "Esta categoria será usada para todos os nomes do catálogo de endereços selecionado: ">
-<!ENTITY importDialog.homeTitle  "Residencial">
-<!ENTITY importDialog.workTitle  "Comercial">
+<!ENTITY importHome.label        "Home">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "Work">
+<!ENTITY importWork.accesskey    "W">

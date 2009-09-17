@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "Alertar se sites tentarem instalar complementos">
+<!ENTITY  warnAddonInstall.label        "Alertar se sites tentarem instalar extensões ou temas">
 <!ENTITY  warnAddonInstall.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
@@ -8,10 +8,10 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  blockAttackSites.label     "Bloquear sites considerados focos de ataques">
+<!ENTITY  blockAttackSites.label     "Bloquear sites avaliados como focos de ataques">
 <!ENTITY  blockAttackSites.accesskey "B">
 
-<!ENTITY  blockWebForgeries.label     "Bloquear sites considerados falsos">
+<!ENTITY  blockWebForgeries.label     "Bloquear sites avaliados como falsos">
 <!ENTITY  blockWebForgeries.accesskey "o">
 
 <!ENTITY  addonExceptions.label         "Exceções…">
@@ -28,7 +28,7 @@
 <!ENTITY  useMasterPassword.label        "Usar uma senha mestra">
 <!ENTITY  useMasterPassword.accesskey    "s">
 <!ENTITY  changeMasterPassword.label     "Modificar senha mestra…">
-<!ENTITY  changeMasterPassword.accesskey "o">
+<!ENTITY  changeMasterPassword.accesskey "d">
 
 <!ENTITY  savedPasswords.label            "Senhas memorizadas…">
 <!ENTITY  savedPasswords.accesskey        "n">
@@ -36,7 +36,7 @@
 
 <!ENTITY  warnings.label                "Alertas">
 
-<!ENTITY  chooseWarnings.label          "Selecione que notificações deseja ver enquanto navega.">
+<!ENTITY  chooseWarnings.label          "Selecione as notificações que deseja ver enquanto navega.">
 
 <!ENTITY  warningSettings.label         "Configurar…">
 <!ENTITY  warningSettings.accesskey     "C">

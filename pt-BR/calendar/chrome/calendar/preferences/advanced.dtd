@@ -76,7 +76,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "P">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "Baixar e instalar atualizações automaticamente">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "B">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Avisar se algum complemento será desativado">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Alertar caso desative alguma extensão ou tema">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "A">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Exibir histórico de atualizações…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "E">

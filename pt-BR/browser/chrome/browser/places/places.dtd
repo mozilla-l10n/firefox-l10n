@@ -73,8 +73,8 @@
 
 <!ENTITY cmd.delete.label               "Excluir esta página">
 <!ENTITY cmd.delete.accesskey           "x">
-<!ENTITY cmd.deleteDomainData.label     "Excluir todas as páginas deste site">
-<!ENTITY cmd.deleteDomainData.accesskey "E">
+<!ENTITY cmd.deleteDomainData.label     "Limpar tudo sobre este site">
+<!ENTITY cmd.deleteDomainData.accesskey "L">
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "r">
@@ -95,7 +95,7 @@
 
 <!ENTITY cmd.sortby_name.label              "Ordenar pelo nome">
 <!ENTITY cmd.sortby_name.accesskey          "O">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
+<!ENTITY cmd.context_sortby_name.accesskey  "d">
 
 <!ENTITY cmd.new_bookmark.label            "Novo favorito…">
 <!ENTITY cmd.new_bookmark.accesskey        "N">
@@ -105,10 +105,10 @@
 <!ENTITY cmd.new_folder.accesskey          "v">
 <!ENTITY cmd.context_new_folder.accesskey  "v">
 <!ENTITY cmd.new_separator.label           "Novo separador">
-<!ENTITY cmd.new_separator.accesskey       "s">
+<!ENTITY cmd.new_separator.accesskey       "e">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Recarregar RSS">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "e">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 <!ENTITY cmd.reloadMicrosummary.label      "Recarregar nome dinâmico">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "e">
 
@@ -136,18 +136,10 @@
 
 <!ENTITY search.label                              "Localizar:">
 <!ENTITY search.accesskey                          "z">
-<!ENTITY search.collection.label                   "Somente coleção atual">
-<!ENTITY search.collection.accesskey               "S">
-<!ENTITY search.allBookmarks.label                 "Todos os favoritos">
-<!ENTITY search.allBookmarks.accesskey             "T">
 <!ENTITY search.scopeFolder.label                  "Pasta selecionada">
 <!ENTITY search.scopeFolder.accesskey              "P">
-<!ENTITY search.scopeAll.label                     "Todos os favoritos">
-<!ENTITY search.scopeAll.accesskey                 "T">
-<!ENTITY search.scopeMenu.label                    "Menu Favoritos">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "Barra dos favoritos">
-<!ENTITY search.scopeToolbar.accesskey             "B">
+<!ENTITY search.scopeBookmarks.label               "Favoritos">
+<!ENTITY search.scopeBookmarks.accesskey           "F">
 <!ENTITY search.scopeDownloads.label               "Downloads">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Histórico">
@@ -155,7 +147,7 @@
 <!ENTITY search.scopeBarExpanderDown.tooltip       "Exibir construtor de pesquisas">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "Ocultar construtor de pesquisas">
 <!ENTITY saveSearch.label                          "Salvar…">
-<!ENTITY saveSearch.accesskey                      "r">
+<!ENTITY saveSearch.accesskey                      "S">
 <!ENTITY moreCriteria.label                        "+">
 <!ENTITY advancedSearch.onlybookmarked.label       "Pesquisar somente favoritos">
 <!ENTITY advancedSearch.match.label                "Satisfazer">

@@ -1,5 +1,5 @@
 <!ENTITY  connectionsDialog.title       "Configurar conexão">
-<!ENTITY  window.width                   "37.0em">
+<!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "Acesso à internet">
 <!ENTITY  noProxyTypeRadio.label        "Sem proxy">

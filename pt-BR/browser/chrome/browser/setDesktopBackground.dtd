@@ -1,7 +1,7 @@
 <!ENTITY position.label             "Posição:">
 <!ENTITY tile.label                 "Lado a lado">
 <!ENTITY center.label               "Centralizado">
-<!ENTITY stretch.label              "Esticado">
+<!ENTITY stretch.label              "Toda a tela">
 <!ENTITY preview.label              "Visualizar">
 <!ENTITY color.label                "Cor:">
 <!ENTITY setDesktopBackground.title "Definir papel de parede">

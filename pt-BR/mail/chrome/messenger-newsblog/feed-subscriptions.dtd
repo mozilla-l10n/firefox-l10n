@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Inscrições RSS">
+<!ENTITY feedSubscriptions.label "Inscrições RSS">
 <!ENTITY subscriptionDesc.label "Nota: excluir ou alterar a pasta de um RSS não afetará os itens já recebidos.">
 <!ENTITY feedTitle.label "Título:">
 <!ENTITY location.label  "Endereço:">
