@@ -12,9 +12,8 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "Oer &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "F">
-<!ENTITY helpContents.label       "Helpynhâld">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; Help">
+<!ENTITY productHelp.label        "&brandShortName; Help">
+<!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Foar Internet Explorer-brûkers">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
@@ -22,6 +21,10 @@
 
 <!ENTITY helpReleaseNotes.label         "Utjefte-opmerkings">
 <!ENTITY helpReleaseNotes.accesskey     "U">
+
+<!ENTITY helpTroubleshooting.label      "Helpynformaasje…">
+<!ENTITY helpTroubleshooting.accesskey  "H">
+
 <!ENTITY updateCmd.label                "Op nije ferzjes kontrolearje...">
 
 <!ENTITY preferencesCmdMac.label        "Foarkarren...">
