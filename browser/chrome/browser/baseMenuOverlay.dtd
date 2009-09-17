@@ -12,9 +12,8 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "Over &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "F">
-<!ENTITY helpContents.label       "Helpinhoud">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; Help">
+<!ENTITY productHelp.label        "&brandShortName; Help">
+<!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Voor Internet Explorer-gebruikers">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
