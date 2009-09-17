@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "Marcadores">
 <!ENTITY bookmarksManage.label     "Administrar">
-<!ENTITY foldersHeader.label       "Carpetas">
 
 <!ENTITY editBookmarkRemove.label  "Eliminar">
-<!ENTITY editBookmarkMove.label    "Mover">
 <!ENTITY editBookmarkDone.label    "Terminado">
 <!ENTITY editBookmarkTags.label    "Agregar etiquetas aquí">
 
