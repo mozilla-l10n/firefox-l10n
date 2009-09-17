@@ -137,18 +137,10 @@
 
 <!ENTITY search.label                              "खोजें:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "सिर्फ मौजूदा संग्रह">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "सभी पुस्तचिह्न">
-<!ENTITY search.allBookmarks.accesskey             "A">
+
 <!ENTITY search.scopeFolder.label                  "चुना गया फ़ोल्डर">
 <!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "सभी पुस्तचिह्न">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "पुस्तचिह्न मेन्यू">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "पुस्तचिह्न औज़ारपेटी">
-<!ENTITY search.scopeToolbar.accesskey             "T">
+
 <!ENTITY search.scopeDownloads.label               "डाउनलोड करें">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "इतिहास">
@@ -190,6 +182,10 @@
 <!ENTITY advancedSearch.sortby_asc.label           "आरोही">
 <!ENTITY advancedSearch.sortby_desc.label          "अवरोही">
 <!ENTITY advancedSearch.max.label                  "अधिकतम परिणाम: ">
+
+<!ENTITY search.scopeBookmarks.label               "Bookmarks">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
+
 
 <!ENTITY cmd.find.key  "f">
 

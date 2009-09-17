@@ -10,7 +10,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY रूपांतरण श्रेय "<h3>Translators</h3><ul><li>राजेश रंजन ( rajeshkajha@yahoo.com)</li><li>संगीता कुमारी (sangeeta09@gmail.com)</li>
+<!ENTITY रूपांतरण श्रेय "<h3>Translators</h3><ul><li>राजेश रंजन ( rajeshkajha@yahoo.com)</li><li>संगीता कुमारी (sangeeta09@gmail.com)</li></ul>"
 
 <!ENTITY credit.visuals     "विजुअल डिजायन संयोजक">
 <!ENTITY credit.theme       "थीम डिजायन">
