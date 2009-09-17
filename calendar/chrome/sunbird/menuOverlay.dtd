@@ -42,141 +42,145 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendar.open.file.label                          "Open Calendar File…">
+<!ENTITY calendar.open.file.label                          "දිනදර්ශන ගොනුව විවෘත කිරීම…">
 <!ENTITY calendar.open.file.key                            "O">
 <!ENTITY calendar.open.file.accesskey                      "O">
 
-<!ENTITY event.edit.event                                  "Edit Selection…">
+<!ENTITY event.edit.event                                  "තෝරාගත් කොටසේ සැකසුම්…">
 <!ENTITY event.edit.event.key                              "E">
 <!ENTITY event.edit.event.accesskey                        "E">
 
-<!ENTITY event.delete.event                                "Delete Selected Events">
+<!ENTITY event.delete.event                                "තෝරාගත් සිදුවීම් මකන්න">
 <!ENTITY event.delete.event.accesskey                      "D">
 
-<!ENTITY event.delete.tasks                                "Delete Selected Tasks">
+<!ENTITY event.delete.tasks                                "තෝරාගත් කාර්යයන් මකන්න">
 <!ENTITY event.delete.tasks.accesskey                      "T">
 
-<!ENTITY calendar.pagesetup.label                          "Page Setup…">
+<!ENTITY calendar.pagesetup.label                          "පිටු සැකසීම…">
 <!ENTITY calendar.pagesetup.accesskey                      "u">
 
-<!ENTITY calendar.subscribe.label                          "Subscribe to Remote Calendar…">
+<!ENTITY calendar.subscribe.label                          "දුරස්ථ දිනදර්ශය සඳහා දායකත්වය ලබා ගැනීම…">
 <!ENTITY calendar.subscribe.accesskey                      "R">
 
-<!ENTITY calendar.reloadserver.label                       "Reload Remote Calendars">
+<!ENTITY calendar.reloadserver.label                       "දුරස්ථ දිනදර්ශණ ප්‍රතිපූරණය කිරීම">
 <!ENTITY calendar.reloadserver.key                         "R">
 <!ENTITY calendar.reloadserver.accesskey                   "R">
 
-<!ENTITY calendar.publish.calendar.label                   "Publish Calendar…">
+<!ENTITY calendar.publish.calendar.label                   "දිනදර්ශනය පළකිරීම…">
 <!ENTITY calendar.publish.calendar.accesskey               "b">
-<!ENTITY calendar.publish.selection.label                  "Publish Selection…">
+<!ENTITY calendar.publish.selection.label                  "තෝරාගත් කොටස පළකිරීම…">
 <!ENTITY calendar.publish.selection.accesskey              "c">
 
-<!ENTITY calendar.quit.label                               "Quit">
+<!ENTITY calendar.quit.label                               "පිටවීම">
 <!ENTITY calendar.quit.accesskey                           "Q">
 <!ENTITY calendar.quit.key                                 "Q">
-<!ENTITY calendar.quit.label.mac                           "Quit &brandShortName;">
+<!ENTITY calendar.quit.label.mac                           "&brandShortName;  න් පිටවීම">
 
-<!ENTITY calendar.exit.label                               "Exit">
+<!ENTITY calendar.exit.label                               "පිටවීම">
 <!ENTITY calendar.exit.accesskey                           "x">
 
-<!ENTITY calendar.undo.label                               "Undo">
+<!ENTITY calendar.undo.label                               "අහෝසි">
 <!ENTITY calendar.undo.key                                 "Z">
 <!ENTITY calendar.undo.accesskey                           "u">
 
-<!ENTITY calendar.redo.label                               "Redo">
+<!ENTITY calendar.redo.label                               "යළි කරන්න">
 <!ENTITY calendar.redo.key                                 "Y">
 <!ENTITY calendar.redo.accesskey                           "r">
 
-<!ENTITY calendar.cut.label                                "Cut">
+<!ENTITY calendar.cut.label                                "කපන්න">
 <!ENTITY calendar.cut.key                                  "X">
 <!ENTITY calendar.cut.accesskey                            "t">
 
-<!ENTITY calendar.copy.label                               "Copy">
+<!ENTITY calendar.copy.label                               "පිටපත් කරන්න">
 <!ENTITY calendar.copy.key                                 "C">
 <!ENTITY calendar.copy.accesskey                           "C">
 
-<!ENTITY calendar.paste.label                              "Paste">
+<!ENTITY calendar.paste.label                              "අලවන්න">
 <!ENTITY calendar.paste.key                                "V">
 <!ENTITY calendar.paste.accesskey                          "P">
 
-<!ENTITY calendar.selectall.label                          "Select All">
+<!ENTITY calendar.selectall.label                          "සියල්ල තෝරන්න">
 <!ENTITY calendar.selectall.key                            "A">
 <!ENTITY calendar.selectall.accesskey                      "A">
 
-<!ENTITY toolbarsMenu.label                                "Toolbars">
+<!ENTITY toolbarsMenu.label                                "මෙවලම්තීරු">
 <!ENTITY toolbarsMenu.accesskey                            "T">
 
-<!ENTITY showStatusBarCmd.label                            "Status Bar">
+<!ENTITY showStatusBarCmd.label                            "තත්ත්ව තීරුව">
 <!ENTITY showStatusBarCmd.accesskey                        "B">
 
-<!ENTITY showTaskBoxCmd.label                              "Task List">
+<!ENTITY showTaskBoxCmd.label                              "කාර්යය ලැයිස්තුව">
 <!ENTITY showTaskBoxCmd.accesskey                          "L">
 
-<!ENTITY calendar.fullscreen.label                         "Full Screen">
+<!ENTITY calendar.fullscreen.label                         "පූර්ණ තිරය">
 <!ENTITY calendar.fullscreen.accesskey                     "F">
 
-<!ENTITY calendar.addons.label                             "Add-ons">
+<!ENTITY calendar.addons.label                             "ඇඩෝන">
 <!ENTITY calendar.addons.accesskey                         "d">
 
-<!ENTITY goMenu.label                                      "Go">
+<!ENTITY goMenu.label                                      "යන්න">
 <!ENTITY goMenu.accesskey                                  "G">
 
-<!ENTITY goDateCmd.label                                   "Date…">
+<!ENTITY goDateCmd.label                                   "දිනය…">
 <!ENTITY goDateCmd.accesskey                               "D">
 
-<!ENTITY toolsMenu.label                                   "Tools">
+<!ENTITY toolsMenu.label                                   "මෙවලම්">
 <!ENTITY toolsMenu.accesskey                               "T">
 
-<!ENTITY errorConsoleCmd.label                             "Error Console">
+<!ENTITY errorConsoleCmd.label                             "දෝෂ කොන්සෝලය">
 <!ENTITY errorConsoleCmd.accesskey                         "C">
 
-<!ENTITY helpMenu.label                                    "Help">
+<!ENTITY helpMenu.label                                    "උදව්">
 <!ENTITY helpMenu.accesskey                                "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
            for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                                 "Help">
+<!ENTITY helpMenuWin.label                                 "උදව්">
 <!ENTITY helpMenuWin.accesskey                             "H">
 
-<!ENTITY fileMenu.label                                    "File">
+<!ENTITY fileMenu.label                                    "ගොනු">
 <!ENTITY fileMenu.accesskey                                "F">
 
-<!ENTITY editMenu.label                                    "Edit">
+<!ENTITY editMenu.label                                    "සැකසුම්">
 <!ENTITY editMenu.accesskey                                "E">
 
-<!ENTITY optionsCmd.label                                  "Options…">
+<!ENTITY optionsCmd.label                                  "වරණ…">
 <!ENTITY optionsCmd.accesskey                              "O">
 
-<!ENTITY preferencesCmd.label                              "Preferences">
+<!ENTITY preferencesCmd.label                              "මනාපයන්">
 <!ENTITY preferencesCmd.accesskey                          "n">
-<!ENTITY preferencesCmdMac.label                           "Preferences…">
+<!ENTITY preferencesCmdMac.label                           "මනාපයන්…">
 <!ENTITY preferencesCmdMac.commandkey                      ",">
 <!ENTITY preferencesCmdMac.modifiers                       "accel">
 
-<!ENTITY viewMenu.label                                    "View">
+<!ENTITY viewMenu.label                                    "දැකුම්">
 <!ENTITY viewMenu.accesskey                                "V">
 
-<!ENTITY releaseCmd.label                                  "Release Notes">
+<!ENTITY releaseCmd.label                                  "නිකුතු සටහන්">
 <!ENTITY releaseCmd.accesskey                              "R">
 
-<!ENTITY aboutCmd.label                                    "About &brandFullName;">
+<!ENTITY aboutCmd.label                                    "&brandFullName; පිළිබඳ">
 <!ENTITY aboutCmd.accesskey                                "A">
 
-<!ENTITY updateCmd.label                                   "Check for Updates…">
+<!ENTITY updateCmd.label                                   "යාවත්කාලීන සඳහා සෙවීම…">
 <!ENTITY updateCmd.accesskey                               "o">
 
+<!ENTITY sunbird.export.calendar.label                     "දිනදර්ශය නිර්යාත කිරීම…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
+
 <!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                                  "Window">
-<!ENTITY minimizeWindow.label                              "Minimize">
-<!ENTITY zoomWindow.label                                  "Zoom">
+<!ENTITY windowMenu.label                                  "කවුළු">
+<!ENTITY minimizeWindow.label                              "හකුළන්න">
+<!ENTITY zoomWindow.label                                  "විශාලනය">
 <!ENTITY minimizeWindow.key                                "M">
-<!ENTITY bringAllToFront.label                             "Bring All to Front">
+<!ENTITY bringAllToFront.label                             "සියල්ල මතුවිටට ගන්න">
 
 <!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label                             "Services">
-<!ENTITY hideThisAppCmdMac.label                           "Hide &brandShortName;">
+<!ENTITY servicesMenuMac.label                             "සේවා">
+<!ENTITY hideThisAppCmdMac.label                           "&brandShortName; සඟවන්න">
 <!ENTITY hideThisAppCmdMac.commandkey                      "H">
 <!ENTITY hideThisAppCmdMac.modifiers                       "accel">
-<!ENTITY hideOtherAppsCmdMac.label                         "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label                         "අනෙක්වා සඟවන්න">
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
-<!ENTITY showAllAppsCmdMac.label                           "Show All">
+<!ENTITY showAllAppsCmdMac.label                           "සියල්ල පෙන්වන්න">

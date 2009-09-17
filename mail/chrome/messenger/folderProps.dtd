@@ -40,7 +40,7 @@
 
 <!ENTITY folderProps.windowtitle.label           "ලක්ෂණ">
 <!ENTITY generalInfo.label                       "සාමාන්‍ය තොරතුරු">
-<!ENTITY folderCharsetTab.label                  "පෛරනිමි (Default) අකුරු කේතනයන්:">
+<!ENTITY folderCharsetTab.label                  "පෙරනිමි (Default) අකුරු කේතනයන්:">
 <!ENTITY folderCharsetTab.accesskey              "E">
 <!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
@@ -49,21 +49,25 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File">
 
 <!ENTITY retention.label "තබාගැනීමේ පිළිවෙත">
-<!ENTITY retentionUseDefault.label  "සේවාදායක පෛරනිමි භාවිතා කරන්න">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label  "මගේ ගිණූම් සැකසුම් භාවිතා කරන්න">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "දිනකට වඩා පැරණි ලිපි">
 <!ENTITY message.label "ලිපි">
 <!ENTITY retentionCleanup.label "ඩිස්කයේ ඉඩ ලබා ගැනීමට, පැරණි ලිපි ස්ථිරව මැකිය හැකිය">
+<!ENTITY retentionCleanupImap.label "ඩිස්කයේ ඉඩ ලබා ගැනීම සඳහා, සමීප පිටපත්(local copies)  සහ  සේවාදායකයේ මුල් ලිපි (originals on the remote server)යන ආකාර දෙකේම පැරණි ලිපි සම්පූර්ණයෙන්ම මකා දැමිය හැකිය.">
+<!ENTITY retentionCleanupPop.label "ඩිස්කයේ ඉඩ ලබා ගැනීම සඳහා, සේවාදායකයේ මුල් ලිපි (originals on the remote server) ඇතුළු පැරණි ලිපි සම්පූර්ණයෙන්ම මකා දැමිය හැකිය.">
 <!ENTITY retentionDeleteMsg.label "මීට වැඩි ලිපි මකා දමන්න">
 <!ENTITY retentionDeleteMsg.accesskey "m">
  <!ENTITY retentionKeepAll.label "කිසිඳු ලිපියක් මකන්න එපා">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "අවසාන ලිපිය හැර සියල්ල මකන්න">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "සෑමවිටම කියවූ ලිපි මකන්න">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "මෙම ආසන්නතම ලිපිය හැර සියල්ල මකන්න">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "යවූ ලිපි සෑමවිටම මකන්න (කාළ සැකසුම් නොසලකන්න)">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                  "අසම්බන්ධිත">
+<!ENTITY folderSynchronizationTab.label          "Synchronization">
 <!ENTITY folderCheckForNewMessages.label         "නව ලිපි සඳහා මෙම ෆෝල්ඩරය පරීක්ෂා කරන්න">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 

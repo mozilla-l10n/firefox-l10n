@@ -11,7 +11,7 @@
 <!ENTITY never.accesskey               "N">
 <!ENTITY returnSome.label              "සමහර ලිපි සඳහා ලදුපතක් යවන්න">
 <!ENTITY returnSome.accesskey          "r">
-<!ENTITY notInToCc.label               "මම ලිපියේ ලබන්නා තීරැවේ හෝ පිටපත් තීරැවේ නොසිටීනම්:">
+<!ENTITY notInToCc.label               "මම ලිපියේ ලබන්නා තීරුවේ හෝ පිටපත් තීරුවේ නොසිටීනම්:">
 <!ENTITY notInToCc.accesskey           "f">
 <!ENTITY outsideDomain.label           "එවන්නා මගේ අඩවියෙන් පිට අයෙකු නම්:">
 <!ENTITY outsideDomain.accesskey       "t">

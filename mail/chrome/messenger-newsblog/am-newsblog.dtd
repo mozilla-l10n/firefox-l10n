@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "RSS ගිණුම් සැකසුම්">
+<!ENTITY accountTitle.label  "ගිණුම් සැකසුම්">
 
 <!ENTITY biffStart.label "සෑම විනාඩි ">
 <!ENTITY biffStart.accesskey "k">
@@ -13,9 +13,9 @@
 <!ENTITY manageSubscriptions.label "දායකත්වයන් කළමණාකරනය..."> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "ප්‍රවෘත්ති සහ බ්ලොග්ස්">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS ප්‍රවෘත්ති සහ බ්ලොග්ස්">
-<!ENTITY rss.wizardLongName.accesskey "R">
 
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "බ්ලොග්ස් සහ ප්‍රවෘත්ති පෝෂක">
+<!ENTITY feeds.wizardShortName "පෝෂක">
+<!ENTITY feeds.wizardLongName "බ්ලොග්ස් සහ ප්‍රවෘත්ති පෝෂක">
+<!ENTITY feeds.wizardLongName.accesskey "F">

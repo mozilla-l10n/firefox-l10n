@@ -130,18 +130,10 @@
 
 <!ENTITY search.label                              "සොයන්න:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "දැනට ඇති එකතුව පමණි">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "සියලු පිටු සලකුණු">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "තෝරාගත් බහලුම">
 <!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "සියලු පිටු සලකුණු">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "පිටු සලකුණු මෙනුව">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "පිටු සලකුණු මෙවලම් තීරුව">
-<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeBookmarks.label               "පිටුසළකුණු">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "බාගත කිරීම්">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "අතීතය">

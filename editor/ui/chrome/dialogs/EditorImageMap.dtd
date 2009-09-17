@@ -65,14 +65,6 @@
 <!ENTITY propsCmd.label "Hotspot ලක්ෂණ">
 <!ENTITY propsCmd.accesskey "h">
 
-
-<!ENTITY mapeditMenu.label "සැකසුම්">
-<!ENTITY cutCmd.label "කපන්න">
-<!ENTITY copyCmd.label "පිටපත් කරන්න">
-<!ENTITY pasteCmd.label "අලවන්න">
-<!ENTITY selectallCmd.label "සියල්ල තෝරන්න">
-<!ENTITY propsCmd.label "Hotspot ලක්ෂණ">
-
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "දැකුම්">
 <!ENTITY mapviewMenu.accesskey "v">

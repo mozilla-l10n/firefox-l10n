@@ -3,6 +3,6 @@
 <!ENTITY  newMessageCmd.label             "ලිපි">
 <!ENTITY  newMessageCmd.accesskey         "M">
  
-<!ENTITY  newCardCmd.label                "ලිපින පොතේ පිටුවක්...">
-<!ENTITY  newCardCmd.accesskey            "C">
+<!ENTITY  newContactCmd.label                "ලිපින පොතේ සබඳතාවක්...">
+<!ENTITY  newContactCmd.accesskey            "C">
  

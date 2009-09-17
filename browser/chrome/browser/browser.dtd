@@ -31,11 +31,10 @@
 <!ENTITY editBookmark.edit.accessKey                 "E">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY fullScreenExit.label "පූර්‍ණතිර ආකාරයෙන් ඉවත් වන්න">
+<!ENTITY fullScreenExit.label "පර්ණතිර ආකාරයෙන් ඉවත් වන්න">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.label       "විශාල කරන්න">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY editBookmark.removeBookmark.label           "පිටු සලකුණු ඉවත් කරන්න">
 <!ENTITY fullZoomReduceCmd.label        "කුඩා කරන්න">
 <!ENTITY fullScreenExit.accesskey "F">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -55,7 +54,10 @@
 <!ENTITY fullZoom.accesskey             "Z">
 
 
-
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 
 
 <!ENTITY tabCmd.label "නව ටැබයක් විවෘත කරන්න">
@@ -203,7 +205,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ශ්‍රව්‍ය පිහිටුම පිටපත් කරන්න">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (පෞද්ගලික ගවේශනය)">
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "වාදනය">
 <!ENTITY mediaPlay.accesskey         "P">
@@ -217,8 +218,6 @@
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "පාලන සඟවන්න">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY privateBrowsingCmd.label            "පෞද්ගලික ගවේශනය">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
 <!ENTITY reloadImageCmd.label         "පිතුර යළි පූරණය">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY saveVideoCmd.label           "දෘශ්‍ය සුරකින අයුර…">
@@ -235,9 +234,15 @@
 <!-- XXX historyMenu entities are used with or without places (bug 336058) -->
 <!ENTITY historyMenu.label "අතීතය">
 <!ENTITY historyMenu.accesskey "s">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "මෑතකදී වැසූ කවුළු">
 <!-- XXX places only -->
 <!ENTITY historyHomeCmd.label "ආරම්භක පිටුව">
 <!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.bookmarkhistory.emptyText "අතීතය සහ පිටු සලකුණු සෙවීම">
+<!ENTITY urlbar.bookmark.emptyText    "පිටු සලකුණු සෙවීම">
+<!ENTITY urlbar.history.emptyText     "අතීතය සෙවීම">
+<!ENTITY urlbar.none.emptyText        "වෙබ් ලිපිනයක් ටයිප් කරන්න">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -328,10 +333,7 @@
 <!ENTITY thisFrameMenu.label              "මෙම රාමුව">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
-
-
-
-
+<!ENTITY newTabButton.tooltip           "නව ටැබයක් අරින්න">
 <!ENTITY newWindowButton.tooltip        "නව කවුළුවක් අරින්න">
 <!ENTITY sidebarCloseButton.tooltip     "පැති තීරුව වසන්න">
 
@@ -412,3 +414,12 @@
 <!-- new bookmarks and history -->
 
 
+<!ENTITY bookmarksToolbarChevron.tooltip "තවත් පිටුසලකුණු පෙන්වන්න">
+<!ENTITY privateBrowsingCmd.start.label         "පෞද්ගලික ගවේෂණය අරඹන්න">
+<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.stop.label          "පෞද්ගලික ගවේෂණය නවතන්න">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(පෞද්ගලික ගවේෂණය)">
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">

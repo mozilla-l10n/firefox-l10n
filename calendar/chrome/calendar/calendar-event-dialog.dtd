@@ -35,53 +35,27 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "අයිතම සකසන්න" >
+<!ENTITY event.title.label                  "අයිතමය සැකසීම" >
 
-<!ENTITY newevent.from.label                "වෙතින්" >
-<!ENTITY newevent.to.label                  "වෙත" >
+<!ENTITY newevent.from.label                "සිට">
+<!ENTITY newevent.to.label                  "දක්වා" >
+
+<!ENTITY newevent.attendees.notify.label    "සහභාගීවන්නන්ට දැනුම්දීම">
 
 <!ENTITY newevent.status.label              "තත්ත්වය" >
 <!ENTITY newevent.status.accesskey          "S" >
 <!ENTITY newevent.status.none.label         "විශේෂිතව දක්වා නැත" >
-<!ENTITY newevent.status.cancelled.label    "අහෝසි කළා" >
-<!ENTITY newevent.status.tentative.label    "තාවකාලික" >
-<!ENTITY newevent.status.confirmed.label    "ස්තිරයි" >
-<!ENTITY newevent.status.needsaction.label  "අක්‍රියාවක් අවශ්‍යයි" >
-<!ENTITY newevent.status.inprogress.label   "සිදුවෙමින් පවතී" >
-<!ENTITY newevent.status.completed.label    "නිමවන්නේ" >
-
-<!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; අවසන්">
-
-<!-- Alarm -->
-<!ENTITY alarm.units.minutes                "මිනිත්තු" >
-<!ENTITY alarm.units.hours                  "පැය" >
-<!ENTITY alarm.units.days                   "දින" >
-
-<!ENTITY newevent.before.label              "පෙර" >
-<!ENTITY newevent.after.label               "පසු" >
-
-
-
-
-<!ENTITY event.title.label                  "අයිතමය සැකසීම" >
-
-<!ENTITY newevent.before.label              "පෙර" >
-<!ENTITY newevent.after.label               "පසු" >
-
-<!ENTITY newevent.from.label                "සිට">
-<!ENTITY newevent.to.label                  "දක්වා" >
-<!ENTITY newevent.attendees.notify.label    "පැමිණෙන්නන්ට දැනුම්දීම">
-
-<!ENTITY newevent.status.label              "තත්ත්වය">
-<!ENTITY newevent.status.accesskey          "S">
-<!ENTITY newevent.status.none.label         "සඳහන්ව නැති">
+<!ENTITY newevent.status.none.accesskey       "o" >
 <!ENTITY newevent.status.cancelled.label    "අවලංගු කළ">
-<!ENTITY newevent.status.tentative.label    "අස්ථිර">
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
+<!ENTITY newevent.status.tentative.label    "අස්ථිර" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
 <!ENTITY newevent.status.confirmed.label    "තහවුරු කළ">
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
 <!ENTITY newevent.status.needsaction.label  "ක්‍රියාකිරීම අවශ්‍ය">
 <!ENTITY newevent.status.inprogress.label   "කාර්යාවලිය සිදුවන">
 <!ENTITY newevent.status.completed.label    "මෙම දින සම්පූර්ණ කළ">
+
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; සම්පූර්ණයි">
@@ -95,12 +69,14 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "E">
 <!ENTITY  event.menu.file.new.message.label               "පණිවිඩයක්">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "ලිපින පොතේ පිටුවක්">
-<!ENTITY  event.menu.file.new.address.accesskey           "C">
+<!ENTITY  event.menu.file.new.contact.label              "ලිපින පොතේ සබඳතාවයක්">
+<!ENTITY  event.menu.file.new.contact.accesskey           "C">
 <!ENTITY  event.menu.file.close.label                     "වසන්න">
 <!ENTITY  event.menu.file.close.accesskey                 "C">
 <!ENTITY  event.menu.file.save.label                      "සුරකින්න">
 <!ENTITY  event.menu.file.save.accesskey                  "S">
+<!ENTITY  event.menu.item.delete.label                    "මකන්න…">
+<!ENTITY  event.menu.item.delete.accesskey                "D">
 <!ENTITY  event.menu.file.page.setup.label                "පිටු සැකසුම">
 <!ENTITY  event.menu.file.page.setup.accesskey            "u">
 <!ENTITY  event.menu.file.print.label                     "මුද්‍රණය">
@@ -189,6 +165,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "සුරැකීම සහ වැසීම">
+<!ENTITY  event.toolbar.delete.label                      "මැකීම">
 <!ENTITY  event.toolbar.attendees.label                   "පැමිණෙන්නන්ට ආරාධනා කිරීම">
 <!ENTITY  event.toolbar.spellcheck.label                  "අක්ෂර වින්‍යාසය">
 <!ENTITY  event.toolbar.privacy.label                     "පෞද්ගලිකත්වය">
@@ -282,13 +259,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "සෑම" >
 <!ENTITY repeat.units.months.both                       "මාස(ය)කම" >
-<!ENTITY event.recurrence.the.label                     "" >
-<!ENTITY event.recurrence.repeat.first.label            "පළමු">
-<!ENTITY event.recurrence.repeat.second.label           "දෙවන">
-<!ENTITY event.recurrence.repeat.third.label            "තෙවන">
-<!ENTITY event.recurrence.repeat.fourth.label           "සිව්වන">
-<!ENTITY event.recurrence.repeat.fifth.label            "පස්වන">
-<!ENTITY event.recurrence.repeat.last.label             "අවසාන">
+<!ENTITY event.recurrence.monthly.every.label           "සෑම" >
+<!ENTITY event.recurrence.monthly.first.label           "පළමු">
+<!ENTITY event.recurrence.monthly.second.label          "දෙවන">
+<!ENTITY event.recurrence.monthly.third.label           "තෙවන">
+<!ENTITY event.recurrence.monthly.fourth.label          "සිව්වන">
+<!ENTITY event.recurrence.monthly.fifth.label           "පස්වන">
+<!ENTITY event.recurrence.monthly.last.label            "අවසාන">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "ඉරිදා" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "සදුදා" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "අඟහරුවාදා" >
@@ -297,12 +274,12 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "සිකුරාදා" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "සෙනසුරාදා" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "මාසයේ දින">
-<!ENTITY event.recurrence.repeat.recur.label            "පුනරාවර්තනය වය දින(ය)">
+<!ENTITY event.recurrence.repeat.recur.label            "පුනරාවර්තනය වන දින(ය)">
 
 <!ENTITY event.recurrence.every.label                        "සෑම:" >
 <!ENTITY repeat.units.years.both                             "වසරකම" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "සෑම" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "සෑම" >
+
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -325,12 +302,6 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "ඔක්තොමබර්" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "නොවැම්බර්" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "දෙසැම්බර්" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "පළමු">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "දෙවන">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "තෙවන">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "සිව්වන">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "පස්වන">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "අවසාන">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "ඉරිදා" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "සදුදා" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "අඟහරුවාදා" >
@@ -351,7 +322,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.10.label     "ඔක්තොමබර්" >
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "නොවැම්බර්" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "දෙසැම්බර්" >
-
+<!ENTITY event.recurrence.yearly.every.label                 "සෑම">
+<!ENTITY event.recurrence.yearly.first.label                 "පළමු">
+<!ENTITY event.recurrence.yearly.second.label                "දෙවන">
+<!ENTITY event.recurrence.yearly.third.label                 "තෙවන">
+<!ENTITY event.recurrence.yearly.fourth.label                "සිව්වන">
+<!ENTITY event.recurrence.yearly.fifth.label                 "පස්වන">
+<!ENTITY event.recurrence.yearly.last.label                  "අවසාන">
 <!ENTITY event.recurrence.range.label                   "පුනරාවර්තන පරාසය">
 <!ENTITY event.recurrence.forever.label                 "අවසාන දිනයක් නැත" >
 <!ENTITY event.recurrence.repeat.for.label              "සාදන්න" >
@@ -359,39 +336,24 @@
 <!ENTITY event.repeat.until.label                       "දක්වා පුනරාවර්තනය කරන්න" >
 <!ENTITY event.recurrence.preview.label                 "පෙරදැක්ම">
 
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "මිනිත්තු" >
-<!ENTITY alarm.units.hours                  "පැය" >
-<!ENTITY alarm.units.days                   "දින" >
-
-<!ENTITY reminder.title.label                           "සිහිකැඳවීම රිසිකරණය">
-<!ENTITY reminder.dialogtitle.label                     "සිහිකැඳවීම් සැකසීම">
-<!ENTITY reminder.reminderDetails.label                 "සිහිකැඳවීමේ තොරතුරු">
-<!ENTITY reminder.action.label                          "සිහිකැඳවීමේ ක්‍රියාවක් තෝරන්න">
-<!ENTITY reminder.action.alert.label                    "සෝදිසියෙන් තබන්න">
-<!ENTITY reminder.action.email.label                    "ඊ-මේලයක් යවන්න">
-<!ENTITY reminder.new.label                             "නව">
-<!ENTITY reminder.delete.label                          "මකන්න">
-<!ENTITY reminder.relation.start.label                  "සිදුවීම ආරම්භ වන්නේ">
-<!ENTITY reminder.relation.end.label                    "සිදුවීම අවසාන වන්නේ">
-<!ENTITY reminder.add.label                             "එක් කරන්න">
-<!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "ඉවත් කරන්න">
-<!ENTITY reminder.remove.accesskey                      "R">
-
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label              "පැමිණෙන්නන්ට ආරාධනා කිරීම">
 <!ENTITY event.organizer.label           "සංවිධායක">
 <!ENTITY event.freebusy.suggest.slot     "යෝජනාකරන කාළ රාමුව:">
 <!ENTITY event.freebusy.next.slot        "ඊළග කාළ රාමුව " >
-<!ENTITY event.freebusy.previous.slot    " පෙර කාළ රාමුව" >
+<!ENTITY event.freebusy.previous.slot    "පෙර කාළ රාමුව" >
 <!ENTITY event.freebusy.zoom             "විශාලනය:">
 <!ENTITY event.freebusy.plus             "ඊළග පැය" >
 <!ENTITY event.freebusy.minus            "පෙර පැය" >
 <!ENTITY event.freebusy.legend.free      "නිදහස්" >
 <!ENTITY event.freebusy.legend.busy      "කාර්යය බහුල" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Tentative" >
+<!ENTITY event.freebusy.legend.busy_unavailable "කාර්යාලයේ නැත" >
 <!ENTITY event.freebusy.legend.unknown   "තොරතුරු නැත" >
+<!ENTITY event.attendee.role.required           "Required Attendee">
+<!ENTITY event.attendee.role.optional           "Optional Attendee">
+<!ENTITY event.attendee.role.chair              "මුලසුන">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "කරුණාකර වේලා කලාපය දක්වන්න">

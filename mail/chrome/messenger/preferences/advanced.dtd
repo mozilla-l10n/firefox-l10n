@@ -5,8 +5,14 @@
 <!ENTITY itemCertificates.label  "සහතික">
 
 <!-- General Settings -->
-<!ENTITY enableGloda.label             "Enable Message Indexer">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY systemIntegration.label       "System Integration">
+<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY alwaysCheckDefault.label       "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. යෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY checkNow.accesskey            "N">
 <!ENTITY showCondensedAddresses.label  "මගේ ලිපින පොතේ අඩංගු අයගේ පෙන්වන නම පමණක් ප්‍රදර්ශණය කරන්න">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -20,13 +26,16 @@
 <!ENTITY markAsReadDelay.label         "පෙන්වා තත්පර">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "ට පසු">
-<!ENTITY showFolderColumns.label       "විදහළු තීරු ෆෝල්ඩර කවුළුවේ පෙන්වන්න">
-<!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY openMsgIn.label               "ලිපි විවෘත කරන්නේ:">
+<!ENTITY openMsgInNewTab.label         "නව ටැබයක් තුළ">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label          "නව ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "පවතින ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY closeMsgWindowOnDelete.label  "මැකීමේදී ලිපි කවුළුව වහන්න">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+
 <!ENTITY configEditDesc.label          "වැඩිමනත් වින්‍යාස කිරීම්">
 <!ENTITY configEdit.label              "Config Editor...">
 <!ENTITY configEdit.accesskey          "g">
@@ -50,7 +59,7 @@
 <!ENTITY modeAskMe.accesskey            "k">
 <!ENTITY modeAutomatic.label            "ස්වයංක්‍රීයව භාගත කර ස්ථාපනය කරන්න">
 <!ENTITY modeAutomatic.accesskey        "m">
-<!ENTITY modeAutoAddonWarn.label        "මෙය මගේ කිසියම් එක්-කිරීමක් අබල (disable) කරන්නේ නම් අනතුරු අඟවන්න">
+<!ENTITY modeAutoAddonWarn.label        "මෙය මගේ කිසියම් ඇඩෝනයක් අබල (disable) කරන්නේ නම් අනතුරු අඟවන්න">
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "යාවත්කාලීන ඉතිහාසය පෙන්වන්න">
 <!ENTITY showUpdates.accesskey          "y">
@@ -59,7 +68,6 @@
 <!ENTITY showSettings.label            "සැකසුම්…">
 <!ENTITY showSettings.accesskey        "n">
 <!ENTITY proxiesConfigure.label        "&brandShortName; අන්තර්ජාලයට සම්බන්ධ වන්නේ කෙසේදැයි වින්‍යාස කරන්න">
-<!ENTITY connectionsInfo.caption       "සම්බන්ධතාවය">
 <!ENTITY connectionsInfo.caption       "සම්බන්ධතාවය">
 <!ENTITY offlineInfo.caption           "අසම්බන්ධිත">
 <!ENTITY offlineInfo.label             "අසම්බන්ධිත සැකසුම් වින්‍යාස කරන්න">
@@ -72,11 +80,17 @@
 <!ENTITY kb.label "kB">
 <!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY useCacheBefore.label            "කෑච් සඳහා මෙගාබයිට (MB)">
+<!ENTITY useCacheBefore.label            "කෑච් (Cache) සඳහා මෙගාබයිට (MB)">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             " දක්වා ප්‍රමාණයක් භාවිතා කරන්න">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "සේවාදායකයක් මගේ පෞද්ගලික සහතික ඉල්ලන විටදී:">
+<!ENTITY certs.auto                      "ස්වයංක්‍රීයව එකක් තෝරන්න">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "සෑම විටම විමසන්න">
+<!ENTITY certs.ask.accesskey             "A">
+
 <!ENTITY viewCertificates.label         "සහතික පෙන්වීම">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "අහෝසිකිරීමේ ලැයිස්තුව">

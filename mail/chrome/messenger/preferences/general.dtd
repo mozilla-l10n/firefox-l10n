@@ -1,14 +1,9 @@
-<!ENTITY systemDefaults.label              "පද්ධති පෙරනිමි (Defaults)">
-<!ENTITY alwaysCheckDefault.label          "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. සෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
   There's some sort of bug which makes wrapping checkboxes not properly reflow,
   causing the bottom border of the groupbox to be cut off; set this
   appropriately if your localization causes this checkbox to wrap.
 -->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "දැන් පරීක්ෂා කරන්න">
-<!ENTITY checkNow.accesskey         "N">
 
 <!ENTITY messengerStartPage.label         "&brandShortName; ආරම්භක පිටුව">
 <!ENTITY enableStartPage.label            "&brandShortName; දියත් කිරීමේදී, ආරම්භක පිටුව ලිපි පෙදෙසේ (message area) පෙන්වන්න">

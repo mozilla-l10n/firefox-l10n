@@ -1,6 +1,6 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS දායකත්වයන්">
- <!ENTITY subscriptionDesc.label "සටහන: පෝෂකයක් සඳහා ෆෝල්ඩරය ඉවත් කිරීම හෝ වෙනස් කිරීම පෙරදී භාගත කළ ලිපි (articles) වලට බල නොපායි.">
+<!ENTITY feedSubscriptions.label "පෝෂක දායකත්වයන්">
+<!ENTITY subscriptionDesc.label "සටහන: පෝෂකයක් සඳහා ෆෝල්ඩරය ඉවත් කිරීම හෝ වෙනස් කිරීම පෙරදී භාගත කළ ලිපි (articles) වලට බල නොපායි.">
 <!ENTITY feedTitle.label "සිරස්තලය:">
 <!ENTITY location.label  "ස්ථානය:">
 

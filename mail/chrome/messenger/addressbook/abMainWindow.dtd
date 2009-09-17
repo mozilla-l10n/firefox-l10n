@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey                             "f">
 <!ENTITY newMenu.label                                  "නව">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "ලිපින පොතේ පිටුවක්…">
-<!ENTITY newCard.accesskey                              "C">
-<!ENTITY newCard.key                                    "N">
+<!ENTITY newContact.label                               "ලිපින පොතේ සබඳතාවක්…">
+<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "තැපැල් ලැයිස්තුව…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "ලිපින පොතක්…">
@@ -25,13 +25,13 @@
 <!ENTITY closeCmd.accesskey                             "c">
 <!ENTITY printSetupCmd.label                            "පිටු සකසන්න...">
 <!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewCardViewCmd.label                  "පිටුවේ මුද්‍රණ පෙර දැක්ම">
-<!ENTITY printPreviewCardViewCmd.accesskey              "v">
+<!ENTITY printPreviewContactCmd.label                   "සබඳතා මුද්‍රණ පෙර දැක්ම">
+<!ENTITY printPreviewContactCmd.accesskey               "v">
 <!ENTITY printPreviewAddressBook.label                  "ලිපින පොතේ මුද්‍රණ පෙර දැක්ම">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printCardViewCmd.label                         "පිටුව මුද්‍රණය...">
-<!ENTITY printCardViewCmd.accesskey                     "p">
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactCmd.label                          "සබඳතාව මුද්‍රණය…">
+<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "ලිපින පොත මුද්‍රණය...">
 <!ENTITY printAddressBook.accesskey                     "A">
 
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label                                "මකන්න">
 <!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "ලිපින පොත මකන්න">
-<!ENTITY deleteCardCmd.label                            "පිටුව මකන්න">
-<!ENTITY deleteCardsCmd2.label                          "පිටු මකන්න">
+<!ENTITY deleteContactCmd.label                         "සබඳතාව මකන්න">
+<!ENTITY deleteContactsCmd.label                        "සබඳතා මකන්න">
 <!ENTITY deleteListCmd.label                            "ලැයිස්තුව මකන්න">
 <!ENTITY deleteListsCmd.label                           "ලැයිස්තු මකන්න">
 <!ENTITY deleteItemsCmd.label                           "අයිතමයන් මකන්න">
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "රිසිකරණය...">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showCardPane.label                             "කාඩ්පත් සාරාංශ කවුළුව">
-<!ENTITY showCardPane.accesskey                         "C">
+<!ENTITY showContactPane.label                          "සබඳතා සාරාංශ කවුළුව">
+<!ENTITY showContactPane.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label                          "නම මෙසේ පෙන්වන්න">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "මුල, අග">
@@ -116,27 +116,26 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "අලුත් පිටුවක්">
-<!ENTITY newcardButton.accesskey                        "C">
+<!ENTITY newContactButton.label                         "නව සබඳතාවක්">
+<!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "නව ලැයිස්තුවක්">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton.label                               "ලක්ෂණ">
-<!ENTITY editButton.accesskey                           "P">
+<!ENTITY editButton2.label                               "ලක්ෂණ">
+<!ENTITY editButton2.accesskey                           "P">
 <!ENTITY newmsgButton.label                             "නව ලිපියක් ලියන්න">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "ක්ෂණික පණිවිඩ">
 <!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton.label                             "මකන්න">
-<!ENTITY deleteButton.accesskey                         "D">
-<!ENTITY throbberItem.title                             "ක්‍රියාකාරීත්ව දර්ශකය">
+<!ENTITY deleteButton2.label                             "මකන්න">
+<!ENTITY deleteButton2.accesskey                         "D">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "ලිපින පොතට නව පිටුවක් එක් කිරීමට">
+<!ENTITY newContactButton.tooltip                       "ලිපින පොතට නව සබඳතාවක් එක් කිරීමට">
 <!ENTITY newlistButton.tooltip                          "නව ලැයිස්තුවක් සෑදීමට">
-<!ENTITY editButton.tooltip                             "තෝරාගත් පිටුවේ වෙනස්කම් කිරීමට">
+<!ENTITY editButton2.tooltip                             "තෝරාගත් පිටුවේ වෙනස්කම් කිරීමට">
 <!ENTITY newmsgButton.tooltip                           "ලිපියක් යැවීමට">
 <!ENTITY newIM.tooltip                                  "ක්ෂණික පණිවිඩක් හෝ කතාබහ යැවීමට">
-<!ENTITY deleteButton.tooltip                           "තෝරාගත් පිටුව හෝ පොත මකා දැමීමට">
+<!ENTITY deleteButton2.tooltip                           "තෝරාගත් අයිතමයන් මකා දැමීමට">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "ලිපින පොත්">

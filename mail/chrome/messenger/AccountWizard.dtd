@@ -5,13 +5,13 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "ලිපි ලබා ගැනීම සඳහා පළමුව ඔබ විසින් තැපැල් හෝ පුවත්සමූහ ගිණුමක් සකස් කර ගැනීම අවශ්‍ය වේ.">
-<!ENTITY accountTypeTitle.label "නව ගිණුමක් සකස් කරීම">
-<!ENTITY accountTypeDesc.label "මෙම  විශාරද ක්‍රියාවලිය නව තැපැල් ‌හෝ පුවත්සමුහ ගිණූමක් සකස් කිරීම සදහා අවශ්‍ය ‌තොරතූරු එකතූ කරයි. එම ‌තොරතූරු ඔබ සතූව ‌නොමැති නම් කරුණාකර පද්ධති පරිපාලක ‌හෝ අන්තර්ජාල සේවා සපයන්නාගේ සහාය ලබා ගන්න.">
+<!ENTITY accountSetupInfo.label "ලිපි ලබා ගැනීම සඳහා පළමුව තැපැල් හෝ පුවත්සමූහ ගිණුමක් සකස් කර ගැනීම අවශ්‍ය වේ.">
+<!ENTITY accountTypeTitle.label "නව ගිණුමක් සකස් කිරීම">
+<!ENTITY accountTypeDesc.label "මෙම  විශාරද ක්‍රියාවලිය නව තැපැල් ‌හෝ පුවත්සමූහ ගිණූමක් සකස් කිරීම සදහා අවශ්‍ය ‌තොරතූරු එකතූ කරයි. එම ‌තොරතූරු ඔබ සතූව ‌නොමැති නම් පද්ධති පරිපාලක ‌හෝ අන්තර්ජාල සේවා සපයන්නාගේ සහාය ලබා ගන්න.">
 <!ENTITY accountTypeDirections.label "ඔබ සකස් කරගැනීමට කැමති ගිණුම් වර්ගය ‌තෝරන්න:">
 <!ENTITY accountTypeMail.label "විද්‍යුත් තැපැල් ගිණූමක්">
 <!ENTITY accountTypeMail.accesskey "m">
-<!ENTITY accountTypeNews.label "පුවත්සමුහ ගිණූමක්">
+<!ENTITY accountTypeNews.label "පුවත්සමූහ ගිණූමක්">
 <!ENTITY accountTypeNews.accesskey "w">
 
 <!-- Entities for Identity page -->
@@ -20,7 +20,7 @@
 <!ENTITY identityDesc.label "සෑම ගිණූමකටම හැඳුනුමක් ඇත. එහි, අන්අය ඔබගේ ලිපි ලැබී‌මේදී ඔබව හඳුනාගැනීම සදහා අවශ්‍ය තොරතූරු ඇත.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "ඔබ ලිපි යැවීමේදී &quot;යවන්නා&quot;  තීරැව තූළ ඔබ‌ගේ නම සදහන් විය යුතූ ආකාරය මෙහි ඇතුළත් කරන්න.">
+<!ENTITY fullnameDesc.label "ඔබ ලිපි යැවීමේදී &quot;යවන්නා&quot;  තීරුව තූළ ඔබ‌ගේ නම සදහන් විය යුතූ ආකාරය මෙහි ඇතුළත් කරන්න.">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
@@ -46,9 +46,9 @@
 <!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "ඔබගේ  යැවුම් සේවාදායක‌යේ නම ඇතුළත් කරන්න (SMTP) (උදාහරණයක් ‌ලෙස, &quot;smtp.example.lk&quot;).">
-<!ENTITY smtpServerLabel.label "යැවුම් සේවාදාය:">
+<!ENTITY smtpServerLabel.label "යැවුම් සේවාදායකය:">
 <!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "පුවත්සමුහ සේවාදායකය:">
+<!ENTITY newsServerLabel.label "පුවත්සමූහ සේවාදායකය:">
 <!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -67,7 +67,7 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "ඔබගේ දැනට පචතින යැවුම් සේවාදායකය (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, භාවිතා වනු ඇත. ඔබ‌ට එවුම් සේවාදායකයට අදාළ ‌තොරතූරු ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණූම සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, භාවිතා වනු ඇත. ඔබ‌ට යැවුම් සේවාදායක ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණූම් සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
 
 <!-- Entities for Login page -->
 
@@ -85,13 +85,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "ඔබගේ දැනට පචතින යැවුම් (SMTP) පරිශීලක නම, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, භාවිතා වනු ඇත. ඔබ‌ට එවුම් සේවාදායකයට අදාළ ‌තොරතූරු ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණූම සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
+<!ENTITY haveSmtp2.suffix2 "&quot;, භාවිතා වනු ඇත. ඔබ‌ට යැවුම් සේවාදායක ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණුම් සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "ඔබගේ යැවුම් (SMTP) සේවාදායකය, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, ඔබගේ එවුම් සේවාදායක‌යටම සමාන වේ, ඔබගේ  එවුම් පරිශීලක නම මෙයට ඇතූලු වීම සඳහා භිවිතා කරයි. ඔබ‌ට එවුම් සේවාදායකයට අදාළ ‌තොරතූරු ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණූම සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, ඔබගේ එවුම් සේවාදායක‌යටම සමාන වේ, ඔබගේ  එවුම් පරිශීලක නම මෙයට ඇතූලු වීම සඳහා භිවිතා කරයි. ඔබ‌ට යැවුම් සේවාදායක ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණූම් සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
 
 <!-- Entities for Account name page -->
 
@@ -104,13 +104,15 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "සුභ පැතූම්!">
-<!ENTITY completionText.label "කරුණාකර පහත තොරතුරු නිවැරදි බව තහවුරු කරන්න.">
+<!ENTITY completionText.label "පහත තොරතුරු නිවැරදි බව තහවුරු කරන්න.">
 <!ENTITY serverTypePrefix.label "එවුම් සේවාදායක‌යේ වර්ගය:">
 <!ENTITY serverNamePrefix.label "එවුම් සේවාදායක‌යේ නම:">
 <!ENTITY smtpServerNamePrefix.label "යැවුම් සේවාදායක‌යේ නම (SMTP):">
 <!ENTITY newsServerNamePrefix.label "පුවත් සේවාදායක‌යේ නම (NNTP):">
 <!ENTITY downloadOnLogin.label "දැන් ලිපි භාගත කරන්න">
+<!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Untick this box to store mail for this account in its own directory. That will make this account appear as a top-level account. Otherwise, it will be part of the Local Folders Global Inbox account.">
 <!ENTITY deferStorage.label "Use Global Inbox (store mail in Local Folders)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "නිමි ‌බොත්තම මත ක්ලික් කිරී‌මෙන් ‌මෙම ‌තොරතූරු සුරැකීමට හා ගිණුම් විශාරද ක්‍රියාවලියෙන් ඔබට ඉවත්විය හැකිය.">
 <!ENTITY clickFinish.labelMac "කළා බොත්තම මත ක්ලික් කිරී‌මෙන් ‌මෙම ‌තොරතූරු සුරැකීමට හා ගිණුම් විශාරද ක්‍රියාවලියෙන් ඔබට ඉවත්විය හැකිය.">

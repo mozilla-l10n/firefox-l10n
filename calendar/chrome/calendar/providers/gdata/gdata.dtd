@@ -43,6 +43,6 @@
 <!ENTITY gdata.migration.description "The Provider for Google Calendar has detected that you have existing calendars that are only capable of accessing Google Calendar in read-only mode. If you would like to upgrade any of these calendars, please select them below">
 <!ENTITY gdata.migration.upgrade.label "Upgrade">
 <!ENTITY gdata.migration.upgrade.accesskey "U">
-<!ENTITY gdata.migration.showagain.label "Always check ">
+<!ENTITY gdata.migration.showagain.label "සෑමවිටම පරීක්ෂා කරන්න ">
 
-<!ENTITY gdata.reminder.action.sms.label "Send a Text Message">
+<!ENTITY gdata.reminder.action.sms.label "සාමාන්‍ය පාඨ පණිවිඩයක් යවන්න">

@@ -17,7 +17,7 @@
 
 <!ENTITY serverDescription.label "විස්තරය: ">
 <!ENTITY serverName.label "සේවාදායක නම: ">
-<!ENTITY serverPort.label "විවරය (Port): ">
+<!ENTITY serverPort.label "තොට (Port): ">
 <!ENTITY userName.label   "පරිශීලක නම: ">
-<!ENTITY useSecureConnection.label   "ආරක්ෂක සම්බන්ධතාවය: ">
+<!ENTITY connectionSecurity.label "සම්බන්ධතා ආරක්ෂාව: ">
 <!ENTITY useSecureAuthentication.label   "ආරක්ෂක සත්‍යාපනය: ">

@@ -16,6 +16,5 @@
 <!ENTITY junkSettings.label           "නිසරුලිපි සැකසුම්">
 <!ENTITY offlineLink.label            "අසම්බන්ධිත සැකසුම්">
 
-
-<!ENTITY rssSectionHdr.label          "RSS News &amp; Blogs"> 
-<!ENTITY subscibeRSS.label            "දායකත්වයන් කළමණාකරණය">
+<!ENTITY feedsSectionHdr.label        "පෝෂක">
+<!ENTITY subscribeFeeds.label         "දායකත්වයන් කළමණාකරණය">

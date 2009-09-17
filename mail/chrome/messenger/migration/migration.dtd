@@ -5,8 +5,8 @@
 
 <!ENTITY importFromNothing.label        "කිසිවක් ආයාත නොකරන්න">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromSeamonkey2.label      "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey2.accesskey  "N">
 <!ENTITY importFromNetscape4.label      "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey  "4">
 <!ENTITY importFromOExpress.label       "Outlook Express">
@@ -26,5 +26,5 @@
 <!ENTITY selectProfile.title            "පැතිකඩ (Profile) තෝරන්න">
 <!ENTITY selectProfile.label            "පහත පැතිකඩ (Profile) ආයාත කිරීම සඳහා තිබේ (වෙතින්):">
 
-<!ENTITY done.title                     "ආයාත කරීම අවසන්">
+<!ENTITY done.title                     "ආයාත කිරීම අවසන්">
 <!ENTITY done.label                     "පහත අයිතමයන් සාර්ථකව ආයාත කරන ලදී:">

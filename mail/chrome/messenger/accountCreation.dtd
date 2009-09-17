@@ -1,0 +1,82 @@
+<!ENTITY autoconfigWizard.title          "ගිණුම සකස් කිරීම">
+<!ENTITY name.label                      "ඔබේ නම:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "පළමු අවසාන">
+<!ENTITY name.text                       "ඔබේ නම, අන් අයට පෙන්වන අයුරු">
+<!ENTITY email.label                     "විද්‍යුත් තැපැල් ලිපිනය:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "රහස්පදය:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.emptytext              "රහස්පදය">
+<!ENTITY password.text                   "Optional, will only be used to validate the username">
+
+<!ENTITY accountInformation.label        "ගිණුම් තොරතුරු">
+<!ENTITY username2.label                 "පරිශීලක නම:">
+<!ENTITY incoming.label                  "එවුම් :">
+<!ENTITY outgoing.label                  "යැවුම්:">
+<!ENTITY noEncryption.label              "කිසිවක් නැත">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Manual Setup…">
+<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY cancel.label                    "එපා">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "දිගටම කරන්න">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "ආරම්භ කරන්න">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "නවතන්න">
+<!ENTITY stop.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
+     which will create the account and take the user to the account
+     configuration screen. -->
+<!ENTITY cancel.label                    "එපා">
+<!ENTITY stop.label                      "නවතන්න">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Re-test Configuration">
+<!ENTITY retest.accesskey                "R">
+<!ENTITY edit.label                      "සැකසුම්">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "රහස්පදය මතක තබාගන්න">
+<!ENTITY rememberPassword.accesskey      "m">
+
+<!ENTITY warning.label                   "අවවාදයයි!">
+<!ENTITY incomingSettings.label          "යැවීම් සැකසුම්:">
+<!ENTITY outgoingSettings.label          "ලැබීම් සැකසුම්:">
+<!ENTITY technicaldetails.label          "තාක්ෂණික විස්තර">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "මම අනතුර තේරුම් ගතිමි.">
+<!ENTITY confirmWarning.accesskey        "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "ගිණුම සෑදීම">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "සැකසුම් වෙනස්කිරීම">
+<!ENTITY changeSettings.accesskey        "S">
+
+<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
+
+<!ENTITY insecureServer.tooltip.title    "අවවාදයයි! මෙය අනාරක්ෂිත සේවාදායකයකි.">
+<!ENTITY insecureServer.tooltip.details  "වැඩි විස්තර සඳහා වෘත්තය ත්ලිත් තරන්න.">
+
+<!ENTITY insecureCleartext.description   "Email is sent in clear-text, so your email could be read by other people on the internet. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
+<!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
+<!ENTITY secureServer.description        "සුභපැතුම්! මෙය ආරක්ෂිත සේවාදායකයකි.">

@@ -39,7 +39,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  prefWindow.titleWin     "වරණ">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; අභිප්‍රේත">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; මනාපයන්">
 <!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
 <!ENTITY  prefWindow.styleMac     "width: 47em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
@@ -47,6 +47,6 @@
 <!ENTITY  paneGeneral.title       "සාමාන්‍ය">
 <!ENTITY  paneAlarms.title        "සංඥාව">
 <!ENTITY  paneCategories.title    "ප්‍රභේද">
-<!ENTITY  paneViews.title         "දර්‍ශනය">
+<!ENTITY  paneViews.title         "දැකුම්">
 <!ENTITY  paneTimezones.title     "වේලා කළාපය">
 <!ENTITY  paneAdvanced.title      "උසස්">

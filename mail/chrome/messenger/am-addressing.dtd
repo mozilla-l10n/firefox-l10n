@@ -23,11 +23,15 @@
 <!ENTITY autoQuote.accesskey                  "q">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "එවිට,">
-<!ENTITY then.accesskey                       "t">
-<!ENTITY aboveQuote.label                     "පිළිතුර උපුටා දැක්වීමට ඉහළින් ආරම්භ කරන්න">
-<!ENTITY belowQuote.label                     "පිළිතුර උපුටා දැක්වීමට පහළින් ආරම්භ කරන්න">
+<!ENTITY then.accesskey                       "">
+<!ENTITY aboveQuote.label                     "උපුටා දැක්වීමට ඉහළින් පිළිතුර ආරම්භ කරන්න">
+<!ENTITY belowQuote.label                     "උපුටා දැක්වීමට පහළින් පිළිතුර ආරම්භ කරන්න">
 <!ENTITY selectAndQuote.label                 "උපුටා දැක්වීම තෝරන්න">
-<!ENTITY place.label                          "සහ මගේ මුද්‍රාව (signature) තබන්න">
+<!ENTITY place.label                          "සහ මගේ අත්සන (signature) තබන්න">
 <!ENTITY place.accesskey                      "p">
-<!ENTITY belowText.label                      "උපුටා දැක්වීමට පහළින්(අනුමත)">
-<!ENTITY aboveText.label                      "මගේ පිළිතුර පහළින්(උපුටා දැක්වීමට ඉහළින්)">
+<!ENTITY belowText.label                      "උපුටා දැක්වීමට පහළින් (නිර්දේශිත)">
+<!ENTITY aboveText.label                      "මගේ පිළිතුර පහළින් (උපුටා දැක්වීමට ඉහළින්)">
+<!ENTITY includeSigOnReply.label              "පිළිතුරු සඳහා අත්සන ඇතුලත් කරන්න">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "යොමුකිරීම් සඳහා අත්සන ඇතුලත් කරන්න">
+<!ENTITY includeSigOnForward.accesskey        "w">

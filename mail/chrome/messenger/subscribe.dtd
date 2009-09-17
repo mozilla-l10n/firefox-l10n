@@ -35,10 +35,10 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "දායකත්වය">
-<!ENTITY subscribeButton.label        "දායකත්වය ලබාගන්න">
+<!ENTITY subscribeDialog.title        "ග්‍රාහකත්වය">
+<!ENTITY subscribeButton.label        "ග්‍රාහකත්වය ලබාගන්න">
 <!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "දායකත්වය අත්හරින්න">
+<!ENTITY unsubscribeButton.label      "ග්‍රාහකත්වය අත්හරින්න">
 <!ENTITY unsubscribeButton.accesskey  "U">
 <!ENTITY newGroupsTab.label           "නව සමූහ">
 <!ENTITY newGroupsTab.accesskey       "N">

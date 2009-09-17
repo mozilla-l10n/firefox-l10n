@@ -1,8 +1,15 @@
 <!ENTITY aboutDialog.title      "&brandFullName; පිළිබඳ">
 <!ENTITY credits.label          "ප්‍රණාමය">
 <!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label        "&lt; &brandFullName; පිළිබඳ">
-<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutButton.label      "&lt; පසුපසට">
+<!ENTITY aboutButton.accesskey  "B">
 <!ENTITY aboutVersion           "නිකුතුව">
 <!ENTITY copyrightText          "&#169;1998-2007 Contributors. සියළු හිමිකම් ඇවිරිණි. Mozilla Thunderbird and the
                                  Thunderbird logos are trademarks of the Mozilla Foundation.  සියළු හිමිකම් ඇවිරිණි.">
+<!ENTITY aboutMenu.label        "පිළිබඳ">
+<!ENTITY aboutMenu.accesskey    "A">
+<!ENTITY aboutRights.label      "ඔබගේ අයිතීන්">
+<!ENTITY aboutRights.accesskey  "R">
+<!ENTITY aboutContributors.label "දායකයින්">
+<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY cmdCloseMac.commandKey "w">

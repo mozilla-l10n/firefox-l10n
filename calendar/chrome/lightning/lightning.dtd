@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "වැඩසටහන">
-<!ENTITY lightning.menupopup.new.task.label     "කාර්‍යය…">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
+<!ENTITY lightning.menupopup.new.task.label     "කාර්යය…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "දිනදර්ශන…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "විවෘත කරන්න">
@@ -61,31 +64,23 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "දිනදර්ශන ගොනුව…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "ආරාධනා">
-<!ENTITY lightning.sidebar.invitations.accesskey "I">
-<!ENTITY lightning.calendar.label            "දිනදර්ශනය">
-<!ENTITY lightning.calendar.accesskey        "C">
-<!ENTITY lightning.tasks.label               "කාර්‍යය">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "දිනදර්ශනය">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "කාර්යයන්">
+<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "සිදුවීම් සහ කාර්යයන්">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "තැපෑල">
 <!ENTITY lightning.toolbar.mail.accesskey     "M">
 <!ENTITY lightning.toolbar.calendar.label     "දිනදර්ශනය">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "කාර්‍යය">
+<!ENTITY lightning.toolbar.task.label         "කාර්යය">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
-
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "මෙවලම් තීරුව:">
-<!ENTITY customize.toolbar.selector.mode     "විධි මෙවලම් තීරුව">
-<!ENTITY customize.toolbar.selector.mail     "තැපෑල මෙවලම් තීරුව">
-<!ENTITY customize.toolbar.selector.calendar "දිනදර්ශන මෙවලම් තීරුව">
-<!ENTITY customize.toolbar.selector.task     "කාර්‍යය මෙවලම් තීරුව">
-<!ENTITY customize.toolbar.location.label    "ස්ථානය:">
-<!ENTITY customize.toolbar.location.top      "ඉහළ">
-<!ENTITY customize.toolbar.location.bottom   "පහළ">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "දවස">
@@ -99,7 +94,7 @@
 
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "දවසේ තලයේ සිද්ධි දර්ශනය කරන්න">
-<!ENTITY lightning.calendarproperties.showtasks.label           "දවසේ තලයේ සහ කාර්‍යය විධියේ කාර්‍යය දර්ශය කරන්න">
+<!ENTITY lightning.calendarproperties.showtasks.label           "දවසේ තලයේ සහ කාර්‍යය විධියේ කාර්යය දර්ශය කරන්න">
 <!ENTITY lightning.calendarproperties.email.label               "ඊ-මේල්:">
 
 <!-- iMIP Bar (meeting support) -->

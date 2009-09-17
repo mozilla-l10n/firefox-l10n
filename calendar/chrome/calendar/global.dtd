@@ -35,7 +35,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY time.midnight "මධ්‍යම රාත්‍රී" >
-<!--<!ENTITY time.1 "1:00 පෙ.ව." >
+<!ENTITY time.noon "මධ්‍යාහ්න" >
+<!-- 
+<!ENTITY time.1 "1:00 පෙ.ව." >
 <!ENTITY time.2 "2:00 පෙ.ව." >
 <!ENTITY time.3 "3:00 පෙ.ව." >
 <!ENTITY time.4 "4:00 පෙ.ව." >
@@ -43,12 +45,12 @@
 <!ENTITY time.6 "6:00 පෙ.ව." >
 <!ENTITY time.7 "7:00 පෙ.ව." >
 <!ENTITY time.8 "8:00 පෙ.ව." >
-<!ENTITY time.9 "9:00 පෙ.ව." >-->
-<!--<!ENTITY time.10 "10:00 පෙ.ව." >
+<!ENTITY time.9 "9:00 පෙ.ව." >
+<!ENTITY time.10 "10:00 පෙ.ව." >
 <!ENTITY time.11 "11:00 පෙ.ව." >
-<!--<!--<!---->
-<!ENTITY time.noon "මධ්‍යාහ්න" >
-<!--<!ENTITY time.13 "1:00 ප.ව." >
+
+
+<!ENTITY time.13 "1:00 ප.ව." >
 <!ENTITY time.14 "2:00 ප.ව." >
 <!ENTITY time.15 "3:00 ප.ව." >
 <!ENTITY time.16 "4:00 ප.ව." >
@@ -58,9 +60,9 @@
 <!ENTITY time.20 "8:00 ප.ව." >
 <!ENTITY time.21 "9:00 ප.ව." >
 <!ENTITY time.22 "10:00 ප.ව." >
-<!ENTITY time.23 "11:00 ප.ව." >-->-->
+<!ENTITY time.23 "11:00 ප.ව." >
+-->
 
-<!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
 <!ENTITY day.1.Ddd "ඉරිදා" >

@@ -68,7 +68,6 @@
 <!ENTITY NickName.label                 "විකල්පනාමය:">
 <!ENTITY NickName.accesskey             "N">
 
-<!ENTITY Internet.box                   "අන්තර්ජාලය">
 <!ENTITY PrimaryEmail.label             "විද්‍යුත් තැපැල්:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "අතිරේක විද්‍යුත් තැපැල්:">
@@ -81,13 +80,13 @@
 <!ENTITY ScreenName.label               "Screen Name:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "HTML ලිපි තුළ දුරස්ථ රූප (remote images) සඳහා ඉඩ දෙන්න.">
-<!ENTITY allowRemoteContent.accesskey   "g">
-<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
-embed images from remote sources. Opening such a message will open a
+<!ENTITY allowRemoteContent1.label      "දුරස්ථ අන්තර්ගතයන්ට ඉඩ දෙන්න.">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "In HTML messages it is possible to
+embed content from remote sources. Opening such a message will open a
 connection to this external source. This may allow tracking of the
 message being read. Checking this box will allow such external embedded
-images in HTML messages from this contact.">
+content in HTML messages from this contact.">
 
 
 <!ENTITY WorkPhone.label                "කාර්යාලය:">
@@ -146,9 +145,12 @@ images in HTML messages from this contact.">
 <!ENTITY Other.accesskey                "h">
 <!ENTITY Birthday.label                 "උපන් දිනය:">
 <!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "වර්ෂය">
-<!ENTITY Or.value                       "or">
+<!ENTITY Or.value                       "හෝ">
 <!ENTITY Age.emptytext                  "වයස">
+<!ENTITY YearsOld.label                 "">
+
 <!ENTITY Custom1.label                  "රිසිකරණය 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "රිසිකරණය 2:">
@@ -159,3 +161,19 @@ images in HTML messages from this contact.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "සටහන්">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "ඡායාරූපය">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "පහත ඒවායින් එකක් ගන්න:">
+<!ENTITY GenericPhoto.label             "සාමාන්‍ය ඡායාරූපය">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "පෙරනිමි (Default)">
+<!ENTITY PhotoFile.label                "මෙම පරිගණකයේ">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "පිරික්සන්න">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "වෙබ් මත">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "ඡායාරූපයේ වෙබ් ලිපිනය ලබාදෙන්න">
+<!ENTITY UpdatePhoto.label              "යාවත්කාලීන කරන්න">
+<!ENTITY UpdatePhoto.accesskey          "u">
