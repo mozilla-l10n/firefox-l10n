@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Maletg entir">
 <!ENTITY fullScreenCmd.accesskey "M">
+<!ENTITY fullScreenCmd.macCommandKey "m">
 <!ENTITY showAllTabsCmd.label "Mussar tut ils tabs">
 <!ENTITY showAllTabsCmd.accesskey "t">
 
@@ -314,8 +315,6 @@
 <!ENTITY copyAudioURLCmd.label        "Copiar l'adressa da l'audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "B">
-<!ENTITY metadataCmd.label            "Caracteristicas">
-<!ENTITY metadataCmd.accesskey        "e">
 <!ENTITY copyEmailCmd.label           "Copiar l'adressa dad e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Frame actual">
