@@ -434,3 +434,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "பதிவிறக்க சாளரங்களை திறக்க சொடுக்கவும்">
 
 <!ENTITY ctrlTab.search.emptyText "தத்தல்களை தேடு">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரம்">
+<!ENTITY newTabButton.tooltip           "ஒரு புதிய தத்தலை திற">
+<!ENTITY urlbar.bookmark.emptyText    "புத்தகக்குறிகளை தேடு">
+<!ENTITY urlbar.bookmarkhistory.emptyText "புத்தகக்குறிகள் மற்றும் வரலாற்றை தேடு">
+<!ENTITY urlbar.history.emptyText     "வரலாற்றை தேடு">
+<!ENTITY urlbar.none.emptyText        "ஒரு இணைய முகவரியைத் தட்டச்சு செய்">
