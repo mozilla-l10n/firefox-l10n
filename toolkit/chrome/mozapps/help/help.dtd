@@ -13,7 +13,7 @@
 <!ENTITY copyCmd.label "Kopii">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Elekti ĉion">
-<!ENTITY selectAllCmd.accesskey "ĉ">
+<!ENTITY selectAllCmd.accesskey "Ĉ">
 <!ENTITY goBackCmd.commandkey "[">
 <!ENTITY goForwardCmd.commandkey "]">
 <!ENTITY homeButton.label "Komenco">

@@ -9,6 +9,8 @@
 <!ENTITY reloadAllTabs.accesskey "G">
 <!ENTITY reloadTab.label "Reŝargi folion">
 <!ENTITY reloadTab.accesskey "r">
+<!ENTITY openTabInNewWindow.label "Malfermi en nova fenestro">
+<!ENTITY openTabInNewWindow.accesskey "F">
 <!ENTITY listAllTabs.label "Listo de folioj">
 <!ENTITY bookmarkAllTabs.label "Aldoni paĝosignon por ĉiuj folioj…">
 <!ENTITY bookmarkAllTabs.accesskey "F">

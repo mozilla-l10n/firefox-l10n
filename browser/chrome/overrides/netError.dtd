@@ -10,18 +10,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Aliro al tiu ĉi adreso estas limigata">
-<!ENTITY deniedPortAccess.longDesc "Project-Id-Version: netError.dtd 
-Report-Msgid-Bugs-To: 
-POT-Creation-Date: 2008-04-22 15:54+0200 
-PO-Revision-Date: 2008-05-26 03:29-0300 
-Last-Translator: Eduardo Trapani 
-Language-Team: Esperanto <es@li.org> 
-MIME-Version: 1.0 
-Content-Type: text/plain; charset=UTF-8 
-Content-Transfer-Encoding: 8bit 
-Plural-Forms: nplurals=INTEGER; plural=EXPRESSION; 
-X-Generator: KBabel 1.11.4 
-X-Accelerator-Marker: ">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servilo ne trovita">
 <!ENTITY dnsNotFound.longDesc "<ul> 

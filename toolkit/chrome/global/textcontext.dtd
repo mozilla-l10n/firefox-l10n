@@ -7,7 +7,7 @@
 <!ENTITY undoCmd.label "Malfari">
 <!ENTITY undoCmd.accesskey "m">
 <!ENTITY selectAllCmd.label "Elekti Ĉion">
-<!ENTITY selectAllCmd.accesskey "Ĉ">
+<!ENTITY selectAllCmd.accesskey "ĉ">
 <!ENTITY deleteCmd.label "Forviŝi">
 <!ENTITY deleteCmd.accesskey "f">
 

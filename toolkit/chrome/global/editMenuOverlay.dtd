@@ -19,7 +19,7 @@
 <!ENTITY deleteCmd.accesskey "f">
 <!ENTITY selectAllCmd.label "Elekti Ĉion">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "Ĉ">
+<!ENTITY selectAllCmd.accesskey "ĉ">
 <!ENTITY findCmd.label "Serĉi">
 <!ENTITY findCmd.key "M">
 <!ENTITY findCmd.accesskey "S">

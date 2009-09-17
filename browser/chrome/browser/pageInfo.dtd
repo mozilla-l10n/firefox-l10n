@@ -88,6 +88,7 @@
 <!ENTITY permTab "Permesoj">
 <!ENTITY permTab.accesskey "P">
 <!ENTITY permUseDefault "Uzi ĉefan">
+<!ENTITY permAskAlways "Ĉiam demandi">
 <!ENTITY permAllow "Permesi">
 <!ENTITY permAllowSession "Permesi dum la seanco">
 <!ENTITY permBlock "Bloki">
@@ -96,6 +97,7 @@
 <!ENTITY permPopup "Malfermi ŝprucfenestrojn">
 <!ENTITY permCookie "Difini kuketojn">
 <!ENTITY permInstall "Instali etendoprogramojn aŭ temojn">
+<!ENTITY permGeo "Diskonigi lokon">
 
 <!ENTITY securityTab "Sekureco">
 <!ENTITY securityTab.accesskey "S">

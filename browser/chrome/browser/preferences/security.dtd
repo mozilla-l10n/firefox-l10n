@@ -28,7 +28,7 @@
 <!ENTITY useMasterPassword.label "Uzi ĉefan pasvorton">
 <!ENTITY useMasterPassword.accesskey "U">
 <!ENTITY changeMasterPassword.label "Ŝanĝi Ĉefan Pasvorton…">
-<!ENTITY changeMasterPassword.accesskey "ĝ">
+<!ENTITY changeMasterPassword.accesskey "Ĝ">
 
 <!ENTITY savedPasswords.label "Konservitaj pasvortojn…">
 <!ENTITY savedPasswords.accesskey "P">

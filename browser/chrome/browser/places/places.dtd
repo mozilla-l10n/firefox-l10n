@@ -50,7 +50,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey "E">
 
 <!ENTITY cmd.select_all.label "Elekti ĉion">
-<!ENTITY cmd.select_all.accesskey "ĉ">
+<!ENTITY cmd.select_all.accesskey "Ĉ">
 <!ENTITY cmd.select_all.key "a">
 
 <!ENTITY cmd.edit_cut.label "Eltondi">
@@ -136,22 +136,14 @@
 
 <!ENTITY search.label "Serĉi:">
 <!ENTITY search.accesskey "S">
-<!ENTITY search.collection.label "Nur la nuna kolekto">
-<!ENTITY search.collection.accesskey "N">
-<!ENTITY search.allBookmarks.label "Ĉiuj paĝosignoj">
-<!ENTITY search.allBookmarks.accesskey "I">
 <!ENTITY search.scopeFolder.label "Elektitaj dosierujo">
-<!ENTITY search.scopeFolder.accesskey "D">
-<!ENTITY search.scopeAll.label "Ĉiuj paĝosignoj">
-<!ENTITY search.scopeAll.accesskey "I">
-<!ENTITY search.scopeMenu.label "Menuo de paĝosignoj">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "Ilaro de paĝosignoj">
-<!ENTITY search.scopeToolbar.accesskey "P">
+<!ENTITY search.scopeFolder.accesskey "d">
+<!ENTITY search.scopeBookmarks.label "Paĝosignoj">
+<!ENTITY search.scopeBookmarks.accesskey "p">
 <!ENTITY search.scopeDownloads.label "Elŝutoj">
 <!ENTITY search.scopeDownloads.accesskey "E">
 <!ENTITY search.scopeHistory.label "Historio">
-<!ENTITY search.scopeHistory.accesskey "A">
+<!ENTITY search.scopeHistory.accesskey "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip "Montri la konstruanton de serĉado">
 <!ENTITY search.scopeBarExpanderUp.tooltip "Kaŝi la konstruanton de serĉado">
 <!ENTITY saveSearch.label "Konservi">

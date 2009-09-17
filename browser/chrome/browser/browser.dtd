@@ -7,9 +7,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privata retesplorado)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nova folio">
 <!ENTITY tabCmd.accesskey "F">
@@ -69,6 +71,7 @@
 <!ENTITY addCurPagesCmd.label "Aldoni paĝosignon por ĉiuj folioj…">
 <!ENTITY organizeBookmarks.label "Organizi paĝosignojn…">
 <!ENTITY bookmarkAllCmd.label "Aldoni paĝosignon por ĉiuj folioj…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Montri pliajn paĝosignojn">
 
 <!ENTITY backCmd.label "Malantaŭen">
 <!ENTITY backCmd.accesskey "M">
@@ -100,6 +103,10 @@
 <!ENTITY bookmarksButton.tooltip "Montri viajn paĝosignojn">
 <!ENTITY bookmarksSidebarCmd.accesskey "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Historio">
@@ -128,7 +135,7 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY fileMenu.label "Dosiero">
-<!ENTITY fileMenu.accesskey "D">
+<!ENTITY fileMenu.accesskey "o">
 <!ENTITY newNavigatorCmd.label "Nova fenestro">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
@@ -161,11 +168,15 @@
 <!ENTITY preferencesCmdUnix.label "Preferoj">
 <!ENTITY preferencesCmdUnix.accesskey "j">
 
-<!ENTITY clearRecentHistoryCmd.label "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.label "Foriviŝi ĵusan historion">
 <!ENTITY clearRecentHistoryCmd.accesskey "H">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.label "Private Browsing">
-<!ENTITY privateBrowsingCmd.accesskey "B">
+<!ENTITY privateBrowsingCmd.start.label "Komenci privatan retesploradon">
+<!ENTITY privateBrowsingCmd.start.accesskey "K">
+<!ENTITY privateBrowsingCmd.stop.label "Haltigi privatan retesploradon">
+<!ENTITY privateBrowsingCmd.stop.accesskey "H">
+<!ENTITY privateBrowsingCmd.commandkey "P">
 
 <!ENTITY viewMenu.label "Vidi">
 <!ENTITY viewMenu.accesskey "V">
@@ -179,6 +190,8 @@
 <!ENTITY historyMenu.label "Historio">
 <!ENTITY historyMenu.accesskey "h">
 <!ENTITY historyUndoMenu.label "Antaŭ ne longe fermitaj folioj">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Antaŭ ne longe fermitaj folioj">
 
 <!ENTITY historyHomeCmd.label "Eka paĝo">
 <!ENTITY showAllHistoryCmd2.label "Montri tutan historion">
@@ -186,6 +199,10 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Serĉi en paĝosignoj kaj historio">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Serĉi en paĝosignoj kaj historio">
+<!ENTITY urlbar.bookmark.emptyText "Serĉi en paĝosignoj">
+<!ENTITY urlbar.history.emptyText "Serĉi en historio">
+<!ENTITY urlbar.none.emptyText "Tajpu retadreson">
 <!ENTITY urlbar.accesskey "d">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -288,7 +305,7 @@
 <!ENTITY copyLinkTextCmd.accesskey "s">
 <!ENTITY copyImageCmd.label "Kopii retadreson de bildo">
 <!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyImageContentsCmd.label "Kopii bildo">
+<!ENTITY copyImageContentsCmd.label "Kopii bildon">
 <!ENTITY copyImageContentsCmd.accesskey "b">
 <!ENTITY copyVideoURLCmd.label "Copy Video Location">
 <!ENTITY copyVideoURLCmd.accesskey "o">
@@ -345,6 +362,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Pligrandigilo">
 <!ENTITY fullZoom.accesskey "P">
 
+<!ENTITY newTabButton.tooltip "Malfermi novan folion">
 <!ENTITY newWindowButton.tooltip "Malfermi novan fenestron">
 <!ENTITY sidebarCloseButton.tooltip "Fermi flankan strion">
 
@@ -402,7 +420,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label "Preta">
 <!ENTITY editBookmark.cancel.label "Nuligi">
-<!ENTITY editBookmark.removeBookmark.label "Forigi paĝosignon">
 <!ENTITY editBookmark.removeBookmark.accessKey "F">
 <!ENTITY editBookmark.undo.label "Malfari">
 <!ENTITY editBookmark.undo.accessKey "M">
