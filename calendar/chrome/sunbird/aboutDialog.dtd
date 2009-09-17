@@ -42,7 +42,7 @@
 <!ENTITY aboutLink.label        "&lt; Om &brandFullName;">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "versjon">
-<!ENTITY copyrightText          "&#169;1998-2008 Bidragsytarane. Alle rettar med atterhald. Mozilla Sunbird, Sunbird, og Sunbird-logoane er varemerke som tilhøyrer Mozilla Foundation. Alle rettar med atterhald.">
+<!ENTITY copyrightText          "&#169;1998-2009 Bidragsytarane. Alle rettar med atterhald. Mozilla Sunbird, Sunbird, og Sunbird-logoane er varemerke som tilhøyrer Mozilla Foundation. Alle rettar med atterhald.">
 
 <!ENTITY brandMotto       "det er på tide">
 <!ENTITY credit.thanks    "Ein spesiell takk til">

@@ -5,7 +5,7 @@
 <!ENTITY addressingText.label      "Ved adresseoppslag:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Bruk globale LDAP-tenarinnstillingar for denne kontoen.">
-<!ENTITY useGlobal.accesskey       "g">
+<!ENTITY useGlobal.accesskey       "o">
 <!ENTITY editDirectories.label     "Rediger katalogar …">
 <!ENTITY editDirectories.accesskey "k">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->

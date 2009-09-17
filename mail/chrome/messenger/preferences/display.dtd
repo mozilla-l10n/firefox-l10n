@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Farge:">
 <!ENTITY color.accesskey                  "F">
 <!ENTITY displayWidth.label               "Meldingar i normal tekst">
-<!ENTITY plainText.label                  "Bruk denne skrifttypen:">
 <!ENTITY displayText.label                "Når ein viser sitat i tekstmeldingar:">
-<!ENTITY fixedWidth.label                 "Skrifttype med fast breidde">
-<!ENTITY fixedWidth.accesskey             "k">
-<!ENTITY variableWidth.label              "Variabel skriftbreidde">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY colors.label                     "Fargar">
 <!ENTITY overrideColors.label             "Bruk følgjande fargar ved vising av meldingar:">
 <!ENTITY textColor.label                  "Tekstfarge:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "S">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Konfigurer skrifttypane og teiknkodinga som &brandShortName; brukar">
-<!ENTITY fontsAndEncodingsCaption.label      "Skrifttypar og teiknkoding">
-<!ENTITY fontOptions.accesskey   "S">
+<!ENTITY fontsAndColors.label    "Skrifttypar">
+<!ENTITY defaultFont.label       "Standard skrifttype:">
+<!ENTITY defaultFont.accesskey   "t">
+<!ENTITY defaultSize.label       "Storleik:">
+<!ENTITY defaultSize.accesskey   "o">
+<!ENTITY fontOptions.accesskey   "r">
 <!ENTITY fontOptions.label       "Skrifttypar …">

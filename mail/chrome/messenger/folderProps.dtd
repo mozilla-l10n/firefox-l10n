@@ -65,7 +65,7 @@
 <!ENTITY retentionKeepRecent.accesskey "S">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Alltid slett lesne meldingar (opphevar alders-innstillingar)">
-<!ENTITY retentionApplyToFlagged.label "Ta alltid vare på meldingar merkt med stjerne">
+<!ENTITY retentionApplyToFlagged.label "Ta alltid vare på meldingar merkte med stjerne">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronisering">
