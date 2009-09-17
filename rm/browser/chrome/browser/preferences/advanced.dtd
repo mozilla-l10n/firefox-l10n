@@ -53,10 +53,10 @@
 <!ENTITY autoCheck.label                 "Tschertgar automaticamain actualisaziuns per:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "f">
-<!ENTITY enableAddonsUpdate.label        "Supplements installads">
-<!ENTITY enableAddonsUpdate.accesskey    "i">
+<!ENTITY enableAddonsUpdate2.label        "Supplements">
+<!ENTITY enableAddonsUpdate2.accesskey    "u">
 <!ENTITY enableSearchUpdate.label        "Maschinas da tschertgar">
-<!ENTITY enableSearchUpdate.accesskey    "s">
+<!ENTITY enableSearchUpdate.accesskey    "i">
 <!ENTITY whenUpdatesFound.label          "Sche actualisaziuns per &brandShortName; vegnan chattadas">
 <!ENTITY askMe.label                     "dumandar tge far">
 <!ENTITY askMe.accesskey                 "n">
