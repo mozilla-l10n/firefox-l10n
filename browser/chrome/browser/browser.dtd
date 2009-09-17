@@ -235,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label            "Koppeling openen in nieuw venster">
 <!ENTITY openLinkCmd.accesskey        "v">
+<!ENTITY openLinkCmdInCurrent.label     "Koppeling openen">
+<!ENTITY openLinkCmdInCurrent.accesskey "o">
 <!ENTITY openLinkCmdInTab.label       "Koppeling openen in nieuw tabblad">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openFrameCmd.label           "Deelvenster openen in nieuw venster">
