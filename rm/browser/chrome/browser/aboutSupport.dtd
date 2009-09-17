@@ -1,0 +1,33 @@
+<!ENTITY aboutSupport.pageTitle "Infurmaziuns per schliar problems">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Questa pagina cuntegna infurmaziuns tecnicas che pudessan esser nizzaivlas, 
+  sche ti emprovas da schliar in problem. Sche ti tschertgas rispostas a dumondas 
+  frequentas davart &brandShortName;, visita per plaschair nossa 
+  <a id='supportLink'>pagina d'agid</a>.
+">
+
+
+<!ENTITY aboutSupport.extensionsTitle "Extensiuns">
+<!ENTITY aboutSupport.extensionName "Num">
+<!ENTITY aboutSupport.extensionEnabled "Activà">
+<!ENTITY aboutSupport.extensionVersion "Versiun">
+<!ENTITY aboutSupport.extensionFirstRun "FirstRun">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Infurmaziuns da basa">
+<!ENTITY aboutSupport.appBasicsName "Num">
+<!ENTITY aboutSupport.appBasicsVersion "Versiun">
+<!ENTITY aboutSupport.appBasicsProfileDir "Ordinatur dal profil">
+<!ENTITY aboutSupport.appBasicsPlugins "Plug-ins installads">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Configuraziun dal build">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Preferenzas modifitgadas">
+<!ENTITY aboutSupport.modifiedPrefsName "Num">
+<!ENTITY aboutSupport.modifiedPrefsValue "Valur">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Cronica d'installaziun">
+<!ENTITY aboutSupport.updateHistoryTitle "Cronica d'actualisaziun">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Copiar tut en l'archiv provisoric">
