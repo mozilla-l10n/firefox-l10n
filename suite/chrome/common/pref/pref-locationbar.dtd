@@ -20,3 +20,15 @@
 <!ENTITY domainGuessing.accesskey              "S">
 <!ENTITY keywords.label                        "Realizar uma busca na web quando o texto fornecido não for um endereço válido">
 <!ENTITY keywords.accesskey                    "R">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "Coincidir">
+<!ENTITY autoCompleteMatch.accesskey           "C">
+<!ENTITY autoCompleteMatchAnywhere             "Em qualquer lugar do endereço ou título">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "E">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Somente coincidir com endereços, não com títulos">
+<!ENTITY autoCompleteMatchStart                "Somente no início do endereço ou título">
+<!ENTITY autoCompleteMatchWords                "Somente em bordas de palavras">
+<!ENTITY autoCompleteMatchWordsFirst           "Em qualquer lugar, mas preferivelmente em bordas de palavras">

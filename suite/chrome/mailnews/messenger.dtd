@@ -420,8 +420,6 @@
 <!ENTITY folderContextSearchMessages.accesskey "P">
 <!ENTITY folderContextProperties.label "Propriedades">
 <!ENTITY folderContextProperties.accesskey "O">
-<!ENTITY SearchNameOrEmail.label "Localizar nome ou email:">
-<!ENTITY SearchNameOrEmail.accesskey "Z">
 <!ENTITY advancedButton.label "Avançado...">
 <!ENTITY advancedButton.accesskey "V">
 <!ENTITY all.label "Todas">
@@ -439,11 +437,9 @@
 <!ENTITY loadRemoteContentButton.label "Exibir conteúdo externo">
 <!ENTITY phishingBarMessage.label "O &brandShortName; acha que esta uma mensagem pode ser um golpe.">
 <!ENTITY removePhishingBarButton.label "Não é um golpe">
-<!ENTITY SearchSubjectOrFrom.accesskey "S">
 
 <!-- SearchBar -->
 <!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Assunto ou remetente contém:">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Mais novas">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "M">
 <!ENTITY contextReplySenderAndNewsgroup.label "Responder ao remetente e ao Newsgroup">
@@ -454,7 +450,9 @@
 <!ENTITY goBackButton.tooltip "Voltar uma mensagem">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goBackCmd.label "Voltar">
+<!ENTITY goBackCmd.accesskey "V">
 <!ENTITY goForwardButton.label "Avançar">
+<!ENTITY goForwardCmd.accesskey "v">
 <!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goForwardCmd.label "Avançar">
@@ -480,3 +478,7 @@
 <!ENTITY filtersApplyToSelection.accesskey "m">
 <!ENTITY folderContextSettings.label "Configurações…">
 <!ENTITY folderContextSettings.accesskey "C">
+
+<!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchSubjectAndFrom.emptytext "Localizar assunto ou remetente">

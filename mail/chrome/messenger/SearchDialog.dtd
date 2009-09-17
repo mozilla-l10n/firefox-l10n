@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "z">
 <!ENTITY searchSubfolders.label      "Incluir subpastas">
 <!ENTITY searchSubfolders.accesskey  "I">
+<!ENTITY searchOnServer.label        "Executar pesquisa no servidor">
+<!ENTITY searchOnServer.accesskey    "c">
 <!ENTITY resetButton.label           "Limpar">
 <!ENTITY resetButton.accesskey       "L">
 <!ENTITY openButton.label            "Abrir">

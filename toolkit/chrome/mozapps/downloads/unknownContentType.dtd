@@ -42,12 +42,12 @@
 <!ENTITY  from.label                  "Site:">
 <!ENTITY  actionQuestion.label        "O que o &brandShortName; deve fazer?">
 
-<!ENTITY  openWith.label              "Abrir com:">
+<!ENTITY  openWith.label              "Abrir com o:">
 <!ENTITY  openWith.accesskey          "A">
 <!ENTITY  other.label                 "Outro aplicativo…">
 
-<!ENTITY  saveFile.label              "Salvar arquivo">
-<!ENTITY  saveFile.accesskey          "S">
+<!ENTITY  saveFile.label              "Download">
+<!ENTITY  saveFile.accesskey          "D">
 
 <!ENTITY  rememberChoice.label        "Memorizar a decisão para este tipo de arquivo">
 <!ENTITY  rememberChoice.accesskey    "M">
@@ -59,4 +59,4 @@
 <!ENTITY  chooseHandler.label         "Procurar…">
 <!ENTITY  chooseHandler.accesskey     "P">
 
-<!ENTITY  unknownPromptText.label     "Deseja salvá-lo?">
+<!ENTITY  unknownPromptText.label     "Deseja fazer o download?">

@@ -76,7 +76,7 @@
 <!ENTITY phishingBlocked.title "Site suspeito de ser uma fraude!">
 <!ENTITY phishingBlocked.longDesc "
 <p>O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.</p>
-<p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails simulam fontes legítimas nas quais você confiaria.</p>
+<p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails se fazem passar por fontes que você confiaria.</p>
 ">
 
 <!-- Include app-specific error messages - do not change this in localization!

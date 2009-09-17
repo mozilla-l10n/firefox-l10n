@@ -112,10 +112,10 @@
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
-<!ENTITY enableInlineSpellChecker.accesskey "V">
-<!ENTITY checkSpellingCmd.label "Verificar ortografia">
-<!ENTITY checkSpellingCmd.accesskey "V">
-<!ENTITY checkSpellingCmd.key "k">
+<!ENTITY enableInlineSpellChecker.accesskey "e">
+<!ENTITY checkSpellingCmd2.label "Verificar ortografia">
+<!ENTITY checkSpellingCmd2.accesskey "V">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Validar HTML">
 <!ENTITY validateCmd.accesskey "V">
 
@@ -144,8 +144,8 @@
 <!ENTITY spellCheckNoSuggestions.label "(Nenhuma sugestão)">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar palavra">
 <!ENTITY spellCheckIgnoreWord.accesskey "r">
-<!ENTITY spellCheckAddToDictionary.label "Adicionar ao dicionário">
-<!ENTITY spellCheckAddToDictionary.accesskey "A">
+<!ENTITY spellCheckAddToDictionary.label "Memorizar como correta">
+<!ENTITY spellCheckAddToDictionary.accesskey "M">
 <!ENTITY createLinkCmd.label "Inserir link…">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Editar link em nova janela">

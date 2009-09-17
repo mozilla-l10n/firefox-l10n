@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label           "Configurações de spam">
 <!ENTITY offlineLink.label            "Configurar modo offline">
 
-<!ENTITY rssSectionHdr.label          "Novidades RSS"> 
-<!ENTITY subscibeRSS.label            "Configurar inscrições">
+<!ENTITY feedsSectionHdr.label        "RSS">
+<!ENTITY subscribeFeeds.label         "Manage subscriptions">

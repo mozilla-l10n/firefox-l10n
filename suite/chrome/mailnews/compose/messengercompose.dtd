@@ -65,9 +65,10 @@
 <!ENTITY selectAddressCmd.label "Selecionar destinatários...">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "D">
-<!ENTITY checkSpellingCmd.label "Verificar ortografia...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "v">
+<!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "V">
+
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
 <!ENTITY enableInlineSpellChecker.accesskey "D">
 <!ENTITY priorityMenu.label "Prioridade">

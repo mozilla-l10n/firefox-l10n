@@ -17,7 +17,7 @@
 
 <!ENTITY downloads.label     "Downloads">
 
-<!ENTITY showWhenDownloading.label     "Abrir a janela Downloads ao receber um arquivo">
+<!ENTITY showWhenDownloading.label     "Abrir a janela Downloads ao salvar um arquivo">
 <!ENTITY showWhenDownloading.accesskey "b">
 <!ENTITY closeWhenDone.label "Fechar ao concluir todos os downloads">
 <!ENTITY closeWhenDone.accesskey "c">

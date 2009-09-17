@@ -63,18 +63,16 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "m">
 
-<!ENTITY calendar.export.calendar.label         "Exportar calendário…">
-<!ENTITY calendar.export.calendar.accesskey     "x">
+<!ENTITY calendar.export.label                  "Export…">
+<!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "Exportar seleção…">
 <!ENTITY calendar.export.selection.accesskey    "p">
 
 <!ENTITY calendar.publish.label                 "Publicar…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.toolbar.label                 "Barra de calendário">
-<!ENTITY calendar.toolbar.accesskey             "c">
-<!ENTITY task.toolbar.label                     "Barra de tarefas">
-<!ENTITY task.toolbar.accesskey                 "t">
+<!ENTITY calendar.deletecalendar.label          "Delete Selected Calendar…">
+<!ENTITY calendar.deletecalendar.accesskey      "D">
 
 <!ENTITY calendar.menu.customize.label          "Personalizar…">
 <!ENTITY calendar.menu.customize.accesskey      "z">
@@ -104,11 +102,6 @@
 <!ENTITY goNextCmd.week.label                   "Semana seguinte">
 <!ENTITY goNextCmd.month.label                  "Mês seguinte">
 <!ENTITY goNextCmd.all.accesskey                "s">
-
-<!ENTITY addressBookCmd.label                   "Catálogo de endereços">
-<!ENTITY addressBookCmd.accesskey               "a">
-
-<!ENTITY calendar.importcalendar.label          "Importar calendário…">
 
 <!ENTITY showCurrentView.label                  "Visualização atual">
 <!ENTITY showCurrentView.accesskey              "V">

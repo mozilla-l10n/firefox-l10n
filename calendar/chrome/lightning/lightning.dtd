@@ -51,8 +51,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Evento…">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Tarefa…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Calendário…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Abrir">
@@ -62,11 +65,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Arquivo de calendário…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Calendário">
-<!ENTITY lightning.calendar.accesskey        "C">
-<!ENTITY lightning.tasks.label               "Tarefas">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Calendar">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "Tasks">
+<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Events and Tasks">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "Mensagens">
@@ -106,9 +113,9 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Criar novo calendário">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Exibir mini-mês">
+<!ENTITY todaypane.showMinimonth.label "Exibir minimês">
 <!ENTITY todaypane.showMinimonth.accesskey "m">
-<!ENTITY todaypane.showMiniday.label "Exibir mini-dia">
+<!ENTITY todaypane.showMiniday.label "Exibir minidia">
 <!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "Exibir nenhum">
 <!ENTITY todaypane.showNone.accesskey "n">

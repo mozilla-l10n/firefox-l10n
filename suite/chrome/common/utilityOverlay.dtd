@@ -5,7 +5,7 @@
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newBlankPageCmd.label "Editor de HTML">
-<!ENTITY newBlankPageCmd.accesskey "C">
+<!ENTITY newBlankPageCmd.accesskey "H">
 <!ENTITY newBlankPageCmd.key "n">
 <!ENTITY newPageFromTemplateCmd.label "Página usando modelo">
 <!ENTITY newPageFromTemplateCmd.accesskey "m">
@@ -96,3 +96,6 @@
 <!ENTITY customizeToolbar.useDefault.label        "Usar configurações padrão">
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "U">
 <!ENTITY customizeToolbar.useSmallIcons.label     "Usar ícones pequenos">
+
+<!ENTITY customizeToolbarContext.label            "Personalizar…">
+<!ENTITY customizeToolbarContext.accesskey        "P">

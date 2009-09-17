@@ -28,3 +28,7 @@
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronização de mensagens">
+<!ENTITY retentionApplyToFlagged.label "Sempre manter mensagens sinalizadas">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionCleanupImap.label "Para recuperar espaço em disco, mensagens antigas podem ser apagadas, tanto as cópias locais quanto suas originais no servidor.">
+<!ENTITY retentionCleanupPop.label "Para recuperar espaço em disco, mensagens antigas podem ser apagadas, incluindo suas originais no servidor.">

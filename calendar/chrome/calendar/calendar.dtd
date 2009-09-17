@@ -52,9 +52,8 @@
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newtask.button.tooltip          "Cria uma nova tarefa" >
 <!ENTITY calendar.newevent.button.tooltip         "Cria um novo evento" >
-<!ENTITY calendar.edit.button.tooltip             "Edita o evento selecionado" >
+<!ENTITY calendar.newtask.button.tooltip          "Cria uma nova tarefa" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Exibir tarefas completadas">
@@ -89,7 +88,6 @@
 
 <!ENTITY calendar.today.button.tooltip            "Vai para hoje" >
 <!ENTITY calendar.todaypane.button.tooltip        "Exibe painel hoje" >
-<!ENTITY calendar.unifinder.button.tooltip        "Encontra e lista eventos" >
 
 <!ENTITY calendar.day.button.tooltip            "Altera para exibição do dia" >
 <!ENTITY calendar.week.button.tooltip           "Altera para exibição da semana" >
@@ -103,23 +101,18 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Mês seguinte" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Mês anterior" >
 
-<!ENTITY calendar.newtask.button.label          "Nova tarefa" >
+<!ENTITY calendar.navigation.nextday.tooltip    "Avança um dia" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Recua um dia" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Avança uma semana" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Recua uma semana" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Avança um mês" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Recua um mês" >
+
 <!ENTITY calendar.newevent.button.label         "Novo evento" >
-<!ENTITY calendar.edit.button.label             "Editar" >
+<!ENTITY calendar.newtask.button.label          "Nova tarefa" >
 <!ENTITY calendar.print.button.label            "Imprimir" >
 
-<!ENTITY calendar.import.button.tooltip            "Importar: importa eventos de um arquivo local." >
-<!ENTITY calendar.export.button.tooltip            "Exportar: exporta eventos para um arquivo local." >
-<!ENTITY calendar.subscribe.button.tooltip         "Inscrever: inscreve em arquivo de calendário em computador remoto." >
-<!ENTITY calendar.publish.button.tooltip           "Publicar: Publica eventos em computador remoto." >
-
 <!ENTITY calendar.export.calendar                "Exportar calendário…" >
-
-<!ENTITY calendar.import.button.label              "Importar" >
-<!ENTITY calendar.export.button.label              "Exportar" >
-<!ENTITY calendar.subscribe.button.label           "Inscrever" >
-<!ENTITY calendar.publish.button.label             "Publicar" >
-<!ENTITY calendar.unifinder.button.label           "Localizar eventos" >
 
 <!ENTITY calendar.day.button.label              "Dia" >
 <!ENTITY calendar.week.button.label             "Semana" >
@@ -155,15 +148,15 @@
 <!ENTITY calendar.task.filter.open.label            "Tarefas incompletas">
 <!ENTITY calendar.task.filter.open.accesskey        "i">
 
-<!ENTITY calendar.task.details.title.label           "Título:">
-<!ENTITY calendar.task.details.organizer.label       "De:">
-<!ENTITY calendar.task.details.priority2.label       "Importância:">
-<!ENTITY calendar.task.details.priority.low.label    "Baixa">
-<!ENTITY calendar.task.details.priority.normal.label "Normal">
-<!ENTITY calendar.task.details.priority.high.label   "Alta">
-<!ENTITY calendar.task.details.status.label          "Posição:">
-<!ENTITY calendar.task.details.category.label        "Categoria:">
-<!ENTITY calendar.task.details.repeat.label          "Repete:">
+<!ENTITY calendar.task-details.title.label           "título">
+<!ENTITY calendar.task-details.organizer.label       "de">
+<!ENTITY calendar.task-details.priority.label        "prioridade">
+<!ENTITY calendar.task-details.priority.low.label    "Baixa">
+<!ENTITY calendar.task-details.priority.normal.label "Normal">
+<!ENTITY calendar.task-details.priority.high.label   "Alta">
+<!ENTITY calendar.task-details.status.label          "posição">
+<!ENTITY calendar.task-details.category.label        "categoria">
+<!ENTITY calendar.task-details.repeat.label          "repete">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorizar tarefas">
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar tarefas selecionadas como completadas">
@@ -267,7 +260,7 @@
 <!ENTITY calendar.context.convertmenu.task.label         "Tarefa…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
-<!ENTITY calendar.tasks.view.minimonth.label           "Mini-Month">
+<!ENTITY calendar.tasks.view.minimonth.label           "Minimês">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Lista de calendários">
@@ -301,17 +294,20 @@
 <!ENTITY calendar.server.dialog.name.label          "Nome do calendário:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Cor:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Formato:">
-<!ENTITY calendarproperties.location.label "Local:">
-<!ENTITY calendarproperties.name.label     "Nome:">
-<!ENTITY calendarproperties.readonly.label "Somente leitura">
-<!ENTITY calendarproperties.firealarms.label "Exibir alarmes">
-<!ENTITY calendarproperties.cache.label    "Cache (EXPERIMENTAL, requer reinicialização)">
-<!ENTITY calendarproperties.enabled.label "Habilitar este calendário">
+<!ENTITY calendarproperties.color.label                    "Cor:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Formato:">
+<!ENTITY calendarproperties.location.label                 "Local:">
+<!ENTITY calendarproperties.name.label                     "Nome:">
+<!ENTITY calendarproperties.readonly.label                 "Somente leitura">
+<!ENTITY calendarproperties.firealarms.label               "Exibir alarmes">
+<!ENTITY calendarproperties.cache.label                    "Cache (EXPERIMENTAL, requer reinicialização)">
+<!ENTITY calendarproperties.enabled.label                  "Habilitar este calendário">
+<!ENTITY calendarproperties.forceDisabled.label            "O provedor deste calendário não foi encontrado. Isto normalmente ocorre se você desabilitou ou desinstalou alguns complementos.">
+<!ENTITY calendarproperties.unsubscribe.label              "Cancelar inscrição">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "C">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publicar Calendário">
@@ -338,6 +334,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detalhes…">
-<!ENTITY calendar.error.number "Erro número:">
+<!ENTITY calendar.error.code "Código do erro:">
 <!ENTITY calendar.error.description "Descrição:">
 <!ENTITY calendar.error.title "Erro">

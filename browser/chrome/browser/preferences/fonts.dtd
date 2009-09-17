@@ -1,7 +1,7 @@
 <!ENTITY  fontsDialog.title                       "Fontes">
-<!ENTITY  window.width                            "39.0em">
-<!ENTITY  window.macWidth                         "43.0em">
-<!ENTITY  window.unixWidth                        "41.0em">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Fontes padrão para:">
 <!ENTITY  language.accesskey                      "F">
@@ -52,7 +52,7 @@
 <!ENTITY  font.langGroup.kannada                  "Canarês">
 <!ENTITY  font.langGroup.sinhala                  "Cingalês">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Tam. mínimo permitido:">
+<!ENTITY minSize.label                            "Tamanho mínimo permitido:">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Nenhum">
 

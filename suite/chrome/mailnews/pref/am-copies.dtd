@@ -23,3 +23,9 @@
 <!ENTITY specialFoldersTitle.label "Salvar mensagens">
 <!ENTITY keepDrafts.label "Salvar rascunhos em:">
 <!ENTITY keepTempltes.label "Salvar modelos em:">
+<!ENTITY archiveInOtherFolder.label "Outra:">
+<!ENTITY archiveInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "Pasta &quot;Arquivos&quot; da conta:">
+<!ENTITY archivesFolderOn.accesskey "r">
+<!ENTITY keepArchives.label "Salvar arquivos em:">

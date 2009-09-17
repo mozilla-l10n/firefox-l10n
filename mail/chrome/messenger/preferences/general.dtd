@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "Padrões do sistema">
-<!ENTITY alwaysCheckDefault.label          "Ao iniciar, verificar se o &brandShortName; é o aplicativo de email padrão">
-<!ENTITY alwaysCheckDefault.accesskey      "o">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3.0em">
-<!ENTITY checkNow.label             "Verificar agora">
-<!ENTITY checkNow.accesskey         "V">
-
 <!ENTITY messengerStartPage.label         "Página inicial do &brandShortName;">
 <!ENTITY enableStartPage.label            "Ao iniciar o &brandShortName;, abrir esta página no painel de mensagens:">
 <!ENTITY enableStartPage.accesskey        "A">
