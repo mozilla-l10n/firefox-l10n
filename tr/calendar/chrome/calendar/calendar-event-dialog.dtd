@@ -55,13 +55,13 @@
 <!ENTITY newevent.status.none.accesskey "T">
 <!ENTITY newevent.status.cancelled.label "Vazgeçildi">
 <!ENTITY newevent.status.cancelled.accesskey "z">
-<!ENTITY newevent.status.tentative.label "Geçici">
-<!ENTITY newevent.status.tentative.accesskey "ç">
+<!ENTITY newevent.status.tentative.label "Kesin değil">
+<!ENTITY newevent.status.tentative.accesskey "d">
 <!ENTITY newevent.status.confirmed.label "Onaylandı">
 <!ENTITY newevent.status.confirmed.accesskey "O">
 <!ENTITY newevent.status.needsaction.label "İşlem gerekli">
-<!ENTITY newevent.status.inprogress.label "Hazırlanıyor">
-<!ENTITY newevent.status.completed.label "Tamamlandı">
+<!ENTITY newevent.status.inprogress.label "Devam ediyor">
+<!ENTITY newevent.status.completed.label "Tamamlanma tarihi">
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label "Tamamlanma &#37;">
@@ -73,15 +73,15 @@
 <!ENTITY event.menu.file.new.accesskey "Y">
 <!ENTITY event.menu.file.new.event.label "Etkinlik">
 <!ENTITY event.menu.file.new.event.accesskey "E">
-<!ENTITY event.menu.file.new.message.label "Posta">
-<!ENTITY event.menu.file.new.message.accesskey "P">
-<!ENTITY event.menu.file.new.contact.label "Address Book Contact">
-<!ENTITY event.menu.file.new.contact.accesskey "C">
+<!ENTITY event.menu.file.new.message.label "İleti">
+<!ENTITY event.menu.file.new.message.accesskey "İ">
+<!ENTITY event.menu.file.new.contact.label "Adres defteri girdisi">
+<!ENTITY event.menu.file.new.contact.accesskey "g">
 <!ENTITY event.menu.file.close.label "Kapat">
 <!ENTITY event.menu.file.close.accesskey "t">
 <!ENTITY event.menu.file.save.label "Kaydet">
 <!ENTITY event.menu.file.save.accesskey "K">
-<!ENTITY event.menu.item.delete.label "Sil">
+<!ENTITY event.menu.item.delete.label "Sil…">
 <!ENTITY event.menu.item.delete.accesskey "S">
 <!ENTITY event.menu.file.page.setup.label "Sayfa düzeni">
 <!ENTITY event.menu.file.page.setup.accesskey "z">
@@ -144,8 +144,8 @@
 <!ENTITY event.menu.options.privacy.public.accesskey "u">
 <!ENTITY event.menu.options.privacy.confidential.label "Sadece saati ve tarihi göster">
 <!ENTITY event.menu.options.privacy.confidential.accesskey "S">
-<!ENTITY event.menu.options.privacy.private.label "Private Event">
-<!ENTITY event.menu.options.privacy.private.accesskey "r">
+<!ENTITY event.menu.options.privacy.private.label "Özel etkinlik">
+<!ENTITY event.menu.options.privacy.private.accesskey "z">
 <!ENTITY event.menu.options.show.time.label "Saati farklı göster">
 <!ENTITY event.menu.options.show.time.accesskey "ö">
 <!ENTITY event.menu.options.show.time.busy.label "Meşgul">
@@ -157,22 +157,22 @@
 <!ENTITY event.help.accesskey "Y">
 <!ENTITY event.help.release.notes.label "Sürüm notları">
 <!ENTITY event.help.release.notes.accesskey "S">
-<!ENTITY event.help.help.label "&brandShortName; Yardımı">
-<!ENTITY event.help.help.accesskey "Y">
+<!ENTITY event.help.help.label "&brandShortName; yardımı">
+<!ENTITY event.help.help.accesskey "y">
 <!ENTITY event.help.about.label "&brandShortName; hakkında">
 <!ENTITY event.help.about.accesskey "k">
 
-<!ENTITY event.invite.attendees.label "Invite Attendees…">
-<!ENTITY event.invite.attendees.accesskey "I">
-<!ENTITY event.email.attendees.label "Compose E-Mail to All Attendees…">
-<!ENTITY event.email.attendees.accesskey "A">
-<!ENTITY event.email.tentative.attendees.label "Compose E-Mail to Undecided Attendees…">
-<!ENTITY event.email.tentative.attendees.accesskey "U">
+<!ENTITY event.invite.attendees.label "Katılımcıları davet et">
+<!ENTITY event.invite.attendees.accesskey "K">
+<!ENTITY event.email.attendees.label "Tüm katılımcılara e-posta yaz…">
+<!ENTITY event.email.attendees.accesskey "T">
+<!ENTITY event.email.tentative.attendees.label "Katılımı belli olmayan katılımcılara e-posta yaz…">
+<!ENTITY event.email.tentative.attendees.accesskey "K">
 <!-- Toolbar -->
 
 <!ENTITY event.toolbar.save.label "Kaydet ve kapat">
 <!ENTITY event.toolbar.delete.label "Sil">
-<!ENTITY event.toolbar.attendees.label "Invite Attendees">
+<!ENTITY event.toolbar.attendees.label "Katılımcıları davet et">
 <!ENTITY event.toolbar.spellcheck.label "İmla denetimi">
 <!ENTITY event.toolbar.privacy.label "Gizlilik">
 <!ENTITY event.toolbar.attachments.label "Ekle">
@@ -187,8 +187,8 @@
 <!ENTITY event.calendar.label "Takvim:">
 <!ENTITY event.calendar.accesskey "T">
 <!ENTITY event.attendees.label "Katılımcılar:">
-<!ENTITY event.attendees.accesskey "I">
-<!ENTITY event.alldayevent.label "Tüm Gün Olayı">
+<!ENTITY event.attendees.accesskey "l">
+<!ENTITY event.alldayevent.label "Tüm gün etkinliği">
 <!ENTITY event.alldayevent.accesskey "T">
 <!ENTITY event.from.label "Başlangıç:">
 <!ENTITY event.from.accesskey "B">
@@ -231,7 +231,7 @@
 <!ENTITY event.reminder.15hours.before.label "15 saat önce">
 <!ENTITY event.reminder.1day.before.label "1 gün önce">
 <!ENTITY event.reminder.2days.before.label "2 gün önce">
-<!ENTITY event.reminder.1week.before.label "1 hafta öcnce">
+<!ENTITY event.reminder.1week.before.label "1 hafta önce">
 <!ENTITY event.reminder.custom.label "Özelleştir…">
 
 <!ENTITY event.reminder.multiple.label "Çoklu uyarı…">
@@ -279,7 +279,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.5.label "Perşembe">
 <!ENTITY event.recurrence.pattern.monthly.week.6.label "Cuma">
 <!ENTITY event.recurrence.pattern.monthly.week.7.label "Cumartesi">
-<!ENTITY event.recurrence.repeat.dayofmonth.label "ay günü">
+<!ENTITY event.recurrence.repeat.dayofmonth.label "Ay günü">
 <!ENTITY event.recurrence.repeat.recur.label "Tekrarlama günleri">
 
 <!ENTITY event.recurrence.every.label "Her:">
@@ -326,7 +326,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label "Şubat">
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label "Mart">
 <!ENTITY event.recurrence.pattern.yearly.month2.4.label "Nisan">
-<!ENTITY event.recurrence.pattern.yearly.month2.5.label "May">
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label "Mayıs">
 <!ENTITY event.recurrence.pattern.yearly.month2.6.label "Haziran">
 <!ENTITY event.recurrence.pattern.yearly.month2.7.label "Temmuz">
 <!ENTITY event.recurrence.pattern.yearly.month2.8.label "Ağustos">
@@ -338,22 +338,22 @@
 <!ENTITY event.recurrence.range.label "Tekrarlama aralığı">
 <!ENTITY event.recurrence.forever.label "Bitiş tarihi yok">
 <!ENTITY event.recurrence.repeat.for.label "Oluştur">
-<!ENTITY event.recurrence.appointments.label "Randevu">
+<!ENTITY event.recurrence.appointments.label "Görüşme(ler)">
 <!ENTITY event.repeat.until.label "Şu zamana kadar tekrarla">
 <!ENTITY event.recurrence.preview.label "Önizleme">
 <!-- Attendees dialog -->
 
-<!ENTITY invite.title.label "Invite Attendees">
+<!ENTITY invite.title.label "Katılımcıları davet et">
 <!ENTITY event.organizer.label "Düzenleyici">
-<!ENTITY event.freebusy.suggest.slot "Suggest time slot:">
-<!ENTITY event.freebusy.next.slot "Next slot ">
-<!ENTITY event.freebusy.previous.slot " Previous slot">
+<!ENTITY event.freebusy.suggest.slot "Zaman aralığı öner:">
+<!ENTITY event.freebusy.next.slot "Sonraki zaman aralığı">
+<!ENTITY event.freebusy.previous.slot " Önceki zaman aralığı">
 <!ENTITY event.freebusy.zoom "Ölçek:">
 <!ENTITY event.freebusy.plus "Sonraki saat">
 <!ENTITY event.freebusy.minus "Önceki saat">
 <!ENTITY event.freebusy.legend.free "Serbest">
 <!ENTITY event.freebusy.legend.busy "Meşgul">
-<!ENTITY event.freebusy.legend.busy_tentative "Geçici">
+<!ENTITY event.freebusy.legend.busy_tentative "Kesin değil">
 <!ENTITY event.freebusy.legend.busy_unavailable "Ofis dışı">
 <!ENTITY event.freebusy.legend.unknown "Bilgi yok">
 <!ENTITY event.attendee.role.required "Gerekli katılımcı">
@@ -361,7 +361,7 @@
 <!ENTITY event.attendee.role.chair "Başkan">
 <!-- Timezone dialog -->
 
-<!ENTITY timezone.title.label "Please Specify the Timezone">
+<!ENTITY timezone.title.label "Zaman dilimi belirleyin">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label "Genel">
