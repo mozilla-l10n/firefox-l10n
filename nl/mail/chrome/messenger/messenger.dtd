@@ -694,10 +694,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "C">
 <!ENTITY ViewContact.label "Contact bekijken">
 <!ENTITY ViewContact.accesskey "e">
-<!ENTITY SendMailTo.label "Bericht opstellen aan">
-<!ENTITY SendMailTo.accesskey "B">
+<!ENTITY SubscribeToNewsgroup.label "Abonneren op nieuwsgroep">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "Bericht opstellen aan">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "E-mailadres kopiëren">
 <!ENTITY CopyEmailAddress.accesskey "k">
+<!ENTITY CopyNewsgroupName.label "Nieuwsgroepnaam kopiëren">
+<!ENTITY CopyNewsgroupName.accesskey "k">
 <!ENTITY CreateFilterFrom.label "Filter maken op basis van…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "E-mailscam rapporteren">
