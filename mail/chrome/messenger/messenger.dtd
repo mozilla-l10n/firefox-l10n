@@ -594,7 +594,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY unreadColumn.label "Okunmamış">
 <!ENTITY totalColumn.label "Toplam">
 <!ENTITY readColumn.label "Okundu">
-<!ENTITY receivedColumn.label "Tarih">
+<!ENTITY receivedColumn.label "Alındı tarihi">
 <!ENTITY starredColumn.label "Yıldızlı">
 <!ENTITY locationColumn.label "Konum">
 <!ENTITY idColumn.label "Alındı sırası">
