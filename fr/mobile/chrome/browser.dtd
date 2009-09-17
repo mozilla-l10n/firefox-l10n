@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label "Marque-pages">
 <!ENTITY bookmarksManage.label "Gérer">
-<!ENTITY foldersHeader.label "Dossiers">
 
 <!ENTITY editBookmarkRemove.label "Supprimer">
-<!ENTITY editBookmarkMove.label "Déplacer">
 <!ENTITY editBookmarkDone.label "Terminé">
 <!ENTITY editBookmarkTags.label "Ajouter des étiquettes">
 
