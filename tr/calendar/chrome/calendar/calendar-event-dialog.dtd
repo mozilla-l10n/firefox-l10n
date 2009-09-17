@@ -338,7 +338,7 @@
 <!ENTITY event.recurrence.range.label "Tekrarlama aralığı">
 <!ENTITY event.recurrence.forever.label "Bitiş tarihi yok">
 <!ENTITY event.recurrence.repeat.for.label "Oluştur">
-<!ENTITY event.recurrence.appointments.label "Görüşme(ler)">
+<!ENTITY event.recurrence.appointments.label "Görüşme">
 <!ENTITY event.repeat.until.label "Şu zamana kadar tekrarla">
 <!ENTITY event.recurrence.preview.label "Önizleme">
 <!-- Attendees dialog -->

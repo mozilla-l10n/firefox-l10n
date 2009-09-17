@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY gdata-provider.label "Google Takvim">
+<!ENTITY gdata-provider.label "Google takvimi">
 
-<!ENTITY gdata.privacy.default.label "Google öntanımlıları">
+<!ENTITY gdata.privacy.default.label "Google öntanımlı">
 <!ENTITY gdata.privacy.default.accesskey "G">
 
 <!ENTITY gdata.migration.title "Migrate read-only calendars">

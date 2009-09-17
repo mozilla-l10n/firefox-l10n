@@ -41,14 +41,14 @@
 <!ENTITY sunbird.print.button.tooltip "Takvimi yazdır">
 <!ENTITY sunbird.delete.button.tooltip "Seçilmiş etkinliği sil">
 <!ENTITY sunbird.remotereload.button.tooltip "Uzaktaki tüm takvimleri tazele">
-<!ENTITY sunbird.import.button.tooltip "Import events from a local file">
-<!ENTITY sunbird.export.button.tooltip "Export events to a local file">
-<!ENTITY sunbird.subscribe.button.tooltip "Subscribe to a calendar file on a remote machine">
-<!ENTITY sunbird.publish.button.tooltip "Publish events to a remote machine">
-<!ENTITY sunbird.unifinder.button.tooltip "Find and list events">
+<!ENTITY sunbird.import.button.tooltip "Etkinlikleri yerel dosyadan içe aktar">
+<!ENTITY sunbird.export.button.tooltip "Etkinlikleri yerel dosyaya aktar">
+<!ENTITY sunbird.subscribe.button.tooltip "Uzaktaki takvime üye ol">
+<!ENTITY sunbird.publish.button.tooltip "Etkinlikleri uzaktaki makineye yayınla ">
+<!ENTITY sunbird.unifinder.button.tooltip "Etkinlikleri bul ve listele">
 <!ENTITY sunbird.edit.button.tooltip "Seçilmiş etkinliği düzenle">
 
-<!ENTITY sunbird.choosedate.button.label "Choose Date">
+<!ENTITY sunbird.choosedate.button.label "Tarih seç">
 <!ENTITY sunbird.cut.button.label "Kes">
 <!ENTITY sunbird.copy.button.label "Kopyala">
 <!ENTITY sunbird.paste.button.label "Yapıştır">
@@ -56,7 +56,7 @@
 <!ENTITY sunbird.remotereload.button.label "Tazele">
 <!ENTITY sunbird.import.button.label "İçe aktar">
 <!ENTITY sunbird.export.button.label "Dışa aktar">
-<!ENTITY sunbird.subscribe.button.label "Abone ol">
+<!ENTITY sunbird.subscribe.button.label "Üye ol">
 <!ENTITY sunbird.publish.button.label "Yayınla">
 <!ENTITY sunbird.unifinder.button.label "Etkinlikleri bul">
 <!ENTITY sunbird.edit.button.label "Düzenle">
