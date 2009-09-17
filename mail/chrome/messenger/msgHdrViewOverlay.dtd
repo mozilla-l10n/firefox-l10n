@@ -60,18 +60,22 @@
 <!ENTITY archiveButton.label "ஆவணக்காப்பகம்">
 <!ENTITY hdrReplyButton.label "பதிலனுப்புக">
 <!ENTITY hdrReplyAllButton.label "யாவற்றிற்கும் பதிலனுப்புக">
+<!ENTITY hdrReplyListButton.label "reply list">
 <!ENTITY hdrForwardButton.label "மீளனுப்புக">
 <!ENTITY hdrJunkButton.label "கூளம்">
 <!ENTITY trashButton.tooltiptext "நீக்குக">
 
 <!ENTITY otherActionsButton.label "ஏனைய செயற்பாடுகள்">
+<!ENTITY otherActionsOpenInNewWindow.label "open in new window">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
+<!ENTITY otherActionsOpenInNewTab.label "open in new tab">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
 <!ENTITY saveAsMenuItem.label "என சேமிக்க…">
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "மூலத்தினை நோக்குக…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
-
-<!ENTITY hideDetailsButton.label "விபரங்களை மறைக்க">
-<!ENTITY showDetailsButton.label "விபரங்களைக் காட்டுக">
+<!ENTITY otherActionsPrint.label "print…">
+<!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label    "திறக்க">
 <!ENTITY openAttachmentCmd.accesskey    "O">

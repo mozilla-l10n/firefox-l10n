@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                                   "இற்றைப்படுத்துதலுக்காக சரிபார்க்க…">
 <!ENTITY updateCmd.accesskey                               "o">
 
+<!ENTITY sunbird.export.calendar.label                     "Export Calendar…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "சாரளம்">
 <!ENTITY minimizeWindow.label                              "இழிவளவாக்குக">

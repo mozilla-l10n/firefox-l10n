@@ -51,8 +51,8 @@
 
 
 <!ENTITY retention.label "வைத்திருத்தல் கொள்கை">
-<!ENTITY retentionUseDefault.label "சேவையக கொடாநிலைகளை பயன்படுத்துக">
-<!ENTITY retentionUseDefault.accesskey "">
+<!ENTITY retentionUseAccount.label  "Use my account settings">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "நாட்களுக்கு மேற்பட்ட அஞ்சல்களை நீக்குக. ">
 <!ENTITY message.label "அஞ்சல்களைத் தவிர அனைத்தையும் நீக்குக.">
 <!ENTITY retentionCleanup.label "வன்வட்டு வெற்றிடத்தை மீட்க, பழைய அஞ்சல்கள் நிரந்தரமாக நீக்கப்படும்">
@@ -62,14 +62,14 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "எந்த அஞ்சல்களையும் நீக்கவேண்டாம்.">
 <!ENTITY retentionKeepAll.accesskey "">
-<!ENTITY retentionKeepNew.label "இறுதி ">
-<!ENTITY retentionKeepNew.accesskey "">
-<!ENTITY retentionKeepUnread.label "படிக்கப்பட்ட அஞ்சல்களை நீக்குக.">
-<!ENTITY retentionKeepUnread.accesskey "">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label "இணைப்பில்லா நிலை">
+<!ENTITY folderSynchronizationTab.label          "Synchronization">
 <!ENTITY folderCheckForNewMessages.label "இந்தக் கோப்புறையில் புதிய அஞ்சல்கள் இருக்கிறதா எனப் பார்க்கவும்.">
 <!ENTITY folderCheckForNewMessages.accesskey "">
 

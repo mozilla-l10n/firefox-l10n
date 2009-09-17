@@ -9,8 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "சேமிக்கப்பட்ட தேடல்…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newAccountCmd.label "கணக்கு…">
-<!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newEmailAccountCmd.label "Mail Account…">
+<!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "சேமிக்கப்பட்ட செய்தியை திறக்க…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "உடனிணைப்புகள்">
@@ -136,6 +138,8 @@
 
 <!ENTITY folderView.label "கோப்புறைகள்">
 <!ENTITY folderView.accesskey "F">
+<!ENTITY smartFolders.label "Smart">
+<!ENTITY smartFolders.accesskey "S">
 <!ENTITY allFolders.label "எல்லாம்">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "வாசிக்கப்படாதது">
@@ -220,6 +224,16 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "தனி உரை">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+
+<!ENTITY bodyMenuFeed.label "Feed Message Body As">
+<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Summary">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+
 <!ENTITY viewAttachmentsInlineCmd.label "உள்ளமை உடனிணைப்புகள் காட்சி">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
@@ -322,6 +336,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "எல்லோருக்கும் பதிலிடுக">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToListMsgCmd.label "Reply to List">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "முன்னோக்கு">
 <!ENTITY forwardMsgCmd.accesskey "F">
 <!ENTITY forwardMsgCmd.key  "l">
@@ -400,6 +417,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "செய்தியை திறக்க">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Open Feed Message">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "சாரளம்">
@@ -436,6 +461,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "எழுதுக">
 <!ENTITY replyButton.label "பதிலிடுக">
 <!ENTITY replyAllButton.label "எல்லோர்க்கும் பதிலிடுக">
+<!ENTITY replyListButton.label "Reply to List">
 <!ENTITY forwardButton.label "முன்னோக்குக">
 <!ENTITY fileButton.label "கோப்பு">
 <!ENTITY nextButton.label "அடுத்தது">
@@ -467,6 +493,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "புதிய செய்தியொன்றை உருவாக்குக">
 <!ENTITY replyButton.tooltip "செய்திக்கு பதிலிடுக">
 <!ENTITY replyAllButton.tooltip "அனுப்புனருக்கும் எல்லாப் பெறுநர்களுக்கும் பதிலிடுக">
+<!ENTITY replyListButton.tooltip "Reply to mailing list">
 <!ENTITY forwardButton.tooltip "தெரிவுசெய்யப்பட்ட செய்தியை முன்னோக்குக​ே">
 <!ENTITY fileButton.tooltip "கோப்பைத் தெரிவு செய்வதற்கான செய்தி">
 <!ENTITY nextButton.tooltip "வாசிக்கப்படாத அடுத்த செய்திக்கு நகர்க">
@@ -530,33 +557,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSettings.label "அமைப்புகள்…">
 <!ENTITY folderContextSettings.accesskey "e">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Play">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "Pause">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Mute">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "Unmute">
+<!ENTITY contextUnmute.accesskey "m">
+
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "பெயர் அல்லது மின்னஞ்சல் கொண்டிருக்கிறது:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-
-<!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "தகவல்கள் தேடல்…">
-<!ENTITY glodaSearchBar.facet.label "தேடல்:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "ஒவ்வொருபொருளும்">
-<!ENTITY glodaSearchFacet.subject.label "விடயம்">
-<!ENTITY glodaSearchFacet.involves.label "Involves (from,to,cc,bcc)">
-<!ENTITY glodaSearchFacet.to.label "To, CC">
-<!ENTITY glodaSearchFacet.from.label "From">
-<!ENTITY glodaSearchFacet.body.label "தகவல் உரை">
-<!ENTITY glodaSearchFacet.attachmentNames.label "உடணினைப்பு பெயர்கள்">
-<!ENTITY glodaSearchBar.location.label "இடம்:">
-<!ENTITY glodaSearchFacet.everywhere.label "கோப்புறைகள் யாவும்">
-<!ENTITY glodaSearchFacet.folder.label "குறிப்பிட்ட கோப்புறையில்…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "விடயம்">
@@ -588,10 +601,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY idColumn.label "பெறப்பட்ட ஒழுங்கு முறை">
 <!ENTITY attachmentColumn.label "உடனிணைப்புக்கள்">
 
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Why">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "நிரல்களை தெரிவுசெய்து காட்சிப்படுத்துவதற்கு சொடுக்குக">
@@ -614,7 +623,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "இருப்பிடத்தைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
 <!ENTITY idColumn.tooltip "பெறப்பட்ட ஒழுங்கைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
 <!ENTITY attachmentColumn.tooltip "உடனிணைப்புக்களைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
+
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "செய்தியை புதிய சாரளத்தில் திறக்க">
@@ -629,6 +638,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "அனைவருக்கும் பதிலிடுக">
 <!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyList.label "Reply to List">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "முன்னோக்குக">
 <!ENTITY contextForward.accesskey "F">
 <!ENTITY contextForwardAsAttachment.label "உடனிணைப்பாக முன்னோக்குக">
@@ -646,14 +657,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "அச்சிடல் முன்னோக்கு">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Search messages…">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "கூள அஞ்சல்">
 <!ENTITY junkBarButton1.label "கூளம் அல்ல">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "உங்கள் தனித்துவத்தை பாதுகாப்பதற்காக தொலைவிலுள்ள படிமங்கள் தடைசெய்யப்பட்டுள்ளன.">
-<!ENTITY loadRemoteContentButton2.label "இப்போது படிமங்களை திரையிடுக">
+<!ENTITY remoteContentMessage2.label "To protect your privacy, &brandShortName; has blocked remote content in this message.">
+<!ENTITY loadRemoteContentButton3.label "Show Remote Content">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "இந்தச் செய்தி சூழ்ச்சியானதாக இருக்கலாம்.">
@@ -664,6 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY more.label "மேலும்">
 
 <!-- Quick Search Bar -->
+<!ENTITY searchEverywhere.label "Search everywhere">
 <!ENTITY quickSearchCmd.key "k">
 
 <!-- Message Header Context Menu -->

@@ -54,7 +54,6 @@
 <!ENTITY InputName.label "புலப் பெயர்:">
 
 <!ENTITY GroupName.label "குழுப் பெயர்:">
-<!ENTITY InputName.label "Field Name:">
 <!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "புலப் பெறுமதி:">

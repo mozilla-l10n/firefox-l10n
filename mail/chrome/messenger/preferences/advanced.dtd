@@ -7,10 +7,12 @@
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label       "Indexer மற்றும் அகிலத் தேடலை இயலுமைப்படுத்துக">
-<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY systemIntegration.label       "System Integration">
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY systemDefaults.label          "அமைப்புப் பொதுஇருப்புக்கள்">
+<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY showCondensedAddresses.label "என் முகவரிப்புத்தகத்தில் பெயரை மட்டும் காண்பிக்கவும்">
 <!ENTITY showCondensedAddresses.accesskey "p">
 <!ENTITY autoMarkAsRead.label          "வாசித்தவையாக தானாக தகவல்களை அடையாளமிடுக">
@@ -25,16 +27,21 @@
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "செக்கன்கள்">
 <!ENTITY openMsgIn.label               "இல் தகவல்களைத் திறக்க:">
+<!ENTITY openMsgInNewTab.label         "A new tab">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label "ஒரு புதிய அஞ்சல் சாளரத்தில்">
 <!ENTITY reuseExpRadio0.accesskey "i">
 <!ENTITY reuseExpRadio1.label "அதே அஞ்சல் சாளரத்தில்">
 <!ENTITY reuseExpRadio1.accesskey "x">
+<!ENTITY closeMsgWindowOnDelete.label  "Close message window on delete">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
 <!ENTITY configEditDesc.label "உயர்தர கட்டமைப்பு">
 <!ENTITY configEdit.label "கட்டமைப்பு செவ்வையாளன்....">
 <!ENTITY configEdit.accesskey "g">
 <!ENTITY returnReceiptsInfo.label "&brandShortName; Return Receiptsஐ  கையாளும் விதத்தை கணிக்கவும்">
 <!ENTITY showReturnReceipts.label "Return Receipts..">
 <!ENTITY showReturnReceipts.accesskey "R">
+
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "வாசிக்கப்படுகிறது">
@@ -87,6 +94,11 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask.accesskey             "A">
 
 <!ENTITY viewCertificates.label "சான்றிதழ்களை காண்க">
 <!ENTITY viewCertificates.accesskey "a">

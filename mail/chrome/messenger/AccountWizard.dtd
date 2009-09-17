@@ -69,7 +69,7 @@
 -->
 
 <!ENTITY haveSmtp1.prefix "உங்களிடம் உள்ள அனுப்பும் சேவையகம் (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, பயன்படுத்தப்படுகிறது. கருவிப்பட்டையிலுள்ள கணக்கு அமைவுகளை தேர்ந்தெடுத்து, உங்கள் அனுப்பும் சேவையகத்தின் அமைவுகளை மாற்றலாம்.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, பயன்படுத்தப்படுகிறது. கருவிப்பட்டையிலுள்ள கணக்கு அமைவுகளை தேர்ந்தெடுத்து, உங்கள் அனுப்பும் சேவையகத்தின் அமைவுகளை மாற்றலாம்.">
 <!-- Entities for Login page -->
 
 
@@ -87,13 +87,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "ஏற்கனவே உள்ள உங்கள் அனுப்பும் (SMTP) பயனர்பெயர், &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, பயன்படுத்தப்படுகிறது. கருவிப்பட்டையில் கணக்கு அமைவுகளை தேர்ந்தெடுத்து, உங்கள் அனுப்பும் சேவையகத்தின் அமைவுகளை மாற்றலாம்.">
+<!ENTITY haveSmtp2.suffix2 "&quot;, பயன்படுத்தப்படுகிறது. கருவிப்பட்டையில் கணக்கு அமைவுகளை தேர்ந்தெடுத்து, உங்கள் அனுப்பும் சேவையகத்தின் அமைவுகளை மாற்றலாம்.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "உங்கள் அனுப்பும் (SMTP) சேவையகம், &quot;">
-<!ENTITY haveSmtp3.suffix "&quot; உங்கள் வரும் சேவையகமும் ஒரே மாதிரியுள்ளது, அதை அணுக வரும் அஞ்சல்களின் பயனர்பெயர் பயன்படுத்தப்படும். கருவிப்பட்டையில் உள்ள கணக்கு அமைவுகளை தேர்ந்தெடுத்து, உங்கள் அனுப்பும் சேவையகத்தின் அமைவுகளை மாற்றலாம்.">
+<!ENTITY haveSmtp3.suffix2 "&quot; உங்கள் வரும் சேவையகமும் ஒரே மாதிரியுள்ளது, அதை அணுக வரும் அஞ்சல்களின் பயனர்பெயர் பயன்படுத்தப்படும். கருவிப்பட்டையில் உள்ள கணக்கு அமைவுகளை தேர்ந்தெடுத்து, உங்கள் அனுப்பும் சேவையகத்தின் அமைவுகளை மாற்றலாம்.">
 <!-- Entities for Account name page -->
 
 

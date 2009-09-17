@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Windows தேடல்">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; ஒருங்கிணைப்பு">
-<!ENTITY searchIntegration.description "புதிய செய்திகளையும் அஞ்சல்களையும் சுட்டுவதற்கும் தேடுவதற்கும் &brandShortName; இனூடான &searchIntegration.engineName; இனை இயலுமைப்படுத்த விரும்புகிறீர்களா?">
-
-<!ENTITY searchIntegration.accept "&searchIntegration.engineName; யை இயலுமைப்படுத்துக">
-<!ENTITY searchIntegration.cancel "&searchIntegration.engineName; யை இயலுமைப்படுத்த வேண்டாம்">
