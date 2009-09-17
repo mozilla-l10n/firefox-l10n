@@ -48,7 +48,7 @@
 
 <!ENTITY event.edit.event "Seçimi düzenle…">
 <!ENTITY event.edit.event.key "E">
-<!ENTITY event.edit.event.accesskey "E">
+<!ENTITY event.edit.event.accesskey "e">
 
 <!ENTITY event.delete.event "Seçilmiş etkinlikleri sil">
 <!ENTITY event.delete.event.accesskey "S">
@@ -59,17 +59,17 @@
 <!ENTITY calendar.pagesetup.label "Sayfa düzeni…">
 <!ENTITY calendar.pagesetup.accesskey "a">
 
-<!ENTITY calendar.subscribe.label "Subscribe to Remote Calendar…">
-<!ENTITY calendar.subscribe.accesskey "R">
+<!ENTITY calendar.subscribe.label "Uzaktaki takvime üye ol…">
+<!ENTITY calendar.subscribe.accesskey "U">
 
 <!ENTITY calendar.reloadserver.label "Uzaktaki takvimleri tazele">
 <!ENTITY calendar.reloadserver.key "R">
 <!ENTITY calendar.reloadserver.accesskey "e">
 
-<!ENTITY calendar.publish.calendar.label "Bütün Takvimi yayınla">
+<!ENTITY calendar.publish.calendar.label "Takvimi yayınla…">
 <!ENTITY calendar.publish.calendar.accesskey "T">
-<!ENTITY calendar.publish.selection.label "Publish Selection…">
-<!ENTITY calendar.publish.selection.accesskey "c">
+<!ENTITY calendar.publish.selection.label "Seçimi yayınla…">
+<!ENTITY calendar.publish.selection.accesskey "m">
 
 <!ENTITY calendar.quit.label "Çık">
 <!ENTITY calendar.quit.accesskey "k">
@@ -148,7 +148,7 @@
 
 <!ENTITY preferencesCmd.label "Tercihler">
 <!ENTITY preferencesCmd.accesskey "c">
-<!ENTITY preferencesCmdMac.label "Preferences…">
+<!ENTITY preferencesCmdMac.label "Tercihler…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 

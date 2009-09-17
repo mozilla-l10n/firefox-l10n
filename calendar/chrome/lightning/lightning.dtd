@@ -59,8 +59,8 @@
 
 <!ENTITY lightning.menupopup.open.label "Aç">
 <!ENTITY lightning.menupopup.open.accesskey "A">
-<!ENTITY lightning.menupopup.open.message.label "Kayıtlı mesajlar…">
-<!ENTITY lightning.menupopup.open.message.accesskey "m">
+<!ENTITY lightning.menupopup.open.message.label "Kayıtlı iletiler…">
+<!ENTITY lightning.menupopup.open.message.accesskey "i">
 <!ENTITY lightning.menupopup.open.calendar.label "Takvim dosyası…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "T">
 <!-- View Menu -->
@@ -102,7 +102,7 @@
 <!ENTITY lightning.calendarproperties.email.label "E-posta:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Bu mesaj bir etkinliğe davetiyedir.">
+<!ENTITY lightning.imipbar.description "Bu ileti bir etkinliğe davetiyedir.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.new "I">
