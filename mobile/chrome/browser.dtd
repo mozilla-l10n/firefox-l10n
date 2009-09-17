@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label "Yer imleri">
 <!ENTITY bookmarksManage.label "Yönet">
-<!ENTITY foldersHeader.label "Dizinler">
 
 <!ENTITY editBookmarkRemove.label "Kaldır">
-<!ENTITY editBookmarkMove.label "Taşı">
 <!ENTITY editBookmarkDone.label "Tamamlandı">
 <!ENTITY editBookmarkTags.label "Buraya etiket ekle">
 
