@@ -50,6 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "تمام صفحه">
 <!ENTITY fullScreenCmd.accesskey "ت">
+<!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
+<!ENTITY showAllTabsCmd.accesskey "ز">
 
 <!ENTITY fullScreenMinimize.tooltip "کمینه کردن">
 <!ENTITY fullScreenRestore.tooltip "برگرداندن">
@@ -442,4 +444,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "برای باز شدن پنجرهٔ بارگیری‌ها کلیک کنید">
 
-<!ENTITY ctrlTab.search.emptyText "جست‌وجو در زبانه‌ها">
+<!ENTITY allTabs.filter.emptyText "جست‌وجو در زبانه‌ها">
