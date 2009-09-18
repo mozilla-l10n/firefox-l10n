@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "کار منفصل">
 <!ENTITY goOfflineCmd.accesskey "ک">
 
+<!ENTITY menubarCmd.label "نوار منو">
+<!ENTITY menubarCmd.accesskey "م">
 <!ENTITY navbarCmd.label "نوار ابزار راهبری">
 <!ENTITY navbarCmd.accesskey "ن">
 <!ENTITY personalbarCmd.label "نوار ابزار نشانک‌ها">
