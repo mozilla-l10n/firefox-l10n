@@ -277,8 +277,8 @@
 <!ENTITY calendar.alarm.snoozefor.label "Askıya al">
 <!ENTITY calendar.alarm.snoozeallfor.label "Tümünü askıya al">
 <!ENTITY calendar.alarm.title.label "Takvim uyarısı">
-<!ENTITY calendar.alarm.dismiss.label "İptal et">
-<!ENTITY calendar.alarm.dismissall.label "Tümünü iptal et">
+<!ENTITY calendar.alarm.dismiss.label "Sonlandır">
+<!ENTITY calendar.alarm.dismissall.label "Tümünü sonlandır">
 
 <!ENTITY calendar.alarm.snooze.5minutes.label "5 dakika">
 <!ENTITY calendar.alarm.snooze.10minutes.label "10 dakika">
