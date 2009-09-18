@@ -6,6 +6,10 @@
 <!ENTITY  checking.title                  "در حال گشتن به دنبال به‌هنگام‌سازی‌ها">
 <!ENTITY  updateCheck.label               "جست‌وجو به دنبال نسخهٔ جدیدتری از &brandShortName;…">
 
+<!ENTITY  pluginupdatesfound.title        "به‌هنگام‌سازی برای متصل‌شونده‌ها موجود است">
+<!ENTITY  pluginupdatesfound.label        "نسخهٔ جدیدتری از یک یا چند متصل‌شونده موجود است.">
+<!ENTITY  pluginupdateslink.label         "روش به‌هنگام‌سازی متصل‌شونده‌ها را ملاحظه کنید.">
+
 <!ENTITY  noupdatesfound.title            "هیچ به‌هنگام‌سازی‌ای پیدا نشد">
 <!ENTITY  noupdatesautoenabled.intro      "هیچ به‌هنگام‌سازی‌ای موجود نیست.  &brandShortName; هر چند وقت یک بار به دنبال به‌هنگام‌سازی‌ها خواهد گشت.">
 <!ENTITY  noupdatesautodisabled.intro     "هیچ به‌هنگام‌سازی‌ای موجود نیست.  لطفاً بعداً دوباره تلاش کنید، یا جست‌وجوی خودکار به‌هنگام‌سازی‌های &brandShortName; را فعال سازید.">

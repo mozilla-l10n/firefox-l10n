@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "بازگردانی کنترل‌ها و نوارهای ابزار به حالت اولیه">
 <!ENTITY resetToolbars.accesskey      "ب">
 
-<!ENTITY resetBookmarks.label         "بازگردانی نشانک‌ها به مقادیر اولیهٔ &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "ش">
+<!ENTITY deleteBookmarks.label        "حذف همهٔ نشانک‌ها به جز نسخه‌های پشتیبان">
+<!ENTITY deleteBookmarks.accesskey    "ش">
 
 <!ENTITY resetUserPrefs.label         "بازگردانی تمامی ترجیحات به مقادیر اولیهٔ &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "ت">
