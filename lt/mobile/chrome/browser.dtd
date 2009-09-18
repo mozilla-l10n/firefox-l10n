@@ -53,10 +53,8 @@
 
 <!ENTITY bookmarksHeader.label            "Adresynas">
 <!ENTITY bookmarksManage.label            "Tvarkyti">
-<!ENTITY foldersHeader.label              "Aplankai">
 
 <!ENTITY editBookmarkRemove.label         "Pašalinti">
-<!ENTITY editBookmarkMove.label           "Perkelti">
 <!ENTITY editBookmarkTags.label           "Gairės:">
 <!ENTITY editBookmarkDone.label           "Įrašyti">
 
@@ -91,11 +89,6 @@
 <!ENTITY addonShowPage.label              "Eiti į tinklalapį">
 
 <!ENTITY downloadsHeader.label            "Atsiuntimai">
-<!ENTITY downloadsSortDate.label          "Pagal datą">
-<!ENTITY downloadsSortSite.label          "Pagal svetainę">
-<!ENTITY downloadsSortName.label          "Pagal pavadinimą">
-<!ENTITY downloadsSearch.label            "Ieškoti">
-<!ENTITY downloadsSearch2.emptytext       "Ieškoti">
 
 <!ENTITY downloadShowPage.label           "Eiti į tinklalapį">
 <!ENTITY downloadShow2.label              "Parodyti">
@@ -104,6 +97,7 @@
 <!ENTITY downloadPause.label              "Pauzė">
 <!ENTITY downloadResume.label             "Tęsti">
 <!ENTITY downloadRetry.label              "Iš naujo">
+<!ENTITY downloadRemove.label             "Pašalinti">
 
 <!ENTITY noResults.label                  "Rezultatų nėra">
 <!ENTITY allBookmarks.label               "Visi adresyno įrašai">
