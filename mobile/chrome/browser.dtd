@@ -57,19 +57,15 @@
 <!ENTITY addonShowPage.label       "Gean nei side">
 
 <!ENTITY downloadsHeader.label     "Ynladen bestannen">
-<!ENTITY downloadsSortDate.label   "Per datum">
-<!ENTITY downloadsSortSite.label   "Per webtee">
-<!ENTITY downloadsSortName.label   "Per namme">
-<!ENTITY downloadsSearch.label     "Sykje">
-<!ENTITY downloadsSearch2.emptytext "Sykje">
 
 <!ENTITY downloadShowPage.label    "Gean nei side">
-<!ENTITY downloadShow2.label        "Fyn">
-<!ENTITY downloadOpen2.label        "Iepenje">
+<!ENTITY downloadShow2.label       "Fyn">
+<!ENTITY downloadOpen2.label       "Iepenje">
 <!ENTITY downloadCancel.label      "Annulearje">
 <!ENTITY downloadPause.label       "Pause">
 <!ENTITY downloadResume.label      "Fierder">
 <!ENTITY downloadRetry.label       "Opnij">
+<!ENTITY downloadRemove.label      "Fuortsmite">
 
 <!ENTITY noResults.label           "Gjin resultaten">
 <!ENTITY allBookmarks.label        "Besjoch alle blêdwizers">
