@@ -1,24 +1,11 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Retroceder">
-<!ENTITY back.tooltip          "Retroceder">
 <!ENTITY forward.label         "Avançar">
-<!ENTITY forward.tooltip       "Avançar">
 <!ENTITY reload.label          "Recarregar">
-<!ENTITY reload.tooltip        "Recarregar">
 <!ENTITY stop.label            "Parar">
-<!ENTITY stop.tooltip          "Parar">
 <!ENTITY search.label          "Pesquisar">
-<!ENTITY search.tooltip        "Pesquisar">
 <!ENTITY go.label              "Ir">
-<!ENTITY go.tooltip            "Ir">
 <!ENTITY openLocation.label    "Abrir localização">
-<!ENTITY openLocation.tooltip  "Abrir localização">
 <!ENTITY star.label            "Estrela">
-<!ENTITY star.tooltip          "Adicionar página aos marcadores">
-<!ENTITY bookmarks.label       "Marcadores">
-<!ENTITY bookmarks.tooltip     "Ver marcadores">
 
 <!ENTITY newtab.label          "Novo Separador">
 <!ENTITY closetab.label        "Fechar separador">
@@ -36,10 +23,15 @@
 <!ENTITY bookmarksManage.label     "Gerir">
 <!ENTITY foldersHeader.label       "Pastas">
 
-<!ENTITY editBookmarkEdit.label    "Editar">
+<!ENTITY editBookmarkRemove.label  "Remover">
 <!ENTITY editBookmarkMove.label    "Mover">
 <!ENTITY editBookmarkDone.label    "Feito">
 <!ENTITY editBookmarkTags.label    "Adicionar etiquetas aqui">
+
+<!ENTITY helperApp.prompt          "O que deseja fazer com">
+<!ENTITY helperApp.open            "Abrir">
+<!ENTITY helperApp.save            "Guardar">
+<!ENTITY helperApp.nothing         "Nada">
 
 <!ENTITY findOnCmd.label     "Procurar nesta página…">
 <!ENTITY findOnCmd.accesskey "P">
@@ -51,44 +43,64 @@
 
 <!ENTITY addonsHeader.label        "Extras">
 <!ENTITY addonsLocal.label         "Os seus extras">
+<!ENTITY addonsUpdate.label        "Actualizar">
 <!ENTITY addonsRepo.label          "Obter extras">
 <!ENTITY addonsRecommended.label   "Ver recomendados">
-<!ENTITY addonsSearch.label        "Pesquisar catálogo">
-<!ENTITY addonsSearch.emptytext    "pesquisar todos os extras">
+<!ENTITY addonsSearch.label        "Pesquisar">
+<!ENTITY addonsSearch2.emptytext   "Pesquisar catálogo">
+<!ENTITY addonsSearch.recommended  "Recomendado">
 
 <!ENTITY addonOptions.label        "Opções">
 <!ENTITY addonEnable.label         "Activar">
 <!ENTITY addonDisable.label        "Desactivar">
-<!ENTITY addonInstall.label        "Instalar">
+<!ENTITY addonInstall2.label        "Instalar">
 <!ENTITY addonUninstall.label      "Desinstalar">
 <!ENTITY addonCancel.label         "Cancelar">
+<!ENTITY addonShowPage.label       "Ir para a página">
 
 <!ENTITY downloadsHeader.label     "Transferências">
 <!ENTITY downloadsSortDate.label   "Por data">
 <!ENTITY downloadsSortSite.label   "Por sítio">
 <!ENTITY downloadsSortName.label   "Por nome">
 <!ENTITY downloadsSearch.label     "Pesquisar">
-<!ENTITY downloadsSearch.emptytext "Pesquisar ficheiro transferido">
+<!ENTITY downloadsSearch2.emptytext "Pesquisar">
 
 <!ENTITY downloadShowPage.label    "Ir para a página">
-<!ENTITY downloadShow.label        "Pesquisar ficheiro">
-<!ENTITY downloadOpen.label        "Abrir ficheiro">
+<!ENTITY downloadShow2.label        "Procurar">
+<!ENTITY downloadOpen2.label        "Abrir">
 <!ENTITY downloadCancel.label      "Cancelar">
 <!ENTITY downloadPause.label       "Pausa">
 <!ENTITY downloadResume.label      "Resumir">
 <!ENTITY downloadRetry.label       "Tentar novamente">
 
+<!ENTITY noResults.label           "Sem resultados">
+<!ENTITY allBookmarks.label        "Ver todos os marcadores">
+
+<!ENTITY searchEngine.addSearch     "Adicionar pesquisa:">
+
+<!ENTITY bookmarkPopup.label       "Página adicionada aos marcadores">
+<!ENTITY bookmarkRemove.label      "Remover">
+<!ENTITY bookmarkEdit.label        "Editar">
+
 <!ENTITY identity.unverifiedsite2 "Este sítio web não fornece informação da identidade.">
-<!ENTITY identity.connectedTo "Está ligado a">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
-
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.connectedTo2 "Está ligado a">
+<!-- Localization note (identity.runBy)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "que é gerido por">
+
+<!ENTITY consoleHeader.label       "Consola de erro">
+<!ENTITY consoleAll.label          "Tudo">
+<!ENTITY consoleErrors.label       "Erros">
+<!ENTITY consoleWarnings.label     "Avisos">
+<!ENTITY consoleMessages.label     "Mensagens">
+<!ENTITY consoleCodeEval.label     "Código:">
+<!ENTITY consoleClear.label        "Limpar">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Ficheiro fonte:">
+<!ENTITY consoleErrLine.label      "Linha:">
+<!ENTITY consoleErrColumn.label    "Coluna:">
+
+<!ENTITY selectListDone.label      "Feito">
