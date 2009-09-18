@@ -694,10 +694,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "d">
 <!ENTITY ViewContact.label "Adresi göster">
 <!ENTITY ViewContact.accesskey "g">
-<!ENTITY SendMailTo.label "Posta yaz">
-<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY SubscribeToNewsgroup.label "Haber grubuna üye ol">
+<!ENTITY SubscribeToNewsgroup.accesskey "H">
+<!ENTITY SendMessageTo.label "İleti oluştur">
+<!ENTITY SendMessageTo.accesskey "o">
 <!ENTITY CopyEmailAddress.label "Posta adresini kopyala">
 <!ENTITY CopyEmailAddress.accesskey "k">
+<!ENTITY CopyNewsgroupName.label "Haber grubunun adını kopyala">
+<!ENTITY CopyNewsgroupName.accesskey "b">
 <!ENTITY CreateFilterFrom.label "Postadan süzgeç oluştur…">
 <!ENTITY CreateFilterFrom.accesskey "P">
 <!ENTITY reportPhishingURL.label "E-posta sahtekârlığını rapor et">
