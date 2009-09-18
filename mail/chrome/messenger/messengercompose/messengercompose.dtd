@@ -87,7 +87,7 @@
 <!ENTITY findPrevCmd.accesskey "n">
 <!-- View Menu -->
 
-<!ENTITY viewMenu.label "Göster">
+<!ENTITY viewMenu.label "Görünüm">
 <!ENTITY viewMenu.accesskey "G">
 <!ENTITY viewToolbarsMenuNew.label "Araç çubukları">
 <!ENTITY viewToolbarsMenuNew.accesskey "b">

@@ -127,7 +127,7 @@
 <!ENTITY calendar.orientation.label "Görünümü döndür">
 <!ENTITY calendar.orientation.accesskey "ö">
 
-<!ENTITY calendar.search.options.searchfor " içeriyorsa">
+<!ENTITY calendar.search.options.searchfor " süzgeç">
 
 <!ENTITY calendar.list.header.label "Takvim">
 

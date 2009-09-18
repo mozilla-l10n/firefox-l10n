@@ -6,7 +6,7 @@
 <!ENTITY status.signed "Sayısal imzalı:">
 <!ENTITY status.encrypted "Şifreleme:">
 <!ENTITY status.certificates "Sertifikalar:">
-<!ENTITY view.label "Göster">
+<!ENTITY view.label "Görünüm">
 <!ENTITY view.accesskey "G">
 <!ENTITY tree.recipient "Alıcı:">
 <!ENTITY tree.status "Durum:">
