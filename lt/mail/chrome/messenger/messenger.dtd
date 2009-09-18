@@ -721,10 +721,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "a">
 <!ENTITY ViewContact.label "Rodyti adresatą">
 <!ENTITY ViewContact.accesskey "o">
-<!ENTITY SendMailTo.label "Rašyti laišką">
-<!ENTITY SendMailTo.accesskey "R">
+<!ENTITY SubscribeToNewsgroup.label "Prenumeruoti naujienų grupę">
+<!ENTITY SubscribeToNewsgroup.accesskey "r">
+<!ENTITY SendMessageTo.label "Rašyti laišką">
+<!ENTITY SendMessageTo.accesskey "R">
 <!ENTITY CopyEmailAddress.label "Kopijuoti el. pašto adresą">
 <!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNewsgroupName.label "Kopijuoti naujienų grupės pavadinimą">
+<!ENTITY CopyNewsgroupName.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Sukurti filtrą…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Pranešti apie apgaulingą laišką">
