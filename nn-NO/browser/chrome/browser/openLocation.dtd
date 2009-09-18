@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Vel fil …">
 <!ENTITY newWindow.label "Nytt vindauge">
 <!ENTITY newTab.label "Ny fane">
-<!ENTITY topWindow.label "Dette vindauget">
+<!ENTITY topTab.label "Denne fana">
 <!ENTITY caption.label "Opne nettstad">
 <!ENTITY openWhere.label "Opne i:">
 <!ENTITY openBtn.label "Opne">

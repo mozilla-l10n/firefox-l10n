@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Still tilbake verktøylinjer og kontrollar">
 <!ENTITY resetToolbars.accesskey      "t">
 
-<!ENTITY resetBookmarks.label         "Still tilbake til bokmerka til &brandShortName; standardinnstilling">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "Slett alle bokmerke med unntak av reservekopiar">
+<!ENTITY deleteBookmarks.accesskey    "l">
 
 <!ENTITY resetUserPrefs.label         "Still tilbake brukarinnstillingane til &brandShortName; standardinnstilling">
 <!ENTITY resetUserPrefs.accesskey     "n">

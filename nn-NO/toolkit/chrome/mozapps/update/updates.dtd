@@ -6,6 +6,10 @@
 <!ENTITY  checking.title                  "Ser etter oppdateringar">
 <!ENTITY  updateCheck.label               "Ser etter nyare versjonar av &brandShortName; …">
 
+<!ENTITY  pluginupdatesfound.title        "Oppdateringar for programtillegg">
+<!ENTITY  pluginupdatesfound.label        "Nyare versjonar av eit eller fleire av programtillegga dine vart funne.">
+<!ENTITY  pluginupdateslink.label         "Sjå korleis du kan oppgradere programtillegga.">
+
 <!ENTITY  noupdatesfound.title            "Fann ingen oppdateringar">
 <!ENTITY  noupdatesautoenabled.intro      "Ingen oppdateringar er tilgjengelege. &brandShortName; vil sjå
                                            etter oppdateringar med jamne mellomrom.">

@@ -12,37 +12,30 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "Om &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "O">
-<!ENTITY helpContents.label       "Innhald">
-<!ENTITY helpContents.accesskey   "n">
-<!ENTITY helpContentsMac.label    "&brandShortName; Hjelp">
+<!ENTITY productHelp.label        "Innhald">
+<!ENTITY productHelp.accesskey    "I">
 <!ENTITY helpForIEUsers.label     "For brukarar av Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "F">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "VK_HELP">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Utgjevingsmerknader">
 <!ENTITY helpReleaseNotes.accesskey     "U">
+
+<!ENTITY helpTroubleshooting.label      "Feilsøkingsinformasjon …">
+<!ENTITY helpTroubleshooting.accesskey  "F">
+
 <!ENTITY updateCmd.label                "Sjå etter oppdateringar …">
-<!ENTITY updateCmd.accesskey            "S">
 
 <!ENTITY preferencesCmdMac.label        "Innstillingar …">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Tenester">
 
 <!ENTITY hideThisAppCmdMac.label        "Skjul &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skjul andre">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Vis alle">
