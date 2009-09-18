@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "書籤">
 <!ENTITY bookmarksManage.label     "管理">
-<!ENTITY foldersHeader.label       "資料夾">
 
-<!ENTITY editBookmarkEdit.label    "編輯">
-<!ENTITY editBookmarkMove.label    "移動">
+<!ENTITY editBookmarkRemove.label  "移除">
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "在此加入書籤">
 
@@ -43,6 +41,7 @@
 
 <!ENTITY addonsHeader.label        "附加元件">
 <!ENTITY addonsLocal.label         "你的附加元件">
+<!ENTITY addonsUpdate.label        "更新">
 <!ENTITY addonsRepo.label          "取得元件">
 <!ENTITY addonsRecommended.label   "推薦元件">
 <!ENTITY addonsSearch.label        "搜尋">
