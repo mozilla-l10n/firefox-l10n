@@ -310,8 +310,6 @@
 <!ENTITY copyAudioURLCmd.label        "رونوشت برداشتن از نشانی پروندهٔ صوتی">
 <!ENTITY copyAudioURLCmd.accesskey    "ن">
 <!ENTITY blockImageCmd.accesskey      "ب">
-<!ENTITY metadataCmd.label            "ویژگی‌ها">
-<!ENTITY metadataCmd.accesskey        "و">
 <!ENTITY copyEmailCmd.label           "رونوشت برداشتن از نشانی پست الکترونیکی">
 <!ENTITY copyEmailCmd.accesskey       "پ">
 <!ENTITY thisFrameMenu.label              "این چارچوب">
