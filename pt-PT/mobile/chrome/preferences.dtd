@@ -1,17 +1,17 @@
+<!ENTITY prefsHeader.label                         "Preferências">
+<!ENTITY about.title                               "Sobre o &brandShortName;">
+<!ENTITY about.button                              "Ir para a página">
+<!ENTITY about.description                         "Obtenha ajuda e informação sobre o producto">
 <!ENTITY content.title                             "Conteúdo">
-<!ENTITY permissions.default.image.title           "Carregar imagens">
-<!ENTITY permissions.default.image.description     "Tornar sítios web mais bonitos">
-<!ENTITY javascript.enabled.title                  "Activar Javascript">
-<!ENTITY javascript.enabled.description            "Tornar sítios web flashy">
-<!ENTITY javascript.options.jit.content.title      "Activar JavaScript tracing">
-<!ENTITY javascript.options.jit.content.description "Usar compilação de código‐nativa no JavaScript">
-<!ENTITY plugins.enabled.title                     "Activar Plugins">
-<!ENTITY plugins.enabled.description               "Tornar sítios web chatos">
+<!ENTITY showImages.title                          "Mostrar imagens">
+<!ENTITY enableJavaScript.title                    "Activar JavaScript">
+<!ENTITY enableJavaScript.description              "Os principais sítios interactivos utilizam JavaScript">
+<!ENTITY enablePlugins.title                       "Activar Plugins">
+<!ENTITY enablePlugins.description                 "os plugins são usados para conteúdo especial como vídeo">
 <!ENTITY privacy.title                             "Privacidade &amp; Segurança">
-<!ENTITY network.cookie.cookieBehavior.title       "Guardar cookies">
-<!ENTITY network.cookie.cookieBehavior.description "Delicious delicacies">
-<!ENTITY clear.private.data.title                  "Limpar dados privados">
-<!ENTITY clear.private.data.button                 "Limpar…">
-<!ENTITY clear.private.data.description            "Guarda os seus ocultos">
-<!ENTITY signon.rememberSignons.title              "Guardar senhas">
-<!ENTITY signon.rememberSignons.description        "Deixa-o escrever menos">
+<!ENTITY allowCookies.title                        "Permitir cookies">
+<!ENTITY allowCookies.description                  "Os sítios usam cookies para o identificar e lembrar as suas definições">
+<!ENTITY clearPrivateData.title                    "limpara histórico de navegação">
+<!ENTITY clearPrivateData.button                   "Limpar">
+<!ENTITY clearPrivateData.description              "O seu histórico ajuda o &brandShortName; a sugerir aonde você deseja ir">
+<!ENTITY rememberPasswords.title                   "lembrar senhas">
