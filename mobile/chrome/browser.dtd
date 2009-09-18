@@ -18,9 +18,7 @@
 <!ENTITY addToDictionary.label "Añadir al diccionario">
 <!ENTITY bookmarksHeader.label "Marcadores">
 <!ENTITY bookmarksManage.label "Editar">
-<!ENTITY foldersHeader.label "Carpetas">
 <!ENTITY editBookmarkRemove.label "Eliminar">
-<!ENTITY editBookmarkMove.label "Mover">
 <!ENTITY editBookmarkDone.label "Terminar">
 <!ENTITY editBookmarkTags.label "Añada etiquetas aquí">
 <!ENTITY helperApp.prompt "Qué le gustaría hacer con">
@@ -50,11 +48,6 @@
 <!ENTITY addonCancel.label "Cancelar">
 <!ENTITY addonShowPage.label "Ir a la página">
 <!ENTITY downloadsHeader.label "Descargas">
-<!ENTITY downloadsSortDate.label "Fecha">
-<!ENTITY downloadsSortSite.label "Sitio">
-<!ENTITY downloadsSortName.label "Nombre">
-<!ENTITY downloadsSearch.label "Buscar">
-<!ENTITY downloadsSearch2.emptytext "Buscar">
 <!ENTITY downloadShowPage.label "Ir a la página">
 <!ENTITY downloadShow2.label "Buscar">
 <!ENTITY downloadOpen2.label "Abrir">
@@ -62,6 +55,7 @@
 <!ENTITY downloadPause.label "Pausa">
 <!ENTITY downloadResume.label "Continuar">
 <!ENTITY downloadRetry.label "Reintentar">
+<!ENTITY downloadRemove.label "Eliminar">
 <!ENTITY noResults.label "Sin resultados">
 <!ENTITY allBookmarks.label "Todos los marcadores">
 <!ENTITY searchEngine.addSearch "Añadir buscador:">
