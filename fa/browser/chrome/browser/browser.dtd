@@ -48,7 +48,7 @@
 <!ENTITY pageInfoCmd.label "اطلاعات صفحه">
 <!ENTITY pageInfoCmd.accesskey "ط">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "تمام صفحه">
+<!ENTITY fullScreenCmd.label "تمام‌صفحه">
 <!ENTITY fullScreenCmd.accesskey "ت">
 <!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
 <!ENTITY showAllTabsCmd.accesskey "ز">
@@ -368,6 +368,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "بریدن">
 <!ENTITY copyButton.tooltip             "رونوشت برداشتن">
 <!ENTITY pasteButton.tooltip            "چسباندن">
+<!ENTITY fullScreenButton.tooltip       "نمایش پنجره در حالت تمام‌صفحه">
 
 <!ENTITY quitApplicationCmdWin.label       "خروج"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "خ">
