@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "کار منفصل">
 <!ENTITY goOfflineCmd.accesskey "ک">
 
+<!ENTITY menubarCmd.label "نوار منو">
+<!ENTITY menubarCmd.accesskey "م">
 <!ENTITY navbarCmd.label "نوار ابزار راهبری">
 <!ENTITY navbarCmd.accesskey "ن">
 <!ENTITY personalbarCmd.label "نوار ابزار نشانک‌ها">
@@ -46,8 +48,11 @@
 <!ENTITY pageInfoCmd.label "اطلاعات صفحه">
 <!ENTITY pageInfoCmd.accesskey "ط">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "تمام صفحه">
+<!ENTITY fullScreenCmd.label "تمام‌صفحه">
 <!ENTITY fullScreenCmd.accesskey "ت">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
+<!ENTITY showAllTabsCmd.accesskey "ز">
 
 <!ENTITY fullScreenMinimize.tooltip "کمینه کردن">
 <!ENTITY fullScreenRestore.tooltip "برگرداندن">
@@ -310,8 +315,6 @@
 <!ENTITY copyAudioURLCmd.label        "رونوشت برداشتن از نشانی پروندهٔ صوتی">
 <!ENTITY copyAudioURLCmd.accesskey    "ن">
 <!ENTITY blockImageCmd.accesskey      "ب">
-<!ENTITY metadataCmd.label            "ویژگی‌ها">
-<!ENTITY metadataCmd.accesskey        "و">
 <!ENTITY copyEmailCmd.label           "رونوشت برداشتن از نشانی پست الکترونیکی">
 <!ENTITY copyEmailCmd.accesskey       "پ">
 <!ENTITY thisFrameMenu.label              "این چارچوب">
@@ -366,6 +369,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "بریدن">
 <!ENTITY copyButton.tooltip             "رونوشت برداشتن">
 <!ENTITY pasteButton.tooltip            "چسباندن">
+<!ENTITY fullScreenButton.tooltip       "نمایش پنجره در حالت تمام‌صفحه">
 
 <!ENTITY quitApplicationCmdWin.label       "خروج"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "خ">
@@ -442,4 +446,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "برای باز شدن پنجرهٔ بارگیری‌ها کلیک کنید">
 
-<!ENTITY ctrlTab.search.emptyText "جست‌وجو در زبانه‌ها">
+<!ENTITY allTabs.filter.emptyText "جست‌وجو در زبانه‌ها">

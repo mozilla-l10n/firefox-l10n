@@ -12,9 +12,8 @@
 <!ENTITY helpMenuWin.accesskey    "ر">
 <!ENTITY aboutCmd.label           "دربارهٔ &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "د">
-<!ENTITY helpContents.label       "محتوای راهنما">
-<!ENTITY helpContents.accesskey   "م">
-<!ENTITY helpContentsMac.label    "راهنمای &brandShortName;">
+<!ENTITY productHelp.label        "راهنمای &brandShortName;">
+<!ENTITY productHelp.accesskey    "ر">
 <!ENTITY helpForIEUsers.label     "اینترنت اکسپلورر مایکروسافت">
 <!ENTITY helpForIEUsers.accesskey "ک">
 <!ENTITY openHelp.commandkey      "VK_F1">
@@ -22,6 +21,10 @@
 
 <!ENTITY helpReleaseNotes.label         "یادداشت‌های انتشار">
 <!ENTITY helpReleaseNotes.accesskey     "ی">
+
+<!ENTITY helpTroubleshooting.label      "اطلاعات رفع اشکال…">
+<!ENTITY helpTroubleshooting.accesskey  "ش">
+
 <!ENTITY updateCmd.label                "گشتن به دنبال به‌هنگام‌سازی‌ها…">
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات…">

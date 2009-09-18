@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "ی">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "به دنبال به‌هنگام‌سازی برای افزودنی‌های موجود می‌گردد">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "به دنبال به‌هنگام‌سازی برای تم‌های موجود می‌گردد">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "به دنبال به‌هنگام‌سازی برای متصل‌شونده‌های موجود می‌گردد">
 <!ENTITY cmd.installLocalFile.label       "نصب…">
 <!ENTITY cmd.installLocalFile.accesskey   "ن">
 <!ENTITY cmd.installFileAddon.tooltip     "افزودنی جدید نصب می‌کند">
 <!ENTITY cmd.installFileTheme.tooltip     "تم جدید نصب می‌کند">
-<!ENTITY cmd.installUpdatesAll.label      "نصب به‌هنگام‌سازی‌ها">
-<!ENTITY cmd.installUpdatesAll.accesskey  "ن">
-<!ENTITY cmd.installUpdatesAll.tooltip    "به‌هنگام‌سازی‌های انتخاب شده را نصب می‌کند">
+<!ENTITY cmd.installUpdatesAll2.label     "نصب به‌هنگام‌سازی‌ها">
+<!ENTITY cmd.installUpdatesAll2.accesskey "ن">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "نصب به‌هنگام‌سازی‌های انتخاب شده">
 <!ENTITY cmd.restartApp2.label            "راه‌اندازی مجدد &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "ر">
 <!ENTITY cmd.restartApp2.tooltip          "را‌ه‌اندازی مجدد &brandShortName; برای اعمال تغییرات">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "به موارد دیگری نیاز دارد.">
 <!ENTITY blocklisted.label                "برای احتیاط غیرفعال شد.">
 <!ENTITY softBlocklisted.label            "ایرادات امنیتی یا پایداری به وجود می‌آورد.">
+<!ENTITY outdated.label                   "نسخه‌ای جدیدتر و ایمن‌تر موجود است.">
 <!ENTITY toBeDisabled.label               "این افزودنی بعد از راه‌اندازی مجدد &brandShortName; از کار خواهد افتاد.">
 <!ENTITY toBeEnabled.label                "این افزودنی بعد از راه‌اندازی مجدد &brandShortName; به کار خواهد افتاد.">
 <!ENTITY toBeInstalled.label              "این افزودنی پس از راه‌اندازی مجدد &brandShortName; نصب خواهد شد.">

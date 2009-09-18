@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label                 "بررسی متناوب برای به‌هنگام‌سازی:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "ف">
-<!ENTITY enableAddonsUpdate.label        "افزودنی‌های نصب‌شده">
-<!ENTITY enableAddonsUpdate.accesskey    "ا">
+<!ENTITY enableAddonsUpdate2.label       "افزودنی‌ها">
+<!ENTITY enableAddonsUpdate2.accesskey   "ا">
 <!ENTITY enableSearchUpdate.label        "موتورهای جست‌وجو">
 <!ENTITY enableSearchUpdate.accesskey    "م">
 <!ENTITY whenUpdatesFound.label          "هنگامی که به‌هنگام‌سازی برای &brandShortName; موجود بود:">
