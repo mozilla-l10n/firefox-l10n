@@ -47,13 +47,13 @@
 <!ENTITY day.3.Ddd "Sal">
 <!ENTITY day.3.Ddd.accesskey "S">
 <!ENTITY day.4.Ddd "Çar">
-<!ENTITY day.4.Ddd.accesskey "A">
+<!ENTITY day.4.Ddd.accesskey "a">
 <!ENTITY day.5.Ddd "Per">
-<!ENTITY day.5.Ddd.accesskey "E">
+<!ENTITY day.5.Ddd.accesskey "e">
 <!ENTITY day.6.Ddd "Cum">
 <!ENTITY day.6.Ddd.accesskey "C">
 <!ENTITY day.7.Ddd "Cmt">
-<!ENTITY day.7.Ddd.accesskey "M">
+<!ENTITY day.7.Ddd.accesskey "m">
 
 <!ENTITY day.1.name "Pazar">
 <!ENTITY day.2.name "Pazartesi">
@@ -65,11 +65,11 @@
 <!-- Units -->
 
 <!ENTITY calendar.global.units.minute "dakika">
-<!ENTITY calendar.global.units.minutes "minutes">
+<!ENTITY calendar.global.units.minutes "dakika">
 <!ENTITY calendar.global.units.hour "saat">
-<!ENTITY calendar.global.units.hours "hours">
+<!ENTITY calendar.global.units.hours "saat">
 <!ENTITY calendar.global.units.day "gün">
-<!ENTITY calendar.global.units.days "days">
+<!ENTITY calendar.global.units.days "gün">
 
 <!ENTITY month.1.name "Ocak">
 <!ENTITY month.2.name "Şubat">
