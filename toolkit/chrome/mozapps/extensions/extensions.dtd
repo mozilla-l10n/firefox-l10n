@@ -26,9 +26,9 @@
 <!ENTITY cmd.installLocalFile.accesskey   "ن">
 <!ENTITY cmd.installFileAddon.tooltip     "افزودنی جدید نصب می‌کند">
 <!ENTITY cmd.installFileTheme.tooltip     "تم جدید نصب می‌کند">
-<!ENTITY cmd.installUpdatesAll.label      "نصب به‌هنگام‌سازی‌ها">
-<!ENTITY cmd.installUpdatesAll.accesskey  "ن">
-<!ENTITY cmd.installUpdatesAll.tooltip    "به‌هنگام‌سازی‌های انتخاب شده را نصب می‌کند">
+<!ENTITY cmd.installUpdatesAll2.label     "نصب به‌هنگام‌سازی‌ها">
+<!ENTITY cmd.installUpdatesAll2.accesskey "ن">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "نصب به‌هنگام‌سازی‌های انتخاب شده">
 <!ENTITY cmd.restartApp2.label            "راه‌اندازی مجدد &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "ر">
 <!ENTITY cmd.restartApp2.tooltip          "را‌ه‌اندازی مجدد &brandShortName; برای اعمال تغییرات">
