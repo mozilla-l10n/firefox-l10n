@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Bibliotek">
+<!ENTITY places.library.title  "Bokmerkearkiv">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organiser">
@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "G">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Bokmerk denne sida …">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Slett denne sida">
 <!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Gløym denne nettstaden">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Tilbake">
-<!ENTITY backCmd.accesskey   "T">
 <!ENTITY backButton.tooltip  "Gå tilbake">
 
 <!ENTITY forwardCmd.label       "Fram">
-<!ENTITY forwardCmd.accesskey   "F">
 <!ENTITY forwardButton.tooltip  "Gå fram">
 
 <!ENTITY detailsPane.more.label "Meir">

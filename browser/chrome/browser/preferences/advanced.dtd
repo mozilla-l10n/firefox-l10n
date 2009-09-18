@@ -9,19 +9,19 @@
 <!ENTITY searchStartTyping.label         "Søk etter tekst medan eg skriv">
 <!ENTITY searchStartTyping.accesskey     "S">
 <!ENTITY blockAutoRefresh.label          "Åtvar meg når nettsider prøver å omdirigere eller laste sida på nytt">
-<!ENTITY blockAutoRefresh.accesskey      "r">
+<!ENTITY blockAutoRefresh.accesskey      "Å">
 
 <!ENTITY browsing.label                  "Nettlesing">
 
 <!ENTITY useAutoScroll.label             "Bruk autorulling">
-<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useAutoScroll.accesskey         "B">
 <!ENTITY useSmoothScrolling.label        "Bruk jamn rulling">
-<!ENTITY useSmoothScrolling.accesskey    "j">
+<!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY checkSpelling.label             "Kontroller staving medan eg skriv">
 <!ENTITY checkSpelling.accesskey         "K">
 
 <!ENTITY systemDefaults.label            "Standard nettlesar">
-<!ENTITY alwaysCheckDefault.label        "Kontroller alltid om &brandShortName; er standard nettlesar ved oppstart"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Alltid kontroller om &brandShortName; er standard nettlesar ved oppstart"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "d">
 <!ENTITY checkNow.label                  "Kontroller no">
 <!ENTITY checkNow.accesskey              "n">
@@ -43,18 +43,18 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 <!ENTITY useCacheBefore.label            "Bruk opptil">
-<!ENTITY useCacheBefore.accesskey        "u">
-<!ENTITY useCacheAfter.label             "MB diskplass for mellomlageret">
+<!ENTITY useCacheBefore.accesskey        "B">
+<!ENTITY useCacheAfter.label             " MB diskplass for mellomlageret">
 <!ENTITY clearCacheNow.label             "Tøm no">
 <!ENTITY clearCacheNow.accesskey         "T">
 
 <!ENTITY updateTab.label                 "Oppdatering">
 
-<!ENTITY autoCheck.label                 "Sjå automatisk etter oppdatering for:">
+<!ENTITY autoCheck.label                 "Sjå automatisk etter oppdateringar for:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Installerte utvidingar">
-<!ENTITY enableAddonsUpdate.accesskey    "I">
+<!ENTITY enableAddonsUpdate2.label       "Utvidingar">
+<!ENTITY enableAddonsUpdate2.accesskey   "U">
 <!ENTITY enableSearchUpdate.label        "Søkjemotorar">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 <!ENTITY whenUpdatesFound.label          "Når oppdateringar for &brandShortName; vert funne:">
@@ -88,14 +88,14 @@
 <!ENTITY certificates.label              "Sertifikat">
 <!ENTITY certSelection.description       "Når ein nettstad ber om det personlege sertifikatet mitt:">
 <!ENTITY certs.auto                      "Vel eit automastisk">
-<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.auto.accesskey            "e">
 <!ENTITY certs.ask                       "Spør meg kvar gong">
-<!ENTITY certs.ask.accesskey             "p">
+<!ENTITY certs.ask.accesskey             "S">
 <!ENTITY viewCerts.label                 "Vis sertifikata">
-<!ENTITY viewCerts.accesskey             "r">
+<!ENTITY viewCerts.accesskey             "V">
 <!ENTITY viewCRLs.label                  "Tilbakekallingslister">
 <!ENTITY viewCRLs.accesskey              "T">
 <!ENTITY verify2.label                   "Validering">
-<!ENTITY verify2.accesskey               "V">
+<!ENTITY verify2.accesskey               "a">
 <!ENTITY viewSecurityDevices.label       "Sikkerheitseiningar">
 <!ENTITY viewSecurityDevices.accesskey   "k">

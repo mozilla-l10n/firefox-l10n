@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Finn oppdateringar til programtillegga dine">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Finn oppdateringar til tema">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Søkjer etter oppdateringar for programtillegg">
 <!ENTITY cmd.installLocalFile.label       "Installer …">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "Installer ei utviding">
 <!ENTITY cmd.installFileTheme.tooltip     "Installer eit tema">
-<!ENTITY cmd.installUpdatesAll.label      "Installer oppdateringar">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Installerer valde oppdateringar">
+<!ENTITY cmd.installUpdatesAll2.label     "Installer oppdateringar">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Installer valde oppdateringar">
 <!ENTITY cmd.restartApp2.label            "Start &brandShortName; på nytt">
 <!ENTITY cmd.restartApp2.accesskey        "S">
 <!ENTITY cmd.restartApp2.tooltip          "Start &brandShortName; på nytt for å fullføre installeringa">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Krev fleire element.">
 <!ENTITY blocklisted.label                "Avslått av sikkerheitsårsaker.">
 <!ENTITY softBlocklisted.label            "Er kjend for å lage sikerheits- og stabilitetsproblem.">
+<!ENTITY outdated.label                   "Ein nyare, tryggare versjon er tilgjengeleg.">
 <!ENTITY toBeDisabled.label               "Denne utvidinga vil bli slått av når &brandShortName; startar på nytt.">
 <!ENTITY toBeEnabled.label                "Denne utvidinga vert slått på når &brandShortName; startar på nytt.">
 <!ENTITY toBeInstalled.label              "Denne utvidinga vert installert når &brandShortName; startar på nytt.">
