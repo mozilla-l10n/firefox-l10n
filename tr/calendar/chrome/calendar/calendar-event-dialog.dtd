@@ -111,15 +111,15 @@
 <!ENTITY event.menu.view.toolbars.event.accesskey "a">
 <!ENTITY event.menu.view.toolbars.customize.label "Özelleştir…">
 <!ENTITY event.menu.view.toolbars.customize.accesskey "z">
-<!ENTITY event.menu.view.showlink.label "Show Related Link">
-<!ENTITY event.menu.view.showlink.accesskey "R">
+<!ENTITY event.menu.view.showlink.label "İlgili bağlantıyı göster">
+<!ENTITY event.menu.view.showlink.accesskey "b">
 
 <!ENTITY event.menu.options.label "Seçenekler">
 <!ENTITY event.menu.options.accesskey "S">
 <!ENTITY event.menu.options.attachments.label "Web sayfasını ek olarak ekle…">
 <!ENTITY event.menu.options.attachments.accesskey "W">
-<!ENTITY event.menu.options.attendees.label "Invite Attendees…">
-<!ENTITY event.menu.options.attendees.accesskey "I">
+<!ENTITY event.menu.options.attendees.label "Katılımcıları davet et…">
+<!ENTITY event.menu.options.attendees.accesskey "K">
 <!ENTITY event.menu.options.spellcheck.label "İmla Denetimi…">
 <!ENTITY event.menu.options.spellcheck.accesskey "İ">
 <!ENTITY event.menu.options.inline.spellcheck.label "Yazarken denetle">
@@ -140,8 +140,8 @@
 <!ENTITY event.menu.options.priority.high.accesskey "Y">
 <!ENTITY event.menu.options.privacy.label "Gizlilik">
 <!ENTITY event.menu.options.privacy.accesskey "G">
-<!ENTITY event.menu.options.privacy.public.label "Public Event">
-<!ENTITY event.menu.options.privacy.public.accesskey "u">
+<!ENTITY event.menu.options.privacy.public.label "Açık etkinlik">
+<!ENTITY event.menu.options.privacy.public.accesskey "A">
 <!ENTITY event.menu.options.privacy.confidential.label "Sadece saati ve tarihi göster">
 <!ENTITY event.menu.options.privacy.confidential.accesskey "S">
 <!ENTITY event.menu.options.privacy.private.label "Özel etkinlik">
@@ -216,7 +216,7 @@
 <!ENTITY event.attachments.popup.removeAll.accesskey "a">
 <!ENTITY event.attachments.popup.attachPage.label "Web sayfasını ek olarak ekle…">
 <!ENTITY event.attachments.popup.attachPage.accesskey "W">
-<!ENTITY event.url.label "Related Link:">
+<!ENTITY event.url.label "İlgili bağlantı:">
 <!ENTITY event.priority2.label "Önemlilik:">
 
 <!ENTITY event.reminder.none.label "Uyarısız">
@@ -242,8 +242,8 @@
 <!ENTITY event.repeat.does.not.repeat.label "Tekrarlama">
 <!ENTITY event.repeat.daily.label "Her gün">
 <!ENTITY event.repeat.weekly.label "Her hafta">
-<!ENTITY event.repeat.every.weekday.label "Her hafta günü">
-<!ENTITY event.repeat.bi.weekly.label "İki haftadan bir">
+<!ENTITY event.repeat.every.weekday.label "Haftanın her günü">
+<!ENTITY event.repeat.bi.weekly.label "İki haftada bir">
 <!ENTITY event.repeat.monthly.label "Her ay">
 <!ENTITY event.repeat.yearly.label "Her sene">
 <!ENTITY event.repeat.custom.label "Özelleştir…">
@@ -257,7 +257,7 @@
 
 <!ENTITY event.recurrence.pattern.every.label "Her">
 <!ENTITY repeat.units.days.both "gün">
-<!ENTITY event.recurrence.pattern.every.weekday.label "Her hafta günü">
+<!ENTITY event.recurrence.pattern.every.weekday.label "Haftanın her günü">
 
 <!ENTITY event.recurrence.pattern.weekly.every.label "Her">
 <!ENTITY repeat.units.weeks.both "Hafta">
@@ -321,7 +321,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label "Perşembe">
 <!ENTITY event.recurrence.pattern.yearly.week.6.label "Cuma">
 <!ENTITY event.recurrence.pattern.yearly.week.7.label "Cumartesi">
-<!ENTITY event.recurrence.of.label " -> ">
+<!ENTITY event.recurrence.of.label "-">
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label "Ocak">
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label "Şubat">
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label "Mart">
@@ -379,4 +379,4 @@
 <!ENTITY read.only.attendees.label "Katılımcılar">
 <!ENTITY read.only.description.label "Açıklama">
 <!ENTITY read.only.documents.label "Belgeler">
-<!ENTITY read.only.link.label "Related Link">
+<!ENTITY read.only.link.label "İlgili bağlantı">

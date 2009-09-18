@@ -1,8 +1,8 @@
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Hesap ayarları">
-<!ENTITY accountName.label "Hesap ismi:">
-<!ENTITY accountName.accesskey "m">
+<!ENTITY accountName.label "Hesap adı:">
+<!ENTITY accountName.accesskey "d">
 <!ENTITY identityTitle.label "Kimlik">
 <!ENTITY identityDesc.label "Her hesabın kendi kimliği vardır. Alıcılar bu bilgileri e-postanızı okudukları zaman görürler.">
 <!ENTITY name.label "İsminiz:">
