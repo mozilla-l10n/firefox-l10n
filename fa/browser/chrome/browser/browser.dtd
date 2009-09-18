@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "تمام‌صفحه">
 <!ENTITY fullScreenCmd.accesskey "ت">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
 <!ENTITY showAllTabsCmd.accesskey "ز">
 
