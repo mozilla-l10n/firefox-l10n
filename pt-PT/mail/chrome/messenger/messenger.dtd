@@ -693,10 +693,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Ver contacto">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "Nova mensagem para">
-<!ENTITY SendMailTo.accesskey "n">
+<!ENTITY SubscribeToNewsgroup.label "Subscrever a grupo de notícias">
+<!ENTITY SubscribeToNewsgroup.accesskey "n">
+<!ENTITY SendMessageTo.label "Compor mensagem para">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copiar endereço de correio">
 <!ENTITY CopyEmailAddress.accesskey "A">
+<!ENTITY CopyNewsgroupName.label "Copiar nome do grupo de notícias">
+<!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Criar filtro De...">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Denunciar Tentativa de Engodo">
