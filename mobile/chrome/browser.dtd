@@ -57,11 +57,6 @@
 <!ENTITY addonShowPage.label "Sayfaya git">
 
 <!ENTITY downloadsHeader.label "İndirilenler">
-<!ENTITY downloadsSortDate.label "Tarih">
-<!ENTITY downloadsSortSite.label "Site">
-<!ENTITY downloadsSortName.label "İsim">
-<!ENTITY downloadsSearch.label "Ara">
-<!ENTITY downloadsSearch2.emptytext "Ara">
 
 <!ENTITY downloadShowPage.label "Sayfaya git">
 <!ENTITY downloadShow2.label "Bul">
@@ -70,6 +65,7 @@
 <!ENTITY downloadPause.label "Duraklat">
 <!ENTITY downloadResume.label "Devam et">
 <!ENTITY downloadRetry.label "Yeniden dene">
+<!ENTITY downloadRemove.label "Kaldır">
 
 <!ENTITY noResults.label "Sonuç yok">
 <!ENTITY allBookmarks.label "Tüm yer imlerini göster">
