@@ -686,10 +686,14 @@
 <!ENTITY EditContact.accesskey       "E">
 <!ENTITY ViewContact.label           "Wyświetl kontakt">
 <!ENTITY ViewContact.accesskey       "W">
-<!ENTITY SendMailTo.label            "Wyślij wiadomość do">
-<!ENTITY SendMailTo.accesskey        "W">
+<!ENTITY SubscribeToNewsgroup.label     "Subskrybuj grupę">
+<!ENTITY SubscribeToNewsgroup.accesskey "S">
+<!ENTITY SendMessageTo.label         "Wyślij wiadomość do">
+<!ENTITY SendMessageTo.accesskey     "W">
 <!ENTITY CopyEmailAddress.label      "Kopiuj adres e-mail">
 <!ENTITY CopyEmailAddress.accesskey  "K">
+<!ENTITY CopyNewsgroupName.label     "Kopiuj nazwę grupy dyskusyjnej">
+<!ENTITY CopyNewsgroupName.accesskey "n">
 <!ENTITY CreateFilterFrom.label      "Utwórz filtr na podstawie…">
 <!ENTITY CreateFilterFrom.accesskey  "f">
 <!ENTITY reportPhishingURL.label     "Zgłoś oszustwo pocztowe" >
