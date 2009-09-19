@@ -12,9 +12,8 @@
 <!ENTITY helpMenuWin.accesskey "v">
 <!ENTITY aboutCmd.label "O aplikaci &brandFullName;">
 <!ENTITY aboutCmd.accesskey "O">
-<!ENTITY helpContents.label "Obsah nápovědy">
-<!ENTITY helpContents.accesskey "n">
-<!ENTITY helpContentsMac.label "Nápověda aplikace &brandShortName;">
+<!ENTITY productHelp.label "Nápověda aplikace &brandShortName;">
+<!ENTITY productHelp.accesskey "N">
 <!ENTITY helpForIEUsers.label "Pro uživatele Internet Exploreru">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -22,6 +21,10 @@
 
 <!ENTITY helpReleaseNotes.label "Poznámky k vydání">
 <!ENTITY helpReleaseNotes.accesskey "P">
+
+<!ENTITY helpTroubleshooting.label "Technické informace…">
+<!ENTITY helpTroubleshooting.accesskey  "T">
+
 <!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
 
 <!ENTITY preferencesCmdMac.label "Předvolby…">
