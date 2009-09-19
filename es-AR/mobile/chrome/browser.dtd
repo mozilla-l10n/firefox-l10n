@@ -57,11 +57,6 @@
 <!ENTITY addonShowPage.label       "Ir a la página">
 
 <!ENTITY downloadsHeader.label     "Descargas">
-<!ENTITY downloadsSortDate.label   "Fecha">
-<!ENTITY downloadsSortSite.label   "Sitio">
-<!ENTITY downloadsSortName.label   "Nombre">
-<!ENTITY downloadsSearch.label     "Buscar">
-<!ENTITY downloadsSearch2.emptytext "Buscar">
 
 <!ENTITY downloadShowPage.label    "Ir a la página">
 <!ENTITY downloadShow2.label       "Buscar">
@@ -70,11 +65,12 @@
 <!ENTITY downloadPause.label       "Pausa">
 <!ENTITY downloadResume.label      "Continuar">
 <!ENTITY downloadRetry.label       "Reintentar">
+<!ENTITY downloadRemove.label      "Eliminar">
 
 <!ENTITY noResults.label           "Sin resultados">
 <!ENTITY allBookmarks.label        "Ver todos los marcadores">
 
-<!ENTITY searchEngine.addSearch     "Agregar buscador:">
+<!ENTITY searchEngine.addSearch    "Agregar buscador:">
 
 <!ENTITY bookmarkPopup.label       "Página marcada">
 <!ENTITY bookmarkRemove.label      "Eliminar">
