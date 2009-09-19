@@ -31,10 +31,3 @@
 
 <!ENTITY  savedPasswords.label            "Senhas guardadas...">
 <!ENTITY  savedPasswords.accesskey        "S">
-
-<!ENTITY warnings.label "Avisos de Segurança">
-
-<!ENTITY chooseWarnings.label "Escolher quais os avisos de segurança que quero visualizar quando navego na web">
-
-<!ENTITY warningSettings.label "Definições...">
-<!ENTITY warningSettings.accesskey "D">
