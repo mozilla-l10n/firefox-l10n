@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label "Záložky">
 <!ENTITY bookmarksManage.label "Spravovat">
-<!ENTITY foldersHeader.label "Složky">
 
 <!ENTITY editBookmarkRemove.label "Odebrat">
-<!ENTITY editBookmarkMove.label "Přesunout">
 <!ENTITY editBookmarkDone.label "Hotovo">
 <!ENTITY editBookmarkTags.label "Přidat štítky">
 
@@ -59,11 +57,6 @@
 <!ENTITY addonShowPage.label "Přejít na stránku">
 
 <!ENTITY downloadsHeader.label "Stahování">
-<!ENTITY downloadsSortDate.label "Podle data">
-<!ENTITY downloadsSortSite.label "Podle serveru">
-<!ENTITY downloadsSortName.label "Podle jména">
-<!ENTITY downloadsSearch.label "Hledat">
-<!ENTITY downloadsSearch2.emptytext "Hledat">
 
 <!ENTITY downloadShowPage.label "Přejít na stránku">
 <!ENTITY downloadShow2.label "Najít">
@@ -72,6 +65,7 @@
 <!ENTITY downloadPause.label "Pozastavit">
 <!ENTITY downloadResume.label "Obnovit">
 <!ENTITY downloadRetry.label "Opakovat">
+<!ENTITY downloadRemove.label "Odebrat">
 
 <!ENTITY noResults.label "Žádné výsledky">
 <!ENTITY allBookmarks.label "Zobrazit všechny záložky">

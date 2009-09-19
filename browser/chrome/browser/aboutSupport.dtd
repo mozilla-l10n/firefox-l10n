@@ -1,0 +1,31 @@
+<!ENTITY aboutSupport.pageTitle "Technické informace">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+Tato stránka obsahuje technické informace, které mohou být užitečné, pokud se snažíte
+vyřešit nějaký složitější problém s aplikací. Odpovědi na často kladené otázky ohledně
+aplikace &brandShortName; naleznete na <a id='supportLink'>webových stránkách podpory</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Rozšíření">
+<!ENTITY aboutSupport.extensionName "Název">
+<!ENTITY aboutSupport.extensionEnabled "Povoleno">
+<!ENTITY aboutSupport.extensionVersion "Verze">
+<!ENTITY aboutSupport.extensionFirstRun "První spuštění">
+<!ENTITY aboutSupport.extensionId "Id">
+
+<!ENTITY aboutSupport.appBasicsTitle "Stručně o aplikaci">
+<!ENTITY aboutSupport.appBasicsName "Název">
+<!ENTITY aboutSupport.appBasicsVersion "Verze">
+<!ENTITY aboutSupport.appBasicsProfileDir "Adresář s profilem">
+<!ENTITY aboutSupport.appBasicsPlugins "Nainstalované zásuvné moduly">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Nastavení sestavení">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Změněné předvolby">
+<!ENTITY aboutSupport.modifiedPrefsName "Název">
+<!ENTITY aboutSupport.modifiedPrefsValue "Hodnota">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Historie instalací">
+<!ENTITY aboutSupport.updateHistoryTitle "Aktualizovat historii">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Zkopírovat vše do schránky">
