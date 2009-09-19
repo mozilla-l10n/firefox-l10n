@@ -32,11 +32,3 @@
 
 <!ENTITY savedPasswords.label "সংরক্ষিত পাসওয়ার্ড… (P)">
 <!ENTITY savedPasswords.accesskey "P">
-
-
-<!ENTITY warnings.label "সতর্কবার্তা">
-
-<!ENTITY chooseWarnings.label "ব্রাউজ করার সময় প্রদর্শনযোগ্য সতর্কবার্তাগুলি নির্বাচন করুন">
-
-<!ENTITY warningSettings.label "সেটিং... (S)">
-<!ENTITY warningSettings.accesskey "S">

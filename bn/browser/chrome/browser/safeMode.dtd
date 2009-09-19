@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "টুলবার ও কন্ট্রোল রিসেট (R)">
 <!ENTITY resetToolbars.accesskey "R">
 
-<!ENTITY resetBookmarks.label "বুকমার্কগুলো &brandShortName; এর ডিফল্ট মানে রিসেট (B)">
-<!ENTITY resetBookmarks.accesskey "b">
+<!ENTITY deleteBookmarks.label "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.accesskey "b">
 
 <!ENTITY resetUserPrefs.label "ব্যবহারকারীর পছন্দসমূহ &brandShortName; এর ডিফল্ট মানে রিসেট (P)">
 <!ENTITY resetUserPrefs.accesskey "p">

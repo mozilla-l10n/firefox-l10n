@@ -1,6 +1,6 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title "লাইব্রেরি">
-<!ENTITY places.library.width "700">
+<!ENTITY places.library.width "800">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "সংগঠিতকরণ (O)">
 <!ENTITY organize.accesskey "O">
@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey "R">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.bookmarkLink.label "Bookmark This Page…">
+<!ENTITY cmd.bookmarkLink.accesskey "B">
 <!ENTITY cmd.delete.label "এই পৃষ্ঠাটি মুছে ফেলুন (D)">
 <!ENTITY cmd.delete.accesskey "D">
 <!ENTITY cmd.deleteDomainData.label "এই সাইটটি মনে রাখা হবে না (F)">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey "I">
 
 <!ENTITY backCmd.label "পূর্ববর্তী (B)">
-<!ENTITY backCmd.accesskey "B">
 <!ENTITY backButton.tooltip "পূর্ববর্তী স্থানে ফিরে যাবে">
 
 <!ENTITY forwardCmd.label "পরবর্তী (F)">
-<!ENTITY forwardCmd.accesskey "F">
 <!ENTITY forwardButton.tooltip "পরবর্তী স্থানে এগিয়ে যাবে">
 
 <!ENTITY detailsPane.more.label "আরও (E)">
