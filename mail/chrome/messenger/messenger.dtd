@@ -727,10 +727,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "R">
 <!ENTITY ViewContact.label "Visa kontakt">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "Skriv meddelande till">
-<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY SubscribeToNewsgroup.label "Prenumerera på diskussionsgrupp">
+<!ENTITY SubscribeToNewsgroup.accesskey "P">
+<!ENTITY SendMessageTo.label "Skriv meddelande till">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Kopiera e-postadress">
 <!ENTITY CopyEmailAddress.accesskey "o">
+<!ENTITY CopyNewsgroupName.label "Kopiera diskussionsgruppens namn">
+<!ENTITY CopyNewsgroupName.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Skapa filterregel utifrån…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Rapportera e-postbluff">
