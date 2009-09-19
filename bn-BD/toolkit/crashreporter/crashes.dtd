@@ -3,5 +3,5 @@
 <!ENTITY date.heading "জমা দেয়ার তারিখ">
 <!ENTITY noReports.label "কোনো ক্র্যাশ প্রতিবেদন জমা দেয়া হয়নি।">
 <!ENTITY noConfig.label "এই অ্যাপ্লিকেশনটি ক্র্যাশ প্রতিবেদন দেখানোর জন্য কনফিগার করা হয়নি। <code>breakpad.reportURL</code> নির্ধারণ করা আবশ্যক।">
-<!ENTITY clearReports.label "প্রতিবেদন মুছে ফেলা হবে">
+<!ENTITY clearAllReports.label "Remove All Reports">
 
