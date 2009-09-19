@@ -12,9 +12,8 @@
 <!ENTITY helpMenuWin.accesskey	  "c" >
 <!ENTITY aboutCmd.label           "O programie &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "O">
-<!ENTITY helpContents.label       "Spis tematów">
-<!ENTITY helpContents.accesskey   "S">
-<!ENTITY helpContentsMac.label    "Pomoc programu &brandShortName;">
+<!ENTITY productHelp.label        "Pomoc programu &brandShortName;">
+<!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Dla użytkowników Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
