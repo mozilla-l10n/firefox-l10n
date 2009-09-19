@@ -12,37 +12,30 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutCmd.label "&brandFullName; পরিচিতি (A)">
 <!ENTITY aboutCmd.accesskey "A">
-<!ENTITY helpContents.label "সহায়িকার সূচী (H)">
-<!ENTITY helpContents.accesskey "H">
-<!ENTITY helpContentsMac.label "&brandShortName; সহায়তা">
+<!ENTITY productHelp.label "&brandShortName; Help">
+<!ENTITY productHelp.accesskey "H">
 <!ENTITY helpForIEUsers.label "Internet Explorer ব্যবহারকারীদের জন্য (I)">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey "/">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY helpMac.commandkey "?">
 
 <!ENTITY helpReleaseNotes.label "রিলিজ নোট (N)">
 <!ENTITY helpReleaseNotes.accesskey "N">
+
+<!ENTITY helpTroubleshooting.label "Troubleshooting Information…">
+<!ENTITY helpTroubleshooting.accesskey "T">
+
 <!ENTITY updateCmd.label "আপডেট পরীক্ষা করা হবে... (O)">
-<!ENTITY updateCmd.accesskey "o">
 
 <!ENTITY preferencesCmdMac.label "পছন্দসমূহ...">
 <!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
 
 <!ENTITY servicesMenuMac.label "সেবাসমূহ">
 
 <!ENTITY hideThisAppCmdMac.label "&brandShortName; আড়াল করা হবে (H)">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label "অন্যান্য উইন্ডো আড়াল করা হবে (H)">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label "সব প্রদর্শন করা হবে">

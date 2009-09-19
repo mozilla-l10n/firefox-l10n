@@ -6,6 +6,10 @@
 <!ENTITY checking.title "আপডেট পরীক্ষা করা হচ্ছে">
 <!ENTITY updateCheck.label "&brandShortName; এর নতুন সংস্করণ খোঁজা হচ্ছে…">
 
+<!ENTITY pluginupdatesfound.title "Found Updates for Plugins">
+<!ENTITY pluginupdatesfound.label "Newer versions of one or more of your plugins were found.">
+<!ENTITY pluginupdateslink.label "See how to upgrade your plugins.">
+
 <!ENTITY noupdatesfound.title "কোনো আপডেট পাওয়া যায়নি">
 <!ENTITY noupdatesautoenabled.intro "কোনো আপডেট নেই। &brandShortName; নিয়মিত বিরতিতে 
 আপডেট খুঁজে দেখবে।">
@@ -13,9 +17,9 @@
 &brandShortName; এর স্বয়ংক্রিয় আপডেট সক্রিয় করুন।">
 
 <!ENTITY manualUpdate.title "হালনাগাদ করা সম্ভব হয়নি">
-<!ENTITY manualUpdate.desc "নিরাপত্তা এবং স্থায়ীত্ব সংক্রান্ত একটি আপডেট বিদ্যমান, কিন্তু এটি
-ডাউনলোড করার প্রয়োজনীয় অনুমতি আপনার নেই। অনুগ্রহ
-করে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন বা এই কম্পিউটারে
+<!ENTITY manualUpdate.desc "নিরাপত্তা এবং স্থায়ীত্ব সংক্রান্ত একটি আপডেট বিদ্যমান, কিন্তু এটি 
+ডাউনলোড করার প্রয়োজনীয় অনুমতি আপনার নেই। অনুগ্রহ 
+করে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন বা এই কম্পিউটারে 
 সফটওয়্যারটি ইনস্টলের অনুমতি আছে এমন একটি একাউন্ট থেকে পুনরায় চেষ্টা করুন।">
 <!ENTITY manualUpdateGetMsg.label "&brandShortName; এর সর্বশেষ সংস্করণ পাবেন এখানে পাবেন:">
 

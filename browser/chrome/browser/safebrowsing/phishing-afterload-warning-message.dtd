@@ -13,14 +13,14 @@
 <!ENTITY safeb.palm.decline.label "এই সতর্কবাণী উপেক্ষা করো">
 <!ENTITY safeb.palm.decline.statustext "সতর্কবাণী বন্ধ করো">
 <!ENTITY safeb.palm.notforgery.label2 "এটি ওয়েব জালিয়াতি নয়…">
-<!ENTITY safeb.palm.report.label "এই সাইট কেন প্রতিরোধ করা হয়েছে?">
+<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
 
-<!ENTITY safeb.blocked.malware.title "রিপোর্টকৃত আক্রমণকারী সাইট!">
+<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "<span id='malware_sitename'/> এর সাইটটি একটি আক্রমণকারী সাইট হিসেবে চিহ্নিত এবং আপনার নিরাপত্তা বৈশিষ্ট্য অনুযায়ী এটি প্রতিরোধ করা হয়েছে।">
-<!ENTITY safeb.blocked.malware.longDesc "<p>আক্রমণকারী সাইট আপনার সিস্টেমে এমন প্রোগ্রাম ইনস্টল করার চেষ্টা করে যা ব্যক্তিগত তথ্য চুরি করে, বা এই কম্পিউটার থেকে অন্যদের উপর আক্রমণ চালায় বা সিস্টেমের অন্যান্য ক্ষতি সাধন করে।</p><p>কিছু আক্রমণকারী সাইট ইচ্ছাকৃত ভাবে বিপজ্জনক সফটওয়্যার বিতরণ করে, কিন্তু অধিকাংশ ক্ষেত্রেই এই সম্পর্কে তাদের মালিকগন অবগত নন।</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "রিপোর্টকৃত ওয়েব প্রতারণা!">
+<!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "<span id='phishing_sitename'/> সাইটটি একটি জাল সাইট হিসেবে চিহ্নিত এবং আপনার নিরাপত্তা বৈশিষ্ট্য অনুযায়ী এটি প্রতিরোধ করা হয়েছে।">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>জাল ওয়েবসাইটগুলো, পরিচিত ও বিশ্বাসযোগ্য সাইট নকল করে আপনার কাছ থেকে  ব্যক্তিগত ও অর্থ সংক্রান্ত তথ্য বের করে নেয়।</p><p>এই পৃষ্ঠায় ব্যক্তিগত তথ্য দিয়ে থাকলে আপনি পরিচয় প্রতারণা বা অন্যান্য প্রতারণার শিকার হতে পারেন।</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">

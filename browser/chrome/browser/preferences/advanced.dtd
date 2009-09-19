@@ -54,8 +54,8 @@
 <!ENTITY autoCheck.label "নিম্নলিখিত আইটেমগুলোর জন্য স্বয়ংক্রিয়ভাবে আপডেট পরীক্ষা করা হবে:">
 <!ENTITY enableAppUpdate.label "&brandShortName; (F)">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "ইনস্টলকৃত অ্যাড-অন (N)">
-<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableAddonsUpdate2.label "Add-ons">
+<!ENTITY enableAddonsUpdate2.accesskey "n">
 <!ENTITY enableSearchUpdate.label "অনুসন্ধান ইনজিন (H)">
 <!ENTITY enableSearchUpdate.accesskey "h">
 <!ENTITY whenUpdatesFound.label "&brandShortName;-এর আপডেট পাওয়া গেলে:">

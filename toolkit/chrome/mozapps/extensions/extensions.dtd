@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "F">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "অ্যাড-অনের আপডেট অনুসন্ধান করা হবে">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "থীমের আপডেট অনুসন্ধান করা হবে">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Finds Updates to your Plugins">
 <!ENTITY cmd.installLocalFile.label "ইনস্টল... (n)">
 <!ENTITY cmd.installLocalFile.accesskey "n">
 <!ENTITY cmd.installFileAddon.tooltip "অ্যাড-অন ইনস্টল">
 <!ENTITY cmd.installFileTheme.tooltip "থীম ইনস্টল">
-<!ENTITY cmd.installUpdatesAll.label "আপডেট ইনস্টল (I)">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "নির্বাচিত আপডেটসমূহ ইনস্টল করা হবে">
+<!ENTITY cmd.installUpdatesAll2.label "Install Updates">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Install the selected updates">
 <!ENTITY cmd.restartApp2.label "&brandShortName; পুনরায় চালু করা হবে (R)">
 <!ENTITY cmd.restartApp2.accesskey "R">
 <!ENTITY cmd.restartApp2.tooltip "পরিবর্তন কার্যকর করতে &brandShortName; পুনরায় আরম্ভ করা হবে">
@@ -54,7 +55,7 @@
 <!ENTITY cmd.options.accesskey "O">
 <!ENTITY cmd.options.tooltip "নির্বাচিত এক্সটেনশনের জন্য অপশন নির্ধারণ করুন">
 <!ENTITY cmd.optionsUnix.label "পছন্দসমূহ (r)">
-<!ENTITY cmd.optionsUnix.accesskey "r">
+<!ENTITY cmd.optionsUnix.accesskey "R">
 <!ENTITY cmd.optionsUnix.tooltip "নির্বাচিত এক্সটেনশনের জন্য পছন্দসমূহ সম্পাদনা করুন">
 <!ENTITY cmd.enable.label "সক্রিয় (E)">
 <!ENTITY cmd.enable.accesskey "E">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label "অতিরিক্ত আইটেম আবশ্যক।">
 <!ENTITY blocklisted.label "আপনার নিরাপত্তার জন্য নিষ্ক্রিয় করা হয়েছে।">
 <!ENTITY softBlocklisted.label "স্থায়ীত্ব বা নিরাপত্তার সমস্যা করার সম্ভবনা আছে।">
+<!ENTITY outdated.label "A newer, safer version is available.">
 <!ENTITY toBeDisabled.label "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন নিষ্ক্রিয় করা হবে।">
 <!ENTITY toBeEnabled.label "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন সক্রিয় করা হবে।">
 <!ENTITY toBeInstalled.label "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন ইনস্টল করা হবে।">
