@@ -31,10 +31,3 @@
 
 <!ENTITY  savedPasswords.label           "Mots de passe enregistrés…">
 <!ENTITY  savedPasswords.accesskey       "o">
-
-<!ENTITY  warnings.label                "Messages d'avertissement">
-
-<!ENTITY  chooseWarnings.label          "Choisir les messages d'avertissement qui seront affichés lors de la navigation">
-
-<!ENTITY  warningSettings.label         "Paramètres…">
-<!ENTITY  warningSettings.accesskey     "r">
