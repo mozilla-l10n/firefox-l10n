@@ -39,7 +39,7 @@
 <!ENTITY setPassword.tokenName.label "Dispositivo di sicurezza">
 <!ENTITY setPassword.oldPassword.label "Password attuale:">
 <!ENTITY setPassword.newPassword.label "Nuova password:">
-<!ENTITY setPassword.reenterPassword.label "Nuova password (ancora):">
+<!ENTITY setPassword.reenterPassword.label "Nuova password (conferma):">
 <!ENTITY setPassword.meter.label "Indicatore qualità password">
 <!ENTITY setPassword.meter.loading "Caricamento">
 <!ENTITY resetPasswordButtonLabel "Rimuovi">
@@ -79,7 +79,7 @@
 <!ENTITY pkcs12.setpassword.title "Scegliere una password per la copia di backup del certificato">
 <!ENTITY pkcs12.setpassword.message "La password della copia di backup del certificato serve a proteggere l'archivio che ci si accinge a creare. Per procedere con la creazione dell'archivio è necessario impostare una password.">
 <!ENTITY pkcs12.setpassword.label1 "Password copia di backup del certificato:">
-<!ENTITY pkcs12.setpassword.label2 "Password copia di backup del certificato (ancora):">
+<!ENTITY pkcs12.setpassword.label2 "Password copia di backup del certificato (conferma):">
 <!ENTITY pkcs12.setpassword.reminder "Importante: se si dovesse scordare la password della copia di backup, non sarà possibile recuperare successivamente il contenuto. Si consiglia di conservare la password in un luogo sicuro.">
 <!ENTITY pkcs12.getpassword.title "Inserimento password">
 <!ENTITY pkcs12.getpassword.message "Inserire la password utilizzata per la copia di backup di questo certificato.">

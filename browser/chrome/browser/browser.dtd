@@ -40,7 +40,7 @@
 <!ENTITY fullScreenCmd.accesskey "u">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Visualizza tutte le schede">
-<!ENTITY showAllTabsCmd.accesskey "V">
+<!ENTITY showAllTabsCmd.accesskey "h">
 <!ENTITY fullScreenMinimize.tooltip "Riduci a icona">
 <!ENTITY fullScreenRestore.tooltip "Ripristina">
 <!ENTITY fullScreenClose.tooltip "Chiudi">
@@ -84,8 +84,8 @@
 <!ENTITY bookmarksItem.title "Segnalibri">
 <!ENTITY homeButton.label "Pagina iniziale">
 <!ENTITY bookmarksButton.label "Segnalibri">
-<!ENTITY bookmarksButton.tooltip "Mostra i segnalibri">
-<!ENTITY bookmarksButton.accesskey "A">
+<!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
+<!ENTITY bookmarksButton.accesskey "a">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
