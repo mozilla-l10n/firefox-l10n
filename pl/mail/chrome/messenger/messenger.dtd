@@ -678,26 +678,26 @@
 <!ENTITY more.label "szczegóły">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label      "Dodaj adres do książki adresowej">
-<!ENTITY AddToAddressBook.accesskey  "k">
+<!ENTITY AddToAddressBook.label             "Dodaj adres do książki adresowej">
+<!ENTITY AddToAddressBook.accesskey         "k">
 <!ENTITY AddDirectlyToAddressBook.label     "Dodaj do książki adresowej">
 <!ENTITY AddDirectlyToAddressBook.accesskey "D">
-<!ENTITY EditContact.label           "Edytuj kontakt…">
-<!ENTITY EditContact.accesskey       "E">
-<!ENTITY ViewContact.label           "Wyświetl kontakt">
-<!ENTITY ViewContact.accesskey       "W">
-<!ENTITY SubscribeToNewsgroup.label     "Subskrybuj grupę">
-<!ENTITY SubscribeToNewsgroup.accesskey "S">
-<!ENTITY SendMessageTo.label         "Wyślij wiadomość do">
-<!ENTITY SendMessageTo.accesskey     "W">
-<!ENTITY CopyEmailAddress.label      "Kopiuj adres e-mail">
-<!ENTITY CopyEmailAddress.accesskey  "K">
-<!ENTITY CopyNewsgroupName.label     "Kopiuj nazwę grupy dyskusyjnej">
-<!ENTITY CopyNewsgroupName.accesskey "n">
-<!ENTITY CreateFilterFrom.label      "Utwórz filtr na podstawie…">
-<!ENTITY CreateFilterFrom.accesskey  "f">
-<!ENTITY reportPhishingURL.label     "Zgłoś oszustwo pocztowe" >
-<!ENTITY reportPhishingURL.accesskey "g">
+<!ENTITY EditContact.label                  "Edytuj kontakt…">
+<!ENTITY EditContact.accesskey              "E">
+<!ENTITY ViewContact.label                  "Wyświetl kontakt">
+<!ENTITY ViewContact.accesskey              "W">
+<!ENTITY SubscribeToNewsgroup.label         "Subskrybuj grupę">
+<!ENTITY SubscribeToNewsgroup.accesskey     "S">
+<!ENTITY SendMessageTo.label                "Wyślij wiadomość do">
+<!ENTITY SendMessageTo.accesskey            "W">
+<!ENTITY CopyEmailAddress.label             "Kopiuj adres e-mail">
+<!ENTITY CopyEmailAddress.accesskey         "K">
+<!ENTITY CopyNewsgroupName.label            "Kopiuj nazwę grupy dyskusyjnej">
+<!ENTITY CopyNewsgroupName.accesskey        "n">
+<!ENTITY CreateFilterFrom.label             "Utwórz filtr na podstawie…">
+<!ENTITY CreateFilterFrom.accesskey         "f">
+<!ENTITY reportPhishingURL.label            "Zgłoś oszustwo pocztowe" >
+<!ENTITY reportPhishingURL.accesskey        "g">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label      "Zapisz element docelowy jako…">
