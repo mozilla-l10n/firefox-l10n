@@ -48,11 +48,6 @@
 <!ENTITY addonCancel.label "Отмена">
 <!ENTITY addonShowPage.label "Перейти к странице">
 <!ENTITY downloadsHeader.label "Загрузки">
-<!ENTITY downloadsSortDate.label "Дата">
-<!ENTITY downloadsSortSite.label "Сайт">
-<!ENTITY downloadsSortName.label "Имя">
-<!ENTITY downloadsSearch.label "Поиск">
-<!ENTITY downloadsSearch2.emptytext "Поиск">
 <!ENTITY downloadShowPage.label "Перейти к странице">
 <!ENTITY downloadShow2.label "Найти">
 <!ENTITY downloadOpen2.label "Открыть">
@@ -60,6 +55,7 @@
 <!ENTITY downloadPause.label "Приостановить">
 <!ENTITY downloadResume.label "Возобновить">
 <!ENTITY downloadRetry.label "Повторить">
+<!ENTITY downloadRemove.label "Удалить">
 <!ENTITY noResults.label "Нет результатов">
 <!ENTITY allBookmarks.label "Показать все закладки">
 <!ENTITY searchEngine.addSearch "Добавить поиск в:">

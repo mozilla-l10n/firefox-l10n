@@ -621,10 +621,14 @@
 <!ENTITY EditContact.accesskey "м">
 <!ENTITY ViewContact.label "Просмотр контакта">
 <!ENTITY ViewContact.accesskey "с">
-<!ENTITY SendMailTo.label "Составить письмо для">
-<!ENTITY SendMailTo.accesskey "а">
+<!ENTITY SubscribeToNewsgroup.label "Подписаться на группу новостей">
+<!ENTITY SubscribeToNewsgroup.accesskey "и">
+<!ENTITY SendMessageTo.label "Составить сообщение для">
+<!ENTITY SendMessageTo.accesskey "с">
 <!ENTITY CopyEmailAddress.label "Копировать адрес электронной почты">
 <!ENTITY CopyEmailAddress.accesskey "К">
+<!ENTITY CopyNewsgroupName.label "Копировать имя группы новостей">
+<!ENTITY CopyNewsgroupName.accesskey "п">
 <!ENTITY CreateFilterFrom.label "Создать фильтр из…">
 <!ENTITY CreateFilterFrom.accesskey "ф">
 <!ENTITY reportPhishingURL.label "Сообщить о мошенническом письме">
