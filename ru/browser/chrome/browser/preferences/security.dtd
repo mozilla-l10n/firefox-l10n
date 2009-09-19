@@ -17,7 +17,3 @@
 <!ENTITY changeMasterPassword.accesskey "м">
 <!ENTITY savedPasswords.label "Сохранённые пароли…">
 <!ENTITY savedPasswords.accesskey "х">
-<!ENTITY warnings.label "Предупреждения безопасности">
-<!ENTITY chooseWarnings.label "Выберите предупреждения, которые вы хотите видеть при работе в Интернете">
-<!ENTITY warningSettings.label "Настроить…">
-<!ENTITY warningSettings.accesskey "а">
