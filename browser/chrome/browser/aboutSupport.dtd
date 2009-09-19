@@ -1,0 +1,31 @@
+<!ENTITY aboutSupport.pageTitle "Felsökningsinformation">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Den här sidan innehåller teknisk information som kan vara till hjälp när du 
+  försöker lösa ett problem. Vill du se svaren på några av de vanligaste frågorna
+  om &brandShortName; kan du besöka vår <a id='supportLink'>supportwebbplats</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Tillägg">
+<!ENTITY aboutSupport.extensionName "Namn">
+<!ENTITY aboutSupport.extensionEnabled "Aktiverad">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionFirstRun "Första start">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Programfakta">
+<!ENTITY aboutSupport.appBasicsName "Namn">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profilmapp">
+<!ENTITY aboutSupport.appBasicsPlugins "Installerade insticksmoduler">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Byggkonfiguration">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Modifierade inställningar">
+<!ENTITY aboutSupport.modifiedPrefsName "Namn">
+<!ENTITY aboutSupport.modifiedPrefsValue "Värde">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Installationshistorik">
+<!ENTITY aboutSupport.updateHistoryTitle "Uppdateringshistorik">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Kopiera allt till urklipp">
