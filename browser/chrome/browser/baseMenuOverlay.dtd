@@ -9,15 +9,16 @@
 <!ENTITY helpMenuWin.accesskey "Д">
 <!ENTITY aboutCmd.label "Пра &brandFullName;">
 <!ENTITY aboutCmd.accesskey "П">
-<!ENTITY helpContents.label "Змест даведкі">
-<!ENTITY helpContents.accesskey "д">
-<!ENTITY helpContentsMac.label "Даведка &brandShortName;">
+<!ENTITY productHelp.label "Даведка &brandShortName;">
+<!ENTITY productHelp.accesskey "Д">
 <!ENTITY helpForIEUsers.label "Для карыстальнікаў Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Заўвагі пра выданне">
 <!ENTITY helpReleaseNotes.accesskey "З">
+<!ENTITY helpTroubleshooting.label "Звесткі для вырашэнне праблемаў…">
+<!ENTITY helpTroubleshooting.accesskey "в">
 <!ENTITY updateCmd.label "Праверка існавання абнаўленняў…">
 <!ENTITY preferencesCmdMac.label "Перавагі…">
 <!ENTITY preferencesCmdMac.commandkey ",">

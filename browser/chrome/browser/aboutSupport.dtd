@@ -1,0 +1,24 @@
+<!ENTITY aboutSupport.pageTitle "Звесткі для вырашэнне праблемаў">
+<!ENTITY aboutSupport.pageSubtitle "
+  Гэтая старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі для вас пры 
+  вырашэнні праблемаў. Калі вы шукаеце адказы на найбольш агульныя пытанні
+  пра &brandShortName;, наведайце нашу <a id='supportLink'>пляцоўку падтрымкі</a>.
+">
+<!ENTITY aboutSupport.extensionsTitle "Пашырэнні">
+<!ENTITY aboutSupport.extensionName "Назва">
+<!ENTITY aboutSupport.extensionEnabled "Дазволена">
+<!ENTITY aboutSupport.extensionVersion "Версія">
+<!ENTITY aboutSupport.extensionFirstRun "Першы запуск">
+<!ENTITY aboutSupport.extensionId "Вызначальнік">
+<!ENTITY aboutSupport.appBasicsTitle "Аснова прыстасавання">
+<!ENTITY aboutSupport.appBasicsName "Назва">
+<!ENTITY aboutSupport.appBasicsVersion "Версія">
+<!ENTITY aboutSupport.appBasicsProfileDir "Дырэкторыя профілю">
+<!ENTITY aboutSupport.appBasicsPlugins "Усталяваныя ўбудовы">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Наладка пабудовы">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Змененыя перавагі">
+<!ENTITY aboutSupport.modifiedPrefsName "Назва">
+<!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
+<!ENTITY aboutSupport.installationHistoryTitle "Гісторыя ўсталявання">
+<!ENTITY aboutSupport.updateHistoryTitle "Гісторыя абнаўленняў">
+<!ENTITY aboutSupport.copyToClipboard.label "Скапіяваць усё ў буфер абмену">

@@ -18,9 +18,7 @@
 <!ENTITY addToDictionary.label "Дадаць у слоўнік">
 <!ENTITY bookmarksHeader.label "Закладкі">
 <!ENTITY bookmarksManage.label "Уладкаваць">
-<!ENTITY foldersHeader.label "Папкі">
 <!ENTITY editBookmarkRemove.label "Выдаліць">
-<!ENTITY editBookmarkMove.label "Рухаць">
 <!ENTITY editBookmarkDone.label "Гатова">
 <!ENTITY editBookmarkTags.label "Дадаць тэгі сюды">
 <!ENTITY helperApp.prompt "Што вы хочаце зрабіць з">
@@ -50,11 +48,6 @@
 <!ENTITY addonCancel.label "Скасаваць">
 <!ENTITY addonShowPage.label "Перайсці на старонку">
 <!ENTITY downloadsHeader.label "Загрузкі">
-<!ENTITY downloadsSortDate.label "Дата">
-<!ENTITY downloadsSortSite.label "Пляцоўка">
-<!ENTITY downloadsSortName.label "Назва">
-<!ENTITY downloadsSearch.label "Пошук">
-<!ENTITY downloadsSearch2.emptytext "Пошук">
 <!ENTITY downloadShowPage.label "Перайсці на старонку">
 <!ENTITY downloadShow2.label "Знайсці">
 <!ENTITY downloadOpen2.label "Адчыніць">
@@ -62,6 +55,7 @@
 <!ENTITY downloadPause.label "Прыпыніць">
 <!ENTITY downloadResume.label "Працягнуць">
 <!ENTITY downloadRetry.label "Паўтарыць">
+<!ENTITY downloadRemove.label "Прыняць">
 <!ENTITY noResults.label "Няма вынікаў">
 <!ENTITY allBookmarks.label "Прагледзець усе закладкі">
 <!ENTITY searchEngine.addSearch "Дадаць пошук:">
