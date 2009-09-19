@@ -4,6 +4,8 @@
 <!ENTITY autoHide.accesskey "v">
 <!ENTITY background.label "Zu neuen Tabs, die von Links geöffnet werden, umschalten">
 <!ENTITY background.accesskey "z">
+<!ENTITY warnOnClose.label "Warnung beim Schließen von Fenstern mit mehreren Tabs">
+<!ENTITY warnOnClose.accesskey "W">
 <!ENTITY loadGroup.label "Beim Öffnen einer Lesezeichengruppe">
 <!ENTITY loadGroupAppend.label "Tabs hinzufügen">
 <!ENTITY loadGroupAppend.accesskey "u">

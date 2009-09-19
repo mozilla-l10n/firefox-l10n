@@ -37,19 +37,19 @@
 #define extend_seamonkey SeaMonkey erweitern
 
 # LOCALIZATION NOTE (seamonkey_addons):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/
+# link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/
 #define seamonkey_addons SeaMonkey-Add-ons
 
 # LOCALIZATION NOTE (seamonkey_themes):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/themes
+# link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/themes
 #define seamonkey_themes SeaMonkey-Themes
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/dictionaries
+# link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/dictionaries
 #define seamonkey_dictionaries Wörterbücher für die Rechtschreibprüfung
 
 # LOCALIZATION NOTE (seamonkey_plugins):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/plugins
+# link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/plugins
 #define seamonkey_plugins Plugins für SeaMonkey
 
 # LOCALIZATION NOTE (mozdev):
