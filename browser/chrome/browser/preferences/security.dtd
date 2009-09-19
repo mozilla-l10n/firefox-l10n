@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Contraseñas guardadas…">
 <!ENTITY  savedPasswords.accesskey        "g">
-
-
-<!ENTITY  warnings.label                "Mensajes de aviso">
-
-<!ENTITY  chooseWarnings.label          "Elija qué mensajes de aviso desea ver mientras navega la web">
-
-<!ENTITY  warningSettings.label         "Configuración…">
-<!ENTITY  warningSettings.accesskey     "o">
