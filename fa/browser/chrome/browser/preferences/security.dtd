@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "گذرواژه‌های ذخیره شده…">
 <!ENTITY  savedPasswords.accesskey        "ذ">
-
-
-<!ENTITY  warnings.label                "پیام‌های هشدار">
-
-<!ENTITY  chooseWarnings.label          "انتخاب پیام‌های هشدار در هنگام مرور وب">
-
-<!ENTITY  warningSettings.label         "تنظیمات…">
-<!ENTITY  warningSettings.accesskey     "ت">
