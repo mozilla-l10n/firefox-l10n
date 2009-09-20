@@ -9,10 +9,10 @@
 <!ENTITY closeTabCmd.accesskey "Z">
 <!ENTITY newVirtualFolderCmd.label "Priečinok hľadania…">
 <!ENTITY newVirtualFolderCmd.accesskey "d">
-<!ENTITY newAccountCmd.label "Účet…">
-<!ENTITY newAccountCmd.accesskey "e">
-<!ENTITY newMailAccountCmd.label "Poštový účet (rýchle nastavenie)…">
-<!ENTITY newMailAccountCmd.accesskey "o">
+<!ENTITY newOtherAccountsCmd.label "Ďalšie účty…">
+<!ENTITY newOtherAccountsCmd.accesskey "a">
+<!ENTITY newEmailAccountCmd.label "Poštový účet…">
+<!ENTITY newEmailAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Prílohy">
@@ -130,6 +130,8 @@
 
 <!ENTITY folderView.label "Priečinky">
 <!ENTITY folderView.accesskey "e">
+<!ENTITY smartFolders.label "Inteligentné">
+<!ENTITY smartFolders.accesskey "I">
 <!ENTITY allFolders.label "Všetky">
 <!ENTITY allFolders.accesskey "V">
 <!ENTITY unreadFolders.label "Neprečítané">
@@ -566,28 +568,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Hľadať správy…">
-<!ENTITY glodaSearchBar.facet.label "Hľadať:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Všade">
-<!ENTITY glodaSearchFacet.subject.label "Predmet">
-<!ENTITY glodaSearchFacet.involves.label "Zahŕňa (od,komu,kópia,skrytá kópia)">
-<!ENTITY glodaSearchFacet.to.label "Komu, kópia">
-<!ENTITY glodaSearchFacet.from.label "Od">
-<!ENTITY glodaSearchFacet.body.label "Telo správy">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Názvy príloh">
-
-<!ENTITY glodaSearchBar.location.label "Umiestnenie:">
-<!ENTITY glodaSearchFacet.everywhere.label "Všetky priečinky">
-<!ENTITY glodaSearchFacet.folder.label "V určenom priečinku…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Predmet">
@@ -618,15 +598,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Umiestnenie">
 <!ENTITY idColumn.label "Poradie prijatia">
 <!ENTITY attachmentColumn.label "Prílohy">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Prečo">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Skóre">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Kliknutím vyberiete stĺpce">
@@ -649,8 +620,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Kliknutím usporiadate podľa umiestnenia">
 <!ENTITY idColumn.tooltip "Kliknutím usporiadate podľa poradia, v akom boli správy prijaté">
 <!ENTITY attachmentColumn.tooltip "Kliknutím zoskupíte správy s prílohou">
-<!ENTITY glodaWhyColumn.tooltip "Kliknutím usporiadate podľa dôvodu, prečo sa správa nachádza vo výsledkoch vyhľadávania">
-<!ENTITY glodaScoreColumn.tooltip "Kliknutím usporiadate podľa skóre vyhľadávania">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otvoriť správu v novom okne">
@@ -684,6 +653,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Ukážka pred tlačou">
 <!ENTITY contextPrintPreview.accesskey "U">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Prehrať">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "Pozastaviť">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Stlmiť">
+<!ENTITY contextMute.accesskey "m">
+<!ENTITY contextUnmute.label "Zrušiť stlmenie">
+<!ENTITY contextUnmute.accesskey "m">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Nevyžiadaná správa">
 <!ENTITY junkBarButton1.label "Nie je nevyžiadaná">
@@ -703,6 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchEverywhere.label "Hľadať všade">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Pridať do Adresára">
@@ -713,10 +693,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "U">
 <!ENTITY ViewContact.label "Zobraziť kontakt">
 <!ENTITY ViewContact.accesskey "Z">
-<!ENTITY SendMailTo.label "Odoslať správu">
-<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY SubscribeToNewsgroup.label "Prihlásiť sa k odberu skupiny">
+<!ENTITY SubscribeToNewsgroup.accesskey "P">
+<!ENTITY SendMessageTo.label "Odoslať správu">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Kopírovať e-mailovú adresu">
 <!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNewsgroupName.label "Kopírovať názov diskusnej skupiny">
+<!ENTITY CopyNewsgroupName.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Vytvoriť filter z…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Nahlásiť podozrivý e-mail">

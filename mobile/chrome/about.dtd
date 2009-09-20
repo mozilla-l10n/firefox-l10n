@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "O programe &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "Často kladené otázky">
+<!ENTITY aboutPage.support.label                "Podpora">
+<!ENTITY aboutPage.privacyPolicy.label          "Zásady ochrany súkromia">
+<!ENTITY aboutPage.rights.label                 "Spoznajte svoje práva">
+<!ENTITY aboutPage.relNotes.label               "Poznámky k vydaniu">
+<!ENTITY aboutPage.credits.label                "Tvorcovia">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Prispievatelia. Všetky práva vyhradené. ">
+<!ENTITY aboutPage.licenseLink                  "Informácie o licenciách">
+<!ENTITY aboutPage.copyrightInfo2               ".">

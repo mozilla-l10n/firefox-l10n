@@ -1,20 +1,11 @@
 <!ENTITY back.label            "Naspäť">
-<!ENTITY back.tooltip          "Naspäť">
 <!ENTITY forward.label         "Dopredu">
-<!ENTITY forward.tooltip       "Dopredu">
 <!ENTITY reload.label          "Obnoviť">
-<!ENTITY reload.tooltip        "Obnoviť">
 <!ENTITY stop.label            "Zastaviť">
-<!ENTITY stop.tooltip          "Zastaviť">
 <!ENTITY search.label          "Hľadať">
-<!ENTITY search.tooltip        "Hľadať">
 <!ENTITY go.label              "Prejsť">
-<!ENTITY go.tooltip            "Prejsť">
 <!ENTITY openLocation.label    "Otvoriť adresu">
-<!ENTITY openLocation.tooltip  "Otvoriť adresu">
 <!ENTITY star.label            "Hviezda">
-<!ENTITY star.tooltip          "Pridať medzi záložky">
-<!ENTITY bookmarks.tooltip     "Zobraziť záložky">
 
 <!ENTITY newtab.label          "Nová karta">
 <!ENTITY closetab.label        "Zavrieť kartu">
@@ -30,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "Záložky">
 <!ENTITY bookmarksManage.label     "Spravovať">
-<!ENTITY foldersHeader.label       "Priečinky">
 
-<!ENTITY editBookmarkEdit.label    "Upraviť">
-<!ENTITY editBookmarkMove.label    "Presunúť">
+<!ENTITY editBookmarkRemove.label  "Odstrániť">
 <!ENTITY editBookmarkDone.label    "Hotovo">
 <!ENTITY editBookmarkTags.label    "Pridajte značky">
 
@@ -52,25 +41,22 @@
 
 <!ENTITY addonsHeader.label        "Doplnky">
 <!ENTITY addonsLocal.label         "Vaše doplnky">
+<!ENTITY addonsUpdate.label        "Aktualizovať">
 <!ENTITY addonsRepo.label          "Získať doplnky">
 <!ENTITY addonsRecommended.label   "Odporúčané">
 <!ENTITY addonsSearch.label        "Hľadať">
-<!ENTITY addonsSearch.emptytext    "Hľadať doplnky">
+<!ENTITY addonsSearch2.emptytext   "Prehľadávať katalóg">
+<!ENTITY addonsSearch.recommended  "Odporúčané">
 
 <!ENTITY addonOptions.label        "Možnosti">
 <!ENTITY addonEnable.label         "Povoliť">
 <!ENTITY addonDisable.label        "Zakázať">
-<!ENTITY addonInstall.label        "Nainštalovať">
+<!ENTITY addonInstall2.label       "Pridať do &brandShortName;u">
 <!ENTITY addonUninstall.label      "Odinštalovať">
 <!ENTITY addonCancel.label         "Zrušiť">
 <!ENTITY addonShowPage.label       "Prejsť na stránku">
 
 <!ENTITY downloadsHeader.label     "Preberanie súborov">
-<!ENTITY downloadsSortDate.label   "Dátum">
-<!ENTITY downloadsSortSite.label   "Stránka">
-<!ENTITY downloadsSortName.label   "Názov">
-<!ENTITY downloadsSearch.label     "Hľadať">
-<!ENTITY downloadsSearch.emptytext "Hľadať prevzatý súbor">
 
 <!ENTITY downloadShowPage.label    "Prejsť na stránku">
 <!ENTITY downloadShow2.label       "Nájsť">
@@ -79,9 +65,12 @@
 <!ENTITY downloadPause.label       "Pozastaviť">
 <!ENTITY downloadResume.label      "Pokračovať">
 <!ENTITY downloadRetry.label       "Znova">
+<!ENTITY downloadRemove.label      "Odstrániť">
 
 <!ENTITY noResults.label           "Žiadne výsledky">
 <!ENTITY allBookmarks.label        "Zobraziť všetky záložky">
+
+<!ENTITY searchEngine.addSearch    "Pridať vyhľadávanie:">
 
 <!ENTITY bookmarkPopup.label       "Stránka pridaná medzi záložky">
 <!ENTITY bookmarkRemove.label      "Odstrániť">

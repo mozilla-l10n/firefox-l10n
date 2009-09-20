@@ -1,28 +1,31 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimalizovať okno">
-<!ENTITY bringAllToFront.label "Preniesť všetko do popredia">
-<!ENTITY zoomWindow.label "Zväčšiť okno">
-<!ENTITY windowMenu.label "Okno">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Minimalizovať okno">
+<!ENTITY bringAllToFront.label    "Preniesť všetko do popredia">
+<!ENTITY zoomWindow.label         "Zväčšiť okno">
+<!ENTITY windowMenu.label         "Okno">
 
-<!ENTITY helpMenu.label "Pomocník">
-<!ENTITY helpMenu.accesskey "P">
+<!ENTITY helpMenu.label           "Pomocník">
+<!ENTITY helpMenu.accesskey       "P">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Pomocník">
-<!ENTITY helpMenuWin.accesskey "P">
-<!ENTITY aboutCmd.label "O programe &brandFullName;">
-<!ENTITY aboutCmd.accesskey "m">
-<!ENTITY helpContents.label "Obsah Pomocníka">
-<!ENTITY helpContents.accesskey "O">
-<!ENTITY helpContentsMac.label "Pomocník programu &brandShortName;">
-<!ENTITY helpForIEUsers.label "Pre používateľov Internet Explorera">
+<!ENTITY helpMenuWin.label        "Pomocník">
+<!ENTITY helpMenuWin.accesskey    "P">
+<!ENTITY aboutCmd.label           "O programe &brandFullName;">
+<!ENTITY aboutCmd.accesskey       "m">
+<!ENTITY productHelp.label        "Pomocník prehliadača &brandShortName;">
+<!ENTITY productHelp.accesskey    "o">
+<!ENTITY helpForIEUsers.label     "Pre používateľov Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey "E">
-<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.accesskey "P">
-<!ENTITY helpReleaseNotes.label "Poznámky k vydaniu">
-<!ENTITY updateCmd.label "Kontrola aktualizácií…">
+<!ENTITY helpReleaseNotes.accesskey     "P">
+<!ENTITY helpReleaseNotes.label         "Poznámky k vydaniu">
+
+<!ENTITY helpTroubleshooting.label      "Informácie pre riešenie problémov…">
+<!ENTITY helpTroubleshooting.accesskey  "n">
+
+<!ENTITY updateCmd.label                "Kontrola aktualizácií…">
 
 <!ENTITY preferencesCmdMac.label        "Možnosti…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

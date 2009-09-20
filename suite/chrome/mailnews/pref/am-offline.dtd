@@ -32,3 +32,18 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "z">
 <!ENTITY syncGroupTitle.label "Synchronizácia správ">
 <!ENTITY diskspaceGroupTitle.label "Miesto na disku">
+
+<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+  useAutosyncAfter.label appear on a single line in preferences as follows:
+
+  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+-->
+<!ENTITY useAutosyncBefore.label         "Na disku uchovávať správy staré maximálne:">
+<!ENTITY useAutosyncMiddle.label         "">
+<!ENTITY allInterval.label               "všetky správy">
+<!ENTITY dayInterval.label               "dní">
+<!ENTITY weekInterval.label              "týždňov">
+<!ENTITY monthInterval.label             "mesiacov">
+<!ENTITY yearInterval.label              "rokov">
+<!ENTITY useAutosyncAfter.label          "">

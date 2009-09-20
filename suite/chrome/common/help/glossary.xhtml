@@ -38,6 +38,9 @@
 <dt id="server_authentication">Autorizácia servera</dt>
   <dd>Proces identifikácie <a href="#server">servera</a> <a href="#client">klientom</a> použitím <a href="#server_ssl_certificate">SSL certifikátu klienta</a>. Ďalšie informácie nájdete pri termínoch <a href="#client_authentication">Autorizácia klienta</a>, <a href="#ssl">SSL (Secure Sockets Layer)</a>.</dd>
 
+<dt id="secure_authentication">Bezpečné overenie</dt>
+  <dd>Typ <a href="#authentication">autorizácie</a>, ktorý používa <a href="#secure_connection">zabezpečené pripojenie</a>, takže komunikácia medzi klientom a serverom je šifrovaná.</dd>
+
 <dt id="security_device">Bezpečnostné zariadenie</dt>
   <dd>Hardvér alebo softvér, ktorý zabezpečuje šifrovacie služby ako zašifrovanie a dešifrovanie a môže uchovávať certifikáty a kľúče. <a href="#smart_card">Smart karta</a> je príkladom bezpečnostného zariadenia implementovaného v hardvéri. <a href="#certificate_manager">Správca certifikátov</a> obsahuje vlastné zabudované bezpečnostné zariadenie, ktoré sa volá <a href="#software_security_device">Softvérové bezpečnostné zariadenie</a> a funguje, keď je spustený prehliadač. Každé bezpečnostné zariadenie je chránené vlastným <a href="#master_password">Hlavným heslom</a>.</dd>
 
@@ -370,6 +373,9 @@
 
 <dt id="xul">XUL (XML User Interface Language)</dt>
   <dd> XML je štandardný jazyk, ktorý slúži na vytváranie používateľského rozhrania v aplikáciách.</dd>
+
+<dt id="secure_connection">Zabezpečené pripojenie</dt>
+  <dd>Spojenie medzi klientom a serverom, ktoré používa nejaký typ šifrovania (zvyčajne <a href="#ssl">SSL</a>) na zabezpečenie pred prečítaním údajov treťou stranou. Server väčšinou poskytuje na svoju identifikáciu certifikát.</dd>
 
 <dt id="encryption">Zašifrovanie</dt>
   <dd>Proces zmeny informácie spôsobom, ktorý skryje jej význam. Napríklad, zašifrované spojenia medzi počítačmi zásadne znižujú možnosť úspešného odpočúvania alebo <em>dešifrovania</em> vymieňaných informácií treťou osobou. Zašifrované informácie môžu byť dešifrované len vlastníkom príslušného kľúča. Pozrite aj <a href="#public-key_cryptography">Šifrovanie verejným kľúčom</a>.</dd>

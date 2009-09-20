@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label                 "Automaticky kontrolovať aktualizácie pre:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Nainštalované doplnky">
-<!ENTITY enableAddonsUpdate.accesskey    "N">
+<!ENTITY enableAddonsUpdate2.label       "Doplnky">
+<!ENTITY enableAddonsUpdate2.accesskey   "D">
 <!ENTITY enableSearchUpdate.label        "Vyhľadávacie moduly">
 <!ENTITY enableSearchUpdate.accesskey    "V">
 <!ENTITY whenUpdatesFound.label          "Ak sú dostupné aktualizácie pre &brandShortName;:">

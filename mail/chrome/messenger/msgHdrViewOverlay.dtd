@@ -66,10 +66,16 @@
 <!ENTITY trashButton.tooltiptext "odstrániť">
 
 <!ENTITY otherActionsButton.label "ďalšie akcie">
+<!ENTITY otherActionsOpenInNewWindow.label "otvoriť v novom okne">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "o">
+<!ENTITY otherActionsOpenInNewTab.label "otvoriť na novej karte">
+<!ENTITY otherActionsOpenInNewTab.accesskey "k">
 <!ENTITY saveAsMenuItem.label "uložiť ako…">
 <!ENTITY saveAsMenuItem.accesskey "u">
-<!ENTITY viewSourceMenuItem.label "zobraziť zdrojový kód…">
+<!ENTITY viewSourceMenuItem.label "zobraziť zdrojový kód">
 <!ENTITY viewSourceMenuItem.accesskey "z">
+<!ENTITY otherActionsPrint.label "tlačiť…">
+<!ENTITY otherActionsPrint.accesskey "t">
 
 <!ENTITY openAttachmentCmd.label "Otvoriť">
 <!ENTITY openAttachmentCmd.accesskey "O">

@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Na celú obrazovku">
 <!ENTITY fullScreenCmd.accesskey "c">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Zobraziť všetky karty">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
@@ -314,8 +315,6 @@
 <!ENTITY copyAudioURLCmd.label        "Kopírovať adresu zvuku">
 <!ENTITY copyAudioURLCmd.accesskey    "e">
 <!ENTITY blockImageCmd.accesskey      "z">
-<!ENTITY metadataCmd.label            "Vlastnosti">
-<!ENTITY metadataCmd.accesskey        "l">
 <!ENTITY copyEmailCmd.label           "Kopírovať e-mailovú adresu">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label          "Tento rámec">
