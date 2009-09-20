@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label           "Sparade lösenord…">
 <!ENTITY  savedPasswords.accesskey       "ö">
-
-
-<!ENTITY  warnings.label                "Varningsmeddelanden">
-
-<!ENTITY  chooseWarnings.label          "Välj vilka varningar som ska visas under webbläsning">
-
-<!ENTITY  warningSettings.label         "Inställningar…">
-<!ENTITY  warningSettings.accesskey     "ä">
