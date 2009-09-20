@@ -9,8 +9,8 @@
 <!ENTITY typefaces.label "Typeface">
 <!ENTITY sizes.label "Boyut (piksel)">
 
-<!ENTITY proportional.label "Proportional:">
-<!ENTITY proportional.accesskey "P">
+<!ENTITY proportional.label "Orantılı:">
+<!ENTITY proportional.accesskey "O">
 
 <!ENTITY serif.label "Serif:">
 <!ENTITY serif.accesskey "S">

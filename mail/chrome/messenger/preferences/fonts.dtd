@@ -1,17 +1,17 @@
 <!ENTITY fontsAndEncodingsDialog.title "Yazıtipleri ve karakter kodlaması">
 <!ENTITY window.width "43em">
 <!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "43em">
+<!ENTITY window.unixWidth "41em">
 
 <!ENTITY language.label "Yazıtipleri:">
 <!ENTITY language.accesskey "t">
 
 <!ENTITY size.label "Boyut:">
-<!ENTITY proportionalSize.accesskey "e">
-<!ENTITY sizeMono.accesskey "i">
+<!ENTITY proportionalSize.accesskey "o">
+<!ENTITY sizeMono.accesskey "u">
 
-<!ENTITY proportional.label "Yazıtipi oranı:">
-<!ENTITY proportional.accesskey "o">
+<!ENTITY proportional.label "Orantılı:">
+<!ENTITY proportional.accesskey "O">
 
 <!ENTITY serif.label "Serif:">
 <!ENTITY serif.accesskey "S">
