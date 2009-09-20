@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "Adreces d'interès">
 <!ENTITY bookmarksManage.label     "Gestiona">
-<!ENTITY foldersHeader.label       "Carpetes">
 
-<!ENTITY editBookmarkEdit.label    "Edita">
-<!ENTITY editBookmarkMove.label    "Mou">
+<!ENTITY editBookmarkRemove.label  "Suprimeix">
 <!ENTITY editBookmarkTags.label    "Etiquetes:">
 <!ENTITY editBookmarkDone.label    "Fet">
 
@@ -43,6 +41,7 @@
 
 <!ENTITY addonsHeader.label        "Complements">
 <!ENTITY addonsLocal.label         "Els vostres complements">
+<!ENTITY addonsUpdate.label        "Actualitza">
 <!ENTITY addonsRepo.label          "Aconsegueix complements">
 <!ENTITY addonsRecommended.label   "Vegeu els recomanats">
 <!ENTITY addonsSearch.label        "Cerca">
@@ -58,11 +57,6 @@
 <!ENTITY addonShowPage.label       "Vés a la pàgina">
 
 <!ENTITY downloadsHeader.label     "Baixades">
-<!ENTITY downloadsSortDate.label   "Per data">
-<!ENTITY downloadsSortSite.label   "Per lloc">
-<!ENTITY downloadsSortName.label   "Per nom">
-<!ENTITY downloadsSearch.label     "Cerca">
-<!ENTITY downloadsSearch2.emptytext "Cerca">
 
 <!ENTITY downloadShowPage.label    "Vés a la pàgina">
 <!ENTITY downloadShow2.label       "Cerca">
@@ -71,6 +65,7 @@
 <!ENTITY downloadPause.label       "Posa en pausa">
 <!ENTITY downloadResume.label      "Reprèn">
 <!ENTITY downloadRetry.label       "Reintenta">
+<!ENTITY downloadRemove.label      "Suprimeix">
 
 <!ENTITY noResults.label           "Cap resultat">
 
