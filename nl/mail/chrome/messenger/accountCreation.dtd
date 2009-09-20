@@ -70,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Waarschuwing! Dit is een onveilige server.">
 <!ENTITY insecureServer.tooltip.details  "Klik op de cirkel voor meer details.">
 
-<!ENTITY insecureCleartext.description   "E-mail wordt verzonden als tekst, dus uw e-mail kan gelezen worden door andere mensen op het internet. &brandShortName; staat toe dat u uw e-mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een beveiligde verbinding.">
+<!ENTITY insecureUnencrypted.description "Uw e-mail en authenticatie zijn niet versleuteld verzonden, dus uw wachtwoord (en uw bericht) kan gemakkelijk gelezen worden bij andere mensen. &brandShortName; staat toe dat u uw e-mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een beveiligde verbinding.">
 <!ENTITY insecureSelfSigned.description  "De server gebruikt een certificaat die we niet kunnen vertrouwen, dus we weten niet zeker of niemand het verkeer tussen &brandShortName; en uw server onderschept. &brandShortName; staat toe dat u uw mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een vertrouwde certificaat.">
 <!ENTITY secureServer.description        "Gefeliciteerd! Dit is een beveiligde server.">
