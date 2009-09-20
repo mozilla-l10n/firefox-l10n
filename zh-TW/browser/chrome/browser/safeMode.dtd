@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "重設工具列與控制元件">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "重設書籤為 &brandShortName; 預設值">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "刪除備份以外的所有書籤">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "重設所有設定為 &brandShortName; 預設值">
 <!ENTITY resetUserPrefs.accesskey     "p">

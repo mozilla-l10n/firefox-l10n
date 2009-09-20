@@ -10,30 +10,12 @@
 <!ENTITY  locbar.bookmarks.label        "書籤">
 <!ENTITY  locbar.nothing.label          "不使用">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "保留我的瀏覽記錄最少">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "天">
-
-<!ENTITY  rememberForms.label           "儲存我在表單與搜尋列輸入的內容">
-<!ENTITY  rememberForms.accesskey       "f">
-
-<!ENTITY  rememberDownloads.label       "保留我的下載記錄">
-<!ENTITY  rememberDownloads.accesskey   "d">
-
-
-<!ENTITY  cookies.label                 "Cookie">
 
 <!ENTITY  acceptCookies.label           "允許網站設定 Cookie">
-<!ENTITY  acceptCookies.accesskey       "C">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "接受來自第三方的 Cookie">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "C">
 
 <!ENTITY  keepUntil.label               "保留 Cookie 直到:">
 <!ENTITY  keepUntil.accesskey           "k">
@@ -48,14 +30,6 @@
 <!ENTITY  showCookies.label             "顯示 Cookie …">
 <!ENTITY  showCookies.accesskey         "S">
 
-
-<!ENTITY  privateData.label             "隱私資料">
-
-<!ENTITY  alwaysClear.label              "結束 &brandShortName; 時清除隱私資料">
-<!ENTITY  alwaysClear.accesskey          "w">
-
-<!ENTITY  clearDataSettings.label        "設定…">
-<!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 應該:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
@@ -83,8 +57,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "清除現存的歷史記錄">
 <!ENTITY  dontrememberActions.post.label         "。">
 
-<!ENTITY  privateBrowsingAutoStart.label "自動以私密瀏覽狀態啟動 &brandShortName;">
-<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+<!ENTITY  privateBrowsingPermanent.label "永久私密瀏覽模式">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
@@ -107,6 +81,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "設定…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY  clearDataNow.label             "立刻清除…">
-<!ENTITY  clearDataNow.accesskey         "N">
