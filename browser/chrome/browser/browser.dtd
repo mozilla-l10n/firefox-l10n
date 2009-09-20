@@ -11,7 +11,6 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegación privada)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "t">
@@ -95,6 +94,8 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Detiene la carga de la página">
 <!ENTITY goEndCap.tooltip             "Ir a la dirección en la barra de direcciones.">
+<!ENTITY feedButton.tooltip           "Suscribirse a esta página…">
+
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprime esta página">
 
@@ -109,6 +110,7 @@
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksButton.tooltip        "Muestra sus marcadores">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -447,4 +449,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Haga click para abrir la ventana de descargas">
 
-<!ENTITY ctrlTab.search.emptyText "Buscar pestañas">
+<!ENTITY allTabs.filter.emptyText "Buscar pestañas">
+
