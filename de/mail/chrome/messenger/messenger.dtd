@@ -690,10 +690,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "K">
 <!ENTITY ViewContact.label "Kontakt anzeigen">
 <!ENTITY ViewContact.accesskey "K">
-<!ENTITY SendMailTo.label "Nachricht an diese Adresse verfassen">
-<!ENTITY SendMailTo.accesskey "N">
+<!ENTITY SubscribeToNewsgroup.label "Newsgruppe abonnieren">
+<!ENTITY SubscribeToNewsgroup.accesskey "w">
+<!ENTITY SendMessageTo.label "Nachricht verfassen an">
+<!ENTITY SendMessageTo.accesskey "N">
 <!ENTITY CopyEmailAddress.label "E-Mail-Adresse kopieren">
 <!ENTITY CopyEmailAddress.accesskey "E">
+<!ENTITY CopyNewsgroupName.label "Newsgruppenname kopieren">
+<!ENTITY CopyNewsgroupName.accesskey "e">
 <!ENTITY CreateFilterFrom.label "Filter erstellen aus…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Betrugsversuch melden…">
