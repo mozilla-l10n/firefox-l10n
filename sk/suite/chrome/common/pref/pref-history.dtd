@@ -18,3 +18,9 @@
 <!ENTITY  clearLocationBar.label            "Vymazať zoznam stránok uložený v paneli s adresou">
 <!ENTITY  clearLocationBarButton.label      "Vymazať panel s adresou">
 <!ENTITY  clearLocationBarButton.accesskey  "m">
+<!ENTITY  formfillHistory.caption           "História vyhľadávania a formulárov">
+<!ENTITY  enableFormfill.label              "Povoliť históriu vyhľadávania a formulárov">
+<!ENTITY  enableFormfill.accesskey          "h">
+<!ENTITY  formfillExpire.label              "Uchovávať históriu vyhľadávania a formulárov po dobu až do">
+<!ENTITY  formfillExpire.accesskey          "c">
+<!ENTITY  formfillDays.label                "dní">

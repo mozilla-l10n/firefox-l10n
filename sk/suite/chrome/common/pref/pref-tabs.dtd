@@ -4,6 +4,8 @@
 <!ENTITY autoHide.accesskey "S">
 <!ENTITY background.label "Prepnúť na nové karty otvorené z odkazov">
 <!ENTITY background.accesskey "e">
+<!ENTITY warnOnClose.label "Upozorniť pri zatváraní viacerých kariet">
+<!ENTITY warnOnClose.accesskey "U">
 <!ENTITY loadGroup.label "Pri otváraní skupiny záložiek">
 <!ENTITY loadGroupAppend.label "Pridať karty">
 <!ENTITY loadGroupAppend.accesskey "d">
@@ -17,7 +19,7 @@
 <!ENTITY externalDescription.label "Odkazy z iných aplikácií otvárať">
 <!ENTITY openCurrent.label "V aktuálnej karte/okne">
 <!ENTITY newWindowGroupCurrent.accesskey "V">
-<!ENTITY externalGroupCurrent.accesskey "u">
+<!ENTITY externalGroupCurrent.accesskey "k">
 <!ENTITY openTab.label "Na novej karte v aktuálnom okne">
 <!ENTITY newWindowGroupTab.accesskey "a">
 <!ENTITY externalGroupTab.accesskey "r">

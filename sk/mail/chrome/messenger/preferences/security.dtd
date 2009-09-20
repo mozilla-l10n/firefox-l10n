@@ -1,7 +1,8 @@
-<!ENTITY itemJunk.label                        "Nevyžiadaná pošta">
-<!ENTITY itemPhishing.label                    "Podvodné správy">
-<!ENTITY itemPasswords.label                   "Heslá">
-<!ENTITY itemAntiVirus.label                   "Antivírus">
+<!ENTITY itemJunk.label          "Nevyžiadaná pošta">
+<!ENTITY itemPhishing.label      "Podvodné správy">
+<!ENTITY itemPasswords.label     "Heslá">
+<!ENTITY itemAntiVirus.label     "Antivírus">
+<!ENTITY itemCookies.label       "Webový obsah">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro                        "Ak chcete zmeniť špecifické nastavenia nevyžiadanej pošty svojho účtu, prejdite do jeho nastavenia.">
@@ -41,3 +42,17 @@
 <!ENTITY antiVirus.intro                       "&brandShortName; môže antivírusovým programom umožniť analýzu správ prichádzajúcej pošty na výskyt vírusov ešte skôr, ako budú uložené do priečinkov pošty.">
 <!ENTITY antiVirus.label                       "Povoliť antivírusovým klientom prehliadať jednotlivé doručené správy">
 <!ENTITY antiVirus.accesskey                   "P">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; umožňuje určiť, ktoré blogy, informačné kanály a ďalšie webové stránky môžu ukladať súbory cookies.">
+<!ENTITY acceptCookies.label            "Povoliť cookies tretích strán">
+<!ENTITY acceptCookies.accesskey        "P">
+<!ENTITY keepUntil.label                "Cookies uchovávať do:">
+<!ENTITY keepUntil.accesskey            "C">
+<!ENTITY expire.label                   "vypršania platnosti">
+<!ENTITY close.label                    "ukončenia &brandShortName;u">
+<!ENTITY askEachTime.label              "vždy sa opýtať">
+<!ENTITY cookieExceptions.label         "Výnimky…">
+<!ENTITY cookieExceptions.accesskey     "V">
+<!ENTITY showCookies.label              "Zobraziť cookies…">
+<!ENTITY showCookies.accesskey          "Z">

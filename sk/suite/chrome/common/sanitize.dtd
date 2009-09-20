@@ -3,6 +3,8 @@
 
 <!ENTITY itemHistory.label               "História">
 <!ENTITY itemHistory.accesskey           "H">
+<!ENTITY itemUrlBar.label                "História navštívených stránok">
+<!ENTITY itemUrlBar.accesskey            "n">
 <!ENTITY itemDownloads.label             "História preberania súborov">
 <!ENTITY itemDownloads.accesskey         "s">
 <!ENTITY itemFormSearchHistory.label     "Uložené formuláre a história hľadania">

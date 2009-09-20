@@ -37,19 +37,19 @@
 #define extend_seamonkey Prispôsobenie SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_addons):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/
+# link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/
 #define seamonkey_addons Doplnky pre SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_themes):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/themes
+# link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/themes
 #define seamonkey_themes Témy pre SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/dictionaries
+# link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/dictionaries
 #define seamonkey_dictionaries Slovníky na kontrolu pravopisu
 
 # LOCALIZATION NOTE (seamonkey_plugins):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/plugins
+# link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/plugins
 #define seamonkey_plugins Zásuvné moduly pre SeaMonkey
 
 # LOCALIZATION NOTE (mozdev):

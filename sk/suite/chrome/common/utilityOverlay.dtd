@@ -9,7 +9,7 @@
 <!ENTITY newMenu.label "Nový objekt">
 <!ENTITY newMenu.accesskey "b">
 <!ENTITY newBlankPageCmd.label "Prázdna stránka">
-<!ENTITY newBlankPageCmd.accesskey "P" >
+<!ENTITY newBlankPageCmd.accesskey "r" >
 <!ENTITY newBlankPageCmd.key "n" >
 <!ENTITY newPageFromTemplateCmd.label "Stránka s použitím šablóny">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">

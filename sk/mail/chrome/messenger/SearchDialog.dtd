@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "s">
 <!ENTITY searchSubfolders.label      "Hľadať v podpriečinkoch">
 <!ENTITY searchSubfolders.accesskey  "d">
+<!ENTITY searchOnServer.label        "Hľadať na serveri">
+<!ENTITY searchOnServer.accesskey    "a">
 <!ENTITY resetButton.label           "Obnoviť">
 <!ENTITY resetButton.accesskey       "b">
 <!ENTITY openButton.label            "Otvoriť">
@@ -23,7 +25,7 @@
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Hľadať v adresári:">
-<!ENTITY abSearchHeading.accesskey   "a">
+<!ENTITY abSearchHeading.accesskey   "s">
 <!ENTITY propertiesButton.label      "Vlastnosti">
 <!ENTITY propertiesButton.accesskey  "V">
 <!ENTITY composeButton.label         "Nová správa">

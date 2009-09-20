@@ -62,7 +62,7 @@
 <!ENTITY PhoneticField1.label           "Výslovnosť:">
 <!ENTITY PhoneticField2.label           "Výslovnosť:">
 <!ENTITY DisplayName.label              "Zobrazované meno:">
-<!ENTITY DisplayName.accesskey          "a">
+<!ENTITY DisplayName.accesskey          "n">
 <!ENTITY NickName.label                 "Prezývka:">
 <!ENTITY NickName.accesskey             "v">
 
@@ -79,7 +79,7 @@
 <!ENTITY ScreenName.accesskey           "I">
 
 <!ENTITY allowRemoteContent1.label      "Povoliť vzdialený obsah">
-<!ENTITY allowRemoteContent1.accesskey  "b">
+<!ENTITY allowRemoteContent1.accesskey  "h">
 <!ENTITY allowRemoteContent1.tooltip    "Do správ vo formáte HTML je možné
 vložiť obsah zo vzdialených serverov. Pri otvorení takejto správy sa
 vytvorí pripojenie k danému serveru. Týmto je možné sledovať,
@@ -91,9 +91,9 @@ načítavanie externého obsahu, ak sú vo formáte HTML.">
 <!ENTITY HomePhone.label                "Domov:">
 <!ENTITY HomePhone.accesskey            "D">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager:">
-<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY PagerNumber.accesskey          "a">
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "b">
 
@@ -123,14 +123,14 @@ načítavanie externého obsahu, ak sú vo formáte HTML.">
 
 <!ENTITY Work.tab                       "Zamestnanie">
 <!ENTITY Work.accesskey                 "Z">
-<!ENTITY JobTitle.label                 "Titul:">
-<!ENTITY JobTitle.accesskey             "u">
+<!ENTITY JobTitle.label                 "Pozícia:">
+<!ENTITY JobTitle.accesskey             "c">
 <!ENTITY Department.label               "Oddelenie:">
-<!ENTITY Department.accesskey           "d">
+<!ENTITY Department.accesskey           "e">
 <!ENTITY Company.label                  "Organizácia:">
-<!ENTITY Company.accesskey              "c">
+<!ENTITY Company.accesskey              "a">
 <!ENTITY WorkAddress.label              "Adresa:">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Mesto:">
@@ -156,3 +156,19 @@ načítavanie externého obsahu, ak sú vo formáte HTML.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Poznámky:">
 <!ENTITY Notes.accesskey                "n">
+
+<!ENTITY Photo.tab                      "Fotografia">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Zvoľte jednu z možností:">
+<!ENTITY GenericPhoto.label             "Predvolený obrázok">
+<!ENTITY GenericPhoto.accesskey         "e">
+<!ENTITY DefaultPhoto.label             "Predvolený">
+<!ENTITY PhotoFile.label                "V tomto počítači">
+<!ENTITY PhotoFile.accesskey            "V">
+<!ENTITY BrowsePhoto.label              "Prehľadávať">
+<!ENTITY BrowsePhoto.accesskey          "P">
+<!ENTITY PhotoURL.label                 "Na webe">
+<!ENTITY PhotoURL.accesskey             "N">
+<!ENTITY PhotoURL.emptytext             "Prilepte alebo zadajte webovú adresu fotografie">
+<!ENTITY UpdatePhoto.label              "Aktualizovať">
+<!ENTITY UpdatePhoto.accesskey          "A">

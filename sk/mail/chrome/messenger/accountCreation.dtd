@@ -1,18 +1,20 @@
-<!ENTITY welcome.description             "Rýchle nastavenie účtu">
-<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
-<!ENTITY name.description                "Vaše meno">
-<!ENTITY email.description               "E-mailová adresa">
-<!ENTITY password.description            "Heslo">
-
-<!ENTITY next.label                      "Ďalej &#187;">
-<!ENTITY next.accesskey                  "a">
-<!ENTITY back.label                      "&#171; Naspäť">
-<!ENTITY back.accesskey                  "N">
+<!ENTITY autoconfigWizard.title          "Nastavenie poštového účtu">
+<!ENTITY name.label                      "Vaše meno:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Meno priezvisko">
+<!ENTITY name.text                       "Vaše meno tak ako bude zobrazené ostatným">
+<!ENTITY email.label                     "E-mailová adresa:">
+<!ENTITY email.accesskey                 "d">
+<!ENTITY email.emptytext                 "email@priklad.sk">
+<!ENTITY password.label                  "Heslo:">
+<!ENTITY password.accesskey              "H">
+<!ENTITY password.emptytext              "Heslo">
+<!ENTITY password.text                   "Voliteľné, bude použité len na overenie prihlasovacieho mena">
 
 <!ENTITY accountInformation.label        "Informácie o účte">
-<!ENTITY username.label                  "používateľské meno">
-<!ENTITY receivingServer.label           "získava sa">
-<!ENTITY sendingServer.label             "odosiela sa">
+<!ENTITY username2.label                 "Používateľské meno:">
+<!ENTITY incoming.label                  "Prichádzajúce:">
+<!ENTITY outgoing.label                  "Odchádzajúce:">
 <!ENTITY noEncryption.label              "Žiadne">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -21,13 +23,16 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link which
-     will create the account and take the user to the account configuration
-     screen. -->
-<!ENTITY createAndEditSettings.label     "Vytvoriť a upraviť v editore účtov">
+<!ENTITY manualSetup.label               "Manuálne nastavenie…">
+<!ENTITY manualSetup.accesskey           "u">
 <!ENTITY cancel.label                    "Zrušiť">
+<!ENTITY cancel.accesskey                "Z">
+<!ENTITY continue.label                  "Pokračovať">
+<!ENTITY continue.accesskey              "P">
+<!ENTITY startOver.label                 "Začať">
+<!ENTITY startOver.accesskey             "a">
 <!ENTITY stop.label                      "Zastaviť">
-<!ENTITY stop.accesskey                  "Z">
+<!ENTITY stop.accesskey                  "s">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed.
@@ -43,21 +48,17 @@
 <!ENTITY warning.label                   "Upozornenie!">
 <!ENTITY incomingSettings.label          "Nastavenia pre prichádzajúcu poštu:">
 <!ENTITY outgoingSettings.label          "Nastavenia pre odchádzajúcu poštu:">
-<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
-     warning on the incoming server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmIncomingWarning.label    "Rozumiem riziku">
-<!ENTITY confirmIncomingWarning.accesskey "R">
-<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
-     warning on the outgoing server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmOutgoingWarning.label    "Rozumiem riziku">
-<!ENTITY confirmOutgoingWarning.accesskey "o">
+<!ENTITY technicaldetails.label          "Technické podrobnosti">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+      warning on the outgoing server, then the user will need to check a
+      checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Rozumiem riziku">
+<!ENTITY confirmWarning.accesskey        "R">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY createAccount.label             "Vytvoriť účet">
-<!ENTITY createAccount.accesskey         "V">
+<!ENTITY createAccount.accesskey         "r">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
@@ -70,6 +71,6 @@
 <!ENTITY insecureServer.tooltip.title    "Upozornenie! Toto je nezabezpečený server.">
 <!ENTITY insecureServer.tooltip.details  "Viac informácií získate po kliknutí na krúžok.">
 
-<!ENTITY insecureClearText.description   "E-mailové správy sú odosielané ako čistý text, takže obsah správ môže byť prečítaný útočníkmi atď. &brandShortName; vám umožní získať vaše e-mailové správy, ale mali by ste vášho poskytovateľa požiadať o zriadenie zabezpečeného pripojenia k poštovému serveru.">
+<!ENTITY insecureCleartext.description   "E-mailové správy sú odosielané ako čistý text, takže obsah správ môže byť prečítaný inými ľuďmi pripojenými k internetu. &brandShortName; vám umožní získať vaše e-mailové správy, ale mali by ste vášho poskytovateľa požiadať o zriadenie zabezpečeného pripojenia k poštovému serveru.">
 <!ENTITY insecureSelfSigned.description  "Server používa certifikát, ktorému nemôžeme dôverovať, takže nemôžeme zaručiť, že niekto nesleduje údaje posielané medzi &brandShortName;om a serverom. &brandShortName; vám umožní získať vaše e-mailové správy, ale mali by ste vášho poskytovateľa požiadať o zriadenie zabezpečeného pripojenia s platným certifikátom poštového servera.">
 <!ENTITY secureServer.description        "Gratulujeme! Toto je zabezpečený server.">

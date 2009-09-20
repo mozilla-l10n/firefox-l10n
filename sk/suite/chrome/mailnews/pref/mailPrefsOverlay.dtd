@@ -1,6 +1,4 @@
 <!-- These are added to the Advanced - Scripts & Plug-ins panel -->
-<!ENTITY enbJsCheckMailNews.label         "Pošta a diskusné skupiny">
-<!ENTITY enbJsCheckMailNews.accesskey     "o">
 <!ENTITY enbPluginCheckMailNews.label     "Pošta a diskusné skupiny">
 <!ENTITY enbPluginCheckMailNews.accesskey "d">
 
