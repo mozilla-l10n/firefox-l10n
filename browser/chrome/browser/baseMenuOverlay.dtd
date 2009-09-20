@@ -12,9 +12,8 @@
 <!ENTITY helpMenuWin.accesskey    "j">
 <!ENTITY aboutCmd.label           "Quant al &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "Q">
-<!ENTITY helpContents.label       "Continguts de l'ajuda">
-<!ENTITY helpContents.accesskey   "C">
-<!ENTITY helpContentsMac.label    "Ajuda del &brandShortName;">
+<!ENTITY productHelp.label        "Ajuda del &brandShortName;">
+<!ENTITY productHelp.accesskey    "j">
 <!ENTITY helpForIEUsers.label     "Per als usuaris de l'Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
@@ -22,6 +21,10 @@
 
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY helpReleaseNotes.label         "Notes de la versió">
+
+<!ENTITY helpTroubleshooting.label      "Informació per a la resolució d'errors…">
+<!ENTITY helpTroubleshooting.accesskey  "r">
+
 <!ENTITY updateCmd.label                "Comprova les actualitzacions…">
 
 <!ENTITY preferencesCmdMac.label        "Preferències…">
