@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(私密瀏覽)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "開新分頁">
 <!ENTITY tabCmd.accesskey "T">
@@ -34,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "離線模式">
 <!ENTITY goOfflineCmd.accesskey "W">
 
+<!ENTITY menubarCmd.label "選單列">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "瀏覽工具列">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "書籤工具列">
@@ -50,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "全螢幕">
 <!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "顯示所有分頁">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "縮到最小">
 <!ENTITY fullScreenRestore.tooltip "還原">
@@ -88,6 +91,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "停止載入此網頁">
 <!ENTITY goEndCap.tooltip             "按此瀏覽位址列中的網址">
+<!ENTITY feedButton.tooltip           "訂閱此頁面…">
 <!ENTITY printButton.label            "列印">
 <!ENTITY printButton.tooltip          "列印頁面">
 
@@ -101,13 +105,13 @@
 
 <!ENTITY bookmarksButton.label          "書籤">
 <!ENTITY bookmarksButton.tooltip        "顯示您的書籤">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "歷史">
 <!ENTITY historyButton.tooltip          "顯示最近檢視過的頁面">
@@ -198,7 +202,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "搜尋書籤及瀏覽記錄">
 <!ENTITY urlbar.bookmarkhistory.emptyText "搜尋書籤及瀏覽記錄">
 <!ENTITY urlbar.bookmark.emptyText    "搜尋書籤">
 <!ENTITY urlbar.history.emptyText     "搜尋瀏覽記錄">
@@ -232,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label            "用新視窗開啟鏈結">
 <!ENTITY openLinkCmd.accesskey        "w">
+<!ENTITY openLinkCmdInCurrent.label     "開啟鍊結">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label       "用新分頁開啟鏈結">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openFrameCmd.label           "用新視窗開啟頁框">
@@ -312,8 +317,6 @@
 <!ENTITY copyAudioURLCmd.label        "複製音訊檔案網址">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "B">
-<!ENTITY metadataCmd.label            "屬性">
-<!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "複製 Email 位址">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "本頁框">
@@ -368,6 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "剪下">
 <!ENTITY copyButton.tooltip             "複製">
 <!ENTITY pasteButton.tooltip            "貼上">
+<!ENTITY fullScreenButton.tooltip       "全螢幕顯示視窗">
 
 <!ENTITY quitApplicationCmdWin.label       "結束"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -444,4 +448,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "按一下開啟下載視窗">
 
-<!ENTITY ctrlTab.search.emptyText "搜尋分頁">
+<!ENTITY allTabs.filter.emptyText "搜尋分頁">

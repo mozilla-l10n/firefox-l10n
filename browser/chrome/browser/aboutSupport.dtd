@@ -1,0 +1,30 @@
+<!ENTITY aboutSupport.pageTitle "疑難排解資訊">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "   此頁面包含當您試圖解決某個問題時需要的技術資訊。如果您想要尋找關於 &brandShortName; 
+  常見問題的解答，您可以瀏覽我們的 <a id='supportLink'>技術支援網站</a>。
+      
+">
+
+<!ENTITY aboutSupport.extensionsTitle "擴充套件">
+<!ENTITY aboutSupport.extensionName "名稱">
+<!ENTITY aboutSupport.extensionEnabled "已啟用">
+<!ENTITY aboutSupport.extensionVersion "版本">
+<!ENTITY aboutSupport.extensionFirstRun "首次啟用">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "應用程式一般資訊">
+<!ENTITY aboutSupport.appBasicsName "名稱">
+<!ENTITY aboutSupport.appBasicsVersion "版本">
+<!ENTITY aboutSupport.appBasicsProfileDir "設定檔目錄">
+<!ENTITY aboutSupport.appBasicsPlugins "已安裝的外掛程式">
+<!ENTITY aboutSupport.appBasicsBuildConfig "編譯組態">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "修改的偏好設定">
+<!ENTITY aboutSupport.modifiedPrefsName "名稱">
+<!ENTITY aboutSupport.modifiedPrefsValue "值">
+
+<!ENTITY aboutSupport.installationHistoryTitle "安裝紀錄">
+<!ENTITY aboutSupport.updateHistoryTitle "更新記錄">
+
+<!ENTITY aboutSupport.copyToClipboard.label "全部複製到剪貼簿">

@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "已存密碼…">
 <!ENTITY  savedPasswords.accesskey        "P">
-
-
-<!ENTITY  warnings.label                "警告訊息">
-
-<!ENTITY  chooseWarnings.label          "選擇瀏覽網路時要顯示何種警告訊息">
-
-<!ENTITY  warningSettings.label         "設定…">
-<!ENTITY  warningSettings.accesskey     "S">
