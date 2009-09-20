@@ -32,8 +32,10 @@
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Trabajar desconectado">
-<!ENTITY goOfflineCmd.accesskey "T">
+<!ENTITY goOfflineCmd.accesskey "j">
 
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra de navegación">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de marcadores">
@@ -49,7 +51,12 @@
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Pantalla completa">
-<!ENTITY fullScreenCmd.accesskey "P">
+<!ENTITY fullScreenCmd.accesskey "l">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+
+<!ENTITY showAllTabsCmd.label "Mostrar todas las pestañas">
+<!ENTITY showAllTabsCmd.accesskey "a">
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -362,6 +369,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Pegar">
+<!ENTITY fullScreenButton.tooltip       "Mostrar la ventana en pantalla completa">
+
 
 <!ENTITY quitApplicationCmdWin.label       "Salir"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
