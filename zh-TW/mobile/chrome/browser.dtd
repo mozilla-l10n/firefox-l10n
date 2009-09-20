@@ -57,11 +57,6 @@
 <!ENTITY addonShowPage.label       "連到首頁">
 
 <!ENTITY downloadsHeader.label     "下載">
-<!ENTITY downloadsSortDate.label   "日期">
-<!ENTITY downloadsSortSite.label   "網站">
-<!ENTITY downloadsSortName.label   "名稱">
-<!ENTITY downloadsSearch.label     "搜尋">
-<!ENTITY downloadsSearch2.emptytext "搜尋">
 
 <!ENTITY downloadShowPage.label    "連到下載網頁">
 <!ENTITY downloadShow2.label       "尋找">
@@ -70,11 +65,12 @@
 <!ENTITY downloadPause.label       "暫停">
 <!ENTITY downloadResume.label      "繼續">
 <!ENTITY downloadRetry.label       "重試">
+<!ENTITY downloadRemove.label      "移除">
 
 <!ENTITY noResults.label           "沒有結果">
 <!ENTITY allBookmarks.label        "顯示所有書籤">
 
-<!ENTITY searchEngine.addSearch     "新增搜尋:">
+<!ENTITY searchEngine.addSearch    "新增搜尋:">
 
 <!ENTITY bookmarkPopup.label       "此頁已加入書籤">
 <!ENTITY bookmarkRemove.label      "移除">
