@@ -37,19 +37,19 @@
 #define extend_seamonkey „SeaMonkey“ individualizavimas
 
 # LOCALIZATION NOTE (seamonkey_addons):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/
+# link title for https://lt.add-ons.mozilla.com/lt/seamonkey/
 #define seamonkey_addons „SeaMonkey“ priedai
 
 # LOCALIZATION NOTE (seamonkey_themes):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/themes
+# link title for https://lt.add-ons.mozilla.com/lt/seamonkey/themes
 #define seamonkey_themes „SeaMonkey“ grafiniai apvalkalai
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/dictionaries
+# link title for https://lt.add-ons.mozilla.com/lt/seamonkey/dictionaries
 #define seamonkey_dictionaries Rašybos tikrinimo žodynai
 
 # LOCALIZATION NOTE (seamonkey_plugins):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/plugins
+# link title for https://lt.add-ons.mozilla.com/lt/seamonkey/plugins
 #define seamonkey_plugins „SeaMonkey“ papildiniai
 
 # LOCALIZATION NOTE (mozdev):
