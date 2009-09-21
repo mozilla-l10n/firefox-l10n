@@ -12,7 +12,7 @@
 <!ENTITY smtpListEdit.accesskey "e">
 <!ENTITY smtpListDelete.label "Kaldır">
 <!ENTITY smtpListDelete.accesskey "r">
-<!ENTITY smtpListSetDefault.label "Varsayılanları yükle">
+<!ENTITY smtpListSetDefault.label "Varsayılan olarak ata">
 <!ENTITY smtpListSetDefault.accesskey "V">
 
 <!ENTITY serverDescription.label "Açıklama: ">
