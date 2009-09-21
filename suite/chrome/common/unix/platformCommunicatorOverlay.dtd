@@ -1,13 +1,13 @@
 <!-- unix -->
 <!-- LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label "Close">
+<!ENTITY closeCmd.label "Kapat">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.accesskey "K">
 
-<!ENTITY quitApplicationCmd.label "Quit">
+<!ENTITY quitApplicationCmd.label "Çık">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "q">
+<!ENTITY quitApplicationCmd.accesskey "k">
 
 <!ENTITY redoCmd.label "Yinele">
 <!ENTITY redoCmd.key "Y">
@@ -19,11 +19,15 @@
 <!ENTITY accel.emacs_conflict "accel,shift">
 <!-- Help viewer -->
 
-<!ENTITY openHelpCmd.label "Help Contents">
-<!ENTITY openHelpCmd.accesskey "H">
+<!ENTITY openHelpCmd.label "Yardım içeriği">
+<!ENTITY openHelpCmd.accesskey "d">
 <!ENTITY openHelpCmd.key "VK_F1">
 <!-- Key labels, for mousewheel prefs -->
 
 <!ENTITY ctrlKey.label "Ctrl">
 <!ENTITY altKey.label "Alt">
 <!ENTITY shiftKey.label "Shift">
+<!-- Copy Image Location (regression fix for bug 469481) -->
+
+<!ENTITY copyImageURLCmd.label "Bağlantı Yolunu Kopyala">
+<!ENTITY copyImageURLCmd.accesskey "y">
