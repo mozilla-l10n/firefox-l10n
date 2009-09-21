@@ -7,6 +7,8 @@
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY closeTabCmd.label "Sekmeyi kapat">
 <!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY closeOtherTabsCmd.label "Diğer sekmeleri kapat">
+<!ENTITY closeOtherTabsCmd.accesskey "D">
 <!ENTITY newVirtualFolderCmd.label "Kayıtlı arama sonuçları…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Diğer hesaplar…">

@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label "Dosyala">
 <!ENTITY fileButton.accesskey "o">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Posta dizinini aç">
-<!ENTITY goToFolderButton.accesskey "a">
+<!ENTITY openInFolder.label "Bu dizinde aç">
+<!ENTITY openInFolder.accesskey "d">
 <!ENTITY saveAsVFButton.label "Arama dizini olarak kaydet">
 <!ENTITY saveAsVFButton.accesskey "A">
 <!-- for ABSearchDialog.xul -->
