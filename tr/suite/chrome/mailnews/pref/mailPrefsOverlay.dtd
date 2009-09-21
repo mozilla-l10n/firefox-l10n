@@ -18,4 +18,4 @@
 <!ENTITY junk.label "Gereksiz">
 <!ENTITY tags.label "Etiketler">
 <!ENTITY characterEncoding.label "Karakter Kodlaması">
-<!ENTITY offline.label "Çevrim dışı ve disk alanı">
+<!ENTITY networkStorage.label "Ağ ve depolama">
