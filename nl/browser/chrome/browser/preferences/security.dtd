@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Opgeslagen wachtwoorden…">
 <!ENTITY  savedPasswords.accesskey        "c">
-
-
-<!ENTITY  warnings.label                "Waarschuwingsberichten">
-
-<!ENTITY  chooseWarnings.label          "Kiezen welke waarschuwingsberichten u wilt zien tijdens het surfen op het internet">
-
-<!ENTITY  warningSettings.label         "Instellingen…">
-<!ENTITY  warningSettings.accesskey     "s">
