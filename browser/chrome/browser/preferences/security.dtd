@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label			"Bewarre wachtwurden">
 <!ENTITY  savedPasswords.accesskey		"B">
-
-
-<!ENTITY  warnings.label				"Warskôgingsberjochten">
-
-<!ENTITY  chooseWarnings.label			"Kies hokker warskôgingsberjochten jo sjen wolle wylst jo sneupe op it ynternet">
-
-<!ENTITY  warningSettings.label			"Ynstellings...">
-<!ENTITY  warningSettings.accesskey		"s">
