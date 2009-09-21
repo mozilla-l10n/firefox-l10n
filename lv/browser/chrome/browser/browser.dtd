@@ -25,6 +25,8 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "Importēt...">
 <!ENTITY import.accesskey "I">
+<!ENTITY openLinkCmdInCurrent.label     "Atvērt saiti">
+<!ENTITY openLinkCmdInCurrent.accesskey "A">
 
 <!ENTITY goOfflineCmd.label "Strādāt nesaistē">
 <!ENTITY goOfflineCmd.accesskey "R">

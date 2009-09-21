@@ -4,6 +4,10 @@
 <!ENTITY zoomWindow.label "Mērogs">
 <!ENTITY windowMenu.label "Logs">
 
+<!ENTITY helpTroubleshooting.label      "Problēmu risināšanas informācija…">
+<!ENTITY helpTroubleshooting.accesskey  "P">
+<!ENTITY productHelp.label        "&brandShortName; palīdzība">
+<!ENTITY productHelp.accesskey    "l">
 <!ENTITY helpMenu.label "Palīdzība">
 <!ENTITY helpMenu.accesskey "P">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
@@ -12,9 +16,6 @@
 <!ENTITY helpMenuWin.accesskey "P">
 <!ENTITY aboutCmd.label "Par &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
-<!ENTITY helpContents.label "Palīdzības satura rādītājs">
-<!ENTITY helpContents.accesskey "P">
-<!ENTITY helpContentsMac.label "&brandShortName; palīdzība">
 <!ENTITY helpForIEUsers.label "Internet Explorer lietotājiem">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">

@@ -54,8 +54,8 @@
 <!ENTITY autoCheck.label "Automātiski pārbaudīt atjauninājumus:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "Instalētajiem paplašinājumiem">
-<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableAddonsUpdate2.label "Paplašinājumiem">
+<!ENTITY enableAddonsUpdate2.accesskey "p">
 <!ENTITY enableSearchUpdate.label "Meklētājiem">
 <!ENTITY enableSearchUpdate.accesskey "l">
 <!ENTITY whenUpdatesFound.label "Kad ir pieejami &brandShortName; atjauninājumi:">

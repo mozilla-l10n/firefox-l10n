@@ -1,0 +1,31 @@
+<!ENTITY aboutSupport.pageTitle "Informācija par problēmu risināšanu">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Šajā lapā ir tehniska informācija, kas var noderēt risinot problēmas. Ja 
+  meklējat atbildes uz biežāk uzdotajiem jautājumiem par &brandShortName;, 
+  apskatiet mūsu <a id='supportLink'>atbalsta lapu</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Papildinājumu">
+<!ENTITY aboutSupport.extensionName "Nosaukums">
+<!ENTITY aboutSupport.extensionEnabled "Ieslēgts">
+<!ENTITY aboutSupport.extensionVersion "Versija">
+<!ENTITY aboutSupport.extensionFirstRun "PirmāPalaišana">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Programmas pamatdati">
+<!ENTITY aboutSupport.appBasicsName "Nosaukums">
+<!ENTITY aboutSupport.appBasicsVersion "Versija">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profilu direktorija">
+<!ENTITY aboutSupport.appBasicsPlugins "Instalētie spraudņi">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Būvējuma konfigurācija">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Mainītie iestatījumi">
+<!ENTITY aboutSupport.modifiedPrefsName "Nosaukums">
+<!ENTITY aboutSupport.modifiedPrefsValue "Vērtība">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Instalēšanas vēsture">
+<!ENTITY aboutSupport.updateHistoryTitle "Atjaunināt vēsturi">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Iekopēt visu atmiņā">
