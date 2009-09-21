@@ -32,11 +32,3 @@
 
 <!ENTITY savedPasswords.label "Saglabātās paroles...">
 <!ENTITY savedPasswords.accesskey "P">
-
-
-<!ENTITY warnings.label "Brīdinājuma ziņojumi">
-
-<!ENTITY chooseWarnings.label "Izvēlieties, kurus brīdinājuma ziņojumus jūs gribat redzēt pārlūkošanas laikā">
-
-<!ENTITY warningSettings.label "Iestatījumi...">
-<!ENTITY warningSettings.accesskey "S">
