@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
 
-<!ENTITY pref.offline.title "Çevrim dışı ve disk alanı">
+<!ENTITY pref.network.title "Ağ ve depolama">
 <!ENTITY pref.offline.caption "Çevrim dışı">
 <!ENTITY textStartUp "Başlangıçta bunları yap:">
 <!ENTITY textStartUp.accesskey "B">
@@ -9,7 +9,7 @@
 <!ENTITY menuitemAskMe "Bana çevrim içi olunup olunmayacağını sor">
 <!ENTITY menuitemAlwaysOnline "Hep çevrim içi başla">
 <!ENTITY menuitemAlwaysOffline "Hep çevrim dışı başla">
-<!ENTITY menuitemAutomatic "Detect automatically (if available)">
+<!ENTITY menuitemAutomatic "Otomatik olarak bul (mevcutsa)">
 <!ENTITY textGoingOnline "Çevrim içi olunca gönderilmeyen iletiler gönderilsin mi?">
 <!ENTITY radioAutoSend "Evet">
 <!ENTITY radioAutoSend.accesskey "E">
@@ -24,7 +24,11 @@
 <!ENTITY radioNotDownload.accesskey "H">
 <!ENTITY radioAskDownload "Bana sor">
 <!ENTITY radioAskDownload.accesskey "s">
+<!ENTITY mailConnections.caption "Posta bağlantıları">
+<!ENTITY mailnewsTimeout.label "Bağlantı zaman aşımına uğradı">
+<!ENTITY mailnewsTimeout.accesskey "z">
+<!ENTITY mailnewsTimeoutSeconds.label "saniye sonra">
 <!ENTITY Diskspace "Disk alanı">
-<!ENTITY offlineCompact.label "Compact folders when it will save over">
-<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY offlineCompact.label "Sağdakini aşıyorsa dizinleri sıkıştır">
+<!ENTITY offlineCompact.accesskey "S">
 <!ENTITY kb.label "KB">
