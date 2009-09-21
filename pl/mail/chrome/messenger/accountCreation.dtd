@@ -58,6 +58,6 @@
 <!ENTITY insecureServer.tooltip.title     "Ostrzeżenie! Ten serwer nie zapewnia wysokiego poziomu bezpieczeństwa."><!-- FIXME this is an insecure server -->
 <!ENTITY insecureServer.tooltip.details   "Kliknij, aby dowiedzieć się więcej"><!-- FIXME: Click circle for more details - wtf?! (taki pomarańczowy badziew, pojawia się między innymi? w dymku podpowiedzi)  -->
 
-<!ENTITY insecureCleartext.description    "Połączenie nie jest szyfrowane, wiadomości będą wysyłane czystym tekstem, co grozi ich przechwyceniem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien udostępnić możliwość łączenia się z serwerem w bezpieczny sposób.">
+<!ENTITY insecureUnencrypted.description  "Połączenie nie jest szyfrowane, hasła i wiadomości będą wysyłane czystym tekstem (w żaden sposób niezabezpieczone), co grozi ich przechwyceniem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien udostępnić możliwość łączenia się z serwerem w bezpieczny sposób.">
 <!ENTITY insecureSelfSigned.description   "Ten serwer używa certyfikatu, któremu nie należy ufać, istnieje możliwość przechwycenia transmisji pomiędzy programem &brandShortName; a serwerem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien zostać powiadomiony o problemie w celu jego usunięcia.">
 <!ENTITY secureServer.description         "Gratulacje! Ten serwer zapewnia wysoki poziom bezpieczeństwa.">
