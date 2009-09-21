@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title               "Desligado &amp; Espaço em Disco">
+<!ENTITY pref.network.title               "Rede &amp; Armazenamento">
 <!ENTITY pref.offline.caption             "Desligado">
 <!ENTITY textStartUp                      "Ao iniciar:">
 <!ENTITY textStartUp.accesskey            "o">
@@ -24,6 +24,10 @@
 <!ENTITY radioNotDownload.accesskey       "o">
 <!ENTITY radioAskDownload                 "Perguntar-me">
 <!ENTITY radioAskDownload.accesskey       "e">
+<!ENTITY mailConnections.caption          "Ligações de correio">
+<!ENTITY mailnewsTimeout.label            "Ligação expira em:">
+<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailnewsTimeoutSeconds.label     "segundos">
 <!ENTITY Diskspace                        "Espaço em Disco">
 <!ENTITY offlineCompact.label             "Compactar pastas quando poupar mais de">
 <!ENTITY offlineCompact.accesskey         "C">
