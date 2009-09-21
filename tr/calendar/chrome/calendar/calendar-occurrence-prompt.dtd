@@ -34,6 +34,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY buttons.occurrence.accesskey "t">
-<!ENTITY buttons.allfollowing.accesskey "f">
-<!ENTITY buttons.parent.accesskey "M">
+<!ENTITY buttons.occurrence.accesskey "b">
+<!ENTITY buttons.allfollowing.accesskey "s">
+<!ENTITY buttons.parent.accesskey "m">
