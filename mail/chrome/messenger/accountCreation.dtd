@@ -70,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Warnung! Dies ist ein unsicherer Server.">
 <!ENTITY insecureServer.tooltip.details  "Klicken Sie auf den Kreis für weitere Details.">
 
-<!ENTITY insecureCleartext.description   "E-Mails werden im Klartext übertragen. Dadurch könnten Ihre E-Mails von Dritten gelesen werden. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider dazu auffordern, eine gesicherte Serververbindung anzubieten.">
+<!ENTITY insecureUnencrypted.description "Ihre E-Mails und Passwörter werden unverschlüsselt übertragen. Beides könnte daher einfach von Dritten gelesen werden. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider kontaktieren, ob eine gesicherte Serververbindung möglich ist.">
 <!ENTITY insecureSelfSigned.description  "Der Server verwendet ein Zertifikat, dem nicht vertraut werden kann. Daher kann man nicht sicher sein, dass niemand die Datenübertragung zwichen &brandShortName; und dem Server abfängt. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider dazu auffordern die Server mit einem gültigen Zertifikat zu konfigurieren.">
 <!ENTITY secureServer.description        "Glückwunsch! Dies ist eine gesicherte Serververbindung.">
