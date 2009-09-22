@@ -39,6 +39,8 @@
 <!ENTITY newFolderCmd.accesskey "n">
 <!ENTITY closeTabCmd.label "Užverti kortelę">
 <!ENTITY closeTabCmd.accesskey "U">
+<!ENTITY closeOtherTabsCmd.label "Užverti kitas korteles">
+<!ENTITY closeOtherTabsCmd.accesskey "o">
 <!ENTITY newVirtualFolderCmd.label "Paieška įrašant radinius…">
 <!ENTITY newVirtualFolderCmd.accesskey "e">
 <!ENTITY newOtherAccountsCmd.label "Kita paskyra…">
