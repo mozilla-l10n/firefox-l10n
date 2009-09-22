@@ -50,8 +50,8 @@
 <!ENTITY fileButton.label            "Perkelti į aplanką">
 <!ENTITY fileButton.accesskey        "P">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Atverti laiško aplanką">
-<!ENTITY goToFolderButton.accesskey  "t">
+<!ENTITY openInFolder.label          "Atverti aplanke">
+<!ENTITY openInFolder.accesskey      "t">
 <!ENTITY saveAsVFButton.label      "Įrašyti kaip radinių aplanką">
 <!ENTITY saveAsVFButton.accesskey  "a">
 
