@@ -15,3 +15,6 @@
 <!ENTITY clearPrivateData.button "Temizle">
 <!ENTITY clearPrivateData.description "&brandShortName; uygulaması geçmişi kullanarak nereyi ziyaret etmek istediğinizi önerir">
 <!ENTITY rememberPasswords.title "Parolaları hatırla">
+<!ENTITY language.title "Dil">
+<!ENTITY language.description "&brandShortName; için tercih ettiğiniz dili seçin">
+<!ENTITY language.auto "Otomatik algıla">
