@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label            "Classer">
 <!ENTITY fileButton.accesskey        "l">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Aller au dossier du message">
-<!ENTITY goToFolderButton.accesskey  "l">
+<!ENTITY openInFolder.label          "Ouvrir dans le dossier">
+<!ENTITY openInFolder.accesskey      "l">
 <!ENTITY saveAsVFButton.label        "Enregistrer comme dossier virtuel">
 <!ENTITY saveAsVFButton.accesskey    "v">
 
