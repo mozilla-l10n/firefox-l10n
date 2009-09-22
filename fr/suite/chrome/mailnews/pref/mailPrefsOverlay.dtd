@@ -18,4 +18,4 @@
 <!ENTITY junk.label                       "Indésirables">
 <!ENTITY tags.label                       "Étiquettes">
 <!ENTITY characterEncoding.label          "Encodage des caractères">
-<!ENTITY offline.label                    "Hors connexion et espace disque">
+<!ENTITY networkStorage.label             "Réseau et stockage">

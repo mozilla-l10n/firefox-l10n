@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title "Réseau et stockage">
+<!ENTITY pref.network.title "Réseau et stockage">
 <!ENTITY pref.offline.caption "Hors connexion">
 <!ENTITY textStartUp "Au lancement :">
 <!ENTITY textStartUp.accesskey "c">
