@@ -6,7 +6,9 @@
 <!ENTITY newFolderCmd.label "Map…">
 <!ENTITY newFolderCmd.accesskey "M">
 <!ENTITY closeTabCmd.label "Tabblad sluiten">
-<!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY closeTabCmd.accesskey "s">
+<!ENTITY closeOtherTabsCmd.label "Overige tabbladen sluiten">
+<!ENTITY closeOtherTabsCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Opgeslagen zoekopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
 <!ENTITY newOtherAccountsCmd.label "Andere Accounts…">
