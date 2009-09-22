@@ -64,11 +64,3 @@
 
 <!ENTITY  savedPasswords.label           "Įrašyti slaptažodžiai…">
 <!ENTITY  savedPasswords.accesskey       "s">
-
-
-<!ENTITY  warnings.label                 "Įspėjimai">
-
-<!ENTITY  chooseWarnings.label           "Parinkite, kuriuos įspėjimus norėtumėte gauti naršydami žiniatinklį.">
-
-<!ENTITY  warningSettings.label          "Nuostatos…">
-<!ENTITY  warningSettings.accesskey      "N">
