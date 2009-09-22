@@ -15,3 +15,7 @@
 <!ENTITY clearPrivateData.button                   "Effacer">
 <!ENTITY clearPrivateData.description              "Votre historique aide &brandShortName; à vous suggérer où aller">
 <!ENTITY rememberPasswords.title                   "Enregistrer les mots de passe">
+
+<!ENTITY language.title "Langue">
+<!ENTITY language.description "Langue préférée pour &brandShortName;">
+<!ENTITY language.auto "Détection automatique">
