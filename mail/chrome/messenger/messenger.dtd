@@ -7,6 +7,8 @@
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY closeTabCmd.label "Fermer l'onglet">
 <!ENTITY closeTabCmd.accesskey "m">
+<!ENTITY closeOtherTabsCmd.label "Fermer les autres onglets">
+<!ENTITY closeOtherTabsCmd.accesskey "F">
 <!ENTITY newVirtualFolderCmd.label "Dossier virtuel…">
 <!ENTITY newVirtualFolderCmd.accesskey "v">
 <!ENTITY newOtherAccountsCmd.label "Autres comptes…">
