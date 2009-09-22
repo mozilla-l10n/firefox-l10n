@@ -70,7 +70,7 @@
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "İletiyi sil">
-<!ENTITY deleteMsgCmd.accesskey "i">
+<!ENTITY deleteMsgCmd.accesskey "y">
 <!ENTITY undeleteMsgCmd.label "Silinen iletiyi geri al">
 <!ENTITY undeleteMsgCmd.accesskey "i">
 <!ENTITY cancelNewsMsgCmd.label "İletiayi iptal et">
@@ -161,7 +161,7 @@
 <!ENTITY sortByStatusCmd.label "Durum">
 <!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "Etiket">
-<!ENTITY sortByTagsCmd.accesskey "E">
+<!ENTITY sortByTagsCmd.accesskey "k">
 <!ENTITY sortByJunkStatusCmd.label "Gereksiz statüsü">
 <!ENTITY sortByJunkStatusCmd.accesskey "G">
 <!ENTITY sortBySubjectCmd.label "Konu">
@@ -379,7 +379,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyHereMenu.label "Buraya kopyala">
 <!ENTITY copyHereMenu.accesskey "k">
 <!ENTITY tagMenu.label "Etiket">
-<!ENTITY tagMenu.accesskey "E">
+<!ENTITY tagMenu.accesskey "k">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -391,7 +391,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "İşaretle">
-<!ENTITY markMenu.accesskey "a">
+<!ENTITY markMenu.accesskey "ş">
 <!ENTITY markAsReadCmd.label "Okunmuş olarak">
 <!ENTITY markAsReadCmd.accesskey "n">
 <!ENTITY markAsReadCmd.key "m">
@@ -626,21 +626,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Yeni pencerede aç">
-<!ENTITY contextOpenNewWindow.accesskey "i">
+<!ENTITY contextOpenNewWindow.accesskey "c">
 <!ENTITY contextOpenNewTab.label "İletiyi yeni sekmede aç">
-<!ENTITY contextOpenNewTab.accesskey "k">
+<!ENTITY contextOpenNewTab.accesskey "ç">
 <!ENTITY contextEditAsNew.label "Yeni olarak düzenle…">
-<!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextEditAsNew.accesskey "ü">
 <!ENTITY contextReplySender.label "Sadece göndereni yanıtla">
-<!ENTITY contextReplySender.accesskey "a">
+<!ENTITY contextReplySender.accesskey "S">
 <!ENTITY contextReplyNewsgroup.label "Haber grubunu yanıtla">
 <!ENTITY contextReplyNewsgroup.accesskey "H">
 <!ENTITY contextReplyAll.label "Hepsini yanıtla">
-<!ENTITY contextReplyAll.accesskey "e">
+<!ENTITY contextReplyAll.accesskey "H">
 <!ENTITY contextReplyList.label "Listeyi yanıtla">
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "İlet">
-<!ENTITY contextForward.accesskey "l">
+<!ENTITY contextForward.accesskey "e">
 <!ENTITY contextForwardAsAttachment.label "Ek olarak ilet">
 <!ENTITY contextForwardAsAttachment.accesskey "a">
 <!ENTITY contextMoveMsgMenu.label "Taşı">
@@ -648,11 +648,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Son kullanılan">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "k">
 <!ENTITY contextCopyMsgMenu.label "Buraya kopyala">
-<!ENTITY contextCopyMsgMenu.accesskey "k">
+<!ENTITY contextCopyMsgMenu.accesskey "B">
 <!ENTITY contextSaveAs.label "Farklı kaydet…">
 <!ENTITY contextSaveAs.accesskey "F">
 <!ENTITY contextPrint.label "Yazdır…">
-<!ENTITY contextPrint.accesskey "Y">
+<!ENTITY contextPrint.accesskey "r">
 <!ENTITY contextPrintPreview.label "Yazdırma önizleme">
 <!ENTITY contextPrintPreview.accesskey "z">
 <!-- Media (video/audio) controls -->
