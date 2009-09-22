@@ -70,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n'est pas sécurisé.">
 <!ENTITY insecureServer.tooltip.details  "Cliquez sur le cercle pour plus de détails.">
 
-<!ENTITY insecureCleartext.description   "Les courriels sont envoyés en clair et peuvent donc être lus par d'autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
+<!ENTITY insecureUnencrypted.description   "Votre courriel et vos identifiants sont envoyés sans chiffrement. Par conséquent, votre mot de passe (et votre message) peuvent facilement être lus par d'autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
 <!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu'un n'intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
 <!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">
