@@ -29,5 +29,5 @@
 <!ENTITY shiftKey.label "Shift">
 <!-- Copy Image Location (regression fix for bug 469481) -->
 
-<!ENTITY copyImageURLCmd.label "Bağlantı Yolunu Kopyala">
-<!ENTITY copyImageURLCmd.accesskey "y">
+<!ENTITY copyImageURLCmd.label "Bağlantı konumunu kopyala">
+<!ENTITY copyImageURLCmd.accesskey "B">
