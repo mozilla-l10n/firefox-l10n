@@ -33,7 +33,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title               "Darbas atsijungus ir disko atmintis">
+<!ENTITY pref.network.title               "Tinklas ir disko atmintis">
 <!ENTITY pref.offline.caption             "Darbas atsijungus nuo tinklo">
 <!ENTITY textStartUp                      "Paleidžiant programą:">
 <!ENTITY textStartUp.accesskey            "P">
@@ -56,6 +56,10 @@
 <!ENTITY radioNotDownload.accesskey       "e">
 <!ENTITY radioAskDownload                 "paklausti">
 <!ENTITY radioAskDownload.accesskey       "s">
+<!ENTITY mailConnections.caption          "Ryšys">
+<!ENTITY mailnewsTimeout.label            "Ryšio laiko limitas:">
+<!ENTITY mailnewsTimeout.accesskey        "R">
+<!ENTITY mailnewsTimeoutSeconds.label     "sek.">
 <!ENTITY Diskspace                        "Disko atmintinė">
 <!ENTITY offlineCompact.label             "Suglaudinti aplankus, kai juose yra daugiau negu">
 <!ENTITY offlineCompact.accesskey         "S">

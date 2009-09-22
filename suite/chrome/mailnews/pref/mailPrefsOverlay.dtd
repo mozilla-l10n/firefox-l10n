@@ -50,4 +50,4 @@
 <!ENTITY junk.label                       "Šlamštas">
 <!ENTITY tags.label                       "Gairės">
 <!ENTITY characterEncoding.label          "Koduotė">
-<!ENTITY offline.label                    "Darbas atsijungus">
+<!ENTITY networkStorage.label             "Tinklas ir disko atmintis">
