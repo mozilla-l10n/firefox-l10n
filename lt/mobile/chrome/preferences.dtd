@@ -45,3 +45,6 @@
 <!ENTITY clearPrivateData.button                       "Valyti">
 <!ENTITY clearPrivateData.description                  "Žurnalas padeda „&brandShortName;“ Jums teikti adresų siūlymus">
 <!ENTITY rememberPasswords.title                       "Įsiminti slaptažodžius">
+<!ENTITY language.title                                "Kalba">
+<!ENTITY language.description                          "Pasirinkite kalbą, kuria norite matyti „&brandShortName;“ sąsają">
+<!ENTITY language.auto                                 "Parinkti automatiškai">
