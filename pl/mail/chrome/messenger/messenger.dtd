@@ -3,8 +3,10 @@
 <!ENTITY titleSeparator.label  " - ">
 
 <!-- Tab context menu -->
-<!ENTITY closeTabCmd.label     "Zamknij kartę">
-<!ENTITY closeTabCmd.accesskey "Z">
+<!ENTITY closeTabCmd.label           "Zamknij kartę">
+<!ENTITY closeTabCmd.accesskey       "Z">
+<!ENTITY closeOtherTabsCmd.label     "Zamknij inne karty">
+<!ENTITY closeOtherTabsCmd.accesskey "e">
 
 <!-- File Menu -->
 <!ENTITY newNewMsgCmd.label             "Wiadomość">
