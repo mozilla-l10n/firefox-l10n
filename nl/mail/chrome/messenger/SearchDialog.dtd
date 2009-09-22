@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label            "Opslaan in">
 <!ENTITY fileButton.accesskey        "l">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Berichtenmap openen">
-<!ENTITY goToFolderButton.accesskey  "B">
+<!ENTITY openInFolder.label          "Openen in map">
+<!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Opslaan als zoekmap">
 <!ENTITY saveAsVFButton.accesskey    "m">
 
