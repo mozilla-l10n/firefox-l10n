@@ -15,4 +15,6 @@
 <!ENTITY clearPrivateData.button                   "Wissen">
 <!ENTITY clearPrivateData.description              "Uw geschiedenis help &brandShortName; te suggereren waar u naar toe wilt">
 <!ENTITY rememberPasswords.title                   "Wachtwoorden onthouden">
-
+<!ENTITY language.title                            "Taal">
+<!ENTITY language.description                      "Kies uw voorkeurstaal voor &brandShortName;">
+<!ENTITY language.auto                             "Autodetectie">
