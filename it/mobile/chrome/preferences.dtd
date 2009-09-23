@@ -15,3 +15,6 @@
 <!ENTITY clearPrivateData.button "Cancella">
 <!ENTITY clearPrivateData.description "La cronologia fornisce a &brandShortName; dei suggerimenti per la navigazione">
 <!ENTITY rememberPasswords.title "Ricorda le password">
+<!ENTITY language.title "Lingua">
+<!ENTITY language.description "Selezionare la lingua preferita per &brandShortName;">
+<!ENTITY language.auto "Selezione automatica">
