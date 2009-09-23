@@ -17,8 +17,8 @@
 <!ENTITY fileButton.label "Поместить">
 <!ENTITY fileButton.accesskey "м">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Открыть папку сообщений">
-<!ENTITY goToFolderButton.accesskey "щ">
+<!ENTITY openInFolder.label "Открыть в папке">
+<!ENTITY openInFolder.accesskey "а">
 <!ENTITY saveAsVFButton.label "Сохранить как виртуальную папку">
 <!ENTITY saveAsVFButton.accesskey "в">
 <!ENTITY abSearchHeading.label "Место поиска:">

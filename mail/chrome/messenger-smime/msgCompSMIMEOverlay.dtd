@@ -1,9 +1,5 @@
-<!ENTITY securityMenu.label "Защита">
-<!ENTITY securityMenu.accesskey "З">
 <!ENTITY menu_securityEncryptRequire.label "Требовать шифрования">
 <!ENTITY menu_securityEncryptRequire.accesskey "Т">
-<!ENTITY menu_securityNoEncryption.label "Не шифровать">
-<!ENTITY menu_securityNoEncryption.accesskey "Н">
 <!ENTITY menu_securitySign.label "Цифровая подпись">
 <!ENTITY menu_securitySign.accesskey "Ц">
 <!ENTITY menu_securityStatus.label "Защита сообщения">
