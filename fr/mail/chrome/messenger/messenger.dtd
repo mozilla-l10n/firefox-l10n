@@ -634,6 +634,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY contextOpenNewTab.accesskey "u">
 <!ENTITY contextEditAsNew.label "Modifier comme un nouveau message…">
 <!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextArchive.label "Archiver">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Répondre à l'expéditeur">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Répondre dans le groupe">
