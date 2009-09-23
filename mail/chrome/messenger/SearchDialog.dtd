@@ -5,8 +5,8 @@
 <!ENTITY searchSubfolders.accesskey "A">
 <!ENTITY searchOnServer.label "Aramayı sunucuda çalıştır">
 <!ENTITY searchOnServer.accesskey "s">
-<!ENTITY resetButton.label "Boşalt">
-<!ENTITY resetButton.accesskey "B">
+<!ENTITY resetButton.label "Temizle">
+<!ENTITY resetButton.accesskey "T">
 <!ENTITY openButton.label "Aç ">
 <!ENTITY openButton.accesskey "A">
 <!ENTITY deleteButton.label "Sil">
