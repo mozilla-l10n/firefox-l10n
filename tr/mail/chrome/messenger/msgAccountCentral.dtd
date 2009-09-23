@@ -2,19 +2,19 @@
 <!ENTITY readMsgsLink.label "Postaları oku">
 <!ENTITY composeMsgLink.label "Yeni ileti oluştur">
 
-<!ENTITY newsSectionHdr.label "Haber Grupları">
+<!ENTITY newsSectionHdr.label "Haber grupları">
 <!ENTITY subscribeNewsLink.label "Haber gruplarına üye ol">
 
 <!ENTITY accountsSectionHdr.label "Hesaplar">
-<!ENTITY subscribeImapFolders.label "Dosya üyeliklerini düzenle">
+<!ENTITY subscribeImapFolders.label "Dizin üyeliklerini yönet">
 <!ENTITY settingsLink.label "Bu hesabın ayarlarını görüntüle">
 <!ENTITY newAcctLink.label "Yeni hesap aç">
 
-<!ENTITY advFeaturesSectionHdr.label "Geniş Seçenekler">
+<!ENTITY advFeaturesSectionHdr.label "Gelişmiş seçenekler">
 <!ENTITY searchMsgsLink.label "İletilerde ara">
-<!ENTITY filtersLink.label "Posta süzgeçlerin yönetimi">
+<!ENTITY filtersLink.label "İleti süzgeçlerinin yönetimi">
 <!ENTITY junkSettings.label "Gereksiz posta ayarları">
 <!ENTITY offlineLink.label "Çevrim dışı ayarları">
 
 <!ENTITY feedsSectionHdr.label "Canlı yer imleri">
-<!ENTITY subscribeFeeds.label "Aboneliklerini denetle…">
+<!ENTITY subscribeFeeds.label "Aboneliklerini denetle">
