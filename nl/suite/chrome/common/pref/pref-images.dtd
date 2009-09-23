@@ -1,25 +1,25 @@
 <!ENTITY pref.images.title              "Afbeeldingen">
 
-<!ENTITY imageBlocking.label            "Afbeeldingen acceptatie beleid">
+<!ENTITY imageBlocking.label            "Acceptatiebeleid voor afbeeldingen">
 
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
-<!ENTITY imageDetails "Specificeerd hoe &brandShortName; omgaat met afbeeldingen.">
+<!ENTITY imageDetails "Specificeert hoe &brandShortName; omgaat met afbeeldingen">
 
 <!ENTITY accAllImagesRadio.label        "Alle afbeeldingen accepteren">
 <!ENTITY accAllImagesRadio.accesskey    "A">
 <!ENTITY accOrgImagesRadio.label        "Accepteer alleen afbeeldingen van de oorspronkelijke server">
-<!ENTITY accOrgImagesRadio.accesskey    "r">
+<!ENTITY accOrgImagesRadio.accesskey    "c">
 <!ENTITY disableImages.label            "Geen afbeeldingen laden">
-<!ENTITY disableImages.accesskey        "n">
+<!ENTITY disableImages.accesskey        "G">
 <!ENTITY viewImages.label               "Afbeeldingtoestemmingen beheren">
-<!ENTITY viewImages.accesskey           "P">
-<!ENTITY animLoopingTitle.label         "Geannimeerde afbeeldingen loopen">
-<!ENTITY animLoopAsSpecified.label      "Zo vaak als de afbeelding specificeerd">
-<!ENTITY animLoopAsSpecified.accesskey  "m">
+<!ENTITY viewImages.accesskey           "b">
+<!ENTITY animLoopingTitle.label         "Animaties herhalen">
+<!ENTITY animLoopAsSpecified.label      "Zo vaak als de afbeelding specificeert">
+<!ENTITY animLoopAsSpecified.accesskey  "Z">
 <!ENTITY animLoopOnce.label             "Eenmaal">
-<!ENTITY animLoopOnce.accesskey         "O">
+<!ENTITY animLoopOnce.accesskey         "E">
 <!ENTITY animLoopNever.label            "Nooit">
-<!ENTITY animLoopNever.accesskey        "v">
+<!ENTITY animLoopNever.accesskey        "N">

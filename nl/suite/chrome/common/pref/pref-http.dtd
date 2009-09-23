@@ -1,4 +1,4 @@
-<!ENTITY pref.http.title "HTTP Networking">
+<!ENTITY pref.http.title "HTTP-netwerkinstellingen">
 <!ENTITY prefDirect.label "Directe verbindingsopties">
 <!ENTITY prefProxy.label "Proxy verbindingsopties">
 <!ENTITY prefEnableHTTP10.label "HTTP 1.0 gebruiken">

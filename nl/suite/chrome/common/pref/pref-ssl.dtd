@@ -38,7 +38,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "SSL Protocolversies">
 <!ENTITY  SSLWarnings.caption               "SSL waarschuwingen">
-<!ENTITY  SSLClientAuthMethod.caption       "Client Certificate Selection">
+<!ENTITY  SSLClientAuthMethod.caption       "Selecteren van clientcertificaten">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
 <!ENTITY enable.ssl3                        "SSL versie 3 gebruiken">
@@ -47,19 +47,19 @@
 <!ENTITY enable.tls.accesskey               "T">
 
 <!ENTITY warn.description                   "&brandShortName; kan u wijzen op de beveiligingsstatus van de pagina die u bekijkt. Stel &brandShortName; in om waarschuwingen te tonen en om toestemmming te vragen voor:">
-<!ENTITY warn.enteringsecure                "Het laden van een pagina dat versleuteling ondersteund">
+<!ENTITY warn.enteringsecure                "Het laden van een pagina die versleuteling gebruikt">
 <!ENTITY warn.enteringsecure.accesskey      "L">
-<!ENTITY warn.enteringweak                  "Het laden van een pagina dat een lage graad van versleuteling gebruikt">
+<!ENTITY warn.enteringweak                  "Het laden van een pagina die een lage graad van versleuteling gebruikt">
 <!ENTITY warn.enteringweak.accesskey        "o">
-<!ENTITY warn.insecurepost                  "Het versturen van formulierdata van een niet versleutelde naar een versleutelde pagina">
+<!ENTITY warn.insecurepost                  "Het versturen van formuliergegevens van een versleutelde naar een niet-versleutelde pagina">
 <!ENTITY warn.insecurepost.accesskey        "s">
-<!ENTITY warn.leavingsecure                 "Het verlaten van pagina dat versleuteling ondersteund">
+<!ENTITY warn.leavingsecure                 "Het verlaten van pagina die versleuteling gebruikt">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.viewmixed                     "Het bekijken van een pagina met een versleutelde/ niet versleutelde  mix">
+<!ENTITY warn.viewmixed                     "Het weergeven van een pagina met een combinatie van versleutelde en niet-versleutelde gegevens">
 <!ENTITY warn.viewmixed.accesskey           "V">
 
-<!ENTITY certselect.description             "Beslis hoe &brandShortName; een veiligheidscertifaat selecteerd om te tonen aan een website dat er een vereist:">
-<!ENTITY certselect.auto                    "Er automatisch een selecteren">
-<!ENTITY certselect.auto.accesskey          "a">
+<!ENTITY certselect.description             "Beslis hoe &brandShortName; een veiligheidscertifaat selecteert om te tonen aan een website die dit vereist:">
+<!ENTITY certselect.auto                    "Automatisch selecteren">
+<!ENTITY certselect.auto.accesskey          "A">
 <!ENTITY certselect.ask                     "Mij elke keer vragen">
-<!ENTITY certselect.ask.accesskey           "e">
+<!ENTITY certselect.ask.accesskey           "M">
