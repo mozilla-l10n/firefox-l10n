@@ -15,3 +15,6 @@
 <!ENTITY clearPrivateData.button "Очистить">
 <!ENTITY clearPrivateData.description "Ваша история поможет &brandShortName; предположить, куда вы захотите пойти">
 <!ENTITY rememberPasswords.title "Запоминать пароли">
+<!ENTITY language.title "Язык">
+<!ENTITY language.description "Выберите язык интерфейса для &brandShortName;">
+<!ENTITY language.auto "Автоопределение">

@@ -5,6 +5,8 @@
 <!ENTITY newFolderCmd.accesskey "П">
 <!ENTITY closeTabCmd.label "Закрыть вкладку">
 <!ENTITY closeTabCmd.accesskey "к">
+<!ENTITY closeOtherTabsCmd.label "Закрыть другие вкладки">
+<!ENTITY closeOtherTabsCmd.accesskey "к">
 <!ENTITY newVirtualFolderCmd.label "Виртуальную папку…">
 <!ENTITY newVirtualFolderCmd.accesskey "В">
 <!ENTITY newOtherAccountsCmd.label "Другие учётные записи…">

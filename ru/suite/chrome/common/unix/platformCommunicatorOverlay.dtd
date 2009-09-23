@@ -16,3 +16,5 @@
 <!ENTITY ctrlKey.label "Ctrl">
 <!ENTITY altKey.label "Alt">
 <!ENTITY shiftKey.label "Shift">
+<!ENTITY copyImageURLCmd.label "Копировать ссылку на изображение">
+<!ENTITY copyImageURLCmd.accesskey "п">

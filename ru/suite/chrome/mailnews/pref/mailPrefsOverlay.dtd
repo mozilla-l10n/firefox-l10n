@@ -13,4 +13,4 @@
 <!ENTITY junk.label "Спам">
 <!ENTITY tags.label "Метки">
 <!ENTITY characterEncoding.label "Кодировка">
-<!ENTITY offline.label "Автономная работа и дисковое пространство">
+<!ENTITY networkStorage.label "Сеть и хранилище">

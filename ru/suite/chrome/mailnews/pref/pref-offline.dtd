@@ -1,4 +1,4 @@
-<!ENTITY pref.offline.title "Автономная работа и дисковое пространство">
+<!ENTITY pref.network.title "Сеть и хранилище">
 <!ENTITY pref.offline.caption "Автономная работа">
 <!ENTITY textStartUp "При запуске:">
 <!ENTITY textStartUp.accesskey "з">
@@ -21,6 +21,10 @@
 <!ENTITY radioNotDownload.accesskey "е">
 <!ENTITY radioAskDownload "Спрашивать">
 <!ENTITY radioAskDownload.accesskey "С">
+<!ENTITY mailConnections.caption "Почтовые соединения">
+<!ENTITY mailnewsTimeout.label "Время ожидания соединения:">
+<!ENTITY mailnewsTimeout.accesskey "ж">
+<!ENTITY mailnewsTimeoutSeconds.label "секунд">
 <!ENTITY Diskspace "Дисковое пространство">
 <!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
 <!ENTITY offlineCompact.accesskey "С">
