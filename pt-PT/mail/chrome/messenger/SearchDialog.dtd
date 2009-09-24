@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label "Ficheiro">
 <!ENTITY fileButton.accesskey "f">
 <!ENTITY closeCmd.key "w">
-<!ENTITY goToFolderButton.label "Abrir Pasta das Mensagens">
-<!ENTITY goToFolderButton.accesskey "b">
+<!ENTITY openInFolder.label "Abrir na pasta">
+<!ENTITY openInFolder.accesskey "b">
 <!ENTITY saveAsVFButton.label "Guardar como pasta de Procura">
 <!ENTITY saveAsVFButton.accesskey "c">
 

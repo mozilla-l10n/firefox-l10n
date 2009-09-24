@@ -7,6 +7,8 @@
 <!ENTITY newFolderCmd.accesskey "P">
 <!ENTITY closeTabCmd.label "Fechar Separador">
 <!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY closeOtherTabsCmd.label "Fechar outros separadoress">
+<!ENTITY closeOtherTabsCmd.accesskey "h">
 <!ENTITY newVirtualFolderCmd.label "Pasta de pesquisa...">
 <!ENTITY newVirtualFolderCmd.accesskey "A">
 <!ENTITY newOtherAccountsCmd.label "Outras contas...">
@@ -200,7 +202,7 @@
 <!ENTITY threadsWithUnreadCmd.accesskey "C">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Tópicos como não lidos">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "M">
-<!ENTITY ignoredThreadsCmd.label "Ignorados">
+<!ENTITY ignoredThreadsCmd.label "Tópicos ignorados">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "Cabeçalhos">
@@ -628,6 +630,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "S">
 <!ENTITY contextEditAsNew.label "Editar como novo...">
 <!ENTITY contextEditAsNew.accesskey "D">
+<!ENTITY contextArchive.label "Arquivo">
+<!ENTITY contextArchive.accesskey "q">
 <!ENTITY contextReplySender.label "Responder apenas ao remetente">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Responder ao grupo de discussão">
