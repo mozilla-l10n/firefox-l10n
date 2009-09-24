@@ -631,6 +631,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "ç">
 <!ENTITY contextEditAsNew.label "Yeni olarak düzenle…">
 <!ENTITY contextEditAsNew.accesskey "ü">
+<!ENTITY contextArchive.label "Arşivle">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Sadece göndereni yanıtla">
 <!ENTITY contextReplySender.accesskey "S">
 <!ENTITY contextReplyNewsgroup.label "Haber grubunu yanıtla">
