@@ -15,3 +15,6 @@
 <!ENTITY clearPrivateData.button					"Wiskje">
 <!ENTITY clearPrivateData.description				"Jo skiednis helpt &brandShortName; foarstellen te jaan wêr't jo hinne wolle">
 <!ENTITY rememberPasswords.title					"Wachtwurden bewarje">
+<!ENTITY language.title                            	"Taal">
+<!ENTITY language.description                      	"Kies jo winske taal foar &brandShortName;">
+<!ENTITY language.auto                             	"Auto-detektearje">
