@@ -17,7 +17,3 @@
 <!ENTITY changeMasterPassword.accesskey "M">
 <!ENTITY savedPasswords.label "Contraseñas guardadas…">
 <!ENTITY savedPasswords.accesskey "ñ">
-<!ENTITY warnings.label "Mensajes de advertencia">
-<!ENTITY chooseWarnings.label "Escoja qué advertencias desea ver mientras navega por la web">
-<!ENTITY warningSettings.label "Configuración…">
-<!ENTITY warningSettings.accesskey "n">
