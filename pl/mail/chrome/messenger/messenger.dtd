@@ -623,6 +623,8 @@
 <!ENTITY contextOpenNewTab.accesskey     "r">
 <!ENTITY contextEditAsNew.label          "Otwórz wiadomość do edycji…">
 <!ENTITY contextEditAsNew.accesskey      "e">
+<!ENTITY contextArchive.label            "Archiwizuj">
+<!ENTITY contextArchive.accesskey        "A">
 <!ENTITY contextReplySender.label        "Odpowiedz tylko nadawcy">
 <!ENTITY contextReplySender.accesskey    "n">
 <!ENTITY contextReplyNewsgroup.label     "Odpowiedz grupie dyskusyjnej">
