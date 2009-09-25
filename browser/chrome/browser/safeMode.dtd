@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "重置工具栏以及控件">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "重置 &brandShortName; 书签">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "删除全部书签（备份除外）">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "重置 &brandShortName; 所有用户的首选项">
 <!ENTITY resetUserPrefs.accesskey     "p">

@@ -12,10 +12,10 @@
 
 
 <!ENTITY  acceptCookies.label           "接受站点的 cookie">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "接受第三方 cookie">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  keepUntil.label               "保存，直到：">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -57,8 +57,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "清空当前所有历史记录">
 <!ENTITY  dontrememberActions.post.label         "。">
 
-<!ENTITY  privateBrowsingAutoStart.label "以隐私浏览模式启动 &brandShortName; 。">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "永久隐私浏览模式">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single

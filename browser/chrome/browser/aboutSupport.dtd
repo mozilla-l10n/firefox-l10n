@@ -1,0 +1,30 @@
+<!ENTITY aboutSupport.pageTitle "疑难排解信息">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "   此页面包含可能会有助于您解决问题的技术信息。
+  如果您需要查找 &brandShortName; 常见问题的答案，
+  请访问我们的 <a id='supportLink'>技术支持网站</a>。
+">
+
+<!ENTITY aboutSupport.extensionsTitle "扩展">
+<!ENTITY aboutSupport.extensionName "名称">
+<!ENTITY aboutSupport.extensionEnabled "已启用">
+<!ENTITY aboutSupport.extensionVersion "版本">
+<!ENTITY aboutSupport.extensionFirstRun "首次运行">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "应用基础">
+<!ENTITY aboutSupport.appBasicsName "名称">
+<!ENTITY aboutSupport.appBasicsVersion "版本">
+<!ENTITY aboutSupport.appBasicsProfileDir "配置文件夹">
+<!ENTITY aboutSupport.appBasicsPlugins "已安装插件">
+<!ENTITY aboutSupport.appBasicsBuildConfig "构建选项">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "已修改的首选项">
+<!ENTITY aboutSupport.modifiedPrefsName "名称">
+<!ENTITY aboutSupport.modifiedPrefsValue "值">
+
+<!ENTITY aboutSupport.installationHistoryTitle "安装历史记录">
+<!ENTITY aboutSupport.updateHistoryTitle "更新历史">
+
+<!ENTITY aboutSupport.copyToClipboard.label "全部复制至系统粘贴板">

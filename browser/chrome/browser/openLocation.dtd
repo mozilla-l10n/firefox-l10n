@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "选择文件…">
 <!ENTITY newWindow.label "新建浏览器窗口">
 <!ENTITY newTab.label "新建标签页">
-<!ENTITY topWindow.label "当前浏览器窗口">
+<!ENTITY topTab.label "当前标签页">
 <!ENTITY caption.label "打开网页地址">
 <!ENTITY openWhere.label "打开到：">
 <!ENTITY openBtn.label "打开">
