@@ -12,9 +12,8 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "关于 &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "帮助内容">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; 帮助">
+<!ENTITY productHelp.label        "&brandShortName; 帮助">
+<!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "致 Internet Explorer 用户">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
@@ -22,6 +21,10 @@
 
 <!ENTITY helpReleaseNotes.label         "发行说明">
 <!ENTITY helpReleaseNotes.accesskey     "N">
+
+<!ENTITY helpTroubleshooting.label      "疑难排解信息…">
+<!ENTITY helpTroubleshooting.accesskey  "T">
+
 <!ENTITY updateCmd.label                "检查更新…">
 
 <!ENTITY preferencesCmdMac.label        "首选项…">

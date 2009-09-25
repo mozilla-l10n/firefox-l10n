@@ -50,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "全屏">
 <!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "显示所有标签页">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "最小化">
 <!ENTITY fullScreenRestore.tooltip "恢复">
@@ -232,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label            "在新窗口中打开">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInCurrent.label     "打开链接">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label       "在新标签页中打开">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openFrameCmd.label           "在新窗口打开帧">
@@ -312,8 +317,6 @@
 <!ENTITY copyAudioURLCmd.label        "复制音频地址">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "B">
-<!ENTITY metadataCmd.label            "属性">
-<!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "复制邮件地址">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "本帧">
@@ -368,6 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "剪切">
 <!ENTITY copyButton.tooltip             "复制">
 <!ENTITY pasteButton.tooltip            "粘贴">
+<!ENTITY fullScreenButton.tooltip       "全屏显示窗口">
 
 <!ENTITY quitApplicationCmdWin.label       "退出"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -444,4 +448,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "单击打开下载窗口">
 
-<!ENTITY ctrlTab.search.emptyText "搜索标签页">
+<!ENTITY allTabs.filter.emptyText "搜索标签页">
