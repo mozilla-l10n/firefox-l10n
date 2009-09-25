@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "Lesezeichen">
 <!ENTITY bookmarksManage.label     "Verwalten">
-<!ENTITY foldersHeader.label       "Ordner">
 
 <!ENTITY editBookmarkRemove.label  "Entfernen">
-<!ENTITY editBookmarkMove.label    "Verschieben">
 <!ENTITY editBookmarkDone.label    "Fertig">
 <!ENTITY editBookmarkTags.label    "Schlagwörter hier eintragen">
 
