@@ -11,7 +11,6 @@
 <!ENTITY aboutSupport.extensionName "Adı">
 <!ENTITY aboutSupport.extensionEnabled "Etkin">
 <!ENTITY aboutSupport.extensionVersion "Sürüm">
-<!ENTITY aboutSupport.extensionFirstRun "İlk çalıştırma">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Uygulama ayrıntıları">
