@@ -631,6 +631,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextEditAsNew.label "Als nieuw bewerken…">
 <!ENTITY contextEditAsNew.accesskey "b">
+<!ENTITY contextArchive.label "Archief">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
 <!ENTITY contextReplySender.accesskey "a">
 <!ENTITY contextReplyNewsgroup.label "Nieuwsgroep beantwoorden">
