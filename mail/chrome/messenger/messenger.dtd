@@ -687,7 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Quick Search Bar -->
 
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchEverywhere.label "Her yerde ara">
+<!ENTITY searchAllMessages.label "Tüm iletilerde ara">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "Adres defterine ekle…">
