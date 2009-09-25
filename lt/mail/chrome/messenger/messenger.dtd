@@ -657,6 +657,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextEditAsNew.label "Paruošti siuntimui…">
 <!ENTITY contextEditAsNew.accesskey "u">
+<!ENTITY contextArchive.label "Archyvuoti">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Atsakyti siuntėjui">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup.label "Atsakyti naujienų grupei">
