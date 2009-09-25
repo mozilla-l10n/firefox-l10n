@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Gespeicherte Passwörter…">
 <!ENTITY  savedPasswords.accesskey        "G">
-
-
-<!ENTITY  warnings.label                "Warnmeldungen">
-
-<!ENTITY  chooseWarnings.label          "Festlegen, wovor Sie beim Surfen im Internet gewarnt werden möchten">
-
-<!ENTITY  warningSettings.label         "Einstellungen…">
-<!ENTITY  warningSettings.accesskey     "E">
