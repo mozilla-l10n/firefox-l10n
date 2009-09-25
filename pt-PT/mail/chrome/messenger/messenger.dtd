@@ -686,7 +686,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchEverywhere.label "Procurar em todos os locais">
+<!ENTITY searchAllMessages.label "Procurar todas as mensagens">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Adicionar ao Livro de Endereços...">
