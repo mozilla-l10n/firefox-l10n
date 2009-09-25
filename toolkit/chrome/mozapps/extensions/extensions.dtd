@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "查找附加组件的更新">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "查找主题的更新">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "发现您插件的更新">
 <!ENTITY cmd.installLocalFile.label       "安装…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "安装附加组件">
@@ -54,7 +55,7 @@
 <!ENTITY cmd.options.accesskey            "O">
 <!ENTITY cmd.options.tooltip              "设置所选扩展的选项">
 <!ENTITY cmd.optionsUnix.label            "首选项">
-<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.accesskey        "P">
 <!ENTITY cmd.optionsUnix.tooltip          "编辑所选扩展的首选项">
 <!ENTITY cmd.enable.label                 "启用">
 <!ENTITY cmd.enable.accesskey             "E">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "需要其他项。">
 <!ENTITY blocklisted.label                "出于保护目的禁用">
 <!ENTITY softBlocklisted.label            "已知会导致安全或稳定性的问题。">
+<!ENTITY outdated.label                   "新的更安全的版本已可用。">
 <!ENTITY toBeDisabled.label               "此附加组件将在 &brandShortName; 重启后禁用。">
 <!ENTITY toBeEnabled.label                "此附加组件将在 &brandShortName; 重启后启用。">
 <!ENTITY toBeInstalled.label              "此附加组件将在 &brandShortName; 重启后安装。">
