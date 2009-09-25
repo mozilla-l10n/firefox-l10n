@@ -11,7 +11,6 @@
 <!ENTITY aboutSupport.extensionName "Naam">
 <!ENTITY aboutSupport.extensionEnabled "Actief">
 <!ENTITY aboutSupport.extensionVersion "Versie">
-<!ENTITY aboutSupport.extensionFirstRun "FirstRun">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Applicatiebasics">
