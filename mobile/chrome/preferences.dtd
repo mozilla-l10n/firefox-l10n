@@ -16,3 +16,7 @@
 <!ENTITY clearPrivateData.button                   "Löschen">
 <!ENTITY clearPrivateData.description              "Die Chronik hilft &brandShortName;, Ihnen Adressen vorzuschlagen">
 <!ENTITY rememberPasswords.title                   "Passwörter merken">
+<!ENTITY language.title                            "Sprache">
+<!ENTITY language.description                      "Wählen Sie Ihre bevorzugte Sprache für &brandShortName;">
+<!ENTITY language.auto                             "Automatisch erkennen">
+
