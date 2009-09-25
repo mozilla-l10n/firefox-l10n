@@ -48,7 +48,6 @@
 <!ENTITY addonsSearch2.emptytext   "Katalog durchsuchen">
 <!ENTITY addonsSearch.recommended  "Empfehlungen">
 
-
 <!ENTITY addonOptions.label        "Einstellungen">
 <!ENTITY addonEnable.label         "Aktivieren">
 <!ENTITY addonDisable.label        "Deaktivieren">
@@ -58,11 +57,6 @@
 <!ENTITY addonShowPage.label       "Homepage besuchen">
 
 <!ENTITY downloadsHeader.label     "Downloads">
-<!ENTITY downloadsSortDate.label   "Datum">
-<!ENTITY downloadsSortSite.label   "Website">
-<!ENTITY downloadsSortName.label   "Name">
-<!ENTITY downloadsSearch.label     "Suchen">
-<!ENTITY downloadsSearch2.emptytext "Suchen">
 
 <!ENTITY downloadShowPage.label    "Zur Download-Seite gehen">
 <!ENTITY downloadShow2.label       "Finden">
@@ -71,11 +65,12 @@
 <!ENTITY downloadPause.label       "Pause">
 <!ENTITY downloadResume.label      "Fortsetzen">
 <!ENTITY downloadRetry.label       "Nochmals versuchen">
+<!ENTITY downloadRemove.label      "Entfernen">
 
 <!ENTITY noResults.label           "Keine Ergebnisse">
 <!ENTITY allBookmarks.label        "Alle Lesezeichen anzeigen">
 
-<!ENTITY searchEngine.addSearch     "Suche hinzufügen:">
+<!ENTITY searchEngine.addSearch    "Suche hinzufügen:">
 
 <!ENTITY bookmarkPopup.label       "Lesezeichen gesetzt">
 <!ENTITY bookmarkRemove.label      "Entfernen">
