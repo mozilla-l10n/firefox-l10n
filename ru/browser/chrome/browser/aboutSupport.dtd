@@ -5,7 +5,6 @@
 <!ENTITY aboutSupport.extensionName "Имя">
 <!ENTITY aboutSupport.extensionEnabled "Включено">
 <!ENTITY aboutSupport.extensionVersion "Версия">
-<!ENTITY aboutSupport.extensionFirstRun "Первый запуск">
 <!ENTITY aboutSupport.extensionId "ID">
 <!ENTITY aboutSupport.appBasicsTitle "Сведения о приложении">
 <!ENTITY aboutSupport.appBasicsName "Имя">
