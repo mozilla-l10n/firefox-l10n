@@ -473,6 +473,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY replyListButton.label "Rép. à la liste">
 <!ENTITY forwardButton.label "Transférer">
 <!ENTITY fileButton.label "Classer">
+<!ENTITY archiveButton.label "Archiver">
 <!ENTITY nextButton.label "Suivant">
 <!ENTITY previousButton.label "Précédent">
 <!ENTITY backButton1.label "Reculer">
@@ -505,6 +506,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY replyListButton.tooltip "Répondre à la liste de diffusion">
 <!ENTITY forwardButton.tooltip "Transférer le message sélectionné">
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">
+<!ENTITY archiveButton.tooltip "Archiver les messages sélectionnés">
 <!ENTITY nextButton.tooltip "Aller au prochain message non lu">
 <!ENTITY goForwardButton.tooltip "Avancer d'un message">
 <!ENTITY goBackButton.tooltip "Reculer d'un message">
