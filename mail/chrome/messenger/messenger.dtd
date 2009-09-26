@@ -664,6 +664,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextEditAsNew.label "Redigera som nytt…">
 <!ENTITY contextEditAsNew.accesskey "R">
+<!ENTITY contextArchive.label "Arkivera">
+<!ENTITY contextArchive.accesskey "i">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
 <!ENTITY contextReplySender.accesskey "ä">
 <!ENTITY contextReplyNewsgroup.label "Svara till diskussionsgrupp">
