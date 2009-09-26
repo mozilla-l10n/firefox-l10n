@@ -12,9 +12,10 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "&brandFullName; గురించి">
 <!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "సహాయ విషయసంగ్రహాలు">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; సహాయం">
+
+<!ENTITY productHelp.label        "&brandShortName; సహాయం">
+<!ENTITY productHelp.accesskey    "H">
+
 <!ENTITY helpForIEUsers.label     "ఇంటర్నెట్ ఎక్స్‌ప్లోరర్ వాడుకరుల కొరకు">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
@@ -23,6 +24,10 @@
 
 <!ENTITY helpReleaseNotes.label         "విడుదల నోట్స్">
 <!ENTITY helpReleaseNotes.accesskey     "N">
+
+<!ENTITY helpTroubleshooting.label      "సమస్య తొలగించుటకు  సహాయం…">
+<!ENTITY helpTroubleshooting.accesskey  "T">
+
 <!ENTITY updateCmd.label                "నవీకరణల కొరకు పరిశీలించు...">
 
 <!ENTITY preferencesCmdMac.label        "అభీష్టాలు...">
