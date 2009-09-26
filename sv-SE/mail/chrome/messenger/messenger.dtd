@@ -720,7 +720,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchEverywhere.label "Sök överallt">
+<!ENTITY searchAllMessages.label "Sök bland alla meddelanden">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Lägg till i adressbok…">
