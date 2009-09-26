@@ -51,8 +51,8 @@
 <!ENTITY fileButton.label            "Arkivera">
 <!ENTITY fileButton.accesskey        "v">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Öppna mapp">
-<!ENTITY goToFolderButton.accesskey  "p">
+<!ENTITY openInFolder.label          "Öppna i mapp">
+<!ENTITY openInFolder.accesskey      "p">
 <!ENTITY saveAsVFButton.label        "Spara som sökmapp">
 <!ENTITY saveAsVFButton.accesskey    "k">
 
