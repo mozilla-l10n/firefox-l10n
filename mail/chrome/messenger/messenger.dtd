@@ -504,7 +504,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.label "Svara alla">
 <!ENTITY replyListButton.label "Svara till listan">
 <!ENTITY forwardButton.label "Vidarebefordra">
-<!ENTITY fileButton.label "Arkivera">
+<!ENTITY fileButton.label "Spara">
+<!ENTITY archiveButton.label "Arkivera">
 <!ENTITY nextButton.label "Nästa">
 <!ENTITY previousButton.label "Tidigare">
 <!ENTITY backButton1.label "Bakåt">
@@ -536,7 +537,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.tooltip "Svarar avsändaren och även alla mottagare">
 <!ENTITY replyListButton.tooltip "Svara till mailinglistan">
 <!ENTITY forwardButton.tooltip "Vidarebefordrar meddelandet">
-<!ENTITY fileButton.tooltip "Arkiverar markerat meddelande">
+<!ENTITY fileButton.tooltip "Sparar markerat meddelande">
+<!ENTITY archiveButton.tooltip "Arkiverar markerat meddelande">
 <!ENTITY nextButton.tooltip "Hoppar till nästa olästa meddelande">
 <!ENTITY previousButton.tooltip "Flytta till det föregående olästa meddelandet">
 <!ENTITY goForwardButton.tooltip "Gå framåt ett meddelande">
