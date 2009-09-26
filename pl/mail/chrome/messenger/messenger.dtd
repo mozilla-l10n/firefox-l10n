@@ -465,6 +465,7 @@
 <!ENTITY replyListButton.label  "Odp. liście">
 <!ENTITY forwardButton.label    "Przekaż">
 <!ENTITY fileButton.label       "Przenieś">
+<!ENTITY archiveButton.label    "Archiwizuj">
 <!ENTITY nextButton.label       "Następna">
 <!ENTITY previousButton.label   "Poprzednia">
 <!ENTITY backButton1.label      "Wstecz">
@@ -497,6 +498,7 @@
 <!ENTITY replyListButton.tooltip   "Odpowiedz liście dyskusyjnej">
 <!ENTITY forwardButton.tooltip     "Przekaż wybraną wiadomość">
 <!ENTITY fileButton.tooltip        "Przenieś zaznaczoną wiadomość">
+<!ENTITY archiveButton.tooltip     "Archiwizuj zaznaczone wiadomości">
 <!ENTITY nextButton.tooltip        "Przejdź do następnej nieprzeczytanej wiadomości">
 <!ENTITY previousButton.tooltip    "Przejdź do poprzedniej nieprzeczytanej wiadomości">
 <!ENTITY goForwardButton.tooltip   "Przejdź o jedną wiadomość do przodu">
