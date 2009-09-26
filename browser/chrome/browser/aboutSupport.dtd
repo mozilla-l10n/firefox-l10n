@@ -11,7 +11,6 @@
 <!ENTITY aboutSupport.extensionName "Nom">
 <!ENTITY aboutSupport.extensionEnabled "Activée">
 <!ENTITY aboutSupport.extensionVersion "Version">
-<!ENTITY aboutSupport.extensionFirstRun "Premier démarrage">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Paramètres de base de l'application">
