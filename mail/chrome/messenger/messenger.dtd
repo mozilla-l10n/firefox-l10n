@@ -433,6 +433,7 @@
 <!ENTITY replyListButton.label "Ответить в рассылку">
 <!ENTITY forwardButton.label "Переслать">
 <!ENTITY fileButton.label "Поместить">
+<!ENTITY archiveButton.label "Архивировать">
 <!ENTITY nextButton.label "Следующее">
 <!ENTITY previousButton.label "Предыдущее">
 <!ENTITY backButton1.label "Назад">
@@ -463,6 +464,7 @@
 <!ENTITY replyListButton.tooltip "Ответить в список рассылки">
 <!ENTITY forwardButton.tooltip "Переслать выбранное сообщение">
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
+<!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
 <!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
 <!ENTITY previousButton.tooltip "Перейти к предыдущему непрочитанному сообщению">
 <!ENTITY goForwardButton.tooltip "Перейти к следующему сообщению">
@@ -572,6 +574,8 @@
 <!ENTITY contextOpenNewTab.accesskey "н">
 <!ENTITY contextEditAsNew.label "Редактировать как новое…">
 <!ENTITY contextEditAsNew.accesskey "Р">
+<!ENTITY contextArchive.label "Архивировать">
+<!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Ответить отправителю">
 <!ENTITY contextReplySender.accesskey "О">
 <!ENTITY contextReplyNewsgroup.label "Ответить в группу новостей">
@@ -614,7 +618,7 @@
 <!ENTITY reportPhishingError1.label "Это сообщение не похоже на мошенническое.">
 <!ENTITY more.label "подробнее">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchEverywhere.label "Искать везде">
+<!ENTITY searchAllMessages.label "Поиск во всех сообщениях">
 <!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
 <!ENTITY AddToAddressBook.accesskey "Д">
 <!ENTITY AddDirectlyToAddressBook.label "Добавить в адресную книгу…">
