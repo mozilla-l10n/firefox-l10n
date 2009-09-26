@@ -471,7 +471,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.label "Allen beantwoorden">
 <!ENTITY replyListButton.label "Lijst beantwoorden">
 <!ENTITY forwardButton.label "Doorsturen">
-<!ENTITY fileButton.label "Archiveren">
+<!ENTITY fileButton.label "Bewaren">
+<!ENTITY archiveButton.label "Archiveren">
 <!ENTITY nextButton.label "Volgende">
 <!ENTITY previousButton.label "Vorige">
 <!ENTITY backButton1.label "Terug">
@@ -503,7 +504,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.tooltip "Afzender en alle geadresseerden beantwoorden">
 <!ENTITY replyListButton.tooltip "E-maillijst beantwoorden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
-<!ENTITY fileButton.tooltip "Geselecteerde bericht archiveren">
+<!ENTITY fileButton.tooltip "Geselecteerde bericht bewaren">
+<!ENTITY archiveButton.tooltip "Geselecteerde bericht archiveren">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
 <!ENTITY previousButton.tooltip "Naar het vorige ongelezen bericht gaan">
 <!ENTITY goForwardButton.tooltip "Een bericht vooruit gaan">
