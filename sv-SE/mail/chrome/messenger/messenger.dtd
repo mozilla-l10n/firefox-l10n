@@ -40,7 +40,9 @@
 <!ENTITY newFolderCmd.label "Ny mapp…">
 <!ENTITY newFolderCmd.accesskey "p">
 <!ENTITY closeTabCmd.label "Stäng flik">
-<!ENTITY closeTabCmd.accesskey "i">
+<!ENTITY closeTabCmd.accesskey "S">
+<!ENTITY closeOtherTabsCmd.label "Stäng andra flikar">
+<!ENTITY closeOtherTabsCmd.accesskey "a">
 <!ENTITY newVirtualFolderCmd.label "Ny sparad sökning…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Annat konto…">
