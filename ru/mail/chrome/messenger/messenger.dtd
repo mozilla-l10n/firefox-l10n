@@ -616,7 +616,7 @@
 <!ENTITY phishingBarMessage2.label "Это сообщение может быть мошенническим.">
 <!ENTITY removePhishingBarButton1.label "Игнорировать предупреждение">
 <!ENTITY reportPhishingError1.label "Это сообщение не похоже на мошенническое.">
-<!ENTITY more.label "подробнее">
+<!ENTITY more.label "ещё">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "Поиск во всех сообщениях">
 <!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
