@@ -44,8 +44,9 @@
 <!ENTITY updateTab.label                 "నవీకరణ">
 
 <!ENTITY autoCheck.label                 "స్వయంచాలకంగా నవీకరణల కొరకు పరిశీలించు:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+
+<!ENTITY enableAddonsUpdate2.label       "యాడ్-ఆన్స్">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableAddonsUpdate.label        "సంస్థాపించిన యాడ్-ఆన్స్">
 <!ENTITY enableAddonsUpdate.accesskey    "n">
 <!ENTITY enableSearchUpdate.label        "శోధన ఇంజన్సు‌">
