@@ -690,7 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchEverywhere.label "Rechercher n'importe où">
+<!ENTITY searchAllMessages.label "Rechercher dans tous les messages">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Ajouter l'adresse au carnet d'adresses">
