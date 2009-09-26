@@ -472,6 +472,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Listeyi yanıtla">
 <!ENTITY forwardButton.label "İlet">
 <!ENTITY fileButton.label "Dosyala">
+<!ENTITY archiveButton.label "Arşivle">
 <!ENTITY nextButton.label "Sonraki">
 <!ENTITY previousButton.label "Önceki">
 <!ENTITY backButton1.label "Geri">
@@ -504,6 +505,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "E-posta listesini yanıtla">
 <!ENTITY forwardButton.tooltip "Seçilmiş postaları ilet">
 <!ENTITY fileButton.tooltip "Seçilmiş iletileri dosyala">
+<!ENTITY archiveButton.tooltip "Seçilmiş iletileri arşivle">
 <!ENTITY nextButton.tooltip "Bir sonraki okunmamış iletiye git">
 <!ENTITY previousButton.tooltip "Önceki okunmamış iletiye git">
 <!ENTITY goForwardButton.tooltip "Bir sonraki iletiye gider">
