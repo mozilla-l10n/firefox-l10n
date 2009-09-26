@@ -1,4 +1,4 @@
-<!ENTITY minimizeWindow.key "M">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Küçült">
 <!ENTITY bringAllToFront.label "Hepsini önplana getir">
 <!ENTITY zoomWindow.label "Odakla">
