@@ -48,6 +48,8 @@
 <!ENTITY pageInfoCmd.label "పేజీ సమాచారం">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "పూర్తి తెర">
+<!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "అన్ని టాబ్లను చూపు">
 <!ENTITY showAllTabsCmd.accesskey "A">
@@ -310,8 +312,7 @@
 <!ENTITY copyAudioURLCmd.label        "ధ్వని స్థానాన్ని నకలు తీయుము">
 <!ENTITY copyAudioURLCmd.accesskey    "o"> 
 <!ENTITY blockImageCmd.accesskey       "g">
-<!ENTITY metadataCmd.label            "లక్షణాలు">
-<!ENTITY metadataCmd.accesskey        "P">
+
 <!ENTITY copyEmailCmd.label           "ఈమెయిల్ చిరునామాను నకలు తీయుము">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ఈ ఫ్రేమ్ ">
