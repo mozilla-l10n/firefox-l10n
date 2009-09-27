@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Ats. grupei">
 <!ENTITY forwardButton.label "Persiųsti">
 <!ENTITY fileButton.label "Perkelti">
+<!ENTITY archiveButton.label "Archyvuoti">
 <!ENTITY nextButton.label "Tolesnis">
 <!ENTITY previousButton.label "Ankstesnis">
 <!ENTITY backButton1.label "Atgal">
@@ -530,6 +531,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Atsakyti elektroninio pašto grupei">
 <!ENTITY forwardButton.tooltip "Persiųsti pažymėtus laiškus">
 <!ENTITY fileButton.tooltip "Pažymėtą laišką perkelti į kitą aplanką">
+<!ENTITY archiveButton.tooltip "Perkelti pažymėtus laiškus į archyvą">
 <!ENTITY nextButton.tooltip "Pereiti prie tolesnio neskaityto laiško">
 <!ENTITY previousButton.tooltip "Pereiti prie ankstesnio neskaityto laiško">
 <!ENTITY goForwardButton.tooltip "Eiti vienu laišku pirmyn">
@@ -714,7 +716,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchEverywhere.label "Ieškoti visur">
+<!ENTITY searchAllMessages.label "Ieškoti visuose laiškuose">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Įtraukti į adresų knygą…">
