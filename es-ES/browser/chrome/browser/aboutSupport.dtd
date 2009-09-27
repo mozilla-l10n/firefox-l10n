@@ -4,14 +4,13 @@
 <!ENTITY aboutSupport.extensionName "Nombre">
 <!ENTITY aboutSupport.extensionEnabled "Activada">
 <!ENTITY aboutSupport.extensionVersion "Versión">
-<!ENTITY aboutSupport.extensionFirstRun "FirstRun">
 <!ENTITY aboutSupport.extensionId "ID">
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsTitle "Configuración básica de la aplicación">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil ">
 <!ENTITY aboutSupport.appBasicsPlugins "Plugins instalados">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilado">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferencias modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nombre">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
