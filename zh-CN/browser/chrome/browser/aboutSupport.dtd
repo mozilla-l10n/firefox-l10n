@@ -10,7 +10,6 @@
 <!ENTITY aboutSupport.extensionName "名称">
 <!ENTITY aboutSupport.extensionEnabled "已启用">
 <!ENTITY aboutSupport.extensionVersion "版本">
-<!ENTITY aboutSupport.extensionFirstRun "首次运行">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "应用基础">

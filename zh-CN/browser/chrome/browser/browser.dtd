@@ -235,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label            "在新窗口中打开">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInCurrent.label     "打开链接">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label       "在新标签页中打开">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openFrameCmd.label           "在新窗口打开帧">
