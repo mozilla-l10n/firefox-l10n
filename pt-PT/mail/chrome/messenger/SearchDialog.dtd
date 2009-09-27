@@ -3,8 +3,6 @@
 <!ENTITY searchHeading.accesskey "r">
 <!ENTITY searchSubfolders.label "Procurar em Sub-pastas">
 <!ENTITY searchSubfolders.accesskey "o">
-<!ENTITY searchOnServer.label          "Pesquisar no servidor">
-<!ENTITY searchOnServer.accesskey      "i">
 <!ENTITY resetButton.label "Limpar">
 <!ENTITY resetButton.accesskey "L">
 <!ENTITY openButton.label "Abrir">
@@ -18,8 +16,8 @@
 <!ENTITY fileButton.label "Ficheiro">
 <!ENTITY fileButton.accesskey "f">
 <!ENTITY closeCmd.key "w">
-<!ENTITY openInFolder.label "Abrir na pasta">
-<!ENTITY openInFolder.accesskey "b">
+<!ENTITY goToFolderButton.label "Abrir Pasta das Mensagens">
+<!ENTITY goToFolderButton.accesskey "b">
 <!ENTITY saveAsVFButton.label "Guardar como pasta de Procura">
 <!ENTITY saveAsVFButton.accesskey "c">
 
