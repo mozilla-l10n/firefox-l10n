@@ -42,7 +42,6 @@
 <!ENTITY aboutSupport.extensionName                "Pavadinimas">
 <!ENTITY aboutSupport.extensionEnabled             "Įjungtas">
 <!ENTITY aboutSupport.extensionVersion             "Laida">
-<!ENTITY aboutSupport.extensionFirstRun            "FirstRun">
 <!ENTITY aboutSupport.extensionId                  "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle               "Pagrindinės programos savybės">
