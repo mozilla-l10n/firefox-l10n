@@ -15,9 +15,9 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Tekst van de ondertekening:">
 <!ENTITY signatureText.accesskey "T">
-<!ENTITY signatureHtml.label "Gebruik HTML">
-<!ENTITY signatureHtml.accesskey "G">
-<!ENTITY signatureFile.label "Gebruik bestand:">
+<!ENTITY signatureHtml.label "HTML gebruiken">
+<!ENTITY signatureHtml.accesskey "g">
+<!ENTITY signatureFile.label "Bestand gebruiken:">
 <!ENTITY signatureFile.accesskey "u">
 <!ENTITY edit.label "Bewerken…">
 <!ENTITY choose.label "Kiezen…">
