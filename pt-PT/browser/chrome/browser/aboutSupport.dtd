@@ -11,7 +11,6 @@ sobre o &brandShortName;, veja o nosso <a id='supportLink'>sítio web de suporte
 <!ENTITY aboutSupport.extensionName "Nome">
 <!ENTITY aboutSupport.extensionEnabled "Activado">
 <!ENTITY aboutSupport.extensionVersion "Versão">
-<!ENTITY aboutSupport.extensionFirstRun "Primeira execução">
 <!ENTITY aboutSupport.extensionId "ID">
  
 <!ENTITY aboutSupport.appBasicsTitle "Noções básicas">
