@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "已保存密码…">
 <!ENTITY  savedPasswords.accesskey        "P">
-
-
-<!ENTITY  warnings.label                "警告信息">
-
-<!ENTITY  chooseWarnings.label          "选择浏览网页时允许显示的警告信息">
-
-<!ENTITY  warningSettings.label         "设置…">
-<!ENTITY  warningSettings.accesskey     "S">
