@@ -8,7 +8,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+<!ENTITY credit.translation "<h3>翻译人员</h3><ul><li>narro.mozest.com</li><li>文少华</li></ul>">
 
 <!ENTITY credit.theme          "主题设计">
 <!ENTITY credit.qa             "质量管理">
