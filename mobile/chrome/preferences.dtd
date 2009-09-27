@@ -15,3 +15,7 @@
 <!ENTITY clearPrivateData.button "Vymazat">
 <!ENTITY clearPrivateData.description "Historie pomáhá aplikaci &brandShortName; odhadovat, kam se vydáte">
 <!ENTITY rememberPasswords.title "Pamatovat si hesla">
+<!ENTITY language.title "Jazyk">
+<!ENTITY language.description "Zvolte upřednostňovaný jazyk aplikace &brandShortName;">
+<!ENTITY language.auto "Autodetekce">
+

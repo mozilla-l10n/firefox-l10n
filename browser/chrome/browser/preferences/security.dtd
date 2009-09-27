@@ -8,11 +8,11 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  blockAttackSites.label "Blokovat nahlášené útočné stránky">
-<!ENTITY  blockAttackSites.accesskey "B">
+<!ENTITY blockAttackSites.label "Blokovat nahlášené útočné stránky">
+<!ENTITY blockAttackSites.accesskey "B">
 
-<!ENTITY  blockWebForgeries.label "Blokovat nahlášené podvodné stránky">
-<!ENTITY  blockWebForgeries.accesskey "k">
+<!ENTITY blockWebForgeries.label "Blokovat nahlášené podvodné stránky">
+<!ENTITY blockWebForgeries.accesskey "k">
 
 <!ENTITY addonExceptions.label "Výjimky…">
 <!ENTITY addonExceptions.accesskey "j">
@@ -29,14 +29,6 @@
 <!ENTITY useMasterPassword.accesskey "h">
 <!ENTITY changeMasterPassword.label "Změnit hlavní heslo…">
 <!ENTITY changeMasterPassword.accesskey "m">
-                                    	
+
 <!ENTITY savedPasswords.label "Zobrazit hesla…">
 <!ENTITY savedPasswords.accesskey "h">
-
-
-<!ENTITY warnings.label "Bezpečnostní upozornění">
-
-<!ENTITY chooseWarnings.label "Zvolit bezpečnostní upozornění zobrazovaná při prohlížení stránek">
-
-<!ENTITY warningSettings.label "Nastavení…">
-<!ENTITY warningSettings.accesskey "N">
