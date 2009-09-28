@@ -43,17 +43,5 @@
 <!ENTITY antiVirus.label "Os Programas anti-vírus podem colocar uma mensagem recebida em quarentena">
 <!ENTITY antiVirus.accesskey "p">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "O &brandShortName; deixa-o especificar que blogs, fontes de notícias, e outros sítios web são autorizados a usar cookies.">
-<!ENTITY acceptCookies.label            "Aceitar cookies de sítios">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Manter até:">
-<!ENTITY keepUntil.accesskey            "M">
-<!ENTITY expire.label                   "que expirem">
-<!ENTITY close.label                    "eu fechar o &brandShortName;">
-<!ENTITY askEachTime.label              "perguntar-me sempre">
-<!ENTITY cookieExceptions.label         "Excepções…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Mostrar Cookies…">
-<!ENTITY showCookies.accesskey          "s">
+
 
