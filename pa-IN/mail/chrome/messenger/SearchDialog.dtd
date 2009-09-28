@@ -16,8 +16,9 @@
 <!ENTITY fileButton.label            "ਫਾਇਲ">
 <!ENTITY fileButton.accesskey        "i">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "ਸੁਨੇਹਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY openInFolder.label          "ਫੋਲਡਰ ਵਿੱਚ ਖੋਲ੍ਹੋ">
+<!ENTITY openInFolder.accesskey      "r">
+
 <!ENTITY saveAsVFButton.label      "ਖੋਜ ਫੋਲਡਰ ਵਾਂਗ ਸੰਭਾਲੋ">
 <!ENTITY saveAsVFButton.accesskey  "a">
 
