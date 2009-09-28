@@ -12,8 +12,8 @@
 <!ENTITY about.relnotes.linkTitle     "notas de lançamento">
 <!ENTITY about.relnotes.afterLink     "desta versão.">
 
-<!ENTITY about.buildconfig.beforeLink "Veja as">
-<!ENTITY about.buildconfig.linkTitle  "configurações de build">
-<!ENTITY about.buildconfig.afterLink  "usadas nesta versão.">
+<!ENTITY about.buildconfig.beforeLink "Veja a">
+<!ENTITY about.buildconfig.linkTitle  "configuração da compilação">
+<!ENTITY about.buildconfig.afterLink  "usada nesta versão.">
 
-<!ENTITY about.buildIdentifier        "Identificação do build: ">
+<!ENTITY about.buildIdentifier        "Identificação da compilação: ">

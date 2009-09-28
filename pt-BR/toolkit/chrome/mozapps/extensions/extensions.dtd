@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "L">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Localizar atualizações de suas extensões">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Localizar atualizações de seus temas">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Localizar atualizações de seus plugins">
 <!ENTITY cmd.installLocalFile.label       "Instalar…">
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Instalar um complemento">
 <!ENTITY cmd.installFileTheme.tooltip     "Instalar um tema">
-<!ENTITY cmd.installUpdatesAll.label      "Instalar atualizações">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Instalar as atualizações selecionadas">
+<!ENTITY cmd.installUpdatesAll2.label     "Instalar atualizações">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Instalar as atualizações selecionadas">
 <!ENTITY cmd.restartApp2.label            "Reiniciar o &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "Reiniciar o &brandShortName; para aplicar as alterações">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Necessita de itens adicionais.">
 <!ENTITY blocklisted.label                "Desativado para sua proteção.">
 <!ENTITY softBlocklisted.label            "Sabida causa de problemas de segurança ou estabilidade.">
+<!ENTITY outdated.label                   "Uma versão mais recente e segura está disponível.">
 <!ENTITY toBeDisabled.label               "Este complemento será desativado quando o &brandShortName; for reiniciado.">
 <!ENTITY toBeEnabled.label                "Este complemento será ativado quando o &brandShortName; for reiniciado.">
 <!ENTITY toBeInstalled.label              "Este complemento será instalado quando o &brandShortName; for reiniciado.">
@@ -125,7 +127,7 @@
 
 <!ENTITY searchAddons.label               "Pesquisar complementos">
 <!ENTITY browseAddons.label               "Exibir todos os complementos">
-<!ENTITY searchFailed.label               "O &brandShortName; não conseguiu carregar os complementos">
+<!ENTITY searchFailed.label               "O &brandShortName; não conseguiu carregar complementos">
 <!ENTITY recommendedHeader.label          "Recomendações">
 <!ENTITY recommendedThrobber.label        "Carregando as recomendações">
 <!ENTITY searchThrobber.label             "Pesquisando complementos">
