@@ -2,8 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Paramètres des comptes Courrier et Groupes">
 
-<!ENTITY addAccountButton.label "Ajouter un compte…">
-<!ENTITY addAccountButton.accesskey "A">
+<!ENTITY accountActionsButton.label "Gestion des comptes">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Ajouter un compte de messagerie…">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "Ajouter un autre compte…">
+<!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Compte par défaut">
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Supprimer le compte">
