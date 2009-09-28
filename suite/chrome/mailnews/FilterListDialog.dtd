@@ -1,4 +1,4 @@
-<!ENTITY window.title "Фильтры сообщений">
+<!ENTITY filterListDialog.title "Фильтры сообщений">
 <!ENTITY nameColumn.label "Имя фильтра">
 <!ENTITY activeColumn.label "Включён">
 <!ENTITY newButton.label "Создать…">
@@ -24,5 +24,3 @@
 <!ENTITY folderPickerPrefix.accesskey "З">
 <!ENTITY choosethis.label "выбрать эту папку">
 <!ENTITY choosethisnewsserver.label "выбрать этот сервер новостей">
-<!ENTITY helpButton.label "Справка">
-<!ENTITY helpButton.accesskey "п">

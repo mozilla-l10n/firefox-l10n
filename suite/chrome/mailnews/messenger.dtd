@@ -509,7 +509,7 @@
 <!ENTITY folderContextSettings.label "Параметры…">
 <!ENTITY folderContextSettings.accesskey "а">
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectAndFrom.emptytext "Поиск по теме и отправителю">
+<!ENTITY searchSubjectOrAddress.emptytext "Поиск темы или адреса">
 <!ENTITY advancedButton.label "Дополнительно…">
 <!ENTITY advancedButton.accesskey "Д">
 <!ENTITY all.label "Все сообщения">
