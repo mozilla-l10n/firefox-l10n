@@ -11,7 +11,6 @@
 <!ENTITY aboutSupport.extensionName "Namme">
 <!ENTITY aboutSupport.extensionEnabled "Ynskeakele">
 <!ENTITY aboutSupport.extensionVersion "Ferzje">
-<!ENTITY aboutSupport.extensionFirstRun "EarsteKear">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Applikaasjebasis">
