@@ -469,12 +469,12 @@
 <!ENTITY totalColumn.label "Toplam">
 <!-- Toolbar items -->
 
-<!ENTITY getMsgButton.label "Get Msgs">
+<!ENTITY getMsgButton.label "İletileri indir">
 <!ENTITY newMsgButton.label "Yeni ileti">
 <!ENTITY newHTMLMessageCmd.label "HTML olarak yaz">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
-<!ENTITY newPlainTextMessageCmd.label "Compose in Plain Text">
-<!ENTITY newPlainTextMessageCmd.accesskey "P">
+<!ENTITY newPlainTextMessageCmd.label "Düz metin olarak yarat">
+<!ENTITY newPlainTextMessageCmd.accesskey "D">
 <!ENTITY replyButton.label "Yanıtla">
 <!ENTITY replyAllButton.label "Hepsini yanıtla">
 <!ENTITY forwardButton.label "İlet">
@@ -589,7 +589,7 @@
 <!-- focusSearchInput.key also used by addressbook -->
 
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectAndFrom.emptytext "Search Subject and From">
+<!ENTITY searchSubjectOrAddress.emptytext "Konu ve adreslerde ara">
 <!ENTITY advancedButton.label "Gelişmiş…">
 <!ENTITY advancedButton.accesskey "e">
 
@@ -597,7 +597,7 @@
 <!ENTITY all.accesskey "a">
 <!-- Junk Bar -->
 
-<!ENTITY junkBarMessage.label "&brandShortName; thinks this message is junk.">
+<!ENTITY junkBarMessage.label "&brandShortName; iletinin gereksiz olduğunu düşünüyor.">
 <!ENTITY junkBarButton.label "Gereksiz değil">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
@@ -606,5 +606,5 @@
 <!ENTITY loadRemoteContentButton.label "Harici içeriği göster">
 <!-- Phishing Bar -->
 
-<!ENTITY phishingBarMessage.label "&brandShortName; thinks this message might be an email scam.">
+<!ENTITY phishingBarMessage.label "&brandShortName; iletinin sahtekârlık girişimi olduğunu düşünüyor.">
 <!ENTITY removePhishingBarButton.label "Yemleme değil">
