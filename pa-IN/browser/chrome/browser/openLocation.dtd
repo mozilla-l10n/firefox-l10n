@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "ਫਾਇਲ ਚੁਣੋ...">
 <!ENTITY newWindow.label "ਨਵੀਂ ਵਿੰਡੋ">
 <!ENTITY newTab.label "ਨਵੀਂ ਟੈਬ">
-<!ENTITY topWindow.label "ਮੌਜੂਦਾ ਵਿੰਡੋ">
+<!ENTITY topTab.label "Current Tab">
 <!ENTITY caption.label "ਵੈੱਬ ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ">
 <!ENTITY openWhere.label "ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ:">
 <!ENTITY openBtn.label "ਖੋਲ੍ਹੋ">

@@ -6,6 +6,10 @@
 <!ENTITY  checking.title                  "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY  updateCheck.label               "&brandShortName; ਦੇ ਨਵੇਂ ਵਰਜਨਾਂ ਲਈ ਖੋਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 
+<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
+<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
+<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+
 <!ENTITY  noupdatesfound.title            "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ ਹੈ">
 <!ENTITY  noupdatesautoenabled.intro      "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। &brandShortName; ਅੱਪਡੇਟ ਲਈ ਲਗਾਤਾਰ ਚੈੱਕ ਕਰਦਾ ਰਹੇਗਾ।">
 <!ENTITY  noupdatesautodisabled.intro     "ਕੋਈ ਵੀ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। ਜਾਂ ਤਾਂ ਬਾਅਦ ਵਿੱਚ ਚੈੱਕ ਕਰੋ ਜਾਂ 
