@@ -635,6 +635,8 @@
 <!ENTITY CopyEmailAddress.accesskey "К">
 <!ENTITY CopyNewsgroupName.label "Копировать имя группы новостей">
 <!ENTITY CopyNewsgroupName.accesskey "п">
+<!ENTITY CopyNewsgroupURL.label "Копировать URL группы новостей">
+<!ENTITY CopyNewsgroupURL.accesskey "и">
 <!ENTITY CreateFilterFrom.label "Создать фильтр из…">
 <!ENTITY CreateFilterFrom.accesskey "ф">
 <!ENTITY reportPhishingURL.label "Сообщить о мошенническом письме">

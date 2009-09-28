@@ -34,15 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.junk.title "Спам">
+<!ENTITY pref.junk.title "Спам и подозрительная почта">
 <!ENTITY junkSettings.caption "Общие настройки анти-спам фильтров">
 <!ENTITY junkMail.intro "Для установки настроек анти-спам фильтра специфичных для учетной записи перейдите в параметры учетной записи.">
 <!ENTITY manualMark.label "Когда я сам помечаю сообщения как спам:">
-<!ENTITY manualMark.accesskey "К">
+<!ENTITY manualMark.accesskey "о">
 <!ENTITY manualMarkModeMove.label "Перемещать их в папку «Спам» учетной записи">
-<!ENTITY manualMarkModeMove.accesskey "П">
+<!ENTITY manualMarkModeMove.accesskey "м">
 <!ENTITY manualMarkModeDelete.label "Удалять их">
-<!ENTITY manualMarkModeDelete.accesskey "У">
+<!ENTITY manualMarkModeDelete.accesskey "д">
 <!ENTITY markAsRead.intro "Отметить сообщения, как прочитанные:">
 <!ENTITY autoMarkAsRead.label "Когда &brandShortName; определяет, что они являются спамом">
 <!ENTITY autoMarkAsRead.accesskey "п">
@@ -53,4 +53,11 @@
 <!ENTITY openJunkLog.label "Показать журнал">
 <!ENTITY openJunkLog.accesskey "к">
 <!ENTITY resetTrainingData.label "Удалить данные обучения, имеющиеся в адаптивном фильтре">
-<!ENTITY resetTrainingData.accesskey "д">
+<!ENTITY resetTrainingData.accesskey "и">
+<!ENTITY pref.suspectMail.caption "Подозрительная почта">
+<!ENTITY pref.phishing.caption "Мошеннические письма">
+<!ENTITY enablePhishingDetector.label "Информировать, не является ли читаемое мною сообщение подозрительным письмом, рассылаемым мошенниками">
+<!ENTITY enablePhishingDetector.accesskey "ф">
+<!ENTITY pref.antivirus.caption "Работа с антивирусом">
+<!ENTITY antiVirus.label "Облегчить для антивируса сканирование входящих сообщений">
+<!ENTITY antiVirus.accesskey "л">

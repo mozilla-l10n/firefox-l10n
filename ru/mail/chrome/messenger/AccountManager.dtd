@@ -1,6 +1,10 @@
 <!ENTITY accountManagerTitle.label "Параметры учётной записи">
-<!ENTITY addAccountButton.label "Добавить учётную запись…">
-<!ENTITY addAccountButton.accesskey "Д">
+<!ENTITY accountActionsButton.label "Действия для учётной записи">
+<!ENTITY accountActionsButton.accesskey "с">
+<!ENTITY addMailAccountButton.label "Добавить учётную запись почты…">
+<!ENTITY addMailAccountButton.accesskey "б">
+<!ENTITY addOtherAccountButton.label "Добавить другую учётную запись…">
+<!ENTITY addOtherAccountButton.accesskey "в">
 <!ENTITY setDefaultButton.label "Установить по умолчанию">
 <!ENTITY setDefaultButton.accesskey "п">
 <!ENTITY removeButton.label "Удалить учётную запись">
