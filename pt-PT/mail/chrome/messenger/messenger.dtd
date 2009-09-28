@@ -7,8 +7,6 @@
 <!ENTITY newFolderCmd.accesskey "P">
 <!ENTITY closeTabCmd.label "Fechar Separador">
 <!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Fechar outros separadoress">
-<!ENTITY closeOtherTabsCmd.accesskey "h">
 <!ENTITY newVirtualFolderCmd.label "Pasta de pesquisa...">
 <!ENTITY newVirtualFolderCmd.accesskey "A">
 <!ENTITY newOtherAccountsCmd.label "Outras contas...">
@@ -630,8 +628,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "S">
 <!ENTITY contextEditAsNew.label "Editar como novo...">
 <!ENTITY contextEditAsNew.accesskey "D">
-<!ENTITY contextArchive.label "Arquivo">
-<!ENTITY contextArchive.accesskey "q">
 <!ENTITY contextReplySender.label "Responder apenas ao remetente">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Responder ao grupo de discussão">
@@ -657,16 +653,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Pré-visualizar impressão">
 <!ENTITY contextPrintPreview.accesskey "v">
 
-<!-- Media (video/audio) controls -->
-<!ENTITY contextPlay.label "Reproduzir">
-<!ENTITY contextPlay.accesskey "P">
-<!ENTITY contextPause.label "Pausa">
-<!ENTITY contextPause.accesskey "P">
-<!ENTITY contextMute.label "Sem som">
-<!ENTITY contextMute.accesskey "S">
-<!ENTITY contextUnmute.label "Som">
-<!ENTITY contextUnmute.accesskey "m">
-
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Lixo electrónico.">
 <!ENTITY junkBarButton1.label "Isto não é lixo">
@@ -684,6 +670,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "mais">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText "Procurar mensagens…">
+<!ENTITY glodaSearchBar.facet.label "Procurar:">
+<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+       "everything" searches over subject, involves, body, and attachments.
+       "subject" searches only messages subjects.
+       "involves" searches only message to/from/cc/bcc.
+       "to" searches only message to/cc.
+       "from" searches only message using "from" (the message author).
+       "body" searches only message bodies, which does not include message
+           attachment names or the content of the attachments.  Message body
+           basically means a message part with a content-type of text/*.
+    -->
+<!ENTITY glodaSearchFacet.everything.label "Tudo">
+<!ENTITY glodaSearchFacet.subject.label "Assunto">
+<!ENTITY glodaSearchFacet.involves.label "Involves (de,para,cc,bcc)">
+<!ENTITY glodaSearchFacet.to.label "Para, CC">
+<!ENTITY glodaSearchFacet.from.label "De">
+<!ENTITY glodaSearchFacet.body.label "Texto da mensagem">
+<!ENTITY glodaSearchFacet.attachmentNames.label "Nomes dos anexos">
+
+<!ENTITY glodaSearchBar.location.label "Localização:">
+<!ENTITY glodaSearchFacet.everywhere.label "Todas as pastas">
+<!ENTITY glodaSearchFacet.folder.label "Numa pasta específica…">
+ 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchEverywhere.label "Procurar em todos os locais">
@@ -697,14 +708,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Ver contacto">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SubscribeToNewsgroup.label "Subscrever a grupo de notícias">
-<!ENTITY SubscribeToNewsgroup.accesskey "n">
-<!ENTITY SendMessageTo.label "Compor mensagem para">
-<!ENTITY SendMessageTo.accesskey "s">
+<!ENTITY SendMailTo.label "Nova mensagem para">
+<!ENTITY SendMailTo.accesskey "n">
 <!ENTITY CopyEmailAddress.label "Copiar endereço de correio">
 <!ENTITY CopyEmailAddress.accesskey "A">
-<!ENTITY CopyNewsgroupName.label "Copiar nome do grupo de notícias">
-<!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Criar filtro De...">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Denunciar Tentativa de Engodo">
