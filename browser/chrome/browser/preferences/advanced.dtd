@@ -55,8 +55,8 @@
 <!ENTITY autoCheck.label                 "ਅੱਪਡੇਟ ਲਈ ਆਟੋਮੈਟਿਕ ਹੀ ਚੈੱਕ ਕਰੋ:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "ਇੰਸਟਾਲ ਹੋਈਆਂ ਐਂਡ-ਆਨ">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableAddonsUpdate2.label       "Add-ons">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "ਖੋਜ ਇੰਜਣ">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          "ਜਦੋਂ &brandShortName; ਲਈ ਅੱਪਡੇਟ ਮਿਲੇ ਤਾਂ:">

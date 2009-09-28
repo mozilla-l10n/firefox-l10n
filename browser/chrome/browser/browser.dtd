@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "ਨਵੀਂ ਟੈਬ">
 <!ENTITY tabCmd.accesskey "T">
@@ -30,6 +28,8 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "...ਇੰਪੋਰਟ">
 <!ENTITY import.accesskey "I">
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 
 <!ENTITY goOfflineCmd.label "ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -50,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ">
 <!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Show All Tabs">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "ਨਿਊਨਤਮ">
 <!ENTITY fullScreenRestore.tooltip "ਮੁੜ ਸਟੋਰ">
@@ -90,6 +93,7 @@
 <!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ ਉੱਤੇ ਜਾਓ">
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਪੇਜ਼ ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY feedButton.tooltip           "Subscribe to this page…">
 
 <!ENTITY locationItem.title           "ਟਿਕਾਣਾ">
 <!ENTITY searchItem.title             "ਖੋਜ">
@@ -101,14 +105,13 @@
 
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
-
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 
 <!ENTITY historyButton.label            "ਅਤੀਤ">
@@ -208,7 +211,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ (ਹਿਸਟਰੀ) ਖੋਜ">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.bookmarkhistory.emptyText "ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਖੋਜ">
 <!ENTITY urlbar.bookmark.emptyText    "ਬੁੱਕਮਾਰਕ ਖੋਜ">
@@ -323,8 +325,6 @@
 <!ENTITY copyAudioURLCmd.label        "ਆਡੀਓ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "B">
-<!ENTITY metadataCmd.label            "ਵਿਸ਼ੇਸ਼ਤਾ">
-<!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "ਈਮੇਲ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ਇਹ ਫਰੇਮ">
@@ -378,6 +378,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "ਕੱਟੋ">
 <!ENTITY copyButton.tooltip             "ਕਾਪੀ ਕਰੋ">
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
+<!ENTITY fullScreenButton.tooltip       "Display the window in full screen">
 
 <!ENTITY quitApplicationCmdWin.label       "ਬੰਦ ਕਰੋ">
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -460,4 +461,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਕਲਿੱਕ ਕਰੋ">
 
-<!ENTITY ctrlTab.search.emptyText "ਟੈਬ ਖੋਜ">
+<!ENTITY allTabs.filter.emptyText "Search Tabs">
+

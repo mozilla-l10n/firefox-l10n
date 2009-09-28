@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "ਆਪਣੇ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਖੋਜੋ">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "ਆਪਣੇ ਥੀਮ ਲਈ ਅੱਪਡੇਟ ਖੋਜੋ">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Finds Updates to your Plugins">
 <!ENTITY cmd.installLocalFile.label       "ਇੰਸਟਾਲ ਕਰੋ...">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "ਇੱਕ ਐਡਆਨ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY cmd.installFileTheme.tooltip     "ਥੀਮ ਇੰਸਟਾਲ ਕਰੋ">
-<!ENTITY cmd.installUpdatesAll.label      "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "ਚੁਣੇ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY cmd.installUpdatesAll2.label     "Install Updates">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Install the selected updates">
 <!ENTITY cmd.restartApp2.label            "&brandShortName; ਮੁੜ-ਸਟਾਰਟ ਕਰੋ">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਲਈ &brandShortName;  ਮੁੜ-ਸਟਾਰਟ ਕਰੋ">
@@ -114,6 +115,7 @@
 <!ENTITY needsDependencies.label          "ਹੋਰ ਆਈਟਮਾਂ ਦੀ ਲੋੜ ਹੈ।">
 <!ENTITY blocklisted.label                "ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਆਯੋਗ ਹੈ।">
 <!ENTITY softBlocklisted.label            "ਸੁਰੱਖਿਆ ਜਾਂ ਸਥਿਰਤਾ ਮੁੱਦੇ ਪੈਦਾ ਕਰਨ ਲਈ ਪਛਾਣ।">
+<!ENTITY outdated.label                   "A newer, safer version is available.">
 <!ENTITY toBeDisabled.label               "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਨੂੰ ਆਯੋਗ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY toBeEnabled.label                "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਨੂੰ ਯੋਗ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY toBeInstalled.label              "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕੀਤੀ ਜਾਵੇਗੀ।">

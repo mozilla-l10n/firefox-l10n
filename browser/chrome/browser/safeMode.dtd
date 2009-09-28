@@ -49,8 +49,8 @@
 <!ENTITY resetToolbars.label          "ਟੂਲਬਾਰ ਅਤੇ ਕੰਟਰੋਲ ਮੁੜ-ਸੈੱਟ">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ &brandShortName; ਡਿਫਾਲਟ ਬਣਾਓ">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "ਸਭ ਯੂਜ਼ਰ ਪਸੰਦਾਂ ਨੂੰ &brandShortName; ਡਿਫਾਲਟ ਬਣਾਓ">
 <!ENTITY resetUserPrefs.accesskey     "p">

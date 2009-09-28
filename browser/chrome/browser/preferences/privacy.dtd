@@ -10,25 +10,6 @@
 <!ENTITY  locbar.bookmarks.label        "ਬੁੱਕਮਾਰਕ">
 <!ENTITY  locbar.nothing.label          "ਕੁਝ ਨਹੀਂ">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "ਮੇਰਾ ਅਤੀਤ ਘੱਟੋ-ਘੱਟ ">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      " ਦਿਨ ਰੱਖੋ">
-
-<!ENTITY  rememberForms.label           "ਮੈਂ ਜੋ ਵੀ ਫਾਰਮ ਅਤੇ ਖੋਜ ਪੱਟੀ ਵਿੱਚ ਜੋ ਵੀ ਭਰਾਂ, ਉਹ ਯਾਦ ਰੱਖੋ">
-<!ENTITY  rememberForms.accesskey       "f">
-
-<!ENTITY  rememberDownloads.label       "ਮੈਂ ਜੋ ਵੀ ਡਾਊਨਲੋਡ ਕਰਾਂ, ਉਹ ਯਾਦ ਰੱਖੋ">
-<!ENTITY  rememberDownloads.accesskey   "d">
-
-
-<!ENTITY  cookies.label                 "ਕੂਕੀਜ਼">
-
 <!ENTITY  acceptCookies.label           "ਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ ਕਰੋ">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -48,14 +29,6 @@
 <!ENTITY  showCookies.label             "ਕੂਕੀਜ਼ ਵੇਖੋ…">
 <!ENTITY  showCookies.accesskey         "S">
 
-
-<!ENTITY  privateData.label             "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ">
-
-<!ENTITY  alwaysClear.label              "ਜਦੋਂ ਮੈਂ &brandShortName; ਬੰਦ ਕਰਾਂ ਤਾਂ ਹਮੇਸਾਂ ਮੇਰਾ ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY  alwaysClear.accesskey          "w">
-
-<!ENTITY  clearDataSettings.label        "ਸੈਟਿੰਗ…">
-<!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ਯਾਦ ਰੱਖੇਗਾ:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -107,7 +80,4 @@
 
 <!ENTITY  clearOnCloseSettings.label     "ਸੈਟਿੰਗ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY  clearDataNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ…">
-<!ENTITY  clearDataNow.accesskey         "N">
 

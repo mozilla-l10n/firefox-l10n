@@ -70,6 +70,9 @@
 <!ENTITY cmd.edit_redo.label        "ਰੀ-ਡੂ">
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.bookmarkLink.label         "Bookmark This Page…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "ਇਹ ਪੇਜ਼ ਹਟਾਓ">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "ਇਸ ਸਾਈਟ ਬਾਰੇ ਭੁੱਲ ਜਾਓ">
@@ -194,11 +197,11 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "ਪਿੱਛੇ">
-<!ENTITY backCmd.accesskey   "B">
+
 <!ENTITY backButton.tooltip  "ਪਿੱਛੇ ਜਾਓ">
 
 <!ENTITY forwardCmd.label       "ਅੱਗੇ">
-<!ENTITY forwardCmd.accesskey   "F">
+
 <!ENTITY forwardButton.tooltip  "ਅੱਗੇ ਜਾਓ">
 
 <!ENTITY detailsPane.more.label "ਹੋਰ">

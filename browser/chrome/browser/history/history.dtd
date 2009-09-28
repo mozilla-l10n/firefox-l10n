@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "ਇਹ ਲਿੰਕ ਬੁੱਕਮਾਰਕ ਕਰੋ...">
-<!ENTITY bookmarkLink.accesskey "B">
 <!ENTITY copyLink.label "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyLink.accesskey "C">

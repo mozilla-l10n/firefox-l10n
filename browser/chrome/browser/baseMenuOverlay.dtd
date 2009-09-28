@@ -36,6 +36,8 @@
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; ਓਹਲੇ">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "ਸਭ ਵੇਖੋ">
