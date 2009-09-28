@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegação privativa)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nova aba">
 <!ENTITY tabCmd.accesskey "N">
@@ -34,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Modo offline">
 <!ENTITY goOfflineCmd.accesskey "M">
 
+<!ENTITY menubarCmd.label "Menus">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navegação">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Favoritos">
@@ -46,10 +46,13 @@
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.commandkey "U">
 <!ENTITY pageInfoCmd.label "Propriedades da página">
-<!ENTITY pageInfoCmd.accesskey "r">
+<!ENTITY pageInfoCmd.accesskey "P">
 <!ENTITY pageInfoCmd.commandkey "I">
 <!ENTITY fullScreenCmd.label "Tela inteira">
 <!ENTITY fullScreenCmd.accesskey "T">
+<!ENTITY fullScreenCmd.macCommandKey "F">
+<!ENTITY showAllTabsCmd.label "Exibir todas as abas">
+<!ENTITY showAllTabsCmd.accesskey "x">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -88,6 +91,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Interromper o carregamento">
 <!ENTITY goEndCap.tooltip             "Abrir a página">
+<!ENTITY feedButton.tooltip           "Inscrever RSS">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir a página">
 
@@ -101,13 +105,13 @@
 
 <!ENTITY bookmarksButton.label          "Favoritos">
 <!ENTITY bookmarksButton.tooltip        "Exibir o painel com os favoritos">
-<!ENTITY bookmarksSidebarCmd.accesskey  "v">
-<!ENTITY bookmarksSidebarCmd.commandkey "B">
+<!ENTITY bookmarksButton.accesskey  "v">
+<!ENTITY bookmarksCmd.commandkey "B">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "I">
+<!ENTITY bookmarksGtkCmd.commandkey "O">
+<!ENTITY bookmarksWinCmd.commandkey "I">
 
 <!ENTITY historyButton.label            "Histórico">
 <!ENTITY historyButton.tooltip          "Exibir o painel com o histórico de páginas visitadas">
@@ -120,7 +124,7 @@
 <!ENTITY keywordfield.label           "Criar palavra-chave da pesquisa…">
 <!ENTITY keywordfield.accesskey       "r">
 <!ENTITY search.label                 "Pesquisar na web">
-<!ENTITY search.accesskey             "P">
+<!ENTITY search.accesskey             "e">
 <!ENTITY downloads.label              "Downloads">
 <!ENTITY downloads.tooltip            "Verificar o andamento dos downloads">
 <!ENTITY downloads.accesskey          "D">
@@ -198,7 +202,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "L">
-<!ENTITY urlbar.emptyText             "Localizar no histórico e favoritos">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Localizar no histórico e favoritos">
 <!ENTITY urlbar.bookmark.emptyText    "Localizar nos favoritos">
 <!ENTITY urlbar.history.emptyText     "Localizar no histórico">
@@ -312,8 +315,6 @@
 <!ENTITY copyAudioURLCmd.label        "Copiar endereço do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "u">
-<!ENTITY metadataCmd.label            "Propriedades do elemento">
-<!ENTITY metadataCmd.accesskey        "i">
 <!ENTITY copyEmailCmd.label           "Copiar email">
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Este frame">
@@ -368,6 +369,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Recortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Colar">
+<!ENTITY fullScreenButton.tooltip       "Exibir esta janela no modo tela inteira">
 
 <!ENTITY quitApplicationCmdWin.label       "Sair"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
@@ -444,4 +446,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Clique para abrir a janela de downloads">
 
-<!ENTITY ctrlTab.search.emptyText "Localizar aba">
+<!ENTITY allTabs.filter.emptyText "Localizar abas">

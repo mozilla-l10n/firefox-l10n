@@ -43,14 +43,14 @@
 <!ENTITY safeModeDescription.label    "O &brandShortName; está sendo executado no modo de segurança. Preferências, extensões e temas estão temporariamente desativados.">
 <!ENTITY safeModeDescription2.label   "Você pode fazer com que todas ou algumas destas alterações sejam permanentes: ">
 
-<!ENTITY disableAddons.label          "Desativar todos os complementos">
+<!ENTITY disableAddons.label          "Desativar todas as extensões, temas e plugins">
 <!ENTITY disableAddons.accesskey      "D">
 
 <!ENTITY resetToolbars.label          "Restaurar barras de ferramentas e controles">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "Restaurar favoritos para o padrão do &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "e">
+<!ENTITY deleteBookmarks.label        "Excluir todos os favoritos (exceto os backups)">
+<!ENTITY deleteBookmarks.accesskey    "E">
 
 <!ENTITY resetUserPrefs.label         "Restaurar todas as preferências para o padrão do &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "s">
