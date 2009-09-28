@@ -56,14 +56,14 @@
 <!ENTITY newFolderCmd.label "Dossier…">
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY newVirtualFolderCmd.label "Dossier virtuel…">
-<!ENTITY newVirtualFolderCmd.accesskey "r">
+<!ENTITY newVirtualFolderCmd.accesskey "v">
 <!ENTITY newTabCmd.label "Dupliquer l'onglet">
 <!ENTITY newTabCmd.accesskey "u">
 <!ENTITY newTabCmd.key "t">
 <!ENTITY closeTabCmd.label "Fermer l'onglet">
 <!ENTITY closeTabCmd.accesskey "F">
 <!ENTITY newAccountCmd.label "Compte…">
-<!ENTITY newAccountCmd.accesskey "p">
+<!ENTITY newAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label           "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label            "Pièces jointes">
@@ -76,7 +76,7 @@
 <!ENTITY saveAsTemplateCmd.label "Modèle">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
 <!ENTITY getNewMsgCmd.label "Relever les nouveaux messages">
-<!ENTITY getNewMsgCmd.accesskey "R">
+<!ENTITY getNewMsgCmd.accesskey "e">
 <!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Relever les nouveaux messages pour">
 <!ENTITY getNewMsgForCmd.accesskey "l">
@@ -85,7 +85,7 @@
 <!ENTITY getAllNewMsgCmd.label "Relever tous les nouveaux messages">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Relever les 500 prochains messages">
-<!ENTITY getNextNMsgCmd.accesskey "s">
+<!ENTITY getNextNMsgCmd.accesskey "m">
 <!ENTITY sendUnsentCmd.label "Envoyer les messages en attente">
 <!ENTITY sendUnsentCmd.accesskey "a">
 <!ENTITY subscribeCmd.label "S'abonner…">
@@ -97,7 +97,7 @@
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
 <!ENTITY emptyTrashCmd.accesskey "V">
 <!ENTITY offlineMenu.label                  "Hors connexion">
-<!ENTITY offlineMenu.accesskey "H">
+<!ENTITY offlineMenu.accesskey "x">
 <!ENTITY synchronizeOfflineCmd.label "Synchroniser…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Paramètres hors connexion…">
@@ -110,13 +110,13 @@
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.accesskey "u">
 <!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "M">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Supprimer le message">
-<!ENTITY deleteMsgCmd.accesskey "S">
+<!ENTITY deleteMsgCmd.accesskey "e">
 <!ENTITY undeleteMsgCmd.label               "Restaurer le message">
 <!ENTITY undeleteMsgCmd.accesskey "R">
 <!ENTITY cancelNewsMsgCmd.label "Annuler le message">
@@ -164,7 +164,7 @@
 <!ENTITY showSearchToolbarCmd.accesskey "e">
 
 <!ENTITY showLocationToolbarCmd.label "Afficher la barre d'adresse">
-<!ENTITY showLocationToolbarCmd.accesskey "l">
+<!ENTITY showLocationToolbarCmd.accesskey "a">
 
 <!ENTITY messagePaneLayoutStyle.label "Disposition">
 <!ENTITY messagePaneLayoutStyle.accesskey "p">
@@ -183,7 +183,7 @@
 
 <!-- sortMenu is also used by addressbook -->
 <!ENTITY sortMenu.label "Trier par">
-<!ENTITY sortMenu.accesskey "T">
+<!ENTITY sortMenu.accesskey "p">
 
 <!ENTITY sortByDateCmd.label "Date">
 <!ENTITY sortByDateCmd.accesskey "D">
@@ -350,10 +350,10 @@
 <!ENTITY replyToAllRecipientsCmd.label "Répondre à tous les destinataires">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "Faire suivre">
-<!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardMsgCmd.accesskey "s">
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Faire suivre au format">
-<!ENTITY forwardAsMenu.accesskey "o">
+<!ENTITY forwardAsMenu.accesskey "u">
 <!ENTITY forwardAsInline.label "Intégré">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Pièce jointe">
@@ -449,19 +449,19 @@
 <!ENTITY searchAddressesCmd.label           "Rechercher dans les adresses…">
 <!ENTITY searchAddressesCmd.accesskey "a">
 <!ENTITY filtersCmd.label "Filtres de messages…">
-<!ENTITY filtersCmd.accesskey "i">
+<!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Appliquer les filtres sur ce dossier">
-<!ENTITY filtersApply.accesskey "l">
+<!ENTITY filtersApply.accesskey "d">
 <!ENTITY filtersApplyToSelection.label "Appliquer les filtres sur les messages sélectionnés">
-<!ENTITY filtersApplyToSelection.accesskey "A">
+<!ENTITY filtersApplyToSelection.accesskey "g">
 <!ENTITY filtersApplyToMessage.label "Appliquer les filtres sur le message">
-<!ENTITY filtersApplyToMessage.accesskey "m">
+<!ENTITY filtersApplyToMessage.accesskey "g">
 <!ENTITY runJunkControls.label "Traquer les indésirables dans le dossier">
 <!ENTITY runJunkControls.accesskey "q">
 <!ENTITY deleteJunk.label "Supprimer les indésirables de ce dossier">
-<!ENTITY deleteJunk.accesskey "e">
+<!ENTITY deleteJunk.accesskey "u">
 <!ENTITY importCmd.label "Importer…">
-<!ENTITY importCmd.accesskey "I">
+<!ENTITY importCmd.accesskey "p">
 
 <!-- Folder Pane -->
 <!ENTITY nameColumn.label "Nom">
@@ -535,7 +535,7 @@
 <!ENTITY contextReplySenderAndNewsgroup.label "Répondre à l'exp. et dans le groupe">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
 <!ENTITY contextForward.label "Faire suivre">
-<!ENTITY contextForward.accesskey "F">
+<!ENTITY contextForward.accesskey "s">
 <!ENTITY contextForwardAsAttachment.label "Faire suivre comme pièce jointe">
 <!ENTITY contextForwardAsAttachment.accesskey "j">
 <!ENTITY contextMoveMsgMenu.label "Déplacer vers">
@@ -589,7 +589,7 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectAndFrom.emptytext "Rechercher dans le sujet et l'expéditeur">
+<!ENTITY searchSubjectOrAddress.emptytext "Rechercher dans le sujet et l'adresse">
 <!ENTITY advancedButton.label               "Avancé…">
 <!ENTITY advancedButton.accesskey "v">
 
