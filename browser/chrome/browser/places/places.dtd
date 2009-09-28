@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "Y">
 
+<!ENTITY cmd.bookmarkLink.label         "Adicionar aos favoritos…">
+<!ENTITY cmd.bookmarkLink.accesskey     "d">
 <!ENTITY cmd.delete.label               "Excluir esta página">
 <!ENTITY cmd.delete.accesskey           "x">
 <!ENTITY cmd.deleteDomainData.label     "Limpar tudo sobre este site">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Voltar">
-<!ENTITY backCmd.accesskey   "V">
 <!ENTITY backButton.tooltip  "Voltar">
 
 <!ENTITY forwardCmd.label       "Avançar">
-<!ENTITY forwardCmd.accesskey   "A">
 <!ENTITY forwardButton.tooltip  "Avançar">
 
 <!ENTITY detailsPane.more.label "Mais">

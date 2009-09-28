@@ -12,37 +12,30 @@
 <!ENTITY helpMenuWin.accesskey    "u">
 <!ENTITY aboutCmd.label           "Sobre o &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "S">
-<!ENTITY helpContents.label       "Conteúdo da ajuda">
-<!ENTITY helpContents.accesskey   "C">
-<!ENTITY helpContentsMac.label    "Ajuda do &brandShortName;">
+<!ENTITY productHelp.label        "Ajuda do &brandShortName;">
+<!ENTITY productHelp.accesskey    "u">
 <!ENTITY helpForIEUsers.label     "Para usuários do Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "P">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Notas da versão">
 <!ENTITY helpReleaseNotes.accesskey     "N">
+
+<!ENTITY helpTroubleshooting.label      "Dados para solução de problemas…">
+<!ENTITY helpTroubleshooting.accesskey  "a">
+
 <!ENTITY updateCmd.label                "Verificar atualizações…">
-<!ENTITY updateCmd.accesskey            "e">
 
 <!ENTITY preferencesCmdMac.label        "Preferências…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Serviços">
 
 <!ENTITY hideThisAppCmdMac.label        "Ocultar &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ocultar Outros">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostrar Tudo">
