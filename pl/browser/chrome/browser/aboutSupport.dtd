@@ -12,7 +12,6 @@
 <!ENTITY aboutSupport.extensionName "Nazwa">
 <!ENTITY aboutSupport.extensionEnabled "Włączone">
 <!ENTITY aboutSupport.extensionVersion "Wersja">
-<!ENTITY aboutSupport.extensionFirstRun "Pierwsze uruchomienie">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Informacje o aplikacji">
