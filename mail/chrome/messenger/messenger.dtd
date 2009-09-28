@@ -710,7 +710,9 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY CopyEmailAddress.label "Copier l'adresse électronique">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CopyNewsgroupName.label "Copier le nom du groupe de discussion">
-<!ENTITY CopyNewsgroupName.accesskey "o">
+<!ENTITY CopyNewsgroupName.accesskey "g">
+<!ENTITY CopyNewsgroupURL.label "Copier l'adresse du groupe de discussion">
+<!ENTITY CopyNewsgroupURL.accesskey "d">
 <!ENTITY CreateFilterFrom.label "Créer un filtre…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Signaler un courrier frauduleux">
