@@ -13,7 +13,7 @@
 <!ENTITY safeb.palm.decline.label "ਇਹ ਚੇਤਾਵਨੀ ਅਣਡਿੱਠੀ ਕਰੋ">
 <!ENTITY safeb.palm.decline.statustext "ਚੇਤਾਵਨੀ ਬੰਦ ਕਰੋ" >
 <!ENTITY safeb.palm.notforgery.label2 "ਇਹ ਵੈੱਬ ਧੋਖਾਧੜੀ ਨਹੀਂ ਹੈ…">
-<!ENTITY safeb.palm.report.label "ਇਹ ਸਾਈਟ ਬਲੌਕ ਕਿਓ ਕੀਤੀ ਗਈ ਹੈ?">
+<!ENTITY safeb.palm.reportPage.label "ਇਹ ਪੇਜ਼ ਬਲੌਕ ਕਿਉਂ ਕੀਤਾ ਗਿਆ ਸੀ?">
 
 <!ENTITY safeb.blocked.malwarePage.title "ਹਮਲਾਵਰ ਪੇਜ਼ ਵਜੋਂ ਰਿਪੋਰਟ ਕੀਤਾ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
