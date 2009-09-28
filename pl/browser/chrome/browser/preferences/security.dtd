@@ -33,10 +33,3 @@
 
 <!ENTITY  savedPasswords.label          "Zapamiętane hasła…">
 <!ENTITY  savedPasswords.accesskey      "h">
-
-<!ENTITY  warnings.label                "Ostrzeżenia">
-
-<!ENTITY  chooseWarnings.label          "Określ, które ostrzeżenia mają się pojawiać podczas przeglądania">
-
-<!ENTITY  warningSettings.label         "Ustawienia…">
-<!ENTITY  warningSettings.accesskey     "t">
