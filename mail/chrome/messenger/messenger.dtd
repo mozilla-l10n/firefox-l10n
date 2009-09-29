@@ -720,8 +720,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "d">
 <!ENTITY saveImageAsCmd.label "Afbeelding opslaan als…">
 <!ENTITY saveImageAsCmd.accesskey "p">
+<!ENTITY cutCmd.label "Knippen">
+<!ENTITY cutCmd.accesskey "n">
 <!ENTITY copyCmd.label "Kopiëren">
 <!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Plakken">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectAllCmd.label "Alles selecteren">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Koppelingslocatie kopiëren">
@@ -730,6 +734,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "E-mailadres kopiëren">
 <!ENTITY copyEmailCmd.accesskey "m">
+<!ENTITY stopCmd.label "Stoppen">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "Vernieuwen">
+<!ENTITY reloadCmd.accesskey "V">
+
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Klaar">
