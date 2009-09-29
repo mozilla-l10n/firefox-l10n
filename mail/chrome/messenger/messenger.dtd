@@ -707,6 +707,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "A">
 <!ENTITY CopyNewsgroupName.label "Copiar nome do grupo de notícias">
 <!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Copiar URL do grupo de notícias">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Criar filtro De...">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Denunciar Tentativa de Engodo">
@@ -717,8 +719,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "G">
 <!ENTITY saveImageAsCmd.label "Guardar imagem como…">
 <!ENTITY saveImageAsCmd.accesskey "u">
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Colar">
+<!ENTITY pasteCmd.accesskey "o">
 <!ENTITY selectAllCmd.label "Seleccionar Tudo">
 <!ENTITY selectAllCmd.accesskey "T">
 <!ENTITY copyLinkCmd.label "Copiar Localização da Ligação">
@@ -727,6 +733,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageCmd.accesskey "m">
 <!ENTITY copyEmailCmd.label "Copiar Endereço de Correio">
 <!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "Parar">
+<!ENTITY stopCmd.accesskey "P">
+<!ENTITY reloadCmd.label "Recarregar">
+<!ENTITY reloadCmd.accesskey "R">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Concluído">

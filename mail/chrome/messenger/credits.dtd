@@ -1,7 +1,6 @@
-<!ENTITY credit.title "&brandFullName; Créditos">
-<!ENTITY brandMotto "Thunderbirds Are Go!">
-<!ENTITY credit.leads "Engineering Leads">
-<!ENTITY credit.thanks "Agradecimentos a">
+<!ENTITY credit.title     "&brandFullName; Créditos">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.thanks    "Agradecimentos a">
 
 <!-- localization credits look like this: -->
 <!--
@@ -10,8 +9,5 @@
 -->
 <!ENTITY credit.translation "<h3>Tradutores</h3><ul><li>Carlos Simão</li><li>João Miguel Neves</li><li>António Manuel Dias</li><li>André Pinto</li></ul>">
 
-<!ENTITY credit.theme "Desenho do Tema">
-<!ENTITY credit.qa "Segurança da Qualidade">
-<!ENTITY credit.build "Versão e Release">
-<!ENTITY credit.memory "Em memória de">
+<!ENTITY credit.memory         "Em memória de">
 <!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

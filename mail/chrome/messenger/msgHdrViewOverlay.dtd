@@ -66,6 +66,8 @@
 <!ENTITY trashButton.tooltiptext "eliminar">
 
 <!ENTITY otherActionsButton.label "outras acções">
+<!ENTITY otherActionsShowConversation.label "mostrar em conversasão">
+<!ENTITY otherActionsShowConversation.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow.label "abrir em nova janela">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "j">
 <!ENTITY otherActionsOpenInNewTab.label "abrir em novo separador">
