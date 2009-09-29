@@ -2,10 +2,14 @@
 
 <!ENTITY accountManagerTitle.label "Posta ve haber grubu hesap ayarları">
 
-<!ENTITY addAccountButton.label "Hesap ekle…">
-<!ENTITY addAccountButton.accesskey "H">
-<!ENTITY setDefaultButton.label "Öntanımlı olarak ayarla">
-<!ENTITY setDefaultButton.accesskey "o">
+<!ENTITY accountActionsButton.label "Hesap işlemleri">
+<!ENTITY accountActionsButton.accesskey "H">
+<!ENTITY addMailAccountButton.label "Posta hesabı ekle…">
+<!ENTITY addMailAccountButton.accesskey "P">
+<!ENTITY addOtherAccountButton.label "Diğer hesap ekle…">
+<!ENTITY addOtherAccountButton.accesskey "D">
+<!ENTITY setDefaultButton.label "Öntanımlı ata">
+<!ENTITY setDefaultButton.accesskey "n">
 <!ENTITY removeButton.label "Hesabı Sil">
 <!ENTITY removeButton.accesskey "H">
 <!-- AccountManager.xul -->

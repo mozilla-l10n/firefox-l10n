@@ -15,7 +15,7 @@
 <!ENTITY composingMessages.label "Düzenleme">
 <!ENTITY format.label "İleti biçemi">
 <!ENTITY return.label "Alındı onayı">
-<!ENTITY junk.label "Gereksiz">
+<!ENTITY junk.label "Gereksiz ve şüpheli posta">
 <!ENTITY tags.label "Etiketler">
 <!ENTITY characterEncoding.label "Karakter Kodlaması">
 <!ENTITY networkStorage.label "Ağ ve depolama">
