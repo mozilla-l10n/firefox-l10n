@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "Tarihe göre postaları okunmuş olarak işaretle">
-<!ENTITY markByDateLower.label "Gönderene göre postaları okunmuş olarak işaretle:">
-<!ENTITY markByDateLower.accesskey "n">
-<!ENTITY markByDateUpper.accesskey "K">
-<!ENTITY markByDateUpper.label "Kime:">
+<!ENTITY messageMarkByDate.label "Tarihe göre iletileri okunmuş olarak işaretle">
+<!ENTITY markByDateLower.label "Okunmuş olarak işaretleme başlangıç tarihi:">
+<!ENTITY markByDateLower.accesskey "b">
+<!ENTITY markByDateUpper.accesskey "t">
+<!ENTITY markByDateUpper.label "Bitiş tarihi:">

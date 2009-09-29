@@ -4,4 +4,4 @@ creativecommons
 eBay
 google
 yahoo
-wikipedia-tr 
+wikipedia

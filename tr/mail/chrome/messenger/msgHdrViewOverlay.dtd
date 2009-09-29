@@ -66,6 +66,8 @@
 <!ENTITY trashButton.tooltiptext "Sil">
 
 <!ENTITY otherActionsButton.label "Diğer eylemler">
+<!ENTITY otherActionsShowConversation.label "Konuşma içinde göster">
+<!ENTITY otherActionsShowConversation.accesskey "K">
 <!ENTITY otherActionsOpenInNewWindow.label "Yeni pencerede aç">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "Y">
 <!ENTITY otherActionsOpenInNewTab.label "Yeni sekmede aç">

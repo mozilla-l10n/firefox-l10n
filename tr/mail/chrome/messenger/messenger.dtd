@@ -708,6 +708,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "k">
 <!ENTITY CopyNewsgroupName.label "Haber grubunun adını kopyala">
 <!ENTITY CopyNewsgroupName.accesskey "b">
+<!ENTITY CopyNewsgroupURL.label "Haber grubunun adresini kopyala">
+<!ENTITY CopyNewsgroupURL.accesskey "b">
 <!ENTITY CreateFilterFrom.label "Postadan süzgeç oluştur…">
 <!ENTITY CreateFilterFrom.accesskey "P">
 <!ENTITY reportPhishingURL.label "E-posta sahtekârlığını rapor et">

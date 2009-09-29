@@ -11,15 +11,15 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is mozilla.org code.
+   - The Original Code is Thunderbird Toolbar Customization Overlay.
    -
    - The Initial Developer of the Original Code is
-   - Frank Schoenheit <frank.schoenheit@gmx.de>
-   - Portions created by the Initial Developer are Copyright (C) 2003
+   - Mozilla Messaging, Inc.
+   - Portions created by the Initial Developer are Copyright (C) 2009
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Frank Schoenheit <frank.schoenheit@gmx.de>
+   -   Blake Winton <bwinton@latte.ca>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,8 +35,4 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "Tarihe göre iletileri okunmuş olarak işaretle">
-<!ENTITY markByDateLower.label "Okunmuş olarak işaretleme başlangıç tarihi:">
-<!ENTITY markByDateLower.accesskey "b">
-<!ENTITY markByDateUpper.label "Bitiş tarihi:">
-<!ENTITY markByDateUpper.accesskey "t">
+<!ENTITY iconsBesideText.label "Simgeler metnin yanında">
