@@ -1,6 +1,4 @@
 <!ENTITY aboutDialog.title           "O programie &brandFullName;">
-<!ENTITY credits.label               "Twórcy">
-<!ENTITY credits.accesskey           "T">
 <!ENTITY aboutButton.label           "&lt; Wstecz">
 <!ENTITY aboutButton.accesskey       "W">
 
@@ -9,9 +7,13 @@
 
 <!ENTITY aboutMenu.label             "O programie">
 <!ENTITY aboutMenu.accesskey         "O">
+<!ENTITY aboutCredits.label          "Twórcy">
+<!ENTITY aboutCredits.accesskey      "T">
 <!ENTITY aboutRights.label           "Prawa użytkownika">
 <!ENTITY aboutRights.accesskey       "P">
 <!ENTITY aboutContributors.label     "Współtwórcy">
 <!ENTITY aboutContributors.accesskey "W">
+<!ENTITY aboutLicense.label          "Licencja">
+<!ENTITY aboutLicense.accesskey      "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">
