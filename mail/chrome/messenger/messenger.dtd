@@ -723,8 +723,12 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY saveLinkAsCmd.accesskey "e">
 <!ENTITY saveImageAsCmd.label "Enregistrer l'image sous…">
 <!ENTITY saveImageAsCmd.accesskey "a">
+<!ENTITY cutCmd.label "Couper">
+<!ENTITY cutCmd.accesskey "C">
 <!ENTITY copyCmd.label "Copier">
 <!ENTITY copyCmd.accesskey "p">
+<!ENTITY pasteCmd.label "Coller">
+<!ENTITY pasteCmd.accesskey "o">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Copier l'adresse du lien">
@@ -733,6 +737,10 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY copyImageCmd.accesskey "m">
 <!ENTITY copyEmailCmd.label "Copier l'adresse électronique">
 <!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY stopCmd.label "Arrêter">
+<!ENTITY stopCmd.accesskey "r">
+<!ENTITY reloadCmd.label "Actualiser">
+<!ENTITY reloadCmd.accesskey "c">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Chargé">
