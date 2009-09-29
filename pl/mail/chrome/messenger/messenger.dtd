@@ -700,6 +700,8 @@
 <!ENTITY CopyEmailAddress.accesskey         "K">
 <!ENTITY CopyNewsgroupName.label            "Kopiuj nazwę grupy dyskusyjnej">
 <!ENTITY CopyNewsgroupName.accesskey        "n">
+<!ENTITY CopyNewsgroupURL.label             "Kopiuj adres grupy dyskusyjnej">
+<!ENTITY CopyNewsgroupURL.accesskey         "a">
 <!ENTITY CreateFilterFrom.label             "Utwórz filtr na podstawie…">
 <!ENTITY CreateFilterFrom.accesskey         "f">
 <!ENTITY reportPhishingURL.label            "Zgłoś oszustwo pocztowe" >
