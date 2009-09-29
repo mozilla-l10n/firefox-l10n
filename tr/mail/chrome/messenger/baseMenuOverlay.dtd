@@ -9,6 +9,8 @@
 <!ENTITY releaseCmd.accesskey "S">
 <!ENTITY whatsNewCmd.label "Yenilikler">
 <!ENTITY whatsNewCmd.accesskey "Y">
+<!ENTITY featureConfiguratorCmd.label "Geçiş yardımcısı">
+<!ENTITY featureConfiguratorCmd.accesskey "G">
 <!ENTITY openHelp.label "Yardım içeriği">
 <!ENTITY openHelp.accesskey "d">
 <!ENTITY openHelp.commandkey "VK_F1">
