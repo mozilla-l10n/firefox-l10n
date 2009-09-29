@@ -1,6 +1,4 @@
 <!ENTITY aboutDialog.title      "Sobre o &brandShortName;">
-<!ENTITY credits.label          "Créditos">
-<!ENTITY credits.accesskey      "C">
 <!ENTITY aboutButton.label      "&lt; Retroceder">
 <!ENTITY aboutButton.accesskey  "R">
 <!ENTITY aboutVersion           "versão">
@@ -9,9 +7,13 @@
                                  reservados.">
 <!ENTITY aboutMenu.label        "Sobre">
 <!ENTITY aboutMenu.accesskey    "S">
+<!ENTITY aboutCredits.label     "Créditos">
+<!ENTITY aboutCredits.accesskey "C">
 <!ENTITY aboutRights.label      "Os seus direitos">
 <!ENTITY aboutRights.accesskey  "r">
 <!ENTITY aboutContributors.label "Contribuintes">
 <!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label      "Licença">
+<!ENTITY aboutLicense.accesskey  "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">

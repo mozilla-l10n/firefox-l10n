@@ -2,8 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Configuração de Conta">
 
-<!ENTITY addAccountButton.label "Adicionar Conta...">
-<!ENTITY addAccountButton.accesskey "A">
+<!ENTITY accountActionsButton.label "Acções da conta">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Adicionar conta de correio…">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "Adicionar outra conta…">
+<!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Pré-Definir">
 <!ENTITY setDefaultButton.accesskey "d">
 <!ENTITY removeButton.label "Eliminar conta">
