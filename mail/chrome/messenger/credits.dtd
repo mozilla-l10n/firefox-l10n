@@ -1,6 +1,5 @@
 <!ENTITY credit.title     "&brandFullName; credits">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
-<!ENTITY credit.leads     "Hoofdontwikkelaars">
 <!ENTITY credit.thanks    "Speciale dank aan">
 
 <!-- localization credits look like this: -->
@@ -22,8 +21,5 @@
             <li>Paul Wagenaars</li>
           </ul>">
 
-<!ENTITY credit.theme          "Themadesign">
-<!ENTITY credit.qa             "Kwaliteitscontrole">
-<!ENTITY credit.build          "Build en uitgave">
 <!ENTITY credit.memory         "In dierbare herinnering aan">
 <!ENTITY credit.poweredByGecko "Aangedreven door Gecko&trade;">
