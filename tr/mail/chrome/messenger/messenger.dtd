@@ -720,8 +720,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "ğ">
 <!ENTITY saveImageAsCmd.label "Resmi farklı kaydet…">
 <!ENTITY saveImageAsCmd.accesskey "f">
+<!ENTITY cutCmd.label "Kes">
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.accesskey "o">
+<!ENTITY pasteCmd.label "Yapıştır">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY selectAllCmd.label "Tümümü seç">
 <!ENTITY selectAllCmd.accesskey "T">
 <!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
@@ -730,6 +734,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "E-posta adresini kopyala">
 <!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY stopCmd.label "Dur">
+<!ENTITY stopCmd.accesskey "D">
+<!ENTITY reloadCmd.label "Tazele">
+<!ENTITY reloadCmd.accesskey "T">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "Tamamlandı">
