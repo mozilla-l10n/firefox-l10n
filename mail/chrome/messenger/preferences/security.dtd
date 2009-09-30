@@ -2,7 +2,7 @@
 <!ENTITY itemPhishing.label "E-posta sahtekârlığı">
 <!ENTITY itemPasswords.label "Parolalar">
 <!ENTITY itemAntiVirus.label "Anti-virüs">
-<!ENTITY itemCookies.label "Web Content">
+<!ENTITY itemCookies.label "Web içeriği">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Öntanımlı gereksiz e-posta özelliklerini ayarlayınız. Hesap bazlı özellikler hesap ayarlarında bulabilirsiniz.">
@@ -52,8 +52,8 @@
 <!ENTITY expire.label "süresi dolana dek">
 <!ENTITY close.label "&brandShortName; kapatılana dek">
 <!ENTITY askEachTime.label "her seferinde bana sor">
-<!ENTITY cookieExceptions.label "Exceptions…">
-<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY cookieExceptions.label "Ayrıcalıklar">
+<!ENTITY cookieExceptions.accesskey "A">
 <!ENTITY showCookies.label "Çerezleri göster…">
 <!ENTITY showCookies.accesskey "z">
 
