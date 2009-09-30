@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Yeniden kaydır">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "e">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Sil">
 <!ENTITY delete.accesskey "S">
+<!ENTITY removeAttachment.label "Ekleri sil">
+<!ENTITY removeAttachment.accesskey "k">
 <!ENTITY renameAttachment.label "Yeniden isimlendir…">
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY selectAll.label "Tümünü seç">
