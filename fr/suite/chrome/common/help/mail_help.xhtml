@@ -160,6 +160,8 @@
       <li><a href="#getting_started_with_newsgroups">Premier pas dans les
       groupes</a></li>
 
+	  <li><a href="mail_newsblogs_help.xhtml#getting_started_with_blogs_and_news_feeds">Lire les flux de blogs et de nouvelles</a></li>
+
       <li><a href="#working_offline">Travailler hors connexion</a></li>
 
       <li><a href="mail_sec_help.xhtml">Signer et chiffrer des messages</a></li>
@@ -193,7 +195,7 @@
   <h2 id="using_the_mail_account_setup_wizard">Utiliser l'assistant de
   configuration du courrier</h2>
 
-  <p>Pour configurer un compte de courrier ou de groupes, ouvrez d'abord le menu
+  <p>Pour configurer un compte de courrier, de groupes ou de flux, ouvrez d'abord le menu
   <q>&windowMenu.label;</q> et choisissez <q>Courrier</q>. Si vous n'avez pas encore
   configuré de compte, l'assistant de création de compte s'ouvre
   automatiquement, pour vous permettre de le faire.</p>
@@ -208,7 +210,7 @@
   ouvrez le menu <q>&fileMenu.label;</q> et choisissez <q>&newMenu.label;</q>,
   puis <q>&newAccountCmd.label;</q>. Pour plus d'informations, voir la section
   <a href="#setting_up_additional_mail_and_news_accounts">Configurer des comptes
-  de courrier ou de groupes supplémentaires</a>.</p>
+  de courrier, de groupes ou de flux supplémentaires</a>.</p>
 
   <h3 id="setting_up_mail_accounts_with_an_isp_or_email_provider">Configurer
   des comptes de messagerie d'un FAI ou d'un fournisseur d'adresse
@@ -243,7 +245,7 @@
     <li>le nom du compte.</li>
   </ul>
 
-  <p>Pour configurer un nouveau compte de messagerie ou de groupes, ouvrez la
+  <p>Pour configurer un nouveau compte de messagerie, de groupes ou de flux, ouvrez la
   fenêtre <q>Courrier</q>&nbsp;:</p>
 
   <ol>
@@ -272,15 +274,15 @@
         <dt>&identityTitle.label;</dt>
 
         <dd>Entrez le nom et l'adresse électronique correspondants
-        à ce compte, puis cliquez sur <q>Suivant</q>.</dd>
+        à ce compte, puis cliquez sur <q>Suivant</q>. Cette fenêtre ne s'affiche pas pour les compte de flux.</dd>
 
         <dt>&serverTitle.label;</dt>
 
         <dd>
-          précisez si vous voulez un compte POP ou IMAP. Tous les prestataires
+          Précisez si vous voulez un compte POP ou IMAP. Tous les prestataires
           ne fournissent pas les deux options. Pour plus d'informations, voir la
           section <a href="#server_settings">&accountManagerTitle.label; -
-          Paramètres serveur</a>.
+          Paramètres serveur</a>. Cette fenêtre ne s'affiche pas pour les compte de flux.
 
           <p>Vous devez aussi fournir ici les noms de vos serveurs de
           messagerie entrant et sortant (SMTP). Il s'agit du nom du serveur de
@@ -299,14 +301,14 @@
 
         <dt>&fullnameLabel.label;</dt>
 
-        <dd>saisissez le nom par lequel vous voulez appeler ce compte, puis
+        <dd>Saisissez le nom par lequel vous voulez appeler ce compte, puis
         cliquez sur <q>Suivant</q>.</dd>
 
         <dt>&emailLabel.label;</dt>
 
-        <dd>saisissez le nom d'utilisateur fourni par votre FAI ou votre
+        <dd>Saisissez le nom d'utilisateur fourni par votre FAI ou votre
         fournisseur d'adresse électronique, puis cliquez sur
-        <q>Suivant</q>.</dd>
+        <q>Suivant</q>. Cette fenêtre ne s'affiche pas pour les compte de flux.</dd>
       </dl>
     </li>
 
@@ -359,7 +361,7 @@
         <dt>&addAccountButton.label;</dt>
 
         <dd>Cliquez sur ce bouton pour configurer un nouveau compte de
-        messagerie ou de groupes. Assurez-vous de spécifier les
+        messagerie, de groupes ou de flux. Assurez-vous de spécifier les
         informations du compte exactement comme on vous les a données.
         Cliquez sur <q>Suivant</q> et <q>Précédent</q> pour vous
         déplacer entre les écrans. Pour annuler la
@@ -374,11 +376,14 @@
           ne prendront effet qu'une fois que vous aurez redémarré
           &brandShortName; Courrier &amp; Groupes.
 
-          <p>Le compte par défaut est celui auquel vous voulez vous
-          connecter et (pour les comptes IMAP seulement) vérifier
+          <p>Le compte par défaut est celui auquel vous voulez vous connecter pour le relever
+		  (seulement avec les comptes IMAP) que vous voulez vérifier
           automatiquement quand vous démarrez &brandShortName; Courrier &amp;
           Groupes. Pour les comptes POP, vous devez toujours cliquer sur le
           bouton <q>Relever</q> pour recevoir les nouveaux messages.</p>
+
+		  <p><strong>Remarque&nbsp;:</strong> Un compte de flux ne peut pas être le compte pas défaut.</p>
+
         </dd>
 
         <dt>&removeButton.label;&nbsp;:</dt>
@@ -461,23 +466,22 @@
         <a href="#addressing">Paramètres des comptes courrier &amp;
         groupes - &addressing.label;</a>.</dd>
 
-        <dt>Hors connexion &amp; espace disque (comptes IMAP et de groupes
+        <dt>Synchronisation &amp; espace disque (comptes IMAP et de groupes
         seulement)&nbsp;:</dt>
 
         <dd>Ces paramètres s'appliquent lorsque vous êtes hors
         ligne (déconnecté d'Internet) ou que vous avez besoin
         d'économiser du temps de téléchargement et de
         l'espace disque. Pour plus d'informations, voir la section <a href=
-        "#offline_and_disk_space_settings_imap">Hors connexion et espace disque
-        (IMAP)</a> ou <a href="#offline_and_disk_space_settings_nntp">Hors
-        ligne et espace disque (Groupes)</a>.</dd>
+        "synchronization_and_storage_settings_imap">Synchronisation et espace disque
+        (IMAP)</a> ou <a href="#synchronization_and_storage_settings_nntp">Synchronisation et espace disque
+		(Groupes)</a>.</dd>
 
-        <dt>&diskspaceGroupTitle.label; (comptes POP seuls)&nbsp;:</dt>
+        <dt>&diskspaceGroupTitle.label; (comptes POP et de flux seuls)&nbsp;:</dt>
 
-        <dd>Ce paramètre détermine la taille maximale des
-        messages que vous voulez télécharger sur votre disque
-        dur. Pour plus d'informations, voir la section <a href=
-        "#disk_space_settings">Espace disque (POP)</a>.</dd>
+        <dd>Ce paramètre permet de gérer l'espace disque alloué aux messages téléchargés sur votre disque
+        dur. Pour plus d'informations, voir la section <a href= "#disk_space_settings">Espace disque (POP)</a> ou
+		<a href="mail_newsblogs_help.xhtml#disk_space_settings_blog">Espace disque (Flux)</a>.</dd>
 
         <dt>&pref.receipts.title;</dt>
         <dd>Ces paramètres déterminent le comportement de
@@ -539,14 +543,18 @@
   <p>Pour un compte POP, il vous faut sélectionner le dossier
   <q>Courrier entrant</q> et cliquer sur <q>Relever</q> pour collecter vos
   messages. Par défaut, quand vous collectez vos messages depuis votre
-  compte POP, les messages sont télécharger en entier puis
+  compte POP, les messages sont téléchargés en entier puis
   effacés du serveur POP. Vous avez la
   possibilité de <a href="#pop_server_settings">changer les
   paramètres de votre serveur POP</a> pour ne récupérer
   que les en-têtes et/ou laisser une copie des messages sur le
   serveur.</p>
 
-  <p>Vous pouvez aussi configurer &brandShortName; Courrier &amp; Groupes pour qu'il
+  <p class="traduire">For news accounts, expanding the account newsgroups list will automatically check for new items, as it will by just selecting one of the newsgroups. While reading a newsgroup, you can force checking for new items by clicking Get Msgs.</p>
+
+  <p class="traduire">For blogs &amp; feeds accounts, the first time you expand the account, it will be checked for new items. Besides that, you can force checking for new items at any time by clicking Get Msgs.</p>
+
+<p>Vous pouvez aussi configurer &brandShortName; Courrier &amp; Groupes pour qu'il
   collecte les nouveaux messages au démarrage et qu'il vérifie
   à intervalles réguliers s'il n'y a pas de nouveaux
   messages.</p>
@@ -830,22 +838,14 @@
     <q>Confidentialité et Sécurité</q> pour
     développer la liste.</li>
 
-    <!--<li>Décochez la case <q>Permettre aux messages de
-    télécharger et afficher des images et autres contenus
-    distants</q>.</li>-->
     <li class="rediger">Dans la section Générale, vous pouvez faire :
 
       <dl>
 
         <dt>Bloquer les images et autres contenus depuis les sources distantes</dt>
+		
         <dd>Décocher cette case pour autoriser tout le contenu distant.</dd>
 
-        <!--<dt>mais autoriser si l'émetteur est dans ce carnet d'adresse : </dt>
-        <dd>Pour bloquer tout le contenu distant, décochez.
-
-          <p>Pour changer quel carnet d'adresse utiliser pour autoriser l'affichage des éléments distants suivant les personnes qui envoient ces messages, choisissez le bon carnet d'adresse dans la liste déroulante.</p>
-
-        </dd>-->
       </dl>
 
     </li>
@@ -859,7 +859,7 @@ href="#creating_a_new_address_book_card">Créer
   de définir quels expéditeurs seront autorisés à
   afficher du contenu distant.</p>
 
-  <p>Par défaut, JavaScript et les plugins ne sont pas activés
+  <p>Par défaut, les plugins ne sont pas activés
   pour la messagerie. Pour modifier ces paramètres&nbsp;:</p>
 
   <ol>
@@ -871,9 +871,6 @@ href="#creating_a_new_address_book_card">Créer
     et plugins</q>. Si aucune sous-catégories n'est visible,
     double-cliquez sur <q>Avancées</q> pour développer la
     liste.</li>
-
-    <li>Sous <q>Activer JavaScript pour</q>, cochez <q>le Courrier et les
-    Groupes</q> pour activer JavaScript dans les courriels.</li>
 
     <li>Sous <q>Activer les plugins pour</q>, cochez <q>le Courrier et
     les groupes</q> pour désactiver les plugins.</li>
@@ -950,6 +947,8 @@ href="#creating_a_new_address_book_card">Créer
   section <a href="#changing_the_settings_for_an_account">Changer les
   paramètres d'un compte</a>.</p>
 
+<p class="traduire"><strong>Remarque&nbsp;:</strong> It is generally not possible to compose messages for them to be published in blogs &amp; news feeds accounts. If you want to publish posts in a blog (and you have the appropiate rights to do it), you will need to use the mechanisms provided by the specific blog system. In some cases, this can even include sending a mail message to a specific address.</p>
+
   <p>Écrire des messages au format HTML permet d'utiliser dans vos
   messages différentes polices, styles de texte (tels que gras ou
   italique), couleurs de texte, tableaux, listes à puces ou
@@ -1000,7 +999,7 @@ href="#creating_a_new_address_book_card">Créer
 
         <dt>Adresse&nbsp;:</dt>
 
-        <dd>Recherche des destinataires dans votre carnet d'adresse.</dd>
+        <dd>Recherche des destinataires dans votre carnet d'adresses.</dd>
 
         <dt>Joindre&nbsp;:</dt>
 
@@ -1209,8 +1208,8 @@ href="#creating_a_new_address_book_card">Créer
 
     <dt class="rediger">Citer le message&nbsp;:</dt>
 
-    <dd class="rediger">Choisissez cette option si vous voulez que la sélection du texte
-    du message soit affiché comme une citation.</dd>
+    <dd class="rediger">Choisissez cette option si vous voulez que la sélection
+    du message soit affichée comme une citation.</dd>
 
     <dt>Demander un accusé de réception&nbsp;:</dt>
 
@@ -1317,7 +1316,7 @@ href="#creating_a_new_address_book_card">Créer
 
       <ul>
         <li>Sélectionnez <q>&belowText.label;</q> pour afficher votre signature
-        à la findu message (en dessous de votre réponse et du texte cité).</li>
+        à la fin du message (en dessous de votre réponse et du texte cité).</li>
 
         <li>Sélectionnez <q>&aboveText.label;</q> pour afficher votre signature
         entre votre message et le texte cité.</li>
@@ -2159,7 +2158,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     <li>Dans <q>&emailCollectiontitle.label;</q>&nbsp;:
 
       <ul>
-        <li><strong>&emailCollectionPicker.label;</strong> Ccochez
+        <li><strong>&emailCollectionPicker.label;</strong> Cochez
         cette case si vous voulez que &brandShortName; Courrier &amp; Groupes enregistre
         automatiquement les adresses électroniques des messages que vous
         envoyez dans un de vos carnets d'adresses.</li>
@@ -2602,7 +2601,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
   <p>Vous pouvez importer des carnets d'adresses à partir de Netscape
   Communicator, Eudora, Outlook, Outlook Express ainsi que divers formats de
-  fichiers textes (LDIF, textes aux entrées délimités par
+  fichiers textes (LDIF, textes aux entrées délimitées par
   des tabulations (.tab), séparés par des virgules (.csv) ou
   d'autres signes (.txt)). Lorsque vous importez un carnet d'adresses, &brandShortName;
   Courrier &amp; Groupes crée un nouveau carnet d'adresses avec les
@@ -2704,8 +2703,8 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
         <dt>&directoryBaseDN.label;</dt>
 
-        <dd>Ce paramètre définit le nom distinct de base à
-        être utilisé. Pour limiter la recherche à un pays
+        <dd>Ce paramètre définit le nom distinct de la base à
+        utiliser. Pour limiter la recherche à un pays
         spécifique ou à une organisation, entrez par exemple
         c=JP, qui limite la recherche au Japon, et/ou o=Mozilla Communications
         Corporation pour vous limiter à cet organisme.</dd>
@@ -2830,8 +2829,8 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
     <dt>&directoryBaseDN.label;</dt>
 
-    <dd>Ce paramètre définit le nom distinct de base à
-    être utilisé. Pour limiter la recherche à un pays
+    <dd>Ce paramètre définit le nom distinct de la base à
+    utiliser. Pour limiter la recherche à un pays
     spécifique ou à une organisation, entrez par exemple c=JP,
     qui limite la recherche au Japon, et/ou o=Mozilla Communications
     Corporation pour vous limiter à cet organisme.</dd>
@@ -4031,8 +4030,8 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
     <li>Si vous l'avez entraîné sur des messages contenant des virus, pensez à
     désactiver la liste blanche (beaucoup de virus envoient des messages pour
-    infecter les personnes contenues dans le carnet d'adresse des machines
-    attaquées).</li>
+    infecter les personnes contenues dans le carnet d'adresses des ordinateurs
+    attaqués).</li>
 
     <li>Assurez vous de corriger les paramètres des courriers indésirables quand
     l'application fait une erreur de reconnaissance.</li>
@@ -4057,8 +4056,8 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
   <h2 id="junk_controls_options">Marquer les messages</h2>
 
-  <p>Avant de pouvoir utiliser au mieux de ses capacités le gestionnaire
-  des indésirables, il vous faudra marquer manuellement les messages que
+  <p>Avant de pouvoir utiliser au mieux de ses capacités le <a href="#junk_and_suspect_preferences">gestionnaire
+  des indésirables</a>, il vous faudra marquer manuellement les messages que
   vous considérez comme indésirables afin de lui apprendre
   à les reconnaître. Pour cela, un échantillon d'une
   trentaine de messages est nécessaire. Plus vous marquerez de messages
@@ -4144,7 +4143,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 <h2 id="junk_controls_options">Marquer les messages</h2>
 
 <p>Pour configurer finement le contrôle des messages indésirables, utilisez les
-<a href="#global_junk_settings">préférences globales des courriers indésirables</a> pour les paramètres non dépendants des comptes et les <a href="#junk_settings">Paramètres des indésirables</a> du gestionnaires de comptes pour les paramètres spécifiques à un compte courrier.</p>
+<a href="#junk_and_suspect_preferences">préférences globales des courriers indésirables et suspects</a> pour les paramètres non dépendants des comptes et les <a href="#junk_settings">Paramètres des indésirables</a> du gestionnaires de comptes pour les paramètres spécifiques à un compte courrier.</p>
 
 <p>[<a href="#controlling_junk_mail">Retour au début de la
   section</a>&nbsp;]</p>
@@ -4185,7 +4184,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
 <p>L'hameçonnage (phishing en anglais) est une technique courante d'escroquerie, où quelqu'un créé un faux site, destiné à piéger ses destinataires, et à ce qu'ils lui transmettent des informations personnelles comme des numéros de carte de crédit, des nom d'utilisateur et mots de passe, ou encore des numéros de sécurité sociale. En détournant les noms de grandes banques, de vendeurs en ligne et de sociétés de carte de crédit, les hameçonneurs convainquent souvent les destinataires de donner suite à leurs avances.</p>
 
-<p>Dans de nombreux cas, vous recevrez un lien vers une page d'hameçonnage, par un courrier qui se réclame comme émanant d'une origine officielle. Il peut arriver que vous tombiez sur ce type de pages en suivant des liens sur internet, ou par messagerie instantannée.</p>
+<p>Dans de nombreux cas, vous recevrez un lien vers une page d'hameçonnage, par un courrier qui se réclame comme émanant d'une origine officielle. Il peut arriver que vous tombiez sur ce type de pages en suivant des liens sur internet, ou par messagerie instantanée.</p>
 
 <p><strong>Astuce</strong>&nbsp;: Étant donné qu'une <a href="glossary.xhtml#url">URL</a> forgée
   peut être très ressemblante à une officielle, il est plus sûr d'utiliser un marque-page que vous avez créé, ou de taper l'URL dans la barre d'adresse, à la main, au lieu de suivre un lien dans un courrier. Pensez toujours au risque d'une URL forgée s'il vous est demandé de vous authentifié ou de fournir des informations personnelles sur un site web.</p>
@@ -4546,8 +4545,8 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
       &brandShortName; Courrier &amp; Groupes pour travailler hors connexion</a></li>
 
       <li><a href=
-      "#downloading_your_inbox_for_offline_use">Télécharger du
-      courrier entrant pour une utilisation hors connexion</a></li>
+      "#downloading_all_messages_for_offline_use">Télécharger tous les messages
+	  pour une utilisation hors connexion</a></li>
 
       <li><a href="#downloading_an_individual_folder_for_offline_use">Mettre
       à jour un dossier pour une utilisation hors connexion</a></li>
@@ -4596,10 +4595,10 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
   <ul>
     <li>télécharger du courrier entrant pour une utilisation hors
-    ligne&nbsp;;</li>
+    connexion&nbsp;;</li>
 
     <li>télécharger un dossier pour une utilisation hors
-    ligne&nbsp;;</li>
+    connexion&nbsp;;</li>
 
     <li>télécharger les seuls messages sélectionnés
     ou cochés pour une utilisation hors connexion&nbsp;;</li>
@@ -4616,8 +4615,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     <li>configurer un ou plusieurs comptes pour une utilisation hors
     ligne&nbsp;;</li>
 
-    <li>définir les préférences hors connexion et espace
-    disque pour chaque compte&nbsp;;</li>
+    <li>définir les préférences &networkStorage.label; pour chaque compte&nbsp;;</li>
 
     <li>sélectionner les éléments (comptes, dossiers et
     groupes) à consulter hors connexion.</li>
@@ -4626,16 +4624,16 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   <p>[&nbsp;<a href="#working_offline">Retour au début de la
   section</a>&nbsp;]</p>
 
-  <h2 id="downloading_your_inbox_for_offline_use">Télécharger du
-  courrier entrant pour une utilisation hors connexion</h2>
+  <h2 id="downloading_all_messages_for_offline_use">Télécharger tous les messages
+	  pour une utilisation hors connexion</h2>
 
   <p>&brandShortName; Courrier &amp; Groupes peut télécharger
   automatiquement vos messages entrants pour une utilisation hors connexion. Plus
   tard, lorsque vous vous reconnectez, &brandShortName; Courrier &amp; Groupes
-  synchronise automatiquement les messages du Courrier entrant avec le
+  synchronise automatiquement les messages du courrier entrant avec le
   serveur.</p>
 
-  <p>Pour télécharger automatiquement le courrier entrant pour
+  <p>Pour télécharger automatiquement vos messages pour
   une utilisation hors connexion, ouvrez une fenêtre <q>Courrier</q>.</p>
 
   <ol>
@@ -4644,7 +4642,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     boîte de dialogue <q>&accountManagerTitle.label;</q> s'affiche.</li>
 
     <li>À gauche de la boîte de dialogue, choisissez le compte
-    à utiliser hors connexion et sélectionnez <q>Hors connexion et espace
+    à utiliser hors connexion et sélectionnez <q>Synchronisation et espace
     disque</q>.
 
       <p><strong>Remarque</strong>&nbsp;: cette catégorie n'est pas
@@ -4655,18 +4653,15 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
     <li>Cliquez sur <q>OK</q>.</li>
 
-    <li>Dans la liste des dossiers, sous le nom du compte que vous voulez
-    utiliser hors connexion, cliquez sur un dossier autre que <q>Courrier
-    entrant</q>. Par exemple, cliquez sur le dossier <q>Envoyés</q> ou
-    <q>Brouillons</q>. Puis cliquez sur le dossier <q>Courrier entrant</q> pour
-    commencer à télécharger les messages.</li>
+	<li class="rediger">Cliquez sur l'icône en ligne/hors connexion <img src=
+    "chrome://communicator/skin/icons/online.gif" alt="Icône en ligne" /> dans le coin en bas à
+	droite de la fenêtre <q>Courrier</q> pour passer en mode hors connexion. &brandShortName; vous
+	demandera si vous désirer télécharger les messages pour les rendre disponibles hors connexion.
+	Cliquez sur <q>Téléchargez</q> pour terminer la procédure.</li>
 
-    <li>Lorsque le téléchargement est terminé, cliquez sur
-    l'icône en ligne/hors connexion <img src=
-    "chrome://communicator/skin/icons/online.gif" alt="Icône en ligne" />
-    dans le coin en bas à droite de la fenêtre <q>Courrier</q>
-    pour passer en mode hors connexion.</li>
   </ol>
+
+  <p class="traduire"><strong>Remarque&nbsp;:</strong> This setting also applies to any new folders created. While the per-account setting can be overridden for an <a href="#downloading_an_individual_folder_for_offline_use">individual folder</a>, those per-folder settings are <em>removed</em> when the <q>Keep messages</q> box is toggled.</p>
 
   <p>&brandShortName; Courrier &amp; Groupes télécharge automatiquement
   tous les messages de la boîte de réception pour pouvoir les lire
@@ -4692,8 +4687,8 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   sous-dossier <q>Messages en attente</q> des <q>Dossiers locaux</q>. Pour que
   &brandShortName; Courrier &amp; Groupes envoie automatiquement les messages en attente
   à la reconnexion, voir la section <a href=
-  "#offline_and_disk_space_preferences">Préférences de Courrier
-  et Groupes - Hors connexion et espace disque</a> pour tous vos comptes.</p>
+  "#network_and_storage_preferences">Préférences de Courrier
+  et Groupes - &networkStorage.label;</a> pour tous vos comptes.</p>
 
   <p>[&nbsp;<a href="#working_offline">Retour au début de la
   section</a>&nbsp;]</p>
@@ -4767,8 +4762,8 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   tous les messages enregistrés. Pour que &brandShortName; Courrier &amp; Groupes
   envoie automatiquement les messages non envoyés à la
   reconnexion, voir la section <a href=
-  "#offline_and_disk_space_preferences">Préférences de Courrier
-  et Groupes - Hors connexion et espace disque</a>.</p>
+  "#network_and_storage_preferences">Préférences de Courrier
+  et Groupes - &networkStorage.label;</a>.</p>
 
   <p>[&nbsp;<a href="#working_offline">Retour au début de la
   section</a>&nbsp;]</p>
@@ -4877,8 +4872,8 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   tous les messages enregistrés. Pour que &brandShortName; Courrier &amp; Groupes
   envoie automatiquement les messages non envoyés à la
   reconnexion, voir la section <a href=
-  "#offline_and_disk_space_preferences">Préférences de Courrier
-  et Groupes - Hors connexion et espace disque</a>.</p>
+  "#network_and_storage_preferences">Préférences de Courrier
+  et Groupes - &networkStorage.label;</a>.</p>
 
   <p>[&nbsp;<a href="#working_offline">Retour au début de la
   section</a>&nbsp;]</p>
@@ -4941,10 +4936,10 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   pour travailler hors connexion</h2>
 
   <p>Pour configurer un ou plusieurs comptes pour travailler hors connexion,
-  utilisez les préférences <q>Hors connexion et espace disque</q> de
+  utilisez les préférences <q>&networkStorage.label;</q> de
   la boîte de dialogue <q>&accountManagerTitle.label;</q>. Une fois définies, il n'est plus nécessaire de
   modifier ces préférences chaque fois que vous travaillez hors
-  ligne. Les préférences <q>Hors connexion et espace disque</q>
+  ligne. Les préférences <q>&networkStorage.label;</q>
   disponibles dépendent du type de compte (IMAP, POP ou groupe).</p>
 
   <p>Pour configurer des comptes pour une utilisation hors connexion, suivez ces
@@ -4953,7 +4948,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   <ol>
     <li>Pour chaque compte avec lequel vous voulez travailler hors connexion,
     utilisez la boîte de dialogue <q>&accountManagerTitle.label;</q> pour définir les préférences
-    <q>Hors connexion et espace disque</q> correspondantes. Vous devez
+    <q>&networkStorage.label;</q> correspondantes. Vous devez
     sélectionner les éléments (comptes, dossiers, groupes)
     à télécharger pour une utilisation hors connexion. Voir la
     section <a href="#selecting_items_for_offline_viewing">Sélection de
@@ -4963,13 +4958,13 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
       <p>Une fois définies, vous n'aurez plus à modifier ces
       préférences. Consultez les sections suivantes pour plus
       d'informations sur la définition des préférences
-      hors connexion et espace disque pour des comptes <a href=
-      "#offline_and_disk_space_settings_imap">IMAP</a>, <a href=
-      "#disk_space_settings">POP</a> et <a href=
-      "#offline_and_disk_space_settings_nntp">groupe</a>.</p>
+      &networkStorage.label; pour des comptes <a href=
+      "#synchronization_and_storage_settings_imap">IMAP</a>, <a href=
+      "#disk_space_settings_pop">POP</a>, <a href="#disk_space_settings_blogs">Flux</a> et <a href=
+	  "#synchronization_and_storage_settings_nntp">groupe</a>.</p>
 
       <p><strong>Astuce</strong>&nbsp;: pour définir les
-      préférences <q>Hors connexion et espace disque</q> du compte en
+      préférences <q>&networkStorage.label;</q> du compte en
       cours, dans le menu <q>&fileMenu.label;</q>, choisissez <q>&offlineMenu.label;</q>,
       puis <q>&settingsOfflineCmd.label;</q>.</p>
     </li>
@@ -5022,8 +5017,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     <li>Dans le menu <q>&editMenu.label;</q>, choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
     <q>&accountManagerTitle.label;</q> s'affiche.</li>
 
-    <li>Sélectionnez la catégorie <q>Hors connexion et espace
-    disque</q> du compte à modifier.</li>
+    <li>Sélectionnez la catégorie <q>&networkStorage.label;</q> du compte à modifier.</li>
 
     <li>Cliquez sur <q>Sélectionner les dossiers pour le travail hors
     ligne&hellip;</q>. Vous pouvez voir vos comptes IMAP, dossiers de courrier
@@ -5143,15 +5137,12 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   "Icône d'utilisation hors connexion&nbsp;: nouveau message de groupe" />, de
   couleur gris foncé.</p>
 
-  <p><strong>Astuce</strong>&nbsp;: pour définir le comportement de
-  téléchargement de &brandShortName; Courrier &amp; Groupes lors de la
-  déconnexion, ouvrez le menu <q><span class="mac">&brandShortName;</span><span
-    class="noMac">&editMenu.label;</span></q>, sélectionnez
-    <q>&preferencesCmd.label;</q> et
-  sélectionnez la catégorie <q>Hors connexion et espace disque</q>.
-  Vous pouvez configurer &brandShortName; Courrier &amp; Groupes afin qu'il vous invite
-  à télécharger des messages lors de la déconnexion
-  et qu'il télécharge automatiquement les messages ou au
+  <p><strong>Astuce</strong>&nbsp;: pour définir le comportement de téléchargement de
+  &brandShortName; Courrier &amp; Groupes lors de la déconnexion, ouvrez le menu <q><span
+  class="mac">&brandShortName;</span><span class="noMac">&editMenu.label;</span></q>, sélectionnez
+  <q>&preferencesCmd.label;</q> et sélectionnez la catégorie <q>&networkStorage.label;</q>. Vous
+  pouvez configurer &brandShortName; Courrier &amp; Groupes afin qu'il vous invite à télécharger
+  des messages lors de la déconnexion et qu'il télécharge automatiquement les messages ou au
   contraire, qu'il ne les télécharge pas.</p>
 
   <p>Pour vous reconnecter et synchroniser les messages&nbsp;:</p>
@@ -5175,7 +5166,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   <q><span class="mac">SeaMonkey</span><span
     class="noMac">&editMenu.label;</span></q>, sélectionnez
   <q>&preferencesCmd.label;</q> et sélectionnez la
-  catégorie <q>Hors connexion et espace disque</q>. Vous pouvez configurer
+  catégorie <q>&networkStorage.label;</q>. Vous pouvez configurer
   &brandShortName; Courrier &amp; Groupes pour qu'il vous invite à envoyer les
   messages en attente, qu'il le fasse automatiquement ou reste inactif.</p>
 
@@ -5213,11 +5204,11 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
       <li><a href="#server_settings">Paramètres serveur</a></li>
 
-      <li><a href="#copies_and_folders">Copies et dossiers</a></li>
+      <li><a href="#copies_and_folders">&copyAndFolderTitle.label;</a></li>
 
       <li><a href="#addressing">&addressing.label;</a></li>
 
-      <li><a href="#offline_and_disk_space">Hors connexion et espace
+      <li><a href="#synchronization_and_storage">Synchronisation et espace
       disque</a></li>
 
       <li><a href="#junk_settings">Courriers indésirables</a></li>
@@ -5256,46 +5247,69 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     C'est ce nom qui s'affichera dans la liste des comptes de la fenêtre
     principale de &brandShortName; Courrier &amp; Groupes.</dd>
 
-    <dt>&identityTitle.label;</dt>
+    <dt>Pour tous les types de compte, sauf les comptes de flux</dt>
 
-    <dd>Contient votre nom, votre adresse électronique, votre adresse de
-    réponse (uniquement si elle est différente de votre adresse
-    électronique) et le nom de votre organisation (optionnel).</dd>
+	<dd>
 
-	<dt>Texte de signature</dt>
+	  <dl>
 
-	<dd>Si vous désirez apposer votre signature sur tous les messages sortants, saisissez votre
-	dans signature cette zone de texte. Cochez la case <q>Utiliser HTML</q> pour pourvoir
-	utiliser des balises HTML, par exemple, &lt;b&gt;bold&lt;/b&gt; (optionnel).</dd>
+		<dt>&identityTitle.label;</dt>
 
-	<dt>Apposer la signature à partir d'un fichier</dt>
+		<dd>Contient votre nom, votre adresse électronique, votre adresse de
+		réponse (uniquement si elle est différente de votre adresse
+		électronique) et le nom de votre organisation (optionnel).</dd>
 
-	<dd>Vous permet d'apposer votre signature à partir d'un fichier (texte, HTML, ou image) plutôt
-	que de saisir son contenu. L'utilisation de cette fonction désactive le texte saisi dans la zone
-	de texte de la signature. Cliquez sur <q>&choose.label;</q> pour localiser votre fichier de
-	signature (optionnel).
+		<dt>Texte de signature</dt>
 
-	  <p>Vous trouverez plus d'options de signatures dans la section <a href="#addressing">Rédaction
-	  &amp; Adressage</a>.</p>
+		<dd>Si vous désirez apposer votre signature sur tous les messages sortants, saisissez votre
+		dans signature cette zone de texte. Cochez la case <q>Utiliser HTML</q> pour pouvoir
+		utiliser des balises HTML, par exemple, &lt;b&gt;bold&lt;/b&gt; (optionnel).</dd>
 
+		<dt>Apposer la signature à partir d'un fichier</dt>
+
+		<dd>Vous permet d'apposer votre signature à partir d'un fichier (texte, HTML, ou image) plutôt
+		que de saisir son contenu. L'utilisation de cette fonction désactive le texte saisi dans la zone
+		de texte de la signature. Cliquez sur <q>&choose.label;</q> pour localiser votre fichier de
+		signature (optionnel).
+
+		  <p>Vous trouverez plus d'options de signatures dans la section <a href="#addressing">Rédaction &amp; Adressage</a>.</p>
+
+		</dd>
+
+		<dt>&attachVCard.label;</dt>
+
+		<dd>Cochez cette case si vous voulez toujours envoyer votre carte de visite
+		(vCard) avec ce compte. Cliquez sur <q>&editVCard.label;</q> pour
+		éditer les informations contenues dans votre vCard (optionnel).</dd>
+	  </dl>
 	</dd>
-<!--    <dt>&signature.label;</dt>
+	
+	<dt>Pour les comptes de flux</dt>
+	<dd>
+	  <dl class="traduire">
+	  
+		<dt>Check for new articles at startup</dt>
+		
+		<dd>Select this checkbox if you want to check this account automatically for new blogs &amp; news messages whenever you start Mail &amp; Newsgroups.</dd>
 
-    <dd>Permet de choisir un fichier texte ou HTML qui sera apposé en
-    tant que signature en fin de message. Cliquez sur <q>&choose.label;</q>
-    pour localiser votre fichier de signature (optionnel).</dd> -->
-    <!--  <dt>&useHtml.label;&nbsp;:</dt>
-<dd>Permet de formater vos messages en utilisant l'éditeur HTML. Laissez cette case décochée pour utiliser le mode texte. Les messages HTML peuvent inclure des textes formatés, des liens, des images et des tableaux, comme une page Web. Néanmoins, certaines personnes ne souhaitent ou ne peuvent pas recevoir de messages HTML.
-    <p><strong>Astuce</strong>&nbsp;: si vous sélectionnez cette option mais que vous désirez plus tard rédiger ou répondre à un message en utilisant un éditeur texte, pressez la touche Majuscule et cliquez sur <q>Nouveau</q> ou sur <q>Répondre</q> dans la barre d'outils Messages pour temporairement choisir le mode texte. Cliquer en pressant la touche Majuscule sur <q>Nouveau</q> ou <q>Répondre</q> vous donne accès à l'édition alternative. Ainsi, si le mode par défaut est l'édition en texte brut, cette manipulation vous permet de basculer temporairement en mode HTML.</p>
-  </dd>
-  <dt>Avancé&nbsp;:</dt>
-  <dd>Permet de choisir un serveur sortant (SMTP) alternatif pour les messages envoyés avec ce compte.</dd> -->
+		<dt>Check for new articles every [__] minutes</dt>
+		
+		<dd>Select this checkbox if you want to specify the number of minutes between feed checks. You can also check for new blogs &amp; news messages at any time by clicking Get Msgs in the Mail window.</dd>
+		
+		<dt>By default, show the article summary instead of loading the web page</dt>
+		  
+		<dd>Select this checkbox if you want &brandShortName; to display a brief summary of the article (bundled inside the feed) instead of loading the full web page. Showing the article summary is slightly faster than the full web page, but you may miss part of the article content.</dd>
+		
+		<dt>Empty Trash on Exit</dt>
+		
+		<dd>Empties the Trash folder whenever you quit Mail &amp; Newsgroups.</dd>
+		
+		<dt>Manage Subscriptions...</dt>
+		
+		<dd>Shows the Feed Subscriptions dialog, that allows you to add, edit and remove feeds to this blogs &amp; news feeds account.</dd>
+	  </dl>
+	</dd>
 
-    <dt>&attachVCard.label;</dt>
-
-    <dd>Cochez cette case si vous voulez toujours envoyer votre carte de visite
-    (vCard) avec ce compte. Cliquez sur <q>&editVCard.label;</q> pour
-    éditer les informations contenues dans votre vCard (optionnel).</dd>
   </dl>
 
   <p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au
@@ -5307,7 +5321,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   <p>&brandShortName; Courrier &amp; Groupes peut travailler avec deux types
   différents de serveurs de messagerie&nbsp;: IMAP et POP. Si vous
   n'êtes pas sûr du type de serveur que votre fournisseur
-  d'accès à Internet supporte, posez lui la question. Si votre
+  d'accès à Internet supporte, posez-lui la question. Si votre
   fournisseur d'accès à Internet supporte les deux, les
   descriptions suivantes vous aideront à choisir l'un ou l'autre.</p>
 
@@ -5454,8 +5468,8 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
         <dt>&biffStart.label; [__] &biffEnd.label;&nbsp;:</dt>
 
         <dd>Activez ce paramètre pour une vérification
-        automatique de l'arrivée de nouveaux messages. Précisez
-        ensuite le nombre de minutes entre chaque vérifications. Si vous
+        automatique de l'arrivée de nouveaux messages. Spécifiez
+        ensuite le nombre de minutes entre deux vérifications. Si vous
         n'activez pas ce paramètre, vous pourrez toujours cliquer sur
         <q>Relever</q> dans la fenêtre Courrier.</dd>
 
@@ -5566,7 +5580,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     <dt>&serverType.label;</dt>
 
     <dd>Le type du serveur (Serveur de courrier POP) que vous avez
-    spécifié lors de la création de ce compte Pour changer
+    spécifié lors de la création de ce compte. Pour changer
     le type de serveur associé à ce compte, vous devez supprimer
     le compte et en recréer un.</dd>
 
@@ -5623,7 +5637,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
         <dd>Activez ce paramètre pour une vérification
         automatique de l'arrivée de nouveaux messages. Spécifiez
-        ensuite le nombre de minutes entre chaque vérification. Si vous
+        ensuite le nombre de minutes entre deux vérifications. Si vous
         n'activez pas ce paramètre, vous pourrez toujours cliquer sur
         <q>Relever</q> dans la fenêtre <q>Courrier</q>.</dd>
 
@@ -5774,7 +5788,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
         <dd>Le chemin d'accès vers votre fichier newsrc est
         affiché pour votre information. Le fichier newsrc stocke les
         informations concernant les groupes auxquels vous êtes
-        abonnés, et les messages que vous avez lu dans chaque
+        abonné, et les messages que vous avez lus dans chaque
         groupe.</dd>
       </dl>
     </dd>
@@ -5873,7 +5887,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   pour choisir le format des messages que vous envoyez, comment traiter les
   réponses et comment votre signature doit être incluse.</p>
 
-  <p>Si les paramètres d'<q>&addressing.label;</q> ne sont pas affichés,
+  <p>Si les paramètres de <q>&addressing.label;</q> ne sont pas affichés,
   ouvrez une fenêtre <q>Courrier</q>&nbsp;:</p>
 
   <ol>
@@ -5934,7 +5948,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     </dd>
   </dl>
 
-  <dl>
+  <dl class="traduire">
 	<dt>Ajouter la signature pour les réponses</dt>
 
 	<dd>If you have created a
@@ -6000,11 +6014,11 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   <p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au
   début de la section</a>&nbsp;]</p>
 
-  <h2 id="offline_and_disk_space">Paramètres des comptes courrier &amp;
-  groupes - Hors connexion et espace disque</h2>
+  <h2 id="synchronization_and_storage">Paramètres des comptes courrier &amp;
+  groupes - Synchronisation et espace disque</h2>
 
-  <p>Les paramètres <q>Hors connexion et espace disque</q> vous permettent
-  de préserver de l'espace disque ou de configurer un compte en vue
+  <p>Les paramètres <q>Synchronisation et espace disque</q> vous permettent
+  de préserver de l'espace disque ou de configurer la synchronisation d'un compte en vue
   d'une utilisation en mode hors connexion (déconnecté d'Internet).
   Ces paramètres dépendent du type de serveur de messages (IMAP,
   POP, ou Groupe) associé au compte.</p>
@@ -6013,24 +6027,27 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     <p>Dans cette section&nbsp;:</p>
 
     <ul>
-      <li><a href="#offline_and_disk_space_settings_imap">Paramètres
-      Hors connexion et espace disque (IMAP)</a></li>
+      <li><a href="#synchronization_and_storage_settings_imap">Paramètres
+      Synchronisation et espace disque (IMAP)</a></li>
 
-      <li><a href="#disk_space_settings">Paramètres Espace disque
+      <li><a href="#disk_space_settings_pop">Paramètres Espace disque
       (POP)</a></li>
 
-      <li><a href="#offline_and_disk_space_settings_nntp">Paramètres
-      Hors connexion et espace disque (Groupes)</a></li>
+	  <li><a href="#disk_space_settings_blogs">Paramètres Espace disque (flux de blogs et de
+	  nouvelles)</a></li>
+
+      <li><a href="#synchronization_and_storage_settings_nntp">Paramètres
+      Synchronisation et espace disque (Groupes)</a></li>
     </ul>
   </div>
 
   <p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au
   début de la section</a>&nbsp;]</p>
 
-  <h3 id="offline_and_disk_space_settings_imap">Paramètres synchronisation et
+  <h3 id="synchronization_and_storage_settings_imap">Paramètres synchronisation et
   espace disque (IMAP)</h3>
 
-  <p>Si les paramètres Hors connexion et espace disque d'un compte IMAP ne
+  <p>Si les paramètres Synchronisation et espace disque d'un compte IMAP ne
   sont pas affichés, ouvrez une fenêtre <q>Courrier</q>&nbsp;:</p>
 
   <ol>
@@ -6041,7 +6058,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 	disque</q>.</li>
   </ol>
 
-  <dl>
+  <dl class="traduire">
     <dt>&syncGroupTitle.label;</dt>
 
     <dd>
@@ -6052,29 +6069,12 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
         réception soient disponibles lorsque vous travaillez en mode
         hors connexion.</dd>
 
-<!--        <dt>&offlineNewFolder.label;</dt>
+		<dt>Advanced</dt>
 
-        <dd>Activez cette option pour que les nouveaux dossiers que vous
-        créez soient automatiquement sélectionnés pour une
-        utilisation en mode hors connexion. Si vous laissez cette case
-        décochée, les nouveaux dossiers ne seront pas
-        automatiquement sélectionnés pour une utilisation hors
-        ligne. Vous pouvez sélectionner manuellement les dossiers pour
-        une utilisation en mode hors connexion en utilisant la commande
-        <q>&synchronizeOfflineCmd.label;</q> (disponible dans le menu <q>&fileMenu.label;</q>, puis
-        <q>&offlineMenu.label;</q>) ou en cliquant sur le bouton
-        <q>Sélectionner</q> de la boîte de dialogue
-        <q>Télécharger et synchroniser les messages</q>.</dd>
+		<dd>Click to open a dialog to select the folders that you want to make available for offline use. See <a href="#selecting_items_for_offline_viewing">Selecting Items for Offline Viewing</a> for more information.
 
-        <dt>Sélectionner les dossiers pour le travail hors
-        ligne&hellip;&nbsp;:</dt>
-
-        <dd>Cliquez sur ce bouton afin de sélectionner les dossiers que
-        vous désirez marquer comme disponibles pour le travail hors
-        ligne. Voir <a href=
-        "#selecting_items_for_offline_viewing">Sélection de comptes, de
-        dossiers et de groupes pour un affichage hors connexion</a> pour plus
-        d'informations.</dd> -->
+		  <p><strong>Note</strong>: While the default setting can be overridden for an individual folder, those per-folder settings are <em>removed</em> whenever the <q>Keep messages for this account</q> box is toggled.</p>
+		</dd>
       </dl>
     </dd>
 
@@ -6087,20 +6087,25 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
         <dd>préserve votre espace disque en limitant, en fonction d'une
         taille maximum du fichier, le téléchargement des messages
         trop volumineux. Précisez cette taille maximum (en ko).</dd>
-      </dl>
+
+		<dt>Politique de rétention</dt>
+	
+		<dd>The <a href="#retention_policy">retention settings</a> can be used to free up space by deleting old messages. Note that these settings apply to <em>both</em> local copies and their originals on the server.</dd>
+		
+	  </dl>
     </dd>
   </dl>
 
   <p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au
   début de la section</a>&nbsp;]</p>
 
-  <h3 id="disk_space_settings">Paramètres espace disque (POP)</h3>
+  <h3 id="disk_space_settings_pop">Paramètres espace disque (POP)</h3>
 
   <p class="rediger">Les messages des comptes POP sont toujours
   téléchargés sur votre ordinateur sauf si vous avez
   activé l'option <q>&headersOnly.label;</q>.
   Si votre compte a ce paramètre activé, alors ces préférences
-  d'espace disque seront ignorés. Cette section
+  d'espace disque seront ignorées. Cette section
   décrit comment vous pouvez préserver votre espace disque avec
   un compte POP.</p>
 
@@ -6121,23 +6126,70 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     <dd>Préserve votre espace disque en limitant, en fonction d'une
     taille maximum du fichier, le téléchargement des messages
     trop volumineux. Précisez cette taille maximum (en ko).</dd>
+	
+	<dt>Politique de rétention</dt>
+
+	<dd>The <a href="#retention_policy">retention settings</a> can be used to
+    free up space by deleting old messages. Note that these settings apply
+    to <em>both</em> local copies and their originals on the server.
+
+	  <p><strong>Note</strong>: If your POP account is set up to use a Global
+      Inbox, the retention period settings of the target Inbox apply.</p>
+	</dd>
   </dl>
 
   <p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au
   début de la section</a>&nbsp;]</p>
+<div class="traduire">
+<h3 id="disk_space_settings_blogs">Disk Space Settings (Blogs)</h3>
 
-  <h3 id="offline_and_disk_space_settings_nntp">Paramètres Hors connexion et
+<p>Messages from blogs &amp; news feeds accounts are only stored in your local
+  machine in their short form, ie. the article summary, regardless of whether
+  your settings are to show the full articles by default. Still, there are
+  options to control how much disk space is used by your blogs &amp; news feeds
+  account. If you are not already viewing the Disk Space preferences for a
+  blogs &amp; news feeds account, follow these steps:</p>
+
+<p>Begin from the Mail window.</p>
+
+<ol>
+  <li>Open the Edit menu, choose Mail &amp; Newsgroups Account Settings. You
+    see the Mail &amp; Newsgroups Account Settings dialog box.</li>
+  <li>Click the Disk Space category for a blogs &amp; news feeds account.</li>
+</ol>
+
+<p>There, you can specify which messages should be deleted to recover disk
+  space:</p>
+
+<ul>
+  <li><strong>Don&apos;t delete any messages</strong>: Select this option to
+    keep all messages forever. Keep in mind that, if you are subscribed to very
+    high-traffic blogs, this will increase the occupied disk space steadily and
+    could eventually fill up your hard disk.</li>
+  <li><strong>Delete all but the most recent [____] messages</strong>: Select this
+    option to keep in each feed only a maximum number of messages. Enter the
+    maximum number of messages (being 1,000 by default).</li>
+  <li><strong>Delete messages more than [__] days old</strong>: Select this
+    option to keep in each feed only messages that are not older than the number
+    of days you enter here (being 30 days by default).</li>
+  <li><strong>Always keep flagged messages</strong>: Check this option to
+    save (not delete) flagged messages, regardless of its age.</li>
+	</ul>
+</div>
+  <p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&nbsp;]</p>
+
+  <h3 id="synchronization_and_storage_settings_nntp">Paramètres Synchronisation et
   espace disque (Groupe)</h3>
 
-  <p>Si les paramètres Hors connexion et espace disque d'un compte groupe ne
+  <p>Si les paramètres Synchronisation et espace disque d'un compte groupe ne
   sont pas affichés, ouvrez une fenêtre <q>Courrier</q>.</p>
 
   <ol>
     <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
     <q>&accountManagerTitle.label;</q> s'affiche.</li>
 
-    <li>Sélectionnez le nom d'un compte groupe et cliquez sur <q>Hors
-    ligne et espace disque</q>.</li>
+    <li>Sélectionnez le nom d'un compte groupe et cliquez sur <q>Synchronisation et espace disque</q>.</li>
   </ol>
 
   <dl>
@@ -6151,17 +6203,15 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     plus d'informations.</dd>
   </dl>
 
-  <p>Les paramètres suivants aident à minimiser l'espace disque
-  utilisé et le temps de téléchargement. Spécifiez
-  quels messages vous ne voulez pas télécharger
-  localement&nbsp;:</p>
+  <p>Les paramètres suivants aident à minimiser l'espace disque utilisé et le
+  temps de téléchargement. Spécifiez quels messages vous ne voulez pas
+  télécharger localement&nbsp;:</p>
 
   <dl>
     <dt>&nntpNotDownloadRead.label;</dt>
 
-    <dd>Sélectionnez cette option pour que ne soient
-    téléchargés que les messages que vous n'avez pas
-    encore lus.</dd>
+    <dd>Sélectionnez cette option pour que ne soient téléchargés que les
+	messages que vous n'avez pas encore lus.</dd>
 
     <dt>&offlineNotDownload.label; [__] &kb.label;</dt>
 
@@ -6177,23 +6227,28 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     spécifiée.</dd>
   </dl>
 
-  <p>&brandShortName; peut automatiquement effacer des messages des groupes de discussion
+<p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au début de la
+section</a>&nbsp;]</p>
+
+<h3 id="retention_policy">Common Retention Policy Settings</h3>
+
+  <p>&brandShortName; peut automatiquement effacer des anciens messages
   pour vous. Vous pouvez configurer ce processus à l'aide des options
-  listées sous <strong>Garder</strong>&nbsp;:</p>
+  listées sous <q>&retentionCleanup.label;</q>&nbsp;:</p>
 
   <dl>
-    <dt>Tous les messages&nbsp;:</dt>
+    <dt>&retentionKeepAll.label;</dt>
 
     <dd>Garde tous les messages et n'efface jamais un message
     automatiquement.</dd>
 
-    <dt>Les [__] &message.label;</dt>
+    <dt>&retentionKeepRecent.label; [__] &message.label;</dt>
 
     <dd>Entrez le nombre de messages à garder. Avec ce paramètre,
     seuls les messages plus âgés que ces messages seront
     effacés.</dd>
 
-    <dt>Les messages qui sont arrivés dans les derniers [__]
+    <dt>&retentionKeepMsg.label; [__] &daysOld.label;
     jours&nbsp;:</dt>
 
     <dd>Garde tous les messages qui sont arrivés dans la période
@@ -6205,18 +6260,21 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   est spécialement utile en combinaison avec l'option de garder tous les
   messages.</p>
 
-  <dl>
-    <dt>Uniquement les messages non lus&nbsp;:</dt>
+  <dl class="traduire">
+
+	<dt>&retentionApplyToFlagged.label;</dt>
+
+	<dd>Use this option to deny &brandShortName; to delete any messages you have flagged.</dd>
+
+    <dt>&nntpRemoveMsgBody.label; [__] &daysOld.label;</dt>
 
     <dd>Sélectionnez cette option pour empêcher &brandShortName; d'effacer
-    les messages non lus.</dd>
-
-    <dt>&nntpDownloadMsg.label; [__] &daysOld.label;</dt>
-
-    <dd>Sélectionnez cette option pour empêcher &brandShortName; d'effacer
-    les messages qui sont plus récents que la période
-    spécifiée.</dd>
+    les messages qui sont plus récents que la période spécifiée.</dd>
   </dl>
+
+<p class="traduire">This policy can be overridden for an individual folder in the Folder Properties, Retention Policy tab.</p>
+
+<p class="traduire"><strong>Note:</strong> If message synchronization is enabled (for IMAP), or messages are left on the server for POP accounts), the settings apply to <em>both</em> local copies and their originals on the server.</p>
 
   <p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au
   début de la section</a>&nbsp;]</p>
@@ -6230,17 +6288,17 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   les indésirables, suivez ces étapes&nbsp;:</p>
 
   <ol>
-    <li>Ouvrez le menu <q>&editMenu.label;</q>, et choissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <li>Ouvrez le menu <q>&editMenu.label;</q>, et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
     <q>&accountManagerTitle.label;</q> s'ouvre.</li>
     <li>Cliquez sur la catégorie <q>&junkSettings.label;</q> de votre compte courrier.</li>
   </ol>
 
   <p>Utilisez le panneau des <q>&junkSettings.label;</q>
   pour définir les paramètres relatifs à votre compte pour
-  le filtre courrier adatatif. Les paramètres globaux relatifs aux
+  le filtre courrier adaptatif. Les paramètres globaux relatifs aux
   indésirables sont changés sous <a
-  href="#global_junk_settings">Préférences courrier et groupes -
-  Courriers indésirables</a>.</p>
+  href="junk_and_suspect_preferences">Préférences courrier et groupes -
+  Courriers indésirables et suspects</a>.</p>
 
   <dl>
 
@@ -6250,12 +6308,12 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
     <dt>&whitelist.label;</dt>
     <dd>Choisissez cette option pour éviter que des personnes que vous
-    connaissez ne soient par inadvertence classés dans les courriers
+    connaissez ne soient par inadvertance classés dans les courriers
     indésirables.</dd>
 
     <dt>&ispHeaders.label; [un système de filtrage externe, tel SpamAssassin
     ou Spam Pal]</dt>
-    <dd>Choissiez cette option si vous voulez faire confiance à la
+    <dd>Choisissez cette option si vous voulez faire confiance à la
     classification de programmes de filtrage externes.</dd>
 
     <dt>&move.label;</dt>
@@ -6295,7 +6353,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   <p>Cette section décrit la manière d'utiliser les
   paramètres d'accusés de réception pour un compte. Si les
   paramètres d'accusés de réception ne sont pas
-  affichées, suivez ces étapes&nbsp;:</p>
+  affichés, suivez ces étapes&nbsp;:</p>
 
   <ol>
     <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
@@ -6427,7 +6485,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   devez le spécifiez deux fois, une fois pour la signature
   numérique et une fois pour le chiffrement.</p>
 
-  <p>Les certificats sélectionné ici seront inclus dans tous les
+  <p>Les certificats sélectionnés ici seront inclus dans tous les
   messages signés que vous enverrez. Ces certificats permettront
   à vos destinataires de vérifier votre signature
   numérique et de chiffrer les messages qu'ils vous enverront.</p>
@@ -6476,7 +6534,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
     <dd>C'est l'option à sélectionner lorsque l'on souhaite
     utiliser systématiquement le chiffrement. Si vous n'avez pas tous
-    les certificats nécessaires, le messages ne sera pas envoyé
+    les certificats nécessaires, le message ne sera pas envoyé
     à moins que vous ne désactiviez le chiffrement pour ce
     message en particulier.</dd>
 
@@ -6594,25 +6652,21 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     <dd>Choisissez cette option si vous voulez utiliser un mécanisme sécurisé
     pour vous connecter (par exemple CRAM-MD5). Si vous n'êtes pas sûr que
     votre service le supporte, contacter votre fournisseur de courrier ou votre
-    admnisitrateur système.</dd>
+    administrateur système.</dd>
 
     <dt>&useSecAuth.label;&nbsp;:</dt>
 
     <dd>Il existe deux méthodes pour établir un connexion sécurisée à un serveur
     sortant. Choisissez celle qui est supportée par votre serveur (si vous
     choisissez une méthode non supportée par votre serveur, vous recevrez un
-    message d'erreur lors de l'envoie de courrier).
+    message d'erreur lors de l'envoi de courrier).
 
-    Si votre serveur sortant SMTP est configuré pour envoyer des
+    <p>Si votre serveur sortant SMTP est configuré pour envoyer des
     messages chiffrés, choisissez parmi les options suivantes (en cas
     de mauvaise configuration, un message d'erreur s'affichera chaque fois
-    que vous enverrez un message)&nbsp;:
+    que vous enverrez un message)&nbsp;:</p>
 
       <dl>
-<!--        <dt>Non&nbsp;:</dt>
-
-        <dd>Si vous ne désirez pas utiliser de connexion
-        sécurisée.</dd> -->
 
         <dt>&connectionSecurity.label;&nbsp;:</dt>
 
@@ -6621,11 +6675,6 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
       </dl>
     </dd>
 
-<!--    <dt>Avancés&hellip;&nbsp;:</dt>
-
-    <dd>Cliquez sur cette option pour configurer des serveurs SMTP
-    supplémentaires ou pour changer le serveur SMTP par
-    défaut.</dd> -->
   </dl>
 
   <p>[&nbsp;<a href="#mail_and_newsgroups_account_settings">Retour au
@@ -6667,7 +6716,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
       <li><a href="#addressing_preferences">&pref.addressing.title;</a></li>
 
-      <li><a href="#global_junk_settings">&pref.junk.title;</a></li>
+      <li><a href="#junk_and_suspect_preferences">&pref.junk.title;</a></li>
 
       <li><a href="#tags">&pref.tags.title;</a></li>
 
@@ -6675,7 +6724,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
 
       <li><a href="#character_encoding">&pref.character.encoding.title;</a></li>
 
-      <li><a href="#offline_and_disk_space_preferences">&pref.offline.title;</a></li>
+      <li><a href="#network_and_storage_preferences">&pref.network.title;</a></li>
     </ul>
   </div>
 
@@ -6727,7 +6776,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     <dd class="rediger">Sélectionnez cette option si vous voulez que &brandShortName; conserve
     les messages groupés par fil <a href="#sorting_and_threading_messages">lorsque vous
     triez les messages</a>. Si ce n'est pas activé, &brandShortName; affiche automatiquement les
-    messages non groupé par fil de discussion lorsque vous les triez en cliquant sur un titre
+    messages non groupés par fil de discussion lorsque vous les triez en cliquant sur un titre
     de colonne.</dd>
 
     <dt>&messengerStartPage.caption;</dt>
@@ -6746,43 +6795,6 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
   <p>[&nbsp;<a href="#mail_and_newsgroup_preferences">Retour au début de
   la section</a>&nbsp;]</p>
 
-  <!--<h2 id="windows">Préférences de Courrier &amp; Groupes -
-  Fenêtres</h2>
-
-  <p>Les préférences de la fenêtre vous permettent de
-  paramétrer la disposition et le comportement de celles-ci. Pour
-  définir les préférences de la fenêtre courrier,
-  procécédez comme suit&nbsp;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>. La boîte de dialogue
-    <q>&prefWindow.title;</q> s'affiche.</li>
-
-    <li>Dans la catégorie <q>Courrier et Groupes</q>, cliquez sur
-    <q>Fenêtres</q>. Si aucune sous-catégorie n'est visible,
-    double-cliquez sur <q>Courrier et Groupes</q> pour développer la
-    liste.</li>
-  </ol>
-
-  <dl>
-    <dt>Sélectionnez l'aspect des fenêtres pour le
-    courrier&nbsp;:</dt>
-
-    <dd>Choisissez la disposition des trois panneaux de la fenêtre
-    Courrier. Si vous modifier ce paramètre, il vous faut fermer puis
-    relancer &brandShortName; pour que vos changements prennent effets.</dd>
-
-    <dt>&openingMessages.label;</dt>
-
-    <dd>Choisissez si, lorsque vous ouvrez un message, &brandShortName; Courrier &amp;
-    Groupes l'affiche dans une nouvelle fenêtre ou dans une fenêtre
-    existante.</dd>
-  </dl>
-
-  <p>[&nbsp;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&nbsp;]</p>-->
 
   <h2 id="message_display">Préférences de Courrier &amp; Groupes -
   &pref.viewing.messages.title;</h2>
@@ -6814,16 +6826,15 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     existante.</dd>
 
     <dt>&disableContent.label;</dt>
+	
     <dd>Sélectionnez cette case si vous ne voulez pas
     télécharger les images et les autres contenus
     intégrés dans des pages Web envoyés en pièces
     jointes, excepté pour les expéditeurs autorisés dans
     votre carnet d'adresses. Cette case est cochée par défaut.</dd>
 
-    <!--<dt class="rediger">mais autoriser si l'expéditeur est dans ce carnet d'adresses</dt>
-    <dd class="rediger">Cochez cette case si vous voulez autoriser l'affichage des contenu distants dans les messages des expéditeurs présents dans le carnet d'adresse choisi. Cette case à cocher est active par défaut.</dd>-->
-
     <dt>&autoMarkAsRead.label;</dt>
+	
     <dd>Choisissez cette option si vous ne voulez pas que le message soit
     marqué comme lu quand vous ne voulez y jeter qu'un coup d'œil
     rapide. Saisissez le nombre de secondes pendant lesquelles vous voulez
@@ -6831,28 +6842,11 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     automatiquement.
 
       <p><strong>Astuce</strong>&nbsp;: Si vous ne voulez pas que votre client
-      de messagerie marquent vos messages comme lus automatiquement, vous
+      de messagerie marque vos messages comme lus automatiquement, vous
       pouvez sélectionner cette option et saisir un très grand
       nombre de secondes.</p>
 
     </dd>
-
-<!--    <dt>Encodage des caractères</dt>
-    <dd>Cliquez sur cette liste déroulante pour sélectionner l'encodage de caractères que vous
-    voulez utiliser par défaut pour votre courrier entrant et les messages de groupes.
-    Ceci est recommandé si vous recevez des messages dans lesquels l'encodage de caractères (MIME charset)
-    n'est pas indiqué, comme lorsque vous lisez des messages dans des groupes internationaux.</dd>
-
-    <dt>Appliquer ce codage à tous les messages (ignorer l'encodage des caractères se trouvant
-    dans l'en-tête MIME)</dt>
-    <dd>Sélectionnez ceci pour appliquer l'encodage de caractères par défaut à tous vos
-    messages.
-
-      <p><strong>Astuce</strong>&nbsp;: Vous pouvez voir ou modifier ultérieurement l'encodage de caractères
-      par défaut pour un dossier spécifique. Dans la fenêtre <q>Courrier</q>, sélectionnez un dossier
-      dans la liste des dossiers de courrier, ouvrez le menu <q>&viewMenu.label;</q> puis choisissez <q>Encodage des caractères</q>.</p>
-
-    </dd>-->
 
   </dl>
 
@@ -6941,33 +6935,6 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     </tbody>
   </table>
 
-  <!--<h3>Encodage de la langue</h3>
-
-  <dl>
-    <dt>Encodage des caractères&nbsp;:</dt>
-
-    <dd>Utilisez cette liste déroulante pour indiquer à &brandShortName;
-    Courrier &amp; Groupes quel encodage utiliser par défaut pour les
-    messages électroniques et de groupes entrants. Cette option est
-    conseillée si vous êtes susceptible de recevoir des messages
-    dont l'encodage de caractères n'est pas précisé, comme
-    lors de la lecture de messages dans des groupes internationaux.</dd>
-
-    <dt>Appliquer ce codage à tous les messages&nbsp;:</dt>
-
-    <dd>
-      Applique le codage des caractères par défaut à tous
-      les messages. Si un autre encodage est spécifié dans le
-      message, il sera ignoré.
-
-      <p><strong>Astuce</strong>&nbsp;: vous pouvez modifier
-      ultérieurement le codage des caractères pour un dossier
-      spécifique. Dans la fenêtre <q>Courrier</q>,
-      sélectionnez un dossier. Ouvrez ensuite le menu <q>&viewMenu.label;</q>
-      puis <q>Encodage des caractères</q> et choisissez ensuite celui
-      qui vous convient.</p>
-    </dd>
-  </dl>-->
 
   <p>[&nbsp;<a href="#mail_and_newsgroup_preferences">Retour au début de
   la section</a>&nbsp;]</p>
@@ -7037,7 +7004,7 @@ href="#addressing">d'omettre la signature</a> lors d'un transfert de message.</p
     <dt class="win">&showTrayIcon.label;</dt>
 
     <dd class="win">Choisissez cette option si vous voulez que &brandShortName;
-    Courier et groupes affiche une icône dans la zone de notification de votre
+    Courrier et groupes affiche une icône dans la zone de notification de votre
     système (habituellement placée dans le coin bas à droite de votre écran)
     quand de nouveaux messages arrivent. Cette icône restera dans la zone de
     notification tant que vous n'aurez pas été voir l'un de vos dossiers avec
@@ -7155,31 +7122,22 @@ enregistre le
     <dd>Entrez un nombre pour définir la marge droite du texte dans la
     zone de message.</dd>
 
-<!--    <dt>Encodage des caractères par défaut&nbsp;:</dt>
-
-    <dd>Sélectionnez l'encodage de caractères à utiliser
-    par Courrier &amp; Groupes par défaut pour les messages de courrier
-    et de groupe sortants. Cet encodage de caractères <strong>n'est
-    pas</strong> utilisé lorsque vous répondez à un
-    message. Au lieu de cela, c'est l'encodage de caractères du message
-    auquel vous répondez qui sera utilisé par défaut.
-    Choisissez d'utiliser votre encodage de caractères par défaut
-    pour les messages sortants, même pour les courriers auxquels vous
-    répondez.</dd>-->
-
     <dt class="rediger">Vérifier automatiquement l'orthographe avant d'envoyer</dt>
+	
     <dd class="rediger">Sélectionnez cette option pour que l'orthographe soit vérifiée avant d'envoyer
     un message.</dd>
 
     <dt class="rediger">Vérifier l'orthographe à la saisie</dt>
+	
     <dd class="rediger">Sélectionnez cette option si vous voulez que l'orthographe soit vérifiée
     pendant la rédaction du message.</dd>
 
-<dt class="rediger">Langague&nbsp;:</dt>
-<dd class="rediger">Utilisez la liste déroulante por choisir la langue à utiliser pour vérifier l'orthographe dans vos messages, ou pour installer d'autres dictionnaires.</dd>
+	<dt class="rediger">Langage&nbsp;:</dt>
+	
+	<dd class="rediger">Utilisez la liste déroulante por choisir la langue à utiliser pour vérifier
+	l'orthographe dans vos messages, ou pour installer d'autres dictionnaires.</dd>
 
-    <dt>Paramètres pas défaut pour les messages en
-    HTML&nbsp;:</dt>
+    <dt>Paramètres pas défaut pour les messages en HTML&nbsp;:</dt>
 
     <dd>Vous pouvez choisir ici l'apparence de vos messages au format HTML
     &ndash; le type de la police, sa couleur et sa taille, et enfin la couleur
@@ -7292,7 +7250,7 @@ enregistre le
   <p>Cette section décrit comment définir les préférences d'adressage de
   &brandShortName; Courrier &amp; Groupes (par exemple la collecte d'adresses
   électroniques et l'auto-complétion d'adresses). Si les paramètres d'adressage
-  nesont pas déjà affichés, procédez comme suit&nbsp;:</p>
+  ne sont pas déjà affichés, procédez comme suit&nbsp;:</p>
 
   <ol>
     <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
@@ -7314,20 +7272,6 @@ enregistre le
     pour choisir si ces adresses seront ajoutées à vos <q>Adresses
     personnelles</q> ou aux <q>Adresses collectées</q>.
 
-      <!--Choisissez la manière dont &brandShortName; Courrier &amp; Groupes ajoutera
-      les adresses d'expéditeurs et de destinataires à votre
-      carnet d'adresses collectées (provenant des messages entrants,
-      sortants et des messages de groupes).-->
-
-      <!--<p><strong>Remarque</strong>&nbsp;: outre votre carnet d'adresses
-      personnelles, &brandShortName; Courrier &amp; Groupes possède un carnet
-      d'adresses collectées pouvant enregistrer automatiquement les
-      adresses comprises dans les messages entrants et/ou sortants. Par
-      défaut, les adresses électroniques contenues dans les
-      messages sortants sont stockés dès que vous cliquez sur
-      <q>Envoyer</q>. Pour les messages entrants, Courrier &amp; Groupes stocke
-      les adresses de chaque message dès leur ouverture. Vos changements
-      prendront effet lors du redémarrage de &brandShortName;.</p>-->
     </dd>
 
     <dt id="address_autocompletion">&addressingTitle.label;</dt>
@@ -7374,11 +7318,11 @@ enregistre le
 
 
 <div class="rediger">
-  <h2 id="global_junk_settings">Courrier et groupes - &pref.junk.title;</h2>
+  <h2 id="junk_and_suspect_preferences">Courrier et groupes - &pref.junk.title;</h2>
 
     <p>Cette section décrit comment utiliser le panneau de préférences des
-    courriers indésirables. Si vous ne voyez pas actuellement le panneau de
-    préférences des courriers indésirables, suivez ces étapes&nbsp;:</p>
+    courriers indésirables et suspects. Si vous ne voyez pas actuellement le panneau de
+    préférences des courriers indésirables et suspects, suivez ces étapes&nbsp;:</p>
 
     <ol>
       <li>Ouvrez le menu <span class="mac">&brandShortName;</span>
@@ -7386,11 +7330,11 @@ enregistre le
       <q>&preferencesCmd.label;</q>.</li>
 
       <li>Sous la catégorie <q>Courriers et groupes</q>, choisissez
-      <q>&pref.junk.title;s</q>. Si aucune sous-catégorie n'est visible,
+      <q>&pref.junk.title;</q>. Si aucune sous-catégorie n'est visible,
       double-cliquez sur <q>Courriers et groupes</q> pour déplier la liste.</li>
     </ol>
 
-    <dl>
+    <dl class="traduire">
 
       <dt>&manualMark.label;</dt>
 
@@ -7435,12 +7379,21 @@ enregistre le
 
       <dt>&enableJunkLogging.label;</dt>
 
-      <dd>Choisissez cette option pour autoriser l'enregistrement de l'historique de la déection des messages indésirables. Cliquez sur le bouton <strong>&openJunkLog.label;</strong> pour ouvrir une boîte de dialogue affichant ce journal.</dd>
+      <dd>Choisissez cette option pour autoriser l'enregistrement de l'historique de la détection des messages indésirables. Cliquez sur le bouton <strong>&openJunkLog.label;</strong> pour ouvrir une boîte de dialogue affichant ce journal.</dd>
 
       <dt>&resetTrainingData.label;</dt>
 
       <dd>Cliquez sur ce bouton pour effacer les données d'entraînement du filtre adaptatif des indésirables. Étant donné que ceci va détruire votre profil personnel des indésirables, vous devrez le confirmer.
       </dd>
+
+	  <dd>&enablePhishingDetector.label;</dt>
+
+	  <dd>Choose this to make &brandShortName; analyze messages for suspected email scams by looking for common techniques used to deceive people.</dd>
+
+	  <dt>&antiVirus.label;</dt>
+
+	  <dd>Choose this to let &brandShortName; make it easier for anti-virus software to analyze incoming mail messages for viruses before they are stored locally.</dd>
+
     </dl>
 
   <p>[&nbsp;<a href="#mail_and_newsgroup_preferences">Retour au début de
@@ -7619,11 +7572,11 @@ enregistre le
   la section</a>&nbsp;]</p>
 
 
-  <h2 id="offline_and_disk_space_preferences">Préférences de
-  Courrier &amp; Groupes - &pref.offline.title;</h2>
+  <h2 id="network_and_storage_preferences">Préférences de
+  Courrier &amp; Groupes - &pref.network.title;</h2>
 
   <p>Cette section décrit comment utiliser le panneau de
-  préférences hors connexion et espace disque. Si ce panneau n'est
+  préférences <q>&networkStorage.label;</q>. Si ce panneau n'est
   pas affiché actuellement, procédez comme suit&nbsp;:</p>
 
   <ol>
@@ -7633,12 +7586,12 @@ enregistre le
     <q>&prefWindow.title;</q> s'affiche.</li>
 
     <li>Sous la catégorie <q>Courrier et Groupes</q>, sélectionnez
-    <q>&pref.offline.title;</q>. Si aucune sous-catégorie n'est
+    <q>&pref.network.title;</q>. Si aucune sous-catégorie n'est
     visible, double-cliquez sur <q>Courrier et Groupes</q> pour
     développer la liste.</li>
   </ol>
 
-  <p>Les préférences Hors connexion et espace disque vous permettent
+  <p>Les préférences &networkStorage.label; vous permettent
   de régler les préférences le travail en mode hors connexion,
   le passage en mode en ligne, et l'espace disque.</p>
 
@@ -7708,6 +7661,11 @@ enregistre le
         <dd>Aucun message ne sera téléchargé.</dd>
       </dl>
     </dd>
+
+	<dt>Connexions messagerie</dt>
+
+	<dd>Choisissez la durée pendant laquelle &brandShortName; Courrier &amp; Groupes essayera de
+	rester en contact avec le serveur avant un dépassement du délai de connexion.</dd>
 
     <dt>&Diskspace;</dt>
 
