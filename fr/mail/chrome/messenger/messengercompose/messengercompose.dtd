@@ -71,6 +71,8 @@
 <!ENTITY editRewrapCmd.accesskey  "o">
 <!ENTITY deleteCmd.label "Supprimer">
 <!ENTITY deleteCmd.accesskey "e">
+<!ENTITY removeAttachment.label "Supprimer la pièce jointe">
+<!ENTITY removeAttachment.accesskey "j">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T"> 
