@@ -59,19 +59,41 @@
 
 <!ENTITY editMessageDescription.label "Tai – laiško juodraštis">
 <!ENTITY editMessageButton.label "Taisyti…">
-<!ENTITY archiveButton.label "archyvuoti">
+<!ENTITY hdrArchiveButton.label "archyvuoti">
+<!ENTITY hdrArchiveButton.tooltip "archyvuoti šį laišką">
 <!ENTITY hdrReplyButton.label "atsakyti">
+<!ENTITY hdrReplyButton.tooltip "atsakyti į šį laišką">
 <!ENTITY hdrReplyAllButton.label "atsakyti visiems">
-<!ENTITY hdrReplyListButton.label "atsakyti el. pašto grupei">
+<!ENTITY hdrReplyAllButton.tooltip "atsakyti laiško siuntėjui ir visiems gavėjams">
+<!ENTITY hdrReplyListButton.label "atsakyti grupei">
+<!ENTITY hdrReplyListButton.tooltip "atsakyti el. pašto grupei">
 <!ENTITY hdrForwardButton.label "persiųsti">
+<!ENTITY hdrForwardButton.tooltip "persiųsti šį laišką">
 <!ENTITY hdrJunkButton.label "šlamštas">
-<!ENTITY trashButton.tooltiptext "pašalinti">
+<!ENTITY hdrJunkButton.tooltip "pažymėti šį laišką kaip šlamštą">
+<!ENTITY hdrTrashButton.label "pašalinti">
+<!ENTITY hdrTrashButton.tooltip "pašalinti šį laišką">
+
+<!ENTITY hdrViewToolbarShowFull.label "Rodyti piktogramas ir tekstą">
+<!ENTITY hdrViewToolbarShowFull.accesskey "i">
+<!ENTITY hdrViewToolbarShowIcons.label "Rodyti tik piktogramas">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "p">
+<!ENTITY hdrViewToolbarShowText.label "Rodyti tik tekstą">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Visuomet siūlyti atsakyti siuntėjui">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "s">
 
 <!ENTITY otherActionsButton.label "kiti veiksmai">
+<!ENTITY otherActionsShowConversation.label "rodyti diskusijoje">
+<!ENTITY otherActionsShowConversation.accesskey "d">
 <!ENTITY otherActionsOpenInNewWindow.label "atverti naujame lange">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "l">
 <!ENTITY otherActionsOpenInNewTab.label "atverti naujoje kortelėje">
 <!ENTITY otherActionsOpenInNewTab.accesskey "k">
+<!ENTITY markAsReadMenuItem.label "pažymėti kaip skaitytą">
+<!ENTITY markAsReadMenuItem.accesskey "ž">
+<!ENTITY markAsUnreadMenuItem.label "pažymėti kaip neskaitytą">
+<!ENTITY markAsUnreadMenuItem.accesskey "ž">
 <!ENTITY saveAsMenuItem.label "įrašyti kaip…">
 <!ENTITY saveAsMenuItem.accesskey "r">
 <!ENTITY viewSourceMenuItem.label "pirminis tekstas…">

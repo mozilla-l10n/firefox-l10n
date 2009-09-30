@@ -47,7 +47,7 @@
 <!ENTITY manualMarkModeMove.label       "perkelti juos į paskyros aplanką „Šlamštas“">
 <!ENTITY manualMarkModeMove.accesskey   "m">
 <!ENTITY manualMarkModeDelete.label     "pašalinti juos">
-<!ENTITY manualMarkModeDelete.accesskey "p">
+<!ENTITY manualMarkModeDelete.accesskey "š">
 
 <!ENTITY markAsRead.intro               "Laiškus, įgijusius šlamšto statusą, žymėti kaip skaitytus:">
 <!ENTITY autoMarkAsRead.label           "kai jį suteikia „&brandShortName;“ šlamšto filtrai">
@@ -58,6 +58,18 @@
 <!ENTITY enableJunkLogging.label        "Įrašyti šlamšto filtravimo veiksmus">
 <!ENTITY enableJunkLogging.accesskey    "e">
 <!ENTITY openJunkLog.label              "Rodyti žurnalą">
-<!ENTITY openJunkLog.accesskey          "R">
+<!ENTITY openJunkLog.accesskey          "ž">
 <!ENTITY resetTrainingData.label        "Atstatyti automatinės kontrolės duomenis">
 <!ENTITY resetTrainingData.accesskey    "t">
+
+<!ENTITY pref.suspectMail.caption           "Įtartini laiškai">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption              "Apgaulingi laiškai">
+<!ENTITY enablePhishingDetector.label       "Pranešti, jei įtariama, jog skaitomame laiške slypi apgaulė">
+<!ENTITY enablePhishingDetector.accesskey   "a">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption             "Antivirusinė apsauga">
+<!ENTITY antiVirus.label                    "Leisti antivirusinėms programoms patikrinti, ar gautuose laiškuose nėra virusų">
+<!ENTITY antiVirus.accesskey                "L">

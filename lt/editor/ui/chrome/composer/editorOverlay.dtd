@@ -98,11 +98,9 @@
 <!ENTITY pasteAs.accesskey             "t">
 <!ENTITY publishSettings.label         "Publikavimo nuostatos…">
 <!ENTITY publishSettings.accesskey     "b">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
 <!ENTITY pasteAsQuotationCmd.label     "Įdėti kaip citatą">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
+<!ENTITY pasteAsQuotationCmd.key       "o">
 <!ENTITY findCmd.label                 "Ieškoti ir pakeisti…">
 <!ENTITY findCmd.accesskey             "I">
 <!ENTITY findCmd.key                   "F">

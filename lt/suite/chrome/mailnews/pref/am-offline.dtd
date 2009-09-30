@@ -12,7 +12,6 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
    -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
@@ -30,34 +29,37 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "Taupant vietą diske, neparsiųsti:">
-<!ENTITY doNotDownload.label "Taupant vietą diske, darbui atsijungus nuo tinklo neparsiųsti:">
+<!ENTITY doNotDownloadPop3Movemail.label    "Taupant vietą diske, neparsiųsti:">
+<!ENTITY doNotDownloadNntp.label            "Taupant vietą diske, naudojimui atsijungus nuo tinklo neparsiųsti:">
+<!ENTITY doNotDownloadImap.label            "Taupant vietą diske, galima apriboti laiškų, parsiunčiamų iš serverio ir laikomų diske naudojimui atsijungus, amžių bei dydį.">
 <!ENTITY allFoldersOffline.label "Šios paskyros laiškus laikyti šiame kompiuteryje">
 <!ENTITY allFoldersOffline.accesskey "Š">
 <!ENTITY offlineNotDownload.label "laiškų, didesnių kaip">
 <!ENTITY offlineNotDownload.accesskey "d">
+<!ENTITY autosyncNotDownload.label          "Neparsiųsti laiškų, didesnių kaip">
+<!ENTITY autosyncNotDownload.accesskey      "d">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "d.">
 <!ENTITY message.label "laiškų">
 <!ENTITY nntpNotDownloadRead.label "skaitytų laiškų">
 <!ENTITY nntpNotDownloadRead.accesskey "k">
 <!ENTITY nntpDownloadMsg.label "laiškų, senesnių nei">
-<!ENTITY nntpDownloadMsg.accesskey "s">
+<!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Taupant vietą diske, senus laiškus galima negrąžinamai šalinti.">
 <!ENTITY retentionCleanupImap.label "Taupant vietą diske, senus laiškus (tiek vietines kopijas, tiek jų originalus serveryje) galima negrąžinamai šalinti.">
 <!ENTITY retentionCleanupPop.label "Taupant vietą diske, senus laiškus (taip pat ir jų originalus serveryje) galima negrąžinamai šalinti.">
-<!ENTITY retentionKeepMsg.label "šalinti laiškus, senesnius nei">
-<!ENTITY retentionKeepMsg.accesskey "š">
-<!ENTITY retentionKeepAll.label "nešalinti laiškų">
-<!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepRecent.label "šalinti visus išskyrus paskiausius">
+<!ENTITY retentionKeepMsg.label "Šalinti laiškus, senesnius nei">
+<!ENTITY retentionKeepMsg.accesskey "s">
+<!ENTITY retentionKeepAll.label "Nešalinti laiškų">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepRecent.label "Šalinti visus išskyrus paskiausius">
 <!ENTITY retentionKeepRecent.accesskey "p">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "visuomet šalinti skaitytus laiškus (nepaisant jų amžiaus)">
-<!ENTITY retentionApplyToFlagged.label "visuomet palikti žvaigždute pažymėtus laiškus">
+<!ENTITY retentionKeepUnreadHidden.label "Visuomet šalinti skaitytus laiškus (nepaisant jų amžiaus)">
+<!ENTITY retentionApplyToFlagged.label "Visuomet palikti vėliavėle pažymėtus laiškus">
 <!ENTITY retentionApplyToFlagged.accesskey "ž">
-<!ENTITY nntpRemoveMsgBody.label "šalinti laiškus, senesnius nei">
-<!ENTITY nntpRemoveMsgBody.accesskey "š">
+<!ENTITY nntpRemoveMsgBody.label "Šalinti laiškus, senesnius nei">
+<!ENTITY nntpRemoveMsgBody.accesskey "s">
 <!ENTITY offlineSelectNntp.label "Parinkti naujienų grupes darbui atsijungus…">
 <!ENTITY offlineSelectNntp.accesskey "P">
 <!ENTITY offlineImapAdvancedOffline.label "Papildomai…">
@@ -65,17 +67,19 @@
 <!ENTITY syncGroupTitle.label "Laiškų sinchronizavimas">
 <!ENTITY diskspaceGroupTitle.label "Disko atmintinė">
 
-<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
-  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
-  useAutosyncAfter.label appear on a single line in preferences as follows:
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
 
-  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY useAutosyncBefore.label         "Podėlyje laikyti">
-<!ENTITY useAutosyncMiddle.label         "">
-<!ENTITY allInterval.label               "visus">
-<!ENTITY dayInterval.label               "pastarųjų dienų">
-<!ENTITY weekInterval.label              "pastarųjų savaičių">
-<!ENTITY monthInterval.label             "pastarųjų mėnesių">
-<!ENTITY yearInterval.label              "pastarųjų metų">
-<!ENTITY useAutosyncAfter.label          "laiškus">
+<!ENTITY allAutosync.label                  "Sinchronizuoti visus laiškus, neatsižvelgiant į jų amžių">
+<!ENTITY allAutosync.accesskey              "v">
+<!ENTITY ageAutosyncBefore.label            "Sinchronizuoti tik pastarųjų">
+<!ENTITY ageAutosync.accesskey              "z">
+<!ENTITY ageAutosyncMiddle.label            "">
+<!ENTITY dayAgeInterval.label               "dienų">
+<!ENTITY weekAgeInterval.label              "savaičių">
+<!ENTITY monthAgeInterval.label             "mėnesių">
+<!ENTITY yearAgeInterval.label              "metų">
+<!ENTITY ageAutosyncAfter.label             "laiškus">

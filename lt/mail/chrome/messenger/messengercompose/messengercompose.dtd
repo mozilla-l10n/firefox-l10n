@@ -97,6 +97,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "d">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Laužyti iš naujo">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "n">
@@ -282,6 +283,8 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Pašalinti">
 <!ENTITY delete.accesskey "š">
+<!ENTITY removeAttachment.label "Pašalinti priedą">
+<!ENTITY removeAttachment.accesskey "š">
 <!ENTITY renameAttachment.label "Pervardinti…">
 <!ENTITY renameAttachment.accesskey "P">
 <!ENTITY selectAll.label "Pažymėti viską">

@@ -50,10 +50,10 @@
 <!ENTITY fileButton.label            "Perkelti į aplanką">
 <!ENTITY fileButton.accesskey        "P">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY openInFolder.label          "Atverti aplanke">
-<!ENTITY openInFolder.accesskey      "t">
-<!ENTITY saveAsVFButton.label      "Įrašyti kaip radinių aplanką">
-<!ENTITY saveAsVFButton.accesskey  "a">
+<!ENTITY openInFolder.label          "Rodyti aplanke">
+<!ENTITY openInFolder.accesskey      "R">
+<!ENTITY saveAsVFButton.label        "Įrašyti kaip radinių aplanką">
+<!ENTITY saveAsVFButton.accesskey    "a">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Kur ieškoti:">
