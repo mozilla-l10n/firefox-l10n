@@ -741,7 +741,10 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY stopCmd.accesskey "r">
 <!ENTITY reloadCmd.label "Actualiser">
 <!ENTITY reloadCmd.accesskey "c">
-
+<!ENTITY openInBrowser.label         "Ouvrir dans le navigateur">
+<!ENTITY openInBrowser.accesskey     "n">
+<!ENTITY openLinkInBrowser.label     "Ouvrir le lien dans le navigateur">
+<!ENTITY openLinkInBrowser.accesskey "a">
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Chargé">
 
