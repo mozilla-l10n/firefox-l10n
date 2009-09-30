@@ -169,8 +169,8 @@
 
 <!ENTITY folderView.label "Aplankai">
 <!ENTITY folderView.accesskey "A">
-<!ENTITY smartFolders.label "Radiniai">
-<!ENTITY smartFolders.accesskey "R">
+<!ENTITY smartFolders.label "Suvestiniai">
+<!ENTITY smartFolders.accesskey "S">
 <!ENTITY allFolders.label "Visi">
 <!ENTITY allFolders.accesskey "V">
 <!ENTITY unreadFolders.label "Turintys neskaitytų laiškų">
@@ -734,7 +734,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.label "Kopijuoti el. pašto adresą">
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CopyNewsgroupName.label "Kopijuoti naujienų grupės pavadinimą">
-<!ENTITY CopyNewsgroupName.accesskey "K">
+<!ENTITY CopyNewsgroupName.accesskey "o">
+<!ENTITY CopyNewsgroupURL.label "Kopijuoti naujienų grupės adresą">
+<!ENTITY CopyNewsgroupURL.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Sukurti filtrą…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Pranešti apie apgaulingą laišką">
@@ -745,17 +747,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "Į">
 <!ENTITY saveImageAsCmd.label "Įrašyti paveikslą kaip…">
 <!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY cutCmd.label "Iškirpti">
+<!ENTITY cutCmd.accesskey "r">
 <!ENTITY copyCmd.label "Kopijuoti">
 <!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Įdėti">
+<!ENTITY pasteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "Pažymėti viską">
 <!ENTITY selectAllCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "Kopijuoti saito adresą">
-<!ENTITY copyLinkCmd.accesskey "a">
+<!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageCmd.label "Kopijuoti paveikslo adresą">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageCmd.accesskey "p">
 <!ENTITY copyEmailCmd.label "Kopijuoti el. pašto adresą">
 <!ENTITY copyEmailCmd.accesskey "e">
-
+<!ENTITY stopCmd.label "Stabdyti">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "Atsiųsti iš naujo">
+<!ENTITY reloadCmd.accesskey "n">
+<!ENTITY openInBrowser.label "Atverti naršyklėje">
+<!ENTITY openInBrowser.accesskey "a">
+<!ENTITY openLinkInBrowser.label "Atverti saistomą objektą naršyklėje">
+<!ENTITY openLinkInBrowser.accesskey "t">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Įkelta">

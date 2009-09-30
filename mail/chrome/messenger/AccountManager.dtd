@@ -34,8 +34,12 @@
 
 <!ENTITY accountManagerTitle.label "Paskyrų nuostatos">
 
-<!ENTITY addAccountButton.label "Nauja paskyra…">
-<!ENTITY addAccountButton.accesskey "N">
+<!ENTITY accountActionsButton.label "Veiksmai">
+<!ENTITY accountActionsButton.accesskey "V">
+<!ENTITY addMailAccountButton.label "Nauja pašto paskyra…">
+<!ENTITY addMailAccountButton.accesskey "N">
+<!ENTITY addOtherAccountButton.label "Nauja kito tipo paskyra…">
+<!ENTITY addOtherAccountButton.accesskey "k">
 <!ENTITY setDefaultButton.label "Laikyti pirmąja">
 <!ENTITY setDefaultButton.accesskey "L">
 <!ENTITY removeButton.label "Pašalinti paskyrą">

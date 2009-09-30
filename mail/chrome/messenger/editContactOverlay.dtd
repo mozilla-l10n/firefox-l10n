@@ -28,6 +28,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY editContactPanelDeleteContact.label "Pašalinti">
+<!ENTITY editContactPanelDeleteContact.accesskey "š">
+
 <!ENTITY editContactName.label "Vardas:">
 <!ENTITY editContactName.accesskey "V">
 

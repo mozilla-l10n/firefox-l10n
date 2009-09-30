@@ -41,6 +41,8 @@
 <!ENTITY releaseCmd.accesskey    "L">
 <!ENTITY whatsNewCmd.label       "Laidos naujovės">
 <!ENTITY whatsNewCmd.accesskey   "n">
+<!ENTITY featureConfiguratorCmd.label "Migravimo pagelbiklis">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label          "Žinyno turinys">
 <!ENTITY openHelp.accesskey      "Ž">
 <!ENTITY openHelp.commandkey     "VK_F1">
@@ -49,5 +51,5 @@
 <!ENTITY openHelpMac2.modifiers  "accel">
 
 <!ENTITY updateCmd.label         "Ieškoti naujinimų…">
-<!ENTITY aboutCmd.label          "Apie „&brandFullName;“">
-<!ENTITY aboutCmd.accesskey      "A">
+<!ENTITY aboutMenuCmd.label      "Apie „&brandShortName;“">
+<!ENTITY aboutMenuCmd.accesskey  "A">
