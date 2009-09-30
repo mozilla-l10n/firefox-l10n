@@ -57,13 +57,29 @@
 
 <!ENTITY editMessageDescription.label "Taslak ileti">
 <!ENTITY editMessageButton.label "Düzenle…">
-<!ENTITY archiveButton.label "Arşivle">
+<!ENTITY hdrArchiveButton.label "Arşivle">
+<!ENTITY hdrArchiveButton.tooltip "Bu iletiyi arşivle">
 <!ENTITY hdrReplyButton.label "Yanıtla">
+<!ENTITY hdrReplyButton.tooltip "İletiyi yanıtla">
 <!ENTITY hdrReplyAllButton.label "Hepsini yanıtla">
+<!ENTITY hdrReplyAllButton.tooltip "Göndereni ve tüm alıcıları yanıtla">
 <!ENTITY hdrReplyListButton.label "Listeyi yanıtla">
+<!ENTITY hdrReplyListButton.tooltip "E-posta listesini yanıtla">
 <!ENTITY hdrForwardButton.label "İlet">
+<!ENTITY hdrForwardButton.tooltip "Bu iletiyi ilet">
 <!ENTITY hdrJunkButton.label "Gereksiz">
-<!ENTITY trashButton.tooltiptext "Sil">
+<!ENTITY hdrJunkButton.tooltip "İletiyi gereksiz olarak işaretle">
+<!ENTITY hdrTrashButton.label "Sil">
+<!ENTITY hdrTrashButton.tooltip "İletiyi sil">
+
+<!ENTITY hdrViewToolbarShowFull.label "Simgeleri ve metni göster">
+<!ENTITY hdrViewToolbarShowFull.accesskey "v">
+<!ENTITY hdrViewToolbarShowIcons.label "Sadece simgeleri göster">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "s">
+<!ENTITY hdrViewToolbarShowText.label "Sadece metni göster">
+<!ENTITY hdrViewToolbarShowText.accesskey "m">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Göndereni yanıtla'yı her zaman göster">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "G">
 
 <!ENTITY otherActionsButton.label "Diğer eylemler">
 <!ENTITY otherActionsShowConversation.label "Konuşma içinde göster">
@@ -72,6 +88,10 @@
 <!ENTITY otherActionsOpenInNewWindow.accesskey "Y">
 <!ENTITY otherActionsOpenInNewTab.label "Yeni sekmede aç">
 <!ENTITY otherActionsOpenInNewTab.accesskey "s">
+<!ENTITY markAsReadMenuItem.label "Okunmuş olarak işaretle">
+<!ENTITY markAsReadMenuItem.accesskey "O">
+<!ENTITY markAsUnreadMenuItem.label "Okunmamış olarak işaretle">
+<!ENTITY markAsUnreadMenuItem.accesskey "n">
 <!ENTITY saveAsMenuItem.label "Farklı kaydet…">
 <!ENTITY saveAsMenuItem.accesskey "F">
 <!ENTITY viewSourceMenuItem.label "Kaynağını göster">

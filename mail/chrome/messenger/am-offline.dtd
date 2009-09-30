@@ -1,12 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Yer sıkıntısı çekmemek için indirilmeyenler:">
 <!ENTITY doNotDownloadNntp.label "Sabit diske kaydet (çevrim dışı kullanım için indirme):">
-<!ENTITY doNotDownloadImap.label "To save disk space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
+<!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesi ve çevrim dışı için yerel kopyalarının bulundurması boyut veya yaş ile sınırlandırılabilir.">
 <!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
 <!ENTITY allFoldersOffline.accesskey "H">
 <!ENTITY offlineNotDownload.label "İletiler">
 <!ENTITY offlineNotDownload.accesskey "r">
 <!ENTITY autosyncNotDownload.label "İletiler">
-<!ENTITY autosyncNotDownload.accesskey "m">
+<!ENTITY autosyncNotDownload.accesskey "t">
 <!ENTITY kb.label "KB den büyük ise indirme">
 <!ENTITY daysOld.label "günden eski iletileri indir">
 <!ENTITY message.label "iletiyi bırak">
