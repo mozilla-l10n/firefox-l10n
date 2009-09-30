@@ -1,7 +1,7 @@
 # AFFIXES POUR LE DICTIONNAIRE CLASSIQUE & RÉFORME 1990
 # par Olivier R. -- licences LGPL, GPL, MPL
-# Généré le 15.06.2009  21:14:45
-# Pour améliorer le dictionnaire, allez sur http://dicollecte.net/
+# Généré le 14.09.2009  12:38:49
+# Pour améliorer le dictionnaire, allez sur http://www.dicollecte.org/
 
 
 
@@ -239,6 +239,13 @@ SFX X. 0 x [aeoœ]u
 SFX X. l ux al
 SFX X. il ux ail
 
+SFX A. Y 5
+SFX A. an en an
+SFX A. h hes h
+SFX A. s ses s
+SFX A. x xes x
+SFX A. y ies y
+
 SFX F. Y 65
 SFX F. 0 0 .
 SFX F. 0 s [eë]
@@ -324,6 +331,18 @@ SFX X* 0 0/D'L'Q' .
 SFX X* 0 x/D'Q' [aeoœ]u
 SFX X* l ux/D'Q' al
 SFX X* il ux/D'Q' ail
+
+SFX A* Y 10
+SFX A* an an/D'L'Q' an
+SFX A* an en/D'Q' an
+SFX A* h h/D'L'Q' h
+SFX A* h hes/D'Q' h
+SFX A* s s/D'L'Q' s
+SFX A* s ses/D'Q' s
+SFX A* x h/D'L'Q' x
+SFX A* x hes/D'Q' x
+SFX A* y y/D'L'Q' y
+SFX A* y ies/D'Q' y
 
 SFX F* Y 65
 SFX F* 0 0/D'L'Q' .
@@ -523,12 +542,14 @@ SFX zA voir yons/n'l't' avoir
 SFX zA voir yez/n'l'm' avoir
 SFX zA voir ient/n'l'm't' avoir
 
-SFX zB Y 16
+SFX zB Y 18
 SFX zB us u eus
 SFX zB us us eus
 SFX zB us ue eus
 SFX zB us ues eus
 SFX zB us us/n'q'j'l'm't' eus
+SFX zB us ussé eus
+SFX zB us ussè eus
 SFX zB us us/n'q'l'm't' eus
 SFX zB us ut/n'q'c'l'm't' eus
 SFX zB us ûmes/n'q'l't' eus
@@ -581,8 +602,10 @@ SFX zG tais tions/n'q'l't' étais
 SFX zG tais tiez/n'q'l'm' étais
 SFX zG tais taient/n'q'c'l'm't's' étais
 
-SFX zH N 12
+SFX zH N 14
 SFX zH us us fus
+SFX zH us ussé fus
+SFX zH us ussè fus
 SFX zH us us fus
 SFX zH us ut fus
 SFX zH us ûmes fus
@@ -7656,9 +7679,9 @@ SFX iG êtir êtaient vêtir
 SFX iG êtir êtis vêtir
 SFX iG êtir êtis vêtir
 SFX iG êtir êtit vêtir
-SFX iG êtir êtions vêtir
-SFX iG êtir êtiez vêtir
-SFX iG êtir êtaient vêtir
+SFX iG êtir êtîmes vêtir
+SFX iG êtir êtîtes vêtir
+SFX iG êtir êtirent vêtir
 SFX iG êtir êtirai vêtir
 SFX iG êtir êtiras vêtir
 SFX iG êtir êtira vêtir
@@ -8364,11 +8387,14 @@ SFX iY ssir ssus/q' issir
 SFX iY ssir ssue/q' issir
 SFX iY ssir ssues/q' issir
 
-SFX pA N 46
+SFX pA N 51
 SFX pA ouvoir ouvoir pouvoir
 SFX pA ouvoir ouvant pouvoir
 SFX pA ouvoir u pouvoir
 SFX pA ouvoir eux pouvoir
+SFX pA ouvoir uis pouvoir
+SFX pA ouvoir uissé pouvoir
+SFX pA ouvoir uissè pouvoir
 SFX pA ouvoir uis pouvoir
 SFX pA ouvoir eux pouvoir
 SFX pA ouvoir eut pouvoir
@@ -8406,6 +8432,8 @@ SFX pA ouvoir uissions pouvoir
 SFX pA ouvoir uissiez pouvoir
 SFX pA ouvoir uissent pouvoir
 SFX pA ouvoir usse pouvoir
+SFX pA ouvoir ussé pouvoir
+SFX pA ouvoir ussè pouvoir
 SFX pA ouvoir usses pouvoir
 SFX pA ouvoir ût pouvoir
 SFX pA ouvoir ussions pouvoir
@@ -8929,7 +8957,7 @@ SFX pP paroir paroir comparoir
 SFX pP paroir parant comparoir
 
 SFX pQ N 2
-SFX pQ haloir chaloir chaloir
+SFX pQ haloir haloir chaloir
 SFX pQ haloir halant chaloir
 
 SFX pR Y 2

@@ -1,10 +1,10 @@
 _______________________________________________________________________________
 
    Dictionnaire orthographique français «Classique & Réforme 1990»
-   version 3.3
+   version 3.4.1
    
    Olivier R. - dicollecte at free dot fr
-   Dicollecte: http://dicollecte.net/
+   Dicollecte: http://www.dicollecte.org/
    
    Licences:
    * MPL: Mozilla Public License
@@ -27,10 +27,9 @@ _______________________________________________________________________________
    correcteur Hunspell: OpenOffice.org 2.1+, Firefox 3+, Thunderbird 3+
 
    Remerciements à:
+   - Laurent Dubois, Pierre Poisson pour leur active participation;
    - Romain Muller et Serge Bibauw, de l’association RENOUVO, grâce à qui
      la nouvelle orthographe et ses anciennes variantes ont pu être établies;
-   - Laurent Dubois, Pierre Poisson, Jean-Philippe Fleury pour leur 
-     active participation;
    - et à tous ceux qui ont apporté leur pierre à l’édifice.
 
 _______________________________________________________________________________
