@@ -22,9 +22,9 @@ IMAP synchronization feature. The words should probably echo the word used
 in the per-account dialog.-->
 <!ENTITY featureConfigurator.imap.heading "Synchroniser les messages IMAP">
 
-<!ENTITY featureConfigurator.imap.status.all "Tous vos dossiers IMAP sont paramétrés à &laquot;synchroniser&raquot;.">
+<!ENTITY featureConfigurator.imap.status.all "Tous vos dossiers IMAP sont paramétrés à &laquo;synchroniser&raquo;.">
 
-<!ENTITY featureConfigurator.imap.status.none "Aucun de vos dossiers IMAP n'est paramétré à &laquot;synchroniser&raquot;.">
+<!ENTITY featureConfigurator.imap.status.none "Aucun de vos dossiers IMAP n'est paramétré à &laquo;synchroniser&raquo;.">
 
 <!ENTITY featureConfigurator.imap.status.some "Certains de vos dossiers IMAP sont paramétrés à &laquot;synchroniser&raquot;.">
 
