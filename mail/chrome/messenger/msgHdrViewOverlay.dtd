@@ -57,14 +57,27 @@
 
 <!ENTITY editMessageDescription.label "Ceci est un brouillon">
 <!ENTITY editMessageButton.label "Modifier…">
-<!ENTITY archiveButton.label "archiver">
+<!ENTITY hdrArchiveButton.label "archiver">
+<!ENTITY hdrArchiveButton.tooltip "archiver ce message">
 <!ENTITY hdrReplyButton.label "répondre">
+<!ENTITY hdrReplyButton.tooltip "répondre à ce message">
 <!ENTITY hdrReplyAllButton.label "répondre à tous">
+<!ENTITY hdrReplyAllButton.tooltip "répondre à tous les destinataires">
 <!ENTITY hdrReplyListButton.label "répondre à la liste">
+<!ENTITY hdrReplyListButton.tooltip "répondre à la liste de diffusion">
 <!ENTITY hdrForwardButton.label "transférer">
+<!ENTITY hdrForwardButton.tooltip "transférer ce message">
 <!ENTITY hdrJunkButton.label "indésirable">
-<!ENTITY trashButton.tooltiptext "supprimer">
+<!ENTITY hdrJunkButton.tooltip "marquer ce message comme indésirable">
+<!ENTITY hdrTrashButton.label "supprimer">
+<!ENTITY hdrTrashButton.tooltip "supprimer ce message">
 
+<!ENTITY hdrViewToolbarShowFull.label "Afficher les icônes et le texte">
+<!ENTITY hdrViewToolbarShowFull.accesskey "A">
+<!ENTITY hdrViewToolbarShowIcons.label "Afficher les icônes uniquement">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "f">
+<!ENTITY hdrViewToolbarShowText.label "Afficher le texte uniquement">
+<!ENTITY hdrViewToolbarShowText.accesskey "h">
 <!ENTITY otherActionsButton.label "autres actions">
 <!ENTITY otherActionsShowConversation.label "afficher dans la discussion">
 <!ENTITY otherActionsShowConversation.accesskey "c">
