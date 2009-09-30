@@ -738,6 +738,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopCmd.accesskey "D">
 <!ENTITY reloadCmd.label "Tazele">
 <!ENTITY reloadCmd.accesskey "T">
+<!ENTITY openInBrowser.label "Tarayıcıda aç">
+<!ENTITY openInBrowser.accesskey "T">
+<!ENTITY openLinkInBrowser.label "Bağlantıyı tarayıcıda aç">
+<!ENTITY openLinkInBrowser.accesskey "B">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "Tamamlandı">

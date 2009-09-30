@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Yer sıkıntısı çekmemek için indirilmeyenler:">
-<!ENTITY doNotDownload.label "Sabit diske kaydet (Çevrim dışı kullanım için indirme):">
+<!ENTITY doNotDownloadNntp.label "Sabit diske kaydet (Çevrim dışı kullanım için indirme):">
+<!ENTITY doNotDownloadImap.label "To save disk space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
 <!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
 <!ENTITY allFoldersOffline.accesskey "H">
 <!ENTITY offlineNotDownload.label "İletiler">
 <!ENTITY offlineNotDownload.accesskey "r">
+<!ENTITY autosyncNotDownload.label "İletiler">
+<!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "KB den büyük ise indirme">
 <!ENTITY daysOld.label "günden eski iletileri indir">
 <!ENTITY message.label "iletiyi bırak">
@@ -32,18 +35,20 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "G">
 <!ENTITY syncGroupTitle.label "İleti eşzamanlaması">
 <!ENTITY diskspaceGroupTitle.label "Disk alanı">
-<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
-  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
-  useAutosyncAfter.label appear on a single line in preferences as follows:
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
 
-  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 
-<!ENTITY useAutosyncBefore.label "">
-<!ENTITY useAutosyncMiddle.label "">
-<!ENTITY allInterval.label "Hepsi">
-<!ENTITY dayInterval.label "Days of">
-<!ENTITY weekInterval.label "Weeks of">
-<!ENTITY monthInterval.label "Months of">
-<!ENTITY yearInterval.label "Years of">
-<!ENTITY useAutosyncAfter.label "email will be stored on disk">
+<!ENTITY allAutosync.label "Tarihini gözardı ederek tüm iletileri eşzamanla">
+<!ENTITY allAutosync.accesskey "T">
+<!ENTITY ageAutosyncBefore.label "Yeni iletileri eşzamanla">
+<!ENTITY ageAutosync.accesskey "z">
+<!ENTITY ageAutosyncMiddle.label "">
+<!ENTITY dayAgeInterval.label "Gün">
+<!ENTITY weekAgeInterval.label "Hafta">
+<!ENTITY monthAgeInterval.label "Ay">
+<!ENTITY yearAgeInterval.label "Yıl">
+<!ENTITY ageAutosyncAfter.label "">
