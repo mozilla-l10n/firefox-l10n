@@ -78,6 +78,8 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "f">
 <!ENTITY hdrViewToolbarShowText.label "Afficher le texte uniquement">
 <!ENTITY hdrViewToolbarShowText.accesskey "h">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Toujours afficher Répondre à l'expéditeur">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "x">
 <!ENTITY otherActionsButton.label "autres actions">
 <!ENTITY otherActionsShowConversation.label "afficher dans la discussion">
 <!ENTITY otherActionsShowConversation.accesskey "c">
