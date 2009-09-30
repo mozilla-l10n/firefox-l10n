@@ -55,7 +55,7 @@
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Filtre de recherche :">
 <!ENTITY searchFilter.accesskey            "f">
-<!ENTITY scope.label                       "Étendue :">
+<!ENTITY scope.label                       "Étendue :">
 <!ENTITY scope.accesskey                   "e">
 <!ENTITY scopeOneLevel.label               "Un niveau">
 <!ENTITY scopeOneLevel.accesskey           "i">

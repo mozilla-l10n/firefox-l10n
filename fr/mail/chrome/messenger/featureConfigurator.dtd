@@ -26,7 +26,7 @@ in the per-account dialog.-->
 
 <!ENTITY featureConfigurator.imap.status.none "Aucun de vos dossiers IMAP n'est paramétré à &laquo;synchroniser&raquo;.">
 
-<!ENTITY featureConfigurator.imap.status.some "Certains de vos dossiers IMAP sont paramétrés à &laquot;synchroniser&raquot;.">
+<!ENTITY featureConfigurator.imap.status.some "Certains de vos dossiers IMAP sont paramétrés à &laquo;synchroniser&raquo;.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.benefits.label): The heading here
 is intended to explain why we've implemented this and picked it as a default.-->
@@ -37,7 +37,7 @@ is intended to explain why it might not be the right default for some users.-->
 <!ENTITY featureConfigurator.alternative.label "Alternative">
 
 <!ENTITY featureConfigurator.syncBenefits.para "Lisez vos messages quand vous n'êtes pas connecté à Internet et chercher des messages suivant leur contenu et plus uniquement selon les sujets ou les expéditeurs.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird téléchargera tous vos messagess ur cet ordinateur. Turn it off if you're low on disk space, or you have to pay for network traffic.">
+<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird téléchargera tous vos messagess ur cet ordinateur. Fermez-le si vous n'avez pas assez d'espace disque ou vous payeriez la connexion.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.syncAll.button): The choice of
 lower case is intentional, but may be overriden if that doesn't make sense
