@@ -10,8 +10,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Yardım">
 <!ENTITY helpMenuWin.accesskey "Y">
-<!ENTITY aboutCmd.label "&brandFullName; hakkında">
-<!ENTITY aboutCmd.accesskey "h">
+<!ENTITY aboutProduct.label "About &brandShortName;">
+<!ENTITY aboutProduct.accesskey "A">
 <!ENTITY productHelp.label "&brandShortName; yardımı">
 <!ENTITY productHelp.accesskey "y">
 <!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına…">
