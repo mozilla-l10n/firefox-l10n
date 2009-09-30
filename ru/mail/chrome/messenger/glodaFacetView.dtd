@@ -1,2 +1,4 @@
-<!ENTITY glodaFacetView.filters.label "Фильтр по:">
-<!ENTITY glodaFacetView.showMore.label "Ещё попадания">
+<!ENTITY glodaFacetView.filters.label "Фильтры">
+<!ENTITY glodaFacetView.loading.label "Поиск…">
+<!ENTITY glodaFacetView.empty.label "Под ваш запрос не подходит ни одного сообщения">
+<!ENTITY glodaFacetView.pageMore.label "Ещё »">

@@ -7,8 +7,8 @@
 <!ENTITY helpMenu.accesskey "С">
 <!ENTITY helpMenuWin.label "Справка">
 <!ENTITY helpMenuWin.accesskey "С">
-<!ENTITY aboutCmd.label "О &brandFullName;">
-<!ENTITY aboutCmd.accesskey "О">
+<!ENTITY aboutProduct.label "О &brandShortName;">
+<!ENTITY aboutProduct.accesskey "О">
 <!ENTITY productHelp.label "Справка &brandShortName;">
 <!ENTITY productHelp.accesskey "п">
 <!ENTITY helpForIEUsers.label "Для пользователей Internet Explorer">

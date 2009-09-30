@@ -15,6 +15,12 @@
 <!ENTITY chooseDownloadFolder.accesskey "В">
 <!ENTITY alwaysAsk.label "Всегда выдавать запрос на сохранение файлов">
 <!ENTITY alwaysAsk.accesskey "п">
+<!ENTITY downloadRetention.label "Список загрузок">
+<!ENTITY removeDownloads.label "Удалять загрузки из списка">
+<!ENTITY removeDownloads.accesskey "д">
+<!ENTITY whenCompleted.label "По их завершении">
+<!ENTITY whenQuittingApp.label "При выходе из &brandShortName;">
+<!ENTITY neverRemove.label "Никогда">
 <!ENTITY finishedBehavior.label "По завершении загрузки">
 <!ENTITY playSound.label "Подать звуковой сигнал">
 <!ENTITY playSound.accesskey "П">

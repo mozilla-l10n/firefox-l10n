@@ -1,14 +1,16 @@
 <!ENTITY aboutDialog.title "О &brandFullName;">
-<!ENTITY credits.label "Авторы">
-<!ENTITY credits.accesskey "в">
 <!ENTITY aboutButton.label "&lt; Назад">
 <!ENTITY aboutButton.accesskey "з">
 <!ENTITY aboutVersion "версия">
 <!ENTITY copyrightText "©1998–2009 Участники проекта. Все права защищены. Mozilla Thunderbird и его логотипы являются торговыми марками Mozilla Foundation. Все права защищены.">
 <!ENTITY aboutMenu.label "О программе">
 <!ENTITY aboutMenu.accesskey "п">
+<!ENTITY aboutCredits.label "Авторы">
+<!ENTITY aboutCredits.accesskey "в">
 <!ENTITY aboutRights.label "Ваши права">
 <!ENTITY aboutRights.accesskey "ш">
 <!ENTITY aboutContributors.label "Участники">
 <!ENTITY aboutContributors.accesskey "ч">
+<!ENTITY aboutLicense.label "Лицензия">
+<!ENTITY aboutLicense.accesskey "ц">
 <!ENTITY cmdCloseMac.commandKey "w">

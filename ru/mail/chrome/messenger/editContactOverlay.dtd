@@ -1,3 +1,5 @@
+<!ENTITY editContactPanelDeleteContact.label "Удалить">
+<!ENTITY editContactPanelDeleteContact.accesskey "д">
 <!ENTITY editContactName.label "Имя:">
 <!ENTITY editContactName.accesskey "м">
 <!ENTITY editContactEmail.label "Электронная почта:">
