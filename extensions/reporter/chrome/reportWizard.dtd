@@ -10,7 +10,7 @@
 
 <!ENTITY reportForm.label                           "填寫問題回報表單">
 
-<!ENTITY reportForm.description                     "請簡述您遇到的問題 (可以的話請盡量用英文):">
+<!ENTITY reportForm.description                     "請簡述您遇到的問題:">
 <!ENTITY reportForm.url.title                       "網址(URL):">
 <!ENTITY reportForm.url.accesskey                   "U">
 
