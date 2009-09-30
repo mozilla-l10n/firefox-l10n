@@ -7,8 +7,8 @@
 <!ENTITY helpMenu.accesskey "A">
 <!ENTITY helpMenuWin.label "Aiuto">
 <!ENTITY helpMenuWin.accesskey "A">
-<!ENTITY aboutCmd.label "Informazioni su &brandFullName;">
-<!ENTITY aboutCmd.accesskey "I">
+<!ENTITY aboutProduct.label "Informazioni su &brandShortName;">
+<!ENTITY aboutProduct.accesskey "I">
 <!ENTITY productHelp.label "Guida di &brandShortName;">
 <!ENTITY productHelp.accesskey "G">
 <!ENTITY helpForIEUsers.label "Per gli utenti di Internet Explorer">
