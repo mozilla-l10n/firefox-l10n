@@ -1,9 +1,12 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Pour préserver de l'espace disque, ne pas télécharger :">
-<!ENTITY doNotDownload.label "Pour préserver de l'espace disque, ne pas télécharger pour le travail hors connexion :">
+<!ENTITY doNotDownloadPop3Movemail.label "Pour économiser de l'espace disque, ne pas télécharger :">
+<!ENTITY doNotDownloadNntp.label "Pour économiser de l'espace disque, ne pas télécharger pour utilisation hors connexion :">
+<!ENTITY doNotDownloadImap.label "Pour économiser de l'espace disque, le téléchargement des messages depuis le serveur et la conservation des copies peuvent être restreint par âge et par taille.">
 <!ENTITY allFoldersOffline.label "Conserver les messages de ce compte sur cet ordinateur">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "Les messages dont la taille est supérieure à">
+<!ENTITY offlineNotDownload.label "Les messages dont la taille dépasse">
 <!ENTITY offlineNotDownload.accesskey "g">
+<!ENTITY autosyncNotDownload.label "Ne pas télécharger les message dont la taille dépasse">
+<!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "Ko">
 <!ENTITY daysOld.label "jours">
 <!ENTITY message.label "plus récents">
@@ -12,7 +15,7 @@
 <!ENTITY nntpDownloadMsg.label "Les messages ayant plus de">
 <!ENTITY nntpDownloadMsg.accesskey "p">
 <!ENTITY retentionCleanup.label "Pour libérer de l'espace disque, les messages anciens peuvent être définitivement supprimés.">
-<!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, les copies locales et les originaux sur le serveur distant.">
+<!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement.">
 <!ENTITY retentionCleanupPop.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, y compris sur le serveur distant.">
 <!ENTITY retentionKeepMsg.label "Supprimer les messages ayant plus de">
 <!ENTITY retentionKeepMsg.accesskey "u">
@@ -33,17 +36,19 @@
 <!ENTITY syncGroupTitle.label "Synchronisation des messages">
 <!ENTITY diskspaceGroupTitle.label "Espace disque">
 
-<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
-  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
-  useAutosyncAfter.label appear on a single line in preferences as follows:
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
 
-  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
--->
-<!ENTITY useAutosyncBefore.label "">
-<!ENTITY useAutosyncMiddle.label "">
-<!ENTITY allInterval.label "Toute la">
-<!ENTITY dayInterval.label "jours de">
-<!ENTITY weekInterval.label "semaines de">
-<!ENTITY monthInterval.label "mois de">
-<!ENTITY yearInterval.label "années de">
-<!ENTITY useAutosyncAfter.label "correspondance sera stockée sur disque">
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+ -->
+<!ENTITY allAutosync.label               "Synchroniser tous les messages localement sans critère d'âge">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Synchroniser les plus récents">
+<!ENTITY ageAutosync.accesskey           "r">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "jours">
+<!ENTITY weekAgeInterval.label           "semaines">
+<!ENTITY monthAgeInterval.label          "mois">
+<!ENTITY yearAgeInterval.label           "années">
+<!ENTITY ageAutosyncAfter.label          "">
