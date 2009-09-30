@@ -42,8 +42,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label              "Žinynas"> 
 <!ENTITY helpMenuWin.accesskey          "Ž">
-<!ENTITY aboutCmd.label                 "Apie „&brandFullName;“">
-<!ENTITY aboutCmd.accesskey             "A">
+<!ENTITY aboutProduct.label             "Apie „&brandShortName;“">
+<!ENTITY aboutProduct.accesskey         "A">
 <!ENTITY productHelp.label              "„&brandShortName;“ žinynas">
 <!ENTITY productHelp.accesskey          "ž">
 <!ENTITY helpForIEUsers.label           "Informacija „Internet Explorer“ naudotojams">
