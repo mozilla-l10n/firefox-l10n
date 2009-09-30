@@ -8,12 +8,12 @@
 <!ENTITY newContact.label                               "Contact…">
 <!ENTITY newContact.accesskey                           "n">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label				"Liste de diffusion…">
+<!ENTITY newListCmd.label                               "Liste de diffusion…">
 
 <!ENTITY newListCmd.accesskey				"l">
-<!ENTITY newAddressBookCmd.label			"Carnet d'adresses…">
+<!ENTITY newAddressBookCmd.label                        "Carnet d'adresses…">
 <!ENTITY newAddressBookCmd.accesskey			"c">
-<!ENTITY newLDAPDirectoryCmd.label			"Annuaire LDAP…">
+<!ENTITY newLDAPDirectoryCmd.label                      "Annuaire LDAP…">
 
 <!ENTITY newLDAPDirectoryCmd.accesskey			"A">
 <!ENTITY newMessageCmd.label                            "Message">
@@ -31,7 +31,7 @@
 <!ENTITY printPreviewContactCmd.accesskey               "d">
 <!ENTITY printPreviewAddressBook.label                  "Aperçu du carnet d'adresses avant impression">
 <!ENTITY printPreviewAddressBook.accesskey              "u">
-<!ENTITY printContactCmd.label                          "Imprimer la fiche du contact…">
+<!ENTITY printContactCmd.label                          "Imprimer la fiche…">
 <!ENTITY printContactCmd.accesskey                      "p">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label				"Imprimer le carnet d'adresses…">
@@ -110,7 +110,7 @@
 <!ENTITY searchAddressesCmd.label                       "Rechercher dans les adresses…">
 <!ENTITY searchAddressesCmd.accesskey                   "h">
 <!ENTITY importCmd.label				"Importer…">
-<!ENTITY importCmd.accesskey                            "i">
+<!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label				"Exporter…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Options…">
@@ -203,7 +203,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Fenêtre">
-<!ENTITY minimizeWindow.label "Réduire">
-<!ENTITY minimizeWindow.key "R">
-<!ENTITY bringAllToFront.label "Tout amener à l'avant-plan">
+<!ENTITY minimizeWindow.label                           "Réduire">
+<!ENTITY minimizeWindow.key                             "R">
+<!ENTITY bringAllToFront.label                          "Tout amener à l'avant-plan">
 <!ENTITY zoomWindow.label "Zoom">
