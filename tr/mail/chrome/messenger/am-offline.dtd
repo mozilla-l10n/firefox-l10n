@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Yer sıkıntısı çekmemek için indirilmeyenler:">
-<!ENTITY doNotDownloadNntp.label "Sabit diske kaydet (çevrim dışı kullanım için indirme):">
+<!ENTITY doNotDownloadNntp.label "Yer sıkıntısı çekmemek için çevrim dışı kullanımı için indirilmeyenler:">
 <!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesi ve çevrim dışı için yerel kopyalarının bulundurması boyut veya yaş ile sınırlandırılabilir.">
 <!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
 <!ENTITY allFoldersOffline.accesskey "H">
@@ -10,7 +10,7 @@
 <!ENTITY kb.label "KB den büyük ise indirme">
 <!ENTITY daysOld.label "günden eski ise sil">
 <!ENTITY message.label "ileti dışındakileri sil">
-<!ENTITY nntpNotDownloadRead.label "İletileri oku">
+<!ENTITY nntpNotDownloadRead.label "Okunmuş iletiler">
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "İleti">
 <!ENTITY nntpDownloadMsg.accesskey "i">
@@ -27,7 +27,7 @@
 <!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
 <!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri hiçbir zaman silme">
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
-<!ENTITY nntpRemoveMsgBody.label "Gövdesi silinecek ileti boyutunun alt sınırı">
+<!ENTITY nntpRemoveMsgBody.label "İleti gövdesi">
 <!ENTITY nntpRemoveMsgBody.accesskey "ö">
 <!ENTITY offlineSelectNntp.label "Çevrim dışı kullanım için haber grubu seçin…">
 <!ENTITY offlineSelectNntp.accesskey "s">
@@ -44,11 +44,11 @@
 
 <!ENTITY allAutosync.label "Tarihini gözardı ederek tüm iletileri eşzamanla">
 <!ENTITY allAutosync.accesskey "T">
-<!ENTITY ageAutosyncBefore.label "Yeni iletileri eşzamanla">
-<!ENTITY ageAutosync.accesskey "z">
+<!ENTITY ageAutosyncBefore.label "Son">
+<!ENTITY ageAutosync.accesskey "o">
 <!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "Gün">
-<!ENTITY weekAgeInterval.label "Hafta">
-<!ENTITY monthAgeInterval.label "Ay">
-<!ENTITY yearAgeInterval.label "Yıl">
-<!ENTITY ageAutosyncAfter.label "">
+<!ENTITY dayAgeInterval.label "günü">
+<!ENTITY weekAgeInterval.label "haftayı">
+<!ENTITY monthAgeInterval.label "ayı">
+<!ENTITY yearAgeInterval.label "yılı">
+<!ENTITY ageAutosyncAfter.label "eşzamanla">
