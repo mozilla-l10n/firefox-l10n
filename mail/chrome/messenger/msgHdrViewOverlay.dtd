@@ -18,18 +18,39 @@
 <!ENTITY originalWebsite2.label "сайт">
 <!ENTITY editMessageDescription.label "Это черновик">
 <!ENTITY editMessageButton.label "Изменить…">
-<!ENTITY archiveButton.label "архивировать">
+<!ENTITY hdrArchiveButton.label "архивировать">
+<!ENTITY hdrArchiveButton.tooltip "архивировать это сообщение">
 <!ENTITY hdrReplyButton.label "ответить">
+<!ENTITY hdrReplyButton.tooltip "ответить на это сообщение ">
 <!ENTITY hdrReplyAllButton.label "ответить всем">
+<!ENTITY hdrReplyAllButton.tooltip "ответить отправителю и всем получателям">
 <!ENTITY hdrReplyListButton.label "ответить в рассылку">
+<!ENTITY hdrReplyListButton.tooltip "ответить в список рассылки">
 <!ENTITY hdrForwardButton.label "переслать">
+<!ENTITY hdrForwardButton.tooltip "переслать это сообщение">
 <!ENTITY hdrJunkButton.label "спам">
-<!ENTITY trashButton.tooltiptext "удалить">
+<!ENTITY hdrJunkButton.tooltip "отметить это сообщение как спам">
+<!ENTITY hdrTrashButton.label "удалить">
+<!ENTITY hdrTrashButton.tooltip "удалить это сообщение">
+<!ENTITY hdrViewToolbarShowFull.label "Показывать значки и текст">
+<!ENTITY hdrViewToolbarShowFull.accesskey "и">
+<!ENTITY hdrViewToolbarShowIcons.label "Показывать только значки">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "ч">
+<!ENTITY hdrViewToolbarShowText.label "Показывать только текст">
+<!ENTITY hdrViewToolbarShowText.accesskey "т">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Всегда показывать ответ отправителю">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "т">
 <!ENTITY otherActionsButton.label "другие действия">
+<!ENTITY otherActionsShowConversation.label "показать в разговоре">
+<!ENTITY otherActionsShowConversation.accesskey "р">
 <!ENTITY otherActionsOpenInNewWindow.label "открыть в новом окне">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "н">
 <!ENTITY otherActionsOpenInNewTab.label "открыть в новой вкладке">
 <!ENTITY otherActionsOpenInNewTab.accesskey "к">
+<!ENTITY markAsReadMenuItem.label "отметить как прочитанное">
+<!ENTITY markAsReadMenuItem.accesskey "ч">
+<!ENTITY markAsUnreadMenuItem.label "отметить как непрочитанное">
+<!ENTITY markAsUnreadMenuItem.accesskey "ч">
 <!ENTITY saveAsMenuItem.label "сохранить как…">
 <!ENTITY saveAsMenuItem.accesskey "х">
 <!ENTITY viewSourceMenuItem.label "показать исходник">

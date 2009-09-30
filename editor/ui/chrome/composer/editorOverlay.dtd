@@ -92,6 +92,7 @@
 <!ENTITY publishSettings.accesskey "б">
 <!ENTITY pasteAsQuotationCmd.label "Вставить как цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Найти и заменить…">
 <!ENTITY findCmd.accesskey "а">
 <!ENTITY findCmd.key "F">

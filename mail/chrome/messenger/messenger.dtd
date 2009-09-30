@@ -645,8 +645,12 @@
 <!ENTITY saveLinkAsCmd.accesskey "С">
 <!ENTITY saveImageAsCmd.label "Сохранить изображение как…">
 <!ENTITY saveImageAsCmd.accesskey "х">
+<!ENTITY cutCmd.label "Вырезать">
+<!ENTITY cutCmd.accesskey "В">
 <!ENTITY copyCmd.label "Копировать">
 <!ENTITY copyCmd.accesskey "К">
+<!ENTITY pasteCmd.label "Вставить">
+<!ENTITY pasteCmd.accesskey "с">
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.accesskey "ы">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
@@ -655,6 +659,14 @@
 <!ENTITY copyImageCmd.accesskey "и">
 <!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
 <!ENTITY copyEmailCmd.accesskey "э">
+<!ENTITY stopCmd.label "Остановить">
+<!ENTITY stopCmd.accesskey "т">
+<!ENTITY reloadCmd.label "Обновить">
+<!ENTITY reloadCmd.accesskey "н">
+<!ENTITY openInBrowser.label "Открыть в браузере">
+<!ENTITY openInBrowser.accesskey "б">
+<!ENTITY openLinkInBrowser.label "Открыть ссылку в браузере">
+<!ENTITY openLinkInBrowser.accesskey "б">
 <!ENTITY statusText.label "Готово">
 <!ENTITY minimizeWindow.label "Убрать в Dock">
 <!ENTITY minimizeWindow.key "m">

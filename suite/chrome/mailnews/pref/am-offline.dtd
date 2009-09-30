@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Чтобы сэкономить дисковое пространство, не загружать:">
-<!ENTITY doNotDownload.label "Чтобы сэкономить дисковое пространство, не загружать для работы в автономном режиме:">
+<!ENTITY doNotDownloadNntp.label "Чтобы сэкономить дисковое пространство, не загружать для работы в автономном режиме:">
+<!ENTITY doNotDownloadImap.label "Чтобы сэкономить дисковое пространство, загрузка сообщений с сервера и хранение локальных копий может быть ограничена по их возрасту или размеру.">
 <!ENTITY allFoldersOffline.label "Хранить сообщения для этой учётной записи на этом компьютере">
 <!ENTITY allFoldersOffline.accesskey "р">
 <!ENTITY offlineNotDownload.label "Сообщения размером более">
 <!ENTITY offlineNotDownload.accesskey "б">
+<!ENTITY autosyncNotDownload.label "Не загружать сообщения размером более">
+<!ENTITY autosyncNotDownload.accesskey "ж">
 <!ENTITY kb.label "КБ">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
@@ -31,11 +34,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "о">
 <!ENTITY syncGroupTitle.label "Синхронизация сообщений">
 <!ENTITY diskspaceGroupTitle.label "Дисковое пространство">
-<!ENTITY useAutosyncBefore.label "Хранить на диске почту за">
-<!ENTITY useAutosyncMiddle.label "">
-<!ENTITY allInterval.label "всё время">
-<!ENTITY dayInterval.label "дней">
-<!ENTITY weekInterval.label "недель">
-<!ENTITY monthInterval.label "месяцев">
-<!ENTITY yearInterval.label "лет">
-<!ENTITY useAutosyncAfter.label " ">
+<!ENTITY allAutosync.label "Синхронизировать все сообщения локально независимо от возраста">
+<!ENTITY allAutosync.accesskey "х">
+<!ENTITY ageAutosyncBefore.label "Синхронизировать сообщения за последние">
+<!ENTITY ageAutosync.accesskey "н">
+<!ENTITY ageAutosyncMiddle.label "">
+<!ENTITY dayAgeInterval.label "дней">
+<!ENTITY weekAgeInterval.label "недель">
+<!ENTITY monthAgeInterval.label "месяцев">
+<!ENTITY yearAgeInterval.label "лет">
+<!ENTITY ageAutosyncAfter.label "">
