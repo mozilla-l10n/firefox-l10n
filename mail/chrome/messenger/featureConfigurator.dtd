@@ -15,7 +15,7 @@ think it's important to preserve user choice. -->
 <!-- LOCALIZATION NOTE (featureConfigurator.para2): This paragraph explains
 that this page is active (the buttons change the UI), and that they can get
 back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para2 "Utiliser cettte page pour configurer ces nouvelles fonctionnalités. Vous pouvez toujours revenir à l'assistant à la migration depuis le menu Aide.">
+<!ENTITY featureConfigurator.para2 "Utilisez cette page pour configurer ces nouvelles fonctionnalités. Vous pouvez toujours revenir à l'assistant à la migration depuis le menu Aide.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.imap.heading): Heading for the
 IMAP synchronization feature. The words should probably echo the word used
@@ -30,14 +30,14 @@ in the per-account dialog.-->
 
 <!-- LOCALIZATION NOTE (featureConfigurator.benefits.label): The heading here
 is intended to explain why we've implemented this and picked it as a default.-->
-<!ENTITY featureConfigurator.benefits.label "Bénéfices">
+<!ENTITY featureConfigurator.benefits.label "Avantages">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.alternative.label): The heading here
 is intended to explain why it might not be the right default for some users.-->
 <!ENTITY featureConfigurator.alternative.label "Alternative">
 
-<!ENTITY featureConfigurator.syncBenefits.para "Lisez vos messages quand vous n'êtes pas connecté à Internet et chercher des messages suivant leur contenu et plus uniquement selon les sujets ou les expéditeurs.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird téléchargera tous vos messagess ur cet ordinateur. Fermez-le si vous n'avez pas assez d'espace disque ou vous payeriez la connexion.">
+<!ENTITY featureConfigurator.syncBenefits.para "Lisez vos messages quand vous n'êtes pas connecté à Internet et cherchez des messages suivant leur contenu et plus uniquement selon les sujets ou les expéditeurs.">
+<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird téléchargera tous vos messagess sur cet ordinateur. Fermez-le si vous n'avez pas assez d'espace disque ou devez payer à la connexion.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.syncAll.button): The choice of
 lower case is intentional, but may be overriden if that doesn't make sense
@@ -60,7 +60,7 @@ word 'original' is chosen deliberately to be neutral, vs. 'old' which in
 English at least had a negative connotation.-->
 <!ENTITY featureConfigurator.toolbar.original.status "utilisation de la barre d'outils originale.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Une interface plus épurée que précédemment qui laisse plus de place au champs de recherche enrichi, ainsi qu'aux modules complémentaires.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Une interface plus épurée que précédemment qui laisse plus de place au champ de recherche enrichi, ainsi qu'aux modules complémentaires.">
 <!ENTITY featureConfigurator.toolbarAlternative.para "Si vous préférez l'ancienne configuration de la barre d'outils, vous pouvez la repersonnaliser, ou ne pas afficher le panneau des messages.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useOriginalToolbar.button): The
@@ -102,7 +102,7 @@ sense because of a specific language context.-->
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaBeforeLink): The part
 of the paragraph before the beginning of the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 améliore l'affichage détaillé des en-têtes de message, y compris les boutons relatifs aux actions sur les messages. Il existe d'autres designs disponibles sous forme de ">
+<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 améliore l'affichage détaillé des en-têtes de messages, y compris les boutons relatifs aux actions sur les messages. Il existe d'autres designs disponibles sous forme de ">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaLinkName): The name of
 the link to the AMO search page.-->
