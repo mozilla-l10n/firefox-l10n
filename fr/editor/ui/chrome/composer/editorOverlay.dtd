@@ -99,6 +99,7 @@
 
 <!ENTITY pasteAsQuotationCmd.label "Coller comme une citation">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Rechercher…">
 <!ENTITY findCmd.accesskey "h">
 <!ENTITY findCmd.key "F">
