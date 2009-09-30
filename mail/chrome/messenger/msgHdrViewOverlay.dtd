@@ -21,7 +21,7 @@
 <!ENTITY hdrArchiveButton.label "архивировать">
 <!ENTITY hdrArchiveButton.tooltip "архивировать это сообщение">
 <!ENTITY hdrReplyButton.label "ответить">
-<!ENTITY hdrReplyButton.tooltip "ответить на это сообщение ">
+<!ENTITY hdrReplyButton.tooltip "ответить на это сообщение">
 <!ENTITY hdrReplyAllButton.label "ответить всем">
 <!ENTITY hdrReplyAllButton.tooltip "ответить отправителю и всем получателям">
 <!ENTITY hdrReplyListButton.label "ответить в рассылку">
