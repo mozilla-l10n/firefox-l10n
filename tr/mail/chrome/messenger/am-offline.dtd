@@ -3,25 +3,25 @@
 <!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesi ve çevrim dışı için yerel kopyalarının bulundurması boyut veya yaş ile sınırlandırılabilir.">
 <!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
 <!ENTITY allFoldersOffline.accesskey "H">
-<!ENTITY offlineNotDownload.label "İletiler">
-<!ENTITY offlineNotDownload.accesskey "r">
-<!ENTITY autosyncNotDownload.label "İletiler">
+<!ENTITY offlineNotDownload.label "İleti">
+<!ENTITY offlineNotDownload.accesskey "t">
+<!ENTITY autosyncNotDownload.label "İleti">
 <!ENTITY autosyncNotDownload.accesskey "t">
 <!ENTITY kb.label "KB den büyük ise indirme">
-<!ENTITY daysOld.label "günden eski iletileri indir">
-<!ENTITY message.label "iletiyi bırak">
-<!ENTITY nntpNotDownloadRead.label "Mesajları oku">
-<!ENTITY nntpNotDownloadRead.accesskey "s">
-<!ENTITY nntpDownloadMsg.label "İleti boyutunun alt sınırı">
-<!ENTITY nntpDownloadMsg.accesskey "ı">
+<!ENTITY daysOld.label "günden eski ise sil">
+<!ENTITY message.label "ileti dışındakileri sil">
+<!ENTITY nntpNotDownloadRead.label "İletileri oku">
+<!ENTITY nntpNotDownloadRead.accesskey "l">
+<!ENTITY nntpDownloadMsg.label "İleti">
+<!ENTITY nntpDownloadMsg.accesskey "i">
 <!ENTITY retentionCleanup.label "boş yer kazanmak için eski iletireri düzenli aralıklar ile silebilirsiniz.">
 <!ENTITY retentionCleanupImap.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler ve yerel kopyaları tamamen silinebilir.">
 <!ENTITY retentionCleanupPop.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler tamamen silinebilir.">
-<!ENTITY retentionKeepMsg.label "Silinecek iletilerin büyüklük alt sınırı">
+<!ENTITY retentionKeepMsg.label "İleti">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Hiçbir iletiyi silme">
 <!ENTITY retentionKeepAll.accesskey "H">
-<!ENTITY retentionKeepRecent.label "Son gelenler hariç bütün iletileri sil">
+<!ENTITY retentionKeepRecent.label "Son">
 <!ENTITY retentionKeepRecent.accesskey "S">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">

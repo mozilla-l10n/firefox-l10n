@@ -10,5 +10,5 @@
 <!ENTITY editContactPanelCancel.label "Vazgeç">
 <!ENTITY editContactPanelCancel.accesskey "V">
 
-<!ENTITY editContactPanelDone.label "Bitti">
-<!ENTITY editContactPanelDone.accesskey "B">
+<!ENTITY editContactPanelDone.label "Kaydet">
+<!ENTITY editContactPanelDone.accesskey "K">

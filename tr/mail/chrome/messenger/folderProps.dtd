@@ -40,58 +40,58 @@
 
 <!ENTITY folderProps.windowtitle.label "Özellikler">
 
-<!ENTITY generalInfo.label "Genel Bilgiler">
+<!ENTITY generalInfo.label "Genel bilgiler">
 <!ENTITY folderCharsetTab.label "Öntanımlı karakter kodlaması:">
 <!ENTITY folderCharsetTab.accesskey "e">
 <!ENTITY folderCharsetOverride.label "Öntanımlamayı bu dizindeki postalara uyumla.">
 <!ENTITY folderCharsetOverride.accesskey "a">
-<!ENTITY folderRebuildSummaryFile.label "Tamir">
-<!ENTITY folderRebuildSummaryFile.accesskey "T">
+<!ENTITY folderRebuildSummaryFile.label "İndis tamiri">
+<!ENTITY folderRebuildSummaryFile.accesskey "r">
 <!ENTITY folderRebuildSummaryFileTip.label "Özet dosyasını tamir et">
      
-<!ENTITY retention.label "Kayıt Güvenliği">
-<!ENTITY retentionUseAccount.label "Use my account settings">
-<!ENTITY retentionUseAccount.accesskey "U">
-<!ENTITY daysOld.label "gün eski">
-<!ENTITY message.label "ileti">
+<!ENTITY retention.label "Kayıt güvenliği">
+<!ENTITY retentionUseAccount.label "Hesap ayarlarınını kullan">
+<!ENTITY retentionUseAccount.accesskey "H">
+<!ENTITY daysOld.label "günden eski ise sil">
+<!ENTITY message.label "ileti dışındakileri sil">
 <!ENTITY retentionCleanup.label "Boş yer kazanmak için eski iletileri düzenli aralıklar ile silebilirsiniz.">
 <!ENTITY retentionCleanupImap.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler ve yerel kopyaları tamamen silinebilir.">
 <!ENTITY retentionCleanupPop.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler tamamen silinebilir.">
-<!ENTITY retentionDeleteMsg.label "Silinecek iletilerin büyuklük alt sınırı">
+<!ENTITY retentionDeleteMsg.label "İleti">
 <!ENTITY retentionDeleteMsg.accesskey "t">
-<!ENTITY retentionKeepAll.label "Hiçbir mesajı silme.">
-<!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepRecent.label "Güncel iletiler dışındakileri sil">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionKeepAll.label "Hiçbir iletiyi silme">
+<!ENTITY retentionKeepAll.accesskey "y">
+<!ENTITY retentionKeepRecent.label "Son">
+<!ENTITY retentionKeepRecent.accesskey "S">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
 <!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri silme">
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 
 <!ENTITY folderSynchronizationTab.label "Eşzamanlama">
-<!ENTITY folderCheckForNewMessages.label "Bu klasörde yeni mesajları kontrol et">
-<!ENTITY folderCheckForNewMessages.accesskey "j">
+<!ENTITY folderCheckForNewMessages.label "Bu dizinde yeni iletileri denetle">
+<!ENTITY folderCheckForNewMessages.accesskey "z">
 
-<!ENTITY offlineFolder.check.label "Bu dizini çevrimdışı kullanım için seç">
+<!ENTITY offlineFolder.check.label "Bu dizini çevrim dışı kullanım için seç">
 <!ENTITY offlineFolder.check.accesskey "v">
-<!ENTITY offlineFolder.button.label "Hemen İndir">
+<!ENTITY offlineFolder.button.label "Şimdi indir">
 <!ENTITY offlineFolder.button.accesskey "d">
 
 <!ENTITY selectofflineNewsgroup.check.label "Bu haber grubunu çevrim dışı kullanımı için seç">
 <!ENTITY selectofflineNewsgroup.check.accesskey "u">
-<!ENTITY offlineNewsgroup.button.label "Hemen İndir">
+<!ENTITY offlineNewsgroup.button.label "Şimdi indir">
 <!ENTITY offlineNewsgroup.button.accesskey "d">
 
-<!ENTITY folderProps.name.label "İsmi:">
+<!ENTITY folderProps.name.label "İsim:">
 <!ENTITY folderProps.name.accesskey "s">
 <!ENTITY folderProps.location.label "Konum:">
 <!ENTITY folderProps.location.accesskey "m">
 
-<!ENTITY folderSharingTab.label "Ortak Kullanma">
-<!ENTITY privileges.button.label "Öncelikli haklar">
+<!ENTITY folderSharingTab.label "Ortak kullanım">
+<!ENTITY privileges.button.label "Öncelikli haklar…">
 <!ENTITY privileges.button.accesskey "h">
-<!ENTITY permissionsDesc.label "Şu izinleriniz var:">
-<!ENTITY folderType.label "Dizin Türü:">
+<!ENTITY permissionsDesc.label "İzinleriniz:">
+<!ENTITY folderType.label "Dizin türü:">
 
 <!ENTITY folderQuotaTab.label "Kota">
 <!ENTITY folderQuotaRoot.label "Kota kökü:">

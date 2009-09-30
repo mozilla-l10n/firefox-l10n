@@ -44,7 +44,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 
-<!ENTITY importDialog.windowTitle "İçeri Aktarma">
+<!ENTITY importDialog.windowTitle "İçe aktar">
 <!ENTITY importAll.label "Her şeyi içe aktar">
 <!ENTITY importAll.accesskey "H">
 <!ENTITY importMail.label "E-posta">
@@ -60,7 +60,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY window.macWidth "45em">
 
 <!ENTITY importTitle.label "&brandShortName; Posta İçeri Aktarma Sihirbazı">
-<!ENTITY importShortDesc.label "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importShortDesc.label "Diğer uygulamalardan iletileri, adres defterlerini, ayarları ve süzgeçleri içe aktar">
 
 <!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
 <!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
