@@ -14,7 +14,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "İleti">
 <!ENTITY nntpDownloadMsg.accesskey "i">
-<!ENTITY retentionCleanup.label "boş yer kazanmak için eski iletireri düzenli aralıklar ile silebilirsiniz.">
+<!ENTITY retentionCleanup.label "Boş yer kazanmak için eski iletireri düzenli aralıklar ile silebilirsiniz.">
 <!ENTITY retentionCleanupImap.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler ve yerel kopyaları tamamen silinebilir.">
 <!ENTITY retentionCleanupPop.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler tamamen silinebilir.">
 <!ENTITY retentionKeepMsg.label "İleti">

@@ -14,7 +14,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "s">
 <!ENTITY nntpDownloadMsg.label "İleti boyutunun alt sınırı">
 <!ENTITY nntpDownloadMsg.accesskey "ı">
-<!ENTITY retentionCleanup.label "boş yer kazanmak için eski iletireri düzenli aralıklar ile silebilirsiniz.">
+<!ENTITY retentionCleanup.label "Boş yer kazanmak için eski iletireri düzenli aralıklar ile silebilirsiniz.">
 <!ENTITY retentionCleanupImap.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler ve yerel kopyaları tamamen silinebilir.">
 <!ENTITY retentionCleanupPop.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler tamamen silinebilir.">
 <!ENTITY retentionKeepMsg.label "Silinecek iletilerin büyüklük alt sınırı">
@@ -44,11 +44,11 @@
 
 <!ENTITY allAutosync.label "Tarihini gözardı ederek tüm iletileri eşzamanla">
 <!ENTITY allAutosync.accesskey "T">
-<!ENTITY ageAutosyncBefore.label "Yeni iletileri eşzamanla">
-<!ENTITY ageAutosync.accesskey "z">
+<!ENTITY ageAutosyncBefore.label "Son">
+<!ENTITY ageAutosync.accesskey "o">
 <!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "Gün">
-<!ENTITY weekAgeInterval.label "Hafta">
-<!ENTITY monthAgeInterval.label "Ay">
-<!ENTITY yearAgeInterval.label "Yıl">
-<!ENTITY ageAutosyncAfter.label "">
+<!ENTITY dayAgeInterval.label "günü">
+<!ENTITY weekAgeInterval.label "haftayı">
+<!ENTITY monthAgeInterval.label "ayı">
+<!ENTITY yearAgeInterval.label "yılı">
+<!ENTITY ageAutosyncAfter.label "eşzamanla">
