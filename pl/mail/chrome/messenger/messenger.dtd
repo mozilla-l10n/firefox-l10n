@@ -708,29 +708,28 @@
 <!ENTITY reportPhishingURL.accesskey        "g">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label      "Zapisz element docelowy jako…">
-<!ENTITY saveLinkAsCmd.accesskey  "d">
-<!ENTITY saveImageAsCmd.label     "Zapisz obrazek jako…">
-<!ENTITY saveImageAsCmd.accesskey "Z">
-<!ENTITY cutCmd.label             "Wytnij">
-<!ENTITY cutCmd.accesskey         "W">
-<!ENTITY copyCmd.label            "Kopiuj">
-<!ENTITY copyCmd.accesskey        "K">
-<!ENTITY pasteCmd.label           "Wklej">
-<!ENTITY pasteCmd.accesskey       "k">
-<!ENTITY selectAllCmd.label       "Zaznacz wszystko">
-<!ENTITY selectAllCmd.accesskey   "a">
-<!ENTITY copyLinkCmd.label        "Kopiuj adres odnośnika">
-<!ENTITY copyLinkCmd.accesskey    "s">
-<!ENTITY copyImageCmd.label       "Kopiuj adres obrazka">
-<!ENTITY copyImageCmd.accesskey   "b">
-<!ENTITY copyEmailCmd.label       "Kopiuj adres e-mail">
-<!ENTITY copyEmailCmd.accesskey   "e">
-<!ENTITY stopCmd.label            "Zatrzymaj">
-<!ENTITY stopCmd.accesskey        "Z">
-<!ENTITY reloadCmd.label          "Odświerz">
-<!ENTITY reloadCmd.accesskey      "i">
-
+<!ENTITY saveLinkAsCmd.label         "Zapisz element docelowy jako…">
+<!ENTITY saveLinkAsCmd.accesskey     "d">
+<!ENTITY saveImageAsCmd.label        "Zapisz obrazek jako…">
+<!ENTITY saveImageAsCmd.accesskey    "Z">
+<!ENTITY cutCmd.label                "Wytnij">
+<!ENTITY cutCmd.accesskey            "W">
+<!ENTITY copyCmd.label               "Kopiuj">
+<!ENTITY copyCmd.accesskey           "K">
+<!ENTITY pasteCmd.label              "Wklej">
+<!ENTITY pasteCmd.accesskey          "k">
+<!ENTITY selectAllCmd.label          "Zaznacz wszystko">
+<!ENTITY selectAllCmd.accesskey      "a">
+<!ENTITY copyLinkCmd.label           "Kopiuj adres odnośnika">
+<!ENTITY copyLinkCmd.accesskey       "s">
+<!ENTITY copyImageCmd.label          "Kopiuj adres obrazka">
+<!ENTITY copyImageCmd.accesskey      "b">
+<!ENTITY copyEmailCmd.label          "Kopiuj adres e-mail">
+<!ENTITY copyEmailCmd.accesskey      "e">
+<!ENTITY stopCmd.label               "Zatrzymaj">
+<!ENTITY stopCmd.accesskey           "Z">
+<!ENTITY reloadCmd.label             "Odświerz">
+<!ENTITY reloadCmd.accesskey         "i">
 <!ENTITY openInBrowser.label         "Otwórz w przeglądarce">
 <!ENTITY openInBrowser.accesskey     "p">
 <!ENTITY openLinkInBrowser.label     "Otwórz odnośnik w przeglądarce">
