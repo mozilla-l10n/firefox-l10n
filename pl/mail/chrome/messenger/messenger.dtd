@@ -729,7 +729,12 @@
 <!ENTITY stopCmd.label            "Zatrzymaj">
 <!ENTITY stopCmd.accesskey        "Z">
 <!ENTITY reloadCmd.label          "Odświerz">
-<!ENTITY reloadCmd.accesskey      "O">
+<!ENTITY reloadCmd.accesskey      "i">
+
+<!ENTITY openInBrowser.label         "Otwórz w przeglądarce">
+<!ENTITY openInBrowser.accesskey     "p">
+<!ENTITY openLinkInBrowser.label     "Otwórz odnośnik w przeglądarce">
+<!ENTITY openLinkInBrowser.accesskey "O">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Zakończono">
