@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "关于 &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "常见问题">
+<!ENTITY aboutPage.support.label                "支持">
+<!ENTITY aboutPage.privacyPolicy.label          "隐私条款">
+<!ENTITY aboutPage.rights.label                 "了解您的权利">
+<!ENTITY aboutPage.relNotes.label               "发行说明">
+<!ENTITY aboutPage.credits.label                "贡献者">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 贡献者。 保留所有权利。（">
+<!ENTITY aboutPage.licenseLink                  "版权信息">
+<!ENTITY aboutPage.copyrightInfo2               "）。">
