@@ -38,11 +38,11 @@
 <!-- Window title -->
 
 <!ENTITY siteUrl.label "Sayfa URL:">
-<!ENTITY docSubdir.label "Sayfa altklasörü:">
-<!ENTITY otherSubdir.label "İmge Altklasörü:">
+<!ENTITY docSubdir.label "Sayfa altdizini:">
+<!ENTITY otherSubdir.label "Resim altdizini:">
 
 <!ENTITY status.label "Yayınlanıyor…">
-<!ENTITY fileList.label "Yayınlama Durumu">
+<!ENTITY fileList.label "Yayınlama durumu">
 <!ENTITY succeeded.label "Başarılı">
 <!ENTITY failed.label "Başarısız">
 

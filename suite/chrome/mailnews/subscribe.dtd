@@ -35,11 +35,11 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title "Üye ol">
-<!ENTITY subscribeButton.label "Üye ol">
+<!ENTITY subscribeDialog.title "Abone ol">
+<!ENTITY subscribeButton.label "Abone ol">
 <!ENTITY subscribeButton.accesskey "o">
-<!ENTITY unsubscribeButton.label "Üyelikten çık">
-<!ENTITY unsubscribeButton.accesskey "y">
+<!ENTITY unsubscribeButton.label "Abonelikten çık">
+<!ENTITY unsubscribeButton.accesskey "k">
 <!ENTITY newGroupsTab.label "Yeni gruplar">
 <!ENTITY newGroupsTab.accesskey "n">
 <!ENTITY refreshButton.label "Tazele">
@@ -48,7 +48,7 @@
 <!ENTITY stopButton.accesskey "u">
 <!ENTITY server.label "Hesap:">
 <!ENTITY server.accesskey "a">
-<!ENTITY subscribedHeader.label "Üye ol">
+<!ENTITY subscribedHeader.label "Abone ol">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label "İçerenleri göster:">

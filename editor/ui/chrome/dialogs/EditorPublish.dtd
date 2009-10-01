@@ -48,7 +48,7 @@
 <!ENTITY siteList.tooltip "Yayınlamak istediğiniz sayfayı seçin">
 <!ENTITY newSiteButton.label "Yeni sayfa">
 <!ENTITY newSiteButton.accesskey "n">
-<!ENTITY docDirList.label "Bu sayfa için sayfa altklasörü:">
+<!ENTITY docDirList.label "Bu sayfa için sayfa altdizini:">
 <!ENTITY docDirList.accesskey "s">
 <!ENTITY docDirList.tooltip "Bu sayfa için bir dizin seçin veya girin">
 <!ENTITY publishImgCheckbox.label "İmgeleri ve diğer dosyaları dahil et">
@@ -57,8 +57,8 @@
 <!ENTITY sameLocationRadio.label "Sayfa ile aynı adresi kullan">
 <!ENTITY sameLocationRadio.accesskey "u">
 <!ENTITY sameLocationRadio.tooltip "Sayfadaki adresdeki gibi dosyaları yayınla">
-<!ENTITY useSubdirRadio.label "Bu sayfa altklasörünü kullan:">
-<!ENTITY useSubdirRadio.accesskey "k">
+<!ENTITY useSubdirRadio.label "Bu sayfa altdizinini kullan:">
+<!ENTITY useSubdirRadio.accesskey "d">
 <!ENTITY useSubdirRadio.tooltip "Seçilen alt dizinleri yayınla">
 <!ENTITY otherDirList.tooltip "Dosyaların kaydedileceği alt dizini seçin veya girin">
 <!ENTITY pageTitle.label "Sayfa başlığı:">

@@ -700,7 +700,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "d">
 <!ENTITY ViewContact.label "Adresi göster">
 <!ENTITY ViewContact.accesskey "g">
-<!ENTITY SubscribeToNewsgroup.label "Haber grubuna üye ol">
+<!ENTITY SubscribeToNewsgroup.label "Haber grubuna abone ol">
 <!ENTITY SubscribeToNewsgroup.accesskey "H">
 <!ENTITY SendMessageTo.label "İleti oluştur">
 <!ENTITY SendMessageTo.accesskey "o">

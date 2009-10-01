@@ -121,7 +121,7 @@
 <!ENTITY manBookmarksCmd.label "Yer imleri yönetimi…">
 <!ENTITY manBookmarksCmd.accesskey "Y">
 <!ENTITY manBookmarksCmd.commandkey "b">
-<!ENTITY feedsMenu.label "Bu sayfaya üye ol">
+<!ENTITY feedsMenu.label "Bu sayfaya abone ol">
 <!ENTITY feedsMenu.accesskey "B">
 <!ENTITY emptyItem.label "(Boş)">
 

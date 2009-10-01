@@ -82,7 +82,7 @@
 <!ENTITY editImageMapButton.tooltip "Bu görüntü için tıklanabilir noktalar oluştur">
 <!-- These are the options for image alignment -->
 
-<!ENTITY alignment.label "Metni Görüntüye Yerleştir">
+<!ENTITY alignment.label "Metni görüntüye yerleştir">
 <!ENTITY bottomPopup.value "Altta">
 <!ENTITY topPopup.value "Üstte">
 <!ENTITY centerPopup.value "Ortada">

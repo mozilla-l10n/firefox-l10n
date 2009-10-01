@@ -306,7 +306,7 @@
 <!ENTITY calendarproperties.cache.label "Önbellek (Deneme aşamasında, tekrar başlatılması gerekli)">
 <!ENTITY calendarproperties.enabled.label "Takvim devre içi">
 <!ENTITY calendarproperties.forceDisabled.label "Takvim sağlayıcısı bulunamıyor. Bu tür sorunlar sağlayıcı için gerekli eklentilerin devre dışı bırakılması veya kaldırması ile genelde oluşuyor.">
-<!ENTITY calendarproperties.unsubscribe.label "Üyeliği iptal et">
+<!ENTITY calendarproperties.unsubscribe.label "Aboneliği iptal et">
 <!ENTITY calendarproperties.unsubscribe.accesskey "p">
 <!-- Calendar Publish Dialog -->
 
