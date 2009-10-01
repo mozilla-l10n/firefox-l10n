@@ -102,6 +102,7 @@
 <!ENTITY publishSettings.accesskey   "b">
 <!ENTITY pasteAsQuotationCmd.label     "Wklej jako cytat">
 <!ENTITY pasteAsQuotationCmd.accesskey "y">
+<!ENTITY pasteAsQuotationCmd.key  "o">
 <!ENTITY findCmd.label            "Znajdź i zamień…">
 <!ENTITY findCmd.accesskey        "m">
 <!ENTITY findCmd.key              "F">
