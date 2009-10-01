@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title               "Offline &amp; Speicherplatz">
+<!ENTITY pref.network.title               "Netzwerk &amp; Speicherung">
 <!ENTITY pref.offline.caption             "Offline">
 <!ENTITY textStartUp                      "Beim Starten:">
 <!ENTITY textStartUp.accesskey            "B">
@@ -24,6 +24,10 @@
 <!ENTITY radioNotDownload.accesskey       "e">
 <!ENTITY radioAskDownload                 "Nachfragen">
 <!ENTITY radioAskDownload.accesskey       "h">
+<!ENTITY mailConnections.caption          "Mail-Verbindungen">
+<!ENTITY mailnewsTimeout.label            "Verbindungs-Zeitlimit:">
+<!ENTITY mailnewsTimeout.accesskey        "V">
+<!ENTITY mailnewsTimeoutSeconds.label     "Sekunden">
 <!ENTITY Diskspace                        "Speicherplatz">
 <!ENTITY offlineCompact.label             "Ordner komprimieren, wenn das mehr spart als">
 <!ENTITY offlineCompact.accesskey         "O">
