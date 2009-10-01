@@ -54,7 +54,8 @@
 <!ENTITY autoCheck.label "Samodejno preverjaj, če obstajajo posodobitve za:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-
+<!ENTITY enableAddonsUpdate2.label       "Dodatki">
+<!ENTITY enableAddonsUpdate2.accesskey   "D">
 <!ENTITY enableSearchUpdate.label "iskalnike">
 <!ENTITY enableSearchUpdate.accesskey "i">
 <!ENTITY whenUpdatesFound.label "Če obstajajo posodobitve za &brandShortName;:">

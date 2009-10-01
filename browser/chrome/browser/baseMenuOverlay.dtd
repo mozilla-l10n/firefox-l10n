@@ -21,6 +21,10 @@
 
 <!ENTITY helpReleaseNotes.label "Opombe ob izdaji">
 <!ENTITY helpReleaseNotes.accesskey "O">
+
+<!ENTITY helpTroubleshooting.label      "Troubleshooting Information…">
+<!ENTITY helpTroubleshooting.accesskey  "T">
+
 <!ENTITY updateCmd.label "Poišči posodobitve ...">
 
 <!ENTITY preferencesCmdMac.label "Nastavitve ...">

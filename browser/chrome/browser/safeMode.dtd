@@ -48,6 +48,9 @@
 <!ENTITY resetToolbars.label "ponastavi orodne vrstice">
 <!ENTITY resetToolbars.accesskey "P">
 
+<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.accesskey    "b">
+
 <!ENTITY resetUserPrefs.label "ponastavi vse uporabniške nastavitve na privzete vrednosti">
 <!ENTITY resetUserPrefs.accesskey "n">
 

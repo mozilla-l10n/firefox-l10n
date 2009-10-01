@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Delaj v brezpovezavnem načinu">
 <!ENTITY goOfflineCmd.accesskey "b">
 
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Orodna vrstica za brskanje">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Orodna vrstica zaznamkov">
@@ -48,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Celozaslonski način">
 <!ENTITY fullScreenCmd.accesskey "C">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Show All Tabs">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimiziraj">
 <!ENTITY fullScreenRestore.tooltip "V običajen način">
@@ -86,6 +91,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Prenehaj z nalaganjem te strani">
 <!ENTITY goEndCap.tooltip "Odpri mesto v naslovnem polju">
+<!ENTITY feedButton.tooltip           "Subscribe to this page…">
 <!ENTITY printButton.label "Natisni">
 <!ENTITY printButton.tooltip "Natisni to stran">
 
@@ -363,6 +369,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Izreži">
 <!ENTITY copyButton.tooltip "Kopiraj">
 <!ENTITY pasteButton.tooltip "Prilepi">
+<!ENTITY fullScreenButton.tooltip       "Display the window in full screen">
 
 <!ENTITY quitApplicationCmdWin.label "Izhod">
 <!ENTITY quitApplicationCmdWin.accesskey "i">
@@ -438,3 +445,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Več podatkov...">
 
 <!ENTITY downloadMonitor2.tooltip "Kliknite za odpiranje okna prenosov">
+
+<!ENTITY allTabs.filter.emptyText "Search Tabs">
