@@ -249,6 +249,8 @@
 <!ENTITY openAttachment.accesskey   "O">
 <!ENTITY delete.label               "Usuń">
 <!ENTITY delete.accesskey           "U">
+<!ENTITY removeAttachment.label     "Nie dołączaj">
+<!ENTITY removeAttachment.accesskey "N">
 <!ENTITY renameAttachment.label     "Zmień nazwę…">
 <!ENTITY renameAttachment.accesskey "Z">
 <!ENTITY selectAll.label            "Zaznacz wszystko">
