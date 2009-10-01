@@ -57,13 +57,29 @@
 
 <!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
 <!ENTITY editMessageButton.label "Editar…">
-<!ENTITY archiveButton.label "arquivo">
+<!ENTITY hdrArchiveButton.label "arquivo">
+<!ENTITY hdrArchiveButton.tooltip "arquivar esta mensagem">
 <!ENTITY hdrReplyButton.label "responder">
+<!ENTITY hdrReplyButton.tooltip "responder a esta mensagem">
 <!ENTITY hdrReplyAllButton.label "responder a todos">
-<!ENTITY hdrReplyListButton.label "ista de resposta">
+<!ENTITY hdrReplyAllButton.tooltip "responder ao remetente e a todos os destinatários">
+<!ENTITY hdrReplyListButton.label "responder à lista">
+<!ENTITY hdrReplyListButton.tooltip "responder a lista de correio">
 <!ENTITY hdrForwardButton.label "reencaminhar">
+<!ENTITY hdrForwardButton.tooltip "reencaminhar esta mensagem">
 <!ENTITY hdrJunkButton.label "lixo">
-<!ENTITY trashButton.tooltiptext "eliminar">
+<!ENTITY hdrJunkButton.tooltip "marcar esta mensagem como lixo">
+<!ENTITY hdrTrashButton.label "eliminar">
+<!ENTITY hdrTrashButton.tooltip "eliminar esta mensagem">
+
+<!ENTITY hdrViewToolbarShowFull.label "Mostrar ícones e texto">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Mostrar apenas ícones">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "c">
+<!ENTITY hdrViewToolbarShowText.label "Mostrar apenas texto">
+<!ENTITY hdrViewToolbarShowText.accesskey "x">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Mostra sempre responder ao remetente">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton.label "outras acções">
 <!ENTITY otherActionsShowConversation.label "mostrar em conversasão">
@@ -72,6 +88,10 @@
 <!ENTITY otherActionsOpenInNewWindow.accesskey "j">
 <!ENTITY otherActionsOpenInNewTab.label "abrir em novo separador">
 <!ENTITY otherActionsOpenInNewTab.accesskey "b">
+<!ENTITY markAsReadMenuItem.label "marcar como lida">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "marcar como não lida">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "guardar como…">
 <!ENTITY saveAsMenuItem.accesskey "v">
 <!ENTITY viewSourceMenuItem.label "ver fonte…">
