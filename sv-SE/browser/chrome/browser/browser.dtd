@@ -366,6 +366,8 @@
 <!ENTITY mediaShowControls.accesskey "k">
 <!ENTITY mediaHideControls.label     "Dölj kontroller">
 <!ENTITY mediaHideControls.accesskey "k">
+<!ENTITY videoFullScreen.label       "Helskärm">
+<!ENTITY videoFullScreen.accesskey   "H">
 
 
 <!-- LOCALIZATION NOTE :
