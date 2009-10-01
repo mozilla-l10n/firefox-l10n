@@ -98,6 +98,7 @@
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Colar como Citação">
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Procurar e Substituir...">
 <!ENTITY findCmd.accesskey "u">
 <!ENTITY findCmd.key "f">
@@ -478,19 +479,19 @@
 <!ENTITY SourceTabDirection "ltr">
 
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label "Seleccione">
-<!ENTITY structSelect.accesskey "s">
-<!ENTITY structRemoveTag.label "Remover etiqueta">
-<!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "Mudar etiqueta">
-<!ENTITY structChangeTag.accesskey "u">
+<!ENTITY structSelect.label         "Seleccione">
+<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structRemoveTag.label      "Remover etiqueta">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Mudar etiqueta">
+<!ENTITY structChangeTag.accesskey  "u">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label "Inserir">
-<!ENTITY insertTOC.accesskey "i">
-<!ENTITY updateTOC.label "Actualizar">
-<!ENTITY updateTOC.accesskey "a">
-<!ENTITY removeTOC.label "Remover">
-<!ENTITY removeTOC.accesskey "r">
-<!ENTITY tocMenu.label "Tabela de Conteúdo...">
-<!ENTITY tocMenu.accesskey "t">
+<!ENTITY insertTOC.label          "Inserir">
+<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY updateTOC.label          "Actualizar">
+<!ENTITY updateTOC.accesskey      "a">
+<!ENTITY removeTOC.label          "Remover">
+<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY tocMenu.label            "Tabela de Conteúdo...">
+<!ENTITY tocMenu.accesskey        "t">
