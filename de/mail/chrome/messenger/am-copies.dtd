@@ -3,7 +3,7 @@
 <!ENTITY copyAndFolderTitle.label "Kopien &amp; Ordner">
 <!ENTITY sendingPrefix.label "Beim Senden von Nachrichten automatisch ">
 <!ENTITY fccMailFolder.label "Eine Kopie speichern unter:">
-<!ENTITY fccMailFolder.accesskey "K">
+<!ENTITY fccMailFolder.accesskey "o">
 <!ENTITY fccReplyFollowsParent.label "Antworten im Ordner der ursprünglichen Nachricht speichern">
 <!ENTITY fccReplyFollowsParent.accesskey "w">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
@@ -23,7 +23,7 @@
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "Ordner &quot;Archiv&quot; in:">
-<!ENTITY archivesFolderOn.accesskey "v">
+<!ENTITY archivesFolderOn.accesskey "h">
 <!ENTITY archiveInOtherFolder.label "Anderer Ordner:">
 <!ENTITY archiveInOtherFolder.accesskey "d">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->

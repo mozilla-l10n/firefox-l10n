@@ -57,19 +57,42 @@
 
 <!ENTITY editMessageDescription.label "Dies ist ein Nachrichten-Entwurf">
 <!ENTITY editMessageButton.label "Bearbeiten…">
-<!ENTITY archiveButton.label "Archivieren">
+<!ENTITY hdrArchiveButton.label "Archivieren">
+<!ENTITY hdrArchiveButton.tooltip "Diese Nachricht archivieren">
 <!ENTITY hdrReplyButton.label "Antworten">
+<!ENTITY hdrReplyButton.tooltip "Dem Absender antworten">
 <!ENTITY hdrReplyAllButton.label "Allen antworten">
+<!ENTITY hdrReplyAllButton.tooltip "Dem Absender und allen Empfängern antworten">
 <!ENTITY hdrReplyListButton.label "Liste antworten">
+<!ENTITY hdrReplyListButton.tooltip "Antwort an die Mailing-Liste">
 <!ENTITY hdrForwardButton.label "Weiterleiten">
+<!ENTITY hdrForwardButton.tooltip "Diese Nachricht weiterleiten">
 <!ENTITY hdrJunkButton.label "Junk">
-<!ENTITY trashButton.tooltiptext "Löschen">
+<!ENTITY hdrJunkButton.tooltip "Diese Nachricht als Junk markieren">
+<!ENTITY hdrTrashButton.label "Löschen">
+<!ENTITY hdrTrashButton.tooltip "Diese Nachricht löschen">
+
+<!ENTITY hdrViewToolbarShowFull.label "Symbole und Text anzeigen">
+<!ENTITY hdrViewToolbarShowFull.accesskey "u">
+<!ENTITY hdrViewToolbarShowIcons.label "Nur Symbole anzeigen">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "S">
+<!ENTITY hdrViewToolbarShowText.label "Nur Text anzeigen">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "&quot;Antworten&quot; immer anzeigen">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
 <!ENTITY otherActionsButton.label "Andere Aktionen">
+<!ENTITY otherActionsShowConversation.label "In Themenbaum anzeigen">
+<!ENTITY otherActionsShowConversation.accesskey "b">
 <!ENTITY otherActionsOpenInNewWindow.label "In neuem Fenster öffnen">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "F">
 <!ENTITY otherActionsOpenInNewTab.label "In neuem Tab öffnen">
 <!ENTITY otherActionsOpenInNewTab.accesskey "T">
+<!ENTITY markAsReadMenuItem.label "Als gelesen markieren">
+<!ENTITY markAsReadMenuItem.accesskey "m">
+<!ENTITY markAsUnreadMenuItem.label "Als ungelesen markieren">
+<!ENTITY markAsUnreadMenuItem.accesskey "m">
 <!ENTITY saveAsMenuItem.label "Speichern unter…">
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "Quelltext anzeigen">

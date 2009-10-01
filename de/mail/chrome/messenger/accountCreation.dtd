@@ -1,4 +1,4 @@
-<!ENTITY autoconfigWizard.title             "Konto einrichten">
+<!ENTITY autoconfigWizard.title          "Konto einrichten">
 <!ENTITY name.label                      "Ihr Name:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.emptytext                  "Vorname Nachname">
@@ -8,7 +8,7 @@
 <!ENTITY email.emptytext                 "email@example.com">
 <!ENTITY password.label                  "Passwort:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Passwort:">
+<!ENTITY password.emptytext              "Passwort">
 <!ENTITY password.text                   "Freiwillig, wird zur Bestätigung des Benutzernamens verwendet">
 
 <!ENTITY accountInformation.label        "Kontenangaben">

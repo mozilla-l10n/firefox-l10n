@@ -15,7 +15,7 @@
 <!ENTITY personalNamespace.label "Persönlicher Namensraum">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Öffentlich (gemeinsam verwendet)">
-<!ENTITY publicNamespace.accesskey "g">
+<!ENTITY publicNamespace.accesskey "Ö">
 <!ENTITY otherUsersNamespace.label "Andere Benutzer">
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Server erlauben diese Namensräume zu übergehen">
