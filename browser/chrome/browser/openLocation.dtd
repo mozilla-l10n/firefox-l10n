@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Izberite datoteko ...">
 <!ENTITY newWindow.label "Novo okno">
 <!ENTITY newTab.label "Nov zavihek">
-<!ENTITY topWindow.label "Trenutno okno">
+
 <!ENTITY caption.label "Odpri spletno mesto">
 <!ENTITY openWhere.label "Odpri v:">
 <!ENTITY openBtn.label "Odpri">

@@ -197,11 +197,9 @@
 <!ENTITY maintenance.accesskey "i">
 
 <!ENTITY backCmd.label "Nazaj">
-<!ENTITY backCmd.accesskey "N">
 <!ENTITY backButton.tooltip "Nazaj">
 
 <!ENTITY forwardCmd.label "Naprej">
-<!ENTITY forwardCmd.accesskey "p">
 <!ENTITY forwardButton.tooltip "Pojdi naprej">
 
 <!ENTITY detailsPane.more.label "Več">

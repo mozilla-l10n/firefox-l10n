@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Zasebno brskanje)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nov zavihek">
 <!ENTITY tabCmd.accesskey "Z">
@@ -101,13 +99,13 @@
 
 <!ENTITY bookmarksButton.label "Zaznamki">
 <!ENTITY bookmarksButton.tooltip "Prikaže vaše zaznamke">
-<!ENTITY bookmarksSidebarCmd.accesskey "Z">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.accesskey  "Z">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Zgodovina">
 <!ENTITY historyButton.tooltip "Prikaže strani, ki ste jih obiskali v bližnji preteklosti">
@@ -198,7 +196,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "S">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "Iskanje po zaznamkih in zgodovini">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Iskanje po zaznamkih in zgodovini">
 <!ENTITY urlbar.bookmark.emptyText    "Iskanje po zaznamkih">
 <!ENTITY urlbar.history.emptyText     "Iskanje po zgodovini">
@@ -311,8 +308,6 @@
 <!ENTITY copyAudioURLCmd.label        "Kopiraj mesto zvoka">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "k">
-<!ENTITY metadataCmd.label "Lastnosti">
-<!ENTITY metadataCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "Kopiraj e-poštni naslov">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Ta okvir">
@@ -443,5 +438,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Več podatkov...">
 
 <!ENTITY downloadMonitor2.tooltip "Kliknite za odpiranje okna prenosov">
-
-<!ENTITY ctrlTab.search.emptyText "Iskanje po zavihkih">

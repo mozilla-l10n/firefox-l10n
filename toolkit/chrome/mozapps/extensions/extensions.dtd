@@ -26,9 +26,7 @@
 <!ENTITY cmd.installLocalFile.accesskey "n">
 <!ENTITY cmd.installFileAddon.tooltip "Namesti dodatke">
 <!ENTITY cmd.installFileTheme.tooltip "Namesti temo">
-<!ENTITY cmd.installUpdatesAll.label "Namesti posodobitve">
-<!ENTITY cmd.installUpdatesAll.accesskey "M">
-<!ENTITY cmd.installUpdatesAll.tooltip "Namesti izbrane posodobitve">
+
 <!ENTITY cmd.restartApp2.label "Ponovno zaženi &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "P">
 <!ENTITY cmd.restartApp2.tooltip "Za uveljavitev sprememb ponovno zaženite &brandShortName;">
