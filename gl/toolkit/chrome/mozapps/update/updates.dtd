@@ -25,12 +25,10 @@
 <!ENTITY  manualUpdateGetMsg.label        "Sempre pode obter a última versión de &brandShortName; en:">
 
 <!ENTITY  manualUpdate.desc               "Unha actualización de seguridade e estabilidade está dispoñibel mais
-                                           vostede non ten os permisos requeridos
-para instalala. Por favor, contacte
-                                           con administración de sistemas ou intente de novo dende unha
-conta do sistema con permisos para 
-                                           instalar aplicativos neste computador.">
-<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
+                                           vostede non ten os permisos requeridos para instalala. Por favor, contacte
+                                           con administración de sistemas ou intente de novo dende unha conta do sistema con permisos para 
+                                           instalar aplicacións neste computador.">
+<!ENTITY  manualUpdateGetMsg.label        "Sempre pode obter a última versión de &brandShortName; en:">
 
 
 <!ENTITY  license.titleText               "Contrato de licenza de software">
