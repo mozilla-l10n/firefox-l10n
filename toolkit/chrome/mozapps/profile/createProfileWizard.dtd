@@ -3,7 +3,7 @@
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; almacena información acerca da súa configuración e preferencias no seu perfil persoal.">
-<!ENTITY profileCreationExplanation_2.text  "Se está a partillar esta copia de &brandShortName; con outros usuarios pode utilizar os perfís para manter separada a información persoal. Para isto, cada usuario ten que crear o seu propio perfil.">
+<!ENTITY profileCreationExplanation_2.text  "Se está a compartir esta copia de &brandShortName; con outros usuarios pode utilizar os perfís para manter separada a información persoal. Para isto, cada usuario ten que crear o seu propio perfil.">
 <!ENTITY profileCreationExplanation_3.text  "Se só vai utilizar esta copia de &brandShortName; unha persoa, debe ter como mínimo un perfil, aínda que tamén pode crear varios perfís para almacenar diferentes tipos de configuracións e preferencias. Por exemplo, pode ter perfís diferentes para traballo e para uso persoal.">
 <!ENTITY profileCreationExplanation_4.text  "Para comezar a crear o perfil, prema Seguinte.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Para comezar a crear o perfil, prema Continuar.">

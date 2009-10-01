@@ -255,7 +255,7 @@
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver a imaxe de fondo">
 <!ENTITY viewBGImageCmd.accesskey     "r">
-<!ENTITY setDesktopBackgroundCmd.label      "Establecer como fondo do escritorio…">
+<!ENTITY setDesktopBackgroundCmd.label      "Estabelecer como fondo do escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "E">
 <!ENTITY bookmarkPageCmd2.label       "Marcar esta páxina">
 <!ENTITY bookmarkPageCmd2.accesskey   "M">
@@ -346,7 +346,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.accesskey    "s">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
-<!ENTITY newTabButton.tooltip           "Abrir unha nova lapela">
+<!ENTITY newTabButton.tooltip           "Abrir nun novo separador">
 <!ENTITY newWindowButton.tooltip        "Abrir unha nova xanela">
 <!ENTITY sidebarCloseButton.tooltip     "Pechar a barra lateral">
 <!ENTITY cutButton.tooltip              "Cortar">
@@ -364,7 +364,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdMac.key      "Q">
 <!ENTITY closeCmd.label                 "Pechar">
 <!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "c">
 <!ENTITY pageStyleMenu.label "Estilo de páxina">
 <!ENTITY pageStyleMenu.accesskey "E">
 <!ENTITY pageStyleNoStyle.label "Sen estilo">
@@ -383,7 +383,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.label        "Mudar a orientación da páxina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "M">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Mudar a orientación do texto">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "M">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 <!ENTITY findOnCmd.label     "Localizar nesta páxina…">
 <!ENTITY findOnCmd.accesskey "L">
