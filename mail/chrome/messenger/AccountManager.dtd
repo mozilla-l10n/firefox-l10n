@@ -2,12 +2,16 @@
 
 <!ENTITY accountManagerTitle.label "Konten-Einstellungen">
 
-<!ENTITY addAccountButton.label "Konto hinzufügen…">
-<!ENTITY addAccountButton.accesskey "h">
+<!ENTITY accountActionsButton.label "Konten-Aktionen">
+<!ENTITY accountActionsButton.accesskey "K">
+<!ENTITY addMailAccountButton.label "E-Mail-Konto hinzufügen…">
+<!ENTITY addMailAccountButton.accesskey "E">
+<!ENTITY addOtherAccountButton.label "Anderes Konto hinzufügen…">
+<!ENTITY addOtherAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Als Standard festlegen">
-<!ENTITY setDefaultButton.accesskey "f">
+<!ENTITY setDefaultButton.accesskey "S">
 <!ENTITY removeButton.label "Konto entfernen">
-<!ENTITY removeButton.accesskey "r">
+<!ENTITY removeButton.accesskey "e">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

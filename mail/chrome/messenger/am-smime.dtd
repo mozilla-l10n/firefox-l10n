@@ -25,4 +25,4 @@
 <!ENTITY manageCerts.label "Zertifikate verwalten…">
 <!ENTITY manageCerts.accesskey "Z">
 <!ENTITY manageDevices.label "Kryptographie-Module verwalten…">
-<!ENTITY manageDevices.accesskey "K">
+<!ENTITY manageDevices.accesskey "M">

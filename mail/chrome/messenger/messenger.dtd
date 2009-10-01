@@ -7,6 +7,8 @@
 <!ENTITY newFolderCmd.accesskey "d">
 <!ENTITY closeTabCmd.label "Tab schließen">
 <!ENTITY closeTabCmd.accesskey "s">
+<!ENTITY closeOtherTabsCmd.label "Andere Tabs schließen">
+<!ENTITY closeOtherTabsCmd.accesskey "A">
 <!ENTITY newVirtualFolderCmd.label "Virtueller Ordner…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newOtherAccountsCmd.label "Anderes Konto…">
@@ -133,8 +135,8 @@
 
 <!ENTITY folderView.label "Ordner">
 <!ENTITY folderView.accesskey "d">
-<!ENTITY smartFolders.label "Virtuell">
-<!ENTITY smartFolders.accesskey "V">
+<!ENTITY smartFolders.label "Gruppiert">
+<!ENTITY smartFolders.accesskey "G">
 <!ENTITY allFolders.label "Alle">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Ungelesene">
@@ -191,10 +193,10 @@
 <!ENTITY threads.accesskey "h">
 <!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "a">
-<!ENTITY expandAllThreadsCmd.label "Alle Themen aufklappen">
+<!ENTITY expandAllThreadsCmd.label "Alle Themenbäume aufklappen">
 <!ENTITY expandAllThreadsCmd.accesskey "u">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Alle Themen zuklappen">
+<!ENTITY collapseAllThreadsCmd.label "Alle Themenbäume zuklappen">
 <!ENTITY collapseAllThreadsCmd.accesskey "z">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Nur ungelesene Beiträge">
@@ -469,6 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Liste antworten">
 <!ENTITY forwardButton.label "Weiterleiten">
 <!ENTITY fileButton.label "Ablegen">
+<!ENTITY archiveButton.label "Archivieren">
 <!ENTITY nextButton.label "Nächste">
 <!ENTITY previousButton.label "Vorherige">
 <!ENTITY backButton1.label "Zurück">
@@ -498,6 +501,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Auf gewählte Nachricht(en) an Liste antworten">
 <!ENTITY forwardButton.tooltip "Gewählte Nachricht(en) weiterleiten">
 <!ENTITY fileButton.tooltip "Gewählte Nachricht(en) ablegen">
+<!ENTITY archiveButton.tooltip "Gewählte Nachricht(en) archivieren">
 <!ENTITY nextButton.tooltip "Gehe zur nächsten ungelesenen Nachricht">
 <!ENTITY previousButton.tooltip "Gehe zur vorherigen ungelesenen Nachricht">
 <!ENTITY goForwardButton.tooltip "Eine Nachricht vorwärts in der Chronik der angesehenen Nachrichten">
@@ -598,7 +602,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
-<!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Themen anzuzeigen">
+<!ENTITY threadColumn.tooltip "Klicken, um Themenbäume anzuzeigen">
 <!ENTITY fromColumn.tooltip "Klicken, um nach Von zu sortieren">
 <!ENTITY recipientColumn.tooltip "Klicken, um nach Empfänger zu sortieren">
 <!ENTITY subjectColumn.tooltip "Klicken, um nach Betreff zu sortieren">
@@ -625,6 +629,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "Als neu bearbeiten">
 <!ENTITY contextEditAsNew.accesskey "b">
+<!ENTITY contextArchive.label "Archivieren">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Antworten nur an Absender">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup.label "Antworten an Newsgruppe">
@@ -679,7 +685,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchEverywhere.label "In allen Konten suchen">
+<!ENTITY searchAllMessages.label "In allen Konten suchen">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Zu Adressbuch hinzufügen…">
@@ -693,11 +699,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SubscribeToNewsgroup.label "Newsgruppe abonnieren">
 <!ENTITY SubscribeToNewsgroup.accesskey "w">
 <!ENTITY SendMessageTo.label "Nachricht verfassen an">
-<!ENTITY SendMessageTo.accesskey "N">
+<!ENTITY SendMessageTo.accesskey "v">
 <!ENTITY CopyEmailAddress.label "E-Mail-Adresse kopieren">
 <!ENTITY CopyEmailAddress.accesskey "E">
-<!ENTITY CopyNewsgroupName.label "Newsgruppenname kopieren">
-<!ENTITY CopyNewsgroupName.accesskey "e">
+<!ENTITY CopyNewsgroupName.label "Name der Newsgruppe kopieren">
+<!ENTITY CopyNewsgroupName.accesskey "N">
+<!ENTITY CopyNewsgroupURL.label "URL der Newsgruppe kopieren">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Filter erstellen aus…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Betrugsversuch melden…">
@@ -705,19 +713,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Ziel speichern unter…">
-<!ENTITY saveLinkAsCmd.accesskey "Z">
+<!ENTITY saveLinkAsCmd.accesskey "c">
 <!ENTITY saveImageAsCmd.label "Grafik speichern unter…">
-<!ENTITY saveImageAsCmd.accesskey "G">
+<!ENTITY saveImageAsCmd.accesskey "h">
+<!ENTITY cutCmd.label "Ausschneiden">
+<!ENTITY cutCmd.accesskey "A">
 <!ENTITY copyCmd.label "Kopieren">
 <!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Einfügen">
+<!ENTITY pasteCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Alles markieren">
 <!ENTITY selectAllCmd.accesskey "m">
 <!ENTITY copyLinkCmd.label "Link-Adresse kopieren">
-<!ENTITY copyLinkCmd.accesskey "k">
+<!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyImageCmd.label "Grafikadresse kopieren">
-<!ENTITY copyImageCmd.accesskey "d">
+<!ENTITY copyImageCmd.accesskey "G">
 <!ENTITY copyEmailCmd.label "E-Mail-Adresse kopieren">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.accesskey "d">
+<!ENTITY stopCmd.label "Stopp">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "Neu laden">
+<!ENTITY reloadCmd.accesskey "N">
+<!ENTITY openInBrowser.label "In Browser öffnen">
+<!ENTITY openInBrowser.accesskey "B">
+<!ENTITY openLinkInBrowser.label "Link in Browser öffnen">
+<!ENTITY openLinkInBrowser.accesskey "B">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Fertig">
