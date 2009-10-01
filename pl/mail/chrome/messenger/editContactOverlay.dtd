@@ -1,3 +1,6 @@
+<!ENTITY editContactPanelDeleteContact.label     "Usuń">
+<!ENTITY editContactPanelDeleteContact.accesskey "U">
+
 <!ENTITY editContactName.label            "Wyświetlaj jako:">
 <!ENTITY editContactName.accesskey        "W">
 <!ENTITY editContactEmail.label           "E-mail:">
