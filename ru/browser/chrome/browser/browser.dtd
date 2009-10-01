@@ -270,6 +270,8 @@
 <!ENTITY mediaShowControls.accesskey "а">
 <!ENTITY mediaHideControls.label "Скрыть пульт управления">
 <!ENTITY mediaHideControls.accesskey "к">
+<!ENTITY videoFullScreen.label "Полноэкранный режим">
+<!ENTITY videoFullScreen.accesskey "л">
 <!ENTITY fullZoomEnlargeCmd.label "Увеличить">
 <!ENTITY fullZoomEnlargeCmd.accesskey "в">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
