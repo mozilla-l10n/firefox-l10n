@@ -83,6 +83,8 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label      "Wyświetlaj wyłącznie tekst">
 <!ENTITY hdrViewToolbarShowText.accesskey  "W">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label     "Zawsze wyświetlaj odpowiedź tylko do nadawcy">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "Z">
 
 <!ENTITY otherActionsShowConversation.label     "Wyświetl wątek w karcie">
 <!ENTITY otherActionsShowConversation.accesskey "W">
