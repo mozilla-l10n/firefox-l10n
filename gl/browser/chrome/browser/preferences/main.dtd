@@ -12,7 +12,7 @@
 <!ENTITY useMultiple.label         "Utilizar as páxinas actuais">
 <!ENTITY useBookmark.label         "Utilizar marcador">
 <!ENTITY useBookmark.accesskey     "m">
-<!ENTITY restoreDefault.label      "Restaurar a predefinidos">
+<!ENTITY restoreDefault.label      "Restaurar os predefinidos">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Descargas">

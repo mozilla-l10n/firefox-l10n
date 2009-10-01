@@ -3,7 +3,7 @@
 <!ENTITY security.warn_when                       "Mostrar unha caixa de diálogo de alerta cando:">
 <!ENTITY security.warn_entering_secure.label      "Vou visualizar unha páxina cifrada.">
 <!ENTITY security.warn_entering_secure.accesskey  "v">
-<!ENTITY security.warn_entering_weak.label        "Vou visualizar unha páxina que utiliza cifraxe de nivel baixo.">
+<!ENTITY security.warn_entering_weak.label        "Vou visualizar unha páxina que utiliza cifrado de nivel baixo.">
 <!ENTITY security.warn_entering_weak.accesskey    "c">
 <!ENTITY security.warn_leaving_secure.label       "Abandono unha páxina cifrada para ir a unha non cifrada.">
 <!ENTITY security.warn_leaving_secure.accesskey   "A">
