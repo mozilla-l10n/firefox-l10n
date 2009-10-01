@@ -10,8 +10,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "?"> 
 <!ENTITY helpMenuWin.accesskey    "?">
-<!ENTITY aboutCmd.label           "À propos de &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "p">
+<!ENTITY aboutProduct.label       "À propos de &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "p">
 <!ENTITY productHelp.label        "Aide de &brandShortName;">
 <!ENTITY productHelp.accesskey    "A">
 <!ENTITY helpForIEUsers.label     "Pour les utilisateurs d'Internet Explorer">
