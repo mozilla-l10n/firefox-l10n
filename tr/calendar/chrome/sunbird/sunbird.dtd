@@ -43,7 +43,7 @@
 <!ENTITY sunbird.remotereload.button.tooltip "Uzaktaki tüm takvimleri tazele">
 <!ENTITY sunbird.import.button.tooltip "Etkinlikleri yerel dosyadan içe aktar">
 <!ENTITY sunbird.export.button.tooltip "Etkinlikleri yerel dosyaya aktar">
-<!ENTITY sunbird.subscribe.button.tooltip "Uzaktaki takvime üye ol">
+<!ENTITY sunbird.subscribe.button.tooltip "Uzaktaki takvime abone ol">
 <!ENTITY sunbird.publish.button.tooltip "Etkinlikleri uzaktaki makineye yayınla ">
 <!ENTITY sunbird.unifinder.button.tooltip "Etkinlikleri bul ve listele">
 <!ENTITY sunbird.edit.button.tooltip "Seçilmiş etkinliği düzenle">
@@ -56,7 +56,7 @@
 <!ENTITY sunbird.remotereload.button.label "Tazele">
 <!ENTITY sunbird.import.button.label "İçe aktar">
 <!ENTITY sunbird.export.button.label "Dışa aktar">
-<!ENTITY sunbird.subscribe.button.label "Üye ol">
+<!ENTITY sunbird.subscribe.button.label "Abone ol">
 <!ENTITY sunbird.publish.button.label "Yayınla">
 <!ENTITY sunbird.unifinder.button.label "Etkinlikleri bul">
 <!ENTITY sunbird.edit.button.label "Düzenle">

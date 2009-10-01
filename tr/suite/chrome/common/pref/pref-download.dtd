@@ -26,10 +26,10 @@
 <!ENTITY neverRemove.label "Asla">
 
 <!ENTITY finishedBehavior.label "İndirme bittiğinde">
-<!ENTITY playSound.label "Bir ses çal">
-<!ENTITY playSound.accesskey "s">
-<!ENTITY showAlert.label "Uyarı göster">
-<!ENTITY showAlert.accesskey "g">
+<!ENTITY playSound.label "Play a sound">
+<!ENTITY playSound.accesskey "P">
+<!ENTITY showAlert.label "Show an alert">
+<!ENTITY showAlert.accesskey "S">
 <!ENTITY browse.label "Gözat…">
 <!ENTITY browse.accesskey "a">
 <!ENTITY preview.label "Önizleme">

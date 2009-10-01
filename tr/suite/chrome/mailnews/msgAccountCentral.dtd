@@ -42,10 +42,10 @@
 <!ENTITY composeMsgLink.label "Yeni ileti oluştur">
 
 <!ENTITY newsSectionHdr.label "Haber Grupları">
-<!ENTITY subscribeNewsLink.label "Haber gruplarına üye ol">
+<!ENTITY subscribeNewsLink.label "Haber gruplarına abone ol">
 
 <!ENTITY accountsSectionHdr.label "Hesaplar">
-<!ENTITY subscribeImapFolders.label "Dosya üyeliklerini düzenle">
+<!ENTITY subscribeImapFolders.label "Dosya aboneliklerini düzenle">
 <!ENTITY settingsLink.label "Bu hesabın ayarlarını görüntüle">
 <!ENTITY newAcctLink.label "Yeni hesap aç">
 

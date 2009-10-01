@@ -59,7 +59,7 @@
 <!ENTITY calendar.pagesetup.label "Sayfa düzeni…">
 <!ENTITY calendar.pagesetup.accesskey "a">
 
-<!ENTITY calendar.subscribe.label "Uzaktaki takvime üye ol…">
+<!ENTITY calendar.subscribe.label "Uzaktaki takvime aboneabone ol…">
 <!ENTITY calendar.subscribe.accesskey "U">
 
 <!ENTITY calendar.reloadserver.label "Uzaktaki takvimleri tazele">

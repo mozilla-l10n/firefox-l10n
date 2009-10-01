@@ -1,5 +1,5 @@
-<!ENTITY window.title "Posta Süzgeçleri">
-<!ENTITY nameColumn.label "Süzgeç İsmi">
+<!ENTITY window.title "Posta süzgeçleri">
+<!ENTITY nameColumn.label "Süzgeç ismi">
 <!ENTITY activeColumn.label "Etkin">
 <!ENTITY newButton.label "Yeni…">
 <!ENTITY newButton.accesskey "Y">
@@ -12,15 +12,15 @@
 <!ENTITY reorderDownButton.label "Aşağıya">
 <!ENTITY reorderDownButton.accesskey "A">
 <!ENTITY filterHeader.label "Süzgeçler aşağıdaki sıralamaya göre otomatik olarak çalıştırılır.">
-<!ENTITY filtersForPrefix.label "Süzgeçlenecek Hesap:">
+<!ENTITY filtersForPrefix.label "Süzgeçlenecek hesap:">
 <!ENTITY filtersForPrefix.accesskey "S">
-<!ENTITY viewLogButton.label "Süzgeç Günlüğü">
+<!ENTITY viewLogButton.label "Süzgeç günlüğü">
 <!ENTITY viewLogButton.accesskey "l">
-<!ENTITY runFilters.label "Şimdi Çalıştır">
+<!ENTITY runFilters.label "Şimdi çalıştır">
 <!ENTITY runFilters.accesskey "a">
 <!ENTITY stopFilters.label "Dur">
 <!ENTITY stopFilters.accesskey "D">
-<!ENTITY folderPickerPrefix.label "Seçili süzgeçler bu klasör içinde uygulansın:">
+<!ENTITY folderPickerPrefix.label "Seçili süzgeçleri bu dizinde uygula:">
 <!ENTITY folderPickerPrefix.accesskey "i">
 <!ENTITY choosethis.label "bu dizinleri seç">
 <!ENTITY choosethisnewsserver.label "bu haber sunucusunu seç">

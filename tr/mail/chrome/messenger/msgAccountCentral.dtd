@@ -3,10 +3,10 @@
 <!ENTITY composeMsgLink.label "Yeni ileti oluştur">
 
 <!ENTITY newsSectionHdr.label "Haber grupları">
-<!ENTITY subscribeNewsLink.label "Haber gruplarına üye ol">
+<!ENTITY subscribeNewsLink.label "Haber gruplarına abone ol">
 
 <!ENTITY accountsSectionHdr.label "Hesaplar">
-<!ENTITY subscribeImapFolders.label "Dizin üyeliklerini yönet">
+<!ENTITY subscribeImapFolders.label "Dizin aboneliklerini yönet">
 <!ENTITY settingsLink.label "Bu hesabın ayarlarını görüntüle">
 <!ENTITY newAcctLink.label "Yeni hesap aç">
 

@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Canlı yer imi üyelikleri">
+<!ENTITY feedSubscriptions.label "Canlı yer imi abonelikleri">
 <!ENTITY subscriptionDesc.label "Not: Canlı yer imi dizinlerinin silinmesi önceden indirilmiş makaleleri etkilemez. ">
 <!ENTITY feedTitle.label "Başlık: ">
 <!ENTITY location.label "Konum: ">
