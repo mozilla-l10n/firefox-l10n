@@ -61,14 +61,28 @@
 
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
 <!ENTITY editMessageButton.label      "edytuj…">
-<!ENTITY archiveButton.label          "archiwizuj">
+<!ENTITY hdrArchiveButton.label       "archiwizuj">
+<!ENTITY hdrArchiveButton.tooltip     "Archiwizuj tą wiadomość">
 <!ENTITY hdrReplyButton.label         "odpowiedz">
+<!ENTITY hdrReplyButton.tooltip       "Odpowiedz na tą wiadomość">
 <!ENTITY hdrReplyAllButton.label      "odpowiedz wszystkim">
+<!ENTITY hdrReplyAllButton.tooltip    "Odpowiedz nadawcy i wszystkim pozostałym korespondentom">
 <!ENTITY hdrReplyListButton.label     "odpowiedz liście">
+<!ENTITY hdrReplyListButton.tooltip   "Wyślij odpowiedź na listę dyskusyjną">
 <!ENTITY hdrForwardButton.label       "przekaż">
+<!ENTITY hdrForwardButton.tooltip     "Przekaż tą wiadomość">
 <!ENTITY hdrJunkButton.label          "niechciana">
-<!ENTITY trashButton.tooltiptext      "Usuń">
+<!ENTITY hdrJunkButton.tooltip        "Oznacz wiadomość jako niechcianą">
+<!ENTITY hdrTrashButton.label         "Usuń">
+<!ENTITY hdrTrashButton.tooltip       "Usuń tą wiadomość">
 <!ENTITY otherActionsButton.label     "inne">
+
+<!ENTITY hdrViewToolbarShowFull.label      "Wyświetlaj ikony i tekst">
+<!ENTITY hdrViewToolbarShowFull.accesskey  "t">
+<!ENTITY hdrViewToolbarShowIcons.label     "Wyświetlaj wyłącznie ikony">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label      "Wyświetlaj wyłącznie tekst">
+<!ENTITY hdrViewToolbarShowText.accesskey  "W">
 
 <!ENTITY otherActionsShowConversation.label     "Wyświetl wątek w karcie">
 <!ENTITY otherActionsShowConversation.accesskey "W">
