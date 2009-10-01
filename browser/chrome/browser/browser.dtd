@@ -48,8 +48,8 @@
 <!ENTITY pageInfoCmd.label "Sayfa bilgileri">
 <!ENTITY pageInfoCmd.accesskey "S">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Tam ekran">
-<!ENTITY fullScreenCmd.accesskey "T">
+<!ENTITY fullScreenCmd.label "Full Screen">
+<!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Tüm sekmeleri göster">
 <!ENTITY showAllTabsCmd.accesskey "s">
@@ -335,6 +335,8 @@
 <!ENTITY mediaShowControls.accesskey "s">
 <!ENTITY mediaHideControls.label "Düğmeleri gizle">
 <!ENTITY mediaHideControls.accesskey "D">
+<!ENTITY videoFullScreen.label "Full Screen">
+<!ENTITY videoFullScreen.accesskey "F">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
