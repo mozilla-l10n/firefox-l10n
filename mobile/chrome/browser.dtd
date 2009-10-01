@@ -1,21 +1,11 @@
 <!ENTITY back.label            "后退">
-<!ENTITY back.tooltip          "后退">
 <!ENTITY forward.label         "前进">
-<!ENTITY forward.tooltip       "前进">
 <!ENTITY reload.label          "重新载入">
-<!ENTITY reload.tooltip        "重新载入">
 <!ENTITY stop.label            "停止">
-<!ENTITY stop.tooltip          "停止">
 <!ENTITY search.label          "搜索">
-<!ENTITY search.tooltip        "搜索">
 <!ENTITY go.label              "转到">
-<!ENTITY go.tooltip            "转到">
 <!ENTITY openLocation.label    "打开位置">
-<!ENTITY openLocation.tooltip  "打开位置">
 <!ENTITY star.label            "星标">
-<!ENTITY star.tooltip          "将此页加为书签">
-<!ENTITY bookmarks.label       "书签">
-<!ENTITY bookmarks.tooltip     "查看书签">
 
 <!ENTITY newtab.label          "新建标签页">
 <!ENTITY closetab.label        "关闭标签页">
@@ -31,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "书签">
 <!ENTITY bookmarksManage.label     "管理">
-<!ENTITY foldersHeader.label       "文件夹">
 
-<!ENTITY editBookmarkEdit.label    "编辑">
-<!ENTITY editBookmarkMove.label    "移动">
+<!ENTITY editBookmarkRemove.label  "移除">
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "标签:">
 
@@ -53,25 +41,22 @@
 
 <!ENTITY addonsHeader.label        "附加组件">
 <!ENTITY addonsLocal.label         "您的附加组件">
+<!ENTITY addonsUpdate.label        "更新">
 <!ENTITY addonsRepo.label          "获取附加组件">
 <!ENTITY addonsRecommended.label   "推荐">
 <!ENTITY addonsSearch.label        "搜索">
-<!ENTITY addonsSearch.emptytext    "搜索全部附件组件">
+<!ENTITY addonsSearch2.emptytext   "搜索目录">
+<!ENTITY addonsSearch.recommended  "推荐">
 
 <!ENTITY addonOptions.label        "选项">
 <!ENTITY addonEnable.label         "启用">
 <!ENTITY addonDisable.label        "禁用">
-<!ENTITY addonInstall.label        "安装">
+<!ENTITY addonInstall2.label       "添加至 &brandShortName;">
 <!ENTITY addonUninstall.label      "卸载">
 <!ENTITY addonCancel.label         "取消">
 <!ENTITY addonShowPage.label       "转至页面">
 
 <!ENTITY downloadsHeader.label     "下载">
-<!ENTITY downloadsSortDate.label   "按日期">
-<!ENTITY downloadsSortSite.label   "站点">
-<!ENTITY downloadsSortName.label   "名称">
-<!ENTITY downloadsSearch.label     "搜索">
-<!ENTITY downloadsSearch.emptytext "搜索已下载文件">
 
 <!ENTITY downloadShowPage.label    "转至页面">
 <!ENTITY downloadShow2.label       "查找">
@@ -80,8 +65,16 @@
 <!ENTITY downloadPause.label       "暂停">
 <!ENTITY downloadResume.label      "恢复">
 <!ENTITY downloadRetry.label       "重试">
+<!ENTITY downloadRemove.label      "移除">
 
 <!ENTITY noResults.label           "没有结果">
+<!ENTITY allBookmarks.label        "查看所有书签">
+
+<!ENTITY searchEngine.addSearch    "添加搜索引擎：">
+
+<!ENTITY bookmarkPopup.label       "页面已加为书签">
+<!ENTITY bookmarkRemove.label      "移除">
+<!ENTITY bookmarkEdit.label        "编辑">
 
 <!ENTITY identity.unverifiedsite2 "此网站未提供标识信息.">
 <!ENTITY identity.connectedTo2 "已连接至">
