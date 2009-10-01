@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pobrane wiadomości przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
-<!ENTITY doNotDownload.label             "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
+<!ENTITY doNotDownloadNntp.label         "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:"><!-- FIXME: fuzzy -->
+<!ENTITY doNotDownloadImap.label         "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku kopie mogą być przechowywane przez ograniczony czas lub wedle rozmiaru.">
 <!ENTITY allFoldersOffline.label         "Przechowuj wiadomości dla tego konta lokalnie na komputerze">
 <!ENTITY allFoldersOffline.accesskey     "k">
 <!ENTITY offlineNotDownload.label        "Nie pobieraj wiadomości większych niż">
 <!ENTITY offlineNotDownload.accesskey    "p">
+<!ENTITY autosyncNotDownload.label       "Nie pobieraj wiadomości większych niż">
+<!ENTITY autosyncNotDownload.accesskey   "N">
 <!ENTITY kb.label                        "KB">
 <!ENTITY daysOld.label                   "dni">
 <!ENTITY nntpNotDownloadRead.label       "Nie pobieraj treści przeczytanych wiadomości">
@@ -32,18 +35,14 @@
 <!ENTITY syncGroupTitle.label                 "Synchronizacja wiadomości">
 <!ENTITY diskspaceGroupTitle.label            "Miejsce na dysku">
 
-<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
-The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
-useAutosyncAfter.label appear on a single line in preferences as follows:
-&useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
--->
-
 <!-- FIXME - sprawdzić w UI o co chodzi i jak to powinno naprawdę wyglądać -->
-<!ENTITY useAutosyncBefore.label "">
-<!ENTITY useAutosyncMiddle.label "">
-<!ENTITY allInterval.label       "Wszystkie"><!-- All -->
-<!ENTITY dayInterval.label       "Dni"><!-- Days of -->
-<!ENTITY weekInterval.label      "Tygodnie"><!-- Weeks of -->
-<!ENTITY monthInterval.label     "Miesiące"><!-- Months of -->
-<!ENTITY yearInterval.label      "Lata"><!-- Years of -->
-<!ENTITY useAutosyncAfter.label  "wiadomości będą przechowywane na dysku"><!-- email will be stored on disk -->
+<!ENTITY allAutosync.label       "Synchronizuj wszystkie wiadomości niezależnie od wieku">
+<!ENTITY allAutosync.accesskey   "S">
+<!ENTITY ageAutosyncBefore.label "Synchronizuj tylko ostatnie wiadomości">
+<!ENTITY ageAutosync.accesskey   "t">
+<!ENTITY ageAutosyncMiddle.label "">
+<!ENTITY dayAgeInterval.label    "Dni">
+<!ENTITY weekAgeInterval.label   "Tygodnie">
+<!ENTITY monthAgeInterval.label  "Miesiące">
+<!ENTITY yearAgeInterval.label   "Lata">
+<!ENTITY ageAutosyncAfter.label  "">
