@@ -58,3 +58,15 @@
 <!ENTITY openJunkLog.accesskey          "L">
 <!ENTITY resetTrainingData.label        "Training-Daten zurücksetzen">
 <!ENTITY resetTrainingData.accesskey    "T">
+
+<!ENTITY pref.suspectMail.caption       "Suspekte Nachrichten">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "Betrügerische E-Mails">
+<!ENTITY enablePhishingDetector.label     "Warnung bei Verdacht auf betrügerische E-Mails anzeigen">
+<!ENTITY enablePhishingDetector.accesskey "V">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "Anti-Virus">
+<!ENTITY antiVirus.label                  "Anti-Virus-Programmen das Scannen eingehender Nachrichten erleichtern">
+<!ENTITY antiVirus.accesskey              "A">
