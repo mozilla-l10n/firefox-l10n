@@ -48,9 +48,6 @@
 <!ENTITY resetToolbars.label "ponastavi orodne vrstice">
 <!ENTITY resetToolbars.accesskey "P">
 
-<!ENTITY resetBookmarks.label "ponastavi zaznamke na privzete">
-<!ENTITY resetBookmarks.accesskey "z">
-
 <!ENTITY resetUserPrefs.label "ponastavi vse uporabniške nastavitve na privzete vrednosti">
 <!ENTITY resetUserPrefs.accesskey "n">
 
