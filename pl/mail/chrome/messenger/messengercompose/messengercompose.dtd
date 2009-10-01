@@ -65,6 +65,7 @@
 <!ENTITY pasteCmd.accesskey       "e">
 <!ENTITY pasteCmd.key             "V">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key  "o">
 <!ENTITY editRewrapCmd.label      "Zawiń wiersze">
 <!ENTITY editRewrapCmd.accesskey  "Z">
 <!ENTITY editRewrapCmd.key        "R">
