@@ -337,6 +337,8 @@
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Masquer les contrôles">
 <!ENTITY mediaHideControls.accesskey "M">
+<!ENTITY videoFullScreen.label       "Plein écran">
+<!ENTITY videoFullScreen.accesskey   "P">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
