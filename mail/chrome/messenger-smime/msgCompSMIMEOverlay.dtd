@@ -1,13 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Sikkerhet">
-<!ENTITY securityMenu.accesskey "i">
-
 <!ENTITY menu_securityEncryptRequire.label "Krypter denne meldingen">
 <!ENTITY menu_securityEncryptRequire.accesskey "K">
-
-<!ENTITY menu_securityNoEncryption.label "Ikke krypter denne meldingen">
-<!ENTITY menu_securityNoEncryption.accesskey "I">
 
 <!ENTITY menu_securitySign.label "Signer denne meldingen digitalt">
 <!ENTITY menu_securitySign.accesskey "s">
