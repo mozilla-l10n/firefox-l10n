@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip "Primeira página">
 <!ENTITY endarrow.tooltip "Última página">
-<!ENTITY nexttarrow.tooltip "Próxima página">
-<!ENTITY previousarrow.tooltip "Página anterior">
+<!ENTITY rightarrow.tooltip "Próxima página">
+<!ENTITY leftarrow.tooltip "Página anterior">
