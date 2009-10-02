@@ -37,7 +37,7 @@ is intended to explain why it might not be the right default for some users.-->
 <!ENTITY featureConfigurator.alternative.label "Alternatief">
 
 <!ENTITY featureConfigurator.syncBenefits.para "Geeft de mogelijkheid om uw e-mail te lezen terwijl u geen verbinding met het internet heeft en geeft de mogelijkheid om berichten te vinden gebasserd op de woorden die het bevat, niet alleen op onderwerp of namen.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird zal al uw e-mail downloaden naar deze computer. Zet dit uit asl u weinig schijfruimte heeft of als u moet betalen voor het netwerkverkeer.">
+<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird zal al uw e-mail downloaden naar deze computer. Zet dit uit als u weinig schijfruimte heeft of als u moet betalen voor het netwerkverkeer.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.syncAll.button): The choice of
 lower case is intentional, but may be overriden if that doesn't make sense
@@ -53,15 +53,15 @@ because of a specific language context.-->
 <!ENTITY featureConfigurator.advancedUsers.para "U kunt dit ook aanpassen per account en map:">
 
 <!ENTITY featureConfigurator.toolbar.heading "Nieuwe werkbalk">
-<!ENTITY featureConfigurator.toolbar.new.status "De nieuwe werkbalk gebruiken.">
+<!ENTITY featureConfigurator.toolbar.new.status "De nieuwe werkbalk gebruikt.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The
 word 'original' is chosen deliberately to be neutral, vs. 'old' which in
 English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "De orginele werkbalk gebruiken.">
+<!ENTITY featureConfigurator.toolbar.original.status "De orginele werkbalk gebruikt.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Een overzichtelijkere interface dan onze vorige standaard werkbalk die meer ruimte laat voor de uitgebreide zoekbalk en add-ons.">
-<!ENTITY featureConfigurator.toolbarAlternative.para "Als u de oude werkbalk beter vind, u het niet wilt aanpassen of het berichtenvenster niet gebuikt in uw layout.">
+<!ENTITY featureConfigurator.toolbarAlternative.para "Als u de oude werkbalk beter vind, u het niet wilt aanpassen of het berichtenvenster niet gebruikt in uw layout.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useOriginalToolbar.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
@@ -79,11 +79,11 @@ words here should echo the name of the mode shown in the folder pane.-->
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
 shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "De &quot;slimme mappen&quot; modus gebruiken.">
+<!ENTITY featureConfigurator.smartFolders.smart.status "De &quot;slimme mappen&quot; modus gebruikt.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
 shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "De &quot;slimme mappen&quot; modus niet gebruiken.">
+<!ENTITY featureConfigurator.smartFolders.all.status "De &quot;slimme mappen&quot; modus niet gebruikt.">
 
 <!ENTITY featureConfigurator.smartFolderBenefits.para "Voor gebruikers met meerdere accounts, deze weergave groepeerd mappen zoals de Postvak In samen zodat u een beter overzicht krijg van al uw e-mail.">
 <!ENTITY featureConfigurator.smartFolderAlternative.para "Als uw voorkeur is om alle informatie te verdelen over de accounts dan is de &quot;Alle mappen&quot; mode meer voor u.">
@@ -102,7 +102,7 @@ sense because of a specific language context.-->
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaBeforeLink): The part
 of the paragraph before the beginning of the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 heeft de gedetailleerde berichtkoppen venster verbeterd door het toeveogen van knoppen met bericht gerelateerde acties. Er zijn alternatieve ontwerpen beschikbaar als ">
+<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 heeft de gedetailleerde berichtkoppen venster verbeterd door het toevoegen van knoppen met bericht gerelateerde acties. Er zijn alternatieve ontwerpen beschikbaar als ">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaLinkName): The name of
 the link to the AMO search page.-->
