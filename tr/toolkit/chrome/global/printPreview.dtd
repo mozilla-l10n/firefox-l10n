@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip "İlk sayfa">
 <!ENTITY endarrow.tooltip "Son sayfa">
-<!ENTITY rightarrow.tooltip "Sonraki sayfa">
-<!ENTITY leftarrow.tooltip "Önceki sayfa">
+<!ENTITY nextarrow.tooltip "Sonraki sayfa">
+<!ENTITY previousarrow.tooltip "Önceki sayfa">
