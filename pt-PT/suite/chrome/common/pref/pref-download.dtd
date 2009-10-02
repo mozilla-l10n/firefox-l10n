@@ -18,6 +18,13 @@
 <!ENTITY alwaysAsk.label                "Perguntar-me sempre onde guardar os ficheiros">
 <!ENTITY alwaysAsk.accesskey            "P">
 
+<!ENTITY downloadRetention.label        "Retenção de transferências">
+<!ENTITY removeDownloads.label          "Remover transferências">
+<!ENTITY removeDownloads.accesskey      "R">
+<!ENTITY whenCompleted.label            "Quando forem terminadas">
+<!ENTITY whenQuittingApp.label          "Ao sair do &brandShortName;">
+<!ENTITY neverRemove.label              "Nunca">
+
 <!ENTITY finishedBehavior.label         "When a download completes">
 <!ENTITY playSound.label                "Tocar um som">
 <!ENTITY playSound.accesskey            "s">
