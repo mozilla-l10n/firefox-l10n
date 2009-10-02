@@ -6,7 +6,7 @@
 <!ENTITY offlineNotDownload.label "Berichten groter dan">
 <!ENTITY offlineNotDownload.accesskey "r">
 <!ENTITY autosyncNotDownload.label "Berichten niet downloaden die groter zijn dan">
-<!ENTITY autosyncNotDownload.accesskey "m">
+<!ENTITY autosyncNotDownload.accesskey "B">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
@@ -44,9 +44,9 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 <!ENTITY allAutosync.label               "Synchroniseer alle berichten lokaal ongeacht de leeftijd">
-<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY allAutosync.accesskey           "S">
 <!ENTITY ageAutosyncBefore.label         "Synchroniseer de meest recente">
-<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosync.accesskey           "r">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "dagen">
 <!ENTITY weekAgeInterval.label           "weken">
