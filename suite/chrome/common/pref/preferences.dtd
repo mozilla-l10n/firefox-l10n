@@ -58,7 +58,7 @@
 <!ENTITY cache.label                 "Podėlis">
 <!ENTITY proxies.label               "Įgaliotieji serveriai">
 <!ENTITY httpnetworking.label        "HTTP protokolas">
-<!ENTITY smart.label                 "Atnaujinimas">
+<!ENTITY smart.label                 "Programų diegimas">
 <!ENTITY download.label              "Atsiuntimai">
 <!ENTITY keynav.label                "Klaviatūra">
 <!ENTITY search.label                "Paieška internete">
