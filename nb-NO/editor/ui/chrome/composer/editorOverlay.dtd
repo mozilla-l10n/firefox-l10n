@@ -97,7 +97,8 @@
 <!ENTITY publishSettings.label "Innstillinger for publiseringssted …">
 <!ENTITY publishSettings.accesskey "p">
 <!ENTITY pasteAsQuotationCmd.label "Lim inn som sitat">
-<!ENTITY pasteAsQuotationCmd.accesskey "s">
+<!ENTITY pasteAsQuotationCmd.accesskey "L">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Søk og erstatt …">
 <!ENTITY findCmd.accesskey "S">
 <!ENTITY findCmd.key "F">
