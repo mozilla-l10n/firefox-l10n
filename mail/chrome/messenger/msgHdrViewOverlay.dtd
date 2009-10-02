@@ -57,22 +57,44 @@
 
 <!ENTITY editMessageDescription.label "Dette er et meldingsutkast">
 <!ENTITY editMessageButton.label "Rediger …">
-<!ENTITY archiveButton.label "arkiver">
+<!ENTITY hdrArchiveButton.label "arkiver">
+<!ENTITY hdrArchiveButton.tooltip "arkiver denne meldingen">
 <!ENTITY hdrReplyButton.label "svar">
+<!ENTITY hdrReplyButton.tooltip "svar på denne meldingen">
 <!ENTITY hdrReplyAllButton.label "svar til alle">
+<!ENTITY hdrReplyAllButton.tooltip "svar til avsenderen og alle mottakere">
 <!ENTITY hdrReplyListButton.label "svar til liste">
+<!ENTITY hdrReplyListButton.tooltip "svar til e-postliste">
 <!ENTITY hdrForwardButton.label "videresend">
+<!ENTITY hdrForwardButton.tooltip "videresend denne meldingen">
 <!ENTITY hdrJunkButton.label "uønsket">
-<!ENTITY trashButton.tooltiptext "slett">
+<!ENTITY hdrJunkButton.tooltip "merk denne meldingen som uønsket">
+<!ENTITY hdrTrashButton.label "slett">
+<!ENTITY hdrTrashButton.tooltip "slett denne meldingen">
+
+<!ENTITY hdrViewToolbarShowFull.label "Vis ikoner og tekst">
+<!ENTITY hdrViewToolbarShowFull.accesskey "V">
+<!ENTITY hdrViewToolbarShowIcons.label "Vis bare ikoner">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "V">
+<!ENTITY hdrViewToolbarShowText.label "Vis bare tekst">
+<!ENTITY hdrViewToolbarShowText.accesskey "s">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Alltid vis Svar til avsender">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
 <!ENTITY otherActionsButton.label "andre handlinger">
+<!ENTITY otherActionsShowConversation.label "vis samtalekontekst">
+<!ENTITY otherActionsShowConversation.accesskey "v">
 <!ENTITY otherActionsOpenInNewWindow.label "åpne i nytt vindu">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "å">
 <!ENTITY otherActionsOpenInNewTab.label "åpne i ny fane">
 <!ENTITY otherActionsOpenInNewTab.accesskey "n">
+<!ENTITY markAsReadMenuItem.label "merk som lest">
+<!ENTITY markAsReadMenuItem.accesskey "m">
+<!ENTITY markAsUnreadMenuItem.label "merk som ulest">
+<!ENTITY markAsUnreadMenuItem.accesskey "m">
 <!ENTITY saveAsMenuItem.label "lagre som …">
 <!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "vis kildekode …">
+<!ENTITY viewSourceMenuItem.label "vis kildekode">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 <!ENTITY otherActionsPrint.label "skriv ut …">
 <!ENTITY otherActionsPrint.accesskey "s">

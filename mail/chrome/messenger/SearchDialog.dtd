@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label            "Arkiver">
 <!ENTITY fileButton.accesskey        "r">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Åpne mappen med meldingen">
-<!ENTITY goToFolderButton.accesskey  "m">
+<!ENTITY openInFolder.label          "Åpne i mappen">
+<!ENTITY openInFolder.accesskey      "Å">
 <!ENTITY saveAsVFButton.label        "Lagre som søkemappe">
 <!ENTITY saveAsVFButton.accesskey    "L">
 
