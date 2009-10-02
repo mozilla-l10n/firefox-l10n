@@ -98,6 +98,7 @@
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Plakken als citaat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Zoeken en vervangen…">
 <!ENTITY findCmd.accesskey "Z">
 <!ENTITY findCmd.key "f">
