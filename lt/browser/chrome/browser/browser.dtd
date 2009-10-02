@@ -353,18 +353,20 @@
 <!ENTITY thisFrameMenu.accesskey          "K">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "Groti">
-<!ENTITY mediaPlay.accesskey         "G">
-<!ENTITY mediaPause.label            "Pristabdyti">
-<!ENTITY mediaPause.accesskey        "P">
-<!ENTITY mediaMute.label             "Išjungti garsą">
-<!ENTITY mediaMute.accesskey         "r">
-<!ENTITY mediaUnmute.label           "Įjungti garsą">
-<!ENTITY mediaUnmute.accesskey       "r">
-<!ENTITY mediaShowControls.label     "Rodyti mygtukus">
-<!ENTITY mediaShowControls.accesskey "m">
-<!ENTITY mediaHideControls.label     "Nerodyti mygtukų">
-<!ENTITY mediaHideControls.accesskey "m">
+<!ENTITY mediaPlay.label                "Groti">
+<!ENTITY mediaPlay.accesskey            "G">
+<!ENTITY mediaPause.label               "Pristabdyti">
+<!ENTITY mediaPause.accesskey           "P">
+<!ENTITY mediaMute.label                "Išjungti garsą">
+<!ENTITY mediaMute.accesskey            "r">
+<!ENTITY mediaUnmute.label              "Įjungti garsą">
+<!ENTITY mediaUnmute.accesskey          "r">
+<!ENTITY mediaShowControls.label        "Rodyti mygtukus">
+<!ENTITY mediaShowControls.accesskey    "m">
+<!ENTITY mediaHideControls.label        "Nerodyti mygtukų">
+<!ENTITY mediaHideControls.accesskey    "m">
+<!ENTITY videoFullScreen.label          "Visas ekranas">
+<!ENTITY videoFullScreen.accesskey      "V">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
