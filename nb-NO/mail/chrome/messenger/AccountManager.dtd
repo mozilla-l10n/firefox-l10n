@@ -2,8 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Kontoinnstillinger">
 
-<!ENTITY addAccountButton.label "Legg til konto …">
-<!ENTITY addAccountButton.accesskey "L">
+<!ENTITY accountActionsButton.label "Kontohandlinger">
+<!ENTITY accountActionsButton.accesskey "K">
+<!ENTITY addMailAccountButton.label "Legg til e-postkonto …">
+<!ENTITY addMailAccountButton.accesskey "e">
+<!ENTITY addOtherAccountButton.label "Legg til annen konto …">
+<!ENTITY addOtherAccountButton.accesskey "L">
 <!ENTITY setDefaultButton.label "Sett som standard">
 <!ENTITY setDefaultButton.accesskey "S">
 <!ENTITY removeButton.label "Slett konto">

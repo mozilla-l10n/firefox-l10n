@@ -1,6 +1,5 @@
 <!ENTITY credit.title     "&brandFullName; anerkjennelser">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
-<!ENTITY credit.leads     "Hovedingeniører">
 <!ENTITY credit.thanks    "Spesielt takk til">
 
 <!-- localization credits look like this: -->
@@ -10,8 +9,5 @@
 -->
 <!ENTITY credit.translation "<h3>Norsk oversettelse</h3><ul><li>Pascual Strømsnæs</li><li>Vidar Braut Haarr</li><li>Håvar Henriksen</li><li>Reidar Djupvik</li><li>Jan-Espen Pettersen</li><li>Håvard Mork</li><li>Lasse Marøen</li><li>Martin Joné</li><li>Morten Liljegren</li></ul>">
 
-<!ENTITY credit.theme          "Tema-design">
-<!ENTITY credit.qa             "Kvalitetssikring">
-<!ENTITY credit.build          "Utgivelser">
 <!ENTITY credit.memory         "Til minne av">
 <!ENTITY credit.poweredByGecko "Bruker Gecko&trade;-teknologi">

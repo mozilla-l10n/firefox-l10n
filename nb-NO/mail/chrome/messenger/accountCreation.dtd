@@ -70,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Advarsel! Dette er en usikker tjener.">
 <!ENTITY insecureServer.tooltip.details  "Trykk på sirkelen for mer informasjon.">
 
-<!ENTITY insecureCleartext.description   "E-post sendes i klartekst, slik at e-posten kan leses av andre på nettet. &brandShortName; lar deg bruke e-posten, men du bør virkelig få e-posttilbyderen til å konfigurere tjeneren med sikker tilkobling.">
+<!ENTITY insecureUnencrypted.description "E-posten og autentiseringen sendes i klartekst, slik at passordet (og meldingen) kan enkelt leses av andre. &brandShortName; lar deg bruke e-posten, men du bør virkelig spørre e-posttilbyderen om å konfigurere tjeneren med sikker tilkobling.">
 <!ENTITY insecureSelfSigned.description  "Tjeneren bruker et sertifikat som vi ikke kan stole på, og vi kan derfor ikke være sikre på at noen fanger opp trafikken mellom &brandShortName; og tjeneren. &brandShortName; lar deg bruke e-posten likevel, men du bør virkelig få e-posttilbyderen til å konfigurere tjeneren med et tiltrodd sertifikat.">
 <!ENTITY secureServer.description        "Gratulerer! Dette er en sikker tjener.">
