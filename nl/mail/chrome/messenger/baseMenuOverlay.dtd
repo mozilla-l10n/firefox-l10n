@@ -9,6 +9,8 @@
 <!ENTITY releaseCmd.accesskey "U">
 <!ENTITY whatsNewCmd.label "Wat is er nieuw">
 <!ENTITY whatsNewCmd.accesskey "W">
+<!ENTITY featureConfiguratorCmd.label "Migratie-assistent">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "Helpinhoud">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
