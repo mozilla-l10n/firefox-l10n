@@ -39,8 +39,3 @@
 
 pref("general.useragent.locale", "@AB_CD@");
 pref("spellchecker.dictionary", "@AB_CD@");
-
-// FIXME: help
-//        pref("app.support.baseUR", "http://support.live.mozillamessaging.com/%LOCALE%/%APP%/%APPBUILDID%/");
-//        → pref("app.support.baseURL", "http://pomoc.thunderbird.pl");
-//          → bmo
