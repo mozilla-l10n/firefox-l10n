@@ -13,8 +13,8 @@
 <!ENTITY playSound.accesskey "P">
 <!ENTITY systemSound.label "System beep">
 <!ENTITY systemSound.accesskey "S">
-<!ENTITY customSound.label "Custom sound file">
-<!ENTITY customSound.accesskey "C">
+<!ENTITY customSound.label "Özel ses dosyası">
+<!ENTITY customSound.accesskey "z">
 
 <!ENTITY selectSound.label "Gözat…">
 <!ENTITY selectSound.accesskey "z">

@@ -52,7 +52,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title "Süzgeç Kuralları">
+<!ENTITY window.title "Süzgeç kuralları">
 
 <!ENTITY filterName.label "Süzgeç İsmi:">
 <!ENTITY filterName.accesskey "S">

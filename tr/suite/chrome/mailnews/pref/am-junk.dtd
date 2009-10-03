@@ -5,7 +5,7 @@
 
 <!ENTITY move.label "Gereksiz posta tespit edildiğinde gelen iletileri">
 <!ENTITY move.accesskey "i">
-<!ENTITY junkFolderOn.label "Yandaki hesabın &quot;Gereksiz Posta&quot; dizinine taşı">
+<!ENTITY junkFolderOn.label "Yandaki hesabın &quot;Gereksiz&quot; dizinine taşı">
 <!ENTITY junkFolderOn.accesskey "i">
 <!ENTITY otherFolder.label "Diğer:">
 <!ENTITY otherFolder.accesskey "D">
@@ -13,7 +13,7 @@
 <!ENTITY purge1.accesskey "m">
 <!ENTITY purge2.label "gün">
 
-<!ENTITY whitelist.label "Eğer aşağıdaki gönderen benim adres defterimde kayıtlı ise Gereksiz Posta olarak işaretleme:">
+<!ENTITY whitelist.label "Eğer aşağıdaki gönderen benim adres defterimde kayıtlı ise Gereksiz olarak işaretleme:">
 <!ENTITY whitelist.accesskey "E">
 
 <!ENTITY ispHeaders.label "Güvenli posta başlıkları: ">

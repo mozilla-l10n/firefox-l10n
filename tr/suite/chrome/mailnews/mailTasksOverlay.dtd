@@ -5,7 +5,7 @@
 <!ENTITY messengerCmd.commandkey "2">
 <!ENTITY addressBookCmd.label "Adres defteri">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "4">
+<!ENTITY addressBookCmd.commandkey "5">
 
 <!ENTITY taskMessenger.tooltip "Posta ve haber grupları">
 <!ENTITY taskAddressBook.tooltip "Adres defteri">
@@ -14,6 +14,6 @@
 <!ENTITY searchAddressesCmd.label "Adreslerde ara…">
 <!ENTITY searchAddressesCmd.accesskey "A">
 
-<!ENTITY searchMailCmd.label "Postaları ara…">
-<!ENTITY searchMailCmd.accesskey "P">
+<!ENTITY searchMailCmd.label "İletilerde ara…">
+<!ENTITY searchMailCmd.accesskey "İ">
 <!ENTITY searchMailCmd.key "f">

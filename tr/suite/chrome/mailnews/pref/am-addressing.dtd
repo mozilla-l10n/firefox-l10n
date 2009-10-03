@@ -2,8 +2,8 @@
 
 <!ENTITY addressing.label "Düzenleme ve adresler">
 <!ENTITY addressingGroupTitle.label "Adresler">
-<!ENTITY autocompleteToMyDomain.label "Automatically append my domain to addresses">
-<!ENTITY autocompleteToMyDomain.accesskey "o">
+<!ENTITY autocompleteToMyDomain.label "Alan adımı adreslere otomatik olarak ekle">
+<!ENTITY autocompleteToMyDomain.accesskey "A">
 <!ENTITY addressingText.label "Adreslere bakılırken,">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label "LDAP sunucumun ayarlarını bu hesap için kullan">

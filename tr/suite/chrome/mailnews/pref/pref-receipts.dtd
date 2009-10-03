@@ -41,8 +41,8 @@
 <!ENTITY requestReceipt.label "E-postaları gönderirken her zaman alındı onayı iste">
 <!ENTITY requestReceipt.accesskey "p">
 <!ENTITY receiptArrive.label "Alındı onayı geldiğinde:">
-<!ENTITY leaveIt.label "Leave it in my Inbox">
-<!ENTITY leaveIt.accesskey "L">
+<!ENTITY leaveIt.label "Gelen kutusunda bırak">
+<!ENTITY leaveIt.accesskey "G">
 <!ENTITY moveToSent.label "&quot;Gönderilen&quot; dizinine taşı">
 <!ENTITY moveToSent.accesskey "n">
 <!ENTITY requestMDN.label "Alındı onayı isteği aldığımda:">

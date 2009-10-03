@@ -42,16 +42,16 @@
 <!ENTITY playSound.accesskey "S">
 <!ENTITY showAnimatedAlert.label "Beni uyar">
 <!ENTITY showAnimatedAlert.accesskey "y">
-<!ENTITY showTrayIcon.label "Show a tray icon">
+<!ENTITY showTrayIcon.label "Sistem çekmecesi simgesini göster">
 <!ENTITY showTrayIcon.accesskey "t">
-<!ENTITY bounceSystemDockIcon.label "Animate the Dock icon">
-<!ENTITY bounceSystemDockIcon.accesskey "A">
+<!ENTITY bounceSystemDockIcon.label "Küçük simgeyi oynat">
+<!ENTITY bounceSystemDockIcon.accesskey "o">
 <!ENTITY preview.label "Önizleme">
 <!ENTITY preview.accesskey "z">
-<!ENTITY systemsound.label "System New Mail Sound">
-<!ENTITY systemsound.accesskey "M">
-<!ENTITY customsound.label "Custom sound file">
-<!ENTITY customsound.accesskey "C">
+<!ENTITY systemsound.label "Sistem yeni posta sesi">
+<!ENTITY systemsound.accesskey "S">
+<!ENTITY customsound.label "Özel ses dosyası">
+<!ENTITY customsound.accesskey "z">
 <!ENTITY browse.label "Gözat…">
 <!ENTITY browse.accesskey "t">
 <!ENTITY browse.title "Dosya seç">

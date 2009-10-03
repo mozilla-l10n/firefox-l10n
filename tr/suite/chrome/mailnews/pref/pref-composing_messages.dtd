@@ -38,7 +38,7 @@
 
 <!ENTITY pref.composing.messages.title "Düzenleme">
 <!ENTITY generalComposing.label "Genel">
-<!ENTITY forwardMsg.label "Forward messages:">
+<!ENTITY forwardMsg.label "İletileri yönlendir:">
 <!ENTITY inline.label "İleti içinde ilet">
 <!ENTITY inline.accesskey "İ">
 <!ENTITY asAttachment.label "Eklenti olarak ilet">
@@ -52,14 +52,14 @@
      "xxx minutes", using a number and (autoSaveEnd.label). -->
 <!ENTITY autoSave.label "Automatically save the message every">
 <!ENTITY autoSave.accesskey "u">
-<!ENTITY autoSaveEnd.label "minutes">
+<!ENTITY autoSaveEnd.label "dakika">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
 <!ENTITY wrapOutMsg.label "Wrap plain text messages at">
 <!ENTITY wrapOutMsg.accesskey "W">
-<!ENTITY char.label "characters">
+<!ENTITY char.label "karakter">
 
 <!ENTITY spellingHeader.label "İmla denetimi">
-<!ENTITY spellCheck.label "Yazım hatalarını göndermeden önce kontrol et">
+<!ENTITY spellCheck.label "Yazım hatalarını göndermeden önce denetle">
 <!ENTITY spellCheck.accesskey "a">
 <!ENTITY spellCheckInline.label "Yazarken yazım denetimini gerçekleştir">
 <!ENTITY spellCheckInline.accesskey "Y">
