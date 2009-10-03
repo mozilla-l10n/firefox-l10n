@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "Tilladelser">
 <!ENTITY  permTab.accesskey     "T">
 <!ENTITY  permUseDefault        "Brug standard">
+<!ENTITY  permAskAlways         "Spørg altid">
 <!ENTITY  permAllow             "Tillad">
 <!ENTITY  permAllowSession      "Tillad for sessionen">
 <!ENTITY  permBlock             "Bloker">
@@ -96,6 +97,7 @@
 <!ENTITY  permPopup             "Åbne pop op-vinduer">
 <!ENTITY  permCookie            "Sætte cookies">
 <!ENTITY  permInstall           "Installere udvidelser eller temaer">
+<!ENTITY  permGeo               "Dele placering">
 
 <!ENTITY  securityTab           "Sikkerhed">
 <!ENTITY  securityTab.accesskey "S">

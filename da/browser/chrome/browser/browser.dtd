@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat browsing)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nyt faneblad">
 <!ENTITY tabCmd.accesskey "f">
@@ -34,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Arbejd offline">
 <!ENTITY goOfflineCmd.accesskey "o">
 
+<!ENTITY menubarCmd.label "Menulinje">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigationslinje">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Bogmærkelinje">
@@ -50,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Fuldskærm">
 <!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Vis alle faneblade">
+<!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Gendan">
@@ -88,6 +91,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stop indlæsningen af denne side">
 <!ENTITY goEndCap.tooltip             "Gå til adressen i adresselinjen">
+<!ENTITY feedButton.tooltip           "Abonner på denne side…">
 <!ENTITY printButton.label            "Udskriv">
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
@@ -101,9 +105,13 @@
 
 <!ENTITY bookmarksButton.label          "Bogmærker">
 <!ENTITY bookmarksButton.tooltip        "Vis dine bogmærker">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey      "B">
+<!ENTITY bookmarksCmd.commandkey        "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey     "o">
+<!ENTITY bookmarksWinCmd.commandkey     "i">
 
 <!ENTITY historyButton.label            "Historik">
 <!ENTITY historyButton.tooltip          "Vis de sider, du har besøgt for nyligt">
@@ -150,9 +158,9 @@
 <!ENTITY copyCmd.label            "Kopier">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "o"> 
-<!ENTITY pasteCmd.label           "Sæt ind">  
+<!ENTITY pasteCmd.label           "Indsæt">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "i"> 
+<!ENTITY pasteCmd.accesskey         "I"> 
 <!ENTITY deleteCmd.label          "Slet">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "S"> 
@@ -169,9 +177,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Start Privat browsing">
-<!ENTITY privateBrowsingCmd.start.accesskey     "b">
+<!ENTITY privateBrowsingCmd.start.accesskey     "p">
 <!ENTITY privateBrowsingCmd.stop.label          "Stop Privat browsing">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "b">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vis"> 
@@ -186,13 +194,18 @@
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "i">
 <!ENTITY historyUndoMenu.label "Nyligt lukkede faneblade">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Nyligt lukkede vinduer">
 
 <!ENTITY historyHomeCmd.label "Hjem">
 <!ENTITY showAllHistoryCmd2.label "Vis historik">
 <!ENTITY showAllHistoryCmd.commandkey "V">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Søg i bogmærker og historik">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Søg i bogmærker og historik">
+<!ENTITY urlbar.bookmark.emptyText    "Søg i bogmærker">
+<!ENTITY urlbar.history.emptyText     "Søg i historik">
+<!ENTITY urlbar.none.emptyText        "Indtast en webadresse">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -302,8 +315,6 @@
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
 <!ENTITY copyAudioURLCmd.accesskey    "a"> 
 <!ENTITY blockImageCmd.accesskey       "l">
-<!ENTITY metadataCmd.label            "Egenskaber">
-<!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopier emailadresse">
 <!ENTITY copyEmailCmd.accesskey       "a">
 <!ENTITY thisFrameMenu.label              "Denne ramme">
@@ -351,8 +362,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
+<!ENTITY newTabButton.tooltip           "Åbn et nyt faneblad">
 <!ENTITY newWindowButton.tooltip        "Åbn et nyt vindue">
 <!ENTITY sidebarCloseButton.tooltip     "Luk sidebjælke">
+<!ENTITY fullScreenButton.tooltip       "Vis vinduet i fuldskærmstilstand">
 
 <!ENTITY cutButton.tooltip              "Klip">
 <!ENTITY copyButton.tooltip             "Kopier">
@@ -433,4 +446,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Klik her for at åbne filhentningsvinduet">
 
-<!ENTITY ctrlTab.search.emptyText "Søgefaneblade">
+<!ENTITY allTabs.filter.emptyText "Søgefaneblade">

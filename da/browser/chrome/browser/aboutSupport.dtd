@@ -1,0 +1,30 @@
+<!ENTITY aboutSupport.pageTitle "Fejlfindingsinformation">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Denne side indhodler teknisk information som måske kan være brugbar når du forsøger
+  at løse et problem. Hvis du leder efter svar på ofte spurgte spørgsmål vedrørende
+  &brandShortName;, kan du tjekke vores <a id='supportLink'>support websted</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Tilføjelser">
+<!ENTITY aboutSupport.extensionName "Navn">
+<!ENTITY aboutSupport.extensionEnabled "Aktiveret">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Applikationsinfo">
+<!ENTITY aboutSupport.appBasicsName "Navn">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profilbibliotek">
+<!ENTITY aboutSupport.appBasicsPlugins "Installerede plugins">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfiguration">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Ændrede indstillinger">
+<!ENTITY aboutSupport.modifiedPrefsName "Navn">
+<!ENTITY aboutSupport.modifiedPrefsValue "Værdi">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Installationshistorik">
+<!ENTITY aboutSupport.updateHistoryTitle "Opdateringshistorik">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Kopier alt til udklipsholderen">

@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "G">
 <!ENTITY cmd.edit_redo.key          "a">
 
+<!ENTITY cmd.bookmarkLink.label         "Bogmærk denne side…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Slet dette websted">
 <!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Glem alt om dette websted">
@@ -136,18 +138,10 @@
 
 <!ENTITY search.label                              "Søg:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "Kun nuværende samling">
-<!ENTITY search.collection.accesskey               "K">
-<!ENTITY search.allBookmarks.label                 "Alle bogmærker">
-<!ENTITY search.allBookmarks.accesskey             "A">
 <!ENTITY search.scopeFolder.label                  "Valgt mappe">
 <!ENTITY search.scopeFolder.accesskey              "m">
-<!ENTITY search.scopeAll.label                     "Alle bogmærker">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "Bogmærke-menu">
-<!ENTITY search.scopeMenu.accesskey                "m">
-<!ENTITY search.scopeToolbar.label                 "Bogmærke-bjælke">
-<!ENTITY search.scopeToolbar.accesskey             "b">
+<!ENTITY search.scopeBookmarks.label               "Bogmærker">
+<!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY search.scopeDownloads.label               "Filhentninger">
 <!ENTITY search.scopeDownloads.accesskey           "F">
 <!ENTITY search.scopeHistory.label                 "Historik">
@@ -205,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "u">
 
 <!ENTITY backCmd.label       "Tilbage">
-<!ENTITY backCmd.accesskey   "b">
 <!ENTITY backButton.tooltip  "Gå tilbage">
 
 <!ENTITY forwardCmd.label       "Frem">
-<!ENTITY forwardCmd.accesskey   "F">
 <!ENTITY forwardButton.tooltip  "Gå frem">
 
 <!ENTITY detailsPane.more.label "Mere">

@@ -13,7 +13,7 @@
 <!ENTITY dnsNotFound.longDesc "Adressen (URL) stemmer ikke overens med et kendt websted og kunne ikke indlæses. Dette kan skyldes en stavefejl i adressen eller at webstedet ikke eksisterer. Hvis adressen er gyldig, eller problemet opstår på mange websteder, kan det skyldes et problem med din proxy service (hvis du anvender en) eller et problem med DNS serverne. I sådanne tilfælde bør du rådføre dig med dine system-manualer, din administrator eller internet-udbyder for yderligere assistance.">
 
 <!ENTITY fileNotFound.title "Filen kunne ikke findes">
-<!ENTITY fileNotFound.longDesc "<ul><li>Er flien blevet omdøbt, fjernet eller flyttet?</li><li>Er der en stave- eller typografisk fejl i adressen? (Bemærk at nogle servere behandler store og små bogstaver forskelligt)</li><li>Har du passende adgangstilladelser for at tilgå den specifikke fil?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Er filen blevet omdøbt, fjernet eller flyttet?</li><li>Er der en stave- eller typografisk fejl i adressen? (Bemærk at nogle servere behandler store og små bogstaver forskelligt)</li><li>Har du passende adgangstilladelser for at tilgå den specifikke fil?</li></ul>">
 
 <!ENTITY generic.title "Kan ikke færdiggøre forespørgsel">
 <!ENTITY generic.longDesc "Siden kunne ikke vises, måske fordi den ikke eksisterer eller stien er forkert.<br/>Kontroller lige at navnet og stien er rigtig.">

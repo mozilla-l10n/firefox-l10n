@@ -43,39 +43,20 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name "Min kalender">
 <!ENTITY calendar.calendar.label "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
-
-<!ENTITY calendar.confirm.deleteallevents "Er du sikker på, du vil slette de valgte begivenheder?">
-<!ENTITY calendar.confirm.deleteevent "Er du sikker på, du vil slette begivenheden med navnet: ">
-<!ENTITY calendar.confirm.deleteuntitledevent "Er du sikker på, du vil slette begivenheden uden navn?">
-
-<!ENTITY calendar.flat.topbar.choosedate "Gå til dato">
-<!ENTITY calendar.flat.topbar.dayview "Dag">
-<!ENTITY calendar.dayview.accesskey "D">
-<!ENTITY calendar.flat.topbar.weekview "Uge">
-<!ENTITY calendar.weekview.accesskey "U">
-<!ENTITY calendar.flat.topbar.monthview "Måned">
-<!ENTITY calendar.monthview.accesskey "M">
-<!ENTITY calendar.flat.topbar.multiweekview "Multiuge">
-<!ENTITY calendar.multiweekview.accesskey "l">
 <!ENTITY calendar.dayView.key "1">
 <!ENTITY calendar.weekView.key "2">
 <!ENTITY calendar.multiweekView.key "3">
 <!ENTITY calendar.monthView.key "4">
 
-<!ENTITY calendar.newtask.button.tooltip "Opret en ny opgave">
 <!ENTITY calendar.newevent.button.tooltip "Opret en ny begivenhed">
-<!ENTITY calendar.delete.button.tooltip "Slet valgte begivenhed">
-<!ENTITY calendar.edit.button.tooltip "Rediger valgte begivenhed">
+<!ENTITY calendar.newtask.button.tooltip "Opret en ny opgave">
 
 <!ENTITY calendar.unifinder.todoitems.label "Opgaver">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Vis fuldførte opgaver">
 
-<!ENTITY calendar.calendartab.label "Dato">
-<!ENTITY calendar.listofcalendarstab.label "Kalendere">
 <!ENTITY calendar.today.button.label "Gå til i dag">
 <!ENTITY calendar.tomorrow.button.label "I morgen">
 <!ENTITY calendar.soon.button.label "Snart">
@@ -103,12 +84,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label "Kalendernavn">
 <!ENTITY calendar.unifinder.tree.duration.label "Varighed">
 <!ENTITY calendar.unifinder.close.tooltip "Luk begivenhedssøgning og begivenhedsoversigten">
-<!ENTITY calendar.find.key "F">
 
 <!ENTITY calendar.today.button.tooltip "Gå til i dag">
 <!ENTITY calendar.todaypane.button.tooltip "Vis i dag-panel">
-<!ENTITY calendar.choosedate.button.tooltip "Vælg en dag at gå til">
-<!ENTITY calendar.unifinder.button.tooltip "Find og vis begivenheder">
 
 <!ENTITY calendar.day.button.tooltip "Skift til dagsoversigt">
 <!ENTITY calendar.week.button.tooltip "Skift til ugeoversigt">
@@ -122,38 +100,18 @@
 <!ENTITY calendar.nextmonth.button.tooltip "Næste måned">
 <!ENTITY calendar.prevmonth.button.tooltip "Forrige måned">
 
-<!ENTITY calendar.newtask.button.label "Ny opgave">
+<!ENTITY calendar.navigation.nextday.tooltip "En dag frem">
+<!ENTITY calendar.navigation.prevday.tooltip "En dag tilbage">
+<!ENTITY calendar.navigation.nextweek.tooltip "En uge frem">
+<!ENTITY calendar.navigation.prevweek.tooltip "En uge tilbage">
+<!ENTITY calendar.navigation.nextmonth.tooltip "En måned frem">
+<!ENTITY calendar.navigation.prevmonth.tooltip "En måned tilbage">
+
 <!ENTITY calendar.newevent.button.label "Ny begivenhed">
-<!ENTITY calendar.delete.button.label "Slet">
-<!ENTITY calendar.edit.button.label "Rediger">
-
-<!ENTITY calendar.choosedate.button.label "Vælg dato">
-
-<!ENTITY calendar.cut.button.tooltip "Klip">
-<!ENTITY calendar.copy.button.tooltip "Kopier">
-<!ENTITY calendar.paste.button.tooltip "Indsæt">
-<!ENTITY calendar.print.button.tooltip "Udskriv kalender">
-
-<!ENTITY calendar.cut.button.label "Klip">
-<!ENTITY calendar.copy.button.label "Kopier">
-<!ENTITY calendar.paste.button.label "Indsæt">
+<!ENTITY calendar.newtask.button.label "Ny opgave">
 <!ENTITY calendar.print.button.label "Udskriv">
 
-<!ENTITY calendar.import.button.tooltip "Importer: Importer begivenheder fra en lokal fil.">
-<!ENTITY calendar.export.button.tooltip "Eksporter: Eksporter begivenheder til en lokal fil.">
-<!ENTITY calendar.subscribe.button.tooltip "Abonner: Abonner på en kalender på en anden computer.">
-<!ENTITY calendar.publish.button.tooltip "Udgiv: Udgiv begivenheder til en anden computer.">
-
 <!ENTITY calendar.export.calendar "Eksporter kalender²">
-
-<!ENTITY calendar.import.button.label "Importer">
-<!ENTITY calendar.export.button.label "Eksporter">
-<!ENTITY calendar.subscribe.button.label "Abonner">
-<!ENTITY calendar.publish.button.label "Udgiv">
-<!ENTITY calendar.unifinder.button.label "Find begivenheder">
-
-<!ENTITY calendar.remotereload.button.label "Genindlæs">
-<!ENTITY calendar.remotereload.button.tooltip "Genindlæs fjernkalendere">
 
 <!ENTITY calendar.day.button.label "Dag">
 <!ENTITY calendar.week.button.label "Uge">
@@ -169,17 +127,7 @@
 <!ENTITY calendar.orientation.label "Roter visning">
 <!ENTITY calendar.orientation.accesskey "R">
 
-<!ENTITY calendar.menu.options.close.key "L">
-
 <!ENTITY calendar.search.options.searchfor "indeholder">
-
-<!ENTITY calendar.menu.numberofweeks.label "Antal uger">
-<!ENTITY calendar.menu.numberofweeks.accesskey "n">
-<!ENTITY calendar.menu.numberofweeks.2 "2 uger">
-<!ENTITY calendar.menu.numberofweeks.3 "3 uger">
-<!ENTITY calendar.menu.numberofweeks.4 "4 uger">
-<!ENTITY calendar.menu.numberofweeks.5 "5 uger">
-<!ENTITY calendar.menu.numberofweeks.6 "6 uger">
 
 <!ENTITY calendar.list.header.label "Kalender">
 
@@ -199,31 +147,22 @@
 <!ENTITY calendar.task.filter.open.label "Ufuldførte opgaver">
 <!ENTITY calendar.task.filter.open.accesskey "u">
 
-<!ENTITY calendar.task.details.title.label "Titel:">
-<!ENTITY calendar.task.details.organizer.label "Fra:">
-<!ENTITY calendar.task.details.priority2.label "Prioritet:">
-<!ENTITY calendar.task.details.priority.low.label "Lav">
-<!ENTITY calendar.task.details.priority.normal.label "Normal">
-<!ENTITY calendar.task.details.priority.high.label "Høj">
-<!ENTITY calendar.task.details.status.label "Status:">
-<!ENTITY calendar.task.details.category.label "Kategori:">
-<!ENTITY calendar.task.details.repeat.label "Gentag:">
+<!ENTITY calendar.task-details.title.label "titel">
+<!ENTITY calendar.task-details.organizer.label "fra">
+<!ENTITY calendar.task-details.priority.label "prioritet">
+<!ENTITY calendar.task-details.priority.low.label "Lav">
+<!ENTITY calendar.task-details.priority.normal.label "Normal">
+<!ENTITY calendar.task-details.priority.high.label "Høj">
+<!ENTITY calendar.task-details.status.label "status">
+<!ENTITY calendar.task-details.category.label "kategori">
+<!ENTITY calendar.task-details.repeat.label "gentag">
 
 <!ENTITY calendar.task.category.button.tooltip "Kategoriser opgaver">
 <!ENTITY calendar.task.complete.button.tooltip "Marker valgte opgaver som fuldførte">
 <!ENTITY calendar.task.priority.button.tooltip "Skift vigtighed">
-<!ENTITY calendar.task.delete.button.tooltip "Slet de valgte opgaver">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Dokument: Færdig">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label "Tilpas...">
-<!ENTITY calendar.context.customize.accesskey "T">
-<!ENTITY calendar.menu.customize.label "Tilpas værktøjslinje...">
-<!ENTITY calendar.menu.customize.accesskey "T">
-<!ENTITY calendar.maintoolbar.name "Hovedværktøjslinjen">
-<!ENTITY calendar.maintoolbar.accesskey "H">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label "Åbn">
@@ -365,10 +304,9 @@
 <!ENTITY calendarproperties.firealarms.label "Vis alarmer">
 <!ENTITY calendarproperties.cache.label "Cache (EKSPERIMENTELT! kræver genstart)">
 <!ENTITY calendarproperties.enabled.label "Slå denne kalender til">
-
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label "Indhold i hjælp">
-<!ENTITY calendar.help.accesskey "H">
+<!ENTITY calendarproperties.forceDisabled.label "Kunne ikke finde kalenderens udgiver. Dette kan ofte ske, hvis du afinstallerer eller slår en bestemt udvidelse fra.">
+<!ENTITY calendarproperties.unsubscribe.label "Stop abonnement">
+<!ENTITY calendarproperties.unsubscribe.accesskey "A">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title "Udgiv kalender">
@@ -395,10 +333,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detaljer...">
-<!ENTITY calendar.error.number "Fejlnummer:">
+<!ENTITY calendar.error.code "Fejlkode:">
 <!ENTITY calendar.error.description "Beskrivelse:">
 <!ENTITY calendar.error.title "Der er opstået en fejl">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">

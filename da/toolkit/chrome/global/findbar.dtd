@@ -13,7 +13,7 @@
 <!ENTITY highlight.accesskey "a">
 <!ENTITY highlight.tooltiptext "Fremhæv alle forekomster af sætningen">
 <!ENTITY caseSensitiveCheckbox.label "Forskel på store og små bogstaver">
-<!ENTITY caseSensitiveCheckbox.accesskey "s">
+<!ENTITY caseSensitiveCheckbox.accesskey "b">
 
 
 
