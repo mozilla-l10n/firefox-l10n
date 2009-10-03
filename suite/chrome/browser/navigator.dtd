@@ -122,7 +122,7 @@
 <!ENTITY manBookmarksCmd.accesskey "B">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Abonner på denne siden">
-<!ENTITY feedsMenu.accesskey "A">
+<!ENTITY feedsMenu.accesskey "o">
 <!ENTITY emptyItem.label "(Tom)">
 
 <!ENTITY menuBar.tooltip                  "Menylinje">
