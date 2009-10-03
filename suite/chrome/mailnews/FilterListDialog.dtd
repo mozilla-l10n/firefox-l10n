@@ -1,4 +1,4 @@
-<!ENTITY window.title "Meldingsfiltre">
+<!ENTITY filterListDialog.title "Meldingsfiltre">
 <!ENTITY nameColumn.label "Filternavn">
 <!ENTITY activeColumn.label "Påslått">
 <!ENTITY newButton.label "Nytt …">
@@ -24,5 +24,3 @@
 <!ENTITY folderPickerPrefix.accesskey "U">
 <!ENTITY choosethis.label "velg denne mappen">
 <!ENTITY choosethisnewsserver.label "velg denne nyhetsgruppetjeneren">
-<!ENTITY helpButton.label "Hjelp">
-<!ENTITY helpButton.accesskey "H">

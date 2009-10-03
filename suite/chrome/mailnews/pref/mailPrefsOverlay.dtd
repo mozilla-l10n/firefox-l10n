@@ -18,4 +18,4 @@
 <!ENTITY junk.label                       "Søppelpost">
 <!ENTITY tags.label                       "Etiketter">
 <!ENTITY characterEncoding.label          "Tegnkoding">
-<!ENTITY offline.label                    "Frakoblet og diskplass">
+<!ENTITY networkStorage.label             "Nettverk og lagring">
