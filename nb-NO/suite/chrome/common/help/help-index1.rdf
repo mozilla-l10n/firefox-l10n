@@ -224,6 +224,16 @@
          nc:link="customize_help.xhtml#specifying_a_starting_page"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="browser:session_restore"
+         nc:name="session restore"
+         nc:link="customize_help.xhtml#session_restore"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:crash_recovery"
+         nc:name="crash recovery"
+         nc:link="customize_help.xhtml#session_restore"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="browser:start_up_components"
          nc:name="start up components"
          nc:link="customize_help.xhtml#specifying_which_components_open_at_launch"/>
@@ -771,11 +781,6 @@
      <rdf:li>
        <rdf:Description ID="import"
          nc:name="import"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="intermediate_server_CA_certificates"
-         nc:name="intermediate server CA certificates"
-         nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1158,6 +1163,11 @@
          nc:link="mail_help.xhtml#searching_through_messages"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:network_preferences"
+         nc:name="Mail and Newsgroups Network preferences"
+         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
          nc:name="offline synchronization settings"
          nc:link="mail_help.xhtml#synchronization_and_storage"/>
@@ -1319,7 +1329,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Offline:general_preferences"
          nc:name="offline preferences"
-         nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/>
+         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
@@ -1660,11 +1670,6 @@
        <rdf:Description ID="profiles:renaming"
          nc:name="renaming a profile"
          nc:link="profiles_help.xhtml#deleting_or_renaming_a_profile"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="profiles:roaming"
-         nc:name="roaming profile"
-         nc:link="profiles_help.xhtml#roaming_profiles"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1747,11 +1752,6 @@
        <rdf:Description ID="security_devices"
          nc:name="security devices"
          nc:link="using_certs_help.xhtml#about_security_devices_and_modules"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="server_certificate_problems"
-         nc:name="server certificate problems"
-         nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="settings"
