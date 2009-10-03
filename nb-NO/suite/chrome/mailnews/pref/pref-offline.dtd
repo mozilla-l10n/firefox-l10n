@@ -18,11 +18,11 @@
 <!ENTITY radioAskUnsent                   "Spør meg om jeg vil sende usendte meldinger">
 <!ENTITY radioAskUnsent.accesskey         "S">
 <!ENTITY textGoingOffline                 "Last ned meldinger når jeg kobler fra?">
-<!ENTITY radioAutoDownload                "Automatisk last ned meldinger for frakoblet bruk">
+<!ENTITY radioAutoDownload                "Ja">
 <!ENTITY radioAutoDownload.accesskey      "J">
-<!ENTITY radioNotDownload                 "Ikke last ned meldinger for frakoblet bruk">
+<!ENTITY radioNotDownload                 "Nei">
 <!ENTITY radioNotDownload.accesskey       "N">
-<!ENTITY radioAskDownload                 "Spør meg om jeg vil laste ned meldinger for frakoblet bruk">
+<!ENTITY radioAskDownload                 "Spør meg">
 <!ENTITY radioAskDownload.accesskey       "e">
 <!ENTITY mailConnections.caption          "E-posttilkoblinger">
 <!ENTITY mailnewsTimeout.label            "Tidsavbrudd:">

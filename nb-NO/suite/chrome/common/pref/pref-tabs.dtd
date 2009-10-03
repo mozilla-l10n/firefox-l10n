@@ -18,11 +18,11 @@
 <!ENTITY external.label "Lenker fra andre programmer">
 <!ENTITY externalDescription.label "Åpne lenker sendt fra andre programmer i">
 <!ENTITY openCurrent.label "Den aktive fanen/vinduet">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
-<!ENTITY externalGroupCurrent.accesskey "u">
+<!ENTITY newWindowGroupCurrent.accesskey "D">
+<!ENTITY externalGroupCurrent.accesskey "e">
 <!ENTITY openTab.label "En ny fane i aktivt vindu">
-<!ENTITY newWindowGroupTab.accesskey "n">
-<!ENTITY externalGroupTab.accesskey "e">
+<!ENTITY newWindowGroupTab.accesskey "y">
+<!ENTITY externalGroupTab.accesskey "f">
 <!ENTITY openWindow.label "Et nytt vindu">
-<!ENTITY newWindowGroupWindow.accesskey "w">
-<!ENTITY externalGroupWindow.accesskey "o">
+<!ENTITY newWindowGroupWindow.accesskey "v">
+<!ENTITY externalGroupWindow.accesskey "u">
