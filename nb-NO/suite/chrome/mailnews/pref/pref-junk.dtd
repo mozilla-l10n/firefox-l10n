@@ -58,3 +58,15 @@
 <!ENTITY openJunkLog.accesskey          "V">
 <!ENTITY resetTrainingData.label        "Tilbakestill treningsdata">
 <!ENTITY resetTrainingData.accesskey    "T">
+
+<!ENTITY pref.suspectMail.caption       "Mistenkelig e-post">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "E-postsvindler">
+<!ENTITY enablePhishingDetector.label     "Fortell meg dersom meldingen jeg viser er en mistenkt e-postsvindel">
+<!ENTITY enablePhishingDetector.accesskey "F">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "Antivirus">
+<!ENTITY antiVirus.label                  "Tillat antivirusprogrammer å skanne innkommende meldinger enklere">
+<!ENTITY antiVirus.accesskey              "T">
