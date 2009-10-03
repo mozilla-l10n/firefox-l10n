@@ -1,16 +1,16 @@
 <!ENTITY aboutDialog.title "O aplikaci &brandShortName;">
-<!ENTITY credits.label "Autoři a spolupracovníci">
+<!ENTITY credits.label "Autoři">
 <!ENTITY credits.accesskey "A">
 <!ENTITY aboutButton.label "&lt; Zpět">
 <!ENTITY aboutButton.accesskey "Z">
 <!ENTITY aboutVersion "verze">
-<!ENTITY copyrightText "&#169;1998-2005 Autoři a spolupracovníci. Všechna práva vyhrazena. Mozilla Thunderbird a loga Thunderbird jsou ochranné známky Mozilla Foundation. Všechna práva vyhrazena.">
+<!ENTITY copyrightText "&#169;1998-2005 přispěvatelé. Všechna práva vyhrazena. Mozilla Thunderbird a loga Thunderbird jsou ochranné známky Mozilla Foundation. Všechna práva vyhrazena.">
 
 
-<!ENTITY aboutMenu.label        "O aplikaci">
-<!ENTITY aboutMenu.accesskey    "O">
-<!ENTITY aboutRights.label      "Vaše práva">
-<!ENTITY aboutRights.accesskey  "V">
+<!ENTITY aboutMenu.label "O aplikaci">
+<!ENTITY aboutMenu.accesskey "O">
+<!ENTITY aboutRights.label "Vaše práva">
+<!ENTITY aboutRights.accesskey "V">
 <!ENTITY aboutContributors.label "Přispěvatelé">
 <!ENTITY aboutContributors.accesskey "P">
 

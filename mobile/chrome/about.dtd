@@ -4,11 +4,11 @@
 <!ENTITY aboutPage.privacyPolicy.label "Zásady ochrany soukromí">
 <!ENTITY aboutPage.rights.label "Poznejte svá práva">
 <!ENTITY aboutPage.relNotes.label "Poznámky k vydání">
-<!ENTITY aboutPage.credits.label "Autoři a spolupracovníci">
+<!ENTITY aboutPage.credits.label "Autoři">
 
 <!-- LOCALIZATION NOTE:
  These strings are concatenated in order. Unneeded strings may be left blank.
  -->
-<!ENTITY aboutPage.copyrightInfo1 "&#169;1998-2009 Přispěvatelé. Všechna práva vyhrazena. (">
+<!ENTITY aboutPage.copyrightInfo1 "&#169;1998-2009 přispěvatelé. Všechna práva vyhrazena. (">
 <!ENTITY aboutPage.licenseLink "licenční informace">
 <!ENTITY aboutPage.copyrightInfo2 ").">

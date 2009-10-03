@@ -1,5 +1,5 @@
 <!ENTITY aboutDialog.title "O aplikaci &brandFullName;">
-<!ENTITY copyright "Autoři a spolupracovníci">
+<!ENTITY copyright "Autoři">
 <!ENTITY copyright.accesskey "A">
 <!ENTITY copyrightGNOME.accesskey "A">
 <!ENTITY aboutLink "&lt; O aplikaci &brandFullName;">
@@ -7,7 +7,7 @@
 <!ENTITY aboutVersion "verze">
 <!ENTITY closeCmdGNOME.label "Zavřít">
 <!ENTITY closeCmdGNOME.accesskey "Z">
-<!ENTITY copyrightInfo1 "&#169;1998-2008 Přispěvatelé. Všechna práva vyhrazena. (">
+<!ENTITY copyrightInfo1 "&#169;1998-2008 přispěvatelé. Všechna práva vyhrazena. (">
 <!ENTITY licenseLink "about:license">
 <!ENTITY licenseLinkText "licenční informace">
 <!ENTITY copyrightInfo2 ").">

@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip "První stránka">
 <!ENTITY endarrow.tooltip "Poslední stránka">
-<!ENTITY rightarrow.tooltip "Další stránka">
-<!ENTITY leftarrow.tooltip "Předchozí stránka">
+<!ENTITY nextarrow.tooltip "Další stránka">
+<!ENTITY previousarrow.tooltip "Předchozí stránka">
