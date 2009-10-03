@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "T">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Tjekker for opdateringer til dine tilføjelser">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Tjekker for opdateringer til dine temaer">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Tjekker for opdateringer til fine plugins">
 <!ENTITY cmd.installLocalFile.label       "Installer…">
 <!ENTITY cmd.installLocalFile.accesskey        "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Installer en tilføjelse">
 <!ENTITY cmd.installFileTheme.tooltip     "Installer et tema">
-<!ENTITY cmd.installUpdatesAll.label      "Installer opdateringer">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Installerer de valgte opdateringer">
+<!ENTITY cmd.installUpdatesAll2.label      "Installer opdateringer">
+<!ENTITY cmd.installUpdatesAll2.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip    "Installerer de valgte opdateringer">
 <!ENTITY cmd.restartApp2.label             "Genstart &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey         "G">
 <!ENTITY cmd.restartApp2.tooltip           "Genstart &brandShortName; for at tage ændringerne i brug">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Yderligere moduler påkrævet.">
 <!ENTITY blocklisted.label                "Deaktiveret for din sikkerheds skyld.">
 <!ENTITY softBlocklisted.label            "Kendt for at være skyld i sikkerheds- eller stabilitetsproblemer.">
+<!ENTITY outdated.label                   "En nyere, mere sikker version er tilgængelig.">
 <!ENTITY toBeDisabled.label               "Denne tilføjelse vil blive deaktiveret når &brandShortName; bliver genstartet.">
 <!ENTITY toBeEnabled.label                "Denne tilføjelse vil blive aktiveret når &brandShortName; bliver genstartet.">
 <!ENTITY toBeInstalled.label              "Denne tilføjelse vil blive installeret når &brandShortName; bliver genstartet.">

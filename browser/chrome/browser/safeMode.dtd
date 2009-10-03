@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Nulstil værktøjslinjer">
 <!ENTITY resetToolbars.accesskey      "v">
 
-<!ENTITY resetBookmarks.label         "Nulstil bogmærker til standard for &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "Slet alle bogmærker bortset fra sikkerhedskopier">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "Nulstil alle indstillinger til standard for &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "a">

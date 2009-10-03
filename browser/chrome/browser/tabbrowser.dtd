@@ -9,6 +9,8 @@
 <!ENTITY  reloadAllTabs.accesskey         "a">
 <!ENTITY  reloadTab.label        "Genindlæs faneblad">
 <!ENTITY  reloadTab.accesskey         "G">
+<!ENTITY  openTabInNewWindow.label    "Åbn i et nyt vindue">
+<!ENTITY  openTabInNewWindow.accesskey "v">
 <!ENTITY  listAllTabs.label      "Vis alle faneblade">
 <!ENTITY  bookmarkAllTabs.label       "Bogmærk alle faneblade…">
 <!ENTITY  bookmarkAllTabs.accesskey   "o">

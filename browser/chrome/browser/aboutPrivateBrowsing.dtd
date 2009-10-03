@@ -1,10 +1,10 @@
 <!ENTITY privatebrowsingpage.title                 "Privat browsing">
-<!ENTITY privatebrowsingpage.title.normal          "Ønsker du at starte Privat browsing?">
+<!ENTITY privatebrowsingpage.title.normal          "Ønsker du at surfe privat?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; vil ikke huske nogen historik i denne session.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; er lige nu ikke i Privat browsing tilstand.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; vil ikke huske historik i denne session.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; er lige nu ikke i Privat browsing-tilstand.">
 
-<!ENTITY privatebrowsingpage.description               "I en Privat browsing session vil &brandShortName; ikke lagre nogen informationer om hvor du har browset, hvad du har søgt efter, hentet eller indtastet i formularer. Der bliver heller ikke gemt cookies eller midlertidige internetfiler. Hentede filer og nyoprettede bogmærker vil dog blive gemt.">
+<!ENTITY privatebrowsingpage.description               "I en Privat browsing-session vil &brandShortName; ikke gemme informationer om hvor du har været, hvad du har søgt efter, hentet eller indtastet i formularer. Der bliver heller ikke gemt cookies eller midlertidige internetfiler. Hentede filer og nyoprettede bogmærker vil dog blive gemt.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
@@ -15,8 +15,8 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start Privat browsing">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "For at afslutte Private browsing, vælg &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller luk &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "For at state Private browsing kan du også vælge &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop                 "For at afslutte Privat browsing, vælg &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller luk &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "For at state Privat browsing kan du også vælge &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Selvom denne computer ikke vil lagre nogen informationer om hvor du har browser, så vil din internetudbyder eller arbejdsgiver stadig kunne følge, hvilke sider, du besøger.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Selvom denne computer ikke vil gemme informationer om hvor du har været, så vil din internetudbyder eller arbejdsgiver stadig kunne følge hvilke sider du besøger.">
 <!ENTITY privatebrowsingpage.learnMore                 "Lær mere">

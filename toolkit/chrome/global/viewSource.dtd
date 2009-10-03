@@ -52,7 +52,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.label "Syntaksfremhævning">
 <!ENTITY menu_highlightSyntax.accesskey "S">
 <!ENTITY menu_textSize.label "Tekststørrelse">
-<!ENTITY menu_textSize.accesskey "T">
+<!ENTITY menu_textSize.accesskey "e">
 <!ENTITY menu_textEnlarge.label "Forstør tekst">
 <!ENTITY menu_textEnlarge.accesskey "F">
 <!ENTITY menu_textReduce.label "Formindsk tekst">

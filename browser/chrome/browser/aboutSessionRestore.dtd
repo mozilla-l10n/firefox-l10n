@@ -1,13 +1,14 @@
-<!ENTITY restorepage.tabtitle       "Genskab tidligere session">
-<!ENTITY restorepage.pagetitle      "Ønsker du at genskabe din session?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Din sidste &brandShortName; session sluttede uventet. Vi beklager dybt for ulejligheden. Du kan genskabe faneblade og vinduer fra din tidligere session eller starte en ny session, hvis du ikke længere har brug for dem.">
-<!ENTITY restorepage.remedies       "Hvis &brandShortName; gentagende gange lukker:">
-<!ENTITY restorepage.dueToChrome    "Prøv at deaktivere nyligt tilføjede udvidelser under Tilføjelser.">
-<!ENTITY restorepage.dueToContent   "Prøv at genskabe din session uden nogen hjemmeside, du mistænker for at være grund i nedbrudet:">
+<!ENTITY restorepage.tabtitle       "Genskab session">
 
-<!ENTITY restorepage.restoreButton  "Genskab tidligere session">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Se, det her er pinligt...">
+<!ENTITY restorepage.problemDesc    "&brandShortName; har problemer med at genskabe dine vinduer og faneblade. Dette skyldes typisk en nyligt åbnet hjemmeside.">
+<!ENTITY restorepage.tryThis        "Du  kan forsøge at:">
+<!ENTITY restorepage.restoreSome    "Fjerne et eller flere faneblade som du tror er skyld i problemet">
+<!ENTITY restorepage.startNew       "Starte en helt ny browser session">
+
+<!ENTITY restorepage.tryagainButton "Genskab">
 <!ENTITY restorepage.restore.access "G">
 <!ENTITY restorepage.cancelButton   "Start en ny session">
 <!ENTITY restorepage.cancel.access  "S">

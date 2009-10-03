@@ -31,12 +31,12 @@
 <!ENTITY importFromEpiphany.accesskey   "E">
 <!ENTITY importFromGaleon.label         "Galeon">
 <!ENTITY importFromGaleon.accesskey     "G">
-<!ENTITY importFromHTMLFile.label       "Fra en HTML-fil">
+<!ENTITY importFromHTMLFile.label       "en HTML-fil…">
 <!ENTITY importFromHTMLFile.accesskey   "H">
 
 <!ENTITY noMigrationSources.label       "Der blev ikke fundet nogle programmer, der indeholder bogmærker, historik eller adgangskoder.">
 
-<!ENTITY importSource.title             "Importer indstillinger og data fra">
+<!ENTITY importSource.title             "Importer indstillinger og data">
 <!ENTITY importItems.title              "Objekter som skal importeres">
 <!ENTITY importItems.label              "Vælg hvilke objekter, der skal importeres:">
 

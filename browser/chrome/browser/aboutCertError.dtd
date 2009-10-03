@@ -15,8 +15,8 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om at oprette en
 sikker forbindelse til <b>#1</b>, men vi kan ikke bekræfte at denne forbindelse er sikker.">
 <!ENTITY certerror.introPara2 "Normalt, når du opretter en sikker forbindelse, vil webstedet
-bekræfte sig med gyldig identifikation for at bekræfte at du forbinder til det rigtige
-sted. Derimod kan dette websteds identifikation ikke bekræftes.">
+identificere sig med gyldig identifikation for at bekræfte at du forbinder til det rigtige
+sted. Dette websteds identifikation kan dog ikke bekræftes.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Hvad skal jeg gøre?">
 <!ENTITY certerror.whatShouldIDo.content "Hvis du uden problemer plejer at kunne oprette

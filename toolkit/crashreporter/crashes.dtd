@@ -3,4 +3,4 @@
 <!ENTITY date.heading               "Indsendelsesdato">
 <!ENTITY noReports.label            "Du har ikke indsendt nogle fejlrapporter.">
 <!ENTITY noConfig.label             "Dette program er ikke konfigureret til at vise fejlrapporter. Indstillingen <code>breakpad.reportURL</code> skal være sat.">
-<!ENTITY clearReports.label         "Fjern fejlrapporter">
+<!ENTITY clearAllReports.label      "Fjern alle fejlrapporter">
