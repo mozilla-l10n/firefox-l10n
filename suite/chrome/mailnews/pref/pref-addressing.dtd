@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.addressing.title "Adresler">
-<!ENTITY emailCollectiontitle.label "Email Address Collection">
+<!ENTITY emailCollectiontitle.label "Toplanmış adresler">
 <!ENTITY emailCollectionPicker.label "Add email addresses to my:">
 <!ENTITY emailCollectionPicker.accesskey "m">
 <!ENTITY emailCollectiontext.label "Email addresses from outgoing messages can be automatically added to a local address book.">

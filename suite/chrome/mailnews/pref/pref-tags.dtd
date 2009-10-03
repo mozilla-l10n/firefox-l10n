@@ -46,9 +46,9 @@
 <!ENTITY addTagButton.accesskey "E">
 <!ENTITY deleteTagButton.label "Sil">
 <!ENTITY deleteTagButton.accesskey "S">
-<!ENTITY raiseTagButton.label "Raise Importance">
-<!ENTITY raiseTagButton.accesskey "R">
-<!ENTITY lowerTagButton.label "Lower Importance">
-<!ENTITY lowerTagButton.accesskey "L">
+<!ENTITY raiseTagButton.label "Önemlilik derecesini arttır">
+<!ENTITY raiseTagButton.accesskey "n">
+<!ENTITY lowerTagButton.label "Önemlilik derecesini azalt">
+<!ENTITY lowerTagButton.accesskey "e">
 <!ENTITY restoreButton.label "Öntanımlı değerler">
 <!ENTITY restoreButton.accesskey "ğ">

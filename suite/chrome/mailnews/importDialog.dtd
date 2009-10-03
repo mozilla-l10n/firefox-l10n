@@ -36,7 +36,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY importDialog.windowTitle "İçeri Aktarma">
+<!ENTITY importDialog.windowTitle "İçe aktarım">
 <!ENTITY importAll.label "Her şeyi içe aktar">
 <!ENTITY importAll.accesskey "H">
 <!ENTITY importMail.label "E-posta">

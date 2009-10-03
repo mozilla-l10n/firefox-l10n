@@ -41,8 +41,8 @@
 
 <!ENTITY toButton.label "Kime->">
 <!ENTITY toButton.accesskey "K">
-<!ENTITY ccButton.label "Cc->">
-<!ENTITY ccButton.accesskey "C">
+<!ENTITY ccButton.label "Kopya->">
+<!ENTITY ccButton.accesskey "K">
 <!ENTITY bccButton.label "Bcc->">
 <!ENTITY bccButton.accesskey "B">
 <!ENTITY newButton.label "Yeni…">
@@ -53,9 +53,9 @@
 <!ENTITY removeButton.accesskey "r">
 <!ENTITY lookIn.label "İçine bak:">
 <!ENTITY lookIn.accesskey "i">
-<!ENTITY for.label "for:">
-<!ENTITY for.accesskey "f">
-<!ENTITY addressMessageTo.label "Address message to:">
+<!ENTITY for.label "amaç:">
+<!ENTITY for.accesskey "a">
+<!ENTITY addressMessageTo.label "İleti alıcısı:">
 <!-- Tooltips items -->  
 
 <!ENTITY addressPickerNewButton.tooltip "Yeni adres defteri kartı oluştur">

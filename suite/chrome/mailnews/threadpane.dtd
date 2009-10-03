@@ -48,7 +48,7 @@
 <!ENTITY sizeColumn.label "Boyut">
 <!ENTITY junkStatusColumn.label "Gereksiz durumu">
 <!ENTITY unreadColumn.label "Dizilimde okunmamış">
-<!ENTITY totalColumn.label "Total in Thread">
+<!ENTITY totalColumn.label "Dizilimdeki toplam">
 <!ENTITY readColumn.label "Okunmuş">
 <!ENTITY receivedColumn.label "Tarih">
 <!ENTITY flagColumn.label "Flag">
