@@ -69,7 +69,7 @@
 <!ENTITY ShrinkToFit.label "Dostosuj do szerokości strony" >
 <!ENTITY customPrompt.title "Skalowanie…" >
 
-<!ENTITY homearrow.tooltip    "Pierwsza strona">
-<!ENTITY endarrow.tooltip     "Ostatnia strona">
-<!ENTITY rightarrow.tooltip   "Następna strona">
-<!ENTITY leftarrow.tooltip    "Poprzednia strona">
+<!ENTITY homearrow.tooltip     "Pierwsza strona">
+<!ENTITY endarrow.tooltip      "Ostatnia strona">
+<!ENTITY nextarrow.tooltip     "Następna strona">
+<!ENTITY previousarrow.tooltip "Poprzednia strona">
