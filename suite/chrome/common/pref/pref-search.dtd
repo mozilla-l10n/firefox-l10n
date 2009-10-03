@@ -11,7 +11,7 @@
 <!ENTITY openSidebarSearchPanel.accesskey "Å">
 
 <!ENTITY openContextSearchTab.label       "Åpne en fane istedenfor et nytt vindu for nettsøk fra kontekstmenyen">
-<!ENTITY openContextSearchTab.accesskey   "Å">
+<!ENTITY openContextSearchTab.accesskey   "n">
 
 <!ENTITY searchResults.label              "Søkeresultater">
 

@@ -13,7 +13,7 @@
 <!ENTITY findAsYouTypeSound.label "Spill av en lyd når tekst ikke ble funnet">
 <!ENTITY findAsYouTypeSound.accesskey "S">
 <!ENTITY findAsYouTypeEnableAuto.label "Søk etter følgende elementer på siden mens du skriver:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "A">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "ø">
 <!ENTITY findAsYouTypeAutoText.label "Hvilken som helst tekst på siden">
 <!ENTITY findAsYouTypeAutoText.accesskey "H">
 <!ENTITY findAsYouTypeAutoLinks.label "Bare lenker">
