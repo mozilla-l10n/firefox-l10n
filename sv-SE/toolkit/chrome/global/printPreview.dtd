@@ -70,5 +70,5 @@
 
 <!ENTITY homearrow.tooltip    "Första sidan">
 <!ENTITY endarrow.tooltip     "Sista sidan">
-<!ENTITY rightarrow.tooltip   "Nästa sida">
-<!ENTITY leftarrow.tooltip    "Föregående sida">
+<!ENTITY nextarrow.tooltip    "Nästa sida">
+<!ENTITY previousarrow.tooltip "Föregående sida">
