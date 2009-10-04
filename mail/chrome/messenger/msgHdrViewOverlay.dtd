@@ -78,6 +78,8 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "P">
 <!ENTITY hdrViewToolbarShowText.label "Tekst alleen tonen">
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Altijd afzender beantwoorden tonen">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "b">
 
 <!ENTITY otherActionsButton.label "andere acties">
 <!ENTITY otherActionsShowConversation.label "In conversatie tonen">
