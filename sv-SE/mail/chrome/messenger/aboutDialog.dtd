@@ -13,5 +13,7 @@
 <!ENTITY aboutRights.accesskey  "D">
 <!ENTITY aboutContributors.label "Medarbetare">
 <!ENTITY aboutContributors.accesskey "e">
+<!ENTITY aboutLicense.label      "Licens">
+<!ENTITY aboutLicense.accesskey  "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">
