@@ -69,6 +69,8 @@
 <!ENTITY trashButton.tooltiptext "ta bort">
 
 <!ENTITY otherActionsButton.label "andra åtgärder">
+<!ENTITY otherActionsShowConversation.label "visa i konversation">
+<!ENTITY otherActionsShowConversation.accesskey "k">
 <!ENTITY otherActionsOpenInNewWindow.label "öppna i nytt fönster">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "ö">
 <!ENTITY otherActionsOpenInNewTab.label "öppna i ny flik">
