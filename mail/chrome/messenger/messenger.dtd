@@ -756,8 +756,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Serviços">
-<!ENTITY hideThisAppCmdMac.label "Ocultar &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "O">
+<!ENTITY hideThisAppCmdMac.label "Esconder o &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "E">
 <!ENTITY hideThisAppCmdMac.modifiers "accel">
 <!ENTITY hideOtherAppsCmdMac.label "Ocultar Outros">
 <!ENTITY hideOtherAppsCmdMac.commandkey "c">
