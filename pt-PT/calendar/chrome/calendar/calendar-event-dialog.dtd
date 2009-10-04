@@ -130,7 +130,7 @@
 <!ENTITY  event.menu.options.timezone.accesskey           "s">
 <!ENTITY  event.menu.options.priority2.label               "Importância">
 <!ENTITY  event.menu.options.priority2.accesskey           "m">
-<!ENTITY  event.menu.options.priority.notspecified.label          "Não específicado">
+<!ENTITY  event.menu.options.priority.notspecified.label          "Não especificado">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey      "n">
 <!ENTITY  event.menu.options.priority.low.label           "Baixa">
 <!ENTITY  event.menu.options.priority.low.accesskey       "B">

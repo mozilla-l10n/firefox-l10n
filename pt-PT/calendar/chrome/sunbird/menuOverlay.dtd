@@ -59,7 +59,7 @@
 <!ENTITY calendar.pagesetup.label               "Configurar Página…">
 <!ENTITY calendar.pagesetup.accesskey           "u">
 
-<!ENTITY calendar.subscribe.label               "Subscrever a calendário Remoto…">
+<!ENTITY calendar.subscribe.label               "Subscrever Calendário Remoto…">
 <!ENTITY calendar.subscribe.accesskey           "R">
 
 <!ENTITY calendar.reloadserver.label            "Recarregar Calendários Remotos">
