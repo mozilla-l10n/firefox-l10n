@@ -60,13 +60,29 @@
 
 <!ENTITY editMessageDescription.label "Det här är ett utkast">
 <!ENTITY editMessageButton.label "Redigera…">
-<!ENTITY archiveButton.label "arkivera">
+<!ENTITY hdrArchiveButton.label "arkivera">
+<!ENTITY hdrArchiveButton.tooltip "arkivera meddelandet">
 <!ENTITY hdrReplyButton.label "svara">
+<!ENTITY hdrReplyButton.tooltip "besvara meddelandet">
 <!ENTITY hdrReplyAllButton.label "svara alla">
+<!ENTITY hdrReplyAllButton.tooltip "svara avsändaren och alla mottagare">
 <!ENTITY hdrReplyListButton.label "svara listan">
+<!ENTITY hdrReplyListButton.tooltip "svara till e-postlistan">
 <!ENTITY hdrForwardButton.label "vidarebefordra">
+<!ENTITY hdrForwardButton.tooltip "vidarebefordra meddelandet">
 <!ENTITY hdrJunkButton.label "skräp">
-<!ENTITY trashButton.tooltiptext "ta bort">
+<!ENTITY hdrJunkButton.tooltip "märk meddelandet som skräp">
+<!ENTITY hdrTrashButton.label "ta bort">
+<!ENTITY hdrTrashButton.tooltip "ta bort meddelandet">
+
+<!ENTITY hdrViewToolbarShowFull.label "Visa ikoner och text">
+<!ENTITY hdrViewToolbarShowFull.accesskey "V">
+<!ENTITY hdrViewToolbarShowIcons.label "Visa endast ikoner">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "e">
+<!ENTITY hdrViewToolbarShowText.label "Visa endast text">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Visa alltid Svara till avsändaren">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "a">
 
 <!ENTITY otherActionsButton.label "andra åtgärder">
 <!ENTITY otherActionsShowConversation.label "visa i konversation">
