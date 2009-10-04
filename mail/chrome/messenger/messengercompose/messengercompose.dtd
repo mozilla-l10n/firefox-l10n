@@ -253,6 +253,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Verwijderen">
 <!ENTITY delete.accesskey "V">
+<!ENTITY removeAttachment.label "Bijlage verwijderen">
+<!ENTITY removeAttachment.accesskey "l">
 <!ENTITY renameAttachment.label "Hernoemen…">
 <!ENTITY renameAttachment.accesskey "H">
 <!ENTITY selectAll.label "Alles selecteren">
